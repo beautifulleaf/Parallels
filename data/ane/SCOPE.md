@@ -68,8 +68,14 @@ and not found; nothing is tagged from memory as if read.
 - **Northwest Semitic:** Deir ʿAlla Combination II, Sefire III, Bar-Rakib,
   the Nerab stelae, and Aramaic Ahiqar (TAD C1.1). The CAL asks not to be
   scraped and offers dumps on request.
-- **Akkadian:** eBL chapters whose reconstruction is not online, e.g. the
-  Neo-Assyrian Atrahasis fragments, the *Aluzinnu* text, and parts of Erra.
+- **Akkadian:** eBL chapters whose reconstruction is not online. The most
+  important loss is **Old Babylonian Atrahasis Tablets II–III**, the plagues,
+  the flood and the gods' hunger after it. eBL lists their manuscripts
+  (BM 78942, MAH 16064) but has no lines yet, and its Fragmentarium gives no
+  transliteration. Only Tablet I (OB), the MB fragments (the boat, the dove)
+  and SB I–III are read; Gilgamesh XI carries the flood. Also missing:
+  Atrahasis SB IV–X and NA, the *Aluzinnu* text, and Erra II–V (eBL has only
+  Tablet I).
   Mari prophecies (ARM 26) and other Old Babylonian letters are not in an
   open lemmatized edition.
 
