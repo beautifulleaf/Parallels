@@ -1,0 +1,410 @@
+# Full read of the ANE corpus, chunk 3: ETCSL 1.6.2 (Lugal-e) to ETCSL 1.8.1.3 (Death of Gilgamesh). Read from the ETCSL Sumerian composite transliterations.
+new_motifs:
+  heaven-impregnates-earth: {label: "Heaven (An) copulates with or impregnates Earth (Ki), who gives birth to a being or plant", cluster: creation}
+  monster-without-father-or-nurse: {label: "The monstrous enemy is a foundling who knew no father and sucked milk without a wet-nurse", cluster: combat}
+  talking-divine-weapon: {label: "A god's personified weapon speaks to him, scouts, reports the enemy's plans and advises him", cluster: combat}
+  monster-usurps-divine-kingship: {label: "The monster sets up a throne, is named king and judges lawsuits, challenging the god's kingship", cluster: combat}
+  stones-as-monster-army: {label: "Named stones and minerals form the army of the mountain monster and raid the cities", cluster: combat}
+  catalogue-of-slain-monsters: {label: "A catalogue of monsters the warrior god has already slain (dragon, six-headed ram, Anzu bird, seven-headed snake...)", cluster: combat}
+  seven-headed-serpent-slain: {label: "A seven-headed serpent is among the monsters slain by the warrior god", cluster: combat}
+  gods-flee-in-terror: {label: "The gods scatter, cower against the walls or hide in corners in terror at the battle", cluster: combat}
+  battle-storm-ravages-birds-fish-beasts: {label: "The divine battle-storm ruins the birds of the sky, the fish of the waters and the wild animals", cluster: combat}
+  father-god-laments-absent-son: {label: "The high god laments that his champion son is not with him: 'who will take me by the hand?'", cluster: combat}
+  god-forbids-extinction-of-species: {label: "The high god orders that the war must not wipe out posterity or the names of the species whose destinies he decreed", cluster: combat}
+  warrior-washes-blood-after-battle: {label: "The victorious god washes his weapons and wipes the blood from his garments and brow after battle", cluster: combat}
+  gods-prostrate-before-victor: {label: "The gods come and prostrate themselves before the victorious warrior god and greet him", cluster: combat}
+  slain-monster-made-into-cosmos: {label: "The slain monster's body is turned into part of the world (stone, mountain, underworld)", cluster: creation}
+  god-decrees-name-henceforth: {label: "A god decrees 'from this day its name shall be X', founding the name of a thing or place", cluster: etiology}
+  gods-bear-corvee-labor: {label: "Before the present order the gods themselves carried hoe and basket as corvee labour", cluster: creation}
+  god-dams-waters-builds-irrigation: {label: "A god piles up stones as a dam, gathers the scattered waters and leads them into the river to irrigate the fields", cluster: creation}
+  god-introduces-plough-and-furrow: {label: "Agriculture (irrigation, the plough, furrows, grain piles) is introduced by a god", cluster: civilization}
+  mountain-yields-wood-metals-honey: {label: "The mountain is blessed to yield herbs, honey, wine, cedars, gold, silver, copper, tin and wild animals", cluster: blessing}
+  curse-explains-natures-of-things: {label: "A god's curse or blessing on creatures for their past conduct explains their present nature and use", cluster: etiology}
+  stones-judged-for-war-conduct: {label: "The victorious god judges each kind of stone by whether it fought for or against him, assigning it honour or degradation", cluster: etiology}
+  first-fruits-offered-at-new-moon: {label: "The first fruits for the gods are placed (on a stone or altar) at the new moon", cluster: cult}
+  diorite-from-magan-for-statues: {label: "Diorite brought from Magan for royal statues set up in the temple's place of libation", cluster: cult}
+  divine-ordinances-inscribed-on-stone: {label: "The god's ordinances are to be inscribed in lines on a stone set up on a pedestal in his courtyard", cluster: law}
+  festival-of-the-dead-spirits: {label: "A festival of the spirits of the dead (ezen gidim) held at a fixed day of the month", cluster: underworld}
+  victor-god-returns-by-boat: {label: "The victorious god returns home in his sacred barge while boatmen sing his praise", cluster: combat}
+  king-restores-shrine-from-dust: {label: "A pious king raises the god's shrine from the dust and performs its rites, and is commended to the god", cluster: kingship}
+  scribal-goddess-holds-tablets: {label: "A goddess of writing (Nisaba) keeps the tablets, measures and accounts and is entrusted with the harvests", cluster: wisdom}
+  sumerian-zami-doxology: {label: "The composition closes with a doxology 'X, be praised' (zami) or 'it is good to praise you'", cluster: cult}
+  tablet-of-destinies: {label: "A tablet of destinies whose possession confers the divine powers and rule", cluster: cosmology}
+  hero-plots-to-seize-world: {label: "The hero, unsatisfied with honours, secretly sets his sights on ruling the whole world", cluster: combat}
+  god-fashions-creature-from-clay: {label: "A god fashions a creature from clay to serve his purpose", cluster: creation}
+  trap-pit-dug-for-hero: {label: "A creature digs a pit into which the proud hero falls and cannot climb out", cluster: combat}
+  gods-create-humans-and-animals: {label: "The great gods fashion the black-headed people and make the animals multiply", cluster: creation}
+  kingship-descends-from-heaven: {label: "Kingship (crown and throne) descends from heaven to earth", cluster: kingship}
+  antediluvian-cities-assigned-to-gods: {label: "The first cities before the flood (Eridug, Bad-tibira, Larag, Zimbir, Šuruppag) are founded and allotted to gods", cluster: flood}
+  goddess-laments-destruction-of-humans: {label: "A goddess laments the destruction of the people decreed by the gods", cluster: flood}
+  gods-bound-by-oath-to-destroy: {label: "The gods are made to swear an oath binding them to the decision to destroy humankind", cluster: flood}
+  divine-assembly-decree-irrevocable: {label: "The verdict of the divine assembly to destroy is declared irrevocable", cluster: flood}
+  flood-lasts-seven-days-and-nights: {label: "The flood storm rages for seven days and seven nights", cluster: flood}
+  sun-god-enters-ark: {label: "The sun god appears after the flood and shines into the boat through an opening the hero makes", cluster: flood}
+  flood-hero-granted-eternal-life: {label: "The gods grant the flood hero life like a god, eternal life", cluster: flood}
+  flood-hero-settled-in-dilmun: {label: "The flood hero is settled in a far land (Dilmun) where the sun rises", cluster: flood}
+  oath-by-heaven-and-earth: {label: "An oath sworn by the life of Heaven and the life of Earth", cluster: cult}
+  primeval-humans-eat-grass: {label: "Before grain, humans ate grass with their mouths like sheep", cluster: civilization}
+  grain-brought-down-from-heaven: {label: "Grain is brought down from heaven by the sky god", cluster: civilization}
+  grain-hidden-in-mountain: {label: "The high god stores the barley inside a mountain and bars it shut", cluster: civilization}
+  gods-fetch-grain-for-humans: {label: "Younger gods plan to bring the hidden grain down from the mountain to the land", cluster: civilization}
+  survivors-of-the-flood-named: {label: "People or offices that 'survived the flood' are named", cluster: flood}
+  raven-set-over-offender: {label: "A goddess seizes a raven and sets it over a bound offender", cluster: nature}
+  goddess-proposes-marriage-to-god: {label: "A goddess comes out and proposes marriage to a god, asking him to tell his father 'let her be my spouse'", cluster: marriage}
+  father-god-blesses-victorious-son: {label: "The father god fixes a blessed destiny for his victorious son: weapon, eternal rule, long life", cluster: kingship}
+  god-asleep-when-appealed-to: {label: "The god the petitioners turn to for help lies sleeping a sound sleep", cluster: cult}
+  god-blesses-river-and-crops: {label: "The high god addresses a watercourse and blesses the land's flax and grain", cluster: blessing}
+units:
+  - id: ane-etcsl-1-6-2-prologue
+    tradition: ane-sumerian
+    title: "Lugal-e: hymnic prologue to Ninurta and the feast at which Šar-ur speaks"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 0-23"]
+    tags:
+      - {motif: divine-warrior, refs: ["ETCSL 1.6.2 1-8"], note: "lugal ud me-lem4-bi nir-ĝal2 ... ur-saĝ me3-še3 ti-na gub-bu: king, storm of majestic splendour, hero striding into battle"}
+      - {motif: storm-theophany-arrows-thunder, refs: ["ETCSL 1.6.2 9"], note: "aga zid ... igi nim ĝir2 du7-du7: makes the tiara flash like lightning; the rainbow (ŠE.TIR-an-na) reading is uncertain"}
+      - {motif: monster-caught-in-gods-net-by-many-peoples, refs: ["ETCSL 1.6.2 13"], note: "{sa}šu2-uš-gal lu2-erim2-ra šu2-a: great battle-net flung over the foe"}
+      - {motif: talking-divine-weapon, refs: ["ETCSL 1.6.2 22-23"], note: "the mace looks towards the mountains; šar2-ur3-e ... lugal-bi-ir gu3 mu-na-de2-e"}
+    hints:
+      - "Compare Ps 18:8-15 and Hab 3:3-15 (the storm-god warrior); Ezek 32:3 (God's net over the dragon)."
+  - id: ane-etcsl-1-6-2-asag-report
+    tradition: ane-sumerian
+    title: "Lugal-e: Šar-ur reports the birth and kingship of the Asag"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 24-69"]
+    tags:
+      - {motif: heaven-impregnates-earth, refs: ["ETCSL 1.6.2 26-27"], note: "an-e ki sig7-ga ĝiš3 im-ma-dug4 ... a2-sag3 mu-un-ši-ib-tu-ud: Heaven copulated with the verdant Earth, she bore the Asag"}
+      - {motif: monster-without-father-or-nurse, refs: ["ETCSL 1.6.2 28-30"], note: "dumu um-me ga nu-tuš-a ... buluĝ3 a-a nu-zu: a child never with a wet-nurse, a foster-child knowing no father, igi teš2 nu-ĝal2-la 'face knows no shame'"}
+      - {motif: monster-usurps-divine-kingship, refs: ["ETCSL 1.6.2 35", "ETCSL 1.6.2 41-42", "ETCSL 1.6.2 53"], note: "the plants name it king (lugal-bi-še3); it sets up a dais (barag ba-ri) and decides the Land's lawsuits; plans to take Ninurta's kingship"}
+      - {motif: stones-as-monster-army, refs: ["ETCSL 1.6.2 37-39"], note: "šu, saĝkal, esi, usium, kagena, nu stones are its warriors (gar3-ra-du-um) raiding the cities"}
+      - {motif: gods-fear-the-monster, refs: ["ETCSL 1.6.2 40", "ETCSL 1.6.2 45-47"], note: "the city-gods bow to it; the mountains bring it offerings (nidba)"}
+      - {motif: weapons-useless-against-monster, refs: ["ETCSL 1.6.2 62-63"], note: "{ĝiš}tukul-e ĝiš la-ba-ab-kiĝ2 ... šukur maḫ-e su-bi nu-dar-e: no weapon overturns it, the axe and spear cannot pierce its flesh"}
+      - {motif: talking-divine-weapon, refs: ["ETCSL 1.6.2 24-69"]}
+    hints:
+      - "Compare Job 40:15-41:26 (Behemoth and Leviathan: weapons useless, gods afraid, 'king over all the proud beasts', Job 41:26)."
+      - "Compare Gen 6:1-4 (giants born of an illicit union) for the monstrous offspring theme."
+  - id: ane-etcsl-1-6-2-first-march
+    tradition: ane-sumerian
+    title: "Lugal-e: Ninurta's war-cry, cosmic convulsion and first march; Šar-ur scouts"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 70-121"]
+    tags:
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["ETCSL 1.6.2 70-72"], note: "an ba-sag3 ki ĝiri3-ni-še3 ba-tuš: heaven trembled, earth huddled at his feet; kur ba-gul, the mountains were devastated"}
+      - {motif: gods-flee-in-terror, refs: ["ETCSL 1.6.2 71-74"], note: "Enlil ba-suḫ3 e2-kur-ra ba-ta-e3; the Anuna disappear over the horizon udu-gin7 'like sheep'"}
+      - {motif: god-rides-cherub-on-wings-of-wind, refs: ["ETCSL 1.6.2 77"], note: "ki-bal-še3 tum9 8 mu-un-u5: he rode on the eight winds towards the rebel lands (no cherub)"}
+      - {motif: rain-of-fire-and-sulfur-cup, refs: ["ETCSL 1.6.2 86"], note: "u3-dub2 i3-šeĝ3 izi i3-sud-sud-sud izi lu2 ba-an-zal-e: it rained coals, flaming fires consumed men"}
+      - {motif: storm-breaks-cedars-of-lebanon, refs: ["ETCSL 1.6.2 87"], note: "ĝiš maḫ ur2-bi-a mu-un-bal-e: overturned tall trees by their trunks, forests to heaps"}
+      - {motif: battle-storm-ravages-birds-fish-beasts, refs: ["ETCSL 1.6.2 92-94"], note: "birds' wings trail on the ground; fish in the engur gasp; animals of the edin roasted like locusts"}
+      - {motif: wicked-melt-like-wax-before-fire, refs: ["ETCSL 1.6.2 95"], note: "a-ĝi6 ... kur gul-gul: a deluge ruining the mountains; interpretive"}
+      - {motif: god-spreads-net-on-birds, refs: ["ETCSL 1.6.2 99-100"], note: "binds the enemy's hands with hirin grass; they dash heads against walls"}
+      - {motif: talking-divine-weapon, refs: ["ETCSL 1.6.2 109-121"], note: "the lion-headed weapon flies like a bird (mušen-gin7 i3-dal-e), circles the horizon and reports the mountains' deliberations"}
+    hints:
+      - "Compare Ps 18:8-16 (earth quakes, God rides a cherub on the wings of the wind, coals of fire); Ps 29:5 (cedars broken); Ps 11:6 (rain of coals)."
+      - "Compare Hos 4:3 and Zeph 1:3 (beasts, birds and fish swept away)."
+  - id: ane-etcsl-1-6-2-asag-attacks
+    tradition: ane-sumerian
+    title: "Lugal-e: Šar-ur's warning, catalogue of slain foes; the Asag attacks and the gods cower"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 122-190"]
+    tags:
+      - {motif: catalogue-of-slain-monsters, refs: ["ETCSL 1.6.2 128-134"], note: "ku-li-an-na, ušum (dragon), niĝ2-babbar2 (gypsum), urud (strong copper), šeg9-saĝ-6 (six-headed wild ram), ma2-gi4-lum boat, saman-an-na, gud-alim (bison), lugal ĝišnimbar (palm king), anzud, muš-saĝ-7"}
+      - {motif: seven-headed-serpent-slain, refs: ["ETCSL 1.6.2 133-134"], note: "muš-saĝ-7 ... kur-ra ḫe2-mu-e-ni-ug5"}
+      - {motif: monster-caught-in-gods-net-by-many-peoples, refs: ["ETCSL 1.6.2 122", "ETCSL 1.6.2 126"], note: "{sa}šu2-uš me3; sa-par3-gin7 u3-mu-e-dub: after gathering the enemy in the battle-net"}
+      - {motif: sun-moon-darkened-stars-withdraw, refs: ["ETCSL 1.6.2 166-167"], note: "{d}utu la-ba-gub {d}suen ba-an-kur9 ... ud esir-re-eš ba-an-du3: the sun did not stand, the moon went in, the day became like pitch"}
+      - {motif: gods-fear-the-monster, refs: ["ETCSL 1.6.2 182-185"], note: "An crouches wringing his hands, Enlil hides in a corner (da-še3), the Anuna flatten against the walls, sighing like pigeons (tum12-gin7)"}
+      - {motif: gods-flee-in-terror, refs: ["ETCSL 1.6.2 182-185"]}
+      - {motif: father-god-laments-absent-son, refs: ["ETCSL 1.6.2 187-190"], note: "nitalam-ĝu10 dumu-ĝu10 nu-ba-tuš ... šu-ĝu10 a-ba ba-gid2-i-de3"}
+      - {motif: storm-theophany-arrows-thunder, refs: ["ETCSL 1.6.2 168-178"], note: "the Asag uproots the sky for a club, howls like a storm, roars like a giant snake, bathes the sky in blood (an-e uš2 bi2-ib2-tu5)"}
+    hints:
+      - "Compare Ps 74:13-14 and Isa 27:1 (many-headed Leviathan crushed); Rev 12:3 (seven-headed dragon)."
+      - "Compare Joel 2:10, 3:4 and Josh 10:12-13 (sun and moon withdraw or stand in battle)."
+      - "Compare Ezek 31:3-9 (the great cedar with shade) for the 'cedar rooted in the abzu'."
+  - id: ane-etcsl-1-6-2-second-battle
+    tradition: ane-sumerian
+    title: "Lugal-e: Enlil's instructions, the second battle and Šar-ur's warning"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 191-280"]
+    tags:
+      - {motif: talking-divine-weapon, refs: ["ETCSL 1.6.2 191-196", "ETCSL 1.6.2 225-227"], note: "Šar-ur flies to Enlil in Nibru and back; lines 198-211 lost"}
+      - {motif: god-forbids-extinction-of-species, refs: ["ETCSL 1.6.2 222-224"], note: "uĝ3 nam-ta-ab-la2-e ... numun na-an-ga-ma-ab-kal-le ... {d}en-lil2-me-en nam a-na-tar-ra-ĝa2 mu-bi na-ab-ḫa-lam-e: let him not diminish the people, not make seed scarce, not destroy the name of what I, Enlil, decreed; partly broken"}
+      - {motif: dogs-lick-enemy-blood, refs: ["ETCSL 1.6.2 259-260"], note: "sur3 mud-e bi2-ib-tum3 ki-bal-a ga-gin7 ur-e ba-an-de2: crevasses filled with blood, dogs lapped it like milk"}
+      - {motif: sun-moon-darkened-stars-withdraw, refs: ["ETCSL 1.6.2 246-247"], note: "restored: [ud] ku10-ku10-ga-še3 ba-an-[kur9]: day became dark night"}
+      - {motif: weapons-useless-against-monster, refs: ["ETCSL 1.6.2 263"], note: "peš a2-sag3-a nu-ub-tuku4: the weapon did not shake the heart of the Asag"}
+      - {motif: monster-cannot-be-caught-with-hook, refs: ["ETCSL 1.6.2 275"], note: "piriĝ zu2 sis mu-un-ra lu2 nu-mu-ni-in-dab5-be2: a lion with savage teeth, no man can catch it"}
+      - {motif: storm-theophany-arrows-thunder, refs: ["ETCSL 1.6.2 244-258"], note: "the lance aimed at the mountains, arm stretched to the clouds, storm-wind raised to heaven"}
+    hints:
+      - "Compare 1 Kgs 21:19 and 22:38 (dogs lick blood); Gen 9:8-17 and Gen 6:19-20 (God preserves the species) for Enlil's order not to wipe out seed."
+      - "Compare Job 41:1-10 (Leviathan cannot be captured)."
+  - id: ane-etcsl-1-6-2-asag-slain
+    tradition: ane-sumerian
+    title: "Lugal-e: Ninurta crushes the Asag, washes, is acclaimed, and names it 'Stone'"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 281-333"]
+    tags:
+      - {motif: sea-monster-defeated-by-god, refs: ["ETCSL 1.6.2 288-297"], note: "not a sea monster but a mountain one: he pounds the Asag like roasted barley (še šeĝ6-ĝa2-gin7), uproots it like esparto grass, heaps it like flour"}
+      - {motif: warrior-washes-blood-after-battle, refs: ["ETCSL 1.6.2 302-303"], note: "ib2-la2 {ĝiš}tukul a mu-[X] ... tug2 uš2-a mu-un-tu5: washes belt and mace, washes the blood from his clothes, wipes his brow; sings a victory chant over the corpse (ad6-a za-pa-aĝ2)"}
+      - {motif: gods-prostrate-before-victor, refs: ["ETCSL 1.6.2 305-308"], note: "diĝir kalam-ma mu-un-na-sug2-ge-eš ... like exhausted wild asses they prostrate"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 1.6.2 310-311"], note: "ur-saĝ a-ba za-gin7 ... zag-zu ba-ra-ga-an-til: hero, who is like you? beside you there is no one"}
+      - {motif: god-decrees-name-henceforth, refs: ["ETCSL 1.6.2 327-328"], note: "[ud]-da-ta a2-sag3 nam-ba-DI na4 mu-bi ḫe2-[em]: from today do not say Asag, its name shall be Stone"}
+      - {motif: slain-monster-made-into-cosmos, refs: ["ETCSL 1.6.2 327-330"], note: "ur5-ra-am3 bar-bi irigal ḫe2-em: its entrails (bar) shall be the underworld (irigal); lines 319-322 and 333 lost"}
+      - {motif: victory-song-after-deliverance, refs: ["ETCSL 1.6.2 303", "ETCSL 1.6.2 309-314"]}
+    hints:
+      - "Compare Isa 63:1-3 (the warrior's garments stained with blood) and Exod 15:11 ('who is like you among the gods')."
+      - "Compare Ps 74:13-17 and Enuma elish IV for the slain enemy's body built into the cosmos."
+  - id: ane-etcsl-1-6-2-waters-dammed
+    tradition: ane-sumerian
+    title: "Lugal-e: before Ninurta there was no irrigation; he dams the waters and leads them to the Tigris"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 334-367"]
+    tags:
+      - {motif: pre-creation-no-rain-no-plants, refs: ["ETCSL 1.6.2 334", "ETCSL 1.6.2 343-346"], note: "ud-bi-a a silim ki-ta du a-gar3-ra nu-um-de2: at that time the good water coming up from the earth did not pour over the fields; no one dredged canals, no one drew water, barley was sown broadcast"}
+      - {motif: mist-or-spring-waters-earth, refs: ["ETCSL 1.6.2 334"], note: "a silim ki-ta du: water coming forth from the earth, here not yet reaching the fields"}
+      - {motif: gods-bear-corvee-labor, refs: ["ETCSL 1.6.2 336-338"], note: "diĝir kalam-ma ba-sug2-ge-eš-a {ĝiš}al {ĝiš}dusu-bi mu-un-la2-eš-a ... eš2-gar3-bi: the gods of the Land carried hoe and basket, that was their workload"}
+      - {motif: god-dams-waters-builds-irrigation, refs: ["ETCSL 1.6.2 349-359"], note: "gu-ru-um na4 kur-ra mi-ni-in-ak ... bad3 maḫ-gin7 kalam-ma igi-ba bi2-in-tab ... mu-un-ur4-ur4 {id2}idigna im-ma-an-šum2"}
+      - {motif: boundary-set-for-sea, refs: ["ETCSL 1.6.2 351", "ETCSL 1.6.2 355"], note: "a great wall barring the Land; i3-ne-eš2 a kur da-ri2-še3 ki-a nu-um-ed3-de3: now the waters of the mountains will never again go down into the earth"}
+      - {motif: god-introduces-plough-and-furrow, refs: ["ETCSL 1.6.2 359", "ETCSL 1.6.2 362-364"], note: "carp-floods over the fields; water for speckled barley; grain piles heaped like mounds"}
+    hints:
+      - "Compare Gen 2:5-6 (no man to till the ground, an 'ed rising from the earth) for the 'at that time' description."
+      - "Compare Ps 104:6-9 and Job 38:8-11 (a bound set for the waters 'that they may never again cover the earth'); Gen 1:9 (waters gathered to one place)."
+      - "Compare Atrahasis I (the gods' corvee with hoe and basket) and Gen 2:15, 3:17-19."
+  - id: ane-etcsl-1-6-2-ninhursag
+    tradition: ane-sumerian
+    title: "Lugal-e: Ninmah comes to her son and is renamed Ninhursag, lady of the stone-pile"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 368-410"]
+    tags:
+      - {motif: name-change-by-god, refs: ["ETCSL 1.6.2 393-396"], note: "ḫur-saĝ mu-bi ḫe2-em za-e nin-bi ḫe2-em ... ud-da {d}nin-ḫur-saĝ-ĝa2 di-še3: let the pile be called Hursag and you its lady; henceforth Ninhursag"}
+      - {motif: god-decrees-name-henceforth, refs: ["ETCSL 1.6.2 394-396"]}
+      - {motif: mountain-yields-wood-metals-honey, refs: ["ETCSL 1.6.2 397-405"], note: "lal3 ĝeštin, cedar, cypress, juniper, box, gold, silver, copper, tin (urud nagga), wild animals"}
+      - {motif: land-of-iron-and-copper, refs: ["ETCSL 1.6.2 402-403"], note: "the mountain shall mine gold and silver and smelt copper and tin"}
+      - {motif: honey-from-rock-oil-from-flint, refs: ["ETCSL 1.6.2 398"], note: "gu2-gu2-bi lal3 ĝeštin ḫa-ra-an-mu2: its slopes shall produce honey and wine"}
+      - {motif: goddess-favors-hero, refs: ["ETCSL 1.6.2 368-371", "ETCSL 1.6.2 381-384"], note: "the mother sleepless, covering herself with a fleece (siki u8), laments and goes to her son; mostly Emesal (u3-mu-un, ga-ša-an, du5-mu {d}mu-ul-lil2)"}
+    hints:
+      - "Compare Deut 8:7-9 (land whose stones are iron, hills copper) and Deut 32:13 (honey from the rock)."
+      - "Compare Gen 17:5, 15 and 32:29 (renaming marks a new destiny)."
+  - id: ane-etcsl-1-6-2-stones-judged-1
+    tradition: ane-sumerian
+    title: "Lugal-e: Aruru reminds Ninurta; he curses and blesses the stones (u, šu, gasura, saĝkal, esi, na, elel, kagena)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 411-511"]
+    tags:
+      - {motif: stones-judged-for-war-conduct, refs: ["ETCSL 1.6.2 414-415", "ETCSL 1.6.2 419-434", "ETCSL 1.6.2 438-447", "ETCSL 1.6.2 466-478", "ETCSL 1.6.2 500-511"], note: "Aruru: na-aĝ2 nu-um-mi-tar, you have not fixed the destinies of the warriors you slew; each stone judged by its conduct in battle"}
+      - {motif: curse-explains-natures-of-things, refs: ["ETCSL 1.6.2 419-434", "ETCSL 1.6.2 482-486"], note: "u (emery) stone: since you rose against me, may your size be diminished, your brothers heap you like flour; cornelian will be pierced by it; na stone: be worked like a pig, reduced to liquid"}
+      - {motif: god-decrees-name-henceforth, refs: ["ETCSL 1.6.2 432-434", "ETCSL 1.6.2 461-462", "ETCSL 1.6.2 510-511"], note: "refrain i3-ne-eš2 nam tar-ra {d}nin-urta-ka ud-da ... ur5 ḫe2-en-na-nam-ma: now by the destiny fixed by Ninurta, henceforth so be it"}
+      - {motif: first-fruits-offered-at-new-moon, refs: ["ETCSL 1.6.2 446-447"], note: "u2-saĝ diĝir-re-e-ne-ke4 ud itid-da: first fruits of the gods placed on the gasura stone at the new moon; itid partly restored"}
+      - {motif: diorite-from-magan-for-statues, refs: ["ETCSL 1.6.2 471-478"], note: "kur ma2-gan{ki}-ta ... alan-bi ud ul-le2-a-aš ... e2-ninnu ... ki-a-naĝ-ba: diorite from Magan for statues set in the place of libation of the E-ninnu"}
+      - {motif: divine-ordinances-inscribed-on-stone, refs: ["ETCSL 1.6.2 493-495"], note: "me-ĝu10 bar-zu-a si ḫa-ra-ni-ib2-sa2-e ... kisal maḫ-ĝa2-a ki-gal ḫa-ra-ab-ri: my ordinances set in straight lines on your body, set on a pedestal in my great courtyard (elel stone)"}
+      - {motif: name-is-destiny, refs: ["ETCSL 1.6.2 455-460"], note: "puns: saĝkal smashes you, gulgul destroys (gul), saĝ nu-kal-la 'valueless', šag4-ĝar 'famine' for the saĝĝar stone"}
+    hints:
+      - "Compare Gen 49:1-27 (Jacob's blessings and curses of the tribes by their conduct) and Gen 3:14-19 (curses that explain the serpent's, woman's and man's lot)."
+      - "Compare Deut 27:2-8 and Josh 8:32 (the law written on plastered stones set up); Exod 24:12."
+  - id: ane-etcsl-1-6-2-stones-judged-2
+    tradition: ane-sumerian
+    title: "Lugal-e: the judgment of the stones continues (ĝišnugal to kurgaranum)"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 512-644"]
+    tags:
+      - {motif: stones-judged-for-war-conduct, refs: ["ETCSL 1.6.2 514-521", "ETCSL 1.6.2 534-542", "ETCSL 1.6.2 557-565", "ETCSL 1.6.2 611-617"], note: "alabaster prostrated itself and becomes seal-keeper of the treasury; the gems (nir, gug, zagin...) are honoured; iman stones' path will not lead to the palace; durul honoured"}
+      - {motif: curse-explains-natures-of-things, refs: ["ETCSL 1.6.2 525-527", "ETCSL 1.6.2 546-553", "ETCSL 1.6.2 569-578", "ETCSL 1.6.2 581-591"], note: "algameš first into the forge, daily offering of smiths; flint (ĝiri2-zu2-gal) split by the metalworker and crushed like malt; mašda slaughtered like a sheep; šagara forgotten by father and mother"}
+      - {motif: god-decrees-name-henceforth, refs: ["ETCSL 1.6.2 603-608"], note: "ḫaštum: ki tag-ga-za mu-bi ḫe2-sa4, because of your digging Ditch shall be your name"}
+      - {motif: festival-of-the-dead-spirits, refs: ["ETCSL 1.6.2 642-643"], note: "[ezen] gidim-ma-ke4 ḫe2-em-ma-sag9-ge ... [itid-da ud] 9 ... ud-sakar-ra: the festival of the spirits of the dead, ninth day, new moon; partly restored"}
+      - {motif: first-fruits-offered-at-new-moon, refs: ["ETCSL 1.6.2 541-542"], note: "u2-saĝ diĝir-re-e-ne-ke4: the principal of the gods makes foreign lands prostrate before the gems"}
+      - {motif: enemies-lick-dust, refs: ["ETCSL 1.6.2 542"], note: "kur-kur-re giri17 ki šu2-šu2-zu: foreign lands put their noses to the ground before you"}
+    hints:
+      - "Compare Gen 49 and Deut 33 (destinies by tribe); Ps 72:9 (enemies lick the dust)."
+      - "Compare 1 Sam 20:5, 18 (new moon feast) and Deut 26:14 (offerings to the dead) for the festival of the dead spirits."
+  - id: ane-etcsl-1-6-2-return
+    tradition: ane-sumerian
+    title: "Lugal-e: triumphal return by boat, hymn of the boatmen, Enlil's blessing, Nisaba and doxology"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.2 645-726"]
+    tags:
+      - {motif: victor-god-returns-by-boat, refs: ["ETCSL 1.6.2 647-651", "ETCSL 1.6.2 672-674"], note: "{ĝiš}ma2-kar-nun-ta-e3-a; a-igi-lu-e-ne šir3 dug3-ge-eš; ma2 ni2-bi dirig-ga 'the boat floating of its own accord'"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 1.6.2 656", "ETCSL 1.6.2 661"], note: "ur-saĝ a-ba za-a-gin7"}
+      - {motif: king-restores-shrine-from-dust, refs: ["ETCSL 1.6.2 662-668"], note: "eš3-za saḫar-ta ma-ra-ra-an-il2-la: he raised your shrine from the dust; mu nam-til3-la-na dug4-ge 'he made a vow for his life'"}
+      - {motif: gods-prostrate-before-victor, refs: ["ETCSL 1.6.2 675-680"], note: "the Anuna giri17 ki-še3 ba-ab-te-eš šu gaba ba-ni: noses to the ground, hands on chests; 'lift your head to heaven'"}
+      - {motif: father-god-blesses-victorious-son, refs: ["ETCSL 1.6.2 681-697"], note: "the father Enlil fixes his son's destiny (nam mu-ni-ib2-tar-re): celestial mace, eternal life (til3 ud su3-ra2), An's strength"}
+      - {motif: city-becomes-heap-of-ruins, refs: ["ETCSL 1.6.2 692-693"], note: "iri-bi du6-du6-da ḫa-ba-ab-šid: its cities counted as ruin-mounds; the mountain shall not be restored"}
+      - {motif: scribal-goddess-holds-tablets, refs: ["ETCSL 1.6.2 698-723"], note: "harvests entrusted to Nisaba, who possesses the principal tablet (im saĝ di) of en and lugal, counts days by the moon (suen-da ud šid-e)"}
+      - {motif: sumerian-zami-doxology, refs: ["ETCSL 1.6.2 723", "ETCSL 1.6.2 725"], note: "{d}nisaba za3-mi2; za3-mi2-zu dug3-ga-am3; line 726 subscript šir3-sud"}
+    hints:
+      - "Compare Ps 24:7-10 and Ps 68:18-19 (the victorious God's triumphal ascent); Ps 132:1-5 (the king's vow for the sanctuary)."
+  - id: ane-etcsl-1-6-3-turtle
+    tradition: ane-sumerian
+    title: "Ninurta and the turtle: the Anzud chick returns the powers; Ninurta's hubris and Enki's turtle"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.6.3 A:1-B:60"]
+    tags:
+      - {motif: tablet-of-destinies, refs: ["ETCSL 1.6.3 B:2-4"], note: "me, ĝiš-ḫur and dub nam-tar-ra-bi abzu-še3 ba-an-gi4: the powers, the plans and the tablet of destinies return to the abzu; A:1-8 fragmentary, naming the amar anzud"}
+      - {motif: hero-plots-to-seize-world, refs: ["ETCSL 1.6.3 B:25-30"], note: "nam-tar-ra-bi šag4-bi nu-ḫul2 ... igi-bi ki-šar2-ra ba-ni-in-ĝar: not content with his destiny, he set his sights on the whole world"}
+      - {motif: pride-after-success-brings-fall, refs: ["ETCSL 1.6.3 B:25-46"]}
+      - {motif: god-fashions-creature-from-clay, refs: ["ETCSL 1.6.3 B:36"], note: "{d}en-ki-ke4 im abzu-a ba-al-gu7 ba-da-an-dim2: Enki fashioned a turtle from the clay of the abzu"}
+      - {motif: trap-pit-dug-for-hero, refs: ["ETCSL 1.6.3 B:43-46"], note: "ḫabrud ḫul ba-da-an-dun: the turtle dug an evil pit; Ninurta fell in and could not get out"}
+      - {motif: god-humbles-one-exalts-another, refs: ["ETCSL 1.6.3 B:50"], note: "ĝe26-e bi2-ib2-ĝa2-ĝa2 ĝe26-e bi2-ib2-zi-de3: Enki, 'I set down, I raise up'; the line is damaged"}
+      - {motif: rend-garments-grief, refs: ["ETCSL 1.6.3 B:55-56"], note: "Ninmena: tug2 bar-ra-na al-bir7-re, she tore the clothes on her body"}
+      - {motif: incomparability-among-the-gods, refs: ["ETCSL 1.6.3 B:16", "ETCSL 1.6.3 B:22"], note: "no god among your brother gods could act so; may no one be revered like you"}
+    hints:
+      - "Compare 1 Sam 2:6-7 ('YHWH brings low and also exalts') and Ps 75:8 for Enki's 'I set down, I raise up'."
+      - "Compare Ps 7:16 and 57:7 (the pit) and Isa 14:12-15 (the one who would rise to heaven brought down to the pit)."
+      - "Compare 2 Chr 26:16 (heart grew proud) and Ezek 28:2-10."
+  - id: ane-etcsl-1-7-4-a-creation
+    tradition: ane-sumerian
+    title: "Flood story (Eridu Genesis) A: a god's plan to restore people; creation of humans and animals"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.4 A:1-14"]
+    tags:
+      - {motif: gods-create-humans-and-animals, refs: ["ETCSL 1.7.4 A:11-14"], note: "an {d}en-lil2 {d}en-ki {d}nin-ḫur-saĝ-ĝa2-ke4 saĝ gig2-ga mu-un-dim2-eš-a-ba niĝ2-gilim ki-ta ki-ta mu-lu-lu"}
+      - {motif: be-fruitful-and-multiply, refs: ["ETCSL 1.7.4 A:13-14"], note: "animals multiply everywhere, four-legged herds on the plain"}
+      - {motif: antediluvian-cities-assigned-to-gods, refs: ["ETCSL 1.7.4 A:4-7"], note: "iri{ki} me-a-bi ḫe2-em-mi-in-du3 ĝissu-bi ni2 ga-ba-ab-dub2-bu: let them build cities so I can rest in their shade"}
+    hints:
+      - "Compare Gen 1:24-28 and Gen 4:17 (first city)."
+  - id: ane-etcsl-1-7-4-b-kingship
+    tradition: ane-sumerian
+    title: "Flood story B: kingship descends from heaven; the five antediluvian cities"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.4 B:1-18"]
+    tags:
+      - {motif: kingship-descends-from-heaven, refs: ["ETCSL 1.7.4 B:6-7"], note: "men maḫ {ĝiš}gu-za nam-lugal-la an-ta ed3-a-ba"}
+      - {motif: antediluvian-cities-assigned-to-gods, refs: ["ETCSL 1.7.4 B:11-15"], note: "eridug to Nudimmud, bad-tibira to Nugig, larag to Pabilsaĝ, zimbir to Utu, šuruppag to Sud"}
+      - {motif: first-city-named-for-son, refs: ["ETCSL 1.7.4 B:10-11"], note: "mu-bi ba-an-sa4: their names were announced; nesaĝ iri-be2-e-ne eridug 'the first of the cities'"}
+      - {motif: god-dams-waters-builds-irrigation, refs: ["ETCSL 1.7.4 B:17-18"], note: "id2 tur-tur-re šu luḫ-bi: cleansing of the small canals"}
+    hints:
+      - "Compare Gen 4:17-22 and 10:10 (first cities, Babel, Erech, Accad); Gen 5 (antediluvian generations)."
+  - id: ane-etcsl-1-7-4-c-warning
+    tradition: ane-sumerian
+    title: "Flood story C: the gods' oath, Zi-ud-sura's piety and the warning at the wall"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.4 C:1-28"]
+    tags:
+      - {motif: divine-decision-to-destroy, refs: ["ETCSL 1.7.4 C:22-23"], note: "a-ma-ru ugu kab dug4-ga ba-ur3 ... numun nam-lu2-ulu3 ḫa-lam-e-de3 [nam-bi ba-tar]: the seed of mankind to be destroyed; partly restored"}
+      - {motif: goddess-laments-destruction-of-humans, refs: ["ETCSL 1.7.4 C:7"], note: "kug {d}inana-ke4 uĝ3-bi-še3 a-nir mu-[un-ĝa2-ĝa2]"}
+      - {motif: gods-bound-by-oath-to-destroy, refs: ["ETCSL 1.7.4 C:9-10"], note: "diĝir an ki-ke4 mu an {d}en-lil2 mu-X-[pad3]: the gods of heaven and earth swear by An and Enlil"}
+      - {motif: hero-righteous, refs: ["ETCSL 1.7.4 C:11-14"], note: "zi-ud-su3-ra2 lugal-am3 gudug ... nam-sun5-na inim sig10-sig10-ge ni2 teĝ3-ĝe26: king and gudug priest, humble, reverent, standing daily"}
+      - {motif: hero-warned-by-deity, refs: ["ETCSL 1.7.4 C:15-26"], note: "ma-mu2 nu-me-a: something that was not a dream appears"}
+      - {motif: warning-through-wall, refs: ["ETCSL 1.7.4 C:17-21"], note: "iz-zi-da a2 gab2-bu-ĝu10 gub-ba ... iz-zi-da inim ga-ra-ab-dug4: side-wall at my left, I will speak to you"}
+      - {motif: divine-assembly-decree-irrevocable, refs: ["ETCSL 1.7.4 C:24-25"], note: "di-til-la inim pu-uḫ2-ru-um-ma-ka [šu gi4-gi4 nu-ĝal2]: restored, the verdict of the assembly (Akkadian loan puḫrum) cannot be revoked"}
+      - {motif: divine-council, refs: ["ETCSL 1.7.4 C:24"], note: "pu-uḫ2-ru-um, the divine assembly"}
+    hints:
+      - "Compare Gen 6:8-9 and 6:13 (Noah righteous, God tells him); Q 11:36-37 and 71:1."
+      - "Compare Gilg SB XI:20-22 and Atrahasis III i (the reed wall)."
+  - id: ane-etcsl-1-7-4-d-flood
+    tradition: ane-sumerian
+    title: "Flood story D: seven days and nights of flood; Utu shines into the boat; sacrifice"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.4 D:1-17"]
+    tags:
+      - {motif: flood-lasts-seven-days-and-nights, refs: ["ETCSL 1.7.4 D:3-5"], note: "ud 7-am3 ĝi6 7-am3 ... {ĝiš}ma2 gur4-gur4 a gal-la im-ḫul tuku4-tuku4-a-ta"}
+      - {motif: universal-destruction, refs: ["ETCSL 1.7.4 D:1-4"], note: "a-ma-ru kalam-ma ba-ur3-ra-ta: the flood swept over the land"}
+      - {motif: sun-god-enters-ark, refs: ["ETCSL 1.7.4 D:6-8"], note: "zi-ud-su3-ra2 {ĝiš}ma2 gur4-gur4 ab-BUR2 mu-un-da-buru3: he drilled an opening (window) in the huge boat; Utu entered with his rays"}
+      - {motif: vessel-multiple-decks-door-window, refs: ["ETCSL 1.7.4 D:7"]}
+      - {motif: sacrifice-after-flood, refs: ["ETCSL 1.7.4 D:9-11"], note: "prostrates before Utu; gud im-ma-ab-gaz-e udu im-ma-ab-šar2-re: kills oxen, sheep innumerable; D:12-17 broken"}
+    hints:
+      - "Compare Gen 7:4, 7:10 (seven days), Gen 8:6 (Noah opens the window), Gen 8:20-21 (sacrifice); Gilg SB XI:128-160."
+  - id: ane-etcsl-1-7-4-e-immortality
+    tradition: ane-sumerian
+    title: "Flood story E: oath by heaven and earth; Zi-ud-sura granted eternal life in Dilmun"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.4 E:1-12"]
+    tags:
+      - {motif: oath-by-heaven-and-earth, refs: ["ETCSL 1.7.4 E:1-2"], note: "zi an-na zi ki-a i3-pad3-de3-en-ze2-en"}
+      - {motif: animals-aboard, refs: ["ETCSL 1.7.4 E:3", "ETCSL 1.7.4 E:10"], note: "niĝ2-gilim-ma ki-ta ed3-de3: animals disembark; mu niĝ2-gilim-ma numun nam-lu2-ulu3 uru3 ak: because he preserved the animals and the seed of mankind"}
+      - {motif: blessing-on-descent, refs: ["ETCSL 1.7.4 E:4-6"], note: "prostrates before An and Enlil, who treat him kindly"}
+      - {motif: flood-hero-granted-eternal-life, refs: ["ETCSL 1.7.4 E:7-8"], note: "til3 diĝir-gin7 mu-un-na-šum2-mu zi da-ri2 diĝir-gin7 mu-un-<na>-ab-ed3-de3"}
+      - {motif: flood-hero-settled-in-dilmun, refs: ["ETCSL 1.7.4 E:11"], note: "kur-bal kur dilmun-na ki {d}utu e3-še3 mu-un-til3-eš: in the land Dilmun, where the sun rises"}
+      - {motif: seventh-patriarch-taken-by-god, refs: ["ETCSL 1.7.4 E:7-11"], note: "loose analogue: a hero removed from among humans to divine life"}
+    hints:
+      - "Compare Gen 5:24 (Enoch taken), Gen 9:1-17 (blessing and covenant after the flood) and Gen 2:8 (garden in the east)."
+  - id: ane-etcsl-1-7-6-grain
+    tradition: ane-sumerian
+    title: "How grain came to Sumer"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.6 1-32"]
+    tags:
+      - {motif: primeval-humans-eat-grass, refs: ["ETCSL 1.7.6 1-2"], note: "uĝ3-e udu-gin7 u2 ka-ba mu-ni-ib-gu7 ... ud re-a {d}ezina2 še gu nu-zu"}
+      - {motif: grain-brought-down-from-heaven, refs: ["ETCSL 1.7.6 3"], note: "an-ne2 an-šag4-ta im-da-an-ed3-de3"}
+      - {motif: grain-hidden-in-mountain, refs: ["ETCSL 1.7.6 7-11"], note: "Enlil piled the barley and gave it to the mountain; closed it with bolt and lock"}
+      - {motif: gods-fetch-grain-for-humans, refs: ["ETCSL 1.7.6 13-27"], note: "Ninazu and Ninmada; ki-en-gi še nu-zu 'Sumer which knows no barley'; Ninmada objects that their father Enlil has not commanded it"}
+      - {motif: lift-eyes-to-the-mountains, refs: ["ETCSL 1.7.6 4-6"], note: "Enlil lifts his gaze like a stag: south to the sea, north to the cedar mountain"}
+      - {motif: god-asleep-when-appealed-to, refs: ["ETCSL 1.7.6 28-31"], note: "Utu lu2 ba-nu2-a u3-sa2 ku-ku-nam: lies sleeping a sound sleep; Utu of the seventy doors ({ĝiš}ig 70)"}
+    hints:
+      - "Compare Gen 3:18-19 (eating the plants of the field, then bread) and Dan 4:30 (eating grass like oxen); Gen 13:14 (look north, south, east, west)."
+      - "Compare Ps 78:24-25 (grain of heaven) and Ps 121:4 (the guardian neither slumbers nor sleeps)."
+  - id: ane-etcsl-1-7-7-shumunda
+    tradition: ane-sumerian
+    title: "The šumunda grass: born of Heaven and Earth after the flood, it burns the E-ana and is cursed by Inana"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.7 1-66"]
+    tags:
+      - {motif: heaven-impregnates-earth, refs: ["ETCSL 1.7.7 10-13"], note: "an in-dug4 ki in-tu-ud {u2}šumunda in-ga-an-tu-ud"}
+      - {motif: survivors-of-the-flood-named, refs: ["ETCSL 1.7.7 16-21"], note: "um-ma, ab-ba, gala-maḫ ... mu-lu a-ma-ru-ta ba-ra-ab-taka4-a: whoever survived the flood, crushed by the grass with labour"}
+      - {motif: rain-of-fire-and-sulfur-cup, refs: ["ETCSL 1.7.7 3", "ETCSL 1.7.7 36"], note: "šika bar7-bar7-ra ba-šeĝ3-ĝa2-ba: when it rained potsherds and fireballs"}
+      - {motif: raven-set-over-offender, refs: ["ETCSL 1.7.7 29-34"], note: "the grass sets fire to the base of the E-ana, is bound; ga-ša-an-an-na uga{mušen} ba-e-dab5 ugu-ni-še3 ba-gub"}
+      - {motif: curse-explains-natures-of-things, refs: ["ETCSL 1.7.7 60-66"], note: "Inana's cry reaches heaven and earth; u2 ḫul gig-ga [ḫe2-me-en]: you shall be a hateful plant; broken"}
+    hints:
+      - "Compare Gen 3:17-18 (thorns and thistles from the cursed ground) and Judg 9:15 (the bramble from which fire comes out)."
+      - "Compare Gen 8:7 (the raven) for the raven detail."
+  - id: ane-etcsl-1-7-8-a-pabilsag
+    tradition: ane-sumerian
+    title: "Pabilsaĝ's journey to Nibru A: the wild bull god; the lady of Isin proposes marriage"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.8 A:1-36"]
+    tags:
+      - {motif: tribal-animal-emblems, refs: ["ETCSL 1.7.8 A:1-3", "ETCSL 1.7.8 A:13-15"], note: "am ur2-ra-am3 gun3-a, the wild bull with brindled thighs; like a scorpion (mir), wolf (ur-bar-ra), lion (piriĝ) rising up"}
+      - {motif: goddess-proposes-marriage-to-god, refs: ["ETCSL 1.7.8 A:24-36"], note: "a-a-zu-ur2 dug4-ga-na-ab mu-ud-na-ĝu10 de3-a ... za-e u3-mu-un-bi de3-a me-e ga-ša-an-bi de3-a: say to your father 'may she be my spouse'; may you be its lord and I its lady"}
+    hints:
+      - "Compare Ruth 3:9 (the woman proposes) and Gen 49:9, 17, 27 (tribes as lion, serpent, wolf)."
+  - id: ane-etcsl-1-7-8-bcd-pabilsag
+    tradition: ane-sumerian
+    title: "Pabilsaĝ's journey to Nibru B-D: Enlil's blessing of the watercourse, the marriage, Pabilsaĝ refuses food"
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.7.8 B:1-13", "ETCSL 1.7.8 C:1-13", "ETCSL 1.7.8 D:1-20"]
+    tags:
+      - {motif: god-blesses-river-and-crops, refs: ["ETCSL 1.7.8 B:1-3", "ETCSL 1.7.8 C:8-11"], note: "gu-bi gu ḫe2-em, še-bi še ḫe2-em: may its flax be flax, its grain grain; Enlil stands beside the Kir-sig watercourse and speaks to it"}
+      - {motif: curse-fulfilled, refs: ["ETCSL 1.7.8 B:4", "ETCSL 1.7.8 B:11-13"], note: "used for a blessing fulfilled: i3-ne-eš2 {d}utu ud ne-e-a ur5 ḫe2-en-na-nam-ma-am3, under that sun on that day so it happened"}
+      - {motif: goddess-proposes-marriage-to-god, refs: ["ETCSL 1.7.8 C:4-5"], note: "en {d}pa-bil2-saĝ-ĝe26 ḫul2-la-da {d}nin-isin2-si-na [in-tuku]"}
+      - {motif: king-sulks-on-bed-refuses-food, refs: ["ETCSL 1.7.8 D:4-6", "ETCSL 1.7.8 D:17-19"], note: "{d}pa-bil2-saĝ gud ka-a-ni ba-ra-mu-da-gu7: he would not eat the bull nor the sheep; context obscure, a lament (u3-li-li) is raised"}
+      - {motif: sister-watches, refs: ["ETCSL 1.7.8 D:10-11"], note: "uru2 nin9-a-na-ka ... nin9-a-ni e2-ta mu-na-ra-e3: set down in his sister's city; his sister comes out to him"}
+    hints:
+      - "Compare 2 Sam 12:16-17 and 1 Kgs 21:4 (refusing to eat)."

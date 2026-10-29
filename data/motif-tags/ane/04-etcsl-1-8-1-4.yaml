@@ -1,0 +1,376 @@
+units:
+  - id: ane-etcsl-1-8-1-4-1-prologue-huluppu
+    tradition: ane-sumerian
+    title: Prologue of the first days and the ḫalub tree planted in Inana's garden (Gilgameš, Enkidu and the nether world)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.1.4 1:1-46"]
+    tags:
+      - {motif: in-those-days-primordial-opening, refs: ["ETCSL 1.8.1.4 1:1-5"], note: "ud re-a ud su3-ra2 re-a / ĝi6 re-a / mu re-a: days, nights, years of old, the triple formula"}
+      - {motif: first-bread-and-ovens-of-the-land, refs: ["ETCSL 1.8.1.4 1:6-7"], note: "eš3 kalam-ma-ka ninda šu2-a-ba; {im}šu-rin-na ... niĝ2-tab ak-a-ba: civilization's first bread and ovens dated to the primeval age"}
+      - {motif: heaven-separated-from-earth-primeval, refs: ["ETCSL 1.8.1.4 1:8-9"], note: "an ki-ta ba-da-ba9-ra2-a-ba / ki an-ta ba-da-sur-ra-a-ba"}
+      - {motif: cosmos-divided-among-three-gods, refs: ["ETCSL 1.8.1.4 1:11-13"], note: "An takes heaven, Enlil the earth, the nether world (kur) given to Ereškigala as a gift (saĝ rig7)"}
+      - {motif: god-sails-to-netherworld-storm, refs: ["ETCSL 1.8.1.4 1:14-26"], note: "Enki's little boat (ĝiš-ma2 tur) assailed by small and large hailstones; waves devour like wolves (ur-bar-ra-gin7) and lion (ur-maḫ-gin7)"}
+      - {motif: uprooted-tree-carried-by-river, refs: ["ETCSL 1.8.1.4 1:27-31"], note: "a single ḫalub tree on the bank of the pure Euphrates, uprooted by the south wind (u18-lu)"}
+      - {motif: tree-planted-in-goddess-garden, refs: ["ETCSL 1.8.1.4 1:32-37"], note: "{ĝiš}kiri6 gi-rin {d}inana; planted and watered 'with her feet, not her hands'"}
+      - {motif: furniture-from-sacred-tree-desired, refs: ["ETCSL 1.8.1.4 1:38-39"], note: "me-na-am3 {ĝiš}gu-za ... ĝiš-nu2: when will it be a chair, a bed for me?"}
+      - {motif: serpent-at-root-bird-in-crown-demon-in-trunk, refs: ["ETCSL 1.8.1.4 1:42-44"], note: "muš tu6 nu-zu (snake that knows no incantation) at the roots, Anzud bird with young in the branches, ki-sikil lil2-la2 (the 'phantom maid', Akk. ardat lilî, the Lilith figure) in the trunk"}
+      - {motif: charm-resistant-serpent, refs: ["ETCSL 1.8.1.4 1:42"], note: "muš tu6 nu-zu-e: 'snake that does not know an incantation'"}
+      - {motif: lilith-dwells-in-tree, refs: ["ETCSL 1.8.1.4 1:44-45"], note: "ki-sikil lil2-la2-ke4 e2 im-ma-ni-ib-du3; ki-sikil zu2 li9-li9 šag4 ḫul2-ḫul2 'the maid who laughs (flashes teeth) with joyful heart'"}
+      - {motif: goddess-weeps, refs: ["ETCSL 1.8.1.4 1:46"], note: "kug {d}inana-ke4 er2 e-ne ba-še8-še8"}
+    hints:
+      - "Heaven parted from earth: compare Gen 1:6-8 and Q 21:30 (ratq/fatq)."
+      - "Ki-sikil-lil-la, the 'Lilith' of later tradition: compare Isa 34:14 (lilit settles among the ruins)."
+      - "Snake at the root, bird in the branches of a sacred tree in a divine garden: compare Gen 2:9; 3:1 (serpent in Eden), Ezek 31:3-9 and Dan 4:9 (birds in the great tree)."
+      - "Snake deaf to charm: compare Ps 58:5-6 (deaf adder) and Jer 8:17 (snakes that cannot be charmed)."
+      - "Division of heaven, earth and underworld among three gods: compare Atrahasis I 11-16 and Deut 32:8-9 (nations allotted)."
+  - id: ane-etcsl-1-8-1-4-1-inana-appeals
+    tradition: ane-sumerian
+    title: Inana tells her tale to Utu, who refuses, then to Gilgameš, who stands by her
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.1.4 1:47-135"]
+    tags:
+      - {motif: dawn-formula-sun-leaves-bedchamber, refs: ["ETCSL 1.8.1.4 1:47-49", "ETCSL 1.8.1.4 1:91-93"], note: "{d}utu agrun-ta e3-a-ni: Utu comes out of his bedchamber at dawn while little birds clamour"}
+      - {motif: verbatim-repetition-of-narrative-in-speech, refs: ["ETCSL 1.8.1.4 1:52-89", "ETCSL 1.8.1.4 1:96-133"], note: "Inana retells prologue and tree story word for word, partly in Emesal (ga-ša-an, mu-ul-lil2, am-an-ki, mu for ĝiš)"}
+      - {motif: brother-refuses-sisters-plea, refs: ["ETCSL 1.8.1.4 1:90"], note: "šeš-a-ni ur-saĝ šul {d}utu inim-bi nu-mu-de3-gub: Utu does not stand by her"}
+      - {motif: hero-champions-goddess-as-brother, refs: ["ETCSL 1.8.1.4 1:94-95", "ETCSL 1.8.1.4 1:134-135"], note: "she addresses Gilgameš as šeš-ĝu10 'my brother'; he stands by her (inim-bi ba-de3-gub)"}
+      - {motif: triple-petition-pattern, refs: ["ETCSL 1.8.1.4 1:90", "ETCSL 1.8.1.4 1:135"], note: "the plea fails with one, succeeds with the next; the same pattern recurs with Enlil and Enki at 1:229, 1:237"}
+    hints:
+      - "Repeated tale in a speech: compare the servant's retelling in Gen 24:34-48."
+  - id: ane-etcsl-1-8-1-4-1-tree-cleared
+    tradition: ane-sumerian
+    title: Gilgameš kills the snake, drives off Anzud and the phantom maid, and makes throne, bed, ball and mallet
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.1.4 1:136-150"]
+    tags:
+      - {motif: heros-colossal-weapons-weighed, refs: ["ETCSL 1.8.1.4 1:136-139"], note: "belt of 50 minas felt as 30 shekels; bronze axe of 7 talents 7 minas"}
+      - {motif: hero-kills-serpent-in-tree, refs: ["ETCSL 1.8.1.4 1:140"], note: "muš tu6 nu-zu-e saĝ ĝiš ba-an-ra"}
+      - {motif: demon-flees-to-wilderness, refs: ["ETCSL 1.8.1.4 1:142-143"], note: "the ki-sikil lil2-la2 abandons her house and flees to e2-ri-e2-ri 'desolate places'"}
+      - {motif: bird-flees-to-mountains-with-young, refs: ["ETCSL 1.8.1.4 1:141"]}
+      - {motif: furniture-from-sacred-tree-desired, refs: ["ETCSL 1.8.1.4 1:147-148"], note: "the wood given to Inana for her chair ({ĝiš}gu-za) and bed (ĝiš-nu2)"}
+      - {motif: ball-and-mallet-from-sacred-wood, refs: ["ETCSL 1.8.1.4 1:149-150"], note: "{ĝiš}ellag (ball/hoop?) from the roots, {ĝiš}e-ke4-ma (stick/mallet?) from the branches; meanings uncertain"}
+    hints:
+      - "The Lilith figure driven into desolate places: compare Isa 34:14 (lilit in the waste) and Isa 13:21-22."
+      - "Throne and bed of precious wood: compare 1 Kgs 10:18 (Solomon's throne) and Song 3:9-10 (palanquin of Lebanon wood)."
+  - id: ane-etcsl-1-8-1-4-1-ball-lost
+    tradition: ane-sumerian
+    title: The ball game oppresses the young men; the widows' outcry sends ball and mallet to the nether world
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.1.4 1:151-175"]
+    tags:
+      - {motif: king-oppresses-young-men-of-city, refs: ["ETCSL 1.8.1.4 1:151-154"], note: "he plays without stopping and praises himself (ni2 silim dug4-dug4-ge); the team cry 'a gu2-ĝu10 a ib2-ba-ĝu10' (O my neck, O my hips)"}
+      - {motif: self-praise-of-king, refs: ["ETCSL 1.8.1.4 1:152"]}
+      - {motif: mothers-and-sisters-bring-bread-and-water, refs: ["ETCSL 1.8.1.4 1:155-156"], note: "ama tuku dumu-ni-ir ninda mu-na-ab-de6 / nin9 tuku šeš-a-ni-ir a mu-na-de2-e"}
+      - {motif: god-hears-cry-of-widow-and-orphan, refs: ["ETCSL 1.8.1.4 1:160-163"], note: "i-{d}utu ki-sikil tur-ra-ta: the outcry (i-Utu) of the young girls and the accusation (šu du3-du3-a) of the widows (nu-mu-un-su) cause ball and mallet to fall to the bottom of the nether world (dur2 kur-ra); interpretive: no god is named as hearer"}
+      - {motif: precious-object-falls-into-netherworld, refs: ["ETCSL 1.8.1.4 1:163-165"], note: "he cannot reach them with hand or foot"}
+      - {motif: gate-of-netherworld-ganzer, refs: ["ETCSL 1.8.1.4 1:166"], note: "abula ganzer igi kur-ra-ka: the gate of Ganzer before the nether world"}
+      - {motif: hero-laments-lost-object, refs: ["ETCSL 1.8.1.4 1:167-175"], note: "a {ĝiš}ellag-ĝu10 a {ĝiš}e-ke4-ma-ĝu10; vow to treat the carpenter's wife as mother and child as little sister if only the ball were still at the carpenter's"}
+      - {motif: who-will-bring-up-from-netherworld, refs: ["ETCSL 1.8.1.4 1:174-175"], note: "a-ba-a ma-ra-ab-ed3-de3: 'who will bring it up for me?'"}
+    hints:
+      - "Outcry of widows and orphans that brings down punishment: compare Exod 22:21-23 and Q 4:75."
+      - "Who will go down / bring up: compare Deut 30:12-13 and Rom 10:6-7."
+  - id: ane-etcsl-1-8-1-4-1-enkidu-descends
+    tradition: ane-sumerian
+    title: Enkidu offers to descend; Gilgameš's taboos for the nether world; Enkidu breaks them all and is seized
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.1.4 1:176-220"]
+    tags:
+      - {motif: servant-volunteers-for-perilous-descent, refs: ["ETCSL 1.8.1.4 1:176-179"], note: "arad-da-ni en-ki-du10: Enkidu is his 'servant' (arad) here"}
+      - {motif: netherworld-taboos-instructed, refs: ["ETCSL 1.8.1.4 1:184-198"], note: "no clean garments (else marked as stranger), no fine oil, no throw-stick, no cornel staff, no sandals, no shouting, no kissing or striking wife or son"}
+      - {motif: dead-recognize-living-stranger, refs: ["ETCSL 1.8.1.4 1:184-191"], note: "gir5-gin7 ĝiškim ... 'they would mark you as a stranger'; the gidim (spirits) surround him at the scent of oil"}
+      - {motif: outcry-detains-in-netherworld, refs: ["ETCSL 1.8.1.4 1:198", "ETCSL 1.8.1.4 1:220"], note: "i-{d}utu kur-ra ba-e-dab5-be2: the outcry (i-Utu) seizes you in the nether world"}
+      - {motif: naked-mother-goddess-of-underworld-lies, refs: ["ETCSL 1.8.1.4 1:199-204"], note: "ama {d}nin-a-zu i3-nu2-a: Ninazu's mother (Ereškigala) lies with shoulders uncovered, breast bare, fingers like a pickaxe, plucking her hair like leeks"}
+      - {motif: warning-disregarded-point-by-point, refs: ["ETCSL 1.8.1.4 1:205-220"], note: "inim lugal-la-na-aš šu nu-um-ma-gid2: every prohibition is repeated as a transgression"}
+      - {motif: dead-seize-the-living, refs: ["ETCSL 1.8.1.4 1:220"], note: "kur-ra im-ma-an-dab5"}
+    hints:
+      - "Taboos for entering the realm of the dead/holy (remove sandals, no anointing): compare Exod 3:5, 2 Sam 12:20 and the mourning rules of Ezek 24:17."
+      - "Inana's Descent (ETCSL 1.4.1) for garments stripped at underworld gates; compare Job 1:21 and Eccl 5:15 (naked one goes)."
+  - id: ane-etcsl-1-8-1-4-1-gods-petitioned
+    tradition: ane-sumerian
+    title: Gilgameš petitions Enlil (refused) and Enki (helps); Utu opens a hole and brings Enkidu's spirit up
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.1.4 1:221-242"]
+    tags:
+      - {motif: hero-weeps-before-god-in-temple, refs: ["ETCSL 1.8.1.4 1:222-224", "ETCSL 1.8.1.4 1:230-232"], note: "to E-kur alone (ĝiri3-ni dili mu-un-gub), then to Enki in Eridug"}
+      - {motif: death-not-by-demon-or-battle-but-netherworld, refs: ["ETCSL 1.8.1.4 1:225-228", "ETCSL 1.8.1.4 1:233-236"], note: "nam-tar nu-un-dab5 a2-sag3 nu-un-dab5 ... ki nam-nitaḫ-a-ke4 me3-a nu-un-šub kur-re im-ma-an-dab5: not Namtar, Asag, Nergal's udug, nor battle"}
+      - {motif: triple-petition-pattern, refs: ["ETCSL 1.8.1.4 1:229", "ETCSL 1.8.1.4 1:237"], note: "Enlil does not stand by him; Enki does"}
+      - {motif: wise-god-helps-where-chief-god-refuses, refs: ["ETCSL 1.8.1.4 1:237-240"]}
+      - {motif: hole-opened-to-netherworld, refs: ["ETCSL 1.8.1.4 1:239-242"], note: "ab-lal3 kur-ra ... taka4: a vent/hole in the nether world; Utu brings Enkidu up si-si-ig-ni-ta 'with his breeze (?)'; šubur 'servant' or ghost"}
+      - {motif: necromancer-raises-dead-prophet, refs: ["ETCSL 1.8.1.4 1:240-242"], note: "loose fit: the sun god brings a dead man's spirit up from the earth to speak with the living"}
+    hints:
+      - "Raising a ghost from the earth: compare 1 Sam 28:11-15 (Samuel brought up) and Isa 29:4 (voice from the dust)."
+      - "Gilgameš SB XII is the Akkadian translation of this half (lines 1:172-303)."
+  - id: ane-etcsl-1-8-1-4-1-underworld-report
+    tradition: ane-sumerian
+    title: Enkidu's report on the fate of the dead (main recension)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.1.4 1:243-303"]
+    tags:
+      - {motif: friends-embrace-and-question, refs: ["ETCSL 1.8.1.4 1:243-246"], note: "gu2-ni gu2-da mu-ni-in-la2 ne mu-un-su-ub-be2; en3 tar-re im-mi-in-kuš2-u3-ne 'they wearied each other with questions'"}
+      - {motif: order-of-the-netherworld-revealed, refs: ["ETCSL 1.8.1.4 1:245-248"], note: "a2 aĝ2-ĝa2 kur-ra igi bi2-du8 'did you see the order of the nether world?'; 'sit down and weep'"}
+      - {motif: body-eaten-by-worms-in-grave, refs: ["ETCSL 1.8.1.4 1:249-252"], note: "[tug2 sumun]-a-gin7 uḫ bi2-in-tag: vermin infest (the body) like an old garment, full of dust; partly restored"}
+      - {motif: sitting-in-dust-in-grief, refs: ["ETCSL 1.8.1.4 1:253"], note: "saḫar-ra ba-da-an-tuš"}
+      - {motif: fate-of-dead-graded-by-number-of-sons, refs: ["ETCSL 1.8.1.4 1:254-267"], note: "one son: weeps at a peg in his wall; two: sits on two bricks eating bread; three: drinks from a waterskin; four: like a man with four asses; five: like a good scribe enters palace; six: cheerful as a ploughman; seven: as companion of the gods sits on a throne and hears judgments"}
+      - {motif: many-sons-as-divine-blessing, refs: ["ETCSL 1.8.1.4 1:266-267"], note: "interpretive: seven sons yield the best afterlife (dub-us2 diĝir-re-e-ne-ke4 {ĝiš}gu-za ib2-tuš)"}
+      - {motif: eunuch-childless-and-unmarried-dead-wretched, refs: ["ETCSL 1.8.1.4 1:268-277"], note: "tiru palace eunuch propped in a corner like a useless stick; woman who never gave birth (munus nu-u3-tud) thrown away like a pot; youth and girl who never undressed their spouse weep over rope and reed mat; man without heir (ibila nu-tuku)"}
+      - {motif: leper-dwells-alone-outside-camp, refs: ["ETCSL 1.8.1.4 1:287-289"], note: "lu2-saḫar-šub-ba (leper): food and water set apart (u2-ni al-bar a-ni al-bar); twitches like an ox as worms eat him; 'lives outside the city' only in 2:7"}
+      - {motif: fallen-in-battle-head-unheld, refs: ["ETCSL 1.8.1.4 1:290-291"], note: "ad ama-ni saĝ-du nu-mu-un-dab5 dam-a-ni er2 i3-še8-še8"}
+      - {motif: ghost-without-funerary-offerings-eats-scraps, refs: ["ETCSL 1.8.1.4 1:292-293"], note: "gidim lu2 ninda sig10-ge5 nu-tuku ... sila šub-ba i3-gu7-e: eats crumbs tossed in the street"}
+      - {motif: stillborn-children-play-in-afterlife, refs: ["ETCSL 1.8.1.4 1:298-299"], note: "niĝin3-ĝar tur-tur-ĝu10 ni2-ba nu-zu: 'my little stillborn who never knew themselves' play at a table of gold and silver with honey and ghee"}
+      - {motif: burned-man-has-no-ghost, refs: ["ETCSL 1.8.1.4 1:302-303"], note: "lu2 izi la2 ... gidim-a-ni nu-ĝal2 i-bi2-ni an-na ba-e-ed3: no spirit, his smoke went up to the sky"}
+      - {motif: death-by-lion-or-fall-in-afterlife, refs: ["ETCSL 1.8.1.4 1:287A-287D", "ETCSL 1.8.1.4 1:294-297"], note: "one ms.: eaten by lion cries 'O my hands, O my legs'; fallen from roof; hit by a ship's board cries 'alas my mother'"}
+      - {motif: dead-on-bed-of-gods, refs: ["ETCSL 1.8.1.4 1:300-301"], note: "lu2 ug7 ... ki ĝiš-nu2 diĝir-re-e-na al-nu2; the manner of death is broken"}
+    hints:
+      - "Gilg SB XII 87-153 (Akkadian translation of this dialogue)."
+      - "Sons as status: compare Ps 127:3-5 (quiver full of sons, not ashamed at the gate) and Job 1:2; 42:13."
+      - "Eunuch and childless: compare Isa 56:3-5 (eunuch given 'a name better than sons') and Wis 3:13-14."
+      - "Worm and dust of the dead: compare Job 17:14; 21:26 and Isa 14:11."
+      - "Stillborn at rest: compare Job 3:16 and Eccl 6:3-5."
+      - "Leper living apart: compare Lev 13:46 and 2 Kgs 15:5."
+      - "Tour of the dead by type and fate: compare Ezek 32:17-32 and Luke 16:19-31."
+  - id: ane-etcsl-1-8-1-4-2-underworld-report-variant
+    tradition: ane-sumerian
+    title: Enkidu's report, alternative recension (parents, oaths, Ĝirsu, Sumer and Akkad)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: alternative recension (section 2)
+    read: ["ETCSL 1.8.1.4 2:1-28"]
+    tags:
+      - {motif: leper-dwells-alone-outside-camp, refs: ["ETCSL 1.8.1.4 2:5-7"], note: "lu2-saḫar-šub-ba ... iri bar-ra-a al-tuš 'he lives outside the city'"}
+      - {motif: storm-gods-flood-victim-in-afterlife, refs: ["ETCSL 1.8.1.4 2:3-4"], note: "lu2 {d}iškur-ra ĝiri3-bal mu-ni-in-ra-ra: struck by Iškur's flood-storm (?); twitches like an ox as worms eat him"}
+      - {motif: dishonoring-parents-punished-after-death, refs: ["ETCSL 1.8.1.4 2:8-9"], note: "lu2 inim ama a-a-na-ke4 ni2 nu-teĝ3-ĝe26: who did not respect his parents' word cries 'O my body, O my limbs' without end"}
+      - {motif: parents-curse-deprives-of-heir, refs: ["ETCSL 1.8.1.4 2:10-11"], note: "lu2 aš2 ama a-a-na-ke4 sa2 bi2-dug4-ga ... ibila ba-da-kar gidim-ma-ni šu al-dag-dag-ge: his heir is taken, his ghost roams"}
+      - {motif: dishonoring-gods-name-punished, refs: ["ETCSL 1.8.1.4 2:12-13"], note: "lu2 mu diĝir-ra-ni saĝ bi2-in-[X]-la; verb and fate broken"}
+      - {motif: ghost-without-funerary-offerings-eats-scraps, refs: ["ETCSL 1.8.1.4 2:14-15"]}
+      - {motif: stillborn-children-play-in-afterlife, refs: ["ETCSL 1.8.1.4 2:16-17"]}
+      - {motif: burned-man-has-no-ghost, refs: ["ETCSL 1.8.1.4 2:18-19"], note: "gidim-a-ni ki-a nu-ub-tuš 'his ghost does not dwell in the earth'"}
+      - {motif: oath-breaker-punished-in-afterlife, refs: ["ETCSL 1.8.1.4 2:20-21"], note: "lu2 diĝir lul-lul sig10-ge5 nam-erim2 ba-an-kud: lied to the gods in an oath; drinks at ki-a-naĝ saĝ kur-ra (the libation place at the head of the nether world)"}
+      - {motif: son-denied-water-to-parents-punished, refs: ["ETCSL 1.8.1.4 2:22-24"], note: "dumu ĝir2-su ... a-a-na u3 ama-na: a man of Ĝirsu who refused water to his parents faces a thousand Martu at the libation place"}
+      - {motif: amorites-as-hostile-others, refs: ["ETCSL 1.8.1.4 2:23-24"], note: "li-im dumu mar-tu-me-eš"}
+      - {motif: dead-drink-muddy-water, refs: ["ETCSL 1.8.1.4 2:25-28"], note: "dumu ki-en-gi ki-uri: Sumerians and Akkadians, and Gilgameš's own father and mother, drink a ki-lul-la a lu3-a 'water of the place of slaughter (?), muddy water'"}
+    hints:
+      - "Honour and curse of parents: compare Exod 20:12; 21:17; Deut 27:16 and Q 17:23-24."
+      - "False oath in the god's name: compare Exod 20:7 and Lev 19:12."
+      - "Muddy water of the dead: compare Isa 14:9-11 and Job 10:21-22 (the drab land of the dead)."
+  - id: ane-etcsl-1-8-1-4-3-report-fragments
+    tradition: ane-sumerian
+    title: Enkidu's report, fragmentary recensions (sections 3.A and 3.B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: fragmentary manuscripts 3.A and 3.B
+    read: ["ETCSL 1.8.1.4 3.A:1-9", "ETCSL 1.8.1.4 3.B:1-11"]
+    tags:
+      - {motif: death-by-lion-or-fall-in-afterlife, refs: ["ETCSL 1.8.1.4 3.A:1-5"], note: "ship's-board victim cries a2-še3 ama-ĝu10; man fallen from roof twitches like an ox as worms eat him (order differs from section 1)"}
+      - {motif: parents-curse-deprives-of-heir, refs: ["ETCSL 1.8.1.4 3.A:6-7"], note: "only the mother's curse (aš2 ama-na-ke4)"}
+      - {motif: dishonoring-parents-punished-after-death, refs: ["ETCSL 1.8.1.4 3.A:8"], note: "answer lost"}
+      - {motif: leper-dwells-alone-outside-camp, refs: ["ETCSL 1.8.1.4 3.B:1"]}
+      - {motif: fallen-in-battle-head-unheld, refs: ["ETCSL 1.8.1.4 3.B:2-3"]}
+      - {motif: ghost-without-funerary-offerings-eats-scraps, refs: ["ETCSL 1.8.1.4 3.B:6-7"]}
+      - {motif: stillborn-children-play-in-afterlife, refs: ["ETCSL 1.8.1.4 3.B:8-9"], note: "variant {ĝiš}buniĝ: they play with a bucket of gold and silver"}
+      - {motif: burned-man-has-no-ghost, refs: ["ETCSL 1.8.1.4 3.B:10-11"]}
+  - id: ane-etcsl-1-8-1-4-4-return-mourning
+    tradition: ane-sumerian
+    title: Return to Unug, the statue, nine days of mourning and the libation for father and mother (Ur version ending)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: ending of the Urim manuscripts
+    read: ["ETCSL 1.8.1.4 4:1-17"]
+    tags:
+      - {motif: return-to-city-with-weapons, refs: ["ETCSL 1.8.1.4 4:1-4"], note: "unug im-mi-gi4-gi4-ne; axe and spear deposited in his palace"}
+      - {motif: statue-of-dead-made-for-mourning, refs: ["ETCSL 1.8.1.4 4:5-6", "ETCSL 1.8.1.4 4:10"], note: "alan-bi igi mu-un-bar-bar-re-ne: young and old of Unug and Kulaba gaze at 'its statue'; its crown touched; whose statue is unclear (Enkidu's?)"}
+      - {motif: funerary-water-libation-for-parents, refs: ["ETCSL 1.8.1.4 4:9", "ETCSL 1.8.1.4 4:16"], note: "a-a-ĝu10 u3 ama-ĝu10 a si-ig-ga naĝ-ze2-en 'my father and my mother, drink clean water!' — answering 2:27-28"}
+      - {motif: nine-days-of-mourning, refs: ["ETCSL 1.8.1.4 4:11-13"], note: "ud 9-kam ki ḫul-a ba-an-šub: he threw himself down at the place of mourning (ki ḫul-a) nine days"}
+      - {motif: son-denied-water-to-parents-punished, refs: ["ETCSL 1.8.1.4 4:15"], note: "dumu ĝir2-su ... zag bi2-in-tag 'he pushed aside the man of Ĝirsu' (sense uncertain)"}
+      - {motif: hymnic-closing-praise-of-hero, refs: ["ETCSL 1.8.1.4 4:17"], note: "ur-saĝ {d}gilgameš2 dumu {d}nin-sumun2-ka za3-mi2-zu dug3-ga-am3"}
+    hints:
+      - "Mourning periods: compare Gen 50:10 (seven days) and Deut 34:8 (thirty)."
+      - "Water poured for the dead: compare 2 Sam 23:16 (water poured out) and Tob 4:17 (bread on the grave of the righteous)."
+  - id: ane-etcsl-1-8-1-4-5a-enkidu-seized-variant
+    tradition: ane-sumerian
+    title: Enkidu seized, Gilgameš's lament and appeal to Enlil (Nibru recension 5.A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: recension 5.A
+    read: ["ETCSL 1.8.1.4 5.A:1-24"]
+    tags:
+      - {motif: warning-disregarded-point-by-point, refs: ["ETCSL 1.8.1.4 5.A:1-9"]}
+      - {motif: outcry-detains-in-netherworld, refs: ["ETCSL 1.8.1.4 5.A:9"]}
+      - {motif: seven-days-before-return, refs: ["ETCSL 1.8.1.4 5.A:10-11"], note: "ud ḫul-ĝal2-da en-na ud 7-na-še3: for seven days from the evil day Enkidu did not come up"}
+      - {motif: hero-laments-dead-companion, refs: ["ETCSL 1.8.1.4 5.A:12-16"], note: "šubur šag4-ga-a-ĝu10 tab-ba gen6-na-a-ĝu10 ad gi4-gi4-a-ĝu10: my beloved servant, faithful companion (tab-ba), counsellor"}
+      - {motif: death-not-by-demon-or-battle-but-netherworld, refs: ["ETCSL 1.8.1.4 5.A:14-16", "ETCSL 1.8.1.4 5.A:23-24"]}
+      - {motif: hero-weeps-before-god-in-temple, refs: ["ETCSL 1.8.1.4 5.A:17-22"]}
+    hints:
+      - "David's lament for Jonathan (2 Sam 1:17-27): a hero mourns his companion."
+  - id: ane-etcsl-1-8-1-4-5b-report-variant-transition
+    tradition: ane-sumerian
+    title: Enkidu's report (recension 5.B) and the transition to the search for life
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: recension 5.B
+    read: ["ETCSL 1.8.1.4 5.B:1-71"]
+    tags:
+      - {motif: fate-of-dead-graded-by-number-of-sons, refs: ["ETCSL 1.8.1.4 5.B:1-22"]}
+      - {motif: eunuch-childless-and-unmarried-dead-wretched, refs: ["ETCSL 1.8.1.4 5.B:23-25", "ETCSL 1.8.1.4 5.B:43-51"], note: "no heir; woman who never bore; youth and girl who never undressed the spouse ({ĝiš}dala2 nu-du10, a variant phrase)"}
+      - {motif: death-by-lion-or-fall-in-afterlife, refs: ["ETCSL 1.8.1.4 5.B:35-42", "ETCSL 1.8.1.4 5.B:55-57"], note: "lu2 ur-e gu7-a 'eaten by a dog' (variant of lion); hit by a mast (dimgul)"}
+      - {motif: proud-man-eaten-by-worms, refs: ["ETCSL 1.8.1.4 5.B:52-54"], note: "lu2 AN ni2 buluĝ5-ĝa2 (who extolled himself?): bows like an ox as worms eat him; reading uncertain"}
+      - {motif: leper-dwells-alone-outside-camp, refs: ["ETCSL 1.8.1.4 5.B:59-61"], note: "a al-bar-ra u2 al-bar-ra ... bar-bi-a im-tuš"}
+      - {motif: stillborn-children-play-in-afterlife, refs: ["ETCSL 1.8.1.4 5.B:62-64"], note: "niĝin3-ĝu10 nu-sa4-am3 'my stillborn who never received a name'"}
+      - {motif: burned-man-has-no-ghost, refs: ["ETCSL 1.8.1.4 5.B:65-68"], note: "'why, my friend, did you not spare this question?' (a-na-aš-am3 gu5-li-a-ĝu10 nu-bi2-in-tar)"}
+      - {motif: grief-drives-hero-to-seek-life, refs: ["ETCSL 1.8.1.4 5.B:69-71"], note: "šag4 ba-sag3 ... lugal-e nam-til3-la i3-kiĝ2-kiĝ2: the king began to search for life, and set off for kur lu2 til3-la 'the mountain of the living man'"}
+    hints:
+      - "Gilgameš's quest for life after Enkidu's death: Gilg SB IX-XI; compare Eccl 3:19-21 and Q 21:34-35 ('every soul shall taste death')."
+  - id: ane-etcsl-1-8-1-5-resolve-and-plea-to-utu
+    tradition: ane-sumerian
+    title: Gilgameš resolves to make his name in the mountains and pleads with Utu (Gilgameš and Ḫuwawa A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version A
+    read: ["ETCSL 1.8.1.5 1-33"]
+    tags:
+      - {motif: mountain-of-the-living-man, refs: ["ETCSL 1.8.1.5 1-2"], note: "kur lu2 til3-la 'the mountain of the man who lives' (or 'of the living one'), Ḫuwawa's land"}
+      - {motif: no-man-passes-end-of-life, refs: ["ETCSL 1.8.1.5 4", "ETCSL 1.8.1.5 30"], note: "murgu ĝuruš-e til3-la saĝ til3-le-bi-še3 la-ba-ra-an-e3-a"}
+      - {motif: make-a-name-for-ourselves, refs: ["ETCSL 1.8.1.5 5-7", "ETCSL 1.8.1.5 31-33"], note: "mu-ĝu10 ga-am3-ĝar ... mu diĝir-re-e-ne ga-bi2-ib-gub: where no name can be set up, I will set up the name of the gods"}
+      - {motif: patron-god-must-be-informed-before-venture, refs: ["ETCSL 1.8.1.5 8-12"], note: "{d}utu ḫe2-me-da-an-zu; kur-{ĝiš}erin-kud 'Mountains of Cedar-felling' are Utu's business"}
+      - {motif: sacrificial-kid-and-staff-before-prayer, refs: ["ETCSL 1.8.1.5 13-16"], note: "white kid (maš2 babbar2) and brown kid held to his breast, holy staff (ĝidru kug) before his nose"}
+      - {motif: hero-asks-god-to-be-helper, refs: ["ETCSL 1.8.1.5 17-18"], note: "a2-taḫ-ĝu10 ḫe2-me-en"}
+      - {motif: corpses-float-in-river, refs: ["ETCSL 1.8.1.5 23-27"], note: "bad3-da gu2-ĝa2 im-ma-an-la2 / ad6 a-a ib2-dirig-ge: over the wall he sees corpses in the river; 'that will happen to me too'"}
+      - {motif: no-one-tall-enough-to-reach-heaven, refs: ["ETCSL 1.8.1.5 28-29"], note: "lu2 sukux-ra2 an-še3 nu-mu-un-da-la2 / lu2 daĝal-la kur-ra la-ba-an-šu2-šu2"}
+      - {motif: mortality-motivates-quest-for-fame, refs: ["ETCSL 1.8.1.5 21-33"]}
+    hints:
+      - "Making a name: compare Gen 11:4 (tower builders) and 2 Sam 7:9; the mountain of cedars: Isa 37:24 / 2 Kgs 19:23 (Sennacherib's boast of cutting Lebanon's cedars)."
+      - "No one tall enough to reach heaven: compare Deut 30:12, Prov 30:4 and Gen 11:4."
+      - "Facing mortality: compare Ps 49:11-13, Ps 90:10, Eccl 2:16 and Q 21:34."
+  - id: ane-etcsl-1-8-1-5-seven-warriors-muster
+    tradition: ane-sumerian
+    title: Utu grants seven monstrous guides; Gilgameš musters fifty bachelors, arms them and fells timber
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version A
+    read: ["ETCSL 1.8.1.5 34-60"]
+    tags:
+      - {motif: tears-accepted-as-offering, refs: ["ETCSL 1.8.1.5 34-35"], note: "{d}utu er2-na kadra-gin7 šu ba-an-ši-in-ti: Utu accepted his tears as a gift (kadra); lu2 arḫuš-a-gin7 arḫuš ba-ni-in-ak"}
+      - {motif: seven-monstrous-brothers-as-guides, refs: ["ETCSL 1.8.1.5 36-45"], note: "ur-saĝ dumu ama dili-me-eš 7-me-eš: seven warriors, sons of one mother — lion's paws and eagle's talons, snakes, a dragon (ušum-gal), fire, flood, lightning"}
+      - {motif: guides-to-portage-in-mountains, refs: ["ETCSL 1.8.1.5 44", "ETCSL 1.8.1.5 60"], note: "ma2-ur3-ma2-ur3 ḫur-saĝ-ĝa2: where boats are hauled over the mountains"}
+      - {motif: military-exemptions-house-vineyard-bride, refs: ["ETCSL 1.8.1.5 48-53"], note: "e2 tuku e2-a-ni-še3 ama tuku ama-a-ni-še3: men with households and mothers sent home; only bachelors (nitaḫ saĝ-dili) like himself, fifty, go"}
+      - {motif: fifty-companions-on-expedition, refs: ["ETCSL 1.8.1.5 51", "ETCSL 1.8.1.5 53"]}
+      - {motif: weapons-forged-before-expedition, refs: ["ETCSL 1.8.1.5 54-55"], note: "e2 simug-še3: at the smith's, bronze axes (a2-aš-ĝar, aga-silig) cast"}
+      - {motif: trees-felled-for-weapons, refs: ["ETCSL 1.8.1.5 56-57"], note: "ebony (esi), ḫalub, ḫašḫur, taškarin felled in the shady plantation"}
+    hints:
+      - "Sending home the man with a house or bride: compare Deut 20:5-8 and Judg 7:3 (the fearful go home)."
+      - "Tears seen by God: compare 2 Kgs 20:5 and Ps 56:9."
+  - id: ane-etcsl-1-8-1-5-seven-ranges-cedars
+    tradition: ane-sumerian
+    title: Crossing seven mountain ranges to the cedars; Ḫuwawa looses his terrors
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version A
+    read: ["ETCSL 1.8.1.5 61-G"]
+    tags:
+      - {motif: seven-mountain-ranges-crossed, refs: ["ETCSL 1.8.1.5 61-62"], note: "ḫur-saĝ 7-kam-ma bal-e-da-bi {ĝiš}erin šag4-ga-ni mu-ni-in-pad3; the other mss. spell out ranges 2-6"}
+      - {motif: hero-fells-sacred-cedars, refs: ["ETCSL 1.8.1.5 64-66", "ETCSL 1.8.1.5 D-E"], note: "Gilgameš chops (al-sag3-ge), Enkidu lops branches, the sons of widows (dumu nu-mu-su-e) stack them"}
+      - {motif: guardian-monster-radiates-terror, refs: ["ETCSL 1.8.1.5 67", "ETCSL 1.8.1.5 F-G"], note: "ni2 te-... mu-na-ra-an-la2; Ḫuwawa scared in his lair (ki-nu2-a-ni im-ma-ḫu-luḫ-ḫa)"}
+    hints:
+      - "Cutting the god-guarded cedars: compare Isa 14:8 (cedars of Lebanon rejoice: no feller comes up against us) and Isa 37:24."
+  - id: ane-etcsl-1-8-1-5-sleep-oath-fear
+    tradition: ane-sumerian
+    title: Gilgameš's enchanted sleep, Enkidu's waking him, his oath, Enkidu's fear and the 'two together' sayings
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version A
+    read: ["ETCSL 1.8.1.5 68-129"]
+    tags:
+      - {motif: hero-overcome-by-supernatural-sleep, refs: ["ETCSL 1.8.1.5 68-75"], note: "u3-sa2-gin7 ba-an-dab5; companions sprawl at his feet like puppies (ur-gir15 tur-tur-gin7); 'eerie silence' (niĝ2-me-ĝar)"}
+      - {motif: dream-of-companion-on-expedition, refs: ["ETCSL 1.8.1.5 72"], note: "en-ki-du10 im-zig3 ma2-mu2-da in-bu-luḫ: Enkidu rises shuddering from a dream"}
+      - {motif: how-long-will-you-sleep, refs: ["ETCSL 1.8.1.5 76-84"], note: "i3-nu2-na i3-nu2-na ... en3-še3 i3-nu2-de3-en; the sun has gone to the lap of his mother Ningal"}
+      - {motif: oath-by-life-of-parents, refs: ["ETCSL 1.8.1.5 90-95"], note: "zi ama ugu-ĝu10 {d}nin-sumun2-ka a-a-ĝu10 kug {d}lugal-ban3-da"}
+      - {motif: human-or-god-uncertain, refs: ["ETCSL 1.8.1.5 94"], note: "en-na lu2-bi lu2-u18-lu ḫe2-a ... diĝir ḫe2-a: until I learn whether that one is man or god"}
+      - {motif: monster-described-mouth-of-dragon-face-of-lion, refs: ["ETCSL 1.8.1.5 98-103bb"], note: "ka-ga14-ni ka ušumgal-la-kam, igi piriĝ, chest a raging flood; a man-eating lion that never wipes the blood from its mouth"}
+      - {motif: companion-urges-turning-back, refs: ["ETCSL 1.8.1.5 104-106", "ETCSL 1.8.1.5 117-119"], note: "your mother will laugh, then weep; ni2 i3-ĝal2 ... umun2 i3-ĝal2 gi4-a 'there will be terror, there will be blood, turn back!'"}
+      - {motif: two-better-than-one, refs: ["ETCSL 1.8.1.5 107", "ETCSL 1.8.1.5 111"], note: "lu2 2-e nu-uš2-e 'two men will not die'; za-e ĝe26-e taḫ-ma-ab ĝe26-e za-e ga-ra-ab-taḫ"}
+      - {motif: threefold-cord-not-quickly-broken, refs: ["ETCSL 1.8.1.5 108"], note: "tug2 3 tab-ba lu2 nu-kud-de3: no one can cut a three-ply cloth"}
+      - {motif: sinking-ship-proverb, refs: ["ETCSL 1.8.1.5 112-115"], note: "when the Magan boat sank, the life-saving grappling-pole (ma2-da-la2) was not allowed to sink"}
+      - {motif: deadly-gaze-of-monster, refs: ["ETCSL 1.8.1.5 121-125"], note: "igi mu-ši-in-bar igi uš2-a-kam 'his look is the look of death'; 'you will not return to the city of the mother who bore you'"}
+      - {motif: hero-paralyzed-by-fear, refs: ["ETCSL 1.8.1.5 126-129"], note: "sa-na ĝiri3-na ni2 ba-an-ri; his toenails stick to the path"}
+    hints:
+      - "Two together, threefold cord: Eccl 4:9-12 is a close match in wording and sequence."
+      - "Rousing a sleeper: compare Jonah 1:6 ('how can you sleep?') and 1 Kgs 18:27."
+      - "Supernatural sleep on companions: compare 1 Sam 26:12 (deep sleep from YHWH) and Q 18:11."
+  - id: ane-etcsl-1-8-1-5-terrors-tricked
+    tradition: ane-sumerian
+    title: Ḫuwawa's welcome; Gilgameš offers his sisters and gifts and wheedles away the seven terrors
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version A
+    read: ["ETCSL 1.8.1.5 130-148AAA"]
+    tags:
+      - {motif: hero-hailed-by-epithets, refs: ["ETCSL 1.8.1.5 130-134"], note: "dumu-gir15 giri17-zal diĝir-re-e-ne, gud lipiš-tuku me3-a gub-ba; your mother knew how to bear sons"}
+      - {motif: do-not-fear-formula, refs: ["ETCSL 1.8.1.5 135"], note: "ni2 na-an-teĝ3-ĝe26-e-en šu ki-a sig10-bi2-ib"}
+      - {motif: sister-offered-as-wife-to-monster, refs: ["ETCSL 1.8.1.5 139", "ETCSL 1.8.1.5 143"], note: "En-me-barage-si 'my big sister' as wife (nam-dam), Ma-tur 'my little sister' as concubine (nam-lukur); a famous king of Kiš named as his sister"}
+      - {motif: deceptive-offer-of-kinship, refs: ["ETCSL 1.8.1.5 144", "ETCSL 1.8.1.5 148G"], note: "ni2-zu ba-am3-ma-ra su-za ga-an-kur9: give me your terrors, I want to become your kinsman (su)"}
+      - {motif: guardian-surrenders-powers-one-by-one, refs: ["ETCSL 1.8.1.5 145", "ETCSL 1.8.1.5 148H", "ETCSL 1.8.1.5 148S", "ETCSL 1.8.1.5 148CC", "ETCSL 1.8.1.5 148MM", "ETCSL 1.8.1.5 148XX"], note: "seven terrors handed over in turn; each time the men lop branches"}
+      - {motif: gifts-of-flour-water-shoes-and-gems, refs: ["ETCSL 1.8.1.5 148O", "ETCSL 1.8.1.5 148Z", "ETCSL 1.8.1.5 148JJ", "ETCSL 1.8.1.5 148TT"], note: "eša flour (niĝ2-gu7 diĝir gal-gal-e-ne 'food of the great gods'), a waterskin of cool water, big and tiny sandals, rock-crystal, nir stone and lapis"}
+    hints:
+      - "Disarming a strong one by guile: compare Judg 16:4-21 (Delilah coaxes out Samson's strength in stages)."
+  - id: ane-etcsl-1-8-1-5-huwawa-killed
+    tradition: ane-sumerian
+    title: Gilgameš seizes Ḫuwawa, who pleads with Utu; Gilgameš pities him, Enkidu objects and cuts his throat
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version A
+    read: ["ETCSL 1.8.1.5 149-180"]
+    tags:
+      - {motif: feigned-kiss-then-blow, refs: ["ETCSL 1.8.1.5 149-151"], note: "ne mu-un-su-ub-ba-gin7 te-na tibir-ra ba-ni-in-ra: as if to kiss him, he struck his cheek with his fist; approaching from behind like a snake"}
+      - {motif: captive-bound-like-wild-bull, refs: ["ETCSL 1.8.1.5 152aa-152bb"], note: "am dab5-ba-gin7 saman bi2-in-šub: a halter thrown over him like a captured wild bull"}
+      - {motif: hero-and-foe-weep-together, refs: ["ETCSL 1.8.1.5 152F-152G"], note: "both sit and weep (er2 im-ma-an-pad3)"}
+      - {motif: orphan-raised-by-god-pleads, refs: ["ETCSL 1.8.1.5 154-157"], note: "{d}utu ama tud-da-ĝu10 nu-um-zu a-a buluĝ3-ĝa2-ĝu10 nu-um-zu ... za-e mu-un-buluĝ3-e"}
+      - {motif: oath-sworn-by-heaven-earth-mountains, refs: ["ETCSL 1.8.1.5 157"], note: "zi an-na ma-an-pad3 zi ki-a ma-an-pad3 zi kur-ra ma-an-pad3; Ḫuwawa claims Gilgameš swore to him"}
+      - {motif: suppliant-grasps-hand-and-prostrates, refs: ["ETCSL 1.8.1.5 158"]}
+      - {motif: victor-pities-captive-foe, refs: ["ETCSL 1.8.1.5 159-162"], note: "šag4-ga-ni arḫuš ba-ni-in-tuku; 'let the captured bird go home, the captured man return to his mother's lap'"}
+      - {motif: enemy-king-spared-against-command, refs: ["ETCSL 1.8.1.5 163-174"], note: "loose fit: the companion warns against releasing the captive (nam-tar i3-gu7-e nam-tar nu-ub-zu-zu 'fate devours one who does not know fate')"}
+      - {motif: hireling-insult, refs: ["ETCSL 1.8.1.5 175-177"], note: "lu2 ḫuĝ-ĝa2 šag4-gal im-ma-ḫuĝ: 'hireling, hired for your food'"}
+      - {motif: guardian-monster-beheaded, refs: ["ETCSL 1.8.1.5 178-180", "ETCSL 1.8.1.5 H"], note: "gu2-ni im-ma-an-kud; the head put in a leather bag ({kuš}a-ĝa2-la2)"}
+    hints:
+      - "Sparing a captured king and the companion's objection: compare 1 Kgs 20:31-42 (Ben-Hadad spared, prophet condemns) and 1 Sam 15:9-33 (Agag)."
+      - "Feigned kiss and blow: compare 2 Sam 20:9-10 (Joab and Amasa)."
+      - "Head in a bag: compare Jdt 13:9-10 and 1 Sam 17:54."
+  - id: ane-etcsl-1-8-1-5-enlil-rebuke-auras
+    tradition: ane-sumerian
+    title: The head brought to Enlil; his rebuke; Ḫuwawa's seven auras distributed; praise
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version A
+    read: ["ETCSL 1.8.1.5 181-S"]
+    tags:
+      - {motif: severed-head-brought-to-rival, refs: ["ETCSL 1.8.1.5 181-185"], note: "loose fit: the head brought to the high god, tipped out of the bag before Enlil; they kiss the ground (giri17 ki su-ub)"}
+      - {motif: high-god-angered-by-killing, refs: ["ETCSL 1.8.1.5 186-192"], note: "a-na-aš-am3 ur5-gin7 i3-ak-en-ze2-en: he should have sat before you, eaten your bread, drunk your water"}
+      - {motif: name-wiped-from-earth, refs: ["ETCSL 1.8.1.5 M"], note: "variant: mu-ni ki-ta ḫa-lam-ke4-eš 'that his name be destroyed from the earth?'"}
+      - {motif: auras-of-slain-guardian-distributed, refs: ["ETCSL 1.8.1.5 pp", "ETCSL 1.8.1.5 193-199"], note: "me-lem4: to fields, rivers, reedbeds, lions, palace (or debt-slaves), forests (or hills), and to Nungal"}
+      - {motif: hymnic-closing-praise-of-hero, refs: ["ETCSL 1.8.1.5 201-202", "ETCSL 1.8.1.5 S"], note: "kalag-ga {d}gilgameš2 mi2 dug4-ga ... {d}nisaba za3-mi2"}
+    hints:
+      - "God rebukes the slayer of a protected figure: compare 2 Sam 1:14-16 and 2 Sam 4:9-12 (heads brought to David)."
+      - "Enlil's leaving through the window (variant J): compare Jer 9:20 (death through the windows)."

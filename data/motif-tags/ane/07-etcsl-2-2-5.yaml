@@ -1,0 +1,234 @@
+# Full read of the ANE corpus, chunk 7: ETCSL 2.2.5 - ETCSL 2.4.2.03 (Sumerian city laments, Bau hymns, Ur-Namma, Shulgi A-C).
+# Read from the ETCSL composite transliterations; ETCSL's English prose used only as a reading aid.
+new_motifs:
+  humans-multiply-as-numerous-as-gods: {label: "Mortal humans multiply until they are as numerous as the gods, preceding a divine decision to destroy", cluster: primeval}
+  great-gods-jointly-fashion-destroyer: {label: "Several great gods together create and give features and limbs to a monstrous destroying being", cluster: lament}
+  gods-pale-before-own-creation: {label: "The great gods themselves blanch in fear at the immensity of a creature the gods have made", cluster: lament}
+  lament-series-of-who-and-why-questions: {label: "A lament piles up rhetorical questions: who did this to the city, why did the god's hand seize it, why did the kind eye look away", cluster: lament}
+  divine-kind-eye-turned-away: {label: "The god's benevolent eye (gaze) is turned away from the city, signalling abandonment", cluster: lament}
+  sun-god-judge-of-heaven: {label: "The sun god is the judge who renders verdicts at the court of heaven", cluster: kingship}
+  city-gods-and-protective-spirits-abandon-city: {label: "The city's patron god and its protective spirits (udug, lamma) leave it, flee to the open country and take foreign paths before its destruction", cluster: lament}
+  shepherds-themselves-wreck-the-fold: {label: "The appointed shepherds and cowherds themselves overturn the cattlepens and sheepfolds they should keep", cluster: lament}
+  city-flooded-into-swamp: {label: "Fields are drenched and the destroyed city is turned into a swamp or marsh", cluster: lament}
+  deluge-monster-described-limb-by-limb: {label: "A destroying storm-monster sent by the god is described part by part: hair, face, eyes, mouth, tongue, arms, ribs, haunches, feet, each a weapon or fire", cluster: lament}
+  divine-word-destroys-city: {label: "The word or pronouncement of the high gods (An, Enlil) is itself the force that destroys the city", cluster: lament}
+  storm-deluge-as-divine-weapon-on-land: {label: "The god's decreed destruction is a 'deluge' (amaru, abubu) or storm that sweeps over the land, used of invading armies", cluster: lament}
+  fools-rejoice-wise-mourn-at-coming-doom: {label: "When doom is announced the foolish rejoice and look forward to war, while the wise beat their breasts, weep at night and cannot sleep", cluster: wisdom}
+  prayer-that-gods-word-be-turned-back: {label: "Those threatened pray that the god's decree 'be turned back' and his anger be exhausted", cluster: lament}
+  barbarian-invaders-gutium-subir: {label: "A barbarian mountain people (Gutium, Subir, Martu) is the instrument of the gods' destruction of Sumer", cluster: lament}
+  invader-floods-like-rising-water: {label: "An invading people pours over the land like a swelling floodwave", cluster: lament}
+  sumer-alas-lament-cry: {label: "Lament cry 'Alas, Sumer! Alas its people!' (a ki-en-gi) addressing the land itself", cluster: lament}
+  city-eyes-put-out-shoots-uprooted: {label: "The enemy 'puts out both eyes' of the city and uproots its young shoots (its people, its future)", cluster: lament}
+  people-slaughtered-like-sacrificial-cattle: {label: "The enemy lets the people's blood flow like that of sacrificial cattle", cluster: lament}
+  corpses-heaped-like-grain-piles: {label: "The slain are piled up in heaps like grain stacks or sheaves", cluster: lament}
+  city-stands-alone-after-land-falls: {label: "All the surrounding settlements are scattered and the capital stands alone under siege", cluster: lament}
+  siege-with-battering-rams-and-shields: {label: "Besiegers set up battering rams and shields, breach walls and buttresses and hew the city with axes", cluster: war}
+  lament-offered-by-king-to-deity: {label: "A king presents a lament or penitential song to a deity as an offering, praying for the restoration of a ruined city", cluster: lament}
+  king-provides-temple-offerings-prayer: {label: "Prayer that the king serve as the deity's steward and bring bulls, offerings, beer, fat, oil, syrup and wine", cluster: cult}
+  temple-music-drums-and-harps: {label: "The deity is served with ub and ala drums, tigi harps and zamzam instruments", cluster: cult}
+  order-fixed-since-creation-unchangeable: {label: "Prayer that what was established when heaven and earth came into being will never be changed", cluster: creation}
+  god-of-the-city-sends-good-fate-to-king: {label: "A protective deity is asked to take hold of the king's head and pronounce a good fate unalterable by command of An and Enlil", cluster: kingship}
+  kirugu-gisgigal-song-structure: {label: "A Sumerian song divided into numbered kirugu sections, each followed by a ĝišgiĝal antiphon", cluster: liturgy}
+  horns-reach-heaven-bellowing-bull: {label: "A destroying creature like a great wild bull bellows and its gigantic horns reach up to heaven", cluster: lament}
+  sun-does-not-rise-in-catastrophe: {label: "In the catastrophe the sun god sets and does not rise again", cluster: lament}
+  heavy-burden-of-sin: {label: "Someone bears a heavy burden or load of sin (nam-tag dugud)", cluster: sin}
+  evil-ghost-approaches-city: {label: "An evil ghost or demon approaches the doomed city while it watches", cluster: lament}
+  silence-like-a-cloak-over-people: {label: "A hush of fear settles over the people like a garment", cluster: lament}
+  livestock-driven-off: {label: "The enemy drives away the city's donkeys, sheep and cattle", cluster: war}
+  tigris-euphrates-tremble: {label: "The Tigris and Euphrates quake and the mountains rumble before the divine onslaught", cluster: theophany}
+  honest-men-turned-traitors: {label: "In the disaster honest men among loyal families turn into liars and traitors", cluster: lament}
+  sacrilege-against-ekur-avenged: {label: "Prayer that those who seized Enlil's temple (the E-kur) and coveted Nibru be punished and swept away", cluster: lament}
+  personal-lament-heart-filled-with-tears: {label: "The singer says 'my heart is filled with tears' in a refrain", cluster: lament}
+  veteran-warriors-lose-heart: {label: "Experienced warriors drop their weapons, their minds confused, and their leaders are cut down", cluster: war}
+  young-and-old-massacred: {label: "The enemy kills the population, young and old alike", cluster: war}
+  primeval-city-kulaba: {label: "Kulaba (Unug) is called the primeval city, yet is turned into a place of murder", cluster: lament}
+  battle-all-night-until-noon: {label: "Battle rages through the night until midday", cluster: war}
+  city-as-wounded-wild-bull: {label: "The besieged city is a proud wild bull or cow pierced by arrow and spear", cluster: lament}
+  goddess-greater-than-mountains-like-an-and-enlil: {label: "A goddess is praised as vaster than the mountains, lofty like An, majestic like Enlil, bright like Utu, unique in the four quarters", cluster: hymn}
+  king-son-of-enlil: {label: "The king is called son of the high god Enlil (or of another god)", cluster: kingship}
+  humble-suppliant-grasps-deitys-feet: {label: "A humble worshipper grasps the deity's feet in supplication", cluster: cult}
+  storm-covers-city-like-cloak: {label: "The destroying storm covers the city like a cloak and is spread over it like a linen sheet", cluster: lament}
+  god-stays-outside-city-as-if-foreign: {label: "The city's own god stands outside his city as if it were an alien city", cluster: lament}
+  god-weeps-over-own-city: {label: "A god weeps bitter tears over the destruction of his own city", cluster: lament}
+  divine-powers-of-city-overturned: {label: "The divine powers (me) and rites of the city are overturned and altered", cluster: lament}
+  storm-strikes-good-and-evil-alike: {label: "The destroying storm does not distinguish good from evil and strikes indiscriminately", cluster: theodicy}
+  divine-curse-on-city: {label: "The high god curses the city (decrees its fate) and frowns upon it, so it is destroyed", cluster: lament}
+  city-destroyed-a-second-time: {label: "The storm or enemy destroys the city a second time", cluster: lament}
+  gate-lock-and-door-torn-out: {label: "The enemy cuts the lock of the city or temple gate, tears out its doors, bolt and doorframe", cluster: lament}
+  foundations-overturned-filled-with-dust: {label: "The city's or temple's foundations are overturned and filled with dust", cluster: lament}
+  temple-tower-reaching-heaven: {label: "A temple tower (ziggurat) is said to reach up to heaven", cluster: cult}
+  lament-cry-o-destroyed-city-and-house: {label: "Refrain cry 'O the destroyed city! O the destroyed house!'", cluster: lament}
+units:
+  - id: ane-etcsl-2-2-5-a-destroyer-created
+    tradition: ane-sumerian
+    title: The gods fashion the monstrous destroyer; who did this to Unug? (Lament for Unug, kirugu 1)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.5 A.A:1-27", "ETCSL 2.2.5 B.A:1-8"]
+    tags:
+      - {motif: humans-multiply-as-numerous-as-gods, refs: ["ETCSL 2.2.5 A.A:4"], note: "lu2 til3 diĝir-re-e-[ne-gin7] a-na me bi2-ib-tab, 'living man ... doubled himself like the gods'; 'like the gods' partly restored; the lines before it are broken"}
+      - {motif: humans-multiply-as-numerous-as-gods, refs: ["ETCSL 2.2.5 B.A:3"], note: "[uĝ3 saĝ gig2-ga] a-ba-a in-lu-lu-un, 'who made the black-headed numerous?'; subject restored"}
+      - {motif: divine-council, refs: ["ETCSL 2.2.5 A.A:5", "ETCSL 2.2.5 A.A:7", "ETCSL 2.2.5 A.A:8"], note: "ĝalga sud-e ... sig10; Enki and Ninki 'set the counsel', Enul and Ninul 'decreed the fate' (nam bi2-in-tar)"}
+      - {motif: great-gods-jointly-fashion-destroyer, refs: ["ETCSL 2.2.5 A.A:9", "ETCSL 2.2.5 A.A:10", "ETCSL 2.2.5 A.A:11"], note: "An and Enlil 'gave birth' to it (ba-an-u3-tud-uš), Ninlil gave it features (muš3-me), Aruru, Suen and Enki fashioned its limbs (me-dim2)"}
+      - {motif: gods-pale-before-own-creation, refs: ["ETCSL 2.2.5 A.A:13"], note: "diĝir gal-gal-e-ne kuš3-kuš3-ta ba-an-sig7-ge-eš"}
+      - {motif: horns-reach-heaven-bellowing-bull, refs: ["ETCSL 2.2.5 A.A:14", "ETCSL 2.2.5 A.A:15"], note: "am gal-gin7 gu3 maḫ ... si gal-bi an-ne2 ḫe2-em-us2-sa"}
+      - {motif: lament-series-of-who-and-why-questions, refs: ["ETCSL 2.2.5 A.A:15-25", "ETCSL 2.2.5 B.A:2-6"], note: "a-ba-a 'who?' and a-na-aš 'why?' repeated line after line"}
+      - {motif: divine-kind-eye-turned-away, refs: ["ETCSL 2.2.5 A.A:19"], note: "igi zid{?} a-na-[aš ...], partly broken"}
+      - {motif: city-gods-and-protective-spirits-abandon-city, refs: ["ETCSL 2.2.5 A.A:23"], note: "who smashed its good udug, who struck its lamma?"}
+    hints:
+      - "Compare Gen 6:1-7 (men begin to multiply, God resolves to wipe them out) and Atrahasis (human noise); compare Q 71 (Noah)."
+      - "The bull-like creature with horns to heaven: compare the Bull of Heaven in Gilgamesh; Dan 7:7-8 and 8:9-10 (horn growing to heaven)."
+      - "Who/why questions in a lament: compare Lam 2:13, Ps 74:1, Ps 80:13 ('why have you broken down its walls?')."
+  - id: ane-etcsl-2-2-5-cd-gods-abandon-unug
+    tradition: ane-sumerian
+    title: Utu sets, the city trembles and its gods abandon Unug (Lament for Unug)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.5 C.B:1-9", "ETCSL 2.2.5 D.B:1-33"]
+    tags:
+      - {motif: sun-god-judge-of-heaven, refs: ["ETCSL 2.2.5 C.B:2"], note: "{d}utu lu2 ki di an-na-ta ... šu2 ša-ra-us2 gu2-bi nu-mu-ši-ib2-zig3, 'Utu, the man of the court of heaven ... set and did not raise his neck'"}
+      - {motif: sun-does-not-rise-in-catastrophe, refs: ["ETCSL 2.2.5 C.B:2"]}
+      - {motif: heavy-burden-of-sin, refs: ["ETCSL 2.2.5 C.B:3"], note: "nam-tag dugud ba-ab-il2, 'carried a heavy sin'; subject broken"}
+      - {motif: evil-ghost-approaches-city, refs: ["ETCSL 2.2.5 D.B:7"], note: "gidim ḫul bi2-in-te-a iri igi-ba ba-du8"}
+      - {motif: shepherds-themselves-wreck-the-fold, refs: ["ETCSL 2.2.5 D.B:14", "ETCSL 2.2.5 D.B:15"], note: "amaš {lu2}sipad zid-de3 du3-du3-a re ni2-bi-a ba-an-bur12-bur12: 'the faithful shepherds themselves tore out the pens they built'"}
+      - {motif: city-flooded-into-swamp, refs: ["ETCSL 2.2.5 D.B:17"], note: "a-šag4-ga a ba-ab-ĝar iri sug-ge4 ba-ab-gu7"}
+      - {motif: corpses-heaped-like-grain-piles, refs: ["ETCSL 2.2.5 D.B:16"], note: "zar-gin7 ba-du3 zar-gin7 ba-sal; what is heaped is unclear (the pens' contents or people)"}
+      - {motif: city-gods-and-protective-spirits-abandon-city, refs: ["ETCSL 2.2.5 D.B:21-26"], note: "iri diĝir-bi ba-da-gur sipad-bi ba-da-an-[taka4]: 'the city's god turned away from it, its shepherd abandoned it'; the lamma says 'hide in the open country' (edin-na); the great gods 'stayed away outside' and hid in the mountains"}
+      - {motif: silence-like-a-cloak-over-people, refs: ["ETCSL 2.2.5 D.B:20"], note: "niĝ2-me-ĝar tug2-gin7 i-im-[dul]"}
+      - {motif: livestock-driven-off, refs: ["ETCSL 2.2.5 D.B:28"], note: "anše udu im-mi-in-e3"}
+    hints:
+      - "Gods leaving their city: compare Ezek 10:18-19, 11:22-23 (glory leaves the temple) and Ezek 8:12 / 9:9 ('YHWH has forsaken the land')."
+      - "Shepherds destroying the fold: compare Jer 12:10, Jer 23:1-2, Ezek 34:2-10."
+      - "Sun not rising: compare Amos 8:9, Joel 2:10."
+  - id: ane-etcsl-2-2-5-e-enlil-deluge
+    tradition: ane-sumerian
+    title: Enlil's deluge-monster; the foolish rejoice, the wise lament (Lament for Unug, kirugu 2-3)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.5 E.B:1-8", "ETCSL 2.2.5 E.C:9-10", "ETCSL 2.2.5 E.D:11-41"]
+    tags:
+      - {motif: storm-deluge-as-divine-weapon-on-land, refs: ["ETCSL 2.2.5 E.D:12", "ETCSL 2.2.5 E.D:13"], note: "{d}en-lil2-le ḫuš gal-bi mu-un-tag ... a-ma-ru ki al ak-e gu3 im-ma-ab-zig3: 'a deluge that hoes the ground was summoned'"}
+      - {motif: deluge-monster-described-limb-by-limb, refs: ["ETCSL 2.2.5 E.D:14-24"], note: "hair a harrow, back fire, face an evil storm covering heaven and earth, eyes lightning like Anzud, mouth fire reaching to the netherworld (kur), tongue an inferno raining embers, arms Anzud's talons, ribs crowbars, haunches dripping knives, feet an eagle's"}
+      - {motif: fire-breathing-monster, refs: ["ETCSL 2.2.5 E.D:18", "ETCSL 2.2.5 E.D:19"], note: "gu3-bi mir-mir-ra-am3 izi bar7-a kur-re sud-sud-u3-dam; eme-bi ... u3-dub2 šeĝ3-ĝe26"}
+      - {motif: divine-fire-burns-to-sheol, refs: ["ETCSL 2.2.5 E.D:18"], note: "fire 'extending to the kur' (netherworld/mountains)"}
+      - {motif: tigris-euphrates-tremble, refs: ["ETCSL 2.2.5 E.D:25", "ETCSL 2.2.5 E.D:26"], note: "{id2}idigna {id2}buranuna ni2 mu-ni-ib-te; mountains uprooted, people scattered like sheaves"}
+      - {motif: fools-rejoice-wise-mourn-at-coming-doom, refs: ["ETCSL 2.2.5 E.D:28-35"], note: "nu-zu-u3-ne im-ši-ḫul2-ḫul2-e-eš ... lu2 zu-u3-ne gaba sag3 i3-ak-ne: the ignorant rejoice, the knowing beat their breasts"}
+      - {motif: bed-flooded-with-tears, refs: ["ETCSL 2.2.5 E.D:33", "ETCSL 2.2.5 E.D:34"], note: "a2 ĝi6-ba ni2 er2 mu-ni-ib-te-eš ... ki-nu2 {tug2}niĝ2-barag2-bi u3 dug3 li-bi-ku-ku-ne"}
+      - {motif: honest-men-turned-traitors, refs: ["ETCSL 2.2.5 E.D:31"], note: "numun zid saĝ lul-la saĝ zid-da šu bal mi-ni-ib-ak-a"}
+      - {motif: prayer-that-gods-word-be-turned-back, refs: ["ETCSL 2.2.5 E.D:37", "ETCSL 2.2.5 E.D:38"], note: "inim {d}en-lil2-la2-ke4 ḫe2-bi2-ib-gur-re murgu-bi-še3 ḫa-ba-gub; uš11 'venom' of Nunamnir"}
+      - {motif: sacrilege-against-ekur-avenged, refs: ["ETCSL 2.2.5 E.D:39", "ETCSL 2.2.5 E.D:40"], note: "may the vicious men who seized the E-kur be punished, those who set their eye on Nibru be swept away"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.5 E.B:8", "ETCSL 2.2.5 E.C:10", "ETCSL 2.2.5 E.D:41"]}
+    hints:
+      - "Monster described limb by limb, fire from its mouth: compare Job 41:10-26 (Leviathan) and Rev 9:7-10."
+      - "Fools rejoicing at a day of doom vs the wise mourning: compare Amos 5:18-20 ('woe to you who desire the day of YHWH'), Ezek 9:4 (those who sigh and groan marked), Isa 22:12-13."
+      - "Day of wrath as a storm-deluge: Nah 1:8, Isa 28:2, Dan 9:26, Jer 47:2; Q 54:19 (the roaring wind on 'Ad)."
+  - id: ane-etcsl-2-2-5-e-gutium-subir
+    tradition: ane-sumerian
+    title: Alas Sumer! The word of An and Enlil, Gutium and Subir sack the land (Lament for Unug, kirugu 4)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.5 E.E:42-43", "ETCSL 2.2.5 E.F:44-75", "ETCSL 2.2.5 E.G:76-77"]
+    tags:
+      - {motif: personal-lament-heart-filled-with-tears, refs: ["ETCSL 2.2.5 E.E:42"], note: "šag4-ĝu10 er2 im-si"}
+      - {motif: sumer-alas-lament-cry, refs: ["ETCSL 2.2.5 E.F:44", "ETCSL 2.2.5 E.G:76"], note: "ki-en-gi a šag4-zu a bar-zu a nam-lu2-u18-lu-zu"}
+      - {motif: divine-word-destroys-city, refs: ["ETCSL 2.2.5 E.F:45", "ETCSL 2.2.5 E.F:46"], note: "inim an-na ki-bi-še3 ĝa2-ĝa2-de3 ... dug4-ga {d}en-lil2-la2 di-di-de3"}
+      - {motif: storm-deluge-as-divine-weapon-on-land, refs: ["ETCSL 2.2.5 E.F:47"]}
+      - {motif: barbarian-invaders-gutium-subir, refs: ["ETCSL 2.2.5 E.F:54", "ETCSL 2.2.5 E.F:63", "ETCSL 2.2.5 E.F:65"], note: "gu-ti-um ur-re 'Gutium the enemy'; su-bir4{ki}-e"}
+      - {motif: invader-floods-like-rising-water, refs: ["ETCSL 2.2.5 E.F:65"], note: "su-bir4{ki}-e a maḫ e3-a-gin7 ... ki-en-gi-ra ba-an-de2"}
+      - {motif: invader-as-flooding-river, refs: ["ETCSL 2.2.5 E.F:65"]}
+      - {motif: veteran-warriors-lose-heart, refs: ["ETCSL 2.2.5 E.F:61", "ETCSL 2.2.5 E.F:62"], note: "me3 zu-ba šu-ba bi2-ib-šub; troop leaders hewn down"}
+      - {motif: young-and-old-massacred, refs: ["ETCSL 2.2.5 E.F:70"], note: "tur maḫ-bi mu-un-til-le-eš"}
+      - {motif: city-made-eternal-tell, refs: ["ETCSL 2.2.5 E.F:68"], note: "du6-du6-ra mi-ni-in-si-ig-eš"}
+      - {motif: city-burned, refs: ["ETCSL 2.2.5 E.F:71"], note: "iri{ki} {d}a-nun-ke4-ne ... izi mu-ni-in-ri-ri-eš"}
+      - {motif: city-eyes-put-out-shoots-uprooted, refs: ["ETCSL 2.2.5 E.F:72"], note: "unug{ki}-ga igi tab-bi mu-un-gul-gul-lu-uš {ĝiš}isimu2{sar}-bi mu-un-suḫ-u3-uš"}
+      - {motif: primeval-city-kulaba, refs: ["ETCSL 2.2.5 E.F:74"], note: "kul-aba{ki} iri ul, 'Kulaba, the primeval city', made a place of murder (ki-lul-la)"}
+    hints:
+      - "Invader as a flood: Isa 8:7-8 (the River, the king of Assyria), Jer 46:7-8, Jer 47:2."
+      - "Destruction by the word: Jer 23:29, Hos 6:5; Q 17:16 ('We command its affluent... the word is justified and We destroy it')."
+      - "Young and old slain: Lam 2:21, Ezek 9:6."
+  - id: ane-etcsl-2-2-5-e-siege-of-unug
+    tradition: ane-sumerian
+    title: The siege and sack of Unug (Lament for Unug, kirugu 5 and fragments)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.5 E.H:78-112", "ETCSL 2.2.5 E.I:113-114", "ETCSL 2.2.5 E.J:115-134"]
+    tags:
+      - {motif: city-stands-alone-after-land-falls, refs: ["ETCSL 2.2.5 E.H:86"], note: "maš-gana2-maš-gana2 ba-bir-bir unug{ki} dili-bi ba-du3"}
+      - {motif: battle-all-night-until-noon, refs: ["ETCSL 2.2.5 E.H:88"], note: "ĝi6 an-bar7-gana2-ba dam-<ḫa>-ra im-ak"}
+      - {motif: siege-with-battering-rams-and-shields, refs: ["ETCSL 2.2.5 E.H:89", "ETCSL 2.2.5 E.H:90"], note: "{ĝiš}gud-si-AŠ {kuš}gur21 ... bad3-bi mu-un-si-il-si-il-le-eš; iri {ĝiš}al-e bi2-in-ra-ra-aš"}
+      - {motif: city-burned, refs: ["ETCSL 2.2.5 E.H:91"]}
+      - {motif: invader-floods-like-rising-water, refs: ["ETCSL 2.2.5 E.H:97"], note: "su-bir4{ki}-e a maḫ a e3-a-gin7"}
+      - {motif: people-slaughtered-like-sacrificial-cattle, refs: ["ETCSL 2.2.5 E.H:99"], note: "u3-mu-un nam-lu2-ulu3 ab2-gin7 mu-[un-sur-sur-re-eš]; verb restored"}
+      - {motif: city-as-wounded-wild-bull, refs: ["ETCSL 2.2.5 E.H:87", "ETCSL 2.2.5 E.H:94", "ETCSL 2.2.5 E.H:95"], note: "gud-dam usu-tuku-am3 ... am gal-gin7 ti mu-ni-in-gid2-gid2"}
+      - {motif: mourning-rites-torn-clothes-dust, refs: ["ETCSL 2.2.5 E.I:113"], note: "saḫar mi-ni-in-su-ub; context broken"}
+    hints:
+      - "Siege with battering rams: Ezek 4:2, Ezek 21:22, 2 Kgs 25:1-4."
+      - "Blood of people like sacrifice: Isa 34:6, Jer 46:10, Zeph 1:7-8."
+      - "E.J:115-134 is broken to line ends only; the rest of kirugu 6-11 is lost."
+  - id: ane-etcsl-2-2-5-h-ishme-dagan-prayer
+    tradition: ane-sumerian
+    title: Closing prayer to Inana for Išme-Dagan, who offers the lament (Lament for Unug, kirugu 12)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.5 F.K:1-5", "ETCSL 2.2.5 G.L:1-5", "ETCSL 2.2.5 H.M:1-39"]
+    tags:
+      - {motif: barbarian-invaders-gutium-subir, refs: ["ETCSL 2.2.5 F.K:5"], note: "fragment: ki su-bir4[{ki}]; F.K mentions Zabalam and the E-kiš-nu-ĝal of Urim; 200-300 lines lost after it"}
+      - {motif: goddess-greater-than-mountains-like-an-and-enlil, refs: ["ETCSL 2.2.5 H.M:1-5"], note: "nin nam-gal-la-ni kur-ra dirig-ga an-gin7 ... {d}en-lil2-gin7 ... {d}utu-gin7 ... ub-da 4-ba dili-ni maḫ"}
+      - {motif: king-provides-temple-offerings-prayer, refs: ["ETCSL 2.2.5 H.M:9-13"], note: "gud gal-gal-e ... nidba ... kaš i3-udu i3 ... lal3 ĝeštin"}
+      - {motif: temple-music-drums-and-harps, refs: ["ETCSL 2.2.5 H.M:16-18"], note: "ub3 a2-la2 ... tigi ... za-am-za-am"}
+      - {motif: king-son-of-enlil, refs: ["ETCSL 2.2.5 H.M:15"], note: "{d}iš-me-{d}da-gan ... dumu {d}en-lil2-la2"}
+      - {motif: lament-offered-by-king-to-deity, refs: ["ETCSL 2.2.5 H.M:21-27"], note: "lu2 sun5-na ĝiri3-zu mu-un-dab5-ba ... er2 sizkur-ra-ta ma-ra-an-de6: 'the humble man who grasped your feet brought you a lament as an offering'"}
+      - {motif: humble-suppliant-grasps-deitys-feet, refs: ["ETCSL 2.2.5 H.M:22"]}
+      - {motif: order-fixed-since-creation-unchangeable, refs: ["ETCSL 2.2.5 H.M:29", "ETCSL 2.2.5 H.M:30"], note: "ud an ki-in-du-a ... ud-bi nam-me-kur2-ru"}
+      - {motif: god-of-the-city-sends-good-fate-to-king, refs: ["ETCSL 2.2.5 H.M:36", "ETCSL 2.2.5 H.M:37", "ETCSL 2.2.5 H.M:38"]}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.5 H.M:39"], note: "12th kirugu"}
+    hints:
+      - "A king brings a lament for the destroyed city: compare Lamentations as liturgy and Neh 1:4-11, Dan 9:3-19; Ps 102:14-15 (pity for Zion's stones)."
+      - "Unchangeable order since creation: Jer 31:35-36, Jer 33:20-21, Ps 148:6."
+  - id: ane-etcsl-2-2-6-1a-storm-over-eridug
+    tradition: ane-sumerian
+    title: The storm covers Eridug; Enki stands outside his city as if it were foreign (Lament for Eridug, kirugu 1)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.6 1.A.A:5-27", "ETCSL 2.2.6 1.A.B:28-29"]
+    tags:
+      - {motif: storm-covers-city-like-cloak, refs: ["ETCSL 2.2.6 1.A.A:5", "ETCSL 2.2.6 1.A.A:6"], note: "ud te-eš dug4-[ga tug2-gin7 ba-e-dul gada-gin7 ba-e-bur2]; line 5 largely restored from line 6; lines 1-4 missing"}
+      - {motif: silence-like-a-cloak-over-people, refs: ["ETCSL 2.2.6 1.A.A:9", "ETCSL 2.2.6 1.A.A:10"], note: "niĝ2-me-ĝar u18-lu-gin7 ba-e-dul"}
+      - {motif: god-stays-outside-city-as-if-foreign, refs: ["ETCSL 2.2.6 1.A.A:11", "ETCSL 2.2.6 1.A.A:12"], note: "a-a {d}en-ki iri-ni iri kur2-gin7 bar-ta ba-ra-gub er2 gig mu-un-še8-še8"}
+      - {motif: god-weeps-over-own-city, refs: ["ETCSL 2.2.6 1.A.A:11-13"]}
+      - {motif: city-gods-and-protective-spirits-abandon-city, refs: ["ETCSL 2.2.6 1.A.A:14", "ETCSL 2.2.6 1.A.A:15"], note: "nin-bi mušen dal-a-gin7 iri-ni ba-ra-e3: 'its lady left her city like a flying bird' (Damgalnuna)"}
+      - {motif: divine-powers-of-city-overturned, refs: ["ETCSL 2.2.6 1.A.A:16", "ETCSL 2.2.6 1.A.A:17"], note: "iri me kug-kug-ga me-bi šu ba-ab-bal; ĝarza ... me-bi ba-da-kur2"}
+      - {motif: storm-strikes-good-and-evil-alike, refs: ["ETCSL 2.2.6 1.A.A:19", "ETCSL 2.2.6 1.A.A:20"], note: "ud sig5 ḫul nu-ĝal2-la sag9-ga nu-zu ḫul nu-zu-e: 'a storm that knows neither good nor evil'"}
+      - {motif: barbarian-invaders-gutium-subir, refs: ["ETCSL 2.2.6 1.A.A:21"], note: "su-bir4{ki}-e a-gin7 im-mi-ib2-ĝar, 'Subir poured down like water/rain'"}
+      - {motif: sun-sets-at-noon, refs: ["ETCSL 2.2.6 1.A.A:22", "ETCSL 2.2.6 1.A.A:23", "ETCSL 2.2.6 1.A.A:24"], note: "ud zalag-ga e3-a ud ba-da-ku10-ku10; {d}utu an-ur2-ra šu2-a-gin7 an-usan-še3 ba-du3"}
+      - {motif: divine-curse-on-city, refs: ["ETCSL 2.2.6 1.A.A:25", "ETCSL 2.2.6 1.A.A:26"], note: "iri an-ne2 nam ba-an-ku5-ra2-gin7 'as if An had cursed the city'; Enlil's frown (saĝ-ki gid2-da)"}
+      - {motif: lament-cry-o-destroyed-city-and-house, refs: ["ETCSL 2.2.6 1.A.B:28"], note: "a uru2 gul-la e2 gul-la-ri gig-ga-bi im-me"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.2.6 1.A.A:27", "ETCSL 2.2.6 1.A.B:29"]}
+    hints:
+      - "God outside his own city, weeping: compare Jer 12:7 ('I have forsaken my house'), Jer 9:1, Lam 2:7; Ezek 11:23."
+      - "A storm that does not tell good from evil: Ezek 21:8-9 (righteous and wicked cut off), Gen 18:23-25 (Abraham's question), Q 8:25 ('fear a trial that strikes not only the wrongdoers')."
+      - "Day darkened at noon: Amos 8:9, Jer 15:9."
+  - id: ane-etcsl-2-2-6-1a-gates-and-ziggurat
+    tradition: ane-sumerian
+    title: The second storm breaks Eridug's gate, door and ziggurat (Lament for Eridug, kirugu 2)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.2.6 1.A.C:30-48", "ETCSL 2.2.6 1.A.D:49-50"]
+    tags:
+      - {motif: city-destroyed-a-second-time, refs: ["ETCSL 2.2.6 1.A.C:30"], note: "2-kam-ma-še3 ud-de3 iri mu-un-gul-gul"}
+      - {motif: gate-lock-and-door-torn-out, refs: ["ETCSL 2.2.6 1.A.C:33", "ETCSL 2.2.6 1.A.C:46", "ETCSL 2.2.6 1.A.C:47"], note: "[abul-la-bi {ĝiš}]si-ĝar bi2-in-kud {ĝiš}ig-bi ud-de3 im-ma-gub; the lapis door and bolt (saĝ-kul) broken, the doorframe torn out"}
+      - {motif: corpses-heaped-like-grain-piles, refs: ["ETCSL 2.2.6 1.A.C:34"], note: "uĝ3 zar-re-eš ba-an-sal"}
+      - {motif: foundations-overturned-filled-with-dust, refs: ["ETCSL 2.2.6 1.A.C:41", "ETCSL 2.2.6 1.A.C:42"], note: "ur2-ba ba-ni-ib2-bal; saḫar-ra ur2 mi-ni-ib2-si"}
+      - {motif: temple-tower-reaching-heaven, refs: ["ETCSL 2.2.6 1.A.C:43", "ETCSL 2.2.6 1.A.C:45"], note: "u6-nir eš3 an-ne2 us2-sa-bi saḫar-tu11-e ba-an-ĝar: 'the ziggurat, the shrine that reaches heaven, was made a dust heap'; gate named u6-nir-gal-an-ki-ni2-ḫuš-ri-a"}
+      - {motif: lament-cry-o-destroyed-city-and-house, refs: ["ETCSL 2.2.6 1.A.D:49"], note: "eridug{ki} gul-la-ri gul-la-bi gig-ga-am3"}
+    hints:
+      - "Tower reaching heaven brought down: Gen 11:4-9; Isa 2:15, Isa 30:25."
+      - "Gates and bars broken: Lam 2:9, Neh 1:3, Ps 74:6."

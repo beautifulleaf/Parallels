@@ -1,0 +1,134 @@
+# Full read of the ANE corpus, chunk 1: ETCSL 1.1.1-1.3.2 (Enki and Ninhursaga ... Inana and Ebih). Read from the ETCSL Sumerian composite transliterations.
+new_motifs:
+  ideal-land-without-predation: {label: "In a primeval or ideal land the lion does not kill and the wolf does not carry off the lamb", cluster: paradise}
+  ideal-land-without-sickness-or-old-age: {label: "In a primeval or ideal land there is no disease, no old age and no one says 'I am old'", cluster: paradise}
+  ideal-land-without-lament: {label: "In a primeval or ideal land no wailing or lament is heard", cluster: paradise}
+  not-yet-list-describes-primeval-state: {label: "The primeval state is described by a list of ordinary things that did not yet exist or happen", cluster: creation}
+  pristine-land-of-the-gods: {label: "A distant land (Dilmun, Eden) is praised as pure, pristine and holy, the dwelling of a god", cluster: paradise}
+  salt-water-made-fresh-by-god: {label: "A god turns salt or bitter water into fresh, drinkable water", cluster: miracle}
+  foreign-lands-send-precious-goods: {label: "Named foreign lands send gold, gems, fine woods and wool by ship to a favored city", cluster: kingship}
+  fulfilment-repeats-command-verbatim: {label: "The narrative repeats a divine command word for word to report its fulfilment", cluster: narrative-form}
+  god-impregnates-successive-daughters: {label: "A god lies with his daughter, then with the daughter born of her, and so on down the generations", cluster: sexuality}
+  gestation-of-days-not-months: {label: "A divine pregnancy lasts nine days instead of nine months", cluster: birth}
+  god-sees-maiden-and-desires-her: {label: "A god (or king) sees a beautiful young woman from afar, by water, and desires her", cluster: sexuality}
+  minister-encourages-masters-desire: {label: "A god's minister or servant encourages and facilitates his master's desire for a woman", cluster: sexuality}
+  elder-woman-warns-maiden-of-gods-lust: {label: "A mother or wise elder warns a young woman that a god will see her and seduce her", cluster: sexuality}
+  god-disguised-to-seduce: {label: "A god disguises himself (as a gardener, gatekeeper, ferryman) to gain access to a woman", cluster: sexuality}
+  fruit-gifts-to-win-woman: {label: "A suitor wins a woman's consent with gifts of fruit (cucumbers, apples, grapes)", cluster: sexuality}
+  lover-knocks-open-up: {label: "The lover knocks at the woman's door and says 'Open up'", cluster: sexuality}
+  semen-removed-and-plants-grow: {label: "A goddess removes a god's semen from a woman's body and plants grow from it", cluster: creation}
+  god-eats-forbidden-plants: {label: "A god eats plants whose nature has not been fixed, bringing a curse and illness on himself", cluster: paradise}
+  god-determines-nature-of-plants: {label: "A god asks 'what is this?', learns each plant and determines its destiny", cluster: creation}
+  goddess-curses-god-to-death: {label: "A goddess curses a god's name and vows not to look on him with the eye of life until he dies", cluster: curse}
+  gods-sit-in-dust-in-distress: {label: "The gods sit down in the dust in grief or helplessness at a cosmic crisis", cluster: mourning}
+  animal-mediator-reward: {label: "An animal (fox) offers to bring back an estranged deity in return for a reward", cluster: folktale}
+  goddess-heals-god-by-births: {label: "A goddess heals a sick god by giving birth to a deity for each of his aching body parts", cluster: healing}
+  deity-born-from-rib-ti: {label: "A goddess named Nin-ti ('Lady of the rib' / 'Lady who gives life') is born from a god's rib (ti)", cluster: creation}
+  newborn-deities-assigned-roles: {label: "Newly born deities are each assigned a role, a spouse or a land", cluster: creation}
+  closing-praise-of-god: {label: "A composition ends with the formula 'X, be praised!' (zami)", cluster: hymn}
+  oath-by-life-of-heaven: {label: "A speaker adjures or swears 'by the life of heaven'", cluster: oath}
+  name-puns-on-body-parts: {label: "Each newborn deity's name puns on the body part from which it came", cluster: wordplay}
+units:
+  - id: ane-etcsl-1-1-1-dilmun-pristine
+    tradition: ane-sumerian
+    title: Pure Dilmun, where the lion did not kill and no one grew old (Enki and Ninhursaga)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.1 1-28"]
+    tags:
+      - {motif: pristine-land-of-the-gods, refs: ["ETCSL 1.1.1 1-4"], note: "kur dilmun kug-ga-am3 ... sikil-am3 ... dadag-ga-am3: 'Dilmun land is pure ... virginal ... pristine'"}
+      - {motif: not-yet-list-describes-primeval-state, refs: ["ETCSL 1.1.1 11-28"], note: "a string of negated verbs (nu-mu-ni-be2, nu-ub-zu): raven not cawing, dog not taught, pig not knowing grain is to be eaten"}
+      - {motif: ideal-land-without-predation, refs: ["ETCSL 1.1.1 13-14"], note: "ur-gu-la saĝ ĝiš nu-ub-ra-ra / ur-bar-ra-ke4 sila4 nu-ub-kar-re: 'the lion did not slay, the wolf did not carry off lambs'"}
+      - {motif: ideal-land-without-sickness-or-old-age, refs: ["ETCSL 1.1.1 20-23"], note: "igi-gig-e igi-gig-me-en nu-mu-ni-be2 ... um-ma-bi um-ma-me-en nu-mu-ni-be2: no eye-disease said 'I am eye-disease', no old woman said 'I am an old woman'"}
+      - {motif: ideal-land-without-lament, refs: ["ETCSL 1.1.1 27-28"]}
+    hints:
+      - "Compare Isa 11:6-9 and Isa 65:25 (wolf and lamb at peace); Isa 65:19-20 (no weeping, no one dying young); Isa 35:5-6."
+      - "Compare Gen 2:5 (a 'not yet' description: no shrub, no rain, no man) and the Garden as pristine land, Gen 2:8-14."
+      - "Compare Q 15:48 and Q 35:34-35 (no weariness or grief in paradise)."
+  - id: ane-etcsl-1-1-1-dilmun-water
+    tradition: ane-sumerian
+    title: Ninsikila asks for water; Enki makes fresh water rise and Dilmun an emporium
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.1 29-62"]
+    tags:
+      - {motif: mist-or-spring-waters-earth, refs: ["ETCSL 1.1.1 40-43", "ETCSL 1.1.1 50-54"], note: "a dug3 ki-ta ... mu-na-ra-DU: 'sweet water ran out of the ground for her' from the mouth of the waters running underground (ka a ki-a DU.DU); lines 40-43 wholly restored from 50-54"}
+      - {motif: salt-water-made-fresh-by-god, refs: ["ETCSL 1.1.1 47", "ETCSL 1.1.1 58"], note: "pu2 a sis-a-zu pu2 a dug3-ga ḫe2-em: 'may your pools of salt (bitter) water become pools of sweet water'"}
+      - {motif: foreign-lands-send-precious-goods, refs: ["ETCSL 1.1.1 49A-49P"], note: "Tukriš (gold of Ḫarali, lapis), Meluḫa (cornelian, meš wood), Marḫaši, Magan (copper, diorite), Sea-land (ebony), Elam (wool), Urim (sesame, cloth) and the wide sea; tablet from Ur only"}
+      - {motif: paradise-gold-and-gems, refs: ["ETCSL 1.1.1 49A-49C"], note: "kug-sig17 ḫa-ra-li, {na4}za-gin3, {na4}gug: gold, lapis lazuli, cornelian flow to Dilmun"}
+      - {motif: fulfilment-repeats-command-verbatim, refs: ["ETCSL 1.1.1 40-49", "ETCSL 1.1.1 50-62"], note: "i3-ne-eš2 {d}utu ud ne-a ... ur5 ḫe2-na-nam-ma: 'at that moment, on that day, under that sun, so it indeed happened'"}
+      - {motif: pristine-land-of-the-gods, refs: ["ETCSL 1.1.1 49Q-49T"], note: "ki-tuš-bi ki-tuš dug3-ga-am3 ... zu2-lum-bi zu2-lum gu-ul-gu-la: good dwellings, big dates"}
+    hints:
+      - "Compare Gen 2:6 ('a mist/flow ('ed) went up from the earth') and Gen 2:10-12 (river from Eden; gold, bdellium and onyx of Havilah)."
+      - "Compare Exod 15:23-25 (bitter water of Marah made sweet), 2Kgs 2:19-22, Ezek 47:8-9 (sea water healed) and Q 25:53 / Q 35:12 (sweet and salt seas)."
+      - "Compare 1Kgs 10:11, 22 and Isa 60:5-9 (wealth of the sea and ships of Tarshish brought to Zion)."
+  - id: ane-etcsl-1-1-1-enki-daughters
+    tradition: ane-sumerian
+    title: Enki impregnates Ninhursaga and then each daughter in turn (Ninnisig, Ninkura, Ninimma)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.1 63-126CC"]
+    tags:
+      - {motif: oath-by-life-of-heaven, refs: ["ETCSL 1.1.1 70"], note: "zi an-na i3-pad3: 'by the life (breath) of heaven I adjure you'"}
+      - {motif: gestation-of-days-not-months, refs: ["ETCSL 1.1.1 75-83", "ETCSL 1.1.1 102-104", "ETCSL 1.1.1 126R-126Z"], note: "ud 1-am3 itid 1-a-ni ... ud 9-am3 itid 9-a-ni: 'her one month was one day ... her nine months nine days'"}
+      - {motif: god-sees-maiden-and-desires-her, refs: ["ETCSL 1.1.1 88-92", "ETCSL 1.1.1 108-112", "ETCSL 1.1.1 126C-126H"], note: "{d}en-ki-ke4 ambar-ra im-da-la2: Enki sees from the marsh the girl who has gone out to the riverbank (gu2 id2-da)"}
+      - {motif: minister-encourages-masters-desire, refs: ["ETCSL 1.1.1 93-96", "ETCSL 1.1.1 113-116", "ETCSL 1.1.1 126I-126K"], note: "Isimud: lugal-ĝu10 im-dirig ga-ri: 'my master will sail, let me navigate'"}
+      - {motif: god-impregnates-successive-daughters, refs: ["ETCSL 1.1.1 97-107", "ETCSL 1.1.1 117-126", "ETCSL 1.1.1 126L-126CC"], note: "Ninhursaga bears Ninnisig, Ninnisig bears Ninkura, Ninkura bears Uttu (Nibru ms.) or Ninimma who bears Uttu (Ur ms.): each is Enki's daughter and partner"}
+      - {motif: daughters-intoxicate-father-incest, refs: ["ETCSL 1.1.1 97-101"], note: "divergence: here the father pursues his daughter; no intoxication. Tagged for the father-daughter incest yielding offspring"}
+    hints:
+      - "Compare Gen 19:30-38 (father-daughter incest, offspring named) and Lev 18:6-17."
+      - "Compare 2Sam 11:2-4 (king sees a woman from afar and sends for her) and Gen 6:2 (sons of God see the daughters of men are beautiful)."
+  - id: ane-etcsl-1-1-1-uttu
+    tradition: ane-sumerian
+    title: Uttu is warned, Enki comes as a gardener with fruit, and Ninhursaga takes his seed
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.1 127-189"]
+    tags:
+      - {motif: elder-woman-warns-maiden-of-gods-lust, refs: ["ETCSL 1.1.1 127-131"], note: "na ga-e-de5 ... {d}en-ki-ke4 ambar-ra im-da-la2: Nintur advises Uttu that Enki watches from the marsh; lines 132-146 broken"}
+      - {motif: fruit-gifts-to-win-woman, refs: ["ETCSL 1.1.1 147-151", "ETCSL 1.1.1 171-177"], note: "ukuš2 ... {ĝiš}ḫašḫur ... {ĝiš}ĝeštin: cucumbers, apples, grapes; Uttu herself asks for them (147-151, restored in part)"}
+      - {motif: god-disguised-to-seduce, refs: ["ETCSL 1.1.1 167", "ETCSL 1.1.1 171"], note: "igi-ni im-ma-an-sig7-sig7 ĝidru šu bi2-in-du8 ... ĝe26-e nu-{ĝiš}kiri6: 'he made his face attractive, took a staff ... I am a gardener'"}
+      - {motif: lover-knocks-open-up, refs: ["ETCSL 1.1.1 169-170"], note: "e2-na al-dub2-dub2-e ĝal2-u3 ĝal2-u3 / a-ba-me-en: knocks at her house 'open, open' / 'who are you?'"}
+      - {motif: semen-removed-and-plants-grow, refs: ["ETCSL 1.1.1 187"], note: "{d}nin-ḫur-saĝ-ĝa2 a ḫaš2-ta ba-an-tag-tag: 'Ninhursaga removed the semen from the thighs'"}
+    hints:
+      - "Compare Song 5:2 ('Open to me, my sister') and Song 2:5, 7:13 (fruit, apples, mandrakes as love-gifts); Gen 30:14-16 (mandrakes bought for a night)."
+      - "Compare John 20:15 (the risen one mistaken for the gardener); Gen 38:14-18 (disguise, staff and pledge in a sexual bargain)."
+  - id: ane-etcsl-1-1-1-plants-eaten
+    tradition: ane-sumerian
+    title: Eight plants spring up; Enki asks what they are and eats them
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.1 190-219"]
+    tags:
+      - {motif: semen-removed-and-plants-grow, refs: ["ETCSL 1.1.1 190-197"], note: "u2-ĝiš ... u2-lal3 ... {u2}am-ḫa-ru im-ma-an-mu2: eight plants grown by Ninhursaga (subject restored)"}
+      - {motif: god-determines-nature-of-plants, refs: ["ETCSL 1.1.1 200-201", "ETCSL 1.1.1 219"], note: "u2 ĝe26-e nam-bi li-bi2-tar-re / a-na-am3 ne-e: 'I have not determined the destiny of these plants. What is this one?' ... u2 nam-bi bi2-in-tar šag4-ba ba-ni-in-zu: 'he determined the destiny of the plants, had them know it in their hearts'"}
+      - {motif: god-eats-forbidden-plants, refs: ["ETCSL 1.1.1 202-218"], note: "Isimud names each plant, cuts or pulls it up, ba-gu7-e 'and he ate it'; the plants are Ninhursaga's, grown from Enki's seed; no prohibition is stated, the consequence follows at 220-221"}
+      - {motif: adam-names-animals, refs: ["ETCSL 1.1.1 203-217"], note: "divergence: the minister names the plants one by one for the god; not animals"}
+    hints:
+      - "Compare Gen 2:19-20 (naming the creatures to see 'what he would call them') and Gen 3:6 (eating what was not to be eaten, followed by curse)."
+  - id: ane-etcsl-1-1-1-curse-and-healing
+    tradition: ane-sumerian
+    title: Ninhursaga curses Enki; the fox brings her back; eight healing deities born, Ninti from the rib
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 1.1.1 220-281"]
+    tags:
+      - {motif: goddess-curses-god-to-death, refs: ["ETCSL 1.1.1 220-221"], note: "mu {d}en-ki nam-erim2 ba-an-kud / i-bi2 na-aĝ2-til3-la en-na ba-ug5-ge-a i-bi2 ba-ra-an-bar-re-en: 'until he dies I will not look at him with the eye of life'"}
+      - {motif: gods-sit-in-dust-in-distress, refs: ["ETCSL 1.1.1 222"], note: "{d}a-nun-na-ke4-ne saḫar-ta im-mi-in-durunx-ne-eš"}
+      - {motif: animal-mediator-reward, refs: ["ETCSL 1.1.1 223-227"], note: "ka5-a: the fox asks Enlil a-na-am3 niĝ2-ba-ĝu10 'what is my reward?'; promised two trees (ĝiš-gana2) in Nibru and fame"}
+      - {motif: animal-mediator-reward, refs: ["ETCSL 1.1.1 228-230", "ETCSL 1.1.1 235-239"], note: "the fox anoints himself, shakes his fur, puts kohl (šembizid) on his eyes; claims to have visited Nibru, Urim, Larsam, Unug; 231-234, 240-246 broken"}
+      - {motif: goddess-heals-god-by-births, refs: ["ETCSL 1.1.1 252-271"], note: "{d}en-ki gal4-la-na ba-ni-in-tuš: she seats Enki by (in) her vagina; šeš-ĝu10 a-na-zu a-ra-gig 'my brother, what hurts you?'"}
+      - {motif: deity-born-from-rib-ti, refs: ["ETCSL 1.1.1 268-269", "ETCSL 1.1.1 279"], note: "ti-ĝu10 ma-gig / {d}nin-ti im-ma-ra-an-tu-ud: 'my rib (ti) hurts me' - she bore Nin-ti; Nin-ti is to be 'lady of the month' (nin itid). Sumerian ti 'rib' and til3 'live' sound alike"}
+      - {motif: name-puns-on-body-parts, refs: ["ETCSL 1.1.1 254-271"], note: "ugu-dilim2 > Ab-u; siki > Nin-siki-la; giri17 > Nin-giri17-u3-tud; ka > Nin-ka-si; zi > Na-zi; a2 > A2-zi-mu2-a; ti > Nin-ti; zag > En-sa6-ag"}
+      - {motif: newborn-deities-assigned-roles, refs: ["ETCSL 1.1.1 272-280"], note: "Ab-u king of grasses, Ninsikila lord of Magan, Ensag lord of Dilmun; three are married off (Ninazu, Nindara, Ninĝišzida)"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 1.1.1 281"]}
+    hints:
+      - "Compare Gen 2:21-22 (woman built from the man's rib, tsela') and Gen 3:20 (Eve, 'mother of all living'); the Sumerian ti / til 'rib' / 'life' pun has long been compared."
+      - "Compare Gen 3:14-19 (curse after eating) and Num 12:10-15 (a sufferer healed after intercession)."
+      - "Compare Job 2:8, 2:13 (sitting in the dust in grief); Judg 15:4 (foxes)."
