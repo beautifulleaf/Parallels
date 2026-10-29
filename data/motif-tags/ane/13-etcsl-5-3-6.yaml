@@ -1,0 +1,148 @@
+# Full read of the ANE corpus, chunk 13: ETCSL 5.3.6-6.1.02 (Silver and Copper ... Proverbs collection 2+6). Read from the ETCSL Sumerian composite transliterations.
+new_motifs:
+  debate-poem-two-rivals-dispute-precedence: {label: "Two personified things (metals, trees, animals, seasons, tools) dispute in speeches which of them is superior and more useful to humankind", cluster: wisdom}
+  debate-decided-by-god-in-his-house: {label: "A god (Enlil, Enki) gives the verdict in a dispute between two rivals and declares one of them the winner (dub-saĝ)", cluster: wisdom}
+  rival-mocked-as-useless-for-farming-year: {label: "In a dispute one rival is mocked because it supplies none of the tools needed at each season of the farming year (sowing, winter, harvest)", cluster: wisdom}
+  silver-hoarded-buried-in-the-house: {label: "Silver is hidden away: wrapped in rags, sealed in jars and boxes and buried in a hole in the cattle-pen or a dark corner of the house", cluster: wisdom}
+  metal-created-by-god-for-humans-food: {label: "A god creates a metal or tool at the beginning so that people may have food", cluster: creation}
+  trades-satirised-as-toilsome: {label: "A list of crafts and trades (potter, shipbuilder, cook, brewer, barber) is given, each with its dirt and toil", cluster: wisdom}
+  rival-called-dog-or-snake: {label: "In a quarrel one party abuses the other as a dog or a snake and tells it to go back to its hole or grave", cluster: wisdom}
+  tamarisk-wood-is-the-body-of-the-gods: {label: "Tamarisk wood boasts that divine statues are carved from it ('my body is the body of the gods')", cluster: cult}
+  silver-overlays-divine-statues: {label: "Divine statues of wood are overlaid with silver or gold", cluster: cult}
+  insult-catalogue-of-animals: {label: "An abusive tirade calls its target a string of vile animals (dog, wolf, hyena, mongoose, monkey) and a madman", cluster: wisdom}
+  slanderer-with-forked-tongue: {label: "The wicked man is a slanderer with an evil mouth and a forked (split) tongue who spreads evil talk among his kin", cluster: wisdom}
+  thief-digs-through-house-wall: {label: "A thief breaks into houses by digging through the wall and tearing out the door", cluster: law}
+  son-sends-courier-with-greeting-to-mother: {label: "A son far away sends a messenger to his anxious mother with the message that he is well", cluster: family}
+  messenger-given-signs-to-recognise-recipient: {label: "A messenger is given descriptions (signs) by which he will recognise the person he must find", cluster: narrative-form}
+  mother-praised-in-similes-of-light-gems-and-fruit: {label: "A beloved woman (a mother) is described in a series of similes: morning star, doe on the hills, gems, rain, garden, date palm, perfume", cluster: love}
+  ideal-wife-runs-her-household: {label: "The ideal woman single-handedly keeps the household in order, makes possessions increase and is diligent", cluster: wisdom}
+  captive-returns-to-his-mother-good-news: {label: "The image of good news: the captive returns to his mother", cluster: family}
+  father-dies-while-son-far-away: {label: "A father falls ill and dies while his son is on a distant journey; the son hears the news too late", cluster: family}
+  repeated-refrain-struck-by-illness: {label: "A refrain lists the dead man's virtues one by one, each line ending 'he was struck by illness'", cluster: mourning}
+  son-composes-lament-for-dead-parent: {label: "A son (or husband) composes a written lament (elegy) for his dead father or wife", cluster: mourning}
+  dead-man-was-god-fearing: {label: "The dead man is praised as truthful and god-fearing (ni2 teĝ3 diĝir)", cluster: mourning}
+  death-is-the-gods-lot-for-man: {label: "Death is called the lot decreed by the gods, the place where fate is decided", cluster: mourning}
+  prayer-for-dead-in-underworld-gods-names: {label: "The mourner asks named underworld gods (Utu, Nanna, Nergal, Gilgamesh, Ningishzida, Etana) to judge the dead man favourably and care for him", cluster: underworld}
+  sun-god-judges-dead-in-underworld: {label: "The sun god (Utu/Shamash) enters the underworld at night, lights up its darkness and judges the cases of the dead", cluster: underworld}
+  prayer-that-dead-mans-sin-be-erased: {label: "The mourner prays that the dead person's god release him from sin and erase the record of his house's guilt", cluster: underworld}
+  murderer-of-dead-cursed-justice-to-king-and-utu: {label: "The mourner curses the dead man's murderer and leaves true judgement to the king and the sun god", cluster: law}
+  blessings-on-dead-mans-family: {label: "The elegy closes with blessings on the dead person's wife, children and household", cluster: mourning}
+  death-of-young-wife-like-trapped-bird: {label: "A young woman's untimely death is likened to a fledgling caught in a net or a cow caught in a snare", cluster: mourning}
+  widower-cries-where-is-refrain: {label: "The bereaved husband laments in a refrain 'where is my ...? I would call on you'", cluster: mourning}
+  bright-light-turned-to-darkness-in-grief: {label: "For the bereaved the bright daylight turns to darkness", cluster: mourning}
+  songs-turned-into-laments: {label: "The best songs of the singers are turned into laments and moaning", cluster: mourning}
+  hoe-creates-humankind: {label: "Enlil sets the hoe to work and it places the first model of humankind in the brick mould; people sprout from the earth", cluster: creation}
+  humans-sprout-from-the-earth: {label: "The first humans break through the soil like plants (Sumerian ki dar, 'Where Flesh Came Forth')", cluster: creation}
+  axis-of-world-at-duranki: {label: "At creation the god fixes the cosmic bond or axis (Dur-an-ki) of the world at Nibru", cluster: cosmology}
+  hoe-praised-as-maker-of-civilisation: {label: "The hoe is praised as the tool that builds temples and cities, subdues lands and makes everything prosper", cluster: creation}
+  composition-built-on-puns-on-one-word: {label: "A poem is built on puns on a single syllable or word, which recurs in nearly every line", cluster: narrative-form}
+  gods-each-build-temple-with-hoe: {label: "A list of gods each found or build their temples with the hoe", cluster: cult}
+  hoe-buries-and-brings-up-dead: {label: "The hoe buries people in the grave and brings the dead back up from the earth", cluster: underworld}
+  work-song-to-oxen-refrain: {label: "A ploughing song addresses the oxen with a refrain: 'Go, oxen, go, put your necks under the yoke'", cluster: agriculture}
+  goddess-provides-bread-and-water-to-farmer: {label: "A goddess puts bread in the farmer's bag and water in his waterskin and says 'eat the bread, drink the water'", cluster: agriculture}
+  incubation-dream-in-temple: {label: "A person lies down to sleep in a temple in order to receive a dream from the god", cluster: revelation}
+  speaking-animal-ox: {label: "An ox or bull speaks and argues with its master", cluster: folktale}
+  plough-made-ready-by-carpenter: {label: "The plough is taken down from its peg and its bonds tightened by a skilled carpenter before ploughing", cluster: agriculture}
+  disputants-bring-offerings-to-god: {label: "The two rivals of a dispute come before the judging god bringing offerings and gifts", cluster: wisdom}
+  silver-claims-palace-and-banquets-as-its-place: {label: "Silver boasts that the palace and banquets are its station; Copper retorts that its place is the grave and fasting", cluster: wisdom}
+  insulted-party-keeps-calm-without-hate: {label: "The insulted party keeps calm, shows no hatred and does not answer in kind at once", cluster: wisdom}
+  silver-as-medium-of-lies-and-fraud: {label: "Silver (money) is denounced as the medium of lies, fraud, taxes and deceit", cluster: wisdom}
+  catalogue-of-farm-produce-fish-and-birds: {label: "A long catalogue of the land's produce: grain, sesame, onions, leeks, salt, fattened pigs, kinds of fish and birds and eggs", cluster: agriculture}
+  silver-in-shekel-and-mina-weights: {label: "Silver is counted in weighed pieces of shekels and minas", cluster: economy}
+  anointing-people-with-cedar-oil: {label: "People are anointed with aromatic cedar oil", cluster: cult}
+  abomination-nig-gig-to-god-or-king: {label: "A thing or conduct is declared an abomination (Sumerian niĝ2-gig, Akkadian ikkibu, Hebrew to'evah) to a god or king", cluster: wisdom}
+  time-passes-days-and-years-formula: {label: "Stock formula for passing time: 'the days passed, the years grew long'", cluster: narrative-form}
+  god-gives-king-strength-to-build-temples: {label: "The chief god gives the king strength to build the temples of the great gods and raise levees and ditches", cluster: kingship}
+  people-eat-well-under-good-king: {label: "Under the good king the people eat excellent food and the city prospers in wool and oil", cluster: kingship}
+units:
+  - id: ane-etcsl-5-3-6-a-silver-copper-opening
+    tradition: ane-sumerian
+    title: Silver and Copper, opening speeches; Enlil receives Copper (Silver and Copper, A)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.3.6 A:1-128"]
+    tags:
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["ETCSL 5.3.6 A:1-20", "ETCSL 5.3.6 A:52-62"], note: "kug 'silver' vs urud niĝ2 kalag-ga 'Strong Copper'; the opening is fragmentary"}
+      - {motif: divine-minister-ushers-king-before-god, refs: ["ETCSL 5.3.6 A:81-88"], note: "here not a king but Copper, the disputant; Enlil calls his minister Nuska; Nuska says kur9-mi-ni 'come in!' to Copper"}
+      - {motif: trades-satirised-as-toilsome, refs: ["ETCSL 5.3.6 A:99-111"], note: "Silver's curses on Copper list porters, potter (baḫar2), shipbuilder caulking with fish oil, cook, brewer, maltster, nest-hunter, barber, waggon oxen, donkeys under the yoke: the trades that need copper"}
+      - {motif: disputants-bring-offerings-to-god, refs: ["ETCSL 5.3.6 A:89-91"], note: "Copper clasps 'the abundance of heaven and earth' as maš2 kadra 'offering and gift'; Silver brings slaughtered goats, bulls, sheep"}
+    hints:
+      - "Compare Gen 4:22 (Tubal-cain, forger of bronze and iron tools) and Ecclus 38:24-34 (satire of the trades)."
+      - "Compare the Egyptian Satire of the Trades (Dua-Khety) for the list of dirty crafts."
+  - id: ane-etcsl-5-3-6-b-silver-boast-copper-reply
+    tradition: ane-sumerian
+    title: Silver's boast of the palace and Copper's reply (Silver and Copper, B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.3.6 B:1-34"]
+    tags:
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["ETCSL 5.3.6 B:12", "ETCSL 5.3.6 B:28-34"]}
+      - {motif: silver-claims-palace-and-banquets-as-its-place, refs: ["ETCSL 5.3.6 B:12"], note: "e2-a ... ĝišbunx eš-gar3-ĝu10-um 'banquets are my assigned task'"}
+      - {motif: insulted-party-keeps-calm-without-hate, refs: ["ETCSL 5.3.6 B:15-18"], note: "Copper 'kept his body firm ... did not show hate'"}
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["ETCSL 5.3.6 B:29-34"], note: "šu kišib-la2 nu-tuku 'a hand without a wrist'; gu2 si-ig niĝ2 nu-il2 'a weak neck carries nothing'"}
+  - id: ane-etcsl-5-3-6-c-copper-curses-silver
+    tradition: ane-sumerian
+    title: Copper's curses on Silver (Silver and Copper, C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.3.6 C:1-21"]
+    tags:
+      - {motif: silver-as-medium-of-lies-and-fraud, refs: ["ETCSL 5.3.6 C:4-7"], note: "šu lul-la 'hand of lies', lul-gu 'falsehood', lu2-lul 'liar'; silver as the medium of deceit and taxes (niĝ2-ku5)"}
+      - {motif: futility-curse-sow-not-reap, refs: ["ETCSL 5.3.6 C:10-18"], note: "here a curse spoken by a rival, not a treaty curse; a chain of ba-ra- prohibitives: let no grain grow, no silo fill, no king ride a barge built by you, 'you shall not work wood, you shall not work reed'"}
+  - id: ane-etcsl-5-3-6-d-copper-created-silver-buried
+    tradition: ane-sumerian
+    title: Copper's account of his creation and his mockery of buried Silver; Silver's answer (Silver and Copper, D)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.3.6 D:1-84"]
+    tags:
+      - {motif: heaven-separated-from-earth-primeval, refs: ["ETCSL 5.3.6 D:1"], note: "[an] ki-ta ba9-ra2-ta"}
+      - {motif: not-yet-list-describes-primeval-state, refs: ["ETCSL 5.3.6 D:2"], note: "a na8-na8 nu-ĝal2-la-am3 'there was no drinking water'"}
+      - {motif: metal-created-by-god-for-humans-food, refs: ["ETCSL 5.3.6 D:3-4"], note: "uĝ3-e u2 gu7-de3 ... a-a-ĝu10 {d}en-lil2-le ud dili-a mu-tud-de3-en6 'my father Enlil bore me in a single day so that the people might eat'"}
+      - {motif: two-rivers-tigris-euphrates, refs: ["ETCSL 5.3.6 D:5"], note: "{id2}idigna am gal-gin7 ḫe2-ma-a-du7-u3 'the Tigris butted like a great wild bull' when Enlil made Copper"}
+      - {motif: silver-hoarded-buried-in-the-house, refs: ["ETCSL 5.3.6 D:18-23", "ETCSL 5.3.6 D:38"], note: "pisaĝ 'boxes' caulked like a boat, old rags, a hole in the cattle-pen, a sealed jar, ki-tum2 'grave' in the darkest corner"}
+      - {motif: rival-mocked-as-useless-for-farming-year, refs: ["ETCSL 5.3.6 D:24-37"], note: "five-fold refrain ur5-ta en3-zu lu2-u3 nu-tar-re 'so no one cares for you': hoes, adzes for ploughs, axes for firewood, sickles at harvest"}
+      - {motif: rival-called-dog-or-snake, refs: ["ETCSL 5.3.6 D:45-46", "ETCSL 5.3.6 D:49"], note: "ze2 ur-gin7 'like a dog'; muš ... ki-tum2-za nu2-i3 'snake, lie down in your grave'"}
+      - {motif: silver-claims-palace-and-banquets-as-its-place, refs: ["ETCSL 5.3.6 D:40-42"], note: "kug ĝišbunx nu eš2-gar3 ... šag4 tab eš2-gar3-zu-um 'banquets are not your task, fasting is'"}
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["ETCSL 5.3.6 D:44"], note: "Copper denies Silver kiĝ2-gi4-a diĝir dim2 'the work of fashioning gods' not in your hands"}
+      - {motif: rival-mocked-as-useless-for-farming-year, refs: ["ETCSL 5.3.6 D:63-66"], note: "Silver's retort: copper hoes, sickles, axes and saws blunt and must 'lie down for a rest'"}
+      - {motif: catalogue-of-farm-produce-fish-and-birds, refs: ["ETCSL 5.3.6 D:70-84"], note: "flood waters fill the desert; grain, sesame, onions, leeks, turnips, salt carried to canal banks; pigs, porcupine, fish (suḫur, giraba), birds (u5) from the sea"}
+    hints:
+      - "Compare Job 28:1-11 (silver mined from the dark places of the earth) and Matt 25:25 (talent buried in the ground)."
+      - "Compare Jer 32:14 (deeds sealed in an earthenware jar) and Josh 7:21 (silver hidden under the tent floor)."
+      - "Compare Gen 2:5-6 (no rain, no one to till) for the before-creation formula; Isa 2:4 for tools of farming."
+  - id: ane-etcsl-5-3-6-efgh-fragments
+    tradition: ane-sumerian
+    title: Fragments on silver weights, cedar oil and Enlil (Silver and Copper, E-H)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.3.6 E:1-14", "ETCSL 5.3.6 F:1-10", "ETCSL 5.3.6 G:1-11", "ETCSL 5.3.6 H:1-7"]
+    tags:
+      - {motif: silver-in-shekel-and-mina-weights, refs: ["ETCSL 5.3.6 E:3-6", "ETCSL 5.3.6 E:13", "ETCSL 5.3.6 F:4"], note: "kug tur-tur 1 giĝ4 'small one-shekel pieces'; 3 ma-na 4 ma-na; 5 ma-na 10 ma-na"}
+      - {motif: anointing-people-with-cedar-oil, refs: ["ETCSL 5.3.6 G:6-8"], note: "i3 šim {ĝiš}erin-na 'aromatic oil of cedar', ḫa-mu-ta-šeš4-e 'let him anoint'; fragmentary"}
+      - {motif: abomination-nig-gig-to-god-or-king, refs: ["ETCSL 5.3.6 G:9"], note: "lugal-ĝa2 niĝ2-gig-bi-[im] 'it is an abomination (niĝ2-gig) to my king'"}
+      - {motif: black-headed-people, refs: ["ETCSL 5.3.6 G:7"], note: "lu2-ulu3 uĝ3 saĝ gig2-ge"}
+    hints:
+      - "niĝ2-gig 'abomination' compare Hebrew to'evah (Prov 6:16, Deut 25:16)."
+  - id: ane-etcsl-5-3-6-i-verdict-and-ur-namma
+    tradition: ane-sumerian
+    title: Enlil's verdict for Copper; Copper helps Ur-Namma build (Silver and Copper, I)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 5.3.6 I:1-58"]
+    tags:
+      - {motif: debate-decided-by-god-in-his-house, refs: ["ETCSL 5.3.6 I:10-11"], note: "urud niĝ2 kalag-ga kug-ra e2 {d}en-lil2-la2-ka dub-saĝ-[am3] 'Strong Copper had the lead over Silver in Enlil's house'"}
+      - {motif: closing-praise-of-deity-za3-mi2, refs: ["ETCSL 5.3.6 I:12"], note: "a-a {d}en-lil2 za3-mi2"}
+      - {motif: time-passes-days-and-years-formula, refs: ["ETCSL 5.3.6 I:13"], note: "ud ba-zal-zal mu ba-sud-sud 'the days passed, the year grew long'"}
+      - {motif: goddess-consults-star-tablet, refs: ["ETCSL 5.3.6 I:19"], note: "no goddess named in what survives; dub mul kug 'the holy tablet of the stars'; fragmentary"}
+      - {motif: shepherdship-of-land-given-by-god, refs: ["ETCSL 5.3.6 I:30-36"], note: "nam-sipad-še3 ba-an-il2 'raised to shepherdship'; sipad ur-{d}namma"}
+      - {motif: god-gives-king-strength-to-build-temples, refs: ["ETCSL 5.3.6 I:37-44"], note: "with Copper Ur-Namma builds Suen's temple in Urim and the E-kur in Nibru, raises levees and ditches"}
+      - {motif: people-eat-well-under-good-king, refs: ["ETCSL 5.3.6 I:48"], note: "uĝ3-e u2 nir-ĝal2 mu-da-gu7-u3-ne"}
+    hints:
+      - "Compare 1 Kgs 5-6 and 1 Chr 22:14-16 (David and Solomon gather bronze, iron and silver for the temple); Deut 8:9 (a land whose hills yield copper)."

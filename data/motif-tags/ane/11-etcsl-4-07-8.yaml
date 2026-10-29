@@ -56,6 +56,10 @@ new_motifs:
   girl-sings-in-apple-and-fig-orchard: {label: "The lover speaks to the beloved among apple trees, fig trees and willows", cluster: love}
   goddess-called-milk-of-god: {label: "The goddess calls herself 'the milk of the god' (of Dumuzid)", cluster: divine-epithets}
   inana-titled-lady-of-heaven: {label: "Inana is titled lady, queen or mother of heaven (nin/ama an-na, 'queen of heaven')", cluster: divine-epithets}
+  lover-meets-girl-while-she-dances: {label: "The lover meets the girl while she is out dancing and singing all day, and embraces her", cluster: love}
+  lovemaking-by-moonlight: {label: "The lover proposes to make love by moonlight on the couch", cluster: love}
+  goddess-of-milk-and-fold: {label: "Through a goddess the cattle-pen is filled with butter and cream and the sheepfold with milk", cluster: fertility}
+  brother-takes-en-priesthood: {label: "A brother (Dumuzid) takes possession of the en priesthood of a city, served monthly by incantation and ablution priests", cluster: cult}
 units:
   - id: ane-etcsl-4-07-8-1-nanaya-balbale
     tradition: ane-sumerian
@@ -125,3 +129,338 @@ units:
     hints:
       - "Compare Ps 21:4-6 and Ps 61:6-7 (prayer for the king's life and length of days)."
       - "'Queen of heaven' as Inana/Ištar: compare Jer 7:18 and 44:17-19."
+  - id: ane-etcsl-4-08-01-flax-for-the-bridal-bed
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid - Utu, Inana and the flax (Dumuzid-Inana A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.01 1-57"]
+    tags:
+      - {motif: sun-god-as-brother-matchmaker, refs: ["ETCSL 4.08.01 1-3", "ETCSL 4.08.01 45-50"], note: "šeš-e nin9-ra mi2 na-mu-e / {d}utu nin9-ra: the brother Utu speaks tenderly to his sister and names her bridegroom"}
+      - {motif: goddess-sister-lover-dialogue, refs: ["ETCSL 4.08.01 12", "ETCSL 4.08.01 15"], note: "here a real brother-sister dialogue (Utu and Inana), framing the bridal theme"}
+      - {motif: flax-to-bridal-sheet-chain, refs: ["ETCSL 4.08.01 9-44"], note: "a-ba-a ma-e-ri ... ma-ab-NU-NU ... ma-ab-tab-be2 ... ma-ab-ze2-ze2 ... ma-ab-TUKU5-TUKU5 ... ma-DAN3-DAN3 ... a-ba-a mu-da-an-nu2: ret, spin, twine, warp, weave, bleach, 'who will lie down on it with me?'"}
+      - {motif: valiant-wife-works-wool-and-flax-spindle, refs: ["ETCSL 4.08.01 12-41"], note: "the stages of linen-making are listed in order, but here the brother offers to do them all for her"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 4.08.01 45-50"], note: "za-ra nitalam-zu ḫe2-da-an-nu2 / {d}ama-ušumgal-an-na ḫe2-da-an-nu2: the bridegroom Ama-ušumgal-ana, companion of Enlil, 'issue of a noble womb', shall lie with her"}
+      - {motif: bridegroom-farmer-and-shepherd, refs: ["ETCSL 4.08.01 51-56"], note: "al nu-ak-am3 guru7 dub-dub-ba-am3 'he does no hoeing yet heaps up grain piles'; sipad e-ze2-ni siki sug4-sug4-ga-am3"}
+      - {motif: love-poetry-dialogue-of-lovers, refs: ["ETCSL 4.08.01 1-56"]}
+    hints:
+      - "Compare Song 8:8-9 (the brothers deliberate over their little sister's marriage) and Gen 24:29-60 (Laban, the brother, arranges Rebekah's marriage)."
+      - "Linen-making stage by stage: compare Prov 31:13, 19, 22, 24."
+      - "A bed spread with linen for love: compare Prov 7:16-17."
+  - id: ane-etcsl-4-08-02-oath-of-women
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid - the oath of women (Dumuzid-Inana B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.02 1-33"]
+    tags:
+      - {motif: beloved-sweet-as-beer-and-honey, refs: ["ETCSL 4.08.02 2-3", "ETCSL 4.08.02 7-8"], note: "lal3 ama ugu-na-ĝu10, ĝeštin duru5-ĝu10 'my sappy vine', ka lal3 'honey-mouthed'; še-za kaš-bi in-dug3 'the beer of your barley is good'"}
+      - {motif: honey-and-milk-under-tongue, refs: ["ETCSL 4.08.02 3-6"], note: "ka lal3 'honey-mouth'; nundum-za ne su-ub-bi ma-dug3 'the kissing of your lips is sweet to me'"}
+      - {motif: come-with-me-my-beloved-sister, refs: ["ETCSL 4.08.02 4", "ETCSL 4.08.02 6", "ETCSL 4.08.02 8"]}
+      - {motif: woman-demands-lover-swear-fidelity, refs: ["ETCSL 4.08.02 13-20"], note: "mu-un-til3-le-na ... na-aĝ2-erim2 ma-kud-de3-en / lu2-kur2-ra šu nu-mu-ni-in-dug4-ga: 'as long as you live you shall swear me an oath that you will not touch another'"}
+      - {motif: oath-sworn-hand-on-genitals, refs: ["ETCSL 4.08.02 21-26"], note: "šu zid-da-zu gal4-la-ĝa2 de3-em-mar / gab2-bu-zu saĝ-ĝu10-uš im-ši-ri: right hand on my genitals, left hand on my head; ur5-ra-am3 mu munus-e-ne-kam 'this is the oath of women'"}
+      - {motif: his-left-hand-under-my-head, refs: ["ETCSL 4.08.02 21-22"], note: "gab2-bu-zu saĝ-ĝu10-uš im-ši-ri: 'your left hand on my head' while the right hand is on her genitals"}
+      - {motif: lover-as-garden-of-fruit-trees, refs: ["ETCSL 4.08.02 27-29"], note: "{ĝiš}kiri6 {ĝiš}ḫašḫur-a 'my apple garden'; {ĝiš}kiri6 {ĝiš}meš3-a gurun il2-la-ĝu10 'my fruitful garden of meš trees'"}
+      - {motif: lover-body-as-gold-and-jewel-statue, refs: ["ETCSL 4.08.02 31-32"], note: "dim3 kug-ga-ĝu10 'my holy statuette'; dim3 ĝiš-nu11-gal suḫ za-gin3 keše2 'alabaster statuette adorned with lapis'"}
+    hints:
+      - "Compare Song 2:6 and 8:3 ('his left hand under my head and his right hand embraces me')."
+      - "Hand placed on the genitals for an oath: compare Gen 24:2-9 and 47:29 (hand under the thigh)."
+      - "Compare Song 2:3 (the lover as apple tree), Song 5:10-16 (the lover's body as gold and jewels), Song 4:11 (honey on the lips)."
+  - id: ane-etcsl-4-08-03-a-bathing-and-puberty
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid - bathing, gifts and coming of age (Dumuzid-Inana C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.03 A:1-49"]
+    tags:
+      - {motif: dialogue-what-were-you-doing-in-house, refs: ["ETCSL 4.08.03 A:1-8"], note: "nin9-ĝu10 e2-a a-na-am3 mu-e-ak"}
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["ETCSL 4.08.03 A:3-18"], note: "a im-ma-tu5 na-ma im-ma-su-ub; u5 ze2-ba bur-ra im-ma-šeš4; šem-bi-zid i-bi2-ĝa2 mu-ni-mar-mar (kohl); gold bracelet, lapis beads"}
+      - {motif: lover-promises-gifts-of-flocks, refs: ["ETCSL 4.08.03 A:32-41"], note: "ḫe2-laḫ5 ḫe2-laḫ5 i3-i3 gara2-bi ga-na ḫe2-laḫ5 ... u8-gin7 sila4 ... ud5-gin7 maš2; answer: nin9-ĝu10 e2-a ga-mu-u8-da-laḫ5"}
+      - {motif: lover-gives-jewels-to-beloved, refs: ["ETCSL 4.08.03 A:19-24"], note: "nin9 lu2 niĝ2 5 ma-ra-de6-a-ĝu10 / niĝ2 10: 'my sister to whom I bring five things, ten things'"}
+      - {motif: puberty-breasts-stand-hair-grows, refs: ["ETCSL 4.08.03 A:42-44"], note: "i-da-lam gaba-me ba-gub-gub / i-da-lam gal4-la-me siki ba-an-mu2 / ur2 mu-tin-na-še3 di-di-de3: 'see, our breasts stand up, hair has grown on our genitals', progress to a man's embrace"}
+      - {motif: goddess-delights-in-her-genitals, refs: ["ETCSL 4.08.03 A:45-48"], note: "{d}ba-u2 gal4-la-ĝa2-ke4-eš ga-ba-ḫul2-ḫul2-le-en-de3-en; gu4-ud-an-ze2-en 'dance, dance!'"}
+      - {motif: wine-gladdens-gods-and-men, refs: ["ETCSL 4.08.03 A:27-31"], note: "she will pour wine (mu-tin) into his mouth when he comes from the palace: šag4-ga-ni ḫe2-em-ḫul2-le"}
+    hints:
+      - "The girl's coming of age: compare Ezek 16:7-8 ('your breasts were formed and your hair had grown ... it was the time of love') and Song 8:8-10."
+      - "Bathing, anointing and dressing before the lover: compare Ruth 3:3 and Ezek 16:9-13."
+  - id: ane-etcsl-4-08-03-b-gisgigal
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid - closing ĝišgiĝal (Dumuzid-Inana C, segment B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.03 B:50-52"]
+    tags:
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.08.03 B:52"], note: "ĝiš-gi4-ĝal2-bi-im: the antiphon repeats 'let him bring butter and cream'"}
+      - {motif: lover-promises-gifts-of-flocks, refs: ["ETCSL 4.08.03 B:50-51"]}
+  - id: ane-etcsl-4-08-04-honey-bed
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid - the brother's house and the bed of honey (Dumuzid-Inana D)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.04 1-23"]
+    tags:
+      - {motif: ravished-by-one-glance, refs: ["ETCSL 4.08.04 3", "ETCSL 4.08.04 7-9"], note: "ga-ša-an-na-ĝu10 i-bi2 mu-ši-in-bar; mu-lu ki-ig-ga aĝ2-ĝu10 gaba im-ma-an-de5 ... dili mu-e-da-ḫul2 'he delighted in you alone'"}
+      - {motif: king-brings-beloved-into-chambers, refs: ["ETCSL 4.08.04 10"], note: "šeš-e e2-ni-a im-ma-ni-in-kur9-re-en 'the brother brought you into his house'"}
+      - {motif: lovers-bed-dripping-honey, refs: ["ETCSL 4.08.04 11"], note: "mu-nu2 lal3 ḫab2-ba bi2-in-nu2-en"}
+      - {motif: explicit-erotic-description, refs: ["ETCSL 4.08.04 12-18"], note: "eme ak 'tongue-kissing'; šeš i-bi2 sag9-sag9-ĝu10 50-am3 mu-un-ak 'did it fifty times'"}
+      - {motif: lover-begs-to-be-let-go, refs: ["ETCSL 4.08.04 19-20"], note: "šu ba-am3-mu-u8 nin9-ĝu10 ... e2-gal-la ga-ĝen 'let me go, my sister, let me go to the palace'"}
+      - {motif: father-sees-daughter-still-a-child, refs: ["ETCSL 4.08.04 21-22"], note: "igi ad-da-ĝa2 dumu tur ḫe2-me-en / {d}ba-u2 lu2 ḫa-ba-zu: 'to my paternal eye you are a small child; may Bau know you as a man'. ETCSL takes this as the lover's reply"}
+    hints:
+      - "Compare Song 1:4 ('the king has brought me into his chambers') and Song 2:4."
+      - "'Let me go': compare Gen 32:27 (the night wrestler, 'let me go, for dawn is breaking') and Song 3:4 ('I held him and would not let him go')."
+  - id: ane-etcsl-4-08-05-song-of-lettuce
+    tradition: ane-sumerian
+    title: The song of the lettuce - a balbale to Inana and Dumuzid (Dumuzid-Inana E)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.05 1-11"]
+    tags:
+      - {motif: lover-as-well-watered-lettuce, refs: ["ETCSL 4.08.05 1-4", "ETCSL 4.08.05 10"], note: "ba-lam ba-lam-lam ḫi-iz{sar}-am3 a ba-an-dug4 'he has sprouted, he has burgeoned, he is well-watered lettuce'"}
+      - {motif: lover-as-garden-of-fruit-trees, refs: ["ETCSL 4.08.05 2-4"], note: "{ĝiš}kiri6 ĝi6-edin-na 'shaded garden of the desert'; {ĝiš}ḫašḫur ... gurun il2-la-ĝu10 'my fruitful apple tree'"}
+      - {motif: lover-as-apple-tree-shade, refs: ["ETCSL 4.08.05 2", "ETCSL 4.08.05 4"]}
+      - {motif: beloved-sweet-as-beer-and-honey, refs: ["ETCSL 4.08.05 5-9"], note: "lu2-lal3-e 'the honey man'; šu-ni lal3-e me-ri-ni lal3-e 'his hands are honey, his feet are honey'"}
+      - {motif: wasf-description-of-body, refs: ["ETCSL 4.08.05 7-10"], note: "hands, feet, limbs, navel, thighs (ḫaš4), raised arms"}
+    hints:
+      - "Compare Song 2:3 ('as an apple tree among the trees of the wood, so is my beloved ... his fruit sweet to my taste') and Song 5:10-16."
+  - id: ane-etcsl-4-08-06-mes-tree-in-ekur
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid - Inana makes her king sprout like a meš tree (Dumuzid-Inana F)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.06 1-45"]
+    tags:
+      - {motif: flowered-bed-of-lovers, refs: ["ETCSL 4.08.06 1-6"], note: "ga-ša-an-ĝen gi-rin-e da-nu2 'I, the queen, will lie on the foliage/flowers'"}
+      - {motif: bridegroom-farmer-and-shepherd, refs: ["ETCSL 4.08.06 3-4"], note: "inim mu-un-gar3-ra-bi su8-ba-bi: words like those of a farmer or shepherd"}
+      - {motif: king-grows-like-tree-in-temple-courtyard, refs: ["ETCSL 4.08.06 9-16", "ETCSL 4.08.06 29-36"], note: "e2 {d}mu-ul-lil2-la2-ke4 a da-aĝ2-su3 ... lugal-ĝu10 {ĝiš}meš3-gin7 kisal-la bi2-in-mu2-mu2 'I sprinkle water in the house of Enlil, I make my king grow like a meš tree in the courtyard'"}
+      - {motif: righteous-as-tree-by-water, refs: ["ETCSL 4.08.06 9-16"], note: "the king watered and growing like a tree"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 4.08.06 28"], note: "abzu-ta na-aĝ2 ze2-eb da-aĝ2-tar 'I shall decree a good destiny ... from the abzu' (broken)"}
+      - {motif: king-born-of-deity, refs: ["ETCSL 4.08.06 29-32"], note: "a zid-da numun zid-da ... šeg12 abzu-ta ... an-ne2 ḫe2-a-u3-tud 'good semen, good seed ... from the brick-built abzu ... may An create (beget) you'"}
+      - {motif: goddess-intercedes-daily-for-king, refs: ["ETCSL 4.08.06 37-43"], note: "e2-kur-re ... a-ra-zu-zu ga-gub 'I shall stand in prayer for you in E-kur'; balaĝ er2 'laments with the balaĝ'"}
+      - {motif: lover-as-apple-tree-shade, refs: ["ETCSL 4.08.06 38"], note: "{ĝiš}tir ḫa-šu-ur2-ra-gin7 zag-ĝu10 du5-mu-ri-ib-us2 'I shall lean against you as against a cypress (ḫašur) wood'"}
+    hints:
+      - "Compare Ps 92:13-15 ('planted in the house of the LORD, they flourish in the courts of our God') and Ps 52:10 ('like a green olive tree in the house of God')."
+      - "Compare Song 1:16-17 ('our couch is green, the beams of our house are cedar, our rafters cypress')."
+  - id: ane-etcsl-4-08-07-you-are-our-brother
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid - 'You are our brother' (Dumuzid-Inana G)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.07 1-17"]
+    tags:
+      - {motif: lover-hailed-with-string-of-offices, refs: ["ETCSL 4.08.07 3-11"], note: "šeš-me ḫe2-me-en ... šeš kan4 e2-gal-la-me, u3-mu-un-si {ĝiš}ma2-gur8, nu-banda3 {ĝiš}gigir2, ad-da iri di ku5-ru-me 'our city father and judge', mussa ... 'our son-in-law'"}
+      - {motif: lovers-coming-is-life-and-abundance, refs: ["ETCSL 4.08.07 13-14"], note: "im-ma-ĝen-na-zu na-aĝ2-til3 na-nam / e2-a kur9-ra-zu ḫe2-ĝal2-la-am3"}
+      - {motif: flowered-bed-of-lovers, refs: ["ETCSL 4.08.07 15-16"], note: "ki-nu2-a du5-mu-ni-ib-ze2-be2-en-de3-en 'let us delight ourselves on the bed'"}
+      - {motif: goddess-sister-lover-dialogue, refs: ["ETCSL 4.08.07 3", "ETCSL 4.08.07 10"]}
+    hints:
+      - "Compare Song 8:1 ('O that you were like a brother to me') and Song 1:16."
+  - id: ane-etcsl-4-08-08-aa-lies-of-women
+    tradition: ane-sumerian
+    title: A tigi to Inana and Dumuzid - the lies of women (Dumuzid-Inana H, sa-gida)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: bilingual (Sumerian with Akkadian glosses)
+    read: ["ETCSL 4.08.08 A.A:1-23"]
+    tags:
+      - {motif: lover-meets-girl-while-she-dances, refs: ["ETCSL 4.08.08 A.A:1-8"], note: "en3-du dug4-ga-ĝu10-ne gaba mu-un-ri gaba mu-un-ri; Akkadian gloss im-ḫur-an-ni; Ušumgal-ana gu2-ĝa2 gu2-da ba-an-la2 'embraced me about my neck'"}
+      - {motif: lover-begs-to-be-let-go, refs: ["ETCSL 4.08.08 A.A:9-10"], note: "here the girl: šu ba-mu-u8 e2-me-še3 da-ĝen 'let me go, so I can go to our house'"}
+      - {motif: lover-teaches-girl-lie-for-mother, refs: ["ETCSL 4.08.08 A.A:11-19"], note: "ama-ĝu10 lul-la-še3 ta mu-na-ab-gub-be2-en ... {d}inana lul-la munus-e-ne ĝe26-e ga-ri-ib-zu-zu: 'Inana, let me teach you the lies of women': my girlfriend was dancing with me in the square"}
+      - {motif: lovemaking-by-moonlight, refs: ["ETCSL 4.08.08 A.A:20-22"], note: "iti6-še3 e-ne su3-ud ga-da-e 'let me make love with you by moonlight'; ki-nu2 kug ḫe-nun-na suḫ ga-mu-ra-du8 'loosen your hairgrip on the holy luxuriant couch'"}
+    hints:
+      - "Compare Song 3:4 and 8:2 (the mother's house) and Prov 7:13-18 (the seductive invitation, by night, to a bed spread with linen)."
+      - "A daughter deceiving a parent: compare Gen 31:34-35 (Rachel and Laban)."
+  - id: ane-etcsl-4-08-08-ab-fragment
+    tradition: ane-sumerian
+    title: A tigi to Inana and Dumuzid - fragment (Dumuzid-Inana H, A.B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.08 A.B:24-26"]
+    tags:
+      - {motif: night-search-for-beloved-in-city, refs: ["ETCSL 4.08.08 A.B:24"], note: "interpretive and fragmentary: ki-sikil-ĝen sila sir2-ra 'I the maiden, in the streets and alleys'; Akkadian gloss su-qe2-tim; about 11 lines lost"}
+    hints:
+      - "Compare Song 3:2 ('I will go about the city, in the streets and in the squares')."
+  - id: ane-etcsl-4-08-08-bb-at-mothers-gate
+    tradition: ane-sumerian
+    title: A tigi to Inana and Dumuzid - the lover at Ningal's gate (Dumuzid-Inana H, sa-ĝara)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.08 B.B:1-22"]
+    tags:
+      - {motif: lover-waits-at-mothers-gate, refs: ["ETCSL 4.08.08 B.B:3-6"], note: "kan4 ama-me-da nam-mi-gub / me-e ḫul2-la-ta i3-di-di-de3-en"}
+      - {motif: brings-lover-to-mothers-house, refs: ["ETCSL 4.08.08 B.B:7-12"], note: "only partly: she wishes someone would tell her mother Ningal, and the neighbour sprinkle water on the floor (u5-šu-ur2-me a ki de3-sud-e)"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 4.08.08 B.B:13-16"], note: "u3-mu-un-ĝu10 ur2 kug-ge ḫe2-du7 'my lord is fit for the holy lap'; Ama-ušumgal-ana mussa {d}suen-na 'son-in-law of Suen'"}
+      - {motif: beloved-sweet-as-beer-and-honey, refs: ["ETCSL 4.08.08 B.B:17-20"], note: "ḫe2-ma-al-zu ze2-ba-am3 / edin-na u2-šim-zu ku7-ku7-dam: 'your plants of the plain are sweet-tasting'"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.08.08 B.B:21-22"], note: "sa-ĝar-ra-am3; tigi {d}inana-kam (sections sa-gida and sa-ĝara)"}
+    hints:
+      - "Compare Song 2:9 (the lover standing behind the wall) and Song 3:4, 8:2 (bringing him into the mother's house)."
+  - id: ane-etcsl-4-08-09-ploughing-with-jewels
+    tradition: ane-sumerian
+    title: A kunĝar to Inana and Dumuzid - the quarrel and the ploughing with jewels (Dumuzid-Inana I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.09 1-46"]
+    tags:
+      - {motif: if-not-for-mother-lover-would-chase, refs: ["ETCSL 4.08.09 1-6"], note: "ama-me-da nu-me-a sila a-ĝi6 edin-na i-iĝ3-ĝi6-in-sar-re; repeated for Ningal, Ningikuga, father Suen and brother Utu"}
+      - {motif: lovers-quarrel-family-as-good-as-yours, refs: ["ETCSL 4.08.09 7-22"], note: "a-a-ĝu10 a-a-zu-gin7 in-ga-dim2 / ama-ĝu10 ama-zu-gin7 in-ga-dim2; Enki as good as Suen, Durtur as good as Ningal"}
+      - {motif: love-poetry-dialogue-of-lovers, refs: ["ETCSL 4.08.09 7-45"]}
+      - {motif: ploughing-with-jewels, refs: ["ETCSL 4.08.09 25-28", "ETCSL 4.08.09 32-42"], note: "{na4}šuba-ke4 {na4}šuba na-ur11-ru; small jewels laid down like seed (numun), large ones heaped like grain piles (guru7)"}
+      - {motif: woman-leans-from-roof-or-wall, refs: ["ETCSL 4.08.09 29-30"], note: "ur3-ra la2-la2-a ... {d}inana bad3-da la2-la2-a"}
+      - {motif: lover-gives-jewels-to-beloved, refs: ["ETCSL 4.08.09 34-38"], note: "the small jewels for her throat, the large for her breast; 'for the mistress (nu-u8-gig), my spouse (dam)'"}
+      - {motif: lapis-lazuli-beard, refs: ["ETCSL 4.08.09 43-45"], note: "sun4-a-ni {na4}za-gin3-na: 'the one whom (An) will create for me, his beard is of lapis-lazuli'"}
+    hints:
+      - "Compare Song 2:9 and 2:14 (the lover at the wall, the dove in the cleft) and Song 1:10-11 (jewels for her neck)."
+      - "A woman leaning from the window or wall: compare 2 Sam 6:16 and 2 Kgs 9:30."
+  - id: ane-etcsl-4-08-10-girl-mourns-brother
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid - the sister seeks her brother; the singers of Unug (Dumuzid-Inana J)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.10 1-38"]
+    tags:
+      - {motif: goddess-of-milk-and-fold, refs: ["ETCSL 4.08.10 1-7"], note: "{e2}tur3-e i3 gara2 mu-un-da-ab-si / amaš-e ga mu-un-da-an-gid2-e; the sister of Dumuzid identified as Ĝeštin-ana"}
+      - {motif: mourner-lacerates-own-face-and-body, refs: ["ETCSL 4.08.10 13-15"], note: "ki-sikil-e bar šeš-a-na-ka igi mu-un-na-ḫur giri17 mu-un-na-ḫur ... ḫaš2-gal mu-un-na-ḫur: 'because of her brother the girl lacerated her eyes, her nose(?), her buttocks'"}
+      - {motif: sister-offers-to-share-brothers-fate, refs: ["ETCSL 4.08.10 13-17"], note: "interpretive: the sister goes to the palace tavern asking after her brother"}
+      - {motif: brother-takes-en-priesthood, refs: ["ETCSL 4.08.10 18-24"], note: "šeš-zu nam-en-še3 šu mu-un-ĝa2-ĝa2-a / nam-en unug{ki}-ga: 'your brother has taken possession of the en priesthood of Unug'; incantation, prostration and ablution priests come monthly"}
+      - {motif: seven-singers-know-stars-and-roads, refs: ["ETCSL 4.08.10 25-32"], note: "šir3 dug4-dug4 unug{ki}-ga 7-me-eš / zabalam{ki} ad ša4-ša4 50-me-eš / an-na mul zu-me-eš ki ḫar-ra-an zu-me-eš"}
+      - {motif: first-fruits-offered-at-new-moon, refs: ["ETCSL 4.08.10 29"], note: "only partly: an-na daĝal-ba nesaĝ il2-la-me-eš 'in the broad heavens they carried first-fruit offerings'"}
+    hints:
+      - "Self-laceration in mourning: compare Jer 16:6, 41:5, 48:37 and the ban in Deut 14:1, Lev 19:28."
+      - "Singers who know the stars: compare 1 Chr 12:33 (the sons of Issachar who understood the times) and 1 Chr 25:1-7 (the temple singers)."
+  - id: ane-etcsl-4-08-13-shir-namshub-fragments
+    tradition: ane-sumerian
+    title: A shir-namshub to Inana (Dumuzid-Inana M), fragments
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.13 A:1-10", "ETCSL 4.08.13 B:1-6"]
+    tags:
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.08.13 A:3"], note: "aĝ2 me ur3-ru 'belonging to the gatherer (?) of the divine powers'; reading uncertain; most lines broken after their first words"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 4.08.13 A:6-7"], note: "ḫe2-nun ... {d}dumu-zid-da / {d}ušumgal-an-na: only the names survive; about 6 lines lost and segment B is 4 fragmentary lines"}
+  - id: ane-etcsl-4-08-16-a-inana-chooses-dumuzid
+    tradition: ane-sumerian
+    title: A balbale (?) to Inana and Dumuzid, segment A - Inana chooses Dumuzid as god of the land (Dumuzid-Inana P)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.16 A:1-35"]
+    tags:
+      - {motif: goddess-delights-in-her-genitals, refs: ["ETCSL 4.08.16 A:3", "ETCSL 4.08.16 A:11-19"], note: "gal4-la-ĝu10 ... diĝir-e ba-ab-du7-a-ĝu10 'my genitals ... seemly for a deity'; a fragmentary self-praise of her body"}
+      - {motif: goddess-chooses-consort-as-god-of-land, refs: ["ETCSL 4.08.16 A:22-27"], note: "uĝ3 šar2-re-da i-bi2-ĝu10 mu-ma-al / {d}dumu-zid nam-diĝir kalam-ma-še3 mu-pad3 ... mu mu-ni-maḫ nam mu-ni-tar"}
+      - {motif: god-chooses-king-from-multitude, refs: ["ETCSL 4.08.16 A:22-23"], note: "the chooser is the goddess, 'I gazed over all the people'"}
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["ETCSL 4.08.16 A:28-31"], note: "a mu-ši-tu5 na-ma mu-ši-su-ub 'I bathed and soaped myself for him'; {tug2}pala3 maḫ 'garments of power'"}
+    hints:
+      - "Choosing one from all the people: compare 1 Sam 10:24 ('see him whom the LORD has chosen, none like him among all the people'), Ps 89:20, Deut 17:15."
+  - id: ane-etcsl-4-08-16-b-who-will-plough-my-vulva
+    tradition: ane-sumerian
+    title: A balbale (?) to Inana and Dumuzid, segment B - Inana's song of her vulva (Dumuzid-Inana P)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.16 B:1-34"]
+    tags:
+      - {motif: goddess-delights-in-her-genitals, refs: ["ETCSL 4.08.16 B:14-18"], note: "in-nin9-e ni2 silim-e-eš ... {d}inana-ke4 silim-e-eš ... gal4-la-ni šir3-ra mi-ni-[...]: 'Inana praises her genitals in song'"}
+      - {motif: boat-of-heaven, refs: ["ETCSL 4.08.16 B:20"], note: "image only: ma2 an-na ne-en eš2 la2: her vulva is 'this moored Boat of Heaven'"}
+      - {motif: new-moon-image-of-temple, refs: ["ETCSL 4.08.16 B:21"], note: "image applied to her vulva: ud-sakar gibil-gin7 ḫi-li gur3-ru 'clothed in beauty like the new crescent'"}
+      - {motif: woman-as-field-to-be-ploughed, refs: ["ETCSL 4.08.16 B:22-31"], note: "a-šag4 ... uz{mušen} dur2-ra-ĝu10 'field of ducks'; du6 du8-du8-a a ma-ra / ki-sikil-ĝen a-ba-a ur11-ru-a-bi / gud a-ba-a bi2-ib2-gub-be2: 'who will plough it? who will station the ox there?'; reply {d}dumu-zid lugal-e ḫa-ra-ur11-ru; gal4-la-ĝa2 ur11-ru mu-lu ša3-ab-ĝa2-kam"}
+      - {motif: farmer-ploughs-for-king, refs: ["ETCSL 4.08.16 B:29-30"], note: "inverted: the king himself is the ploughman"}
+      - {motif: explicit-erotic-description, refs: ["ETCSL 4.08.16 B:18-31"]}
+      - {motif: gala-singer-performs-song, refs: ["ETCSL 4.08.16 B:6-7", "ETCSL 4.08.16 B:15"], note: "gala-e šir3-ra mu-ni-ib2-[...] / nar-e en3-du-a"}
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["ETCSL 4.08.16 B:32-33"], note: "ur2 kug-ge a ba-an-tu5 'she bathed her holy hips'; šen kug 'holy basin'"}
+    hints:
+      - "Compare Q 2:223 ('your women are a tilth for you, so come to your tilth as you wish') and Judg 14:18."
+      - "Compare Song 4:12-16 and 5:1 (the beloved's 'garden' and the lover coming into it)."
+  - id: ane-etcsl-4-08-16-c-enamtila-milk-and-life
+    tradition: ane-sumerian
+    title: A balbale (?) to Inana and Dumuzid, segment C - vegetation, milk and long life in E-namtila (Dumuzid-Inana P)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.16 C:1-66"]
+    tags:
+      - {motif: vegetation-springs-from-sacred-union, refs: ["ETCSL 4.08.16 C:9-11"], note: "ur2 lugal-la-ta zig3-ga-ni-ta / gu mu-un-da-zig3 še mu-un-da-zig3 / edin {ĝiš}kiri6 giri17-zal-gin7 mu-un-da-ab-si"}
+      - {motif: house-of-life-enamtila, refs: ["ETCSL 4.08.16 C:12-15", "ETCSL 4.08.16 C:28-36", "ETCSL 4.08.16 C:48-52"], note: "e2-nam-til3-la ... e2 nam kur-kur-ra tar-ra / uĝ3 zi-ĝal2-la si sa2-e-dam / ama5 zi su3-ud-ĝal2"}
+      - {motif: goddess-asks-bridegroom-for-milk, refs: ["ETCSL 4.08.16 C:16-27"], note: "ga sig7-a-ma-ab mu-ud-na-ĝu10 ... me-e ga de3-e-da-na8-na8; ga am-si-ḫar-ra-an-na 'camel's milk' (C:24-25)"}
+      - {motif: deity-decrees-fates-of-all-lands, refs: ["ETCSL 4.08.16 C:32"], note: "e2 nam kur-kur-ra tar-ra 'the house where the destiny of all lands is decided'"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 4.08.16 C:45-47"], note: "Ningal: nam-til3 ud su3-ra2-aš du5-mu-ra-ab-ze2-eĝ3 'I will give you life to distant days', to Dumuzid"}
+      - {motif: lover-promises-gifts-of-flocks, refs: ["ETCSL 4.08.16 C:28-30", "ETCSL 4.08.16 C:48-54"], note: "{d}inana me-e a-ra-ab-gub-be2-en 'I will place them at your disposal' (butter and cheese); C:53-66 mostly broken"}
+    hints:
+      - "Camels' milk (ga am-si-ḫar-ra-an) in a Sumerian song: compare Gen 32:16 (milch camels) and Gen 24 (camels in a betrothal)."
+      - "The bride's fertility spreading to the land: compare Hos 2:23-24 (the heavens answer the earth, the earth answers grain, wine and oil)."
+  - id: ane-etcsl-4-08-16-d-fragment
+    tradition: ane-sumerian
+    title: A balbale (?) to Inana and Dumuzid, segment D - beginnings of lines (Dumuzid-Inana P)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.16 D:1-13"]
+    tags:
+      - {motif: inana-titled-lady-of-heaven, refs: ["ETCSL 4.08.16 D:1-2", "ETCSL 4.08.16 D:6"], note: "only beginnings survive: in-nin9, {d}inana, mi2 zid 'kind words', {d}en-lil2; the content is lost"}
+  - id: ane-etcsl-4-08-22-inana-goes-to-sheepfold
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid - Inana goes out to the shepherd (Dumuzid-Inana V)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.22 1-15"]
+    tags:
+      - {motif: girl-asks-mother-leave-to-go-to-lover, refs: ["ETCSL 4.08.22 4-5"], note: "only partly: {lu2}sipad-ra tur3-ra an-ši-DU / {d}dumu-zid-ra amaš-a: she goes to the shepherd in the fold; no mother here"}
+      - {motif: lover-as-shepherd-at-noon, refs: ["ETCSL 4.08.22 4-7"], note: "the beloved is the shepherd in his fold, met on the road (ḫar-ra-an-na gaba mu-un-ri)"}
+      - {motif: lover-comes-forth-like-daylight, refs: ["ETCSL 4.08.22 8"], note: "[{d}]dumu-zid-de3 ud-gin7 ba-an-ta-[e3]"}
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["ETCSL 4.08.22 1-3"], note: "partly: in-nin9 šembi2-zid lugal-la 'the king's kohl', ul gur3-ru ḫi-li šu tag dug4-ga 'adorned with loveliness'; lines 9-15 broken (buds, branches)"}
+    hints:
+      - "Compare Song 1:7-8 ('tell me where you pasture your flock') and Song 6:10 ('who is this that looks forth like the dawn')."
+  - id: ane-etcsl-4-08-23-may-my-sheep-eat
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid - 'May my sheep eat my plants' (Dumuzid-Inana W)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.23 5-44"]
+    tags:
+      - {motif: may-my-sheep-eat-my-plants-litany, refs: ["ETCSL 4.08.23 7-38"], note: "u2-ĝu10 ... udu-ĝu10 ḫa-ma-gu7-e after every line; camel-thorn, barley, šakir, colocynth, marsh reeds, licorice, ḫarub pods, esparto, date saplings, apple grass"}
+      - {motif: plants-support-of-orphans-and-widows, refs: ["ETCSL 4.08.23 13-14"], note: "nu-siki il2-il2-ĝu10 nu-mu-un-su da-ri-ĝu10 'my support of orphans and sustenance of widows'"}
+      - {motif: lover-as-garden-of-fruit-trees, refs: ["ETCSL 4.08.23 21"], note: "{ĝiš}kiri6 {ĝiš}ḫašḫur-a ul gur3-ru-ĝu10 'my blossoming apple garden'"}
+      - {motif: land-flowing-milk-and-honey, refs: ["ETCSL 4.08.23 17", "ETCSL 4.08.23 23", "ETCSL 4.08.23 39"], note: "partly: sumun2 kaš-a lal3 dab5-ba 'beer wort mixed with honey'; šim a-šag4-ga lal3 ta-ḫab2-ba 'aromatics of the fields dripping syrup'; ga lal3 šu bi2-in-gur 'smeared milk and honey'"}
+      - {motif: bridegroom-stands-in-prayer-before-bride, refs: ["ETCSL 4.08.23 40-44"], note: "šul nitalam-a-ni-ra mu-na-an-ḫum-ḫum-e / am-e šudu3 im-ma-da-an-ša4"}
+    hints:
+      - "Care for orphan and widow: compare Deut 24:19-21 (gleanings left for the orphan and widow), Ruth 2, and Q 2:215."
+      - "Milk and honey: compare Exod 3:8 and Song 4:11 and 5:1."
+  - id: ane-etcsl-4-08-26-a-mother-bore-me-for-you
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid, segment A - 'my mother bore me for you' (Dumuzid-Inana Z)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.26 A:1-9"]
+    tags:
+      - {motif: mother-bore-me-for-you, refs: ["ETCSL 4.08.26 A:1-2"], note: "ama ugu-ĝu10 za-a-ra ĝa2-a im-mi-in-tu-ud-en / ga-ša-an-gal-ĝu10 (Ningal)"}
+      - {motif: lovers-coming-is-life-and-abundance, refs: ["ETCSL 4.08.26 A:5-6"], note: "{d}du5-mu-zid de3-mu-un-ši-du me-e mu-da-ḫul2-en 'may Dumuzid come to me, I will rejoice over him'"}
+    hints:
+      - "Compare Song 8:5 ('there your mother conceived you, there she who bore you was in labour') and Song 6:9 ('the only one of her mother')."
+  - id: ane-etcsl-4-08-26-b-let-us-embrace
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid, segment B - 'Let us lie on my flowered bed' (Dumuzid-Inana Z)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.26 B:1-19"]
+    tags:
+      - {motif: flowered-bed-of-lovers, refs: ["ETCSL 4.08.26 B:16-19"], note: "mu-nu2 gi-rin-ĝa2-da ga-ba-e-nu2-en-de3-en"}
+      - {motif: lover-comes-forth-like-daylight, refs: ["ETCSL 4.08.26 B:6-7"], note: "{d}utu-me ḫe2-me-en 'may you be our sun god'"}
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["ETCSL 4.08.26 B:10-15"], note: "a-a-ĝu10 {d}suen-e šag4-ge bi2-in-pad3-de3-en / ša3-ab-ĝa2 bi2-in-pad3-de3-en; aga zid men kug saĝ-za; he serves before the great gods, the Anuna"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 4.08.26 B:13"], note: "only crown and headdress: aga zid men kug saĝ-za ma-ra-ni-ma-al"}
+      - {motif: mother-crowns-king-on-wedding-day, refs: ["ETCSL 4.08.26 B:13"], note: "interpretive: the crowning is spoken of by the bride in a wedding song; the one who crowns is (her father) Suen"}
+    hints:
+      - "Compare Song 3:11 (the crown with which his mother crowned him on his wedding day) and Song 1:16 ('our couch is green')."

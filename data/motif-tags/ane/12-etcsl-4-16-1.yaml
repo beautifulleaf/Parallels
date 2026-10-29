@@ -34,6 +34,19 @@ new_motifs:
   heavens-fold-like-garment-before-deity: {label: "The heavens fold (bow) like a garment in the deity's presence and the earth is flooded", cluster: theophany}
   deity-hears-prayer-and-pleading: {label: "A deity is titled 'she/he who hears prayer and pleading' (šudu3 a-ra-zu ĝiš tuku)", cluster: hymn}
   wise-god-as-sage-carpenter-and-purifier: {label: "The wise god (Enki) is praised as great farmer, carpenter, sage (abgal) and master of purification rites", cluster: wisdom}
+  goddess-anointed-with-fine-oils: {label: "A goddess is bathed and anointed with a catalogue of fine oils (cedar, cypress, ghee, milk), poured over each part of her body", cluster: cult}
+  deity-journeys-to-visit-high-god: {label: "A deity travels (often by boat) to the temple of the high god (Enlil at Nibru, Enki at Eridug), offers sacrifices and is greeted", cluster: cult}
+  healer-raises-patient-from-sickbed: {label: "The healing deity lifts up the sick man lying prostrate and brings (him or the child) out of the womb safely", cluster: healing}
+  high-god-decrees-fate-for-deity: {label: "A high god (Enlil, Enki, An) determines a fate (nam tar) for a younger deity", cluster: divine-council}
+  father-god-dotes-on-daughter: {label: "A father god seats his daughter on his knees and gives her whatever she fancies (jewels, garments)", cluster: family}
+  goddess-is-local-goddess-in-each-city: {label: "Litany: in city after city the goddess 'is indeed' its local goddess (syncretism by enumeration)", cluster: hymn}
+  goddess-lies-with-spouse-joyously: {label: "A goddess lies down with her divine spouse in her chosen city and spends time joyously with him", cluster: sexuality}
+  refrain-repeated-stanza: {label: "A hymn stanza is sung twice in nearly identical words (litanic repetition)", cluster: hymn}
+  brewing-process-sung-step-by-step: {label: "A hymn to the beer goddess recounts each step of brewing (beerbread baked, malt watered and soaked, mash cooled on mats, wort with honey and wine, filtering)", cluster: culture}
+  beer-poured-like-tigris-and-euphrates: {label: "Beer pouring from the collector vat is like the onrush of the Tigris and Euphrates", cluster: abundance}
+  city-founded-on-wax: {label: "A goddess's city is founded upon wax (or honeycomb) and its walls completed for her", cluster: city}
+  goddess-decides-destinies-with-husband: {label: "The high god's consort decides destinies together with him and is the pleasure of his heart; he embraces her", cluster: divine-council}
+  guardian-dogs: {label: "Noble dogs keep guard over stores or a sacred place", cluster: animals}
 units:
   - id: ane-etcsl-4-16-1-1-nisaba-epithets
     tradition: ane-sumerian
@@ -146,3 +159,211 @@ units:
       - {motif: divine-council, refs: ["ETCSL 4.19.4 3-4"], note: "{d}a-nun-ke4-ne diĝir ki-a: the Anuna, gods of the earth (underworld)"}
     hints:
       - "Compare Ps 82:1 and Ps 89:6-8 (God among the council of the holy ones)."
+  - id: ane-etcsl-4-22-1-ninisina-medicine-to-damu
+    tradition: ane-sumerian
+    title: "Ninisina A: the healing goddess perfects medicine and hands it to her son Damu"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.1 1-26"]
+    tags:
+      - {motif: healing-goddess-with-scalpel, refs: ["ETCSL 4.22.1 10-11", "ETCSL 4.22.1 23"], note: "bulug-kiĝ2-gur4-ra igi mu-un-sig10-ge: she tests the lancet; ĝiri2-GAG-e u3-sar im-ma-ak-e: sharpens the scalpel; a-zu gal saĝ gig2-ga-kam: chief doctor of the black-headed"}
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.22.1 4-8", "ETCSL 4.22.1 12"], note: "me ur4-ur4: gathering the divine powers; me nam-a-zu šu im-du7-du7: she perfected the me of medicine"}
+      - {motif: goddess-hands-medical-art-to-son, refs: ["ETCSL 4.22.1 13-16", "ETCSL 4.22.1 25-26"], note: "dumu-ni lugal ĝir2-si-ra {d}da-mu ... šu-ni ba-ab-šum2-mu; dumu-ĝu10 niĝ2 nam-a-zu-ka ĝizzal ḫe2-em-ma-ak"}
+      - {motif: wound-dressed-with-bandage-and-salve, refs: ["ETCSL 4.22.1 17-21"], note: "{tug2}bar-sig9 ... dig-dig-e: bandages with embrocation; uš2 lugud-e šu im-šu2-ur-šu2-ur-re: mops up blood and pus; simx-simx-ma šu kum2 mu-na-ak-e: a warm hand on the wound"}
+      - {motif: god-as-midwife-of-birth, refs: ["ETCSL 4.22.1 22"], note: "šag4-zu ama kalam-ma-ka: midwife of the mothers of the Land"}
+    hints:
+      - "Compare Isa 1:6 (wounds, bruises and sores not pressed out, bound up or softened with oil) and Luke 10:34 (binding wounds, pouring oil and wine)."
+      - "Compare Exod 15:26 ('I am YHWH your healer') and Hos 6:1 (he has struck, he will bind us up)."
+  - id: ane-etcsl-4-22-1-ninisina-incantation-healing
+    tradition: ane-sumerian
+    title: "Ninisina A: the incantation priestess heals the sick man beset by demons and intercedes for him"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.1 27-60"]
+    tags:
+      - {motif: secret-incantation-unknown-to-gods, refs: ["ETCSL 4.22.1 30-31"], note: "nam-išib mu-na-ak-e / {d}en-ki-ke4 abzu nun-na-ta saĝ-e-eš mu-ni-in-rig7: the role of incantation priest given her by Enki from the abzu (no secrecy stated; tag for the Enki-sourced incantation)"}
+      - {motif: sick-man-writhes-like-snake, refs: ["ETCSL 4.22.1 32-35"], note: "šag4-gig lipiš-gig: heart- and intestinal disease; muš ki bil2-gin7 i-im-bal-bal-e: writhes like a snake on scorched ground; šag4-ĝu10 lipiš-ĝu10 ... im-me"}
+      - {motif: illness-leaves-like-wind, refs: ["ETCSL 4.22.1 36-42"], note: "tu6 bi2-in-dug4 ba-sag9: she speaks the spell and they are well; i3-nun-e: with ghee in her great bowl; tum9-gin7 kuš-a-na ... ed2-de3: out of his body like wind; izi ... ni2-ba mu-un-te-en-te-en"}
+      - {motif: personal-gods-plead-healer-intercedes, refs: ["ETCSL 4.22.1 43-45"], note: "diĝir nam-lu2-ulu3 sizkur a-ra-zu-a mu-na-an-sug2-sug2-ge-eš; an-ra {d}en-lil2-ra ... mu-un-ne-de3-en-ku4-ku4"}
+      - {motif: named-demons-beset-mankind, refs: ["ETCSL 4.22.1 46-49"], note: "{d}udug ḫul {d}lamma ḫul ... {d}dim3-me {d}dim3-me-a ... ĝi6 u3-na: who enter by night; nam-tar a2-sag3-ga lu2-ra nu-ed3-de3"}
+      - {motif: night-demons-enter-houses, refs: ["ETCSL 4.22.1 47"]}
+      - {motif: sickness-from-god-who-struck, refs: ["ETCSL 4.22.1 50-51"], note: "diĝir niĝ2 mu-un-ni-ra-a-ni: his god who smites; line 51 unclear"}
+      - {motif: sick-man-seeks-dream-interpreter, refs: ["ETCSL 4.22.1 52"], note: "lu2-bi ensi-ra mu-un-pad3-de3 eĝer-ra mu-un-zu-zu: he calls the dream interpreter to know what comes after"}
+      - {motif: healer-stretches-finger-over-patient, refs: ["ETCSL 4.22.1 54-60"], note: "nin-ĝu10 ka tar DU-za: 'my lady, I come to praise you'; šu-si-zu u3-mu-ne-ur3; mu-zu dug3-ge-eš-e im-pad3-de3: he calls on your name favourably"}
+    hints:
+      - "Compare Ps 107:17-20 and Ps 30:3-4 (the sick cried to YHWH, he sent his word and healed them) and Ps 41:4."
+      - "Compare 2 Kgs 20:1-7 (Hezekiah's illness, prayer and poultice of figs) and Job 33:19-28 (the sick man, the interceding angel, praise after recovery)."
+      - "Compare Ps 91:5-6 (the terror by night, the pestilence that stalks in darkness) for night-entering demons."
+  - id: ane-etcsl-4-22-1-ninisina-inventions-midwife
+    tradition: ane-sumerian
+    title: "Ninisina A: the goddess invents šuba-stone jewellery and the powers of the midwife"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.1 61-82"]
+    tags:
+      - {motif: goddess-invents-jewellery, refs: ["ETCSL 4.22.1 66-73"], note: "ud-ba unu7 šuba nu-ĝal2-la-am3: at that time šuba jewellery did not exist; šuba na-ur11-ru numun-e-eš na-ĝa2-ĝa2: she ploughed with šuba stones and made them seed"}
+      - {motif: culture-heroes-inventors, refs: ["ETCSL 4.22.1 61-63"], note: "niĝ2 nu-sig9-ge en3 nam-ši-in-tar / niĝ2 nu-dim2-me-de3 ĝeštug2-ga-ni na-an-gub: she attended to things not usually done"}
+      - {motif: goddess-as-midwife-cuts-cord, refs: ["ETCSL 4.22.1 74-79"], note: "šar2 ki-sikil li-li ĝa2-ĝa2-de3: offspring for thousands of young women; baḫar2-ra-ke4 si sa2-e-de3: like a potter; gi-dur kud-de3 nam tar-re-de3: cut the cord, decree the fate; dumu ... gu3 nun sud-sud-de3: make the child cry; saĝ šu bal ak-de3: turn it upside down"}
+      - {motif: god-as-midwife-of-birth, refs: ["ETCSL 4.22.1 74-79"]}
+      - {motif: pot-questions-potter, refs: ["ETCSL 4.22.1 75"], note: "baḫar2{!}-ra-ke4 si sa2-e-de3: the midwife puts things in order 'like a potter'; image of the potter-creator only"}
+    hints:
+      - "Compare Ps 22:10-11 and Ps 71:6 (you drew me from the womb) and Job 10:8-11 (fashioned like clay)."
+      - "Compare Ezek 16:4 (on the day you were born your cord was not cut) for the midwife's cutting the cord."
+      - "Compare Gen 4:20-22 (Jabal, Jubal, Tubal-cain as originators of crafts)."
+  - id: ane-etcsl-4-22-1-ninisina-self-praise-house
+    tradition: ane-sumerian
+    title: "Ninisina A: the goddess's self-praise: her parentage and her house Isin, older than Dilmun"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.1 83-104"]
+    tags:
+      - {motif: divine-self-praise-i-am, refs: ["ETCSL 4.22.1 83-84"], note: "nin munus šul a2 maḫ {d}en-lil2-la2-me-en ... dumu an kug-ga-me-en"}
+      - {motif: goddess-conceived-by-an-and-uras, refs: ["ETCSL 4.22.1 85-89"], note: "a-a-ĝu10 an lugal sipad diĝir-re-e-ne; ama-ĝu10 {d}uraš ... an-da ki-nu2 kug-ga ... su3-ud gal ba-e-dug4; ki-ulutim2-ĝu10 an kug ki sikil"}
+      - {motif: city-as-cosmic-bond, refs: ["ETCSL 4.22.1 90"], note: "e2 i3-si-in{ki} bulug an ki: the border of heaven and earth"}
+      - {motif: city-older-than-dilmun-made-from-date-palm, refs: ["ETCSL 4.22.1 93-95"], note: "kur dilmun{ki} nu-me-a {ĝiš}ĝišnimbar-ta ba-an-tud: before Dilmun existed, born from a date palm"}
+      - {motif: temple-shines-like-moon-and-sun, refs: ["ETCSL 4.22.1 98-99"], note: "ĝi6 u3-na iti6-gin7 ma-e3 / an-bar7-gana2 ud-ud-gin7 ma-e3"}
+      - {motif: goddess-appears-as-moon-by-night-sun-by-day, refs: ["ETCSL 4.22.1 98-99"]}
+      - {motif: gods-banquet-seated-by-rank, refs: ["ETCSL 4.22.1 96"], note: "{d}a-nun-na diĝir gal-gal-e-ne mu-da-gu7-u3-ne: the Anuna eat with me"}
+      - {motif: land-flowing-milk-and-honey, refs: ["ETCSL 4.22.1 102-104"], note: "the Kir-sig watercourse; gu2-gu2-bi lal3 ĝeštin ba-an-mu2: its banks grow syrup (date honey) and wine"}
+    hints:
+      - "Compare Prov 8:22-25 ('before the mountains were settled ... I was brought forth') for a precedence claimed 'before X existed'."
+      - "Compare Isa 60:19-20 and Rev 21:23 (the city needs no sun or moon) and Ps 121:6."
+      - "Compare Exod 3:8 (land flowing with milk and honey) and Deut 8:7-8 (wheat, vines, figs, date honey)."
+  - id: ane-etcsl-4-22-1-ninisina-against-rebel-land
+    tradition: ane-sumerian
+    title: "Ninisina A: Enlil sends his daughter against the rebel land; her warlike self-praise"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.1 105-136"]
+    tags:
+      - {motif: goddess-sent-by-father-against-rebel-land, refs: ["ETCSL 4.22.1 105-110", "ETCSL 4.22.1 120"], note: "ki-bal-da nam im-ma-da-an-kud: Enlil cursed the rebel land; a-a-ĝu10 {d}en-lil2-le im-ma-ši-in-gi4-gi4; nibru{ki}-še3 ka ga-mu-na-ab-de6: I reported to my father in Nibru"}
+      - {motif: enemy-forgotten-none-finds-him, refs: ["ETCSL 4.22.1 113-115"], note: "ĝeštug2-ga u3-mu-na-ni-in-u18-lu: consigned to oblivion (?); iri-ba ḫul-a-ba lu2 nu-mu-un-ši-zu-zu / sipad-bi u2-gu7-a-na lu2 nu-mu-ši-pad3-de3"}
+      - {motif: god-piles-up-skulls, refs: ["ETCSL 4.22.1 116-119"], note: "destroyed like water, harvest; še-gin7 ĝiš-ba9-ra2 šu um-ma-ni-ti: grabbed like barley by the threshing sledge; izi-gin7 {u2}numun2-bur-gin7: burnt like esparto grass; struck with the mace"}
+      - {motif: divine-self-praise-i-am, refs: ["ETCSL 4.22.1 121-135"], note: "nin me ḫuš-a dur2 ĝar-ra-me-en ... a2-ĝal2 kalam-ma-me-en"}
+      - {motif: first-fruits-to-house-of-god, refs: ["ETCSL 4.22.1 123"], note: "e2-gal-ta niĝ2-saĝ zig3-ga-me-en: she who withdraws the first fruits (niĝ2-saĝ) from the palace"}
+      - {motif: heavens-fold-like-garment-before-deity, refs: ["ETCSL 4.22.1 131-132"], note: "an mu-dur7-ra{!}-gin7 mu-da-gam-e-en: heaven bows like a mourning garment before me; ki-a a-ĝi6-gin7 mu-da-šub-šub"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["ETCSL 4.22.1 135"], note: "šudu3 a-ra-zu ĝiš tuku-me-en"}
+      - {motif: closing-praise-of-god, refs: ["ETCSL 4.22.1 135-136"], note: "kug {d}nin-isin2{si}-na za3-mi2; šir3-gid2-da"}
+    hints:
+      - "Compare Ps 102:26-27 and Isa 51:6 (the heavens wear out like a garment, changed like clothing) and Isa 34:4 (heavens rolled like a scroll); Q 39:67 and Q 21:104 (heaven rolled up like a scroll)."
+      - "Compare Ps 9:6-7 and Ps 37:10, 36 (the wicked: their memory perished, you look for his place and he is not there)."
+      - "Compare Ps 65:3 ('you who hear prayer') and Q 2:186 ('I answer the call of the caller')."
+      - "Compare Isa 41:15 and Mic 4:13 (threshing the nations like a threshing sledge)."
+  - id: ane-etcsl-4-22-2-ninisina-anointing
+    tradition: ane-sumerian
+    title: "Ninisina B: the goddess is anointed with the finest oils"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.2 1-26"]
+    tags:
+      - {motif: goddess-anointed-with-fine-oils, refs: ["ETCSL 4.22.2 1-2", "ETCSL 4.22.2 9-15"], note: "i3 li duru5: softened with fine oil; i3 {ĝiš}erin-na i3 ḫa-šu-ur2-ra-ka (cedar and cypress oil) ... i3 ab2 kug-ge ga ab2-šilam-ma ... i3-nun tur3 kug: holy cow's butter, ghee from the holy pen; i3 šim-gin7 an-šag4-ge ed3: oils rising to the heart of heaven like resin"}
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["ETCSL 4.22.2 8", "ETCSL 4.22.2 16-24"], note: "sim{mušen}-gin7 a tu5-tu5-a: bathing like a swallow; oil on throat, breasts, eyes, pubic hair (siki-ur2), nape, hands and feet; munus-e ab2 a-e ĝar-ra-gin7 i3 li ḫe2-la2-e"}
+      - {motif: holy-anointing-oil-recipe, refs: ["ETCSL 4.22.2 9-15"], note: "the catalogue of oils: cedar, cypress, šimgig, ligidba, white cedar, ghee, milk"}
+      - {motif: explicit-erotic-description, refs: ["ETCSL 4.22.2 20-22"], note: "siki-ur2 siki-pa ... aĝ2 lum-ma lam-ma-ni: her pubic hair and her rich and fruitful parts anointed"}
+    hints:
+      - "Compare Exod 30:22-33 (the holy anointing oil of myrrh, cinnamon, cane, cassia) and Ps 133:2 (oil running down the beard onto the collar)."
+      - "Compare Esth 2:12 (six months with oil of myrrh, six with spices) and Song 4:10-14, Ruth 3:3, Ezek 16:9."
+  - id: ane-etcsl-4-22-3-ninisina-journey-to-nibru
+    tradition: ane-sumerian
+    title: "Ninisina C: the goddess sails to Nibru and makes offerings at Enlil's house (fragment)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.3 15-25"]
+    tags:
+      - {motif: deity-journeys-to-visit-high-god, refs: ["ETCSL 4.22.3 17-21"], note: "{id2}buranuna gi4 ḫenbur kug-ge mu-un-na-dirig: she sails on the Euphrates among the holy reed-shoots; kar-ĝeštin-na-ka ma2 bi2-in-us2: moors at Kar-ĝeština; gud udu mi-ni-[…-gaz] in Enlil's house; lines 1-14 and the end (c. 35 lines) are lost"}
+      - {motif: divine-boat-procession, refs: ["ETCSL 4.22.3 17-18"]}
+      - {motif: father-god-feasts-visiting-son, refs: ["ETCSL 4.22.3 22-24"], note: "[KI.LUGAL].GUB ud su3-ra2-ka šu mu-X-[mu2-mu2]: (Enlil) greets her from his eternal royal offering-place; broken"}
+    hints:
+      - "Compare 1 Sam 1:3, 24-25 (the yearly journey up to the sanctuary to sacrifice) and Ps 122:1-4 (going up to the house of YHWH)."
+  - id: ane-etcsl-4-22-4-ninisina-hymn
+    tradition: ane-sumerian
+    title: "Ninisina D: the merciful healer, counsellor of her father, who heals with spells (fragmentary)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.4 A:1-A:18", "ETCSL 4.22.4 B:1-B:22"]
+    tags:
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 4.22.4 A:8"], note: "a-a ugu-zu ... an kug ... me-me dirig-ga za-ar ma-ra-an-ri: your father An assigned you supreme me"}
+      - {motif: goddess-indispensable-to-divine-decisions, refs: ["ETCSL 4.22.4 A:3"], note: "[ad] gi4-gi4 gal-di a-a ugu-na aĝrig zid e2-kur-ra: grandiloquent counsellor of her own father, good stewardess of the E-kur"}
+      - {motif: healer-raises-patient-from-sickbed, refs: ["ETCSL 4.22.4 A:9-A:11"], note: "lu2 dub-ba zi-zi-i: who raises the prostrate man (?); šag4-ta mu-e-de6: you brought (him) from the womb; nam-a-zu lu2 til3-le: your medicine makes a man live"}
+      - {motif: healing-goddess-with-scalpel, refs: ["ETCSL 4.22.4 A:10-A:13"], note: "tu6 dug4-ga-ni: her incantations; simx-simx-ma su lu2-ulu3: sores on a man's body; bulug: a pin (lancet?) at the throat"}
+      - {motif: plant-and-water-of-life, refs: ["ETCSL 4.22.4 A:14-A:15"], note: "nin u2 nam-til3-la ...: lady (of?) the plant of life; lu2 ug5-ge: the dying man; context broken"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.22.4 B:21-B:22"], note: "section B (Isin, the Egal-maḫ, a king named, a journey to Nibru) almost wholly broken"}
+    hints:
+      - "Compare Ps 41:4 (YHWH sustains him on his sickbed) and 2 Kgs 5:7 ('Am I God, to kill and make alive?'); Ezek 47:12 (leaves for healing)."
+  - id: ane-etcsl-4-22-5-ninisina-adab
+    tradition: ane-sumerian
+    title: "Ninisina E: adab praising the goddess raised on Uraš's knees and favoured by Enlil"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.5 A.A:1-A.A:28", "ETCSL 4.22.5 B.B:1-B.B:7", "ETCSL 4.22.5 B.C:8-B.C:9", "ETCSL 4.22.5 B.D:10-B.D:14"]
+    tags:
+      - {motif: i-will-sing-opening, refs: ["ETCSL 4.22.5 A.A:6", "ETCSL 4.22.5 A.A:12"], note: "{d}nin-isin2{si}-na-ra nam-maḫ-a-ni ga-am3-dug4: let me speak of her greatness; stanza repeated (A.A:1-6 = A.A:7-12)"}
+      - {motif: goddess-raised-on-knees-of-an, refs: ["ETCSL 4.22.5 A.A:3", "ETCSL 4.22.5 A.A:9"], note: "{d}uraš-a dub3 kug-ga buluĝ3-ĝa2: brought up on the holy knees of Uraš (not An)"}
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.22.5 A.A:4-A.A:5"], note: "me nam-nin-a gal-le-eš šum2-ma; ni2 me-lem4 da-da-ra-še3: girded with terror and radiance"}
+      - {motif: humble-suppliant-grasps-deitys-feet, refs: ["ETCSL 4.22.5 A.A:15", "ETCSL 4.22.5 A.A:23"], note: "sun5-na giri17 šu ĝal2-la igi zid mu-ši-in-bar: Enlil looked favourably on her who greeted him humbly (giri17 šu ĝal2: hand at the nose, a gesture of greeting)"}
+      - {motif: goddess-made-accountant-of-heaven-and-earth, refs: ["ETCSL 4.22.5 A.A:15-A.A:16", "ETCSL 4.22.5 A.A:24"], note: "sun5-na ... igi zid mu-ši-in-bar / nam-saĝ-tun3 [X X] X za-gin3: after her humble greeting Enlil (gives?) the office of accountant; broken"}
+      - {motif: refrain-repeated-stanza, refs: ["ETCSL 4.22.5 A.A:13-A.A:28"], note: "Enlil stanza repeated twice; then the adab rubrics sa-ĝar-ra, ĝiš-gi4-ĝal2, uru (B.B:7, B.C:9, B.D:13)"}
+    hints:
+      - "Compare Ps 138:6 (YHWH regards the lowly) and Isa 66:2."
+  - id: ane-etcsl-4-22-6-ninisina-and-the-gods
+    tradition: ane-sumerian
+    title: "Ninisina F: Enlil and Enki decree her fate; in city after city she is the local goddess"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.22.6 A:1-A:15", "ETCSL 4.22.6 B:1-B:12", "ETCSL 4.22.6 C:1-C:10", "ETCSL 4.22.6 D:1-D:13"]
+    tags:
+      - {motif: high-god-decrees-fate-for-deity, refs: ["ETCSL 4.22.6 A:5", "ETCSL 4.22.6 A:15", "ETCSL 4.22.6 B:9"], note: "kur gal {d}en-lil2-le nam-e-eš mu-ni-in-tar; en {d}nu-dim2-mud-e nam-e-eš mu-ni-in-tar"}
+      - {motif: deity-journeys-to-visit-high-god, refs: ["ETCSL 4.22.6 A:6-A:8"], note: "e2 {d}en-lil2-la2-ta e3-ni / eridug{ki} ... am3-ma-da-an-ku4-ku4 / eš3-e abzu-a dur2 ba-ni-in-ĝar"}
+      - {motif: father-god-dotes-on-daughter, refs: ["ETCSL 4.22.6 A:9-A:14"], note: "a-a-ni {d}en-ki-ke4 dub3-ba nam-mi-in-tuš; unu2 šuba ḫi-li ba-an-te ... gu2-na ḫe2-eb-du3; gada babbar-ra ... bar-ra ḫe-em-mi-in-dul"}
+      - {motif: goddess-lies-with-spouse-joyously, refs: ["ETCSL 4.22.6 B:1-B:2", "ETCSL 4.22.6 D:3-D:11"], note: "[… mu]-de3-nu2 ... asila3-a ud mu-un-di-ni-ib-zal-e; nitalam3 ki aĝ2-ĝa2-ni en {d}pa-bil2-saĝ-ĝe26; in Lagaš"}
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.22.6 A:2-A:4", "ETCSL 4.22.6 B:6"], note: "me gal-gal me 50 ḫe2-du7"}
+      - {motif: goddess-is-local-goddess-in-each-city, refs: ["ETCSL 4.22.6 C:1-C:9", "ETCSL 4.22.6 D:1-D:2"], note: "refrain e-ne ḫe2-en-na-nam-ma-am3 'she is indeed': Ĝatumdug, the firstborn, Mother Bau in Ĝirsu, Nungal 'a dragon lying in wait for men'"}
+      - {motif: urim-origin-of-human-seed, refs: ["ETCSL 4.22.6 C:6"], note: "ĝir2-su{ki}-e eš3 numun i-i-ka: Ĝirsu, the shrine which brought forth the seed (of mankind)"}
+      - {motif: axis-of-world-at-duranki, refs: ["ETCSL 4.22.6 B:10"], note: "eš3 nibru{ki} dur-an-ki-a-kam"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.22.6 D:12"]}
+    hints:
+      - "Compare 1 Kgs 12:28-29 and Hos 2:18-19 (one god worshipped under local names, the baalim) for one deity enumerated under city names."
+  - id: ane-etcsl-4-23-1-ninkasi-brewing
+    tradition: ane-sumerian
+    title: "Ninkasi A: hymn to the beer goddess describing the brewing of beer"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.23.1 1-48"]
+    tags:
+      - {motif: refrain-repeated-stanza, refs: ["ETCSL 4.23.1 1-4", "ETCSL 4.23.1 45-48"], note: "every couplet is sung twice, the second time with {d}nin-ka-si prefixed"}
+      - {motif: city-founded-on-wax, refs: ["ETCSL 4.23.1 5-8"], note: "iri-zu lal3-ḫar-re ki us2-sa / bad3 gal-bi šu mu-ra-an-du7-du7"}
+      - {motif: newborn-deities-assigned-roles, refs: ["ETCSL 4.23.1 1-2", "ETCSL 4.23.1 9-12"], note: "a zal-le u3-tud-da: born of flowing water; a-a-zu {d}en-ki ... ama-zu {d}nin-ti nin abzu-a: father Enki, mother Ninti; tended by Ninḫursaĝa"}
+      - {motif: brewing-process-sung-step-by-step, refs: ["ETCSL 4.23.1 13-44"], note: "bappir2 ḫi-ḫi-a (beerbread with aromatics), bappir2 udun-maḫ-e du8-a-zu (baked in the oven), munu4 saḫar ĝar-ra a sig9-ga-zu (earth-covered malt watered), sumun2 dug-a (malt soaked), titab {gi}kid-maḫ-a (mash on reed mats), &kaš;dida ... lal3 ĝeštin (wort with honey and wine), {dug}niĝ2-dur2-buru3 on the laḫtan vat"}
+      - {motif: beer-goddess-ninkasi-serves, refs: ["ETCSL 4.23.1 45-48"]}
+      - {motif: beer-poured-like-tigris-and-euphrates, refs: ["ETCSL 4.23.1 45-48"], note: "kaš si-im {dug}laḫtan-na de2-a-zu / {id2}idigna {id2}buranun-na saĝ sig10-ga-am3"}
+      - {motif: guardian-dogs, refs: ["ETCSL 4.23.1 22"], note: "ur me-me nam gam-gam-ma-am3: noble dogs guard (the malt) even from potentates (?); obscure"}
+    hints:
+      - "Compare Gen 9:20-21 (Noah, the first vintner) and Ps 104:15 (wine that gladdens the heart); Q 16:67 (from dates and grapes you take an intoxicant)."
+      - "Compare Isa 28:23-29 (the farmer taught by God each step of his craft) for a craft process set to praise."
+  - id: ane-etcsl-4-24-1-ninlil-adab
+    tradition: ane-sumerian
+    title: "Ninlil A: adab to Enlil's consort, who decides destinies with him"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.24.1 A:1-A:11", "ETCSL 4.24.1 B:12-B:13", "ETCSL 4.24.1 C:14-C:27", "ETCSL 4.24.1 D:28-D:29", "ETCSL 4.24.1 E:30-E:34"]
+    tags:
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.24.1 A:1", "ETCSL 4.24.1 B:12"], note: "me šar2-ra daĝal si-a; me ḫuš gal-la"}
+      - {motif: goddess-decides-destinies-with-husband, refs: ["ETCSL 4.24.1 A:2", "ETCSL 4.24.1 A:5-A:6", "ETCSL 4.24.1 C:23-C:24"], note: "en {d}nu-nam-nir-da nam tar-ra; {d}en-lil2-la2 ḫi-li šag4-ga-na-me-en gu2-da ša-mu-ri-in-la2: you are the delight of Enlil's heart, he embraced you"}
+      - {motif: goddess-greater-than-mountains-like-an-and-enlil, refs: ["ETCSL 4.24.1 B:12", "ETCSL 4.24.1 E:30-E:31"], note: "ša-mu-ne-maḫ diĝir gal-gal-e-ne; diĝir ušum zag dib: unique, surpassing goddess in heaven and earth"}
+      - {motif: prostration-before-deity, refs: ["ETCSL 4.24.1 A:8"], note: "en-en gal-gal barag-barag-ge2-ne giri17 šu ma-ra-ĝal2-le-eš"}
+      - {motif: rider-of-the-heavens, refs: ["ETCSL 4.24.1 A:9", "ETCSL 4.24.1 D:28"], note: "an ki-a i-lim u5: you ride across heaven and earth; ud sed4 an-dul3 daĝal-la ... u5-a: riding under a broad shade in coolness"}
+      - {motif: refrain-repeated-stanza, refs: ["ETCSL 4.24.1 A:11", "ETCSL 4.24.1 B:13", "ETCSL 4.24.1 C:27", "ETCSL 4.24.1 E:33"], note: "adab rubrics sa-gid2-da, ĝiš-gi4-ĝal2, sa-ĝar-ra, uru; lines C:16-21 lost"}
+    hints:
+      - "Compare Prov 8:30 (Wisdom beside God, his daily delight) and Ps 68:5, 34 (rider through the heavens)."

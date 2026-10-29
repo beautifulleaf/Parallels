@@ -20,6 +20,10 @@ new_motifs:
   interlinear-akkadian-gloss: {label: "A Sumerian composition is copied with an interlinear Akkadian translation or gloss", cluster: scribal}
   supreme-rule-over-heaven-and-earth-given-to-marduk: {label: "The high gods (An, Enlil) give Marduk the supervision of heaven and earth, the sceptre, the rites of the gods and kingship over all, with no rival", cluster: theology}
   goddess-speaks-in-emesal: {label: "A goddess (or her attendants) speaks in Emesal, the register of Sumerian used for goddesses and women", cluster: language}
+  king-batters-enemy-like-storm: {label: "The king batters hostile lands like a raging storm (ud ḫuš)", cluster: warfare}
+  royal-awe-worn-as-garment: {label: "The king (or god) is cloaked in the awesome radiance of kingship as in a mantle", cluster: kingship}
+  king-feeds-and-waters-people: {label: "The king feeds his people lavishly and gives them abundant drink, like a shepherd at pasture", cluster: kingship}
+  king-of-sumer-and-akkad: {label: "The king is titled king of Sumer and Akkad, with a list of the cities he rules", cluster: kingship}
 units:
   - id: ane-etcsl-2-8-2-1-hammurabi-a
     tradition: ane-sumerian
@@ -130,3 +134,138 @@ units:
       - {motif: goddess-speaks-in-emesal, refs: ["ETCSL 2.8.3.1 9-15", "ETCSL 2.8.3.1 26-29"], note: "Inana and her lamma speak in Emesal (u3-mu-un, na-aĝ2, me-en-de3-en ga-ša-an-an-na); incantation songs (i-zi-iĝ3 aĝ2 KA-mu7-a) and a pilipili recital"}
     hints:
       - "Protective spirits given to the king's side compare Ps 91:11 (angels to guard you) and 2Kgs 6:16-17; the goddess at the right hand compares Ps 110:5."
+  - id: ane-etcsl-2-8-3-2-samsuiluna-b
+    tradition: ane-sumerian
+    title: A prayer for Samsu-iluna (Samsu-iluna B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.3.2 1-39"]
+    tags:
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.8.3.2 10", "ETCSL 2.8.3.2 27"], note: "ĝidru mu ud su3-ra2 'a sceptre of long years and days'; zi-zu ud su3-ra2-še3"}
+      - {motif: kingship-firm-as-heaven-and-earth, refs: ["ETCSL 2.8.3.2 12"], note: "nam-lugal-zu an ki-gin7 ḫe2-ge-en"}
+      - {motif: king-as-good-shepherd-sheep-multiply, refs: ["ETCSL 2.8.3.2 14-15"], note: "uĝ3-e sipad zid-bi; na-gada 'herdsman' of the settled people"}
+      - {motif: king-judges-like-sun-god, refs: ["ETCSL 2.8.3.2 16", "ETCSL 2.8.3.2 18"], note: "{d}utu-gin7 di gen6-na dab5-be2-da-zu-ne"}
+      - {motif: king-born-of-goddess-mother, refs: ["ETCSL 2.8.3.2 24"], note: "{d}marduk diĝir saĝ du3-zu 'Marduk, the god who created you' (lit. built your head); only the divine maker, no mother"}
+      - {motif: personal-god-holds-kings-hand, refs: ["ETCSL 2.8.3.2 25-26"], note: "in battle 'may he never stray from your side' (da-za ĝa2-la na-an-ni-ib-dag-ge); a2-taḫ {ĝiš}tukul-zu 'helper of your weapons'"}
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.8.3.2 27-32"], note: "An long life, Enlil weighty words, Inana a firm grip, Enki numerous people, Asari princely strength"}
+      - {motif: enemies-delivered-into-kings-hand, refs: ["ETCSL 2.8.3.2 30"], note: "uĝ3 šar2-ra šu-zu-še3 ḫu-mu-un-ĝal2"}
+      - {motif: consort-intercedes-for-king, refs: ["ETCSL 2.8.3.2 34-37"], note: "Damgalnuna prays (šudu3) for the king to her husband (nitalam) in the good bedchamber (ki-nu2 dug3)"}
+      - {motif: god-prays-for-king, refs: ["ETCSL 2.8.3.2 37"]}
+      - {motif: king-batters-enemy-like-storm, refs: ["ETCSL 2.8.3.2 20-22"], note: "kur gu2-erim2-ĝal2-la-zu ud ḫuš-gin7 du7-zu-ne: battering hostile lands like a raging storm; gu2 an-še3 ḫe2-ni-zig3 'may you raise your neck to heaven'"}
+    hints:
+      - "Ps 72:1-7 (the king judges like the righteous sun-lit rain), Ps 89:29,36-37 (throne as the days of heaven, as sun and moon), Ps 18:35 (God trains my hands for war), Ps 110:1-2. Namma placing water in the king's mouth (line 33) is unique here."
+  - id: ane-etcsl-2-8-3-3-samsuiluna-c
+    tradition: ane-sumerian
+    title: A prayer for Samsu-iluna (Samsu-iluna C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.3.3 1-40"]
+    tags:
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 2.8.3.3 1-4"], note: "en-e ... / sa-am-su-i-lu-na ... repeated with ki-tuš nam-lugal-zu ḫa-ba-gen6-ne2"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.8.3.3 5", "ETCSL 2.8.3.3 18-19"], note: "šibir nam-en-na; aga 'headdress'; {ĝiš}ĝidru"}
+      - {motif: royal-awe-worn-as-garment, refs: ["ETCSL 2.8.3.3 11", "ETCSL 2.8.3.3 13"], note: "ni2 gal nam-lugal-la-ka tug2-ba13-gin7 ḫe2-en6-mur10 'cloaked as with a mantle in the great awe of kingship'"}
+      - {motif: king-rises-like-sun-over-land, refs: ["ETCSL 2.8.3.3 14", "ETCSL 2.8.3.3 18", "ETCSL 2.8.3.3 25"]}
+      - {motif: king-appears-like-moon-over-land, refs: ["ETCSL 2.8.3.3 16", "ETCSL 2.8.3.3 23"], note: "{d}nanna-gin7 kalam-še3 e3-a-zu-ne; ma2-gur8 an-na-gin7 zalag-ga-zu-še3 giri17 šu ḫa-ra-ab-ĝal2-le: the people make the nose-gesture of prayer to the king"}
+      - {motif: god-prays-for-king, refs: ["ETCSL 2.8.3.3 17"], note: "nun gal {d}en-ki-ke4 šag4 gu2-bi gi4-a-na šudu3 ḫu-mu-ri-ib2-ša4"}
+      - {motif: king-leads-people-as-mother-and-father, refs: ["ETCSL 2.8.3.3 21", "ETCSL 2.8.3.3 26"], note: "šibir-zu ki-en-gi ki-uri ... ama a-a-bi-gin7; ama a-a ugu-bi-gin7 igi-bi"}
+      - {motif: king-as-protective-shade, refs: ["ETCSL 2.8.3.3 29-30"], note: "uĝ3 saĝ gig2-ga ... ĝissu-zu-uš ni2 [...-te-en-te-en] 'cool themselves in your shade'"}
+      - {motif: king-feeds-and-waters-people, refs: ["ETCSL 2.8.3.3 27-28"], note: "u2-gu7 daĝal-la-zu 'your broad pasturing'; a naĝ ḫe2-ĝal2-la-zu 'your abundant giving of drink'"}
+      - {motif: king-addressed-as-god-of-his-land, refs: ["ETCSL 2.8.3.3 24"], note: "kur ni2-ba tuš-a diĝir-bi [ḫe2-me-en] 'may you be the god of the lands'; restored verb"}
+    hints:
+      - "Lam 4:20 'the breath of our nostrils, the anointed of YHWH, ... in his shade we shall live among the nations'; Isa 32:1-2 (a king as shade of a great rock); Ps 72:5 (fear him as long as sun and moon); Isa 9:5 'Everlasting Father'; Num 11:12 (Moses: did I conceive this people, that you say carry them like a nurse?)."
+  - id: ane-etcsl-2-8-3-4-samsuiluna-d
+    tradition: ane-sumerian
+    title: A prayer for Samsu-iluna (Samsu-iluna D), one line
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.3.4 1"]
+    tags:
+      - {motif: king-rises-like-sun-over-land, refs: ["ETCSL 2.8.3.4 1"], note: "only line: pa e3 nam-ak-e šag4 kug-ta an-na-TAR 'he causes brilliance ... from his holy heart'; subject uncertain, tag tentative"}
+  - id: ane-etcsl-2-8-3-5-samsuiluna-e
+    tradition: ane-sumerian
+    title: A prayer for Samsu-iluna (Samsu-iluna E)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.3.5 1-46"]
+    tags:
+      - {motif: king-is-just-benefactor-of-land, refs: ["ETCSL 2.8.3.5 2"], note: "niĝ2-si-sa2 niĝ2-gen6-e ki aĝ2-e"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.8.3.5 4"]}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.8.3.5 9-12", "ETCSL 2.8.3.5 19"], note: "nam-til3-la ud-bi su3-ud-ba-ni-ib 'prolong the days of his life'"}
+      - {motif: sceptre-as-shading-tree, refs: ["ETCSL 2.8.3.5 16"], note: "{ĝiš}gu-za nam-lugal-la pa mul-bi daĝal-la an-gin7: the throne's shining branches spread wide as the sky"}
+      - {motif: king-as-good-shepherd-sheep-multiply, refs: ["ETCSL 2.8.3.5 18"], note: "saĝ gig2 zi-ĝal2 a-na lu-a u2-a-še3 laḫ5-laḫ5-e 'to lead the black-headed in all their multitude as provider'"}
+      - {motif: enemies-heaped-in-piles, refs: ["ETCSL 2.8.3.5 34"], note: "iri gu2 du3-a-zu zar-gin7 ḫa-ra-ab-sal-e 'spread out like sheaves the cities you hate'"}
+      - {motif: enemies-delivered-into-kings-hand, refs: ["ETCSL 2.8.3.5 35"], note: "erim2-ĝal2-zu šu-zu-še3 ḫe2-bi2-ib-si-si"}
+      - {motif: divine-minister-ushers-king-before-god, refs: ["ETCSL 2.8.3.5 7-8", "ETCSL 2.8.3.5 36-38"], note: "Nuska sukkal-maḫ: kadra-zu ... e2-kur-ra-še3 ḫul2-la ḫe-ni-ib-ku4-ku4; saĝ-ki zalag-ga {d}en-lil2"}
+      - {motif: god-makes-face-shine, refs: ["ETCSL 2.8.3.5 13", "ETCSL 2.8.3.5 26"], note: "igi sag9-ga ... ḫe2-e-ši-bar; Ninlil saĝ-ki zalag-ga-na igi ḫu-mu-ri-gub"}
+      - {motif: moon-god-renews-his-light, refs: ["ETCSL 2.8.3.5 44"], note: "simile: ud-gin7 an kug-ga itid-da u3-tud-da 'like the light born monthly in the pure sky'"}
+      - {motif: king-flourish-like-grass-and-tree, refs: ["ETCSL 2.8.3.5 45"], note: "nam-til3-da gurun gibil-gin7 ḫe2-en-da-mu2-mu2 'grow like fresh fruit'"}
+    hints:
+      - "The shining face of the god turned to the king: Num 6:25-26, Ps 4:7, Ps 80:4. Enemies into his hand: Ps 18:38-41, 2Sam 22:41. The king flourishing: Ps 72:16, Ps 92:13-15. Ushered before the god with offerings: Ps 24:3-6."
+  - id: ane-etcsl-2-8-3-6-samsuiluna-f
+    tradition: ane-sumerian
+    title: A hymn to Enlil for Samsu-iluna (Samsu-iluna F), in syllabic orthography
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.3.6"]
+    tags:
+      - {motif: god-chooses-king-in-heart, refs: ["ETCSL 2.8.3.6 A:1-2"], note: "lugal palil an-na šag4 kug-ge pad3-da"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.8.3.6 A:7-8"], note: "an-ne2 di-kud maḫ an-ne2 nam gal mu-re-tar; aga gen6-na 'a secure crown'"}
+      - {motif: shepherdship-of-land-given-by-god, refs: ["ETCSL 2.8.3.6 A:9-10", "ETCSL 2.8.3.6 A:13"]}
+      - {motif: king-provides-temple-offerings-prayer, refs: ["ETCSL 2.8.3.6 A:11-12"], note: "engar gen6-na e2 {d}a-sa-lim ... niĝ2-nam nu-si-li-ge18 e2-saĝ-il5-la: the trustworthy farmer of Esagil who keeps provisions from ceasing"}
+      - {motif: foreign-lands-placed-under-kings-feet, refs: ["ETCSL 2.8.3.6 A:13"], note: "kur ĝiri3-zu-uš mu-ĝar"}
+      - {motif: kings-destiny-never-altered, refs: ["ETCSL 2.8.3.6 A:15"], note: "lugal nam nu-ug-ru {d}en-lil2: syllabic for nam nu-kur2-ru"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["ETCSL 2.8.3.6 B:5"], note: "gu2 {id2}idigna gu2 {id2}bur-na gu2 a-a-ba-aš-ši: from the banks of the Tigris and Euphrates to the sea shore"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 2.8.3.6 B:7"], note: "{d}en-lil2-la2 za-am-me-en-zu dug3-ga (syllabic za3-mi2)"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.8.3.6 B:8-9"], note: "zi u2 su-ud-ĝa2-al niĝ2-ba-aš-ši-i ba-am-ma: 'grant him life of long days as a gift'"}
+    hints:
+      - "Ps 72:8 'dominion from sea to sea, from the River to the ends of the earth'; Ps 8:7 and Ps 110:1 (under his feet); Ps 21:5 'he asked life of you, you gave it him, length of days for ever'."
+  - id: ane-etcsl-2-8-3-7-samsuiluna-g
+    tradition: ane-sumerian
+    title: A prayer for Samsu-iluna (Samsu-iluna G), bilingual
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.3.7 1-6"]
+    tags:
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 2.8.3.7 1", "ETCSL 2.8.3.7 3-4"], note: "Enki, Asalim and the son of Eridug glossed as e2-a {d}marduk u3 {d}a-sa-lu-ḫa; the Akkadian gloss addresses Samsu-iluna 'LUGAL ši-in-nu-u2' 'double (second?) king'"}
+      - {motif: divine-regalia-crown-throne, refs: ["ETCSL 2.8.3.7 3-4"], note: "{ĝiš}gu-za kug-sig17 nam-lugal saĝ il5-la"}
+      - {motif: king-of-sumer-and-akkad, refs: ["ETCSL 2.8.3.7 5-6"], note: "lugal urim2 lugal larsam ... lugal ki-en6-ĝi6 ĝi6-u2-ri"}
+    hints:
+      - "Equation of Asalluḫi with Marduk underlies the Marduk theology later read in Enuma eliš; compare the merging of divine names in Exod 6:2-3."
+  - id: ane-etcsl-2-8-3-8-samsuiluna-h
+    tradition: ane-sumerian
+    title: A hymn to Enlil for Samsu-iluna (Samsu-iluna H), bilingual
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.3.8 1-13"]
+    tags:
+      - {motif: king-provides-temple-offerings-prayer, refs: ["ETCSL 2.8.3.8 1-2"], note: "ni-da-ba (nidba) brought into E-kur"}
+      - {motif: god-awe-fills-heaven-and-earth, refs: ["ETCSL 2.8.3.8 4"], note: "of the king: ni2 ... uĝ3 ša-ra an-du-ul; Akkadian 'ša na-am-ri-ru-šu ki-iš-ša-at ni-ši ka-at-mu'"}
+      - {motif: interlinear-akkadian-gloss, refs: ["ETCSL 2.8.3.8 4", "ETCSL 2.8.3.8 11-12"]}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 2.8.3.8 13"], note: "sa-am-su-i-lu-na za3-am-zu dug3-ga: the doxology addressed to the king"}
+    hints:
+      - "Lines 6-8 broken. The same lines (B:3, B:7) occur in Samsu-iluna F: a hymn reused."
+  - id: ane-etcsl-2-8-5-1-abi-eshuh-a
+    tradition: ane-sumerian
+    title: A praise poem of Abi-Ešuḫ (Abi-Eshuh A), addressed to Marduk
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.5.1"]
+    tags:
+      - {motif: supreme-rule-over-heaven-and-earth-given-to-marduk, refs: ["ETCSL 2.8.5.1 A:6-10"], note: "{d}en-lil2-le nam-lugal kiš an ki-bi-da-ke4 nam-še3 mu-ni-in-tar zag ša4 la-ba-an-tuku: Enlil fixes for Marduk kingship of the totality of heaven and earth, without a rival"}
+      - {motif: younger-god-receives-powers-from-elder, refs: ["ETCSL 2.8.5.1 A:1", "ETCSL 2.8.5.1 A:8"], note: "lugal me an ki-bi-da-ke4 ab-ur4-ra 'who gathers the me of heaven and earth'; ĝidru lugal ĝarza diĝir-re-e-ne"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.8.5.1 A:4"], note: "of Marduk himself: en nam tar-tar 'lord who decides destinies'"}
+      - {motif: god-alone-knows-hearts, refs: ["ETCSL 2.8.5.1 A:5"], note: "gal-an-zu šag4-zu maḫ 'wise, august knower of hearts' (šag4-zu)"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.8.5.1 A:7"], note: "šibir kur-kur-ra gamx-ma šu ḫe2-em-mi-la2-am3: the crook that bends the foreign lands bound to Marduk's hand"}
+      - {motif: king-rises-like-sun-over-land, refs: ["ETCSL 2.8.5.1 B:12"], note: "of Abi-Ešuḫ, 'beloved son of your heart' (dumu ki aĝ2 šag4-zu): nam-en-bi {d}utu-gin7 an ub-ta pa e3"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 2.8.5.1 C:14"], note: "line repeated with the name {d}marduk inserted"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 2.8.5.1 A:11", "ETCSL 2.8.5.1 B:13"], note: "ki-ru-gu2 1-a-kam-ma; ĝiš-gi-ĝal2-bi-im"}
+    hints:
+      - "Marduk's elevation by An and Enlil compares Enūma eliš IV-VI and the Laws of Hammurabi prologue i 1-15 (Enlilship given to Marduk); compare Ps 82 and Ps 89:6-8 (who among the sons of god is like YHWH?). God as knower of hearts: 1Sam 16:7, Jer 17:10, Q 67:13 (ʿalīm bi-dhāt al-ṣudūr)."
