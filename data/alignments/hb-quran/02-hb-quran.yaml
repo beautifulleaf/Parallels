@@ -1393,3 +1393,393 @@ reviewed:
         with_refs: ["Jer 31:30"]
         relation: echo
         note: "Jer: kî ʾim-ʾîš baʿăwōnô yāmût. Q: wa-lā taksibu kullu nafsin illā ʿalayhā."
+  - unit: quran-7-opening-scales
+    checked: [hb-dan-5-writing-on-wall, hb-ezek-7-the-end, hb-dan-12-resurrection-end, hb-josh-7-achan]
+    matches:
+      - with: hb-dan-5-writing-on-wall
+        motif: weighed-in-scales-found-wanting
+        refs: ["7:8", "7:9"]
+        with_refs: ["Dan 5:27"]
+        relation: parallel
+        note: "Judgement by weighing. Dan (Aramaic): təqēl təqîltāh və-mōʾzanyāʾ wə-hištəkhaḥat ḥassîr. Q: wa-l-waznu yawmaʾidhini l-ḥaqqu fa-man thaqulat mawāzīnuhu ... wa-man khaffat mawāzīnuhu. Dan weighs one king and finds him light; Q weighs everyone, and light scales mean loss (khasirū anfusahum)."
+  - unit: quran-7-adam-iblis
+    checked: [hb-gen-3-fall-expulsion, hb-gen-2-eden-adam-woman, hb-ezek-28-cherub-in-eden, hb-isa-59-sins-separate-divine-warrior, hb-job-1-prologue-first-test]
+    matches:
+      - with: hb-gen-3-fall-expulsion
+        motif: serpent-tempter
+        refs: ["7:20", "7:21"]
+        with_refs: ["Gen 3:1", "Gen 3:4", "Gen 3:5"]
+        relation: divergence
+        note: "A different tempter. Gen: wə-han-nāḥāš hāyāh ʿārûm mik-kōl ḥayyat haś-śādeh, an animal speaking to the woman. Q: fa-waswasa lahumā l-shayṭānu, the devil already expelled in 7:13, whispering to both, and he swears an oath (wa-qāsamahumā innī lakumā la-mina l-nāṣiḥīna). There is no serpent and no curse to crawl on the belly (Gen 3:14)."
+      - with: hb-gen-3-fall-expulsion
+        motif: humans-become-like-gods
+        refs: ["7:20"]
+        with_refs: ["Gen 3:5", "Gen 3:22"]
+        relation: divergence
+        note: "What the tempter promises. Gen: wi-hyîtem kē-ʾlōhîm yōdəʿê ṭôv wā-rāʿ, and God himself confirms the danger: hēn hā-ʾādām hāyāh kə-ʾaḥad mimmennû ... wā-ḥay lə-ʿōlām. Q: mā nahākumā rabbukumā ʿan hādhihi l-shajarati illā an takūnā malakayni aw takūnā mina l-khālidīna. 'Like gods knowing good and evil' becomes 'angels or immortals', a lie (bi-ghurūrin). Q has no divine admission that the humans have become 'like one of us'."
+      - with: hb-gen-3-fall-expulsion
+        motif: woman-eats-first-gives-man
+        refs: ["7:19", "7:20", "7:22"]
+        with_refs: ["Gen 3:2", "Gen 3:6"]
+        relation: divergence
+        note: "Who is tempted and eats first. Gen: the serpent talks to the woman (wa-yyōʾmer ʾel-hā-ʾiššāh), she eats first and gives to her husband (wat-tittēn gam-lə-ʾîšāh ʿimmāh wa-yyōʾkhal). Q uses the dual throughout: wa-zawjuka ... fa-kulā ... wa-lā taqrabā ... waswasa lahumā ... fa-lammā dhāqā l-shajarata. The couple acts together and the woman is not singled out."
+      - with: hb-gen-3-fall-expulsion
+        motif: tree-of-knowledge-forbidden
+        refs: ["7:19"]
+        with_refs: ["Gen 3:3"]
+        relation: echo
+        note: "Gen 3:3, the woman's paraphrase: wə-lōʾ tiggəʿû bô, 'nor touch it', a fence God had not said. Q, God's own command: wa-lā taqrabā hādhihi l-shajarata, 'do not come near'. The tree is unnamed in Q (no 'knowledge of good and evil')."
+      - with: hb-gen-2-eden-adam-woman
+        motif: tree-of-knowledge-forbidden
+        refs: ["7:19"]
+        with_refs: ["Gen 2:16", "Gen 2:17"]
+        relation: divergence
+        note: "Gen: mik-kōl ʿēṣ-hag-gān ʾākhōl tōʾkhēl û-mēʿēṣ ha-ddaʿat ṭôv wā-rāʿ lōʾ tōʾkhal mimmennû kî bə-yôm ʾăkhālkhā mimmennû môt tāmût. Q: fa-kulā min ḥaythu shiʾtumā wa-lā taqrabā hādhihi l-shajarata fa-takūnā mina l-ẓālimīna. The open permission is kept; the threat of death becomes 'you will be among the wrongdoers', and the tree is nameless."
+      - with: hb-gen-3-fall-expulsion
+        motif: fig-leaf-coverings
+        refs: ["7:22"]
+        with_refs: ["Gen 3:7"]
+        relation: parallel
+        note: "Gen: wat-tippāqaḥnāh ʿênê šənêhem wa-yyēdəʿû kî ʿêrummim hēm wa-yyitpərû ʿălēh təʾēnāh. Q: badat lahumā sawʾātuhumā wa-ṭafiqā yakhṣifāni ʿalayhimā min waraqi l-jannati. Both sew leaves, but in Q they are 'leaves of the garden' (no fig), and Q says the nakedness 'appeared' rather than 'their eyes were opened'."
+      - with: hb-gen-3-fall-expulsion
+        motif: hiding-from-god
+        refs: ["7:22"]
+        with_refs: ["Gen 3:8", "Gen 3:9", "Gen 3:11"]
+        relation: divergence
+        note: "God's question. Gen: the couple hide (wa-yyitḥabbēʾ hā-ʾādām wə-ʾištô), God walks in the garden and calls ʾayyekkāh, then ha-min-hā-ʿēṣ ... ʾākhāltā. Q: wa-nādāhumā rabbuhumā a-lam anhakumā ʿan tilkumā l-shajarati wa-aqul lakumā inna l-shayṭāna lakumā ʿaduwwun mubīnun. No hiding and no walking God; the question is a reminder of a warning given."
+      - with: hb-gen-3-fall-expulsion
+        motif: blame-shifting
+        refs: ["7:23"]
+        with_refs: ["Gen 3:12", "Gen 3:13"]
+        relation: divergence
+        note: "The decisive reversal. Gen: hā-ʾiššāh ʾăšer nātattāh ʿimmādî hiwʾ nātənāh-llî; han-nāḥāš hiššîʾanî, the man blames the woman (and God), the woman the serpent. Q: qālā rabbanā ẓalamnā anfusanā wa-in lam taghfir lanā wa-tarḥamnā la-nakūnanna mina l-khāsirīna. Both confess together and ask forgiveness. Blame-shifting gives way to joint repentance, and the blame-shifter in Q is Iblis (fa-bi-mā aghwaytanī, 7:16)."
+      - with: hb-gen-3-fall-expulsion
+        motif: enmity-serpent-and-woman-seed
+        refs: ["7:24"]
+        with_refs: ["Gen 3:15"]
+        relation: divergence
+        note: "Gen: wə-ʾêvāh ʾāšît bênkhā û-vên hā-ʾiššāh û-vên zarʿăkhā û-vên zarʿāh, enmity set by God between serpent and woman and their seed. Q: qāla hbiṭū baʿḍukum li-baʿḍin ʿaduwwun, plural, a mutual enmity of those sent down (humans and Satan, 7:22 inna l-shayṭāna lakumā ʿaduww). There are no curses on the woman (childbirth, 3:16) or the ground (3:17-19)."
+      - with: hb-gen-3-fall-expulsion
+        motif: dust-to-dust
+        refs: ["7:25"]
+        with_refs: ["Gen 3:19"]
+        relation: divergence
+        note: "Gen: ʿad šûvəkhā ʾel-hā-ʾădāmāh kî mimmennāh luqqāḥtā kî-ʿāfār ʾattāh wə-ʾel-ʿāfār tāšûv, from dust and back to dust, as a curse. Q: fīhā taḥyawna wa-fīhā tamūtūna wa-minhā tukhrajūna. Q adds the third step, resurrection from the earth."
+      - with: hb-gen-3-fall-expulsion
+        motif: expulsion-from-paradise
+        refs: ["7:24"]
+        with_refs: ["Gen 3:23", "Gen 3:24"]
+        relation: divergence
+        note: "Gen: wa-yšalləḥēhû ... wa-ygāreš ʾet-hā-ʾādām, with cherubim and the flaming sword guarding the tree of life, lest he eat and live forever. Q: ihbiṭū ... wa-lakum fī l-arḍi mustaqarrun wa-matāʿun ilā ḥīnin. A descent to a temporary home, with no guard, no tree of life and no fear of human immortality."
+      - with: hb-ezek-28-cherub-in-eden
+        motif: expulsion-from-mountain-of-god
+        refs: ["7:12", "7:13", "7:18"]
+        with_refs: ["Ezek 28:14", "Ezek 28:16", "Ezek 28:17"]
+        relation: parallel
+        note: "A being in God's garden is cast down for pride. Ezek: ʾatt-kərûv ... bə-har qōdeš ʾĕlōhîm hāyîtā bə-tôkh ʾavnê-ʾēš hithallākhtā ... gāvah libbəkhā ... ʿal-ʾereṣ hišlakhtîkhā. Q: anā khayrun minhu khalaqtanī min nārin ... fa-hbiṭ minhā fa-mā yakūnu laka an tatakabbara fīhā fa-khruj innaka mina l-ṣāghirīna. Both have fire (ʾavnê-ʾēš / min nār), pride (gāvah libbəkhā / tatakabbara) and being thrown down. In Ezek it is a lament over the king of Tyre; Q tells it as the fall of Iblis."
+      - with: hb-job-1-prologue-first-test
+        motif: heavenly-wager-tests-righteous
+        refs: ["7:14", "7:15", "7:16", "7:17"]
+        with_refs: ["Job 1:7", "Job 1:11", "Job 1:12"]
+        relation: echo
+        note: "God gives the adversary leave to work on humans. Job: miš-šûṭ bā-ʾāreṣ ... hinnēh khol-ʾăšer-lô bə-yādekhā raq ʾēlāyw ʾal-tišlaḥ yādekhā, a limited permission over one man. Q: anẓirnī ilā yawmi yubʿathūna, qāla innaka mina l-munẓarīna, and the devil vows la-aqʿudanna lahum ṣirāṭaka l-mustaqīma ... la-ātiyannahum min bayni aydīhim wa-min khalfihim. A respite until resurrection, against all of humankind."
+  - unit: quran-7-children-of-adam
+    checked: [hb-gen-3-fall-expulsion, hb-exod-20-decalogue, hb-exod-34-thirteen-attributes-covenant-renewal, hb-amos-2-oracle-against-israel, hb-gen-2-eden-adam-woman, hb-exod-20-altar-law]
+    matches:
+      - with: hb-gen-3-fall-expulsion
+        motif: garments-of-skin
+        refs: ["7:26"]
+        with_refs: ["Gen 3:21"]
+        relation: divergence
+        note: "God provides clothing. Gen: wa-yyaʿaś YHWH ʾĕlōhîm lə-ʾādām û-lə-ʾištô kotnôt ʿôr wa-yyalbišēm, for the couple after the sin. Q: yā banī Ādama qad anzalnā ʿalaykum libāsan yuwārī sawʾātikum wa-rīshan wa-libāsu l-taqwā dhālika khayrun, 'sent down' to all of Adam's children, with a moral 'garment of piety' added."
+      - with: hb-gen-2-eden-adam-woman
+        motif: primal-nakedness-without-shame
+        refs: ["7:27"]
+        with_refs: ["Gen 2:25"]
+        relation: contrast
+        note: "Opposite pictures of the first couple before the fall. Gen: wa-yyihyû šənêhem ʿărûmmîm hā-ʾādām wə-ʾištô wə-lōʾ yitbōšāšû, naked and unashamed. Q: ka-mā akhraja abawaykum mina l-jannati yanziʿu ʿanhumā libāsahumā li-yuriyahumā sawʾātihimā, they wore a garment that Satan stripped off. cf. (not a match) rabbinic garments of light (ʾôr / ʿôr), Gen. Rab. 20:12."
+      - with: hb-exod-20-altar-law
+        motif: no-steps-to-altar-nakedness
+        refs: ["7:26", "7:31"]
+        with_refs: ["Exod 20:26"]
+        relation: parallel
+        note: "Nakedness must be covered at the place of worship. Exod: wə-lōʾ-taʿăleh və-maʿălōt ʿal-mizbəḥî ʾăšer lōʾ-tiggāleh ʿerwātəkhā ʿālāyw. Q: libāsan yuwārī sawʾātikum ... khudhū zīnatakum ʿinda kulli masjidin. sawʾa and ʿerwāh are both the private parts."
+      - with: hb-amos-2-oracle-against-israel
+        motif: pledged-garments-at-altars
+        refs: ["7:31"]
+        with_refs: ["Amos 2:8"]
+        relation: echo
+        note: "Garments at every place of worship. Amos: wə-ʿal-bəgādîm ḥăvulîm yaṭṭû ʾēṣel kol-mizbēaḥ, condemning the use of pledged clothes. Q: khudhū zīnatakum ʿinda kulli masjidin wa-kulū wa-shrabū wa-lā tusrifū, commanding proper dress. 'Beside every altar' matches 'at every place of prostration', with opposite force."
+  - unit: quran-7-paradise-hell-araf
+    checked: [hb-1kgs-8-dedication-prayer, hb-deut-30-return-choose-life, hb-amos-5-lament-day-of-yhwh, hb-hos-4-lawsuit-priests]
+    matches:
+      - with: hb-hos-4-lawsuit-priests
+        motif: god-forgets-those-who-forgot
+        refs: ["7:51"]
+        with_refs: ["Hos 4:6"]
+        relation: parallel
+        note: "Forgetting answered with forgetting, the same verb used twice. Q: fa-l-yawma nansāhum ka-mā nasū liqāʾa yawmihim hādhā. Hos: wat-tiškaḥ tôrat ʾĕlōhêkhā ʾeškaḥ bānêkhā gam-ʾānî. Hos speaks of priests who forget the Torah; Q of the damned who forgot the meeting with God."
+  - unit: quran-7-creation-signs
+    checked: [hb-gen-1-creation-six-days, hb-ps-74-leviathan, hb-ps-104-creation-hymn, hb-job-38-whirlwind-creation, hb-job-14-tree-has-hope, hb-hos-5-6-third-day]
+    matches:
+      - with: hb-gen-1-creation-six-days
+        motif: divine-rest-seventh-day
+        refs: ["7:54"]
+        with_refs: ["Gen 2:1", "Gen 2:2", "Gen 2:3"]
+        relation: divergence
+        note: "What follows the six days. Gen: wa-ykhullû haš-šāmayim wə-hā-ʾāreṣ ... wa-yyišbōt bay-yôm haš-šəvîʿî, God rests and blesses the seventh day. Q: khalaqa l-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yughshī l-layla l-nahāra. The six days are kept, but in place of the rest God sits on the throne and goes on governing. There is no seventh day. cf. Q 50:38, where no weariness touches him."
+      - with: hb-job-14-tree-has-hope
+        motif: tree-has-hope-man-none
+        refs: ["7:57"]
+        with_refs: ["Job 14:7", "Job 14:9", "Job 14:12"]
+        relation: contrast
+        note: "The same analogy used for opposite conclusions. Job: kî yēš lā-ʿēṣ tiqwāh ... mē-rêaḥ mayim yafriaḥ, but wə-ʾîš šākhav wə-lōʾ-yāqûm: water revives a tree, not a man. Q: suqnāhu li-baladin mayyitin fa-anzalnā bihi l-māʾa fa-akhrajnā bihi min kulli l-thamarāti kadhālika nukhriju l-mawtā. Rain on dead land is the proof that the dead will rise."
+      - with: hb-hos-5-6-third-day
+        motif: rain-revives-dead-earth
+        refs: ["7:57"]
+        with_refs: ["Hos 6:2", "Hos 6:3"]
+        relation: echo
+        note: "Revival and rain together. Hos: yəḥayyēnû mi-yyōmāyim bay-yôm haš-šəlîšî yəqimēnû ... wə-yāvôʾ khag-gešem lānû kə-malqôš yôreh ʾāreṣ. Q 7:57: rain on dead land, kadhālika nukhriju l-mawtā. Hos uses rain for God's coming and the people's restoration; Q for bodily resurrection."
+      - with: hb-job-38-whirlwind-creation
+        motif: rain-on-uninhabited-desert
+        refs: ["7:57"]
+        with_refs: ["Job 38:26", "Job 38:27"]
+        relation: echo
+        note: "Job: ləhamṭîr ʿal-ʾereṣ lōʾ-ʾîš ... ləhaśbîaʿ šōʾāh û-məšōʾāh û-ləhaṣmîaḥ mōṣāʾ dešeʾ. Q: suqnāhu li-baladin mayyitin. God drives the clouds to desolate land and makes it sprout."
+      - with: hb-ps-104-creation-hymn
+        motif: breath-withdrawn-return-to-dust
+        refs: ["7:57"]
+        with_refs: ["Ps 104:30"]
+        relation: echo
+        note: "Ps: təšallaḥ rûḥăkhā yibbārēʾûn û-təḥaddēš pənê ʾădāmāh. Q: yursilu l-riyāḥa bushran bayna yaday raḥmatihi ... fa-akhrajnā bihi min kulli l-thamarāt. God sends his wind/spirit (rûaḥ, rīḥ) and the face of the earth is renewed."
+  - unit: quran-7-noah
+    checked: [hb-gen-6-flood, hb-gen-19-sodom-destroyed, hb-jer-24-two-baskets-figs, hb-num-12-miriam-aaron, hb-ezek-3-watchman-and-muteness]
+    matches:
+      - with: hb-gen-6-flood
+        motif: hero-preaches-to-people
+        refs: ["7:59", "7:61", "7:62", "7:63"]
+        with_refs: ["Gen 6:9", "Gen 6:13", "Gen 7:1"]
+        relation: divergence
+        note: "Noah's role. Gen: Noah never speaks before the flood. He is ʾîš ṣaddîq tāmîm ... ʾet-hā-ʾĕlōhîm hithallekh-Nōaḥ, God speaks to him alone, and he obeys in silence. Q: Noah is a messenger who preaches, yā qawmi ʿbudū llāha mā lakum min ilāhin ghayruhu, innī rasūlun min rabbi l-ʿālamīna, ublighukum risālāti rabbī wa-anṣaḥu lakum. A silent righteous man becomes a warning prophet, the model of Muhammad."
+      - with: hb-gen-6-flood
+        motif: reason-rejected-messenger
+        refs: ["7:64"]
+        with_refs: ["Gen 6:11", "Gen 6:12", "Gen 6:13"]
+        relation: divergence
+        note: "Why the flood comes. Gen: wat-timmālēʾ hā-ʾāreṣ ḥāmās ... kî-hišḥît kol-bāśār ʾet-darkô, universal violence and corruption. Q: fa-kadhdhabūhu fa-anjaynāhu ... wa-aghraqnā lladhīna kadhdhabū bi-āyātinā, the rejection of the messenger. The moral cause becomes a cause about revelation, and the drowned are 'a blind people' (qawman ʿamīna)."
+      - with: hb-gen-6-flood
+        motif: family-saved
+        refs: ["7:64"]
+        with_refs: ["Gen 7:1", "Gen 7:7"]
+        relation: divergence
+        note: "Who is saved. Gen: bōʾ-ʾattāh wə-khol-bêtəkhā ʾel-hat-tēvāh; Nōaḥ û-vānāyw wə-ʾištô û-nəšê-vānāyw, his household. Q: fa-anjaynāhu wa-lladhīna maʿahu fī l-fulki, 'those with him', a community of believers rather than a family (cf. Q 11:46, where a son drowns)."
+      - with: hb-gen-19-sodom-destroyed
+        motif: warning-mocked-by-kin
+        refs: ["7:60", "7:63"]
+        with_refs: ["Gen 19:14"]
+        relation: echo
+        note: "A warner not taken seriously. Gen: qûmû ṣəʾû min-ham-māqôm haz-zeh kî-mašḥît YHWH ʾet-hā-ʿîr wa-yhî khi-mṣaḥēq bə-ʿênê ḥătānāyw. Q: qāla l-malaʾu min qawmihi innā la-narāka fī ḍalālin mubīnin; a-wa-ʿajibtum an jāʾakum dhikrun ... ʿalā rajulin minkum."
+  - unit: quran-7-hud-ad
+    checked: [hb-deut-2-edom-moab-ammon, hb-job-26-hymn-to-cosmic-power, hb-gen-36-edom-genealogy, hb-gen-14-war-of-kings-melchizedek, hb-deut-13-enticers, hb-jer-24-two-baskets-figs, hb-amos-2-oracle-against-israel]
+    matches:
+      - with: hb-amos-2-oracle-against-israel
+        motif: amorite-tall-as-cedars
+        refs: ["7:69", "7:72"]
+        with_refs: ["Amos 2:9"]
+        relation: parallel
+        note: "A people of great stature destroyed root and all. Amos: wə-ʾānōkhî hišmadtî ʾet-hā-ʾĕmōrî ... ʾăšer kə-gōvah ʾărāzîm govhô ... wā-ʾašmîd piryô mi-mmaʿal wə-šārāšāyw mit-tāḥat. Q: wa-zādakum fī l-khalqi basṭatan; wa-qaṭaʿnā dābira lladhīna kadhdhabū bi-āyātinā. Both have the stature and the cutting off of the root (dābir / šārāšāyw). In Amos it is God's favour to Israel; in Q a warning to the Meccans."
+      - with: hb-deut-2-edom-moab-ammon
+        motif: displacement-of-earlier-peoples
+        refs: ["7:69"]
+        with_refs: ["Deut 2:10", "Deut 2:21", "Deut 2:22"]
+        relation: echo
+        note: "Peoples of giant size and successive replacement. Deut: ʿam gādôl wə-rav wā-rām kā-ʿănāqîm wa-yyašmîdēm YHWH ... wa-yyîrāšum wa-yyēšvû taḥtām. Q: idh jaʿalakum khulafāʾa min baʿdi qawmi Nūḥin wa-zādakum fī l-khalqi basṭatan (Ad after Noah's people; cf. 7:74 for Thamud after Ad). Deut has nations displacing giants; Q has peoples succeeding destroyed peoples (khulafāʾ)."
+      - with: hb-gen-14-war-of-kings-melchizedek
+        motif: primeval-giant-peoples
+        refs: ["7:69"]
+        with_refs: ["Gen 14:5"]
+        relation: echo
+        note: "Gen: wa-yyakkû ʾet-rəfāʾîm ... wə-ʾet-haz-zûzîm ... wə-ʾēt hā-ʾêmîm, giant peoples of old. Q: Ad, given basṭatan fī l-khalq. Commentators identify Ad with such peoples; Q gives no name of a giant people."
+  - unit: quran-7-salih-thamud
+    checked: [hb-jer-42-43-flight-to-egypt, hb-jer-24-two-baskets-figs, hb-jer-27-yoke-bars, hb-obad-1-edom-brought-down, hb-num-16-korah]
+    matches:
+      - with: hb-obad-1-edom-brought-down
+        motif: edom-dwells-in-clefts-of-rock
+        refs: ["7:74"]
+        with_refs: ["Obad 1:3"]
+        relation: echo
+        note: "A rock-dwelling people proud of its mountain homes. Obad: šōkhnî və-ḥagwê-selaʿ mərôm šivtô ʾōmēr bə-libbô mî yôridēnî ʾāreṣ. Q: wa-tanḥitūna l-jibāla buyūtan ... wa-lā taʿthaw fī l-arḍi mufsidīna. Thamud, like Edom, is brought down. cf. (not a match) the Nabataean rock tombs of Hegra and Petra."
+      - with: hb-num-16-korah
+        motif: earth-swallows-rebels
+        refs: ["7:78"]
+        with_refs: ["Num 16:31", "Num 16:32"]
+        relation: echo
+        note: "The ground punishes those who defy God's messenger. Num: wat-tibbāqaʿ hā-ʾădāmāh ... wat-tiftaḥ hā-ʾāreṣ ʾet-pîhā wat-tivlaʿ ʾōtām wə-ʾet-bāttêhem. Q: fa-akhadhathumu l-rajfatu fa-aṣbaḥū fī dārihim jāthimīna. In Num the earth opens and swallows; in Q a tremor leaves them dead in their houses."
+      - with: hb-jer-42-43-flight-to-egypt
+        motif: people-vow-to-obey-oracle-then-refuse
+        refs: ["7:79"]
+        with_refs: ["Jer 42:19", "Jer 42:21"]
+        relation: echo
+        note: "The prophet's closing words to a people who refused. Jer: wā-ʾaggid lākhem hay-yôm wə-lōʾ šəmaʿtem bə-qôl YHWH. Q: yā qawmi laqad ablaghtukum risālata rabbī wa-naṣaḥtu lakum wa-lākin lā tuḥibbūna l-nāṣiḥīna. Jer speaks before the disaster, Q's Salih after it."
+  - unit: quran-7-lot
+    checked: [hb-gen-19-sodom-destroyed, hb-ps-11-flee-like-bird, hb-gen-6-flood, hb-job-1-prologue-first-test, hb-lam-5-prayer-remember]
+    matches:
+      - with: hb-gen-19-sodom-destroyed
+        motif: fire-and-brimstone-from-heaven
+        refs: ["7:84"]
+        with_refs: ["Gen 19:24"]
+        relation: divergence
+        note: "The same verb, m-ṭ-r 'to rain'. Gen: wa-YHWH himṭîr ʿal-Sədōm wə-ʿal-ʿĂmōrāh gofrît wā-ʾēš mēʾēt YHWH min-haš-šāmāyim. Q: wa-amṭarnā ʿalayhim maṭaran. Q names neither the cities nor the sulfur and fire; only a 'rain'."
+      - with: hb-gen-19-sodom-destroyed
+        motif: wife-turned-to-pillar-of-salt
+        refs: ["7:83"]
+        with_refs: ["Gen 19:26"]
+        relation: divergence
+        note: "Gen: wat-tabbēṭ ʾištô mēʾaḥărāyw wat-təhî nəṣîv melaḥ, she looks back and becomes salt. Q: fa-anjaynāhu wa-ahlahu illā mraʾatahu kānat mina l-ghābirīna, she 'stayed behind' with the doomed. Q has no looking back and no salt."
+      - with: hb-gen-19-sodom-destroyed
+        motif: family-saved
+        refs: ["7:83"]
+        with_refs: ["Gen 19:16", "Gen 19:29"]
+        relation: divergence
+        note: "Why Lot is saved. Gen: bə-ḥemlat YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ ʾet-Lôṭ, rescued for Abraham's sake, dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu wa-ahlahu, as a messenger who preached (7:80), with no mention of Abraham and no hesitation."
+      - with: hb-gen-19-sodom-destroyed
+        motif: mob-demands-guest
+        refs: ["7:80", "7:81", "7:82"]
+        with_refs: ["Gen 19:5", "Gen 19:9"]
+        relation: divergence
+        note: "The sin and the conflict. Gen: one night's assault, hôṣîʾēm ʾēlênû wə-nēdəʿāh ʾōtām, on the guests, and the mob's charge against Lot as an outsider, hā-ʾeḥād bāʾ-lāgûr wa-yyišpōṭ šāfôṭ. Q: Lot preaches against a habitual practice, a-taʾtūna l-fāḥishata mā sabaqakum bihā min aḥadin ... innakum la-taʾtūna l-rijāla shahwatan min dūni l-nisāʾ, and the people answer akhrijūhum min qaryatikum innahum unāsun yataṭahharūna. Q 7 has no guests, no offer of the daughters (Gen 19:8) and no blinding."
+      - with: hb-ps-11-flee-like-bird
+        motif: rain-of-fire-and-sulfur-cup
+        refs: ["7:84"]
+        with_refs: ["Ps 11:6"]
+        relation: echo
+        note: "Ps: yamṭēr ʿal-rəšāʿîm paḥîm ʾēš wə-gofrît. Q: wa-amṭarnā ʿalayhim maṭaran fa-nẓur kayfa kāna ʿāqibatu l-mujrimīna. A rain on the wicked (m-ṭ-r)."
+  - unit: quran-7-shuayb-midian
+    checked: [hb-exod-2-moses-birth-flight-midian, hb-exod-3-burning-bush, hb-prov-20-sayings, hb-prov-16-sayings, hb-prov-11-sayings, hb-jer-42-43-flight-to-egypt, hb-amos-8-summer-fruit]
+    matches:
+      - with: hb-amos-8-summer-fruit
+        motif: just-weights-and-measures
+        refs: ["7:85"]
+        with_refs: ["Amos 8:5"]
+        relation: parallel
+        note: "A prophet indicts his people for false measures. Amos: ləhaqṭîn ʾêfāh û-ləhagdîl šeqel û-lə-ʿawwēt mōʾznê mirmāh. Q (Shuʿayb to Midian): fa-awfū l-kayla wa-l-mīzāna wa-lā tabkhasū l-nāsa ashyāʾahum. Amos's cheaters are Israelites impatient for the Sabbath to end; Q's are Midianites, a people outside Israel."
+      - with: hb-prov-11-sayings
+        motif: just-weights-and-measures
+        refs: ["7:85"]
+        with_refs: ["Prov 11:1"]
+        relation: parallel
+        note: "Prov: mōʾznê mirmāh tôʿăvat YHWH wə-ʾeven šəlēmāh rəṣônô. Q: awfū l-kayla wa-l-mīzāna. Prov's full stone (ʾeven šəlēmāh) matches Q's command to give full (awfū)."
+      - with: hb-prov-20-sayings
+        motif: just-weights-and-measures
+        refs: ["7:85"]
+        with_refs: ["Prov 20:10"]
+        relation: echo
+        note: "Prov: ʾeven wā-ʾeven ʾêfāh wə-ʾêfāh tôʿăvat YHWH. Q: wa-lā tabkhasū l-nāsa ashyāʾahum."
+  - unit: quran-7-towns-pattern
+    checked: [hb-ps-44-national-lament, hb-1kgs-8-dedication-prayer, hb-zeph-3-jerusalem-and-restoration, hb-amos-4-cows-of-bashan, hb-jer-6-siege-of-zion]
+    matches:
+      - with: hb-amos-4-cows-of-bashan
+        motif: plagues-yet-you-did-not-return
+        refs: ["7:94", "7:95"]
+        with_refs: ["Amos 4:6", "Amos 4:7", "Amos 4:10", "Amos 4:11"]
+        relation: parallel
+        note: "Hardships sent so that the people turn back, which they do not. Amos: niqyôn šinnayim ... māniʿtî mikkem ʾet-hag-gešem ... with the refrain wə-lōʾ-šavtem ʿāday, ending in a Sodom-like overthrow (kə-mahpēkhat ʾĕlōhîm ʾet-Sədōm). Q: akhadhnā ahlahā bi-l-baʾsāʾi wa-l-ḍarrāʾi laʿallahum yaḍḍarraʿūna, then good times, then fa-akhadhnāhum baghtatan. Q adds the deceptive prosperity before the end."
+      - with: hb-1kgs-8-dedication-prayer
+        motif: drought-as-punishment-for-sin
+        refs: ["7:96"]
+        with_refs: ["1Kgs 8:35", "1Kgs 8:36"]
+        relation: echo
+        note: "Rain and blessing depend on turning to God. 1Kgs: bə-hēʿāṣēr šāmayim wə-lōʾ-yihyeh māṭār kî yeḥeṭʾû-lākh ... wə-nātattāh māṭār ʿal-ʾarṣəkhā. Q: wa-law anna ahla l-qurā āmanū wa-ttaqaw la-fataḥnā ʿalayhim barakātin mina l-samāʾi wa-l-arḍi."
+      - with: hb-jer-6-siege-of-zion
+        motif: sanctify-war
+        refs: ["7:97", "7:98"]
+        with_refs: ["Jer 6:4", "Jer 6:5"]
+        relation: echo
+        note: "Disaster at noon or by night. Jer: qûmû wə-naʿăleh vaṣ-ṣohŏrāyim ... qûmû wə-naʿăleh val-laylāh. Q: a-fa-amina ahlu l-qurā an yaʾtiyahum baʾsunā bayātan wa-hum nāʾimūna ... ḍuḥan wa-hum yalʿabūna. Jer's enemy plans a noon or night assault; Q's punishment comes by night or in daylight."
+  - unit: quran-7-moses-pharaoh
+    checked: [hb-ps-78-history, hb-gen-40-prisoners-dreams, hb-exod-7-staff-swallows-staffs, hb-exod-7-plagues-blood-frogs-lice, hb-ps-105-history, hb-exod-8-plagues-flies-murrain-boils, hb-exod-5-bricks-without-straw, hb-exod-4-signs-aaron-bridegroom-of-blood, hb-exod-1-oppression-midwives, hb-exod-14-crossing-of-the-sea, hb-ps-37-meek-inherit, hb-exod-10-locusts-darkness]
+    matches:
+      - with: hb-exod-5-bricks-without-straw
+        motif: let-my-people-go-demand
+        refs: ["7:104", "7:105"]
+        with_refs: ["Exod 5:1", "Exod 5:3"]
+        relation: divergence
+        note: "The sender's title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî wə-yāḥōggû lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a pretext of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ... fa-arsil maʿiya banī Isrāʾīla. 'The Lord of the worlds', with no festival or three-day journey, and 'the Children of Israel' instead of 'my people'. Pharaoh's 'who is YHWH?' (mî YHWH, 5:2) becomes in fa-ʾti bihā in kunta mina l-ṣādiqīn."
+      - with: hb-exod-7-staff-swallows-staffs
+        motif: prophets-staff-swallows-magicians-staffs
+        refs: ["7:107", "7:115", "7:116", "7:117"]
+        with_refs: ["Exod 7:9", "Exod 7:10", "Exod 7:11", "Exod 7:12"]
+        relation: divergence
+        note: "Who throws the staff, and how. Exod: Aaron throws (wa-yyašlēkh ʾAhărōn ʾet-maṭṭēhû ... wa-yhî lə-tannîn); the magicians do the same (bə-lahăṭêhem kēn); and maṭṭēh-ʾAhărōn swallows their staffs (wa-yyivlaʿ). Q: Moses throws (fa-alqā ʿaṣāhu fa-idhā hiya thuʿbānun mubīnun); the magicians offer him the first throw (immā an tulqiya); their act is siḥr that 'bewitched the people's eyes' (saḥarū aʿyuna l-nāsi), and Moses' staff talqafu mā yaʾfikūna. Aaron drops out of the act; the magic is illusion."
+      - with: hb-exod-7-plagues-blood-frogs-lice
+        motif: magicians-fail-finger-of-god
+        refs: ["7:120", "7:121", "7:122"]
+        with_refs: ["Exod 8:14", "Exod 8:15"]
+        relation: divergence
+        note: "The magicians' end. Exod: they fail at the lice and say ʾeṣbaʿ ʾĕlōhîm hiwʾ, but stay at court (they are struck by boils at 9:11), and Pharaoh's heart is hardened. Q: wa-ulqiya l-saḥaratu sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūna. They convert at the first contest, are threatened with mutilation and crucifixion (la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin thumma la-uṣallibannakum), and pray to die as muslims (wa-tawaffanā muslimīna). Grudging recognition becomes conversion and martyrdom."
+      - with: hb-exod-7-plagues-blood-frogs-lice
+        motif: king-asks-prophet-to-pray
+        refs: ["7:134", "7:135"]
+        with_refs: ["Exod 8:4", "Exod 8:11"]
+        relation: parallel
+        note: "Exod: haʿtîrû ʾel-YHWH wə-yāsēr haṣ-ṣəfardəʿîm ... wa-ʾăšalləḥāh ʾet-hā-ʿām, then wa-yyarʾ Parʿōh kî hāyətāh hā-rəwāḥāh wə-hakhbēd ʾet-libbô. Q: yā Mūsā dʿu lanā rabbaka ... la-in kashafta ʿannā l-rijza la-nuʾminanna laka wa-la-nursilanna maʿaka banī Isrāʾīla ... idhā hum yankuthūna. The vow made under a plague and broken afterwards. Q adds a promise of faith (la-nuʾminanna) and says 'they break their word', where Exod says the heart was made heavy."
+      - with: hb-exod-8-plagues-flies-murrain-boils
+        motif: hardening-of-pharaohs-heart
+        refs: ["7:132", "7:133", "7:135"]
+        with_refs: ["Exod 8:28", "Exod 9:12"]
+        relation: divergence
+        note: "Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh's people are proud and break their word (yankuthūna). God never hardens them in this unit."
+      - with: hb-ps-105-history
+        motif: variant-plague-list
+        refs: ["7:133"]
+        with_refs: ["Ps 105:29", "Ps 105:30", "Ps 105:31", "Ps 105:34"]
+        relation: divergence
+        note: "A short plague list. Q: fa-arsalnā ʿalayhimu l-ṭūfāna wa-l-jarāda wa-l-qummala wa-l-ḍafādiʿa wa-l-dama āyātin mufaṣṣalātin, five plagues. Ps 105: hāfakh ʾet-mêmêhem lə-dām ... šāraṣ ʾarṣām ṣəfardəʿîm ... ʿārōv kinnîm ... ʾarbeh. Q's last three, qummal, ḍafādiʿ, dam (lice, frogs, blood), are Exodus's first three (dām, ṣəfardəʿîm, kinnîm) in reverse order. Q adds ṭūfān, which is in no HB list, and leaves out the death of the firstborn (Ps 105:36)."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: hand-turned-leprous-white-as-snow
+        refs: ["7:108"]
+        with_refs: ["Exod 4:6", "Exod 4:30"]
+        relation: divergence
+        note: "Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, 'white for the beholders', performed before Pharaoh. Q drops the leprosy and changes the audience."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: staff-becomes-serpent
+        refs: ["7:107"]
+        with_refs: ["Exod 4:3"]
+        relation: echo
+        note: "Exod: wa-yyašlikhēhû ʾarṣāh wa-yhî lə-nāḥāš wa-yyānos Mōšeh mip-pānāyw (a private sign at the bush; Moses flees). Q: fa-alqā ʿaṣāhu fa-idhā hiya thuʿbānun mubīnun, before Pharaoh, with no flight."
+      - with: hb-exod-1-oppression-midwives
+        motif: king-kills-male-infants
+        refs: ["7:127"]
+        with_refs: ["Exod 1:16", "Exod 1:22"]
+        relation: divergence
+        note: "The same decree, with cognate ḥ-y-y for sparing the girls. Exod: ʾim-bēn hûʾ wa-hămitten ʾōtô wə-ʾim-bat hîʾ wā-ḥāyāh; kol-hab-bēn hay-yillôd hay-yəʾōrāh tašlîkhuhû wə-khol-hab-bat təḥayyûn. Q: sa-nuqattilu abnāʾahum wa-nastaḥyī nisāʾahum. The time differs: Exod puts the decree before Moses' birth, Q after his mission, as reprisal for the magicians' conversion."
+      - with: hb-exod-1-oppression-midwives
+        motif: ruler-fears-growing-foreign-population
+        refs: ["7:110", "7:123"]
+        with_refs: ["Exod 1:10"]
+        relation: divergence
+        note: "Who is feared to leave the land. Exod: pen-yirbeh ... wə-nilḥam-bānû wə-ʿālāh min-hā-ʾāreṣ, Pharaoh fears Israel will go up out of the land. Q: yurīdu an yukhrijakum min arḍikum; li-tukhrijū minhā ahlahā. The courtiers fear Moses will expel them, the Egyptians, from their own land."
+      - with: hb-exod-14-crossing-of-the-sea
+        motif: pursuers-drowned-in-sea
+        refs: ["7:136"]
+        with_refs: ["Exod 14:28"]
+        relation: parallel
+        note: "Q yamm = Heb yām. Exod: wa-yyāšuvû ham-mayim wa-ykhassû ʾet-hā-rekhev ... bay-yām lōʾ-nišʾar bāhem ʿad-ʾeḥād. Q: fa-ntaqamnā minhum fa-aghraqnāhum fī l-yammi bi-annahum kadhdhabū bi-āyātinā. Q gives a reason (they denied the signs) and calls it revenge (intiqām)."
+      - with: hb-ps-37-meek-inherit
+        motif: meek-inherit-the-land
+        refs: ["7:128", "7:137"]
+        with_refs: ["Ps 37:9", "Ps 37:11", "Ps 37:29"]
+        relation: parallel
+        note: "The cognate roots w-r-th / y-r-š. Ps: wə-qōwê YHWH hēmmāh yîrəšû-ʾāreṣ; wa-ʿănāwîm yîrəšû-ʾāreṣ; ṣaddîqîm yîrəšû-ʾāreṣ. Q: inna l-arḍa li-llāhi yūrithuhā man yashāʾu min ʿibādihi wa-l-ʿāqibatu li-l-muttaqīna; wa-awrathnā l-qawma lladhīna kānū yustaḍʿafūna mashāriqa l-arḍi wa-maghāribahā. Q tells it of Israel as the oppressed (mustaḍʿafūn ≈ ʿănāwîm) after Pharaoh's fall."
+      - with: hb-gen-40-prisoners-dreams
+        motif: lift-up-the-head-pun
+        refs: ["7:124"]
+        with_refs: ["Gen 40:19"]
+        relation: echo
+        note: "Execution by impaling, by a Pharaoh. Gen: yiśśāʾ Parʿōh ʾet-rōʾšəkhā mēʿālêkhā wə-tālāh ʾôtəkhā ʿal-ʿēṣ, Pharaoh hangs the baker on a tree. Q: thumma la-uṣallibannakum ajmaʿīna, Pharaoh threatens to crucify the magicians. The only HB Pharaoh who impales is Joseph's."
+      - with: hb-exod-10-locusts-darkness
+        motif: courtiers-urge-king-to-yield
+        refs: ["7:127"]
+        with_refs: ["Exod 10:7"]
+        relation: contrast
+        note: "The courtiers push the king in opposite directions. Exod: ʿad-mātay yihyeh zeh lānû lə-môqēš šallaḥ ʾet-hā-ʾănāšîm ... ha-ṭerem tēdaʿ kî ʾāvədāh Miṣrāyim, they urge Pharaoh to give in. Q: wa-qāla l-malaʾu min qawmi Firʿawna a-tadharu Mūsā wa-qawmahu li-yufsidū fī l-arḍi wa-yadharaka wa-ālihataka, the chiefs urge him to crack down."

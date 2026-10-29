@@ -389,7 +389,7 @@ reviewed:
         relation: parallel
         note: "wa-mā arsalnā min qablika illā rijālan nūḥī ilayhim min ahli l-qurā; nābîʾ ʾāqîm lāhem miqqereb ʾăḥêhem kāmôkā wənātattî dəbāray bəpîw: the prophet is a man raised from among his own people and given the divine word. Deut promises one prophet like Moses for Israel; Q makes it the rule for all messengers before Muhammad."
   - unit: quran-13-signs-of-creation
-    checked: [hb-prov-25-hezekiah-collection, hb-ps-104-creation-hymn, hb-job-9-job-cannot-sue-god, hb-job-38-whirlwind-creation, hb-ps-29-voice-of-yhwh, hb-job-26-hymn-to-cosmic-power]
+    checked: [hb-prov-25-hezekiah-collection, hb-ps-104-creation-hymn, hb-job-9-job-cannot-sue-god, hb-job-38-whirlwind-creation, hb-ps-29-voice-of-yhwh, hb-job-26-hymn-to-cosmic-power, hb-ezek-22-city-of-blood]
     matches:
       - with: hb-prov-25-hezekiah-collection
         motif: dross-removed-from-silver
@@ -439,6 +439,12 @@ reviewed:
         with_refs: ["Job 38:25", "Job 38:34", "Job 38:35"]
         relation: echo
         note: "hătəšallaḥ bərāqîm wəyēlēkû wəyōʾmərû ləkā hinnēnû ... derek laḥăzîz qōlôt; huwa lladhī yurīkumu l-barqa ... wa-yursilu ṣ-ṣawāʿiqa fa-yuṣību bihā man yashāʾ: God alone sends lightning and thunderbolts. Job turns it into a challenge to man; Q into a sign."
+      - with: hb-ezek-22-city-of-blood
+        motif: dross-removed-from-silver
+        refs: ["13:17"]
+        with_refs: ["Ezek 22:18", "Ezek 22:20", "Ezek 22:22"]
+        relation: echo
+        note: "bêt-yiśrāʾēl ... kullām nəḥōšet ûbədîl ûbarzel wəʿôperet bətôk kûr sigîm kesep hāyû ... lāpaḥat-ʿālāyw ʾēš ləhantîk; wa-mimmā yūqidūna ʿalayhi fī n-nāri btighāʾa ḥilyatin aw matāʿin zabadun mithluh: metals melted in the furnace throw off dross. In Ezek all Israel has become dross, to be melted in God's wrath; in Q the scum is falsehood that vanishes, while what is useful to people remains."
   - unit: quran-13-covenant-and-paradise
     checked: [hb-ps-49-no-ransom, hb-deut-30-return-choose-life, hb-jer-31-consolation-new-covenant, hb-mal-3-book-of-remembrance]
     matches:
@@ -1576,3 +1582,597 @@ reviewed:
         with_refs: ["Isa 45:5", "Isa 45:6"]
         relation: parallel
         note: "ʾănî YHWH wəʾên ʿôd zûlātî ʾên ʾĕlōhîm ... kî-ʾepes bilʿādāy; allāhu lā ilāha illā huwa lahu l-asmāʾu l-ḥusnā: there is no god beside him. Isa ties it to the single name YHWH; Q to 'the most beautiful names'."
+  - unit: quran-20-moses-call
+    checked: [hb-exod-4-signs-aaron-bridegroom-of-blood, hb-exod-3-burning-bush, hb-exod-7-staff-swallows-staffs, hb-1kgs-19-elijah-horeb, hb-ezek-3-watchman-and-muteness]
+    matches:
+      - with: hb-exod-3-burning-bush
+        motif: prophet-sees-fire-goes-to-fetch-brand
+        refs: ["20:9", "20:10", "20:11"]
+        with_refs: ["Exod 3:1", "Exod 3:2", "Exod 3:3"]
+        relation: divergence
+        note: "Setting and motive change. Exod: Moses alone with Jethro's flock at har hāʾĕlōhîm, drawn by a wonder, hassəneh bōʿēr bāʾēš wəhassəneh ʾênennû ʾukkāl ... ʾāsurâ-nnāʾ wəʾerʾeh. Q: Moses traveling with his family (qāla li-ahlihi mkuthū) sees a fire and goes for a practical need, la-ʿallī ātīkum minhā bi-qabasin aw ajidu ʿalā n-nāri hudā. Q 20 does not mention the unconsumed bush."
+      - with: hb-exod-3-burning-bush
+        motif: remove-sandals-holy-ground
+        refs: ["20:12"]
+        with_refs: ["Exod 3:5"]
+        relation: parallel
+        note: "šal-nəʿālêkā mēʿal raglêkā kî hammāqôm ʾăšer ʾattâ ʿômēd ʿālāyw ʾadmat-qōdeš hûʾ; fa-khlaʿ naʿlayka innaka bi-l-wādi l-muqaddasi Ṭuwā: same command, same reason (qōdeš / muqaddas). Q names the place Ṭuwā."
+      - with: hb-exod-3-burning-bush
+        motif: holy-valley-tuwa
+        refs: ["20:12", "20:13", "20:14"]
+        with_refs: ["Exod 3:6", "Exod 3:14", "Exod 3:15"]
+        relation: divergence
+        note: "God's self-introduction. Exod: ancestral God and the revealed name, ʾānōkî ʾĕlōhê ʾābîkā ʾĕlōhê ʾabrāhām ... ʾehyeh ʾăšer ʾehyeh ... YHWH ʾĕlōhê ʾăbōtêkem ... zeh-ššəmî ləʿōlām. Q: universal confession and worship, innī ana rabbuka ... innanī ana llāhu lā ilāha illā ana fa-ʿbudnī wa-aqimi ṣ-ṣalāta li-dhikrī. No patriarchs and no special name, and prayer is commanded. Q adds the Hour (20:15)."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: prophet-describes-staff-uses
+        refs: ["20:17", "20:18"]
+        with_refs: ["Exod 4:2"]
+        relation: divergence
+        note: "mah-zzeh bəyādekā wayyōʾmer maṭṭeh, a one-word answer; wa-mā tilka bi-yamīnika yā Mūsā, qāla hiya ʿaṣāya atawakkaʾu ʿalayhā wa-ahushshu bihā ʿalā ghanamī wa-liya fīhā maʾāribu ukhrā. Same question; Q expands Moses' answer into a shepherd's self-portrait."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: staff-becomes-serpent
+        refs: ["20:19", "20:20", "20:21"]
+        with_refs: ["Exod 4:3", "Exod 4:4"]
+        relation: parallel
+        note: "hašlîkēhû ʾarṣâ ... wayhî lənāḥāš wayyānos mōšeh mippānāyw ... šəlaḥ yādəkā weʾĕḥōz bizənābô; alqihā ... fa-idhā hiya ḥayyatun tasʿā, qāla khudhhā wa-lā takhaf sa-nuʿīduhā sīratahā l-ūlā: thrown down, it becomes a snake; he is told to take it and it turns back. Moses flees in Exod; in Q he is told 'do not fear'."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: hand-turned-leprous-white-as-snow
+        refs: ["20:22", "20:23"]
+        with_refs: ["Exod 4:1", "Exod 4:5", "Exod 4:6", "Exod 4:7"]
+        relation: divergence
+        note: "Exod: wəhinnēh yādô məṣōraʿat kaššāleg, a leprous hand, given so that the people will believe (ləmaʿan yaʾămînû). Q: takhruj bayḍāʾa min ghayri sūʾ, white 'without harm', which denies the disease, and given li-nuriyaka min āyātinā l-kubrā, a sign for Moses himself."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: prophet-slow-of-speech
+        refs: ["20:25", "20:26", "20:27", "20:28", "20:36"]
+        with_refs: ["Exod 4:10", "Exod 4:11", "Exod 4:12", "Exod 4:13"]
+        relation: divergence
+        note: "Exod: speech trouble is an objection to the call, lōʾ ʾîš dəbārîm ʾānōkî ... kî kəbad-peh ûkəbad lāšôn ʾānōkî ... šəlaḥ-nāʾ bəyad-tišlāḥ, and God rebukes him, mî śām peh lāʾādām. Q: it is a prayer, rabbi shraḥ lī ṣadrī ... wa-ḥlul ʿuqdatan min lisānī yafqahū qawlī, granted at once, qad ūtīta suʾlaka yā Mūsā."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: brother-as-vizier
+        refs: ["20:29", "20:30", "20:31", "20:32"]
+        with_refs: ["Exod 4:14", "Exod 4:15", "Exod 4:16"]
+        relation: divergence
+        note: "Who initiates, and the mood. Exod: God imposes Aaron in anger, wayyiḥar-ʾap YHWH bəmōšeh ... hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm. Q: Moses asks for him, wa-jʿal lī wazīran min ahlī Hārūna akhī ushdud bihi azrī wa-ashrikhu fī amrī, so that they may glorify God much (kay nusabbiḥaka kathīrā). No anger, and no 'as God'."
+  - unit: quran-20-moses-favors-recalled
+    checked: [hb-exod-2-moses-birth-flight-midian, hb-jer-1-call, hb-isa-49-servant-light-to-nations, hb-2chr-22-ahaziah-and-athaliah, hb-gen-21-isaac-born-hagar-expelled]
+    matches:
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: infant-set-adrift
+        refs: ["20:38", "20:39"]
+        with_refs: ["Exod 2:2", "Exod 2:3"]
+        relation: divergence
+        note: "Exod: the mother's own plan, after hiding him three months, wattiqqaḥ-lô tēbat gōmeʾ wattaḥmərâ baḥēmār ûbazzāpet ... wattāśem bassûp ʿal-śəpat hayʾōr, set carefully among the reeds. Q: God reveals it to her (idh awḥaynā ilā ummika), iqdhifīhi fī t-tābūti fa-qdhifīhi fī l-yamm fa-l-yulqihi l-yammu bi-s-sāḥil: she throws the box into the river and the river casts it ashore by God's command."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: found-by-royal-household
+        refs: ["20:39"]
+        with_refs: ["Exod 2:5", "Exod 2:6", "Exod 2:10"]
+        relation: divergence
+        note: "Exod: Pharaoh's daughter finds him, takes pity (wattaḥmōl ʿālāyw) and adopts and names him (wayhî-lāh ləbēn wattiqrāʾ šəmô mōšeh). Q: the finder is 'an enemy to me and an enemy to him' (yaʾkhudhhu ʿaduwwun lī wa-ʿaduwwun lah), and the love comes from God, wa-alqaytu ʿalayka maḥabbatan minnī. The naming and the rescuer's compassion are dropped."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: sister-offers-nurse
+        refs: ["20:40"]
+        with_refs: ["Exod 2:4", "Exod 2:7", "Exod 2:8", "Exod 2:9"]
+        relation: parallel
+        note: "wattōʾmer ʾăḥōtô ʾel-bat-parʿōh hăʾēlēk wəqārāʾtî lāk ʾiššâ mêneqet min hāʿibriyyōt ... wattiqrāʾ ʾet-ʾēm hayyāled; idh tamshī ukhtuka fa-taqūlu hal adullukum ʿalā man yakfuluh fa-rajaʿnāka ilā ummika kay taqarra ʿaynuhā wa-lā taḥzan. Q gives the motive as the mother's comfort; Exod has the wages (ʾetten ʾet-śəkārēk)."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: moses-kills-man-delivered-from-grief
+        refs: ["20:40"]
+        with_refs: ["Exod 2:12", "Exod 2:14", "Exod 2:15"]
+        relation: divergence
+        note: "wayyak ʾet-hammiṣrî wayyiṭmənēhû baḥôl ... wayyîrāʾ mōšeh ... wayyibraḥ mōšeh mippənê parʿōh wayyēšeb bəʾereṣ-midyān; wa-qatalta nafsan fa-najjaynāka mina l-ghammi wa-fatannāka futūnan fa-labithta sinīna fī ahli Madyan. The killing and the flight to Midian are the same; Q retells them as God rescuing Moses from distress and testing him. Exod makes Moses' fear and Pharaoh's hunt the reason."
+      - with: hb-jer-1-call
+        motif: called-from-the-womb
+        refs: ["20:39", "20:41"]
+        with_refs: ["Jer 1:5"]
+        relation: parallel
+        note: "bəṭerem ʾeṣṣorkā babbeṭen yədaʿtîkā ... hiqdaštîkā nābîʾ; wa-li-tuṣnaʿa ʿalā ʿaynī ... wa-ṣṭanaʿtuka li-nafsī: a prophet shaped by God for his task from the start. Jer says it before birth; Q in Moses' infancy, under God's eye."
+      - with: hb-isa-49-servant-light-to-nations
+        motif: called-from-the-womb
+        refs: ["20:41"]
+        with_refs: ["Isa 49:1", "Isa 49:5"]
+        relation: parallel
+        note: "YHWH mibbeṭen qərāʾānî ... yōṣrî mibbeṭen ləʿebed lô; wa-ṣṭanaʿtuka li-nafsī: formed for God's service from the beginning."
+      - with: hb-2chr-22-ahaziah-and-athaliah
+        motif: found-by-royal-household
+        refs: ["20:39", "20:40"]
+        with_refs: ["2Chr 22:10", "2Chr 22:11", "2Chr 22:12"]
+        relation: echo
+        note: "An infant saved from a royal massacre by a woman's ruse and hidden with his nurse: wattignōb ʾōtô mittôk bənê-hammelek hammûmātîm wattittēn ʾōtô wəʾet-mêniqtô ... wattastîrēhû; rajaʿnāka ilā ummika ... hal adullukum ʿalā man yakfuluh. Joash is hidden from the queen in God's house; Moses is raised inside the killer's own house."
+  - unit: quran-20-moses-pharaoh-magicians
+    checked: [hb-exod-7-staff-swallows-staffs, hb-exod-7-plagues-blood-frogs-lice, hb-exod-5-bricks-without-straw, hb-jer-42-43-flight-to-egypt, hb-1kgs-18-carmel]
+    matches:
+      - with: hb-exod-5-bricks-without-straw
+        motif: let-my-people-go-demand
+        refs: ["20:47"]
+        with_refs: ["Exod 5:1", "Exod 5:3"]
+        relation: divergence
+        note: "Title and purpose change. Exod: kōh-ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾet-ʿammî wəyāḥōggû lî bammidbār ... ʾĕlōhê hāʿibrîm niqrāʾ ʿālênû ... wənizbəḥâ: the God of Israel, of the Hebrews, wants a festival and sacrifice three days into the wilderness. Q: innā rasūlā rabbika, 'messengers of your Lord', Pharaoh's own Lord, and the purpose is release from oppression, fa-arsil maʿanā banī Isrāʾīla wa-lā tuʿadhdhibhum. Q adds wa-s-salāmu ʿalā mani ttabaʿa l-hudā."
+      - with: hb-exod-5-bricks-without-straw
+        motif: who-is-yhwh-defiance
+        refs: ["20:49", "20:50"]
+        with_refs: ["Exod 5:2"]
+        relation: divergence
+        note: "mî YHWH ʾăšer ʾešmaʿ bəqōlô ... lōʾ yādaʿtî ʾet-YHWH, and Moses gives no answer; fa-man rabbukumā yā Mūsā, and Moses answers with a creation creed, rabbunā lladhī aʿṭā kulla shayʾin khalqahu thumma hadā. Exod's question is about an unknown name; Q's is about a Lord, and the answer is a universal creator. Exod's sequel, the harsher labor (bricks without straw), is left out."
+      - with: hb-exod-7-staff-swallows-staffs
+        motif: prophets-staff-swallows-magicians-staffs
+        refs: ["20:66", "20:69"]
+        with_refs: ["Exod 7:10", "Exod 7:11", "Exod 7:12"]
+        relation: divergence
+        note: "Exod: Aaron's staff (wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayhî lətannîn), and the magicians really do the same, wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bəlahăṭêhem kēn ... wayyihyû lətannînim, before wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. Q: Moses' staff (alqi mā fī yamīnika talqaf mā ṣanaʿū), and the magicians' ropes and staffs only seem to move, yukhayyalu ilayhi min siḥrihim annahā tasʿā. The actor and the reality of the rival magic both change."
+      - with: hb-exod-7-staff-swallows-staffs
+        motif: hardening-of-pharaohs-heart
+        refs: ["20:56"]
+        with_refs: ["Exod 7:3", "Exod 7:13"]
+        relation: divergence
+        note: "Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā fa-kadhdhaba wa-abā, and God's hand in it is not stated."
+      - with: hb-exod-7-plagues-blood-frogs-lice
+        motif: magicians-fall-prostrate-and-believe
+        refs: ["20:70", "20:71", "20:72", "20:73"]
+        with_refs: ["Exod 8:14", "Exod 8:15"]
+        relation: divergence
+        note: "Exod: failing at the lice, the magicians concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, but nothing follows and Pharaoh stays hard. Q: defeated at the staff, they fall prostrate, āmannā bi-rabbi Hārūna wa-Mūsā, and become martyrs facing amputation and crucifixion, fa-qḍi mā anta qāḍin innamā taqḍī hādhihi l-ḥayāta d-dunyā. Exod's limited acknowledgment becomes full conversion."
+      - with: hb-1kgs-18-carmel
+        motif: contest-with-court-magicians
+        refs: ["20:58", "20:59", "20:64", "20:65", "20:70"]
+        with_refs: ["1Kgs 18:21", "1Kgs 18:24", "1Kgs 18:38", "1Kgs 18:39"]
+        relation: echo
+        note: "A public contest set before the assembled people between God's prophet and the king's religious professionals, ending with the people falling down and confessing: wayyippəlû ʿal-pənêhem wayyōʾmərû YHWH hûʾ hāʾĕlōhîm; fa-ulqiya s-saḥaratu sujjadan qālū āmannā bi-rabbi Hārūna wa-Mūsā. At Carmel the losers are killed by Elijah; in Q the converts are threatened by Pharaoh."
+  - unit: quran-20-sea-crossing-sinai
+    checked: [hb-exod-14-crossing-of-the-sea, hb-ps-78-history, hb-num-11-taberah-quail, hb-ps-105-history]
+    matches:
+      - with: hb-exod-14-crossing-of-the-sea
+        motif: walk-on-dry-ground-waters-as-walls
+        refs: ["20:77"]
+        with_refs: ["Exod 14:21", "Exod 14:22"]
+        relation: divergence
+        note: "wayyābōʾû bənê-yiśrāʾēl bətôk hayyām bayyabbāšâ; fa-ḍrib lahum ṭarīqan fī l-baḥri yabasā: a dry road through the sea, with the cognate root y-b-š / y-b-s. The means differ: Exod has Moses stretch out his hand and YHWH drive the sea back by a strong east wind all night (bərûaḥ qādîm ʿazzâ kol-hallaylâ); Q has God tell Moses to strike a road, with the night departure (asri bi-ʿibādī) and 'fear not being overtaken'."
+      - with: hb-exod-14-crossing-of-the-sea
+        motif: pursuers-drowned-in-sea
+        refs: ["20:78"]
+        with_refs: ["Exod 14:23", "Exod 14:28"]
+        relation: parallel
+        note: "wayyirdəpû miṣrayim ... wayyāšubû hammayim wayəkassû ʾet-hārekeb; fa-atbaʿahum Firʿawnu bi-junūdihi fa-ghashiyahum mina l-yammi mā ghashiyahum: the pursuing army is covered by the sea (ksh / ghšy, 'cover')."
+      - with: hb-num-11-taberah-quail
+        motif: quail-miracle
+        refs: ["20:80", "20:81"]
+        with_refs: ["Num 11:31", "Num 11:33"]
+        relation: parallel
+        note: "wayyāgoz śalwîm min-hayyām ... habbāśār ʿôdennû bên šinnêhem ... wəʾap YHWH ḥārâ bāʿām; nazzalnā ʿalaykumu l-manna wa-s-salwā kulū min ṭayyibāti mā razaqnākum wa-lā taṭghaw fīhi fa-yaḥilla ʿalaykum ghaḍabī. Quail (śəlāw / salwā, cognate) with God's anger at excess. In Num the anger strikes while the meat is still in their teeth; Q turns it into a warning given beforehand."
+      - with: hb-ps-78-history
+        motif: what-is-it-name-of-manna
+        refs: ["20:80", "20:81"]
+        with_refs: ["Ps 78:24", "Ps 78:27", "Ps 78:29", "Ps 78:30", "Ps 78:31"]
+        relation: parallel
+        note: "wayyamṭēr ʿălêhem mān leʾĕkōl ... wayyamṭēr ʿălêhem keʿāpār šəʾēr ... ʿôd ʾoklām bəpîhem wəʾap ʾĕlōhîm ʿālâ bāhem; nazzalnā ʿalaykumu l-manna wa-s-salwā ... wa-lā taṭghaw fīhi fa-yaḥilla ʿalaykum ghaḍabī: manna and fowl sent down, then God's wrath at greed. The mān / mann name is the same."
+      - with: hb-ps-105-history
+        motif: quail-miracle
+        refs: ["20:80"]
+        with_refs: ["Ps 105:40"]
+        relation: parallel
+        note: "šāʾal wayyābēʾ śəlāw wəleḥem šāmayim yaśbîʿēm; nazzalnā ʿalaykumu l-manna wa-s-salwā. Ps 105 has no anger; Q follows the Ps 78 / Num 11 version with its warning."
+  - unit: quran-20-samiri-calf
+    checked: [hb-hos-7-8-oven-and-calf, hb-exod-32-golden-calf, hb-deut-9-golden-calf-recalled, hb-1kgs-12-golden-calves, hb-exod-32-tablets-broken-levites]
+    matches:
+      - with: hb-exod-32-golden-calf
+        motif: samiri-leads-people-astray
+        refs: ["20:85", "20:87", "20:88", "20:95", "20:96"]
+        with_refs: ["Exod 32:1", "Exod 32:2", "Exod 32:4"]
+        relation: divergence
+        note: "Who makes the calf. Exod: Aaron, at the people's demand, qûm ʿăśēh-lānû ʾĕlōhîm ... pārəqû nizmê hazzāhāb ... wayyiṣar ʾōtô baḥereṭ wayyaʿăśēhû ʿēgel massēkâ. Q: al-Sāmirī, wa-aḍallahumu s-Sāmiriyy ... fa-kadhālika alqā s-Sāmiriyyu fa-akhraja lahum ʿijlan jasadan lahu khuwār. Aaron is cleared and a new agent is brought in, who gives his own motive: baṣurtu bi-mā lam yabṣurū bihi fa-qabaḍtu qabḍatan min athari r-rasūl."
+      - with: hb-exod-32-golden-calf
+        motif: aaron-opposes-calf
+        refs: ["20:90", "20:91"]
+        with_refs: ["Exod 32:5"]
+        relation: divergence
+        note: "Reversal. Exod: Aaron builds the altar before the calf and proclaims ḥag laYHWH māḥār. Q: Aaron warns them, yā qawmi innamā futintum bihi wa-inna rabbakumu r-Raḥmānu fa-ttabiʿūnī, and the people refuse, lan nabraḥa ʿalayhi ʿākifīna ḥattā yarjiʿa ilaynā Mūsā."
+      - with: hb-exod-32-golden-calf
+        motif: calf-proclaimed-as-god-of-exodus
+        refs: ["20:88"]
+        with_refs: ["Exod 32:4", "Exod 32:8"]
+        relation: divergence
+        note: "ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā mēʾereṣ miṣrāyim; hādhā ilāhukum wa-ilāhu Mūsā fa-nasiya. Exod has a plural 'gods' credited with the exodus; Q has 'your god and Moses' god, whom he forgot', making Moses' absence on the mountain into forgetfulness."
+      - with: hb-exod-32-golden-calf
+        motif: moses-hastens-ahead-of-people
+        refs: ["20:83", "20:84", "20:85"]
+        with_refs: ["Exod 32:7", "Exod 32:9", "Exod 32:10", "Exod 32:11"]
+        relation: divergence
+        note: "God tells Moses on the mountain what the people have done. Exod: lek-rēd kî šiḥēt ʿamməkā ... wəʿattâ hannîḥâ llî wəyiḥar-ʾappî bāhem waʾăkallēm, and Moses intercedes, lāmmâ YHWH yeḥĕreh ʾappəkā. Q: God asks mā aʿjalaka ʿan qawmika and says fa-innā qad fatannā qawmaka, the people tested by God himself. There is no threat to destroy them and no intercession."
+      - with: hb-exod-32-tablets-broken-levites
+        motif: calf-burned-ground-dust-in-stream
+        refs: ["20:97"]
+        with_refs: ["Exod 32:20"]
+        relation: divergence
+        note: "wayyiśrōp bāʾēš wayyiṭḥan ʿad ʾăšer-dāq wayyizer ʿal-pənê hammayim wayyašq ʾet-bənê yiśrāʾēl; la-nuḥarriqannahu thumma la-nansifannahu fī l-yammi nasfā: burned and scattered on water. In Exod the people are made to drink it; Q scatters it into the sea and leaves out the drinking."
+      - with: hb-exod-32-tablets-broken-levites
+        motif: moses-seizes-aarons-beard
+        refs: ["20:92", "20:93", "20:94"]
+        with_refs: ["Exod 32:21", "Exod 32:22", "Exod 32:24"]
+        relation: divergence
+        note: "Exod: Moses accuses Aaron, mah-ʿāśâ ləkā hāʿām hazzeh kî-hēbēʾtā ʿālāyw ḥăṭāʾâ gədōlâ, and Aaron blames the people and the fire, wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh. Q: Moses seizes him, and Aaron pleads yabnaʾumma lā taʾkhudh bi-liḥyatī wa-lā bi-raʾsī innī khashītu an taqūla farraqta bayna banī Isrāʾīl. Aaron's excuse changes from the calf 'coming out' by itself to fear of schism."
+      - with: hb-exod-32-tablets-broken-levites
+        motif: calf-maker-cursed-untouchable
+        refs: ["20:97"]
+        with_refs: ["Exod 32:26", "Exod 32:27", "Exod 32:28"]
+        relation: divergence
+        note: "Punishment. Exod: the Levites kill about three thousand, mî laYHWH ʾēlāy ... hirgû ʾîš-ʾet-ʾāḥîw. Q: no massacre; the one guilty man is sent away as an outcast, fa-dhhab fa-inna laka fī l-ḥayāti an taqūla lā misās, with a further appointment (mawʿidan lan tukhlafah)."
+      - with: hb-deut-9-golden-calf-recalled
+        motif: aaron-opposes-calf
+        refs: ["20:90", "20:92", "20:94"]
+        with_refs: ["Deut 9:20"]
+        relation: divergence
+        note: "ûbəʾahărōn hitʾannap YHWH məʾōd ləhašmîdô wāʾetpallēl gam-bəʿad ʾahărōn: Deut keeps Aaron guilty and nearly destroyed, saved by Moses' prayer. Q makes Aaron innocent and the one who warned; only Moses' anger touches him."
+      - with: hb-deut-9-golden-calf-recalled
+        motif: calf-burned-ground-dust-in-stream
+        refs: ["20:97"]
+        with_refs: ["Deut 9:21"]
+        relation: parallel
+        note: "wāʾeśrōp ʾōtô bāʾēš wāʾekkōt ʾōtô ṭāḥôn hêṭēb ʿad ʾăšer-daq ləʿāpār wāʾašlik ʾet-ʿăpārô ʾel-hannaḥal; la-nuḥarriqannahu thumma la-nansifannahu fī l-yamm: burned, pulverized and thrown into water. Deut has no drinking either."
+      - with: hb-hos-7-8-oven-and-calf
+        motif: samiri-leads-people-astray
+        refs: ["20:85", "20:88", "20:97"]
+        with_refs: ["Hos 8:5", "Hos 8:6"]
+        relation: echo
+        note: "zānaḥ ʿeglēk šōmərôn ... wəhûʾ ḥārāš ʿāśāhû wəlōʾ ʾĕlōhîm hûʾ kî-šəbābîm yihyeh ʿēgel šōmərôn; as-Sāmiriyy ... fa-akhraja lahum ʿijlan ... la-nuḥarriqannahu thumma la-nansifannahu: the calf of Samaria (šōmərôn), made by a craftsman, not a god, and smashed to bits. The name al-Sāmirī recalls šōmərôn; the identification is an inference from the name, not stated in either text."
+      - with: hb-1kgs-12-golden-calves
+        motif: calf-proclaimed-as-god-of-exodus
+        refs: ["20:88"]
+        with_refs: ["1Kgs 12:28"]
+        relation: echo
+        note: "wayyaʿaś šənê ʿeglê zāhāb ... hinnēh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā mēʾereṣ miṣrāyim; hādhā ilāhukum wa-ilāhu Mūsā: the same acclamation over the calf. Jeroboam's calves stand at Bethel and Dan in the northern kingdom whose capital becomes Samaria, which supports the Sāmirī / šōmərôn link."
+  - unit: quran-20-judgment-day
+    checked: [hb-isa-40-comfort-my-people, hb-isa-26-song-and-resurrection, hb-isa-28-covenant-with-death, hb-isa-2-mountain-and-day-of-yhwh, hb-isa-29-ariel-and-sealed-book]
+    matches:
+      - with: hb-isa-40-comfort-my-people
+        motif: valleys-raised-mountains-leveled
+        refs: ["20:105", "20:106", "20:107", "20:108"]
+        with_refs: ["Isa 40:3", "Isa 40:4", "Isa 40:5"]
+        relation: divergence
+        note: "kol-gêʾ yinnāśēʾ wəkol-har wəgibʿâ yišpālû wəhāyâ heʿāqōb ləmîšôr; yansifuhā rabbī nasfā fa-yadharuhā qāʿan ṣafṣafā lā tarā fīhā ʿiwajan wa-lā amtā ... yattabiʿūna d-dāʿiya lā ʿiwaja lah. Mountains leveled, nothing crooked left, and a voice calls (qôl qôrēʾ / ad-dāʿī). In Isa the leveling makes a highway for God's return to comfort Jerusalem; in Q it is the end of the world, with all following the summoner to judgment."
+      - with: hb-isa-2-mountain-and-day-of-yhwh
+        motif: voices-hushed-to-whisper-at-judgment
+        refs: ["20:108", "20:111"]
+        with_refs: ["Isa 2:11"]
+        relation: echo
+        note: "ʿênê gabhût ʾādām šāpēl wəšaḥ rûm ʾănāšîm wəniśgab YHWH ləbaddô bayyôm hahûʾ; wa-khashaʿati l-aṣwātu li-r-Raḥmān ... wa-ʿanati l-wujūhu li-l-ḥayyi l-qayyūm: on that day human pride is brought low before God alone (šaḥ, 'bowed', against khashaʿat and ʿanat)."
+      - with: hb-isa-29-ariel-and-sealed-book
+        motif: voices-hushed-to-whisper-at-judgment
+        refs: ["20:108"]
+        with_refs: ["Isa 29:4"]
+        relation: echo
+        note: "ûmēʿāpār tiššaḥ ʾimrātēk wəhāyâ kəʾôb mēʾereṣ qôlēk ûmēʿāpār ʾimrātēk təṣapṣēp; fa-lā tasmaʿu illā hamsā, and yatakhāfatūna baynahum (20:103): under God's judgment speech sinks to a faint murmur. Isa's humbled Ariel speaks like a ghost from the dust; Q's crowd whispers before the Merciful."
+  - unit: quran-20-adam-iblis
+    checked: [hb-gen-3-fall-expulsion, hb-gen-2-eden-adam-woman, hb-prov-15-sayings, hb-ps-78-history]
+    matches:
+      - with: hb-gen-2-eden-adam-woman
+        motif: adam-forgot-covenant
+        refs: ["20:115"]
+        with_refs: ["Gen 2:16", "Gen 2:17"]
+        relation: divergence
+        note: "wayṣaw YHWH ʾĕlōhîm ʿal-hāʾādām ... ûmēʿēṣ haddaʿat ṭôb wārāʿ lōʾ tōʾkal mimmennû kî bəyôm ʾăkolkā mimmennû môt tāmût; wa-la-qad ʿahidnā ilā Ādama min qablu fa-nasiya wa-lam najid lahu ʿazmā. Gen gives a command with a death sanction; Q gives a covenant that Adam forgets. Q frames the fault as forgetting and lack of resolve, and has no death threat."
+      - with: hb-gen-2-eden-adam-woman
+        motif: garden-without-hunger-thirst-nakedness-heat
+        refs: ["20:118", "20:119"]
+        with_refs: ["Gen 2:25"]
+        relation: divergence
+        note: "Reversal. Gen: in the garden they are naked and unashamed, wayyihyû šənêhem ʿărûmmîm ... wəlōʾ yitbōšāšû. Q: in the garden Adam is promised he will not be naked, inna laka allā tajūʿa fīhā wa-lā taʿrā. Nakedness is innocence in Gen and a deprivation the garden protects from in Q."
+      - with: hb-gen-3-fall-expulsion
+        motif: serpent-tempter
+        refs: ["20:116", "20:117", "20:120"]
+        with_refs: ["Gen 3:1", "Gen 3:4"]
+        relation: divergence
+        note: "Who tempts whom. Gen: wəhannāḥāš hāyâ ʿārûm ... wayyōʾmer ʾel-hāʾiššâ, a clever beast addressing the woman. Q: fa-waswasa ilayhi sh-shayṭānu qāla yā Ādamu, Satan, already marked as enemy after refusing to bow (inna hādhā ʿaduwwun laka wa-li-zawjik), addressing Adam. The serpent and the woman as first addressee drop out."
+      - with: hb-gen-3-fall-expulsion
+        motif: tree-of-immortality-and-unending-kingdom
+        refs: ["20:120"]
+        with_refs: ["Gen 3:5", "Gen 3:22"]
+        relation: divergence
+        note: "What the tree offers. Gen: knowledge, wihyîtem kēʾlōhîm yōdəʿê ṭôb wārāʿ; immortality belongs to a second tree that God guards, pen-yišlaḥ yādô wəlāqaḥ gam mēʿēṣ haḥayyîm wəʾākal wāḥay ləʿōlām. Q: the tempter names the forbidden tree itself shajarati l-khuldi wa-mulkin lā yablā. Gen's two trees merge into one, and the lure becomes eternal life and kingship, not godlike knowledge."
+      - with: hb-gen-3-fall-expulsion
+        motif: eyes-opened-nakedness-known
+        refs: ["20:121"]
+        with_refs: ["Gen 3:6", "Gen 3:7"]
+        relation: divergence
+        note: "wattōʾkal wattittēn gam-ləʾîšāh ... wayyōʾkal wattippāqaḥnâ ʿênê šənêhem wayyēdəʿû kî ʿêrummim hēm wayyitpərû ʿălēh təʾēnâ; fa-akalā minhā fa-badat lahumā sawʾātuhumā wa-ṭafiqā yakhṣifāni ʿalayhimā min waraqi l-janna. Same sequence: eating, exposed nakedness, sewing leaves. Changes: in Gen the woman eats first and hands it on, while Q has both eat and puts the blame on Adam (wa-ʿaṣā Ādamu rabbahu fa-ghawā); fig leaves become just 'leaves of the garden'."
+      - with: hb-gen-3-fall-expulsion
+        motif: adam-receives-words-of-repentance
+        refs: ["20:122"]
+        with_refs: ["Gen 3:14", "Gen 3:17", "Gen 3:19"]
+        relation: divergence
+        note: "Gen goes from the eating straight to curses, ʾărûrâ hāʾădāmâ baʿăbûrekā ... kî-ʿāpār ʾattâ wəʾel-ʿāpār tāšûb, with no repentance and no forgiveness. Q puts election and forgiveness before the descent, thumma jtabāhu rabbuhu fa-tāba ʿalayhi wa-hadā. Adam's sin is forgiven, not cursed, and no death sentence follows."
+      - with: hb-gen-3-fall-expulsion
+        motif: enmity-serpent-and-woman-seed
+        refs: ["20:123"]
+        with_refs: ["Gen 3:15", "Gen 3:23", "Gen 3:24"]
+        relation: divergence
+        note: "wəʾêbâ ʾāšît bênkā ûbên hāʾiššâ ûbên zarʿăkā ûbên zarʿāh ... wayəšalləḥēhû ... waygāreš ʾet-hāʾādām; qāla hbiṭā minhā jamīʿan baʿḍukum li-baʿḍin ʿaduww. Enmity and expulsion. Gen's enmity is between serpent and woman and their seed, and the way back is barred by cherubim. Q's enmity is among those sent down, and Q adds a promise of guidance, fa-immā yaʾtiyannakum minnī hudan fa-mani ttabaʿa hudāya fa-lā yaḍillu wa-lā yashqā."
+  - unit: quran-20-closing-exhortation
+    checked: [hb-ps-113-raises-the-poor, hb-ps-44-national-lament, hb-exod-20-decalogue, hb-ps-17-apple-of-eye, hb-prov-24-words-of-wise]
+    matches:
+      - with: hb-ps-113-raises-the-poor
+        motif: praised-from-sunrise-to-sunset
+        refs: ["20:130"]
+        with_refs: ["Ps 113:3"]
+        relation: divergence
+        note: "mimmizraḥ-šemeš ʿad-məbôʾô məhullāl šēm YHWH; wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi sh-shamsi wa-qabla ghurūbihā: praise tied to sunrise and sunset. In Ps the span is space (from east to west, everywhere); in Q it is time (before rising, before setting, at night), the fixed times of glorification."
+      - with: hb-exod-20-decalogue
+        motif: do-not-envy-worldly-splendor
+        refs: ["20:131"]
+        with_refs: ["Exod 20:17"]
+        relation: echo
+        note: "lōʾ taḥmōd bêt rēʿekā lōʾ-taḥmōd ʾēšet rēʿekā ... wəkōl ʾăšer ləreʿekā; wa-lā tamuddanna ʿaynayka ilā mā mattaʿnā bihi azwājan minhum zahrata l-ḥayāti d-dunyā: do not covet what others have. Exod forbids desiring a neighbor's goods; Q forbids looking with longing at the unbelievers' worldly splendor, which is given them only as a test (li-naftinahum fīh)."
+      - with: hb-prov-24-words-of-wise
+        motif: do-not-envy-worldly-splendor
+        refs: ["20:131"]
+        with_refs: ["Prov 24:1"]
+        relation: parallel
+        note: "ʾal-təqannēʾ bəʾanšê rāʿâ wəʾal-titʾāw lihyôt ʾittām; wa-lā tamuddanna ʿaynayka ilā mā mattaʿnā bihi azwājan minhum ... wa-rizqu rabbika khayrun wa-abqā: do not envy the wicked their prosperity."
+  - unit: quran-21-heedless-and-doomed-towns
+    checked: [hb-ezek-33-watchman-and-fall-news, hb-ezek-14-idols-in-heart-noah-daniel-job, hb-isa-29-ariel-and-sealed-book]
+    matches:
+      - with: hb-ezek-33-watchman-and-fall-news
+        motif: prophet-dismissed-as-poet-dreamer-forger
+        refs: ["21:2", "21:3", "21:5"]
+        with_refs: ["Ezek 33:31", "Ezek 33:32", "Ezek 33:33"]
+        relation: echo
+        note: "wəhinnəkā lāhem kəšîr ʿăgābîm yəpēh qôl ûmēṭib naggēn wəšāməʿû ʾet-dəbārêkā wəʿōśîm ʾênām ʾôtām; mā yaʾtīhim min dhikrin ... illā stamaʿūhu wa-hum yalʿabūna lāhiyatan qulūbuhum ... bal huwa shāʿir: the audience hears the prophet as entertainment, a singer or poet, and does not act. Ezek ends with ûbəbōʾāh ... wəyādəʿû kî nābîʾ hāyâ bətôkām; Q with the towns cut down (ḥaṣīdan khāmidīn)."
+      - with: hb-isa-29-ariel-and-sealed-book
+        motif: reckoning-near-people-heedless
+        refs: ["21:1", "21:2", "21:3"]
+        with_refs: ["Isa 29:13"]
+        relation: echo
+        note: "bəpîw ûbiśpātāyw kibbədûnî wəlibbô riḥaq mimmennî; istamaʿūhu wa-hum yalʿabūna lāhiyatan qulūbuhum: outward hearing with an absent heart."
+  - unit: quran-21-against-other-gods
+    checked: [hb-neh-9-levites-confession, hb-gen-6-sons-of-god, hb-job-9-job-cannot-sue-god, hb-deut-4-exhortation, hb-isa-45-cyrus-the-anointed]
+    matches:
+      - with: hb-gen-6-sons-of-god
+        motif: angels-honored-servants-not-children
+        refs: ["21:26", "21:27"]
+        with_refs: ["Gen 6:2", "Gen 6:4"]
+        relation: response
+        note: "Gen speaks of divine 'sons' who take human wives and father heroes, wayyirʾû bənê-hāʾĕlōhîm ʾet-bənôt hāʾādām ... wayyiqḥû lāhem nāšîm ... wəyālədû lāhem. Q rejects the very notion of offspring, wa-qālū ttakhadha r-Raḥmānu waladan subḥānahu bal ʿibādun mukramūn lā yasbiqūnahu bi-l-qawli wa-hum bi-amrihi yaʿmalūn. The heavenly beings are servants who act only on his command; they do not wed or beget."
+      - with: hb-neh-9-levites-confession
+        motif: host-of-heaven-bows-to-god
+        refs: ["21:19", "21:20"]
+        with_refs: ["Neh 9:6"]
+        relation: parallel
+        note: "ʾattâ-hûʾ YHWH ləbaddekā ... ûṣəbāʾ haššāmayim ləkā mištaḥăwîm; wa-lahu man fī s-samāwāti wa-l-arḍi wa-man ʿindahu lā yastakbirūna ʿan ʿibādatih ... yusabbiḥūna l-layla wa-n-nahāra lā yafturūn: the host of heaven worships the one God. Q adds that they never tire."
+      - with: hb-job-9-job-cannot-sue-god
+        motif: god-not-questioned
+        refs: ["21:23"]
+        with_refs: ["Job 9:12"]
+        relation: parallel
+        note: "mî-yōʾmar ʾēlāyw mah-ttaʿăśeh; lā yusʾalu ʿammā yafʿalu wa-hum yusʾalūn: no one can ask God 'what are you doing?'. Job says it as a complaint against an unanswerable power; Q as praise, adding that creatures will be questioned."
+      - with: hb-isa-45-cyrus-the-anointed
+        motif: god-not-questioned
+        refs: ["21:23"]
+        with_refs: ["Isa 45:9"]
+        relation: parallel
+        note: "hăyōʾmar ḥōmer ləyōṣrô mah-ttaʿăśeh; lā yusʾalu ʿammā yafʿal: the creature may not question its maker. Isa uses the image of potter and clay."
+      - with: hb-isa-45-cyrus-the-anointed
+        motif: creation-not-in-play
+        refs: ["21:16", "21:17"]
+        with_refs: ["Isa 45:18"]
+        relation: parallel
+        note: "lōʾ-tōhû bərāʾāh lāšebet yəṣārāh; wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā lāʿibīn: God did not create the world for nothing. Isa: not as tōhû, but to be lived in; Q: not as play (laʿib) or pastime (lahw), but with truth."
+  - unit: quran-21-cosmic-signs-and-scales
+    checked: [hb-gen-1-creation-six-days, hb-ps-74-leviathan, hb-ps-104-creation-hymn, hb-isa-40-comfort-my-people, hb-job-38-whirlwind-creation, hb-ps-19-heavens-and-torah, hb-job-31-oath-of-innocence, hb-ps-89-ethan-davidic-covenant]
+    matches:
+      - with: hb-gen-1-creation-six-days
+        motif: heaven-earth-joined-then-parted
+        refs: ["21:30"]
+        with_refs: ["Gen 1:6", "Gen 1:7"]
+        relation: divergence
+        note: "Creation by splitting a unity. Gen: the rāqîaʿ divides waters from waters, wîhî mabdîl bên mayim lāmāyim. Q: heaven and earth themselves were one closed mass, kānatā ratqan fa-fataqnāhumā. What is divided differs: the waters in Gen, heaven from earth in Q."
+      - with: hb-gen-1-creation-six-days
+        motif: every-living-thing-from-water
+        refs: ["21:30"]
+        with_refs: ["Gen 1:20", "Gen 1:21"]
+        relation: divergence
+        note: "yišrəṣû hammayim šereṣ nepeš ḥayyâ ... wəʾēt kol-nepeš haḥayyâ hārōmeśet ʾăšer šārəṣû hammayim; wa-jaʿalnā mina l-māʾi kulla shayʾin ḥayy: life comes from water (nepeš ḥayyâ / shayʾin ḥayy). In Gen the waters bring forth only sea creatures and birds, and land animals come from the earth (1:24); Q says every living thing."
+      - with: hb-ps-19-heavens-and-torah
+        motif: celestial-bodies-swim-in-orbit
+        refs: ["21:33"]
+        with_refs: ["Ps 19:5", "Ps 19:6", "Ps 19:7"]
+        relation: parallel
+        note: "laššemeš śām-ʾōhel bāhem ... yāśîś kəgibbôr lārûṣ ʾōraḥ miqṣēh haššāmayim môṣāʾô ûtəqûpātô ʿal-qəṣôtām; kullun fī falakin yasbaḥūn: the sun runs a fixed circuit (təqûpâ / falak). Ps gives the sun alone, a tent and a joyful runner; Q makes sun and moon 'swim' each in its orbit."
+      - with: hb-ps-104-creation-hymn
+        motif: mountains-stabilize-earth
+        refs: ["21:31"]
+        with_refs: ["Ps 104:5"]
+        relation: echo
+        note: "yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ; wa-jaʿalnā fī l-arḍi rawāsiya an tamīda bihim: the earth made immovable."
+      - with: hb-isa-40-comfort-my-people
+        motif: sky-a-guarded-roof
+        refs: ["21:32"]
+        with_refs: ["Isa 40:22"]
+        relation: echo
+        note: "hannôṭeh kaddōq šāmayim wayyimtāḥēm kāʾōhel lāšābet; wa-jaʿalnā s-samāʾa saqfan maḥfūẓā: the sky as a covering stretched over the inhabited earth, a tent in Isa and a guarded roof in Q."
+      - with: hb-job-31-oath-of-innocence
+        motif: weighed-in-just-balances
+        refs: ["21:47"]
+        with_refs: ["Job 31:6"]
+        relation: divergence
+        note: "yišqəlēnî bəmōʾzənê-ṣedeq wəyēdaʿ ʾĕlôah tummātî; wa-naḍaʿu l-mawāzīna l-qisṭa li-yawmi l-qiyāma ... wa-in kāna mithqāla ḥabbatin min khardalin ataynā bihā: just scales (mōʾzənê / mawāzīn, cognate). Job asks to be weighed now, to prove his innocence; Q sets the scales for every soul at the resurrection, down to a mustard seed."
+      - with: hb-ps-89-ethan-davidic-covenant
+        motif: every-soul-tastes-death
+        refs: ["21:34", "21:35"]
+        with_refs: ["Ps 89:49"]
+        relation: parallel
+        note: "mî geber yiḥyeh wəlōʾ yirʾeh-māwet yəmallēṭ napšô miyyad-šəʾôl; wa-mā jaʿalnā li-basharin min qablika l-khuld ... kullu nafsin dhāʾiqatu l-mawt: no human escapes death ('see' death / 'taste' death)."
+  - unit: quran-21-abraham-idols-fire
+    checked: [hb-judg-6-jerubbaal-fleece, hb-dan-3-golden-image-furnace, hb-josh-24-shechem-covenant, hb-exod-32-tablets-broken-levites, hb-gen-12-call-of-abram]
+    matches:
+      - with: hb-judg-6-jerubbaal-fleece
+        motif: hero-smashes-idols
+        refs: ["21:57", "21:58", "21:59", "21:60"]
+        with_refs: ["Judg 6:25", "Judg 6:27", "Judg 6:28", "Judg 6:29"]
+        relation: parallel
+        note: "Same sequence: the young man destroys his father's people's cult objects unseen (wayyaʿaś lāylâ / baʿda an tuwallū mudbirīn), and the townsmen ask who did it, mî ʿāśâ haddābār hazzeh ... gidʿôn ben-yôʾāš ʿāśâ / man faʿala hādhā bi-ālihatinā ... samiʿnā fatan yadhkuruhum yuqālu lahu Ibrāhīm. Gideon acts on God's command (wayyōʾmer lô YHWH); Abraham on his own oath (ta-llāhi la-akīdanna aṣnāmakum)."
+      - with: hb-judg-6-jerubbaal-fleece
+        motif: largest-idol-blamed
+        refs: ["21:63", "21:64", "21:65"]
+        with_refs: ["Judg 6:31", "Judg 6:32"]
+        relation: parallel
+        note: "The same argument from the idol's helplessness: ʾim-ʾĕlōhîm hûʾ yāreb lô kî nātaṣ ʾet-mizbəḥô, 'if he is a god let him contend for himself'; bal faʿalahu kabīruhum hādhā fa-sʾalūhum in kānū yanṭiqūn, 'ask them, if they can speak'. In Judg the idolatrous father Joash says it to protect his son; in Q Abraham says it to shame the people, and they are turned on their heads (nukisū ʿalā ruʾūsihim)."
+      - with: hb-dan-3-golden-image-furnace
+        motif: fire-made-harmless
+        refs: ["21:68", "21:69", "21:70"]
+        with_refs: ["Dan 3:20", "Dan 3:21", "Dan 3:25", "Dan 3:27", "Dan 3:28"]
+        relation: divergence
+        note: "Cast into fire for refusing idols, and unharmed: ləmirmēʾ ləʾattûn nûrāʾ yāqidtāʾ ... lāʾ šəlēṭ nûrāʾ bəgešməhôn ûśəʿar rēʾšəhôn lāʾ hitḥārak; qālū ḥarriqūhu ... qulnā yā nāru kūnī bardan wa-salāman ʿalā Ibrāhīm. Changes: the king orders it in Dan, the people in Q (qālū ḥarriqūhu). Dan's rescuer is an angel seen in the fire (dāmēh ləbar-ʾĕlāhîn ... šəlaḥ malʾăkēh); in Q God speaks directly to the fire."
+      - with: hb-dan-3-golden-image-furnace
+        motif: father-serves-idols
+        refs: ["21:52", "21:53"]
+        with_refs: ["Dan 3:18"]
+        relation: divergence
+        note: "ûləṣelem dahăbāʾ dî hăqêmtā lāʾ nisgud; mā hādhihi t-tamāthīlu llatī antum lahā ʿākifūn: refusing to worship images (ṣelem / timthāl). Dan's three refuse quietly before a king; Abraham mocks and destroys the images of his own father and people."
+      - with: hb-josh-24-shechem-covenant
+        motif: grandson-as-extra-gift
+        refs: ["21:52", "21:53", "21:72"]
+        with_refs: ["Josh 24:2", "Josh 24:3", "Josh 24:4"]
+        relation: divergence
+        note: "teraḥ ʾăbî ʾabrāhām ... wayyaʿabdû ʾĕlōhîm ʾăḥērîm ... wāʾetten-lô ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb; qāla li-abīhi wa-qawmihi ... wajadnā ābāʾanā lahā ʿābidīn ... wa-wahabnā lahu Isḥāqa wa-Yaʿqūba nāfilatan. The idolatrous fathers and the gift of descendants are the same. Josh gives Jacob to Isaac; Q gives Jacob to Abraham as an 'extra gift' (nāfila)."
+      - with: hb-gen-12-call-of-abram
+        motif: abraham-and-lot-saved-to-blessed-land
+        refs: ["21:71"]
+        with_refs: ["Gen 12:3", "Gen 12:4", "Gen 12:5"]
+        relation: divergence
+        note: "wəniḇrəkû bəkā kōl mišpəḥōt hāʾădāmâ ... wayyēlek ʾittô lôṭ ... wayyābōʾû ʾarṣâ kənāʿan; wa-najjaynāhu wa-Lūṭan ilā l-arḍi llatī bāraknā fīhā li-l-ʿālamīn: Abraham and Lot go to a land of blessing for all peoples. In Gen the blessing is on Abraham and the move is obedience to a call; in Q the blessing is on the land and the move is a rescue (najjaynāhu) after the fire."
+  - unit: quran-21-noah-david-solomon
+    checked: [hb-ps-148-all-creation-praises, hb-gen-6-flood, hb-gen-19-sodom-destroyed, hb-exod-22-property-laws, hb-isa-1-indictment-of-judah, hb-ps-78-history, hb-1kgs-3-judgment-of-solomon, hb-1sam-17-david-goliath]
+    matches:
+      - with: hb-gen-6-flood
+        motif: hero-prays-for-judgment
+        refs: ["21:76", "21:77"]
+        with_refs: ["Gen 6:9", "Gen 6:18", "Gen 7:1", "Gen 7:23"]
+        relation: divergence
+        note: "Gen: Noah never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are 'a people who denied our signs'."
+      - with: hb-exod-22-property-laws
+        motif: grazing-and-fire-damage-liability
+        refs: ["21:78"]
+        with_refs: ["Exod 22:4"]
+        relation: parallel
+        note: "kî yabʿer-ʾîš śādeh ʾô-kerem wəšillaḥ ʾet-bəʿîrô ûbiʿēr biśdēh ʾaḥēr mêṭab śādēhû ... yəšallēm; idh yaḥkumāni fī l-ḥarthi idh nafashat fīhi ghanamu l-qawm: a flock straying into another's field and the owner's liability. Exod states a general law of compensation; Q tells it as a case judged by David and Solomon."
+      - with: hb-1kgs-3-judgment-of-solomon
+        motif: divine-wisdom-for-judgment
+        refs: ["21:78", "21:79"]
+        with_refs: ["1Kgs 3:28"]
+        relation: divergence
+        note: "kî rāʾû kî-ḥokmat ʾĕlōhîm bəqirbô laʿăśôt mišpāṭ; fa-fahhamnāhā Sulaymāna wa-kullan ātaynā ḥukman wa-ʿilmā: Solomon's judicial wisdom is from God. The case differs (two harlots and a child in 1Kgs, a flock in a field in Q), and Q sets Solomon's insight beside his father David's, both given ḥukm."
+      - with: hb-ps-148-all-creation-praises
+        motif: mountains-and-birds-praise-with-david
+        refs: ["21:79"]
+        with_refs: ["Ps 148:9", "Ps 148:10"]
+        relation: divergence
+        note: "hehārîm wəkol-gəbāʿôt ... wəṣippôr kānāp, called on to praise YHWH; wa-sakhkharnā maʿa Dāwūda l-jibāla yusabbiḥna wa-ṭ-ṭayr: mountains and birds praise. In Ps all creation is summoned; in Q they are made to join one man, David, in his praise (cf. David as psalmist)."
+      - with: hb-1sam-17-david-goliath
+        motif: david-taught-to-make-mail
+        refs: ["21:80"]
+        with_refs: ["1Sam 17:38", "1Sam 17:39"]
+        relation: contrast
+        note: "1Sam: David cannot wear armor, wayyalbēš ʾōtô širyôn ... lōʾ ʾûkal lāleket bāʾēlleh kî lōʾ nissîtî wayəsirēm. Q: God teaches David to make armor, wa-ʿallamnāhu ṣanʿata labūsin lakum li-tuḥṣinakum min baʾsikum. The shepherd who shed armor becomes the armorer."
+  - unit: quran-21-prophets-answered
+    checked: [hb-jonah-2-in-the-fish, hb-gen-25-jacob-esau-birth, hb-jonah-1-flight-and-storm, hb-job-42-epilogue, hb-ezek-3-watchman-and-muteness, hb-jer-15-confession-words-eaten, hb-jonah-4-qiqayon]
+    matches:
+      - with: hb-job-42-epilogue
+        motif: fortunes-restored-twofold
+        refs: ["21:83", "21:84"]
+        with_refs: ["Job 42:10"]
+        relation: divergence
+        note: "wayhwh šāb ʾet-šəbût ʾiyyôb bəhitpalləlô bəʿad rēʿēhû wayyōsep YHWH ʾet-kol-ʾăšer ləʾiyyôb ləmišneh; fa-stajabnā lahu fa-kashafnā mā bihi min ḍurrin wa-ātaynāhu ahlahu wa-mithlahum maʿahum: restoration double. The occasion changes: in Job it follows his intercession for his friends; in Q it answers Job's own short, patient plea, annī massaniya ḍ-ḍurru wa-anta arḥamu r-rāḥimīn, with none of the HB Job's protest."
+      - with: hb-jonah-1-flight-and-storm
+        motif: prophet-flees-from-gods-commission
+        refs: ["21:87"]
+        with_refs: ["Jonah 1:3"]
+        relation: parallel
+        note: "wayyāqom yônâ librōaḥ taršîšâ millipnê YHWH; wa-dha n-nūni idh dhahaba mughāḍiban fa-ẓanna an lan naqdira ʿalayh: the prophet runs from God, thinking he can escape God's reach."
+      - with: hb-jonah-4-qiqayon
+        motif: prophet-flees-from-gods-commission
+        refs: ["21:87"]
+        with_refs: ["Jonah 4:1", "Jonah 4:2"]
+        relation: divergence
+        note: "Jonah's anger comes after Nineveh is spared, and he explains his flight from it: wayyiḥar lô ... ʿal-kēn qiddamtî librōaḥ taršîšâ kî yādaʿtî kî ʾattâ ʾēl-ḥannûn wəraḥûm. Q joins anger and flight at the start, dhahaba mughāḍiban, without the reason that God is too merciful."
+      - with: hb-jonah-2-in-the-fish
+        motif: jonah-cries-from-darknesses
+        refs: ["21:87", "21:88"]
+        with_refs: ["Jonah 2:2", "Jonah 2:3", "Jonah 2:4", "Jonah 2:10", "Jonah 2:11"]
+        relation: divergence
+        note: "Same setting and answer: wayyitpallēl yônâ ... mimməʿê haddāgâ ... qārāʾtî miṣṣārâ lî ʾel-YHWH wayyaʿănēnî ... wayyāqēʾ ʾet-yônâ; fa-nādā fī ẓ-ẓulumāti ... fa-stajabnā lahu wa-najjaynāhu mina l-ghamm. The prayer itself changes: Jonah's psalm is a thanksgiving with a vow (ʾăšer nādartî ʾăšallēmâ) and no confession; Q's is a confession of God's oneness and his own guilt, lā ilāha illā anta subḥānaka innī kuntu mina ẓ-ẓālimīn."
+      - with: hb-gen-25-jacob-esau-birth
+        motif: husband-prays-for-barren-wife
+        refs: ["21:89", "21:90"]
+        with_refs: ["Gen 25:21"]
+        relation: parallel
+        note: "wayyeʿtar yiṣḥāq laYHWH lənōkaḥ ʾištô ... wayyēʿāter lô YHWH wattahar; idh nādā rabbahu rabbi lā tadharnī fardan ... fa-stajabnā lahu wa-wahabnā lahu Yaḥyā wa-aṣlaḥnā lahu zawjah: the husband's prayer answered and the barren wife made able to conceive."
+  - unit: quran-21-end-and-inheritance
+    checked: [hb-ps-37-meek-inherit, hb-ps-25-acrostic-prayer, hb-isa-34-edom-and-lilith, hb-ezek-38-gog-invasion, hb-isa-13-oracle-against-babylon, hb-ps-78-history]
+    matches:
+      - with: hb-ps-37-meek-inherit
+        motif: meek-inherit-the-land
+        refs: ["21:105"]
+        with_refs: ["Ps 37:29", "Ps 37:9", "Ps 37:11"]
+        relation: parallel
+        note: "Explicit citation with source named: wa-la-qad katabnā fī z-Zabūri min baʿdi dh-dhikri anna l-arḍa yarithuhā ʿibādiya ṣ-ṣāliḥūn; ṣaddîqîm yîrəšû-ʾāreṣ wəyiškənû lāʿad ʿālêhā. The words match closely: ʾereṣ / al-arḍ, yîrəšû / yarithu (cognate y-r-š / w-r-th), ṣaddîqîm / ʿibādiya ṣ-ṣāliḥūn. One of the few places where the Quran quotes a Psalm and names the Zabūr as its source. Q makes 'the land' read as 'the earth' in an eschatological frame (after the rolled-up heaven, 21:104)."
+      - with: hb-ps-25-acrostic-prayer
+        motif: meek-inherit-the-land
+        refs: ["21:105"]
+        with_refs: ["Ps 25:13"]
+        relation: parallel
+        note: "wəzarʿô yîraš ʾāreṣ; anna l-arḍa yarithuhā ʿibādiya ṣ-ṣāliḥūn: the God-fearer's offspring inherit the land."
+      - with: hb-isa-34-edom-and-lilith
+        motif: heavens-rolled-up-like-scroll
+        refs: ["21:104"]
+        with_refs: ["Isa 34:4"]
+        relation: parallel
+        note: "wənāgōllû kassēper haššāmāyim wəkol-ṣəbāʾām yibbôl; yawma naṭwī s-samāʾa ka-ṭayyi s-sijilli li-l-kutub: the sky rolled up like a written scroll (sēper / sijill li-l-kutub). Isa's image is part of a judgment on Edom and the nations; Q's is the prelude to recreation, ka-mā badaʾnā awwala khalqin nuʿīduh."
+      - with: hb-ezek-38-gog-invasion
+        motif: gog-magog-released-at-end
+        refs: ["21:96", "21:97"]
+        with_refs: ["Ezek 38:15", "Ezek 38:16"]
+        relation: divergence
+        note: "ûbāʾtā mimməqôməkā miyyarkətê ṣāpôn ... kəʿānān ləkassôt hāʾāreṣ bəʾaḥărît hayyāmîm; ḥattā idhā futiḥat Yaʾjūju wa-Maʾjūju wa-hum min kulli ḥadabin yansilūn wa-qtaraba l-waʿdu l-ḥaqq: Gog's hordes pour in at the end. Ezek's Gog is one prince from the far north, aimed at Israel; Q's Yaʾjūj and Maʾjūj are a pair, 'opened' from a barrier and pouring down from every height, as a sign that the promise (the Hour) is near."
+  - unit: quran-22-quake-and-resurrection-proofs
+    checked: [hb-job-10-why-did-you-make-me, hb-ps-139-searched-and-known, hb-job-33-elihu-dreams-and-angel, hb-isa-65-new-heavens-new-earth, hb-ps-90-moses-thousand-years, hb-isa-24-world-judgment, hb-ezek-38-gog-invasion, hb-isa-13-oracle-against-babylon, hb-isa-26-song-and-resurrection]
+    matches:
+      - with: hb-job-10-why-did-you-make-me
+        motif: embryo-curdled-like-cheese
+        refs: ["22:5"]
+        with_refs: ["Job 10:9", "Job 10:10", "Job 10:11"]
+        relation: parallel
+        note: "kî-kaḥōmer ʿăśîtānî ... hălōʾ keḥālāb tattîkēnî wəkaggəbinnâ taqpîʾēnî ʿôr ûbāśār talbîšēnî ûbaʿăṣāmôt wəgîdîm təsōkəkēnî; khalaqnākum min turābin thumma min nuṭfatin thumma min ʿalaqatin thumma min muḍghatin mukhallaqatin wa-ghayri mukhallaqa: man formed from earth, then curdled and clothed in stages in the womb. Job speaks of himself in a complaint (why destroy what you made?); Q uses the stages as proof of resurrection (in kuntum fī raybin mina l-baʿth)."
+      - with: hb-ps-139-searched-and-known
+        motif: embryo-stages-dust-drop-clot-lump
+        refs: ["22:5"]
+        with_refs: ["Ps 139:13", "Ps 139:15", "Ps 139:16"]
+        relation: parallel
+        note: "təsukkēnî bəbeṭen ʾimmî ... ruqqamtî bətaḥtiyyôt ʾāreṣ golmî rāʾû ʿênêkā; thumma min muḍghatin mukhallaqatin wa-ghayri mukhallaqa ... wa-nuqirru fī l-arḥāmi mā nashāʾ: the unformed embryo (gōlem / muḍgha 'shaped and unshaped') under God's eye, linked with the earth. Ps adds that its days are written in God's book."
+      - with: hb-job-33-elihu-dreams-and-angel
+        motif: human-formed-from-earth
+        refs: ["22:5"]
+        with_refs: ["Job 33:6"]
+        relation: parallel
+        note: "mēḥōmer qōraṣtî gam-ʾānî; khalaqnākum min turāb: man nipped from clay."
+      - with: hb-isa-24-world-judgment
+        motif: earthquake-of-the-hour
+        refs: ["22:1", "22:2"]
+        with_refs: ["Isa 24:18", "Isa 24:19", "Isa 24:20"]
+        relation: echo
+        note: "wayyirʿăšû môsədê ʾāreṣ ... nôaʿ tānûaʿ ʾereṣ kaššikkôr; inna zalzalata s-sāʿati shayʾun ʿaẓīm ... wa-tarā n-nāsa sukārā wa-mā hum bi-sukārā: the end-time quake, with drunkenness as the image. In Isa the earth itself reels like a drunkard; in Q people seem drunk without being drunk."
+      - with: hb-ezek-38-gog-invasion
+        motif: great-earthquake-all-creatures-quake
+        refs: ["22:1", "22:2"]
+        with_refs: ["Ezek 38:19", "Ezek 38:20"]
+        relation: parallel
+        note: "bayyôm hahûʾ yihyeh raʿaš gādôl ... wərāʿăšû mippānay dəgê hayyām wəʿôp haššāmayim ... wəkol-hāʾādām; zalzalata s-sāʿati shayʾun ʿaẓīm yawma tarawnahā tadhhalu kullu murḍiʿatin ʿammā arḍaʿat: a great quake on 'that day' that shakes every living being. Ezek ties it to Gog's invasion of Israel; Q to the Hour."
+      - with: hb-isa-13-oracle-against-babylon
+        motif: earthquake-of-the-hour
+        refs: ["22:2"]
+        with_refs: ["Isa 13:8"]
+        relation: echo
+        note: "ṣîrîm waḥăbālîm yōʾḥēzûn kayyôlēdâ yəḥîlûn ... pənê ləhābîm pənêhem; wa-taḍaʿu kullu dhāti ḥamlin ḥamlahā: terror on the day pictured through childbirth. In Isa men writhe like a woman in labor; in Q pregnant women actually miscarry and nursing mothers forget their infants."
+      - with: hb-isa-26-song-and-resurrection
+        motif: rain-revives-dead-earth
+        refs: ["22:5", "22:6", "22:7"]
+        with_refs: ["Isa 26:19"]
+        relation: echo
+        note: "yiḥyû mētêkā nəbēlātî yəqûmûn hāqîṣû wərannənû šōknê ʿāpār kî ṭal ʾôrōt ṭallekā wāʾāreṣ rəpāʾîm tappîl; wa-tarā l-arḍa hāmidatan fa-idhā anzalnā ʿalayhā l-māʾa htazzat ... wa-anna llāha yabʿathu man fī l-qubūr: moisture from heaven tied to the dead rising from the dust. In Isa a dew of lights directly brings up the shades; in Q rain reviving the earth is the analogy that proves resurrection."

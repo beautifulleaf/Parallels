@@ -1,5 +1,6 @@
 new_motifs:
   people-remorse-after-calf: {label: "After the calf the people mourn or repent of what they did", cluster: sinai}
+  distress-as-narrowness-relief-as-breadth: {label: "Distress is a narrow place and God's rescue gives breadth (tsar / merhav; daqa / rahuba)", cluster: psalms}
 reviewed:
   - unit: quran-7-idol-request
     checked: [hb-ps-106-national-confession, hb-neh-9-levites-confession, hb-hos-7-8-oven-and-calf, hb-2kgs-17-fall-of-samaria, hb-1kgs-12-golden-calves, hb-exod-32-golden-calf, hb-1sam-8-demand-for-king, hb-deut-12-one-sanctuary, hb-exod-1-oppression-midwives, hb-exod-19-sinai-theophany]
@@ -1309,3 +1310,282 @@ reviewed:
         with_refs: ["Isa 1:9", "Isa 1:10"]
         relation: echo
         note: "The present generation compared to Sodom and Gomorrah: kisdōm hāyînû laʿămōrāh dāmînû; šimʿû dᵉbar-YHWH qᵉṣînê sᵉdōm vs ka-lladhīna min qablikum ... a-lam yaʾtihim nabaʾu ... wa-l-muʾtafikāt."
+  - unit: quran-9-hypocrites-vow
+    checked: [hb-jer-7-queen-of-heaven, hb-jer-14-drought, hb-jer-11-broken-covenant, hb-jer-12-why-wicked-prosper, hb-1kgs-22-micaiah, hb-1sam-12-samuel-farewell, hb-jer-15-moses-and-samuel, hb-gen-28-jacobs-ladder, hb-deut-23-assembly-camp, hb-eccl-5-words-and-vows]
+    matches:
+      - with: hb-jer-7-queen-of-heaven
+        motif: prophet-forbidden-to-intercede
+        refs: ["9:80"]
+        with_refs: ["Jer 7:16"]
+        relation: parallel
+        note: "God declares the prophet's intercession for these people useless: istaghfir lahum aw lā tastaghfir lahum in tastaghfir lahum sabʿīna marratan fa-lan yaghfira llāhu lahum vs wᵉʾattāh ʾal-titpallēl bᵉʿad hāʿām hazzeh ... kî-ʾênennî šōmēaʿ ʾōtāk."
+      - with: hb-jer-11-broken-covenant
+        motif: prophet-forbidden-to-intercede
+        refs: ["9:80"]
+        with_refs: ["Jer 11:14"]
+        relation: parallel
+        note: "ʾal-titpallēl bᵉʿad hāʿām hazzeh ... kî ʾênennî šōmēaʿ bᵉʿēt qorʾām ʾēlay vs fa-lan yaghfira llāhu lahum. Both give the reason as a broken covenant (Jer 11:10 hēpērû ... ʾet-bᵉrîtî; Q 9:77 bi-mā akhlafū llāha mā waʿadūhu)."
+      - with: hb-jer-14-drought
+        motif: prophet-forbidden-to-intercede
+        refs: ["9:80"]
+        with_refs: ["Jer 14:11"]
+        relation: parallel
+        note: "ʾal-titpallēl bᵉʿad-hāʿām hazzeh lᵉṭôbāh vs istaghfir lahum aw lā tastaghfir lahum."
+      - with: hb-jer-15-moses-and-samuel
+        motif: seventy-times-forgiveness-useless
+        refs: ["9:80"]
+        with_refs: ["Jer 15:1"]
+        relation: echo
+        note: "No amount of intercession will change God's verdict: in tastaghfir lahum sabʿīna marratan fa-lan yaghfira llāhu lahum vs ʾim-yaʿămōd mōšeh ûšᵉmûʾēl lᵉpānay ʾên napšî ʾel-hāʿām hazzeh. Q makes it seventy prayers; Jer the greatest intercessors."
+      - with: hb-1sam-12-samuel-farewell
+        motif: prophet-duty-to-intercede
+        refs: ["9:80"]
+        with_refs: ["1Sam 12:23"]
+        relation: contrast
+        note: "Opposite rulings on the prophet's intercession for a sinful people: Samuel calls it a sin to stop (ḥālîlāh llî mēḥăṭōʾ laYHWH mēḥădōl lᵉhitpallēl bᵉʿadkem); Q tells the prophet his prayer for the hypocrites is in vain (istaghfir lahum aw lā tastaghfir lahum)."
+      - with: hb-gen-28-jacobs-ladder
+        motif: conditional-vow-to-god
+        refs: ["9:75", "9:76"]
+        with_refs: ["Gen 28:20", "Gen 28:22"]
+        relation: divergence
+        note: "A vow to give to God if God provides: wa-minhum man ʿāhada llāha la-in ātānā min faḍlihi la-naṣṣaddaqanna vs wayyiddar yaʿăqōb neder lēʾmōr ʾim-yihyeh ʾĕlōhîm ʿimmādî ... wᵉkōl ʾăšer titten-lî ʿaśśēr ʾăʿaśśᵉrennû lāk. The outcome differs: Jacob's vow is a founding act of piety; the Q vowers become miserly once enriched (fa-lammā ātāhum min faḍlihi bakhilū bihi), and God sets hypocrisy in their hearts."
+      - with: hb-deut-23-assembly-camp
+        motif: vows-must-be-paid-promptly
+        refs: ["9:76", "9:77"]
+        with_refs: ["Deut 23:22"]
+        relation: parallel
+        note: "Breaking a vow to God is held against the vower: fa-aʿqabahum nifāqan fī qulūbihim ... bi-mā akhlafū llāha mā waʿadūhu vs kî-tiddōr neder laYHWH ... lōʾ tᵉʾaḥēr lᵉšallᵉmô kî-dārōš yidrᵉšennû YHWH ... wᵉhāyāh bᵉkā ḥēṭʾ."
+      - with: hb-eccl-5-words-and-vows
+        motif: better-not-to-vow-than-not-pay
+        refs: ["9:75", "9:76", "9:77"]
+        with_refs: ["Eccl 5:3", "Eccl 5:4"]
+        relation: echo
+        note: "ṭôb ʾăšer lōʾ-tiddōr miššettiddôr wᵉlōʾ tᵉšallēm; kî ʾên ḥēpeṣ bakkᵉsîlîm vs the vowers who 'went back on what they promised God' (akhlafū llāha mā waʿadūhu)."
+      - with: hb-jer-12-why-wicked-prosper
+        motif: god-near-in-mouth-far-from-heart
+        refs: ["9:74", "9:78"]
+        with_refs: ["Jer 12:2"]
+        relation: echo
+        note: "Piety in speech, not in the heart, which God knows: yaḥlifūna bi-llāhi mā qālū; a-lam yaʿlamū anna llāha yaʿlamu sirrahum wa-najwāhum vs qārôb ʾattāh bᵉpîhem wᵉrāḥôq mikkilyôtêhem (and 12:3 wᵉʾattāh YHWH yᵉdaʿtānî)."
+  - unit: quran-9-stayers-exempt
+    checked: [hb-deut-20-rules-of-war, hb-jer-14-drought, hb-hos-4-lawsuit-priests, hb-isa-5-vineyard-and-woes, hb-jer-16-no-wife-no-mourning, hb-eccl-7-better-than-sayings, hb-prov-14-sayings]
+    matches:
+      - with: hb-deut-20-rules-of-war
+        motif: military-exemptions-house-vineyard-bride
+        refs: ["9:91", "9:92", "9:93"]
+        with_refs: ["Deut 20:5", "Deut 20:6", "Deut 20:7", "Deut 20:8"]
+        relation: divergence
+        note: "Who is exempt from the campaign: laysa ʿalā ḍ-ḍuʿafāʾi wa-lā ʿalā l-marḍā wa-lā ʿalā lladhīna lā yajidūna mā yunfiqūna ḥarajun vs mî-hāʾîš ʾăšer bānāh bayit-ḥādāš ... nāṭaʿ kerem ... ʾēraś ʾiššāh ... hayyārēʾ wᵉrak hallēbāb. The grounds are changed: Deut releases the newly settled, the betrothed and the fearful; Q releases only the weak, the sick and those without means, and condemns the rich who ask leave (innamā s-sabīlu ʿalā lladhīna yastaʾdhinūnaka wa-hum aghniyāʾ)."
+      - with: hb-jer-16-no-wife-no-mourning
+        motif: no-funeral-prayer-for-hypocrites
+        refs: ["9:84"]
+        with_refs: ["Jer 16:5", "Jer 16:6"]
+        relation: parallel
+        note: "God forbids his prophet the rites for the dead of a rejected group: wa-lā tuṣalli ʿalā aḥadin minhum māta abadan wa-lā taqum ʿalā qabrihi vs ʾal-tābôʾ bêt marzēaḥ wᵉʾal-tēlēk lispôd wᵉʾal-tānōd lāhem kî-ʾāsaptî ʾet-šᵉlômî mēʾēt hāʿām hazzeh ... lōʾ yiqqābērû wᵉlōʾ-yispᵉdû lāhem."
+      - with: hb-eccl-7-better-than-sayings
+        motif: laugh-little-weep-much
+        refs: ["9:82"]
+        with_refs: ["Eccl 7:3", "Eccl 7:4"]
+        relation: echo
+        note: "Weeping preferred to laughter: fa-l-yaḍḥakū qalīlan wa-l-yabkū kathīran vs ṭôb kaʿas miśśᵉḥōq ... lēb ḥăkāmîm bᵉbêt ʾēbel wᵉlēb kᵉsîlîm bᵉbêt śimḥāh. In Eccl it is wisdom; in Q a punishment for the shirkers."
+      - with: hb-prov-14-sayings
+        motif: laughter-with-aching-heart
+        refs: ["9:81", "9:82"]
+        with_refs: ["Prov 14:13"]
+        relation: echo
+        note: "Present joy that ends in grief: fariḥa l-mukhallafūna bi-maqʿadihim ... fa-l-yaḍḥakū qalīlan wa-l-yabkū kathīran vs gam-biśḥôq yikʾab-lēb wᵉʾaḥărîtāh śimḥāh tûgāh."
+  - unit: quran-9-forerunners-dirar
+    checked: [hb-ezek-13-false-prophets-and-prophetesses, hb-josh-22-altar-of-witness, hb-ps-41-considers-poor, hb-ps-38-sick-penitent, hb-ps-32-confession, hb-mal-3-book-of-remembrance, hb-dan-3-4-tree-dream]
+    matches:
+      - with: hb-josh-22-altar-of-witness
+        motif: rival-altar-crisis
+        refs: ["9:107", "9:108"]
+        with_refs: ["Josh 22:16", "Josh 22:22", "Josh 22:26", "Josh 22:27"]
+        relation: divergence
+        note: "A rival place of worship, suspected of division, whose builders swear good intent: wa-lladhīna ttakhadhū masjidan ḍirāran wa-kufran wa-tafrīqan bayna l-muʾminīna ... wa-la-yaḥlifunna in aradnā illā l-ḥusnā wa-llāhu yashhadu innahum la-kādhibūn vs bibnôtᵉkem lākem mizbēaḥ lᵉmordᵉkem ...; ʾēl ʾĕlōhîm YHWH hûʾ yōdēaʿ ... ʾim-bᵉmered; kî ʿēd hûʾ bênênû ûbênêkem. The ending is reversed: in Josh the oath calling God to witness is accepted and the altar stands as a witness (ʿēd); in Q God testifies that the builders lie, and the prophet must never stand in it (lā taqum fīhi abadan)."
+      - with: hb-ezek-13-false-prophets-and-prophetesses
+        motif: building-on-crumbling-cliff-edge
+        refs: ["9:109", "9:110"]
+        with_refs: ["Ezek 13:14"]
+        relation: echo
+        note: "A false building collapses on its builders: am man assasa bunyānahu ʿalā shafā jurufin hārin fa-nhāra bihi fī nāri jahannam vs wᵉhāras̆tî ʾet-haqqîr ʾăšer-ṭaḥtem tāpēl ... wᵉniglāh yᵉsōdô wᵉnāpᵉlāh ûkᵉlîtem bᵉtôkāh. Both turn on the foundation (assasa / yᵉsōdô)."
+      - with: hb-ps-32-confession
+        motif: confession-of-sin
+        refs: ["9:102"]
+        with_refs: ["Ps 32:5"]
+        relation: parallel
+        note: "Confession followed by God's forgiveness: wa-ākharūna ʿtarafū bi-dhunūbihim ... ʿasā llāhu an yatūba ʿalayhim inna llāha ghafūrun raḥīm vs ḥaṭṭāʾtî ʾôdîʿăkā waʿăwōnî lōʾ-kissîtî ... wᵉʾattāh nāśāʾtā ʿăwōn ḥaṭṭāʾtî."
+      - with: hb-ps-38-sick-penitent
+        motif: confession-of-sin
+        refs: ["9:102"]
+        with_refs: ["Ps 38:19"]
+        relation: echo
+        note: "kî-ʿăwōnî ʾaggîd ʾedʾag mēḥaṭṭāʾtî vs iʿtarafū bi-dhunūbihim."
+      - with: hb-ps-41-considers-poor
+        motif: confession-of-sin
+        refs: ["9:102"]
+        with_refs: ["Ps 41:5"]
+        relation: echo
+        note: "rᵉpāʾāh napšî kî-ḥāṭāʾtî lāk vs iʿtarafū bi-dhunūbihim ... ʿasā llāhu an yatūba ʿalayhim."
+      - with: hb-dan-3-4-tree-dream
+        motif: alms-purify-the-giver
+        refs: ["9:103"]
+        with_refs: ["Dan 4:24"]
+        relation: parallel
+        note: "Giving to the poor cleanses sins: khudh min amwālihim ṣadaqatan tuṭahhiruhum wa-tuzakkīhim bihā vs (Aramaic) waḥăṭāyāk bᵉṣidqāh pᵉruq waʿăwāyātāk bᵉmiḥan ʿănāyin. ṣidqāh is used for charity here, as Arabic ṣadaqa; Daniel addresses the counsel to a pagan king."
+      - with: hb-mal-3-book-of-remembrance
+        motif: book-of-remembrance-for-god-fearers
+        refs: ["9:105"]
+        with_refs: ["Mal 3:16", "Mal 3:18"]
+        relation: echo
+        note: "God sees and records deeds and will distinguish: fa-sa-yarā llāhu ʿamalakum ... wa-saturaddūna ilā ʿālimi l-ghaybi wa-sh-shahāda vs wayyaqšēb YHWH wayyišmāʿ wayyikkātēb sēper zikkārôn lᵉpānāyw ...; wᵉšabtem ûrᵉʾîtem bên ṣaddîq lᵉrāšāʿ."
+  - unit: quran-9-bargain-abraham
+    checked: [hb-judg-6-jerubbaal-fleece, hb-josh-24-shechem-covenant, hb-deut-32-song-of-moses, hb-exod-34-thirteen-attributes-covenant-renewal, hb-ps-85-righteousness-and-peace, hb-gen-11-shem-to-terah, hb-gen-12-call-of-abram]
+    matches:
+      - with: hb-josh-24-shechem-covenant
+        motif: father-serves-idols
+        refs: ["9:114"]
+        with_refs: ["Josh 24:2"]
+        relation: parallel
+        note: "Abraham's father was an idolater: fa-lammā tabayyana lahu annahu ʿaduwwun li-llāhi tabarraʾa minhu vs teraḥ ʾăbî ʾabrāhām waʾăbî nāḥôr wayyaʿabdû ʾĕlōhîm ʾăḥērîm. Josh gives the bare fact (bᵉʿēber hannāhār); Q adds Abraham's prayer for his father and his later repudiation of him."
+      - with: hb-gen-11-shem-to-terah
+        motif: abraham-prays-for-father-then-disowns
+        refs: ["9:114"]
+        with_refs: ["Gen 11:31", "Gen 11:32"]
+        relation: divergence
+        note: "Father and son in the story of Abraham's departure: in Gen Terah himself leads the family out (wayyiqqaḥ teraḥ ʾet-ʾabrām bᵉnô ... wayyēṣᵉʾû ʾittām mēʾûr kaśdîm) and dies in Haran with no conflict; in Q Abraham breaks with his father as God's enemy (tabarraʾa minhu) after having prayed for him by promise (ʿan mawʿidatin waʿadahā iyyāhu)."
+      - with: hb-gen-12-call-of-abram
+        motif: divine-call-to-leave-homeland
+        refs: ["9:114"]
+        with_refs: ["Gen 12:1"]
+        relation: divergence
+        note: "Separation from the father's house: lek-lᵉkā mēʾarṣᵉkā ûmimmôladtᵉkā ûmibbêt ʾābîkā is a geographical command with no reason given; in Q the separation is a disavowal for religious reasons (tabarraʾa minhu) and becomes a rule for believers (mā kāna li-n-nabiyyi ... an yastaghfirū li-l-mushrikīna wa-law kānū ulī qurbā, 9:113)."
+      - with: hb-judg-6-jerubbaal-fleece
+        motif: father-serves-idols
+        refs: ["9:114"]
+        with_refs: ["Judg 6:25", "Judg 6:31"]
+        relation: divergence
+        note: "A hero of God whose father worships idols: mizbaḥ habbaʿal ʾăšer lᵉʾābîkā vs annahu ʿaduwwun li-llāh. The fathers end differently: Joash defends his son against the town (ʾim-ʾĕlōhîm hûʾ yāreb lô); Abraham's father stays God's enemy and is disowned."
+      - with: hb-deut-32-song-of-moses
+        motif: god-bought-believers-lives-for-paradise
+        refs: ["9:111"]
+        with_refs: ["Deut 32:6"]
+        relation: divergence
+        note: "God as purchaser of his people: inna llāha shtarā mina l-muʾminīna anfusahum wa-amwālahum bi-anna lahumu l-janna vs hălôʾ-hûʾ ʾābîkā qānekā (qnh, 'acquired'). In Deut the purchase is of Israel at its creation; in Q it is a trade of lives and wealth for paradise, which Q says is promised also in the Torah (waʿdan ʿalayhi ḥaqqan fī t-tawrāti). No Torah verse promises paradise for fighting; check that claim."
+      - with: hb-deut-32-song-of-moses
+        motif: i-kill-and-make-alive
+        refs: ["9:116"]
+        with_refs: ["Deut 32:39"]
+        relation: parallel
+        note: "yuḥyī wa-yumītu wa-mā lakum min dūni llāhi min waliyyin wa-lā naṣīr vs ʾănî ʾāmît waʾăḥayyeh ... wᵉʾên miyyādî maṣṣîl."
+  - unit: quran-9-three-left-behind
+    checked: [hb-ps-85-righteousness-and-peace, hb-zeph-3-jerusalem-and-restoration, hb-jer-31-consolation-new-covenant, hb-ps-118-cornerstone, hb-ps-4-evening-trust, hb-ps-56-tears-in-bottle, hb-num-31-midian-war, hb-lam-5-prayer-remember]
+    matches:
+      - with: hb-ps-118-cornerstone
+        motif: distress-as-narrowness-relief-as-breadth
+        refs: ["9:118"]
+        with_refs: ["Ps 118:5"]
+        relation: echo
+        note: "The same opposites, narrow against wide, for distress and relief: ḍāqat ʿalayhimu l-arḍu bi-mā raḥubat ... wa-ẓannū an lā maljaʾa mina llāhi illā ilayhi vs min-hammēṣar qārāʾtî yāh ʿānānî bammerḥāb yāh (ḍyq ~ ṣrr; raḥuba = rāḥab). In Ps God answers with breadth; in Q the earth narrows despite its breadth until God turns to them."
+      - with: hb-ps-4-evening-trust
+        motif: distress-as-narrowness-relief-as-breadth
+        refs: ["9:118"]
+        with_refs: ["Ps 4:2"]
+        relation: echo
+        note: "baṣṣār hirḥabtā llî vs ḍāqat ʿalayhimu l-arḍu bi-mā raḥubat: rescue described as God widening a narrow place."
+      - with: hb-jer-31-consolation-new-covenant
+        motif: turn-us-and-we-shall-turn
+        refs: ["9:118"]
+        with_refs: ["Jer 31:18", "Jer 31:19"]
+        relation: parallel
+        note: "God's turning comes first and makes the sinner's turning possible: thumma tāba ʿalayhim li-yatūbū (he turned to them so that they might turn) vs hăšîbēnî wᵉʾāšûbāh kî ʾattāh YHWH ʾĕlōhāy; kî-ʾaḥărê šûbî niḥamtî. The same verb pair: tāba ... yatūbū and šûb ... ʾāšûbāh."
+      - with: hb-lam-5-prayer-remember
+        motif: turn-us-and-we-shall-turn
+        refs: ["9:118"]
+        with_refs: ["Lam 5:21"]
+        relation: echo
+        note: "hăšîbēnû YHWH ʾēlêkā wᵉnāšûbāh vs thumma tāba ʿalayhim li-yatūbū. Lam is a prayer for it; Q reports that it happened."
+      - with: hb-ps-56-tears-in-bottle
+        motif: every-hardship-recorded-as-good-deed
+        refs: ["9:120", "9:121"]
+        with_refs: ["Ps 56:9"]
+        relation: echo
+        note: "God records every hardship of his servant's wanderings: lā yuṣībuhum ẓamaʾun wa-lā naṣabun wa-lā makhmaṣatun ... wa-lā yaqṭaʿūna wādiyan illā kutiba lahum vs nōdî sāpartāh ʾāttāh śîmāh dimʿātî bᵉnōʾdekā hălōʾ bᵉsiprātekā."
+      - with: hb-num-31-midian-war
+        motif: some-stay-to-study-religion
+        refs: ["9:122"]
+        with_refs: ["Num 31:4"]
+        relation: echo
+        note: "A contingent from each group goes out, not everyone: wa-mā kāna l-muʾminūna li-yanfirū kāffatan fa-law-lā nafara min kulli firqatin minhum ṭāʾifatun vs ʾelep lammaṭṭeh ʾelep lammaṭṭeh lᵉkōl maṭṭôt yiśrāʾēl tišlᵉḥû laṣṣābāʾ. Q adds the purpose: those who go or stay are to gain understanding of religion and warn (li-yatafaqqahū fī d-dīn)."
+  - unit: quran-9-closing
+    checked: [hb-ps-68-rider-of-clouds, hb-ps-18-storm-theophany, hb-ps-44-national-lament, hb-amos-4-cows-of-bashan, hb-isa-6-throne-vision, hb-deut-18-levites-prophet, hb-ps-32-confession]
+    matches:
+      - with: hb-amos-4-cows-of-bashan
+        motif: plagues-yet-you-did-not-return
+        refs: ["9:126"]
+        with_refs: ["Amos 4:6", "Amos 4:9", "Amos 4:10"]
+        relation: parallel
+        note: "Repeated trials that do not bring repentance: a-wa-lā yarawna annahum yuftanūna fī kulli ʿāmin marratan aw marratayni thumma lā yatūbūna wa-lā hum yadhdhakkarūn vs the refrain wᵉlōʾ-šabtem ʿāday nᵉʾum-YHWH after famine, blight and pestilence (tāba = šûb)."
+      - with: hb-isa-6-throne-vision
+        motif: revelation-increases-faith-or-filth
+        refs: ["9:125", "9:127"]
+        with_refs: ["Isa 6:10"]
+        relation: echo
+        note: "The revelation itself hardens the resistant: fa-zādathum rijsan ilā rijsihim; ṣarafa llāhu qulūbahum bi-annahum qawmun lā yafqahūn vs hašmēn lēb-hāʿām hazzeh ... pen ... ûlᵉbābô yābîn wāšāb wᵉrāpāʾ lô."
+      - with: hb-isa-6-throne-vision
+        motif: lord-of-the-mighty-throne
+        refs: ["9:129"]
+        with_refs: ["Isa 6:1"]
+        relation: echo
+        note: "God's throne marks his supremacy: wa-huwa rabbu l-ʿarshi l-ʿaẓīm vs wāʾerʾeh ʾet-ʾădōnāy yōšēb ʿal-kissēʾ rām wᵉniśśāʾ."
+      - with: hb-deut-18-levites-prophet
+        motif: messengers-from-among-humans
+        refs: ["9:128"]
+        with_refs: ["Deut 18:15", "Deut 18:18"]
+        relation: parallel
+        note: "The messenger is one of the people themselves: la-qad jāʾakum rasūlun min anfusikum vs nābîʾ miqqirbᵉkā mēʾaḥêkā kāmōnî; nābîʾ ʾāqîm lāhem miqqereb ʾăḥêhem."
+      - with: hb-ps-18-storm-theophany
+        motif: string-of-divine-epithets-rock-fortress
+        refs: ["9:129"]
+        with_refs: ["Ps 18:3"]
+        relation: echo
+        note: "God alone as refuge and trust: ḥasbiya llāhu lā ilāha illā huwa ʿalayhi tawakkaltu vs YHWH salʿî ûmᵉṣûdātî ... ṣûrî ʾeḥĕseh-bô (and 18:32 mî ʾĕlôah mibbalʿădê YHWH)."
+      - with: hb-ps-44-national-lament
+        motif: not-by-their-sword-but-gods-arm
+        refs: ["9:129"]
+        with_refs: ["Ps 44:7", "Ps 44:8"]
+        relation: echo
+        note: "Reliance on God, not on one's own arms: ḥasbiya llāhu ... ʿalayhi tawakkaltu vs kî lōʾ bᵉqaštî ʾebṭāḥ wᵉḥarbî lōʾ tôšîʿēnî kî hôšaʿtānû."
+  - unit: quran-10-opening-creation
+    checked: [hb-ps-104-creation-hymn, hb-gen-1-creation-six-days, hb-ps-74-leviathan, hb-isa-44-idol-from-half-a-log, hb-job-38-whirlwind-creation, hb-ps-103-bless-my-soul]
+    matches:
+      - with: hb-gen-1-creation-six-days
+        motif: creation-in-six-days
+        refs: ["10:3"]
+        with_refs: ["Gen 2:2", "Gen 2:3"]
+        relation: divergence
+        note: "Six days of creation, then what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt bayyôm haššᵉbîʿî. The seventh day is replaced: Gen has rest (šābat) and a hallowed day; Q has God mounting the Throne and governing, with no rest and no seventh day."
+      - with: hb-gen-1-creation-six-days
+        motif: luminaries-rule-day-night
+        refs: ["10:5", "10:6"]
+        with_refs: ["Gen 1:14", "Gen 1:16"]
+        relation: divergence
+        note: "God makes the two lights to measure time: jaʿala sh-shamsa ḍiyāʾan wa-l-qamara nūran wa-qaddarahu manāzila li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb vs ʾet-hammāʾôr haggādōl lᵉmemšelet hayyôm wᵉʾet-hammāʾôr haqqāṭōn lᵉmemšelet hallaylāh; wᵉhāyû ... lᵉyāmîm wᵉšānîm. Gen avoids the names sun and moon ('the great light, the small light'); Q names them."
+      - with: hb-ps-104-creation-hymn
+        motif: moon-stations-for-reckoning
+        refs: ["10:5"]
+        with_refs: ["Ps 104:19", "Ps 104:20"]
+        relation: parallel
+        note: "The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ mᵉbôʾô tāšet-ḥōšek wîhî lāylāh."
+      - with: hb-ps-74-leviathan
+        motif: luminaries-rule-day-night
+        refs: ["10:5", "10:6"]
+        with_refs: ["Ps 74:16"]
+        relation: echo
+        note: "lᵉkā yôm ʾap-lᵉkā lāylāh ʾattāh hăkînôtā māʾôr wāšāmeš vs huwa lladhī jaʿala sh-shamsa ḍiyāʾan wa-l-qamara nūran ... ikhtilāfi l-layli wa-n-nahār."
+      - with: hb-ps-103-bless-my-soul
+        motif: god-established-on-throne
+        refs: ["10:3"]
+        with_refs: ["Ps 103:19"]
+        relation: parallel
+        note: "God enthroned in heaven governs all: thumma stawā ʿalā l-ʿarshi yudabbiru l-amra vs YHWH baššāmayim hēkîn kisʾô ûmalkûtô bakkōl māšālāh."

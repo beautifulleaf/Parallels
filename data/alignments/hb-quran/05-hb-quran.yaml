@@ -1291,3 +1291,540 @@ reviewed:
         with_refs: ["Deut 6:10", "Deut 6:11"]
         relation: echo
         note: "jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīmin ... wa-awrathnāhā banī Isrāʾīla ~ ʿārîm gədōlōt wə-ṭōvōt ʾăšer lōʾ vānîtā û-vāttîm məlēʾîm kol ṭûv ... û-vōrōt ḥăṣûvîm ... kərāmîm wə-zêtîm: Israel receives a ready-made land of fine dwellings, water sources and orchards. In Deut it is Canaan, in Q 26 it is the Egyptians' own gardens and springs."
+  - unit: quran-26-abraham
+    checked: [hb-ps-135-hymn-of-election, hb-ps-115-not-to-us, hb-prov-22-solomon-sayings-end, hb-exod-34-thirteen-attributes-covenant-renewal, hb-deut-32-song-of-moses, hb-isa-1-indictment-of-judah, hb-josh-24-shechem-covenant, hb-prov-11-sayings, hb-ps-49-no-ransom, hb-isa-38-hezekiahs-illness]
+    matches:
+      - with: hb-ps-115-not-to-us
+        motif: idols-cannot-see-hear-eat-smell
+        refs: ["26:72", "26:73"]
+        with_refs: ["Ps 115:4", "Ps 115:6"]
+        relation: parallel
+        note: "hal yasmaʿūnakum idh tadʿūna aw yanfaʿūnakum aw yaḍurrūna ~ ʾoznayim lāhem wə-lōʾ yišmāʿû ... maʿăśēh yədê ʾādām: idols do not hear. The Psalm describes the idols, while Abraham questions their worshippers, who can only answer 'we found our fathers doing so' (26:74)."
+      - with: hb-ps-135-hymn-of-election
+        motif: idols-cannot-see-hear-eat-smell
+        refs: ["26:72"]
+        with_refs: ["Ps 135:15", "Ps 135:17"]
+        relation: echo
+        note: "hal yasmaʿūnakum ~ ʾoznayim lāhem wə-lōʾ yaʾăzînû: idols that do not hear."
+      - with: hb-josh-24-shechem-covenant
+        motif: father-serves-idols
+        refs: ["26:70", "26:71", "26:74", "26:76"]
+        with_refs: ["Josh 24:2", "Josh 24:3"]
+        relation: divergence
+        note: "Abraham's idolatrous father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman. In Joshua God takes Abraham away (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks nor argues. In the Quran Abraham argues with his father and people, who appeal to ancestral custom (wajadnā ābāʾanā), and he declares their gods his enemy (fa-innahum ʿaduwwun lī)."
+      - with: hb-deut-32-song-of-moses
+        motif: god-wounds-and-heals
+        refs: ["26:80", "26:81"]
+        with_refs: ["Deut 32:39"]
+        relation: divergence
+        note: "ʾănî ʾāmît wa-ʾăḥayyeh māḥaṣtî wa-ʾănî ʾerpāʾ ~ wa-idhā mariḍtu fa-huwa yashfīni wa-lladhī yumītunī thumma yuḥyīni: the same pairs, death and life, sickness and healing. Deut has God both wound and heal (māḥaṣtî); Abraham says 'when I fall sick' and gives God only the healing, though God still 'causes me to die' and then revives."
+      - with: hb-prov-22-solomon-sayings-end
+        motif: good-name-better-than-riches
+        refs: ["26:84"]
+        with_refs: ["Prov 22:1"]
+        relation: echo
+        note: "wa-jʿal lī lisāna ṣidqin fī l-ākhirīna ~ nivḥār šēm mē-ʿōšer rāv: a good name (šēm / lisān ṣidq) among others; the Quran's Abraham asks for it among later generations."
+      - with: hb-prov-11-sayings
+        motif: wealth-useless-on-day-of-wrath
+        refs: ["26:88"]
+        with_refs: ["Prov 11:4"]
+        relation: parallel
+        note: "yawma lā yanfaʿu mālun wa-lā banūna ~ lōʾ yôʿîl hôn bə-yôm ʿevrâ: wealth does not profit (nafaʿa / hôʿîl) on the day of judgment or wrath. Proverbs: righteousness saves (û-ṣədāqâ taṣṣîl mim-māwet); Quran: only a sound heart (26:89). The Quran adds sons."
+      - with: hb-isa-38-hezekiahs-illness
+        motif: sound-heart-alone-avails
+        refs: ["26:89"]
+        with_refs: ["Isa 38:3"]
+        relation: echo
+        note: "illā man atā llāha bi-qalbin salīmin ~ hithallakhtî ləfānêkā be-ʾĕmet û-və-lēv šālēm: a whole heart (cognate qalb salīm / lēv šālēm) as what counts before God; Hezekiah cites it in his plea for life, Abraham as the only thing that avails at the resurrection."
+      - with: hb-ps-49-no-ransom
+        motif: no-ransom-for-a-brother
+        refs: ["26:100", "26:101"]
+        with_refs: ["Ps 49:8"]
+        relation: echo
+        note: "fa-mā lanā min shāfiʿīna wa-lā ṣadīqin ḥamīmin ~ ʾāḥ lōʾ fādōh yifdeh ʾîš lōʾ yittēn lēʾlōhîm kofrô: no brother or friend can save another from God's judgment; the Psalm speaks of ransom (kofer), the Quran of intercessors and a close friend."
+  - unit: quran-26-noah
+    checked: [hb-gen-6-flood, hb-gen-19-sodom-destroyed, hb-exod-4-signs-aaron-bridegroom-of-blood, hb-ezek-14-idols-in-heart-noah-daniel-job, hb-ezek-33-watchman-and-fall-news, hb-num-14-rebellion-verdict]
+    matches:
+      - with: hb-gen-6-flood
+        motif: family-saved
+        refs: ["26:118", "26:119"]
+        with_refs: ["Gen 7:1", "Gen 7:7"]
+        relation: divergence
+        note: "Who is saved with Noah: Genesis, his household for his own righteousness, bōʾ ʾattâ wə-khol bêtəkā ... kî ʾōtəkā rāʾîtî ṣaddîq (Noah, his sons, his wife, his sons' wives); Quran, najjinī wa-man maʿiya mina l-muʾminīna ... fa-anjaynāhu wa-man maʿahu fī l-fulki l-mashḥūn, the believers who followed him, the 'lowliest' (al-ardhalūn, 26:111). The saved group is defined by faith, not by kinship."
+      - with: hb-gen-6-flood
+        motif: hero-preaches-to-people
+        refs: ["26:106", "26:107", "26:108", "26:109"]
+        with_refs: ["Gen 6:22"]
+        relation: divergence
+        note: "Genesis' Noah obeys in silence (wa-yyaʿaś Nōaḥ kə-khōl ʾăšer ṣiwwâ ʾōtô ʾĕlōhîm) and is never sent to anyone; the Quran's Noah is 'their brother' and 'a trustworthy messenger' (akhūhum ... rasūlun amīn) who asks no wage, and his people 'denied the messengers' (kadhdhabat qawmu Nūḥin al-mursalīn)."
+      - with: hb-gen-6-flood
+        motif: universal-destruction
+        refs: ["26:120"]
+        with_refs: ["Gen 7:23"]
+        relation: parallel
+        note: "thumma aghraqnā baʿdu l-bāqīna ~ wa-yyimmaḥ ʾet kol hay-yəqûm ... wa-yyiššāʾer ʾakh Nōaḥ wa-ʾăšer ʾittô bat-tēvâ: all others perish and only those in the vessel survive (cf. wa-man maʿahu ~ wa-ʾăšer ʾittô)."
+      - with: hb-ezek-14-idols-in-heart-noah-daniel-job
+        motif: noah-daniel-job-righteous-trio
+        refs: ["26:118", "26:119"]
+        with_refs: ["Ezek 14:14", "Ezek 14:20"]
+        relation: contrast
+        note: "hēmmâ və-ṣidqātām yənaṣṣəlû nafšām ... ʾim bēn ʾim bat yaṣṣîlû: Ezekiel's Noah saves only himself by his righteousness, not sons or daughters; the Quran's Noah prays najjinī wa-man maʿiya mina l-muʾminīn, and God saves him with those with him. In both, salvation goes by righteousness or faith, not kinship."
+      - with: hb-num-14-rebellion-verdict
+        motif: people-threaten-to-stone-leader
+        refs: ["26:116"]
+        with_refs: ["Num 14:10"]
+        relation: echo
+        note: "la-takūnanna mina l-marjūmīna ~ wa-yyōʾmərû kol hā-ʿēdâ lirgôm ʾōtām bā-ʾăvānîm: the cognate verb rajama / rāgam, the people threatening to stone God's messenger."
+  - unit: quran-26-hud-ad
+    checked: [hb-gen-11-babel, hb-jer-42-43-flight-to-egypt, hb-mic-3-rulers-and-prophets, hb-ezek-13-false-prophets-and-prophetesses, hb-ps-49-no-ransom, hb-gen-10-table-of-nations, hb-isa-2-mountain-and-day-of-yhwh]
+    matches:
+      - with: hb-gen-11-babel
+        motif: make-a-name-for-ourselves
+        refs: ["26:128", "26:129"]
+        with_refs: ["Gen 11:4"]
+        relation: echo
+        note: "a-tabnūna bi-kulli rīʿin āyatan taʿbathūna wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~ hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim wə-naʿăśeh llānû šēm: monumental building to win permanence. The Quran does not mention bricks and bitumen (Gen 11:3). The punishment differs: Babel's builders are scattered, ʿĀd is destroyed for rejecting its messenger (26:139)."
+      - with: hb-ps-49-no-ransom
+        motif: graves-their-houses-forever
+        refs: ["26:129"]
+        with_refs: ["Ps 49:12", "Ps 49:13"]
+        relation: parallel
+        note: "wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~ qirbām bāttêmô lə-ʿôlām miškənōtām lə-dōr wā-dōr qārəʾû vi-šmôtām ʿălê ʾădāmôt wə-ʾādām bîqār bal yālîn: the rich think their buildings make them last forever (khalada / lə-ʿôlām), but man in his pomp does not endure."
+      - with: hb-gen-10-table-of-nations
+        motif: nimrod-mighty-hunter
+        refs: ["26:130"]
+        with_refs: ["Gen 10:8", "Gen 10:9", "Gen 10:10"]
+        relation: echo
+        note: "wa-idhā baṭashtum baṭashtum jabbārīna ~ hûʾ hēḥēl lihyôt gibbōr bā-ʾāreṣ ... wat-təhî rēʾšît mamlakhtô Bāvel: a people or king of builders called 'mighty' (cognate jabbār / gibbôr). In Genesis it is neutral (gibbōr ṣayid lifnê YHWH), in the Quran the violence of tyrants."
+      - with: hb-mic-3-rulers-and-prophets
+        motif: city-built-with-blood
+        refs: ["26:128", "26:130"]
+        with_refs: ["Mic 3:10"]
+        relation: echo
+        note: "a-tabnūna ... wa-idhā baṭashtum baṭashtum jabbārīna ~ bōneh Ṣiyyôn bə-dāmîm wî-rûšālaim bə-ʿawlâ: building joined with violent oppression."
+      - with: hb-isa-2-mountain-and-day-of-yhwh
+        motif: day-of-yhwh
+        refs: ["26:128", "26:135"]
+        with_refs: ["Isa 2:12", "Isa 2:14", "Isa 2:15"]
+        relation: echo
+        note: "a-tabnūna bi-kulli rīʿin āyatan ... innī akhāfu ʿalaykum ʿadhāba yawmin ʿaẓīmin ~ kî yôm la-YHWH ṣəvāʾôt ʿal kol gēʾeh wā-rām ... wə-ʿal kol he-hārîm hā-rāmîm ... wə-ʿal kol migdāl gāvōah: a day of judgment against the buildings on every height."
+  - unit: quran-26-salih-thamud
+    checked: [hb-obad-1-edom-brought-down, hb-isa-8-maher-shalal-and-stone-of-stumbling, hb-exod-4-signs-aaron-bridegroom-of-blood, hb-jer-42-43-flight-to-egypt, hb-isa-22-valley-of-vision-and-shebna]
+    matches:
+      - with: hb-obad-1-edom-brought-down
+        motif: edom-dwells-in-clefts-of-rock
+        refs: ["26:146", "26:149"]
+        with_refs: ["Obad 1:3", "Obad 1:4"]
+        relation: parallel
+        note: "a-tutrakūna fī mā hāhunā āminīna ... wa-tanḥitūna mina l-jibāli buyūtan fārihīna ~ šōkhnî və-ḥagwê selaʿ mərôm šivtô ʾōmēr bə-libbô mî yôrīdēnî ʾāreṣ: a people secure in dwellings cut into the rock who think nothing can reach them, and whom God brings down (miššām ʾôrîdəkā). Edom in Obadiah, Thamūd in the Quran, both peoples of the rock-cut country south and east of Israel."
+      - with: hb-isa-22-valley-of-vision-and-shebna
+        motif: thamud-carve-houses-in-mountains
+        refs: ["26:149"]
+        with_refs: ["Isa 22:16"]
+        relation: echo
+        note: "wa-tanḥitūna mina l-jibāli buyūtan ~ ḥōṣəvî mārôm qivrô ḥōqəqî vas-selaʿ miškān lô: cutting a dwelling into the rock on the heights as a mark of arrogance; Shebna's is a tomb, Thamūd's are houses."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: unbelievers-demand-a-sign
+        refs: ["26:154", "26:155", "26:157"]
+        with_refs: ["Exod 4:1", "Exod 4:8", "Exod 4:31"]
+        relation: contrast
+        note: "fa-ʾti bi-āyatin in kunta mina ṣ-ṣādiqīna qāla hādhihi nāqatun ... fa-ʿaqarūhā ~ wə-hēn lōʾ yaʾămînû lî ... wə-heʾĕmînû lə-qōl hā-ʾōt hā-ʾaḥărôn ... wa-yyaʾămēn hā-ʿām: a sign (āya / ʾôt) given to prove the messenger. In Exodus the signs win the people's faith; Thamūd demand a sign, receive the she-camel, and kill it."
+  - unit: quran-26-lot
+    checked: [hb-gen-19-sodom-destroyed, hb-ps-11-flee-like-bird, hb-gen-6-flood, hb-jer-33-branch-and-cosmic-covenant, hb-ezek-14-idols-in-heart-noah-daniel-job]
+    matches:
+      - with: hb-gen-19-sodom-destroyed
+        motif: wicked-sodom
+        refs: ["26:165", "26:166"]
+        with_refs: ["Gen 19:4", "Gen 19:5"]
+        relation: divergence
+        note: "The sin: Genesis has one night's event, the townsmen demanding Lot's two guests, hôṣîʾēm ʾēlênû wə-nēdəʿâ ʾōtām; the Quran has a standing practice of the whole people, a-taʾtūna dh-dhukrāna mina l-ʿālamīna wa-tadharūna mā khalaqa lakum rabbukum min azwājikum. The Quran has no guests, angels or hospitality, and Lot preaches as 'their brother' and a trustworthy messenger (26:161-162), which Genesis' Lot never does."
+      - with: hb-gen-19-sodom-destroyed
+        motif: lot-threatened-with-expulsion
+        refs: ["26:167"]
+        with_refs: ["Gen 19:9"]
+        relation: parallel
+        note: "la-in lam tantahi yā Lūṭu la-takūnanna mina l-mukhrajīna ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ šāfôṭ ʿattâ nāraʿ ləkhā mēhem: the people turn on Lot as an outsider who presumes to judge them; Genesis threatens worse harm than to the guests, the Quran threatens expulsion."
+      - with: hb-gen-19-sodom-destroyed
+        motif: family-saved
+        refs: ["26:169", "26:170"]
+        with_refs: ["Gen 19:16", "Gen 19:29"]
+        relation: divergence
+        note: "Why Lot is saved: Gen 19:29 wa-yyizkōr ʾĕlōhîm ʾet ʾAvrāhām wa-yšallaḥ ʾet Lôṭ, for Abraham's sake, and the angels drag the hesitating family out (wa-yyitmahmāh, 19:16); Q 26:169-170 Lot prays rabbi najjinī wa-ahlī mimmā yaʿmalūna and God saves him and his family in answer, for his own sake. Lot neither hesitates nor depends on Abraham."
+      - with: hb-gen-19-sodom-destroyed
+        motif: wife-turned-to-pillar-of-salt
+        refs: ["26:171"]
+        with_refs: ["Gen 19:26"]
+        relation: divergence
+        note: "illā ʿajūzan fī l-ghābirīna ~ wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ: the one family member lost. Genesis names her Lot's wife and says why (she looked back) and how (pillar of salt); the Quran says only 'an old woman among those who stayed behind', with no looking back and no salt."
+      - with: hb-gen-19-sodom-destroyed
+        motif: fire-and-brimstone-from-heaven
+        refs: ["26:172", "26:173"]
+        with_refs: ["Gen 19:24", "Gen 19:25"]
+        relation: parallel
+        note: "wa-amṭarnā ʿalayhim maṭaran fa-sāʾa maṭaru l-mundharīna ~ wa-YHWH himṭîr ʿal Sədōm ... gofrît wā-ʾēš: the same verb (amṭara / himṭîr); the Quran does not name sulphur and fire, and Sodom is never named."
+      - with: hb-ps-11-flee-like-bird
+        motif: fire-and-brimstone-from-heaven
+        refs: ["26:173"]
+        with_refs: ["Ps 11:6"]
+        relation: echo
+        note: "wa-amṭarnā ʿalayhim maṭaran ~ yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-gofrît: God rains destruction on the wicked."
+  - unit: quran-26-shuayb-ayka
+    checked: [hb-exod-2-moses-birth-flight-midian, hb-exod-3-burning-bush, hb-prov-20-sayings, hb-prov-16-sayings, hb-prov-11-sayings, hb-ezek-13-false-prophets-and-prophetesses, hb-lev-19-holiness-code-b, hb-deut-25-lashes-levirate-amalek, hb-amos-8-summer-fruit]
+    matches:
+      - with: hb-lev-19-holiness-code-b
+        motif: just-weights-and-measures
+        refs: ["26:181", "26:182", "26:183"]
+        with_refs: ["Lev 19:35", "Lev 19:36"]
+        relation: parallel
+        note: "awfū l-kayla ... wa-zinū bi-l-qisṭāsi l-mustaqīmi wa-lā tabkhasū n-nāsa ashyāʾahum ~ lōʾ taʿăśû ʿāwel ... bam-middâ bam-mišqāl û-vam-məśûrâ mōʾzənê ṣedeq ʾavnê ṣedeq: full measure (kayl / middâ), weighing (wazn / mišqāl) and a just balance (qisṭās mustaqīm / mōʾzənê ṣedeq). In Leviticus it is law for Israel grounded in the exodus; in the Quran it is a messenger's demand on a non-Israelite people, whose refusal brings their destruction."
+      - with: hb-deut-25-lashes-levirate-amalek
+        motif: honest-weights
+        refs: ["26:181", "26:182"]
+        with_refs: ["Deut 25:13", "Deut 25:15"]
+        relation: parallel
+        note: "awfū l-kayla wa-lā takūnū mina l-mukhsirīna ~ ʾeven šəlēmâ wā-ṣedeq yihyeh llākh ʾêfâ šəlēmâ wā-ṣedeq: a full (šəlēmâ / awfū) and just measure; Deut promises long life in the land, the Quran threatens the day of the canopy."
+      - with: hb-amos-8-summer-fruit
+        motif: just-weights-and-measures
+        refs: ["26:181", "26:183"]
+        with_refs: ["Amos 8:5"]
+        relation: parallel
+        note: "wa-lā tabkhasū n-nāsa ashyāʾahum ~ ləhaqṭîn ʾêfâ û-ləhagdîl šeqel û-lʿawwēt mōʾzənê mirmâ: a prophet denounces merchants who shrink the measure and falsify the balance, followed by a threatened judgment; Amos aims at Israel, Shuʿayb at the people of the Thicket."
+      - with: hb-prov-11-sayings
+        motif: just-weights-and-measures
+        refs: ["26:182"]
+        with_refs: ["Prov 11:1"]
+        relation: echo
+        note: "wa-zinū bi-l-qisṭāsi l-mustaqīm ~ mōʾzənê mirmâ tôʿăvat YHWH wə-ʾeven šəlēmâ rəṣônô: God hates the false balance and wants the full weight."
+      - with: hb-prov-16-sayings
+        motif: just-weights-and-measures
+        refs: ["26:182"]
+        with_refs: ["Prov 16:11"]
+        relation: echo
+        note: "bi-l-qisṭāsi l-mustaqīm ~ peles û-mōʾzənê mišpāṭ la-YHWH: the just balance belongs to God."
+      - with: hb-prov-20-sayings
+        motif: just-weights-and-measures
+        refs: ["26:182", "26:183"]
+        with_refs: ["Prov 20:10", "Prov 20:23"]
+        relation: echo
+        note: "wa-lā tabkhasū n-nāsa ashyāʾahum ~ ʾeven wā-ʾeven ʾêfâ wə-ʾêfâ tôʿăvat YHWH ... û-mōʾzənê mirmâ lōʾ ṭôv: double weights and false scales are an abomination."
+  - unit: quran-26-revelation-devils-poets
+    checked: [hb-ps-51-miserere, hb-isa-63-communal-lament, hb-deut-18-levites-prophet, hb-isa-8-maher-shalal-and-stone-of-stumbling, hb-ezek-13-false-prophets-and-prophetesses]
+    matches:
+      - with: hb-ps-51-miserere
+        motif: holy-spirit-of-god
+        refs: ["26:193", "26:194"]
+        with_refs: ["Ps 51:12", "Ps 51:13"]
+        relation: divergence
+        note: "nazala bihi r-rūḥu l-amīnu ʿalā qalbika ~ lēv ṭāhôr bərāʾ lî ... wə-rûaḥ qodšəkā ʾal tiqqaḥ mimmennî: the spirit and the heart. In the Psalm God's holy spirit is a presence within the penitent that he begs not to lose; in the Quran the Trustworthy Spirit is an agent who brings the revelation down onto the prophet's heart."
+      - with: hb-isa-63-communal-lament
+        motif: holy-spirit-of-god
+        refs: ["26:193"]
+        with_refs: ["Isa 63:10", "Isa 63:11"]
+        relation: echo
+        note: "ar-rūḥu l-amīnu ~ ʾayyēh haś-śām bə-qirbô ʾet rûaḥ qodšô: a spirit of God given to Moses' generation (Isaiah) or bringing revelation to the prophet (Quran)."
+      - with: hb-deut-18-levites-prophet
+        motif: prophet-like-moses
+        refs: ["26:192", "26:193", "26:194"]
+        with_refs: ["Deut 18:18"]
+        relation: divergence
+        note: "How the word reaches the prophet: Deut 18:18 wə-nātattî dəvāray bə-fîw wə-dibber ʾălêhem, God puts his words in the prophet's mouth; Q 26:193-195 nazala bihi r-rūḥu l-amīnu ʿalā qalbika ... bi-lisānin ʿarabiyyin mubīnin, a spirit brings it down onto his heart, in Arabic. Deut's prophet is raised 'from among their brothers' (mi-qqerev ʾăḥêhem); the Quran appeals to the learned of the Children of Israel as witnesses (26:197)."
+      - with: hb-deut-18-levites-prophet
+        motif: divination-and-soothsaying-forbidden
+        refs: ["26:221", "26:222", "26:223"]
+        with_refs: ["Deut 18:10", "Deut 18:11", "Deut 18:14"]
+        relation: echo
+        note: "tanazzalu ʿalā kulli affākin athīmin yulqūna s-samʿa wa-aktharuhum kādhibūna ~ qōsēm qəsāmîm məʿônēn û-mnaḥēš ... wə-šōʾēl ʾôv wə-yiddəʿōnî: sources of hidden knowledge set against true revelation. Deut forbids them to Israel; the Quran explains them as devils feeding liars with scraps overheard."
+      - with: hb-isa-8-maher-shalal-and-stone-of-stumbling
+        motif: chirping-muttering-ghosts
+        refs: ["26:221", "26:223"]
+        with_refs: ["Isa 8:19"]
+        relation: echo
+        note: "hal unabbiʾukum ʿalā man tanazzalu sh-shayāṭīnu ... yulqūna s-samʿa ~ diršû ʾel hā-ʾōvôt wə-ʾel hay-yiddəʿōnîm ham-maṣafṣəfîm wə-ham-mahgîm: whispering spirit-sources consulted instead of God."
+      - with: hb-ezek-13-false-prophets-and-prophetesses
+        motif: prophets-from-own-heart
+        refs: ["26:224", "26:225", "26:226"]
+        with_refs: ["Ezek 13:3"]
+        relation: echo
+        note: "wa-sh-shuʿarāʾu yattabiʿuhumu l-ghāwūna ... fī kulli wādin yahīmūna wa-annahum yaqūlūna mā lā yafʿalūna ~ hôy ʿal han-nəvîʾîm han-nəvālîm ʾăšer hōləkhîm ʾaḥar rûḥām û-lə-viltî rāʾû: inspired speakers who follow their own spirit and have seen nothing; the Quran's are poets, Ezekiel's are 'foolish prophets' (nəvālîm)."
+  - unit: quran-27-prologue-moses-fire
+    checked: [hb-exod-7-staff-swallows-staffs, hb-exod-3-burning-bush, hb-exod-7-plagues-blood-frogs-lice, hb-ps-78-history, hb-exod-4-signs-aaron-bridegroom-of-blood, hb-ps-105-history]
+    matches:
+      - with: hb-exod-3-burning-bush
+        motif: burning-bush-not-consumed
+        refs: ["27:7", "27:8"]
+        with_refs: ["Exod 3:2", "Exod 3:3", "Exod 3:4"]
+        relation: parallel
+        note: "innī ānastu nāran ... fa-lammā jāʾahā nūdiya an būrika man fī n-nāri wa-man ḥawlahā ~ wa-yyērāʾ malʾakh YHWH ʾēlāyw bə-labbat ʾēš mit-tôkh has-səneh ... wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm mit-tôkh has-səneh: Moses approaches a fire and is called from within it. The Quran does not mention the bush (only 'who is in the fire and around it'), nor the bush not being consumed."
+      - with: hb-exod-3-burning-bush
+        motif: prophet-sees-fire-goes-to-fetch-brand
+        refs: ["27:7"]
+        with_refs: ["Exod 3:1", "Exod 3:3"]
+        relation: divergence
+        note: "Why Moses goes to the fire: Exodus has him alone with Jethro's flock at Horeb, turning aside to see the great sight (ʾāsurâ nāʾ wə-ʾerʾeh ʾet ham-marʾeh hag-gādōl haz-zeh); the Quran has him traveling with his family (qāla Mūsā li-ahlihi), going to bring back news or a burning brand 'that you may warm yourselves'. The Quran names neither flock, mountain nor Jethro."
+      - with: hb-exod-3-burning-bush
+        motif: god-of-abraham-isaac-jacob
+        refs: ["27:8", "27:9"]
+        with_refs: ["Exod 3:6", "Exod 3:14"]
+        relation: divergence
+        note: "God's self-identification from the fire: Exodus has ʾānōkhî ʾĕlōhê ʾāvîkā ʾĕlōhê ʾAvrāhām ʾĕlōhê Yiṣḥāq wē-ʾlōhê Yaʿăqōv, then ʾehyeh ʾăšer ʾehyeh; the Quran has yā Mūsā innahu ana llāhu l-ʿazīzu l-ḥakīmu, preceded by subḥāna llāhi rabbi l-ʿālamīna. The God of the fathers becomes the Lord of the worlds, and the name-riddle becomes 'Allāh'. The Quran also leaves out the sandals and Moses hiding his face (Exod 3:5-6)."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: staff-quivers-like-jinn-snake-moses-flees
+        refs: ["27:10"]
+        with_refs: ["Exod 4:3", "Exod 4:4"]
+        relation: divergence
+        note: "fa-lammā raʾāhā tahtazzu ka-annahā jānnun wallā mudbiran wa-lam yuʿaqqib ~ wa-yhî lə-nāḥāš wa-yyānās Mōše mippānāyw: Moses flees from his transformed staff in both. Exodus then has God order him to grasp the snake by the tail (šəlaḥ yādəkā wə-ʾĕḥōz bi-znāvô); the Quran has God reassure him: yā Mūsā lā takhaf innī lā yakhāfu ladayya l-mursalūna."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: hand-turned-leprous-white-as-snow
+        refs: ["27:12"]
+        with_refs: ["Exod 4:6", "Exod 4:7"]
+        relation: divergence
+        note: "wa-adkhil yadaka fī jaybika takhruj bayḍāʾa min ghayri sūʾin ~ hāvēʾ nāʾ yādəkā bə-ḥêqekā ... wə-hinnēh yādô məṣōraʿat ka-ššāleg: hand into the bosom (jayb / ḥêq) and out white. The Quran's 'without evil' (min ghayri sūʾ) excludes exactly what Exodus says, that the hand was leprous (məṣōraʿat), and needs no second step of restoring it (4:7)."
+      - with: hb-ps-105-history
+        motif: variant-plague-list
+        refs: ["27:12"]
+        with_refs: ["Ps 105:28", "Ps 105:36"]
+        relation: divergence
+        note: "fī tisʿi āyātin ilā Firʿawna wa-qawmihi: the Quran counts nine signs to Pharaoh; Exodus has ten plagues, Ps 105:28-36 eight (starting with darkness, šālaḥ ḥōšekh) and Ps 78 seven. The number of the Egyptian wonders already varies within the HB."
+      - with: hb-ps-78-history
+        motif: variant-plague-list
+        refs: ["27:12"]
+        with_refs: ["Ps 78:43", "Ps 78:44"]
+        relation: echo
+        note: "tisʿi āyātin ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw û-môftāyw bi-śdēh Ṣōʿan: the wonders in Egypt as 'signs' (āyāt / ʾōtôt), counted differently in each list."
+      - with: hb-exod-7-staff-swallows-staffs
+        motif: contest-with-court-magicians
+        refs: ["27:13"]
+        with_refs: ["Exod 7:11"]
+        relation: echo
+        note: "fa-lammā jāʾathum āyātunā mubṣiratan qālū hādhā siḥrun mubīnun ~ wa-yyiqrāʾ gam Parʿōh la-ḥăkhāmîm wə-la-mkhaššəfîm wa-yyaʿăśû gam hēm ... bə-lahăṭêhem kēn: Pharaoh's side treats the signs as magic; Exodus shows it by having the magicians copy them, the Quran by having Pharaoh's people call them 'clear sorcery'."
+      - with: hb-exod-7-plagues-blood-frogs-lice
+        motif: hardening-of-pharaohs-heart
+        refs: ["27:14"]
+        with_refs: ["Exod 8:15"]
+        relation: divergence
+        note: "Why Egypt refuses: Exod 8:15 the magicians admit ʾeṣbaʿ ʾĕlōhîm hîʾ, yet wa-yyeḥĕzaq lēv Parʿōh ... ka-ʾăšer dibber YHWH, the heart is hardened as God foretold; Q 27:14 wa-jaḥadū bihā wa-staiqanathā anfusuhum ẓulman wa-ʿuluwwan, they rejected the signs though inwardly convinced, out of wrongdoing and arrogance. Refusal by God's design becomes knowing, self-chosen denial."
+  - unit: quran-27-solomon-ants-hoopoe-sheba
+    checked: [hb-esth-1-vashti-deposed, hb-2chr-9-queen-of-sheba-and-solomons-glory, hb-lev-11-dietary-laws, hb-josh-2-rahab, hb-2kgs-21-manasseh-amon, hb-2kgs-20-hezekiah-illness-babylon, hb-1kgs-10-queen-of-sheba, hb-1kgs-5-dominion-wisdom, hb-prov-6-surety-ant-scoundrel, hb-prov-30-numerical-sayings]
+    matches:
+      - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
+        motif: queen-of-sheba-visit
+        refs: ["27:22", "27:23", "27:42"]
+        with_refs: ["2Chr 9:1"]
+        relation: parallel
+        note: "jiʾtuka min Sabaʾin bi-nabaʾin yaqīnin innī wajadtu mraʾatan tamlikuhum ~ û-malkat Šəvāʾ šāməʿâ ʾet šēmaʿ Šəlōmōh wat-tāvôʾ: a woman ruling Sheba (Sabaʾ / Šəvāʾ), a report (nabaʾ / šēmaʿ), and her coming to Solomon. The direction of the report is reversed: in Chronicles she hears of Solomon, in the Quran Solomon hears of her through the hoopoe."
+      - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
+        motif: queen-tests-king-with-riddles
+        refs: ["27:41", "27:42"]
+        with_refs: ["2Chr 9:1", "2Chr 9:2"]
+        relation: divergence
+        note: "Who tests whom: in Chronicles the queen comes to test Solomon with riddles (lənassôt ʾet Šəlōmōh bə-ḥîdôt) and he answers all (wə-lōʾ neʿlam dāvār miš-Šəlōmōh); in the Quran Solomon tests the queen: nakkirū lahā ʿarshahā nanẓur a-tahtadī, and she answers ka-annahu huwa."
+      - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
+        motif: caravan-of-spices-gold-gems
+        refs: ["27:35", "27:36", "27:37"]
+        with_refs: ["2Chr 9:1", "2Chr 9:9", "2Chr 9:12"]
+        relation: divergence
+        note: "The gifts: Chronicles has the queen bring 120 talents of gold, spices and gems, which Solomon accepts, and he gives her all she desires (nātan ... ʾet kol ḥefṣāh). In the Quran she sends a gift (hadiyya) to test him, and Solomon refuses it, a-tumiddūnani bi-mālin fa-mā ātāniya llāhu khayrun mimmā ātākum, and threatens to invade with armies they cannot resist."
+      - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
+        motif: breathless-at-royal-splendor
+        refs: ["27:44"]
+        with_refs: ["2Chr 9:3", "2Chr 9:4"]
+        relation: divergence
+        note: "The queen overwhelmed by Solomon's building: Chronicles has her see the house he built (wə-hab-bayit ʾăšer bānâ) until wə-lōʾ hāyâ ʿôd bāh rûaḥ; the Quran has the palace of smooth glass (ṣarḥun mumarradun min qawārīr) that she takes for deep water (ḥasibathu lujjatan) and uncovers her legs. Awe becomes a test she fails and then learns from. cf. Targum Sheni Esther 1:2 (glass floor), outside the HB."
+      - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
+        motif: foreign-ruler-blesses-israels-god
+        refs: ["27:44"]
+        with_refs: ["2Chr 9:8"]
+        relation: divergence
+        note: "The queen's last word: Chronicles has a blessing of Solomon's God, yəhî YHWH ʾĕlōhêkā bārûkh ʾăšer ḥāfēṣ bəkhā lə-tittəkhā ʿal kisʾô, 'your God', praised for Israel's king. The Quran has a conversion: rabbi innī ẓalamtu nafsī wa-aslamtu maʿa Sulaymāna lillāhi rabbi l-ʿālamīn, after the hoopoe reported that she and her people worshipped the sun (27:24). Chronicles never calls her an idolater."
+      - with: hb-2chr-9-queen-of-sheba-and-solomons-glory
+        motif: ivory-throne-six-steps-lions
+        refs: ["27:23", "27:38", "27:40"]
+        with_refs: ["2Chr 9:17"]
+        relation: divergence
+        note: "The great throne: Chronicles praises Solomon's own (wa-yyaʿaś ham-melekh kissēʾ šēn gādôl wa-yṣappēhû zāhāv ṭāhôr); in the Quran the great throne is the queen's (wa-lahā ʿarshun ʿaẓīmun), and Solomon has it carried to him in the blink of an eye by one with knowledge of the Book."
+      - with: hb-1kgs-10-queen-of-sheba
+        motif: foreigner-confesses-god-greatest
+        refs: ["27:44"]
+        with_refs: ["1Kgs 10:9"]
+        relation: divergence
+        note: "As in 2Chr 9:8: the Kings queen blesses 'YHWH your God' for loving Israel and setting Solomon on the throne of Israel; the Quran's queen submits with Solomon to the Lord of the worlds. A foreigner's praise of Israel's God becomes a conversion to the universal Lord."
+      - with: hb-1kgs-5-dominion-wisdom
+        motif: wise-king-speaks-of-plants-and-animals
+        refs: ["27:16", "27:19"]
+        with_refs: ["1Kgs 5:13"]
+        relation: divergence
+        note: "Solomon and the animals: 1Kgs wa-ydabbēr ʿal hab-bəhēmâ wə-ʿal hā-ʿôf wə-ʿal hā-remeś wə-ʿal had-dāgîm, he spoke about beasts and birds (wisdom about them); the Quran has ʿullimnā manṭiqa ṭ-ṭayri, he was taught the speech of birds, and he understands an ant and talks with a hoopoe. Knowledge about animals becomes conversation with them."
+      - with: hb-prov-30-numerical-sayings
+        motif: ant-stores-food-in-summer
+        refs: ["27:18"]
+        with_refs: ["Prov 30:25"]
+        relation: echo
+        note: "qālat namlatun yā ayyuhā n-namlu dkhulū masākinakum ~ han-nəmālîm ʿam lōʾ ʿāz wa-yyākhînû vaq-qayiṣ laḥmām: the ants as a 'people' (ʿam / namlu addressed as a community) who are small but wise; Proverbs praises their foresight, the Quran's ant protects her people from Solomon's army."
+      - with: hb-prov-6-surety-ant-scoundrel
+        motif: go-to-the-ant-sluggard
+        refs: ["27:18", "27:19"]
+        with_refs: ["Prov 6:6"]
+        relation: echo
+        note: "lēkh ʾel nəmālâ ʿāṣēl rəʾēh dərākhêhā wa-ḥăkhām ~ fa-tabassama ḍāḥikan min qawlihā: the wise ant, a model to learn from; in Proverbs the attributed author is Solomon, in the Quran it is Solomon who listens to an ant."
+      - with: hb-lev-11-dietary-laws
+        motif: hoopoe-named
+        refs: ["27:20"]
+        with_refs: ["Lev 11:19"]
+        relation: contrast
+        note: "al-hudhud ~ wə-ʾet had-dûkhîfat: the hoopoe appears in the HB only as an unclean bird not to be eaten; in the Quran it is Solomon's scout and envoy who knows what Solomon does not (aḥaṭtu bimā lam tuḥiṭ bihi)."
+      - with: hb-josh-2-rahab
+        motif: foreigner-confesses-israels-god
+        refs: ["27:44"]
+        with_refs: ["Josh 2:11"]
+        relation: echo
+        note: "aslamtu maʿa Sulaymāna lillāhi rabbi l-ʿālamīna ~ kî YHWH ʾĕlōhêkem hûʾ ʾĕlōhîm ba-ššāmayim mimmaʿal wə-ʿal hā-ʾāreṣ mittāḥat: a foreign woman confesses the God of heaven and earth after hearing of his power. Rahab says 'your God', the queen 'with Solomon, to the Lord of the worlds'."
+      - with: hb-2kgs-20-hezekiah-illness-babylon
+        motif: babylonian-embassy-shown-treasures
+        refs: ["27:35", "27:36"]
+        with_refs: ["2Kgs 20:12", "2Kgs 20:13"]
+        relation: contrast
+        note: "A foreign ruler's envoys with a gift: Merodach-baladan sends səfārîm û-minḥâ and Hezekiah welcomes them and proudly shows all his treasures (wa-yyarʾēm ʾet kol bêt nəkhōtōh), which brings the prophecy of their loss; the queen sends a hadiyya and Solomon scorns the wealth, mā ātāniya llāhu khayrun mimmā ātākum."
+      - with: hb-esth-1-vashti-deposed
+        motif: queen-consults-her-council
+        refs: ["27:32", "27:33"]
+        with_refs: ["Esth 1:13", "Esth 1:14"]
+        relation: echo
+        note: "yā ayyuhā l-malaʾu aftūnī fī amrī mā kuntu qāṭiʿatan amran ḥattā tashhadūni ~ wa-yyōʾmer ham-melekh la-ḥăkhāmîm yōdʿê hā-ʿittîm: a ruler consults the council before deciding on a crisis involving a queen; in Esther the king about the defiant Vashti, in the Quran the queen herself about Solomon's letter."
+  - unit: quran-27-salih-nine-plotters
+    checked: [hb-jer-42-43-flight-to-egypt, hb-isa-8-maher-shalal-and-stone-of-stumbling, hb-ezek-14-idols-in-heart-noah-daniel-job, hb-1kgs-18-carmel, hb-jer-11-plot-at-anathoth, hb-jer-18-plot-and-imprecation, hb-ps-7-oath-of-innocence]
+    matches:
+      - with: hb-1kgs-18-carmel
+        motif: troubler-of-israel
+        refs: ["27:47"]
+        with_refs: ["1Kgs 18:17", "1Kgs 18:18"]
+        relation: parallel
+        note: "qālū ṭṭayyarnā bika wa-bi-man maʿaka qāla ṭāʾirukum ʿinda llāhi bal antum qawmun tuftanūna ~ ha-ʾattâ zeh ʿōkhēr Yiśrāʾēl ... lōʾ ʿākhartî ʾet Yiśrāʾēl kî ʾim ʾattâ: the people blame the prophet for their misfortune, and he turns the charge back on them. Ahab says 'troubler' (ʿōkhēr), Thamūd use bird-augury language (iṭṭayyara, 'to take an ill omen'); Elijah blames their apostasy, Ṣāliḥ says their omen is with God."
+      - with: hb-jer-11-plot-at-anathoth
+        motif: hometown-plots-against-prophet
+        refs: ["27:48", "27:49"]
+        with_refs: ["Jer 11:19", "Jer 11:21"]
+        relation: parallel
+        note: "wa-kāna fī l-madīnati tisʿatu rahṭin ... qālū taqāsamū bi-llāhi la-nubayyitannahu wa-ahlahu ~ wə-lōʾ yādaʿtî kî ʿālay ḥāšvû maḥăšāvôt ... wə-nikhrətennû mē-ʾereṣ ḥayyîm ... ʾanšê ʿĂnātôt ham-məvaqšîm ʾet nafšəkā: men of the prophet's own town secretly plot to kill him, and he does not know (lā yashʿurūn of the plotters / lōʾ yādaʿtî of the prophet); in both God reveals or overturns the plot and destroys the plotters (Jer 11:22, Q 27:51)."
+      - with: hb-jer-18-plot-and-imprecation
+        motif: nine-conspirators-plot-night-attack
+        refs: ["27:49", "27:50"]
+        with_refs: ["Jer 18:18"]
+        relation: echo
+        note: "taqāsamū bi-llāhi ... wa-makarū makran ~ ləkhû wə-naḥšəvâ ʿal Yirmyāhû maḥăšāvôt: conspirators exhort one another to plot against the prophet (taqāsamū ~ ləkhû wə-naḥšəvâ)."
+      - with: hb-ps-7-oath-of-innocence
+        motif: divine-counter-plot
+        refs: ["27:50", "27:51"]
+        with_refs: ["Ps 7:16", "Ps 7:17"]
+        relation: echo
+        note: "wa-makarū makran wa-makarnā makran ... fa-nẓur kayfa kāna ʿāqibatu makrihim ~ bôr kārâ wa-yyaḥpərēhû wa-yyippōl bə-šaḥat yifʿāl yāšûv ʿămālô və-rōʾšô: the plot falls back on the plotters. In the Psalm their own deed returns on them, in the Quran God plots against them (makarnā)."
+  - unit: quran-27-lot
+    checked: [hb-gen-19-sodom-destroyed, hb-gen-6-flood, hb-lam-5-prayer-remember, hb-ezek-14-idols-in-heart-noah-daniel-job]
+    matches:
+      - with: hb-gen-19-sodom-destroyed
+        motif: wife-turned-to-pillar-of-salt
+        refs: ["27:57"]
+        with_refs: ["Gen 19:17", "Gen 19:26"]
+        relation: divergence
+        note: "Who decides the wife's fate: Genesis gives her own act, the warning ʾal tabbîṭ ʾaḥărêkā and wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ; the Quran gives God's decree, illā mraʾatahu qaddarnāhā mina l-ghābirīna, 'we decreed her among those who stayed behind', with no looking back and no salt."
+      - with: hb-gen-19-sodom-destroyed
+        motif: lot-threatened-with-expulsion
+        refs: ["27:56"]
+        with_refs: ["Gen 19:9"]
+        relation: divergence
+        note: "akhrijū āla Lūṭin min qaryatikum innahum unāsun yataṭahharūna ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ šāfôṭ: the people turn on Lot. Genesis mocks him as a sojourner who plays judge; the Quran mocks his family as 'people who keep themselves pure' and orders them expelled."
+      - with: hb-gen-19-sodom-destroyed
+        motif: lot-condemns-lust-for-males
+        refs: ["27:54", "27:55"]
+        with_refs: ["Gen 19:7", "Gen 19:8"]
+        relation: divergence
+        note: "Lot's protest: Genesis has ʾal nāʾ ʾaḥay tārēʿû, followed by his offer of his two virgin daughters instead (hōṣîʾâ nāʾ ʾethen ʾălêkem); the Quran has a preacher's rebuke, a-taʾtūna l-fāḥishata wa-antum tubṣirūna ... ar-rijāla shahwatan min dūni n-nisāʾi, and no offer of the daughters."
+      - with: hb-gen-19-sodom-destroyed
+        motif: fire-and-brimstone-from-heaven
+        refs: ["27:58"]
+        with_refs: ["Gen 19:24"]
+        relation: parallel
+        note: "wa-amṭarnā ʿalayhim maṭaran ~ wa-YHWH himṭîr ʿal Sədōm ... gofrît wā-ʾēš: the same verb of 'raining' destruction."
+  - unit: quran-27-is-there-a-god-with-god
+    checked: [hb-ps-87-zion-birthplace, hb-ps-69-deep-waters, hb-ps-56-tears-in-bottle, hb-job-9-job-cannot-sue-god, hb-ps-18-storm-theophany, hb-ps-104-creation-hymn, hb-isa-44-idol-from-half-a-log, hb-deut-32-song-of-moses, hb-deut-29-covenant-moab, hb-job-38-whirlwind-creation]
+    matches:
+      - with: hb-deut-32-song-of-moses
+        motif: is-there-a-god-with-god-litany
+        refs: ["27:60", "27:61", "27:62", "27:63", "27:64"]
+        with_refs: ["Deut 32:39"]
+        relation: parallel
+        note: "a-ilāhun maʿa llāhi ~ wə-ʾên ʾĕlōhîm ʿimmādî: 'a god with God' answered by 'there is no god with me' (maʿa ~ ʿim). Deut states it once in God's voice; the Quran asks it five times as a refrain after each sign."
+      - with: hb-isa-44-idol-from-half-a-log
+        motif: strict-monotheism-none-besides
+        refs: ["27:60", "27:64"]
+        with_refs: ["Isa 44:8"]
+        relation: parallel
+        note: "a-ilāhun maʿa llāhi ... qul hātū burhānakum in kuntum ṣādiqīna ~ ha-yēš ʾĕlôah mibbalʿāday wə-ʾên ṣûr bal yādāʿtî ... wə-ʾattem ʿēday: the rhetorical 'is there a god besides / with God?', set in a trial (Isaiah's witnesses, the Quran's 'bring your proof')."
+      - with: hb-ps-18-storm-theophany
+        motif: god-answers-the-distressed
+        refs: ["27:62"]
+        with_refs: ["Ps 18:7"]
+        relation: parallel
+        note: "amman yujību l-muḍṭarra idhā daʿāhu wa-yakshifu s-sūʾa ~ ba-ṣṣar lî ʾeqrāʾ YHWH ... yišmaʿ mē-hêkhālô qôlî: God hears the one in distress (muḍṭarr / ṣar lî) who calls."
+      - with: hb-ps-104-creation-hymn
+        motif: earth-on-pillars
+        refs: ["27:61"]
+        with_refs: ["Ps 104:5", "Ps 104:10"]
+        relation: echo
+        note: "amman jaʿala l-arḍa qarāran wa-jaʿala khilālahā anhāran wa-jaʿala lahā rawāsiya ~ yāsad ʾereṣ ʿal məkhônêhā bal timmôṭ ... ham-məšallēaḥ maʿyānîm ban-nəḥālîm bên hārîm yəhallēkhûn: a stable earth (qarār / bal timmôṭ), with rivers flowing among the mountains."
+      - with: hb-job-38-whirlwind-creation
+        motif: rain-on-uninhabited-desert
+        refs: ["27:60"]
+        with_refs: ["Job 38:25", "Job 38:26", "Job 38:27"]
+        relation: echo
+        note: "amman ... anzala lakum mina s-samāʾi māʾan fa-anbatnā bihi ḥadāʾiqa ... mā kāna lakum an tunbitū shajarahā ~ mî fillag laš-šeṭef təʿālâ ... ləhamṭîr ʿal ʾereṣ lōʾ ʾîš ... û-lhaṣmîaḥ môṣāʾ dešeʾ: 'who' questions about rain and growth that humans cannot cause; Job's rain falls where no human is, the Quran's gardens grow for humans who could not grow them."
+      - with: hb-deut-29-covenant-moab
+        motif: secret-things-belong-to-god
+        refs: ["27:65"]
+        with_refs: ["Deut 29:28"]
+        relation: parallel
+        note: "qul lā yaʿlamu man fī s-samāwāti wa-l-arḍi l-ghayba illā llāhu ~ han-nistārōt la-YHWH ʾĕlōhênû wə-han-niglōt lānû û-lə-vānênû: hidden knowledge belongs to God alone. Deut gives the revealed things to Israel to do the Torah; the Quran ties the hidden things to the time of the resurrection (ayyāna yubʿathūn)."
+      - with: hb-ps-56-tears-in-bottle
+        motif: heavenly-book-of-life
+        refs: ["27:75"]
+        with_refs: ["Ps 56:9"]
+        relation: echo
+        note: "wa-mā min ghāʾibatin fī s-samāʾi wa-l-arḍi illā fī kitābin mubīnin ~ hălōʾ bə-sifrātekā: what is hidden is written in God's book."
+      - with: hb-ps-87-zion-birthplace
+        motif: god-registers-peoples
+        refs: ["27:75"]
+        with_refs: ["Ps 87:6"]
+        relation: echo
+        note: "illā fī kitābin mubīnin ~ YHWH yispōr bi-khtôv ʿammîm: God's written record; the Psalm's register lists peoples by birthplace, the Quran's book holds everything hidden."
+  - unit: quran-27-israel-beast-trumpet
+    checked: [hb-dan-7-four-beasts-son-of-man, hb-exod-19-sinai-theophany, hb-jer-19-broken-flask, hb-exod-24-covenant-ratification, hb-isa-6-throne-vision, hb-ps-132-davids-oath-ark]
+    matches:
+      - with: hb-dan-7-four-beasts-son-of-man
+        motif: little-horn-boastful-mouth
+        refs: ["27:82"]
+        with_refs: ["Dan 7:8", "Dan 7:17"]
+        relation: divergence
+        note: "An end-time beast that speaks: Daniel's beasts rise from the sea (and 'kings arising from the earth', yəqûmûn min ʾarʿāʾ, 7:17), and the horn has a mouth speaking great things (û-fum məmallil ravrəvān) against the Most High; the Quran's dābbatan mina l-arḍi tukallimuhum speaks for God, telling people they did not believe God's signs. The beast's speech moves from blasphemy to indictment."
+      - with: hb-dan-7-four-beasts-son-of-man
+        motif: court-sits-books-opened
+        refs: ["27:83", "27:84", "27:85"]
+        with_refs: ["Dan 7:10"]
+        relation: echo
+        note: "wa-yawma naḥshuru min kulli ummatin fawjan ... wa-waqaʿa l-qawlu ʿalayhim ~ dînāʾ yətiv wə-sifrîn pətîḥû: an end-time judgment assembly; Daniel judges the beast-kingdoms, the Quran a contingent from every nation."
+      - with: hb-exod-19-sinai-theophany
+        motif: theophany-thunder-lightning-trumpet
+        refs: ["27:87", "27:88"]
+        with_refs: ["Exod 19:16", "Exod 19:18", "Exod 19:19"]
+        relation: divergence
+        note: "A horn-blast that makes all tremble: Exodus has wə-qōl šōfār ḥāzāq məʾōd wa-yyeḥĕrad kol hā-ʿām ... wa-yyeḥĕrad kol hā-hār məʾōd at Sinai, the revelation of the law to one people at one mountain; the Quran has yawma yunfakhu fī ṣ-ṣūri fa-faziʿa man fī s-samāwāti wa-man fī l-arḍi at the end, for everyone, with the mountains passing like clouds (tamurru marra s-saḥāb)."
+      - with: hb-isa-6-throne-vision
+        motif: commission-to-harden-hearts
+        refs: ["27:80", "27:81"]
+        with_refs: ["Isa 6:10"]
+        relation: divergence
+        note: "innaka lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾa ... wa-mā anta bi-hādī l-ʿumyi ~ hašmēn lēv hā-ʿām haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ: deaf ears and blind eyes that the prophet's word cannot reach. Isaiah is commissioned to cause the deafness; the Quran's prophet is told he cannot cure it."
+      - with: hb-ps-132-davids-oath-ark
+        motif: zion-chosen-as-gods-resting-place
+        refs: ["27:91"]
+        with_refs: ["Ps 132:13", "Ps 132:14"]
+        relation: divergence
+        note: "God's chosen city: kî vāḥar YHWH bə-Ṣiyyôn ʾiwwāh lə-môšāv lô ~ innamā umirtu an aʿbuda rabba hādhihi l-baldati lladhī ḥarramahā wa-lahu kullu shayʾin: the Lord tied to a sacred town. In the Psalm it is Zion, God's dwelling; in the Quran it is Mecca, unnamed ('this town'), which God made sacred but does not dwell in, for 'everything is his'."

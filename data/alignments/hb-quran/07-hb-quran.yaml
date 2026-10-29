@@ -1354,3 +1354,762 @@ reviewed:
         with_refs: ["Exod 7:11"]
         relation: echo
         note: "Pharaoh treats Moses' sign as sorcery: wa-yiqrāʾ gam parʿōh la-ḥăḵāmîm wə-lam-ḵaššəp̄îm wa-yyaʿăśû ḡam hēm ḥarṭummê miṣrayim bə-lahăṭêhem kēn vs. fa-tawallā bi-ruknihi wa-qāla sāḥirun aw majnūn. Exodus implies it by having his sorcerers copy the sign; the Quran's Pharaoh says it outright."
+  - unit: quran-51-dhariyat-flee-to-god
+    checked: [hb-ps-50-divine-lawsuit, hb-job-9-job-cannot-sue-god, hb-jer-10-maker-of-all, hb-isa-45-cyrus-the-anointed, hb-isa-40-comfort-my-people, hb-deut-32-song-of-moses, hb-jer-29-letter-to-exiles, hb-ps-139-searched-and-known, hb-isa-43-you-are-my-witnesses]
+    matches:
+      - with: hb-ps-50-divine-lawsuit
+        motif: god-does-not-eat-flesh-of-bulls
+        refs: ["51:56", "51:57", "51:58"]
+        with_refs: ["Ps 50:12", "Ps 50:13"]
+        relation: parallel
+        note: "God needs no food from his worshippers: ʾim ʾerʿaḇ lōʾ ʾōmar lāḵ ... ha-ʾôḵal bəśar ʾabbîrîm wə-ḏam ʿattûḏîm ʾeštê vs. mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūn, inna llāha huwa r-razzāq. The psalm argues against sacrifice as feeding God, then asks for thanksgiving (zəḇaḥ tôḏâ, 50:14); the Quran makes God the provider (razzāq) and worship ('ibāda) the purpose of creation."
+      - with: hb-deut-32-song-of-moses
+        motif: god-does-not-eat-flesh-of-bulls
+        refs: ["51:57"]
+        with_refs: ["Deut 32:37", "Deut 32:38"]
+        relation: contrast
+        note: "Gods who feed on offerings vs. God who wants no food: ʾê ʾĕlōhêmô ... ʾăšer ḥēleḇ zəḇāḥêmô yōʾḵēlû yištû yên nəsîḵām (where are their gods who ate the fat of their sacrifices and drank their libations?) vs. wa-mā urīdu an yuṭʿimūn."
+      - with: hb-isa-45-cyrus-the-anointed
+        motif: sky-built-with-might-and-expanding
+        refs: ["51:47"]
+        with_refs: ["Isa 45:12"]
+        relation: parallel
+        note: "Heaven made 'with hands': ʾănî yāḏay nāṭû šāmayim wə-ḵol ṣəḇāʾām ṣiwwêṯî vs. wa-s-samāʾa banaynāhā bi-aydin wa-innā la-mūsiʿūn (aydin, read 'with might', is also the plural of 'hand'; yāḏay = my hands). Isaiah's God stretched (nāṭû) the heavens; the Quran's built them and 'widens' them (mūsiʿūn). Modern 'expanding universe' readings of mūsiʿūn are later; lead on the hands/might wording."
+      - with: hb-jer-10-maker-of-all
+        motif: god-alone-stretches-heavens
+        refs: ["51:47", "51:48"]
+        with_refs: ["Jer 10:12"]
+        relation: parallel
+        note: "ʿōśēh ʾereṣ bə-ḵōḥô mēḵîn tēḇēl bə-ḥoḵmāṯô û-ḇi-ṯḇûnāṯô nāṭâ šāmāyim vs. wa-s-samāʾa banaynāhā bi-aydin ... wa-l-arḍa farashnāhā fa-niʿma l-māhidūn. Same pair, heaven and earth, by power (kōaḥ / ayd); Jeremiah sets it against the idols (10:11), the Quran against 'another god' (51:51)."
+      - with: hb-job-9-job-cannot-sue-god
+        motif: god-alone-stretches-heavens
+        refs: ["51:47"]
+        with_refs: ["Job 9:8"]
+        relation: echo
+        note: "nōṭeh šāmayim ləḇaddô wə-dôrēḵ ʿal bāmŏṯê yām vs. wa-s-samāʾa banaynāhā bi-aydin. Job cites it as overwhelming power before which he cannot argue his case; the Quran as a sign calling to remembrance (laʿallakum tadhakkarūn, 51:49)."
+      - with: hb-ps-139-searched-and-known
+        motif: flee-to-god
+        refs: ["51:50"]
+        with_refs: ["Ps 139:7"]
+        relation: divergence
+        note: "Fleeing and God. Psalm: ʾānâ ʾēlēḵ mē-rûḥeḵā wə-ʾānâ mip-pāneyḵā ʾeḇrāḥ (where could I flee from your presence?): no escape from God. Quran: fa-firrū ilā llāhi innī lakum minhu nadhīrun mubīn: flee to God, as the only refuge. The psalm's flight 'from' becomes a flight 'to'."
+      - with: hb-jer-29-letter-to-exiles
+        motif: prophets-always-called-sorcerer-or-madman
+        refs: ["51:52", "51:53"]
+        with_refs: ["Jer 29:26"]
+        relation: echo
+        note: "A standing label for prophets: lə-ḵol ʾîš məšuggāʿ û-miṯnabbēʾ wə-nāṯattâ ʾōṯô ʾel ham-mahpeḵeṯ (every madman who prophesies, put him in the stocks; Shemaiah's letter against Jeremiah) vs. mā atā lladhīna min qablihim min rasūlin illā qālū sāḥirun aw majnūn; a-tawāṣaw bihi (as if they had bequeathed it to one another)."
+      - with: hb-isa-43-you-are-my-witnesses
+        motif: jinn-and-humans-created-to-worship
+        refs: ["51:56"]
+        with_refs: ["Isa 43:7", "Isa 43:21"]
+        relation: divergence
+        note: "The purpose of creation. Isaiah: kōl han-niqrāʾ ḇi-šmî wə-li-ḵḇôḏî bərāʾṯîw; ʿam zû yāṣartî lî təhillāṯî yəsappērû (those called by my name, the people I formed to tell my praise). Quran: wa-mā khalaqtu l-jinna wa-l-insa illā li-yaʿbudūn. Isaiah speaks of Israel created for God's glory; the Quran of all jinn and humans created for worship."
+  - unit: quran-52-tur-oaths-and-judgment
+    checked: [hb-isa-34-edom-and-lilith, hb-ezek-2-3-commission-eaten-scroll, hb-lev-25-sabbatical-and-jubilee, hb-dan-9-prayer-seventy-weeks, hb-isa-30-rahab-who-sits-still, hb-joel-4-valley-of-jehoshaphat, hb-exod-32-tablets-broken-levites, hb-ps-11-flee-like-bird]
+    matches:
+      - with: hb-exod-32-tablets-broken-levites
+        motif: oath-by-the-mount-and-inscribed-book
+        refs: ["52:1", "52:2", "52:3"]
+        with_refs: ["Exod 32:15", "Exod 32:16"]
+        relation: divergence
+        note: "The Mount and the writing that came from it. Exodus: wa-yyēreḏ mōšeh min hā-hār û-šənê luḥōṯ hā-ʿēḏuṯ bə-yāḏô ... wə-ham-miḵtāḇ miḵtaḇ ʾĕlōhîm hûʾ ḥārûṯ ʿal hal-luḥōṯ (God's writing engraved on stone tablets). Quran: wa-ṭ-ṭūri wa-kitābin masṭūrin fī raqqin manshūr (by the Mount, and a book written on unrolled parchment). Stone tablets (luḥōṯ ʾeḇen) become parchment (raqq); the Mount and the book are now objects of an oath."
+      - with: hb-ezek-2-3-commission-eaten-scroll
+        motif: oath-by-the-mount-and-inscribed-book
+        refs: ["52:2", "52:3"]
+        with_refs: ["Ezek 2:9", "Ezek 2:10"]
+        relation: echo
+        note: "A written scroll spread open: wə-hinnēh ḇô məḡillaṯ sēp̄er wa-yyip̄rōś ʾôṯāh ləp̄ānay wə-hîʾ ḵəṯûḇâ pānîm wə-ʾāḥôr vs. wa-kitābin masṭūrin fī raqqin manshūr (p-r-ś 'spread' ~ n-sh-r 'unroll'). Ezekiel's scroll carries laments and woe for him to eat; the Quran's is sworn by as the guarantee of the coming punishment (52:7)."
+      - with: hb-lev-25-sabbatical-and-jubilee
+        motif: law-given-on-mount-sinai
+        refs: ["52:1"]
+        with_refs: ["Lev 25:1"]
+        relation: echo
+        note: "wa-yḏabbēr YHWH ʾel mōšeh bə-har sînay vs. wa-ṭ-ṭūr: the Mount as the place of revelation, named in Leviticus, sworn by in the Quran (cf. ṭūr sīnīn, Q 95:2)."
+      - with: hb-ps-11-flee-like-bird
+        motif: frequented-house-heavenly-temple
+        refs: ["52:4", "52:5"]
+        with_refs: ["Ps 11:4"]
+        relation: echo
+        note: "A sanctuary in heaven: YHWH bə-hêḵal qoḏšô YHWH baš-šāmayim kisʾô vs. wa-l-bayti l-maʿmūri wa-s-saqfi l-marfūʿ. The psalm's holy temple stands parallel to the heavenly throne; the Quran's 'frequented House' with the 'raised roof' (the sky). cf. b. Hagigah 12b, Test. Levi 3 for a heavenly temple; lead only."
+      - with: hb-isa-34-edom-and-lilith
+        motif: sky-heaves-mountains-move
+        refs: ["52:9", "52:10"]
+        with_refs: ["Isa 34:4"]
+        relation: echo
+        note: "The sky undone at the judgment: wə-nāmaqqû kol ṣəḇāʾ haš-šāmayim wə-nāḡōllû ḵas-sēp̄er haš-šāmāyim (the heavens rolled up like a scroll) vs. yawma tamūru s-samāʾu mawran wa-tasīru l-jibālu sayrā. Isaiah's sky is rolled up like a book; in Q 52 a book is unrolled (52:3) and the sky heaves."
+      - with: hb-joel-4-valley-of-jehoshaphat
+        motif: sky-heaves-mountains-move
+        refs: ["52:9"]
+        with_refs: ["Joel 4:15", "Joel 4:16"]
+        relation: echo
+        note: "wə-rāʿăšû šāmayim wā-ʾāreṣ (heaven and earth shake) when YHWH roars from Zion vs. yawma tamūru s-samāʾu mawran. Joel adds a refuge for Israel (wa-YHWH maḥăseh lə-ʿammô); the Quran a woe on the deniers (fa-waylun yawmaʾidhin li-l-mukadhdhibīn)."
+  - unit: quran-52-tur-garden-and-challenge
+    checked: [hb-gen-28-jacobs-ladder, hb-ps-135-hymn-of-election, hb-mal-3-tithes, hb-jer-51-oracle-babylon-2, hb-job-1-prologue-first-test, hb-amos-8-summer-fruit, hb-job-38-whirlwind-creation, hb-deut-18-levites-prophet, hb-isa-65-new-heavens-new-earth, hb-prov-20-sayings]
+    matches:
+      - with: hb-gen-28-jacobs-ladder
+        motif: dream-ladder-to-heaven
+        refs: ["52:38"]
+        with_refs: ["Gen 28:12"]
+        relation: divergence
+        note: "The same word for a ladder to heaven: wə-hinnēh sullām muṣṣāḇ ʾarṣâ wə-rōʾšô maggîaʿ haš-šāmāyəmâ wə-hinnēh malʾăḵê ʾĕlōhîm ʿōlîm wə-yōrəḏîm bô vs. am lahum sullamun yastamiʿūna fīhi fa-l-yaʾti mustamiʿuhum bi-sulṭānin mubīn (sullām / sullam). In Genesis the ladder is God's gift in a dream, with angels going up and down; in the Quran it is a sarcastic challenge: do the deniers have a ladder from which to eavesdrop on heaven?"
+      - with: hb-job-38-whirlwind-creation
+        motif: storehouses-of-snow-and-hail
+        refs: ["52:37"]
+        with_refs: ["Job 38:22", "Job 38:23"]
+        relation: parallel
+        note: "A rhetorical challenge about God's treasuries: ha-ḇāʾṯā ʾel ʾōṣərôṯ šeleḡ wə-ʾōṣərôṯ bārāḏ tirʾeh vs. am ʿindahum khazāʾinu rabbika am humu l-muṣayṭirūn. Both are part of a long run of challenging questions (Job 38's mî ... / hă-; Q 52:35-43's eleven am ...?). Job's questions humble a sufferer; the Quran's corner the deniers."
+      - with: hb-job-38-whirlwind-creation
+        motif: created-from-nothing-or-self-created
+        refs: ["52:35", "52:36"]
+        with_refs: ["Job 38:4"]
+        relation: echo
+        note: "ʾêp̄ōh hāyîṯā bə-yāsəḏî ʾāreṣ haggēḏ ʾim yāḏaʿtā ḇînâ vs. am khuliqū min ghayri shayʾin am humu l-khāliqūn; am khalaqū s-samāwāti wa-l-arḍ. Job is asked if he was present at creation; the deniers are asked if they created themselves or the world."
+      - with: hb-deut-18-levites-prophet
+        motif: prophet-not-soothsayer-or-madman-or-poet
+        refs: ["52:29", "52:30"]
+        with_refs: ["Deut 18:14", "Deut 18:15"]
+        relation: parallel
+        note: "The prophet set apart from diviners: kî hag-gôyim hāʾēlleh ... ʾel məʿōnənîm wə-ʾel qōsəmîm yišmāʿû wə-ʾattâ lōʾ ḵēn ... nāḇîʾ ... yāqîm ləḵā vs. fa-dhakkir fa-mā anta bi-niʿmati rabbika bi-kāhinin wa-lā majnūn; am yaqūlūna shāʿir. Deuteronomy distinguishes Israel's prophet from the nations' soothsayers; the Quran defends the Prophet against being taken for one (kāhin)."
+      - with: hb-isa-65-new-heavens-new-earth
+        motif: offspring-joined-with-parents-in-paradise
+        refs: ["52:21"]
+        with_refs: ["Isa 65:23"]
+        relation: echo
+        note: "The blessed together with their descendants: kî zeraʿ bərûḵê YHWH hēmmâ wə-ṣeʾĕṣāʾêhem ʾittām vs. wa-lladhīna āmanū wa-ttabaʿathum dhurriyyatuhum bi-īmānin alḥaqnā bihim dhurriyyatahum (zeraʿ ~ dhurriyya). Isaiah: the descendants live with them in the renewed Jerusalem; the Quran: believing offspring are joined to them in the Garden, provided they followed in faith, and each is pledged for his own deeds (kullu mriʾin bi-mā kasaba rahīn)."
+      - with: hb-prov-20-sayings
+        motif: cup-without-idle-talk-or-sin
+        refs: ["52:23"]
+        with_refs: ["Prov 20:1"]
+        relation: contrast
+        note: "Wine and its effects: lēṣ hay-yayin hōmeh šēḵār wə-ḵol šōḡeh bô lōʾ yeḥkām (wine is a mocker, strong drink a brawler) vs. yatanāzaʿūna fīhā kaʾsan lā laghwun fīhā wa-lā taʾthīm (a cup with no idle talk and no sin). The Quran's heavenly cup lacks just the faults Proverbs gives earthly wine."
+      - with: hb-jer-51-oracle-babylon-2
+        motif: cup-without-idle-talk-or-sin
+        refs: ["52:23"]
+        with_refs: ["Jer 51:7"]
+        relation: contrast
+        note: "kôs zāhāḇ bāḇel bə-yaḏ YHWH məšakkereṯ kol hā-ʾāreṣ ... ʿal kēn yiṯhōləlû ḡôyim (a golden cup that makes the nations mad) vs. kaʾsan lā laghwun fīhā wa-lā taʾthīm. A cup of judgment that maddens, against a cup of reward that harms no one."
+      - with: hb-mal-3-tithes
+        motif: heavenly-storehouse-of-rain
+        refs: ["52:37"]
+        with_refs: ["Mal 3:10"]
+        relation: echo
+        note: "hāḇîʾû ʾeṯ kol ham-maʿăśēr ʾel bêṯ hā-ʾôṣār ... ʾim lōʾ ʾep̄taḥ lāḵem ʾēṯ ʾărubbôṯ haš-šāmayim (bring the tithe to the storehouse; I will open the windows of heaven) vs. am ʿindahum khazāʾinu rabbik. Malachi: men fill God's earthly storehouse and he opens heaven's; Quran: men hold none of the Lord's treasuries."
+      - with: hb-ps-135-hymn-of-election
+        motif: heavenly-storehouse-of-rain
+        refs: ["52:37"]
+        with_refs: ["Ps 135:7"]
+        relation: echo
+        note: "bərāqîm lam-māṭār ʿāśâ môṣēʾ rûaḥ mē-ʾôṣərôṯâw vs. am ʿindahum khazāʾinu rabbik: the storehouses (ʾôṣārôṯ / khazāʾin) are God's. The psalm sets them against the idols that cannot act (135:15-17)."
+  - unit: quran-53-najm-vision-and-lote-tree
+    checked: [hb-ezek-1-chariot-throne, hb-prov-15-sayings, hb-prov-13-sayings, hb-prov-11-sayings, hb-job-26-hymn-to-cosmic-power, hb-hab-3-prayer-theophany, hb-exod-24-covenant-ratification, hb-dan-9-prayer-seventy-weeks, hb-num-16-korah, hb-jer-23-against-prophets, hb-gen-2-eden-adam-woman]
+    matches:
+      - with: hb-dan-9-prayer-seventy-weeks
+        motif: mighty-one-on-highest-horizon
+        refs: ["53:5", "53:6", "53:7", "53:8", "53:9", "53:10"]
+        with_refs: ["Dan 9:21", "Dan 9:22"]
+        relation: echo
+        note: "A heavenly being flies down to a praying man to instruct him: wə-hā-ʾîš gaḇrîʾēl ... muʿāp̄ bîʿāp̄ nōḡēaʿ ʾēlay ... wa-yyāḇen wa-yḏabbēr ʿimmî ... yāṣāʾṯî lə-haśkîləḵā ḇînâ vs. ʿallamahu shadīdu l-quwā dhū mirratin fa-stawā wa-huwa bi-l-ufuqi l-aʿlā thumma danā fa-tadallā ... fa-awḥā ilā ʿabdihi mā awḥā. Daniel names him Gabriel; Q 53 does not name the 'mighty in power' (tradition identifies him as Jibrīl, cf. Q 2:97). Daniel's angel explains a vision; the Quran's figure transmits revelation (waḥy)."
+      - with: hb-ezek-1-chariot-throne
+        motif: greatest-signs-of-lord-seen
+        refs: ["53:9", "53:11", "53:18"]
+        with_refs: ["Ezek 1:26", "Ezek 1:28"]
+        relation: echo
+        note: "A prophet's vision of the divine described with deliberate distance. Ezekiel: dəmûṯ kə-marʾēh ʾāḏām ... kə-marʾēh haq-qešeṯ ʾăšer yihyeh ḇe-ʿānān ... hûʾ marʾēh dəmûṯ kəḇôḏ YHWH wā-ʾerʾeh wā-ʾeppōl ʿal pānāy (the likeness of the appearance of the glory, framed by a bow in the cloud). Quran: fa-kāna qāba qawsayni aw adnā ... mā kadhaba l-fuʾādu mā raʾā ... la-qad raʾā min āyāti rabbihi l-kubrā. Bow (qešeṯ / qaws, cognate) and seeing in both; Ezekiel falls on his face, while the Prophet's 'sight did not swerve' (mā zāgha l-baṣaru). The bow link is a lead only: the Quran's 'two bow-lengths' is a measure of distance."
+      - with: hb-exod-24-covenant-ratification
+        motif: elders-see-god-sapphire-pavement
+        refs: ["53:11", "53:13"]
+        with_refs: ["Exod 24:10", "Exod 24:11"]
+        relation: divergence
+        note: "What was seen. Exodus says plainly that the elders saw God: wa-yyirʾû ʾēṯ ʾĕlōhê yiśrāʾēl wə-ṯaḥaṯ raḡlâw kə-maʿăśēh liḇnaṯ has-sappîr ... wa-yyeḥĕzû ʾeṯ hā-ʾĕlōhîm wa-yyōʾḵəlû wa-yyištû. The Quran leaves the object unnamed: mā kadhaba l-fuʾādu mā raʾā; wa-la-qad raʾāhu nazlatan ukhrā (he saw him at another descent), and the exegetes dispute whether 'him' is God or Gabriel. Exodus' open sight of God has no plain counterpart in the Quran."
+      - with: hb-num-16-korah
+        motif: prophet-speaks-not-from-desire
+        refs: ["53:2", "53:3", "53:4"]
+        with_refs: ["Num 16:28"]
+        relation: parallel
+        note: "The prophet's words are not his own: bə-zōʾṯ tēḏəʿûn kî YHWH šəlāḥanî laʿăśôṯ ʾēṯ kol ham-maʿăśîm hāʾēlleh kî lōʾ mil-libbî vs. mā ḍalla ṣāḥibukum wa-mā ghawā wa-mā yanṭiqu ʿani l-hawā in huwa illā waḥyun yūḥā. Moses' 'not from my heart' (lōʾ mil-libbî) ~ 'not from desire' (ʿani l-hawā); Moses then calls for a sign (the earth swallowing Korah), the Quran for trust in the vision."
+      - with: hb-jer-23-against-prophets
+        motif: prophet-speaks-not-from-desire
+        refs: ["53:3", "53:4"]
+        with_refs: ["Jer 23:16"]
+        relation: contrast
+        note: "The false prophet does speak from himself: ḥăzôn libbām yəḏabbērû lōʾ mip-pî YHWH vs. wa-mā yanṭiqu ʿani l-hawā in huwa illā waḥyun yūḥā. Jeremiah's criterion for false prophecy is exactly what the Quran denies of the Prophet."
+      - with: hb-gen-2-eden-adam-woman
+        motif: tree-of-life
+        refs: ["53:14", "53:15"]
+        with_refs: ["Gen 2:9"]
+        relation: echo
+        note: "A singular tree at the Garden: wə-ʿēṣ ha-ḥayyîm bə-ṯôḵ hag-gān vs. ʿinda sidrati l-muntahā ʿindahā jannatu l-maʾwā. The Quran's lote-tree marks the boundary (muntahā) beside the Garden of Refuge and is not said to give life; the tree-of-life reading is the tagger's, and the closer parallels are in 1 Enoch 24-25. Weak lead."
+  - unit: quran-53-najm-goddesses-and-scrolls
+    checked: [hb-ezek-18-sour-grapes, hb-deut-24-divorce-pledges-poor, hb-exod-20-decalogue, hb-ps-139-searched-and-known, hb-jonah-3-nineveh-repents, hb-jer-31-consolation-new-covenant, hb-1sam-2-song-of-hannah, hb-amos-5-lament-day-of-yhwh, hb-gen-19-sodom-destroyed, hb-zeph-1-day-of-wrath, hb-eccl-3-time-for-everything, hb-gen-26-isaac-in-gerar]
+    matches:
+      - with: hb-ezek-18-sour-grapes
+        motif: no-bearer-bears-anothers-burden
+        refs: ["53:38", "53:39"]
+        with_refs: ["Ezek 18:20"]
+        relation: parallel
+        note: "bēn lōʾ yiśśāʾ ba-ʿăwōn hā-ʾāḇ wə-ʾāḇ lōʾ yiśśāʾ ba-ʿăwōn hab-bēn vs. allā taziru wāziratun wizra ukhrā, wa-an laysa li-l-insāni illā mā saʿā. Same verb of bearing (nāśāʾ ~ wazara). Ezekiel names father and son; the Quran says 'any burdened soul', and adds that man has only what he strove for."
+      - with: hb-deut-24-divorce-pledges-poor
+        motif: no-bearer-bears-anothers-burden
+        refs: ["53:38"]
+        with_refs: ["Deut 24:16"]
+        relation: parallel
+        note: "lōʾ yûməṯû ʾāḇôṯ ʿal bānîm û-ḇānîm lōʾ yûməṯû ʿal ʾāḇôṯ ʾîš bə-ḥeṭʾô yûmāṯû vs. allā taziru wāziratun wizra ukhrā. Deuteronomy rules for human courts; the Quran states it for God's judgment, quoted as the content of 'the scrolls of Moses and Abraham' (53:36-37)."
+      - with: hb-exod-20-decalogue
+        motif: sins-visited-to-third-fourth-generation
+        refs: ["53:38"]
+        with_refs: ["Exod 20:5"]
+        relation: contrast
+        note: "Within the HB, the Decalogue says the opposite: pōqēḏ ʿăwōn ʾāḇōṯ ʿal bānîm ʿal šillēšîm wə-ʿal ribbēʿîm lə-śōnʾāy. The Quran, quoting 'what is in the scrolls of Moses', gives only the opposing principle: allā taziru wāziratun wizra ukhrā. It sides with Deut 24:16, Jer 31:30 and Ezek 18 against Exod 20:5 and 34:7."
+      - with: hb-jer-31-consolation-new-covenant
+        motif: individual-responsibility-for-sin
+        refs: ["53:38", "53:39", "53:40"]
+        with_refs: ["Jer 31:29", "Jer 31:30"]
+        relation: parallel
+        note: "lōʾ yōʾmərû ʿôḏ ʾāḇôṯ ʾāḵəlû ḇōser ... kî ʾim ʾîš ba-ʿăwōnô yāmûṯ vs. allā taziru wāziratun wizra ukhrā ... wa-anna saʿyahu sawfa yurā. Jeremiah puts individual responsibility in the future ('in those days'); the Quran says it was already in the old scrolls."
+      - with: hb-ps-139-searched-and-known
+        motif: embryo-woven-in-depths-of-earth
+        refs: ["53:32"]
+        with_refs: ["Ps 139:13", "Ps 139:15"]
+        relation: parallel
+        note: "God knew man in the womb and in the 'earth': tə-sukkēnî bə-ḇeṭen ʾimmî; ʾăšer ʿuśśêṯî ḇas-sēṯer ruqqamtî bə-ṯaḥtiyyôṯ ʾāreṣ vs. huwa aʿlamu bikum idh anshaʾakum mina l-arḍi wa-idh antum ajinnatun fī buṭūni ummahātikum fa-lā tuzakkū anfusakum. Both pair womb and earth. The psalm ends in praise and a plea to be searched; the Quran in a warning not to claim purity."
+      - with: hb-1sam-2-song-of-hannah
+        motif: god-kills-and-makes-alive
+        refs: ["53:43", "53:44"]
+        with_refs: ["1Sam 2:6"]
+        relation: parallel
+        note: "Polar pairs of what God does: YHWH mēmîṯ û-məḥayyeh môrîḏ šəʾôl wa-yyāʿal (and 2:7 poor/rich, low/high) vs. wa-annahu huwa aḍḥaka wa-abkā wa-annahu huwa amāta wa-aḥyā. Hannah's list of reversals celebrates a birth; the Quran's continues with creating the pairs from a drop (53:45-46)."
+      - with: hb-eccl-3-time-for-everything
+        motif: god-makes-laugh-and-weep
+        refs: ["53:43"]
+        with_refs: ["Eccl 3:4"]
+        relation: echo
+        note: "ʿēṯ liḇkôṯ wə-ʿēṯ liśḥôq vs. wa-annahu huwa aḍḥaka wa-abkā: weeping and laughter as a pair. Qohelet assigns them to times; the Quran to God as agent."
+      - with: hb-amos-5-lament-day-of-yhwh
+        motif: maker-of-pleiades-and-orion
+        refs: ["53:49"]
+        with_refs: ["Amos 5:8"]
+        relation: divergence
+        note: "God as lord of a named star, with a different star. Amos: ʿōśēh ḵîmâ û-ḵəsîl ... YHWH šəmô (maker of the Pleiades and Orion). Quran: wa-annahu huwa rabbu sh-shiʿrā (he is the Lord of Sirius). In both the star is claimed for the one God. Amos names constellations without known cult; the Quran names a star worshipped in Arabia, so the claim is also polemical."
+      - with: hb-gen-19-sodom-destroyed
+        motif: cities-overturned
+        refs: ["53:53", "53:54"]
+        with_refs: ["Gen 19:25"]
+        relation: parallel
+        note: "The 'overturned' city: wa-yyahăp̄ōḵ ʾeṯ he-ʿārîm hā-ʾēl wə-ʾēṯ kol hak-kikkār vs. wa-l-muʾtafikata ahwā fa-ghashshāhā mā ghashshā. Both use 'overturn' (h-p-k; ʾ-f-k, al-muʾtafika). The Quran names no city and has it 'hurled down' (ahwā) and covered."
+      - with: hb-zeph-1-day-of-wrath
+        motif: the-imminent-draws-near
+        refs: ["53:57", "53:58"]
+        with_refs: ["Zeph 1:14"]
+        relation: parallel
+        note: "qārôḇ yôm YHWH hag-gāḏôl qārôḇ û-mahēr məʾōḏ vs. azifati l-āzifa, laysa lahā min dūni llāhi kāshifa. Zephaniah repeats qārôḇ ('near'); the Quran repeats the root ʾ-z-f ('the imminent has drawn near')."
+      - with: hb-gen-26-isaac-in-gerar
+        motif: scrolls-of-abraham-and-moses
+        refs: ["53:36", "53:37"]
+        with_refs: ["Gen 26:5"]
+        relation: divergence
+        note: "Abraham with a written revelation. The HB gives Abraham no scroll, only obedience to God's laws: wa-yyišmōr mišmartî miṣwōṯay ḥuqqôṯay wə-ṯôrōṯāy. The Quran cites ṣuḥufi mūsā wa-ibrāhīma lladhī waffā (the scrolls of Moses and of Abraham who fulfilled), as one source with Moses. cf. the Testament and Apocalypse of Abraham and Sefer Yetzirah's attribution to Abraham, outside the HB."
+  - unit: quran-54-qamar-moon-split-and-noah
+    checked: [hb-joel-3-spirit-poured, hb-mal-3-tithes, hb-judg-7-gideons-three-hundred, hb-judg-6-midian-prophet, hb-joel-2-army-and-repentance, hb-isa-30-rahab-who-sits-still, hb-gen-6-flood, hb-gen-9-noahide-covenant]
+    matches:
+      - with: hb-gen-6-flood
+        motif: waters-from-above-and-below
+        refs: ["54:11", "54:12"]
+        with_refs: ["Gen 7:11"]
+        relation: parallel
+        note: "The flood from heaven and from the earth's springs, with cognate words: nibqəʿû kol maʿyənôṯ təhôm rabbâ wa-ʾărubbōṯ haš-šāmayim nip̄tāḥû vs. fa-fataḥnā abwāba s-samāʾi bi-māʾin munhamirin wa-fajjarnā l-arḍa ʿuyūnan (p-t-ḥ / f-t-ḥ 'opened'; maʿyənôṯ / ʿuyūn 'springs'). Changed agent: in Genesis the springs 'burst' and the windows 'were opened' (passive); in the Quran God speaks: 'We opened ... We made the earth burst'. Windows (ʾărubbôṯ) become gates (abwāb)."
+      - with: hb-gen-6-flood
+        motif: hero-warned-by-deity
+        refs: ["54:9", "54:10"]
+        with_refs: ["Gen 6:13"]
+        relation: divergence
+        note: "Who sets the flood in motion. Genesis: wa-yyōʾmer ʾĕlōhîm lə-nōaḥ qēṣ kol bāśār bāʾ ləp̄ānay kî mālʾâ hā-ʾāreṣ ḥāmās (God decides, because of violence, and tells Noah). Quran: kadhdhabat qablahum qawmu nūḥin fa-kadhdhabū ʿabdanā wa-qālū majnūnun wa-zdujira, fa-daʿā rabbahu annī maghlūbun fa-ntaṣir (Noah's people call him mad and drive him off; Noah prays 'I am overcome, help me'; then the flood). Added in the Quran: Noah as rejected messenger and his prayer; absent: ḥāmās as the cause and God's regret (6:6)."
+      - with: hb-gen-6-flood
+        motif: vessel-dimensions-given
+        refs: ["54:13", "54:14"]
+        with_refs: ["Gen 6:14", "Gen 6:15"]
+        relation: divergence
+        note: "The ark. Genesis: tēḇaṯ ʿăṣê-ḡōp̄er qinnîm ... wə-ḵāp̄artā ʾōṯāh ... ba-kkōp̄er, šəlōš mēʾôṯ ʾammâ ʾōreḵ (gopher wood, rooms, pitch, measured in cubits). Quran: wa-ḥamalnāhu ʿalā dhāti alwāḥin wa-dusur, tajrī bi-aʿyuninā (a thing of planks and fibres/nails, running under our eyes). No name 'ark', no dimensions; the stress moves from building to God's watching eyes."
+      - with: hb-gen-9-noahide-covenant
+        motif: ark-left-as-sign
+        refs: ["54:15"]
+        with_refs: ["Gen 9:12", "Gen 9:13"]
+        relation: divergence
+        note: "What remains as the flood's sign. Genesis: zōʾṯ ʾôṯ hab-bərîṯ ... ʾeṯ qaštî nāṯattî be-ʿānān (the rainbow as covenant sign that it will not happen again). Quran: wa-la-qad taraknāhā āyatan fa-hal min muddakir (we left it, the ark or the event, as a sign; will anyone take heed?). Genesis' sign reassures that the flood will not return; the Quran's warns that punishment comes again (the refrain fa-kayfa kāna ʿadhābī wa-nudhur)."
+      - with: hb-joel-3-spirit-poured
+        motif: hour-near-moon-split
+        refs: ["54:1"]
+        with_refs: ["Joel 3:4"]
+        relation: echo
+        note: "A portent on the moon before the Day: haš-šemeš yēhāp̄ēḵ lə-ḥōšeḵ wə-hay-yārēaḥ lə-ḏām lip̄nê bôʾ yôm YHWH vs. iqtarabati s-sāʿatu wa-nshaqqa l-qamar. The moon turns to blood in Joel, is split in the Quran (a past event in Muslim tradition, a future sign in some readings)."
+      - with: hb-judg-7-gideons-three-hundred
+        motif: dead-emerge-from-graves-like-scattered-locusts
+        refs: ["54:7"]
+        with_refs: ["Judg 7:12"]
+        relation: echo
+        note: "Locust simile for a vast crowd: nōp̄əlîm bā-ʿēmeq kā-ʾarbeh lā-rōḇ vs. yakhrujūna mina l-ajdāthi ka-annahum jarādun muntashir. In Judges the locusts are an enemy horde lying in a valley; in the Quran the dead coming out of their graves."
+      - with: hb-judg-6-midian-prophet
+        motif: enemies-numerous-as-locusts
+        refs: ["54:7"]
+        with_refs: ["Judg 6:5"]
+        relation: echo
+        note: "yāḇōʾû ḵə-ḏê ʾarbeh lā-rōḇ wə-lāhem wə-li-ḡmallêhem ʾên mispār vs. ka-annahum jarādun muntashir: numberless like locusts."
+      - with: hb-mal-3-tithes
+        motif: test-god-with-tithes-windows-of-heaven
+        refs: ["54:11"]
+        with_refs: ["Mal 3:10"]
+        relation: contrast
+        note: "Heaven's openings pour out blessing or ruin: ʾim lōʾ ʾep̄taḥ lāḵem ʾēṯ ʾărubbôṯ haš-šāmayim wa-hărîqōṯî lāḵem bərāḵâ ʿaḏ bəlî ḏāy vs. fa-fataḥnā abwāba s-samāʾi bi-māʾin munhamir. The same opening (p-t-ḥ / f-t-ḥ) gives blessing without measure in Malachi, and the flood in the Quran."
+  - unit: quran-54-qamar-ad-thamud-lot-pharaoh
+    checked: [hb-gen-29-jacob-rachel-leah, hb-gen-19-sodom-destroyed, hb-ps-11-flee-like-bird, hb-judg-19-levites-concubine, hb-amos-5-lament-day-of-yhwh, hb-ps-78-history, hb-eccl-12-epilogue, hb-job-28-hymn-to-wisdom, hb-num-16-korah]
+    matches:
+      - with: hb-gen-19-sodom-destroyed
+        motif: attackers-struck-blind
+        refs: ["54:37"]
+        with_refs: ["Gen 19:5", "Gen 19:11"]
+        relation: divergence
+        note: "The mob blinded at Lot's door. Genesis: ʾayyēh hā-ʾănāšîm ... hôṣîʾēm ʾēlênû wə-nēḏəʿāh ʾōṯām; the angels (hā-ʾănāšîm) strike them bas-sanwērîm and they weary themselves finding the door. Quran: wa-la-qad rāwadūhu ʿan ḍayfihi fa-ṭamasnā aʿyunahum fa-dhūqū ʿadhābī wa-nudhur (God says 'We blotted out their eyes'). The striking passes from the angel-guests to God himself, and the search for the door is dropped."
+      - with: hb-gen-19-sodom-destroyed
+        motif: lot-family-saved-before-dawn
+        refs: ["54:34"]
+        with_refs: ["Gen 19:15", "Gen 19:16"]
+        relation: parallel
+        note: "Rescue at daybreak: û-ḵəmô haš-šaḥar ʿālâ wa-yyāʾîṣû ham-malʾāḵîm bə-lôṭ vs. illā āla lūṭin najjaynāhum bi-saḥar (Hebrew šaḥar 'dawn', Arabic saḥar 'the hour before dawn')."
+      - with: hb-gen-19-sodom-destroyed
+        motif: family-saved
+        refs: ["54:34", "54:35"]
+        with_refs: ["Gen 19:29"]
+        relation: divergence
+        note: "Why Lot is saved. Genesis: wa-yyizkōr ʾĕlōhîm ʾeṯ ʾaḇrāhām wa-yšallaḥ ʾeṯ lôṭ mit-tôḵ ha-hăp̄ēḵâ (for Abraham's sake), and earlier bə-ḥemlaṯ YHWH ʿālâw (19:16, God's pity in spite of his delay). Quran: najjaynāhum bi-saḥarin niʿmatan min ʿindinā ka-dhālika najzī man shakar (a favor from us; so we reward whoever is grateful). Rescue for Abraham's merit becomes reward for Lot's own gratitude."
+      - with: hb-gen-19-sodom-destroyed
+        motif: fire-and-brimstone-from-heaven
+        refs: ["54:34"]
+        with_refs: ["Gen 19:24"]
+        relation: divergence
+        note: "goprîṯ wā-ʾēš mē-ʾēṯ YHWH min haš-šāmāyim vs. innā arsalnā ʿalayhim ḥāṣiban (a storm of stones). As in Q 51:33 the Quran's Sodom is stoned, not burned."
+      - with: hb-gen-19-sodom-destroyed
+        motif: warning-mocked-by-kin
+        refs: ["54:36"]
+        with_refs: ["Gen 19:14"]
+        relation: echo
+        note: "Lot's warning disbelieved: qûmû ṣəʾû min ham-māqôm haz-zeh kî mašḥîṯ YHWH ʾeṯ hā-ʿîr wa-yhî ḵi-mṣaḥēq bə-ʿênê ḥăṯānâw vs. wa-la-qad andharahum baṭshatanā fa-tamāraw bi-n-nudhur. Genesis: only his sons-in-law, who take it as a joke; Quran: the whole people, who dispute the warnings."
+      - with: hb-judg-19-levites-concubine
+        motif: mob-demands-guest
+        refs: ["54:37"]
+        with_refs: ["Judg 19:22"]
+        relation: echo
+        note: "anšê ḇənê ḇəliyyaʿal nāsabbû ʾeṯ hab-bayiṯ ... hôṣēʾ ʾeṯ hā-ʾîš ʾăšer bāʾ ʾel bêṯəḵā wə-nēḏāʿennû vs. wa-la-qad rāwadūhu ʿan ḍayfihi. The Gibeah story repeats Sodom's demand but has no miraculous rescue; the Quran's version has God blinding the mob."
+      - with: hb-ps-11-flee-like-bird
+        motif: fire-and-brimstone-from-heaven
+        refs: ["54:34"]
+        with_refs: ["Ps 11:6"]
+        relation: echo
+        note: "yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-ḡop̄rîṯ vs. arsalnā ʿalayhim ḥāṣiban: Sodom's punishment raining on the wicked; the psalm keeps fire and sulfur, the Quran has stones."
+      - with: hb-eccl-12-epilogue
+        motif: every-deed-small-and-great-recorded
+        refs: ["54:52", "54:53"]
+        with_refs: ["Eccl 12:14"]
+        relation: parallel
+        note: "Every deed, even hidden or small, comes to judgment: kî ʾeṯ kol maʿăśeh hā-ʾĕlōhîm yāḇîʾ ḇə-mišpāṭ ʿal kol neʿlām ʾim ṭôḇ wə-ʾim rāʿ vs. wa-kullu shayʾin faʿalūhu fī z-zubur, wa-kullu ṣaghīrin wa-kabīrin mustaṭar. Qohelet's epilogue says God judges; the Quran says it is written down (mustaṭar)."
+      - with: hb-job-28-hymn-to-wisdom
+        motif: everything-created-by-measure
+        refs: ["54:49"]
+        with_refs: ["Job 28:25"]
+        relation: echo
+        note: "laʿăśôṯ lā-rûaḥ mišqāl û-mayim tikkēn ḇə-middâ vs. innā kulla shayʾin khalaqnāhu bi-qadar. Job: wind and water given weight and measure at creation; Quran: everything, with qadar meaning both measure and decree."
+      - with: hb-num-16-korah
+        motif: shall-we-follow-a-single-human
+        refs: ["54:24", "54:25"]
+        with_refs: ["Num 16:3"]
+        relation: echo
+        note: "Rejecting one man's claim to speak for God: rab lāḵem kî ḵol hā-ʿēḏâ kullām qəḏōšîm ... û-maddûaʿ tiṯnaśśəʾû ʿal qəhal YHWH vs. a-basharan minnā wāḥidan nattabiʿuhu ... a-ulqiya dh-dhikru ʿalayhi min bayninā. Korah argues that all are holy; Thamud that a mere human from among them cannot have been singled out."
+      - with: hb-gen-29-jacob-rachel-leah
+        motif: she-camel-of-god
+        refs: ["54:28"]
+        with_refs: ["Gen 29:3", "Gen 29:8"]
+        relation: echo
+        note: "Water shared by custom at a well: wə-neʾespû šāmmâ ḵol hā-ʿăḏārîm wə-gālălû ʾeṯ hā-ʾeḇen ... wə-hišqû ʾeṯ haṣ-ṣōʾn vs. wa-nabbiʾhum anna l-māʾa qismatun baynahum kullu shirbin muḥtaḍar (the water divided between the people and the she-camel, each drinking in turn). Weak lead from the hint: shared watering custom only."
+  - unit: quran-55-rahman-creation-and-the-two-seas
+    checked: [hb-ps-136-great-hallel, hb-ps-104-creation-hymn, hb-ps-98-rivers-clap, hb-ps-96-new-song, hb-ps-89-ethan-davidic-covenant, hb-isa-44-idol-from-half-a-log, hb-ps-102-afflicted, hb-lev-19-holiness-code-b, hb-prov-11-sayings, hb-isa-63-communal-lament, hb-gen-2-eden-adam-woman, hb-gen-1-creation-six-days]
+    matches:
+      - with: hb-ps-136-great-hallel
+        motif: refrain-which-bounties-of-your-lord-will-you-deny
+        refs: ["55:5", "55:13", "55:16", "55:18"]
+        with_refs: ["Ps 136:1", "Ps 136:5", "Ps 136:7", "Ps 136:8", "Ps 136:9"]
+        relation: divergence
+        note: "A creation litany with a refrain after every line. Ps 136: lə-ʿōśēh hā-ʾôrîm gəḏōlîm ... ʾeṯ haš-šemeš lə-memšeleṯ bay-yôm ... kî lə-ʿôlām ḥasdô (26 times). Q 55: ash-shamsu wa-l-qamaru bi-ḥusbān ... fa-bi-ayyi ālāʾi rabbikumā tukadhdhibān (31 times). Same form and the same first works (heavens, earth, sun, moon). Changed refrain: the psalm affirms (his love endures for ever) and calls Israel to give thanks (hôḏû); the Quran asks a challenge in the dual to jinn and humans: which of your Lord's bounties will you deny? The psalm goes on to Egypt and Israel's history; the Quran to heaven and hell."
+      - with: hb-ps-104-creation-hymn
+        motif: sun-and-moon-by-reckoning
+        refs: ["55:5", "55:24"]
+        with_refs: ["Ps 104:19", "Ps 104:26"]
+        relation: echo
+        note: "ʿāśâ yārēaḥ lə-môʿăḏîm šemeš yāḏaʿ məḇôʾô vs. ash-shamsu wa-l-qamaru bi-ḥusbān: sun and moon keep exact times. Also šām ʾŏniyyôṯ yəhallēḵûn vs. wa-lahu l-jawāri l-munshaʾātu fī l-baḥri ka-l-aʿlām (ships on the sea in the creation catalogue)."
+      - with: hb-ps-104-creation-hymn
+        motif: human-from-potters-clay-jinn-from-smokeless-fire
+        refs: ["55:15"]
+        with_refs: ["Ps 104:4"]
+        relation: echo
+        note: "Created beings of fire: məšārəṯâw ʾēš lōhēṭ (his ministers a flaming fire) vs. wa-khalaqa l-jānna min mārijin min nār (the jinn from a smokeless flame). The psalm's fiery servants are angels or forces of nature; the Quran's are the jinn, who are not angels. Lead only."
+      - with: hb-ps-104-creation-hymn
+        motif: god-every-day-in-some-work
+        refs: ["55:29"]
+        with_refs: ["Ps 104:27"]
+        relation: echo
+        note: "All creatures turn to God for their needs: kullām ʾēleyḵā yəśabbērûn lāṯēṯ ʾoḵlām bə-ʿittô vs. yasʾaluhu man fī s-samāwāti wa-l-arḍi kulla yawmin huwa fī shaʾn."
+      - with: hb-ps-102-afflicted
+        motif: heavens-wear-out-like-garment
+        refs: ["55:26", "55:27"]
+        with_refs: ["Ps 102:26", "Ps 102:27", "Ps 102:28"]
+        relation: parallel
+        note: "Creation passes away, God remains: hēmmâ yōʾḇēḏû wə-ʾattâ ṯaʿămōḏ wə-ḵullām kab-beḡeḏ yiḇlû ... wə-ʾattâ hûʾ û-šənôṯêḵā lōʾ yittāmmû vs. kullu man ʿalayhā fānin wa-yabqā wajhu rabbika dhū l-jalāli wa-l-ikrām. The psalm's heavens and earth perish; the Quran's 'all on it' (on the earth) perish. What remains is 'you' (ʾattâ hûʾ) and 'the face of your Lord'."
+      - with: hb-ps-96-new-song
+        motif: stars-and-trees-prostrate
+        refs: ["55:6"]
+        with_refs: ["Ps 96:12"]
+        relation: echo
+        note: "Plants worship their Creator: ʾāz yərannənû kol ʿăṣê yāʿar (all the trees of the forest sing for joy) vs. wa-n-najmu wa-sh-shajaru yasjudān (star or herb, and tree, prostrate). The psalm's trees sing before YHWH's coming to judge; the Quran's bow down."
+      - with: hb-ps-98-rivers-clap
+        motif: nature-sings-and-rejoices
+        refs: ["55:6"]
+        with_refs: ["Ps 98:8"]
+        relation: echo
+        note: "nəhārôṯ yimḥăʾû ḵāp̄ yaḥaḏ hārîm yərannēnû vs. wa-n-najmu wa-sh-shajaru yasjudān. Nature worships in both; joy (clapping, singing) in the psalm, prostration in the Quran."
+      - with: hb-lev-19-holiness-code-b
+        motif: balance-set-do-not-transgress-in-weighing
+        refs: ["55:7", "55:8", "55:9"]
+        with_refs: ["Lev 19:35", "Lev 19:36"]
+        relation: divergence
+        note: "Just weighing commanded. Leviticus: lōʾ ṯaʿăśû ʿāwel ... bam-mišqāl ... mōʾzənê ṣeḏeq ʾaḇnê ṣeḏeq ... ʾănî YHWH ʾĕlōhêḵem ʾăšer hôṣēʾṯî ʾeṯḵem mē-ʾereṣ miṣrāyim (grounded in the exodus). Quran: wa-s-samāʾa rafaʿahā wa-waḍaʿa l-mīzān, allā taṭghaw fī l-mīzān, wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān (grounded in creation: the same God who raised the sky set the balance). mōʾzənayim / mīzān. Israel's ground in history becomes a cosmic ground."
+      - with: hb-prov-11-sayings
+        motif: just-weights-and-measures
+        refs: ["55:9"]
+        with_refs: ["Prov 11:1"]
+        relation: parallel
+        note: "mōʾzənê mirmâ tôʿăḇaṯ YHWH wə-ʾeḇen šəlēmâ rəṣônô vs. wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān (balance: mōʾzənayim / mīzān)."
+      - with: hb-isa-63-communal-lament
+        motif: we-are-clay-you-are-potter
+        refs: ["55:14"]
+        with_refs: ["Isa 64:7"]
+        relation: echo
+        note: "Man as potter's clay: ʾănaḥnû ha-ḥōmer wə-ʾattâ yōṣərēnû û-maʿăśēh yāḏəḵā kullānû vs. khalaqa l-insāna min ṣalṣālin ka-l-fakhkhār. Isaiah uses it as a plea to the father-potter for mercy; the Quran as a fact of creation, set beside the jinn's fire."
+      - with: hb-gen-2-eden-adam-woman
+        motif: human-formed-from-earth
+        refs: ["55:14"]
+        with_refs: ["Gen 2:7"]
+        relation: parallel
+        note: "wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ vs. khalaqa l-insāna min ṣalṣālin ka-l-fakhkhār. Dust from the ground (and the potter's verb yāṣar) in Genesis; dry, ringing clay like pottery in the Quran."
+      - with: hb-gen-1-creation-six-days
+        motif: two-seas-sweet-and-salt-with-barrier
+        refs: ["55:19", "55:20"]
+        with_refs: ["Gen 1:6", "Gen 1:7"]
+        relation: echo
+        note: "Two bodies of water kept apart by God: yəhî rāqîaʿ bə-ṯôḵ ham-mayim wî-hî maḇdîl bên mayim lā-māyim vs. maraja l-baḥrayni yaltaqiyān, baynahumā barzakhun lā yabghiyān. Genesis divides upper from lower waters with a firmament; the Quran two seas side by side with a barrier (barzakh). Weak lead: shared idea of separation only."
+  - unit: quran-55-rahman-judgment-and-the-four-gardens
+    checked: [hb-gen-6-sons-of-god, hb-deut-8-wilderness-lesson, hb-joel-2-army-and-repentance, hb-joel-4-valley-of-jehoshaphat, hb-amos-8-summer-fruit, hb-amos-9-altar-and-booth-of-david, hb-ps-68-rider-of-clouds, hb-ps-72-solomon]
+    matches:
+      - with: hb-amos-9-altar-and-booth-of-david
+        motif: jinn-and-men-cannot-pass-beyond-heavens
+        refs: ["55:33", "55:35"]
+        with_refs: ["Amos 9:2", "Amos 9:3"]
+        relation: parallel
+        note: "No escape upward or downward from God: ʾim yaḥtərû ḇiš-ʾôl miš-šām yāḏî ṯiqqāḥēm wə-ʾim yaʿălû haš-šāmayim miš-šām ʾôrîḏēm vs. yā maʿshara l-jinni wa-l-insi ini staṭaʿtum an tanfudhū min aqṭāri s-samāwāti wa-l-arḍi fa-nfudhū lā tanfudhūna illā bi-sulṭān; yursalu ʿalaykumā shuwāẓun min nārin wa-nuḥās. Amos: Israel cannot hide from the punishment; the Quran's dare is to jinn and humans together. Amos adds the serpent in the sea; the Quran fire and molten brass."
+      - with: hb-deut-8-wilderness-lesson
+        motif: seven-species-of-land
+        refs: ["55:66", "55:68"]
+        with_refs: ["Deut 8:7", "Deut 8:8"]
+        relation: divergence
+        note: "Springs and fruit of a land promised. Deuteronomy: ʾereṣ ṭôḇâ ʾereṣ naḥălê māyim ʿăyānōṯ û-ṯəhōmōṯ ... ʾereṣ ḥiṭṭâ û-śəʿōrâ wə-ḡep̄en û-ṯəʾēnâ wə-rimmôn ʾereṣ zêṯ šemen û-ḏəḇāš (the good land of Canaan). Quran: fīhimā ʿaynāni naḍḍākhatān ... fīhimā fākihatun wa-nakhlun wa-rummān (the two lower gardens). Springs (ʿăyānōṯ / ʿaynān) and pomegranates (rimmôn / rummān) carry over from the earthly land to the Garden; grain and oil drop out, and the palm, which Deut 8 lacks, is added."
+      - with: hb-gen-6-sons-of-god
+        motif: maidens-of-restrained-glance-untouched
+        refs: ["55:56", "55:74"]
+        with_refs: ["Gen 6:2", "Gen 6:4"]
+        relation: echo
+        note: "Supernatural beings with human women: wa-yyirʾû ḇənê hā-ʾĕlōhîm ʾeṯ bənôṯ hā-ʾāḏām ... wa-yyiqḥû lāhem nāšîm vs. lam yaṭmithhunna insun qablahum wa-lā jānn (untouched by man or jinn before them). The Quran's phrase assumes jinn could touch women, as Gen 6 has the sons of God take wives; the beings differ (bənê hā-ʾĕlōhîm, jinn). Lead from the hint only."
+      - with: hb-ps-68-rider-of-clouds
+        motif: guilty-seized-by-forelocks-and-feet
+        refs: ["55:41"]
+        with_refs: ["Ps 68:22"]
+        relation: echo
+        note: "God strikes the guilty by the hair of the head: ʾaḵ ʾĕlōhîm yimḥaṣ rōʾš ʾōyəḇâw qoḏqōḏ śēʿār miṯhallēḵ ba-ʾăšāmâw vs. yuʿrafu l-mujrimūna bi-sīmāhum fa-yuʾkhadhu bi-n-nawāṣī wa-l-aqdām. The psalm's battle becomes judgment day, and the hairy crown the forelock."
+      - with: hb-ps-72-solomon
+        motif: blessed-be-the-name-of-your-lord
+        refs: ["55:78"]
+        with_refs: ["Ps 72:19"]
+        relation: parallel
+        note: "Closing doxology on the Name: û-ḇārûḵ šēm kəḇôḏô lə-ʿôlām wə-yimmālēʾ ḵəḇôḏô ʾeṯ kōl hā-ʾāreṣ ʾāmēn wə-ʾāmēn vs. tabāraka smu rabbika dhī l-jalāli wa-l-ikrām. Both end a large unit (Book II of Psalms, the sura) with 'blessed be the name' (bārûḵ šēm / tabāraka sm, the root b-r-k in both); kəḇôḏ ~ jalāl."
+  - unit: quran-56-waqia-three-classes-and-the-garden
+    checked: [hb-dan-12-resurrection-end, hb-ezek-47-temple-river, hb-ps-75-cup, hb-ps-16-my-portion, hb-ps-107-four-rescues, hb-deut-28-blessings-curses, hb-1sam-2-song-of-hannah, hb-gen-2-eden-adam-woman, hb-num-11-taberah-quail, hb-prov-23-drunkard]
+    matches:
+      - with: hb-ps-75-cup
+        motif: god-humbles-one-exalts-another
+        refs: ["56:1", "56:2", "56:3"]
+        with_refs: ["Ps 75:8"]
+        relation: parallel
+        note: "kî ʾĕlōhîm šōp̄ēṭ zeh yašpîl wə-zeh yārîm vs. idhā waqaʿati l-wāqiʿatu ... khāfiḍatun rāfiʿa. The psalm's judge brings low and lifts up (š-p-l / r-w-m); the Quran gives the same pair to the Event itself (kh-f-ḍ / r-f-ʿ)."
+      - with: hb-1sam-2-song-of-hannah
+        motif: song-reversal-of-fortunes
+        refs: ["56:3"]
+        with_refs: ["1Sam 2:7"]
+        relation: echo
+        note: "YHWH ... mašpîl ʾap̄ mərômēm vs. khāfiḍatun rāfiʿa: lowering and raising. Hannah praises reversals in this life; the Quran puts them at the end."
+      - with: hb-ps-75-cup
+        motif: earth-shaken-mountains-crumbled-to-dust
+        refs: ["56:4", "56:5", "56:6"]
+        with_refs: ["Ps 75:4"]
+        relation: echo
+        note: "nəmōḡîm ʾereṣ wə-ḵol yōšəḇêhā ʾānōḵî tikkantî ʿammûdêhā vs. idhā rujjati l-arḍu rajjan wa-bussati l-jibālu bassan. The psalm's melting earth is held up by God's pillars; the Quran's shaken earth and crushed mountains do not hold."
+      - with: hb-dan-12-resurrection-end
+        motif: three-classes-at-judgment
+        refs: ["56:7", "56:8", "56:9", "56:10", "56:11"]
+        with_refs: ["Dan 12:2", "Dan 12:3"]
+        relation: divergence
+        note: "Sorting at the resurrection. Daniel: wə-rabbîm mîšēnê ʾaḏmaṯ ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ ... wə-ham-maśkîlîm yazhirû kə-zōhar hā-rāqîaʿ (two groups, life and shame, with the wise shining as a higher class). Quran: wa-kuntum azwājan thalātha: aṣḥābu l-maymana, aṣḥābu l-mashʾama, wa-s-sābiqūna s-sābiqūn ulāʾika l-muqarrabūn (three classes: right, left, and the foremost brought near). The maśkîlîm and the sābiqūn are both an elite above the saved. cf. b. Rosh Hashanah 16b, three groups at judgment."
+      - with: hb-ezek-47-temple-river
+        motif: fruit-neither-cut-off-nor-forbidden
+        refs: ["56:32", "56:33"]
+        with_refs: ["Ezek 47:12"]
+        relation: parallel
+        note: "Fruit that never fails: kol ʿēṣ maʾăḵāl lōʾ yibbôl ʿālēhû wə-lōʾ yittōm piryô lə-ḥŏḏāšâw yəḇakkēr vs. wa-fākihatin kathīratin lā maqṭūʿatin wa-lā mamnūʿa. Ezekiel's trees grow by the temple river and their leaves heal; the Quran adds that the fruit is not forbidden."
+      - with: hb-gen-2-eden-adam-woman
+        motif: tree-of-knowledge-forbidden
+        refs: ["56:33"]
+        with_refs: ["Gen 2:17"]
+        relation: contrast
+        note: "Eden's prohibition vs. the Garden's freedom: û-mē-ʿēṣ had-daʿaṯ ṭôḇ wā-rāʿ lōʾ ṯōʾḵal mimmennû vs. lā maqṭūʿatin wa-lā mamnūʿa (fruit neither cut off nor forbidden). In the Garden of the end no fruit is forbidden. Lead: the Quran does not mention Eden here."
+      - with: hb-num-11-taberah-quail
+        motif: quail-miracle
+        refs: ["56:21"]
+        with_refs: ["Num 11:31", "Num 11:33", "Num 11:34"]
+        relation: contrast
+        note: "Bird-meat as desired, with opposite outcomes. Numbers: wə-rûaḥ nāsaʿ mē-ʾēṯ YHWH wa-yyāḡoz śalwîm min hay-yām; hab-bāśār ʿôḏennû bên šinnêhem ... wa-yyaḵ YHWH bā-ʿām, and the place is named qiḇrôṯ hat-taʾăwâ (graves of craving). Quran: wa-laḥmi ṭayrin mimmā yashtahūn (bird flesh, whatever they desire). In the wilderness the desire (taʾăwâ) for bird-meat is punished; in the Garden it is granted."
+      - with: hb-ps-16-my-portion
+        motif: path-of-life-pleasures-at-right-hand
+        refs: ["56:8", "56:27"]
+        with_refs: ["Ps 16:11"]
+        relation: echo
+        note: "Joy at the right hand: tôḏîʿēnî ʾōraḥ ḥayyîm śōḇaʿ śəmāḥôṯ ʾeṯ pāneyḵā nəʿimôṯ bî-mînəḵā neṣaḥ vs. fa-aṣḥābu l-maymana mā aṣḥābu l-maymana; wa-aṣḥābu l-yamīni mā aṣḥābu l-yamīn. The psalm's delights are at God's right hand; in the Quran the blessed are the people of the right (yamīn / yāmîn)."
+      - with: hb-prov-23-drunkard
+        motif: paradise-wine-no-headache-no-intoxication
+        refs: ["56:18", "56:19"]
+        with_refs: ["Prov 23:29", "Prov 23:30", "Prov 23:35"]
+        relation: contrast
+        note: "The effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm ʿal hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin wa-abārīqa wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits). The Quran's paradise wine is described by the absence of the drunkard's woes."
+  - unit: quran-56-waqia-left-hand-and-proofs
+    checked: [hb-exod-15-marah-elim, hb-2kgs-6-floating-axe, hb-2kgs-2-elisha-first-miracles, hb-isa-26-song-and-resurrection, hb-isa-44-idol-from-half-a-log, hb-ps-139-searched-and-known, hb-job-10-why-did-you-make-me, hb-deut-28-blessings-curses, hb-eccl-8-king-and-retribution]
+    matches:
+      - with: hb-exod-15-marah-elim
+        motif: bitter-water-sweetened-by-wood
+        refs: ["56:68", "56:69", "56:70"]
+        with_refs: ["Exod 15:23", "Exod 15:25"]
+        relation: contrast
+        note: "God's power over the taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ mayim mim-mārâ kî mārîm hēm ... wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet). Quran: a-fa-raʾaytumu l-māʾa lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn (we could make your sweet water bitter). The miracle of sweetening becomes a threat of embittering, used as a call to gratitude."
+      - with: hb-2kgs-2-elisha-first-miracles
+        motif: rain-from-clouds-could-be-made-salt
+        refs: ["56:70"]
+        with_refs: ["2Kgs 2:21", "2Kgs 2:22"]
+        relation: contrast
+        note: "wa-yyašleḵ šām melaḥ wa-yyōʾmer kōh ʾāmar YHWH rippēʾṯî lam-mayim hā-ʾēlleh ... wa-yyērāp̄û ham-mayim vs. law nashāʾu jaʿalnāhu ujājan: Elisha heals bad water (with salt); the Quran's God could make good water salt-bitter (ujāj)."
+      - with: hb-job-10-why-did-you-make-me
+        motif: do-you-create-your-semen
+        refs: ["56:58", "56:59"]
+        with_refs: ["Job 10:10", "Job 10:11"]
+        relation: parallel
+        note: "God forms the fetus from emitted fluid: hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵag-gəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. a-fa-raʾaytum mā tumnūn a-antum takhluqūnahu am naḥnu l-khāliqūn. Job addresses God as maker in a complaint (why destroy what you made?); the Quran asks men who the creator is, as proof of the resurrection."
+      - with: hb-ps-139-searched-and-known
+        motif: do-you-create-your-semen
+        refs: ["56:59"]
+        with_refs: ["Ps 139:13"]
+        relation: echo
+        note: "kî ʾattâ qānîṯā ḵilyōṯāy tə-sukkēnî bə-ḇeṭen ʾimmî vs. am naḥnu l-khāliqūn: God, not man, forms the child."
+      - with: hb-deut-28-blessings-curses
+        motif: do-you-sow-or-do-we
+        refs: ["56:63", "56:64", "56:65"]
+        with_refs: ["Deut 28:38", "Deut 28:39"]
+        relation: echo
+        note: "Sowing without reaping as God's doing: zeraʿ raḇ tôṣîʾ haś-śāḏeh û-məʿaṭ teʾĕsōp̄ kî yaḥsəlennû hā-ʾarbeh vs. a-fa-raʾaytum mā taḥruthūn, a-antum tazraʿūnahu am naḥnu z-zāriʿūn, law nashāʾu la-jaʿalnāhu ḥuṭāman. Deuteronomy threatens it as a covenant curse; the Quran asks it as a proof that God gives the growth."
+      - with: hb-isa-44-idol-from-half-a-log
+        motif: fire-from-green-tree
+        refs: ["56:71", "56:72", "56:73"]
+        with_refs: ["Isa 44:14", "Isa 44:15", "Isa 44:16"]
+        relation: divergence
+        note: "Fire kindled from a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄ bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô). Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the Quran makes the fire a reminder of the Creator."
+      - with: hb-eccl-8-king-and-retribution
+        motif: soul-at-the-throat-cannot-be-returned
+        refs: ["56:83", "56:86", "56:87"]
+        with_refs: ["Eccl 8:8"]
+        relation: parallel
+        note: "No man can hold back the departing spirit: ʾên ʾāḏām šallîṭ bā-rûaḥ li-ḵlôʾ ʾeṯ hā-rûaḥ wə-ʾên šilṭôn bə-yôm ham-māweṯ vs. fa-lawlā idhā balaghati l-ḥulqūm ... fa-lawlā in kuntum ghayra madīnīna tarjiʿūnahā in kuntum ṣādiqīn. Qohelet states it as a limit of human power; the Quran turns it into a challenge: if you are not to be judged, bring the soul back."
+  - unit: quran-57-hadid-first-and-last-and-the-loan
+    checked: [hb-prov-19-sayings, hb-jer-16-fishers-and-hunters, hb-isa-48-refined-in-affliction, hb-ps-104-creation-hymn, hb-isa-45-cyrus-the-anointed, hb-ps-89-ethan-davidic-covenant, hb-isa-44-idol-from-half-a-log, hb-gen-1-creation-six-days, hb-ps-139-searched-and-known, hb-ps-107-four-rescues, hb-lev-25-sabbatical-and-jubilee]
+    matches:
+      - with: hb-prov-19-sayings
+        motif: lending-to-yhwh-by-giving-to-poor
+        refs: ["57:11"]
+        with_refs: ["Prov 19:17"]
+        relation: divergence
+        note: "Giving as a loan to God, repaid by him. Proverbs: malwēh YHWH ḥônēn dāl û-ḡəmulô yəšallem lô (he who is kind to the poor lends to YHWH, who repays him). Quran: man dhā lladhī yuqriḍu llāha qarḍan ḥasanan fa-yuḍāʿifahu lahu wa-lahu ajrun karīm. Proverbs' loan is kindness to the poor; the Quran's is spending in God's way (57:10, including before the Victory), and repayment becomes multiplication (yuḍāʿifahu)."
+      - with: hb-isa-48-refined-in-affliction
+        motif: first-and-last
+        refs: ["57:3"]
+        with_refs: ["Isa 48:12"]
+        relation: parallel
+        note: "ʾănî hûʾ ʾănî rīšôn ʾap̄ ʾănî ʾaḥărôn vs. huwa l-awwalu wa-l-ākhiru wa-ẓ-ẓāhiru wa-l-bāṭinu. Isaiah's first-person self-declaration becomes a third-person creed, and the Quran adds a second pair, Outward and Inward."
+      - with: hb-isa-44-idol-from-half-a-log
+        motif: first-and-last
+        refs: ["57:3"]
+        with_refs: ["Isa 44:6"]
+        relation: parallel
+        note: "ʾănî rīšôn wa-ʾănî ʾaḥărôn û-mib-baləʿāḏay ʾên ʾĕlōhîm vs. huwa l-awwalu wa-l-ākhir. Isaiah draws the monotheist conclusion in the same verse; the Quran draws omniscience: wa-huwa bi-kulli shayʾin ʿalīm."
+      - with: hb-gen-1-creation-six-days
+        motif: creation-in-six-days
+        refs: ["57:4"]
+        with_refs: ["Gen 2:2"]
+        relation: divergence
+        note: "What God does after the six days. Genesis: wa-yišbōṯ bay-yôm haš-šəḇîʿî mik-kol məlaʾḵtô (he rested). Quran: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarsh (then he established himself on the Throne). Rest becomes enthronement, and the seventh day goes unmentioned."
+      - with: hb-ps-139-searched-and-known
+        motif: god-with-you-wherever-you-are
+        refs: ["57:4"]
+        with_refs: ["Ps 139:8", "Ps 139:9", "Ps 139:10"]
+        relation: parallel
+        note: "God present above and below: ʾim ʾessaq šāmayim šām ʾāttâ wə-ʾaṣṣîʿâ šəʾôl hinnekkā ... gam šām yāḏəḵā ṯanḥēnî vs. yaʿlamu mā yaliju fī l-arḍi wa-mā yakhruju minhā wa-mā yanzilu mina s-samāʾi wa-mā yaʿruju fīhā wa-huwa maʿakum ayna mā kuntum. The psalmist goes up and down and finds God there; in the Quran things go up and down and God knows them and is 'with you'."
+      - with: hb-ps-107-four-rescues
+        motif: from-darkness-to-light
+        refs: ["57:9"]
+        with_refs: ["Ps 107:14"]
+        relation: echo
+        note: "Same verb of bringing out of darkness: yôṣîʾēm mē-ḥōšeḵ wə-ṣalmāweṯ û-môsərôṯêhem yənattēq vs. li-yukhrijakum mina ẓ-ẓulumāti ilā n-nūr (y-ṣ-ʾ hiphil ~ ʾakhraja). The psalm's darkness is a prison; the Quran's is unbelief, and the means are the revealed signs."
+      - with: hb-lev-25-sabbatical-and-jubilee
+        motif: humans-as-stewards-of-wealth
+        refs: ["57:7", "57:10"]
+        with_refs: ["Lev 25:23"]
+        relation: echo
+        note: "Humans hold God's property as tenants: kî lî hā-ʾāreṣ kî ḡērîm wə-ṯôšāḇîm ʾattem ʿimmāḏî vs. wa-anfiqū mimmā jaʿalakum mustakhlafīna fīhi ... wa-li-llāhi mīrāthu s-samāwāti wa-l-arḍ. Leviticus draws a land law from it (no permanent sale); the Quran a duty to spend."
+      - with: hb-ps-89-ethan-davidic-covenant
+        motif: all-in-heavens-and-earth-glorify-god
+        refs: ["57:1", "57:2"]
+        with_refs: ["Ps 89:12"]
+        relation: echo
+        note: "ləḵā šāmayim ʾap̄ ləḵā ʾāreṣ tēḇēl û-məlōʾāh ʾattâ yəsaḏtām vs. sabbaḥa li-llāhi mā fī s-samāwāti wa-l-arḍ ... lahu mulku s-samāwāti wa-l-arḍ: heaven and earth belong to God."
+  - unit: quran-57-hadid-light-and-the-wall
+    checked: [hb-num-35-levitical-cities-refuge, hb-ezek-36-new-heart-new-spirit, hb-ezek-11-cauldron-new-heart, hb-jer-31-consolation-new-covenant, hb-deut-30-return-choose-life, hb-mal-3-book-of-remembrance, hb-exod-13-firstborn-tefillin-pillar]
+    matches:
+      - with: hb-ezek-36-new-heart-new-spirit
+        motif: heart-of-stone-to-heart-of-flesh
+        refs: ["57:16"]
+        with_refs: ["Ezek 36:26"]
+        relation: divergence
+        note: "The hardened heart, cured by God or warned against. Ezekiel: wə-nāṯattî lāḵem lēḇ ḥāḏāš ... wa-hăsirōṯî ʾeṯ lēḇ hā-ʾeḇen mib-bəśarḵem wə-nāṯattî lāḵem lēḇ bāśār (God removes the heart of stone from Israel). Quran: a-lam yaʾni li-lladhīna āmanū an takhshaʿa qulūbuhum ... wa-lā yakūnū ka-lladhīna ūtū l-kitāba min qablu fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum. In Ezekiel God gives the new heart; in the Quran believers are warned not to let their hearts harden like those of the earlier People of the Book."
+      - with: hb-ezek-11-cauldron-new-heart
+        motif: heart-of-stone-to-heart-of-flesh
+        refs: ["57:16"]
+        with_refs: ["Ezek 11:19"]
+        relation: echo
+        note: "wa-hăsirōṯî lēḇ hā-ʾeḇen mib-bəśārām wə-nāṯattî lāhem lēḇ bāśār vs. fa-qasat qulūbuhum (q-s-w, hardness): a hard heart, removed by God in Ezekiel, a danger for believers in the Quran."
+      - with: hb-deut-30-return-choose-life
+        motif: heart-of-stone-to-heart-of-flesh
+        refs: ["57:16", "57:17"]
+        with_refs: ["Deut 30:6"]
+        relation: echo
+        note: "û-māl YHWH ʾĕlōhêḵā ʾeṯ ləḇāḇəḵā ... lə-ʾahăḇâ ʾeṯ YHWH vs. a-lam yaʾni li-lladhīna āmanū an takhshaʿa qulūbuhum li-dhikri llāh ... iʿlamū anna llāha yuḥyī l-arḍa baʿda mawtihā. The circumcised and the humbled heart; Deuteronomy has God do it after the return, the Quran asks believers to do it now, as dead earth revives."
+      - with: hb-jer-31-consolation-new-covenant
+        motif: law-written-on-heart
+        refs: ["57:16"]
+        with_refs: ["Jer 31:33"]
+        relation: contrast
+        note: "Jeremiah promises the house of Israel a Torah written on the heart (nāṯattî ʾeṯ tôrāṯî bə-qirbām wə-ʿal libbām ʾeḵtăḇennâ); the Quran describes 'those given the Book before' whose hearts grew hard over a long time (fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum wa-kathīrun minhum fāsiqūn). Lead only: no explicit reference."
+      - with: hb-num-35-levitical-cities-refuge
+        motif: no-ransom-for-murderer
+        refs: ["57:15"]
+        with_refs: ["Num 35:31", "Num 35:32"]
+        relation: echo
+        note: "No ransom accepted: wə-lōʾ ṯiqḥû ḵōp̄er lə-nep̄eš rōṣēaḥ ʾăšer hûʾ rāšāʿ lā-mûṯ vs. fa-l-yawma lā yuʾkhadhu minkum fidyatun wa-lā mina lladhīna kafarū. A rule of human justice for the murderer becomes God's verdict on hypocrites and unbelievers at the judgment (kōp̄er ~ fidya)."
+      - with: hb-exod-13-firstborn-tefillin-pillar
+        motif: believers-light-runs-before-them
+        refs: ["57:12", "57:13"]
+        with_refs: ["Exod 13:21"]
+        relation: echo
+        note: "Light going before the faithful on their way: wa-YHWH hōlēḵ lip̄nêhem ... wə-laylâ bə-ʿammûḏ ʾēš lə-hāʾîr lāhem lāleḵeṯ vs. yawma tarā l-muʾminīna wa-l-muʾmināti yasʿā nūruhum bayna aydīhim wa-bi-aymānihim. Israel's pillar of fire leads a whole people through the desert; the Quran's light is each believer's own, on the Day, and cannot be borrowed by the hypocrites (unẓurūnā naqtabis min nūrikum). cf. Matt 25:8-12."
+  - unit: quran-57-hadid-iron-and-monasticism
+    checked: [hb-gen-4-cainites-lamech, hb-isa-40-comfort-my-people, hb-isa-43-you-are-my-witnesses, hb-isa-63-communal-lament, hb-jer-31-consolation-new-covenant, hb-ps-139-searched-and-known, hb-job-1-prologue-first-test, hb-eccl-5-words-and-vows]
+    matches:
+      - with: hb-isa-40-comfort-my-people
+        motif: all-flesh-is-grass
+        refs: ["57:20"]
+        with_refs: ["Isa 40:6", "Isa 40:7", "Isa 40:8"]
+        relation: divergence
+        note: "Life as withering plants, with a different counterweight. Isaiah: kol hab-bāśār ḥāṣîr wə-ḵol ḥasdô kə-ṣîṣ haś-śāḏeh; yāḇēš ḥāṣîr nāḇēl ṣîṣ û-ḏəḇar ʾĕlōhênû yāqûm lə-ʿôlām (against the grass stands God's word). Quran: ka-mathali ghaythin aʿjaba l-kuffāra nabātuhu thumma yahīju fa-tarāhu muṣfarran thumma yakūnu ḥuṭāman, wa-fī l-ākhirati ʿadhābun shadīdun wa-maghfiratun mina llāh (against the withering stands the hereafter, punishment or forgiveness). The Quran adds the farmer's pleasure in the growth and the list of what is passing: play, adornment, boasting, rivalry in wealth and children."
+      - with: hb-isa-40-comfort-my-people
+        motif: double-portion-of-mercy-for-believers
+        refs: ["57:28"]
+        with_refs: ["Isa 40:2"]
+        relation: divergence
+        note: "Cognate 'double' (k-p-l): kî lāqəḥâ miy-yaḏ YHWH kip̄layim bə-ḵol ḥaṭṭōʾṯêhā (Jerusalem received double for all her sins) vs. yuʾtikum kiflayni min raḥmatihi wa-yajʿal lakum nūran tamshūna bihi (he will give you a double portion of his mercy). The double portion of punishment, now complete, becomes a double portion of mercy for believers in the Prophet."
+      - with: hb-gen-4-cainites-lamech
+        motif: iron-sent-down
+        refs: ["57:25"]
+        with_refs: ["Gen 4:22"]
+        relation: divergence
+        note: "Where iron comes from. Genesis: tûḇal qayin lōṭēš kol ḥōrēš nəḥōšeṯ û-ḇarzel (iron-working begins with a descendant of Cain, a human culture hero). Quran: wa-anzalnā l-ḥadīda fīhi baʾsun shadīdun wa-manāfiʿu li-n-nās (God sent iron down, with great might and benefits). A human craft from Cain's line becomes God's gift sent down beside the Book and the Balance. cf. 1 Enoch 8:1 (Asael teaches metalworking)."
+      - with: hb-ps-139-searched-and-known
+        motif: every-calamity-written-before-creation
+        refs: ["57:22"]
+        with_refs: ["Ps 139:16"]
+        relation: parallel
+        note: "Events written in God's book before they happen: wə-ʿal sip̄rəḵā kullām yikkāṯēḇû yāmîm yuṣṣārû wə-lōʾ ʾeḥāḏ bāhem vs. mā aṣāba min muṣībatin fī l-arḍi wa-lā fī anfusikum illā fī kitābin min qabli an nabraʾahā. The psalm's days written before they existed are a comfort; the Quran draws the lesson not to grieve or exult (57:23)."
+      - with: hb-job-1-prologue-first-test
+        motif: do-not-grieve-loss-nor-exult-gain
+        refs: ["57:22", "57:23"]
+        with_refs: ["Job 1:21"]
+        relation: echo
+        note: "Equanimity before gain and loss, both from God: YHWH nāṯan wa-YHWH lāqāḥ yəhî šēm YHWH məḇōrāḵ vs. li-kay-lā taʾsaw ʿalā mā fātakum wa-lā tafraḥū bi-mā ātākum. Job blesses in the moment of loss; the Quran gives the reason: all was written beforehand."
+      - with: hb-eccl-5-words-and-vows
+        motif: monasticism-invented-not-prescribed
+        refs: ["57:27"]
+        with_refs: ["Eccl 5:3", "Eccl 5:4"]
+        relation: echo
+        note: "A self-imposed vow badly kept: kaʾăšer tiddōr neḏer lē-ʾlōhîm ʾal təʾaḥēr lə-šallmô ... ṭôḇ ʾăšer lōʾ ṯiddōr miš-šet-tiddôr wə-lōʾ ṯəšallēm vs. wa-rahbāniyyatan ibtadaʿūhā mā katabnāhā ʿalayhim illā btighāʾa riḍwāni llāhi fa-mā raʿawhā ḥaqqa riʿāyatihā. Qohelet: better not to vow than to vow and not pay; the Quran: monasticism was not prescribed, and those who took it on did not keep it."
+  - unit: quran-58-mujadila-zihar-and-secret-counsel
+    checked: [hb-lev-5-graduated-and-guilt-offerings, hb-exod-32-tablets-broken-levites, hb-ps-87-zion-birthplace, hb-ps-69-deep-waters, hb-deut-18-levites-prophet, hb-jer-33-branch-and-cosmic-covenant, hb-num-27-zelophehad-joshua, hb-lev-18-forbidden-unions, hb-deut-33-blessing-of-moses, hb-mal-3-book-of-remembrance, hb-jer-31-consolation-new-covenant]
+    matches:
+      - with: hb-num-27-zelophehad-joshua
+        motif: daughters-inherit
+        refs: ["58:1"]
+        with_refs: ["Num 27:1", "Num 27:4", "Num 27:5", "Num 27:7"]
+        relation: echo
+        note: "A woman's complaint brought before the prophet becomes divine law: wat-tiqraḇnâ bənôṯ ṣəlop̄ḥāḏ ... lāmmâ yiggāraʿ šēm ʾāḇînû ... wa-yyaqrēḇ mōšeh ʾeṯ mišpāṭān lip̄nê YHWH ... kēn bənôṯ ṣəlop̄ḥāḏ dōḇərōṯ vs. qad samiʿa llāhu qawla llatī tujādiluka fī zawjihā wa-tashtakī ilā llāh. In Numbers Moses takes the case to God and God approves the daughters; in the Quran the woman herself complains to God, God has heard, and the ruling on ẓihār follows. Inheritance there, marriage here."
+      - with: hb-lev-18-forbidden-unions
+        motif: zihar-repudiation-wife-as-mothers-back
+        refs: ["58:2"]
+        with_refs: ["Lev 18:7"]
+        relation: echo
+        note: "The mother as the forbidden woman: ʿerwaṯ ʾimməḵā lōʾ ṯəḡalleh ʾimməḵā hîʾ (your mother, do not uncover her nakedness) vs. alladhīna yuẓāhirūna minkum min nisāʾihim mā hunna ummahātihim in ummahātuhum illā llāʾī waladnahum. The ẓihār formula ('you are to me like my mother's back') uses the incest taboo to repudiate a wife; the Quran voids it: she is not his mother, the words are munkar and false (zūr)."
+      - with: hb-lev-5-graduated-and-guilt-offerings
+        motif: offering-scaled-to-means
+        refs: ["58:3", "58:4"]
+        with_refs: ["Lev 5:7", "Lev 5:11"]
+        relation: divergence
+        note: "Expiation in steps by what one can afford. Leviticus: wə-ʾim lōʾ ṯaggîaʿ yāḏô dê śeh ... šətê ṯōrîm ʾô šənê ḇənê yônâ; wə-ʾim lōʾ ṯaśśîḡ yāḏô ... ʿăśîrīṯ hā-ʾêp̄â sōleṯ (lamb, then two birds, then flour). Quran: fa-taḥrīru raqabatin ... fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayn ... fa-man lam yastaṭiʿ fa-iṭʿāmu sittīna miskīnā (free a slave, then fast two months, then feed sixty poor). The same 'if he cannot' structure (ʾim lōʾ ṯaggîaʿ yāḏô / fa-man lam yajid); sacrifice is replaced by manumission, fasting and feeding the poor."
+      - with: hb-exod-32-tablets-broken-levites
+        motif: levites-kill-idolaters-kin
+        refs: ["58:22"]
+        with_refs: ["Exod 32:26", "Exod 32:27", "Exod 32:29"]
+        relation: divergence
+        note: "Loyalty to God against one's own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran: lā tajidu qawman yuʾminūna bi-llāhi ... yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers); the Quran asks withdrawal of love, not slaughter. Moses' 'who is for YHWH?' matches the 'party of God' (ḥizb Allāh)."
+      - with: hb-deut-33-blessing-of-moses
+        motif: no-love-for-enemies-of-god-even-kin
+        refs: ["58:22"]
+        with_refs: ["Deut 33:9"]
+        relation: parallel
+        note: "Disowning kin for God's covenant: hā-ʾōmēr lə-ʾāḇîw û-lə-ʾimmô lōʾ rəʾîṯîw wə-ʾeṯ ʾeḥâw lōʾ hikkîr wə-ʾeṯ bānâw lōʾ yāḏāʿ kî šāmərû ʾimrāṯeḵā (Levi) vs. wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum. Same three relations: fathers, brothers, sons. Deuteronomy praises a priestly tribe; the Quran makes it the mark of every believer."
+      - with: hb-jer-31-consolation-new-covenant
+        motif: law-written-on-heart
+        refs: ["58:22"]
+        with_refs: ["Jer 31:33"]
+        relation: parallel
+        note: "God writes on the heart: nāṯattî ʾeṯ tôrāṯî bə-qirbām wə-ʿal libbām ʾeḵtăḇennâ vs. ulāʾika kataba fī qulūbihimu l-īmāna wa-ayyadahum bi-rūḥin minhu. Torah written on Israel's heart in the new covenant; faith written on the hearts of those who renounce God's enemies."
+      - with: hb-mal-3-book-of-remembrance
+        motif: god-fourth-of-three-sixth-of-five
+        refs: ["58:6", "58:7"]
+        with_refs: ["Mal 3:16"]
+        relation: echo
+        note: "God listens to private conversations and records them: ʾāz nidbərû yirʾê YHWH ʾîš ʾeṯ rēʿēhû wa-yyaqšēḇ YHWH wa-yyišmāʿ wa-yyikkāṯēḇ sēp̄er zikkārôn vs. mā yakūnu min najwā thalāthatin illā huwa rābiʿuhum ... thumma yunabbiʾuhum bi-mā ʿamilū (and 58:6 aḥṣāhu llāh). Malachi: the God-fearers' talk heard and written for their good; Quran: God present in every secret meeting, good or bad. cf. m. Avot 3:2 (the Shekhinah among two who study)."

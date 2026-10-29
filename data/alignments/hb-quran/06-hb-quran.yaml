@@ -1470,7 +1470,7 @@ reviewed:
         relation: echo
         note: "wî-ḇārəḵû šēm kəḇôḏeḵā û-mərômam ʿal-kol-bərāḵâ û-ṯəhillâ (exalted above every blessing and praise) vs. subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn (exalted above what they ascribe): God is beyond any human description, whether praise or attribution."
   - unit: quran-38-sad-opening
-    checked: [hb-zeph-1-day-of-wrath, hb-isa-30-rahab-who-sits-still, hb-deut-18-levites-prophet, hb-prov-30-agur-confession, hb-amos-1-2-oracles-against-nations, hb-isa-5-vineyard-and-woes, hb-amos-5-lament-day-of-yhwh]
+    checked: [hb-zeph-1-day-of-wrath, hb-isa-30-rahab-who-sits-still, hb-deut-18-levites-prophet, hb-prov-30-agur-confession, hb-amos-2-oracle-against-israel, hb-isa-5-vineyard-and-woes, hb-amos-5-lament-day-of-yhwh]
     matches:
       - with: hb-prov-30-agur-confession
         motif: let-them-ascend-by-the-cords
@@ -1478,7 +1478,7 @@ reviewed:
         with_refs: ["Prov 30:4"]
         relation: echo
         note: "mî ʿālâ-šāmayim wa-yyērad ... mî hēqîm kol-ʾap̄sê-ʾāreṣ mah-šəmô vs. am lahum mulku s-samāwāti wa-l-arḍi wa-mā baynahumā fa-l-yartaqū fī l-asbāb: the rhetorical challenge, who rose to heaven and holds the earth? Agur means that no human did; the Quran dares the opponents to climb."
-      - with: hb-amos-1-2-oracles-against-nations
+      - with: hb-amos-2-oracle-against-israel
         motif: too-late-for-escape
         refs: ["38:3"]
         with_refs: ["Amos 2:14"]
@@ -1559,3 +1559,345 @@ reviewed:
         with_refs: ["Ps 148:9", "Ps 148:10"]
         relation: echo
         note: "he-hārîm ... wə-ṣippôr kānāp̄ vs. innā sakhkharnā l-jibāla maʿahu yusabbiḥna bi-l-ʿashiyyi wa-l-ishrāq wa-ṭ-ṭayra maḥshūratan: mountains and birds join in praise (cf. Q 34:10 above)."
+  - unit: quran-38-solomon-horses-throne
+    checked: [hb-josh-11-hazor-northern-campaign, hb-2sam-8-davids-wars-officials, hb-1kgs-5-dominion-wisdom, hb-2chr-28-ahaz-and-the-merciful-samarians, hb-2kgs-1-ahaziah-baal-zebub, hb-2chr-18-micaiah-and-ramoth-gilead, hb-1kgs-3-gibeon-dream, hb-2chr-1-solomon-at-gibeon, hb-deut-17-courts-king]
+    matches:
+      - with: hb-1kgs-3-gibeon-dream
+        motif: solomon-asks-unmatched-kingdom
+        refs: ["38:35"]
+        with_refs: ["1Kgs 3:9", "1Kgs 3:11", "1Kgs 3:12", "1Kgs 3:13"]
+        relation: divergence
+        note: "What Solomon asks for. Kings: he asks only lēḇ šōmēaʿ lišpōṭ ʾeṯ-ʿamməḵā, and God praises him for not asking (wə-lōʾ šāʾaltā ləḵā ʿōšer), then grants unasked ʿōšer and kāḇôḏ, ʾăšer kāmôḵā lōʾ-hāyâ ... wə-ʾaḥăreyḵā lōʾ-yāqûm kāmôḵā. Q: rabbi ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī. He asks forgiveness, then asks directly for the unmatched kingdom. The incomparability 'after you' is God's gift in Kings and Solomon's own request in the Quran."
+      - with: hb-2chr-1-solomon-at-gibeon
+        motif: solomon-asks-unmatched-kingdom
+        refs: ["38:35", "38:39"]
+        with_refs: ["2Chr 1:11", "2Chr 1:12"]
+        relation: divergence
+        note: "wə-lōʾ šāʾaltā ʿōšer nəḵāsîm wə-ḵāḇôḏ ... wə-ʿōšer û-nəḵāsîm wə-ḵāḇôḏ ʾetten-lāḵ ʾăšer lōʾ-hāyâ ḵēn la-mməlāḵîm ʾăšer ləp̄āneyḵā wə-ʾaḥăreyḵā lōʾ yihyeh-kēn vs. wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī ... hādhā ʿaṭāʾunā fa-mnun aw amsik bi-ghayri ḥisāb. The same 'none after you' formula; in Chronicles it rewards Solomon for not asking, in the Quran it answers his asking."
+      - with: hb-1kgs-5-dominion-wisdom
+        motif: royal-stables-chariot-horses
+        refs: ["38:31", "38:32"]
+        with_refs: ["1Kgs 5:6"]
+        relation: divergence
+        note: "Solomon's horses. Kings: wa-yəhî li-šlōmōh ʾarbāʿîm ʾelep̄ ʾurəwōṯ sûsîm lə-merkāḇô, listed as royal glory (and, by Deut 17:16, a forbidden multiplication). Q: idh ʿuriḍa ʿalayhi bi-l-ʿashiyyi ṣ-ṣāfinātu l-jiyādu fa-qāla innī aḥbabtu ḥubba l-khayri ʿan dhikri rabbī ḥattā tawārat bi-l-ḥijāb. The horses become a moral episode, a love of wealth that distracted him from remembering God until sunset, followed by his turning back (innahu awwāb)."
+      - with: hb-deut-17-courts-king
+        motif: king-not-multiply-horses-wives-gold
+        refs: ["38:32", "38:33"]
+        with_refs: ["Deut 17:16"]
+        relation: echo
+        note: "raq lōʾ-yarbeh-lô sûsîm vs. innī aḥbabtu ḥubba l-khayri ʿan dhikri rabbī ... ruddūhā ʿalayya fa-ṭafiqa masḥan bi-s-sūqi wa-l-aʿnāq: the king's horses as a danger to his devotion. Deut forbids him to multiply them; the Quranic Solomon, distracted by them, either strokes or slashes them (the sense of masḥ is disputed)."
+      - with: hb-josh-11-hazor-northern-campaign
+        motif: hamstring-horses-burn-chariots
+        refs: ["38:33"]
+        with_refs: ["Josh 11:6", "Josh 11:9"]
+        relation: echo
+        note: "ʾeṯ-sûsêhem təʿaqqēr wə-ʾeṯ-markəḇōṯêhem tiśrōp̄ bā-ʾēš vs. fa-ṭafiqa masḥan bi-s-sūqi wa-l-aʿnāq. Joshua hamstrings the enemy's horses at God's command; if masḥ means cutting, Solomon does it to his own horses as penance. Lead depends on the reading of masḥ."
+      - with: hb-2sam-8-davids-wars-officials
+        motif: hamstring-horses-burn-chariots
+        refs: ["38:33"]
+        with_refs: ["2Sam 8:4"]
+        relation: echo
+        note: "wa-yəʿaqqēr dāwiḏ ʾeṯ-kol-hā-reḵeḇ vs. masḥan bi-s-sūqi wa-l-aʿnāq: the king disabling horses through the legs (sūq). Same caveat on masḥ."
+  - unit: quran-38-job
+    checked: [hb-job-23-where-can-i-find-him, hb-job-24-oppression-of-poor, hb-zech-3-joshua-and-the-satan, hb-num-30-vows, hb-job-42-epilogue, hb-isa-50-servant-struck, hb-job-2-second-test-and-friends, hb-job-19-my-redeemer-lives, hb-job-1-prologue-first-test]
+    matches:
+      - with: hb-job-19-my-redeemer-lives
+        motif: job-cries-satan-touched-me
+        refs: ["38:41"]
+        with_refs: ["Job 19:21"]
+        relation: divergence
+        note: "Who touched Job, with the same verb. Job: ḥonnunî ḥonnunî ʾattem rēʿāy kî yaḏ-ʾĕlôah nāḡəʿâ bî (the hand of God has touched me). Q: idh nādā rabbahu annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb (Satan has touched me with weariness and torment). nāḡaʿ and massa both mean 'touch'. The Quranic Job puts the cause on Satan and turns to his Lord; the Hebrew Job, who never learns of the satan, puts it on God himself."
+      - with: hb-job-2-second-test-and-friends
+        motif: satan-as-heavenly-accuser
+        refs: ["38:41"]
+        with_refs: ["Job 2:7"]
+        relation: parallel
+        note: "wa-yyēṣēʾ ha-śśāṭān mē-ʾēṯ pənê YHWH wa-yyak ʾeṯ-ʾiyyôḇ bi-šḥîn rāʿ vs. massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb: the satan is the agent of Job's bodily affliction. The narrator of Job knows it; in the Quran Job himself says it. There is no heavenly wager."
+      - with: hb-job-23-where-can-i-find-him
+        motif: job-cries-satan-touched-me
+        refs: ["38:41", "38:42"]
+        with_refs: ["Job 23:3", "Job 23:8", "Job 23:9"]
+        relation: contrast
+        note: "Calling on God. Job: mî-yittēn yāḏaʿtî wə-ʾemṣāʾēhû ... hēn qeḏem ʾehĕlōḵ wə-ʾênennû, he cannot find God to plead his case. Q: idh nādā rabbahu ... urkuḍ bi-rijlika hādhā mughtasalun bāridun wa-sharāb, he calls and is answered at once with a healing spring. There is no lawsuit and no divine silence."
+      - with: hb-job-42-epilogue
+        motif: fortunes-restored-twofold
+        refs: ["38:43"]
+        with_refs: ["Job 42:10", "Job 42:12", "Job 42:13"]
+        relation: divergence
+        note: "What is doubled. Job: wa-yyōsep̄ YHWH ʾeṯ-kol-ʾăšer lə-ʾiyyôḇ lə-mišneh, the herds doubled (14,000 sheep etc.), but the children are only replaced, šiḇʿānâ ḇānîm wə-šālôš bānôṯ, the same number as before. Q: wa-wahabnā lahu ahlahu wa-mithlahum maʿahum, his family given back with as many again; no herds mentioned. In Job the restoration follows his intercession for the friends (bə-hiṯpallǝlô bəʿaḏ rēʿēhû); the Quran gives no reason except raḥmatan minnā."
+      - with: hb-num-30-vows
+        motif: binding-vows
+        refs: ["38:44"]
+        with_refs: ["Num 30:3"]
+        relation: parallel
+        note: "ʾô-hiššāḇaʿ šəḇuʿâ ... lōʾ yaḥēl dəḇārô kə-ḵol-ha-yyōṣēʾ mip-pîw yaʿăśeh vs. wa-khudh bi-yadika ḍighthan fa-ḍrib bihi wa-lā taḥnath: an oath must not be broken. Numbers requires literal fulfilment; the Quran lets Job keep the oath through a token fulfilment (one blow with a bundle). The content of the oath is not stated in either text (cf. the exegetes' story of the wife, outside the pair)."
+      - with: hb-job-1-prologue-first-test
+        motif: hero-righteous
+        refs: ["38:44"]
+        with_refs: ["Job 1:8", "Job 1:22"]
+        relation: echo
+        note: "bə-ḵol-zōʾṯ lōʾ-ḥāṭāʾ ʾiyyôḇ wə-lōʾ-nāṯan tip̄lâ lēʾlōhîm vs. innā wajadnāhu ṣābiran niʿma l-ʿabdu innahu awwāb: the verdict on the patient servant. Q's ṣābir matches the prologue's Job, not the protesting Job of the dialogues; the Quran has no counterpart to chapters 3-41."
+  - unit: quran-38-patriarchs-and-fates
+    checked: [hb-zech-3-joshua-and-the-satan, hb-jer-23-against-prophets, hb-2chr-18-micaiah-and-ramoth-gilead, hb-isa-1-indictment-of-judah, hb-jer-33-branch-and-cosmic-covenant, hb-amos-5-lament-day-of-yhwh, hb-isa-26-song-and-resurrection, hb-deut-10-second-tablets, hb-isa-14-helel-ben-shahar]
+    matches:
+      - with: hb-jer-23-against-prophets
+        motif: dispute-in-high-assembly
+        refs: ["38:69", "38:70"]
+        with_refs: ["Jer 23:18", "Jer 23:22"]
+        relation: contrast
+        note: "The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet's credential. Q: mā kāna liya min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The prophet denies any first-hand knowledge of the council; he knows only by waḥy."
+      - with: hb-2chr-18-micaiah-and-ramoth-gilead
+        motif: divine-council-scene
+        refs: ["38:69"]
+        with_refs: ["2Chr 18:18", "2Chr 18:19", "2Chr 18:20"]
+        relation: echo
+        note: "wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōməḏîm ʿal-yəmînô û-śəmōʾlô ... wa-yyōʾmer zeh ʾōmēr kāḵâ wə-zeh ʾōmēr kāḵâ vs. bi-l-malaʾi l-aʿlā idh yakhtaṣimūn: the heavenly assembly in debate. Micaiah sees it; the Quranic prophet says he did not."
+      - with: hb-isa-26-song-and-resurrection
+        motif: paradise-gates-open
+        refs: ["38:50"]
+        with_refs: ["Isa 26:2"]
+        relation: parallel
+        note: "pitḥû šəʿārîm wə-yāḇōʾ ḡôy-ṣaddîq šōmēr ʾĕmunîm vs. jannāti ʿadnin mufattaḥatan lahumu l-abwāb: gates opened (pāṯaḥ / fattaḥa, cognate) for the righteous. Isaiah's gates are those of the strong city on earth, the Quran's those of the Gardens of Eden."
+      - with: hb-deut-10-second-tablets
+        motif: patriarchs-of-hands-and-vision
+        refs: ["38:45", "38:46", "38:47"]
+        with_refs: ["Deut 10:15"]
+        relation: divergence
+        note: "The chosen fathers. Deut: raq ba-ʾăḇōṯeyḵā ḥāšaq YHWH ... wa-yyiḇḥar bə-zarʿām ʾaḥărêhem bāḵem mi-kkol-hā-ʿammîm. The love of the fathers passes to the choice of their seed, Israel. Q: wa-dhkur ʿibādanā Ibrāhīma wa-Isḥāqa wa-Yaʿqūb ... wa-innahum ʿindanā la-mina l-muṣṭafayna l-akhyār, wa-dhkur Ismāʿīla wa-l-Yasaʿa wa-dhā l-kifl. The patriarchs themselves are chosen, for their 'remembrance of the abode', with no elect seed, and Ishmael stands beside them."
+      - with: hb-isa-14-helel-ben-shahar
+        motif: damned-groups-no-welcome
+        refs: ["38:59", "38:60"]
+        with_refs: ["Isa 14:9", "Isa 14:10"]
+        relation: echo
+        note: "šəʾôl mi-ttaḥaṯ rāḡəzâ ləḵā liqraʾṯ bôʾeḵā ... kullām yaʿănû wə-yōʾmərû ʾēleyḵā gam-ʾattâ ḥullêṯā ḵāmônû vs. hādhā fawjun muqtaḥimun maʿakum lā marḥaban bihim ... qālū bal antum lā marḥaban bikum: those already below greet the newcomers to the underworld with scorn."
+  - unit: quran-38-adam-iblis
+    checked: [hb-gen-2-eden-adam-woman, hb-job-33-elihu-dreams-and-angel, hb-job-10-why-did-you-make-me, hb-deut-32-song-of-moses, hb-job-34-elihu-defends-gods-justice, hb-ps-8-what-is-man, hb-ezek-28-cherub-in-eden, hb-isa-14-helel-ben-shahar, hb-job-1-prologue-first-test]
+    matches:
+      - with: hb-gen-2-eden-adam-woman
+        motif: breath-of-life-into-nostrils
+        refs: ["38:71", "38:72"]
+        with_refs: ["Gen 2:7"]
+        relation: divergence
+        note: "wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. innī khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn. The same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience; in Q the act is announced to the angels, and the breath of 'my spirit' is the cue for them to prostrate."
+      - with: hb-ps-8-what-is-man
+        motif: angels-bow-to-adam-iblis-refuses
+        refs: ["38:72", "38:73"]
+        with_refs: ["Ps 8:6"]
+        relation: contrast
+        note: "Man's rank relative to the heavenly beings. Ps: wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm wə-ḵāḇôḏ wə-hāḏār təʿaṭṭərēhû, made a little lower than the ʾĕlōhîm. Q: fa-sajada l-malāʾikatu kulluhum ajmaʿūn, the angels bow down to him. The psalm's slight inferiority becomes angelic prostration."
+      - with: hb-job-10-why-did-you-make-me
+        motif: adam-made-by-gods-two-hands
+        refs: ["38:75"]
+        with_refs: ["Job 10:8", "Job 10:9"]
+        relation: echo
+        note: "yāḏeyḵā ʿiṣṣəḇûnî wa-yyaʿăśûnî ... kî-ḵa-ḥōmer ʿăśîṯānî vs. mā manaʿaka an tasjuda li-mā khalaqtu bi-yadayya ... wa-khalaqtahu min ṭīn: a human shaped by God's two hands (dual yāḏeyḵā / yadayya) out of clay. Job says it as a reproach; God says it as proof of Adam's dignity."
+      - with: hb-ezek-28-cherub-in-eden
+        motif: iblis-expelled-and-cursed
+        refs: ["38:74", "38:76", "38:77"]
+        with_refs: ["Ezek 28:14", "Ezek 28:16", "Ezek 28:17"]
+        relation: echo
+        note: "A heavenly being of fire cast out for pride. Ezek: ʾatt-kərûḇ ... bə-ṯôḵ ʾaḇnê-ʾēš hiṯhallāḵtā ... wā-ʾăḥalleləḵā mē-har ʾĕlōhîm ... gāḇah libbəḵā bə-yop̄yeḵā ... ʿal-ʾereṣ hišlaḵtîḵā. Q: illā Iblīsa stakbara ... anā khayrun minhu khalaqtanī min nārin ... fa-khruj minhā fa-innaka rajīm. Pride (gāḇah libbəḵā / istakbara), fire (ʾaḇnê-ʾēš / nār), expulsion from God's place (mē-har ʾĕlōhîm / ukhruj minhā). Ezekiel's figure is the king of Tyre; the Quran has no human king. Lead."
+      - with: hb-isa-14-helel-ben-shahar
+        motif: iblis-expelled-and-cursed
+        refs: ["38:75", "38:77"]
+        with_refs: ["Isa 14:12", "Isa 14:13", "Isa 14:14"]
+        relation: echo
+        note: "ʾêḵ nāp̄altā miš-šāmayim hêlēl ben-šāḥar ... ʾeʿĕleh ʿal-bāmŏṯê ʿāḇ ʾeddammeh lə-ʿelyôn vs. a-stakbarta am kunta mina l-ʿālīn ... fa-khruj minhā fa-innaka rajīm. The proud being who would be 'high' is thrown down; ʿelyôn and ʿālīn share the root ʿ-l-y. Isaiah's taunt is over the king of Babylon."
+      - with: hb-job-1-prologue-first-test
+        motif: devil-granted-respite-until-resurrection
+        refs: ["38:79", "38:80", "38:82", "38:83"]
+        with_refs: ["Job 1:12"]
+        relation: echo
+        note: "hinnēh ḵol-ʾăšer-lô bə-yāḏeḵā raq ʾēlâw ʾal-tišlaḥ yāḏeḵā vs. fa-innaka mina l-munẓarīn ... la-ughwiyannahum ajmaʿīna illā ʿibādaka minhumu l-mukhlaṣīn: God grants the adversary licence within a limit. In Job the licence is a single test of one man by a member of the court; in the Quran it is respite until the Day for a cursed rebel, limited by the sincere servants."
+  - unit: quran-39-pure-religion
+    checked: [hb-ps-139-searched-and-known, hb-job-10-why-did-you-make-me, hb-ps-119-vav-kaf, hb-gen-2-eden-adam-woman, hb-ps-104-creation-hymn, hb-exod-34-thirteen-attributes-covenant-renewal, hb-ps-2-anointed-son, hb-2sam-7-dynastic-oracle, hb-ps-78-history, hb-job-26-hymn-to-cosmic-power]
+    matches:
+      - with: hb-ps-139-searched-and-known
+        motif: knit-together-in-mothers-womb
+        refs: ["39:6"]
+        with_refs: ["Ps 139:13", "Ps 139:15"]
+        relation: parallel
+        note: "tə-sukkēnî bə-ḇeṭen ʾimmî ... ʾăšer-ʿuśśêṯî ḇa-ssēṯer ruqqamtî bə-taḥtiyyôṯ ʾāreṣ vs. yakhluqukum fī buṭūni ummahātikum khalqan min baʿdi khalqin fī ẓulumātin thalāth: God forms the embryo stage by stage in a hidden place. The psalm's 'in secret' and 'the depths of the earth' match the Quran's 'three darknesses'."
+      - with: hb-job-10-why-did-you-make-me
+        motif: creation-in-womb-in-three-darknesses
+        refs: ["39:6"]
+        with_refs: ["Job 10:10", "Job 10:11"]
+        relation: echo
+        note: "hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. khalqan min baʿdi khalq: the embryo made in successive stages (milk, cheese, skin, flesh, bones). Job lists the stages to protest; the Quran mentions them as a sign of the One God."
+      - with: hb-gen-2-eden-adam-woman
+        motif: created-from-single-soul-and-its-mate
+        refs: ["39:6"]
+        with_refs: ["Gen 2:21", "Gen 2:22"]
+        relation: divergence
+        note: "wa-yyappēl ... tardēmâ ʿal-hā-ʾāḏām ... wa-yyiqqaḥ ʾaḥaṯ mi-ṣṣalʿōṯâw ... wa-yyiḇen ... ʾeṯ-ha-ṣṣēlāʿ ... lə-ʾiššâ vs. khalaqakum min nafsin wāḥidatin thumma jaʿala minhā zawjahā. The mate comes from the one soul with no sleep, no rib and no building. Only 'from it' (minhā) recalls Gen's 'from the man'."
+      - with: hb-ps-2-anointed-son
+        motif: if-god-wanted-a-son-he-would-choose
+        refs: ["39:4"]
+        with_refs: ["Ps 2:7"]
+        relation: contrast
+        note: "YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm's divine sonship of the king is answered in the Quran's terms: even if God wished it, the 'son' would be a creature God chose, not one he begot, and God is above it altogether."
+      - with: hb-2sam-7-dynastic-oracle
+        motif: if-god-wanted-a-son-he-would-choose
+        refs: ["39:4"]
+        with_refs: ["2Sam 7:14"]
+        relation: contrast
+        note: "ʾănî ʾehyeh-lô lə-ʾāḇ wə-hûʾ yihyeh-lî lə-ḇēn vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā yakhluq: adoption of a chosen human as God's son. The Quran states this as a hypothetical it rejects (subḥānahu); 2 Samuel states it as a covenant fact."
+      - with: hb-ps-78-history
+        motif: distress-prayer-then-ingratitude
+        refs: ["39:8"]
+        with_refs: ["Ps 78:34", "Ps 78:35", "Ps 78:36"]
+        relation: parallel
+        note: "ʾim-hărāḡām û-ḏərāšûhû wə-šāḇû wə-šiḥărû-ʾēl ... wa-yəp̄attûhû bə-p̄îhem û-ḇi-lšônām yəḵazzəḇû-lô vs. wa-idhā massa l-insāna ḍurrun daʿā rabbahu munīban ilayhi thumma idhā khawwalahu niʿmatan minhu nasiya mā kāna yadʿū ilayhi: they seek God when struck, then are false to him. The psalm's people is Israel; the Quran's is 'man' (al-insān)."
+      - with: hb-ps-119-vav-kaf
+        motif: sides-forsake-beds-night-prayer
+        refs: ["39:9"]
+        with_refs: ["Ps 119:62"]
+        relation: echo
+        note: "ḥăṣôṯ-laylâ ʾāqûm ləhôḏôṯ lāḵ vs. a-man huwa qānitun ānāʾa l-layli sājidan wa-qāʾiman: rising in the night to pray (ʾāqûm / qāʾim)."
+      - with: hb-job-26-hymn-to-cosmic-power
+        motif: night-wound-around-day
+        refs: ["39:5"]
+        with_refs: ["Job 26:10"]
+        relation: echo
+        note: "ḥōq-ḥāḡ ʿal-pənê-māyim ʿaḏ-taḵlîṯ ʾôr ʿim-ḥōšeḵ (he drew a circle on the waters at the boundary of light and darkness) vs. yukawwiru l-layla ʿalā n-nahāri wa-yukawwiru n-nahāra ʿalā l-layl (he wraps night round day): day and night as something curved or circled round."
+  - unit: quran-39-sincere-servant
+    checked: [hb-ps-90-moses-thousand-years, hb-ps-103-bless-my-soul, hb-ps-102-afflicted, hb-ps-78-history, hb-deut-33-blessing-of-moses, hb-isa-34-edom-and-lilith, hb-job-4-eliphaz-vision, hb-ps-119-alef-he, hb-ps-119-lamed-ayin, hb-1kgs-18-carmel]
+    matches:
+      - with: hb-ps-90-moses-thousand-years
+        motif: humans-like-grass-withering
+        refs: ["39:21"]
+        with_refs: ["Ps 90:5", "Ps 90:6"]
+        relation: parallel
+        note: "ba-bbōqer ka-ḥāṣîr yaḥălōp̄ ... lā-ʿereḇ yəmôlēl wə-yāḇēš vs. yukhriju bihi zarʿan mukhtalifan alwānuhu thumma yahīju fa-tarāhu muṣfarran thumma yajʿaluhu ḥuṭāman. Growth, then yellowing and withering. The psalm applies it explicitly to humans; the Quran sets it out as a lesson for 'those with minds' (dhikrā li-ulī l-albāb)."
+      - with: hb-ps-103-bless-my-soul
+        motif: humans-like-grass-withering
+        refs: ["39:21"]
+        with_refs: ["Ps 103:15", "Ps 103:16"]
+        relation: echo
+        note: "ʾĕnôš ke-ḥāṣîr yāmâw kə-ṣîṣ ha-śśāḏeh ken yāṣîṣ kî rûaḥ ʿāḇərâ-bô wə-ʾênennû vs. thumma yahīju fa-tarāhu muṣfarran thumma yajʿaluhu ḥuṭāmā: the life of plants as a figure for short human life."
+      - with: hb-ps-102-afflicted
+        motif: humans-like-grass-withering
+        refs: ["39:21"]
+        with_refs: ["Ps 102:12"]
+        relation: echo
+        note: "yāmay kə-ṣēl nāṭûy wa-ʾănî kā-ʿēśeḇ ʾîḇāš vs. fa-tarāhu muṣfarran: withering grass as a figure for a life fading."
+      - with: hb-job-4-eliphaz-vision
+        motif: skins-shiver-at-recitation
+        refs: ["39:23"]
+        with_refs: ["Job 4:15"]
+        relation: echo
+        note: "wə-rûaḥ ʿal-pānay yaḥălōp̄ təsammēr śaʿăraṯ bəśārî vs. taqshaʿirru minhu julūdu lladhīna yakhshawna rabbahum thumma talīnu julūduhum wa-qulūbuhum ilā dhikri llāh: the body's skin creeps at a revelation. Eliphaz's night spirit only terrifies; the Quran's recitation makes the skin shiver and then soften."
+      - with: hb-ps-119-lamed-ayin
+        motif: skins-shiver-at-recitation
+        refs: ["39:23"]
+        with_refs: ["Ps 119:120"]
+        relation: parallel
+        note: "sāmar mip-paḥdəḵā ḇəśārî û-mi-mmišpāṭeyḵā yārēʾṯî vs. taqshaʿirru minhu julūdu lladhīna yakhshawna rabbahum: the flesh bristles in fear of God and of his words (mišpāṭîm / aḥsan al-ḥadīth)."
+      - with: hb-ps-119-alef-he
+        motif: heart-opened-to-islam
+        refs: ["39:22"]
+        with_refs: ["Ps 119:32"]
+        relation: parallel
+        note: "dereḵ-miṣwōteyḵā ʾārûṣ kî ṯarḥîḇ libbî vs. a-fa-man sharaḥa llāhu ṣadrahu li-l-islāmi fa-huwa ʿalā nūrin min rabbih: God enlarges the heart or chest (hirḥîḇ lēḇ / sharaḥa ṣadr) for his way, set against the hardened heart (al-qāsiyati qulūbuhum)."
+      - with: hb-1kgs-18-carmel
+        motif: parable-slave-of-quarreling-partners
+        refs: ["39:29"]
+        with_refs: ["1Kgs 18:21"]
+        relation: echo
+        note: "ʿaḏ-māṯay ʾattem pōsəḥîm ʿal-šətê ha-ssəʿippîm vs. ḍaraba llāhu mathalan rajulan fīhi shurakāʾu mutashākisūna wa-rajulan salaman li-rajulin hal yastawiyāni: serving divided loyalties against belonging wholly to one. Elijah's 'two opinions' and the Quran's slave with quarrelling owners both demand undivided service."
+  - unit: quran-39-death-and-sleep
+    checked: [hb-ps-13-how-long, hb-deut-30-return-choose-life, hb-job-12-ask-the-beasts, hb-job-34-elihu-defends-gods-justice, hb-ps-49-no-ransom, hb-zeph-1-day-of-wrath, hb-deut-8-wilderness-lesson, hb-deut-31-joshua-torah-song]
+    matches:
+      - with: hb-ps-13-how-long
+        motif: sleep-of-death
+        refs: ["39:42"]
+        with_refs: ["Ps 13:4"]
+        relation: echo
+        note: "hāʾîrâ ʿênay pen-ʾîšan ha-mmāweṯ vs. allāhu yatawaffā l-anfusa ḥīna mawtihā wa-llatī lam tamut fī manāmihā: sleep and death set side by side. The psalmist fears that sleep will become death; the Quran makes both a taking of the soul, from which God sends some back (yursilu l-ukhrā ilā ajalin musammā)."
+      - with: hb-job-34-elihu-defends-gods-justice
+        motif: god-takes-souls-in-sleep-and-death
+        refs: ["39:42"]
+        with_refs: ["Job 34:14", "Job 34:15"]
+        relation: parallel
+        note: "ʾim-yāśîm ʾēlâw libbô rûḥô wə-nišmāṯô ʾēlâw yeʾĕsōp̄ yiḡwaʿ kol-bāśār yaḥad vs. allāhu yatawaffā l-anfusa ḥīna mawtihā ... fa-yumsiku llatī qaḍā ʿalayhā l-mawt: God gathers back the breath or soul, and death follows. Elihu states it as a possibility for all flesh; the Quran describes it as happening every night and at each death."
+      - with: hb-job-12-ask-the-beasts
+        motif: god-takes-souls-in-sleep-and-death
+        refs: ["39:42"]
+        with_refs: ["Job 12:10"]
+        relation: echo
+        note: "ʾăšer bə-yāḏô nep̄eš kol-ḥāy wə-rûaḥ kol-bəśar-ʾîš vs. allāhu yatawaffā l-anfus: every soul (nep̄eš / nafs, cognate) is in God's hand."
+      - with: hb-ps-49-no-ransom
+        motif: earthful-of-gold-no-ransom
+        refs: ["39:47"]
+        with_refs: ["Ps 49:8", "Ps 49:9"]
+        relation: parallel
+        note: "ʾāḥ lōʾ-p̄āḏōh yip̄deh ʾîš lōʾ-yittēn lēʾlōhîm kop̄rô wə-yēqar piḏyôn nap̄šām vs. wa-law anna li-lladhīna ẓalamū mā fī l-arḍi jamīʿan wa-mithlahu maʿahu la-ftadaw bihi: no wealth can ransom a life from God. pāḏâ and fadā are cognate. The psalm speaks of death; the Quran of the punishment of the Day of Resurrection."
+      - with: hb-zeph-1-day-of-wrath
+        motif: earthful-of-gold-no-ransom
+        refs: ["39:47"]
+        with_refs: ["Zeph 1:18"]
+        relation: parallel
+        note: "gam-kaspām gam-zəhāḇām lōʾ-yûḵal ləhaṣṣîlām bə-yôm ʿeḇraṯ YHWH vs. mā fī l-arḍi jamīʿan wa-mithlahu maʿahu la-ftadaw bihi min sūʾi l-ʿadhābi yawma l-qiyāma: silver and gold cannot save on the Day of wrath or of Resurrection."
+      - with: hb-deut-8-wilderness-lesson
+        motif: wealth-gained-through-own-knowledge-claim
+        refs: ["39:49", "39:50"]
+        with_refs: ["Deut 8:17", "Deut 8:18"]
+        relation: parallel
+        note: "wə-ʾāmartā bi-lḇāḇeḵā kōḥî wə-ʿōṣem yāḏî ʿāśâ lî ʾeṯ-ha-ḥayil ha-zzeh, wə-zāḵartā ... kî hûʾ ha-nnōṯēn ləḵā kōaḥ vs. thumma idhā khawwalnāhu niʿmatan minnā qāla innamā ūtītuhu ʿalā ʿilm, bal hiya fitna. Taking credit for God's gift: Deut has 'my strength', the Quran 'my knowledge'. Deut answers that God gave the power; the Quran that the gift is a test."
+      - with: hb-deut-31-joshua-torah-song
+        motif: prophet-is-mortal-will-die
+        refs: ["39:30"]
+        with_refs: ["Deut 31:14"]
+        relation: echo
+        note: "hēn qārəḇû yāmeyḵā lāmûṯ vs. innaka mayyitun wa-innahum mayyitūn: God tells his prophet that he will die. For Moses it is near and personal; for Muhammad it is said together with his opponents, who will also die, before the dispute at the judgment (39:31)."
+  - unit: quran-39-mercy-and-last-day
+    checked: [hb-isa-34-edom-and-lilith, hb-isa-40-comfort-my-people, hb-ps-37-meek-inherit, hb-ezek-43-glory-returns, hb-1kgs-22-micaiah, hb-2chr-6-solomons-dedication-prayer, hb-ezek-33-watchman-and-fall-news, hb-isa-22-valley-of-vision-and-shebna]
+    matches:
+      - with: hb-ezek-43-glory-returns
+        motif: earth-shines-with-gods-glory
+        refs: ["39:69"]
+        with_refs: ["Ezek 43:2"]
+        relation: divergence
+        note: "wə-hinnēh kəḇôḏ ʾĕlōhê yiśrāʾēl bāʾ mi-dderek ha-qqāḏîm ... wə-hā-ʾāreṣ hēʾîrâ mik-kəḇōḏô vs. wa-ashraqati l-arḍu bi-nūri rabbihā: the earth lit up by God's radiance. In Ezekiel it is the glory of the God of Israel returning to his temple; in the Quran it is the light of the earth's Lord at the universal judgment."
+      - with: hb-isa-34-edom-and-lilith
+        motif: heavens-rolled-up-like-scroll
+        refs: ["39:67"]
+        with_refs: ["Isa 34:4"]
+        relation: parallel
+        note: "wə-nāgōllû ḵa-sseper ha-ššāmāyim vs. wa-s-samāwātu maṭwiyyātun bi-yamīnihi: the heavens rolled or folded up at the end. Isaiah has a scroll, the Quran God's right hand."
+      - with: hb-isa-40-comfort-my-people
+        motif: earth-in-gods-grip-heavens-folded-in-right-hand
+        refs: ["39:67"]
+        with_refs: ["Isa 40:12", "Isa 40:18"]
+        relation: parallel
+        note: "mî-māḏaḏ bə-šoʿŏlô mayim wə-šāmayim ba-zzereṯ tikkēn wə-ḵāl ba-ššālīš ʿăp̄ar hā-ʾāreṣ ... wə-ʾel-mî təḏamməyûn ʾēl vs. wa-mā qadarū llāha ḥaqqa qadrihi wa-l-arḍu jamīʿan qabḍatuhu ... wa-s-samāwātu maṭwiyyātun bi-yamīnihi: the earth and the heavens held in God's hand-measures, and people have not measured God rightly (qadarū / tikkēn, measuring)."
+      - with: hb-ps-37-meek-inherit
+        motif: blessed-inherit-the-earth-of-paradise
+        refs: ["39:74"]
+        with_refs: ["Ps 37:29"]
+        relation: divergence
+        note: "ṣaddîqîm yîrəšû-ʾāreṣ wə-yiškənû lā-ʿaḏ ʿāleyhā vs. al-ḥamdu li-llāhi lladhī ... awrathanā l-arḍa natabawwaʾu mina l-jannati ḥaythu nashāʾ: the righteous inherit (yāraš / awratha, cognate) the land and dwell in it. The psalm's land is this earth; the Quran's 'land' is the Garden."
+      - with: hb-ezek-33-watchman-and-fall-news
+        motif: do-not-despair-god-forgives-all-sins
+        refs: ["39:53", "39:54"]
+        with_refs: ["Ezek 33:10", "Ezek 33:11"]
+        relation: parallel
+        note: "Answer to despair over sin. Ezek: kî-p̄əšāʿênû wə-ḥaṭṭōʾṯênû ʿālênû û-ḇām ʾănaḥnû nəmaqqîm wə-ʾêḵ niḥyeh ... ʾim-ʾeḥpōṣ bə-môṯ hā-rāšāʿ kî ʾim-bə-šûḇ rāšāʿ mi-ddarkô wə-ḥāyâ šûḇû šûḇû. Q: yā-ʿibādiya lladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmati llāhi inna llāha yaghfiru dh-dhunūba jamīʿan ... wa-anībū ilā rabbikum. Do not give up; turn back (šûḇ / anāba)."
+      - with: hb-2chr-6-solomons-dedication-prayer
+        motif: do-not-despair-god-forgives-all-sins
+        refs: ["39:53"]
+        with_refs: ["2Chr 6:36", "2Chr 6:39"]
+        relation: echo
+        note: "kî ʾên ʾāḏām ʾăšer lōʾ-yeḥĕṭāʾ ... wə-sālaḥtā lə-ʿamməḵā ʾăšer ḥāṭəʾû-lāḵ vs. inna llāha yaghfiru dh-dhunūba jamīʿā: all sin and God's forgiveness. Solomon asks it for 'your people' praying toward the temple; the Quran offers it to all God's servants."
+      - with: hb-isa-22-valley-of-vision-and-shebna
+        motif: keys-of-heavens-and-earth
+        refs: ["39:63"]
+        with_refs: ["Isa 22:22"]
+        relation: divergence
+        note: "wə-nāṯattî map̄tēaḥ bêṯ-dāwiḏ ʿal-šiḵmô û-p̄āṯaḥ wə-ʾên sōḡēr vs. lahu maqālīdu s-samāwāti wa-l-arḍ: the key as power to open and close. In Isaiah God hands the key of David's house to a human steward; in the Quran the keys of heaven and earth belong to God alone."
+      - with: hb-1kgs-22-micaiah
+        motif: vision-of-god-enthroned-with-host-of-heaven
+        refs: ["39:75"]
+        with_refs: ["1Kgs 22:19"]
+        relation: parallel
+        note: "rāʾîṯî ʾeṯ-YHWH yōšēḇ ʿal-kisʾô wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōmēḏ ʿālâw mî-mînô û-miś-śəmōʾlô vs. wa-tarā l-malāʾikata ḥāffīna min ḥawli l-ʿarshi yusabbiḥūna bi-ḥamdi rabbihim: the throne surrounded by the host. In Kings it is a council deliberating deception; in the Quran a choir of praise closing the judgment (wa-qīla l-ḥamdu li-llāhi rabbi l-ʿālamīn)."
