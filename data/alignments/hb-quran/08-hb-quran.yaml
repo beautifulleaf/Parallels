@@ -1,0 +1,1632 @@
+new_motifs:
+  daughter-of-amram-named-miriam: {label: "Miriam / Maryam named as the daughter of Amram / ʿImran", cluster: patriarchs}
+reviewed:
+  - unit: quran-63-munafiqun-propped-timbers
+    checked: [hb-jer-10-idols-scarecrows, hb-ps-135-hymn-of-election, hb-mal-3-tithes, hb-jer-7-queen-of-heaven, hb-exod-20-decalogue, hb-jer-31-consolation-new-covenant, hb-isa-38-hezekiahs-illness, hb-2kgs-20-hezekiah-illness-babylon]
+    matches:
+      - with: hb-jer-10-idols-scarecrows
+        motif: hypocrites-like-propped-up-timbers
+        refs: ["63:4"]
+        with_refs: ["Jer 10:3", "Jer 10:4", "Jer 10:5"]
+        relation: echo
+        note: "ka-annahum khushubun musannadatun 'as if they were propped-up timbers' (impressive bodies, tuʿjibuka ajsāmuhum) ~ the idol is ʿēṣ mi-yyaʿar, decorated with silver and gold (yeyappēhû), fastened with nails so it will not totter (be-masmerôt ... yeḥazzeqûm we-lôʾ yāfîq), ke-tōmer miqšāh 'like a scarecrow in a cucumber field'. Same image of handsome but lifeless propped wood; Jeremiah applies it to idols, the Quran to human hypocrites."
+      - with: hb-jer-7-queen-of-heaven
+        motif: prophet-forbidden-to-intercede
+        refs: ["63:6"]
+        with_refs: ["Jer 7:16"]
+        relation: parallel
+        note: "sawāʾun ʿalayhim a-staghfarta lahum am lam tastaghfir lahum lan yaghfira llāhu lahum ~ we-ʾattāh ʾal titpallēl beʿad hā-ʿām ha-zzeh ... kî ʾênennî šōmēaʿ ʾōtāk. In Jeremiah God forbids the prophet to pray because he will not hear; in the Quran the prophet's asking forgiveness is declared useless for the hypocrites."
+      - with: hb-ps-135-hymn-of-election
+        motif: heavenly-storehouse-of-rain
+        refs: ["63:7"]
+        with_refs: ["Ps 135:7"]
+        relation: echo
+        note: "wa-li-llāhi khazāʾinu s-samāwāti wa-l-arḍ ~ môṣēʾ rûaḥ mē-ʾôṣerôtāyw (wind from his storehouses). Shared image of divine treasuries; the Quran uses it against the hypocrites' 'do not spend on those with the messenger'."
+      - with: hb-mal-3-tithes
+        motif: heavenly-storehouse-of-rain
+        refs: ["63:7"]
+        with_refs: ["Mal 3:10"]
+        relation: echo
+        note: "Both tie giving to God's treasuries: lā tunfiqū ... wa-li-llāhi khazāʾinu s-samāwāt (withholding is pointless, the treasuries are God's) ~ hābîʾû ʾet kol ha-maʿaśēr ʾel bêt hā-ʾôṣār ... ʾim lōʾ ʾeftaḥ lākem ʾēt ʾărubbôt ha-šāmayim (bring the tithe to the storehouse and he opens the windows of heaven)."
+      - with: hb-isa-38-hezekiahs-illness
+        motif: life-extended-fifteen-years
+        refs: ["63:10", "63:11"]
+        with_refs: ["Isa 38:1", "Isa 38:5"]
+        relation: contrast
+        note: "Opposite teaching on the plea for more time at death: rabbi law-lā akhkhartanī ilā ajalin qarībin fa-aṣṣaddaqa ... wa-lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ ṣaw le-vêtekā kî mēt ʾattāh ... šāmaʿtî ʾet tefillātekā ... hinenî yôsîf ʿal yāmêkā ḥămēš ʿeśrēh šānāh. Hezekiah's prayer at death wins fifteen years; in the Quran no soul is delayed when its term comes."
+      - with: hb-2kgs-20-hezekiah-illness-babylon
+        motif: life-extended-fifteen-years
+        refs: ["63:11"]
+        with_refs: ["2Kgs 20:1", "2Kgs 20:6"]
+        relation: contrast
+        note: "lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ we-hōsaftî ʿal yāmêkā ḥămēš ʿeśrēh šānāh; same contrast as Isa 38."
+  - unit: quran-64-taghabun-day-of-loss-and-household-enemies
+    checked: [hb-mic-7-lament-and-hope, hb-jer-16-fishers-and-hunters, hb-gen-9-noahide-covenant, hb-isa-45-cyrus-the-anointed, hb-ps-44-national-lament, hb-isa-63-communal-lament, hb-prov-19-sayings]
+    matches:
+      - with: hb-mic-7-lament-and-hope
+        motif: family-members-become-enemies
+        refs: ["64:14"]
+        with_refs: ["Mic 7:5", "Mic 7:6"]
+        relation: divergence
+        note: "inna min azwājikum wa-awlādikum ʿaduwwan lakum fa-ḥdharūhum ~ ʾōyevê ʾîš ʾanšê vêtô, and mi-ššōkevet ḥêqekā šemōr pitḥê fîkā (guard your mouth from her who lies in your bosom). Same warning about wife and children as enemies; Micah ends in distrust, the Quran adds wa-in taʿfū wa-taṣfaḥū wa-taghfirū (pardon them) and turns it into a trial (fitna, 64:15)."
+      - with: hb-isa-45-cyrus-the-anointed
+        motif: creation-not-in-play
+        refs: ["64:3"]
+        with_refs: ["Isa 45:18"]
+        relation: parallel
+        note: "khalaqa s-samāwāti wa-l-arḍa bi-l-ḥaqq ~ bôrēʾ ha-šāmayim ... lōʾ tōhû verāʾāh lā-ševet yeṣārāh: creation was not made in vain/as chaos but with purpose."
+      - with: hb-gen-9-noahide-covenant
+        motif: human-in-divine-image
+        refs: ["64:3"]
+        with_refs: ["Gen 9:6"]
+        relation: echo
+        note: "loose: wa-ṣawwarakum fa-aḥsana ṣuwarakum (he shaped you and made your forms good) ~ kî be-ṣelem ʾĕlōhîm ʿāśāh ʾet hā-ʾādām. The Quran speaks of a good form (ṣūra) given by God, never of God's image."
+      - with: hb-ps-44-national-lament
+        motif: god-alone-knows-hearts
+        refs: ["64:4"]
+        with_refs: ["Ps 44:22"]
+        relation: echo
+        note: "wa-llāhu ʿalīmun bi-dhāti ṣ-ṣudūr ~ kî hûʾ yōdēaʿ taʿălumôt lēv."
+      - with: hb-jer-16-fishers-and-hunters
+        motif: god-alone-knows-hearts
+        refs: ["64:4"]
+        with_refs: ["Jer 16:17"]
+        relation: echo
+        note: "yaʿlamu mā tusirrūna wa-mā tuʿlinūn ~ kî ʿênay ʿal kol darkêhem lōʾ nisterû mi-lpānāy."
+      - with: hb-prov-19-sayings
+        motif: goodly-loan-to-god-doubled
+        refs: ["64:17"]
+        with_refs: ["Prov 19:17"]
+        relation: parallel
+        note: "in tuqriḍū llāha qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô: giving is a loan to God that he repays. The Quran says 'doubles it'; Proverbs specifies the loan is mercy to the poor."
+  - unit: quran-65-talaq-divorce-and-seven-earths
+    checked: [hb-neh-9-levites-confession, hb-mal-2-faithless-marriage, hb-lev-5-graduated-and-guilt-offerings, hb-exod-20-decalogue, hb-jer-3-return-faithless-wife, hb-deut-24-divorce-pledges-poor]
+    matches:
+      - with: hb-deut-24-divorce-pledges-poor
+        motif: bill-of-divorce
+        refs: ["65:1"]
+        with_refs: ["Deut 24:1", "Deut 24:2"]
+        relation: divergence
+        note: "Grounds and house reversed. Deut 24:1 kî māṣāʾ vāh ʿerwat dāvār we-kātav lāh sēfer kerîtut ... we-šillḥāh mi-bbêtô (he finds 'some indecency', writes a writ, sends her out of HIS house). Q 65:1 lā tukhrijūhunna min buyūtihinna wa-lā yakhrujna illā an yaʾtīna bi-fāḥishatin mubayyinatin: during the ʿidda the wife may not be put out of HER house, and 'flagrant indecency' is the only ground for eviction, not the ground for divorce. No written writ in the Quran; instead a counted waiting period (aḥṣū l-ʿidda)."
+      - with: hb-deut-24-divorce-pledges-poor
+        motif: retain-or-part-honorably-with-two-witnesses
+        refs: ["65:1", "65:2"]
+        with_refs: ["Deut 24:4"]
+        relation: divergence
+        note: "Return to the wife: Deut 24:4 lōʾ yûkal baʿlāh hā-riʾšôn ... lāšûv le-qaḥtāh (after she has married another, never; tôʿēvāh hîʾ). Q 65:1-2 keeps return open: laʿalla llāha yuḥdithu baʿda dhālika amran ... fa-amsikūhunna bi-maʿrūfin aw fāriqūhunna bi-maʿrūf, with two just witnesses (wa-ashhidū dhaway ʿadlin). The Quran's own rule on remarriage after a third divorce (2:230) is outside this unit."
+      - with: hb-mal-2-faithless-marriage
+        motif: bill-of-divorce
+        refs: ["65:1", "65:2"]
+        with_refs: ["Mal 2:14", "Mal 2:16"]
+        relation: contrast
+        note: "Mal 2:16 kî śānēʾ šallaḥ ʾāmar YHWH (God hates sending away), and YHWH hēʿîd bênkā û-vên ʾēšet neʿûrêkā (God is the witness of the marriage). Q 65 regulates divorce without censure (idhā ṭallaqtumu n-nisāʾa fa-ṭalliqūhunna li-ʿiddatihinna) and the witnesses are two human ʿadl men at the parting, while the warning is ittaqū llāha rabbakum."
+      - with: hb-lev-5-graduated-and-guilt-offerings
+        motif: offering-scaled-to-means
+        refs: ["65:7"]
+        with_refs: ["Lev 5:7", "Lev 5:11"]
+        relation: echo
+        note: "li-yunfiq dhū saʿatin min saʿatihi wa-man qudira ʿalayhi rizquhu fa-l-yunfiq mimmā ātāhu llāh, lā yukallifu llāhu nafsan illā mā ātāhā ~ we-ʾim lōʾ taggîaʿ yādô dê śeh ... šettê tōrîm. Same principle of obligation scaled to means; Leviticus applies it to the sin offering, the Quran to child-support of a divorcee."
+      - with: hb-neh-9-levites-confession
+        motif: heaven-of-heavens
+        refs: ["65:12"]
+        with_refs: ["Neh 9:6"]
+        relation: echo
+        note: "allāhu lladhī khalaqa sabʿa samāwātin wa-mina l-arḍi mithlahunna ~ ʾattāh ʿāśîtā ʾet ha-šāmayim šemê ha-šāmayim we-kol ṣevāʾām hā-ʾāreṣ. Plural heavens made by God; the Quran numbers them seven and adds seven earths, unknown to the Hebrew Bible (cf. rabbinic seven earths, Lev. Rab. 29:11, not a match)."
+  - unit: quran-66-tahrim-wives-and-the-four-women
+    checked: [hb-exod-6-name-and-levite-genealogy, hb-num-26-second-census, hb-prov-25-hezekiah-collection, hb-prov-20-sayings, hb-prov-11-sayings, hb-jer-44-queen-of-heaven, hb-num-30-vows, hb-gen-19-sodom-destroyed, hb-gen-6-flood, hb-exod-2-moses-birth-flight-midian, hb-dan-9-prayer-seventy-weeks]
+    matches:
+      - with: hb-num-30-vows
+        motif: binding-vows
+        refs: ["66:1", "66:2"]
+        with_refs: ["Num 30:3", "Num 30:9"]
+        relation: contrast
+        note: "Self-imposed prohibition by oath: Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššāvaʿševuʿāh leʾsōr ʾissār ʿal nafšô lōʾ yaḥēl devārô (a man's binding prohibition on himself cannot be broken; only a woman's vow can be annulled by father or husband, 30:9 we-hēfēr ʾet nidrāh). Q 66:1-2 lima tuḥarrimu mā aḥalla llāhu laka ... qad faraḍa llāhu lakum taḥillata aymānikum: God rebukes the prophet for forbidding himself what is lawful and prescribes the release of men's oaths."
+      - with: hb-num-26-second-census
+        motif: daughter-of-amram-named-miriam
+        refs: ["66:12"]
+        with_refs: ["Num 26:59"]
+        relation: echo
+        note: "maryama bnata ʿimrāna ~ wa-tēled le-ʿAmrām ʾet ʾAhărōn we-ʾet Mōšeh we-ʾēt Miryām ʾăḥōtām. The Hebrew Bible's only Miriam is the daughter of Amram and sister of Aaron; the Quran gives the mother of Jesus the same name and father. Leads only: the identification question is for the checkers."
+      - with: hb-exod-6-name-and-levite-genealogy
+        motif: daughter-of-amram-named-miriam
+        refs: ["66:12"]
+        with_refs: ["Exod 6:20"]
+        relation: echo
+        note: "ʿimrān ~ wa-yiqqaḥ ʿAmrām ʾet Yôkeved ... wa-tēled lô ʾet ʾAhărōn we-ʾet Mōšeh: Amram as father of the prophets' family (Miriam unnamed here; named in Num 26:59)."
+      - with: hb-prov-11-sayings
+        motif: talebearer-reveals-secrets
+        refs: ["66:3"]
+        with_refs: ["Prov 11:13"]
+        relation: echo
+        note: "wa-idh asarra n-nabiyyu ilā baʿḍi azwājihi ḥadīthan fa-lammā nabbaʾat bihi ~ hôlēk rākîl megalleh sôd we-neʾĕman rûaḥ mekasseh dāvār. The divulged confidence; in the Quran God himself exposes the leak (wa-aẓharahu llāhu ʿalayhi)."
+      - with: hb-prov-20-sayings
+        motif: talebearer-reveals-secrets
+        refs: ["66:3"]
+        with_refs: ["Prov 20:19"]
+        relation: echo
+        note: "nabbaʾat bihi ~ gôleh sôd hôlēk rākîl."
+      - with: hb-prov-25-hezekiah-collection
+        motif: talebearer-reveals-secrets
+        refs: ["66:3"]
+        with_refs: ["Prov 25:9"]
+        relation: echo
+        note: "asarra ... ḥadīthan ~ we-sôd ʾaḥēr ʾal tegal."
+      - with: hb-gen-19-sodom-destroyed
+        motif: wife-turned-to-pillar-of-salt
+        refs: ["66:10"]
+        with_refs: ["Gen 19:26"]
+        relation: divergence
+        note: "Lot's wife's fate and fault changed: Gen 19:26 wattabbēṭ ʾištô mē-ʾaḥărāyw wattehî neṣîv melaḥ (she looks back and becomes a pillar of salt). Q 66:10 imraʾata lūṭin ... fa-khānatāhumā ... wa-qīla dkhulā n-nāra maʿa d-dākhilīn: her sin is betrayal (khiyāna) of a righteous husband and her end is the Fire, not salt."
+      - with: hb-gen-6-flood
+        motif: family-saved
+        refs: ["66:10"]
+        with_refs: ["Gen 7:7", "Gen 7:13"]
+        relation: divergence
+        note: "Noah's wife reversed: in Genesis she is among the saved (wa-yāvōʾ Nōaḥ ... we-ʾištô ... ʾel ha-tēvāh; we-ʾēšet Nōaḥ ... ʾittām ʾel ha-tēvāh). Q 66:10 imraʾata nūḥin ... kānatā taḥta ʿabdayni min ʿibādinā ṣāliḥayni fa-khānatāhumā ... dkhulā n-nār: she betrayed him and is condemned. cf. Gen. Rab. 23:3 on Naamah and Gnostic Norea (not a match)."
+      - with: hb-exod-2-moses-birth-flight-midian
+        motif: found-by-royal-household
+        refs: ["66:11"]
+        with_refs: ["Exod 2:5", "Exod 2:6", "Exod 2:10"]
+        relation: divergence
+        note: "The righteous woman of Pharaoh's house: Exodus has bat parʿōh, who pities the Hebrew child (wattaḥmōl ʿālāyw) and adopts him (wa-yehî lāh le-vēn). The Quran has imraʾata firʿawna, held up as the model believer who prays rabbi bni lī ʿindaka baytan fī l-janna wa-najjinī min firʿawna wa-ʿamalihi: daughter becomes wife, and she is set against Pharaoh himself. Her rescue of Moses is told in Q 28:9, outside this unit."
+      - with: hb-dan-9-prayer-seventy-weeks
+        motif: angel-gabriel-named
+        refs: ["66:4"]
+        with_refs: ["Dan 9:21"]
+        relation: echo
+        note: "wa-jibrīlu wa-ṣāliḥu l-muʾminīna wa-l-malāʾikatu baʿda dhālika ẓahīr ~ we-hā-ʾîš Gavrîʾēl ʾăšer rāʾîtî ve-ḥāzôn. The only named angel shared by both books; in Daniel he comes to explain the vision, in Q 66:4 he is the prophet's ally (ẓahīr) in a household dispute."
+  - unit: quran-67-mulk-heavens-lamps-and-hell
+    checked: [hb-ps-94-god-of-vengeance, hb-ps-145-ashrei, hb-judg-5-song-of-deborah, hb-isa-45-cyrus-the-anointed, hb-isa-63-communal-lament, hb-ps-18-storm-theophany, hb-ps-33-creation-by-word, hb-deut-30-return-choose-life]
+    matches:
+      - with: hb-ps-94-god-of-vengeance
+        motif: maker-of-eye-and-ear-sees-and-hears
+        refs: ["67:13", "67:14"]
+        with_refs: ["Ps 94:7", "Ps 94:9", "Ps 94:11"]
+        relation: parallel
+        note: "a-lā yaʿlamu man khalaqa wa-huwa l-laṭīfu l-khabīr ~ hă-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr ʿayin hă-lōʾ yabbîṭ ... YHWH yōdēaʿ maḥševôt ʾādām. Same argument from the creator to his knowledge, answering the doubt of Ps 94:7 lōʾ yirʾeh Yāh. 67:13 asirrū qawlakum aw-jharū bihi parallels maḥševôt."
+      - with: hb-ps-33-creation-by-word
+        motif: god-fashions-all-hearts
+        refs: ["67:13", "67:14"]
+        with_refs: ["Ps 33:13", "Ps 33:15"]
+        relation: parallel
+        note: "innahu ʿalīmun bi-dhāti ṣ-ṣudūr, a-lā yaʿlamu man khalaqa ~ ha-yyōṣēr yaḥad libbām ha-mmēvîn ʾel kol maʿăśêhem: he who formed the hearts knows them."
+      - with: hb-ps-145-ashrei
+        motif: everlasting-kingdom-of-god
+        refs: ["67:1"]
+        with_refs: ["Ps 145:13"]
+        relation: echo
+        note: "tabāraka lladhī bi-yadihi l-mulku ~ malkûtekā malkût kol ʿōlāmîm û-memšaltekā be-kol dôr wā-dôr."
+      - with: hb-judg-5-song-of-deborah
+        motif: stars-fight-from-heaven
+        refs: ["67:5"]
+        with_refs: ["Judg 5:20"]
+        relation: divergence
+        note: "Stars as weapons, but against different enemies: wa-jaʿalnāhā rujūman li-sh-shayāṭīn (lamps of the lowest heaven made missiles against devils) ~ min šāmayim nilḥāmû ha-kôkāvîm mi-mmesillôtām nilḥămû ʿim Sîserāʾ (against a human general)."
+      - with: hb-deut-30-return-choose-life
+        motif: choose-life
+        refs: ["67:2"]
+        with_refs: ["Deut 30:15", "Deut 30:19"]
+        relation: divergence
+        note: "Death and life paired as God's doing: Deut 30:19 ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā ... û-vāḥartā ba-ḥayyîm (set before you to choose). Q 67:2 alladhī khalaqa l-mawta wa-l-ḥayāta li-yabluwakum ayyukum aḥsanu ʿamalan: both are created, and life is the test itself, not one option of a choice."
+  - unit: quran-67-mulk-earth-birds-and-water
+    checked: [hb-ps-106-national-confession, hb-num-26-second-census, hb-num-16-korah, hb-isa-40-comfort-my-people, hb-job-9-job-cannot-sue-god, hb-job-12-ask-the-beasts, hb-job-38-whirlwind-animals]
+    matches:
+      - with: hb-num-16-korah
+        motif: earth-swallows-rebels
+        refs: ["67:16"]
+        with_refs: ["Num 16:30", "Num 16:32"]
+        relation: echo
+        note: "a-amintum man fī s-samāʾi an yakhsifa bikumu l-arḍa fa-idhā hiya tamūr ~ û-fāṣetāh hā-ʾădāmāh ʾet pîhā û-vāleʿāh ʾōtām ... we-yāredû ḥayyîm šeʾōlāh. Korah's punishment becomes a general threat to all deniers."
+      - with: hb-ps-106-national-confession
+        motif: earth-swallows-rebels
+        refs: ["67:16"]
+        with_refs: ["Ps 106:17"]
+        relation: echo
+        note: "yakhsifa bikumu l-arḍ ~ tiftaḥ ʾereṣ wa-tivlaʿ Dātān."
+      - with: hb-num-26-second-census
+        motif: earth-swallows-rebels
+        refs: ["67:16"]
+        with_refs: ["Num 26:10"]
+        relation: echo
+        note: "yakhsifa bikumu l-arḍ ~ wa-tiftaḥ hā-ʾāreṣ ʾet pîhā wa-tivlaʿ ʾōtām ... wa-yihyû le-nēs (they became a sign)."
+      - with: hb-job-9-job-cannot-sue-god
+        motif: earth-swallows-rebels
+        refs: ["67:16"]
+        with_refs: ["Job 9:6"]
+        relation: echo
+        note: "fa-idhā hiya tamūr (the earth heaves) ~ ha-mmargîz ʾereṣ mi-mmeqômāh we-ʿammûdêhā yitpallāṣûn."
+      - with: hb-job-38-whirlwind-animals
+        motif: birds-held-aloft-by-the-merciful
+        refs: ["67:19"]
+        with_refs: ["Job 39:26"]
+        relation: parallel
+        note: "a-wa-lam yaraw ilā ṭ-ṭayri fawqahum ṣāffātin wa-yaqbiḍna mā yumsikuhunna illā r-raḥmān ~ hă-mi-bbînātekā yaʾăver nēṣ yifrōś kenāfāyw le-têmān. The spread wings of the bird in flight held up by God, not by human wisdom; both are rhetorical questions."
+      - with: hb-job-12-ask-the-beasts
+        motif: birds-held-aloft-by-the-merciful
+        refs: ["67:19"]
+        with_refs: ["Job 12:7", "Job 12:9"]
+        relation: echo
+        note: "a-wa-lam yaraw ilā ṭ-ṭayr ~ šeʾal nāʾ ... ʿôf ha-šāmayim we-yagged lāk ... kî yad YHWH ʿāśetāh zōʾt: the birds as witness to God's hand."
+      - with: hb-job-12-ask-the-beasts
+        motif: water-sinking-into-earth-who-will-bring-it
+        refs: ["67:30"]
+        with_refs: ["Job 12:15"]
+        relation: echo
+        note: "in aṣbaḥa māʾukum ghawran fa-man yaʾtīkum bi-māʾin maʿīn ~ hēn yaʿṣōr ba-mmayim we-yivāšû: God can withhold the waters."
+  - unit: quran-68-qalam-the-pen-and-the-slanderer
+    checked: [hb-ezek-9-mark-on-foreheads, hb-lev-19-holiness-code-a, hb-isa-37-deliverance, hb-isa-30-rahab-who-sits-still, hb-ezek-33-watchman-and-fall-news, hb-ezek-21-sword-oracles, hb-deut-23-assembly-camp, hb-prov-6-surety-ant-scoundrel]
+    matches:
+      - with: hb-lev-19-holiness-code-a
+        motif: talebearing-forbidden
+        refs: ["68:10", "68:11"]
+        with_refs: ["Lev 19:16"]
+        relation: parallel
+        note: "wa-lā tuṭiʿ kulla ḥallāfin mahīn, hammāzin mashshāʾin bi-namīm ~ lōʾ tēlēk rākîl be-ʿammêkā: the one who 'goes about' (mashshāʾ / hōlēk) with slander. Law of conduct in Leviticus; in the Quran a portrait of a named opponent who must not be obeyed."
+      - with: hb-prov-6-surety-ant-scoundrel
+        motif: vice-list-of-swearer-slanderer-ignoble-bastard
+        refs: ["68:10", "68:11", "68:12", "68:13"]
+        with_refs: ["Prov 6:16", "Prov 6:17", "Prov 6:19"]
+        relation: echo
+        note: "Catalogue of vices: ḥallāf mahīn, hammāz, mashshāʾ bi-namīm, mannāʿ li-l-khayr, muʿtadin athīm, ʿutull, zanīm ~ šēš hēnnāh śānēʾ YHWH ... lešôn šāqer ... yāfîaḥ kezāvîm ʿēd šāqer û-mešallēaḥ medānîm bên ʾaḥîm."
+      - with: hb-deut-23-assembly-camp
+        motif: mamzer-excluded-ten-generations
+        refs: ["68:13"]
+        with_refs: ["Deut 23:3"]
+        relation: echo
+        note: "ʿutullin baʿda dhālika zanīm (base-born, attached to a lineage not his) ~ lōʾ yāvōʾ mamzēr bi-qhal YHWH. In Deuteronomy illegitimate birth is a legal status that excludes; in the Quran it is the last and worst insult in a vice list. Leads only, the sense of zanīm is disputed."
+      - with: hb-isa-37-deliverance
+        motif: hook-in-nose-bridle-in-lips
+        refs: ["68:16"]
+        with_refs: ["Isa 37:29"]
+        relation: echo
+        note: "sa-nasimuhu ʿalā l-khurṭūm (we shall brand him on the snout) ~ we-śamtî ḥaḥî be-ʾappekā û-mitgî bi-śfātêkā: God humiliates the arrogant boaster through his nose, as one treats an animal."
+      - with: hb-ezek-9-mark-on-foreheads
+        motif: tav-mark-on-foreheads-of-mourners
+        refs: ["68:16"]
+        with_refs: ["Ezek 9:4"]
+        relation: echo
+        note: "A divine mark on the face, with opposite meaning: sa-nasimuhu ʿalā l-khurṭūm (brand of shame on the denier) ~ we-hitwîtā tāw ʿal miṣḥôt hā-ʾănāšîm ha-nneʾĕnāḥîm (mark of protection on the faithful)."
+      - with: hb-ezek-9-mark-on-foreheads
+        motif: oath-by-the-pen-and-what-they-write
+        refs: ["68:1"]
+        with_refs: ["Ezek 9:2"]
+        relation: echo
+        note: "weak: nūn wa-l-qalami wa-mā yasṭurūn ~ we-qeset ha-ssōfēr be-motnāyw (the heavenly scribe's writing kit). The hint's link of a heavenly pen/scribe; no oath in Ezekiel."
+  - unit: quran-68-qalam-companions-of-the-garden
+    checked: [hb-deut-24-divorce-pledges-poor, hb-prov-27-sayings, hb-jonah-4-qiqayon, hb-joel-1-locust-plague, hb-job-24-oppression-of-poor, hb-gen-3-fall-expulsion, hb-lev-19-holiness-code-a]
+    matches:
+      - with: hb-deut-24-divorce-pledges-poor
+        motif: gleanings-for-poor
+        refs: ["68:22", "68:23", "68:24"]
+        with_refs: ["Deut 24:19"]
+        relation: contrast
+        note: "The owners plan the opposite of the gleaning law: an-ghdū ʿalā ḥarthikum in kuntum ṣārimīn ... an lā yadkhulannahā l-yawma ʿalaykum miskīn ~ kî tiqṣōr qeṣîrekā ... we-šākaḥtā ʿōmer ... lōʾ tāšûv le-qaḥtô la-ggēr la-yyātôm we-lā-ʾalmānāh yihyeh le-maʿan yevārekkā. Deuteronomy promises blessing for leaving the poor's share; the garden is destroyed for excluding the poor."
+      - with: hb-lev-19-holiness-code-a
+        motif: gleanings-for-poor
+        refs: ["68:24"]
+        with_refs: ["Lev 19:9", "Lev 19:10"]
+        relation: contrast
+        note: "lā yadkhulannahā l-yawma ʿalaykum miskīn ~ lōʾ tekalleh peʾat śādekā liqṣōr ... le-ʿānî we-la-ggēr taʿăzōv ʾōtām: the harvest in which the poor are given a part, against the harvest from which they are shut out."
+      - with: hb-prov-27-sayings
+        motif: do-not-boast-of-tomorrow
+        refs: ["68:17", "68:18"]
+        with_refs: ["Prov 27:1"]
+        relation: parallel
+        note: "idh aqsamū la-yaṣrimunnahā muṣbiḥīn wa-lā yastathnūn (they swore to harvest at dawn and made no exception, i.e. did not say in shāʾa llāh) ~ ʾal tithallēl be-yôm māḥār kî lōʾ tēdaʿ mah yēled yôm. Proverbs gives the maxim, the Quran the story that shows it."
+      - with: hb-jonah-4-qiqayon
+        motif: worm-destroys-plant-at-dawn
+        refs: ["68:19", "68:20"]
+        with_refs: ["Jonah 4:7"]
+        relation: echo
+        note: "fa-ṭāfa ʿalayhā ṭāʾifun min rabbika wa-hum nāʾimūn fa-aṣbaḥat ka-ṣ-ṣarīm ~ wa-yeman hā-ʾĕlōhîm tôlaʿat ba-ʿălôt ha-ššaḥar la-mmoḥŏrāt wa-ttak ʾet ha-qqîqāyôn wa-yyîvāš. God sends an agent at night or dawn and the plant is ruined by morning; Jonah's lesson is God's pity, the garden's is punishment and repentance (68:29 subḥāna rabbinā innā kunnā ẓālimīn)."
+  - unit: quran-68-qalam-shin-and-jonah
+    checked: [hb-prov-23-amenemope-sayings, hb-jonah-2-in-the-fish, hb-jonah-4-qiqayon, hb-jonah-3-nineveh-repents, hb-jer-15-confession-words-eaten, hb-ezek-3-watchman-and-muteness, hb-gen-18-abraham-bargains, hb-mal-3-book-of-remembrance]
+    matches:
+      - with: hb-jonah-2-in-the-fish
+        motif: prayer-from-belly-of-fish
+        refs: ["68:48"]
+        with_refs: ["Jonah 2:2", "Jonah 2:3"]
+        relation: divergence
+        note: "The cry from the fish is a warning, not a model: Jonah 2:3 qārāʾtî mi-ṣṣārāh lî ʾel YHWH wa-yyaʿănēnî, a psalm of thanksgiving. Q 68:48 fa-ṣbir li-ḥukmi rabbika wa-lā takun ka-ṣāḥibi l-ḥūti idh nādā wa-huwa makẓūm: the call made 'choked with grief/anger' is held up as what the prophet must not imitate. Jonah is unnamed, 'the companion of the fish'."
+      - with: hb-jonah-2-in-the-fish
+        motif: fish-vomits-prophet-onto-land
+        refs: ["68:49"]
+        with_refs: ["Jonah 2:11"]
+        relation: divergence
+        note: "Outcome made counterfactual: Jonah 2:11 wa-yyāqēʾ ʾet Yônāh ʾel ha-yyabbāšāh (he is spat onto dry land). Q 68:49 law-lā an tadārakahu niʿmatun min rabbihi la-nubidha bi-l-ʿarāʾi wa-huwa madhmūm: without his Lord's grace he WOULD have been thrown on the barren shore in disgrace. (Q 37:145 says he was thrown there, sick, outside this unit.)"
+      - with: hb-jonah-4-qiqayon
+        motif: prophet-angry-at-divine-mercy
+        refs: ["68:48", "68:50"]
+        with_refs: ["Jonah 4:1", "Jonah 4:9", "Jonah 4:11"]
+        relation: divergence
+        note: "Ending changed: Jonah ends on the prophet still angry (hêṭēv ḥārāh lî ʿad māwet) and God's unanswered question (wa-ʾănî lōʾ ʾāḥûs ʿal Nînewēh). Q 68:50 closes the story with the prophet restored: fa-jtabāhu rabbuhu fa-jaʿalahu mina ṣ-ṣāliḥīn. makẓūm (choked with suppressed grief) is the Quran's word for his state, not ḥārāh."
+      - with: hb-jonah-3-nineveh-repents
+        motif: prophet-commissioned-second-time
+        refs: ["68:50"]
+        with_refs: ["Jonah 3:1"]
+        relation: echo
+        note: "fa-jtabāhu rabbuhu (his Lord chose him again) ~ wa-yehî devar YHWH ʾel Yônāh šēnît: the prophet taken back into service after the fish."
+      - with: hb-gen-18-abraham-bargains
+        motif: wicked-not-equal-to-righteous-in-life-and-death
+        refs: ["68:35", "68:36"]
+        with_refs: ["Gen 18:25"]
+        relation: parallel
+        note: "a-fa-najʿalu l-muslimīna ka-l-mujrimīn, mā lakum kayfa taḥkumūn ~ ḥālilāh lekā ... le-hāmît ṣaddîq ʿim rāšāʿ we-hāyāh ka-ṣṣaddîq kā-rāšāʿ ... hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ. The same rhetorical principle; the speaker is reversed: Abraham puts it to God, God puts it to the deniers."
+      - with: hb-mal-3-book-of-remembrance
+        motif: wicked-not-equal-to-righteous-in-life-and-death
+        refs: ["68:35"]
+        with_refs: ["Mal 3:18"]
+        relation: echo
+        note: "a-fa-najʿalu l-muslimīna ka-l-mujrimīn ~ we-šavtem û-reʾîtem bên ṣaddîq le-rāšāʿ bên ʿōvēd ʾĕlōhîm la-ʾăšer lōʾ ʿăvādô."
+      - with: hb-prov-23-amenemope-sayings
+        motif: good-eye-and-evil-eye
+        refs: ["68:51"]
+        with_refs: ["Prov 23:6"]
+        relation: echo
+        note: "weak: la-yuzliqūnaka bi-abṣārihim (they nearly make you slip with their eyes) ~ ʾal tilḥam ʾet leḥem raʿ ʿāyin. Harmful eye in both, but in Proverbs raʿ ʿayin is stinginess, in the Quran a hostile gaze."
+  - unit: quran-69-haqqa-destroyed-peoples-and-the-throne
+    checked: [hb-ezek-1-chariot-throne, hb-jonah-3-nineveh-repents, hb-jer-16-fishers-and-hunters, hb-gen-19-sodom-destroyed, hb-lam-2-god-as-enemy, hb-jer-49-ammon-edom-damascus-kedar-elam, hb-gen-6-flood]
+    matches:
+      - with: hb-ezek-1-chariot-throne
+        motif: four-living-creatures-hayyot
+        refs: ["69:17"]
+        with_refs: ["Ezek 1:5", "Ezek 1:26"]
+        relation: divergence
+        note: "Throne-bearers: Ezekiel sees ʾarbaʿ ḥayyôt with demût ʾādām, the raqîaʿ over their heads and above it demût kissēʾ with a figure kĕ-marʾēh ʾādām. Q 69:17 wa-l-malaku ʿalā arjāʾihā wa-yaḥmilu ʿarsha rabbika fawqahum yawmaʾidhin thamāniya: EIGHT bear the Throne, at the last day, not in a prophet's vision, and nothing is said of a human likeness on it."
+      - with: hb-gen-19-sodom-destroyed
+        motif: cities-overturned
+        refs: ["69:9", "69:10"]
+        with_refs: ["Gen 19:25"]
+        relation: parallel
+        note: "wa-l-muʾtafikātu bi-l-khāṭiʾa ... fa-ʿaṣaw rasūla rabbihim fa-akhadhahum ~ wa-yyahăfōk ʾet he-ʿārîm hā-ʾēl: the cities named only as 'the overturned ones'. The Quran gives the reason as disobeying 'the messenger of their Lord'; Genesis gives no messenger to Sodom except the visiting angels."
+      - with: hb-gen-6-flood
+        motif: carried-in-the-running-ship
+        refs: ["69:11", "69:12"]
+        with_refs: ["Gen 7:17", "Gen 7:18"]
+        relation: divergence
+        note: "Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya: God carries, and carries 'you' (the hearers, as Noah's descendants); the ship is kept as a tadhkira 'for a retaining ear' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim."
+  - unit: quran-69-haqqa-books-in-right-and-left-hands
+    checked: [hb-deut-18-levites-prophet, hb-ps-87-zion-birthplace, hb-ps-69-deep-waters, hb-ps-56-tears-in-bottle, hb-ezek-21-sword-oracles, hb-isa-65-rebels-and-servants, hb-dan-7-four-beasts-son-of-man, hb-ps-149-two-edged-sword]
+    matches:
+      - with: hb-deut-18-levites-prophet
+        motif: false-prophet-death
+        refs: ["69:44", "69:45", "69:46"]
+        with_refs: ["Deut 18:20"]
+        relation: divergence
+        note: "Same rule, different executioner and target: Deut 18:20 ha-nnāvîʾ ʾăšer yāzîd ledabbēr dāvār bi-šmî ʾēt ʾăšer lōʾ ṣiwwîtîw ... û-mēt ha-nnāvîʾ ha-hûʾ (the community puts him to death). Q 69:44-46 wa-law taqawwala ʿalaynā baʿḍa l-aqāwīli la-akhadhnā minhu bi-l-yamīni thumma la-qaṭaʿnā minhu l-watīn: God himself would seize him and cut his aorta, said hypothetically of Muhammad to prove the revelation (tanzīlun min rabbi l-ʿālamīn, 69:43) is not forged."
+      - with: hb-ps-69-deep-waters
+        motif: heavenly-book-of-life
+        refs: ["69:19", "69:25"]
+        with_refs: ["Ps 69:29"]
+        relation: divergence
+        note: "The heavenly book becomes a personal book handed over: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm we-ʿim ṣaddîqîm ʾal yikkātēvû (one roll of the living, names blotted out). Q 69:19/25 man ūtiya kitābahu bi-yamīnihi ... hāʾumu qraʾū kitābiyah / bi-shimālihi ... yā laytanī lam ūta kitābiyah: each person receives his own book, in the right or left hand."
+      - with: hb-ps-56-tears-in-bottle
+        motif: heavenly-book-of-life
+        refs: ["69:19", "69:26"]
+        with_refs: ["Ps 56:9"]
+        relation: echo
+        note: "kitābiyah ... ḥisābiyah (my book, my reckoning) ~ nōdî sāfartāh ʾattāh ... hă-lōʾ be-sifrātekā: God's record of an individual life."
+      - with: hb-ps-87-zion-birthplace
+        motif: heavenly-book-of-life
+        refs: ["69:19"]
+        with_refs: ["Ps 87:6"]
+        relation: echo
+        note: "kitābahu ~ YHWH yispōr bi-ktôv ʿammîm zeh yullad šām: God's register of persons."
+      - with: hb-dan-7-four-beasts-son-of-man
+        motif: heavenly-book-of-life
+        refs: ["69:19", "69:25"]
+        with_refs: ["Dan 7:10"]
+        relation: echo
+        note: "Books at the judgment: kitābahu bi-yamīnihi / bi-shimālihi ~ dînāʾ yetiv we-sifrîn petîḥû (Aramaic: the court sat and the books were opened)."
+      - with: hb-ps-149-two-edged-sword
+        motif: kings-bound-in-chains
+        refs: ["69:30", "69:32"]
+        with_refs: ["Ps 149:8"]
+        relation: echo
+        note: "khudhūhu fa-ghullūhu ... fī silsilatin dharʿuhā sabʿūna dhirāʿan fa-slukūh ~ leʾsōr malkêhem be-ziqqîm we-nikbedêhem be-kavlê varzel. In the Psalm the faithful bind the kings on earth; in the Quran angels fetter the damned man in hell, whose lost sulṭān (69:29) recalls the kings."
+      - with: hb-ezek-21-sword-oracles
+        motif: word-of-noble-messenger-not-poet-or-soothsayer
+        refs: ["69:41", "69:42"]
+        with_refs: ["Ezek 21:5"]
+        relation: echo
+        note: "wa-mā huwa bi-qawli shāʿirin ... wa-lā bi-qawli kāhin ~ hēmmāh ʾōmerîm lî hă-lōʾ memaššēl mešālîm hûʾ: the prophet dismissed as a mere maker of poetry/parables; the Quran denies it, Ezekiel complains of it."
+  - unit: quran-70-ascending-stairways
+    checked: [hb-ps-90-moses-thousand-years, hb-ps-49-no-ransom, hb-gen-28-jacobs-ladder, hb-ezek-18-sour-grapes, hb-eccl-8-king-and-retribution, hb-amos-8-summer-fruit]
+    matches:
+      - with: hb-ps-90-moses-thousand-years
+        motif: thousand-years-as-one-day
+        refs: ["70:4"]
+        with_refs: ["Ps 90:4"]
+        relation: divergence
+        note: "fī yawmin kāna miqdāruhu khamsīna alfa sana ~ kî ʾelef šānîm be-ʿênêkā ke-yôm ʾetmôl. Divine time on another scale: the Psalm's thousand (kept in Q 22:47, 32:5) is here fifty thousand, and the day is the day of the angels' ascent and of judgment, not the brevity of human life."
+      - with: hb-ps-49-no-ransom
+        motif: no-ransom-for-a-brother
+        refs: ["70:11", "70:12", "70:13", "70:14"]
+        with_refs: ["Ps 49:8", "Ps 49:9"]
+        relation: divergence
+        note: "The brother changes place: Ps 49:8 ʾāḥ lōʾ fādōh yifdeh ʾîš lōʾ yittēn lēʾlōhîm kofrô (no one can ransom his BROTHER). Q 70:11-14 yawaddu l-mujrimu law yaftadī min ʿadhābi yawmiʾidhin bi-banīhi wa-ṣāḥibatihi wa-akhīhi ... wa-man fī l-arḍi jamīʿan: the sinner would ransom HIMSELF by giving up his sons, wife, brother and clan; both deny that any ransom works (Ps 49:9 we-yēqar pidyôn nafšām; Q 70:15 kallā)."
+      - with: hb-gen-28-jacobs-ladder
+        motif: angels-and-spirit-ascend-to-god
+        refs: ["70:3", "70:4"]
+        with_refs: ["Gen 28:12"]
+        relation: echo
+        note: "mina llāhi dhī l-maʿārij, taʿruju l-malāʾikatu wa-r-rūḥu ilayhi ~ we-hinnēh sullām muṣṣāv ʾarṣāh we-rōʾšô maggîaʿ ha-ššāmāymāh we-hinnēh malʾăkê ʾĕlōhîm ʿōlîm we-yōrdîm bô. Angels ascending by a stair; in the Quran it becomes a divine title (dhū l-maʿārij), with no dream and no descending."
+      - with: hb-ezek-18-sour-grapes
+        motif: righteous-man-catalogue-of-virtues
+        refs: ["70:22", "70:24", "70:25", "70:29", "70:32"]
+        with_refs: ["Ezek 18:5", "Ezek 18:6", "Ezek 18:7", "Ezek 18:8"]
+        relation: parallel
+        note: "Catalogue defining the righteous: Ezekiel lists ʾel he-hārîm lōʾ ʾākāl ... ʾet ʾēšet rēʿēhû lōʾ ṭimmēʾ ... ḥăvōlātô ḥôv yāšîv ... laḥmô le-rāʿēv yittēn; Q 70:22-34 lists alladhīna hum ʿalā ṣalātihim dāʾimūn, fī amwālihim ḥaqqun maʿlūmun li-s-sāʾili wa-l-maḥrūm, li-furūjihim ḥāfiẓūn, li-amānātihim wa-ʿahdihim rāʿūn. Shared: sexual restraint, faithfulness with pledges and trusts, food for the poor. Ezekiel's items are cultic and judicial (mountains, menstruation, interest); the Quran's begin and end with prayer."
+  - unit: quran-71-noah
+    checked: [hb-job-10-why-did-you-make-me, hb-gen-6-flood, hb-ps-90-moses-thousand-years, hb-ps-78-history, hb-neh-9-levites-confession, hb-ps-104-creation-hymn, hb-gen-1-creation-six-days, hb-ps-136-great-hallel]
+    matches:
+      - with: hb-gen-6-flood
+        motif: hero-preaches-to-people
+        refs: ["71:2", "71:3", "71:5", "71:8", "71:9"]
+        with_refs: ["Gen 6:13", "Gen 6:22"]
+        relation: divergence
+        note: "Added role: in Genesis God speaks only to Noah (wa-yyōʾmer ʾĕlōhîm le-Nōaḥ qēṣ kol bāśār bāʾ le-fānay) and Noah never speaks to anyone; he only obeys (wa-yyaʿaś Nōaḥ ke-kōl ʾăšer ṣiwwāh ʾōtô ʾĕlōhîm). In Q 71 Noah is a messenger and warner: yā-qawmi innī lakum nadhīrun mubīn, uʿbudū llāha wa-ttaqūhu wa-aṭīʿūn, preaching laylan wa-nahāran, jihāran, iʿlānan wa-isrāran. cf. 2 Pet 2:5, b. Sanh. 108 (Noah as preacher), not a match."
+      - with: hb-gen-6-flood
+        motif: reason-human-wickedness
+        refs: ["71:21", "71:23", "71:24"]
+        with_refs: ["Gen 6:5", "Gen 6:11", "Gen 6:12"]
+        relation: divergence
+        note: "Motive changed: Genesis gives moral corruption and violence (rabbāh rāʿat hā-ʾādām ... wa-ttimmālēʾ hā-ʾāreṣ ḥāmās; hišḥît kol bāśār ʾet darkô). Q 71 gives rejection of the messenger and idolatry: rabbi innahum ʿaṣawnī ... wa-qālū lā tadharunna ālihatakum wa-lā tadharunna waddan wa-lā suwāʿan wa-lā yaghūtha wa-yaʿūqa wa-nasrā. Five named gods; Genesis names no god but YHWH/Elohim."
+      - with: hb-gen-6-flood
+        motif: hero-prays-for-judgment
+        refs: ["71:26", "71:27"]
+        with_refs: ["Gen 6:7", "Gen 6:13"]
+        relation: divergence
+        note: "Who calls for destruction is reversed: in Genesis God decides alone (wa-yyōʾmer YHWH ʾemḥeh ʾet hā-ʾādām; we-hinnî mašḥîtām ʾet hā-ʾāreṣ) and even regrets creating (wa-yyinnāḥem YHWH). In Q 71:26-27 Noah asks: rabbi lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyāran, innaka in tadharhum yuḍillū ʿibādaka. There is no divine regret in the Quran."
+      - with: hb-gen-6-flood
+        motif: repentance-brings-abundant-rain
+        refs: ["71:10", "71:11"]
+        with_refs: ["Gen 7:11", "Gen 7:12"]
+        relation: divergence
+        note: "Rain reversed: in Genesis rain from opened sky is the destruction (wa-ʾărubbōt ha-ššāmayim niftāḥû, wa-yehî ha-ggešem ʿal hā-ʾāreṣ ʾarbāʿîm yôm). Noah in Q 71:10-11 promises rain as blessing if they repent: istaghfirū rabbakum ... yursili s-samāʾa ʿalaykum midrāran, then (71:25) mimmā khaṭīʾātihim ughriqū: the sky that could have blessed them drowns them."
+      - with: hb-gen-6-flood
+        motif: family-saved
+        refs: ["71:28"]
+        with_refs: ["Gen 7:1", "Gen 7:7"]
+        relation: divergence
+        note: "The saved are defined by faith, not by house: Gen 7:1 bōʾ ʾattāh we-kol bêtkā ʾel ha-ttēvāh kî ʾōtkā rāʾîtî ṣaddîq. Q 71:28 rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytiya muʾminan wa-li-l-muʾminīna wa-l-muʾmināt: whoever enters my house as a believer."
+      - with: hb-gen-6-flood
+        motif: promise-never-again
+        refs: ["71:25", "71:28"]
+        with_refs: ["Gen 8:20", "Gen 8:21"]
+        relation: divergence
+        note: "Ending changed: Genesis ends with Noah's sacrifice and God's promise lōʾ ʾōsîf leqallēl ʿôd ʾet hā-ʾădāmāh ... we-lōʾ ʾōsîf ʿôd lehakkôt ʾet kol ḥay. Q 71 ends with the drowned sent on into fire (ughriqū fa-udkhilū nāran) and Noah's prayer of forgiveness and of destruction (wa-lā tazidi ẓ-ẓālimīna illā tabārā). No sacrifice, no covenant, no 'never again'."
+      - with: hb-job-10-why-did-you-make-me
+        motif: embryo-stages-drop-clot-form
+        refs: ["71:14", "71:17", "71:18"]
+        with_refs: ["Job 10:8", "Job 10:9", "Job 10:10", "Job 10:11"]
+        relation: parallel
+        note: "Creation in stages and return to earth: wa-qad khalaqakum aṭwāran ... wa-llāhu anbatakum mina l-arḍi nabātan thumma yuʿīdukum fīhā ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî, ʿôr û-vāśār talbîšēnî ... kî ka-ḥōmer ʿăśîtānî we-ʾel ʿāfār tešîvēnî. Job turns it into a complaint; Noah into an argument for reverence (mā lakum lā tarjūna li-llāhi waqāran)."
+      - with: hb-ps-90-moses-thousand-years
+        motif: dust-to-dust
+        refs: ["71:18"]
+        with_refs: ["Ps 90:3"]
+        relation: divergence
+        note: "thumma yuʿīdukum fīhā wa-yukhrijukum ikhrājan ~ tāšēv ʾĕnôš ʿad dakkāʾ wa-ttōʾmer šûvû venê ʾādām. Both have God return humans to the earth; the Quran adds a second bringing-out (resurrection), the Psalm's šûvû is the return to dust."
+      - with: hb-gen-1-creation-six-days
+        motif: great-lights-rule-day-and-night
+        refs: ["71:16"]
+        with_refs: ["Gen 1:16"]
+        relation: parallel
+        note: "wa-jaʿala l-qamara fīhinna nūran wa-jaʿala sh-shamsa sirājan ~ wa-yyaʿaś ʾĕlōhîm ʾet šenê ha-mmeʾōrōt ha-ggedōlîm ... ha-mmāʾôr ha-ggādōl ... ha-mmāʾôr ha-qqāṭōn. Genesis avoids naming sun and moon; the Quran names them and distinguishes lamp (sirāj) from light (nūr)."
+      - with: hb-ps-136-great-hallel
+        motif: earth-spread-out-like-carpet
+        refs: ["71:19", "71:20"]
+        with_refs: ["Ps 136:6"]
+        relation: echo
+        note: "wa-llāhu jaʿala lakumu l-arḍa bisāṭan ~ le-rōqaʿ hā-ʾāreṣ ʿal ha-mmāyim. The Quran adds the purpose: li-taslukū minhā subulan fijājan."
+  - unit: quran-72-jinn
+    checked: [hb-ps-91-shelter-of-most-high, hb-isa-26-song-and-resurrection, hb-dan-12-resurrection-end, hb-isa-63-communal-lament, hb-ps-17-apple-of-eye, hb-job-9-job-cannot-sue-god]
+    matches:
+      - with: hb-ps-91-shelter-of-most-high
+        motif: humans-seek-refuge-with-jinn
+        refs: ["72:6"]
+        with_refs: ["Ps 91:1", "Ps 91:2"]
+        relation: contrast
+        note: "Refuge sought from spirits vs. from God: kāna rijālun mina l-insi yaʿūdhūna bi-rijālin mina l-jinni fa-zādūhum rahaqan ~ yōšēv be-sēter ʿElyôn be-ṣēl Šaddai yitlônān, ʾōmar la-YHWH maḥsî û-meṣûdātî. In Ps 91 the night terrors and qeṭev yāšûd ṣohŏrāyim are what one is sheltered from; in Q 72 the jinn are what men wrongly shelter in."
+      - with: hb-ps-91-shelter-of-most-high
+        motif: angels-guard-and-bear-up
+        refs: ["72:27"]
+        with_refs: ["Ps 91:11"]
+        relation: echo
+        note: "fa-innahu yasluku min bayni yadayhi wa-min khalfihi raṣadan ~ kî malʾākāyw yeṣawweh lāk lišmorkā be-kol derākêkā. Guardian angels around the protected one; in Q 72 they guard the messenger and his message."
+      - with: hb-isa-26-song-and-resurrection
+        motif: resurrection-of-the-dead
+        refs: ["72:7"]
+        with_refs: ["Isa 26:19"]
+        relation: echo
+        note: "wa-annahum ẓannū kamā ẓanantum an lan yabʿatha llāhu aḥadan (the jinn admit they too had denied resurrection) ~ yiḥyû mētêkā nevēlātî yeqûmûn hāqîṣû we-rannenû šōkenê ʿāfār."
+      - with: hb-dan-12-resurrection-end
+        motif: resurrection-of-the-dead
+        refs: ["72:7"]
+        with_refs: ["Dan 12:2"]
+        relation: echo
+        note: "lan yabʿatha llāhu aḥadan ~ we-rabbîm mi-yyešēnê ʾadmat ʿāfār yāqîṣû."
+  - unit: quran-73-enwrapped
+    checked: [hb-prov-19-sayings, hb-ps-119-vav-kaf, hb-jer-1-call, hb-isa-51-cup-of-staggering, hb-ps-104-creation-hymn, hb-ps-18-storm-theophany, hb-1kgs-19-elijah-horeb, hb-deut-18-levites-prophet]
+    matches:
+      - with: hb-ps-119-vav-kaf
+        motif: rise-at-midnight-to-praise
+        refs: ["73:2", "73:3", "73:6"]
+        with_refs: ["Ps 119:62"]
+        relation: parallel
+        note: "qumi l-layla illā qalīlan, niṣfahu ... inna nāshiʾata l-layli hiya ashaddu waṭʾan ~ ḥăṣôt laylāh ʾāqûm lehôdôt lāk: rising at night, at its half, for praise. The Quran turns the Psalmist's devotion into a measured duty, later lightened (73:20 fa-qraʾū mā tayassara)."
+      - with: hb-1kgs-19-elijah-horeb
+        motif: prophet-wraps-face-in-mantle
+        refs: ["73:1"]
+        with_refs: ["1Kgs 19:13"]
+        relation: echo
+        note: "yā-ayyuhā l-muzzammil (O you wrapped up) ~ wa-yyālet pānāyw be-ʾaddartô (Elijah wraps his face in his mantle when he hears the voice). The wrapped prophet at the moment of revelation; the Quran names him by it, Kings describes the act."
+      - with: hb-jer-1-call
+        motif: heavy-word-cast-on-prophet
+        refs: ["73:5"]
+        with_refs: ["Jer 1:9"]
+        relation: echo
+        note: "innā sa-nulqī ʿalayka qawlan thaqīlan ~ hinnēh nātattî devāray be-fîkā: God places his word on/in the prophet."
+      - with: hb-isa-51-cup-of-staggering
+        motif: prophet-like-moses
+        refs: ["73:5"]
+        with_refs: ["Isa 51:16"]
+        relation: echo
+        note: "sa-nulqī ʿalayka qawlan ~ wā-ʾāśîm devāray be-fîkā."
+      - with: hb-deut-18-levites-prophet
+        motif: prophet-like-moses
+        refs: ["73:15", "73:16"]
+        with_refs: ["Deut 18:18"]
+        relation: parallel
+        note: "innā arsalnā ilaykum rasūlan shāhidan ʿalaykum kamā arsalnā ilā firʿawna rasūlan ~ nāvîʾ ʾāqîm lāhem mi-qqerev ʾăḥêhem kāmôkā. Both make the new messenger 'like' Moses; in Deuteronomy for Israel and from among their brothers, in the Quran for the Meccans, the point of the likeness being Pharaoh's fate (fa-ʿaṣā firʿawnu r-rasūla fa-akhadhnāhu)."
+      - with: hb-prov-19-sayings
+        motif: goodly-loan-to-god-doubled
+        refs: ["73:20"]
+        with_refs: ["Prov 19:17"]
+        relation: parallel
+        note: "wa-aqriḍū llāha qarḍan ḥasanan wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāh ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô."
+      - with: hb-ps-18-storm-theophany
+        motif: great-earthquake-all-creatures-quake
+        refs: ["73:14"]
+        with_refs: ["Ps 18:8"]
+        relation: echo
+        note: "yawma tarjufu l-arḍu wa-l-jibāl ~ wa-ttigʿaš wa-ttirʿaš hā-ʾāreṣ û-môsedê hārîm yirgāzû: earth and mountains shaken; in the Psalm by the theophany of rescue, in the Quran at the end."
+  - unit: quran-74-cloaked
+    checked: [hb-zeph-1-day-of-wrath, hb-zech-14-day-on-mount-of-olives, hb-obad-1-day-of-edom, hb-deut-18-levites-prophet, hb-isa-28-covenant-with-death, hb-jer-1-almond-and-pot, hb-exod-19-sinai-theophany]
+    matches:
+      - with: hb-zeph-1-day-of-wrath
+        motif: day-of-yhwh
+        refs: ["74:8", "74:9", "74:10"]
+        with_refs: ["Zeph 1:14", "Zeph 1:15", "Zeph 1:16"]
+        relation: parallel
+        note: "fa-idhā nuqira fī n-nāqūri fa-dhālika yawmaʾidhin yawmun ʿasīrun ʿalā l-kāfirīna ghayru yasīr ~ yôm ʿevrāh ha-yyôm ha-hûʾ yôm ṣārāh û-meṣûqāh ... yôm šôfār û-terûʿāh. The day of distress announced by a horn; Zephaniah aims it at Judah's fortified cities, the Quran at the unbelievers."
+      - with: hb-zech-14-day-on-mount-of-olives
+        motif: day-of-yhwh
+        refs: ["74:9"]
+        with_refs: ["Zech 14:1"]
+        relation: echo
+        note: "yawmun ʿasīr ~ hinnēh yôm bāʾ la-YHWH."
+      - with: hb-obad-1-day-of-edom
+        motif: as-you-have-done-it-shall-be-done-to-you
+        refs: ["74:38"]
+        with_refs: ["Obad 1:15"]
+        relation: echo
+        note: "kullu nafsin bi-mā kasabat rahīna ~ kî qārôv yôm YHWH ʿal kol ha-ggôyim ka-ʾăšer ʿāśîtā yēʿāśeh lāk gemulkā yāšûv be-rōʾšekā: on the Day each is repaid by what he did; Obadiah addresses Edom, the Quran every soul."
+      - with: hb-jer-1-almond-and-pot
+        motif: prophetic-call-narrative
+        refs: ["74:1", "74:2"]
+        with_refs: ["Jer 1:17"]
+        relation: echo
+        note: "yā-ayyuhā l-muddaththir, qum fa-andhir ~ we-ʾattāh teʾzōr motnêkā we-qamtā we-dibbartā ʾălêhem: 'arise and speak/warn', with a garment-word in both (girding / cloaking)."
+      - with: hb-exod-19-sinai-theophany
+        motif: washing-garments-before-theophany
+        refs: ["74:4"]
+        with_refs: ["Exod 19:10"]
+        relation: echo
+        note: "wa-thiyābaka fa-ṭahhir ~ we-qiddaštām ha-yyôm û-māḥār we-kibbesû śimlōtām. Garment purity at revelation; for the people at Sinai, for the prophet himself in the Quran."
+      - with: hb-deut-18-levites-prophet
+        motif: scripture-dismissed-as-sorcery-or-human-word
+        refs: ["74:24", "74:25"]
+        with_refs: ["Deut 18:18", "Deut 18:20"]
+        relation: echo
+        note: "in hādhā illā siḥrun yuʾthar, in hādhā illā qawlu l-bashar (only the word of a mortal) ~ we-nātattî devāray be-fîw ... ʾăšer yāzîd ledabbēr dāvār bi-šmî ʾēt ʾăšer lōʾ ṣiwwîtîw: the question whether a prophet's word is God's or his own; Deuteronomy gives the test, the Quran the opponent's verdict."
+  - unit: quran-75-resurrection
+    checked: [hb-ezek-37-dry-bones, hb-ezek-37-two-sticks, hb-ps-139-searched-and-known, hb-joel-4-valley-of-jehoshaphat, hb-joel-2-army-and-repentance, hb-isa-26-song-and-resurrection, hb-job-10-why-did-you-make-me]
+    matches:
+      - with: hb-ezek-37-dry-bones
+        motif: bones-reassembled-sinews-flesh-skin
+        refs: ["75:3", "75:4"]
+        with_refs: ["Ezek 37:7", "Ezek 37:8"]
+        relation: parallel
+        note: "a-yaḥsabu l-insānu allan najmaʿa ʿiẓāmahu, balā qādirīna ʿalā an nusawwiya banānahu ~ wa-ttiqrevû ʿăṣāmôt ʿeṣem ʾel ʿaṣmô ... gīdîm û-vāśār ʿālāh wa-yyiqram ʿălêhem ʿôr. Bones gathered and the body restored in detail (sinews, flesh, skin / fingertips). Ezekiel's vision is a figure for national restoration (37:11), the Quran's is the individual's resurrection argued against a skeptic."
+      - with: hb-isa-26-song-and-resurrection
+        motif: resurrection-of-the-dead
+        refs: ["75:3", "75:40"]
+        with_refs: ["Isa 26:19"]
+        relation: echo
+        note: "a-laysa dhālika bi-qādirin ʿalā an yuḥyiya l-mawtā ~ yiḥyû mētêkā nevēlātî yeqûmûn."
+      - with: hb-ps-139-searched-and-known
+        motif: no-refuge-on-judgment-day
+        refs: ["75:10", "75:11", "75:12"]
+        with_refs: ["Ps 139:7"]
+        relation: parallel
+        note: "yaqūlu l-insānu yawmaʾidhin ayna l-mafarr, kallā lā wazar, ilā rabbika yawmaʾidhini l-mustaqarr ~ ʾānāh ʾēlēk mē-rûḥekā we-ʾānāh mi-ppānêkā ʾevrāḥ. Same question 'where can one flee?'; in the Psalm a confession of God's presence everywhere, in the Quran the panic of the Day."
+      - with: hb-ps-139-searched-and-known
+        motif: embryo-curdled-like-cheese
+        refs: ["75:37", "75:38"]
+        with_refs: ["Ps 139:13", "Ps 139:15", "Ps 139:16"]
+        relation: parallel
+        note: "a-lam yaku nuṭfatan min maniyyin yumnā, thumma kāna ʿalaqatan fa-khalaqa fa-sawwā ~ tesukkēnî be-veṭen ʾimmî ... ruqqamtî be-taḥtiyyôt ʾāreṣ, golmî rāʾû ʿênêkā. God shapes the embryo; the Quran names the stages (nuṭfa, ʿalaqa), the Psalm speaks of weaving and the unformed golem."
+      - with: hb-job-10-why-did-you-make-me
+        motif: embryo-curdled-like-cheese
+        refs: ["75:37", "75:38"]
+        with_refs: ["Job 10:10", "Job 10:11"]
+        relation: parallel
+        note: "nuṭfatan min maniyyin yumnā thumma kāna ʿalaqatan ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî: poured fluid that thickens, then is clothed and shaped (fa-khalaqa fa-sawwā ~ ʿôr û-vāśār talbîšēnî). Argument for resurrection in 75:40, for complaint in Job."
+      - with: hb-joel-2-army-and-repentance
+        motif: sun-moon-darkened-stars-withdraw
+        refs: ["75:7", "75:8", "75:9"]
+        with_refs: ["Joel 2:10"]
+        relation: parallel
+        note: "wa-khasafa l-qamaru wa-jumiʿa sh-shamsu wa-l-qamar ~ šemeš we-yārēaḥ qādārû we-kôkāvîm ʾāsefû noghām."
+      - with: hb-joel-4-valley-of-jehoshaphat
+        motif: sun-moon-darkened-stars-withdraw
+        refs: ["75:8", "75:9"]
+        with_refs: ["Joel 4:15"]
+        relation: parallel
+        note: "khasafa l-qamar ~ šemeš we-yārēaḥ qādārû (same line as Joel 2:10)."
+  - unit: quran-76-the-human
+    checked: [hb-ps-55-dove-wings, hb-ps-121-keeper-of-israel, hb-job-31-oath-of-innocence, hb-ps-104-creation-hymn, hb-deut-30-return-choose-life, hb-ps-103-bless-my-soul]
+    matches:
+      - with: hb-job-31-oath-of-innocence
+        motif: did-not-eat-morsel-alone
+        refs: ["76:8", "76:9"]
+        with_refs: ["Job 31:17"]
+        relation: parallel
+        note: "wa-yuṭʿimūna ṭ-ṭaʿāma ʿalā ḥubbihi miskīnan wa-yatīman wa-asīran ~ we-ʾōkal pittî levaddî we-lōʾ ʾākal yātôm mimmennāh. The orphan fed from one's own bread as the mark of the righteous. The Quran adds the captive and the motive: li-wajhi llāhi lā nurīdu minkum jazāʾan wa-lā shukūran."
+      - with: hb-ps-121-keeper-of-israel
+        motif: sun-and-moon-shall-not-strike
+        refs: ["76:13", "76:14"]
+        with_refs: ["Ps 121:6"]
+        relation: echo
+        note: "lā yarawna fīhā shamsan wa-lā zamharīran, wa-dāniyatan ʿalayhim ẓilāluhā ~ yômām ha-ššemeš lōʾ yakkekkāh we-yārēaḥ ba-llāylāh. Protection from sun (and from cold/moon) as God's shade; for the pilgrim in the Psalm, for the blessed in paradise in the Quran."
+      - with: hb-ps-55-dove-wings
+        motif: prayer-three-times-daily
+        refs: ["76:25", "76:26"]
+        with_refs: ["Ps 55:18"]
+        relation: echo
+        note: "wa-dhkuri sma rabbika bukratan wa-aṣīlan wa-mina l-layli fa-sjud lahu ~ ʿerev wā-vōqer we-ṣohŏrayim ʾāśîḥāh we-ʾehĕmeh: morning, evening and a third time (noon in the Psalm, night in the Quran)."
+      - with: hb-deut-30-return-choose-life
+        motif: choose-life
+        refs: ["76:3"]
+        with_refs: ["Deut 30:15", "Deut 30:19"]
+        relation: echo
+        note: "innā hadaynāhu s-sabīla immā shākiran wa-immā kafūran ~ reʾēh nātattî le-fānêkā ha-yyôm ʾet ha-ḥayyîm we-ʾet ha-ṭṭôv we-ʾet ha-mmāwet we-ʾet hā-rāʿ: the way is shown and man chooses; the Quran's alternatives are gratitude and ingratitude (shākir / kafūr)."
+      - with: hb-ps-103-bless-my-soul
+        motif: human-once-nothing-worth-mentioning
+        refs: ["76:1"]
+        with_refs: ["Ps 103:14", "Ps 103:16"]
+        relation: echo
+        note: "hal atā ʿalā l-insāni ḥīnun mina d-dahri lam yakun shayʾan madhkūran ~ kî hûʾ yādaʿ yiṣrēnû zākûr kî ʿāfār ʾănāḥnû ... we-lōʾ yakkîrennû ʿôd meqômô. Human nothingness: before existence in the Quran, after death in the Psalm; both use the root of 'remembering' (madhkūr / zākûr)."
+  - unit: quran-77-sent-forth
+    checked: [hb-ps-136-great-hallel, hb-isa-5-vineyard-and-woes, hb-zech-6-four-chariots, hb-ps-104-creation-hymn, hb-isa-13-oracle-against-babylon, hb-job-38-whirlwind-creation]
+    matches:
+      - with: hb-ps-104-creation-hymn
+        motif: winds-as-angels-fire-as-ministers
+        refs: ["77:1", "77:2", "77:3"]
+        with_refs: ["Ps 104:4"]
+        relation: echo
+        note: "wa-l-mursalāti ʿurfan fa-l-ʿāṣifāti ʿaṣfan wa-n-nāshirāti nashran (by those sent forth, storming, spreading: winds or angels) ~ ʿōśeh malʾākāyw rûḥôt mešāretāyw ʾēš lōhēṭ: the same ambiguity of sent ones (malʾākîm / mursalāt) and winds."
+      - with: hb-zech-6-four-chariots
+        motif: winds-as-angels-fire-as-ministers
+        refs: ["77:1", "77:3"]
+        with_refs: ["Zech 6:5"]
+        relation: echo
+        note: "wa-l-mursalāt ~ ʾēlleh ʾarbaʿ ruḥôt ha-ššāmayim yôṣeʾôt mē-hityaṣṣēv ʿal ʾădôn kol hā-ʾāreṣ: winds that go out from God's presence as his agents."
+      - with: hb-isa-13-oracle-against-babylon
+        motif: stars-sun-and-moon-darkened
+        refs: ["77:8"]
+        with_refs: ["Isa 13:10"]
+        relation: parallel
+        note: "fa-idhā n-nujūmu ṭumisat ~ kî kôkevê ha-ššāmayim û-kesîlêhem lōʾ yāhēllû ʾôrām."
+      - with: hb-isa-5-vineyard-and-woes
+        motif: woe-to-deniers-refrain
+        refs: ["77:15", "77:19", "77:24"]
+        with_refs: ["Isa 5:8", "Isa 5:11", "Isa 5:20"]
+        relation: echo
+        note: "Refrain of woe: waylun yawmaʾidhin li-l-mukadhdhibīn (ten times) ~ hôy maggîʿê vayit be-vayit ..., hôy ... (six woes). Isaiah's woes name social crimes; the Quran's single target is the deniers."
+      - with: hb-ps-136-great-hallel
+        motif: antiphonal-refrain-every-verse
+        refs: ["77:15", "77:19", "77:24", "77:28"]
+        with_refs: ["Ps 136:1", "Ps 136:26"]
+        relation: echo
+        note: "Refrain structure: waylun yawmaʾidhin li-l-mukadhdhibīn after each section ~ kî le-ʿôlām ḥasdô after every verse. Praise refrain vs woe refrain."
+      - with: hb-job-38-whirlwind-creation
+        motif: mountains-as-pegs
+        refs: ["77:25", "77:27"]
+        with_refs: ["Job 38:4", "Job 38:6"]
+        relation: echo
+        note: "a-lam najʿali l-arḍa kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains) in the Quran."
+  - unit: quran-78-the-tiding
+    checked: [hb-ps-78-history, hb-ps-62-silence-scales, hb-ps-140-venom-of-vipers, hb-ps-104-creation-hymn, hb-job-38-whirlwind-creation, hb-isa-40-comfort-my-people]
+    matches:
+      - with: hb-ps-104-creation-hymn
+        motif: night-as-garment-sleep-as-rest
+        refs: ["78:9", "78:10", "78:11"]
+        with_refs: ["Ps 104:20", "Ps 104:22", "Ps 104:23"]
+        relation: parallel
+        note: "wa-jaʿalnā l-layla libāsan wa-jaʿalnā n-nahāra maʿāshan ~ tāšet ḥōšek wî-hî lāylāh ... tizraḥ ha-ššemeš ... yēṣēʾ ʾādām le-foʿŏlô we-la-ʿăvōdātô ʿădê ʿārev: night ordained, day for human livelihood and work."
+      - with: hb-ps-104-creation-hymn
+        motif: rain-and-crops-as-sign
+        refs: ["78:14", "78:15", "78:16"]
+        with_refs: ["Ps 104:13", "Ps 104:14"]
+        relation: parallel
+        note: "wa-anzalnā mina l-muʿṣirāti māʾan thajjājan li-nukhrija bihi ḥabban wa-nabātan ~ mašqeh hārîm mē-ʿăliyyôtāyw ... maṣmîaḥ ḥāṣîr la-bbehēmāh we-ʿēśev la-ʿăvōdat hā-ʾādām lehôṣîʾ leḥem min hā-ʾāreṣ (both with the causative 'to bring out' from the earth)."
+      - with: hb-ps-78-history
+        motif: doors-of-heaven-opened
+        refs: ["78:19"]
+        with_refs: ["Ps 78:23"]
+        relation: divergence
+        note: "wa-futiḥati s-samāʾu fa-kānat abwāban ~ wa-yeṣaw šeḥāqîm mi-mmāʿal we-daltê šāmayim pātāḥ. The doors of heaven open; in the Psalm to rain manna on Israel, in the Quran as a sign of the end."
+      - with: hb-ps-62-silence-scales
+        motif: god-repays-according-to-deeds
+        refs: ["78:26", "78:40"]
+        with_refs: ["Ps 62:13"]
+        relation: parallel
+        note: "jazāʾan wifāqan; yawma yanẓuru l-marʾu mā qaddamat yadāhu ~ kî ʾattāh tešallēm le-ʾîš ke-maʿăśēhû."
+      - with: hb-ps-140-venom-of-vipers
+        motif: god-repays-according-to-deeds
+        refs: ["78:26"]
+        with_refs: ["Ps 140:10", "Ps 140:12"]
+        relation: echo
+        note: "jazāʾan wifāqan ~ ʿămal śefātêmô yekassēmô: the mischief they did returns upon them."
+      - with: hb-job-38-whirlwind-creation
+        motif: mountains-as-pegs
+        refs: ["78:6", "78:7"]
+        with_refs: ["Job 38:4", "Job 38:6"]
+        relation: echo
+        note: "a-lam najʿali l-arḍa mihādan wa-l-jibāla awtādan ~ be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā hoṭbāʿû: rhetorical questions on the founding of the earth; tent-pegs (awtād) vs. sunk footings (ʾădānîm)."
+  - unit: quran-79-pharaoh-and-cosmos
+    checked: [hb-ezek-29-pharaoh-the-dragon, hb-ps-105-history, hb-isa-26-song-and-resurrection, hb-ezek-38-gog-invasion, hb-ps-104-creation-hymn, hb-joel-2-army-and-repentance, hb-exod-3-burning-bush, hb-exod-5-bricks-without-straw, hb-exod-7-staff-swallows-staffs, hb-exod-14-crossing-of-the-sea, hb-ps-136-great-hallel]
+    matches:
+      - with: hb-exod-3-burning-bush
+        motif: holy-valley-tuwa
+        refs: ["79:16"]
+        with_refs: ["Exod 3:1", "Exod 3:4", "Exod 3:5"]
+        relation: divergence
+        note: "Place of the call: Exod 3:1 har hā-ʾĕlōhîm ḥōrēvāh, 3:5 ha-mmāqôm ʾăšer ʾattāh ʿômēd ʿālāyw ʾadmat qōdeš hûʾ, God calling mi-ttôk ha-sseneh. Q 79:16 idh nādāhu rabbuhu bi-l-wādi l-muqaddasi ṭuwā: holy ground kept (muqaddas ~ qōdeš), but the mountain becomes a named valley, and here no bush and no fire."
+      - with: hb-exod-3-burning-bush
+        motif: prophetic-call-narrative
+        refs: ["79:17", "79:18", "79:19"]
+        with_refs: ["Exod 3:10", "Exod 3:18"]
+        relation: divergence
+        note: "Purpose of the mission changed: Exod 3:10 lekāh we-ʾešlāḥăkā ʾel parʿōh we-hôṣēʾ ʾet ʿammî venê Yiśrāʾēl (to free Israel); 3:18 YHWH ʾĕlōhê hā-ʿIvriyyîm niqrāh ʿālênû. Q 79:17-19 idhhab ilā firʿawna innahu ṭaghā, fa-qul hal laka ilā an tazakkā wa-ahdiyaka ilā rabbika fa-takhshā: Moses is sent because Pharaoh transgressed, to invite Pharaoh himself to purify himself and be guided. Israel is not mentioned, and the 'God of the Hebrews' is presented to Pharaoh as 'your Lord' (rabbika)."
+      - with: hb-exod-5-bricks-without-straw
+        motif: pharaoh-claims-to-be-supreme-lord
+        refs: ["79:21", "79:23", "79:24"]
+        with_refs: ["Exod 5:2"]
+        relation: divergence
+        note: "Pharaoh's answer: Exod 5:2 mî YHWH ʾăšer ʾešmaʿ be-qōlô ... lōʾ yādaʿtî ʾet YHWH (he does not know this god). Q 79:23-24 fa-ḥashara fa-nādā fa-qāla anā rabbukumu l-aʿlā: he gathers the people and claims to be their supreme Lord himself; ignorance of a foreign god becomes self-deification."
+      - with: hb-ezek-29-pharaoh-the-dragon
+        motif: pharaoh-claims-to-be-supreme-lord
+        refs: ["79:24"]
+        with_refs: ["Ezek 29:3"]
+        relation: parallel
+        note: "anā rabbukumu l-aʿlā ~ ʾăšer ʾāmar lî yeʾōrî wa-ʾănî ʿăśîtinî ('my Nile is mine, I made myself'): Pharaoh's divine claim in his own mouth, in both cases followed by God's punishment."
+      - with: hb-exod-7-staff-swallows-staffs
+        motif: hardening-of-pharaohs-heart
+        refs: ["79:20", "79:21", "79:22"]
+        with_refs: ["Exod 7:3", "Exod 7:10"]
+        relation: divergence
+        note: "Who hardens Pharaoh: Exod 7:3 wa-ʾănî ʾaqšeh ʾet lēv parʿōh we-hirbêtî ʾet ʾōtōtay (God hardens him, to multiply his signs). Q 79:20-22 fa-arāhu l-āyata l-kubrā fa-kadhdhaba wa-ʿaṣā thumma adbara yasʿā: shown the greatest sign (cf. the staff become tannîn, Exod 7:10), Pharaoh himself denies, disobeys and turns away; no divine hardening."
+      - with: hb-ps-105-history
+        motif: hardening-of-pharaohs-heart
+        refs: ["79:21"]
+        with_refs: ["Ps 105:25"]
+        relation: divergence
+        note: "fa-kadhdhaba wa-ʿaṣā (Pharaoh's own act) ~ hāfak libbām liśnōʾ ʿammô (God turned the Egyptians' heart to hate his people)."
+      - with: hb-ps-136-great-hallel
+        motif: pursuers-drowned-in-sea
+        refs: ["79:25"]
+        with_refs: ["Ps 136:15"]
+        relation: echo
+        note: "fa-akhadhahu llāhu nakāla l-ākhirati wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh himself punished by God; the Quran adds punishment in the next world as well."
+      - with: hb-ps-104-creation-hymn
+        motif: heaven-built-before-earth-spread
+        refs: ["79:27", "79:28", "79:30", "79:32"]
+        with_refs: ["Ps 104:2", "Ps 104:5"]
+        relation: echo
+        note: "a-antum ashaddu khalqan ami s-samāʾu banāhā, rafaʿa samkahā ... wa-l-arḍa baʿda dhālika daḥāhā ... wa-l-jibāla arsāhā ~ nôṭeh šāmayim ka-yerîʿāh ... yāsad ʾereṣ ʿal mekônêhā bal timmôṭ: heaven raised, then earth founded and fixed. The Quran stresses the order (baʿda dhālika)."
+  - unit: quran-80-frowned
+    checked: [hb-isa-26-song-and-resurrection, hb-deut-8-wilderness-lesson, hb-dan-12-resurrection-end, hb-amos-8-summer-fruit, hb-ps-102-afflicted, hb-deut-28-blessings-curses, hb-lev-19-holiness-code-a, hb-ezek-9-mark-on-foreheads]
+    matches:
+      - with: hb-deut-8-wilderness-lesson
+        motif: seven-species-of-land
+        refs: ["80:27", "80:28", "80:29", "80:31", "80:32"]
+        with_refs: ["Deut 8:8"]
+        relation: echo
+        note: "fa-anbatnā fīhā ḥabban wa-ʿinaban wa-qaḍban wa-zaytūnan wa-nakhlan ... wa-fākihatan wa-abban matāʿan lakum ~ ʾereṣ ḥiṭṭāh û-śeʿōrāh we-gefen û-teʾēnāh we-rimmôn ʾereṣ zêt šemen û-devāš. Grain, vine and olive in both lists; the Quran adds palms and fodder and gives the crops of every land, not the promised land's."
+      - with: hb-lev-19-holiness-code-a
+        motif: impartial-judgment-neither-poor-nor-great
+        refs: ["80:1", "80:2", "80:5", "80:6"]
+        with_refs: ["Lev 19:15"]
+        relation: echo
+        note: "ʿabasa wa-tawallā an jāʾahu l-aʿmā ... ammā mani staghnā fa-anta lahu taṣaddā ~ lōʾ tiśśāʾ fenê dāl we-lōʾ tehdar penê gādôl. Favor to the great over the weak forbidden; in the Quran the prophet himself is rebuked for it."
+      - with: hb-ezek-9-mark-on-foreheads
+        motif: honored-scrolls-in-hands-of-scribes
+        refs: ["80:13", "80:15", "80:16"]
+        with_refs: ["Ezek 9:2"]
+        relation: echo
+        note: "fī ṣuḥufin mukarramatin ... bi-aydī safaratin kirāmin bararatin ~ we-qeset ha-ssōfēr be-motnāyw: heavenly scribes; safara is cognate with sōfēr. Leads only."
+      - with: hb-dan-12-resurrection-end
+        motif: resurrection-of-the-dead
+        refs: ["80:21", "80:22"]
+        with_refs: ["Dan 12:2"]
+        relation: echo
+        note: "thumma amātahu fa-aqbarahu thumma idhā shāʾa ansharahu ~ we-rabbîm mi-yyešēnê ʾadmat ʿāfār yāqîṣû."
+      - with: hb-isa-26-song-and-resurrection
+        motif: resurrection-of-the-dead
+        refs: ["80:22"]
+        with_refs: ["Isa 26:19"]
+        relation: echo
+        note: "idhā shāʾa ansharahu ~ yiḥyû mētêkā nevēlātî yeqûmûn."
+  - unit: quran-81-folding-up
+    checked: [hb-isa-34-edom-and-lilith, hb-joel-3-spirit-poured, hb-joel-4-valley-of-jehoshaphat, hb-joel-2-army-and-repentance, hb-isa-26-song-and-resurrection, hb-isa-30-rahab-who-sits-still]
+    matches:
+      - with: hb-isa-34-edom-and-lilith
+        motif: heavens-rolled-up-like-scroll
+        refs: ["81:10", "81:11"]
+        with_refs: ["Isa 34:4"]
+        relation: divergence
+        note: "Sky and scroll: Isa 34:4 we-nāgōllû kas-sēfer ha-ššāmāyim (the heavens are rolled up LIKE a scroll). Q 81:10-11 wa-idhā ṣ-ṣuḥufu nushirat wa-idhā s-samāʾu kushiṭat: the scrolls (of deeds) are spread open and the sky is stripped off. The image is split: the sky is removed, the scroll is opened rather than rolled."
+      - with: hb-joel-3-spirit-poured
+        motif: sun-moon-darkened-stars-withdraw
+        refs: ["81:1", "81:2"]
+        with_refs: ["Joel 3:4"]
+        relation: parallel
+        note: "idhā sh-shamsu kuwwirat wa-idhā n-nujūmu nkadarat ~ ha-ššemeš yēhāfēk le-ḥōšek we-ha-yyārēaḥ le-dām. kadara (grow dim) ~ qādar of Joel 2:10."
+      - with: hb-joel-2-army-and-repentance
+        motif: sun-moon-darkened-stars-withdraw
+        refs: ["81:2"]
+        with_refs: ["Joel 2:10"]
+        relation: echo
+        note: "wa-idhā n-nujūmu nkadarat ~ šemeš we-yārēaḥ qādārû we-kôkāvîm ʾāsefû noghām: Arabic inkadara and Hebrew qādar, cognate verbs of darkening."
+      - with: hb-joel-4-valley-of-jehoshaphat
+        motif: sun-moon-darkened-stars-withdraw
+        refs: ["81:1", "81:2"]
+        with_refs: ["Joel 4:15"]
+        relation: echo
+        note: "kuwwirat ... nkadarat ~ šemeš we-yārēaḥ qādārû."
+      - with: hb-isa-26-song-and-resurrection
+        motif: blood-cries-from-ground
+        refs: ["81:8", "81:9"]
+        with_refs: ["Isa 26:21"]
+        relation: echo
+        note: "wa-idhā l-mawʾūdatu suʾilat bi-ayyi dhanbin qutilat (the buried girl is questioned) ~ we-gilletāh hā-ʾāreṣ ʾet dāmêhā we-lōʾ tekasseh ʿôd ʿal hărûgêhā: the hidden murdered victim exposed at the judgment; the Quran makes the victim herself witness."
+  - unit: quran-82-cleaving
+    checked: [hb-ps-139-searched-and-known, hb-ps-119-vav-kaf, hb-isa-65-rebels-and-servants, hb-isa-26-song-and-resurrection, hb-dan-12-resurrection-end, hb-job-38-whirlwind-creation]
+    matches:
+      - with: hb-ps-139-searched-and-known
+        motif: knit-together-in-mothers-womb
+        refs: ["82:7", "82:8"]
+        with_refs: ["Ps 139:13", "Ps 139:14"]
+        relation: parallel
+        note: "alladhī khalaqaka fa-sawwāka fa-ʿadalaka fī ayyi ṣūratin mā shāʾa rakkabak ~ kî ʾattāh qānîtā kilyōtāy tesukkēnî be-veṭen ʾimmî ... niflāʾîm maʿăśêkā. God forming and assembling the body; the Quran uses it to rebuke ingratitude (mā gharraka bi-rabbika l-karīm, 82:6), the Psalm to praise."
+      - with: hb-ps-119-vav-kaf
+        motif: knit-together-in-mothers-womb
+        refs: ["82:7"]
+        with_refs: ["Ps 119:73"]
+        relation: echo
+        note: "khalaqaka fa-sawwāka ~ yādêkā ʿāśûnî wa-ykônenûnî (made me and set me upright/established me): sawwā and kônēn both 'set right, proportion'."
+      - with: hb-isa-65-rebels-and-servants
+        motif: deeds-recorded-before-god
+        refs: ["82:10", "82:11", "82:12"]
+        with_refs: ["Isa 65:6"]
+        relation: parallel
+        note: "wa-inna ʿalaykum la-ḥāfiẓīna kirāman kātibīna yaʿlamūna mā tafʿalūn ~ hinnēh ketûvāh le-fānay lōʾ ʾeḥĕšeh kî ʾim šillamtî ... ʿal ḥêqām. Deeds written down before God for repayment; the Quran adds named recording angels (kātibīn)."
+      - with: hb-dan-12-resurrection-end
+        motif: heavenly-book-of-life
+        refs: ["82:11"]
+        with_refs: ["Dan 12:1"]
+        relation: echo
+        note: "kirāman kātibīn ~ kol ha-nnimṣāʾ kātûv ba-ssēfer."
+      - with: hb-isa-26-song-and-resurrection
+        motif: graves-overturned
+        refs: ["82:4"]
+        with_refs: ["Isa 26:19", "Isa 26:21"]
+        relation: echo
+        note: "wa-idhā l-qubūru buʿthirat ~ wā-ʾāreṣ refāʾîm tappîl ... we-lōʾ tekasseh ʿôd ʿal hărûgêhā: the earth gives up its dead."
+      - with: hb-job-38-whirlwind-creation
+        motif: seas-burst-or-set-aflame
+        refs: ["82:3"]
+        with_refs: ["Job 38:8"]
+        relation: echo
+        note: "weak: wa-idhā l-biḥāru fujjirat (seas burst forth, at the end) ~ wa-yyāsek bi-dlātayim yām be-gîḥô mē-reḥem yēṣēʾ (the sea bursting from the womb, at creation, shut in by doors). Creation's restraint undone."
+  - unit: quran-83-defrauders
+    checked: [hb-ps-87-zion-birthplace, hb-ps-69-deep-waters, hb-ps-56-tears-in-bottle, hb-isa-28-covenant-with-death, hb-amos-8-summer-fruit, hb-isa-30-rahab-who-sits-still, hb-hos-12-jacob]
+    matches:
+      - with: hb-amos-8-summer-fruit
+        motif: just-weights-and-measures
+        refs: ["83:1", "83:2", "83:3"]
+        with_refs: ["Amos 8:5"]
+        relation: parallel
+        note: "waylun li-l-muṭaffifīna lladhīna idhā ktālū ʿalā n-nāsi yastawfūna wa-idhā kālūhum aw wazanūhum yukhsirūn ~ lehaqṭîn ʾêfāh û-lehagdîl šeqel û-leʿawwēt môʾzenê mirmāh. Fraud in measure and weight condemned; Amos ties it to the sabbath and the poor, the Quran to the Day of Judgment (a-lā yaẓunnu ulāʾika annahum mabʿūthūn, 83:4)."
+      - with: hb-hos-12-jacob
+        motif: merchant-with-false-scales
+        refs: ["83:3"]
+        with_refs: ["Hos 12:8"]
+        relation: echo
+        note: "wa-idhā kālūhum aw wazanūhum yukhsirūn ~ Kenaʿan be-yādô môʾzenê mirmāh laʿăšōq ʾāhēv."
+      - with: hb-ps-69-deep-waters
+        motif: registers-sijjin-and-illiyyun
+        refs: ["83:7", "83:9", "83:18", "83:20"]
+        with_refs: ["Ps 69:29"]
+        relation: divergence
+        note: "One book vs two: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm we-ʿim ṣaddîqîm ʾal yikkātēvû (the wicked blotted out of the one book of life). Q 83 kitāba l-fujjāri la-fī sijjīn ... kitāba l-abrāri la-fī ʿilliyyīn, each a kitābun marqūm: separate inscribed registers for the wicked and the righteous."
+      - with: hb-ps-87-zion-birthplace
+        motif: heavenly-book-of-life
+        refs: ["83:20"]
+        with_refs: ["Ps 87:6"]
+        relation: echo
+        note: "kitābun marqūm yashhaduhu l-muqarrabūn ~ YHWH yispōr bi-ktôv ʿammîm."
+      - with: hb-ps-56-tears-in-bottle
+        motif: heavenly-book-of-life
+        refs: ["83:9"]
+        with_refs: ["Ps 56:9"]
+        relation: echo
+        note: "kitābun marqūm ~ hă-lōʾ be-sifrātekā."
+  - unit: quran-84-splitting
+    checked: [hb-neh-8-ezra-reads-torah, hb-isa-30-rahab-who-sits-still, hb-isa-28-covenant-with-death, hb-dan-12-resurrection-end, hb-isa-1-indictment-of-judah, hb-isa-26-song-and-resurrection]
+    matches:
+      - with: hb-neh-8-ezra-reads-torah
+        motif: prostration-at-recitation
+        refs: ["84:21"]
+        with_refs: ["Neh 8:5", "Neh 8:6"]
+        relation: contrast
+        note: "wa-idhā quriʾa ʿalayhimu l-qurʾānu lā yasjudūn ~ wa-yyiqqedû wa-yyištaḥăwû la-YHWH ʾappayim ʾārṣāh (the people bow to the ground at the reading of the Torah). Prostration at public recitation: done by Ezra's audience, refused by the Quran's deniers."
+      - with: hb-isa-1-indictment-of-judah
+        motif: cosmos-hears-and-obeys-its-lord
+        refs: ["84:1", "84:2", "84:5"]
+        with_refs: ["Isa 1:2"]
+        relation: echo
+        note: "idhā s-samāʾu nshaqqat wa-adhinat li-rabbihā wa-ḥuqqat ... wa-idhā l-arḍu muddat ~ šimʿû šāmayim we-haʾăzînî ʾereṣ: heaven and earth 'give ear' (Arabic adhina, Hebrew heʾĕzîn, the same root ʾ-dh-n / ʾ-z-n). In Isaiah they are witnesses to Israel's rebellion; in the Quran they obey at the end."
+      - with: hb-isa-26-song-and-resurrection
+        motif: earth-casts-out-its-contents
+        refs: ["84:3", "84:4"]
+        with_refs: ["Isa 26:19", "Isa 26:21"]
+        relation: echo
+        note: "wa-alqat mā fīhā wa-takhallat ~ wā-ʾāreṣ refāʾîm tappîl; we-gilletāh hā-ʾāreṣ ʾet dāmêhā."
+      - with: hb-dan-12-resurrection-end
+        motif: heavenly-book-of-life
+        refs: ["84:7", "84:10"]
+        with_refs: ["Dan 12:1"]
+        relation: echo
+        note: "man ūtiya kitābahu bi-yamīnihi ... man ūtiya kitābahu warāʾa ẓahrihi ~ yimmālēṭ ʿammekā kol ha-nnimṣāʾ kātûv ba-ssēfer: the book decides who is saved."
+  - unit: quran-85-constellations
+    checked: [hb-dan-3-golden-image-furnace, hb-dan-3-4-tree-dream, hb-nah-1-avenging-god, hb-deut-4-exhortation, hb-zeph-1-day-of-wrath]
+    matches:
+      - with: hb-dan-3-golden-image-furnace
+        motif: thrown-into-fire
+        refs: ["85:4", "85:5", "85:6", "85:7", "85:8"]
+        with_refs: ["Dan 3:12", "Dan 3:20", "Dan 3:27"]
+        relation: divergence
+        note: "Believers thrown in fire for their faith, with the outcome reversed: Dan 3:12 lēʾlāhāk lāʾ fāleḥîn û-le-ṣelem dahăvāʾ ... lāʾ sāgedîn, cast into ʾattûn nûrāʾ yāqidtāʾ, and 3:27 lāʾ šeleṭ nûrāʾ be-gešmehôn (the fire had no power over them). Q 85:4-8 qutila aṣḥābu l-ukhdūdi n-nāri dhāti l-waqūd ... wa-mā naqamū minhum illā an yuʾminū bi-llāh: the believers die, and it is the persecutors who are cursed (qutila) and promised ʿadhābu l-ḥarīq (85:10). No rescue in this world."
+      - with: hb-nah-1-avenging-god
+        motif: divine-epithet-cluster
+        refs: ["85:12", "85:14"]
+        with_refs: ["Nah 1:2", "Nah 1:3"]
+        relation: echo
+        note: "inna baṭsha rabbika la-shadīd ... wa-huwa l-ghafūru l-wadūd ~ ʾēl qannôʾ we-nōqēm YHWH ... YHWH ʾerek ʾappayim û-gedol kōaḥ: string of divine epithets uniting severity and forbearance."
+      - with: hb-deut-4-exhortation
+        motif: heavenly-preserved-tablet
+        refs: ["85:21", "85:22"]
+        with_refs: ["Deut 4:13"]
+        relation: divergence
+        note: "bal huwa qurʾānun majīdun fī lawḥin maḥfūẓ ~ wa-yyiktevēm ʿal šenê luḥôt ʾăvānîm: scripture on tablets (lawḥ ~ lûaḥ). In Deuteronomy God's writing on stone tablets given to Israel at Horeb; in the Quran a single tablet kept in heaven."
+  - unit: quran-86-night-comer
+    checked: [hb-ps-44-national-lament, hb-isa-26-song-and-resurrection, hb-dan-12-resurrection-end, hb-ps-139-searched-and-known, hb-job-38-whirlwind-creation, hb-ps-121-keeper-of-israel]
+    matches:
+      - with: hb-ps-139-searched-and-known
+        motif: search-me-and-test-my-heart
+        refs: ["86:9"]
+        with_refs: ["Ps 139:23"]
+        relation: echo
+        note: "yawma tublā s-sarāʾir (the day the secrets are tested) ~ ḥoqrēnî ʾēl we-daʿ levāvî beḥānēnî we-daʿ śarʿappāy. Testing of the inner thoughts; the Psalmist asks for it now, the Quran sets it on the Day."
+      - with: hb-ps-44-national-lament
+        motif: god-knows-secrets-of-heart
+        refs: ["86:9"]
+        with_refs: ["Ps 44:22"]
+        relation: echo
+        note: "tublā s-sarāʾir ~ kî hûʾ yōdēaʿ taʿălumôt lēv."
+      - with: hb-ps-121-keeper-of-israel
+        motif: guardian-over-every-soul
+        refs: ["86:4"]
+        with_refs: ["Ps 121:4", "Ps 121:5"]
+        relation: echo
+        note: "in kullu nafsin lammā ʿalayhā ḥāfiẓ ~ hinnēh lōʾ yānûm we-lōʾ yîšān šômēr Yiśrāʾēl, YHWH šōmrekā: a keeper over each person; in the Psalm God protects, in the Quran the ḥāfiẓ (an angel, cf. 82:10) also records."
+      - with: hb-dan-12-resurrection-end
+        motif: resurrection-of-the-dead
+        refs: ["86:8"]
+        with_refs: ["Dan 12:2"]
+        relation: echo
+        note: "innahu ʿalā rajʿihi la-qādir ~ we-rabbîm mi-yyešēnê ʾadmat ʿāfār yāqîṣû."
+  - unit: quran-87-most-high
+    checked: [hb-ps-7-oath-of-innocence, hb-ps-57-cave, hb-gen-14-war-of-kings-melchizedek, hb-isa-44-idol-from-half-a-log, hb-ps-104-creation-hymn, hb-jer-23-against-prophets]
+    matches:
+      - with: hb-ps-7-oath-of-innocence
+        motif: el-elyon-creator
+        refs: ["87:1"]
+        with_refs: ["Ps 7:18"]
+        relation: parallel
+        note: "sabbiḥi sma rabbika l-aʿlā ~ wa-ʾăzammerāh šēm YHWH ʿElyôn: praise of 'the name' of the Lord 'Most High' (al-aʿlā ~ ʿelyôn)."
+      - with: hb-gen-14-war-of-kings-melchizedek
+        motif: el-elyon-creator
+        refs: ["87:1", "87:2", "87:3"]
+        with_refs: ["Gen 14:19", "Gen 14:20"]
+        relation: echo
+        note: "rabbika l-aʿlā lladhī khalaqa fa-sawwā wa-lladhī qaddara fa-hadā ~ ʾēl ʿElyôn qōnēh šāmayim wā-ʾāreṣ: the Most High as creator. In Genesis a title used by the priest-king of Salem; in the Quran the Prophet's own Lord."
+      - with: hb-ps-57-cave
+        motif: el-elyon-creator
+        refs: ["87:1"]
+        with_refs: ["Ps 57:3"]
+        relation: echo
+        note: "rabbika l-aʿlā ~ ʾeqrāʾ lēʾlōhîm ʿElyôn lā-ʾēl gōmēr ʿālāy."
+      - with: hb-isa-44-idol-from-half-a-log
+        motif: god-alone-made-all-things
+        refs: ["87:2", "87:3"]
+        with_refs: ["Isa 44:24"]
+        relation: echo
+        note: "alladhī khalaqa fa-sawwā wa-lladhī qaddara fa-hadā ~ ʾānōkî YHWH ʿōśeh kōl nōṭeh šāmayim levaddî."
+      - with: hb-ps-104-creation-hymn
+        motif: rain-and-crops-as-sign
+        refs: ["87:4", "87:5"]
+        with_refs: ["Ps 104:14"]
+        relation: echo
+        note: "wa-lladhī akhraja l-marʿā fa-jaʿalahu ghuthāʾan aḥwā ~ maṣmîaḥ ḥāṣîr la-bbehēmāh. The Quran adds the pasture's withering to dark stubble."
+  - unit: quran-88-overwhelming
+    checked: [hb-esth-1-vashti-deposed, hb-job-38-whirlwind-creation, hb-isa-40-comfort-my-people, hb-joel-2-army-and-repentance]
+    matches:
+      - with: hb-esth-1-vashti-deposed
+        motif: luxurious-palace-garden-furnishings
+        refs: ["88:13", "88:14", "88:15", "88:16"]
+        with_refs: ["Esth 1:6"]
+        relation: echo
+        note: "fīhā sururun marfūʿatun wa-akwābun mawḍūʿatun wa-namāriqu maṣfūfatun wa-zarābiyyu mabthūtha ~ ḥûr karpas û-tekēlet ... miṭṭôt zāhāv wā-kesef ʿal riṣpat bahaṭ wā-šēš: the furnished couches, vessels and floor-coverings of a royal garden feast; the Persian king's banquet in Esther, the Garden in the Quran."
+      - with: hb-isa-40-comfort-my-people
+        motif: where-were-you-at-creation
+        refs: ["88:17", "88:18", "88:19", "88:20"]
+        with_refs: ["Isa 40:26"]
+        relation: parallel
+        note: "a-fa-lā yanẓurūna ilā l-ibili kayfa khuliqat wa-ilā s-samāʾi kayfa rufiʿat ~ śeʾû mārôm ʿênêkem û-reʾû mî vārāʾ ʾēlleh: 'look and see' how/who created, as proof of the creator; Isaiah looks at the stars, the Quran at the camel, the sky, the mountains and the earth."
+      - with: hb-job-38-whirlwind-creation
+        motif: where-were-you-at-creation
+        refs: ["88:18", "88:19", "88:20"]
+        with_refs: ["Job 38:4", "Job 38:5", "Job 38:6"]
+        relation: echo
+        note: "wa-ilā s-samāʾi kayfa rufiʿat wa-ilā l-jibāli kayfa nuṣibat wa-ilā l-arḍi kayfa suṭiḥat ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... mî śām memaddêhā: rhetorical questions about how the world was built."
+      - with: hb-joel-2-army-and-repentance
+        motif: radiant-and-darkened-faces
+        refs: ["88:2", "88:3"]
+        with_refs: ["Joel 2:6"]
+        relation: echo
+        note: "wujūhun yawmaʾidhin khāshiʿa ~ kol pānîm qibbeṣû pāʾrûr: faces downcast/darkened on the Day."
+  - unit: quran-89-dawn
+    checked: [hb-ps-68-rider-of-clouds, hb-obad-1-edom-brought-down, hb-judg-5-song-of-deborah, hb-isa-1-indictment-of-judah, hb-zeph-1-day-of-wrath, hb-ps-78-history, hb-ezek-16-sisters-sodom-samaria, hb-deut-33-blessing-of-moses]
+    matches:
+      - with: hb-obad-1-edom-brought-down
+        motif: edom-dwells-in-clefts-of-rock
+        refs: ["89:9"]
+        with_refs: ["Obad 1:3"]
+        relation: echo
+        note: "wa-thamūda lladhīna jābū ṣ-ṣakhra bi-l-wād ~ šōkenî ve-ḥagwê selaʿ merôm šivtô ʾōmēr be-libbô mî yôridēnî ʾāreṣ: a rock-dwelling people brought down despite its security; Thamud in the Quran, Edom in Obadiah (both peoples of the Hejaz-Transjordan rock country)."
+      - with: hb-ezek-16-sisters-sodom-samaria
+        motif: sin-of-sodom-pride-plenty-neglect-of-poor
+        refs: ["89:17", "89:18", "89:19", "89:20"]
+        with_refs: ["Ezek 16:49"]
+        relation: parallel
+        note: "kallā bal lā tukrimūna l-yatīma wa-lā taḥāḍḍūna ʿalā ṭaʿāmi l-miskīni wa-taʾkulūna t-turātha aklan lammā wa-tuḥibbūna l-māla ḥubban jammā ~ gāʾôn śivʿat leḥem we-šalwat hašqēṭ ... we-yad ʿānî we-ʾevyôn lōʾ heḥĕzîqāh: surfeit and love of wealth with neglect of the poor as the sin that brings destruction."
+      - with: hb-isa-1-indictment-of-judah
+        motif: neglect-of-orphan-and-poor-condemned
+        refs: ["89:17"]
+        with_refs: ["Isa 1:17", "Isa 1:23"]
+        relation: echo
+        note: "lā tukrimūna l-yatīm ~ yātôm lōʾ yišpōṭû we-rîv ʾalmānāh lōʾ yāvôʾ ʾălêhem; šifṭû yātôm."
+      - with: hb-deut-33-blessing-of-moses
+        motif: god-comes-from-sinai-seir-paran
+        refs: ["89:22"]
+        with_refs: ["Deut 33:2"]
+        relation: echo
+        note: "wa-jāʾa rabbuka wa-l-malaku ṣaffan ṣaffan ~ YHWH mi-ssînay bāʾ ... we-ʾātāh mē-rivevōt qōdeš: the Lord 'comes' with ranks of holy ones; at Sinai in Deuteronomy, at the Judgment in the Quran."
+      - with: hb-ps-68-rider-of-clouds
+        motif: god-comes-from-sinai-seir-paran
+        refs: ["89:22"]
+        with_refs: ["Ps 68:18"]
+        relation: echo
+        note: "wa-l-malaku ṣaffan ṣaffan ~ rekev ʾĕlōhîm ribbōtayim ʾalfê šinʾān ʾădōnāy vām sînay ba-qqōdeš."
+      - with: hb-judg-5-song-of-deborah
+        motif: great-earthquake-all-creatures-quake
+        refs: ["89:21", "89:22"]
+        with_refs: ["Judg 5:4"]
+        relation: echo
+        note: "idhā dukkati l-arḍu dakkan dakkā wa-jāʾa rabbuka ~ YHWH be-ṣēʾtekā mi-śśēʿîr ... ʾereṣ rāʿāšāh: the earth shaken at the coming of the Lord."
+      - with: hb-zeph-1-day-of-wrath
+        motif: wealth-useless-on-day-of-wrath
+        refs: ["89:20", "89:23"]
+        with_refs: ["Zeph 1:18"]
+        relation: echo
+        note: "wa-tuḥibbūna l-māla ḥubban jammā ... yawmaʾidhin yatadhakkaru l-insānu wa-annā lahu dh-dhikrā ~ gam kaspām gam zehāvām lōʾ yûkal lehaṣṣîlām be-yôm ʿevrat YHWH."
+  - unit: quran-90-city
+    checked: [hb-deut-30-return-choose-life, hb-ps-1-two-ways, hb-jer-21-zedekiah-inquiry, hb-isa-58-true-fast, hb-gen-3-fall-expulsion, hb-job-22-eliphaz-accuses-job]
+    matches:
+      - with: hb-isa-58-true-fast
+        motif: true-fast-is-justice
+        refs: ["90:11", "90:13", "90:14", "90:15", "90:16"]
+        with_refs: ["Isa 58:6", "Isa 58:7"]
+        relation: parallel
+        note: "fa-lā qtaḥama l-ʿaqabata ... fakku raqabatin aw iṭʿāmun fī yawmin dhī masghabatin yatīman dhā maqrabatin aw miskīnan dhā matraba ~ hă-lôʾ zeh ṣôm ʾevḥārēhû pattēaḥ ḥarṣubbôt rešaʿ ... we-šallaḥ reṣûṣîm ḥofšîm ... hă-lôʾ fārōs lā-rāʿēv laḥmekā wa-ʿăniyyîm merûdîm tāvîʾ vāyit ... û-mi-bbeśārekā lōʾ titʿallām. The true hard deed is freeing the bound and feeding the hungry, with the kinsman (dhā maqraba ~ mi-bbeśārekā) singled out. Isaiah contrasts it with fasting, the Quran with the 'steep ascent'."
+      - with: hb-jer-21-zedekiah-inquiry
+        motif: choose-life
+        refs: ["90:10"]
+        with_refs: ["Jer 21:8"]
+        relation: parallel
+        note: "wa-hadaynāhu n-najdayn (we showed him the two highways) ~ hinnî nōtēn li-fnêkem ʾet derek ha-ḥayyîm we-ʾet derek ha-mmāwet: two ways set before man by God."
+      - with: hb-deut-30-return-choose-life
+        motif: choose-life
+        refs: ["90:10"]
+        with_refs: ["Deut 30:15", "Deut 30:19"]
+        relation: echo
+        note: "wa-hadaynāhu n-najdayn ~ ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā ... û-vāḥartā ba-ḥayyîm."
+      - with: hb-ps-1-two-ways
+        motif: choose-life
+        refs: ["90:10", "90:18", "90:19"]
+        with_refs: ["Ps 1:6"]
+        relation: echo
+        note: "an-najdayn; aṣḥābu l-maymana / aṣḥābu l-mashʾama ~ kî yôdēaʿ YHWH derek ṣaddîqîm we-derek rešāʿîm tōʾvēd."
+      - with: hb-gen-3-fall-expulsion
+        motif: ground-cursed-toil
+        refs: ["90:4"]
+        with_refs: ["Gen 3:17"]
+        relation: divergence
+        note: "laqad khalaqnā l-insāna fī kabad (we created man in toil) ~ ʾărûrāh hā-ʾădāmāh baʿăvûrekā be-ʿiṣṣāvôn tōʾkălennāh: human toil; in Genesis a curse on the ground after the sin, in the Quran the condition of human creation itself, with no fall."
+      - with: hb-job-22-eliphaz-accuses-job
+        motif: freeing-a-slave-as-steep-ascent
+        refs: ["90:14", "90:16"]
+        with_refs: ["Job 22:7"]
+        relation: echo
+        note: "iṭʿāmun fī yawmin dhī masghaba ... miskīnan dhā matraba ~ lōʾ mayim ʿāyēf tašqeh û-mē-rāʿēv timnaʿ lāḥem: feeding the hungry as the test of righteousness (here in the form of an accusation)."
+  - unit: quran-91-sun
+    checked: [hb-isa-13-oracle-against-babylon, hb-isa-30-rahab-who-sits-still, hb-isa-28-covenant-with-death, hb-gen-4-cain-abel]
+    matches:
+      - with: hb-gen-4-cain-abel
+        motif: soul-inspired-with-wickedness-and-piety
+        refs: ["91:7", "91:8", "91:9", "91:10"]
+        with_refs: ["Gen 4:7"]
+        relation: echo
+        note: "wa-nafsin wa-mā sawwāhā fa-alhamahā fujūrahā wa-taqwāhā, qad aflaḥa man zakkāhā wa-qad khāba man dassāhā ~ hă-lôʾ ʾim têṭîv śeʾēt we-ʾim lōʾ têṭîv la-ppetaḥ ḥaṭṭāʾt rōvēṣ ... we-ʾattāh timšol bô: the soul faces good and sin and must master it; in the Quran God himself inspires both, in Genesis sin crouches outside. cf. rabbinic yeṣer ha-ṭôv / yeṣer ha-raʿ (not a match)."
+  - unit: quran-92-night
+    checked: [hb-ps-7-oath-of-innocence, hb-ps-57-cave, hb-prov-11-sayings, hb-job-1-prologue-first-test, hb-eccl-8-king-and-retribution, hb-ps-147-counts-the-stars]
+    matches:
+      - with: hb-prov-11-sayings
+        motif: generous-giver-enriched
+        refs: ["92:5", "92:6", "92:7", "92:8", "92:9", "92:10"]
+        with_refs: ["Prov 11:24", "Prov 11:25"]
+        relation: parallel
+        note: "fa-ammā man aʿṭā wa-ttaqā ... fa-sanuyassiruhu li-l-yusrā, wa-ammā man bakhila wa-staghnā ... fa-sanuyassiruhu li-l-ʿusrā ~ yēš mefazzēr we-nôsāf ʿôd we-ḥôśēk mi-yyōšer ʾak le-maḥsôr; nefeš berākāh tedussān: the giver prospers, the withholder comes to want. Proverbs speaks of this life, the Quran of the way eased toward the Garden or the Fire."
+      - with: hb-prov-11-sayings
+        motif: wealth-useless-on-day-of-wrath
+        refs: ["92:11"]
+        with_refs: ["Prov 11:4"]
+        relation: parallel
+        note: "wa-mā yughnī ʿanhu māluhu idhā taraddā ~ lōʾ yôʿîl hôn be-yôm ʿevrāh û-ṣedāqāh taṣṣîl mi-mmāwet."
+      - with: hb-job-1-prologue-first-test
+        motif: giving-for-gods-face-not-repayment
+        refs: ["92:18", "92:19", "92:20"]
+        with_refs: ["Job 1:9"]
+        relation: echo
+        note: "alladhī yuʾtī mālahu yatazakkā wa-mā li-aḥadin ʿindahu min niʿmatin tujzā illā btighāʾa wajhi rabbihi l-aʿlā ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm: piety without reward as the question. Satan doubts it of Job; the Quran affirms it of the giver who seeks only God's face."
+      - with: hb-ps-7-oath-of-innocence
+        motif: el-elyon-creator
+        refs: ["92:20"]
+        with_refs: ["Ps 7:18"]
+        relation: echo
+        note: "wajhi rabbihi l-aʿlā ~ šēm YHWH ʿElyôn."
+  - unit: quran-93-94-forenoon-and-expansion
+    checked: [hb-exod-22-apodictic-and-social-laws, hb-ps-68-rider-of-clouds, hb-ps-10-why-far-off, hb-jer-49-ammon-edom-damascus-kedar-elam, hb-job-1-prologue-first-test, hb-isa-65-rebels-and-servants, hb-ps-4-evening-trust]
+    matches:
+      - with: hb-ps-68-rider-of-clouds
+        motif: father-of-orphans-judge-of-widows
+        refs: ["93:6"]
+        with_refs: ["Ps 68:6", "Ps 68:7"]
+        relation: parallel
+        note: "a-lam yajidka yatīman fa-āwā ~ ʾăvî yetômîm we-dayyan ʾalmānôt ʾĕlōhîm ... ʾĕlōhîm môšîv yeḥîdîm baytāh: God shelters the orphan and gives the lonely a home (āwā ~ môšîv ... baytāh). The Quran applies it to the Prophet's own orphanhood."
+      - with: hb-exod-22-apodictic-and-social-laws
+        motif: neglect-of-orphan-and-poor-condemned
+        refs: ["93:9", "93:10"]
+        with_refs: ["Exod 22:21"]
+        relation: parallel
+        note: "fa-ammā l-yatīma fa-lā taqhar wa-ammā s-sāʾila fa-lā tanhar ~ kol ʾalmānāh we-yātôm lōʾ teʿannûn: do not oppress the orphan; the Quran pairs him with the beggar, Exodus with the widow."
+      - with: hb-ps-10-why-far-off
+        motif: father-of-orphans-judge-of-widows
+        refs: ["93:6"]
+        with_refs: ["Ps 10:14"]
+        relation: echo
+        note: "a-lam yajidka yatīman fa-āwā ~ ʿālêkā yaʿăzōv ḥēlekāh yātôm ʾattāh hāyîtā ʿôzēr."
+      - with: hb-jer-49-ammon-edom-damascus-kedar-elam
+        motif: father-of-orphans-judge-of-widows
+        refs: ["93:6"]
+        with_refs: ["Jer 49:11"]
+        relation: echo
+        note: "fa-āwā ~ ʿozvāh yetōmêkā ʾănî ʾăḥayyeh: God keeps the orphans alive."
+      - with: hb-ps-4-evening-trust
+        motif: with-hardship-comes-ease
+        refs: ["94:1", "94:5", "94:6"]
+        with_refs: ["Ps 4:2"]
+        relation: echo
+        note: "a-lam nashraḥ laka ṣadrak ... fa-inna maʿa l-ʿusri yusrā ~ ba-ṣṣār hirḥavtā llî: 'in distress you made room for me'; widening (sharaḥa ~ hirḥîv) in narrowness."
+  - unit: quran-95-fig
+    checked: [hb-deut-33-blessing-of-moses, hb-ps-76-salem, hb-ps-68-rider-of-clouds, hb-ps-58-unjust-gods, hb-ps-85-righteousness-and-peace, hb-ezek-20-history-of-rebellion, hb-gen-18-abraham-bargains, hb-ps-8-what-is-man, hb-deut-8-wilderness-lesson]
+    matches:
+      - with: hb-deut-33-blessing-of-moses
+        motif: god-comes-from-sinai-seir-paran
+        refs: ["95:1", "95:2", "95:3"]
+        with_refs: ["Deut 33:2"]
+        relation: echo
+        note: "wa-t-tīni wa-z-zaytūni wa-ṭūri sīnīna wa-hādhā l-baladi l-amīn ~ YHWH mi-ssînay bāʾ we-zāraḥ mi-śśēʿîr lāmô hôfîaʿ mē-har pāʾrān: a triad of holy places with Sinai at its center. The Quran swears by them; Deuteronomy has God shine forth from them. cf. the medieval Muslim reading of both triads as Moses, Jesus and Muhammad (not a match)."
+      - with: hb-ps-68-rider-of-clouds
+        motif: god-comes-from-sinai-seir-paran
+        refs: ["95:2"]
+        with_refs: ["Ps 68:9"]
+        relation: echo
+        note: "wa-ṭūri sīnīn ~ zeh sînay mi-ppenê ʾĕlōhîm."
+      - with: hb-deut-8-wilderness-lesson
+        motif: seven-species-of-land
+        refs: ["95:1"]
+        with_refs: ["Deut 8:8"]
+        relation: echo
+        note: "wa-t-tīni wa-z-zaytūn ~ ... û-teʾēnāh we-rimmôn ʾereṣ zêt šemen: fig and olive, two of the land's species."
+      - with: hb-gen-18-abraham-bargains
+        motif: judge-of-all-earth-must-be-just
+        refs: ["95:7", "95:8"]
+        with_refs: ["Gen 18:25"]
+        relation: divergence
+        note: "a-laysa llāhu bi-aḥkami l-ḥākimīn ~ hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ: the same rhetorical question. Abraham asks it of God to restrain judgment; the Quran asks it of the denier to affirm judgment (fa-mā yukadhdhibuka baʿdu bi-d-dīn)."
+      - with: hb-ps-58-unjust-gods
+        motif: judge-of-all-earth-must-be-just
+        refs: ["95:8"]
+        with_refs: ["Ps 58:12"]
+        relation: echo
+        note: "a-laysa llāhu bi-aḥkami l-ḥākimīn ~ ʾak yēš ʾĕlōhîm šōfeṭîm bā-ʾāreṣ."
+      - with: hb-ps-76-salem
+        motif: judge-of-all-earth-must-be-just
+        refs: ["95:8"]
+        with_refs: ["Ps 76:9", "Ps 76:10"]
+        relation: echo
+        note: "aḥkamu l-ḥākimīn ~ mi-ššāmayim hišmaʿtā dîn ... be-qûm la-mmišpāṭ ʾĕlōhîm."
+      - with: hb-ps-8-what-is-man
+        motif: human-created-in-best-stature-then-lowest
+        refs: ["95:4", "95:5"]
+        with_refs: ["Ps 8:6"]
+        relation: divergence
+        note: "laqad khalaqnā l-insāna fī aḥsani taqwīmin thumma radadnāhu asfala sāfilīn ~ wa-tteḥasserēhû meʿaṭ mē-ʾĕlōhîm we-kāvôd we-hādār teʿaṭṭerēhû: the human set high by God; the Psalm stops at the crowning, the Quran adds the fall to 'the lowest of the low' except for believers."
+  - unit: quran-96-clot
+    checked: [hb-ezek-2-3-commission-eaten-scroll, hb-isa-40-comfort-my-people, hb-isa-29-ariel-and-sealed-book, hb-exod-4-signs-aaron-bridegroom-of-blood, hb-deut-18-levites-prophet, hb-job-34-elihu-defends-gods-justice, hb-deut-8-wilderness-lesson]
+    matches:
+      - with: hb-isa-40-comfort-my-people
+        motif: prophetic-call-narrative
+        refs: ["96:1", "96:3"]
+        with_refs: ["Isa 40:6"]
+        relation: echo
+        note: "iqraʾ bi-smi rabbika lladhī khalaq ~ qôl ʾōmēr qerāʾ we-ʾāmar māh ʾeqrāʾ: the same imperative of the same root (q-r-ʾ, 'call out / recite'), answered in Isaiah by 'what shall I call?'. cf. the hadith answer mā anā bi-qāriʾ (not in this unit)."
+      - with: hb-isa-29-ariel-and-sealed-book
+        motif: prophetic-call-narrative
+        refs: ["96:1"]
+        with_refs: ["Isa 29:11", "Isa 29:12"]
+        relation: echo
+        note: "iqraʾ ~ qerāʾ nāʾ zeh we-ʾāmar lōʾ yādaʿtî sēfer: the command 'read' given to one who cannot read. Within the Quranic text only iqraʾ; the illiterate recipient comes from hadith (cf., not a match). Leads only."
+      - with: hb-ezek-2-3-commission-eaten-scroll
+        motif: prophetic-call-narrative
+        refs: ["96:1", "96:4", "96:5"]
+        with_refs: ["Ezek 3:1"]
+        relation: echo
+        note: "iqraʾ ... alladhī ʿallama bi-l-qalam ~ ʾĕkôl ʾet ha-mmegillāh ha-zzōʾt we-lēk dabbēr: the commission begins with a written word given to the prophet (pen / scroll)."
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: god-taught-by-the-pen
+        refs: ["96:4", "96:5"]
+        with_refs: ["Exod 4:12"]
+        relation: echo
+        note: "ʿallama l-insāna mā lam yaʿlam ~ we-ʾānōkî ʾehyeh ʿim pîkā we-hôrêtîkā ʾăšer tedabbēr: God teaches the messenger what to say."
+      - with: hb-deut-8-wilderness-lesson
+        motif: slanderer-and-hoarder-condemned
+        refs: ["96:6", "96:7"]
+        with_refs: ["Deut 8:12", "Deut 8:13", "Deut 8:14"]
+        relation: parallel
+        note: "kallā inna l-insāna la-yaṭghā an raʾāhu staghnā ~ pen tōʾkal we-śāvāʿtā ... we-kesef we-zāhāv yirbeh lāk ... we-rām levāvekā we-šākaḥtā ʾet YHWH: self-sufficiency in wealth makes man arrogant and forgetful of God."
+  - unit: quran-97-night-of-decree
+    checked: [hb-dan-9-prayer-seventy-weeks, hb-ps-112-acrostic-righteous-man, hb-2sam-23-last-words-of-david, hb-ps-84-lovely-dwellings, hb-exod-12-passover-firstborn-exodus]
+    matches:
+      - with: hb-ps-84-lovely-dwellings
+        motif: one-day-in-courts-better-than-thousand
+        refs: ["97:3"]
+        with_refs: ["Ps 84:11"]
+        relation: echo
+        note: "laylatu l-qadri khayrun min alfi shahr ~ kî ṭôv yôm ba-ḥăṣērêkā mē-ʾālef: one sacred time 'better than a thousand'; a day in the Temple courts vs. the night of revelation, a thousand (days) vs a thousand months."
+      - with: hb-exod-12-passover-firstborn-exodus
+        motif: night-of-watching
+        refs: ["97:1", "97:5"]
+        with_refs: ["Exod 12:42"]
+        relation: echo
+        note: "innā anzalnāhu fī laylati l-qadr ... salāmun hiya ḥattā maṭlaʿi l-fajr ~ lêl šimmurîm hûʾ la-YHWH ... hûʾ ha-llaylāh ha-zzeh la-YHWH šimmurîm le-kol benê Yiśrāʾēl le-dōrōtām: one night set apart by God for his decisive act, kept in memory. cf. Shavuot night and the Rosh Hashanah decrees (not matches)."
+  - unit: quran-98-clear-proof
+    checked: [hb-neh-9-levites-confession, hb-ps-78-history, hb-exod-24-covenant-ratification, hb-deut-10-second-tablets, hb-mic-6-covenant-lawsuit]
+    matches:
+      - with: hb-deut-10-second-tablets
+        motif: pure-religion-of-hunafa
+        refs: ["98:5"]
+        with_refs: ["Deut 10:12"]
+        relation: parallel
+        note: "wa-mā umirū illā li-yaʿbudū llāha mukhliṣīna lahu d-dīn ... wa-yuqīmū ṣ-ṣalāta wa-yuʾtū z-zakāh ~ mah YHWH ʾĕlōhêkā šōʾēl mē-ʿimmāk kî ʾim leyirʾāh ... û-laʿăvōd ʾet YHWH ʾĕlōhêkā be-kol levāvekā: 'they were commanded nothing but' / 'what does God ask but' to serve God wholeheartedly."
+      - with: hb-mic-6-covenant-lawsuit
+        motif: do-justice-love-mercy-walk-humbly
+        refs: ["98:5"]
+        with_refs: ["Mic 6:8"]
+        relation: echo
+        note: "wa-mā umirū illā ... ~ û-māh YHWH dôrēš mimmekā kî ʾim ʿăśôt mišpāṭ we-ʾahăvat ḥesed we-haṣnēaʿ leket ʿim ʾĕlōhêkā: the 'only this is required' formula; Micah's summary is ethical, the Quran's is sincere worship, prayer and alms."
+      - with: hb-exod-24-covenant-ratification
+        motif: messenger-reciting-purified-scrolls
+        refs: ["98:2", "98:3"]
+        with_refs: ["Exod 24:7"]
+        relation: echo
+        note: "rasūlun mina llāhi yatlū ṣuḥufan muṭahharatan fīhā kutubun qayyima ~ wa-yyiqqaḥ sēfer ha-bberît wa-yyiqrāʾ be-ʾoznê hā-ʿām: a messenger reads God's written document to the people."
+  - unit: quran-99-earthquake
+    checked: [hb-isa-26-song-and-resurrection, hb-gen-4-cain-abel, hb-ezek-38-gog-invasion, hb-deut-8-wilderness-lesson, hb-deut-4-exhortation, hb-job-38-whirlwind-creation, hb-eccl-12-epilogue]
+    matches:
+      - with: hb-isa-26-song-and-resurrection
+        motif: earth-tells-its-news
+        refs: ["99:2", "99:4", "99:5"]
+        with_refs: ["Isa 26:21"]
+        relation: parallel
+        note: "wa-akhrajati l-arḍu athqālahā ... yawmaʾidhin tuḥaddithu akhbārahā bi-anna rabbaka awḥā lahā ~ we-gilletāh hā-ʾāreṣ ʾet dāmêhā we-lōʾ tekasseh ʿôd ʿal hărûgêhā: on the Day the earth reveals what it has hidden."
+      - with: hb-gen-4-cain-abel
+        motif: earth-tells-its-news
+        refs: ["99:4"]
+        with_refs: ["Gen 4:10", "Gen 4:11"]
+        relation: echo
+        note: "tuḥaddithu akhbārahā ~ qôl demê ʾāḥîkā ṣōʿăqîm ʾēlay min hā-ʾădāmāh ... hā-ʾădāmāh ʾăšer pāṣetāh ʾet pîhā: the earth as witness that speaks; in Genesis through the blood it swallowed, in the Quran by God's inspiration (awḥā lahā)."
+      - with: hb-deut-4-exhortation
+        motif: heaven-and-earth-as-witnesses
+        refs: ["99:4", "99:5"]
+        with_refs: ["Deut 4:26"]
+        relation: echo
+        note: "tuḥaddithu akhbārahā ~ hăʿîdōtî vākem ha-yyôm ʾet ha-ššāmayim we-ʾet hā-ʾāreṣ: earth as witness; summoned to the covenant in Deuteronomy, testifying at the Judgment in the Quran."
+      - with: hb-deut-8-wilderness-lesson
+        motif: heaven-and-earth-as-witnesses
+        refs: ["99:4"]
+        with_refs: ["Deut 8:19"]
+        relation: echo
+        note: "weak: tuḥaddithu akhbārahā ~ hăʿidōtî vākem ha-yyôm kî ʾāvōd tōʾvēdûn (no explicit earth here; Moses himself testifies)."
+      - with: hb-ezek-38-gog-invasion
+        motif: great-earthquake-all-creatures-quake
+        refs: ["99:1"]
+        with_refs: ["Ezek 38:19", "Ezek 38:20"]
+        relation: parallel
+        note: "idhā zulzilati l-arḍu zilzālahā ~ bayyôm ha-hûʾ yihyeh raʿaš gādôl ʿal ʾadmat Yiśrāʾēl ... we-rāʿăšû mi-ppānay ... kol hā-ʾādām: the great quaking of the earth at the end, with Ezekiel's figura etymologica matched by zulzilat ... zilzālahā."
+      - with: hb-job-38-whirlwind-creation
+        motif: earth-casts-out-its-contents
+        refs: ["99:1", "99:2"]
+        with_refs: ["Job 38:13"]
+        relation: echo
+        note: "wa-akhrajati l-arḍu athqālahā ~ leʾĕḥōz be-kanfôt hā-ʾāreṣ we-yinnāʿărû rešāʿîm mimmennāh: the earth shaken so that what is in it falls out."
+      - with: hb-eccl-12-epilogue
+        motif: atoms-weight-of-deeds-seen
+        refs: ["99:6", "99:7", "99:8"]
+        with_refs: ["Eccl 12:14"]
+        relation: parallel
+        note: "fa-man yaʿmal mithqāla dharratin khayran yarahu wa-man yaʿmal mithqāla dharratin sharran yarah ~ kî ʾet kol maʿăśeh hā-ʾĕlōhîm yāvīʾ ve-mišpāṭ ʿal kol neʿlām ʾim ṭôv we-ʾim rāʿ: every deed, even the hidden/smallest, good or evil, brought to judgment."
+  - unit: quran-100-chargers
+    checked: [hb-judg-5-song-of-deborah, hb-job-38-whirlwind-animals, hb-ps-44-national-lament, hb-joel-2-army-and-repentance, hb-isa-30-rahab-who-sits-still, hb-hab-2-watchtower-and-woes]
+    matches:
+      - with: hb-job-38-whirlwind-animals
+        motif: warhorse-laughs-at-fear
+        refs: ["100:1", "100:2", "100:3", "100:4", "100:5"]
+        with_refs: ["Job 39:19", "Job 39:21", "Job 39:24", "Job 39:25"]
+        relation: parallel
+        note: "wa-l-ʿādiyāti ḍabḥan fa-l-mūriyāti qadḥan fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan fa-wasaṭna bihi jamʿan ~ yaḥperû vā-ʿēmeq ... yēṣēʾ liqraʾt nāšeq ... be-raʿaš we-rōgez yegammeʾ ʾāreṣ ... û-mē-rāḥôq yārîaḥ milḥāmāh: the charging war-horse snorting, pawing and swallowing the ground, rushing into battle. Job uses it as wonder of creation, the Quran as an oath before an indictment of human ingratitude (100:6 inna l-insāna li-rabbihi la-kanūd)."
+      - with: hb-judg-5-song-of-deborah
+        motif: galloping-of-horses
+        refs: ["100:1", "100:2"]
+        with_refs: ["Judg 5:22"]
+        relation: echo
+        note: "fa-l-mūriyāti qadḥan (striking sparks) ~ ʾāz hālemû ʿiqqevê sûs mi-ddahărôt dahărôt ʾabbîrāyw: the hooves of galloping steeds."
+      - with: hb-joel-2-army-and-repentance
+        motif: galloping-of-horses
+        refs: ["100:3", "100:4"]
+        with_refs: ["Joel 2:4", "Joel 2:5"]
+        relation: echo
+        note: "fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan ~ ke-marʾēh sûsîm marʾēhû û-kefārāšîm kēn yerûṣûn ... ke-ʿam ʿāṣûm ʿărûk milḥāmāh."
+      - with: hb-ps-44-national-lament
+        motif: god-knows-secrets-of-heart
+        refs: ["100:10", "100:11"]
+        with_refs: ["Ps 44:22"]
+        relation: echo
+        note: "wa-ḥuṣṣila mā fī ṣ-ṣudūr, inna rabbahum bihim yawmaʾidhin la-khabīr ~ kî hûʾ yōdēaʿ taʿălumôt lēv."
+  - unit: quran-101-striking
+    checked: [hb-dan-5-writing-on-wall, hb-amos-8-summer-fruit, hb-job-6-job-answers-friends, hb-ps-144-trains-my-hands, hb-isa-40-comfort-my-people]
+    matches:
+      - with: hb-dan-5-writing-on-wall
+        motif: weighed-in-scales-found-wanting
+        refs: ["101:6", "101:8"]
+        with_refs: ["Dan 5:27"]
+        relation: parallel
+        note: "fa-ammā man thaqulat mawāzīnuhu ... wa-ammā man khaffat mawāzīnuhu fa-ummuhu hāwiya ~ teqēl teqîltāh ve-môʾzanyāʾ we-hištekaḥat ḥassîr. Cognate vocabulary: Aramaic teqal / Arabic thaqula 'weigh/be heavy', môʾzanyāʾ / mawāzīn 'scales'. One king weighed in history in Daniel; every person's deeds weighed at the Judgment in the Quran."
+      - with: hb-job-6-job-answers-friends
+        motif: deeds-weighed-in-scales
+        refs: ["101:6", "101:9"]
+        with_refs: ["Job 6:2"]
+        relation: echo
+        note: "thaqulat mawāzīnuhu ... fa-ummuhu hāwiya ~ lû šāqôl yiššāqēl kaʿśî we-hawwātî be-môʾzenayim yiśʾû yaḥad: weighing in scales; Job weighs his grief and his ruin (hawwātî), the Quran deeds and the abyss (hāwiya). The hawwāh / hāwiya resemblance is a lead for the philologists only."
+      - with: hb-isa-40-comfort-my-people
+        motif: like-grasshoppers
+        refs: ["101:4"]
+        with_refs: ["Isa 40:22"]
+        relation: echo
+        note: "yawma yakūnu n-nāsu ka-l-farāshi l-mabthūth ~ we-yōšvêhā ka-ḥăgāvîm: humanity likened to swarming insects (moths / grasshoppers) before God."
+  - unit: quran-102-104-rivalry-time-slanderer
+    checked: [hb-lev-19-holiness-code-a, hb-eccl-5-wealth-and-oppression, hb-hab-2-watchtower-and-woes, hb-prov-24-words-of-wise, hb-prov-21-sayings, hb-ps-49-no-ransom]
+    matches:
+      - with: hb-eccl-5-wealth-and-oppression
+        motif: riches-hoarded-to-owners-harm
+        refs: ["104:2", "104:3", "102:1", "102:2"]
+        with_refs: ["Eccl 5:12", "Eccl 5:13", "Eccl 5:14"]
+        relation: parallel
+        note: "alladhī jamaʿa mālan wa-ʿaddadahu yaḥsabu anna mālahu akhladah; alhākumu t-takāthuru ḥattā zurtumu l-maqābir ~ ʿōšer šāmûr li-vʿālāyw le-rāʿātô ... ka-ʾăšer yāṣāʾ mi-bbeṭen ʾimmô ʿārôm yāšûv ... û-meʾûmāh lōʾ yiśśāʾ baʿămālô: hoarded and counted wealth does not survive the grave. Qohelet draws resignation, the Quran a threat (la-yunbadhanna fī l-ḥuṭama)."
+      - with: hb-ps-49-no-ransom
+        motif: riches-hoarded-to-owners-harm
+        refs: ["104:3"]
+        with_refs: ["Ps 49:17", "Ps 49:18"]
+        relation: parallel
+        note: "yaḥsabu anna mālahu akhladah (he thinks his wealth has made him immortal) ~ kî lōʾ ve-môtô yiqqaḥ ha-kkōl lōʾ yērēd ʾaḥărāyw kevôdô."
+      - with: hb-hab-2-watchtower-and-woes
+        motif: slanderer-and-hoarder-condemned
+        refs: ["104:1", "104:2", "102:1"]
+        with_refs: ["Hab 2:5", "Hab 2:6"]
+        relation: parallel
+        note: "waylun li-kulli humazatin lumazatin alladhī jamaʿa mālan; alhākumu t-takāthur ~ hôy ha-mmarbeh llōʾ lô ... we-lōʾ yiśbāʿ wa-yyeʾĕsōf ʾēlāyw: a 'woe' on the insatiable piler-up of wealth (takāthur ~ marbeh, both 'increasing')."
+      - with: hb-lev-19-holiness-code-a
+        motif: talebearing-forbidden
+        refs: ["104:1"]
+        with_refs: ["Lev 19:16"]
+        relation: echo
+        note: "waylun li-kulli humazatin lumaza ~ lōʾ tēlēk rākîl be-ʿammêkā."
+  - unit: quran-105-elephant
+    checked: [hb-ps-35-contend-o-lord, hb-ps-1-two-ways, hb-josh-10-sun-stands-still, hb-ps-78-history, hb-deut-32-song-of-moses, hb-ps-68-rider-of-clouds, hb-2kgs-19-deliverance-of-jerusalem, hb-isa-37-deliverance]
+    matches:
+      - with: hb-2kgs-19-deliverance-of-jerusalem
+        motif: city-defended-for-davids-sake
+        refs: ["105:1", "105:2", "105:3"]
+        with_refs: ["2Kgs 19:34", "2Kgs 19:35"]
+        relation: divergence
+        note: "An invading army destroyed before God's sanctuary city, with the agent changed: 2 Kgs 19:34-35 we-gannôtî ʾel hā-ʿîr ha-zzōʾt ... le-maʿănî û-le-maʿan Dāwid ʿavdî; wa-yyēṣēʾ malʾak YHWH wa-yyak be-maḥănēh ʾaššûr (an angel at night). Q 105:1-3 a-lam tara kayfa faʿala rabbuka bi-aṣḥābi l-fīl ... wa-arsala ʿalayhim ṭayran abābīl: birds in flocks; the city and its House are not named, and David's sake has no counterpart. Leads only: the identification of the event (Abraha) is from tradition."
+      - with: hb-isa-37-deliverance
+        motif: angel-slays-army-overnight
+        refs: ["105:3", "105:5"]
+        with_refs: ["Isa 37:35", "Isa 37:36"]
+        relation: divergence
+        note: "wa-arsala ʿalayhim ṭayran abābīl ... fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ wa-yyēṣēʾ malʾak YHWH wa-yyakkeh be-maḥănēh ʾaššûr ... we-hinnēh kullām pegārîm mētîm: angel vs birds, corpses vs 'eaten straw'."
+      - with: hb-josh-10-sun-stands-still
+        motif: hailstones-from-heaven-kill-enemy
+        refs: ["105:4"]
+        with_refs: ["Josh 10:11"]
+        relation: parallel
+        note: "tarmīhim bi-ḥijāratin min sijjīl ~ wa-YHWH hišlîk ʿălêhem ʾăvānîm gedōlôt min ha-ššāmayim ... ba-ʾavnê ha-bbārād: stones cast on a fleeing army from above. Hail in Joshua, baked clay (sijjīl) carried by birds in the Quran."
+      - with: hb-ps-1-two-ways
+        motif: wicked-as-chaff
+        refs: ["105:5"]
+        with_refs: ["Ps 1:4"]
+        relation: echo
+        note: "fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ kî ʾim ka-mmōṣ ʾăšer tiddefennû rûaḥ."
+      - with: hb-ps-35-contend-o-lord
+        motif: wicked-as-chaff
+        refs: ["105:5"]
+        with_refs: ["Ps 35:5"]
+        relation: echo
+        note: "ka-ʿaṣfin maʾkūl ~ yihyû ke-mōṣ li-fnê rûaḥ û-malʾak YHWH dôḥeh: chaff, with an angel driving them in the Psalm."
+  - unit: quran-106-108-quraysh-kindness-kawthar
+    checked: [hb-isa-1-indictment-of-judah, hb-amos-5-lament-day-of-yhwh, hb-jer-33-branch-and-cosmic-covenant, hb-1kgs-18-carmel, hb-josh-24-shechem-covenant]
+    matches:
+      - with: hb-isa-1-indictment-of-judah
+        motif: prophetic-critique-of-sacrifice
+        refs: ["107:2", "107:3", "107:4", "107:5", "107:6", "107:7"]
+        with_refs: ["Isa 1:11", "Isa 1:15", "Isa 1:17"]
+        relation: parallel
+        note: "fa-waylun li-l-muṣallīna lladhīna hum ʿan ṣalātihim sāhūn, alladhīna hum yurāʾūna wa-yamnaʿūna l-māʿūn; yaduʿʿu l-yatīm ~ lāmmāh llî rōv zivḥêkem ... gam kî tarbû tefillāh ʾênennî šōmēaʿ ... šifṭû yātôm rîvû ʾalmānāh: worship (prayer) worthless when the orphan is pushed away. Isaiah targets sacrifice and prayer of the bloodstained, the Quran prayer that is heedless and for show."
+      - with: hb-amos-5-lament-day-of-yhwh
+        motif: prophetic-critique-of-sacrifice
+        refs: ["107:4", "107:5", "107:6", "107:7"]
+        with_refs: ["Amos 5:21", "Amos 5:22", "Amos 5:23", "Amos 5:24"]
+        relation: parallel
+        note: "fa-waylun li-l-muṣallīn ... wa-yamnaʿūna l-māʿūn ~ śānēʾtî māʾastî ḥaggêkem ... we-yiggal ka-mmayim mišpāṭ û-ṣedāqāh ke-naḥal ʾêtān: cult rejected for lack of justice and kindness."
+      - with: hb-josh-24-shechem-covenant
+        motif: quraysh-winter-and-summer-caravans
+        refs: ["106:3", "106:4"]
+        with_refs: ["Josh 24:13", "Josh 24:14"]
+        relation: echo
+        note: "fa-l-yaʿbudū rabba hādhā l-bayti lladhī aṭʿamahum min jūʿin wa-āmanahum min khawf ~ wā-ʾettēn lākem ʾereṣ ... kerāmîm we-zêtîm ʾăšer lōʾ neṭaʿtem ʾattem ʾōkelîm; we-ʿattāh yerʾû ʾet YHWH we-ʿivdû ʾōtô: God's gift of food and settled life is the ground for the call to serve him."
+  - unit: quran-109-111-disbelievers-help-flame
+    checked: [hb-prov-11-sayings, hb-1sam-25-nabal-abigail, hb-job-1-prologue-first-test, hb-zech-13-fountain-and-shepherd, hb-ezek-3-watchman-and-muteness, hb-josh-24-shechem-covenant, hb-ruth-1-naomi-ruth-return, hb-isa-2-mountain-and-day-of-yhwh]
+    matches:
+      - with: hb-josh-24-shechem-covenant
+        motif: disavowal-of-other-worship-formula
+        refs: ["109:2", "109:3", "109:6"]
+        with_refs: ["Josh 24:15"]
+        relation: parallel
+        note: "lā aʿbudu mā taʿbudūna ... lakum dīnukum wa-liya dīn ~ baḥărû lākem ha-yyôm ʾet mî taʿăvōdûn ... we-ʾānōkî û-vêtî naʿăvōd ʾet YHWH: the speaker declares his own worship and leaves the others theirs, with the same verb (ʿabada / ʿāvad)."
+      - with: hb-ruth-1-naomi-ruth-return
+        motif: loyal-daughter-in-law-oath
+        refs: ["109:6"]
+        with_refs: ["Ruth 1:16"]
+        relation: contrast
+        note: "Opposite formulas of religious belonging: lakum dīnukum wa-liya dīn (your religion is yours and mine is mine) ~ ʿammēk ʿammî wē-ʾlōhayik ʾĕlōhāy (your people my people, your God my God). Separation against adoption."
+      - with: hb-1sam-25-nabal-abigail
+        motif: name-is-destiny
+        refs: ["111:1", "111:3"]
+        with_refs: ["1Sam 25:25"]
+        relation: parallel
+        note: "tabbat yadā abī lahabin ... sa-yaṣlā nāran dhāta lahab ~ kî ki-šmô ken hûʾ nāvāl šemô û-nevālāh ʿimmô: the enemy's name foretells his end (Father of Flame burns in flame; Fool and folly)."
+      - with: hb-prov-11-sayings
+        motif: wealth-useless-on-day-of-wrath
+        refs: ["111:2"]
+        with_refs: ["Prov 11:4"]
+        relation: parallel
+        note: "mā aghnā ʿanhu māluhu wa-mā kasab ~ lōʾ yôʿîl hôn be-yôm ʿevrāh."
+      - with: hb-isa-2-mountain-and-day-of-yhwh
+        motif: people-enter-religion-in-crowds
+        refs: ["110:1", "110:2"]
+        with_refs: ["Isa 2:2", "Isa 2:3"]
+        relation: echo
+        note: "idhā jāʾa naṣru llāhi wa-l-fatḥu wa-raʾayta n-nāsa yadkhulūna fī dīni llāhi afwājan ~ we-nāharû ʾēlāyw kol ha-ggôyim we-hālekû ʿammîm rabbîm ... wi-yōrēnû mi-ddrākāyw: peoples streaming in to God's way. Isaiah's is eschatological and centered on Zion, the Quran's is the Prophet's own lifetime."
+  - unit: quran-112-114-unity-and-refuge
+    checked: [hb-ps-91-shelter-of-most-high, hb-ezek-13-false-prophets-and-prophetesses, hb-deut-6-shema, hb-zech-14-day-on-mount-of-olives, hb-ps-121-keeper-of-israel, hb-nah-1-avenging-god, hb-ps-2-anointed-son, hb-isa-40-comfort-my-people]
+    matches:
+      - with: hb-deut-6-shema
+        motif: shema-god-is-one
+        refs: ["112:1"]
+        with_refs: ["Deut 6:4"]
+        relation: parallel
+        note: "qul huwa llāhu aḥad ~ šemaʿ Yiśrāʾēl YHWH ʾĕlōhênû YHWH ʾeḥād: the oneness confession with the cognate numeral aḥad / ʾeḥād. Divergence of address: Israel is called to hear about 'our God'; the Prophet is told 'Say' to all, and no people is named."
+      - with: hb-zech-14-day-on-mount-of-olives
+        motif: shema-god-is-one
+        refs: ["112:1"]
+        with_refs: ["Zech 14:9"]
+        relation: echo
+        note: "huwa llāhu aḥad ~ bayyôm ha-hûʾ yihyeh YHWH ʾeḥād û-šemô ʾeḥād."
+      - with: hb-ps-2-anointed-son
+        motif: god-neither-begets-nor-begotten
+        refs: ["112:3"]
+        with_refs: ["Ps 2:7"]
+        relation: contrast
+        note: "lam yalid wa-lam yūlad ~ beni ʾattāh ʾănî ha-yyôm yelidtîkā: the same root (w-l-d / y-l-d) affirmed of God toward the king in the Psalm, denied of God absolutely in the Quran. The Quran's target is usually read as Christian sonship (Nicene 'begotten'); the link to Ps 2:7 is a lead, not an explicit answer."
+      - with: hb-isa-40-comfort-my-people
+        motif: to-whom-will-you-liken-god
+        refs: ["112:4"]
+        with_refs: ["Isa 40:18", "Isa 40:25"]
+        relation: parallel
+        note: "wa-lam yakun lahu kufuwan aḥad ~ we-ʾel mî tedammeyûn ʾēl ... we-ʾel mî tedammeyûnî we-ʾešweh: nothing equal to God (kufuʾ ~ ʾešweh)."
+      - with: hb-ps-91-shelter-of-most-high
+        motif: night-terror-and-noonday-demon
+        refs: ["113:1", "113:3"]
+        with_refs: ["Ps 91:5", "Ps 91:6"]
+        relation: parallel
+        note: "qul aʿūdhu bi-rabbi l-falaq ... wa-min sharri ghāsiqin idhā waqab ~ lōʾ tîrāʾ mi-ppaḥad lāylāh ... mi-ddever bā-ʾōfel yahălōk mi-qqeṭev yāšûd ṣohŏrāyim: refuge in God from the evils of the dark; both later used apotropaically."
+      - with: hb-ps-121-keeper-of-israel
+        motif: refuge-formula-a-udhu
+        refs: ["113:1", "113:2", "114:1"]
+        with_refs: ["Ps 121:7"]
+        relation: echo
+        note: "aʿūdhu bi-rabbi l-falaq min sharri mā khalaq ~ YHWH yišmorkā mi-kkol rāʿ yišmōr ʾet nafšekā: God guards from every evil. The Quran puts it in the first person as a formula to be said (qul aʿūdhu)."
+      - with: hb-ezek-13-false-prophets-and-prophetesses
+        motif: women-blowing-on-knots
+        refs: ["113:4"]
+        with_refs: ["Ezek 13:18", "Ezek 13:20"]
+        relation: echo
+        note: "wa-min sharri n-naffāthāti fī l-ʿuqad ~ hôy li-mtapperôt kesātôt ʿal kol ʾaṣṣîlê yāday ... leṣôdēd nefāšôt: women's binding magic (knots / sewn bands) that traps souls. The Quran seeks refuge, Ezekiel denounces; both feminine plurals."
