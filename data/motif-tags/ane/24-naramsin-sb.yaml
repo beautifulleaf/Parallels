@@ -30,6 +30,10 @@ new_motifs:
   god-disguised-so-envoy-cannot-find-him: {label: "A wise god disguises the wanted god (bald, squinting, lame) so that the searching envoy passes him over in the divine assembly", cluster: underworld}
   god-becomes-consort-of-underworld-queen-forever: {label: "The high god decrees that the god shall dwell with the underworld queen forever as her husband", cluster: underworld}
   ea-gives-throne-to-take-down: {label: "The wise god gives the descending god a chair (throne) to carry as a gift for the underworld queen", cluster: underworld}
+  greetings-to-each-great-god: {label: "A messenger carries greetings of well-being (šulmu) to each of the great gods in turn by name", cluster: underworld}
+  dead-clothed-like-birds-eat-dust: {label: "In the underworld the dead are clothed like birds in garments of feathers, and dust and clay are their food", cluster: underworld}
+  underworld-queen-orders-offender-brought-to-die: {label: "The underworld queen orders the god who slighted her envoy brought before her (to die)", cluster: underworld}
+  water-and-household-purified-after-sex: {label: "After the union the house and attendants are sprinkled with water to purify them", cluster: underworld}
 units:
   - id: ane-naramsin-sb-1-prologue-enmerkar
     tradition: ane-akkadian
@@ -186,3 +190,76 @@ units:
       - {motif: greetings-to-each-great-god, refs: ["NergEresh SB –:a+34-a+45"], note: "lū šulmu ana āni ellil u ea ... nammu u našše ... mut bēlet šamāmī ... ninurta"}
     hints:
       - "Compare the ladder (sullam) between heaven and earth with messengers going up and down, Gen 28:12; and Q 70:3-4 (ma'arij)."
+  - id: ane-nergeresh-sb-2-ea-instructs-nergal
+    tradition: ane-akkadian
+    title: "Nergal does not kneel to Namtar; Ea has him build a chair and warns him (Nergal and Ereškigal, SB)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Sultantepe/Uruk)
+    read: ["NergEresh SB –:b+1-b+50"]
+    tags:
+      - {motif: god-fails-to-rise-before-underworld-envoy, refs: ["NergEresh SB –:b+4-b+11"], note: "[ilū ina pānī]šu ištēniš k[amsū] ... [in]a pānīšu ammīni lā tak[ammis]: Ea rebukes Nergal; lines b+12-17 broken"}
+      - {motif: ea-gives-throne-to-take-down, refs: ["NergEresh SB –:b+19-b+36"], note: "Nergal cuts mēsu, tiālu and supālu wood in the forest; Ea ninšīku builds a chair inlaid with gaṣṣu for silver, zagindurû for lapis, kalû and kalgukku for gold"}
+      - {motif: god-warned-not-to-sit-eat-drink-wash-or-desire-in-underworld, refs: ["NergEresh SB –:b+38-b+49"], note: "kussâ našûnikka ē tušib; akla ... ē tākul; šīra ... ē tākul; šikara ... ē tašti; mesīt šēpī ... ē tamsi; šī ana narmaki irrub-ma ... ša zikar u sinniš ē taṣbat ina libbīka"}
+      - {motif: prophet-forbidden-food-and-return-route, refs: ["NergEresh SB –:b+42-b+44"], note: "taboo on eating and drinking in the other world"}
+    hints:
+      - "Compare 1 Kgs 13:8-9, 16-22 (the man of God forbidden to eat bread or drink water there), and the Persephone / pomegranate motif; also Gen 3:3 (eating as the binding act)."
+      - "Compare the warnings against the strange woman whose house leads down to Sheol, Prov 5:3-8; 7:10-27; 9:13-18."
+  - id: ane-nergeresh-sb-3-descent-and-abstinence
+    tradition: ane-akkadian
+    title: "Nergal goes down, passes the seven gates and refuses all she offers (Nergal and Ereškigal, SB)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Sultantepe/Uruk)
+    read: ["NergEresh SB –:c+1-c+65"]
+    tags:
+      - {motif: underworld-land-of-no-return, refs: ["NergEresh SB –:c+1-c+3"], note: "restored after Ištar's Descent: [ana bīti ša ēribūšu lā aṣû, ana harrāni ša alaktaš]a lā tayyārat"}
+      - {motif: land-of-darkness-and-chaos, refs: ["NergEresh SB –:c+4-c+7"], note: "[z]ummû nūra ... [epru bubūss]ina aka[lš]ina ṭiṭṭu ... ṣubāt akappi ... ina eṭûti ašbā (partly restored)"}
+      - {motif: dead-clothed-like-birds-eat-dust, refs: ["NergEresh SB –:c+5-c+7"], note: "[labšā-ma kīma iṣṣ]ūrī ṣubā[t] akappi; akalšina ṭiṭṭu"}
+      - {motif: god-fails-to-rise-before-underworld-envoy, refs: ["NergEresh SB –:c+22-c+31"], note: "Namtar sees Erra at the door and goes pale (iʾʾirqū pānūš); ili ina pānīya itbû ..."}
+      - {motif: underworld-queen-orders-offender-brought-to-die, refs: ["NergEresh SB –:c+32-c+39"], note: "Ereškigal: elī-ma tišab ina kussî ... anāku ana šamê ša āni abīya lūlī-ma akal āni ... lūkul; šūrib ana mahrīya"}
+      - {motif: seven-gates-of-underworld, refs: ["NergEresh SB –:c+40-c+47"], note: "gates named: bidu, enkišar, endašurimma, enuruʾulla, enurubanda, endukuga, ennugigi"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["NergEresh SB –:c+48-c+50"]}
+      - {motif: god-warned-not-to-sit-eat-drink-wash-or-desire-in-underworld, refs: ["NergEresh SB –:c+55-c+64"], note: "he complies: ul ušib ... akalšu ul īkul ... šikaršu ul išti ... šēpīšu ul imsi ... ul iṣbat ina libbīšu"}
+    hints:
+      - "Compare Job 10:21-22 (land of darkness from which one does not return); Isa 14:9-11 (worms your covering in Sheol)."
+  - id: ane-nergeresh-sb-4-love-flight-and-search
+    tradition: ane-akkadian
+    title: "Six days of love, Nergal's flight, Ereškigal's lament and threat, the search in heaven (Nergal and Ereškigal, SB)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Sultantepe/Uruk)
+    read: ["NergEresh SB –:d+1-d+115"]
+    tags:
+      - {motif: god-warned-not-to-sit-eat-drink-wash-or-desire-in-underworld, refs: ["NergEresh SB –:d+5-d+8"], note: "she bathes and dresses, and this time šū ša zikar u sinniš [iṣbat ina libbīšu] (restored)"}
+      - {motif: lovers-in-bed-six-days-then-god-slips-away, refs: ["NergEresh SB –:d+9-d+20"], note: "innadrū-ma ahhū kilallān ana mayyāli šitmuriš īterbū; ištēn ūma ... ṣallū šarratu ereškigal u erra (to the seventh day, restored); nergal ... mušširīnnī-ma ahātī ... lullik"}
+      - {motif: dream-ladder-to-heaven, refs: ["NergEresh SB –:d+26", "NergEresh SB –:d+73", "NergEresh SB –:d+102"], note: "īlâ nergal / namtar arkāt simmilat šamāmī"}
+      - {motif: god-disguised-so-envoy-cannot-find-him, refs: ["NergEresh SB –:d+31", "NergEresh SB –:d+95-d+101", "NergEresh SB –:d+110-d+112"], note: "ea abūšu mê kuppi isluhšū-ma qubbuh ṣuddur pussul ... ašib puhur kal ilī: Ea sprinkles spring water on him and he is bald, squinting, lame"}
+      - {motif: jilted-goddess-weeps-for-departed-lover, refs: ["NergEresh SB –:d+48-d+56", "NergEresh SB –:d+62-d+66"], note: "ultu muhhi kussî ana qaqqari imtaqta ... erra hāʾir lalêya ul ašbâ lalâšu ittalkanni; ultu ṣehrākū-ma mārāku ul īdi mēlula ša ardāti ul īdi dakāka ša ṣehrāti"}
+      - {motif: defiled-goddess-cannot-render-judgment, refs: ["NergEresh SB –:d+67-d+68", "NergEresh SB –:d+83-d+84"], note: "musukkākū-ma ul ebbēk ul adân dīnī ša ilī rabûti"}
+      - {motif: goddess-threatens-to-raise-dead-to-eat-living, refs: ["NergEresh SB –:d+69-d+72", "NergEresh SB –:d+85-d+88"], note: "ušellī-ma mītūti ikkalū balṭūti, el balṭūti ušamʾad mītūti"}
+      - {motif: message-repeated-verbatim, refs: ["NergEresh SB –:d+73-d+88"]}
+      - {motif: water-and-household-purified-after-sex, refs: ["NergEresh SB –:d+39-d+42"], note: "fragmentary: mê ... suluh bīta ... šitta mārāt lamaštu u enmešar ... suluhšunūti: sprinkling the house with water"}
+    hints:
+      - "Compare the lover who has slipped away and is sought, Song 3:1-4; 5:6."
+      - "The dead rising to outnumber the living: compare Isa 26:19 and Ezek 37 only as contrast."
+  - id: ane-nergeresh-sb-5-return-and-union
+    tradition: ane-akkadian
+    title: "Nergal storms back down, seizes Ereškigal; Anu grants him to dwell with her forever (Nergal and Ereškigal, SB)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Sultantepe/Uruk)
+    read: ["NergEresh SB –:e+1-e+51", "NergEresh SB –:f+1"]
+    tags:
+      - {motif: underworld-queen-offers-marriage-and-kingship, refs: ["NergEresh SB –:e+6"], note: "Namtar: parṣī ša qaqqari rapši ... qātukka lumalli (partly restored)"}
+      - {motif: seven-gates-of-underworld, refs: ["NergEresh SB –:e+20-e+28"], note: "at each gate Nergal 'does not give' (ul iddin) the gatekeeper ...; probably he strikes them down"}
+      - {motif: dream-ladder-to-heaven, refs: ["NergEresh SB –:e+19"]}
+      - {motif: god-seizes-underworld-queen-by-hair, refs: ["NergEresh SB –:e+29-e+33"], note: "iʾīršī-ma iṣīh iṣbassī-ma ina uprîša ultu muhhi kussî: here he laughs and seizes her by her headdress, as a lover"}
+      - {motif: lovers-in-bed-six-days-then-god-slips-away, refs: ["NergEresh SB –:e+34-e+41"], note: "second union, seven days counted: ṣallū šarratu ereškigal u erra"}
+      - {motif: god-becomes-consort-of-underworld-queen-forever, refs: ["NergEresh SB –:e+43-e+49"], note: "restored: [ilu šâš]u ša ašpurakki [lišib ittīki ana ū]mī dārûti; f+1 broken"}
+    hints:
+      - "Compare Death as king and consort of the underworld in Job 18:13-14 ('king of terrors')."

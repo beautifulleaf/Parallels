@@ -128,6 +128,26 @@ new_motifs:
   speaker-tramples-his-foe: {label: "The speaker tramples his foe, slaughters his opponent and annihilates his pursuer in the god's presence", cluster: magic}
   begone-from-my-body-litany: {label: "Exorcistic litany: be off, begone, depart, flee from my body; do not turn back, approach or draw near to my body", cluster: magic}
   adjured-by-life-of-gods: {label: "The evil powers are adjured 'by the life (nīš)' of named gods (Šamaš, Ea, Asalluḫi, Girra) to separate from the speaker", cluster: magic}
+  body-parts-identified-with-gods: {label: "The speaker identifies each part of his body with a deity or divine emblem (Enlil is my head, Uraš my eyes, Gula's necklace my neck, the crook of Sîn my arms, tamarisk my fingers)", cluster: magic}
+  guardian-gods-posted-at-door: {label: "Protective gods (Lugalirra, Meslamtaʾea, Papsukkal) are stationed at the doorway, right and left of the gate, to strike and kill the witch", cluster: magic}
+  enemy-words-crumble-before-god-and-king: {label: "May the enemy's words be like (bad) apples that crumble before god and king", cluster: magic}
+  witch-carries-victims-life-to-netherworld: {label: "The witch carries the victim's life off to the infernal 'princes' (malkū) of the netherworld", cluster: magic}
+  kukru-plants-of-pure-mountains: {label: "The aromatic kukru, 'inhabitants of the pure holy mountains', and small vessels of the en-priestesses and cones of the qadištu are summoned to break the witch's bond", cluster: magic}
+  witchcraft-crumbles-like-plaster: {label: "May the witch's sorcery blacken her like ashes and crumble like plaster from a wall; may the knot of her heart be loosened", cluster: magic}
+  smoke-rising-from-witchs-house: {label: "The speaker taunts the witch: why is smoke rising from your house?", cluster: magic}
+  historiola-before-the-tamarisk-was-cut: {label: "Mythic preface: before Ningirsu called the work song in the land, before the youth went up to cut the tamarisk, his mother and brothers advising him", cluster: magic}
+  witch-gathers-hailstones: {label: "The witch gathers (hail)stones and storm clouds against the victim; he scatters them like the north-west wind", cluster: magic}
+  witch-takes-shadow-from-wall: {label: "The witch 'took my shadow from the wall' and collected the dust of my feet", cluster: magic}
+  south-wind-carries-off-witchcraft: {label: "May the south wind carry off what (sorcery) is on the witch's right and on her left", cluster: magic}
+  speaker-identifies-with-sulphur: {label: "The speaker declares himself pure Sulphur, daughter of heaven, created by Anu and brought down to earth by Enlil and Ninlil, against whom no witchcraft can be performed", cluster: magic}
+  head-to-heaven-feet-to-netherworld: {label: "The speaker's body spans the cosmos: as far as his head, heaven; as far as his feet, the netherworld — where could the witch touch him?", cluster: magic}
+  incantation-cast-on-inner-hem: {label: "The incantation of Marduk, sage of the gods, is cast upon the speaker's inner hem", cluster: magic}
+  sulphur-cannot-be-bewitched: {label: "Sulphur, daughter of River, whose witches and enemies are seven and seven, was bewitched yet not bewitched: who can work witchcraft against Sulphur?", cluster: magic}
+  river-is-the-door-of-my-gate: {label: "The speaker tells River that he has eaten, drunk, anointed and clothed himself, and that River is the door of his gate", cluster: magic}
+  witch-known-to-speaker: {label: "The speaker tells the witch: whoever you are, I am watching, I know your form", cluster: magic}
+  salt-food-of-the-gods: {label: "Salt, created in a pure place and destined by Enlil as food of the great gods, without which no meal is set out and no incense smelled, is asked to release the bewitched", cluster: magic}
+  bed-guarded-against-witch: {label: "The speaker guards himself: a watch on his roof, a protective emblem at his gate, coloured twine around his bed, asafoetida or twelve figurines at the head of his bed", cluster: magic}
+  pure-mountain-piled-in-courtyard: {label: "The speaker heaps up a 'pure mountain' (of earth) in his courtyard against the witch", cluster: magic}
 units:
   # ================= Maqlû Tablet I =================
   - id: ane-maqlu-sb-i-gods-of-night
@@ -1006,3 +1026,271 @@ units:
     hints:
       - "Compare Mark 5:7-8 and Acts 19:13 (I adjure you by God / by Jesus) and Matt 4:10 ('Begone, Satan') for the exorcistic adjuration."
       - "Compare Ps 6:9 and Ps 119:115 ('Depart from me, all you evildoers')."
+  # ================= Maqlû Tablet VI =================
+  - id: ane-maqlu-sb-vi-enlil-is-my-head
+    tradition: ane-akkadian
+    title: "Maqlû VI 1-15: 'Enlil is my head, my face is Ūmu' — gods at the doorway"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:1-15"]
+    tags:
+      - {motif: body-parts-identified-with-gods, refs: ["Maqlu SB VI:1-8"], note: "ubānātūʾa bīnu eṣemti ilūti: my fingers are tamarisk, bone of divinity; my feet the whole heavenly flock"}
+      - {motif: tamarisk-wood-is-the-body-of-the-gods, refs: ["Maqlu SB VI:5"]}
+      - {motif: i-do-not-know-your-name-or-city, refs: ["Maqlu SB VI:9"], note: "attamannu ilu lemnu: whoever you are, evil god sent by the witch to kill me"}
+      - {motif: enemy-words-crumble-before-god-and-king, refs: ["Maqlu SB VI:12"]}
+      - {motif: guardian-gods-posted-at-door, refs: ["Maqlu SB VI:13-15"]}
+      - {motif: witch-brought-to-her-judge-who-roars, refs: ["Maqlu SB VI:14-15"], note: "restored: mahṣā [lēta] ... t[errā amāssa a]na pîša"}
+    hints:
+      - "Compare Eph 6:13-17 (the armour of God part by part) and Isa 59:17 (righteousness as breastplate, salvation as helmet) for VI:1-8."
+      - "Compare Exod 12:23 (the destroyer not allowed to enter the door) and Ps 121:5-8 (YHWH your keeper at your right hand) for VI:13."
+  - id: ane-maqlu-sb-vi-qumqummatu-kukru
+    tradition: ane-akkadian
+    title: "Maqlû VI 16-23: 'My sorceress is a qumqummatu' — why do you carry my life to the princes?"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:16-23"]
+    tags:
+      - {motif: witch-titles-include-cult-women, refs: ["Maqlu SB VI:16-19"], note: "ummi ēpištīya naršindatu: her mother too is a naršindatu"}
+      - {motif: witch-carries-victims-life-to-netherworld, refs: ["Maqlu SB VI:20"], note: "ammēni tubbalī napištī ana malkī"}
+      - {motif: aromatic-plants-sent-against-witch, refs: ["Maqlu SB VI:21-22"], note: "tullal and kukru"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB VI:23"], note: "restored"}
+    hints:
+      - "Compare Isa 57:3 (sons of a sorceress) for the witch's mother; Isa 57:9 (you sent your envoys far off and sent down to Sheol, possibly to the mlk)."
+  - id: ane-maqlu-sb-vi-kukru-1
+    tradition: ane-akkadian
+    title: "Maqlû VI 24-33: 'Kukru, kukru, inhabitants of the pure, holy mountains'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:24-33"]
+    tags:
+      - {motif: kukru-plants-of-pure-mountains, refs: ["Maqlu SB VI:24-28"], note: "partly restored; cones of the qašdāti"}
+      - {motif: qedeshah-term, refs: ["Maqlu SB VI:27"], note: "[ter]innātu ša qašdāti"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB VI:29"]}
+      - {motif: wicked-as-chaff, refs: ["Maqlu SB VI:30"]}
+      - {motif: witchcraft-crumbles-like-plaster, refs: ["Maqlu SB VI:31-33"], note: "kiṣir libbīša lippaṭir"}
+    hints:
+      - "Compare Ezek 13:10-15 (the whitewashed wall that falls) for VI:32."
+  - id: ane-maqlu-sb-vi-kukru-2
+    tradition: ane-akkadian
+    title: "Maqlû VI 34-39: 'Kukru, kukru' (second version)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:34-39"]
+    tags:
+      - {motif: kukru-plants-of-pure-mountains, refs: ["Maqlu SB VI:34-38"]}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB VI:38"]}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB VI:39"]}
+  - id: ane-maqlu-sb-vi-smoke-from-your-house
+    tradition: ane-akkadian
+    title: "Maqlû VI 40-44: 'Ha, my witch, my deceiver' — why is smoke rising from your house?"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:40-44"]
+    tags:
+      - {motif: smoke-rising-from-witchs-house, refs: ["Maqlu SB VI:41-42"]}
+      - {motif: aromatic-plants-sent-against-witch, refs: ["Maqlu SB VI:43-44"], note: "[šammi] pišerti, restored"}
+      - {motif: witchs-word-turned-back-into-her-mouth, refs: ["Maqlu SB VI:44"], note: "partly restored"}
+  - id: ane-maqlu-sb-vi-before-ningirsu
+    tradition: ane-akkadian
+    title: "Maqlû VI 45-51: 'Before Ningirsu called out the alāla in the land' — scattering the hailstorm"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:45-51"]
+    tags:
+      - {motif: historiola-before-the-tamarisk-was-cut, refs: ["Maqlu SB VI:45-46b"]}
+      - {motif: not-yet-list-describes-primeval-state, refs: ["Maqlu SB VI:45-46"], note: "lām ... lām: 'before ...' opening"}
+      - {motif: witch-gathers-hailstones, refs: ["Maqlu SB VI:47-48"]}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["Maqlu SB VI:47"]}
+      - {motif: witch-cloud-scattered-by-north-wind, refs: ["Maqlu SB VI:49-50"]}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB VI:51"]}
+    hints:
+      - "Compare Prov 8:24-26 ('before the mountains were settled') and Gen 2:5 for the 'before' opening."
+  - id: ane-maqlu-sb-vi-day-the-witch-bewitched-me
+    tradition: ane-akkadian
+    title: "Maqlû VI 52-64: 'On the day that the witch bewitched me' — she took my shadow from the wall; the kukru twigs"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:52-64"]
+    tags:
+      - {motif: witch-takes-shadow-from-wall, refs: ["Maqlu SB VI:55"], note: "[lēqīt]u ilqû ṣillī ina igāri"}
+      - {motif: witch-takes-spittle-hair-hem-footprint, refs: ["Maqlu SB VI:54"]}
+      - {motif: adversary-catalogue-male-and-female, refs: ["Maqlu SB VI:53"], note: "[rahhāt]u urehhânni: the inseminatrix impregnated me"}
+      - {motif: witch-brought-to-her-judge-who-roars, refs: ["Maqlu SB VI:56-58"], note: "Tišpak, Ea, Asalluḫi strike her cheek"}
+      - {motif: witch-mouth-tallow-tongue-salt, refs: ["Maqlu SB VI:60"], note: "pûša lū lipû šaptāša lū lubārū naksūti"}
+      - {motif: impossibility-analogy-chaff-cannot-be-twined, refs: ["Maqlu SB VI:61-64"], note: "as the tips of a cut kukru twig cannot draw near each other"}
+    hints:
+      - "Compare 2Kgs 20:9-11 and Isa 38:8 (the shadow on the dial) only loosely; Acts 5:15 (Peter's shadow) for the shadow as part of the person."
+  - id: ane-maqlu-sb-vi-south-wind-right-and-left
+    tradition: ane-akkadian
+    title: "Maqlû VI 65-68: 'You who have performed all kinds of sorcery' — the south wind carries it off"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:65-68"]
+    tags:
+      - {motif: aromatic-plants-sent-against-witch, refs: ["Maqlu SB VI:67"]}
+      - {motif: south-wind-carries-off-witchcraft, refs: ["Maqlu SB VI:68"]}
+  - id: ane-maqlu-sb-vi-pure-sulphur-am-i
+    tradition: ane-akkadian
+    title: "Maqlû VI 69-77: 'Pure Sulphur, daughter of the great heavens am I'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:69-77"]
+    tags:
+      - {motif: speaker-identifies-with-sulphur, refs: ["Maqlu SB VI:69-71"]}
+      - {motif: head-to-heaven-feet-to-netherworld, refs: ["Maqlu SB VI:72-75"]}
+      - {motif: incantation-cast-on-inner-hem, refs: ["Maqlu SB VI:76-77"]}
+    hints:
+      - "Compare Gen 28:12 (a ladder set on earth whose top reached heaven) and Dan 4:8 (a tree reaching to heaven) for the cosmic body."
+  - id: ane-maqlu-sb-vi-sulphur-daughter-of-river
+    tradition: ane-akkadian
+    title: "Maqlû VI 78-84: 'Sulphur, Sulphur, daughter of River' — the seven and seven"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:78-84"]
+    tags:
+      - {motif: sulphur-cannot-be-bewitched, refs: ["Maqlu SB VI:78-82"]}
+      - {motif: seven-and-seven-witches, refs: ["Maqlu SB VI:79", "Maqlu SB VI:83-84"]}
+      - {motif: may-she-die-but-i-live, refs: ["Maqlu SB VI:84"], note: "lipšur-ma anāku lubluṭ"}
+  - id: ane-maqlu-sb-vi-sulphur-and-atisu
+    tradition: ane-akkadian
+    title: "Maqlû VI 85-97: 'Pure Sulphur and atāʾišu, the holy plant, am I' — rising like fish; 'Ha, you of the Baliḫ'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:85-97"]
+    tags:
+      - {motif: speaker-identifies-with-sulphur, refs: ["Maqlu SB VI:85"]}
+      - {motif: seven-spirits-of-wisdom, refs: ["Maqlu SB VI:86"], note: "apkallū ša apsî as the speaker's (supposed) sorcerers; cf. III:62"}
+      - {motif: daughters-of-anu-descend-by-rope, refs: ["Maqlu SB VI:87"]}
+      - {motif: sorcery-returned-on-the-sorcerer, refs: ["Maqlu SB VI:88-89"]}
+      - {motif: rise-like-fish-from-water, refs: ["Maqlu SB VI:90-94"]}
+      - {motif: witch-defiles-heaven-and-binds-gods, refs: ["Maqlu SB VI:95-97"], note: "'you of the Baliḫ' who shook out your hair at me are told to hide in the ground (interpretive grouping)"}
+  - id: ane-maqlu-sb-vi-river-is-my-head
+    tradition: ane-akkadian
+    title: "Maqlû VI 98-105: 'River is my head, Sulphur my physique'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:98-105"]
+    tags:
+      - {motif: body-parts-identified-with-gods, refs: ["Maqlu SB VI:98-100"], note: "my feet are the river whose interior no one knows; Ocean my hands"}
+      - {motif: speaker-identifies-with-river-and-sun, refs: ["Maqlu SB VI:98", "Maqlu SB VI:101"]}
+      - {motif: speaker-identifies-with-sulphur, refs: ["Maqlu SB VI:98", "Maqlu SB VI:101", "Maqlu SB VI:103"], note: "fire of sulphur that purifies the heavens"}
+      - {motif: aromatic-plants-sent-against-witch, refs: ["Maqlu SB VI:100", "Maqlu SB VI:102"], note: "anhullû and imhur-līm, plants of release"}
+    hints:
+      - "Lines 104-105 broken."
+  - id: ane-maqlu-sb-vi-o-river-i-have-eaten
+    tradition: ane-akkadian
+    title: "Maqlû VI 106-112: 'O River, I have eaten, I have drunk' — River the door of my gate"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:106-112"]
+    tags:
+      - {motif: river-is-the-door-of-my-gate, refs: ["Maqlu SB VI:106-110"]}
+      - {motif: witch-titles-include-cult-women, refs: ["Maqlu SB VI:112"], note: "ruhû ša nadīti: the spittle (sorcery) of the nadītu-priestess"}
+  - id: ane-maqlu-sb-vi-i-know-your-form
+    tradition: ane-akkadian
+    title: "Maqlû VI 113-117: 'Ha, my witch ... I know your form' — sulphur, daughter of the great gods"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:113-117"]
+    tags:
+      - {motif: witch-known-to-speaker, refs: ["Maqlu SB VI:113-114"], note: "partly restored; anāku lānukki īde"}
+      - {motif: speaker-identifies-with-sulphur, refs: ["Maqlu SB VI:116"]}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB VI:117"], note: "ina ūm bubbuli pašrū ruhêki: on the day of the moon's disappearance your spittle is released"}
+  - id: ane-maqlu-sb-vi-you-salt
+    tradition: ane-akkadian
+    title: "Maqlû VI 118-125: 'You, Salt, who were created in a pure place'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:118-125"]
+    tags:
+      - {motif: salt-food-of-the-gods, refs: ["Maqlu SB VI:118-121"], note: "ana mākālê ilī rabûti išīmki enlil"}
+      - {motif: god-hymn-without-you-no, refs: ["Maqlu SB VI:120-121"]}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["Maqlu SB VI:122"]}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB VI:124"]}
+      - {motif: save-me-that-i-may-praise-you, refs: ["Maqlu SB VI:125"], note: "kīma ili bānîya lultammarki"}
+    hints:
+      - "Compare Lev 2:13 (every grain offering salted; the salt of the covenant) and Ezek 43:24; 2Kgs 2:20-22 (Elisha heals the spring with salt)."
+  - id: ane-maqlu-sb-vi-watch-on-my-roof-twine-round-bed
+    tradition: ane-akkadian
+    title: "Maqlû VI 126-133: 'Ha, my witch, who has lit a fire at one league' — a watch on my roof, twine round my bed"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:126-133"]
+    tags:
+      - {motif: bed-guarded-against-witch, refs: ["Maqlu SB VI:129-133"], note: "ina ūrīya maṣṣartu ina bābīya azzaqap kidinnu; eršī altame ulinna"}
+      - {motif: plant-name-pun-curses, refs: ["Maqlu SB VI:133"], note: "nuhurtu ... unahhara: asafoetida makes witchcraft wither"}
+    hints:
+      - "Compare Deut 6:9 (on the doorposts of your house) and Ps 127:1 (unless YHWH guards the city the watchman wakes in vain); Song 3:7-8 (sixty warriors around the bed against terror by night)."
+  - id: ane-maqlu-sb-vi-twelve-figurines-at-bed
+    tradition: ane-akkadian
+    title: "Maqlû VI 134-141: 'Ha, my witch' — twelve wooden figures at the head of my bed"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:134-141"]
+    tags:
+      - {motif: bed-guarded-against-witch, refs: ["Maqlu SB VI:137-139"], note: "šinšeret šaʾerrī"}
+      - {motif: water-and-flour-offerings-for-the-dead, refs: ["Maqlu SB VI:140"], note: "kurummat eṭemmi: food offerings for ghosts"}
+      - {motif: fire-god-burns-witch-refrain, refs: ["Maqlu SB VI:140-141"], note: "Nissaba chops off your fingers"}
+    hints:
+      - "Compare Song 3:7-8 (warriors around Solomon's bed because of terror by night)."
+  - id: ane-maqlu-sb-vi-gods-of-the-watch
+    tradition: ane-akkadian
+    title: "Maqlû VI 142-150: 'Ha, my witch, who roams over all lands' — Lugalirra and Meslamtaʾea at right and left of my gate"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:142-150"]
+    tags:
+      - {motif: witch-roams-streets-and-enters-houses, refs: ["Maqlu SB VI:143-144"], note: "kal mātāti ... kal šadâni"}
+      - {motif: bed-guarded-against-witch, refs: ["Maqlu SB VI:145-146"]}
+      - {motif: guardian-gods-posted-at-door, refs: ["Maqlu SB VI:147-150"], note: "ilū ša maṣṣarte nāsih libbi"}
+      - {motif: may-she-die-but-i-live, refs: ["Maqlu SB VI:150"]}
+    hints:
+      - "Compare Job 1:7 and 2:2 (Satan roaming the earth, going to and fro) for VI:143-144; Ps 121:5 for the guardian at the right hand."
+  - id: ane-maqlu-sb-vi-pure-mountain-in-courtyard
+    tradition: ane-akkadian
+    title: "Maqlû VI 151-159: 'Ha, my witch' — a pure mountain piled in my courtyard (broken); catchline"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VI:151-159"]
+    tags:
+      - {motif: witch-roams-streets-and-enters-houses, refs: ["Maqlu SB VI:152-153"]}
+      - {motif: bed-guarded-against-witch, refs: ["Maqlu SB VI:154-155"]}
+      - {motif: pure-mountain-piled-in-courtyard, refs: ["Maqlu SB VI:156"], note: "partly restored [ina tarbaṣīy]a; rest of the column broken (l. 157)"}

@@ -125,6 +125,16 @@ new_motifs:
   lament-dying-not-in-battle: {label: "The dying hero laments that he dies on a sickbed, not gloriously in battle where one makes a name", cluster: death}
   death-before-ones-time: {label: "People go to their fate before their time (die prematurely)", cluster: death}
   house-god-leaves-by-window: {label: "Curse: may the god of the house he enters leave by the window", cluster: curse}
+  dead-friend-born-of-gazelle-and-wild-ass: {label: "The mourner recalls that his friend was born of a gazelle and a wild ass and reared on the milk of wild asses", cluster: death}
+  all-creation-summoned-to-mourn: {label: "Litany calling on paths, mountains, trees, wild animals, rivers, elders, ploughman, shepherd, brewer and harlot to weep for the dead hero", cluster: death}
+  hero-mourns-like-wailing-woman: {label: "The hero declares he will lament his friend bitterly like a professional mourning woman", cluster: death}
+  dead-friend-as-lost-weapons-and-festal-garment: {label: "The mourner calls his dead friend the axe at his side, the sword of his belt, his shield and festal garment, stolen by an evil wind", cluster: death}
+  mourner-feels-heart-no-longer-beating: {label: "The mourner touches his friend's heart and finds it no longer beating; he would not lift his head", cluster: death}
+  corpse-veiled-like-bride: {label: "The mourner covers his dead friend's face like a bride's", cluster: death}
+  mourner-like-lioness-robbed-of-cubs: {label: "The mourner paces back and forth like a lioness deprived of her cubs", cluster: death}
+  statue-of-dead-friend-in-gold-and-lapis: {label: "Craftsmen are summoned to make a statue of the dead friend with lapis eyebrows and a golden chest", cluster: death}
+  grave-goods-for-netherworld-gods: {label: "Treasures from the king's treasury are displayed to the sun god as gifts for each netherworld deity, that they welcome the dead friend and walk at his side", cluster: underworld}
+  funeral-sacrifice-of-oxen-and-sheep: {label: "Fat oxen and sheep are slaughtered and heaped up for the dead, their meat carried to the princes of the netherworld", cluster: death}
 units:
   - id: ane-gilg-sb-i-prologue
     tradition: ane-akkadian
@@ -820,3 +830,96 @@ units:
     hints:
       - "'Remember me' : Gen 40:14 (Joseph to the cupbearer); Judg 16:28; Luke 23:42."
       - "Dying of illness rather than in battle: 1Sam 26:10 and 31:4 (Saul's death); Hezekiah's sickness unto death, Isa 38:1-3."
+
+  - id: ane-gilg-sb-viii-let-all-mourn
+    tradition: ane-akkadian
+    title: "Gilgameš's lament: may all creation weep for Enkidu (Gilgameš SB VIII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VIII:1-41"]
+    tags:
+      - {motif: dead-friend-born-of-gazelle-and-wild-ass, refs: ["Gilg SB VIII:3-6"], note: "ša ummaka ṣabītu u akkannu abūka ibnûka ... ša serrēmū ina šezibbīšin urabbûka"}
+      - {motif: all-creation-summoned-to-mourn, refs: ["Gilg SB VIII:7-40"], note: "libkûnikku: harranātu ša qišti erēni, šībūt āli, elûti ša šadî, šurmēnu erēnu, asu būṣu nimru ..., ulāya, purattu, ikkaru, nāqidu, sābû, harimtu"}
+      - {motif: land-mourns-creatures-perish, refs: ["Gilg SB VIII:11-20"], note: "loose: mountains, pastures, trees, rivers and beasts mourn"}
+      - {motif: royal-elegy-how-are-mighty-fallen, refs: ["Gilg SB VIII:1-41"]}
+      - {motif: trees-wail-for-fallen-cedars, refs: ["Gilg SB VIII:14-15"], note: "libkīka taskarinnu šurmēnu erēnu ša ina birīssunu nihtallupu"}
+      - {motif: catalogue-of-wild-animals, refs: ["Gilg SB VIII:16-17"], note: "asu būṣu nimru mindinu lulīmu dumāmu nēšu rīmu ayyalu turāhu"}
+      - {motif: priest-forbidden-mourning-rites, refs: ["Gilg SB VIII:39"], note: "loose: women's tresses loosed in mourning, pērātūšun uššurā"}
+    hints:
+      - "David's lament for Saul and Jonathan: 2Sam 1:17-27 ('mountains of Gilboa, let there be no dew'; 'your love was wonderful to me, passing the love of women'); Zech 12:10-14."
+      - "Nature summoned to mourn: Jer 4:28, 12:4, Amos 1:2, Joel 1:10; Ezek 31:15 (Lebanon in mourning for the cedar); Q 44:29 (neither heaven nor earth wept for them)."
+
+  - id: ane-gilg-sb-viii-death-of-enkidu
+    tradition: ane-akkadian
+    title: "'What sleep has seized you?': Enkidu's heart stops; Gilgameš veils him like a bride (Gilgameš SB VIII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VIII:42-64"]
+    tags:
+      - {motif: hero-mourns-like-wailing-woman, refs: ["Gilg SB VIII:42-45"], note: "kīma lallarīti unabba ṣarpiš"}
+      - {motif: professional-wailing-women, refs: ["Gilg SB VIII:45"]}
+      - {motif: dead-friend-as-lost-weapons-and-festal-garment, refs: ["Gilg SB VIII:46-49"], note: "haṣṣin ahīya tuklat idīya ... šāru lemnu itbâm-ma ītekmanni"}
+      - {motif: hero-laments-dead-companion, refs: ["Gilg SB VIII:50-54"], note: "kūdannu ṭardu akkannu ša šadî nimru ša ṣēri ... niṣbatū-ma alâ nināru"}
+      - {motif: sleep-of-death, refs: ["Gilg SB VIII:55-56"], note: "mīnû šittu ša iṣbatka kâši"}
+      - {motif: mourner-feels-heart-no-longer-beating, refs: ["Gilg SB VIII:57-58"], note: "ilput libbašū-ma ul inakkud mimmā-ma"}
+      - {motif: corpse-veiled-like-bride, refs: ["Gilg SB VIII:59"], note: "iktum-ma ibra kīma kallati pānuš"}
+      - {motif: mourner-like-lioness-robbed-of-cubs, refs: ["Gilg SB VIII:60-62"], note: "kīma arê isâr; kīma nēšti ša šuddât mērānīša"}
+      - {motif: bear-robbed-of-cubs, refs: ["Gilg SB VIII:61"], note: "here a lioness"}
+      - {motif: tearing-garment-and-plucking-hair-beard, refs: ["Gilg SB VIII:63-64"], note: "ibaqqam u itabbak qunnunta pērta, inassah u inaddi damqūti"}
+    hints:
+      - "Bear robbed of her cubs: 2Sam 17:8, Hos 13:8, Prov 17:12."
+      - "Tearing hair and garments in grief: Ezra 9:3, Job 1:20, 2Sam 13:31; mourning for an only friend: 2Sam 1:26."
+      - "The dead as asleep: Ps 13:4, Jer 51:39, Dan 12:2; Q 39:42."
+
+  - id: ane-gilg-sb-viii-statue-and-mourning
+    tradition: ane-akkadian
+    title: "The statue of Enkidu; Gilgameš's vow of mourning (Gilgameš SB VIII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VIII:65-91"]
+    tags:
+      - {motif: statue-of-dead-friend-in-gold-and-lapis, refs: ["Gilg SB VIII:66-75"], note: "nappāhu ... kutimmu kabšarru ... ibnâ ṣalam ibrīšu ... ša uqnî iratka ša hurāṣi"}
+      - {motif: funerary-statue-keeps-name-alive, refs: ["Gilg SB VIII:69-74"]}
+      - {motif: tearing-garment-and-plucking-hair-beard, refs: ["Gilg SB VIII:76-77"]}
+      - {motif: promise-of-honoured-burial-and-mourning, refs: ["Gilg SB VIII:84-89"], note: "restored after VII:140-145"}
+      - {motif: mourner-wears-lion-skin-roams-wild, refs: ["Gilg SB VIII:90-91"], note: "altabbiš-ma mašak labbim-ma arappud ṣēra"}
+    hints:
+      - "Absalom's pillar to keep his name (2Sam 18:18); teraphim/images (1Sam 19:13)."
+
+  - id: ane-gilg-sb-viii-grave-goods
+    tradition: ane-akkadian
+    title: "Treasures displayed to Šamaš as gifts for the gods of the Netherworld (Gilgameš SB VIII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VIII:92-210"]
+    tags:
+      - {motif: grave-goods-for-netherworld-gods, refs: ["Gilg SB VIII:94-130", "Gilg SB VIII:132-210"], note: "riksīšu ipṭur šukutta īmur ... ištakan ana ibrīšu; ana ereškigal ... šamaš uktallim: limhur ... ana pān ibrīya lū hadât-ma idāšu lillik"}
+      - {motif: gifts-to-underworld-gods, refs: ["Gilg SB VIII:134-183"], note: "Ištar, Bēlet-ilī, Ereškigal, Dumuzi, Namtar, Ḫušbišag, Qāssa-ṭābat, Ninšuluḫḫatumma, Bibbu, Dumuzi-abzu"}
+      - {motif: funeral-sacrifice-of-oxen-and-sheep, refs: ["Gilg SB VIII:131-133"], note: "alpī kabrūti immerī marûti uṭṭabih ittabak ana ibrīšu ... ana malkī qaqqari kali šīrī ublū"}
+      - {motif: scapegoat-of-netherworld, refs: ["Gilg SB VIII:181-182"], note: "dumuzi-abzu mašhaltappê erṣeti: the scapegoat of the netherworld"}
+      - {motif: dead-king-made-judge-of-underworld, refs: ["Gilg SB VIII:210"], note: "[d]ayyān anunnakkī (context broken)"}
+    hints:
+      - "Burnings and spices for a king's burial: 2Chr 16:14, Jer 34:5; the azazel goat: Lev 16:8-10, 16:21-22."
+
+  - id: ane-gilg-sb-viii-river-dammed-offering
+    tradition: ane-akkadian
+    title: "Gilgameš plans the damming of the river; the offering table for Šamaš (Gilgameš SB VIII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VIII:211-250"]
+    tags:
+      - {motif: tomb-built-in-diverted-riverbed, refs: ["Gilg SB VIII:211-212"], note: "sikra ša nāri ibtani ina libbīšu: he conceived the damming of the river (the tomb itself is lost in the break)"}
+      - {motif: god-asked-to-accept-pure-food-and-water, refs: ["Gilg SB VIII:213-219"], note: "paššūr elammaki ... mallat sāndi umalli dišpa, mallat uqnî himēta ... šamaš uktallim"}
+      - {motif: honey-and-ghee-offering, refs: ["Gilg SB VIII:216-217"], note: "dišpu and himētu in carnelian and lapis bowls"}
+    hints:
+      - "Honey forbidden on the altar: Lev 2:11; 'butter and honey' Isa 7:15; burial in a hidden place: Deut 34:6 (Moses' unknown grave)."
