@@ -79,6 +79,88 @@ new_motifs:
   purity-rules-for-temple-grain: {label: "Purity rules for the god's grain and malt: ground in a pure place, untouched by water, not turned over", cluster: cult}
   woman-forbidden-to-eat-from-holy-pen: {label: "In the god's holy cattle-pen 'the woman does not drink, the woman does not eat' (a taboo)", cluster: cult}
   fish-and-birds-abundant-in-gods-domain: {label: "In the god's waters and fields fish and birds are abundant and carp grow fat", cluster: fertility}
+  wedding-ushers-are-lords: {label: "The bride's wedding ushers (li-bi-ir-si) are lords", cluster: love}
+  bride-prays-on-arrival: {label: "The bride steps forward and utters a prayer on arriving at the bridegroom's house or god", cluster: love}
+  wife-honoured-above-kin-at-table: {label: "The new wife will eat at a splendid table where even the husband's mother and sister do not eat", cluster: love}
+  temple-endowed-with-gifts-of-other-temples: {label: "The splendours of other great temples are given as gifts to a house; the house floats like a cloud", cluster: temple}
+  youths-dressed-for-festival: {label: "Young women and young men put on tiaras and sword-belts to go to the festival", cluster: cult}
+  goddess-rides-lion: {label: "The goddess rides on a lion or great beast", cluster: divine-epithets}
+  mother-of-dumuzid-durtur-roams: {label: "Durtur, Dumuzid's mother, walks the hills and valleys", cluster: love}
+  dumuzid-provokes-quarrel: {label: "The shepherd (Dumuzid) picks a quarrel with his rival from the steppe", cluster: love}
+  deity-called-peerless-dragon: {label: "A god is hailed as a peerless dragon (ušum), named with an august name in heaven and earth", cluster: divine-epithets}
+  dew-falls-on-body: {label: "Something (divine favour, fragrant oil) falls on the body like dew or rain", cluster: blessing}
+  blessing-on-city-wives-and-children: {label: "Blessing that the city last and its wives and children be happy, with long life", cluster: blessing}
+  moon-god-as-barge-of-heaven: {label: "The moon god is the holy barge (ma2-gur8) that travels across the sky", cluster: astral}
+  temple-emerges-from-pure-mountain: {label: "The temple or holy city emerges from the holy heart of the pure mountains", cluster: temple}
+  who-can-know-the-temple: {label: "Rhetorical question: 'What do men know of you?' asked of the god's temple or palace", cluster: temple}
+  gods-confer-powers-on-younger-god: {label: "An, Enlil and Enki each bestow kingship, divinity, lordship and destiny on a younger god", cluster: divine-epithets}
+  god-bathes-anointed-enthroned-with-horned-crown: {label: "The god bathes, is anointed with mountain oil, wrapped in linen and set on his dais with shining horns and a crown", cluster: cult}
+  hands-purified-with-oil-for-offering-table: {label: "Gods purify the hands with oil so that sacred hands may be laid on the god's offering table", cluster: cult}
+  moon-crescent-of-seventh-day: {label: "The moon's crescent is named after the seventh day of the lunar month", cluster: astral}
+  moon-stands-like-sun-at-noon: {label: "Coming forth from the mountains, the moon stands in the sky as the sun stands at noon", cluster: astral}
+  father-god-speaks-day-and-night-with-son: {label: "The high god, whose word is true, speaks with his son day and night and decides fates with him", cluster: divine-epithets}
+  gods-herd-counted-in-huge-numbers: {label: "The god's cattle are counted in huge exact numbers (tens of thousands) and the total written on clay by the scribal goddess", cluster: numbers}
+  where-have-you-tended-your-cows: {label: "Question-and-answer refrain: 'Where have you tended your cows / your people?' answered with the god's temple and city", cluster: literary-form}
+  god-founds-city-in-marsh: {label: "The god extends his house over a vast reed marsh and names his city", cluster: temple}
+  animals-love-their-young-under-moon: {label: "Under the moon god's light ewes caress their lambs, goats their kids and young men make love with their wives", cluster: fertility}
+  moon-light-in-dark-places: {label: "The moon god supplies evening light to dark places and the people gaze at him in wonder", cluster: astral}
+  city-founded-by-an-refrain: {label: "Refrain naming a list of temples each as 'city founded by An'", cluster: temple}
+  goddess-will-live-in-gods-city: {label: "The goddess-consort declares 'I will live' in each place of her husband's city: quay, storehouse, court, cedar mountain", cluster: love}
+  remote-as-heaven-refrain: {label: "Refrain: the god is 'as remote as heaven, as ... as the earth'", cluster: divine-epithets}
+  god-chosen-to-surpass-gods: {label: "The high god chooses as a younger god's lot that he surpass all the other gods (the Anuna)", cluster: divine-epithets}
+  beauty-covers-body-like-garment: {label: "Prayer that the god's beauty or attractiveness cover the speaker's body like a garment", cluster: love}
+  temple-shadow-over-sea: {label: "The temple's shadow stretches out over the midst of the sea", cluster: temple}
+  anuna-stand-in-service: {label: "The Anuna gods stand in service in a god's temple or city", cluster: divine-council}
+  lion-epithet-of-god: {label: "A god is called a great lion (of An, of the gods), roaring hostile words at the enemy", cluster: divine-epithets}
+  moon-god-regulates-heavenly-waters: {label: "The moon god regulates 'the nipples of heaven' (rain), the early flood and unceasing abundance", cluster: astral}
+  pilgrimage-litany-we-are-going: {label: "Processional litany 'We are going, we are going ...' to a list of named temples and cities", cluster: cult}
+  black-headed-raise-eyes-to-god: {label: "In the four quarters the black-headed people lift their eyes to the god", cluster: divine-epithets}
+  high-gods-cherish-younger-god: {label: "An, Enlil, Enki and Ninḫursaĝa speak kindly to a younger god in his place of creation", cluster: divine-epithets}
+  city-awesome-like-sea: {label: "The god's city inspires awe like the sea", cluster: temple}
+  god-arranges-table-of-an: {label: "Seated on his dais, the god arranges the table of An in his great banqueting hall", cluster: cult}
+  prayer-for-city-prosperity: {label: "Prayer that the god's city prosper under him and that he raise his head in it forever", cluster: blessing}
+  goddess-mother-of-orphan-carer-of-widow: {label: "The goddess is mother to the orphan and carer for the widow, finds advice for the debt-slave and protection for the refugee", cluster: justice}
+  goddess-finds-husband-for-righteous-maiden: {label: "The goddess finds a well-to-do young man for the righteous maiden and a secure house for the widow who could not remarry", cluster: justice}
+  goddess-chooses-ruler-and-gives-sceptre: {label: "The goddess chooses the ruler in her holy heart, seats him on the throne and gives him the lofty sceptre", cluster: kingship}
+  temple-banquet-prepared-for-deity: {label: "The temple staff prepare a banquet for the deity: silver cups, hot and cold food, meat in bowls, cool water and wine", cluster: cult}
+  temple-offering-surplus-not-to-be-taken: {label: "Rules forbid taking extra from the temple's regular offerings or using shrine bread as a ration allotment", cluster: cult}
+  divine-herald-discerns-good-and-evil: {label: "The goddess's herald knows what is truly said and what is falsely said, discriminates the just from the wicked", cluster: justice}
+  new-year-inspection-of-servants: {label: "At the new year the goddess inspects her servants; the scribal goddess holds the tablets on her knees and a golden stylus", cluster: justice}
+  faithful-registered-unfaithful-deleted-from-tablet: {label: "The registrar writes on a tablet the name of the faithful servant and deletes from the tablet the one who is not faithful", cluster: judgment}
+  negligent-priest-dismissed: {label: "A priest who neglects the vessels, fires or incantations of the temple is removed from his office", cluster: cult}
+  no-addition-to-rites: {label: "'These words are final; nothing is to be added to these rites'", cluster: law}
+  catalogue-of-wrongdoers-barred-by-goddess: {label: "A catalogue of wrongdoers whom the goddess rejects: the violent, the boundary-mover, the false-weigher, the ingrate, the mocker of the widow", cluster: justice}
+  ingrate-will-not-say-i-have-eaten: {label: "The ingrate who has eaten and drunk will not say 'I have eaten, I have drunk' but asks for more", cluster: wisdom}
+  goddess-sees-into-heart-of-land: {label: "The goddess sees into the heart of the land as into a split reed", cluster: justice}
+  mother-and-child-lawsuit: {label: "A divine judge decides lawsuits between mother and child: an unloving mother bears the blame, an insolent child is rejected", cluster: law}
+  insolent-child-rejected-like-grain-on-salt-soil: {label: "The child who speaks insolently to the mother who fed him is rejected like grain on acid soil", cluster: law}
+  fish-serve-goddess-as-regalia: {label: "Fish serve as the goddess's staff, sandals, garment and musicians, with punning names", cluster: animals}
+  goddess-rides-home-on-boat: {label: "The goddess rides home on her boat with a gold and cedar canopy, shining like moonlight on the sea", cluster: sea}
+  birds-assemble-at-goddess-command: {label: "The goddess commands all birds of heaven and earth, named and unnamed, to assemble and serve her", cluster: animals}
+  bird-catalogue-with-calls: {label: "A catalogue of birds, each with its cry, habit or colour (raven, ostrich, peacock, vulture, heron, dove)", cluster: animals}
+  bird-named-from-its-cry: {label: "A bird is named after its call or after an event (etymology of a bird name)", cluster: etiology}
+  ostrich-guards-eggs-by-night: {label: "The ostrich lays her eggs on the hillside and knows how to keep watch over them at night", cluster: animals}
+  anzud-decides-fates-with-gods: {label: "The Anzud bird decides fates together with the Anuna gods", cluster: animals}
+  gods-cower-before-gods-radiance: {label: "The Anuna, the great gods, cower together before a god's awesomeness and radiance", cluster: divine-epithets}
+  god-given-decision-of-destinies: {label: "The father god gives his son the mountain of the earth, all the people and the deciding of destinies", cluster: divine-epithets}
+  god-named-avenger-of-father: {label: "A warrior god is named 'he who leads away the enemies of Enlil, avenger of his father'", cluster: divine-epithets}
+  storehouses-full-through-goddess: {label: "Through the goddess the storehouses of the land swell, the vessels of water never run dry and baskets of treasure cover the ground", cluster: fertility}
+  dream-interpreter-serves-in-temple: {label: "A dream interpreter (ensi) serves in the temple and prepares the cult vessels", cluster: cult}
+  good-wife-manages-household: {label: "The goddess acts 'as a good woman for a good household', assigning tasks so that provisions arrive unfailingly", cluster: wisdom}
+  decrees-like-heavy-smoke-and-clouds: {label: "The decrees of the temple are like heavy smoke settling on the ground and clouds covering the sky", cluster: law}
+  protective-spirits-guard-temple: {label: "The goddess's protective spirits (lamma, udug) stand guard at the temple", cluster: temple}
+  wordplay-on-names: {label: "Each creature's name is echoed by a verb of the same sound (paronomasia on names)", cluster: literary-form}
+  husband-tax-collector-of-sea: {label: "The goddess's husband (Nindara) is the tax collector of the sea", cluster: sea}
+  goddess-favourite-bird-pelican: {label: "The goddess's favourite bird (the pelican?) sings sweetly in the sky and is set at her feet in a lapis shrine", cluster: animals}
+  goddess-as-cow-drinking-at-water: {label: "Descending from heaven to earth, the goddess drinks at the water's edge like a holy white cow", cluster: animals}
+  raven-eggs-carried-off: {label: "The raven's shining holy eggs are carried off by people", cluster: animals}
+  precious-bird-image-made-by-smith: {label: "A bird image is to be made by the smith of cornelian, lapis, chalcedony and gold", cluster: cult}
+  dove-moans-in-field: {label: "The dove and pigeon make their (gentle or bitter) cry in the broad fields and the king's vacant lot", cluster: animals}
+  weeping-like-orphan: {label: "A creature cries or behaves humbly like a crying baby or an orphaned child", cluster: animals}
+  goddess-loves-fish-and-birds: {label: "The goddess is praised as 'she who loves the fish and birds'", cluster: animals}
+  offerings-from-city-for-god: {label: "Prayer that the people of the god's city spread everything he needs on his pure table and that he stretch his arm over the city", cluster: cult}
+  god-controls-plague: {label: "A warrior god is lord of plague and death (nam-uš2)", cluster: divine-epithets}
+  consort-goddess-prays-for-reign: {label: "The god's consort, who cares for him, prays that his rule be famous for distant days", cluster: petition}
 units:
   - id: ane-etcsl-4-07-8-1-nanaya-balbale
     tradition: ane-sumerian
@@ -483,3 +565,679 @@ units:
       - {motif: mother-crowns-king-on-wedding-day, refs: ["ETCSL 4.08.26 B:13"], note: "interpretive: the crowning is spoken of by the bride in a wedding song; the one who crowns is (her father) Suen"}
     hints:
       - "Compare Song 3:11 (the crown with which his mother crowned him on his wedding day) and Song 1:16 ('our couch is green')."
+  - id: ane-etcsl-4-08-29-a-wedding-gifts-open-the-house
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid, segment A - the ushers' gifts and 'Open the house' (Dumuzid-Inana C1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: bilingual (Sumerian with Akkadian glosses)
+    read: ["ETCSL 4.08.29 A:1-32"]
+    tags:
+      - {motif: wedding-gifts-from-shepherd-farmer-fowler-fisherman, refs: ["ETCSL 4.08.29 A:11-28"], note: "{lu2}su8-ba-še3 mu-lu da-an-gi4-gi4 / i3 saĝ ga saĝ; engar ... ĝeštin; mušen-du3 ... mušen sig5-ga; šu-KU6 ... suḫur{ku6} gur-gur-ra"}
+      - {motif: wedding-ushers-are-lords, refs: ["ETCSL 4.08.29 A:3-5", "ETCSL 4.08.29 A:21"], note: "{d}nin-e2-gal-la li-bi-ir-si-zu en-me-eš 'Ninegala, your wedding ushers are lords'"}
+      - {motif: lavish-marriage-gifts-catalogue, refs: ["ETCSL 4.08.29 A:21-28"], note: "Dumuzid carries butter and milk on his shoulders in churns"}
+      - {motif: lover-knocks-open-up, refs: ["ETCSL 4.08.29 A:29-31"], note: "[e2] ĝal2-lu nin-ĝu10 e2 [ĝal2-lu] 'open the house, my lady, open the house'"}
+    hints:
+      - "Compare Song 5:2 ('open to me, my sister, my love') and Gen 24:53 (gifts for the bride's family)."
+  - id: ane-etcsl-4-08-29-b-mothers-bidding-moonlight
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid, segment B - at her mother's bidding Inana opens to Dumuzid (Dumuzid-Inana C1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.29 B:1-23"]
+    tags:
+      - {motif: mother-blesses-departing-bride, refs: ["ETCSL 4.08.29 B:2-10"], note: "Ningal: i-gi4-in-zu7 a-a-zu na-nam / ama-zu na-nam: 'he will be just like your father, like your mother'"}
+      - {motif: lover-knocks-open-up, refs: ["ETCSL 4.08.29 B:11"], note: "e2 ĝal2-lu nin-ĝu10 e2 ĝal2-lu"}
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["ETCSL 4.08.29 B:12-17"], note: "{d}inana dug4-ga ama-na-še3 / a mu-un-tu5 i3 dug3-ga mu-un-šeš2; {tug2}pala3 maḫ; lapis on her neck, cylinder seal ({na4}kišib) in her hand"}
+      - {motif: bride-comes-forth-like-moonlight, refs: ["ETCSL 4.08.29 B:18-20"], note: "{d}dumu-zid-de3 {ĝiš}ig im-ma-ni-in-us2 / e2-e iti6-gin7 im-ma-na-ra-e3"}
+      - {motif: beloved-like-dawn-moon-sun, refs: ["ETCSL 4.08.29 B:20"], note: "iti6-gin7 'like moonlight'"}
+      - {motif: ravished-by-one-glance, refs: ["ETCSL 4.08.29 B:21-22"], note: "igi mu-un-ši-bar mu-un-na-ḫul2-la / gu2-da mu-ni-in-la2 ne mu-un-su-ub"}
+    hints:
+      - "Compare Song 6:10 ('fair as the moon') and Song 5:5-6 (she rises to open to her beloved)."
+  - id: ane-etcsl-4-08-29-c-to-the-house-of-my-god
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid, segment C - the bride brought to the house of Dumuzid's god (Dumuzid-Inana C1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.29 C:1-24"]
+    tags:
+      - {motif: bride-brought-to-house-of-grooms-god, refs: ["ETCSL 4.08.29 C:9-13"], note: "e2 diĝir-ĝa2-še3 mu-e-tum3-en / igi diĝir-ĝa2-še3 i3-e-nu2-en / zag gu-la diĝir-ĝa2-ka ... mu-da-tuš-u3-de3-en"}
+      - {motif: bride-led-into-grooms-house-by-his-sister, refs: ["ETCSL 4.08.29 C:7"], note: "partly: lugal-ĝu10 e2-a kur9-ra-ma-ni 'my master, take me into the house' (the bride's request)"}
+      - {motif: bride-prays-on-arrival, refs: ["ETCSL 4.08.29 C:17-18"], note: "[a]-ra-zu mu-na-ab-be2 'uttered a prayer'; context broken (C:19-24 fragmentary)"}
+    hints:
+      - "Compare Gen 24:67 (Isaac brings Rebekah into his mother's tent) and Ps 45:15-16 (the bride led into the king's palace)."
+  - id: ane-etcsl-4-08-29-d-not-a-slave-girl
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid, segment D - 'I have not carried you off to be my slave girl' (Dumuzid-Inana C1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.29 D:1-27"]
+    tags:
+      - {motif: bride-not-taken-as-slave, refs: ["ETCSL 4.08.29 D:5-17"], note: "nam-geme2-ĝu10-še3 la-ba-e-de3-ri; banšur šen-na 'splendid table'; nitalam-ĝu10 tug2 na-ma-TUKU5-TUKU5-an / gu na-ma-NU-NU-un 'my bride, you shall not weave cloth or spin for me'"}
+      - {motif: wife-honoured-above-kin-at-table, refs: ["ETCSL 4.08.29 D:10-13"], note: "ama-ĝu10 ... la-ba-ni-ib-gu7 / šeš tu-ur-tu-ra / nin9-ĝu10 {d}ĝeštin-an-na la-ba-ni-ib2-gu7: mother, Durtur's brother and sister Ĝeštin-ana do not eat there, but you will"}
+      - {motif: valiant-wife-works-wool-and-flax-spindle, refs: ["ETCSL 4.08.29 D:14-17"], note: "contrast: the divine bride is excused the spinning, weaving, combing and warping that a wife normally does"}
+    hints:
+      - "Contrast Prov 31:13, 19 (the capable wife spins and weaves) and compare Exod 21:7-11 (rights of a slave-woman taken as wife), Ps 45:11-16."
+  - id: ane-etcsl-4-08-30-sacred-marriage-blessing
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid - the couch, the sacred marriage and the blessing of the king (Dumuzid-Inana D1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.30 1-70"]
+    tags:
+      - {motif: temple-endowed-with-gifts-of-other-temples, refs: ["ETCSL 4.08.30 1-7"], note: "the ... of E-temen-ni-guru, of Eridug, Suen's house and E-ana e2 šu-bi-še3 ḫe2-rig7 'given as gifts to the house'; e2 zid-da-ĝu10 dungu-gen6 i-im-dirig 'my house floats like a cloud'"}
+      - {motif: goddess-prepares-bed-for-king, refs: ["ETCSL 4.08.30 8-12", "ETCSL 4.08.30 18-31"], note: "ki-nu2 gi-rin-na za-gin3 sig10-ga ... {d}gibil6 ... mu-ra-an-kug-kug-ga; al ba-an-dug4 ... ki-nu2 al ba-an-dug4 'she desires the couch' (litany)"}
+      - {motif: sacred-marriage-at-moons-disappearance, refs: ["ETCSL 4.08.30 13-17"], note: "ud ba-an-nu2 ud ba-an-dug4 / ud ki-nu2-a i-bi2 kar2-kar2-dam 'the day of (the moon's) lying down, the day the couch is inspected'"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["ETCSL 4.08.30 28-37", "ETCSL 4.08.30 65-70"]}
+      - {motif: minister-leads-king-to-goddess, refs: ["ETCSL 4.08.30 33-37"], note: "ga-ša-an-šubur-ra sukkal zid e2-an-na-ke4 / kišib-la2 zid-da-na im-ma-an-dab5"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 4.08.30 16-17", "ETCSL 4.08.30 38-41", "ETCSL 4.08.30 46"], note: "{ĝiš}gu-za nam-lugal-la suḫuš gen6-na / ĝidru kalam si sa2 ešgiri2 šibir / aga zid men"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["ETCSL 4.08.30 42-46"], note: "{d}utu e3-ta {d}utu šu2-še3 / ulu3-ta mir-ra-a-še3 / a-ab-ba igi-nim-ta a-ab-ba sig-še3 / ḫalub-ta erin-na-še3 / ki-en-gi ki-uri"}
+      - {motif: king-as-good-shepherd-sheep-multiply, refs: ["ETCSL 4.08.30 47-49"], note: "saĝ gig2 ... nam-sipad-bi ḫe2-ak-e / engar-gin7 / sipad zid-gin7 amaš ḫe2-em-mi-lu-lu"}
+      - {motif: land-fertile-under-blessed-king, refs: ["ETCSL 4.08.30 50-62"], note: "gu ḫe2-en-da-ĝal2 še ḫe2-en-da-ĝal2 ... pu2-{ĝiš}kiri6 lal3 ĝeštin ḫe2-en-da-il2 ... e2-gal-la zi su3-ud-ĝal2; Tigris and Euphrates in flood; Nisaba heaps grain"}
+      - {motif: fate-of-abundance-decreed-for-king, refs: ["ETCSL 4.08.30 50-62"]}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 4.08.30 32", "ETCSL 4.08.30 36-37", "ETCSL 4.08.30 63-64"], note: "inim til3 inim ud su13-ra2; ud ḫa-ba-ni-ib-su3-ud-de3"}
+      - {motif: king-goes-head-high-to-goddess, refs: ["ETCSL 4.08.30 65-70"], note: "ur2 kug ga-ša-an-na-ka-še3 saĝ il2-la mu-un-ĝen"}
+    hints:
+      - "Dominion 'from sea to sea, from the River to the ends of the earth': compare Ps 72:8 and Zech 9:10; abundance under the king Ps 72:3, 6, 16."
+      - "Compare Ps 2:6-9 and Ps 110:2 (the king given sceptre and rule), Ps 21:5 (life and length of days)."
+      - "Compare Ps 45 (royal wedding song, throne, sceptre of equity)."
+  - id: ane-etcsl-4-08-31-a-festival-riders
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid, segment A - fragments; maiden and youth ride to the festival (Dumuzid-Inana E1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.31 A:1-22"]
+    tags:
+      - {motif: youths-dressed-for-festival, refs: ["ETCSL 4.08.31 A:17-19"], note: "ki-sikil tur-ra suḫ mu-[...] / ĝuruš tur-ra {tug2}niĝ2-la2 / ki ezem-ma-še3 ma-la-ĝu10; lines 1-16 fragmentary"}
+      - {motif: goddess-rides-lion, refs: ["ETCSL 4.08.31 A:20-22"], note: "ur-ra mu-un-u5 ... ur-maḫ-a 'she rides on a beast ... on a lion'; subject broken"}
+  - id: ane-etcsl-4-08-31-b-c-girl-adorns-herself
+    tradition: ane-sumerian
+    title: A balbale to Inana and Dumuzid, segments B-C - the toilette of the bride; Durtur (Dumuzid-Inana E1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.31 B:1-21", "ETCSL 4.08.31 C:1-8"]
+    tags:
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["ETCSL 4.08.31 B:3-16"], note: "šem-bi-zid-da im-da-du7-ru; a im-ma-tu5 naĝa im-ma-su-ub ... u5 ze2-ba {na4}bur-ra im-ma-šeš4 ... {na4}za-gin3 ... {na4}kišib ... {tug2}pala3 na-aĝ2-ga-ša-an-na"}
+      - {motif: queen-paints-eyes-looks-from-window, refs: ["ETCSL 4.08.31 B:4", "ETCSL 4.08.31 B:12", "ETCSL 4.08.31 C:5"], note: "only the kohl: i-bi2-ni šem-bi-zid-da; Durtur too puts kohl on her eyes"}
+      - {motif: mother-of-dumuzid-durtur-roams, refs: ["ETCSL 4.08.31 B:17-21"], note: "{d}dur7-tur il2-la du-a ... du5-la2-ta du7-du7: Durtur walking on hills and in valleys; fragmentary"}
+      - {motif: deified-hero-as-kings-brother, refs: ["ETCSL 4.08.31 C:3-4"], note: "only the names {d}u3-mu-un-ban3-da and [{d}ga]-ša-an-sumun2-na survive; context lost"}
+    hints:
+      - "Compare Ezek 23:40 (bathed, painted eyes, decked with ornaments), 2 Kgs 9:30, Jer 4:30."
+  - id: ane-etcsl-4-08-32-garden-of-the-brother
+    tradition: ane-sumerian
+    title: A song of Inana and Dumuzid - the bed of honey and the brother's garden (Dumuzid-Inana F1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.08.32 1-23"]
+    tags:
+      - {motif: lovers-bed-dripping-honey, refs: ["ETCSL 4.08.32 2"], note: "mu-nu2 lal3 ḫab2-ba"}
+      - {motif: explicit-erotic-description, refs: ["ETCSL 4.08.32 3-5"], note: "šu-ni šu-ĝa2; me-ri-ni me-ri-ĝa2; šu-um-du-um-ĝu10 ka-na: hand in hand, foot by foot, my lips on his mouth"}
+      - {motif: lovers-jewelry-gold-silver, refs: ["ETCSL 4.08.32 8-10"], note: "ḫar-gin7 šu-ĝa2 'like a bracelet on my hand'; za-gin3 gu2-ĝa2 'lapis on my neck'; kug-gin7"}
+      - {motif: lover-invites-sister-to-fields-and-garden, refs: ["ETCSL 4.08.32 11-15"], note: "šeš-e {ĝiš}kiri6-ni-a ... mu gub-ba-ni ... mu nu2-a-ni 'his standing tree ... his lying tree'; zu2-lum 'dates'"}
+      - {motif: girl-sings-in-apple-and-fig-orchard, refs: ["ETCSL 4.08.32 16-23"], note: "aĝ2-e {ĝiš}ḫašḫur-a ma-da-ab-be2 / {mu}PEŠ3-a / {mu}KIM3-e; refrain ze2-ba kal-la-ĝu10"}
+    hints:
+      - "Compare Song 6:11, 7:12-13 (going down to the garden, the vines and pomegranates) and Song 2:3, 8:5 (under the apple tree); Song 7:8 (the palm and its clusters)."
+  - id: ane-etcsl-4-08-33-dumuzid-and-enkimdu
+    tradition: ane-sumerian
+    title: Dumuzid and Enkimdu - the shepherd and the farmer woo Inana
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: bilingual (Sumerian with some Akkadian glosses)
+    read: ["ETCSL 4.08.33 1-90"]
+    tags:
+      - {motif: shepherd-farmer-wooing-contest, refs: ["ETCSL 4.08.33 7-34", "ETCSL 4.08.33 40-64"]}
+      - {motif: farmer-vs-shepherd-brothers, refs: ["ETCSL 4.08.33 40-79"], note: "rivals, not brothers: engar-e ĝa2-a-ra a-na mu-un-dirig-ga-am3 'in what is the farmer superior to me?'; Enkimdu lu2 eg2 pa5-ra-ke4 'man of dykes and canals'"}
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["ETCSL 4.08.33 40-64", "ETCSL 4.08.33 88-89"], note: "subscript sipad engar-da a-da-min3 dug4-ga 'the dispute (adamin) of shepherd and farmer'"}
+      - {motif: brother-urges-sister-to-marry-suitor, refs: ["ETCSL 4.08.33 10-19"], note: "šeš-a-ni ur-saĝ šul {d}utu ... nin9-ĝu10 ḫe2-tuku-tuku su8-ba-de3 / ki-sikil {d}inana za-e a-na-aš nu-ub-še-ge-en"}
+      - {motif: woman-refuses-proposed-husband, refs: ["ETCSL 4.08.33 7-9", "ETCSL 4.08.33 20-25", "ETCSL 4.08.33 34"], note: "nitalam sipad-da nu-me-en; ĝe26-e su8-ba-de3 ba-ra-mu-tuku-tuku-un ... mu-un-gar3 de3-mu-tuku-tuku-un 'let the farmer marry me'"}
+      - {motif: sun-god-as-brother-matchmaker, refs: ["ETCSL 4.08.33 10-19"]}
+      - {motif: shepherd-offers-produce-in-exchange, refs: ["ETCSL 4.08.33 43-63"], note: "tug2 gig2-ga-ni ... u8 gig2-ĝu10; kaš saĝ ... ga sig7-a; ninda ... ga; gu2 di4-di4-la2 ... ga-ar3 tur-tur; then i3 niĝ2 dirig-ga 'extra butter'"}
+      - {motif: dumuzid-provokes-quarrel, refs: ["ETCSL 4.08.33 65-73"], note: "edin-a-na sipad-de3 ... du14 mu-un-di-ni-ib-mu2-mu2"}
+      - {motif: rival-reconciled-and-invited-to-wedding, refs: ["ETCSL 4.08.33 74-87"], note: "a-na-aš mu-da-ab-sa2-e-en / udu-zu u2 peš10 ḫe2-em-mi-gu7 ... {id2}surungal-ĝa2 a ḫa-ba-ni-in-naĝ; engar gu5-li-ĝa2 na-ba-ni-in-kur9-ra; gifts of wheat, beans, barley"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.08.33 89"], note: "ki-sikil {d}inana za3-mi2-zu dug3-ga-am3"}
+    hints:
+      - "Farmer and shepherd as rivals before the deity: compare Gen 4:2-8 (Cain the tiller and Abel the shepherd; one offering preferred). Here the rivalry ends in reconciliation instead of murder."
+      - "Peaceful grazing agreement between rivals: compare Gen 13:8-9 and Gen 26:19-31."
+  - id: ane-etcsl-4-12-2-a-martu-praised
+    tradition: ane-sumerian
+    title: A hymn to Martu, segment A - Martu's birth and epithets (Martu B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.12.2 A:1-11"]
+    tags:
+      - {motif: goddess-raised-on-knees-of-an, refs: ["ETCSL 4.12.2 A:3-4"], note: "here said of a god, Martu: saĝ an gal ri-a dub3 kug-ga peš-e 'engendered by great An, brought up on his holy knees'; u3-tud-da {d}uraš-a 'born of Uraš'"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 4.12.2 A:6"], note: "applied to the god: kur gal {d}en-lil2-le nam dug3-ge-eš tar-ra 'granted a good destiny by the Great Mountain Enlil'"}
+      - {motif: god-judgments-unsearchable, refs: ["ETCSL 4.12.2 A:10"], note: "dug4-ga-ni u3-en3 nu-ša4 'his words cannot be unravelled'; umuš ĝalga 'intelligence and counsel'"}
+      - {motif: deity-called-peerless-dragon, refs: ["ETCSL 4.12.2 A:2"], note: "ušum zag dib 'peerless dragon'; mu maḫ-a sa4-a 'named with an august name' in heaven and earth"}
+    hints:
+      - "Compare Isa 40:13-14, 28 ('his understanding is unsearchable') and Rom 11:33."
+  - id: ane-etcsl-4-12-2-b-martu-blessing
+    tradition: ane-sumerian
+    title: A hymn to Martu, segment B - prayers and blessing (Martu B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.12.2 B:1-15"]
+    tags:
+      - {motif: anointing-people-with-cedar-oil, refs: ["ETCSL 4.12.2 B:5", "ETCSL 4.12.2 B:10"], note: "šim {ĝiš}erin-na 'aromatic oil of cedar'; niĝ2 šu dug4-ga-ni šim {ĝiš}erin-na-gin7 ... ḫa-ba-dug3 'may the work of his hands be sweet as cedar oil'"}
+      - {motif: dew-falls-on-body, refs: ["ETCSL 4.12.2 B:6"], note: "im-du8-gin7 su-za šeĝ3-šeĝ3 'raining on your body like dew' (reading uncertain)"}
+      - {motif: blessing-on-city-wives-and-children, refs: ["ETCSL 4.12.2 B:11-12"], note: "iri ḫe2-sud dam dumu-bi ḫe2-sag9 / nam-til3 ud su3-ud-da saĝ-e-eš ḫe2-en-na-rig7"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 4.12.2 B:12", "ETCSL 4.12.2 B:14"]}
+    hints:
+      - "Compare Ps 133:2-3 (oil running down, the dew of Hermon) and Ps 128:3-6 (wife and children, long life)."
+  - id: ane-etcsl-4-13-01-nanna-herds
+    tradition: ane-sumerian
+    title: A balbale to Nanna - the cows of Suen and his mother's blessing (Nanna A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.01 1-61"]
+    tags:
+      - {motif: moon-gods-herd-of-cows, refs: ["ETCSL 4.13.01 1-14"], note: "me-a lu ab2 me-a lu-lu / šilam {d}suen; gig2-bi {na4}za-gin3 duru5-am3 / ab2-ba babbar-bi iti6 e3-a-am3 'the pale cows are the light of the risen moon'; little ones like barleycorns, big ones like wild bulls"}
+      - {motif: moon-god-pours-milk-at-offering-table, refs: ["ETCSL 4.13.01 9-10", "ETCSL 4.13.01 37-40"], note: "ga ab2 sig7-a-bi banšur-ra i-ni-in-de2 / šu dadag-ge ga na-tum3-tum3"}
+      - {motif: mother-prays-for-god-son, refs: ["ETCSL 4.13.01 15-20", "ETCSL 4.13.01 25-36", "ETCSL 4.13.01 41-60"], note: "ama ugu-ni nin nibru{ki}-ke4 / en-ra edin-a-na a-ra-zu mu-na-ab-be2: Ninlil prays for him"}
+      - {motif: moon-god-as-new-moon-and-bull, refs: ["ETCSL 4.13.01 28", "ETCSL 4.13.01 43"], note: "{d}suen amar za-gin3 dub3 kug-ga peš-a 'shining calf grown fat on the holy lap'; am an-ne2 ... pad3-da 'wild bull called by An'"}
+      - {motif: god-given-kingship-of-heaven-by-an, refs: ["ETCSL 4.13.01 49-56"], note: "nam-sipad kalam-ma an-ne2 ma-ra-an-šum2 ... an-ne2 šag4 maḫ-a-na nam-lugal ma-ra-an-šum2 / iri-zu urim2{ki} šag4-ge bi2-pad3 ... nam-lugal an-na za-ra mu-ra-an-šum2"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["ETCSL 4.13.01 59"], note: "{d}utu-gin7 su8-ba kalam-ma-me-en: the moon god is shepherd of the land 'like Utu'"}
+      - {motif: moonlight-shines-for-king-like-daylight, refs: ["ETCSL 4.13.01 58-60"], note: "iti6-zu kug-ga-am3 dadag-ga-am3 ... {d}nanna lugal-ra ud-de3-eš-e mu-un-e3"}
+      - {motif: king-son-of-enlil, refs: ["ETCSL 4.13.01 51", "ETCSL 4.13.01 55"], note: "said of the god: dug4-ga zid dumu {d}en-lil2-la2-me-en; dumu-saĝ {d}en-lil2-la2 'first-born of Enlil'"}
+      - {motif: moon-god-as-barge-of-heaven, refs: ["ETCSL 4.13.01 41"], note: "lugal ma2-gur8 kug an-na dirig-ga 'the king, the holy barge which travels across the sky'"}
+    hints:
+      - "Heavenly bodies as a flock or host numbered and named: compare Isa 40:26 and Ps 147:4."
+      - "Compare Ps 2:7 ('you are my son') and Ps 89:28 (the firstborn)."
+      - "The moon as a sign of the god: compare Q 36:39 (the moon's stations till it returns like an old palm stalk) and Ps 104:19."
+  - id: ane-etcsl-4-13-02-nanna-and-ningal
+    tradition: ane-sumerian
+    title: A balbale to Nanna - Nanna woos Ningal (Nanna B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: bilingual (Sumerian with Akkadian glosses)
+    read: ["ETCSL 4.13.02 1-60"]
+    tags:
+      - {motif: suitor-gathers-gifts-before-going-to-bride, refs: ["ETCSL 4.13.02 32-49"], note: "nunuz-bi mu-ra-ab-ri 'I will gather their eggs for you'; ambar maḫ-a suḫur{ku6}; {dug}šakir3 kug ... {d}šu-ni-du7 (churning); refrain {d}nin-gal e2-zu-še3 ĝe26-e ga-mu-ra-da-ĝen 'Ningal, I shall go with you to your house'"}
+      - {motif: goddess-longs-to-go-to-lover-without-mother, refs: ["ETCSL 4.13.02 50-53"], note: "e-me-da nu-me-a / {d}nin-gi-kug-ga-da nu-me-a ... nu-uš-mu-e-ši-di-di-in 'if only I could come to you without my mother'"}
+      - {motif: if-not-for-mother-lover-would-chase, refs: ["ETCSL 4.13.02 50-53"], note: "the reverse: the mother is the obstacle the girl wishes away"}
+      - {motif: brings-lover-to-mothers-house, refs: ["ETCSL 4.13.02 42-43", "ETCSL 4.13.02 49"], note: "ama ugu-zu {d}nin-gi-kug-ga ... e2-zu-še3 ĝe26-e ga-mu-ra-da-ĝen"}
+      - {motif: en-priestess-in-gipar, refs: ["ETCSL 4.13.02 37"], note: "zirrux {d}nin-gal 'high priestess of Nanna' as Ningal's title"}
+      - {motif: goddess-sister-lover-dialogue, refs: ["ETCSL 4.13.02 21-27", "ETCSL 4.13.02 55-59"], note: "ur2 mu-ud-na-ĝu10 'the embrace of my spouse'; i-lu-zu ze2-ba-am3 i-lu ša3-ab-ĝa2-kam 'your chant is sweet, the chant of my heart'; lines 2-20 lost"}
+    hints:
+      - "Compare Song 8:1-2 (the mother's house) and Song 2:14 ('let me hear your voice, for your voice is sweet')."
+  - id: ane-etcsl-4-13-03-aa-urim-and-enheduana
+    tradition: ane-sumerian
+    title: A balbale to Nanna, segment A.A - praise of E-kiš-nu-ĝal and En-ḫedu-ana (Nanna C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: bilingual (Sumerian with Akkadian glosses)
+    read: ["ETCSL 4.13.03 A.A:1-42"]
+    tags:
+      - {motif: i-will-glorify-your-name-temple, refs: ["ETCSL 4.13.03 A.A:3-4", "ETCSL 4.13.03 A.A:10"], note: "nam-maḫ-za ga-ri-dug4 / urim2{ki} mu-zu pa ga-an-e3 / su3-ra2-še3 mu-zu pa ga-an-e3"}
+      - {motif: temple-emerges-from-pure-mountain, refs: ["ETCSL 4.13.03 A.A:5"], note: "ḫur-saĝ sikil šag4 kug-ta e3-a"}
+      - {motif: god-given-kingship-of-heaven-by-an, refs: ["ETCSL 4.13.03 A.A:8"], note: "an-da nam-lugal mu-un-da-e-ba 'with An you bestow kingship'"}
+      - {motif: enheduana-high-priestess-named, refs: ["ETCSL 4.13.03 A.A:15", "ETCSL 4.13.03 A.A:35-36", "ETCSL 4.13.03 A.A:41"], note: "en-ḫe2-du7-an-na-ĝu10 an-na ḫe2-dirig 'may my En-ḫedu-ana excel even An'; zirrux"}
+      - {motif: en-priestess-in-gipar, refs: ["ETCSL 4.13.03 A.A:16-18", "ETCSL 4.13.03 A.A:32"], note: "šu-luḫ ĝi6-par4-ra; ĝi6-par4 šag4 ḫul2-la-ĝu10"}
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.13.03 A.A:17", "ETCSL 4.13.03 A.A:26", "ETCSL 4.13.03 A.A:38"], note: "me nam-en-na; me gal-gal-la; most of A.A:19-42 broken after the first words"}
+    hints:
+      - "A high priestess as wife of the god in the ĝipar: compare the 'god's wife' and the women who serve at the tent (1 Sam 2:22, Exod 38:8)."
+  - id: ane-etcsl-4-13-03-bb-purity-of-temple-grain
+    tradition: ane-sumerian
+    title: A balbale to Nanna, segment B.B - the purity of Suen's palace (Nanna C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: bilingual (Sumerian with Akkadian glosses)
+    read: ["ETCSL 4.13.03 B.B:1-19"]
+    tags:
+      - {motif: purity-rules-for-temple-grain, refs: ["ETCSL 4.13.03 B.B:5-8"], note: "še-zu ... sikil-la ma-ra-ar3-ar3-e / niĝ2-ar3-ra-zu a nu-tag-ge / munu4-zu niĝ2 šu bal nu-ak-dam"}
+      - {motif: who-can-know-the-temple, refs: ["ETCSL 4.13.03 B.B:9"], note: "e2-gal {d}suen-na lu2 a-na-zu mu-un-zu 'palace of Suen, what do men know of you?'"}
+      - {motif: enheduana-high-priestess-named, refs: ["ETCSL 4.13.03 B.B:14"], note: "{d}nin-gal en-ḫe2-du7-an-na-ĝu10"}
+      - {motif: i-will-glorify-your-name-temple, refs: ["ETCSL 4.13.03 B.B:16-17"]}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.13.03 B.B:18-19"], note: "ĝiš-gi4-ĝal2-bi-im; bal-bal-e {d}nanna-kam"}
+    hints:
+      - "Purity of grain offerings: compare Lev 2:11 and 6:9-11 (unleavened, holy) and Lev 11:38 (seed made susceptible once water touches it)."
+  - id: ane-etcsl-4-13-04-nanna-cattle-pen
+    tradition: ane-sumerian
+    title: A balbale to Nanna - Nanna's cattle-pen and the abundance of fish and birds (Nanna D)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: bilingual (Sumerian with Akkadian glosses)
+    read: ["ETCSL 4.13.04 1-41"]
+    tags:
+      - {motif: moon-gods-herd-of-cows, refs: ["ETCSL 4.13.04 1-5"], note: "lu-lu-a-bi u2-šim ki dar-re-dam 'as numerous as the grasses breaking through the earth'; {na4}za-gin3; {d}nanna e3-a-am3 'colour of the rising moon'"}
+      - {motif: churn-song-for-goddess, refs: ["ETCSL 4.13.04 8-12"], note: "{dug}šakir3 7-e ... i3 kug-ga-am3 ga kug-ga-am3: seven churns resound for her"}
+      - {motif: woman-forbidden-to-eat-from-holy-pen, refs: ["ETCSL 4.13.04 13-14"], note: "munus-e nu-na8-na8 / munus-e nu-gu7-e; Akkadian si2-ni-iš-tum u2-ul ..."}
+      - {motif: fish-and-birds-abundant-in-gods-domain, refs: ["ETCSL 4.13.04 19-24"], note: "ku6 mušen sug4-ga-am3; suḫur{ku6}-e a-ab-gur 'the carp grow fat'"}
+    hints:
+      - "Holy food forbidden to some women: compare Lev 22:12-13 (a priest's daughter married to a layman may not eat the holy portions) and Lev 6:11, 22 (only males of the priests eat)."
+      - "Numerous as grass: compare Job 5:25 and Ps 72:16."
+  - id: ane-etcsl-4-13-05-nanna-purified-enthroned
+    tradition: ane-sumerian
+    title: A hymn to Nanna - Nanna's powers and his purification and enthronement (Nanna E)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.05 1-69"]
+    tags:
+      - {motif: gods-confer-powers-on-younger-god, refs: ["ETCSL 4.13.05 5-19"], note: "nam-lugal an ki-zu an gal-e šu daĝal mu-ri-in-dug4 / nam-dumu nun gal-zu {d}en-lil2-le ... / {d}en-ki ... nam-men nam-maḫ-zu mu-ri-in-tar"}
+      - {motif: god-given-kingship-of-heaven-by-an, refs: ["ETCSL 4.13.05 7"]}
+      - {motif: moon-crescent-of-seventh-day, refs: ["ETCSL 4.13.05 13"], note: "{d}nanna ud-sakar-zu ud-sakar 7-bi mu pad3-da (ETCSL: 'crescent moon of the seventh day (?)')"}
+      - {motif: fifty-names-of-god, refs: ["ETCSL 4.13.05 14-16"], note: "only partly: Enlil names his name 'a holy name' and the great assembly (unken maḫ) bestows on him the status (nam) of Enlil"}
+      - {motif: god-chosen-to-surpass-gods, refs: ["ETCSL 4.13.05 20"], note: "{d}a-nun-na-ke4-ne-er ḫa-la ba-an-pad3 'he chose as your share that you surpass the Anuna'"}
+      - {motif: gods-banquet-and-decree-fates, refs: ["ETCSL 4.13.05 21-26"], note: "diĝir gal-gal-e-ne nidba-eš gal ba-an-pad3 ... sizkur2 ... im-mi-ni-in-šum2-šum2"}
+      - {motif: god-purifies-rites, refs: ["ETCSL 4.13.05 27-40"], note: "Enki purifies the dwelling (ki-tuš ma-ra-ab-sikil-e), consecrates heaven; e2-kiš-nu-ĝal2 e2 tir {ĝiš}erin-na 'house of the cedar forests'; Kusu sets up lustrations; gir4 gud udu ninda 'oven for oxen, sheep and bread'"}
+      - {motif: god-bathes-anointed-enthroned-with-horned-crown, refs: ["ETCSL 4.13.05 41-48", "ETCSL 4.13.05 61-68"], note: "peš10 maḫ a tu5-a-zu / i3 ḫur-saĝ su kug ĝal2-la-zu / barag maḫ-zu ba-ĝar-ra / gada maḫ keše2 saĝ il2 si mul suḫ10-gir11 nam-men-na"}
+      - {motif: hands-purified-with-oil-for-offering-table, refs: ["ETCSL 4.13.05 49-55"], note: "{d}nin-gublaga ... šu im-ma-an-kug-ga / {d}taraḫ abzu eridug{ki}-ta šu-bi i3 im-sikil-e; Kusu 'who purifies hands'"}
+      - {motif: en-priestess-in-gipar, refs: ["ETCSL 4.13.05 56-60"], note: "rather Ningal as lady of the E-kiš-nu-ĝal, the Agrun-kug, Nanna's house of royalty"}
+      - {motif: anointing-oil-poured-on-head, refs: ["ETCSL 4.13.05 46", "ETCSL 4.13.05 69"], note: "said of the god's own body: i3 ḫur-saĝ; catch-line i3 kug i3 sikil i3 dadag-ge 'sacred oil, pure oil, cleansing oil'"}
+    hints:
+      - "The god's dais, linen and crown: compare Lev 8:6-12 (Aaron washed, clothed in linen, anointed, crowned with the diadem) and Exod 30:17-21 (washing hands before approaching the altar)."
+      - "Compare Ps 89:6-8 (none among the sons of god is like the LORD) and Ps 97:9."
+  - id: ane-etcsl-4-13-06-herds-of-nanna
+    tradition: ane-sumerian
+    title: The herds of Nanna (Nanna F)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.06 1-45"]
+    tags:
+      - {motif: moon-stands-like-sun-at-noon, refs: ["ETCSL 4.13.06 1-8"], note: "kur suḫ3-suḫ3-ḫa-ta e3-a-ni / an-bar7-ra {d}utu-gin7 bi2-in-gub"}
+      - {motif: moon-visible-at-noon, refs: ["ETCSL 4.13.06 5-8"]}
+      - {motif: father-god-speaks-day-and-night-with-son, refs: ["ETCSL 4.13.06 9-13"], note: "{d}en-lil2-le inim-ma-ni zid-da / ud-de3 ĝi6-a inim mu-un-di-ni-ib2-be2 / eš-bar-ra nam mu-un-di-ni-ib2-tar-re"}
+      - {motif: gods-herd-counted-in-huge-numbers, refs: ["ETCSL 4.13.06 14-35"], note: "four ĝipars, four pens one eše each; ab2 ḫi-a-ni 36000 + 3600; 108000; 126000; 50400; ab2-šilam 36000 × 5; herds seven, herdsmen seven; šid gal-bi {d}nisaba-ke4 ... im-ma bi2-ib-gub-be2 'Nisaba writes it on clay'"}
+      - {motif: moon-gods-herd-of-cows, refs: ["ETCSL 4.13.06 18-30", "ETCSL 4.13.06 36"]}
+      - {motif: scribal-goddess-holds-tablets, refs: ["ETCSL 4.13.06 33-35"]}
+      - {motif: fate-of-abundance-decreed-for-king, refs: ["ETCSL 4.13.06 37-41"], note: "i3 nam-ḫe2-ĝal2 ... kurun2 gal ḫur-saĝ lal3 ... lugal-ra du8 maḫ sikil-la-na mu-na-da-ab-šar2-re"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.13.06 36", "ETCSL 4.13.06 45"], note: "a-a {d}nanna za3-mi2"}
+    hints:
+      - "Huge exact counts of a god's or patriarch's flocks: compare Job 1:3 and 42:12, Num 31:32-47 (the counted booty), and 1 Kgs 8:63."
+      - "Recording a count in writing: compare Num 1 and 2 Sam 24:1-9."
+  - id: ane-etcsl-4-13-07-a-nanna-and-ninhursaga
+    tradition: ane-sumerian
+    title: A hymn to Nanna, segment A - fragments (Nanna G)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.07 A:1-17"]
+    tags:
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.13.07 A:1-12"], note: "each line repeated with {d}nanna; en u6 di dug3-ga 'lord, sweet wonder'; munus ḫi-li šu du7 'the woman perfect in beauty'; ama gal {d}nin-ḫur-saĝ-ĝa2; line ends broken"}
+  - id: ane-etcsl-4-13-07-b-c-beauty-cover-me
+    tradition: ane-sumerian
+    title: A hymn to Nanna, segments B-C - 'May your beauty cover my body like a garment'; the E-kiš-nu-ĝal (Nanna G)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.07 B:1-17", "ETCSL 4.13.07 C:1-12"]
+    tags:
+      - {motif: beauty-covers-body-like-garment, refs: ["ETCSL 4.13.07 B:2-5"], note: "la-la-zu ma-ak-ak / ḫi-li-zu {tug2}X-gin7 bar-ĝa2 ḫe2-em-mi-dul"}
+      - {motif: moon-god-pours-milk-at-offering-table, refs: ["ETCSL 4.13.07 B:6-9"], note: "en šu sikil-e {dug}šakir3-e ḫe2-du7 'lord whose pure hands befit the churn'"}
+      - {motif: temple-shadow-over-sea, refs: ["ETCSL 4.13.07 B:10-14"], note: "e2 ĝissu-bi ab-šag4-ga la2-a 'the temple whose shadow extends into the midst of the sea'; su3-ud-še3 ḫe2-du3 'may you build it enduringly'"}
+    hints:
+      - "Clothed with beauty or with God's righteousness: compare Isa 61:10, Ps 104:1-2, Job 29:14."
+      - "Compare Ps 80:11-12 (its shade covered the mountains, its branches to the sea)."
+  - id: ane-etcsl-4-13-08-adab-to-nanna
+    tradition: ane-sumerian
+    title: An adab to Nanna - powers granted by An; litany of cities founded by An (Nanna H)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.08 A.A:1-12", "ETCSL 4.13.08 B.B:1-6", "ETCSL 4.13.08 B.C:7-10", "ETCSL 4.13.08 B.D:11-15"]
+    tags:
+      - {motif: god-chosen-to-surpass-gods, refs: ["ETCSL 4.13.08 A.A:3-8"], note: "e2-kur-re ... {d}suen gaba-šu-ĝar nu-mu-ni-tuku-am3 'Suen has no rival in E-kur'; me al nu-di diĝir-re-e-ne 'powers other gods cannot aspire to'"}
+      - {motif: gods-confer-powers-on-younger-god, refs: ["ETCSL 4.13.08 A.A:5-9"], note: "me-zu me maḫ-am3 an-ne2 šum2-ma-a-am3 ... {d}en-lil2-le nam-e-eš2 mu-ri-in-tar"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 4.13.08 A.A:1"], note: "of the god himself: en zid nam tar-ra 'righteous lord who determines destiny'"}
+      - {motif: city-founded-by-an-refrain, refs: ["ETCSL 4.13.08 B.B:1-5", "ETCSL 4.13.08 B.D:11-13"], note: "e2 ... iri an-ne2 ki ĝar-ra; Lugalbanda's house, Inana in Zabalam; urim2{ki} eš3 kur-ra"}
+      - {motif: anuna-stand-in-service, refs: ["ETCSL 4.13.08 B.C:7-9"], note: "{d}en-ki {d}nin-ki-ne ... me šu ši-im-du7-du7-ne diĝir-diĝir a-nun-na am3-ma-sug2-sug2-ge"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.13.08 B.B:6", "ETCSL 4.13.08 B.C:10", "ETCSL 4.13.08 B.D:14-15"], note: "sa-ĝar-ra-am3 / ĝiš-gi5-ĝal2 sa-ĝar-ra-bi-im / u18-ru12-bi-im / a-da-ab {d}nanna-kam"}
+    hints:
+      - "Compare Ps 86:8 and Exod 15:11 ('who is like you among the gods?') and Ps 87:1-5 (the city whose foundation is on the holy mountains, founded by the Most High)."
+  - id: ane-etcsl-4-13-09-where-have-you-tended-your-cows
+    tradition: ane-sumerian
+    title: A tigi to Nanna - Urim in the marsh; 'Where have you tended your cows?' (Nanna I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.09 A:1-16", "ETCSL 4.13.09 B:17-40", "ETCSL 4.13.09 B:A-H", "ETCSL 4.13.09 B:41-42"]
+    tags:
+      - {motif: god-founds-city-in-marsh, refs: ["ETCSL 4.13.09 A:1-9"], note: "sug gal sug muš-a e2-a-ni ba-ni-in-la2 / iri-ni eš3 urim2{ki} mu-še3 ba-an-sa4; e2 gud-gin7 ar2 im-me 'the house gives praise like a bull'"}
+      - {motif: city-founded-on-drained-marsh, refs: ["ETCSL 4.13.09 A:3-5"]}
+      - {motif: where-have-you-tended-your-cows, refs: ["ETCSL 4.13.09 B:17-40", "ETCSL 4.13.09 B:A-H"], note: "e {d}nanna {d}nanna ab2-zu me-a mu-u8-lu ... dumu-saĝ {d}en-lil2-la2 uĝ3 me-a mu-u8-lu: cows and people in parallel; answer e2-mud-kur-ra-ĝu10 ab2-ĝu10 ba-ši-in-lu"}
+      - {motif: lover-as-shepherd-at-noon, refs: ["ETCSL 4.13.09 B:17", "ETCSL 4.13.09 B:33"], note: "the question form only: 'where have you tended your cows, youthful noble shepherd?'; not an erotic context here"}
+      - {motif: god-as-shepherd, refs: ["ETCSL 4.13.09 B:21", "ETCSL 4.13.09 B:25", "ETCSL 4.13.09 B:29", "ETCSL 4.13.09 B:37"], note: "uĝ3 me-a mu-u8-lu 'where have you tended the people?'"}
+      - {motif: city-older-than-dilmun-made-from-date-palm, refs: ["ETCSL 4.13.09 B:35", "ETCSL 4.13.09 B:39"], note: "partly: {ĝiš}ĝišnimbar nam-mu2 kur dilmun{ki} na-nam 'I let date palms grow as in the land of Dilmun'"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.13.09 A:16", "ETCSL 4.13.09 B:41-42"], note: "sa-gid2-da-am3; sa-ĝar-ra-am3; tigi {d}suen-na-kam"}
+    hints:
+      - "Compare Song 1:7 ('tell me, you whom my soul loves, where do you pasture your flock?') and Ps 23:1-2, Ps 80:2 (the god as shepherd of his people)."
+  - id: ane-etcsl-4-13-10-ululumama-to-nanna
+    tradition: ane-sumerian
+    title: An ululumama to Nanna - light in dark places and the love of creatures (Nanna J)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.10 1-33"]
+    tags:
+      - {motif: moon-god-as-new-moon-and-bull, refs: ["ETCSL 4.13.10 1-6"], note: "si-un3-na muš3 me-lem4 sud-sud; a alim 'seed of a bison'; ud še-er-zid men urim2{ki}-ma 'glittering light, crown of Urim'"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 4.13.10 8"], note: "of the god: aga zid ĝidru mul-mul"}
+      - {motif: moon-light-in-dark-places, refs: ["ETCSL 4.13.10 26-27"], note: "ki ku10-ku10 an-usan sud-sud-da / šul {d}suen iti6 niĝ2 giri17-zal uĝ3-e u6 mu-e"}
+      - {motif: astral-deity-lights-dark-place, refs: ["ETCSL 4.13.10 26"]}
+      - {motif: animals-love-their-young-under-moon, refs: ["ETCSL 4.13.10 28-31"], note: "u8-e sila4-bi mi2 dug3 im-me / ud5-de3 maš2-bi ... / šul-e nitalam-ni e-ne su3-ud mu-un-da-e / {d}suen-e {d}nin-gal sag9-ga-da šag4 mu-da-ab-kuš2-u3"}
+      - {motif: lion-epithet-of-god, refs: ["ETCSL 4.13.10 5", "ETCSL 4.13.10 25"], note: "piriĝ gal an kug-ga; piriĝ lu2-erim2-e inim kur2 di-de3; lines 10-18 fragmentary"}
+    hints:
+      - "Compare Ps 104:19-23 (the moon for seasons, beasts by night) and Ps 136:9 (the moon and stars to rule the night)."
+      - "Compare Isa 9:1 ('the people who walked in darkness have seen a great light') and Q 10:5, 71:16 (the moon made a light)."
+  - id: ane-etcsl-4-13-11-ningal-will-live-in-urim
+    tradition: ane-sumerian
+    title: A shir-namshub to Nanna - the cowherd Suen and Ningal's 'I will live there' (Nanna K)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.11 A.A:1-21", "ETCSL 4.13.11 B.B:1-28"]
+    tags:
+      - {motif: remote-as-heaven-refrain, refs: ["ETCSL 4.13.11 A.A:1-3"], note: "an-gin7 su3-ra2-e ki-gin7 [...] with Nanna and Ašimbabbar in turn"}
+      - {motif: moon-gods-herd-of-cows, refs: ["ETCSL 4.13.11 A.A:4-7", "ETCSL 4.13.11 A.A:14-16"], note: "mu-nu10-de3 ki ab2 lu-a-na ... amar lu-a-na; butter, iterda milk, cheese"}
+      - {motif: goddess-sister-lover-dialogue, refs: ["ETCSL 4.13.11 A.A:17-20"], note: "ama {d}nin-gal ... lu2 DI mu-ud-na-ĝu10 'my man, my lover'; lu2 a tu5-a-ĝu10 'my man who has bathed'"}
+      - {motif: land-fertile-under-blessed-king, refs: ["ETCSL 4.13.11 B.B:3-11"], note: "said of the god's rule: id2-da a-eštub si-a-na / a-šag4-ga še gu-nu / ambar-ra suḫur{ku6} / mu-gi-e gi sumun gi ḫenbur / tir-tir-e šeg9 šeg9-bar / pu2-kiri6 lal3 ĝeštin / mu-sar-re ḫi-iz{sar} za3-ḫi-li{sar} / e2-gal-e zi su3-ud-ĝal2 (the same list as ETCSL 4.08.30 50-59)"}
+      - {motif: goddess-will-live-in-gods-city, refs: ["ETCSL 4.13.11 B.B:12-24"], note: "ĝe26-e mu-un-til3-le; dub-la2-maḫ ki di ku5-re-za 'the place where judgments are given'; araḫ ĝeštin lal3; kar-zid-da kar ma2-gur8-ra; kur šim {ĝiš}erin-na; u3-mu-un mu-nu2 ba-ši-in-ga-an 'the bed is already there'"}
+      - {motif: kirugu-section-structure, refs: ["ETCSL 4.13.11 B.B:27-28"], note: "ki-ru-gu2 3-kam-ma; šir3-nam-šub {d}suen-na-kam"}
+    hints:
+      - "'Where you go I will go, where you lodge I will lodge': compare Ruth 1:16-17 and Ps 132:13-14 ('this is my resting place forever, here I will dwell')."
+      - "The same fertility list as Dumuzid-Inana D1: compare Ps 72:16 and Ps 65:10-14."
+  - id: ane-etcsl-4-13-12-shir-namgala-to-nanna
+    tradition: ane-sumerian
+    title: A shir-namgala to Nanna - the moon fixes months and year and regulates abundance (Nanna L)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.12 A:1-7", "ETCSL 4.13.12 B:8-17", "ETCSL 4.13.12 C:18-47", "ETCSL 4.13.12 D:48-53"]
+    tags:
+      - {motif: god-orders-days-months-years, refs: ["ETCSL 4.13.12 A:4", "ETCSL 4.13.12 C:18-19"], note: "ud-sakar itid gen6-ne2 'fixing the new moon and the months'; itid ud-sakar gen6-ne2 mu ki-bi-še3 an-ĝar 'sets the year in its place'"}
+      - {motif: moon-god-regulates-heavenly-waters, refs: ["ETCSL 4.13.12 C:22-27"], note: "mu nam-ḫe2-a-ka šu peš-peš-e-de3 / a-eštub ḫe2-ĝal2 nu-silig-ge / ubur an-na-ke4 si sa2-e-de3 'to regulate the nipples (udders) of heaven'"}
+      - {motif: deity-called-peerless-dragon, refs: ["ETCSL 4.13.12 C:18"], note: "{d}nanna ušum an ki"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 4.13.12 C:36-40"], note: "agrun-kug-ga nam zid-bi tar-ra; eš3-e urim2{ki}-ma nam dug3 mi-ni-ib-tar-re"}
+      - {motif: fate-decreed-cannot-be-altered, refs: ["ETCSL 4.13.12 D:50"], note: "dug4-ga zid nu-kur2-ru 'whose just word cannot be changed'"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.13.12 A:7", "ETCSL 4.13.12 B:17", "ETCSL 4.13.12 C:47", "ETCSL 4.13.12 D:52-53"]}
+    hints:
+      - "Compare Ps 104:19 (the moon made for seasons), Gen 1:14 (lights for signs, seasons, days and years), Q 10:5 ('he determined stations for it, that you may know the number of years and the reckoning')."
+      - "The 'udders/nipples of heaven' as rain sources: compare Gen 7:11 and 8:2 (windows of heaven) and Gen 49:25 (blessings of heaven above ... of breasts and womb)."
+  - id: ane-etcsl-4-13-13-nanna-in-emesal
+    tradition: ane-sumerian
+    title: A hymn to Nanna in syllabic Emesal spelling - ruler of Urim, mouth like a dragon (Nanna M)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: one ms. in syllabic (phonetic) orthography, the other standard
+    read: ["ETCSL 4.13.13 1-26"]
+    tags:
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.13.13 1-6", "ETCSL 4.13.13 7-14", "ETCSL 4.13.13 15-20", "ETCSL 4.13.13 21-26"], note: "every stanza sung twice, the second time naming Suen/Nanna"}
+      - {motif: city-awesome-like-sea, refs: ["ETCSL 4.13.13 2", "ETCSL 4.13.13 5"], note: "e-ri ab-ba-ge-en ni ba-ri-a-ta (= iri ab-ba-gin7 ni2 ri-a)"}
+      - {motif: monster-described-mouth-of-dragon-face-of-lion, refs: ["ETCSL 4.13.13 7-14"], note: "here praise of the god: piriĝ ušumgal ... su2-en ka šu-gal (= ka ušumgal) 'Suen, mouth like a dragon's'"}
+      - {motif: lion-epithet-of-god, refs: ["ETCSL 4.13.13 8", "ETCSL 4.13.13 12"]}
+      - {motif: god-arranges-table-of-an, refs: ["ETCSL 4.13.13 15-20"], note: "unu6 gal-la-ni banšur an-na-ka šu im-ma-gi-gi 'in his great banqueting hall he arranges the table of An'"}
+      - {motif: black-headed-raise-eyes-to-god, refs: ["ETCSL 4.13.13 21-26"], note: "saĝ gig2-ga ... dumu-saĝ {d}en-lil2-la2 igi-bi ma-ra-ši-ĝal2"}
+    hints:
+      - "Compare Ps 121:1 and 123:1-2 ('to you I lift my eyes') and Ps 145:15 ('the eyes of all look to you')."
+  - id: ane-etcsl-4-13-14-tigi-for-nanna
+    tradition: ane-sumerian
+    title: A hymn to Nanna in syllabic spelling - moonlight for the king, tigi in the forecourt (Nanna N)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: syllabic (phonetic) orthography
+    read: ["ETCSL 4.13.14 1-33"]
+    tags:
+      - {motif: moonlight-shines-for-king-like-daylight, refs: ["ETCSL 4.13.14 10-17"], note: "e i lu2-gal-ĝu10 u3 zid ši-mu-nu (= lugal-ĝu10 ud zid ši-mu-un-e3) 'it has come forth for my king like the good daylight'"}
+      - {motif: temple-music-drums-and-harps, refs: ["ETCSL 4.13.14 22-27"], note: "ki-sa2-al ma-ḫe ninda ba-ĝa2-ra-zu / ti-gi ni5 du-ge si ḫa-pa3-ne-sa2"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.13.14 10-17", "ETCSL 4.13.14 22-33"]}
+      - {motif: prayer-for-city-prosperity, refs: ["ETCSL 4.13.14 28-33"], note: "URU×UD{ri}-zu ḫe-ĝa2-la ḫe-da-an-du / u3-ri-ma gu an-še3 ḫe-en-zig3-ge 'may your city prosper, may you raise your head in Urim'"}
+      - {motif: god-chooses-king-from-multitude, refs: ["ETCSL 4.13.14 18-19"], note: "uncertain, broken: en ša-ge ba-da-na (= šag4-ge pad3-da) 'the ruler whom you have chosen'"}
+    hints:
+      - "Compare Ps 122:6-9 ('pray for the peace of Jerusalem ... may there be prosperity within your towers') and Ps 150:3-5."
+  - id: ane-etcsl-4-13-15-a-nanna-in-four-quarters
+    tradition: ane-sumerian
+    title: A hymn to Nanna, segment A - the Anuna attend, the black-headed raise their eyes (Nanna O)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.15 A:5-31"]
+    tags:
+      - {motif: high-gods-cherish-younger-god, refs: ["ETCSL 4.13.15 A:7-12"], note: "an {d}en-lil2 {d}en-ki {d}nin-ḫur-saĝ-ĝa2-ke4 / ki-ulutim2-zu-a mi2 zid ša-ra-ne-ne; lines A:1-4 lost"}
+      - {motif: anuna-stand-in-service, refs: ["ETCSL 4.13.15 A:13-14"], note: "šul {d}suen du-du-da-zu-ne / diĝir-diĝir a-nun-na ši-im-ma-sug2-sug2-ge-eš"}
+      - {motif: black-headed-raise-eyes-to-god, refs: ["ETCSL 4.13.15 A:15-20"], note: "an ub-da 4 uĝ3 saĝ gig2-ga / dumu-saĝ {d}en-lil2-la2 igi-bi ma-ra-ši-ĝal2"}
+      - {motif: moonlight-shines-for-king-like-daylight, refs: ["ETCSL 4.13.15 A:21-28"], note: "iti6-zu kug-ga-am3 dadag-ga-am3 / e i lugal-ra ud-de3-eš mu-un-e3"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.13.15 A:9-12", "ETCSL 4.13.15 A:17-20", "ETCSL 4.13.15 A:25-28"], note: "repeats abbreviated by the scribe (<...>)"}
+    hints:
+      - "Compare Ps 145:15 and Isa 45:22 ('turn to me and be saved, all the ends of the earth')."
+  - id: ane-etcsl-4-13-15-b-c-procession-to-temples
+    tradition: ane-sumerian
+    title: A hymn to Nanna, segments B-C - 'We are going' to the temples of Šulgi's realm (Nanna O)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.13.15 B:1-32", "ETCSL 4.13.15 C:1-2"]
+    tags:
+      - {motif: pilgrimage-litany-we-are-going, refs: ["ETCSL 4.13.15 B:3-19"], note: "in-ĝa2-e-re7-en-de3-en ... eš3 nibru{ki} dur-an-ki-še3 / tu-tu-ba / abzu maḫ ... uru2-ze2-ba / e2-šu-me-ša4 / e2-kiš-nu-ĝal2 / agrun-kug / e2-ḫur-saĝ / e2-nam-til3-la nun šul-gi-še3"}
+      - {motif: supplicants-go-to-goddess-for-king, refs: ["ETCSL 4.13.15 B:3-6", "ETCSL 4.13.15 B:25-28"], note: "u3-mu-un-na-še3 / nun {d}šul-gi-ra-še3; X ub-a-ke4 ub-e ḫu-mu-ri-in-ša4 ... {d}inana an-na-ke4 ḫi-li-a: the same formulae as ETCSL 4.07.9 B:22-29"}
+      - {motif: clean-hands-pure-heart, refs: ["ETCSL 4.13.15 B:7-10"], note: "interpretive: the pure lips and hearts describe the destination of the procession, not an entrance condition; iri ki-bi gi4-a-še3 / inim inim-ĝar sag9-ge-še3 / šu-um-du-um šag4 šuba4-še3 / me-ri ki-a sig10-ga-še3 'to where lips and hearts are pure, to where feet are firm'"}
+      - {motif: house-of-life-enamtila, refs: ["ETCSL 4.13.15 B:19"], note: "e2-nam-til3-la nun šul-gi: here Šulgi's E-namtila"}
+      - {motif: lover-comes-forth-like-daylight, refs: ["ETCSL 4.13.15 B:20", "ETCSL 4.13.15 C:2"], note: "ki-ĜAR.KA {d}suen-na-ka {d}utu ḫe2-me-en 'may you be Utu'"}
+      - {motif: inana-titled-lady-of-heaven, refs: ["ETCSL 4.13.15 B:27"], note: "{d}inana an-na-ke4"}
+    hints:
+      - "Compare Ps 122:1-4 ('let us go to the house of the LORD'), Isa 2:3, and Ps 24:3-4 ('who shall ascend ... he who has clean hands and a pure heart')."
+  - id: ane-etcsl-4-14-1-a-nanshe-carer-of-widow
+    tradition: ane-sumerian
+    title: A hymn to Nanshe, lines 1-31 - Niĝin and the goddess who cares for orphan and widow (Nanshe A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.1 1-31"]
+    tags:
+      - {motif: there-was-a-city-opening, refs: ["ETCSL 4.14.1 1-4"], note: "iri{ki} na-nam iri{ki} na-nam me-bi na-pad3-de3; kur a-ta il2-la 'the mountain rising from the water'"}
+      - {motif: storehouses-full-through-goddess, refs: ["ETCSL 4.14.1 10-16"], note: "ama5 kalam-ma-ka dugud mu-un-de-ĝal2 / erim3-ma ... lal3 ... / dug a nu-silig-ge / {gi}pisaĝ niĝ2 erim3-ma kalam-ma-ka ... saḫar-ĝar id2-da-gin7"}
+      - {motif: goddess-mother-of-orphan-carer-of-widow, refs: ["ETCSL 4.14.1 20-27"], note: "nu-siki mu-un-zu nu-mu-un-su mu-un-zu ... nu-siki-ka ama-a-ni / {d}nanše nu-mu-un-su-a saĝ en3 tar-ra-a-ni / e2 ur5-ur5-ra (debt-slave) ... lu2-kar-ra (refugee) ... sig9-ga-ar ki mu-na-ab-kiĝ2-kiĝ2-e"}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["ETCSL 4.14.1 20-31"]}
+      - {motif: goddess-finds-husband-for-righteous-maiden, refs: ["ETCSL 4.14.1 28-31"], note: "geme2 si sa2 ĝiri3-ni mu-un-dab5-ba / {d}nanše šul a2 zid-da tuku-ni im-ma-ni-in-saĝ5-e / nu-mu-un-su lu2 dam nu-tuku-ni / ... ĝiš-ur3-gin7 e2 zid-da im-ma-an-gur3-ru-nam"}
+    hints:
+      - "Compare Ps 68:6-7 ('father of orphans and protector of widows is God ... God gives the lonely a home'), Deut 10:18, Ps 146:9, and Q 93:6-10 and 4:127."
+      - "Compare Ps 113:9 and Ruth 4:13 (a home for the widow)."
+  - id: ane-etcsl-4-14-1-b-gudea-and-the-banquet
+    tradition: ane-sumerian
+    title: A hymn to Nanshe, lines 32-58 - Ur-Nanše and Gudea, music and the banquet of Nanše (Nanshe A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.1 32-58"]
+    tags:
+      - {motif: goddess-chooses-ruler-and-gives-sceptre, refs: ["ETCSL 4.14.1 34-39"], note: "šennu šag4 kug-ge nam-mi-in-pad3 / ur-{d}nanše ... barag-ge mu-da-ab-si / sipad-ra ĝidru maḫ mu-na-an-šum2 / gu3-de2-a ... sipad šag4 kug-ge bi2-in-pad3-da-ni"}
+      - {motif: temple-music-drums-and-harps, refs: ["ETCSL 4.14.1 40-46"], note: "ab2 ḫe-nun tigi-a mu-ni-gub / balaĝ kug da-ba; a2 taraḫ nar gal-e 'the chief musician played the ibex horn'; the named song 'The house has been granted powers from the abzu'"}
+      - {motif: temple-banquet-prepared-for-deity, refs: ["ETCSL 4.14.1 47-58"], note: "ensi-ke4 (dream interpreter) ... eš-de2 kug mul-mul; ninda kum2 ninda te-en-na; niĝ2-šum-ma utul2 gal-la; a sed4-de3 id2-sirara{ki}-ta; kurun a2-dam-ta; gir4 gal unu2 gal-da sa2-a-ni"}
+      - {motif: dream-interpreter-serves-in-temple, refs: ["ETCSL 4.14.1 47"], note: "ensi-ke4 ne-saĝ-ĝa2 mu-na-an-ĝen 'the dream interpreter went into the sacristy'"}
+    hints:
+      - "The ruler chosen in the deity's heart and given the sceptre: compare 1 Sam 13:14 ('a man after his own heart') and Ps 45:7."
+      - "Music of horn, harp and drum in the sanctuary: compare Ps 150:3-5 and 1 Chr 15:16-28."
+  - id: ane-etcsl-4-14-1-c-offerings-rules-hendursaga
+    tradition: ane-sumerian
+    title: A hymn to Nanshe, lines 59-93 - regular offerings and Ḫendursaĝa who knows true from false speech (Nanshe A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.1 59-93"]
+    tags:
+      - {motif: good-wife-manages-household, refs: ["ETCSL 4.14.1 59-64"], note: "munus zid e2 zid-še3 lu2 ši-in-ĝa2-ĝa2 'as a good woman for a good household she makes the appointments'"}
+      - {motif: temple-offering-surplus-not-to-be-taken, refs: ["ETCSL 4.14.1 65-75"], note: "lu2 sa2-dug4-ba ... šu dirig la-ba-gid2-i-de3 ... u3-um-dib ka-ge nu-tag-ge / ninda eš3 dag-gi4-a nidba-še3 nu-u8-il2-i"}
+      - {motif: first-fruits-to-house-of-god, refs: ["ETCSL 4.14.1 76-82"], note: "ne-saĝ ĝar-ra-bi si im-sa2-e muš3 nu-tum2-mu-da 'the first-fruit festival should not stop'; butter, milk, fish and firewood carriers"}
+      - {motif: divine-herald-discerns-good-and-evil, refs: ["ETCSL 4.14.1 83-91"], note: "eme-ta ĝal2-la inim gen6 inim kur2 di; lugal-e zid dug4-ga mu-un-zu erim2 dug4-ga mu-un-zu (Ḫendursaĝa)"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.14.1 92-93"], note: "{d}nanše kur-kur-ra me-teš2 ḫe2-i-i (a mid-hymn doxology)"}
+    hints:
+      - "Abuse of the offerings by temple officials: compare 1 Sam 2:12-17 (Eli's sons take more than their share)."
+      - "Knowing good and evil, discerning true from false speech: compare 2 Sam 14:17 ('like an angel of God to discern good and evil') and 1 Kgs 3:9."
+  - id: ane-etcsl-4-14-1-d-new-year-registration
+    tradition: ane-sumerian
+    title: A hymn to Nanshe, lines 94-136 - the New Year review, the registration tablet and the river ordeal (Nanshe A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.1 94-136"]
+    tags:
+      - {motif: new-year-inspection-of-servants, refs: ["ETCSL 4.14.1 94-105"], note: "zag-mu ud ĝarza-ka ... ud bur šukur2-ra2 igi kar2-kar2-de3 ... dub-sar maḫ-a-ni {d}nisaba-ke4 / dub kal-kal dub3-ba nam-mi-in-ĝar / gi-dub-ba kug-sig17 šu ba-ši-in-ti; leather-clad and linen-clad servants admitted or refused"}
+      - {motif: new-year-festival-rite, refs: ["ETCSL 4.14.1 94-97"]}
+      - {motif: scribal-goddess-holds-tablets, refs: ["ETCSL 4.14.1 98-100"]}
+      - {motif: faithful-registered-unfaithful-deleted-from-tablet, refs: ["ETCSL 4.14.1 106-112"], note: "{d}ḫa-ia3 lu2 dub-ba-ke4 / saĝ zid nin-a-na bi2-in-dug4-ga im-ma bi2-in-gub-be2 / geme2 nin-a-na nu-um-mi-in-dug4-ga im-ma bi2-in-kid2-kid2: entered on the clay / removed from the clay"}
+      - {motif: heavenly-book-of-life, refs: ["ETCSL 4.14.1 106-112"], note: "interpretive: a register of the faithful from which the unfaithful are deleted; here an administrative tablet of the goddess's household"}
+      - {motif: negligent-priest-dismissed, refs: ["ETCSL 4.14.1 113-123"], note: "dug-dug a nu-de2-e ... e2 ĝi6 u3-na-ka izi dib-ba / šita-eš3-a bal gub-ba-ni / ki-gub-ba-ni-še3 muš3 ba-ši-in-tum2-mu; susbu and saĝĝa priests too"}
+      - {motif: no-addition-to-rites, refs: ["ETCSL 4.14.1 124-128", "ETCSL 4.14.1 134-135"], note: "inim-inim-ma-bi dirig nu-ĝa2-ĝa2 / ĝarza-bi-še3 la-ba-an-taḫ-e"}
+      - {motif: river-ordeal-clears-the-just, refs: ["ETCSL 4.14.1 129-130"], note: "e2 {d}nanše-ka id2-lu2-ru-gu2 lu2 mu-un-dadag"}
+    hints:
+      - "Names written in and blotted out of a divine register: compare Exod 32:32-33, Ps 69:29, Dan 12:1, Mal 3:16, and Q 83:7-9, 18-21 (the registers Sijjin and Illiyyun)."
+      - "'Do not add to it or take from it': compare Deut 4:2, 13:1, Prov 30:6, Rev 22:18-19."
+      - "Ordeal: compare Num 5:11-31 (the water of bitterness)."
+  - id: ane-etcsl-4-14-1-e-wrongdoers-and-the-heart
+    tradition: ane-sumerian
+    title: A hymn to Nanshe, lines 137-174 - the wrongdoers Nanshe rejects; she sees the heart of the land like a split reed (Nanshe A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.1 137-174"]
+    tags:
+      - {motif: catalogue-of-wrongdoers-barred-by-goddess, refs: ["ETCSL 4.14.1 137-162"], note: "niĝ2-a2-zig3 dim2-e 'who commits violence'; ki nam-erim2-ma-še3 saĝ gid2-i 'rushes to the place of oath'; lu2 dam tuku nu-mu-un-su-ra ... 'the married man who ... for the widow'; ud su-mu-ug-ga-na a-tar mu-un-da-ak-e 'who mocks his calamity'"}
+      - {motif: do-not-move-boundary-stone, refs: ["ETCSL 4.14.1 139"], note: "uš ĝar-ra šu i-ni-ib-bal-e-a in dub-ba kur2-ra 'who changes a firm foundation or alters a marked-out border'"}
+      - {motif: honest-weights, refs: ["ETCSL 4.14.1 142-143"], note: "na4 tur-re na4 gu-la-ar šu ba-an-zig3-ga / {ĝiš}ba-an tur-re {ĝiš}ba-an gu-la-ar 'a small weight for a large weight, a small ban measure for a large one'"}
+      - {motif: ingrate-will-not-say-i-have-eaten, refs: ["ETCSL 4.14.1 144-151"], note: "un-gu7 i3-gu7-bi li-bi2-in-dug4-ga / un-naĝ i3-naĝ-bi li-bi2-in-dug4-ga; Nanše refuses him ninda i3 nunuz dalla 'bread with fat and shining eggs'"}
+      - {motif: goddess-sees-into-heart-of-land, refs: ["ETCSL 4.14.1 163-173"], note: "šag4-ba igi mi-ni-in-ĝal2 ... šag4 kalam-ma gi ḫal-ḫal-la-gin7 {d}nanše igi mi-ni-in-ĝal2"}
+      - {motif: god-weighs-hearts, refs: ["ETCSL 4.14.1 173"]}
+      - {motif: social-peace-while-temple-built, refs: ["ETCSL 4.14.1 165-170"], note: "the reverse list of offences: ama dumu-ni gu3 a2 zig3 de2-a / dumu ama-a-ni-ir ka du3-a dug4-ga / šeš-ban3-da šeš-gal-a-ni-ir ... a-a-ra inim gi4-a"}
+    hints:
+      - "Compare Deut 25:13-16 and Prov 11:1, 20:10 (two kinds of weights), Deut 19:14 and 27:17 (boundary), Prov 30:15-16 and Deut 8:10-14 (the ingrate who eats and is not satisfied), and Q 83:1-3 (woe to the defrauders)."
+      - "God searches the heart: compare Jer 17:10, 1 Sam 16:7, Prov 15:3 and 21:2, Q 67:13."
+  - id: ane-etcsl-4-14-1-f-mother-and-child-lawsuit
+    tradition: ane-sumerian
+    title: A hymn to Nanshe, lines 175-222 - Ḫendursaĝa judges between mother and child (Nanshe A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.1 175-222"]
+    tags:
+      - {motif: divine-herald-discerns-good-and-evil, refs: ["ETCSL 4.14.1 181-192"], note: "zid-du zid-du-a bi2-in-gub-be2 / erim2-du ki-erim2-e ba-ab-šum2-mu / di nu-siki-ka i-ni-in-kud-de3 / di nu-mu-un-su-ka ba-da-ab-us2-e"}
+      - {motif: decrees-like-heavy-smoke-and-clouds, refs: ["ETCSL 4.14.1 185-188"], note: "i-bi2 dugud-gin7 ki am3-u2-us2 / inim-bi dungu sir2-sir2 an-da im-da-la2 / bulug nam-dam-ma 'needle of matrimony'"}
+      - {motif: mother-and-child-lawsuit, refs: ["ETCSL 4.14.1 193-222"], note: "di ama dumu-ka-kam si im-sa2-e / tukum-bi ama dumu-ni-ir ... ubur ga ĝal2-la-ni a ba-da-an-naĝ ... nam-tag-bi ugu ama dumu-ka-ka i-im-ĝa2-ĝa2-de3 / ... diĝir a-ra-zu-a nu-um-ma-an-tuku-tuku"}
+      - {motif: insolent-child-rejected-like-grain-on-salt-soil, refs: ["ETCSL 4.14.1 212-222"], note: "dumu ... ama iri gu-la mu-un-tud-da-ni-ir / igi ša-ra gu2 šub-bi-a inim ba-na-ni-in-dug4 ... lu2-ulu3-bi a-gin7 ki-lul-la im-mi-in-e / dumu-bi-ra še-gin7 saḫar sis zag mu-na-an-tag-ge"}
+      - {motif: stubborn-rebellious-son-stoned, refs: ["ETCSL 4.14.1 212-222"], note: "only partly: the insolent son is rejected by the divine judge, not executed"}
+      - {motif: god-hears-cry-of-widow-and-orphan, refs: ["ETCSL 4.14.1 191-192"]}
+      - {motif: protective-spirits-guard-temple, refs: ["ETCSL 4.14.1 175-180"], note: "{d}lamma-a-ni {d}dumu-tur-šu-gi4 / {d}udug ka gi gub-ba ... en-nu-uĝ3 ak-e"}
+    hints:
+      - "Compare Deut 21:18-21 (the rebellious son), Exod 21:15, 17 and Prov 20:20, 30:17 (the eye that mocks a father and scorns a mother), and Q 17:23-24 and 31:14 (kindness to the mother who bore and nursed)."
+  - id: ane-etcsl-4-14-1-g-standard-weights-and-praise
+    tradition: ane-sumerian
+    title: A hymn to Nanshe, lines 223-256 - standard weights and measures; doxology (Nanshe A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.1 223-256"]
+    tags:
+      - {motif: measures-standardized, refs: ["ETCSL 4.14.1 232-235", "ETCSL 4.14.1 241-242"], note: "na4 gen6-na kug la2-e-de3 gi-gur gen6-na gub-bu-de3 / {ĝiš}ba-an inim gen6-na kur-kur-ra šu ba-an-ĝa2-ĝa2-ne"}
+      - {motif: just-weights-and-measures, refs: ["ETCSL 4.14.1 234-235"]}
+      - {motif: divine-judge-ishtaran, refs: ["ETCSL 4.14.1 236-237"], note: "{d}ištaran di si sa2-a kalam-a til3-la-am3"}
+      - {motif: deity-decrees-fates-of-all-lands, refs: ["ETCSL 4.14.1 229", "ETCSL 4.14.1 253-255"], note: "nin {d}en-lil2-gin7 nam tar; {d}en-lil2-da barag nam tar-re-da mu-un-da-an-tuš-a"}
+      - {motif: deity-holds-all-divine-powers, refs: ["ETCSL 4.14.1 251-252"], note: "me-zu me maḫ-am3 me-a dirig-ga-am3 / {d}nanše me-zu me na-me nu-un-ga-an-da-sa2"}
+      - {motif: storehouses-full-through-goddess, refs: ["ETCSL 4.14.1 245-250"], note: "dug a nu-silig-ge-dam / {gi}pisaĝ-a muš3 nu-tum2-mu-da / nin erim3-ma"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.14.1 256"]}
+    hints:
+      - "Compare Lev 19:35-36, Ezek 45:10-12 (standard ephah, bath, shekel), and Q 55:7-9 ('he set up the balance: do not transgress in the balance')."
+  - id: ane-etcsl-4-14-2-nanshe-fish-and-boat
+    tradition: ane-sumerian
+    title: A balbale to Nanshe - fish as her regalia and her boat ride home (Nanshe B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.2 A:1-2", "ETCSL 4.14.2 B:1-23"]
+    tags:
+      - {motif: fish-serve-goddess-as-regalia, refs: ["ETCSL 4.14.2 B:1-12"], note: "ku6 ĝidru šu-na / ku6 {kuš}e-sir2 ĝiri3-na / ku6 izi ab-šag4-ga ... zalag / ku6 tug2-ba13; puns kaš4-kaš4{ku6} kaš4 ... gur4-gur4{ku6} ab ... gur4-gur4 ... ĝir2{ku6} ab ... ĝir2-re; ku6 sim{mušen} 'fishes fly like swallows'. Segment A is two broken lines"}
+      - {motif: wordplay-on-names, refs: ["ETCSL 4.14.2 B:7-9"], note: "each fish name is echoed by its verb: kaš4-kaš4 / kaš4; gur4-gur4 / gur4-gur4; ĝir2 / ĝir2"}
+      - {motif: goddess-rides-home-on-boat, refs: ["ETCSL 4.14.2 B:13-18"], note: "ga-ša-an-ĝen {ĝiš}ma2-gur8-še3 da-an-u5 me-e e2-še3 da-an-u5; a2-sumur3-bi kug-sig17 šim {ĝiš}erin-da; ĝiš-ḫum-bi iti6 giri17-zal-am3"}
+      - {motif: divine-boat-procession, refs: ["ETCSL 4.14.2 B:13-18"]}
+      - {motif: husband-tax-collector-of-sea, refs: ["ETCSL 4.14.2 B:19-20"], note: "mu-ud-na-ĝu10 mu-un-kud ab-ba-ka / u3-mu-un-dar-a mu-un-kud ab-ba-ka 'my husband Nindara is the tax-collector of the sea'"}
+    hints:
+      - "Wordplay on names: compare Jer 1:11-12 (šaqed / šoqed) and Amos 8:1-2 (qayiṣ / qeṣ)."
+      - "Compare Ps 104:25-26 (the sea teeming with creatures, where ships go) and Q 16:14 (the sea subjected for fresh fish and ornaments)."
+  - id: ane-etcsl-4-14-3-a-nanshe-and-the-birds
+    tradition: ane-sumerian
+    title: Nanshe and the birds, segment A - the pelican, the assembly of birds, raven, ostrich, peacock, vulture (Nanshe C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.3 A:1-63"]
+    tags:
+      - {motif: goddess-favourite-bird-pelican, refs: ["ETCSL 4.14.3 A:1-9", "ETCSL 4.14.3 A:20-22"], note: "u5{mušen} ĝiš-gi kug-ta nam-ta-e3 ... KA×X-KA×X-bi dug3-ga-am3 ... eš3 za-gin3-na ba-an-ĝar / u5{mušen} kug-ga ĝiri3-ni ba-an-dur2-ru"}
+      - {motif: goddess-as-cow-drinking-at-water, refs: ["ETCSL 4.14.3 A:10-13"], note: "e-ne an-ta ki-a gub-ba-am3 / šilam kug-gin7 ... / u5{mušen} kug šilam babbar a bar-ra a bi2-in-naĝ"}
+      - {motif: birds-assemble-at-goddess-command, refs: ["ETCSL 4.14.3 A:23-27"], note: "mušen-ĝu10 zar ab-du8-še3 gu2 ḫa-ma-ab-si-si / mušen an ki-a ḫe2-em-gub / mušen mu nu-zu sizkur ḫe2-em-tum2 / mušen sa nu-zu"}
+      - {motif: anzud-decides-fates-with-gods, refs: ["ETCSL 4.14.3 A:30"], note: "anzud{mušen}-de3 {d}a-nun-na-ke4-ne-bi nam mu-un-di-ni-ib2-tar-re"}
+      - {motif: bird-catalogue-with-calls, refs: ["ETCSL 4.14.3 A:28-60"], note: "voiceless bat (su-din); zu2-sis 'sharp-toothed bird' speaks wisdom; ḫu-ri2-in (lammergeier) kills wild bulls and stags; a12-ra2-bu (raven) nunuz-zu dadag-ga-am3; ga-nu11 (ostrich); {d}ḫa-ia3{mušen} (peacock?); te8 uš-bar 'vulture, weaver'"}
+      - {motif: ostrich-guards-eggs-by-night, refs: ["ETCSL 4.14.3 A:46-48"], note: "ga-nu11{mušen} ḫur-saĝ-ĝa2 nunuz ... / mušen-e ĝi6-a en-nu-uĝ3 im-mi-in-zu 'the bird knows how to keep watch at night'"}
+      - {motif: ostrich-abandons-eggs, refs: ["ETCSL 4.14.3 A:46-48"], note: "contrast: here the ostrich watches over her eggs on the hillside"}
+      - {motif: raven-eggs-carried-off, refs: ["ETCSL 4.14.3 A:43-45"], note: "a12-ra2-bu{mušen} nunuz-zu dadag-ga-am3 ... lu2 me-a ba-an-tum3 'where do people carry off your holy eggs?'"}
+      - {motif: bird-named-from-its-cry, refs: ["ETCSL 4.14.3 A:49-50"], note: "{d}ḫa-ia3{mušen} ... ud mi-ni-ib2-zal-zal-e: the ḫaia bird calls 'ḫaia'"}
+      - {motif: precious-bird-image-made-by-smith, refs: ["ETCSL 4.14.3 A:51-53"], note: "mušen {na4}gug-ta gug {na4}za-gin3-ta za-gin3 ... kug-sig17 ... tibira-e ḫu-mu-ri-ib-sig10-ge"}
+    hints:
+      - "The ostrich and her eggs: compare Job 39:13-18 (she leaves her eggs in the earth, forgetting a foot may crush them) and Lam 4:3. The Sumerian hymn says the opposite."
+      - "God and the birds: compare Job 38:41 and Ps 147:9 (the raven's young), Job 39:26-30 (hawk and eagle), Q 24:41 and 67:19 (every bird knows its prayer and praise), Q 27:16-20 (Solomon taught the speech of birds, the assembly of birds)."
+  - id: ane-etcsl-4-14-3-b-e-bird-catalogue
+    tradition: ane-sumerian
+    title: Nanshe and the birds, segments B-E - the catalogue of birds and closing praise (Nanshe C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.14.3 B:3-14", "ETCSL 4.14.3 C:1-17", "ETCSL 4.14.3 D:1-15", "ETCSL 4.14.3 E:1-20"]
+    tags:
+      - {motif: bird-catalogue-with-calls, refs: ["ETCSL 4.14.3 B:4-10", "ETCSL 4.14.3 C:7-17", "ETCSL 4.14.3 D:4-15", "ETCSL 4.14.3 E:1-16"], note: "misaz, muš-gu7 'snake-eater bird is green', kiši6-bar (egret) in linen, heron, stork, šeg5-šeg5 'cries like a baby', tum12 (dove) in the broad fields, tum12-gur4 (pigeon), ḫamun bird in linen; segment B mostly fragmentary"}
+      - {motif: bird-named-from-its-cry, refs: ["ETCSL 4.14.3 C:2-6", "ETCSL 4.14.3 E:12-16"], note: "niĝ2-gur11-ra-ni-še3 ... mušen-e niĝ2-gur11-mu-du-um{mušen} mu-še3 ba-an-sa4 'He-brings-his-property'; u3-ku-ku 'sleep bird' cries 'dilibipila'; sipad{mušen} cries 'uludig'; ti-ri2-da ... ti-ri2-da ba-e-sa4"}
+      - {motif: dove-moans-in-field, refs: ["ETCSL 4.14.3 D:7-8"], note: "tum12{mušen}-e gana2 daĝal-la mi2 bi2-ib2-[X] / tum12-gur4{mušen}-e kislaḫ lugal-la gig-bi bi2-ib2-[...]: the dove ... gently, the pigeon ... bitterly; verbs broken"}
+      - {motif: weeping-like-orphan, refs: ["ETCSL 4.14.3 C:16", "ETCSL 4.14.3 D:13"], note: "šeg5-šeg5{mušen}-e lu2-tur er2 pad3-da-gin7; dumu nu-siki-gin7 'like an orphaned child'"}
+      - {motif: goddess-loves-fish-and-birds, refs: ["ETCSL 4.14.3 E:17-20"], note: "ku6 mušen-e ki aĝ2-me-en; in-nin9 ama {d}nanše za3-mi2-zu dug3-ga-am3"}
+      - {motif: closing-doxology-praise-is-sweet, refs: ["ETCSL 4.14.3 E:20"]}
+    hints:
+      - "Moaning like a dove: compare Isa 38:14 and 59:11, Nah 2:8, Ezek 7:16."
+      - "Catalogues of creatures: compare Lev 11:13-19 and Deut 14:11-18 (the list of birds) and 1 Kgs 5:13 (Solomon spoke of birds)."
+  - id: ane-etcsl-4-15-3-a-nergal-awe-and-destinies
+    tradition: ane-sumerian
+    title: A tigi to Nergal, sa-gida - awe of Nergal, given the deciding of destinies (Nergal C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.15.3 A:1-31"]
+    tags:
+      - {motif: gods-cower-before-gods-radiance, refs: ["ETCSL 4.15.3 A:1-10"], note: "saĝ gig2-ga ni2-zu mi-ni-ri / {d}a-nun-na diĝir gal-gal-e-ne / ni2 me-lem4-zu-de3 teš2 ši-im-da-šar2-re-ne"}
+      - {motif: king-son-of-enlil, refs: ["ETCSL 4.15.3 A:2", "ETCSL 4.15.3 A:21"], note: "of the god: nam-lugal-še3 a-a-zu tud-da; dumu {d}en-lil2-la2"}
+      - {motif: god-given-decision-of-destinies, refs: ["ETCSL 4.15.3 A:11-20"], note: "ḫur-saĝ ki-a uĝ3 gu2 si-a / a-a-zu {d}en-lil2-le saĝ-e-eš mu-ri-in-rig7 / nam tar-re-de3 šu-za ma-ra-ni-in-ge-en"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["ETCSL 4.15.3 A:1-10", "ETCSL 4.15.3 A:11-20", "ETCSL 4.15.3 A:21-30"]}
+      - {motif: offerings-from-city-for-god, refs: ["ETCSL 4.15.3 A:21-30"], note: "niĝ2-nam-zu {ĝiš}banšur sikil-la-za / uĝ3 lagaš{ki}-ke4 šu ḫe2-em-ma-an-peš-e / {d}nergal ki lagaš{ki} a2 bad ḫu-mu-un-tum2 'stretch forth your arm over Lagaš'"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.15.3 A:31"], note: "sa-gid2-da-am3"}
+    hints:
+      - "Compare Ps 29:1-2 and 89:7-8 (the sons of God tremble before the LORD) and Deut 4:34 (outstretched arm)."
+  - id: ane-etcsl-4-15-3-b-nergal-avenger-of-his-father
+    tradition: ane-sumerian
+    title: A tigi to Nergal, sa-ĝara - Mešlamta-ea, the Enlil of his land and avenger of his father (Nergal C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 4.15.3 B:32-63"]
+    tags:
+      - {motif: god-named-avenger-of-father, refs: ["ETCSL 4.15.3 B:42-44"], note: "en gu2 du3-a {d}en-lil2-la2 laḫ6-laḫ6 šu ĝar gi4 a-a-na / ur-saĝ kalag-ga mu-zu-še3 / {d}en-lil2 sipad saĝ gig2-ga mu-ra-ni-in-sa4"}
+      - {motif: divine-judge-ishtaran, refs: ["ETCSL 4.15.3 B:41"], note: "{d}ištaran-gin7 di si sa2 kud-kud"}
+      - {motif: god-chosen-to-surpass-gods, refs: ["ETCSL 4.15.3 B:39-40", "ETCSL 4.15.3 B:49"], note: "en {d}en-lil2 kalam-ma-na-me-en; gaba-ri nu-tuku; za-pa-aĝ2-zu diĝir na-me saĝ nu-mu-un-de3-ĝa2-ĝa2 'because of your noise no god opposes you'"}
+      - {motif: god-controls-plague, refs: ["ETCSL 4.15.3 B:50"], note: "šul zid nam-uš2 [...] 'just young man who ... the plague (death)'; verb broken"}
+      - {motif: god-gives-king-mace-to-crush-lands, refs: ["ETCSL 4.15.3 B:54-56"], note: "of the god: ab ḫu-luḫ-ḫa 'frightening sea'; ki-bal zar-re-eš mu-e-dub 'you pile up the rebel lands in heaps'"}
+      - {motif: consort-goddess-prays-for-reign, refs: ["ETCSL 4.15.3 B:58-61"], note: "{d}ba-u2 mu-un-da-kuš2-u3-de3 / iri-kug{ki}-e ... / bal ud su3-ra2 ... pa ḫe2-em-ma-ni-in-e3"}
+      - {motif: kirugu-gisgigal-song-structure, refs: ["ETCSL 4.15.3 B:62-63"], note: "sa-ĝar-ra; tigi {d}nergal-kam; B:32-35 fragmentary or lost"}
+    hints:
+      - "Compare Deut 32:41-43 (God avenges the blood of his servants) and Nah 1:2 ('the LORD is an avenging God')."
+      - "The god of plague and death: compare Hab 3:5 (pestilence and plague, deber and rešep, go before him) and 2 Sam 24:15-16."
