@@ -156,6 +156,8 @@ new_motifs:
   weeping-in-prison-all-day: {label: "In the prison-house hearts are full of tears and laments all day long", cluster: judgment}
   winnowing-by-two-men: {label: "Two men lift the grain to winnow it; the winnowed grain is laid down like a sceptre", cluster: agriculture}
   wise-god-proposes-plan-in-assembly: {label: "The wise god of the Apsu proposes a plan in the gods' assembly, and the gods kiss his feet", cluster: cosmology}
+  mortal-surveys-heaven-from-horizon-to-height: {label: "Taken up to heaven, the mortal looks from the horizon (base of heaven) to the heights of heaven and sees its awesomeness", cluster: primeval}
+  goddess-chosen-for-marriage-by-spouse: {label: "The goddess says her spouse (Ama-ušumgal-ana) chose her for marriage", cluster: love}
 units:
   - id: ane-etcsl-4-06-1-a-night-watchman
     tradition: ane-sumerian
@@ -268,7 +270,7 @@ units:
     tags:
       - {motif: goddess-receives-insignia-of-an, refs: ["ETCSL 4.07.a 4-9"], note: "me-en kug an-na saŋ-ŋa2 ... tug2-ba kug-kug an-na ... ŋidru kug an-na šu-na; unken-a tuš-a ... di gal kur-ra kud-da-e 'who sits in the assembly, decides the great case of the land'"}
       - {motif: inana-titled-lady-of-heaven, refs: ["ETCSL 4.07.a 10"], note: "nu11-gin7 an-ta kar2-ra-na: 'shining like a light from heaven'"}
-      - {motif: goddess-chooses-consort-as-god-of-land, refs: ["ETCSL 4.07.a 30-34", "ETCSL 4.07.a 43"], note: "mu-u2-da-na-ŋu10 ušum-gal-an-na-ke4 / me nam-dam-še3 in-ŋa2-an-pad3: 'my spouse Ama-ušumgal-ana chose me for marriage'; Bad-tibira, E-muš-kalama. Lines 36-38, 56-65 missing; much broken thereafter"}
+      - {motif: goddess-chosen-for-marriage-by-spouse, refs: ["ETCSL 4.07.a 30-34", "ETCSL 4.07.a 43"], note: "mu-u2-da-na-ŋu10 ušum-gal-an-na-ke4 / me nam-dam-še3 in-ŋa2-an-pad3: 'my spouse Ama-ušumgal-ana chose me for marriage'; Bad-tibira, E-muš-kalama. Lines 36-38, 56-65 missing; much broken thereafter"}
       - {motif: dumuzid-sheltered-by-poplar, refs: ["ETCSL 4.07.a 46-47"], note: "hi-li {d}dumu-zid {ŋiš}ildag3 gub-gub-dam / šag4-ŋu10 hi-li gi4-im-si"}
       - {motif: sumerian-zami-doxology, refs: ["ETCSL 4.07.a 123"]}
     hints:
@@ -376,7 +378,6 @@ units:
     tagger: "Claude (model), reading the Sumerian"
     read: ["ETCSL 4.12.1 1-60"]
     tags:
-      - {motif: god-born-of-an-and-uras-in-duranki, refs: ["ETCSL 4.12.1 5-7"], note: "only partly: an kug-ge tud-da 'born of holy An', ama ugu-ni {d}nin-hur-saŋ-ŋa2-ke4 'his mother Ninḫursaĝa' made his form surpass"}
       - {motif: seven-winds-storm, refs: ["ETCSL 4.12.1 17-19"], note: "tum9 7-na zag mu-ni-in-keše2: 'he bound the seven winds at his side'; fire, lightning (nim-gin7)"}
       - {motif: god-destroys-evil-establishes-truth, refs: ["ETCSL 4.12.1 25-27"], note: "diŋir šu sikil 'god of pure hands'; niŋ2-erim2 niŋ2-a2-zig3 im-mi-in-gul niŋ2-gen6-na bi2-in-gub; di si sa2 kud-kud eš-bar-re gal-zu"}
       - {motif: amorite-god-given-mountain-as-gift, refs: ["ETCSL 4.12.1 30-32"], note: "hur-saŋ sikil kur {na4}za-gin3-na saŋ-e-eš mu-ni-in-rig7 / kur mar-tu ...: given by his father the lord of the gods; he filled distant heaven and broad earth"}
@@ -394,7 +395,6 @@ units:
     read: ["ETCSL 4.13.b Seg.A:1-Seg.B:11"]
     tags:
       - {motif: moon-gods-herd-of-cows, refs: ["ETCSL 4.13.b Seg.A:3-10"], note: "tur3 gal 'great pen', ab2 lu-a gud-ab2-bi 'abundant cows and their bulls', i3 ga nunuz mu-un-ak-e 'makes ghee, milk, eggs'; {d}suen-ra he2-ŋal2 an ki-a"}
-      - {motif: moon-god-as-new-moon-and-bull, refs: ["ETCSL 4.13.b Seg.B:7-11"], note: "only key words survive: iti6 'moonlight', še-er-zid 'radiance', {d}nin-gal, en me-lem4"}
   - id: ane-etcsl-4-13-c-nanna-excerpt
     tradition: ane-sumerian
     title: An excerpt from a hymn to Nanna (ETCSL 4.13.c)
@@ -927,7 +927,7 @@ units:
     tags:
       - {motif: food-and-water-of-life-refused, refs: ["Adapa SB –:e+1-e+3"], note: "[mê balāṭi i]qbīšum-ma šū lā išti (restored); oil and garment accepted"}
       - {motif: god-laughs-at-mortal, refs: ["Adapa SB –:e+4-e+6"], note: "ānu ana epšet ea šaqîš iṣīh-ma ... qibīssu ša kīma qibīt āni mannu uʾattar: Anu laughs at what Ea has done"}
-      - {motif: mortal-glimpses-gods-at-horizons, refs: ["Adapa SB –:e+7-e+8"], note: "adapa ištu išid šamê ana elât šamê ... ippalis-ma puluhtašu īmur: he looked from the base of heaven to its height and saw its awesomeness"}
+      - {motif: mortal-surveys-heaven-from-horizon-to-height, refs: ["Adapa SB –:e+7-e+8"], note: "adapa ištu išid šamê ana elât šamê ... ippalis-ma puluhtašu īmur: he looked from the base of heaven to its height and saw its awesomeness"}
       - {motif: human-given-wisdom-not-immortality, refs: ["Adapa SB –:e+11-e+14"], note: "bēlūssu ana arkât ūmī ... išīm; adapa zēr amīlūti: a lordly destiny instead of life"}
       - {motif: illness-etiology-healing-goddess-relieves, refs: ["Adapa SB –:e+15-e+21"], note: "šūtu ša zâqša lemniš ana nišī ištaknu / simma murṣa ... / ṣimdū elleti ninkarrak unahhū"}
       - {motif: vanished-gods-as-gatekeepers-of-heaven, refs: ["Adapa SB –:d+6-d+9"], note: "fragmentary repetition of the gate dialogue, mostly restored"}
