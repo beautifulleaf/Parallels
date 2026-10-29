@@ -1827,7 +1827,7 @@
      "basis": "original"
     },
     {
-     "text": "Synonym skew: פָּקַח (pâqach, 18 verses) has only 0% of its verses in this narrative. The words are paired only because their Strong's English definitions start with the same word; confirm in the Hebrew.",
+     "text": "Synonym skew: יָשַׁע (yâshaʻ, 198 verses) has only 0% of its verses in this narrative. The words are paired only because their Strong's English definitions start with the same word; confirm in the Hebrew.",
      "basis": "gloss"
     },
     {
@@ -3867,9 +3867,96 @@
    "notes": "## Questions\n\n## Notes"
   },
   {
+   "id": "quran-abraham-amn",
+   "title": "ʾamn: a security word concentrated in Abraham",
+   "summary": "أَمْن (ʾamn, “security”) occurs in 5 verses; 3 of them (60%) are in the Abraham narrative, which is 3% of the Quran, across 2 surahs. The more common same-gloss word مُؤْمِن (muʾmin, 193 verses) has only 3% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "abraham"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "أَمْن",
+     "translit": "ʾamn",
+     "gloss": "security"
+    },
+    {
+     "lang": "ar",
+     "form": "مُؤْمِن",
+     "translit": "muʾmin",
+     "gloss": "believer (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:125",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 4:83",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَٱتَّبَعْتُمُ ٱلشَّيْطَٰنَ إِلَّا قَلِيلًا"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 6:81",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَٰنًا فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ إِن كُنتُمْ تَعْلَمُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 6:82",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَٰنَهُم بِظُلْمٍ أُو۟لَٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 24:55",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِى لَا يُشْرِكُونَ بِى شَيْـًٔا وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "p = 2.1e-04 (hypergeometric, verse level), q = 7.7e-04. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: مُؤْمِن (muʾmin, 193 verses) has only 3% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Synonym skew: مَكان (makān, 27 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
    "id": "quran-abraham-ragha",
    "title": "rāgha: a turned word concentrated in Abraham",
-   "summary": "راغَ (rāgha, “turned”) occurs in 3 verses; 3 of them (100%) are in the Abraham narrative, which is 3% of the Quran, across 2 surahs. The more common same-gloss word قَلَّبُ (qallabu, 6 verses) has only 0% of its verses there.",
+   "summary": "راغَ (rāgha, “turned”) occurs in 3 verses; 3 of them (100%) are in the Abraham narrative, which is 3% of the Quran, across 2 surahs. The more common same-gloss word تَوَلَّى (tawallā, 76 verses) has only 1% of its verses there.",
    "status": "new",
    "relations": [
     "internal"
@@ -3893,9 +3980,9 @@
     },
     {
      "lang": "ar",
-     "form": "قَلَّبُ",
-     "translit": "qallabu",
-     "gloss": "turned (common synonym)"
+     "form": "تَوَلَّى",
+     "translit": "tawallā",
+     "gloss": "away (common synonym)"
     }
    ],
    "passages": [
@@ -3927,11 +4014,11 @@
      "basis": "original"
     },
     {
-     "text": "Synonym skew: قَلَّبُ (qallabu, 6 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "text": "Synonym skew: تَوَلَّى (tawallā, 76 verses) has only 1% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
      "basis": "gloss"
     },
     {
-     "text": "Synonym skew: أَدْبَرَ (ʾadbara, 4 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "text": "Synonym skew: تابَ (tāba, 56 verses) has only 2% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
      "basis": "gloss"
     }
    ],
@@ -3942,7 +4029,7 @@
   {
    "id": "quran-adam-yahbitu",
    "title": "yahbiṭu: a down word concentrated in Adam and Iblis",
-   "summary": "يَهْبِطُ (yahbiṭu, “down”) occurs in 8 verses; 5 of them (62%) are in the Adam and Iblis narrative, which is 1% of the Quran, across 3 surahs. The more common same-gloss word نَزَّلَ (nazzala, 61 verses) has only 0% of its verses there.",
+   "summary": "يَهْبِطُ (yahbiṭu, “down”) occurs in 8 verses; 5 of them (62%) are in the Adam and Iblis narrative, which is 1% of the Quran, across 3 surahs. The more common same-gloss word أَنزَلَ (ʾanzala, 162 verses) has only 0% of its verses there.",
    "status": "new",
    "relations": [
     "internal"
@@ -3966,9 +4053,9 @@
     },
     {
      "lang": "ar",
-     "form": "نَزَّلَ",
-     "translit": "nazzala",
-     "gloss": "down (common synonym)"
+     "form": "أَنزَلَ",
+     "translit": "ʾanzala",
+     "gloss": "revealed (common synonym)"
     }
    ],
    "passages": [
@@ -4035,7 +4122,11 @@
      "basis": "original"
     },
     {
-     "text": "Synonym skew: نَزَّلَ (nazzala, 61 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "text": "Synonym skew: أَنزَلَ (ʾanzala, 162 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Synonym skew: أَرْسَلَ (ʾarsala, 127 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
      "basis": "gloss"
     }
    ],
@@ -4702,7 +4793,7 @@
   {
    "id": "quran-lot-ghabir",
    "title": "ghābir: a behind word concentrated in Lot",
-   "summary": "غابِر (ghābir, “behind”) occurs in 7 verses; 5 of them (71%) are in the Lot narrative, which is 1% of the Quran, across 4 surahs. The more common same-gloss word خَلْف (khalf, 22 verses) has only 0% of its verses there.",
+   "summary": "غابِر (ghābir, “behind”) occurs in 7 verses; 5 of them (71%) are in the Lot narrative, which is 1% of the Quran, across 4 surahs. The more common same-gloss word وَراء (warāʾ, 24 verses) has only 0% of its verses there.",
    "status": "new",
    "relations": [
     "internal"
@@ -4726,8 +4817,8 @@
     },
     {
      "lang": "ar",
-     "form": "خَلْف",
-     "translit": "khalf",
+     "form": "وَراء",
+     "translit": "warāʾ",
      "gloss": "behind (common synonym)"
     }
    ],
@@ -4788,11 +4879,211 @@
      "basis": "original"
     },
     {
-     "text": "Synonym skew: خَلْف (khalf, 22 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "text": "Synonym skew: وَراء (warāʾ, 24 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
      "basis": "gloss"
     },
     {
-     "text": "Synonym skew: وَراء (warāʾ, 24 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "text": "Synonym skew: خَلْف (khalf, 22 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-lot-jawab",
+   "title": "jawāb: a answer word concentrated in Lot",
+   "summary": "جَواب (jawāb, “answer”) occurs in 5 verses; 3 of them (60%) are in the Lot narrative, which is 1% of the Quran, across 3 surahs. The more common same-gloss word مِثْل (mithl, 74 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal",
+    "inheritance"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "lot"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "جَواب",
+     "translit": "jawāb",
+     "gloss": "answer"
+    },
+    {
+     "lang": "ar",
+     "form": "مِثْل",
+     "translit": "mithl",
+     "gloss": "like (common synonym)"
+    },
+    {
+     "lang": "he",
+     "form": "גֶּבֶא",
+     "translit": "gebeʼ",
+     "gloss": "a reservoir (H1360, possible cognate)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:82",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوهُم مِّن قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 27:56",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 29:24",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 29:29",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 34:13",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no longer meet the thresholds after a method change. Kept for review.",
+     "basis": "original"
+    },
+    {
+     "text": "p = 1.1e-05 (hypergeometric, verse level), q = 6.2e-05. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: مِثْل (mithl, 74 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept only if Strong's English definition contains the Arabic word's English gloss. The meaning check is gloss-based; confirm it in the originals.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-lot-matar",
+   "title": "maṭar: a rain word concentrated in Lot",
+   "summary": "مَطَر (maṭar, “rain”) occurs in 5 verses; 3 of them (60%) are in the Lot narrative, which is 1% of the Quran, across 3 surahs. The more common same-gloss word سَماء (samāʾ, 297 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal",
+    "inheritance"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "lot"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "مَطَر",
+     "translit": "maṭar",
+     "gloss": "rain"
+    },
+    {
+     "lang": "ar",
+     "form": "سَماء",
+     "translit": "samāʾ",
+     "gloss": "heaven (common synonym)"
+    },
+    {
+     "lang": "he",
+     "form": "מָטַר",
+     "translit": "mâṭar",
+     "gloss": "rain (H4306, possible cognate)"
+    },
+    {
+     "lang": "he",
+     "form": "מָטַר",
+     "translit": "mâṭar",
+     "gloss": "to rain (H4305, possible cognate)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 4:102",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ وَخُذُوا۟ حِذْرَكُمْ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:84",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 25:40",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 26:173",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 27:58",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "p = 1.1e-05 (hypergeometric, verse level), q = 6.2e-05. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: سَماء (samāʾ, 297 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept only if Strong's English definition contains the Arabic word's English gloss. The meaning check is gloss-based; confirm it in the originals.",
      "basis": "gloss"
     }
    ],
@@ -4803,7 +5094,7 @@
   {
    "id": "quran-moses-akhtara",
    "title": "akhtāra: a chose word concentrated in Moses",
-   "summary": "اخْتارَ (akhtāra, “chose”) occurs in 4 verses; 3 of them (75%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word اجْتَبَى (ajtabā, 10 verses) has only 0% of its verses there.",
+   "summary": "اخْتارَ (akhtāra, “chose”) occurs in 4 verses; 3 of them (75%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word اصْطَفَى (aṣṭafā, 11 verses) has only 9% of its verses there.",
    "status": "new",
    "relations": [
     "internal"
@@ -4827,9 +5118,9 @@
     },
     {
      "lang": "ar",
-     "form": "اجْتَبَى",
-     "translit": "ajtabā",
-     "gloss": "chose (common synonym)"
+     "form": "اصْطَفَى",
+     "translit": "aṣṭafā",
+     "gloss": "chosen (common synonym)"
     }
    ],
    "passages": [
@@ -4866,6 +5157,10 @@
     {
      "text": "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
      "basis": "original"
+    },
+    {
+     "text": "Synonym skew: اصْطَفَى (aṣṭafā, 11 verses) has only 9% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
     },
     {
      "text": "Synonym skew: اجْتَبَى (ajtabā, 10 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
@@ -5040,6 +5335,228 @@
    "notes": "## Questions\n\n## Notes"
   },
   {
+   "id": "quran-moses-jawaza",
+   "title": "jāwaza: a across word concentrated in Moses",
+   "summary": "جاوَزَ (jāwaza, “across”) occurs in 4 verses; 3 of them (75%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word خَلا (khalā, 25 verses) has only 0% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "جاوَزَ",
+     "translit": "jāwaza",
+     "gloss": "across"
+    },
+    {
+     "lang": "ar",
+     "form": "خَلا",
+     "translit": "khalā",
+     "gloss": "passed (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:249",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:138",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 10:90",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 18:62",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًا"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: خَلا (khalā, 25 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Synonym skew: سَلَفَ (salafa, 5 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-madain",
+   "title": "madāʾin: a citie word concentrated in Moses",
+   "summary": "مَدائِن (madāʾin, “citie”) occurs in 3 verses; 3 of them (100%) are in the Moses narrative, which is 7% of the Quran, across 2 surahs. The more common same-gloss word قَرْيَة (qarya, 54 verses) has only 7% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "مَدائِن",
+     "translit": "madāʾin",
+     "gloss": "citie"
+    },
+    {
+     "lang": "ar",
+     "form": "قَرْيَة",
+     "translit": "qarya",
+     "gloss": "town (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:111",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 26:36",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 26:53",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَأَرْسَلَ فِرْعَوْنُ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: قَرْيَة (qarya, 54 verses) has only 7% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Synonym skew: بَلَد (balad, 14 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-mulqy",
+   "title": "mulqy: a throw word concentrated in Moses",
+   "summary": "مُلْقي (mulqy, “throw”) occurs in 3 verses; 3 of them (100%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word جاعِل (jāʿil, 6 verses) has only 17% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "مُلْقي",
+     "translit": "mulqy",
+     "gloss": "throw"
+    },
+    {
+     "lang": "ar",
+     "form": "جاعِل",
+     "translit": "jāʿil",
+     "gloss": "going (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:115",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالُوا۟ يَٰمُوسَىٰٓ إِمَّآ أَن تُلْقِىَ وَإِمَّآ أَن نَّكُونَ نَحْنُ ٱلْمُلْقِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 10:80",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 26:43",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "p = 3.4e-04 (hypergeometric, verse level), q = 1.1e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: جاعِل (jāʿil, 6 verses) has only 17% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
    "id": "quran-moses-salwa",
    "title": "salwā: a quail word concentrated in Moses",
    "summary": "سَلْوَى (salwā, “quail”) occurs in 3 verses; 3 of them (100%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs.",
@@ -5176,6 +5693,293 @@
     },
     {
      "text": "Synonym skew: خَسَفَ (khasafa, 8 verses) has only 0% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-waad",
+   "title": "wāʿad: a appointed word concentrated in Moses",
+   "summary": "واعَدْ (wāʿad, “appointed”) occurs in 4 verses; 3 of them (75%) are in the Moses narrative, which is 7% of the Quran, across 3 surahs. The more common same-gloss word جَعَلَ (jaʿala, 306 verses) has only 6% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "واعَدْ",
+     "translit": "wāʿad",
+     "gloss": "appointed"
+    },
+    {
+     "lang": "ar",
+     "form": "جَعَلَ",
+     "translit": "jaʿala",
+     "gloss": "placed (common synonym)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:51",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَٰلِمُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:235",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُم بِهِۦ مِنْ خِطْبَةِ ٱلنِّسَآءِ أَوْ أَكْنَنتُمْ فِىٓ أَنفُسِكُمْ عَلِمَ ٱللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَٰكِن لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّآ أَن تَقُولُوا۟ قَوْلًا مَّعْرُوفًا وَلَا تَعْزِمُوا۟ عُقْدَةَ ٱلنِّكَاحِ حَتَّىٰ يَبْلُغَ ٱلْكِتَٰبُ أَجَلَهُۥ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِىٓ أَنفُسِكُمْ فَٱحْذَرُوهُ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ حَلِيمٌ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:142",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 20:80",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: جَعَلَ (jaʿala, 306 verses) has only 6% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Synonym skew: بَعَثَ (baʿatha, 50 verses) has only 12% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-moses-yastahai",
+   "title": "yastaḥāi: a live word concentrated in Moses",
+   "summary": "يَسْتَحْىِۦ (yastaḥāi, “live”) occurs in 8 verses; 5 of them (62%) are in the Moses narrative, which is 7% of the Quran, across 4 surahs. The more common same-gloss word سَكَنَ (sakana, 15 verses) has only 13% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal",
+    "inheritance"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "moses"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "يَسْتَحْىِۦ",
+     "translit": "yastaḥāi",
+     "gloss": "live"
+    },
+    {
+     "lang": "ar",
+     "form": "سَكَنَ",
+     "translit": "sakana",
+     "gloss": "dwell (common synonym)"
+    },
+    {
+     "lang": "he",
+     "form": "חַי",
+     "translit": "chay",
+     "gloss": "alive (H2416, possible cognate)"
+    },
+    {
+     "lang": "he",
+     "form": "חָיָה",
+     "translit": "châyâh",
+     "gloss": "to live, whether literally or figuratively (H2421, possible cognate)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:26",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًا يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَٰسِقِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 2:49",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:127",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ وَيَذَرَكَ وَءَالِهَتَكَ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَٰهِرُونَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 7:141",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 14:6",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 28:4",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَآئِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 33:53",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 40:25",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "فَلَمَّا جَآءَهُم بِٱلْحَقِّ مِنْ عِندِنَا قَالُوا۟ ٱقْتُلُوٓا۟ أَبْنَآءَ ٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ وَٱسْتَحْيُوا۟ نِسَآءَهُمْ وَمَا كَيْدُ ٱلْكَٰفِرِينَ إِلَّا فِى ضَلَٰلٍ"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "p = 7.8e-05 (hypergeometric, verse level), q = 3.3e-04. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: سَكَنَ (sakana, 15 verses) has only 13% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Synonym skew: أَضاعُ (ʾaḍāʿu, 10 verses) has only 10% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept only if Strong's English definition contains the Arabic word's English gloss. The meaning check is gloss-based; confirm it in the originals.",
+     "basis": "gloss"
+    }
+   ],
+   "origin": "pipeline",
+   "added": "2026-10-29",
+   "notes": "## Questions\n\n## Notes"
+  },
+  {
+   "id": "quran-zechariah-john-aqir",
+   "title": "ʿāqir: a barren word concentrated in Zechariah and John",
+   "summary": "عاقِر (ʿāqir, “barren”) occurs in 3 verses; 3 of them (100%) are in the Zechariah and John narrative, which is 0% of the Quran, across 2 surahs. The more common same-gloss word خاشِع (khāshiʿ, 13 verses) has only 8% of its verses there.",
+   "status": "new",
+   "relations": [
+    "internal",
+    "inheritance"
+   ],
+   "standing": "proposed",
+   "traditions": [
+    "islam",
+    "judaism"
+   ],
+   "layers": [
+    "lexical"
+   ],
+   "motifs": [
+    "zechariah-john"
+   ],
+   "lexical": [
+    {
+     "lang": "ar",
+     "form": "عاقِر",
+     "translit": "ʿāqir",
+     "gloss": "barren"
+    },
+    {
+     "lang": "ar",
+     "form": "خاشِع",
+     "translit": "khāshiʿ",
+     "gloss": "humbled (common synonym)"
+    },
+    {
+     "lang": "he",
+     "form": "עָקָר",
+     "translit": "ʻâqâr",
+     "gloss": "sterile (as if extirpated in the generative organs) (H6135, possible cognate)"
+    }
+   ],
+   "passages": [
+    {
+     "tradition": "islam",
+     "ref": "Quran 3:40",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 19:5",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا"
+    },
+    {
+     "tradition": "islam",
+     "ref": "Quran 19:8",
+     "lang": "ar",
+     "source": "Quranic Arabic Corpus (Uthmani script)",
+     "text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّا"
+    }
+   ],
+   "evidence": [
+    {
+     "text": "p = 2.8e-08 (hypergeometric, verse level), q = 4.1e-07. Counted from the original text with the Quranic Arabic Corpus lemmas.",
+     "basis": "original"
+    },
+    {
+     "text": "Synonym skew: خاشِع (khāshiʿ, 13 verses) has only 8% of its verses in this narrative. The two words are paired only because their English word-by-word glosses match; confirm in the Arabic that they are real synonyms.",
+     "basis": "gloss"
+    },
+    {
+     "text": "Hebrew cognates are matched by regular sound correspondence on the original consonants, then kept only if Strong's English definition contains the Arabic word's English gloss. The meaning check is gloss-based; confirm it in the originals.",
      "basis": "gloss"
     }
    ],

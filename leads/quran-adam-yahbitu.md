@@ -2,7 +2,7 @@
 id: quran-adam-yahbitu
 title: 'yahbiṭu: a down word concentrated in Adam and Iblis'
 summary: يَهْبِطُ (yahbiṭu, “down”) occurs in 8 verses; 5 of them (62%) are in the Adam and Iblis narrative,
-  which is 1% of the Quran, across 3 surahs. The more common same-gloss word نَزَّلَ (nazzala, 61 verses)
+  which is 1% of the Quran, across 3 surahs. The more common same-gloss word أَنزَلَ (ʾanzala, 162 verses)
   has only 0% of its verses there.
 status: new
 relations:
@@ -20,9 +20,9 @@ lexical:
   translit: yahbiṭu
   gloss: down
 - lang: ar
-  form: نَزَّلَ
-  translit: nazzala
-  gloss: down (common synonym)
+  form: أَنزَلَ
+  translit: ʾanzala
+  gloss: revealed (common synonym)
 passages:
 - tradition: islam
   ref: Quran 2:36
@@ -81,9 +81,13 @@ evidence:
 - text: p = 1.0e-08 (hypergeometric, verse level), q = 1.8e-07. Counted from the original text with the
     Quranic Arabic Corpus lemmas.
   basis: original
-- text: 'Synonym skew: نَزَّلَ (nazzala, 61 verses) has only 0% of its verses in this narrative. The two
-    words are paired only because their English word-by-word glosses match; confirm in the Arabic that
-    they are real synonyms.'
+- text: 'Synonym skew: أَنزَلَ (ʾanzala, 162 verses) has only 0% of its verses in this narrative. The
+    two words are paired only because their English word-by-word glosses match; confirm in the Arabic
+    that they are real synonyms.'
+  basis: gloss
+- text: 'Synonym skew: أَرْسَلَ (ʾarsala, 127 verses) has only 0% of its verses in this narrative. The
+    two words are paired only because their English word-by-word glosses match; confirm in the Arabic
+    that they are real synonyms.'
   basis: gloss
 origin: pipeline
 added: '2026-10-29'

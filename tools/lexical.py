@@ -103,24 +103,33 @@ def analyze(corpus):
     concentration = [c for c in concentration
                      if c["share"] >= MIN_SHARE and c["dispersion"] >= MIN_DISPERSION and c["q"] <= MAX_Q]
 
-    # synonym skew: siblings share POS and head gloss
-    by_gloss = defaultdict(list)
+    # synonym skew: siblings share POS and a gloss word. A sibling's main gloss
+    # must appear among the candidate's glosses, or the reverse; every gloss a
+    # word takes across its occurrences counts, not only the most frequent.
+    pool = defaultdict(list)
     for lid, lem in corpus.lemmas.items():
-        g = corpora.head_gloss([lem.gloss])
-        if g and len(occ.get(lid, ())) >= MIN_VERSES:
-            by_gloss[(g, lem.pos[:1])].append(lid)
+        if len(occ.get(lid, ())) >= MIN_VERSES:
+            pool[lem.pos[:1]].append(lid)
+
+    def glosses(lem):
+        return set(lem.gloss_words) | {corpora.head_gloss([lem.gloss])} - {""}
+
     for c in concentration:
         lem = corpus.lemmas[c["lemma"]]
-        key = (corpora.head_gloss([lem.gloss]), lem.pos[:1])
+        head, words = corpora.head_gloss([lem.gloss]), glosses(lem)
         siblings = []
-        for sib in by_gloss.get(key, []):
+        for sib in pool.get(lem.pos[:1], []):
             if sib == c["lemma"]:
+                continue
+            sl = corpus.lemmas[sib]
+            shead = corpora.head_gloss([sl.gloss])
+            if not ((shead and shead in words) or (head and head in glosses(sl))):
                 continue
             sidx = occ[sib]
             share = sum(1 for i in sidx if c["narrative"] in corpus.verses[i].narratives) / len(sidx)
             if len(sidx) > c["n"] and share < 0.3:
                 siblings.append(dict(lemma=sib, n=len(sidx), share_in_narrative=round(share, 3)))
-        c["synonym_skew"] = siblings
+        c["synonym_skew"] = sorted(siblings, key=lambda x: -x["n"])
 
     # bridges: rare lemmas living almost only inside exactly two narratives
     bridges = []
@@ -452,6 +461,30 @@ def write_lead(lead):
     return state
 
 
+STALE_NOTE = "No longer produced by the current pipeline"
+
+
+def flag_stale(produced, prefixes):
+    """Pipeline leads that a rerun no longer produces are flagged, not deleted:
+    their status, notes and reviews stay, and the evidence says why."""
+    for path in sorted(LEADS.glob("*.md")):
+        lid = path.stem
+        if not lid.startswith(prefixes) or lid in produced:
+            continue
+        text = path.read_text(encoding="utf-8")
+        m = re.match(r"^---\n(.*?)\n---\n?(.*)$", text, re.S)
+        meta, body = yaml.safe_load(m.group(1)), m.group(2)
+        if meta.get("origin") != "pipeline":
+            continue
+        ev = [e for e in meta.get("evidence") or [] if not (isinstance(e, dict) and e.get("text", "").startswith(STALE_NOTE))]
+        ev.insert(0, {"text": f"{STALE_NOTE} ({date.today().isoformat()}): its statistics or cognate checks no longer "
+                              "meet the thresholds after a method change. Kept for review.", "basis": "original"})
+        meta["evidence"] = ev
+        path.write_text("---\n" + yaml.safe_dump(meta, allow_unicode=True, sort_keys=False, width=100) + "---\n" + body,
+                        encoding="utf-8")
+        print(f"  lead {lid}: flagged stale")
+
+
 def quran_ref_label(ref):
     return f"Quran {ref}"
 
@@ -594,8 +627,10 @@ def main():
     if "--write-leads" in sys.argv:
         global QURAN_TEXT, HEBREW_TEXT
         QURAN_TEXT, HEBREW_TEXT = originals.load_quran_text(), originals.load_hebrew_text()
-        for lead in build_leads(quran, heb, q_conc, q_bridges, bench) + build_hebrew_leads(heb, h_conc, h_bridges, bench):
+        produced = build_leads(quran, heb, q_conc, q_bridges, bench) + build_hebrew_leads(heb, h_conc, h_bridges, bench)
+        for lead in produced:
             print(f"  lead {lead['id']}: {write_lead(lead)}")
+        flag_stale({l["id"] for l in produced}, ("quran-", "hebrew-"))
     print("wrote results/lexical/")
     if any(b["expect"] and not b["recovered"] for b in bench):
         sys.exit("benchmark expectations missed")

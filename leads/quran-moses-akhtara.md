@@ -2,8 +2,8 @@
 id: quran-moses-akhtara
 title: 'akhtāra: a chose word concentrated in Moses'
 summary: اخْتارَ (akhtāra, “chose”) occurs in 4 verses; 3 of them (75%) are in the Moses narrative, which
-  is 7% of the Quran, across 3 surahs. The more common same-gloss word اجْتَبَى (ajtabā, 10 verses) has
-  only 0% of its verses there.
+  is 7% of the Quran, across 3 surahs. The more common same-gloss word اصْطَفَى (aṣṭafā, 11 verses) has
+  only 9% of its verses there.
 status: new
 relations:
 - internal
@@ -20,9 +20,9 @@ lexical:
   translit: akhtāra
   gloss: chose
 - lang: ar
-  form: اجْتَبَى
-  translit: ajtabā
-  gloss: chose (common synonym)
+  form: اصْطَفَى
+  translit: aṣṭafā
+  gloss: chosen (common synonym)
 passages:
 - tradition: islam
   ref: Quran 7:155
@@ -52,6 +52,10 @@ evidence:
 - text: p = 1.3e-03 (hypergeometric, verse level), q = 3.4e-03. Counted from the original text with the
     Quranic Arabic Corpus lemmas.
   basis: original
+- text: 'Synonym skew: اصْطَفَى (aṣṭafā, 11 verses) has only 9% of its verses in this narrative. The two
+    words are paired only because their English word-by-word glosses match; confirm in the Arabic that
+    they are real synonyms.'
+  basis: gloss
 - text: 'Synonym skew: اجْتَبَى (ajtabā, 10 verses) has only 0% of its verses in this narrative. The two
     words are paired only because their English word-by-word glosses match; confirm in the Arabic that
     they are real synonyms.'

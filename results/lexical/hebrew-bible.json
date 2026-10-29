@@ -408,8 +408,8 @@
    "q": 7.736938878059268e-12,
    "synonym_skew": [
     {
-     "lemma": "H6491",
-     "n": 18,
+     "lemma": "H3467",
+     "n": 198,
      "share_in_narrative": 0.0
     },
     {
@@ -423,8 +423,8 @@
      "share_in_narrative": 0.0
     },
     {
-     "lemma": "H3467",
-     "n": 198,
+     "lemma": "H6491",
+     "n": 18,
      "share_in_narrative": 0.0
     }
    ],
@@ -953,14 +953,14 @@
    "q": 5.0375663449899974e-06,
    "synonym_skew": [
     {
-     "lemma": "H2425",
-     "n": 20,
-     "share_in_narrative": 0.0
-    },
-    {
      "lemma": "H2421",
      "n": 239,
      "share_in_narrative": 0.025
+    },
+    {
+     "lemma": "H2425",
+     "n": 20,
+     "share_in_narrative": 0.0
     }
    ],
    "cross_corpus": [],
@@ -1052,13 +1052,13 @@
    "q": 6.008410908830701e-06,
    "synonym_skew": [
     {
-     "lemma": "H1588",
-     "n": 37,
+     "lemma": "H3754",
+     "n": 81,
      "share_in_narrative": 0.0
     },
     {
-     "lemma": "H3754",
-     "n": 81,
+     "lemma": "H1588",
+     "n": 37,
      "share_in_narrative": 0.0
     },
     {

@@ -63,7 +63,7 @@ evidence:
 - text: p = 5.9e-13 (hypergeometric, verse level), q = 7.7e-12. Counted from the original text with the
     OSHB lemmas (Strong's numbers).
   basis: original
-- text: 'Synonym skew: פָּקַח (pâqach, 18 verses) has only 0% of its verses in this narrative. The words
+- text: 'Synonym skew: יָשַׁע (yâshaʻ, 198 verses) has only 0% of its verses in this narrative. The words
     are paired only because their Strong''s English definitions start with the same word; confirm in the
     Hebrew.'
   basis: gloss

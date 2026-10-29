@@ -51,6 +51,11 @@
    "q": 1.4974704011534888e-07,
    "synonym_skew": [
     {
+     "lemma": "نَهَر",
+     "n": 51,
+     "share_in_narrative": 0.059
+    },
+    {
      "lemma": "بَحْر",
      "n": 39,
      "share_in_narrative": 0.282
@@ -175,10 +180,10 @@
      "lang": "he"
     },
     {
-     "lemma": "H7835",
-     "form": "שָׁחַר",
-     "translit": "shâchar",
-     "gloss": "to be dim or dark (in color)",
+     "lemma": "H5507",
+     "form": "סֹחֵרָה",
+     "translit": "çôchêrâh",
+     "gloss": "something surrounding the person, i.e. a shield",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
@@ -192,6 +197,84 @@
    "root": "سحر",
    "pos": "N",
    "translit": "sāḥir"
+  },
+  {
+   "lemma": "عاقِر",
+   "n": 3,
+   "narrative": "zechariah-john",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.003207184092366902,
+   "dispersion": 2,
+   "p": 2.8219332675911734e-08,
+   "refs": [
+    "3:40",
+    "19:5",
+    "19:8"
+   ],
+   "q": 4.076125830965028e-07,
+   "synonym_skew": [
+    {
+     "lemma": "خاشِع",
+     "n": 13,
+     "share_in_narrative": 0.077
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H6135",
+     "form": "עָקָר",
+     "translit": "ʻâqâr",
+     "gloss": "sterile (as if extirpated in the generative organs)",
+     "verses": 11,
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H6131",
+     "form": "עָקַר",
+     "translit": "ʻâqar",
+     "gloss": "to pluck up (especially by the roots)",
+     "verses": 7,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H6136",
+     "form": "עִקַּר",
+     "translit": "ʻiqqar",
+     "gloss": "a stock",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "arc"
+    },
+    {
+     "lemma": "H6132",
+     "form": "עֲקַר",
+     "translit": "ʻăqar",
+     "gloss": "to pluck up (especially by the roots)",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "arc"
+    },
+    {
+     "lemma": "H6133",
+     "form": "עֵקֶר",
+     "translit": "ʻêqer",
+     "gloss": "figuratively, a transplanted person, i.e. naturalized citizen",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 15.1,
+   "form": "عاقِر",
+   "gloss": "barren",
+   "root": "عقر",
+   "pos": "N",
+   "translit": "ʿāqir"
   },
   {
    "lemma": "غابِر",
@@ -214,13 +297,13 @@
    "q": 4.4653354050715036e-08,
    "synonym_skew": [
     {
-     "lemma": "خَلْف",
-     "n": 22,
+     "lemma": "وَراء",
+     "n": 24,
      "share_in_narrative": 0.0
     },
     {
-     "lemma": "وَراء",
-     "n": 24,
+     "lemma": "خَلْف",
+     "n": 22,
      "share_in_narrative": 0.0
     }
    ],
@@ -302,8 +385,48 @@
    "q": 1.7686836387185148e-07,
    "synonym_skew": [
     {
+     "lemma": "أَنزَلَ",
+     "n": 162,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "أَرْسَلَ",
+     "n": 127,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "أَلْقَى",
+     "n": 67,
+     "share_in_narrative": 0.0
+    },
+    {
      "lemma": "نَزَّلَ",
      "n": 61,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "كَتَبَ",
+     "n": 39,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "وَضَعَ",
+     "n": 19,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "قُطِعَ",
+     "n": 12,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "وَقَعَ",
+     "n": 12,
+     "share_in_narrative": 0.167
+    },
+    {
+     "lemma": "خَرَّ",
+     "n": 12,
      "share_in_narrative": 0.0
     }
    ],
@@ -334,7 +457,62 @@
    "q": 0.00011007733830476899,
    "synonym_skew": [
     {
+     "lemma": "تَوَلَّى",
+     "n": 76,
+     "share_in_narrative": 0.013
+    },
+    {
+     "lemma": "تابَ",
+     "n": 56,
+     "share_in_narrative": 0.018
+    },
+    {
+     "lemma": "صَدَّ",
+     "n": 37,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "رَدَّ",
+     "n": 35,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "اسْتَوَى",
+     "n": 33,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "أَعْرَضَ",
+     "n": 30,
+     "share_in_narrative": 0.033
+    },
+    {
+     "lemma": "وَلَّى",
+     "n": 27,
+     "share_in_narrative": 0.037
+    },
+    {
+     "lemma": "صَرَفَ",
+     "n": 14,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "هادُ",
+     "n": 11,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "أَنابَ",
+     "n": 11,
+     "share_in_narrative": 0.091
+    },
+    {
      "lemma": "قَلَّبُ",
+     "n": 6,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "زاغَ",
      "n": 6,
      "share_in_narrative": 0.0
     },
@@ -474,78 +652,6 @@
    "translit": "ḥawārī"
   },
   {
-   "lemma": "عاقِر",
-   "n": 3,
-   "narrative": "zechariah-john",
-   "k": 3,
-   "share": 1.0,
-   "base_rate": 0.003207184092366902,
-   "dispersion": 2,
-   "p": 2.8219332675911734e-08,
-   "refs": [
-    "3:40",
-    "19:5",
-    "19:8"
-   ],
-   "q": 4.076125830965028e-07,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H6135",
-     "form": "עָקָר",
-     "translit": "ʻâqâr",
-     "gloss": "sterile (as if extirpated in the generative organs)",
-     "verses": 11,
-     "gloss_match": true,
-     "lang": "he"
-    },
-    {
-     "lemma": "H6131",
-     "form": "עָקַר",
-     "translit": "ʻâqar",
-     "gloss": "to pluck up (especially by the roots)",
-     "verses": 7,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H6136",
-     "form": "עִקַּר",
-     "translit": "ʻiqqar",
-     "gloss": "a stock",
-     "verses": 3,
-     "gloss_match": false,
-     "lang": "arc"
-    },
-    {
-     "lemma": "H6132",
-     "form": "עֲקַר",
-     "translit": "ʻăqar",
-     "gloss": "to pluck up (especially by the roots)",
-     "verses": 1,
-     "gloss_match": false,
-     "lang": "arc"
-    },
-    {
-     "lemma": "H6133",
-     "form": "עֵקֶר",
-     "translit": "ʻêqer",
-     "gloss": "figuratively, a transplanted person, i.e. naturalized citizen",
-     "verses": 1,
-     "gloss_match": false,
-     "lang": "he"
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 7.55,
-   "form": "عاقِر",
-   "gloss": "barren",
-   "root": "عقر",
-   "pos": "N",
-   "translit": "ʿāqir"
-  },
-  {
    "lemma": "سَلْوَى",
    "n": 3,
    "narrative": "moses",
@@ -622,6 +728,112 @@
    "root": "سلو",
    "pos": "N",
    "translit": "salwā"
+  },
+  {
+   "lemma": "مَدائِن",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 2,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "7:111",
+    "26:36",
+    "26:53"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [
+    {
+     "lemma": "قَرْيَة",
+     "n": 54,
+     "share_in_narrative": 0.074
+    },
+    {
+     "lemma": "بَلَد",
+     "n": 14,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H4066",
+     "form": "מָדוֹן",
+     "translit": "mâdôwn",
+     "gloss": "a contest or quarrel",
+     "verses": 17,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4079",
+     "form": "מִדְיָן",
+     "translit": "midyân",
+     "gloss": "a contest or quarrel",
+     "verses": 9,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4090",
+     "form": "מְדָן",
+     "translit": "mᵉdân",
+     "gloss": "a contest or quarrel",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4067",
+     "form": "מָדוֹן",
+     "translit": "mâdôwn",
+     "gloss": "extensiveness, i.e. height",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 6.93,
+   "form": "مَدائِن",
+   "gloss": "citie",
+   "root": "مدن",
+   "pos": "N",
+   "translit": "madāʾin"
+  },
+  {
+   "lemma": "مُلْقي",
+   "n": 3,
+   "narrative": "moses",
+   "k": 3,
+   "share": 1.0,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0003442965528233439,
+   "refs": [
+    "7:115",
+    "10:80",
+    "26:43"
+   ],
+   "q": 0.001074205244808833,
+   "synonym_skew": [
+    {
+     "lemma": "جاعِل",
+     "n": 6,
+     "share_in_narrative": 0.167
+    }
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 6.93,
+   "form": "مُلْقي",
+   "gloss": "throw",
+   "root": "لقي",
+   "pos": "N",
+   "translit": "mulqy"
   },
   {
    "lemma": "تَلْقَفُ",
@@ -897,6 +1109,156 @@
    "translit": "ʾumṭirat"
   },
   {
+   "lemma": "مَطَر",
+   "n": 5,
+   "narrative": "lot",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.01042334830019243,
+   "dispersion": 3,
+   "p": 1.0651763524521396e-05,
+   "refs": [
+    "4:102",
+    "7:84",
+    "25:40",
+    "26:173",
+    "27:58"
+   ],
+   "q": 6.200280260542305e-05,
+   "synonym_skew": [
+    {
+     "lemma": "سَماء",
+     "n": 297,
+     "share_in_narrative": 0.003
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H4306",
+     "form": "מָטַר",
+     "translit": "mâṭar",
+     "gloss": "rain",
+     "verses": 36,
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4305",
+     "form": "מָטַר",
+     "translit": "mâṭar",
+     "gloss": "to rain",
+     "verses": 14,
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H4307",
+     "form": "מַטָּרָא",
+     "translit": "maṭṭârâʼ",
+     "gloss": "a jail (as a guard-house)",
+     "verses": 15,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 5.97,
+   "form": "مَطَر",
+   "gloss": "rain",
+   "root": "مطر",
+   "pos": "N",
+   "translit": "maṭar"
+  },
+  {
+   "lemma": "يَسْتَحْىِۦ",
+   "n": 8,
+   "narrative": "moses",
+   "k": 5,
+   "share": 0.625,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 4,
+   "p": 7.83760763391066e-05,
+   "refs": [
+    "2:26",
+    "2:49",
+    "7:127",
+    "7:141",
+    "14:6",
+    "28:4",
+    "33:53",
+    "40:25"
+   ],
+   "q": 0.0003322464105679519,
+   "synonym_skew": [
+    {
+     "lemma": "سَكَنَ",
+     "n": 15,
+     "share_in_narrative": 0.133
+    },
+    {
+     "lemma": "أَضاعُ",
+     "n": 10,
+     "share_in_narrative": 0.1
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H2416",
+     "form": "חַי",
+     "translit": "chay",
+     "gloss": "alive",
+     "verses": 450,
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H2421",
+     "form": "חָיָה",
+     "translit": "châyâh",
+     "gloss": "to live, whether literally or figuratively",
+     "verses": 239,
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H2425",
+     "form": "חָיַי",
+     "translit": "châyay",
+     "gloss": "to live",
+     "verses": 20,
+     "gloss_match": true,
+     "lang": "he"
+    },
+    {
+     "lemma": "H2418",
+     "form": "חֲיָא",
+     "translit": "chăyâʼ",
+     "gloss": "to live",
+     "verses": 6,
+     "gloss_match": true,
+     "lang": "arc"
+    },
+    {
+     "lemma": "H2422",
+     "form": "חָיֶה",
+     "translit": "châyeh",
+     "gloss": "vigorous",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 5.13,
+   "form": "يَسْتَحْىِۦ",
+   "gloss": "live",
+   "root": "حيي",
+   "pos": "V",
+   "translit": "yastaḥāi"
+  },
+  {
    "lemma": "أَصْنام",
    "n": 5,
    "narrative": "abraham",
@@ -933,6 +1295,225 @@
    "root": "صنم",
    "pos": "N",
    "translit": "ʾaṣnām"
+  },
+  {
+   "lemma": "أَمْن",
+   "n": 5,
+   "narrative": "abraham",
+   "k": 3,
+   "share": 0.6,
+   "base_rate": 0.028062860808210393,
+   "dispersion": 2,
+   "p": 0.0002084349753140906,
+   "refs": [
+    "2:125",
+    "4:83",
+    "6:81",
+    "6:82",
+    "24:55"
+   ],
+   "q": 0.0007741870511666222,
+   "synonym_skew": [
+    {
+     "lemma": "مُؤْمِن",
+     "n": 193,
+     "share_in_narrative": 0.026
+    },
+    {
+     "lemma": "مَكان",
+     "n": 27,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "مَقام",
+     "n": 14,
+     "share_in_narrative": 0.071
+    },
+    {
+     "lemma": "مُسْتَقَرّ",
+     "n": 10,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "قَرار",
+     "n": 9,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H539",
+     "form": "אָמַן",
+     "translit": "ʼâman",
+     "gloss": "properly, to build up or support",
+     "verses": 102,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H529",
+     "form": "אֵמוּן",
+     "translit": "ʼêmûwn",
+     "gloss": "established, i.e. (figuratively) trusty",
+     "verses": 5,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H540",
+     "form": "אֲמַן",
+     "translit": "ʼăman",
+     "gloss": "properly, to build up or support",
+     "verses": 3,
+     "gloss_match": false,
+     "lang": "arc"
+    },
+    {
+     "lemma": "H548",
+     "form": "אֲמָנָה",
+     "translit": "ʼămânâh",
+     "gloss": "something fixed, i.e. a covenant. an allowance",
+     "verses": 2,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H547",
+     "form": "אֹמְנָה",
+     "translit": "ʼômᵉnâh",
+     "gloss": "a column",
+     "verses": 1,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 4.42,
+   "form": "أَمْن",
+   "gloss": "security",
+   "root": "أمن",
+   "pos": "N",
+   "translit": "ʾamn"
+  },
+  {
+   "lemma": "واعَدْ",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0013051010193475207,
+   "refs": [
+    "2:51",
+    "2:235",
+    "7:142",
+    "20:80"
+   ],
+   "q": 0.003384629691254393,
+   "synonym_skew": [
+    {
+     "lemma": "جَعَلَ",
+     "n": 306,
+     "share_in_narrative": 0.062
+    },
+    {
+     "lemma": "بَعَثَ",
+     "n": 50,
+     "share_in_narrative": 0.12
+    },
+    {
+     "lemma": "عاهَدَ",
+     "n": 11,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H3259",
+     "form": "יָעַד",
+     "translit": "yâʻad",
+     "gloss": "to fix upon (by agreement or appointment)",
+     "verses": 29,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 4.33,
+   "form": "واعَدْ",
+   "gloss": "appointed",
+   "root": "وعد",
+   "pos": "V",
+   "translit": "wāʿad"
+  },
+  {
+   "lemma": "جاوَزَ",
+   "n": 4,
+   "narrative": "moses",
+   "k": 3,
+   "share": 0.75,
+   "base_rate": 0.07023733162283514,
+   "dispersion": 3,
+   "p": 0.0013051010193475207,
+   "refs": [
+    "2:249",
+    "7:138",
+    "10:90",
+    "18:62"
+   ],
+   "q": 0.003384629691254393,
+   "synonym_skew": [
+    {
+     "lemma": "خَلا",
+     "n": 25,
+     "share_in_narrative": 0.0
+    },
+    {
+     "lemma": "سَلَفَ",
+     "n": 5,
+     "share_in_narrative": 0.0
+    }
+   ],
+   "cognates": [
+    {
+     "lemma": "H1488",
+     "form": "גֵּז",
+     "translit": "gêz",
+     "gloss": "a fleece (as shorn)",
+     "verses": 4,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H1492",
+     "form": "גָּזַּה",
+     "translit": "gâzzah",
+     "gloss": "a fleece",
+     "verses": 4,
+     "gloss_match": false,
+     "lang": "he"
+    },
+    {
+     "lemma": "H1468",
+     "form": "גּוּז",
+     "translit": "gûwz",
+     "gloss": "properly, to shear off",
+     "verses": 2,
+     "gloss_match": false,
+     "lang": "he"
+    }
+   ],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "score": 4.33,
+   "form": "جاوَزَ",
+   "gloss": "across",
+   "root": "جوز",
+   "pos": "V",
+   "translit": "jāwaza"
   },
   {
    "lemma": "آنَسَ",
@@ -1021,6 +1602,11 @@
    ],
    "q": 0.003384629691254393,
    "synonym_skew": [
+    {
+     "lemma": "اصْطَفَى",
+     "n": 11,
+     "share_in_narrative": 0.091
+    },
     {
      "lemma": "اجْتَبَى",
      "n": 10,
@@ -1157,95 +1743,6 @@
    "translit": "ḥāshir"
   },
   {
-   "lemma": "مَدائِن",
-   "n": 3,
-   "narrative": "moses",
-   "k": 3,
-   "share": 1.0,
-   "base_rate": 0.07023733162283514,
-   "dispersion": 2,
-   "p": 0.0003442965528233439,
-   "refs": [
-    "7:111",
-    "26:36",
-    "26:53"
-   ],
-   "q": 0.001074205244808833,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H4066",
-     "form": "מָדוֹן",
-     "translit": "mâdôwn",
-     "gloss": "a contest or quarrel",
-     "verses": 17,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H4079",
-     "form": "מִדְיָן",
-     "translit": "midyân",
-     "gloss": "a contest or quarrel",
-     "verses": 9,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H4090",
-     "form": "מְדָן",
-     "translit": "mᵉdân",
-     "gloss": "a contest or quarrel",
-     "verses": 3,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H4067",
-     "form": "מָדוֹן",
-     "translit": "mâdôwn",
-     "gloss": "extensiveness, i.e. height",
-     "verses": 1,
-     "gloss_match": false,
-     "lang": "he"
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 3.46,
-   "form": "مَدائِن",
-   "gloss": "citie",
-   "root": "مدن",
-   "pos": "N",
-   "translit": "madāʾin"
-  },
-  {
-   "lemma": "مُلْقي",
-   "n": 3,
-   "narrative": "moses",
-   "k": 3,
-   "share": 1.0,
-   "base_rate": 0.07023733162283514,
-   "dispersion": 3,
-   "p": 0.0003442965528233439,
-   "refs": [
-    "7:115",
-    "10:80",
-    "26:43"
-   ],
-   "q": 0.001074205244808833,
-   "synonym_skew": [],
-   "cognates": [],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 3.46,
-   "form": "مُلْقي",
-   "gloss": "throw",
-   "root": "لقي",
-   "pos": "N",
-   "translit": "mulqy"
-  },
-  {
    "lemma": "يَبْخَسْ",
    "n": 5,
    "narrative": "shuayb",
@@ -1272,62 +1769,6 @@
    "root": "بخس",
    "pos": "V",
    "translit": "yabkhas"
-  },
-  {
-   "lemma": "مَطَر",
-   "n": 5,
-   "narrative": "lot",
-   "k": 3,
-   "share": 0.6,
-   "base_rate": 0.01042334830019243,
-   "dispersion": 3,
-   "p": 1.0651763524521396e-05,
-   "refs": [
-    "4:102",
-    "7:84",
-    "25:40",
-    "26:173",
-    "27:58"
-   ],
-   "q": 6.200280260542305e-05,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H4306",
-     "form": "מָטַר",
-     "translit": "mâṭar",
-     "gloss": "rain",
-     "verses": 36,
-     "gloss_match": true,
-     "lang": "he"
-    },
-    {
-     "lemma": "H4305",
-     "form": "מָטַר",
-     "translit": "mâṭar",
-     "gloss": "to rain",
-     "verses": 14,
-     "gloss_match": true,
-     "lang": "he"
-    },
-    {
-     "lemma": "H4307",
-     "form": "מַטָּרָא",
-     "translit": "maṭṭârâʼ",
-     "gloss": "a jail (as a guard-house)",
-     "verses": 15,
-     "gloss_match": false,
-     "lang": "he"
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 2.98,
-   "form": "مَطَر",
-   "gloss": "rain",
-   "root": "مطر",
-   "pos": "N",
-   "translit": "maṭar"
   },
   {
    "lemma": "جَواب",
@@ -1506,83 +1947,6 @@
    "translit": "mahd"
   },
   {
-   "lemma": "يَسْتَحْىِۦ",
-   "n": 8,
-   "narrative": "moses",
-   "k": 5,
-   "share": 0.625,
-   "base_rate": 0.07023733162283514,
-   "dispersion": 4,
-   "p": 7.83760763391066e-05,
-   "refs": [
-    "2:26",
-    "2:49",
-    "7:127",
-    "7:141",
-    "14:6",
-    "28:4",
-    "33:53",
-    "40:25"
-   ],
-   "q": 0.0003322464105679519,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H2416",
-     "form": "חַי",
-     "translit": "chay",
-     "gloss": "alive",
-     "verses": 450,
-     "gloss_match": true,
-     "lang": "he"
-    },
-    {
-     "lemma": "H2421",
-     "form": "חָיָה",
-     "translit": "châyâh",
-     "gloss": "to live, whether literally or figuratively",
-     "verses": 239,
-     "gloss_match": true,
-     "lang": "he"
-    },
-    {
-     "lemma": "H2425",
-     "form": "חָיַי",
-     "translit": "châyay",
-     "gloss": "to live",
-     "verses": 20,
-     "gloss_match": true,
-     "lang": "he"
-    },
-    {
-     "lemma": "H2418",
-     "form": "חֲיָא",
-     "translit": "chăyâʼ",
-     "gloss": "to live",
-     "verses": 6,
-     "gloss_match": true,
-     "lang": "arc"
-    },
-    {
-     "lemma": "H2422",
-     "form": "חָיֶה",
-     "translit": "châyeh",
-     "gloss": "vigorous",
-     "verses": 1,
-     "gloss_match": false,
-     "lang": "he"
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 2.57,
-   "form": "يَسْتَحْىِۦ",
-   "gloss": "live",
-   "root": "حيي",
-   "pos": "V",
-   "translit": "yastaḥāi"
-  },
-  {
    "lemma": "أَبْيَض",
    "n": 8,
    "narrative": "moses",
@@ -1649,80 +2013,6 @@
    "root": "بيض",
    "pos": "ADJ",
    "translit": "ʾabyaḍ"
-  },
-  {
-   "lemma": "أَمْن",
-   "n": 5,
-   "narrative": "abraham",
-   "k": 3,
-   "share": 0.6,
-   "base_rate": 0.028062860808210393,
-   "dispersion": 2,
-   "p": 0.0002084349753140906,
-   "refs": [
-    "2:125",
-    "4:83",
-    "6:81",
-    "6:82",
-    "24:55"
-   ],
-   "q": 0.0007741870511666222,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H539",
-     "form": "אָמַן",
-     "translit": "ʼâman",
-     "gloss": "properly, to build up or support",
-     "verses": 102,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H529",
-     "form": "אֵמוּן",
-     "translit": "ʼêmûwn",
-     "gloss": "established, i.e. (figuratively) trusty",
-     "verses": 5,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H540",
-     "form": "אֲמַן",
-     "translit": "ʼăman",
-     "gloss": "properly, to build up or support",
-     "verses": 3,
-     "gloss_match": false,
-     "lang": "arc"
-    },
-    {
-     "lemma": "H548",
-     "form": "אֲמָנָה",
-     "translit": "ʼămânâh",
-     "gloss": "something fixed, i.e. a covenant. an allowance",
-     "verses": 2,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H547",
-     "form": "אֹמְנָה",
-     "translit": "ʼômᵉnâh",
-     "gloss": "a column",
-     "verses": 1,
-     "gloss_match": false,
-     "lang": "he"
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 2.21,
-   "form": "أَمْن",
-   "gloss": "security",
-   "root": "أمن",
-   "pos": "N",
-   "translit": "ʾamn"
   },
   {
    "lemma": "يَسُومُ",
@@ -1796,98 +2086,6 @@
    "root": "سوم",
    "pos": "V",
    "translit": "yasūmu"
-  },
-  {
-   "lemma": "واعَدْ",
-   "n": 4,
-   "narrative": "moses",
-   "k": 3,
-   "share": 0.75,
-   "base_rate": 0.07023733162283514,
-   "dispersion": 3,
-   "p": 0.0013051010193475207,
-   "refs": [
-    "2:51",
-    "2:235",
-    "7:142",
-    "20:80"
-   ],
-   "q": 0.003384629691254393,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H3259",
-     "form": "יָעַד",
-     "translit": "yâʻad",
-     "gloss": "to fix upon (by agreement or appointment)",
-     "verses": 29,
-     "gloss_match": false,
-     "lang": "he"
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 2.16,
-   "form": "واعَدْ",
-   "gloss": "appointed",
-   "root": "وعد",
-   "pos": "V",
-   "translit": "wāʿad"
-  },
-  {
-   "lemma": "جاوَزَ",
-   "n": 4,
-   "narrative": "moses",
-   "k": 3,
-   "share": 0.75,
-   "base_rate": 0.07023733162283514,
-   "dispersion": 3,
-   "p": 0.0013051010193475207,
-   "refs": [
-    "2:249",
-    "7:138",
-    "10:90",
-    "18:62"
-   ],
-   "q": 0.003384629691254393,
-   "synonym_skew": [],
-   "cognates": [
-    {
-     "lemma": "H1488",
-     "form": "גֵּז",
-     "translit": "gêz",
-     "gloss": "a fleece (as shorn)",
-     "verses": 4,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H1492",
-     "form": "גָּזַּה",
-     "translit": "gâzzah",
-     "gloss": "a fleece",
-     "verses": 4,
-     "gloss_match": false,
-     "lang": "he"
-    },
-    {
-     "lemma": "H1468",
-     "form": "גּוּז",
-     "translit": "gûwz",
-     "gloss": "properly, to shear off",
-     "verses": 2,
-     "gloss_match": false,
-     "lang": "he"
-    }
-   ],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "score": 2.16,
-   "form": "جاوَزَ",
-   "gloss": "across",
-   "root": "جوز",
-   "pos": "V",
-   "translit": "jāwaza"
   },
   {
    "lemma": "يُصَلَّبُ",
@@ -2866,10 +3064,10 @@
      "lang": "he"
     },
     {
-     "lemma": "H7835",
-     "form": "שָׁחַר",
-     "translit": "shâchar",
-     "gloss": "to be dim or dark (in color)",
+     "lemma": "H5507",
+     "form": "סֹחֵרָה",
+     "translit": "çôchêrâh",
+     "gloss": "something surrounding the person, i.e. a shield",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"

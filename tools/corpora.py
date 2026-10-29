@@ -58,7 +58,8 @@ then so not no indeed surely verily will shall would do did does has have had wh
 what when there upon into over about one ones all most more than very lo o
 properly literally figuratively generally specifically especially used implication extension
 intensive causative intransitive transitive also perhaps great various application applications
-latitude something abstractly concretely""".split())
+latitude something abstractly concretely like such also thing things way ways made make
+""".split())
 
 
 def quran_ref_range(r):

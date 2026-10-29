@@ -19,37 +19,37 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 
 | Score | Lemma | Narrative | In narrative | Units | q | Flags |
 |---|---|---|---|---|---|---|
-| 16.19 | يَمّ *yamm* “sea” (root يمم) | Moses | 7/7 (100%; base 7%) | 4 | 1.5e-07 | synonym skew vs بَحْر (39, 28% here); Hebrew cognate יָם *yâm* H3220 |
+| 16.19 | يَمّ *yamm* “sea” (root يمم) | Moses | 7/7 (100%; base 7%) | 4 | 1.5e-07 | synonym skew vs نَهَر (51, 6% here), بَحْر (39, 28% here); Hebrew cognate יָם *yâm* H3220 |
 | 15.31 | ساحِر *sāḥir* “magician” (root سحر) | Moses | 18/21 (86%; base 7%) | 7 | 1.8e-16 |  |
-| 12.37 | غابِر *ghābir* “behind” (root غبر) | Lot | 5/7 (71%; base 1%) | 4 | 4.5e-08 | synonym skew vs خَلْف (22, 0% here), وَراء (24, 0% here) |
-| 9.98 | يَهْبِطُ *yahbiṭu* “down” (root هبط) | Adam and Iblis | 5/8 (62%; base 1%) | 3 | 1.8e-07 | synonym skew vs نَزَّلَ (61, 0% here) |
-| 9.33 | راغَ *rāgha* “turned” (root روغ) | Abraham | 3/3 (100%; base 3%) | 2 | 1.1e-04 | synonym skew vs قَلَّبُ (6, 0% here), أَدْبَرَ (4, 0% here) |
+| 15.1 | عاقِر *ʿāqir* “barren” (root عقر) | Zechariah and John | 3/3 (100%; base 0%) | 2 | 4.1e-07 | synonym skew vs خاشِع (13, 8% here); Hebrew cognate עָקָר *ʻâqâr* H6135 |
+| 12.37 | غابِر *ghābir* “behind” (root غبر) | Lot | 5/7 (71%; base 1%) | 4 | 4.5e-08 | synonym skew vs وَراء (24, 0% here), خَلْف (22, 0% here) |
+| 9.98 | يَهْبِطُ *yahbiṭu* “down” (root هبط) | Adam and Iblis | 5/8 (62%; base 1%) | 3 | 1.8e-07 | synonym skew vs أَنزَلَ (162, 0% here), أَرْسَلَ (127, 0% here) |
+| 9.33 | راغَ *rāgha* “turned” (root روغ) | Abraham | 3/3 (100%; base 3%) | 2 | 1.1e-04 | synonym skew vs تَوَلَّى (76, 1% here), تابَ (56, 2% here) |
 | 7.69 | حَوارِيّ *ḥawārī* “disciple” (root حور) | Jesus and Mary | 4/4 (100%; base 1%) | 3 | 3.1e-07 |  |
-| 7.55 | عاقِر *ʿāqir* “barren” (root عقر) | Zechariah and John | 3/3 (100%; base 0%) | 2 | 4.1e-07 | Hebrew cognate עָקָר *ʻâqâr* H6135 |
 | 6.93 | سَلْوَى *salwā* “quail” (root سلو) | Moses | 3/3 (100%; base 7%) | 3 | 1.1e-03 | Hebrew cognate שְׂלָו *sᵉlâv* H7958; **same narrative in Hebrew Bible** |
+| 6.93 | مَدائِن *madāʾin* “citie” (root مدن) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 | synonym skew vs قَرْيَة (54, 7% here), بَلَد (14, 0% here) |
+| 6.93 | مُلْقي *mulqy* “throw” (root لقي) | Moses | 3/3 (100%; base 7%) | 3 | 1.1e-03 | synonym skew vs جاعِل (6, 17% here) |
 | 6.93 | تَلْقَفُ *talqafu* “swallow” (root لقف) | Moses | 3/3 (100%; base 7%) | 3 | 1.1e-03 | synonym skew vs خَسَفَ (8, 0% here) |
 | 6.93 | أَيْمَن *ʾayman* “right” (root يمن) | Moses | 3/3 (100%; base 7%) | 3 | 1.1e-03 | synonym skew vs قَيِّم (5, 0% here); Hebrew cognate יְמָנִי *yᵉmânîy* H3233, יָמַן *yâman* H3231 |
 | 6.67 | ناقَة *nāqa* “camel” (root نوق) | Salih and Thamud | 5/7 (71%; base 1%) | 4 | 1.2e-08 |  |
 | 6.25 | عَقَرَ *ʿaqara* “hamstrung” (root عقر) | Salih and Thamud | 4/5 (80%; base 1%) | 4 | 2.4e-07 |  |
 | 6.19 | أُمْطِرَتْ *ʾumṭirat* “rained” (root مطر) | Lot | 5/7 (71%; base 1%) | 5 | 4.5e-08 | Hebrew cognate מָטַר *mâṭar* H4306, מָטַר *mâṭar* H4305 |
+| 5.97 | مَطَر *maṭar* “rain” (root مطر) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 | synonym skew vs سَماء (297, 0% here); Hebrew cognate מָטַר *mâṭar* H4306, מָטַר *mâṭar* H4305 |
+| 5.13 | يَسْتَحْىِۦ *yastaḥāi* “live” (root حيي) | Moses | 5/8 (62%; base 7%) | 4 | 3.3e-04 | synonym skew vs سَكَنَ (15, 13% here), أَضاعُ (10, 10% here); Hebrew cognate חַי *chay* H2416, חָיָה *châyâh* H2421 |
 | 4.43 | أَصْنام *ʾaṣnām* “idol” (root صنم) | Abraham | 4/5 (80%; base 3%) | 4 | 2.5e-05 |  |
+| 4.42 | أَمْن *ʾamn* “security” (root امن) | Abraham | 3/5 (60%; base 3%) | 2 | 7.7e-04 | synonym skew vs مُؤْمِن (193, 3% here), مَكان (27, 0% here) |
+| 4.33 | واعَدْ *wāʿad* “appointed” (root وعد) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs جَعَلَ (306, 6% here), بَعَثَ (50, 12% here) |
+| 4.33 | جاوَزَ *jāwaza* “across” (root جوز) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs خَلا (25, 0% here), سَلَفَ (5, 0% here) |
 | 4.33 | آنَسَ *ʾānasa* “perceive” (root انس) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs يَشْعُرُ (25, 8% here) |
-| 4.33 | اخْتارَ *akhtāra* “chose” (root خير) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs اجْتَبَى (10, 0% here) |
+| 4.33 | اخْتارَ *akhtāra* “chose” (root خير) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 | synonym skew vs اصْطَفَى (11, 9% here), اجْتَبَى (10, 0% here) |
 | 3.53 | مُغْرَق *mughraq* “drowned” (root غرق) | Noah | 3/4 (75%; base 2%) | 2 | 1.0e-04 |  |
 | 3.46 | حاشِر *ḥāshir* “gatherer” (root حشر) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 |  |
-| 3.46 | مَدائِن *madāʾin* “citie” (root مدن) | Moses | 3/3 (100%; base 7%) | 2 | 1.1e-03 |  |
-| 3.46 | مُلْقي *mulqy* “throw” (root لقي) | Moses | 3/3 (100%; base 7%) | 3 | 1.1e-03 |  |
 | 3.43 | يَبْخَسْ *yabkhas* “deprive” (root بخس) | Shuʿayb and Midian | 3/5 (60%; base 1%) | 3 | 1.8e-05 |  |
-| 2.98 | مَطَر *maṭar* “rain” (root مطر) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 | Hebrew cognate מָטַר *mâṭar* H4306, מָטַר *mâṭar* H4305 |
 | 2.98 | جَواب *jawāb* “answer” (root جوب) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 | Hebrew cognate גֶּבֶא *gebeʼ* H1360 |
 | 2.98 | ضَيْف *ḍayf* “guest” (root ضيف) | Lot | 3/5 (60%; base 1%) | 3 | 6.2e-05 |  |
 | 2.86 | مَهْد *mahd* “cradle” (root مهد) | Jesus and Mary | 3/5 (60%; base 1%) | 3 | 9.5e-05 |  |
-| 2.57 | يَسْتَحْىِۦ *yastaḥāi* “live” (root حيي) | Moses | 5/8 (62%; base 7%) | 4 | 3.3e-04 | Hebrew cognate חַי *chay* H2416, חָיָה *châyâh* H2421 |
 | 2.57 | أَبْيَض *ʾabyaḍ* “white” (root بيض) | Moses | 5/8 (62%; base 7%) | 5 | 3.3e-04 | Hebrew cognate בּוּץ *bûwts* H948 |
-| 2.21 | أَمْن *ʾamn* “security” (root امن) | Abraham | 3/5 (60%; base 3%) | 2 | 7.7e-04 |  |
 | 2.16 | يَسُومُ *yasūmu* “afflicting” (root سوم) | Moses | 3/4 (75%; base 7%) | 2 | 3.4e-03 |  |
-| 2.16 | واعَدْ *wāʿad* “appointed” (root وعد) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 |  |
-| 2.16 | جاوَزَ *jāwaza* “across” (root جوز) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 |  |
 | 2.16 | يُصَلَّبُ *yuṣallabu* “crucify” (root صلب) | Moses | 3/4 (75%; base 7%) | 3 | 3.4e-03 |  |
 | 1.51 | ناظِر *nāẓir* “observer” (root نظر) | Moses | 3/5 (60%; base 7%) | 3 | 6.7e-03 |  |
 | 1.51 | حُوت *ḥūt* “fish” (root حوت) | Moses | 3/5 (60%; base 7%) | 2 | 6.7e-03 |  |
@@ -114,7 +114,7 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 31.12 | מַלְכָּה *malkâh* “a queen” (H4436) | Esther | 24/34 (71%; base 1%) | 7 | 1.6e-42 |  |
 | 30.08 | מְדִינָה *mᵉdîynâh* “properly, a judgeship, i.e. jurisdiction” (H4082) | Esther | 26/40 (65%; base 1%) | 6 | 1.3e-44 |  |
 | 28.25 | אֱלוֹהַּ *ʼĕlôwahh* “a deity or the Deity” (H433) | Job | 41/59 (69%; base 5%) | 23 | 2.7e-39 |  |
-| 24.45 | פָּתַר *pâthar* “to open up, i.e. (figuratively) interpret (a dream)” (H6622) | Joseph | 7/7 (100%; base 2%) | 2 | 7.7e-12 | synonym skew vs פָּקַח (18, 0% here), פָּתַח (133, 3% here) |
+| 24.45 | פָּתַר *pâthar* “to open up, i.e. (figuratively) interpret (a dream)” (H6622) | Joseph | 7/7 (100%; base 2%) | 2 | 7.7e-12 | synonym skew vs יָשַׁע (198, 0% here), פָּתַח (133, 3% here) |
 | 20.93 | דְּבִיר *dᵉbîyr* “the shrine or innermost part of the sanctuary” (H1687) | Solomon | 15/16 (94%; base 3%) | 6 | 2.3e-21 |  |
 | 15.67 | מַעֲרָכָה *maʻărâkâh* “an arrangement” (H4634) | Saul | 11/18 (61%; base 3%) | 2 | 2.3e-12 | synonym skew vs עֵדֶר (34, 3% here) |
 | 13.97 | שָׁבַר *shâbar* “to deal in grain” (H7666) | Joseph | 14/20 (70%; base 2%) | 5 | 3.8e-19 |  |
@@ -130,10 +130,10 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 10.7 | יָשִׁישׁ *yâshîysh* “an old man” (H3453) | Job | 4/4 (100%; base 5%) | 4 | 1.7e-05 | synonym skew vs זָקֵן (171, 2% here), יָשָׁן (5, 0% here) |
 | 10.48 | סֹהַר *çôhar* “a dungeon (as surrounded by walls)” (H5470) | Joseph | 6/6 (100%; base 2%) | 2 | 3.3e-10 |  |
 | 9.89 | צְפַרְדֵּעַ *tsᵉphardêaʻ* “a marsh-leaper, i.e. frog” (H6854) | Moses | 11/13 (85%; base 6%) | 2 | 2.4e-11 |  |
-| 9.87 | חָוָה *châvâh* “properly, to live” (H2331) | Job | 5/6 (83%; base 5%) | 3 | 5.0e-06 | synonym skew vs חָיַי (20, 0% here), חָיָה (239, 2% here) |
+| 9.87 | חָוָה *châvâh* “properly, to live” (H2331) | Job | 5/6 (83%; base 5%) | 3 | 5.0e-06 | synonym skew vs חָיָה (239, 2% here), חָיַי (20, 0% here) |
 | 8.91 | אֳנִי *ʼŏnîy* “-a ship or (collectively) a fleet” (H590) | Solomon | 4/5 (80%; base 3%) | 2 | 1.1e-05 | synonym skew vs אֳנִיָּה (28, 11% here) |
 | 8.76 | דָּחַף *dâchaph* “to urge, i.e. hasten” (H1765) | Esther | 3/4 (75%; base 1%) | 3 | 6.0e-06 | synonym skew vs עָנַשׁ (8, 0% here) |
-| 8.76 | גִּנָּה *ginnâh* “a garden” (H1594) | Esther | 3/4 (75%; base 1%) | 2 | 6.0e-06 | synonym skew vs גַּן (37, 0% here), כֶּרֶם (81, 0% here) |
+| 8.76 | גִּנָּה *ginnâh* “a garden” (H1594) | Esther | 3/4 (75%; base 1%) | 2 | 6.0e-06 | synonym skew vs כֶּרֶם (81, 0% here), גַּן (37, 0% here) |
 | 8.73 | פִּתְרוֹן *pithrôwn* “interpretation (of a dream)” (H6623) | Joseph | 5/5 (100%; base 2%) | 2 | 1.4e-08 |  |
 | 8.31 | שֶׁבֶר *sheber* “grain (as if broken into kernels)” (H7668) | Joseph | 7/9 (78%; base 2%) | 4 | 2.1e-10 |  |
 | 7.82 | עָגֹל *ʻâgôl* “circular” (H5696) | Solomon | 5/5 (100%; base 3%) | 3 | 1.0e-07 |  |
@@ -227,9 +227,9 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 9.3e-01 | בְּנָא *bᵉnâʼ* “to build” (H1124) | Daniel (Aramaic court tales and vision) (1) + Ezra's Aramaic letters and decrees (18) | 19 |
 | 9.4e-01 | רַב *rab* “abundant” (H7229) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
 | 9.4e-01 | אָתָה *ʼâthâh* “to arrive” (H858) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
-| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
 | 9.4e-01 | עָלַם *ʻâlam* “remote time, i.e. the future or past indefinitely” (H5957) | Daniel (Aramaic court tales and vision) (13) + Ezra's Aramaic letters and decrees (2) | 15 |
 | 9.4e-01 | יוֹם *yôwm* “a day” (H3118) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
+| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
 | 9.5e-01 | חַד *chad* “as card. one” (H2298) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (4) | 14 |
 | 9.5e-01 | שְׁלַח *shᵉlach* “to send away, for, or out (in a great variety of applications)” (H7972) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (10) | 14 |
 | 9.5e-01 | גַּו *gav* “the middle” (H1459) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (3) | 13 |
