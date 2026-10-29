@@ -410,7 +410,7 @@ units:
       - {motif: daily-tamid-offering, refs: ["1Chr 16:40"]}
       - {motif: hodu-ki-tov-refrain, refs: ["1Chr 16:41"]}
       - {motif: gatekeepers-levitical, refs: ["1Chr 16:38", "1Chr 16:42"], note: "Obed-edom and Hosah as gatekeepers"}
-      - {motif: chronicler-variant-of-parallel, refs: ["1Chr 16:4-42"], note: "the whole liturgical appointment is absent from 2Sam 6"}
+      - {motif: chronicler-variant-of-parallel, refs: ["1Chr 16:4-7", "1Chr 16:37-42"], note: "the whole liturgical appointment is absent from 2Sam 6"}
     hints:
       - "The Levitical choirs of Asaph, Heman and Jeduthun are the eponyms of psalm superscriptions (Pss 50, 73-83, 88, 39, 62, 77)."
   - id: hb-1chr-16-davids-psalm
