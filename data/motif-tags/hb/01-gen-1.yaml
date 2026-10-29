@@ -1,0 +1,631 @@
+# Full read, chunk 1: Gen 1 - Gen 33. Read from the Westminster Leningrad Codex.
+new_motifs:
+  creation-from-primeval-waters: {label: "Before creation there is a dark watery deep (tehom) out of which the world is formed", cluster: creation}
+  divine-wind-over-waters: {label: "A divine wind or spirit hovers or moves over the primeval waters", cluster: creation}
+  creation-by-word: {label: "Deity creates by spoken command (Let there be...)", cluster: creation}
+  light-before-sun: {label: "Light exists before the sun and moon are made", cluster: creation}
+  creation-by-separation: {label: "Creation proceeds by dividing (light/darkness, waters above/below)", cluster: creation}
+  firmament-divides-waters: {label: "A solid firmament (raqia) separates upper waters from lower waters", cluster: cosmology}
+  deity-names-creations: {label: "Deity gives names to the elements it creates (day, night, heaven, earth, seas)", cluster: creation}
+  creation-in-six-days: {label: "Creation is completed in six days", cluster: creation}
+  luminaries-rule-day-night: {label: "Sun and moon are set to rule day and night and mark signs and seasons", cluster: cosmology}
+  sea-monsters-created: {label: "Great sea monsters (tanninim) are expressly created by God", cluster: creation}
+  earth-brings-forth-life: {label: "The earth itself is commanded to bring forth plants or animals", cluster: creation}
+  human-in-divine-image: {label: "Humanity made in the image or likeness of the deity", cluster: creation}
+  divine-plural-speech: {label: "God speaks in the plural (us, our) as if to a divine council", cluster: cosmology}
+  male-and-female-created-together: {label: "Humanity created male and female in one act", cluster: creation}
+  human-dominion-over-animals: {label: "Humans given rule over animals", cluster: creation}
+  be-fruitful-and-multiply: {label: "Divine blessing: be fruitful, multiply, fill the earth", cluster: creation}
+  primeval-vegetarianism: {label: "Humans and animals originally given only plants as food", cluster: creation}
+  divine-rest-seventh-day: {label: "Deity rests on the seventh day after creating, and sanctifies it", cluster: creation}
+  human-formed-from-earth: {label: "First human shaped from dust, clay or soil", cluster: creation}
+  breath-of-life-into-nostrils: {label: "Deity breathes the breath of life into the first human's nostrils", cluster: creation}
+  pre-creation-no-rain-no-plants: {label: "Before creation there was no rain, plant or man to till the ground (when-not-yet opening)", cluster: creation}
+  mist-or-spring-waters-earth: {label: "A mist or spring rises from the earth to water the ground", cluster: creation}
+  garden-of-god-in-east: {label: "God plants a garden (Eden) in the east and places the first human there", cluster: paradise}
+  tree-of-life: {label: "A tree whose fruit gives eternal life", cluster: paradise}
+  tree-of-knowledge-forbidden: {label: "A tree of knowledge whose fruit is forbidden", cluster: paradise}
+  four-rivers-of-paradise: {label: "A river from paradise divides into four named rivers", cluster: paradise}
+  paradise-gold-and-gems: {label: "Land near paradise rich in gold and precious stones", cluster: paradise}
+  human-tends-garden: {label: "The first human is put in the garden to work and guard it", cluster: paradise}
+  death-penalty-for-eating: {label: "Eating the forbidden fruit is threatened with death", cluster: paradise}
+  adam-names-animals: {label: "The first man names the animals", cluster: paradise}
+  woman-from-rib: {label: "First woman made from the man's rib or side while he sleeps", cluster: creation}
+  deep-sleep-sent-by-god: {label: "God casts a deep sleep (tardemah) on a man", cluster: revelation}
+  marriage-one-flesh: {label: "Man leaves father and mother and cleaves to his wife; they become one flesh", cluster: law}
+  primal-nakedness-without-shame: {label: "First couple naked and not ashamed", cluster: paradise}
+  serpent-tempter: {label: "A cunning serpent persuades the woman to eat the forbidden fruit", cluster: paradise}
+  woman-eats-first-gives-man: {label: "The woman eats first and gives the fruit to her husband", cluster: paradise}
+  eyes-opened-nakedness-known: {label: "Eating opens their eyes and they know they are naked", cluster: paradise}
+  fig-leaf-coverings: {label: "Fig leaves sewn into coverings", cluster: paradise}
+  god-walks-in-garden: {label: "God heard walking in the garden in the breeze of the day", cluster: paradise}
+  hiding-from-god: {label: "Sinner hides from God, who calls 'Where are you?'", cluster: paradise}
+  blame-shifting: {label: "Each accused shifts blame to another (man to woman, woman to serpent)", cluster: paradise}
+  serpent-cursed-to-crawl: {label: "Serpent cursed to crawl on its belly and eat dust", cluster: paradise}
+  enmity-serpent-and-woman-seed: {label: "Enmity between the serpent's seed and the woman's seed: head bruised, heel struck", cluster: paradise}
+  pain-in-childbirth-curse: {label: "Woman punished with pain in childbirth and subordination to husband", cluster: paradise}
+  ground-cursed-toil: {label: "Ground cursed; man must eat by sweat of his brow among thorns and thistles", cluster: paradise}
+  dust-to-dust: {label: "Human comes from dust and returns to dust", cluster: paradise}
+  eve-mother-of-all-living: {label: "First woman named as mother of all living", cluster: creation}
+  garments-of-skin: {label: "God makes garments of skin for the first couple", cluster: paradise}
+  humans-become-like-gods: {label: "Humans gain divine knowledge and God fears they will also gain immortality", cluster: paradise}
+  expulsion-from-paradise: {label: "First humans expelled from the garden", cluster: paradise}
+  cherubim-guard-paradise: {label: "Cherubim and a flaming turning sword guard the way to the tree of life", cluster: paradise}
+  first-birth-naming-speech: {label: "Mother names her child with a speech explaining the name", cluster: patriarchs}
+  farmer-vs-shepherd-brothers: {label: "Rivalry between a farmer brother and a shepherd brother", cluster: primeval}
+  offering-accepted-rejected: {label: "God accepts one brother's offering and rejects the other's", cluster: cult}
+  firstlings-and-fat-offered: {label: "Firstborn animals and their fat offered to God", cluster: cult}
+  sin-crouching-at-door: {label: "Sin personified as a beast crouching at the door, desiring the man", cluster: primeval}
+  first-murder-fratricide: {label: "A brother kills his brother in the first murder", cluster: primeval}
+  am-i-my-brothers-keeper: {label: "Murderer evades God's question about his brother's whereabouts", cluster: primeval}
+  blood-cries-from-ground: {label: "Victim's blood cries out from the ground to God", cluster: primeval}
+  earth-opens-mouth-to-receive-blood: {label: "The earth opens its mouth to receive spilled blood", cluster: primeval}
+  murderer-condemned-to-wander: {label: "Murderer condemned to be a restless wanderer, the ground withholding its yield", cluster: primeval}
+  mark-of-cain: {label: "God puts a protective sign on a murderer so no one kills him", cluster: primeval}
+  sevenfold-vengeance: {label: "Vengeance multiplied sevenfold (or seventy-sevenfold)", cluster: primeval}
+  land-of-nod-east-of-eden: {label: "Exile dwells in the land of Nod east of Eden", cluster: primeval}
+  first-city-named-for-son: {label: "First city built and named after the founder's son", cluster: civilization}
+  culture-heroes-inventors: {label: "Named ancestors are originators of crafts (herding, music, metalwork)", cluster: civilization}
+  first-polygamy: {label: "First man to take two wives", cluster: primeval}
+  song-of-lamech: {label: "Boast-song of Lamech to his wives about killing a man for wounding him", cluster: primeval}
+  replacement-son-for-slain: {label: "A new son given in place of one who was killed", cluster: primeval}
+  beginning-of-invoking-gods-name: {label: "In a named generation people begin to call on the name of the LORD", cluster: cult}
+  ten-antediluvian-generations: {label: "Ten generations of long-lived patriarchs from the first man to the flood hero", cluster: primeval}
+  antediluvian-longevity: {label: "Pre-flood ancestors live many centuries", cluster: primeval}
+  son-in-fathers-image: {label: "Son begotten in the father's likeness and image, as man in God's", cluster: primeval}
+  seventh-patriarch-taken-by-god: {label: "Seventh ancestor walks with God and is taken without dying", cluster: primeval}
+  life-span-365: {label: "A lifespan of 365 years, a solar-year number", cluster: primeval}
+  longest-lived-man: {label: "One ancestor is the longest-lived human (969 years)", cluster: primeval}
+  name-meaning-comfort-from-curse: {label: "Child named as one who will bring relief from the cursed ground", cluster: primeval}
+  sons-of-god-marry-human-women: {label: "Divine beings take human women as wives", cluster: primeval}
+  giants-offspring-of-gods: {label: "Giants or heroes (Nephilim) born from divine-human unions", cluster: primeval}
+  lifespan-limited-120: {label: "God limits human lifespan to 120 years", cluster: primeval}
+  god-regrets-creating: {label: "God regrets having made humankind and is grieved in his heart", cluster: primeval}
+  evil-inclination-of-heart: {label: "Every inclination (yetser) of the human heart is only evil", cluster: primeval}
+  vessel-multiple-decks-door-window: {label: "Vessel has several decks, a side door and a roof opening or window", cluster: flood}
+  clean-animals-by-sevens: {label: "Clean animals taken aboard by sevens, unclean by pairs", cluster: flood}
+  forty-days-rain: {label: "Rain or flood lasts forty days and forty nights", cluster: flood}
+  seven-day-wait-before-flood: {label: "Seven days pass between the warning or boarding and the onset of the flood", cluster: flood}
+  god-shuts-the-door: {label: "God himself shuts the vessel's door behind the hero", cluster: flood}
+  flood-dated-precisely: {label: "Flood events given exact calendar dates (year of hero's life, month, day)", cluster: flood}
+  waters-cover-highest-mountains: {label: "Waters rise above the highest mountains (fifteen cubits)", cluster: flood}
+  wind-abates-waters: {label: "God sends a wind (ruah) over the earth to make the waters subside", cluster: flood}
+  raven-sent-first: {label: "A raven is sent out and does not return (goes to and fro)", cluster: flood}
+  olive-leaf-sign: {label: "A dove returns with an olive leaf in its beak", cluster: flood}
+  seasons-guaranteed: {label: "God guarantees seedtime and harvest, cold and heat, day and night will not cease", cluster: flood}
+  meat-permitted-after-flood: {label: "Eating animals permitted to humans after the flood", cluster: law}
+  blood-prohibition: {label: "Prohibition on eating flesh with its lifeblood", cluster: law}
+  bloodshed-requires-bloodshed: {label: "Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image", cluster: law}
+  animals-accountable-for-blood: {label: "God requires the life of a human even from an animal that kills", cluster: law}
+  covenant-with-all-life: {label: "God makes a covenant with humans and all living creatures", cluster: covenant}
+  bow-in-cloud-reminds-god: {label: "God sees the bow in the cloud and remembers his covenant (the sign reminds the deity)", cluster: flood}
+  first-vineyard-drunkenness: {label: "First planter of a vineyard becomes drunk", cluster: civilization}
+  son-sees-fathers-nakedness: {label: "A son sees his father's nakedness and is cursed for it", cluster: primeval}
+  sons-cover-father-walking-backward: {label: "Sons cover their father's nakedness walking backward with averted faces", cluster: primeval}
+  curse-on-grandson-canaan: {label: "Curse falls on Canaan, son of the offender, to be a slave of slaves", cluster: primeval}
+  three-sons-repopulate-world: {label: "Three sons of the flood hero repopulate the whole earth", cluster: primeval}
+  table-of-nations: {label: "All nations listed as descendants of the three sons of the flood hero", cluster: primeval}
+  seventy-nations: {label: "The world's nations number about seventy", cluster: primeval}
+  nations-divided-by-language: {label: "Nations distinguished by land, language and clan", cluster: primeval}
+  nimrod-mighty-hunter: {label: "Nimrod, first mighty man, a mighty hunter before the LORD", cluster: kingship}
+  first-kingdom-babylon: {label: "First kingdom founded in Babel and Shinar", cluster: kingship}
+  founding-of-nineveh: {label: "Founding of Nineveh and the Assyrian cities", cluster: kingship}
+  philistines-from-caphtor: {label: "Philistines derived from Casluhim/Caphtorim (Crete)", cluster: primeval}
+  earth-divided-in-pelegs-days: {label: "In the days of Peleg the earth was divided", cluster: primeval}
+  one-original-language: {label: "All humanity once spoke one language", cluster: primeval}
+  tower-reaching-heaven: {label: "Humans build a tower whose top reaches heaven", cluster: primeval}
+  brick-and-bitumen-building: {label: "Building with baked bricks and bitumen instead of stone and mortar", cluster: civilization}
+  make-a-name-for-ourselves: {label: "Builders seek to make a name for themselves and avoid dispersal", cluster: primeval}
+  god-descends-to-see: {label: "God comes down to see what humans are doing", cluster: theophany}
+  confusion-of-tongues: {label: "God confuses human language", cluster: primeval}
+  dispersal-of-humanity: {label: "God scatters humanity over the earth", cluster: primeval}
+  babel-etymology: {label: "Babel explained from balal, to confuse", cluster: etiology}
+  post-flood-declining-lifespans: {label: "Lifespans decline generation by generation after the flood", cluster: primeval}
+  son-dies-before-father: {label: "A son dies in his father's lifetime and presence", cluster: patriarchs}
+  barren-matriarch: {label: "The patriarch's wife is barren", cluster: patriarchs}
+  migration-from-ur-to-harran: {label: "Family migrates from Ur of the Chaldeans to Harran on the way to Canaan", cluster: patriarchs}
+  divine-call-to-leave-homeland: {label: "God commands the hero to leave his land, kin and father's house for a land he will be shown", cluster: patriarchs}
+  promise-of-great-nation: {label: "God promises to make the patriarch a great nation", cluster: covenant}
+  all-nations-blessed-through-patriarch: {label: "All families of the earth will be blessed through the patriarch", cluster: covenant}
+  promise-of-the-land: {label: "God promises the land to the patriarch's descendants", cluster: covenant}
+  altar-at-theophany-site: {label: "Patriarch builds an altar where God appeared to him", cluster: cult}
+  sacred-tree-sanctuary: {label: "Sacred oak or terebinth marks a sanctuary site (Moreh, Mamre)", cluster: cult}
+  famine-forces-descent-to-egypt: {label: "Famine forces the family to go down to Egypt", cluster: patriarchs}
+  wife-passed-off-as-sister: {label: "Patriarch passes off his beautiful wife as his sister in a foreign court", cluster: patriarchs}
+  matriarch-taken-into-royal-house: {label: "The matriarch is taken into a foreign king's house", cluster: patriarchs}
+  plagues-on-king-for-taking-wife: {label: "God strikes the king's house with plagues or affliction for taking the patriarch's wife", cluster: patriarchs}
+  king-rebukes-patriarch: {label: "The foreign king rebukes the patriarch for the deception", cluster: patriarchs}
+  patriarch-enriched-by-foreign-king: {label: "Patriarch leaves enriched with flocks, slaves and silver from the foreign king", cluster: patriarchs}
+  herdsmen-quarrel-separation: {label: "Quarrel between herdsmen leads kinsmen to separate", cluster: patriarchs}
+  jordan-plain-like-garden-of-god: {label: "The Jordan plain before Sodom's destruction was like the garden of the LORD", cluster: paradise}
+  wicked-sodom: {label: "The men of Sodom are exceedingly wicked", cluster: judgment}
+  seed-as-dust-stars-sand: {label: "Descendants promised to be as countless as the dust, stars or sand", cluster: covenant}
+  walk-the-land-to-claim: {label: "Patriarch told to look in all directions and walk the land he is given", cluster: covenant}
+  war-of-four-kings-against-five: {label: "Four eastern kings make war against five kings of the plain", cluster: war}
+  primeval-giant-peoples: {label: "Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated", cluster: primeval}
+  bitumen-pits: {label: "Valley full of bitumen pits into which fleeing kings fall", cluster: war}
+  patriarch-rescues-kinsman: {label: "Patriarch pursues captors with a small force and rescues his kinsman", cluster: war}
+  number-318: {label: "The patriarch's trained men number 318", cluster: war}
+  priest-king-melchizedek: {label: "A priest-king of Salem brings bread and wine and blesses the patriarch", cluster: cult}
+  el-elyon-creator: {label: "God Most High (El Elyon), creator/possessor of heaven and earth", cluster: cosmology}
+  tithe-to-priest: {label: "A tenth of everything given to a priest", cluster: cult}
+  refusal-of-spoils: {label: "Hero refuses to take spoils, not even a thread or sandal strap", cluster: war}
+  oath-with-raised-hand: {label: "Oath sworn by raising the hand to God", cluster: law}
+  fear-not-oracle: {label: "God addresses the hero with 'Fear not' in a vision", cluster: revelation}
+  childless-heir-is-servant: {label: "Childless patriarch's household servant is to be his heir", cluster: patriarchs}
+  count-the-stars: {label: "God takes the patriarch outside and tells him to count the stars", cluster: covenant}
+  faith-reckoned-as-righteousness: {label: "Patriarch believes God and it is counted to him as righteousness", cluster: covenant}
+  covenant-between-the-pieces: {label: "Covenant ritual: animals cut in halves and a divine presence passes between them", cluster: covenant}
+  birds-of-prey-driven-from-sacrifice: {label: "Birds of prey descend on the sacrifice and the hero drives them away", cluster: cult}
+  dread-and-darkness-in-vision: {label: "A great dark dread falls on the visionary at sunset", cluster: revelation}
+  prophecy-of-400-years-bondage: {label: "Descendants foretold to be enslaved in a foreign land 400 years and leave with great wealth", cluster: exodus}
+  smoking-furnace-and-torch: {label: "A smoking oven and flaming torch represent God's presence", cluster: theophany}
+  iniquity-not-yet-full: {label: "A people's guilt must reach its full measure before judgment", cluster: judgment}
+  borders-river-of-egypt-to-euphrates: {label: "Promised land stretches from the river of Egypt to the Euphrates", cluster: covenant}
+  surrogate-slave-wife: {label: "Barren wife gives her slave-girl to her husband to bear children for her", cluster: patriarchs}
+  pregnant-slave-despises-mistress: {label: "The pregnant slave-wife looks down on her barren mistress", cluster: patriarchs}
+  slave-woman-flees-to-wilderness: {label: "Mistreated slave-woman flees or is sent into the wilderness", cluster: patriarchs}
+  angel-at-wilderness-spring: {label: "An angel meets the outcast woman by a spring or well in the wilderness", cluster: revelation}
+  annunciation-of-son-and-name: {label: "A divine messenger announces a son's birth and gives his name", cluster: birth}
+  ishmael-wild-ass-of-a-man: {label: "Ishmael foretold to be a wild ass of a man, his hand against all", cluster: patriarchs}
+  god-who-sees-me: {label: "Woman names God El Roi, 'God who sees', and the well Beer-lahai-roi", cluster: revelation}
+  el-shaddai-revelation: {label: "God reveals himself by the name El Shaddai", cluster: revelation}
+  name-change-by-god: {label: "God changes a person's name to mark a new destiny", cluster: covenant}
+  kings-will-descend-from-patriarch: {label: "Kings promised to come from the patriarch or matriarch", cluster: covenant}
+  circumcision-covenant-sign: {label: "Circumcision commanded as the sign of the covenant", cluster: covenant}
+  circumcision-eighth-day: {label: "Circumcision on the eighth day after birth", cluster: law}
+  uncircumcised-cut-off: {label: "Uncircumcised male is cut off from his people", cluster: law}
+  patriarch-laughs-at-promise: {label: "Patriarch or matriarch laughs at the promise of a child in old age", cluster: birth}
+  ishmael-twelve-princes: {label: "Ishmael promised to father twelve princes and a great nation", cluster: patriarchs}
+  circumcision-at-age-thirteen: {label: "Ishmael circumcised at thirteen, Abraham at ninety-nine", cluster: law}
+units:
+  - id: hb-gen-1-creation-six-days
+    tradition: judaism
+    title: Creation in six days and the seventh-day rest
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 1:1-2:3"]
+    tags:
+      - {motif: creation-from-primeval-waters, refs: ["Gen 1:2"], note: "tohu wa-bohu; darkness on the face of tehom"}
+      - {motif: divine-wind-over-waters, refs: ["Gen 1:2"], note: "ruah elohim merahefet, 'hovering' like a bird"}
+      - {motif: creation-by-word, refs: ["Gen 1:3", "Gen 1:6", "Gen 1:9", "Gen 1:11", "Gen 1:14", "Gen 1:20", "Gen 1:24"]}
+      - {motif: light-before-sun, refs: ["Gen 1:3", "Gen 1:16"]}
+      - {motif: creation-by-separation, refs: ["Gen 1:4", "Gen 1:7", "Gen 1:18"]}
+      - {motif: firmament-divides-waters, refs: ["Gen 1:6", "Gen 1:7"]}
+      - {motif: deity-names-creations, refs: ["Gen 1:5", "Gen 1:8", "Gen 1:10"]}
+      - {motif: creation-in-six-days, refs: ["Gen 1:31", "Gen 2:1"]}
+      - {motif: luminaries-rule-day-night, refs: ["Gen 1:14", "Gen 1:16", "Gen 1:18"], note: "sun and moon unnamed: 'the great light' and 'the small light'"}
+      - {motif: sea-monsters-created, refs: ["Gen 1:21"], note: "only creatures named with bara apart from humans"}
+      - {motif: earth-brings-forth-life, refs: ["Gen 1:11", "Gen 1:12", "Gen 1:24"]}
+      - {motif: human-in-divine-image, refs: ["Gen 1:26", "Gen 1:27"]}
+      - {motif: divine-plural-speech, refs: ["Gen 1:26"], note: "na'aseh adam be-tsalmenu"}
+      - {motif: male-and-female-created-together, refs: ["Gen 1:27"]}
+      - {motif: human-dominion-over-animals, refs: ["Gen 1:26", "Gen 1:28"]}
+      - {motif: be-fruitful-and-multiply, refs: ["Gen 1:22", "Gen 1:28"]}
+      - {motif: primeval-vegetarianism, refs: ["Gen 1:29", "Gen 1:30"]}
+      - {motif: divine-rest-seventh-day, refs: ["Gen 2:2", "Gen 2:3"]}
+    hints:
+      - "Enuma Elish: Tiamat (cf. tehom), division of the waters with a heaven-half; Quran 21:30 heavens and earth were joined and split."
+      - "Quran 50:38 'no weariness touched Us' answers divine rest; Quran 7:54 six days; 2:30 khalifa."
+      - "Egyptian Memphite theology: creation by Ptah's word. Rabbinic: Gen R. 8 on 'let us make' as consulting angels."
+  - id: hb-gen-2-eden-adam-woman
+    tradition: judaism
+    title: Second creation account, Eden, and the making of woman
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 2:4-25"]
+    tags:
+      - {motif: pre-creation-no-rain-no-plants, refs: ["Gen 2:5"]}
+      - {motif: mist-or-spring-waters-earth, refs: ["Gen 2:6"], note: "'ed, cf. Akkadian edû/id"}
+      - {motif: human-formed-from-earth, refs: ["Gen 2:7"], note: "adam from adamah; animals also formed from the ground, Gen 2:19"}
+      - {motif: breath-of-life-into-nostrils, refs: ["Gen 2:7"]}
+      - {motif: garden-of-god-in-east, refs: ["Gen 2:8"]}
+      - {motif: tree-of-life, refs: ["Gen 2:9"]}
+      - {motif: tree-of-knowledge-forbidden, refs: ["Gen 2:9", "Gen 2:17"]}
+      - {motif: four-rivers-of-paradise, refs: ["Gen 2:10", "Gen 2:11", "Gen 2:13", "Gen 2:14"], note: "Pishon, Gihon, Hiddekel (Tigris), Perat (Euphrates)"}
+      - {motif: paradise-gold-and-gems, refs: ["Gen 2:11", "Gen 2:12"], note: "Havilah: gold, bdellium, shoham stone"}
+      - {motif: human-tends-garden, refs: ["Gen 2:15"]}
+      - {motif: death-penalty-for-eating, refs: ["Gen 2:17"], note: "'in the day you eat of it you shall surely die'"}
+      - {motif: adam-names-animals, refs: ["Gen 2:19", "Gen 2:20"]}
+      - {motif: woman-from-rib, refs: ["Gen 2:21", "Gen 2:22"], note: "God 'built' (wayyiven) the rib into a woman"}
+      - {motif: deep-sleep-sent-by-god, refs: ["Gen 2:21"]}
+      - {motif: marriage-one-flesh, refs: ["Gen 2:24"]}
+      - {motif: primal-nakedness-without-shame, refs: ["Gen 2:25"]}
+    hints:
+      - "Atrahasis/Enki: humans from clay mixed with a god's blood; Quran 15:26-29 clay and spirit breathed in; Quran 2:31 Adam taught the names."
+      - "Sumerian Dilmun / Enki and Ninhursag: the 'lady of the rib' (Nin-ti) pun; Quran 4:1 created from a single soul and its mate."
+  - id: hb-gen-3-fall-expulsion
+    tradition: judaism
+    title: The serpent, the eating, the curses and the expulsion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 3:1-24"]
+    tags:
+      - {motif: serpent-tempter, refs: ["Gen 3:1", "Gen 3:4", "Gen 3:5"], note: "arum (cunning) puns on arummim (naked), 2:25"}
+      - {motif: tree-of-knowledge-forbidden, refs: ["Gen 3:3"], note: "woman adds 'nor touch it'"}
+      - {motif: woman-eats-first-gives-man, refs: ["Gen 3:6"]}
+      - {motif: eyes-opened-nakedness-known, refs: ["Gen 3:7"]}
+      - {motif: fig-leaf-coverings, refs: ["Gen 3:7"]}
+      - {motif: god-walks-in-garden, refs: ["Gen 3:8"]}
+      - {motif: hiding-from-god, refs: ["Gen 3:8", "Gen 3:9", "Gen 3:10"]}
+      - {motif: blame-shifting, refs: ["Gen 3:12", "Gen 3:13"]}
+      - {motif: serpent-cursed-to-crawl, refs: ["Gen 3:14"]}
+      - {motif: enmity-serpent-and-woman-seed, refs: ["Gen 3:15"]}
+      - {motif: pain-in-childbirth-curse, refs: ["Gen 3:16"]}
+      - {motif: ground-cursed-toil, refs: ["Gen 3:17", "Gen 3:18", "Gen 3:19"]}
+      - {motif: dust-to-dust, refs: ["Gen 3:19"]}
+      - {motif: eve-mother-of-all-living, refs: ["Gen 3:20"]}
+      - {motif: garments-of-skin, refs: ["Gen 3:21"]}
+      - {motif: humans-become-like-gods, refs: ["Gen 3:5", "Gen 3:22"]}
+      - {motif: divine-plural-speech, refs: ["Gen 3:22"], note: "'like one of us'"}
+      - {motif: tree-of-life, refs: ["Gen 3:22", "Gen 3:24"]}
+      - {motif: expulsion-from-paradise, refs: ["Gen 3:23", "Gen 3:24"]}
+      - {motif: cherubim-guard-paradise, refs: ["Gen 3:24"]}
+    hints:
+      - "Gilgamesh XI: the serpent steals the plant of rejuvenation; Adapa refuses the food of life."
+      - "Quran 7:19-25 and 20:120-121: Iblis whispers, 'tree of immortality', both eat, leaves of the garden as covering; no blame on the woman alone."
+      - "Pandora (Hesiod) as first woman bringing evils; Christian proto-evangelium reading of 3:15."
+  - id: hb-gen-4-cain-abel
+    tradition: judaism
+    title: Cain and Abel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 4:1-16"]
+    tags:
+      - {motif: first-birth-naming-speech, refs: ["Gen 4:1"], note: "qaniti ish et YHWH, 'I have gotten a man with the LORD'"}
+      - {motif: farmer-vs-shepherd-brothers, refs: ["Gen 4:2"]}
+      - {motif: offering-accepted-rejected, refs: ["Gen 4:3", "Gen 4:4", "Gen 4:5"]}
+      - {motif: firstlings-and-fat-offered, refs: ["Gen 4:4"]}
+      - {motif: sin-crouching-at-door, refs: ["Gen 4:7"], note: "rovets, cf. Akkadian rabisu demon"}
+      - {motif: first-murder-fratricide, refs: ["Gen 4:8"], note: "speech of Cain to Abel missing in MT ('Cain said to Abel ...')"}
+      - {motif: am-i-my-brothers-keeper, refs: ["Gen 4:9"]}
+      - {motif: blood-cries-from-ground, refs: ["Gen 4:10"], note: "'bloods' plural, read by Mishnah Sanh. 4:5 as his descendants"}
+      - {motif: earth-opens-mouth-to-receive-blood, refs: ["Gen 4:11"]}
+      - {motif: murderer-condemned-to-wander, refs: ["Gen 4:12", "Gen 4:14"]}
+      - {motif: mark-of-cain, refs: ["Gen 4:15"]}
+      - {motif: sevenfold-vengeance, refs: ["Gen 4:15"]}
+      - {motif: land-of-nod-east-of-eden, refs: ["Gen 4:16"]}
+    hints:
+      - "Quran 5:27-31: the two sons of Adam, the accepted offering, a raven teaches burial; Sumerian Dumuzi and Enkimdu (shepherd vs farmer)."
+      - "Targum/Midrash supply the field dispute; Hebrews 11:4 and 1 John 3:12; Mishnah Sanhedrin 4:5."
+  - id: hb-gen-4-cainites-lamech
+    tradition: judaism
+    title: Cain's line, the first city, culture heroes and the Song of Lamech
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 4:17-24"]
+    tags:
+      - {motif: first-city-named-for-son, refs: ["Gen 4:17"], note: "city Enoch"}
+      - {motif: culture-heroes-inventors, refs: ["Gen 4:20", "Gen 4:21", "Gen 4:22"], note: "Jabal tents and herds; Jubal lyre and pipe; Tubal-cain bronze and iron; sister Naamah"}
+      - {motif: first-polygamy, refs: ["Gen 4:19"], note: "Adah and Zillah"}
+      - {motif: song-of-lamech, refs: ["Gen 4:23", "Gen 4:24"]}
+      - {motif: sevenfold-vengeance, refs: ["Gen 4:24"], note: "seventy-seven"}
+    hints:
+      - "Mesopotamian apkallu sages bring the arts; Phoenician history of Philo of Byblos lists inventor-generations; 1 Enoch 8 Azazel teaches metalwork."
+      - "Matthew 18:22 seventy-seven times forgiveness answers Lamech."
+  - id: hb-gen-4-seth-enosh
+    tradition: judaism
+    title: Birth of Seth and Enosh; calling on the name of the LORD
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 4:25-26"]
+    tags:
+      - {motif: replacement-son-for-slain, refs: ["Gen 4:25"], note: "Shet from shat, 'appointed'"}
+      - {motif: first-birth-naming-speech, refs: ["Gen 4:25"]}
+      - {motif: beginning-of-invoking-gods-name, refs: ["Gen 4:26"], note: "rabbinic reading huhal = 'profaned', origin of idolatry"}
+    hints:
+      - "Gnostic Sethians; Life of Adam and Eve on Seth; Gen Rabbah 23:7 on Enosh's generation and idolatry."
+  - id: hb-gen-5-adam-to-noah
+    tradition: judaism
+    title: The book of the generations of Adam, Adam to Noah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 5:1-32"]
+    tags:
+      - {motif: human-in-divine-image, refs: ["Gen 5:1"]}
+      - {motif: male-and-female-created-together, refs: ["Gen 5:2"], note: "God names them both 'adam'"}
+      - {motif: son-in-fathers-image, refs: ["Gen 5:3"]}
+      - {motif: ten-antediluvian-generations, refs: ["Gen 5:3", "Gen 5:32"]}
+      - {motif: antediluvian-longevity, refs: ["Gen 5:5", "Gen 5:8", "Gen 5:11", "Gen 5:14", "Gen 5:17", "Gen 5:20", "Gen 5:27", "Gen 5:31"], note: "Adam 930, Seth 912, Enosh 905, Kenan 910, Mahalalel 895, Jared 962, Methuselah 969, Lamech 777"}
+      - {motif: seventh-patriarch-taken-by-god, refs: ["Gen 5:22", "Gen 5:24"], note: "Enoch, 'and he was not, for God took him'"}
+      - {motif: life-span-365, refs: ["Gen 5:23"]}
+      - {motif: longest-lived-man, refs: ["Gen 5:27"], note: "Methuselah 969, dies in the year of the flood by the MT numbers"}
+      - {motif: name-meaning-comfort-from-curse, refs: ["Gen 5:29"], note: "Noah/yenahamenu, recalls 3:17"}
+      - {motif: sevenfold-vengeance, refs: ["Gen 5:31"], note: "not vengeance: Lamech's age 777 echoes Cainite Lamech's 77; weak tag"}
+    hints:
+      - "Sumerian King List: ten (or eight) antediluvian kings with reigns of tens of thousands of years; seventh king Enmeduranki taken to the gods, cf. Enoch."
+      - "1 Enoch, Jubilees 4, Quran 19:56-57 Idris raised to a high place; Hebrews 11:5."
+  - id: hb-gen-6-sons-of-god
+    tradition: judaism
+    title: Sons of God, daughters of men, and the Nephilim
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 6:1-4"]
+    tags:
+      - {motif: sons-of-god-marry-human-women, refs: ["Gen 6:2", "Gen 6:4"]}
+      - {motif: giants-offspring-of-gods, refs: ["Gen 6:4"], note: "Nephilim; gibborim, 'men of name' from of old"}
+      - {motif: lifespan-limited-120, refs: ["Gen 6:3"]}
+    hints:
+      - "1 Enoch 6-11 Watchers led by Shemihazah; Jubilees 5; Jude 6, 2 Peter 2:4; Greek demigods (Hesiod's race of heroes); Quran 2:102 Harut and Marut."
+  - id: hb-gen-6-flood
+    tradition: judaism
+    title: The Flood (full read)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 6:5-8:22"]
+    tags:
+      - {motif: evil-inclination-of-heart, refs: ["Gen 6:5", "Gen 8:21"]}
+      - {motif: god-regrets-creating, refs: ["Gen 6:6", "Gen 6:7"]}
+      - {motif: divine-decision-to-destroy, refs: ["Gen 6:7", "Gen 6:13", "Gen 6:17"]}
+      - {motif: reason-human-wickedness, refs: ["Gen 6:5", "Gen 6:11", "Gen 6:12", "Gen 6:13"], note: "hamas, violence; all flesh corrupted its way"}
+      - {motif: hero-righteous, refs: ["Gen 6:8", "Gen 6:9", "Gen 7:1"], note: "tsaddiq tamim, 'walked with God' like Enoch"}
+      - {motif: hero-warned-by-deity, refs: ["Gen 6:13"]}
+      - {motif: build-vessel-on-instruction, refs: ["Gen 6:14", "Gen 6:22"], note: "tevah of gopher wood with qinnim (rooms/reeds)"}
+      - {motif: vessel-sealed-with-pitch, refs: ["Gen 6:14"], note: "kafar ... kofer"}
+      - {motif: vessel-dimensions-given, refs: ["Gen 6:15"], note: "300 x 50 x 30 cubits"}
+      - {motif: vessel-multiple-decks-door-window, refs: ["Gen 6:16", "Gen 8:6", "Gen 8:13"], note: "tsohar; three decks; side door; covering removed"}
+      - {motif: family-saved, refs: ["Gen 6:18", "Gen 7:7", "Gen 7:13", "Gen 8:16", "Gen 8:18"], note: "eight persons"}
+      - {motif: animals-in-pairs, refs: ["Gen 6:19", "Gen 6:20", "Gen 7:9", "Gen 7:15", "Gen 7:16"]}
+      - {motif: clean-animals-by-sevens, refs: ["Gen 7:2", "Gen 7:3", "Gen 7:8"]}
+      - {motif: seven-day-wait-before-flood, refs: ["Gen 7:4", "Gen 7:10"]}
+      - {motif: forty-days-rain, refs: ["Gen 7:4", "Gen 7:12", "Gen 7:17"]}
+      - {motif: flood-dated-precisely, refs: ["Gen 7:6", "Gen 7:11", "Gen 8:4", "Gen 8:5", "Gen 8:13", "Gen 8:14"], note: "600th year 2/17 to 601st year 2/27"}
+      - {motif: waters-from-above-and-below, refs: ["Gen 7:11", "Gen 8:2"], note: "springs of the great deep burst; windows of heaven opened"}
+      - {motif: god-shuts-the-door, refs: ["Gen 7:16"]}
+      - {motif: waters-cover-highest-mountains, refs: ["Gen 7:19", "Gen 7:20"]}
+      - {motif: universal-destruction, refs: ["Gen 7:21", "Gen 7:22", "Gen 7:23"]}
+      - {motif: wind-abates-waters, refs: ["Gen 8:1"], note: "recalls ruah over the waters in 1:2"}
+      - {motif: vessel-rests-on-mountain, refs: ["Gen 8:4"], note: "mountains of Ararat, 7th month 17th day"}
+      - {motif: raven-sent-first, refs: ["Gen 8:7"]}
+      - {motif: bird-release, refs: ["Gen 8:7", "Gen 8:8", "Gen 8:9", "Gen 8:10", "Gen 8:12"], note: "dove three times at seven-day intervals"}
+      - {motif: olive-leaf-sign, refs: ["Gen 8:11"]}
+      - {motif: sacrifice-after-flood, refs: ["Gen 8:20"]}
+      - {motif: deity-smells-offering, refs: ["Gen 8:21"], note: "reah ha-nihoah, pun on Noah"}
+      - {motif: promise-never-again, refs: ["Gen 8:21"]}
+      - {motif: seasons-guaranteed, refs: ["Gen 8:22"]}
+      - {motif: be-fruitful-and-multiply, refs: ["Gen 8:17"]}
+    hints:
+      - "Gilgamesh XI (Utnapishtim): reed-hut warning, cubic boat sealed with bitumen, dove, swallow, raven that does not return, gods gather like flies at the sacrifice; Atrahasis seven-day warning."
+      - "Quran 11:25-49, 23:27 (God's eye), 54:13 planks and nails; 1 Enoch 89; Berossus' Xisuthrus; Deucalion."
+  - id: hb-gen-9-noahide-covenant
+    tradition: judaism
+    title: Blessing of Noah, blood laws and the covenant of the bow
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 9:1-17"]
+    tags:
+      - {motif: blessing-on-descent, refs: ["Gen 9:1"]}
+      - {motif: be-fruitful-and-multiply, refs: ["Gen 9:1", "Gen 9:7"]}
+      - {motif: human-dominion-over-animals, refs: ["Gen 9:2"], note: "now as fear and dread"}
+      - {motif: meat-permitted-after-flood, refs: ["Gen 9:3"]}
+      - {motif: blood-prohibition, refs: ["Gen 9:4"]}
+      - {motif: animals-accountable-for-blood, refs: ["Gen 9:5"]}
+      - {motif: bloodshed-requires-bloodshed, refs: ["Gen 9:6"], note: "chiastic shofekh dam ha-adam ba-adam damo yishafekh"}
+      - {motif: human-in-divine-image, refs: ["Gen 9:6"]}
+      - {motif: covenant-with-all-life, refs: ["Gen 9:9", "Gen 9:10", "Gen 9:12", "Gen 9:16", "Gen 9:17"]}
+      - {motif: promise-never-again, refs: ["Gen 9:11", "Gen 9:15"]}
+      - {motif: sign-in-sky, refs: ["Gen 9:13", "Gen 9:14"], note: "qeshet, 'my bow', a war-bow hung up"}
+      - {motif: bow-in-cloud-reminds-god, refs: ["Gen 9:15", "Gen 9:16"]}
+    hints:
+      - "Rabbinic Noahide laws (b. Sanh. 56a); Acts 15:20 abstain from blood; Gilgamesh/Atrahasis: Ishtar's lapis necklace as memorial; Enuma Elish: Marduk's bow set in heaven."
+  - id: hb-gen-9-noah-drunk-curse
+    tradition: judaism
+    title: Noah's vineyard, Ham's sin and the curse of Canaan; Noah's death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 9:18-29"]
+    tags:
+      - {motif: three-sons-repopulate-world, refs: ["Gen 9:18", "Gen 9:19"]}
+      - {motif: first-vineyard-drunkenness, refs: ["Gen 9:20", "Gen 9:21"], note: "ish ha-adamah, 'began' (wayyahel) as first viticulturist"}
+      - {motif: son-sees-fathers-nakedness, refs: ["Gen 9:22", "Gen 9:24"], note: "'what his youngest son had done to him' invites rabbinic castration/abuse readings"}
+      - {motif: sons-cover-father-walking-backward, refs: ["Gen 9:23"]}
+      - {motif: curse-on-grandson-canaan, refs: ["Gen 9:25", "Gen 9:26", "Gen 9:27"]}
+      - {motif: hero-age-950, refs: ["Gen 9:28", "Gen 9:29"]}
+    hints:
+      - "b. Sanh. 70a Ham castrated or sodomized Noah; Hesiod's Kronos castrating Ouranos and Hurrian Kumarbi; Dionysus/Icarius as first wine-maker."
+      - "Quran 29:14 Noah among his people 950 years (here his total life)."
+  - id: hb-gen-10-table-of-nations
+    tradition: judaism
+    title: The Table of Nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 10:1-32"]
+    tags:
+      - {motif: table-of-nations, refs: ["Gen 10:1", "Gen 10:32"]}
+      - {motif: seventy-nations, refs: ["Gen 10:32"], note: "count of names yields about 70; made explicit in later tradition"}
+      - {motif: nations-divided-by-language, refs: ["Gen 10:5", "Gen 10:20", "Gen 10:31"], note: "assumes many languages before Babel"}
+      - {motif: nimrod-mighty-hunter, refs: ["Gen 10:8", "Gen 10:9"], note: "a proverb is quoted"}
+      - {motif: first-kingdom-babylon, refs: ["Gen 10:10"], note: "Babel, Erech, Akkad, Calneh"}
+      - {motif: founding-of-nineveh, refs: ["Gen 10:11", "Gen 10:12"], note: "Nineveh, Rehoboth-ir, Calah, Resen 'the great city'"}
+      - {motif: philistines-from-caphtor, refs: ["Gen 10:14"]}
+      - {motif: earth-divided-in-pelegs-days, refs: ["Gen 10:25"]}
+      - {motif: paradise-gold-and-gems, refs: ["Gen 10:29"], note: "Ophir and Havilah, gold lands; weak tag"}
+    hints:
+      - "Nimrod as builder of Babel and persecutor of Abraham in midrash (Pirqe R. El. 24) and Islamic qisas; Ninurta or Tukulti-Ninurta as historical models."
+      - "Deut 32:8 nations by number of the sons of God; Jubilees 8-9 division of the earth by lot; 1 Chr 1."
+  - id: hb-gen-11-babel
+    tradition: judaism
+    title: The Tower of Babel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 11:1-9"]
+    tags:
+      - {motif: one-original-language, refs: ["Gen 11:1", "Gen 11:6"]}
+      - {motif: brick-and-bitumen-building, refs: ["Gen 11:3"]}
+      - {motif: tower-reaching-heaven, refs: ["Gen 11:4"]}
+      - {motif: make-a-name-for-ourselves, refs: ["Gen 11:4"]}
+      - {motif: god-descends-to-see, refs: ["Gen 11:5", "Gen 11:7"]}
+      - {motif: divine-plural-speech, refs: ["Gen 11:7"], note: "'let us go down'"}
+      - {motif: confusion-of-tongues, refs: ["Gen 11:7", "Gen 11:9"]}
+      - {motif: dispersal-of-humanity, refs: ["Gen 11:8", "Gen 11:9"]}
+      - {motif: babel-etymology, refs: ["Gen 11:9"]}
+    hints:
+      - "Sumerian 'Enmerkar and the Lord of Aratta' spell of Nudimmud on the confusion of tongues; Etemenanki ziggurat; Quran 28:38 and 40:36-37 Pharaoh's tower by Haman with baked clay."
+      - "Acts 2 Pentecost reverses Babel; 3 Baruch on the tower builders."
+  - id: hb-gen-11-shem-to-terah
+    tradition: judaism
+    title: Generations of Shem to Terah; Terah's family leaves Ur
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 11:10-32"]
+    tags:
+      - {motif: post-flood-declining-lifespans, refs: ["Gen 11:11", "Gen 11:13", "Gen 11:17", "Gen 11:19", "Gen 11:23", "Gen 11:25", "Gen 11:32"], note: "Shem 600 total; Peleg 239; Nahor 148; Terah 205"}
+      - {motif: ten-antediluvian-generations, refs: ["Gen 11:10", "Gen 11:26"], note: "a second ten-generation series, Shem to Abram"}
+      - {motif: son-dies-before-father, refs: ["Gen 11:28"], note: "Haran dies 'al pene Terah' in Ur Kasdim; 'ur' = fire in midrash"}
+      - {motif: barren-matriarch, refs: ["Gen 11:30"]}
+      - {motif: migration-from-ur-to-harran, refs: ["Gen 11:31"]}
+    hints:
+      - "Midrash (Gen R. 38:13): Haran dies in Nimrod's furnace after Abram survives; ties to abraham.yaml thrown-into-fire and sibling-dies-in-fire; Quran 21:68-69."
+      - "Josh 24:2 Terah served other gods; Jubilees 12; Apocalypse of Abraham 1-8."
+  - id: hb-gen-12-call-of-abram
+    tradition: judaism
+    title: The call of Abram and his journey through Canaan
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 12:1-9"]
+    tags:
+      - {motif: divine-call-to-leave-homeland, refs: ["Gen 12:1"], note: "lekh lekha"}
+      - {motif: promise-of-great-nation, refs: ["Gen 12:2"]}
+      - {motif: all-nations-blessed-through-patriarch, refs: ["Gen 12:3"]}
+      - {motif: promise-of-the-land, refs: ["Gen 12:7"]}
+      - {motif: altar-at-theophany-site, refs: ["Gen 12:7", "Gen 12:8"]}
+      - {motif: sacred-tree-sanctuary, refs: ["Gen 12:6"], note: "elon moreh, 'oak of the teacher/oracle' at Shechem"}
+      - {motif: beginning-of-invoking-gods-name, refs: ["Gen 12:8"]}
+    hints:
+      - "Abram aged 75 leaving Harran; 'the souls they made in Harran' (12:5) read by Gen R. 39:14 as converts; Quran 29:26 and 37:99 'I am going to my Lord'."
+  - id: hb-gen-12-sarai-in-egypt
+    tradition: judaism
+    title: Abram and Sarai in Egypt (first wife-sister episode)
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 12:10-20"]
+    tags:
+      - {motif: famine-forces-descent-to-egypt, refs: ["Gen 12:10"]}
+      - {motif: wife-passed-off-as-sister, refs: ["Gen 12:11", "Gen 12:12", "Gen 12:13", "Gen 12:19"]}
+      - {motif: hero-beautiful, refs: ["Gen 12:11", "Gen 12:14"], note: "of Sarai, yefat mar'eh"}
+      - {motif: matriarch-taken-into-royal-house, refs: ["Gen 12:15"]}
+      - {motif: patriarch-enriched-by-foreign-king, refs: ["Gen 12:16"]}
+      - {motif: plagues-on-king-for-taking-wife, refs: ["Gen 12:17"]}
+      - {motif: king-rebukes-patriarch, refs: ["Gen 12:18", "Gen 12:19"]}
+    hints:
+      - "Genesis Apocryphon (1QapGen 19-20) Abram's dream of cedar and palm, Sarai's beauty catalogue, Pharaoh's paralysis; Sahih al-Bukhari hadith on Sarah and the tyrant whose hand withered, gift of Hagar."
+  - id: hb-gen-13-abram-lot-separate
+    tradition: judaism
+    title: Abram and Lot separate; the land promise renewed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 13:1-18"]
+    tags:
+      - {motif: patriarch-enriched-by-foreign-king, refs: ["Gen 13:2"]}
+      - {motif: herdsmen-quarrel-separation, refs: ["Gen 13:6", "Gen 13:7", "Gen 13:8", "Gen 13:9", "Gen 13:11"]}
+      - {motif: jordan-plain-like-garden-of-god, refs: ["Gen 13:10"], note: "'like the garden of the LORD, like the land of Egypt'"}
+      - {motif: wicked-sodom, refs: ["Gen 13:13"]}
+      - {motif: walk-the-land-to-claim, refs: ["Gen 13:14", "Gen 13:17"]}
+      - {motif: promise-of-the-land, refs: ["Gen 13:15"], note: "'forever'"}
+      - {motif: seed-as-dust-stars-sand, refs: ["Gen 13:16"], note: "dust of the earth"}
+      - {motif: sacred-tree-sanctuary, refs: ["Gen 13:18"], note: "terebinths of Mamre at Hebron"}
+      - {motif: altar-at-theophany-site, refs: ["Gen 13:4", "Gen 13:18"]}
+  - id: hb-gen-14-war-of-kings-melchizedek
+    tradition: judaism
+    title: War of the four kings, rescue of Lot, Melchizedek
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 14:1-24"]
+    tags:
+      - {motif: war-of-four-kings-against-five, refs: ["Gen 14:1", "Gen 14:2", "Gen 14:9"], note: "Amraphel, Arioch, Chedorlaomer, Tidal; kings with names like Bera ('in evil') and Birsha ('in wickedness')"}
+      - {motif: primeval-giant-peoples, refs: ["Gen 14:5", "Gen 14:6"]}
+      - {motif: bitumen-pits, refs: ["Gen 14:10"]}
+      - {motif: patriarch-rescues-kinsman, refs: ["Gen 14:14", "Gen 14:15", "Gen 14:16"]}
+      - {motif: number-318, refs: ["Gen 14:14"], note: "gematria of Eliezer = 318 (b. Ned. 32a); Barnabas 9 reads TIH = Jesus + cross"}
+      - {motif: priest-king-melchizedek, refs: ["Gen 14:18", "Gen 14:19"], note: "bread and wine"}
+      - {motif: el-elyon-creator, refs: ["Gen 14:19", "Gen 14:20", "Gen 14:22"], note: "qoneh shamayim wa-arets"}
+      - {motif: tithe-to-priest, refs: ["Gen 14:20"]}
+      - {motif: oath-with-raised-hand, refs: ["Gen 14:22"]}
+      - {motif: refusal-of-spoils, refs: ["Gen 14:23", "Gen 14:24"]}
+    hints:
+      - "Ps 110:4 priest forever after the order of Melchizedek; Hebrews 7 (without father or mother); 11QMelchizedek heavenly figure; 2 Enoch 71-72 miraculous birth of Melchizedek."
+      - "Abram 'the Hebrew' (ha-ivri) only here; Ugaritic El qny 'rs, creator of earth."
+  - id: hb-gen-15-covenant-between-pieces
+    tradition: judaism
+    title: The covenant between the pieces
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 15:1-21"]
+    tags:
+      - {motif: fear-not-oracle, refs: ["Gen 15:1"], note: "'I am your shield (magen)', in a mahazeh"}
+      - {motif: childless-heir-is-servant, refs: ["Gen 15:2", "Gen 15:3"], note: "Dammeseq Eliezer, ben mesheq"}
+      - {motif: count-the-stars, refs: ["Gen 15:5"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["Gen 15:5"]}
+      - {motif: faith-reckoned-as-righteousness, refs: ["Gen 15:6"]}
+      - {motif: covenant-between-the-pieces, refs: ["Gen 15:9", "Gen 15:10", "Gen 15:17", "Gen 15:18"], note: "three-year-old heifer, goat, ram, turtledove and pigeon; birds not cut"}
+      - {motif: birds-of-prey-driven-from-sacrifice, refs: ["Gen 15:11"]}
+      - {motif: deep-sleep-sent-by-god, refs: ["Gen 15:12"]}
+      - {motif: dread-and-darkness-in-vision, refs: ["Gen 15:12"]}
+      - {motif: prophecy-of-400-years-bondage, refs: ["Gen 15:13", "Gen 15:14", "Gen 15:16"], note: "return in the fourth generation"}
+      - {motif: iniquity-not-yet-full, refs: ["Gen 15:16"], note: "the Amorites"}
+      - {motif: smoking-furnace-and-torch, refs: ["Gen 15:17"]}
+      - {motif: borders-river-of-egypt-to-euphrates, refs: ["Gen 15:18"]}
+      - {motif: promise-of-the-land, refs: ["Gen 15:7", "Gen 15:18", "Gen 15:19", "Gen 15:20", "Gen 15:21"], note: "ten peoples listed"}
+    hints:
+      - "Jer 34:18-20 passing between the calf's parts; Hittite and Mari donkey-cutting treaty rites; Paul in Romans 4 and Galatians 3 on 15:6."
+      - "Apocalypse of Abraham 9-15 expands the sacrifice with the bird of prey as Azazel; Quran 2:260 Abraham and the four birds cut and called."
+  - id: hb-gen-16-hagar
+    tradition: judaism
+    title: Hagar and the birth of Ishmael
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 16:1-16"]
+    tags:
+      - {motif: barren-matriarch, refs: ["Gen 16:1", "Gen 16:2"]}
+      - {motif: surrogate-slave-wife, refs: ["Gen 16:2", "Gen 16:3"], note: "'perhaps I shall be built up (ibbaneh) through her'"}
+      - {motif: pregnant-slave-despises-mistress, refs: ["Gen 16:4", "Gen 16:5"]}
+      - {motif: slave-woman-flees-to-wilderness, refs: ["Gen 16:6"]}
+      - {motif: angel-at-wilderness-spring, refs: ["Gen 16:7"], note: "on the way to Shur"}
+      - {motif: annunciation-of-son-and-name, refs: ["Gen 16:11"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["Gen 16:10"], note: "too many to count"}
+      - {motif: ishmael-wild-ass-of-a-man, refs: ["Gen 16:12"]}
+      - {motif: god-who-sees-me, refs: ["Gen 16:13", "Gen 16:14"]}
+    hints:
+      - "Code of Hammurabi 144-147 and Nuzi contracts on slave-wives who claim equality; Galatians 4:21-31 allegory; Islamic tradition of Hagar as wife and mother of the Arabs."
+  - id: hb-gen-17-covenant-of-circumcision
+    tradition: judaism
+    title: El Shaddai, new names and the covenant of circumcision
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Gen 17:1-27"]
+    tags:
+      - {motif: el-shaddai-revelation, refs: ["Gen 17:1"]}
+      - {motif: name-change-by-god, refs: ["Gen 17:5", "Gen 17:15"], note: "Abram > Abraham 'father of a multitude'; Sarai > Sarah"}
+      - {motif: promise-of-great-nation, refs: ["Gen 17:2", "Gen 17:4", "Gen 17:6"]}
+      - {motif: kings-will-descend-from-patriarch, refs: ["Gen 17:6", "Gen 17:16"]}
+      - {motif: promise-of-the-land, refs: ["Gen 17:8"]}
+      - {motif: circumcision-covenant-sign, refs: ["Gen 17:10", "Gen 17:11", "Gen 17:13"]}
+      - {motif: circumcision-eighth-day, refs: ["Gen 17:12"], note: "including slaves bought from foreigners"}
+      - {motif: uncircumcised-cut-off, refs: ["Gen 17:14"]}
+      - {motif: patriarch-laughs-at-promise, refs: ["Gen 17:17"], note: "puns on Yitshaq, 17:19"}
+      - {motif: annunciation-of-son-and-name, refs: ["Gen 17:19", "Gen 17:21"]}
+      - {motif: ishmael-twelve-princes, refs: ["Gen 17:20"]}
+      - {motif: circumcision-at-age-thirteen, refs: ["Gen 17:24", "Gen 17:25"]}
+    hints:
+      - "Islamic khitan, tradition of Abraham's circumcision at 80 with an adze (Bukhari); Herodotus 2.104 on Egyptian circumcision; Jubilees 15; Ishmaelite age of 13 behind Muslim practice in Josephus Ant. 1.214."
