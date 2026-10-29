@@ -31,7 +31,6 @@ new_motifs:
   ostrich-abandons-eggs: {label: "The ostrich leaves her eggs in the dust, forgetting a foot may crush them, for God deprived her of wisdom", cluster: wisdom}
   warhorse-laughs-at-fear: {label: "The warhorse with thundering mane paws the valley, laughs at fear and says 'Aha!' at the trumpet", cluster: wisdom}
   eagle-young-drink-blood: {label: "The eagle nests on the crag; where the slain are, there it is, and its young drink blood", cluster: wisdom}
-  hand-over-mouth-silence: {label: "The speaker lays his hand on his mouth and vows to speak no more", cluster: gesture}
   human-challenged-to-play-god: {label: "God dares the human to put on majesty, pour out wrath and humble every proud one", cluster: theology}
   behemoth: {label: "Behemoth, a colossal land beast made by God, eats grass like an ox, has bones of bronze and drinks a river", cluster: cosmology}
   behemoth-first-of-gods-works: {label: "The monster is 'the first of the ways of God'; only its maker can approach it with his sword", cluster: cosmology}
@@ -45,7 +44,7 @@ new_motifs:
   monster-king-over-proud-beasts: {label: "The monster is king over all the proud beasts; none on earth is its equal", cluster: cosmology}
   hearing-then-seeing-god: {label: "I had heard of you by the hearing of the ear, but now my eye sees you", cluster: theophany}
   friends-rebuked-by-god: {label: "God declares his anger at the sufferer's friends for not speaking rightly of him as his servant did", cluster: wisdom}
-  seven-bulls-seven-rams: {label: "An offering of seven bulls and seven rams", cluster: sacrifice}
+  burnt-offering-of-seven-bulls-seven-rams: {label: "A burnt offering of seven bulls and seven rams is commanded to avert divine anger", cluster: sacrifice}
   sufferer-intercedes-for-friends: {label: "The vindicated sufferer prays for the friends who wronged him and is restored as he prays", cluster: intercession}
   fortunes-restored-twofold: {label: "God restores the righteous sufferer's fortunes and gives him twice what he had", cluster: wisdom}
   kin-bring-coin-and-gold-ring: {label: "Kin and acquaintances console him and each gives a qesitah (coin) and a gold ring", cluster: wisdom}
@@ -157,21 +156,9 @@ new_motifs:
   holy-ones-in-the-land: {label: "Obscure reference to 'the holy ones who are in the land' and 'the mighty ones'", cluster: theology}
   royal-thanksgiving-for-deliverance: {label: "The king gives thanks for God's deliverance from all his enemies (song also in 2 Sam 22)", cluster: kingship}
   string-of-divine-epithets-rock-fortress: {label: "God addressed with a string of protective epithets: rock, fortress, deliverer, shield, horn of salvation, stronghold", cluster: theology}
-  cords-of-death-and-torrents-of-belial: {label: "Cords of death and Sheol and torrents of Belial (destruction) engulf the speaker", cluster: death}
-  storm-theophany-descent: {label: "God bows the heavens and comes down with smoke from his nostrils, fire from his mouth and darkness under his feet", cluster: theophany}
-  god-rides-cherub-wings-of-wind: {label: "God rides on a cherub and flies, swooping on the wings of the wind", cluster: theophany}
   darkness-as-gods-hiding-place: {label: "God makes darkness his hiding place and dark waters and clouds his canopy", cluster: theophany}
   sea-bed-and-world-foundations-exposed: {label: "At God's rebuke the channels of the sea are seen and the foundations of the world laid bare", cluster: cosmology}
-  drawn-out-of-many-waters: {label: "God reaches down from on high and draws the speaker out of many waters", cluster: psalms}
-  god-reciprocates-to-each: {label: "With the loyal God is loyal, with the blameless blameless, with the crooked he is tortuous", cluster: theology}
-  god-lights-my-lamp: {label: "God lights the speaker's lamp and illumines his darkness", cluster: theology}
-  leap-over-wall-by-god: {label: "By my God I run through a troop and leap over a wall", cluster: psalms}
   who-is-god-but-yhwh-who-is-rock: {label: "'Who is God except YHWH, and who is a rock besides our God?'", cluster: theology}
-  feet-like-hinds: {label: "God makes the speaker's feet like hinds' feet and sets him on the heights", cluster: psalms}
-  god-trains-hands-for-war-bronze-bow: {label: "God trains the king's hands for war so his arms can bend a bow of bronze", cluster: kingship}
-  enemies-crushed-like-dust: {label: "The king crushes his enemies like dust before the wind and empties them out like mud of the streets", cluster: kingship}
-  foreigners-cringe-before-king: {label: "Foreigners cringe and come trembling out of their strongholds to serve the king", cluster: kingship}
-  covenant-love-to-david-and-seed-forever: {label: "God shows steadfast love to his anointed, to David and his offspring forever", cluster: kingship}
   heavens-declare-glory-wordless: {label: "The heavens recount God's glory; day to day pours out speech without words or voice", cluster: creation}
   tent-of-the-sun: {label: "God has set a tent for the sun in the heavens", cluster: cosmology}
   sun-as-bridegroom-and-runner: {label: "The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his course", cluster: cosmology}
@@ -482,7 +469,7 @@ units:
     tagger: Claude (model), reading the Hebrew
     read: ["Job 40:1-14"]
     tags:
-      - {motif: hand-over-mouth-silence, refs: ["Job 40:4-5"], note: "'I spoke once, and will not answer; twice, and will add no more'"}
+      - {motif: hand-on-mouth-in-awe, refs: ["Job 40:4-5"], note: "'I spoke once, and will not answer; twice, and will add no more'"}
       - {motif: god-answers-from-whirlwind, refs: ["Job 40:6"]}
       - {motif: gird-loins-like-a-man, refs: ["Job 40:7"]}
       - {motif: human-challenged-to-play-god, refs: ["Job 40:9-14"], note: "'have you an arm like God, can you thunder with a voice like his?'"}
@@ -541,7 +528,7 @@ units:
     read: ["Job 42:7-17"]
     tags:
       - {motif: friends-rebuked-by-god, refs: ["Job 42:7-8"], note: "'you have not spoken of me what is right, as my servant Job has'"}
-      - {motif: seven-bulls-seven-rams, refs: ["Job 42:8"]}
+      - {motif: burnt-offering-of-seven-bulls-seven-rams, refs: ["Job 42:8"]}
       - {motif: sufferer-intercedes-for-friends, refs: ["Job 42:8-10"]}
       - {motif: fortunes-restored-twofold, refs: ["Job 42:10", "Job 42:12"], note: "14,000 sheep, 6,000 camels, 1,000 yoke of oxen, 1,000 she-asses: exactly double Job 1:3"}
       - {motif: kin-bring-coin-and-gold-ring, refs: ["Job 42:11"]}
@@ -857,26 +844,28 @@ units:
       - {motif: psalm-historical-superscription, refs: ["Ps 18:1"], note: "'servant of YHWH ... on the day YHWH delivered him from all his enemies and from the hand of Saul'"}
       - {motif: royal-thanksgiving-for-deliverance, refs: ["Ps 18:1", "Ps 18:51"]}
       - {motif: string-of-divine-epithets-rock-fortress, refs: ["Ps 18:3"]}
-      - {motif: cords-of-death-and-torrents-of-belial, refs: ["Ps 18:5-6"]}
+      - {motif: breakers-of-death-cords-of-sheol, refs: ["Ps 18:5-6"]}
+      - {motif: god-hears-from-his-temple, refs: ["Ps 18:7"]}
       - {motif: theophany-earth-quakes-mountains-melt, refs: ["Ps 18:8"], note: "foundations of the mountains tremble"}
-      - {motif: storm-theophany-descent, refs: ["Ps 18:9-10"], note: "smoke from his nose, coals kindled by him"}
-      - {motif: god-rides-cherub-wings-of-wind, refs: ["Ps 18:11"]}
+      - {motif: smoke-from-gods-nostrils-fire-from-mouth, refs: ["Ps 18:9-10"], note: "coals kindled by him; he bowed the heavens and came down, thick darkness under his feet"}
+      - {motif: god-rides-cherub-on-wings-of-wind, refs: ["Ps 18:11"]}
       - {motif: darkness-as-gods-hiding-place, refs: ["Ps 18:12"]}
       - {motif: hail-and-fire-from-heaven, refs: ["Ps 18:13-14"]}
       - {motif: thunder-as-voice-of-god, refs: ["Ps 18:14"], note: "Elyon gives his voice"}
       - {motif: divine-arrows, refs: ["Ps 18:15"], note: "arrows = lightnings"}
       - {motif: sea-bed-and-world-foundations-exposed, refs: ["Ps 18:16"], note: "at the blast of the breath of your nostrils"}
       - {motif: drawn-out-of-many-waters, refs: ["Ps 18:17"], note: "yamsheni, same verb as Moses' name (Exod 2:10)"}
-      - {motif: god-reciprocates-to-each, refs: ["Ps 18:26-27"]}
-      - {motif: god-lights-my-lamp, refs: ["Ps 18:29"]}
-      - {motif: leap-over-wall-by-god, refs: ["Ps 18:30"]}
+      - {motif: rewarded-according-to-righteousness, refs: ["Ps 18:21-25"]}
+      - {motif: god-mirrors-human-conduct, refs: ["Ps 18:26-27"]}
+      - {motif: god-is-my-lamp, refs: ["Ps 18:29"]}
+      - {motif: leap-over-a-wall-with-god, refs: ["Ps 18:30"]}
       - {motif: words-of-god-silver-refined-seven-times, refs: ["Ps 18:31"], note: "imrat YHWH tserufah"}
       - {motif: who-is-god-but-yhwh-who-is-rock, refs: ["Ps 18:32"]}
-      - {motif: feet-like-hinds, refs: ["Ps 18:34"]}
-      - {motif: god-trains-hands-for-war-bronze-bow, refs: ["Ps 18:35"]}
-      - {motif: enemies-crushed-like-dust, refs: ["Ps 18:43"]}
-      - {motif: foreigners-cringe-before-king, refs: ["Ps 18:44-46"]}
-      - {motif: covenant-love-to-david-and-seed-forever, refs: ["Ps 18:51"]}
+      - {motif: feet-like-hinds-on-heights, refs: ["Ps 18:34"]}
+      - {motif: god-trains-hands-for-war-bow-of-bronze, refs: ["Ps 18:35"]}
+      - {motif: enemies-crushed-like-dust-and-mire, refs: ["Ps 18:43"]}
+      - {motif: foreigners-come-cringing, refs: ["Ps 18:44-46"]}
+      - {motif: hesed-to-anointed-and-seed-forever, refs: ["Ps 18:51"]}
     hints:
       - "Duplicate of 2 Sam 22. Storm-god descent: Baal 'rider of the clouds' at Ugarit, Adad/Hadad and Teshub; Indra wielding the vajra against Vrtra; Zeus' thunderbolt."
   - id: hb-ps-19-heavens-and-torah
@@ -1387,6 +1376,7 @@ units:
       - {motif: byword-among-nations-heads-shake, refs: ["Ps 44:14-15"]}
       - {motif: protest-of-covenant-fidelity, refs: ["Ps 44:18-22"]}
       - {motif: crushed-in-place-of-jackals, refs: ["Ps 44:20"]}
+      - {motif: spread-hands-in-prayer, refs: ["Ps 44:21"], note: "denial: we did not spread our palms to a strange god"}
       - {motif: god-knows-secrets-of-heart, refs: ["Ps 44:22"]}
       - {motif: killed-all-day-sheep-for-slaughter, refs: ["Ps 44:23"]}
       - {motif: why-do-you-sleep-o-lord, refs: ["Ps 44:24"]}

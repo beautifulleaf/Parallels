@@ -300,6 +300,46 @@ new_motifs:
   king-offers-himself-for-people: {label: "The king asks that punishment fall on himself and his house instead of the people", cluster: kingship}
   threshing-floor-becomes-altar-site: {label: "A threshing floor where the plague stopped becomes the site of an altar", cluster: cult}
   king-insists-on-paying-full-price: {label: "The king refuses a free gift of land for an altar and pays its price", cluster: cult}
+  virgin-warms-aged-king: {label: "A beautiful virgin is brought to lie with the aged king to keep him warm, without intercourse", cluster: kingship}
+  indulged-son-never-rebuked: {label: "A prince was never rebuked by his father", cluster: family}
+  rival-factions-at-court: {label: "The court divides into factions backing rival heirs", cluster: kingship}
+  pretender-holds-sacrificial-feast: {label: "A pretender holds a sacrificial feast proclaiming himself king", cluster: kingship}
+  queen-mother-and-prophet-coordinate-petition: {label: "The prophet and the heir's mother stage a coordinated petition to the aged king", cluster: kingship}
+  secret-oath-of-succession: {label: "The king had sworn privately that a particular son would succeed him", cluster: kingship}
+  king-rides-royal-mule-to-coronation: {label: "The new king rides the old king's mule to his anointing", cluster: kingship}
+  anointing-at-sacred-spring: {label: "A king is anointed at a spring", cluster: kingship}
+  earth-split-by-shouting: {label: "The people's shouting is so loud the earth splits", cluster: poetry}
+  messenger-of-bad-news-to-pretender: {label: "News of the rival's coronation reaches the pretender's feast and the guests scatter", cluster: kingship}
+  aged-king-bows-on-bed: {label: "The aged king bows in worship upon his bed", cluster: kingship}
+  grasping-horns-of-altar-for-asylum: {label: "A fugitive grasps the horns of the altar seeking asylum", cluster: cult}
+  deathbed-charge-to-successor: {label: "The dying king charges his successor to be strong and keep God's law", cluster: kingship}
+  way-of-all-the-earth: {label: "Death called 'going the way of all the earth'", cluster: death}
+  conditional-dynastic-promise: {label: "The dynasty's continuance is conditioned on the heirs' faithfulness", cluster: covenant}
+  dying-king-orders-revenge: {label: "The dying king instructs his successor to execute old enemies", cluster: kingship}
+  royal-burial-in-city-of-david: {label: "The king 'slept with his fathers' and was buried in the City of David", cluster: burial}
+  request-for-kings-concubine-as-claim: {label: "A rival asks for the late king's concubine through the queen mother", cluster: kingship}
+  kingdom-turned-by-god-to-brother: {label: "The elder brother admits the kingdom passed to his brother by God's will", cluster: kingship}
+  queen-mother-throne-at-right-hand: {label: "The king seats his mother on a throne at his right hand", cluster: kingship}
+  royal-purge-of-rivals: {label: "The new king executes rivals and enemies of his father", cluster: kingship}
+  priest-banished-to-his-estate: {label: "A priest of the losing faction is banished to his estate and removed from office", cluster: cult}
+  confinement-to-city-on-pain-of-death: {label: "A suspect is confined to the capital and told he dies the day he crosses a boundary", cluster: law}
+  runaway-slaves-at-gath: {label: "Runaway slaves flee to a foreign king and are retrieved", cluster: law}
+  kingdom-established-in-hand: {label: "Refrain: the kingdom was established in the king's hand", cluster: kingship}
+  king-builds-palace-temple-walls: {label: "The king builds his palace, God's house and the city wall", cluster: kingship}
+  high-places-tolerated-before-temple: {label: "People sacrifice at high places because the temple is not yet built", cluster: cult}
+  thousand-burnt-offerings: {label: "A king offers a thousand burnt offerings", cluster: cult}
+  incubation-dream-at-sanctuary: {label: "God appears to the king in a dream at night at a sanctuary after sacrifice", cluster: divination}
+  god-offers-a-wish: {label: "God tells a person: 'Ask what I shall give you'", cluster: theophany}
+  young-king-confesses-inexperience: {label: "The new king calls himself a little child who does not know how to go out or come in", cluster: kingship}
+  asks-wisdom-not-riches: {label: "Offered any gift, the king asks for wisdom to judge rather than long life, riches or victory", cluster: wisdom}
+  unrequested-riches-and-honor-also-given: {label: "God also grants the riches and honor that were not asked for", cluster: wisdom}
+  long-life-conditional-on-obedience: {label: "Long life is promised if the king walks in God's ways", cluster: covenant}
+  feast-for-servants-after-revelation: {label: "The king holds a feast for his servants after a revelation", cluster: kingship}
+  two-mothers-dispute-child: {label: "Two women each claim the same living child before a judge", cluster: wisdom}
+  infant-overlain-and-swapped: {label: "A mother lies on her baby at night, killing it, and swaps it for another's", cluster: wisdom}
+  divide-the-child-with-the-sword: {label: "The judge orders the disputed child cut in two to test the claimants", cluster: wisdom}
+  true-mother-revealed-by-compassion: {label: "The true mother is revealed by giving up her claim to save the child", cluster: wisdom}
+  divine-wisdom-for-judgment: {label: "The people see that divine wisdom is in the king to do justice", cluster: wisdom}
 units:
   - id: hb-1sam-25-death-of-samuel
     tradition: judaism
@@ -1153,3 +1193,118 @@ units:
       - {motif: intercession-stops-plague, refs: ["2Sam 24:25"]}
     hints:
       - "1Chr 21-22 and 2Chr 3:1 identify the site with Moriah and the Temple. Abraham's purchase of Machpelah (Gen 23). Ancient census taboos: Roman lustrum with purification after the census. Islamic tradition locates the angel at the Sakhra (Dome of the Rock)."
+  - id: hb-1kgs-1-abishag-adonijah-solomon-anointed
+    tradition: judaism
+    title: Abishag warms the old king; Adonijah's feast; Solomon anointed at Gihon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 1:1-53"]
+    tags:
+      - {motif: virgin-warms-aged-king, refs: ["1Kgs 1:1", "1Kgs 1:2", "1Kgs 1:3", "1Kgs 1:4"], note: "Abishag the Shunammite, sokhenet; 'the king knew her not'"}
+      - {motif: chariot-and-fifty-runners, refs: ["1Kgs 1:5"], note: "Adonijah, like Absalom"}
+      - {motif: indulged-son-never-rebuked, refs: ["1Kgs 1:6"], note: "'His father had never grieved him by asking: why have you done so?'"}
+      - {motif: rival-factions-at-court, refs: ["1Kgs 1:7", "1Kgs 1:8"], note: "Joab and Abiathar vs Zadok, Benaiah, Nathan"}
+      - {motif: pretender-holds-sacrificial-feast, refs: ["1Kgs 1:9", "1Kgs 1:10", "1Kgs 1:19", "1Kgs 1:25"], note: "By the Stone of Zoheleth ('serpent stone') near En-rogel"}
+      - {motif: queen-mother-and-prophet-coordinate-petition, refs: ["1Kgs 1:11", "1Kgs 1:12", "1Kgs 1:13", "1Kgs 1:14", "1Kgs 1:22", "1Kgs 1:23", "1Kgs 1:24"], note: "Nathan comes in to 'confirm her words'"}
+      - {motif: secret-oath-of-succession, refs: ["1Kgs 1:13", "1Kgs 1:17", "1Kgs 1:30"]}
+      - {motif: king-rides-royal-mule-to-coronation, refs: ["1Kgs 1:33", "1Kgs 1:38", "1Kgs 1:44"]}
+      - {motif: anointing-at-sacred-spring, refs: ["1Kgs 1:33", "1Kgs 1:34", "1Kgs 1:38", "1Kgs 1:45"], note: "Gihon"}
+      - {motif: anointing-with-horn-of-oil, refs: ["1Kgs 1:39"], note: "Zadok takes the horn of oil from the tent"}
+      - {motif: long-live-the-king-acclamation, refs: ["1Kgs 1:25", "1Kgs 1:31", "1Kgs 1:34", "1Kgs 1:39"], note: "Also 'May my lord king David live forever'"}
+      - {motif: shofar-signal-for-coronation, refs: ["1Kgs 1:34", "1Kgs 1:39", "1Kgs 1:41"]}
+      - {motif: earth-split-by-shouting, refs: ["1Kgs 1:40"], note: "Pipes and rejoicing 'so that the earth split with their sound'"}
+      - {motif: messenger-of-bad-news-to-pretender, refs: ["1Kgs 1:42", "1Kgs 1:43", "1Kgs 1:49"], note: "Jonathan son of Abiathar; guests scatter in fear"}
+      - {motif: aged-king-bows-on-bed, refs: ["1Kgs 1:47", "1Kgs 1:48"], note: "Cf. Jacob bowing on the bed-head"}
+      - {motif: grasping-horns-of-altar-for-asylum, refs: ["1Kgs 1:50", "1Kgs 1:51", "1Kgs 1:52", "1Kgs 1:53"]}
+      - {motif: not-a-hair-shall-fall, refs: ["1Kgs 1:52"]}
+    hints:
+      - "Warming the aged by a young body is attested in Greco-Roman medicine (Galen) and later called 'shunamitism'. Coronation at a spring compares with Mesopotamian and Egyptian purification rites. Asylum at an altar: Greek hiketeia (suppliants at altars), the Roman ius asyli; Ex 21:14."
+  - id: hb-1kgs-2-davids-testament-and-death
+    tradition: judaism
+    title: David's charge to Solomon, death and burial
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 2:1-12"]
+    tags:
+      - {motif: deathbed-charge-to-successor, refs: ["1Kgs 2:1", "1Kgs 2:2", "1Kgs 2:3", "1Kgs 2:4"], note: "'I go the way of all the earth; be strong and be a man'; keep the Torah of Moses"}
+      - {motif: way-of-all-the-earth, refs: ["1Kgs 2:2"]}
+      - {motif: conditional-dynastic-promise, refs: ["1Kgs 2:4"]}
+      - {motif: dying-king-orders-revenge, refs: ["1Kgs 2:5", "1Kgs 2:6", "1Kgs 2:8", "1Kgs 2:9"], note: "Joab's 'blood of war in peace' on his belt and sandals; do not let Shimei's grey head go down to Sheol in peace"}
+      - {motif: grey-hairs-to-sheol, refs: ["1Kgs 2:6", "1Kgs 2:9"]}
+      - {motif: eats-at-kings-table-always, refs: ["1Kgs 2:7"], note: "Barzillai's sons"}
+      - {motif: royal-burial-in-city-of-david, refs: ["1Kgs 2:10"]}
+      - {motif: regnal-length-formula, refs: ["1Kgs 2:11"], note: "40 years: 7 Hebron, 33 Jerusalem"}
+      - {motif: kingdom-established-in-hand, refs: ["1Kgs 2:12"]}
+    hints:
+      - "Deathbed political testaments: the Instruction of Amenemhat for Senusret, Esarhaddon's succession treaty; Jacob's and Moses' testaments. Josephus (Ant. 7.392-394) adds treasure buried in David's tomb; Acts 2:29 'his tomb is with us to this day'."
+  - id: hb-1kgs-2-solomons-purge
+    tradition: judaism
+    title: Solomon executes Adonijah, Joab and Shimei and banishes Abiathar
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 2:13-46"]
+    tags:
+      - {motif: request-for-kings-concubine-as-claim, refs: ["1Kgs 2:13", "1Kgs 2:17", "1Kgs 2:21", "1Kgs 2:22"], note: "Adonijah asks for Abishag; 'ask for him the kingdom too'"}
+      - {motif: taking-kings-concubine-claim-to-throne, refs: ["1Kgs 2:22"]}
+      - {motif: kingdom-turned-by-god-to-brother, refs: ["1Kgs 2:15"]}
+      - {motif: queen-mother-throne-at-right-hand, refs: ["1Kgs 2:19", "1Kgs 2:20"], note: "King rises, bows, seats her at his right hand"}
+      - {motif: royal-purge-of-rivals, refs: ["1Kgs 2:23", "1Kgs 2:24", "1Kgs 2:25", "1Kgs 2:34", "1Kgs 2:46"], note: "Benaiah executes each"}
+      - {motif: priest-banished-to-his-estate, refs: ["1Kgs 2:26", "1Kgs 2:27"], note: "Abiathar to Anathoth"}
+      - {motif: prophecy-of-priestly-house-downfall, refs: ["1Kgs 2:27"], note: "Fulfils the word against the house of Eli at Shiloh"}
+      - {motif: altar-asylum-denied-to-murderer, refs: ["1Kgs 2:28", "1Kgs 2:29", "1Kgs 2:30", "1Kgs 2:31"], note: "Joab: 'No, I will die here'"}
+      - {motif: blood-guilt-returns-on-head, refs: ["1Kgs 2:32", "1Kgs 2:33", "1Kgs 2:37", "1Kgs 2:44"]}
+      - {motif: prophet-buried-in-his-house, refs: ["1Kgs 2:34"], note: "Joab buried in his house in the wilderness"}
+      - {motif: confinement-to-city-on-pain-of-death, refs: ["1Kgs 2:36", "1Kgs 2:37", "1Kgs 2:38", "1Kgs 2:42"], note: "Shimei must not cross the Kidron"}
+      - {motif: runaway-slaves-at-gath, refs: ["1Kgs 2:39", "1Kgs 2:40"], note: "Shimei's two slaves flee to Achish; extradition from a foreign king"}
+      - {motif: kingdom-established-in-hand, refs: ["1Kgs 2:45", "1Kgs 2:46"]}
+    hints:
+      - "Succession purges: Ottoman fratricide law; Assyrian accession purges; Herod's executions. Treaties with extradition of fugitive slaves (Alalakh, Ugarit, the Hittite-Egyptian treaty). Ps 110:1 and Christian 'right hand' imagery for the queen mother (gevirah)."
+  - id: hb-1kgs-3-solomon-marries-pharaohs-daughter
+    tradition: judaism
+    title: Solomon allies with Pharaoh; worship at the high places
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 3:1-3"]
+    tags:
+      - {motif: diplomatic-marriage-to-foreign-princess, refs: ["1Kgs 3:1"], note: "Pharaoh's daughter brought to the City of David"}
+      - {motif: king-builds-palace-temple-walls, refs: ["1Kgs 3:1"]}
+      - {motif: high-places-tolerated-before-temple, refs: ["1Kgs 3:2", "1Kgs 3:3"], note: "'Only, the people sacrificed at the bamot'"}
+    hints:
+      - "Egyptian kings rarely gave daughters to foreigners (Amarna EA 4: 'from of old a daughter of the king of Egypt has not been given'); the claim is notable."
+  - id: hb-1kgs-3-gibeon-dream
+    tradition: judaism
+    title: Solomon's dream at Gibeon; he asks for a listening heart
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 3:4-15"]
+    tags:
+      - {motif: thousand-burnt-offerings, refs: ["1Kgs 3:4"], note: "At the 'great high place' of Gibeon"}
+      - {motif: incubation-dream-at-sanctuary, refs: ["1Kgs 3:5", "1Kgs 3:15"], note: "'Ask what I shall give you'; he awoke and behold, a dream"}
+      - {motif: god-offers-a-wish, refs: ["1Kgs 3:5"]}
+      - {motif: young-king-confesses-inexperience, refs: ["1Kgs 3:7"], note: "'I am a little child; I do not know how to go out or come in'"}
+      - {motif: asks-wisdom-not-riches, refs: ["1Kgs 3:9", "1Kgs 3:10", "1Kgs 3:11"], note: "lev shomea' to discern between good and evil"}
+      - {motif: unrequested-riches-and-honor-also-given, refs: ["1Kgs 3:12", "1Kgs 3:13"], note: "None like you before or after"}
+      - {motif: long-life-conditional-on-obedience, refs: ["1Kgs 3:14"]}
+      - {motif: feast-for-servants-after-revelation, refs: ["1Kgs 3:15"]}
+    hints:
+      - "Temple incubation: Thutmose IV's Sphinx Stele dream, Gudea's dreams, Asclepian incubation. The choice of wisdom over wealth: the Judgment of Paris inverted; Quran 38:35 Solomon prays for a kingdom unlike any after him, and Quran 21:79 'We gave understanding of it to Solomon'."
+  - id: hb-1kgs-3-judgment-of-solomon
+    tradition: judaism
+    title: The two harlots and the living child
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 3:16-28"]
+    tags:
+      - {motif: two-mothers-dispute-child, refs: ["1Kgs 3:16", "1Kgs 3:17", "1Kgs 3:18", "1Kgs 3:22", "1Kgs 3:23"], note: "Two prostitutes living alone in one house, no witness"}
+      - {motif: infant-overlain-and-swapped, refs: ["1Kgs 3:19", "1Kgs 3:20", "1Kgs 3:21"], note: "She lay on him at night and swapped the dead for the living"}
+      - {motif: divide-the-child-with-the-sword, refs: ["1Kgs 3:24", "1Kgs 3:25"]}
+      - {motif: true-mother-revealed-by-compassion, refs: ["1Kgs 3:26", "1Kgs 3:27"], note: "rahamim stirred; the other says 'neither mine nor yours, cut'"}
+      - {motif: divine-wisdom-for-judgment, refs: ["1Kgs 3:28"], note: "'The wisdom of God was in him to do justice'"}
+    hints:
+      - "Close parallels: the Jataka of Mahosadha (Ummagga Jataka) where a yakshini claims a child and the wise judge has them pull it; the Chinese 'Chalk Circle' (Huilan ji, Brecht); Quran 21:78-79 David and Solomon judging the sheep in the field; a hadith (Bukhari) tells of David and Solomon and two women with one child where Solomon calls for a knife."
