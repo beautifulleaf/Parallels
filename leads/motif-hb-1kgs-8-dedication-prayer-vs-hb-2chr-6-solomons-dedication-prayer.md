@@ -1,10 +1,9 @@
 ---
 id: motif-hb-1kgs-8-dedication-prayer-vs-hb-2chr-6-solomons-dedication-prayer
 title: Solomon's prayer of dedication ↔ Solomon's blessing and dedication prayer on the bronze platform
-summary: 'These two units share 6 motifs: a foreigner from a far land who hears of god''s name comes to
-  pray at the temple and is heard, ''there is no man who does not sin'', prayers made toward the temple
-  (or toward the land, city and house when in exile) are heard in heaven, heaven and the heaven of heavens
-  cannot contain god, much less a temple….'
+summary: 'These two units share 7 motifs: a foreigner from a far land who hears of god''s name comes to
+  pray at the temple and is heard, ''there is no man who does not sin'', heaven and the heaven of heavens
+  cannot contain god, much less a temple, the direction faced in prayer [divergence between the texts]….'
 status: new
 relations:
 - internal
@@ -16,10 +15,11 @@ layers:
 motifs:
 - foreigner-prays-at-temple
 - no-man-who-does-not-sin
-- prayer-toward-the-temple
 - god-cannot-be-contained-by-temple
-- heaven-of-heavens
+- direction-of-prayer-as-divergence
+- prayer-toward-the-temple
 - spreading-hands-in-prayer
+- heaven-of-heavens
 passages:
 - tradition: judaism
   ref: 1Kgs 8:41-43
@@ -63,6 +63,55 @@ passages:
   text: כִּ֣י יֶחֶטְאוּ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם לִפְנֵ֣י
     אוֹיֵ֑ב וְשָׁב֧וּם שׁוֹבֵיהֶ֛ם אֶל אֶ֥רֶץ רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה
 - tradition: judaism
+  ref: 1Kgs 8:27
+  note: Heaven and the heaven of heavens cannot contain God, much less a temple
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֥ב אֱלֹהִ֖ים עַל הָאָ֑רֶץ הִ֠נֵּה הַשָּׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֨יִם֙
+    לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
+- tradition: judaism
+  ref: 2Chr 6:18
+  note: Heaven and the heaven of heavens cannot contain God, much less a temple ('will God indeed dwell
+    with man on earth?')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֧ב אֱלֹהִ֛ים אֶת הָאָדָ֖ם עַל הָאָ֑רֶץ הִ֠נֵּה שָׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֨יִם֙
+    לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
+- tradition: judaism
+  ref: 1Kgs 8:48
+  note: The direction faced in prayer [divergence between the texts] (1Kgs 8:48 wĕ-hitpallĕlû ʾēlêkā derek
+    ʾarṣām ... hā-ʿîr ʾăšer bāḥartā wĕ-ha-bbayit ʾăšer bānîtî li-šmekā; Q 2:144 fa-walli wajhaka shaṭra
+    l-masjidi l-ḥarām ... wa-ḥaythu mā kuntum fa-wallū wujūhakum shaṭrahu. The Jerusalem temple as prayer
+    direction is replaced by the Sacred Mosque.)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְשָׁ֣בוּ אֵלֶ֗יךָ בְּכָל לְבָבָם֙ וּבְכָל נַפְשָׁ֔ם בְּאֶ֥רֶץ אֹיְבֵיהֶ֖ם אֲשֶׁר שָׁב֣וּ אֹתָ֑ם
+    וְהִֽתְפַּֽלְל֣וּ אֵלֶ֗יךָ דֶּ֤רֶךְ אַרְצָם֙ אֲשֶׁ֣ר נָתַ֣תָּה לַאֲבוֹתָ֔ם הָעִיר֙ אֲשֶׁ֣ר בָּחַ֔רְתָּ
+    וְהַבַּ֖יִת אֲשֶׁר בנית בָּנִ֥יתִי לִשְׁמֶֽךָ
+- tradition: judaism
+  ref: 2Chr 6:34
+  note: 'The direction faced in prayer [divergence between the texts] (2Chr 6:34, 38 wĕ-hitpallĕlû ʾēlêkā
+    derek hā-ʿîr ha-zzōʾt ʾăšer bāḥartā bāh wĕ-ha-bbayit ʾăšer bānîtî li-šmekā: wherever Israel is (at
+    war, in captivity), they pray toward the chosen city and the house Solomon built; Q 2:144, 150 wa-ḥaythu
+    mā kuntum fa-wallū wujūhakum shaṭrahu: wherever you are, turn your faces toward the Sacred Mosque.
+    Same rule (pray toward the house from wherever you are), new house.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי יֵצֵ֨א עַמְּךָ֤ לַמִּלְחָמָה֙ עַל א֣וֹיְבָ֔יו בַּדֶּ֖רֶךְ אֲשֶׁ֣ר תִּשְׁלָחֵ֑ם וְהִתְפַּֽלְל֣וּ
+    אֵלֶ֗יךָ דֶּ֣רֶךְ הָעִ֤יר הַזֹּאת֙ אֲשֶׁ֣ר בָּחַ֣רְתָּ בָּ֔הּ וְהַבַּ֖יִת אֲשֶׁר בָּנִ֥יתִי לִשְׁמֶֽךָ
+- tradition: judaism
+  ref: 2Chr 6:38
+  note: 'The direction faced in prayer [divergence between the texts] (2Chr 6:34, 38 wĕ-hitpallĕlû ʾēlêkā
+    derek hā-ʿîr ha-zzōʾt ʾăšer bāḥartā bāh wĕ-ha-bbayit ʾăšer bānîtî li-šmekā: wherever Israel is (at
+    war, in captivity), they pray toward the chosen city and the house Solomon built; Q 2:144, 150 wa-ḥaythu
+    mā kuntum fa-wallū wujūhakum shaṭrahu: wherever you are, turn your faces toward the Sacred Mosque.
+    Same rule (pray toward the house from wherever you are), new house.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְשָׁ֣בוּ אֵלֶ֗יךָ בְּכָל לִבָּם֙ וּבְכָל נַפְשָׁ֔ם בְּאֶ֥רֶץ שִׁבְיָ֖ם אֲשֶׁר שָׁב֣וּ אֹתָ֑ם
+    וְהִֽתְפַּֽלְל֗וּ דֶּ֤רֶךְ אַרְצָם֙ אֲשֶׁ֣ר נָתַ֣תָּה לַאֲבוֹתָ֔ם וְהָעִיר֙ אֲשֶׁ֣ר בָּחַ֔רְתָּ וְלַבַּ֖יִת
+    אֲשֶׁר בָּנִ֥יתִי לִשְׁמֶֽךָ
+- tradition: judaism
   ref: 1Kgs 8:29-30
   note: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
     heaven
@@ -99,35 +148,6 @@ passages:
   text: וְשָׁ֨מַעְתָּ֜ אֶל תַּחֲנוּנֵ֤י עַבְדְּךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר יִֽתְפַּֽלְל֖וּ אֶל
     הַמָּק֣וֹם הַזֶּ֑ה וְ֠אַתָּה תִּשְׁמַ֞ע מִמְּק֤וֹם שִׁבְתְּךָ֙ מִן הַשָּׁמַ֔יִם וְשָׁמַעְתָּ֖ וְסָלָֽחְתָּ
 - tradition: judaism
-  ref: 1Kgs 8:27
-  note: Heaven and the heaven of heavens cannot contain God, much less a temple
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֥ב אֱלֹהִ֖ים עַל הָאָ֑רֶץ הִ֠נֵּה הַשָּׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֨יִם֙
-    לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
-- tradition: judaism
-  ref: 2Chr 6:18
-  note: Heaven and the heaven of heavens cannot contain God, much less a temple ('will God indeed dwell
-    with man on earth?')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֧ב אֱלֹהִ֛ים אֶת הָאָדָ֖ם עַל הָאָ֑רֶץ הִ֠נֵּה שָׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֨יִם֙
-    לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
-- tradition: judaism
-  ref: 1Kgs 8:27
-  note: Heaven and the heaven of heavens belong to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֥ב אֱלֹהִ֖ים עַל הָאָ֑רֶץ הִ֠נֵּה הַשָּׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֨יִם֙
-    לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
-- tradition: judaism
-  ref: 2Chr 6:18
-  note: Heaven and the heaven of heavens belong to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֧ב אֱלֹהִ֛ים אֶת הָאָדָ֖ם עַל הָאָ֑רֶץ הִ֠נֵּה שָׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֨יִם֙
-    לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
-- tradition: judaism
   ref: 1Kgs 8:22
   note: Prophet spreads out his palms to God in prayer
   lang: he
@@ -155,31 +175,47 @@ passages:
   text: כִּֽי עָשָׂ֨ה שְׁלֹמֹ֜ה כִּיּ֣וֹר נְחֹ֗שֶׁת וַֽיִּתְּנֵהוּ֮ בְּת֣וֹךְ הָעֲזָרָה֒ חָמֵ֨שׁ אַמּ֜וֹת
     אָרְכּ֗וֹ וְחָמֵ֤שׁ אַמּוֹת֙ רָחְבּ֔וֹ וְאַמּ֥וֹת שָׁל֖וֹשׁ קוֹמָת֑וֹ וַיַּעֲמֹ֣ד עָלָ֗יו וַיִּבְרַ֤ךְ
     עַל בִּרְכָּיו֙ נֶ֚גֶד כָּל קְהַ֣ל יִשְׂרָאֵ֔ל וַיִּפְרֹ֥שׂ כַּפָּ֖יו הַשָּׁמָֽיְמָה
+- tradition: judaism
+  ref: 1Kgs 8:27
+  note: Heaven and the heaven of heavens belong to God
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֥ב אֱלֹהִ֖ים עַל הָאָ֑רֶץ הִ֠נֵּה הַשָּׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֨יִם֙
+    לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
+- tradition: judaism
+  ref: 2Chr 6:18
+  note: Heaven and the heaven of heavens belong to God
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֧ב אֱלֹהִ֛ים אֶת הָאָדָ֖ם עַל הָאָ֑רֶץ הִ֠נֵּה שָׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֨יִם֙
+    לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
 evidence:
 - text: 'Shared motifs, rarest first: A foreigner from a far land who hears of God''s name comes to pray
-    at the temple and is heard (weight 6.7); ''There is no man who does not sin'' (weight 6.7); Prayers
-    made toward the temple (or toward the land, city and house when in exile) are heard in heaven (weight
-    6.3); Heaven and the heaven of heavens cannot contain God, much less a temple (weight 6.3); Heaven
-    and the heaven of heavens belong to God (weight 5.6); Prophet spreads out his palms to God in prayer
-    (weight 5.4). Pair score 37.0.'
+    at the temple and is heard (weight 6.7); ''There is no man who does not sin'' (weight 6.7); Heaven
+    and the heaven of heavens cannot contain God, much less a temple (weight 6.3); The direction faced
+    in prayer [divergence between the texts] (weight 6.0); Prayers made toward the temple (or toward the
+    land, city and house when in exile) are heard in heaven (weight 6.0); Prophet spreads out his palms
+    to God in prayer (weight 5.4); Heaven and the heaven of heavens belong to God (weight 5.4). Pair score
+    42.5.'
   basis: reading
-- text: 'Only in Solomon''s prayer of dedication: Long catalogue of curses for covenant violation (disease,
-    defeat, famine, exile); Heaven is shut and no rain falls because of the people''s sin; repentance
-    brings rain; God alone knows the hearts of all humans; Egypt called an iron furnace (smelting furnace);
-    A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Exiles in
-    an enemy land turn back with all their heart and pray toward their land, and God grants them mercy
-    before captors.'
+- text: 'Only in Solomon''s prayer of dedication: Exiles in an enemy land turn back with all their heart
+    and pray toward their land, and God grants them mercy before captors; A man accused swears a curse-oath
+    before the altar, and God judges guilty and innocent; Long catalogue of curses for covenant violation
+    (disease, defeat, famine, exile); Egypt called an iron furnace (smelting furnace); Heaven is shut
+    and no rain falls because of the people''s sin; repentance brings rain; God alone knows the hearts
+    of all humans.'
   basis: reading
-- text: 'Only in Solomon''s blessing and dedication prayer on the bronze platform: ''Arise, YHWH, to your
-    resting place, you and the ark of your might''; Prayer lists famine, pestilence, blight, mildew, locust,
-    siege and sickness as occasions for prayer; Sacrifice only at the place God will choose to make his
-    name dwell; The dynasty''s continuance is conditioned on the heirs'' faithfulness; God has said he
-    will dwell in thick darkness (''arafel); God looks on the heart, not on appearance or height; The
-    king kneels on a bronze platform in the court and spreads his hands to heaven; An oath sworn before
-    God''s altar in the temple, judged by God; People away from Jerusalem or in exile pray in the direction
-    of the land, city and temple; Obedience brings early and late rain; idolatry makes God shut up the
-    heavens; Captives confess in exile ''We have sinned, done wrong and acted wickedly''; Temple called
-    a ''house of zebul'' (exalted dwelling), a place for God to dwell forever.'
+- text: 'Only in Solomon''s blessing and dedication prayer on the bronze platform: Prayer lists famine,
+    pestilence, blight, mildew, locust, siege and sickness as occasions for prayer; The king kneels on
+    a bronze platform in the court and spreads his hands to heaven; An oath sworn before God''s altar
+    in the temple, judged by God; People away from Jerusalem or in exile pray in the direction of the
+    land, city and temple; Captives confess in exile ''We have sinned, done wrong and acted wickedly'';
+    ''Arise, YHWH, to your resting place, you and the ark of your might''; Temple called a ''house of
+    zebul'' (exalted dwelling), a place for God to dwell forever; ''O my servants who have transgressed
+    against themselves, do not despair of God''s mercy; God forgives all sins''; God has said he will
+    dwell in thick darkness (''arafel); The dynasty''s continuance is conditioned on the heirs'' faithfulness;
+    God looks on the heart, not on appearance or height; Sacrifice only at the place God will choose to
+    make his name dwell; and 1 more.'
   basis: reading
 - text: 'Solomon''s prayer of dedication: tagged by Claude (model), reading the Hebrew.'
   basis: reading

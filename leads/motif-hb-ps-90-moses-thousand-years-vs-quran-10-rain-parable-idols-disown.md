@@ -1,0 +1,81 @@
+---
+id: motif-hb-ps-90-moses-thousand-years-vs-quran-10-rain-parable-idols-disown
+title: Psalm 90, prayer of Moses; a thousand years as yesterday ↔ Life like a crop, the abode of peace,
+  darkened faces
+summary: 'These two units share 1 motifs: humans are like grass that flourishes in the morning and withers
+  by evening.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- humans-like-grass-withering
+passages:
+- tradition: judaism
+  ref: Ps 90:5-6
+  note: Humans are like grass that flourishes in the morning and withers by evening
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (90:5) זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף (90:6) בַּ֭בֹּקֶר יָצִ֣יץ
+    וְחָלָ֑ף לָ֝עֶ֗רֶב יְמוֹלֵ֥ל וְיָבֵֽשׁ
+- tradition: judaism
+  ref: Ps 90:5
+  note: Humans are like grass that flourishes in the morning and withers by evening
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף
+- tradition: islam
+  ref: Quran 10:24
+  note: Humans are like grass that flourishes in the morning and withers by evening
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ
+    نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا
+    وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ
+    نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ
+    يَتَفَكَّرُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    parallel. Flourishing overturned within a day: babbōqer yāṣîṣ wᵉḥālāp lāʿereb yᵉmôlēl wᵉyābēš vs ḥattā
+    idhā akhadhati l-arḍu zukhrufahā wa-zzayyanat ... atāhā amrunā laylan aw nahāran.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Humans are like grass that flourishes in the morning and withers
+    by evening (weight 5.6). Pair score 5.6.'
+  basis: reading
+- text: 'Only in Psalm 90, prayer of Moses; a thousand years as yesterday: Before the mountains were born
+    and the earth was brought forth in labor, God existed from everlasting; God turns mortals back to
+    dust (dakka), saying ''Return, sons of Adam''; The span of human life is seventy years, or eighty
+    with strength; A psalm is ascribed to Moses, ''the man of God''; Prayer ''Teach us to number our days
+    that we may gain a heart of wisdom''; Human life is short and fleeting (heled, a handbreadth, grass,
+    a sigh); Human comes from dust and returns to dust [divergence between the texts]; A thousand years
+    in God''s sight are like yesterday when it passes, or a watch in the night [divergence between the
+    texts]; The resurrected feel they had stayed only an hour of a day; A thousand years in God''s sight
+    are like yesterday when it passes, or a watch in the night; Lament question ''How long, O God?'' /
+    ''Why have you rejected us forever?''; Human comes from dust and returns to dust.'
+  basis: reading
+- text: 'Only in Life like a crop, the abode of peace, darkened faces: The doers of good get the best
+    reward ''and more'' (ziyada); Paradise as the abode of peace (dār al-salām); The faces of evildoers
+    are covered as with pieces of dark night; All flesh is grass and its loyalty like the flower of the
+    field; grass withers but the word of God stands forever; Parable: worldly life is like vegetation
+    fed by rain, adorned, then cut down overnight as if it never flourished; The destroyed are as if they
+    had never lived in their land; At judgment the associated ''partners'' disown their worshipers: ''it
+    was not us you worshiped''.'
+  basis: reading
+- text: 'Psalm 90, prayer of Moses; a thousand years as yesterday: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'Life like a crop, the abode of peace, darkened faces: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

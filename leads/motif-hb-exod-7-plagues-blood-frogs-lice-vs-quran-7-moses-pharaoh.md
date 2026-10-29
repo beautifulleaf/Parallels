@@ -1,13 +1,15 @@
 ---
 id: motif-hb-exod-7-plagues-blood-frogs-lice-vs-quran-7-moses-pharaoh
 title: 'Plagues 1-3: blood, frogs, lice ↔ Moses before Pharaoh, the magicians and the plagues'
-summary: 'These two units share 8 motifs: magicians fail to imitate a wonder and confess ''this is the
-  finger of god'', the dust of the earth becomes lice on man and beast, frogs swarm out of the river into
-  houses, beds, ovens and kneading-troughs, nile water is turned to blood….'
+summary: 'These two units share 9 motifs: magicians fail to imitate a wonder and confess ''this is the
+  finger of god'', magicians fail to imitate a wonder and confess ''this is the finger of god'' [divergence
+  between the texts], the dust of the earth becomes lice on man and beast, frogs swarm out of the river
+  into houses, beds, ovens and kneading-troughs….'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -16,11 +18,12 @@ layers:
 - motif
 motifs:
 - magicians-fail-finger-of-god
+- magicians-fail-finger-of-god-as-divergence
 - plague-of-lice-from-dust
 - plague-of-frogs
 - nile-water-turned-to-blood
-- let-my-people-go-demand
 - king-asks-prophet-to-pray
+- let-my-people-go-demand
 - contest-with-court-magicians
 - hardening-of-pharaohs-heart
 passages:
@@ -42,6 +45,56 @@ passages:
   ref: Quran 7:121
   note: Magicians fail to imitate a wonder and confess 'This is the finger of God' (the magicians go further
     and convert)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
+- tradition: judaism
+  ref: Exod 8:14
+  note: 'Magicians fail to imitate a wonder and confess ''This is the finger of God'' [divergence between
+    the texts] (The magicians'' end. Exod: they fail at the lice and say ʾeṣbaʿ ʾĕlōhîm hiwʾ, but stay
+    at court (they are struck by boils at 9:11), and Pharaoh''s heart is hardened. Q: wa-ulqiya l-saḥaratu
+    sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūna. They convert at the first contest,
+    are threatened with mutilation and crucifixion (la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin
+    thumma la-uṣallibannakum), and pray to die as muslims (wa-tawaffanā muslimīna). Grudging recognition
+    becomes conversion and martyrdom.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּעֲשׂוּ כֵ֨ן הַחַרְטֻמִּ֧ים בְּלָטֵיהֶ֛ם לְהוֹצִ֥יא אֶת הַכִּנִּ֖ים וְלֹ֣א יָכֹ֑לוּ וַתְּהִי֙
+    הַכִּנָּ֔ם בָּאָדָ֖ם וּבַבְּהֵמָֽה
+- tradition: judaism
+  ref: Exod 8:15
+  note: 'Magicians fail to imitate a wonder and confess ''This is the finger of God'' [divergence between
+    the texts] (The magicians'' end. Exod: they fail at the lice and say ʾeṣbaʿ ʾĕlōhîm hiwʾ, but stay
+    at court (they are struck by boils at 9:11), and Pharaoh''s heart is hardened. Q: wa-ulqiya l-saḥaratu
+    sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūna. They convert at the first contest,
+    are threatened with mutilation and crucifixion (la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin
+    thumma la-uṣallibannakum), and pray to die as muslims (wa-tawaffanā muslimīna). Grudging recognition
+    becomes conversion and martyrdom.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+    וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+- tradition: islam
+  ref: Quran 7:120
+  note: 'Magicians fail to imitate a wonder and confess ''This is the finger of God'' [divergence between
+    the texts] (The magicians'' end. Exod: they fail at the lice and say ʾeṣbaʿ ʾĕlōhîm hiwʾ, but stay
+    at court (they are struck by boils at 9:11), and Pharaoh''s heart is hardened. Q: wa-ulqiya l-saḥaratu
+    sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūna. They convert at the first contest,
+    are threatened with mutilation and crucifixion (la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin
+    thumma la-uṣallibannakum), and pray to die as muslims (wa-tawaffanā muslimīna). Grudging recognition
+    becomes conversion and martyrdom.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
+- tradition: islam
+  ref: Quran 7:121
+  note: 'Magicians fail to imitate a wonder and confess ''This is the finger of God'' [divergence between
+    the texts] (The magicians'' end. Exod: they fail at the lice and say ʾeṣbaʿ ʾĕlōhîm hiwʾ, but stay
+    at court (they are struck by boils at 9:11), and Pharaoh''s heart is hardened. Q: wa-ulqiya l-saḥaratu
+    sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūna. They convert at the first contest,
+    are threatened with mutilation and crucifixion (la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin
+    thumma la-uṣallibannakum), and pray to die as muslims (wa-tawaffanā muslimīna). Grudging recognition
+    becomes conversion and martyrdom.)'
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
@@ -111,6 +164,33 @@ passages:
   text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
     مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
 - tradition: judaism
+  ref: Exod 8:4
+  note: King asks the prophet to intercede with God to remove a plague
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקְרָ֨א פַרְעֹ֜ה לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֗ן וַיֹּ֨אמֶר֙ הַעְתִּ֣ירוּ אֶל יְהוָ֔ה וְיָסֵר֙ הַֽצְפַרְדְּעִ֔ים
+    מִמֶּ֖נִּי וּמֵֽעַמִּ֑י וַאֲשַׁלְּחָה֙ אֶת הָעָ֔ם וְיִזְבְּח֖וּ לַיהוָֽה
+- tradition: judaism
+  ref: Exod 8:11
+  note: King asks the prophet to intercede with God to remove a plague
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת לִבּ֔וֹ וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם
+    כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+- tradition: islam
+  ref: Quran 7:134
+  note: King asks the prophet to intercede with God to remove a plague
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ
+    لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ
+- tradition: islam
+  ref: Quran 7:135
+  note: King asks the prophet to intercede with God to remove a plague
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ
+- tradition: judaism
   ref: Exod 7:16
   note: Prophet delivers God's demand 'Let my people go that they may serve me'
   lang: he
@@ -132,20 +212,6 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن
     رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: judaism
-  ref: Exod 8:4
-  note: King asks the prophet to intercede with God to remove a plague
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֨א פַרְעֹ֜ה לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֗ן וַיֹּ֨אמֶר֙ הַעְתִּ֣ירוּ אֶל יְהוָ֔ה וְיָסֵר֙ הַֽצְפַרְדְּעִ֔ים
-    מִמֶּ֖נִּי וּמֵֽעַמִּ֑י וַאֲשַׁלְּחָה֙ אֶת הָעָ֔ם וְיִזְבְּח֖וּ לַיהוָֽה
-- tradition: islam
-  ref: Quran 7:134
-  note: King asks the prophet to intercede with God to remove a plague
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ
-    لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ
 - tradition: judaism
   ref: Exod 7:22
   note: Prophet's wonders are imitated by the king's magicians in a contest
@@ -201,33 +267,46 @@ passages:
   text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
     مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    divergence, parallel. The magicians'' end. Exod: they fail at the lice and say ʾeṣbaʿ ʾĕlōhîm hiwʾ,
+    but stay at court (they are struck by boils at 9:11), and Pharaoh''s heart is hardened. Q: wa-ulqiya
+    l-saḥaratu sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūna. They convert at the first
+    contest, are threatened with mutilation and crucifixion (la-uqaṭṭiʿanna aydiyakum wa-arjulakum min
+    khilāfin thumma la-uṣallibannakum), and pray to die as muslims (wa-tawaffanā muslimīna). Grudging
+    recognition becomes conversion and martyrdom. Exod: haʿtîrû ʾel-YHWH wə-yāsēr haṣ-ṣəfardəʿîm ... wa-ʾăšalləḥāh
+    ʾet-hā-ʿām, then wa-yyarʾ Parʿōh kî hāyətāh hā-rəwāḥāh wə-hakhbēd ʾet-libbô. Q: yā Mūsā dʿu lanā rabbaka
+    ... la-in kashafta ʿannā l-rijza la-nuʾminanna laka wa-la-nursilanna maʿaka banī Isrāʾīla ... idhā
+    hum yankuthūna. The vow made under a plague and broken afterwards. Q adds a promise of faith (la-nuʾminanna)
+    and says ''they break their word'', where Exod says the heart was made heavy.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Magicians fail to imitate a wonder and confess ''This is the finger
-    of God'' (weight 6.7); The dust of the earth becomes lice on man and beast (weight 6.3); Frogs swarm
-    out of the river into houses, beds, ovens and kneading-troughs (weight 6.0); Nile water is turned
-    to blood (weight 5.8); Prophet delivers God''s demand ''Let my people go that they may serve me''
-    (weight 5.6); King asks the prophet to intercede with God to remove a plague (weight 5.6); Prophet''s
-    wonders are imitated by the king''s magicians in a contest (weight 5.2); The king''s heart is hardened
-    (by himself or by God) so he refuses to release the people (weight 4.6). Pair score 45.7.'
+    of God'' (weight 6.7); Magicians fail to imitate a wonder and confess ''This is the finger of God''
+    [divergence between the texts] (weight 6.7); The dust of the earth becomes lice on man and beast (weight
+    6.3); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs (weight 6.0); Nile
+    water is turned to blood (weight 5.8); King asks the prophet to intercede with God to remove a plague
+    (weight 5.6); Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 5.4);
+    Prophet''s wonders are imitated by the king''s magicians in a contest (weight 5.1); The king''s heart
+    is hardened (by himself or by God) so he refuses to release the people (weight 4.6). Pair score 52.2.'
   basis: reading
 - text: 'Only in Plagues 1-3: blood, frogs, lice: The dead frogs are piled in heaps and the land stinks;
     Egyptians dig around the Nile for drinkable water; Prophet lets the king choose when the plague should
-    end, to prove God''s power; Prophet confronts the king at the river in the morning.'
+    end, to prove God''s power; The defeated magicians fall prostrate and declare faith in the Lord of
+    Moses and Aaron [divergence between the texts]; How the defeated court magicians respond [divergence
+    between the texts]; The king breaks his promise to release the people once a plague is lifted [divergence
+    between the texts]; Prophet confronts the king at the river in the morning; Why Pharaoh and Egypt
+    refuse despite the signs [divergence between the texts].'
   basis: reading
 - text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
     years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
-    prophet as a bad omen (tatayyur); their omen is with God; Prophet''s hand turns leprous, white as
-    snow, and is restored as a sign; Ruler orders the killing of male infants; The magicians'' spell bewitches
-    the people''s eyes and terrifies them; The court magicians ask the king for a reward if they win and
-    are promised closeness; The defeated magicians fall prostrate and declare faith in the Lord of Moses
-    and Aaron; The magicians offer the prophet to throw first; he tells them to throw; Threatened believers
-    say ''to our Lord we return'' and pray for patience and to die as muslims; The meek / those who wait
-    for YHWH / the righteous and their seed shall inherit the land (yirshu arets); The king breaks his
-    promise to release the people once a plague is lifted; Pharaoh is said to have his own gods, whom
-    Moses would make him abandon; One of the Egyptian plagues is a flood (tufan); Locusts brought by an
-    east wind devour all vegetation left after the hail; The prophet''s staff-serpent swallows the magicians''
-    staff-serpents; The returning waters drown the pursuing army; not one survives; A staff thrown down
-    becomes a serpent and turns back into a staff; The tyrant threatens to cut off hands and feet on opposite
-    sides and crucify the converts.'
+    prophet as a bad omen (tatayyur); their omen is with God; The magicians'' spell bewitches the people''s
+    eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
+    is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
+    flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
+    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
+    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
+    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
+    Threatened believers say ''to our Lord we return'' and pray for patience and to die as muslims; Pharaoh
+    executes or threatens offenders by hanging, impaling or crucifixion; and 16 more.'
   basis: reading
 - text: 'Plagues 1-3: blood, frogs, lice: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -5,7 +5,6 @@ title: The Judeans in Egypt defend their cult of the Queen of Heaven ↔ Female 
 summary: 'These two units share 1 motifs: offerings, incense and libations to the ''queen of heaven''.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -45,6 +44,12 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثًا وَإِن يَدْعُونَ إِلَّا شَيْطَٰنًا مَّرِيدًا
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    echo. Both polemicize against the worship of female deities. Q: in yadʿūna min dūnihi illā ināthan
+    wa-in yadʿūna illā shayṭānan marīdan. Jer: ləqaṭṭēr li-mlekhet ha-šāmayim wə-hassēkh lāh nəsākhîm.
+    In Jer the women defend the cult by its results (wa-nnisbaʿ leḥem); Q reduces the female beings to
+    Satan.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Offerings, incense and libations to the ''Queen of Heaven'' (weight
     6.7). Pair score 6.7.'
   basis: reading
@@ -53,20 +58,22 @@ evidence:
     of the goddess they worship; God swears his name will no longer be invoked in oaths by apostates in
     a foreign land; God swears by his great name; The prophet ironically tells idolaters to go ahead and
     fulfill their vows; Judeans settled in Egyptian cities: Migdol, Tahpanhes, Memphis and Pathros; Pharaoh
-    Hophra will be handed over to those who seek his life; God sends his messengers ''rising early and
-    sending'' out of compassion; Events will show whose word will stand, God''s or the people''s; The
-    wickedness of the kings of Judah and of their wives; Women burn incense to a goddess, claiming they
-    did so with their husbands'' knowledge.'
+    Hophra will be handed over to those who seek his life; Events will show whose word will stand, God''s
+    or the people''s; The wickedness of the kings of Judah and of their wives; Women burn incense to a
+    goddess, claiming they did so with their husbands'' knowledge; Opponents refuse the prophet: ''We
+    found our fathers on a way and follow in their footsteps''; God sends his messengers ''rising early
+    and sending'' out of compassion; and 2 more.'
   basis: reading
-- text: 'Only in Female deities, Satan''s vow, slit cattle ears, and Abraham the friend: Abraham is called
-    God''s friend (ohev, ''lover''); Satan commands people to alter God''s creation; Idolaters invoke
-    only female beings besides God, and only a rebellious Satan; God does not forgive associating partners
-    with him (shirk) but forgives anything less; Salvation is not by your wishes nor those of the People
-    of the Book: whoever does evil is requited; Follow the religion (milla) of Abraham the ḥanīf, who
-    was no idolater; Whoever does good, male or female, and believes, enters paradise; Cursed Satan vows
-    to take an appointed share (naṣīb mafrūḍ) of God''s servants; Satan commands people to slit the ears
-    of cattle (a pagan dedication rite); Not wronged by a date-stone''s thread (fatīl) or groove (naqīr):
-    proverbial minimal measures.'
+- text: 'Only in Female deities, Satan''s vow, slit cattle ears, and Abraham the friend: Satan commands
+    people to alter God''s creation; Idolaters invoke only female beings besides God, and only a rebellious
+    Satan; Salvation is not by your wishes nor those of the People of the Book: whoever does evil is requited;
+    Cursed Satan vows to take an appointed share (naṣīb mafrūḍ) of God''s servants; Satan commands people
+    to slit the ears of cattle (a pagan dedication rite); The faithless wife credits her lovers (the Baals)
+    with her bread, water, wool, flax, oil and drink, not knowing God gave them; Whoever does good, male
+    or female, and believes, enters paradise; Abraham is called God''s friend (ohev, ''lover''); God does
+    not forgive associating partners with him (shirk) but forgives anything less; Not wronged by a date-stone''s
+    thread (fatīl) or groove (naqīr): proverbial minimal measures; Follow the religion (milla) of Abraham
+    the ḥanīf, who was no idolater.'
   basis: reading
 - text: 'The Judeans in Egypt defend their cult of the Queen of Heaven: tagged by Claude (model), reading
     the Hebrew.'

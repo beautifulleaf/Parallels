@@ -1,0 +1,96 @@
+---
+id: motif-hb-hab-2-watchtower-and-woes-vs-quran-102-104-rivalry-time-slanderer
+title: The vision on tablets; the righteous live by faith; five woes ↔ Rivalry, time and the slanderer
+summary: 'These two units share 1 motifs: woe to every slanderer and backbiter (humaza lumaza) who amasses
+  and counts wealth, thinking it makes him immortal.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- slanderer-and-hoarder-condemned
+passages:
+- tradition: judaism
+  ref: Hab 2:5
+  note: 'Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
+    it makes him immortal (waylun li-kulli humazatin lumazatin alladhī jamaʿa mālan; alhākumu t-takāthur
+    ~ hôy ha-mmarbeh llōʾ lô ... we-lōʾ yiśbāʿ wa-yyeʾĕsōf ʾēlāyw: a ''woe'' on the insatiable piler-up
+    of wealth (takāthur ~ marbeh, both ''increasing'').)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאַף֙ כִּֽי הַיַּ֣יִן בּוֹגֵ֔ד גֶּ֥בֶר יָהִ֖יר וְלֹ֣א יִנְוֶ֑ה אֲשֶׁר֩ הִרְחִ֨יב כִּשְׁא֜וֹל
+    נַפְשׁ֗וֹ וְה֤וּא כַמָּ֨וֶת֙ וְלֹ֣א יִשְׂבָּ֔ע וַיֶּאֱסֹ֤ף אֵלָיו֙ כָּל הַגּוֹיִ֔ם וַיִּקְבֹּ֥ץ אֵלָ֖יו
+    כָּל הָעַמִּֽים
+- tradition: judaism
+  ref: Hab 2:6
+  note: 'Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
+    it makes him immortal (waylun li-kulli humazatin lumazatin alladhī jamaʿa mālan; alhākumu t-takāthur
+    ~ hôy ha-mmarbeh llōʾ lô ... we-lōʾ yiśbāʿ wa-yyeʾĕsōf ʾēlāyw: a ''woe'' on the insatiable piler-up
+    of wealth (takāthur ~ marbeh, both ''increasing'').)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הֲלוֹא אֵ֣לֶּה כֻלָּ֗ם עָלָיו֙ מָשָׁ֣ל יִשָּׂ֔אוּ וּמְלִיצָ֖ה חִיד֣וֹת ל֑וֹ וְיֹאמַ֗ר ה֚וֹי הַמַּרְבֶּ֣ה
+    לֹּא ל֔וֹ עַד מָתַ֕י וּמַכְבִּ֥יד עָלָ֖יו עַבְטִֽיט
+- tradition: islam
+  ref: Quran 104:1
+  note: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking it
+    makes him immortal
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
+- tradition: islam
+  ref: Quran 104:2
+  note: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking it
+    makes him immortal
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    parallel. waylun li-kulli humazatin lumazatin alladhī jamaʿa mālan; alhākumu t-takāthur ~ hôy ha-mmarbeh
+    llōʾ lô ... we-lōʾ yiśbāʿ wa-yyeʾĕsōf ʾēlāyw: a ''woe'' on the insatiable piler-up of wealth (takāthur
+    ~ marbeh, both ''increasing'').'
+  basis: reading
+- text: 'Shared motifs, rarest first: Woe to every slanderer and backbiter (humaza lumaza) who amasses
+    and counts wealth, thinking it makes him immortal (weight 5.6). Pair score 5.6.'
+  basis: reading
+- text: 'Only in The vision on tablets; the righteous live by faith; five woes: The arrogant man''s appetite
+    is wide as Sheol and like Death never satisfied, gathering all nations; Woe to one who makes his neighbor
+    drunk in order to gaze on his nakedness; The prophet stations himself on his watchpost to see what
+    God will answer to his complaint; ''The righteous shall live by his faith (emunah)''; A series of
+    ''woe'' (hoy) taunt-sayings against an oppressor; The stone cries out from the wall and the beam answers
+    from the woodwork; The vision is for an appointed time; though it tarry, wait for it, for it will
+    surely come; Write the vision plainly on tablets so that a runner may read it; Woe to the one who
+    says to wood ''Awake!'' and to dumb stone ''Arise!''; there is no breath in it; The earth will be
+    full of the knowledge of YHWH as the waters cover the sea; Peoples labor only for fire and nations
+    weary themselves for nothing; ''Hush (has) before YHWH, all the earth'', for he is in his holy temple
+    or has roused himself; and 7 more.'
+  basis: reading
+- text: 'Only in Rivalry, time and the slanderer: Knowledge of certainty (''ilm al-yaqin) and the eye
+    of certainty (''ayn al-yaqin): you will see hell; God''s kindled fire rises over the hearts and is
+    closed over them in extended columns; Oath by time or the afternoon (al-''asr): humankind is in loss;
+    Rivalry in piling up (al-takathur) distracts people until they visit the graves; they will be asked
+    about the pleasures; A fire is closed over the damned (mu''sada); Riches kept by their owner to his
+    hurt, lost in a bad venture, so that his son has nothing in hand; Hell given proper names: Laza (scalp-stripper),
+    Saqar (scorcher, leaves nothing), al-Hutama (the crusher), Hawiya (the abyss); Do not go about as
+    a talebearer among your people; Rhetorical formula ''And what will make you know what X is?'' (wa
+    ma adraka ma) introducing an eschatological term.'
+  basis: reading
+- text: 'The vision on tablets; the righteous live by faith; five woes: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Rivalry, time and the slanderer: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

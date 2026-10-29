@@ -2,11 +2,11 @@
 id: motif-hb-gen-6-flood-vs-quran-21-noah-david-solomon
 title: The Flood (full read) ↔ Noah answered; David and Solomon's judgment, the praising mountains, mail
   and wind
-summary: 'These two units share 2 motifs: all others perish, hero''s family saved with him.'
+summary: 'These two units share 3 motifs: hero asks the deity to judge or destroy his opponents [divergence
+  between the texts], all others perish, hero''s family saved with him.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -14,9 +14,58 @@ traditions:
 layers:
 - motif
 motifs:
+- hero-prays-for-judgment-as-divergence
 - universal-destruction
 - family-saved
 passages:
+- tradition: judaism
+  ref: Gen 6:9
+  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
+    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
+    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
+    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
+    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
+    our signs''.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
+    הִֽתְהַלֶּךְ נֹֽחַ
+- tradition: judaism
+  ref: Gen 6:18
+  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
+    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
+    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
+    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
+    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
+    our signs''.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
+    בָנֶ֖יךָ אִתָּֽךְ
+- tradition: islam
+  ref: Quran 21:76
+  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
+    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
+    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
+    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
+    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
+    our signs''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ
+    ٱلْعَظِيمِ
+- tradition: islam
+  ref: Quran 21:77
+  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
+    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
+    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
+    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
+    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
+    our signs''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍ
+    فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
 - tradition: judaism
   ref: Gen 7:21
   note: All others perish
@@ -59,33 +108,37 @@ passages:
   text: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ
     ٱلْعَظِيمِ
 evidence:
-- text: 'Shared motifs, rarest first: All others perish (weight 5.0); Hero''s family saved with him (weight
-    4.5). Pair score 9.5.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    divergence. Gen: Noah never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq
+    ləpānay) and tells him to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm).
+    Q: Noah calls out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ...
+    fa-aghraqnāhum ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people
+    who denied our signs''.'
   basis: reading
-- text: 'Only in The Flood (full read): Animals taken aboard in pairs; Divine blessing: be fruitful, multiply,
-    fill the earth; Birds released to find dry land; Hero builds a vessel on divine instruction; Clean
-    animals taken aboard by sevens, unclean by pairs; Deity or gods smell the offering; Deity decides
-    to destroy humankind; Every inclination (yetser) of the human heart is only evil; Flood events given
-    exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days and forty
-    nights; God regrets having made humankind and is grieved in his heart; God himself shuts the vessel''s
-    door behind the hero; Hero singled out as righteous or pious; Hero privately warned of the coming
-    flood by a deity; A dove returns with an olive leaf in its beak; Deity resolves or promises not to
-    repeat the destruction; A raven is sent out and does not return (goes to and fro); Destruction motivated
-    by human wickedness or violence; Hero offers sacrifice after leaving the vessel; God guarantees seedtime
-    and harvest, cold and heat, day and night will not cease; Seven days pass between the warning or boarding
-    and the onset of the flood; Exact dimensions of the vessel are specified; Vessel has several decks,
-    a side door and a roof opening or window; Vessel comes to rest on a named mountain; Vessel sealed
-    with pitch or bitumen; Waters rise above the highest mountains (fifteen cubits); Waters pour both
-    from the sky and from springs of the earth; God sends a wind (ruah) over the earth to make the waters
-    subside.'
+- text: 'Shared motifs, rarest first: Hero asks the deity to judge or destroy his opponents [divergence
+    between the texts] (weight 6.3); All others perish (weight 5.0); Hero''s family saved with him (weight
+    4.5). Pair score 15.8.'
+  basis: reading
+- text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
+    events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
+    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
+    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
+    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
+    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
+    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
+    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
+    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 43 more.'
   basis: reading
 - text: 'Only in Noah answered; David and Solomon''s judgment, the praising mountains, mail and wind:
-    God taught David the craft of making coats of mail; Devils (shayāṭīn) and jinn labor for Solomon,
-    diving and building; The people see that divine wisdom is in the king to do justice; Liability for
-    one''s grazing animals or spreading fire damaging another''s field; Hero asks the deity to judge or
-    destroy his opponents; Mountains and birds are made to glorify God together with David; David and
-    Solomon judge a case of sheep that strayed by night into a field; Solomon is given the right understanding;
-    The stormy wind is subjected to Solomon, blowing at his command.'
+    David and Solomon judge a case of sheep that strayed by night into a field; Solomon is given the right
+    understanding; God taught David the craft of making coats of mail [contrast between the texts]; The
+    people see that divine wisdom is in the king to do justice; The people see that divine wisdom is in
+    the king to do justice [divergence between the texts]; Liability for one''s grazing animals or spreading
+    fire damaging another''s field; Mountains and birds are made to glorify God together with David [divergence
+    between the texts]; God taught David the craft of making coats of mail; The stormy wind is subjected
+    to Solomon, blowing at his command; Mountains and birds are made to glorify God together with David;
+    Devils (shayāṭīn) and jinn labor for Solomon, diving and building; Hero asks the deity to judge or
+    destroy his opponents.'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading

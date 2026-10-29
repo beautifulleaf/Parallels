@@ -46,27 +46,29 @@ evidence:
 - text: 'Shared motifs, rarest first: A place recognized as the house of God and gate of heaven (weight
     6.7). Pair score 6.7.'
   basis: reading
-- text: 'Only in Jacob''s dream at Bethel: All families of the earth will be blessed through the patriarch;
-    A standing stone (matsevah) set up and anointed with oil; Hero vows that if God protects and provides
-    for him, he will worship and tithe; God promises to be with the traveler and bring him back; Dream
-    of a ladder or stairway reaching heaven with angels ascending and descending; Luz renamed Bethel,
-    ''house of God''; God promises the land to the patriarch''s descendants; Descendants promised to be
-    as countless as the dust, stars or sand; Hero sleeps with a stone under his head at a holy place;
-    A tenth of everything given to a priest.'
+- text: 'Only in Jacob''s dream at Bethel: God promises to be with the traveler and bring him back; Hero
+    sleeps with a stone under his head at a holy place; The angels and the Spirit (al-ruh) ascend to God
+    by stairways (ma''arij); God is ''Lord of the ascending ways''; A standing stone (matsevah) set up
+    and anointed with oil; Hero vows that if God protects and provides for him, he will worship and tithe;
+    Hero vows that if God protects and provides for him, he will worship and tithe [divergence between
+    the texts]; Dream of a ladder or stairway reaching heaven with angels ascending and descending; A
+    ladder (sullam / sullām) reaching from earth to heaven; A ladder (sullam / sullām) reaching from earth
+    to heaven [divergence between the texts]; A tenth of everything given to a priest; Luz renamed Bethel,
+    ''house of God''; All families of the earth will be blessed through the patriarch; and 2 more.'
   basis: reading
-- text: 'Only in Abraham, the Ancient House and the rites of pilgrimage and sacrifice: God settled Abraham
+- text: 'Only in Abraham, the Ancient House and the rites of pilgrimage and sacrifice: Abraham is told
+    to proclaim the pilgrimage; people come on foot and on lean camels from every deep ravine; Pilgrims
+    finish their grooming, fulfill vows and circle the Ancient House (al-bayt al-ʿatīq); Neither the flesh
+    nor the blood of sacrifices reaches God, only the piety of the offerer; Simile: the polytheist is
+    like one who falls from the sky and is snatched by birds or flung far by the wind; The Sacred Mosque
+    is appointed for all people alike, the resident and the visitor from the desert; Sacrificial camels
+    (budn) are slaughtered standing in ranks; when their sides fall, eat of them; God settled Abraham
     at the site of the House and told him to purify it for those who circle, stand, bow and prostrate;
-    Abraham is told to proclaim the pilgrimage; people come on foot and on lean camels from every deep
-    ravine; Pilgrims finish their grooming, fulfill vows and circle the Ancient House (al-bayt al-ʿatīq);
-    Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; Do not
-    invoke the names of other gods; Eat of the sacrificial animals and feed the wretched poor and the
-    needy; God appointed for every community a rite of sacrifice (mansak); God does not need sacrifices:
-    ''If I were hungry I would not tell you... Do I eat the flesh of bulls or drink the blood of goats?'';
-    Neither the flesh nor the blood of sacrifices reaches God, only the piety of the offerer; Simile:
-    the polytheist is like one who falls from the sky and is snatched by birds or flung far by the wind;
-    The Sacred Mosque is appointed for all people alike, the resident and the visitor from the desert;
-    Sacrificial camels (budn) are slaughtered standing in ranks; when their sides fall, eat of them; Three
-    annual pilgrimage festivals when every male appears before God.'
+    Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; Eat
+    of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
+    a rite of sacrifice (mansak); What is done with the blood of sacrifices, and whether it reaches God
+    [divergence between the texts]; Who chose or founded the single sanctuary of sacrifice, and when [divergence
+    between the texts]; and 6 more.'
   basis: reading
 - text: 'Jacob''s dream at Bethel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

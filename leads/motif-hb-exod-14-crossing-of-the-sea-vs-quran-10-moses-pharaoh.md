@@ -1,12 +1,15 @@
 ---
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-10-moses-pharaoh
 title: The pursuit and the parting of the sea ↔ Moses, the houses as qibla, and Pharaoh's drowning faith
-summary: 'These two units share 2 motifs: the returning waters drown the pursuing army; not one survives,
-  the king''s heart is hardened (by himself or by god) so he refuses to release the people.'
+summary: 'These two units share 5 motifs: pharaoh acknowledges israel''s god or his own sin, and what
+  follows, why pharaoh pursues the departing israelites, what becomes of the drowned pharaoh and his army
+  after the sea [divergence between the texts], the king''s heart is hardened (by himself or by god) so
+  he refuses to release the people….'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -14,31 +17,74 @@ traditions:
 layers:
 - motif
 motifs:
-- pursuers-drowned-in-sea
+- pharaohs-confession-of-god
+- motive-for-pharaohs-pursuit
+- drowned-pharaoh-and-his-army-seen-as-divergence
 - hardening-of-pharaohs-heart
+- pursuers-drowned-in-sea
 passages:
 - tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
+  ref: Exod 14:25
+  note: 'Pharaoh acknowledges Israel''s God or his own sin, and what follows (At the sea the pursuers
+    recognise Israel''s God: wayyōʾmer miṣrayim ʾānûsāh mippᵉnê yiśrāʾēl kî YHWH nilḥām lāhem vs Pharaoh''s
+    āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīl. Exod gives it to the Egyptians as a group,
+    Q to Pharaoh alone. cf. Pirqe de-R. Eliezer 43 and Mekhilta (Pharaoh survives and repents), outside
+    the canon.)'
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
+  text: וַיָּ֗סַר אֵ֚ת אֹפַ֣ן מַרְכְּבֹתָ֔יו וַֽיְנַהֲגֵ֖הוּ בִּכְבֵדֻ֑ת וַיֹּ֣אמֶר מִצְרַ֗יִם אָנ֨וּסָה֙
+    מִפְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֣י יְהוָ֔ה נִלְחָ֥ם לָהֶ֖ם בְּמִצְרָֽיִם
 - tradition: islam
   ref: Quran 10:90
-  note: The returning waters drown the pursuing army; not one survives
+  note: 'Pharaoh acknowledges Israel''s God or his own sin, and what follows (At the sea the pursuers
+    recognise Israel''s God: wayyōʾmer miṣrayim ʾānûsāh mippᵉnê yiśrāʾēl kî YHWH nilḥām lāhem vs Pharaoh''s
+    āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīl. Exod gives it to the Egyptians as a group,
+    Q to Pharaoh alone. cf. Pirqe de-R. Eliezer 43 and Mekhilta (Pharaoh survives and repents), outside
+    the canon.)'
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا
     حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ
     بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
+- tradition: judaism
+  ref: Exod 14:5
+  note: 'Why Pharaoh pursues the departing Israelites (Why Pharaoh pursues: in Exod regret at losing the
+    slave labour (mah-zōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû); in Q aggression and enmity (fa-atbaʿahum
+    firʿawnu wa-junūduhu baghyan wa-ʿadwan).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֻּגַּד֙ לְמֶ֣לֶךְ מִצְרַ֔יִם כִּ֥י בָרַ֖ח הָעָ֑ם וַ֠יֵּהָפֵךְ לְבַ֨ב פַּרְעֹ֤ה וַעֲבָדָיו֙
+    אֶל הָעָ֔ם וַיֹּֽאמרוּ֙ מַה זֹּ֣את עָשִׂ֔ינוּ כִּֽי שִׁלַּ֥חְנוּ אֶת יִשְׂרָאֵ֖ל מֵעָבְדֵֽנוּ
+- tradition: islam
+  ref: Quran 10:90
+  note: 'Why Pharaoh pursues the departing Israelites (Why Pharaoh pursues: in Exod regret at losing the
+    slave labour (mah-zōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû); in Q aggression and enmity (fa-atbaʿahum
+    firʿawnu wa-junūduhu baghyan wa-ʿadwan).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا
+    حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ
+    بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
+- tradition: judaism
+  ref: Exod 14:30
+  note: 'What becomes of the drowned Pharaoh and his army after the sea [divergence between the texts]
+    (The drowned are seen as a sign afterwards: fa-l-yawma nunajjīka bi-badanika li-takūna li-man khalfaka
+    āyatan vs wayyarʾ yiśrāʾēl ʾet-miṣrayim mēt ʿal-śᵉpat hayyām. Exod shows the Egyptian dead on the
+    shore to Israel then; Q singles out Pharaoh''s body, saved from the sea as a sign for later generations.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיּ֨וֹשַׁע יְהוָ֜ה בַּיּ֥וֹם הַה֛וּא אֶת יִשְׂרָאֵ֖ל מִיַּ֣ד מִצְרָ֑יִם וַיַּ֤רְא יִשְׂרָאֵל֙
+    אֶת מִצְרַ֔יִם מֵ֖ת עַל שְׂפַ֥ת הַיָּֽם
+- tradition: islam
+  ref: Quran 10:92
+  note: 'What becomes of the drowned Pharaoh and his army after the sea [divergence between the texts]
+    (The drowned are seen as a sign afterwards: fa-l-yawma nunajjīka bi-badanika li-takūna li-man khalfaka
+    āyatan vs wayyarʾ yiśrāʾēl ʾet-miṣrayim mēt ʿal-śᵉpat hayyām. Exod shows the Egyptian dead on the
+    shore to Israel then; Q singles out Pharaoh''s body, saved from the sea as a sign for later generations.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ
+    عَنْ ءَايَٰتِنَا لَغَٰفِلُونَ
 - tradition: judaism
   ref: Exod 14:4
   note: The king's heart is hardened (by himself or by God) so he refuses to release the people
@@ -62,33 +108,71 @@ passages:
   text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
     ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
     قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+- tradition: judaism
+  ref: Exod 14:26
+  note: The returning waters drown the pursuing army; not one survives ('not one remained')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
+    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
+- tradition: judaism
+  ref: Exod 14:27
+  note: The returning waters drown the pursuing army; not one survives ('not one remained')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
+    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
+- tradition: islam
+  ref: Quran 10:90
+  note: The returning waters drown the pursuing army; not one survives
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا
+    حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ
+    بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
 evidence:
-- text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
-    4.6); The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight
-    4.6). Pair score 9.2.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    divergence, echo, parallel. At the sea the pursuers recognise Israel''s God: wayyōʾmer miṣrayim ʾānûsāh
+    mippᵉnê yiśrāʾēl kî YHWH nilḥām lāhem vs Pharaoh''s āmantu annahu lā ilāha illā lladhī āmanat bihi
+    banū isrāʾīl. Exod gives it to the Egyptians as a group, Q to Pharaoh alone. cf. Pirqe de-R. Eliezer
+    43 and Mekhilta (Pharaoh survives and repents), outside the canon. Why Pharaoh pursues: in Exod regret
+    at losing the slave labour (mah-zōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû); in Q aggression and
+    enmity (fa-atbaʿahum firʿawnu wa-junūduhu baghyan wa-ʿadwan). wa-jāwaznā bi-banī isrāʾīla l-baḥra
+    fa-atbaʿahum firʿawnu ... ḥattā idhā adrakahu l-gharaq vs wayyāšūbû hammayim wayᵉkassû ʾet-hārekeb
+    ... lᵉkōl ḥêl parʿōh. The drowned are seen as a sign afterwards: fa-l-yawma nunajjīka bi-badanika
+    li-takūna li-man khalfaka āyatan vs wayyarʾ yiśrāʾēl ʾet-miṣrayim mēt ʿal-śᵉpat hayyām. Exod shows
+    the Egyptian dead on the shore to Israel then; Q singles out Pharaoh''s body, saved from the sea as
+    a sign for later generations.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Pharaoh acknowledges Israel''s God or his own sin, and what follows
+    (weight 6.7); Why Pharaoh pursues the departing Israelites (weight 6.7); What becomes of the drowned
+    Pharaoh and his army after the sea [divergence between the texts] (weight 6.7); The king''s heart
+    is hardened (by himself or by God) so he refuses to release the people (weight 4.6); The returning
+    waters drown the pursuing army; not one survives (weight 4.5). Pair score 29.2.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
     Migdol and Pi-hahiroth; God removes or clogs the wheels of the pursuers'' chariots; The rescued people
     see the enemy dead on the seashore; At the morning watch God looks down from the pillar of fire and
     cloud and panics the enemy; God sets a trap so the enemy pursues and is destroyed, gaining glory over
-    him; King regrets releasing the slaves and pursues them with chariots; After the deliverance the people
-    believe in God and in Moses his servant; The people say it would be better to serve their oppressors
-    than die in the wilderness; Prophet stretches his staff over the sea and God splits it with a strong
-    east wind; ''Stand still and see the salvation of YHWH; YHWH will fight for you''; The people walk
-    on dry ground through the sea with the waters as a wall on either side; God tells the praying leader:
-    ''Why do you cry to me? Tell the people to go forward''.'
+    him; After the deliverance the people believe in God and in Moses his servant; The people say it would
+    be better to serve their oppressors than die in the wilderness; God tells the praying leader: ''Why
+    do you cry to me? Tell the people to go forward''; Who or what parts the sea [divergence between the
+    texts]; Israel''s belief or disbelief in Moses after the sea [divergence between the texts]; The king
+    musters his whole force to pursue the departing people; and 16 more.'
   basis: reading
-- text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Unbelievers defend their practice
-    as what they found their fathers doing; Prophet''s wonders are imitated by the king''s magicians in
-    a contest; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
-    of prayer); Threatened believers say ''to our Lord we return'' and pray for patience and to die as
-    muslims; The meek / those who wait for YHWH / the righteous and their seed shall inherit the land
-    (yirshu arets); Only some youths (dhurriyya) of Moses'' people believed him, fearing Pharaoh; As he
-    drowns Pharaoh declares faith in the God of the Israelites, too late; The king confesses he has sinned
-    and that God is righteous; Pharaoh''s body is saved from the sea to be a sign for those after him;
-    Opponents call the prophet or his message ''manifest sorcery''; Moses prays God to obliterate Pharaoh''s
-    wealth and harden their hearts so they do not believe until they see punishment.'
+- text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Only some youths (dhurriyya)
+    of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
+    the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
+    Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
+    they see punishment; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
+    of prayer); God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
+    between the texts]; Threatened believers say ''to our Lord we return'' and pray for patience and to
+    die as muslims; Pharaoh acknowledges Israel''s God or his own sin, and what follows [divergence between
+    the texts]; Who throws the staff before Pharaoh and what it becomes; How Moses'' own people in Egypt
+    respond to his message [divergence between the texts]; The king confesses he has sinned and that God
+    is righteous; Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves;
+    and 6 more.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

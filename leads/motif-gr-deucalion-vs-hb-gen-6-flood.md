@@ -2,8 +2,8 @@
 id: motif-gr-deucalion-vs-hb-gen-6-flood
 title: Deucalion and Pyrrha (Ovid, Apollodorus) ↔ The Flood (full read)
 summary: 'These two units share 8 motifs: destruction motivated by human wickedness or violence, hero
-  singled out as righteous or pious, vessel comes to rest on a named mountain, hero offers sacrifice after
-  leaving the vessel….'
+  offers sacrifice after leaving the vessel, vessel comes to rest on a named mountain, deity decides to
+  destroy humankind….'
 status: new
 relations:
 - transmission
@@ -16,10 +16,10 @@ layers:
 - motif
 motifs:
 - reason-human-wickedness
-- hero-righteous
-- vessel-rests-on-mountain
 - sacrifice-after-flood
+- vessel-rests-on-mountain
 - divine-decision-to-destroy
+- hero-righteous
 - build-vessel-on-instruction
 - hero-warned-by-deity
 - universal-destruction
@@ -43,31 +43,6 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס
 - tradition: greco-roman
-  ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
-  note: Hero singled out as righteous or pious
-- tradition: judaism
-  ref: Gen 6:8
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Gen 6:9
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
-    הִֽתְהַלֶּךְ נֹֽחַ
-- tradition: greco-roman
-  ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
-  note: Vessel comes to rest on a named mountain (Parnassus)
-- tradition: judaism
-  ref: Gen 8:4
-  note: Vessel comes to rest on a named mountain (mountains of Ararat, 7th month 17th day)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט
-- tradition: greco-roman
   ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Apollodorus 1.7.2'
   note: Hero offers sacrifice after leaving the vessel
 - tradition: judaism
@@ -77,6 +52,15 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף
     הַטָּהֹ֔ר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ
+- tradition: greco-roman
+  ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
+  note: Vessel comes to rest on a named mountain (Parnassus)
+- tradition: judaism
+  ref: Gen 8:4
+  note: Vessel comes to rest on a named mountain (mountains of Ararat, 7th month 17th day)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט
 - tradition: greco-roman
   ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
   note: Deity decides to destroy humankind
@@ -94,6 +78,22 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
     מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+- tradition: greco-roman
+  ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
+  note: Hero singled out as righteous or pious
+- tradition: judaism
+  ref: Gen 6:8
+  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
+- tradition: judaism
+  ref: Gen 6:9
+  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
+    הִֽתְהַלֶּךְ נֹֽחַ
 - tradition: greco-roman
   ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Apollodorus 1.7.2'
   note: Hero builds a vessel on divine instruction (a chest (larnax))
@@ -120,6 +120,13 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
     מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+- tradition: judaism
+  ref: Gen 6:17
+  note: Hero privately warned of the coming flood by a deity
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+    בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
 - tradition: greco-roman
   ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
   note: All others perish
@@ -138,10 +145,10 @@ passages:
   text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
 evidence:
 - text: 'Shared motifs, rarest first: Destruction motivated by human wickedness or violence (weight 6.0);
-    Hero singled out as righteous or pious (weight 5.6); Vessel comes to rest on a named mountain (weight
-    5.4); Hero offers sacrifice after leaving the vessel (weight 5.4); Deity decides to destroy humankind
+    Hero offers sacrifice after leaving the vessel (weight 5.4); Vessel comes to rest on a named mountain
+    (weight 5.4); Deity decides to destroy humankind (weight 5.3); Hero singled out as righteous or pious
     (weight 5.3); Hero builds a vessel on divine instruction (weight 5.2); Hero privately warned of the
-    coming flood by a deity (weight 5.1); All others perish (weight 5.0). Pair score 43.0.'
+    coming flood by a deity (weight 5.1); All others perish (weight 5.0). Pair score 42.7.'
   basis: reading
 - text: 'Deucalion and Pyrrha (Ovid, Apollodorus): tagged by Claude (model), from secondary knowledge.'
   basis: scholarship

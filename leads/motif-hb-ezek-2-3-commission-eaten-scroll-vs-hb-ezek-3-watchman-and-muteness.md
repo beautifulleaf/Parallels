@@ -2,9 +2,9 @@
 id: motif-hb-ezek-2-3-commission-eaten-scroll-vs-hb-ezek-3-watchman-and-muteness
 title: Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey
   ↔ Ezekiel appointed watchman; bound and struck dumb in his house
-summary: 'These two units share 5 motifs: israel called ''a rebellious house'' (beit meri), the prophet
-  must speak ''whether they hear or refuse'', a spirit enters the prophet and sets him on his feet, ''the
-  hand of yhwh was upon'' the prophet, bringing a vision or transport….'
+summary: 'These two units share 5 motifs: a spirit enters the prophet and sets him on his feet, israel
+  called ''a rebellious house'' (beit meri), the prophet sees ''the likeness of the glory of yhwh'' as
+  radiant fire enthroned, ''the hand of yhwh was upon'' the prophet, bringing a vision or transport….'
 status: new
 relations:
 - internal
@@ -14,12 +14,26 @@ traditions:
 layers:
 - motif
 motifs:
-- rebellious-house
-- whether-they-hear-or-refuse
 - spirit-enters-and-stands-prophet-up
-- hand-of-the-lord-on-prophet
+- rebellious-house
 - glory-of-the-lord-kavod
+- hand-of-the-lord-on-prophet
+- whether-they-hear-or-refuse
 passages:
+- tradition: judaism
+  ref: Ezek 2:2
+  note: A spirit enters the prophet and sets him on his feet
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתָּ֧בֹא בִ֣י ר֗וּחַ כַּֽאֲשֶׁר֙ דִּבֶּ֣ר אֵלַ֔י וַתַּעֲמִדֵ֖נִי עַל רַגְלָ֑י וָאֶשְׁמַ֕ע אֵ֖ת
+    מִדַּבֵּ֥ר אֵלָֽי
+- tradition: judaism
+  ref: Ezek 3:24
+  note: A spirit enters the prophet and sets him on his feet
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתָּבֹא בִ֣י ר֔וּחַ וַתַּעֲמִדֵ֖נִי עַל רַגְלָ֑י וַיְדַבֵּ֤ר אֹתִי֙ וַיֹּ֣אמֶר אֵלַ֔י בֹּ֥א הִסָּגֵ֖ר
+    בְּת֥וֹךְ בֵּיתֶֽךָ
 - tradition: judaism
   ref: Ezek 2:5-8
   note: Israel called 'a rebellious house' (beit meri)
@@ -49,6 +63,32 @@ passages:
     אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהֹוִ֑ה הַשֹּׁמֵ֤עַ יִשְׁמָע֙ וְהֶחָדֵ֣ל יֶחְדָּ֔ל כִּ֛י בֵּ֥ית מְרִ֖י
     הֵֽמָּה
 - tradition: judaism
+  ref: Ezek 3:12
+  note: The prophet sees 'the likeness of the glory of YHWH' as radiant fire enthroned
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתִּשָּׂאֵ֣נִי ר֔וּחַ וָאֶשְׁמַ֣ע אַחֲרַ֔י ק֖וֹל רַ֣עַשׁ גָּד֑וֹל בָּר֥וּךְ כְּבוֹד יְהוָ֖ה מִמְּקוֹמֽוֹ
+- tradition: judaism
+  ref: Ezek 3:23
+  note: The prophet sees 'the likeness of the glory of YHWH' as radiant fire enthroned
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וָאָקוּם֮ וָאֵצֵ֣א אֶל הַבִּקְעָה֒ וְהִנֵּה שָׁ֤ם כְּבוֹד יְהוָה֙ עֹמֵ֔ד כַּכָּב֕וֹד אֲשֶׁ֥ר רָאִ֖יתִי
+    עַל נְהַר כְּבָ֑ר וָאֶפֹּ֖ל עַל פָּנָֽי
+- tradition: judaism
+  ref: Ezek 3:14
+  note: '''The hand of YHWH was upon'' the prophet, bringing a vision or transport'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְר֥וּחַ נְשָׂאַ֖תְנִי וַתִּקָּחֵ֑נִי וָאֵלֵ֥ךְ מַר֙ בַּחֲמַ֣ת רוּחִ֔י וְיַד יְהוָ֥ה עָלַ֖י חָזָֽקָה
+- tradition: judaism
+  ref: Ezek 3:22
+  note: '''The hand of YHWH was upon'' the prophet, bringing a vision or transport'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתְּהִ֥י עָלַ֛י שָׁ֖ם יַד יְהוָ֑ה וַיֹּ֣אמֶר אֵלַ֗י ק֥וּם צֵא֙ אֶל הַבִּקְעָ֔ה וְשָׁ֖ם אֲדַבֵּ֥ר
+    אוֹתָֽךְ
+- tradition: judaism
   ref: Ezek 2:5
   note: The prophet must speak 'whether they hear or refuse'
   lang: he
@@ -69,51 +109,18 @@ passages:
   text: וּֽבְדַבְּרִ֤י אֽוֹתְךָ֙ אֶפְתַּ֣ח אֶת פִּ֔יךָ וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהֹוִ֑ה
     הַשֹּׁמֵ֤עַ יִשְׁמָע֙ וְהֶחָדֵ֣ל יֶחְדָּ֔ל כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה
 - tradition: judaism
-  ref: Ezek 2:2
-  note: A spirit enters the prophet and sets him on his feet
+  ref: Ezek 3:19
+  note: The prophet must speak 'whether they hear or refuse'
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַתָּ֧בֹא בִ֣י ר֗וּחַ כַּֽאֲשֶׁר֙ דִּבֶּ֣ר אֵלַ֔י וַתַּעֲמִדֵ֖נִי עַל רַגְלָ֑י וָאֶשְׁמַ֕ע אֵ֖ת
-    מִדַּבֵּ֥ר אֵלָֽי
-- tradition: judaism
-  ref: Ezek 3:24
-  note: A spirit enters the prophet and sets him on his feet
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתָּבֹא בִ֣י ר֔וּחַ וַתַּעֲמִדֵ֖נִי עַל רַגְלָ֑י וַיְדַבֵּ֤ר אֹתִי֙ וַיֹּ֣אמֶר אֵלַ֔י בֹּ֥א הִסָּגֵ֖ר
-    בְּת֥וֹךְ בֵּיתֶֽךָ
-- tradition: judaism
-  ref: Ezek 3:14
-  note: '''The hand of YHWH was upon'' the prophet, bringing a vision or transport'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְר֥וּחַ נְשָׂאַ֖תְנִי וַתִּקָּחֵ֑נִי וָאֵלֵ֥ךְ מַר֙ בַּחֲמַ֣ת רוּחִ֔י וְיַד יְהוָ֥ה עָלַ֖י חָזָֽקָה
-- tradition: judaism
-  ref: Ezek 3:22
-  note: '''The hand of YHWH was upon'' the prophet, bringing a vision or transport'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתְּהִ֥י עָלַ֛י שָׁ֖ם יַד יְהוָ֑ה וַיֹּ֣אמֶר אֵלַ֗י ק֥וּם צֵא֙ אֶל הַבִּקְעָ֔ה וְשָׁ֖ם אֲדַבֵּ֥ר
-    אוֹתָֽךְ
-- tradition: judaism
-  ref: Ezek 3:12
-  note: The prophet sees 'the likeness of the glory of YHWH' as radiant fire enthroned
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּשָּׂאֵ֣נִי ר֔וּחַ וָאֶשְׁמַ֣ע אַחֲרַ֔י ק֖וֹל רַ֣עַשׁ גָּד֑וֹל בָּר֥וּךְ כְּבוֹד יְהוָ֖ה מִמְּקוֹמֽוֹ
-- tradition: judaism
-  ref: Ezek 3:23
-  note: The prophet sees 'the likeness of the glory of YHWH' as radiant fire enthroned
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאָקוּם֮ וָאֵצֵ֣א אֶל הַבִּקְעָה֒ וְהִנֵּה שָׁ֤ם כְּבוֹד יְהוָה֙ עֹמֵ֔ד כַּכָּב֕וֹד אֲשֶׁ֥ר רָאִ֖יתִי
-    עַל נְהַר כְּבָ֑ר וָאֶפֹּ֖ל עַל פָּנָֽי
+  text: וְאַתָּה֙ כִּֽי הִזְהַ֣רְתָּ רָשָׁ֔ע וְלֹא שָׁב֙ מֵֽרִשְׁע֔וֹ וּמִדַּרְכּ֖וֹ הָרְשָׁעָ֑ה ה֚וּא
+    בַּעֲוֺנ֣וֹ יָמ֔וּת וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ
 evidence:
-- text: 'Shared motifs, rarest first: Israel called ''a rebellious house'' (beit meri) (weight 6.7); The
-    prophet must speak ''whether they hear or refuse'' (weight 6.7); A spirit enters the prophet and sets
-    him on his feet (weight 6.7); ''The hand of YHWH was upon'' the prophet, bringing a vision or transport
-    (weight 6.3); The prophet sees ''the likeness of the glory of YHWH'' as radiant fire enthroned (weight
-    6.3). Pair score 32.6.'
+- text: 'Shared motifs, rarest first: A spirit enters the prophet and sets him on his feet (weight 6.7);
+    Israel called ''a rebellious house'' (beit meri) (weight 6.7); The prophet sees ''the likeness of
+    the glory of YHWH'' as radiant fire enthroned (weight 6.3); ''The hand of YHWH was upon'' the prophet,
+    bringing a vision or transport (weight 6.3); The prophet must speak ''whether they hear or refuse''
+    (weight 6.3). Pair score 32.2.'
   basis: reading
 - text: 'Only in Ezekiel''s commission as ''son of man'' to the rebellious house; he eats the scroll sweet
     as honey: Heavenly voice cries ''Blessed be the glory of YHWH from his place''; God makes the prophet''s
@@ -121,18 +128,19 @@ evidence:
     the prophet, but Israel will not; A hand is stretched out to the prophet holding a scroll; The prophet
     is made to eat a heavenly scroll; God addresses the prophet as ''son of man'' (ben adam); The prophet
     lives among briers, thorns and scorpions, yet must not fear; The spirit lifts and carries the prophet
-    away; After his vision the prophet sits stunned among the people for seven days; Narrative of a prophet''s
-    commissioning by God; A great rushing sound of the creatures'' wings and the wheels behind the prophet;
-    The eaten scroll tastes sweet as honey in the prophet''s mouth; A scroll written on front and back
-    with laments, mourning and woe.'
+    away; After his vision the prophet sits stunned among the people for seven days; A great rushing sound
+    of the creatures'' wings and the wheels behind the prophet; The eaten scroll tastes sweet as honey
+    in the prophet''s mouth; A scroll written on front and back with laments, mourning and woe; and 5
+    more.'
   basis: reading
 - text: 'Only in Ezekiel appointed watchman; bound and struck dumb in his house: The glory seen by the
-    river appears again to the prophet in a valley/plain; Each person dies for his own sin; God appoints
-    the prophet as a watchman (tsofeh) for the house of Israel; The prophet is told to shut himself in
-    his house; The prophet falls on his face at the sight of the divine glory; God makes the prophet''s
-    tongue cleave to his palate so he is mute except when God speaks; A righteous man who turns to iniquity
-    dies and his former righteousness is not remembered; If the watchman fails to warn the wicked, God
-    requires their blood from him.'
+    river appears again to the prophet in a valley/plain; The prophet is told to shut himself in his house;
+    If the watchman fails to warn the wicked, God requires their blood from him; Muteness imposed as a
+    sign [divergence between the texts]; A righteous man who turns to iniquity dies and his former righteousness
+    is not remembered; God appoints the prophet as a watchman (tsofeh) for the house of Israel; God makes
+    the prophet''s tongue cleave to his palate so he is mute except when God speaks; The prophet is sent
+    as witness, bearer of good tidings and warner; The prophet falls on his face at the sight of the divine
+    glory; Each person dies for his own sin.'
   basis: reading
 - text: 'Ezekiel''s commission as ''son of man'' to the rebellious house; he eats the scroll sweet as
     honey: tagged by Claude (model), reading the Hebrew.'

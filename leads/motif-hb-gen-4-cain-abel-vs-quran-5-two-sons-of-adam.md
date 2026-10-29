@@ -1,12 +1,13 @@
 ---
 id: motif-hb-gen-4-cain-abel-vs-quran-5-two-sons-of-adam
 title: Cain and Abel ↔ The two sons of Adam, the raven, and whoever saves one life
-summary: 'These two units share 2 motifs: god accepts one brother''s offering and rejects the other''s,
-  a brother kills his brother in the first murder.'
+summary: 'These two units share 7 motifs: god accepts one brother''s offering and rejects the other''s
+  [divergence between the texts], what the earth does with the murdered brother: takes in his blood, or
+  hides his corpse [divergence between the texts], a brother kills his brother in the first murder [divergence
+  between the texts], the first murderer''s lament after the deed [divergence between the texts]….'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -14,9 +15,143 @@ traditions:
 layers:
 - motif
 motifs:
+- offering-accepted-rejected-as-divergence
+- earth-and-the-slain-brother-as-divergence
+- first-murder-fratricide-as-divergence
+- murderers-lament-as-divergence
 - offering-accepted-rejected
+- warning-before-the-first-murder-as-divergence
 - first-murder-fratricide
 passages:
+- tradition: judaism
+  ref: Gen 4:3
+  note: 'God accepts one brother''s offering and rejects the other''s [divergence between the texts] (Gen
+    names Qayin and Hevel, specifies the gifts (pərî hā-ʾădāmāh against bəkhōrôt ṣōʾnô û-mē-ḥelvēhen),
+    and gives no reason for God''s choice (wa-yyišaʿ ... lōʾ šāʿāh). Q: the brothers are unnamed (ibnay
+    Ādama), the gifts unspecified (qarrabā qurbānan), and the reason is spoken by the victim: innamā yataqabbalu
+    llāhu mina l-muttaqīna.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַֽיְהִ֖י מִקֵּ֣ץ יָמִ֑ים וַיָּבֵ֨א קַ֜יִן מִפְּרִ֧י הָֽאֲדָמָ֛ה מִנְחָ֖ה לַֽיהוָֽה
+- tradition: judaism
+  ref: Gen 4:4
+  note: 'God accepts one brother''s offering and rejects the other''s [divergence between the texts] (Gen
+    names Qayin and Hevel, specifies the gifts (pərî hā-ʾădāmāh against bəkhōrôt ṣōʾnô û-mē-ḥelvēhen),
+    and gives no reason for God''s choice (wa-yyišaʿ ... lōʾ šāʿāh). Q: the brothers are unnamed (ibnay
+    Ādama), the gifts unspecified (qarrabā qurbānan), and the reason is spoken by the victim: innamā yataqabbalu
+    llāhu mina l-muttaqīna.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהֶ֨בֶל הֵבִ֥יא גַם ה֛וּא מִבְּכֹר֥וֹת צֹאנ֖וֹ וּמֵֽחֶלְבֵהֶ֑ן וַיִּ֣שַׁע יְהוָ֔ה אֶל הֶ֖בֶל
+    וְאֶל מִנְחָתֽוֹ
+- tradition: islam
+  ref: Quran 5:27
+  note: 'God accepts one brother''s offering and rejects the other''s [divergence between the texts] (Gen
+    names Qayin and Hevel, specifies the gifts (pərî hā-ʾădāmāh against bəkhōrôt ṣōʾnô û-mē-ḥelvēhen),
+    and gives no reason for God''s choice (wa-yyišaʿ ... lōʾ šāʿāh). Q: the brothers are unnamed (ibnay
+    Ādama), the gifts unspecified (qarrabā qurbānan), and the reason is spoken by the victim: innamā yataqabbalu
+    llāhu mina l-muttaqīna.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ
+    أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ
+    مِنَ ٱلْمُتَّقِينَ
+- tradition: judaism
+  ref: Gen 4:10
+  note: 'What the earth does with the murdered brother: takes in his blood, or hides his corpse [divergence
+    between the texts] (What the earth does differs. Gen: the ground opens its mouth to take the blood,
+    and the blood cries out (qôl dəmê ʾāḥîkhā ṣōʿăqîm ʾēlay min-hā-ʾădāmāh ... ʾăšer pāṣətāh ʾet-pîhā),
+    so the crime is exposed. Q: God sends a raven digging in the earth (ghurāban yabḥathu fī l-arḍi) to
+    show how to hide (yuwārī) the brother''s corpse (sawʾata akhīhi). Gen has no burial; Q has no interrogation
+    (''ê Hevel), curse, wandering or mark. cf. (not a match) Pirqe de-Rabbi Eliezer 21 (raven and burial).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָ ק֚וֹל דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י מִן הָֽאֲדָמָֽה
+- tradition: judaism
+  ref: Gen 4:11
+  note: 'What the earth does with the murdered brother: takes in his blood, or hides his corpse [divergence
+    between the texts] (What the earth does differs. Gen: the ground opens its mouth to take the blood,
+    and the blood cries out (qôl dəmê ʾāḥîkhā ṣōʿăqîm ʾēlay min-hā-ʾădāmāh ... ʾăšer pāṣətāh ʾet-pîhā),
+    so the crime is exposed. Q: God sends a raven digging in the earth (ghurāban yabḥathu fī l-arḍi) to
+    show how to hide (yuwārī) the brother''s corpse (sawʾata akhīhi). Gen has no burial; Q has no interrogation
+    (''ê Hevel), curse, wandering or mark. cf. (not a match) Pirqe de-Rabbi Eliezer 21 (raven and burial).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְעַתָּ֖ה אָר֣וּר אָ֑תָּה מִן הָֽאֲדָמָה֙ אֲשֶׁ֣ר פָּצְתָ֣ה אֶת פִּ֔יהָ לָקַ֛חַת אֶת דְּמֵ֥י אָחִ֖יךָ
+    מִיָּדֶֽךָ
+- tradition: islam
+  ref: Quran 5:31
+  note: 'What the earth does with the murdered brother: takes in his blood, or hides his corpse [divergence
+    between the texts] (What the earth does differs. Gen: the ground opens its mouth to take the blood,
+    and the blood cries out (qôl dəmê ʾāḥîkhā ṣōʿăqîm ʾēlay min-hā-ʾădāmāh ... ʾăšer pāṣətāh ʾet-pîhā),
+    so the crime is exposed. Q: God sends a raven digging in the earth (ghurāban yabḥathu fī l-arḍi) to
+    show how to hide (yuwārī) the brother''s corpse (sawʾata akhīhi). Gen has no burial; Q has no interrogation
+    (''ê Hevel), curse, wandering or mark. cf. (not a match) Pirqe de-Rabbi Eliezer 21 (raven and burial).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ
+    قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ
+    مِنَ ٱلنَّٰدِمِينَ
+- tradition: judaism
+  ref: Gen 4:8
+  note: 'A brother kills his brother in the first murder [divergence between the texts] (MT: wa-yyōʾmer
+    Qayin ʾel-Hevel ʾāḥîw, with the speech missing, then wa-yyāqom ... wa-yyahargēhû. Q supplies the dialogue:
+    qāla la-aqtulannaka, and Abel''s reply. Then fa-qatalahu fa-aṣbaḥa mina l-khāsirīna. cf. (not a match)
+    Targum Neofiti and Pseudo-Jonathan Gen 4:8, which also supply a dispute in the field.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֥אמֶר קַ֖יִן אֶל הֶ֣בֶל אָחִ֑יו וַֽיְהִי֙ בִּהְיוֹתָ֣ם בַּשָּׂדֶ֔ה וַיָּ֥קָם קַ֛יִן אֶל הֶ֥בֶל
+    אָחִ֖יו וַיַּהַרְגֵֽהוּ
+- tradition: islam
+  ref: Quran 5:27
+  note: 'A brother kills his brother in the first murder [divergence between the texts] (MT: wa-yyōʾmer
+    Qayin ʾel-Hevel ʾāḥîw, with the speech missing, then wa-yyāqom ... wa-yyahargēhû. Q supplies the dialogue:
+    qāla la-aqtulannaka, and Abel''s reply. Then fa-qatalahu fa-aṣbaḥa mina l-khāsirīna. cf. (not a match)
+    Targum Neofiti and Pseudo-Jonathan Gen 4:8, which also supply a dispute in the field.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ
+    أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ
+    مِنَ ٱلْمُتَّقِينَ
+- tradition: islam
+  ref: Quran 5:30
+  note: 'A brother kills his brother in the first murder [divergence between the texts] (MT: wa-yyōʾmer
+    Qayin ʾel-Hevel ʾāḥîw, with the speech missing, then wa-yyāqom ... wa-yyahargēhû. Q supplies the dialogue:
+    qāla la-aqtulannaka, and Abel''s reply. Then fa-qatalahu fa-aṣbaḥa mina l-khāsirīna. cf. (not a match)
+    Targum Neofiti and Pseudo-Jonathan Gen 4:8, which also supply a dispute in the field.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ
+- tradition: judaism
+  ref: Gen 4:13
+  note: 'The first murderer''s lament after the deed [divergence between the texts] (The murderer''s lament.
+    Gen: gādôl ʿăwōnî minnəśōʾ ... nāʿ wā-nād, a complaint about the punishment. Q: yā waylatā aʿajaztu
+    an akūna mithla hādhā l-ghurābi fa-uwāriya sawʾata akhī fa-aṣbaḥa mina l-nādimīna, shame at being
+    outdone by a raven, and remorse. Q has no punishment on earth; it ends in remorse.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֥אמֶר קַ֖יִן אֶל יְהוָ֑ה גָּד֥וֹל עֲוֺנִ֖י מִנְּשֹֽׂא
+- tradition: judaism
+  ref: Gen 4:14
+  note: 'The first murderer''s lament after the deed [divergence between the texts] (The murderer''s lament.
+    Gen: gādôl ʿăwōnî minnəśōʾ ... nāʿ wā-nād, a complaint about the punishment. Q: yā waylatā aʿajaztu
+    an akūna mithla hādhā l-ghurābi fa-uwāriya sawʾata akhī fa-aṣbaḥa mina l-nādimīna, shame at being
+    outdone by a raven, and remorse. Q has no punishment on earth; it ends in remorse.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הֵן֩ גֵּרַ֨שְׁתָּ אֹתִ֜י הַיּ֗וֹם מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה וּמִפָּנֶ֖יךָ אֶסָּתֵ֑ר וְהָיִ֜יתִי
+    נָ֤ע וָנָד֙ בָּאָ֔רֶץ וְהָיָ֥ה כָל מֹצְאִ֖י יַֽהַרְגֵֽנִי
+- tradition: islam
+  ref: Quran 5:31
+  note: 'The first murderer''s lament after the deed [divergence between the texts] (The murderer''s lament.
+    Gen: gādôl ʿăwōnî minnəśōʾ ... nāʿ wā-nād, a complaint about the punishment. Q: yā waylatā aʿajaztu
+    an akūna mithla hādhā l-ghurābi fa-uwāriya sawʾata akhī fa-aṣbaḥa mina l-nādimīna, shame at being
+    outdone by a raven, and remorse. Q has no punishment on earth; it ends in remorse.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ
+    قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ
+    مِنَ ٱلنَّٰدِمِينَ
 - tradition: judaism
   ref: Gen 4:3
   note: God accepts one brother's offering and rejects the other's
@@ -39,6 +174,49 @@ passages:
     أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ
     مِنَ ٱلْمُتَّقِينَ
 - tradition: judaism
+  ref: Gen 4:6
+  note: 'Before the first murder the killer is warned (by God or by the victim) [divergence between the
+    texts] (A change of speaker. In Gen, God warns Cain before the murder: lāmmāh ḥārāh lākh ... lap-petaḥ
+    ḥaṭṭāʾt rōvēṣ wə-ʾēlêkhā təšûqātô wə-ʾattāh timšol-bô. In Q God is silent and the victim gives the
+    warning: laʾin basaṭta ilayya yadaka ... mā ana bi-bāsiṭin yadiya ilayka ... innī akhāfu llāha rabba
+    l-ʿālamīna. The crouching desire comes back as fa-ṭawwaʿat lahu nafsuhu qatla akhīhi.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל קָ֑יִן לָ֚מָּה חָ֣רָה לָ֔ךְ וְלָ֖מָּה נָפְל֥וּ פָנֶֽיךָ
+- tradition: judaism
+  ref: Gen 4:7
+  note: 'Before the first murder the killer is warned (by God or by the victim) [divergence between the
+    texts] (A change of speaker. In Gen, God warns Cain before the murder: lāmmāh ḥārāh lākh ... lap-petaḥ
+    ḥaṭṭāʾt rōvēṣ wə-ʾēlêkhā təšûqātô wə-ʾattāh timšol-bô. In Q God is silent and the victim gives the
+    warning: laʾin basaṭta ilayya yadaka ... mā ana bi-bāsiṭin yadiya ilayka ... innī akhāfu llāha rabba
+    l-ʿālamīna. The crouching desire comes back as fa-ṭawwaʿat lahu nafsuhu qatla akhīhi.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הֲל֤וֹא אִם תֵּיטִיב֙ שְׂאֵ֔ת וְאִם֙ לֹ֣א תֵיטִ֔יב לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ וְאֵלֶ֨יךָ֙ תְּשׁ֣וּקָת֔וֹ
+    וְאַתָּ֖ה תִּמְשָׁל בּֽוֹ
+- tradition: islam
+  ref: Quran 5:28
+  note: 'Before the first murder the killer is warned (by God or by the victim) [divergence between the
+    texts] (A change of speaker. In Gen, God warns Cain before the murder: lāmmāh ḥārāh lākh ... lap-petaḥ
+    ḥaṭṭāʾt rōvēṣ wə-ʾēlêkhā təšûqātô wə-ʾattāh timšol-bô. In Q God is silent and the victim gives the
+    warning: laʾin basaṭta ilayya yadaka ... mā ana bi-bāsiṭin yadiya ilayka ... innī akhāfu llāha rabba
+    l-ʿālamīna. The crouching desire comes back as fa-ṭawwaʿat lahu nafsuhu qatla akhīhi.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ
+    إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
+- tradition: islam
+  ref: Quran 5:29
+  note: 'Before the first murder the killer is warned (by God or by the victim) [divergence between the
+    texts] (A change of speaker. In Gen, God warns Cain before the murder: lāmmāh ḥārāh lākh ... lap-petaḥ
+    ḥaṭṭāʾt rōvēṣ wə-ʾēlêkhā təšûqātô wə-ʾattāh timšol-bô. In Q God is silent and the victim gives the
+    warning: laʾin basaṭta ilayya yadaka ... mā ana bi-bāsiṭin yadiya ilayka ... innī akhāfu llāha rabba
+    l-ʿālamīna. The crouching desire comes back as fa-ṭawwaʿat lahu nafsuhu qatla akhīhi.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ وَذَٰلِكَ
+    جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ
+- tradition: judaism
   ref: Gen 4:8
   note: A brother kills his brother in the first murder (speech of Cain to Abel missing in MT ('Cain said
     to Abel ...'))
@@ -53,24 +231,54 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ
 evidence:
-- text: 'Shared motifs, rarest first: God accepts one brother''s offering and rejects the other''s (weight
-    6.7); A brother kills his brother in the first murder (weight 6.3). Pair score 13.0.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    divergence. Gen names Qayin and Hevel, specifies the gifts (pərî hā-ʾădāmāh against bəkhōrôt ṣōʾnô
+    û-mē-ḥelvēhen), and gives no reason for God''s choice (wa-yyišaʿ ... lōʾ šāʿāh). Q: the brothers are
+    unnamed (ibnay Ādama), the gifts unspecified (qarrabā qurbānan), and the reason is spoken by the victim:
+    innamā yataqabbalu llāhu mina l-muttaqīna. A change of speaker. In Gen, God warns Cain before the
+    murder: lāmmāh ḥārāh lākh ... lap-petaḥ ḥaṭṭāʾt rōvēṣ wə-ʾēlêkhā təšûqātô wə-ʾattāh timšol-bô. In
+    Q God is silent and the victim gives the warning: laʾin basaṭta ilayya yadaka ... mā ana bi-bāsiṭin
+    yadiya ilayka ... innī akhāfu llāha rabba l-ʿālamīna. The crouching desire comes back as fa-ṭawwaʿat
+    lahu nafsuhu qatla akhīhi. MT: wa-yyōʾmer Qayin ʾel-Hevel ʾāḥîw, with the speech missing, then wa-yyāqom
+    ... wa-yyahargēhû. Q supplies the dialogue: qāla la-aqtulannaka, and Abel''s reply. Then fa-qatalahu
+    fa-aṣbaḥa mina l-khāsirīna. cf. (not a match) Targum Neofiti and Pseudo-Jonathan Gen 4:8, which also
+    supply a dispute in the field. What the earth does differs. Gen: the ground opens its mouth to take
+    the blood, and the blood cries out (qôl dəmê ʾāḥîkhā ṣōʿăqîm ʾēlay min-hā-ʾădāmāh ... ʾăšer pāṣətāh
+    ʾet-pîhā), so the crime is exposed. Q: God sends a raven digging in the earth (ghurāban yabḥathu fī
+    l-arḍi) to show how to hide (yuwārī) the brother''s corpse (sawʾata akhīhi). Gen has no burial; Q
+    has no interrogation (''ê Hevel), curse, wandering or mark. cf. (not a match) Pirqe de-Rabbi Eliezer
+    21 (raven and burial). The murderer''s lament. Gen: gādôl ʿăwōnî minnəśōʾ ... nāʿ wā-nād, a complaint
+    about the punishment. Q: yā waylatā aʿajaztu an akūna mithla hādhā l-ghurābi fa-uwāriya sawʾata akhī
+    fa-aṣbaḥa mina l-nādimīna, shame at being outdone by a raven, and remorse. Q has no punishment on
+    earth; it ends in remorse.'
   basis: reading
-- text: 'Only in Cain and Abel: Murderer evades God''s question about his brother''s whereabouts; Victim''s
-    blood cries out from the ground to God; The earth opens its mouth to receive spilled blood; Rivalry
-    between a farmer brother and a shepherd brother; Mother names her child with a speech explaining the
-    name; Firstborn animals and their fat offered to God; Exile dwells in the land of Nod east of Eden;
-    God puts a protective sign on a murderer so no one kills him; Murderer condemned to be a restless
-    wanderer, the ground withholding its yield; Vengeance multiplied sevenfold (or seventy-sevenfold);
-    Sin personified as a beast crouching at the door, desiring the man.'
+- text: 'Shared motifs, rarest first: God accepts one brother''s offering and rejects the other''s [divergence
+    between the texts] (weight 6.7); What the earth does with the murdered brother: takes in his blood,
+    or hides his corpse [divergence between the texts] (weight 6.7); A brother kills his brother in the
+    first murder [divergence between the texts] (weight 6.7); The first murderer''s lament after the deed
+    [divergence between the texts] (weight 6.7); God accepts one brother''s offering and rejects the other''s
+    (weight 6.7); Before the first murder the killer is warned (by God or by the victim) [divergence between
+    the texts] (weight 6.7); A brother kills his brother in the first murder (weight 6.3). Pair score
+    46.4.'
   basis: reading
-- text: 'Only in The two sons of Adam, the raven, and whoever saves one life: Whoever sheds human blood,
-    by man shall his blood be shed, because humans bear God''s image; Whoever kills one soul is as if
-    he killed all humanity; whoever saves one, as if he saved all; The victim wishes the murderer to bear
-    both the victim''s sin and his own; No one repents of his evil, saying ''What have I done?''; each
-    rushes on like a horse charging into battle; God sends a raven scratching the earth to show how to
+- text: 'Only in Cain and Abel: Murderer evades God''s question about his brother''s whereabouts; The
+    earth opens its mouth to receive spilled blood; Rivalry between a farmer brother and a shepherd brother;
+    Firstborn animals and their fat offered to God; Exile dwells in the land of Nod east of Eden; God
+    puts a protective sign on a murderer so no one kills him; Murderer condemned to be a restless wanderer,
+    the ground withholding its yield; Sin personified as a beast crouching at the door, desiring the man;
+    Parents'' words to God about the child he gave them [divergence between the texts]; Victim''s blood
+    cries out from the ground to God; On that day the earth will tell its news, because its Lord inspired
+    it; Vengeance multiplied sevenfold (or seventy-sevenfold); and 2 more.'
+  basis: reading
+- text: 'Only in The two sons of Adam, the raven, and whoever saves one life: Whoever kills one soul is
+    as if he killed all humanity; whoever saves one, as if he saved all; The victim wishes the murderer
+    to bear both the victim''s sin and his own; God sends a raven scratching the earth to show how to
     hide a brother''s corpse; The threatened brother refuses to raise his hand to kill in return, out
-    of fear of God.'
+    of fear of God; Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s
+    image [divergence between the texts]; No one repents of his evil, saying ''What have I done?''; each
+    rushes on like a horse charging into battle; No one repents of his evil, saying ''What have I done?'';
+    each rushes on like a horse charging into battle [contrast between the texts]; Whoever sheds human
+    blood, by man shall his blood be shed, because humans bear God''s image.'
   basis: reading
 - text: 'Cain and Abel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

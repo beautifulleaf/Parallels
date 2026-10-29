@@ -1,0 +1,109 @@
+---
+id: motif-hb-2kgs-17-samaritan-settlers-vs-quran-6-pagan-offerings-cattle
+title: The resettled peoples, the lions and the syncretistic cult of Samaria ↔ Pagan portions and taboos;
+  eight pairs; what is forbidden to all and to the Jews
+summary: 'These two units share 2 motifs: settlers fear yhwh yet serve their own gods (syncretism), nations
+  burn their sons and daughters in fire to their gods.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- syncretism-fear-god-serve-idols
+- child-sacrifice-by-fire-condemned
+passages:
+- tradition: judaism
+  ref: 2Kgs 17:32
+  note: Settlers fear YHWH yet serve their own gods (syncretism)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּהְי֥וּ יְרֵאִ֖ים אֶת יְהוָ֑ה וַיַּעֲשׂ֨וּ לָהֶ֤ם מִקְצוֹתָם֙ כֹּהֲנֵ֣י בָמ֔וֹת וַיִּהְי֛וּ
+    עֹשִׂ֥ים לָהֶ֖ם בְּבֵ֥ית הַבָּמֽוֹת
+- tradition: judaism
+  ref: 2Kgs 17:33
+  note: Settlers fear YHWH yet serve their own gods (syncretism)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֶת יְהוָ֖ה הָי֣וּ יְרֵאִ֑ים וְאֶת אֱלֹֽהֵיהֶם֙ הָי֣וּ עֹֽבְדִ֔ים כְּמִשְׁפַּט֙ הַגּוֹיִ֔ם אֲשֶׁר
+    הִגְל֥וּ אֹתָ֖ם מִשָּֽׁם
+- tradition: islam
+  ref: Quran 6:136
+  note: 'Settlers fear YHWH yet serve their own gods (syncretism) (Dividing worship between God and other
+    gods. 2Kgs: ʾet-YHWH hāyû yərēʾîm wə-ʾet-ʾĕlōhêhem hāyû ʿōvədîm. Q: wa-jaʿalū li-llāhi mimmā dharaʾa
+    mina l-ḥarthi wa-l-anʿāmi naṣīban fa-qālū hādhā li-llāhi ... wa-hādhā li-shurakāʾinā. Q adds that
+    God''s share ends up going to the partners.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَٰمِ نَصِيبًا فَقَالُوا۟ هَٰذَا لِلَّهِ
+    بِزَعْمِهِمْ وَهَٰذَا لِشُرَكَآئِنَا فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ وَمَا
+    كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ سَآءَ مَا يَحْكُمُونَ
+- tradition: judaism
+  ref: 2Kgs 17:31
+  note: Nations burn their sons and daughters in fire to their gods (Sepharvites to Adrammelech and Anammelech)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהָעַוִּ֛ים עָשׂ֥וּ נִבְחַ֖ז וְאֶת תַּרְתָּ֑ק וְהַסְפַרְוִ֗ים שֹׂרְפִ֤ים אֶת בְּנֵיהֶם֙ בָּאֵ֔שׁ
+    לְאַדְרַמֶּ֥לֶךְ וַֽעֲנַמֶּ֖לֶךְ אלה אֱלֹהֵ֥י ספרים סְפַרְוָֽיִם
+- tradition: islam
+  ref: Quran 6:137
+  note: Nations burn their sons and daughters in fire to their gods (the partners made killing their children
+    seem fair to them)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ
+    وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ
+- tradition: islam
+  ref: Quran 6:140
+  note: Nations burn their sons and daughters in fire to their gods (the partners made killing their children
+    seem fair to them)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ
+    ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    parallel. Dividing worship between God and other gods. 2Kgs: ʾet-YHWH hāyû yərēʾîm wə-ʾet-ʾĕlōhêhem
+    hāyû ʿōvədîm. Q: wa-jaʿalū li-llāhi mimmā dharaʾa mina l-ḥarthi wa-l-anʿāmi naṣīban fa-qālū hādhā
+    li-llāhi ... wa-hādhā li-shurakāʾinā. Q adds that God''s share ends up going to the partners.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Settlers fear YHWH yet serve their own gods (syncretism) (weight
+    6.7); Nations burn their sons and daughters in fire to their gods (weight 5.2). Pair score 11.9.'
+  basis: reading
+- text: 'Only in The resettled peoples, the lions and the syncretistic cult of Samaria: Catalogue of foreign
+    gods brought by settler peoples (Succoth-benoth, Nergal, Ashima, Nibhaz, Tartak, Adrammelech, Anammelech);
+    Each land has a god whose ''manner'' (mishpat) newcomers must learn; God sends lions to kill settlers
+    who do not know the ''law of the god of the land''; Empire settles foreign peoples in the cities of
+    a deported population; A deported priest is sent back to teach the settlers how to fear the local
+    god; Mutual declaration: Israel avows YHWH as God, YHWH avows Israel as his treasured people.'
+  basis: reading
+- text: 'Only in Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews: Pagans
+    set apart cattle whose backs may not be ridden or burdened; Eight in pairs: sheep, goats, camels and
+    cattle, male and female; which did God forbid?; Idolaters say ''had God willed we would not have associated
+    partners nor forbidden anything''; Give its due on the day of harvest; For the Jews God forbade every
+    animal with claws/undivided hoof and the fat of cattle and sheep except on backs, entrails or bone;
+    Do not be wasteful; God does not love the wasteful (musrifīn); Pagans assign a portion of crops and
+    cattle to God and a portion to their partners; Pagans declare certain cattle and crops taboo (ḥijr),
+    to be eaten only by whom they will; Pagans reserve what is in the wombs of cattle for males, forbidden
+    to wives unless stillborn; The camel is unclean because it does not have a split hoof [contrast between
+    the texts]; List of clean and unclean animals: split hoof and chewing cud [response between the texts];
+    The fat tail of the sheep is offered [divergence between the texts]; and 11 more.'
+  basis: reading
+- text: 'The resettled peoples, the lions and the syncretistic cult of Samaria: tagged by Claude (model),
+    reading the Hebrew.'
+  basis: reading
+- text: 'Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews: tagged by Claude
+    (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -1,9 +1,9 @@
 ---
 id: motif-hb-2sam-8-davids-wars-officials-vs-hb-1chr-18-davids-wars-and-officials
 title: David's conquests and list of officials ↔ David's conquests and his officials
-summary: 'These two units share 8 motifs: a battle in the valley of salt, the king does justice and righteousness
-  for all his people, a neighboring king sends his son with precious vessels to congratulate the victor,
-  list of the king''s chief officials: commander, recorder, priests, scribe, guard….'
+summary: 'These two units share 8 motifs: the king does justice and righteousness for all his people,
+  a battle in the valley of salt, a neighboring king sends his son with precious vessels to congratulate
+  the victor, list of the king''s chief officials: commander, recorder, priests, scribe, guard….'
 status: new
 relations:
 - internal
@@ -13,8 +13,8 @@ traditions:
 layers:
 - motif
 motifs:
-- valley-of-salt-battle
 - just-king-does-mishpat-tsedaqah
+- valley-of-salt-battle
 - allied-king-sends-son-with-gifts
 - royal-cabinet-list
 - golden-shields-trophies
@@ -22,6 +22,19 @@ motifs:
 - hamstring-horses-burn-chariots
 - vassals-bring-tribute-minchah
 passages:
+- tradition: judaism
+  ref: 2Sam 8:15
+  note: The king does justice and righteousness for all his people (mishpat u-tsedaqah)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּמְלֹ֥ךְ דָּוִ֖ד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֣י דָוִ֗ד עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל
+    עַמּֽוֹ
+- tradition: judaism
+  ref: 1Chr 18:14
+  note: The king does justice and righteousness for all his people
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּמְלֹ֥ךְ דָּוִ֖יד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֗י עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל עַמּֽוֹ
 - tradition: judaism
   ref: 2Sam 8:13
   note: A battle in the Valley of Salt (18,000; Aram (read Edom?))
@@ -36,19 +49,6 @@ passages:
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: וְאַבְשַׁ֣י בֶּן צְרוּיָ֗ה הִכָּ֤ה אֶת אֱדוֹם֙ בְּגֵ֣יא הַמֶּ֔לַח שְׁמוֹנָ֥ה עָשָׂ֖ר אָֽלֶף
-- tradition: judaism
-  ref: 2Sam 8:15
-  note: The king does justice and righteousness for all his people (mishpat u-tsedaqah)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּמְלֹ֥ךְ דָּוִ֖ד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֣י דָוִ֗ד עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל
-    עַמּֽוֹ
-- tradition: judaism
-  ref: 1Chr 18:14
-  note: The king does justice and righteousness for all his people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּמְלֹ֥ךְ דָּוִ֖יד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֗י עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל עַמּֽוֹ
 - tradition: judaism
   ref: 2Sam 8:9
   note: A neighboring king sends his son with precious vessels to congratulate the victor (Toi of Hamath
@@ -188,8 +188,8 @@ passages:
   text: וַיָּ֤שֶׂם דָּוִיד֙ בַּאֲרַ֣ם דַּרְמֶ֔שֶׂק וַיְהִ֤י אֲרָם֙ לְדָוִ֔יד עֲבָדִ֖ים נֹשְׂאֵ֣י מִנְחָ֑ה
     וַיּ֤וֹשַׁע יְהוָה֙ לְדָוִ֔יד בְּכֹ֖ל אֲשֶׁ֥ר הָלָֽךְ
 evidence:
-- text: 'Shared motifs, rarest first: A battle in the Valley of Salt (weight 6.7); The king does justice
-    and righteousness for all his people (weight 6.7); A neighboring king sends his son with precious
+- text: 'Shared motifs, rarest first: The king does justice and righteousness for all his people (weight
+    6.7); A battle in the Valley of Salt (weight 6.7); A neighboring king sends his son with precious
     vessels to congratulate the victor (weight 6.7); List of the king''s chief officials: commander, recorder,
     priests, scribe, guard (weight 6.3); Shields of beaten gold made or captured and displayed (weight
     6.3); The king dedicates silver and gold from conquered nations to God (weight 6.0); The enemy''s
@@ -200,9 +200,9 @@ evidence:
     a cord to decide who is killed; The Euphrates as the limit of the king''s dominion; The king''s sons
     serve as priests; Obscure term ''Metheg-ammah'' for what David took from the Philistines.'
   basis: reading
-- text: 'Only in David''s conquests and his officials: The Cherethite and Pelethite royal guard; Chronicles
-    differs in a specific detail from its parallel in Samuel–Kings; A king goes to ''set up his hand''
-    (monument) at the Euphrates; Bronze captured in war used for the temple''s sea, pillars and vessels.'
+- text: 'Only in David''s conquests and his officials: The Cherethite and Pelethite royal guard; A king
+    goes to ''set up his hand'' (monument) at the Euphrates; Bronze captured in war used for the temple''s
+    sea, pillars and vessels; Chronicles differs in a specific detail from its parallel in Samuel–Kings.'
   basis: reading
 - text: 'David''s conquests and list of officials: tagged by Claude (model), reading the Hebrew.'
   basis: reading

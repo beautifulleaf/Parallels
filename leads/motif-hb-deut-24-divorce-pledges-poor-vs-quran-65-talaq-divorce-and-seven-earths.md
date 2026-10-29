@@ -1,0 +1,180 @@
+---
+id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-65-talaq-divorce-and-seven-earths
+title: 'Divorce, newlyweds, pledges, wages, gleanings ↔ Al-Talaq: divorce and the waiting period, two
+  witnesses, nursing wages, and the seven heavens and earths'
+summary: 'These two units share 3 motifs: at the end of the term, retain or part with them honorably,
+  and call two just witnesses [divergence between the texts], husband writes a bill of divorcement for
+  ''some indecency'' and sends her away [divergence between the texts], husband writes a bill of divorcement
+  for ''some indecency'' and sends her away.'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- retain-or-part-honorably-with-two-witnesses-as-divergence
+- bill-of-divorce-as-divergence
+- bill-of-divorce
+passages:
+- tradition: judaism
+  ref: Deut 24:4
+  note: 'At the end of the term, retain or part with them honorably, and call two just witnesses [divergence
+    between the texts] (Return to the wife: Deut 24:4 lōʾ yûkal baʿlāh hā-riʾšôn ... lāšûv le-qaḥtāh (after
+    she has married another, never; tôʿēvāh hîʾ). Q 65:1-2 keeps return open: laʿalla llāha yuḥdithu baʿda
+    dhālika amran ... fa-amsikūhunna bi-maʿrūfin aw fāriqūhunna bi-maʿrūf, with two just witnesses (wa-ashhidū
+    dhaway ʿadlin). The Quran''s own rule on remarriage after a third divorce (2:230) is outside this
+    unit.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹא יוּכַ֣ל בַּעְלָ֣הּ הָרִאשׁ֣וֹן אֲשֶֽׁר שִׁ֠לְּחָהּ לָשׁ֨וּב לְקַחְתָּ֜הּ לִהְי֧וֹת ל֣וֹ לְאִשָּׁ֗ה
+    אַחֲרֵי֙ אֲשֶׁ֣ר הֻטַּמָּ֔אָה כִּֽי תוֹעֵבָ֥ה הִ֖וא לִפְנֵ֣י יְהוָ֑ה וְלֹ֤א תַחֲטִיא֙ אֶת הָאָ֔רֶץ
+    אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָֽה
+- tradition: islam
+  ref: Quran 65:1
+  note: 'At the end of the term, retain or part with them honorably, and call two just witnesses [divergence
+    between the texts] (Return to the wife: Deut 24:4 lōʾ yûkal baʿlāh hā-riʾšôn ... lāšûv le-qaḥtāh (after
+    she has married another, never; tôʿēvāh hîʾ). Q 65:1-2 keeps return open: laʿalla llāha yuḥdithu baʿda
+    dhālika amran ... fa-amsikūhunna bi-maʿrūfin aw fāriqūhunna bi-maʿrūf, with two just witnesses (wa-ashhidū
+    dhaway ʿadlin). The Quran''s own rule on remarriage after a third divorce (2:230) is outside this
+    unit.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟
+    ٱلْعِدَّةَ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ
+    أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَتِلْكَ حُدُودُ ٱللَّهِ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ
+    ظَلَمَ نَفْسَهُۥ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+- tradition: islam
+  ref: Quran 65:2
+  note: 'At the end of the term, retain or part with them honorably, and call two just witnesses [divergence
+    between the texts] (Return to the wife: Deut 24:4 lōʾ yûkal baʿlāh hā-riʾšôn ... lāšûv le-qaḥtāh (after
+    she has married another, never; tôʿēvāh hîʾ). Q 65:1-2 keeps return open: laʿalla llāha yuḥdithu baʿda
+    dhālika amran ... fa-amsikūhunna bi-maʿrūfin aw fāriqūhunna bi-maʿrūf, with two just witnesses (wa-ashhidū
+    dhaway ʿadlin). The Quran''s own rule on remarriage after a third divorce (2:230) is outside this
+    unit.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟
+    ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ
+    بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا
+- tradition: judaism
+  ref: Deut 24:1
+  note: 'Husband writes a bill of divorcement for ''some indecency'' and sends her away [divergence between
+    the texts] (Grounds and house reversed. Deut 24:1 kî māṣāʾ vāh ʿerwat dāvār we-kātav lāh sēfer kerîtut
+    ... we-šillḥāh mi-bbêtô (he finds ''some indecency'', writes a writ, sends her out of HIS house).
+    Q 65:1 lā tukhrijūhunna min buyūtihinna wa-lā yakhrujna illā an yaʾtīna bi-fāḥishatin mubayyinatin:
+    during the ʿidda the wife may not be put out of HER house, and ''flagrant indecency'' is the only
+    ground for eviction, not the ground for divorce. No written writ in the Quran; instead a counted waiting
+    period (aḥṣū l-ʿidda).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי יִקַּ֥ח אִ֛ישׁ אִשָּׁ֖ה וּבְעָלָ֑הּ וְהָיָ֞ה אִם לֹ֧א תִמְצָא חֵ֣ן בְּעֵינָ֗יו כִּי מָ֤צָא
+    בָהּ֙ עֶרְוַ֣ת דָּבָ֔ר וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ מִבֵּיתֽוֹ
+- tradition: judaism
+  ref: Deut 24:2
+  note: 'Husband writes a bill of divorcement for ''some indecency'' and sends her away [divergence between
+    the texts] (Grounds and house reversed. Deut 24:1 kî māṣāʾ vāh ʿerwat dāvār we-kātav lāh sēfer kerîtut
+    ... we-šillḥāh mi-bbêtô (he finds ''some indecency'', writes a writ, sends her out of HIS house).
+    Q 65:1 lā tukhrijūhunna min buyūtihinna wa-lā yakhrujna illā an yaʾtīna bi-fāḥishatin mubayyinatin:
+    during the ʿidda the wife may not be put out of HER house, and ''flagrant indecency'' is the only
+    ground for eviction, not the ground for divorce. No written writ in the Quran; instead a counted waiting
+    period (aḥṣū l-ʿidda).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְיָצְאָ֖ה מִבֵּית֑וֹ וְהָלְכָ֖ה וְהָיְתָ֥ה לְאִישׁ אַחֵֽר
+- tradition: islam
+  ref: Quran 65:1
+  note: 'Husband writes a bill of divorcement for ''some indecency'' and sends her away [divergence between
+    the texts] (Grounds and house reversed. Deut 24:1 kî māṣāʾ vāh ʿerwat dāvār we-kātav lāh sēfer kerîtut
+    ... we-šillḥāh mi-bbêtô (he finds ''some indecency'', writes a writ, sends her out of HIS house).
+    Q 65:1 lā tukhrijūhunna min buyūtihinna wa-lā yakhrujna illā an yaʾtīna bi-fāḥishatin mubayyinatin:
+    during the ʿidda the wife may not be put out of HER house, and ''flagrant indecency'' is the only
+    ground for eviction, not the ground for divorce. No written writ in the Quran; instead a counted waiting
+    period (aḥṣū l-ʿidda).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟
+    ٱلْعِدَّةَ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ
+    أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَتِلْكَ حُدُودُ ٱللَّهِ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ
+    ظَلَمَ نَفْسَهُۥ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+- tradition: judaism
+  ref: Deut 24:1
+  note: Husband writes a bill of divorcement for 'some indecency' and sends her away (ערות דבר)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי יִקַּ֥ח אִ֛ישׁ אִשָּׁ֖ה וּבְעָלָ֑הּ וְהָיָ֞ה אִם לֹ֧א תִמְצָא חֵ֣ן בְּעֵינָ֗יו כִּי מָ֤צָא
+    בָהּ֙ עֶרְוַ֣ת דָּבָ֔ר וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ מִבֵּיתֽוֹ
+- tradition: judaism
+  ref: Deut 24:3
+  note: Husband writes a bill of divorcement for 'some indecency' and sends her away (ערות דבר)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּשְׂנֵאָהּ֮ הָאִ֣ישׁ הָאַחֲרוֹן֒ וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ
+    מִבֵּית֑וֹ א֣וֹ כִ֤י יָמוּת֙ הָאִ֣ישׁ הָאַחֲר֔וֹן אֲשֶׁר לְקָחָ֥הּ ל֖וֹ לְאִשָּֽׁה
+- tradition: islam
+  ref: Quran 65:1
+  note: Husband writes a bill of divorcement for 'some indecency' and sends her away (for 'flagrant indecency'
+    (fahisha mubayyina), cf. Deut 24:1 'ervat davar')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟
+    ٱلْعِدَّةَ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ
+    أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَتِلْكَ حُدُودُ ٱللَّهِ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ
+    ظَلَمَ نَفْسَهُۥ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    divergence. Grounds and house reversed. Deut 24:1 kî māṣāʾ vāh ʿerwat dāvār we-kātav lāh sēfer kerîtut
+    ... we-šillḥāh mi-bbêtô (he finds ''some indecency'', writes a writ, sends her out of HIS house).
+    Q 65:1 lā tukhrijūhunna min buyūtihinna wa-lā yakhrujna illā an yaʾtīna bi-fāḥishatin mubayyinatin:
+    during the ʿidda the wife may not be put out of HER house, and ''flagrant indecency'' is the only
+    ground for eviction, not the ground for divorce. No written writ in the Quran; instead a counted waiting
+    period (aḥṣū l-ʿidda). Return to the wife: Deut 24:4 lōʾ yûkal baʿlāh hā-riʾšôn ... lāšûv le-qaḥtāh
+    (after she has married another, never; tôʿēvāh hîʾ). Q 65:1-2 keeps return open: laʿalla llāha yuḥdithu
+    baʿda dhālika amran ... fa-amsikūhunna bi-maʿrūfin aw fāriqūhunna bi-maʿrūf, with two just witnesses
+    (wa-ashhidū dhaway ʿadlin). The Quran''s own rule on remarriage after a third divorce (2:230) is outside
+    this unit.'
+  basis: reading
+- text: 'Shared motifs, rarest first: At the end of the term, retain or part with them honorably, and
+    call two just witnesses [divergence between the texts] (weight 6.7); Husband writes a bill of divorcement
+    for ''some indecency'' and sends her away [divergence between the texts] (weight 6.7); Husband writes
+    a bill of divorcement for ''some indecency'' and sends her away (weight 5.8). Pair score 19.2.'
+  basis: reading
+- text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
+    for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
+    what God did to Miriam (skin disease) on the way; How a husband sends away a divorced wife (document,
+    gift, waiting period) [divergence between the texts]; Kidnapping and selling a person is a capital
+    crime; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; How a husband divorces
+    his wife [divergence between the texts]; Whether a divorced wife may return to her first husband after
+    another marriage [contrast between the texts]; Forgotten sheaf, olive and grape gleanings left for
+    stranger, orphan and widow; Forgotten sheaf, olive and grape gleanings left for stranger, orphan and
+    widow [contrast between the texts]; Divorced wife who remarried may not return to her first husband;
+    Creditor must wait outside for the pledge and return a poor man''s cloak by sunset; and 5 more.'
+  basis: reading
+- text: 'Only in Al-Talaq: divorce and the waiting period, two witnesses, nursing wages, and the seven
+    heavens and earths: Divorce women at (the start of) their waiting period (''idda), count it, and do
+    not expel them from their homes during it unless for flagrant indecency; House divorced wives as you
+    live, support them while pregnant, and pay them if they nurse your child; otherwise another woman
+    may nurse; At the end of the term, retain or part with them honorably, and call two just witnesses;
+    God created seven heavens and of the earth the like of them, the command descending between them;
+    Waiting period of three months for women past menses or not yet menstruating; for the pregnant, until
+    delivery; Husband writes a bill of divorcement for ''some indecency'' and sends her away [contrast
+    between the texts]; The offering is reduced for those who cannot afford it; God burdens no soul beyond
+    its capacity; God brings believers out of darknesses into light; false gods lead others from light
+    into darkness; Heaven and the heaven of heavens belong to God; Roll call of destroyed peoples: Noah''s,
+    Ad, Thamud, Abraham''s people, Midian and the overturned cities.'
+  basis: reading
+- text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Al-Talaq: divorce and the waiting period, two witnesses, nursing wages, and the seven heavens
+    and earths: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

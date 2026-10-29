@@ -1,0 +1,102 @@
+---
+id: motif-hb-deut-32-song-of-moses-vs-quran-44-dukhan-zaqqum-and-garden
+title: The Song of Moses (Ha'azinu) ↔ Deniers demand their fathers; the people of Tubba'; the tree of
+  Zaqqum; silk, brocade and the houris
+summary: 'These two units share 1 motifs: the tree of zaqqum grows from the bottom of hell; its spathes
+  are like the heads of devils; the damned fill their bellies and drink boiling water.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- tree-of-zaqqum
+passages:
+- tradition: judaism
+  ref: Deut 32:32
+  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+    damned fill their bellies and drink boiling water (kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ
+    mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu
+    ruʾūsu sh-shayāṭīn: a plant of the realm of destruction whose fruit is poison. Grapes of gall with
+    the head (rōʾš) of vipers in Deut; spathes like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay
+    is a lead only.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה עֲנָבֵ֨מוֹ֙ עִנְּבֵי ר֔וֹשׁ אַשְׁכְּלֹ֥ת
+    מְרֹרֹ֖ת לָֽמוֹ
+- tradition: judaism
+  ref: Deut 32:33
+  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+    damned fill their bellies and drink boiling water (kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ
+    mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu
+    ruʾūsu sh-shayāṭīn: a plant of the realm of destruction whose fruit is poison. Grapes of gall with
+    the head (rōʾš) of vipers in Deut; spathes like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay
+    is a lead only.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר
+- tradition: islam
+  ref: Quran 44:43
+  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+    damned fill their bellies and drink boiling water
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّ شَجَرَتَ ٱلزَّقُّومِ
+- tradition: islam
+  ref: Quran 44:44
+  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+    damned fill their bellies and drink boiling water
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: طَعَامُ ٱلْأَثِيمِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    echo. A plant whose fruit is poison for the wicked: kî mig-gep̄en səḏōm gap̄nām ... ʿinnəḇê rôš ʾaškəlōṯ
+    mərōrōṯ lāmô; ḥămaṯ tannînim yênām (Sodom''s vine, grapes of gall, wine of serpents'' venom) vs. inna
+    shajarata z-zaqqūmi ṭaʿāmu l-athīm, ka-l-muhli yaghlī fī l-buṭūn. Deuteronomy: an image of the enemies''
+    character; Quran: the actual food of hell.'
+  basis: reading
+- text: 'Shared motifs, rarest first: The tree of Zaqqum grows from the bottom of hell; its spathes are
+    like the heads of devils; the damned fill their bellies and drink boiling water (weight 5.8). Pair
+    score 5.8.'
+  basis: reading
+- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
+    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
+    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
+    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
+    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
+    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
+    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
+    who acquired, made and established his people; God as purchaser of his people [divergence between
+    the texts]; and 30 more.'
+  basis: reading
+- text: 'Only in Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade
+    and the houris: The Day of Sorting/Decision (yawm al-fasl) is the appointed time for all; The blessed
+    wear fine silk (sundus) and brocade (istabraq), facing one another on couches; God has made the revelation
+    easy in the prophet''s own tongue so they may remember; Angels drag the sinner into the midst of hellfire
+    and pour boiling water (hamim) over his head; Death as final, voiced by a sufferer or by deniers of
+    resurrection [divergence between the texts]; Deniers of resurrection say there is only our first death
+    and challenge the prophet to bring back their fathers; In hell the unbelievers are cut garments of
+    fire and boiling water is poured on their heads, melting their insides and skins; The damned man is
+    taunted: ''Taste! You are the mighty, the noble!''; In paradise they taste no death except the first
+    death; On that day no patron (mawla) can avail his client at all; The people of Tubba'' (the Himyarite
+    kings of Yemen) as a destroyed people; A tree whose fruit is food, in Eden or in hell [contrast between
+    the texts]; and 4 more.'
+  basis: reading
+- text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade and the
+    houris: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -110,23 +110,29 @@ passages:
   text: لِّنُحْۦِىَ بِهِۦ بَلْدَةً مَّيْتًا وَنُسْقِيَهُۥ مِمَّا خَلَقْنَآ أَنْعَٰمًا وَأَنَاسِىَّ كَثِيرًا
 evidence:
 - text: 'Shared motifs, rarest first: God sends the winds as heralds before his mercy and sends down pure
-    water from the sky (weight 5.8); After creating the heavens and earth God established himself on the
-    Throne (istawa ''ala l-''arsh) (weight 5.4); Creation is completed in six days (weight 5.2); Sun and
+    water from the sky (weight 5.4); After creating the heavens and earth God established himself on the
+    Throne (istawa ''ala l-''arsh) (weight 5.2); Creation is completed in six days (weight 5.2); Sun and
     moon are set to rule day and night and mark signs and seasons (weight 4.7); Rain from the sky gives
-    life to the earth after its death, a sign of resurrection (weight 4.6). Pair score 25.8.'
+    life to the earth after its death, a sign of resurrection (weight 4.4). Pair score 25.0.'
   basis: reading
 - text: 'Only in Six days, the Throne, winds and rain as proof of resurrection: Parable: good land yields
-    its plants by God''s leave, bad land yields only scantily; God makes the night cover the day; Call
-    on God humbly and in secret / not aloud.'
+    its plants by God''s leave, bad land yields only scantily; Call on God humbly and in secret / not
+    aloud; Deity rests on the seventh day after creating, and sanctifies it [divergence between the texts];
+    A felled tree sprouts again at the scent of water, but a man dies and does not rise [contrast between
+    the texts]; God makes the night cover the day; God sends rain on the desert where no human lives,
+    to make grass sprout.'
   basis: reading
-- text: 'Only in The moving shadow, the night garment, the two seas and the constellations: God set constellations
-    (buruj) in the sky and adorned it for beholders; God the Ever-Living, the Self-Subsisting (al-hayy
-    al-qayyum); God extends the shadow, makes the sun its guide, then draws it back gently; God created
-    humans from water and gave them kinship by blood and by marriage; God made the night a garment, sleep
-    a rest, and the day a rising (nushūr); Told to prostrate to the Merciful, the pagans ask ''What is
-    al-Raḥmān?''; The Prophet asks no wage for the message; As a sign the shadow goes back ten steps on
-    the stairway (dial) of Ahaz; God let loose the two seas, one sweet, one salt, with a barrier (barzakh)
-    and partition between them; Worship of the constellations or zodiac signs (mazzalot).'
+- text: 'Only in The moving shadow, the night garment, the two seas and the constellations: God extends
+    the shadow, makes the sun its guide, then draws it back gently; God created humans from water and
+    gave them kinship by blood and by marriage; Told to prostrate to the Merciful, the pagans ask ''What
+    is al-Raḥmān?''; What God does after creating in six days [divergence between the texts]; Worship
+    of the constellations or zodiac signs (mazzalot); God has inscribed a circle on the face of the waters
+    at the boundary between light and darkness; God made the night a garment, sleep a rest, and the day
+    a rising (nushūr); As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz; God set
+    constellations (buruj) in the sky and adorned it for beholders; God the Ever-Living, the Self-Subsisting
+    (al-hayy al-qayyum); God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and
+    partition between them; God makes winds his messengers (angels) and flaming fire his ministers; and
+    2 more.'
   basis: reading
 - text: 'Six days, the Throne, winds and rain as proof of resurrection: tagged by Claude (model), reading
     the Arabic.'

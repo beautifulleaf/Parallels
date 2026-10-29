@@ -1,11 +1,11 @@
 ---
 id: motif-hb-ezek-37-dry-bones-vs-quran-2-thousands-revived
 title: The valley of dry bones ↔ The thousands who died and were revived; a loan to God
-summary: 'These two units share 1 motifs: the revived dead stand on their feet, an exceedingly great army.'
+summary: 'These two units share 2 motifs: a multitude of dead revived [divergence between the texts],
+  the revived dead stand on their feet, an exceedingly great army.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -13,8 +13,52 @@ traditions:
 layers:
 - motif
 motifs:
+- mass-revival-of-the-dead-as-divergence
 - dead-revived-as-vast-army
 passages:
+- tradition: judaism
+  ref: Ezek 37:9
+  note: 'A multitude of dead revived [divergence between the texts] (Ezek 37:9-10 ... ûpĕḥî ba-hărûgîm
+    hā-ʾēlleh wĕ-yiḥyû ... wa-yyiḥyû wa-yyaʿamdû ʿal raglêhem ḥayil gādôl mĕʾōd mĕʾōd: the slain are revived
+    by the breath at the prophet''s word, a vision interpreted as ''the whole house of Israel'' (37:11);
+    Q 2:243 alladhīna kharajū min diyārihim wa-hum ulūfun ḥadhara l-mawti fa-qāla lahumu llāhu mūtū thumma
+    aḥyāhum: thousands who fled their homes for fear of death, killed by God''s word ''Die!'' and then
+    revived, as a lesson in God''s bounty, followed by the command to fight (2:244). Revival by God''s
+    word in both (hinnābēʾ / qāla lahumu llāhu); the Quran adds the flight and the killing word, and drops
+    the bones, breath and the prophet.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א אֶל הָר֑וּחַ הִנָּבֵ֣א בֶן אָ֠דָם וְאָמַרְתָּ֨ אֶל הָר֜וּחַ כֹּֽה
+    אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה מֵאַרְבַּ֤ע רוּחוֹת֙ בֹּ֣אִי הָר֔וּחַ וּפְחִ֛י בַּהֲרוּגִ֥ים הָאֵ֖לֶּה וְיִֽחְיֽוּ
+- tradition: judaism
+  ref: Ezek 37:10
+  note: 'A multitude of dead revived [divergence between the texts] (Ezek 37:9-10 ... ûpĕḥî ba-hărûgîm
+    hā-ʾēlleh wĕ-yiḥyû ... wa-yyiḥyû wa-yyaʿamdû ʿal raglêhem ḥayil gādôl mĕʾōd mĕʾōd: the slain are revived
+    by the breath at the prophet''s word, a vision interpreted as ''the whole house of Israel'' (37:11);
+    Q 2:243 alladhīna kharajū min diyārihim wa-hum ulūfun ḥadhara l-mawti fa-qāla lahumu llāhu mūtū thumma
+    aḥyāhum: thousands who fled their homes for fear of death, killed by God''s word ''Die!'' and then
+    revived, as a lesson in God''s bounty, followed by the command to fight (2:244). Revival by God''s
+    word in both (hinnābēʾ / qāla lahumu llāhu); the Quran adds the flight and the killing word, and drops
+    the bones, breath and the prophet.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהִנַּבֵּ֖אתִי כַּאֲשֶׁ֣ר צִוָּ֑נִי וַתָּבוֹא֩ בָהֶ֨ם הָר֜וּחַ וַיִּֽחְי֗וּ וַיַּֽעַמְדוּ֙ עַל
+    רַגְלֵיהֶ֔ם חַ֖יִל גָּד֥וֹל מְאֹד מְאֹֽד
+- tradition: islam
+  ref: Quran 2:243
+  note: 'A multitude of dead revived [divergence between the texts] (Ezek 37:9-10 ... ûpĕḥî ba-hărûgîm
+    hā-ʾēlleh wĕ-yiḥyû ... wa-yyiḥyû wa-yyaʿamdû ʿal raglêhem ḥayil gādôl mĕʾōd mĕʾōd: the slain are revived
+    by the breath at the prophet''s word, a vision interpreted as ''the whole house of Israel'' (37:11);
+    Q 2:243 alladhīna kharajū min diyārihim wa-hum ulūfun ḥadhara l-mawti fa-qāla lahumu llāhu mūtū thumma
+    aḥyāhum: thousands who fled their homes for fear of death, killed by God''s word ''Die!'' and then
+    revived, as a lesson in God''s bounty, followed by the command to fight (2:244). Revival by God''s
+    word in both (hinnābēʾ / qāla lahumu llāhu); the Quran adds the flight and the killing word, and drops
+    the bones, breath and the prophet.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَلَمْ تَرَ إِلَى ٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِمْ وَهُمْ أُلُوفٌ حَذَرَ ٱلْمَوْتِ فَقَالَ
+    لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَٰهُمْ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ
+    ٱلنَّاسِ لَا يَشْكُرُونَ
 - tradition: judaism
   ref: Ezek 37:10
   note: The revived dead stand on their feet, an exceedingly great army
@@ -31,22 +75,34 @@ passages:
     لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَٰهُمْ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ
     ٱلنَّاسِ لَا يَشْكُرُونَ
 evidence:
-- text: 'Shared motifs, rarest first: The revived dead stand on their feet, an exceedingly great army
-    (weight 6.7). Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    divergence. Ezek 37:9-10 ... ûpĕḥî ba-hărûgîm hā-ʾēlleh wĕ-yiḥyû ... wa-yyiḥyû wa-yyaʿamdû ʿal raglêhem
+    ḥayil gādôl mĕʾōd mĕʾōd: the slain are revived by the breath at the prophet''s word, a vision interpreted
+    as ''the whole house of Israel'' (37:11); Q 2:243 alladhīna kharajū min diyārihim wa-hum ulūfun ḥadhara
+    l-mawti fa-qāla lahumu llāhu mūtū thumma aḥyāhum: thousands who fled their homes for fear of death,
+    killed by God''s word ''Die!'' and then revived, as a lesson in God''s bounty, followed by the command
+    to fight (2:244). Revival by God''s word in both (hinnābēʾ / qāla lahumu llāhu); the Quran adds the
+    flight and the killing word, and drops the bones, breath and the prophet.'
   basis: reading
-- text: 'Only in The valley of dry bones: At the prophet''s word there is a rattling; bones come together
-    bone to bone, then sinews, flesh and skin cover them, but there is no breath; Deity breathes the breath
-    of life into the first human''s nostrils; God asks ''Can these bones live?'' and the prophet answers
-    ''Lord God, you know''; God will open his people''s graves, bring them up from their graves and bring
-    them to the land of Israel; God will put his own spirit within them and cause them to walk in his
-    statutes; The exiles say ''Our bones are dried up, our hope is lost, we are cut off''; The prophet
-    summons the breath (ruah) from the four winds to breathe into the slain so they live; Formula ''and
-    you/they shall know that I am YHWH'' closing a judgment or salvation oracle; The prophet is set down
-    in a valley full of very many, very dry bones and led around among them.'
+- text: 'Shared motifs, rarest first: A multitude of dead revived [divergence between the texts] (weight
+    6.7); The revived dead stand on their feet, an exceedingly great army (weight 6.7). Pair score 13.4.'
   basis: reading
-- text: 'Only in The thousands who died and were revived; a loan to God: Who will lend God a goodly loan
-    (qard hasan), that he may multiply it for him?; Thousands who left their homes fearing death are told
-    by God ''Die'' and then revived.'
+- text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
+    graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is
+    lost, we are cut off''; The prophet summons the breath (ruah) from the four winds to breathe into
+    the slain so they live; The prophet is set down in a valley full of very many, very dry bones and
+    led around among them; In the womb God makes the lump into bones and clothes the bones with flesh,
+    then makes it another creation; God asks ''Can these bones live?'' and the prophet answers ''Lord
+    God, you know''; God will put his own spirit within them and cause them to walk in his statutes; The
+    question whether God can make the dead live [divergence between the texts]; The question whether dead
+    bones can live again, and who asks it [divergence between the texts]; A single cry or rebuke (zajra)
+    and the dead stand looking; At the prophet''s word there is a rattling; bones come together bone to
+    bone, then sinews, flesh and skin cover them, but there is no breath; Deniers ask ''When we are bones
+    and fragments, shall we be raised as a new creation?''; and 2 more.'
+  basis: reading
+- text: 'Only in The thousands who died and were revived; a loan to God: Thousands who left their homes
+    fearing death are told by God ''Die'' and then revived; He who is gracious to the poor lends to YHWH,
+    and he will repay him; Who will lend God a goodly loan (qard hasan), that he may multiply it for him?.'
   basis: reading
 - text: 'The valley of dry bones: tagged by Claude (model), reading the Hebrew.'
   basis: reading

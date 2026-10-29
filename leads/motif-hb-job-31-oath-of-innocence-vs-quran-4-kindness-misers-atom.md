@@ -1,0 +1,75 @@
+---
+id: motif-hb-job-31-oath-of-innocence-vs-quran-4-kindness-misers-atom
+title: Job's oath of innocence ↔ The circle of kindness, misers, and the atom's weight
+summary: 'These two units share 1 motifs: god does not wrong anyone by an atom''s weight (mithqāl dharra).'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- atoms-weight-of-justice
+passages:
+- tradition: judaism
+  ref: Job 31:6
+  note: 'God does not wrong anyone by an atom''s weight (mithqāl dharra) (Job 31:6 yišqĕlēnî bĕ-mōʾznê
+    ṣedeq wĕ-yēdaʿ ʾĕlôah tummātî: let God weigh me in just scales; Q 4:40 inna llāha lā yaẓlimu mithqāla
+    dharratin: God does not wrong anyone by an atom''s weight. The divine weighing of deeds (šāqal / mithqāl,
+    cognate weight terms).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: יִשְׁקְלֵ֥נִי בְמֹאזְנֵי צֶ֑דֶק וְיֵדַ֥ע אֱ֝ל֗וֹהַּ תֻּמָּתִֽי
+- tradition: islam
+  ref: Quran 4:40
+  note: God does not wrong anyone by an atom's weight (mithqāl dharra)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ
+    أَجْرًا عَظِيمًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    echo. Job 31:6 yišqĕlēnî bĕ-mōʾznê ṣedeq wĕ-yēdaʿ ʾĕlôah tummātî: let God weigh me in just scales;
+    Q 4:40 inna llāha lā yaẓlimu mithqāla dharratin: God does not wrong anyone by an atom''s weight. The
+    divine weighing of deeds (šāqal / mithqāl, cognate weight terms).'
+  basis: reading
+- text: 'Shared motifs, rarest first: God does not wrong anyone by an atom''s weight (mithqāl dharra)
+    (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Job''s oath of innocence: Adultery is a fire that consumes unto Abaddon and roots out
+    all one''s increase; Self-curse: may I sow and another eat, and my offspring be uprooted; Self-curse:
+    may my shoulder fall from its socket and my arm break from its bone; The poor were warmed with the
+    fleece of the righteous man''s sheep and blessed him; Editorial colophon: ''The words of Job are ended'';
+    Disavowal of concealing transgressions ''like Adam'' (or like men), hiding iniquity in one''s bosom;
+    The sufferer would wear his adversary''s written indictment on his shoulder and bind it on as a crown;
+    Self-curse should his land cry out against him and its furrows weep for stolen produce or murdered
+    owners; Master respects his slaves'' lawsuits because the one who made him in the womb made them too;
+    The righteous did not rejoice at his enemy''s ruin nor curse his life; Disavowal of making gold one''s
+    hope or rejoicing in great wealth; Protagonist clears himself with a series of conditional self-curses
+    (''If I have done X, may Y befall me''); and 10 more.'
+  basis: reading
+- text: 'Only in The circle of kindness, misers, and the atom''s weight: Misers who urge stinginess and
+    hide what God gave them of his bounty; On that day the disbelievers wish the earth were leveled over
+    them; Good works (spending, prayer) done to be seen by people (riyāʾ); God multiplies a good deed
+    (tenfold) while an evil deed is requited only by its like; Love your neighbor as yourself; They will
+    say to the mountains ''Cover us'' and to the hills ''Fall on us''; Kindness to the near neighbor,
+    the distant neighbor, the companion at one''s side and the wayfarer; Whoever turns from God''s remembrance
+    is assigned a devil as constant companion (qarin), whom he curses at the judgment; On judgment day
+    a witness is brought from every nation, and the Prophet as witness over them; Honor father and mother,
+    with the promise of long life.'
+  basis: reading
+- text: 'Job''s oath of innocence: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The circle of kindness, misers, and the atom''s weight: tagged by Claude (model), reading the
+    Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

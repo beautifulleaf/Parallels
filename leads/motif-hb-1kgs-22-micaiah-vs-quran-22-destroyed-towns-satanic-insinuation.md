@@ -1,0 +1,114 @@
+---
+id: motif-hb-1kgs-22-micaiah-vs-quran-22-destroyed-towns-satanic-insinuation
+title: Micaiah son of Imlah and the lying spirit ↔ Rejected prophets, ruined towns, the thousand-year
+  day and Satan's insertion
+summary: 'These two units share 1 motifs: where false words in a prophet''s message come from, and what
+  becomes of them [divergence between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- source-of-false-words-in-prophecy-as-divergence
+passages:
+- tradition: judaism
+  ref: 1Kgs 22:22
+  note: 'Where false words in a prophet''s message come from, and what becomes of them [divergence between
+    the texts] (Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
+    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
+    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
+    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
+    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֗אמֶר אֵצֵא֙ וְהָיִ֨יתִי֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל נְבִיאָ֑יו וַיֹּ֗אמֶר תְּפַתֶּה֙ וְגַם
+    תּוּכָ֔ל צֵ֖א וַעֲשֵׂה כֵֽן
+- tradition: judaism
+  ref: 1Kgs 22:23
+  note: 'Where false words in a prophet''s message come from, and what becomes of them [divergence between
+    the texts] (Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
+    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
+    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
+    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
+    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְעַתָּ֗ה הִנֵּ֨ה נָתַ֤ן יְהוָה֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל נְבִיאֶ֣יךָ אֵ֑לֶּה וַֽיהוָ֔ה דִּבֶּ֥ר
+    עָלֶ֖יךָ רָעָֽה
+- tradition: islam
+  ref: Quran 22:52
+  note: 'Where false words in a prophet''s message come from, and what becomes of them [divergence between
+    the texts] (Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
+    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
+    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
+    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
+    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِىٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى ٱلشَّيْطَٰنُ
+    فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ ءَايَٰتِهِۦ
+    وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+- tradition: islam
+  ref: Quran 22:53
+  note: 'Where false words in a prophet''s message come from, and what becomes of them [divergence between
+    the texts] (Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
+    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
+    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
+    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
+    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لِّيَجْعَلَ مَا يُلْقِى ٱلشَّيْطَٰنُ فِتْنَةً لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ
+    قُلُوبُهُمْ وَإِنَّ ٱلظَّٰلِمِينَ لَفِى شِقَاقٍۭ بَعِيدٍ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    divergence. Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
+    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
+    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
+    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
+    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Where false words in a prophet''s message come from, and what becomes
+    of them [divergence between the texts] (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Micaiah son of Imlah and the lying spirit: God asks the heavenly council ''who will entice
+    the king?''; a spirit volunteers; Prophet imprisoned on short rations of bread and water until the
+    king returns in peace; Four hundred court prophets unanimously promise victory; Prophet stakes his
+    authority: ''If you return in peace, YHWH has not spoken by me''; Court prophet makes iron horns:
+    ''with these you will gore Aram''; A spirit volunteers in the divine council to be a lying spirit
+    in the prophets'' mouths; A single true prophet, hated by the king because he never prophesies good
+    for him; Prophet first sarcastically repeats the favorable oracle, then under oath tells the true
+    one; A false prophet strikes the true prophet on the cheek; Prophet sees God seated on his throne
+    with all the host of heaven standing to his right and left; Whether the adversary, devils or deceiving
+    spirits have access to God''s council [contrast between the texts]; God uses a false prophet to test
+    whether Israel loves him; and 1 more.'
+  basis: reading
+- text: 'Only in Rejected prophets, ruined towns, the thousand-year day and Satan''s insertion: Destroyed
+    towns lie fallen on their roofs, with an abandoned well and a lofty palace; It is not the eyes that
+    are blind but the hearts within the breasts; Satan casts something into every prophet''s recitation
+    or wish; God abrogates it and confirms his verses; Where false words in a prophet''s message come
+    from, and what becomes of them [contrast between the texts]; YHWH will be king over all the earth;
+    in that day YHWH will be one and his name one; A thousand years in God''s sight are like yesterday
+    when it passes, or a watch in the night; Scoffers ask the prophet to hasten the punishment; it is
+    held back only by an appointed term and will come suddenly; The listeners walk among the dwellings
+    of generations God destroyed, a sign; A foolish people who have eyes but do not see and ears but do
+    not hear; The Day of YHWH: a coming day of divine judgment, terror and darkness; Destruction follows
+    the people''s rejection of a messenger.'
+  basis: reading
+- text: 'Micaiah son of Imlah and the lying spirit: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Rejected prophets, ruined towns, the thousand-year day and Satan''s insertion: tagged by Claude
+    (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

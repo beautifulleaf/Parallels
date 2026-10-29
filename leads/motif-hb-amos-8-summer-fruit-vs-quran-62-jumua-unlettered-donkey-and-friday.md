@@ -6,8 +6,8 @@ summary: 'These two units share 1 motifs: merchants ask when the new moon and sa
   they can sell grain with small ephah, big shekel and false scales.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -27,6 +27,14 @@ passages:
     מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר לְהַקְטִ֤ין אֵיפָה֙
     וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה (8:6) לִקְנ֤וֹת בַּכֶּ֨סֶף֙ דַּלִּ֔ים וְאֶבְי֖וֹן
     בַּעֲב֣וּר נַעֲלָ֑יִם וּמַפַּ֥ל בַּ֖ר נַשְׁבִּֽיר
+- tradition: judaism
+  ref: Amos 8:5
+  note: Merchants ask when the new moon and sabbath will be over so they can sell grain with small ephah,
+    big shekel and false scales
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר לְהַקְטִ֤ין
+    אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה
 - tradition: islam
   ref: Quran 62:10
   note: Merchants ask when the new moon and sabbath will be over so they can sell grain with small ephah,
@@ -44,31 +52,40 @@ passages:
   text: وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًا قُلْ مَا عِندَ
     ٱللَّهِ خَيْرٌ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    parallel. Commerce pulling people away from the holy time: mātay yaʿăḇōr ha-ḥōḏeš wə-našbîrâ šeḇer
+    wə-haš-šabbāṯ wə-nip̄təḥâ bār vs. wa-idhā raʾaw tijāratan aw lahwan nfaḍḍū ilayhā wa-tarakūka qāʾiman,
+    qul mā ʿinda llāhi khayrun mina l-lahwi wa-mina t-tijāra. Amos''s merchants wait impatiently for the
+    Sabbath to end; the Quran''s congregation leaves the Prophet in the middle of the Friday sermon for
+    a caravan.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Merchants ask when the new moon and sabbath will be over so they
     can sell grain with small ephah, big shekel and false scales (weight 6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in The basket of summer fruit; cheating merchants; famine of the word: Vision of a basket
     of summer fruit (qayits) means ''the end (qets) has come''; A famine not of bread or thirst for water,
-    but of hearing the words of YHWH; they wander from sea to sea seeking it; Honest balances, weights,
-    ephah and hin are commanded; The whole land heaves and sinks like the Nile of Egypt; God will make
-    it like the mourning for an only son, with sackcloth and baldness; Those who swear by the Ashimah
-    of Samaria, ''As your god lives, O Dan'', and ''As the way of Beersheba lives''; They sell the righteous
-    for silver and the needy for a pair of sandals; God will make the sun go down at noon and darken the
-    earth in broad daylight; God asks the prophet ''What do you see?'' and interprets the ordinary object
-    he names.'
+    but of hearing the words of YHWH; they wander from sea to sea seeking it; Those who swear by the Ashimah
+    of Samaria, ''As your god lives, O Dan'', and ''As the way of Beersheba lives''; God will make the
+    sun go down at noon and darken the earth in broad daylight; The whole land heaves and sinks like the
+    Nile of Egypt; God will make it like the mourning for an only son, with sackcloth and baldness; They
+    sell the righteous for silver and the needy for a pair of sandals; God asks the prophet ''What do
+    you see?'' and interprets the ordinary object he names; Honest balances, weights, ephah and hin are
+    commanded.'
   basis: reading
 - text: 'Only in Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for
-    death, and the Friday prayer: Opening formula: whatever is in the heavens and the earth glorifies
-    God (sabbaha / yusabbihu lillah); When they saw trade or amusement they rushed to it and left the
-    prophet standing; The death you flee from will surely meet you; Those charged with the Torah who did
-    not carry it are like a donkey carrying books (asfar); When the call to prayer is made on Friday (yawm
-    al-jumu''a), hasten to God''s remembrance and leave trading; after the prayer disperse and seek God''s
-    bounty; Challenge to the Jews: if you claim to be God''s friends apart from others, wish for death,
-    if you are truthful; they never will; Litany of divine names: King, Holy, Peace, Faithful, Guardian,
-    Mighty, Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names; God raised
-    among the unlettered (ummiyyun, Gentiles) a messenger from among them, reciting signs, purifying them
-    and teaching the Book and wisdom; Reformer rebukes treading winepresses, loading donkeys and selling
-    fish on the Sabbath.'
+    death, and the Friday prayer: When they saw trade or amusement they rushed to it and left the prophet
+    standing; Those charged with the Torah who did not carry it are like a donkey carrying books (asfar);
+    When the call to prayer is made on Friday (yawm al-jumu''a), hasten to God''s remembrance and leave
+    trading; after the prayer disperse and seek God''s bounty; Challenge to the Jews: if you claim to
+    be God''s friends apart from others, wish for death, if you are truthful; they never will; The death
+    you flee from will surely meet you; Israel likened to a donkey that knows, or does not understand,
+    what it has [divergence between the texts]; God raised among the unlettered (ummiyyun, Gentiles) a
+    messenger from among them, reciting signs, purifying them and teaching the Book and wisdom; Reformer
+    rebukes treading winepresses, loading donkeys and selling fish on the Sabbath; Trade on the weekly
+    holy day [divergence between the texts]; The weekly holy day, and whether it rests on God''s rest
+    [divergence between the texts]; Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty,
+    Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names; Opening formula:
+    whatever is in the heavens and the earth glorifies God (sabbaha / yusabbihu lillah).'
   basis: reading
 - text: 'The basket of summer fruit; cheating merchants; famine of the word: tagged by Claude (model),
     reading the Hebrew.'

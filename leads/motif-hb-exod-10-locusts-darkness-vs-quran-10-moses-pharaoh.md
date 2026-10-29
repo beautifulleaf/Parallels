@@ -66,23 +66,28 @@ evidence:
     6.3); The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight
     4.6). Pair score 10.9.'
   basis: reading
-- text: 'Only in Plagues 8-9: locusts and darkness: King haggles over who and what may leave (only men,
-    no flocks, not far away); The king''s own servants urge him to let the people go; King tells the prophet
-    never to see his face again or he will die; During the plague of darkness the Israelites have light
-    in their dwellings; A palpable darkness covers the land for three days; Locusts brought by an east
-    wind devour all vegetation left after the hail; Command to tell one''s son and grandson of God''s
-    deeds in Egypt; A west wind carries the locusts into the Sea of Reeds.'
+- text: 'Only in Plagues 8-9: locusts and darkness: The king''s own servants urge him to let the people
+    go; King tells the prophet never to see his face again or he will die; During the plague of darkness
+    the Israelites have light in their dwellings; A west wind carries the locusts into the Sea of Reeds;
+    King haggles over who and what may leave (only men, no flocks, not far away); The king''s courtiers
+    advise him how to deal with the prophet and his people [contrast between the texts]; The king''s courtiers
+    advise him how to deal with the prophet and his people [divergence between the texts]; Pharaoh''s
+    threat against Moses [divergence between the texts]; A palpable darkness covers the land for three
+    days; Command to tell one''s son and grandson of God''s deeds in Egypt; A believing man of Pharaoh''s
+    family who concealed his faith defends Moses: ''Will you kill a man for saying my Lord is God?'';
+    Locusts brought by an east wind devour all vegetation left after the hail.'
   basis: reading
-- text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Unbelievers defend their practice
-    as what they found their fathers doing; Prophet''s wonders are imitated by the king''s magicians in
-    a contest; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
-    of prayer); Threatened believers say ''to our Lord we return'' and pray for patience and to die as
-    muslims; The meek / those who wait for YHWH / the righteous and their seed shall inherit the land
-    (yirshu arets); Only some youths (dhurriyya) of Moses'' people believed him, fearing Pharaoh; As he
-    drowns Pharaoh declares faith in the God of the Israelites, too late; Pharaoh''s body is saved from
-    the sea to be a sign for those after him; Opponents call the prophet or his message ''manifest sorcery'';
+- text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Only some youths (dhurriyya)
+    of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
+    the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment; The returning waters drown the pursuing army; not one survives.'
+    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
+    the texts]; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
+    of prayer); God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
+    between the texts]; Threatened believers say ''to our Lord we return'' and pray for patience and to
+    die as muslims; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God or
+    his own sin, and what follows; Pharaoh acknowledges Israel''s God or his own sin, and what follows
+    [divergence between the texts]; Who throws the staff before Pharaoh and what it becomes; and 9 more.'
   basis: reading
 - text: 'Plagues 8-9: locusts and darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

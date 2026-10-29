@@ -87,7 +87,7 @@ reviewed:
   Do not use one side's claim, because it would put a label such as "no ransom
   for a murderer" on the verse that says the opposite. Reuse a neutral id when
   one already exists. As a safeguard, the loader always files these matches
-  under a derived id `<motif>--<relation>`, labelled "… [divergence between
+  under a derived id `<motif>-as-<relation>`, labelled "… [divergence between
   the texts]". The pair is matched on the shared matter, and neither verse
   carries the other's claim.
 - **note:** quote or transliterate the decisive words of each side. The note

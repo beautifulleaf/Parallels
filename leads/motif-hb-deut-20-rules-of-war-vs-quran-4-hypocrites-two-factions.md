@@ -1,0 +1,122 @@
+---
+id: motif-hb-deut-20-rules-of-war-vs-quran-4-hypocrites-two-factions
+title: 'Rules of war: exemptions, peace terms, fruit trees ↔ The hypocrites, deserters and those who offer
+  peace'
+summary: 'These two units share 2 motifs: messengers offer peace terms before battle [divergence between
+  the texts], messengers offer peace terms before battle.'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- peace-offer-before-war-as-divergence
+- peace-offer-before-war
+passages:
+- tradition: judaism
+  ref: Deut 20:10
+  note: 'Messengers offer peace terms before battle [divergence between the texts] (The roles are reversed.
+    Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city that answers šālôm becomes forced
+    labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw ilaykumu l-salama) and withdraws,
+    and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on them, no tribute.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+- tradition: judaism
+  ref: Deut 20:11
+  note: 'Messengers offer peace terms before battle [divergence between the texts] (The roles are reversed.
+    Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city that answers šālôm becomes forced
+    labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw ilaykumu l-salama) and withdraws,
+    and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on them, no tribute.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
+    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
+- tradition: islam
+  ref: Quran 4:90
+  note: 'Messengers offer peace terms before battle [divergence between the texts] (The roles are reversed.
+    Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city that answers šālôm becomes forced
+    labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw ilaykumu l-salama) and withdraws,
+    and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on them, no tribute.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ
+    صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ أَوْ يُقَٰتِلُوا۟ قَوْمَهُمْ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ
+    فَلَقَٰتَلُوكُمْ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا
+    جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا
+- tradition: islam
+  ref: Quran 4:91
+  note: 'Messengers offer peace terms before battle [divergence between the texts] (The roles are reversed.
+    Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city that answers šālôm becomes forced
+    labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw ilaykumu l-salama) and withdraws,
+    and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on them, no tribute.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟
+    إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ
+    وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأُو۟لَٰٓئِكُمْ جَعَلْنَا
+    لَكُمْ عَلَيْهِمْ سُلْطَٰنًا مُّبِينًا
+- tradition: judaism
+  ref: Deut 20:10
+  note: Messengers offer peace terms before battle
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+- tradition: judaism
+  ref: Deut 20:11
+  note: Messengers offer peace terms before battle
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
+    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
+- tradition: islam
+  ref: Quran 4:90
+  note: 'Messengers offer peace terms before battle (inverse: those who ''cast you peace (al-salam)''
+    and withdraw may not be fought)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ
+    صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ أَوْ يُقَٰتِلُوا۟ قَوْمَهُمْ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ
+    فَلَقَٰتَلُوكُمْ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا
+    جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    divergence. The roles are reversed. Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and
+    a city that answers šālôm becomes forced labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers
+    (wa-alqaw ilaykumu l-salama) and withdraws, and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no
+    claim on them, no tribute.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Messengers offer peace terms before battle [divergence between the
+    texts] (weight 6.7); Messengers offer peace terms before battle (weight 5.8). Pair score 12.5.'
+  basis: reading
+- text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
+    to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
+    between the texts]; Whether the enemy''s trees may be cut down in a siege [contrast between the texts];
+    Who is excused from going out to war [contrast between the texts]; Who is excused from going out to
+    war [divergence between the texts]; Ruling on soldiers who fear battle [contrast between the texts];
+    Men leave the battle line to go home, and how that is judged [contrast between the texts]; Exemptions
+    from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness [divergence between
+    the texts]; Peace offered or accepted in war, and its terms [divergence between the texts]; Book-people
+    who aided the enemy are brought down from their fortresses, terror cast in their hearts; some killed,
+    some captured, their land inherited; Priest addresses the army before battle: do not fear, God fights
+    for you; City accepting peace becomes forced labor; one resisting has its males killed; and 9 more.'
+  basis: reading
+- text: 'Only in The hypocrites, deserters and those who offer peace: Believers are split into two factions
+    over the hypocrites, whom God has overturned; Those allied by treaty or who withdraw and offer peace
+    may not be attacked.'
+  basis: reading
+- text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The hypocrites, deserters and those who offer peace: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -5,8 +5,8 @@ summary: 'These two units share 2 motifs: two faithful spies dissent from the ma
   (anakim / nephilim) inhabit the land.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -56,22 +56,33 @@ passages:
   text: قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟
     مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    parallel. Q: inna fīhā qawman jabbārīna wa-innā lan nadkhulahā ḥattā yakhrujū minhā. Num: ʿaz hā-ʿām
+    ... wə-gam yəlidê hā-ʿănāq rāʾînû šām; ha-nnəfîlîm bənê ʿănāq. Q drops the spies'' report and the
+    names: the people state the fear directly. Num: ʿālōh naʿăleh wə-yāraš-nû ʾōtāh kî-yākhôl nûkhal lāh.
+    Q: fa-idhā dakhaltumūhu fa-innakum ghālibūna. The confident ''we shall prevail'' in both.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Two faithful spies dissent from the majority (weight 6.3); Giant
     descendants (Anakim / Nephilim) inhabit the land (weight 5.3). Pair score 11.6.'
   basis: reading
-- text: 'Only in The twelve spies and their report: A period of forty days; Single grape cluster so large
-    two men carry it on a pole; Founding of a city dated relative to an Egyptian city (Hebron seven years
-    before Zoan); Evil report: ''a land that eats its inhabitants''; Promised land described as flowing
-    with milk and honey; Spies seem like grasshoppers in their own eyes and the giants''; A place is named
-    after an event that happened there, ''to this day''; Leader renames a disciple (Hoshea to Joshua);
-    Twelve men sent to scout the promised land.'
+- text: 'Only in The twelve spies and their report: Single grape cluster so large two men carry it on
+    a pole; Founding of a city dated relative to an Egyptian city (Hebron seven years before Zoan); Leader
+    renames a disciple (Hoshea to Joshua); A period of forty days; Evil report: ''a land that eats its
+    inhabitants''; God raised twelve chieftains (nuqabāʾ) from Israel when taking their covenant; Spies
+    seem like grasshoppers in their own eyes and the giants''; Twelve men sent to scout the promised land;
+    Promised land described as flowing with milk and honey; A place is named after an event that happened
+    there, ''to this day''.'
   basis: reading
-- text: 'Only in The refusal to enter the holy land and forty years of wandering: Forty years of wandering,
-    a year for each day of scouting; The people tell the leader ''go, you and your Lord, and fight; we
-    will sit here''; Enter the holy land (al-arḍ al-muqaddasa) which God has ordained for you; Israel
-    is to be a kingdom of priests and a holy nation; Moses: ''I control only myself and my brother; separate
-    us from the rebellious people''; God set prophets among Israel and made them kings, giving them what
-    he gave no other.'
+- text: 'Only in The refusal to enter the holy land and forty years of wandering: The people tell the
+    leader ''go, you and your Lord, and fight; we will sit here''; Enter the holy land (al-arḍ al-muqaddasa)
+    which God has ordained for you; Moses: ''I control only myself and my brother; separate us from the
+    rebellious people''; God set prophets among Israel and made them kings, giving them what he gave no
+    other; Forty years of wandering, a year for each day of scouting [divergence between the texts]; The
+    people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence between
+    the texts]; Israel is to be a kingdom of priests and a holy nation; Israel is to be a kingdom of priests
+    and a holy nation [divergence between the texts]; Two faithful spies dissent from the majority [divergence
+    between the texts]; After the people''s rebellion the prophet intercedes for them or asks to be separated
+    from them [divergence between the texts]; Forty years of wandering, a year for each day of scouting.'
   basis: reading
 - text: 'The twelve spies and their report: tagged by Claude (model), reading the Hebrew.'
   basis: reading

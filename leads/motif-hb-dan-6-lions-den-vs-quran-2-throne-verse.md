@@ -5,8 +5,8 @@ summary: 'These two units share 1 motifs: israel''s god is called ''the living g
   whose kingdom shall never be destroyed''.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -42,8 +42,14 @@ passages:
     مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
     وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    parallel. Cognate pair of titles: Dan 6:27 dî hûʾ ʾĕlāhāʾ ḥayyāʾ wĕ-qayyām lĕ-ʿālmîn ''the living
+    God, enduring forever''; Q 2:255 allāhu lā ilāha illā huwa l-ḥayyu l-qayyūm. Aramaic ḥayyāʾ wĕ-qayyām
+    = Arabic al-ḥayy al-qayyūm. In Daniel the title is spoken by a pagan king''s decree; in the Quran
+    it opens the Throne Verse.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Israel''s God is called ''the living God, enduring forever, whose
-    kingdom shall never be destroyed'' (weight 6.7). Pair score 6.7.'
+    kingdom shall never be destroyed'' (weight 6.3). Pair score 6.3.'
   basis: reading
 - text: 'Only in Daniel in the lions'' den: The accusers, with their wives and children, are thrown to
     the lions and crushed before they reach the bottom; God sends his angel and shuts the lions'' mouths
@@ -51,24 +57,20 @@ evidence:
     Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the mouth of the pit and
     sealed with the king''s signet and those of his nobles; A royal decree written by the law of the Medes
     and Persians cannot be revoked, even by the king; The king spends a sleepless night fasting, without
-    entertainment, worrying over the hero; The pious kneels on his knees to pray; Courtiers address the
-    ruler ''O king, live forever''; Prayer at evening, morning and noon (three fixed times a day); The
-    faithful prays facing Jerusalem through open windows; Rivals can find no fault in the hero except
-    in the matter of the law of his God; The pagan king issues a first-person letter to all peoples praising
-    the Most High God; The king appoints 120 satraps over the kingdom with three presidents above them,
-    one of them the hero; The hero is thrown into a pit of lions; Those who dig a pit or spread a net
-    for the righteous fall into it themselves.'
+    entertainment, worrying over the hero; The pious kneels on his knees to pray; The faithful prays facing
+    Jerusalem through open windows; Rivals can find no fault in the hero except in the matter of the law
+    of his God; The king appoints 120 satraps over the kingdom with three presidents above them, one of
+    them the hero; The hero is thrown into a pit of lions; and 8 more.'
   basis: reading
-- text: 'Only in Ranks of the messengers and the Throne Verse: God the Ever-Living, the Self-Subsisting
-    (al-hayy al-qayyum); Whoever rejects false gods (taghut) and believes in God grasps the firmest handhold
-    that never breaks; God brings believers out of darknesses into light; false gods lead others from
-    light into darkness; The everlasting God, creator of the ends of the earth, does not faint or grow
-    weary; his understanding is unsearchable; The guardian of Israel neither slumbers nor sleeps; Intercession
-    avails only for whom God permits; Jesus son of Mary given clear signs and supported with the holy
-    spirit (ruh al-qudus); God''s footstool or seat (kursi) extends over the heavens and the earth; No
-    compulsion in religion; Neither slumber nor sleep overtakes God; A day comes with no trade, no friendship
-    and no intercession; God ranked some messengers above others; to some God spoke; The temple as a house
-    of rest for the ark and the footstool of God''s feet.'
+- text: 'Only in Ranks of the messengers and the Throne Verse: God''s footstool or seat (kursi) extends
+    over the heavens and the earth; No compulsion in religion; Neither slumber nor sleep overtakes God;
+    God''s throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false
+    gods (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber
+    or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day
+    comes with no trade, no friendship and no intercession; The temple as a house of rest for the ark
+    and the footstool of God''s feet; Jesus son of Mary given clear signs and supported with the holy
+    spirit (ruh al-qudus); God ranked some messengers above others; to some God spoke; God the Ever-Living,
+    the Self-Subsisting (al-hayy al-qayyum); and 4 more.'
   basis: reading
 - text: 'Daniel in the lions'' den: tagged by Claude (model), reading the Aramaic.'
   basis: reading

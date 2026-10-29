@@ -1,0 +1,85 @@
+---
+id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-28-pharaohs-tower-and-end
+title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Pharaoh,
+  'no god but me', Haman's tower of fired brick, and the drowning
+summary: 'These two units share 1 motifs: prophet''s wonders are imitated by the king''s magicians in
+  a contest.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- contest-with-court-magicians
+passages:
+- tradition: judaism
+  ref: Exod 7:11
+  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
+    hartummim with their lahatim (secret arts))
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+    מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+- tradition: judaism
+  ref: Exod 7:12
+  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
+    hartummim with their lahatim (secret arts))
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת מַטֹּתָֽם
+- tradition: islam
+  ref: Quran 28:36
+  note: Prophet's wonders are imitated by the king's magicians in a contest (the signs dismissed as forged
+    sorcery)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٍ قَالُوا۟ مَا هَٰذَآ إِلَّا سِحْرٌ مُّفْتَرًى
+    وَمَا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    echo. qālū mā hādhā illā siḥrun muftaran ~ wa-yyaʿăśû gam hēm ḥarṭummê Miṣrayim bə-lahăṭêhem kēn:
+    the signs set on a level with sorcery; Exodus by imitation, the Quran by the charge ''forged magic''.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Prophet''s wonders are imitated by the king''s magicians in a contest
+    (weight 5.1). Pair score 5.1.'
+  basis: reading
+- text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
+    staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet
+    ''as God'' to the king with his brother as his prophet; Wonders done so that Egypt shall know ''I
+    am YHWH''; Prophet''s wonders are imitated by the king''s magicians in a contest [divergence between
+    the texts]; Pharaoh turned away with his power/pillar (rukn) and called Moses ''a sorcerer or a madman'';
+    Who throws the staff before Pharaoh and what it becomes; Who throws the staff before Pharaoh and what
+    it becomes [divergence between the texts]; An eloquent brother is appointed to speak for the hero,
+    who is ''as God'' to him [divergence between the texts]; The prophet''s staff-serpent swallows the
+    magicians'' staff-serpents [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening
+    his heart, or Pharaoh and his people themselves; Why Pharaoh and Egypt refuse despite the signs [divergence
+    between the texts]; God sends Moses and Aaron together, with his signs, to Pharaoh; and 5 more.'
+  basis: reading
+- text: 'Only in Pharaoh, ''no god but me'', Haman''s tower of fired brick, and the drowning: Pharaoh''s
+    people are made leaders who call to the Fire and are cursed in this world; The wise counselors of
+    Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son of ancient kings''; Pharaoh
+    tells his chiefs: ''I know of no god for you other than me''; Pharaoh orders Haman to build him a
+    lofty tower (sarh) to reach the ways of heaven and look at Moses'' God; Building with baked bricks
+    and bitumen instead of stone and mortar; Hāmān appears as Pharaoh''s minister and partner; Pharaoh''s
+    question about, or claim to know, the god of Moses [divergence between the texts]; Humans build a
+    tower whose top reaches heaven; Humans build a tower whose top reaches heaven [divergence between
+    the texts]; God gives stone tablets he himself has written; The returning waters drown the pursuing
+    army; not one survives.'
+  basis: reading
+- text: 'Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians'' staffs:
+    tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Pharaoh, ''no god but me'', Haman''s tower of fired brick, and the drowning: tagged by Claude
+    (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

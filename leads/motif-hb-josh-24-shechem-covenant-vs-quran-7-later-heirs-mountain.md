@@ -6,8 +6,8 @@ summary: 'These two units share 1 motifs: the words of a covenant are written in
   god.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -26,6 +26,13 @@ passages:
   text: (24:25) וַיִּכְרֹ֨ת יְהוֹשֻׁ֧עַ בְּרִ֛ית לָעָ֖ם בַּיּ֣וֹם הַה֑וּא וַיָּ֥שֶׂם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט
     בִּשְׁכֶֽם (24:26) וַיִּכְתֹּ֤ב יְהוֹשֻׁ֨עַ֙ אֶת הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּסֵ֖פֶר תּוֹרַ֣ת אֱלֹהִ֑ים
     וַיִּקַּח֙ אֶ֣בֶן גְּדוֹלָ֔ה וַיְקִימֶ֣הָ שָּׁ֔ם תַּ֚חַת הָֽאַלָּ֔ה אֲשֶׁ֖ר בְּמִקְדַּ֥שׁ יְהוָֽה
+- tradition: judaism
+  ref: Josh 24:25
+  note: The words of a covenant are written in a book of the law of God (written in the 'book of the Torah
+    of God')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּכְרֹ֨ת יְהוֹשֻׁ֧עַ בְּרִ֛ית לָעָ֖ם בַּיּ֣וֹם הַה֑וּא וַיָּ֥שֶׂם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט בִּשְׁכֶֽם
 - tradition: islam
   ref: Quran 7:169
   note: The words of a covenant are written in a book of the law of God (mithaq al-kitab)
@@ -36,24 +43,30 @@ passages:
     ٱلْكِتَٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ وَٱلدَّارُ ٱلْءَاخِرَةُ
     خَيْرٌ لِّلَّذِينَ يَتَّقُونَ أَفَلَا تَعْقِلُونَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    parallel. The covenant is bound to a written book: a-lam yuʾkhadh ʿalayhim mīthāqu l-kitābi ... wa-darasū
+    mā fīhi vs wayyikrōt yᵉhôšuaʿ bᵉrît lāʿām ... wayyiktōb ... bᵉsēper tôrat ʾĕlōhîm.'
+  basis: reading
 - text: 'Shared motifs, rarest first: The words of a covenant are written in a book of the law of God
     (weight 6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
-    God turned Balaam''s curse into a blessing; Hero makes them swear to carry his bones out of Egypt;
-    Joshua buried at Timnath-serah/heres north of Mount Gaash; The people are told to choose this day
-    whom they will serve; God set darkness between Israel and the pursuing Egyptians; Hero''s father makes,
-    sells or worships idols; Hero dies at 110; God''s acts recited from the patriarchs through exodus
-    and conquest; God sends the hornet to drive out the inhabitants; Israel will inherit cities, houses,
-    cisterns, vineyards and olives they did not build or plant; The people are made witnesses against
-    themselves to their choice; A priest is buried on the hill belonging to his son; People put away foreign
-    gods (Baals and Ashtaroth) at a prophet''s call; Sacred oak or terebinth marks a sanctuary site (Moreh,
-    Mamre); A great stone set up as a witness because it has heard all God''s words; Leader warns: you
-    cannot serve YHWH, for he is a holy and jealous God.'
+    God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
+    to his son; Leader warns: you cannot serve YHWH, for he is a holy and jealous God; Joshua buried at
+    Timnath-serah/heres north of Mount Gaash; The people are told to choose this day whom they will serve;
+    Repeated mutual disavowal: ''I do not worship what you worship, nor do you worship what I worship'';
+    ''to you your religion and to me mine''; The people are made witnesses against themselves to their
+    choice; God was pleased with the believers when they pledged allegiance to the prophet under the tree
+    (Bay''at al-Ridwan); Quraysh''s security pact (ilaf) and caravan journeys of winter and summer; they
+    should worship the Lord of this House who fed and secured them; A great stone set up as a witness
+    because it has heard all God''s words; God turned Balaam''s curse into a blessing; Isaac given, and
+    Jacob in addition as an extra gift (nāfila) [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Heirs of the book and the mountain lifted over Israel: Later heirs of the scripture take
-    worldly gain and say ''we will be forgiven''; God raises the mountain (al-Tur) over Israel while taking
-    their covenant.'
+    worldly gain and say ''we will be forgiven''; How Israel comes to accept the covenant at Sinai [divergence
+    between the texts]; Israel stands beneath the mountain when the covenant is given [divergence between
+    the texts]; Man who hears the curse but blesses himself in his heart: ''I shall have peace''; God
+    raises the mountain (al-Tur) over Israel while taking their covenant.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged
     by Claude (model), reading the Hebrew.'

@@ -4,7 +4,6 @@ title: Manna and quail; the first Sabbath ↔ Talut (Saul), the ark and Jalut (G
 summary: 'These two units share 1 motifs: a jar of manna preserved before the testimony for future generations.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -40,33 +39,36 @@ passages:
     مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
     إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    echo. Exod 16:33 wa-yyōʾmer mōšeh ʾel ʾahărōn qaḥ ṣinṣenet ʾaḥat ... wĕ-hannaḥ ʾōtô lipnê YHWH lĕ-mišmeret
+    lĕ-dōrōtêkem: Moses has Aaron lay up a jar of manna before God for the generations; Q 2:248 baqiyyatun
+    mimmā taraka ālu mūsā wa-ālu hārūn: a remnant left by the families of Moses and Aaron, kept in the
+    ark. The HB keeps such objects ''before'' the testimony, not inside the ark.'
+  basis: reading
 - text: 'Shared motifs, rarest first: A jar of manna preserved before the testimony for future generations
     (weight 6.7). Pair score 6.7.'
   basis: reading
-- text: 'Only in Manna and quail; the first Sabbath: God rains bread from heaven to feed the people in
-    the desert; Food is given daily, a day''s portion at a time, to test obedience; A double portion of
-    manna falls or is gathered on the sixth day; The people eat manna or wander for forty years in the
-    wilderness; The glory of YHWH appears in the cloud; Manna kept overnight breeds worms and stinks;
-    Manna described: like coriander seed, look of bdellium, taste of oil cakes, falls with the dew; Manna
-    appears as a fine flaky layer like hoarfrost when the dew lifts; Ungathered manna melts when the sun
-    grows hot; Explanatory gloss defining a measure (an omer is a tenth of an ephah); The people grumble
-    against their leaders about food or water; Each gathers an omer per person; the one who gathers much
-    has no excess, the one who gathers little no lack; Quail come up in the evening and cover the camp;
-    Those who go out to gather on the Sabbath find nothing; Manna kept for the Sabbath does not spoil
-    or breed worms; Seventh-day rest declared holy to God, with no gathering or going out; Manna named
-    from the people''s question ''What is it?'' (man hu).'
+- text: 'Only in Manna and quail; the first Sabbath: Food is given daily, a day''s portion at a time,
+    to test obedience; A double portion of manna falls or is gathered on the sixth day; Manna kept overnight
+    breeds worms and stinks; Manna appears as a fine flaky layer like hoarfrost when the dew lifts; Ungathered
+    manna melts when the sun grows hot; Explanatory gloss defining a measure (an omer is a tenth of an
+    ephah); Each gathers an omer per person; the one who gathers much has no excess, the one who gathers
+    little no lack; Those who go out to gather on the Sabbath find nothing; Manna kept for the Sabbath
+    does not spoil or breed worms; Seventh-day rest declared holy to God, with no gathering or going out;
+    The people eat manna or wander for forty years in the wilderness; Manna described: like coriander
+    seed, look of bdellium, taste of oil cakes, falls with the dew; and 7 more.'
   basis: reading
-- text: 'Only in Talut (Saul), the ark and Jalut (Goliath): The ark of the covenant: a gold-plated acacia
-    chest with rings and poles; The ark (tabut) returns, carried by angels, containing tranquility (sakina)
-    and relics left by the family of Moses and Aaron; David kills Jalut (Goliath) and is given kingship
-    and wisdom; A giant taunts Israel and is killed by a hero; Were it not for God checking people by
-    means of others, the earth would be corrupted; It is the same to God to help the many or the powerless;
-    ''How many a small band has overcome a large one by God''s leave''; God chose the king and increased
-    him in knowledge and stature, though he lacked wealth; The people object that the chosen king has
-    no wealth and they have more right to kingship; People demand a king ''like all the nations''; Before
-    battle the army is tested at a river: whoever drinks is not with the leader, except a handful scooped
-    by hand; Soldiers are selected by how they drink water; The chosen king is taller than all the people
-    from the shoulders up.'
+- text: 'Only in Talut (Saul), the ark and Jalut (Goliath): The ark (tabut) returns, carried by angels,
+    containing tranquility (sakina) and relics left by the family of Moses and Aaron; David kills Jalut
+    (Goliath) and is given kingship and wisdom; Were it not for God checking people by means of others,
+    the earth would be corrupted; ''How many a small band has overcome a large one by God''s leave'';
+    God chose the king and increased him in knowledge and stature, though he lacked wealth; The people
+    object that the chosen king has no wealth and they have more right to kingship; Before battle the
+    army is tested at a river: whoever drinks is not with the leader, except a handful scooped by hand;
+    The ark of the covenant: a gold-plated acacia chest with rings and poles [divergence between the texts];
+    What the ark contains [contrast between the texts]; David kills the Philistine giant [divergence between
+    the texts]; A giant taunts Israel and is killed by a hero; Objection raised against the newly chosen
+    king [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Manna and quail; the first Sabbath: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -1,0 +1,77 @@
+---
+id: motif-hb-isa-41-trial-of-the-gods-vs-quran-4-satan-vows-share
+title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to foretell
+  ↔ Female deities, Satan's vow, slit cattle ears, and Abraham the friend
+summary: 'These two units share 1 motifs: abraham is called god''s friend (ohev, ''lover'').'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- abraham-friend-of-god
+passages:
+- tradition: judaism
+  ref: Isa 41:8
+  note: Abraham is called God's friend (ohev, 'lover')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאַתָּה֙ יִשְׂרָאֵ֣ל עַבְדִּ֔י יַעֲקֹ֖ב אֲשֶׁ֣ר בְּחַרְתִּ֑יךָ זֶ֖רַע אַבְרָהָ֥ם אֹהֲבִֽי
+- tradition: islam
+  ref: Quran 4:125
+  note: Abraham is called God's friend (ohev, 'lover') (ittakhadha llāhu ibrāhīma khalīlan; cf. Isa 41:8,
+    2 Chr 20:7, Jas 2:23)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ
+    إِبْرَٰهِيمَ حَنِيفًا وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    parallel. Q: wa-ttakhadha llāhu Ibrāhīma khalīlan. Isa: zeraʿ ʾAvrāhām ʾōhăvî (''Abraham my friend/lover'').
+    The same epithet with different roots: khalīl against ʾōhēv.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Abraham is called God''s friend (ohev, ''lover'') (weight 6.3).
+    Pair score 6.3.'
+  basis: reading
+- text: 'Only in Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged
+    to foretell: God has stirred up one from the east (and north) whom victory meets at every step, who
+    tramples rulers like a potter treads clay; Idol-craftsmen encourage one another, smoothing with the
+    hammer, approving the soldering and fastening it with nails; Israel made a new sharp threshing sledge
+    with teeth that threshes mountains and makes hills like chaff; God plants in the wilderness cedar,
+    acacia, myrtle, olive, cypress, plane and pine together; God addresses Israel as ''worm Jacob'' and
+    promises to help; A challenge to rivals to prove a divine claim [divergence between the texts]; Oracle
+    of salvation: ''Fear not, for I am with you; I will strengthen and help you''; God''s friends (awliya'')
+    have no fear and will not grieve; A herald of good news (mevasseret Tsiyyon) goes up on a high mountain
+    to announce ''Behold your God!''; ''You, Israel, my servant, Jacob whom I have chosen, offspring of
+    Abraham my friend''; Truth has come; falsehood neither originates nor restores; Waters break out in
+    the wilderness and streams in the desert; burning sand becomes a pool; and 4 more.'
+  basis: reading
+- text: 'Only in Female deities, Satan''s vow, slit cattle ears, and Abraham the friend: Satan commands
+    people to alter God''s creation; Idolaters invoke only female beings besides God, and only a rebellious
+    Satan; Salvation is not by your wishes nor those of the People of the Book: whoever does evil is requited;
+    Cursed Satan vows to take an appointed share (naṣīb mafrūḍ) of God''s servants; Satan commands people
+    to slit the ears of cattle (a pagan dedication rite); The faithless wife credits her lovers (the Baals)
+    with her bread, water, wool, flax, oil and drink, not knowing God gave them; Offerings, incense and
+    libations to the ''Queen of Heaven''; Whoever does good, male or female, and believes, enters paradise;
+    God does not forgive associating partners with him (shirk) but forgives anything less; Not wronged
+    by a date-stone''s thread (fatīl) or groove (naqīr): proverbial minimal measures; Follow the religion
+    (milla) of Abraham the ḥanīf, who was no idolater.'
+  basis: reading
+- text: 'Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to
+    foretell: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Female deities, Satan''s vow, slit cattle ears, and Abraham the friend: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

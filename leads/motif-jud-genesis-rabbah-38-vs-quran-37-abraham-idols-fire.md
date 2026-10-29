@@ -28,6 +28,12 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
+- tradition: islam
+  ref: Quran 37:85
+  note: Hero smashes or burns idols
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
 - tradition: judaism
   ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
   note: Hero thrown into a fire or furnace by a king or people (Nimrod's furnace)
@@ -37,6 +43,12 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ
+- tradition: islam
+  ref: Quran 37:98
+  note: Hero thrown into a fire or furnace by a king or people
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَٰهُمُ ٱلْأَسْفَلِينَ
 - tradition: judaism
   ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
   note: Hero's father makes, sells or worships idols
@@ -46,6 +58,12 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+- tradition: islam
+  ref: Quran 37:86
+  note: Hero's father makes, sells or worships idols
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
 evidence:
 - text: 'Shared motifs, rarest first: Hero smashes or burns idols (weight 5.6); Hero thrown into a fire
     or furnace by a king or people (weight 5.3); Hero''s father makes, sells or worships idols (weight

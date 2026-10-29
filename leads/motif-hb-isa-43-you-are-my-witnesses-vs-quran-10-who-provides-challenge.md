@@ -1,0 +1,78 @@
+---
+id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-10-who-provides-challenge
+title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Who provides and who
+  restores creation; the challenge of the surah
+summary: 'These two units share 1 motifs: inimitability challenge: produce a surah like it, calling on
+  your own witnesses (tahaddi).'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- challenge-to-produce-a-surah
+passages:
+- tradition: judaism
+  ref: Isa 43:9
+  note: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi) (The
+    opponents are invited to bring their own supporters as witnesses: fa-ʾtū bi-sūratin mithlihi wa-dʿū
+    mani staṭaʿtum min dūni llāhi in kuntum ṣādiqīn vs mî bāhem yaggîd zōʾt ... yittᵉnû ʿēdêhem wᵉyiṣdāqû.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִֽאשֹׁנ֖וֹת
+    יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
+- tradition: islam
+  ref: Quran 10:38
+  note: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَمْ يَقُولُونَ ٱفْتَرَىٰهُ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن
+    دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. The opponents are invited to bring their own supporters as witnesses: fa-ʾtū bi-sūratin mithlihi
+    wa-dʿū mani staṭaʿtum min dūni llāhi in kuntum ṣādiqīn vs mî bāhem yaggîd zōʾt ... yittᵉnû ʿēdêhem
+    wᵉyiṣdāqû.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Inimitability challenge: produce a surah like it, calling on your
+    own witnesses (tahaddi) (weight 5.6). Pair score 5.6.'
+  basis: reading
+- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Fear not,
+    for I have redeemed you; I have called you by name, you are mine''; ''Your first father sinned and
+    your interpreters (melitsim) transgressed against me''; God says to north ''Give up'' and to south
+    ''Do not withhold'': bring my sons from afar and my daughters from the end of the earth; The wild
+    beasts, jackals and ostriches honor God for the water he gives in the desert; God gives Egypt, Cush
+    and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I, I am YHWH, and besides
+    me there is no savior''; ''Do not remember the former things... Behold I am doing a new thing; now
+    it springs forth'': a way in the wilderness, rivers in the desert; When you pass through waters God
+    is with you and rivers will not overwhelm you; through fire you will not be burned; Israel did not
+    weary itself with offerings for God but wearied him with its sins; he blots out transgressions for
+    his own sake; Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen,
+    fallen is Babylon!'' and all her idols shattered on the ground; Oracle of salvation: ''Fear not, for
+    I am with you; I will strengthen and help you''; and 16 more.'
+  basis: reading
+- text: 'Only in Who provides and who restores creation; the challenge of the surah: The resurrected feel
+    they had stayed only an hour of a day; The gods are challenged to declare the former things or the
+    things to come so that we may know they are gods; they are nothing; The idol cannot speak to its worshipers
+    or guide them; Argument: He who planted the ear, does he not hear? He who formed the eye, does he
+    not see?; The Quran confirms what was before it and details the Book; God brings the living out of
+    the dead and the dead out of the living; A foolish people who have eyes but do not see and ears but
+    do not hear; God originates creation and then repeats it (resurrection as re-creation).'
+  basis: reading
+- text: 'I have called you by name; you are my witnesses; behold I do a new thing: tagged by Claude (model),
+    reading the Hebrew.'
+  basis: reading
+- text: 'Who provides and who restores creation; the challenge of the surah: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

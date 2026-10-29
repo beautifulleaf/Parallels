@@ -85,6 +85,12 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
 - tradition: islam
+  ref: Quran 26:44
+  note: The prophet's staff-serpent swallows the magicians' staff-serpents
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
+- tradition: islam
   ref: Quran 7:108
   note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand drawn out white for
     beholders; no leprosy)
@@ -177,47 +183,35 @@ evidence:
     promised closeness (weight 6.7); The defeated magicians fall prostrate and declare faith in the Lord
     of Moses and Aaron (weight 6.3); The prophet''s staff-serpent swallows the magicians'' staff-serpents
     (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 5.6);
-    Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 5.6); A staff thrown
+    Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 5.4); A staff thrown
     down becomes a serpent and turns back into a staff (weight 5.4); Prophet''s wonders are imitated by
-    the king''s magicians in a contest (weight 5.2); The returning waters drown the pursuing army; not
-    one survives (weight 4.6). Pair score 45.4.'
+    the king''s magicians in a contest (weight 5.1); The returning waters drown the pursuing army; not
+    one survives (weight 4.5). Pair score 45.0.'
   basis: reading
 - text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
     years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
-    prophet as a bad omen (tatayyur); their omen is with God; The king''s heart is hardened (by himself
-    or by God) so he refuses to release the people; King asks the prophet to intercede with God to remove
-    a plague; Ruler orders the killing of male infants; The magicians'' spell bewitches the people''s
-    eyes and terrifies them; Magicians fail to imitate a wonder and confess ''This is the finger of God'';
-    The magicians offer the prophet to throw first; he tells them to throw; Threatened believers say ''to
-    our Lord we return'' and pray for patience and to die as muslims; The meek / those who wait for YHWH
-    / the righteous and their seed shall inherit the land (yirshu arets); Nile water is turned to blood;
-    The king breaks his promise to release the people once a plague is lifted; Pharaoh is said to have
-    his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a flood (tufan); Frogs
-    swarm out of the river into houses, beds, ovens and kneading-troughs; The dust of the earth becomes
-    lice on man and beast; Locusts brought by an east wind devour all vegetation left after the hail;
-    The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts.'
+    prophet as a bad omen (tatayyur); their omen is with God; The magicians'' spell bewitches the people''s
+    eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
+    is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
+    flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
+    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
+    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
+    the texts]; Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians
+    fail to imitate a wonder and confess ''This is the finger of God'' [divergence between the texts];
+    Threatened believers say ''to our Lord we return'' and pray for patience and to die as muslims; and
+    17 more.'
   basis: reading
-- text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: An eloquent
-    brother is appointed to speak for the hero, who is ''as God'' to him; The departing slaves ask their
-    neighbors for silver, gold and clothing and so plunder their oppressors; God identifies himself as
-    God of Abraham, Isaac and Jacob; Hero flees the king''s death sentence to a foreign land; Pharaoh
-    calls the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
-    treasures and fine dwellings and made Israel inherit them; Israelites cannot be sold as slaves because
-    they are God''s servants whom he brought out of Egypt; King regrets releasing the slaves and pursues
-    them with chariots; The magicians'' ropes and staffs appear by sorcery to be moving like snakes; The
-    magicians cast their spells swearing ''By the might of Pharaoh''; Condemned believers tell the tyrant
-    ''decree what you will; you can only decree for this worldly life''; Moses admits he did the killing
-    while he was ''of those astray'' and fled out of fear; Moses killed a man and God delivered him from
-    distress, then tried him with trials; Pharaoh reproaches Moses: ''Did we not raise you among us as
-    a child, and you did your deed?''; Pharaoh threatens the converted magicians with cutting off hands
-    and feet on opposite sides and crucifixion (on palm trunks); Pharaoh threatens to imprison Moses if
-    he takes a god other than Pharaoh; Officers call the visiting prophet ''this madman'' (meshugga'');
-    Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''; The sea splits and
-    each part is like a great mountain (ṭawd); Prophet stretches his staff over the sea and God splits
-    it with a strong east wind; Refrain closing each episode: ''In that is a sign, yet most of them do
-    not believe; your Lord is the Mighty, the Merciful''; Before Pharaoh the staff becomes a manifest
-    great serpent (thuʿbān); The people walk on dry ground through the sea with the waters as a wall on
-    either side; King defies the prophet: ''Who is YHWH that I should obey him?''.'
+- text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
+    the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
+    treasures and fine dwellings and made Israel inherit them; The magicians cast their spells swearing
+    ''By the might of Pharaoh''; Moses admits he did the killing while he was ''of those astray'' and
+    fled out of fear; Pharaoh reproaches Moses: ''Did we not raise you among us as a child, and you did
+    your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
+    the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
+    magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
+    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
+    to pursue the departing people; and 35 more.'
   basis: reading
 - text: 'Moses before Pharaoh, the magicians and the plagues: tagged by Claude (model), reading the Arabic.'
   basis: reading

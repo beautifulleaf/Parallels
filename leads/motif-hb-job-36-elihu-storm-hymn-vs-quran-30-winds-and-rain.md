@@ -1,0 +1,96 @@
+---
+id: motif-hb-job-36-elihu-storm-hymn-vs-quran-30-winds-and-rain
+title: Elihu's hymn on rain, thunder, snow and the storm ↔ Winds and rain; the dead who cannot hear; the
+  ages of man
+summary: 'These two units share 1 motifs: god sends the winds as heralds before his mercy and sends down
+  pure water from the sky.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- winds-herald-mercy-pure-water
+passages:
+- tradition: judaism
+  ref: Job 37:11
+  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (ʾap̄-bərî
+    yaṭrîaḥ ʿāḇ yāp̄îṣ ʿănan ʾôrô ... ʾim-lə-šēḇeṭ ʾim-lə-ʾarṣô ʾim-lə-ḥesed yamṣiʾēhû vs. fa-tuthīru
+    saḥāban fa-yabsuṭuhu fī s-samāʾi kayfa yashāʾu ... fa-idhā aṣāba bihi man yashāʾu min ʿibādihi: God
+    spreads the clouds and makes the rain reach whom he chooses. Job allows either rod or ḥesed; the Quran
+    names it raḥma (30:50).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אַף בְּ֭רִי יַטְרִ֣יחַ עָ֑ב יָ֝פִ֗יץ עֲנַ֣ן אוֹרֽוֹ
+- tradition: judaism
+  ref: Job 37:12
+  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (ʾap̄-bərî
+    yaṭrîaḥ ʿāḇ yāp̄îṣ ʿănan ʾôrô ... ʾim-lə-šēḇeṭ ʾim-lə-ʾarṣô ʾim-lə-ḥesed yamṣiʾēhû vs. fa-tuthīru
+    saḥāban fa-yabsuṭuhu fī s-samāʾi kayfa yashāʾu ... fa-idhā aṣāba bihi man yashāʾu min ʿibādihi: God
+    spreads the clouds and makes the rain reach whom he chooses. Job allows either rod or ḥesed; the Quran
+    names it raḥma (30:50).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְה֤וּא מְסִבּ֨וֹת מִתְהַפֵּ֣ךְ בתחבולתו בְּתַחְבּוּלֹתָ֣יו לְפָעֳלָ֑ם כֹּ֖ל אֲשֶׁ֥ר יְצַוֵּ֓ם
+    עַל פְּנֵ֖י תֵבֵ֣ל אָֽרְצָה
+- tradition: islam
+  ref: Quran 30:46
+  note: God sends the winds as heralds before his mercy and sends down pure water from the sky
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَمِنْ ءَايَٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ
+    ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+- tradition: islam
+  ref: Quran 30:48
+  note: God sends the winds as heralds before his mercy and sends down pure water from the sky
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ
+    وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ
+    مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    parallel. ʾap̄-bərî yaṭrîaḥ ʿāḇ yāp̄îṣ ʿănan ʾôrô ... ʾim-lə-šēḇeṭ ʾim-lə-ʾarṣô ʾim-lə-ḥesed yamṣiʾēhû
+    vs. fa-tuthīru saḥāban fa-yabsuṭuhu fī s-samāʾi kayfa yashāʾu ... fa-idhā aṣāba bihi man yashāʾu min
+    ʿibādihi: God spreads the clouds and makes the rain reach whom he chooses. Job allows either rod or
+    ḥesed; the Quran names it raḥma (30:50).'
+  basis: reading
+- text: 'Shared motifs, rarest first: God sends the winds as heralds before his mercy and sends down pure
+    water from the sky (weight 5.4). Pair score 5.4.'
+  basis: reading
+- text: 'Only in Elihu''s hymn on rain, thunder, snow and the storm: Golden splendor comes out of the
+    north as God''s awesome majesty; God''s booth or canopy (sukkah) is made of thunderclouds and darkness;
+    In the winter storm God seals up every man''s hand (stops human work) so all may know him; The number
+    of God''s years cannot be searched out; Ice and frozen waters are produced by the breath of God; God
+    beat out the skies hard as a molten mirror of cast metal; God draws up drops of water which distill
+    as rain from his mist (evaporation and rainfall cycle); Storm-wind comes out of a chamber (heder)
+    and cold from the scattering winds; God speaks to the snow ''Fall on the earth'' and commands the
+    downpour; God drives the storm cloud to strike whom he wills or to show favor; Thunder is the roaring
+    voice of God.'
+  basis: reading
+- text: 'Only in Winds and rain; the dead who cannot hear; the ages of man: God created humans in weakness,
+    then gave strength, then after strength weakness and grey hair; God binds up the waters in his thick
+    clouds and the cloud does not burst under them; The resurrected feel they had stayed only an hour
+    of a day; The prophet cannot make the dead or deaf hear, nor guide the blind; Who makes the hearers
+    deaf, blind and closed of heart to the message [divergence between the texts]; God seals (tab'') the
+    hearts of deniers so they do not hear; Prophet commissioned to make the people''s heart fat, ears
+    heavy and eyes shut lest they understand and be healed; Rain from the sky gives life to the earth
+    after its death, a sign of resurrection.'
+  basis: reading
+- text: 'Elihu''s hymn on rain, thunder, snow and the storm: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Winds and rain; the dead who cannot hear; the ages of man: tagged by Claude (model), reading
+    the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

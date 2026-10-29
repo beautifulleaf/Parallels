@@ -1,0 +1,105 @@
+---
+id: motif-hb-gen-9-noah-drunk-curse-vs-quran-11-noah
+title: Noah's vineyard, Ham's sin and the curse of Canaan; Noah's death ↔ Noah, the boiling oven, the
+  lost son and al-Judi
+summary: 'These two units share 1 motifs: a son of noah is found unworthy, and what follows [divergence
+  between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- noahs-unworthy-son-as-divergence
+passages:
+- tradition: judaism
+  ref: Gen 9:22
+  note: 'A son of Noah is found unworthy, and what follows [divergence between the texts] (One of Noah''s
+    sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is
+    cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns
+    before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu
+    laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical
+    counterpart; this pair is the nearest.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑יו וַיַּגֵּ֥ד לִשְׁנֵֽי אֶחָ֖יו בַּחֽוּץ
+- tradition: judaism
+  ref: Gen 9:24
+  note: 'A son of Noah is found unworthy, and what follows [divergence between the texts] (One of Noah''s
+    sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is
+    cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns
+    before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu
+    laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical
+    counterpart; this pair is the nearest.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּ֥יקֶץ נֹ֖חַ מִיֵּינ֑וֹ וַיֵּ֕דַע אֵ֛ת אֲשֶׁר עָ֥שָׂה ל֖וֹ בְּנ֥וֹ הַקָּטָֽן
+- tradition: islam
+  ref: Quran 11:42
+  note: 'A son of Noah is found unworthy, and what follows [divergence between the texts] (One of Noah''s
+    sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is
+    cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns
+    before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu
+    laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical
+    counterpart; this pair is the nearest.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ يَٰبُنَىَّ
+    ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
+- tradition: islam
+  ref: Quran 11:43
+  note: 'A son of Noah is found unworthy, and what follows [divergence between the texts] (One of Noah''s
+    sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is
+    cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns
+    before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu
+    laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical
+    counterpart; this pair is the nearest.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍ يَعْصِمُنِى مِنَ ٱلْمَآءِ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ
+    ٱللَّهِ إِلَّا مَن رَّحِمَ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    divergence. One of Noah''s sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness
+    and his son Canaan is cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses
+    the ark, drowns before the end of the flood, and God declares him ''not of your family, a deed not
+    righteous'' (innahu laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned
+    son has no biblical counterpart; this pair is the nearest.'
+  basis: reading
+- text: 'Shared motifs, rarest first: A son of Noah is found unworthy, and what follows [divergence between
+    the texts] (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Noah''s vineyard, Ham''s sin and the curse of Canaan; Noah''s death: Curse falls on Canaan,
+    son of the offender, to be a slave of slaves; First planter of a vineyard becomes drunk; A son sees
+    his father''s nakedness and is cursed for it; Sons cover their father''s nakedness walking backward
+    with averted faces; How the story of Noah ends [divergence between the texts]; Noah''s span of 950
+    years, and what it measures [divergence between the texts]; Three sons of the flood hero repopulate
+    the whole earth; Hero''s life or mission spans 950 years.'
+  basis: reading
+- text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Embark: ''in the name of God be its
+    sailing and its mooring''; God commands: ''Earth, swallow your water; sky, withhold!'' and the water
+    subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
+    the prophet because only the lowest of them follow him; God answers that the drowned son is not of
+    Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
+    unknown to him and his people before; The ark sails through waves like mountains; What the flood hero
+    does when the vessel comes to rest; What God says of later generations after the flood: no repeat,
+    or punishment to come [contrast between the texts]; How the flood waters are stopped and subside [divergence
+    between the texts]; The prophet''s opponents object that only the lowliest follow him; he refuses
+    to drive the believers away; Someone seeks refuge on a mountain and is drowned; and 28 more.'
+  basis: reading
+- text: 'Noah''s vineyard, Ham''s sin and the curse of Canaan; Noah''s death: tagged by Claude (model),
+    reading the Hebrew.'
+  basis: reading
+- text: 'Noah, the boiling oven, the lost son and al-Judi: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

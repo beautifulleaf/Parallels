@@ -1,12 +1,12 @@
 ---
 id: motif-hb-1kgs-18-carmel-vs-quran-3-misers-mockers
 title: Contest on Mount Carmel ↔ Misers, those who called God poor, and the fire-consumed offering
-summary: 'These two units share 1 motifs: fire from heaven falls and consumes the offering, wood, stones,
-  dust and water.'
+summary: 'These two units share 2 motifs: an offering consumed by fire as proof of the true god or messenger
+  [response between the texts], fire from heaven falls and consumes the offering, wood, stones, dust and
+  water.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -14,8 +14,52 @@ traditions:
 layers:
 - motif
 motifs:
+- fire-consumed-offering-as-proof-as-response
 - fire-from-heaven-consumes-offering
 passages:
+- tradition: judaism
+  ref: 1Kgs 18:24
+  note: 'An offering consumed by fire as proof of the true God or messenger [response between the texts]
+    (1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš YHWH wa-ttōʾkal
+    ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q 3:183 qālū inna
+    llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nāru qul qad jāʾakum
+    rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum: they claim God made them
+    promise to believe no messenger without an offering ''the fire eats'' (ʾākal / akala); answer: messengers
+    did bring it, so why did you kill them? The Carmel test is turned into the opponents'' demand, and
+    the demand is refuted from their own history.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּקְרָאתֶ֞ם בְּשֵׁ֣ם אֱלֹֽהֵיכֶ֗ם וַֽאֲנִי֙ אֶקְרָ֣א בְשֵׁם יְהוָ֔ה וְהָיָ֧ה הָאֱלֹהִ֛ים אֲשֶׁר
+    יַעֲנֶ֥ה בָאֵ֖שׁ ה֣וּא הָאֱלֹהִ֑ים וַיַּ֧עַן כָּל הָעָ֛ם וַיֹּאמְר֖וּ ט֥וֹב הַדָּבָֽר
+- tradition: judaism
+  ref: 1Kgs 18:38
+  note: 'An offering consumed by fire as proof of the true God or messenger [response between the texts]
+    (1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš YHWH wa-ttōʾkal
+    ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q 3:183 qālū inna
+    llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nāru qul qad jāʾakum
+    rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum: they claim God made them
+    promise to believe no messenger without an offering ''the fire eats'' (ʾākal / akala); answer: messengers
+    did bring it, so why did you kill them? The Carmel test is turned into the opponents'' demand, and
+    the demand is refuted from their own history.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתִּפֹּ֣ל אֵשׁ יְהוָ֗ה וַתֹּ֤אכַל אֶת הָֽעֹלָה֙ וְאֶת הָ֣עֵצִ֔ים וְאֶת הָאֲבָנִ֖ים וְאֶת הֶעָפָ֑ר
+    וְאֶת הַמַּ֥יִם אֲשֶׁר בַּתְּעָלָ֖ה לִחֵֽכָה
+- tradition: islam
+  ref: Quran 3:183
+  note: 'An offering consumed by fire as proof of the true God or messenger [response between the texts]
+    (1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš YHWH wa-ttōʾkal
+    ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q 3:183 qālū inna
+    llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nāru qul qad jāʾakum
+    rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum: they claim God made them
+    promise to believe no messenger without an offering ''the fire eats'' (ʾākal / akala); answer: messengers
+    did bring it, so why did you kill them? The Carmel test is turned into the opponents'' demand, and
+    the demand is refuted from their own history.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
+    بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
+    قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 - tradition: judaism
   ref: 1Kgs 18:38
   note: Fire from heaven falls and consumes the offering, wood, stones, dust and water
@@ -32,31 +76,43 @@ passages:
     بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
     قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Fire from heaven falls and consumes the offering, wood, stones,
-    dust and water (weight 6.7). Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    response. 1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš
+    YHWH wa-ttōʾkal ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q
+    3:183 qālū inna llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu
+    n-nāru qul qad jāʾakum rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum:
+    they claim God made them promise to believe no messenger without an offering ''the fire eats'' (ʾākal
+    / akala); answer: messengers did bring it, so why did you kill them? The Carmel test is turned into
+    the opponents'' demand, and the demand is refuted from their own history.'
+  basis: reading
+- text: 'Shared motifs, rarest first: An offering consumed by fire as proof of the true God or messenger
+    [response between the texts] (weight 6.7); Fire from heaven falls and consumes the offering, wood,
+    stones, dust and water (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Contest on Mount Carmel: Prophet repairs the ruined altar with twelve stones for the
-    tribes of Jacob; Contest of gods: the god who answers by fire on an unlit sacrifice is God; Prophet''s
-    wonders are imitated by the king''s magicians in a contest; False prophet put to death; The prophets
-    of Baal are seized and slaughtered at the brook Kishon; ''How long will you hop between two branches?
-    If YHWH is God, follow him; if Baal, follow him''; A single prophet of YHWH stands against 450 prophets
-    of Baal and 400 of Asherah; God mocks: where are their gods who ate the fat of their sacrifices? let
-    them rise and help; Prohibition of gashing oneself or shaving the forehead for the dead; Prophets
-    of Baal limp-dance around the altar and gash themselves with swords and lances till blood flows; Prophet
-    mocks the silent god: perhaps he is musing, relieving himself, travelling, or asleep and must be woken;
-    Sacrifice and altar drenched with four jars of water three times, filling a trench, before the miracle;
-    King calls the prophet ''troubler of Israel'' (okher Yisra''el); prophet returns the charge; Twelve
-    standing stones or pillars set up for the twelve tribes; The people fall on their faces crying ''YHWH,
-    he is God! YHWH, he is God!''.'
+    tribes of Jacob; Contest of gods: the god who answers by fire on an unlit sacrifice is God; The prophets
+    of Baal are seized and slaughtered at the brook Kishon; Prophets of Baal limp-dance around the altar
+    and gash themselves with swords and lances till blood flows; Prophet mocks the silent god: perhaps
+    he is musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched
+    with four jars of water three times, filling a trench, before the miracle; The people fall on their
+    faces crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; ''How long will you hop between
+    two branches? If YHWH is God, follow him; if Baal, follow him''; A single prophet of YHWH stands against
+    450 prophets of Baal and 400 of Asherah; How the people respond to the prophet''s challenge over Baal
+    [divergence between the texts]; Parable: a slave owned by quarreling partners versus a slave belonging
+    wholly to one man; and 9 more.'
   basis: reading
 - text: 'Only in Misers, those who called God poor, and the fire-consumed offering: God took the covenant
-    of those given the Book to make it clear to people and not conceal it; Every soul shall taste death;
-    Those who said ''God is poor and we are rich'' are recorded and will taste the burning; God will not
-    leave believers as they are until he separates the bad from the good; Misers will have what they hoarded
-    hung round their necks as a collar on the Day of Resurrection; Some demand that a messenger bring
-    an offering consumed by fire as his credential; Israel killed the prophets who warned them; God grants
-    the unbelievers respite only that they may increase in sin; People of the Book cast God''s book behind
-    their backs.'
+    of those given the Book to make it clear to people and not conceal it; Those who said ''God is poor
+    and we are rich'' are recorded and will taste the burning; Misers will have what they hoarded hung
+    round their necks as a collar on the Day of Resurrection; Some demand that a messenger bring an offering
+    consumed by fire as his credential; God grants the unbelievers respite only that they may increase
+    in sin; Whether God is in need and humans rich [contrast between the texts]; God will not leave believers
+    as they are until he separates the bad from the good; What man can live and not see death, or deliver
+    his soul from the hand of Sheol?; Every soul shall taste death; Fire comes out from before God and
+    consumes the offering on the altar; God sent his servants the prophets ''rising early and sending''
+    (hashkem), but they did not listen; He who is gracious to the poor lends to YHWH, and he will repay
+    him; and 2 more.'
   basis: reading
 - text: 'Contest on Mount Carmel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

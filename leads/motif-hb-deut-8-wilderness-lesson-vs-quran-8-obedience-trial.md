@@ -1,0 +1,80 @@
+---
+id: motif-hb-deut-8-wilderness-lesson-vs-quran-8-obedience-trial
+title: Lessons of the wilderness; the good land; beware of pride ↔ Deaf and dumb beasts, heart and trial
+summary: 'These two units share 1 motifs: wealth and children are a trial (fitna).'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- wealth-and-children-are-a-trial
+passages:
+- tradition: judaism
+  ref: Deut 8:13
+  note: 'Wealth and children are a trial (fitna) (Possessions as the test that makes people forget God:
+    innamā amwālukum wa-awlādukum fitnatun vs wᵉkesep wᵉzāhāb yirbeh-llāk ... wᵉrām lᵉbābekā wᵉšākaḥtā
+    ʾet-YHWH; kōḥî wᵉʿōṣem yādî ʿāśāh lî ʾet-haḥayil hazzeh.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּבְקָֽרְךָ֤ וְצֹֽאנְךָ֙ יִרְבְּיֻ֔ן וְכֶ֥סֶף וְזָהָ֖ב יִרְבֶּה לָּ֑ךְ וְכֹ֥ל אֲשֶׁר לְךָ֖ יִרְבֶּֽה
+- tradition: judaism
+  ref: Deut 8:14
+  note: 'Wealth and children are a trial (fitna) (Possessions as the test that makes people forget God:
+    innamā amwālukum wa-awlādukum fitnatun vs wᵉkesep wᵉzāhāb yirbeh-llāk ... wᵉrām lᵉbābekā wᵉšākaḥtā
+    ʾet-YHWH; kōḥî wᵉʿōṣem yādî ʿāśāh lî ʾet-haḥayil hazzeh.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְרָ֖ם לְבָבֶ֑ךָ וְשָֽׁכַחְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ הַמּוֹצִיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית
+    עֲבָדִֽים
+- tradition: islam
+  ref: Quran 8:28
+  note: Wealth and children are a trial (fitna)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ
+    عَظِيمٌ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. Possessions as the test that makes people forget God: innamā amwālukum wa-awlādukum fitnatun
+    vs wᵉkesep wᵉzāhāb yirbeh-llāk ... wᵉrām lᵉbābekā wᵉšākaḥtā ʾet-YHWH; kōḥî wᵉʿōṣem yādî ʿāśāh lî ʾet-haḥayil
+    hazzeh.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Wealth and children are a trial (fitna) (weight 6.3). Pair score
+    6.3.'
+  basis: reading
+- text: 'Only in Lessons of the wilderness; the good land; beware of pride: Wilderness of fiery serpents
+    and scorpions; When you eat and are satisfied, bless God for the land; Land whose stones are iron
+    and from whose hills copper is dug; Man does not live by bread alone but by every word from God''s
+    mouth; God tests the community ''until we know'' who strive and are patient; Springs and fruit of
+    the promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I
+    was given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and
+    test Israel; Clothes did not wear out and feet did not swell for forty years; God disciplines Israel
+    as a man disciplines his son; Warning against saying my power and the might of my hand made this wealth;
+    When you eat and are full, beware lest you forget God; and 6 more.'
+  basis: reading
+- text: 'Only in Deaf and dumb beasts, heart and trial: God gives the God-fearing a furqan (criterion
+    / deliverance); God comes between a man and his heart; The arrogant elite confront the weak (mustad''afun)
+    who believed the prophet; God has not given the people a heart to know, eyes to see, ears to hear
+    until today; God has not given the people a heart to know, eyes to see, ears to hear until today [divergence
+    between the texts]; Whether punishment strikes the innocent together with the guilty [contrast between
+    the texts]; The king''s heart is like channels of water in YHWH''s hand; he turns it wherever he wishes;
+    The heedless are like cattle, or even more astray; A foolish people who have eyes but do not see and
+    ears but do not hear.'
+  basis: reading
+- text: 'Lessons of the wilderness; the good land; beware of pride: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Deaf and dumb beasts, heart and trial: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

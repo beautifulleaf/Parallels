@@ -81,22 +81,23 @@ evidence:
 - text: 'Shared motifs, rarest first: Animals taken aboard in pairs (weight 5.8); Hero builds a vessel
     on divine instruction (weight 5.2); Hero''s family saved with him (weight 4.5). Pair score 15.5.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Birds released to find dry land; Hero blessed on leaving the vessel;
-    Deity or gods smell the offering; Deity decides to destroy humankind; Hero''s life or mission spans
-    950 years; Hero singled out as righteous or pious; Hero privately warned of the coming flood by a
-    deity; Deity resolves or promises not to repeat the destruction; Destruction motivated by human wickedness
-    or violence; Hero offers sacrifice after leaving the vessel; A sign in the sky commemorates the flood
-    (bow, necklace); All others perish; Exact dimensions of the vessel are specified; Vessel comes to
-    rest on a named mountain; Vessel sealed with pitch or bitumen; Waters pour both from the sky and from
-    springs of the earth.'
+- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
+    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero blessed on leaving the
+    vessel; Hero''s life or mission spans 950 years; Deity resolves or promises not to repeat the destruction;
+    Destruction motivated by human wickedness or violence; Waters pour both from the sky and from springs
+    of the earth; Deity or gods smell the offering; Hero offers sacrifice after leaving the vessel; Vessel
+    comes to rest on a named mountain; Vessel sealed with pitch or bitumen; and 4 more.'
   basis: reading
-- text: 'Only in Noah called a madman; the ark and the boiling oven: The flood waters are hot or boiling;
-    God forbids the prophet to address him on behalf of those who did wrong: they will be drowned; A member
-    of the hero''s family is lost; Hero asks the deity to judge or destroy his opponents; Hero warns or
-    preaches to his people before the flood; The flood hero prays to be landed at a blessed landing place;
-    The prophet''s people object that he is only a human like them; had God willed he would have sent
-    angels; Officers call the visiting prophet ''this madman'' (meshugga''); A specific sign marks the
-    moment to board.'
+- text: 'Only in Noah called a madman; the ark and the boiling oven: God forbids the prophet to address
+    him on behalf of those who did wrong: they will be drowned; The flood hero prays to be landed at a
+    blessed landing place; What the flood hero does when the vessel comes to rest [divergence between
+    the texts]; When and from where the flood waters come [divergence between the texts]; The prophet''s
+    people object that he is only a human like them; had God willed he would have sent angels; Whether
+    the flood hero speaks to his people before the flood [divergence between the texts]; A specific sign
+    marks the moment to board; The flood waters are hot or boiling; Why God destroyed a generation or
+    a people [divergence between the texts]; A member of the hero''s family is lost; Who is saved with
+    the hero from the destruction, and why [divergence between the texts]; Hero asks the deity to judge
+    or destroy his opponents; and 2 more.'
   basis: reading
 - text: 'The Flood in Genesis: tagged by Claude (model), reading the Hebrew.'
   basis: reading

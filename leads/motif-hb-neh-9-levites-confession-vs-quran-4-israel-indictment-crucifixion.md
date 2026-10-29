@@ -6,8 +6,8 @@ summary: 'These two units share 2 motifs: israel killed the prophets who warned 
   calf while the leader is on the mountain.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -40,6 +40,14 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: אַ֗ף כִּֽי עָשׂ֤וּ לָהֶם֙ עֵ֣גֶל מַסֵּכָ֔ה וַיֹּ֣אמְר֔וּ זֶ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֥ר הֶעֶלְךָ֖ מִמִּצְרָ֑יִם
     וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדֹלֽוֹת
+- tradition: judaism
+  ref: Neh 9:17
+  note: People make a molten calf while the leader is on the mountain
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְמָאֲנ֣וּ לִשְׁמֹ֗עַ וְלֹא זָכְר֤וּ נִפְלְאֹתֶ֨יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ עִמָּהֶ֔ם וַיַּקְשׁוּ֙
+    אֶת עָרְפָּ֔ם וַיִּתְּנוּ רֹ֛אשׁ לָשׁ֥וּב לְעַבְדֻתָ֖ם בְּמִרְיָ֑ם וְאַתָּה֩ אֱל֨וֹהַּ סְלִיח֜וֹת
+    חַנּ֧וּן וְרַח֛וּם אֶֽרֶךְ אַפַּ֥יִם וְרַב וחסד חֶ֖סֶד וְלֹ֥א עֲזַבְתָּֽם
 - tradition: islam
   ref: Quran 4:153
   note: People make a molten calf while the leader is on the mountain
@@ -50,41 +58,37 @@ passages:
     ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ وَءَاتَيْنَا
     مُوسَىٰ سُلْطَٰنًا مُّبِينًا
 evidence:
-- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.2); People
-    make a molten calf while the leader is on the mountain (weight 4.7). Pair score 9.9.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    parallel. Q: wa-qatlihimu l-anbiyāʾa bi-ghayri ḥaqqin, in a list of covenant breaches (naqḍihim mīthāqahum).
+    Neh: wa-yyamrû wa-yyimrədû bākh ... wə-ʾet-nəvîʾêkhā hārāgû ʾăšer hēʿîdû vām. Both put the charge
+    in a historical indictment. Q: thumma ttakhadhū l-ʿijla min baʿdi mā jāʾathumu l-bayyinātu fa-ʿafawnā
+    ʿan dhālika. Neh: ʾaf kî-ʿāśû lāhem ʿēgel massēkhāh ... wə-ʾattāh bə-raḥămêkhā hā-rabbîm lōʾ ʿăzavtām.
+    In both, the calf follows the signs and is forgiven.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1); People
+    make a molten calf while the leader is on the mountain (weight 4.7). Pair score 9.8.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
-    renamed him Abraham; People propose appointing a leader to go back to Egypt; Call to bless God ''from
-    everlasting to everlasting''; God rains bread from heaven to feed the people in the desert; Clothes
-    did not wear out and feet did not swell for forty years; God''s ordinances are those ''which a man
-    shall do and live by them''; Descendants as numerous as the stars of heaven; Drowned enemies sink
-    like a stone or like lead in mighty waters; The people assemble in fasting, sackcloth and earth on
-    their heads; ''You give life to them all'' - God sustains all creation; God gave his good spirit to
-    instruct the people in the wilderness; Heaven and the heaven of heavens belong to God; God''s acts
-    recited from the patriarchs through exodus and conquest; Recital of history as cycle of sin, oppression,
-    outcry and deliverance; The host of heaven bows down to God; Levites stand on a platform and cry out
-    to God with a loud voice; God leads the people in a pillar of cloud by day and a pillar of fire by
-    night; A quarter of the day spent reading the Torah and a quarter confessing and bowing; God made
-    known his holy Sabbath at Sinai; The seed of Israel separate themselves from all foreigners; ''We
-    are slaves today in the land you gave our fathers''; Formula of divine attributes: slow to anger,
-    abundant in mercy, visits iniquity to fourth generation; Water brought out of a rock by the leader''s
-    rod.'
+    renamed him Abraham; Call to bless God ''from everlasting to everlasting''; God''s ordinances are
+    those ''which a man shall do and live by them''; ''You give life to them all'' - God sustains all
+    creation; God gave his good spirit to instruct the people in the wilderness; Levites stand on a platform
+    and cry out to God with a loud voice; A quarter of the day spent reading the Torah and a quarter confessing
+    and bowing; God made known his holy Sabbath at Sinai; The seed of Israel separate themselves from
+    all foreigners; Drowned enemies sink like a stone or like lead in mighty waters; Closing doxology:
+    glory to your Lord, Lord of might, above what they describe; peace on the messengers; praise to God,
+    Lord of the worlds; and 16 more.'
   basis: reading
 - text: 'Only in The indictment of Israel; the Messiah not crucified but raised: Every one of the People
-    of the Book will believe in him before his (or their) death; Opponents demand a written book brought
-    down from heaven; Do not consume one another''s wealth wrongfully (bil-bāṭil), only by trade with
-    mutual consent; They did not kill the Messiah Jesus nor crucify him; Israel told to enter the town''s
-    gate prostrating and say ''hitta'' (remission); the wrongdoers change the word; God gave the rebellious
-    generation ''statutes that were not good and ordinances by which they could not live'', defiling them
-    through offering their firstborn; God sets a seal on the unbelievers'' hearts and hearing and a covering
-    over their eyes; Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing;
-    Israel demands ''show us God openly'' and is seized by the thunderbolt; God raised Jesus up to himself;
-    Jesus will be a witness against the People of the Book on resurrection day; God raises the mountain
-    (al-Tur) over Israel while taking their covenant; It was only made to appear so to them (shubbiha
-    lahum); Do not charge interest to the poor of my people; Prophet is taken up alive to heaven in a
-    whirlwind; Sabbath rest on the seventh day for all, including servants, animals and strangers; The
-    Jews'' grave slander (buhtān) against Mary; The people''s ''uncircumcised heart'' must be humbled.'
+    of the Book will believe in him before his (or their) death; They did not kill the Messiah Jesus nor
+    crucify him; Israel demands ''show us God openly'' and is seized by the thunderbolt; Jesus will be
+    a witness against the People of the Book on resurrection day; It was only made to appear so to them
+    (shubbiha lahum); The Jews'' grave slander (buhtān) against Mary; Opponents demand a written book
+    brought down from heaven; God gave the rebellious generation ''statutes that were not good and ordinances
+    by which they could not live'', defiling them through offering their firstborn; God raised Jesus up
+    to himself; God raises the mountain (al-Tur) over Israel while taking their covenant [divergence between
+    the texts]; Do not charge interest to the poor of my people [response between the texts]; A request
+    to see God, by the prophet or by the people [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

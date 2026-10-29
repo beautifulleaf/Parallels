@@ -1,9 +1,9 @@
 ---
 id: motif-hb-gen-40-prisoners-dreams-vs-quran-joseph
 title: The cupbearer's and baker's dreams ↔ Joseph in the Quran (Surah 12)
-summary: 'These two units share 6 motifs: one prisoner is restored, the other executed and his body exposed,
-  two fellow prisoners dream of pressing wine and carrying bread, birds eat bread from on top of the dreamer''s
-  head, the freed prisoner forgets the hero for years….'
+summary: 'These two units share 6 motifs: the freed prisoner forgets the hero for years, birds eat bread
+  from on top of the dreamer''s head, one prisoner is restored, the other executed and his body exposed,
+  two fellow prisoners dream of pressing wine and carrying bread….'
 status: new
 relations:
 - transmission
@@ -15,13 +15,55 @@ traditions:
 layers:
 - motif
 motifs:
+- freed-prisoner-forgets
+- birds-eat-bread-from-head
 - one-executed-one-restored
 - prisoners-dreams-wine-bread
-- birds-eat-bread-from-head
-- freed-prisoner-forgets
 - remember-me-to-king
 - interpretation-from-god
 passages:
+- tradition: judaism
+  ref: Gen 40:23
+  note: The freed prisoner forgets the hero for years
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְלֹֽא זָכַ֧ר שַֽׂר הַמַּשְׁקִ֛ים אֶת יוֹסֵ֖ף וַיִּשְׁכָּחֵֽהוּ
+- tradition: islam
+  ref: Quran 12:42
+  note: The freed prisoner forgets the hero for years (Satan made him forget; he stayed some years)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ
+    ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
+- tradition: judaism
+  ref: Gen 40:17
+  note: Birds eat bread from on top of the dreamer's head
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּבַסַּ֣ל הָֽעֶלְי֔וֹן מִכֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן
+    הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי
+- tradition: judaism
+  ref: Gen 40:19
+  note: Birds eat bread from on top of the dreamer's head
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: בְּע֣וֹד שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל
+    עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת בְּשָׂרְךָ֖ מֵעָלֶֽיךָ
+- tradition: islam
+  ref: Quran 12:36
+  note: Birds eat bread from on top of the dreamer's head
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا وَقَالَ
+    ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا
+    بِتَأْوِيلِهِۦٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
+- tradition: islam
+  ref: Quran 12:41
+  note: Birds eat bread from on top of the dreamer's head
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ
+    فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
 - tradition: judaism
   ref: Gen 40:21
   note: One prisoner is restored, the other executed and his body exposed (baker hanged on a tree)
@@ -65,48 +107,6 @@ passages:
   text: وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا وَقَالَ
     ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا
     بِتَأْوِيلِهِۦٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
-- tradition: judaism
-  ref: Gen 40:17
-  note: Birds eat bread from on top of the dreamer's head
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבַסַּ֣ל הָֽעֶלְי֔וֹן מִכֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן
-    הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי
-- tradition: judaism
-  ref: Gen 40:19
-  note: Birds eat bread from on top of the dreamer's head
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּע֣וֹד שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל
-    עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת בְּשָׂרְךָ֖ מֵעָלֶֽיךָ
-- tradition: islam
-  ref: Quran 12:36
-  note: Birds eat bread from on top of the dreamer's head
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا وَقَالَ
-    ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا
-    بِتَأْوِيلِهِۦٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
-- tradition: islam
-  ref: Quran 12:41
-  note: Birds eat bread from on top of the dreamer's head
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ
-    فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
-- tradition: judaism
-  ref: Gen 40:23
-  note: The freed prisoner forgets the hero for years
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹֽא זָכַ֧ר שַֽׂר הַמַּשְׁקִ֛ים אֶת יוֹסֵ֖ף וַיִּשְׁכָּחֵֽהוּ
-- tradition: islam
-  ref: Quran 12:42
-  note: The freed prisoner forgets the hero for years (Satan made him forget; he stayed some years)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ
-    ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
 - tradition: judaism
   ref: Gen 40:14
   note: Hero asks the freed prisoner to mention him to the king ('I was stolen from the land of the Hebrews')
@@ -152,49 +152,26 @@ passages:
     يَأْتِيَكُمَا ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ
     بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ
 evidence:
-- text: 'Shared motifs, rarest first: One prisoner is restored, the other executed and his body exposed
-    (weight 6.0); Two fellow prisoners dream of pressing wine and carrying bread (weight 6.0); Birds eat
-    bread from on top of the dreamer''s head (weight 6.0); The freed prisoner forgets the hero for years
+- text: 'Shared motifs, rarest first: The freed prisoner forgets the hero for years (weight 6.0); Birds
+    eat bread from on top of the dreamer''s head (weight 6.0); One prisoner is restored, the other executed
+    and his body exposed (weight 6.0); Two fellow prisoners dream of pressing wine and carrying bread
     (weight 6.0); Hero asks the freed prisoner to mention him to the king (weight 6.0); Hero attributes
     his dream interpretation to God (weight 5.4). Pair score 35.4.'
   basis: reading
 - text: 'Only in The cupbearer''s and baker''s dreams: On the king''s birthday feast prisoners are released
     or executed; ''Lift up your head'' means restoration for one and beheading for the other; King''s
     cupbearer and baker imprisoned for offending him; Three items in a dream (branches, baskets) signify
-    three days.'
+    three days; The freed prisoner forgets the hero for years [divergence between the texts]; Hero attributes
+    his dream interpretation to God [divergence between the texts]; Pharaoh executes or threatens offenders
+    by hanging, impaling or crucifixion.'
   basis: reading
-- text: 'Only in Joseph in the Quran (Surah 12): Foster parent says: perhaps he will benefit us, or we
-    will take him as a son; Seduction attempt when the two are alone in the house; Brothers bring the
-    hero''s garment with false blood; Hero bought by an Egyptian official; Brothers come for grain and
-    do not recognize the hero; Brothers persuade the reluctant father to send the hero with them; Brothers,
-    out of envy, plot to kill the hero; Brothers come to their father at night, weeping; Hero cast into
-    a pit or well; The king''s experts cannot interpret the dream; The freed prisoner remembers the hero
-    and recommends him; Hero demands they bring their youngest brother; God''s favor rests on the hero
-    while he is a slave or prisoner; God reassures the hero in the pit; Dream of sun, moon and eleven
-    stars bowing to the hero; Hero reveals himself to the youngest brother first; The woman falsely accuses
-    the hero of assault; The whole family moves to Egypt; Plan to store grain in the good years for the
-    famine years; The father''s eyesight fails; Father loves the hero more than his brothers; Father refuses
-    at first to send the youngest; Father revives on hearing the hero lives; Father does not believe the
-    brothers'' story; Father recognizes his son''s scent; Father warns the hero not to tell his dream
-    to his brothers; Hero''s garment becomes evidence in the seduction episode; Hero''s garment restores
-    the father''s sight; Hero placed over the land''s storehouses or the kingdom; Hero''s beauty is remarked
-    on; Hero refuses release until his innocence is established; Hero forgives his brothers; Hero thrown
-    into prison; Hero nearly yields but a sign from God stops him; Hero prays to die in submission and
-    join the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; Hero refuses, citing loyalty to his master and to God; Hero reveals his identity to his brothers;
-    Hero declares that God turned the brothers'' deed to good; King dreams of seven fat cows eaten by
-    seven lean, and seven green ears and seven dry; The husband recognizes his wife''s guilt; The master''s
-    wife tries to seduce the hero; Their payment is secretly returned in their bags; A brother offers
-    himself or another in place of the youngest; One brother talks the others out of killing him; One
-    brother stays behind in Egypt; Family prostrates before the hero, fulfilling the dream; Hero''s cup
-    is hidden in the youngest brother''s bag; A brother or the brothers give the father a pledge for the
-    youngest; A passing caravan takes the hero from the pit; Hero meets and embraces his father; Search
-    proceeds through the others'' bags before the youngest''s; Father tells the sons to enter by separate
-    gates; Hero sold for a small sum of silver; Brothers pursued and accused of theft; The brothers themselves
-    name the thief''s penalty; The wife confesses the hero''s innocence; A wild animal is blamed for the
-    hero''s death; A witness proposes judging by where the shirt is torn; Women dazzled by the hero cut
-    their hands; Women of the city gossip about the wife''s passion; A year of rain and relief follows
-    the famine.'
+- text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
+    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
+    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
+    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
+    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
+    to sin; The husband recognizes his wife''s guilt; and 51 more.'
   basis: reading
 - text: 'The cupbearer''s and baker''s dreams: tagged by Claude (model), reading the Hebrew.'
   basis: reading

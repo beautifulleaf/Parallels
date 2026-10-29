@@ -2,13 +2,15 @@
 id: motif-hb-gen-18-visitors-at-mamre-vs-quran-11-abraham-guests
 title: Three visitors at Mamre and the promise of Isaac ↔ Abraham's guests, the roasted calf and the laughing
   wife
-summary: 'These two units share 5 motifs: the old wife overhears the promise of a son at the tent door
-  and laughs, a tender calf is slaughtered and served to divine guests, god appears as three men who visit
-  the patriarch, patriarch or matriarch laughs at the promise of a child in old age….'
+summary: 'These two units share 12 motifs: when and why sarah laughs, and how it is answered [divergence
+  between the texts], who is afraid during the visit of the heavenly guests, and why [divergence between
+  the texts], who abraham''s visitors are, whether abraham''s heavenly guests eat the meal he serves [divergence
+  between the texts]….'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -16,12 +18,155 @@ traditions:
 layers:
 - motif
 motifs:
-- sarah-laughs-overhearing
+- sarahs-laughter-as-divergence
+- fear-at-the-heavenly-visitors-as-divergence
+- identity-of-abrahams-visitors
+- whether-the-heavenly-guests-eat-as-divergence
+- doubt-at-promise-of-son-in-old-age
 - calf-prepared-for-guests
+- sarah-laughs-overhearing
+- annunciation-of-son-to-barren-couple-as-divergence
+- nothing-too-hard-for-god
 - three-divine-visitors
 - patriarch-laughs-at-promise
 - hospitality-to-strangers
 passages:
+- tradition: judaism
+  ref: Gen 18:10
+  note: 'When and why Sarah laughs, and how it is answered [divergence between the texts] (The order and
+    the answer change: in Gen Sarah overhears the promise at the tent door and then laughs inwardly (wattiṣḥaq
+    śārāh bᵉqirbāh), and God rebukes her (lāmmāh zeh ṣāḥăqāh śārāh), she denies it (lōʾ ṣāḥaqtî); in Q
+    she is standing by and laughs first (wa-mraʾatuhu qāʾimatun fa-ḍaḥikat), then receives the tidings,
+    with no rebuke and no denial. ṣḥq / ḍḥk are cognate.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
+    שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
+- tradition: judaism
+  ref: Gen 18:12
+  note: 'When and why Sarah laughs, and how it is answered [divergence between the texts] (The order and
+    the answer change: in Gen Sarah overhears the promise at the tent door and then laughs inwardly (wattiṣḥaq
+    śārāh bᵉqirbāh), and God rebukes her (lāmmāh zeh ṣāḥăqāh śārāh), she denies it (lōʾ ṣāḥaqtî); in Q
+    she is standing by and laughs first (wa-mraʾatuhu qāʾimatun fa-ḍaḥikat), then receives the tidings,
+    with no rebuke and no denial. ṣḥq / ḍḥk are cognate.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
+    זָקֵֽן
+- tradition: islam
+  ref: Quran 11:71
+  note: 'When and why Sarah laughs, and how it is answered [divergence between the texts] (The order and
+    the answer change: in Gen Sarah overhears the promise at the tent door and then laughs inwardly (wattiṣḥaq
+    śārāh bᵉqirbāh), and God rebukes her (lāmmāh zeh ṣāḥăqāh śārāh), she denies it (lōʾ ṣāḥaqtî); in Q
+    she is standing by and laughs first (wa-mraʾatuhu qāʾimatun fa-ḍaḥikat), then receives the tidings,
+    with no rebuke and no denial. ṣḥq / ḍḥk are cognate.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
+- tradition: judaism
+  ref: Gen 18:15
+  note: 'Who is afraid during the visit of the heavenly guests, and why [divergence between the texts]
+    (Who is afraid and why: in Q Abraham is afraid because the guests will not eat (wa-awjasa minhum khīfatan
+    qālū lā takhaf); in Gen it is Sarah who is afraid when caught laughing (wattᵉkaḥēš śārāh lēʾmōr lōʾ
+    ṣāḥaqtî kî yārēʾāh).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתְּכַחֵ֨שׁ שָׂרָ֧ה לֵאמֹ֛ר לֹ֥א צָחַ֖קְתִּי כִּ֣י יָרֵ֑אָה וַיֹּ֥אמֶר לֹ֖א כִּ֥י צָחָֽקְתְּ
+- tradition: islam
+  ref: Quran 11:70
+  note: 'Who is afraid during the visit of the heavenly guests, and why [divergence between the texts]
+    (Who is afraid and why: in Q Abraham is afraid because the guests will not eat (wa-awjasa minhum khīfatan
+    qālū lā takhaf); in Gen it is Sarah who is afraid when caught laughing (wattᵉkaḥēš śārāh lēʾmōr lōʾ
+    ṣāḥaqtî kî yārēʾāh).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟
+    لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍ
+- tradition: judaism
+  ref: Gen 18:1
+  note: 'Who Abraham''s visitors are (Who comes: wa-la-qad jāʾat rusulunā ibrāhīma bi-l-bushrā vs wayyērāʾ
+    ʾēlāyw YHWH ... wᵉhinnēh šᵉlōšāh ʾănāšîm. Gen has YHWH himself appear in the form of three men; Q
+    has ''our messengers'', with no number and no appearance of God.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֵּרָ֤א אֵלָיו֙ יְהוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם
+- tradition: judaism
+  ref: Gen 18:2
+  note: 'Who Abraham''s visitors are (Who comes: wa-la-qad jāʾat rusulunā ibrāhīma bi-l-bushrā vs wayyērāʾ
+    ʾēlāyw YHWH ... wᵉhinnēh šᵉlōšāh ʾănāšîm. Gen has YHWH himself appear in the form of three men; Q
+    has ''our messengers'', with no number and no appearance of God.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא וַיָּ֤רָץ
+    לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה
+- tradition: islam
+  ref: Quran 11:69
+  note: 'Who Abraham''s visitors are (Who comes: wa-la-qad jāʾat rusulunā ibrāhīma bi-l-bushrā vs wayyērāʾ
+    ʾēlāyw YHWH ... wᵉhinnēh šᵉlōšāh ʾănāšîm. Gen has YHWH himself appear in the form of three men; Q
+    has ''our messengers'', with no number and no appearance of God.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ فَمَا
+    لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
+- tradition: judaism
+  ref: Gen 18:8
+  note: 'Whether Abraham''s heavenly guests eat the meal he serves [divergence between the texts] (Reversed:
+    in Gen the guests eat (wayyittēn lipnêhem wᵉhûʾ-ʿōmēd ʿălêhem taḥat hāʿēṣ wayyōʾkēlû); in Q their
+    hands do not reach the food (fa-lammā raʾā aydiyahum lā taṣilu ilayhi nakirahum). cf. Tob 12:19, Gen.
+    Rab. 48:14, b. Bava Metzia 86b (angels only seem to eat), outside the canon.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקַּ֨ח חֶמְאָ֜ה וְחָלָ֗ב וּבֶן הַבָּקָר֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיִּתֵּ֖ן לִפְנֵיהֶ֑ם וְהֽוּא עֹמֵ֧ד
+    עֲלֵיהֶ֛ם תַּ֥חַת הָעֵ֖ץ וַיֹּאכֵֽלוּ
+- tradition: islam
+  ref: Quran 11:70
+  note: 'Whether Abraham''s heavenly guests eat the meal he serves [divergence between the texts] (Reversed:
+    in Gen the guests eat (wayyittēn lipnêhem wᵉhûʾ-ʿōmēd ʿălêhem taḥat hāʿēṣ wayyōʾkēlû); in Q their
+    hands do not reach the food (fa-lammā raʾā aydiyahum lā taṣilu ilayhi nakirahum). cf. Tob 12:19, Gen.
+    Rab. 48:14, b. Bava Metzia 86b (angels only seem to eat), outside the canon.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟
+    لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍ
+- tradition: judaism
+  ref: Gen 18:12
+  note: 'Doubt voiced at the promise of a son in old age (Sarah cites her age and her husband''s: a-alidu
+    wa-ana ʿajūzun wa-hādhā baʿlī shaykhan vs ʾaḥărê bᵉlōtî hāyᵉtāh-llî ʿednāh waʾdōnî zāqēn. She calls
+    him ''my husband'' (baʿlī) in Q and ''my lord'' (ʾădōnî) in Gen; Q has the outcry yā waylatā.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
+    זָקֵֽן
+- tradition: islam
+  ref: Quran 11:72
+  note: 'Doubt voiced at the promise of a son in old age (Sarah cites her age and her husband''s: a-alidu
+    wa-ana ʿajūzun wa-hādhā baʿlī shaykhan vs ʾaḥărê bᵉlōtî hāyᵉtāh-llî ʿednāh waʾdōnî zāqēn. She calls
+    him ''my husband'' (baʿlī) in Q and ''my lord'' (ʾădōnî) in Gen; Q has the outcry yā waylatā.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَٰذَا بَعْلِى شَيْخًا إِنَّ هَٰذَا لَشَىْءٌ
+    عَجِيبٌ
+- tradition: judaism
+  ref: Gen 18:7
+  note: A tender calf is slaughtered and served to divine guests
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאֶל הַבָּקָ֖ר רָ֣ץ אַבְרָהָ֑ם וַיִּקַּ֨ח בֶּן בָּקָ֜ר רַ֤ךְ וָטוֹב֙ וַיִּתֵּ֣ן אֶל הַנַּ֔עַר
+    וַיְמַהֵ֖ר לַעֲשׂ֥וֹת אֹתֽוֹ
+- tradition: judaism
+  ref: Gen 18:8
+  note: A tender calf is slaughtered and served to divine guests
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקַּ֨ח חֶמְאָ֜ה וְחָלָ֗ב וּבֶן הַבָּקָר֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיִּתֵּ֖ן לִפְנֵיהֶ֑ם וְהֽוּא עֹמֵ֧ד
+    עֲלֵיהֶ֛ם תַּ֥חַת הָעֵ֖ץ וַיֹּאכֵֽלוּ
+- tradition: islam
+  ref: Quran 11:69
+  note: A tender calf is slaughtered and served to divine guests ('ijl hanidh, roasted)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ فَمَا
+    لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
 - tradition: judaism
   ref: Gen 18:10
   note: The old wife overhears the promise of a son at the tent door and laughs
@@ -44,19 +189,48 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
 - tradition: judaism
-  ref: Gen 18:7
-  note: A tender calf is slaughtered and served to divine guests
+  ref: Gen 18:10
+  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (The promise
+    of a son: fa-basharnāhā bi-isḥāqa wa-min warāʾi isḥāqa yaʿqūb vs šôb ʾāšûb ʾēlêkā kāʿēt ḥayyāh wᵉhinnēh-bēn
+    lᵉśārāh ʾištekā. It is said to Sarah directly in Q, to Abraham in Gen (Sarah only overhears); Q names
+    Isaac and adds Jacob after him; Gen names no child here and adds a date (lammôʿēd ... kāʿēt ḥayyāh).)'
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל הַבָּקָ֖ר רָ֣ץ אַבְרָהָ֑ם וַיִּקַּ֨ח בֶּן בָּקָ֜ר רַ֤ךְ וָטוֹב֙ וַיִּתֵּ֣ן אֶל הַנַּ֔עַר
-    וַיְמַהֵ֖ר לַעֲשׂ֥וֹת אֹתֽוֹ
+  text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
+    שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
+- tradition: judaism
+  ref: Gen 18:14
+  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (The promise
+    of a son: fa-basharnāhā bi-isḥāqa wa-min warāʾi isḥāqa yaʿqūb vs šôb ʾāšûb ʾēlêkā kāʿēt ḥayyāh wᵉhinnēh-bēn
+    lᵉśārāh ʾištekā. It is said to Sarah directly in Q, to Abraham in Gen (Sarah only overhears); Q names
+    Isaac and adds Jacob after him; Gen names no child here and adds a date (lammôʿēd ... kāʿēt ḥayyāh).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הֲיִפָּלֵ֥א מֵיְהוָ֖ה דָּבָ֑ר לַמּוֹעֵ֞ד אָשׁ֥וּב אֵלֶ֛יךָ כָּעֵ֥ת חַיָּ֖ה וּלְשָׂרָ֥ה בֵֽן
 - tradition: islam
-  ref: Quran 11:69
-  note: A tender calf is slaughtered and served to divine guests ('ijl hanidh, roasted)
+  ref: Quran 11:71
+  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (The promise
+    of a son: fa-basharnāhā bi-isḥāqa wa-min warāʾi isḥāqa yaʿqūb vs šôb ʾāšûb ʾēlêkā kāʿēt ḥayyāh wᵉhinnēh-bēn
+    lᵉśārāh ʾištekā. It is said to Sarah directly in Q, to Abraham in Gen (Sarah only overhears); Q names
+    Isaac and adds Jacob after him; Gen names no child here and adds a date (lammôʿēd ... kāʿēt ḥayyāh).)'
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ فَمَا
-    لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
+  text: وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
+- tradition: judaism
+  ref: Gen 18:14
+  note: '''Is anything too wondrous for the LORD?'''
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הֲיִפָּלֵ֥א מֵיְהוָ֖ה דָּבָ֑ר לַמּוֹעֵ֞ד אָשׁ֥וּב אֵלֶ֛יךָ כָּעֵ֥ת חַיָּ֖ה וּלְשָׂרָ֥ה בֵֽן
+- tradition: islam
+  ref: Quran 11:73
+  note: '''Is anything too wondrous for the LORD?'' (The answer to her doubt turns on wonder: a-taʿjabīna
+    min amri llāh vs hăyippālēʾ mēYHWH dābār (ʿajab ~ pele''). Q adds a blessing on the household (raḥmatu
+    llāhi wa-barakātuhu ʿalaykum ahla l-bayt).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ
+    ٱلْبَيْتِ إِنَّهُۥ حَمِيدٌ مَّجِيدٌ
 - tradition: judaism
   ref: Gen 18:1
   note: God appears as three men who visit the patriarch (YHWH appears; Abraham sees three men)
@@ -77,63 +251,56 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ فَمَا
     لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
-- tradition: judaism
-  ref: Gen 18:12
-  note: Patriarch or matriarch laughs at the promise of a child in old age
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 11:71
-  note: Patriarch or matriarch laughs at the promise of a child in old age
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
-- tradition: islam
-  ref: Quran 11:72
-  note: Patriarch or matriarch laughs at the promise of a child in old age
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَٰذَا بَعْلِى شَيْخًا إِنَّ هَٰذَا لَشَىْءٌ
-    عَجِيبٌ
-- tradition: judaism
-  ref: Gen 18:2
-  note: Host runs to welcome strangers, washes their feet and feeds them (three seahs of fine flour)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא וַיָּ֤רָץ
-    לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה
-- tradition: judaism
-  ref: Gen 18:3
-  note: Host runs to welcome strangers, washes their feet and feeds them (three seahs of fine flour)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֑ר אֲדֹנָ֗י אִם נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ אַל נָ֥א תַעֲבֹ֖ר מֵעַ֥ל עַבְדֶּֽךָ
-- tradition: islam
-  ref: Quran 11:69
-  note: Host runs to welcome strangers, washes their feet and feeds them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ فَمَا
-    لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
 evidence:
-- text: 'Shared motifs, rarest first: The old wife overhears the promise of a son at the tent door and
-    laughs (weight 6.3); A tender calf is slaughtered and served to divine guests (weight 6.3); God appears
-    as three men who visit the patriarch (weight 5.8); Patriarch or matriarch laughs at the promise of
-    a child in old age (weight 5.6); Host runs to welcome strangers, washes their feet and feeds them
-    (weight 5.1). Pair score 29.0.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    divergence, parallel. Who comes: wa-la-qad jāʾat rusulunā ibrāhīma bi-l-bushrā vs wayyērāʾ ʾēlāyw
+    YHWH ... wᵉhinnēh šᵉlōšāh ʾănāšîm. Gen has YHWH himself appear in the form of three men; Q has ''our
+    messengers'', with no number and no appearance of God. Abraham at once brings a calf: fa-mā labitha
+    an jāʾa bi-ʿijlin ḥanīdh (roasted) vs ʾel-habbāqār rāṣ ʾabrāhām wayyiqqaḥ ben-bāqār rak wāṭôb ...
+    wayᵉmahēr (both stress haste). Q has no foot-washing, cakes, curds or milk. Reversed: in Gen the guests
+    eat (wayyittēn lipnêhem wᵉhûʾ-ʿōmēd ʿălêhem taḥat hāʿēṣ wayyōʾkēlû); in Q their hands do not reach
+    the food (fa-lammā raʾā aydiyahum lā taṣilu ilayhi nakirahum). cf. Tob 12:19, Gen. Rab. 48:14, b.
+    Bava Metzia 86b (angels only seem to eat), outside the canon. Who is afraid and why: in Q Abraham
+    is afraid because the guests will not eat (wa-awjasa minhum khīfatan qālū lā takhaf); in Gen it is
+    Sarah who is afraid when caught laughing (wattᵉkaḥēš śārāh lēʾmōr lōʾ ṣāḥaqtî kî yārēʾāh). The order
+    and the answer change: in Gen Sarah overhears the promise at the tent door and then laughs inwardly
+    (wattiṣḥaq śārāh bᵉqirbāh), and God rebukes her (lāmmāh zeh ṣāḥăqāh śārāh), she denies it (lōʾ ṣāḥaqtî);
+    in Q she is standing by and laughs first (wa-mraʾatuhu qāʾimatun fa-ḍaḥikat), then receives the tidings,
+    with no rebuke and no denial. ṣḥq / ḍḥk are cognate. The promise of a son: fa-basharnāhā bi-isḥāqa
+    wa-min warāʾi isḥāqa yaʿqūb vs šôb ʾāšûb ʾēlêkā kāʿēt ḥayyāh wᵉhinnēh-bēn lᵉśārāh ʾištekā. It is said
+    to Sarah directly in Q, to Abraham in Gen (Sarah only overhears); Q names Isaac and adds Jacob after
+    him; Gen names no child here and adds a date (lammôʿēd ... kāʿēt ḥayyāh).'
   basis: reading
-- text: 'Only in Three visitors at Mamre and the promise of Isaac: A divine messenger announces a son''s
-    birth and gives his name; Child promised to a woman past childbearing age; Heavenly visitors eat a
-    human meal; ''Is anything too wondrous for the LORD?''; Sacred oak or terebinth marks a sanctuary
-    site (Moreh, Mamre).'
+- text: Passages are shown for the 10 rarest of 12 shared motifs; the full list follows.
+  basis: reading
+- text: 'Shared motifs, rarest first: When and why Sarah laughs, and how it is answered [divergence between
+    the texts] (weight 6.7); Who is afraid during the visit of the heavenly guests, and why [divergence
+    between the texts] (weight 6.7); Who Abraham''s visitors are (weight 6.7); Whether Abraham''s heavenly
+    guests eat the meal he serves [divergence between the texts] (weight 6.7); Doubt voiced at the promise
+    of a son in old age (weight 6.7); A tender calf is slaughtered and served to divine guests (weight
+    6.3); The old wife overhears the promise of a son at the tent door and laughs (weight 6.3); A divine
+    messenger announces a son to a barren couple [divergence between the texts] (weight 6.0); ''Is anything
+    too wondrous for the LORD?'' (weight 6.0); God appears as three men who visit the patriarch (weight
+    5.8); Patriarch or matriarch laughs at the promise of a child in old age (weight 5.6); Host runs to
+    welcome strangers, washes their feet and feeds them (weight 5.1). Pair score 74.5.'
+  basis: reading
+- text: 'Only in Three visitors at Mamre and the promise of Isaac: Child promised to a woman past childbearing
+    age; The answer given to the old woman''s doubt [divergence between the texts]; Heavenly visitors
+    eat a human meal; Doubt voiced at the promise of a son in old age [divergence between the texts];
+    The aged father asks how he can have a son when his wife is barren and he is very old [divergence
+    between the texts]; Host runs to welcome strangers, washes their feet and feeds them [divergence between
+    the texts]; Who Abraham''s visitors are [divergence between the texts]; The patriarch tells his unknown
+    guests ''we are afraid of you'' [divergence between the texts]; Patriarch or matriarch laughs at the
+    promise of a child in old age [divergence between the texts]; Sarah''s reaction to the announcement
+    of a son [divergence between the texts]; Whether Abraham''s heavenly guests eat the meal [divergence
+    between the texts]; Sacred oak or terebinth marks a sanctuary site (Moreh, Mamre); and 1 more.'
   basis: reading
 - text: 'Only in Abraham''s guests, the roasted calf and the laughing wife: Abraham is forbearing, sighing
-    (awwah) and penitent; Hero bargains with God to spare a city for the sake of a few righteous (50 down
-    to 10); Promised son born to aged parents at the appointed time; Abraham''s angelic guests do not
-    stretch their hands to the food, and he is afraid; The annunciation names Isaac ''and after Isaac,
-    Jacob''.'
+    (awwah) and penitent; Abraham''s angelic guests do not stretch their hands to the food, and he is
+    afraid; The annunciation names Isaac ''and after Isaac, Jacob''; Promised son born to aged parents
+    at the appointed time; How Abraham learns of Sodom''s fate, and his response; How God answers Abraham''s
+    plea for the people of Sodom [divergence between the texts]; When and why Sarah laughs, and how it
+    is answered; Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10).'
   basis: reading
 - text: 'Three visitors at Mamre and the promise of Isaac: tagged by Claude (model), reading the Hebrew.'
   basis: reading

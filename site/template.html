@@ -197,8 +197,19 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
 
 <script id="data" type="application/json">__DATA__</script>
 <script>
-(function () {
+(async function () {
   const DATA = JSON.parse(document.getElementById("data").textContent);
+  if (DATA.parts) {   // large ledgers ship their leads as separate files next to the page
+    try {
+      DATA.leads = (await Promise.all(DATA.parts.map(p => fetch(p).then(r => {
+        if (!r.ok) throw new Error(p + ": " + r.status);
+        return r.json();
+      })))).flat();
+    } catch (e) {
+      document.getElementById("count").textContent = "Could not load the leads (" + e.message + ").";
+      return;
+    }
+  }
   const TRAD = Object.fromEntries(DATA.traditions.map(t => [t.id, t]));
   const ORDER = {
     relations: ["internal", "inheritance", "transmission", "convergence", "response"],

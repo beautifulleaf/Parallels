@@ -37,6 +37,12 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
+- tradition: islam
+  ref: Quran 37:85
+  note: Hero smashes or burns idols
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
 - tradition: judaism
   ref: 'Abraham burns the house of idols (Jubilees 12): 12:1–8'
   note: Hero's father makes, sells or worships idols
@@ -46,6 +52,12 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+- tradition: islam
+  ref: Quran 37:86
+  note: Hero's father makes, sells or worships idols
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
 evidence:
 - text: 'Shared motifs, rarest first: Hero reasons from the stars, moon and sun to the one God (weight
     5.8); Hero smashes or burns idols (weight 5.6); Hero''s father makes, sells or worships idols (weight

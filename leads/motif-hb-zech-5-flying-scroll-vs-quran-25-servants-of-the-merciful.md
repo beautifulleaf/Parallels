@@ -1,0 +1,81 @@
+---
+id: motif-hb-zech-5-flying-scroll-vs-quran-25-servants-of-the-merciful
+title: Sixth vision, the flying scroll ↔ The virtues of the servants of the Merciful
+summary: 'These two units share 1 motifs: prohibitions of murder, adultery, theft and false witness.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- prohibition-murder-adultery-theft-false-witness
+passages:
+- tradition: judaism
+  ref: Zech 5:3
+  note: Prohibitions of murder, adultery, theft and false witness (theft and false oath, one from each
+    tablet in rabbinic reading)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֣אמֶר אֵלַ֔י זֹ֚את הָֽאָלָ֔ה הַיּוֹצֵ֖את עַל פְּנֵ֣י כָל הָאָ֑רֶץ כִּ֣י כָל הַגֹּנֵ֗ב מִזֶּה֙
+    כָּמ֣וֹהָ נִקָּ֔ה וְכָל הַנִּ֨שְׁבָּ֔ע מִזֶּ֖ה כָּמ֥וֹהָ נִקָּֽה
+- tradition: judaism
+  ref: Zech 5:4
+  note: Prohibitions of murder, adultery, theft and false witness (theft and false oath, one from each
+    tablet in rabbinic reading)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הוֹצֵאתִ֗יהָ נְאֻם֙ יְהוָ֣ה צְבָא֔וֹת וּבָ֨אָה֙ אֶל בֵּ֣ית הַגַּנָּ֔ב וְאֶל בֵּ֛ית הַנִּשְׁבָּ֥ע
+    בִּשְׁמִ֖י לַשָּׁ֑קֶר וְלָ֨נֶה֙ בְּת֣וֹךְ בֵּית֔וֹ וְכִלַּ֖תּוּ וְאֶת עֵצָ֥יו וְאֶת אֲבָנָֽיו
+- tradition: islam
+  ref: Quran 25:68
+  note: Prohibitions of murder, adultery, theft and false witness (no other god, no killing except by
+    right, no fornication; they do not witness falsehood (al-zūr))
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
+    ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
+- tradition: islam
+  ref: Quran 25:72
+  note: Prohibitions of murder, adultery, theft and false witness (no other god, no killing except by
+    right, no fornication; they do not witness falsehood (al-zūr))
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    echo. lā yashhadūna z-zūra ~ wə-ʾel bêt han-nišbāʿ bi-šmî laš-šāqer: false testimony or oath; Zechariah''s
+    flying curse destroys the false swearer''s house, the Quran''s servants keep away from falsehood.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness (weight
+    5.1). Pair score 5.1.'
+  basis: reading
+- text: 'Only in Sixth vision, the flying scroll: A curse goes out over the land, enters the house of
+    the thief and the false swearer, lodges there and consumes its timber and stones; A huge flying scroll,
+    twenty by ten cubits, is seen in a vision.'
+  basis: reading
+- text: 'Only in The virtues of the servants of the Merciful: For the repentant God changes their evil
+    deeds into good deeds; Prayer: grant us from our spouses and offspring the comfort of our eyes; When
+    they spend they are neither extravagant nor stingy, but in between; The righteous spend the night
+    prostrating and standing before their Lord; The righteous are rewarded with the lofty chamber (al-ghurfa)
+    and greeted with peace; The servants of the Merciful walk humbly on the earth and answer the ignorant
+    with ''Peace''; Though sins be like scarlet they shall be white as snow; though red as crimson, like
+    wool; Your wife a fruitful vine in the recesses of your house, your children like olive shoots around
+    your table; Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool
+    according to his folly''; What God requires: to do justice, love hesed and walk humbly with your God;
+    Prohibitions of murder, adultery, theft and false witness [divergence between the texts].'
+  basis: reading
+- text: 'Sixth vision, the flying scroll: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The virtues of the servants of the Merciful: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

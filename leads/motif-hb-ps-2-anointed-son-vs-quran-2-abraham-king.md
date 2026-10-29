@@ -1,0 +1,81 @@
+---
+id: motif-hb-ps-2-anointed-son-vs-quran-2-abraham-king
+title: Psalm 2 - the nations rage; the king as God's son ↔ Abraham disputes with the king
+summary: 'These two units share 1 motifs: nations and kings of the earth conspire against yhwh and his
+  anointed (mashiah).'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- nations-rage-against-anointed
+passages:
+- tradition: judaism
+  ref: Ps 2:1-3
+  note: Nations and kings of the earth conspire against YHWH and his anointed (mashiah) ('let us burst
+    their bonds')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (2:1) לָ֭מָּה רָגְשׁ֣וּ גוֹיִ֑ם וּ֝לְאֻמִּ֗ים יֶהְגּוּ רִֽיק (2:2) יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ
+    וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ (2:3) נְֽ֭נַתְּקָה אֶת מֽוֹסְרוֹתֵ֑ימוֹ
+    וְנַשְׁלִ֖יכָה מִמֶּ֣נּוּ עֲבֹתֵֽימוֹ
+- tradition: judaism
+  ref: Ps 2:2
+  note: Nations and kings of the earth conspire against YHWH and his anointed (mashiah) ('let us burst
+    their bonds')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
+- tradition: islam
+  ref: Quran 2:258
+  note: 'Nations and kings of the earth conspire against YHWH and his anointed (mashiah) (Ps 2:2 yityaṣṣĕbû
+    malkê ʾereṣ ... ʿal YHWH wĕ-ʿal mĕšîḥô: kings take their stand against YHWH; Q 2:258 alladhī ḥājja
+    ibrāhīma fī rabbihi: a king argues with Abraham about his Lord. Weak: a king set against God in both.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ
+    إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ قَالَ إِبْرَٰهِۦمُ
+    فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى
+    كَفَرَ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    echo. Ps 2:2 yityaṣṣĕbû malkê ʾereṣ ... ʿal YHWH wĕ-ʿal mĕšîḥô: kings take their stand against YHWH;
+    Q 2:258 alladhī ḥājja ibrāhīma fī rabbihi: a king argues with Abraham about his Lord. Weak: a king
+    set against God in both.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Nations and kings of the earth conspire against YHWH and his anointed
+    (mashiah) (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Psalm 2 - the nations rage; the king as God''s son: God gives the king the nations as
+    inheritance and the ends of the earth as possession; God tells the king ''You are my son; today I
+    have begotten you''; God installs his king on Zion, his holy mountain; Rulers told to serve God with
+    trembling and ''kiss the son'' (nashqu bar); Happy are all who take refuge (hosim) in God; The king
+    will break the nations with a rod of iron and shatter them like a potter''s vessel; Whether God has
+    a son, or calls his anointed king his begotten son [response between the texts]; Whether God has or
+    begets a son [contrast between the texts]; God does not beget and was not begotten [contrast between
+    the texts]; They say ''al-Rahman has taken a son''; it is not fitting for the Merciful [response between
+    the texts]; Whether God has, begets or takes sons or other offspring [contrast between the texts];
+    God in heaven laughs at and mocks those who plot against him or the righteous; and 1 more.'
+  basis: reading
+- text: 'Only in Abraham disputes with the king: Abraham challenges the king: God brings the sun from
+    the east, so bring it from the west; the king is confounded; Abraham disputes with a king, who claims
+    ''I give life and death''; Who has power to give life and death [contrast between the texts]; Who
+    has power to give life and death [divergence between the texts]; I kill and I make alive, I wound
+    and I heal; there is no god beside me.'
+  basis: reading
+- text: 'Psalm 2 - the nations rage; the king as God''s son: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Abraham disputes with the king: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

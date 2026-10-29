@@ -1,0 +1,81 @@
+---
+id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-6-mercy-judgment
+title: New tablets, the attributes of mercy and the ritual decalogue ↔ Mercy written on himself; the idolaters'
+  denial at the gathering
+summary: 'These two units share 1 motifs: god has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma).'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- god-wrote-mercy-on-himself
+passages:
+- tradition: judaism
+  ref: Exod 34:6
+  note: 'God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma) (God declares his own mercy
+    about himself. Q: kataba ʿalā nafsihi l-raḥmata, mercy prescribed by God for himself. Exod: wa-yyiqrāʾ
+    YHWH YHWH ʾēl raḥûm wə-ḥannûn, God proclaiming his merciful name. Both use the root r-ḥ-m (raḥma /
+    raḥûm).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּעֲבֹ֨ר יְהוָ֥ה עַל פָּנָיו֮ וַיִּקְרָא֒ יְהוָ֣ה יְהוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן אֶ֥רֶךְ אַפַּ֖יִם
+    וְרַב חֶ֥סֶד וֶאֱמֶֽת
+- tradition: islam
+  ref: Quran 6:12
+  note: God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُل لِّمَن مَّا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُل لِّلَّهِ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ
+    لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ
+    لَا يُؤْمِنُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    echo. God declares his own mercy about himself. Q: kataba ʿalā nafsihi l-raḥmata, mercy prescribed
+    by God for himself. Exod: wa-yyiqrāʾ YHWH YHWH ʾēl raḥûm wə-ḥannûn, God proclaiming his merciful name.
+    Both use the root r-ḥ-m (raḥma / raḥûm).'
+  basis: reading
+- text: 'Shared motifs, rarest first: God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma)
+    (weight 6.3). Pair score 6.3.'
+  basis: reading
+- text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
+    covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
+    time; Call to the People of the Book to a common word: worship none but God and take none as lords
+    besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
+    down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
+    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
+    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
+    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
+    a snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
+    appear before God empty-handed; and 21 more.'
+  basis: reading
+- text: 'Only in Mercy written on himself; the idolaters'' denial at the gathering: On the day of the
+    Hour they carry their burdens (awzār) on their backs; Standing before the fire the damned wish to
+    be sent back; were they sent back they would return to sin; Unbelievers say there is only this worldly
+    life and no raising; God feeds and is not fed; The idolaters swear ''by God our Lord, we were not
+    idolaters''; The Prophet is commanded to be the first of those who submit (awwal al-muslimīn); The
+    People of the Book recognize the truth as they recognize their own sons; Prophet commissioned to make
+    the people''s heart fat, ears heavy and eyes shut lest they understand and be healed [divergence between
+    the texts]; On judgment day God asks ''Where are my partners for whom you contended?''; The life of
+    this world is only play and diversion; the last abode is better; God does not need sacrifices: ''If
+    I were hungry I would not tell you... Do I eat the flesh of bulls or drink the blood of goats?'';
+    God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help; and 2
+    more.'
+  basis: reading
+- text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Mercy written on himself; the idolaters'' denial at the gathering: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

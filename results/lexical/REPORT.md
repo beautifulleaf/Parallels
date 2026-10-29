@@ -227,8 +227,8 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 9.3e-01 | בְּנָא *bᵉnâʼ* “to build” (H1124) | Daniel (Aramaic court tales and vision) (1) + Ezra's Aramaic letters and decrees (18) | 19 |
 | 9.4e-01 | רַב *rab* “abundant” (H7229) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
 | 9.4e-01 | אָתָה *ʼâthâh* “to arrive” (H858) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
-| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
 | 9.4e-01 | עָלַם *ʻâlam* “remote time, i.e. the future or past indefinitely” (H5957) | Daniel (Aramaic court tales and vision) (13) + Ezra's Aramaic letters and decrees (2) | 15 |
+| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
 | 9.4e-01 | יוֹם *yôwm* “a day” (H3118) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
 | 9.5e-01 | חַד *chad* “as card. one” (H2298) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (4) | 14 |
 | 9.5e-01 | שְׁלַח *shᵉlach* “to send away, for, or out (in a great variety of applications)” (H7972) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (10) | 14 |

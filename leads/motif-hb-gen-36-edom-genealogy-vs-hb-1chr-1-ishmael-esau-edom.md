@@ -2,10 +2,10 @@
 id: motif-hb-gen-36-edom-genealogy-vs-hb-1chr-1-ishmael-esau-edom
 title: Generations of Esau, Horite chiefs, kings of Edom ↔ Sons of Ishmael, Keturah and Esau; the Seirite
   chiefs and kings of Edom
-summary: 'These two units share 6 motifs: a queen''s ancestry includes a figure named ''waters of gold''
-  (me-zahav), lists of tribal chiefs (allufim) of edom and the horites, king list in which each successor
-  comes from a different city, not the son of his predecessor, list of kings who reigned ''before any
-  king reigned over the israelites''….'
+summary: 'These two units share 6 motifs: list of kings who reigned ''before any king reigned over the
+  israelites'', a queen''s ancestry includes a figure named ''waters of gold'' (me-zahav), lists of tribal
+  chiefs (allufim) of edom and the horites, king list in which each successor comes from a different city,
+  not the son of his predecessor….'
 status: new
 relations:
 - internal
@@ -15,13 +15,26 @@ traditions:
 layers:
 - motif
 motifs:
+- kings-before-israel-had-a-king
 - water-of-gold-name
 - chiefs-alluf-lists
 - non-dynastic-king-list
-- kings-before-israel-had-a-king
 - bela-son-of-beor-king
 - primeval-giant-peoples
 passages:
+- tradition: judaism
+  ref: Gen 36:31
+  note: List of kings who reigned 'before any king reigned over the Israelites' (anachronism formula)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאֵ֨לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלָךְ מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל
+- tradition: judaism
+  ref: 1Chr 1:43
+  note: List of kings who reigned 'before any king reigned over the Israelites'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאֵ֣לֶּה הַמְּלָכִ֗ים אֲשֶׁ֤ר מָלְכוּ֙ בְּאֶ֣רֶץ אֱד֔וֹם לִפְנֵ֥י מְלָךְ מֶ֖לֶךְ לִבְנֵ֣י יִשְׂרָאֵ֑ל
+    בֶּ֚לַע בֶּן בְּע֔וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה
 - tradition: judaism
   ref: Gen 36:39
   note: A queen's ancestry includes a figure named 'Waters of Gold' (Me-Zahav) (Mehetabel daughter of
@@ -91,19 +104,6 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיָּ֖מָת יוֹבָ֑ב וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו חוּשָׁ֖ם מֵאֶ֥רֶץ הַתֵּימָנִֽי
 - tradition: judaism
-  ref: Gen 36:31
-  note: List of kings who reigned 'before any king reigned over the Israelites' (anachronism formula)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֵ֨לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלָךְ מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: 1Chr 1:43
-  note: List of kings who reigned 'before any king reigned over the Israelites'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֵ֣לֶּה הַמְּלָכִ֗ים אֲשֶׁ֤ר מָלְכוּ֙ בְּאֶ֣רֶץ אֱד֔וֹם לִפְנֵ֥י מְלָךְ מֶ֖לֶךְ לִבְנֵ֣י יִשְׂרָאֵ֑ל
-    בֶּ֚לַע בֶּן בְּע֔וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה
-- tradition: judaism
   ref: Gen 36:32
   note: First king of Edom is Bela son of Beor (name recalling Balaam son of Beor) (name echoes Balaam
     son of Beor)
@@ -130,21 +130,21 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וּבְנֵ֣י שֵׂעִ֔יר לוֹטָ֥ן וְשׁוֹבָ֖ל וְצִבְע֣וֹן וַֽעֲנָ֑ה וְדִישֹׁ֥ן וְאֵ֖צֶר וְדִישָֽׁן
 evidence:
-- text: 'Shared motifs, rarest first: A queen''s ancestry includes a figure named ''Waters of Gold'' (Me-Zahav)
-    (weight 6.7); Lists of tribal chiefs (allufim) of Edom and the Horites (weight 6.7); King list in
-    which each successor comes from a different city, not the son of his predecessor (weight 6.7); List
-    of kings who reigned ''before any king reigned over the Israelites'' (weight 6.7); First king of Edom
-    is Bela son of Beor (name recalling Balaam son of Beor) (weight 6.7); Ancient giant or Rephaite peoples
-    (Rephaim, Zuzim, Emim, Horites) defeated (weight 5.1). Pair score 38.5.'
+- text: 'Shared motifs, rarest first: List of kings who reigned ''before any king reigned over the Israelites''
+    (weight 6.7); A queen''s ancestry includes a figure named ''Waters of Gold'' (Me-Zahav) (weight 6.7);
+    Lists of tribal chiefs (allufim) of Edom and the Horites (weight 6.7); King list in which each successor
+    comes from a different city, not the son of his predecessor (weight 6.7); First king of Edom is Bela
+    son of Beor (name recalling Balaam son of Beor) (weight 6.7); Ancient giant or Rephaite peoples (Rephaim,
+    Zuzim, Emim, Horites) defeated (weight 5.1). Pair score 38.5.'
   basis: reading
 - text: 'Only in Generations of Esau, Horite chiefs, kings of Edom: Amalek''s ancestor is born to a concubine
     in Esau''s line; Brothers separate because the land cannot support both their herds; While herding
     his father''s asses, a man discovers ''the yemim'' in the wilderness (hot springs or mules).'
   basis: reading
-- text: 'Only in Sons of Ishmael, Keturah and Esau; the Seirite chiefs and kings of Edom: A lone daughter
-    is named in a male genealogy (Dinah, Serah); Ishmael promised to father twelve princes and a great
-    nation; Ishmael''s twelve sons as Arabian tribes (Nebaioth, Kedar, Dumah, Tema...); Abraham''s sons
-    by the concubine Keturah (Midian, Sheba, Dedan...).'
+- text: 'Only in Sons of Ishmael, Keturah and Esau; the Seirite chiefs and kings of Edom: Abraham''s sons
+    by the concubine Keturah (Midian, Sheba, Dedan...); Ishmael promised to father twelve princes and
+    a great nation; Ishmael''s twelve sons as Arabian tribes (Nebaioth, Kedar, Dumah, Tema...); A lone
+    daughter is named in a male genealogy (Dinah, Serah).'
   basis: reading
 - text: 'Generations of Esau, Horite chiefs, kings of Edom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -1,0 +1,64 @@
+---
+id: motif-hb-ps-1-two-ways-vs-quran-105-elephant
+title: Psalm 1 - the two ways ↔ The companions of the elephant
+summary: 'These two units share 1 motifs: the wicked are like chaff driven by the wind.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- wicked-as-chaff
+passages:
+- tradition: judaism
+  ref: Ps 1:4
+  note: The wicked are like chaff driven by the wind
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹא כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם כַּ֝מֹּ֗ץ אֲֽשֶׁר תִּדְּפֶ֥נּוּ רֽוּחַ
+- tradition: islam
+  ref: Quran 105:5
+  note: The wicked are like chaff driven by the wind ('like devoured straw/leaves ('asf ma'kul)')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    echo. fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ kî ʾim ka-mmōṣ ʾăšer tiddefennû rûaḥ.'
+  basis: reading
+- text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.6). Pair
+    score 5.6.'
+  basis: reading
+- text: 'Only in Psalm 1 - the two ways: The deeds of unbelievers are like ashes blown by the wind on
+    a stormy day; The righteous man is like a tree planted by streams of water, bearing fruit in season,
+    leaf never withering [divergence between the texts]; Contrast of the way of the righteous, which God
+    knows, and the way of the wicked, which perishes [divergence between the texts]; Do not sit with those
+    who plunge into mockery of God''s signs until they change the subject; The righteous man is like a
+    tree planted by streams of water, bearing fruit in season, leaf never withering; Meditate on the book
+    of the Torah day and night; it shall not depart from your mouth; Contrast of the way of the righteous,
+    which God knows, and the way of the wicked, which perishes; Beatitude formula ''Happy (ashrei) is
+    the man who...''; I set before you life and death, blessing and curse: choose life.'
+  basis: reading
+- text: 'Only in The companions of the elephant: God sends birds in flocks (tayran ababil) that pelt an
+    army with stones of baked clay (sijjil), leaving them like devoured straw; God''s action against the
+    companions of the elephant (ashab al-fil), whose plot he made go astray; The angel of YHWH strikes
+    185,000 in the enemy camp in one night; at dawn all are corpses [divergence between the texts]; God
+    defends the city for his own sake and for the sake of David his servant [divergence between the texts];
+    God defends the city for his own sake and for the sake of David his servant; God casts great hailstones
+    from heaven, killing more than the sword.'
+  basis: reading
+- text: 'Psalm 1 - the two ways: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The companions of the elephant: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

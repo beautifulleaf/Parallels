@@ -6,8 +6,8 @@ summary: 'These two units share 1 motifs: liability for one''s grazing animals o
   another''s field.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -40,23 +40,33 @@ passages:
   text: وَدَاوُۥدَ وَسُلَيْمَٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ وَكُنَّا
     لِحُكْمِهِمْ شَٰهِدِينَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    parallel. kî yabʿer-ʾîš śādeh ʾô-kerem wəšillaḥ ʾet-bəʿîrô ûbiʿēr biśdēh ʾaḥēr mêṭab śādēhû ... yəšallēm;
+    idh yaḥkumāni fī l-ḥarthi idh nafashat fīhi ghanamu l-qawm: a flock straying into another''s field
+    and the owner''s liability. Exod states a general law of compensation; Q tells it as a case judged
+    by David and Solomon.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Liability for one''s grazing animals or spreading fire damaging
     another''s field (weight 6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in Covenant Code - theft, deposits, seduction: Liability for a borrowed animal that dies
     when the owner is absent; A dispute over deposited goods is brought before God (ha-elohim) for decision;
     A thief pays double; Killing a burglar caught breaking in at night incurs no bloodguilt, but by day
-    it does; An oath by YHWH settles a dispute without witnesses; A man who seduces an unbetrothed virgin
-    must marry her or pay the bride-price; A thief who cannot pay is sold for his theft; A herdsman brings
-    the remains of a torn animal as evidence and is not liable.'
+    it does; An oath by YHWH settles a dispute without witnesses; A thief who cannot pay is sold for his
+    theft; A herdsman brings the remains of a torn animal as evidence and is not liable; A man who seduces
+    an unbetrothed virgin must marry her or pay the bride-price; Who receives the marriage payment [divergence
+    between the texts]; The penalty prescribed for theft [contrast between the texts].'
   basis: reading
 - text: 'Only in Noah answered; David and Solomon''s judgment, the praising mountains, mail and wind:
-    God taught David the craft of making coats of mail; Devils (shayāṭīn) and jinn labor for Solomon,
-    diving and building; The people see that divine wisdom is in the king to do justice; Hero''s family
-    saved with him; Hero asks the deity to judge or destroy his opponents; Mountains and birds are made
-    to glorify God together with David; David and Solomon judge a case of sheep that strayed by night
-    into a field; Solomon is given the right understanding; All others perish; The stormy wind is subjected
-    to Solomon, blowing at his command.'
+    David and Solomon judge a case of sheep that strayed by night into a field; Solomon is given the right
+    understanding; God taught David the craft of making coats of mail [contrast between the texts]; The
+    people see that divine wisdom is in the king to do justice; The people see that divine wisdom is in
+    the king to do justice [divergence between the texts]; Mountains and birds are made to glorify God
+    together with David [divergence between the texts]; God taught David the craft of making coats of
+    mail; Hero asks the deity to judge or destroy his opponents [divergence between the texts]; The stormy
+    wind is subjected to Solomon, blowing at his command; Mountains and birds are made to glorify God
+    together with David; Devils (shayāṭīn) and jinn labor for Solomon, diving and building; Hero asks
+    the deity to judge or destroy his opponents; All others perish; and 1 more.'
   basis: reading
 - text: 'Covenant Code - theft, deposits, seduction: tagged by Claude (model), reading the Hebrew.'
   basis: reading

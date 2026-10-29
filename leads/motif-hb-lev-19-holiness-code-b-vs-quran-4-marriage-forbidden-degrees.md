@@ -6,8 +6,8 @@ summary: 'These two units share 1 motifs: man who lies with a slave woman design
   and guilt offering, not death, because she is not free.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -45,29 +45,37 @@ passages:
     عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ
     لَّكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    parallel. Lev 19:20 wĕ-hîʾ šipḥâ neḥĕrepet lĕ-ʾîš ... biqqōret tihyeh lōʾ yûmĕtû kî lōʾ ḥuppāšâ: the
+    slave woman''s case gets an inquiry, not death, ''because she was not free''; Q 4:25 fa-ʿalayhinna
+    niṣfu mā ʿalā l-muḥṣanāti mina l-ʿadhāb: a married slave woman who commits indecency gets half the
+    punishment of a free woman. A lower penalty for the unfree woman in both.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Man who lies with a slave woman designated to another man: inquiry
     and guilt offering, not death, because she is not free (weight 6.7). Pair score 6.7.'
   basis: reading
-- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Do not round the corners
-    of the head or destroy the corners of the beard; Gashes in the flesh for the dead and tattoo marks
-    are forbidden; A father must not make his daughter a prostitute; Divination, soothsaying, mediums
-    (ov) and wizards (yidde''oni) are forbidden; Prohibition of cross-breeding animals, sowing mixed seed
+- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Gashes in the flesh
+    for the dead and tattoo marks are forbidden; Prohibition of cross-breeding animals, sowing mixed seed
     and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three years, holy in the fourth,
-    eaten in the fifth; Honest balances, weights, ephah and hin are commanded; Love the stranger, for
-    you were strangers in Egypt; Rise before the gray-haired and honor the elderly; Do not wear wool and
-    linen together (sha''atnez).'
+    eaten in the fifth; Rise before the gray-haired and honor the elderly; A father must not make his
+    daughter a prostitute; The head of a household must not prostitute a woman under his authority [divergence
+    between the texts]; Just weights and measures, and the ground given for them [divergence between the
+    texts]; Love the stranger, for you were strangers in Egypt; Kindness to the near neighbor, the distant
+    neighbor, the companion at one''s side and the wayfarer; Do not wear wool and linen together (sha''atnez);
+    Do not round the corners of the head or destroy the corners of the beard; Divination, soothsaying,
+    mediums (ov) and wizards (yidde''oni) are forbidden; and 1 more.'
   basis: reading
-- text: 'Only in Inheriting women, the dowry, and the forbidden degrees: The husband gives the bride her
-    marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; A husband exchanging one wife for
-    another may not take back anything he gave, even a qinṭār; God wishes to lighten your burden, for
-    the human was created weak; List of forbidden close-kin unions (''uncovering nakedness''); It is forbidden
-    to inherit women against their will or to hold them back to recover gifts; A man must marry his dead
-    brother''s widow to raise seed for the brother; One who cannot afford a free wife may marry a believing
-    slave woman with her people''s leave; Married women are forbidden except those one''s right hand possesses
-    (captives); Foster mothers and foster sisters by nursing are forbidden in marriage; A man must not
-    take his father''s wife (uncover his father''s skirt); A married slave woman who commits indecency
-    receives half the punishment of a free woman; A man may not marry his wife''s sister as a rival while
-    the wife lives.'
+- text: 'Only in Inheriting women, the dowry, and the forbidden degrees: A husband exchanging one wife
+    for another may not take back anything he gave, even a qinṭār; God wishes to lighten your burden,
+    for the human was created weak; It is forbidden to inherit women against their will or to hold them
+    back to recover gifts; One who cannot afford a free wife may marry a believing slave woman with her
+    people''s leave; Foster mothers and foster sisters by nursing are forbidden in marriage; A married
+    slave woman who commits indecency receives half the punishment of a free woman; The husband gives
+    the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; List of forbidden
+    close-kin unions (''uncovering nakedness'') [divergence between the texts]; Married women are forbidden
+    except those one''s right hand possesses (captives); Marrying two sisters [divergence between the
+    texts]; A man may not marry his wife''s sister as a rival while the wife lives; What becomes of a
+    dead man''s widow within his family [contrast between the texts]; and 4 more.'
   basis: reading
 - text: 'Mixtures, orlah fruit, mourning cuttings, alien and just weights: tagged by Claude (model), reading
     the Hebrew.'

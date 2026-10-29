@@ -1,0 +1,119 @@
+---
+id: motif-hb-gen-6-flood-vs-quran-26-lot
+title: The Flood (full read) ↔ Lot and his people
+summary: 'These two units share 2 motifs: who is saved with the hero from the destruction, and why [divergence
+  between the texts], hero''s family saved with him.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- who-is-saved-from-the-destruction-as-divergence
+- family-saved
+passages:
+- tradition: judaism
+  ref: Gen 7:1
+  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Genesis
+    saves the whole household, bōʾ ʾattâ wə-khol bêtəkā ... Nōaḥ û-vānāyw wə-ʾištô û-nəšê vānāyw; the
+    Quran excepts some: wa-ahlaka illā man sabaqa ʿalayhi l-qawlu minhum (the drowned son of 11:42-43),
+    and forbids Noah to plead for the wrongdoers (wa-lā tukhāṭibnī fī lladhīna ẓalamū).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
+    צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
+- tradition: judaism
+  ref: Gen 7:7
+  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Genesis
+    saves the whole household, bōʾ ʾattâ wə-khol bêtəkā ... Nōaḥ û-vānāyw wə-ʾištô û-nəšê vānāyw; the
+    Quran excepts some: wa-ahlaka illā man sabaqa ʿalayhi l-qawlu minhum (the drowned son of 11:42-43),
+    and forbids Noah to plead for the wrongdoers (wa-lā tukhāṭibnī fī lladhīna ẓalamū).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+    הַמַּבּֽוּל
+- tradition: islam
+  ref: Quran 26:169
+  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Why
+    Lot is saved: Gen 19:29 wa-yyizkōr ʾĕlōhîm ʾet ʾAvrāhām wa-yšallaḥ ʾet Lôṭ, for Abraham''s sake, and
+    the angels drag the hesitating family out (wa-yyitmahmāh, 19:16); Q 26:169-170 Lot prays rabbi najjinī
+    wa-ahlī mimmā yaʿmalūna and God saves him and his family in answer, for his own sake. Lot neither
+    hesitates nor depends on Abraham.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
+- tradition: islam
+  ref: Quran 26:170
+  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Why
+    Lot is saved: Gen 19:29 wa-yyizkōr ʾĕlōhîm ʾet ʾAvrāhām wa-yšallaḥ ʾet Lôṭ, for Abraham''s sake, and
+    the angels drag the hesitating family out (wa-yyitmahmāh, 19:16); Q 26:169-170 Lot prays rabbi najjinī
+    wa-ahlī mimmā yaʿmalūna and God saves him and his family in answer, for his own sake. Lot neither
+    hesitates nor depends on Abraham.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
+- tradition: judaism
+  ref: Gen 6:18
+  note: Hero's family saved with him (eight persons)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
+    בָנֶ֖יךָ אִתָּֽךְ
+- tradition: judaism
+  ref: Gen 7:7
+  note: Hero's family saved with him (eight persons)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+    הַמַּבּֽוּל
+- tradition: islam
+  ref: Quran 26:169
+  note: Hero's family saved with him
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
+- tradition: islam
+  ref: Quran 26:170
+  note: Hero's family saved with him
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
+evidence:
+- text: 'Shared motifs, rarest first: Who is saved with the hero from the destruction, and why [divergence
+    between the texts] (weight 5.8); Hero''s family saved with him (weight 4.5). Pair score 10.3.'
+  basis: reading
+- text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
+    events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
+    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
+    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
+    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
+    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
+    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
+    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
+    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 44 more.'
+  basis: reading
+- text: 'Only in Lot and his people: Lot''s family is saved except an old woman among those who stayed
+    behind; Lot condemns his people for approaching males and leaving the wives God created for them;
+    What the sin of Lot''s townsmen was [divergence between the texts]; Lot''s people threaten to expel
+    him; The town that was rained on with an evil rain (Lot''s) is passed by travelers; The fate of Lot''s
+    wife; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to his
+    people; Wife who looks back is turned into a pillar of salt; Refrain closing each episode: ''In that
+    is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''; The men of Sodom
+    are exceedingly wicked; God rains sulfur and fire from heaven on cities.'
+  basis: reading
+- text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Lot and his people: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

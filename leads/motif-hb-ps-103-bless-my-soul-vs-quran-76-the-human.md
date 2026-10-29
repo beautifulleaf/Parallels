@@ -1,0 +1,86 @@
+---
+id: motif-hb-ps-103-bless-my-soul-vs-quran-76-the-human
+title: 'Psalm 103, bless YHWH, O my soul; youth renewed like the eagle ↔ The human: the mingled drop and
+  the camphor cup'
+summary: 'These two units share 1 motifs: there was a stretch of time when the human was not yet a thing
+  worth mentioning.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- human-once-nothing-worth-mentioning
+passages:
+- tradition: judaism
+  ref: Ps 103:14
+  note: 'There was a stretch of time when the human was not yet a thing worth mentioning (hal atā ʿalā
+    l-insāni ḥīnun mina d-dahri lam yakun shayʾan madhkūran ~ kî hûʾ yādaʿ yiṣrēnû zākûr kî ʿāfār ʾănāḥnû
+    ... we-lōʾ yakkîrennû ʿôd meqômô. Human nothingness: before existence in the Quran, after death in
+    the Psalm; both use the root of ''remembering'' (madhkūr / zākûr).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּי ה֖וּא יָדַ֣ע יִצְרֵ֑נוּ זָ֝כ֗וּר כִּי עָפָ֥ר אֲנָֽחְנוּ
+- tradition: judaism
+  ref: Ps 103:16
+  note: 'There was a stretch of time when the human was not yet a thing worth mentioning (hal atā ʿalā
+    l-insāni ḥīnun mina d-dahri lam yakun shayʾan madhkūran ~ kî hûʾ yādaʿ yiṣrēnû zākûr kî ʿāfār ʾănāḥnû
+    ... we-lōʾ yakkîrennû ʿôd meqômô. Human nothingness: before existence in the Quran, after death in
+    the Psalm; both use the root of ''remembering'' (madhkūr / zākûr).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֤י ר֣וּחַ עָֽבְרָה בּ֣וֹ וְאֵינֶ֑נּוּ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקוֹמֽוֹ
+- tradition: islam
+  ref: Quran 76:1
+  note: There was a stretch of time when the human was not yet a thing worth mentioning
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: هَلْ أَتَىٰ عَلَى ٱلْإِنسَٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    echo. hal atā ʿalā l-insāni ḥīnun mina d-dahri lam yakun shayʾan madhkūran ~ kî hûʾ yādaʿ yiṣrēnû
+    zākûr kî ʿāfār ʾănāḥnû ... we-lōʾ yakkîrennû ʿôd meqômô. Human nothingness: before existence in the
+    Quran, after death in the Psalm; both use the root of ''remembering'' (madhkūr / zākûr).'
+  basis: reading
+- text: 'Shared motifs, rarest first: There was a stretch of time when the human was not yet a thing worth
+    mentioning (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Psalm 103, bless YHWH, O my soul; youth renewed like the eagle: As a father has compassion
+    on his children, so God pities those who fear him; God knows our frame (yetser) and remembers that
+    we are dust; When the wind passes over man he is gone and his place knows him no more; As far as east
+    is from west, so far God removes our transgressions; God renews one''s youth like the eagle''s; God''s
+    angels, mighty ones who do his word, and all his hosts and ministers are summoned to bless him; Self-exhortation
+    ''Bless YHWH, O my soul''; God declares ''I am YHWH your healer'' and withholds the diseases of Egypt;
+    The wicked are brought down to the pit (be''er shahat / bor), the underworld; The destroyed are as
+    if they had never lived in their land; Humans are like grass that flourishes in the morning and withers
+    by evening; After creating the heavens and earth God established himself on the Throne (istawa ''ala
+    l-''arsh); and 1 more.'
+  basis: reading
+- text: 'Only in The human: the mingled drop and the camphor cup: The blessed wear green garments of fine
+    silk (sundus) and brocade (istabraq) and bracelets of silver; Immortal youths (wildan mukhalladun)
+    circulate among the blessed, like scattered pearls; The righteous drink from a cup mixed with camphor
+    (kafur) or ginger (zanjabil); Vessels of silver and goblets of crystal made of silver, measured exactly,
+    are passed round; The righteous did not eat his morsel alone without sharing with the orphan; God
+    is able to replace a people with others better than they, and none can outrun him; In paradise the
+    shades are close and the fruit clusters hang low within reach; God as shade: the sun shall not strike
+    you by day nor the moon by night; You will not will unless God wills; The righteous give and feed
+    solely for the face of God, seeking no repayment or thanks; Paradise has named springs: Salsabil,
+    Tasnim (and a spring the servants of God make gush forth); Paradise has raised couches (arā''ik, surur),
+    set goblets, cushions in rows and spread carpets; and 4 more.'
+  basis: reading
+- text: 'Psalm 103, bless YHWH, O my soul; youth renewed like the eagle: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'The human: the mingled drop and the camphor cup: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

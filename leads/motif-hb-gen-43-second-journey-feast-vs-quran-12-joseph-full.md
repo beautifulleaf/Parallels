@@ -2,12 +2,13 @@
 id: motif-hb-gen-43-second-journey-feast-vs-quran-12-joseph-full
 title: Second journey with Benjamin and the feast in Joseph's house ↔ Joseph and his brothers (Surah 12,
   full read)
-summary: 'These two units share 3 motifs: family prostrates before the hero, fulfilling the dream, a brother
-  or the brothers give the father a pledge for the youngest, father refuses at first to send the youngest.'
+summary: 'These two units share 5 motifs: a brother or the brothers give the father a pledge for the youngest
+  [divergence between the texts], hero reveals himself to the youngest brother first [divergence between
+  the texts], family prostrates before the hero, fulfilling the dream, a brother or the brothers give
+  the father a pledge for the youngest….'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,10 +16,62 @@ traditions:
 layers:
 - motif
 motifs:
+- pledge-to-father-as-divergence
+- early-reveal-to-youngest-as-divergence
 - parents-honored-dream-fulfilled
 - pledge-to-father
 - father-reluctant-youngest
 passages:
+- tradition: judaism
+  ref: Gen 43:9
+  note: 'A brother or the brothers give the father a pledge for the youngest [divergence between the texts]
+    (Gen: Judah alone stands surety, ʾānōkî ʾeʿerbennû miyyādî təbaqšennû (Reuben''s offer of his two
+    sons, Gen 42:37, comes before). Q: all the brothers give a God-sworn compact, ḥattā tuʾtūni mawthiqan
+    mina llāh ... allāhu ʿalā mā naqūlu wakīl.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אָֽנֹכִי֙ אֶֽעֶרְבֶ֔נּוּ מִיָּדִ֖י תְּבַקְשֶׁ֑נּוּ אִם לֹ֨א הֲבִיאֹתִ֤יו אֵלֶ֨יךָ֙ וְהִצַּגְתִּ֣יו
+    לְפָנֶ֔יךָ וְחָטָ֥אתִֽי לְךָ֖ כָּל הַיָּמִֽים
+- tradition: islam
+  ref: Quran 12:66
+  note: 'A brother or the brothers give the father a pledge for the youngest [divergence between the texts]
+    (Gen: Judah alone stands surety, ʾānōkî ʾeʿerbennû miyyādî təbaqšennû (Reuben''s offer of his two
+    sons, Gen 42:37, comes before). Q: all the brothers give a God-sworn compact, ḥattā tuʾtūni mawthiqan
+    mina llāh ... allāhu ʿalā mā naqūlu wakīl.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ
+    إِلَّآ أَن يُحَاطَ بِكُمْ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ
+- tradition: judaism
+  ref: Gen 43:29
+  note: 'Hero reveals himself to the youngest brother first [divergence between the texts] (Gen: Joseph
+    sees Benjamin, blesses him (ʾĕlōhîm yoḥnəkā bənî), and hides his tears (nikmərû raḥămāyw ... wayyēbk
+    šāmmâ), but stays unknown to him. Q: āwā ilayhi akhāhu qāla innī ana akhūka fa-lā tabtaʾis: Benjamin
+    is told first and secretly, which makes the cup ruse a plan the two share.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשָּׂ֣א עֵינָ֗יו וַיַּ֞רְא אֶת בִּנְיָמִ֣ין אָחִיו֮ בֶּן אִמּוֹ֒ וַיֹּ֗אמֶר הֲזֶה֙ אֲחִיכֶ֣ם
+    הַקָּטֹ֔ן אֲשֶׁ֥ר אֲמַרְתֶּ֖ם אֵלָ֑י וַיֹּאמַ֕ר אֱלֹהִ֥ים יָחְנְךָ֖ בְּנִֽי
+- tradition: judaism
+  ref: Gen 43:30
+  note: 'Hero reveals himself to the youngest brother first [divergence between the texts] (Gen: Joseph
+    sees Benjamin, blesses him (ʾĕlōhîm yoḥnəkā bənî), and hides his tears (nikmərû raḥămāyw ... wayyēbk
+    šāmmâ), but stays unknown to him. Q: āwā ilayhi akhāhu qāla innī ana akhūka fa-lā tabtaʾis: Benjamin
+    is told first and secretly, which makes the cup ruse a plan the two share.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְמַהֵ֣ר יוֹסֵ֗ף כִּֽי נִכְמְר֤וּ רַחֲמָיו֙ אֶל אָחִ֔יו וַיְבַקֵּ֖שׁ לִבְכּ֑וֹת וַיָּבֹ֥א הַחַ֖דְרָה
+    וַיֵּ֥בְךְּ שָֽׁמָּה
+- tradition: islam
+  ref: Quran 12:69
+  note: 'Hero reveals himself to the youngest brother first [divergence between the texts] (Gen: Joseph
+    sees Benjamin, blesses him (ʾĕlōhîm yoḥnəkā bənî), and hides his tears (nikmərû raḥămāyw ... wayyēbk
+    šāmmâ), but stays unknown to him. Q: āwā ilayhi akhāhu qāla innī ana akhūka fa-lā tabtaʾis: Benjamin
+    is told first and secretly, which makes the cup ruse a plan the two share.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا
+    تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ
 - tradition: judaism
   ref: Gen 43:26
   note: Family prostrates before the hero, fulfilling the dream
@@ -102,64 +155,39 @@ passages:
   text: قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ فَٱللَّهُ
     خَيْرٌ حَٰفِظًا وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Family prostrates before the hero, fulfilling the dream (weight
-    5.8); A brother or the brothers give the father a pledge for the youngest (weight 5.8); Father refuses
-    at first to send the youngest (weight 5.6). Pair score 17.1.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    divergence. Gen: Judah alone stands surety, ʾānōkî ʾeʿerbennû miyyādî təbaqšennû (Reuben''s offer
+    of his two sons, Gen 42:37, comes before). Q: all the brothers give a God-sworn compact, ḥattā tuʾtūni
+    mawthiqan mina llāh ... allāhu ʿalā mā naqūlu wakīl. Gen: Joseph sees Benjamin, blesses him (ʾĕlōhîm
+    yoḥnəkā bənî), and hides his tears (nikmərû raḥămāyw ... wayyēbk šāmmâ), but stays unknown to him.
+    Q: āwā ilayhi akhāhu qāla innī ana akhūka fa-lā tabtaʾis: Benjamin is told first and secretly, which
+    makes the cup ruse a plan the two share.'
+  basis: reading
+- text: 'Shared motifs, rarest first: A brother or the brothers give the father a pledge for the youngest
+    [divergence between the texts] (weight 6.7); Hero reveals himself to the youngest brother first [divergence
+    between the texts] (weight 6.7); Family prostrates before the hero, fulfilling the dream (weight 5.8);
+    A brother or the brothers give the father a pledge for the youngest (weight 5.8); Father refuses at
+    first to send the youngest (weight 5.6). Pair score 30.5.'
   basis: reading
 - text: 'Only in Second journey with Benjamin and the feast in Joseph''s house: Brothers bring double
     money to return the silver found in their sacks; Egyptians will not eat with Hebrews, for it is an
     abomination to them; Gift of the land''s choice products (balm, honey, spices, nuts) brought to a
-    foreign ruler; Steward says their God placed hidden treasure in their sacks; Hero turns aside or withdraws
-    to weep unseen before his brothers; Host runs to welcome strangers, washes their feet and feeds them;
-    Hero seats his brothers in order of birth, and they look at one another in amazement; The youngest
-    brother is served five times as much as the others.'
+    foreign ruler; Steward says their God placed hidden treasure in their sacks; Hero seats his brothers
+    in order of birth, and they look at one another in amazement; The youngest brother is served five
+    times as much as the others; Hero turns aside or withdraws to weep unseen before his brothers; Host
+    runs to welcome strangers, washes their feet and feeds them.'
   basis: reading
-- text: 'Only in Joseph and his brothers (Surah 12, full read): Foster parent says: perhaps he will benefit
-    us, or we will take him as a son; Seduction attempt when the two are alone in the house; Brothers
-    tell their father to ask the town and the caravan to confirm their story; Birds eat bread from on
-    top of the dreamer''s head; Brothers bring the hero''s garment with false blood; Hero bought by an
-    Egyptian official; Brothers claim the accused youth''s absent brother (the hero) had also stolen before;
-    Famished brothers bring poor goods and ask the disguised hero for alms; Brothers come for grain and
-    do not recognize the hero; The brothers confess ''we were sinners'' once the hero is revealed and
-    ask their father to pray for them; Brothers persuade the reluctant father to send the hero with them;
-    Brothers, out of envy, plot to kill the hero; Brothers come to their father at night, weeping; Hero
-    cast into a pit or well; The king''s experts cannot interpret the dream; The freed prisoner remembers
-    the hero and recommends him; Hero demands they bring their youngest brother; God''s favor rests on
-    the hero while he is a slave or prisoner; God reassures the hero in the pit; Do not despair of God''s
-    mercy (rawh / rahma); only unbelievers or the astray despair; Dream of sun, moon and eleven stars
-    bowing to the hero; Hero reveals himself to the youngest brother first; The woman falsely accuses
-    the hero of assault; The whole family moves to Egypt; Plan to store grain in the good years for the
-    famine years; The father''s eyesight fails; Father loves the hero more than his brothers; Father keeps
-    lamenting his lost son for years until his sons fear he will waste away; The patriarch claims to know
-    from God what his sons do not know; Father promises his repentant sons to ask God''s forgiveness for
-    them later; Father revives on hearing the hero lives; Father does not believe the brothers'' story;
-    Father recognizes his son''s scent; Father warns the hero not to tell his dream to his brothers; The
-    freed prisoner forgets the hero for years; Hero''s garment becomes evidence in the seduction episode;
-    Hero''s garment restores the father''s sight; Hero placed over the land''s storehouses or the kingdom;
-    Hero''s beauty is remarked on; Hero refuses release until his innocence is established; Hero forgives
-    his brothers; Hero thrown into prison; Hero nearly yields but a sign from God stops him; Hero prays
-    to die in submission and join the righteous; Hero preaches monotheism to his fellow prisoners; Hero
-    prays that prison is preferable to sin; Hero refuses, citing loyalty to his master and to God; Hero
-    reveals his identity to his brothers; Hero declares that God turned the brothers'' deed to good; Fleeing
-    the seductress, the hero and the woman find her husband at the door; Hero attributes his dream interpretation
-    to God; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God;
-    King dreams of seven fat cows eaten by seven lean, and seven green ears and seven dry; The hero could
-    not have kept his brother under the king''s law, so a stratagem is needed; The husband recognizes
-    his wife''s guilt; The master''s wife tries to seduce the hero; Their payment is secretly returned
-    in their bags; A brother offers himself or another in place of the youngest; One brother talks the
-    others out of killing him; One brother stays behind in Egypt; One prisoner is restored, the other
-    executed and his body exposed; Hero''s cup is hidden in the youngest brother''s bag; Two fellow prisoners
-    dream of pressing wine and carrying bread; The hero declares he follows the religion of his fathers
-    Abraham, Isaac and Jacob; Hero asks the freed prisoner to mention him to the king; A passing caravan
-    takes the hero from the pit; Hero meets and embraces his father; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; Satan stirs up enmity (nazagha) between brothers
-    or among people; Search proceeds through the others'' bags before the youngest''s; Father tells the
-    sons to enter by separate gates; Hero sold for a small sum of silver; ''The soul is ever inciting
-    to evil'' (al-nafs al-ammara bi-l-su'') except whom God shows mercy; Brothers pursued and accused
-    of theft; The brothers themselves name the thief''s penalty; The wife confesses the hero''s innocence;
-    A wild animal is blamed for the hero''s death; A witness proposes judging by where the shirt is torn;
-    Women dazzled by the hero cut their hands; Women of the city gossip about the wife''s passion; A year
-    of rain and relief follows the famine.'
+- text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
+    town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
+    hero) had also stolen before; Famished brothers bring poor goods and ask the disguised hero for alms;
+    The brothers confess ''we were sinners'' once the hero is revealed and ask their father to pray for
+    them; Father keeps lamenting his lost son for years until his sons fear he will waste away; The patriarch
+    claims to know from God what his sons do not know; Father promises his repentant sons to ask God''s
+    forgiveness for them later; Fleeing the seductress, the hero and the woman find her husband at the
+    door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
+    hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
+    he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
+    brings back the missing royal cup, with a guarantor; and 104 more.'
   basis: reading
 - text: 'Second journey with Benjamin and the feast in Joseph''s house: tagged by Claude (model), reading
     the Hebrew.'

@@ -1,0 +1,87 @@
+---
+id: motif-hb-deut-13-enticers-vs-quran-49-hujurat-etiquette-and-brotherhood
+title: 'False prophet, enticing kin, and the apostate city ↔ Al-Hujurat: lowering voices, verifying reports,
+  reconciling believers, backbiting and the peoples and tribes'
+summary: 'These two units share 1 motifs: if a corrupt person brings you news, verify it lest you harm
+  a people in ignorance and come to regret it.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- verify-report-of-wicked-man
+passages:
+- tradition: judaism
+  ref: Deut 13:15
+  note: 'If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to
+    regret it (Check a report before acting against a group: wə-dāraštā wə-ḥāqartā wə-šāʾaltā hêṭēḇ wə-hinnēh
+    ʾĕmeṯ nāḵôn had-dāḇār vs. in jāʾakum fāsiqun bi-nabaʾin fa-tabayyanū an tuṣībū qawman bi-jahālatin
+    fa-tuṣbiḥū ʿalā mā faʿaltum nādimīn. In Deuteronomy the report is that a town has turned to idols,
+    and the result if true is ḥērem; in the Quran the warning is against the false report of a fāsiq.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְדָרַשְׁתָּ֧ וְחָקַרְתָּ֧ וְשָׁאַלְתָּ֖ הֵיטֵ֑ב וְהִנֵּ֤ה אֱמֶת֙ נָכ֣וֹן הַדָּבָ֔ר נֶעֶשְׂתָ֛ה
+    הַתּוֹעֵבָ֥ה הַזֹּ֖את בְּקִרְבֶּֽךָ
+- tradition: islam
+  ref: Quran 49:6
+  note: If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to
+    regret it
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟
+    قَوْمًۢا بِجَهَٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    parallel. Check a report before acting against a group: wə-dāraštā wə-ḥāqartā wə-šāʾaltā hêṭēḇ wə-hinnēh
+    ʾĕmeṯ nāḵôn had-dāḇār vs. in jāʾakum fāsiqun bi-nabaʾin fa-tabayyanū an tuṣībū qawman bi-jahālatin
+    fa-tuṣbiḥū ʿalā mā faʿaltum nādimīn. In Deuteronomy the report is that a town has turned to idols,
+    and the result if true is ḥērem; in the Quran the warning is against the false report of a fāsiq.'
+  basis: reading
+- text: 'Shared motifs, rarest first: If a corrupt person brings you news, verify it lest you harm a people
+    in ignorance and come to regret it (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in False prophet, enticing kin, and the apostate city: A city that turns to other gods is
+    put under the ban, burned and left a mound forever; Prophet or dreamer whose sign comes true but who
+    urges other gods must be rejected; Relative or friend who secretly entices to other gods must be stoned,
+    your hand first; How to treat close kin who urge one to worship other gods [contrast between the texts];
+    How to treat close kin who urge one to worship other gods [divergence between the texts]; Do not take
+    fathers or brothers as allies against faith; love of God must outweigh family, wealth, trade and homes;
+    God uses a false prophet to test whether Israel loves him; The fate of a destroyed town: lasting ruin
+    or revival [contrast between the texts]; Worthless men (bene beliyyaal) lead astray; Command not to
+    add to or subtract from the divine words; Formula: you shall purge the evil from your midst; False
+    prophet put to death; and 1 more.'
+  basis: reading
+- text: 'Only in Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and
+    the peoples and tribes: Those who call the prophet from outside his private chambers (hujurat) lack
+    understanding; they should wait until he comes out; They count their submission a favor to the prophet;
+    rather God has done them a favor in guiding them; Let no people mock another, nor women other women,
+    nor defame one another or insult with nicknames; If two groups of believers fight, make peace between
+    them; fight the one that transgresses until it returns to God''s command; The bedouin say ''we believe'';
+    rather say ''we have submitted (aslamna)'', for faith has not yet entered your hearts; The believers
+    are nothing but brothers, so make peace between your brothers; One origin (one father, one pair, one
+    God) as ground for conduct toward others [divergence between the texts]; Believers must not put themselves
+    before God and his messenger, nor raise their voices above the prophet''s or shout to him; Humanity
+    created from a male and a female and made into peoples (shu''ub) and tribes to know one another; the
+    noblest is the most pious; ''Have we not all one father? Has not one God created us? Why do we deal
+    treacherously with one another?''; Slander or gossip pictured as eating [divergence between the texts];
+    Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?;
+    and 4 more.'
+  basis: reading
+- text: 'False prophet, enticing kin, and the apostate city: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

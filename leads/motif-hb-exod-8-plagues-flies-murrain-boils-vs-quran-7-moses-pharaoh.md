@@ -2,13 +2,13 @@
 id: motif-hb-exod-8-plagues-flies-murrain-boils-vs-quran-7-moses-pharaoh
 title: 'Plagues 4-6: swarms, pestilence of livestock, boils ↔ Moses before Pharaoh, the magicians and
   the plagues'
-summary: 'These two units share 3 motifs: the king breaks his promise to release the people once a plague
-  is lifted, king asks the prophet to intercede with god to remove a plague, the king''s heart is hardened
-  (by himself or by god) so he refuses to release the people.'
+summary: 'These two units share 4 motifs: the king breaks his promise to release the people once a plague
+  is lifted, the king''s heart is hardened (by himself or by god) so he refuses to release the people
+  [divergence between the texts], king asks the prophet to intercede with god to remove a plague, the
+  king''s heart is hardened (by himself or by god) so he refuses to release the people.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -17,6 +17,7 @@ layers:
 - motif
 motifs:
 - pharaoh-deceives-again
+- hardening-of-pharaohs-heart-as-divergence
 - king-asks-prophet-to-pray
 - hardening-of-pharaohs-heart
 passages:
@@ -41,6 +42,48 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ
 - tradition: judaism
+  ref: Exod 8:28
+  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
+    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
+    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
+    and break their word (yankuthūna). God never hardens them in this unit.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+- tradition: judaism
+  ref: Exod 9:12
+  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
+    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
+    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
+    and break their word (yankuthūna). God never hardens them in this unit.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה אֶל
+    מֹשֶֽׁה
+- tradition: islam
+  ref: Quran 7:132
+  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
+    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
+    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
+    and break their word (yankuthūna). God never hardens them in this unit.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
+- tradition: islam
+  ref: Quran 7:133
+  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
+    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
+    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
+    and break their word (yankuthūna). God never hardens them in this unit.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+- tradition: judaism
   ref: Exod 8:24
   note: King asks the prophet to intercede with God to remove a plague
   lang: he
@@ -54,6 +97,12 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ
     لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ
+- tradition: islam
+  ref: Quran 7:135
+  note: King asks the prophet to intercede with God to remove a plague
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ
 - tradition: judaism
   ref: Exod 8:28
   note: The king's heart is hardened (by himself or by God) so he refuses to release the people (from
@@ -85,37 +134,39 @@ passages:
   text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
     مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    divergence. Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
+    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
+    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
+    and break their word (yankuthūna). God never hardens them in this unit.'
+  basis: reading
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
-    is lifted (weight 6.0); King asks the prophet to intercede with God to remove a plague (weight 5.6);
-    The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight 4.6).
-    Pair score 16.2.'
+    is lifted (weight 5.8); The king''s heart is hardened (by himself or by God) so he refuses to release
+    the people [divergence between the texts] (weight 5.6); King asks the prophet to intercede with God
+    to remove a plague (weight 5.6); The king''s heart is hardened (by himself or by God) so he refuses
+    to release the people (weight 4.6). Pair score 21.6.'
   basis: reading
-- text: 'Only in Plagues 4-6: swarms, pestilence of livestock, boils: King haggles over who and what may
-    leave (only men, no flocks, not far away); Soot from a kiln thrown skyward becomes boils on men and
-    beasts; God''s people in Goshen are exempted from a plague that strikes Egypt; Pestilence kills the
-    oppressors'' livestock while sparing the oppressed''s; The magicians themselves are struck and cannot
-    stand before the prophet; Israel''s sacrifices would be an abomination to Egyptians who might stone
-    them; God sets a fixed time (''tomorrow'') for a plague; Swarms (arov) of insects or wild beasts fill
-    the houses of Egypt; Prophet confronts the king at the river in the morning.'
+- text: 'Only in Plagues 4-6: swarms, pestilence of livestock, boils: Soot from a kiln thrown skyward
+    becomes boils on men and beasts; Pestilence kills the oppressors'' livestock while sparing the oppressed''s;
+    The magicians themselves are struck and cannot stand before the prophet; Israel''s sacrifices would
+    be an abomination to Egyptians who might stone them; God sets a fixed time (''tomorrow'') for a plague;
+    King haggles over who and what may leave (only men, no flocks, not far away); God''s people in Goshen
+    are exempted from a plague that strikes Egypt; Prophet confronts the king at the river in the morning;
+    The prophet seeks refuge in God from being stoned by his people; Who causes Pharaoh''s refusal: God
+    hardening his heart, or Pharaoh and his people themselves [divergence between the texts]; Swarms (arov)
+    of insects or wild beasts fill the houses of Egypt.'
   basis: reading
-- text: 'Only in Moses before Pharaoh, the magicians and the plagues: Prophet''s wonders are imitated
-    by the king''s magicians in a contest; Pharaoh''s people are struck with years of drought and lack
-    of fruits before the plagues; Enemies attribute their misfortune to the prophet as a bad omen (tatayyur);
-    their omen is with God; Prophet''s hand turns leprous, white as snow, and is restored as a sign; Ruler
-    orders the killing of male infants; Prophet delivers God''s demand ''Let my people go that they may
-    serve me''; The magicians'' spell bewitches the people''s eyes and terrifies them; The court magicians
-    ask the king for a reward if they win and are promised closeness; Magicians fail to imitate a wonder
-    and confess ''This is the finger of God''; The defeated magicians fall prostrate and declare faith
-    in the Lord of Moses and Aaron; The magicians offer the prophet to throw first; he tells them to throw;
-    Threatened believers say ''to our Lord we return'' and pray for patience and to die as muslims; The
-    meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu arets);
-    Nile water is turned to blood; Pharaoh is said to have his own gods, whom Moses would make him abandon;
-    One of the Egyptian plagues is a flood (tufan); Frogs swarm out of the river into houses, beds, ovens
-    and kneading-troughs; The dust of the earth becomes lice on man and beast; Locusts brought by an east
-    wind devour all vegetation left after the hail; The prophet''s staff-serpent swallows the magicians''
-    staff-serpents; The returning waters drown the pursuing army; not one survives; A staff thrown down
-    becomes a serpent and turns back into a staff; The tyrant threatens to cut off hands and feet on opposite
-    sides and crucify the converts.'
+- text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
+    years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
+    prophet as a bad omen (tatayyur); their omen is with God; The magicians'' spell bewitches the people''s
+    eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
+    is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
+    flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
+    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
+    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
+    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
+    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
+    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 21 more.'
   basis: reading
 - text: 'Plagues 4-6: swarms, pestilence of livestock, boils: tagged by Claude (model), reading the Hebrew.'
   basis: reading

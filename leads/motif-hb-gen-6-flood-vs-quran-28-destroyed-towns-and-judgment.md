@@ -6,8 +6,8 @@ summary: 'These two units share 1 motifs: god guarantees seedtime and harvest, c
   night will not cease.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -31,33 +31,43 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن
     فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+- tradition: islam
+  ref: Quran 28:71
+  note: God guarantees seedtime and harvest, cold and heat, day and night will not cease
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+    مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِضِيَآءٍ أَفَلَا تَسْمَعُونَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    parallel. wa-min raḥmatihi jaʿala lakumu l-layla wa-n-nahāra ... qul a-raʾaytum in jaʿala llāhu ʿalaykumu
+    l-layla sarmadan ~ ʿōd kol yəmê hā-ʾāreṣ ... wə-yôm wā-laylâ lōʾ yišbōtû: the alternation of day and
+    night is God''s gift and could be stopped only by him. Genesis promises it will never cease; the Quran
+    asks what other god could restore it if God stopped it.'
+  basis: reading
 - text: 'Shared motifs, rarest first: God guarantees seedtime and harvest, cold and heat, day and night
     will not cease (weight 6.7). Pair score 6.7.'
   basis: reading
-- text: 'Only in The Flood (full read): Animals taken aboard in pairs; Divine blessing: be fruitful, multiply,
-    fill the earth; Birds released to find dry land; Hero builds a vessel on divine instruction; Clean
-    animals taken aboard by sevens, unclean by pairs; Deity or gods smell the offering; Deity decides
-    to destroy humankind; Every inclination (yetser) of the human heart is only evil; Hero''s family saved
-    with him; Flood events given exact calendar dates (year of hero''s life, month, day); Rain or flood
-    lasts forty days and forty nights; God regrets having made humankind and is grieved in his heart;
-    God himself shuts the vessel''s door behind the hero; Hero singled out as righteous or pious; Hero
-    privately warned of the coming flood by a deity; A dove returns with an olive leaf in its beak; Deity
-    resolves or promises not to repeat the destruction; A raven is sent out and does not return (goes
-    to and fro); Destruction motivated by human wickedness or violence; Hero offers sacrifice after leaving
-    the vessel; Seven days pass between the warning or boarding and the onset of the flood; All others
-    perish; Exact dimensions of the vessel are specified; Vessel has several decks, a side door and a
-    roof opening or window; Vessel comes to rest on a named mountain; Vessel sealed with pitch or bitumen;
-    Waters rise above the highest mountains (fifteen cubits); Waters pour both from the sky and from springs
-    of the earth; God sends a wind (ruah) over the earth to make the waters subside.'
+- text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
+    events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
+    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
+    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
+    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
+    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
+    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
+    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
+    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 45 more.'
   basis: reading
 - text: 'Only in Towns destroyed for ingratitude; ''Where are my partners?''; perpetual night and day:
-    At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'';
-    God alone knows the hearts of all humans; God does not destroy towns until he sends a messenger to
-    their mother-town; If God made the night or the day perpetual until resurrection, what god could bring
-    the other?; The listeners walk among the dwellings of generations God destroyed, a sign; On judgment
-    day God asks ''Where are my partners for whom you contended?''; On judgment day a witness is brought
-    from every nation, and the Prophet as witness over them.'
+    God does not destroy towns until he sends a messenger to their mother-town; If God made the night
+    or the day perpetual until resurrection, what god could bring the other?; Nations come from the ends
+    of the earth confessing ''our fathers inherited nothing but lies''; can a man make gods for himself?;
+    On judgment day God asks ''Where are my partners for whom you contended?''; God knows the secrets
+    of the heart (ta''alumot lev); On judgment day a witness is brought from every nation, and the Prophet
+    as witness over them; God mocks: where are their gods who ate the fat of their sacrifices? let them
+    rise and help; The listeners walk among the dwellings of generations God destroyed, a sign; At judgment
+    the associated ''partners'' disown their worshipers: ''it was not us you worshiped''; God alone knows
+    the hearts of all humans.'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading

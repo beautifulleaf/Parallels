@@ -2,10 +2,10 @@
 id: motif-quran-20-moses-pharaoh-magicians-vs-quran-26-moses-and-pharaoh
 title: Moses and Aaron before Pharaoh; the contest with the magicians ↔ Moses and Pharaoh disputing; the
   magicians; the sea split like mountains
-summary: 'These two units share 8 motifs: pharaoh threatens the converted magicians with cutting off hands
-  and feet on opposite sides and crucifixion (on palm trunks), condemned believers tell the tyrant ''decree
-  what you will; you can only decree for this worldly life'', the magicians'' ropes and staffs appear
-  by sorcery to be moving like snakes, the defeated magicians fall prostrate and declare faith in the
+summary: 'These two units share 8 motifs: condemned believers tell the tyrant ''decree what you will;
+  you can only decree for this worldly life'', the magicians'' ropes and staffs appear by sorcery to be
+  moving like snakes, pharaoh threatens the converted magicians with cutting off hands and feet on opposite
+  sides and crucifixion (on palm trunks), the defeated magicians fall prostrate and declare faith in the
   lord of moses and aaron….'
 status: new
 relations:
@@ -16,33 +16,15 @@ traditions:
 layers:
 - motif
 motifs:
-- pharaoh-threatens-magicians-amputation-crucifixion
 - martyrs-defy-tyrant-only-this-life
 - magicians-ropes-seem-to-move
+- pharaoh-threatens-magicians-amputation-crucifixion
 - magicians-fall-prostrate-and-believe
 - who-is-yhwh-defiance
 - prophets-staff-swallows-magicians-staffs
 - let-my-people-go-demand
 - contest-with-court-magicians
 passages:
-- tradition: islam
-  ref: Quran 20:71
-  note: Pharaoh threatens the converted magicians with cutting off hands and feet on opposite sides and
-    crucifixion (on palm trunks) (fī judhūʿ al-nakhl, 'on the trunks of palm trees')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
-    فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ
-    وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
-- tradition: islam
-  ref: Quran 26:49
-  note: Pharaoh threatens the converted magicians with cutting off hands and feet on opposite sides and
-    crucifixion (on palm trunks)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
-    فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
-    أَجْمَعِينَ
 - tradition: islam
   ref: Quran 20:72
   note: Condemned believers tell the tyrant 'decree what you will; you can only decree for this worldly
@@ -86,6 +68,24 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
+- tradition: islam
+  ref: Quran 20:71
+  note: Pharaoh threatens the converted magicians with cutting off hands and feet on opposite sides and
+    crucifixion (on palm trunks) (fī judhūʿ al-nakhl, 'on the trunks of palm trees')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
+    فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ
+    وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
+- tradition: islam
+  ref: Quran 26:49
+  note: Pharaoh threatens the converted magicians with cutting off hands and feet on opposite sides and
+    crucifixion (on palm trunks)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
+    فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
+    أَجْمَعِينَ
 - tradition: islam
   ref: Quran 20:70
   note: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
@@ -132,6 +132,12 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
 - tradition: islam
+  ref: Quran 26:44
+  note: The prophet's staff-serpent swallows the magicians' staff-serpents
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
+- tradition: islam
   ref: Quran 20:47
   note: Prophet delivers God's demand 'Let my people go that they may serve me' ('send the children of
     Israel with us and do not torment them')
@@ -177,46 +183,40 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
 evidence:
-- text: 'Shared motifs, rarest first: Pharaoh threatens the converted magicians with cutting off hands
-    and feet on opposite sides and crucifixion (on palm trunks) (weight 6.7); Condemned believers tell
-    the tyrant ''decree what you will; you can only decree for this worldly life'' (weight 6.7); The magicians''
-    ropes and staffs appear by sorcery to be moving like snakes (weight 6.7); The defeated magicians fall
-    prostrate and declare faith in the Lord of Moses and Aaron (weight 6.3); King defies the prophet:
+- text: 'Shared motifs, rarest first: Condemned believers tell the tyrant ''decree what you will; you
+    can only decree for this worldly life'' (weight 6.7); The magicians'' ropes and staffs appear by sorcery
+    to be moving like snakes (weight 6.7); Pharaoh threatens the converted magicians with cutting off
+    hands and feet on opposite sides and crucifixion (on palm trunks) (weight 6.7); The defeated magicians
+    fall prostrate and declare faith in the Lord of Moses and Aaron (weight 6.3); King defies the prophet:
     ''Who is YHWH that I should obey him?'' (weight 6.3); The prophet''s staff-serpent swallows the magicians''
     staff-serpents (weight 6.0); Prophet delivers God''s demand ''Let my people go that they may serve
-    me'' (weight 5.6); Prophet''s wonders are imitated by the king''s magicians in a contest (weight 5.2).
-    Pair score 49.4.'
+    me'' (weight 5.4); Prophet''s wonders are imitated by the king''s magicians in a contest (weight 5.1).
+    Pair score 49.2.'
   basis: reading
 - text: 'Only in Moses and Aaron before Pharaoh; the contest with the magicians: The contest with the
-    magicians is set for a festival day (yawm al-zīna) at forenoon with the people assembled; God made
-    the earth a cradle (mahd) or bed and laid out paths in it; God addresses the hero with ''Fear not''
-    in a vision; From the earth humans were created, into it they return, and from it they are brought
-    forth again; Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever;
-    The king''s heart is hardened (by himself or by God) so he refuses to release the people; In hell
-    the damned neither die nor live; Formula: ''Peace be on whoever follows the guidance''; Pharaoh asks
-    about the fate of former generations; the answer: their knowledge is with God in a book; The prophets
-    are told to speak to the tyrant with gentle words, that he may take heed or fear.'
+    magicians is set for a festival day (yawm al-zīna) at forenoon with the people assembled; From the
+    earth humans were created, into it they return, and from it they are brought forth again; Formula:
+    ''Peace be on whoever follows the guidance''; Pharaoh asks about the fate of former generations; the
+    answer: their knowledge is with God in a book; The prophets are told to speak to the tyrant with gentle
+    words, that he may take heed or fear; The defeated magicians fall prostrate and declare faith in the
+    Lord of Moses and Aaron [divergence between the texts]; King defies the prophet: ''Who is YHWH that
+    I should obey him?'' [divergence between the texts]; God made the earth a cradle (mahd) or bed and
+    laid out paths in it; Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence
+    between the texts]; The prophet''s staff-serpent swallows the magicians'' staff-serpents [divergence
+    between the texts]; In hell the damned neither die nor live; The king''s heart is hardened (by himself
+    or by God) so he refuses to release the people [divergence between the texts]; and 3 more.'
   basis: reading
-- text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: An eloquent
-    brother is appointed to speak for the hero, who is ''as God'' to him; The departing slaves ask their
-    neighbors for silver, gold and clothing and so plunder their oppressors; God identifies himself as
-    God of Abraham, Isaac and Jacob; Prophet''s hand turns leprous, white as snow, and is restored as
-    a sign; Hero flees the king''s death sentence to a foreign land; Pharaoh calls the Israelites ''a
-    small band'' who enrage him; God expelled the Egyptians from gardens, springs, treasures and fine
-    dwellings and made Israel inherit them; Israelites cannot be sold as slaves because they are God''s
-    servants whom he brought out of Egypt; King regrets releasing the slaves and pursues them with chariots;
-    The court magicians ask the king for a reward if they win and are promised closeness; The magicians
-    cast their spells swearing ''By the might of Pharaoh''; Moses admits he did the killing while he was
-    ''of those astray'' and fled out of fear; Moses killed a man and God delivered him from distress,
-    then tried him with trials; Pharaoh reproaches Moses: ''Did we not raise you among us as a child,
-    and you did your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh;
-    Officers call the visiting prophet ''this madman'' (meshugga''); Prophet protests he is heavy of mouth
-    and tongue or ''uncircumcised of lips''; The returning waters drown the pursuing army; not one survives;
-    The sea splits and each part is like a great mountain (ṭawd); Prophet stretches his staff over the
-    sea and God splits it with a strong east wind; Refrain closing each episode: ''In that is a sign,
-    yet most of them do not believe; your Lord is the Mighty, the Merciful''; Before Pharaoh the staff
-    becomes a manifest great serpent (thuʿbān); A staff thrown down becomes a serpent and turns back into
-    a staff; The people walk on dry ground through the sea with the waters as a wall on either side.'
+- text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
+    the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
+    treasures and fine dwellings and made Israel inherit them; The magicians cast their spells swearing
+    ''By the might of Pharaoh''; Moses admits he did the killing while he was ''of those astray'' and
+    fled out of fear; Pharaoh reproaches Moses: ''Did we not raise you among us as a child, and you did
+    your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
+    the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
+    magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
+    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
+    to pursue the departing people; and 35 more.'
   basis: reading
 - text: 'Moses and Aaron before Pharaoh; the contest with the magicians: tagged by Claude (model), reading
     the Arabic.'

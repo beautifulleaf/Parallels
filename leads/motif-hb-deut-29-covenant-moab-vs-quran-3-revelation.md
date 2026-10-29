@@ -1,0 +1,88 @@
+---
+id: motif-hb-deut-29-covenant-moab-vs-quran-3-revelation
+title: Covenant at Moab; the secret apostate; the land like Sodom ↔ Torah, Gospel and the clear and ambiguous
+  verses
+summary: 'These two units share 1 motifs: the secret things belong to god; the revealed things to us and
+  our children.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- secret-things-belong-to-god
+passages:
+- tradition: judaism
+  ref: Deut 29:28
+  note: The secret things belong to God; the revealed things to us and our children (puncta extraordinaria
+    over לנו ולבנינו)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הַ֨נִּסְתָּרֹ֔ת לַיהוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵׄ֨יׄנׄוּׄ֙ עַד עוֹלָ֔ם
+    לַעֲשׂ֕וֹת אֶת כָּל דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת
+- tradition: islam
+  ref: Quran 3:7
+  note: 'The secret things belong to God; the revealed things to us and our children (Deut 29:28 ha-nnistārōt
+    la-YHWH ʾĕlōhênû wĕ-ha-nniglōt lānû û-lĕ-bānênû ... laʿăśôt ʾet kol dibrê ha-ttôrâ: hidden things
+    are God''s, revealed things are ours, to do the Torah; Q 3:7 minhu āyātun muḥkamātun hunna ummu l-kitābi
+    wa-ukharu mutashābihātun ... wa-mā yaʿlamu taʾwīlahu illā llāh: decisive verses are the core, the
+    interpretation of ambiguous ones is known only to God. Both divide revelation into a part for human
+    practice and a part reserved for God, and warn against seeking the hidden (Q: those with deviation
+    in their hearts).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ
+    وَأُخَرُ مُتَشَٰبِهَٰتٌ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ
+    ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ وَٱلرَّٰسِخُونَ
+    فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟
+    ٱلْأَلْبَٰبِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    parallel. Deut 29:28 ha-nnistārōt la-YHWH ʾĕlōhênû wĕ-ha-nniglōt lānû û-lĕ-bānênû ... laʿăśôt ʾet
+    kol dibrê ha-ttôrâ: hidden things are God''s, revealed things are ours, to do the Torah; Q 3:7 minhu
+    āyātun muḥkamātun hunna ummu l-kitābi wa-ukharu mutashābihātun ... wa-mā yaʿlamu taʾwīlahu illā llāh:
+    decisive verses are the core, the interpretation of ambiguous ones is known only to God. Both divide
+    revelation into a part for human practice and a part reserved for God, and warn against seeking the
+    hidden (Q: those with deviation in their hearts).'
+  basis: reading
+- text: 'Shared motifs, rarest first: The secret things belong to God; the revealed things to us and our
+    children (weight 6.0). Pair score 6.0.'
+  basis: reading
+- text: 'Only in Covenant at Moab; the secret apostate; the land like Sodom: All ranks stand before God,
+    from the hewer of wood to the drawer of water; A root bearing poison and wormwood among you (secret
+    apostate); Covenant made with those present and with those not here today; Covenant made with those
+    present and with those not here today [divergence between the texts]; God has not given the people
+    a heart to know, eyes to see, ears to hear until today; God allotted the heavenly bodies (or gods)
+    to the other nations; Nations ask why God did this to the land and are answered: they forsook the
+    covenant; Who was present at the revelation on the mountain, and who knows it only by report [divergence
+    between the texts]; Man who hears the curse but blesses himself in his heart: ''I shall have peace'';
+    In forty years of wandering the people lacked nothing (clothes did not wear out, feet did not swell);
+    Clothes did not wear out and feet did not swell for forty years; Land made brimstone and salt like
+    Sodom, Gomorrah, Admah and Zeboiim; and 2 more.'
+  basis: reading
+- text: 'Only in Torah, Gospel and the clear and ambiguous verses: Scripture has decisive verses (muhkamat),
+    the mother of the book, and ambiguous ones (mutashabihat) whose interpretation God knows; God shapes
+    you in the wombs as he wills; God sent down the Torah (al-Tawrat) and the Gospel (al-Injil) before
+    as guidance; Israel''s God is called ''the living God, enduring forever, whose kingdom shall never
+    be destroyed''; God is king or master of the Day of Judgment (yawm al-din); Prayer that God not turn
+    (incline) the petitioner''s heart aside, but toward his way; God the Ever-Living, the Self-Subsisting
+    (al-hayy al-qayyum); God formed the kidneys and wove (knit) the speaker in his mother''s womb; A surah
+    opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+  basis: reading
+- text: 'Covenant at Moab; the secret apostate; the land like Sodom: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Torah, Gospel and the clear and ambiguous verses: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

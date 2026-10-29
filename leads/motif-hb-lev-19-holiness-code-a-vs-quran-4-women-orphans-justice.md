@@ -5,8 +5,8 @@ title: Be holy - ethical laws and love of neighbor ↔ Orphan girls, reconciliat
 summary: 'These two units share 1 motifs: judge fairly, favoring neither the poor nor the great.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -34,25 +34,33 @@ passages:
     بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ
     كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
 evidence:
-- text: 'Shared motifs, rarest first: Judge fairly, favoring neither the poor nor the great (weight 6.7).
-    Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    parallel. Q: kūnū qawwāmīna bi-l-qisṭi ... in yakun ghaniyyan aw faqīran fa-llāhu awlā bihimā fa-lā
+    tattabiʿū l-hawā. Lev: lōʾ-tiśśāʾ fənê-dāl wə-lōʾ tehdar pənê gādôl bə-ṣedeq tišpōṭ ʿămîtekhā. Q''s
+    pair rich/poor matches Lev''s dāl/gādôl.'
   basis: reading
-- text: 'Only in Be holy - ethical laws and love of neighbor: Command ''You shall be holy, for I am holy'';
-    Do not stand idly by the blood of your neighbor; Corners of the field, gleanings and fallen grapes
-    left for the poor and the stranger; Idols called ''elilim'' (''nothings''); Love your neighbor as
-    yourself; Do not take vengeance or bear a grudge against your people; Do not curse the deaf or put
-    a stumbling block before the blind; Sacrificial meat eaten on the third day is abhorrent (piggul)
-    and the offering is invalid; Do not hate your brother in your heart; rebuke your neighbor instead;
-    Each person must revere mother and father; Do not go about as a talebearer among your people; Pay
-    the poor hired worker before sunset.'
+- text: 'Shared motifs, rarest first: Judge fairly, favoring neither the poor nor the great (weight 6.0).
+    Pair score 6.0.'
   basis: reading
-- text: 'Only in Orphan girls, reconciliation, the suspended wife, and justice against oneself: If God
-    wills he takes you away and brings another people in your place; You will never be able to be equally
-    just among wives, however eager; Guardians must keep orphans'' property intact and hand it over when
-    they come of age; Form: ''They ask you for a ruling (yastaftūnaka); say: God gives you a ruling'';
-    A wife who fears her husband''s aversion may make a settlement with him; settlement is best; Do not
-    leave a wife ''suspended'' (kal-muʿallaqa), neither married nor free; Stand firm for justice as witnesses
-    for God even against yourselves, parents and kin, rich or poor.'
+- text: 'Only in Be holy - ethical laws and love of neighbor: Do not stand idly by the blood of your neighbor;
+    Do not take vengeance or bear a grudge against your people; Do not hate your brother in your heart;
+    rebuke your neighbor instead; Each person must revere mother and father; Command ''You shall be holy,
+    for I am holy''; A Quranic code of commandments resembling the Decalogue in content [divergence between
+    the texts]; Fulfill God''s covenant and do not break oaths after confirming them or use them for deceit;
+    Love your neighbor as yourself; Do not curse the deaf or put a stumbling block before the blind; Sacrificial
+    meat eaten on the third day is abhorrent (piggul) and the offering is invalid; The share of the poor
+    in the owner''s harvest or wealth [divergence between the texts]; If you retaliate, do so in kind;
+    but patience is better; and 6 more.'
+  basis: reading
+- text: 'Only in Orphan girls, reconciliation, the suspended wife, and justice against oneself: You will
+    never be able to be equally just among wives, however eager; A wife who fears her husband''s aversion
+    may make a settlement with him; settlement is best; Whether separation of spouses is allowed or hated
+    by God [contrast between the texts]; The marriage of fatherless girls is tied to their inheritance
+    [divergence between the texts]; Form: ''They ask you for a ruling (yastaftūnaka); say: God gives you
+    a ruling''; Do not leave a wife ''suspended'' (kal-muʿallaqa), neither married nor free; Stand firm
+    for justice as witnesses for God even against yourselves, parents and kin, rich or poor; Guardians
+    must keep orphans'' property intact and hand it over when they come of age; If God wills he takes
+    you away and brings another people in your place.'
   basis: reading
 - text: 'Be holy - ethical laws and love of neighbor: tagged by Claude (model), reading the Hebrew.'
   basis: reading

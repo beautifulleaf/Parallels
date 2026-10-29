@@ -2,12 +2,12 @@
 id: motif-hb-deut-21-heifer-captive-son-vs-quran-2-the-cow
 title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body ↔ The cow and the slain
   man
-summary: 'These two units share 1 motifs: unsolved murder: elders of nearest city break the neck of an
-  unworked heifer in an untilled wadi.'
+summary: 'These two units share 2 motifs: a heifer and a killing whose perpetrator is unknown [divergence
+  between the texts], unsolved murder: elders of nearest city break the neck of an unworked heifer in
+  an untilled wadi.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,8 +15,64 @@ traditions:
 layers:
 - motif
 motifs:
+- heifer-and-unsolved-killing-as-divergence
 - unsolved-murder-heifer-ritual
 passages:
+- tradition: judaism
+  ref: Deut 21:1
+  note: 'A heifer and a killing whose perpetrator is unknown [divergence between the texts] (Deut 21:1,
+    3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh ʾăšer lōʾ māšĕkâ
+    bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru l-arḍa ... wa-idh
+    qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing over which people
+    dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken (wĕ-ʿārĕpû)
+    and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the Quran the cow
+    is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun mā kuntum taktumūn):
+    the dead man is revived and the killer known.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּי יִמָּצֵ֣א חָלָ֗ל בָּאֲדָמָה֙ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֤ן לְךָ֙ לְרִשְׁתָּ֔הּ נֹפֵ֖ל
+    בַּשָּׂדֶ֑ה לֹ֥א נוֹדַ֖ע מִ֥י הִכָּֽהוּ
+- tradition: judaism
+  ref: Deut 21:3
+  note: 'A heifer and a killing whose perpetrator is unknown [divergence between the texts] (Deut 21:1,
+    3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh ʾăšer lōʾ māšĕkâ
+    bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru l-arḍa ... wa-idh
+    qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing over which people
+    dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken (wĕ-ʿārĕpû)
+    and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the Quran the cow
+    is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun mā kuntum taktumūn):
+    the dead man is revived and the killer known.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהָיָ֣ה הָעִ֔יר הַקְּרֹבָ֖ה אֶל הֶחָלָ֑ל וְלָֽקְח֡וּ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר
+    אֲשֶׁ֤ר לֹֽא עֻבַּד֙ בָּ֔הּ אֲשֶׁ֥ר לֹא מָשְׁכָ֖ה בְּעֹֽל
+- tradition: islam
+  ref: Quran 2:71
+  note: 'A heifer and a killing whose perpetrator is unknown [divergence between the texts] (Deut 21:1,
+    3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh ʾăšer lōʾ māšĕkâ
+    bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru l-arḍa ... wa-idh
+    qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing over which people
+    dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken (wĕ-ʿārĕpû)
+    and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the Quran the cow
+    is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun mā kuntum taktumūn):
+    the dead man is revived and the killer known.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
+    مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
+- tradition: islam
+  ref: Quran 2:72
+  note: 'A heifer and a killing whose perpetrator is unknown [divergence between the texts] (Deut 21:1,
+    3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh ʾăšer lōʾ māšĕkâ
+    bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru l-arḍa ... wa-idh
+    qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing over which people
+    dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken (wĕ-ʿārĕpû)
+    and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the Quran the cow
+    is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun mā kuntum taktumūn):
+    the dead man is revived and the killer known.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
 - tradition: judaism
   ref: Deut 21:1
   note: 'Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled wadi
@@ -48,23 +104,40 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
 evidence:
-- text: 'Shared motifs, rarest first: Unsolved murder: elders of nearest city break the neck of an unworked
-    heifer in an untilled wadi (weight 6.7). Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    divergence. Deut 21:1, 3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad
+    bāh ʾăšer lōʾ māšĕkâ bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru
+    l-arḍa ... wa-idh qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing
+    over which people dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken
+    (wĕ-ʿārĕpû) and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the
+    Quran the cow is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun
+    mā kuntum taktumūn): the dead man is revived and the killer known.'
+  basis: reading
+- text: 'Shared motifs, rarest first: A heifer and a killing whose perpetrator is unknown [divergence
+    between the texts] (weight 6.7); Unsolved murder: elders of nearest city break the neck of an unworked
+    heifer in an untilled wadi (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: Captive
     wife who is no longer wanted must be freed, not sold; Captive woman shaves her head, pares her nails,
-    mourns her parents a month before marriage; Firstborn of the unloved wife keeps the double portion;
-    Elders wash their hands over the heifer: our hands did not shed this blood; Body hanged on a tree
-    must be buried the same day; the hanged is a curse of God; Formula: you shall purge the evil from
-    your midst; Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city.'
+    mourns her parents a month before marriage; Elders wash their hands over the heifer: our hands did
+    not shed this blood; Body hanged on a tree must be buried the same day; the hanged is a curse of God;
+    A boy is killed lest he burden his believing parents with rebellion; God will give them a better child
+    [contrast between the texts]; Who receives a double share of inheritance [divergence between the texts];
+    Firstborn of the unloved wife keeps the double portion; Married women are forbidden except those one''s
+    right hand possesses (captives); A man may marry two, three or four wives, or only one if he fears
+    injustice; A son who rejects his parents: the charge and the penalty [divergence between the texts];
+    Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city; Formula: you shall
+    purge the evil from your midst.'
   basis: reading
 - text: 'Only in The cow and the slain man: Moses commands a cow be slaughtered; the people repeatedly
-    ask its age, color and nature before complying; Unyoked milk cows pull a new cart unguided, separated
-    from their calves, as a divine test; God will remove the heart of stone and give a heart of flesh
-    and a new spirit; Hearts harder than stones, yet some stones gush rivers, split for water or fall
-    down in fear of God; A slain man is struck with part of the slaughtered cow and revived to reveal
-    his killer; Unblemished red cow never yoked is burned whole for purifying ash; The sacrificial cow
-    is bright yellow, pleasing to beholders.'
+    ask its age, color and nature before complying; Hearts harder than stones, yet some stones gush rivers,
+    split for water or fall down in fear of God; A slain man is struck with part of the slaughtered cow
+    and revived to reveal his killer; The sacrificial cow is bright yellow, pleasing to beholders; What
+    contact with a corpse does [contrast between the texts]; Unyoked milk cows pull a new cart unguided,
+    separated from their calves, as a divine test; Description of the cow required by God [divergence
+    between the texts]; Unblemished red cow never yoked is burned whole for purifying ash; Hearts of stone
+    [divergence between the texts]; God will remove the heart of stone and give a heart of flesh and a
+    new spirit.'
   basis: reading
 - text: 'Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: tagged by Claude
     (model), reading the Hebrew.'

@@ -1,8 +1,8 @@
 ---
 id: motif-akk-gilgamesh-xi-vs-hb-gen-6-flood
 title: Utnapishtim's flood (Gilgamesh, Tablet XI) ↔ The Flood (full read)
-summary: 'These two units share 11 motifs: birds released to find dry land, exact dimensions of the vessel
-  are specified, deity or gods smell the offering, hero offers sacrifice after leaving the vessel….'
+summary: 'These two units share 11 motifs: exact dimensions of the vessel are specified, birds released
+  to find dry land, deity or gods smell the offering, hero offers sacrifice after leaving the vessel….'
 status: new
 relations:
 - transmission
@@ -14,8 +14,8 @@ traditions:
 layers:
 - motif
 motifs:
-- bird-release
 - vessel-dimensions-given
+- bird-release
 - deity-smells-offering
 - sacrifice-after-flood
 - vessel-rests-on-mountain
@@ -26,6 +26,16 @@ motifs:
 - universal-destruction
 - family-saved
 passages:
+- tradition: ane-akkadian
+  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+  note: Exact dimensions of the vessel are specified
+- tradition: judaism
+  ref: Gen 6:15
+  note: Exact dimensions of the vessel are specified (300 x 50 x 30 cubits)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְזֶ֕ה אֲשֶׁ֥ר תַּֽעֲשֶׂ֖ה אֹתָ֑הּ שְׁלֹ֧שׁ מֵא֣וֹת אַמָּ֗ה אֹ֚רֶךְ הַתֵּבָ֔ה חֲמִשִּׁ֤ים אַמָּה֙
+    רָחְבָּ֔הּ וּשְׁלֹשִׁ֥ים אַמָּ֖ה קוֹמָתָֽהּ
 - tradition: ane-akkadian
   ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
   note: Birds released to find dry land (dove)
@@ -41,16 +51,6 @@ passages:
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: וַיְשַׁלַּ֥ח אֶת הַיּוֹנָ֖ה מֵאִתּ֑וֹ לִרְאוֹת֙ הֲקַ֣לּוּ הַמַּ֔יִם מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: Exact dimensions of the vessel are specified
-- tradition: judaism
-  ref: Gen 6:15
-  note: Exact dimensions of the vessel are specified (300 x 50 x 30 cubits)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְזֶ֕ה אֲשֶׁ֥ר תַּֽעֲשֶׂ֖ה אֹתָ֑הּ שְׁלֹ֧שׁ מֵא֣וֹת אַמָּ֗ה אֹ֚רֶךְ הַתֵּבָ֔ה חֲמִשִּׁ֤ים אַמָּה֙
-    רָחְבָּ֔הּ וּשְׁלֹשִׁ֥ים אַמָּ֖ה קוֹמָתָֽהּ
 - tradition: ane-akkadian
   ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
   note: Deity or gods smell the offering (the gods gather like flies)
@@ -134,6 +134,13 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
     מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+- tradition: judaism
+  ref: Gen 6:17
+  note: Hero privately warned of the coming flood by a deity
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+    בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
 - tradition: ane-akkadian
   ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
   note: All others perish
@@ -153,8 +160,8 @@ passages:
 evidence:
 - text: Passages are shown for the 10 rarest of 11 shared motifs; the full list follows.
   basis: reading
-- text: 'Shared motifs, rarest first: Birds released to find dry land (weight 6.3); Exact dimensions of
-    the vessel are specified (weight 6.3); Deity or gods smell the offering (weight 5.8); Hero offers
+- text: 'Shared motifs, rarest first: Exact dimensions of the vessel are specified (weight 6.3); Birds
+    released to find dry land (weight 6.3); Deity or gods smell the offering (weight 5.8); Hero offers
     sacrifice after leaving the vessel (weight 5.4); Vessel comes to rest on a named mountain (weight
     5.4); Vessel sealed with pitch or bitumen (weight 5.4); Deity decides to destroy humankind (weight
     5.3); Hero builds a vessel on divine instruction (weight 5.2); Hero privately warned of the coming

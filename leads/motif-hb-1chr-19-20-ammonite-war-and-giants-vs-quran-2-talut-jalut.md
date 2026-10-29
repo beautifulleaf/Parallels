@@ -41,27 +41,27 @@ evidence:
 - text: 'Shared motifs, rarest first: A giant taunts Israel and is killed by a hero (weight 6.7). Pair
     score 6.7.'
   basis: reading
-- text: 'Only in Envoys humiliated, the Ammonite-Aramean war, Rabbah taken, and the giant-killers: An
-    army caught between enemies in front and behind divides its forces; Captives of a conquered city are
-    cut with saws and iron picks (or set to labor with them); The conqueror takes the gold crown of the
-    enemy king or god and puts it on his own head; Chronicles differs in a specific detail from its parallel
-    in Samuel–Kings; Envoys sent to console a new king on his father''s death are accused of spying; Envoys
-    are humiliated by shaving half their beards and cutting their garments; A giant with six fingers on
-    each hand and six toes on each foot; A king hires foreign chariots and horsemen with a thousand talents
-    of silver; Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated; A giant''s
-    spear shaft is like a weaver''s beam; At the turn of the year, when kings go out to battle.'
+- text: 'Only in Envoys humiliated, the Ammonite-Aramean war, Rabbah taken, and the giant-killers: Captives
+    of a conquered city are cut with saws and iron picks (or set to labor with them); The conqueror takes
+    the gold crown of the enemy king or god and puts it on his own head; A king hires foreign chariots
+    and horsemen with a thousand talents of silver; A giant''s spear shaft is like a weaver''s beam; At
+    the turn of the year, when kings go out to battle; An army caught between enemies in front and behind
+    divides its forces; Envoys sent to console a new king on his father''s death are accused of spying;
+    Envoys are humiliated by shaving half their beards and cutting their garments; A giant with six fingers
+    on each hand and six toes on each foot; Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites)
+    defeated; Chronicles differs in a specific detail from its parallel in Samuel–Kings.'
   basis: reading
-- text: 'Only in Talut (Saul), the ark and Jalut (Goliath): The ark of the covenant: a gold-plated acacia
-    chest with rings and poles; The ark (tabut) returns, carried by angels, containing tranquility (sakina)
-    and relics left by the family of Moses and Aaron; David kills Jalut (Goliath) and is given kingship
-    and wisdom; Were it not for God checking people by means of others, the earth would be corrupted;
-    It is the same to God to help the many or the powerless; ''How many a small band has overcome a large
-    one by God''s leave''; A jar of manna preserved before the testimony for future generations; God chose
-    the king and increased him in knowledge and stature, though he lacked wealth; The people object that
-    the chosen king has no wealth and they have more right to kingship; People demand a king ''like all
-    the nations''; Before battle the army is tested at a river: whoever drinks is not with the leader,
-    except a handful scooped by hand; Soldiers are selected by how they drink water; The chosen king is
-    taller than all the people from the shoulders up.'
+- text: 'Only in Talut (Saul), the ark and Jalut (Goliath): The ark (tabut) returns, carried by angels,
+    containing tranquility (sakina) and relics left by the family of Moses and Aaron; David kills Jalut
+    (Goliath) and is given kingship and wisdom; Were it not for God checking people by means of others,
+    the earth would be corrupted; ''How many a small band has overcome a large one by God''s leave'';
+    God chose the king and increased him in knowledge and stature, though he lacked wealth; The people
+    object that the chosen king has no wealth and they have more right to kingship; Before battle the
+    army is tested at a river: whoever drinks is not with the leader, except a handful scooped by hand;
+    The ark of the covenant: a gold-plated acacia chest with rings and poles [divergence between the texts];
+    What the ark contains [contrast between the texts]; David kills the Philistine giant [divergence between
+    the texts]; A jar of manna preserved before the testimony for future generations; Objection raised
+    against the newly chosen king [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Envoys humiliated, the Ammonite-Aramean war, Rabbah taken, and the giant-killers: tagged by Claude
     (model), reading the Hebrew.'

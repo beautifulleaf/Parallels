@@ -2,12 +2,11 @@
 id: motif-hb-gen-50-jacob-burial-joseph-death-vs-quran-12-joseph-full
 title: Embalming and burial of Jacob; Joseph's last words and death ↔ Joseph and his brothers (Surah 12,
   full read)
-summary: 'These two units share 2 motifs: hero declares that god turned the brothers'' deed to good, hero
-  forgives his brothers.'
+summary: 'These two units share 3 motifs: hero forgives his brothers [divergence between the texts], hero
+  forgives his brothers, hero declares that god turned the brothers'' deed to good.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,9 +14,60 @@ traditions:
 layers:
 - motif
 motifs:
-- hero-sees-divine-plan
+- hero-forgives-brothers-as-divergence
 - hero-forgives-brothers
+- hero-sees-divine-plan
 passages:
+- tradition: judaism
+  ref: Gen 50:17
+  note: 'Hero forgives his brothers [divergence between the texts] (Gen: the request for forgiveness comes
+    after Jacob''s death and in his name, śāʾ nāʾ ləpešaʿ ʿabdê ʾĕlōhê ʾābîkā, and Joseph answers hătaḥat
+    ʾĕlōhîm ʾānî ... ʾĕlōhîm ḥăšābāh ləṭōbâ. Q: forgiveness comes while Jacob lives, and Jacob himself
+    promises to intercede, sawfa astaghfiru lakum rabbī.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כֹּֽה תֹאמְר֣וּ לְיוֹסֵ֗ף אָ֣נָּ֡א שָׂ֣א נָ֠א פֶּ֣שַׁע אַחֶ֤יךָ וְחַטָּאתָם֙ כִּי רָעָ֣ה גְמָל֔וּךָ
+    וְעַתָּה֙ שָׂ֣א נָ֔א לְפֶ֥שַׁע עַבְדֵ֖י אֱלֹהֵ֣י אָבִ֑יךָ וַיֵּ֥בְךְּ יוֹסֵ֖ף בְּדַבְּרָ֥ם אֵלָֽיו
+- tradition: judaism
+  ref: Gen 50:19
+  note: 'Hero forgives his brothers [divergence between the texts] (Gen: the request for forgiveness comes
+    after Jacob''s death and in his name, śāʾ nāʾ ləpešaʿ ʿabdê ʾĕlōhê ʾābîkā, and Joseph answers hătaḥat
+    ʾĕlōhîm ʾānî ... ʾĕlōhîm ḥăšābāh ləṭōbâ. Q: forgiveness comes while Jacob lives, and Jacob himself
+    promises to intercede, sawfa astaghfiru lakum rabbī.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֧אמֶר אֲלֵהֶ֛ם יוֹסֵ֖ף אַל תִּירָ֑אוּ כִּ֛י הֲתַ֥חַת אֱלֹהִ֖ים אָֽנִי
+- tradition: islam
+  ref: Quran 12:91
+  note: 'Hero forgives his brothers [divergence between the texts] (Gen: no confession and no word of
+    forgiveness here, only wəʿattâ ʾal-tēʿāṣəbû and kisses and tears. Q: the brothers confess, wa-in kunnā
+    la-khāṭiʾīn, and Joseph pardons them at once, lā tathrība ʿalaykumu l-yawma yaghfiru llāhu lakum.
+    Gen postpones the request for forgiveness to Gen 50:17.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ
+- tradition: islam
+  ref: Quran 12:92
+  note: 'Hero forgives his brothers [divergence between the texts] (Gen: no confession and no word of
+    forgiveness here, only wəʿattâ ʾal-tēʿāṣəbû and kisses and tears. Q: the brothers confess, wa-in kunnā
+    la-khāṭiʾīn, and Joseph pardons them at once, lā tathrība ʿalaykumu l-yawma yaghfiru llāhu lakum.
+    Gen postpones the request for forgiveness to Gen 50:17.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
+- tradition: judaism
+  ref: Gen 50:21
+  note: Hero forgives his brothers
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְעַתָּה֙ אַל תִּירָ֔אוּ אָנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶֽת טַפְּכֶ֑ם וַיְנַחֵ֣ם אוֹתָ֔ם וַיְדַבֵּ֖ר
+    עַל לִבָּֽם
+- tradition: islam
+  ref: Quran 12:92
+  note: Hero forgives his brothers (lā tathrība ʿalaykum al-yawm)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 - tradition: judaism
   ref: Gen 50:20
   note: Hero declares that God turned the brothers' deed to good ('you meant evil, God meant it for good')
@@ -34,79 +84,36 @@ passages:
     رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
     وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ
     رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
-- tradition: judaism
-  ref: Gen 50:21
-  note: Hero forgives his brothers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּה֙ אַל תִּירָ֔אוּ אָנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶֽת טַפְּכֶ֑ם וַיְנַחֵ֣ם אוֹתָ֔ם וַיְדַבֵּ֖ר
-    עַל לִבָּֽם
-- tradition: islam
-  ref: Quran 12:92
-  note: Hero forgives his brothers (lā tathrība ʿalaykum al-yawm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Hero declares that God turned the brothers'' deed to good (weight
-    5.6); Hero forgives his brothers (weight 5.6). Pair score 11.2.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    divergence. Gen: the request for forgiveness comes after Jacob''s death and in his name, śāʾ nāʾ ləpešaʿ
+    ʿabdê ʾĕlōhê ʾābîkā, and Joseph answers hătaḥat ʾĕlōhîm ʾānî ... ʾĕlōhîm ḥăšābāh ləṭōbâ. Q: forgiveness
+    comes while Jacob lives, and Jacob himself promises to intercede, sawfa astaghfiru lakum rabbī.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Hero forgives his brothers [divergence between the texts] (weight
+    6.3); Hero forgives his brothers (weight 5.6); Hero declares that God turned the brothers'' deed to
+    good (weight 5.6). Pair score 17.5.'
   basis: reading
 - text: 'Only in Embalming and burial of Jacob; Joseph''s last words and death: Hero refuses to judge
-    or avenge, asking ''Am I in the place of God?''; Hero makes them swear to carry his bones out of Egypt;
-    After the father''s death the brothers fear revenge; Embalmed hero laid in a coffin (aron) in Egypt;
-    Embalming in the Egyptian manner; Father asks to be buried with his ancestors; Dying hero foretells
-    ''God will surely visit you'' (paqod yifqod) and bring you up; A great funeral procession with royal
-    elders, chariots and horsemen escorts the patriarch''s body; Great-grandchildren born on the hero''s
-    knees; Hero dies at 110; Locals name a place for the great mourning they witness (Abel-Mizraim); Seven
-    days of mourning for the dead.'
+    or avenge, asking ''Am I in the place of God?''; Embalmed hero laid in a coffin (aron) in Egypt; Dying
+    hero foretells ''God will surely visit you'' (paqod yifqod) and bring you up; A great funeral procession
+    with royal elders, chariots and horsemen escorts the patriarch''s body; Great-grandchildren born on
+    the hero''s knees; Locals name a place for the great mourning they witness (Abel-Mizraim); After the
+    father''s death the brothers fear revenge; Embalming in the Egyptian manner; Seven days of mourning
+    for the dead; Hero makes them swear to carry his bones out of Egypt; Father asks to be buried with
+    his ancestors; Hero dies at 110.'
   basis: reading
-- text: 'Only in Joseph and his brothers (Surah 12, full read): Foster parent says: perhaps he will benefit
-    us, or we will take him as a son; Seduction attempt when the two are alone in the house; Brothers
-    tell their father to ask the town and the caravan to confirm their story; Birds eat bread from on
-    top of the dreamer''s head; Brothers bring the hero''s garment with false blood; Hero bought by an
-    Egyptian official; Brothers claim the accused youth''s absent brother (the hero) had also stolen before;
-    Famished brothers bring poor goods and ask the disguised hero for alms; Brothers come for grain and
-    do not recognize the hero; The brothers confess ''we were sinners'' once the hero is revealed and
-    ask their father to pray for them; Brothers persuade the reluctant father to send the hero with them;
-    Brothers, out of envy, plot to kill the hero; Brothers come to their father at night, weeping; Hero
-    cast into a pit or well; The king''s experts cannot interpret the dream; The freed prisoner remembers
-    the hero and recommends him; Hero demands they bring their youngest brother; God''s favor rests on
-    the hero while he is a slave or prisoner; God reassures the hero in the pit; Do not despair of God''s
-    mercy (rawh / rahma); only unbelievers or the astray despair; Dream of sun, moon and eleven stars
-    bowing to the hero; Hero reveals himself to the youngest brother first; The woman falsely accuses
-    the hero of assault; The whole family moves to Egypt; Plan to store grain in the good years for the
-    famine years; The father''s eyesight fails; Father loves the hero more than his brothers; Father keeps
-    lamenting his lost son for years until his sons fear he will waste away; The patriarch claims to know
-    from God what his sons do not know; Father promises his repentant sons to ask God''s forgiveness for
-    them later; Father refuses at first to send the youngest; Father revives on hearing the hero lives;
-    Father does not believe the brothers'' story; Father recognizes his son''s scent; Father warns the
-    hero not to tell his dream to his brothers; The freed prisoner forgets the hero for years; Hero''s
-    garment becomes evidence in the seduction episode; Hero''s garment restores the father''s sight; Hero
-    placed over the land''s storehouses or the kingdom; Hero''s beauty is remarked on; Hero refuses release
-    until his innocence is established; Hero thrown into prison; Hero nearly yields but a sign from God
-    stops him; Hero prays to die in submission and join the righteous; Hero preaches monotheism to his
-    fellow prisoners; Hero prays that prison is preferable to sin; Hero refuses, citing loyalty to his
-    master and to God; Hero reveals his identity to his brothers; Fleeing the seductress, the hero and
-    the woman find her husband at the door; Hero attributes his dream interpretation to God; The bereaved
-    father answers with ''beautiful patience'' (sabr jamil) and reliance on God; King dreams of seven
-    fat cows eaten by seven lean, and seven green ears and seven dry; The hero could not have kept his
-    brother under the king''s law, so a stratagem is needed; The husband recognizes his wife''s guilt;
-    The master''s wife tries to seduce the hero; Their payment is secretly returned in their bags; A brother
-    offers himself or another in place of the youngest; One brother talks the others out of killing him;
-    One brother stays behind in Egypt; One prisoner is restored, the other executed and his body exposed;
-    Family prostrates before the hero, fulfilling the dream; Hero''s cup is hidden in the youngest brother''s
-    bag; A brother or the brothers give the father a pledge for the youngest; Two fellow prisoners dream
-    of pressing wine and carrying bread; The hero declares he follows the religion of his fathers Abraham,
-    Isaac and Jacob; Hero asks the freed prisoner to mention him to the king; A passing caravan takes
-    the hero from the pit; Hero meets and embraces his father; A camel-load is promised to whoever brings
-    back the missing royal cup, with a guarantor; Satan stirs up enmity (nazagha) between brothers or
-    among people; Search proceeds through the others'' bags before the youngest''s; Father tells the sons
-    to enter by separate gates; Hero sold for a small sum of silver; ''The soul is ever inciting to evil''
-    (al-nafs al-ammara bi-l-su'') except whom God shows mercy; Brothers pursued and accused of theft;
-    The brothers themselves name the thief''s penalty; The wife confesses the hero''s innocence; A wild
-    animal is blamed for the hero''s death; A witness proposes judging by where the shirt is torn; Women
-    dazzled by the hero cut their hands; Women of the city gossip about the wife''s passion; A year of
-    rain and relief follows the famine.'
+- text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
+    town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
+    hero) had also stolen before; Famished brothers bring poor goods and ask the disguised hero for alms;
+    The brothers confess ''we were sinners'' once the hero is revealed and ask their father to pray for
+    them; Father keeps lamenting his lost son for years until his sons fear he will waste away; The patriarch
+    claims to know from God what his sons do not know; Father promises his repentant sons to ask God''s
+    forgiveness for them later; Fleeing the seductress, the hero and the woman find her husband at the
+    door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
+    hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
+    he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
+    brings back the missing royal cup, with a guarantor; and 106 more.'
   basis: reading
 - text: 'Embalming and burial of Jacob; Joseph''s last words and death: tagged by Claude (model), reading
     the Hebrew.'

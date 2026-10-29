@@ -1,0 +1,91 @@
+---
+id: motif-hb-exod-3-burning-bush-vs-quran-19-prophets-remembered
+title: The burning bush and the divine name ↔ Moses, Ishmael and Idris remembered; the later generation
+  that neglected prayer (Surah 19:51-65)
+summary: 'These two units share 1 motifs: god called moses and drew him near in confidential converse
+  (najiyy) [divergence between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- moses-drawn-near-in-confidential-speech-as-divergence
+passages:
+- tradition: judaism
+  ref: Exod 3:4
+  note: 'God called Moses and drew him near in confidential converse (najiyy) [divergence between the
+    texts] (wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi ṭ-ṭūri
+    l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed: Exod
+    has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root q-r-b).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֥רְא יְהוָ֖ה כִּ֣י סָ֣ר לִרְא֑וֹת וַיִּקְרָא֩ אֵלָ֨יו אֱלֹהִ֜ים מִתּ֣וֹךְ הַסְּנֶ֗ה וַיֹּ֛אמֶר
+    מֹשֶׁ֥ה מֹשֶׁ֖ה וַיֹּ֥אמֶר הִנֵּֽנִי
+- tradition: judaism
+  ref: Exod 3:5
+  note: 'God called Moses and drew him near in confidential converse (najiyy) [divergence between the
+    texts] (wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi ṭ-ṭūri
+    l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed: Exod
+    has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root q-r-b).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֖אמֶר אַל תִּקְרַ֣ב הֲלֹ֑ם שַׁל נְעָלֶ֨יךָ֙ מֵעַ֣ל רַגְלֶ֔יךָ כִּ֣י הַמָּק֗וֹם אֲשֶׁ֤ר אַתָּה֙
+    עוֹמֵ֣ד עָלָ֔יו אַדְמַת קֹ֖דֶשׁ הֽוּא
+- tradition: islam
+  ref: Quran 19:52
+  note: 'God called Moses and drew him near in confidential converse (najiyy) [divergence between the
+    texts] (wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi ṭ-ṭūri
+    l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed: Exod
+    has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root q-r-b).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    divergence. wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi
+    ṭ-ṭūri l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed:
+    Exod has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root
+    q-r-b).'
+  basis: reading
+- text: 'Shared motifs, rarest first: God called Moses and drew him near in confidential converse (najiyy)
+    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in The burning bush and the divine name: God names himself ''I will be what I will be''
+    (ehyeh asher ehyeh); God has seen the affliction, heard the cry and comes down to deliver; God introduced
+    to a foreign king as ''the God of the Hebrews''; God foretells that the king will not let the people
+    go except under compulsion; Hero hides his face, afraid to look at God; The sign confirming the call
+    is that the people will later worship on this mountain; God calls Moses from the fire, from a bush
+    or a tree [divergence between the texts]; God declares his name as his everlasting memorial for all
+    generations; The title of God in whose name Moses goes to Pharaoh; The list of fathers in ''God of
+    your fathers'' [divergence between the texts]; Whose forefathers'' God is proclaimed in the Moses
+    story [divergence between the texts]; How God names himself to Moses from the fire [divergence between
+    the texts]; and 17 more.'
+  basis: reading
+- text: 'Only in Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah
+    19:51-65): The angels say ''We descend only by your Lord''s command''; God has no namesake or equal
+    (samiyy); Ishmael was true to his promise and enjoined prayer and alms on his family; When the Merciful''s
+    verses are recited the prophets fall prostrate and weeping; In paradise the blessed receive their
+    provision morning and evening; God chose Adam, Noah, the family of Abraham and the family of Imran
+    over the worlds; A prophet named Idrīs is mentioned among the righteous; God raised Idris to a high
+    place; After the prophets came a generation that neglected prayer and followed lusts; God called Moses
+    and drew him near in confidential converse (najiyy); The covenant appointment is at the right (ayman)
+    side of the Mount (al-Ṭūr); An eloquent brother is appointed to speak for the hero, who is ''as God''
+    to him [divergence between the texts]; and 5 more.'
+  basis: reading
+- text: 'The burning bush and the divine name: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65):
+    tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -1,0 +1,81 @@
+---
+id: motif-hb-prov-20-sayings-vs-quran-42-shura-signs-and-ethics
+title: Sayings on wine, the king's throne and the lamp of YHWH ↔ Provision in measure, rain, ships like
+  mountains and the ethics of consultation and pardon
+summary: 'These two units share 1 motifs: without counsel a people falls; in a multitude of counselors
+  there is victory.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- safety-in-many-counselors
+passages:
+- tradition: judaism
+  ref: Prov 20:18
+  note: Without counsel a people falls; in a multitude of counselors there is victory (wage war by guidance
+    (tahbulot))
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מַ֭חֲשָׁבוֹת בְּעֵצָ֣ה תִכּ֑וֹן וּ֝בְתַחְבֻּל֗וֹת עֲשֵׂ֣ה מִלְחָמָֽה
+- tradition: islam
+  ref: Quran 42:38
+  note: Without counsel a people falls; in a multitude of counselors there is victory (maḥăšāḇôṯ bə-ʿēṣâ
+    tikkôn û-ḇə-ṯaḥbulôṯ ʿăśēh milḥāmâ vs. wa-amruhum shūrā baynahum. A piece of advice for rulers in
+    Proverbs becomes a mark of the believing community in the Quran (beside prayer and almsgiving).)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ
+    وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    echo. maḥăšāḇôṯ bə-ʿēṣâ tikkôn û-ḇə-ṯaḥbulôṯ ʿăśēh milḥāmâ vs. wa-amruhum shūrā baynahum. A piece
+    of advice for rulers in Proverbs becomes a mark of the believing community in the Quran (beside prayer
+    and almsgiving).'
+  basis: reading
+- text: 'Shared motifs, rarest first: Without counsel a people falls; in a multitude of counselors there
+    is victory (weight 5.8). Pair score 5.8.'
+  basis: reading
+- text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
+    evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
+    is filled with gravel; ''Bad, bad,'' says the buyer, then goes away and boasts; Counsel in a man''s
+    heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
+    is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
+    The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
+    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
+    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
+    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
+    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+  basis: reading
+- text: 'Only in Provision in measure, rain, ships like mountains and the ethics of consultation and pardon:
+    The believers conduct their affairs by mutual consultation (shura); God has dispersed living creatures
+    (dabba) in both the heavens and the earth and can gather them; God accepts repentance from his servants
+    and pardons evil deeds; Retaliation in kind is permitted, but whoever pardons and makes peace has
+    his reward with God; God''s control of the wind over ships at sea: raising a storm or stilling it
+    [divergence between the texts]; Whatever misfortune strikes people is for what their own hands have
+    earned, though God pardons much; What is given in this life is passing enjoyment (mata''); what is
+    with God is better and more lasting; God sends down rain after people have despaired and spreads out
+    his mercy; Do not say ''I will do to him as he has done to me; I will pay the man back for his deed'';
+    Whether one may pay back a wrong in kind [divergence between the texts]; Ships running on the sea
+    like landmarks/mountains are a sign; God could still the wind and leave them motionless or wreck them;
+    If God gave his servants unlimited provision they would transgress on earth, so he sends down in measure;
+    and 2 more.'
+  basis: reading
+- text: 'Sayings on wine, the king''s throne and the lamp of YHWH: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'Provision in measure, rain, ships like mountains and the ethics of consultation and pardon: tagged
+    by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

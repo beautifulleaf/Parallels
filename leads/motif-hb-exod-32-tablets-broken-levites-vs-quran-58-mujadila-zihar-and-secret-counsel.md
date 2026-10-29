@@ -2,12 +2,12 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-58-mujadila-zihar-and-secret-counsel
 title: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer ↔ Al-Mujadila: the woman who
   disputed, the zihar formula and its expiation; God the fourth of three; the party of God'
-summary: 'These two units share 2 motifs: the levites kill idolaters including their own kin and are consecrated
-  for it, god keeps a book in which names are written and from which sinners are blotted.'
+summary: 'These two units share 3 motifs: loyalty to god over one''s own kin [divergence between the texts],
+  the levites kill idolaters including their own kin and are consecrated for it, god keeps a book in which
+  names are written and from which sinners are blotted.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,9 +15,50 @@ traditions:
 layers:
 - motif
 motifs:
+- loyalty-to-god-against-kin-as-divergence
 - levites-kill-idolaters-kin
 - heavenly-book-of-life
 passages:
+- tradition: judaism
+  ref: Exod 32:26
+  note: 'Loyalty to God over one''s own kin [divergence between the texts] (Loyalty to God against one''s
+    own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš
+    bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran: lā tajidu qawman yuʾminūna bi-llāhi ...
+    yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
+    ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers); the Quran asks withdrawal of love, not slaughter.
+    Moses'' ''who is for YHWH?'' matches the ''party of God'' (ḥizb Allāh).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּעֲמֹ֤ד מֹשֶׁה֙ בְּשַׁ֣עַר הַֽמַּחֲנֶ֔ה וַיֹּ֕אמֶר מִ֥י לַיהוָ֖ה אֵלָ֑י וַיֵּאָסְפ֥וּ אֵלָ֖יו
+    כָּל בְּנֵ֥י לֵוִֽי
+- tradition: judaism
+  ref: Exod 32:27
+  note: 'Loyalty to God over one''s own kin [divergence between the texts] (Loyalty to God against one''s
+    own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš
+    bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran: lā tajidu qawman yuʾminūna bi-llāhi ...
+    yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
+    ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers); the Quran asks withdrawal of love, not slaughter.
+    Moses'' ''who is for YHWH?'' matches the ''party of God'' (ḥizb Allāh).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
+    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
+    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
+- tradition: islam
+  ref: Quran 58:22
+  note: 'Loyalty to God over one''s own kin [divergence between the texts] (Loyalty to God against one''s
+    own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš
+    bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran: lā tajidu qawman yuʾminūna bi-llāhi ...
+    yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
+    ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers); the Quran asks withdrawal of love, not slaughter.
+    Moses'' ''who is for YHWH?'' matches the ''party of God'' (ḥizb Allāh).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ
+    وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ
+    أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّٰتٍ
+    تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ أُو۟لَٰٓئِكَ
+    حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
 - tradition: judaism
   ref: Exod 32:27
   note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
@@ -67,38 +108,43 @@ passages:
   text: يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ
     وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
 evidence:
-- text: 'Shared motifs, rarest first: The Levites kill idolaters including their own kin and are consecrated
-    for it (weight 6.0); God keeps a book in which names are written and from which sinners are blotted
-    (weight 4.7). Pair score 10.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    divergence. Loyalty to God against one''s own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill
+    ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran:
+    lā tajidu qawman yuʾminūna bi-llāhi ... yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum
+    aw abnāʾahum aw ikhwānahum aw ʿashīratahum ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers);
+    the Quran asks withdrawal of love, not slaughter. Moses'' ''who is for YHWH?'' matches the ''party
+    of God'' (ḥizb Allāh).'
+  basis: reading
+- text: 'Shared motifs, rarest first: Loyalty to God over one''s own kin [divergence between the texts]
+    (weight 6.7); The Levites kill idolaters including their own kin and are consecrated for it (weight
+    5.8); God keeps a book in which names are written and from which sinners are blotted (weight 4.6).
+    Pair score 17.0.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
-    the people pressed him and the calf came out of the fire; God sends an angel ahead of Israel who bears
-    God''s name; The idol is burned, ground to powder, scattered on water and the people made to drink
-    it; The people run wild and become a derision to their enemies; God strikes the people with plague
-    for idolatry; The prophet asks to be blotted from God''s book if the people are not forgiven; The
-    noise of the idolatrous revelry is mistaken for the sound of battle; The prophet breaks the tablets
-    in anger at the idolatry; The tablets are written on both sides by God; The leader calls ''Who is
-    for YHWH? To me!'' and a group rallies.'
+    the people pressed him and the calf came out of the fire; The people run wild and become a derision
+    to their enemies; God strikes the people with plague for idolatry; The prophet asks to be blotted
+    from God''s book if the people are not forgiven; The noise of the idolatrous revelry is mistaken for
+    the sound of battle; The tablets are written on both sides by God; The leader calls ''Who is for YHWH?
+    To me!'' and a group rallies; Aaron answers Moses'' rebuke over the calf [divergence between the texts];
+    Calf burned, ground to dust, and the dust thrown into the stream [divergence between the texts]; The
+    calf-maker is condemned to say all his life ''No touching!'' (lā misās), an outcast [divergence between
+    the texts]; Israel made to drink the golden calf [divergence between the texts]; God erases what he
+    wills and confirms, and with him is the Mother of the Book (umm al-kitab); and 14 more.'
   basis: reading
 - text: 'Only in Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth
     of three; the party of God: Before a private consultation with the prophet give charity (sadaqa);
-    the rule is then relaxed; Daughters petition and win the right to inherit when there is no son; God
-    has written: ''I will surely prevail, I and my messengers''; There is no secret conversation of three
-    but God is the fourth, nor of five but he is the sixth, wherever they are; God is well pleased with
-    them and they with him (radiya llahu ''anhum wa-radu ''anhu); God knows what enters and leaves the
-    earth and what descends from and ascends to heaven, and he is with you wherever you are; They greet
-    the prophet with a greeting with which God did not greet him (al-sam for al-salam); List of forbidden
-    close-kin unions (''uncovering nakedness''); When told to make room in assemblies, make room, and
-    God will make room for you; rise when told to rise; Believers do not love those who oppose God, even
-    fathers, sons, brothers or clan; God writes faith on their hearts and supports them with a spirit;
-    The hypocrites take their oaths as a shield (junna) and will swear falsely even to God at the resurrection;
-    The offering is reduced for those who cannot afford it; The party of Satan (hizb al-shaytan) are the
-    losers; the party of God (hizb Allah) are the successful; For all there are degrees (darajat) according
-    to what they did; Secret counsels (najwa) for sin, aggression and disobedience are of Satan; confer
-    rather in piety; God has heard the woman who argued with the prophet about her husband and complained
-    to God (Khawla, ''she who disputes''); Expiation for zihar before touching again: free a slave, or
-    fast two consecutive months, or feed sixty poor; Zihar: a husband declaring his wife ''like my mother''s
-    back''; she is not his mother, the saying is false and abhorrent.'
+    the rule is then relaxed; God has written: ''I will surely prevail, I and my messengers''; They greet
+    the prophet with a greeting with which God did not greet him (al-sam for al-salam); When told to make
+    room in assemblies, make room, and God will make room for you; rise when told to rise; The party of
+    Satan (hizb al-shaytan) are the losers; the party of God (hizb Allah) are the successful; Secret counsels
+    (najwa) for sin, aggression and disobedience are of Satan; confer rather in piety; God has heard the
+    woman who argued with the prophet about her husband and complained to God (Khawla, ''she who disputes'');
+    Expiation for zihar before touching again: free a slave, or fast two consecutive months, or feed sixty
+    poor; There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
+    wherever they are; God is well pleased with them and they with him (radiya llahu ''anhum wa-radu ''anhu);
+    Expiation in steps according to what one can afford [divergence between the texts]; God will put his
+    law within the people and write it on their hearts; and 8 more.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

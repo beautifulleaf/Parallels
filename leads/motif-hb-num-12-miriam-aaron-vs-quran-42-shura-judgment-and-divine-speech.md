@@ -2,12 +2,12 @@
 id: motif-hb-num-12-miriam-aaron-vs-quran-42-shura-judgment-and-divine-speech
 title: Miriam and Aaron speak against Moses ↔ The damned seek a way back; God gives children as he wills;
   three ways God speaks to man
-summary: 'These two units share 1 motifs: god speaks to one prophet ''mouth to mouth'', not in dreams
-  or riddles.'
+summary: 'These two units share 2 motifs: god speaks to one prophet ''mouth to mouth'', not in dreams
+  or riddles, how god speaks to prophets: face to face, in vision or dream, from behind a veil, or by
+  a messenger [divergence between the texts].'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -16,6 +16,7 @@ layers:
 - motif
 motifs:
 - face-to-face-revelation
+- modes-of-divine-speech-to-prophets-as-divergence
 passages:
 - tradition: judaism
   ref: Num 12:7
@@ -40,26 +41,72 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ
     رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
+- tradition: judaism
+  ref: Num 12:6
+  note: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
+    [divergence between the texts] (Both rank the ways God speaks to a man, with opposite tops. Num 12:
+    to a prophet bam-marʾâ ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ
+    YHWH yabbîṭ (mouth to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu
+    llāhu illā waḥyan aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly;
+    the highest mode, ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֖אמֶר שִׁמְעוּ נָ֣א דְבָרָ֑י אִם יִֽהְיֶה֙ נְבִ֣יאֲכֶ֔ם יְהוָ֗ה בַּמַּרְאָה֙ אֵלָ֣יו אֶתְוַדָּ֔ע
+    בַּחֲל֖וֹם אֲדַבֶּר בּֽוֹ
+- tradition: judaism
+  ref: Num 12:7
+  note: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
+    [divergence between the texts] (Both rank the ways God speaks to a man, with opposite tops. Num 12:
+    to a prophet bam-marʾâ ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ
+    YHWH yabbîṭ (mouth to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu
+    llāhu illā waḥyan aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly;
+    the highest mode, ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹא כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכָל בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא
+- tradition: islam
+  ref: Quran 42:51
+  note: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
+    [divergence between the texts] (Both rank the ways God speaks to a man, with opposite tops. Num 12:
+    to a prophet bam-marʾâ ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ
+    YHWH yabbîṭ (mouth to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu
+    llāhu illā waḥyan aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly;
+    the highest mode, ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ
+    رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
 evidence:
-- text: 'Shared motifs, rarest first: God speaks to one prophet ''mouth to mouth'', not in dreams or riddles
-    (weight 6.7). Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    divergence. Both rank the ways God speaks to a man, with opposite tops. Num 12: to a prophet bam-marʾâ
+    ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ YHWH yabbîṭ (mouth
+    to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu llāhu illā waḥyan
+    aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly; the highest mode,
+    ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).'
   basis: reading
-- text: 'Only in Miriam and Aaron speak against Moses: Prophet criticized over his foreign (Cushite) wife;
-    Hero''s prayer or act halts a divine punishment; Hero called the humblest man on earth; God leads
-    the people in a pillar of cloud by day and a pillar of fire by night; Ordinary prophets receive revelation
-    in visions and dreams; Afflicted person shut outside the camp seven days; Prophet''s own siblings
-    challenge his unique authority; Offender struck with skin disease ''white as snow''; Father spitting
-    in a daughter''s face brings seven days'' shame.'
+- text: 'Shared motifs, rarest first: God speaks to one prophet ''mouth to mouth'', not in dreams or riddles
+    (weight 6.7); How God speaks to prophets: face to face, in vision or dream, from behind a veil, or
+    by a messenger [divergence between the texts] (weight 6.3). Pair score 13.0.'
+  basis: reading
+- text: 'Only in Miriam and Aaron speak against Moses: Hero called the humblest man on earth; Ordinary
+    prophets receive revelation in visions and dreams; Afflicted person shut outside the camp seven days;
+    Prophet''s own siblings challenge his unique authority; Father spitting in a daughter''s face brings
+    seven days'' shame; Believers must not put themselves before God and his messenger, nor raise their
+    voices above the prophet''s or shout to him; Prophet criticized over his foreign (Cushite) wife; Moses
+    asks his people: ''Why do you hurt me when you know I am God''s messenger to you?''; when they swerved
+    God made their hearts swerve; Those who hurt Moses: God cleared him of what they said [divergence
+    between the texts]; God ranked some messengers above others; to some God spoke; Offender struck with
+    skin disease ''white as snow''; Hero''s prayer or act halts a divine punishment; and 1 more.'
   basis: reading
 - text: 'Only in The damned seek a way back; God gives children as he wills; three ways God speaks to
     man: The damned, seeing the punishment, ask whether there is any way of return (to the world); The
-    wrongdoers are presented to the Fire humbled, looking with a stealthy glance; God grants daughters
-    to whom he wills, sons to whom he wills, or both, and makes barren whom he wills; When man tastes
-    mercy he exults; when evil strikes him for his deeds he is ungrateful; Before revelation the prophet
-    did not know what the Book or faith was; The prophet is not a guardian over people; his duty is only
-    to deliver the message (al-balagh); The revelation is a spirit (ruh) from God''s command and a light
+    wrongdoers are presented to the Fire humbled, looking with a stealthy glance; When man tastes mercy
+    he exults; when evil strikes him for his deeds he is ungrateful; Before revelation the prophet did
+    not know what the Book or faith was; The revelation is a spirit (ruh) from God''s command and a light
     by which he guides; God speaks to a human only by inspiration (wahy), from behind a veil (hijab),
-    or by sending a messenger.'
+    or by sending a messenger; God grants daughters to whom he wills, sons to whom he wills, or both,
+    and makes barren whom he wills; The prophet is not a guardian over people; his duty is only to deliver
+    the message (al-balagh); No human can see God''s face and live.'
   basis: reading
 - text: 'Miriam and Aaron speak against Moses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

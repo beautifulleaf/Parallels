@@ -1,0 +1,71 @@
+---
+id: motif-hb-jer-14-drought-vs-quran-9-hypocrites-vow
+title: The drought - the doe forsakes her fawn; lying prophets ↔ The broken vow of charity; seventy prayers
+  in vain
+summary: 'These two units share 1 motifs: god forbids the prophet to pray or intercede for the people,
+  for he will not hear.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- prophet-forbidden-to-intercede
+passages:
+- tradition: judaism
+  ref: Jer 14:11
+  note: God forbids the prophet to pray or intercede for the people, for he will not hear
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י אַל תִּתְפַּלֵּ֛ל בְּעַד הָעָ֥ם הַזֶּ֖ה לְטוֹבָֽה
+- tradition: islam
+  ref: Quran 9:80
+  note: God forbids the prophet to pray or intercede for the people, for he will not hear
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن
+    يَغْفِرَ ٱللَّهُ لَهُمْ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱللَّهُ لَا يَهْدِى
+    ٱلْقَوْمَ ٱلْفَٰسِقِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    parallel. ʾal-titpallēl bᵉʿad-hāʿām hazzeh lᵉṭôbāh vs istaghfir lahum aw lā tastaghfir lahum.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God forbids the prophet to pray or intercede for the people, for
+    he will not hear (weight 5.4). Pair score 5.4.'
+  basis: reading
+- text: 'Only in The drought - the doe forsakes her fawn; lying prophets: In drought the doe abandons
+    her newborn fawn and wild asses pant for air like jackals, their eyes failing; Lament asks why God
+    is like a stranger in the land, a traveler stopping for a night, a stunned warrior who cannot save;
+    In drought nobles send servants for water who find the cisterns dry and return with empty vessels,
+    heads covered in shame; Punishment: one''s corpse will not come to the tomb of one''s ancestors; The
+    people complain ''Why have we fasted and you do not see?'' and are rebuked; God acts for his own name''s
+    sake and will not give his glory to another; A disgraced man goes home mourning with his head covered;
+    Heaven is shut and no rain falls because of the people''s sin; repentance brings rain; God did not
+    send the prophets who promise peace; they prophesy a lying vision, divination and the deceit of their
+    heart; Judgment by the triad sword, famine and pestilence.'
+  basis: reading
+- text: 'Only in The broken vow of charity; seventy prayers in vain: Hypocrites mock believers who give
+    voluntarily and those who can give only their effort; Men vow to give alms if God enriches them, then
+    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; Hero
+    vows that if God protects and provides for him, he will worship and tithe [divergence between the
+    texts]; Whether the prophet should intercede for a sinful people [contrast between the texts]; Even
+    if the prophet asks forgiveness for them seventy times God will not forgive them; God is near in their
+    mouths but far from their kidneys (hearts); Pay vows without delay; not vowing is no sin.'
+  basis: reading
+- text: 'The drought - the doe forsakes her fawn; lying prophets: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'The broken vow of charity; seventy prayers in vain: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

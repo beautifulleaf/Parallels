@@ -1,9 +1,9 @@
 ---
 id: motif-hb-exod-29-ordination-rite-vs-hb-lev-8-ordination-performed
 title: Ordination of the priests ↔ Moses ordains Aaron and his sons
-summary: 'These two units share 10 motifs: ordination of priests lasts seven days, anointing oil is poured
-  on the head of the priest, blood and anointing oil are sprinkled on the priests and their garments,
-  priests are washed with water at the entrance before ordination….'
+summary: 'These two units share 10 motifs: anointing oil is poured on the head of the priest, blood and
+  anointing oil are sprinkled on the priests and their garments, ordination of priests lasts seven days,
+  portions are waved before god as a wave offering….'
 status: new
 relations:
 - internal
@@ -13,17 +13,45 @@ traditions:
 layers:
 - motif
 motifs:
-- seven-day-ordination
 - anointing-oil-poured-on-head
 - sprinkling-blood-and-oil-on-garments
+- seven-day-ordination
+- wave-offering
 - priests-washed-at-tent-entrance
 - blood-on-right-ear-thumb-toe
-- wave-offering
 - leftover-sacred-meat-burned-by-morning
+- laying-hands-on-victim
 - sin-offering-burned-outside-camp
 - blood-on-altar-horns
-- laying-hands-on-victim
 passages:
+- tradition: judaism
+  ref: Exod 29:7
+  note: Anointing oil is poured on the head of the priest
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְלָֽקַחְתָּ֙ אֶת שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְיָצַקְתָּ֖ עַל רֹאשׁ֑וֹ וּמָשַׁחְתָּ֖ אֹתֽוֹ
+- tradition: judaism
+  ref: Lev 8:12
+  note: Anointing oil is poured on the head of the priest
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּצֹק֙ מִשֶּׁ֣מֶן הַמִּשְׁחָ֔ה עַ֖ל רֹ֣אשׁ אַהֲרֹ֑ן וַיִּמְשַׁ֥ח אֹת֖וֹ לְקַדְּשֽׁוֹ
+- tradition: judaism
+  ref: Exod 29:21
+  note: Blood and anointing oil are sprinkled on the priests and their garments
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְלָקַחְתָּ֞ מִן הַדָּ֨ם אֲשֶׁ֥ר עַֽל הַמִּזְבֵּחַ֮ וּמִשֶּׁ֣מֶן הַמִּשְׁחָה֒ וְהִזֵּיתָ֤ עַֽל
+    אַהֲרֹן֙ וְעַל בְּגָדָ֔יו וְעַל בָּנָ֛יו וְעַל בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וְקָדַ֥שׁ הוּא֙ וּבְגָדָ֔יו
+    וּבָנָ֛יו וּבִגְדֵ֥י בָנָ֖יו אִתּֽוֹ
+- tradition: judaism
+  ref: Lev 8:30
+  note: Blood and anointing oil are sprinkled on the priests and their garments
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקַּ֨ח מֹשֶׁ֜ה מִשֶּׁ֣מֶן הַמִּשְׁחָ֗ה וּמִן הַדָּם֮ אֲשֶׁ֣ר עַל הַמִּזְבֵּחַ֒ וַיַּ֤ז עַֽל
+    אַהֲרֹן֙ עַל בְּגָדָ֔יו וְעַל בָּנָ֛יו וְעַל בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וַיְקַדֵּ֤שׁ אֶֽת אַהֲרֹן֙
+    אֶת בְּגָדָ֔יו וְאֶת בָּנָ֛יו וְאֶת בִּגְדֵ֥י בָנָ֖יו אִתּֽוֹ
 - tradition: judaism
   ref: Exod 29:35
   note: Ordination of priests lasts seven days
@@ -55,33 +83,33 @@ passages:
   text: וּפֶתַח֩ אֹ֨הֶל מוֹעֵ֜ד תֵּשְׁב֨וּ יוֹמָ֤ם וָלַ֨יְלָה֙ שִׁבְעַ֣ת יָמִ֔ים וּשְׁמַרְתֶּ֛ם אֶת מִשְׁמֶ֥רֶת
     יְהוָ֖ה וְלֹ֣א תָמ֑וּתוּ כִּי כֵ֖ן צֻוֵּֽיתִי
 - tradition: judaism
-  ref: Exod 29:7
-  note: Anointing oil is poured on the head of the priest
+  ref: Exod 29:24
+  note: Portions are waved before God as a wave offering
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וְלָֽקַחְתָּ֙ אֶת שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְיָצַקְתָּ֖ עַל רֹאשׁ֑וֹ וּמָשַׁחְתָּ֖ אֹתֽוֹ
+  text: וְשַׂמְתָּ֣ הַכֹּ֔ל עַ֚ל כַּפֵּ֣י אַהֲרֹ֔ן וְעַ֖ל כַּפֵּ֣י בָנָ֑יו וְהֵנַפְתָּ֥ אֹתָ֛ם תְּנוּפָ֖ה
+    לִפְנֵ֥י יְהוָֽה
 - tradition: judaism
-  ref: Lev 8:12
-  note: Anointing oil is poured on the head of the priest
+  ref: Exod 29:26
+  note: Portions are waved before God as a wave offering
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּצֹק֙ מִשֶּׁ֣מֶן הַמִּשְׁחָ֔ה עַ֖ל רֹ֣אשׁ אַהֲרֹ֑ן וַיִּמְשַׁ֥ח אֹת֖וֹ לְקַדְּשֽׁוֹ
+  text: וְלָקַחְתָּ֣ אֶת הֶֽחָזֶ֗ה מֵאֵ֤יל הַמִּלֻּאִים֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן וְהֵנַפְתָּ֥ אֹת֛וֹ תְּנוּפָ֖ה
+    לִפְנֵ֣י יְהוָ֑ה וְהָיָ֥ה לְךָ֖ לְמָנָֽה
 - tradition: judaism
-  ref: Exod 29:21
-  note: Blood and anointing oil are sprinkled on the priests and their garments
+  ref: Lev 8:27
+  note: Portions are waved before God as a wave offering
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וְלָקַחְתָּ֞ מִן הַדָּ֨ם אֲשֶׁ֥ר עַֽל הַמִּזְבֵּחַ֮ וּמִשֶּׁ֣מֶן הַמִּשְׁחָה֒ וְהִזֵּיתָ֤ עַֽל
-    אַהֲרֹן֙ וְעַל בְּגָדָ֔יו וְעַל בָּנָ֛יו וְעַל בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וְקָדַ֥שׁ הוּא֙ וּבְגָדָ֔יו
-    וּבָנָ֛יו וּבִגְדֵ֥י בָנָ֖יו אִתּֽוֹ
+  text: וַיִּתֵּ֣ן אֶת הַכֹּ֔ל עַ֚ל כַּפֵּ֣י אַהֲרֹ֔ן וְעַ֖ל כַּפֵּ֣י בָנָ֑יו וַיָּ֧נֶף אֹתָ֛ם תְּנוּפָ֖ה
+    לִפְנֵ֥י יְהוָֽה
 - tradition: judaism
-  ref: Lev 8:30
-  note: Blood and anointing oil are sprinkled on the priests and their garments
+  ref: Lev 8:29
+  note: Portions are waved before God as a wave offering
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֨ח מֹשֶׁ֜ה מִשֶּׁ֣מֶן הַמִּשְׁחָ֗ה וּמִן הַדָּם֮ אֲשֶׁ֣ר עַל הַמִּזְבֵּחַ֒ וַיַּ֤ז עַֽל
-    אַהֲרֹן֙ עַל בְּגָדָ֔יו וְעַל בָּנָ֛יו וְעַל בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וַיְקַדֵּ֤שׁ אֶֽת אַהֲרֹן֙
-    אֶת בְּגָדָ֔יו וְאֶת בָּנָ֛יו וְאֶת בִּגְדֵ֥י בָנָ֖יו אִתּֽוֹ
+  text: וַיִּקַּ֤ח מֹשֶׁה֙ אֶת הֶ֣חָזֶ֔ה וַיְנִיפֵ֥הוּ תְנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה מֵאֵ֣יל הַמִּלֻּאִ֗ים
+    לְמֹשֶׁ֤ה הָיָה֙ לְמָנָ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה
 - tradition: judaism
   ref: Exod 29:4
   note: Priests are washed with water at the entrance before ordination
@@ -118,34 +146,6 @@ passages:
     וְעַל בֹּ֤הֶן יָדָם֙ הַיְמָנִ֔ית וְעַל בֹּ֥הֶן רַגְלָ֖ם הַיְמָנִ֑ית וַיִּזְרֹ֨ק מֹשֶׁ֧ה אֶת הַדָּ֛ם
     עַל הַֽמִּזְבֵּ֖חַ סָבִֽיב
 - tradition: judaism
-  ref: Exod 29:24
-  note: Portions are waved before God as a wave offering
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשַׂמְתָּ֣ הַכֹּ֔ל עַ֚ל כַּפֵּ֣י אַהֲרֹ֔ן וְעַ֖ל כַּפֵּ֣י בָנָ֑יו וְהֵנַפְתָּ֥ אֹתָ֛ם תְּנוּפָ֖ה
-    לִפְנֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Exod 29:26
-  note: Portions are waved before God as a wave offering
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלָקַחְתָּ֣ אֶת הֶֽחָזֶ֗ה מֵאֵ֤יל הַמִּלֻּאִים֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן וְהֵנַפְתָּ֥ אֹת֛וֹ תְּנוּפָ֖ה
-    לִפְנֵ֣י יְהוָ֑ה וְהָיָ֥ה לְךָ֖ לְמָנָֽה
-- tradition: judaism
-  ref: Lev 8:27
-  note: Portions are waved before God as a wave offering
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתֵּ֣ן אֶת הַכֹּ֔ל עַ֚ל כַּפֵּ֣י אַהֲרֹ֔ן וְעַ֖ל כַּפֵּ֣י בָנָ֑יו וַיָּ֧נֶף אֹתָ֛ם תְּנוּפָ֖ה
-    לִפְנֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Lev 8:29
-  note: Portions are waved before God as a wave offering
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֤ח מֹשֶׁה֙ אֶת הֶ֣חָזֶ֔ה וַיְנִיפֵ֥הוּ תְנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה מֵאֵ֣יל הַמִּלֻּאִ֗ים
-    לְמֹשֶׁ֤ה הָיָה֙ לְמָנָ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה
-- tradition: judaism
   ref: Exod 29:34
   note: Sacred meat left over until morning is burned
   lang: he
@@ -158,6 +158,32 @@ passages:
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: וְהַנּוֹתָ֥ר בַּבָּשָׂ֖ר וּבַלָּ֑חֶם בָּאֵ֖שׁ תִּשְׂרֹֽפוּ
+- tradition: judaism
+  ref: Exod 29:10
+  note: The offerer lays his hand on the head of the animal
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהִקְרַבְתָּ֙ אֶת הַפָּ֔ר לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת יְדֵיהֶ֖ם
+    עַל רֹ֥אשׁ הַפָּֽר
+- tradition: judaism
+  ref: Exod 29:15
+  note: The offerer lays his hand on the head of the animal
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאֶת הָאַ֥יִל הָאֶחָ֖ד תִּקָּ֑ח וְסָ֨מְכ֜וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת יְדֵיהֶ֖ם עַל רֹ֥אשׁ הָאָֽיִל
+- tradition: judaism
+  ref: Lev 8:14
+  note: The offerer lays his hand on the head of the animal
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּגֵּ֕שׁ אֵ֖ת פַּ֣ר הַֽחַטָּ֑את וַיִּסְמֹ֨ךְ אַהֲרֹ֤ן וּבָנָיו֙ אֶת יְדֵיהֶ֔ם עַל רֹ֖אשׁ פַּ֥ר
+    הַֽחַטָּֽאת
+- tradition: judaism
+  ref: Lev 8:18
+  note: The offerer lays his hand on the head of the animal
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּקְרֵ֕ב אֵ֖ת אֵ֣יל הָעֹלָ֑ה וַֽיִּסְמְכ֞וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת יְדֵיהֶ֖ם עַל רֹ֥אשׁ הָאָֽיִל
 - tradition: judaism
   ref: Exod 29:14
   note: The flesh, skin and dung of the sin offering are burned outside the camp
@@ -187,56 +213,30 @@ passages:
   text: וַיִּשְׁחָ֗ט וַיִּקַּ֨ח מֹשֶׁ֤ה אֶת הַדָּם֙ וַ֠יִּתֵּן עַל קַרְנ֨וֹת הַמִּזְבֵּ֤חַ סָבִיב֙ בְּאֶצְבָּע֔וֹ
     וַיְחַטֵּ֖א אֶת הַמִּזְבֵּ֑חַ וְאֶת הַדָּ֗ם יָצַק֙ אֶל יְס֣וֹד הַמִּזְבֵּ֔חַ וַֽיְקַדְּשֵׁ֖הוּ לְכַפֵּ֥ר
     עָלָֽיו
-- tradition: judaism
-  ref: Exod 29:10
-  note: The offerer lays his hand on the head of the animal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִקְרַבְתָּ֙ אֶת הַפָּ֔ר לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת יְדֵיהֶ֖ם
-    עַל רֹ֥אשׁ הַפָּֽר
-- tradition: judaism
-  ref: Exod 29:15
-  note: The offerer lays his hand on the head of the animal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת הָאַ֥יִל הָאֶחָ֖ד תִּקָּ֑ח וְסָ֨מְכ֜וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת יְדֵיהֶ֖ם עַל רֹ֥אשׁ הָאָֽיִל
-- tradition: judaism
-  ref: Lev 8:14
-  note: The offerer lays his hand on the head of the animal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּגֵּ֕שׁ אֵ֖ת פַּ֣ר הַֽחַטָּ֑את וַיִּסְמֹ֨ךְ אַהֲרֹ֤ן וּבָנָיו֙ אֶת יְדֵיהֶ֔ם עַל רֹ֖אשׁ פַּ֥ר
-    הַֽחַטָּֽאת
-- tradition: judaism
-  ref: Lev 8:18
-  note: The offerer lays his hand on the head of the animal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּקְרֵ֕ב אֵ֖ת אֵ֣יל הָעֹלָ֑ה וַֽיִּסְמְכ֞וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת יְדֵיהֶ֖ם עַל רֹ֥אשׁ הָאָֽיִל
 evidence:
-- text: 'Shared motifs, rarest first: Ordination of priests lasts seven days (weight 6.7); Anointing oil
-    is poured on the head of the priest (weight 6.7); Blood and anointing oil are sprinkled on the priests
-    and their garments (weight 6.7); Priests are washed with water at the entrance before ordination (weight
-    6.3); Blood is daubed on the right earlobe, thumb and big toe (weight 6.3); Portions are waved before
-    God as a wave offering (weight 6.3); Sacred meat left over until morning is burned (weight 6.3); The
-    flesh, skin and dung of the sin offering are burned outside the camp (weight 5.8); Blood is put on
-    the horns of the altar with the finger and poured at its base (weight 5.8); The offerer lays his hand
-    on the head of the animal (weight 5.8). Pair score 62.5.'
+- text: 'Shared motifs, rarest first: Anointing oil is poured on the head of the priest (weight 6.7);
+    Blood and anointing oil are sprinkled on the priests and their garments (weight 6.7); Ordination of
+    priests lasts seven days (weight 6.7); Portions are waved before God as a wave offering (weight 6.3);
+    Priests are washed with water at the entrance before ordination (weight 6.3); Blood is daubed on the
+    right earlobe, thumb and big toe (weight 6.3); Sacred meat left over until morning is burned (weight
+    6.3); The offerer lays his hand on the head of the animal (weight 5.8); The flesh, skin and dung of
+    the sin offering are burned outside the camp (weight 5.8); Blood is put on the horns of the altar
+    with the finger and poured at its base (weight 5.8). Pair score 62.5.'
   basis: reading
-- text: 'Only in Ordination of the priests: Whatever touches the most holy altar or holy things becomes
-    holy; A basket of unleavened bread, oiled cakes and wafers is offered; The fat, the two kidneys and
-    the lobe of the liver are burned on the altar; The fat tail of the sheep is offered; An outsider may
-    not eat holy food; An offering by fire is a pleasing odor to God; The breast and the right thigh are
-    the priests'' portion; Sacrificial animals must be without blemish; The high priest''s vestments pass
-    to his successor, who wears them seven days.'
+- text: 'Only in Ordination of the priests: A basket of unleavened bread, oiled cakes and wafers is offered;
+    An outsider may not eat holy food; The high priest''s vestments pass to his successor, who wears them
+    seven days; The breast and the right thigh are the priests'' portion; Sacrificial animals must be
+    without blemish; Whatever touches the most holy altar or holy things becomes holy; An offering by
+    fire is a pleasing odor to God; The fat, the two kidneys and the lobe of the liver are burned on the
+    altar; The fat tail of the sheep is offered.'
   basis: reading
-- text: 'Only in Moses ordains Aaron and his sons: Anointing makes the tent and its furnishings holy;
-    The refrain ''as YHWH commanded Moses'' recurs in a sevenfold pattern; Execution of a divine command
-    is narrated by repeating the command almost verbatim; The ephod, a woven priestly garment with shoulder
-    pieces; A gold plate engraved ''Holy to YHWH'' on the priest''s forehead; Moses himself performs the
-    priestly rites at the ordination; A ritual action is performed seven times; Urim and Thummim placed
-    in the breastpiece for divine decision; The whole congregation is assembled at the tent entrance to
-    witness a rite.'
+- text: 'Only in Moses ordains Aaron and his sons: Moses himself performs the priestly rites at the ordination;
+    The whole congregation is assembled at the tent entrance to witness a rite; Anointing makes the tent
+    and its furnishings holy; The refrain ''as YHWH commanded Moses'' recurs in a sevenfold pattern; The
+    ephod, a woven priestly garment with shoulder pieces; Urim and Thummim placed in the breastpiece for
+    divine decision; Execution of a divine command is narrated by repeating the command almost verbatim;
+    A gold plate engraved ''Holy to YHWH'' on the priest''s forehead; A ritual action is performed seven
+    times.'
   basis: reading
 - text: 'Ordination of the priests: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -79,6 +79,9 @@ passages:
     غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا
     تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌ
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: A later people (Ad, then Thamud) are made successors on the earth
     after a destroyed people (weight 6.3); Prophet calls himself his people''s sincere and trustworthy
     adviser (nasih amin) (weight 6.3); Deniers dare the prophet: ''Bring us what you threaten, if you

@@ -2,9 +2,9 @@
 id: motif-hb-1kgs-7-bronze-sea-vessels-vs-hb-2chr-4-temple-furnishings
 title: The bronze sea, wheeled stands and temple vessels ↔ Bronze altar, the molten sea on twelve oxen,
   lavers, lampstands and tables
-summary: 'These two units share 6 motifs: the bronze used for the sanctuary is so abundant its weight
-  was not determined, a round vessel ten cubits across measures thirty around (pi taken as three), bronze
-  vessels cast in the clay ground of the jordan plain between succoth and zarethan, an accounting of the
+summary: 'These two units share 6 motifs: a round vessel ten cubits across measures thirty around (pi
+  taken as three), bronze vessels cast in the clay ground of the jordan plain between succoth and zarethan,
+  the bronze used for the sanctuary is so abundant its weight was not determined, an accounting of the
   gold, silver and bronze used for the sanctuary….'
 status: new
 relations:
@@ -15,25 +15,13 @@ traditions:
 layers:
 - motif
 motifs:
-- bronze-beyond-weighing
 - circumference-ratio-three
 - casting-in-clay-ground-of-jordan
+- bronze-beyond-weighing
 - temple-metal-inventory
 - table-of-showbread
 - bronze-sea-on-twelve-oxen
 passages:
-- tradition: judaism
-  ref: 1Kgs 7:47
-  note: The bronze used for the sanctuary is so abundant its weight was not determined
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנַּ֤ח שְׁלֹמֹה֙ אֶת כָּל הַכֵּלִ֔ים מֵרֹ֖ב מְאֹ֣ד מְאֹ֑ד לֹ֥א נֶחְקַ֖ר מִשְׁקַ֥ל הַנְּחֹֽשֶׁת
-- tradition: judaism
-  ref: 2Chr 4:18
-  note: The bronze used for the sanctuary is so abundant its weight was not determined
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֧עַשׂ שְׁלֹמֹ֛ה כָּל הַכֵּלִ֥ים הָאֵ֖לֶּה לָרֹ֣ב מְאֹ֑ד כִּ֛י לֹ֥א נֶחְקַ֖ר מִשְׁקַ֥ל הַנְּחֹֽשֶׁת
 - tradition: judaism
   ref: 1Kgs 7:23
   note: A round vessel ten cubits across measures thirty around (pi taken as three)
@@ -62,6 +50,18 @@ passages:
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: בְּכִכַּ֤ר הַיַּרְדֵּן֙ יְצָקָ֣ם הַמֶּ֔לֶךְ בַּעֲבִ֖י הָאֲדָמָ֑ה בֵּ֥ין סֻכּ֖וֹת וּבֵ֥ין צְרֵדָֽתָה
+- tradition: judaism
+  ref: 1Kgs 7:47
+  note: The bronze used for the sanctuary is so abundant its weight was not determined
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּנַּ֤ח שְׁלֹמֹה֙ אֶת כָּל הַכֵּלִ֔ים מֵרֹ֖ב מְאֹ֣ד מְאֹ֑ד לֹ֥א נֶחְקַ֖ר מִשְׁקַ֥ל הַנְּחֹֽשֶׁת
+- tradition: judaism
+  ref: 2Chr 4:18
+  note: The bronze used for the sanctuary is so abundant its weight was not determined
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֧עַשׂ שְׁלֹמֹ֛ה כָּל הַכֵּלִ֥ים הָאֵ֖לֶּה לָרֹ֣ב מְאֹ֑ד כִּ֛י לֹ֥א נֶחְקַ֖ר מִשְׁקַ֥ל הַנְּחֹֽשֶׁת
 - tradition: judaism
   ref: 1Kgs 7:40-45
   note: An accounting of the gold, silver and bronze used for the sanctuary
@@ -149,25 +149,25 @@ passages:
   text: וּדְמ֣וּת בְּקָרִים֩ תַּ֨חַת ל֜וֹ סָבִ֤יב סָבִיב֙ סוֹבְבִ֣ים אֹת֔וֹ עֶ֚שֶׂר בָּֽאַמָּ֔ה מַקִּיפִ֥ים
     אֶת הַיָּ֖ם סָבִ֑יב שְׁנַ֤יִם טוּרִים֙ הַבָּקָ֔ר יְצוּקִ֖ים בְּמֻֽצַקְתּֽוֹ
 evidence:
-- text: 'Shared motifs, rarest first: The bronze used for the sanctuary is so abundant its weight was
-    not determined (weight 6.7); A round vessel ten cubits across measures thirty around (pi taken as
-    three) (weight 6.7); Bronze vessels cast in the clay ground of the Jordan plain between Succoth and
-    Zarethan (weight 6.7); An accounting of the gold, silver and bronze used for the sanctuary (weight
-    6.3); A gold table with the bread of the presence always before God (weight 6.0); A great cast-bronze
-    ''sea'' basin rests on twelve bronze oxen facing the four directions in threes (weight 6.0). Pair
-    score 38.4.'
+- text: 'Shared motifs, rarest first: A round vessel ten cubits across measures thirty around (pi taken
+    as three) (weight 6.7); Bronze vessels cast in the clay ground of the Jordan plain between Succoth
+    and Zarethan (weight 6.7); The bronze used for the sanctuary is so abundant its weight was not determined
+    (weight 6.7); An accounting of the gold, silver and bronze used for the sanctuary (weight 6.3); A
+    gold table with the bread of the presence always before God (weight 6.0); A great cast-bronze ''sea''
+    basin rests on twelve bronze oxen facing the four directions in threes (weight 6.0). Pair score 38.4.'
   basis: reading
-- text: 'Only in The bronze sea, wheeled stands and temple vessels: A bronze laver where priests wash
-    hands and feet before service, lest they die; A small gold-plated altar for burning incense before
-    the veil; Exact dimensions in cubits are given for a sacred object of the sanctuary; Ten golden lampstands
-    stand before the inner sanctuary, five on each side; Ten wheeled bronze stands decorated with lions,
-    oxen, cherubim and palms carry basins.'
+- text: 'Only in The bronze sea, wheeled stands and temple vessels: Ten golden lampstands stand before
+    the inner sanctuary, five on each side; Ten wheeled bronze stands decorated with lions, oxen, cherubim
+    and palms carry basins; How Solomon''s great bronze works were produced [divergence between the texts];
+    Exact dimensions in cubits are given for a sacred object of the sanctuary; A bronze laver where priests
+    wash hands and feet before service, lest they die; A small gold-plated altar for burning incense before
+    the veil.'
   basis: reading
 - text: 'Only in Bronze altar, the molten sea on twelve oxen, lavers, lampstands and tables: A great bronze
-    altar twenty cubits square and ten high; Two named bronze pillars, Jachin and Boaz, before the temple;
-    The temple has a court of the priests and a great court; The rim of the bronze sea is shaped like
-    a lily blossom; The bronze sea serves for the priests to wash in, the lavers for rinsing offerings;
-    Ten gold lampstands and ten tables, five on each side.'
+    altar twenty cubits square and ten high; The temple has a court of the priests and a great court;
+    The rim of the bronze sea is shaped like a lily blossom; The bronze sea serves for the priests to
+    wash in, the lavers for rinsing offerings; Ten gold lampstands and ten tables, five on each side;
+    Two named bronze pillars, Jachin and Boaz, before the temple.'
   basis: reading
 - text: 'The bronze sea, wheeled stands and temple vessels: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -6,8 +6,8 @@ summary: 'These two units share 2 motifs: deity breathes the breath of life into
   first human shaped from dust, clay or soil.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -32,6 +32,12 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ
     قَلِيلًا مَّا تَشْكُرُونَ
+- tradition: islam
+  ref: Quran 32:7
+  note: Deity breathes the breath of life into the first human's nostrils ('breathed into him of his spirit')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
 - tradition: judaism
   ref: Gen 2:7
   note: First human shaped from dust, clay or soil (adam from adamah; animals also formed from the ground,
@@ -47,35 +53,37 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    parallel. wa-yyîṣer ... ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. wa-badaʾa khalqa
+    l-insāni min ṭīnin ... thumma sawwāhu wa-nafakha fīhi min rūḥihi. nāp̄aḥ/nafakha are cognate. The
+    Quran has clay (ṭīn) for dust, ''of his spirit'' (rūḥ) for breath of life (nəšāmâ), and adds a middle
+    stage: the descendants from a despised fluid (māʾin mahīn, 32:8).'
+  basis: reading
 - text: 'Shared motifs, rarest first: Deity breathes the breath of life into the first human''s nostrils
-    (weight 5.4); First human shaped from dust, clay or soil (weight 4.6). Pair score 10.0.'
+    (weight 5.3); First human shaped from dust, clay or soil (weight 4.6). Pair score 9.9.'
   basis: reading
-- text: 'Only in Second creation account, Eden, and the making of woman: The first man names the animals;
-    Eating the forbidden fruit is threatened with death; God casts a deep sleep (tardemah) on a man; A
-    river from paradise divides into four named rivers; God plants a garden (Eden) in the east and places
-    the first human there; The first human is put in the garden to work and guard it; Man leaves father
+- text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
+    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
     and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; Land near paradise rich in gold and precious stones; Before creation there was no
-    rain, plant or man to till the ground (when-not-yet opening); First couple naked and not ashamed;
-    A tree of knowledge whose fruit is forbidden; A tree whose fruit gives eternal life; First woman made
-    from the man''s rib or side while he sleeps.'
+    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
+    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
+    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
+    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
+    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
+    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 20 more.'
   basis: reading
-- text: 'Only in Al-Sajda: creation, the angel of death, and the two fates: The angel of death (malak
-    al-mawt), put in charge of humans, takes their souls; Creation is completed in six days; The guilty,
-    heads bowed before their Lord, beg to be returned to do good; Whenever the damned try to get out of
-    the fire they are driven back into it; On the Day of the Opening/Victory (al-fath) the unbelievers''
-    faith will not benefit them; A surah opens with isolated letters (huruf muqatta''at) of unexplained
-    meaning, e.g. alif-lam-mim; A divine day whose measure is a thousand (or fifty thousand) years of
-    human reckoning; After creating the heavens and earth God established himself on the Throne (istawa
-    ''ala l-''arsh); God forgets the damned today as they forgot the meeting of this day; God''s word:
-    ''I will fill hell with jinn and humans all together''; No soul knows what delight of the eyes is
-    hidden in store for the righteous; God began man''s creation from clay, then made his progeny from
-    an extract of a despised fluid, then shaped him and breathed of his spirit; God made leaders (a''imma)
-    among the Israelites who guided by his command because they were patient; God makes people taste the
-    nearer punishment before the greater one, that they may return; Rain from the sky gives life to the
-    earth after its death, a sign of resurrection; The believers'' sides forsake their beds as they call
-    on their Lord in fear and hope (night vigil); A thousand years in God''s sight are like yesterday
-    when it passes, or a watch in the night; Travel in the land and see the end of those who denied.'
+- text: 'Only in Al-Sajda: creation, the angel of death, and the two fates: Whenever the damned try to
+    get out of the fire they are driven back into it; On the Day of the Opening/Victory (al-fath) the
+    unbelievers'' faith will not benefit them; A divine day whose measure is a thousand (or fifty thousand)
+    years of human reckoning; God makes people taste the nearer punishment before the greater one, that
+    they may return; The angel of death (malak al-mawt), put in charge of humans, takes their souls; The
+    guilty, heads bowed before their Lord, beg to be returned to do good; God''s word: ''I will fill hell
+    with jinn and humans all together''; No soul knows what delight of the eyes is hidden in store for
+    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; What God
+    did when the six days of creation were done [divergence between the texts]; God began man''s creation
+    from clay, then made his progeny from an extract of a despised fluid, then shaped him and breathed
+    of his spirit; God made leaders (a''imma) among the Israelites who guided by his command because they
+    were patient; and 9 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

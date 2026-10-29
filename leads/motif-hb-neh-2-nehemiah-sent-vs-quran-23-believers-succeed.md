@@ -6,7 +6,6 @@ summary: 'These two units share 1 motifs: royal letter to the keeper of the king
   timber.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -33,24 +32,31 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    echo. al-firdaws ~ ha-pardēs: the same Persian loanword (pairidaēza). In Nehemiah it is the Persian
+    king''s timber park with its keeper Asaph (šōmēr ha-pardēs ʾăšer la-mmelekh); in the Quran it is the
+    paradise the believers inherit. A lexical lead, not a shared motif.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Royal letter to the keeper of the king''s park (pardes) for timber
     (weight 6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in The king''s question, Nehemiah''s commission and the night inspection of the walls: Builders
     are accused of rebelling against the imperial king; Jerusalem described to a foreign king as ''the
     city of my fathers'' graves''; A spring at Jerusalem called the Dragon (Tannin) or Jackal Spring;
-    Success attributed to ''the good hand of my God upon me''; Courtiers address the ruler ''O king, live
-    forever''; Leader tells the enemies they have no portion, right or memorial in Jerusalem; The queen
-    (shegal) sits beside the king as the courtier makes his request; A courtier fears because his face
-    is sad before the king; King gives letters to governors to grant the traveler safe passage; Sanballat
-    the Horonite, Tobiah the Ammonite and Geshem the Arab oppose the rebuilding; Leader secretly inspects
-    the ruined walls by night with a few men; Courtier prays to the God of heaven before answering the
-    king''s question; Travelers stay three days on arrival before acting.'
+    Leader tells the enemies they have no portion, right or memorial in Jerusalem; The queen (shegal)
+    sits beside the king as the courtier makes his request; A courtier fears because his face is sad before
+    the king; King gives letters to governors to grant the traveler safe passage; Sanballat the Horonite,
+    Tobiah the Ammonite and Geshem the Arab oppose the rebuilding; Leader secretly inspects the ruined
+    walls by night with a few men; Courtier prays to the God of heaven before answering the king''s question;
+    Success attributed to ''the good hand of my God upon me''; Travelers stay three days on arrival before
+    acting; and 1 more.'
   basis: reading
-- text: 'Only in The successful believers who inherit Firdaws: The faithful guard their private parts
-    except with their wives or those their right hands possess; beyond that is transgression; The righteous
-    inherit al-Firdaws (paradise, from Persian pairidaēza) forever; The meek / those who wait for YHWH
-    / the righteous and their seed shall inherit the land (yirshu arets).'
+- text: 'Only in The successful believers who inherit Firdaws: The righteous inherit al-Firdaws (paradise,
+    from Persian pairidaēza) forever; The faithful guard their private parts except with their wives or
+    those their right hands possess; beyond that is transgression; What the righteous are promised as
+    their inheritance [divergence between the texts]; Entrance liturgy: ''Who may dwell on your holy mountain?''
+    answered by a list of ethical qualifications; The meek / those who wait for YHWH / the righteous and
+    their seed shall inherit the land (yirshu arets).'
   basis: reading
 - text: 'The king''s question, Nehemiah''s commission and the night inspection of the walls: tagged by
     Claude (model), reading the Hebrew.'

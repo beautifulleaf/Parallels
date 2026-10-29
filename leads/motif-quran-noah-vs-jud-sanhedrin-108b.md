@@ -1,8 +1,8 @@
 ---
 id: motif-quran-noah-vs-jud-sanhedrin-108b
 title: Noah in the Quran ↔ The generation of the Flood (Babylonian Talmud, Sanhedrin 108b)
-summary: 'These two units share 3 motifs: people mock the hero while he builds the vessel, the flood waters
-  are hot or boiling, hero warns or preaches to his people before the flood.'
+summary: 'These two units share 3 motifs: the flood waters are hot or boiling, people mock the hero while
+  he builds the vessel, hero warns or preaches to his people before the flood.'
 status: new
 relations:
 - transmission
@@ -14,20 +14,10 @@ traditions:
 layers:
 - motif
 motifs:
-- people-mock-builder
 - boiling-waters
+- people-mock-builder
 - hero-preaches-to-people
 passages:
-- tradition: islam
-  ref: Quran 11:38
-  note: People mock the hero while he builds the vessel
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن
-    تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
-- tradition: judaism
-  ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
-  note: People mock the hero while he builds the vessel
 - tradition: islam
   ref: Quran 11:40
   note: The flood waters are hot or boiling (Reading fāra (boiled) as describing the waters is interpretive;
@@ -40,6 +30,16 @@ passages:
 - tradition: judaism
   ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
   note: The flood waters are hot or boiling
+- tradition: islam
+  ref: Quran 11:38
+  note: People mock the hero while he builds the vessel
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن
+    تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
+- tradition: judaism
+  ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
+  note: People mock the hero while he builds the vessel
 - tradition: islam
   ref: Quran 11:25
   note: Hero warns or preaches to his people before the flood
@@ -56,8 +56,8 @@ passages:
   ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
   note: Hero warns or preaches to his people before the flood
 evidence:
-- text: 'Shared motifs, rarest first: People mock the hero while he builds the vessel (weight 6.0); The
-    flood waters are hot or boiling (weight 6.0); Hero warns or preaches to his people before the flood
+- text: 'Shared motifs, rarest first: The flood waters are hot or boiling (weight 6.0); People mock the
+    hero while he builds the vessel (weight 6.0); Hero warns or preaches to his people before the flood
     (weight 5.2). Pair score 17.2.'
   basis: reading
 - text: 'Noah in the Quran: tagged by Claude (model), reading the Arabic.'

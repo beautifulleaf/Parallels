@@ -1,0 +1,88 @@
+---
+id: motif-hb-jer-15-confession-words-eaten-vs-quran-11-hud
+title: Second confession - woe that my mother bore me; your words I ate ↔ Hud and Ad
+summary: 'These two units share 1 motifs: god reassures the frightened prophet: ''do not fear them, for
+  i am with you to deliver you''.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- i-am-with-you-to-deliver
+passages:
+- tradition: judaism
+  ref: Jer 15:20
+  note: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you'''
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּנְתַתִּ֜יךָ לָעָ֣ם הַזֶּ֗ה לְחוֹמַ֤ת נְחֹ֨שֶׁת֙ בְּצוּרָ֔ה וְנִלְחֲמ֥וּ אֵלֶ֖יךָ וְלֹא י֣וּכְלוּ
+    לָ֑ךְ כִּֽי אִתְּךָ֥ אֲנִ֛י לְהוֹשִֽׁיעֲךָ֥ וּלְהַצִּילֶ֖ךָ נְאֻם יְהוָֽה
+- tradition: judaism
+  ref: Jer 15:21
+  note: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you'''
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהִצַּלְתִּ֖יךָ מִיַּ֣ד רָעִ֑ים וּפְדִתִ֖יךָ מִכַּ֥ף עָרִצִֽים
+- tradition: islam
+  ref: Quran 11:55
+  note: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you''
+    (The prophet stands alone against his people, trusting God''s protection: fa-kīdūnī jamīʿan thumma
+    lā tunẓirūni innī tawakkaltu ʿalā llāhi rabbī wa-rabbikum vs wᵉnilḥămû ʾēlêkā wᵉlōʾ-yûkᵉlû lāk kî-ʾittᵉkā
+    ʾănî lᵉhôšîʿăkā. In Jer God promises it; in Q the prophet defies them with it.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: مِن دُونِهِۦ فَكِيدُونِى جَمِيعًا ثُمَّ لَا تُنظِرُونِ
+- tradition: islam
+  ref: Quran 11:56
+  note: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you''
+    (The prophet stands alone against his people, trusting God''s protection: fa-kīdūnī jamīʿan thumma
+    lā tunẓirūni innī tawakkaltu ʿalā llāhi rabbī wa-rabbikum vs wᵉnilḥămû ʾēlêkā wᵉlōʾ-yûkᵉlû lāk kî-ʾittᵉkā
+    ʾănî lᵉhôšîʿăkā. In Jer God promises it; in Q the prophet defies them with it.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ
+    إِنَّ رَبِّى عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. The prophet stands alone against his people, trusting God''s protection: fa-kīdūnī jamīʿan thumma
+    lā tunẓirūni innī tawakkaltu ʿalā llāhi rabbī wa-rabbikum vs wᵉnilḥămû ʾēlêkā wᵉlōʾ-yûkᵉlû lāk kî-ʾittᵉkā
+    ʾănî lᵉhôšîʿăkā. In Jer God promises it; in Q the prophet defies them with it.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God reassures the frightened prophet: ''Do not fear them, for I
+    am with you to deliver you'' (weight 6.0). Pair score 6.0.'
+  basis: reading
+- text: 'Only in Second confession - woe that my mother bore me; your words I ate: The prophet accuses
+    God of being to him like a deceitful brook, waters that fail; If the prophet returns and brings out
+    the precious from the worthless, he will be as God''s mouth; The prophet found God''s words and ate
+    them, and they became his joy; The prophet did not sit in the company of merrymakers but sat alone
+    because of God''s hand; God makes the prophet a fortified city, an iron pillar and bronze walls against
+    the whole land; The sufferer curses the day of his birth and the night of his conception; The persecuted
+    prophet asks God to let him see vengeance on his enemies; Jeremiah''s ''confessions'': the prophet''s
+    personal laments and complaints to God about his mission and persecutors.'
+  basis: reading
+- text: 'Only in Hud and Ad: There is no creature but God holds it by its forelock; The people say one
+    of their gods has struck the prophet with madness; Prophet challenges the idolaters to call their
+    partners and plot against him without delay; Seek forgiveness and repent, and God will send the sky
+    down on you in abundant rain; Refrain ''away with...'' (bu''dan li-) the destroyed people; Heaven
+    is shut and no rain falls because of the people''s sin; repentance brings rain; A seer faced with
+    payment or worldly gain [contrast between the texts]; Prophet''s refrain to his people: ''Worship
+    God; you have no god other than him''; If God wills he takes you away and brings another people in
+    your place; The Prophet asks no wage for the message; Hero''s family saved with him.'
+  basis: reading
+- text: 'Second confession - woe that my mother bore me; your words I ate: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Hud and Ad: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

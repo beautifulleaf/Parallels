@@ -1,0 +1,147 @@
+---
+id: motif-hb-ps-107-four-rescues-vs-quran-10-ingratitude-sea
+title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ Prayer in distress,
+  a changed Quran, the storm at sea
+summary: 'These two units share 2 motifs: god raises a storm that lifts ships to the heavens and down
+  to the deeps, then hushes it to a whisper and brings sailors to harbor [divergence between the texts],
+  god raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a whisper
+  and brings sailors to harbor.'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- storm-at-sea-stilled-as-divergence
+- storm-at-sea-stilled
+passages:
+- tradition: judaism
+  ref: Ps 107:25
+  note: 'God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
+    whisper and brings sailors to harbor [divergence between the texts] (Seafarers in a storm cry to God
+    and are saved: jāʾathā rīḥun ʿāṣifun wa-jāʾahumu l-mawju min kulli makānin ... daʿawu llāha mukhliṣīna
+    lahu d-dīna vs wayyaʿămēd rûaḥ sᵉʿārāh wattᵉrômēm gallāyw ... wayyiṣʿăqû ʾel-YHWH baṣṣar lāhem ...
+    yāqēm sᵉʿārāh lidmāmāh. The ending is reversed: in Ps the rescued give thanks (yôdû laYHWH ḥasdô ...
+    wîrômᵉmûhû biqhal-ʿām); in Q they break the vow once on land (fa-lammā anjāhum idhā hum yabghūna fī
+    l-arḍi bi-ghayri l-ḥaqq).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו
+- tradition: judaism
+  ref: Ps 107:28
+  note: 'God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
+    whisper and brings sailors to harbor [divergence between the texts] (Seafarers in a storm cry to God
+    and are saved: jāʾathā rīḥun ʿāṣifun wa-jāʾahumu l-mawju min kulli makānin ... daʿawu llāha mukhliṣīna
+    lahu d-dīna vs wayyaʿămēd rûaḥ sᵉʿārāh wattᵉrômēm gallāyw ... wayyiṣʿăqû ʾel-YHWH baṣṣar lāhem ...
+    yāqēm sᵉʿārāh lidmāmāh. The ending is reversed: in Ps the rescued give thanks (yôdû laYHWH ḥasdô ...
+    wîrômᵉmûhû biqhal-ʿām); in Q they break the vow once on land (fa-lammā anjāhum idhā hum yabghūna fī
+    l-arḍi bi-ghayri l-ḥaqq).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
+- tradition: islam
+  ref: Quran 10:22
+  note: 'God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
+    whisper and brings sailors to harbor [divergence between the texts] (Seafarers in a storm cry to God
+    and are saved: jāʾathā rīḥun ʿāṣifun wa-jāʾahumu l-mawju min kulli makānin ... daʿawu llāha mukhliṣīna
+    lahu d-dīna vs wayyaʿămēd rûaḥ sᵉʿārāh wattᵉrômēm gallāyw ... wayyiṣʿăqû ʾel-YHWH baṣṣar lāhem ...
+    yāqēm sᵉʿārāh lidmāmāh. The ending is reversed: in Ps the rescued give thanks (yôdû laYHWH ḥasdô ...
+    wîrômᵉmûhû biqhal-ʿām); in Q they break the vow once on land (fa-lammā anjāhum idhā hum yabghūna fī
+    l-arḍi bi-ghayri l-ḥaqq).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ
+    بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ
+    مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا
+    مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
+- tradition: islam
+  ref: Quran 10:23
+  note: 'God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
+    whisper and brings sailors to harbor [divergence between the texts] (Seafarers in a storm cry to God
+    and are saved: jāʾathā rīḥun ʿāṣifun wa-jāʾahumu l-mawju min kulli makānin ... daʿawu llāha mukhliṣīna
+    lahu d-dīna vs wayyaʿămēd rûaḥ sᵉʿārāh wattᵉrômēm gallāyw ... wayyiṣʿăqû ʾel-YHWH baṣṣar lāhem ...
+    yāqēm sᵉʿārāh lidmāmāh. The ending is reversed: in Ps the rescued give thanks (yôdû laYHWH ḥasdô ...
+    wîrômᵉmûhû biqhal-ʿām); in Q they break the vow once on land (fa-lammā anjāhum idhā hum yabghūna fī
+    l-arḍi bi-ghayri l-ḥaqq).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ يَٰٓأَيُّهَا ٱلنَّاسُ
+    إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم مَّتَٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُكُمْ
+    فَنُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+- tradition: judaism
+  ref: Ps 107:25-30
+  note: God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
+    whisper and brings sailors to harbor
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (107:25) וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו (107:26) יַעֲל֣וּ שָׁ֭מַיִם
+    יֵרְד֣וּ תְהוֹמ֑וֹת נַ֝פְשָׁ֗ם בְּרָעָ֥ה תִתְמוֹגָֽג (107:27) יָח֣וֹגּוּ וְ֭יָנוּעוּ כַּשִּׁכּ֑וֹר
+    וְכָל חָ֝כְמָתָ֗ם תִּתְבַּלָּֽע (107:28) וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם
+    יוֹצִיאֵֽם (107:29) יָקֵ֣ם סְ֭עָרָה לִדְמָמָ֑ה וַ֝יֶּחֱשׁ֗וּ גַּלֵּיהֶֽם (107:30) וַיִּשְׂמְח֥וּ כִֽי
+    יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל מְח֥וֹז חֶפְצָֽם
+- tradition: islam
+  ref: Quran 10:22
+  note: God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
+    whisper and brings sailors to harbor
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ
+    بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ
+    مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا
+    مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    divergence. Seafarers in a storm cry to God and are saved: jāʾathā rīḥun ʿāṣifun wa-jāʾahumu l-mawju
+    min kulli makānin ... daʿawu llāha mukhliṣīna lahu d-dīna vs wayyaʿămēd rûaḥ sᵉʿārāh wattᵉrômēm gallāyw
+    ... wayyiṣʿăqû ʾel-YHWH baṣṣar lāhem ... yāqēm sᵉʿārāh lidmāmāh. The ending is reversed: in Ps the
+    rescued give thanks (yôdû laYHWH ḥasdô ... wîrômᵉmûhû biqhal-ʿām); in Q they break the vow once on
+    land (fa-lammā anjāhum idhā hum yabghūna fī l-arḍi bi-ghayri l-ḥaqq).'
+  basis: reading
+- text: 'Shared motifs, rarest first: God raises a storm that lifts ships to the heavens and down to the
+    deeps, then hushes it to a whisper and brings sailors to harbor [divergence between the texts] (weight
+    6.7); God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to
+    a whisper and brings sailors to harbor (weight 6.3). Pair score 13.0.'
+  basis: reading
+- text: 'Only in Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): God
+    shatters doors of bronze and cuts through bars of iron; Thanksgiving liturgy for four groups rescued
+    by God: desert wanderers, prisoners, the sick, seafarers; God ''sent his word and healed them'', the
+    word acting as an agent; God turns rivers into desert and fruitful land into salt waste, and desert
+    into pools of water; Storm-tossed sailors reel and stagger like drunkards and all their skill is swallowed
+    up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction and iron; Refrain:
+    ''Let them thank YHWH for his steadfast love and his wonders to the sons of man''; In distress, at
+    sea or otherwise, people call on God alone, then return to polytheism once rescued [divergence between
+    the texts]; God''s control of the wind over ships at sea: raising a storm or stilling it [divergence
+    between the texts]; God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter
+    fruit, tamarisk and a few lote-trees; Seafarers cry to God in a storm; what they do once rescued [divergence
+    between the texts]; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved
+    [divergence between the texts]; and 7 more.'
+  basis: reading
+- text: 'Only in Prayer in distress, a changed Quran, the storm at sea: Deniers ask the prophet to bring
+    a different Quran or change it; he may not alter it of himself; The prophet argues he had lived a
+    lifetime among them before receiving revelation; Humankind was originally one community, then they
+    differed; Man calls on God lying, sitting or standing in distress, then passes on as if he had never
+    prayed once relieved; All humanity once spoke one language; Humankind was originally one (in speech
+    or community) and then divided [divergence between the texts]; Sailors in a storm pray and vow to
+    God [divergence between the texts]; A later people (Ad, then Thamud) are made successors on the earth
+    after a destroyed people; God''s messengers (angels) write down what people plot and do; Sailors in
+    a storm call on God sincerely, vow thanks, and transgress once saved; Command not to add to or subtract
+    from the divine words; God''s plotting (makr / kayd) outwits the schemers; none is safe from it but
+    the losers; and 1 more.'
+  basis: reading
+- text: 'Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): tagged by Claude
+    (model), reading the Hebrew.'
+  basis: reading
+- text: 'Prayer in distress, a changed Quran, the storm at sea: tagged by Claude (model), reading the
+    Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

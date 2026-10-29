@@ -6,8 +6,8 @@ summary: 'These two units share 1 motifs: the everlasting god, creator of the en
   not faint or grow weary; his understanding is unsearchable.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -36,38 +36,37 @@ passages:
     مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
     وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    parallel. Isa 40:28 ʾĕlōhê ʿôlām YHWH bôrēʾ qĕṣôt hā-ʾāreṣ lōʾ yîʿap wĕ-lōʾ yîgāʿ ʾên ḥēqer li-tbûnātô;
+    Q 2:255 wa-lā yaʾūduhu ḥifẓuhumā ... wa-lā yuḥīṭūna bi-shayʾin min ʿilmihi illā bi-mā shāʾa: God does
+    not tire, and no one can fathom his knowledge (ḥēqer li-tbûnātô / yuḥīṭūna bi-ʿilmihi).'
+  basis: reading
 - text: 'Shared motifs, rarest first: The everlasting God, creator of the ends of the earth, does not
-    faint or grow weary; his understanding is unsearchable (weight 6.7). Pair score 6.7.'
+    faint or grow weary; his understanding is unsearchable (weight 6.0). Pair score 6.0.'
   basis: reading
-- text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: All flesh is
-    grass and its loyalty like the flower of the field; grass withers but the word of God stands forever;
-    ''Comfort, comfort my people'': Jerusalem''s term of service is ended and she has received double
-    for her sins; God stands or presides in the assembly of the gods (council of El, holy ones); God tends
-    his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God brings
-    out the starry host by number and calls each by name; none is missing; God sits enthroned above the
-    circle (hug) of the earth; its inhabitants are like grasshoppers; God stretches out the heavens like
-    a tent curtain; A herald of good news (mevasseret Tsiyyon) goes up on a high mountain to announce
-    ''Behold your God!''; Satire on the making of idols: craftsman casts, goldsmith overlays, the poor
-    choose wood that will not rot so the idol will not totter; Spies seem like grasshoppers in their own
-    eyes and the giants''; Those who wait for YHWH renew strength, mount up with wings like eagles, run
-    and not be weary; Nations are like a drop from a bucket and dust on the scales; Lebanon is not enough
-    fuel nor its beasts enough for a burnt offering; No one directed the spirit of YHWH or taught him
-    as counselor; God took no advice in creation; ''To whom will you liken God, what likeness compare
-    to him?''; Every valley lifted up, every mountain and hill made low, the crooked made straight for
-    God''s coming; A voice cries: ''In the wilderness clear the way of YHWH, make straight in the desert
-    a highway for our God''; Who measured the waters in the hollow of his hand, marked off heaven with
-    a span and weighed the mountains in scales?.'
+- text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
+    comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
+    God tends his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God
+    brings out the starry host by number and calls each by name; none is missing; God sits enthroned above
+    the circle (hug) of the earth; its inhabitants are like grasshoppers; Those who wait for YHWH renew
+    strength, mount up with wings like eagles, run and not be weary; Nations are like a drop from a bucket
+    and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering; A voice
+    cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for our God'';
+    Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed the mountains
+    in scales?; God made everything grow in due weight and sends it down only in known measure; A double
+    portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole earth
+    is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret Tsiyyon)
+    goes up on a high mountain to announce ''Behold your God!''; and 18 more.'
   basis: reading
-- text: 'Only in Ranks of the messengers and the Throne Verse: God the Ever-Living, the Self-Subsisting
-    (al-hayy al-qayyum); Whoever rejects false gods (taghut) and believes in God grasps the firmest handhold
-    that never breaks; God brings believers out of darknesses into light; false gods lead others from
-    light into darkness; The guardian of Israel neither slumbers nor sleeps; Intercession avails only
-    for whom God permits; Jesus son of Mary given clear signs and supported with the holy spirit (ruh
-    al-qudus); God''s footstool or seat (kursi) extends over the heavens and the earth; Israel''s God
-    is called ''the living God, enduring forever, whose kingdom shall never be destroyed''; No compulsion
-    in religion; Neither slumber nor sleep overtakes God; A day comes with no trade, no friendship and
-    no intercession; God ranked some messengers above others; to some God spoke; The temple as a house
-    of rest for the ark and the footstool of God''s feet.'
+- text: 'Only in Ranks of the messengers and the Throne Verse: God''s footstool or seat (kursi) extends
+    over the heavens and the earth; No compulsion in religion; Neither slumber nor sleep overtakes God;
+    God''s throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false
+    gods (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber
+    or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day
+    comes with no trade, no friendship and no intercession; The temple as a house of rest for the ark
+    and the footstool of God''s feet; Jesus son of Mary given clear signs and supported with the holy
+    spirit (ruh al-qudus); Israel''s God is called ''the living God, enduring forever, whose kingdom shall
+    never be destroyed''; God ranked some messengers above others; to some God spoke; and 4 more.'
   basis: reading
 - text: 'Comfort my people; a voice in the wilderness; to whom will you liken God: tagged by Claude (model),
     reading the Hebrew.'

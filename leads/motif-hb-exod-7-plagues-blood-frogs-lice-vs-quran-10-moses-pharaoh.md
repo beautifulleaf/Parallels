@@ -5,7 +5,6 @@ summary: 'These two units share 2 motifs: prophet''s wonders are imitated by the
   a contest, the king''s heart is hardened (by himself or by god) so he refuses to release the people.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -66,28 +65,37 @@ passages:
     ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
     قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. Magic fails against God''s act: mā jiʾtum bihi s-siḥru inna llāha sa-yubṭiluhu ... wa-yuḥiqqu
+    llāhu l-ḥaqqa bi-kalimātihi vs wayyaʿăśû-kēn haḥarṭummîm bᵉlāṭêhem ... wᵉlōʾ yākōlû ... ʾeṣbaʿ ʾĕlōhîm
+    hîʾ. In Exod the magicians themselves admit it (''the finger of God''); in Q Moses declares it.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Prophet''s wonders are imitated by the king''s magicians in a contest
-    (weight 5.2); The king''s heart is hardened (by himself or by God) so he refuses to release the people
-    (weight 4.6). Pair score 9.8.'
+    (weight 5.1); The king''s heart is hardened (by himself or by God) so he refuses to release the people
+    (weight 4.6). Pair score 9.7.'
   basis: reading
 - text: 'Only in Plagues 1-3: blood, frogs, lice: The dead frogs are piled in heaps and the land stinks;
-    Egyptians dig around the Nile for drinkable water; King asks the prophet to intercede with God to
-    remove a plague; Prophet delivers God''s demand ''Let my people go that they may serve me''; Magicians
-    fail to imitate a wonder and confess ''This is the finger of God''; Nile water is turned to blood;
-    Frogs swarm out of the river into houses, beds, ovens and kneading-troughs; The dust of the earth
-    becomes lice on man and beast; Prophet lets the king choose when the plague should end, to prove God''s
-    power; Prophet confronts the king at the river in the morning.'
+    Egyptians dig around the Nile for drinkable water; Prophet lets the king choose when the plague should
+    end, to prove God''s power; Magicians fail to imitate a wonder and confess ''This is the finger of
+    God''; Magicians fail to imitate a wonder and confess ''This is the finger of God'' [divergence between
+    the texts]; The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
+    [divergence between the texts]; How the defeated court magicians respond [divergence between the texts];
+    The king breaks his promise to release the people once a plague is lifted [divergence between the
+    texts]; Prophet confronts the king at the river in the morning; The dust of the earth becomes lice
+    on man and beast; Why Pharaoh and Egypt refuse despite the signs [divergence between the texts]; Frogs
+    swarm out of the river into houses, beds, ovens and kneading-troughs; and 3 more.'
   basis: reading
-- text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Unbelievers defend their practice
-    as what they found their fathers doing; Moses and Aaron are told to make their people''s houses in
-    Egypt a qibla (place/direction of prayer); Threatened believers say ''to our Lord we return'' and
-    pray for patience and to die as muslims; The meek / those who wait for YHWH / the righteous and their
-    seed shall inherit the land (yirshu arets); Only some youths (dhurriyya) of Moses'' people believed
-    him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of the Israelites, too late;
-    The king confesses he has sinned and that God is righteous; Pharaoh''s body is saved from the sea
-    to be a sign for those after him; Opponents call the prophet or his message ''manifest sorcery'';
+- text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Only some youths (dhurriyya)
+    of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
+    the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment; The returning waters drown the pursuing army; not one survives.'
+    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
+    the texts]; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
+    of prayer); God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
+    between the texts]; Threatened believers say ''to our Lord we return'' and pray for patience and to
+    die as muslims; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God or
+    his own sin, and what follows; Pharaoh acknowledges Israel''s God or his own sin, and what follows
+    [divergence between the texts]; Who throws the staff before Pharaoh and what it becomes; and 9 more.'
   basis: reading
 - text: 'Plagues 1-3: blood, frogs, lice: tagged by Claude (model), reading the Hebrew.'
   basis: reading

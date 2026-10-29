@@ -2,12 +2,13 @@
 id: motif-hb-exod-7-plagues-blood-frogs-lice-vs-quran-26-moses-and-pharaoh
 title: 'Plagues 1-3: blood, frogs, lice ↔ Moses and Pharaoh disputing; the magicians; the sea split like
   mountains'
-summary: 'These two units share 2 motifs: prophet delivers god''s demand ''let my people go that they
-  may serve me'', prophet''s wonders are imitated by the king''s magicians in a contest.'
+summary: 'These two units share 4 motifs: how the defeated court magicians respond [divergence between
+  the texts], why pharaoh and egypt refuse despite the signs [divergence between the texts], prophet delivers
+  god''s demand ''let my people go that they may serve me'', prophet''s wonders are imitated by the king''s
+  magicians in a contest.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,9 +16,62 @@ traditions:
 layers:
 - motif
 motifs:
+- magicians-response-to-defeat-as-divergence
+- cause-of-pharaohs-refusal-as-divergence
 - let-my-people-go-demand
 - contest-with-court-magicians
 passages:
+- tradition: judaism
+  ref: Exod 8:15
+  note: 'How the defeated court magicians respond [divergence between the texts] (What the defeated magicians
+    do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then nothing more; Pharaoh''s heart is hardened
+    (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate and convert: fa-ulqiya s-saḥaratu sājidīna
+    qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+    וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+- tradition: islam
+  ref: Quran 26:46
+  note: 'How the defeated court magicians respond [divergence between the texts] (What the defeated magicians
+    do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then nothing more; Pharaoh''s heart is hardened
+    (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate and convert: fa-ulqiya s-saḥaratu sājidīna
+    qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
+- tradition: islam
+  ref: Quran 26:47
+  note: 'How the defeated court magicians respond [divergence between the texts] (What the defeated magicians
+    do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then nothing more; Pharaoh''s heart is hardened
+    (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate and convert: fa-ulqiya s-saḥaratu sājidīna
+    qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
+- tradition: judaism
+  ref: Exod 8:15
+  note: 'Why Pharaoh and Egypt refuse despite the signs [divergence between the texts] (Why Egypt refuses:
+    Exod 8:15 the magicians admit ʾeṣbaʿ ʾĕlōhîm hîʾ, yet wa-yyeḥĕzaq lēv Parʿōh ... ka-ʾăšer dibber YHWH,
+    the heart is hardened as God foretold; Q 27:14 wa-jaḥadū bihā wa-staiqanathā anfusuhum ẓulman wa-ʿuluwwan,
+    they rejected the signs though inwardly convinced, out of wrongdoing and arrogance. Refusal by God''s
+    design becomes knowing, self-chosen denial.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+    וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+- tradition: islam
+  ref: Quran 26:49
+  note: 'Why Pharaoh and Egypt refuse despite the signs [divergence between the texts] (Pharaoh''s response
+    to the sign: Exod 7:13 wa-yyeḥĕzaq lēv Parʿōh wə-lōʾ šāmaʿ ʾălēhem ka-ʾăšer dibber YHWH, the heart
+    hardened as God foretold (God hardens it himself at 14:4, 14:8); Q 26:49 has no hardening and no divine
+    agency, only Pharaoh''s rage: āmantum lahu qabla an ādhana lakum innahu la-kabīrukumu lladhī ʿallamakumu
+    s-siḥra, with a threat of amputation and crucifixion.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
+    فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
+    أَجْمَعِينَ
 - tradition: judaism
   ref: Exod 7:16
   note: Prophet delivers God's demand 'Let my people go that they may serve me'
@@ -70,44 +124,38 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
 evidence:
-- text: 'Shared motifs, rarest first: Prophet delivers God''s demand ''Let my people go that they may
-    serve me'' (weight 5.6); Prophet''s wonders are imitated by the king''s magicians in a contest (weight
-    5.2). Pair score 10.8.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    divergence. What the defeated magicians do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then
+    nothing more; Pharaoh''s heart is hardened (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate
+    and convert: fa-ulqiya s-saḥaratu sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.'
+  basis: reading
+- text: 'Shared motifs, rarest first: How the defeated court magicians respond [divergence between the
+    texts] (weight 6.7); Why Pharaoh and Egypt refuse despite the signs [divergence between the texts]
+    (weight 6.0); Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 5.4);
+    Prophet''s wonders are imitated by the king''s magicians in a contest (weight 5.1). Pair score 23.2.'
   basis: reading
 - text: 'Only in Plagues 1-3: blood, frogs, lice: The dead frogs are piled in heaps and the land stinks;
-    Egyptians dig around the Nile for drinkable water; The king''s heart is hardened (by himself or by
-    God) so he refuses to release the people; King asks the prophet to intercede with God to remove a
-    plague; Magicians fail to imitate a wonder and confess ''This is the finger of God''; Nile water is
-    turned to blood; Frogs swarm out of the river into houses, beds, ovens and kneading-troughs; The dust
-    of the earth becomes lice on man and beast; Prophet lets the king choose when the plague should end,
-    to prove God''s power; Prophet confronts the king at the river in the morning.'
+    Egyptians dig around the Nile for drinkable water; Prophet lets the king choose when the plague should
+    end, to prove God''s power; Magicians fail to imitate a wonder and confess ''This is the finger of
+    God''; Magicians fail to imitate a wonder and confess ''This is the finger of God'' [divergence between
+    the texts]; The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
+    [divergence between the texts]; The king breaks his promise to release the people once a plague is
+    lifted [divergence between the texts]; Prophet confronts the king at the river in the morning; The
+    dust of the earth becomes lice on man and beast; Frogs swarm out of the river into houses, beds, ovens
+    and kneading-troughs; Nile water is turned to blood; King asks the prophet to intercede with God to
+    remove a plague; and 1 more.'
   basis: reading
-- text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: An eloquent
-    brother is appointed to speak for the hero, who is ''as God'' to him; The departing slaves ask their
-    neighbors for silver, gold and clothing and so plunder their oppressors; God identifies himself as
-    God of Abraham, Isaac and Jacob; Prophet''s hand turns leprous, white as snow, and is restored as
-    a sign; Hero flees the king''s death sentence to a foreign land; Pharaoh calls the Israelites ''a
-    small band'' who enrage him; God expelled the Egyptians from gardens, springs, treasures and fine
-    dwellings and made Israel inherit them; Israelites cannot be sold as slaves because they are God''s
-    servants whom he brought out of Egypt; King regrets releasing the slaves and pursues them with chariots;
-    The court magicians ask the king for a reward if they win and are promised closeness; The defeated
-    magicians fall prostrate and declare faith in the Lord of Moses and Aaron; The magicians'' ropes and
-    staffs appear by sorcery to be moving like snakes; The magicians cast their spells swearing ''By the
-    might of Pharaoh''; Condemned believers tell the tyrant ''decree what you will; you can only decree
-    for this worldly life''; Moses admits he did the killing while he was ''of those astray'' and fled
-    out of fear; Moses killed a man and God delivered him from distress, then tried him with trials; Pharaoh
-    reproaches Moses: ''Did we not raise you among us as a child, and you did your deed?''; Pharaoh threatens
-    the converted magicians with cutting off hands and feet on opposite sides and crucifixion (on palm
-    trunks); Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Officers call the
-    visiting prophet ''this madman'' (meshugga''); Prophet protests he is heavy of mouth and tongue or
-    ''uncircumcised of lips''; The prophet''s staff-serpent swallows the magicians'' staff-serpents; The
-    returning waters drown the pursuing army; not one survives; The sea splits and each part is like a
-    great mountain (ṭawd); Prophet stretches his staff over the sea and God splits it with a strong east
-    wind; Refrain closing each episode: ''In that is a sign, yet most of them do not believe; your Lord
-    is the Mighty, the Merciful''; Before Pharaoh the staff becomes a manifest great serpent (thuʿbān);
-    A staff thrown down becomes a serpent and turns back into a staff; The people walk on dry ground through
-    the sea with the waters as a wall on either side; King defies the prophet: ''Who is YHWH that I should
-    obey him?''.'
+- text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
+    the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
+    treasures and fine dwellings and made Israel inherit them; The magicians cast their spells swearing
+    ''By the might of Pharaoh''; Moses admits he did the killing while he was ''of those astray'' and
+    fled out of fear; Pharaoh reproaches Moses: ''Did we not raise you among us as a child, and you did
+    your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
+    the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
+    magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
+    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
+    to pursue the departing people; and 39 more.'
   basis: reading
 - text: 'Plagues 1-3: blood, frogs, lice: tagged by Claude (model), reading the Hebrew.'
   basis: reading

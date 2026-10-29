@@ -1,0 +1,84 @@
+---
+id: motif-hb-exod-32-tablets-broken-levites-vs-quran-9-mosques-and-kin
+title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ Who maintains the mosques; God
+  above family
+summary: 'These two units share 1 motifs: the levites kill idolaters including their own kin and are consecrated
+  for it.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- levites-kill-idolaters-kin
+passages:
+- tradition: judaism
+  ref: Exod 32:27
+  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
+    ordination by killing son and brother)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
+    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
+    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
+- tradition: judaism
+  ref: Exod 32:28
+  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
+    ordination by killing son and brother)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
+    אַלְפֵ֖י אִֽישׁ
+- tradition: islam
+  ref: Quran 9:23
+  note: 'The Levites kill idolaters including their own kin and are consecrated for it (Taking God''s
+    side against one''s own kin: kî ʾîš bibnô ûbᵉʾāḥîw (Levites consecrated for it) vs lā tattakhidhū
+    ābāʾakum wa-ikhwānakum awliyāʾa. Q does not ask for violence against kin, only refusal of their alliance.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ
+    إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. Taking God''s side against one''s own kin: kî ʾîš bibnô ûbᵉʾāḥîw (Levites consecrated for it)
+    vs lā tattakhidhū ābāʾakum wa-ikhwānakum awliyāʾa. Q does not ask for violence against kin, only refusal
+    of their alliance.'
+  basis: reading
+- text: 'Shared motifs, rarest first: The Levites kill idolaters including their own kin and are consecrated
+    for it (weight 5.8). Pair score 5.8.'
+  basis: reading
+- text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
+    the people pressed him and the calf came out of the fire; The people run wild and become a derision
+    to their enemies; God strikes the people with plague for idolatry; The prophet asks to be blotted
+    from God''s book if the people are not forgiven; The noise of the idolatrous revelry is mistaken for
+    the sound of battle; The tablets are written on both sides by God; The leader calls ''Who is for YHWH?
+    To me!'' and a group rallies; Aaron answers Moses'' rebuke over the calf [divergence between the texts];
+    Calf burned, ground to dust, and the dust thrown into the stream [divergence between the texts]; The
+    calf-maker is condemned to say all his life ''No touching!'' (lā misās), an outcast [divergence between
+    the texts]; Israel made to drink the golden calf [divergence between the texts]; God erases what he
+    wills and confirms, and with him is the Mother of the Book (umm al-kitab); and 16 more.'
+  basis: reading
+- text: 'Only in Who maintains the mosques; God above family: Giving water to pilgrims and tending the
+    Sacred Mosque are not equal to faith and striving; God''s good pleasure (ridwan) is greater than the
+    gardens of Eden; Levi says to father and mother ''I do not see you'' and disregards his brothers and
+    children for God''s covenant; Do not take fathers or brothers as allies against faith; love of God
+    must outweigh family, wealth, trade and homes; Only those who believe, pray and give alms may maintain
+    God''s places of worship; To obey is better than sacrifice; Entrance liturgy: ''Who may dwell on your
+    holy mountain?'' answered by a list of ethical qualifications.'
+  basis: reading
+- text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Who maintains the mosques; God above family: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

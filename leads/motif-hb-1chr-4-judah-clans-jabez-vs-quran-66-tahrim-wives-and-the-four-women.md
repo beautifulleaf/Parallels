@@ -38,31 +38,28 @@ evidence:
     Pair score 6.7.'
   basis: reading
 - text: 'Only in Clans of Judah; the prayer of Jabez; craft guilds; Bithiah daughter of Pharaoh: Gloss:
-    ''and the records/words are ancient''; A lone daughter is named in a male genealogy (Dinah, Serah);
-    Founder figure called ''father'' of a town (father of Bethlehem, Tekoa, Kiriath-jearim); Clans as
-    hereditary guilds (linen-workers, potters) who dwelt with the king in his work; Man named for his
-    mother''s pain (otsev) prays to be blessed, have his border enlarged and be kept from pain, and God
-    grants it; The hero''s previously unnamed mother is named in a genealogy; A place called ''Valley
-    of Craftsmen'' because its founders were craftsmen.'
+    ''and the records/words are ancient''; Clans as hereditary guilds (linen-workers, potters) who dwelt
+    with the king in his work; Man named for his mother''s pain (otsev) prays to be blessed, have his
+    border enlarged and be kept from pain, and God grants it; A place called ''Valley of Craftsmen'' because
+    its founders were craftsmen; The hero''s previously unnamed mother is named in a genealogy; Founder
+    figure called ''father'' of a town (father of Bethlehem, Tekoa, Kiriath-jearim); A lone daughter is
+    named in a male genealogy (Dinah, Serah).'
   basis: reading
 - text: 'Only in Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives
-    of Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran: The angel Gabriel is named and sent
-    to explain the vision; Father or husband may annul a woman''s vow on the day he hears it; On the day
-    believers'' light runs before them and on their right hands; If he divorced them, God might give him
-    in exchange better wives: submitting, believing, devout, repentant, worshipping, fasting/wandering
-    (sa''ihat), previously married and virgins; Deity breathes the breath of life into the first human''s
-    nostrils; A Fire whose fuel is people and stones, over which are harsh, stern angels who never disobey
-    God; If two wives back each other against him, God is his protector, and Gabriel, the righteous believers
-    and the angels; Mary, daughter of ''Imran, guarded her chastity; God breathed into it of his spirit,
-    and she believed the words of her Lord and his books; Mother of Moses, Aaron and Miriam named (Jochebed,
-    born to Levi in Egypt); Pharaoh''s wife prays ''My Lord, build me a house with you in the Garden and
-    save me from Pharaoh and his deeds''; The believers pray on the day: ''Our Lord, perfect our light
-    for us and forgive us''; ''O Prophet, why do you forbid what God made lawful for you, seeking to please
-    your wives?''; God has ordained the dissolution of oaths; Turn to God in sincere repentance (tawba
-    nasuh); The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter; The prophet
-    confided a secret to one of his wives; she divulged it, and God informed him; Wife who looks back
-    is turned into a pillar of salt; The wives of Noah and Lot, married to righteous servants, betrayed
-    them and are told to enter the Fire.'
+    of Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran: If he divorced them, God might give
+    him in exchange better wives: submitting, believing, devout, repentant, worshipping, fasting/wandering
+    (sa''ihat), previously married and virgins; A Fire whose fuel is people and stones, over which are
+    harsh, stern angels who never disobey God; If two wives back each other against him, God is his protector,
+    and Gabriel, the righteous believers and the angels; Mary, daughter of ''Imran, guarded her chastity;
+    God breathed into it of his spirit, and she believed the words of her Lord and his books; Pharaoh''s
+    wife prays ''My Lord, build me a house with you in the Garden and save me from Pharaoh and his deeds'';
+    The believers pray on the day: ''Our Lord, perfect our light for us and forgive us''; ''O Prophet,
+    why do you forbid what God made lawful for you, seeking to please your wives?''; God has ordained
+    the dissolution of oaths; Turn to God in sincere repentance (tawba nasuh); The prophet confided a
+    secret to one of his wives; she divulged it, and God informed him; The wives of Noah and Lot, married
+    to righteous servants, betrayed them and are told to enter the Fire; Father or husband may annul a
+    woman''s vow on the day he hears it; A man''s vow or oath must be fulfilled as uttered [contrast between
+    the texts]; and 10 more.'
   basis: reading
 - text: 'Clans of Judah; the prayer of Jabez; craft guilds; Bithiah daughter of Pharaoh: tagged by Claude
     (model), reading the Hebrew.'

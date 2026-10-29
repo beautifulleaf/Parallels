@@ -1,0 +1,85 @@
+---
+id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-38-david-ewe-parable
+title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ David's
+  mountains, the two litigants and the ninety-nine ewes
+summary: 'These two units share 1 motifs: god did not create the heavens and earth and what is between
+  them in play (la''ibin) but in truth.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- creation-not-in-play
+passages:
+- tradition: judaism
+  ref: Isa 45:18
+  note: 'God did not create the heavens and earth and what is between them in play (la''ibin) but in truth
+    (lōʾ-tōhû bərāʾāh lāšebet yəṣārāh; wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā lāʿibīn: God
+    did not create the world for nothing. Isa: not as tōhû, but to be lived in; Q: not as play (laʿib)
+    or pastime (lahw), but with truth.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙ ה֣וּא
+    כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
+- tradition: islam
+  ref: Quran 38:27
+  note: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَٰطِلًا ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا۟
+    فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِنَ ٱلنَّارِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    parallel. lōʾ-ṯōhû ḇərāʾāh lā-šeḇeṯ yəṣārāh vs. wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā
+    bāṭilan: creation was not made for nothing (tōhû / bāṭil).'
+  basis: reading
+- text: 'Shared motifs, rarest first: God did not create the heavens and earth and what is between them
+    in play (la''ibin) but in truth (weight 5.3). Pair score 5.3.'
+  basis: reading
+- text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
+    God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
+    the foreign king Cyrus ''his anointed'' (meshiho), whose right hand he grasps to subdue nations; God''s
+    anointed conqueror will build God''s city and free the exiles without price or reward; God did not
+    create the earth as a chaos (tohu) but formed it to be inhabited; God goes before his chosen conqueror,
+    levelling heights, breaking bronze doors and cutting iron bars, opening gates that will not be shut;
+    ''I did not speak in secret, in a land of darkness; I did not say to Jacob seek me in vain (tohu)'';
+    ''Drip, heavens, from above, and let the skies rain righteousness; let the earth open and salvation
+    sprout''; ''Truly you are a God who hides himself (El mistatter), O God of Israel, the Savior''; Egypt,
+    Cush and the tall Sabeans come over in chains and bow to Israel, saying ''Surely God is with you,
+    there is no other''; God gives the conqueror ''treasures of darkness and hidden riches of secret places'';
+    ''Turn to me and be saved, all the ends of the earth, for I am God and there is no other''; Woe to
+    him who says to a father ''What are you begetting?'' or to a woman ''With what are you in labor?'';
+    and 16 more.'
+  basis: reading
+- text: 'Only in David''s mountains, the two litigants and the ninety-nine ewes: Two litigants scale the
+    wall of David''s prayer-chamber (mihrab) and frighten him; A man with ninety-nine ewes demands his
+    brother''s single ewe and overpowers him in argument; A case about a ewe is brought to David for judgment
+    [divergence between the texts]; ''O David, we made you a vicegerent (khalifa) on earth; judge between
+    people with truth and do not follow desire''; David realizes he was being tested, asks forgiveness,
+    falls down bowing and turns in repentance; God strengthened David''s kingdom and gave him wisdom and
+    decisive judgment (fasl al-khitab); David''s repentance and what follows it [divergence between the
+    texts]; A man with many sheep takes another''s only ewe [divergence between the texts]; Shall God
+    treat believers like those who spread corruption, the godfearing like the wicked?; The king confesses
+    ''I have sinned'' and the prophet announces forgiveness with a remaining penalty; A prophet tells
+    a case as if real; the king condemns the offender and is told ''You are the man''; Mountains and birds
+    are made to glorify God together with David.'
+  basis: reading
+- text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
+    by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'David''s mountains, the two litigants and the ninety-nine ewes: tagged by Claude (model), reading
+    the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

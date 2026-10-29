@@ -180,10 +180,10 @@
      "lang": "he"
     },
     {
-     "lemma": "H5507",
-     "form": "סֹחֵרָה",
-     "translit": "çôchêrâh",
-     "gloss": "something surrounding the person, i.e. a shield",
+     "lemma": "H7835",
+     "form": "שָׁחַר",
+     "translit": "shâchar",
+     "gloss": "to be dim or dark (in color)",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
@@ -2217,19 +2217,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H2846",
-     "form": "חָתָה",
-     "translit": "châthâh",
-     "gloss": "to lay hold of",
+     "lemma": "H2333",
+     "form": "חַוָּה",
+     "translit": "chavvâh",
+     "gloss": "by implication, an encampment or village",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H2333",
-     "form": "חַוָּה",
-     "translit": "chavvâh",
-     "gloss": "by implication, an encampment or village",
+     "lemma": "H2846",
+     "form": "חָתָה",
+     "translit": "châthâh",
+     "gloss": "to lay hold of",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
@@ -2492,19 +2492,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H2846",
-     "form": "חָתָה",
-     "translit": "châthâh",
-     "gloss": "to lay hold of",
+     "lemma": "H2333",
+     "form": "חַוָּה",
+     "translit": "chavvâh",
+     "gloss": "by implication, an encampment or village",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H2333",
-     "form": "חַוָּה",
-     "translit": "chavvâh",
-     "gloss": "by implication, an encampment or village",
+     "lemma": "H2846",
+     "form": "חָתָה",
+     "translit": "châthâh",
+     "gloss": "to lay hold of",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
@@ -3064,10 +3064,10 @@
      "lang": "he"
     },
     {
-     "lemma": "H5507",
-     "form": "סֹחֵרָה",
-     "translit": "çôchêrâh",
-     "gloss": "something surrounding the person, i.e. a shield",
+     "lemma": "H7835",
+     "form": "שָׁחַר",
+     "translit": "shâchar",
+     "gloss": "to be dim or dark (in color)",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
@@ -4159,19 +4159,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H5932",
-     "form": "עַלְוָה",
-     "translit": "ʻalvâh",
-     "gloss": "moral perverseness",
+     "lemma": "H5940",
+     "form": "עֱלִי",
+     "translit": "ʻĕlîy",
+     "gloss": "a pestle (as lifted)",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H5940",
-     "form": "עֱלִי",
-     "translit": "ʻĕlîy",
-     "gloss": "a pestle (as lifted)",
+     "lemma": "H5932",
+     "form": "עַלְוָה",
+     "translit": "ʻalvâh",
+     "gloss": "moral perverseness",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"

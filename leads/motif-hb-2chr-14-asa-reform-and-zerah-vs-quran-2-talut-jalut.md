@@ -36,6 +36,9 @@ passages:
     قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟
     ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: It is the same to God to help the many or the powerless (weight
     6.7). Pair score 6.7.'
   basis: reading

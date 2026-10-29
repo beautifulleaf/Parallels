@@ -1,0 +1,81 @@
+---
+id: motif-hb-ps-49-no-ransom-vs-quran-47-muhammad-battle-and-rivers
+title: 'Psalm 49 - no man can ransom his brother ↔ Muhammad: deeds nullified, striking necks and freeing
+  captives, and the four rivers of the Garden'
+summary: 'These two units share 1 motifs: unbelievers enjoy themselves and eat as cattle eat; the fire
+  is their lodging.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- unbelievers-eat-like-cattle
+passages:
+- tradition: judaism
+  ref: Ps 49:13
+  note: 'Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging (wə-ʾāḏām bî-qār
+    bal yālîn nimšal kab-bəhēmôṯ nidmû vs. wa-lladhīna kafarū yatamattaʿūna wa-yaʾkulūna ka-mā taʾkulu
+    l-anʿāmu wa-n-nāru mathwan lahum. The rich and godless likened to beasts: they perish like beasts
+    in the psalm, they feed like cattle in the Quran, then the Fire.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאָדָ֣ם בִּ֭יקָר בַּל יָלִ֑ין נִמְשַׁ֖ל כַּבְּהֵמ֣וֹת נִדְמֽוּ
+- tradition: islam
+  ref: Quran 47:12
+  note: Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا
+    ٱلْأَنْهَٰرُ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَٰمُ وَٱلنَّارُ
+    مَثْوًى لَّهُمْ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    echo. wə-ʾāḏām bî-qār bal yālîn nimšal kab-bəhēmôṯ nidmû vs. wa-lladhīna kafarū yatamattaʿūna wa-yaʾkulūna
+    ka-mā taʾkulu l-anʿāmu wa-n-nāru mathwan lahum. The rich and godless likened to beasts: they perish
+    like beasts in the psalm, they feed like cattle in the Quran, then the Fire.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Unbelievers enjoy themselves and eat as cattle eat; the Fire is
+    their lodging (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Psalm 49 - no man can ransom his brother: Like sheep they are appointed for Sheol; Death
+    shepherds them; When he dies he takes nothing with him; his glory does not go down after him; God
+    will ransom my soul from the hand of Sheol, for he will take me (yiqqaheni); Refrain: man in his pomp
+    does not abide; he is like the beasts that perish; The poet opens his riddle (hidah) and proverb (mashal)
+    to the lyre, addressing all peoples rich and poor; God enlarges and restricts provision for whom he
+    wills; Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves;
+    No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too
+    costly [divergence between the texts]; On that day no patron (mawla) can avail his client at all;
+    Qārūn goes out in his finery and the worldly wish for his fortune; Wise men die, the fool and the
+    brute perish together and leave their wealth to others; Riches kept by their owner to his hurt, lost
+    in a bad venture, so that his son has nothing in hand; and 4 more.'
+  basis: reading
+- text: 'Only in Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of
+    the Garden: The damned are given boiling water to drink which tears their bowels apart; The Garden
+    has rivers of unstaling water, of milk unchanged in taste, of wine delightful to drinkers, and of
+    purified honey; Some listen to the prophet and on leaving ask the learned ''What did he say just now?'';
+    God has sealed their hearts; Those killed in God''s way: their deeds are not lost; he guides them
+    and admits them to a Garden he has made known to them; The signs/portents (ashrat) of the Hour have
+    already come; The prophet is told to ask forgiveness for his own sin and for the believing men and
+    women; In battle, strike the necks of unbelievers; when they are subdued bind them, then free them
+    as favor or for ransom until war lays down its burdens; Four rivers in the Garden [divergence between
+    the texts]; If you help God he will help you and make your feet firm; The Hour will come upon them
+    suddenly while they are unaware; Streams and rivers flowing with honey and curds (denied to the wicked);
+    Rivers or streams of honey and milk (curds) [divergence between the texts]; and 9 more.'
+  basis: reading
+- text: 'Psalm 49 - no man can ransom his brother: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden:
+    tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

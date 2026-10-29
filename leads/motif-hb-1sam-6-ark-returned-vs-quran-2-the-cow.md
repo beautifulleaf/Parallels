@@ -45,18 +45,21 @@ evidence:
 - text: 'Shared motifs, rarest first: Unyoked milk cows pull a new cart unguided, separated from their
     calves, as a divine test (weight 6.7). Pair score 6.7.'
   basis: reading
-- text: 'Only in The ark returned on a cart drawn by milk cows: Foreign priests and diviners advise how
-    to appease the God of Israel; Foreigners fear Israel''s God, recalling the plagues of Egypt; Golden
-    models of tumors and mice sent as guilt offering; People who look into the ark are struck dead; Memorial
-    stone named ''stone of help'' set up after victory.'
+- text: 'Only in The ark returned on a cart drawn by milk cows: Golden models of tumors and mice sent
+    as guilt offering; People who look into the ark are struck dead; Foreign priests and diviners advise
+    how to appease the God of Israel; Foreigners fear Israel''s God, recalling the plagues of Egypt; Memorial
+    stone named ''stone of help'' set up after victory; The ark returns to Israel [divergence between
+    the texts].'
   basis: reading
 - text: 'Only in The cow and the slain man: Moses commands a cow be slaughtered; the people repeatedly
-    ask its age, color and nature before complying; God will remove the heart of stone and give a heart
-    of flesh and a new spirit; Hearts harder than stones, yet some stones gush rivers, split for water
-    or fall down in fear of God; A slain man is struck with part of the slaughtered cow and revived to
-    reveal his killer; Unblemished red cow never yoked is burned whole for purifying ash; Unsolved murder:
-    elders of nearest city break the neck of an unworked heifer in an untilled wadi; The sacrificial cow
-    is bright yellow, pleasing to beholders.'
+    ask its age, color and nature before complying; Hearts harder than stones, yet some stones gush rivers,
+    split for water or fall down in fear of God; A slain man is struck with part of the slaughtered cow
+    and revived to reveal his killer; The sacrificial cow is bright yellow, pleasing to beholders; What
+    contact with a corpse does [contrast between the texts]; Description of the cow required by God [divergence
+    between the texts]; A heifer and a killing whose perpetrator is unknown [divergence between the texts];
+    Unblemished red cow never yoked is burned whole for purifying ash; Unsolved murder: elders of nearest
+    city break the neck of an unworked heifer in an untilled wadi; Hearts of stone [divergence between
+    the texts]; God will remove the heart of stone and give a heart of flesh and a new spirit.'
   basis: reading
 - text: 'The ark returned on a cart drawn by milk cows: tagged by Claude (model), reading the Hebrew.'
   basis: reading

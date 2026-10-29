@@ -2,12 +2,13 @@
 id: motif-hb-exod-2-moses-birth-flight-midian-vs-quran-28-moses-in-midian
 title: Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel's cry ↔ At the water
   of Midian; the two women, their old father and the marriage contract
-summary: 'These two units share 1 motifs: hero drives off shepherds and waters the flock of women at a
-  well.'
+summary: 'These two units share 6 motifs: the terms of moses'' marriage in midian [divergence between
+  the texts], moses'' father-in-law in midian [divergence between the texts], hero drives off shepherds
+  and waters the flock of women at a well, moses helps the women at the water of midian [divergence between
+  the texts]….'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,8 +16,91 @@ traditions:
 layers:
 - motif
 motifs:
+- terms-of-moses-marriage-as-divergence
+- moses-father-in-law-as-divergence
 - hero-waters-flock-for-women
+- moses-at-the-well-of-midian-as-divergence
+- midianite-daughters-role-as-divergence
+- meeting-future-wife-at-well
 passages:
+- tradition: judaism
+  ref: Exod 2:21
+  note: 'The terms of Moses'' marriage in Midian [divergence between the texts] (The marriage: Exodus
+    has wa-yyôʾel Mōše lāševet ʾet hā-ʾîš wa-yyittēn ʾet Ṣippōrâ vittô lə-Mōše, a named bride and no terms;
+    the Quran has an unnamed daughter given under a contract of service, ʿalā an taʾjuranī thamāniya ḥijajin
+    fa-in atmamta ʿashran fa-min ʿindika, eight years or ten if he wishes, sworn before God (wa-llāhu
+    ʿalā mā naqūlu wakīl).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיּ֥וֹאֶל מֹשֶׁ֖ה לָשֶׁ֣בֶת אֶת הָאִ֑ישׁ וַיִּתֵּ֛ן אֶת צִפֹּרָ֥ה בִתּ֖וֹ לְמֹשֶֽׁה
+- tradition: islam
+  ref: Quran 28:27
+  note: 'The terms of Moses'' marriage in Midian [divergence between the texts] (The marriage: Exodus
+    has wa-yyôʾel Mōše lāševet ʾet hā-ʾîš wa-yyittēn ʾet Ṣippōrâ vittô lə-Mōše, a named bride and no terms;
+    the Quran has an unnamed daughter given under a contract of service, ʿalā an taʾjuranī thamāniya ḥijajin
+    fa-in atmamta ʿashran fa-min ʿindika, eight years or ten if he wishes, sworn before God (wa-llāhu
+    ʿalā mā naqūlu wakīl).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ
+    حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِىٓ
+    إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ
+- tradition: islam
+  ref: Quran 28:28
+  note: 'The terms of Moses'' marriage in Midian [divergence between the texts] (The marriage: Exodus
+    has wa-yyôʾel Mōše lāševet ʾet hā-ʾîš wa-yyittēn ʾet Ṣippōrâ vittô lə-Mōše, a named bride and no terms;
+    the Quran has an unnamed daughter given under a contract of service, ʿalā an taʾjuranī thamāniya ḥijajin
+    fa-in atmamta ʿashran fa-min ʿindika, eight years or ten if he wishes, sworn before God (wa-llāhu
+    ʿalā mā naqūlu wakīl).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ ذَٰلِكَ بَيْنِى وَبَيْنَكَ أَيَّمَا ٱلْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ وَٱللَّهُ
+    عَلَىٰ مَا نَقُولُ وَكِيلٌ
+- tradition: judaism
+  ref: Exod 2:16
+  note: 'Moses'' father-in-law in Midian [divergence between the texts] (The father: Exodus has a named
+    priest, kōhēn Midyān and Rəʿûʾēl, who scolds his daughters for leaving the stranger and invites him
+    to eat (qirʾen lô wə-yōʾkhal leḥem); the Quran has an unnamed ''very old man'' (shaykhun kabīr), no
+    priest, who sends a daughter to pay Moses his wage (li-yajziyaka ajra mā saqayta lanā) and reassures
+    him: lā takhaf najawta mina l-qawmi ẓ-ẓālimīn.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּלְכֹהֵ֥ן מִדְיָ֖ן שֶׁ֣בַע בָּנ֑וֹת וַתָּבֹ֣אנָה וַתִּדְלֶ֗נָה וַתְּמַלֶּ֨אנָה֙ אֶת הָ֣רְהָטִ֔ים
+    לְהַשְׁק֖וֹת צֹ֥אן אֲבִיהֶֽן
+- tradition: judaism
+  ref: Exod 2:18
+  note: 'Moses'' father-in-law in Midian [divergence between the texts] (The father: Exodus has a named
+    priest, kōhēn Midyān and Rəʿûʾēl, who scolds his daughters for leaving the stranger and invites him
+    to eat (qirʾen lô wə-yōʾkhal leḥem); the Quran has an unnamed ''very old man'' (shaykhun kabīr), no
+    priest, who sends a daughter to pay Moses his wage (li-yajziyaka ajra mā saqayta lanā) and reassures
+    him: lā takhaf najawta mina l-qawmi ẓ-ẓālimīn.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתָּבֹ֕אנָה אֶל רְעוּאֵ֖ל אֲבִיהֶ֑ן וַיֹּ֕אמֶר מַדּ֛וּעַ מִהַרְתֶּ֥ן בֹּ֖א הַיּֽוֹם
+- tradition: islam
+  ref: Quran 28:23
+  note: 'Moses'' father-in-law in Midian [divergence between the texts] (The father: Exodus has a named
+    priest, kōhēn Midyān and Rəʿûʾēl, who scolds his daughters for leaving the stranger and invites him
+    to eat (qirʾen lô wə-yōʾkhal leḥem); the Quran has an unnamed ''very old man'' (shaykhun kabīr), no
+    priest, who sends a daughter to pay Moses his wage (li-yajziyaka ajra mā saqayta lanā) and reassures
+    him: lā takhaf najawta mina l-qawmi ẓ-ẓālimīn.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن
+    دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ
+    وَأَبُونَا شَيْخٌ كَبِيرٌ
+- tradition: islam
+  ref: Quran 28:25
+  note: 'Moses'' father-in-law in Midian [divergence between the texts] (The father: Exodus has a named
+    priest, kōhēn Midyān and Rəʿûʾēl, who scolds his daughters for leaving the stranger and invites him
+    to eat (qirʾen lô wə-yōʾkhal leḥem); the Quran has an unnamed ''very old man'' (shaykhun kabīr), no
+    priest, who sends a daughter to pay Moses his wage (li-yajziyaka ajra mā saqayta lanā) and reassures
+    him: lā takhaf najawta mina l-qawmi ẓ-ẓālimīn.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ
+    أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ
+    مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 - tradition: judaism
   ref: Exod 2:17
   note: Hero drives off shepherds and waters the flock of women at a well
@@ -47,28 +131,178 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ
     مِنْ خَيْرٍ فَقِيرٌ
+- tradition: judaism
+  ref: Exod 2:16
+  note: 'Moses helps the women at the water of Midian [divergence between the texts] (At the water of
+    Midian: Exodus has seven daughters of the priest of Midian (šebaʿ bānôt) who draw water, shepherds
+    who drive them off (wa-ygārəšûm), and Moses who rescues them (wa-yyôšiʿān) and waters their flock.
+    The Quran has two women holding back their flock (imraʾatayni tadhūdāni) until the shepherds finish,
+    explaining abūnā shaykhun kabīrun; Moses waters for them unasked, then withdraws to the shade and
+    prays (rabbi innī limā anzalta ilayya min khayrin faqīr). There is no fight with the shepherds.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּלְכֹהֵ֥ן מִדְיָ֖ן שֶׁ֣בַע בָּנ֑וֹת וַתָּבֹ֣אנָה וַתִּדְלֶ֗נָה וַתְּמַלֶּ֨אנָה֙ אֶת הָ֣רְהָטִ֔ים
+    לְהַשְׁק֖וֹת צֹ֥אן אֲבִיהֶֽן
+- tradition: judaism
+  ref: Exod 2:17
+  note: 'Moses helps the women at the water of Midian [divergence between the texts] (At the water of
+    Midian: Exodus has seven daughters of the priest of Midian (šebaʿ bānôt) who draw water, shepherds
+    who drive them off (wa-ygārəšûm), and Moses who rescues them (wa-yyôšiʿān) and waters their flock.
+    The Quran has two women holding back their flock (imraʾatayni tadhūdāni) until the shepherds finish,
+    explaining abūnā shaykhun kabīrun; Moses waters for them unasked, then withdraws to the shade and
+    prays (rabbi innī limā anzalta ilayya min khayrin faqīr). There is no fight with the shepherds.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיָּבֹ֥אוּ הָרֹעִ֖ים וַיְגָרְשׁ֑וּם וַיָּ֤קָם מֹשֶׁה֙ וַיּ֣וֹשִׁעָ֔ן וַיַּ֖שְׁקְ אֶת צֹאנָֽם
+- tradition: islam
+  ref: Quran 28:23
+  note: 'Moses helps the women at the water of Midian [divergence between the texts] (At the water of
+    Midian: Exodus has seven daughters of the priest of Midian (šebaʿ bānôt) who draw water, shepherds
+    who drive them off (wa-ygārəšûm), and Moses who rescues them (wa-yyôšiʿān) and waters their flock.
+    The Quran has two women holding back their flock (imraʾatayni tadhūdāni) until the shepherds finish,
+    explaining abūnā shaykhun kabīrun; Moses waters for them unasked, then withdraws to the shade and
+    prays (rabbi innī limā anzalta ilayya min khayrin faqīr). There is no fight with the shepherds.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن
+    دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ
+    وَأَبُونَا شَيْخٌ كَبِيرٌ
+- tradition: islam
+  ref: Quran 28:24
+  note: 'Moses helps the women at the water of Midian [divergence between the texts] (At the water of
+    Midian: Exodus has seven daughters of the priest of Midian (šebaʿ bānôt) who draw water, shepherds
+    who drive them off (wa-ygārəšûm), and Moses who rescues them (wa-yyôšiʿān) and waters their flock.
+    The Quran has two women holding back their flock (imraʾatayni tadhūdāni) until the shepherds finish,
+    explaining abūnā shaykhun kabīrun; Moses waters for them unasked, then withdraws to the shade and
+    prays (rabbi innī limā anzalta ilayya min khayrin faqīr). There is no fight with the shepherds.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ
+    مِنْ خَيْرٍ فَقِيرٌ
+- tradition: judaism
+  ref: Exod 2:19
+  note: 'What the Midianite daughters do after Moses helps them [divergence between the texts] (The daughters''
+    role: in Exodus they report together to their father, ʾîš Miṣrî hiṣṣîlānû mi-yyad hā-rōʿîm, ''an Egyptian
+    man saved us'' (Moses taken for an Egyptian); in the Quran one daughter walks shyly (tamshī ʿalā stiḥyāʾ)
+    to invite him and then advises her father, istaʾjirhu inna khayra mani staʾjarta l-qawiyyu l-amīnu,
+    ''hire him, the best one to hire is the strong and trustworthy''.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתֹּאמַ֕רְןָ אִ֣ישׁ מִצְרִ֔י הִצִּילָ֖נוּ מִיַּ֣ד הָרֹעִ֑ים וְגַם דָּלֹ֤ה דָלָה֙ לָ֔נוּ וַיַּ֖שְׁקְ
+    אֶת הַצֹּֽאן
+- tradition: judaism
+  ref: Exod 2:20
+  note: 'What the Midianite daughters do after Moses helps them [divergence between the texts] (The daughters''
+    role: in Exodus they report together to their father, ʾîš Miṣrî hiṣṣîlānû mi-yyad hā-rōʿîm, ''an Egyptian
+    man saved us'' (Moses taken for an Egyptian); in the Quran one daughter walks shyly (tamshī ʿalā stiḥyāʾ)
+    to invite him and then advises her father, istaʾjirhu inna khayra mani staʾjarta l-qawiyyu l-amīnu,
+    ''hire him, the best one to hire is the strong and trustworthy''.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֥אמֶר אֶל בְּנֹתָ֖יו וְאַיּ֑וֹ לָ֤מָּה זֶּה֙ עֲזַבְתֶּ֣ן אֶת הָאִ֔ישׁ קִרְאֶ֥ן ל֖וֹ וְיֹ֥אכַל
+    לָֽחֶם
+- tradition: islam
+  ref: Quran 28:25
+  note: 'What the Midianite daughters do after Moses helps them [divergence between the texts] (The daughters''
+    role: in Exodus they report together to their father, ʾîš Miṣrî hiṣṣîlānû mi-yyad hā-rōʿîm, ''an Egyptian
+    man saved us'' (Moses taken for an Egyptian); in the Quran one daughter walks shyly (tamshī ʿalā stiḥyāʾ)
+    to invite him and then advises her father, istaʾjirhu inna khayra mani staʾjarta l-qawiyyu l-amīnu,
+    ''hire him, the best one to hire is the strong and trustworthy''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ
+    أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ
+    مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+- tradition: islam
+  ref: Quran 28:26
+  note: 'What the Midianite daughters do after Moses helps them [divergence between the texts] (The daughters''
+    role: in Exodus they report together to their father, ʾîš Miṣrî hiṣṣîlānû mi-yyad hā-rōʿîm, ''an Egyptian
+    man saved us'' (Moses taken for an Egyptian); in the Quran one daughter walks shyly (tamshī ʿalā stiḥyāʾ)
+    to invite him and then advises her father, istaʾjirhu inna khayra mani staʾjarta l-qawiyyu l-amīnu,
+    ''hire him, the best one to hire is the strong and trustworthy''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَتْ إِحْدَىٰهُمَا يَٰٓأَبَتِ ٱسْتَـْٔجِرْهُ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ
+- tradition: judaism
+  ref: Exod 2:15
+  note: Hero meets his future wife at a well (seven daughters of the priest of Midian; Zipporah)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשְׁמַ֤ע פַּרְעֹה֙ אֶת הַדָּבָ֣ר הַזֶּ֔ה וַיְבַקֵּ֖שׁ לַהֲרֹ֣ג אֶת מֹשֶׁ֑ה וַיִּבְרַ֤ח מֹשֶׁה֙
+    מִפְּנֵ֣י פַרְעֹ֔ה וַיֵּ֥שֶׁב בְּאֶֽרֶץ מִדְיָ֖ן וַיֵּ֥שֶׁב עַֽל הַבְּאֵֽר
+- tradition: judaism
+  ref: Exod 2:16
+  note: Hero meets his future wife at a well (seven daughters of the priest of Midian; Zipporah)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּלְכֹהֵ֥ן מִדְיָ֖ן שֶׁ֣בַע בָּנ֑וֹת וַתָּבֹ֣אנָה וַתִּדְלֶ֗נָה וַתְּמַלֶּ֨אנָה֙ אֶת הָ֣רְהָטִ֔ים
+    לְהַשְׁק֖וֹת צֹ֥אן אֲבִיהֶֽן
+- tradition: islam
+  ref: Quran 28:23
+  note: 'Hero meets his future wife at a well (wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~
+    hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at
+    a town''s water meets the young woman who leads to a marriage. In Genesis the woman waters the stranger''s
+    animals as a sign; in the Quran the stranger waters the women''s flock.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن
+    دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ
+    وَأَبُونَا شَيْخٌ كَبِيرٌ
+- tradition: islam
+  ref: Quran 28:25
+  note: 'Hero meets his future wife at a well (wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~
+    hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at
+    a town''s water meets the young woman who leads to a marriage. In Genesis the woman waters the stranger''s
+    animals as a sign; in the Quran the stranger waters the women''s flock.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ
+    أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ
+    مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Hero drives off shepherds and waters the flock of women at a well
-    (weight 6.7). Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    divergence. At the water of Midian: Exodus has seven daughters of the priest of Midian (šebaʿ bānôt)
+    who draw water, shepherds who drive them off (wa-ygārəšûm), and Moses who rescues them (wa-yyôšiʿān)
+    and waters their flock. The Quran has two women holding back their flock (imraʾatayni tadhūdāni) until
+    the shepherds finish, explaining abūnā shaykhun kabīrun; Moses waters for them unasked, then withdraws
+    to the shade and prays (rabbi innī limā anzalta ilayya min khayrin faqīr). There is no fight with
+    the shepherds. The father: Exodus has a named priest, kōhēn Midyān and Rəʿûʾēl, who scolds his daughters
+    for leaving the stranger and invites him to eat (qirʾen lô wə-yōʾkhal leḥem); the Quran has an unnamed
+    ''very old man'' (shaykhun kabīr), no priest, who sends a daughter to pay Moses his wage (li-yajziyaka
+    ajra mā saqayta lanā) and reassures him: lā takhaf najawta mina l-qawmi ẓ-ẓālimīn. The daughters''
+    role: in Exodus they report together to their father, ʾîš Miṣrî hiṣṣîlānû mi-yyad hā-rōʿîm, ''an Egyptian
+    man saved us'' (Moses taken for an Egyptian); in the Quran one daughter walks shyly (tamshī ʿalā stiḥyāʾ)
+    to invite him and then advises her father, istaʾjirhu inna khayra mani staʾjarta l-qawiyyu l-amīnu,
+    ''hire him, the best one to hire is the strong and trustworthy''. The marriage: Exodus has wa-yyôʾel
+    Mōše lāševet ʾet hā-ʾîš wa-yyittēn ʾet Ṣippōrâ vittô lə-Mōše, a named bride and no terms; the Quran
+    has an unnamed daughter given under a contract of service, ʿalā an taʾjuranī thamāniya ḥijajin fa-in
+    atmamta ʿashran fa-min ʿindika, eight years or ten if he wishes, sworn before God (wa-llāhu ʿalā mā
+    naqūlu wakīl).'
+  basis: reading
+- text: 'Shared motifs, rarest first: The terms of Moses'' marriage in Midian [divergence between the
+    texts] (weight 6.7); Moses'' father-in-law in Midian [divergence between the texts] (weight 6.7);
+    Hero drives off shepherds and waters the flock of women at a well (weight 6.7); Moses helps the women
+    at the water of Midian [divergence between the texts] (weight 6.7); What the Midianite daughters do
+    after Moses helps them [divergence between the texts] (weight 6.7); Hero meets his future wife at
+    a well (weight 6.3). Pair score 39.7.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
-    Infant adopted by a royal woman; The groaning of the oppressed rises to God, who hears and remembers
-    his covenant; Infant found by members of a royal household; Hero flees the king''s death sentence
-    to a foreign land; Hero kills an oppressor beating a kinsman and hides the body in the sand; Host
-    runs to welcome strangers, washes their feet and feeds them; Infant placed in a container and set
-    on the water; The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced
-    anonymously as a Levite man and a Levite woman; Hero meets his future wife at a well; Mother hides
-    the infant; Mother sees that her newborn ''is good'' (ki tov); Name explained by being drawn from
-    water; The container is made of reeds or papyrus; Infant returned to his own mother to nurse; Sister
-    offers to find a nurse; Infant''s sister watches over him; Hero names his son for being a stranger
-    in a foreign land; Vessel sealed with pitch or bitumen; Kinsman rebuffs the hero: ''Who made you prince
-    and judge over us?''.'
+    The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
+    as a Levite man and a Levite woman; Mother sees that her newborn ''is good'' (ki tov); Hero names
+    his son for being a stranger in a foreign land; Infant adopted by a royal woman [divergence between
+    the texts]; The groaning of the oppressed rises to God, who hears and remembers his covenant; Hero
+    kills an oppressor beating a kinsman and hides the body in the sand; How Moses learns that his life
+    is sought [divergence between the texts]; How Moses killed the Egyptian [divergence between the texts];
+    Moses killed a man and God delivered him from distress, then tried him with trials [divergence between
+    the texts]; Who decides that Moses be put on the water [divergence between the texts]; Moses'' upbringing
+    in Pharaoh''s house [divergence between the texts]; and 20 more.'
   basis: reading
 - text: 'Only in At the water of Midian; the two women, their old father and the marriage contract: The
     father offers one of his two daughters in marriage for eight years'' service, ten if the groom wishes;
-    The prophet''s father-in-law is a foreign priest; One of the women comes walking shyly to invite the
-    hero to her father, who will reward him; Suitor serves the bride''s father seven years for her hand;
-    The daughter advises: ''The best one to hire is the strong and trustworthy''.'
+    One of the women comes walking shyly to invite the hero to her father, who will reward him; The daughter
+    advises: ''The best one to hire is the strong and trustworthy''; The prophet''s father-in-law is a
+    foreign priest; Years of service given for a bride [divergence between the texts]; Future bride or
+    groom met at a well, leading to betrothal; Suitor serves the bride''s father seven years for her hand.'
   basis: reading
 - text: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry: tagged by
     Claude (model), reading the Hebrew.'

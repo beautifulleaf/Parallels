@@ -2,10 +2,10 @@
 id: motif-hb-gen-12-sarai-in-egypt-vs-hb-gen-20-abimelech-sarah
 title: Abram and Sarai in Egypt (first wife-sister episode) ↔ Abraham and Sarah at Gerar (second wife-sister
   episode)
-summary: 'These two units share 5 motifs: the matriarch is taken into a foreign king''s house, the foreign
-  king rebukes the patriarch for the deception, patriarch passes off his beautiful wife as his sister
-  in a foreign court, god strikes the king''s house with plagues or affliction for taking the patriarch''s
-  wife….'
+summary: 'These two units share 5 motifs: the matriarch is taken into a foreign king''s house, patriarch
+  leaves enriched with flocks, slaves and silver from the foreign king, god strikes the king''s house
+  with plagues or affliction for taking the patriarch''s wife, patriarch passes off his beautiful wife
+  as his sister in a foreign court….'
 status: new
 relations:
 - internal
@@ -16,10 +16,10 @@ layers:
 - motif
 motifs:
 - matriarch-taken-into-royal-house
-- king-rebukes-patriarch
-- wife-passed-off-as-sister
-- plagues-on-king-for-taking-wife
 - patriarch-enriched-by-foreign-king
+- plagues-on-king-for-taking-wife
+- wife-passed-off-as-sister
+- king-rebukes-patriarch
 passages:
 - tradition: judaism
   ref: Gen 12:15
@@ -36,33 +36,42 @@ passages:
   text: וַיֹּ֧אמֶר אַבְרָהָ֛ם אֶל שָׂרָ֥ה אִשְׁתּ֖וֹ אֲחֹ֣תִי הִ֑וא וַיִּשְׁלַ֗ח אֲבִימֶ֨לֶךְ֙ מֶ֣לֶךְ
     גְּרָ֔ר וַיִּקַּ֖ח אֶת שָׂרָֽה
 - tradition: judaism
-  ref: Gen 12:18
-  note: The foreign king rebukes the patriarch for the deception
+  ref: Gen 12:16
+  note: Patriarch leaves enriched with flocks, slaves and silver from the foreign king
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה זֹּ֖את עָשִׂ֣יתָ לִּ֑י לָ֚מָּה לֹא הִגַּ֣דְתָּ
-    לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא
+  text: וּלְאַבְרָ֥ם הֵיטִ֖יב בַּעֲבוּרָ֑הּ וַֽיְהִי ל֤וֹ צֹאן וּבָקָר֙ וַחֲמֹרִ֔ים וַעֲבָדִים֙ וּשְׁפָחֹ֔ת
+    וַאֲתֹנֹ֖ת וּגְמַלִּֽים
 - tradition: judaism
-  ref: Gen 12:19
-  note: The foreign king rebukes the patriarch for the deception
+  ref: Gen 20:14
+  note: Patriarch leaves enriched with flocks, slaves and silver from the foreign king (a thousand of
+    silver as 'covering of the eyes')
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: לָמָ֤ה אָמַ֨רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖
-    קַ֥ח וָלֵֽךְ
+  text: וַיִּקַּ֨ח אֲבִימֶ֜לֶךְ צֹ֣אן וּבָקָ֗ר וַעֲבָדִים֙ וּשְׁפָחֹ֔ת וַיִּתֵּ֖ן לְאַבְרָהָ֑ם וַיָּ֣שֶׁב
+    ל֔וֹ אֵ֖ת שָׂרָ֥ה אִשְׁתּֽוֹ
 - tradition: judaism
-  ref: Gen 20:9
-  note: The foreign king rebukes the patriarch for the deception
+  ref: Gen 20:16
+  note: Patriarch leaves enriched with flocks, slaves and silver from the foreign king (a thousand of
+    silver as 'covering of the eyes')
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֨א אֲבִימֶ֜לֶךְ לְאַבְרָהָ֗ם וַיֹּ֨אמֶר ל֜וֹ מֶֽה עָשִׂ֤יתָ לָּ֨נוּ֙ וּמֶֽה חָטָ֣אתִי
-    לָ֔ךְ כִּֽי הֵבֵ֧אתָ עָלַ֛י וְעַל מַמְלַכְתִּ֖י חֲטָאָ֣ה גְדֹלָ֑ה מַעֲשִׂים֙ אֲשֶׁ֣ר לֹא יֵֽעָשׂ֔וּ
-    עָשִׂ֖יתָ עִמָּדִֽי
+  text: וּלְשָׂרָ֣ה אָמַ֗ר הִנֵּ֨ה נָתַ֜תִּי אֶ֤לֶף כֶּ֨סֶף֙ לְאָחִ֔יךְ הִנֵּ֤ה הוּא לָךְ֙ כְּס֣וּת עֵינַ֔יִם
+    לְכֹ֖ל אֲשֶׁ֣ר אִתָּ֑ךְ וְאֵ֥ת כֹּ֖ל וְנֹכָֽחַת
 - tradition: judaism
-  ref: Gen 20:10
-  note: The foreign king rebukes the patriarch for the deception
+  ref: Gen 12:17
+  note: God strikes the king's house with plagues or affliction for taking the patriarch's wife
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל אַבְרָהָ֑ם מָ֣ה רָאִ֔יתָ כִּ֥י עָשִׂ֖יתָ אֶת הַדָּבָ֥ר הַזֶּֽה
+  text: וַיְנַגַּ֨ע יְהוָ֧ה אֶת פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת בֵּית֑וֹ עַל דְּבַ֥ר שָׂרַ֖י אֵ֥שֶׁת
+    אַבְרָֽם
+- tradition: judaism
+  ref: Gen 20:18
+  note: God strikes the king's house with plagues or affliction for taking the patriarch's wife
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי עָצֹ֤ר עָצַר֙ יְהוָ֔ה בְּעַ֥ד כָּל רֶ֖חֶם לְבֵ֣ית אֲבִימֶ֑לֶךְ עַל דְּבַ֥ר שָׂרָ֖ה אֵ֥שֶׁת
+    אַבְרָהָֽם
 - tradition: judaism
   ref: Gen 12:11
   note: Patriarch passes off his beautiful wife as his sister in a foreign court
@@ -92,48 +101,39 @@ passages:
   text: הֲלֹ֨א ה֤וּא אָֽמַר לִי֙ אֲחֹ֣תִי הִ֔וא וְהִֽיא גַם הִ֥וא אָֽמְרָ֖ה אָחִ֣י ה֑וּא בְּתָם לְבָבִ֛י
     וּבְנִקְיֹ֥ן כַּפַּ֖י עָשִׂ֥יתִי זֹֽאת
 - tradition: judaism
-  ref: Gen 12:17
-  note: God strikes the king's house with plagues or affliction for taking the patriarch's wife
+  ref: Gen 12:18
+  note: The foreign king rebukes the patriarch for the deception
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיְנַגַּ֨ע יְהוָ֧ה אֶת פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת בֵּית֑וֹ עַל דְּבַ֥ר שָׂרַ֖י אֵ֥שֶׁת
-    אַבְרָֽם
+  text: וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה זֹּ֖את עָשִׂ֣יתָ לִּ֑י לָ֚מָּה לֹא הִגַּ֣דְתָּ
+    לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא
 - tradition: judaism
-  ref: Gen 20:18
-  note: God strikes the king's house with plagues or affliction for taking the patriarch's wife
+  ref: Gen 12:19
+  note: The foreign king rebukes the patriarch for the deception
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי עָצֹ֤ר עָצַר֙ יְהוָ֔ה בְּעַ֥ד כָּל רֶ֖חֶם לְבֵ֣ית אֲבִימֶ֑לֶךְ עַל דְּבַ֥ר שָׂרָ֖ה אֵ֥שֶׁת
-    אַבְרָהָֽם
+  text: לָמָ֤ה אָמַ֨רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖
+    קַ֥ח וָלֵֽךְ
 - tradition: judaism
-  ref: Gen 12:16
-  note: Patriarch leaves enriched with flocks, slaves and silver from the foreign king
+  ref: Gen 20:9
+  note: The foreign king rebukes the patriarch for the deception
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וּלְאַבְרָ֥ם הֵיטִ֖יב בַּעֲבוּרָ֑הּ וַֽיְהִי ל֤וֹ צֹאן וּבָקָר֙ וַחֲמֹרִ֔ים וַעֲבָדִים֙ וּשְׁפָחֹ֔ת
-    וַאֲתֹנֹ֖ת וּגְמַלִּֽים
+  text: וַיִּקְרָ֨א אֲבִימֶ֜לֶךְ לְאַבְרָהָ֗ם וַיֹּ֨אמֶר ל֜וֹ מֶֽה עָשִׂ֤יתָ לָּ֨נוּ֙ וּמֶֽה חָטָ֣אתִי
+    לָ֔ךְ כִּֽי הֵבֵ֧אתָ עָלַ֛י וְעַל מַמְלַכְתִּ֖י חֲטָאָ֣ה גְדֹלָ֑ה מַעֲשִׂים֙ אֲשֶׁ֣ר לֹא יֵֽעָשׂ֔וּ
+    עָשִׂ֖יתָ עִמָּדִֽי
 - tradition: judaism
-  ref: Gen 20:14
-  note: Patriarch leaves enriched with flocks, slaves and silver from the foreign king (a thousand of
-    silver as 'covering of the eyes')
+  ref: Gen 20:10
+  note: The foreign king rebukes the patriarch for the deception
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֨ח אֲבִימֶ֜לֶךְ צֹ֣אן וּבָקָ֗ר וַעֲבָדִים֙ וּשְׁפָחֹ֔ת וַיִּתֵּ֖ן לְאַבְרָהָ֑ם וַיָּ֣שֶׁב
-    ל֔וֹ אֵ֖ת שָׂרָ֥ה אִשְׁתּֽוֹ
-- tradition: judaism
-  ref: Gen 20:16
-  note: Patriarch leaves enriched with flocks, slaves and silver from the foreign king (a thousand of
-    silver as 'covering of the eyes')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּלְשָׂרָ֣ה אָמַ֗ר הִנֵּ֨ה נָתַ֜תִּי אֶ֤לֶף כֶּ֨סֶף֙ לְאָחִ֔יךְ הִנֵּ֤ה הוּא לָךְ֙ כְּס֣וּת עֵינַ֔יִם
-    לְכֹ֖ל אֲשֶׁ֣ר אִתָּ֑ךְ וְאֵ֥ת כֹּ֖ל וְנֹכָֽחַת
+  text: וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל אַבְרָהָ֑ם מָ֣ה רָאִ֔יתָ כִּ֥י עָשִׂ֖יתָ אֶת הַדָּבָ֥ר הַזֶּֽה
 evidence:
 - text: 'Shared motifs, rarest first: The matriarch is taken into a foreign king''s house (weight 6.7);
-    The foreign king rebukes the patriarch for the deception (weight 6.3); Patriarch passes off his beautiful
-    wife as his sister in a foreign court (weight 6.3); God strikes the king''s house with plagues or
-    affliction for taking the patriarch''s wife (weight 6.3); Patriarch leaves enriched with flocks, slaves
-    and silver from the foreign king (weight 6.3). Pair score 31.8.'
+    Patriarch leaves enriched with flocks, slaves and silver from the foreign king (weight 6.3); God strikes
+    the king''s house with plagues or affliction for taking the patriarch''s wife (weight 6.3); Patriarch
+    passes off his beautiful wife as his sister in a foreign court (weight 6.3); The foreign king rebukes
+    the patriarch for the deception (weight 6.3). Pair score 31.8.'
   basis: reading
 - text: 'Only in Abram and Sarai in Egypt (first wife-sister episode): Famine forces the family to go
     down to Egypt; Hero''s beauty is remarked on.'

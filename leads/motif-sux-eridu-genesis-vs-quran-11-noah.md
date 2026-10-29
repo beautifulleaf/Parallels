@@ -37,6 +37,13 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ
     بِمَا كَانُوا۟ يَفْعَلُونَ
+- tradition: islam
+  ref: Quran 11:37
+  note: Hero privately warned of the coming flood by a deity
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
+    مُّغْرَقُونَ
 evidence:
 - text: 'Shared motifs, rarest first: Deity decides to destroy humankind (weight 5.3); Hero privately
     warned of the coming flood by a deity (weight 5.1). Pair score 10.4.'

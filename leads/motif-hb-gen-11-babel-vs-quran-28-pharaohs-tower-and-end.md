@@ -1,12 +1,14 @@
 ---
 id: motif-hb-gen-11-babel-vs-quran-28-pharaohs-tower-and-end
 title: The Tower of Babel ↔ Pharaoh, 'no god but me', Haman's tower of fired brick, and the drowning
-summary: 'These two units share 2 motifs: building with baked bricks and bitumen instead of stone and
-  mortar, humans build a tower whose top reaches heaven.'
+summary: 'These two units share 3 motifs: humans build a tower whose top reaches heaven [divergence between
+  the texts], humans build a tower whose top reaches heaven, building with baked bricks and bitumen instead
+  of stone and mortar.'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -14,9 +16,77 @@ traditions:
 layers:
 - motif
 motifs:
-- brick-and-bitumen-building
+- tower-reaching-heaven-as-divergence
 - tower-reaching-heaven
+- brick-and-bitumen-building
 passages:
+- tradition: judaism
+  ref: Gen 11:4
+  note: 'Humans build a tower whose top reaches heaven [divergence between the texts] (A tower toward
+    heaven: Babel''s builders, all humankind (hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim), want
+    to make a name and not be scattered; God comes down to see, and scatters them. In the Quran one king
+    orders it of his minister (fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi Mūsā wa-innī la-aẓunnuhu mina
+    l-kādhibīna): the aim is to climb up and look at Moses'' God, mockingly. The ending is drowning (fa-nabadhnāhum
+    fī l-yamm), not dispersal. God''s descent to inspect the tower (wa-yyēred YHWH lirʾōt) is reversed
+    into Pharaoh''s wish to ascend and inspect God.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמְר֞וּ הָ֣בָה נִבְנֶה לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה לָּ֖נוּ
+    שֵׁ֑ם פֶּן נָפ֖וּץ עַל פְּנֵ֥י כָל הָאָֽרֶץ
+- tradition: judaism
+  ref: Gen 11:5
+  note: 'Humans build a tower whose top reaches heaven [divergence between the texts] (A tower toward
+    heaven: Babel''s builders, all humankind (hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim), want
+    to make a name and not be scattered; God comes down to see, and scatters them. In the Quran one king
+    orders it of his minister (fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi Mūsā wa-innī la-aẓunnuhu mina
+    l-kādhibīna): the aim is to climb up and look at Moses'' God, mockingly. The ending is drowning (fa-nabadhnāhum
+    fī l-yamm), not dispersal. God''s descent to inspect the tower (wa-yyēred YHWH lirʾōt) is reversed
+    into Pharaoh''s wish to ascend and inspect God.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֵּ֣רֶד יְהוָ֔ה לִרְאֹ֥ת אֶת הָעִ֖יר וְאֶת הַמִּגְדָּ֑ל אֲשֶׁ֥ר בָּנ֖וּ בְּנֵ֥י הָאָדָֽם
+- tradition: islam
+  ref: Quran 28:38
+  note: 'Humans build a tower whose top reaches heaven [divergence between the texts] (A tower toward
+    heaven: Babel''s builders, all humankind (hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim), want
+    to make a name and not be scattered; God comes down to see, and scatters them. In the Quran one king
+    orders it of his minister (fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi Mūsā wa-innī la-aẓunnuhu mina
+    l-kādhibīna): the aim is to climb up and look at Moses'' God, mockingly. The ending is drowning (fa-nabadhnāhum
+    fī l-yamm), not dispersal. God''s descent to inspect the tower (wa-yyēred YHWH lirʾōt) is reversed
+    into Pharaoh''s wish to ascend and inspect God.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
+    لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
+    وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
+- tradition: islam
+  ref: Quran 28:39
+  note: 'Humans build a tower whose top reaches heaven [divergence between the texts] (A tower toward
+    heaven: Babel''s builders, all humankind (hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim), want
+    to make a name and not be scattered; God comes down to see, and scatters them. In the Quran one king
+    orders it of his minister (fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi Mūsā wa-innī la-aẓunnuhu mina
+    l-kādhibīna): the aim is to climb up and look at Moses'' God, mockingly. The ending is drowning (fa-nabadhnāhum
+    fī l-yamm), not dispersal. God''s descent to inspect the tower (wa-yyēred YHWH lirʾōt) is reversed
+    into Pharaoh''s wish to ascend and inspect God.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱسْتَكْبَرَ هُوَ وَجُنُودُهُۥ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَظَنُّوٓا۟ أَنَّهُمْ إِلَيْنَا
+    لَا يُرْجَعُونَ
+- tradition: judaism
+  ref: Gen 11:4
+  note: Humans build a tower whose top reaches heaven
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמְר֞וּ הָ֣בָה נִבְנֶה לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה לָּ֖נוּ
+    שֵׁ֑ם פֶּן נָפ֖וּץ עַל פְּנֵ֥י כָל הָאָֽרֶץ
+- tradition: islam
+  ref: Quran 28:38
+  note: Humans build a tower whose top reaches heaven
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
+    لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
+    وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
 - tradition: judaism
   ref: Gen 11:3
   note: Building with baked bricks and bitumen instead of stone and mortar
@@ -33,36 +103,36 @@ passages:
   text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
     لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
     وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
-- tradition: judaism
-  ref: Gen 11:4
-  note: Humans build a tower whose top reaches heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֞וּ הָ֣בָה נִבְנֶה לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה לָּ֖נוּ
-    שֵׁ֑ם פֶּן נָפ֖וּץ עַל פְּנֵ֥י כָל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 28:38
-  note: Humans build a tower whose top reaches heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
-    لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
-    وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Building with baked bricks and bitumen instead of stone and mortar
-    (weight 6.3); Humans build a tower whose top reaches heaven (weight 6.3). Pair score 12.6.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    divergence, parallel. fa-awqid lī yā Hāmānu ʿalā ṭ-ṭīni ~ nilbənâ ləvēnîm wə-niśrəpâ li-śrēfâ: building
+    material made by firing clay (awqid ʿalā ṭ-ṭīn / śārap li-śrēfâ). A tower toward heaven: Babel''s
+    builders, all humankind (hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim), want to make a name
+    and not be scattered; God comes down to see, and scatters them. In the Quran one king orders it of
+    his minister (fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi Mūsā wa-innī la-aẓunnuhu mina l-kādhibīna):
+    the aim is to climb up and look at Moses'' God, mockingly. The ending is drowning (fa-nabadhnāhum
+    fī l-yamm), not dispersal. God''s descent to inspect the tower (wa-yyēred YHWH lirʾōt) is reversed
+    into Pharaoh''s wish to ascend and inspect God.'
   basis: reading
-- text: 'Only in The Tower of Babel: Babel explained from balal, to confuse; God confuses human language;
-    God scatters humanity over the earth; God speaks in the plural (us, our) as if to a divine council;
-    God comes down to see what humans are doing; Builders seek to make a name for themselves and avoid
-    dispersal; All humanity once spoke one language.'
+- text: 'Shared motifs, rarest first: Humans build a tower whose top reaches heaven [divergence between
+    the texts] (weight 6.3); Humans build a tower whose top reaches heaven (weight 6.3); Building with
+    baked bricks and bitumen instead of stone and mortar (weight 6.3). Pair score 18.9.'
   basis: reading
-- text: 'Only in Pharaoh, ''no god but me'', Haman''s tower of fired brick, and the drowning: Prophet''s
-    wonders are imitated by the king''s magicians in a contest; Pharaoh tells his chiefs: ''I know of
-    no god for you other than me''; Pharaoh orders Haman to build him a lofty tower (sarh) to reach the
-    ways of heaven and look at Moses'' God; Pharaoh''s people are made leaders who call to the Fire and
-    are cursed in this world; The returning waters drown the pursuing army; not one survives; God gives
-    stone tablets he himself has written.'
+- text: 'Only in The Tower of Babel: Babel explained from balal, to confuse; God scatters humanity over
+    the earth; God confuses human language; God comes down to see what humans are doing; Builders seek
+    to make a name for themselves and avoid dispersal; All humanity once spoke one language; Why humans
+    speak many languages [divergence between the texts]; Humankind was originally one (in speech or community)
+    and then divided [divergence between the texts]; Mankind once one, then divided [divergence between
+    the texts]; God speaks in the plural (us, our) as if to a divine council.'
+  basis: reading
+- text: 'Only in Pharaoh, ''no god but me'', Haman''s tower of fired brick, and the drowning: Pharaoh''s
+    people are made leaders who call to the Fire and are cursed in this world; The wise counselors of
+    Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son of ancient kings''; Pharaoh
+    tells his chiefs: ''I know of no god for you other than me''; Pharaoh orders Haman to build him a
+    lofty tower (sarh) to reach the ways of heaven and look at Moses'' God; Hāmān appears as Pharaoh''s
+    minister and partner; Pharaoh''s question about, or claim to know, the god of Moses [divergence between
+    the texts]; God gives stone tablets he himself has written; Prophet''s wonders are imitated by the
+    king''s magicians in a contest; The returning waters drown the pursuing army; not one survives.'
   basis: reading
 - text: 'The Tower of Babel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

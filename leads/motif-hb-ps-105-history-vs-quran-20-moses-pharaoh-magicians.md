@@ -1,0 +1,96 @@
+---
+id: motif-hb-ps-105-history-vs-quran-20-moses-pharaoh-magicians
+title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Moses and Aaron
+  before Pharaoh; the contest with the magicians
+summary: 'These two units share 2 motifs: the king''s heart is hardened (by himself or by god) so he refuses
+  to release the people [divergence between the texts], the king''s heart is hardened (by himself or by
+  god) so he refuses to release the people.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- hardening-of-pharaohs-heart-as-divergence
+- hardening-of-pharaohs-heart
+passages:
+- tradition: judaism
+  ref: Ps 105:25
+  note: The king's heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (fa-kadhdhaba wa-ʿaṣā (Pharaoh's own act) ~ hāfak libbām liśnōʾ ʿammô (God turned
+    the Egyptians' heart to hate his people).)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
+- tradition: islam
+  ref: Quran 20:56
+  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
+    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
+    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+- tradition: judaism
+  ref: Ps 105:25
+  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (here
+    God turns the Egyptians' hearts, not Pharaoh's alone)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
+- tradition: islam
+  ref: Quran 20:56
+  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
+    all the signs, he denied and refused)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+evidence:
+- text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
+    to release the people [divergence between the texts] (weight 5.6); The king''s heart is hardened (by
+    himself or by God) so he refuses to release the people (weight 4.6). Pair score 10.2.'
+  basis: reading
+- text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
+    when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
+    people and deal craftily with them; Joseph''s feet were hurt in fetters and his neck (nefesh) put
+    in iron until his word came true; God sent a man ahead of them: Joseph, sold as a slave; Joseph was
+    to bind the king''s princes at will and teach his elders wisdom; At the exodus not one among the tribes
+    stumbled (or was feeble); God calls the patriarchs his ''anointed ones'' and ''prophets'' and rebukes
+    kings for their sake (''Touch not my anointed''); God opened the rock and waters gushed and ran as
+    a river in the desert; The ancestors were few in number, sojourners wandering from nation to nation;
+    The chain of patriarchs to whom revelation or covenant passed [divergence between the texts]; The
+    number of signs or plagues in Egypt [divergence between the texts]; A palpable darkness covers the
+    land for three days; and 31 more.'
+  basis: reading
+- text: 'Only in Moses and Aaron before Pharaoh; the contest with the magicians: The contest with the
+    magicians is set for a festival day (yawm al-zīna) at forenoon with the people assembled; From the
+    earth humans were created, into it they return, and from it they are brought forth again; Formula:
+    ''Peace be on whoever follows the guidance''; Pharaoh asks about the fate of former generations; the
+    answer: their knowledge is with God in a book; The prophets are told to speak to the tyrant with gentle
+    words, that he may take heed or fear; The defeated magicians fall prostrate and declare faith in the
+    Lord of Moses and Aaron [divergence between the texts]; The magicians'' ropes and staffs appear by
+    sorcery to be moving like snakes; Condemned believers tell the tyrant ''decree what you will; you
+    can only decree for this worldly life''; Pharaoh threatens the converted magicians with cutting off
+    hands and feet on opposite sides and crucifixion (on palm trunks); King defies the prophet: ''Who
+    is YHWH that I should obey him?'' [divergence between the texts]; God made the earth a cradle (mahd)
+    or bed and laid out paths in it; Prophet delivers God''s demand ''Let my people go that they may serve
+    me'' [divergence between the texts]; and 9 more.'
+  basis: reading
+- text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
+    (model), reading the Hebrew.'
+  basis: reading
+- text: 'Moses and Aaron before Pharaoh; the contest with the magicians: tagged by Claude (model), reading
+    the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

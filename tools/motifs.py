@@ -37,6 +37,7 @@ OUT = ROOT / "results" / "motifs"
 MIN_SHARED = 2
 TOP_PER_UNIT = 3
 MAX_PASSAGE_MOTIFS = 10   # passages shown per lead: the rarest shared motifs
+MAX_ONLY = 12             # unshared motifs listed per side in a lead
 MAX_INTERNAL_LEADS = 30   # internal pairs (one text echoing itself) written as lead files, per corpus; the rest stay in the report
 
 
@@ -113,7 +114,7 @@ def load_alignments(vocab, units):
                 mid, relation = x.get("motif"), x.get("relation") or "parallel"
                 if relation in DIVERGING and mid in vocab:
                     # a divergence shares the matter, not the claim: neither verse gets the other side's label
-                    base, mid = mid, f"{mid}--{relation}"
+                    base, mid = mid, f"{mid}-as-{relation}"
                     vocab.setdefault(mid, {"label": f"{vocab[base]['label']} [{relation} between the texts]",
                                            "cluster": vocab[base].get("cluster"), "proposed_in": rel, "diverges_from": base})
                 for u, refs in ((a, x.get("refs") or []), (b, x.get("with_refs") or [])):
@@ -311,7 +312,9 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
         for u, only in ((a, p["only_a"]), (b, p["only_b"])):
             # divergences only mean something when both units are fully tagged from their texts
             if only and a.get("original") and b.get("original"):
-                evidence.append({"text": f"Only in {u['title']}: " + "; ".join(vocab[m]["label"] for m in only) + ".",
+                shown = sorted(only, key=lambda m: -w[m])[:MAX_ONLY]   # rarest first; the full lists are in results/motifs/pairs.json
+                evidence.append({"text": f"Only in {u['title']}: " + "; ".join(vocab[m]["label"] for m in shown)
+                                         + (f"; and {len(only) - len(shown)} more" if len(only) > len(shown) else "") + ".",
                                  "basis": "reading"})
         conf = CONFIRMED.get(frozenset((a["id"], b["id"])))
         if conf:

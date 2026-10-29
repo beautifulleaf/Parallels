@@ -1,0 +1,96 @@
+---
+id: motif-hb-2kgs-19-deliverance-of-jerusalem-vs-quran-8-badr-help
+title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter ↔ Badr - angels,
+  slumber, rain and God's throw
+summary: 'These two units share 1 motifs: god''s angels strike the enemy army [divergence between the
+  texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- angels-strike-the-enemy-as-divergence
+passages:
+- tradition: judaism
+  ref: 2Kgs 19:35
+  note: 'God''s angels strike the enemy army [divergence between the texts] (Angels kill the enemy: fa-ḍribū
+    fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ malʾak YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm
+    waḥămiššāh ʾālep. In Kings one angel acts alone at night while Judah does nothing; in Q a thousand
+    angels strike together with the believers in open battle.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
+    שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
+- tradition: islam
+  ref: Quran 8:12
+  note: 'God''s angels strike the enemy army [divergence between the texts] (Angels kill the enemy: fa-ḍribū
+    fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ malʾak YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm
+    waḥămiššāh ʾālep. In Kings one angel acts alone at night while Judah does nothing; in Q a thousand
+    angels strike together with the believers in open battle.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى
+    فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ
+    بَنَانٍ
+- tradition: islam
+  ref: Quran 8:17
+  note: 'God''s angels strike the enemy army [divergence between the texts] (Angels kill the enemy: fa-ḍribū
+    fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ malʾak YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm
+    waḥămiššāh ʾālep. In Kings one angel acts alone at night while Judah does nothing; in Q a thousand
+    angels strike together with the believers in open battle.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ ٱللَّهَ
+    رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    divergence. Angels kill the enemy: fa-ḍribū fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ
+    malʾak YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm waḥămiššāh ʾālep. In Kings one angel acts alone
+    at night while Judah does nothing; in Q a thousand angels strike together with the believers in open
+    battle.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God''s angels strike the enemy army [divergence between the texts]
+    (weight 6.3). Pair score 6.3.'
+  basis: reading
+- text: 'Only in Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter:
+    The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses; The arrogant
+    king boasts of climbing the heights of Lebanon and cutting its cedars, drying up rivers with his feet;
+    Proverb of crisis: children have come to the birth-stool and there is no strength to deliver; God
+    defends the city for his own sake and for the sake of David his servant [divergence between the texts];
+    When the punishment descends in their courtyard, evil will be the morning of those who were warned;
+    God says the conqueror''s victories were planned by him long ago; the conqueror is only his instrument;
+    The king tears his clothes, puts on sackcloth and goes into the temple in crisis; The enemy is said
+    to reproach (harref) ''the living God''; Royal parricides flee to the land of Ararat; The escaped
+    remnant shall again take root downward and bear fruit upward; a remnant goes out from Zion; God puts
+    a spirit in the invader so that he hears a rumor and returns home; King spreads the enemy''s threatening
+    letter before God in the temple; and 9 more.'
+  basis: reading
+- text: 'Only in Badr - angels, slumber, rain and God''s throw: Rain is sent down before battle to purify
+    the fighters, remove Satan''s filth and make their feet firm; Some believers dispute the call to battle
+    as if driven to death with their eyes open; God covers the fighters with slumber as a security from
+    him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; God
+    reduces the army so that Israel cannot boast its own hand saved it; Fleeing the battle line is forbidden
+    except as a maneuver or to join another unit; Ruling on soldiers who fear battle [contrast between
+    the texts]; ''You did not throw when you threw, but God threw'': the victory is God''s act; The threatened
+    people cry to God before the decisive encounter [divergence between the texts]; Priest addresses the
+    army before battle: do not fear, God fights for you; God cuts off the last remnant (root, dabir) of
+    a people who denied; The victory is credited to God, not to the fighters [divergence between the texts];
+    and 3 more.'
+  basis: reading
+- text: 'Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter: tagged by
+    Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Badr - angels, slumber, rain and God''s throw: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

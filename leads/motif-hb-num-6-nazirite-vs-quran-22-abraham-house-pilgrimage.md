@@ -42,27 +42,28 @@ evidence:
     bread when his term ends (weight 6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in The Nazirite vow: Priest places the boiled shoulder and cakes in the hands of the shaved
-    Nazirite and waves them; Nazirite abstains from wine, vinegar, grapes and everything from the vine
-    down to seeds and skins; Nazirite may not become unclean even for the corpse of father, mother, brother
-    or sister; A man or a woman may take the vow of a Nazirite; Two turtledoves or two young pigeons offered
-    (in place of a lamb if one cannot afford it); Nazirite''s shaved hair is put on the fire under the
-    well-being offering; Sudden death of someone beside a Nazirite voids his vow and he must start again;
-    The consecrated person lets his hair grow uncut as the sign of his vow; After the vow''s completion
-    rite the Nazirite may drink wine.'
+    Nazirite and waves them; Nazirite may not become unclean even for the corpse of father, mother, brother
+    or sister; A man or a woman may take the vow of a Nazirite; Sudden death of someone beside a Nazirite
+    voids his vow and he must start again; After the vow''s completion rite the Nazirite may drink wine;
+    Abstinence from wine, by vow or by general law [divergence between the texts]; One with an ailment
+    of the head pays ransom by fasting, alms or sacrifice; Nazirite abstains from wine, vinegar, grapes
+    and everything from the vine down to seeds and skins; Nazirite''s shaved hair is put on the fire under
+    the well-being offering; When a consecrated person shaves the head [divergence between the texts];
+    The consecrated person lets his hair grow uncut as the sign of his vow; Two turtledoves or two young
+    pigeons offered (in place of a lamb if one cannot afford it).'
   basis: reading
-- text: 'Only in Abraham, the Ancient House and the rites of pilgrimage and sacrifice: God settled Abraham
+- text: 'Only in Abraham, the Ancient House and the rites of pilgrimage and sacrifice: Abraham is told
+    to proclaim the pilgrimage; people come on foot and on lean camels from every deep ravine; Pilgrims
+    finish their grooming, fulfill vows and circle the Ancient House (al-bayt al-ʿatīq); Neither the flesh
+    nor the blood of sacrifices reaches God, only the piety of the offerer; Simile: the polytheist is
+    like one who falls from the sky and is snatched by birds or flung far by the wind; The Sacred Mosque
+    is appointed for all people alike, the resident and the visitor from the desert; Sacrificial camels
+    (budn) are slaughtered standing in ranks; when their sides fall, eat of them; God settled Abraham
     at the site of the House and told him to purify it for those who circle, stand, bow and prostrate;
-    Abraham is told to proclaim the pilgrimage; people come on foot and on lean camels from every deep
-    ravine; Pilgrims finish their grooming, fulfill vows and circle the Ancient House (al-bayt al-ʿatīq);
-    Do not invoke the names of other gods; Eat of the sacrificial animals and feed the wretched poor and
-    the needy; God appointed for every community a rite of sacrifice (mansak); God does not need sacrifices:
-    ''If I were hungry I would not tell you... Do I eat the flesh of bulls or drink the blood of goats?'';
-    A place recognized as the house of God and gate of heaven; Neither the flesh nor the blood of sacrifices
-    reaches God, only the piety of the offerer; Simile: the polytheist is like one who falls from the
-    sky and is snatched by birds or flung far by the wind; The Sacred Mosque is appointed for all people
-    alike, the resident and the visitor from the desert; Sacrificial camels (budn) are slaughtered standing
-    in ranks; when their sides fall, eat of them; Three annual pilgrimage festivals when every male appears
-    before God.'
+    Eat of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
+    a rite of sacrifice (mansak); What is done with the blood of sacrifices, and whether it reaches God
+    [divergence between the texts]; A place recognized as the house of God and gate of heaven; Who chose
+    or founded the single sanctuary of sacrifice, and when [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'The Nazirite vow: tagged by Claude (model), reading the Hebrew.'
   basis: reading

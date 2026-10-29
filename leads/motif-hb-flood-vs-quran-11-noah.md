@@ -106,6 +106,13 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
     مُّغْرَقُونَ
+- tradition: islam
+  ref: Quran 11:38
+  note: Hero builds a vessel on divine instruction ('under our eyes and by our revelation')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن
+    تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
 - tradition: judaism
   ref: Gen 6:13
   note: Hero privately warned of the coming flood by a deity
@@ -120,6 +127,13 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ
     بِمَا كَانُوا۟ يَفْعَلُونَ
+- tradition: islam
+  ref: Quran 11:37
+  note: Hero privately warned of the coming flood by a deity
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
+    مُّغْرَقُونَ
 - tradition: judaism
   ref: Gen 6:18
   note: Hero's family saved with him
@@ -149,29 +163,23 @@ evidence:
     of the coming flood by a deity (weight 5.1); Hero''s family saved with him (weight 4.5). Pair score
     37.3.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Birds released to find dry land; Deity or gods smell the offering;
-    Hero''s life or mission spans 950 years; Hero singled out as righteous or pious; Deity resolves or
-    promises not to repeat the destruction; Destruction motivated by human wickedness or violence; Hero
-    offers sacrifice after leaving the vessel; A sign in the sky commemorates the flood (bow, necklace);
-    All others perish; Exact dimensions of the vessel are specified; Vessel sealed with pitch or bitumen;
-    Waters pour both from the sky and from springs of the earth.'
+- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
+    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero''s life or mission spans
+    950 years; Deity resolves or promises not to repeat the destruction; Destruction motivated by human
+    wickedness or violence; Waters pour both from the sky and from springs of the earth; Deity or gods
+    smell the offering; Hero offers sacrifice after leaving the vessel; Vessel sealed with pitch or bitumen;
+    Hero singled out as righteous or pious; All others perish.'
   basis: reading
 - text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Embark: ''in the name of God be its
-    sailing and its mooring''; Refrain ''away with...'' (bu''dan li-) the destroyed people; The flood
-    waters are hot or boiling; The chiefs (al-mala'') of the prophet''s people accuse him of error or
-    folly and reject him; God commands: ''Earth, swallow your water; sky, withhold!'' and the water subsides;
-    A member of the hero''s family is lost; Hero warns or preaches to his people before the flood; The
-    prophet''s opponents object that only the lowliest follow him; he refuses to drive the believers away;
-    Someone seeks refuge on a mountain and is drowned; Noah reminds God that his son is of his family
-    and God''s promise is true; Deniers dare the prophet: ''Bring us what you threaten, if you are truthful'';
-    People mock the hero while he builds the vessel; The Prophet asks no wage for the message; The prophet
-    disclaims having God''s treasuries, knowing the unseen, or being an angel; God forbids the prophet
-    to pray or intercede for the people, for he will not hear; The elite scorn the prophet because only
-    the lowest of them follow him; Destruction follows the people''s rejection of a messenger; A specific
-    sign marks the moment to board; God answers that the drowned son is not of Noah''s family: ''he is
-    a deed not righteous''; The prophet''s stories are ''tidings of the unseen'' unknown to him and his
-    people before; The ark sails through waves like mountains; Prophet''s refrain to his people: ''Worship
-    God; you have no god other than him''.'
+    sailing and its mooring''; God commands: ''Earth, swallow your water; sky, withhold!'' and the water
+    subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
+    the prophet because only the lowest of them follow him; God answers that the drowned son is not of
+    Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
+    unknown to him and his people before; The ark sails through waves like mountains; What the flood hero
+    does when the vessel comes to rest; What God says of later generations after the flood: no repeat,
+    or punishment to come [contrast between the texts]; How the flood waters are stopped and subside [divergence
+    between the texts]; The prophet''s opponents object that only the lowliest follow him; he refuses
+    to drive the believers away; Someone seeks refuge on a mountain and is drowned; and 22 more.'
   basis: reading
 - text: 'The Flood in Genesis: tagged by Claude (model), reading the Hebrew.'
   basis: reading

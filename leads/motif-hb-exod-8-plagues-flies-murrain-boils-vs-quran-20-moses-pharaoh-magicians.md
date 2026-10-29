@@ -1,0 +1,115 @@
+---
+id: motif-hb-exod-8-plagues-flies-murrain-boils-vs-quran-20-moses-pharaoh-magicians
+title: 'Plagues 4-6: swarms, pestilence of livestock, boils ↔ Moses and Aaron before Pharaoh; the contest
+  with the magicians'
+summary: 'These two units share 2 motifs: the king''s heart is hardened (by himself or by god) so he refuses
+  to release the people [divergence between the texts], the king''s heart is hardened (by himself or by
+  god) so he refuses to release the people.'
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- hardening-of-pharaohs-heart-as-divergence
+- hardening-of-pharaohs-heart
+passages:
+- tradition: judaism
+  ref: Exod 8:28
+  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
+    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
+    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
+    and break their word (yankuthūna). God never hardens them in this unit.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+- tradition: judaism
+  ref: Exod 9:12
+  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
+    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
+    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
+    and break their word (yankuthūna). God never hardens them in this unit.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה אֶל
+    מֹשֶֽׁה
+- tradition: islam
+  ref: Quran 20:56
+  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
+    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
+    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+- tradition: judaism
+  ref: Exod 8:28
+  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (from
+    9:12 YHWH hardens)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+- tradition: judaism
+  ref: Exod 9:7
+  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (from
+    9:12 YHWH hardens)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשְׁלַ֣ח פַּרְעֹ֔ה וְהִנֵּ֗ה לֹא מֵ֛ת מִמִּקְנֵ֥ה יִשְׂרָאֵ֖ל עַד אֶחָ֑ד וַיִּכְבַּד֙ לֵ֣ב
+    פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+- tradition: islam
+  ref: Quran 20:56
+  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
+    all the signs, he denied and refused)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+evidence:
+- text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
+    to release the people [divergence between the texts] (weight 5.6); The king''s heart is hardened (by
+    himself or by God) so he refuses to release the people (weight 4.6). Pair score 10.2.'
+  basis: reading
+- text: 'Only in Plagues 4-6: swarms, pestilence of livestock, boils: Soot from a kiln thrown skyward
+    becomes boils on men and beasts; Pestilence kills the oppressors'' livestock while sparing the oppressed''s;
+    The magicians themselves are struck and cannot stand before the prophet; Israel''s sacrifices would
+    be an abomination to Egyptians who might stone them; God sets a fixed time (''tomorrow'') for a plague;
+    King haggles over who and what may leave (only men, no flocks, not far away); God''s people in Goshen
+    are exempted from a plague that strikes Egypt; Prophet confronts the king at the river in the morning;
+    The prophet seeks refuge in God from being stoned by his people; Who causes Pharaoh''s refusal: God
+    hardening his heart, or Pharaoh and his people themselves [divergence between the texts]; Swarms (arov)
+    of insects or wild beasts fill the houses of Egypt; The king breaks his promise to release the people
+    once a plague is lifted; and 1 more.'
+  basis: reading
+- text: 'Only in Moses and Aaron before Pharaoh; the contest with the magicians: The contest with the
+    magicians is set for a festival day (yawm al-zīna) at forenoon with the people assembled; From the
+    earth humans were created, into it they return, and from it they are brought forth again; Formula:
+    ''Peace be on whoever follows the guidance''; Pharaoh asks about the fate of former generations; the
+    answer: their knowledge is with God in a book; The prophets are told to speak to the tyrant with gentle
+    words, that he may take heed or fear; The defeated magicians fall prostrate and declare faith in the
+    Lord of Moses and Aaron [divergence between the texts]; The magicians'' ropes and staffs appear by
+    sorcery to be moving like snakes; Condemned believers tell the tyrant ''decree what you will; you
+    can only decree for this worldly life''; Pharaoh threatens the converted magicians with cutting off
+    hands and feet on opposite sides and crucifixion (on palm trunks); King defies the prophet: ''Who
+    is YHWH that I should obey him?'' [divergence between the texts]; God made the earth a cradle (mahd)
+    or bed and laid out paths in it; Prophet delivers God''s demand ''Let my people go that they may serve
+    me'' [divergence between the texts]; and 9 more.'
+  basis: reading
+- text: 'Plagues 4-6: swarms, pestilence of livestock, boils: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Moses and Aaron before Pharaoh; the contest with the magicians: tagged by Claude (model), reading
+    the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

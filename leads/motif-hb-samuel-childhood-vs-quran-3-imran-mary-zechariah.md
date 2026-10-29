@@ -65,19 +65,16 @@ evidence:
     raised in the sanctuary or temple (weight 5.4). Pair score 11.2.'
   basis: reading
 - text: 'Only in The family of Imran, Mary and Zechariah: Angels call to Zechariah while he stands praying
-    in the sanctuary, announcing John (Yahya); The patriarch''s wife is barren; A barren wife is told
-    by a divine messenger that she will bear a son; God chose Adam, Noah, the family of Abraham and the
-    family of Imran over the worlds; Mother names her child with a speech explaining the name; John (Yahya)
-    foretold as noble, chaste (hasur) and a prophet, confirming a word from God; Lots, rods or reeds decide
-    who will be the child''s guardian; Angels tell Mary that God chose and purified her above the women
-    of the worlds; Child miraculously fed in the sanctuary; Mother names her daughter Mary and commits
-    her and her offspring to God''s protection from the accursed Satan; Mother who vowed her unborn child
-    finds she has borne a girl: ''the male is not like the female''; Patriarch or matriarch laughs at
-    the promise of a child in old age; God makes the prophet''s tongue cleave to his palate so he is mute
-    except when God speaks; God provides for whom he wills without reckoning (bi-ghayri hisab); The called
-    one asks for a sign that it is God who speaks; Sign given to the doubting father: he will not speak
-    to people for three days except by gestures; Zechariah is made Mary''s guardian; Seeing Mary''s provision,
-    Zechariah prays for good offspring.'
+    in the sanctuary, announcing John (Yahya); John (Yahya) foretold as noble, chaste (hasur) and a prophet,
+    confirming a word from God; Angels tell Mary that God chose and purified her above the women of the
+    worlds; Mother names her daughter Mary and commits her and her offspring to God''s protection from
+    the accursed Satan; Mother who vowed her unborn child finds she has borne a girl: ''the male is not
+    like the female''; Sign given to the doubting father: he will not speak to people for three days except
+    by gestures; Zechariah is made Mary''s guardian; Prophet promises a childless woman with an old husband
+    a son ''at this season next year''; God chose Adam, Noah, the family of Abraham and the family of
+    Imran over the worlds; Doubt voiced at the promise of a son in old age [divergence between the texts];
+    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; Mother vows her (unborn)
+    child to God''s service [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'Hannah''s vow and Samuel at Shiloh: tagged by Claude (model), reading the Hebrew.'
   basis: reading

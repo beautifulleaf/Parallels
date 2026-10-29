@@ -2,12 +2,11 @@
 id: motif-hb-lev-15-genital-discharges-vs-quran-4-prayer-intoxication-purity
 title: Impurity of bodily discharges, semen and menstruation ↔ Prayer not while drunk; bathing and dry
   ablution
-summary: 'These two units share 1 motifs: emission of semen makes a man (and his partner) unclean until
-  evening.'
+summary: 'These two units share 2 motifs: purification after seminal emission or intercourse [divergence
+  between the texts], emission of semen makes a man (and his partner) unclean until evening.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,8 +14,51 @@ traditions:
 layers:
 - motif
 motifs:
+- purification-after-intercourse-as-divergence
 - seminal-emission-impurity-until-evening
 passages:
+- tradition: judaism
+  ref: Lev 15:16
+  note: 'Purification after seminal emission or intercourse [divergence between the texts] (Lev 15:16,
+    18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô wĕ-ṭāmēʾ ʿad hā-ʿāreb ...
+    wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission or intercourse requires
+    bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī sabīlin ḥattā taghtasilū
+    ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban: one in major impurity,
+    or who has ''touched women'', bathes before prayer; with no water, wipes with clean earth. The bath
+    is kept; the wait until evening is dropped, and a substitute is allowed when there is no water.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת זָ֑רַע וְרָחַ֥ץ בַּמַּ֛יִם אֶת כָּל בְּשָׂר֖וֹ וְטָמֵ֥א
+    עַד הָעָֽרֶב
+- tradition: judaism
+  ref: Lev 15:18
+  note: 'Purification after seminal emission or intercourse [divergence between the texts] (Lev 15:16,
+    18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô wĕ-ṭāmēʾ ʿad hā-ʿāreb ...
+    wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission or intercourse requires
+    bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī sabīlin ḥattā taghtasilū
+    ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban: one in major impurity,
+    or who has ''touched women'', bathes before prayer; with no water, wipes with clean earth. The bath
+    is kept; the wait until evening is dropped, and a substitute is allowed when there is no water.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖הּ שִׁכְבַת זָ֑רַע וְרָחֲצ֣וּ בַמַּ֔יִם וְטָמְא֖וּ עַד
+    הָעָֽרֶב
+- tradition: islam
+  ref: Quran 4:43
+  note: 'Purification after seminal emission or intercourse [divergence between the texts] (Lev 15:16,
+    18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô wĕ-ṭāmēʾ ʿad hā-ʿāreb ...
+    wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission or intercourse requires
+    bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī sabīlin ḥattā taghtasilū
+    ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban: one in major impurity,
+    or who has ''touched women'', bathes before prayer; with no water, wipes with clean earth. The bath
+    is kept; the wait until evening is dropped, and a substitute is allowed when there is no water.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟
+    مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ
+    أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ
+    تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ
+    كَانَ عَفُوًّا غَفُورًا
 - tradition: judaism
   ref: Lev 15:16
   note: Emission of semen makes a man (and his partner) unclean until evening (Intercourse renders both
@@ -45,23 +87,34 @@ passages:
     تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ
     كَانَ عَفُوًّا غَفُورًا
 evidence:
-- text: 'Shared motifs, rarest first: Emission of semen makes a man (and his partner) unclean until evening
-    (weight 6.7). Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    divergence. Lev 15:16, 18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô
+    wĕ-ṭāmēʾ ʿad hā-ʿāreb ... wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission
+    or intercourse requires bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī
+    sabīlin ḥattā taghtasilū ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban:
+    one in major impurity, or who has ''touched women'', bathes before prayer; with no water, wipes with
+    clean earth. The bath is kept; the wait until evening is dropped, and a substitute is allowed when
+    there is no water.'
   basis: reading
-- text: 'Only in Impurity of bodily discharges, semen and menstruation: Defiled earthenware vessel must
-    be broken; wooden vessels are rinsed; Human impurity defiles God''s dwelling in their midst and endangers
-    them; Impurity passes to the bed, seat or saddle of the unclean person and to whoever touches them;
-    A man with a genital discharge is unclean; Menstruating woman is unclean seven days and defiles what
-    she lies or sits on; Two turtledoves or two young pigeons offered (in place of a lamb if one cannot
-    afford it); Person with a discharge who has rinsed his hands does not transmit impurity by touch;
-    After a discharge ends, seven clean days are counted and the person bathes in living water; Spittle
-    of an unclean person defiles the person it falls on; Woman with bleeding beyond her menstrual period
-    is unclean all the days of the flow.'
+- text: 'Shared motifs, rarest first: Purification after seminal emission or intercourse [divergence between
+    the texts] (weight 6.7); Emission of semen makes a man (and his partner) unclean until evening (weight
+    6.7). Pair score 13.4.'
   basis: reading
-- text: 'Only in Prayer not while drunk; bathing and dry ablution: Without water, purify with clean earth
-    (tayammum), wiping face and hands; One in major impurity (junub) must bathe before prayer, except
-    a traveller passing through; Do not approach prayer while intoxicated, until you know what you say;
-    Priests may not drink wine or strong drink when entering the tent.'
+- text: 'Only in Impurity of bodily discharges, semen and menstruation: Human impurity defiles God''s
+    dwelling in their midst and endangers them; Impurity passes to the bed, seat or saddle of the unclean
+    person and to whoever touches them; A man with a genital discharge is unclean; Menstruating woman
+    is unclean seven days and defiles what she lies or sits on; Person with a discharge who has rinsed
+    his hands does not transmit impurity by touch; After a discharge ends, seven clean days are counted
+    and the person bathes in living water; Spittle of an unclean person defiles the person it falls on;
+    Woman with bleeding beyond her menstrual period is unclean all the days of the flow; Bathing in water
+    after sexual emission or intercourse; Defiled earthenware vessel must be broken; wooden vessels are
+    rinsed; Two turtledoves or two young pigeons offered (in place of a lamb if one cannot afford it).'
+  basis: reading
+- text: 'Only in Prayer not while drunk; bathing and dry ablution: Do not approach prayer while intoxicated,
+    until you know what you say; One in major impurity (junub) must bathe before prayer, except a traveller
+    passing through; No wine before approaching God [divergence between the texts]; Without water, purify
+    with clean earth (tayammum), wiping face and hands; Priests may not drink wine or strong drink when
+    entering the tent.'
   basis: reading
 - text: 'Impurity of bodily discharges, semen and menstruation: tagged by Claude (model), reading the
     Hebrew.'

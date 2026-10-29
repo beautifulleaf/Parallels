@@ -1,8 +1,8 @@
 ---
 id: motif-sux-eridu-genesis-vs-hb-gen-6-flood
 title: Ziusudra (Eridu Genesis) ↔ The Flood (full read)
-summary: 'These two units share 5 motifs: hero singled out as righteous or pious, hero offers sacrifice
-  after leaving the vessel, deity decides to destroy humankind, hero privately warned of the coming flood
+summary: 'These two units share 5 motifs: hero offers sacrifice after leaving the vessel, deity decides
+  to destroy humankind, hero singled out as righteous or pious, hero privately warned of the coming flood
   by a deity….'
 status: new
 relations:
@@ -15,28 +15,12 @@ traditions:
 layers:
 - motif
 motifs:
-- hero-righteous
 - sacrifice-after-flood
 - divine-decision-to-destroy
+- hero-righteous
 - hero-warned-by-deity
 - universal-destruction
 passages:
-- tradition: ane-sumerian
-  ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
-  note: Hero singled out as righteous or pious (pious king)
-- tradition: judaism
-  ref: Gen 6:8
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Gen 6:9
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
-    הִֽתְהַלֶּךְ נֹֽחַ
 - tradition: ane-sumerian
   ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
   note: Hero offers sacrifice after leaving the vessel
@@ -66,6 +50,22 @@ passages:
     מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
 - tradition: ane-sumerian
   ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
+  note: Hero singled out as righteous or pious (pious king)
+- tradition: judaism
+  ref: Gen 6:8
+  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
+- tradition: judaism
+  ref: Gen 6:9
+  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
+    הִֽתְהַלֶּךְ נֹֽחַ
+- tradition: ane-sumerian
+  ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
   note: Hero privately warned of the coming flood by a deity (Enki)
 - tradition: judaism
   ref: Gen 6:13
@@ -74,6 +74,13 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
     מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+- tradition: judaism
+  ref: Gen 6:17
+  note: Hero privately warned of the coming flood by a deity
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+    בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
 - tradition: ane-sumerian
   ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
   note: All others perish
@@ -91,10 +98,10 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
 evidence:
-- text: 'Shared motifs, rarest first: Hero singled out as righteous or pious (weight 5.6); Hero offers
-    sacrifice after leaving the vessel (weight 5.4); Deity decides to destroy humankind (weight 5.3);
-    Hero privately warned of the coming flood by a deity (weight 5.1); All others perish (weight 5.0).
-    Pair score 26.4.'
+- text: 'Shared motifs, rarest first: Hero offers sacrifice after leaving the vessel (weight 5.4); Deity
+    decides to destroy humankind (weight 5.3); Hero singled out as righteous or pious (weight 5.3); Hero
+    privately warned of the coming flood by a deity (weight 5.1); All others perish (weight 5.0). Pair
+    score 26.1.'
   basis: reading
 - text: 'Ziusudra (Eridu Genesis): tagged by Claude (model), from secondary knowledge.'
   basis: scholarship

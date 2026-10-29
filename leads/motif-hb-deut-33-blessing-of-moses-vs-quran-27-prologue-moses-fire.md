@@ -35,24 +35,24 @@ evidence:
   basis: reading
 - text: 'Only in The Blessing of Moses on the tribes: Dying patriarch or leader blesses each tribe in
     turn; Underneath are the everlasting arms; A fiery law (esh dat) from God''s right hand; Asher dips
-    his foot in oil; sandals of iron and bronze; God shines forth from Sinai, Seir and Mount Paran with
-    holy myriads; God dwells between Benjamin''s shoulders; Happy are you, Israel, who is like you, a
-    people saved by YHWH; Ban (herem): total destruction of a conquered population; Zebulun and Issachar
-    suck the abundance of the seas and treasures hidden in the sand; Levi says to father and mother ''I
-    do not see you'' and disregards his brothers and children for God''s covenant; God rides through the
-    heavens (rokhev shamayim) to help; A tribe likened to a lion or lion''s whelp; Urim and Thummim placed
-    in the breastpiece for divine decision; God''s strength for the people like the horns of the wild
-    ox (re''em).'
+    his foot in oil; sandals of iron and bronze; God dwells between Benjamin''s shoulders; Happy are you,
+    Israel, who is like you, a people saved by YHWH; Zebulun and Issachar suck the abundance of the seas
+    and treasures hidden in the sand; A tribe likened to a lion or lion''s whelp; Levi says to father
+    and mother ''I do not see you'' and disregards his brothers and children for God''s covenant; Believers
+    do not love those who oppose God, even fathers, sons, brothers or clan; God writes faith on their
+    hearts and supports them with a spirit; God rides through the heavens (rokhev shamayim) to help; Urim
+    and Thummim placed in the breastpiece for divine decision; and 3 more.'
   basis: reading
 - text: 'Only in Ta Sin; Moses at the fire, the jann-staff and the nine signs: At the fire the voice proclaims
-    ''Blessed is he who is in the fire and those around it''; God appears in a bush that burns without
-    being consumed; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g.
-    alif-lam-mim; God addresses the hero with ''Fear not'' in a vision; Prophet''s hand turns leprous,
-    white as snow, and is restored as a sign; The king''s heart is hardened (by himself or by God) so
-    he refuses to release the people; Moses was given nine clear signs; Traveling with his family, the
-    prophet sees a fire and goes to bring back a brand or find guidance there; A staff thrown down becomes
-    a serpent and turns back into a staff; The thrown staff quivers like a jānn (small snake) and Moses
-    turns and flees without looking back.'
+    ''Blessed is he who is in the fire and those around it''; How God names himself to Moses from the
+    fire [divergence between the texts]; Moses was given nine clear signs; The number of signs or plagues
+    in Egypt [divergence between the texts]; The thrown staff quivers like a jānn (small snake) and Moses
+    turns and flees without looking back; Why Moses approaches the fire [divergence between the texts];
+    Moses flees from his staff turned serpent, and God''s response [divergence between the texts]; Traveling
+    with his family, the prophet sees a fire and goes to bring back a brand or find guidance there; God
+    appears in a bush that burns without being consumed; Why Pharaoh and Egypt refuse despite the signs
+    [divergence between the texts]; Moses'' hand turned white as a sign [divergence between the texts];
+    A poetic list of the Egyptian plagues differs in number and order from Exodus; and 6 more.'
   basis: reading
 - text: 'The Blessing of Moses on the tribes: tagged by Claude (model), reading the Hebrew.'
   basis: reading

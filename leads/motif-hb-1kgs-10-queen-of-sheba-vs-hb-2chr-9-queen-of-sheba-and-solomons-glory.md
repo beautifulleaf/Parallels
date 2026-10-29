@@ -2,7 +2,7 @@
 id: motif-hb-1kgs-10-queen-of-sheba-vs-hb-2chr-9-queen-of-sheba-and-solomons-glory
 title: The Queen of Sheba visits Solomon ↔ The Queen of Sheba tests Solomon; his gold, ivory throne, ships
   and death
-summary: 'These two units share 5 motifs: a royal visitor arrives with camels carrying spices, gold and
+summary: 'These two units share 6 motifs: a royal visitor arrives with camels carrying spices, gold and
   precious stones, rare almug wood from ophir used for temple supports and lyres for singers; never seen
   again, a visitor seeing the king''s court is left breathless (''no more spirit in her''), a foreign
   queen tests the king with riddles and he answers them all….'
@@ -19,6 +19,7 @@ motifs:
 - almug-wood-for-lyres
 - breathless-at-royal-splendor
 - queen-tests-king-with-riddles
+- queen-of-shebas-confession-as-divergence
 - nations-come-to-hear-wisdom
 passages:
 - tradition: judaism
@@ -116,6 +117,28 @@ passages:
   text: וַיַּגֶּד לָ֥הּ שְׁלֹמֹ֖ה אֶת כָּל דְּבָרֶ֑יהָ וְלֹֽא נֶעְלַ֤ם דָּבָר֙ מִשְּׁלֹמֹ֔ה אֲשֶׁ֧ר לֹ֦א
     הִגִּ֖יד לָֽהּ
 - tradition: judaism
+  ref: 1Kgs 10:9
+  note: 'What the queen of Sheba says of Solomon''s God [divergence between the texts] (As in 2Chr 9:8:
+    the Kings queen blesses ''YHWH your God'' for loving Israel and setting Solomon on the throne of Israel;
+    the Quran''s queen submits with Solomon to the Lord of the worlds. A foreigner''s praise of Israel''s
+    God becomes a conversion to the universal Lord.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: יְהִ֨י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ בָּר֔וּךְ אֲשֶׁר֙ חָפֵ֣ץ בְּךָ֔ לְתִתְּךָ֖ עַל כִּסֵּ֣א יִשְׂרָאֵ֑ל
+    בְּאַהֲבַ֨ת יְהוָ֤ה אֶת יִשְׂרָאֵל֙ לְעֹלָ֔ם וַיְשִֽׂימְךָ֣ לְמֶ֔לֶךְ לַעֲשׂ֥וֹת מִשְׁפָּ֖ט וּצְדָקָֽה
+- tradition: judaism
+  ref: 2Chr 9:8
+  note: 'What the queen of Sheba says of Solomon''s God [divergence between the texts] (The queen''s last
+    word: Chronicles has a blessing of Solomon''s God, yəhî YHWH ʾĕlōhêkā bārûkh ʾăšer ḥāfēṣ bəkhā lə-tittəkhā
+    ʿal kisʾô, ''your God'', praised for Israel''s king. The Quran has a conversion: rabbi innī ẓalamtu
+    nafsī wa-aslamtu maʿa Sulaymāna lillāhi rabbi l-ʿālamīn, after the hoopoe reported that she and her
+    people worshipped the sun (27:24). Chronicles never calls her an idolater.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: יְהִ֨י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ בָּר֔וּךְ אֲשֶׁ֣ר חָפֵ֣ץ בְּךָ֗ לְתִתְּךָ֤ עַל כִּסְאוֹ֙ לְמֶ֔לֶךְ
+    לַיהוָ֖ה אֱלֹהֶ֑יךָ בְּאַהֲבַ֨ת אֱלֹהֶ֤יךָ אֶת יִשְׂרָאֵל֙ לְהַעֲמִיד֣וֹ לְעוֹלָ֔ם וַיִּתֶּנְךָ֤ עֲלֵיהֶם֙
+    לְמֶ֔לֶךְ לַעֲשׂ֖וֹת מִשְׁפָּ֥ט וּצְדָקָֽה
+- tradition: judaism
   ref: 1Kgs 10:1
   note: Kings of all the earth send to hear the wise king's wisdom
   lang: he
@@ -147,24 +170,23 @@ evidence:
     stones (weight 6.7); Rare almug wood from Ophir used for temple supports and lyres for singers; never
     seen again (weight 6.7); A visitor seeing the king''s court is left breathless (''no more spirit in
     her'') (weight 6.7); A foreign queen tests the king with riddles and he answers them all (weight 6.3);
-    Kings of all the earth send to hear the wise king''s wisdom (weight 6.0). Pair score 32.4.'
+    What the queen of Sheba says of Solomon''s God [divergence between the texts] (weight 6.3); Kings
+    of all the earth send to hear the wise king''s wisdom (weight 6.0). Pair score 38.6.'
   basis: reading
-- text: 'Only in The Queen of Sheba visits Solomon: A foreigner declares that YHWH is greater than all
-    gods; Visitor confesses that reports did not tell even half of the king''s wisdom and wealth; Fleets
+- text: 'Only in The Queen of Sheba visits Solomon: Visitor confesses that reports did not tell even half
+    of the king''s wisdom and wealth; A foreigner declares that YHWH is greater than all gods; Fleets
     with Phoenician sailors sail from the Red Sea to Ophir and bring back gold.'
   basis: reading
-- text: 'Only in The Queen of Sheba tests Solomon; his gold, ivory throne, ships and death: Promised land
-    stretches from the river of Egypt to the Euphrates; Chronicles differs in a specific detail from its
-    parallel in Samuel–Kings; A foreign ruler blesses Israel''s God for setting the king on his throne;
-    Shields of beaten gold made or captured and displayed; Great ivory throne overlaid with gold, with
-    six steps and twelve lions on the steps and two beside the arms; King must not multiply horses, wives
-    or silver and gold, nor return the people to Egypt; The king exceeds all the kings of the earth in
-    riches and wisdom; All the kings of Arabia and governors bring gold and silver; An annual income of
-    666 talents of gold; The words or visions of named prophets and seers are cited as sources for a reign;
-    The queen of Sheba visits Solomon; The king reigns forty years; A visitor says she did not believe
-    the report until she saw: not half was told her; The king makes silver and gold as common as stones
-    and cedar as sycamores; Tarshish ships every three years bring gold, silver, ivory, apes and peacocks
-    (or baboons).'
+- text: 'Only in The Queen of Sheba tests Solomon; his gold, ivory throne, ships and death: A foreign
+    ruler blesses Israel''s God for setting the king on his throne; The king exceeds all the kings of
+    the earth in riches and wisdom; All the kings of Arabia and governors bring gold and silver; An annual
+    income of 666 talents of gold; A visitor says she did not believe the report until she saw: not half
+    was told her; Promised land stretches from the river of Egypt to the Euphrates; The great throne in
+    the Sheba story, and whose it is [divergence between the texts]; Great ivory throne overlaid with
+    gold, with six steps and twelve lions on the steps and two beside the arms; The queen of Sheba visits
+    Solomon; The queen of Sheba''s gifts and Solomon''s response [divergence between the texts]; The queen
+    of Sheba overwhelmed by Solomon''s buildings [divergence between the texts]; Tarshish ships every
+    three years bring gold, silver, ivory, apes and peacocks (or baboons); and 7 more.'
   basis: reading
 - text: 'The Queen of Sheba visits Solomon: tagged by Claude (model), reading the Hebrew.'
   basis: reading

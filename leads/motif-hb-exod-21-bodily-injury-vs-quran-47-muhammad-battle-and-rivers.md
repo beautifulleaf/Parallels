@@ -33,6 +33,9 @@ passages:
     وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ وَٱلَّذِينَ
     قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَٰلَهُمْ
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: A negligent owner may pay a ransom for his life (weight 6.7). Pair
     score 6.7.'
   basis: reading

@@ -62,30 +62,26 @@ evidence:
 - text: 'Shared motifs, rarest first: Hero privately warned of the coming flood by a deity (weight 5.1);
     All others perish (weight 5.0). Pair score 10.1.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Animals taken aboard in pairs; Birds released to find dry land;
-    Hero blessed on leaving the vessel; Hero builds a vessel on divine instruction; Deity or gods smell
-    the offering; Deity decides to destroy humankind; Hero''s family saved with him; Hero''s life or mission
-    spans 950 years; Hero singled out as righteous or pious; Deity resolves or promises not to repeat
-    the destruction; Destruction motivated by human wickedness or violence; Hero offers sacrifice after
-    leaving the vessel; A sign in the sky commemorates the flood (bow, necklace); Exact dimensions of
-    the vessel are specified; Vessel comes to rest on a named mountain; Vessel sealed with pitch or bitumen;
-    Waters pour both from the sky and from springs of the earth.'
+- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
+    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero blessed on leaving the
+    vessel; Hero''s life or mission spans 950 years; Deity resolves or promises not to repeat the destruction;
+    Destruction motivated by human wickedness or violence; Waters pour both from the sky and from springs
+    of the earth; Animals taken aboard in pairs; Deity or gods smell the offering; Hero offers sacrifice
+    after leaving the vessel; Vessel comes to rest on a named mountain; and 5 more.'
   basis: reading
 - text: 'Only in Noah''s preaching, the five idols and the flood: Because of their sins they were drowned
-    and then made to enter a fire; Human comes from dust and returns to dust; God spread out the earth
-    as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha); Human created in stages: a drop
-    of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped and proportioned; The people put their
-    fingers in their ears and wrap their garments over their heads to avoid hearing the prophet; Noah''s
-    people refuse to abandon their gods Wadd, Suwa'', Yaghuth, Ya''uq and Nasr; The flood hero prays for
-    forgiveness for himself, his parents, whoever enters his house believing, and all believers; God made
-    the great lights: the sun to rule the day, the moon and stars to rule the night; Hero asks the deity
-    to judge or destroy his opponents; Hero warns or preaches to his people before the flood; First human
-    shaped from dust, clay or soil; God caused humans to grow from the earth like a plant, returns them
-    to it and will bring them out again; Prophet summons his people night and day, openly and in secret,
-    yet they only flee further; Destruction follows the people''s rejection of a messenger; Seek forgiveness
-    and repent, and God will send the sky down on you in abundant rain; God created seven heavens in layers
-    (sab'' samawat tibaqan) or built seven strong (heavens) above humans; The sun is made a lamp (siraj),
-    a blazing lamp, and the moon a light (nur) within the heavens.'
+    and then made to enter a fire; The people put their fingers in their ears and wrap their garments
+    over their heads to avoid hearing the prophet; Noah''s people refuse to abandon their gods Wadd, Suwa'',
+    Yaghuth, Ya''uq and Nasr; The flood hero prays for forgiveness for himself, his parents, whoever enters
+    his house believing, and all believers; God caused humans to grow from the earth like a plant, returns
+    them to it and will bring them out again; Prophet summons his people night and day, openly and in
+    secret, yet they only flee further; Human comes from dust and returns to dust [divergence between
+    the texts]; Deity resolves or promises not to repeat the destruction [divergence between the texts];
+    Destruction motivated by human wickedness or violence [divergence between the texts]; Seek forgiveness
+    and repent, and God will send the sky down on you in abundant rain [divergence between the texts];
+    God created seven heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens) above
+    humans; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur) within the heavens;
+    and 12 more.'
   basis: reading
 - text: 'The Flood in Genesis: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,8 +19,8 @@ motifs:
 - cupbearer-recalls-hero
 - king-dream-cows-and-ears
 - hero-appointed-over-storehouses
-- court-experts-fail
 - interpretation-from-god
+- court-experts-fail
 passages:
 - tradition: judaism
   ref: Gen 41:33
@@ -119,26 +119,6 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ إِنِّى حَفِيظٌ عَلِيمٌ
 - tradition: judaism
-  ref: Gen 41:8
-  note: The king's experts cannot interpret the dream (hartummim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֤י בַבֹּ֨קֶר֙ וַתִּפָּ֣עֶם רוּח֔וֹ וַיִּשְׁלַ֗ח וַיִּקְרָ֛א אֶת כָּל חַרְטֻמֵּ֥י מִצְרַ֖יִם
-    וְאֶת כָּל חֲכָמֶ֑יהָ וַיְסַפֵּ֨ר פַּרְעֹ֤ה לָהֶם֙ אֶת חֲלֹמ֔וֹ וְאֵין פּוֹתֵ֥ר אוֹתָ֖ם לְפַרְעֹֽה
-- tradition: judaism
-  ref: Gen 41:24
-  note: The king's experts cannot interpret the dream (hartummim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּבְלַ֨עְןָ֙ הָשִׁבֳּלִ֣ים הַדַּקֹּ֔ת אֵ֛ת שֶׁ֥בַע הַֽשִׁבֳּלִ֖ים הַטֹּב֑וֹת וָֽאֹמַר֙ אֶל
-    הַֽחַרְטֻמִּ֔ים וְאֵ֥ין מַגִּ֖יד לִֽי
-- tradition: islam
-  ref: Quran 12:44
-  note: The king's experts cannot interpret the dream
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
-- tradition: judaism
   ref: Gen 41:16
   note: Hero attributes his dream interpretation to God ('not I; God will answer')
   lang: he
@@ -167,53 +147,51 @@ passages:
   text: قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن
     يَأْتِيَكُمَا ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ
     بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ
+- tradition: judaism
+  ref: Gen 41:8
+  note: The king's experts cannot interpret the dream (hartummim)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְהִ֤י בַבֹּ֨קֶר֙ וַתִּפָּ֣עֶם רוּח֔וֹ וַיִּשְׁלַ֗ח וַיִּקְרָ֛א אֶת כָּל חַרְטֻמֵּ֥י מִצְרַ֖יִם
+    וְאֶת כָּל חֲכָמֶ֑יהָ וַיְסַפֵּ֨ר פַּרְעֹ֤ה לָהֶם֙ אֶת חֲלֹמ֔וֹ וְאֵין פּוֹתֵ֥ר אוֹתָ֖ם לְפַרְעֹֽה
+- tradition: judaism
+  ref: Gen 41:24
+  note: The king's experts cannot interpret the dream (hartummim)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתִּבְלַ֨עְןָ֙ הָשִׁבֳּלִ֣ים הַדַּקֹּ֔ת אֵ֛ת שֶׁ֥בַע הַֽשִׁבֳּלִ֖ים הַטֹּב֑וֹת וָֽאֹמַר֙ אֶל
+    הַֽחַרְטֻמִּ֔ים וְאֵ֥ין מַגִּ֖יד לִֽי
+- tradition: islam
+  ref: Quran 12:44
+  note: The king's experts cannot interpret the dream
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
 evidence:
 - text: 'Shared motifs, rarest first: Plan to store grain in the good years for the famine years (weight
     6.0); The freed prisoner remembers the hero and recommends him (weight 6.0); King dreams of seven
     fat cows eaten by seven lean, and seven green ears and seven dry (weight 6.0); Hero placed over the
-    land''s storehouses or the kingdom (weight 5.6); The king''s experts cannot interpret the dream (weight
-    5.4); Hero attributes his dream interpretation to God (weight 5.4). Pair score 34.5.'
+    land''s storehouses or the kingdom (weight 5.6); Hero attributes his dream interpretation to God (weight
+    5.4); The king''s experts cannot interpret the dream (weight 5.3). Pair score 34.3.'
   basis: reading
 - text: 'Only in Pharaoh''s dreams and Joseph''s elevation: A dream given twice means God has firmly decided
     and will act soon; Grain stored like the sand of the sea, beyond counting; Hero is thirty when he
-    enters royal service; Hero given an Egyptian priest''s daughter as wife; King invests the hero with
-    ring, linen and chariot; In a dream the lean devour the fat but remain as lean as before; King gives
-    the foreign hero a new native name; Seven years of plenty followed by seven years of famine; Prisoner
-    shaved and dressed in new clothes before appearing before the king; Hero names his sons for forgetting
-    his hardship and being fruitful in affliction; A foreign king recognizes ''a man in whom is the spirit
-    of God''; All lands come to Egypt to buy grain from the hero.'
+    enters royal service; In a dream the lean devour the fat but remain as lean as before; Prisoner shaved
+    and dressed in new clothes before appearing before the king; Hero names his sons for forgetting his
+    hardship and being fruitful in affliction; A foreign king recognizes ''a man in whom is the spirit
+    of God''; All lands come to Egypt to buy grain from the hero; The king''s experts cannot interpret
+    the dream [divergence between the texts]; The freed prisoner remembers the hero and recommends him
+    [divergence between the texts]; Plan to store grain in the good years for the famine years [divergence
+    between the texts]; Hero placed over the land''s storehouses or the kingdom [divergence between the
+    texts]; and 5 more.'
   basis: reading
-- text: 'Only in Joseph in the Quran (Surah 12): Foster parent says: perhaps he will benefit us, or we
-    will take him as a son; Seduction attempt when the two are alone in the house; Birds eat bread from
-    on top of the dreamer''s head; Brothers bring the hero''s garment with false blood; Hero bought by
-    an Egyptian official; Brothers come for grain and do not recognize the hero; Brothers persuade the
-    reluctant father to send the hero with them; Brothers, out of envy, plot to kill the hero; Brothers
-    come to their father at night, weeping; Hero cast into a pit or well; Hero demands they bring their
-    youngest brother; God''s favor rests on the hero while he is a slave or prisoner; God reassures the
-    hero in the pit; Dream of sun, moon and eleven stars bowing to the hero; Hero reveals himself to the
-    youngest brother first; The woman falsely accuses the hero of assault; The whole family moves to Egypt;
-    The father''s eyesight fails; Father loves the hero more than his brothers; Father refuses at first
-    to send the youngest; Father revives on hearing the hero lives; Father does not believe the brothers''
-    story; Father recognizes his son''s scent; Father warns the hero not to tell his dream to his brothers;
-    The freed prisoner forgets the hero for years; Hero''s garment becomes evidence in the seduction episode;
-    Hero''s garment restores the father''s sight; Hero''s beauty is remarked on; Hero refuses release
-    until his innocence is established; Hero forgives his brothers; Hero thrown into prison; Hero nearly
-    yields but a sign from God stops him; Hero prays to die in submission and join the righteous; Hero
-    preaches monotheism to his fellow prisoners; Hero prays that prison is preferable to sin; Hero refuses,
-    citing loyalty to his master and to God; Hero reveals his identity to his brothers; Hero declares
-    that God turned the brothers'' deed to good; The husband recognizes his wife''s guilt; The master''s
-    wife tries to seduce the hero; Their payment is secretly returned in their bags; A brother offers
-    himself or another in place of the youngest; One brother talks the others out of killing him; One
-    brother stays behind in Egypt; One prisoner is restored, the other executed and his body exposed;
-    Family prostrates before the hero, fulfilling the dream; Hero''s cup is hidden in the youngest brother''s
-    bag; A brother or the brothers give the father a pledge for the youngest; Two fellow prisoners dream
-    of pressing wine and carrying bread; Hero asks the freed prisoner to mention him to the king; A passing
-    caravan takes the hero from the pit; Hero meets and embraces his father; Search proceeds through the
-    others'' bags before the youngest''s; Father tells the sons to enter by separate gates; Hero sold
-    for a small sum of silver; Brothers pursued and accused of theft; The brothers themselves name the
-    thief''s penalty; The wife confesses the hero''s innocence; A wild animal is blamed for the hero''s
-    death; A witness proposes judging by where the shirt is torn; Women dazzled by the hero cut their
-    hands; Women of the city gossip about the wife''s passion; A year of rain and relief follows the famine.'
+- text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
+    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
+    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
+    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
+    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
+    to sin; The husband recognizes his wife''s guilt; and 51 more.'
   basis: reading
 - text: 'Pharaoh''s dreams and Joseph''s elevation: tagged by Claude (model), reading the Hebrew.'
   basis: reading

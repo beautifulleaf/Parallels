@@ -1,0 +1,101 @@
+---
+id: motif-hb-isa-7-immanuel-vs-quran-3-annunciation-jesus
+title: Ahaz, the Syro-Ephraimite threat and the Immanuel sign ↔ The annunciation and the mission of Jesus
+summary: 'These two units share 1 motifs: sign: the young woman (''almah) is pregnant and will bear a
+  son and call his name immanuel (''god with us'').'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- immanuel-sign
+passages:
+- tradition: judaism
+  ref: Isa 7:14
+  note: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
+    with us'')'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לָ֠כֵן יִתֵּ֨ן אֲדֹנָ֥י ה֛וּא לָכֶ֖ם א֑וֹת הִנֵּ֣ה הָעַלְמָ֗ה הָרָה֙ וְיֹלֶ֣דֶת בֵּ֔ן וְקָרָ֥את
+    שְׁמ֖וֹ עִמָּ֥נוּ אֵֽל
+- tradition: islam
+  ref: Quran 3:45
+  note: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
+    with us'') (Isa 7:14 lākēn yittēn ʾădōnāy hûʾ lākem ʾôt hinnēh hā-ʿalmâ hārâ wĕ-yōledet bēn wĕ-qārāʾt
+    šĕmô ʿimmānûʾēl: a sign, a young woman (ʿalmâ, not specifically ''virgin'') pregnant with a son whom
+    she names; Q 3:45, 47 yā maryamu inna llāha yubashshiruki bi-kalimatin minhu smuhu l-masīḥu ... qālat
+    rabbi annā yakūnu lī waladun wa-lam yamsasnī basharun: a son announced to Mary, named by God, conceived
+    without a man. Lead only: the virgin reading of Isa 7:14 comes from the LXX (parthenos) and Matt 1:23
+    (cf.), not from the Hebrew.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ
+    ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
+- tradition: islam
+  ref: Quran 3:47
+  note: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
+    with us'') (Isa 7:14 lākēn yittēn ʾădōnāy hûʾ lākem ʾôt hinnēh hā-ʿalmâ hārâ wĕ-yōledet bēn wĕ-qārāʾt
+    šĕmô ʿimmānûʾēl: a sign, a young woman (ʿalmâ, not specifically ''virgin'') pregnant with a son whom
+    she names; Q 3:45, 47 yā maryamu inna llāha yubashshiruki bi-kalimatin minhu smuhu l-masīḥu ... qālat
+    rabbi annā yakūnu lī waladun wa-lam yamsasnī basharun: a son announced to Mary, named by God, conceived
+    without a man. Lead only: the virgin reading of Isa 7:14 comes from the LXX (parthenos) and Matt 1:23
+    (cf.), not from the Hebrew.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ
+    مَا يَشَآءُ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    echo. Isa 7:14 lākēn yittēn ʾădōnāy hûʾ lākem ʾôt hinnēh hā-ʿalmâ hārâ wĕ-yōledet bēn wĕ-qārāʾt šĕmô
+    ʿimmānûʾēl: a sign, a young woman (ʿalmâ, not specifically ''virgin'') pregnant with a son whom she
+    names; Q 3:45, 47 yā maryamu inna llāha yubashshiruki bi-kalimatin minhu smuhu l-masīḥu ... qālat
+    rabbi annā yakūnu lī waladun wa-lam yamsasnī basharun: a son announced to Mary, named by God, conceived
+    without a man. Lead only: the virgin reading of Isa 7:14 comes from the LXX (parthenos) and Matt 1:23
+    (cf.), not from the Hebrew.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Sign: the young woman (''almah) is pregnant and will bear a son
+    and call his name Immanuel (''God with us'') (weight 6.3). Pair score 6.3.'
+  basis: reading
+- text: 'Only in Ahaz, the Syro-Ephraimite threat and the Immanuel sign: The child will eat curds and
+    honey until he knows to refuse evil and choose good; ''If you do not believe (ta''aminu) you will
+    not be established (te''amenu)'': faith as condition of survival; God will whistle for the fly of
+    Egypt and the bee of Assyria to settle in the land; God will shave head, ''hair of the feet'' and
+    beard with a razor hired beyond the River (the king of Assyria); King invited to ask any sign ''deep
+    as Sheol or high as heaven'' refuses, saying he will not test God; Cultivated land worth a thousand
+    silver reverts to briers and thorns (shamir va-shayit), fit only for grazing and hunting; Enemy kings
+    dismissed as two smoldering stumps of firebrands; Aram (Rezin) and Israel (Pekah) ally to attack Jerusalem
+    and install a puppet king (son of Tabeel); A divine messenger announces a son to a virgin untouched
+    by any man [divergence between the texts]; Before a child knows to refuse evil and choose good (or
+    say ''father, mother'') the enemy kings'' lands will be deserted; Prophet meets the king at the conduit
+    of the upper pool on the highway of the Fuller''s Field; Prophet''s child bears a symbolic name that
+    is itself an oracle (Shear-yashuv, Maher-shalal-hash-baz); and 1 more.'
+  basis: reading
+- text: 'Only in The annunciation and the mission of Jesus: Jesus comes confirming the Torah and making
+    lawful some of what was forbidden; God says to Jesus ''I will take you (mutawaffika) and raise you
+    to myself and purify you''; Jesus tells people what they eat and store in their houses; Jesus announced
+    as a word (kalima) from God, named the Messiah, Jesus son of Mary; Forming a creature from earth and
+    breathing life into it [divergence between the texts]; They plotted, and God plotted; God is the best
+    of plotters; The likeness of Jesus with God is as Adam, created from dust by ''Be''; Jesus will speak
+    to people in the cradle and in maturity; Challenge to mutual imprecation (mubahala): gather sons,
+    women and selves and invoke God''s curse on the liars; God sent down the Torah (al-Tawrat) and the
+    Gospel (al-Injil) before as guidance; Mary asks how she will have a child when no man has touched
+    her; Jesus asks ''Who are my helpers to God?'' and the disciples (hawariyyun) answer ''We are God''s
+    helpers''; and 8 more.'
+  basis: reading
+- text: 'Ahaz, the Syro-Ephraimite threat and the Immanuel sign: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'The annunciation and the mission of Jesus: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

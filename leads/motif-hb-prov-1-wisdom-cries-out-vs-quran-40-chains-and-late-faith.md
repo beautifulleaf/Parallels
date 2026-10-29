@@ -1,0 +1,93 @@
+---
+id: motif-hb-prov-1-wisdom-cries-out-vs-quran-40-chains-and-late-faith
+title: Proverbs 1:20-33, Lady Wisdom's speech in the streets ↔ Dragged in chains; messengers told and
+  untold; faith on seeing punishment
+summary: 'These two units share 1 motifs: seized at the end, they say ''we believe'', but how can they
+  reach it from a far place?.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- faith-at-last-moment-unaccepted
+passages:
+- tradition: judaism
+  ref: Prov 1:26
+  note: 'Seized at the end, they say ''we believe'', but how can they reach it from a far place? (bə-ḇōʾ
+    ḵə-šôʾâ paḥdəḵem ... ʾāz yiqrāʾunənî wə-lōʾ ʾeʿĕneh yəšaḥărunənî wə-lōʾ yimṣāʾunənî vs. fa-lammā raʾaw
+    baʾsanā qālū āmannā bi-llāhi waḥdahu ... fa-lam yaku yanfaʿuhum īmānuhum lammā raʾaw baʾsanā: a call
+    made only when disaster strikes is not answered. In Proverbs it is Lady Wisdom who refuses; in the
+    Quran it is God''s unchanging sunna.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: גַּם אֲ֭נִי בְּאֵידְכֶ֣ם אֶשְׂחָ֑ק אֶ֝לְעַ֗ג בְּבֹ֣א פַחְדְּכֶֽם
+- tradition: judaism
+  ref: Prov 1:27
+  note: 'Seized at the end, they say ''we believe'', but how can they reach it from a far place? (bə-ḇōʾ
+    ḵə-šôʾâ paḥdəḵem ... ʾāz yiqrāʾunənî wə-lōʾ ʾeʿĕneh yəšaḥărunənî wə-lōʾ yimṣāʾunənî vs. fa-lammā raʾaw
+    baʾsanā qālū āmannā bi-llāhi waḥdahu ... fa-lam yaku yanfaʿuhum īmānuhum lammā raʾaw baʾsanā: a call
+    made only when disaster strikes is not answered. In Proverbs it is Lady Wisdom who refuses; in the
+    Quran it is God''s unchanging sunna.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: בְּבֹ֤א כשאוה כְשׁוֹאָ֨ה פַּחְדְּכֶ֗ם וְֽ֭אֵידְכֶם כְּסוּפָ֣ה יֶאֱתֶ֑ה בְּבֹ֥א עֲ֝לֵיכֶ֗ם צָרָ֥ה
+    וְצוּקָֽה
+- tradition: islam
+  ref: Quran 40:84
+  note: Seized at the end, they say 'we believe', but how can they reach it from a far place?
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ
+    مُشْرِكِينَ
+- tradition: islam
+  ref: Quran 40:85
+  note: Seized at the end, they say 'we believe', but how can they reach it from a far place?
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمْ يَكُ يَنفَعُهُمْ إِيمَٰنُهُمْ لَمَّا رَأَوْا۟ بَأْسَنَا سُنَّتَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ
+    فِى عِبَادِهِۦ وَخَسِرَ هُنَالِكَ ٱلْكَٰفِرُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    parallel. bə-ḇōʾ ḵə-šôʾâ paḥdəḵem ... ʾāz yiqrāʾunənî wə-lōʾ ʾeʿĕneh yəšaḥărunənî wə-lōʾ yimṣāʾunənî
+    vs. fa-lammā raʾaw baʾsanā qālū āmannā bi-llāhi waḥdahu ... fa-lam yaku yanfaʿuhum īmānuhum lammā
+    raʾaw baʾsanā: a call made only when disaster strikes is not answered. In Proverbs it is Lady Wisdom
+    who refuses; in the Quran it is God''s unchanging sunna.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Seized at the end, they say ''we believe'', but how can they reach
+    it from a far place? (weight 6.0). Pair score 6.0.'
+  basis: reading
+- text: 'Only in Proverbs 1:20-33, Lady Wisdom''s speech in the streets: The fools eat the fruit of their
+    own way and are sated with their own devices; When disaster comes they will call on Wisdom and she
+    will not answer; they will seek her and not find her; Rejected Wisdom will laugh at the scorners''
+    calamity and mock when terror comes like a storm; Wisdom promises to pour out her spirit (ruhi) and
+    make her words known to those who turn; Lady Wisdom cries aloud in the streets, at the head of the
+    crossroads, at the city gates and on the heights; God in heaven laughs at and mocks those who plot
+    against him or the righteous; Wisdom (hokhmah) personified as a woman who speaks in the first person.'
+  basis: reading
+- text: 'Only in Dragged in chains; messengers told and untold; faith on seeing punishment: With collars
+    and chains on their necks the damned are dragged through boiling water and then set ablaze in the
+    fire; Of the messengers before you, some we have related to you and some we have not; Asked where
+    their partners are, the damned say ''they have strayed from us; we called on nothing before''; Iron
+    collars (aghlal) are put on the necks of the damned; God created livestock and subjected them to people
+    for riding, food, benefits and drink; The way (sunna) of God with those who passed before: you will
+    find no change in God''s way; Travel in the land and see the end of those who denied.'
+  basis: reading
+- text: 'Proverbs 1:20-33, Lady Wisdom''s speech in the streets: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'Dragged in chains; messengers told and untold; faith on seeing punishment: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

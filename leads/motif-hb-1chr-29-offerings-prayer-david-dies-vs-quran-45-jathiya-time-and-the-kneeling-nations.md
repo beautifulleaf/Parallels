@@ -1,0 +1,89 @@
+---
+id: motif-hb-1chr-29-offerings-prayer-david-dies-vs-quran-45-jathiya-time-and-the-kneeling-nations
+title: Free-will gifts, David's doxology, Solomon enthroned again, David's death ↔ Desire as god, 'only
+  Time destroys us', and every nation kneeling before its book
+summary: 'These two units share 1 motifs: to god belongs the grandeur (kibriya'') in the heavens and the
+  earth.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- divine-grandeur-in-heavens-and-earth
+passages:
+- tradition: judaism
+  ref: 1Chr 29:11
+  note: 'To God belongs the grandeur (kibriya'') in the heavens and the earth (Closing doxology ascribing
+    greatness in heaven and earth: ləḵā YHWH hag-gəḏullâ wə-hag-gəḇûrâ wə-hat-tip̄ʾereṯ ... kî ḵōl baš-šāmayim
+    û-ḇā-ʾāreṣ vs. fa-li-llāhi l-ḥamdu rabbi s-samāwāti wa-rabbi l-arḍi rabbi l-ʿālamīn, wa-lahu l-kibriyāʾu
+    fī s-samāwāti wa-l-arḍ. David''s prayer ends a reign; the verses end a sura.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לְךָ֣ יְ֠הוָה הַגְּדֻלָּ֨ה וְהַגְּבוּרָ֤ה וְהַתִּפְאֶ֨רֶת֙ וְהַנֵּ֣צַח וְהַה֔וֹד כִּי כֹ֖ל בַּשָּׁמַ֣יִם
+    וּבָאָ֑רֶץ לְךָ֤ יְהוָה֙ הַמַּמְלָכָ֔ה וְהַמִּתְנַשֵּׂ֖א לְכֹ֥ל לְרֹֽאשׁ
+- tradition: islam
+  ref: Quran 45:37
+  note: To God belongs the grandeur (kibriya') in the heavens and the earth
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+- tradition: islam
+  ref: Quran 45:36
+  note: To God belongs the grandeur (kibriya') in the heavens and the earth
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَٰلَمِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    parallel. Closing doxology ascribing greatness in heaven and earth: ləḵā YHWH hag-gəḏullâ wə-hag-gəḇûrâ
+    wə-hat-tip̄ʾereṯ ... kî ḵōl baš-šāmayim û-ḇā-ʾāreṣ vs. fa-li-llāhi l-ḥamdu rabbi s-samāwāti wa-rabbi
+    l-arḍi rabbi l-ʿālamīn, wa-lahu l-kibriyāʾu fī s-samāwāti wa-l-arḍ. David''s prayer ends a reign;
+    the verses end a sura.'
+  basis: reading
+- text: 'Shared motifs, rarest first: To God belongs the grandeur (kibriya'') in the heavens and the earth
+    (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Free-will gifts, David''s doxology, Solomon enthroned again, David''s death: Persian
+    darics (adarkonim) are counted among offerings in David''s time; God is addressed as ''our father''
+    in prayer; The king is made king and anointed a second time; The king gives his own private treasure
+    (segullah) for the temple; ''Our days on earth are like a shadow, and there is no hope''; Princes
+    ''give the hand'' under the new king in allegiance; The assembly bows down to YHWH and to the king;
+    Onyx, inlay, antimony, multicolored stones and marble gathered for the temple; The temple is called
+    the birah (fortress/palace), not for man but for God; A thousand bulls, a thousand rams and a thousand
+    lambs offered in a day; Doxology: ''Yours, YHWH, is the greatness, the power, the glory, the victory
+    and the majesty ... and the kingdom''; Donors confess that everything comes from God and they only
+    give back what is his; and 10 more.'
+  basis: reading
+- text: 'Only in Desire as god, ''only Time destroys us'', and every nation kneeling before its book:
+    God''s book speaks against them with truth: ''We used to have transcribed (nastansikh) all that you
+    did''; What God''s heavenly book records: names or deeds [divergence between the texts]; Deniers of
+    resurrection say there is only our first death and challenge the prophet to bring back their fathers;
+    Whether death is the end: asked, held by sceptics, or answered by resurrection [response between the
+    texts]; On the day of the Hour every community is seen kneeling (jathiya), each called to its book
+    of deeds; Deniers say there is only this life; we die and live, and only Time (al-dahr) destroys us;
+    Whoever takes his own desire (hawā) as his god; The prophet''s mission and the hearers'' closed ears,
+    eyes and hearts: caused, sealed, or beyond his cure [divergence between the texts]; God forgets the
+    damned today as they forgot the meeting of this day; Do evildoers think God will make them equal to
+    the righteous in life and in death?; God did not create the heavens and earth and what is between
+    them in play (la''ibin) but in truth; God sets a seal on the unbelievers'' hearts and hearing and
+    a covering over their eyes; and 2 more.'
+  basis: reading
+- text: 'Free-will gifts, David''s doxology, Solomon enthroned again, David''s death: tagged by Claude
+    (model), reading the Hebrew.'
+  basis: reading
+- text: 'Desire as god, ''only Time destroys us'', and every nation kneeling before its book: tagged by
+    Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -1,0 +1,80 @@
+---
+id: motif-hb-job-1-prologue-first-test-vs-quran-6-prophets-lineage-torah-sheets
+title: Job's piety, the heavenly council and the first test ↔ Abraham's line of eighteen prophets; Torah
+  in sheets; the false claimant
+summary: 'These two units share 1 motifs: ''naked i came from my mother''s womb and naked i shall return
+  there''.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- naked-from-womb-naked-return
+passages:
+- tradition: judaism
+  ref: Job 1:21
+  note: '''Naked I came from my mother''s womb and naked I shall return there'' (''shamah'' (there) equates
+    the womb with the earth)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן וַיהוָ֖ה
+    לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
+- tradition: islam
+  ref: Quran 6:94
+  note: '''Naked I came from my mother''s womb and naked I shall return there'' (''you have come to Us
+    alone (furādā) as We created you the first time, leaving behind what We gave you'')'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ
+    وَرَآءَ ظُهُورِكُمْ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَٰٓؤُا۟
+    لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    parallel. Q: wa-laqad jiʾtumūnā furādā ka-mā khalaqnākum awwala marratin wa-taraktum mā khawwalnākum
+    warāʾa ẓuhūrikum. Job: ʿārōm yāṣāʾtî mi-beṭen ʾimmî wə-ʿārōm ʾāšûv šāmmāh. Job''s ''naked'' is Q''s
+    ''alone'' (furādā), coming to God as at the first creation.'
+  basis: reading
+- text: 'Shared motifs, rarest first: ''Naked I came from my mother''s womb and naked I shall return there''
+    (weight 6.3). Pair score 6.3.'
+  basis: reading
+- text: 'Only in Job''s piety, the heavenly council and the first test: The verb ''bless'' (barekh) used
+    as a scribal euphemism for cursing God; Grown sons hold feasts in turn, each on his day, and invite
+    their sisters; A great wind from the desert strikes the four corners of the house and it falls on
+    the feasting children; God has set a protective hedge around the righteous man, his house and goods;
+    ''Fire of God'' falls from heaven and consumes flocks and servants; Messenger after messenger arrives
+    while the last is still speaking, each the sole survivor of a disaster; ''I alone escaped to tell
+    you''; ''Does he fear God for nothing?'': piety suspected of being motivated by reward; The exemplary
+    righteous man is a non-Israelite living in the land of Uz in the east; Father offers burnt offerings
+    in case his children ''blessed'' (cursed) God in their hearts; A blessed man has seven sons and three
+    daughters; Mourner shaves his head and falls to the ground; and 20 more.'
+  basis: reading
+- text: 'Only in Abraham''s line of eighteen prophets; Torah in sheets; the false claimant: Opponents
+    say ''God has sent down nothing to any human''; The intercessors they claimed as partners are not
+    seen with them; ties are cut; They make Moses'' book into sheets (qarāṭīs), showing some and hiding
+    much; Catalogue of prophets who received revelation, from Noah to Jesus; None more wrong than one
+    who falsely claims revelation or says he can send down the like of God''s; ''How can you say We are
+    wise, and the Torah of YHWH is with us?'' The lying pen of the scribes has made it a lie; The prophet
+    is sent to warn ''the mother of towns'' (umm al-qura, Mecca) and those around it; False prophet put
+    to death [divergence between the texts]; The Torah contains guidance and light; Angels (God''s messengers)
+    take the souls of the dying; False prophet put to death; If God wills he takes you away and brings
+    another people in your place; and 1 more.'
+  basis: reading
+- text: 'Job''s piety, the heavenly council and the first test: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'Abraham''s line of eighteen prophets; Torah in sheets; the false claimant: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

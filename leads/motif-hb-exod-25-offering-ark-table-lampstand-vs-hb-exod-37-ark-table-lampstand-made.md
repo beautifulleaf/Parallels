@@ -3,8 +3,8 @@ id: motif-hb-exod-25-offering-ark-table-lampstand-vs-hb-exod-37-ark-table-lampst
 title: Contribution for the sanctuary; ark, cover, table and lampstand ↔ Bezalel makes the ark, table,
   lampstand and incense altar
 summary: 'These two units share 6 motifs: a cult object is hammered from a single piece of gold, a golden
-  cover (kapporet, mercy seat) on top of the ark, a gold table with the bread of the presence always before
-  god, a golden seven-lamp lampstand with almond-blossom cups….'
+  cover (kapporet, mercy seat) on top of the ark, a golden seven-lamp lampstand with almond-blossom cups,
+  a gold table with the bread of the presence always before god….'
 status: new
 relations:
 - internal
@@ -16,8 +16,8 @@ layers:
 motifs:
 - hammered-from-single-piece
 - mercy-seat-kapporet
-- table-of-showbread
 - seven-branched-lampstand
+- table-of-showbread
 - ark-of-the-covenant
 - two-cherubim-facing-with-spread-wings
 passages:
@@ -67,34 +67,6 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיַּ֥עַשׂ כַּפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֨צִי֙ אָרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רָחְבָּֽהּ
 - tradition: judaism
-  ref: Exod 25:23-30
-  note: A gold table with the bread of the presence always before God (lehem panim 'bread of the face'
-    always before me)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (25:23) וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ וְאַמָּ֥ה
-    וָחֵ֖צִי קֹמָתֽוֹ (25:24) וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב
-    (25:25) וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וְעָשִׂ֧יתָ זֵר זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב
-    (25:26) וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וְנָתַתָּ֙ אֶת הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת
-    אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו (25:27) לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת לְבָתִּ֣ים
-    לְבַדִּ֔ים לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (25:28) וְעָשִׂ֤יתָ אֶת הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֥
-    אֹתָ֖ם זָהָ֑ב וְנִשָּׂא בָ֖ם אֶת הַשֻּׁלְחָֽן (25:29) וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשׂוֹתָיו֙
-    וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם (25:30) וְנָתַתָּ֧ עַֽל
-    הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד
-- tradition: judaism
-  ref: Exod 37:10-16
-  note: A gold table with the bread of the presence always before God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (37:10) וַיַּ֥עַשׂ אֶת הַשֻּׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ
-    וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ (37:11) וַיְצַ֥ף אֹת֖וֹ זָהָ֣ב טָה֑וֹר וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב
-    (37:12) וַיַּ֨עַשׂ ל֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וַיַּ֧עַשׂ זֵר זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב
-    (37:13) וַיִּצֹ֣ק ל֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וַיִּתֵּן֙ אֶת הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת
-    אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו (37:14) לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת הָי֖וּ הַטַּבָּעֹ֑ת בָּתִּים֙ לַבַּדִּ֔ים
-    לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (37:15) וַיַּ֤עַשׂ אֶת הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וַיְצַ֥ף אֹתָ֖ם זָהָ֑ב
-    לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (37:16) וַיַּ֜עַשׂ אֶֽת הַכֵּלִ֣ים אֲשֶׁ֣ר עַל הַשֻּׁלְחָ֗ן אֶת קְעָרֹתָ֤יו
-    וְאֶת כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶת הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֖ב טָהֽוֹר
-- tradition: judaism
   ref: Exod 25:31-39
   note: A golden seven-lamp lampstand with almond-blossom cups (almond-blossom cups, knobs and flowers;
     one talent of pure gold)
@@ -129,6 +101,34 @@ passages:
     אֶת נֵרֹתֶ֖יהָ שִׁבְעָ֑ה וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ זָהָ֥ב טָהֽוֹר (37:24) כִּכָּ֛ר זָהָ֥ב טָה֖וֹר
     עָשָׂ֣ה אֹתָ֑הּ וְאֵ֖ת כָּל כֵּלֶֽיהָ
 - tradition: judaism
+  ref: Exod 25:23-30
+  note: A gold table with the bread of the presence always before God (lehem panim 'bread of the face'
+    always before me)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (25:23) וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ וְאַמָּ֥ה
+    וָחֵ֖צִי קֹמָתֽוֹ (25:24) וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב
+    (25:25) וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וְעָשִׂ֧יתָ זֵר זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב
+    (25:26) וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וְנָתַתָּ֙ אֶת הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת
+    אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו (25:27) לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת לְבָתִּ֣ים
+    לְבַדִּ֔ים לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (25:28) וְעָשִׂ֤יתָ אֶת הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֥
+    אֹתָ֖ם זָהָ֑ב וְנִשָּׂא בָ֖ם אֶת הַשֻּׁלְחָֽן (25:29) וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשׂוֹתָיו֙
+    וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם (25:30) וְנָתַתָּ֧ עַֽל
+    הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד
+- tradition: judaism
+  ref: Exod 37:10-16
+  note: A gold table with the bread of the presence always before God
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (37:10) וַיַּ֥עַשׂ אֶת הַשֻּׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ
+    וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ (37:11) וַיְצַ֥ף אֹת֖וֹ זָהָ֣ב טָה֑וֹר וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב
+    (37:12) וַיַּ֨עַשׂ ל֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וַיַּ֧עַשׂ זֵר זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב
+    (37:13) וַיִּצֹ֣ק ל֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וַיִּתֵּן֙ אֶת הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת
+    אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו (37:14) לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת הָי֖וּ הַטַּבָּעֹ֑ת בָּתִּים֙ לַבַּדִּ֔ים
+    לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (37:15) וַיַּ֤עַשׂ אֶת הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וַיְצַ֥ף אֹתָ֖ם זָהָ֑ב
+    לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (37:16) וַיַּ֜עַשׂ אֶֽת הַכֵּלִ֣ים אֲשֶׁ֣ר עַל הַשֻּׁלְחָ֗ן אֶת קְעָרֹתָ֤יו
+    וְאֶת כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶת הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֖ב טָהֽוֹר
+- tradition: judaism
   ref: Exod 25:10-16
   note: 'The ark of the covenant: a gold-plated acacia chest with rings and poles'
   lang: he
@@ -152,6 +152,13 @@ passages:
     פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּע֔וֹת עַל צַלְע֖וֹ הַשֵּׁנִֽית
     (37:4) וַיַּ֥עַשׂ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם זָהָֽב (37:5) וַיָּבֵ֤א אֶת הַבַּדִּים֙
     בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֖את אֶת הָאָרֹֽן
+- tradition: judaism
+  ref: Exod 37:1
+  note: 'The ark of the covenant: a gold-plated acacia chest with rings and poles'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֧עַשׂ בְּצַלְאֵ֛ל אֶת הָאָרֹ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אָרְכּ֗וֹ וְאַמָּ֤ה
+    וָחֵ֨צִי֙ רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ
 - tradition: judaism
   ref: Exod 25:18
   note: Two golden cherubim face each other with wings spread over the ark
@@ -180,24 +187,23 @@ passages:
     הַכְּרֻבִ֖ים מִשְּׁנֵ֥י קצוותו קְצוֹתָֽיו
 evidence:
 - text: 'Shared motifs, rarest first: A cult object is hammered from a single piece of gold (weight 6.7);
-    A golden cover (kapporet, mercy seat) on top of the ark (weight 6.7); A gold table with the bread
-    of the presence always before God (weight 6.0); A golden seven-lamp lampstand with almond-blossom
-    cups (weight 6.0); The ark of the covenant: a gold-plated acacia chest with rings and poles (weight
-    5.6); Two golden cherubim face each other with wings spread over the ark (weight 5.6). Pair score
-    36.6.'
+    A golden cover (kapporet, mercy seat) on top of the ark (weight 6.7); A golden seven-lamp lampstand
+    with almond-blossom cups (weight 6.0); A gold table with the bread of the presence always before God
+    (weight 6.0); The ark of the covenant: a gold-plated acacia chest with rings and poles (weight 5.6);
+    Two golden cherubim face each other with wings spread over the ark (weight 5.4). Pair score 36.4.'
   basis: reading
-- text: 'Only in Contribution for the sanctuary; ark, cover, table and lampstand: The ark''s carrying
-    poles must never be removed; God will dwell in the midst of the people in a sanctuary; The sanctuary
-    is built after a pattern shown by God on the mountain; Exact dimensions in cubits are given for a
-    sacred object of the sanctuary; List of precious materials for the sanctuary: metals, dyed yarns,
-    linen, skins, wood, oil, spices, gems; The tablets of the testimony are placed inside the ark; Covering
-    of tahash skins (an unidentified animal); God''s voice speaks to Moses from above the ark cover between
-    the two cherubim; Materials for the sanctuary come from the free-will gifts of all whose heart moves
-    them.'
+- text: 'Only in Contribution for the sanctuary; ark, cover, table and lampstand: The ark of the covenant:
+    a gold-plated acacia chest with rings and poles [divergence between the texts]; List of precious materials
+    for the sanctuary: metals, dyed yarns, linen, skins, wood, oil, spices, gems; God''s voice speaks
+    to Moses from above the ark cover between the two cherubim; The ark''s carrying poles must never be
+    removed; God will dwell in the midst of the people in a sanctuary; Exact dimensions in cubits are
+    given for a sacred object of the sanctuary; Covering of tahash skins (an unidentified animal); Materials
+    for the sanctuary come from the free-will gifts of all whose heart moves them; The tablets of the
+    testimony are placed inside the ark; The sanctuary is built after a pattern shown by God on the mountain.'
   basis: reading
-- text: 'Only in Bezalel makes the ark, table, lampstand and incense altar: Execution of a divine command
-    is narrated by repeating the command almost verbatim; A small gold-plated altar for burning incense
-    before the veil; Recipe of the holy anointing oil of myrrh, cinnamon, cane, cassia and olive oil.'
+- text: 'Only in Bezalel makes the ark, table, lampstand and incense altar: Recipe of the holy anointing
+    oil of myrrh, cinnamon, cane, cassia and olive oil; Execution of a divine command is narrated by repeating
+    the command almost verbatim; A small gold-plated altar for burning incense before the veil.'
   basis: reading
 - text: 'Contribution for the sanctuary; ark, cover, table and lampstand: tagged by Claude (model), reading
     the Hebrew.'

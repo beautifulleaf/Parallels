@@ -4,7 +4,6 @@ title: Isaac in Gerar, the wife-sister episode, wells and treaty ↔ Parables of
 summary: 'These two units share 1 motifs: patriarch reaps a hundredfold in one year.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -31,30 +30,37 @@ passages:
     سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ
     عَلِيمٌ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    echo. Gen 26:12 wa-yyizraʿ yiṣḥāq ... wa-yyimṣāʾ ba-ššānâ ha-hîʾ mēʾâ šĕʿārîm wa-yĕbārăkēhû YHWH:
+    Isaac sows and reaps a hundredfold, God''s blessing; Q 2:261 ka-mathali ḥabbatin anbatat sabʿa sanābila
+    fī kulli sunbulatin miʾatu ḥabbatin: one grain, seven ears, a hundred grains each, as a parable of
+    spending in God''s way. Real harvest vs parable; a hundredfold vs seven hundredfold.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Patriarch reaps a hundredfold in one year (weight 6.7). Pair score
     6.7.'
   basis: reading
-- text: 'Only in Isaac in Gerar, the wife-sister episode, wells and treaty: Abraham kept God''s charge,
-    commandments, statutes and laws (torot) before Sinai; All families of the earth will be blessed through
-    the patriarch; Patriarch builds an altar where God appeared to him; Famine forces the family to go
-    down to Egypt; God addresses the hero with ''Fear not'' in a vision; God forbids the patriarch to
-    go down to Egypt in a famine; Hero''s beauty is remarked on; The foreign king rebukes the patriarch
-    for the deception; King looking through a window sees the couple embracing and learns they are married;
-    Successive wells named for strife (Esek, Sitnah) and finally room (Rehoboth); God promises the land
-    to the patriarch''s descendants; Descendants promised to be as countless as the dust, stars or sand;
-    Seven ewe lambs given as witness to a well-ownership oath (Beersheba); Dispute over a well resolved
-    by an oath-treaty with a local king; Enemies stop up the patriarch''s wells with earth out of envy;
-    Patriarch passes off his beautiful wife as his sister in a foreign court.'
+- text: 'Only in Isaac in Gerar, the wife-sister episode, wells and treaty: God forbids the patriarch
+    to go down to Egypt in a famine; King looking through a window sees the couple embracing and learns
+    they are married; Successive wells named for strife (Esek, Sitnah) and finally room (Rehoboth); Enemies
+    stop up the patriarch''s wells with earth out of envy; Abraham''s relation to the law given later
+    at Sinai [response between the texts]; Whether Abraham had a written revelation, or kept God''s laws
+    unwritten [divergence between the texts]; Abraham kept God''s charge, commandments, statutes and laws
+    (torot) before Sinai; Seven ewe lambs given as witness to a well-ownership oath (Beersheba); Dispute
+    over a well resolved by an oath-treaty with a local king; The foreign king rebukes the patriarch for
+    the deception; Patriarch passes off his beautiful wife as his sister in a foreign court; Patriarch
+    builds an altar where God appeared to him; and 6 more.'
   basis: reading
-- text: 'Only in Parables of charity: Advice to break off sins by righteousness/almsgiving (tsidqah) and
-    iniquities by mercy to the poor; Charity voided by reminders of generosity and injury, like dust on
-    a rock washed bare by rain; An old man with weak children loses his garden of palms and vines to a
-    fiery whirlwind; Spending for God''s pleasure is like a garden on a height that yields double with
-    heavy rain or even with dew; Spending in God''s way is like a grain sprouting seven ears with a hundred
-    grains each; Deserving poor, restrained in God''s way, thought rich by the ignorant for their restraint,
-    known by their mark; Satan threatens you with poverty and commands indecency; Giving charity openly
+- text: 'Only in Parables of charity: Charity voided by reminders of generosity and injury, like dust
+    on a rock washed bare by rain; Spending for God''s pleasure is like a garden on a height that yields
+    double with heavy rain or even with dew; Spending in God''s way is like a grain sprouting seven ears
+    with a hundred grains each; Deserving poor, restrained in God''s way, thought rich by the ignorant
+    for their restraint, known by their mark; Satan threatens you with poverty and commands indecency;
+    Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the poor;
+    He who gives to the poor will not lack, but he who hides his eyes will get many curses; An old man
+    with weak children loses his garden of palms and vines to a fiery whirlwind; Giving charity openly
     is good, but giving it secretly to the poor is better and expiates sins; God gives wisdom to whom
-    he wills; whoever is given wisdom is given much good.'
+    he wills; whoever is given wisdom is given much good; One scatters and yet increases; the generous
+    soul is made fat and who waters will be watered.'
   basis: reading
 - text: 'Isaac in Gerar, the wife-sister episode, wells and treaty: tagged by Claude (model), reading
     the Hebrew.'

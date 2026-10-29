@@ -1,0 +1,106 @@
+---
+id: motif-hb-gen-6-flood-vs-quran-69-haqqa-destroyed-peoples-and-the-throne
+title: 'The Flood (full read) ↔ Al-Haqqa: Thamud and ''Ad, the running ship, the single trumpet blast,
+  the sky split and eight bearing the Throne'
+summary: 'These two units share 1 motifs: when the water overflowed god carried ''you'' in the running
+  ship (al-jariya) as a reminder for retaining ears [divergence between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- carried-in-the-running-ship-as-divergence
+passages:
+- tradition: judaism
+  ref: Gen 7:17
+  note: 'When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder for
+    retaining ears [divergence between the texts] (Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû
+    ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya:
+    God carries, and carries ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira
+    ''for a retaining ear'' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַֽיְהִ֧י הַמַּבּ֛וּל אַרְבָּעִ֥ים י֖וֹם עַל הָאָ֑רֶץ וַיִּרְבּ֣וּ הַמַּ֗יִם וַיִּשְׂאוּ֙ אֶת
+    הַתֵּבָ֔ה וַתָּ֖רָם מֵעַ֥ל הָאָֽרֶץ
+- tradition: judaism
+  ref: Gen 7:18
+  note: 'When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder for
+    retaining ears [divergence between the texts] (Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû
+    ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya:
+    God carries, and carries ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira
+    ''for a retaining ear'' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּגְבְּר֥וּ הַמַּ֛יִם וַיִּרְבּ֥וּ מְאֹ֖ד עַל הָאָ֑רֶץ וַתֵּ֥לֶךְ הַתֵּבָ֖ה עַל פְּנֵ֥י הַמָּֽיִם
+- tradition: islam
+  ref: Quran 69:11
+  note: 'When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder for
+    retaining ears [divergence between the texts] (Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû
+    ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya:
+    God carries, and carries ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira
+    ''for a retaining ear'' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَٰكُمْ فِى ٱلْجَارِيَةِ
+- tradition: islam
+  ref: Quran 69:12
+  note: 'When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder for
+    retaining ears [divergence between the texts] (Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû
+    ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya:
+    God carries, and carries ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira
+    ''for a retaining ear'' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَآ أُذُنٌ وَٰعِيَةٌ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    divergence. Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû ʾet ha-ttēvāh wa-ttārom (the
+    waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya: God carries, and carries
+    ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira ''for a retaining ear''
+    (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.'
+  basis: reading
+- text: 'Shared motifs, rarest first: When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts] (weight 6.7). Pair score
+    6.7.'
+  basis: reading
+- text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
+    events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
+    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
+    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
+    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
+    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
+    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
+    the earth and shed blood while they praise God; What sets the flood in motion: God''s decision on
+    violence, or the rejected prophet''s prayer [divergence between the texts]; and 45 more.'
+  basis: reading
+- text: 'Only in Al-Haqqa: Thamud and ''Ad, the running ship, the single trumpet blast, the sky split
+    and eight bearing the Throne: ''Ad were destroyed by a furious wind for seven nights and eight days,
+    lying felled like hollow palm trunks; When the water overflowed God carried ''you'' in the running
+    ship (al-jariya) as a reminder for retaining ears; That day eight (angels) bear the Throne of your
+    Lord above them; At a single blast on the trumpet, the earth and mountains are lifted and crushed
+    with a single crushing; Thamud were destroyed by the Overwhelming (al-tagiya, the Blast); Rhetorical
+    opening: ''The Reality (al-haqqa)! What is the Reality? And what will make you know what the Reality
+    is?''; Four living creatures (hayyot) of human form bear the divine throne [divergence between the
+    texts]; The overturned city (al-mu''tafika, Sodom) God hurled down and covered with what covered it;
+    A roaring cold wind (sarsar) on a day of continuous ill omen plucks men away like trunks of uprooted
+    palms; The sky splits and is frail that day, and the angels are on its borders; When the Event (al-waqi''a)
+    befalls, none can deny it: it abases and exalts; Four living creatures (hayyot) of human form bear
+    the divine throne; and 4 more.'
+  basis: reading
+- text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Al-Haqqa: Thamud and ''Ad, the running ship, the single trumpet blast, the sky split and eight
+    bearing the Throne: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

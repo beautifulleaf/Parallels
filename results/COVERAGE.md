@@ -93,7 +93,7 @@ These were tagged from what is known about the text, not from the text itself, w
 
 ## Leads
 
-- 526 leads in total; 26 written by hand (the benchmark set) and 500 by the pipeline.
+- 2573 leads in total; 26 written by hand (the benchmark set) and 2547 by the pipeline.
 - The hand-written benchmark leads were drafted from secondary knowledge. Only their Quran and Hebrew passages show original text.
 
 ## Traditions with no original text in the repo yet

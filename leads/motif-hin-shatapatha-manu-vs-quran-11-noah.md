@@ -38,6 +38,13 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
     مُّغْرَقُونَ
+- tradition: islam
+  ref: Quran 11:38
+  note: Hero builds a vessel on divine instruction ('under our eyes and by our revelation')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن
+    تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
 - tradition: hinduism
   ref: 'Manu and the fish (Śatapatha Brāhmaṇa 1.8.1): 1.8.1'
   note: Hero privately warned of the coming flood by a deity (the fish)
@@ -48,6 +55,13 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ
     بِمَا كَانُوا۟ يَفْعَلُونَ
+- tradition: islam
+  ref: Quran 11:37
+  note: Hero privately warned of the coming flood by a deity
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
+    مُّغْرَقُونَ
 evidence:
 - text: 'Shared motifs, rarest first: Vessel comes to rest on a named mountain (weight 5.4); Hero builds
     a vessel on divine instruction (weight 5.2); Hero privately warned of the coming flood by a deity

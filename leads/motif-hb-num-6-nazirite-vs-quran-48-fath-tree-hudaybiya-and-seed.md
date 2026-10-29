@@ -6,7 +6,6 @@ summary: 'These two units share 1 motifs: nazirite''s shaved hair is put on the 
   offering.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -34,32 +33,40 @@ passages:
     شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ
     تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    echo. Shaving the head when a sacred journey or vow is completed: wə-ḡillaḥ han-nāzîr peṯaḥ ʾōhel
+    môʿēḏ ʾeṯ rōʾš nizrô ... wə-nāṯan ʿal hā-ʾēš vs. la-tadkhulunna l-masjida l-ḥarāma in shāʾa llāhu
+    āminīna muḥalliqīna ruʾūsakum wa-muqaṣṣirīn. The Nazirite shaves at the sanctuary door and burns the
+    hair; the pilgrim may shave or cut short, and nothing is burned.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Nazirite''s shaved hair is put on the fire under the well-being
     offering (weight 6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in The Nazirite vow: Priest places the boiled shoulder and cakes in the hands of the shaved
-    Nazirite and waves them; Nazirite brings burnt, sin and well-being offerings with unleavened bread
-    when his term ends; Nazirite abstains from wine, vinegar, grapes and everything from the vine down
-    to seeds and skins; Nazirite may not become unclean even for the corpse of father, mother, brother
-    or sister; A man or a woman may take the vow of a Nazirite; Two turtledoves or two young pigeons offered
-    (in place of a lamb if one cannot afford it); Sudden death of someone beside a Nazirite voids his
-    vow and he must start again; The consecrated person lets his hair grow uncut as the sign of his vow;
-    After the vow''s completion rite the Nazirite may drink wine.'
+    Nazirite and waves them; Nazirite may not become unclean even for the corpse of father, mother, brother
+    or sister; A man or a woman may take the vow of a Nazirite; Sudden death of someone beside a Nazirite
+    voids his vow and he must start again; After the vow''s completion rite the Nazirite may drink wine;
+    Abstinence from wine, by vow or by general law [divergence between the texts]; Nazirite brings burnt,
+    sin and well-being offerings with unleavened bread when his term ends; One with an ailment of the
+    head pays ransom by fasting, alms or sacrifice; Nazirite abstains from wine, vinegar, grapes and everything
+    from the vine down to seeds and skins; When a consecrated person shaves the head [divergence between
+    the texts]; The consecrated person lets his hair grow uncut as the sign of his vow; Two turtledoves
+    or two young pigeons offered (in place of a lamb if one cannot afford it).'
   basis: reading
 - text: 'Only in The pledge under the tree, the hidden believers in Mecca, the dream of entering the sanctuary,
     and the seed parable from Torah and Gospel: But for unknown believing men and women in the city, whom
     you might have trampled unawares, God would have punished its unbelievers; Their likeness in the Torah
     and the Gospel: a seed that puts forth its shoot, strengthens, grows stout and stands on its stem,
     delighting the sowers; The believers bear on their faces the mark (sima) from the traces of prostration;
-    God was pleased with the believers when they pledged allegiance to the prophet under the tree (Bay''at
-    al-Ridwan); The Prophet is named Muhammad (or Ahmad) in the text; God fulfilled the prophet''s vision:
-    you will enter the Sacred Mosque in safety, heads shaved or hair cut short; God sent his messenger
-    with guidance and the religion of truth to make it prevail over all religion; Sacred oak or terebinth
-    marks a sanctuary site (Moreh, Mamre); The unbelievers barred the believers from the Sacred Mosque
-    and kept the sacrificial animals from reaching their place; God sends down his sakina (tranquility,
-    cf. shekhinah) on the prophet and believers; The way (sunna) of God with those who passed before:
-    you will find no change in God''s way; The unbelievers set in their hearts fierce pride, ''the zealotry
-    of the Jahiliyya'', while God sent tranquillity on the believers.'
+    God fulfilled the prophet''s vision: you will enter the Sacred Mosque in safety, heads shaved or hair
+    cut short; The unbelievers barred the believers from the Sacred Mosque and kept the sacrificial animals
+    from reaching their place; The unbelievers set in their hearts fierce pride, ''the zealotry of the
+    Jahiliyya'', while God sent tranquillity on the believers; A city''s punishment held back for the
+    righteous within it [divergence between the texts]; A mark on the faces or foreheads of the faithful
+    [divergence between the texts]; God was pleased with the believers when they pledged allegiance to
+    the prophet under the tree (Bay''at al-Ridwan); The Prophet is named Muhammad (or Ahmad) in the text;
+    God sent his messenger with guidance and the religion of truth to make it prevail over all religion;
+    God sends down his sakina (tranquility, cf. shekhinah) on the prophet and believers; and 2 more.'
   basis: reading
 - text: 'The Nazirite vow: tagged by Claude (model), reading the Hebrew.'
   basis: reading

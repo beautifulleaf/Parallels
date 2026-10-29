@@ -2,13 +2,14 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-7-moses-pharaoh
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Moses before Pharaoh,
   the magicians and the plagues
-summary: 'These two units share 4 motifs: nile water is turned to blood, prophet''s hand turns leprous,
+summary: 'These two units share 5 motifs: prophet''s hand turns leprous, white as snow, and is restored
+  as a sign [divergence between the texts], nile water is turned to blood, prophet''s hand turns leprous,
   white as snow, and is restored as a sign, a staff thrown down becomes a serpent and turns back into
-  a staff, the king''s heart is hardened (by himself or by god) so he refuses to release the people.'
+  a staff….'
 status: new
 relations:
-- transmission
 - convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -16,11 +17,41 @@ traditions:
 layers:
 - motif
 motifs:
+- hand-turned-leprous-white-as-snow-as-divergence
 - nile-water-turned-to-blood
 - hand-turned-leprous-white-as-snow
 - staff-becomes-serpent
 - hardening-of-pharaohs-heart
 passages:
+- tradition: judaism
+  ref: Exod 4:6
+  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
+    texts] (Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
+    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
+    performed before Pharaoh. Q drops the leprosy and changes the audience.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ
+    וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
+- tradition: judaism
+  ref: Exod 4:30
+  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
+    texts] (Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
+    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
+    performed before Pharaoh. Q drops the leprosy and changes the audience.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְדַבֵּ֣ר אַהֲרֹ֔ן אֵ֚ת כָּל הַדְּבָרִ֔ים אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה אֶל מֹשֶׁ֑ה וַיַּ֥עַשׂ הָאֹתֹ֖ת
+    לְעֵינֵ֥י הָעָֽם
+- tradition: islam
+  ref: Quran 7:108
+  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
+    texts] (Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
+    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
+    performed before Pharaoh. Q drops the leprosy and changes the audience.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
 - tradition: judaism
   ref: Exod 4:9
   note: Nile water is turned to blood
@@ -104,41 +135,42 @@ passages:
   text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
     مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Nile water is turned to blood (weight 5.8); Prophet''s hand turns
-    leprous, white as snow, and is restored as a sign (weight 5.6); A staff thrown down becomes a serpent
-    and turns back into a staff (weight 5.4); The king''s heart is hardened (by himself or by God) so
-    he refuses to release the people (weight 4.6). Pair score 21.4.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    divergence, echo. Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś
+    hā-ʾōtōt lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for
+    the beholders'', performed before Pharaoh. Q drops the leprosy and changes the audience. Exod: wa-yyašlikhēhû
+    ʾarṣāh wa-yhî lə-nāḥāš wa-yyānos Mōšeh mip-pānāyw (a private sign at the bush; Moses flees). Q: fa-alqā
+    ʿaṣāhu fa-idhā hiya thuʿbānun mubīnun, before Pharaoh, with no flight.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Prophet''s hand turns leprous, white as snow, and is restored as
+    a sign [divergence between the texts] (weight 6.3); Nile water is turned to blood (weight 5.8); Prophet''s
+    hand turns leprous, white as snow, and is restored as a sign (weight 5.6); A staff thrown down becomes
+    a serpent and turns back into a staff (weight 5.4); The king''s heart is hardened (by himself or by
+    God) so he refuses to release the people (weight 4.6). Pair score 27.7.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
-    of blood''; An eloquent brother is appointed to speak for the hero, who is ''as God'' to him; Two
-    brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging and seeks to
-    kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind; God calls Israel
-    ''my firstborn son'' and threatens the oppressor''s firstborn; The people believe the prophet''s signs
-    and bow in worship; Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'';
-    The called prophet raises objections (who am I, they won''t believe, I can''t speak, send someone
-    else); Hero may return home because those seeking his life are dead; Wife cuts off her son''s foreskin
-    with a flint and touches it to the threatened man; The hero carries ''the staff of God'' with which
-    he performs signs.'
+    of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
+    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
+    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
+    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
+    man; The hero carries ''the staff of God'' with which he performs signs; The prophet asks that his
+    brother be made his helper (wazīr) and partner in his mission [divergence between the texts]; What
+    Moses demands of Pharaoh in God''s name [divergence between the texts]; God taught humankind by the
+    pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him
+    [divergence between the texts]; and 14 more.'
   basis: reading
-- text: 'Only in Moses before Pharaoh, the magicians and the plagues: Prophet''s wonders are imitated
-    by the king''s magicians in a contest; Pharaoh''s people are struck with years of drought and lack
-    of fruits before the plagues; Enemies attribute their misfortune to the prophet as a bad omen (tatayyur);
-    their omen is with God; King asks the prophet to intercede with God to remove a plague; Ruler orders
-    the killing of male infants; Prophet delivers God''s demand ''Let my people go that they may serve
-    me''; The magicians'' spell bewitches the people''s eyes and terrifies them; The court magicians ask
-    the king for a reward if they win and are promised closeness; Magicians fail to imitate a wonder and
-    confess ''This is the finger of God''; The defeated magicians fall prostrate and declare faith in
-    the Lord of Moses and Aaron; The magicians offer the prophet to throw first; he tells them to throw;
-    Threatened believers say ''to our Lord we return'' and pray for patience and to die as muslims; The
-    meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu arets);
-    The king breaks his promise to release the people once a plague is lifted; Pharaoh is said to have
-    his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a flood (tufan); Frogs
-    swarm out of the river into houses, beds, ovens and kneading-troughs; The dust of the earth becomes
-    lice on man and beast; Locusts brought by an east wind devour all vegetation left after the hail;
-    The prophet''s staff-serpent swallows the magicians'' staff-serpents; The returning waters drown the
-    pursuing army; not one survives; The tyrant threatens to cut off hands and feet on opposite sides
-    and crucify the converts.'
+- text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
+    years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
+    prophet as a bad omen (tatayyur); their omen is with God; The magicians'' spell bewitches the people''s
+    eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
+    is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
+    flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
+    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
+    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
+    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
+    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
+    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 20 more.'
   basis: reading
 - text: 'Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: tagged by Claude
     (model), reading the Hebrew.'

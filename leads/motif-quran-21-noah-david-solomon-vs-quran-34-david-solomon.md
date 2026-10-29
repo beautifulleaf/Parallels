@@ -94,6 +94,9 @@ passages:
   text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ
     ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: God taught David the craft of making coats of mail (weight 6.7);
     Mountains and birds are made to glorify God together with David (weight 6.3); The stormy wind is subjected
     to Solomon, blowing at his command (weight 6.3); Devils (shayāṭīn) and jinn labor for Solomon, diving

@@ -3,7 +3,7 @@ id: motif-hb-exod-2-moses-birth-flight-midian-vs-quran-moses-infancy
 title: Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel's cry ↔ The infant
   Moses in the Quran
 summary: 'These two units share 6 motifs: infant''s sister watches over him, infant adopted by a royal
-  woman, infant returned to his own mother to nurse, sister offers to find a nurse….'
+  woman, sister offers to find a nurse, infant returned to his own mother to nurse….'
 status: new
 relations:
 - transmission
@@ -17,10 +17,10 @@ layers:
 motifs:
 - sister-watches
 - adopted-by-royal-woman
-- returned-to-own-mother
 - sister-offers-nurse
-- found-by-royal-household
+- returned-to-own-mother
 - infant-set-adrift
+- found-by-royal-household
 passages:
 - tradition: judaism
   ref: Exod 2:4
@@ -48,34 +48,6 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّى وَلَكَ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ
     أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ
-- tradition: judaism
-  ref: Exod 2:8
-  note: Infant returned to his own mother to nurse (mother paid wages to nurse her own son)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּֽאמֶר לָ֥הּ בַּת פַּרְעֹ֖ה לֵ֑כִי וַתֵּ֨לֶךְ֙ הָֽעַלְמָ֔ה וַתִּקְרָ֖א אֶת אֵ֥ם הַיָּֽלֶד
-- tradition: judaism
-  ref: Exod 2:9
-  note: Infant returned to his own mother to nurse (mother paid wages to nurse her own son)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֧אמֶר לָ֣הּ בַּת פַּרְעֹ֗ה הֵילִ֜יכִי אֶת הַיֶּ֤לֶד הַזֶּה֙ וְהֵינִקִ֣הוּ לִ֔י וַאֲנִ֖י אֶתֵּ֣ן
-    אֶת שְׂכָרֵ֑ךְ וַתִּקַּ֧ח הָאִשָּׁ֛ה הַיֶּ֖לֶד וַתְּנִיקֵֽהוּ
-- tradition: islam
-  ref: Quran 20:40
-  note: Infant returned to his own mother to nurse
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
-    أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ
-    فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 28:13
-  note: Infant returned to his own mother to nurse
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ
-    ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 - tradition: judaism
   ref: Exod 2:7
   note: Sister offers to find a nurse
@@ -105,26 +77,33 @@ passages:
   text: وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ
     يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
 - tradition: judaism
-  ref: Exod 2:5
-  note: Infant found by members of a royal household (Pharaoh's daughter bathing in the Nile)
+  ref: Exod 2:8
+  note: Infant returned to his own mother to nurse (mother paid wages to nurse her own son)
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַתֵּ֤רֶד בַּת פַּרְעֹה֙ לִרְחֹ֣ץ עַל הַיְאֹ֔ר וְנַעֲרֹתֶ֥יהָ הֹלְכֹ֖ת עַל יַ֣ד הַיְאֹ֑ר וַתֵּ֤רֶא
-    אֶת הַתֵּבָה֙ בְּת֣וֹךְ הַסּ֔וּף וַתִּשְׁלַ֥ח אֶת אֲמָתָ֖הּ וַתִּקָּחֶֽהָ
+  text: וַתֹּֽאמֶר לָ֥הּ בַּת פַּרְעֹ֖ה לֵ֑כִי וַתֵּ֨לֶךְ֙ הָֽעַלְמָ֔ה וַתִּקְרָ֖א אֶת אֵ֥ם הַיָּֽלֶד
 - tradition: judaism
-  ref: Exod 2:6
-  note: Infant found by members of a royal household (Pharaoh's daughter bathing in the Nile)
+  ref: Exod 2:9
+  note: Infant returned to his own mother to nurse (mother paid wages to nurse her own son)
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּפְתַּח֙ וַתִּרְאֵ֣הוּ אֶת הַיֶּ֔לֶד וְהִנֵּה נַ֖עַר בֹּכֶ֑ה וַתַּחְמֹ֣ל עָלָ֔יו וַתֹּ֕אמֶר
-    מִיַּלְדֵ֥י הָֽעִבְרִ֖ים זֶֽה
+  text: וַתֹּ֧אמֶר לָ֣הּ בַּת פַּרְעֹ֗ה הֵילִ֜יכִי אֶת הַיֶּ֤לֶד הַזֶּה֙ וְהֵינִקִ֣הוּ לִ֔י וַאֲנִ֖י אֶתֵּ֣ן
+    אֶת שְׂכָרֵ֑ךְ וַתִּקַּ֧ח הָאִשָּׁ֛ה הַיֶּ֖לֶד וַתְּנִיקֵֽהוּ
 - tradition: islam
-  ref: Quran 28:8
-  note: Infant found by members of a royal household
+  ref: Quran 20:40
+  note: Infant returned to his own mother to nurse
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ
-    وَجُنُودَهُمَا كَانُوا۟ خَٰطِـِٔينَ
+  text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
+    أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ
+    فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
+- tradition: islam
+  ref: Quran 28:13
+  note: Infant returned to his own mother to nurse
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ
+    ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 - tradition: judaism
   ref: Exod 2:3
   note: Infant placed in a container and set on the water
@@ -146,26 +125,47 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى
     ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
+- tradition: judaism
+  ref: Exod 2:5
+  note: Infant found by members of a royal household (Pharaoh's daughter bathing in the Nile)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתֵּ֤רֶד בַּת פַּרְעֹה֙ לִרְחֹ֣ץ עַל הַיְאֹ֔ר וְנַעֲרֹתֶ֥יהָ הֹלְכֹ֖ת עַל יַ֣ד הַיְאֹ֑ר וַתֵּ֤רֶא
+    אֶת הַתֵּבָה֙ בְּת֣וֹךְ הַסּ֔וּף וַתִּשְׁלַ֥ח אֶת אֲמָתָ֖הּ וַתִּקָּחֶֽהָ
+- tradition: judaism
+  ref: Exod 2:6
+  note: Infant found by members of a royal household (Pharaoh's daughter bathing in the Nile)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתִּפְתַּח֙ וַתִּרְאֵ֣הוּ אֶת הַיֶּ֔לֶד וְהִנֵּה נַ֖עַר בֹּכֶ֑ה וַתַּחְמֹ֣ל עָלָ֔יו וַתֹּ֕אמֶר
+    מִיַּלְדֵ֥י הָֽעִבְרִ֖ים זֶֽה
+- tradition: islam
+  ref: Quran 28:8
+  note: Infant found by members of a royal household
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ
+    وَجُنُودَهُمَا كَانُوا۟ خَٰطِـِٔينَ
 evidence:
 - text: 'Shared motifs, rarest first: Infant''s sister watches over him (weight 6.0); Infant adopted by
-    a royal woman (weight 6.0); Infant returned to his own mother to nurse (weight 5.8); Sister offers
-    to find a nurse (weight 5.8); Infant found by members of a royal household (weight 5.8); Infant placed
-    in a container and set on the water (weight 5.6). Pair score 34.9.'
+    a royal woman (weight 6.0); Sister offers to find a nurse (weight 5.8); Infant returned to his own
+    mother to nurse (weight 5.8); Infant placed in a container and set on the water (weight 5.6); Infant
+    found by members of a royal household (weight 5.6). Pair score 34.7.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
-    The groaning of the oppressed rises to God, who hears and remembers his covenant; Hero flees the king''s
-    death sentence to a foreign land; Hero kills an oppressor beating a kinsman and hides the body in
-    the sand; Hero drives off shepherds and waters the flock of women at a well; Host runs to welcome
-    strangers, washes their feet and feeds them; The foundling''s weeping moves the finder to compassion;
-    The hero''s parents are introduced anonymously as a Levite man and a Levite woman; Hero meets his
-    future wife at a well; Mother hides the infant; Mother sees that her newborn ''is good'' (ki tov);
-    Name explained by being drawn from water; The container is made of reeds or papyrus; Hero names his
-    son for being a stranger in a foreign land; Vessel sealed with pitch or bitumen; Kinsman rebuffs the
-    hero: ''Who made you prince and judge over us?''.'
+    The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
+    as a Levite man and a Levite woman; Mother sees that her newborn ''is good'' (ki tov); Hero names
+    his son for being a stranger in a foreign land; Infant adopted by a royal woman [divergence between
+    the texts]; The groaning of the oppressed rises to God, who hears and remembers his covenant; Hero
+    kills an oppressor beating a kinsman and hides the body in the sand; Hero drives off shepherds and
+    waters the flock of women at a well; How Moses learns that his life is sought [divergence between
+    the texts]; How Moses killed the Egyptian [divergence between the texts]; What the Midianite daughters
+    do after Moses helps them [divergence between the texts]; Moses helps the women at the water of Midian
+    [divergence between the texts]; and 20 more.'
   basis: reading
-- text: 'Only in The infant Moses in the Quran: Foster parent says: perhaps he will benefit us, or we
-    will take him as a son; Infant refuses other wet nurses; Ruler orders the killing of male infants;
-    Mother receives divine instruction about the infant.'
+- text: 'Only in The infant Moses in the Quran: Infant refuses other wet nurses; Mother receives divine
+    instruction about the infant; Foster parent says: perhaps he will benefit us, or we will take him
+    as a son; Ruler orders the killing of male infants.'
   basis: reading
 - text: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry: tagged by
     Claude (model), reading the Hebrew.'

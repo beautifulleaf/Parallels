@@ -89,10 +89,10 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Hero blames the largest idol for the destruction (weight 6.3); The
+- text: 'Shared motifs, rarest first: Hero blames the largest idol for the destruction (weight 6.0); The
     fire does not harm the hero (weight 5.8); Hero smashes or burns idols (weight 5.6); Hero thrown into
     a fire or furnace by a king or people (weight 5.3); Hero''s father makes, sells or worships idols
-    (weight 4.8). Pair score 27.8.'
+    (weight 4.8). Pair score 27.5.'
   basis: reading
 - text: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): tagged by Claude (model), from secondary
     knowledge.'

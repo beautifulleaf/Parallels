@@ -55,24 +55,24 @@ evidence:
     5.1); God leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1).
     Pair score 10.2.'
   basis: reading
-- text: 'Only in The spies episode retold: Caleb has ''another spirit'' and follows God fully; Children
-    ''who do not yet know good and evil'' will inherit; Cities ''great and fortified up to heaven''; Whole
-    adult generation condemned to die in the desert; only children enter; Giant descendants (Anakim /
-    Nephilim) inhabit the land; God carried Israel in the wilderness as a man carries his son; The great
-    leader is denied entry into the promised land for a lapse; People attack without God''s ark or leader
-    and are routed; Enemy chased them ''as bees do''; Twelve men sent to scout the promised land.'
+- text: 'Only in The spies episode retold: Children ''who do not yet know good and evil'' will inherit;
+    The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence between
+    the texts]; God carried Israel in the wilderness as a man carries his son; People attack without God''s
+    ark or leader and are routed; Enemy chased them ''as bees do''; Caleb has ''another spirit'' and follows
+    God fully; Cities ''great and fortified up to heaven''; Whole adult generation condemned to die in
+    the desert; only children enter; Twelve men sent to scout the promised land; Giant descendants (Anakim
+    / Nephilim) inhabit the land; The great leader is denied entry into the promised land for a lapse.'
   basis: reading
-- text: 'Only in Exodus, the calf and the wilderness: Longing for fish, cucumbers, melons, leeks, onions
-    and garlic of Egypt; Israel told to enter the town''s gate prostrating and say ''hitta'' (remission);
-    the wrongdoers change the word; A prophet spends forty days and forty nights in a set period; People
-    make a molten calf while the leader is on the mountain; Ruler orders the killing of male infants;
-    The Levites kill idolaters including their own kin and are consecrated for it; Manna, unknown food
-    from heaven; No human can see God''s face and live; Israel killed the prophets who warned them; The
-    returning waters drown the pursuing army; not one survives; Wind brings quail in vast quantity to
-    feed the people; Prophet stretches his staff over the sea and God splits it with a strong east wind;
-    Israelites who demanded to see God are struck by a thunderbolt and then raised after their death;
-    Oasis with twelve springs and seventy palm trees; Prophet strikes a rock and water flows out for the
-    people.'
+- text: 'Only in Exodus, the calf and the wilderness: Israelites who demanded to see God are struck by
+    a thunderbolt and then raised after their death; Who or what parts the sea [divergence between the
+    texts]; Israel''s belief or disbelief in Moses after the sea [divergence between the texts]; The cloud
+    over Israel in the wilderness: guide or shade [divergence between the texts]; Longing for fish, cucumbers,
+    melons, leeks, onions and garlic of Egypt; Longing for fish, cucumbers, melons, leeks, onions and
+    garlic of Egypt [divergence between the texts]; God''s pardon after the golden calf [divergence between
+    the texts]; People make a molten calf while the leader is on the mountain [divergence between the
+    texts]; The killing of Israelites after the golden calf [divergence between the texts]; Wind brings
+    quail in vast quantity to feed the people [divergence between the texts]; Humans seeing God [contrast
+    between the texts]; People propose appointing a leader to go back to Egypt; and 16 more.'
   basis: reading
 - text: 'The spies episode retold: tagged by Claude (model), reading the Hebrew.'
   basis: reading

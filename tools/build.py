@@ -16,6 +16,7 @@ import yaml
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LEADS_DIR = ROOT / "leads"
 SITE = ROOT / "site"
+PART_BYTES = 4_000_000
 
 STATUSES = {"new", "investigating", "promising", "rejected"}
 RELATIONS = {"internal", "inheritance", "transmission", "convergence", "response"}
@@ -120,12 +121,33 @@ def main():
 
     payload = {"groups": taxonomy["groups"], "traditions": taxonomy["traditions"], "leads": leads}
     (SITE / "leads.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
-    embedded = json.dumps(payload, ensure_ascii=False).replace("<", "\\u003c")
+    # the page embeds the taxonomy and fetches the leads in parts, which keeps every file under the host's size limit
+    parts_dir = SITE / "data"
+    parts_dir.mkdir(exist_ok=True)
+    for old in parts_dir.glob("leads-*.json"):
+        old.unlink()
+    parts, part, size = [], [], 0
+    for lead in leads:
+        n = len(json.dumps(lead, ensure_ascii=False).encode())
+        if part and size + n > PART_BYTES:
+            parts.append(part)
+            part, size = [], 0
+        part.append(lead)
+        size += n
+    if part:
+        parts.append(part)
+    names = []
+    for i, chunk in enumerate(parts, 1):
+        name = f"data/leads-{i:02d}.json"
+        (SITE / name).write_text(json.dumps(chunk, ensure_ascii=False), encoding="utf-8")
+        names.append(name)
+    shell = {"groups": payload["groups"], "traditions": payload["traditions"], "leads": [], "parts": names}
+    embedded = json.dumps(shell, ensure_ascii=False).replace("<", "\\u003c")
     template = (SITE / "template.html").read_text(encoding="utf-8")
     if "__DATA__" not in template:
         sys.exit("site/template.html is missing the __DATA__ placeholder")
     (SITE / "index.html").write_text(template.replace("__DATA__", embedded, 1), encoding="utf-8")
-    print("wrote site/leads.json and site/index.html")
+    print(f"wrote site/leads.json, site/index.html and {len(names)} part(s) in site/data/")
 
 
 if __name__ == "__main__":

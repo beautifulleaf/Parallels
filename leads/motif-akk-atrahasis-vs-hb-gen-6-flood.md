@@ -96,6 +96,13 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
     מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+- tradition: judaism
+  ref: Gen 6:17
+  note: Hero privately warned of the coming flood by a deity
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+    בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
 - tradition: ane-akkadian
   ref: 'Atrahasis: Tablet III'
   note: Hero's family saved with him

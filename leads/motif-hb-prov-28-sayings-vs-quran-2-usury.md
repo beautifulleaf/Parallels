@@ -5,8 +5,8 @@ summary: 'These two units share 2 motifs: he who increases wealth by interest an
   one who is gracious to the poor, do not charge interest to the poor of my people.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -52,31 +52,36 @@ passages:
   text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن
     كُنتُم مُّؤْمِنِينَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    parallel. Same root, same reversal: Prov 28:8 marbeh hônô bĕ-nešek û-ba-tarbît lĕ-ḥônēn dallîm yiqbĕṣennû:
+    wealth increased (marbeh) by interest and increase (tarbît) ends up with the one kind to the poor;
+    Q 2:276 yamḥaqu llāhu r-ribā wa-yurbī ṣ-ṣadaqāti: God wipes out usury (ribā) and makes alms grow (yurbī).
+    r-b-y in both, turned against the usurer.'
+  basis: reading
 - text: 'Shared motifs, rarest first: He who increases wealth by interest and usury gathers it for one
     who is gracious to the poor (weight 6.3); Do not charge interest to the poor of my people (weight
     5.8). Pair score 12.1.'
   basis: reading
-- text: 'Only in Sayings on torah, rulers, usury and confession: ''Better is X than Y'' comparative saying
-    (tov ... min); A man burdened with the blood of a life will flee to the pit; let no one support him;
-    He who conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain
-    mercy; He who digs a pit or hides a net is caught in it himself; The diligent hand makes rich and
-    rules; the slack hand brings poverty and forced labor; He who gives to the poor will not lack, but
-    he who hides his eyes will get many curses; The ''good of eye'' (generous) is blessed; the ''evil
-    of eye'' (stingy, envious) is to be shunned; A faithful man has many blessings, but he who hastens
-    to be rich will not go unpunished; He who is greedy for gain troubles his house, but he who hates
-    gifts (bribes) will live; When a land transgresses it has many rulers; with a man of understanding
-    it endures; A poor man who oppresses the poor is like a beating rain that leaves no food; Showing
-    partiality in judgment is not good; he who tells the wicked ''you are righteous'' is cursed by peoples;
-    When the wicked rise men hide themselves; when they perish the righteous increase; He who turns his
-    ear from hearing the torah, even his prayer is an abomination; He who robs his father or mother and
-    says ''It is no transgression'' is companion to a destroyer; Those who forsake the torah praise the
-    wicked; those who keep the torah contend with them; The wicked flee when no one pursues, but the righteous
-    are bold as a lion; A wicked ruler over a poor people is a roaring lion and a charging bear.'
+- text: 'Only in Sayings on torah, rulers, usury and confession: A man burdened with the blood of a life
+    will flee to the pit; let no one support him; He who conceals his transgressions will not prosper,
+    but he who confesses and forsakes them will obtain mercy; A faithful man has many blessings, but he
+    who hastens to be rich will not go unpunished; When a land transgresses it has many rulers; with a
+    man of understanding it endures; A poor man who oppresses the poor is like a beating rain that leaves
+    no food; When the wicked rise men hide themselves; when they perish the righteous increase; He who
+    turns his ear from hearing the torah, even his prayer is an abomination; He who robs his father or
+    mother and says ''It is no transgression'' is companion to a destroyer; Those who forsake the torah
+    praise the wicked; those who keep the torah contend with them; The wicked flee when no one pursues,
+    but the righteous are bold as a lion; A wicked ruler over a poor people is a roaring lion and a charging
+    bear; He who gives to the poor will not lack, but he who hides his eyes will get many curses; and
+    6 more.'
   basis: reading
 - text: 'Only in Usury: God blots out usury and makes charity grow; A debtor in hardship is given respite
     until ease; remitting it as charity is better; Trade is like usury, they say; but God permitted trade
     and forbade usury (riba); Those who consume usury rise like one driven mad by Satan''s touch; Those
-    who do not give up usury are warned of war from God and his messenger; they keep their principal.'
+    who do not give up usury are warned of war from God and his messenger; they keep their principal;
+    Whether obligations differ toward insiders and outsiders [contrast between the texts]; Relief of debtors:
+    release or respite [divergence between the texts]; To whom and how widely the ban on interest applies
+    [divergence between the texts]; Lending at interest or increase to a poor brother is forbidden.'
   basis: reading
 - text: 'Sayings on torah, rulers, usury and confession: tagged by Claude (model), reading the Hebrew.'
   basis: reading

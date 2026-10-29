@@ -1,0 +1,96 @@
+---
+id: motif-hb-isa-2-mountain-and-day-of-yhwh-vs-quran-109-111-disbelievers-help-flame
+title: The mountain of the Lord's house; the Day of YHWH against all that is proud ↔ The disbelievers,
+  the help, and the flame
+summary: 'These two units share 1 motifs: when god''s help and the opening (al-fath) come, people enter
+  god''s religion in crowds; the prophet is to glorify and seek forgiveness.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- people-enter-religion-in-crowds
+passages:
+- tradition: judaism
+  ref: Isa 2:2
+  note: 'When God''s help and the opening (al-fath) come, people enter God''s religion in crowds; the
+    prophet is to glorify and seek forgiveness (idhā jāʾa naṣru llāhi wa-l-fatḥu wa-raʾayta n-nāsa yadkhulūna
+    fī dīni llāhi afwājan ~ we-nāharû ʾēlāyw kol ha-ggôyim we-hālekû ʿammîm rabbîm ... wi-yōrēnû mi-ddrākāyw:
+    peoples streaming in to God''s way. Isaiah''s is eschatological and centered on Zion, the Quran''s
+    is the Prophet''s own lifetime.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהָיָ֣ה בְּאַחֲרִ֣ית הַיָּמִ֗ים נָכ֨וֹן יִֽהְיֶ֜ה הַ֤ר בֵּית יְהוָה֙ בְּרֹ֣אשׁ הֶהָרִ֔ים וְנִשָּׂ֖א
+    מִגְּבָע֑וֹת וְנָהֲר֥וּ אֵלָ֖יו כָּל הַגּוֹיִֽם
+- tradition: judaism
+  ref: Isa 2:3
+  note: 'When God''s help and the opening (al-fath) come, people enter God''s religion in crowds; the
+    prophet is to glorify and seek forgiveness (idhā jāʾa naṣru llāhi wa-l-fatḥu wa-raʾayta n-nāsa yadkhulūna
+    fī dīni llāhi afwājan ~ we-nāharû ʾēlāyw kol ha-ggôyim we-hālekû ʿammîm rabbîm ... wi-yōrēnû mi-ddrākāyw:
+    peoples streaming in to God''s way. Isaiah''s is eschatological and centered on Zion, the Quran''s
+    is the Prophet''s own lifetime.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְֽהָלְכ֞וּ עַמִּ֣ים רַבִּ֗ים וְאָמְרוּ֙ לְכ֣וּ וְנַעֲלֶ֣ה אֶל הַר יְהוָ֗ה אֶל בֵּית֙ אֱלֹהֵ֣י
+    יַעֲקֹ֔ב וְיֹרֵ֨נוּ֙ מִדְּרָכָ֔יו וְנֵלְכָ֖ה בְּאֹרְחֹתָ֑יו כִּ֤י מִצִּיּוֹן֙ תֵּצֵ֣א תוֹרָ֔ה וּדְבַר
+    יְהוָ֖ה מִירוּשָׁלִָֽם
+- tradition: islam
+  ref: Quran 110:1
+  note: When God's help and the opening (al-fath) come, people enter God's religion in crowds; the prophet
+    is to glorify and seek forgiveness
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ
+- tradition: islam
+  ref: Quran 110:2
+  note: When God's help and the opening (al-fath) come, people enter God's religion in crowds; the prophet
+    is to glorify and seek forgiveness
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    echo. idhā jāʾa naṣru llāhi wa-l-fatḥu wa-raʾayta n-nāsa yadkhulūna fī dīni llāhi afwājan ~ we-nāharû
+    ʾēlāyw kol ha-ggôyim we-hālekû ʿammîm rabbîm ... wi-yōrēnû mi-ddrākāyw: peoples streaming in to God''s
+    way. Isaiah''s is eschatological and centered on Zion, the Quran''s is the Prophet''s own lifetime.'
+  basis: reading
+- text: 'Shared motifs, rarest first: When God''s help and the opening (al-fath) come, people enter God''s
+    religion in crowds; the prophet is to glorify and seek forgiveness (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in The mountain of the Lord''s house; the Day of YHWH against all that is proud: Stop trusting
+    man, who has only breath in his nostrils; On that day people throw their silver and gold idols to
+    the moles and bats and flee into clefts of the rocks; Foreign priests and diviners advise how to appease
+    the God of Israel; On God''s day all that is lofty (cedars of Lebanon, oaks of Bashan, towers, ships
+    of Tarshish) is brought low and God alone exalted; In the latter days the mountain of God''s house
+    will be raised above all mountains and all nations will stream to it; Nations will beat swords into
+    plowshares and spears into pruning hooks and learn war no more; ''From Zion shall go forth Torah and
+    the word of YHWH from Jerusalem''; God shatters the ships of Tarshish with an east wind; God the Judge
+    is called to judge between two nations; People hide in caves, thickets, rocks and pits from an invading
+    army; On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard;
+    Prophecy concerning ''the end of days''; and 2 more.'
+  basis: reading
+- text: 'Only in The disbelievers, the help, and the flame: Curse on Abu Lahab (''father of flame''):
+    his hands perish, he will burn in a fire of flame, and his wife carries firewood with a rope of palm
+    fiber (masad) on her neck; Repeated mutual disavowal: ''I do not worship what you worship, nor do
+    you worship what I worship''; ''to you your religion and to me mine''; Foreign daughter-in-law swears
+    to follow her mother-in-law: your people my people, your God my God [contrast between the texts];
+    A person''s name declared to match his character: ''as his name is, so is he''; Wealth does not profit
+    on the day of wrath.'
+  basis: reading
+- text: 'The mountain of the Lord''s house; the Day of YHWH against all that is proud: tagged by Claude
+    (model), reading the Hebrew.'
+  basis: reading
+- text: 'The disbelievers, the help, and the flame: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

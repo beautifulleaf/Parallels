@@ -2,14 +2,15 @@
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-26-moses-and-pharaoh
 title: The pursuit and the parting of the sea ↔ Moses and Pharaoh disputing; the magicians; the sea split
   like mountains
-summary: 'These two units share 4 motifs: king regrets releasing the slaves and pursues them with chariots,
-  prophet stretches his staff over the sea and god splits it with a strong east wind, the people walk
-  on dry ground through the sea with the waters as a wall on either side, the returning waters drown the
-  pursuing army; not one survives.'
+summary: 'These two units share 9 motifs: how the sea was split for the crossing [divergence between the
+  texts], the king musters his whole force to pursue the departing people, why pharaoh pursues the departing
+  israelites [divergence between the texts], whether those who saw the sea miracle believed [divergence
+  between the texts]….'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -17,11 +18,181 @@ traditions:
 layers:
 - motif
 motifs:
+- how-the-sea-was-split-as-divergence
+- enemy-army-gathered-from-cities
+- motive-for-pharaohs-pursuit-as-divergence
+- response-to-the-sea-miracle-as-divergence
+- stand-still-and-see-salvation
 - king-regrets-release-and-pursues
 - sea-split-by-staff-and-east-wind
 - walk-on-dry-ground-waters-as-walls
 - pursuers-drowned-in-sea
 passages:
+- tradition: judaism
+  ref: Exod 14:16
+  note: 'How the sea was split for the crossing [divergence between the texts] (an iḍrib bi-ʿaṣāka l-baḥra
+    fa-nfalaqa ~ hārēm ʾet maṭṭəkā û-nəṭēh ʾet yādəkā ʿal hay-yām û-vəqāʿēhû ... wa-yyôlekh YHWH ʾet hay-yām
+    bə-rûaḥ qādîm ʿazzâ kol hal-laylâ: the split (infalaqa / vāqaʿ) follows the staff in both, but the
+    Quran has Moses strike the sea, and it splits at once; the strong east wind blowing all night is gone.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאַתָּ֞ה הָרֵ֣ם אֶֽת מַטְּךָ֗ וּנְטֵ֧ה אֶת יָדְךָ֛ עַל הַיָּ֖ם וּבְקָעֵ֑הוּ וְיָבֹ֧אוּ בְנֵֽי
+    יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָֽׁה
+- tradition: judaism
+  ref: Exod 14:21
+  note: 'How the sea was split for the crossing [divergence between the texts] (an iḍrib bi-ʿaṣāka l-baḥra
+    fa-nfalaqa ~ hārēm ʾet maṭṭəkā û-nəṭēh ʾet yādəkā ʿal hay-yām û-vəqāʿēhû ... wa-yyôlekh YHWH ʾet hay-yām
+    bə-rûaḥ qādîm ʿazzâ kol hal-laylâ: the split (infalaqa / vāqaʿ) follows the staff in both, but the
+    Quran has Moses strike the sea, and it splits at once; the strong east wind blowing all night is gone.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
+    כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
+- tradition: islam
+  ref: Quran 26:63
+  note: 'How the sea was split for the crossing [divergence between the texts] (an iḍrib bi-ʿaṣāka l-baḥra
+    fa-nfalaqa ~ hārēm ʾet maṭṭəkā û-nəṭēh ʾet yādəkā ʿal hay-yām û-vəqāʿēhû ... wa-yyôlekh YHWH ʾet hay-yām
+    bə-rûaḥ qādîm ʿazzâ kol hal-laylâ: the split (infalaqa / vāqaʿ) follows the staff in both, but the
+    Quran has Moses strike the sea, and it splits at once; the strong east wind blowing all night is gone.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ
+    كَٱلطَّوْدِ ٱلْعَظِيمِ
+- tradition: judaism
+  ref: Exod 14:6
+  note: 'The king musters his whole force to pursue the departing people (fa-arsala Firʿawnu fī l-madāʾini
+    ḥāshirīna ~ wa-yyeʾsōr ʾet rikbô wə-ʾet ʿammô lāqaḥ ʿimmô wa-yyiqqaḥ šēš mēʾôt rekhev bāḥûr: Pharaoh
+    musters his force; Exodus counts chariots, the Quran sends heralds to the cities.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֶּאְסֹ֖ר אֶת רִכְבּ֑וֹ וְאֶת עַמּ֖וֹ לָקַ֥ח עִמּֽוֹ
+- tradition: judaism
+  ref: Exod 14:7
+  note: 'The king musters his whole force to pursue the departing people (fa-arsala Firʿawnu fī l-madāʾini
+    ḥāshirīna ~ wa-yyeʾsōr ʾet rikbô wə-ʾet ʿammô lāqaḥ ʿimmô wa-yyiqqaḥ šēš mēʾôt rekhev bāḥûr: Pharaoh
+    musters his force; Exodus counts chariots, the Quran sends heralds to the cities.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקַּ֗ח שֵׁשׁ מֵא֥וֹת רֶ֨כֶב֙ בָּח֔וּר וְכֹ֖ל רֶ֣כֶב מִצְרָ֑יִם וְשָׁלִשִׁ֖ם עַל כֻּלּֽוֹ
+- tradition: islam
+  ref: Quran 26:53
+  note: 'The king musters his whole force to pursue the departing people (fa-arsala Firʿawnu fī l-madāʾini
+    ḥāshirīna ~ wa-yyeʾsōr ʾet rikbô wə-ʾet ʿammô lāqaḥ ʿimmô wa-yyiqqaḥ šēš mēʾôt rekhev bāḥûr: Pharaoh
+    musters his force; Exodus counts chariots, the Quran sends heralds to the cities.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَرْسَلَ فِرْعَوْنُ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
+- tradition: islam
+  ref: Quran 26:56
+  note: 'The king musters his whole force to pursue the departing people (fa-arsala Firʿawnu fī l-madāʾini
+    ḥāshirīna ~ wa-yyeʾsōr ʾet rikbô wə-ʾet ʿammô lāqaḥ ʿimmô wa-yyiqqaḥ šēš mēʾôt rekhev bāḥûr: Pharaoh
+    musters his force; Exodus counts chariots, the Quran sends heralds to the cities.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَإِنَّا لَجَمِيعٌ حَٰذِرُونَ
+- tradition: judaism
+  ref: Exod 14:4
+  note: 'Why Pharaoh pursues the departing Israelites [divergence between the texts] (Motive for the pursuit:
+    Exodus gives Pharaoh''s regret (mah zōʾt ʿāśînû kî šillaḥnû ʾet Yiśrāʾēl mēʿovdēnû) and God hardening
+    his heart so he will pursue and God be glorified (wə-ḥizzaqtî ʾet lēv Parʿōh wə-rādaf ʾaḥărêhem wə-ʾikkāvədâ
+    bə-Farʿōh); Q 26:52 says only that God warned Moses ''innakum muttabaʿūn'', and 26:54-55 gives Pharaoh''s
+    contempt (la-shirdhimatun qalīlūna ... la-ghāʾiẓūn). There is no regret over losing slaves and no
+    hardening.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְחִזַּקְתִּ֣י אֶת לֵב פַּרְעֹה֮ וְרָדַ֣ף אַחֲרֵיהֶם֒ וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכָל חֵיל֔וֹ
+    וְיָדְע֥וּ מִצְרַ֖יִם כִּֽי אֲנִ֣י יְהוָ֑ה וַיַּֽעֲשׂוּ כֵֽן
+- tradition: judaism
+  ref: Exod 14:5
+  note: 'Why Pharaoh pursues the departing Israelites [divergence between the texts] (Motive for the pursuit:
+    Exodus gives Pharaoh''s regret (mah zōʾt ʿāśînû kî šillaḥnû ʾet Yiśrāʾēl mēʿovdēnû) and God hardening
+    his heart so he will pursue and God be glorified (wə-ḥizzaqtî ʾet lēv Parʿōh wə-rādaf ʾaḥărêhem wə-ʾikkāvədâ
+    bə-Farʿōh); Q 26:52 says only that God warned Moses ''innakum muttabaʿūn'', and 26:54-55 gives Pharaoh''s
+    contempt (la-shirdhimatun qalīlūna ... la-ghāʾiẓūn). There is no regret over losing slaves and no
+    hardening.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֻּגַּד֙ לְמֶ֣לֶךְ מִצְרַ֔יִם כִּ֥י בָרַ֖ח הָעָ֑ם וַ֠יֵּהָפֵךְ לְבַ֨ב פַּרְעֹ֤ה וַעֲבָדָיו֙
+    אֶל הָעָ֔ם וַיֹּֽאמרוּ֙ מַה זֹּ֣את עָשִׂ֔ינוּ כִּֽי שִׁלַּ֥חְנוּ אֶת יִשְׂרָאֵ֖ל מֵעָבְדֵֽנוּ
+- tradition: islam
+  ref: Quran 26:52
+  note: 'Why Pharaoh pursues the departing Israelites [divergence between the texts] (Motive for the pursuit:
+    Exodus gives Pharaoh''s regret (mah zōʾt ʿāśînû kî šillaḥnû ʾet Yiśrāʾēl mēʿovdēnû) and God hardening
+    his heart so he will pursue and God be glorified (wə-ḥizzaqtî ʾet lēv Parʿōh wə-rādaf ʾaḥărêhem wə-ʾikkāvədâ
+    bə-Farʿōh); Q 26:52 says only that God warned Moses ''innakum muttabaʿūn'', and 26:54-55 gives Pharaoh''s
+    contempt (la-shirdhimatun qalīlūna ... la-ghāʾiẓūn). There is no regret over losing slaves and no
+    hardening.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِىٓ إِنَّكُم مُّتَّبَعُونَ
+- tradition: islam
+  ref: Quran 26:53
+  note: 'Why Pharaoh pursues the departing Israelites [divergence between the texts] (Motive for the pursuit:
+    Exodus gives Pharaoh''s regret (mah zōʾt ʿāśînû kî šillaḥnû ʾet Yiśrāʾēl mēʿovdēnû) and God hardening
+    his heart so he will pursue and God be glorified (wə-ḥizzaqtî ʾet lēv Parʿōh wə-rādaf ʾaḥărêhem wə-ʾikkāvədâ
+    bə-Farʿōh); Q 26:52 says only that God warned Moses ''innakum muttabaʿūn'', and 26:54-55 gives Pharaoh''s
+    contempt (la-shirdhimatun qalīlūna ... la-ghāʾiẓūn). There is no regret over losing slaves and no
+    hardening.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَرْسَلَ فِرْعَوْنُ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
+- tradition: judaism
+  ref: Exod 14:31
+  note: 'Whether those who saw the sea miracle believed [divergence between the texts] (Ending of the
+    sea story: Exod 14:31 wa-yyîrəʾû hā-ʿām ʾet YHWH wa-yyaʾămînû ba-YHWH û-və-Mōše ʿavdô, the people
+    believe, and the Song follows (15:1). The Quran''s refrain: inna fī dhālika la-āyatan wa-mā kāna aktharuhum
+    muʾminīna, a sign, yet most of them did not believe. Faith at the sea becomes unbelief despite the
+    sign, aimed at the Quran''s own audience.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ בְּמִצְרַ֔יִם וַיִּֽירְא֥וּ
+    הָעָ֖ם אֶת יְהוָ֑ה וַיַּֽאֲמִ֨ינוּ֙ בַּֽיהוָ֔ה וּבְמֹשֶׁ֖ה עַבְדּֽוֹ
+- tradition: islam
+  ref: Quran 26:67
+  note: 'Whether those who saw the sea miracle believed [divergence between the texts] (Ending of the
+    sea story: Exod 14:31 wa-yyîrəʾû hā-ʿām ʾet YHWH wa-yyaʾămînû ba-YHWH û-və-Mōše ʿavdô, the people
+    believe, and the Song follows (15:1). The Quran''s refrain: inna fī dhālika la-āyatan wa-mā kāna aktharuhum
+    muʾminīna, a sign, yet most of them did not believe. Faith at the sea becomes unbelief despite the
+    sign, aimed at the Quran''s own audience.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّ فِى ذَٰلِكَ لَءَايَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ
+- tradition: judaism
+  ref: Exod 14:13
+  note: '''Stand still and see the salvation of YHWH; YHWH will fight for you'' (''YHWH will fight for
+    you; you keep silent'')'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל הָעָם֮ אַל תִּירָאוּ֒ הִֽתְיַצְב֗וּ וּרְאוּ֙ אֶת יְשׁוּעַ֣ת יְהוָ֔ה אֲשֶׁר
+    יַעֲשֶׂ֥ה לָכֶ֖ם הַיּ֑וֹם כִּ֗י אֲשֶׁ֨ר רְאִיתֶ֤ם אֶת מִצְרַ֨יִם֙ הַיּ֔וֹם לֹ֥א תֹסִ֛יפוּ לִרְאֹתָ֥ם
+    ע֖וֹד עַד עוֹלָֽם
+- tradition: judaism
+  ref: Exod 14:14
+  note: '''Stand still and see the salvation of YHWH; YHWH will fight for you'' (''YHWH will fight for
+    you; you keep silent'')'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: יְהוָ֖ה יִלָּחֵ֣ם לָכֶ֑ם וְאַתֶּ֖ם תַּחֲרִישֽׁוּן
+- tradition: islam
+  ref: Quran 26:61
+  note: '''Stand still and see the salvation of YHWH; YHWH will fight for you'' (qāla aṣḥābu Mūsā innā
+    la-mudrakūna qāla kallā inna maʿiya rabbī sa-yahdīni ~ wə-hinnēh Miṣrayim nōsēaʿ ʾaḥărêhem wa-yyîrəʾû
+    məʾōd ... ʾal tîrāʾû hityaṣṣəvû û-rəʾû ʾet yəšûʿat YHWH: the people see the pursuers and panic, and
+    Moses calms them. In Exodus they complain bitterly (14:11-12); in the Quran they only state ''we are
+    overtaken''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ
+- tradition: islam
+  ref: Quran 26:62
+  note: '''Stand still and see the salvation of YHWH; YHWH will fight for you'' (qāla aṣḥābu Mūsā innā
+    la-mudrakūna qāla kallā inna maʿiya rabbī sa-yahdīni ~ wə-hinnēh Miṣrayim nōsēaʿ ʾaḥărêhem wa-yyîrəʾû
+    məʾōd ... ʾal tîrāʾû hityaṣṣəvû û-rəʾû ʾet yəšûʿat YHWH: the people see the pursuers and panic, and
+    Moses calms them. In Exodus they complain bitterly (14:11-12); in the Quran they only state ''we are
+    overtaken''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ كَلَّآ إِنَّ مَعِىَ رَبِّى سَيَهْدِينِ
 - tradition: judaism
   ref: Exod 14:5
   note: King regrets releasing the slaves and pursues them with chariots (600 chosen chariots with shalishim)
@@ -89,6 +260,12 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ
     كَٱلطَّوْدِ ٱلْعَظِيمِ
+- tradition: islam
+  ref: Quran 26:65
+  note: The people walk on dry ground through the sea with the waters as a wall on either side
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ
 - tradition: judaism
   ref: Exod 14:26
   note: The returning waters drown the pursuing army; not one survives ('not one remained')
@@ -116,46 +293,58 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ
 evidence:
-- text: 'Shared motifs, rarest first: King regrets releasing the slaves and pursues them with chariots
-    (weight 6.3); Prophet stretches his staff over the sea and God splits it with a strong east wind (weight
-    6.3); The people walk on dry ground through the sea with the waters as a wall on either side (weight
-    5.4); The returning waters drown the pursuing army; not one survives (weight 4.6). Pair score 22.6.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    divergence, parallel. Motive for the pursuit: Exodus gives Pharaoh''s regret (mah zōʾt ʿāśînû kî šillaḥnû
+    ʾet Yiśrāʾēl mēʿovdēnû) and God hardening his heart so he will pursue and God be glorified (wə-ḥizzaqtî
+    ʾet lēv Parʿōh wə-rādaf ʾaḥărêhem wə-ʾikkāvədâ bə-Farʿōh); Q 26:52 says only that God warned Moses
+    ''innakum muttabaʿūn'', and 26:54-55 gives Pharaoh''s contempt (la-shirdhimatun qalīlūna ... la-ghāʾiẓūn).
+    There is no regret over losing slaves and no hardening. fa-arsala Firʿawnu fī l-madāʾini ḥāshirīna
+    ~ wa-yyeʾsōr ʾet rikbô wə-ʾet ʿammô lāqaḥ ʿimmô wa-yyiqqaḥ šēš mēʾôt rekhev bāḥûr: Pharaoh musters
+    his force; Exodus counts chariots, the Quran sends heralds to the cities. qāla aṣḥābu Mūsā innā la-mudrakūna
+    qāla kallā inna maʿiya rabbī sa-yahdīni ~ wə-hinnēh Miṣrayim nōsēaʿ ʾaḥărêhem wa-yyîrəʾû məʾōd ...
+    ʾal tîrāʾû hityaṣṣəvû û-rəʾû ʾet yəšûʿat YHWH: the people see the pursuers and panic, and Moses calms
+    them. In Exodus they complain bitterly (14:11-12); in the Quran they only state ''we are overtaken''.
+    an iḍrib bi-ʿaṣāka l-baḥra fa-nfalaqa ~ hārēm ʾet maṭṭəkā û-nəṭēh ʾet yādəkā ʿal hay-yām û-vəqāʿēhû
+    ... wa-yyôlekh YHWH ʾet hay-yām bə-rûaḥ qādîm ʿazzâ kol hal-laylâ: the split (infalaqa / vāqaʿ) follows
+    the staff in both, but the Quran has Moses strike the sea, and it splits at once; the strong east
+    wind blowing all night is gone. fa-nfalaqa ... wa-anjaynā Mūsā wa-man maʿahu ajmaʿīna ~ wa-yyāvōʾû
+    vənê Yiśrāʾēl bə-tôkh hay-yām bay-yabbāšâ wə-ham-mayim lāhem ḥōmâ: passage through the divided sea;
+    the Quran images the waters as mountains (ṭawd), Exodus as a wall (ḥōmâ). thumma aghraqnā l-ākharīna
+    ~ wa-yyāšuvû ham-mayim wa-yəkhassû ʾet hā-rekhev ... lōʾ nišʾar bāhem ʿad ʾeḥād: the waters return
+    over the pursuers and none survives.'
+  basis: reading
+- text: 'Shared motifs, rarest first: How the sea was split for the crossing [divergence between the texts]
+    (weight 6.7); The king musters his whole force to pursue the departing people (weight 6.7); Why Pharaoh
+    pursues the departing Israelites [divergence between the texts] (weight 6.7); Whether those who saw
+    the sea miracle believed [divergence between the texts] (weight 6.7); ''Stand still and see the salvation
+    of YHWH; YHWH will fight for you'' (weight 6.3); King regrets releasing the slaves and pursues them
+    with chariots (weight 6.3); Prophet stretches his staff over the sea and God splits it with a strong
+    east wind (weight 6.0); The people walk on dry ground through the sea with the waters as a wall on
+    either side (weight 5.3); The returning waters drown the pursuing army; not one survives (weight 4.5).
+    Pair score 55.1.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
     Migdol and Pi-hahiroth; God removes or clogs the wheels of the pursuers'' chariots; The rescued people
     see the enemy dead on the seashore; At the morning watch God looks down from the pillar of fire and
     cloud and panics the enemy; God sets a trap so the enemy pursues and is destroyed, gaining glory over
-    him; The king''s heart is hardened (by himself or by God) so he refuses to release the people; After
-    the deliverance the people believe in God and in Moses his servant; The people say it would be better
-    to serve their oppressors than die in the wilderness; ''Stand still and see the salvation of YHWH;
-    YHWH will fight for you''; God tells the praying leader: ''Why do you cry to me? Tell the people to
-    go forward''.'
+    him; After the deliverance the people believe in God and in Moses his servant; The people say it would
+    be better to serve their oppressors than die in the wilderness; God tells the praying leader: ''Why
+    do you cry to me? Tell the people to go forward''; Who or what parts the sea [divergence between the
+    texts]; Israel''s belief or disbelief in Moses after the sea [divergence between the texts]; What
+    becomes of the drowned Pharaoh and his army after the sea [divergence between the texts]; and 12 more.'
   basis: reading
-- text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: An eloquent
-    brother is appointed to speak for the hero, who is ''as God'' to him; Prophet''s wonders are imitated
-    by the king''s magicians in a contest; The departing slaves ask their neighbors for silver, gold and
-    clothing and so plunder their oppressors; God identifies himself as God of Abraham, Isaac and Jacob;
-    Prophet''s hand turns leprous, white as snow, and is restored as a sign; Hero flees the king''s death
-    sentence to a foreign land; Pharaoh calls the Israelites ''a small band'' who enrage him; God expelled
-    the Egyptians from gardens, springs, treasures and fine dwellings and made Israel inherit them; Israelites
-    cannot be sold as slaves because they are God''s servants whom he brought out of Egypt; Prophet delivers
-    God''s demand ''Let my people go that they may serve me''; The court magicians ask the king for a
-    reward if they win and are promised closeness; The defeated magicians fall prostrate and declare faith
-    in the Lord of Moses and Aaron; The magicians'' ropes and staffs appear by sorcery to be moving like
-    snakes; The magicians cast their spells swearing ''By the might of Pharaoh''; Condemned believers
-    tell the tyrant ''decree what you will; you can only decree for this worldly life''; Moses admits
-    he did the killing while he was ''of those astray'' and fled out of fear; Moses killed a man and God
-    delivered him from distress, then tried him with trials; Pharaoh reproaches Moses: ''Did we not raise
-    you among us as a child, and you did your deed?''; Pharaoh threatens the converted magicians with
-    cutting off hands and feet on opposite sides and crucifixion (on palm trunks); Pharaoh threatens to
-    imprison Moses if he takes a god other than Pharaoh; Officers call the visiting prophet ''this madman''
-    (meshugga''); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''; The prophet''s
-    staff-serpent swallows the magicians'' staff-serpents; The sea splits and each part is like a great
-    mountain (ṭawd); Refrain closing each episode: ''In that is a sign, yet most of them do not believe;
-    your Lord is the Mighty, the Merciful''; Before Pharaoh the staff becomes a manifest great serpent
-    (thuʿbān); A staff thrown down becomes a serpent and turns back into a staff; King defies the prophet:
-    ''Who is YHWH that I should obey him?''.'
+- text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
+    the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
+    treasures and fine dwellings and made Israel inherit them; The magicians cast their spells swearing
+    ''By the might of Pharaoh''; Moses admits he did the killing while he was ''of those astray'' and
+    fled out of fear; Pharaoh reproaches Moses: ''Did we not raise you among us as a child, and you did
+    your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
+    the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
+    magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
+    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; Whose forefathers'' God is proclaimed
+    in the Moses story [divergence between the texts]; and 34 more.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

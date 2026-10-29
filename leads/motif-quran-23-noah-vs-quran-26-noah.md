@@ -1,0 +1,182 @@
+---
+id: motif-quran-23-noah-vs-quran-26-noah
+title: Noah called a madman; the ark and the boiling oven ↔ Noah, the lowly followers and the laden ark
+summary: 'These two units share 5 motifs: whether the flood hero speaks to his people before the flood
+  [divergence between the texts], who is saved with the hero from the destruction, and why [divergence
+  between the texts], hero asks the deity to judge or destroy his opponents, hero warns or preaches to
+  his people before the flood….'
+status: new
+relations:
+- internal
+standing: proposed
+traditions:
+- islam
+layers:
+- motif
+motifs:
+- flood-hero-speaks-before-flood-as-divergence
+- who-is-saved-from-the-destruction-as-divergence
+- hero-prays-for-judgment
+- hero-preaches-to-people
+- family-saved
+passages:
+- tradition: islam
+  ref: Quran 23:23
+  note: 'Whether the flood hero speaks to his people before the flood [divergence between the texts] (In
+    Genesis Noah never speaks before the flood: wa-yyaʿaś Nōaḥ kə-khōl ʾăšer ṣiwwâ ʾōtô; he is chosen
+    because God saw him righteous (ʾōtəkā rāʾîtî ṣaddîq). In the Quran he is a messenger (arsalnā Nūḥan
+    ilā qawmihi) who preaches ''yā qawmi ʿbudū llāha mā lakum min ilāhin ghayruhu'', and the chiefs answer
+    that he is only a man like them, possessed (bihi jinna).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ
+    إِلَٰهٍ غَيْرُهُۥٓ أَفَلَا تَتَّقُونَ
+- tradition: islam
+  ref: Quran 23:24
+  note: 'Whether the flood hero speaks to his people before the flood [divergence between the texts] (In
+    Genesis Noah never speaks before the flood: wa-yyaʿaś Nōaḥ kə-khōl ʾăšer ṣiwwâ ʾōtô; he is chosen
+    because God saw him righteous (ʾōtəkā rāʾîtî ṣaddîq). In the Quran he is a messenger (arsalnā Nūḥan
+    ilā qawmihi) who preaches ''yā qawmi ʿbudū llāha mā lakum min ilāhin ghayruhu'', and the chiefs answer
+    that he is only a man like them, possessed (bihi jinna).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يُرِيدُ
+    أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةً مَّا سَمِعْنَا بِهَٰذَا فِىٓ
+    ءَابَآئِنَا ٱلْأَوَّلِينَ
+- tradition: islam
+  ref: Quran 26:106
+  note: Whether the flood hero speaks to his people before the flood [divergence between the texts] (Genesis'
+    Noah obeys in silence (wa-yyaʿaś Nōaḥ kə-khōl ʾăšer ṣiwwâ ʾōtô ʾĕlōhîm) and is never sent to anyone;
+    the Quran's Noah is 'their brother' and 'a trustworthy messenger' (akhūhum ... rasūlun amīn) who asks
+    no wage, and his people 'denied the messengers' (kadhdhabat qawmu Nūḥin al-mursalīn).)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ
+- tradition: islam
+  ref: Quran 26:107
+  note: Whether the flood hero speaks to his people before the flood [divergence between the texts] (Genesis'
+    Noah obeys in silence (wa-yyaʿaś Nōaḥ kə-khōl ʾăšer ṣiwwâ ʾōtô ʾĕlōhîm) and is never sent to anyone;
+    the Quran's Noah is 'their brother' and 'a trustworthy messenger' (akhūhum ... rasūlun amīn) who asks
+    no wage, and his people 'denied the messengers' (kadhdhabat qawmu Nūḥin al-mursalīn).)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنِّى لَكُمْ رَسُولٌ أَمِينٌ
+- tradition: islam
+  ref: Quran 23:27
+  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Genesis
+    saves the whole household, bōʾ ʾattâ wə-khol bêtəkā ... Nōaḥ û-vānāyw wə-ʾištô û-nəšê vānāyw; the
+    Quran excepts some: wa-ahlaka illā man sabaqa ʿalayhi l-qawlu minhum (the drowned son of 11:42-43),
+    and forbids Noah to plead for the wrongdoers (wa-lā tukhāṭibnī fī lladhīna ẓalamū).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
+    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+- tradition: islam
+  ref: Quran 26:118
+  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Who
+    is saved with Noah: Genesis, his household for his own righteousness, bōʾ ʾattâ wə-khol bêtəkā ...
+    kî ʾōtəkā rāʾîtî ṣaddîq (Noah, his sons, his wife, his sons'' wives); Quran, najjinī wa-man maʿiya
+    mina l-muʾminīna ... fa-anjaynāhu wa-man maʿahu fī l-fulki l-mashḥūn, the believers who followed him,
+    the ''lowliest'' (al-ardhalūn, 26:111). The saved group is defined by faith, not by kinship.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ
+- tradition: islam
+  ref: Quran 26:119
+  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Who
+    is saved with Noah: Genesis, his household for his own righteousness, bōʾ ʾattâ wə-khol bêtəkā ...
+    kî ʾōtəkā rāʾîtî ṣaddîq (Noah, his sons, his wife, his sons'' wives); Quran, najjinī wa-man maʿiya
+    mina l-muʾminīna ... fa-anjaynāhu wa-man maʿahu fī l-fulki l-mashḥūn, the believers who followed him,
+    the ''lowliest'' (al-ardhalūn, 26:111). The saved group is defined by faith, not by kinship.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَنجَيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ
+- tradition: islam
+  ref: Quran 23:26
+  note: Hero asks the deity to judge or destroy his opponents
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ
+- tradition: islam
+  ref: Quran 26:117
+  note: Hero asks the deity to judge or destroy his opponents
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ رَبِّ إِنَّ قَوْمِى كَذَّبُونِ
+- tradition: islam
+  ref: Quran 26:118
+  note: Hero asks the deity to judge or destroy his opponents
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ
+- tradition: islam
+  ref: Quran 23:23
+  note: Hero warns or preaches to his people before the flood
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ
+    إِلَٰهٍ غَيْرُهُۥٓ أَفَلَا تَتَّقُونَ
+- tradition: islam
+  ref: Quran 26:106
+  note: Hero warns or preaches to his people before the flood
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ
+- tradition: islam
+  ref: Quran 26:108
+  note: Hero warns or preaches to his people before the flood
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ
+- tradition: islam
+  ref: Quran 23:27
+  note: Hero's family saved with him
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
+    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+- tradition: islam
+  ref: Quran 26:119
+  note: Hero's family saved with him
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَنجَيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ
+evidence:
+- text: 'Shared motifs, rarest first: Whether the flood hero speaks to his people before the flood [divergence
+    between the texts] (weight 6.3); Who is saved with the hero from the destruction, and why [divergence
+    between the texts] (weight 5.8); Hero asks the deity to judge or destroy his opponents (weight 5.6);
+    Hero warns or preaches to his people before the flood (weight 5.2); Hero''s family saved with him
+    (weight 4.5). Pair score 27.3.'
+  basis: reading
+- text: 'Only in Noah called a madman; the ark and the boiling oven: God forbids the prophet to address
+    him on behalf of those who did wrong: they will be drowned; The flood hero prays to be landed at a
+    blessed landing place; What the flood hero does when the vessel comes to rest [divergence between
+    the texts]; When and from where the flood waters come [divergence between the texts]; The prophet''s
+    people object that he is only a human like them; had God willed he would have sent angels; A specific
+    sign marks the moment to board; The flood waters are hot or boiling; Why God destroyed a generation
+    or a people [divergence between the texts]; Animals taken aboard in pairs; A member of the hero''s
+    family is lost; Hero builds a vessel on divine instruction; Officers call the visiting prophet ''this
+    madman'' (meshugga'').'
+  basis: reading
+- text: 'Only in Noah, the lowly followers and the laden ark: The people threaten to stone the prophet
+    if he does not desist; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn);
+    The prophet''s opponents object that only the lowliest follow him; he refuses to drive the believers
+    away; Who is saved with the hero from the destruction, and why [contrast between the texts]; The people
+    are about to stone their leader; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy
+    messenger sent to his people; Refrain closing each episode: ''In that is a sign, yet most of them
+    do not believe; your Lord is the Mighty, the Merciful''; All others perish; The Prophet asks no wage
+    for the message.'
+  basis: reading
+- text: 'Noah called a madman; the ark and the boiling oven: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+- text: 'Noah, the lowly followers and the laden ark: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

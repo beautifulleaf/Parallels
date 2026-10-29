@@ -2,8 +2,8 @@
 id: motif-hb-gen-17-covenant-of-circumcision-vs-quran-15-abraham-guests-lot
 title: El Shaddai, new names and the covenant of circumcision ↔ Abraham's guests and the destruction of
   Lot's people (Surah 15:51-77)
-summary: 'These two units share 2 motifs: a divine messenger announces a son''s birth and gives his name,
-  patriarch or matriarch laughs at the promise of a child in old age.'
+summary: 'These two units share 2 motifs: patriarch or matriarch laughs at the promise of a child in old
+  age, a divine messenger announces a son''s birth and gives his name.'
 status: new
 relations:
 - transmission
@@ -15,9 +15,23 @@ traditions:
 layers:
 - motif
 motifs:
-- annunciation-of-son-and-name
 - patriarch-laughs-at-promise
+- annunciation-of-son-and-name
 passages:
+- tradition: judaism
+  ref: Gen 17:17
+  note: Patriarch or matriarch laughs at the promise of a child in old age (puns on Yitshaq, 17:19)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּפֹּ֧ל אַבְרָהָ֛ם עַל פָּנָ֖יו וַיִּצְחָ֑ק וַיֹּ֣אמֶר בְּלִבּ֗וֹ הַלְּבֶ֤ן מֵאָֽה שָׁנָה֙
+    יִוָּלֵ֔ד וְאִ֨ם שָׂרָ֔ה הֲבַת תִּשְׁעִ֥ים שָׁנָ֖ה תֵּלֵֽד
+- tradition: islam
+  ref: Quran 15:54
+  note: Patriarch or matriarch laughs at the promise of a child in old age (here astonishment at old age,
+    not laughter)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
 - tradition: judaism
   ref: Gen 17:19
   note: A divine messenger announces a son's birth and gives his name
@@ -39,44 +53,31 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍ
-- tradition: judaism
-  ref: Gen 17:17
-  note: Patriarch or matriarch laughs at the promise of a child in old age (puns on Yitshaq, 17:19)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּפֹּ֧ל אַבְרָהָ֛ם עַל פָּנָ֖יו וַיִּצְחָ֑ק וַיֹּ֣אמֶר בְּלִבּ֗וֹ הַלְּבֶ֤ן מֵאָֽה שָׁנָה֙
-    יִוָּלֵ֔ד וְאִ֨ם שָׂרָ֔ה הֲבַת תִּשְׁעִ֥ים שָׁנָ֖ה תֵּלֵֽד
-- tradition: islam
-  ref: Quran 15:54
-  note: Patriarch or matriarch laughs at the promise of a child in old age (here astonishment at old age,
-    not laughter)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
 evidence:
-- text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
-    5.6); Patriarch or matriarch laughs at the promise of a child in old age (weight 5.6). Pair score
-    11.2.'
+- text: 'Shared motifs, rarest first: Patriarch or matriarch laughs at the promise of a child in old age
+    (weight 5.6); A divine messenger announces a son''s birth and gives his name (weight 5.2). Pair score
+    10.8.'
   basis: reading
 - text: 'Only in El Shaddai, new names and the covenant of circumcision: Ishmael circumcised at thirteen,
-    Abraham at ninety-nine; Circumcision commanded as the sign of the covenant; Circumcision on the eighth
-    day after birth; God reveals himself by the name El Shaddai; Ishmael promised to father twelve princes
-    and a great nation; Kings promised to come from the patriarch or matriarch; God changes a person''s
-    name to mark a new destiny; God promises to make the patriarch a great nation; God promises the land
-    to the patriarch''s descendants; Uncircumcised male is cut off from his people.'
+    Abraham at ninety-nine; Uncircumcised male is cut off from his people; Circumcision commanded as the
+    sign of the covenant; Whether and how God''s covenant with Abraham passes to his offspring [contrast
+    between the texts]; A nation descended from Ishmael [divergence between the texts]; Circumcision on
+    the eighth day after birth; Ishmael promised to father twelve princes and a great nation; Kings promised
+    to come from the patriarch or matriarch; God changes a person''s name to mark a new destiny; God promises
+    to make the patriarch a great nation; God reveals himself by the name El Shaddai; God promises the
+    land to the patriarch''s descendants.'
   basis: reading
-- text: 'Only in Abraham''s guests and the destruction of Lot''s people (Surah 15:51-77): Two angels are
-    received as guests by Lot in Sodom; The angelic guests reveal they are sent against a criminal people;
-    Cities overturned (hafakh) and the plain destroyed; The doomed people are seized by the Shout (al-sayha)
-    at dawn or sunrise; Do not despair of God''s mercy (rawh / rahma); only unbelievers or the astray
-    despair; Command not to look back while fleeing a doomed place; Hero''s family saved with him; The
-    rescued family leaves by night, the leader following behind them; Host offers his virgin daughters
-    to the mob to protect his guests; The townsmen remind Lot they had forbidden him to receive outsiders;
-    Lot''s wife is among those who stay behind and perish; Townsmen surround the house and demand the
-    male guest for sexual abuse; God swears by the prophet''s life (la-''amruka); The patriarch tells
-    his unknown guests ''we are afraid of you''; The ruins of the destroyed towns lie on a road still
-    traveled; Stones of baked clay (sijjil), in layers, each marked by the Lord, rain on the town; God
-    appears as three men who visit the patriarch.'
+- text: 'Only in Abraham''s guests and the destruction of Lot''s people (Surah 15:51-77): The angelic
+    guests reveal they are sent against a criminal people; The rescued family leaves by night, the leader
+    following behind them; God swears by the prophet''s life (la-''amruka); The patriarch tells his unknown
+    guests ''we are afraid of you''; The ruins of the destroyed towns lie on a road still traveled; Two
+    angels are received as guests by Lot in Sodom [divergence between the texts]; The angelic guests reveal
+    they are sent against a criminal people [divergence between the texts]; Cities overturned (hafakh)
+    and the plain destroyed [divergence between the texts]; The doomed people are seized by the Shout
+    (al-sayha) at dawn or sunrise; Do not despair of God''s mercy (rawh / rahma); only unbelievers or
+    the astray despair; Command not to look back while fleeing a doomed place [divergence between the
+    texts]; Host offers his virgin daughters to the mob to protect his guests [divergence between the
+    texts]; and 13 more.'
   basis: reading
 - text: 'El Shaddai, new names and the covenant of circumcision: tagged by Claude (model), reading the
     Hebrew.'

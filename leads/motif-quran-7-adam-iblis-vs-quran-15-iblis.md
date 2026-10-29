@@ -3,9 +3,9 @@ id: motif-quran-7-adam-iblis-vs-quran-15-iblis
 title: The prostration to Adam, Iblis' refusal and the fall ↔ Man from black mud, jinn from scorching
   fire, and Iblis's refusal (Surah 15:26-50)
 summary: 'These two units share 5 motifs: the expelled devil vows to lie in wait on the straight path
-  and mislead humanity, the devil asks for and is granted respite until the day the dead are raised, the
-  devil (iblis) alone refuses to bow to the first man, god commands the angels to prostrate before the
-  first man, and they do….'
+  and mislead humanity, god commands the angels to prostrate before the first man, and they do, the devil
+  asks for and is granted respite until the day the dead are raised, the devil (iblis) alone refuses to
+  bow to the first man….'
 status: new
 relations:
 - internal
@@ -16,9 +16,9 @@ layers:
 - motif
 motifs:
 - devil-vows-to-mislead-humanity
+- angels-commanded-to-prostrate-to-adam
 - devil-granted-respite-until-resurrection
 - devil-refuses-to-bow-to-adam
-- angels-commanded-to-prostrate-to-adam
 - human-formed-from-earth
 passages:
 - tradition: islam
@@ -35,6 +35,27 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ
+- tradition: islam
+  ref: Quran 7:11
+  note: God commands the angels to prostrate before the first man, and they do
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
+    فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
+- tradition: islam
+  ref: Quran 15:28
+  note: God commands the angels to prostrate before the first man, and they do (all of them together (kulluhum
+    ajmaʿūn))
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+- tradition: islam
+  ref: Quran 15:29
+  note: God commands the angels to prostrate before the first man, and they do (all of them together (kulluhum
+    ajmaʿūn))
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
 - tradition: islam
   ref: Quran 7:14
   note: The devil asks for and is granted respite until the day the dead are raised
@@ -91,27 +112,6 @@ passages:
   text: قَالَ يَٰٓإِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ
 - tradition: islam
   ref: Quran 7:11
-  note: God commands the angels to prostrate before the first man, and they do
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
-    فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
-- tradition: islam
-  ref: Quran 15:28
-  note: God commands the angels to prostrate before the first man, and they do (all of them together (kulluhum
-    ajmaʿūn))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
-- tradition: islam
-  ref: Quran 15:29
-  note: God commands the angels to prostrate before the first man, and they do (all of them together (kulluhum
-    ajmaʿūn))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 7:11
   note: First human shaped from dust, clay or soil (created then shaped (sawwarnakum); Adam from clay
     (tin))
   lang: ar
@@ -142,33 +142,31 @@ passages:
   text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
 evidence:
 - text: 'Shared motifs, rarest first: The expelled devil vows to lie in wait on the straight path and
-    mislead humanity (weight 6.3); The devil asks for and is granted respite until the day the dead are
-    raised (weight 6.0); The devil (Iblis) alone refuses to bow to the first man (weight 5.8); God commands
-    the angels to prostrate before the first man, and they do (weight 5.8); First human shaped from dust,
-    clay or soil (weight 4.6). Pair score 28.4.'
+    mislead humanity (weight 6.3); God commands the angels to prostrate before the first man, and they
+    do (weight 5.8); The devil asks for and is granted respite until the day the dead are raised (weight
+    5.8); The devil (Iblis) alone refuses to bow to the first man (weight 5.8); First human shaped from
+    dust, clay or soil (weight 4.6). Pair score 28.2.'
   basis: reading
 - text: 'Only in The prostration to Adam, Iblis'' refusal and the fall: Man and wife are addressed, tempted
     and eat together; the woman is not singled out; The first humans are sent down to earth to live and
-    enjoy provision for a time; The devil will come at humans from before, behind, right and left; God
-    vows to fill hell with the devil and all who follow him; Satan whispers (waswasa) to tempt humans;
-    Enmity between the serpent''s seed and the woman''s seed: head bruised, heel struck; God casts the
-    proud being out from the mountain of God and destroys him from among the stones of fire, hurling him
-    to earth before kings; First humans expelled from the garden; Eating opens their eyes and they know
-    they are naked; Fig leaves sewn into coverings; The devil argues he is better than man because he
-    was made of fire and man of clay; The first couple confess ''we have wronged ourselves'' and ask God''s
-    forgiveness; God plants a garden (Eden) in the east and places the first human there; Sinner hides
-    from God, who calls ''Where are you?''; On the earth humans live, in it they die, and from it they
-    will be brought out; A cunning serpent persuades the woman to eat the forbidden fruit; The tempter
-    claims the tree is forbidden only lest the couple become angels or immortals; The tempter swears an
-    oath to the first couple that he is their sincere adviser; A tree of knowledge whose fruit is forbidden.'
+    enjoy provision for a time; The devil will come at humans from before, behind, right and left; The
+    first couple confess ''we have wronged ourselves'' and ask God''s forgiveness; On the earth humans
+    live, in it they die, and from it they will be brought out; The tempter claims the tree is forbidden
+    only lest the couple become angels or immortals; The tempter swears an oath to the first couple that
+    he is their sincere adviser; God vows to fill hell with the devil and all who follow him; Satan whispers
+    (waswasa) to tempt humans; God casts the proud being out from the mountain of God and destroys him
+    from among the stones of fire, hurling him to earth before kings; How the first couple answer God
+    after eating: shifting the blame or confessing [divergence between the texts]; God gives the adversary
+    (Satan) leave to act against humans; and 17 more.'
   basis: reading
 - text: 'Only in Man from black mud, jinn from scorching fire, and Iblis''s refusal (Surah 15:26-50):
-    Deity breathes the breath of life into the first human''s nostrils; The pious are in gardens and springs,
-    entering in peace and security; Hell has seven gates, each with an assigned portion of the damned;
-    God expels Iblis as accursed (rajim) with a curse until the Day of Judgment; The jinn were created
-    before humans from smokeless or scorching fire; In paradise no fatigue touches them and they are never
-    expelled from it; God removes all rancor from the hearts of those in paradise; Satan has no authority
-    over God''s sincere servants, only over those who follow him.'
+    The pious are in gardens and springs, entering in peace and security; Hell has seven gates, each with
+    an assigned portion of the damned; The jinn were created before humans from smokeless or scorching
+    fire; In paradise no fatigue touches them and they are never expelled from it; God removes all rancor
+    from the hearts of those in paradise; Deity breathes the breath of life into the first human''s nostrils
+    [divergence between the texts]; Satan has no authority over God''s sincere servants, only over those
+    who follow him; God expels Iblis as accursed (rajim) with a curse until the Day of Judgment; Deity
+    breathes the breath of life into the first human''s nostrils.'
   basis: reading
 - text: 'The prostration to Adam, Iblis'' refusal and the fall: tagged by Claude (model), reading the
     Arabic.'

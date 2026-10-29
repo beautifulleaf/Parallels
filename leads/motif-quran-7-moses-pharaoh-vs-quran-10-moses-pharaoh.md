@@ -144,35 +144,33 @@ evidence:
 - text: 'Shared motifs, rarest first: Threatened believers say ''to our Lord we return'' and pray for
     patience and to die as muslims (weight 6.7); The meek / those who wait for YHWH / the righteous and
     their seed shall inherit the land (yirshu arets) (weight 5.4); Prophet''s wonders are imitated by
-    the king''s magicians in a contest (weight 5.2); The king''s heart is hardened (by himself or by God)
+    the king''s magicians in a contest (weight 5.1); The king''s heart is hardened (by himself or by God)
     so he refuses to release the people (weight 4.6); The returning waters drown the pursuing army; not
-    one survives (weight 4.6). Pair score 26.5.'
+    one survives (weight 4.5). Pair score 26.3.'
   basis: reading
 - text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
     years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
-    prophet as a bad omen (tatayyur); their omen is with God; Prophet''s hand turns leprous, white as
-    snow, and is restored as a sign; King asks the prophet to intercede with God to remove a plague; Ruler
-    orders the killing of male infants; Prophet delivers God''s demand ''Let my people go that they may
-    serve me''; The magicians'' spell bewitches the people''s eyes and terrifies them; The court magicians
-    ask the king for a reward if they win and are promised closeness; Magicians fail to imitate a wonder
-    and confess ''This is the finger of God''; The defeated magicians fall prostrate and declare faith
-    in the Lord of Moses and Aaron; The magicians offer the prophet to throw first; he tells them to throw;
-    Nile water is turned to blood; The king breaks his promise to release the people once a plague is
-    lifted; Pharaoh is said to have his own gods, whom Moses would make him abandon; One of the Egyptian
-    plagues is a flood (tufan); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs;
-    The dust of the earth becomes lice on man and beast; Locusts brought by an east wind devour all vegetation
-    left after the hail; The prophet''s staff-serpent swallows the magicians'' staff-serpents; A staff
-    thrown down becomes a serpent and turns back into a staff; The tyrant threatens to cut off hands and
-    feet on opposite sides and crucify the converts.'
+    prophet as a bad omen (tatayyur); their omen is with God; The magicians'' spell bewitches the people''s
+    eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
+    is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
+    flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
+    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
+    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
+    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
+    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
+    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 20 more.'
   basis: reading
-- text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Unbelievers defend their practice
-    as what they found their fathers doing; Moses and Aaron are told to make their people''s houses in
-    Egypt a qibla (place/direction of prayer); Only some youths (dhurriyya) of Moses'' people believed
-    him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of the Israelites, too late;
-    The king confesses he has sinned and that God is righteous; Pharaoh''s body is saved from the sea
-    to be a sign for those after him; Opponents call the prophet or his message ''manifest sorcery'';
+- text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Only some youths (dhurriyya)
+    of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
+    the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment.'
+    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
+    the texts]; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
+    of prayer); God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
+    between the texts]; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God
+    or his own sin, and what follows; Pharaoh acknowledges Israel''s God or his own sin, and what follows
+    [divergence between the texts]; Who throws the staff before Pharaoh and what it becomes; How Moses''
+    own people in Egypt respond to his message [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Moses before Pharaoh, the magicians and the plagues: tagged by Claude (model), reading the Arabic.'
   basis: reading

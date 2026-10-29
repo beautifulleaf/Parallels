@@ -1,0 +1,82 @@
+---
+id: motif-hb-lev-26-blessings-vs-quran-24-obedience-and-succession
+title: Covenant blessings for obedience ↔ Hypocrites and the call to judgment; 'we hear and obey'; the
+  promise of succession
+summary: 'These two units share 1 motifs: blessing: god removes harmful wild beasts from the land.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- wild-beasts-removed-from-land
+passages:
+- tradition: judaism
+  ref: Lev 26:6
+  note: 'Blessing: God removes harmful wild beasts from the land'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְנָתַתִּ֤י שָׁלוֹם֙ בָּאָ֔רֶץ וּשְׁכַבְתֶּ֖ם וְאֵ֣ין מַחֲרִ֑יד וְהִשְׁבַּתִּ֞י חַיָּ֤ה רָעָה֙
+    מִן הָאָ֔רֶץ וְחֶ֖רֶב לֹא תַעֲבֹ֥ר בְּאַרְצְכֶֽם
+- tradition: judaism
+  ref: Lev 26:5
+  note: 'Blessing: God removes harmful wild beasts from the land'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהִשִּׂ֨יג לָכֶ֥ם דַּ֨יִשׁ֙ אֶת בָּצִ֔יר וּבָצִ֖יר יַשִּׂ֣יג אֶת זָ֑רַע וַאֲכַלְתֶּ֤ם לַחְמְכֶם֙
+    לָשֹׂ֔בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח בְּאַרְצְכֶֽם
+- tradition: islam
+  ref: Quran 24:55
+  note: 'Blessing: God removes harmful wild beasts from the land (wa-la-yubaddilannahum min baʿdi khawfihim
+    amnan ~ wi-šavtem lāveṭaḥ bə-ʾarṣəkem wə-nātattî šālôm bā-ʾāreṣ û-šəkhavtem wə-ʾên maḥărîd: obedience
+    is rewarded with security in the land instead of fear. Leviticus lists harvest, peace and no wild
+    beasts or sword; the Quran adds that their religion will be established (yumakkinanna lahum dīnahum).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى
+    ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ
+    لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِى لَا يُشْرِكُونَ بِى شَيْـًٔا
+    وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    echo. wa-la-yubaddilannahum min baʿdi khawfihim amnan ~ wi-šavtem lāveṭaḥ bə-ʾarṣəkem wə-nātattî šālôm
+    bā-ʾāreṣ û-šəkhavtem wə-ʾên maḥărîd: obedience is rewarded with security in the land instead of fear.
+    Leviticus lists harvest, peace and no wild beasts or sword; the Quran adds that their religion will
+    be established (yumakkinanna lahum dīnahum).'
+  basis: reading
+- text: 'Shared motifs, rarest first: Blessing: God removes harmful wild beasts from the land (weight
+    6.3). Pair score 6.3.'
+  basis: reading
+- text: 'Only in Covenant blessings for obedience: God promises to walk about in the midst of the people;
+    No idols, carved image, pillar or figured stone set up to bow down on; Blessing: five of you will
+    chase a hundred, a hundred ten thousand; God lifts a yoke or burden from his people [divergence between
+    the texts]; A ratio of the few who defeat (or are routed by) the many [divergence between the texts];
+    Had they observed the Torah and Gospel they would have eaten from above them and beneath their feet;
+    God broke the bars of the yoke and made the people walk upright; God visits the earth with rain, softens
+    it with showers, and crowns the year with harvest; Formula ''I will take you as my people and I will
+    be your God''.'
+  basis: reading
+- text: 'Only in Hypocrites and the call to judgment; ''we hear and obey''; the promise of succession:
+    God promises the believers succession (istikhlāf) in the land as he gave it to those before them,
+    exchanging fear for security; Hymn recalls God''s covenant with Abraham, oath to Isaac and statute
+    to Jacob for a thousand generations; ''You are my witnesses,'' says YHWH: before me no god was formed
+    and after me there shall be none; This people honors God with lips while its heart is far; its fear
+    of him is a commandment of men learned by rote; Believers'' confession ''we hear and we obey'' (sami''na
+    wa-ata''na); The people answer as one: all that YHWH has spoken we will do.'
+  basis: reading
+- text: 'Covenant blessings for obedience: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Hypocrites and the call to judgment; ''we hear and obey''; the promise of succession: tagged
+    by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

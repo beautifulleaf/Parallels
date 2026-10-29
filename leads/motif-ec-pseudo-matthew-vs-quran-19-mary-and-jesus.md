@@ -36,9 +36,15 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+- tradition: islam
+  ref: Quran 19:22
+  note: A spring or stream appears for the mother (sariyyan, a rivulet beneath her)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
 evidence:
 - text: 'Shared motifs, rarest first: A palm tree provides food to the mother (weight 6.3); A spring or
-    stream appears for the mother (weight 5.8). Pair score 12.1.'
+    stream appears for the mother (weight 5.6). Pair score 11.9.'
   basis: reading
 - text: 'Gospel of Pseudo-Matthew: tagged by Claude (model), from secondary knowledge.'
   basis: scholarship

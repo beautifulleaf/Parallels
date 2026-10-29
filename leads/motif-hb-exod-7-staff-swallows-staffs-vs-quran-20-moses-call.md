@@ -80,22 +80,30 @@ evidence:
     5.4). Pair score 11.0.'
   basis: reading
 - text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
-    staffs: Prophet''s wonders are imitated by the king''s magicians in a contest; The king''s heart is
-    hardened (by himself or by God) so he refuses to release the people; Hero is eighty (and his brother
-    eighty-three) when they confront the king; God makes the prophet ''as God'' to the king with his brother
-    as his prophet; The prophet''s staff-serpent swallows the magicians'' staff-serpents; Wonders done
-    so that Egypt shall know ''I am YHWH''.'
+    staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet
+    ''as God'' to the king with his brother as his prophet; Wonders done so that Egypt shall know ''I
+    am YHWH''; Prophet''s wonders are imitated by the king''s magicians in a contest [divergence between
+    the texts]; Pharaoh turned away with his power/pillar (rukn) and called Moses ''a sorcerer or a madman'';
+    Who throws the staff before Pharaoh and what it becomes; Who throws the staff before Pharaoh and what
+    it becomes [divergence between the texts]; An eloquent brother is appointed to speak for the hero,
+    who is ''as God'' to him [divergence between the texts]; The prophet''s staff-serpent swallows the
+    magicians'' staff-serpents [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening
+    his heart, or Pharaoh and his people themselves; Why Pharaoh and Egypt refuse despite the signs [divergence
+    between the texts]; God sends Moses and Aaron together, with his signs, to Pharaoh; and 4 more.'
   basis: reading
-- text: 'Only in Moses at the fire in the holy valley Tuwa: The prophet asks that his brother be made
-    his helper (wazīr) and partner in his mission; God appears in a bush that burns without being consumed;
-    Prophet''s hand turns leprous, white as snow, and is restored as a sign; The call comes in the holy
-    valley named Ṭuwā; The Hour is coming; God almost keeps it hidden so each soul is repaid for its striving;
-    Prophet prays for his chest to be expanded and the knot of his tongue untied; Asked what is in his
-    hand, the prophet lists his staff''s uses: leaning, beating down leaves for sheep, other needs; Traveling
-    with his family, the prophet sees a fire and goes to bring back a brand or find guidance there; Prophet
-    protests he is heavy of mouth and tongue or ''uncircumcised of lips''; Hero told to remove his sandals
-    because the place is holy ground; The called one asks for a sign that it is God who speaks; A shepherd
-    tending flocks comes to the mountain of God and is called.'
+- text: 'Only in Moses at the fire in the holy valley Tuwa: The Hour is coming; God almost keeps it hidden
+    so each soul is repaid for its striving; Prophet prays for his chest to be expanded and the knot of
+    his tongue untied; Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating
+    down leaves for sheep, other needs; The prophet asks that his brother be made his helper (wazīr) and
+    partner in his mission; The prophet asks that his brother be made his helper (wazīr) and partner in
+    his mission [divergence between the texts]; The call comes in the holy valley named Ṭuwā; Asked what
+    is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves for sheep, other
+    needs [divergence between the texts]; Traveling with his family, the prophet sees a fire and goes
+    to bring back a brand or find guidance there [divergence between the texts]; Prophet protests he is
+    heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between the texts]; Prophet''s
+    hand turns leprous, white as snow, and is restored as a sign [divergence between the texts]; The call
+    comes in the holy valley named Ṭuwā [divergence between the texts]; Traveling with his family, the
+    prophet sees a fire and goes to bring back a brand or find guidance there; and 6 more.'
   basis: reading
 - text: 'Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians'' staffs:
     tagged by Claude (model), reading the Hebrew.'

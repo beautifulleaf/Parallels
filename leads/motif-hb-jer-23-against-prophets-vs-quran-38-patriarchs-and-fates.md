@@ -1,0 +1,129 @@
+---
+id: motif-hb-jer-23-against-prophets-vs-quran-38-patriarchs-and-fates
+title: Concerning the prophets - who has stood in the council of YHWH? ↔ The chosen patriarchs; the Gardens
+  of Eden and the quarrel of the damned
+summary: 'These two units share 2 motifs: whether a prophet has first-hand knowledge of the heavenly council
+  [contrast between the texts], god enthroned with the host of heaven standing at his right and left deliberates.'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- prophet-and-the-heavenly-council-as-contrast
+- divine-council-scene
+passages:
+- tradition: judaism
+  ref: Jer 23:18
+  note: 'Whether a prophet has first-hand knowledge of the heavenly council [contrast between the texts]
+    (The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
+    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
+    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
+    prophet denies any first-hand knowledge of the council; he knows only by waḥy.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי דְּבָר֖וֹ
+    וַיִּשְׁמָֽע
+- tradition: judaism
+  ref: Jer 23:22
+  note: 'Whether a prophet has first-hand knowledge of the heavenly council [contrast between the texts]
+    (The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
+    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
+    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
+    prophet denies any first-hand knowledge of the council; he knows only by waḥy.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
+    וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
+- tradition: islam
+  ref: Quran 38:69
+  note: 'Whether a prophet has first-hand knowledge of the heavenly council [contrast between the texts]
+    (The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
+    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
+    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
+    prophet denies any first-hand knowledge of the council; he knows only by waḥy.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
+- tradition: islam
+  ref: Quran 38:70
+  note: 'Whether a prophet has first-hand knowledge of the heavenly council [contrast between the texts]
+    (The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
+    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
+    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
+    prophet denies any first-hand knowledge of the council; he knows only by waḥy.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ
+- tradition: judaism
+  ref: Jer 23:18
+  note: God enthroned with the host of heaven standing at his right and left deliberates
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי דְּבָר֖וֹ
+    וַיִּשְׁמָֽע
+- tradition: judaism
+  ref: Jer 23:22
+  note: God enthroned with the host of heaven standing at his right and left deliberates
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
+    וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
+- tradition: islam
+  ref: Quran 38:69
+  note: God enthroned with the host of heaven standing at his right and left deliberates
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    contrast. The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
+    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
+    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
+    prophet denies any first-hand knowledge of the council; he knows only by waḥy.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Whether a prophet has first-hand knowledge of the heavenly council
+    [contrast between the texts] (weight 6.7); God enthroned with the host of heaven standing at his right
+    and left deliberates (weight 5.8). Pair score 12.5.'
+  basis: reading
+- text: 'Only in Concerning the prophets - who has stood in the council of YHWH?: The prophet''s heart
+    is broken and all his bones shake; he is like a drunken man because of God''s holy words; The prophets
+    of Jerusalem commit adultery and strengthen evildoers; they have become like Sodom and Gomorrah; Whether
+    a prophet speaks from his own heart or desire, or by revelation [contrast between the texts]; The
+    earth mourns and the heavens above grow dark because of God''s decree; God gives his people poisoned
+    water (mei rosh) to drink and wormwood to eat; ''Have you listened in the council (sod) of God, and
+    limited wisdom to yourself?''; Prophets and priests heal the wound lightly, saying ''Peace, peace''
+    when there is no peace; Opponents nearly lure the prophet into inventing something else; God makes
+    him firm; The storm of YHWH''s fury goes out and whirls on the head of the wicked; in the latter days
+    you will understand it; The tree of Zaqqum grows from the bottom of hell; its spathes are like the
+    heads of devils; the damned fill their bellies and drink boiling water; God did not send the prophets
+    who promise peace; they prophesy a lying vision, divination and the deceit of their heart.'
+  basis: reading
+- text: 'Only in The chosen patriarchs; the Gardens of Eden and the quarrel of the damned: The damned
+    ask ''Why do we not see men we counted among the wicked, whom we mocked?''; The prophet had no knowledge
+    of the Exalted Assembly when they disputed (over Adam); Elisha (al-Yasa'') is named among the excellent;
+    Ishmael is named among the chosen prophets; The provision of paradise never runs out; Abraham, Isaac
+    and Jacob are ''possessors of hands and sight'' (power and insight); God''s choice of Abraham, Isaac
+    and Jacob, and what it passes on [divergence between the texts]; Entering hell, a crowd is greeted
+    by those already there with ''No welcome to them!'' and they retort in kind; A prophet called Dhū
+    l-Kifl is listed among the patient; The Gardens of Eden have their gates opened for the righteous;
+    Paradise has full-breasted companions of equal age (kawa''ib atrab); The damned followers ask double
+    punishment for those who misled them; all get double; and 2 more.'
+  basis: reading
+- text: 'Concerning the prophets - who has stood in the council of YHWH?: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'The chosen patriarchs; the Gardens of Eden and the quarrel of the damned: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

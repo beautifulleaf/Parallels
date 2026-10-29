@@ -2,12 +2,12 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-40-call-on-me
 title: Creation in six days and the seventh-day rest ↔ God helps his messengers; call on me; the stages
   of life
-summary: 'These two units share 2 motifs: humanity made in the image or likeness of the deity, sun and
-  moon are set to rule day and night and mark signs and seasons.'
+summary: 'These two units share 4 motifs: the form god gave humans at creation [divergence between the
+  texts], humanity made in the image or likeness of the deity, god creates by saying to a thing ''be''
+  and it is (kun fa-yakun), sun and moon are set to rule day and night and mark signs and seasons.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,9 +15,41 @@ traditions:
 layers:
 - motif
 motifs:
+- human-form-given-at-creation-as-divergence
 - human-in-divine-image
+- kun-fa-yakun
 - luminaries-rule-day-night
 passages:
+- tradition: judaism
+  ref: Gen 1:27
+  note: 'The form God gave humans at creation [divergence between the texts] (Human form at creation.
+    Gen: wa-yyiḇrāʾ ʾĕlōhîm ʾeṯ-hā-ʾāḏām bə-ṣalmô ... wə-hinnēh-ṭôḇ məʾōḏ. Q: wa-ṣawwarakum fa-aḥsana
+    ṣuwarakum. God gives humans their form (ṣūra) and makes it good (aḥsana ~ ṭôḇ), but it is their own
+    form, not God''s image (ṣelem). The Quran keeps ''formed well'' and leaves out ''in his image''.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּבְרָ֨א אֱלֹהִ֤ים אֶת הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה
+    בָּרָ֥א אֹתָֽם
+- tradition: judaism
+  ref: Gen 1:31
+  note: 'The form God gave humans at creation [divergence between the texts] (Human form at creation.
+    Gen: wa-yyiḇrāʾ ʾĕlōhîm ʾeṯ-hā-ʾāḏām bə-ṣalmô ... wə-hinnēh-ṭôḇ məʾōḏ. Q: wa-ṣawwarakum fa-aḥsana
+    ṣuwarakum. God gives humans their form (ṣūra) and makes it good (aḥsana ~ ṭôḇ), but it is their own
+    form, not God''s image (ṣelem). The Quran keeps ''formed well'' and leaves out ''in his image''.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר
+    י֥וֹם הַשִּׁשִּֽׁי
+- tradition: islam
+  ref: Quran 40:64
+  note: 'The form God gave humans at creation [divergence between the texts] (Human form at creation.
+    Gen: wa-yyiḇrāʾ ʾĕlōhîm ʾeṯ-hā-ʾāḏām bə-ṣalmô ... wə-hinnēh-ṭôḇ məʾōḏ. Q: wa-ṣawwarakum fa-aḥsana
+    ṣuwarakum. God gives humans their form (ṣūra) and makes it good (aḥsana ~ ṭôḇ), but it is their own
+    form, not God''s image (ṣelem). The Quran keeps ''formed well'' and leaves out ''in his image''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ قَرَارًا وَٱلسَّمَآءَ بِنَآءً وَصَوَّرَكُمْ فَأَحْسَنَ
+    صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
 - tradition: judaism
   ref: Gen 1:26
   note: Humanity made in the image or likeness of the deity
@@ -39,6 +71,21 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ قَرَارًا وَٱلسَّمَآءَ بِنَآءً وَصَوَّرَكُمْ فَأَحْسَنَ
     صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+- tradition: judaism
+  ref: Gen 1:3
+  note: 'God creates by saying to a thing ''Be'' and it is (kun fa-yakun) (innamā qawlunā li-shayʾin idhā
+    aradnāhu an naqūla lahu kun fa-yakūn; wayyōʾmer ʾĕlōhîm yəhî ʾôr wayhî-ʾôr: creation by command, jussive
+    followed by fulfilment. Same verb (kwn / hyh) in each language''s pair. Q applies it here to raising
+    the dead.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
+- tradition: islam
+  ref: Quran 40:68
+  note: God creates by saying to a thing 'Be' and it is (kun fa-yakun)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ فَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 - tradition: judaism
   ref: Gen 1:14
   note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
@@ -64,27 +111,35 @@ passages:
   text: ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ ٱللَّهَ
     لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 evidence:
-- text: 'Shared motifs, rarest first: Humanity made in the image or likeness of the deity (weight 5.8);
-    Sun and moon are set to rule day and night and mark signs and seasons (weight 4.7). Pair score 10.5.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    divergence. Human form at creation. Gen: wa-yyiḇrāʾ ʾĕlōhîm ʾeṯ-hā-ʾāḏām bə-ṣalmô ... wə-hinnēh-ṭôḇ
+    məʾōḏ. Q: wa-ṣawwarakum fa-aḥsana ṣuwarakum. God gives humans their form (ṣūra) and makes it good
+    (aḥsana ~ ṭôḇ), but it is their own form, not God''s image (ṣelem). The Quran keeps ''formed well''
+    and leaves out ''in his image''.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Divine blessing: be fruitful, multiply,
-    fill the earth; Creation proceeds by dividing (light/darkness, waters above/below); Deity creates
-    by spoken command (Let there be...); Before creation there is a dark watery deep (tehom) out of which
-    the world is formed; Creation is completed in six days; Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); God speaks in the plural (us, our) as if to a divine council; Deity
-    rests on the seventh day after creating, and sanctifies it; A divine wind or spirit hovers or moves
-    over the primeval waters; The earth itself is commanded to bring forth plants or animals; A solid
-    firmament (raqia) separates upper waters from lower waters; Humans given rule over animals; Light
-    exists before the sun and moon are made; Humanity created male and female in one act; Humans and animals
-    originally given only plants as food; Great sea monsters (tanninim) are expressly created by God.'
+- text: 'Shared motifs, rarest first: The form God gave humans at creation [divergence between the texts]
+    (weight 6.7); Humanity made in the image or likeness of the deity (weight 5.8); God creates by saying
+    to a thing ''Be'' and it is (kun fa-yakun) (weight 5.3); Sun and moon are set to rule day and night
+    and mark signs and seasons (weight 4.7). Pair score 22.5.'
   basis: reading
-- text: 'Only in God helps his messengers; call on me; the stages of life: Rhetorical question: are the
-    blind and the seeing equal, or darkness and light?; Your Lord said ''Call on me and I will answer
-    you''; God shaped you and made your forms good (sawwarakum fa-ahsana suwarakum); God made leaders
-    (a''imma) among the Israelites who guided by his command because they were patient; God creates by
-    saying to a thing ''Be'' and it is (kun fa-yakun); Glorify God in the evening, morning, afternoon
-    and noon (set times of praise or prayer); From dust, then a drop, then a clinging clot (''alaqa),
-    then a child, then full strength, then old age; some die before.'
+- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
+    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
+    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
+    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
+    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+    between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
+    living thing from water [divergence between the texts]; God speaks to heavenly beings about making
+    man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
+    apart (fatq) [divergence between the texts]; Whether humans bear God''s likeness, or nothing is like
+    him [contrast between the texts]; and 24 more.'
+  basis: reading
+- text: 'Only in God helps his messengers; call on me; the stages of life: Your Lord said ''Call on me
+    and I will answer you''; God shaped you and made your forms good (sawwarakum fa-ahsana suwarakum);
+    The creation of the heavens is greater than the creation of humankind; From dust, then a drop, then
+    a clinging clot (''alaqa), then a child, then full strength, then old age; some die before; Rhetorical
+    question: are the blind and the seeing equal, or darkness and light?; God made leaders (a''imma) among
+    the Israelites who guided by his command because they were patient; Glorify God in the evening, morning,
+    afternoon and noon (set times of praise or prayer).'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

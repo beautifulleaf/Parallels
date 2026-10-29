@@ -42,20 +42,23 @@ evidence:
     Villain called ''the Agagite'' opposes a hero descended from Kish the Benjaminite; Villain offers
     the king ten thousand talents of silver for permission to destroy a people; King promotes a courtier
     and sets his seat above all the princes; Courtiers press the hero day after day to obey the order,
-    and he refuses; Royal decree sent to each province in its own script and each people in its own language;
-    Decree to destroy, kill and annihilate an entire people, young and old, women and children, on a single
-    day; King and his vizier sit down to drink while the city is thrown into confusion by their decree;
-    King takes off his signet ring and gives it to a courtier to seal decrees; The lot (pur) is cast day
-    by day and month by month to choose the date of destruction; Hero refuses to bow or prostrate himself
-    before a powerful official; Offended by one man, the villain seeks to destroy his whole people; Royal
-    letters carried by runners throughout the realm.'
+    and he refuses; Decree to destroy, kill and annihilate an entire people, young and old, women and
+    children, on a single day; King and his vizier sit down to drink while the city is thrown into confusion
+    by their decree; King takes off his signet ring and gives it to a courtier to seal decrees; Hero refuses
+    to bow or prostrate himself before a powerful official; Offended by one man, the villain seeks to
+    destroy his whole people; The lot (pur) is cast day by day and month by month to choose the date of
+    destruction; Royal letters carried by runners throughout the realm; Royal decree sent to each province
+    in its own script and each people in its own language; and 2 more.'
   basis: reading
-- text: 'Only in The Sabbath-breaking seaside town turned into apes: God tries towns with hardship, then
-    with ease, then seizes them suddenly; God proclaims he will send against them until resurrection those
-    who inflict harsh punishment; Fish come openly to a seaside town on the Sabbath but not on other days,
-    as a test; Sabbath rest on the seventh day for all, including servants, animals and strangers; Sabbath-breakers,
-    those who rebuke them and those who ask why bother rebuking a doomed people; Transgressors are turned
-    into despised apes.'
+- text: 'Only in The Sabbath-breaking seaside town turned into apes: Fish come openly to a seaside town
+    on the Sabbath but not on other days, as a test; Transgressors are turned into despised apes; God
+    proclaims he will send against them until resurrection those who inflict harsh punishment; God tests
+    the people through food and the Sabbath [divergence between the texts]; Sabbath-breakers, those who
+    rebuke them and those who ask why bother rebuking a doomed people; God tries towns with hardship,
+    then with ease, then seizes them suddenly; Punishment of those who break the Sabbath [divergence between
+    the texts]; In the end of days, in distress, the people will seek God and return; Sabbath rest on
+    the seventh day for all, including servants, animals and strangers; Curse: God will scatter the people
+    among the nations.'
   basis: reading
 - text: 'Mordecai refuses to bow to Haman; the lot is cast and the decree of extermination issued: tagged
     by Claude (model), reading the Hebrew.'

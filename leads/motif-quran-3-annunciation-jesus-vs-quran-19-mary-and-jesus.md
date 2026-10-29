@@ -84,6 +84,9 @@ passages:
   text: مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍ سُبْحَٰنَهُۥٓ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ
     لَهُۥ كُن فَيَكُونُ
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: Mary asks how she will have a child when no man has touched her
     (weight 6.7); Jesus will speak to people in the cradle and in maturity (weight 6.7); The newborn speaks
     (weight 5.8); God creates by saying to a thing ''Be'' and it is (kun fa-yakun) (weight 5.6). Pair

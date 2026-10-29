@@ -6,7 +6,6 @@ summary: 'These two units share 1 motifs: palace garden decorated with fine hang
   gold and silver couches and mosaic pavement.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -29,6 +28,15 @@ passages:
     (1:6) ח֣וּר כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי ב֣וּץ וְאַרְגָּמָ֔ן עַל גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי
     שֵׁ֑שׁ מִטּ֣וֹת זָהָ֣ב וָכֶ֗סֶף עַ֛ל רִֽצְפַ֥ת בַּהַט וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת (1:7) וְהַשְׁקוֹת֙
     בִּכְלֵ֣י זָהָ֔ב וְכֵלִ֖ים מִכֵּלִ֣ים שׁוֹנִ֑ים וְיֵ֥ין מַלְכ֛וּת רָ֖ב כְּיַ֥ד הַמֶּֽלֶךְ
+- tradition: judaism
+  ref: Esth 1:6
+  note: Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic
+    pavement (white cotton (karpas) and blue hangings on silver rings, marble pillars, couches of gold
+    and silver on mosaic pavement; each cup different)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: ח֣וּר כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי ב֣וּץ וְאַרְגָּמָ֔ן עַל גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי
+    שֵׁ֑שׁ מִטּ֣וֹת זָהָ֣ב וָכֶ֗סֶף עַ֛ל רִֽצְפַ֥ת בַּהַט וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת
 - tradition: islam
   ref: Quran 88:13
   note: Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic
@@ -44,31 +52,37 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَأَكْوَابٌ مَّوْضُوعَةٌ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    echo. fīhā sururun marfūʿatun wa-akwābun mawḍūʿatun wa-namāriqu maṣfūfatun wa-zarābiyyu mabthūtha
+    ~ ḥûr karpas û-tekēlet ... miṭṭôt zāhāv wā-kesef ʿal riṣpat bahaṭ wā-šēš: the furnished couches, vessels
+    and floor-coverings of a royal garden feast; the Persian king''s banquet in Esther, the Garden in
+    the Quran.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Palace garden decorated with fine hangings, marble columns, gold
     and silver couches and mosaic pavement (weight 6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in Ahasuerus''s banquets and Queen Vashti''s refusal: Royal decree that every man shall
-    rule in his own house; Royal decree sent to each province in its own script and each people in its
-    own language; Merry with wine, the king orders the queen brought in her crown to show her beauty to
-    his guests; King rules from India to Cush over 127 provinces; A decree written into the laws of Persia
-    and Media cannot be revoked; At the royal banquet drinking is by rule, no one compelled; The disobedient
-    queen is deposed and her royalty given to ''another better than she''; The queen refuses to come at
-    the king''s command and the king is enraged; King holds a banquet showing his riches for 180 days;
-    The queen holds a separate banquet for the women; Seven princes or counselors who ''see the king''s
-    face'' advise the king; Seven named eunuchs serve the king; Susa the citadel (Shushan ha-birah) as
-    setting.'
+    rule in his own house; Merry with wine, the king orders the queen brought in her crown to show her
+    beauty to his guests; A decree written into the laws of Persia and Media cannot be revoked; At the
+    royal banquet drinking is by rule, no one compelled; The disobedient queen is deposed and her royalty
+    given to ''another better than she''; The queen refuses to come at the king''s command and the king
+    is enraged; King holds a banquet showing his riches for 180 days; The queen holds a separate banquet
+    for the women; Seven named eunuchs serve the king; The queen consults her chiefs, who defer to her;
+    she observes that kings who enter a town ruin it and humble its nobles; Susa the citadel (Shushan
+    ha-birah) as setting; Royal decree sent to each province in its own script and each people in its
+    own language; and 2 more.'
   basis: reading
-- text: 'Only in The overwhelming event: dari'' and the carpets of paradise: God spread out the earth
-    as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha); In hell they taste no coolness nor
-    drink except boiling water (hamim) and dark, foul fluid (ghassaq), or drink from a boiling spring;
-    Hell''s food chokes (dha ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies
-    hunger; God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth; Paradise has
-    named springs: Salsabil, Tasnim (and a spring the servants of God make gush forth); In paradise there
-    is no idle talk (laghw) nor lying; Paradise has raised couches (arā''ik, surur), set goblets, cushions
-    in rows and spread carpets; The prophet is only a reminder (mudhakkir), not a controller (musaytir)
-    over people; On that day some faces are radiant, laughing and joyful, others scowling, dust-covered
-    and overcast with darkness; Rhetorical divine questions: where were you when I founded the earth?
-    Do you know...?.'
+- text: 'Only in The overwhelming event: dari'' and the carpets of paradise: The prophet is only a reminder
+    (mudhakkir), not a controller (musaytir) over people; Hell''s food chokes (dha ghussa) or is dari''
+    (a thorny plant) that neither nourishes nor satisfies hunger; Paradise has named springs: Salsabil,
+    Tasnim (and a spring the servants of God make gush forth); In paradise there is no idle talk (laghw)
+    nor lying; Paradise has raised couches (arā''ik, surur), set goblets, cushions in rows and spread
+    carpets; Rhetorical divine questions: where were you when I founded the earth? Do you know...?; In
+    hell they taste no coolness nor drink except boiling water (hamim) and dark, foul fluid (ghassaq),
+    or drink from a boiling spring; On that day some faces are radiant, laughing and joyful, others scowling,
+    dust-covered and overcast with darkness; God spread out the earth as a carpet, cradle or bed (bisat,
+    mihad, daha, sutihat, tahaha); God set the mountains as pegs or firm anchors (awtad, rawasi) for the
+    earth.'
   basis: reading
 - text: 'Ahasuerus''s banquets and Queen Vashti''s refusal: tagged by Claude (model), reading the Hebrew.'
   basis: reading

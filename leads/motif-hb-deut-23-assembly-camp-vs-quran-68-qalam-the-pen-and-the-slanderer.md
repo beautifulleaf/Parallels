@@ -5,7 +5,6 @@ title: 'Admission to the assembly; camp purity; slaves, interest, vows ↔ Nun: 
 summary: 'These two units share 1 motifs: mamzer excluded from the assembly to the tenth generation.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -29,32 +28,38 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    echo. ʿutullin baʿda dhālika zanīm (base-born, attached to a lineage not his) ~ lōʾ yāvōʾ mamzēr bi-qhal
+    YHWH. In Deuteronomy illegitimate birth is a legal status that excludes; in the Quran it is the last
+    and worst insult in a vice list. Leads only, the sense of zanīm is disputed.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Mamzer excluded from the assembly to the tenth generation (weight
     6.7). Pair score 6.7.'
   basis: reading
-- text: 'Only in Admission to the assembly; camp purity; slaves, interest, vows: Ammonites and Moabites
-    never admitted, for withholding bread and water and hiring Balaam; God turned Balaam''s curse into
-    a blessing; You may eat your fill in a neighbor''s vineyard or pluck ears by hand, but not carry away
-    or use a sickle; Edomites (brothers) and Egyptians (hosts) admitted in the third generation; Escaped
-    slave not returned to his master; he may live where he chooses; Man with crushed testicles or severed
-    member excluded from the assembly; Harlot''s hire and the price of a dog may not be brought to the
-    temple for a vow; Lending at interest or increase to a poor brother is forbidden; Latrine outside
-    the war camp; dig with a spade and cover excrement because God walks in the camp; No qedeshah or qadesh
-    (cult prostitute) from Israel; A man must not take his father''s wife (uncover his father''s skirt);
-    Man unclean from a nocturnal emission stays outside the camp until evening and washes; Pay vows without
-    delay; not vowing is no sin.'
+- text: 'Only in Admission to the assembly; camp purity; slaves, interest, vows: Edomites (brothers) and
+    Egyptians (hosts) admitted in the third generation; Escaped slave not returned to his master; he may
+    live where he chooses; Harlot''s hire and the price of a dog may not be brought to the temple for
+    a vow; Latrine outside the war camp; dig with a spade and cover excrement because God walks in the
+    camp; Man unclean from a nocturnal emission stays outside the camp until evening and washes; Ammonites
+    and Moabites never admitted, for withholding bread and water and hiring Balaam; Whether obligations
+    differ toward insiders and outsiders [contrast between the texts]; You may eat your fill in a neighbor''s
+    vineyard or pluck ears by hand, but not carry away or use a sickle; Man with crushed testicles or
+    severed member excluded from the assembly; Protection for someone who seeks refuge [divergence between
+    the texts]; God turned Balaam''s curse into a blessing; Whether obligations differ toward insiders
+    and outsiders [response between the texts]; and 4 more.'
   basis: reading
 - text: 'Only in Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born
-    man branded on the snout: Unbelievers dismiss the revelation as ''tales of the ancients'' (asatir
-    al-awwalin) they could equal; God threatens: ''We shall brand him on the snout (khurtum)''; A surah
-    opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim; God will
-    put his hook in the enemy king''s nose and his bit in his lips and lead him back; Oath ''Nun. By the
-    pen and what they inscribe''; The deniers wish the prophet would compromise (tudhin) so they would
-    compromise; Defense of the prophet: there is no madness (jinna) in your companion; he is only a warner;
-    The prophet is no soothsayer (kahin), no madman, no poet awaiting the accident of fate; The prophet
-    is not mad; he has an unfailing reward and is of a great moral character (khuluq ''azim); Do not go
-    about as a talebearer among your people; Do not obey every contemptible swearer, backbiter going about
-    with slander, hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble).'
+    man branded on the snout: God threatens: ''We shall brand him on the snout (khurtum)''; The deniers
+    wish the prophet would compromise (tudhin) so they would compromise; The prophet is not mad; he has
+    an unfailing reward and is of a great moral character (khuluq ''azim); Oath ''Nun. By the pen and
+    what they inscribe''; A mark (tav) is put on the foreheads of those who sigh over the city''s abominations
+    so the destroyers spare them; Do not obey every contemptible swearer, backbiter going about with slander,
+    hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble); The prophet is no soothsayer
+    (kahin), no madman, no poet awaiting the accident of fate; God will put his hook in the enemy king''s
+    nose and his bit in his lips and lead him back; Defense of the prophet: there is no madness (jinna)
+    in your companion; he is only a warner; Do not go about as a talebearer among your people; Unbelievers
+    dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal; A surah
+    opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
   basis: reading
 - text: 'Admission to the assembly; camp purity; slaves, interest, vows: tagged by Claude (model), reading
     the Hebrew.'

@@ -1,0 +1,127 @@
+---
+id: motif-hb-lev-19-holiness-code-a-vs-quran-17-commandments
+title: Be holy - ethical laws and love of neighbor ↔ The code of commandments (Surah 17:22-39)
+summary: 'These two units share 2 motifs: a quranic code of commandments resembling the decalogue in content
+  [divergence between the texts], give the kinsman, the poor and the wayfarer their due.'
+status: new
+relations:
+- convergence
+- response
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- decalogue-like-code-in-quran-as-divergence
+- give-kin-poor-and-wayfarer-their-due
+passages:
+- tradition: judaism
+  ref: Lev 19:3
+  note: 'A Quranic code of commandments resembling the Decalogue in content [divergence between the texts]
+    (Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
+    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
+    iḥsānā. The Sabbath slot is taken by tawḥīd.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אִ֣ישׁ אִמּ֤וֹ וְאָבִיו֙ תִּירָ֔אוּ וְאֶת שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+- tradition: judaism
+  ref: Lev 19:4
+  note: 'A Quranic code of commandments resembling the Decalogue in content [divergence between the texts]
+    (Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
+    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
+    iḥsānā. The Sabbath slot is taken by tawḥīd.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אַל תִּפְנוּ֙ אֶל הָ֣אֱלִילִ֔ים וֵֽאלֹהֵי֙ מַסֵּכָ֔ה לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+- tradition: islam
+  ref: Quran 17:22
+  note: 'A Quranic code of commandments resembling the Decalogue in content [divergence between the texts]
+    (Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
+    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
+    iḥsānā. The Sabbath slot is taken by tawḥīd.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا
+- tradition: islam
+  ref: Quran 17:23
+  note: 'A Quranic code of commandments resembling the Decalogue in content [divergence between the texts]
+    (Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
+    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
+    iḥsānā. The Sabbath slot is taken by tawḥīd.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
+    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
+    لَّهُمَا قَوْلًا كَرِيمًا
+- tradition: judaism
+  ref: Lev 19:9
+  note: 'Give the kinsman, the poor and the wayfarer their due (wa-āti dhā l-qurbā ḥaqqahu wa-l-miskīna
+    wa-bna s-sabīl; leʿānî wəlaggēr taʿăzōb ʾōtām: the poor and the traveler or stranger have a claim
+    on one''s produce. Lev gives it as gleanings; Q as a due (ḥaqq) and adds a warning against squandering.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
+    לֹ֥א תְלַקֵּֽט
+- tradition: judaism
+  ref: Lev 19:10
+  note: 'Give the kinsman, the poor and the wayfarer their due (wa-āti dhā l-qurbā ḥaqqahu wa-l-miskīna
+    wa-bna s-sabīl; leʿānî wəlaggēr taʿăzōb ʾōtām: the poor and the traveler or stranger have a claim
+    on one''s produce. Lev gives it as gleanings; Q as a due (ḥaqq) and adds a warning against squandering.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם
+    אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+- tradition: islam
+  ref: Quran 17:26
+  note: Give the kinsman, the poor and the wayfarer their due (ibn al-sabīl)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَءَاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    divergence, parallel. wa-āti dhā l-qurbā ḥaqqahu wa-l-miskīna wa-bna s-sabīl; leʿānî wəlaggēr taʿăzōb
+    ʾōtām: the poor and the traveler or stranger have a claim on one''s produce. Lev gives it as gleanings;
+    Q as a due (ḥaqq) and adds a warning against squandering. Lev pairs parents with Sabbath: ʾîš ʾimmô
+    wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû ʾel-hāʾĕlîlîm. Q pairs parents with God''s
+    sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni iḥsānā. The Sabbath slot is taken by tawḥīd.'
+  basis: reading
+- text: 'Shared motifs, rarest first: A Quranic code of commandments resembling the Decalogue in content
+    [divergence between the texts] (weight 6.7); Give the kinsman, the poor and the wayfarer their due
+    (weight 6.3). Pair score 13.0.'
+  basis: reading
+- text: 'Only in Be holy - ethical laws and love of neighbor: Do not stand idly by the blood of your neighbor;
+    Do not take vengeance or bear a grudge against your people; Do not hate your brother in your heart;
+    rebuke your neighbor instead; Each person must revere mother and father; Command ''You shall be holy,
+    for I am holy''; Fulfill God''s covenant and do not break oaths after confirming them or use them
+    for deceit; Love your neighbor as yourself; Do not curse the deaf or put a stumbling block before
+    the blind; Sacrificial meat eaten on the third day is abhorrent (piggul) and the offering is invalid;
+    The share of the poor in the owner''s harvest or wealth [divergence between the texts]; If you retaliate,
+    do so in kind; but patience is better; Corners of the field, gleanings and fallen grapes left for
+    the poor and the stranger; and 5 more.'
+  basis: reading
+- text: 'Only in The code of commandments (Surah 17:22-39): A Quranic code of commandments resembling
+    the Decalogue in content; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently;
+    Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height; Do
+    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Do not kill
+    the soul God has made sacred except by right; Lower the wing of humility to parents and pray ''Lord,
+    have mercy on them as they raised me when small''; Squanderers are brothers of the devils; Sexual
+    relations with a neighbor''s wife are forbidden [divergence between the texts]; Do not pursue what
+    you have no knowledge of; hearing, sight and heart will be questioned; Do not kill your children for
+    fear of poverty; God provides for them and you; Do not kill the soul God has made sacred except by
+    right [divergence between the texts]; No other gods before YHWH [divergence between the texts]; and
+    9 more.'
+  basis: reading
+- text: 'Be holy - ethical laws and love of neighbor: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The code of commandments (Surah 17:22-39): tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

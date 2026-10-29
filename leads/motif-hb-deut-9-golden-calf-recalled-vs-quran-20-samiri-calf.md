@@ -2,12 +2,14 @@
 id: motif-hb-deut-9-golden-calf-recalled-vs-quran-20-samiri-calf
 title: Not for your righteousness; the golden calf and Moses' intercession recalled ↔ Moses hastens to
   the appointment; the Samiri and the calf
-summary: 'These two units share 2 motifs: calf burned, ground to dust, and the dust thrown into the stream,
-  people make a molten calf while the leader is on the mountain.'
+summary: 'These two units share 3 motifs: calf burned, ground to dust, and the dust thrown into the stream,
+  aaron warns the people against the calf; they refuse to stop until moses returns [divergence between
+  the texts], people make a molten calf while the leader is on the mountain.'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -16,6 +18,7 @@ layers:
 - motif
 motifs:
 - calf-burned-ground-dust-in-stream
+- aaron-opposes-calf-as-divergence
 - golden-calf
 passages:
 - tradition: judaism
@@ -34,6 +37,35 @@ passages:
   text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا لَّن
     تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ
     فِى ٱلْيَمِّ نَسْفًا
+- tradition: judaism
+  ref: Deut 9:20
+  note: 'Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
+    between the texts] (ûbəʾahărōn hitʾannap YHWH məʾōd ləhašmîdô wāʾetpallēl gam-bəʿad ʾahărōn: Deut
+    keeps Aaron guilty and nearly destroyed, saved by Moses'' prayer. Q makes Aaron innocent and the one
+    who warned; only Moses'' anger touches him.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם בְּעַ֥ד אַהֲרֹ֖ן
+    בָּעֵ֥ת הַהִֽוא
+- tradition: islam
+  ref: Quran 20:90
+  note: 'Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
+    between the texts] (Reversal. Exod: Aaron builds the altar before the calf and proclaims ḥag laYHWH
+    māḥār. Q: Aaron warns them, yā qawmi innamā futintum bihi wa-inna rabbakumu r-Raḥmānu fa-ttabiʿūnī,
+    and the people refuse, lan nabraḥa ʿalayhi ʿākifīna ḥattā yarjiʿa ilaynā Mūsā.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ وَإِنَّ رَبَّكُمُ
+    ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
+- tradition: islam
+  ref: Quran 20:91
+  note: 'Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
+    between the texts] (Reversal. Exod: Aaron builds the altar before the calf and proclaims ḥag laYHWH
+    māḥār. Q: Aaron warns them, yā qawmi innamā futintum bihi wa-inna rabbakumu r-Raḥmānu fa-ttabiʿūnī,
+    and the people refuse, lan nabraḥa ʿalayhi ʿākifīna ḥattā yarjiʿa ilaynā Mūsā.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ
 - tradition: judaism
   ref: Deut 9:12
   note: People make a molten calf while the leader is on the mountain
@@ -62,31 +94,39 @@ passages:
   text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ
     فَنَسِىَ
 evidence:
-- text: 'Shared motifs, rarest first: Calf burned, ground to dust, and the dust thrown into the stream
-    (weight 6.7); People make a molten calf while the leader is on the mountain (weight 4.7). Pair score
-    11.4.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    divergence, parallel. ûbəʾahărōn hitʾannap YHWH məʾōd ləhašmîdô wāʾetpallēl gam-bəʿad ʾahărōn: Deut
+    keeps Aaron guilty and nearly destroyed, saved by Moses'' prayer. Q makes Aaron innocent and the one
+    who warned; only Moses'' anger touches him. wāʾeśrōp ʾōtô bāʾēš wāʾekkōt ʾōtô ṭāḥôn hêṭēb ʿad ʾăšer-daq
+    ləʿāpār wāʾašlik ʾet-ʿăpārô ʾel-hannaḥal; la-nuḥarriqannahu thumma la-nansifannahu fī l-yamm: burned,
+    pulverized and thrown into water. Deut has no drinking either.'
   basis: reading
-- text: 'Only in Not for your righteousness; the golden calf and Moses'' intercession recalled: Cities
-    ''great and fortified up to heaven''; Giant descendants (Anakim / Nephilim) inhabit the land; God
-    is a consuming fire, a jealous God; God offers to destroy the people and make a nation of the hero
-    instead; Moses intercedes for Aaron, with whom God was angry enough to destroy him; Land given not
-    for Israel''s righteousness but for the nations'' wickedness; Ancient giant or Rephaite peoples (Rephaim,
-    Zuzim, Emim, Horites) defeated; The prophet neither eats nor drinks for forty days; Prophet intercedes
-    and averts God''s destruction of the people; God calls Israel a stiff-necked people; God gives stone
-    tablets he himself has written; The prophet breaks the tablets in anger at the idolatry; Intercession
-    appeals to what the nations would say of God; Tablets written by the finger of God.'
+- text: 'Shared motifs, rarest first: Calf burned, ground to dust, and the dust thrown into the stream
+    (weight 6.7); Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
+    between the texts] (weight 6.3); People make a molten calf while the leader is on the mountain (weight
+    4.7). Pair score 17.7.'
+  basis: reading
+- text: 'Only in Not for your righteousness; the golden calf and Moses'' intercession recalled: Land given
+    not for Israel''s righteousness but for the nations'' wickedness; Intercession appeals to what the
+    nations would say of God; Moses intercedes for Aaron, with whom God was angry enough to destroy him;
+    Moses prays for Aaron after the calf [divergence between the texts]; Tablets written by the finger
+    of God; Cities ''great and fortified up to heaven''; God offers to destroy the people and make a nation
+    of the hero instead; The prophet neither eats nor drinks for forty days; Prophet intercedes and averts
+    God''s destruction of the people; The prophet breaks the tablets in anger at the idolatry; God is
+    a consuming fire, a jealous God; God calls Israel a stiff-necked people; and 5 more.'
   basis: reading
 - text: 'Only in Moses hastens to the appointment; the Samiri and the calf: Aaron explains he feared being
     blamed for dividing the children of Israel; Aaron warns the people against the calf; they refuse to
-    stop until Moses returns; The calf is burned and its remains scattered in the sea (yamm); The idol
-    calf is a body that makes a lowing sound (khuwar); The calf-maker is condemned to say all his life
-    ''No touching!'' (lā misās), an outcast; The calf is hailed as the god who brought Israel out of Egypt;
-    The calf-maker took a handful (of dust) from the track of the messenger and cast it in; A golden calf
-    is made from the people''s gold earrings; The made idol cannot move from its place, speak or answer
-    and save those who cry to it; Person with skin disease lives alone outside the camp; God asks Moses
-    why he hastened ahead of his people to the appointment; In anger Moses seizes his brother by the beard
-    and head; Aaron pleads ''son of my mother''; A man called al-Sāmirī leads Israel astray and makes
-    the calf.'
+    stop until Moses returns; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
+    is condemned to say all his life ''No touching!'' (lā misās), an outcast; The calf-maker took a handful
+    (of dust) from the track of the messenger and cast it in; God asks Moses why he hastened ahead of
+    his people to the appointment; In anger Moses seizes his brother by the beard and head; Aaron pleads
+    ''son of my mother''; Calf burned, ground to dust, and the dust thrown into the stream [divergence
+    between the texts]; The calf-maker is condemned to say all his life ''No touching!'' (lā misās), an
+    outcast [divergence between the texts]; The calf is hailed as the god who brought Israel out of Egypt
+    [divergence between the texts]; God asks Moses why he hastened ahead of his people to the appointment
+    [divergence between the texts]; In anger Moses seizes his brother by the beard and head; Aaron pleads
+    ''son of my mother'' [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Not for your righteousness; the golden calf and Moses'' intercession recalled: tagged by Claude
     (model), reading the Hebrew.'

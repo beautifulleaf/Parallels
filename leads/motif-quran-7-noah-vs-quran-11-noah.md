@@ -108,28 +108,26 @@ evidence:
 - text: 'Shared motifs, rarest first: The chiefs (al-mala'') of the prophet''s people accuse him of error
     or folly and reject him (weight 6.0); Hero warns or preaches to his people before the flood (weight
     5.2); Prophet''s refrain to his people: ''Worship God; you have no god other than him'' (weight 5.2);
-    Destruction follows the people''s rejection of a messenger (weight 4.9); Hero''s family saved with
-    him (weight 4.5). Pair score 25.8.'
+    Destruction follows the people''s rejection of a messenger (weight 4.8); Hero''s family saved with
+    him (weight 4.5). Pair score 25.7.'
   basis: reading
-- text: 'Only in Noah warns his people: The drowned/destroyed were a blind people; People marvel that
-    a reminder came through a man from among them; Prophet calls himself his people''s sincere and trustworthy
-    adviser (nasih amin).'
+- text: 'Only in Noah warns his people: The drowned/destroyed were a blind people; Destruction follows
+    the people''s rejection of a messenger [divergence between the texts]; Hero warns or preaches to his
+    people before the flood [divergence between the texts]; People marvel that a reminder came through
+    a man from among them; Prophet calls himself his people''s sincere and trustworthy adviser (nasih
+    amin); The righteous man''s warning is taken as a joke by his own relatives; Hero''s family saved
+    with him [divergence between the texts].'
   basis: reading
-- text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Animals taken aboard in pairs; Embark:
-    ''in the name of God be its sailing and its mooring''; Refrain ''away with...'' (bu''dan li-) the
-    destroyed people; Hero blessed on leaving the vessel; The flood waters are hot or boiling; Hero builds
-    a vessel on divine instruction; Deity decides to destroy humankind; God commands: ''Earth, swallow
-    your water; sky, withhold!'' and the water subsides; A member of the hero''s family is lost; Hero
-    privately warned of the coming flood by a deity; The prophet''s opponents object that only the lowliest
-    follow him; he refuses to drive the believers away; Someone seeks refuge on a mountain and is drowned;
-    Noah reminds God that his son is of his family and God''s promise is true; Deniers dare the prophet:
-    ''Bring us what you threaten, if you are truthful''; People mock the hero while he builds the vessel;
-    The Prophet asks no wage for the message; The prophet disclaims having God''s treasuries, knowing
-    the unseen, or being an angel; God forbids the prophet to pray or intercede for the people, for he
-    will not hear; The elite scorn the prophet because only the lowest of them follow him; A specific
-    sign marks the moment to board; God answers that the drowned son is not of Noah''s family: ''he is
-    a deed not righteous''; The prophet''s stories are ''tidings of the unseen'' unknown to him and his
-    people before; Vessel comes to rest on a named mountain; The ark sails through waves like mountains.'
+- text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Embark: ''in the name of God be its
+    sailing and its mooring''; God commands: ''Earth, swallow your water; sky, withhold!'' and the water
+    subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
+    the prophet because only the lowest of them follow him; God answers that the drowned son is not of
+    Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
+    unknown to him and his people before; The ark sails through waves like mountains; What the flood hero
+    does when the vessel comes to rest; What God says of later generations after the flood: no repeat,
+    or punishment to come [contrast between the texts]; How the flood waters are stopped and subside [divergence
+    between the texts]; The prophet''s opponents object that only the lowliest follow him; he refuses
+    to drive the believers away; Someone seeks refuge on a mountain and is drowned; and 24 more.'
   basis: reading
 - text: 'Noah warns his people: tagged by Claude (model), reading the Arabic.'
   basis: reading

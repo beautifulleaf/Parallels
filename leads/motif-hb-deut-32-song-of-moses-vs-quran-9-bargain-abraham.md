@@ -1,0 +1,102 @@
+---
+id: motif-hb-deut-32-song-of-moses-vs-quran-9-bargain-abraham
+title: The Song of Moses (Ha'azinu) ↔ The bargain of lives for paradise; Abraham's prayer for his father
+summary: 'These two units share 2 motifs: god as purchaser of his people [divergence between the texts],
+  i kill and i make alive, i wound and i heal; there is no god beside me.'
+status: new
+relations:
+- convergence
+- response
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- god-as-purchaser-of-his-people-as-divergence
+- i-kill-and-make-alive
+passages:
+- tradition: judaism
+  ref: Deut 32:6
+  note: 'God as purchaser of his people [divergence between the texts] (God as purchaser of his people:
+    inna llāha shtarā mina l-muʾminīna anfusahum wa-amwālahum bi-anna lahumu l-janna vs hălôʾ-hûʾ ʾābîkā
+    qānekā (qnh, ''acquired''). In Deut the purchase is of Israel at its creation; in Q it is a trade
+    of lives and wealth for paradise, which Q says is promised also in the Torah (waʿdan ʿalayhi ḥaqqan
+    fī t-tawrāti). No Torah verse promises paradise for fighting; check that claim.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הֲ לַיְהוָה֙ תִּגְמְלוּ זֹ֔את עַ֥ם נָבָ֖ל וְלֹ֣א חָכָ֑ם הֲלוֹא הוּא֙ אָבִ֣יךָ קָּנֶ֔ךָ ה֥וּא עָֽשְׂךָ֖
+    וַֽיְכֹנְנֶֽךָ
+- tradition: islam
+  ref: Quran 9:111
+  note: 'God as purchaser of his people [divergence between the texts] (God as purchaser of his people:
+    inna llāha shtarā mina l-muʾminīna anfusahum wa-amwālahum bi-anna lahumu l-janna vs hălôʾ-hûʾ ʾābîkā
+    qānekā (qnh, ''acquired''). In Deut the purchase is of Israel at its creation; in Q it is a trade
+    of lives and wealth for paradise, which Q says is promised also in the Torah (waʿdan ʿalayhi ḥaqqan
+    fī t-tawrāti). No Torah verse promises paradise for fighting; check that claim.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ
+    يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ
+    وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ
+    ٱلَّذِى بَايَعْتُم بِهِۦ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+- tradition: judaism
+  ref: Deut 32:39
+  note: I kill and I make alive, I wound and I heal; there is no god beside me (אני אני הוא)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+- tradition: islam
+  ref: Quran 9:116
+  note: I kill and I make alive, I wound and I heal; there is no god beside me
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَمَا لَكُم مِّن دُونِ
+    ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    divergence, parallel. God as purchaser of his people: inna llāha shtarā mina l-muʾminīna anfusahum
+    wa-amwālahum bi-anna lahumu l-janna vs hălôʾ-hûʾ ʾābîkā qānekā (qnh, ''acquired''). In Deut the purchase
+    is of Israel at its creation; in Q it is a trade of lives and wealth for paradise, which Q says is
+    promised also in the Torah (waʿdan ʿalayhi ḥaqqan fī t-tawrāti). No Torah verse promises paradise
+    for fighting; check that claim. yuḥyī wa-yumītu wa-mā lakum min dūni llāhi min waliyyin wa-lā naṣīr
+    vs ʾănî ʾāmît waʾăḥayyeh ... wᵉʾên miyyādî maṣṣîl.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God as purchaser of his people [divergence between the texts] (weight
+    6.7); I kill and I make alive, I wound and I heal; there is no god beside me (weight 5.1). Pair score
+    11.8.'
+  basis: reading
+- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
+    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
+    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
+    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
+    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
+    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
+    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
+    who acquired, made and established his people; God raises his hand to heaven and swears: as I live
+    forever; and 29 more.'
+  basis: reading
+- text: 'Only in The bargain of lives for paradise; Abraham''s prayer for his father: God has bought from
+    the believers their lives and wealth for paradise; a promise in Torah, Gospel and Quran; Believers
+    may not pray for forgiveness for polytheists, even close kin; Catalogue of believers: repenting, worshiping,
+    praising, wandering/fasting (sa''ihun), bowing, prostrating, enjoining right; How Abraham parts from
+    his father and his father''s land or gods; Abraham prayed for his father''s forgiveness only by a
+    promise, and disowned him when he proved God''s enemy; Hero''s father makes, sells or worships idols
+    [divergence between the texts]; Hero''s father makes, sells or worships idols.'
+  basis: reading
+- text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The bargain of lives for paradise; Abraham''s prayer for his father: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

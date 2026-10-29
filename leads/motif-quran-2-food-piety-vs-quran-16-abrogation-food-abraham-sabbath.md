@@ -76,6 +76,9 @@ passages:
   text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ
     ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: Forbidden: what has been consecrated (invoked over) to other than
     God (weight 6.7); Forbidden food is permitted to one compelled by necessity, without desire or transgression
     (weight 6.0); Eating blood is forbidden (weight 5.6); The pig is unclean and forbidden (weight 5.3).

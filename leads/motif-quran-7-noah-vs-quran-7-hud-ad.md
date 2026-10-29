@@ -95,18 +95,22 @@ evidence:
     (weight 6.3); Prophet calls himself his people''s sincere and trustworthy adviser (nasih amin) (weight
     6.3); The chiefs (al-mala'') of the prophet''s people accuse him of error or folly and reject him
     (weight 6.0); Prophet''s refrain to his people: ''Worship God; you have no god other than him'' (weight
-    5.2); Destruction follows the people''s rejection of a messenger (weight 4.9). Pair score 28.7.'
+    5.2); Destruction follows the people''s rejection of a messenger (weight 4.8). Pair score 28.6.'
   basis: reading
-- text: 'Only in Noah warns his people: The drowned/destroyed were a blind people; Hero''s family saved
-    with him; Hero warns or preaches to his people before the flood.'
+- text: 'Only in Noah warns his people: The drowned/destroyed were a blind people; Destruction follows
+    the people''s rejection of a messenger [divergence between the texts]; Hero warns or preaches to his
+    people before the flood [divergence between the texts]; The righteous man''s warning is taken as a
+    joke by his own relatives; Hero''s family saved with him [divergence between the texts]; Hero warns
+    or preaches to his people before the flood; Hero''s family saved with him.'
   basis: reading
-- text: 'Only in Hud and the people of Ad: A later people (Ad, then Thamud) are made successors on the
-    earth after a destroyed people; Unbelievers defend their practice as what they found their fathers
-    doing; False gods are only names the people and their fathers invented, with no authority from God;
-    Deniers dare the prophet: ''Bring us what you threaten, if you are truthful''; The people of Ad are
-    given increased stature (bastatan fi l-khalq); Ancient giant or Rephaite peoples (Rephaim, Zuzim,
-    Emim, Horites) defeated; God cuts off the last remnant (root, dabir) of a people who denied; Prophet
-    tells deniers ''Wait, I too am waiting''.'
+- text: 'Only in Hud and the people of Ad: False gods are only names the people and their fathers invented,
+    with no authority from God; The people of Ad are given increased stature (bastatan fi l-khalq); Other
+    nations displaced earlier peoples just as Israel will (Horites, Avvim by Caphtorim); God cuts off
+    the last remnant (root, dabir) of a people who denied; A people of great stature is destroyed and
+    cut off at the root; A later people (Ad, then Thamud) are made successors on the earth after a destroyed
+    people; Prophet tells deniers ''Wait, I too am waiting''; Deniers dare the prophet: ''Bring us what
+    you threaten, if you are truthful''; Unbelievers defend their practice as what they found their fathers
+    doing; Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated.'
   basis: reading
 - text: 'Noah warns his people: tagged by Claude (model), reading the Arabic.'
   basis: reading

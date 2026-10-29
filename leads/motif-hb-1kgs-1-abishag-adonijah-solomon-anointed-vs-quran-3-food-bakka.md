@@ -5,7 +5,6 @@ title: Abishag warms the old king; Adonijah's feast; Solomon anointed at Gihon �
 summary: 'These two units share 1 motifs: a fugitive grasps the horns of the altar seeking asylum.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -39,29 +38,36 @@ passages:
     ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ
     ٱلْعَٰلَمِينَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    echo. 1Kgs 1:50-51 wa-yyaḥăzēq bĕ-qarnôt ha-mmizbēaḥ ... yiššābaʿ lî ... ʾim yāmît ʾet ʿabdô be-ḥāreb:
+    Adonijah seizes the altar horns and asks an oath he will not be killed; Q 3:97 wa-man dakhalahu kāna
+    āminan: whoever enters the House is safe. In Kings safety depends on the king''s oath; in the Quran
+    it is a property of the House.'
+  basis: reading
 - text: 'Shared motifs, rarest first: A fugitive grasps the horns of the altar seeking asylum (weight
     6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in Abishag warms the old king; Adonijah''s feast; Solomon anointed at Gihon: The aged king
-    bows in worship upon his bed; A king is anointed at a spring; Prophet anoints the chosen king with
-    a horn of oil among his brothers; the spirit comes on him; A pretender equips himself with a chariot,
-    horses and fifty runners; The people''s shouting is so loud the earth splits; A prince was never rebuked
-    by his father; The new king rides the old king''s mule to his anointing; People acclaim ''Long live
-    the king!''; News of the rival''s coronation reaches the pretender''s feast and the guests scatter;
-    Oath that not one hair of the person shall fall to the ground; A pretender holds a sacrificial feast
-    proclaiming himself king; The prophet and the heir''s mother stage a coordinated petition to the aged
-    king; The court divides into factions backing rival heirs; The king had sworn privately that a particular
-    son would succeed him; Sound of the shofar as signal to proclaim a new king; A beautiful virgin is
-    brought to lie with the aged king to keep him warm, without intercourse.'
+    bows in worship upon his bed; A king is anointed at a spring; The people''s shouting is so loud the
+    earth splits; A prince was never rebuked by his father; The new king rides the old king''s mule to
+    his anointing; News of the rival''s coronation reaches the pretender''s feast and the guests scatter;
+    A pretender holds a sacrificial feast proclaiming himself king; The prophet and the heir''s mother
+    stage a coordinated petition to the aged king; The court divides into factions backing rival heirs;
+    The king had sworn privately that a particular son would succeed him; A beautiful virgin is brought
+    to lie with the aged king to keep him warm, without intercourse; A pretender equips himself with a
+    chariot, horses and fifty runners; and 4 more.'
   basis: reading
-- text: 'Only in Israel''s self-imposed food law and the House at Bakka: Abraham was a hanif, neither
-    Jew nor Christian nor polytheist; The first House appointed for mankind was the one at Bakka, blessed;
-    The House (Kaaba) made a place of return and security for mankind; All food was lawful to the Children
-    of Israel except what Israel (Jacob) forbade himself before the Torah; Pilgrimage to the House is
-    a duty to God for whoever is able to find a way; Israelites do not eat the sciatic sinew (gid ha-nasheh)
-    because of the wrestling; You will not attain righteousness until you spend from what you love; The
-    Station of Abraham (maqam Ibrahim) at the House taken as a place of prayer; Pilgrims passing through
-    the Valley of Baca (weeping/balsam) make it a place of springs.'
+- text: 'Only in Israel''s self-imposed food law and the House at Bakka: The first House appointed for
+    mankind was the one at Bakka, blessed; All food was lawful to the Children of Israel except what Israel
+    (Jacob) forbade himself before the Torah; Pilgrimage to the House is a duty to God for whoever is
+    able to find a way; Whether one who takes refuge at the sanctuary is safe [contrast between the texts];
+    Baca / Bakka on the pilgrims'' way or as the House [divergence between the texts]; A food taboo of
+    Israel (Jacob) before the Torah [divergence between the texts]; Israelites do not eat the sciatic
+    sinew (gid ha-nasheh) because of the wrestling; You will not attain righteousness until you spend
+    from what you love; The Station of Abraham (maqam Ibrahim) at the House taken as a place of prayer;
+    Pilgrims passing through the Valley of Baca (weeping/balsam) make it a place of springs; The House
+    (Kaaba) made a place of return and security for mankind; Abraham was a hanif, neither Jew nor Christian
+    nor polytheist.'
   basis: reading
 - text: 'Abishag warms the old king; Adonijah''s feast; Solomon anointed at Gihon: tagged by Claude (model),
     reading the Hebrew.'

@@ -2,9 +2,9 @@
 id: motif-hb-2sam-7-dynastic-oracle-vs-hb-1chr-17-dynastic-oracle
 title: Nathan's oracle of the eternal house of David and David's prayer ↔ Nathan's oracle of an eternal
   house and David's prayer
-summary: 'These two units share 9 motifs: god took the ruler from following the sheep, prayer of humility:
-  ''who am i and what is my house?'', israel is the one nation on earth whom god went to redeem for himself,
-  god has never dwelt in a house but moved from tent to tent….'
+summary: 'These two units share 9 motifs: a prophet approves a plan, then is corrected by a revelation
+  that night, prayer of humility: ''who am i and what is my house?'', god took the ruler from following
+  the sheep, israel is the one nation on earth whom god went to redeem for himself….'
 status: new
 relations:
 - internal
@@ -14,31 +14,42 @@ traditions:
 layers:
 - motif
 motifs:
-- shepherd-called-from-flock-to-rule
+- prophet-corrected-by-night-revelation
 - who-am-i-humility-prayer
+- shepherd-called-from-flock-to-rule
 - israel-unique-nation-redeemed
 - god-dwelt-in-tent-not-house
-- son-builds-temple-for-name
-- prophet-corrected-by-night-revelation
 - great-name-promised
+- son-builds-temple-for-name
 - king-as-son-of-god
 - eternal-davidic-dynasty
 passages:
 - tradition: judaism
-  ref: 2Sam 7:8
-  note: God took the ruler from following the sheep ('I took you from the pasture, from following the
-    sheep')
+  ref: 2Sam 7:3
+  note: A prophet approves a plan, then is corrected by a revelation that night (Nathan first approves,
+    then is told otherwise that night)
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠עַתָּה כֹּֽה תֹאמַ֞ר לְעַבְדִּ֣י לְדָוִ֗ד כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֲנִ֤י לְקַחְתִּ֨יךָ֙
-    מִן הַנָּוֶ֔ה מֵאַחַ֖ר הַצֹּ֑אן לִֽהְי֣וֹת נָגִ֔יד עַל עַמִּ֖י עַל יִשְׂרָאֵֽל
+  text: וַיֹּ֤אמֶר נָתָן֙ אֶל הַמֶּ֔לֶךְ כֹּ֛ל אֲשֶׁ֥ר בִּֽלְבָבְךָ֖ לֵ֣ךְ עֲשֵׂ֑ה כִּ֥י יְהוָ֖ה עִמָּֽךְ
 - tradition: judaism
-  ref: 1Chr 17:7
-  note: God took the ruler from following the sheep
+  ref: 2Sam 7:4
+  note: A prophet approves a plan, then is corrected by a revelation that night (Nathan first approves,
+    then is told otherwise that night)
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠עַתָּה כֹּֽה תֹאמַ֞ר לְעַבְדִּ֣י לְדָוִ֗יד כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֲנִ֤י לְקַחְתִּ֨יךָ֙
-    מִן הַנָּוֶ֔ה מִֽן אַחֲרֵ֖י הַצֹּ֑אן לִהְי֣וֹת נָגִ֔יד עַ֖ל עַמִּ֥י יִשְׂרָאֵֽל
+  text: וַיְהִ֖י בַּלַּ֣יְלָה הַה֑וּא וַֽיְהִי֙ דְּבַר יְהוָ֔ה אֶל נָתָ֖ן לֵאמֹֽר
+- tradition: judaism
+  ref: 1Chr 17:2
+  note: A prophet approves a plan, then is corrected by a revelation that night
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֤אמֶר נָתָן֙ אֶל דָּוִ֔יד כֹּ֛ל אֲשֶׁ֥ר בִּֽלְבָבְךָ֖ עֲשֵׂ֑ה כִּ֥י הָאֱלֹהִ֖ים עִמָּֽךְ
+- tradition: judaism
+  ref: 1Chr 17:3
+  note: A prophet approves a plan, then is corrected by a revelation that night
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַֽיְהִ֖י בַּלַּ֣יְלָה הַה֑וּא וַיְהִי֙ דְּבַר אֱלֹהִ֔ים אֶל נָתָ֖ן לֵאמֹֽר
 - tradition: judaism
   ref: 2Sam 7:18
   note: 'Prayer of humility: ''Who am I and what is my house?'' (David ''sits before YHWH'')'
@@ -62,6 +73,21 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַתִּקְטַ֨ן זֹ֤את בְּעֵינֶ֨יךָ֙ אֱלֹהִ֔ים וַתְּדַבֵּ֥ר עַל בֵּֽית עַבְדְּךָ֖ לְמֵרָח֑וֹק וּרְאִיתַ֗נִי
     כְּת֧וֹר הָאָדָ֛ם הַֽמַּעֲלָ֖ה יְהוָ֥ה אֱלֹהִֽים
+- tradition: judaism
+  ref: 2Sam 7:8
+  note: God took the ruler from following the sheep ('I took you from the pasture, from following the
+    sheep')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְ֠עַתָּה כֹּֽה תֹאמַ֞ר לְעַבְדִּ֣י לְדָוִ֗ד כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֲנִ֤י לְקַחְתִּ֨יךָ֙
+    מִן הַנָּוֶ֔ה מֵאַחַ֖ר הַצֹּ֑אן לִֽהְי֣וֹת נָגִ֔יד עַל עַמִּ֖י עַל יִשְׂרָאֵֽל
+- tradition: judaism
+  ref: 1Chr 17:7
+  note: God took the ruler from following the sheep
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְ֠עַתָּה כֹּֽה תֹאמַ֞ר לְעַבְדִּ֣י לְדָוִ֗יד כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֲנִ֤י לְקַחְתִּ֨יךָ֙
+    מִן הַנָּוֶ֔ה מִֽן אַחֲרֵ֖י הַצֹּ֑אן לִהְי֣וֹת נָגִ֔יד עַ֖ל עַמִּ֥י יִשְׂרָאֵֽל
 - tradition: judaism
   ref: 2Sam 7:23
   note: 'Israel is the one nation on earth whom God went to redeem for himself (Plural verb: ''gods went
@@ -126,6 +152,20 @@ passages:
   text: בְּכֹ֥ל אֲשֶֽׁר הִתְהַלַּכְתִּי֮ בְּכָל יִשְׂרָאֵל֒ הֲדָבָ֣ר דִּבַּ֗רְתִּי אֶת אַחַד֙ שֹׁפְטֵ֣י
     יִשְׂרָאֵ֔ל אֲשֶׁ֥ר צִוִּ֛יתִי לִרְע֥וֹת אֶת עַמִּ֖י לֵאמֹ֑ר לָ֛מָּה לֹא בְנִיתֶ֥ם לִ֖י בֵּ֥ית אֲרָזִֽים
 - tradition: judaism
+  ref: 2Sam 7:9
+  note: God promises to make the chosen one's name great
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וָאֶהְיֶ֣ה עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָאַכְרִ֥תָה אֶת כָּל אֹיְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤תִֽי
+    לְךָ֙ שֵׁ֣ם גָּד֔וֹל כְּשֵׁ֥ם הַגְּדֹלִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ
+- tradition: judaism
+  ref: 1Chr 17:8
+  note: God promises to make the chosen one's name great
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וָֽאֶהְיֶ֣ה עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָאַכְרִ֥ית אֶת כָּל אוֹיְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤יתִֽי
+    לְךָ֙ שֵׁ֔ם כְּשֵׁ֥ם הַגְּדוֹלִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ
+- tradition: judaism
   ref: 2Sam 7:13
   note: The king's son, not the king, will build the house for God's name
   lang: he
@@ -144,46 +184,6 @@ passages:
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: ה֥וּא יִבְנֶה לִּ֖י בָּ֑יִת וְכֹנַנְתִּ֥י אֶת כִּסְא֖וֹ עַד עוֹלָֽם
-- tradition: judaism
-  ref: 2Sam 7:3
-  note: A prophet approves a plan, then is corrected by a revelation that night (Nathan first approves,
-    then is told otherwise that night)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר נָתָן֙ אֶל הַמֶּ֔לֶךְ כֹּ֛ל אֲשֶׁ֥ר בִּֽלְבָבְךָ֖ לֵ֣ךְ עֲשֵׂ֑ה כִּ֥י יְהוָ֖ה עִמָּֽךְ
-- tradition: judaism
-  ref: 2Sam 7:4
-  note: A prophet approves a plan, then is corrected by a revelation that night (Nathan first approves,
-    then is told otherwise that night)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֖י בַּלַּ֣יְלָה הַה֑וּא וַֽיְהִי֙ דְּבַר יְהוָ֔ה אֶל נָתָ֖ן לֵאמֹֽר
-- tradition: judaism
-  ref: 1Chr 17:2
-  note: A prophet approves a plan, then is corrected by a revelation that night
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר נָתָן֙ אֶל דָּוִ֔יד כֹּ֛ל אֲשֶׁ֥ר בִּֽלְבָבְךָ֖ עֲשֵׂ֑ה כִּ֥י הָאֱלֹהִ֖ים עִמָּֽךְ
-- tradition: judaism
-  ref: 1Chr 17:3
-  note: A prophet approves a plan, then is corrected by a revelation that night
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִ֖י בַּלַּ֣יְלָה הַה֑וּא וַיְהִי֙ דְּבַר אֱלֹהִ֔ים אֶל נָתָ֖ן לֵאמֹֽר
-- tradition: judaism
-  ref: 2Sam 7:9
-  note: God promises to make the chosen one's name great
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶהְיֶ֣ה עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָאַכְרִ֥תָה אֶת כָּל אֹיְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤תִֽי
-    לְךָ֙ שֵׁ֣ם גָּד֔וֹל כְּשֵׁ֥ם הַגְּדֹלִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ
-- tradition: judaism
-  ref: 1Chr 17:8
-  note: God promises to make the chosen one's name great
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָֽאֶהְיֶ֣ה עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָאַכְרִ֥ית אֶת כָּל אוֹיְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤יתִֽי
-    לְךָ֙ שֵׁ֔ם כְּשֵׁ֥ם הַגְּדוֹלִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ
 - tradition: judaism
   ref: 2Sam 7:14
   note: 'God declares the king his son: ''I will be his father and he my son'' (''I will be a father to
@@ -227,26 +227,28 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: ה֥וּא יִבְנֶה לִּ֖י בָּ֑יִת וְכֹנַנְתִּ֥י אֶת כִּסְא֖וֹ עַד עוֹלָֽם
 evidence:
-- text: 'Shared motifs, rarest first: God took the ruler from following the sheep (weight 6.7); Prayer
-    of humility: ''Who am I and what is my house?'' (weight 6.7); Israel is the one nation on earth whom
-    God went to redeem for himself (weight 6.7); God has never dwelt in a house but moved from tent to
-    tent (weight 6.7); The king''s son, not the king, will build the house for God''s name (weight 6.7);
-    A prophet approves a plan, then is corrected by a revelation that night (weight 6.7); God promises
-    to make the chosen one''s name great (weight 6.7); God declares the king his son: ''I will be his
+- text: 'Shared motifs, rarest first: A prophet approves a plan, then is corrected by a revelation that
+    night (weight 6.7); Prayer of humility: ''Who am I and what is my house?'' (weight 6.7); God took
+    the ruler from following the sheep (weight 6.7); Israel is the one nation on earth whom God went to
+    redeem for himself (weight 6.7); God has never dwelt in a house but moved from tent to tent (weight
+    6.7); God promises to make the chosen one''s name great (weight 6.7); The king''s son, not the king,
+    will build the house for God''s name (weight 6.7); God declares the king his son: ''I will be his
     father and he my son'' (weight 6.0); God promises David''s house and throne will endure forever (weight
     5.8). Pair score 58.6.'
   basis: reading
-- text: 'Only in Nathan''s oracle of the eternal house of David and David''s prayer: God disciplines Israel
-    as a man disciplines his son; God''s steadfast love will not be withdrawn from the heir as it was
-    from the previous king; ''Who is like you among the gods, YHWH?''; The king, living in a cedar palace,
-    proposes to build a house for God; Obscure phrase ''this is the torah of man (adam)''; Wordplay on
-    ''house'' as temple and as dynasty.'
+- text: 'Only in Nathan''s oracle of the eternal house of David and David''s prayer: God''s steadfast
+    love will not be withdrawn from the heir as it was from the previous king; The king, living in a cedar
+    palace, proposes to build a house for God; Obscure phrase ''this is the torah of man (adam)''; Wordplay
+    on ''house'' as temple and as dynasty; God disciplines Israel as a man disciplines his son; Whether
+    God has, begets or takes sons or other offspring [contrast between the texts]; Whether God has a son,
+    or calls his anointed king his begotten son [contrast between the texts]; ''Who is like you among
+    the gods, YHWH?''.'
   basis: reading
-- text: 'Only in Nathan''s oracle of an eternal house and David''s prayer: Chronicles differs in a specific
-    detail from its parallel in Samuel–Kings; Pun on ''house'': the king would build God a house; God
-    will build the king a house (dynasty); Revelation described as God ''uncovering the ear'' of his servant;
-    The king lives in a cedar house while the ark of God remains under curtains; ''There is none like
-    you and no God beside you''.'
+- text: 'Only in Nathan''s oracle of an eternal house and David''s prayer: Pun on ''house'': the king
+    would build God a house; God will build the king a house (dynasty); Revelation described as God ''uncovering
+    the ear'' of his servant; The king lives in a cedar house while the ark of God remains under curtains;
+    ''There is none like you and no God beside you''; Chronicles differs in a specific detail from its
+    parallel in Samuel–Kings.'
   basis: reading
 - text: 'Nathan''s oracle of the eternal house of David and David''s prayer: tagged by Claude (model),
     reading the Hebrew.'

@@ -1,12 +1,12 @@
 ---
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-2-adam-iblis
 title: Second creation account, Eden, and the making of woman ↔ Adam, the angels and Iblis
-summary: 'These two units share 3 motifs: the first man names the animals, a tree of knowledge whose fruit
-  is forbidden, god plants a garden (eden) in the east and places the first human there.'
+summary: 'These two units share 6 motifs: the garden given to the first humans to live and eat in [divergence
+  between the texts], the tree forbidden to the first humans [divergence between the texts], the first
+  man names the animals, the first man and the names of the creatures [divergence between the texts]….'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -14,10 +14,61 @@ traditions:
 layers:
 - motif
 motifs:
+- garden-given-to-first-couple-as-divergence
+- forbidden-tree-as-divergence
 - adam-names-animals
+- first-man-and-the-names-as-divergence
 - tree-of-knowledge-forbidden
 - garden-of-god-in-east
 passages:
+- tradition: judaism
+  ref: Gen 2:8
+  note: 'The garden given to the first humans to live and eat in [divergence between the texts] (Gen 2:8
+    gan bĕ-ʿēden miqqedem, 2:16 mi-kkōl ʿēṣ ha-gān ʾākōl tōʾkēl (said to the man alone, before the woman
+    is made); Q 2:35 uskun anta wa-zawjuka l-jannata wa-kulā minhā raghadan ḥaythu shiʾtumā: ''the Garden''
+    with no place in the east, and the permission is given to both (dual) together.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּטַּ֞ע יְהוָ֧ה אֱלֹהִ֛ים גַּן בְעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם אֶת הָֽאָדָ֖ם אֲשֶׁ֥ר יָצָֽר
+- tradition: judaism
+  ref: Gen 2:16
+  note: 'The garden given to the first humans to live and eat in [divergence between the texts] (Gen 2:8
+    gan bĕ-ʿēden miqqedem, 2:16 mi-kkōl ʿēṣ ha-gān ʾākōl tōʾkēl (said to the man alone, before the woman
+    is made); Q 2:35 uskun anta wa-zawjuka l-jannata wa-kulā minhā raghadan ḥaythu shiʾtumā: ''the Garden''
+    with no place in the east, and the permission is given to both (dual) together.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְצַו֙ יְהוָ֣ה אֱלֹהִ֔ים עַל הָֽאָדָ֖ם לֵאמֹ֑ר מִכֹּ֥ל עֵֽץ הַגָּ֖ן אָכֹ֥ל תֹּאכֵֽל
+- tradition: islam
+  ref: Quran 2:35
+  note: 'The garden given to the first humans to live and eat in [divergence between the texts] (Gen 2:8
+    gan bĕ-ʿēden miqqedem, 2:16 mi-kkōl ʿēṣ ha-gān ʾākōl tōʾkēl (said to the man alone, before the woman
+    is made); Q 2:35 uskun anta wa-zawjuka l-jannata wa-kulā minhā raghadan ḥaythu shiʾtumā: ''the Garden''
+    with no place in the east, and the permission is given to both (dual) together.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا
+    وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+- tradition: judaism
+  ref: Gen 2:17
+  note: The tree forbidden to the first humans [divergence between the texts] (Gen 2:17 û-mē-ʿēṣ ha-daʿat
+    ṭôb wā-rāʿ lōʾ tōʾkal mimmennû kî bĕ-yôm ʾăkolkā mimmennû môt tāmût; Q 2:35 wa-lā taqrabā hādhihi
+    sh-shajarata fa-takūnā mina ẓ-ẓālimīn. The tree has no name (no 'knowledge of good and evil'); the
+    sanction is to become wrongdoers, not death.)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּמֵעֵ֗ץ הַדַּ֨עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ מ֥וֹת
+    תָּמֽוּת
+- tradition: islam
+  ref: Quran 2:35
+  note: The tree forbidden to the first humans [divergence between the texts] (Gen 2:17 û-mē-ʿēṣ ha-daʿat
+    ṭôb wā-rāʿ lōʾ tōʾkal mimmennû kî bĕ-yôm ʾăkolkā mimmennû môt tāmût; Q 2:35 wa-lā taqrabā hādhihi
+    sh-shajarata fa-takūnā mina ẓ-ẓālimīn. The tree has no name (no 'knowledge of good and evil'); the
+    sanction is to become wrongdoers, not death.)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا
+    وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 - tradition: judaism
   ref: Gen 2:19
   note: The first man names the animals
@@ -48,6 +99,58 @@ passages:
   text: قَالَ يَٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ
     أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ
     تَكْتُمُونَ
+- tradition: judaism
+  ref: Gen 2:19
+  note: 'The first man and the names of the creatures [divergence between the texts] (Who knows the names
+    is reversed. Gen 2:19 wa-yyābēʾ ʾel hā-ʾādām lirʾôt mah yyiqrāʾ lô ... wa-yyiqrāʾ hā-ʾādām šēmôt:
+    God brings the animals ''to see what he would call them'' and the man invents the names; Q 2:31 wa-ʿallama
+    ādama l-asmāʾa kullahā thumma ʿaraḍahum ʿalā l-malāʾikati: God teaches Adam all the names and displays
+    the creatures to the angels as a test, ending innī aʿlamu ghayba s-samāwāti wa-l-arḍ (2:33). Human
+    initiative before an observing God becomes knowledge given by an all-knowing God, and the scene becomes
+    a contest with the angels.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים מִן הָֽאֲדָמָ֗ה כָּל חַיַּ֤ת הַשָּׂדֶה֙ וְאֵת֙ כָּל ע֣וֹף הַשָּׁמַ֔יִם
+    וַיָּבֵא֙ אֶל הָ֣אָדָ֔ם לִרְא֖וֹת מַה יִּקְרָא ל֑וֹ וְכֹל֩ אֲשֶׁ֨ר יִקְרָא ל֧וֹ הָֽאָדָ֛ם נֶ֥פֶשׁ
+    חַיָּ֖ה ה֥וּא שְׁמֽוֹ
+- tradition: judaism
+  ref: Gen 2:20
+  note: 'The first man and the names of the creatures [divergence between the texts] (Who knows the names
+    is reversed. Gen 2:19 wa-yyābēʾ ʾel hā-ʾādām lirʾôt mah yyiqrāʾ lô ... wa-yyiqrāʾ hā-ʾādām šēmôt:
+    God brings the animals ''to see what he would call them'' and the man invents the names; Q 2:31 wa-ʿallama
+    ādama l-asmāʾa kullahā thumma ʿaraḍahum ʿalā l-malāʾikati: God teaches Adam all the names and displays
+    the creatures to the angels as a test, ending innī aʿlamu ghayba s-samāwāti wa-l-arḍ (2:33). Human
+    initiative before an observing God becomes knowledge given by an all-knowing God, and the scene becomes
+    a contest with the angels.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכָל הַבְּהֵמָה֙ וּלְע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה
+    וּלְאָדָ֕ם לֹֽא מָצָ֥א עֵ֖זֶר כְּנֶגְדּֽוֹ
+- tradition: islam
+  ref: Quran 2:31
+  note: 'The first man and the names of the creatures [divergence between the texts] (Who knows the names
+    is reversed. Gen 2:19 wa-yyābēʾ ʾel hā-ʾādām lirʾôt mah yyiqrāʾ lô ... wa-yyiqrāʾ hā-ʾādām šēmôt:
+    God brings the animals ''to see what he would call them'' and the man invents the names; Q 2:31 wa-ʿallama
+    ādama l-asmāʾa kullahā thumma ʿaraḍahum ʿalā l-malāʾikati: God teaches Adam all the names and displays
+    the creatures to the angels as a test, ending innī aʿlamu ghayba s-samāwāti wa-l-arḍ (2:33). Human
+    initiative before an observing God becomes knowledge given by an all-knowing God, and the scene becomes
+    a contest with the angels.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى
+    بِأَسْمَآءِ هَٰٓؤُلَآءِ إِن كُنتُمْ صَٰدِقِينَ
+- tradition: islam
+  ref: Quran 2:32
+  note: 'The first man and the names of the creatures [divergence between the texts] (Who knows the names
+    is reversed. Gen 2:19 wa-yyābēʾ ʾel hā-ʾādām lirʾôt mah yyiqrāʾ lô ... wa-yyiqrāʾ hā-ʾādām šēmôt:
+    God brings the animals ''to see what he would call them'' and the man invents the names; Q 2:31 wa-ʿallama
+    ādama l-asmāʾa kullahā thumma ʿaraḍahum ʿalā l-malāʾikati: God teaches Adam all the names and displays
+    the creatures to the angels as a test, ending innī aʿlamu ghayba s-samāwāti wa-l-arḍ (2:33). Human
+    initiative before an observing God becomes knowledge given by an all-knowing God, and the scene becomes
+    a contest with the angels.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ سُبْحَٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 - tradition: judaism
   ref: Gen 2:9
   note: A tree of knowledge whose fruit is forbidden
@@ -83,28 +186,49 @@ passages:
   text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا
     وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
 evidence:
-- text: 'Shared motifs, rarest first: The first man names the animals (weight 6.7); A tree of knowledge
-    whose fruit is forbidden (weight 5.8); God plants a garden (Eden) in the east and places the first
-    human there (weight 5.6). Pair score 18.1.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    divergence. Who knows the names is reversed. Gen 2:19 wa-yyābēʾ ʾel hā-ʾādām lirʾôt mah yyiqrāʾ lô
+    ... wa-yyiqrāʾ hā-ʾādām šēmôt: God brings the animals ''to see what he would call them'' and the man
+    invents the names; Q 2:31 wa-ʿallama ādama l-asmāʾa kullahā thumma ʿaraḍahum ʿalā l-malāʾikati: God
+    teaches Adam all the names and displays the creatures to the angels as a test, ending innī aʿlamu
+    ghayba s-samāwāti wa-l-arḍ (2:33). Human initiative before an observing God becomes knowledge given
+    by an all-knowing God, and the scene becomes a contest with the angels. Gen 2:8 gan bĕ-ʿēden miqqedem,
+    2:16 mi-kkōl ʿēṣ ha-gān ʾākōl tōʾkēl (said to the man alone, before the woman is made); Q 2:35 uskun
+    anta wa-zawjuka l-jannata wa-kulā minhā raghadan ḥaythu shiʾtumā: ''the Garden'' with no place in
+    the east, and the permission is given to both (dual) together. Gen 2:17 û-mē-ʿēṣ ha-daʿat ṭôb wā-rāʿ
+    lōʾ tōʾkal mimmennû kî bĕ-yôm ʾăkolkā mimmennû môt tāmût; Q 2:35 wa-lā taqrabā hādhihi sh-shajarata
+    fa-takūnā mina ẓ-ẓālimīn. The tree has no name (no ''knowledge of good and evil''); the sanction is
+    to become wrongdoers, not death.'
   basis: reading
-- text: 'Only in Second creation account, Eden, and the making of woman: Deity breathes the breath of
-    life into the first human''s nostrils; Eating the forbidden fruit is threatened with death; God casts
-    a deep sleep (tardemah) on a man; A river from paradise divides into four named rivers; First human
-    shaped from dust, clay or soil; The first human is put in the garden to work and guard it; Man leaves
-    father and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the
-    earth to water the ground; Land near paradise rich in gold and precious stones; Before creation there
-    was no rain, plant or man to till the ground (when-not-yet opening); First couple naked and not ashamed;
-    A tree whose fruit gives eternal life; First woman made from the man''s rib or side while he sleeps.'
+- text: 'Shared motifs, rarest first: The garden given to the first humans to live and eat in [divergence
+    between the texts] (weight 6.7); The tree forbidden to the first humans [divergence between the texts]
+    (weight 6.7); The first man names the animals (weight 6.7); The first man and the names of the creatures
+    [divergence between the texts] (weight 6.7); A tree of knowledge whose fruit is forbidden (weight
+    5.8); God plants a garden (Eden) in the east and places the first human there (weight 5.6). Pair score
+    38.1.'
   basis: reading
-- text: 'Only in Adam, the angels and Iblis: Adam receives words from his Lord and God turns to him in
-    forgiveness; God teaches Adam all the names and he recites them to the angels, who cannot; God commands
-    the angels to prostrate before the first man, and they do; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; The expelled are told ''Go down, enemies to one another''
-    with a dwelling and provision on earth for a time; The devil (Iblis) alone refuses to bow to the first
-    man; God speaks in the plural (us, our) as if to a divine council; First humans expelled from the
-    garden; God announces to the angels he will place a vicegerent (khalifa) on earth; Formula ''no fear
-    shall be upon them, nor shall they grieve''; A cunning serpent persuades the woman to eat the forbidden
-    fruit.'
+- text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
+    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
+    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
+    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
+    and lacked resolve [divergence between the texts]; Whether the first couple were naked or clothed
+    before the fall [contrast between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; Forming a creature from earth and breathing life into it [divergence between the texts]; Four
+    rivers in the Garden [divergence between the texts]; In the garden Adam will not hunger, be naked,
+    thirst or suffer the sun''s heat [divergence between the texts]; and 16 more.'
+  basis: reading
+- text: 'Only in Adam, the angels and Iblis: God teaches Adam all the names and he recites them to the
+    angels, who cannot; The expelled are told ''Go down, enemies to one another'' with a dwelling and
+    provision on earth for a time; God announces to the angels he will place a vicegerent (khalifa) on
+    earth; Adam receives words from his Lord and God turns to him in forgiveness; Angels object that the
+    new human will corrupt the earth and shed blood while they praise God; Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; The first man''s response after the transgression
+    in the garden (blame or repentance) [divergence between the texts]; God speaks to heavenly beings
+    about making man [divergence between the texts]; The human condition on earth after the expulsion
+    [divergence between the texts]; The office given to humans on earth at creation [divergence between
+    the texts]; The tempter in the garden [divergence between the texts]; Whoever sheds human blood, by
+    man shall his blood be shed, because humans bear God''s image; and 7 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

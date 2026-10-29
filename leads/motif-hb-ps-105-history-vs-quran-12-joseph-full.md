@@ -95,79 +95,29 @@ evidence:
     (weight 5.8); Hero declares that God turned the brothers'' deed to good (weight 5.6); Hero placed
     over the land''s storehouses or the kingdom (weight 5.6). Pair score 22.7.'
   basis: reading
-- text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: God rains
-    bread from heaven to feed the people in the desert; God kills every firstborn of the land, from the
-    king''s heir to the lowest servant and cattle; The departing slaves ask their neighbors for silver,
-    gold and clothing and so plunder their oppressors; A psalm or section duplicates another psalm with
-    variations (often divine-name change); Egypt is called ''the tents of Ham'' or ''the land of Ham'';
-    Egypt rejoiced when Israel left, for dread of them had fallen on it; God summons famine on the land
-    and breaks every staff of bread; God identifies himself as God of Abraham, Isaac and Jacob; God remembers
-    his covenant with Jacob, Isaac and Abraham even in exile; God turned the Egyptians'' hearts to hate
-    his people and deal craftily with them; God sends hail mingled with fire and thunder from heaven;
-    The cultic cry ''Hallelu-Yah'' (praise Yah) closes or opens a psalm; The king''s heart is hardened
-    (by himself or by God) so he refuses to release the people; Psalm retells Israel''s sacred history
-    (patriarchs, Egypt, wilderness, conquest) as instruction or praise; Israel will inherit cities, houses,
-    cisterns, vineyards and olives they did not build or plant; Joseph''s feet were hurt in fetters and
-    his neck (nefesh) put in iron until his word came true; God sent a man ahead of them: Joseph, sold
-    as a slave; Joseph was to bind the king''s princes at will and teach his elders wisdom; Nile water
-    is turned to blood; At the exodus not one among the tribes stumbled (or was feeble); God calls the
-    patriarchs his ''anointed ones'' and ''prophets'' and rebukes kings for their sake (''Touch not my
-    anointed''); God leads the people in a pillar of cloud by day and a pillar of fire by night; A palpable
-    darkness covers the land for three days; Frogs swarm out of the river into houses, beds, ovens and
-    kneading-troughs; The dust of the earth becomes lice on man and beast; Locusts brought by an east
-    wind devour all vegetation left after the hail; Swarms (arov) of insects or wild beasts fill the houses
-    of Egypt; God strikes the king''s house with plagues or affliction for taking the patriarch''s wife;
-    God promises the land to the patriarch''s descendants; Quail come up in the evening and cover the
-    camp; God opened the rock and waters gushed and ran as a river in the desert; A poetic list of the
-    Egyptian plagues differs in number and order from Exodus; The ancestors were few in number, sojourners
-    wandering from nation to nation; Water brought out of a rock by the leader''s rod.'
+- text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
+    when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
+    people and deal craftily with them; Joseph''s feet were hurt in fetters and his neck (nefesh) put
+    in iron until his word came true; God sent a man ahead of them: Joseph, sold as a slave; Joseph was
+    to bind the king''s princes at will and teach his elders wisdom; At the exodus not one among the tribes
+    stumbled (or was feeble); God calls the patriarchs his ''anointed ones'' and ''prophets'' and rebukes
+    kings for their sake (''Touch not my anointed''); God opened the rock and waters gushed and ran as
+    a river in the desert; The ancestors were few in number, sojourners wandering from nation to nation;
+    The chain of patriarchs to whom revelation or covenant passed [divergence between the texts]; The
+    number of signs or plagues in Egypt [divergence between the texts]; A palpable darkness covers the
+    land for three days; and 29 more.'
   basis: reading
-- text: 'Only in Joseph and his brothers (Surah 12, full read): Foster parent says: perhaps he will benefit
-    us, or we will take him as a son; Seduction attempt when the two are alone in the house; Brothers
-    tell their father to ask the town and the caravan to confirm their story; Birds eat bread from on
-    top of the dreamer''s head; Brothers bring the hero''s garment with false blood; Hero bought by an
-    Egyptian official; Brothers claim the accused youth''s absent brother (the hero) had also stolen before;
-    Famished brothers bring poor goods and ask the disguised hero for alms; Brothers come for grain and
-    do not recognize the hero; The brothers confess ''we were sinners'' once the hero is revealed and
-    ask their father to pray for them; Brothers persuade the reluctant father to send the hero with them;
-    Brothers, out of envy, plot to kill the hero; Brothers come to their father at night, weeping; Hero
-    cast into a pit or well; The king''s experts cannot interpret the dream; The freed prisoner remembers
-    the hero and recommends him; Hero demands they bring their youngest brother; God''s favor rests on
-    the hero while he is a slave or prisoner; God reassures the hero in the pit; Do not despair of God''s
-    mercy (rawh / rahma); only unbelievers or the astray despair; Dream of sun, moon and eleven stars
-    bowing to the hero; Hero reveals himself to the youngest brother first; The woman falsely accuses
-    the hero of assault; Plan to store grain in the good years for the famine years; The father''s eyesight
-    fails; Father loves the hero more than his brothers; Father keeps lamenting his lost son for years
-    until his sons fear he will waste away; The patriarch claims to know from God what his sons do not
-    know; Father promises his repentant sons to ask God''s forgiveness for them later; Father refuses
-    at first to send the youngest; Father revives on hearing the hero lives; Father does not believe the
-    brothers'' story; Father recognizes his son''s scent; Father warns the hero not to tell his dream
-    to his brothers; The freed prisoner forgets the hero for years; Hero''s garment becomes evidence in
-    the seduction episode; Hero''s garment restores the father''s sight; Hero''s beauty is remarked on;
-    Hero refuses release until his innocence is established; Hero forgives his brothers; Hero nearly yields
-    but a sign from God stops him; Hero prays to die in submission and join the righteous; Hero preaches
-    monotheism to his fellow prisoners; Hero prays that prison is preferable to sin; Hero refuses, citing
-    loyalty to his master and to God; Hero reveals his identity to his brothers; Fleeing the seductress,
-    the hero and the woman find her husband at the door; Hero attributes his dream interpretation to God;
-    The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; King dreams
-    of seven fat cows eaten by seven lean, and seven green ears and seven dry; The hero could not have
-    kept his brother under the king''s law, so a stratagem is needed; The husband recognizes his wife''s
-    guilt; The master''s wife tries to seduce the hero; Their payment is secretly returned in their bags;
-    A brother offers himself or another in place of the youngest; One brother talks the others out of
-    killing him; One brother stays behind in Egypt; One prisoner is restored, the other executed and his
-    body exposed; Family prostrates before the hero, fulfilling the dream; Hero''s cup is hidden in the
-    youngest brother''s bag; A brother or the brothers give the father a pledge for the youngest; Two
-    fellow prisoners dream of pressing wine and carrying bread; The hero declares he follows the religion
-    of his fathers Abraham, Isaac and Jacob; Hero asks the freed prisoner to mention him to the king;
-    A passing caravan takes the hero from the pit; Hero meets and embraces his father; A camel-load is
-    promised to whoever brings back the missing royal cup, with a guarantor; Satan stirs up enmity (nazagha)
-    between brothers or among people; Search proceeds through the others'' bags before the youngest''s;
-    Father tells the sons to enter by separate gates; Hero sold for a small sum of silver; ''The soul
-    is ever inciting to evil'' (al-nafs al-ammara bi-l-su'') except whom God shows mercy; Brothers pursued
-    and accused of theft; The brothers themselves name the thief''s penalty; The wife confesses the hero''s
-    innocence; A wild animal is blamed for the hero''s death; A witness proposes judging by where the
-    shirt is torn; Women dazzled by the hero cut their hands; Women of the city gossip about the wife''s
-    passion; A year of rain and relief follows the famine.'
+- text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
+    town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
+    hero) had also stolen before; Famished brothers bring poor goods and ask the disguised hero for alms;
+    The brothers confess ''we were sinners'' once the hero is revealed and ask their father to pray for
+    them; Father keeps lamenting his lost son for years until his sons fear he will waste away; The patriarch
+    claims to know from God what his sons do not know; Father promises his repentant sons to ask God''s
+    forgiveness for them later; Fleeing the seductress, the hero and the woman find her husband at the
+    door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
+    hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
+    he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
+    brings back the missing royal cup, with a guarantor; and 105 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'

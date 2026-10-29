@@ -46,6 +46,9 @@ passages:
     بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ
     ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: Catalogue of bridal finery: embroidered cloth, tahash sandals, linen,
     silk, bracelets, necklace, nose-ring, earrings and a crown (weight 6.7). Pair score 6.7.'
   basis: reading

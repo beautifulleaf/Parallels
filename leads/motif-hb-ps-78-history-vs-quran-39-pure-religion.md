@@ -1,0 +1,93 @@
+---
+id: motif-hb-ps-78-history-vs-quran-39-pure-religion
+title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Pure religion; no son for God; creation
+  from one soul in three darknesses
+summary: 'These two units share 1 motifs: when harm touches people they turn to god; when he gives them
+  relief a party of them associates partners again.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- distress-prayer-then-ingratitude
+passages:
+- tradition: judaism
+  ref: Ps 78:34
+  note: 'When harm touches people they turn to God; when he gives them relief a party of them associates
+    partners again (Turning to God under blows, then relapsing. Ps: ʾim-hărāgām û-dərāšûhû wə-šāvû wə-šiḥărû-ʾēl
+    ... wa-yfattûhû bə-fîhem ... wə-libbām lōʾ-nākhôn ʿimmô. Q: bal iyyāhu tadʿūna fa-yakshifu mā tadʿūna
+    ilayhi ... wa-tansawna mā tushrikūna; 6:43 wa-lākin qasat qulūbuhum.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אִם הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ אֵֽל
+- tradition: judaism
+  ref: Ps 78:36
+  note: 'When harm touches people they turn to God; when he gives them relief a party of them associates
+    partners again (Turning to God under blows, then relapsing. Ps: ʾim-hărāgām û-dərāšûhû wə-šāvû wə-šiḥărû-ʾēl
+    ... wa-yfattûhû bə-fîhem ... wə-libbām lōʾ-nākhôn ʿimmô. Q: bal iyyāhu tadʿūna fa-yakshifu mā tadʿūna
+    ilayhi ... wa-tansawna mā tushrikūna; 6:43 wa-lākin qasat qulūbuhum.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְפַתּ֥וּהוּ בְּפִיהֶ֑ם וּ֝בִלְשׁוֹנָ֗ם יְכַזְּבוּ לֽוֹ
+- tradition: islam
+  ref: Quran 39:8
+  note: When harm touches people they turn to God; when he gives them relief a party of them associates
+    partners again
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةً
+    مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًا لِّيُضِلَّ عَن
+    سَبِيلِهِۦ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    parallel. ʾim-hărāḡām û-ḏərāšûhû wə-šāḇû wə-šiḥărû-ʾēl ... wa-yəp̄attûhû bə-p̄îhem û-ḇi-lšônām yəḵazzəḇû-lô
+    vs. wa-idhā massa l-insāna ḍurrun daʿā rabbahu munīban ilayhi thumma idhā khawwalahu niʿmatan minhu
+    nasiya mā kāna yadʿū ilayhi: they seek God when struck, then are false to him. The psalm''s people
+    is Israel; the Quran''s is ''man'' (al-insān).'
+  basis: reading
+- text: 'Shared motifs, rarest first: When harm touches people they turn to God; when he gives them relief
+    a party of them associates partners again (weight 5.4). Pair score 5.4.'
+  basis: reading
+- text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
+    of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
+    (lehem abbirim), i.e. food of angels; God struck his enemies backward/in the rear (read by rabbis
+    as the Philistines'' hemorrhoids); The exodus wonders are located in ''the field of Zoan'' (Tanis);
+    The Lord awakes as from sleep like a warrior shouting from wine; God remembers that humans are flesh,
+    a breath that passes and does not return; God rejected the tent of Joseph and tribe of Ephraim and
+    chose Judah and Mount Zion; In the catastrophe young men are consumed by fire, maidens have no wedding
+    song, widows do not lament; God built his sanctuary like the heights (or heavens) and like the earth
+    founded forever; God took David from the sheepfolds, from following the nursing ewes, to shepherd
+    his people; The ark of God is captured by enemies; God commanded the skies and opened the doors (or
+    windows) of heaven; and 40 more.'
+  basis: reading
+- text: 'Only in Pure religion; no son for God; creation from one soul in three darknesses: God sent down
+    for you eight pairs of livestock; Idolaters say ''we worship them only that they may bring us near
+    to God''; Had God wished to take a son he would have chosen from what he creates whatever he willed;
+    glory be to him, the One; God creates you in your mothers'' bellies creation after creation in three
+    darknesses; God wraps (yukawwir) the night around the day and the day around the night; Was not God''s
+    earth wide enough for you to emigrate (hijra) in it?; How God made the human mate, and for what purpose
+    [divergence between the texts]; The believers'' sides forsake their beds as they call on their Lord
+    in fear and hope (night vigil); First woman made from the man''s rib or side while he sleeps; Whether
+    God has, begets or takes sons or other offspring [contrast between the texts]; God formed the kidneys
+    and wove (knit) the speaker in his mother''s womb; No burdened soul bears another''s burden; even
+    a relative will not carry any of it; and 2 more.'
+  basis: reading
+- text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Pure religion; no son for God; creation from one soul in three darknesses: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

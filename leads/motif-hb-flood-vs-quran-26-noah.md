@@ -60,22 +60,23 @@ evidence:
 - text: 'Shared motifs, rarest first: All others perish (weight 5.0); Hero''s family saved with him (weight
     4.5). Pair score 9.5.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Animals taken aboard in pairs; Birds released to find dry land;
-    Hero blessed on leaving the vessel; Hero builds a vessel on divine instruction; Deity or gods smell
-    the offering; Deity decides to destroy humankind; Hero''s life or mission spans 950 years; Hero singled
-    out as righteous or pious; Hero privately warned of the coming flood by a deity; Deity resolves or
-    promises not to repeat the destruction; Destruction motivated by human wickedness or violence; Hero
-    offers sacrifice after leaving the vessel; A sign in the sky commemorates the flood (bow, necklace);
-    Exact dimensions of the vessel are specified; Vessel comes to rest on a named mountain; Vessel sealed
-    with pitch or bitumen; Waters pour both from the sky and from springs of the earth.'
+- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
+    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero blessed on leaving the
+    vessel; Hero''s life or mission spans 950 years; Deity resolves or promises not to repeat the destruction;
+    Destruction motivated by human wickedness or violence; Waters pour both from the sky and from springs
+    of the earth; Animals taken aboard in pairs; Deity or gods smell the offering; Hero offers sacrifice
+    after leaving the vessel; Vessel comes to rest on a named mountain; and 5 more.'
   basis: reading
-- text: 'Only in Noah, the lowly followers and the laden ark: The hero is saved with those with him in
-    the laden ark (al-fulk al-mashḥūn); Hero asks the deity to judge or destroy his opponents; Hero warns
-    or preaches to his people before the flood; The prophet''s opponents object that only the lowliest
-    follow him; he refuses to drive the believers away; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot
-    is a trustworthy messenger sent to his people; The Prophet asks no wage for the message; The people
-    threaten to stone the prophet if he does not desist; Refrain closing each episode: ''In that is a
-    sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''.'
+- text: 'Only in Noah, the lowly followers and the laden ark: The people threaten to stone the prophet
+    if he does not desist; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn);
+    The prophet''s opponents object that only the lowliest follow him; he refuses to drive the believers
+    away; Who is saved with the hero from the destruction, and why [contrast between the texts]; Whether
+    the flood hero speaks to his people before the flood [divergence between the texts]; The people are
+    about to stone their leader; Who is saved with the hero from the destruction, and why [divergence
+    between the texts]; Hero asks the deity to judge or destroy his opponents; Formula: ''their brother''
+    (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to his people; Refrain closing each episode:
+    ''In that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''; Hero
+    warns or preaches to his people before the flood; The Prophet asks no wage for the message.'
   basis: reading
 - text: 'The Flood in Genesis: tagged by Claude (model), reading the Hebrew.'
   basis: reading

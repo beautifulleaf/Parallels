@@ -1,0 +1,73 @@
+---
+id: motif-hb-1sam-24-en-gedi-cave-vs-quran-9-cave-and-call
+title: David spares Saul in the cave at En-gedi ↔ The call to go forth; the second of two in the cave
+summary: 'These two units share 1 motifs: the prophet is ''the second of two'' hiding in the cave, telling
+  his companion ''do not grieve, god is with us''.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- second-of-two-in-the-cave
+passages:
+- tradition: judaism
+  ref: 1Sam 24:4
+  note: 'The prophet is ''the second of two'' hiding in the cave, telling his companion ''do not grieve,
+    God is with us'' (God''s chosen hides in a cave from a pursuer who cannot get at him: idh akhrajahu
+    lladhīna kafarū thāniya thnayni idh humā fī l-ghāri vs wᵉšām mᵉʿārāh wayyābōʾ šāʾûl ... wᵉdāwid waʾănāšāyw
+    bᵉyarkᵉtê hammᵉʿārāh yōšᵉbîm. In 1Sam the pursuer enters the cave; Q says nothing of the pursuers''
+    approach (that is in the sira).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַ֠יָּבֹא אֶל גִּדְר֨וֹת הַצֹּ֤אן עַל הַדֶּ֨רֶךְ֙ וְשָׁ֣ם מְעָרָ֔ה וַיָּבֹ֥א שָׁא֖וּל לְהָסֵ֣ךְ
+    אֶת רַגְלָ֑יו וְדָוִד֙ וַאֲנָשָׁ֔יו בְּיַרְכְּתֵ֥י הַמְּעָרָ֖ה יֹשְׁבִֽים
+- tradition: islam
+  ref: Quran 9:40
+  note: The prophet is 'the second of two' hiding in the cave, telling his companion 'do not grieve, God
+    is with us'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
+    إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ ٱللَّهُ
+    سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟
+    ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. God''s chosen hides in a cave from a pursuer who cannot get at him: idh akhrajahu lladhīna kafarū
+    thāniya thnayni idh humā fī l-ghāri vs wᵉšām mᵉʿārāh wayyābōʾ šāʾûl ... wᵉdāwid waʾănāšāyw bᵉyarkᵉtê
+    hammᵉʿārāh yōšᵉbîm. In 1Sam the pursuer enters the cave; Q says nothing of the pursuers'' approach
+    (that is in the sira).'
+  basis: reading
+- text: 'Shared motifs, rarest first: The prophet is ''the second of two'' hiding in the cave, telling
+    his companion ''do not grieve, God is with us'' (weight 6.3). Pair score 6.3.'
+  basis: reading
+- text: 'Only in David spares Saul in the cave at En-gedi: A proverb of the ancients is quoted; Hero secretly
+    cuts the corner of the king''s robe as proof he could have killed him; King enters a cave ''to cover
+    his feet'' where the hero is hiding; Hero swears not to cut off the king''s descendants or name; Persecuting
+    king weeps and admits ''You are more righteous than I''; Hero finds the hostile king defenseless and
+    spares him as the LORD''s anointed; Self-abasement: ''after a dead dog, after a single flea''.'
+  basis: reading
+- text: 'Only in The call to go forth; the second of two in the cave: God''s own Presence (face) will
+    go with the people; God threatens to destroy a people and put another in its place [divergence between
+    the texts]; Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel
+    (''God with us''); A poem lists the tribes, praising those who fought and shaming those who stayed
+    home; God supports the prophet with hosts (junud) the believers did not see; The oppressed people
+    hide in caves, dens and mountain strongholds; God sends down his sakina (tranquility, cf. shekhinah)
+    on the prophet and believers; If God wills he takes you away and brings another people in your place.'
+  basis: reading
+- text: 'David spares Saul in the cave at En-gedi: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The call to go forth; the second of two in the cave: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

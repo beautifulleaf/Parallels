@@ -43,21 +43,22 @@ evidence:
     turn?'': appeal to heavenly intercessors; The righteous will have a covenant with the stones of the
     field and peace with wild beasts; God catches the wise in their own craftiness; Suffering as divine
     discipline: happy the man whom God reproves; ''Man is born to trouble'' (as sparks fly upward); Graded
-    numerical saying: ''in six troubles... in seven''; Friend''s doctrine: no innocent man ever perished;
-    those who plow iniquity reap it; The righteous come to the grave in ripe age like a sheaf gathered
-    in its season; The ''sons of Resheph'' (sparks, or the plague god''s brood) fly upward.'
+    numerical saying: ''in six troubles... in seven''; The righteous come to the grave in ripe age like
+    a sheaf gathered in its season; The ''sons of Resheph'' (sparks, or the plague god''s brood) fly upward;
+    Friend''s doctrine: no innocent man ever perished; those who plow iniquity reap it.'
   basis: reading
 - text: 'Only in Abraham''s argument against idols and his prayer: Abraham prays for ''a tongue of truthfulness''
     (good repute) among later generations; Abraham''s creed: the God who created and guides me, feeds
-    and gives drink, heals me when sick, causes me to die and revives me, and will forgive me; Abraham
+    and gives drink, heals me when sick, causes me to die and revives me, and will forgive me; In hell
+    the damned dispute with the gods they equated with God and wish for another chance; The deluded and
+    all the hosts of Iblis are hurled headlong into hell; On that day neither wealth nor sons avail, only
+    one who comes to God with a sound heart; Who sends sickness and who heals [divergence between the
+    texts]; A good name is to be chosen rather than great riches, favor rather than silver and gold; Abraham
     prayed for his father''s forgiveness only by a promise, and disowned him when he proved God''s enemy;
-    In hell the damned dispute with the gods they equated with God and wish for another chance; Hero''s
-    father makes, sells or worships idols; A good name is to be chosen rather than great riches, favor
-    rather than silver and gold; The deluded and all the hosts of Iblis are hurled headlong into hell;
-    Idols of wood and stone that cannot see, hear, eat or smell; Intercession avails only for whom God
-    permits; Refrain closing each episode: ''In that is a sign, yet most of them do not believe; your
-    Lord is the Mighty, the Merciful''; On that day neither wealth nor sons avail, only one who comes
-    to God with a sound heart.'
+    Hero''s father makes, sells or worships idols [divergence between the texts]; Wealth does not profit
+    on the day of wrath; No man can ransom his brother or give God a ransom (kofer) for him; the redemption
+    of life is too costly; Refrain closing each episode: ''In that is a sign, yet most of them do not
+    believe; your Lord is the Mighty, the Merciful''; and 3 more.'
   basis: reading
 - text: 'Eliphaz continues - seek God, accept discipline: tagged by Claude (model), reading the Hebrew.'
   basis: reading

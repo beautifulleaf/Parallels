@@ -1,0 +1,119 @@
+---
+id: motif-hb-ps-18-storm-theophany-vs-quran-24-light-verse
+title: Psalm 18 - David's song of deliverance and the storm theophany ↔ The Light Verse; the mirage, the
+  dark sea, the praising birds, hail and the creatures
+summary: 'These two units share 2 motifs: god is called the speaker''s lamp who lights his darkness, god
+  sends hail mingled with fire and thunder from heaven.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- god-is-my-lamp
+- hail-and-fire-from-heaven
+passages:
+- tradition: judaism
+  ref: Ps 18:29
+  note: God is called the speaker's lamp who lights his darkness
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי אַ֭תָּה תָּאִ֣יר נֵרִ֑י יְהוָ֥ה אֱ֝לֹהַ֗י יַגִּ֥יהַּ חָשְׁכִּֽי
+- tradition: islam
+  ref: Quran 24:35
+  note: God is called the speaker's lamp who lights his darkness
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
+    فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
+    لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
+    عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ
+    بِكُلِّ شَىْءٍ عَلِيمٌ
+- tradition: islam
+  ref: Quran 24:40
+  note: God is called the speaker's lamp who lights his darkness
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَوْ كَظُلُمَٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ
+    ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا وَمَن لَّمْ يَجْعَلِ
+    ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ
+- tradition: judaism
+  ref: Ps 18:13-14
+  note: God sends hail mingled with fire and thunder from heaven
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (18:13) מִנֹּ֗גַהּ נֶ֫גְדּ֥וֹ עָבָ֥יו עָבְר֑וּ בָּ֝רָ֗ד וְגַֽחֲלֵי אֵֽשׁ (18:14) וַיַּרְעֵ֬ם בַּשָּׁמַ֨יִם
+    יְֽהוָ֗ה וְ֭עֶלְיוֹן יִתֵּ֣ן קֹל֑וֹ בָּ֝רָ֗ד וְגַֽחֲלֵי אֵֽשׁ
+- tradition: judaism
+  ref: Ps 18:12
+  note: God sends hail mingled with fire and thunder from heaven
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: יָ֤שֶׁת חֹ֨שֶׁךְ סִתְר֗וֹ סְבִֽיבוֹתָ֥יו סֻכָּת֑וֹ חֶשְׁכַת מַ֝֗יִם עָבֵ֥י שְׁחָקִֽים
+- tradition: islam
+  ref: Quran 24:43
+  note: 'God sends hail mingled with fire and thunder from heaven (yuzjī saḥāban ... wa-yunazzilu mina
+    s-samāʾi min jibālin fīhā min baradin ... yakādu sanā barqihi yadhhabu bi-l-abṣāri ~ ḥeškat mayim
+    ʿăvê šəḥāqîm ... ʿāvāw ʿāvərû bārād wə-gaḥălê ʾēš ... û-vərāqîm rāv: dark clouds, hail (barad / bārād)
+    and lightning (barq / bārāq). Ps 18 is a theophany coming to rescue the king, the Quran a sign of
+    God''s ordinary governance.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا
+    فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ
+    فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَٰرِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    echo. allāhu nūru s-samāwāti wa-l-arḍi ... wa-man lam yajʿali llāhu lahu nūran fa-mā lahu min nūrin
+    ~ kî ʾattâ tāʾîr nērî YHWH ʾĕlōhay yaggîha ḥoškî: God gives light to the one in darkness. The Psalm
+    is one speaker''s trust; the Quran has God as the light of the cosmos and denies light to those he
+    does not light. yuzjī saḥāban ... wa-yunazzilu mina s-samāʾi min jibālin fīhā min baradin ... yakādu
+    sanā barqihi yadhhabu bi-l-abṣāri ~ ḥeškat mayim ʿăvê šəḥāqîm ... ʿāvāw ʿāvərû bārād wə-gaḥălê ʾēš
+    ... û-vərāqîm rāv: dark clouds, hail (barad / bārād) and lightning (barq / bārāq). Ps 18 is a theophany
+    coming to rescue the king, the Quran a sign of God''s ordinary governance.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God is called the speaker''s lamp who lights his darkness (weight
+    6.3); God sends hail mingled with fire and thunder from heaven (weight 5.8). Pair score 12.1.'
+  basis: reading
+- text: 'Only in Psalm 18 - David''s song of deliverance and the storm theophany: God makes darkness his
+    hiding place and dark waters and clouds his canopy; The king gives thanks for God''s deliverance from
+    all his enemies (song also in 2 Sam 22); At God''s rebuke the channels of the sea are seen and the
+    foundations of the world laid bare; ''Who is God except YHWH, and who is a rock besides our God?'';
+    God reaches from on high and draws the sufferer out of many waters; Enemies beaten fine as dust and
+    trampled like mire of the streets; Foreigners come cringing and trembling to submit to the king; God
+    answers the distressed when he calls and removes the evil; God hears the cry from his (heavenly) temple;
+    God shows himself loyal to the loyal and crooked to the crooked; God rides on a cherub and flies on
+    the wings of the wind; God trains the king''s hands for war so his arms bend a bow of bronze; and
+    13 more.'
+  basis: reading
+- text: 'Only in The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures:
+    Or like darkness in a deep sea, covered by wave upon wave and cloud above, darkness upon darkness,
+    so one cannot see his own hand; The deeds of unbelievers are like a mirage in a plain that the thirsty
+    takes for water until he reaches it and finds nothing, but finds God there; God is the light of the
+    heavens and the earth; God''s light is like a niche holding a lamp in a glass like a glittering star,
+    lit from a blessed olive tree neither of east nor west, whose oil almost glows untouched by fire:
+    light upon light; God sends down hail from mountains in the sky; the flash of his lightning nearly
+    takes away sight; In houses God allowed to be raised, men undistracted by trade glorify him morning
+    and evening; God created every beast from water: some go on their bellies, some on two legs, some
+    on four; Birds with outspread wings glorify God; each knows its prayer and praise; With God is the
+    fountain of life; in his light we see light; A lamp fed directly by an olive tree [divergence between
+    the texts]; A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil
+    through golden pipes; The mirage and the thirsty traveler [divergence between the texts]; and 7 more.'
+  basis: reading
+- text: 'Psalm 18 - David''s song of deliverance and the storm theophany: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures: tagged
+    by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

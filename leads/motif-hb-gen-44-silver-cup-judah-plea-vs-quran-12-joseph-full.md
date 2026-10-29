@@ -1,13 +1,15 @@
 ---
 id: motif-hb-gen-44-silver-cup-judah-plea-vs-quran-12-joseph-full
 title: The silver cup and Judah's plea ↔ Joseph and his brothers (Surah 12, full read)
-summary: 'These two units share 5 motifs: a brother offers himself or another in place of the youngest,
-  the brothers themselves name the thief''s penalty, hero''s cup is hidden in the youngest brother''s
-  bag, brothers pursued and accused of theft….'
+summary: 'These two units share 7 motifs: hero''s cup is hidden in the youngest brother''s bag [divergence
+  between the texts], a brother offers himself or another in place of the youngest [divergence between
+  the texts], hero''s cup is hidden in the youngest brother''s bag, the brothers themselves name the thief''s
+  penalty….'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -15,12 +17,149 @@ traditions:
 layers:
 - motif
 motifs:
-- offer-substitute
-- thief-penalty-set-by-brothers
+- planted-cup-as-divergence
+- offer-substitute-as-divergence
 - planted-cup
+- thief-penalty-set-by-brothers
+- offer-substitute
 - theft-accusation-pursuit
 - search-eldest-to-youngest
 passages:
+- tradition: judaism
+  ref: Gen 44:2
+  note: 'Hero''s cup is hidden in the youngest brother''s bag [divergence between the texts] (Gen: gəbîaʿ
+    hakkesep, the cup in which my lord drinks and wəhûʾ naḥēš yənaḥēš bô (divination), and naḥēš yənaḥēš
+    ʾîš ʾăšer kāmōnî. Q: as-siqāya / ṣuwāʿ al-malik, the king''s drinking or measuring vessel, with no
+    divination. Q adds a reward, ḥimlu baʿīrin wa-ana bihi zaʿīm.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאֶת גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗סֶף תָּשִׂים֙ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן וְאֵ֖ת כֶּ֣סֶף שִׁבְר֑וֹ
+    וַיַּ֕עַשׂ כִּדְבַ֥ר יוֹסֵ֖ף אֲשֶׁ֥ר דִּבֵּֽר
+- tradition: judaism
+  ref: Gen 44:5
+  note: 'Hero''s cup is hidden in the youngest brother''s bag [divergence between the texts] (Gen: gəbîaʿ
+    hakkesep, the cup in which my lord drinks and wəhûʾ naḥēš yənaḥēš bô (divination), and naḥēš yənaḥēš
+    ʾîš ʾăšer kāmōnî. Q: as-siqāya / ṣuwāʿ al-malik, the king''s drinking or measuring vessel, with no
+    divination. Q adds a reward, ḥimlu baʿīrin wa-ana bihi zaʿīm.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הֲל֣וֹא זֶ֗ה אֲשֶׁ֨ר יִשְׁתֶּ֤ה אֲדֹנִי֙ בּ֔וֹ וְה֕וּא נַחֵ֥שׁ יְנַחֵ֖שׁ בּ֑וֹ הֲרֵעֹתֶ֖ם אֲשֶׁ֥ר
+    עֲשִׂיתֶֽם
+- tradition: islam
+  ref: Quran 12:70
+  note: 'Hero''s cup is hidden in the youngest brother''s bag [divergence between the texts] (Gen: gəbîaʿ
+    hakkesep, the cup in which my lord drinks and wəhûʾ naḥēš yənaḥēš bô (divination), and naḥēš yənaḥēš
+    ʾîš ʾăšer kāmōnî. Q: as-siqāya / ṣuwāʿ al-malik, the king''s drinking or measuring vessel, with no
+    divination. Q adds a reward, ḥimlu baʿīrin wa-ana bihi zaʿīm.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ
+    أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
+- tradition: islam
+  ref: Quran 12:72
+  note: 'Hero''s cup is hidden in the youngest brother''s bag [divergence between the texts] (Gen: gəbîaʿ
+    hakkesep, the cup in which my lord drinks and wəhûʾ naḥēš yənaḥēš bô (divination), and naḥēš yənaḥēš
+    ʾîš ʾăšer kāmōnî. Q: as-siqāya / ṣuwāʿ al-malik, the king''s drinking or measuring vessel, with no
+    divination. Q adds a reward, ḥimlu baʿīrin wa-ana bihi zaʿīm.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ
+- tradition: judaism
+  ref: Gen 44:16
+  note: 'A brother offers himself or another in place of the youngest [divergence between the texts] (Gen:
+    Judah''s long plea ends with yēšeb-nāʾ ʿabdəkā taḥat hannaʿar, and it breaks Joseph, wəlōʾ-yākōl yôsēp
+    ləhitʾappēq (45:1), who reveals himself at once. Q: an unnamed fa-khudh aḥadanā makānahu is refused
+    (maʿādha llāhi an naʾkhudha illā man wajadnā matāʿanā ʿindah), and the brothers go home. The revelation
+    comes only on a third journey (12:88-90).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֣אמֶר יְהוּדָ֗ה מַה נֹּאמַר֙ לַֽאדֹנִ֔י מַה נְּדַבֵּ֖ר וּמַה נִּצְטַדָּ֑ק הָאֱלֹהִ֗ים מָצָא֙
+    אֶת עֲוֺ֣ן עֲבָדֶ֔יךָ הִנֶּנּ֤וּ עֲבָדִים֙ לַֽאדֹנִ֔י גַּם אֲנַ֕חְנוּ גַּ֛ם אֲשֶׁר נִמְצָ֥א הַגָּבִ֖יעַ
+    בְּיָדֽוֹ
+- tradition: judaism
+  ref: Gen 44:18
+  note: 'A brother offers himself or another in place of the youngest [divergence between the texts] (Gen:
+    Judah''s long plea ends with yēšeb-nāʾ ʿabdəkā taḥat hannaʿar, and it breaks Joseph, wəlōʾ-yākōl yôsēp
+    ləhitʾappēq (45:1), who reveals himself at once. Q: an unnamed fa-khudh aḥadanā makānahu is refused
+    (maʿādha llāhi an naʾkhudha illā man wajadnā matāʿanā ʿindah), and the brothers go home. The revelation
+    comes only on a third journey (12:88-90).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּגַּ֨שׁ אֵלָ֜יו יְהוּדָ֗ה וַיֹּאמֶר֮ בִּ֣י אֲדֹנִי֒ יְדַבֶּר נָ֨א עַבְדְּךָ֤ דָבָר֙ בְּאָזְנֵ֣י
+    אֲדֹנִ֔י וְאַל יִ֥חַר אַפְּךָ֖ בְּעַבְדֶּ֑ךָ כִּ֥י כָמ֖וֹךָ כְּפַרְעֹֽה
+- tradition: islam
+  ref: Quran 12:78
+  note: 'A brother offers himself or another in place of the youngest [divergence between the texts] (Gen:
+    Judah''s long plea ends with yēšeb-nāʾ ʿabdəkā taḥat hannaʿar, and it breaks Joseph, wəlōʾ-yākōl yôsēp
+    ləhitʾappēq (45:1), who reveals himself at once. Q: an unnamed fa-khudh aḥadanā makānahu is refused
+    (maʿādha llāhi an naʾkhudha illā man wajadnā matāʿanā ʿindah), and the brothers go home. The revelation
+    comes only on a third journey (12:88-90).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ
+    إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
+- tradition: islam
+  ref: Quran 12:79
+  note: 'A brother offers himself or another in place of the youngest [divergence between the texts] (Gen:
+    Judah''s long plea ends with yēšeb-nāʾ ʿabdəkā taḥat hannaʿar, and it breaks Joseph, wəlōʾ-yākōl yôsēp
+    ləhitʾappēq (45:1), who reveals himself at once. Q: an unnamed fa-khudh aḥadanā makānahu is refused
+    (maʿādha llāhi an naʾkhudha illā man wajadnā matāʿanā ʿindah), and the brothers go home. The revelation
+    comes only on a third journey (12:88-90).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَٰلِمُونَ
+- tradition: judaism
+  ref: Gen 44:1
+  note: Hero's cup is hidden in the youngest brother's bag (gevi'a ha-kesef)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְצַ֞ו אֶת אֲשֶׁ֣ר עַל בֵּיתוֹ֮ לֵאמֹר֒ מַלֵּ֞א אֶת אַמְתְּחֹ֤ת הָֽאֲנָשִׁים֙ אֹ֔כֶל כַּאֲשֶׁ֥ר
+    יוּכְל֖וּן שְׂאֵ֑ת וְשִׂ֥ים כֶּֽסֶף אִ֖ישׁ בְּפִ֥י אַמְתַּחְתּֽוֹ
+- tradition: judaism
+  ref: Gen 44:2
+  note: Hero's cup is hidden in the youngest brother's bag (gevi'a ha-kesef)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאֶת גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗סֶף תָּשִׂים֙ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן וְאֵ֖ת כֶּ֣סֶף שִׁבְר֑וֹ
+    וַיַּ֕עַשׂ כִּדְבַ֥ר יוֹסֵ֖ף אֲשֶׁ֥ר דִּבֵּֽר
+- tradition: islam
+  ref: Quran 12:70
+  note: Hero's cup is hidden in the youngest brother's bag (siqāya / ṣuwāʿ al-malik)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ
+    أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
+- tradition: islam
+  ref: Quran 12:72
+  note: Hero's cup is hidden in the youngest brother's bag (siqāya / ṣuwāʿ al-malik)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ
+- tradition: judaism
+  ref: Gen 44:9
+  note: The brothers themselves name the thief's penalty
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֲשֶׁ֨ר יִמָּצֵ֥א אִתּ֛וֹ מֵעֲבָדֶ֖יךָ וָמֵ֑ת וְגַם אֲנַ֕חְנוּ נִֽהְיֶ֥ה לַֽאדֹנִ֖י לַעֲבָדִֽים
+- tradition: judaism
+  ref: Gen 44:10
+  note: The brothers themselves name the thief's penalty
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֕אמֶר גַּם עַתָּ֥ה כְדִבְרֵיכֶ֖ם כֶּן ה֑וּא אֲשֶׁ֨ר יִמָּצֵ֤א אִתּוֹ֙ יִהְיֶה לִּ֣י עָ֔בֶד
+    וְאַתֶּ֖ם תִּהְי֥וּ נְקִיִּֽם
+- tradition: islam
+  ref: Quran 12:74
+  note: The brothers themselves name the thief's penalty (the thief himself becomes the penalty (enslavement))
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ
+- tradition: islam
+  ref: Quran 12:75
+  note: The brothers themselves name the thief's penalty (the thief himself becomes the penalty (enslavement))
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 - tradition: judaism
   ref: Gen 44:33
   note: A brother offers himself or another in place of the youngest (Judah offers himself as slave in
@@ -49,58 +188,6 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَٰلِمُونَ
-- tradition: judaism
-  ref: Gen 44:9
-  note: The brothers themselves name the thief's penalty
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֨ר יִמָּצֵ֥א אִתּ֛וֹ מֵעֲבָדֶ֖יךָ וָמֵ֑ת וְגַם אֲנַ֕חְנוּ נִֽהְיֶ֥ה לַֽאדֹנִ֖י לַעֲבָדִֽים
-- tradition: judaism
-  ref: Gen 44:10
-  note: The brothers themselves name the thief's penalty
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר גַּם עַתָּ֥ה כְדִבְרֵיכֶ֖ם כֶּן ה֑וּא אֲשֶׁ֨ר יִמָּצֵ֤א אִתּוֹ֙ יִהְיֶה לִּ֣י עָ֔בֶד
-    וְאַתֶּ֖ם תִּהְי֥וּ נְקִיִּֽם
-- tradition: islam
-  ref: Quran 12:74
-  note: The brothers themselves name the thief's penalty (the thief himself becomes the penalty (enslavement))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ
-- tradition: islam
-  ref: Quran 12:75
-  note: The brothers themselves name the thief's penalty (the thief himself becomes the penalty (enslavement))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
-- tradition: judaism
-  ref: Gen 44:1
-  note: Hero's cup is hidden in the youngest brother's bag (gevi'a ha-kesef)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַ֞ו אֶת אֲשֶׁ֣ר עַל בֵּיתוֹ֮ לֵאמֹר֒ מַלֵּ֞א אֶת אַמְתְּחֹ֤ת הָֽאֲנָשִׁים֙ אֹ֔כֶל כַּאֲשֶׁ֥ר
-    יוּכְל֖וּן שְׂאֵ֑ת וְשִׂ֥ים כֶּֽסֶף אִ֖ישׁ בְּפִ֥י אַמְתַּחְתּֽוֹ
-- tradition: judaism
-  ref: Gen 44:2
-  note: Hero's cup is hidden in the youngest brother's bag (gevi'a ha-kesef)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗סֶף תָּשִׂים֙ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן וְאֵ֖ת כֶּ֣סֶף שִׁבְר֑וֹ
-    וַיַּ֕עַשׂ כִּדְבַ֥ר יוֹסֵ֖ף אֲשֶׁ֥ר דִּבֵּֽר
-- tradition: islam
-  ref: Quran 12:70
-  note: Hero's cup is hidden in the youngest brother's bag (siqāya / ṣuwāʿ al-malik)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ
-    أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
-- tradition: islam
-  ref: Quran 12:72
-  note: Hero's cup is hidden in the youngest brother's bag (siqāya / ṣuwāʿ al-malik)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ
 - tradition: judaism
   ref: Gen 44:4
   note: Brothers pursued and accused of theft ('why have you repaid evil for good?')
@@ -142,62 +229,51 @@ passages:
   text: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ
     كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ نَرْفَعُ
     دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
+- tradition: islam
+  ref: Quran 12:75
+  note: Search proceeds through the others' bags before the youngest's
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
 evidence:
-- text: 'Shared motifs, rarest first: A brother offers himself or another in place of the youngest (weight
-    6.0); The brothers themselves name the thief''s penalty (weight 6.0); Hero''s cup is hidden in the
-    youngest brother''s bag (weight 6.0); Brothers pursued and accused of theft (weight 5.8); Search proceeds
-    through the others'' bags before the youngest''s (weight 5.8). Pair score 29.5.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    divergence, parallel. Gen: gəbîaʿ hakkesep, the cup in which my lord drinks and wəhûʾ naḥēš yənaḥēš
+    bô (divination), and naḥēš yənaḥēš ʾîš ʾăšer kāmōnî. Q: as-siqāya / ṣuwāʿ al-malik, the king''s drinking
+    or measuring vessel, with no divination. Q adds a reward, ḥimlu baʿīrin wa-ana bihi zaʿīm. adhdhana
+    muʾadhdhinun ayyatuhā l-ʿīru innakum la-sāriqūn ... mā kunnā sāriqīn; lāmmâ šillamtem rāʿâ taḥat ṭôbâ
+    ... ḥālîlâ laʿăbādêkā ... wəʾêk nignōb: the pursuit, the charge and the protest of innocence. jazāʾuhu
+    man wujida fī raḥlihi fa-huwa jazāʾuh; ʾăšer yimmāṣēʾ ʾittô ... wāmēt wəgam-ʾănaḥnû nihyeh laʾdōnî
+    laʿăbādîm, reduced to hûʾ yihyeh-llî ʿābed: the brothers pronounce the penalty, the one found with
+    it becomes the slave. fa-badaʾa bi-awʿiyatihim qabla wiʿāʾi akhīhi thumma stakhrajahā min wiʿāʾi akhīh;
+    baggādôl hēḥēl ûbaqqāṭōn killâ wayyimmāṣēʾ haggābîaʿ bəʾamtaḥat binyāmin. Q adds a theological comment:
+    ka-dhālika kidnā li-Yūsuf. Gen: Judah''s long plea ends with yēšeb-nāʾ ʿabdəkā taḥat hannaʿar, and
+    it breaks Joseph, wəlōʾ-yākōl yôsēp ləhitʾappēq (45:1), who reveals himself at once. Q: an unnamed
+    fa-khudh aḥadanā makānahu is refused (maʿādha llāhi an naʾkhudha illā man wajadnā matāʿanā ʿindah),
+    and the brothers go home. The revelation comes only on a third journey (12:88-90).'
   basis: reading
-- text: 'Only in The silver cup and Judah''s plea: Brothers confess their old crime in front of the victim
-    without knowing he hears them; A ruler''s silver cup used for divination; A father''s life is bound
-    up with the life of his youngest son; Father says losing his son will bring his grey hairs down to
+- text: 'Shared motifs, rarest first: Hero''s cup is hidden in the youngest brother''s bag [divergence
+    between the texts] (weight 6.7); A brother offers himself or another in place of the youngest [divergence
+    between the texts] (weight 6.7); Hero''s cup is hidden in the youngest brother''s bag (weight 6.0);
+    The brothers themselves name the thief''s penalty (weight 6.0); A brother offers himself or another
+    in place of the youngest (weight 6.0); Brothers pursued and accused of theft (weight 5.8); Search
+    proceeds through the others'' bags before the youngest''s (weight 5.8). Pair score 42.9.'
+  basis: reading
+- text: 'Only in The silver cup and Judah''s plea: A ruler''s silver cup used for divination; A father''s
+    life is bound up with the life of his youngest son; Brothers confess their old crime in front of the
+    victim without knowing he hears them; Father says losing his son will bring his grey hairs down to
     Sheol in sorrow; Men tear their garments in grief or dismay.'
   basis: reading
-- text: 'Only in Joseph and his brothers (Surah 12, full read): Foster parent says: perhaps he will benefit
-    us, or we will take him as a son; Seduction attempt when the two are alone in the house; Brothers
-    tell their father to ask the town and the caravan to confirm their story; Birds eat bread from on
-    top of the dreamer''s head; Brothers bring the hero''s garment with false blood; Hero bought by an
-    Egyptian official; Brothers claim the accused youth''s absent brother (the hero) had also stolen before;
-    Famished brothers bring poor goods and ask the disguised hero for alms; Brothers come for grain and
-    do not recognize the hero; The brothers confess ''we were sinners'' once the hero is revealed and
-    ask their father to pray for them; Brothers persuade the reluctant father to send the hero with them;
-    Brothers, out of envy, plot to kill the hero; Brothers come to their father at night, weeping; Hero
-    cast into a pit or well; The king''s experts cannot interpret the dream; The freed prisoner remembers
-    the hero and recommends him; Hero demands they bring their youngest brother; God''s favor rests on
-    the hero while he is a slave or prisoner; God reassures the hero in the pit; Do not despair of God''s
-    mercy (rawh / rahma); only unbelievers or the astray despair; Dream of sun, moon and eleven stars
-    bowing to the hero; Hero reveals himself to the youngest brother first; The woman falsely accuses
-    the hero of assault; The whole family moves to Egypt; Plan to store grain in the good years for the
-    famine years; The father''s eyesight fails; Father loves the hero more than his brothers; Father keeps
-    lamenting his lost son for years until his sons fear he will waste away; The patriarch claims to know
-    from God what his sons do not know; Father promises his repentant sons to ask God''s forgiveness for
-    them later; Father refuses at first to send the youngest; Father revives on hearing the hero lives;
-    Father does not believe the brothers'' story; Father recognizes his son''s scent; Father warns the
-    hero not to tell his dream to his brothers; The freed prisoner forgets the hero for years; Hero''s
-    garment becomes evidence in the seduction episode; Hero''s garment restores the father''s sight; Hero
-    placed over the land''s storehouses or the kingdom; Hero''s beauty is remarked on; Hero refuses release
-    until his innocence is established; Hero forgives his brothers; Hero thrown into prison; Hero nearly
-    yields but a sign from God stops him; Hero prays to die in submission and join the righteous; Hero
-    preaches monotheism to his fellow prisoners; Hero prays that prison is preferable to sin; Hero refuses,
-    citing loyalty to his master and to God; Hero reveals his identity to his brothers; Hero declares
-    that God turned the brothers'' deed to good; Fleeing the seductress, the hero and the woman find her
-    husband at the door; Hero attributes his dream interpretation to God; The bereaved father answers
-    with ''beautiful patience'' (sabr jamil) and reliance on God; King dreams of seven fat cows eaten
-    by seven lean, and seven green ears and seven dry; The hero could not have kept his brother under
-    the king''s law, so a stratagem is needed; The husband recognizes his wife''s guilt; The master''s
-    wife tries to seduce the hero; Their payment is secretly returned in their bags; One brother talks
-    the others out of killing him; One brother stays behind in Egypt; One prisoner is restored, the other
-    executed and his body exposed; Family prostrates before the hero, fulfilling the dream; A brother
-    or the brothers give the father a pledge for the youngest; Two fellow prisoners dream of pressing
-    wine and carrying bread; The hero declares he follows the religion of his fathers Abraham, Isaac and
-    Jacob; Hero asks the freed prisoner to mention him to the king; A passing caravan takes the hero from
-    the pit; Hero meets and embraces his father; A camel-load is promised to whoever brings back the missing
-    royal cup, with a guarantor; Satan stirs up enmity (nazagha) between brothers or among people; Father
-    tells the sons to enter by separate gates; Hero sold for a small sum of silver; ''The soul is ever
-    inciting to evil'' (al-nafs al-ammara bi-l-su'') except whom God shows mercy; The wife confesses the
-    hero''s innocence; A wild animal is blamed for the hero''s death; A witness proposes judging by where
-    the shirt is torn; Women dazzled by the hero cut their hands; Women of the city gossip about the wife''s
-    passion; A year of rain and relief follows the famine.'
+- text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
+    town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
+    hero) had also stolen before; Famished brothers bring poor goods and ask the disguised hero for alms;
+    The brothers confess ''we were sinners'' once the hero is revealed and ask their father to pray for
+    them; Father keeps lamenting his lost son for years until his sons fear he will waste away; The patriarch
+    claims to know from God what his sons do not know; Father promises his repentant sons to ask God''s
+    forgiveness for them later; Fleeing the seductress, the hero and the woman find her husband at the
+    door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
+    hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
+    he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
+    brings back the missing royal cup, with a guarantor; and 102 more.'
   basis: reading
 - text: 'The silver cup and Judah''s plea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

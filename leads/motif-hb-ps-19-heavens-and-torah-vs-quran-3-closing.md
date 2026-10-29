@@ -1,0 +1,85 @@
+---
+id: motif-hb-ps-19-heavens-and-torah-vs-quran-3-closing
+title: Psalm 19 - the heavens declare; the Torah is perfect ↔ Signs for people of understanding; closing
+  prayer
+summary: 'These two units share 1 motifs: the heavens recount god''s glory; day to day pours out speech
+  without words or voice.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- heavens-declare-glory-wordless
+passages:
+- tradition: judaism
+  ref: Ps 19:2-5
+  note: The heavens recount God's glory; day to day pours out speech without words or voice (kavvam (their
+    line/voice) goes out through all the earth)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (19:2) הַשָּׁמַ֗יִם מְֽסַפְּרִ֥ים כְּבֽוֹד אֵ֑ל וּֽמַעֲשֵׂ֥ה יָ֝דָ֗יו מַגִּ֥יד הָרָקִֽיעַ (19:3)
+    י֣וֹם לְ֭יוֹם יַבִּ֣יעַֽ אֹ֑מֶר וְלַ֥יְלָה לְּ֝לַ֗יְלָה יְחַוֶּה דָּֽעַת (19:4) אֵֽין אֹ֭מֶר וְאֵ֣ין
+    דְּבָרִ֑ים בְּ֝לִ֗י נִשְׁמָ֥ע קוֹלָֽם (19:5) בְּכָל הָאָ֨רֶץ יָ֘צָ֤א קַוָּ֗ם וּבִקְצֵ֣ה תֵ֭בֵל מִלֵּיהֶ֑ם
+    לַ֝שֶּׁ֗מֶשׁ שָֽׂם אֹ֥הֶל בָּהֶֽם
+- tradition: judaism
+  ref: Ps 19:2
+  note: The heavens recount God's glory; day to day pours out speech without words or voice (kavvam (their
+    line/voice) goes out through all the earth)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: הַשָּׁמַ֗יִם מְֽסַפְּרִ֥ים כְּבֽוֹד אֵ֑ל וּֽמַעֲשֵׂ֥ה יָ֝דָ֗יו מַגִּ֥יד הָרָקִֽיעַ
+- tradition: islam
+  ref: Quran 3:190
+  note: 'The heavens recount God''s glory; day to day pours out speech without words or voice (Ps 19:2-3
+    ha-ššāmayim mĕsappĕrîm kĕbôd ʾēl ... yôm lĕ-yôm yabbîaʿ ʾōmer wĕ-laylâ lĕ-laylâ yĕḥawweh dāʿat: heavens
+    and the succession of day and night speak of God; Q 3:190 inna fī khalqi s-samāwāti wa-l-arḍi wa-khtilāfi
+    l-layli wa-n-nahāri la-āyātin: heavens and the alternation of night and day are signs.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍ لِّأُو۟لِى
+    ٱلْأَلْبَٰبِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    echo. Ps 19:2-3 ha-ššāmayim mĕsappĕrîm kĕbôd ʾēl ... yôm lĕ-yôm yabbîaʿ ʾōmer wĕ-laylâ lĕ-laylâ yĕḥawweh
+    dāʿat: heavens and the succession of day and night speak of God; Q 3:190 inna fī khalqi s-samāwāti
+    wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri la-āyātin: heavens and the alternation of night and day
+    are signs.'
+  basis: reading
+- text: 'Shared motifs, rarest first: The heavens recount God''s glory; day to day pours out speech without
+    words or voice (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Psalm 19 - the heavens declare; the Torah is perfect: God has set a tent for the sun
+    in the heavens; The Torah of YHWH is perfect, restoring the soul; its precepts make wise, gladden
+    the heart, enlighten the eyes; ''May the words of my mouth and the meditation of my heart be acceptable
+    before you, my Rock and Redeemer''; Prayer to be cleansed of hidden and unwitting faults (shegi''ot,
+    nistarot); The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to
+    run his course; God''s judgments are more desirable than gold and sweeter than honey and the honeycomb;
+    The seven heavens, the earth and everything in them glorify God, though humans do not understand their
+    praise; Sun and moon each swim in an orbit (falak); God called the Rock (tsur); A solid firmament
+    (raqia) separates upper waters from lower waters; Superscription ''for the leader/choirmaster'' (lamenatseah).'
+  basis: reading
+- text: 'Only in Signs for people of understanding; closing prayer: ''We heard a caller calling to faith:
+    believe in your Lord''; God does not waste the work of any worker, male or female; you are of one
+    another; Be patient, vie in patience, stand guard (rabitu); ''Our Lord, you have not created this
+    in vain''; Among the People of the Book an upright community recites God''s signs through the night
+    and prostrates; Meditate on the book of the Torah day and night; it shall not depart from your mouth;
+    Those who remember God standing, sitting and on their sides and reflect on creation; Catalogue of
+    signs: heavens and earth, alternation of night and day, ships, rain reviving dead earth, beasts, winds,
+    clouds; Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever.'
+  basis: reading
+- text: 'Psalm 19 - the heavens declare; the Torah is perfect: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Signs for people of understanding; closing prayer: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

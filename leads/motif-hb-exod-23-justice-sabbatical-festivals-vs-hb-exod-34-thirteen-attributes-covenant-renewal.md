@@ -2,9 +2,9 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-hb-exod-34-thirteen-attributes-covenant-renewal
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ New tablets, the attributes
   of mercy and the ritual decalogue
-summary: 'These two units share 5 motifs: no one shall appear before god empty-handed, do not offer sacrificial
-  blood with leavened bread; fat not left until morning, prohibition of boiling a kid in its mother''s
-  milk, bring the first fruits of the land to the house of god….'
+summary: 'These two units share 6 motifs: do not offer sacrificial blood with leavened bread; fat not
+  left until morning, no one shall appear before god empty-handed, how often and when pilgrimage is made
+  [divergence between the texts], prohibition of boiling a kid in its mother''s milk….'
 status: new
 relations:
 - internal
@@ -14,12 +14,25 @@ traditions:
 layers:
 - motif
 motifs:
-- not-appear-empty-handed
 - no-leaven-with-sacrificial-blood
+- not-appear-empty-handed
+- number-and-season-of-pilgrimage-as-divergence
 - kid-in-mothers-milk
 - first-fruits-to-house-of-god
 - three-pilgrimage-festivals
 passages:
+- tradition: judaism
+  ref: Exod 23:18
+  note: Do not offer sacrificial blood with leavened bread; fat not left until morning
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹֽא תִזְבַּ֥ח עַל חָמֵ֖ץ דַּם זִבְחִ֑י וְלֹֽא יָלִ֥ין חֵֽלֶב חַגִּ֖י עַד בֹּֽקֶר
+- tradition: judaism
+  ref: Exod 34:25
+  note: Do not offer sacrificial blood with leavened bread; fat not left until morning
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹֽא תִשְׁחַ֥ט עַל חָמֵ֖ץ דַּם זִבְחִ֑י וְלֹא יָלִ֣ין לַבֹּ֔קֶר זֶ֖בַח חַ֥ג הַפָּֽסַח
 - tradition: judaism
   ref: Exod 23:15
   note: No one shall appear before God empty-handed
@@ -35,17 +48,50 @@ passages:
   text: וּפֶ֤טֶר חֲמוֹר֙ תִּפְדֶּ֣ה בְשֶׂ֔ה וְאִם לֹ֥א תִפְדֶּ֖ה וַעֲרַפְתּ֑וֹ כֹּ֣ל בְּכ֤וֹר בָּנֶ֨יךָ֙
     תִּפְדֶּ֔ה וְלֹֽא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
 - tradition: judaism
-  ref: Exod 23:18
-  note: Do not offer sacrificial blood with leavened bread; fat not left until morning
+  ref: Exod 23:15
+  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
+    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
+    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
+    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
+    with an offering (hady), and ''the best provision is piety''.)'
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא תִזְבַּ֥ח עַל חָמֵ֖ץ דַּם זִבְחִ֑י וְלֹֽא יָלִ֥ין חֵֽלֶב חַגִּ֖י עַד בֹּֽקֶר
+  text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙
+    חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
 - tradition: judaism
-  ref: Exod 34:25
-  note: Do not offer sacrificial blood with leavened bread; fat not left until morning
+  ref: Exod 23:17
+  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
+    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
+    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
+    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
+    with an offering (hady), and ''the best provision is piety''.)'
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא תִשְׁחַ֥ט עַל חָמֵ֖ץ דַּם זִבְחִ֑י וְלֹא יָלִ֣ין לַבֹּ֔קֶר זֶ֖בַח חַ֥ג הַפָּֽסַח
+  text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+- tradition: judaism
+  ref: Exod 34:23
+  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 34:23-24 šālōš pĕʿāmîm
+    ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages to ''the Lord YHWH, God of
+    Israel'', with God''s promise that no one will covet the land while they go; Q 2:196 fa-in uḥṣirtum
+    ... fa-idhā amintum: the pilgrimage rules provide for being blocked and for when ''you are safe''.
+    A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs
+    rabbukum (''your Lord'', 2:198).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
+    יִשְׂרָאֵֽל
+- tradition: judaism
+  ref: Exod 34:24
+  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 34:23-24 šālōš pĕʿāmîm
+    ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages to ''the Lord YHWH, God of
+    Israel'', with God''s promise that no one will covet the land while they go; Q 2:196 fa-in uḥṣirtum
+    ... fa-idhā amintum: the pilgrimage rules provide for being blocked and for when ''you are safe''.
+    A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs
+    rabbukum (''your Lord'', 2:198).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי אוֹרִ֤ישׁ גּוֹיִם֙ מִפָּנֶ֔יךָ וְהִרְחַבְתִּ֖י אֶת גְּבוּלֶ֑ךָ וְלֹא יַחְמֹ֥ד אִישׁ֙ אֶֽת
+    אַרְצְךָ֔ בַּעֲלֹֽתְךָ֗ לֵרָאוֹת֙ אֶת פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָֽה
 - tradition: judaism
   ref: Exod 23:19
   note: Prohibition of boiling a kid in its mother's milk
@@ -85,6 +131,12 @@ passages:
     תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת מַעֲשֶׂ֖יךָ מִן הַשָּׂדֶֽה
     (23:17) שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
 - tradition: judaism
+  ref: Exod 23:14
+  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
+- tradition: judaism
   ref: Exod 34:18
   note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
     at the turn of the year)
@@ -100,32 +152,34 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת הַשָּׁנָֽה
 evidence:
-- text: 'Shared motifs, rarest first: No one shall appear before God empty-handed (weight 6.7); Do not
-    offer sacrificial blood with leavened bread; fat not left until morning (weight 6.7); Prohibition
-    of boiling a kid in its mother''s milk (weight 6.3); Bring the first fruits of the land to the house
-    of God (weight 6.0); Three annual pilgrimage festivals when every male appears before God (weight
-    5.4). Pair score 31.1.'
+- text: 'Shared motifs, rarest first: Do not offer sacrificial blood with leavened bread; fat not left
+    until morning (weight 6.7); No one shall appear before God empty-handed (weight 6.7); How often and
+    when pilgrimage is made [divergence between the texts] (weight 6.3); Prohibition of boiling a kid
+    in its mother''s milk (weight 6.3); Bring the first fruits of the land to the house of God (weight
+    6.0); Three annual pilgrimage festivals when every male appears before God (weight 5.3). Pair score
+    37.3.'
   basis: reading
-- text: 'Only in Covenant Code - justice, enemy''s animal, sabbatical year, festivals: A bribe blinds
-    the clear-sighted and perverts the words of the righteous; Do not invoke the names of other gods;
-    Return your enemy''s stray animal and help his overloaded donkey; Do not spread false reports or follow
-    the majority to do wrong in court; Neither favor nor pervert justice for the poor in his lawsuit;
-    Do not oppress the stranger, for you were strangers in Egypt; Sabbath rest on the seventh day for
-    all, including servants, animals and strangers; The land lies fallow in the seventh year for the poor
-    and wild animals.'
+- text: 'Only in Covenant Code - justice, enemy''s animal, sabbatical year, festivals: Return your enemy''s
+    stray animal and help his overloaded donkey; Neither favor nor pervert justice for the poor in his
+    lawsuit; Whoever commits a sin and casts it on an innocent bears slander and manifest sin; God does
+    not forbid kindness and justice toward those who did not fight you over religion or expel you; Do
+    not oppress the stranger, for you were strangers in Egypt; The land lies fallow in the seventh year
+    for the poor and wild animals; Do not invoke the names of other gods; Let not hatred of a people move
+    you to injustice; be just; Do not spread false reports or follow the majority to do wrong in court;
+    Who must make pilgrimage to the sanctuary, and how often [divergence between the texts]; Judge fairly,
+    favoring neither the poor nor the great; A bribe blinds the clear-sighted and perverts the words of
+    the righteous; and 1 more.'
   basis: reading
-- text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: Israel must tear down
-    the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its neck
-    is broken; Firstborn sons and animals belong to God; A prophet spends forty days and forty nights
-    in a set period; God passes by and proclaims his name and attributes of mercy; A boundary is set round
-    the holy mountain; whoever touches it dies; Marrying foreign women will lead the sons into idolatry;
-    God is a jealous God; God promises no one will covet the land while the men go up on pilgrimage; Make
-    no covenant with the inhabitants or their gods, who would be a snare; Prohibition of carved images
-    or likenesses of anything for worship; The prophet neither eats nor drinks for forty days; The prophet
-    intercedes for the people, arguing from God''s reputation; The Sabbath must be kept even in plowing
-    and harvest time; Moses hews a second pair of tablets to replace the broken ones; God visits the fathers''
-    sin on the third and fourth generation, but keeps steadfast love for thousands; God calls Israel a
-    stiff-necked people; The Ten Commandments (Decalogue).'
+- text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
+    covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
+    time; Call to the People of the Book to a common word: worship none but God and take none as lords
+    besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
+    down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
+    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
+    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
+    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
+    a snare; The prophet intercedes for the people, arguing from God''s reputation; How far God''s mercy
+    and his punishment extend [divergence between the texts]; and 16 more.'
   basis: reading
 - text: 'Covenant Code - justice, enemy''s animal, sabbatical year, festivals: tagged by Claude (model),
     reading the Hebrew.'

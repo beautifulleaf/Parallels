@@ -1,0 +1,84 @@
+---
+id: motif-hb-ps-2-anointed-son-vs-quran-39-pure-religion
+title: Psalm 2 - the nations rage; the king as God's son ↔ Pure religion; no son for God; creation from
+  one soul in three darknesses
+summary: 'These two units share 1 motifs: whether god has, begets or takes sons or other offspring [contrast
+  between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- divine-offspring-as-contrast
+passages:
+- tradition: judaism
+  ref: Ps 2:7
+  note: 'Whether God has, begets or takes sons or other offspring [contrast between the texts] (YHWH ʾāmar
+    ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā
+    yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm''s divine sonship of the king
+    is answered in the Quran''s terms: even if God wished it, the ''son'' would be a creature God chose,
+    not one he begot, and God is above it altogether.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+- tradition: islam
+  ref: Quran 39:4
+  note: 'Whether God has, begets or takes sons or other offspring [contrast between the texts] (YHWH ʾāmar
+    ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā
+    yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm''s divine sonship of the king
+    is answered in the Quran''s terms: even if God wished it, the ''son'' would be a creature God chose,
+    not one he begot, and God is above it altogether.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ سُبْحَٰنَهُۥ
+    هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    contrast. YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan
+    la-ṣṭafā mimmā yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm''s divine sonship
+    of the king is answered in the Quran''s terms: even if God wished it, the ''son'' would be a creature
+    God chose, not one he begot, and God is above it altogether.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Whether God has, begets or takes sons or other offspring [contrast
+    between the texts] (weight 5.8). Pair score 5.8.'
+  basis: reading
+- text: 'Only in Psalm 2 - the nations rage; the king as God''s son: God gives the king the nations as
+    inheritance and the ends of the earth as possession; God tells the king ''You are my son; today I
+    have begotten you''; God installs his king on Zion, his holy mountain; Rulers told to serve God with
+    trembling and ''kiss the son'' (nashqu bar); Happy are all who take refuge (hosim) in God; The king
+    will break the nations with a rod of iron and shatter them like a potter''s vessel; Whether God has
+    a son, or calls his anointed king his begotten son [response between the texts]; Whether God has or
+    begets a son [contrast between the texts]; God does not beget and was not begotten [contrast between
+    the texts]; Nations and kings of the earth conspire against YHWH and his anointed (mashiah); They
+    say ''al-Rahman has taken a son''; it is not fitting for the Merciful [response between the texts];
+    God in heaven laughs at and mocks those who plot against him or the righteous; and 1 more.'
+  basis: reading
+- text: 'Only in Pure religion; no son for God; creation from one soul in three darknesses: God sent down
+    for you eight pairs of livestock; Idolaters say ''we worship them only that they may bring us near
+    to God''; Had God wished to take a son he would have chosen from what he creates whatever he willed;
+    glory be to him, the One; God creates you in your mothers'' bellies creation after creation in three
+    darknesses; God wraps (yukawwir) the night around the day and the day around the night; Was not God''s
+    earth wide enough for you to emigrate (hijra) in it?; How God made the human mate, and for what purpose
+    [divergence between the texts]; The believers'' sides forsake their beds as they call on their Lord
+    in fear and hope (night vigil); First woman made from the man''s rib or side while he sleeps; God
+    formed the kidneys and wove (knit) the speaker in his mother''s womb; No burdened soul bears another''s
+    burden; even a relative will not carry any of it; Sun and moon are subjected, each running to an appointed
+    term; and 2 more.'
+  basis: reading
+- text: 'Psalm 2 - the nations rage; the king as God''s son: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Pure religion; no son for God; creation from one soul in three darknesses: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

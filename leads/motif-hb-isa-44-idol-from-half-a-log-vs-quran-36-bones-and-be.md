@@ -1,0 +1,98 @@
+---
+id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-36-bones-and-be
+title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ Who revives rotten
+  bones? Fire from the green tree; Be and it is
+summary: 'These two units share 1 motifs: god made fire for you from the green tree, from which you kindle.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- fire-from-green-tree
+passages:
+- tradition: judaism
+  ref: Isa 44:15
+  note: 'God made fire for you from the green tree, from which you kindle (Wood as fuel set against false
+    gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned
+    for fire, the rest made a god). Q: alladhī jaʿala lakum mina sh-shajari l-akhḍari nāran fa-idhā antum
+    minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan (36:74). Isaiah mocks the idol made from
+    the firewood; the Quran makes the fire from wood a gift of the true God.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
+    אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
+- tradition: judaism
+  ref: Isa 44:16
+  note: 'God made fire for you from the green tree, from which you kindle (Wood as fuel set against false
+    gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned
+    for fire, the rest made a god). Q: alladhī jaʿala lakum mina sh-shajari l-akhḍari nāran fa-idhā antum
+    minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan (36:74). Isaiah mocks the idol made from
+    the firewood; the Quran makes the fire from wood a gift of the true God.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: חֶצְיוֹ֙ שָׂרַ֣ף בְּמוֹ אֵ֔שׁ עַל חֶצְיוֹ֙ בָּשָׂ֣ר יֹאכֵ֔ל יִצְלֶ֥ה צָלִ֖י וְיִשְׂבָּ֑ע אַף יָחֹם֙
+    וְיֹאמַ֣ר הֶאָ֔ח חַמּוֹתִ֖י רָאִ֥יתִי אֽוּר
+- tradition: islam
+  ref: Quran 36:80
+  note: God made fire for you from the green tree, from which you kindle
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ
+- tradition: islam
+  ref: Quran 36:74
+  note: God made fire for you from the green tree, from which you kindle
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    echo. Wood as fuel set against false gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš
+    ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned for fire, the rest made a god). Q: alladhī jaʿala lakum mina
+    sh-shajari l-akhḍari nāran fa-idhā antum minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan
+    (36:74). Isaiah mocks the idol made from the firewood; the Quran makes the fire from wood a gift of
+    the true God.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God made fire for you from the green tree, from which you kindle
+    (weight 6.0). Pair score 6.0.'
+  basis: reading
+- text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
+    Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the
+    temple ''its foundation laid''; The idol-worshipper ''feeds on ashes''; a deluded heart leads him
+    astray and he cannot say ''Is there not a lie in my right hand?''; God says to the deep (tsulah) ''Be
+    dry, I will dry up your rivers''; God frustrates the omens of the babblers, makes fools of diviners
+    and turns the wise backward; Sing, heavens; shout, depths of the earth (tahtiyyot arets); break into
+    song, mountains and every tree of the forest; The idol-maker burns half the tree to cook his meat
+    and warm himself, and of the rest makes a god and prays ''Save me''; The carpenter marks out the idol
+    with line and compass and makes it in the form of a man, in human beauty, to dwell in a house; The
+    smith who forges the idol grows hungry and faint and drinks no water; Israel called ''Jeshurun'' (the
+    upright one); One says ''I am YHWH''s'', another takes Jacob''s name, another writes ''of YHWH'' on
+    his hand (a tattoo or brand of allegiance); God has blotted out transgressions like a cloud and sins
+    like mist; God pours water on the thirsty land and his spirit on Israel''s offspring; they spring
+    up like willows by streams; and 15 more.'
+  basis: reading
+- text: 'Only in Who revives rotten bones? Fire from the green tree; Be and it is: The skeptic asks ''Who
+    will give life to bones when they have rotted?''; the answer: he who produced them the first time;
+    God asks ''Can these bones live?'' and the prophet answers ''Lord God, you know''; The question whether
+    dead bones can live again, and who asks it [divergence between the texts]; God created livestock and
+    subjected them to people for riding, food, benefits and drink; Deity creates by spoken command (Let
+    there be...); God originates creation and then repeats it (resurrection as re-creation); God creates
+    by saying to a thing ''Be'' and it is (kun fa-yakun).'
+  basis: reading
+- text: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: tagged by Claude
+    (model), reading the Hebrew.'
+  basis: reading
+- text: 'Who revives rotten bones? Fire from the green tree; Be and it is: tagged by Claude (model), reading
+    the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -5,7 +5,6 @@ title: Covenant Code - sorceress, stranger, widow, loans, firstborn ↔ Splitter
 summary: 'These two units share 1 motifs: do not revile god or curse a ruler of your people.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -32,28 +31,35 @@ passages:
     عِلْمٍ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم
     بِمَا كَانُوا۟ يَعْمَلُونَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    echo. A ban on reviling. Exod: ʾĕlōhîm lōʾ təqallēl wə-nāśîʾ bə-ʿamməkhā lōʾ tāʾōr, ambiguous between
+    ''God'', ''gods'' and ''judges''. Q: wa-lā tasubbū lladhīna yadʿūna min dūni llāhi fa-yasubbū llāha
+    ʿadwan bi-ghayri ʿilmin. Do not revile others'' gods, lest they revile God. cf. (not a match) LXX
+    Exod 22:27 ''you shall not revile gods'', Philo Spec. Leg. 1.53 and Josephus Ant. 4.207, who read
+    the verse the same way.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Do not revile God or curse a ruler of your people (weight 6.7).
     Pair score 6.7.'
   basis: reading
 - text: 'Only in Covenant Code - sorceress, stranger, widow, loans, firstborn: Lying with an animal is
-    a capital crime; Firstborn sons and animals belong to God; God hears the cry of the oppressed widow
-    and orphan and punishes measure for measure; Newborn animal stays seven days with its mother before
-    it may be sacrificed; A cloak taken in pledge must be returned before sunset; Do not charge interest
-    to the poor of my people; Do not oppress the stranger, for you were strangers in Egypt; Whoever sacrifices
-    to other gods is devoted to destruction; You shall not let a sorceress live; Flesh torn by beasts
-    in the field is not eaten but thrown to dogs.'
+    a capital crime; Whoever sacrifices to other gods is devoted to destruction; Flesh torn by beasts
+    in the field is not eaten but thrown to dogs; Flesh of an animal torn by a beast of prey is not to
+    be eaten [divergence between the texts]; God hears the cry of the oppressed widow and orphan and punishes
+    measure for measure; Newborn animal stays seven days with its mother before it may be sacrificed;
+    Do not charge interest to the poor of my people [response between the texts]; Do not oppress the stranger,
+    for you were strangers in Egypt; You shall not let a sorceress live; Firstborn sons and animals belong
+    to God; A cloak taken in pledge must be returned before sunset; To whom and how widely the ban on
+    interest applies [divergence between the texts]; and 2 more.'
   basis: reading
-- text: 'Only in Splitter of seed and dawn; stars for navigation; do not revile their gods: Humankind
-    is created from a single soul, from which its mate was made to dwell with it; Do not revile those
-    they invoke besides God, lest they revile God in ignorance; God brings the living out of the dead
-    and the dead out of the living; Denial that God has taken a son (walad); God has taken neither consort
-    (sahiba) nor child; They made the jinn partners of God, though he created them; Humans have a lodging
-    place and a repository (mustaqarr wa-mustawdaʿ); Sun and moon are set to rule day and night and mark
-    signs and seasons; Opponents say to the Prophet ''you have studied'' (darasta); Rain brings forth
-    vegetation: clustered grain, hanging date clusters, vineyards, olives and pomegranates; Land of wheat,
-    barley, vine, fig, pomegranate, olive and honey; God is the splitter of the dawn (fāliq al-iṣbāḥ);
-    night for rest; God splits the grain and the date-stone; God made the stars for guidance in the darknesses
-    of land and sea; Vision does not grasp him, but he grasps all vision.'
+- text: 'Only in Splitter of seed and dawn; stars for navigation; do not revile their gods: Do not revile
+    those they invoke besides God, lest they revile God in ignorance; They made the jinn partners of God,
+    though he created them; Humans have a lodging place and a repository (mustaqarr wa-mustawdaʿ); Opponents
+    say to the Prophet ''you have studied'' (darasta); Rain brings forth vegetation: clustered grain,
+    hanging date clusters, vineyards, olives and pomegranates; God is the splitter of the dawn (fāliq
+    al-iṣbāḥ); night for rest; God splits the grain and the date-stone; Vision does not grasp him, but
+    he grasps all vision; God has taken neither consort (sahiba) nor child; God made the stars for guidance
+    in the darknesses of land and sea; God brings the living out of the dead and the dead out of the living;
+    No human can see God''s face and live; and 5 more.'
   basis: reading
 - text: 'Covenant Code - sorceress, stranger, widow, loans, firstborn: tagged by Claude (model), reading
     the Hebrew.'

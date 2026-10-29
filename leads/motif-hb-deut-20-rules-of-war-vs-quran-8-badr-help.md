@@ -1,12 +1,13 @@
 ---
 id: motif-hb-deut-20-rules-of-war-vs-quran-8-badr-help
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ Badr - angels, slumber, rain and God''s throw'
-summary: 'These two units share 1 motifs: priest addresses the army before battle: do not fear, god fights
-  for you.'
+summary: 'These two units share 2 motifs: ruling on soldiers who fear battle [contrast between the texts],
+  priest addresses the army before battle: do not fear, god fights for you.'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -14,8 +15,42 @@ traditions:
 layers:
 - motif
 motifs:
+- fearful-soldiers-in-battle-as-contrast
 - priest-addresses-army
 passages:
+- tradition: judaism
+  ref: Deut 20:8
+  note: 'Ruling on soldiers who fear battle [contrast between the texts] (Opposite rulings on the fearful
+    soldier: Deut sends him home before the battle so he does not melt his brothers'' hearts (mî-hāʾîš
+    hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb lᵉbêtô); Q forbids turning one''s back once the ranks meet,
+    on pain of God''s wrath and hell (fa-lā tuwallūhumu l-adbāra ... fa-qad bāʾa bi-ghaḍabin mina llāh),
+    except to manoeuvre or join another unit.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
+    יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
+- tradition: islam
+  ref: Quran 8:15
+  note: 'Ruling on soldiers who fear battle [contrast between the texts] (Opposite rulings on the fearful
+    soldier: Deut sends him home before the battle so he does not melt his brothers'' hearts (mî-hāʾîš
+    hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb lᵉbêtô); Q forbids turning one''s back once the ranks meet,
+    on pain of God''s wrath and hell (fa-lā tuwallūhumu l-adbāra ... fa-qad bāʾa bi-ghaḍabin mina llāh),
+    except to manoeuvre or join another unit.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ زَحْفًا فَلَا تُوَلُّوهُمُ
+    ٱلْأَدْبَارَ
+- tradition: islam
+  ref: Quran 8:16
+  note: 'Ruling on soldiers who fear battle [contrast between the texts] (Opposite rulings on the fearful
+    soldier: Deut sends him home before the battle so he does not melt his brothers'' hearts (mî-hāʾîš
+    hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb lᵉbêtô); Q forbids turning one''s back once the ranks meet,
+    on pain of God''s wrath and hell (fa-lā tuwallūhumu l-adbāra ... fa-qad bāʾa bi-ghaḍabin mina llāh),
+    except to manoeuvre or join another unit.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَمَن يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ
+    فِئَةٍ فَقَدْ بَآءَ بِغَضَبٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ
 - tradition: judaism
   ref: Deut 20:2
   note: 'Priest addresses the army before battle: do not fear, God fights for you'
@@ -37,25 +72,52 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ وَإِن تَعُودُوا۟
     نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ
+- tradition: islam
+  ref: Quran 8:12
+  note: 'Priest addresses the army before battle: do not fear, God fights for you (''God is with the believers'';
+    your numbers will not avail)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى
+    فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ
+    بَنَانٍ
 evidence:
-- text: 'Shared motifs, rarest first: Priest addresses the army before battle: do not fear, God fights
-    for you (weight 6.7). Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    contrast, parallel. Assurance before battle that God is with the fighters: annī maʿakum fa-thabbitū
+    lladhīna āmanū; wa-anna llāha maʿa l-muʾminīn vs ʾal-yērak lᵉbabkem ʾal-tîrʾû ... kî YHWH ʾĕlōhêkem
+    hahōlēk ʿimmākem lᵉhillāḥēm lākem. Opposite rulings on the fearful soldier: Deut sends him home before
+    the battle so he does not melt his brothers'' hearts (mî-hāʾîš hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb
+    lᵉbêtô); Q forbids turning one''s back once the ranks meet, on pain of God''s wrath and hell (fa-lā
+    tuwallūhumu l-adbāra ... fa-qad bāʾa bi-ghaḍabin mina llāh), except to manoeuvre or join another unit.'
   basis: reading
-- text: 'Only in Rules of war: exemptions, peace terms, fruit trees: God celebrated as a warrior (''YHWH
-    is a man of war''); Ban (herem): total destruction of a conquered population; Exemptions from war
-    for a new house, unharvested vineyard, betrothed bride, or faintheartedness; Messengers offer peace
-    terms before battle; Do not cut down fruit trees during a siege: is the tree of the field a man?;
-    City accepting peace becomes forced labor; one resisting has its males killed.'
+- text: 'Shared motifs, rarest first: Ruling on soldiers who fear battle [contrast between the texts]
+    (weight 6.7); Priest addresses the army before battle: do not fear, God fights for you (weight 6.7).
+    Pair score 13.4.'
   basis: reading
-- text: 'Only in Badr - angels, slumber, rain and God''s throw: God reinforces the believers in battle
-    with a thousand (or more) angels; God sends terror ahead to panic the enemies; Fleeing the battle
-    line is forbidden except as a maneuver or to join another unit; ''You did not throw when you threw,
-    but God threw'': the victory is God''s act; God''s plotting (makr / kayd) outwits the schemers; none
-    is safe from it but the losers; Rain is sent down before battle to purify the fighters, remove Satan''s
-    filth and make their feet firm; Some believers dispute the call to battle as if driven to death with
-    their eyes open; God cuts off the last remnant (root, dabir) of a people who denied; God covers the
-    fighters with slumber as a security from him before battle; Angels are told to strike the enemy above
-    the necks and on every finger-tip.'
+- text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
+    to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
+    between the texts]; Whether the enemy''s trees may be cut down in a siege [contrast between the texts];
+    Who is excused from going out to war [contrast between the texts]; Who is excused from going out to
+    war [divergence between the texts]; Men leave the battle line to go home, and how that is judged [contrast
+    between the texts]; Exemptions from war for a new house, unharvested vineyard, betrothed bride, or
+    faintheartedness [divergence between the texts]; Messengers offer peace terms before battle [divergence
+    between the texts]; Peace offered or accepted in war, and its terms [divergence between the texts];
+    Book-people who aided the enemy are brought down from their fortresses, terror cast in their hearts;
+    some killed, some captured, their land inherited; City accepting peace becomes forced labor; one resisting
+    has its males killed; What is done with the enemy''s men after battle: killed, or bound and released
+    [contrast between the texts]; and 9 more.'
+  basis: reading
+- text: 'Only in Badr - angels, slumber, rain and God''s throw: Rain is sent down before battle to purify
+    the fighters, remove Satan''s filth and make their feet firm; Some believers dispute the call to battle
+    as if driven to death with their eyes open; God covers the fighters with slumber as a security from
+    him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; God
+    reduces the army so that Israel cannot boast its own hand saved it; Fleeing the battle line is forbidden
+    except as a maneuver or to join another unit; ''You did not throw when you threw, but God threw'':
+    the victory is God''s act; The threatened people cry to God before the decisive encounter [divergence
+    between the texts]; God cuts off the last remnant (root, dabir) of a people who denied; The victory
+    is credited to God, not to the fighters [divergence between the texts]; God''s angels strike the enemy
+    army [divergence between the texts]; God reinforces the believers in battle with a thousand (or more)
+    angels; and 2 more.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

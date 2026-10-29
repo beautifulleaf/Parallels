@@ -1,8 +1,8 @@
 ---
 id: motif-hb-moses-infancy-vs-quran-28-pharaoh-oppression-infant-moses
 title: The infant Moses in Exodus ↔ Pharaoh's oppression and the infant Moses on the water
-summary: 'These two units share 7 motifs: infant''s sister watches over him, infant adopted by a royal
-  woman, infant returned to his own mother to nurse, sister offers to find a nurse….'
+summary: 'These two units share 7 motifs: infant adopted by a royal woman, infant''s sister watches over
+  him, sister offers to find a nurse, infant returned to his own mother to nurse….'
 status: new
 relations:
 - transmission
@@ -14,26 +14,14 @@ traditions:
 layers:
 - motif
 motifs:
-- sister-watches
 - adopted-by-royal-woman
-- returned-to-own-mother
+- sister-watches
 - sister-offers-nurse
-- found-by-royal-household
+- returned-to-own-mother
 - infant-set-adrift
+- found-by-royal-household
 - king-kills-male-infants
 passages:
-- tradition: judaism
-  ref: Exod 2:4
-  note: Infant's sister watches over him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֵּתַצַּ֥ב אֲחֹת֖וֹ מֵרָחֹ֑ק לְדֵעָ֕ה מַה יֵּעָשֶׂ֖ה לֽוֹ
-- tradition: islam
-  ref: Quran 28:11
-  note: Infant's sister watches over him ('follow him'; she watched from afar unnoticed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ
 - tradition: judaism
   ref: Exod 2:10
   note: Infant adopted by a royal woman (Pharaoh's daughter)
@@ -49,6 +37,32 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّى وَلَكَ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ
     أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ
+- tradition: judaism
+  ref: Exod 2:4
+  note: Infant's sister watches over him
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתֵּתַצַּ֥ב אֲחֹת֖וֹ מֵרָחֹ֑ק לְדֵעָ֕ה מַה יֵּעָשֶׂ֖ה לֽוֹ
+- tradition: islam
+  ref: Quran 28:11
+  note: Infant's sister watches over him ('follow him'; she watched from afar unnoticed)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ
+- tradition: judaism
+  ref: Exod 2:7
+  note: Sister offers to find a nurse
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתֹּ֣אמֶר אֲחֹתוֹ֮ אֶל בַּת פַּרְעֹה֒ הַאֵלֵ֗ךְ וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן הָעִבְרִיֹּ֑ת
+    וְתֵינִ֥ק לָ֖ךְ אֶת הַיָּֽלֶד
+- tradition: islam
+  ref: Quran 28:12
+  note: Sister offers to find a nurse
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ
+    يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
 - tradition: judaism
   ref: Exod 2:8
   note: Infant returned to his own mother to nurse
@@ -70,19 +84,19 @@ passages:
   text: فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ
     ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 - tradition: judaism
-  ref: Exod 2:7
-  note: Sister offers to find a nurse
+  ref: Exod 2:3
+  note: Infant placed in a container and set on the water
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֣אמֶר אֲחֹתוֹ֮ אֶל בַּת פַּרְעֹה֒ הַאֵלֵ֗ךְ וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן הָעִבְרִיֹּ֑ת
-    וְתֵינִ֥ק לָ֖ךְ אֶת הַיָּֽלֶד
+  text: וְלֹא יָכְלָ֣ה עוֹד֮ הַצְּפִינוֹ֒ וַתִּֽקַּֽח לוֹ֙ תֵּ֣בַת גֹּ֔מֶא וַתַּחְמְרָ֥ה בַחֵמָ֖ר וּבַזָּ֑פֶת
+    וַתָּ֤שֶׂם בָּהּ֙ אֶת הַיֶּ֔לֶד וַתָּ֥שֶׂם בַּסּ֖וּף עַל שְׂפַ֥ת הַיְאֹֽר
 - tradition: islam
-  ref: Quran 28:12
-  note: Sister offers to find a nurse
+  ref: Quran 28:7
+  note: Infant placed in a container and set on the water
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
-  text: وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ
-    يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
+  text: وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى
+    ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
 - tradition: judaism
   ref: Exod 2:5
   note: Infant found by members of a royal household
@@ -106,20 +120,6 @@ passages:
   text: فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا إِنَّ فِرْعَوْنَ وَهَٰمَٰنَ
     وَجُنُودَهُمَا كَانُوا۟ خَٰطِـِٔينَ
 - tradition: judaism
-  ref: Exod 2:3
-  note: Infant placed in a container and set on the water
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹא יָכְלָ֣ה עוֹד֮ הַצְּפִינוֹ֒ וַתִּֽקַּֽח לוֹ֙ תֵּ֣בַת גֹּ֔מֶא וַתַּחְמְרָ֥ה בַחֵמָ֖ר וּבַזָּ֑פֶת
-    וַתָּ֤שֶׂם בָּהּ֙ אֶת הַיֶּ֔לֶד וַתָּ֥שֶׂם בַּסּ֖וּף עַל שְׂפַ֥ת הַיְאֹֽר
-- tradition: islam
-  ref: Quran 28:7
-  note: Infant placed in a container and set on the water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى
-    ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
-- tradition: judaism
   ref: Exod 1:16
   note: Ruler orders the killing of male infants
   lang: he
@@ -141,22 +141,25 @@ passages:
   text: إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَآئِفَةً مِّنْهُمْ
     يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Infant''s sister watches over him (weight 6.0); Infant adopted by
-    a royal woman (weight 6.0); Infant returned to his own mother to nurse (weight 5.8); Sister offers
-    to find a nurse (weight 5.8); Infant found by members of a royal household (weight 5.8); Infant placed
-    in a container and set on the water (weight 5.6); Ruler orders the killing of male infants (weight
-    5.1). Pair score 40.0.'
+- text: 'Shared motifs, rarest first: Infant adopted by a royal woman (weight 6.0); Infant''s sister watches
+    over him (weight 6.0); Sister offers to find a nurse (weight 5.8); Infant returned to his own mother
+    to nurse (weight 5.8); Infant placed in a container and set on the water (weight 5.6); Infant found
+    by members of a royal household (weight 5.6); Ruler orders the killing of male infants (weight 5.1).
+    Pair score 39.8.'
   basis: reading
 - text: 'Only in The infant Moses in Exodus: Mother hides the infant; Name explained by being drawn from
     water; The container is made of reeds or papyrus; Vessel sealed with pitch or bitumen.'
   basis: reading
-- text: 'Only in Pharaoh''s oppression and the infant Moses on the water: Foster parent says: perhaps
-    he will benefit us, or we will take him as a son; A surah opens with isolated letters (huruf muqatta''at)
-    of unexplained meaning, e.g. alif-lam-mim; Hāmān appears as Pharaoh''s minister and partner; Infant
-    refuses other wet nurses; The oppressor slaughters the sons and lets the women live; Mother receives
-    divine instruction about the infant; Moses'' mother''s heart becomes empty and she nearly discloses
-    him, but God steadies her heart; God wills to favor the oppressed and make them leaders (aʾimma) and
-    inheritors; Pharaoh exalted himself and divided the land''s people into factions, oppressing one group.'
+- text: 'Only in Pharaoh''s oppression and the infant Moses on the water: Moses'' mother''s heart becomes
+    empty and she nearly discloses him, but God steadies her heart; God wills to favor the oppressed and
+    make them leaders (aʾimma) and inheritors; Pharaoh exalted himself and divided the land''s people
+    into factions, oppressing one group; Infant adopted by a royal woman [divergence between the texts];
+    The oppressor slaughters the sons and lets the women live; Who decides that Moses be put on the water
+    [divergence between the texts]; Why Pharaoh oppresses Israel [divergence between the texts]; Infant
+    returned to his own mother to nurse [divergence between the texts]; Sister offers to find a nurse
+    [divergence between the texts]; Hāmān appears as Pharaoh''s minister and partner; Infant refuses other
+    wet nurses; Infant placed in a container and set on the water [divergence between the texts]; and
+    4 more.'
   basis: reading
 - text: 'The infant Moses in Exodus: tagged by Claude (model), reading the Hebrew.'
   basis: reading

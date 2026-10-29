@@ -3,9 +3,8 @@ id: motif-hb-1kgs-22-micaiah-vs-hb-2chr-18-micaiah-and-ramoth-gilead
 title: Micaiah son of Imlah and the lying spirit ↔ Micaiah ben Imlah, the lying spirit in the divine council,
   and Ahab's death
 summary: 'These two units share 7 motifs: a spirit volunteers in the divine council to be a lying spirit
-  in the prophets'' mouths, prophet first sarcastically repeats the favorable oracle, then under oath
-  tells the true one, court prophet makes iron horns: ''with these you will gore aram'', four hundred
-  court prophets unanimously promise victory….'
+  in the prophets'' mouths, court prophet makes iron horns: ''with these you will gore aram'', four hundred
+  court prophets unanimously promise victory, a false prophet strikes the true prophet on the cheek….'
 status: new
 relations:
 - internal
@@ -16,11 +15,11 @@ layers:
 - motif
 motifs:
 - lying-spirit-sent-by-god
-- prophet-first-echoes-then-tells-truth
 - iron-horns-sign-act
 - four-hundred-court-prophets-unanimous
-- one-true-prophet-hated-by-king
 - prophet-struck-on-cheek
+- one-true-prophet-hated-by-king
+- prophet-first-echoes-then-tells-truth
 - sheep-without-shepherd
 passages:
 - tradition: judaism
@@ -47,31 +46,6 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיֹּ֗אמֶר אֵצֵא֙ וְהָיִ֨יתִי֙ לְר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל נְבִיאָ֑יו וַיֹּ֗אמֶר תְּפַתֶּה֙
     וְגַם תּוּכָ֔ל צֵ֖א וַעֲשֵׂה כֵֽן
-- tradition: judaism
-  ref: 1Kgs 22:15-17
-  note: Prophet first sarcastically repeats the favorable oracle, then under oath tells the true one
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (22:15) וַיָּבוֹא֮ אֶל הַמֶּלֶךְ֒ וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֵלָ֗יו מִיכָ֨יְהוּ֙ הֲנֵלֵ֞ךְ אֶל רָמֹ֥ת
-    גִּלְעָ֛ד לַמִּלְחָמָ֖ה אִם נֶחְדָּ֑ל וַיֹּ֤אמֶר אֵלָיו֙ עֲלֵ֣ה וְהַצְלַ֔ח וְנָתַ֥ן יְהוָ֖ה בְּיַ֥ד
-    הַמֶּֽלֶךְ (22:16) וַיֹּ֤אמֶר אֵלָיו֙ הַמֶּ֔לֶךְ עַד כַּמֶּ֥ה פְעָמִ֖ים אֲנִ֣י מַשְׁבִּעֶ֑ךָ אֲ֠שֶׁר
-    לֹֽא תְדַבֵּ֥ר אֵלַ֛י רַק אֱמֶ֖ת בְּשֵׁ֥ם יְהוָֽה (22:17) וַיֹּ֗אמֶר רָאִ֤יתִי אֶת כָּל יִשְׂרָאֵל֙
-    נְפֹצִ֣ים אֶל הֶהָרִ֔ים כַּצֹּ֕אן אֲשֶׁ֥ר אֵין לָהֶ֖ם רֹעֶ֑ה וַיֹּ֤אמֶר יְהוָה֙ לֹֽא אֲדֹנִ֣ים לָאֵ֔לֶּה
-    יָשׁ֥וּבוּ אִישׁ לְבֵית֖וֹ בְּשָׁלֽוֹם
-- tradition: judaism
-  ref: 2Chr 18:14
-  note: Prophet first sarcastically repeats the favorable oracle, then under oath tells the true one
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹא֮ אֶל הַמֶּלֶךְ֒ וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֵלָ֗יו מִיכָה֙ הֲנֵלֵ֞ךְ אֶל רָמֹ֥ת גִּלְעָ֛ד
-    לַמִּלְחָמָ֖ה אִם אֶחְדָּ֑ל וַיֹּ֨אמֶר֙ עֲל֣וּ וְהַצְלִ֔יחוּ וְיִנָּתְנ֖וּ בְּיֶדְכֶֽם
-- tradition: judaism
-  ref: 2Chr 18:15
-  note: Prophet first sarcastically repeats the favorable oracle, then under oath tells the true one
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר אֵלָיו֙ הַמֶּ֔לֶךְ עַד כַּמֶּ֥ה פְעָמִ֖ים אֲנִ֣י מַשְׁבִּיעֶ֑ךָ אֲ֠שֶׁר לֹֽא תְדַבֵּ֥ר
-    אֵלַ֛י רַק אֱמֶ֖ת בְּשֵׁ֥ם יְהוָֽה
 - tradition: judaism
   ref: 1Kgs 22:11
   note: 'Court prophet makes iron horns: ''with these you will gore Aram'''
@@ -119,6 +93,21 @@ passages:
   text: וְכָל הַ֨נְּבִאִ֔ים נִבְּאִ֥ים כֵּ֖ן לֵאמֹ֑ר עֲלֵ֞ה רָמֹ֤ת גִּלְעָד֙ וְהַצְלַ֔ח וְנָתַ֥ן יְהוָ֖ה
     בְּיַ֥ד הַמֶּֽלֶךְ
 - tradition: judaism
+  ref: 1Kgs 22:24
+  note: A false prophet strikes the true prophet on the cheek
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּגַּשׁ֙ צִדְקִיָּ֣הוּ בֶֽן כְּנַעֲנָ֔ה וַיַּכֶּ֥ה אֶת מִיכָ֖יְהוּ עַל הַלֶּ֑חִי וַיֹּ֕אמֶר
+    אֵי זֶ֨ה עָבַ֧ר רֽוּחַ יְהוָ֛ה מֵאִתִּ֖י לְדַבֵּ֥ר אוֹתָֽךְ
+- tradition: judaism
+  ref: 2Chr 18:23
+  note: A false prophet strikes the true prophet on the cheek ('which way did the spirit of YHWH pass
+    from me to speak to you?')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּגַּשׁ֙ צִדְקִיָּ֣הוּ בֶֽן כְּנַעֲנָ֔ה וַיַּ֥ךְ אֶת מִיכָ֖יְהוּ עַל הַלֶּ֑חִי וַיֹּ֗אמֶר אֵ֣י
+    זֶ֤ה הַדֶּ֨רֶךְ֙ עָבַ֧ר רֽוּחַ יְהוָ֛ה מֵאִתִּ֖י לְדַבֵּ֥ר אֹתָֽךְ
+- tradition: judaism
   ref: 1Kgs 22:8
   note: A single true prophet, hated by the king because he never prophesies good for him
   lang: he
@@ -149,20 +138,30 @@ passages:
   text: וַיֹּ֥אמֶר מֶֽלֶךְ יִשְׂרָאֵ֖ל אֶל יְהוֹשָׁפָ֑ט הֲלֹא֙ אָמַ֣רְתִּי אֵלֶ֔יךָ לֹא יִתְנַבֵּ֥א עָלַ֛י
     ט֖וֹב כִּ֥י אִם לְרָֽע
 - tradition: judaism
-  ref: 1Kgs 22:24
-  note: A false prophet strikes the true prophet on the cheek
+  ref: 1Kgs 22:15-17
+  note: Prophet first sarcastically repeats the favorable oracle, then under oath tells the true one
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּשׁ֙ צִדְקִיָּ֣הוּ בֶֽן כְּנַעֲנָ֔ה וַיַּכֶּ֥ה אֶת מִיכָ֖יְהוּ עַל הַלֶּ֑חִי וַיֹּ֕אמֶר
-    אֵי זֶ֨ה עָבַ֧ר רֽוּחַ יְהוָ֛ה מֵאִתִּ֖י לְדַבֵּ֥ר אוֹתָֽךְ
+  text: (22:15) וַיָּבוֹא֮ אֶל הַמֶּלֶךְ֒ וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֵלָ֗יו מִיכָ֨יְהוּ֙ הֲנֵלֵ֞ךְ אֶל רָמֹ֥ת
+    גִּלְעָ֛ד לַמִּלְחָמָ֖ה אִם נֶחְדָּ֑ל וַיֹּ֤אמֶר אֵלָיו֙ עֲלֵ֣ה וְהַצְלַ֔ח וְנָתַ֥ן יְהוָ֖ה בְּיַ֥ד
+    הַמֶּֽלֶךְ (22:16) וַיֹּ֤אמֶר אֵלָיו֙ הַמֶּ֔לֶךְ עַד כַּמֶּ֥ה פְעָמִ֖ים אֲנִ֣י מַשְׁבִּעֶ֑ךָ אֲ֠שֶׁר
+    לֹֽא תְדַבֵּ֥ר אֵלַ֛י רַק אֱמֶ֖ת בְּשֵׁ֥ם יְהוָֽה (22:17) וַיֹּ֗אמֶר רָאִ֤יתִי אֶת כָּל יִשְׂרָאֵל֙
+    נְפֹצִ֣ים אֶל הֶהָרִ֔ים כַּצֹּ֕אן אֲשֶׁ֥ר אֵין לָהֶ֖ם רֹעֶ֑ה וַיֹּ֤אמֶר יְהוָה֙ לֹֽא אֲדֹנִ֣ים לָאֵ֔לֶּה
+    יָשׁ֥וּבוּ אִישׁ לְבֵית֖וֹ בְּשָׁלֽוֹם
 - tradition: judaism
-  ref: 2Chr 18:23
-  note: A false prophet strikes the true prophet on the cheek ('which way did the spirit of YHWH pass
-    from me to speak to you?')
+  ref: 2Chr 18:14
+  note: Prophet first sarcastically repeats the favorable oracle, then under oath tells the true one
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּשׁ֙ צִדְקִיָּ֣הוּ בֶֽן כְּנַעֲנָ֔ה וַיַּ֥ךְ אֶת מִיכָ֖יְהוּ עַל הַלֶּ֑חִי וַיֹּ֗אמֶר אֵ֣י
-    זֶ֤ה הַדֶּ֨רֶךְ֙ עָבַ֧ר רֽוּחַ יְהוָ֛ה מֵאִתִּ֖י לְדַבֵּ֥ר אֹתָֽךְ
+  text: וַיָּבֹא֮ אֶל הַמֶּלֶךְ֒ וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֵלָ֗יו מִיכָה֙ הֲנֵלֵ֞ךְ אֶל רָמֹ֥ת גִּלְעָ֛ד
+    לַמִּלְחָמָ֖ה אִם אֶחְדָּ֑ל וַיֹּ֨אמֶר֙ עֲל֣וּ וְהַצְלִ֔יחוּ וְיִנָּתְנ֖וּ בְּיֶדְכֶֽם
+- tradition: judaism
+  ref: 2Chr 18:15
+  note: Prophet first sarcastically repeats the favorable oracle, then under oath tells the true one
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֤אמֶר אֵלָיו֙ הַמֶּ֔לֶךְ עַד כַּמֶּ֥ה פְעָמִ֖ים אֲנִ֣י מַשְׁבִּיעֶ֑ךָ אֲ֠שֶׁר לֹֽא תְדַבֵּ֥ר
+    אֵלַ֛י רַק אֱמֶ֖ת בְּשֵׁ֥ם יְהוָֽה
 - tradition: judaism
   ref: 1Kgs 22:17
   note: Prayer that the people not be 'like sheep without a shepherd'
@@ -179,29 +178,31 @@ passages:
     רֹעֶ֑ה וַיֹּ֤אמֶר יְהוָה֙ לֹֽא אֲדֹנִ֣ים לָאֵ֔לֶּה יָשׁ֥וּבוּ אִישׁ לְבֵית֖וֹ בְּשָׁלֽוֹם
 evidence:
 - text: 'Shared motifs, rarest first: A spirit volunteers in the divine council to be a lying spirit in
-    the prophets'' mouths (weight 6.7); Prophet first sarcastically repeats the favorable oracle, then
-    under oath tells the true one (weight 6.7); Court prophet makes iron horns: ''with these you will
-    gore Aram'' (weight 6.7); Four hundred court prophets unanimously promise victory (weight 6.7); A
-    single true prophet, hated by the king because he never prophesies good for him (weight 6.7); A false
-    prophet strikes the true prophet on the cheek (weight 6.7); Prayer that the people not be ''like sheep
-    without a shepherd'' (weight 5.6). Pair score 45.7.'
+    the prophets'' mouths (weight 6.7); Court prophet makes iron horns: ''with these you will gore Aram''
+    (weight 6.7); Four hundred court prophets unanimously promise victory (weight 6.7); A false prophet
+    strikes the true prophet on the cheek (weight 6.7); A single true prophet, hated by the king because
+    he never prophesies good for him (weight 6.7); Prophet first sarcastically repeats the favorable oracle,
+    then under oath tells the true one (weight 6.7); Prayer that the people not be ''like sheep without
+    a shepherd'' (weight 5.6). Pair score 45.7.'
   basis: reading
 - text: 'Only in Micaiah son of Imlah and the lying spirit: God asks the heavenly council ''who will entice
-    the king?''; a spirit volunteers; God uses a false prophet to test whether Israel loves him; Prophet
-    stakes his authority: ''If you return in peace, YHWH has not spoken by me''; Prophet imprisoned on
-    short rations of bread and water until the king returns in peace; Prophet sees God seated on his throne
-    with all the host of heaven standing to his right and left.'
+    the king?''; a spirit volunteers; Prophet imprisoned on short rations of bread and water until the
+    king returns in peace; Prophet stakes his authority: ''If you return in peace, YHWH has not spoken
+    by me''; Where false words in a prophet''s message come from, and what becomes of them [divergence
+    between the texts]; Prophet sees God seated on his throne with all the host of heaven standing to
+    his right and left; Whether the adversary, devils or deceiving spirits have access to God''s council
+    [contrast between the texts]; God uses a false prophet to test whether Israel loves him.'
   basis: reading
-- text: 'Only in Micaiah ben Imlah, the lying spirit in the divine council, and Ahab''s death: The wounded
-    king props himself in his chariot all day and dies at sunset; God enthroned with the host of heaven
-    standing at his right and left deliberates; The enemy commander orders his chariots to fight no one
-    but the king; When the threatened king cries out, God turns the attackers away from him; ''Hear, all
-    you peoples'' (quotation linking the prophet to Micah); A king disguises himself in battle while his
-    ally wears royal robes; One king entices (hesit) another into a disastrous war; Two kings sit in royal
-    robes on thrones at the threshing floor by the city gate; A righteous king allies by marriage with
-    a wicked king''s house; Prophet imprisoned on ''bread of affliction and water of affliction''; The
-    prophet swears to speak only what his God tells him; An arrow shot at random strikes the king between
-    the joints of his armor.'
+- text: 'Only in Micaiah ben Imlah, the lying spirit in the divine council, and Ahab''s death: The enemy
+    commander orders his chariots to fight no one but the king; When the threatened king cries out, God
+    turns the attackers away from him; ''Hear, all you peoples'' (quotation linking the prophet to Micah);
+    One king entices (hesit) another into a disastrous war; Two kings sit in royal robes on thrones at
+    the threshing floor by the city gate; A righteous king allies by marriage with a wicked king''s house;
+    Prophet imprisoned on ''bread of affliction and water of affliction''; The prophet swears to speak
+    only what his God tells him; The wounded king props himself in his chariot all day and dies at sunset;
+    An arrow shot at random strikes the king between the joints of his armor; A king disguises himself
+    in battle while his ally wears royal robes; God enthroned with the host of heaven standing at his
+    right and left deliberates.'
   basis: reading
 - text: 'Micaiah son of Imlah and the lying spirit: tagged by Claude (model), reading the Hebrew.'
   basis: reading

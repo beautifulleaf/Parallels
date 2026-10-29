@@ -1,0 +1,92 @@
+---
+id: motif-hb-jer-23-against-prophets-vs-quran-23-sects-and-the-heedless
+title: Concerning the prophets - who has stood in the council of YHWH? ↔ One community split into sects;
+  the heedless rich and the God-fearing
+summary: 'These two units share 1 motifs: god did not send the prophets who promise peace; they prophesy
+  a lying vision, divination and the deceit of their heart.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- false-prophets-not-sent
+passages:
+- tradition: judaism
+  ref: Jer 23:16
+  note: God did not send the prophets who promise peace; they prophesy a lying vision, divination and
+    the deceit of their heart (a vision of their own heart, not from the mouth of YHWH; 'I did not send
+    them, yet they ran')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כֹּֽה אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אַֽל תִּשְׁמְע֞וּ עַל דִּבְרֵ֤י הַנְּבִאִים֙ הַנִּבְּאִ֣ים לָכֶ֔ם
+    מַהְבִּלִ֥ים הֵ֖מָּה אֶתְכֶ֑ם חֲז֤וֹן לִבָּם֙ יְדַבֵּ֔רוּ לֹ֖א מִפִּ֥י יְהוָֽה
+- tradition: judaism
+  ref: Jer 23:21
+  note: God did not send the prophets who promise peace; they prophesy a lying vision, divination and
+    the deceit of their heart (a vision of their own heart, not from the mouth of YHWH; 'I did not send
+    them, yet they ran')
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹא שָׁלַ֥חְתִּי אֶת הַנְּבִאִ֖ים וְהֵ֣ם רָ֑צוּ לֹא דִבַּ֥רְתִּי אֲלֵיהֶ֖ם וְהֵ֥ם נִבָּֽאוּ
+- tradition: islam
+  ref: Quran 23:71
+  note: 'God did not send the prophets who promise peace; they prophesy a lying vision, divination and
+    the deceit of their heart (law ittabaʿa l-ḥaqqu ahwāʾahum ~ ḥăzôn libbām yədabbērû lōʾ mip-pî YHWH
+    ... wə-khōl hōlēkh bi-šrīrût libbô ʾāmərû lōʾ tāvôʾ ʿălêkem rāʿâ: a message shaped by the hearers''
+    own heart or desire (ahwāʾ / šərîrût lēv).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ بَلْ
+    أَتَيْنَٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    echo. law ittabaʿa l-ḥaqqu ahwāʾahum ~ ḥăzôn libbām yədabbērû lōʾ mip-pî YHWH ... wə-khōl hōlēkh bi-šrīrût
+    libbô ʾāmərû lōʾ tāvôʾ ʿălêkem rāʿâ: a message shaped by the hearers'' own heart or desire (ahwāʾ
+    / šərîrût lēv).'
+  basis: reading
+- text: 'Shared motifs, rarest first: God did not send the prophets who promise peace; they prophesy a
+    lying vision, divination and the deceit of their heart (weight 5.6). Pair score 5.6.'
+  basis: reading
+- text: 'Only in Concerning the prophets - who has stood in the council of YHWH?: The prophet''s heart
+    is broken and all his bones shake; he is like a drunken man because of God''s holy words; The prophets
+    of Jerusalem commit adultery and strengthen evildoers; they have become like Sodom and Gomorrah; Whether
+    a prophet has first-hand knowledge of the heavenly council [contrast between the texts]; Whether a
+    prophet speaks from his own heart or desire, or by revelation [contrast between the texts]; The earth
+    mourns and the heavens above grow dark because of God''s decree; God gives his people poisoned water
+    (mei rosh) to drink and wormwood to eat; ''Have you listened in the council (sod) of God, and limited
+    wisdom to yourself?''; Prophets and priests heal the wound lightly, saying ''Peace, peace'' when there
+    is no peace; Opponents nearly lure the prophet into inventing something else; God makes him firm;
+    The storm of YHWH''s fury goes out and whirls on the head of the wicked; in the latter days you will
+    understand it; God enthroned with the host of heaven standing at his right and left deliberates; The
+    tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the damned
+    fill their bellies and drink boiling water.'
+  basis: reading
+- text: 'Only in One community split into sects; the heedless rich and the God-fearing: Nation pictured
+    as a body beaten from sole of foot to head, with untended wounds and sores; Humanity was one community
+    (umma) but split its affair into sects; Whether a prophet takes payment for his message [contrast
+    between the texts]; Were there gods besides God in heaven and earth, both would have been ruined;
+    False prophets prophesy ''from their own heart'', following their own spirit, having seen nothing;
+    Speaker is troubled by the prosperity and ease of the wicked (theodicy); Refrain listing plagues (famine,
+    drought, blight, locust, pestilence, war, overthrow): ''yet you did not return to me''; God burdens
+    no soul beyond its capacity; Officers call the visiting prophet ''this madman'' (meshugga''); The
+    Prophet asks no wage for the message; God keeps a book in which names are written and from which sinners
+    are blotted.'
+  basis: reading
+- text: 'Concerning the prophets - who has stood in the council of YHWH?: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'One community split into sects; the heedless rich and the God-fearing: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -5,7 +5,6 @@ title: 'Lot''s guests and the destruction of Sodom and Gomorrah ↔ Ha-Mim: the 
 summary: 'These two units share 1 motifs: smoke rises from the destroyed land like smoke of a kiln.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -30,28 +29,36 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    echo. wə-hinnēh ʿālâ qîṭōr hā-ʾāreṣ kə-qîṭōr hak-kiḇšān (the smoke of the land rising like a kiln''s)
+    vs. taʾtī s-samāʾu bi-dukhānin mubīn. Reversed direction: at Sodom the smoke rises from the destroyed
+    earth after the punishment; in Q 44 it comes from the sky as the punishment.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Smoke rises from the destroyed land like smoke of a kiln (weight
     6.7). Pair score 6.7.'
   basis: reading
-- text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: Angels seize the hesitating
-    family by the hand and lead them out; Two angels are received as guests by Lot in Sodom; Attackers
-    struck with blindness and cannot find the door; Cities overturned (hafakh) and the plain destroyed;
-    Command not to look back while fleeing a doomed place; Hero''s family saved with him; God rains sulfur
-    and fire from heaven on cities; Host runs to welcome strangers, washes their feet and feeds them;
-    Host offers his virgin daughters to the mob to protect his guests; Townsmen surround the house and
-    demand the male guest for sexual abuse; An outcry (tse''aqah) from the wicked city reaches God; A
-    small town is spared at the refugee''s request (Zoar, ''small''); The righteous man''s warning is
-    taken as a joke by his own relatives; The men of Sodom are exceedingly wicked; Wife who looks back
-    is turned into a pillar of salt.'
+- text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
+    refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
+    out; Two angels are received as guests by Lot in Sodom [divergence between the texts]; The angels
+    tell Lot who sent them and what they will do [divergence between the texts]; The angelic guests reveal
+    they are sent against a criminal people [divergence between the texts]; Cities overturned (hafakh)
+    and the plain destroyed [divergence between the texts]; Deniers pray: ''If this is the truth from
+    you, rain stones on us from the sky''; God rains destruction on Lot''s town [divergence between the
+    texts]; Command not to look back while fleeing a doomed place [divergence between the texts]; The
+    fate of Lot''s wife [divergence between the texts]; God rains sulfur and fire from heaven on cities
+    [divergence between the texts]; Host offers his virgin daughters to the mob to protect his guests
+    [divergence between the texts]; and 41 more.'
   basis: reading
-- text: 'Only in Ha-Mim: the blessed night and the day of the smoke: A surah opens with isolated letters
-    (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim; ''There is none like you and no God
-    beside you''; Oath ''By the clear Book!'' opening a surah; The king breaks his promise to release
-    the people once a plague is lifted; Opponents call the prophet ''one taught (by others), a madman''
-    (mu''allam majnun); God lifts the punishment a little, but they revert; then comes ''the greatest
-    assault'' (al-batsha al-kubra); The Book was sent down on a blessed night in which every wise matter
-    is decreed/distinguished (cf. the Night of Decree); A day when the sky brings a visible smoke (dukhan)
-    covering the people as a painful punishment.'
+- text: 'Only in Ha-Mim: the blessed night and the day of the smoke: Opponents call the prophet ''one
+    taught (by others), a madman'' (mu''allam majnun); God lifts the punishment a little, but they revert;
+    then comes ''the greatest assault'' (al-batsha al-kubra); The Book was sent down on a blessed night
+    in which every wise matter is decreed/distinguished (cf. the Night of Decree); Oath ''By the clear
+    Book!'' opening a surah; A day when the sky brings a visible smoke (dukhan) covering the people as
+    a painful punishment; God kills and makes alive, brings down to Sheol and raises up; ''There is none
+    like you and no God beside you''; The king breaks his promise to release the people once a plague
+    is lifted; God identifies himself as God of Abraham, Isaac and Jacob; Officers call the visiting prophet
+    ''this madman'' (meshugga''); A surah opens with isolated letters (huruf muqatta''at) of unexplained
+    meaning, e.g. alif-lam-mim.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

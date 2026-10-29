@@ -1,0 +1,82 @@
+---
+id: motif-hb-ps-2-anointed-son-vs-quran-112-114-unity-and-refuge
+title: 'Psalm 2 - the nations rage; the king as God''s son ↔ Sincerity, daybreak and mankind: God''s unity
+  and the two refuges'
+summary: 'These two units share 1 motifs: god does not beget and was not begotten [contrast between the
+  texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- god-neither-begets-nor-begotten-as-contrast
+passages:
+- tradition: judaism
+  ref: Ps 2:7
+  note: 'God does not beget and was not begotten [contrast between the texts] (lam yalid wa-lam yūlad
+    ~ beni ʾattāh ʾănî ha-yyôm yelidtîkā: the same root (w-l-d / y-l-d) affirmed of God toward the king
+    in the Psalm, denied of God absolutely in the Quran. The Quran''s target is usually read as Christian
+    sonship (Nicene ''begotten''); the link to Ps 2:7 is a lead, not an explicit answer.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+- tradition: islam
+  ref: Quran 112:3
+  note: 'God does not beget and was not begotten [contrast between the texts] (lam yalid wa-lam yūlad
+    ~ beni ʾattāh ʾănî ha-yyôm yelidtîkā: the same root (w-l-d / y-l-d) affirmed of God toward the king
+    in the Psalm, denied of God absolutely in the Quran. The Quran''s target is usually read as Christian
+    sonship (Nicene ''begotten''); the link to Ps 2:7 is a lead, not an explicit answer.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَمْ يَلِدْ وَلَمْ يُولَدْ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    contrast. lam yalid wa-lam yūlad ~ beni ʾattāh ʾănî ha-yyôm yelidtîkā: the same root (w-l-d / y-l-d)
+    affirmed of God toward the king in the Psalm, denied of God absolutely in the Quran. The Quran''s
+    target is usually read as Christian sonship (Nicene ''begotten''); the link to Ps 2:7 is a lead, not
+    an explicit answer.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God does not beget and was not begotten [contrast between the texts]
+    (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Psalm 2 - the nations rage; the king as God''s son: God gives the king the nations as
+    inheritance and the ends of the earth as possession; God tells the king ''You are my son; today I
+    have begotten you''; God installs his king on Zion, his holy mountain; Rulers told to serve God with
+    trembling and ''kiss the son'' (nashqu bar); Happy are all who take refuge (hosim) in God; The king
+    will break the nations with a rod of iron and shatter them like a potter''s vessel; Whether God has
+    a son, or calls his anointed king his begotten son [response between the texts]; Whether God has or
+    begets a son [contrast between the texts]; Nations and kings of the earth conspire against YHWH and
+    his anointed (mashiah); They say ''al-Rahman has taken a son''; it is not fitting for the Merciful
+    [response between the texts]; Whether God has, begets or takes sons or other offspring [contrast between
+    the texts]; God in heaven laughs at and mocks those who plot against him or the righteous; and 1 more.'
+  basis: reading
+- text: 'Only in Sincerity, daybreak and mankind: God''s unity and the two refuges: Refuge from the evil
+    of darkness (or the moon) when it settles (ghasiq idha waqab); Refuge from the evil of an envier when
+    he envies (evil eye); God is al-Samad (the Eternal Refuge, the solid one who needs nothing); Triple
+    title: Lord of mankind, King of mankind, God of mankind; Refuge from the evil of the slinking whisperer
+    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; God does not beget
+    and was not begotten; Protection from the terror of the night, the arrow by day, the pestilence (dever)
+    stalking in darkness and Qeteb that ravages at noon; Protective formula ''Say: I seek refuge with
+    the Lord of...'' (qul a''udhu bi-rabbi) against named evils; Refuge from the evil of those (women)
+    who blow on knots (al-naffathat fi al-''uqad), i.e. knot-tying sorcery; Psalm used as protection against
+    demons and harm (later amulet and ''song of plagues''); Cluster of divine epithets in sequence (e.g.
+    the Forgiving, the Loving, Lord of the Throne, the Glorious, doer of what he wills; or Lord, King,
+    God of mankind); ''To whom will you liken God, what likeness compare to him?''; and 2 more.'
+  basis: reading
+- text: 'Psalm 2 - the nations rage; the king as God''s son: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Sincerity, daybreak and mankind: God''s unity and the two refuges: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

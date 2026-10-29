@@ -2,12 +2,11 @@
 id: motif-hb-exod-12-passover-firstborn-exodus-vs-quran-44-dukhan-pharaoh-drowned
 title: Passover law, matzot, the night of the firstborn, departure from Egypt ↔ Moses asks Pharaoh to
   hand over God's servants; the sea left parted; heaven did not weep
-summary: 'These two units share 1 motifs: sacrificial meal eaten in haste, loins girded, sandals on, staff
-  in hand.'
+summary: 'These two units share 2 motifs: how israel leaves egypt by night: expelled, or secretly [divergence
+  between the texts], sacrificial meal eaten in haste, loins girded, sandals on, staff in hand.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,8 +14,40 @@ traditions:
 layers:
 - motif
 motifs:
+- night-departure-from-egypt-as-divergence
 - eaten-in-haste-dressed-for-journey
 passages:
+- tradition: judaism
+  ref: Exod 12:31
+  note: 'How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts] (A night
+    departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them: qûmû ṣəʾû mit-tôḵ
+    ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr lə-šalləḥām). Quran:
+    God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey with pursuit foretold,
+    no expulsion and no request for a blessing.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקְרָא֩ לְמֹשֶׁ֨ה וּֽלְאַהֲרֹ֜ן לַ֗יְלָה וַיֹּ֨אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִתּ֣וֹךְ עַמִּ֔י גַּם
+    אַתֶּ֖ם גַּם בְּנֵ֣י יִשְׂרָאֵ֑ל וּלְכ֛וּ עִבְד֥וּ אֶת יְהוָ֖ה כְּדַבֶּרְכֶֽם
+- tradition: judaism
+  ref: Exod 12:32
+  note: 'How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts] (A night
+    departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them: qûmû ṣəʾû mit-tôḵ
+    ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr lə-šalləḥām). Quran:
+    God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey with pursuit foretold,
+    no expulsion and no request for a blessing.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: גַּם צֹאנְכֶ֨ם גַּם בְּקַרְכֶ֥ם קְח֛וּ כַּאֲשֶׁ֥ר דִּבַּרְתֶּ֖ם וָלֵ֑כוּ וּבֵֽרַכְתֶּ֖ם גַּם אֹתִֽי
+- tradition: islam
+  ref: Quran 44:23
+  note: 'How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts] (A night
+    departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them: qûmû ṣəʾû mit-tôḵ
+    ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr lə-šalləḥām). Quran:
+    God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey with pursuit foretold,
+    no expulsion and no request for a blessing.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
 - tradition: judaism
   ref: Exod 12:11
   note: Sacrificial meal eaten in haste, loins girded, sandals on, staff in hand (loins girded, sandals
@@ -33,37 +64,38 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
 evidence:
-- text: 'Shared motifs, rarest first: Sacrificial meal eaten in haste, loins girded, sandals on, staff
-    in hand (weight 6.7). Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    divergence. A night departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them:
+    qûmû ṣəʾû mit-tôḵ ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr
+    lə-šalləḥām). Quran: God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey
+    with pursuit foretold, no expulsion and no request for a blessing.'
+  basis: reading
+- text: 'Shared motifs, rarest first: How Israel leaves Egypt by night: expelled, or secretly [divergence
+    between the texts] (weight 6.7); Sacrificial meal eaten in haste, loins girded, sandals on, staff
+    in hand (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: Sacrificial blood
-    daubed on the doorposts and lintel protects the household; A child asks the meaning of a rite and
-    the parent recites the exodus story; God kills every firstborn of the land, from the king''s heir
-    to the lowest servant and cattle; The departing slaves ask their neighbors for silver, gold and clothing
-    and so plunder their oppressors; The destroyer (mashhit) passes over houses marked with blood; No
-    one may leave the house until morning on the night of the destroyer; The people carry their unleavened
-    dough in kneading-troughs on their shoulders; Israel''s stay in Egypt lasts 430 years to the very
-    day; Festival days are holy convocations on which no work is done except preparing food; Small households
-    join neighbors to share one sacrificial lamb; God executes judgments on the gods of Egypt; Defeated
-    king asks the departing prophet to bless him too; Leaven must be removed from houses; whoever eats
-    it is cut off; Sacred meat left over until morning is burned; A mixed multitude (erev rav) of non-Israelites
-    leaves Egypt with Israel; The spring exodus month becomes the first month of the year; The exodus
-    night is a ''night of watching'' for God and for Israel through the generations; No bone of the paschal
-    sacrifice may be broken; No uncircumcised foreigner may eat the Passover; circumcised slaves and converts
-    may; Same law for the resident alien and the native; An unblemished yearling lamb selected on the
-    tenth and slaughtered at twilight on the fourteenth; Descendants foretold to be enslaved in a foreign
-    land 400 years and leave with great wealth; Sacrificial lamb roasted whole, head, legs and innards,
-    eaten with unleavened bread and bitter herbs; Unleavened bread eaten for seven days; About 600,000
-    men on foot leave Egypt, besides children.'
+    daubed on the doorposts and lintel protects the household; No one may leave the house until morning
+    on the night of the destroyer; The people carry their unleavened dough in kneading-troughs on their
+    shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival days are holy convocations
+    on which no work is done except preparing food; Small households join neighbors to share one sacrificial
+    lamb; Defeated king asks the departing prophet to bless him too; Leaven must be removed from houses;
+    whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites leaves Egypt with Israel;
+    The spring exodus month becomes the first month of the year; No bone of the paschal sacrifice may
+    be broken; No uncircumcised foreigner may eat the Passover; circumcised slaves and converts may; and
+    17 more.'
   basis: reading
 - text: 'Only in Moses asks Pharaoh to hand over God''s servants; the sea left parted; heaven did not
     weep: The drowned Egyptians left gardens, springs, crops and noble dwellings, which God gave another
-    people to inherit; Neither heaven nor earth wept over the destroyed people; God chose the Children
-    of Israel, knowingly, above the worlds and tested them with signs; Prophet delivers God''s demand
-    ''Let my people go that they may serve me''; The prophet seeks refuge in God from being stoned by
-    his people; The returning waters drown the pursuing army; not one survives; Moses is told to leave
-    the sea parted and still (rahwan), for Pharaoh''s host will be drowned; The people walk on dry ground
-    through the sea with the waters as a wall on either side.'
+    people to inherit; Neither heaven nor earth wept over the destroyed people; Moses is told to leave
+    the sea parted and still (rahwan), for Pharaoh''s host will be drowned; What Moses demands of Pharaoh
+    in God''s name [divergence between the texts]; Who, if anyone, inherits Egypt''s land after the exodus
+    [divergence between the texts]; Why God chose Israel: love, or knowledge and testing [divergence between
+    the texts]; God chose the Children of Israel, knowingly, above the worlds and tested them with signs;
+    What Moses does with the sea after the crossing [divergence between the texts]; The prophet seeks
+    refuge in God from being stoned by his people; Whether heaven and earth mourn a destroyed people [contrast
+    between the texts]; Prophet delivers God''s demand ''Let my people go that they may serve me''; The
+    people walk on dry ground through the sea with the waters as a wall on either side; and 1 more.'
   basis: reading
 - text: 'Passover law, matzot, the night of the firstborn, departure from Egypt: tagged by Claude (model),
     reading the Hebrew.'

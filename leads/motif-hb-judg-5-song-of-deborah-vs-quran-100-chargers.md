@@ -4,7 +4,6 @@ title: The Song of Deborah ↔ The chargers
 summary: 'These two units share 1 motifs: the hoofbeats of galloping horses depicted in poetry.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -34,28 +33,29 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَٱلْمُورِيَٰتِ قَدْحًا
 evidence:
-- text: 'Shared motifs, rarest first: The hoofbeats of galloping horses depicted in poetry (weight 6.7).
-    Pair score 6.7.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    echo. fa-l-mūriyāti qadḥan (striking sparks) ~ ʾāz hālemû ʿiqqevê sûs mi-ddahărôt dahărôt ʾabbîrāyw:
+    the hooves of galloping steeds.'
+  basis: reading
+- text: 'Shared motifs, rarest first: The hoofbeats of galloping horses depicted in poetry (weight 6.3).
+    Pair score 6.3.'
   basis: reading
 - text: 'Only in The Song of Deborah: A woman is called ''most blessed of women''; An angel curses a town
     that did not come to YHWH''s help; The enemy''s mother waits at the window for her son who will not
-    return; God shines forth from Sinai, Seir and Mount Paran with holy myriads; After a deliverance the
-    land has rest for forty (or eighty) years; Those who love God are like the sun rising in its strength;
-    Asked for water, the woman gives milk; A woman leader is called ''a mother in Israel''; Not a shield
-    or spear to be seen among forty thousand in Israel; Nobles described as riders on white (tawny) she-donkeys;
-    A torrent sweeps away the enemy army; Under oppression the highways are deserted and travelers use
-    byways; A poem lists the tribes, praising those who fought and shaming those who stayed home; The
-    stars fight from their courses against the enemy; At God''s coming the earth quakes, heavens drip
-    and mountains flow; A woman leader sings the victory song; A woman looks out through the window lattice;
-    A woman kills the enemy commander with her own hand.'
+    return; Those who love God are like the sun rising in its strength; A woman leader is called ''a mother
+    in Israel''; Not a shield or spear to be seen among forty thousand in Israel; Nobles described as
+    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; Under oppression the highways
+    are deserted and travelers use byways; A woman leader sings the victory song; If you help God he will
+    help you and make your feet firm; The laggard thanks God he was absent when disaster struck, and wishes
+    he had shared the spoil; and 10 more.'
   basis: reading
-- text: 'Only in The chargers: A series of oaths by natural phenomena (dawn, night, day, sun, moon, sky,
-    earth, stars, winds) opens or punctuates a passage; God knows the secrets of the heart (ta''alumot
-    lev); At the end the graves are overturned and their contents scattered out (bu''thirat); Man will
-    be evidence against himself, even if he offers his excuses; Woe to every slanderer and backbiter (humaza
-    lumaza) who amasses and counts wealth, thinking it makes him immortal; Oath by charging war-horses
-    that pant, strike sparks with their hooves, raid at dawn, raise dust and storm into the midst of a
-    host.'
+- text: 'Only in The chargers: Oath by charging war-horses that pant, strike sparks with their hooves,
+    raid at dawn, raise dust and storm into the midst of a host; Man will be evidence against himself,
+    even if he offers his excuses; The warhorse with thundering mane paws the valley, laughs at fear and
+    says ''Aha!'' at the trumpet; At the end the graves are overturned and their contents scattered out
+    (bu''thirat); God knows the secrets of the heart (ta''alumot lev); Woe to every slanderer and backbiter
+    (humaza lumaza) who amasses and counts wealth, thinking it makes him immortal; A series of oaths by
+    natural phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates a passage.'
   basis: reading
 - text: 'The Song of Deborah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

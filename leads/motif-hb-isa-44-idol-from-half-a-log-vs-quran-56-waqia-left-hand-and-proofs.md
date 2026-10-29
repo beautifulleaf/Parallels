@@ -1,0 +1,154 @@
+---
+id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-56-waqia-left-hand-and-proofs
+title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ The Companions of
+  the Left in smoke and samum; who creates semen, crops, rain and fire?; the hidden Book; the soul at
+  the throat
+summary: 'These two units share 2 motifs: fire kindled from a tree that god made grow [divergence between
+  the texts], god made fire for you from the green tree, from which you kindle.'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- fire-kindled-from-a-tree-as-divergence
+- fire-from-green-tree
+passages:
+- tradition: judaism
+  ref: Isa 44:14
+  note: 'Fire kindled from a tree that God made grow [divergence between the texts] (Fire kindled from
+    a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄
+    bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô).
+    Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu
+    jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the
+    Quran makes the fire a reminder of the Creator.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לִכְרָת ל֣וֹ אֲרָזִ֔ים וַיִּקַּ֤ח תִּרְזָה֙ וְאַלּ֔וֹן וַיְאַמֶּץ ל֖וֹ בַּעֲצֵי יָ֑עַר נָטַ֥ע
+    אֹ֖רֶן וְגֶ֥שֶׁם יְגַדֵּֽל
+- tradition: judaism
+  ref: Isa 44:15
+  note: 'Fire kindled from a tree that God made grow [divergence between the texts] (Fire kindled from
+    a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄
+    bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô).
+    Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu
+    jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the
+    Quran makes the fire a reminder of the Creator.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
+    אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
+- tradition: islam
+  ref: Quran 56:71
+  note: 'Fire kindled from a tree that God made grow [divergence between the texts] (Fire kindled from
+    a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄
+    bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô).
+    Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu
+    jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the
+    Quran makes the fire a reminder of the Creator.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ
+- tradition: islam
+  ref: Quran 56:72
+  note: 'Fire kindled from a tree that God made grow [divergence between the texts] (Fire kindled from
+    a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄
+    bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô).
+    Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu
+    jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the
+    Quran makes the fire a reminder of the Creator.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ
+- tradition: judaism
+  ref: Isa 44:15
+  note: 'God made fire for you from the green tree, from which you kindle (Wood as fuel set against false
+    gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned
+    for fire, the rest made a god). Q: alladhī jaʿala lakum mina sh-shajari l-akhḍari nāran fa-idhā antum
+    minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan (36:74). Isaiah mocks the idol made from
+    the firewood; the Quran makes the fire from wood a gift of the true God.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
+    אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
+- tradition: judaism
+  ref: Isa 44:16
+  note: 'God made fire for you from the green tree, from which you kindle (Wood as fuel set against false
+    gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned
+    for fire, the rest made a god). Q: alladhī jaʿala lakum mina sh-shajari l-akhḍari nāran fa-idhā antum
+    minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan (36:74). Isaiah mocks the idol made from
+    the firewood; the Quran makes the fire from wood a gift of the true God.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: חֶצְיוֹ֙ שָׂרַ֣ף בְּמוֹ אֵ֔שׁ עַל חֶצְיוֹ֙ בָּשָׂ֣ר יֹאכֵ֔ל יִצְלֶ֥ה צָלִ֖י וְיִשְׂבָּ֑ע אַף יָחֹם֙
+    וְיֹאמַ֣ר הֶאָ֔ח חַמּוֹתִ֖י רָאִ֥יתִי אֽוּר
+- tradition: islam
+  ref: Quran 56:71
+  note: God made fire for you from the green tree, from which you kindle
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ
+- tradition: islam
+  ref: Quran 56:72
+  note: God made fire for you from the green tree, from which you kindle
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    divergence. Fire kindled from a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ
+    lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄ bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god
+    and bows to it (wa-yyisgōḏ lāmô). Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā
+    am naḥnu l-munshiʾūn, naḥnu jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who
+    also worships the wood, the Quran makes the fire a reminder of the Creator.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Fire kindled from a tree that God made grow [divergence between
+    the texts] (weight 6.7); God made fire for you from the green tree, from which you kindle (weight
+    6.0). Pair score 12.7.'
+  basis: reading
+- text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
+    Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the
+    temple ''its foundation laid''; The idol-worshipper ''feeds on ashes''; a deluded heart leads him
+    astray and he cannot say ''Is there not a lie in my right hand?''; God says to the deep (tsulah) ''Be
+    dry, I will dry up your rivers''; God frustrates the omens of the babblers, makes fools of diviners
+    and turns the wise backward; Sing, heavens; shout, depths of the earth (tahtiyyot arets); break into
+    song, mountains and every tree of the forest; The idol-maker burns half the tree to cook his meat
+    and warm himself, and of the rest makes a god and prays ''Save me''; The carpenter marks out the idol
+    with line and compass and makes it in the form of a man, in human beauty, to dwell in a house; The
+    smith who forges the idol grows hungry and faint and drinks no water; Israel called ''Jeshurun'' (the
+    upright one); One says ''I am YHWH''s'', another takes Jacob''s name, another writes ''of YHWH'' on
+    his hand (a tattoo or brand of allegiance); God has blotted out transgressions like a cloud and sins
+    like mist; God pours water on the thirsty land and his spirit on Israel''s offspring; they spring
+    up like willows by streams; and 14 more.'
+  basis: reading
+- text: 'Only in The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?;
+    the hidden Book; the soul at the throat: The damned eat of Zaqqum to fill their bellies and drink
+    boiling water like thirst-crazed camels (al-him); A noble Quran in a hidden Book which none touch
+    but the purified; The ''hospitality'' (nuzul) of the deniers is boiling water and roasting in hell;
+    The damned had lived in luxury and persisted in the great sin (al-hinth al-''azim); ''I swear by the
+    positions (setting-places) of the stars, a mighty oath if you knew''; Have you seen the water you
+    drink? Did you send it down from the rain-clouds? We could make it bitter (ujaj); For those brought
+    near: rest (rawh), fragrance (rayhan) and a garden of bliss; The Companions of the Left are in scorching
+    wind (samum), boiling water and the shade of black smoke (yahmum), neither cool nor kind; ''This is
+    the certain truth'' (haqq al-yaqin); Have you seen what you sow? Do you make it grow, or are we the
+    grower? We could make it chaff; The scripture exists with God in the ''Mother of the Book'' (umm al-kitab),
+    a heavenly archetype; When the soul reaches the throat at death and you look on, God is nearer than
+    you; if you are not to be judged, bring it back!; and 7 more.'
+  basis: reading
+- text: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: tagged by Claude
+    (model), reading the Hebrew.'
+  basis: reading
+- text: 'The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

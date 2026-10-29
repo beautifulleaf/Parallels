@@ -4,8 +4,8 @@ title: 'The siege and destruction of Jerusalem; Gedaliah; Jehoiachin released �
   burning of the temple, bronze spoils, deportation numbers, Jehoiachin''s release'
 summary: 'These two units share 6 motifs: the chief priest, second priest and officials are executed by
   the conqueror at riblah, the released captive king is given a throne above the other kings in babylon,
-  famine becomes severe in the besieged city; there is no bread, besieged king flees by night through
-  a gate between the walls and is overtaken….'
+  famine becomes severe in the besieged city; there is no bread, the captive king''s sons are slaughtered
+  before his eyes, then his eyes are put out….'
 status: new
 relations:
 - internal
@@ -18,8 +18,8 @@ motifs:
 - leading-priests-executed-at-riblah
 - seat-above-other-kings
 - famine-in-besieged-city
-- king-flees-through-breach-by-night
 - sons-slain-before-fathers-eyes-then-blinded
+- king-flees-through-breach-by-night
 - babylonian-king-named
 passages:
 - tradition: judaism
@@ -80,6 +80,21 @@ passages:
   text: בַּחֹ֤דֶשׁ הָֽרְבִיעִי֙ בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא הָיָ֥ה לֶ֖חֶם
     לְעַ֥ם הָאָֽרֶץ
 - tradition: judaism
+  ref: 2Kgs 25:7
+  note: The captive king's sons are slaughtered before his eyes, then his eyes are put out
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאֶת בְּנֵי֙ צִדְקִיָּ֔הוּ שָׁחֲט֖וּ לְעֵינָ֑יו וְאֶת עֵינֵ֤י צִדְקִיָּ֨הוּ֙ עִוֵּ֔ר וַיַּאַסְרֵ֨הוּ֙
+    בַֽנְחֻשְׁתַּ֔יִם וַיְבִאֵ֖הוּ בָּבֶֽל
+- tradition: judaism
+  ref: Jer 52:10-11
+  note: The captive king's sons are slaughtered before his eyes, then his eyes are put out
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (52:10) וַיִּשְׁחַ֧ט מֶֽלֶךְ בָּבֶ֛ל אֶת בְּנֵ֥י צִדְקִיָּ֖הוּ לְעֵינָ֑יו וְגַ֛ם אֶת כָּל שָׂרֵ֥י
+    יְהוּדָ֖ה שָׁחַ֥ט בְּרִבְלָֽתָה (52:11) וְאֶת עֵינֵ֥י צִדְקִיָּ֖הוּ עִוֵּ֑ר וַיַּאַסְרֵ֣הוּ בַֽנְחֻשְׁתַּ֗יִם
+    וַיְבִאֵ֤הוּ מֶֽלֶךְ בָּבֶל֙ בָּבֶ֔לָה וַיִּתְּנֵ֥הוּ בבית בֵֽית הַפְּקֻדֹּ֖ת עַד י֥וֹם מוֹתֽוֹ
+- tradition: judaism
   ref: 2Kgs 25:4
   note: Besieged king flees by night through a gate between the walls and is overtaken (gate between the
     two walls by the king's garden; caught in the plains of Jericho)
@@ -104,21 +119,6 @@ passages:
     שַׁ֤עַר בֵּין הַחֹמֹתַ֨יִם֙ אֲשֶׁר֙ עַל גַּ֣ן הַמֶּ֔לֶךְ וְכַשְׂדִּ֥ים עַל הָעִ֖יר סָבִ֑יב וַיֵּלְכ֖וּ
     דֶּ֥רֶךְ הָעֲרָבָֽה
 - tradition: judaism
-  ref: 2Kgs 25:7
-  note: The captive king's sons are slaughtered before his eyes, then his eyes are put out
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת בְּנֵי֙ צִדְקִיָּ֔הוּ שָׁחֲט֖וּ לְעֵינָ֑יו וְאֶת עֵינֵ֤י צִדְקִיָּ֨הוּ֙ עִוֵּ֔ר וַיַּאַסְרֵ֨הוּ֙
-    בַֽנְחֻשְׁתַּ֔יִם וַיְבִאֵ֖הוּ בָּבֶֽל
-- tradition: judaism
-  ref: Jer 52:10-11
-  note: The captive king's sons are slaughtered before his eyes, then his eyes are put out
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (52:10) וַיִּשְׁחַ֧ט מֶֽלֶךְ בָּבֶ֛ל אֶת בְּנֵ֥י צִדְקִיָּ֖הוּ לְעֵינָ֑יו וְגַ֛ם אֶת כָּל שָׂרֵ֥י
-    יְהוּדָ֖ה שָׁחַ֥ט בְּרִבְלָֽתָה (52:11) וְאֶת עֵינֵ֥י צִדְקִיָּ֖הוּ עִוֵּ֑ר וַיַּאַסְרֵ֣הוּ בַֽנְחֻשְׁתַּ֗יִם
-    וַיְבִאֵ֤הוּ מֶֽלֶךְ בָּבֶל֙ בָּבֶ֔לָה וַיִּתְּנֵ֥הוּ בבית בֵֽית הַפְּקֻדֹּ֖ת עַד י֥וֹם מוֹתֽוֹ
-- tradition: judaism
   ref: 2Kgs 25:27
   note: A Babylonian king named in the narrative (Merodach-baladan, Nebuchadnezzar, Evil-merodach)
   lang: he
@@ -138,32 +138,31 @@ evidence:
 - text: 'Shared motifs, rarest first: The chief priest, second priest and officials are executed by the
     conqueror at Riblah (weight 6.7); The released captive king is given a throne above the other kings
     in Babylon (weight 6.7); Famine becomes severe in the besieged city; there is no bread (weight 6.7);
-    Besieged king flees by night through a gate between the walls and is overtaken (weight 6.3); The captive
-    king''s sons are slaughtered before his eyes, then his eyes are put out (weight 6.3); A Babylonian
+    The captive king''s sons are slaughtered before his eyes, then his eyes are put out (weight 6.3);
+    Besieged king flees by night through a gate between the walls and is overtaken (weight 6.3); A Babylonian
     king named in the narrative (Merodach-baladan, Nebuchadnezzar, Evil-merodach) (weight 5.8). Pair score
     38.4.'
   basis: reading
-- text: 'Only in The siege and destruction of Jerusalem; Gedaliah; Jehoiachin released: Captive''s eyes
-    are gouged out by his captors; Exiled king''s head is ''lifted up'' from prison; he changes his prison
-    garments and eats at the conqueror''s table; Temple pillars eighteen cubits high with bronze capitals,
-    network and pomegranates; Only the poorest of the land are left behind as vinedressers and farmers;
-    A governor appointed by the conqueror is assassinated by a member of the royal seed; The remnant flees
-    to Egypt for fear of the conquerors (reverse exodus); Siege of Jerusalem begun on the tenth day of
-    the tenth month (later a fast day); The temple, palace and great houses are burned by the conqueror''s
-    chief of guards (rav tabbahim); The bronze pillars, stands and sea are broken up and their bronze
-    carried away.'
+- text: 'Only in The siege and destruction of Jerusalem; Gedaliah; Jehoiachin released: Exiled king''s
+    head is ''lifted up'' from prison; he changes his prison garments and eats at the conqueror''s table;
+    Temple pillars eighteen cubits high with bronze capitals, network and pomegranates; Only the poorest
+    of the land are left behind as vinedressers and farmers; The temple, palace and great houses are burned
+    by the conqueror''s chief of guards (rav tabbahim); The bronze pillars, stands and sea are broken
+    up and their bronze carried away; A governor appointed by the conqueror is assassinated by a member
+    of the royal seed; The remnant flees to Egypt for fear of the conquerors (reverse exodus); Siege of
+    Jerusalem begun on the tenth day of the tenth month (later a fast day); Captive''s eyes are gouged
+    out by his captors.'
   basis: reading
 - text: 'Only in Historical appendix: siege, burning of the temple, bronze spoils, deportation numbers,
-    Jehoiachin''s release: A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing the four
-    directions in threes; Precise numbers of deportees for each year of exile; A captive king is released
-    after decades, changes his prison clothes and eats at the foreign king''s table; Jerusalem is breached,
-    captured and burned by the Babylonians; Two named bronze pillars, Jachin and Boaz, before the temple;
-    The fleeing king is overtaken in the plains of Jericho; A king ''lifts the head'' of a prisoner, releasing
-    and honoring him; The conqueror leaves the poorest people in the land as vinedressers and farmers;
-    The king''s mother is named in his regnal formula; Seven princes or counselors who ''see the king''s
-    face'' advise the king; The besiegers build a siege wall (dayeq) around the city; The temple of Jerusalem
-    is burned and the city walls broken down; The temple treasures and gold vessels of Solomon are carried
-    off to Babylon.'
+    Jehoiachin''s release: Precise numbers of deportees for each year of exile; A captive king is released
+    after decades, changes his prison clothes and eats at the foreign king''s table; A king ''lifts the
+    head'' of a prisoner, releasing and honoring him; The besiegers build a siege wall (dayeq) around
+    the city; Jerusalem is breached, captured and burned by the Babylonians; The fleeing king is overtaken
+    in the plains of Jericho; The conqueror leaves the poorest people in the land as vinedressers and
+    farmers; The king''s mother is named in his regnal formula; The temple of Jerusalem is burned and
+    the city walls broken down; Seven princes or counselors who ''see the king''s face'' advise the king;
+    A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing the four directions in threes;
+    Two named bronze pillars, Jachin and Boaz, before the temple; and 1 more.'
   basis: reading
 - text: 'The siege and destruction of Jerusalem; Gedaliah; Jehoiachin released: tagged by Claude (model),
     reading the Hebrew.'

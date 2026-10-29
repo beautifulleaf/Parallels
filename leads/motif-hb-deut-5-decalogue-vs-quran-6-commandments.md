@@ -1,12 +1,14 @@
 ---
 id: motif-hb-deut-5-decalogue-vs-quran-6-commandments
 title: The Decalogue restated and the people's fear at Horeb ↔ The recited commandments (the Quranic decalogue)
-summary: 'These two units share 3 motifs: the ten commandments (decalogue), honor father and mother, with
-  the promise of long life, prohibitions of murder, adultery, theft and false witness.'
+summary: 'These two units share 6 motifs: honor father and mother, with the promise of long life [divergence
+  between the texts], keep the law, turning neither to the right nor to the left, prohibitions of murder,
+  adultery, theft and false witness [divergence between the texts], the ten commandments (decalogue)….'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -14,10 +16,108 @@ traditions:
 layers:
 - motif
 motifs:
+- honor-parents-long-life-as-divergence
+- turn-neither-right-nor-left
+- prohibition-murder-adultery-theft-false-witness-as-divergence
 - ten-commandments
 - honor-parents-long-life
 - prohibition-murder-adultery-theft-false-witness
 passages:
+- tradition: judaism
+  ref: Deut 5:16
+  note: 'Honor father and mother, with the promise of long life [divergence between the texts] (Deut:
+    kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh ʿal-hā-ʾădāmāh.
+    Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of long life in the
+    land is dropped.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+- tradition: islam
+  ref: Quran 6:151
+  note: 'Honor father and mother, with the promise of long life [divergence between the texts] (Deut:
+    kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh ʿal-hā-ʾădāmāh.
+    Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of long life in the
+    land is dropped.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
+    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
+    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
+    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+- tradition: judaism
+  ref: Deut 5:32
+  note: 'Keep the law, turning neither to the right nor to the left (Deut, right after the Decalogue:
+    lōʾ tāsurû yāmîn û-śəmōʾl bə-khol-ha-dderekh ... tēlēkhû. Q, right after its list: wa-anna hādhā ṣirāṭī
+    mustaqīman fa-ttabiʿūhu wa-lā tattabiʿū l-subula fa-tafarraqa bikum. The single road versus side paths,
+    placed at the same point.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וּשְׁמַרְתֶּ֣ם לַעֲשׂ֔וֹת כַּאֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵיכֶ֖ם אֶתְכֶ֑ם לֹ֥א תָסֻ֖רוּ יָמִ֥ין
+    וּשְׂמֹֽאל
+- tradition: judaism
+  ref: Deut 5:33
+  note: 'Keep the law, turning neither to the right nor to the left (Deut, right after the Decalogue:
+    lōʾ tāsurû yāmîn û-śəmōʾl bə-khol-ha-dderekh ... tēlēkhû. Q, right after its list: wa-anna hādhā ṣirāṭī
+    mustaqīman fa-ttabiʿūhu wa-lā tattabiʿū l-subula fa-tafarraqa bikum. The single road versus side paths,
+    placed at the same point.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: בְּכָל הַדֶּ֗רֶךְ אֲשֶׁ֨ר צִוָּ֜ה יְהוָ֧ה אֱלֹהֵיכֶ֛ם אֶתְכֶ֖ם תֵּלֵ֑כוּ לְמַ֤עַן תִּֽחְיוּן֙
+    וְט֣וֹב לָכֶ֔ם וְהַאֲרַכְתֶּ֣ם יָמִ֔ים בָּאָ֖רֶץ אֲשֶׁ֥ר תִּֽירָשֽׁוּן
+- tradition: islam
+  ref: Quran 6:153
+  note: Keep the law, turning neither to the right nor to the left
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَنَّ هَٰذَا صِرَٰطِى مُسْتَقِيمًا فَٱتَّبِعُوهُ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ
+    عَن سَبِيلِهِۦ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ
+- tradition: judaism
+  ref: Deut 5:17
+  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
+    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
+    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
+    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
+    dhā qurbā (just speech even against kin). Theft is absent.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹ֖א תִּרְצָֽח
+- tradition: judaism
+  ref: Deut 5:18
+  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
+    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
+    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
+    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
+    dhā qurbā (just speech even against kin). Theft is absent.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְלֹ֖א תִּנְאָֽף
+- tradition: islam
+  ref: Quran 6:151
+  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
+    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
+    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
+    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
+    dhā qurbā (just speech even against kin). Theft is absent.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
+    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
+    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
+    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+- tradition: islam
+  ref: Quran 6:152
+  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
+    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
+    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
+    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
+    dhā qurbā (just speech even against kin). Theft is absent.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
+    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
+    تَذَكَّرُونَ
 - tradition: judaism
   ref: Deut 5:6
   note: The Ten Commandments (Decalogue)
@@ -99,27 +199,44 @@ passages:
     فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
     تَذَكَّرُونَ
 evidence:
-- text: 'Shared motifs, rarest first: The Ten Commandments (Decalogue) (weight 5.4); Honor father and
-    mother, with the promise of long life (weight 5.3); Prohibitions of murder, adultery, theft and false
-    witness (weight 5.3). Pair score 16.0.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    divergence, parallel. Deut: kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan
+    yîṭav lākh ʿal-hā-ʾădāmāh. Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the
+    promise of long life in the land is dropped. Deut: lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā
+    ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi
+    (with an exception); wa-lā taqrabū l-fawāḥisha mā ẓahara minhā wa-mā baṭana (all indecency, not only
+    adultery); wa-idhā qultum fa-ʿdilū wa-law kāna dhā qurbā (just speech even against kin). Theft is
+    absent. Deut, right after the Decalogue: lōʾ tāsurû yāmîn û-śəmōʾl bə-khol-ha-dderekh ... tēlēkhû.
+    Q, right after its list: wa-anna hādhā ṣirāṭī mustaqīman fa-ttabiʿūhu wa-lā tattabiʿū l-subula fa-tafarraqa
+    bikum. The single road versus side paths, placed at the same point.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life [divergence
+    between the texts] (weight 6.0); Keep the law, turning neither to the right nor to the left (weight
+    5.8); Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (weight
+    5.8); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother, with the promise of
+    long life (weight 5.3); Prohibitions of murder, adultery, theft and false witness (weight 5.1). Pair
+    score 33.4.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
-    alive today, not only with the fathers; Prohibition of coveting the neighbor''s wife and property;
-    Mountain burns with fire to the heart of heaven amid darkness and cloud; People fear to hear God directly
-    and ask the prophet to mediate; Prohibition of carved images or likenesses of anything for worship;
-    Sabbath grounded in the memory of slavery in Egypt; Sabbath rest on the seventh day for all, including
-    servants, animals and strangers; God visits the fathers'' sin on the third and fourth generation,
-    but keeps steadfast love for thousands; God gives stone tablets he himself has written; God heard
-    as a voice out of fire with no visible form.'
+    alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
+    between the texts]; Whether God should speak to the people directly [contrast between the texts];
+    Mountain burns with fire to the heart of heaven amid darkness and cloud; The people answer as one:
+    all that YHWH has spoken we will do [response between the texts]; Who was present at the revelation
+    on the mountain, and who knows it only by report [contrast between the texts]; God heard as a voice
+    out of fire with no visible form; People fear to hear God directly and ask the prophet to mediate;
+    The people''s answer to the covenant (''we hear ...'') [response between the texts]; Sabbath grounded
+    in the memory of slavery in Egypt; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na);
+    Prohibition of coveting the neighbor''s wife and property; and 5 more.'
   basis: reading
 - text: 'Only in The recited commandments (the Quranic decalogue): List of commandments introduced ''Come,
-    I will recite what your Lord has forbidden you''; Do not kill your children for fear of poverty; God
-    provides for them and you; Honest balances, weights, ephah and hin are commanded; God burdens no soul
-    beyond its capacity; Guardians must keep orphans'' property intact and hand it over when they come
-    of age; Lest you say scripture was sent only to two groups before us; This is my straight path; follow
-    it and not other ways that scatter you; God gave Moses the book complete and detailing everything;
-    Keep the law, turning neither to the right nor to the left; Stand firm for justice as witnesses for
-    God even against yourselves, parents and kin, rich or poor.'
+    I will recite what your Lord has forbidden you''; Lest you say scripture was sent only to two groups
+    before us; This is my straight path; follow it and not other ways that scatter you; God gave Moses
+    the book complete and detailing everything; Do not kill your children for fear of poverty; God provides
+    for them and you; The Ten Commandments (Decalogue) [divergence between the texts]; Stand firm for
+    justice as witnesses for God even against yourselves, parents and kin, rich or poor; Guardians must
+    keep orphans'' property intact and hand it over when they come of age; I set before you life and death,
+    blessing and curse: choose life; God burdens no soul beyond its capacity; Honest balances, weights,
+    ephah and hin are commanded.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

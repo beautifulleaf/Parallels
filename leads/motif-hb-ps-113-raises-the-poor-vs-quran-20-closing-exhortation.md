@@ -2,11 +2,12 @@
 id: motif-hb-ps-113-raises-the-poor-vs-quran-20-closing-exhortation
 title: Psalm 113, God on high raises the poor and the barren ↔ Destroyed generations, patience, prayer
   times and waiting
-summary: 'These two units share 1 motifs: god''s name is praised from the rising of the sun to its setting.'
+summary: 'These two units share 3 motifs: god''s name is praised from the rising of the sun to its setting
+  [divergence between the texts], god''s name is praised from the rising of the sun to its setting, glorify
+  your lord before the rising of the sun and before its setting, in the night and after prostrations.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -14,8 +15,29 @@ traditions:
 layers:
 - motif
 motifs:
+- praised-from-sunrise-to-sunset-as-divergence
 - praised-from-sunrise-to-sunset
+- glorify-before-sunrise-and-sunset
 passages:
+- tradition: judaism
+  ref: Ps 113:3
+  note: 'God''s name is praised from the rising of the sun to its setting [divergence between the texts]
+    (mimmizraḥ-šemeš ʿad-məbôʾô məhullāl šēm YHWH; wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi sh-shamsi wa-qabla
+    ghurūbihā: praise tied to sunrise and sunset. In Ps the span is space (from east to west, everywhere);
+    in Q it is time (before rising, before setting, at night), the fixed times of glorification.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
+- tradition: islam
+  ref: Quran 20:130
+  note: 'God''s name is praised from the rising of the sun to its setting [divergence between the texts]
+    (mimmizraḥ-šemeš ʿad-məbôʾô məhullāl šēm YHWH; wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi sh-shamsi wa-qabla
+    ghurūbihā: praise tied to sunrise and sunset. In Ps the span is space (from east to west, everywhere);
+    in Q it is time (before rising, before setting, at night), the fixed times of glorification.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا
+    وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ
 - tradition: judaism
   ref: Ps 113:3
   note: God's name is praised from the rising of the sun to its setting
@@ -29,23 +51,46 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا
     وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ
+- tradition: judaism
+  ref: Ps 113:3
+  note: Glorify your Lord before the rising of the sun and before its setting, in the night and after
+    prostrations (mim-mizraḥ šemeš ʿaḏ məḇôʾô məhullāl šēm YHWH vs. qabla ṭulūʿi sh-shamsi wa-qabla l-ghurūb.
+    The psalm's sunrise-to-sunset is spatial (from east to west); the Quran's is a time of day.)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
+- tradition: islam
+  ref: Quran 20:130
+  note: Glorify your Lord before the rising of the sun and before its setting, in the night and after
+    prostrations
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا
+    وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    divergence. mimmizraḥ-šemeš ʿad-məbôʾô məhullāl šēm YHWH; wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi
+    sh-shamsi wa-qabla ghurūbihā: praise tied to sunrise and sunset. In Ps the span is space (from east
+    to west, everywhere); in Q it is time (before rising, before setting, at night), the fixed times of
+    glorification.'
+  basis: reading
 - text: 'Shared motifs, rarest first: God''s name is praised from the rising of the sun to its setting
-    (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 6.7); God''s name is praised from the rising of the sun to
+    its setting (weight 6.7); Glorify your Lord before the rising of the sun and before its setting, in
+    the night and after prostrations (weight 6.3). Pair score 19.7.'
   basis: reading
 - text: 'Only in Psalm 113, God on high raises the poor and the barren: God settles the barren woman in
-    her home as a joyful mother of children; God sits enthroned on high yet stoops down to look on heaven
-    and earth and regards the lowly; The cultic cry ''Hallelu-Yah'' (praise Yah) closes or opens a psalm;
-    ''Who is like you among the gods, YHWH?''; God raises the poor from the dust and the needy from the
-    dunghill to sit with princes.'
+    her home as a joyful mother of children; God raises the poor from the dust and the needy from the
+    dunghill to sit with princes; God sits enthroned on high yet stoops down to look on heaven and earth
+    and regards the lowly; ''Who is like you among the gods, YHWH?''; The cultic cry ''Hallelu-Yah'' (praise
+    Yah) closes or opens a psalm.'
   basis: reading
-- text: 'Only in Destroyed generations, patience, prayer times and waiting: Do not stretch your eyes toward
-    the worldly splendor given to others to test them; Appeal to ''the former scrolls'' (al-ṣuḥuf al-ūlā)
-    as evidence; Glorify your Lord before the rising of the sun and before its setting, in the night and
-    after prostrations; God does not punish a people before sending a messenger, lest they plead they
-    had none; Punishment is delayed only because of a word that went before from God and an appointed
+- text: 'Only in Destroyed generations, patience, prayer times and waiting: Appeal to ''the former scrolls''
+    (al-ṣuḥuf al-ūlā) as evidence; Do not stretch your eyes toward the worldly splendor given to others
+    to test them; Punishment is delayed only because of a word that went before from God and an appointed
     term; The unbelievers demand: ''Why does he not bring us a sign from his Lord?''; The listeners walk
-    among the dwellings of generations God destroyed, a sign.'
+    among the dwellings of generations God destroyed, a sign; God does not punish a people before sending
+    a messenger, lest they plead they had none.'
   basis: reading
 - text: 'Psalm 113, God on high raises the poor and the barren: tagged by Claude (model), reading the
     Hebrew.'

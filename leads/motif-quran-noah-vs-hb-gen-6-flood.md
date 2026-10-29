@@ -2,8 +2,7 @@
 id: motif-quran-noah-vs-hb-gen-6-flood
 title: Noah in the Quran ↔ The Flood (full read)
 summary: 'These two units share 9 motifs: waters pour both from the sky and from springs of the earth,
-  animals taken aboard in pairs, hero singled out as righteous or pious, vessel comes to rest on a named
-  mountain….'
+  animals taken aboard in pairs, vessel comes to rest on a named mountain, deity decides to destroy humankind….'
 status: new
 relations:
 - transmission
@@ -17,9 +16,9 @@ layers:
 motifs:
 - waters-from-above-and-below
 - animals-in-pairs
-- hero-righteous
 - vessel-rests-on-mountain
 - divine-decision-to-destroy
+- hero-righteous
 - build-vessel-on-instruction
 - hero-warned-by-deity
 - universal-destruction
@@ -84,25 +83,6 @@ passages:
   text: מֵהָע֣וֹף לְמִינֵ֗הוּ וּמִן הַבְּהֵמָה֙ לְמִינָ֔הּ מִכֹּ֛ל רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ שְׁנַ֧יִם
     מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ לְהַֽחֲיֽוֹת
 - tradition: islam
-  ref: Quran 37:81
-  note: Hero singled out as righteous or pious
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
-- tradition: judaism
-  ref: Gen 6:8
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Gen 6:9
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
-    הִֽתְהַלֶּךְ נֹֽחַ
-- tradition: islam
   ref: Quran 11:44
   note: Vessel comes to rest on a named mountain (al-Jūdī)
   lang: ar
@@ -144,6 +124,25 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
     מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+- tradition: islam
+  ref: Quran 37:81
+  note: Hero singled out as righteous or pious
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+- tradition: judaism
+  ref: Gen 6:8
+  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
+- tradition: judaism
+  ref: Gen 6:9
+  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
+    הִֽתְהַלֶּךְ נֹֽחַ
 - tradition: islam
   ref: Quran 11:37
   note: Hero builds a vessel on divine instruction
@@ -194,6 +193,13 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
     מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+- tradition: judaism
+  ref: Gen 6:17
+  note: Hero privately warned of the coming flood by a deity
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+    בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
 - tradition: islam
   ref: Quran 26:120
   note: All others perish
@@ -252,31 +258,28 @@ passages:
     הַמַּבּֽוּל
 evidence:
 - text: 'Shared motifs, rarest first: Waters pour both from the sky and from springs of the earth (weight
-    6.0); Animals taken aboard in pairs (weight 5.8); Hero singled out as righteous or pious (weight 5.6);
-    Vessel comes to rest on a named mountain (weight 5.4); Deity decides to destroy humankind (weight
+    6.0); Animals taken aboard in pairs (weight 5.8); Vessel comes to rest on a named mountain (weight
+    5.4); Deity decides to destroy humankind (weight 5.3); Hero singled out as righteous or pious (weight
     5.3); Hero builds a vessel on divine instruction (weight 5.2); Hero privately warned of the coming
     flood by a deity (weight 5.1); All others perish (weight 5.0); Hero''s family saved with him (weight
-    4.5). Pair score 47.8.'
+    4.5). Pair score 47.6.'
   basis: reading
-- text: 'Only in Noah in the Quran: Hero blessed on leaving the vessel; The flood waters are hot or boiling;
-    A member of the hero''s family is lost; Hero''s life or mission spans 950 years; Hero asks the deity
-    to judge or destroy his opponents; Hero warns or preaches to his people before the flood; Someone
-    seeks refuge on a mountain and is drowned; People mock the hero while he builds the vessel; Destruction
-    follows the people''s rejection of a messenger; A specific sign marks the moment to board; Vessel
-    described by its planks and fastenings.'
+- text: 'Only in Noah in the Quran: Someone seeks refuge on a mountain and is drowned; Vessel described
+    by its planks and fastenings; A specific sign marks the moment to board; Hero blessed on leaving the
+    vessel; The flood waters are hot or boiling; Hero''s life or mission spans 950 years; People mock
+    the hero while he builds the vessel; A member of the hero''s family is lost; Hero asks the deity to
+    judge or destroy his opponents; Hero warns or preaches to his people before the flood; Destruction
+    follows the people''s rejection of a messenger.'
   basis: reading
-- text: 'Only in The Flood (full read): Divine blessing: be fruitful, multiply, fill the earth; Birds
-    released to find dry land; Clean animals taken aboard by sevens, unclean by pairs; Deity or gods smell
-    the offering; Every inclination (yetser) of the human heart is only evil; Flood events given exact
-    calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days and forty nights;
-    God regrets having made humankind and is grieved in his heart; God himself shuts the vessel''s door
-    behind the hero; A dove returns with an olive leaf in its beak; Deity resolves or promises not to
-    repeat the destruction; A raven is sent out and does not return (goes to and fro); Destruction motivated
-    by human wickedness or violence; Hero offers sacrifice after leaving the vessel; God guarantees seedtime
-    and harvest, cold and heat, day and night will not cease; Seven days pass between the warning or boarding
-    and the onset of the flood; Exact dimensions of the vessel are specified; Vessel has several decks,
-    a side door and a roof opening or window; Vessel sealed with pitch or bitumen; Waters rise above the
-    highest mountains (fifteen cubits); God sends a wind (ruah) over the earth to make the waters subside.'
+- text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
+    events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
+    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
+    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
+    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
+    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
+    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
+    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
+    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 37 more.'
   basis: reading
 - text: 'Noah in the Quran: tagged by Claude (model), reading the Arabic.'
   basis: reading

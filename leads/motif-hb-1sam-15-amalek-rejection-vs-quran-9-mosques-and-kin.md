@@ -1,0 +1,75 @@
+---
+id: motif-hb-1sam-15-amalek-rejection-vs-quran-9-mosques-and-kin
+title: War on Amalek, Agag spared, and Saul's rejection ↔ Who maintains the mosques; God above family
+summary: 'These two units share 1 motifs: to obey is better than sacrifice.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- obedience-better-than-sacrifice
+passages:
+- tradition: judaism
+  ref: 1Sam 15:22
+  note: To obey is better than sacrifice (Rebellion as the sin of divination, teraphim)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֣אמֶר שְׁמוּאֵ֗ל הַחֵ֤פֶץ לַֽיהוָה֙ בְּעֹל֣וֹת וּזְבָחִ֔ים כִּשְׁמֹ֖עַ בְּק֣וֹל יְהוָ֑ה הִנֵּ֤ה
+    שְׁמֹ֨עַ֙ מִזֶּ֣בַח ט֔וֹב לְהַקְשִׁ֖יב מֵחֵ֥לֶב אֵילִֽים
+- tradition: judaism
+  ref: 1Sam 15:23
+  note: To obey is better than sacrifice (Rebellion as the sin of divination, teraphim)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּ֤י חַטַּאת קֶ֨סֶם֙ מֶ֔רִי וְאָ֥וֶן וּתְרָפִ֖ים הַפְצַ֑ר יַ֗עַן מָאַ֨סְתָּ֙ אֶת דְּבַ֣ר יְהוָ֔ה
+    וַיִּמְאָסְךָ֖ מִמֶּֽלֶךְ
+- tradition: islam
+  ref: Quran 9:19
+  note: 'To obey is better than sacrifice (Cultic service ranked below inner devotion: a-jaʿaltum siqāyata
+    l-ḥājji wa-ʿimārata l-masjidi l-ḥarāmi ka-man āmana bi-llāhi ... wa-jāhada vs haḥēpeṣ laYHWH bᵉʿōlôt
+    ûzᵉbāḥîm kišmōaʿ bᵉqôl YHWH hinnēh šᵉmōaʿ mizzebaḥ ṭôb.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ
+    وَٱلْيَوْمِ ٱلْءَاخِرِ وَجَٰهَدَ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ وَٱللَّهُ لَا يَهْدِى
+    ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. Cultic service ranked below inner devotion: a-jaʿaltum siqāyata l-ḥājji wa-ʿimārata l-masjidi
+    l-ḥarāmi ka-man āmana bi-llāhi ... wa-jāhada vs haḥēpeṣ laYHWH bᵉʿōlôt ûzᵉbāḥîm kišmōaʿ bᵉqôl YHWH
+    hinnēh šᵉmōaʿ mizzebaḥ ṭôb.'
+  basis: reading
+- text: 'Shared motifs, rarest first: To obey is better than sacrifice (weight 6.0). Pair score 6.0.'
+  basis: reading
+- text: 'Only in War on Amalek, Agag spared, and Saul''s rejection: A friendly people living among the
+    enemy is warned to leave before the attack (the Kenites); The Eternal of Israel does not lie or repent,
+    for he is not a man; God ''repents'' that he made someone king; Command to devote Amalek entirely
+    to destruction, man, woman, infant and livestock; Prophet himself hews the captive enemy king to pieces
+    before YHWH; King sets up a monument (yad) for himself after victory; A torn robe-hem signifies the
+    kingdom torn away; Conqueror spares the enemy king and best livestock against God''s command.'
+  basis: reading
+- text: 'Only in Who maintains the mosques; God above family: Giving water to pilgrims and tending the
+    Sacred Mosque are not equal to faith and striving; God''s good pleasure (ridwan) is greater than the
+    gardens of Eden; Levi says to father and mother ''I do not see you'' and disregards his brothers and
+    children for God''s covenant; Do not take fathers or brothers as allies against faith; love of God
+    must outweigh family, wealth, trade and homes; Only those who believe, pray and give alms may maintain
+    God''s places of worship; Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a
+    list of ethical qualifications; The Levites kill idolaters including their own kin and are consecrated
+    for it.'
+  basis: reading
+- text: 'War on Amalek, Agag spared, and Saul''s rejection: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Who maintains the mosques; God above family: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

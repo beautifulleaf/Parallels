@@ -1,0 +1,129 @@
+---
+id: motif-hb-ps-104-creation-hymn-vs-quran-16-blessings-of-creation
+title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The command has come; cattle,
+  rain, sea and stars as blessings (Surah 16:1-23)
+summary: 'These two units share 2 motifs: god pours down rain, splits the earth and makes grain, grapes,
+  olives, palms and pasture grow, as provision and sign, god set firm mountains on the earth lest it sway
+  with people.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- rain-and-crops-as-sign
+- mountains-stabilize-earth
+passages:
+- tradition: judaism
+  ref: Ps 104:13
+  note: 'God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+    as provision and sign (Same catalogue: rain from above for drink and pasture, crops, vine and olive,
+    then the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem;
+    minhu shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām
+    ʾŏniyyôt yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for
+    fresh meat and ornaments, li-tabtaghū min faḍlih.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+- tradition: judaism
+  ref: Ps 104:14
+  note: 'God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+    as provision and sign (Same catalogue: rain from above for drink and pasture, crops, vine and olive,
+    then the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem;
+    minhu shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām
+    ʾŏniyyôt yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for
+    fresh meat and ornaments, li-tabtaghū min faḍlih.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן הָאָֽרֶץ
+- tradition: islam
+  ref: Quran 16:10
+  note: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+    as provision and sign (olives, palms, grapes)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: هُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً لَّكُم مِّنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ
+- tradition: islam
+  ref: Quran 16:11
+  note: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+    as provision and sign (olives, palms, grapes)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يُنۢبِتُ لَكُم بِهِ ٱلزَّرْعَ وَٱلزَّيْتُونَ وَٱلنَّخِيلَ وَٱلْأَعْنَٰبَ وَمِن كُلِّ ٱلثَّمَرَٰتِ
+    إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ يَتَفَكَّرُونَ
+- tradition: judaism
+  ref: Ps 104:5
+  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
+    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
+    Q: by mountains set as anchors.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
+- tradition: judaism
+  ref: Ps 104:8
+  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
+    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
+    Q: by mountains set as anchors.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת אֶל מְ֝ק֗וֹם זֶ֤ה יָסַ֬דְתָּ לָהֶֽם
+- tradition: islam
+  ref: Quran 16:15
+  note: God set firm mountains on the earth lest it sway with people (an tamīda bikum)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    echo, parallel. Same catalogue: rain from above for drink and pasture, crops, vine and olive, then
+    the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem; minhu
+    shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām ʾŏniyyôt
+    yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for fresh
+    meat and ornaments, li-tabtaghū min faḍlih. yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ ʿôlām wāʿed; wa-alqā
+    fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations; Q: by mountains
+    set as anchors.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God pours down rain, splits the earth and makes grain, grapes, olives,
+    palms and pasture grow, as provision and sign (weight 5.6); God set firm mountains on the earth lest
+    it sway with people (weight 5.6). Pair score 11.2.'
+  basis: reading
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
+    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
+    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+    habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
+    works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
+    and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
+    to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
+    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
+    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
+    texts]; and 39 more.'
+  basis: reading
+- text: 'Only in The command has come; cattle, rain, sea and stars as blessings (Surah 16:1-23): God sends
+    down the angels with the spirit of his command upon whom he wills; Cattle were created for human warmth,
+    food, burden-bearing and the beauty of herds coming and going; God made horses, mules and donkeys
+    to ride and for adornment, and creates what you do not know; Man was created from a drop, yet he becomes
+    an open adversary; The subjected sea gives fresh meat and ornaments to wear, and ships cleave it;
+    Night, day, sun, moon and stars are subjected by God''s command; If you counted God''s blessings you
+    could never number them; Your God is one God (ilahukum ilahun wahid); God made the stars for guidance
+    in the darknesses of land and sea; The idols create nothing, are themselves created, and are dead,
+    not living; Idols of wood and stone that cannot see, hear, eat or smell.'
+  basis: reading
+- text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
+    reading the Hebrew.'
+  basis: reading
+- text: 'The command has come; cattle, rain, sea and stars as blessings (Surah 16:1-23): tagged by Claude
+    (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

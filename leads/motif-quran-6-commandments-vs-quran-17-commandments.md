@@ -1,9 +1,10 @@
 ---
 id: motif-quran-6-commandments-vs-quran-17-commandments
 title: The recited commandments (the Quranic decalogue) ↔ The code of commandments (Surah 17:22-39)
-summary: 'These two units share 5 motifs: do not kill your children for fear of poverty; god provides
-  for them and you, guardians must keep orphans'' property intact and hand it over when they come of age,
-  the ten commandments (decalogue), honor father and mother, with the promise of long life….'
+summary: 'These two units share 6 motifs: do not kill your children for fear of poverty; god provides
+  for them and you, honor father and mother, with the promise of long life [divergence between the texts],
+  guardians must keep orphans'' property intact and hand it over when they come of age, the ten commandments
+  (decalogue)….'
 status: new
 relations:
 - internal
@@ -14,6 +15,7 @@ layers:
 - motif
 motifs:
 - do-not-kill-children-for-fear-of-poverty
+- honor-parents-long-life-as-divergence
 - orphan-property-guardianship
 - ten-commandments
 - honor-parents-long-life
@@ -36,6 +38,41 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ
     كَانَ خِطْـًٔا كَبِيرًا
+- tradition: islam
+  ref: Quran 6:151
+  note: 'Honor father and mother, with the promise of long life [divergence between the texts] (Deut:
+    kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh ʿal-hā-ʾădāmāh.
+    Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of long life in the
+    land is dropped.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
+    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
+    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
+    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+- tradition: islam
+  ref: Quran 17:23
+  note: Honor father and mother, with the promise of long life [divergence between the texts] (kabbēd
+    ʾet-ʾābîkā wəʾet-ʾimmekā ləmaʿan yaʾărikûn yāmêkā; wa-bi-l-wālidayni iḥsānan immā yablughanna ʿindaka
+    l-kibara ... fa-lā taqul lahumā uffin ... wa-qul rabbi rḥamhumā ka-mā rabbayānī ṣaghīrā. Q drops the
+    promise of long life and puts in its place care for parents in old age and a prayer for them. Duty
+    to parents comes second, right after God, in both.)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
+    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
+    لَّهُمَا قَوْلًا كَرِيمًا
+- tradition: islam
+  ref: Quran 17:24
+  note: Honor father and mother, with the promise of long life [divergence between the texts] (kabbēd
+    ʾet-ʾābîkā wəʾet-ʾimmekā ləmaʿan yaʾărikûn yāmêkā; wa-bi-l-wālidayni iḥsānan immā yablughanna ʿindaka
+    l-kibara ... fa-lā taqul lahumā uffin ... wa-qul rabbi rḥamhumā ka-mā rabbayānī ṣaghīrā. Q drops the
+    promise of long life and puts in its place care for parents in old age and a prayer for them. Duty
+    to parents comes second, right after God, in both.)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
+    صَغِيرًا
 - tradition: islam
   ref: Quran 6:152
   note: Guardians must keep orphans' property intact and hand it over when they come of age
@@ -132,28 +169,33 @@ passages:
     تَأْوِيلًا
 evidence:
 - text: 'Shared motifs, rarest first: Do not kill your children for fear of poverty; God provides for
-    them and you (weight 6.7); Guardians must keep orphans'' property intact and hand it over when they
-    come of age (weight 6.0); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother,
+    them and you (weight 6.7); Honor father and mother, with the promise of long life [divergence between
+    the texts] (weight 6.0); Guardians must keep orphans'' property intact and hand it over when they
+    come of age (weight 5.8); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother,
     with the promise of long life (weight 5.3); Honest balances, weights, ephah and hin are commanded
-    (weight 4.8). Pair score 28.2.'
+    (weight 4.7). Pair score 33.9.'
   basis: reading
 - text: 'Only in The recited commandments (the Quranic decalogue): List of commandments introduced ''Come,
-    I will recite what your Lord has forbidden you''; God burdens no soul beyond its capacity; Prohibitions
-    of murder, adultery, theft and false witness; Lest you say scripture was sent only to two groups before
-    us; This is my straight path; follow it and not other ways that scatter you; God gave Moses the book
-    complete and detailing everything; Keep the law, turning neither to the right nor to the left; Stand
-    firm for justice as witnesses for God even against yourselves, parents and kin, rich or poor.'
+    I will recite what your Lord has forbidden you''; Lest you say scripture was sent only to two groups
+    before us; This is my straight path; follow it and not other ways that scatter you; God gave Moses
+    the book complete and detailing everything; The Ten Commandments (Decalogue) [divergence between the
+    texts]; Stand firm for justice as witnesses for God even against yourselves, parents and kin, rich
+    or poor; Prohibitions of murder, adultery, theft and false witness [divergence between the texts];
+    Keep the law, turning neither to the right nor to the left; I set before you life and death, blessing
+    and curse: choose life; God burdens no soul beyond its capacity; Prohibitions of murder, adultery,
+    theft and false witness.'
   basis: reading
-- text: 'Only in The code of commandments (Surah 17:22-39): Sexual relations with a neighbor''s wife are
-    forbidden; The ''redeemer of blood'' (go''el ha-dam) kills the murderer; A Quranic code of commandments
-    resembling the Decalogue in content; Do not pursue what you have no knowledge of; hearing, sight and
-    heart will be questioned; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently;
-    Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height; Give
-    the kinsman, the poor and the wayfarer their due; Do not keep your hand chained to your neck nor stretch
-    it out fully: moderation in spending; Do not kill the soul God has made sacred except by right; Lower
-    the wing of humility to parents and pray ''Lord, have mercy on them as they raised me when small'';
-    Open your hand wide to the poor brother; do not harden your heart or shut your hand; No other gods
-    before YHWH; Squanderers are brothers of the devils.'
+- text: 'Only in The code of commandments (Surah 17:22-39): A Quranic code of commandments resembling
+    the Decalogue in content; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently;
+    Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height; Do
+    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Do not kill
+    the soul God has made sacred except by right; Lower the wing of humility to parents and pray ''Lord,
+    have mercy on them as they raised me when small''; Squanderers are brothers of the devils; Sexual
+    relations with a neighbor''s wife are forbidden [divergence between the texts]; A Quranic code of
+    commandments resembling the Decalogue in content [divergence between the texts]; Do not pursue what
+    you have no knowledge of; hearing, sight and heart will be questioned; Do not kill the soul God has
+    made sacred except by right [divergence between the texts]; No other gods before YHWH [divergence
+    between the texts]; and 5 more.'
   basis: reading
 - text: 'The recited commandments (the Quranic decalogue): tagged by Claude (model), reading the Arabic.'
   basis: reading

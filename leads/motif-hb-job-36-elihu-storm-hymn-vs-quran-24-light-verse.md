@@ -1,0 +1,98 @@
+---
+id: motif-hb-job-36-elihu-storm-hymn-vs-quran-24-light-verse
+title: Elihu's hymn on rain, thunder, snow and the storm ↔ The Light Verse; the mirage, the dark sea,
+  the praising birds, hail and the creatures
+summary: 'These two units share 1 motifs: god drives the storm cloud to strike whom he wills or to show
+  favor.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- storm-cloud-sent-to-punish-or-bless
+passages:
+- tradition: judaism
+  ref: Job 37:11
+  note: 'God drives the storm cloud to strike whom he wills or to show favor (yuzjī saḥāban thumma yuʾallifu
+    baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf
+    bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ... ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed
+    yamṣiʾēhû: God drives, loads and turns the cloud and sends it as a rod or as kindness, onto whom he
+    wills or away from them.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אַף בְּ֭רִי יַטְרִ֣יחַ עָ֑ב יָ֝פִ֗יץ עֲנַ֣ן אוֹרֽוֹ
+- tradition: judaism
+  ref: Job 37:12
+  note: 'God drives the storm cloud to strike whom he wills or to show favor (yuzjī saḥāban thumma yuʾallifu
+    baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf
+    bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ... ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed
+    yamṣiʾēhû: God drives, loads and turns the cloud and sends it as a rod or as kindness, onto whom he
+    wills or away from them.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְה֤וּא מְסִבּ֨וֹת מִתְהַפֵּ֣ךְ בתחבולתו בְּתַחְבּוּלֹתָ֣יו לְפָעֳלָ֑ם כֹּ֖ל אֲשֶׁ֥ר יְצַוֵּ֓ם
+    עַל פְּנֵ֖י תֵבֵ֣ל אָֽרְצָה
+- tradition: islam
+  ref: Quran 24:43
+  note: 'God drives the storm cloud to strike whom he wills or to show favor (yuzjī saḥāban thumma yuʾallifu
+    baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf
+    bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ... ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed
+    yamṣiʾēhû: God drives, loads and turns the cloud and sends it as a rod or as kindness, onto whom he
+    wills or away from them.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا
+    فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ
+    فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَٰرِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    parallel. yuzjī saḥāban thumma yuʾallifu baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu
+    wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ...
+    ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed yamṣiʾēhû: God drives, loads and turns the cloud and sends
+    it as a rod or as kindness, onto whom he wills or away from them.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God drives the storm cloud to strike whom he wills or to show favor
+    (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Elihu''s hymn on rain, thunder, snow and the storm: Golden splendor comes out of the
+    north as God''s awesome majesty; God''s booth or canopy (sukkah) is made of thunderclouds and darkness;
+    In the winter storm God seals up every man''s hand (stops human work) so all may know him; The number
+    of God''s years cannot be searched out; Ice and frozen waters are produced by the breath of God; God
+    beat out the skies hard as a molten mirror of cast metal; God draws up drops of water which distill
+    as rain from his mist (evaporation and rainfall cycle); Storm-wind comes out of a chamber (heder)
+    and cold from the scattering winds; God speaks to the snow ''Fall on the earth'' and commands the
+    downpour; Thunder is the roaring voice of God; God sends the winds as heralds before his mercy and
+    sends down pure water from the sky.'
+  basis: reading
+- text: 'Only in The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures:
+    Or like darkness in a deep sea, covered by wave upon wave and cloud above, darkness upon darkness,
+    so one cannot see his own hand; The deeds of unbelievers are like a mirage in a plain that the thirsty
+    takes for water until he reaches it and finds nothing, but finds God there; God is the light of the
+    heavens and the earth; God''s light is like a niche holding a lamp in a glass like a glittering star,
+    lit from a blessed olive tree neither of east nor west, whose oil almost glows untouched by fire:
+    light upon light; God sends down hail from mountains in the sky; the flash of his lightning nearly
+    takes away sight; In houses God allowed to be raised, men undistracted by trade glorify him morning
+    and evening; God created every beast from water: some go on their bellies, some on two legs, some
+    on four; Birds with outspread wings glorify God; each knows its prayer and praise; With God is the
+    fountain of life; in his light we see light; A lamp fed directly by an olive tree [divergence between
+    the texts]; A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil
+    through golden pipes; The mirage and the thirsty traveler [divergence between the texts]; and 8 more.'
+  basis: reading
+- text: 'Elihu''s hymn on rain, thunder, snow and the storm: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures: tagged
+    by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

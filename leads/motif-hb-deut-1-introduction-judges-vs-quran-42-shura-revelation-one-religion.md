@@ -44,30 +44,25 @@ evidence:
     (weight 6.7). Pair score 6.7.'
   basis: reading
 - text: 'Only in Setting of Moses'' speech; appointment of judges: Eleven days'' journey from Horeb to
-    Kadesh-barnea (yet it took forty years); Ideal borders of the promised land traced from the Brook
-    of Egypt to Lebo-Hamath; Officers over thousands, hundreds, fifties and tens; hard cases to the leader;
-    Leader protests he did not conceive or bear the people to carry them like a nurse; People multiplied
-    ''like the stars of heaven''; Moses ''expounds this Torah'' in Moab on the first of the eleventh month
-    of the fortieth year; The defeat of Sihon of Heshbon and Og of Bashan recalled; Blessing: may God
-    make you a thousand times as many.'
+    Kadesh-barnea (yet it took forty years); People multiplied ''like the stars of heaven''; Moses ''expounds
+    this Torah'' in Moab on the first of the eleventh month of the fortieth year; Blessing: may God make
+    you a thousand times as many; Officers over thousands, hundreds, fifties and tens; hard cases to the
+    leader; Leader protests he did not conceive or bear the people to carry them like a nurse; Ideal borders
+    of the promised land traced from the Brook of Egypt to Lebo-Hamath; The defeat of Sihon of Heshbon
+    and Og of Bashan recalled.'
   basis: reading
 - text: 'Only in Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the
-    prophets: Opponents accuse the prophet of forging lies against God; Angels glorify God and ask forgiveness
-    for those on earth; The revelation is sent down as an Arabic Quran; God sent down the Book with the
-    truth and the Balance (al-mizan); The Day of Gathering (yawm al-jam'') when all humanity is assembled;
-    one party to the Garden, one to the Blaze; A surah opens with isolated letters (huruf muqatta''at)
-    of unexplained meaning, e.g. alif-lam-mim; Earlier communities split into factions only after knowledge
-    came to them, out of rivalry (baghy) among themselves; God alone knows the hearts of all humans; God
-    expands provision (rizq) for whom he wills and restricts it; Whoever seeks the tillage (harth) of
-    the hereafter has it increased; whoever seeks the tillage of this world gets some of it and no share
-    hereafter; The heavens almost burst apart from above (at God''s majesty or at a blasphemy); Perhaps
-    the Hour is near; unbelievers mock and ask to hasten it, believers fear it; Had God willed he would
-    have made all humanity a single community; To God belong the keys (maqalid) of the heavens and the
-    earth; The prophet''s only requested ''wage'' is affection among kin (al-mawadda fi l-qurba); Humanity
-    created male and female in one act; The prophet is sent to warn ''the mother of towns'' (umm al-qura,
-    Mecca) and those around it; ''There is nothing like him'' (laysa ka-mithlihi shay''), yet he is the
-    Hearing, the Seeing; The same religion (din) was enjoined on Noah, Abraham, Moses, Jesus and the Prophet:
-    establish it and do not divide; The Prophet asks no wage for the message.'
+    prophets: Whoever seeks the tillage (harth) of the hereafter has it increased; whoever seeks the tillage
+    of this world gets some of it and no share hereafter; Perhaps the Hour is near; unbelievers mock and
+    ask to hasten it, believers fear it; The prophet''s only requested ''wage'' is affection among kin
+    (al-mawadda fi l-qurba); ''There is nothing like him'' (laysa ka-mithlihi shay''), yet he is the Hearing,
+    the Seeing; Abraham kept God''s charge, commandments, statutes and laws (torot) before Sinai; Angels
+    glorify God and ask forgiveness for those on earth; God sent down the Book with the truth and the
+    Balance (al-mizan); Earlier communities split into factions only after knowledge came to them, out
+    of rivalry (baghy) among themselves; God expands provision (rizq) for whom he wills and restricts
+    it; The heavens almost burst apart from above (at God''s majesty or at a blasphemy); To God belong
+    the keys (maqalid) of the heavens and the earth; Whether humans bear God''s likeness, or nothing is
+    like him [contrast between the texts]; and 11 more.'
   basis: reading
 - text: 'Setting of Moses'' speech; appointment of judges: tagged by Claude (model), reading the Hebrew.'
   basis: reading

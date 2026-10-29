@@ -63,11 +63,14 @@ evidence:
     fire or furnace by a king or people (weight 5.3). Pair score 11.1.'
   basis: reading
 - text: 'Only in Abraham breaks the idols and is cast into the fire: Abraham and Lot are rescued to the
-    land God blessed for all peoples; Hero''s father makes, sells or worships idols; God commands the
-    fire: ''Be coolness and peace upon Abraham''; Isaac given, and Jacob in addition as an extra gift
-    (nāfila); Hero smashes or burns idols; The made idol cannot move from its place, speak or answer and
-    save those who cry to it; Hero blames the largest idol for the destruction; The men of Sodom are exceedingly
-    wicked.'
+    land God blessed for all peoples; God commands the fire: ''Be coolness and peace upon Abraham''; Abraham
+    and Lot are rescued to the land God blessed for all peoples [divergence between the texts]; The fire
+    does not harm the hero [divergence between the texts]; Isaac given, and Jacob in addition as an extra
+    gift (nāfila); Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between the
+    texts]; Hero blames the largest idol for the destruction; Hero smashes or burns idols; Hero''s father
+    makes, sells or worships idols [divergence between the texts]; The made idol cannot move from its
+    place, speak or answer and save those who cry to it; The men of Sodom are exceedingly wicked; Hero''s
+    father makes, sells or worships idols.'
   basis: reading
 - text: 'The three youths in the furnace (Daniel 3): tagged by Claude (model), reading the Aramaic.'
   basis: reading

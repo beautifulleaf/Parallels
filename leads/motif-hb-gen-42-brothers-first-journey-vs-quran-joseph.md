@@ -1,9 +1,9 @@
 ---
 id: motif-hb-gen-42-brothers-first-journey-vs-quran-joseph
 title: The brothers' first journey to Egypt ↔ Joseph in the Quran (Surah 12)
-summary: 'These two units share 7 motifs: their payment is secretly returned in their bags, brothers come
-  for grain and do not recognize the hero, hero demands they bring their youngest brother, one brother
-  stays behind in egypt….'
+summary: 'These two units share 7 motifs: brothers come for grain and do not recognize the hero, one brother
+  stays behind in egypt, their payment is secretly returned in their bags, hero demands they bring their
+  youngest brother….'
 status: new
 relations:
 - transmission
@@ -15,14 +15,49 @@ traditions:
 layers:
 - motif
 motifs:
-- money-returned-in-sacks
 - brothers-come-unrecognizing
-- demand-youngest-brother
 - one-brother-left-in-egypt
+- money-returned-in-sacks
+- demand-youngest-brother
 - parents-honored-dream-fulfilled
 - pledge-to-father
 - father-reluctant-youngest
 passages:
+- tradition: judaism
+  ref: Gen 42:6
+  note: Brothers come for grain and do not recognize the hero
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙
+    אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ ל֥וֹ אַפַּ֖יִם אָֽרְצָה
+- tradition: judaism
+  ref: Gen 42:7
+  note: Brothers come for grain and do not recognize the hero
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֥רְא יוֹסֵ֛ף אֶת אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת
+    וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבָּר אֹֽכֶל
+- tradition: islam
+  ref: Quran 12:58
+  note: Brothers come for grain and do not recognize the hero
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
+- tradition: judaism
+  ref: Gen 42:24
+  note: One brother stays behind in Egypt (Simeon bound before their eyes)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שָׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַיִּקַּ֤ח מֵֽאִתָּם֙
+    אֶת שִׁמְע֔וֹן וַיֶּאֱסֹ֥ר אֹת֖וֹ לְעֵינֵיהֶֽם
+- tradition: islam
+  ref: Quran 12:80
+  note: One brother stays behind in Egypt (the eldest stays of his own accord)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ
+    أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ فَلَنْ
+    أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 - tradition: judaism
   ref: Gen 42:25
   note: Their payment is secretly returned in their bags
@@ -53,26 +88,6 @@ passages:
     مَا نَبْغِى هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ
     كَيْلَ بَعِيرٍ ذَٰلِكَ كَيْلٌ يَسِيرٌ
 - tradition: judaism
-  ref: Gen 42:6
-  note: Brothers come for grain and do not recognize the hero
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙
-    אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ ל֥וֹ אַפַּ֖יִם אָֽרְצָה
-- tradition: judaism
-  ref: Gen 42:7
-  note: Brothers come for grain and do not recognize the hero
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֥רְא יוֹסֵ֛ף אֶת אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת
-    וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבָּר אֹֽכֶל
-- tradition: islam
-  ref: Quran 12:58
-  note: Brothers come for grain and do not recognize the hero
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
-- tradition: judaism
   ref: Gen 42:15
   note: Hero demands they bring their youngest brother
   lang: he
@@ -99,21 +114,6 @@ passages:
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
-- tradition: judaism
-  ref: Gen 42:24
-  note: One brother stays behind in Egypt (Simeon bound before their eyes)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שָׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַיִּקַּ֤ח מֵֽאִתָּם֙
-    אֶת שִׁמְע֔וֹן וַיֶּאֱסֹ֥ר אֹת֖וֹ לְעֵינֵיהֶֽם
-- tradition: islam
-  ref: Quran 12:80
-  note: One brother stays behind in Egypt (the eldest stays of his own accord)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ
-    أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ فَلَنْ
-    أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ
 - tradition: judaism
   ref: Gen 42:6
   note: Family prostrates before the hero, fulfilling the dream (brothers bow face to the ground; Joseph
@@ -182,51 +182,29 @@ passages:
   text: قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ فَٱللَّهُ
     خَيْرٌ حَٰفِظًا وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 evidence:
-- text: 'Shared motifs, rarest first: Their payment is secretly returned in their bags (weight 6.0); Brothers
-    come for grain and do not recognize the hero (weight 6.0); Hero demands they bring their youngest
-    brother (weight 6.0); One brother stays behind in Egypt (weight 6.0); Family prostrates before the
-    hero, fulfilling the dream (weight 5.8); A brother or the brothers give the father a pledge for the
-    youngest (weight 5.8); Father refuses at first to send the youngest (weight 5.6). Pair score 41.1.'
+- text: 'Shared motifs, rarest first: Brothers come for grain and do not recognize the hero (weight 6.0);
+    One brother stays behind in Egypt (weight 6.0); Their payment is secretly returned in their bags (weight
+    6.0); Hero demands they bring their youngest brother (weight 6.0); Family prostrates before the hero,
+    fulfilling the dream (weight 5.8); A brother or the brothers give the father a pledge for the youngest
+    (weight 5.8); Father refuses at first to send the youngest (weight 5.6). Pair score 41.1.'
   basis: reading
-- text: 'Only in The brothers'' first journey to Egypt: Brothers confess their old crime in front of the
-    victim without knowing he hears them; Famine forces the family to go down to Egypt; Father says losing
-    his son will bring his grey hairs down to Sheol in sorrow; Hero turns aside or withdraws to weep unseen
-    before his brothers; Hero speaks through an interpreter so the others do not know he understands them;
-    Hero swears ''by the life of Pharaoh''; Hero accuses his brothers of being spies; Brothers held in
-    custody for three days.'
+- text: 'Only in The brothers'' first journey to Egypt: Hero speaks through an interpreter so the others
+    do not know he understands them; Hero swears ''by the life of Pharaoh''; Brothers held in custody
+    for three days; Brothers confess their old crime in front of the victim without knowing he hears them;
+    Father refuses at first to send the youngest [divergence between the texts]; Hero turns aside or withdraws
+    to weep unseen before his brothers; Their payment is secretly returned in their bags [divergence between
+    the texts]; One brother stays behind in Egypt [divergence between the texts]; Hero accuses his brothers
+    of being spies; Hero accuses his brothers of being spies [divergence between the texts]; Father says
+    losing his son will bring his grey hairs down to Sheol in sorrow; Famine forces the family to go down
+    to Egypt.'
   basis: reading
-- text: 'Only in Joseph in the Quran (Surah 12): Foster parent says: perhaps he will benefit us, or we
-    will take him as a son; Seduction attempt when the two are alone in the house; Birds eat bread from
-    on top of the dreamer''s head; Brothers bring the hero''s garment with false blood; Hero bought by
-    an Egyptian official; Brothers persuade the reluctant father to send the hero with them; Brothers,
-    out of envy, plot to kill the hero; Brothers come to their father at night, weeping; Hero cast into
-    a pit or well; The king''s experts cannot interpret the dream; The freed prisoner remembers the hero
-    and recommends him; God''s favor rests on the hero while he is a slave or prisoner; God reassures
-    the hero in the pit; Dream of sun, moon and eleven stars bowing to the hero; Hero reveals himself
-    to the youngest brother first; The woman falsely accuses the hero of assault; The whole family moves
-    to Egypt; Plan to store grain in the good years for the famine years; The father''s eyesight fails;
-    Father loves the hero more than his brothers; Father revives on hearing the hero lives; Father does
-    not believe the brothers'' story; Father recognizes his son''s scent; Father warns the hero not to
-    tell his dream to his brothers; The freed prisoner forgets the hero for years; Hero''s garment becomes
-    evidence in the seduction episode; Hero''s garment restores the father''s sight; Hero placed over
-    the land''s storehouses or the kingdom; Hero''s beauty is remarked on; Hero refuses release until
-    his innocence is established; Hero forgives his brothers; Hero thrown into prison; Hero nearly yields
-    but a sign from God stops him; Hero prays to die in submission and join the righteous; Hero preaches
-    monotheism to his fellow prisoners; Hero prays that prison is preferable to sin; Hero refuses, citing
-    loyalty to his master and to God; Hero reveals his identity to his brothers; Hero declares that God
-    turned the brothers'' deed to good; Hero attributes his dream interpretation to God; King dreams of
-    seven fat cows eaten by seven lean, and seven green ears and seven dry; The husband recognizes his
-    wife''s guilt; The master''s wife tries to seduce the hero; A brother offers himself or another in
-    place of the youngest; One brother talks the others out of killing him; One prisoner is restored,
-    the other executed and his body exposed; Hero''s cup is hidden in the youngest brother''s bag; Two
-    fellow prisoners dream of pressing wine and carrying bread; Hero asks the freed prisoner to mention
-    him to the king; A passing caravan takes the hero from the pit; Hero meets and embraces his father;
-    Search proceeds through the others'' bags before the youngest''s; Father tells the sons to enter by
-    separate gates; Hero sold for a small sum of silver; Brothers pursued and accused of theft; The brothers
-    themselves name the thief''s penalty; The wife confesses the hero''s innocence; A wild animal is blamed
-    for the hero''s death; A witness proposes judging by where the shirt is torn; Women dazzled by the
-    hero cut their hands; Women of the city gossip about the wife''s passion; A year of rain and relief
-    follows the famine.'
+- text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
+    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
+    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
+    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
+    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
+    to sin; The husband recognizes his wife''s guilt; and 50 more.'
   basis: reading
 - text: 'The brothers'' first journey to Egypt: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -1,0 +1,76 @@
+---
+id: motif-hb-isa-25-banquet-and-death-swallowed-vs-quran-44-dukhan-zaqqum-and-garden
+title: Thanksgiving; the feast on the mountain; death swallowed forever ↔ Deniers demand their fathers;
+  the people of Tubba'; the tree of Zaqqum; silk, brocade and the houris
+summary: 'These two units share 1 motifs: in paradise they taste no death except the first death.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- no-death-in-paradise-but-first
+passages:
+- tradition: judaism
+  ref: Isa 25:8
+  note: 'In paradise they taste no death except the first death (No more death for the saved: billaʿ ham-māweṯ
+    lā-neṣaḥ ... û-māḥâ ... dimʿâ mēʿal kol pānîm vs. lā yadhūqūna fīhā l-mawta illā l-mawtata l-ūlā.
+    Isaiah: death swallowed for all peoples at the mountain feast; Quran: the blessed in the Garden, after
+    their first death.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: בִּלַּ֤ע הַמָּ֨וֶת֙ לָנֶ֔צַח וּמָחָ֨ה אֲדֹנָ֧י יְהוִ֛ה דִּמְעָ֖ה מֵעַ֣ל כָּל פָּנִ֑ים וְחֶרְפַּ֣ת
+    עַמּ֗וֹ יָסִיר֙ מֵעַ֣ל כָּל הָאָ֔רֶץ כִּ֥י יְהוָ֖ה דִּבֵּֽר
+- tradition: islam
+  ref: Quran 44:56
+  note: In paradise they taste no death except the first death
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
+    echo. No more death for the saved: billaʿ ham-māweṯ lā-neṣaḥ ... û-māḥâ ... dimʿâ mēʿal kol pānîm
+    vs. lā yadhūqūna fīhā l-mawta illā l-mawtata l-ūlā. Isaiah: death swallowed for all peoples at the
+    mountain feast; Quran: the blessed in the Garden, after their first death.'
+  basis: reading
+- text: 'Shared motifs, rarest first: In paradise they taste no death except the first death (weight 6.7).
+    Pair score 6.7.'
+  basis: reading
+- text: 'Only in Thanksgiving; the feast on the mountain; death swallowed forever: God will swallow up
+    death forever (bila ha-mavet la-netsah); On this mountain YHWH makes for all peoples a feast of rich
+    foods and well-aged wines; God turned the city into a heap, the foreigners'' palace never to be rebuilt;
+    strong peoples fear him; God is a stronghold for the poor, refuge from the storm and shade from the
+    heat; The Lord YHWH will wipe away tears from all faces and remove his people''s disgrace; Moab trampled
+    like straw in a dung-pit, spreading his hands like a swimmer; ''Behold, this is our God; we waited
+    for him and he saved us''; God swallows the shroud (lot) and veil spread over all peoples.'
+  basis: reading
+- text: 'Only in Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade
+    and the houris: The Day of Sorting/Decision (yawm al-fasl) is the appointed time for all; The blessed
+    wear fine silk (sundus) and brocade (istabraq), facing one another on couches; God has made the revelation
+    easy in the prophet''s own tongue so they may remember; Angels drag the sinner into the midst of hellfire
+    and pour boiling water (hamim) over his head; Death as final, voiced by a sufferer or by deniers of
+    resurrection [divergence between the texts]; Deniers of resurrection say there is only our first death
+    and challenge the prophet to bring back their fathers; In hell the unbelievers are cut garments of
+    fire and boiling water is poured on their heads, melting their insides and skins; The damned man is
+    taunted: ''Taste! You are the mighty, the noble!''; On that day no patron (mawla) can avail his client
+    at all; The people of Tubba'' (the Himyarite kings of Yemen) as a destroyed people; A tree whose fruit
+    is food, in Eden or in hell [contrast between the texts]; Neither their silver nor their gold can
+    save them on the day of YHWH''s wrath; and 4 more.'
+  basis: reading
+- text: 'Thanksgiving; the feast on the mountain; death swallowed forever: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade and the
+    houris: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

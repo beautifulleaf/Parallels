@@ -6,8 +6,8 @@ summary: 'These two units share 1 motifs: a prophet commissioned by god flees ''
   rather than deliver the message.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -43,6 +43,10 @@ passages:
   text: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ
     أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
+    parallel. wayyāqom yônâ librōaḥ taršîšâ millipnê YHWH; wa-dha n-nūni idh dhahaba mughāḍiban fa-ẓanna
+    an lan naqdira ʿalayh: the prophet runs from God, thinking he can escape God''s reach.'
+  basis: reading
 - text: 'Shared motifs, rarest first: A prophet commissioned by God flees ''from the presence of YHWH''
     rather than deliver the message (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -51,23 +55,23 @@ evidence:
     the ship in a storm; Gentile sailors, saved from the storm, fear YHWH, offer sacrifice and make vows;
     God hurls a great wind on the sea and the ship is about to break up; Confession of the God of heaven
     who made the sea and the dry land; The wickedness of a great city rises up before God, who sends a
-    prophet to cry against it; Sailors cast lots to learn on whose account the disaster has come, and
-    the lot falls on the prophet; A man is thrown into the sea at his own request so that the storm will
+    prophet to cry against it; A man is thrown into the sea at his own request so that the storm will
     cease, and the sea grows calm; Those about to kill a man pray that God not hold his innocent blood
-    against them; Jonah son of Amittai of Gath-hepher appears as a prophet of national restoration; Destruction
-    motivated by human wickedness or violence; The sailors row hard to bring the ship back to land but
-    cannot against the storm; In the storm the sailors each cry out to their own god; Strangers question
-    the hero: your occupation, where you come from, your land and your people; Hero goes down to Joppa,
-    pays the fare and boards a ship bound for Tarshish; A man of God lies fast asleep in the hold while
-    the storm threatens the ship, and is woken by others; Lot or Urim-Thummim cast to identify the guilty
-    party (tamim).'
+    against them; The sailors row hard to bring the ship back to land but cannot against the storm; In
+    the storm the sailors each cry out to their own god; Strangers question the hero: your occupation,
+    where you come from, your land and your people; Hero goes down to Joppa, pays the fare and boards
+    a ship bound for Tarshish; and 11 more.'
   basis: reading
-- text: 'Only in Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun, Zechariah and Mary: The patriarch''s wife is
-    barren; A prophet called Dhū l-Kifl is listed among the patient; God restores the righteous sufferer''s
-    fortunes and gives him twice what he had; Husband prays for his barren wife and she conceives; A prophet
-    named Idrīs is mentioned among the righteous; The man of the fish (Dhū l-Nūn) cries from the darknesses
-    ''There is no god but you; I was a wrongdoer'' and is saved; God breathed of his spirit into the woman
-    who guarded her chastity.'
+- text: 'Only in Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun, Zechariah and Mary: A prophet called Dhū l-Kifl
+    is listed among the patient; God restores the righteous sufferer''s fortunes and gives him twice what
+    he had [divergence between the texts]; A prophet named Idrīs is mentioned among the righteous; The
+    man of the fish (Dhū l-Nūn) cries from the darknesses ''There is no god but you; I was a wrongdoer''
+    and is saved [divergence between the texts]; A prophet commissioned by God flees ''from the presence
+    of YHWH'' rather than deliver the message [divergence between the texts]; God breathed of his spirit
+    into the woman who guarded her chastity; God restores the righteous sufferer''s fortunes and gives
+    him twice what he had; Husband prays for his barren wife and she conceives; The man of the fish (Dhū
+    l-Nūn) cries from the darknesses ''There is no god but you; I was a wrongdoer'' and is saved; The
+    patriarch''s wife is barren.'
   basis: reading
 - text: 'Jonah flees to Tarshish and is thrown into the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

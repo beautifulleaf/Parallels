@@ -1,0 +1,96 @@
+---
+id: motif-hb-gen-38-judah-tamar-vs-quran-33-marriage-rules
+title: Judah and Tamar ↔ Divorce before consummation; the prophet's marriages; the curtain and the cloaks
+summary: 'These two units share 1 motifs: what a woman''s veil or cloak signals to men who see her [contrast
+  between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- what-a-womans-covering-signals-as-contrast
+passages:
+- tradition: judaism
+  ref: Gen 38:14
+  note: 'What a woman''s veil or cloak signals to men who see her [contrast between the texts] (What a
+    covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ pānêhā. The veiled
+    woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā an yuʿrafna fa-lā
+    yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning of the covering
+    is reversed.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתָּסַר֩ בִּגְדֵ֨י אַלְמְנוּתָ֜הּ מֵֽעָלֶ֗יהָ וַתְּכַ֤ס בַּצָּעִיף֙ וַתִּתְעַלָּ֔ף וַתֵּ֨שֶׁב֙
+    בְּפֶ֣תַח עֵינַ֔יִם אֲשֶׁ֖ר עַל דֶּ֣רֶךְ תִּמְנָ֑תָה כִּ֤י רָאֲתָה֙ כִּֽי גָדַ֣ל שֵׁלָ֔ה וְהִ֕וא לֹֽא
+    נִתְּנָ֥ה ל֖וֹ לְאִשָּֽׁה
+- tradition: judaism
+  ref: Gen 38:15
+  note: 'What a woman''s veil or cloak signals to men who see her [contrast between the texts] (What a
+    covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ pānêhā. The veiled
+    woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā an yuʿrafna fa-lā
+    yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning of the covering
+    is reversed.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּרְאֶ֣הָ יְהוּדָ֔ה וַֽיַּחְשְׁבֶ֖הָ לְזוֹנָ֑ה כִּ֥י כִסְּתָ֖ה פָּנֶֽיהָ
+- tradition: islam
+  ref: Quran 33:59
+  note: 'What a woman''s veil or cloak signals to men who see her [contrast between the texts] (What a
+    covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ pānêhā. The veiled
+    woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā an yuʿrafna fa-lā
+    yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning of the covering
+    is reversed.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ
+    مِن جَلَٰبِيبِهِنَّ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    contrast. What a covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ
+    pānêhā. The veiled woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā
+    an yuʿrafna fa-lā yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning
+    of the covering is reversed.'
+  basis: reading
+- text: 'Shared motifs, rarest first: What a woman''s veil or cloak signals to men who see her [contrast
+    between the texts] (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Judah and Tamar: A woman accused of harlotry is sentenced to be burned; Man spills his
+    seed on the ground to avoid raising offspring for his dead brother and is struck dead; God kills a
+    man for unspecified wickedness; A kid of the goats promised as a harlot''s hire; Seal, cord and staff
+    left as a pledge, later used as proof of paternity; A roadside harlot referred to as a qedeshah (''consecrated
+    woman''); Midwife ties a scarlet thread on the hand of the twin who emerges first; Man acknowledges
+    the wronged woman: ''She is more righteous than I''; Twins contend at birth over who emerges first;
+    A widow veils herself, sits by the road and is taken for a harlot by her father-in-law; Father-in-law
+    withholds his youngest son from the widow, fearing he too will die; Evidence presented with the formula
+    ''Please recognize (haker na)'' whose is this; and 2 more.'
+  basis: reading
+- text: 'Only in Divorce before consummation; the prophet''s marriages; the curtain and the cloaks: A
+    wife divorced before consummation owes no waiting period (''idda); give her a gift and release her
+    gracefully; Enter the prophet''s houses only when invited to a meal and leave after; ask his wives
+    from behind a curtain (hijab); Special marriage rules for the prophet: lawful wives, captives, named
+    cousins who emigrated, and a woman who gives herself; afterwards no more wives; God and his angels
+    bless (yusalluna ''ala) the prophet; believers are told to bless him and greet him with peace; How
+    a husband sends away a divorced wife (document, gift, waiting period) [divergence between the texts];
+    Limits on how many wives the leader may take [contrast between the texts]; Limits on how many wives
+    the leader may take [divergence between the texts]; Believing women are to draw their outer cloaks
+    (jalabib) over themselves so they are recognized and not harmed; The prophet''s wives are the mothers
+    of the believers and may not be married after him; The way (sunna) of God with those who passed before:
+    you will find no change in God''s way; King must not multiply horses, wives or silver and gold, nor
+    return the people to Egypt.'
+  basis: reading
+- text: 'Judah and Tamar: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Divorce before consummation; the prophet''s marriages; the curtain and the cloaks: tagged by
+    Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

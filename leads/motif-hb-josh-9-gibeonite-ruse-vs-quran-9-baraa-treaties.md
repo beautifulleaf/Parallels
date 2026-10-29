@@ -1,0 +1,96 @@
+---
+id: motif-hb-josh-9-gibeonite-ruse-vs-quran-9-baraa-treaties
+title: The Gibeonites trick Israel into a treaty ↔ The disavowal - treaties, sacred months and asylum
+summary: 'These two units share 1 motifs: treaties with those who kept them are honored until their term.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- honor-treaty-until-its-term
+passages:
+- tradition: judaism
+  ref: Josh 9:19
+  note: 'Treaties with those who kept them are honored until their term (A sworn pact with a people otherwise
+    marked for war is kept: illā lladhīna ʿāhadtum mina l-mushrikīna thumma lam yanquṣūkum shayʾan ...
+    fa-atimmū ilayhim ʿahdahum vs ʾănaḥnû nišbaʿnû lāhem baYHWH ... lōʾ nûkal lingōaʿ bāhem ... wᵉlōʾ-yihyeh
+    ʿālênû qeṣep ʿal-haššᵉbûʿāh. In Josh the oath holds although it was obtained by deceit; in Q only
+    while the partner stays faithful.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמְר֤וּ כָל הַנְּשִׂיאִים֙ אֶל כָּל הָ֣עֵדָ֔ה אֲנַ֨חְנוּ֙ נִשְׁבַּ֣עְנוּ לָהֶ֔ם בַּֽיהוָ֖ה
+    אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְעַתָּ֕ה לֹ֥א נוּכַ֖ל לִנְגֹּ֥עַ בָּהֶֽם
+- tradition: judaism
+  ref: Josh 9:20
+  note: 'Treaties with those who kept them are honored until their term (A sworn pact with a people otherwise
+    marked for war is kept: illā lladhīna ʿāhadtum mina l-mushrikīna thumma lam yanquṣūkum shayʾan ...
+    fa-atimmū ilayhim ʿahdahum vs ʾănaḥnû nišbaʿnû lāhem baYHWH ... lōʾ nûkal lingōaʿ bāhem ... wᵉlōʾ-yihyeh
+    ʿālênû qeṣep ʿal-haššᵉbûʿāh. In Josh the oath holds although it was obtained by deceit; in Q only
+    while the partner stays faithful.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: זֹ֛את נַעֲשֶׂ֥ה לָהֶ֖ם וְהַחֲיֵ֣ה אוֹתָ֑ם וְלֹֽא יִֽהְיֶ֤ה עָלֵ֨ינוּ֙ קֶ֔צֶף עַל הַשְּׁבוּעָ֖ה
+    אֲשֶׁר נִשְׁבַּ֥עְנוּ לָהֶֽם
+- tradition: islam
+  ref: Quran 9:4
+  note: Treaties with those who kept them are honored until their term
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَٰهِرُوا۟
+    عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
+- tradition: islam
+  ref: Quran 9:7
+  note: Treaties with those who kept them are honored until their term
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ
+    عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ
+    ٱلْمُتَّقِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    parallel. A sworn pact with a people otherwise marked for war is kept: illā lladhīna ʿāhadtum mina
+    l-mushrikīna thumma lam yanquṣūkum shayʾan ... fa-atimmū ilayhim ʿahdahum vs ʾănaḥnû nišbaʿnû lāhem
+    baYHWH ... lōʾ nûkal lingōaʿ bāhem ... wᵉlōʾ-yihyeh ʿālênû qeṣep ʿal-haššᵉbûʿāh. In Josh the oath
+    holds although it was obtained by deceit; in Q only while the partner stays faithful.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Treaties with those who kept them are honored until their term (weight
+    6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in The Gibeonites trick Israel into a treaty: A people is cursed to perpetual slavery; Locals
+    disguise themselves with worn clothes and old provisions to pass as travelers from a far country;
+    Leaders make a decision without asking the oracle of YHWH; A subject people made perpetual woodcutters
+    and water-drawers for the sanctuary; Dry, crumbled bread shown as proof of a long journey; The congregation
+    grumbles against its chiefs over a decision; The kings of the land form a coalition against Israel;
+    Foreigners have heard the fame of Israel''s God and what he did in Egypt; Those allied by treaty or
+    who withdraw and offer peace may not be attacked; An oath sworn by God stays binding even though obtained
+    by deceit; Sacrifice only at the place God will choose to make his name dwell.'
+  basis: reading
+- text: 'Only in The disavowal - treaties, sacred months and asylum: A polytheist who seeks protection
+    is given asylum to hear God''s word, then escorted to safety; God and his messenger proclaim their
+    disavowal (bara''a) of the polytheists at the greater pilgrimage; Treaty partners are given four months
+    to move freely in the land before hostilities; If enemies repent, pray and give alms, let them go
+    their way: they are brothers in religion; A surah begins without the formula ''In the name of God,
+    the Merciful, the Compassionate''; Four of the twelve months are sacred; God punishes the enemy by
+    the believers'' hands and heals the believers'' breasts; Protection for someone who seeks refuge [divergence
+    between the texts]; Treaties with idolatrous peoples [contrast between the texts]; War on the idolatrous
+    inhabitants: total destruction or a way out [contrast between the texts]; Most of the peoples were
+    found without fidelity to their covenant; Unbelievers plot to confine, kill or expel the prophet,
+    but God plots too; and 1 more.'
+  basis: reading
+- text: 'The Gibeonites trick Israel into a treaty: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The disavowal - treaties, sacred months and asylum: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

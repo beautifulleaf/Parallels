@@ -2,9 +2,9 @@
 id: motif-hb-exod-26-tabernacle-structure-vs-hb-exod-35-36-craftsmen-and-surplus
 title: Tabernacle curtains, frames and veil ↔ Bezalel appointed; too many gifts; making of the curtains
   and frames
-summary: 'These two units share 8 motifs: an embroidered screen at the entrance of the tent or court,
-  a middle bar runs through the frames from end to end, tabernacle walls of acacia frames set in silver
-  sockets, eleven goat-hair curtains form the tent over the tabernacle….'
+summary: 'These two units share 8 motifs: eleven goat-hair curtains form the tent over the tabernacle,
+  an embroidered screen at the entrance of the tent or court, outer coverings of red-dyed ram skins and
+  tahash skins, a middle bar runs through the frames from end to end….'
 status: new
 relations:
 - internal
@@ -14,15 +14,43 @@ traditions:
 layers:
 - motif
 motifs:
-- embroidered-entrance-screen
-- middle-bar-end-to-end
-- acacia-frames-on-silver-bases
 - eleven-goat-hair-curtains
+- embroidered-entrance-screen
 - layered-coverings-ram-skin-tahash
+- middle-bar-end-to-end
 - fifty-loops-and-clasps
-- tabernacle-curtains-with-cherubim
+- acacia-frames-on-silver-bases
 - veil-separating-holy-of-holies
+- tabernacle-curtains-with-cherubim
 passages:
+- tradition: judaism
+  ref: Exod 26:7
+  note: Eleven goat-hair curtains form the tent over the tabernacle
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְעָשִׂ֨יתָ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל הַמִּשְׁכָּ֑ן עַשְׁתֵּי עֶשְׂרֵ֥ה יְרִיעֹ֖ת תַּעֲשֶׂ֥ה
+    אֹתָֽם
+- tradition: judaism
+  ref: Exod 26:8
+  note: Eleven goat-hair curtains form the tent over the tabernacle
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֹ֣רֶךְ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה
+    הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת
+- tradition: judaism
+  ref: Exod 36:14
+  note: Eleven goat-hair curtains form the tent over the tabernacle
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֨עַשׂ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל הַמִּשְׁכָּ֑ן עַשְׁתֵּֽי עֶשְׂרֵ֥ה יְרִיעֹ֖ת עָשָׂ֥ה
+    אֹתָֽם
+- tradition: judaism
+  ref: Exod 36:15
+  note: Eleven goat-hair curtains form the tent over the tabernacle
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֹ֜רֶךְ הַיְרִיעָ֣ה הָאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְאַרְבַּ֣ע אַמּ֔וֹת רֹ֖חַב הַיְרִיעָ֣ה הָאֶחָ֑ת
+    מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת
 - tradition: judaism
   ref: Exod 26:36
   note: An embroidered screen at the entrance of the tent or court
@@ -52,6 +80,18 @@ passages:
   text: וְאֶת עַמּוּדָ֤יו חֲמִשָּׁה֙ וְאֶת וָ֣וֵיהֶ֔ם וְצִפָּ֧ה רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם זָהָ֑ב וְאַדְנֵיהֶ֥ם
     חֲמִשָּׁ֖ה נְחֹֽשֶׁת
 - tradition: judaism
+  ref: Exod 26:14
+  note: Outer coverings of red-dyed ram skins and tahash skins
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְעָשִׂ֤יתָ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה
+- tradition: judaism
+  ref: Exod 36:19
+  note: Outer coverings of red-dyed ram skins and tahash skins
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֤עַשׂ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵלִ֖ים מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה
+- tradition: judaism
   ref: Exod 26:28
   note: A middle bar runs through the frames from end to end
   lang: he
@@ -63,6 +103,36 @@ passages:
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: וַיַּ֖עַשׂ אֶת הַבְּרִ֣יחַ הַתִּיכֹ֑ן לִבְרֹ֨חַ֙ בְּת֣וֹךְ הַקְּרָשִׁ֔ים מִן הַקָּצֶ֖ה אֶל הַקָּצֶֽה
+- tradition: judaism
+  ref: Exod 26:5
+  note: Curtains joined by fifty loops and fifty clasps (gold clasps on inner curtains, bronze on goat-hair
+    tent)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֙ בִּקְצֵ֣ה
+    הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אִשָּׁ֖ה אֶל אֲחֹתָֽהּ
+- tradition: judaism
+  ref: Exod 26:6
+  note: Curtains joined by fifty loops and fifty clasps (gold clasps on inner curtains, bronze on goat-hair
+    tent)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְעָשִׂ֕יתָ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וְחִבַּרְתָּ֨ אֶת הַיְרִיעֹ֜ת אִשָּׁ֤ה אֶל אֲחֹתָהּ֙ בַּקְּרָסִ֔ים
+    וְהָיָ֥ה הַמִּשְׁכָּ֖ן אֶחָֽד
+- tradition: judaism
+  ref: Exod 36:12
+  note: Curtains joined by fifty loops and fifty clasps
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: חֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה
+    אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אַחַ֖ת אֶל אֶחָֽת
+- tradition: judaism
+  ref: Exod 36:13
+  note: Curtains joined by fifty loops and fifty clasps
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּ֕עַשׂ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וַיְחַבֵּ֨ר אֶת הַיְרִעֹ֜ת אַחַ֤ת אֶל אַחַת֙ בַּקְּרָסִ֔ים
+    וַֽיְהִ֥י הַמִּשְׁכָּ֖ן אֶחָֽד
 - tradition: judaism
   ref: Exod 26:15-25
   note: Tabernacle walls of acacia frames set in silver sockets (two tenons per frame, two silver sockets)
@@ -101,75 +171,33 @@ passages:
     כֵּ֚ן עָשָׂ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֖י הַמִּקְצֹעֹֽת (36:30) וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם
     כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֤י אֲדָנִים֙ שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד
 - tradition: judaism
-  ref: Exod 26:7
-  note: Eleven goat-hair curtains form the tent over the tabernacle
+  ref: Exod 26:31
+  note: A veil (parokhet) divides the holy place from the holy of holies
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וְעָשִׂ֨יתָ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל הַמִּשְׁכָּ֑ן עַשְׁתֵּי עֶשְׂרֵ֥ה יְרִיעֹ֖ת תַּעֲשֶׂ֥ה
-    אֹתָֽם
+  text: וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה
+    חֹשֵׁ֛ב יַעֲשֶׂ֥ה אֹתָ֖הּ כְּרֻבִֽים
 - tradition: judaism
-  ref: Exod 26:8
-  note: Eleven goat-hair curtains form the tent over the tabernacle
+  ref: Exod 26:33
+  note: A veil (parokhet) divides the holy place from the holy of holies
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: אֹ֣רֶךְ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה
-    הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת
+  text: וְנָתַתָּ֣ה אֶת הַפָּרֹכֶת֮ תַּ֣חַת הַקְּרָסִים֒ וְהֵבֵאתָ֥ שָׁ֨מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת
+    אֲר֣וֹן הָעֵד֑וּת וְהִבְדִּילָ֤ה הַפָּרֹ֨כֶת֙ לָכֶ֔ם בֵּ֣ין הַקֹּ֔דֶשׁ וּבֵ֖ין קֹ֥דֶשׁ הַקֳּדָשִֽׁים
 - tradition: judaism
-  ref: Exod 36:14
-  note: Eleven goat-hair curtains form the tent over the tabernacle
+  ref: Exod 36:35
+  note: A veil (parokhet) divides the holy place from the holy of holies
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַשׂ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל הַמִּשְׁכָּ֑ן עַשְׁתֵּֽי עֶשְׂרֵ֥ה יְרִיעֹ֖ת עָשָׂ֥ה
-    אֹתָֽם
+  text: וַיַּ֨עַשׂ֙ אֶת הַפָּרֹ֔כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה
+    חֹשֵׁ֛ב עָשָׂ֥ה אֹתָ֖הּ כְּרֻבִֽים
 - tradition: judaism
-  ref: Exod 36:15
-  note: Eleven goat-hair curtains form the tent over the tabernacle
+  ref: Exod 36:36
+  note: A veil (parokhet) divides the holy place from the holy of holies
   lang: he
   source: Westminster Leningrad Codex (OSHB)
-  text: אֹ֜רֶךְ הַיְרִיעָ֣ה הָאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְאַרְבַּ֣ע אַמּ֔וֹת רֹ֖חַב הַיְרִיעָ֣ה הָאֶחָ֑ת
-    מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת
-- tradition: judaism
-  ref: Exod 26:14
-  note: Outer coverings of red-dyed ram skins and tahash skins
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָשִׂ֤יתָ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה
-- tradition: judaism
-  ref: Exod 36:19
-  note: Outer coverings of red-dyed ram skins and tahash skins
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤עַשׂ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵלִ֖ים מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה
-- tradition: judaism
-  ref: Exod 26:5
-  note: Curtains joined by fifty loops and fifty clasps (gold clasps on inner curtains, bronze on goat-hair
-    tent)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֙ בִּקְצֵ֣ה
-    הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אִשָּׁ֖ה אֶל אֲחֹתָֽהּ
-- tradition: judaism
-  ref: Exod 26:6
-  note: Curtains joined by fifty loops and fifty clasps (gold clasps on inner curtains, bronze on goat-hair
-    tent)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָשִׂ֕יתָ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וְחִבַּרְתָּ֨ אֶת הַיְרִיעֹ֜ת אִשָּׁ֤ה אֶל אֲחֹתָהּ֙ בַּקְּרָסִ֔ים
-    וְהָיָ֥ה הַמִּשְׁכָּ֖ן אֶחָֽד
-- tradition: judaism
-  ref: Exod 36:12
-  note: Curtains joined by fifty loops and fifty clasps
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה
-    אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אַחַ֖ת אֶל אֶחָֽת
-- tradition: judaism
-  ref: Exod 36:13
-  note: Curtains joined by fifty loops and fifty clasps
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֕עַשׂ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וַיְחַבֵּ֨ר אֶת הַיְרִעֹ֜ת אַחַ֤ת אֶל אַחַת֙ בַּקְּרָסִ֔ים
-    וַֽיְהִ֥י הַמִּשְׁכָּ֖ן אֶחָֽד
+  text: וַיַּ֣עַשׂ לָ֗הּ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וַיְצַפֵּ֣ם זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וַיִּצֹ֣ק
+    לָהֶ֔ם אַרְבָּעָ֖ה אַדְנֵי כָֽסֶף
 - tradition: judaism
   ref: Exod 26:1
   note: Tabernacle curtains or veil woven with cherubim
@@ -198,51 +226,24 @@ passages:
   source: Westminster Leningrad Codex (OSHB)
   text: וַיַּ֨עַשׂ֙ אֶת הַפָּרֹ֔כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה
     חֹשֵׁ֛ב עָשָׂ֥ה אֹתָ֖הּ כְּרֻבִֽים
-- tradition: judaism
-  ref: Exod 26:31
-  note: A veil (parokhet) divides the holy place from the holy of holies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה
-    חֹשֵׁ֛ב יַעֲשֶׂ֥ה אֹתָ֖הּ כְּרֻבִֽים
-- tradition: judaism
-  ref: Exod 26:33
-  note: A veil (parokhet) divides the holy place from the holy of holies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתָּ֣ה אֶת הַפָּרֹכֶת֮ תַּ֣חַת הַקְּרָסִים֒ וְהֵבֵאתָ֥ שָׁ֨מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת
-    אֲר֣וֹן הָעֵד֑וּת וְהִבְדִּילָ֤ה הַפָּרֹ֨כֶת֙ לָכֶ֔ם בֵּ֣ין הַקֹּ֔דֶשׁ וּבֵ֖ין קֹ֥דֶשׁ הַקֳּדָשִֽׁים
-- tradition: judaism
-  ref: Exod 36:35
-  note: A veil (parokhet) divides the holy place from the holy of holies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַשׂ֙ אֶת הַפָּרֹ֔כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה
-    חֹשֵׁ֛ב עָשָׂ֥ה אֹתָ֖הּ כְּרֻבִֽים
-- tradition: judaism
-  ref: Exod 36:36
-  note: A veil (parokhet) divides the holy place from the holy of holies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ לָ֗הּ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וַיְצַפֵּ֣ם זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וַיִּצֹ֣ק
-    לָהֶ֔ם אַרְבָּעָ֖ה אַדְנֵי כָֽסֶף
 evidence:
-- text: 'Shared motifs, rarest first: An embroidered screen at the entrance of the tent or court (weight
-    6.7); A middle bar runs through the frames from end to end (weight 6.7); Tabernacle walls of acacia
-    frames set in silver sockets (weight 6.7); Eleven goat-hair curtains form the tent over the tabernacle
-    (weight 6.7); Outer coverings of red-dyed ram skins and tahash skins (weight 6.7); Curtains joined
-    by fifty loops and fifty clasps (weight 6.7); Tabernacle curtains or veil woven with cherubim (weight
-    6.3); A veil (parokhet) divides the holy place from the holy of holies (weight 6.3). Pair score 52.7.'
+- text: 'Shared motifs, rarest first: Eleven goat-hair curtains form the tent over the tabernacle (weight
+    6.7); An embroidered screen at the entrance of the tent or court (weight 6.7); Outer coverings of
+    red-dyed ram skins and tahash skins (weight 6.7); A middle bar runs through the frames from end to
+    end (weight 6.7); Curtains joined by fifty loops and fifty clasps (weight 6.7); Tabernacle walls of
+    acacia frames set in silver sockets (weight 6.7); A veil (parokhet) divides the holy place from the
+    holy of holies (weight 6.3); Tabernacle curtains or veil woven with cherubim (weight 6.3). Pair score
+    52.7.'
   basis: reading
-- text: 'Only in Tabernacle curtains, frames and veil: The sanctuary is built after a pattern shown by
-    God on the mountain; The innermost room, the holy of holies, holds the ark; The lampstand stands on
-    the south side and the table on the north; Covering of tahash skins (an unidentified animal).'
+- text: 'Only in Tabernacle curtains, frames and veil: The lampstand stands on the south side and the
+    table on the north; The innermost room, the holy of holies, holds the ark; Covering of tahash skins
+    (an unidentified animal); The sanctuary is built after a pattern shown by God on the mountain.'
   basis: reading
-- text: 'Only in Bezalel appointed; too many gifts; making of the curtains and frames: A second craftsman
-    from the tribe of Dan assists the master craftsman; Execution of a divine command is narrated by repeating
-    the command almost verbatim; God calls a master craftsman by name for the sacred work; God fills craftsmen
-    with a spirit of wisdom for sacred work; God gives the master craftsmen the ability to teach others;
-    The people bring more than enough and must be told to stop giving.'
+- text: 'Only in Bezalel appointed; too many gifts; making of the curtains and frames: God gives the master
+    craftsmen the ability to teach others; The people bring more than enough and must be told to stop
+    giving; God calls a master craftsman by name for the sacred work; A second craftsman from the tribe
+    of Dan assists the master craftsman; Execution of a divine command is narrated by repeating the command
+    almost verbatim; God fills craftsmen with a spirit of wisdom for sacred work.'
   basis: reading
 - text: 'Tabernacle curtains, frames and veil: tagged by Claude (model), reading the Hebrew.'
   basis: reading

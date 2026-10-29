@@ -2,13 +2,15 @@
 id: motif-hb-exod-2-moses-birth-flight-midian-vs-quran-28-moses-kills-and-flees
 title: Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel's cry ↔ Moses kills
   the Egyptian, is warned, and flees toward Midian
-summary: 'These two units share 3 motifs: kinsman rebuffs the hero: ''who made you prince and judge over
-  us?'', hero kills an oppressor beating a kinsman and hides the body in the sand, hero flees the king''s
-  death sentence to a foreign land.'
+summary: 'These two units share 7 motifs: how moses killed the egyptian [divergence between the texts],
+  how moses learns that his life is sought [divergence between the texts], kinsman rebuffs the hero: ''who
+  made you prince and judge over us?'', hero kills an oppressor beating a kinsman and hides the body in
+  the sand….'
 status: new
 relations:
-- transmission
 - convergence
+- response
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -16,10 +18,72 @@ traditions:
 layers:
 - motif
 motifs:
+- manner-of-moses-killing-as-divergence
+- how-moses-learns-of-the-threat-as-divergence
 - who-made-you-judge-over-us
 - hero-kills-oppressor-and-hides-body
+- retort-on-the-second-day-as-divergence
+- verdict-on-moses-killing-as-divergence
 - hero-flees-to-foreign-land
 passages:
+- tradition: judaism
+  ref: Exod 2:11
+  note: 'How Moses killed the Egyptian [divergence between the texts] (The killing: Exodus has Moses see
+    an Egyptian beating a Hebrew ''of his brothers'', look this way and that and see no one (wa-yyifen
+    kōh wā-khōh wa-yyarʾ kî ʾên ʾîš), strike him and hide him in the sand. The Quran has him find two
+    men fighting, one of his party (shīʿa) and one of his enemy; at his kinsman''s cry for help he strikes
+    one blow and the man dies (fa-wakazahu Mūsā fa-qaḍā ʿalayhi). There is no looking around and no hiding
+    of the body; the act is unpremeditated.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְהִ֣י בַּיָּמִ֣ים הָהֵ֗ם וַיִּגְדַּ֤ל מֹשֶׁה֙ וַיֵּצֵ֣א אֶל אֶחָ֔יו וַיַּ֖רְא בְּסִבְלֹתָ֑ם
+    וַיַּרְא֙ אִ֣ישׁ מִצְרִ֔י מַכֶּ֥ה אִישׁ עִבְרִ֖י מֵאֶחָֽיו
+- tradition: judaism
+  ref: Exod 2:12
+  note: 'How Moses killed the Egyptian [divergence between the texts] (The killing: Exodus has Moses see
+    an Egyptian beating a Hebrew ''of his brothers'', look this way and that and see no one (wa-yyifen
+    kōh wā-khōh wa-yyarʾ kî ʾên ʾîš), strike him and hide him in the sand. The Quran has him find two
+    men fighting, one of his party (shīʿa) and one of his enemy; at his kinsman''s cry for help he strikes
+    one blow and the man dies (fa-wakazahu Mūsā fa-qaḍā ʿalayhi). There is no looking around and no hiding
+    of the body; the act is unpremeditated.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּ֤פֶן כֹּה֙ וָכֹ֔ה וַיַּ֖רְא כִּ֣י אֵ֣ין אִ֑ישׁ וַיַּךְ֙ אֶת הַמִּצְרִ֔י וַֽיִּטְמְנֵ֖הוּ
+    בַּחֽוֹל
+- tradition: islam
+  ref: Quran 28:15
+  note: 'How Moses killed the Egyptian [divergence between the texts] (The killing: Exodus has Moses see
+    an Egyptian beating a Hebrew ''of his brothers'', look this way and that and see no one (wa-yyifen
+    kōh wā-khōh wa-yyarʾ kî ʾên ʾîš), strike him and hide him in the sand. The Quran has him find two
+    men fighting, one of his party (shīʿa) and one of his enemy; at his kinsman''s cry for help he strikes
+    one blow and the man dies (fa-wakazahu Mūsā fa-qaḍā ʿalayhi). There is no looking around and no hiding
+    of the body; the act is unpremeditated.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ
+    هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنْ عَدُوِّهِۦ فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى
+    مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ إِنَّهُۥ
+    عَدُوٌّ مُّضِلٌّ مُّبِينٌ
+- tradition: judaism
+  ref: Exod 2:15
+  note: 'How Moses learns that his life is sought [divergence between the texts] (How the danger reaches
+    Moses: Exodus has wa-yyišmaʿ Parʿōh ʾet had-dāvār haz-zeh wa-yvaqqēš lahărōg ʾet Mōše, Pharaoh himself;
+    the Quran has the chiefs plotting (al-malaʾa yaʾtamirūna bika li-yaqtulūka) and an unnamed sympathizer
+    running from the far end of the city to warn him (wa-jāʾa rajulun min aqṣā l-madīnati yasʿā).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשְׁמַ֤ע פַּרְעֹה֙ אֶת הַדָּבָ֣ר הַזֶּ֔ה וַיְבַקֵּ֖שׁ לַהֲרֹ֣ג אֶת מֹשֶׁ֑ה וַיִּבְרַ֤ח מֹשֶׁה֙
+    מִפְּנֵ֣י פַרְעֹ֔ה וַיֵּ֥שֶׁב בְּאֶֽרֶץ מִדְיָ֖ן וַיֵּ֥שֶׁב עַֽל הַבְּאֵֽר
+- tradition: islam
+  ref: Quran 28:20
+  note: 'How Moses learns that his life is sought [divergence between the texts] (How the danger reaches
+    Moses: Exodus has wa-yyišmaʿ Parʿōh ʾet had-dāvār haz-zeh wa-yvaqqēš lahărōg ʾet Mōše, Pharaoh himself;
+    the Quran has the chiefs plotting (al-malaʾa yaʾtamirūna bika li-yaqtulūka) and an unnamed sympathizer
+    running from the far end of the city to warn him (wa-jāʾa rajulun min aqṣā l-madīnati yasʿā).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَآءَ رَجُلٌ مِّنْ أَقْصَا ٱلْمَدِينَةِ يَسْعَىٰ قَالَ يَٰمُوسَىٰٓ إِنَّ ٱلْمَلَأَ يَأْتَمِرُونَ
+    بِكَ لِيَقْتُلُوكَ فَٱخْرُجْ إِنِّى لَكَ مِنَ ٱلنَّٰصِحِينَ
 - tradition: judaism
   ref: Exod 2:13
   note: 'Kinsman rebuffs the hero: ''Who made you prince and judge over us?'''
@@ -70,12 +134,117 @@ passages:
     مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ إِنَّهُۥ
     عَدُوٌّ مُّضِلٌّ مُّبِينٌ
 - tradition: judaism
+  ref: Exod 2:13
+  note: 'The retort Moses hears on the day after the killing [divergence between the texts] (The second
+    day: in Exodus two Hebrews (šənê ʾănāšîm ʿIvrîm) fight, Moses rebukes the guilty one, and that Hebrew
+    retorts mî śāməkhā lə-ʾîš śar wə-šōfēṭ ʿālênû ha-lə-hārəgēnî ʾattâ ʾōmēr ka-ʾăšer hāragtā ʾet ham-Miṣrî.
+    In the Quran the same kinsman again calls for help against an enemy, Moses calls the kinsman ''clearly
+    misguided'' (la-ghawiyyun mubīn), and as he moves to strike the enemy he hears a-turīdu an taqtulanī
+    kamā qatalta nafsan bi-l-amsi in turīdu illā an takūna jabbāran fī l-arḍ. ''Prince and judge'' becomes
+    ''tyrant'' (jabbār).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֵּצֵא֙ בַּיּ֣וֹם הַשֵּׁנִ֔י וְהִנֵּ֛ה שְׁנֵֽי אֲנָשִׁ֥ים עִבְרִ֖ים נִצִּ֑ים וַיֹּ֨אמֶר֙ לָֽרָשָׁ֔ע
+    לָ֥מָּה תַכֶּ֖ה רֵעֶֽךָ
+- tradition: judaism
+  ref: Exod 2:14
+  note: 'The retort Moses hears on the day after the killing [divergence between the texts] (The second
+    day: in Exodus two Hebrews (šənê ʾănāšîm ʿIvrîm) fight, Moses rebukes the guilty one, and that Hebrew
+    retorts mî śāməkhā lə-ʾîš śar wə-šōfēṭ ʿālênû ha-lə-hārəgēnî ʾattâ ʾōmēr ka-ʾăšer hāragtā ʾet ham-Miṣrî.
+    In the Quran the same kinsman again calls for help against an enemy, Moses calls the kinsman ''clearly
+    misguided'' (la-ghawiyyun mubīn), and as he moves to strike the enemy he hears a-turīdu an taqtulanī
+    kamā qatalta nafsan bi-l-amsi in turīdu illā an takūna jabbāran fī l-arḍ. ''Prince and judge'' becomes
+    ''tyrant'' (jabbār).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַ֠יֹּאמֶר מִ֣י שָֽׂמְךָ֞ לְאִ֨ישׁ שַׂ֤ר וְשֹׁפֵט֙ עָלֵ֔ינוּ הַלְהָרְגֵ֨נִי֙ אַתָּ֣ה אֹמֵ֔ר כַּאֲשֶׁ֥ר
+    הָרַ֖גְתָּ אֶת הַמִּצְרִ֑י וַיִּירָ֤א מֹשֶׁה֙ וַיֹּאמַ֔ר אָכֵ֖ן נוֹדַ֥ע הַדָּבָֽר
+- tradition: islam
+  ref: Quran 28:18
+  note: 'The retort Moses hears on the day after the killing [divergence between the texts] (The second
+    day: in Exodus two Hebrews (šənê ʾănāšîm ʿIvrîm) fight, Moses rebukes the guilty one, and that Hebrew
+    retorts mî śāməkhā lə-ʾîš śar wə-šōfēṭ ʿālênû ha-lə-hārəgēnî ʾattâ ʾōmēr ka-ʾăšer hāragtā ʾet ham-Miṣrî.
+    In the Quran the same kinsman again calls for help against an enemy, Moses calls the kinsman ''clearly
+    misguided'' (la-ghawiyyun mubīn), and as he moves to strike the enemy he hears a-turīdu an taqtulanī
+    kamā qatalta nafsan bi-l-amsi in turīdu illā an takūna jabbāran fī l-arḍ. ''Prince and judge'' becomes
+    ''tyrant'' (jabbār).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًا يَتَرَقَّبُ فَإِذَا ٱلَّذِى ٱسْتَنصَرَهُۥ بِٱلْأَمْسِ يَسْتَصْرِخُهُۥ
+    قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِىٌّ مُّبِينٌ
+- tradition: islam
+  ref: Quran 28:19
+  note: 'The retort Moses hears on the day after the killing [divergence between the texts] (The second
+    day: in Exodus two Hebrews (šənê ʾănāšîm ʿIvrîm) fight, Moses rebukes the guilty one, and that Hebrew
+    retorts mî śāməkhā lə-ʾîš śar wə-šōfēṭ ʿālênû ha-lə-hārəgēnî ʾattâ ʾōmēr ka-ʾăšer hāragtā ʾet ham-Miṣrî.
+    In the Quran the same kinsman again calls for help against an enemy, Moses calls the kinsman ''clearly
+    misguided'' (la-ghawiyyun mubīn), and as he moves to strike the enemy he hears a-turīdu an taqtulanī
+    kamā qatalta nafsan bi-l-amsi in turīdu illā an takūna jabbāran fī l-arḍ. ''Prince and judge'' becomes
+    ''tyrant'' (jabbār).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّآ أَنْ أَرَادَ أَن يَبْطِشَ بِٱلَّذِى هُوَ عَدُوٌّ لَّهُمَا قَالَ يَٰمُوسَىٰٓ أَتُرِيدُ
+    أَن تَقْتُلَنِى كَمَا قَتَلْتَ نَفْسًۢا بِٱلْأَمْسِ إِن تُرِيدُ إِلَّآ أَن تَكُونَ جَبَّارًا فِى
+    ٱلْأَرْضِ وَمَا تُرِيدُ أَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ
+- tradition: judaism
+  ref: Exod 2:11
+  note: 'How Moses'' killing of the Egyptian is judged [divergence between the texts] (The killing: Exod
+    2:12 wa-yyifen kōh wā-khōh wa-yyarʾ kî ʾên ʾîš wa-yyakh ʾet ham-Miṣrî wa-yyiṭmənēhû ba-ḥôl, deliberate
+    and hidden, to defend a Hebrew (2:11); Q 26:20 faʿaltuhā idhan wa-ana mina ḍ-ḍāllīna, Moses admits
+    he did it while ''astray'', and Pharaoh calls him ungrateful (wa-anta mina l-kāfirīn). Exodus has
+    no confession.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְהִ֣י בַּיָּמִ֣ים הָהֵ֗ם וַיִּגְדַּ֤ל מֹשֶׁה֙ וַיֵּצֵ֣א אֶל אֶחָ֔יו וַיַּ֖רְא בְּסִבְלֹתָ֑ם
+    וַיַּרְא֙ אִ֣ישׁ מִצְרִ֔י מַכֶּ֥ה אִישׁ עִבְרִ֖י מֵאֶחָֽיו
+- tradition: judaism
+  ref: Exod 2:12
+  note: 'How Moses'' killing of the Egyptian is judged [divergence between the texts] (The killing: Exod
+    2:12 wa-yyifen kōh wā-khōh wa-yyarʾ kî ʾên ʾîš wa-yyakh ʾet ham-Miṣrî wa-yyiṭmənēhû ba-ḥôl, deliberate
+    and hidden, to defend a Hebrew (2:11); Q 26:20 faʿaltuhā idhan wa-ana mina ḍ-ḍāllīna, Moses admits
+    he did it while ''astray'', and Pharaoh calls him ungrateful (wa-anta mina l-kāfirīn). Exodus has
+    no confession.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּ֤פֶן כֹּה֙ וָכֹ֔ה וַיַּ֖רְא כִּ֣י אֵ֣ין אִ֑ישׁ וַיַּךְ֙ אֶת הַמִּצְרִ֔י וַֽיִּטְמְנֵ֖הוּ
+    בַּחֽוֹל
+- tradition: islam
+  ref: Quran 28:15
+  note: 'How Moses'' killing of the Egyptian is judged [divergence between the texts] (Moral verdict on
+    the killing: Exodus passes none; Moses only fears exposure (wa-yyîrāʾ Mōše wa-yyōʾmar ʾākhēn nôdaʿ
+    had-dāvār). The Quran has Moses judge it at once, hādhā min ʿamali sh-shayṭān ... rabbi innī ẓalamtu
+    nafsī fa-ghfir lī, and God forgives him (fa-ghafara lahu), so Moses is a repentant penitent before
+    he is a prophet.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ
+    هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنْ عَدُوِّهِۦ فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى
+    مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ إِنَّهُۥ
+    عَدُوٌّ مُّضِلٌّ مُّبِينٌ
+- tradition: islam
+  ref: Quran 28:16
+  note: 'How Moses'' killing of the Egyptian is judged [divergence between the texts] (Moral verdict on
+    the killing: Exodus passes none; Moses only fears exposure (wa-yyîrāʾ Mōše wa-yyōʾmar ʾākhēn nôdaʿ
+    had-dāvār). The Quran has Moses judge it at once, hādhā min ʿamali sh-shayṭān ... rabbi innī ẓalamtu
+    nafsī fa-ghfir lī, and God forgives him (fa-ghafara lahu), so Moses is a repentant penitent before
+    he is a prophet.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+- tradition: judaism
   ref: Exod 2:15
   note: Hero flees the king's death sentence to a foreign land
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: וַיִּשְׁמַ֤ע פַּרְעֹה֙ אֶת הַדָּבָ֣ר הַזֶּ֔ה וַיְבַקֵּ֖שׁ לַהֲרֹ֣ג אֶת מֹשֶׁ֑ה וַיִּבְרַ֤ח מֹשֶׁה֙
     מִפְּנֵ֣י פַרְעֹ֔ה וַיֵּ֥שֶׁב בְּאֶֽרֶץ מִדְיָ֖ן וַיֵּ֥שֶׁב עַֽל הַבְּאֵֽר
+- tradition: judaism
+  ref: Exod 2:14
+  note: Hero flees the king's death sentence to a foreign land
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַ֠יֹּאמֶר מִ֣י שָֽׂמְךָ֞ לְאִ֨ישׁ שַׂ֤ר וְשֹׁפֵט֙ עָלֵ֔ינוּ הַלְהָרְגֵ֨נִי֙ אַתָּ֣ה אֹמֵ֔ר כַּאֲשֶׁ֥ר
+    הָרַ֖גְתָּ אֶת הַמִּצְרִ֑י וַיִּירָ֤א מֹשֶׁה֙ וַיֹּאמַ֔ר אָכֵ֖ן נוֹדַ֥ע הַדָּבָֽר
 - tradition: islam
   ref: Quran 28:21
   note: Hero flees the king's death sentence to a foreign land
@@ -89,20 +258,46 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ
 evidence:
-- text: 'Shared motifs, rarest first: Kinsman rebuffs the hero: ''Who made you prince and judge over us?''
-    (weight 6.7); Hero kills an oppressor beating a kinsman and hides the body in the sand (weight 6.7);
-    Hero flees the king''s death sentence to a foreign land (weight 5.8). Pair score 19.2.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    divergence, parallel. The killing: Exodus has Moses see an Egyptian beating a Hebrew ''of his brothers'',
+    look this way and that and see no one (wa-yyifen kōh wā-khōh wa-yyarʾ kî ʾên ʾîš), strike him and
+    hide him in the sand. The Quran has him find two men fighting, one of his party (shīʿa) and one of
+    his enemy; at his kinsman''s cry for help he strikes one blow and the man dies (fa-wakazahu Mūsā fa-qaḍā
+    ʿalayhi). There is no looking around and no hiding of the body; the act is unpremeditated. Moral verdict
+    on the killing: Exodus passes none; Moses only fears exposure (wa-yyîrāʾ Mōše wa-yyōʾmar ʾākhēn nôdaʿ
+    had-dāvār). The Quran has Moses judge it at once, hādhā min ʿamali sh-shayṭān ... rabbi innī ẓalamtu
+    nafsī fa-ghfir lī, and God forgives him (fa-ghafara lahu), so Moses is a repentant penitent before
+    he is a prophet. The second day: in Exodus two Hebrews (šənê ʾănāšîm ʿIvrîm) fight, Moses rebukes
+    the guilty one, and that Hebrew retorts mî śāməkhā lə-ʾîš śar wə-šōfēṭ ʿālênû ha-lə-hārəgēnî ʾattâ
+    ʾōmēr ka-ʾăšer hāragtā ʾet ham-Miṣrî. In the Quran the same kinsman again calls for help against an
+    enemy, Moses calls the kinsman ''clearly misguided'' (la-ghawiyyun mubīn), and as he moves to strike
+    the enemy he hears a-turīdu an taqtulanī kamā qatalta nafsan bi-l-amsi in turīdu illā an takūna jabbāran
+    fī l-arḍ. ''Prince and judge'' becomes ''tyrant'' (jabbār). How the danger reaches Moses: Exodus has
+    wa-yyišmaʿ Parʿōh ʾet had-dāvār haz-zeh wa-yvaqqēš lahărōg ʾet Mōše, Pharaoh himself; the Quran has
+    the chiefs plotting (al-malaʾa yaʾtamirūna bika li-yaqtulūka) and an unnamed sympathizer running from
+    the far end of the city to warn him (wa-jāʾa rajulun min aqṣā l-madīnati yasʿā). fa-kharaja minhā
+    khāʾifan yataraqqabu ... wa-lammā tawajjaha tilqāʾa Madyana ~ wa-yyivraḥ Mōše mip-pənê Farʿōh wa-yyēšev
+    bə-ʾereṣ Midyān: flight to Midian (Madyan / Midyān). The Quran adds two prayers (rabbi najjinī ...
+    ʿasā rabbī an yahdiyanī sawāʾa s-sabīl).'
+  basis: reading
+- text: 'Shared motifs, rarest first: How Moses killed the Egyptian [divergence between the texts] (weight
+    6.7); How Moses learns that his life is sought [divergence between the texts] (weight 6.7); Kinsman
+    rebuffs the hero: ''Who made you prince and judge over us?'' (weight 6.7); Hero kills an oppressor
+    beating a kinsman and hides the body in the sand (weight 6.7); The retort Moses hears on the day after
+    the killing [divergence between the texts] (weight 6.7); How Moses'' killing of the Egyptian is judged
+    [divergence between the texts] (weight 6.3); Hero flees the king''s death sentence to a foreign land
+    (weight 5.8). Pair score 45.5.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
-    Infant adopted by a royal woman; The groaning of the oppressed rises to God, who hears and remembers
-    his covenant; Infant found by members of a royal household; Hero drives off shepherds and waters the
-    flock of women at a well; Host runs to welcome strangers, washes their feet and feeds them; Infant
-    placed in a container and set on the water; The foundling''s weeping moves the finder to compassion;
-    The hero''s parents are introduced anonymously as a Levite man and a Levite woman; Hero meets his
-    future wife at a well; Mother hides the infant; Mother sees that her newborn ''is good'' (ki tov);
-    Name explained by being drawn from water; The container is made of reeds or papyrus; Infant returned
-    to his own mother to nurse; Sister offers to find a nurse; Infant''s sister watches over him; Hero
-    names his son for being a stranger in a foreign land; Vessel sealed with pitch or bitumen.'
+    The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
+    as a Levite man and a Levite woman; Mother sees that her newborn ''is good'' (ki tov); Hero names
+    his son for being a stranger in a foreign land; Infant adopted by a royal woman [divergence between
+    the texts]; The groaning of the oppressed rises to God, who hears and remembers his covenant; Hero
+    drives off shepherds and waters the flock of women at a well; What the Midianite daughters do after
+    Moses helps them [divergence between the texts]; Moses helps the women at the water of Midian [divergence
+    between the texts]; Moses'' father-in-law in Midian [divergence between the texts]; Moses killed a
+    man and God delivered him from distress, then tried him with trials [divergence between the texts];
+    Who decides that Moses be put on the water [divergence between the texts]; and 19 more.'
   basis: reading
 - text: 'Only in Moses kills the Egyptian, is warned, and flees toward Midian: Moses calls his killing
     ''the work of Satan'' and asks forgiveness, which is granted; A man comes running from the far end

@@ -64,10 +64,10 @@ evidence:
 - text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 5.8); Child
     raised in the sanctuary or temple (weight 5.4). Pair score 11.2.'
   basis: reading
-- text: 'Only in Mary and the infant Jesus in the Quran: Mother gives birth alone in a remote place; Child
-    makes birds from clay that come alive; The newborn speaks; Lots, rods or reeds decide who will be
-    the child''s guardian; Child miraculously fed in the sanctuary; A spring or stream appears for the
-    mother; A palm tree provides food to the mother; Mother keeps a vow of silence.'
+- text: 'Only in Mary and the infant Jesus in the Quran: Mother gives birth alone in a remote place; Mother
+    keeps a vow of silence; Child miraculously fed in the sanctuary; A palm tree provides food to the
+    mother; Child makes birds from clay that come alive; Lots, rods or reeds decide who will be the child''s
+    guardian; The newborn speaks; A spring or stream appears for the mother.'
   basis: reading
 - text: 'Mary and the infant Jesus in the Quran: tagged by Claude (model), reading the Arabic.'
   basis: reading

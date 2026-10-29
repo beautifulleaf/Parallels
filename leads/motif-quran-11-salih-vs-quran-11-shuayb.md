@@ -88,22 +88,22 @@ passages:
 evidence:
 - text: 'Shared motifs, rarest first: A people is destroyed by the Shout / Blast (al-sayha) (weight 6.7);
     Refrain ''away with...'' (bu''dan li-) the destroyed people (weight 6.0); The destroyed are as if
-    they had never lived in their land (weight 6.0); Morning finds the destroyed lying prostrate (jathimin)
-    in their dwellings (weight 5.8); Prophet''s refrain to his people: ''Worship God; you have no god
-    other than him'' (weight 5.2). Pair score 29.6.'
+    they had never lived in their land (weight 5.8); Morning finds the destroyed lying prostrate (jathimin)
+    in their dwellings (weight 5.6); Prophet''s refrain to his people: ''Worship God; you have no god
+    other than him'' (weight 5.2). Pair score 29.2.'
   basis: reading
-- text: 'Only in Salih, the she-camel and the Shout: Unbelievers defend their practice as what they found
-    their fathers doing; First human shaped from dust, clay or soil; The people tell their prophet he
-    had been their hope before this; The people hamstring (slaughter) God''s she-camel and so seal their
-    doom; A she-camel of God is given as a sign; she must be left to graze unharmed; After the crime the
-    people are given three days'' enjoyment in their homes before destruction.'
+- text: 'Only in Salih, the she-camel and the Shout: The people tell their prophet he had been their hope
+    before this; After the crime the people are given three days'' enjoyment in their homes before destruction;
+    The people hamstring (slaughter) God''s she-camel and so seal their doom; A she-camel of God is given
+    as a sign; she must be left to graze unharmed; Unbelievers defend their practice as what they found
+    their fathers doing; First human shaped from dust, clay or soil.'
   basis: reading
-- text: 'Only in Shu''ayb - measures, the prayer that commands, the clan: Only the prophet''s clan keeps
-    the people from stoning him; The people mock: ''Does your prayer command you that we abandon our fathers''
-    gods or our way with our wealth?''; Honest balances, weights, ephah and hin are commanded; The prophet
-    does not wish to do himself what he forbids them; he wants only reform; What God leaves you (baqiyyat
-    Allah) is better than dishonest gain; Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s
-    people, Midian and the overturned cities; Prophet tells deniers ''Wait, I too am waiting''.'
+- text: 'Only in Shu''ayb - measures, the prayer that commands, the clan: The people mock: ''Does your
+    prayer command you that we abandon our fathers'' gods or our way with our wealth?''; The prophet does
+    not wish to do himself what he forbids them; he wants only reform; What God leaves you (baqiyyat Allah)
+    is better than dishonest gain; Only the prophet''s clan keeps the people from stoning him; Prophet
+    tells deniers ''Wait, I too am waiting''; Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s
+    people, Midian and the overturned cities; Honest balances, weights, ephah and hin are commanded.'
   basis: reading
 - text: 'Salih, the she-camel and the Shout: tagged by Claude (model), reading the Arabic.'
   basis: reading

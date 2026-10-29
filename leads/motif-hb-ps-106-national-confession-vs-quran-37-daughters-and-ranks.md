@@ -1,0 +1,94 @@
+---
+id: motif-hb-ps-106-national-confession-vs-quran-37-daughters-and-ranks
+title: Psalm 106, national confession of sins from Egypt to exile ↔ Daughters of God denied; the angels'
+  stations; closing doxology
+summary: 'These two units share 1 motifs: a closing doxology and the divine title it uses [divergence
+  between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- closing-doxology-divine-title-as-divergence
+passages:
+- tradition: judaism
+  ref: Ps 106:48
+  note: 'A closing doxology and the divine title it uses [divergence between the texts] (Closing doxology,
+    with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām wə-ʿaḏ hā-ʿôlām, closing
+    a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun ʿalā l-mursalīna
+    wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord of the worlds''.
+    The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn) in Arabic.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: בָּר֤וּךְ יְהוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל מִן הָ֤עוֹלָ֨ם וְעַ֬ד הָעוֹלָ֗ם וְאָמַ֖ר כָּל הָעָ֥ם אָמֵ֗ן
+    הַֽלְלוּ יָֽהּ
+- tradition: islam
+  ref: Quran 37:180
+  note: 'A closing doxology and the divine title it uses [divergence between the texts] (Closing doxology,
+    with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām wə-ʿaḏ hā-ʿôlām, closing
+    a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun ʿalā l-mursalīna
+    wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord of the worlds''.
+    The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn) in Arabic.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ
+- tradition: islam
+  ref: Quran 37:182
+  note: 'A closing doxology and the divine title it uses [divergence between the texts] (Closing doxology,
+    with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām wə-ʿaḏ hā-ʿôlām, closing
+    a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun ʿalā l-mursalīna
+    wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord of the worlds''.
+    The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn) in Arabic.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    divergence. Closing doxology, with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām
+    wə-ʿaḏ hā-ʿôlām, closing a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun
+    ʿalā l-mursalīna wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord
+    of the worlds''. The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn)
+    in Arabic.'
+  basis: reading
+- text: 'Shared motifs, rarest first: A closing doxology and the divine title it uses [divergence between
+    the texts] (weight 6.3). Pair score 6.3.'
+  basis: reading
+- text: 'Only in Psalm 106, national confession of sins from Egypt to exile: Israel ate ''sacrifices of
+    the dead'' (zivhei metim) at Baal-peor; God caused the exiles to be pitied by all their captors; God
+    grants the people''s wilderness craving but sends wasting (razon) into their souls; Provoked at Meribah,
+    Moses spoke rashly with his lips and suffered because of the people; Phinehas''s intervention ''was
+    reckoned to him as righteousness for all generations''; Israel ''yokes itself'' to Baal of Peor; List
+    of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning; The
+    people exchanged their Glory for the image of an ox that eats grass; Moses ''stood in the breach''
+    (pérets) before God to turn back his wrath from destroying the people; Speaker confesses personal
+    sin and pleads for forgiveness and cleansing; God turned the sea into dry land and they crossed the
+    river on foot; Shed blood pollutes the land and only the killer''s blood atones for it; and 16 more.'
+  basis: reading
+- text: 'Only in Daughters of God denied; the angels'' stations; closing doxology: Idolaters claim a kinship
+    (nasab) between God and the jinn; the jinn know they will be brought to judgment; The angels say:
+    each of us has a known station; we are ranged in ranks; we glorify; When the punishment descends in
+    their courtyard, evil will be the morning of those who were warned; Closing doxology: glory to your
+    Lord, Lord of might, above what they describe; peace on the messengers; praise to God, Lord of the
+    worlds; Whether God has, begets or takes sons or other offspring [contrast between the texts]; Polemic
+    against assigning daughters to God (the angels as females) while preferring sons for themselves; Scoffers
+    ask the prophet to hasten the punishment; it is held back only by an appointed term and will come
+    suddenly.'
+  basis: reading
+- text: 'Psalm 106, national confession of sins from Egypt to exile: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'Daughters of God denied; the angels'' stations; closing doxology: tagged by Claude (model), reading
+    the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

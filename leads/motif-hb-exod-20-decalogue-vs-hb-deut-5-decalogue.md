@@ -1,10 +1,10 @@
 ---
 id: motif-hb-exod-20-decalogue-vs-hb-deut-5-decalogue
 title: The Ten Words and the people's fear ↔ The Decalogue restated and the people's fear at Horeb
-summary: 'These two units share 8 motifs: people fear to hear god directly and ask the prophet to mediate,
-  prohibition of coveting the neighbor''s wife and property, sabbath rest on the seventh day for all,
-  including servants, animals and strangers, god visits the fathers'' sin on the third and fourth generation,
-  but keeps steadfast love for thousands….'
+summary: 'These two units share 11 motifs: people fear to hear god directly and ask the prophet to mediate,
+  honor father and mother, with the promise of long life [divergence between the texts], prohibitions
+  of murder, adultery, theft and false witness [divergence between the texts], prohibition of coveting
+  the neighbor''s wife and property….'
 status: new
 relations:
 - internal
@@ -15,7 +15,10 @@ layers:
 - motif
 motifs:
 - people-fear-direct-revelation
+- honor-parents-long-life-as-divergence
+- prohibition-murder-adultery-theft-false-witness-as-divergence
 - covet-prohibition
+- prohibition-of-other-gods
 - sabbath-rest
 - sins-visited-to-third-fourth-generation
 - prohibition-of-images
@@ -48,6 +51,71 @@ passages:
   text: וַתֹּאמְר֗וּ הֵ֣ן הֶרְאָ֜נוּ יְהוָ֤ה אֱלֹהֵ֨ינוּ֙ אֶת כְּבֹד֣וֹ וְאֶת גָּדְל֔וֹ וְאֶת קֹל֥וֹ שָׁמַ֖עְנוּ
     מִתּ֣וֹךְ הָאֵ֑שׁ הַיּ֤וֹם הַזֶּה֙ רָאִ֔ינוּ כִּֽי יְדַבֵּ֧ר אֱלֹהִ֛ים אֶת הָֽאָדָ֖ם וָחָֽי
 - tradition: judaism
+  ref: Exod 20:12
+  note: Honor father and mother, with the promise of long life [divergence between the texts] (kabbēd
+    ʾet-ʾābîkā wəʾet-ʾimmekā ləmaʿan yaʾărikûn yāmêkā; wa-bi-l-wālidayni iḥsānan immā yablughanna ʿindaka
+    l-kibara ... fa-lā taqul lahumā uffin ... wa-qul rabbi rḥamhumā ka-mā rabbayānī ṣaghīrā. Q drops the
+    promise of long life and puts in its place care for parents in old age and a prayer for them. Duty
+    to parents comes second, right after God, in both.)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה
+    אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+- tradition: judaism
+  ref: Deut 5:16
+  note: 'Honor father and mother, with the promise of long life [divergence between the texts] (Deut:
+    kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh ʿal-hā-ʾădāmāh.
+    Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of long life in the
+    land is dropped.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+- tradition: judaism
+  ref: Exod 20:3
+  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
+    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
+    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
+    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
+    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
+    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
+    punishment and an exception for those who repent (25:69-70).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+- tradition: judaism
+  ref: Exod 20:13
+  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
+    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
+    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
+    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
+    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
+    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
+    punishment and an exception for those who repent (25:69-70).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹ֖א תִּרְצָֽח
+- tradition: judaism
+  ref: Deut 5:17
+  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
+    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
+    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
+    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
+    dhā qurbā (just speech even against kin). Theft is absent.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹ֖א תִּרְצָֽח
+- tradition: judaism
+  ref: Deut 5:18
+  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
+    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
+    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
+    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
+    dhā qurbā (just speech even against kin). Theft is absent.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְלֹ֖א תִּנְאָֽף
+- tradition: judaism
   ref: Exod 20:17
   note: Prohibition of coveting the neighbor's wife and property
   lang: he
@@ -62,6 +130,20 @@ passages:
   text: וְלֹ֥א תַחְמֹ֖ד אֵ֣שֶׁת רֵעֶ֑ךָ וְלֹ֨א תִתְאַוֶּ֜ה בֵּ֣ית רֵעֶ֗ךָ שָׂדֵ֜הוּ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙
     שׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
 - tradition: judaism
+  ref: Exod 20:3
+  note: No other gods before YHWH
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+- tradition: judaism
+  ref: Deut 5:7
+  note: 'No other gods before YHWH (Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad
+    ḥarrama llāhu ʿalayhi l-janna. Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself
+    proclaim it (uʿbudū llāha rabbī wa-rabbakum).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+- tradition: judaism
   ref: Exod 20:8-11
   note: Sabbath rest on the seventh day for all, including servants, animals and strangers
   lang: he
@@ -71,6 +153,12 @@ passages:
     מְלָאכָ֜ה אַתָּ֣ה וּבִנְךָֽ֣ וּבִתֶּ֗ךָ עַבְדְּךָ֤ וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖ אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ
     (20:11) כִּ֣י שֵֽׁשֶׁת יָמִים֩ עָשָׂ֨ה יְהוָ֜ה אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֗רֶץ אֶת הַיָּם֙ וְאֶת כָּל
     אֲשֶׁר בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל כֵּ֗ן בֵּרַ֧ךְ יְהוָ֛ה אֶת י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ
+- tradition: judaism
+  ref: Exod 20:8
+  note: Sabbath rest on the seventh day for all, including servants, animals and strangers
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: זָכ֛וֹר אֶת י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ
 - tradition: judaism
   ref: Deut 5:14
   note: Sabbath rest on the seventh day for all, including servants, animals and strangers (so that your
@@ -157,55 +245,53 @@ passages:
   text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה
     אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
 - tradition: judaism
+  ref: Exod 20:3
+  note: Honor father and mother, with the promise of long life
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+- tradition: judaism
   ref: Deut 5:16
   note: Honor father and mother, with the promise of long life
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
     יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: judaism
-  ref: Exod 20:13
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Exod 20:14
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּנְאָֽף
-- tradition: judaism
-  ref: Deut 5:17
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
 evidence:
+- text: Passages are shown for the 10 rarest of 11 shared motifs; the full list follows.
+  basis: reading
 - text: 'Shared motifs, rarest first: People fear to hear God directly and ask the prophet to mediate
-    (weight 6.3); Prohibition of coveting the neighbor''s wife and property (weight 5.8); Sabbath rest
-    on the seventh day for all, including servants, animals and strangers (weight 5.6); God visits the
-    fathers'' sin on the third and fourth generation, but keeps steadfast love for thousands (weight 5.6);
-    Prohibition of carved images or likenesses of anything for worship (weight 5.6); The Ten Commandments
-    (Decalogue) (weight 5.4); Honor father and mother, with the promise of long life (weight 5.3); Prohibitions
-    of murder, adultery, theft and false witness (weight 5.3). Pair score 44.9.'
+    (weight 6.3); Honor father and mother, with the promise of long life [divergence between the texts]
+    (weight 6.0); Prohibitions of murder, adultery, theft and false witness [divergence between the texts]
+    (weight 5.8); Prohibition of coveting the neighbor''s wife and property (weight 5.8); No other gods
+    before YHWH (weight 5.8); Sabbath rest on the seventh day for all, including servants, animals and
+    strangers (weight 5.6); God visits the fathers'' sin on the third and fourth generation, but keeps
+    steadfast love for thousands (weight 5.6); Prohibition of carved images or likenesses of anything
+    for worship (weight 5.6); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother,
+    with the promise of long life (weight 5.3); Prohibitions of murder, adultery, theft and false witness
+    (weight 5.1). Pair score 62.2.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; God is a jealous God; The people ''see'' the voices or thunder
-    at the revelation; Do not take God''s name in vain; No other gods before YHWH; The prophet approaches
-    the thick darkness where God is; The Sabbath is justified by God''s resting on the seventh day of
-    creation.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
+    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
+    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
+    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
+    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
+    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
+    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
+    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
+    the texts]; and 3 more.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
-    alive today, not only with the fathers; Mountain burns with fire to the heart of heaven amid darkness
-    and cloud; Sabbath grounded in the memory of slavery in Egypt; God gives stone tablets he himself
-    has written; God heard as a voice out of fire with no visible form.'
+    alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
+    between the texts]; Whether God should speak to the people directly [contrast between the texts];
+    Mountain burns with fire to the heart of heaven amid darkness and cloud; The people answer as one:
+    all that YHWH has spoken we will do [response between the texts]; Who was present at the revelation
+    on the mountain, and who knows it only by report [contrast between the texts]; God heard as a voice
+    out of fire with no visible form; The people''s answer to the covenant (''we hear ...'') [response
+    between the texts]; Sabbath grounded in the memory of slavery in Egypt; Believers'' confession ''we
+    hear and we obey'' (sami''na wa-ata''na); Keep the law, turning neither to the right nor to the left;
+    God gives stone tablets he himself has written.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

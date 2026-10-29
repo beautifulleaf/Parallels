@@ -5,8 +5,8 @@ summary: 'These two units share 1 motifs: the wicked takes a bribe from the boso
   of justice.'
 status: new
 relations:
-- transmission
 - convergence
+- transmission
 standing: proposed
 traditions:
 - judaism
@@ -31,35 +31,35 @@ passages:
   text: وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟
     فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    parallel. Prov 17:23 šōḥad mē-ḥêq rāšāʿ yiqqāḥ lĕhaṭṭôt ʾorḥôt mišpāṭ; Q 2:188 wa-tudlū bihā ilā l-ḥukkāmi
+    li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithm: the bribe that bends judgment. Proverbs blames the
+    taker; the Quran forbids the giver.'
+  basis: reading
 - text: 'Shared motifs, rarest first: The wicked takes a bribe from the bosom to pervert the ways of justice
     (weight 6.7). Pair score 6.7.'
   basis: reading
-- text: 'Only in Sayings on strife, bribes, friends and the silent fool: Saying of the type ''X is an
-    abomination (to''evah) to YHWH but Y is his delight''; Better to meet a bear robbed of her cubs than
-    a fool in his folly; ''Better is X than Y'' comparative saying (tov ... min); A bribe is a stone of
-    charm (even hen) in the eyes of its owner; wherever he turns he prospers; A joyful heart is good medicine,
-    but a broken spirit dries up the bones; The crucible is for silver and the furnace for gold, but YHWH
-    tests hearts; Better a dry morsel with quiet than a house full of feasting (zivhei riv) with strife;
-    Whoever returns evil for good, evil will not depart from his house; Wisdom is before the face of the
-    discerning, but the eyes of a fool are on the ends of the earth; A friend loves at all times and a
-    brother is born for adversity; Grandchildren are the crown of the aged and fathers the glory of their
-    sons; He who justifies the wicked and he who condemns the righteous are both an abomination to YHWH;
-    Hatred stirs up strife, but love covers all offenses; He who mocks the poor insults his Maker; he
-    who rejoices at calamity will not go unpunished; Why is there a price in the hand of a fool to buy
-    wisdom when he has no heart?; A rebuke goes deeper into a discerning man than a hundred blows into
-    a fool; In many words transgression is not lacking; he who restrains his lips is wise; Even a fool
-    who keeps silent is counted wise; The beginning of strife is like letting out water; quit before the
-    quarrel breaks out; Warning against standing surety (pledge) for a stranger or a neighbor''s debt;
-    A wise slave will rule over a shameful son and share the inheritance among the brothers; A wise son
-    gladdens his father; a foolish son grieves his mother.'
+- text: 'Only in Sayings on strife, bribes, friends and the silent fool: Better to meet a bear robbed
+    of her cubs than a fool in his folly; A bribe is a stone of charm (even hen) in the eyes of its owner;
+    wherever he turns he prospers; A joyful heart is good medicine, but a broken spirit dries up the bones;
+    The crucible is for silver and the furnace for gold, but YHWH tests hearts; Better a dry morsel with
+    quiet than a house full of feasting (zivhei riv) with strife; Whoever returns evil for good, evil
+    will not depart from his house; Wisdom is before the face of the discerning, but the eyes of a fool
+    are on the ends of the earth; A friend loves at all times and a brother is born for adversity; Grandchildren
+    are the crown of the aged and fathers the glory of their sons; He who mocks the poor insults his Maker;
+    he who rejoices at calamity will not go unpunished; Why is there a price in the hand of a fool to
+    buy wisdom when he has no heart?; A rebuke goes deeper into a discerning man than a hundred blows
+    into a fool; and 10 more.'
   basis: reading
-- text: 'Only in The fast of Ramadan: ''These are the bounds (hudud) of God; do not approach (or transgress)
-    them''; Fasting prescribed for you as it was prescribed for those before you; Eat and drink until
-    the white thread is distinguished from the black thread at dawn; Those able only with hardship may
-    ransom fast days by feeding a poor person (fidya); YHWH is near to all who call on him in truth; Spouses
-    not approached while in retreat (i''tikaf) in the mosques; Marital relations permitted on fast nights;
-    spouses are garments for one another; Ramadan, the month in which the Quran was sent down; The sick
-    and the traveler may make up missed fast days later.'
+- text: 'Only in The fast of Ramadan: Fasting prescribed for you as it was prescribed for those before
+    you; Eat and drink until the white thread is distinguished from the black thread at dawn; Those able
+    only with hardship may ransom fast days by feeding a poor person (fidya); Spouses not approached while
+    in retreat (i''tikaf) in the mosques; Marital relations permitted on fast nights; spouses are garments
+    for one another; Ramadan, the month in which the Quran was sent down; The sick and the traveler may
+    make up missed fast days later; Marital relations during a fast [contrast between the texts]; What
+    the annual fast is tied to [divergence between the texts]; Length, hours and exemptions of a prescribed
+    fast [divergence between the texts]; ''These are the bounds (hudud) of God; do not approach (or transgress)
+    them''; YHWH is near to all who call on him in truth; and 1 more.'
   basis: reading
 - text: 'Sayings on strife, bribes, friends and the silent fool: tagged by Claude (model), reading the
     Hebrew.'

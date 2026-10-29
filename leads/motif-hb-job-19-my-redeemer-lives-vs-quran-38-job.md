@@ -1,0 +1,79 @@
+---
+id: motif-hb-job-19-my-redeemer-lives-vs-quran-38-job
+title: Job - abandoned by all; 'I know my redeemer lives' ↔ Job, the spring and the bundle of twigs
+summary: 'These two units share 1 motifs: who struck or ''touched'' job [divergence between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- who-touched-job-as-divergence
+passages:
+- tradition: judaism
+  ref: Job 19:21
+  note: 'Who struck or ''touched'' Job [divergence between the texts] (Who touched Job, with the same
+    verb. Job: ḥonnunî ḥonnunî ʾattem rēʿāy kî yaḏ-ʾĕlôah nāḡəʿâ bî (the hand of God has touched me).
+    Q: idh nādā rabbahu annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb (Satan has touched me with weariness
+    and torment). nāḡaʿ and massa both mean ''touch''. The Quranic Job puts the cause on Satan and turns
+    to his Lord; the Hebrew Job, who never learns of the satan, puts it on God himself.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: חָנֻּ֬נִי חָנֻּ֣נִי אַתֶּ֣ם רֵעָ֑י כִּ֥י יַד אֱ֝ל֗וֹהַּ נָ֣גְעָה בִּֽי
+- tradition: islam
+  ref: Quran 38:41
+  note: 'Who struck or ''touched'' Job [divergence between the texts] (Who touched Job, with the same
+    verb. Job: ḥonnunî ḥonnunî ʾattem rēʿāy kî yaḏ-ʾĕlôah nāḡəʿâ bî (the hand of God has touched me).
+    Q: idh nādā rabbahu annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb (Satan has touched me with weariness
+    and torment). nāḡaʿ and massa both mean ''touch''. The Quranic Job puts the cause on Satan and turns
+    to his Lord; the Hebrew Job, who never learns of the satan, puts it on God himself.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍ وَعَذَابٍ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    divergence. Who touched Job, with the same verb. Job: ḥonnunî ḥonnunî ʾattem rēʿāy kî yaḏ-ʾĕlôah nāḡəʿâ
+    bî (the hand of God has touched me). Q: idh nādā rabbahu annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb
+    (Satan has touched me with weariness and torment). nāḡaʿ and massa both mean ''touch''. The Quranic
+    Job puts the cause on Satan and turns to his Lord; the Hebrew Job, who never learns of the satan,
+    puts it on God himself.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Who struck or ''touched'' Job [divergence between the texts] (weight
+    6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Job - abandoned by all; ''I know my redeemer lives'': Brothers, kin, guests, maidservants
+    and servants all estrange themselves from the sufferer; his breath is strange to his wife; God has
+    stripped the sufferer of his glory and taken the crown from his head; ''I cry out Violence! but I
+    am not answered''; ''I have escaped by the skin of my teeth''; bones cleave to skin; ''Know then that
+    God has wronged me and closed his net about me''; God''s troops come together, cast up siegeworks
+    and encamp around the sufferer''s tent; Even young children despise the sufferer and speak against
+    him; ''I know that my redeemer (go''el) lives, and at the last he will stand upon the dust''; ''Have
+    pity on me, have pity on me, O my friends, for the hand of God has touched me''; ''After my skin is
+    stripped off, from my flesh I shall see God'' with my own eyes, not a stranger''s; ''These ten times
+    you have reproached me''; The sufferer warns his accusers to fear the sword, so they may know there
+    is a judgment; and 5 more.'
+  basis: reading
+- text: 'Only in Job, the spring and the bundle of twigs: Job calls to his Lord: ''Satan has touched me
+    with weariness and torment''; God gives Job back his family and as many again with them; Job is told
+    to stamp with his foot: a cool spring to wash in and drink appears; Job is told to take a bundle of
+    grass or twigs (dighth) in his hand and strike with it, so as not to break his oath; A man''s vow
+    or oath must be fulfilled as uttered; Job calls on God, and whether God answers [contrast between
+    the texts]; What God restores to Job at the end [divergence between the texts]; God restores the righteous
+    sufferer''s fortunes and gives him twice what he had; The Satan (the adversary) appears in the heavenly
+    court as an accusing member; Hero singled out as righteous or pious.'
+  basis: reading
+- text: 'Job - abandoned by all; ''I know my redeemer lives'': tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Job, the spring and the bundle of twigs: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

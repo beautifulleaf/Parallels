@@ -44,19 +44,24 @@ evidence:
     score 6.7.'
   basis: reading
 - text: 'Only in Jethro''s visit and the appointment of judges: A foreign priest offers sacrifice to Israel''s
-    God and shares a meal with the elders; A foreigner declares that YHWH is greater than all gods; Minor
-    cases are judged by subordinates; hard cases go to the leader; Officers over thousands, hundreds,
-    fifties and tens; hard cases to the leader; The leader judges the people alone from morning to evening
-    and is overburdened; The prophet adopts an administrative reform suggested by a foreigner; A mountain
-    called the mountain of God; Judges must be capable, God-fearing, truthful and hate bribes; A father
-    names his sons after events in his own life; The hero''s wife and sons were sent away and are brought
-    back to him.'
+    God and shares a meal with the elders; Minor cases are judged by subordinates; hard cases go to the
+    leader; The leader judges the people alone from morning to evening and is overburdened; The prophet
+    adopts an administrative reform suggested by a foreigner; Judges must be capable, God-fearing, truthful
+    and hate bribes; A father names his sons after events in his own life; The hero''s wife and sons were
+    sent away and are brought back to him; Officers over thousands, hundreds, fifties and tens; hard cases
+    to the leader; A foreigner declares that YHWH is greater than all gods; A mountain called the mountain
+    of God.'
   basis: reading
 - text: 'Only in At the water of Midian; the two women, their old father and the marriage contract: The
     father offers one of his two daughters in marriage for eight years'' service, ten if the groom wishes;
-    Hero drives off shepherds and waters the flock of women at a well; One of the women comes walking
-    shyly to invite the hero to her father, who will reward him; Suitor serves the bride''s father seven
-    years for her hand; The daughter advises: ''The best one to hire is the strong and trustworthy''.'
+    One of the women comes walking shyly to invite the hero to her father, who will reward him; The daughter
+    advises: ''The best one to hire is the strong and trustworthy''; Hero drives off shepherds and waters
+    the flock of women at a well; What the Midianite daughters do after Moses helps them [divergence between
+    the texts]; Moses helps the women at the water of Midian [divergence between the texts]; Moses'' father-in-law
+    in Midian [divergence between the texts]; Years of service given for a bride [divergence between the
+    texts]; The terms of Moses'' marriage in Midian [divergence between the texts]; Future bride or groom
+    met at a well, leading to betrothal; Hero meets his future wife at a well; Suitor serves the bride''s
+    father seven years for her hand.'
   basis: reading
 - text: 'Jethro''s visit and the appointment of judges: tagged by Claude (model), reading the Hebrew.'
   basis: reading

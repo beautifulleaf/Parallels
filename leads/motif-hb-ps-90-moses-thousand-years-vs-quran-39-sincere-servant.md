@@ -1,0 +1,84 @@
+---
+id: motif-hb-ps-90-moses-thousand-years-vs-quran-39-sincere-servant
+title: Psalm 90, prayer of Moses; a thousand years as yesterday ↔ The first of those who submit; canopies
+  of fire; chambers above chambers
+summary: 'These two units share 1 motifs: humans are like grass that flourishes in the morning and withers
+  by evening.'
+status: new
+relations:
+- convergence
+- transmission
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- humans-like-grass-withering
+passages:
+- tradition: judaism
+  ref: Ps 90:5-6
+  note: Humans are like grass that flourishes in the morning and withers by evening
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: (90:5) זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף (90:6) בַּ֭בֹּקֶר יָצִ֣יץ
+    וְחָלָ֑ף לָ֝עֶ֗רֶב יְמוֹלֵ֥ל וְיָבֵֽשׁ
+- tradition: judaism
+  ref: Ps 90:5
+  note: Humans are like grass that flourishes in the morning and withers by evening
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף
+- tradition: islam
+  ref: Quran 39:21
+  note: Humans are like grass that flourishes in the morning and withers by evening (rain makes crops
+    grow, then they turn yellow and become chaff, a reminder)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَٰبِيعَ فِى ٱلْأَرْضِ
+    ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُۥ
+    حُطَٰمًا إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    parallel. ba-bbōqer ka-ḥāṣîr yaḥălōp̄ ... lā-ʿereḇ yəmôlēl wə-yāḇēš vs. yukhriju bihi zarʿan mukhtalifan
+    alwānuhu thumma yahīju fa-tarāhu muṣfarran thumma yajʿaluhu ḥuṭāman. Growth, then yellowing and withering.
+    The psalm applies it explicitly to humans; the Quran sets it out as a lesson for ''those with minds''
+    (dhikrā li-ulī l-albāb).'
+  basis: reading
+- text: 'Shared motifs, rarest first: Humans are like grass that flourishes in the morning and withers
+    by evening (weight 5.6). Pair score 5.6.'
+  basis: reading
+- text: 'Only in Psalm 90, prayer of Moses; a thousand years as yesterday: Before the mountains were born
+    and the earth was brought forth in labor, God existed from everlasting; God turns mortals back to
+    dust (dakka), saying ''Return, sons of Adam''; The span of human life is seventy years, or eighty
+    with strength; A psalm is ascribed to Moses, ''the man of God''; Prayer ''Teach us to number our days
+    that we may gain a heart of wisdom''; Human life is short and fleeting (heled, a handbreadth, grass,
+    a sigh); Human comes from dust and returns to dust [divergence between the texts]; A thousand years
+    in God''s sight are like yesterday when it passes, or a watch in the night [divergence between the
+    texts]; The resurrected feel they had stayed only an hour of a day; A thousand years in God''s sight
+    are like yesterday when it passes, or a watch in the night; Lament question ''How long, O God?'' /
+    ''Why have you rejected us forever?''; Human comes from dust and returns to dust.'
+  basis: reading
+- text: 'Only in The first of those who submit; canopies of fire; chambers above chambers: An Arabic Quran
+    without any crookedness; The damned have canopies (zulal) of fire above them and below them; For the
+    godfearing are lofty chambers with built chambers above them, beneath which rivers flow; God expands
+    a person''s breast (sharh al-sadr) to Islam so he is upon a light from his Lord; The punishment of
+    hell envelops the damned from above them and from beneath their feet; Parable: a slave owned by quarreling
+    partners versus a slave belonging wholly to one man; The Book in paired repetitions (mathani) makes
+    the skins of the godfearing shiver, then their skins and hearts soften; Paradise as gardens (of ʿAdn)
+    beneath which rivers flow, where the righteous abide forever.'
+  basis: reading
+- text: 'Psalm 90, prayer of Moses; a thousand years as yesterday: tagged by Claude (model), reading the
+    Hebrew.'
+  basis: reading
+- text: 'The first of those who submit; canopies of fire; chambers above chambers: tagged by Claude (model),
+    reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

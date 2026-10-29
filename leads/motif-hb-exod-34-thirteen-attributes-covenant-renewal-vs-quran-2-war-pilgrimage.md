@@ -1,0 +1,140 @@
+---
+id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-2-war-pilgrimage
+title: New tablets, the attributes of mercy and the ritual decalogue ↔ New moons, fighting and the pilgrimage
+  rites
+summary: 'These two units share 2 motifs: how often and when pilgrimage is made [divergence between the
+  texts], three annual pilgrimage festivals when every male appears before god.'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- number-and-season-of-pilgrimage-as-divergence
+- three-pilgrimage-festivals
+passages:
+- tradition: judaism
+  ref: Exod 34:23
+  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 34:23-24 šālōš pĕʿāmîm
+    ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages to ''the Lord YHWH, God of
+    Israel'', with God''s promise that no one will covet the land while they go; Q 2:196 fa-in uḥṣirtum
+    ... fa-idhā amintum: the pilgrimage rules provide for being blocked and for when ''you are safe''.
+    A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs
+    rabbukum (''your Lord'', 2:198).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
+    יִשְׂרָאֵֽל
+- tradition: judaism
+  ref: Exod 34:24
+  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 34:23-24 šālōš pĕʿāmîm
+    ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages to ''the Lord YHWH, God of
+    Israel'', with God''s promise that no one will covet the land while they go; Q 2:196 fa-in uḥṣirtum
+    ... fa-idhā amintum: the pilgrimage rules provide for being blocked and for when ''you are safe''.
+    A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs
+    rabbukum (''your Lord'', 2:198).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: כִּֽי אוֹרִ֤ישׁ גּוֹיִם֙ מִפָּנֶ֔יךָ וְהִרְחַבְתִּ֖י אֶת גְּבוּלֶ֑ךָ וְלֹא יַחְמֹ֥ד אִישׁ֙ אֶֽת
+    אַרְצְךָ֔ בַּעֲלֹֽתְךָ֗ לֵרָאוֹת֙ אֶת פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָֽה
+- tradition: islam
+  ref: Quran 2:196
+  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
+    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
+    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
+    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
+    with an offering (hady), and ''the best provision is piety''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ
+    وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ
+    بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ
+    فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ
+    ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَن
+    لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ
+    شَدِيدُ ٱلْعِقَابِ
+- tradition: islam
+  ref: Quran 2:197
+  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
+    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
+    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
+    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
+    with an offering (hady), and ''the best provision is piety''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا
+    جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ
+    ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
+- tradition: judaism
+  ref: Exod 34:18
+  note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
+    at the turn of the year)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֨ת יָמִ֜ים תֹּאכַ֤ל מַצּוֹת֙ אֲשֶׁ֣ר צִוִּיתִ֔ךָ לְמוֹעֵ֖ד
+    חֹ֣דֶשׁ הָאָבִ֑יב כִּ֚י בְּחֹ֣דֶשׁ הָֽאָבִ֔יב יָצָ֖אתָ מִמִּצְרָֽיִם
+- tradition: judaism
+  ref: Exod 34:22
+  note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
+    at the turn of the year)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת הַשָּׁנָֽה
+- tradition: islam
+  ref: Quran 2:197
+  note: Three annual pilgrimage festivals when every male appears before God (the known months of pilgrimage)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا
+    جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ
+    ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
+    divergence. Exod 34:23-24 šālōš pĕʿāmîm ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three
+    pilgrimages to ''the Lord YHWH, God of Israel'', with God''s promise that no one will covet the land
+    while they go; Q 2:196 fa-in uḥṣirtum ... fa-idhā amintum: the pilgrimage rules provide for being
+    blocked and for when ''you are safe''. A protected land vs a pilgrimage that may be prevented. Divine
+    title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs rabbukum (''your Lord'', 2:198).'
+  basis: reading
+- text: 'Shared motifs, rarest first: How often and when pilgrimage is made [divergence between the texts]
+    (weight 6.3); Three annual pilgrimage festivals when every male appears before God (weight 5.3). Pair
+    score 11.6.'
+  basis: reading
+- text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
+    covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
+    time; Call to the People of the Book to a common word: worship none but God and take none as lords
+    besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
+    down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
+    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
+    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
+    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
+    a snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
+    appear before God empty-handed; and 20 more.'
+  basis: reading
+- text: 'Only in New moons, fighting and the pilgrimage rites: When you pour down from Arafat, remember
+    God at the Sacred Monument (al-Mash''ar al-Haram); Take provision, but the best provision is God-consciousness
+    (taqwa); Remember God on the counted days; no sin whether one hastens in two days or delays; Piety
+    is not entering houses from their backs but from their doors; Fight in God''s way those who fight
+    you, but do not transgress; Prayer ''Our Lord, give us good in this world and good in the next, and
+    guard us from the fire''; Complete the pilgrimage (hajj) and visitation (umra) for God; Do not fight
+    at the Sacred Mosque unless they fight you there; No sexual talk, wickedness or quarreling during
+    the pilgrimage; Remember God as you remember your fathers, or more; The sacred month for the sacred
+    month; violations are subject to retaliation; Do not shave heads until the sacrificial offering (hady)
+    reaches its place; and 9 more.'
+  basis: reading
+- text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
+    the Hebrew.'
+  basis: reading
+- text: 'New moons, fighting and the pilgrimage rites: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

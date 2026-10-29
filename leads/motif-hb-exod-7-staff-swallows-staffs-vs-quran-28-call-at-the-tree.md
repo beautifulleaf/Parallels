@@ -75,20 +75,29 @@ evidence:
     5.4). Pair score 11.0.'
   basis: reading
 - text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
-    staffs: Prophet''s wonders are imitated by the king''s magicians in a contest; The king''s heart is
-    hardened (by himself or by God) so he refuses to release the people; Hero is eighty (and his brother
-    eighty-three) when they confront the king; God makes the prophet ''as God'' to the king with his brother
-    as his prophet; The prophet''s staff-serpent swallows the magicians'' staff-serpents; Wonders done
-    so that Egypt shall know ''I am YHWH''.'
+    staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet
+    ''as God'' to the king with his brother as his prophet; Wonders done so that Egypt shall know ''I
+    am YHWH''; Prophet''s wonders are imitated by the king''s magicians in a contest [divergence between
+    the texts]; Pharaoh turned away with his power/pillar (rukn) and called Moses ''a sorcerer or a madman'';
+    Who throws the staff before Pharaoh and what it becomes; Who throws the staff before Pharaoh and what
+    it becomes [divergence between the texts]; An eloquent brother is appointed to speak for the hero,
+    who is ''as God'' to him [divergence between the texts]; The prophet''s staff-serpent swallows the
+    magicians'' staff-serpents [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening
+    his heart, or Pharaoh and his people themselves; Why Pharaoh and Egypt refuse despite the signs [divergence
+    between the texts]; God sends Moses and Aaron together, with his signs, to Pharaoh; and 4 more.'
   basis: reading
 - text: 'Only in The fire on the side of the Mount; the call from the tree; Aaron as helper: Moses says
-    his brother Aaron is more eloquent of tongue and asks for him as a helper to confirm him; God appears
-    in a bush that burns without being consumed; Moses is called from the tree on the right bank of the
-    valley, in the blessed spot; Prophet''s hand turns leprous, white as snow, and is restored as a sign;
-    Traveling with his family, the prophet sees a fire and goes to bring back a brand or find guidance
-    there; Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''; A shepherd tending
-    flocks comes to the mountain of God and is called; The thrown staff quivers like a jānn (small snake)
-    and Moses turns and flees without looking back.'
+    his brother Aaron is more eloquent of tongue and asks for him as a helper to confirm him; Moses is
+    called from the tree on the right bank of the valley, in the blessed spot; God calls Moses from the
+    fire, from a bush or a tree [divergence between the texts]; Prophet lodges in ''the cave'' on Horeb,
+    the mountain of God; Where and how Moses comes to the place of his call [divergence between the texts];
+    The thrown staff quivers like a jānn (small snake) and Moses turns and flees without looking back;
+    Moses'' fear of being killed, on returning, for the Egyptian''s death [divergence between the texts];
+    Moses flees from his staff turned serpent, and God''s response [divergence between the texts]; Traveling
+    with his family, the prophet sees a fire and goes to bring back a brand or find guidance there; A
+    shepherd tending flocks comes to the mountain of God and is called; Aaron''s role beside Moses and
+    how he is appointed [divergence between the texts]; God appears in a bush that burns without being
+    consumed; and 3 more.'
   basis: reading
 - text: 'Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians'' staffs:
     tagged by Claude (model), reading the Hebrew.'

@@ -98,44 +98,20 @@ evidence:
 - text: 'Only in Second journey with Benjamin and the feast in Joseph''s house: Brothers bring double
     money to return the silver found in their sacks; Egyptians will not eat with Hebrews, for it is an
     abomination to them; Gift of the land''s choice products (balm, honey, spices, nuts) brought to a
-    foreign ruler; Steward says their God placed hidden treasure in their sacks; Hero turns aside or withdraws
-    to weep unseen before his brothers; Host runs to welcome strangers, washes their feet and feeds them;
-    Hero seats his brothers in order of birth, and they look at one another in amazement; The youngest
-    brother is served five times as much as the others.'
+    foreign ruler; Steward says their God placed hidden treasure in their sacks; Hero seats his brothers
+    in order of birth, and they look at one another in amazement; The youngest brother is served five
+    times as much as the others; Hero reveals himself to the youngest brother first [divergence between
+    the texts]; Hero turns aside or withdraws to weep unseen before his brothers; A brother or the brothers
+    give the father a pledge for the youngest [divergence between the texts]; Host runs to welcome strangers,
+    washes their feet and feeds them.'
   basis: reading
-- text: 'Only in Joseph in the Quran (Surah 12): Foster parent says: perhaps he will benefit us, or we
-    will take him as a son; Seduction attempt when the two are alone in the house; Birds eat bread from
-    on top of the dreamer''s head; Brothers bring the hero''s garment with false blood; Hero bought by
-    an Egyptian official; Brothers come for grain and do not recognize the hero; Brothers persuade the
-    reluctant father to send the hero with them; Brothers, out of envy, plot to kill the hero; Brothers
-    come to their father at night, weeping; Hero cast into a pit or well; The king''s experts cannot interpret
-    the dream; The freed prisoner remembers the hero and recommends him; Hero demands they bring their
-    youngest brother; God''s favor rests on the hero while he is a slave or prisoner; God reassures the
-    hero in the pit; Dream of sun, moon and eleven stars bowing to the hero; Hero reveals himself to the
-    youngest brother first; The woman falsely accuses the hero of assault; The whole family moves to Egypt;
-    Plan to store grain in the good years for the famine years; The father''s eyesight fails; Father loves
-    the hero more than his brothers; Father revives on hearing the hero lives; Father does not believe
-    the brothers'' story; Father recognizes his son''s scent; Father warns the hero not to tell his dream
-    to his brothers; The freed prisoner forgets the hero for years; Hero''s garment becomes evidence in
-    the seduction episode; Hero''s garment restores the father''s sight; Hero placed over the land''s
-    storehouses or the kingdom; Hero''s beauty is remarked on; Hero refuses release until his innocence
-    is established; Hero forgives his brothers; Hero thrown into prison; Hero nearly yields but a sign
-    from God stops him; Hero prays to die in submission and join the righteous; Hero preaches monotheism
-    to his fellow prisoners; Hero prays that prison is preferable to sin; Hero refuses, citing loyalty
-    to his master and to God; Hero reveals his identity to his brothers; Hero declares that God turned
-    the brothers'' deed to good; Hero attributes his dream interpretation to God; King dreams of seven
-    fat cows eaten by seven lean, and seven green ears and seven dry; The husband recognizes his wife''s
-    guilt; The master''s wife tries to seduce the hero; Their payment is secretly returned in their bags;
-    A brother offers himself or another in place of the youngest; One brother talks the others out of
-    killing him; One brother stays behind in Egypt; One prisoner is restored, the other executed and his
-    body exposed; Hero''s cup is hidden in the youngest brother''s bag; Two fellow prisoners dream of
-    pressing wine and carrying bread; Hero asks the freed prisoner to mention him to the king; A passing
-    caravan takes the hero from the pit; Hero meets and embraces his father; Search proceeds through the
-    others'' bags before the youngest''s; Father tells the sons to enter by separate gates; Hero sold
-    for a small sum of silver; Brothers pursued and accused of theft; The brothers themselves name the
-    thief''s penalty; The wife confesses the hero''s innocence; A wild animal is blamed for the hero''s
-    death; A witness proposes judging by where the shirt is torn; Women dazzled by the hero cut their
-    hands; Women of the city gossip about the wife''s passion; A year of rain and relief follows the famine.'
+- text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
+    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
+    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
+    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
+    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
+    to sin; The husband recognizes his wife''s guilt; and 54 more.'
   basis: reading
 - text: 'Second journey with Benjamin and the feast in Joseph''s house: tagged by Claude (model), reading
     the Hebrew.'

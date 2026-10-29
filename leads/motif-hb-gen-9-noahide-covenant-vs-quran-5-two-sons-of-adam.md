@@ -2,12 +2,12 @@
 id: motif-hb-gen-9-noahide-covenant-vs-quran-5-two-sons-of-adam
 title: Blessing of Noah, blood laws and the covenant of the bow ↔ The two sons of Adam, the raven, and
   whoever saves one life
-summary: 'These two units share 1 motifs: whoever sheds human blood, by man shall his blood be shed, because
-  humans bear god''s image.'
+summary: 'These two units share 2 motifs: whoever sheds human blood, by man shall his blood be shed, because
+  humans bear god''s image [divergence between the texts], whoever sheds human blood, by man shall his
+  blood be shed, because humans bear god''s image.'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -15,8 +15,47 @@ traditions:
 layers:
 - motif
 motifs:
+- bloodshed-requires-bloodshed-as-divergence
 - bloodshed-requires-bloodshed
 passages:
+- tradition: judaism
+  ref: Gen 9:5
+  note: 'Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s image [divergence
+    between the texts] (Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām
+    dāmô yiššāfēkh kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of
+    God. Q: man qatala nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan
+    wa-man aḥyāhā fa-ka-annamā aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''.
+    cf. (not a match) m. Sanhedrin 4:5, derived from dəmê (plural) in Gen 4:10.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְאַ֨ךְ אֶת דִּמְכֶ֤ם לְנַפְשֹֽׁתֵיכֶם֙ אֶדְרֹ֔שׁ מִיַּ֥ד כָּל חַיָּ֖ה אֶדְרְשֶׁ֑נּוּ וּמִיַּ֣ד
+    הָֽאָדָ֗ם מִיַּד֙ אִ֣ישׁ אָחִ֔יו אֶדְרֹ֖שׁ אֶת נֶ֥פֶשׁ הָֽאָדָֽם
+- tradition: judaism
+  ref: Gen 9:6
+  note: 'Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s image [divergence
+    between the texts] (Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām
+    dāmô yiššāfēkh kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of
+    God. Q: man qatala nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan
+    wa-man aḥyāhā fa-ka-annamā aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''.
+    cf. (not a match) m. Sanhedrin 4:5, derived from dəmê (plural) in Gen 4:10.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת
+    הָאָדָֽם
+- tradition: islam
+  ref: Quran 5:32
+  note: 'Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s image [divergence
+    between the texts] (Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām
+    dāmô yiššāfēkh kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of
+    God. Q: man qatala nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan
+    wa-man aḥyāhā fa-ka-annamā aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''.
+    cf. (not a match) m. Sanhedrin 4:5, derived from dəmê (plural) in Gen 4:10.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ
+    نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ
+    أَحْيَا ٱلنَّاسَ جَمِيعًا وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم
+    بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ
 - tradition: judaism
   ref: Gen 9:6
   note: Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image (chiastic
@@ -36,24 +75,39 @@ passages:
     أَحْيَا ٱلنَّاسَ جَمِيعًا وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم
     بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ
 evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    divergence. Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām dāmô yiššāfēkh
+    kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of God. Q: man qatala
+    nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan wa-man aḥyāhā fa-ka-annamā
+    aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''. cf. (not a match) m. Sanhedrin
+    4:5, derived from dəmê (plural) in Gen 4:10.'
+  basis: reading
 - text: 'Shared motifs, rarest first: Whoever sheds human blood, by man shall his blood be shed, because
-    humans bear God''s image (weight 6.7). Pair score 6.7.'
+    humans bear God''s image [divergence between the texts] (weight 6.7); Whoever sheds human blood, by
+    man shall his blood be shed, because humans bear God''s image (weight 6.3). Pair score 13.0.'
   basis: reading
 - text: 'Only in Blessing of Noah, blood laws and the covenant of the bow: God requires the life of a
-    human even from an animal that kills; Divine blessing: be fruitful, multiply, fill the earth; Hero
-    blessed on leaving the vessel; God sees the bow in the cloud and remembers his covenant (the sign
-    reminds the deity); God makes a covenant with humans and all living creatures; Humans given rule over
-    animals; Humanity made in the image or likeness of the deity; Eating animals permitted to humans after
-    the flood; Eating blood is forbidden; Deity resolves or promises not to repeat the destruction; A
-    sign in the sky commemorates the flood (bow, necklace).'
+    human even from an animal that kills; God sees the bow in the cloud and remembers his covenant (the
+    sign reminds the deity); God makes a covenant with humans and all living creatures; Eating animals
+    permitted to humans after the flood; The same religion (din) was enjoined on Noah, Abraham, Moses,
+    Jesus and the Prophet: establish it and do not divide; The sign left after the flood: the rainbow,
+    or the ark [divergence between the texts]; A sign in the sky commemorates the flood (bow, necklace);
+    The sign the flood leaves for later generations [divergence between the texts]; Hero blessed on leaving
+    the vessel; Humans given rule over animals; Deity resolves or promises not to repeat the destruction;
+    Divine blessing: be fruitful, multiply, fill the earth; and 2 more.'
   basis: reading
-- text: 'Only in The two sons of Adam, the raven, and whoever saves one life: A brother kills his brother
-    in the first murder; Whoever kills one soul is as if he killed all humanity; whoever saves one, as
-    if he saved all; The victim wishes the murderer to bear both the victim''s sin and his own; No one
-    repents of his evil, saying ''What have I done?''; each rushes on like a horse charging into battle;
-    God accepts one brother''s offering and rejects the other''s; God sends a raven scratching the earth
-    to show how to hide a brother''s corpse; The threatened brother refuses to raise his hand to kill
-    in return, out of fear of God.'
+- text: 'Only in The two sons of Adam, the raven, and whoever saves one life: Whoever kills one soul is
+    as if he killed all humanity; whoever saves one, as if he saved all; The victim wishes the murderer
+    to bear both the victim''s sin and his own; God sends a raven scratching the earth to show how to
+    hide a brother''s corpse; The threatened brother refuses to raise his hand to kill in return, out
+    of fear of God; What the earth does with the murdered brother: takes in his blood, or hides his corpse
+    [divergence between the texts]; A brother kills his brother in the first murder [divergence between
+    the texts]; The first murderer''s lament after the deed [divergence between the texts]; No one repents
+    of his evil, saying ''What have I done?''; each rushes on like a horse charging into battle; No one
+    repents of his evil, saying ''What have I done?''; each rushes on like a horse charging into battle
+    [contrast between the texts]; God accepts one brother''s offering and rejects the other''s; God accepts
+    one brother''s offering and rejects the other''s [divergence between the texts]; Before the first
+    murder the killer is warned (by God or by the victim) [divergence between the texts]; and 1 more.'
   basis: reading
 - text: 'Blessing of Noah, blood laws and the covenant of the bow: tagged by Claude (model), reading the
     Hebrew.'

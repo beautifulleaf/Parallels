@@ -1,0 +1,95 @@
+---
+id: motif-hb-ps-136-great-hallel-vs-quran-79-pharaoh-and-cosmos
+title: 'Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel) ↔ Those who drag forth:
+  Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+summary: 'These two units share 2 motifs: god spread out the earth as a carpet, cradle or bed (bisat,
+  mihad, daha, sutihat, tahaha), the returning waters drown the pursuing army; not one survives.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- earth-spread-out-like-carpet
+- pursuers-drowned-in-sea
+passages:
+- tradition: judaism
+  ref: Ps 136:6
+  note: 'God spread out the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha) (wa-llāhu
+    jaʿala lakumu l-arḍa bisāṭan ~ le-rōqaʿ hā-ʾāreṣ ʿal ha-mmāyim. The Quran adds the purpose: li-taslukū
+    minhā subulan fijājan.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: לְרֹקַ֣ע הָ֭אָרֶץ עַל הַמָּ֑יִם כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+- tradition: islam
+  ref: Quran 79:30
+  note: God spread out the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ
+- tradition: judaism
+  ref: Ps 136:15
+  note: 'The returning waters drown the pursuing army; not one survives (fa-akhadhahu llāhu nakāla l-ākhirati
+    wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh himself punished by God; the Quran adds punishment
+    in the next world as well.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וְנִ֘עֵ֤ר פַּרְעֹ֣ה וְחֵיל֣וֹ בְיַם ס֑וּף כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+- tradition: islam
+  ref: Quran 79:25
+  note: 'The returning waters drown the pursuing army; not one survives (fa-akhadhahu llāhu nakāla l-ākhirati
+    wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh himself punished by God; the Quran adds punishment
+    in the next world as well.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    echo. fa-akhadhahu llāhu nakāla l-ākhirati wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh
+    himself punished by God; the Quran adds punishment in the next world as well.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God spread out the earth as a carpet, cradle or bed (bisat, mihad,
+    daha, sutihat, tahaha) (weight 5.6); The returning waters drown the pursuing army; not one survives
+    (weight 4.5). Pair score 10.1.'
+  basis: reading
+- text: 'Only in Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel): God spread out
+    (roqa'') the earth upon the waters; God gives bread to all flesh; God cut the Sea of Reeds into parts
+    (gozer ... lig''zarim) and led Israel through its midst; Every verse ends with the same response (''for
+    his steadfast love is forever''), an antiphonal litany; A creation litany with a refrain after every
+    line [divergence between the texts]; God struck the firstborn of Egypt, of man and beast; God of gods
+    and Lord of lords; God made the great lights: the sun to rule the day, the moon and stars to rule
+    the night; God made all his works in wisdom; God called ''the God of heaven'' in Persian-period speech;
+    The defeat of Sihon of Heshbon and Og of Bashan recalled; Psalm retells Israel''s sacred history (patriarchs,
+    Egypt, wilderness, conquest) as instruction or praise; and 1 more.'
+  basis: reading
+- text: 'Only in Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth:
+    Oath by those who draw out (souls) violently, those who release gently, who glide, outstrip and direct
+    affairs; When they see the Hour it will seem they lingered (in the world or the grave) only an evening
+    or its forenoon; One who feared standing before his Lord and restrained the soul from desire (hawa)
+    will have the garden as refuge; The first quaking blast (al-rajifa) is followed by a second (al-radifa);
+    a single shout (zajra) and they are on the open plain (al-sahira); God built the sky, raised its canopy,
+    darkened its night and brought out its forenoon; after that he spread out the earth; The call comes
+    in the holy valley named Ṭuwā; Pharaoh gathers the people and proclaims ''I am your Lord most high'';
+    Pharaoh gathers the people and proclaims ''I am your Lord most high'' [divergence between the texts];
+    Narrative of a prophet''s commissioning by God [divergence between the texts]; The call comes in the
+    holy valley named Ṭuwā [divergence between the texts]; On that day hell is brought forth, exposed
+    or kindled for whoever sees, and paradise brought near; The king''s heart is hardened (by himself
+    or by God) so he refuses to release the people [divergence between the texts]; and 8 more.'
+  basis: reading
+- text: 'Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel): tagged by Claude (model),
+    reading the Hebrew.'
+  basis: reading
+- text: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth: tagged
+    by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

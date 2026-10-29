@@ -1,12 +1,13 @@
 ---
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-7-lot
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Lot and his people
-summary: 'These two units share 3 motifs: the men of sodom are exceedingly wicked, god rains sulfur and
-  fire from heaven on cities, hero''s family saved with him.'
+summary: 'These two units share 8 motifs: god rains sulfur and fire from heaven on cities [divergence
+  between the texts], lot''s people come to men with desire instead of women [divergence between the texts],
+  wife who looks back is turned into a pillar of salt [divergence between the texts], a member of the
+  hero''s family is lost….'
 status: new
 relations:
-- transmission
-- convergence
+- response
 standing: proposed
 traditions:
 - judaism
@@ -14,10 +15,150 @@ traditions:
 layers:
 - motif
 motifs:
+- fire-and-brimstone-from-heaven-as-divergence
+- sodomites-lust-for-men-as-divergence
+- wife-turned-to-pillar-of-salt-as-divergence
+- family-member-lost
+- family-saved-as-divergence
 - wicked-sodom
 - fire-and-brimstone-from-heaven
 - family-saved
 passages:
+- tradition: judaism
+  ref: Gen 19:24
+  note: 'God rains sulfur and fire from heaven on cities [divergence between the texts] (The same verb,
+    m-ṭ-r ''to rain''. Gen: wa-YHWH himṭîr ʿal-Sədōm wə-ʿal-ʿĂmōrāh gofrît wā-ʾēš mēʾēt YHWH min-haš-šāmāyim.
+    Q: wa-amṭarnā ʿalayhim maṭaran. Q names neither the cities nor the sulfur and fire; only a ''rain''.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
+- tradition: islam
+  ref: Quran 7:84
+  note: 'God rains sulfur and fire from heaven on cities [divergence between the texts] (The same verb,
+    m-ṭ-r ''to rain''. Gen: wa-YHWH himṭîr ʿal-Sədōm wə-ʿal-ʿĂmōrāh gofrît wā-ʾēš mēʾēt YHWH min-haš-šāmāyim.
+    Q: wa-amṭarnā ʿalayhim maṭaran. Q names neither the cities nor the sulfur and fire; only a ''rain''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ
+- tradition: judaism
+  ref: Gen 19:5
+  note: 'Lot''s people come to men with desire instead of women [divergence between the texts] (The sin
+    and the conflict. Gen: one night''s assault, hôṣîʾēm ʾēlênû wə-nēdəʿāh ʾōtām, on the guests, and the
+    mob''s charge against Lot as an outsider, hā-ʾeḥād bāʾ-lāgûr wa-yyišpōṭ šāfôṭ. Q: Lot preaches against
+    a habitual practice, a-taʾtūna l-fāḥishata mā sabaqakum bihā min aḥadin ... innakum la-taʾtūna l-rijāla
+    shahwatan min dūni l-nisāʾ, and the people answer akhrijūhum min qaryatikum innahum unāsun yataṭahharūna.
+    Q 7 has no guests, no offer of the daughters (Gen 19:8) and no blinding.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקְרְא֤וּ אֶל לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה
+    הוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵדְעָ֖ה אֹתָֽם
+- tradition: judaism
+  ref: Gen 19:9
+  note: 'Lot''s people come to men with desire instead of women [divergence between the texts] (The sin
+    and the conflict. Gen: one night''s assault, hôṣîʾēm ʾēlênû wə-nēdəʿāh ʾōtām, on the guests, and the
+    mob''s charge against Lot as an outsider, hā-ʾeḥād bāʾ-lāgûr wa-yyišpōṭ šāfôṭ. Q: Lot preaches against
+    a habitual practice, a-taʾtūna l-fāḥishata mā sabaqakum bihā min aḥadin ... innakum la-taʾtūna l-rijāla
+    shahwatan min dūni l-nisāʾ, and the people answer akhrijūhum min qaryatikum innahum unāsun yataṭahharūna.
+    Q 7 has no guests, no offer of the daughters (Gen 19:8) and no blinding.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּאמְר֣וּ גֶּשׁ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה
+    נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת
+- tradition: islam
+  ref: Quran 7:80
+  note: 'Lot''s people come to men with desire instead of women [divergence between the texts] (The sin
+    and the conflict. Gen: one night''s assault, hôṣîʾēm ʾēlênû wə-nēdəʿāh ʾōtām, on the guests, and the
+    mob''s charge against Lot as an outsider, hā-ʾeḥād bāʾ-lāgûr wa-yyišpōṭ šāfôṭ. Q: Lot preaches against
+    a habitual practice, a-taʾtūna l-fāḥishata mā sabaqakum bihā min aḥadin ... innakum la-taʾtūna l-rijāla
+    shahwatan min dūni l-nisāʾ, and the people answer akhrijūhum min qaryatikum innahum unāsun yataṭahharūna.
+    Q 7 has no guests, no offer of the daughters (Gen 19:8) and no blinding.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ
+    ٱلْعَٰلَمِينَ
+- tradition: islam
+  ref: Quran 7:81
+  note: 'Lot''s people come to men with desire instead of women [divergence between the texts] (The sin
+    and the conflict. Gen: one night''s assault, hôṣîʾēm ʾēlênû wə-nēdəʿāh ʾōtām, on the guests, and the
+    mob''s charge against Lot as an outsider, hā-ʾeḥād bāʾ-lāgûr wa-yyišpōṭ šāfôṭ. Q: Lot preaches against
+    a habitual practice, a-taʾtūna l-fāḥishata mā sabaqakum bihā min aḥadin ... innakum la-taʾtūna l-rijāla
+    shahwatan min dūni l-nisāʾ, and the people answer akhrijūhum min qaryatikum innahum unāsun yataṭahharūna.
+    Q 7 has no guests, no offer of the daughters (Gen 19:8) and no blinding.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ
+- tradition: judaism
+  ref: Gen 19:26
+  note: 'Wife who looks back is turned into a pillar of salt [divergence between the texts] (Gen: wat-tabbēṭ
+    ʾištô mēʾaḥărāyw wat-təhî nəṣîv melaḥ, she looks back and becomes salt. Q: fa-anjaynāhu wa-ahlahu
+    illā mraʾatahu kānat mina l-ghābirīna, she ''stayed behind'' with the doomed. Q has no looking back
+    and no salt.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+- tradition: islam
+  ref: Quran 7:83
+  note: 'Wife who looks back is turned into a pillar of salt [divergence between the texts] (Gen: wat-tabbēṭ
+    ʾištô mēʾaḥărāyw wat-təhî nəṣîv melaḥ, she looks back and becomes salt. Q: fa-anjaynāhu wa-ahlahu
+    illā mraʾatahu kānat mina l-ghābirīna, she ''stayed behind'' with the doomed. Q has no looking back
+    and no salt.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
+- tradition: judaism
+  ref: Gen 19:16
+  note: A member of the hero's family is lost (wa-ahlaka illā man sabaqa ʿalayhi l-qawlu ~ Lot's household
+    is led out (wa-yyaḥăzîqû ... bə-yad ʾištô û-və-yad šətê vənōtāyw) yet his wife becomes a pillar of
+    salt (wat-təhî nəṣîv melaḥ). The HB has a lost family member in the Sodom story, not in the flood;
+    the Quran gives one to Noah.)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
+    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+- tradition: judaism
+  ref: Gen 19:26
+  note: A member of the hero's family is lost (wa-ahlaka illā man sabaqa ʿalayhi l-qawlu ~ Lot's household
+    is led out (wa-yyaḥăzîqû ... bə-yad ʾištô û-və-yad šətê vənōtāyw) yet his wife becomes a pillar of
+    salt (wat-təhî nəṣîv melaḥ). The HB has a lost family member in the Sodom story, not in the flood;
+    the Quran gives one to Noah.)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+- tradition: islam
+  ref: Quran 7:83
+  note: A member of the hero's family is lost
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
+- tradition: judaism
+  ref: Gen 19:16
+  note: 'Hero''s family saved with him [divergence between the texts] (Why Lot is saved. Gen: bə-ḥemlat
+    YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ ʾet-Lôṭ, rescued for Abraham''s sake,
+    dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu wa-ahlahu, as a messenger who preached
+    (7:80), with no mention of Abraham and no hesitation.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
+    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+- tradition: judaism
+  ref: Gen 19:29
+  note: 'Hero''s family saved with him [divergence between the texts] (Why Lot is saved. Gen: bə-ḥemlat
+    YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ ʾet-Lôṭ, rescued for Abraham''s sake,
+    dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu wa-ahlahu, as a messenger who preached
+    (7:80), with no mention of Abraham and no hesitation.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם וַיְשַׁלַּ֤ח
+    אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
+- tradition: islam
+  ref: Quran 7:83
+  note: 'Hero''s family saved with him [divergence between the texts] (Why Lot is saved. Gen: bə-ḥemlat
+    YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ ʾet-Lôṭ, rescued for Abraham''s sake,
+    dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu wa-ahlahu, as a messenger who preached
+    (7:80), with no mention of Abraham and no hesitation.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
 - tradition: judaism
   ref: Gen 19:4
   note: The men of Sodom are exceedingly wicked
@@ -52,6 +193,14 @@ passages:
   lang: he
   source: Westminster Leningrad Codex (OSHB)
   text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
+- tradition: judaism
+  ref: Gen 19:25
+  note: God rains sulfur and fire from heaven on cities ('from YHWH ... from YHWH from heaven', double
+    divine name)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים וְצֶ֖מַח
+    הָאֲדָמָֽה
 - tradition: islam
   ref: Quran 7:84
   note: God rains sulfur and fire from heaven on cities (only 'we rained on them a rain')
@@ -79,24 +228,44 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
 evidence:
-- text: 'Shared motifs, rarest first: The men of Sodom are exceedingly wicked (weight 5.2); God rains
-    sulfur and fire from heaven on cities (weight 4.9); Hero''s family saved with him (weight 4.5). Pair
-    score 14.6.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
+    divergence. The same verb, m-ṭ-r ''to rain''. Gen: wa-YHWH himṭîr ʿal-Sədōm wə-ʿal-ʿĂmōrāh gofrît
+    wā-ʾēš mēʾēt YHWH min-haš-šāmāyim. Q: wa-amṭarnā ʿalayhim maṭaran. Q names neither the cities nor
+    the sulfur and fire; only a ''rain''. Gen: wat-tabbēṭ ʾištô mēʾaḥărāyw wat-təhî nəṣîv melaḥ, she looks
+    back and becomes salt. Q: fa-anjaynāhu wa-ahlahu illā mraʾatahu kānat mina l-ghābirīna, she ''stayed
+    behind'' with the doomed. Q has no looking back and no salt. Why Lot is saved. Gen: bə-ḥemlat YHWH
+    ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ ʾet-Lôṭ, rescued for Abraham''s sake, dragged
+    out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu wa-ahlahu, as a messenger who preached (7:80),
+    with no mention of Abraham and no hesitation. The sin and the conflict. Gen: one night''s assault,
+    hôṣîʾēm ʾēlênû wə-nēdəʿāh ʾōtām, on the guests, and the mob''s charge against Lot as an outsider,
+    hā-ʾeḥād bāʾ-lāgûr wa-yyišpōṭ šāfôṭ. Q: Lot preaches against a habitual practice, a-taʾtūna l-fāḥishata
+    mā sabaqakum bihā min aḥadin ... innakum la-taʾtūna l-rijāla shahwatan min dūni l-nisāʾ, and the people
+    answer akhrijūhum min qaryatikum innahum unāsun yataṭahharūna. Q 7 has no guests, no offer of the
+    daughters (Gen 19:8) and no blinding.'
   basis: reading
-- text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: Angels seize the hesitating
-    family by the hand and lead them out; Two angels are received as guests by Lot in Sodom; Attackers
-    struck with blindness and cannot find the door; Cities overturned (hafakh) and the plain destroyed;
-    Command not to look back while fleeing a doomed place; Host runs to welcome strangers, washes their
-    feet and feeds them; Host offers his virgin daughters to the mob to protect his guests; Townsmen surround
-    the house and demand the male guest for sexual abuse; An outcry (tse''aqah) from the wicked city reaches
-    God; A small town is spared at the refugee''s request (Zoar, ''small''); Smoke rises from the destroyed
-    land like smoke of a kiln; The righteous man''s warning is taken as a joke by his own relatives; Wife
-    who looks back is turned into a pillar of salt.'
+- text: 'Shared motifs, rarest first: God rains sulfur and fire from heaven on cities [divergence between
+    the texts] (weight 6.7); Lot''s people come to men with desire instead of women [divergence between
+    the texts] (weight 6.7); Wife who looks back is turned into a pillar of salt [divergence between the
+    texts] (weight 6.3); A member of the hero''s family is lost (weight 5.8); Hero''s family saved with
+    him [divergence between the texts] (weight 5.4); The men of Sodom are exceedingly wicked (weight 5.2);
+    God rains sulfur and fire from heaven on cities (weight 4.8); Hero''s family saved with him (weight
+    4.5). Pair score 45.4.'
+  basis: reading
+- text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
+    refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
+    out; Two angels are received as guests by Lot in Sodom [divergence between the texts]; The angels
+    tell Lot who sent them and what they will do [divergence between the texts]; The angelic guests reveal
+    they are sent against a criminal people [divergence between the texts]; Cities overturned (hafakh)
+    and the plain destroyed [divergence between the texts]; Deniers pray: ''If this is the truth from
+    you, rain stones on us from the sky''; God rains destruction on Lot''s town [divergence between the
+    texts]; Command not to look back while fleeing a doomed place [divergence between the texts]; The
+    fate of Lot''s wife [divergence between the texts]; Host offers his virgin daughters to the mob to
+    protect his guests [divergence between the texts]; Lot''s family is saved at the time before dawn
+    (bi-sahar) while a storm of stones (hasib) destroys the rest; and 34 more.'
   basis: reading
 - text: 'Only in Lot and his people: The townspeople resolve to expel the righteous family because ''they
-    keep themselves pure''; A member of the hero''s family is lost; Lot''s wife is among those who stay
-    behind and perish; Lot''s people come to men with desire instead of women; A people commit an indecency
-    no one in the world did before them.'
+    keep themselves pure''; Lot''s people come to men with desire instead of women; A people commit an
+    indecency no one in the world did before them; Lot''s wife is among those who stay behind and perish.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

@@ -1,0 +1,71 @@
+---
+id: motif-hb-jer-15-moses-and-samuel-vs-quran-9-hypocrites-vow
+title: Though Moses and Samuel stood before me ↔ The broken vow of charity; seventy prayers in vain
+summary: 'These two units share 1 motifs: even if the prophet asks forgiveness for them seventy times
+  god will not forgive them.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- seventy-times-forgiveness-useless
+passages:
+- tradition: judaism
+  ref: Jer 15:1
+  note: 'Even if the prophet asks forgiveness for them seventy times God will not forgive them (No amount
+    of intercession will change God''s verdict: in tastaghfir lahum sabʿīna marratan fa-lan yaghfira llāhu
+    lahum vs ʾim-yaʿămōd mōšeh ûšᵉmûʾēl lᵉpānay ʾên napšî ʾel-hāʿām hazzeh. Q makes it seventy prayers;
+    Jer the greatest intercessors.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י אִם יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י אֵ֥ין נַפְשִׁ֖י אֶל הָעָ֣ם
+    הַזֶּ֑ה שַׁלַּ֥ח מֵֽעַל פָּנַ֖י וְיֵצֵֽאוּ
+- tradition: islam
+  ref: Quran 9:80
+  note: Even if the prophet asks forgiveness for them seventy times God will not forgive them
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن
+    يَغْفِرَ ٱللَّهُ لَهُمْ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱللَّهُ لَا يَهْدِى
+    ٱلْقَوْمَ ٱلْفَٰسِقِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. No amount of intercession will change God''s verdict: in tastaghfir lahum sabʿīna marratan fa-lan
+    yaghfira llāhu lahum vs ʾim-yaʿămōd mōšeh ûšᵉmûʾēl lᵉpānay ʾên napšî ʾel-hāʿām hazzeh. Q makes it
+    seventy prayers; Jer the greatest intercessors.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Even if the prophet asks forgiveness for them seventy times God
+    will not forgive them (weight 6.7). Pair score 6.7.'
+  basis: reading
+- text: 'Only in Though Moses and Samuel stood before me: God appoints four kinds of destroyers: the sword
+    to kill, dogs to drag, birds and beasts to devour; Those destined for death to death, for the sword
+    to the sword, for famine to famine, for captivity to captivity; God says ''I am weary of relenting''
+    (nil''eti hinnahem); She who bore seven languishes and breathes out her life; her sun goes down while
+    it is still day; A later disaster is attributed to the unforgiven sins and innocent blood of an earlier
+    king; Moses, Aaron and Samuel named together as those who called on God and were answered; Intercession
+    avails only for whom God permits.'
+  basis: reading
+- text: 'Only in The broken vow of charity; seventy prayers in vain: Hypocrites mock believers who give
+    voluntarily and those who can give only their effort; Men vow to give alms if God enriches them, then
+    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; Hero
+    vows that if God protects and provides for him, he will worship and tithe [divergence between the
+    texts]; Whether the prophet should intercede for a sinful people [contrast between the texts]; God
+    is near in their mouths but far from their kidneys (hearts); Pay vows without delay; not vowing is
+    no sin; God forbids the prophet to pray or intercede for the people, for he will not hear.'
+  basis: reading
+- text: 'Though Moses and Samuel stood before me: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'The broken vow of charity; seventy prayers in vain: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

@@ -1,0 +1,100 @@
+---
+id: motif-hb-2kgs-17-fall-of-samaria-vs-quran-7-idol-request
+title: Fall of Samaria and the sermon on Israel's exile ↔ Israel asks for a god like the idol-worshipers
+summary: 'These two units share 2 motifs: after crossing the sea the people see idol-worshipers and ask
+  the prophet for a god like theirs, people make a molten calf while the leader is on the mountain.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- people-ask-for-idol-like-other-nations
+- golden-calf
+passages:
+- tradition: judaism
+  ref: 2Kgs 17:15
+  note: 'After crossing the sea the people see idol-worshipers and ask the prophet for a god like theirs
+    (Imitation of the neighbours'' gods and the vanity of their cult: wa-bāṭilun mā kānū yaʿmalūn, mutabbarun
+    mā hum fīhi vs wayyēlᵉkû ʾaḥărê hahebel wayyehbālû wᵉʾaḥărê haggôyim ʾăšer sᵉbîbōtām ... lᵉbiltî ʿăśôt
+    kāhem.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּמְאֲס֣וּ אֶת חֻקָּ֗יו וְאֶת בְּרִיתוֹ֙ אֲשֶׁ֣ר כָּרַ֣ת אֶת אֲבוֹתָ֔ם וְאֵת֙ עֵֽדְוֺתָ֔יו
+    אֲשֶׁ֥ר הֵעִ֖יד בָּ֑ם וַיֵּ֨לְכ֜וּ אַחֲרֵ֤י הַהֶ֨בֶל֙ וַיֶּהְבָּ֔לוּ וְאַחֲרֵ֤י הַגּוֹיִם֙ אֲשֶׁ֣ר
+    סְבִֽיבֹתָ֔ם אֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֹתָ֔ם לְבִלְתִּ֖י עֲשׂ֥וֹת כָּהֶֽם
+- tradition: islam
+  ref: Quran 7:138
+  note: After crossing the sea the people see idol-worshipers and ask the prophet for a god like theirs
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ
+    لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ
+- tradition: islam
+  ref: Quran 7:139
+  note: After crossing the sea the people see idol-worshipers and ask the prophet for a god like theirs
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: إِنَّ هَٰٓؤُلَآءِ مُتَبَّرٌ مَّا هُمْ فِيهِ وَبَٰطِلٌ مَّا كَانُوا۟ يَعْمَلُونَ
+- tradition: judaism
+  ref: 2Kgs 17:16
+  note: People make a molten calf while the leader is on the mountain (two molten calves)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּעַזְב֗וּ אֶת כָּל מִצְוֺת֙ יְהוָ֣ה אֱלֹהֵיהֶ֔ם וַיַּעֲשׂ֥וּ לָהֶ֛ם מַסֵּכָ֖ה שנים שְׁנֵ֣י
+    עֲגָלִ֑ים וַיַּעֲשׂ֣וּ אֲשֵׁירָ֗ה וַיִּֽשְׁתַּחֲווּ֙ לְכָל צְבָ֣א הַשָּׁמַ֔יִם וַיַּעַבְד֖וּ אֶת הַבָּֽעַל
+- tradition: islam
+  ref: Quran 7:138
+  note: People make a molten calf while the leader is on the mountain (foreshadows; cf. Exod 32:1 'make
+    us gods')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ
+    لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ
+- tradition: islam
+  ref: Quran 7:140
+  note: People make a molten calf while the leader is on the mountain (foreshadows; cf. Exod 32:1 'make
+    us gods')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
+    echo. Imitation of the neighbours'' gods and the vanity of their cult: wa-bāṭilun mā kānū yaʿmalūn,
+    mutabbarun mā hum fīhi vs wayyēlᵉkû ʾaḥărê hahebel wayyehbālû wᵉʾaḥărê haggôyim ʾăšer sᵉbîbōtām ...
+    lᵉbiltî ʿăśôt kāhem.'
+  basis: reading
+- text: 'Shared motifs, rarest first: After crossing the sea the people see idol-worshipers and ask the
+    prophet for a god like theirs (weight 6.3); People make a molten calf while the leader is on the mountain
+    (weight 4.7). Pair score 11.0.'
+  basis: reading
+- text: 'Only in Fall of Samaria and the sermon on Israel''s exile: God warned the people by all his prophets
+    and seers, ''Turn from your evil ways'', but they would not listen; Vassal king withholds tribute
+    and seeks help from Egypt, and is imprisoned; Kings or people practice divination (qesem) and augury
+    (nihush); A capital city is besieged for three years before it falls; Theological sermon explaining
+    the fall and exile of a nation as punishment for idolatry; Formula: he did not depart from the sins
+    of Jeroboam son of Nebat who made Israel sin; God calls Israel a stiff-necked people; King makes his
+    son ''pass through the fire'' after the abominations of the nations; Idols called ''elilim'' (''nothings'');
+    People bow down to all the host of heaven; An Assyrian king named in the narrative (Pul, Tiglath-pileser,
+    Shalmaneser, Sennacherib, Esarhaddon); Conquered population deported to Assyria or another distant
+    land; and 1 more.'
+  basis: reading
+- text: 'Only in Israel asks for a god like the idol-worshipers: Israel asks its leader to make them a
+    god [divergence between the texts]; People demand a king ''like all the nations''; Israel chosen as
+    God''s treasured people (am segullah) out of all peoples; Ruler orders the killing of male infants.'
+  basis: reading
+- text: 'Fall of Samaria and the sermon on Israel''s exile: tagged by Claude (model), reading the Hebrew.'
+  basis: reading
+- text: 'Israel asks for a god like the idol-worshipers: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

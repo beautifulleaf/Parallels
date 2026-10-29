@@ -1,0 +1,96 @@
+---
+id: motif-hb-prov-6-surety-ant-scoundrel-vs-quran-68-qalam-the-pen-and-the-slanderer
+title: 'Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates ↔ Nun: by the pen; the prophet''s
+  great character; the swearer, slanderer and base-born man branded on the snout'
+summary: 'These two units share 1 motifs: do not obey every contemptible swearer, backbiter going about
+  with slander, hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble).'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- vice-list-of-swearer-slanderer-ignoble-bastard
+passages:
+- tradition: judaism
+  ref: Prov 6:16
+  note: 'Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
+    coarse and moreover ''zanim'' (base-born, ignoble) (Catalogue of vices: ḥallāf mahīn, hammāz, mashshāʾ
+    bi-namīm, mannāʿ li-l-khayr, muʿtadin athīm, ʿutull, zanīm ~ šēš hēnnāh śānēʾ YHWH ... lešôn šāqer
+    ... yāfîaḥ kezāvîm ʿēd šāqer û-mešallēaḥ medānîm bên ʾaḥîm.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: שֶׁשׁ הֵ֭נָּה שָׂנֵ֣א יְהוָ֑ה וְ֝שֶׁ֗בַע תועבות תּוֹעֲבַ֥ת נַפְשֽׁוֹ
+- tradition: judaism
+  ref: Prov 6:17
+  note: 'Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
+    coarse and moreover ''zanim'' (base-born, ignoble) (Catalogue of vices: ḥallāf mahīn, hammāz, mashshāʾ
+    bi-namīm, mannāʿ li-l-khayr, muʿtadin athīm, ʿutull, zanīm ~ šēš hēnnāh śānēʾ YHWH ... lešôn šāqer
+    ... yāfîaḥ kezāvîm ʿēd šāqer û-mešallēaḥ medānîm bên ʾaḥîm.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: עֵינַ֣יִם רָ֭מוֹת לְשׁ֣וֹן שָׁ֑קֶר וְ֝יָדַ֗יִם שֹׁפְכ֥וֹת דָּם נָקִֽי
+- tradition: islam
+  ref: Quran 68:10
+  note: Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
+    coarse and moreover 'zanim' (base-born, ignoble)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ
+- tradition: islam
+  ref: Quran 68:11
+  note: Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
+    coarse and moreover 'zanim' (base-born, ignoble)
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
+    echo. Catalogue of vices: ḥallāf mahīn, hammāz, mashshāʾ bi-namīm, mannāʿ li-l-khayr, muʿtadin athīm,
+    ʿutull, zanīm ~ šēš hēnnāh śānēʾ YHWH ... lešôn šāqer ... yāfîaḥ kezāvîm ʿēd šāqer û-mešallēaḥ medānîm
+    bên ʾaḥîm.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Do not obey every contemptible swearer, backbiter going about with
+    slander, hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble) (weight 6.7). Pair score
+    6.7.'
+  basis: reading
+- text: 'Only in Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates: The worthless
+    man (adam beliyya''al) winks with his eyes, scrapes with his feet and points with his fingers, sowing
+    discord; Six things YHWH hates, seven an abomination: haughty eyes, lying tongue, hands shedding innocent
+    blood, scheming heart, feet running to evil, false witness, sower of discord; Warning against striking
+    hands as surety for a neighbor or stranger; free yourself without sleep like a gazelle from the hunter;
+    ''Go to the ant, sluggard'': without chief or ruler she stores food in summer and harvest; ''A little
+    sleep, a little slumber, a little folding of the hands'', and poverty comes like a vagabond, want
+    like an armed man; Graded numerical saying (''One thing God spoke, two things I heard''; ''three,
+    yes four'').'
+  basis: reading
+- text: 'Only in Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born
+    man branded on the snout: God threatens: ''We shall brand him on the snout (khurtum)''; The deniers
+    wish the prophet would compromise (tudhin) so they would compromise; The prophet is not mad; he has
+    an unfailing reward and is of a great moral character (khuluq ''azim); Mamzer excluded from the assembly
+    to the tenth generation; Oath ''Nun. By the pen and what they inscribe''; A mark (tav) is put on the
+    foreheads of those who sigh over the city''s abominations so the destroyers spare them; The prophet
+    is no soothsayer (kahin), no madman, no poet awaiting the accident of fate; God will put his hook
+    in the enemy king''s nose and his bit in his lips and lead him back; Defense of the prophet: there
+    is no madness (jinna) in your companion; he is only a warner; Do not go about as a talebearer among
+    your people; Unbelievers dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin) they
+    could equal; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g.
+    alif-lam-mim.'
+  basis: reading
+- text: 'Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates: tagged by Claude (model),
+    reading the Hebrew.'
+  basis: reading
+- text: 'Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born man branded
+    on the snout: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

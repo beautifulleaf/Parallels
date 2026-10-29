@@ -96,6 +96,9 @@ passages:
   text: وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ
     يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: Traveling with his family, the prophet sees a fire and goes to bring
     back a brand or find guidance there (weight 6.3); God appears in a bush that burns without being consumed
     (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 5.6);

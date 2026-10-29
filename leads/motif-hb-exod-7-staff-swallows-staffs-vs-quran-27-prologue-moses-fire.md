@@ -2,11 +2,12 @@
 id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-27-prologue-moses-fire
 title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Ta
   Sin; Moses at the fire, the jann-staff and the nine signs
-summary: 'These two units share 2 motifs: a staff thrown down becomes a serpent and turns back into a
-  staff, the king''s heart is hardened (by himself or by god) so he refuses to release the people.'
+summary: 'These two units share 4 motifs: why pharaoh and egypt refuse despite the signs [divergence between
+  the texts], a staff thrown down becomes a serpent and turns back into a staff, prophet''s wonders are
+  imitated by the king''s magicians in a contest, the king''s heart is hardened (by himself or by god)
+  so he refuses to release the people.'
 status: new
 relations:
-- transmission
 - convergence
 standing: proposed
 traditions:
@@ -15,9 +16,32 @@ traditions:
 layers:
 - motif
 motifs:
+- cause-of-pharaohs-refusal-as-divergence
 - staff-becomes-serpent
+- contest-with-court-magicians
 - hardening-of-pharaohs-heart
 passages:
+- tradition: judaism
+  ref: Exod 7:13
+  note: 'Why Pharaoh and Egypt refuse despite the signs [divergence between the texts] (Pharaoh''s response
+    to the sign: Exod 7:13 wa-yyeḥĕzaq lēv Parʿōh wə-lōʾ šāmaʿ ʾălēhem ka-ʾăšer dibber YHWH, the heart
+    hardened as God foretold (God hardens it himself at 14:4, 14:8); Q 26:49 has no hardening and no divine
+    agency, only Pharaoh''s rage: āmantum lahu qabla an ādhana lakum innahu la-kabīrukumu lladhī ʿallamakumu
+    s-siḥra, with a threat of amputation and crucifixion.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+- tradition: islam
+  ref: Quran 27:14
+  note: 'Why Pharaoh and Egypt refuse despite the signs [divergence between the texts] (Why Egypt refuses:
+    Exod 8:15 the magicians admit ʾeṣbaʿ ʾĕlōhîm hîʾ, yet wa-yyeḥĕzaq lēv Parʿōh ... ka-ʾăšer dibber YHWH,
+    the heart is hardened as God foretold; Q 27:14 wa-jaḥadū bihā wa-staiqanathā anfusuhum ẓulman wa-ʿuluwwan,
+    they rejected the signs though inwardly convinced, out of wrongdoing and arrogance. Refusal by God''s
+    design becomes knowing, self-chosen denial.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ
+    ٱلْمُفْسِدِينَ
 - tradition: judaism
   ref: Exod 7:9
   note: A staff thrown down becomes a serpent and turns back into a staff (here tannin (sea-dragon/crocodile),
@@ -41,6 +65,30 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ
     يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
+- tradition: judaism
+  ref: Exod 7:11
+  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
+    hartummim with their lahatim (secret arts))
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+    מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+- tradition: judaism
+  ref: Exod 7:12
+  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
+    hartummim with their lahatim (secret arts))
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת מַטֹּתָֽם
+- tradition: islam
+  ref: Quran 27:13
+  note: 'Prophet''s wonders are imitated by the king''s magicians in a contest (fa-lammā jāʾathum āyātunā
+    mubṣiratan qālū hādhā siḥrun mubīnun ~ wa-yyiqrāʾ gam Parʿōh la-ḥăkhāmîm wə-la-mkhaššəfîm wa-yyaʿăśû
+    gam hēm ... bə-lahăṭêhem kēn: Pharaoh''s side treats the signs as magic; Exodus shows it by having
+    the magicians copy them, the Quran by having Pharaoh''s people call them ''clear sorcery''.)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَلَمَّا جَآءَتْهُمْ ءَايَٰتُنَا مُبْصِرَةً قَالُوا۟ هَٰذَا سِحْرٌ مُّبِينٌ
 - tradition: judaism
   ref: Exod 7:3
   note: The king's heart is hardened (by himself or by God) so he refuses to release the people
@@ -69,25 +117,40 @@ passages:
   text: وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ
     ٱلْمُفْسِدِينَ
 evidence:
-- text: 'Shared motifs, rarest first: A staff thrown down becomes a serpent and turns back into a staff
-    (weight 5.4); The king''s heart is hardened (by himself or by God) so he refuses to release the people
-    (weight 4.6). Pair score 10.0.'
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
+    echo. fa-lammā jāʾathum āyātunā mubṣiratan qālū hādhā siḥrun mubīnun ~ wa-yyiqrāʾ gam Parʿōh la-ḥăkhāmîm
+    wə-la-mkhaššəfîm wa-yyaʿăśû gam hēm ... bə-lahăṭêhem kēn: Pharaoh''s side treats the signs as magic;
+    Exodus shows it by having the magicians copy them, the Quran by having Pharaoh''s people call them
+    ''clear sorcery''.'
+  basis: reading
+- text: 'Shared motifs, rarest first: Why Pharaoh and Egypt refuse despite the signs [divergence between
+    the texts] (weight 6.0); A staff thrown down becomes a serpent and turns back into a staff (weight
+    5.4); Prophet''s wonders are imitated by the king''s magicians in a contest (weight 5.1); The king''s
+    heart is hardened (by himself or by God) so he refuses to release the people (weight 4.6). Pair score
+    21.1.'
   basis: reading
 - text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
-    staffs: An eloquent brother is appointed to speak for the hero, who is ''as God'' to him; Prophet''s
-    wonders are imitated by the king''s magicians in a contest; Hero is eighty (and his brother eighty-three)
-    when they confront the king; God makes the prophet ''as God'' to the king with his brother as his
-    prophet; The prophet''s staff-serpent swallows the magicians'' staff-serpents; Wonders done so that
-    Egypt shall know ''I am YHWH''.'
+    staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet
+    ''as God'' to the king with his brother as his prophet; Wonders done so that Egypt shall know ''I
+    am YHWH''; Prophet''s wonders are imitated by the king''s magicians in a contest [divergence between
+    the texts]; Pharaoh turned away with his power/pillar (rukn) and called Moses ''a sorcerer or a madman'';
+    Who throws the staff before Pharaoh and what it becomes; Who throws the staff before Pharaoh and what
+    it becomes [divergence between the texts]; An eloquent brother is appointed to speak for the hero,
+    who is ''as God'' to him [divergence between the texts]; The prophet''s staff-serpent swallows the
+    magicians'' staff-serpents [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening
+    his heart, or Pharaoh and his people themselves; God sends Moses and Aaron together, with his signs,
+    to Pharaoh; The prophet''s staff-serpent swallows the magicians'' staff-serpents; and 2 more.'
   basis: reading
 - text: 'Only in Ta Sin; Moses at the fire, the jann-staff and the nine signs: At the fire the voice proclaims
-    ''Blessed is he who is in the fire and those around it''; God appears in a bush that burns without
-    being consumed; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g.
-    alif-lam-mim; God described as the one who dwells in the bush (seneh); God addresses the hero with
-    ''Fear not'' in a vision; Prophet''s hand turns leprous, white as snow, and is restored as a sign;
-    Moses was given nine clear signs; Traveling with his family, the prophet sees a fire and goes to bring
-    back a brand or find guidance there; The thrown staff quivers like a jānn (small snake) and Moses
-    turns and flees without looking back.'
+    ''Blessed is he who is in the fire and those around it''; God described as the one who dwells in the
+    bush (seneh); How God names himself to Moses from the fire [divergence between the texts]; Moses was
+    given nine clear signs; The number of signs or plagues in Egypt [divergence between the texts]; The
+    thrown staff quivers like a jānn (small snake) and Moses turns and flees without looking back; Why
+    Moses approaches the fire [divergence between the texts]; Moses flees from his staff turned serpent,
+    and God''s response [divergence between the texts]; Traveling with his family, the prophet sees a
+    fire and goes to bring back a brand or find guidance there; God appears in a bush that burns without
+    being consumed; Moses'' hand turned white as a sign [divergence between the texts]; A poetic list
+    of the Egyptian plagues differs in number and order from Exodus; and 3 more.'
   basis: reading
 - text: 'Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians'' staffs:
     tagged by Claude (model), reading the Hebrew.'

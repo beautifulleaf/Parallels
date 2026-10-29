@@ -1,0 +1,134 @@
+---
+id: motif-hb-ps-104-creation-hymn-vs-quran-36-cosmic-signs
+title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Signs of the dead earth,
+  night, sun, moon and the laden ship
+summary: 'These two units share 3 motifs: god made the sun a radiance and the moon a light with measured
+  stations, to count years and reckoning, sun and moon are set to rule day and night and mark signs and
+  seasons, rain from the sky gives life to the earth after its death, a sign of resurrection.'
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- moon-stations-for-reckoning
+- luminaries-rule-day-night
+- rain-revives-dead-earth
+passages:
+- tradition: judaism
+  ref: Ps 104:19
+  note: 'God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
+    (The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu
+    manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ
+    mᵉbôʾô tāšet-ḥōšek wîhî lāylāh.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+- tradition: judaism
+  ref: Ps 104:20
+  note: 'God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
+    (The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu
+    manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ
+    mᵉbôʾô tāšet-ḥōšek wîhî lāylāh.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+- tradition: islam
+  ref: Quran 36:39
+  note: God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ
+- tradition: judaism
+  ref: Ps 104:19
+  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
+    the sun knows its setting)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+- tradition: judaism
+  ref: Ps 104:20
+  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
+    the sun knows its setting)
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+- tradition: islam
+  ref: Quran 36:37
+  note: Sun and moon are set to rule day and night and mark signs and seasons
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ
+- tradition: islam
+  ref: Quran 36:40
+  note: Sun and moon are set to rule day and night and mark signs and seasons
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
+    فِى فَلَكٍ يَسْبَحُونَ
+- tradition: judaism
+  ref: Ps 104:30
+  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
+    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
+    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
+    death.)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+- tradition: islam
+  ref: Quran 36:33
+  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    echo. ʿāśâ yārēaḥ lə-môʿăḏîm šemeš yāḏaʿ məḇôʾô vs. wa-l-qamara qaddarnāhu manāzila ḥattā ʿāda ka-l-ʿurjūni
+    l-qadīm: the moon set for appointed times and the sun''s fixed setting. The Quran adds the image of
+    the old palm stalk for the waning crescent.'
+  basis: reading
+- text: 'Shared motifs, rarest first: God made the sun a radiance and the moon a light with measured stations,
+    to count years and reckoning (weight 6.3); Sun and moon are set to rule day and night and mark signs
+    and seasons (weight 4.7); Rain from the sky gives life to the earth after its death, a sign of resurrection
+    (weight 4.4). Pair score 15.5.'
+  basis: reading
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
+    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
+    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+    habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
+    works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
+    and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
+    to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
+    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
+    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
+    texts]; and 38 more.'
+  basis: reading
+- text: 'Only in Signs of the dead earth, night, sun, moon and the laden ship: The night is a sign: God
+    strips (naslakh) the day from it and they are in darkness; A sign: God carried their offspring in
+    the laden ship, and made for them similar things to ride; God measured stations (manazil) for the
+    moon until it returns like an old dried palm-stalk; Asked to spend, unbelievers retort ''shall we
+    feed one whom God could feed if he willed?''; God made the flood ship (or its survivors) a sign for
+    all the worlds; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn); The sun
+    comes forth like a bridegroom from his chamber and rejoices like a strong man to run his course; The
+    sun runs to its resting place (mustaqarr); Sun and moon each swim in an orbit (falak); God created
+    humans (and things) in pairs, male and female; Scoffers ask the prophet to hasten the punishment;
+    it is held back only by an appointed term and will come suddenly.'
+  basis: reading
+- text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
+    reading the Hebrew.'
+  basis: reading
+- text: 'Signs of the dead earth, night, sun, moon and the laden ship: tagged by Claude (model), reading
+    the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

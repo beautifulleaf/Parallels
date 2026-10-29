@@ -1,0 +1,109 @@
+---
+id: motif-hb-ps-107-four-rescues-vs-quran-29-emigrate-and-trust
+title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ God's earth is
+  wide; every soul tastes death; signs and the secure sanctuary
+summary: 'These two units share 1 motifs: seafarers cry to god in a storm; what they do once rescued [divergence
+  between the texts].'
+status: new
+relations:
+- response
+standing: proposed
+traditions:
+- judaism
+- islam
+layers:
+- motif
+motifs:
+- sailors-response-after-rescue-from-storm-as-divergence
+passages:
+- tradition: judaism
+  ref: Ps 107:28
+  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
+    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
+    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
+    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
+    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
+- tradition: judaism
+  ref: Ps 107:30
+  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
+    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
+    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
+    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
+    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
+  lang: he
+  source: Westminster Leningrad Codex (OSHB)
+  text: וַיִּשְׂמְח֥וּ כִֽי יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל מְח֥וֹז חֶפְצָֽם
+- tradition: islam
+  ref: Quran 29:65
+  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
+    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
+    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
+    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
+    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ
+    إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ
+- tradition: islam
+  ref: Quran 29:66
+  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
+    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
+    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
+    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
+    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَٰهُمْ وَلِيَتَمَتَّعُوا۟ فَسَوْفَ يَعْلَمُونَ
+evidence:
+- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
+    divergence. Same sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH
+    ba-ṣṣar lāhem ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna
+    lahu d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s
+    thanksgiving becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).'
+  basis: reading
+- text: 'Shared motifs, rarest first: Seafarers cry to God in a storm; what they do once rescued [divergence
+    between the texts] (weight 6.3). Pair score 6.3.'
+  basis: reading
+- text: 'Only in Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): God
+    shatters doors of bronze and cuts through bars of iron; Thanksgiving liturgy for four groups rescued
+    by God: desert wanderers, prisoners, the sick, seafarers; God ''sent his word and healed them'', the
+    word acting as an agent; God turns rivers into desert and fruitful land into salt waste, and desert
+    into pools of water; Storm-tossed sailors reel and stagger like drunkards and all their skill is swallowed
+    up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction and iron; Refrain:
+    ''Let them thank YHWH for his steadfast love and his wonders to the sons of man''; In distress, at
+    sea or otherwise, people call on God alone, then return to polytheism once rescued [divergence between
+    the texts]; God''s control of the wind over ships at sea: raising a storm or stilling it [divergence
+    between the texts]; God raises a storm that lifts ships to the heavens and down to the deeps, then
+    hushes it to a whisper and brings sailors to harbor [divergence between the texts]; God sends the
+    flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk and a few lote-trees;
+    Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
+    the texts]; and 8 more.'
+  basis: reading
+- text: 'Only in God''s earth is wide; every soul tastes death; signs and the secure sanctuary: God made
+    a secure sanctuary (haram amin) while people around are snatched away; This life is fleeting; whether
+    anything real follows it [divergence between the texts]; Seafarers cry to God in a storm; what they
+    do once rescued [contrast between the texts]; Was not God''s earth wide enough for you to emigrate
+    (hijra) in it?; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved; The
+    life of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter is the
+    true life; Every soul shall taste death; God provides prey for the lion and food for the raven''s
+    young that cry to him; If asked who created heaven and earth and sends rain, the idolaters themselves
+    answer ''God''; ''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience); Rain
+    from the sky gives life to the earth after its death, a sign of resurrection; Paradise as gardens
+    (of ʿAdn) beneath which rivers flow, where the righteous abide forever.'
+  basis: reading
+- text: 'Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): tagged by Claude
+    (model), reading the Hebrew.'
+  basis: reading
+- text: 'God''s earth is wide; every soul tastes death; signs and the secure sanctuary: tagged by Claude
+    (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-29'
+---
+
+## Questions
+
+## Notes

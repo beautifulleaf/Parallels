@@ -3,7 +3,7 @@ id: motif-quran-11-noah-vs-quran-23-noah
 title: Noah, the boiling oven, the lost son and al-Judi ↔ Noah called a madman; the ark and the boiling
   oven
 summary: 'These two units share 7 motifs: a specific sign marks the moment to board, the flood waters
-  are hot or boiling, a member of the hero''s family is lost, animals taken aboard in pairs….'
+  are hot or boiling, animals taken aboard in pairs, a member of the hero''s family is lost….'
 status: new
 relations:
 - internal
@@ -15,10 +15,10 @@ layers:
 motifs:
 - sign-to-board
 - boiling-waters
-- family-member-lost
 - animals-in-pairs
-- hero-preaches-to-people
+- family-member-lost
 - build-vessel-on-instruction
+- hero-preaches-to-people
 - family-saved
 passages:
 - tradition: islam
@@ -54,6 +54,22 @@ passages:
     وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
     ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
 - tradition: islam
+  ref: Quran 11:40
+  note: Animals taken aboard in pairs
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
+    ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا
+    قَلِيلٌ
+- tradition: islam
+  ref: Quran 23:27
+  note: Animals taken aboard in pairs
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
+    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+- tradition: islam
   ref: Quran 11:42
   note: A member of the hero's family is lost
   lang: ar
@@ -76,16 +92,22 @@ passages:
     وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
     ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
 - tradition: islam
-  ref: Quran 11:40
-  note: Animals taken aboard in pairs
+  ref: Quran 11:37
+  note: Hero builds a vessel on divine instruction ('under our eyes and by our revelation')
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
-    ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا
-    قَلِيلٌ
+  text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
+    مُّغْرَقُونَ
+- tradition: islam
+  ref: Quran 11:38
+  note: Hero builds a vessel on divine instruction ('under our eyes and by our revelation')
+  lang: ar
+  source: Quranic Arabic Corpus (Uthmani script)
+  text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن
+    تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
 - tradition: islam
   ref: Quran 23:27
-  note: Animals taken aboard in pairs
+  note: Hero builds a vessel on divine instruction ('make the ark under our eyes and our revelation')
   lang: ar
   source: Quranic Arabic Corpus (Uthmani script)
   text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
@@ -111,21 +133,6 @@ passages:
   text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ
     إِلَٰهٍ غَيْرُهُۥٓ أَفَلَا تَتَّقُونَ
 - tradition: islam
-  ref: Quran 11:37
-  note: Hero builds a vessel on divine instruction ('under our eyes and by our revelation')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
-    مُّغْرَقُونَ
-- tradition: islam
-  ref: Quran 23:27
-  note: Hero builds a vessel on divine instruction ('make the ark under our eyes and our revelation')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
-- tradition: islam
   ref: Quran 11:40
   note: Hero's family saved with him (except the one against whom the word went; few believed)
   lang: ar
@@ -143,33 +150,31 @@ passages:
     ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
 evidence:
 - text: 'Shared motifs, rarest first: A specific sign marks the moment to board (weight 6.3); The flood
-    waters are hot or boiling (weight 6.0); A member of the hero''s family is lost (weight 6.0); Animals
-    taken aboard in pairs (weight 5.8); Hero warns or preaches to his people before the flood (weight
-    5.2); Hero builds a vessel on divine instruction (weight 5.2); Hero''s family saved with him (weight
-    4.5). Pair score 38.9.'
+    waters are hot or boiling (weight 6.0); Animals taken aboard in pairs (weight 5.8); A member of the
+    hero''s family is lost (weight 5.8); Hero builds a vessel on divine instruction (weight 5.2); Hero
+    warns or preaches to his people before the flood (weight 5.2); Hero''s family saved with him (weight
+    4.5). Pair score 38.7.'
   basis: reading
 - text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Embark: ''in the name of God be its
-    sailing and its mooring''; Refrain ''away with...'' (bu''dan li-) the destroyed people; Hero blessed
-    on leaving the vessel; The chiefs (al-mala'') of the prophet''s people accuse him of error or folly
-    and reject him; Deity decides to destroy humankind; God commands: ''Earth, swallow your water; sky,
-    withhold!'' and the water subsides; Hero privately warned of the coming flood by a deity; The prophet''s
-    opponents object that only the lowliest follow him; he refuses to drive the believers away; Someone
-    seeks refuge on a mountain and is drowned; Noah reminds God that his son is of his family and God''s
-    promise is true; Deniers dare the prophet: ''Bring us what you threaten, if you are truthful''; People
-    mock the hero while he builds the vessel; The Prophet asks no wage for the message; The prophet disclaims
-    having God''s treasuries, knowing the unseen, or being an angel; God forbids the prophet to pray or
-    intercede for the people, for he will not hear; The elite scorn the prophet because only the lowest
-    of them follow him; Destruction follows the people''s rejection of a messenger; God answers that the
-    drowned son is not of Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings
-    of the unseen'' unknown to him and his people before; Vessel comes to rest on a named mountain; The
-    ark sails through waves like mountains; Prophet''s refrain to his people: ''Worship God; you have
-    no god other than him''.'
+    sailing and its mooring''; God commands: ''Earth, swallow your water; sky, withhold!'' and the water
+    subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
+    the prophet because only the lowest of them follow him; God answers that the drowned son is not of
+    Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
+    unknown to him and his people before; The ark sails through waves like mountains; What the flood hero
+    does when the vessel comes to rest; What God says of later generations after the flood: no repeat,
+    or punishment to come [contrast between the texts]; How the flood waters are stopped and subside [divergence
+    between the texts]; The prophet''s opponents object that only the lowliest follow him; he refuses
+    to drive the believers away; Someone seeks refuge on a mountain and is drowned; and 22 more.'
   basis: reading
 - text: 'Only in Noah called a madman; the ark and the boiling oven: God forbids the prophet to address
-    him on behalf of those who did wrong: they will be drowned; Hero asks the deity to judge or destroy
-    his opponents; The flood hero prays to be landed at a blessed landing place; The prophet''s people
-    object that he is only a human like them; had God willed he would have sent angels; Officers call
-    the visiting prophet ''this madman'' (meshugga'').'
+    him on behalf of those who did wrong: they will be drowned; The flood hero prays to be landed at a
+    blessed landing place; What the flood hero does when the vessel comes to rest [divergence between
+    the texts]; When and from where the flood waters come [divergence between the texts]; The prophet''s
+    people object that he is only a human like them; had God willed he would have sent angels; Whether
+    the flood hero speaks to his people before the flood [divergence between the texts]; Why God destroyed
+    a generation or a people [divergence between the texts]; Who is saved with the hero from the destruction,
+    and why [divergence between the texts]; Hero asks the deity to judge or destroy his opponents; Officers
+    call the visiting prophet ''this madman'' (meshugga'').'
   basis: reading
 - text: 'Noah, the boiling oven, the lost son and al-Judi: tagged by Claude (model), reading the Arabic.'
   basis: reading
