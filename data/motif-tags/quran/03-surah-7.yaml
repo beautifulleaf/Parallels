@@ -1,4 +1,86 @@
 new_motifs:
+  prophet-accused-of-sorcery: {label: "Opponents call the prophet or his message 'manifest sorcery'", cluster: polemic}
+  intercession-only-by-gods-leave: {label: "No intercessor can intercede except after God's permission", cluster: eschatology}
+  god-originates-and-repeats-creation: {label: "God originates creation and then repeats it (resurrection as re-creation)", cluster: eschatology}
+  boiling-water-drink-for-damned: {label: "The damned are given a drink of boiling water (hamim)", cluster: eschatology}
+  moon-stations-for-reckoning: {label: "God made the sun a radiance and the moon a light with measured stations, to count years and reckoning", cluster: cosmology}
+  paradise-prayer-and-greeting: {label: "The blessed in paradise cry 'Glory to you, O God', greet with 'Peace' and end with 'Praise be to God, Lord of the worlds'", cluster: eschatology}
+  man-prays-in-distress-then-forgets: {label: "Man calls on God lying, sitting or standing in distress, then passes on as if he had never prayed once relieved", cluster: piety}
+  demand-for-different-scripture: {label: "Deniers ask the prophet to bring a different Quran or change it; he may not alter it of himself", cluster: polemic}
+  prophet-lived-a-lifetime-among-them-first: {label: "The prophet argues he had lived a lifetime among them before receiving revelation", cluster: polemic}
+  humankind-originally-one-community: {label: "Humankind was originally one community, then they differed", cluster: primeval}
+  angels-record-deeds: {label: "God's messengers (angels) write down what people plot and do", cluster: eschatology}
+  sea-peril-sincere-prayer-then-ingratitude: {label: "Sailors in a storm call on God sincerely, vow thanks, and transgress once saved", cluster: piety}
+  worldly-life-like-rain-fed-crop: {label: "Parable: worldly life is like vegetation fed by rain, adorned, then cut down overnight as if it never flourished", cluster: parable}
+  abode-of-peace: {label: "God invites to the Abode of Peace (dar al-salam)", cluster: eschatology}
+  good-reward-and-more: {label: "The doers of good get the best reward 'and more' (ziyada)", cluster: eschatology}
+  faces-covered-with-night-darkness: {label: "The faces of evildoers are covered as with pieces of dark night", cluster: eschatology}
+  false-gods-disown-worshipers: {label: "At judgment the associated 'partners' disown their worshipers: 'it was not us you worshiped'", cluster: eschatology}
+  god-brings-living-from-dead: {label: "God brings the living out of the dead and the dead out of the living", cluster: theology}
+  quran-confirms-earlier-scripture: {label: "The Quran confirms what was before it and details the Book", cluster: polemic}
+  challenge-to-produce-a-surah: {label: "Challenge: if you say he forged it, produce one surah like it (tahaddi)", cluster: polemic}
+  dead-think-they-stayed-an-hour: {label: "The resurrected feel they had stayed only an hour of a day", cluster: eschatology}
+  every-nation-has-a-messenger: {label: "Every nation has a messenger, and it is judged justly when he comes", cluster: prophecy}
+  no-ransom-on-judgment-day: {label: "Each wrongdoer would ransom himself with all that is on earth, if he could", cluster: eschatology}
+  self-made-food-prohibitions-condemned: {label: "Making some of God's provision unlawful and some lawful on your own authority is condemned", cluster: law}
+  atoms-weight-recorded: {label: "Not an atom's weight in earth or heaven escapes God; all is in a clear book", cluster: theology}
+  friends-of-god-no-fear: {label: "God's friends (awliya') have no fear and will not grieve", cluster: piety}
+  night-for-rest-day-for-seeing: {label: "God made the night for rest and the day for seeing", cluster: cosmology}
+  god-has-no-son: {label: "Denial that God has taken a son: he is self-sufficient and owns all", cluster: christology}
+  prophet-asks-no-wage: {label: "The prophet asks no wage from his people; his reward is with God", cluster: prophecy}
+  only-youth-of-his-people-believed: {label: "Only some youths (dhurriyya) of Moses' people believed him, fearing Pharaoh", cluster: exodus}
+  houses-in-egypt-as-qibla: {label: "Moses and Aaron are told to make their people's houses in Egypt a qibla (place/direction of prayer)", cluster: exodus}
+  prophet-prays-to-harden-enemy: {label: "Moses prays God to obliterate Pharaoh's wealth and harden their hearts so they do not believe until they see punishment", cluster: exodus}
+  pharaoh-believes-while-drowning: {label: "As he drowns Pharaoh declares faith in the God of the Israelites, too late", cluster: exodus}
+  pharaohs-body-preserved-as-sign: {label: "Pharaoh's body is saved from the sea to be a sign for those after him", cluster: exodus}
+  ask-readers-of-earlier-scripture: {label: "If in doubt, ask those who read the scripture before you", cluster: polemic}
+  only-town-saved-by-repentance: {label: "Jonah's people is the one town whose belief benefited it, lifting the punishment", cluster: jonah}
+  no-compulsion-to-believe: {label: "Had God willed all on earth would believe; will you compel people to believe?", cluster: theology}
+  hanif-religion: {label: "Set your face toward religion as a hanif (pure monotheist)", cluster: abraham}
+  each-guided-for-himself: {label: "Whoever is guided is guided for his own good; whoever strays strays against himself", cluster: theology}
+  every-creatures-provision-with-god: {label: "Every creature on earth has its provision from God, who knows its resting place and depository", cluster: providence}
+  throne-on-the-water: {label: "Before creation God's throne was upon the water", cluster: cosmology}
+  creation-to-test-best-in-deeds: {label: "God created heaven and earth to test which of you is best in deeds", cluster: theology}
+  demand-treasure-or-angel: {label: "Deniers demand that a treasure be sent down to the prophet or an angel come with him", cluster: polemic}
+  worldly-seekers-paid-in-full-here: {label: "Those who want only this life are paid in full here and have nothing in the hereafter but fire", cluster: eschatology}
+  witnesses-testify-at-judgment: {label: "On judgment day witnesses (al-ashhad) testify against those who lied about God", cluster: eschatology}
+  prophets-followers-are-the-lowly: {label: "The elite scorn the prophet because only the lowest of them follow him", cluster: prophecy}
+  prophet-refuses-to-drive-away-poor-believers: {label: "The prophet refuses to drive away his humble followers to please the elite", cluster: prophecy}
+  prophet-disclaims-treasures-and-angelhood: {label: "The prophet disclaims having God's treasuries, knowing the unseen, or being an angel", cluster: prophecy}
+  ark-sails-in-gods-name: {label: "Embark: 'in the name of God be its sailing and its mooring'", cluster: flood}
+  waves-like-mountains: {label: "The ark sails through waves like mountains", cluster: flood}
+  earth-commanded-to-swallow-its-water: {label: "God commands: 'Earth, swallow your water; sky, withhold!' and the water subsides", cluster: flood}
+  noah-pleads-for-drowned-son: {label: "Noah reminds God that his son is of his family and God's promise is true", cluster: flood}
+  son-not-of-your-family: {label: "God answers that the drowned son is not of Noah's family: 'he is a deed not righteous'", cluster: flood}
+  tidings-of-the-unseen: {label: "The prophet's stories are 'tidings of the unseen' unknown to him and his people before", cluster: polemic}
+  repentance-brings-abundant-rain: {label: "Seek forgiveness and repent, and God will send the sky down on you in abundant rain", cluster: providence}
+  idols-blamed-for-prophets-madness: {label: "The people say one of their gods has struck the prophet with madness", cluster: polemic}
+  god-holds-every-creature-by-forelock: {label: "There is no creature but God holds it by its forelock", cluster: theology}
+  away-with-the-destroyed-refrain: {label: "Refrain 'away with...' (bu'dan li-) the destroyed people", cluster: punishment-stories}
+  prophet-was-the-hope-of-his-people: {label: "The people tell their prophet he had been their hope before this", cluster: prophecy}
+  three-days-respite-before-destruction: {label: "After the crime the people are given three days' enjoyment in their homes before destruction", cluster: punishment-stories}
+  destroyed-by-the-shout: {label: "A people is destroyed by the Shout / Blast (al-sayha)", cluster: punishment-stories}
+  divine-guests-do-not-eat: {label: "Abraham's angelic guests do not stretch their hands to the food, and he is afraid", cluster: abraham}
+  isaac-and-after-him-jacob: {label: "The annunciation names Isaac 'and after Isaac, Jacob'", cluster: abraham}
+  abraham-sighing-forbearing: {label: "Abraham is forbearing, sighing (awwah) and penitent", cluster: abraham}
+  lot-wishes-for-strong-support: {label: "Lot wishes he had strength or a strong support to take refuge in", cluster: lot}
+  appointed-time-is-morning: {label: "The angels tell Lot the destruction is appointed for the morning: 'is not the morning near?'", cluster: lot}
+  stones-of-baked-clay-marked: {label: "Stones of baked clay (sijjil), in layers, each marked by the Lord, rain on the town", cluster: lot}
+  remnant-of-god-is-better: {label: "What God leaves you (baqiyyat Allah) is better than dishonest gain", cluster: law}
+  does-your-prayer-command-you: {label: "The people mock: 'Does your prayer command you that we abandon our fathers' gods or our way with our wealth?'", cluster: prophecy}
+  prophet-practices-what-he-preaches: {label: "The prophet does not wish to do himself what he forbids them; he wants only reform", cluster: prophecy}
+  clan-protects-prophet-from-stoning: {label: "Only the prophet's clan keeps the people from stoning him", cluster: prophecy}
+  tyrant-leads-people-into-fire: {label: "On judgment day Pharaoh will lead his people down into the fire, an evil watering place", cluster: eschatology}
+  towns-standing-and-mown-down: {label: "Of the destroyed towns some still stand, some are mown down", cluster: punishment-stories}
+  none-speaks-but-by-permission: {label: "On that day no soul speaks except by God's leave", cluster: eschatology}
+  wretched-and-blessed-on-judgment-day: {label: "On judgment day people are either wretched (shaqi) or blessed (sa'id)", cluster: eschatology}
+  sighing-and-sobbing-in-hell: {label: "In the fire the damned have sighing and sobbing (zafir wa-shahiq)", cluster: eschatology}
+  abiding-while-heavens-and-earth-endure: {label: "Hell and paradise last as long as heavens and earth endure, except as God wills", cluster: eschatology}
+  scripture-of-moses-disputed: {label: "Moses was given the Book and people differed over it", cluster: polemic}
+  prayer-at-two-ends-of-day-and-night: {label: "Perform prayer at the two ends of the day and in the near hours of the night", cluster: ritual}
+  good-deeds-remove-bad-deeds: {label: "Good deeds remove evil deeds", cluster: piety}
+  few-who-forbade-corruption-saved: {label: "Only a few in past generations forbade corruption, and they were saved", cluster: punishment-stories}
+  stories-strengthen-prophets-heart: {label: "The stories of the messengers are told to make the prophet's heart firm", cluster: prophecy}
   disconnected-letters-opening: {label: "A surah opens with disconnected letters (al-muqatta'at) whose meaning is not given", cluster: quran-form}
   deeds-weighed-in-scales: {label: "Deeds are weighed on judgment day; heavy scales mean salvation, light scales loss", cluster: eschatology}
   town-destroyed-by-night-or-at-midday-rest: {label: "Divine punishment falls on a town by night or while its people take the midday rest", cluster: punishment-stories}
@@ -1076,3 +1158,391 @@ units:
       - {motif: god-seals-hearts-of-unbelievers, refs: ["9:127"]}
       - {motif: messengers-from-among-humans, refs: ["9:128"]}
       - {motif: lord-of-the-mighty-throne, refs: ["9:129"]}
+  - id: quran-10-opening-creation
+    tradition: islam
+    title: The wise Book, creation, sun and moon, the prayer of paradise
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:1-10"]
+    tags:
+      - {motif: disconnected-letters-opening, refs: ["10:1"], note: "alif-lam-ra"}
+      - {motif: people-marvel-messenger-is-man-among-them, refs: ["10:2"]}
+      - {motif: prophet-accused-of-sorcery, refs: ["10:2"]}
+      - {motif: creation-in-six-days, refs: ["10:3"]}
+      - {motif: god-established-on-throne, refs: ["10:3"]}
+      - {motif: intercession-only-by-gods-leave, refs: ["10:3"]}
+      - {motif: god-originates-and-repeats-creation, refs: ["10:4"]}
+      - {motif: boiling-water-drink-for-damned, refs: ["10:4"]}
+      - {motif: moon-stations-for-reckoning, refs: ["10:5"]}
+      - {motif: luminaries-rule-day-night, refs: ["10:5", "10:6"]}
+      - {motif: rivers-flow-beneath-gardens, refs: ["10:9"]}
+      - {motif: paradise-prayer-and-greeting, refs: ["10:10"]}
+    hints:
+      - "Moon's stations: Sir 43:6-8, Ps 104:19, 1 Enoch 73-74 (lunar stations) and the Arabian manazil al-qamar."
+  - id: quran-10-ingratitude-sea
+    tradition: islam
+    title: Prayer in distress, a changed Quran, the storm at sea
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:11-23"]
+    tags:
+      - {motif: man-prays-in-distress-then-forgets, refs: ["10:12"]}
+      - {motif: ad-successors-of-noahs-people, refs: ["10:14"], note: "the hearers made successors after destroyed generations"}
+      - {motif: demand-for-different-scripture, refs: ["10:15"]}
+      - {motif: prophet-lived-a-lifetime-among-them-first, refs: ["10:16"]}
+      - {motif: intercession-only-by-gods-leave, refs: ["10:18"], note: "'these are our intercessors with God'"}
+      - {motif: humankind-originally-one-community, refs: ["10:19"]}
+      - {motif: one-original-language, refs: ["10:19"], note: "one umma, not one language; interpretation"}
+      - {motif: gods-plan-outwits-schemers, refs: ["10:21"], note: "God is swifter in plotting"}
+      - {motif: angels-record-deeds, refs: ["10:21"]}
+      - {motif: sea-peril-sincere-prayer-then-ingratitude, refs: ["10:22", "10:23"]}
+      - {motif: storm-at-sea-stilled, refs: ["10:22"]}
+    hints:
+      - "Storm at sea and prayer: Ps 107:23-32 and Jonah 1:4-16 (sailors' prayers and vows)."
+  - id: quran-10-rain-parable-idols-disown
+    tradition: islam
+    title: Life like a crop, the abode of peace, darkened faces
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:24-30"]
+    tags:
+      - {motif: worldly-life-like-rain-fed-crop, refs: ["10:24"]}
+      - {motif: humans-like-grass-withering, refs: ["10:24"]}
+      - {motif: as-if-they-had-never-dwelt-there, refs: ["10:24"], note: "ka-an lam taghna bi-l-ams"}
+      - {motif: abode-of-peace, refs: ["10:25"]}
+      - {motif: good-reward-and-more, refs: ["10:26"], note: "Sunni exegesis: the 'more' is the vision of God"}
+      - {motif: faces-covered-with-night-darkness, refs: ["10:26", "10:27"]}
+      - {motif: false-gods-disown-worshipers, refs: ["10:28", "10:29"]}
+    hints:
+      - "Compare Isa 40:6-8, Ps 103:15-16, Jas 1:10-11 for the withering crop."
+  - id: quran-10-who-provides-challenge
+    tradition: islam
+    title: Who provides and who restores creation; the challenge of the surah
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:31-45"]
+    tags:
+      - {motif: god-brings-living-from-dead, refs: ["10:31"]}
+      - {motif: maker-of-eye-and-ear-sees-and-hears, refs: ["10:31"], note: "who owns hearing and sight?"}
+      - {motif: god-originates-and-repeats-creation, refs: ["10:34"]}
+      - {motif: idol-cannot-speak-or-guide, refs: ["10:35"]}
+      - {motif: quran-confirms-earlier-scripture, refs: ["10:37"]}
+      - {motif: challenge-to-produce-a-surah, refs: ["10:38"]}
+      - {motif: eyes-that-do-not-see, refs: ["10:42", "10:43"]}
+      - {motif: dead-think-they-stayed-an-hour, refs: ["10:45"]}
+  - id: quran-10-messenger-per-nation
+    tradition: islam
+    title: A messenger for every nation; no ransom
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:46-56"]
+    tags:
+      - {motif: every-nation-has-a-messenger, refs: ["10:47"]}
+      - {motif: people-dare-prophet-to-bring-punishment, refs: ["10:48", "10:50"]}
+      - {motif: prophet-does-not-know-unseen, refs: ["10:49"]}
+      - {motif: nation-has-fixed-term, refs: ["10:49"]}
+      - {motif: town-destroyed-by-night-or-at-midday-rest, refs: ["10:50"]}
+      - {motif: doomed-confess-wrongdoing-too-late, refs: ["10:51"]}
+      - {motif: no-ransom-on-judgment-day, refs: ["10:54"]}
+      - {motif: i-kill-and-make-alive, refs: ["10:56"]}
+    hints:
+      - "No ransom: Ps 49:8-9 ('the ransom of their life is costly'); Matt 16:26."
+  - id: quran-10-friends-of-god
+    tradition: islam
+    title: Healing for hearts, the atom's weight, God has no son
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:57-70"]
+    tags:
+      - {motif: self-made-food-prohibitions-condemned, refs: ["10:59", "10:60"]}
+      - {motif: atoms-weight-recorded, refs: ["10:61"]}
+      - {motif: friends-of-god-no-fear, refs: ["10:62", "10:63", "10:64"]}
+      - {motif: night-for-rest-day-for-seeing, refs: ["10:67"]}
+      - {motif: god-has-no-son, refs: ["10:68"]}
+    hints:
+      - "Compare Matt 10:29-30 (sparrows and hairs) for the atom's weight."
+  - id: quran-10-noah
+    tradition: islam
+    title: Noah's challenge to his people
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:71-74"]
+    tags:
+      - {motif: hero-preaches-to-people, refs: ["10:71"]}
+      - {motif: challenge-idols-to-plot, refs: ["10:71"], note: "gather your plan and your partners, then decide against me"}
+      - {motif: prophet-asks-no-wage, refs: ["10:72"]}
+      - {motif: family-saved, refs: ["10:73"]}
+      - {motif: reason-rejected-messenger, refs: ["10:73"]}
+      - {motif: god-seals-hearts-of-unbelievers, refs: ["10:74"]}
+  - id: quran-10-moses-pharaoh
+    tradition: islam
+    title: Moses, the houses as qibla, and Pharaoh's drowning faith
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:75-93"]
+    tags:
+      - {motif: prophet-accused-of-sorcery, refs: ["10:76", "10:77"]}
+      - {motif: ancestral-custom-defense, refs: ["10:78"]}
+      - {motif: contest-with-court-magicians, refs: ["10:79", "10:80", "10:81"]}
+      - {motif: only-youth-of-his-people-believed, refs: ["10:83"]}
+      - {motif: martyrs-pray-for-patience, refs: ["10:84", "10:85", "10:86"], note: "'do not make us a trial for the wrongdoers'"}
+      - {motif: houses-in-egypt-as-qibla, refs: ["10:87"]}
+      - {motif: prophet-prays-to-harden-enemy, refs: ["10:88", "10:89"]}
+      - {motif: hardening-of-pharaohs-heart, refs: ["10:88"], note: "at Moses' own prayer"}
+      - {motif: pursuers-drowned-in-sea, refs: ["10:90"]}
+      - {motif: pharaoh-believes-while-drowning, refs: ["10:90", "10:91"]}
+      - {motif: pharaoh-confesses-sin, refs: ["10:90"]}
+      - {motif: pharaohs-body-preserved-as-sign, refs: ["10:92"]}
+      - {motif: meek-inherit-the-land, refs: ["10:93"], note: "settled in a sound abode"}
+    hints:
+      - "Pharaoh's repentance in the sea: Pirqe de-Rabbi Eliezer 43 and Mekhilta Beshallah (Pharaoh survives, repents, becomes king of Nineveh); Exod 14:25 ('let us flee, YHWH fights for them')."
+      - "Houses as prayer places compare with Exod 12:7-13 (marked houses) and Dan 6:11."
+  - id: quran-10-book-readers-jonah
+    tradition: islam
+    title: Ask the readers of scripture; the people of Jonah
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:94-103"]
+    tags:
+      - {motif: ask-readers-of-earlier-scripture, refs: ["10:94"]}
+      - {motif: god-seals-hearts-of-unbelievers, refs: ["10:96", "10:97"]}
+      - {motif: only-town-saved-by-repentance, refs: ["10:98"]}
+      - {motif: whole-city-repents-at-warning, refs: ["10:98"], note: "qawm Yunus; city not named"}
+      - {motif: no-compulsion-to-believe, refs: ["10:99", "10:100"]}
+      - {motif: wait-and-see-challenge, refs: ["10:102"]}
+      - {motif: family-saved, refs: ["10:103"], note: "God saves his messengers and the believers"}
+    hints:
+      - "Jonah 3:5-10; Matt 12:41; compare b. Ta'anit 16a and y. Ta'anit 2:1 on Nineveh's repentance (feigned or real)."
+  - id: quran-10-closing
+    tradition: islam
+    title: The hanif creed and patience
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["10:104-109"]
+    tags:
+      - {motif: hanif-religion, refs: ["10:105"]}
+      - {motif: idol-cannot-speak-or-guide, refs: ["10:106"], note: "neither benefits nor harms"}
+      - {motif: i-kill-and-make-alive, refs: ["10:107"], note: "none removes harm but him"}
+      - {motif: each-guided-for-himself, refs: ["10:108"]}
+      - {motif: wait-and-see-challenge, refs: ["10:109"], note: "be patient until God judges"}
+  - id: quran-11-opening-throne-on-water
+    tradition: islam
+    title: The Book made firm, the Throne on the water, the challenge of ten surahs
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:1-24"]
+    tags:
+      - {motif: disconnected-letters-opening, refs: ["11:1"], note: "alif-lam-ra"}
+      - {motif: worship-god-no-other-god-formula, refs: ["11:2"]}
+      - {motif: hiding-from-god, refs: ["11:5"], note: "they fold their breasts and wrap their garments to hide from him"}
+      - {motif: every-creatures-provision-with-god, refs: ["11:6"]}
+      - {motif: creation-in-six-days, refs: ["11:7"]}
+      - {motif: throne-on-the-water, refs: ["11:7"]}
+      - {motif: divine-wind-over-waters, refs: ["11:7"], note: "the throne, not the spirit, is over the water"}
+      - {motif: creation-to-test-best-in-deeds, refs: ["11:7"]}
+      - {motif: prophet-accused-of-sorcery, refs: ["11:7"], note: "resurrection preaching called sorcery"}
+      - {motif: people-dare-prophet-to-bring-punishment, refs: ["11:8"], note: "'what holds it back?'"}
+      - {motif: man-prays-in-distress-then-forgets, refs: ["11:9", "11:10"], note: "despairs when mercy is withdrawn, boasts when it returns"}
+      - {motif: demand-treasure-or-angel, refs: ["11:12"]}
+      - {motif: challenge-to-produce-a-surah, refs: ["11:13", "11:14"], note: "here ten forged surahs"}
+      - {motif: worldly-seekers-paid-in-full-here, refs: ["11:15", "11:16"]}
+      - {motif: stone-tablets-written-by-god, refs: ["11:17"], note: "the Book of Moses as guide (imam) and mercy"}
+      - {motif: witnesses-testify-at-judgment, refs: ["11:18"]}
+      - {motif: eyes-that-do-not-see, refs: ["11:20", "11:24"], note: "parable of the blind and deaf vs the seeing and hearing"}
+    hints:
+      - "Throne on the water: Gen 1:2, Ps 29:10 and 104:3 (beams of his chambers on the waters), b. Hagigah 12b; compare Egyptian creation from Nun."
+  - id: quran-11-noah
+    tradition: islam
+    title: Noah, the boiling oven, the lost son and al-Judi
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:25-49"]
+    tags:
+      - {motif: hero-preaches-to-people, refs: ["11:25", "11:26"]}
+      - {motif: worship-god-no-other-god-formula, refs: ["11:26"]}
+      - {motif: chiefs-of-people-reject-prophet, refs: ["11:27"], note: "'only a human like us'"}
+      - {motif: reason-rejected-messenger, refs: ["11:27"]}
+      - {motif: prophets-followers-are-the-lowly, refs: ["11:27"]}
+      - {motif: prophet-asks-no-wage, refs: ["11:29"]}
+      - {motif: prophet-refuses-to-drive-away-poor-believers, refs: ["11:29", "11:30"]}
+      - {motif: prophet-disclaims-treasures-and-angelhood, refs: ["11:31"]}
+      - {motif: people-dare-prophet-to-bring-punishment, refs: ["11:32"]}
+      - {motif: hero-warned-by-deity, refs: ["11:36"]}
+      - {motif: divine-decision-to-destroy, refs: ["11:37"]}
+      - {motif: build-vessel-on-instruction, refs: ["11:37"], note: "'under our eyes and by our revelation'"}
+      - {motif: prophet-forbidden-to-intercede, refs: ["11:37"], note: "'do not address me concerning the wrongdoers'"}
+      - {motif: people-mock-builder, refs: ["11:38", "11:39"], note: "Noah mocks them back"}
+      - {motif: sign-to-board, refs: ["11:40"], note: "fara l-tannur, the oven boiled"}
+      - {motif: boiling-waters, refs: ["11:40"]}
+      - {motif: animals-in-pairs, refs: ["11:40"]}
+      - {motif: family-saved, refs: ["11:40"], note: "except the one against whom the word went; few believed"}
+      - {motif: ark-sails-in-gods-name, refs: ["11:41"]}
+      - {motif: waves-like-mountains, refs: ["11:42"]}
+      - {motif: family-member-lost, refs: ["11:42", "11:43"]}
+      - {motif: mountain-refuge-fails, refs: ["11:43"]}
+      - {motif: earth-commanded-to-swallow-its-water, refs: ["11:44"]}
+      - {motif: vessel-rests-on-mountain, refs: ["11:44"], note: "al-Judi"}
+      - {motif: away-with-the-destroyed-refrain, refs: ["11:44"]}
+      - {motif: noah-pleads-for-drowned-son, refs: ["11:45"]}
+      - {motif: son-not-of-your-family, refs: ["11:46", "11:47"]}
+      - {motif: blessing-on-descent, refs: ["11:48"]}
+      - {motif: tidings-of-the-unseen, refs: ["11:49"]}
+    hints:
+      - "The boiling oven: b. Sanhedrin 108b and Gen Rab 28:9 (the flood waters were boiling); al-Judi = Syriac Qardu (Peshitta/Targum Onqelos Gen 8:4 'mountains of Qardu')."
+      - "The lost son has no biblical counterpart; compare Ham's curse (Gen 9:22-25) and the drowned giant 'Og legends."
+  - id: quran-11-hud
+    tradition: islam
+    title: Hud and Ad
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:50-60"]
+    tags:
+      - {motif: worship-god-no-other-god-formula, refs: ["11:50"]}
+      - {motif: prophet-asks-no-wage, refs: ["11:51"]}
+      - {motif: repentance-brings-abundant-rain, refs: ["11:52"]}
+      - {motif: drought-as-punishment-for-sin, refs: ["11:52"], note: "positive form: repentance brings rain and strength"}
+      - {motif: idols-blamed-for-prophets-madness, refs: ["11:53", "11:54"]}
+      - {motif: challenge-idols-to-plot, refs: ["11:55"]}
+      - {motif: god-holds-every-creature-by-forelock, refs: ["11:56"]}
+      - {motif: god-will-replace-you-with-another-people, refs: ["11:57"]}
+      - {motif: family-saved, refs: ["11:58"], note: "Hud and the believers saved"}
+      - {motif: away-with-the-destroyed-refrain, refs: ["11:60"]}
+  - id: quran-11-salih
+    tradition: islam
+    title: Salih, the she-camel and the Shout
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:61-68"]
+    tags:
+      - {motif: worship-god-no-other-god-formula, refs: ["11:61"]}
+      - {motif: human-formed-from-earth, refs: ["11:61"], note: "ansha'akum min al-ard"}
+      - {motif: prophet-was-the-hope-of-his-people, refs: ["11:62"]}
+      - {motif: ancestral-custom-defense, refs: ["11:62"]}
+      - {motif: she-camel-of-god, refs: ["11:64"]}
+      - {motif: she-camel-hamstrung, refs: ["11:65"]}
+      - {motif: three-days-respite-before-destruction, refs: ["11:65"]}
+      - {motif: destroyed-by-the-shout, refs: ["11:67"]}
+      - {motif: found-dead-prostrate-in-homes, refs: ["11:67"]}
+      - {motif: as-if-they-had-never-dwelt-there, refs: ["11:68"]}
+      - {motif: away-with-the-destroyed-refrain, refs: ["11:68"]}
+  - id: quran-11-abraham-guests
+    tradition: islam
+    title: Abraham's guests, the roasted calf and the laughing wife
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:69-76"]
+    tags:
+      - {motif: three-divine-visitors, refs: ["11:69"], note: "messengers, number unstated"}
+      - {motif: hospitality-to-strangers, refs: ["11:69"]}
+      - {motif: calf-prepared-for-guests, refs: ["11:69"], note: "'ijl hanidh, roasted"}
+      - {motif: divine-guests-do-not-eat, refs: ["11:70"], note: "contrast Gen 18:8 where they eat"}
+      - {motif: sarah-laughs-overhearing, refs: ["11:71"], note: "she laughs standing, before the annunciation"}
+      - {motif: isaac-and-after-him-jacob, refs: ["11:71"]}
+      - {motif: birth-of-promised-son-in-old-age, refs: ["11:72", "11:73"]}
+      - {motif: patriarch-laughs-at-promise, refs: ["11:71", "11:72"]}
+      - {motif: bargaining-for-the-city, refs: ["11:74", "11:76"], note: "Abraham disputes for Lot's people; told to desist"}
+      - {motif: abraham-sighing-forbearing, refs: ["11:75"]}
+    hints:
+      - "Angels who do not eat: Tob 12:19, Gen Rab 48:14, b. Bava Metzia 86b (they only appeared to eat); Testament of Abraham 4."
+  - id: quran-11-lot
+    tradition: islam
+    title: Lot, his guests, his daughters and the stones of sijjil
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:77-83"]
+    tags:
+      - {motif: angels-lodge-with-lot, refs: ["11:77"]}
+      - {motif: wicked-sodom, refs: ["11:78"]}
+      - {motif: host-offers-daughters, refs: ["11:78", "11:79"], note: "'they are purer for you'"}
+      - {motif: lot-wishes-for-strong-support, refs: ["11:80"]}
+      - {motif: do-not-look-back, refs: ["11:81"]}
+      - {motif: lots-wife-among-those-left-behind, refs: ["11:81"]}
+      - {motif: appointed-time-is-morning, refs: ["11:81"]}
+      - {motif: overthrow-of-sodom-and-gomorrah-as-paradigm, refs: ["11:82"], note: "its top made its bottom"}
+      - {motif: stones-of-baked-clay-marked, refs: ["11:82", "11:83"]}
+      - {motif: fire-and-brimstone-from-heaven, refs: ["11:82"], note: "stones, not sulfur and fire"}
+    hints:
+      - "Sijjil from Persian sang-gil; compare the hailstones of Josh 10:11 and the marked stones of the sira's elephant story (Q 105:4)."
+  - id: quran-11-shuayb
+    tradition: islam
+    title: Shu'ayb - measures, the prayer that commands, the clan
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:84-95"]
+    tags:
+      - {motif: worship-god-no-other-god-formula, refs: ["11:84"]}
+      - {motif: just-weights-and-measures, refs: ["11:84", "11:85"]}
+      - {motif: remnant-of-god-is-better, refs: ["11:86"]}
+      - {motif: does-your-prayer-command-you, refs: ["11:87"]}
+      - {motif: prophet-practices-what-he-preaches, refs: ["11:88"]}
+      - {motif: roll-of-destroyed-peoples, refs: ["11:89"]}
+      - {motif: clan-protects-prophet-from-stoning, refs: ["11:91", "11:92"]}
+      - {motif: wait-and-see-challenge, refs: ["11:93"]}
+      - {motif: destroyed-by-the-shout, refs: ["11:94"], note: "in 7:91 it is the quake"}
+      - {motif: found-dead-prostrate-in-homes, refs: ["11:94"]}
+      - {motif: as-if-they-had-never-dwelt-there, refs: ["11:95"]}
+      - {motif: away-with-the-destroyed-refrain, refs: ["11:95"]}
+  - id: quran-11-pharaoh-leads
+    tradition: islam
+    title: Pharaoh leads his people into the fire; the towns standing and mown
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:96-102"]
+    tags:
+      - {motif: tyrant-leads-people-into-fire, refs: ["11:97", "11:98"]}
+      - {motif: towns-standing-and-mown-down, refs: ["11:100"]}
+      - {motif: false-gods-disown-worshipers, refs: ["11:101"], note: "their gods availed them nothing"}
+      - {motif: town-destroyed-by-night-or-at-midday-rest, refs: ["11:102"], note: "the seizing of the towns"}
+  - id: quran-11-judgment-day
+    tradition: islam
+    title: The witnessed day; the wretched and the blessed
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:103-111"]
+    tags:
+      - {motif: nation-has-fixed-term, refs: ["11:104"]}
+      - {motif: none-speaks-but-by-permission, refs: ["11:105"]}
+      - {motif: wretched-and-blessed-on-judgment-day, refs: ["11:105", "11:106", "11:108"]}
+      - {motif: sighing-and-sobbing-in-hell, refs: ["11:106"]}
+      - {motif: abiding-while-heavens-and-earth-endure, refs: ["11:107", "11:108"]}
+      - {motif: ancestral-custom-defense, refs: ["11:109"]}
+      - {motif: scripture-of-moses-disputed, refs: ["11:110"]}
+    hints:
+      - "Limited duration 'except as God wills' fed debates on the finitude of hell; compare m. Eduyot 2:10 (judgment of the wicked in Gehenna twelve months) and Origen's apokatastasis."
+  - id: quran-11-closing
+    tradition: islam
+    title: Stand firm; prayer times; good deeds remove bad
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["11:112-123"]
+    tags:
+      - {motif: prayer-at-two-ends-of-day-and-night, refs: ["11:114"]}
+      - {motif: good-deeds-remove-bad-deeds, refs: ["11:114"]}
+      - {motif: few-who-forbade-corruption-saved, refs: ["11:116"]}
+      - {motif: bargaining-for-the-city, refs: ["11:117"], note: "God does not destroy towns unjustly while their people are righteous"}
+      - {motif: humankind-originally-one-community, refs: ["11:118"]}
+      - {motif: devil-fills-hell-with-followers, refs: ["11:119"], note: "God's word: 'I will fill hell with jinn and men all together'"}
+      - {motif: stories-strengthen-prophets-heart, refs: ["11:120"]}
+      - {motif: wait-and-see-challenge, refs: ["11:121", "11:122"]}
+    hints:
+      - "Prayer times: Ps 55:18 (evening, morning, noon), Dan 6:11; 'good deeds remove evil' compares with Dan 4:24 (redeem sins by righteousness/alms) and Prov 16:6."
