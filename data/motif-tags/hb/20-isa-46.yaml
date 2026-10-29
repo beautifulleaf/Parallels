@@ -48,7 +48,7 @@ new_motifs:
   zion-desert-made-like-eden: {label: "God makes Zion's wilderness like Eden and her desert like the garden of YHWH", cluster: zion}
   heavens-vanish-like-smoke: {label: "The heavens will vanish like smoke and the earth wear out like a garment, but God's salvation endures forever", cluster: eschatology}
   combat-myth-merged-with-exodus: {label: "God's primeval defeat of the sea monster is identified with drying the sea for the redeemed to cross", cluster: cosmology}
-  ransomed-return-to-zion-singing: {label: "The ransomed of YHWH return to Zion with singing, everlasting joy on their heads; sorrow and sighing flee", cluster: zion}
+  ransomed-return-to-zion-singing: {label: "The ransomed of YHWH return to Zion with singing, everlasting joy upon their heads; sorrow and sighing flee away", cluster: eschatology}
   cup-of-wrath-transferred-to-enemies: {label: "God takes the cup of staggering from his people's hand and gives it to their tormentors", cluster: prophecy}
   drunk-but-not-with-wine: {label: "A people described as drunk and staggering, but not from wine", cluster: prophecy}
   back-made-a-street-for-conquerors: {label: "Tormentors told the captive 'Bow down that we may pass over', and she made her back like the ground for them to walk on", cluster: prophecy}
@@ -175,7 +175,7 @@ new_motifs:
   hundred-year-old-dies-young: {label: "In the new age no infant dies in days and one who dies at a hundred is counted a youth", cluster: eschatology}
   build-and-inhabit-plant-and-eat: {label: "People will build houses and live in them, plant vineyards and eat their fruit, and not labor for others", cluster: eschatology}
   answered-before-they-call: {label: "Before they call God will answer; while they are still speaking he will hear", cluster: theology}
-  peaceable-kingdom-animals: {label: "Predators and prey live in peace: wolf and lamb graze together and the lion eats straw like the ox", cluster: eschatology}
+  peaceable-kingdom-animals: {label: "Wolf dwells with lamb, leopard with kid, lion eats straw like the ox, and a little child leads them", cluster: eschatology}
   heaven-throne-earth-footstool: {label: "'Heaven is my throne and earth my footstool: what house could you build for me?'", cluster: theology}
   god-looks-to-humble-and-trembling: {label: "God looks to the poor and contrite in spirit who trembles at his word", cluster: theology}
   sacrifice-likened-to-murder: {label: "Hypocritical sacrifice is equated with crimes: slaughtering an ox is like killing a man, offering a lamb like breaking a dog's neck", cluster: cult}
@@ -201,7 +201,7 @@ new_motifs:
   vision-question-what-do-you-see: {label: "God asks the prophet 'What do you see?' and interprets the ordinary object he names", cluster: prophecy}
   almond-rod-watching-pun: {label: "Vision of an almond branch (shaqed) explained as God watching (shoqed) over his word", cluster: prophecy}
   boiling-pot-from-north: {label: "Vision of a boiling pot tilted from the north, signifying disaster poured out from the north", cluster: prophecy}
-  foe-from-the-north: {label: "A terrible nameless invader comes from the north against Judah and Jerusalem", cluster: prophecy}
+  foe-from-the-north: {label: "A destroying nation comes from the north", cluster: prophecy}
   prophet-made-fortified-city: {label: "God makes the prophet a fortified city, an iron pillar and bronze walls against the whole land", cluster: prophecy}
   wilderness-bridal-devotion: {label: "God remembers Israel's devotion as a bride who followed him in the wilderness, a land not sown", cluster: covenant}
   israel-firstfruits-holy-to-god: {label: "Israel was holy to YHWH, the firstfruits of his harvest; all who ate of it incurred guilt", cluster: covenant}
@@ -255,8 +255,7 @@ new_motifs:
   shameless-cannot-blush: {label: "They committed abomination yet were not ashamed; they did not know how to blush", cluster: prophecy}
   ask-for-the-ancient-paths: {label: "Stand at the crossroads and ask for the ancient paths, the good way, and find rest for your souls", cluster: wisdom}
   heaven-and-earth-summoned-as-witnesses: {label: "The nations, the earth or the heavens are summoned to hear God's case against his people", cluster: prophecy}
-  terror-on-every-side: {label: "'Terror on every side' (magor missaviv) as cry of panic or name", cluster: prophecy}
-  mourning-as-for-only-son: {label: "Mourn with sackcloth and ashes as for an only son, a most bitter lament", cluster: mourning}
+  mourning-as-for-only-son: {label: "God will make it like the mourning for an only son, with sackcloth and baldness", cluster: lament}
   prophet-as-assayer-refining-fails: {label: "The prophet is set as assayer of the people; the bellows blow and lead is consumed in vain: rejected silver", cluster: prophecy}
   siege-ramp-cut-trees: {label: "Besiegers cut down trees and pour out a siege ramp against the city", cluster: war}
   city-keeps-evil-fresh-like-well: {label: "As a well keeps its water fresh, so the city keeps its wickedness fresh", cluster: prophecy}
@@ -331,7 +330,7 @@ new_motifs:
   nobles-find-empty-cisterns: {label: "In drought nobles send servants for water who find the cisterns dry and return with empty vessels, heads covered in shame", cluster: prophecy}
   doe-abandons-newborn-in-drought: {label: "In drought the doe abandons her newborn fawn and wild asses pant for air like jackals, their eyes failing", cluster: prophecy}
   god-like-stranger-in-the-land: {label: "Lament asks why God is like a stranger in the land, a traveler stopping for a night, a stunned warrior who cannot save", cluster: theology}
-  sword-famine-pestilence-triad: {label: "The triad of judgment: sword, famine and pestilence", cluster: prophecy}
+  sword-famine-pestilence-triad: {label: "Judgment by the triad sword, famine and pestilence", cluster: prophecy}
   false-prophets-not-sent: {label: "God did not send the prophets who promise peace; they prophesy a lying vision, divination and the deceit of their heart", cluster: prophecy}
   idols-cannot-give-rain: {label: "Can any of the nations' vanities bring rain, or can the heavens give showers? Only YHWH", cluster: idolatry}
   fourfold-destiny-of-doomed: {label: "Those destined for death to death, for the sword to the sword, for famine to famine, for captivity to captivity", cluster: prophecy}
@@ -384,8 +383,8 @@ new_motifs:
   signet-ring-torn-off: {label: "Even if the king were the signet ring on God's right hand, God would tear him off", cluster: kingship}
   write-him-childless: {label: "'Write this man down as childless': none of his seed will sit on David's throne", cluster: kingship}
   woe-to-shepherds-who-scatter: {label: "Woe to the shepherds who destroy and scatter the sheep of God's pasture; God will attend to their evil deeds", cluster: prophecy}
-  righteous-branch-of-david: {label: "God will raise up for David a righteous Branch (tsemah) who will reign wisely and do justice", cluster: messianism}
-  yhwh-our-righteousness-name: {label: "The future king's name will be 'YHWH is our righteousness' (YHWH tsidqenu)", cluster: messianism}
+  righteous-branch-of-david: {label: "God will cause a righteous Branch (tsemah) to sprout for David", cluster: messianism}
+  yhwh-our-righteousness-name: {label: "The name 'YHWH is our righteousness' (YHWH tsidqenu)", cluster: messianism}
   prophet-drunk-before-gods-words: {label: "The prophet's heart is broken and all his bones shake; he is like a drunken man because of God's holy words", cluster: prophecy}
   prophets-like-sodom: {label: "The prophets of Jerusalem commit adultery and strengthen evildoers; they have become like Sodom and Gomorrah", cluster: prophecy}
   storm-of-yhwhs-wrath: {label: "The storm of YHWH's fury goes out and whirls on the head of the wicked; in the latter days you will understand it", cluster: prophecy}
