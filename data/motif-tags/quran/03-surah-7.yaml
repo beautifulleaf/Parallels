@@ -176,6 +176,69 @@ new_motifs:
   captives-promised-better-than-taken: {label: "Captives with good in their hearts are promised better than what was taken from them", cluster: war-law}
   emigrants-and-helpers-mutual-protectors: {label: "Believers who emigrated and those who sheltered them are each other's allies; non-emigrants are not, unless they ask help in religion", cluster: sira}
   kin-nearer-in-book-of-god: {label: "Blood relatives are nearer to one another (in inheritance) in God's book", cluster: law}
+  surah-without-basmala: {label: "A surah begins without the formula 'In the name of God, the Merciful, the Compassionate'", cluster: quran-form}
+  disavowal-of-polytheists-proclaimed: {label: "God and his messenger proclaim their disavowal (bara'a) of the polytheists at the greater pilgrimage", cluster: war-law}
+  four-months-grace-period: {label: "Treaty partners are given four months to move freely in the land before hostilities", cluster: war-law}
+  honor-treaty-until-its-term: {label: "Treaties with those who kept them are honored until their term", cluster: war-law}
+  release-those-who-pray-and-give-alms: {label: "If enemies repent, pray and give alms, let them go their way: they are brothers in religion", cluster: war-law}
+  asylum-to-hear-gods-word-then-escort: {label: "A polytheist who seeks protection is given asylum to hear God's word, then escorted to safety", cluster: war-law}
+  god-punishes-by-believers-hands: {label: "God punishes the enemy by the believers' hands and heals the believers' breasts", cluster: holy-war}
+  only-believers-maintain-mosques: {label: "Only those who believe, pray and give alms may maintain God's places of worship", cluster: ritual}
+  watering-pilgrims-not-equal-to-faith: {label: "Giving water to pilgrims and tending the Sacred Mosque are not equal to faith and striving", cluster: ritual}
+  love-of-god-over-family-and-wealth: {label: "Do not take fathers or brothers as allies against faith; love of God must outweigh family, wealth, trade and homes", cluster: piety}
+  pride-in-numbers-fails: {label: "The believers' pride in their great numbers avails nothing and the earth grows narrow for them (Hunayn)", cluster: holy-war}
+  sakina-descends: {label: "God sends down his sakina (tranquility, cf. shekhinah) on the prophet and believers", cluster: theology}
+  unseen-hosts-aid-believers: {label: "God supports the prophet with hosts (junud) the believers did not see", cluster: holy-war}
+  polytheists-impure-barred-from-sanctuary: {label: "Polytheists are impure (najas) and may not approach the Sacred Mosque after this year", cluster: ritual}
+  jizya-from-people-of-book: {label: "People of the Book who do not follow the true religion are fought until they pay the jizya, subdued", cluster: war-law}
+  jews-called-uzayr-son-of-god: {label: "Polemic: the Jews are said to call 'Uzayr (Ezra?) son of God", cluster: polemic}
+  messiah-called-son-of-god-rejected: {label: "Polemic against calling the Messiah son of God", cluster: christology}
+  rabbis-and-monks-taken-as-lords: {label: "People of the Book took their rabbis (ahbar) and monks as lords besides God", cluster: polemic}
+  extinguish-gods-light-with-mouths: {label: "Opponents wish to put out God's light with their mouths, but God will perfect his light", cluster: polemic}
+  religion-made-manifest-over-all: {label: "God sent his messenger with the religion of truth to make it prevail over all religion", cluster: polemic}
+  clergy-devour-peoples-wealth: {label: "Many rabbis and monks devour people's wealth wrongfully", cluster: polemic}
+  hoarded-gold-brands-hoarders: {label: "Hoarded gold and silver are heated in hell and used to brand the hoarders' foreheads, sides and backs", cluster: eschatology}
+  twelve-months-from-creation: {label: "The number of months with God is twelve, in God's book since the day he created heaven and earth", cluster: calendar}
+  four-sacred-months: {label: "Four of the twelve months are sacred", cluster: calendar}
+  intercalation-nasi-forbidden: {label: "Postponing a sacred month (al-nasi', intercalation) is an increase in unbelief", cluster: calendar}
+  god-will-replace-you-with-another-people: {label: "If you do not go forth, God will replace you with another people", cluster: providence}
+  second-of-two-in-the-cave: {label: "The prophet is 'the second of two' hiding in the cave, telling his companion 'do not grieve, God is with us'", cluster: sira}
+  hypocrites-ask-leave-to-stay-behind: {label: "Hypocrites swear excuses and ask permission to stay behind from the campaign", cluster: hypocrites}
+  god-pardons-prophet-for-granting-leave: {label: "God pardons the prophet, asking why he gave the shirkers leave before the truthful were clear", cluster: prophecy}
+  nothing-befalls-but-what-god-wrote: {label: "Nothing will befall us except what God has written for us", cluster: providence}
+  one-of-two-good-outcomes: {label: "Believers expect one of two good things, victory or martyrdom", cluster: martyrdom}
+  grudging-alms-not-accepted: {label: "Alms given grudgingly by unbelievers will not be accepted", cluster: piety}
+  wealth-and-children-as-punishment: {label: "God uses the unbelievers' wealth and children to punish them in this life", cluster: providence}
+  eight-recipients-of-alms: {label: "Alms go to the poor, the needy, the collectors, those whose hearts are reconciled, slaves, debtors, God's cause and the wayfarer", cluster: law}
+  prophet-called-all-ear: {label: "Hypocrites mock the prophet as 'all ear' (udhun), credulous", cluster: hypocrites}
+  hypocrites-fear-exposing-revelation: {label: "Hypocrites fear a surah will be revealed exposing what is in their hearts", cluster: hypocrites}
+  hypocrites-male-and-female-enjoin-wrong: {label: "Hypocrite men and women enjoin wrong and forbid right and close their hands", cluster: hypocrites}
+  roll-of-destroyed-peoples: {label: "Roll call of destroyed peoples: Noah's, Ad, Thamud, Abraham's people, Midian and the overturned cities", cluster: punishment-stories}
+  overturned-cities-mutafikat: {label: "The 'overturned cities' (al-mu'tafikat), Lot's towns", cluster: lot}
+  gods-good-pleasure-greatest-reward: {label: "God's good pleasure (ridwan) is greater than the gardens of Eden", cluster: eschatology}
+  vow-of-charity-if-enriched-then-broken: {label: "Men vow to give alms if God enriches them, then turn miserly, and God sets hypocrisy in their hearts", cluster: hypocrites}
+  mockery-of-poor-givers: {label: "Hypocrites mock believers who give voluntarily and those who can give only their effort", cluster: hypocrites}
+  seventy-times-forgiveness-useless: {label: "Even if the prophet asks forgiveness for them seventy times God will not forgive them", cluster: prophecy}
+  hell-fire-hotter-than-summer-heat: {label: "Shirkers say 'do not go out in the heat'; hell's fire is hotter", cluster: eschatology}
+  laugh-little-weep-much: {label: "Let them laugh a little and weep much", cluster: eschatology}
+  no-funeral-prayer-for-hypocrites: {label: "The prophet must never pray over a dead hypocrite or stand at his grave", cluster: ritual}
+  weeping-volunteers-without-mounts: {label: "Poor volunteers turn away weeping because the prophet has no mounts for them", cluster: holy-war}
+  bedouin-harder-in-unbelief: {label: "The Bedouin (al-a'rab) are harder in unbelief and hypocrisy", cluster: hypocrites}
+  first-forerunners-of-faith: {label: "The first forerunners (al-sabiqun al-awwalun) among emigrants and helpers: God is pleased with them and they with him", cluster: sira}
+  hypocrites-punished-twice: {label: "Hardened hypocrites will be punished twice, then given to great punishment", cluster: eschatology}
+  alms-purify-the-giver: {label: "Take alms from their wealth to purify them; the prophet's prayer is a comfort to them", cluster: piety}
+  mosque-of-harm: {label: "A rival mosque built for harm, unbelief and division (masjid al-dirar)", cluster: sira}
+  mosque-founded-on-piety: {label: "A mosque founded on piety from the first day, with men who love to purify themselves", cluster: ritual}
+  building-on-crumbling-cliff-edge: {label: "Parable: one who builds on the brink of a crumbling bank falls with it into hell", cluster: parable}
+  god-bought-believers-lives-for-paradise: {label: "God has bought from the believers their lives and wealth for paradise; a promise in Torah, Gospel and Quran", cluster: martyrdom}
+  virtues-catalogue-of-believers: {label: "Catalogue of believers: repenting, worshiping, praising, wandering/fasting (sa'ihun), bowing, prostrating, enjoining right", cluster: piety}
+  no-forgiveness-prayer-for-polytheist-kin: {label: "Believers may not pray for forgiveness for polytheists, even close kin", cluster: piety}
+  abraham-prays-for-father-then-disowns: {label: "Abraham prayed for his father's forgiveness only by a promise, and disowned him when he proved God's enemy", cluster: abraham}
+  three-left-behind-forgiven: {label: "The three who stayed behind are forgiven after the earth grew narrow for them and they found no refuge but God", cluster: sira}
+  every-hardship-recorded-as-good-deed: {label: "Every thirst, fatigue, hunger, step and valley crossed in God's cause is written as a good deed", cluster: piety}
+  some-stay-to-study-religion: {label: "Not all should go out; a party from each group should stay to gain understanding of religion and warn", cluster: law}
+  revelation-increases-faith-or-filth: {label: "A revealed surah increases believers in faith and the sick-hearted in filth", cluster: polemic}
+  lord-of-the-mighty-throne: {label: "God is 'Lord of the mighty Throne' (rabb al-'arsh al-'azim)", cluster: theology}
 units:
   - id: quran-7-opening-scales
     tradition: islam
@@ -776,3 +839,240 @@ units:
     tags:
       - {motif: emigrants-and-helpers-mutual-protectors, refs: ["8:72", "8:73", "8:74"]}
       - {motif: kin-nearer-in-book-of-god, refs: ["8:75"]}
+  - id: quran-9-baraa-treaties
+    tradition: islam
+    title: The disavowal - treaties, sacred months and asylum
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:1-16"]
+    tags:
+      - {motif: surah-without-basmala, refs: ["9:1"]}
+      - {motif: disavowal-of-polytheists-proclaimed, refs: ["9:1", "9:3"]}
+      - {motif: four-months-grace-period, refs: ["9:2"]}
+      - {motif: honor-treaty-until-its-term, refs: ["9:4", "9:7"]}
+      - {motif: four-sacred-months, refs: ["9:5"]}
+      - {motif: release-those-who-pray-and-give-alms, refs: ["9:5", "9:11"]}
+      - {motif: asylum-to-hear-gods-word-then-escort, refs: ["9:6"]}
+      - {motif: most-found-faithless-to-covenant, refs: ["9:8", "9:10", "9:12", "9:13"], note: "they respect neither kinship (ill) nor pact (dhimma)"}
+      - {motif: plot-to-imprison-kill-or-expel-prophet, refs: ["9:13"]}
+      - {motif: god-punishes-by-believers-hands, refs: ["9:14", "9:15"]}
+    hints:
+      - "Asylum and safe-conduct compare with Deut 23:16-17 (escaped slave) and the Greek proxenia; three-pilgrimage law Exod 23:17."
+  - id: quran-9-mosques-and-kin
+    tradition: islam
+    title: Who maintains the mosques; God above family
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:17-24"]
+    tags:
+      - {motif: only-believers-maintain-mosques, refs: ["9:17", "9:18"]}
+      - {motif: watering-pilgrims-not-equal-to-faith, refs: ["9:19", "9:20"]}
+      - {motif: gods-good-pleasure-greatest-reward, refs: ["9:21", "9:22"]}
+      - {motif: love-of-god-over-family-and-wealth, refs: ["9:23", "9:24"]}
+      - {motif: levi-disowns-kin-for-god, refs: ["9:23"]}
+    hints:
+      - "Compare Matt 10:37 / Luke 14:26 and Deut 33:9."
+  - id: quran-9-hunayn-jizya
+    tradition: islam
+    title: Hunayn, the impurity of polytheists, the jizya
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:25-29"]
+    tags:
+      - {motif: pride-in-numbers-fails, refs: ["9:25"]}
+      - {motif: sakina-descends, refs: ["9:26"]}
+      - {motif: unseen-hosts-aid-believers, refs: ["9:26"]}
+      - {motif: angelic-reinforcement-in-battle, refs: ["9:26"]}
+      - {motif: polytheists-impure-barred-from-sanctuary, refs: ["9:28"]}
+      - {motif: gatekeepers-bar-the-unclean, refs: ["9:28"]}
+      - {motif: jizya-from-people-of-book, refs: ["9:29"]}
+    hints:
+      - "Pride in numbers: Judg 7:2 (Gideon's army reduced lest Israel boast) and 2 Sam 24 (David's census)."
+  - id: quran-9-uzayr-clergy
+    tradition: islam
+    title: "'Uzayr and the Messiah called sons of God; rabbis and monks as lords"
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:30-35"]
+    tags:
+      - {motif: jews-called-uzayr-son-of-god, refs: ["9:30"]}
+      - {motif: messiah-called-son-of-god-rejected, refs: ["9:30"]}
+      - {motif: rabbis-and-monks-taken-as-lords, refs: ["9:31"]}
+      - {motif: extinguish-gods-light-with-mouths, refs: ["9:32"]}
+      - {motif: religion-made-manifest-over-all, refs: ["9:33"]}
+      - {motif: clergy-devour-peoples-wealth, refs: ["9:34"]}
+      - {motif: hoarded-gold-brands-hoarders, refs: ["9:34", "9:35"]}
+    hints:
+      - "'Uzayr: 4 Ezra 14 (Ezra restores the scriptures and is taken up), Ezra as 'scribe of the Most High'; compare also the angel 'Azael/Uzziel and Metatron as 'lesser YHWH' (3 Enoch 12)."
+      - "Rabbis as lords: Matt 23:8-10 ('call no one rabbi or father')."
+  - id: quran-9-months-nasi
+    tradition: islam
+    title: Twelve months and the ban on intercalation
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:36-37"]
+    tags:
+      - {motif: twelve-months-from-creation, refs: ["9:36"]}
+      - {motif: four-sacred-months, refs: ["9:36"]}
+      - {motif: luminaries-rule-day-night, refs: ["9:36"], note: "months fixed in God's book at creation; cf. Gen 1:14 'for seasons, days and years'"}
+      - {motif: intercalation-nasi-forbidden, refs: ["9:37"]}
+    hints:
+      - "Compare the 364-day solar calendar polemic of Jubilees 6:32-38 and 1 Enoch 72-82 (heavenly tablets fix the calendar; human tampering condemned)."
+  - id: quran-9-cave-and-call
+    tradition: islam
+    title: The call to go forth; the second of two in the cave
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:38-41"]
+    tags:
+      - {motif: god-will-replace-you-with-another-people, refs: ["9:38", "9:39"]}
+      - {motif: second-of-two-in-the-cave, refs: ["9:40"]}
+      - {motif: sakina-descends, refs: ["9:40"]}
+      - {motif: unseen-hosts-aid-believers, refs: ["9:40"]}
+      - {motif: hiding-in-caves-and-strongholds, refs: ["9:40"]}
+    hints:
+      - "Compare David hiding in the cave (1 Sam 22, 24) and the spider/dove cave legend in sira paralleled in Jewish legend (David and the spider)."
+  - id: quran-9-shirkers-excuses
+    tradition: islam
+    title: The excuses of those who stayed behind
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:42-59"]
+    tags:
+      - {motif: hypocrites-ask-leave-to-stay-behind, refs: ["9:42", "9:44", "9:45", "9:46", "9:49"]}
+      - {motif: god-pardons-prophet-for-granting-leave, refs: ["9:43"]}
+      - {motif: nothing-befalls-but-what-god-wrote, refs: ["9:51"]}
+      - {motif: one-of-two-good-outcomes, refs: ["9:52"]}
+      - {motif: grudging-alms-not-accepted, refs: ["9:53", "9:54"]}
+      - {motif: wealth-and-children-as-punishment, refs: ["9:55"]}
+      - {motif: hiding-in-caves-and-strongholds, refs: ["9:57"], note: "they would flee to any refuge, caves or burrow"}
+      - {motif: wait-and-see-challenge, refs: ["9:52"]}
+    hints:
+      - "Compare Deut 20:8 and Judg 7:3 (the fearful sent home) and Judg 5:16-17 (tribes who stayed behind)."
+  - id: quran-9-alms-recipients
+    tradition: islam
+    title: The eight recipients of alms
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:60"]
+    tags:
+      - {motif: eight-recipients-of-alms, refs: ["9:60"]}
+    hints:
+      - "Compare the poor tithe for Levite, stranger, orphan and widow (Deut 14:28-29; 26:12) and Mishnah Pe'ah."
+  - id: quran-9-hypocrites-mockery
+    tradition: islam
+    title: Hypocrites who mock and the destroyed peoples
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:61-72"]
+    tags:
+      - {motif: prophet-called-all-ear, refs: ["9:61"]}
+      - {motif: hypocrites-fear-exposing-revelation, refs: ["9:64"]}
+      - {motif: deceiver-says-only-joking, refs: ["9:65", "9:66"], note: "'we were only chatting and playing'"}
+      - {motif: hypocrites-male-and-female-enjoin-wrong, refs: ["9:67"]}
+      - {motif: god-forgets-those-who-forgot, refs: ["9:67"]}
+      - {motif: roll-of-destroyed-peoples, refs: ["9:69", "9:70"]}
+      - {motif: overturned-cities-mutafikat, refs: ["9:70"]}
+      - {motif: rivers-flow-beneath-gardens, refs: ["9:72"]}
+      - {motif: gods-good-pleasure-greatest-reward, refs: ["9:72"], note: "jannat 'adn, gardens of Eden"}
+    hints:
+      - "Mu'tafikat echoes Hebrew hafakh / mahpekhah (Gen 19:25, Deut 29:22, Amos 4:11)."
+  - id: quran-9-hypocrites-vow
+    tradition: islam
+    title: The broken vow of charity; seventy prayers in vain
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:73-80"]
+    tags:
+      - {motif: vow-of-charity-if-enriched-then-broken, refs: ["9:75", "9:76", "9:77"]}
+      - {motif: mockery-of-poor-givers, refs: ["9:79"]}
+      - {motif: seventy-times-forgiveness-useless, refs: ["9:80"]}
+      - {motif: prophet-forbidden-to-intercede, refs: ["9:80"]}
+    hints:
+      - "Seventy times inverts Matt 18:22; compare Jer 7:16, 11:14 (prophet forbidden to pray) and the widow's mite (Mark 12:41-44) for the poor givers."
+  - id: quran-9-stayers-exempt
+    tradition: islam
+    title: Those who stayed behind, the exempt, and the Bedouin
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:81-99"]
+    tags:
+      - {motif: hell-fire-hotter-than-summer-heat, refs: ["9:81"]}
+      - {motif: laugh-little-weep-much, refs: ["9:82"]}
+      - {motif: hypocrites-ask-leave-to-stay-behind, refs: ["9:83", "9:86", "9:90", "9:93"]}
+      - {motif: no-funeral-prayer-for-hypocrites, refs: ["9:84"]}
+      - {motif: wealth-and-children-as-punishment, refs: ["9:85"]}
+      - {motif: god-seals-hearts-of-unbelievers, refs: ["9:87", "9:93"]}
+      - {motif: military-exemptions-house-vineyard-bride, refs: ["9:91", "9:92"], note: "exempt here: the weak, the sick, the penniless"}
+      - {motif: weeping-volunteers-without-mounts, refs: ["9:92"]}
+      - {motif: bedouin-harder-in-unbelief, refs: ["9:97", "9:98"]}
+      - {motif: virtues-catalogue-of-believers, refs: ["9:99"], note: "believing Bedouin whose spending brings nearness"}
+  - id: quran-9-forerunners-dirar
+    tradition: islam
+    title: The forerunners, alms that purify, and the mosque of harm
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:100-110"]
+    tags:
+      - {motif: first-forerunners-of-faith, refs: ["9:100"]}
+      - {motif: hypocrites-punished-twice, refs: ["9:101"]}
+      - {motif: confession-of-sin, refs: ["9:102"], note: "they confessed, mixing good and bad deeds"}
+      - {motif: alms-purify-the-giver, refs: ["9:103", "9:104"]}
+      - {motif: mosque-of-harm, refs: ["9:107", "9:108"]}
+      - {motif: mosque-founded-on-piety, refs: ["9:108", "9:109"]}
+      - {motif: building-on-crumbling-cliff-edge, refs: ["9:109", "9:110"]}
+    hints:
+      - "Compare Matt 7:24-27 (house on rock and sand) and Ezek 13:10-14; the rival mosque recalls the rival altar of Josh 22:10-34."
+  - id: quran-9-bargain-abraham
+    tradition: islam
+    title: The bargain of lives for paradise; Abraham's prayer for his father
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:111-116"]
+    tags:
+      - {motif: god-bought-believers-lives-for-paradise, refs: ["9:111"]}
+      - {motif: virtues-catalogue-of-believers, refs: ["9:112"]}
+      - {motif: no-forgiveness-prayer-for-polytheist-kin, refs: ["9:113"]}
+      - {motif: abraham-prays-for-father-then-disowns, refs: ["9:114"]}
+      - {motif: father-serves-idols, refs: ["9:114"], note: "Abraham's father an enemy of God"}
+      - {motif: i-kill-and-make-alive, refs: ["9:116"]}
+    hints:
+      - "Abraham's father: Jubilees 12, Apocalypse of Abraham 1-8; Abraham as awwah halim (sighing, forbearing)."
+  - id: quran-9-three-left-behind
+    tradition: islam
+    title: The three who were left behind; every step recorded
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:117-122"]
+    tags:
+      - {motif: three-left-behind-forgiven, refs: ["9:117", "9:118"]}
+      - {motif: pride-in-numbers-fails, refs: ["9:118"], note: "earth grew narrow despite its breadth; same phrase as 9:25"}
+      - {motif: every-hardship-recorded-as-good-deed, refs: ["9:120", "9:121"]}
+      - {motif: some-stay-to-study-religion, refs: ["9:122"]}
+  - id: quran-9-closing
+    tradition: islam
+    title: Surahs that increase faith; the compassionate messenger
+    corpus: quran
+    original: true
+    tagger: Claude (model), reading the Arabic
+    read: ["9:123-129"]
+    tags:
+      - {motif: revelation-increases-faith-or-filth, refs: ["9:124", "9:125"]}
+      - {motif: adversity-then-prosperity-then-sudden-seizure, refs: ["9:126"], note: "tried once or twice every year"}
+      - {motif: god-seals-hearts-of-unbelievers, refs: ["9:127"]}
+      - {motif: messengers-from-among-humans, refs: ["9:128"]}
+      - {motif: lord-of-the-mighty-throne, refs: ["9:129"]}
