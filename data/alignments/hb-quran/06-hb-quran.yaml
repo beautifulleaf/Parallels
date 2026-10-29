@@ -2,6 +2,81 @@ new_motifs:
   god-opens-and-none-can-shut: {label: "What God opens no one can shut, and what he withholds no one can release", cluster: theology}
   adversary-rebuked-in-heavenly-court: {label: "The satan or the devils are rebuked and driven off in the heavenly realm", cluster: theology}
   heavens-dwarf-humankind: {label: "The creation of the heavens is greater than the creation of humankind", cluster: creation}
+  fleeting-life-and-what-follows: {label: "This life is fleeting; whether anything real follows it", cluster: wisdom}
+  sailors-response-after-rescue-from-storm: {label: "Seafarers cry to God in a storm; what they do once rescued", cluster: theology}
+  origin-and-purpose-of-the-human-mate: {label: "How God made the human mate, and for what purpose", cluster: creation}
+  origin-of-many-languages: {label: "Why humans speak many languages", cluster: creation}
+  what-god-set-in-humans-at-creation: {label: "What God set in human nature at creation", cluster: creation}
+  who-closes-the-hearers-hearts-ears-and-eyes: {label: "Who makes the hearers deaf, blind and closed of heart to the message", cluster: prophecy}
+  limits-of-parental-authority: {label: "How far a child must obey father and mother", cluster: ethics}
+  kin-who-urge-other-gods: {label: "What to do when close kin urge the worship of other gods", cluster: law}
+  pillars-of-heaven: {label: "Whether the heavens rest on pillars", cluster: cosmology}
+  appeal-to-the-fathers-religion: {label: "The religion of the fathers invoked, held to or renounced", cluster: polemic}
+  what-god-did-after-the-six-days: {label: "What God did when the six days of creation were done", cluster: creation}
+  order-and-days-of-creating-heaven-and-earth: {label: "The order of creating heaven and earth and the days allotted to each", cluster: creation}
+  how-moses-received-the-book: {label: "Whether Moses wrote the book or was given it", cluster: revelation}
+  status-of-an-adopted-child: {label: "Whether an adopted or fostered child counts as one's own child", cluster: law}
+  leaving-the-battle-line-for-home: {label: "Men leave the battle line to go home, and how that is judged", cluster: warfare}
+  marrying-a-sons-wife: {label: "Whether a man may marry his son's (or adopted son's) wife", cluster: law}
+  leader-marries-a-subordinates-wife: {label: "A ruler or prophet marries the wife of a man under him", cluster: kingship}
+  limit-on-the-leaders-wives: {label: "Limits on how many wives the leader may take", cluster: kingship}
+  how-a-divorced-wife-is-sent-away: {label: "How a husband sends away a divorced wife (document, gift, waiting period)", cluster: law}
+  what-a-womans-covering-signals: {label: "What a woman's veil or cloak signals to men who see her", cluster: law}
+  david-and-the-coat-of-mail: {label: "David and the coat of mail", cluster: kingship}
+  source-of-solomons-cast-bronze: {label: "How Solomon's great bronze works were produced", cluster: kingship}
+  who-built-for-solomon: {label: "Who did Solomon's building and craft work", cluster: kingship}
+  manner-of-solomons-death: {label: "How Solomon died and how his death became known", cluster: kingship}
+  payment-of-prophets: {label: "Whether a prophet takes payment for his message", cluster: prophecy}
+  form-of-winged-heavenly-beings: {label: "The form, faces and number of wings of heavenly beings", cluster: theophany}
+  bearers-of-the-divine-throne: {label: "The beings that carry God's throne, and what they do", cluster: theophany}
+  meeting-of-fresh-and-salt-water: {label: "What happens where fresh and salt water meet", cluster: cosmology}
+  liability-for-anothers-sin: {label: "Whether one person (kin, descendants) bears another's sin", cluster: law}
+  fate-of-the-seeing-and-the-blind: {label: "Whether the seeing and the blind, light and darkness, end alike", cluster: wisdom}
+  fear-of-god-and-knowledge: {label: "How the fear of God and knowledge are related", cluster: wisdom}
+  first-words-of-the-raised-dead: {label: "What the dead say when they wake from the dust", cluster: eschatology}
+  horn-blown-on-the-last-day: {label: "A horn blown on the last day, and whom it gathers", cluster: eschatology}
+  prophet-taken-for-a-poet-or-singer: {label: "The prophet heard or dismissed as a poet or singer", cluster: prophecy}
+  question-whether-dry-bones-can-live: {label: "The question whether dead bones can live again, and who asks it", cluster: eschatology}
+  adversary-access-to-heavenly-council: {label: "Whether the adversary, devils or deceiving spirits have access to God's council", cluster: theology}
+  effects-of-wine: {label: "The effects of wine on the drinker", cluster: wisdom}
+  reclining-banquet-with-wine: {label: "Reclining on couches and drinking wine, and how it is judged", cluster: ethics}
+  noahs-speech-to-god: {label: "Whether and how Noah speaks to God", cluster: flood}
+  how-noahs-story-ends: {label: "How the story of Noah ends", cluster: flood}
+  standing-of-aaron: {label: "Aaron's standing before God", cluster: exodus}
+  abraham-looks-at-the-stars: {label: "Abraham looks at the stars, and why", cluster: patriarchs}
+  identity-of-the-son-to-be-sacrificed: {label: "Who the son to be sacrificed is and how he is named", cluster: patriarchs}
+  what-the-son-knows-and-says: {label: "What the son to be sacrificed knows and says", cluster: patriarchs}
+  father-lays-the-son-down: {label: "The father lays the son down for the sacrifice", cluster: patriarchs}
+  who-stops-the-sacrifice: {label: "Who stops the sacrifice of the son, and why", cluster: patriarchs}
+  substitute-for-the-son: {label: "What is offered in place of the son, and who provides it", cluster: patriarchs}
+  reward-after-the-sacrifice: {label: "The reward and blessing after the averted sacrifice", cluster: patriarchs}
+  prophets-challenge-to-baal-worshippers: {label: "A prophet challenges the people who worship Baal", cluster: prophecy}
+  outcome-of-the-challenge-to-baal: {label: "How the people respond to the prophet's challenge over Baal", cluster: prophecy}
+  who-is-credited-with-the-deliverance-from-egypt: {label: "Who is named as saved and credited at the deliverance from Egypt", cluster: exodus}
+  fate-of-lots-wife: {label: "The fate of Lot's wife", cluster: patriarchs}
+  jonahs-flight-by-ship: {label: "Jonah flees by ship", cluster: prophecy}
+  jonahs-city-believes-and-is-spared: {label: "The city to which Jonah is sent believes and is spared", cluster: prophecy}
+  divine-offspring: {label: "Whether God has, begets or takes sons or other offspring", cluster: theology}
+  closing-doxology-divine-title: {label: "A closing doxology and the divine title it uses", cluster: liturgy}
+  case-of-the-ewe-brought-to-david: {label: "A case about a ewe is brought to David for judgment", cluster: kingship}
+  rich-man-takes-poor-mans-only-ewe: {label: "A man with many sheep takes another's only ewe", cluster: kingship}
+  davids-repentance-and-its-outcome: {label: "David's repentance and what follows it", cluster: kingship}
+  solomons-request-and-unmatched-gift: {label: "What Solomon asks of God and the gift none after him will match", cluster: kingship}
+  solomons-horses: {label: "Solomon's horses", cluster: kingship}
+  who-touched-job: {label: "Who struck or 'touched' Job", cluster: wisdom}
+  job-calls-on-god-and-the-response: {label: "Job calls on God, and whether God answers", cluster: wisdom}
+  what-is-restored-to-job: {label: "What God restores to Job at the end", cluster: wisdom}
+  prophet-and-the-heavenly-council: {label: "Whether a prophet has first-hand knowledge of the heavenly council", cluster: prophecy}
+  choice-of-the-patriarchs: {label: "God's choice of Abraham, Isaac and Jacob, and what it passes on", cluster: patriarchs}
+  rank-of-humans-among-heavenly-beings: {label: "The rank of the first human relative to the heavenly beings", cluster: creation}
+  land-inherited-by-the-righteous: {label: "The land the righteous inherit", cluster: eschatology}
+  holder-of-the-keys: {label: "Who holds the keys that open and shut", cluster: theology}
+  pharaohs-decree-against-sons: {label: "Pharaoh's order to kill the sons and let the women live", cluster: exodus}
+  egypts-memory-of-joseph: {label: "How Egypt remembers Joseph", cluster: exodus}
+  setting-of-haman-and-korah: {label: "Where Haman and Korah belong in the story of God's people", cluster: polemic}
+  human-form-given-at-creation: {label: "The form God gave humans at creation", cluster: creation}
+  heaven-and-smoke: {label: "Heaven likened to or made from smoke", cluster: cosmology}
+  pharaoh-seeks-to-kill-moses: {label: "Pharaoh seeks to kill Moses, and when and why", cluster: exodus}
 reviewed:
   - unit: quran-29-spider
     checked: [hb-job-8-bildad-first-speech, hb-isa-59-sins-separate-divine-warrior, hb-job-9-job-cannot-sue-god, hb-job-26-hymn-to-cosmic-power, hb-ps-91-shelter-of-most-high]
@@ -55,19 +130,19 @@ reviewed:
         relation: echo
         note: "kullām ʾēleykā yəśabbērûn lāṯēṯ ʾoḵlām bə-ʿittô ... tip̄taḥ yāḏəkā yiśbəʿûn ṭôḇ vs. Allāhu yarzuquhā ... yabsuṭu r-rizqa li-man yashāʾ: the open hand of Ps 104 becomes God 'spreading' provision for whom he wills."
       - with: hb-eccl-6-wealth-unenjoyed
-        motif: vanity-of-vanities
+        motif: fleeting-life-and-what-follows
         refs: ["29:64"]
         with_refs: ["Eccl 6:12"]
         relation: divergence
         note: "Both call this life empty: wa-mā hādhihi l-ḥayātu d-dunyā illā lahwun wa-laʿib vs. mispar yəmê ḥayyê heḇlô wə-yaʿăśēm ka-ṣṣēl. Qohelet ends agnostic, mî yaggîd lā-ʾāḏām mah-yihyeh ʾaḥărâw (who will tell man what comes after him; cf. Eccl 9:5, 9:10, no reckoning in Sheol). The Quran answers: inna d-dāra l-ākhirata la-hiya l-ḥayawān, the next abode is the real life."
       - with: hb-ps-107-four-rescues
-        motif: sea-peril-sincere-prayer-then-ingratitude
+        motif: sailors-response-after-rescue-from-storm
         refs: ["29:65", "29:66"]
         with_refs: ["Ps 107:28", "Ps 107:30", "Ps 107:31"]
         relation: divergence
         note: "Same sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm's thanksgiving becomes the Quran's ingratitude (li-yakfurū bi-mā ātaynāhum)."
       - with: hb-jonah-1-flight-and-storm
-        motif: sea-peril-sincere-prayer-then-ingratitude
+        motif: sailors-response-after-rescue-from-storm
         refs: ["29:65"]
         with_refs: ["Jonah 1:5", "Jonah 1:14", "Jonah 1:16"]
         relation: contrast
@@ -97,7 +172,7 @@ reviewed:
         relation: parallel
         note: "an khalaqakum min turābin thumma idhā antum basharun tantashirūn vs. wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ. turāb = ʿāp̄ār (dust). The Quran addresses all of you (-kum), not the one ʾāḏām, and leaves out the breath of Gen 2:7b."
       - with: hb-gen-2-eden-adam-woman
-        motif: spouses-created-from-your-own-selves
+        motif: origin-and-purpose-of-the-human-mate
         refs: ["30:21"]
         with_refs: ["Gen 2:18", "Gen 2:22", "Gen 2:23", "Gen 2:24"]
         relation: divergence
@@ -109,7 +184,7 @@ reviewed:
         relation: echo
         note: "zəḵor-nāʾ kî-ḵa-ḥōmer ʿăśîṯānî wə-ʾel-ʿāp̄ār təšîḇēnî vs. khalaqakum min turāb. Job makes the clay origin a complaint (you will return me to dust); the Quran makes it a sign (min āyātihi)."
       - with: hb-gen-11-babel
-        motif: diversity-of-languages-and-colors-as-sign
+        motif: origin-of-many-languages
         refs: ["30:22"]
         with_refs: ["Gen 11:7", "Gen 11:9"]
         relation: divergence
@@ -154,7 +229,7 @@ reviewed:
         relation: parallel
         note: "marbeh hônô bə-nešeḵ wə-ṯarbîṯ lə-ḥônēn dallîm yiqbəṣennû vs. wa-mā ātaytum min riban li-yarbuwa fī amwāli n-nāsi fa-lā yarbū ʿinda llāh, wa-mā ātaytum min zakātin ... fa-ulāʾika humu l-muḍʿifūn. The same root r-b-y/r-b-h on both sides (tarbîṯ, marbeh / ribā, yarbū): growth by interest is illusory. Proverbs moves the usurer's wealth to the one who is kind to the poor; the Quran moves the real increase to alms given for God's face."
       - with: hb-gen-1-creation-six-days
-        motif: fitra-primordial-nature
+        motif: what-god-set-in-humans-at-creation
         refs: ["30:30"]
         with_refs: ["Gen 1:27"]
         relation: divergence
@@ -169,7 +244,7 @@ reviewed:
     checked: [hb-isa-6-throne-vision, hb-ps-104-creation-hymn, hb-job-26-hymn-to-cosmic-power, hb-ps-18-storm-theophany, hb-job-36-elihu-storm-hymn, hb-prov-20-sayings]
     matches:
       - with: hb-isa-6-throne-vision
-        motif: commission-to-harden-hearts
+        motif: who-closes-the-hearers-hearts-ears-and-eyes
         refs: ["30:52", "30:53", "30:59"]
         with_refs: ["Isa 6:9", "Isa 6:10"]
         relation: divergence
@@ -208,13 +283,13 @@ reviewed:
         relation: parallel
         note: "Father-to-son wisdom address: yā-bunayya (31:13, 16, 17) vs. šəmaʿ bənî ... bənî ʾim-yəp̄attûḵā ḥaṭṭāʾîm ʾal-tōḇēʾ. Proverbs' first warning is against a gang of sinners; Luqman's first warning is lā tushrik bi-llāh, inna sh-shirka la-ẓulmun ʿaẓīm."
       - with: hb-prov-6-adultery-fire
-        motif: fathers-instruction-mothers-torah
+        motif: limits-of-parental-authority
         refs: ["31:14", "31:15"]
         with_refs: ["Prov 6:20", "Prov 6:22"]
         relation: divergence
         note: "Parental authority. Prov: nəṣōr bənî miṣwaṯ ʾāḇîḵā wə-ʾal-tiṭṭōš tôraṯ ʾimmeḵā, binding without condition. Q: wa-waṣṣaynā l-insāna bi-wālidayhi ... wa-in jāhadāka ʿalā an tushrika bī ... fa-lā tuṭiʿhumā wa-ṣāḥibhumā fī d-dunyā maʿrūfan. The duty to parents is commanded by God, not by the father, and it stops where the parents urge shirk. The mother's part is grounded in pregnancy and two years of nursing (waḥnan ʿalā waḥnin wa-fiṣāluhu fī ʿāmayn), not in her tôrâ."
       - with: hb-deut-13-enticers
-        motif: obey-parents-except-in-idolatry
+        motif: kin-who-urge-other-gods
         refs: ["31:15"]
         with_refs: ["Deut 13:7", "Deut 13:9", "Deut 13:10"]
         relation: contrast
@@ -226,7 +301,7 @@ reviewed:
         relation: echo
         note: "Heavy ears: ka-anna fī udhunayhi waqran (as if there were heaviness in his ears) vs. wə-ʾoznâw hakbēd (make his ears heavy). In Isaiah God orders the prophet to make them heavy; in Q 31:7 the hearer turns away mustakbiran, the heaviness is only 'as if', and it is his own pride."
       - with: hb-job-26-hymn-to-cosmic-power
-        motif: heavens-raised-without-pillars
+        motif: pillars-of-heaven
         refs: ["31:10"]
         with_refs: ["Job 26:11"]
         relation: divergence
@@ -271,7 +346,7 @@ reviewed:
         relation: parallel
         note: "lā yajzī wālidun ʿan waladihi wa-lā mawlūdun huwa jāzin ʿan wālidihi shayʾan vs. ʾim-bānîm wə-ʾim-bānôṯ yaṣṣîlû hēmmâ ləḇaddām yinnāṣēlû: even Noah, Daniel and Job would save only themselves, not sons or daughters. Ezekiel says it of a land under judgment, the Quran of the Last Day (yawm), and in both directions (child for parent too)."
       - with: hb-ps-107-four-rescues
-        motif: sea-peril-sincere-prayer-then-ingratitude
+        motif: sailors-response-after-rescue-from-storm
         refs: ["31:32"]
         with_refs: ["Ps 107:25", "Ps 107:28", "Ps 107:31"]
         relation: divergence
@@ -283,7 +358,7 @@ reviewed:
         relation: echo
         note: "ʿāśâ yārēaḥ lə-môʿăḏîm šemeš yāḏaʿ məḇôʾô vs. wa-sakhkhara sh-shamsa wa-l-qamara kullun yajrī ilā ajalin musammā: sun and moon are bound to appointed times (môʿăḏîm / ajal musammā). The psalm gives the sun knowledge of its setting; the Quran makes both subjected (sakhkhara)."
       - with: hb-jer-16-fishers-and-hunters
-        motif: following-ancestors-blindly
+        motif: appeal-to-the-fathers-religion
         refs: ["31:21"]
         with_refs: ["Jer 16:19"]
         relation: contrast
@@ -304,7 +379,7 @@ reviewed:
         relation: parallel
         note: "kî ʾelep̄ šānîm bə-ʿêneyḵā kə-yôm ʾeṯmôl kî yaʿăḇōr vs. fī yawmin kāna miqdāruhu alfa sanatin mimmā taʿuddūn. The psalm uses it as a lament on human brevity (vv. 5-10); the Quran uses it as the measure of the divine administration, the amr going down from heaven and rising to him (yudabbiru l-amra ... thumma yaʿruju ilayhi)."
       - with: hb-gen-1-creation-six-days
-        motif: creation-in-six-days
+        motif: what-god-did-after-the-six-days
         refs: ["32:4"]
         with_refs: ["Gen 2:1", "Gen 2:2"]
         relation: divergence
@@ -340,7 +415,7 @@ reviewed:
         relation: parallel
         note: "wa-ttittēn lāhem mišpāṭîm yəšārîm wə-ṯôrôṯ ʾĕmeṯ ... ṣiwwîṯā lāhem bə-yaḏ mōšeh ʿaḇdeḵā vs. wa-la-qad ātaynā Mūsā l-kitāba ... wa-jaʿalnāhu hudan li-banī Isrāʾīl: God gives the law to Israel through Moses."
       - with: hb-deut-31-joshua-torah-song
-        motif: moses-writes-torah
+        motif: how-moses-received-the-book
         refs: ["32:23"]
         with_refs: ["Deut 31:9", "Deut 31:24"]
         relation: divergence
@@ -355,13 +430,13 @@ reviewed:
     checked: [hb-gen-48-ephraim-manasseh-blessing, hb-esth-2-esther-chosen, hb-exod-6-name-and-levite-genealogy, hb-jer-3-return-faithless-wife, hb-exod-34-thirteen-attributes-covenant-renewal, hb-ps-12-pure-words, hb-num-27-zelophehad-joshua]
     matches:
       - with: hb-gen-48-ephraim-manasseh-blessing
-        motif: adopted-sons-not-real-sons
+        motif: status-of-an-adopted-child
         refs: ["33:4", "33:5"]
         with_refs: ["Gen 48:5", "Gen 48:6"]
         relation: contrast
         note: "Gen: ʾep̄rayim û-mənaššeh kə-rəʾûḇēn wə-šimʿôn yihyû-lî. Jacob's declaration makes his grandsons into sons with full tribal inheritance, and later sons are called by the name of their brothers (ʿal šēm ʾăḥêhem yiqqārəʾû). Q: wa-mā jaʿala adʿiyāʾakum abnāʾakum dhālikum qawlukum bi-afwāhikum ... udʿūhum li-ābāʾihim. A declared son is not a son, and must be called after his real father."
       - with: hb-esth-2-esther-chosen
-        motif: adopted-sons-not-real-sons
+        motif: status-of-an-adopted-child
         refs: ["33:4", "33:5"]
         with_refs: ["Esth 2:7", "Esth 2:15"]
         relation: contrast
@@ -400,7 +475,7 @@ reviewed:
         relation: echo
         note: "bə-rûaḥ qāḏîm ʿazzâ ... wa-yyāhom ʾēṯ maḥănēh miṣrāyim ... kî YHWH nilḥām lāhem vs. fa-arsalnā ʿalayhim rīḥan: God's wind and his own fighting against a superior army. rûaḥ / rīḥ are cognate."
       - with: hb-deut-20-rules-of-war
-        motif: hypocrites-desert-saying-houses-exposed
+        motif: leaving-the-battle-line-for-home
         refs: ["33:13", "33:14"]
         with_refs: ["Deut 20:5", "Deut 20:8"]
         relation: contrast
@@ -454,13 +529,13 @@ reviewed:
         relation: echo
         note: "Cognate seal of prophecy: wə-laḥtōm ḥāzôn wə-nāḇîʾ (to seal vision and prophet, at the end of the seventy weeks) vs. wa-lākin rasūla llāhi wa-khātama n-nabiyyīn. Both use the root ḥ-t-m / kh-t-m with nāḇîʾ / nabī. In Daniel the sealing closes off prophecy at the end time; in the Quran a person is the seal. Lead for verification only."
       - with: hb-lev-18-forbidden-unions
-        motif: zayd-and-zaynab-marriage
+        motif: marrying-a-sons-wife
         refs: ["33:37"]
         with_refs: ["Lev 18:15"]
         relation: divergence
         note: "The son's wife. Lev: ʿerwaṯ kallāṯəḵā lōʾ ṯəḡalleh ʾēšeṯ binḵā hîʾ (forbidden as the son's wife). Q: zawwajnākahā li-kay lā yakūna ʿalā l-muʾminīna ḥarajun fī azwāji adʿiyāʾihim. The prohibition stands for a real son (cf. Q 4:23 ḥalāʾilu abnāʾikumu lladhīna min aṣlābikum, sons 'from your loins'), but the adopted son's former wife is declared lawful, because the adoptive tie is not sonship (33:40)."
       - with: hb-2sam-11-bathsheba-uriah
-        motif: zayd-and-zaynab-marriage
+        motif: leader-marries-a-subordinates-wife
         refs: ["33:37", "33:38"]
         with_refs: ["2Sam 11:27"]
         relation: contrast
@@ -487,13 +562,13 @@ reviewed:
     checked: [hb-deut-17-courts-king, hb-2chr-9-queen-of-sheba-and-solomons-glory, hb-2chr-1-solomon-at-gibeon, hb-2kgs-4-shunammite, hb-jer-3-return-faithless-wife, hb-jer-42-43-flight-to-egypt, hb-deut-24-divorce-pledges-poor, hb-2sam-20-sheba-revolt, hb-gen-38-judah-tamar, hb-gen-24-bride-for-isaac, hb-1kgs-11-solomons-wives]
     matches:
       - with: hb-deut-17-courts-king
-        motif: king-not-multiply-horses-wives-gold
+        motif: limit-on-the-leaders-wives
         refs: ["33:50", "33:52"]
         with_refs: ["Deut 17:17"]
         relation: divergence
         note: "A limit on the leader's wives. Deut: wə-lōʾ yarbeh-lô nāšîm wə-lōʾ yāsûr ləḇāḇô, a general cap on number, for fear his heart turns. Q: first an enumerated permission (innā aḥlalnā laka azwājaka ... khāliṣatan laka min dūni l-muʾminīn), then a freeze: lā yaḥillu laka n-nisāʾu min baʿdu wa-lā an tabaddala bihinna min azwājin wa-law aʿjabaka ḥusnuhunna. Deut does not let the number grow; the Quran grants a special privilege and then closes it."
       - with: hb-1kgs-11-solomons-wives
-        motif: king-not-multiply-horses-wives-gold
+        motif: limit-on-the-leaders-wives
         refs: ["33:52"]
         with_refs: ["1Kgs 11:3"]
         relation: contrast
@@ -505,13 +580,13 @@ reviewed:
         relation: echo
         note: "wa-yyittənēm bêṯ-mišmereṯ ... wa-ʾălêhem lōʾ-ḇāʾ wa-ttihyênâ ṣərurôṯ ʿaḏ-yôm mutān ʾalmənûṯ ḥayyûṯ (shut up till death in a living widowhood) vs. wa-mā kāna lakum ... an tankiḥū azwājahu min baʿdihi abadā. The leader's women are withdrawn from any other man for life. In Samuel it follows Absalom's violation; in the Quran it is a permanent rule. The rabbinic ban on a king's widow remarrying is later (cf. only)."
       - with: hb-deut-24-divorce-pledges-poor
-        motif: divorce-before-consummation-no-waiting
+        motif: how-a-divorced-wife-is-sent-away
         refs: ["33:49"]
         with_refs: ["Deut 24:1"]
         relation: divergence
         note: "Sending the wife away. Deut: wə-ḵāṯaḇ lāh sēp̄er kərîṯuṯ wə-nāṯan bə-yāḏāh wə-šilləḥāh mi-bbêṯô (a written bill). Q: fa-mattiʿūhunna wa-sarriḥūhunna sarāḥan jamīlā (a gift and a gracious release, with no ʿidda before consummation). šillaḥ and sarraḥa both mean 'send off'; the document of Deut becomes a gift (mutʿa) in Q."
       - with: hb-gen-38-judah-tamar
-        motif: women-draw-cloaks-to-be-recognized
+        motif: what-a-womans-covering-signals
         refs: ["33:59"]
         with_refs: ["Gen 38:14", "Gen 38:15"]
         relation: contrast
@@ -592,7 +667,7 @@ reviewed:
         relation: echo
         note: "nəhārôṯ yimḥăʾû-ḵāp̄ yaḥaḏ hārîm yərannēnû vs. yā-jibālu awwibī maʿahu: the mountains sing together (yaḥaḏ / maʿahu)."
       - with: hb-1sam-17-david-goliath
-        motif: david-taught-to-make-mail
+        motif: david-and-the-coat-of-mail
         refs: ["34:10", "34:11"]
         with_refs: ["1Sam 17:38", "1Sam 17:39"]
         relation: contrast
@@ -604,19 +679,19 @@ reviewed:
         relation: echo
         note: "û-ḇarzel lā-rōḇ la-mmismərîm ... hēḵîn dāwîḏ û-nəḥōšeṯ lā-rōḇ ʾên mišqāl vs. wa-alannā lahu l-ḥadīd: David and abundant iron (barzel / ḥadīd), in Chronicles stockpiled for the temple, in the Quran made soft in his hands for armour."
       - with: hb-1kgs-7-bronze-sea-vessels
-        motif: bronze-sea-on-twelve-oxen
+        motif: source-of-solomons-cast-bronze
         refs: ["34:12", "34:13"]
         with_refs: ["1Kgs 7:23", "1Kgs 7:25", "1Kgs 7:46"]
         relation: divergence
         note: "Solomon's cast bronze. 1 Kgs: wa-yyaʿaś ʾeṯ-ha-yyām mûṣāq ... ʿōmēḏ ʿal-šənê ʿāśār bāqār; bə-kikkar ha-yyardēn yəṣāqām ha-mmeleḵ bə-maʿăḇēh hā-ʾăḏāmâ (cast in clay moulds in the Jordan plain). Q: wa-asalnā lahu ʿayna l-qiṭr (God makes a spring of molten copper flow for him) ... wa-jifānin ka-l-jawābi wa-qudūrin rāsiyāt. The metal comes from a miraculous spring instead of the foundry, and the 'sea' and its stands are matched by basins like reservoirs and fixed cauldrons. Lead: identification of the jifān/qudūr with the yām and mekonot is a proposal."
       - with: hb-1kgs-7-hiram-pillars
-        motif: demons-work-for-solomon
+        motif: who-built-for-solomon
         refs: ["34:12", "34:13"]
         with_refs: ["1Kgs 7:13", "1Kgs 7:14"]
         relation: divergence
         note: "Who makes the temple works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina l-jinni man yaʿmalu bayna yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl. The craftsman becomes jinn working under God's permission."
       - with: hb-1kgs-5-hiram-cedars
-        motif: demons-work-for-solomon
+        motif: who-built-for-solomon
         refs: ["34:12", "34:14"]
         with_refs: ["1Kgs 5:27", "1Kgs 5:28", "1Kgs 5:29"]
         relation: divergence
@@ -646,7 +721,7 @@ reviewed:
         relation: echo
         note: "ha-yyām ʾeḥāḏ wə-ha-bbāqār šənêm-ʿāśār nəḥōšeṯ ... ʾăšer ʿāśâ ha-mmeleḵ šəlōmōh ... lōʾ-hāyâ mišqāl li-nḥuštām vs. ʿayna l-qiṭr ... jifānin ka-l-jawāb: Solomon's bronze too much to weigh, and a spring of it in Q."
       - with: hb-1kgs-11-jeroboam-ahijah
-        motif: solomons-death-revealed-by-worm-eating-staff
+        motif: manner-of-solomons-death
         refs: ["34:14"]
         with_refs: ["1Kgs 11:43"]
         relation: divergence
@@ -733,7 +808,7 @@ reviewed:
         relation: echo
         note: "wə-ʿal-YHWH yiššāʿēnû lēʾmōr hălôʾ YHWH bə-qirbēnû lōʾ-ṯāḇôʾ ʿālênû rāʿâ vs. wa-mā naḥnu bi-muʿadhdhabīn: the comfortable elite's confidence that disaster will not come. In Micah the confidence rests on God's presence, in the Quran on wealth and sons."
       - with: hb-mic-3-rulers-and-prophets
-        motif: prophet-asks-no-wage
+        motif: payment-of-prophets
         refs: ["34:47"]
         with_refs: ["Mic 3:11"]
         relation: contrast
@@ -754,7 +829,7 @@ reviewed:
     checked: [hb-ps-139-searched-and-known, hb-exod-32-tablets-broken-levites, hb-ezek-10-cherubim-and-wheels, hb-ps-104-creation-hymn, hb-job-12-ask-the-beasts, hb-job-38-whirlwind-creation, hb-ezek-47-temple-river, hb-ps-115-not-to-us, hb-exod-32-golden-calf]
     matches:
       - with: hb-ezek-10-cherubim-and-wheels
-        motif: four-faced-cherubim
+        motif: form-of-winged-heavenly-beings
         refs: ["35:1"]
         with_refs: ["Ezek 10:21"]
         relation: divergence
@@ -790,7 +865,7 @@ reviewed:
         relation: echo
         note: "wə-yiḥar-ʾappî ḇāhem wa-ʾăḵallēm wə-ʾeʿĕśeh ʾôṯəḵā lə-ḡôy gāḏôl vs. in yashaʾ yudhhibkum wa-yaʾti bi-khalqin jadīdin wa-mā dhālika ʿalā llāhi bi-ʿazīz: God can do away with a people and start again. In Exodus it is a concrete threat to Israel, turned aside by Moses; in the Quran a general statement about humankind (yā-ayyuhā n-nās, 35:15)."
       - with: hb-ezek-47-temple-river
-        motif: two-seas-sweet-and-salt-with-barrier
+        motif: meeting-of-fresh-and-salt-water
         refs: ["35:12"]
         with_refs: ["Ezek 47:8", "Ezek 47:9", "Ezek 47:11"]
         relation: divergence
@@ -823,25 +898,25 @@ reviewed:
         relation: parallel
         note: "lōʾ-yōʾmərû ʿôḏ ʾāḇôṯ ʾāḵəlû ḇōser ... kî ʾim-ʾîš ba-ʿăwōnô yāmûṯ vs. lā taziru wāziratun wizra ukhrā. Jeremiah puts it in the days to come (ba-yyāmîm hā-hēm); the Quran states it as always true."
       - with: hb-exod-34-thirteen-attributes-covenant-renewal
-        motif: sins-visited-to-third-fourth-generation
+        motif: liability-for-anothers-sin
         refs: ["35:18"]
         with_refs: ["Exod 34:7"]
         relation: contrast
         note: "pōqēḏ ʿăwōn ʾāḇôṯ ʿal-bānîm wə-ʿal-bənê ḇānîm ʿal-šillēšîm wə-ʿal-ribbēʿîm vs. wa-lā taziru wāziratun wizra ukhrā ... wa-law kāna dhā qurbā. Transgenerational liability in the divine self-description stands against the Quran's flat denial that kin carry any of it (as Ezek 18 and Deut 24:16 already argue within the HB)."
       - with: hb-eccl-2-one-fate-and-toil
-        motif: blind-and-seeing-not-equal
+        motif: fate-of-the-seeing-and-the-blind
         refs: ["35:19", "35:20", "35:22"]
         with_refs: ["Eccl 2:13", "Eccl 2:14"]
         relation: divergence
         note: "Light and darkness, seeing and blind. Qohelet: yeš yiṯrôn la-ḥoḵmâ min-ha-ssiḵlûṯ kîṯrôn hā-ʾôr min-ha-ḥōšeḵ, he-ḥāḵām ʿênâw bə-rōʾšô wə-ha-kkəsîl ba-ḥōšeḵ hôlēḵ, and then wə-yāḏaʿtî ... še-miqreh ʾeḥāḏ yiqreh ʾeṯ-kullām (one fate befalls both). Q: wa-mā yastawī l-aʿmā wa-l-baṣīr wa-lā ẓ-ẓulumātu wa-lā n-nūr ... wa-mā yastawī l-aḥyāʾu wa-lā l-amwāt. The same contrast leads Qohelet to one shared end; the Quran insists the two are never equal."
       - with: hb-prov-1-prologue
-        motif: only-the-learned-fear-god
+        motif: fear-of-god-and-knowledge
         refs: ["35:28"]
         with_refs: ["Prov 1:7"]
         relation: divergence
         note: "Fear and knowledge in reverse order. Prov: yirʾaṯ YHWH rēʾšîṯ dāʿaṯ (fear is the beginning of knowledge). Q: innamā yakhshā llāha min ʿibādihi l-ʿulamāʾu (only those with knowledge fear God, after observing the colours of creation)."
       - with: hb-ps-111-acrostic-works
-        motif: only-the-learned-fear-god
+        motif: fear-of-god-and-knowledge
         refs: ["35:28"]
         with_refs: ["Ps 111:10"]
         relation: divergence
@@ -907,7 +982,7 @@ reviewed:
         relation: parallel
         note: "wə-hēmmâ ʾim-yišməʿû wə-ʾim-yeḥdālû kî bêṯ mərî hēmmâ vs. wa-sawāʾun ʿalayhim a-andhartahum am lam tundhirhum lā yuʾminūn: the warning must be given whether or not it is heard. Ezekiel's addressees are the rebellious house of Israel; the Quran's are a people whose fathers were never warned (36:6)."
       - with: hb-isa-6-throne-vision
-        motif: commission-to-harden-hearts
+        motif: who-closes-the-hearers-hearts-ears-and-eyes
         refs: ["36:9", "36:10"]
         with_refs: ["Isa 6:9", "Isa 6:10"]
         relation: divergence
@@ -1018,19 +1093,19 @@ reviewed:
         relation: parallel
         note: "wə-rabbîm mî-yšēnê ʾaḏmaṯ-ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ lə-ḏirʾôn ʿôlām vs. man baʿathanā min marqadinā ... wa-mtāzū l-yawma ayyuhā l-mujrimūn: the dead as sleepers who wake from their resting place and are split into two groups. Daniel raises 'many'; the Quran gathers all (jamīʿun ladaynā muḥḍarūn, 36:53)."
       - with: hb-isa-26-song-and-resurrection
-        motif: resurrection-of-the-dead
+        motif: first-words-of-the-raised-dead
         refs: ["36:51", "36:52"]
         with_refs: ["Isa 26:19"]
         relation: divergence
         note: "What the waking dead say. Isa: hāqîṣû wə-rannənû šōḵnê ʿāp̄ār, the dwellers in dust wake and sing for joy. Q: qālū yā-waylanā man baʿathanā min marqadinā, they wake crying woe. Isaiah's 'your dead' are God's people; in the Quran the first voice is that of the deniers, who now see hādhā mā waʿada r-raḥmān."
       - with: hb-isa-27-leviathan-and-great-shofar
-        motif: trumpet-blown-at-resurrection
+        motif: horn-blown-on-the-last-day
         refs: ["36:51"]
         with_refs: ["Isa 27:13"]
         relation: divergence
         note: "A horn that gathers. Isa: yittāqaʿ bə-šôp̄ār gāḏôl û-ḇāʾû hā-ʾōḇəḏîm bə-ʾereṣ ʾaššûr ... wə-hištaḥăwû la-YHWH bə-har ha-qqōḏeš, gathering the lost exiles to worship at Jerusalem. Q: wa-nufikha fī ṣ-ṣūri fa-idhā hum mina l-ajdāthi ilā rabbihim yansilūn, gathering the dead from the graves to judgment. The national ingathering becomes the universal resurrection."
       - with: hb-ezek-33-watchman-and-fall-news
-        motif: prophet-not-a-poet
+        motif: prophet-taken-for-a-poet-or-singer
         refs: ["36:69"]
         with_refs: ["Ezek 33:32"]
         relation: divergence
@@ -1045,7 +1120,7 @@ reviewed:
     checked: [hb-exod-3-burning-bush, hb-ps-33-creation-by-word, hb-gen-1-creation-six-days, hb-ezek-37-dry-bones, hb-deut-32-song-of-moses, hb-isa-44-idol-from-half-a-log, hb-ps-8-what-is-man]
     matches:
       - with: hb-ezek-37-dry-bones
-        motif: can-these-bones-live
+        motif: question-whether-dry-bones-can-live
         refs: ["36:78", "36:79"]
         with_refs: ["Ezek 37:3", "Ezek 37:11"]
         relation: divergence
@@ -1090,13 +1165,13 @@ reviewed:
     checked: [hb-zech-3-joshua-and-the-satan, hb-job-33-elihu-dreams-and-angel, hb-job-10-why-did-you-make-me, hb-ezek-7-the-end, hb-joel-2-army-and-repentance, hb-isa-59-sins-separate-divine-warrior, hb-1kgs-22-micaiah, hb-job-1-prologue-first-test, hb-jer-23-against-prophets, hb-ezek-37-dry-bones]
     matches:
       - with: hb-job-1-prologue-first-test
-        motif: devils-eavesdrop-pelted-with-shooting-stars
+        motif: adversary-access-to-heavenly-council
         refs: ["37:7", "37:8"]
         with_refs: ["Job 1:6"]
         relation: contrast
         note: "Access of the adversary to the heavenly council. Job: wa-yyāḇōʾû bənê hā-ʾĕlōhîm ləhiṯyaṣṣēḇ ʿal-YHWH wa-yyāḇôʾ ḡam-ha-śśāṭān bə-ṯôḵām, the satan enters freely and speaks with God. Q: ḥifẓan min kulli shayṭānin mārid lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli jānib, the devils cannot even overhear the exalted assembly, and are pelted away."
       - with: hb-1kgs-22-micaiah
-        motif: divine-council-scene
+        motif: adversary-access-to-heavenly-council
         refs: ["37:8", "37:10"]
         with_refs: ["1Kgs 22:19", "1Kgs 22:21", "1Kgs 22:22"]
         relation: contrast
@@ -1129,13 +1204,13 @@ reviewed:
     checked: [hb-deut-33-blessing-of-moses, hb-jer-29-letter-to-exiles, hb-2kgs-9-jehu-anointed, hb-amos-5-lament-day-of-yhwh, hb-isa-59-sins-separate-divine-warrior, hb-jer-14-drought, hb-prov-23-drunkard, hb-amos-6-woe-complacent, hb-isa-66-fire-and-ingathering, hb-jer-23-against-prophets, hb-jer-9-wailing-women, hb-isa-9-child-born-and-outstretched-hand, hb-deut-32-song-of-moses]
     matches:
       - with: hb-prov-23-drunkard
-        motif: paradise-wine-no-headache-no-intoxication
+        motif: effects-of-wine
         refs: ["37:45", "37:46", "37:47"]
         with_refs: ["Prov 23:29", "Prov 23:33", "Prov 23:35"]
         relation: contrast
         note: "The effects of wine, point by point. Prov: lə-mî p̄əṣāʿîm ḥinnām lə-mî ḥaḵlilûṯ ʿênāyim ... ʿênêḵā yirʾû zārôṯ wə-libbəḵā yəḏabbēr tahpuḵôṯ ... hikkûnî ḇal-ḥālîṯî (wounds, red eyes, visions, confused speech). Q: bayḍāʾa ladhdhatin li-sh-shāribīna lā fīhā ghawlun wa-lā hum ʿanhā yunzafūn (white, delightful, with no ghawl, no headache or harm, and no loss of senses). The heavenly cup is defined by the absence of the very harms Proverbs lists."
       - with: hb-amos-6-woe-complacent
-        motif: paradise-couches-facing-each-other
+        motif: reclining-banquet-with-wine
         refs: ["37:44", "37:45"]
         with_refs: ["Amos 6:4", "Amos 6:6"]
         relation: contrast
@@ -1180,7 +1255,7 @@ reviewed:
     checked: [hb-ps-78-history, hb-gen-9-noah-drunk-curse, hb-exod-14-crossing-of-the-sea, hb-deut-1-spies-retold, hb-neh-9-levites-confession, hb-ps-105-history, hb-gen-6-flood]
     matches:
       - with: hb-gen-6-flood
-        motif: noah-cries-to-god-answered
+        motif: noahs-speech-to-god
         refs: ["37:75", "37:76"]
         with_refs: ["Gen 6:13", "Gen 7:1", "Gen 8:1"]
         relation: divergence
@@ -1198,7 +1273,7 @@ reviewed:
         relation: parallel
         note: "šəlōšâ ʾēlleh bənê-nōaḥ û-mē-ʾēlleh nāp̄əṣâ ḵol-hā-ʾāreṣ vs. wa-jaʿalnā dhurriyyatahu humu l-bāqīn: all later humanity comes from Noah's offspring. The Quran does not name the three sons."
       - with: hb-gen-9-noah-drunk-curse
-        motif: peace-upon-prophet-refrain
+        motif: how-noahs-story-ends
         refs: ["37:78", "37:79", "37:81"]
         with_refs: ["Gen 9:20", "Gen 9:21", "Gen 9:25"]
         relation: divergence
@@ -1261,7 +1336,7 @@ reviewed:
         relation: echo
         note: "ʾămar ləḵappāṯâ ... lə-mirmēʾ lə-ʾattûn nûrāʾ yāqiḏtāʾ ... dî lāʾ šəlēṭ nûrāʾ bə-ḡešmhôn (Aramaic: cast bound into the burning furnace; the fire had no power over them) vs. ibnū lahu bunyānan fa-alqūhu fī l-jaḥīm fa-arādū bihi kaydan fa-jaʿalnāhumu l-asfalīn. Those who refuse the idol are thrown into a built fire and survive. In the HB this happens to Daniel's companions; the Quran tells it of Abraham (Abraham's fire is cf. Gen. Rab. 38:13, outside the HB)."
       - with: hb-gen-15-covenant-between-pieces
-        motif: abraham-gazes-at-stars-says-i-am-sick
+        motif: abraham-looks-at-the-stars
         refs: ["37:88"]
         with_refs: ["Gen 15:5"]
         relation: divergence
@@ -1282,37 +1357,37 @@ reviewed:
         relation: divergence
         note: "How the command comes. Gen: direct divine speech, qaḥ-nāʾ ʾeṯ-binḵā ... wə-lek-ləḵā ʾel-ʾereṣ ha-mmōriyyâ wə-haʿălēhû šām lə-ʿōlâ (a burnt offering at a named place). Q: a dream reported by the father, innī arā fī l-manāmi annī adhbaḥuka (I see in sleep that I slaughter you), with no place, no mountain and no ʿōlâ. Q's dhabaḥa is cognate with Hebrew zāḇaḥ, while Gen uses ʿōlâ and liš-ḥōṭ (22:10)."
       - with: hb-gen-22-aqedah
-        motif: only-beloved-son
+        motif: identity-of-the-son-to-be-sacrificed
         refs: ["37:101", "37:112"]
         with_refs: ["Gen 22:2"]
         relation: divergence
         note: "Who the son is. Gen names him three times over: ʾeṯ-binḵā ʾeṯ-yəḥîḏəḵā ʾăšer-ʾāhaḇtā ʾeṯ-yiṣḥāq. Q has only bi-ghulāmin ḥalīm (a forbearing boy) and announces Isaac only after the episode, wa-basharnāhu bi-Isḥāqa nabiyyan mina ṣ-ṣāliḥīn (37:112). This leaves the victim unnamed, and many exegetes read him as Ishmael. The 'only' (yāḥîḏ) son of Gen is not said."
       - with: hb-gen-22-aqedah
-        motif: son-consents-to-be-sacrificed
+        motif: what-the-son-knows-and-says
         refs: ["37:102"]
         with_refs: ["Gen 22:7", "Gen 22:8"]
         relation: divergence
         note: "Who speaks, and what the son knows. Gen: Isaac does not know. He asks hinnēh hā-ʾēš wə-hā-ʿēṣîm wə-ʾayyēh ha-śśeh lə-ʿōlâ, and Abraham gives the veiled answer ʾĕlōhîm yirʾeh-lô ha-śśeh ... bənî. Q: the father tells him openly and asks his view, fa-nẓur mādhā tarā, and the son consents, yā-abati fʿal mā tuʾmaru sa-tajidunī in shāʾa llāhu mina ṣ-ṣābirīn. The address pair ʾāḇî / bənî matches yā-abati / yā-bunayya. Isaac's silence becomes the son's active submission."
       - with: hb-gen-22-aqedah
-        motif: binding-of-son-on-altar
+        motif: father-lays-the-son-down
         refs: ["37:103"]
         with_refs: ["Gen 22:6", "Gen 22:9", "Gen 22:10"]
         relation: divergence
         note: "The act. Gen: wood laid on Isaac, fire and knife, an altar built, wa-yyaʿăqōḏ ʾeṯ-yiṣḥāq bənô wa-yyāśem ʾōṯô ʿal-ha-mmizbēaḥ mi-mmaʿal lā-ʿēṣîm, knife raised. Q: fa-lammā aslamā wa-tallahu li-l-jabīn, both 'submitted' and he laid him on his brow. No binding (ʿăqēḏâ), no altar, no wood, no fire and no three-day journey. The decisive word is the dual aslamā (both of them submitted)."
       - with: hb-gen-22-aqedah
-        motif: angel-stops-sacrifice
+        motif: who-stops-the-sacrifice
         refs: ["37:104", "37:105"]
         with_refs: ["Gen 22:11", "Gen 22:12"]
         relation: divergence
         note: "Who stops it, and why. Gen: wa-yyiqrāʾ ʾēlâw malʾaḵ YHWH min-ha-ššāmayim ... ʾaḇrāhām ʾaḇrāhām wa-yyōʾmer hinnēnî; ʾal-tišlaḥ yāḏəḵā ʾel-ha-nnaʿar, because Abraham fears God. Q: wa-nādaynāhu an yā-Ibrāhīmu qad ṣaddaqta r-ruʾyā. God calls in the first person plural, with no angel and no hinnēnî. The reason is that Abraham has already fulfilled the dream, not a prohibition."
       - with: hb-gen-22-aqedah
-        motif: ram-substitute
+        motif: substitute-for-the-son
         refs: ["37:107"]
         with_refs: ["Gen 22:13", "Gen 22:14"]
         relation: divergence
         note: "The substitute. Gen: Abraham looks up, sees ʾayil ʾaḥar neʾĕḥaz ba-ssəḇaḵ bə-qarnâw, and offers it ʿōlâ taḥaṯ bənô; he then names the place YHWH yirʾeh. Q: wa-fadaynāhu bi-dhibḥin ʿaẓīm. God himself ransoms (fadā) with a 'great sacrifice', the animal is unnamed, Abraham does not find it, and there is no place-name or temple-mount aetiology."
       - with: hb-gen-22-aqedah
-        motif: all-nations-blessed-through-patriarch
+        motif: reward-after-the-sacrifice
         refs: ["37:108", "37:109", "37:113"]
         with_refs: ["Gen 22:16", "Gen 22:17", "Gen 22:18"]
         relation: divergence
@@ -1339,13 +1414,13 @@ reviewed:
     checked: [hb-ps-86-none-like-you, hb-ps-78-history, hb-judg-3-othniel, hb-judg-2-bochim-cycle, hb-2kgs-13-jehoahaz-elisha-death, hb-1kgs-18-carmel, hb-exod-14-crossing-of-the-sea, hb-exod-32-golden-calf]
     matches:
       - with: hb-1kgs-18-carmel
-        motif: elias-against-baal
+        motif: prophets-challenge-to-baal-worshippers
         refs: ["37:124", "37:125", "37:126"]
         with_refs: ["1Kgs 18:21", "1Kgs 18:36"]
         relation: divergence
         note: "The challenge to Baal. Kings: ʿaḏ-māṯay ʾattem pōsəḥîm ʿal-šətê ha-ssəʿippîm ʾim-YHWH hā-ʾĕlōhîm ləḵû ʾaḥărâw wə-ʾim-ha-bbaʿal ləḵû ʾaḥărâw, and Elijah prays to YHWH ʾĕlōhê ʾaḇrāhām yiṣḥāq wə-yiśrāʾēl ... ʾattâ ʾĕlōhîm bə-yiśrāʾēl. Q: a-tadʿūna baʿlan wa-tadharūna aḥsana l-khāliqīna llāha rabbakum wa-rabba ābāʾikumu l-awwalīn. The God of the three named patriarchs and 'God in Israel' becomes 'your Lord and the Lord of your first forefathers' and 'the best of creators'. No people or patriarch is named."
       - with: hb-1kgs-18-carmel
-        motif: lone-prophet-against-hundreds
+        motif: outcome-of-the-challenge-to-baal
         refs: ["37:127", "37:128"]
         with_refs: ["1Kgs 18:22", "1Kgs 18:39", "1Kgs 18:40"]
         relation: divergence
@@ -1369,13 +1444,13 @@ reviewed:
         relation: echo
         note: "ʾên-kāmôḵā ḇā-ʾĕlōhîm ʾăḏōnāy wə-ʾên kə-maʿăśeyḵā vs. aḥsana l-khāliqīn: God compared with other 'gods' or 'creators' and found beyond them. The comparative idiom allows that other makers or gods exist."
       - with: hb-exod-14-crossing-of-the-sea
-        motif: pursuers-drowned-in-sea
+        motif: who-is-credited-with-the-deliverance-from-egypt
         refs: ["37:115", "37:116"]
         with_refs: ["Exod 14:30", "Exod 14:31"]
         relation: divergence
         note: "wa-yyôšaʿ YHWH ba-yyôm ha-hûʾ ʾeṯ-yiśrāʾēl ... wa-yyaʾămînû ba-YHWH û-ḇə-mōšeh ʿaḇdô vs. wa-najjaynāhumā wa-qawmahumā mina l-karbi l-ʿaẓīmi wa-naṣarnāhum fa-kānū humu l-ghālibīn. The deliverance is credited to Moses and Aaron jointly (dual -humā). In Exodus Moses alone is named as God's servant."
       - with: hb-exod-32-golden-calf
-        motif: peace-upon-prophet-refrain
+        motif: standing-of-aaron
         refs: ["37:117", "37:120", "37:122"]
         with_refs: ["Exod 32:4"]
         relation: divergence
@@ -1384,13 +1459,13 @@ reviewed:
     checked: [hb-jonah-1-flight-and-storm, hb-jonah-2-in-the-fish, hb-jonah-4-qiqayon, hb-jonah-3-nineveh-repents, hb-jer-15-confession-words-eaten, hb-ezek-3-watchman-and-muteness, hb-gen-19-sodom-destroyed]
     matches:
       - with: hb-gen-19-sodom-destroyed
-        motif: wife-turned-to-pillar-of-salt
+        motif: fate-of-lots-wife
         refs: ["37:134", "37:135", "37:136"]
         with_refs: ["Gen 19:16", "Gen 19:26"]
         relation: divergence
         note: "Lot's wife. Gen: she leaves with him, looks back against the order, and is turned to salt: wa-ttabbēṭ ʾištô mē-ʾaḥărâw wa-ttəhî nəṣîḇ melaḥ. Q: idh najjaynāhu wa-ahlahu ajmaʿīna illā ʿajūzan fī l-ghābirīn. An unnamed 'old woman' who 'stayed behind' among the doomed: no look back, no salt, and no wife named. Lot is also called min al-mursalīn (a messenger), a title Gen never gives him."
       - with: hb-jonah-1-flight-and-storm
-        motif: jonah-runaway-to-laden-ship
+        motif: jonahs-flight-by-ship
         refs: ["37:139", "37:140"]
         with_refs: ["Jonah 1:2", "Jonah 1:3"]
         relation: divergence
@@ -1426,7 +1501,7 @@ reviewed:
         relation: parallel
         note: "harbēh miššətêm-ʿeśrēh ribbô ʾāḏām vs. ilā miʾati alfin aw yazīdūn: the city's size, with 'more than' on both sides. The Quran rounds 120,000 to 100,000 and does not name Nineveh, its ignorance of right and left, or its animals."
       - with: hb-jonah-3-nineveh-repents
-        motif: jonahs-people-believe-and-are-spared
+        motif: jonahs-city-believes-and-is-spared
         refs: ["37:147", "37:148"]
         with_refs: ["Jonah 3:5", "Jonah 3:10"]
         relation: divergence
@@ -1435,7 +1510,7 @@ reviewed:
     checked: [hb-gen-6-sons-of-god, hb-ezek-20-history-of-rebellion, hb-zeph-1-day-of-wrath, hb-ezek-6-mountains-of-israel, hb-isa-6-throne-vision, hb-2kgs-19-deliverance-of-jerusalem, hb-ps-106-national-confession, hb-ps-41-considers-poor, hb-neh-9-levites-confession]
     matches:
       - with: hb-gen-6-sons-of-god
-        motif: kinship-between-god-and-jinn-denied
+        motif: divine-offspring
         refs: ["37:152", "37:158", "37:159"]
         with_refs: ["Gen 6:2", "Gen 6:4"]
         relation: contrast
@@ -1453,13 +1528,13 @@ reviewed:
         relation: echo
         note: "wa-yyaškîmû ḇa-bbōqer wə-hinnēh ḵullām pəḡārîm mēṯîm vs. fa-idhā nazala bi-sāḥatihim fa-sāʾa ṣabāḥu l-mundharīn: the night blow of God's punishment discovered in the morning (bōqer / ṣabāḥ)."
       - with: hb-ps-106-national-confession
-        motif: glory-to-lord-of-might-closing
+        motif: closing-doxology-divine-title
         refs: ["37:180", "37:182"]
         with_refs: ["Ps 106:48"]
         relation: divergence
         note: "Closing doxology, with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām wə-ʿaḏ hā-ʿôlām, closing a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun ʿalā l-mursalīna wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. 'God of Israel' becomes 'Lord of the worlds'. The same root ʿ-l-m serves as 'eternity' (ʿôlām) in Hebrew and 'worlds' (ʿālamīn) in Arabic."
       - with: hb-ps-41-considers-poor
-        motif: glory-to-lord-of-might-closing
+        motif: closing-doxology-divine-title
         refs: ["37:182"]
         with_refs: ["Ps 41:14"]
         relation: divergence
@@ -1507,19 +1582,19 @@ reviewed:
     checked: [hb-ps-51-miserere, hb-2sam-12-nathans-parable, hb-2sam-14-wise-woman-of-tekoa, hb-jer-33-branch-and-cosmic-covenant, hb-jer-12-why-wicked-prosper, hb-1kgs-22-micaiah, hb-isa-45-cyrus-the-anointed, hb-gen-18-abraham-bargains, hb-ps-148-all-creation-praises]
     matches:
       - with: hb-2sam-12-nathans-parable
-        motif: juridical-parable-entraps-king
+        motif: case-of-the-ewe-brought-to-david
         refs: ["38:21", "38:22"]
         with_refs: ["2Sam 12:1"]
         relation: divergence
         note: "Who brings the case. Sam: wa-yyišlaḥ YHWH ʾeṯ-nāṯān ʾel-dāwiḏ, a known prophet sent by God tells a story of šənê ʾănāšîm ... ʾeḥāḏ ʿāšîr wə-ʾeḥāḏ rāʾš. Q: idh tasawwarū l-miḥrāba idh dakhalū ʿalā Dāwūda fa-faziʿa minhum, qālū lā takhaf khaṣmāni baghā baʿḍunā ʿalā baʿḍ. Two unnamed litigants climb the wall of his prayer chamber and frighten him, and present the case as their own. The prophet-mediator is gone."
       - with: hb-2sam-12-nathans-parable
-        motif: ninety-nine-ewes-and-one
+        motif: rich-man-takes-poor-mans-only-ewe
         refs: ["38:23"]
         with_refs: ["2Sam 12:2", "2Sam 12:3", "2Sam 12:4"]
         relation: divergence
         note: "The case itself. Sam: lə-ʿāšîr hāyâ ṣōʾn û-ḇāqār harbēh məʾōḏ wə-lā-rāš ʾên-kōl kî ʾim-kiḇśâ ʾaḥaṯ qəṭannâ ... wa-ttəhî-lô kə-ḇaṯ. The rich man takes the lamb to feed a traveller. Q: inna hādhā akhī lahu tisʿun wa-tisʿūna naʿjatan wa-liya naʿjatun wāḥidatun fa-qāla akfilnīhā wa-ʿazzanī fī l-khiṭāb. The exact number 99 against Samuel's 'very many', 'my brother' against 'two men in one city', and the claim made by force of speech, not by theft for a guest. The pathos of the lamb 'like a daughter' is gone."
       - with: hb-2sam-12-nathans-parable
-        motif: royal-confession-and-pardon
+        motif: davids-repentance-and-its-outcome
         refs: ["38:24", "38:25"]
         with_refs: ["2Sam 12:5", "2Sam 12:7", "2Sam 12:13", "2Sam 12:14"]
         relation: divergence
@@ -1564,19 +1639,19 @@ reviewed:
     checked: [hb-josh-11-hazor-northern-campaign, hb-2sam-8-davids-wars-officials, hb-1kgs-5-dominion-wisdom, hb-2chr-28-ahaz-and-the-merciful-samarians, hb-2kgs-1-ahaziah-baal-zebub, hb-2chr-18-micaiah-and-ramoth-gilead, hb-1kgs-3-gibeon-dream, hb-2chr-1-solomon-at-gibeon, hb-deut-17-courts-king]
     matches:
       - with: hb-1kgs-3-gibeon-dream
-        motif: solomon-asks-unmatched-kingdom
+        motif: solomons-request-and-unmatched-gift
         refs: ["38:35"]
         with_refs: ["1Kgs 3:9", "1Kgs 3:11", "1Kgs 3:12", "1Kgs 3:13"]
         relation: divergence
         note: "What Solomon asks for. Kings: he asks only lēḇ šōmēaʿ lišpōṭ ʾeṯ-ʿamməḵā, and God praises him for not asking (wə-lōʾ šāʾaltā ləḵā ʿōšer), then grants unasked ʿōšer and kāḇôḏ, ʾăšer kāmôḵā lōʾ-hāyâ ... wə-ʾaḥăreyḵā lōʾ-yāqûm kāmôḵā. Q: rabbi ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī. He asks forgiveness, then asks directly for the unmatched kingdom. The incomparability 'after you' is God's gift in Kings and Solomon's own request in the Quran."
       - with: hb-2chr-1-solomon-at-gibeon
-        motif: solomon-asks-unmatched-kingdom
+        motif: solomons-request-and-unmatched-gift
         refs: ["38:35", "38:39"]
         with_refs: ["2Chr 1:11", "2Chr 1:12"]
         relation: divergence
         note: "wə-lōʾ šāʾaltā ʿōšer nəḵāsîm wə-ḵāḇôḏ ... wə-ʿōšer û-nəḵāsîm wə-ḵāḇôḏ ʾetten-lāḵ ʾăšer lōʾ-hāyâ ḵēn la-mməlāḵîm ʾăšer ləp̄āneyḵā wə-ʾaḥăreyḵā lōʾ yihyeh-kēn vs. wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī ... hādhā ʿaṭāʾunā fa-mnun aw amsik bi-ghayri ḥisāb. The same 'none after you' formula; in Chronicles it rewards Solomon for not asking, in the Quran it answers his asking."
       - with: hb-1kgs-5-dominion-wisdom
-        motif: royal-stables-chariot-horses
+        motif: solomons-horses
         refs: ["38:31", "38:32"]
         with_refs: ["1Kgs 5:6"]
         relation: divergence
@@ -1603,7 +1678,7 @@ reviewed:
     checked: [hb-job-23-where-can-i-find-him, hb-job-24-oppression-of-poor, hb-zech-3-joshua-and-the-satan, hb-num-30-vows, hb-job-42-epilogue, hb-isa-50-servant-struck, hb-job-2-second-test-and-friends, hb-job-19-my-redeemer-lives, hb-job-1-prologue-first-test]
     matches:
       - with: hb-job-19-my-redeemer-lives
-        motif: job-cries-satan-touched-me
+        motif: who-touched-job
         refs: ["38:41"]
         with_refs: ["Job 19:21"]
         relation: divergence
@@ -1615,13 +1690,13 @@ reviewed:
         relation: parallel
         note: "wa-yyēṣēʾ ha-śśāṭān mē-ʾēṯ pənê YHWH wa-yyak ʾeṯ-ʾiyyôḇ bi-šḥîn rāʿ vs. massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb: the satan is the agent of Job's bodily affliction. The narrator of Job knows it; in the Quran Job himself says it. There is no heavenly wager."
       - with: hb-job-23-where-can-i-find-him
-        motif: job-cries-satan-touched-me
+        motif: job-calls-on-god-and-the-response
         refs: ["38:41", "38:42"]
         with_refs: ["Job 23:3", "Job 23:8", "Job 23:9"]
         relation: contrast
         note: "Calling on God. Job: mî-yittēn yāḏaʿtî wə-ʾemṣāʾēhû ... hēn qeḏem ʾehĕlōḵ wə-ʾênennû, he cannot find God to plead his case. Q: idh nādā rabbahu ... urkuḍ bi-rijlika hādhā mughtasalun bāridun wa-sharāb, he calls and is answered at once with a healing spring. There is no lawsuit and no divine silence."
       - with: hb-job-42-epilogue
-        motif: fortunes-restored-twofold
+        motif: what-is-restored-to-job
         refs: ["38:43"]
         with_refs: ["Job 42:10", "Job 42:12", "Job 42:13"]
         relation: divergence
@@ -1642,7 +1717,7 @@ reviewed:
     checked: [hb-zech-3-joshua-and-the-satan, hb-jer-23-against-prophets, hb-2chr-18-micaiah-and-ramoth-gilead, hb-isa-1-indictment-of-judah, hb-jer-33-branch-and-cosmic-covenant, hb-amos-5-lament-day-of-yhwh, hb-isa-26-song-and-resurrection, hb-deut-10-second-tablets, hb-isa-14-helel-ben-shahar]
     matches:
       - with: hb-jer-23-against-prophets
-        motif: dispute-in-high-assembly
+        motif: prophet-and-the-heavenly-council
         refs: ["38:69", "38:70"]
         with_refs: ["Jer 23:18", "Jer 23:22"]
         relation: contrast
@@ -1660,7 +1735,7 @@ reviewed:
         relation: parallel
         note: "pitḥû šəʿārîm wə-yāḇōʾ ḡôy-ṣaddîq šōmēr ʾĕmunîm vs. jannāti ʿadnin mufattaḥatan lahumu l-abwāb: gates opened (pāṯaḥ / fattaḥa, cognate) for the righteous. Isaiah's gates are those of the strong city on earth, the Quran's those of the Gardens of Eden."
       - with: hb-deut-10-second-tablets
-        motif: patriarchs-of-hands-and-vision
+        motif: choice-of-the-patriarchs
         refs: ["38:45", "38:46", "38:47"]
         with_refs: ["Deut 10:15"]
         relation: divergence
@@ -1681,7 +1756,7 @@ reviewed:
         relation: divergence
         note: "wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. innī khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn. The same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience; in Q the act is announced to the angels, and the breath of 'my spirit' is the cue for them to prostrate."
       - with: hb-ps-8-what-is-man
-        motif: angels-bow-to-adam-iblis-refuses
+        motif: rank-of-humans-among-heavenly-beings
         refs: ["38:72", "38:73"]
         with_refs: ["Ps 8:6"]
         relation: contrast
@@ -1726,19 +1801,19 @@ reviewed:
         relation: echo
         note: "hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. khalqan min baʿdi khalq: the embryo made in successive stages (milk, cheese, skin, flesh, bones). Job lists the stages to protest; the Quran mentions them as a sign of the One God."
       - with: hb-gen-2-eden-adam-woman
-        motif: created-from-single-soul-and-its-mate
+        motif: origin-and-purpose-of-the-human-mate
         refs: ["39:6"]
         with_refs: ["Gen 2:21", "Gen 2:22"]
         relation: divergence
         note: "wa-yyappēl ... tardēmâ ʿal-hā-ʾāḏām ... wa-yyiqqaḥ ʾaḥaṯ mi-ṣṣalʿōṯâw ... wa-yyiḇen ... ʾeṯ-ha-ṣṣēlāʿ ... lə-ʾiššâ vs. khalaqakum min nafsin wāḥidatin thumma jaʿala minhā zawjahā. The mate comes from the one soul with no sleep, no rib and no building. Only 'from it' (minhā) recalls Gen's 'from the man'."
       - with: hb-ps-2-anointed-son
-        motif: if-god-wanted-a-son-he-would-choose
+        motif: divine-offspring
         refs: ["39:4"]
         with_refs: ["Ps 2:7"]
         relation: contrast
         note: "YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm's divine sonship of the king is answered in the Quran's terms: even if God wished it, the 'son' would be a creature God chose, not one he begot, and God is above it altogether."
       - with: hb-2sam-7-dynastic-oracle
-        motif: if-god-wanted-a-son-he-would-choose
+        motif: divine-offspring
         refs: ["39:4"]
         with_refs: ["2Sam 7:14"]
         relation: contrast
@@ -1873,7 +1948,7 @@ reviewed:
         relation: parallel
         note: "mî-māḏaḏ bə-šoʿŏlô mayim wə-šāmayim ba-zzereṯ tikkēn wə-ḵāl ba-ššālīš ʿăp̄ar hā-ʾāreṣ ... wə-ʾel-mî təḏamməyûn ʾēl vs. wa-mā qadarū llāha ḥaqqa qadrihi wa-l-arḍu jamīʿan qabḍatuhu ... wa-s-samāwātu maṭwiyyātun bi-yamīnihi: the earth and the heavens held in God's hand-measures, and people have not measured God rightly (qadarū / tikkēn, measuring)."
       - with: hb-ps-37-meek-inherit
-        motif: blessed-inherit-the-earth-of-paradise
+        motif: land-inherited-by-the-righteous
         refs: ["39:74"]
         with_refs: ["Ps 37:29"]
         relation: divergence
@@ -1891,7 +1966,7 @@ reviewed:
         relation: echo
         note: "kî ʾên ʾāḏām ʾăšer lōʾ-yeḥĕṭāʾ ... wə-sālaḥtā lə-ʿamməḵā ʾăšer ḥāṭəʾû-lāḵ vs. inna llāha yaghfiru dh-dhunūba jamīʿā: all sin and God's forgiveness. Solomon asks it for 'your people' praying toward the temple; the Quran offers it to all God's servants."
       - with: hb-isa-22-valley-of-vision-and-shebna
-        motif: keys-of-heavens-and-earth
+        motif: holder-of-the-keys
         refs: ["39:63"]
         with_refs: ["Isa 22:22"]
         relation: divergence
@@ -1918,7 +1993,7 @@ reviewed:
         relation: echo
         note: "wə-šûḇû ʾel-YHWH ʾĕlōhêḵem kî-ḥannûn wə-raḥûm hûʾ ... wə-niḥām ʿal-hā-rāʿâ vs. ghāfiri dh-dhanbi wa-qābili t-tawb: the formula tied to the call to repent (šûḇ / tawba)."
       - with: hb-ezek-1-chariot-throne
-        motif: four-living-creatures-hayyot
+        motif: bearers-of-the-divine-throne
         refs: ["40:7"]
         with_refs: ["Ezek 1:22", "Ezek 1:26"]
         relation: divergence
@@ -1945,13 +2020,13 @@ reviewed:
     checked: [hb-gen-11-babel, hb-exod-1-oppression-midwives, hb-isa-19-oracle-on-egypt, hb-jer-42-43-flight-to-egypt, hb-ezek-20-history-of-rebellion, hb-exod-2-moses-birth-flight-midian, hb-exod-5-bricks-without-straw, hb-exod-9-hail, hb-exod-10-locusts-darkness, hb-esth-3-haman-decree, hb-num-16-korah]
     matches:
       - with: hb-exod-1-oppression-midwives
-        motif: pharaoh-orders-killing-sons-of-believers
+        motif: pharaohs-decree-against-sons
         refs: ["40:25"]
         with_refs: ["Exod 1:16", "Exod 1:22"]
         relation: divergence
         note: "Kill the sons, spare the daughters, on the same root: wa-hămittɛn ʾōṯô wə-ʾim-baṯ hîʾ wā-ḥāyâ ... wə-ḵol-ha-bbaṯ təḥayyûn vs. uqtulū abnāʾa lladhīna āmanū maʿahu wa-staḥyū nisāʾahum (ḥ-y-y in both: 'let live'). The time and target are changed. Exodus: before Moses' birth, against every Hebrew boy, for fear of numbers (rāḇ wə-ʿāṣûm mimmennû, 1:9). Q: after Moses arrives with the truth, against the sons of those who believe with him, a religious persecution."
       - with: hb-exod-1-oppression-midwives
-        motif: joseph-came-before-with-clear-signs
+        motif: egypts-memory-of-joseph
         refs: ["40:34"]
         with_refs: ["Exod 1:8"]
         relation: divergence
@@ -1963,19 +2038,19 @@ reviewed:
         relation: divergence
         note: "A tower to heaven. Gen: hāḇâ niḇneh-lānû ʿîr û-miḡdāl wə-rōʾšô ḇa-ššāmayim wə-naʿăśeh-lānû šēm, built collectively, to make a name and avoid scattering; YHWH comes down (wa-yyēreḏ YHWH lirʾōṯ) and scatters them. Q: yā-Hāmānu bni lī ṣarḥan laʿallī ablughu l-asbāba asbāba s-samāwāti fa-aṭṭaliʿa ilā ilāhi Mūsā wa-innī la-aẓunnuhu kādhiban, ordered by Pharaoh, built by Haman, so that Pharaoh can look up at Moses' God whom he calls a liar. The plot ends fī tabāb, with no divine descent and no confusion of tongues."
       - with: hb-esth-3-haman-decree
-        motif: korah-pharaoh-haman-trio
+        motif: setting-of-haman-and-korah
         refs: ["40:24", "40:36"]
         with_refs: ["Esth 3:1", "Esth 3:6"]
         relation: divergence
         note: "Haman's place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who seeks ləhašmîḏ ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is Pharaoh's builder (yā-Hāmānu bni lī). The name of Israel's Persian-era persecutor is placed at the Egyptian court; the shared role is the persecutor of God's people."
       - with: hb-num-16-korah
-        motif: korah-pharaoh-haman-trio
+        motif: setting-of-haman-and-korah
         refs: ["40:24"]
         with_refs: ["Num 16:1", "Num 16:3"]
         relation: divergence
         note: "Korah's place. Num: qōraḥ ben-yiṣhār ben-qəhāṯ ben-lēwî, a Levite who rebels inside the camp against Moses and Aaron (rab-lāḵem). Q: Qārūn is named with Pharaoh and Haman as the addressees of Moses' mission, who call him sāḥirun kadhdhāb. The Israelite rebel becomes one of the three powers of Egypt, whose sin in the Quran is arrogance of wealth (cf. Q 28:76)."
       - with: hb-exod-2-moses-birth-flight-midian
-        motif: pharaoh-wishes-to-kill-moses
+        motif: pharaoh-seeks-to-kill-moses
         refs: ["40:26"]
         with_refs: ["Exod 2:15"]
         relation: divergence
@@ -2008,7 +2083,7 @@ reviewed:
         relation: parallel
         note: "qərāʾ ʾēlay wə-ʾeʿĕnekkā wə-ʾaggîḏâ ləḵā gəḏōlôṯ û-ḇəṣurôṯ vs. wa-qāla rabbukumu dʿūnī astajib lakum: call to me and I will answer. Jeremiah's words are to the prophet in prison; the Quran's to all ('your Lord said'), followed by a threat to those too proud to worship."
       - with: hb-gen-1-creation-six-days
-        motif: human-in-divine-image
+        motif: human-form-given-at-creation
         refs: ["40:64"]
         with_refs: ["Gen 1:27", "Gen 1:31"]
         relation: divergence
@@ -2068,13 +2143,13 @@ reviewed:
     checked: [hb-isa-6-throne-vision, hb-gen-1-creation-six-days, hb-ps-104-creation-hymn, hb-isa-40-comfort-my-people, hb-isa-45-cyrus-the-anointed, hb-isa-51-abraham-quarry, hb-isa-48-refined-in-affliction]
     matches:
       - with: hb-gen-1-creation-six-days
-        motif: creation-in-six-days
+        motif: order-and-days-of-creating-heaven-and-earth
         refs: ["41:9", "41:10", "41:11", "41:12"]
         with_refs: ["Gen 1:6", "Gen 1:8", "Gen 1:9", "Gen 1:10", "Gen 1:14"]
         relation: divergence
         note: "The order and the counting of the days. Gen: the firmament called šāmāyim on day 2 (yôm šēnî), dry land and plants on day 3, luminaries in the firmament on day 4, so heaven before dry earth, one work per day. Q: khalaqa l-arḍa fī yawmayni ... wa-qaddara fīhā aqwātahā fī arbaʿati ayyām ... thumma stawā ilā s-samāʾi wa-hiya dukhān ... fa-qaḍāhunna sabʿa samāwātin fī yawmayn. The earth is created first, its provisions in four days, and only then the seven heavens; the sums (2+4+2) are reckoned by the exegetes to six. There is no evening-and-morning formula, no seventh day, and the luminaries are 'lamps' of the lowest heaven."
       - with: hb-isa-51-abraham-quarry
-        motif: heaven-was-smoke
+        motif: heaven-and-smoke
         refs: ["41:11"]
         with_refs: ["Isa 51:6"]
         relation: contrast
@@ -2092,7 +2167,7 @@ reviewed:
         relation: echo
         note: "ʾănî yāḏay nāṭû šāmayim wə-ḵol-ṣəḇāʾām ṣiwwêṯî vs. wa-awḥā fī kulli samāʾin amrahā wa-zayyannā s-samāʾa d-dunyā bi-maṣābīḥ: God gives the heavens and their hosts their command (ṣiwwâ / amr)."
       - with: hb-isa-6-throne-vision
-        motif: hearts-veiled-ears-heavy-curtain-between
+        motif: who-closes-the-hearers-hearts-ears-and-eyes
         refs: ["41:5"]
         with_refs: ["Isa 6:10"]
         relation: divergence
