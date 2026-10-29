@@ -194,6 +194,218 @@ new_motifs:
   brothers-cast-out-faithful: {label: "The faithful are hated and cast out by their own brothers for God's name's sake", cluster: prophecy}
   voice-from-temple-repays-enemies: {label: "A tumult from the city, a voice from the temple: the voice of YHWH repaying his enemies", cluster: theophany}
   god-as-midwife-of-birth: {label: "God as midwife who brings to the point of birth and does not shut the womb", cluster: theology}
+  prophetic-book-superscription-by-reigns: {label: "A prophetic book opens with the prophet's name, lineage and the kings in whose reigns he prophesied", cluster: prophecy}
+  i-am-with-you-to-deliver: {label: "God reassures the frightened prophet: 'Do not fear them, for I am with you to deliver you'", cluster: prophecy}
+  god-touches-prophets-mouth: {label: "God (or a seraph) touches the prophet's mouth or lips to commission him", cluster: prophecy}
+  uproot-and-tear-down-build-and-plant: {label: "Prophet appointed over nations to uproot and tear down, destroy and overthrow, build and plant", cluster: prophecy}
+  vision-question-what-do-you-see: {label: "God asks the prophet 'What do you see?' and interprets the ordinary object he names", cluster: prophecy}
+  almond-rod-watching-pun: {label: "Vision of an almond branch (shaqed) explained as God watching (shoqed) over his word", cluster: prophecy}
+  boiling-pot-from-north: {label: "Vision of a boiling pot tilted from the north, signifying disaster poured out from the north", cluster: prophecy}
+  foe-from-the-north: {label: "A terrible nameless invader comes from the north against Judah and Jerusalem", cluster: prophecy}
+  prophet-made-fortified-city: {label: "God makes the prophet a fortified city, an iron pillar and bronze walls against the whole land", cluster: prophecy}
+  wilderness-bridal-devotion: {label: "God remembers Israel's devotion as a bride who followed him in the wilderness, a land not sown", cluster: covenant}
+  israel-firstfruits-holy-to-god: {label: "Israel was holy to YHWH, the firstfruits of his harvest; all who ate of it incurred guilt", cluster: covenant}
+  covenant-lawsuit: {label: "God brings a legal case (riv) against his people, summoning witnesses and asking what wrong their fathers found in him", cluster: prophecy}
+  nations-do-not-change-their-gods: {label: "No nation has exchanged its gods, though they are no gods, yet Israel exchanged its Glory", cluster: idolatry}
+  heavens-appalled-at-apostasy: {label: "The heavens are called to be appalled and shudder at the people's apostasy", cluster: prophecy}
+  broken-cisterns-for-living-water: {label: "The people forsook God, the fountain of living waters, and dug broken cisterns that hold no water", cluster: prophecy}
+  drinking-waters-of-nile-and-euphrates: {label: "Seeking alliances with Egypt and Assyria described as going to drink the waters of the Nile and the River", cluster: prophecy}
+  choice-vine-degenerates: {label: "God planted a choice vine of pure seed, but it turned into a degenerate foreign vine", cluster: prophecy}
+  stain-not-washed-by-lye: {label: "Though washed with natron and much soap (borit), the people's guilt remains a stain before God", cluster: prophecy}
+  she-camel-and-wild-ass-in-heat: {label: "Apostate people likened to a restless young she-camel and a wild ass in heat sniffing the wind", cluster: prophecy}
+  tree-is-my-father-stone-bore-me: {label: "Idolaters say to a tree 'You are my father' and to a stone 'You gave birth to me'", cluster: idolatry}
+  gods-as-many-as-cities: {label: "Judah has as many gods as cities (and altars as Jerusalem's streets)", cluster: idolatry}
+  can-a-bride-forget-her-ornaments: {label: "'Can a virgin forget her ornaments or a bride her sash?' yet my people have forgotten me", cluster: prophecy}
+  hands-on-head-in-shame: {label: "A shamed person goes out with hands on the head", cluster: mourning}
+  harlot-waits-by-road-like-arab: {label: "The apostate people sat waiting for lovers by the roads like an Arab in the wilderness", cluster: prophecy}
+  two-adulterous-sisters: {label: "Two sister nations (Israel and Judah) are both unfaithful wives; the second fails to learn from the first's divorce", cluster: prophecy}
+  call-to-return-faithless-children: {label: "God calls 'Return, faithless children (shuvu banim shovavim), I will heal your faithlessness'", cluster: prophecy}
+  one-from-a-city-two-from-a-family: {label: "God will take the returnees 'one from a city and two from a family' and bring them to Zion", cluster: prophecy}
+  shepherds-after-gods-heart: {label: "God will give shepherds after his own heart who feed the people with knowledge", cluster: prophecy}
+  ark-no-longer-remembered: {label: "In the future the ark of the covenant will no longer be spoken of, remembered, missed or made again", cluster: cult}
+  jerusalem-called-throne-of-yhwh: {label: "Jerusalem will be called the throne of YHWH and all nations will gather to it", cluster: zion}
+  reunion-of-judah-and-israel: {label: "The houses of Judah and Israel will walk together and come from the land of the north", cluster: prophecy}
+  break-up-fallow-ground: {label: "'Break up your fallow ground and do not sow among thorns' as a call to repentance", cluster: prophecy}
+  alarm-flee-to-fortified-cities: {label: "Blow the shofar, raise the signal: gather and flee into the fortified cities before the invader", cluster: war}
+  destroyer-of-nations-as-lion: {label: "The invading destroyer of nations comes up like a lion from its thicket", cluster: prophecy}
+  prophet-accuses-god-of-deceiving: {label: "The prophet protests that God has utterly deceived the people by promising peace", cluster: prophecy}
+  chariots-like-whirlwind: {label: "The invader comes up like clouds, his chariots like a whirlwind and horses swifter than eagles", cluster: war}
+  prophets-anguish-in-bowels: {label: "The prophet cries 'My bowels, my bowels! I writhe! the walls of my heart!' at the sound of war", cluster: prophecy}
+  wise-for-evil-ignorant-of-good: {label: "The people are foolish children, skilled in doing evil but not knowing how to do good", cluster: wisdom}
+  vision-of-uncreation: {label: "Vision of the earth returned to tohu va-vohu: no light in the heavens, mountains quaking, no humans, birds fled", cluster: cosmology}
+  not-a-full-end: {label: "God will devastate the land but 'will not make a full end'", cluster: prophecy}
+  earth-mourns-heavens-darken: {label: "The earth mourns and the heavens above grow dark because of God's decree", cluster: cosmology}
+  city-as-painted-woman-rejected: {label: "The doomed city dresses in scarlet, gold ornaments and eye paint, but her lovers despise her and seek her life", cluster: prophecy}
+  anguish-like-woman-in-labor: {label: "The people's terror is like the pangs of a woman in labor with her first child", cluster: prophecy}
+  search-city-for-one-righteous: {label: "Search the streets for a single man who does justice and seeks truth, and God will pardon the city", cluster: prophecy}
+  both-poor-and-great-corrupt: {label: "The prophet thinks only the poor are ignorant, but finds the great have broken the yoke too", cluster: prophecy}
+  lion-wolf-leopard-attack: {label: "A lion from the forest, a wolf of the desert and a leopard watching the cities attack the sinners", cluster: prophecy}
+  lusty-stallions-neighing: {label: "Adulterers like well-fed lusty stallions, each neighing after his neighbor's wife", cluster: prophecy}
+  shall-i-not-punish-refrain: {label: "Refrain: 'Shall I not punish them for these things? Shall I not avenge myself on such a nation?'", cluster: prophecy}
+  denial-god-will-not-act: {label: "The people deny God: 'It is not he; no evil will come on us; the prophets are wind'", cluster: prophecy}
+  prophets-word-as-fire: {label: "God makes his words in the prophet's mouth a fire and the people wood it consumes", cluster: prophecy}
+  eyes-that-do-not-see: {label: "A foolish people who have eyes but do not see and ears but do not hear", cluster: prophecy}
+  fowlers-houses-full-of-deceit: {label: "The wicked lie in wait like fowlers setting traps; their houses are full of deceit like a cage full of birds", cluster: wisdom}
+  prophets-lie-and-people-love-it: {label: "Prophets prophesy falsely, priests rule by their direction, and the people love it so", cluster: prophecy}
+  sanctify-war: {label: "The attackers 'sanctify war' (qaddeshu milhamah) against the city and plan a noon or night assault", cluster: war}
+  glean-remnant-like-vine: {label: "Glean the remnant of Israel thoroughly as a vine; pass your hand again over the branches like a grape-gatherer", cluster: prophecy}
+  uncircumcised-ears: {label: "The people's ears are uncircumcised so that they cannot listen", cluster: prophecy}
+  prophet-cannot-hold-in-gods-word: {label: "The prophet is full of God's wrath or word and is weary of holding it in", cluster: prophecy}
+  peace-peace-when-no-peace: {label: "Prophets and priests heal the wound lightly, saying 'Peace, peace' when there is no peace", cluster: prophecy}
+  shameless-cannot-blush: {label: "They committed abomination yet were not ashamed; they did not know how to blush", cluster: prophecy}
+  ask-for-the-ancient-paths: {label: "Stand at the crossroads and ask for the ancient paths, the good way, and find rest for your souls", cluster: wisdom}
+  heaven-and-earth-summoned-as-witnesses: {label: "The nations, the earth or the heavens are summoned to hear God's case against his people", cluster: prophecy}
+  terror-on-every-side: {label: "'Terror on every side' (magor missaviv) as cry of panic or name", cluster: prophecy}
+  mourning-as-for-only-son: {label: "Mourn with sackcloth and ashes as for an only son, a most bitter lament", cluster: mourning}
+  prophet-as-assayer-refining-fails: {label: "The prophet is set as assayer of the people; the bellows blow and lead is consumed in vain: rejected silver", cluster: prophecy}
+  siege-ramp-cut-trees: {label: "Besiegers cut down trees and pour out a siege ramp against the city", cluster: war}
+  city-keeps-evil-fresh-like-well: {label: "As a well keeps its water fresh, so the city keeps its wickedness fresh", cluster: prophecy}
+  watchmen-set-but-unheeded: {label: "God set watchmen to sound the shofar, but the people refused to listen", cluster: prophecy}
+  stumbling-blocks-set-by-god: {label: "God himself lays stumbling blocks before the people, and fathers and sons stumble together", cluster: prophecy}
+  prophet-preaches-at-temple-gate: {label: "The prophet is sent to stand in the gate of God's house and preach to those entering to worship", cluster: prophecy}
+  temple-of-yhwh-false-trust: {label: "Do not trust deceptive words: 'The temple of YHWH, the temple of YHWH, the temple of YHWH are these'", cluster: cult}
+  den-of-robbers: {label: "God's house has become 'a den of robbers' in the people's eyes", cluster: cult}
+  god-sent-prophets-persistently: {label: "God sent his servants the prophets 'rising early and sending' (hashkem), but they did not listen", cluster: prophecy}
+  prophet-forbidden-to-intercede: {label: "God forbids the prophet to pray or intercede for the people, for he will not hear", cluster: prophecy}
+  cakes-for-queen-of-heaven: {label: "Children gather wood, fathers kindle fire and women knead dough to make cakes for the Queen of Heaven", cluster: cult}
+  sacrifice-not-commanded-at-exodus: {label: "God says he did not command the fathers about burnt offerings and sacrifices when he brought them out of Egypt, but obedience", cluster: cult}
+  eat-your-burnt-offerings-yourselves: {label: "God sarcastically tells the people to add their burnt offerings to their sacrifices and eat the meat", cluster: cult}
+  cut-off-hair-lament-on-heights: {label: "Jerusalem told to cut off her hair (nezer) and throw it away and raise a lament on the bare heights", cluster: mourning}
+  child-burning-never-commanded: {label: "God says the burning of children in the Topheth was something he never commanded nor did it enter his mind", cluster: cult}
+  valley-renamed-valley-of-slaughter: {label: "The Topheth and Valley of Ben-hinnom will be renamed the Valley of Slaughter, where the dead are buried for lack of room", cluster: cult}
+  unburied-corpses-food-for-birds: {label: "The people's corpses will be food for the birds of the sky and the beasts with no one to frighten them away", cluster: prophecy}
+  voice-of-bride-and-groom-silenced: {label: "God will silence the sound of joy and gladness, the voice of the bridegroom and the voice of the bride", cluster: prophecy}
+  bones-exhumed-before-astral-gods: {label: "The bones of kings, priests, prophets and people will be taken from their graves and spread before the sun, moon and host of heaven they loved", cluster: prophecy}
+  death-preferred-to-life: {label: "The surviving remnant will choose death rather than life", cluster: prophecy}
+  no-one-repents-what-have-i-done: {label: "No one repents of his evil, saying 'What have I done?'; each rushes on like a horse charging into battle", cluster: prophecy}
+  migratory-birds-know-their-seasons: {label: "The stork, turtledove, swift and crane know their seasons of migration, but God's people do not know his law", cluster: wisdom}
+  lying-pen-of-scribes: {label: "'How can you say We are wise, and the Torah of YHWH is with us?' The lying pen of the scribes has made it a lie", cluster: scripture}
+  no-grapes-on-vine-no-figs: {label: "When God comes to gather there are no grapes on the vine and no figs on the fig tree; the leaf withers", cluster: prophecy}
+  god-gives-poison-water-to-drink: {label: "God gives his people poisoned water (mei rosh) to drink and wormwood to eat", cluster: prophecy}
+  harvest-past-not-saved: {label: "'The harvest is past, the summer is ended, and we are not saved'", cluster: prophecy}
+  no-balm-in-gilead: {label: "'Is there no balm in Gilead, is there no physician there?' for the people's wound", cluster: prophecy}
+  weeping-prophet-fountain-of-tears: {label: "The prophet wishes his head were waters and his eyes a fountain of tears to weep day and night for the slain", cluster: prophecy}
+  wish-for-desert-lodging: {label: "The prophet wishes he had a wayfarers' lodge in the desert to leave his people", cluster: prophecy}
+  every-brother-a-supplanter: {label: "Trust no brother, for every brother is a supplanter ('aqov ya'qov, playing on Jacob) and every friend a slanderer", cluster: prophecy}
+  jerusalem-heap-haunt-of-jackals: {label: "Jerusalem and the cities of Judah will become heaps, a lair of jackals, desolate without inhabitant", cluster: prophecy}
+  land-emptied-of-birds-and-beasts: {label: "The land is so desolate that both birds of the sky and beasts have fled and gone", cluster: prophecy}
+  professional-wailing-women: {label: "Summon the keening women and skilled women to raise a dirge; mothers teach their daughters lament", cluster: mourning}
+  death-climbs-through-windows: {label: "Death has climbed in through our windows and entered our palaces, cutting off children from the street", cluster: mourning}
+  let-not-the-wise-boast: {label: "Let not the wise boast of wisdom, the mighty of might or the rich of riches, but of understanding and knowing God", cluster: wisdom}
+  circumcised-in-flesh-uncircumcised-in-heart: {label: "God will punish all circumcised who are uncircumcised: Egypt, Judah, Edom, Ammon, Moab and the desert-dwellers, and Israel uncircumcised in heart", cluster: prophecy}
+  is-god-not-in-zion: {label: "The exiled people cry 'Is YHWH not in Zion? Is her King not in her?'", cluster: zion}
+  do-not-fear-signs-of-heavens: {label: "Do not learn the way of the nations or be dismayed by the signs of the heavens, at which the nations are dismayed", cluster: divination}
+  idol-like-scarecrow-in-cucumber-field: {label: "Idols are like a scarecrow in a cucumber field: they cannot speak and must be carried because they cannot walk", cluster: idolatry}
+  king-of-the-nations: {label: "God addressed as 'King of the nations' whom all must fear", cluster: theology}
+  true-living-god-everlasting-king: {label: "YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes", cluster: theology}
+  gods-who-did-not-make-heaven-perish: {label: "Aramaic declaration: the gods who did not make heaven and earth shall perish from the earth and from under the heavens", cluster: idolatry}
+  creation-by-wisdom-and-understanding: {label: "God made the earth by his power, established the world by his wisdom and stretched out the heavens by his understanding", cluster: creation}
+  wind-from-gods-storehouses: {label: "At God's voice waters roar in heaven; he raises mists, makes lightning for rain and brings wind out of his storehouses", cluster: cosmology}
+  idols-have-no-breath: {label: "Every goldsmith is shamed by his image, for his casting is a lie and there is no breath (ruah) in them", cluster: idolatry}
+  portion-of-jacob-former-of-all: {label: "Not like these is the Portion of Jacob, for he is the former of all things", cluster: theology}
+  pack-bundle-for-exile: {label: "The besieged inhabitant is told to gather up her bundle from the ground, for God will sling out the inhabitants", cluster: prophecy}
+  ruined-tent-children-gone: {label: "Zion laments: my tent is destroyed, my cords snapped, my children gone, and no one to pitch my tent again", cluster: mourning}
+  man-cannot-direct-own-steps: {label: "A man's way is not in himself; it is not in the one who walks to direct his steps", cluster: wisdom}
+  cursed-who-does-not-obey-covenant: {label: "'Cursed is the man who does not hear the words of this covenant', answered with 'Amen'", cluster: covenant}
+  green-olive-tree-set-on-fire: {label: "God named his people 'a green olive tree, fair with goodly fruit', but sets fire to it and its branches are broken", cluster: prophecy}
+  unsuspecting-lamb-led-to-slaughter: {label: "The prophet was like a gentle lamb led to slaughter, not knowing they plotted 'Let us destroy the tree with its fruit'", cluster: prophecy}
+  hometown-plots-against-prophet: {label: "The men of the prophet's hometown seek his life: 'Do not prophesy in YHWH's name or you will die by our hand'", cluster: prophecy}
+  prophet-calls-for-vengeance: {label: "The persecuted prophet asks God to let him see vengeance on his enemies", cluster: prophecy}
+  jeremiah-confession: {label: "Jeremiah's 'confessions': the prophet's personal laments and complaints to God about his mission and persecutors", cluster: prophecy}
+  prophet-brings-case-against-god: {label: "The prophet acknowledges God is righteous yet would argue his case with him about justice", cluster: theodicy}
+  god-near-in-mouth-far-from-heart: {label: "God is near in their mouths but far from their kidneys (hearts)", cluster: theology}
+  run-with-footmen-contend-with-horses: {label: "'If you have run with footmen and they wearied you, how will you compete with horses?' and the thickets of the Jordan", cluster: wisdom}
+  family-betrays-prophet: {label: "Even the prophet's brothers and father's house deal treacherously with him; do not trust their fair words", cluster: prophecy}
+  god-forsakes-his-house-and-heritage: {label: "God says 'I have forsaken my house, abandoned my heritage, given the beloved of my soul into the enemy's hands'", cluster: prophecy}
+  speckled-bird-of-prey: {label: "God's heritage is like a speckled bird of prey (or hyena) attacked by birds all around", cluster: prophecy}
+  many-shepherds-ruin-vineyard: {label: "Many shepherds have destroyed God's vineyard and trampled his portion into a desolate wilderness", cluster: prophecy}
+  sowed-wheat-reaped-thorns: {label: "They sowed wheat and reaped thorns; they toiled without profit", cluster: prophecy}
+  evil-neighbors-uprooted-and-restored: {label: "God will uproot the evil neighbor nations, then have compassion and plant them among his people if they learn to swear 'as YHWH lives'", cluster: prophecy}
+  prophetic-symbolic-act: {label: "God commands the prophet to perform a symbolic action (with an object, his body or his life) that enacts the message", cluster: prophecy}
+  buried-loincloth-rots: {label: "The prophet buries a new linen loincloth by the Perath (Euphrates) in a cleft of the rock; dug up later it is ruined and good for nothing", cluster: prophecy}
+  people-cling-to-god-like-loincloth: {label: "As a loincloth clings to a man's loins, God made Israel and Judah cling to him to be his people, name and glory", cluster: covenant}
+  every-jar-filled-with-wine: {label: "'Every jar is filled with wine': God will fill all the inhabitants with drunkenness and smash them against one another", cluster: prophecy}
+  give-glory-before-darkness: {label: "Give glory to God before he brings darkness and your feet stumble on the twilight mountains", cluster: prophecy}
+  king-and-queen-mother-humbled: {label: "The king and the queen mother (gevirah) are told to sit low, for their crowns have fallen from their heads", cluster: kingship}
+  can-ethiopian-change-skin: {label: "'Can the Cushite change his skin or the leopard its spots?' so neither can those accustomed to evil do good", cluster: wisdom}
+  nobles-find-empty-cisterns: {label: "In drought nobles send servants for water who find the cisterns dry and return with empty vessels, heads covered in shame", cluster: prophecy}
+  doe-abandons-newborn-in-drought: {label: "In drought the doe abandons her newborn fawn and wild asses pant for air like jackals, their eyes failing", cluster: prophecy}
+  god-like-stranger-in-the-land: {label: "Lament asks why God is like a stranger in the land, a traveler stopping for a night, a stunned warrior who cannot save", cluster: theology}
+  sword-famine-pestilence-triad: {label: "The triad of judgment: sword, famine and pestilence", cluster: prophecy}
+  false-prophets-not-sent: {label: "God did not send the prophets who promise peace; they prophesy a lying vision, divination and the deceit of their heart", cluster: prophecy}
+  idols-cannot-give-rain: {label: "Can any of the nations' vanities bring rain, or can the heavens give showers? Only YHWH", cluster: idolatry}
+  fourfold-destiny-of-doomed: {label: "Those destined for death to death, for the sword to the sword, for famine to famine, for captivity to captivity", cluster: prophecy}
+  four-kinds-of-destroyers: {label: "God appoints four kinds of destroyers: the sword to kill, dogs to drag, birds and beasts to devour", cluster: prophecy}
+  god-weary-of-relenting: {label: "God says 'I am weary of relenting' (nil'eti hinnahem)", cluster: theology}
+  mother-of-seven-languishes: {label: "She who bore seven languishes and breathes out her life; her sun goes down while it is still day", cluster: mourning}
+  prophet-eats-gods-words: {label: "The prophet found God's words and ate them, and they became his joy", cluster: prophecy}
+  prophet-sits-alone: {label: "The prophet did not sit in the company of merrymakers but sat alone because of God's hand", cluster: prophecy}
+  god-as-deceitful-brook: {label: "The prophet accuses God of being to him like a deceitful brook, waters that fail", cluster: theodicy}
+  prophet-as-gods-mouth: {label: "If the prophet returns and brings out the precious from the worthless, he will be as God's mouth", cluster: prophecy}
+  prophet-forbidden-to-marry: {label: "God forbids the prophet to take a wife or have children in this place, as a sign of the doom of parents and children", cluster: prophecy}
+  prophet-forbidden-to-mourn-or-feast: {label: "God forbids the prophet to enter a house of mourning or a house of feasting, as a sign that both will cease", cluster: prophecy}
+  marzeah-house: {label: "The 'house of the marzeah' (beit marzeah), a house of ritual feasting associated with mourning the dead", cluster: mourning}
+  bread-and-cup-of-consolation: {label: "Mourners are given bread broken for them and a 'cup of consolation' for father or mother", cluster: mourning}
+  new-exodus-eclipses-old: {label: "No longer will they swear by the God who brought Israel out of Egypt, but by the God who brought them from the land of the north", cluster: exodus}
+  fishers-and-hunters: {label: "God sends many fishers to fish them out and then many hunters to hunt them from every mountain and cleft of rock", cluster: prophecy}
+  nations-confess-fathers-inherited-lies: {label: "Nations come from the ends of the earth confessing 'our fathers inherited nothing but lies'; can a man make gods for himself?", cluster: idolatry}
+  sin-engraved-with-iron-pen: {label: "Judah's sin is written with an iron pen and a diamond point, engraved on the tablet of their heart and the horns of their altars", cluster: prophecy}
+  cursed-who-trusts-in-man: {label: "Cursed is the man who trusts in man and makes flesh his arm; he is like a juniper in the desert, in a salt land", cluster: wisdom}
+  heart-deceitful-above-all: {label: "The heart is deceitful ('aqov) above all things and desperately sick; who can know it?", cluster: wisdom}
+  partridge-hatches-eggs-not-laid: {label: "Like a partridge that hatches eggs it did not lay is one who gets riches unjustly; he will leave them in the middle of his days", cluster: wisdom}
+  glorious-throne-from-the-beginning: {label: "'A glorious throne, exalted from the beginning, is the place of our sanctuary'", cluster: cosmology}
+  names-written-in-the-earth: {label: "Those who turn away from God will be written in the earth (or dust), for they forsook the fountain of living water", cluster: theology}
+  scoffers-ask-where-is-the-word: {label: "Scoffers taunt the prophet: 'Where is the word of YHWH? Let it come!'", cluster: prophecy}
+  heal-me-o-lord-prayer: {label: "'Heal me, YHWH, and I shall be healed; save me and I shall be saved'", cluster: liturgy}
+  sabbath-burden-carrying-forbidden: {label: "Carrying burdens through the city gates or out of houses on the Sabbath is forbidden", cluster: law}
+  sabbath-keeping-secures-city: {label: "If the Sabbath is kept, Davidic kings will enter the gates and the city will be inhabited forever; if not, fire will consume its gates", cluster: law}
+  potter-reworks-spoiled-vessel: {label: "The prophet watches a potter at the wheel rework a spoiled vessel into another: so God can do with Israel as clay", cluster: prophecy}
+  conditional-prophecy: {label: "If a nation God threatened turns from evil he relents of the evil; if a nation he promised to build does evil he relents of the good", cluster: theology}
+  does-snow-leave-lebanon: {label: "Does the snow of Lebanon leave the crags, or do the cold flowing waters dry up? yet my people have forgotten me", cluster: prophecy}
+  god-shows-back-not-face: {label: "God will show the people his back and not his face in the day of their calamity", cluster: theology}
+  torah-from-priest-counsel-from-wise-word-from-prophet: {label: "'Torah shall not perish from the priest, nor counsel from the wise, nor the word from the prophet'", cluster: wisdom}
+  enemies-dig-pit-for-righteous: {label: "Enemies dig a pit and hide snares for the righteous one who once interceded for them", cluster: prophecy}
+  smashed-potters-flask: {label: "The prophet buys a potter's earthenware flask and smashes it before the elders: so God will break the city beyond mending", cluster: prophecy}
+  prophet-renames-persecutor: {label: "The prophet gives his persecutor an ominous new name announcing his fate", cluster: prophecy}
+  god-enticed-the-prophet: {label: "The prophet complains 'You enticed (pittitani) me, YHWH, and I was enticed; you overpowered me and prevailed'", cluster: theodicy}
+  curse-on-messenger-of-birth: {label: "The sufferer curses the man who brought his father the news 'A son is born to you'", cluster: theodicy}
+  besieged-king-asks-prophet-for-miracle: {label: "The besieged king sends to ask the prophet to inquire of God, hoping God will do a wonder and make the enemy withdraw", cluster: prophecy}
+  god-fights-against-own-people: {label: "God himself fights against his own people with outstretched hand and mighty arm, turning their weapons back", cluster: prophecy}
+  surrender-to-enemy-to-live: {label: "Whoever stays in the city will die, but whoever goes out and surrenders to the besiegers will live, his life as spoil", cluster: prophecy}
+  execute-justice-in-the-morning: {label: "The royal house is told to execute justice in the morning and rescue the robbed from the oppressor", cluster: kingship}
+  false-security-who-can-come-against-us: {label: "The city that sits in the valley says 'Who can come down against us, who can enter our dwellings?'", cluster: prophecy}
+  city-burned-by-conqueror: {label: "The city is given into the hand of the king of Babylon who will burn it with fire", cluster: prophecy}
+  royal-house-cedars-felled: {label: "The royal palace, 'Gilead to me, the summit of Lebanon', will have its choice cedars cut down and thrown on the fire", cluster: prophecy}
+  weep-for-the-exile-not-the-dead: {label: "Do not weep for the dead but weep bitterly for him who goes away, for he will never return to see his native land", cluster: mourning}
+  exiled-king-never-returns: {label: "A deposed king taken into exile will die there and never see his land again", cluster: kingship}
+  woe-to-palace-builder-unpaid-labor: {label: "Woe to the king who builds his palace by injustice, making his neighbor work for nothing, with cedar paneling and vermilion paint", cluster: kingship}
+  to-know-god-is-to-do-justice: {label: "The good king judged the cause of the poor and needy: 'Is not this to know me?' says YHWH", cluster: kingship}
+  burial-of-a-donkey: {label: "The wicked king will not be lamented ('Alas my brother, alas lord') but buried with the burial of a donkey, dragged and cast outside the gates", cluster: kingship}
+  signet-ring-torn-off: {label: "Even if the king were the signet ring on God's right hand, God would tear him off", cluster: kingship}
+  write-him-childless: {label: "'Write this man down as childless': none of his seed will sit on David's throne", cluster: kingship}
+  woe-to-shepherds-who-scatter: {label: "Woe to the shepherds who destroy and scatter the sheep of God's pasture; God will attend to their evil deeds", cluster: prophecy}
+  righteous-branch-of-david: {label: "God will raise up for David a righteous Branch (tsemah) who will reign wisely and do justice", cluster: messianism}
+  yhwh-our-righteousness-name: {label: "The future king's name will be 'YHWH is our righteousness' (YHWH tsidqenu)", cluster: messianism}
+  prophet-drunk-before-gods-words: {label: "The prophet's heart is broken and all his bones shake; he is like a drunken man because of God's holy words", cluster: prophecy}
+  prophets-like-sodom: {label: "The prophets of Jerusalem commit adultery and strengthen evildoers; they have become like Sodom and Gomorrah", cluster: prophecy}
+  storm-of-yhwhs-wrath: {label: "The storm of YHWH's fury goes out and whirls on the head of the wicked; in the latter days you will understand it", cluster: prophecy}
+  god-near-and-far-fills-heaven-and-earth: {label: "'Am I a God near at hand and not a God far off? Do I not fill heaven and earth?'", cluster: theology}
+  false-prophets-dream-dreams: {label: "False prophets say 'I have dreamed, I have dreamed'; what has straw to do with wheat?", cluster: prophecy}
+  word-like-hammer-shattering-rock: {label: "God's word is like a hammer that shatters rock", cluster: prophecy}
+  prophets-steal-words-from-each-other: {label: "God is against the prophets who steal his words from one another and wag their tongues saying 'oracle'", cluster: prophecy}
+  burden-of-yhwh-pun: {label: "When asked 'What is the burden (massa) of YHWH?' the prophet answers 'You are the burden, and I will cast you off'; the phrase is banned", cluster: prophecy}
+  two-baskets-of-figs: {label: "Vision of two baskets of figs before the temple, very good and very bad: the exiles in Babylon are the good, those left behind the bad", cluster: prophecy}
+  god-gives-heart-to-know-him: {label: "God will give the people a heart to know him, and they will return to him with their whole heart", cluster: covenant}
+  synchronism-of-reigns: {label: "A prophecy dated by synchronizing an Israelite king's year with a foreign king's (fourth of Jehoiakim = first of Nebuchadrezzar)", cluster: chronology}
+  foreign-conqueror-as-gods-servant: {label: "God calls the foreign conqueror (Nebuchadrezzar) 'my servant', sent to execute his judgment", cluster: prophecy}
+  sound-of-millstones-and-lamp-cease: {label: "God will banish the voice of joy, the voice of bride and groom, the sound of the millstones and the light of the lamp", cluster: prophecy}
+  prophecies-written-in-this-book: {label: "Reference to 'all that is written in this book which Jeremiah prophesied against all the nations'", cluster: scripture}
+  catalogue-of-nations-drink-cup: {label: "The prophet makes a long list of nations and kings drink the cup of God's wrath, beginning with Jerusalem", cluster: prophecy}
+  sheshach-atbash-cipher: {label: "Babylon referred to by the cipher 'Sheshach' (atbash substitution of the alphabet)", cluster: scripture}
+  judgment-begins-at-gods-city: {label: "If God begins to bring evil on the city called by his name, shall the nations go unpunished?", cluster: prophecy}
+  god-roars-from-on-high: {label: "YHWH roars from on high and thunders from his holy dwelling, shouting like grape-treaders against all the earth", cluster: theophany}
+  shepherds-wail-in-ashes: {label: "Shepherds and lords of the flock wail and roll in ashes, for their days of slaughter have come and there is no escape", cluster: prophecy}
+  god-as-lion-leaving-lair: {label: "God has left his covert like a lion; the land is a waste before the fury of the oppressor (or 'the dove')", cluster: theology}
 units:
   - id: hb-isa-46-bel-nebo-carried
     tradition: judaism
@@ -741,3 +953,1078 @@ units:
       - {motif: undying-worm-unquenched-fire, refs: ["Isa 66:24"], note: "dera'on 'abhorrence', the word reused in Dan 12:2; synagogue reading repeats 66:23 after it"}
     hints:
       - "Mark 9:48 Gehenna 'where their worm does not die'; Judith 16:17; Paul's mission to Spain (Tarshish?) in Rom 15 has been read against 66:19."
+  - id: hb-jer-1-call
+    tradition: judaism
+    title: Jeremiah's call - known before the womb, words in his mouth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 1:1-10"]
+    tags:
+      - {motif: prophetic-book-superscription-by-reigns, refs: ["Jer 1:1", "Jer 1:2", "Jer 1:3"], note: "son of Hilkiah, of the priests in Anathoth; 13th year of Josiah to the exile in the fifth month"}
+      - {motif: called-from-the-womb, refs: ["Jer 1:5"], note: "'before I formed you in the belly I knew you; before you came out of the womb I consecrated you'"}
+      - {motif: reluctant-prophet-objects, refs: ["Jer 1:6", "Jer 1:7"], note: "'I do not know how to speak, for I am a boy (na'ar)'"}
+      - {motif: i-am-with-you-to-deliver, refs: ["Jer 1:8"]}
+      - {motif: god-touches-prophets-mouth, refs: ["Jer 1:9"], note: "God puts out his hand and touches his mouth"}
+      - {motif: prophet-like-moses, refs: ["Jer 1:9"], note: "'I have put my words in your mouth' echoes Deut 18:18"}
+      - {motif: uproot-and-tear-down-build-and-plant, refs: ["Jer 1:10"]}
+    hints:
+      - "Compare Isa 6:6-7 (coal on lips), Ezek 2:8-3:3 (scroll eaten), Muhammad's first revelation (Quran 96:1-5; Bukhari's iqra' narrative with the squeezing angel), Gal 1:15."
+  - id: hb-jer-1-almond-and-pot
+    tradition: judaism
+    title: Visions of the almond branch and the boiling pot
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 1:11-19"]
+    tags:
+      - {motif: vision-question-what-do-you-see, refs: ["Jer 1:11", "Jer 1:13"]}
+      - {motif: almond-rod-watching-pun, refs: ["Jer 1:11", "Jer 1:12"], note: "maqqel shaqed / shoqed ani"}
+      - {motif: boiling-pot-from-north, refs: ["Jer 1:13", "Jer 1:14"]}
+      - {motif: foe-from-the-north, refs: ["Jer 1:14", "Jer 1:15"], note: "all clans of the northern kingdoms set their thrones at Jerusalem's gates"}
+      - {motif: prophet-made-fortified-city, refs: ["Jer 1:17", "Jer 1:18", "Jer 1:19"], note: "'gird your loins'; 'do not be dismayed lest I dismay you before them'"}
+      - {motif: i-am-with-you-to-deliver, refs: ["Jer 1:19"]}
+    hints:
+      - "Amos 7:8 and 8:1-2 (plumb line, summer fruit pun); the Scythian hypothesis for the northern foe (Herodotus 1.103-106)."
+  - id: hb-jer-2-bride-and-broken-cisterns
+    tradition: judaism
+    title: The bride of the wilderness; broken cisterns
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 2:1-13"]
+    tags:
+      - {motif: wilderness-bridal-devotion, refs: ["Jer 2:2"], note: "hesed ne'urayikh, ahavat kelulotayikh"}
+      - {motif: israel-firstfruits-holy-to-god, refs: ["Jer 2:3"]}
+      - {motif: idols-as-vain-breath, refs: ["Jer 2:5"], note: "they went after hevel and became hevel"}
+      - {motif: covenant-lawsuit, refs: ["Jer 2:5", "Jer 2:9"], note: "'I will still contend with you, and with your children's children'"}
+      - {motif: wilderness-as-test, refs: ["Jer 2:6"], note: "land of steppe and pits, drought and deep darkness (tsalmavet)"}
+      - {motif: nations-do-not-change-their-gods, refs: ["Jer 2:10", "Jer 2:11"], note: "from the isles of Kittim to Kedar"}
+      - {motif: heavens-appalled-at-apostasy, refs: ["Jer 2:12"]}
+      - {motif: broken-cisterns-for-living-water, refs: ["Jer 2:13"]}
+    hints:
+      - "Hosea 2:16-17 (wilderness honeymoon); Song 8:5; John 4:10-14 and 7:38 (living water); Quran 67:30."
+  - id: hb-jer-2-harlot-vine-camel
+    tradition: judaism
+    title: Degenerate vine, she-camel in heat, gods of wood and stone
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 2:14-37"]
+    tags:
+      - {motif: drinking-waters-of-nile-and-euphrates, refs: ["Jer 2:16", "Jer 2:18", "Jer 2:36"], note: "sons of Noph (Memphis) and Tahpanhes shave your crown; Shihor"}
+      - {motif: high-places-green-trees, refs: ["Jer 2:20"], note: "'I will not serve' (or 'transgress'), sprawling as a harlot on every high hill"}
+      - {motif: idolatry-as-harlotry, refs: ["Jer 2:20", "Jer 2:33"]}
+      - {motif: choice-vine-degenerates, refs: ["Jer 2:21"], note: "soreq, zera' emet"}
+      - {motif: stain-not-washed-by-lye, refs: ["Jer 2:22"]}
+      - {motif: she-camel-and-wild-ass-in-heat, refs: ["Jer 2:23", "Jer 2:24"], note: "'your way in the valley' (ha-gai, Hinnom?)"}
+      - {motif: tree-is-my-father-stone-bore-me, refs: ["Jer 2:27"], note: "genders reversed: the tree (asherah?) male father, the stone (massebah) female"}
+      - {motif: gods-as-many-as-cities, refs: ["Jer 2:28"]}
+      - {motif: prophets-killed-by-israel, refs: ["Jer 2:30"], note: "your sword devoured your prophets like a destroying lion"}
+      - {motif: can-a-bride-forget-her-ornaments, refs: ["Jer 2:32"]}
+      - {motif: innocent-blood-fills-city, refs: ["Jer 2:34"], note: "blood of innocent poor on your skirts, not caught breaking in (cf. Exod 22:1)"}
+      - {motif: hands-on-head-in-shame, refs: ["Jer 2:37"]}
+    hints:
+      - "Isa 5:1-7 vineyard song; John 15 true vine. Matt 23:37 / Luke 13:34 and Quran 2:61, 3:112 on killing prophets."
+  - id: hb-jer-3-return-faithless-wife
+    tradition: judaism
+    title: Can a divorced wife return? Faithless Israel, treacherous Judah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 3:1-25"]
+    tags:
+      - {motif: no-remarriage-to-first-husband, refs: ["Jer 3:1"], note: "law of Deut 24:1-4 applied to God and Israel, yet 'return to me'"}
+      - {motif: harlot-waits-by-road-like-arab, refs: ["Jer 3:2"]}
+      - {motif: rain-reward-drought-punishment, refs: ["Jer 3:3"], note: "showers withheld; 'you had a harlot's forehead'"}
+      - {motif: god-as-father-creator-of-people, refs: ["Jer 3:4", "Jer 3:19"], note: "'My father, friend of my youth'; 'you shall call me my father'"}
+      - {motif: two-adulterous-sisters, refs: ["Jer 3:6", "Jer 3:7", "Jer 3:8", "Jer 3:10", "Jer 3:11"], note: "meshuvah yisra'el vs bogedah yehudah; Israel more righteous than Judah"}
+      - {motif: bill-of-divorce, refs: ["Jer 3:8"], note: "God gave Israel her bill of divorce"}
+      - {motif: idolatry-as-harlotry, refs: ["Jer 3:6", "Jer 3:9"], note: "committed adultery with stone and wood"}
+      - {motif: high-places-green-trees, refs: ["Jer 3:6", "Jer 3:13"]}
+      - {motif: call-to-return-faithless-children, refs: ["Jer 3:12", "Jer 3:14", "Jer 3:22"], note: "a call proclaimed toward the north"}
+      - {motif: one-from-a-city-two-from-a-family, refs: ["Jer 3:14"]}
+      - {motif: shepherds-after-gods-heart, refs: ["Jer 3:15"]}
+      - {motif: ark-no-longer-remembered, refs: ["Jer 3:16"]}
+      - {motif: jerusalem-called-throne-of-yhwh, refs: ["Jer 3:17"]}
+      - {motif: reunion-of-judah-and-israel, refs: ["Jer 3:18"]}
+      - {motif: shameful-name-bosheth, refs: ["Jer 3:24", "Jer 3:25"], note: "'the Shame (ha-boshet) has devoured our fathers' labor': Baal renamed"}
+      - {motif: exiles-confess-sins-of-fathers, refs: ["Jer 3:25"]}
+    hints:
+      - "Ezek 23 (Oholah and Oholibah); 2 Macc 2:4-8 says Jeremiah hid the ark on Mount Nebo, cf. 3:16. Teshuvah theology (b. Yoma 86a cites 3:22)."
+  - id: hb-jer-4-circumcise-hearts
+    tradition: judaism
+    title: If you return - circumcise your hearts
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 4:1-4"]
+    tags:
+      - {motif: call-to-return-faithless-children, refs: ["Jer 4:1"]}
+      - {motif: all-nations-blessed-through-patriarch, refs: ["Jer 4:2"], note: "if Israel swears 'as YHWH lives' in truth, nations will bless themselves by him"}
+      - {motif: break-up-fallow-ground, refs: ["Jer 4:3"]}
+      - {motif: circumcise-heart, refs: ["Jer 4:4"], note: "remove the foreskins of your hearts"}
+    hints:
+      - "Rom 2:29; Deut 10:16; Hos 10:12; Jubilees 1:23."
+  - id: hb-jer-4-lion-from-the-north
+    tradition: judaism
+    title: Alarm - disaster from the north
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 4:5-18"]
+    tags:
+      - {motif: alarm-flee-to-fortified-cities, refs: ["Jer 4:5", "Jer 4:6"]}
+      - {motif: foe-from-the-north, refs: ["Jer 4:6", "Jer 4:15", "Jer 4:16", "Jer 4:17"], note: "a voice from Dan and Mount Ephraim; besiegers 'like keepers of a field'"}
+      - {motif: destroyer-of-nations-as-lion, refs: ["Jer 4:7"]}
+      - {motif: sackcloth-and-ashes-mourning, refs: ["Jer 4:8"]}
+      - {motif: prophet-accuses-god-of-deceiving, refs: ["Jer 4:10"], note: "'ahah ... hashe' hishe'ta la'am hazeh'"}
+      - {motif: chariots-like-whirlwind, refs: ["Jer 4:11", "Jer 4:12", "Jer 4:13"], note: "a hot wind from the bare heights, not to winnow or cleanse"}
+      - {motif: stain-not-washed-by-lye, refs: ["Jer 4:14"], note: "'wash your heart of evil, Jerusalem'"}
+    hints:
+      - "Compare 1 Kgs 22:20-23 (God's lying spirit) and Ezek 14:9 on God deceiving prophets."
+  - id: hb-jer-4-uncreation
+    tradition: judaism
+    title: My bowels, my bowels - the vision of uncreation
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 4:19-31"]
+    tags:
+      - {motif: prophets-anguish-in-bowels, refs: ["Jer 4:19", "Jer 4:20", "Jer 4:21"], note: "'my tents are plundered suddenly, my curtains in a moment'"}
+      - {motif: wise-for-evil-ignorant-of-good, refs: ["Jer 4:22"]}
+      - {motif: vision-of-uncreation, refs: ["Jer 4:23", "Jer 4:24", "Jer 4:25", "Jer 4:26"], note: "the only other use of tohu va-vohu is Gen 1:2; fourfold 'ra'iti' (I looked)"}
+      - {motif: not-a-full-end, refs: ["Jer 4:27"]}
+      - {motif: earth-mourns-heavens-darken, refs: ["Jer 4:28"]}
+      - {motif: city-as-painted-woman-rejected, refs: ["Jer 4:30"], note: "you enlarge your eyes with pukh (antimony)"}
+      - {motif: anguish-like-woman-in-labor, refs: ["Jer 4:31"], note: "daughter Zion gasps, spreading her hands: 'my soul faints before murderers'"}
+    hints:
+      - "A reversal of Gen 1 creation order (earth, light, mountains, humans, birds). Compare Babylonian flood imagery in Atrahasis and Zoroastrian end-of-world catastrophes; Joel 2:10."
+  - id: hb-jer-5-one-just-man
+    tradition: judaism
+    title: Search Jerusalem for one just man
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 5:1-9"]
+    tags:
+      - {motif: search-city-for-one-righteous, refs: ["Jer 5:1"]}
+      - {motif: iron-neck-bronze-brow, refs: ["Jer 5:3"], note: "they made their faces harder than rock"}
+      - {motif: both-poor-and-great-corrupt, refs: ["Jer 5:4", "Jer 5:5"]}
+      - {motif: lion-wolf-leopard-attack, refs: ["Jer 5:6"], note: "the leopard is shoqed, 'watching', over their cities"}
+      - {motif: lusty-stallions-neighing, refs: ["Jer 5:7", "Jer 5:8"], note: "they troop to the harlot's house"}
+      - {motif: shall-i-not-punish-refrain, refs: ["Jer 5:9"]}
+    hints:
+      - "Gen 18:23-32 (Abraham's bargaining for Sodom); Diogenes searching with a lamp for an honest man; Hos 13:7-8 and Dan 7 (beasts)."
+  - id: hb-jer-5-nation-from-afar
+    tradition: judaism
+    title: Strip her vines - a nation whose tongue you do not know
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 5:10-19"]
+    tags:
+      - {motif: not-a-full-end, refs: ["Jer 5:10", "Jer 5:18"]}
+      - {motif: denial-god-will-not-act, refs: ["Jer 5:12", "Jer 5:13"], note: "lo hu, 'not he'"}
+      - {motif: prophets-word-as-fire, refs: ["Jer 5:14"]}
+      - {motif: nation-swooping-like-eagle-unknown-tongue, refs: ["Jer 5:15", "Jer 5:16", "Jer 5:17"], note: "an ancient, enduring nation; its quiver an open grave; it eats your harvest, sons and daughters"}
+      - {motif: exile-means-serving-other-gods, refs: ["Jer 5:19"], note: "as you served foreign gods in your land, so you will serve strangers in a land not yours"}
+    hints:
+      - "Measure-for-measure punishment pattern; compare Deut 28:49-51."
+  - id: hb-jer-5-sea-boundary
+    tradition: judaism
+    title: The sea's sand boundary; houses full of deceit
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 5:20-31"]
+    tags:
+      - {motif: eyes-that-do-not-see, refs: ["Jer 5:21"]}
+      - {motif: boundary-set-for-sea, refs: ["Jer 5:22"], note: "the sand set as an eternal decree; waves toss but cannot pass"}
+      - {motif: rain-reward-drought-punishment, refs: ["Jer 5:24", "Jer 5:25"], note: "early and late rain in season, the fixed weeks of harvest"}
+      - {motif: fowlers-houses-full-of-deceit, refs: ["Jer 5:26", "Jer 5:27"]}
+      - {motif: catalogue-of-social-crimes, refs: ["Jer 5:28"], note: "fat and sleek, they do not plead the orphan's case"}
+      - {motif: shall-i-not-punish-refrain, refs: ["Jer 5:29"]}
+      - {motif: prophets-lie-and-people-love-it, refs: ["Jer 5:30", "Jer 5:31"]}
+    hints:
+      - "Job 38:8-11, Ps 104:9, Prov 8:29 on the sea's bound; Mark 8:18 'having eyes do you not see'; Quran 7:179."
+  - id: hb-jer-6-siege-of-zion
+    tradition: judaism
+    title: Sanctify war against her - the siege
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 6:1-8"]
+    tags:
+      - {motif: alarm-flee-to-fortified-cities, refs: ["Jer 6:1"], note: "flee from Jerusalem; blow the shofar in Tekoa (pun tiq'u/teqoa'), raise a fire-signal on Beth-haccherem"}
+      - {motif: foe-from-the-north, refs: ["Jer 6:1", "Jer 6:3"], note: "shepherds with flocks pitch tents around her"}
+      - {motif: sanctify-war, refs: ["Jer 6:4", "Jer 6:5"], note: "'woe to us, the day declines, the shadows of evening lengthen'"}
+      - {motif: siege-ramp-cut-trees, refs: ["Jer 6:6"]}
+      - {motif: city-keeps-evil-fresh-like-well, refs: ["Jer 6:7"]}
+    hints:
+      - "Holy war ideology (cf. Joel 4:9 'sanctify war'); Deut 20:19-20 on cutting trees in siege."
+  - id: hb-jer-6-peace-when-no-peace
+    tradition: judaism
+    title: Glean the remnant; peace, peace, when there is no peace
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 6:9-15"]
+    tags:
+      - {motif: glean-remnant-like-vine, refs: ["Jer 6:9"]}
+      - {motif: uncircumcised-ears, refs: ["Jer 6:10"]}
+      - {motif: prophet-cannot-hold-in-gods-word, refs: ["Jer 6:11"], note: "pour it on the child in the street and the gathering of youths"}
+      - {motif: peace-peace-when-no-peace, refs: ["Jer 6:13", "Jer 6:14"]}
+      - {motif: shameless-cannot-blush, refs: ["Jer 6:15"]}
+    hints:
+      - "1 Thess 5:3 'when they say peace and security'; Ezek 13:10 whitewash."
+  - id: hb-jer-6-ancient-paths
+    tradition: judaism
+    title: Ask for the ancient paths; incense from Sheba rejected
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 6:16-21"]
+    tags:
+      - {motif: ask-for-the-ancient-paths, refs: ["Jer 6:16"], note: "'and you will find rest (margoa') for your souls'; they said 'we will not walk'"}
+      - {motif: watchmen-set-but-unheeded, refs: ["Jer 6:17"]}
+      - {motif: heaven-and-earth-summoned-as-witnesses, refs: ["Jer 6:18", "Jer 6:19"]}
+      - {motif: contrite-heart-over-sacrifice, refs: ["Jer 6:20"], note: "frankincense from Sheba and sweet cane from a far land are not acceptable"}
+      - {motif: stumbling-blocks-set-by-god, refs: ["Jer 6:21"]}
+    hints:
+      - "Matt 11:29 'you will find rest for your souls' quotes 6:16."
+  - id: hb-jer-6-cruel-people-from-north
+    tradition: judaism
+    title: A cruel people from the north; the prophet as assayer
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 6:22-30"]
+    tags:
+      - {motif: foe-from-the-north, refs: ["Jer 6:22", "Jer 6:23"], note: "from the remotest parts of the earth (yarkete 'arets); voice roars like the sea"}
+      - {motif: anguish-like-woman-in-labor, refs: ["Jer 6:24"]}
+      - {motif: terror-on-every-side, refs: ["Jer 6:25"]}
+      - {motif: mourning-as-for-only-son, refs: ["Jer 6:26"], note: "roll in ashes"}
+      - {motif: prophet-as-assayer-refining-fails, refs: ["Jer 6:27", "Jer 6:28", "Jer 6:29", "Jer 6:30"], note: "all are bronze and iron, slanderers"}
+    hints:
+      - "Ezek 22:18-22 dross; Mal 3:2-3 refiner's fire; Zech 12:10 mourning for an only son."
+  - id: hb-jer-7-temple-sermon
+    tradition: judaism
+    title: The temple sermon - a den of robbers; remember Shiloh
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 7:1-15"]
+    tags:
+      - {motif: prophet-preaches-at-temple-gate, refs: ["Jer 7:2"]}
+      - {motif: temple-of-yhwh-false-trust, refs: ["Jer 7:4", "Jer 7:8", "Jer 7:10"], note: "triple 'heikhal YHWH'; 'we are delivered' to go on doing abominations"}
+      - {motif: divine-dwelling-conditional-on-obedience, refs: ["Jer 7:3", "Jer 7:5", "Jer 7:6", "Jer 7:7"], note: "do not oppress stranger, orphan and widow nor shed innocent blood"}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["Jer 7:9"], note: "steal, murder, commit adultery, swear falsely, burn incense to Baal: a Decalogue list"}
+      - {motif: den-of-robbers, refs: ["Jer 7:11"], note: "me'arat paritsim"}
+      - {motif: shiloh-sanctuary-abandoned, refs: ["Jer 7:12", "Jer 7:14"]}
+      - {motif: god-sent-prophets-persistently, refs: ["Jer 7:13"]}
+      - {motif: exile-and-dispersion-threatened, refs: ["Jer 7:15"], note: "as I cast out all the seed of Ephraim"}
+    hints:
+      - "Mark 11:17 / Matt 21:13 combine Isa 56:7 and Jer 7:11 at the temple cleansing; Jer 26 narrates the same sermon and the trial."
+  - id: hb-jer-7-queen-of-heaven
+    tradition: judaism
+    title: Do not pray for this people; cakes for the Queen of Heaven
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 7:16-20"]
+    tags:
+      - {motif: prophet-forbidden-to-intercede, refs: ["Jer 7:16"]}
+      - {motif: cakes-for-queen-of-heaven, refs: ["Jer 7:17", "Jer 7:18"], note: "kawwanim, cakes (Akk. kamanu) for malkat ha-shamayim"}
+      - {motif: god-consuming-fire, refs: ["Jer 7:20"], note: "wrath poured on man, beast, tree of the field and fruit of the ground, unquenchable"}
+    hints:
+      - "Queen of Heaven = Ishtar/Astarte (cf. Jer 44:15-19; Ishtar's kamanu-cakes); Epiphanius on the Collyridians offering cakes to Mary."
+  - id: hb-jer-7-obedience-not-sacrifice
+    tradition: judaism
+    title: Obedience not sacrifice; the Topheth becomes the Valley of Slaughter
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 7:21-8:3"]
+    tags:
+      - {motif: eat-your-burnt-offerings-yourselves, refs: ["Jer 7:21"]}
+      - {motif: sacrifice-not-commanded-at-exodus, refs: ["Jer 7:22", "Jer 7:23"]}
+      - {motif: covenant-formula-your-god-my-people, refs: ["Jer 7:23"]}
+      - {motif: god-sent-prophets-persistently, refs: ["Jer 7:25", "Jer 7:26"]}
+      - {motif: cut-off-hair-lament-on-heights, refs: ["Jer 7:29"]}
+      - {motif: idol-set-in-gods-house, refs: ["Jer 7:30"], note: "they set their abominations in the house called by my name"}
+      - {motif: child-sacrifice-by-fire-condemned, refs: ["Jer 7:31"], note: "the high places of the Topheth in the Valley of Ben-hinnom"}
+      - {motif: child-burning-never-commanded, refs: ["Jer 7:31"]}
+      - {motif: valley-renamed-valley-of-slaughter, refs: ["Jer 7:32"]}
+      - {motif: unburied-corpses-food-for-birds, refs: ["Jer 7:33"]}
+      - {motif: voice-of-bride-and-groom-silenced, refs: ["Jer 7:34"]}
+      - {motif: bones-exhumed-before-astral-gods, refs: ["Jer 8:1", "Jer 8:2"], note: "they will be dung on the face of the ground"}
+      - {motif: worship-of-host-of-heaven, refs: ["Jer 8:2"], note: "loved, served, followed, sought and bowed to"}
+      - {motif: death-preferred-to-life, refs: ["Jer 8:3"]}
+    hints:
+      - "Amos 5:25 makes a similar claim about no sacrifice in the wilderness; Maimonides (Guide 3.32) and the Epistle of Barnabas 2 use Jer 7:22. 'Gehenna' as hell derives from Ben-hinnom; the 'voice of bride and groom' is sung in the Jewish wedding blessings (Jer 33:11)."
+  - id: hb-jer-8-stork-and-lying-pen
+    tradition: judaism
+    title: The stork knows its seasons; the lying pen of the scribes
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 8:4-13"]
+    tags:
+      - {motif: no-one-repents-what-have-i-done, refs: ["Jer 8:4", "Jer 8:5", "Jer 8:6"]}
+      - {motif: migratory-birds-know-their-seasons, refs: ["Jer 8:7"], note: "hasidah, tor, sis, 'agur"}
+      - {motif: lying-pen-of-scribes, refs: ["Jer 8:8", "Jer 8:9"]}
+      - {motif: peace-peace-when-no-peace, refs: ["Jer 8:10", "Jer 8:11"], note: "near-verbatim repetition of 6:12-15"}
+      - {motif: shameless-cannot-blush, refs: ["Jer 8:12"]}
+      - {motif: no-grapes-on-vine-no-figs, refs: ["Jer 8:13"]}
+    hints:
+      - "The 'lying pen of the scribes' is cited in Muslim polemic for tahrif (alteration of scripture), cf. Quran 2:79 'woe to those who write the book with their hands'. Isa 1:3 ox knows its owner; Mark 11:13 fig tree without fruit."
+  - id: hb-jer-8-balm-in-gilead
+    tradition: judaism
+    title: Is there no balm in Gilead? The prophet's tears
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 8:14-23"]
+    tags:
+      - {motif: alarm-flee-to-fortified-cities, refs: ["Jer 8:14"]}
+      - {motif: god-gives-poison-water-to-drink, refs: ["Jer 8:14"]}
+      - {motif: foe-from-the-north, refs: ["Jer 8:16"], note: "the snorting of his horses heard from Dan"}
+      - {motif: deaf-adder-and-charmer, refs: ["Jer 8:17"], note: "God sends vipers that cannot be charmed (ein lahem lahash)"}
+      - {motif: prophets-anguish-in-bowels, refs: ["Jer 8:18", "Jer 8:21"], note: "'for the wound of the daughter of my people I am wounded'"}
+      - {motif: is-god-not-in-zion, refs: ["Jer 8:19"]}
+      - {motif: harvest-past-not-saved, refs: ["Jer 8:20"]}
+      - {motif: no-balm-in-gilead, refs: ["Jer 8:22"]}
+      - {motif: weeping-prophet-fountain-of-tears, refs: ["Jer 8:23"]}
+    hints:
+      - "Jeremiah as 'the weeping prophet' (also tradition of authorship of Lamentations); 'There is a Balm in Gilead' African-American spiritual; Num 21:6 fiery serpents."
+  - id: hb-jer-9-deceit
+    tradition: judaism
+    title: Every brother a Jacob - tongues like bows
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 9:1-8"]
+    tags:
+      - {motif: wish-for-desert-lodging, refs: ["Jer 9:1"]}
+      - {motif: tongue-as-sharp-weapon, refs: ["Jer 9:2", "Jer 9:7"], note: "they bend their tongue as their bow; a slaughtering arrow"}
+      - {motif: every-brother-a-supplanter, refs: ["Jer 9:3", "Jer 9:4", "Jer 9:5"]}
+      - {motif: refined-in-furnace-of-affliction, refs: ["Jer 9:6"], note: "'I will refine them and test them'"}
+      - {motif: words-smoother-than-oil, refs: ["Jer 9:7"], note: "speaks peace to his neighbor while setting an ambush in his heart"}
+      - {motif: shall-i-not-punish-refrain, refs: ["Jer 9:8"]}
+    hints:
+      - "Mic 7:5-6 (trust no friend); Gen 27:36 Esau's pun on Jacob 'aqav."
+  - id: hb-jer-9-wailing-women
+    tradition: judaism
+    title: Summon the keening women - death has climbed in at our windows
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 9:9-21"]
+    tags:
+      - {motif: land-emptied-of-birds-and-beasts, refs: ["Jer 9:9"]}
+      - {motif: jerusalem-heap-haunt-of-jackals, refs: ["Jer 9:10"]}
+      - {motif: exile-explained-as-punishment, refs: ["Jer 9:11", "Jer 9:12", "Jer 9:13"], note: "who is wise to understand why the land perished? because they forsook my Torah and followed the Baals"}
+      - {motif: god-gives-poison-water-to-drink, refs: ["Jer 9:14"], note: "wormwood (la'anah) and poison water"}
+      - {motif: exile-and-dispersion-threatened, refs: ["Jer 9:15"]}
+      - {motif: professional-wailing-women, refs: ["Jer 9:16", "Jer 9:17", "Jer 9:18", "Jer 9:19"], note: "meqonenot and hakhamot; 'teach your daughters a dirge'"}
+      - {motif: death-climbs-through-windows, refs: ["Jer 9:20"]}
+      - {motif: unburied-corpses-food-for-birds, refs: ["Jer 9:21"], note: "corpses like dung on the field and like sheaves behind the reaper with none to gather"}
+    hints:
+      - "In the Ugaritic Baal cycle (KTU 1.4 V-VII) Baal at first refuses a window in his palace, apparently for fear of Mot (Death); compare Lamashtu entering through windows. Professional mourners: Egyptian and Greek threnody, Arab nadiba."
+  - id: hb-jer-9-let-not-wise-boast
+    tradition: judaism
+    title: Let not the wise boast; circumcised yet uncircumcised
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 9:22-25"]
+    tags:
+      - {motif: let-not-the-wise-boast, refs: ["Jer 9:22", "Jer 9:23"], note: "God delights in hesed, mishpat and tsedaqah"}
+      - {motif: circumcised-in-flesh-uncircumcised-in-heart, refs: ["Jer 9:24", "Jer 9:25"]}
+      - {motif: corners-of-head-and-beard-not-cut, refs: ["Jer 9:25"], note: "'all who clip the corners (of hair), who dwell in the desert'"}
+      - {motif: uncircumcised-heart, refs: ["Jer 9:25"]}
+    hints:
+      - "1 Cor 1:31 and 2 Cor 10:17 cite 9:23; Herodotus 3.8 says Arabs shave their temples in a ring; Herodotus 2.104 on circumcising peoples (Egyptians, Colchians, Phoenicians)."
+  - id: hb-jer-10-idols-scarecrows
+    tradition: judaism
+    title: Idols like scarecrows in a cucumber field
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 10:1-10"]
+    tags:
+      - {motif: do-not-fear-signs-of-heavens, refs: ["Jer 10:2"]}
+      - {motif: idol-manufacture-satire, refs: ["Jer 10:3", "Jer 10:4", "Jer 10:9"], note: "a tree cut from the forest, worked with the adze, decked with silver and gold, fastened with nails and hammers; beaten silver from Tarshish, gold from Uphaz, clothed in blue and purple"}
+      - {motif: idol-like-scarecrow-in-cucumber-field, refs: ["Jer 10:5"], note: "ke-tomer miqshah"}
+      - {motif: idol-cannot-move-or-answer, refs: ["Jer 10:5"], note: "'they can do neither evil nor good'"}
+      - {motif: incomparability-among-the-gods, refs: ["Jer 10:6", "Jer 10:7"], note: "me'ein kamokha, 'there is none like you'"}
+      - {motif: king-of-the-nations, refs: ["Jer 10:7"]}
+      - {motif: idols-as-vain-breath, refs: ["Jer 10:3", "Jer 10:8"], note: "the instruction of vanities is wood"}
+      - {motif: true-living-god-everlasting-king, refs: ["Jer 10:10"]}
+    hints:
+      - "The Letter of Jeremiah (Baruch 6), esp. v. 70 'like a scarecrow in a cucumber bed', expands this chapter; compare Isa 44:9-20, Ps 115:4-8, Abraham's idol-smashing (Quran 21:51-67; Genesis Rabbah 38:13) and Wis 13-15."
+  - id: hb-jer-10-aramaic-verse
+    tradition: judaism
+    title: The Aramaic verse - gods who did not make heaven and earth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Aramaic
+    read: ["Jer 10:11"]
+    tags:
+      - {motif: gods-who-did-not-make-heaven-perish, refs: ["Jer 10:11"], note: "kidnah te'merun lehom: 'Thus shall you say to them'; both 'arqa and 'ar'a for 'earth' in one verse"}
+      - {motif: idols-burned-are-no-gods, refs: ["Jer 10:11"], note: "creation as the test of true deity"}
+    hints:
+      - "The only Aramaic verse in Jeremiah, apparently a ready-made formula for exiles to say to Aramaic-speaking neighbors; compare Abraham's argument from creation in Quran 6:74-79 and 21:56, and Apocalypse of Abraham 1-8."
+  - id: hb-jer-10-maker-of-all
+    tradition: judaism
+    title: He made the earth by his power - the Portion of Jacob
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 10:12-16"]
+    tags:
+      - {motif: creation-by-wisdom-and-understanding, refs: ["Jer 10:12"]}
+      - {motif: god-alone-stretches-heavens, refs: ["Jer 10:12"]}
+      - {motif: wind-from-gods-storehouses, refs: ["Jer 10:13"]}
+      - {motif: idols-have-no-breath, refs: ["Jer 10:14", "Jer 10:15"], note: "ma'aseh ta'tu'im, 'a work of mockery'"}
+      - {motif: portion-of-jacob-former-of-all, refs: ["Jer 10:16"], note: "repeated verbatim at Jer 51:15-19"}
+    hints:
+      - "Prov 3:19-20 and 8:22-31 (wisdom at creation); Ps 135:7; Quran 2:164."
+  - id: hb-jer-10-pack-your-bundle
+    tradition: judaism
+    title: Pack your bundle; my tent is destroyed; a man cannot direct his steps
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 10:17-25"]
+    tags:
+      - {motif: pack-bundle-for-exile, refs: ["Jer 10:17", "Jer 10:18"], note: "'I am slinging out (qole'a) the inhabitants'"}
+      - {motif: ruined-tent-children-gone, refs: ["Jer 10:19", "Jer 10:20"], note: "'this is my sickness and I must bear it'"}
+      - {motif: blind-watchmen-mute-dogs, refs: ["Jer 10:21"], note: "the shepherds became stupid and did not seek YHWH; their flock scattered"}
+      - {motif: foe-from-the-north, refs: ["Jer 10:22"]}
+      - {motif: jerusalem-heap-haunt-of-jackals, refs: ["Jer 10:22"]}
+      - {motif: man-cannot-direct-own-steps, refs: ["Jer 10:23"]}
+      - {motif: rebuke-not-in-anger, refs: ["Jer 10:24"], note: "'correct me, but in justice, not in your anger'"}
+      - {motif: pour-out-wrath-on-nations, refs: ["Jer 10:25"], note: "nearly identical to Ps 79:6-7"}
+    hints:
+      - "Prov 16:9 and 20:24 on man's steps; Ps 79:6-7 is recited at the Passover seder ('Shefokh hamatkha')."
+  - id: hb-jer-11-broken-covenant
+    tradition: judaism
+    title: Cursed is the man who does not hear this covenant
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 11:1-17"]
+    tags:
+      - {motif: cursed-who-does-not-obey-covenant, refs: ["Jer 11:3", "Jer 11:5", "Jer 11:8"], note: "Jeremiah answers 'Amen, YHWH'"}
+      - {motif: iron-furnace-egypt, refs: ["Jer 11:4"]}
+      - {motif: covenant-formula-your-god-my-people, refs: ["Jer 11:4"]}
+      - {motif: land-flowing-milk-and-honey, refs: ["Jer 11:5"]}
+      - {motif: god-sent-prophets-persistently, refs: ["Jer 11:7"], note: "hashkem we-ha'ed"}
+      - {motif: gods-as-many-as-cities, refs: ["Jer 11:12", "Jer 11:13"], note: "they cry to the gods they burn incense to, who cannot save"}
+      - {motif: shameful-name-bosheth, refs: ["Jer 11:13"], note: "altars to the Shame, altars to burn incense to Baal"}
+      - {motif: prophet-forbidden-to-intercede, refs: ["Jer 11:14"]}
+      - {motif: green-olive-tree-set-on-fire, refs: ["Jer 11:16", "Jer 11:17"]}
+    hints:
+      - "Often linked to Josiah's covenant (2 Kgs 23:1-3); Rom 11:17-24 (olive tree whose branches are broken off)."
+  - id: hb-jer-11-plot-at-anathoth
+    tradition: judaism
+    title: First confession - a gentle lamb led to slaughter; the men of Anathoth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 11:18-23"]
+    tags:
+      - {motif: jeremiah-confession, refs: ["Jer 11:18", "Jer 11:19", "Jer 11:20"]}
+      - {motif: unsuspecting-lamb-led-to-slaughter, refs: ["Jer 11:19"], note: "ke-keves alluf yuval litvoah; 'let us cut him off from the land of the living so his name is remembered no more'"}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["Jer 11:20"]}
+      - {motif: prophet-calls-for-vengeance, refs: ["Jer 11:20"]}
+      - {motif: hometown-plots-against-prophet, refs: ["Jer 11:21", "Jer 11:22", "Jer 11:23"]}
+    hints:
+      - "Compare Isa 53:7-8 (lamb to slaughter, cut off from land of the living); Luke 4:24-29 (no prophet accepted in his hometown; Nazarenes try to kill Jesus)."
+  - id: hb-jer-12-why-wicked-prosper
+    tradition: judaism
+    title: Why does the way of the wicked prosper? Running with horses
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 12:1-6"]
+    tags:
+      - {motif: jeremiah-confession, refs: ["Jer 12:1", "Jer 12:3", "Jer 12:4"]}
+      - {motif: prophet-brings-case-against-god, refs: ["Jer 12:1"], note: "'tsaddiq attah ... ki ariv elekha'"}
+      - {motif: prosperity-of-the-wicked, refs: ["Jer 12:1", "Jer 12:2"], note: "you planted them, they took root and bear fruit"}
+      - {motif: god-near-in-mouth-far-from-heart, refs: ["Jer 12:2"]}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["Jer 12:3"]}
+      - {motif: prophet-calls-for-vengeance, refs: ["Jer 12:3"], note: "pull them out like sheep for slaughter, consecrate them for the day of killing"}
+      - {motif: earth-mourns-heavens-darken, refs: ["Jer 12:4"], note: "the land mourns and grass withers; beasts and birds swept away for the inhabitants' evil"}
+      - {motif: run-with-footmen-contend-with-horses, refs: ["Jer 12:5"]}
+      - {motif: family-betrays-prophet, refs: ["Jer 12:6"]}
+    hints:
+      - "Theodicy question also in Job 21:7, Hab 1:13, Ps 73, Mal 3:15; Mark 3:21 and Mic 7:6 on family hostility."
+  - id: hb-jer-12-forsaken-heritage
+    tradition: judaism
+    title: I have forsaken my house; the speckled bird of prey
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 12:7-17"]
+    tags:
+      - {motif: god-forsakes-his-house-and-heritage, refs: ["Jer 12:7", "Jer 12:8"], note: "my heritage became to me like a lion in the forest; she roared against me, so I hate her"}
+      - {motif: speckled-bird-of-prey, refs: ["Jer 12:9"], note: "ha'ayit tsavua'; LXX 'a hyena's cave'"}
+      - {motif: wild-beasts-invited-to-devour, refs: ["Jer 12:9"]}
+      - {motif: many-shepherds-ruin-vineyard, refs: ["Jer 12:10", "Jer 12:11"]}
+      - {motif: sowed-wheat-reaped-thorns, refs: ["Jer 12:13"]}
+      - {motif: evil-neighbors-uprooted-and-restored, refs: ["Jer 12:14", "Jer 12:15", "Jer 12:16", "Jer 12:17"]}
+      - {motif: uproot-and-tear-down-build-and-plant, refs: ["Jer 12:14", "Jer 12:15", "Jer 12:16"], note: "natash / nivnu"}
+    hints:
+      - "Futility curse as in Deut 28:38 and Hag 1:6; the nations' conversion parallels Zech 8:20-23."
+  - id: hb-jer-13-linen-loincloth
+    tradition: judaism
+    title: Symbolic act - the ruined linen loincloth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 13:1-11"]
+    tags:
+      - {motif: prophetic-symbolic-act, refs: ["Jer 13:1", "Jer 13:2", "Jer 13:4", "Jer 13:5", "Jer 13:6", "Jer 13:7"]}
+      - {motif: buried-loincloth-rots, refs: ["Jer 13:1", "Jer 13:4", "Jer 13:7"], note: "'do not put it in water'; 'ezor pishtim; Perath, possibly Parah near Anathoth"}
+      - {motif: people-cling-to-god-like-loincloth, refs: ["Jer 13:9", "Jer 13:10", "Jer 13:11"]}
+    hints:
+      - "Compare Isaiah walking naked (Isa 20), Ezekiel's brick and lying on his side (Ezek 4), Agabus binding himself with Paul's belt (Acts 21:11)."
+  - id: hb-jer-13-every-jar-wine
+    tradition: judaism
+    title: Every jar shall be filled with wine
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 13:12-14"]
+    tags:
+      - {motif: every-jar-filled-with-wine, refs: ["Jer 13:12", "Jer 13:13", "Jer 13:14"], note: "a popular saying turned into doom; kings on David's throne, priests and prophets made drunk"}
+      - {motif: cup-of-wrath, refs: ["Jer 13:13"], note: "drunkenness as divine judgment"}
+    hints:
+      - "Prelude to the cup of wrath of Jer 25:15-29."
+  - id: hb-jer-13-cushite-skin
+    tradition: judaism
+    title: Before darkness comes; can the Cushite change his skin?
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 13:15-27"]
+    tags:
+      - {motif: give-glory-before-darkness, refs: ["Jer 13:15", "Jer 13:16"]}
+      - {motif: weeping-prophet-fountain-of-tears, refs: ["Jer 13:17"], note: "my soul will weep in secret places for your pride"}
+      - {motif: king-and-queen-mother-humbled, refs: ["Jer 13:18"]}
+      - {motif: exile-and-dispersion-threatened, refs: ["Jer 13:19"], note: "the Negev cities shut; all Judah exiled wholly"}
+      - {motif: foe-from-the-north, refs: ["Jer 13:20"], note: "where is the flock given to you?"}
+      - {motif: anguish-like-woman-in-labor, refs: ["Jer 13:21"]}
+      - {motif: shamed-by-exposed-nakedness, refs: ["Jer 13:22", "Jer 13:26"], note: "your skirts uncovered, your heels violated"}
+      - {motif: can-ethiopian-change-skin, refs: ["Jer 13:23"]}
+      - {motif: wicked-like-chaff-before-wind, refs: ["Jer 13:24"], note: "stubble blown by the desert wind"}
+      - {motif: lusty-stallions-neighing, refs: ["Jer 13:27"], note: "your adulteries and neighings on the hills"}
+    hints:
+      - "13:23 became a proverb ('a leopard cannot change its spots'); compare Aesop's 'Washing the Ethiopian white' and Lucian, Adversus Indoctum 28."
+  - id: hb-jer-14-drought
+    tradition: judaism
+    title: The drought - the doe forsakes her fawn; lying prophets
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 14:1-16"]
+    tags:
+      - {motif: drought-as-punishment-for-sin, refs: ["Jer 14:1", "Jer 14:4", "Jer 14:7"], note: "divrei ha-batstsarot, 'words concerning the droughts'"}
+      - {motif: nobles-find-empty-cisterns, refs: ["Jer 14:3", "Jer 14:4"]}
+      - {motif: head-covered-in-shame, refs: ["Jer 14:3", "Jer 14:4"]}
+      - {motif: doe-abandons-newborn-in-drought, refs: ["Jer 14:5", "Jer 14:6"]}
+      - {motif: for-my-own-sake-my-glory-not-given, refs: ["Jer 14:7"], note: "'act for your name's sake'"}
+      - {motif: god-like-stranger-in-the-land, refs: ["Jer 14:8", "Jer 14:9"], note: "'Hope of Israel' (miqweh yisra'el)"}
+      - {motif: prophet-forbidden-to-intercede, refs: ["Jer 14:11"]}
+      - {motif: fasting-unheeded-complaint, refs: ["Jer 14:12"], note: "when they fast I will not hear"}
+      - {motif: sword-famine-pestilence-triad, refs: ["Jer 14:12"]}
+      - {motif: false-prophets-not-sent, refs: ["Jer 14:13", "Jer 14:14", "Jer 14:15"], note: "promise of 'true peace'; qesem we-elil"}
+      - {motif: denied-burial-in-ancestral-tomb, refs: ["Jer 14:16"], note: "flung into the streets with none to bury them"}
+    hints:
+      - "Jewish fast-day liturgy draws on Jer 14 (Mishnah Ta'anit). 'Mikveh Israel' (14:8) is punned in m. Yoma 8:9 by Rabbi Akiva as the ritual bath."
+  - id: hb-jer-14-lament-and-plea
+    tradition: judaism
+    title: Let my eyes run with tears; do not spurn us
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 14:17-22"]
+    tags:
+      - {motif: weeping-prophet-fountain-of-tears, refs: ["Jer 14:17"]}
+      - {motif: sword-famine-pestilence-triad, refs: ["Jer 14:18"], note: "slain by the sword in the field, sick with famine in the city"}
+      - {motif: communal-lament, refs: ["Jer 14:19", "Jer 14:20", "Jer 14:21"], note: "do not dishonor your throne of glory; do not break your covenant with us"}
+      - {motif: exiles-confess-sins-of-fathers, refs: ["Jer 14:20"]}
+      - {motif: idols-cannot-give-rain, refs: ["Jer 14:22"]}
+    hints:
+      - "Compare 1 Kgs 18 (Baal and rain) and the Ugaritic Baal as rain-giver."
+  - id: hb-jer-15-moses-and-samuel
+    tradition: judaism
+    title: Though Moses and Samuel stood before me
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 15:1-9"]
+    tags:
+      - {motif: moses-aaron-samuel-intercessors, refs: ["Jer 15:1"]}
+      - {motif: fourfold-destiny-of-doomed, refs: ["Jer 15:2"]}
+      - {motif: four-kinds-of-destroyers, refs: ["Jer 15:3"]}
+      - {motif: guilt-of-predecessor-not-forgiven, refs: ["Jer 15:4"], note: "because of Manasseh son of Hezekiah"}
+      - {motif: god-weary-of-relenting, refs: ["Jer 15:6"]}
+      - {motif: mother-of-seven-languishes, refs: ["Jer 15:8", "Jer 15:9"], note: "widows more than the sand of the seas; a destroyer at noon against the mother of a young man"}
+    hints:
+      - "Ezek 14:14 (Noah, Daniel, Job); 2 Macc 7 mother of seven martyred sons; Ps 99:6 Moses and Samuel; Amos 8:9 sunset at noon."
+  - id: hb-jer-15-confession-words-eaten
+    tradition: judaism
+    title: Second confession - woe that my mother bore me; your words I ate
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 15:10-21"]
+    tags:
+      - {motif: jeremiah-confession, refs: ["Jer 15:10", "Jer 15:15", "Jer 15:16", "Jer 15:17", "Jer 15:18"]}
+      - {motif: curse-on-day-of-birth, refs: ["Jer 15:10"], note: "'man of strife and contention to the whole land; I have not lent nor borrowed, yet all curse me'"}
+      - {motif: prophet-calls-for-vengeance, refs: ["Jer 15:15"]}
+      - {motif: prophet-eats-gods-words, refs: ["Jer 15:16"], note: "'your name is called upon me'"}
+      - {motif: prophet-sits-alone, refs: ["Jer 15:17"]}
+      - {motif: god-as-deceitful-brook, refs: ["Jer 15:18"], note: "ke-mo akhzav, cf. 2:13 God as fountain of living water"}
+      - {motif: prophet-as-gods-mouth, refs: ["Jer 15:19"]}
+      - {motif: prophet-made-fortified-city, refs: ["Jer 15:20"], note: "a fortified wall of bronze; repeats 1:18-19"}
+      - {motif: i-am-with-you-to-deliver, refs: ["Jer 15:20", "Jer 15:21"]}
+    hints:
+      - "Ezek 2:8-3:3 and Rev 10:9-10 (eating the scroll); Ps 1:1 (not sitting with scoffers); Job 6:15 friends as a deceitful wadi; Job 3."
+  - id: hb-jer-16-no-wife-no-mourning
+    tradition: judaism
+    title: Symbolic acts - no wife, no mourning, no feasting
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 16:1-13"]
+    tags:
+      - {motif: prophetic-symbolic-act, refs: ["Jer 16:2", "Jer 16:5", "Jer 16:8"]}
+      - {motif: prophet-forbidden-to-marry, refs: ["Jer 16:2", "Jer 16:3", "Jer 16:4"]}
+      - {motif: unburied-corpses-food-for-birds, refs: ["Jer 16:4", "Jer 16:6"], note: "dung on the face of the ground"}
+      - {motif: prophet-forbidden-to-mourn-or-feast, refs: ["Jer 16:5", "Jer 16:8"]}
+      - {motif: marzeah-house, refs: ["Jer 16:5"]}
+      - {motif: no-gashing-or-baldness-for-dead, refs: ["Jer 16:6"], note: "presupposes the people gashed and shaved for the dead"}
+      - {motif: bread-and-cup-of-consolation, refs: ["Jer 16:7"]}
+      - {motif: voice-of-bride-and-groom-silenced, refs: ["Jer 16:9"]}
+      - {motif: exile-explained-as-punishment, refs: ["Jer 16:10", "Jer 16:11", "Jer 16:12"], note: "catechism: 'why has YHWH pronounced this evil?'"}
+      - {motif: exile-means-serving-other-gods, refs: ["Jer 16:13"], note: "there you will serve other gods day and night"}
+    hints:
+      - "The marzeah is attested at Ugarit (mrzh, KTU 1.114 El's drunken feast), in Phoenician and Nabataean texts, and in Amos 6:7. Jewish mourning meal (se'udat havra'ah) and the cup of consolation (b. Ketubot 8b); Paul on celibacy in view of crisis (1 Cor 7:26)."
+  - id: hb-jer-16-fishers-and-hunters
+    tradition: judaism
+    title: A new exodus from the north; fishers and hunters
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 16:14-21"]
+    tags:
+      - {motif: new-exodus-eclipses-old, refs: ["Jer 16:14", "Jer 16:15"]}
+      - {motif: fishers-and-hunters, refs: ["Jer 16:16"]}
+      - {motif: god-alone-knows-hearts, refs: ["Jer 16:17"], note: "my eyes are on all their ways; their iniquity is not hidden"}
+      - {motif: double-portion-instead-of-shame, refs: ["Jer 16:18"], note: "inverted: God repays their iniquity double, for defiling his land with carcasses of their idols"}
+      - {motif: nations-confess-fathers-inherited-lies, refs: ["Jer 16:19", "Jer 16:20"]}
+      - {motif: idols-burned-are-no-gods, refs: ["Jer 16:20"], note: "'and they are no gods'"}
+    hints:
+      - "Mark 1:17 'fishers of men'; Amos 4:2 hooks; Quran 2:170 and 43:22 (we follow what we found our fathers doing)."
+  - id: hb-jer-17-iron-pen
+    tradition: judaism
+    title: Sin engraved with an iron pen
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 17:1-4"]
+    tags:
+      - {motif: sin-engraved-with-iron-pen, refs: ["Jer 17:1"], note: "be-tsipporen shamir, 'with a point of shamir (diamond/emery)'"}
+      - {motif: high-places-green-trees, refs: ["Jer 17:2"], note: "their altars and Asherim by green trees on the high hills"}
+      - {motif: exile-and-dispersion-threatened, refs: ["Jer 17:3", "Jer 17:4"], note: "you will serve your enemies in a land you do not know; a fire kindled forever"}
+    hints:
+      - "Contrast Jer 31:33 (law written on the heart). The shamir becomes in rabbinic legend the stone-cutting worm used for the temple (m. Avot 5:6; b. Gittin 68a)."
+  - id: hb-jer-17-two-ways-tree
+    tradition: judaism
+    title: Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 17:5-13"]
+    tags:
+      - {motif: cursed-who-trusts-in-man, refs: ["Jer 17:5", "Jer 17:6"]}
+      - {motif: arm-of-flesh-versus-god, refs: ["Jer 17:5"]}
+      - {motif: righteous-as-tree-by-water, refs: ["Jer 17:7", "Jer 17:8"], note: "sends out roots by the stream; not anxious in a year of drought"}
+      - {motif: heart-deceitful-above-all, refs: ["Jer 17:9"]}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["Jer 17:10"], note: "to give every man according to his ways"}
+      - {motif: partridge-hatches-eggs-not-laid, refs: ["Jer 17:11"]}
+      - {motif: glorious-throne-from-the-beginning, refs: ["Jer 17:12"]}
+      - {motif: names-written-in-the-earth, refs: ["Jer 17:13"]}
+      - {motif: broken-cisterns-for-living-water, refs: ["Jer 17:13"], note: "'Hope of Israel', the fountain of living water"}
+    hints:
+      - "Ps 1 (two ways, the tree); b. Pesahim 54a lists the Throne of Glory among things created before the world, citing 17:12; John 8:6-8 Jesus writes in the ground; Amenemope 4 (the hot man vs the silent man like a tree)."
+  - id: hb-jer-17-heal-me
+    tradition: judaism
+    title: Third confession - heal me and I shall be healed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 17:14-18"]
+    tags:
+      - {motif: jeremiah-confession, refs: ["Jer 17:14", "Jer 17:15", "Jer 17:16", "Jer 17:17", "Jer 17:18"]}
+      - {motif: heal-me-o-lord-prayer, refs: ["Jer 17:14"]}
+      - {motif: scoffers-ask-where-is-the-word, refs: ["Jer 17:15"]}
+      - {motif: prophet-calls-for-vengeance, refs: ["Jer 17:18"], note: "destroy them with double destruction"}
+    hints:
+      - "17:14 is the basis of the eighth blessing of the Amidah (Refa'enu); 2 Pet 3:4 'where is the promise of his coming?'"
+  - id: hb-jer-17-sabbath-gates
+    tradition: judaism
+    title: Carry no burden on the Sabbath day
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 17:19-27"]
+    tags:
+      - {motif: prophet-preaches-at-temple-gate, refs: ["Jer 17:19", "Jer 17:20"], note: "at the gate of the sons of the people where the kings of Judah go in and out, and all gates"}
+      - {motif: sabbath-burden-carrying-forbidden, refs: ["Jer 17:21", "Jer 17:22", "Jer 17:24", "Jer 17:27"]}
+      - {motif: sabbath-keeping-secures-city, refs: ["Jer 17:25", "Jer 17:26", "Jer 17:27"], note: "pilgrims from Benjamin, the Shephelah, the hill country and the Negev with offerings and todah"}
+    hints:
+      - "Basis of the rabbinic category of carrying (hotsa'ah) between domains, m. Shabbat 1:1; compare Neh 13:15-22."
+  - id: hb-jer-18-potter
+    tradition: judaism
+    title: At the potter's house - conditional prophecy
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 18:1-12"]
+    tags:
+      - {motif: potter-reworks-spoiled-vessel, refs: ["Jer 18:2", "Jer 18:3", "Jer 18:4", "Jer 18:6"], note: "working at the 'ovnayim (two stones / wheel)"}
+      - {motif: we-are-clay-you-are-potter, refs: ["Jer 18:6"]}
+      - {motif: conditional-prophecy, refs: ["Jer 18:7", "Jer 18:8", "Jer 18:9", "Jer 18:10"]}
+      - {motif: god-relents, refs: ["Jer 18:8", "Jer 18:10"]}
+      - {motif: uproot-and-tear-down-build-and-plant, refs: ["Jer 18:7", "Jer 18:9"]}
+      - {motif: call-to-return-faithless-children, refs: ["Jer 18:11"], note: "'I am a potter (yotser) shaping evil against you; return each from his evil way'"}
+      - {motif: prophets-lie-and-people-love-it, refs: ["Jer 18:12"], note: "'It is hopeless; we will follow our own plans'"}
+    hints:
+      - "Rom 9:20-21 (potter's right over the clay); Jonah 3:10 (Nineveh repents, God relents); Egyptian Khnum shaping humans on the potter's wheel; Quran 55:14."
+  - id: hb-jer-18-snow-of-lebanon
+    tradition: judaism
+    title: Does the snow leave Lebanon? A land for hissing
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 18:13-17"]
+    tags:
+      - {motif: nations-do-not-change-their-gods, refs: ["Jer 18:13"], note: "ask among the nations: who has heard such things? virgin Israel has done a horrible thing"}
+      - {motif: does-snow-leave-lebanon, refs: ["Jer 18:14", "Jer 18:15"]}
+      - {motif: ask-for-the-ancient-paths, refs: ["Jer 18:15"], note: "they stumbled from the ancient roads (shevilei 'olam) to unbuilt paths"}
+      - {motif: hissing-and-horror-curse-formula, refs: ["Jer 18:16"], note: "everyone who passes shudders and shakes his head"}
+      - {motif: god-shows-back-not-face, refs: ["Jer 18:17"], note: "scattered as by an east wind"}
+    hints:
+      - "Compare Jer 2:27 where the people show God their back not face (measure for measure)."
+  - id: hb-jer-18-plot-and-imprecation
+    tradition: judaism
+    title: Fourth confession - let us smite him with the tongue
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 18:18-23"]
+    tags:
+      - {motif: torah-from-priest-counsel-from-wise-word-from-prophet, refs: ["Jer 18:18"]}
+      - {motif: jeremiah-confession, refs: ["Jer 18:19", "Jer 18:20", "Jer 18:21", "Jer 18:22", "Jer 18:23"]}
+      - {motif: evil-repaid-for-good, refs: ["Jer 18:20"], note: "remember how I stood before you to speak good for them"}
+      - {motif: enemies-dig-pit-for-righteous, refs: ["Jer 18:20", "Jer 18:22"]}
+      - {motif: prophet-calls-for-vengeance, refs: ["Jer 18:21", "Jer 18:22", "Jer 18:23"], note: "give their children to famine; 'do not forgive their iniquity nor blot out their sin'"}
+    hints:
+      - "The three-fold division of religious authority (priest, sage, prophet) parallels Ezek 7:26; compare imprecatory psalms 35 and 109, and Muhammad's qunut against Ri'l and Dhakwan."
+  - id: hb-jer-19-broken-flask
+    tradition: judaism
+    title: Symbolic act - the shattered flask at the Topheth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 19:1-15"]
+    tags:
+      - {motif: prophetic-symbolic-act, refs: ["Jer 19:1", "Jer 19:2", "Jer 19:10", "Jer 19:11"]}
+      - {motif: smashed-potters-flask, refs: ["Jer 19:1", "Jer 19:10", "Jer 19:11"], note: "baqbuq; with elders of the people and of the priests, at the Potsherd Gate (sha'ar ha-harsit)"}
+      - {motif: ears-tingle-formula, refs: ["Jer 19:3"]}
+      - {motif: innocent-blood-fills-city, refs: ["Jer 19:4"]}
+      - {motif: child-sacrifice-by-fire-condemned, refs: ["Jer 19:5"], note: "burnt offerings to Baal"}
+      - {motif: child-burning-never-commanded, refs: ["Jer 19:5"]}
+      - {motif: valley-renamed-valley-of-slaughter, refs: ["Jer 19:6", "Jer 19:11"]}
+      - {motif: unburied-corpses-food-for-birds, refs: ["Jer 19:7"], note: "pun: 'I will empty (uvaqqoti) the counsel of Judah', on baqbuq"}
+      - {motif: hissing-and-horror-curse-formula, refs: ["Jer 19:8"]}
+      - {motif: siege-cannibalism, refs: ["Jer 19:9"], note: "sons, daughters and each his neighbor's flesh"}
+      - {motif: rooftop-altars, refs: ["Jer 19:13"], note: "houses defiled like the Topheth, where incense was burned on roofs to the host of heaven"}
+      - {motif: prophet-preaches-at-temple-gate, refs: ["Jer 19:14", "Jer 19:15"], note: "in the court of the house of YHWH"}
+    hints:
+      - "Egyptian execration texts: names of enemies written on pots that are smashed; Matt 27:7-10 (potter's field, attributed to Jeremiah)."
+  - id: hb-jer-20-pashhur-stocks
+    tradition: judaism
+    title: Pashhur puts Jeremiah in the stocks - Terror on Every Side
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 20:1-6"]
+    tags:
+      - {motif: prophet-imprisoned-in-stocks, refs: ["Jer 20:2", "Jer 20:3"], note: "by the priest Pashhur, chief officer of the temple; the mahpekhet at the Upper Benjamin Gate"}
+      - {motif: prophet-renames-persecutor, refs: ["Jer 20:3"], note: "not Pashhur but Magor-missaviv"}
+      - {motif: terror-on-every-side, refs: ["Jer 20:3", "Jer 20:4"]}
+      - {motif: exile-and-dispersion-threatened, refs: ["Jer 20:4", "Jer 20:5"], note: "first explicit naming of the king of Babylon in the book; treasures carried to Babylon"}
+      - {motif: false-prophets-not-sent, refs: ["Jer 20:6"], note: "Pashhur 'prophesied falsely' and will die and be buried in Babylon"}
+    hints:
+      - "Acts 16:24 (feet in the stocks); 2 Chr 16:10 (Hanani in the stocks)."
+  - id: hb-jer-20-enticed-fire-in-bones
+    tradition: judaism
+    title: Fifth confession - you enticed me; fire shut up in my bones
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 20:7-13"]
+    tags:
+      - {motif: jeremiah-confession, refs: ["Jer 20:7", "Jer 20:8", "Jer 20:9", "Jer 20:10", "Jer 20:11", "Jer 20:12"]}
+      - {motif: god-enticed-the-prophet, refs: ["Jer 20:7"], note: "a laughingstock all day; 'violence and destruction' I cry"}
+      - {motif: prophet-cannot-hold-in-gods-word, refs: ["Jer 20:9"], note: "'like a burning fire shut up in my bones; I am weary of holding it in'"}
+      - {motif: terror-on-every-side, refs: ["Jer 20:10"], note: "whispering of many; 'all my friends watch for my stumbling: perhaps he will be enticed'"}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["Jer 20:12"]}
+      - {motif: prophet-calls-for-vengeance, refs: ["Jer 20:12"]}
+      - {motif: divine-warrior, refs: ["Jer 20:11"], note: "YHWH is with me like a dread warrior (gibbor 'arits)"}
+    hints:
+      - "Amos 3:8 'the lord has spoken, who can but prophesy?'; Muhammad's distress at the start of revelation; Ps 31:14 'terror on every side' (also 1QH)."
+  - id: hb-jer-20-cursed-day
+    tradition: judaism
+    title: Cursed be the day I was born
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 20:14-18"]
+    tags:
+      - {motif: curse-on-day-of-birth, refs: ["Jer 20:14"]}
+      - {motif: curse-on-messenger-of-birth, refs: ["Jer 20:15", "Jer 20:16"], note: "let him be like the cities YHWH overthrew without relenting"}
+      - {motif: wish-for-stillbirth, refs: ["Jer 20:17"], note: "'that my mother might have been my grave and her womb forever pregnant'"}
+      - {motif: jeremiah-confession, refs: ["Jer 20:18"], note: "why did I come out of the womb to see toil and sorrow?"}
+    hints:
+      - "Job 3 develops the same curse; Sophocles, Oedipus at Colonus 1224 ('not to be born is best'); Theognis 425-428."
+  - id: hb-jer-21-zedekiah-inquiry
+    tradition: judaism
+    title: Zedekiah's inquiry - the way of life and the way of death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 21:1-10"]
+    tags:
+      - {motif: besieged-king-asks-prophet-for-miracle, refs: ["Jer 21:1", "Jer 21:2"], note: "envoys Pashhur son of Malchiah and the priest Zephaniah; Nebuchadrezzar named"}
+      - {motif: god-fights-against-own-people, refs: ["Jer 21:4", "Jer 21:5"]}
+      - {motif: outstretched-arm, refs: ["Jer 21:5"], note: "exodus formula 'outstretched hand and strong arm' turned against Judah"}
+      - {motif: sword-famine-pestilence-triad, refs: ["Jer 21:6", "Jer 21:7", "Jer 21:9"]}
+      - {motif: choose-life, refs: ["Jer 21:8"], note: "'I set before you the way of life and the way of death' (Deut 30:15 reversed into surrender)"}
+      - {motif: surrender-to-enemy-to-live, refs: ["Jer 21:9"]}
+      - {motif: city-burned-by-conqueror, refs: ["Jer 21:10"]}
+    hints:
+      - "Didache 1:1 and Barnabas 18 'two ways'; Josephus (War 5.391-393) uses Jeremiah to urge Jerusalem's surrender to Rome."
+  - id: hb-jer-21-house-of-david
+    tradition: judaism
+    title: To the house of David - judge in the morning
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 21:11-14"]
+    tags:
+      - {motif: execute-justice-in-the-morning, refs: ["Jer 21:12"]}
+      - {motif: false-security-who-can-come-against-us, refs: ["Jer 21:13"], note: "'dweller of the valley, rock of the plain'"}
+      - {motif: god-consuming-fire, refs: ["Jer 21:12", "Jer 21:14"], note: "fire kindled in her forest (the House of the Forest of Lebanon?)"}
+    hints:
+      - "Ps 101:8 (morning judgment); the king as judge at dawn in Egyptian and Mesopotamian royal ideology (Shamash)."
+  - id: hb-jer-22-palace-oracle
+    tradition: judaism
+    title: Go down to the king's house - justice or ruin
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 22:1-9"]
+    tags:
+      - {motif: dynasty-promise-conditional, refs: ["Jer 22:2", "Jer 22:3", "Jer 22:4", "Jer 22:5"], note: "do justice, rescue the robbed, do not wrong stranger, orphan, widow"}
+      - {motif: divine-oath-by-himself, refs: ["Jer 22:5"], note: "bi nishba'ti"}
+      - {motif: royal-house-cedars-felled, refs: ["Jer 22:6", "Jer 22:7"], note: "'I will sanctify destroyers against you'"}
+      - {motif: temple-ruin-passersby-hiss-and-ask-why, refs: ["Jer 22:8", "Jer 22:9"], note: "nations ask why YHWH did this to the great city"}
+    hints:
+      - "Deut 29:23-25 and 1 Kgs 9:8-9 have the same question-and-answer schema, also attested in Assyrian annals (Ashurbanipal on Arabia)."
+  - id: hb-jer-22-shallum
+    tradition: judaism
+    title: Weep for the one who goes away - Shallum
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 22:10-12"]
+    tags:
+      - {motif: weep-for-the-exile-not-the-dead, refs: ["Jer 22:10"]}
+      - {motif: exiled-king-never-returns, refs: ["Jer 22:11", "Jer 22:12"], note: "Shallum son of Josiah (= Jehoahaz, taken to Egypt)"}
+    hints:
+      - "Do not weep for the dead (Josiah) but for the exile; compare Ovid's Tristia on exile as a living death."
+  - id: hb-jer-22-jehoiakim
+    tradition: judaism
+    title: Woe to him who builds his house by injustice - Jehoiakim
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 22:13-19"]
+    tags:
+      - {motif: woe-to-palace-builder-unpaid-labor, refs: ["Jer 22:13", "Jer 22:14"], note: "wide upper rooms, windows, cedar paneling, painted with shashar (vermilion)"}
+      - {motif: wages-paid-same-day, refs: ["Jer 22:13"], note: "he does not give his neighbor his wages"}
+      - {motif: to-know-god-is-to-do-justice, refs: ["Jer 22:15", "Jer 22:16"], note: "'do you reign because you compete in cedar? Your father ate and drank and did justice'"}
+      - {motif: innocent-blood-fills-city, refs: ["Jer 22:17"]}
+      - {motif: burial-of-a-donkey, refs: ["Jer 22:18", "Jer 22:19"], note: "hoy ahi, hoy ahot, hoy adon, hoy hodoh"}
+    hints:
+      - "Mishnah-era 'hoy' lament formulas; compare 1 Kgs 13:30 'alas my brother'; Jesus on the worker's wage (Luke 10:7); the palace at Ramat Rahel with window balustrades."
+  - id: hb-jer-22-coniah
+    tradition: judaism
+    title: Cry from Lebanon; Coniah the signet ring torn off
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 22:20-30"]
+    tags:
+      - {motif: drinking-waters-of-nile-and-euphrates, refs: ["Jer 22:20", "Jer 22:22"], note: "all your lovers (allies) are broken; the wind will shepherd your shepherds"}
+      - {motif: anguish-like-woman-in-labor, refs: ["Jer 22:23"], note: "you who dwell in Lebanon, nested in the cedars"}
+      - {motif: signet-ring-torn-off, refs: ["Jer 22:24"], note: "Coniah (Jehoiachin) son of Jehoiakim"}
+      - {motif: king-and-queen-mother-humbled, refs: ["Jer 22:26"], note: "you and your mother who bore you hurled into another land"}
+      - {motif: exiled-king-never-returns, refs: ["Jer 22:26", "Jer 22:27"]}
+      - {motif: smashed-potters-flask, refs: ["Jer 22:28"], note: "is this man a despised broken pot, a vessel no one wants?"}
+      - {motif: heaven-and-earth-summoned-as-witnesses, refs: ["Jer 22:29"], note: "'erets, 'erets, 'erets'"}
+      - {motif: write-him-childless, refs: ["Jer 22:30"]}
+    hints:
+      - "Hag 2:23 reverses the curse for Zerubbabel ('I will make you like a signet ring'); Matt 1:11-12 includes Jechoniah in Jesus' line, which Christian apologists connect to the virgin birth; rabbis (Pesikta de-Rav Kahana 24) say his repentance annulled the decree."
+  - id: hb-jer-23-shepherds-and-branch
+    tradition: judaism
+    title: Woe to the shepherds; the righteous Branch
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 23:1-8"]
+    tags:
+      - {motif: woe-to-shepherds-who-scatter, refs: ["Jer 23:1", "Jer 23:2"], note: "pun: you did not attend (peqadtem), I will attend (poqed) to you"}
+      - {motif: god-gathers-dispersed-of-israel, refs: ["Jer 23:3"], note: "they will be fruitful and multiply"}
+      - {motif: shepherds-after-gods-heart, refs: ["Jer 23:4"]}
+      - {motif: righteous-branch-of-david, refs: ["Jer 23:5"]}
+      - {motif: yhwh-our-righteousness-name, refs: ["Jer 23:6"], note: "a play on the name of Zedekiah (Tsidqiyahu)"}
+      - {motif: new-exodus-eclipses-old, refs: ["Jer 23:7", "Jer 23:8"], note: "repeats 16:14-15"}
+    hints:
+      - "Ezek 34; John 10 (good shepherd); Zech 3:8 and 6:12 'Branch' (Tsemah) as messianic title; Targum renders 'messiah'; 4QFlorilegium 'Branch of David'; Lam. Rabbah 1:51 lists 'YHWH our righteousness' as a name of the Messiah."
+  - id: hb-jer-23-against-prophets
+    tradition: judaism
+    title: Concerning the prophets - who has stood in the council of YHWH?
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 23:9-22"]
+    tags:
+      - {motif: prophet-drunk-before-gods-words, refs: ["Jer 23:9"]}
+      - {motif: earth-mourns-heavens-darken, refs: ["Jer 23:10"], note: "because of the curse (alah) the land mourns, the desert pastures dry up"}
+      - {motif: prophets-like-sodom, refs: ["Jer 23:11", "Jer 23:13", "Jer 23:14"], note: "Samaria's prophets prophesied by Baal; even in my house I found their evil"}
+      - {motif: god-gives-poison-water-to-drink, refs: ["Jer 23:15"]}
+      - {motif: false-prophets-not-sent, refs: ["Jer 23:16", "Jer 23:21"], note: "a vision of their own heart, not from the mouth of YHWH; 'I did not send them, yet they ran'"}
+      - {motif: peace-peace-when-no-peace, refs: ["Jer 23:17"]}
+      - {motif: listening-in-council-of-god, refs: ["Jer 23:18", "Jer 23:22"], note: "true prophets have stood in the sod YHWH"}
+      - {motif: divine-council-scene, refs: ["Jer 23:18", "Jer 23:22"]}
+      - {motif: storm-of-yhwhs-wrath, refs: ["Jer 23:19", "Jer 23:20"], note: "be-aharit ha-yamim"}
+    hints:
+      - "1 Kgs 22:19-23 (Micaiah in the council), Amos 3:7; Deut 18:20-22 tests for false prophets; Quran 69:44-47 on one who fabricates revelation."
+  - id: hb-jer-23-dreams-and-hammer
+    tradition: judaism
+    title: A God near and far; dreams versus the word like a hammer
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 23:23-32"]
+    tags:
+      - {motif: god-near-and-far-fills-heaven-and-earth, refs: ["Jer 23:23", "Jer 23:24"]}
+      - {motif: no-darkness-hides-evildoers, refs: ["Jer 23:24"], note: "can a man hide in hiding places so that I do not see him?"}
+      - {motif: false-prophets-dream-dreams, refs: ["Jer 23:25", "Jer 23:26", "Jer 23:27", "Jer 23:28", "Jer 23:32"], note: "their dreams make the people forget my name as their fathers forgot it for Baal"}
+      - {motif: prophets-word-as-fire, refs: ["Jer 23:29"]}
+      - {motif: word-like-hammer-shattering-rock, refs: ["Jer 23:29"]}
+      - {motif: prophets-steal-words-from-each-other, refs: ["Jer 23:30", "Jer 23:31"]}
+      - {motif: false-prophets-not-sent, refs: ["Jer 23:32"]}
+    hints:
+      - "b. Sanhedrin 34a: 'as a hammer splits rock into many fragments, so one verse yields many meanings'; Ps 139:7-12 and Quran 50:16 ('closer than the jugular vein'), 57:4."
+  - id: hb-jer-23-burden-of-yhwh
+    tradition: judaism
+    title: What is the burden of YHWH?
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 23:33-40"]
+    tags:
+      - {motif: burden-of-yhwh-pun, refs: ["Jer 23:33", "Jer 23:34", "Jer 23:36", "Jer 23:38", "Jer 23:39"], note: "MT 'et mah massa'; LXX/Vulg 'you are the burden'; wordplay nasiti ... nasho' ('I will lift/forget you')"}
+      - {motif: false-prophets-not-sent, refs: ["Jer 23:35", "Jer 23:37"], note: "ask instead 'what did YHWH answer, what did YHWH speak?'"}
+      - {motif: true-living-god-everlasting-king, refs: ["Jer 23:36"], note: "you pervert the words of the living God (elohim hayyim)"}
+      - {motif: hissing-and-horror-curse-formula, refs: ["Jer 23:40"], note: "everlasting reproach and shame not forgotten"}
+    hints:
+      - "A rare biblical ban on a religious formula; compare Zech 13:2-6 on the end of prophecy and Quran 2:104 (forbidding the word ra'ina)."
+  - id: hb-jer-24-two-baskets-figs
+    tradition: judaism
+    title: Vision of the two baskets of figs
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 24:1-10"]
+    tags:
+      - {motif: two-baskets-of-figs, refs: ["Jer 24:1", "Jer 24:2", "Jer 24:5", "Jer 24:8"], note: "good like first-ripe figs; bad, too bad to eat; set before the temple"}
+      - {motif: craftsmen-and-smiths-deported, refs: ["Jer 24:1"], note: "Jeconiah, princes, the craftsman and the smith (masger)"}
+      - {motif: vision-question-what-do-you-see, refs: ["Jer 24:3"]}
+      - {motif: uproot-and-tear-down-build-and-plant, refs: ["Jer 24:6"]}
+      - {motif: god-gives-heart-to-know-him, refs: ["Jer 24:7"]}
+      - {motif: covenant-formula-my-people-your-god, refs: ["Jer 24:7"]}
+      - {motif: hissing-and-horror-curse-formula, refs: ["Jer 24:9"], note: "a horror, reproach, byword (mashal), taunt (sheninah) and curse"}
+      - {motif: sword-famine-pestilence-triad, refs: ["Jer 24:10"]}
+    hints:
+      - "Amos 8:1-2 (basket of summer fruit); compare Matt 7:16-20 good and bad fruit and the barren fig tree (Mark 11:13; Luke 13:6-9)."
+  - id: hb-jer-25-seventy-years
+    tradition: judaism
+    title: Twenty-three years of warning; seventy years of servitude
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 25:1-14"]
+    tags:
+      - {motif: synchronism-of-reigns, refs: ["Jer 25:1"]}
+      - {motif: god-sent-prophets-persistently, refs: ["Jer 25:3", "Jer 25:4"], note: "Jeremiah has spoken 23 years, from Josiah's 13th year, 'rising early'"}
+      - {motif: call-to-return-faithless-children, refs: ["Jer 25:5"]}
+      - {motif: foe-from-the-north, refs: ["Jer 25:9"], note: "all the clans of the north"}
+      - {motif: foreign-conqueror-as-gods-servant, refs: ["Jer 25:9"], note: "Nevukhadretsar ... 'avdi"}
+      - {motif: sound-of-millstones-and-lamp-cease, refs: ["Jer 25:10"]}
+      - {motif: voice-of-bride-and-groom-silenced, refs: ["Jer 25:10"]}
+      - {motif: seventy-years-of-exile, refs: ["Jer 25:11", "Jer 25:12"], note: "nations will serve the king of Babylon seventy years, then Babylon is punished"}
+      - {motif: prophecies-written-in-this-book, refs: ["Jer 25:13"], note: "in the LXX the oracles against the nations follow here"}
+    hints:
+      - "Dan 9:2 reinterprets the seventy years as seventy weeks of years; 2 Chr 36:21 links them to sabbatical years; Esarhaddon's Babylon inscription: Marduk decrees 70 years of desolation, reversed to 11. Rev 18:22-23 (millstone, lamp, bride and groom)."
+  - id: hb-jer-25-cup-of-wrath
+    tradition: judaism
+    title: The cup of the wine of wrath for all nations; Sheshach
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 25:15-29"]
+    tags:
+      - {motif: cup-of-wrath, refs: ["Jer 25:15", "Jer 25:16", "Jer 25:17", "Jer 25:27", "Jer 25:28"], note: "drink, be drunk, vomit, fall and rise no more; 'you shall surely drink'"}
+      - {motif: catalogue-of-nations-drink-cup, refs: ["Jer 25:18", "Jer 25:19", "Jer 25:20", "Jer 25:21", "Jer 25:22", "Jer 25:23", "Jer 25:24", "Jer 25:25", "Jer 25:26"], note: "Jerusalem, Pharaoh, the 'erev, Uz, Philistine cities, Edom, Moab, Ammon, Tyre, Sidon, coastlands, Dedan, Tema, Buz, Arabia, Zimri, Elam, Media, the north"}
+      - {motif: corners-of-head-and-beard-not-cut, refs: ["Jer 25:23"], note: "all who clip the corners of their hair"}
+      - {motif: sheshach-atbash-cipher, refs: ["Jer 25:26"], note: "Sh-Sh-K = B-B-L by atbash"}
+      - {motif: judgment-begins-at-gods-city, refs: ["Jer 25:29"]}
+    hints:
+      - "Rev 14:10 and 16:19 (cup of the wine of God's wrath); 1 Pet 4:17 'judgment begins with the household of God'; atbash also in Jer 51:1 (Leb-qamai = Kasdim) and in kabbalistic exegesis; Ugaritic and Greek images of drinking a god's cup."
+  - id: hb-jer-25-lion-roars
+    tradition: judaism
+    title: YHWH roars from on high; the shepherds wail
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Jer 25:30-38"]
+    tags:
+      - {motif: god-roars-from-on-high, refs: ["Jer 25:30"], note: "hedad ke-dorekhim: the treaders' vintage shout"}
+      - {motif: covenant-lawsuit, refs: ["Jer 25:31"], note: "YHWH has a riv with the nations, entering judgment with all flesh"}
+      - {motif: storm-of-yhwhs-wrath, refs: ["Jer 25:32"], note: "a great storm stirs from the remotest parts of the earth"}
+      - {motif: unburied-corpses-food-for-birds, refs: ["Jer 25:33"], note: "slain of YHWH from end to end of the earth, unlamented, unburied, dung on the ground"}
+      - {motif: shepherds-wail-in-ashes, refs: ["Jer 25:34", "Jer 25:35", "Jer 25:36", "Jer 25:37"], note: "you will fall like a precious vessel"}
+      - {motif: god-as-lion-leaving-lair, refs: ["Jer 25:38"], note: "haron ha-yonah: 'the fury of the oppressor', or 'of the dove'"}
+    hints:
+      - "Amos 1:2 and Joel 4:16 (YHWH roars from Zion); Isa 63:1-6 treading the winepress; Revelation 19:15."
