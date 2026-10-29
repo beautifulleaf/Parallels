@@ -243,6 +243,89 @@ new_motifs:
   old-people-and-children-fill-streets: {label: "Old men and women with staffs sit again in Jerusalem's squares and boys and girls play in its streets", cluster: eschatology}
   four-fasts-turned-to-feasts: {label: "The fasts of the fourth, fifth, seventh and tenth months will become joy and festivals", cluster: liturgy}
   ten-gentiles-grasp-hem-of-jew: {label: "Ten men of every tongue will grasp the corner of a Jew's garment: 'Let us go with you, for we have heard God is with you'", cluster: eschatology}
+  tyre-heaps-silver-like-dust: {label: "Tyre builds a fortress and heaps up silver like dust and gold like street mud, yet will be burned", cluster: prophecy}
+  mamzer-dwells-in-ashdod: {label: "A mixed or illegitimate people (mamzer) will dwell in Ashdod", cluster: prophecy}
+  philistine-remnant-incorporated-into-judah: {label: "God removes blood and abominations from the Philistine's mouth; the remnant becomes like a clan in Judah, Ekron like the Jebusites", cluster: eschatology}
+  humble-king-rides-donkey-colt: {label: "Zion's king comes righteous and victorious, humble and riding on a donkey, on a colt the foal of a she-ass", cluster: messianism}
+  dominion-from-sea-to-sea: {label: "The king speaks peace to the nations and rules from sea to sea and from the River to the ends of the earth", cluster: messianism}
+  prisoners-of-hope-from-waterless-pit: {label: "By the blood of the covenant God frees the prisoners from the waterless pit; 'prisoners of hope' return to the stronghold", cluster: theology}
+  zion-against-sons-of-javan: {label: "God rouses the sons of Zion against the sons of Javan (Greece)", cluster: prophecy}
+  warriors-drink-blood-like-altar-basins: {label: "God's warriors trample sling-stones, drink and roar as with wine, and are filled like sacrificial basins at the altar corners", cluster: warfare}
+  ask-yhwh-for-latter-rain: {label: "Ask YHWH for rain in the season of the latter rain; he makes the storm clouds", cluster: nature}
+  teraphim-and-diviners-speak-lies: {label: "Teraphim speak deceit, diviners see lies and tell false dreams", cluster: divination}
+  cornerstone-and-tent-peg-from-judah: {label: "From Judah will come the cornerstone, the tent peg, the battle bow and every ruler", cluster: messianism}
+  god-whistles-to-gather-exiles: {label: "God whistles (sharaq) for his scattered people to gather them", cluster: eschatology}
+  new-exodus-through-sea-nile-dried: {label: "A new exodus: God passes through the sea of distress, strikes the waves and dries the depths of the Nile, bringing them back from Egypt and Assyria", cluster: eschatology}
+  trees-wail-for-fallen-cedars: {label: "Lebanon opens its doors to fire; cypresses and oaks of Bashan are told to wail because the cedar has fallen", cluster: prophecy}
+  shepherd-of-flock-doomed-to-slaughter: {label: "The prophet is told to shepherd 'the flock of slaughter' whose buyers kill them guiltless and sellers say 'Blessed be YHWH, I am rich'", cluster: prophecy}
+  two-staffs-favor-and-union: {label: "The shepherd takes two staffs named Favor (No'am) and Union (Hovlim) and later breaks them to annul a covenant and the brotherhood of Judah and Israel", cluster: prophecy}
+  three-shepherds-cut-off-in-one-month: {label: "The shepherd destroys three shepherds in one month", cluster: prophecy}
+  thirty-silver-thrown-to-potter-in-temple: {label: "The shepherd's wage of thirty silver pieces, 'the lordly price', is thrown to the potter (or treasury) in the house of YHWH", cluster: prophecy}
+  worthless-shepherd-arm-withered-eye-blinded: {label: "Woe to the worthless shepherd who deserts the flock: a sword on his arm and right eye, his arm withered and eye blinded", cluster: prophecy}
+  god-forms-human-spirit-within: {label: "God who stretches out the heavens, founds the earth and forms the spirit of man within him", cluster: creation}
+  jerusalem-heavy-stone-for-nations: {label: "Jerusalem becomes a heavy stone that wounds all the nations who try to lift it", cluster: eschatology}
+  horses-struck-with-panic-and-blindness: {label: "God strikes the enemy's horses with panic and blindness and their riders with madness", cluster: warfare}
+  feeblest-like-david-house-of-david-like-god: {label: "The feeblest in Jerusalem will be like David, and the house of David like God, like the angel of YHWH before them", cluster: messianism}
+  spirit-of-grace-and-supplication-poured: {label: "God pours on the house of David and Jerusalem a spirit of grace and supplication", cluster: eschatology}
+  mourning-for-the-pierced-one: {label: "They look on 'me (or him) whom they pierced' and mourn him as for an only son, bitterly as for a firstborn", cluster: messianism}
+  mourning-of-hadad-rimmon-at-megiddo: {label: "The great mourning is compared to the mourning of (or for) Hadad-rimmon in the plain of Megiddo", cluster: mourning}
+  families-mourn-separately-men-and-women: {label: "The land mourns family by family, each apart, and the men apart from the women (David, Nathan, Levi, Shimei)", cluster: mourning}
+  fountain-opened-for-sin-and-impurity: {label: "A fountain is opened for the house of David and Jerusalem to cleanse sin and menstrual impurity (niddah)", cluster: eschatology}
+  prophets-and-unclean-spirit-removed: {label: "In that day God cuts off the names of idols and removes the prophets and the spirit of impurity from the land", cluster: prophecy}
+  parents-pierce-prophesying-son: {label: "If anyone still prophesies, his own father and mother will pierce him through for speaking falsely in God's name", cluster: prophecy}
+  hairy-mantle-of-prophet: {label: "Prophets wear a hairy mantle (adderet se'ar) as a mark of office, here to deceive", cluster: prophecy}
+  i-am-no-prophet-but-farmer: {label: "Disclaimer: 'I am no prophet; I am a tiller of the soil'", cluster: prophecy}
+  wounds-between-the-hands: {label: "Asked about the wounds 'between your hands', the man says 'I was struck in the house of my friends (lovers)'", cluster: prophecy}
+  strike-shepherd-sheep-scatter: {label: "'Awake, sword, against my shepherd, the man who is my fellow; strike the shepherd and the sheep will scatter'", cluster: messianism}
+  third-refined-like-silver: {label: "Two-thirds perish and one third is brought through fire, refined like silver and tested like gold", cluster: eschatology}
+  nations-gathered-to-sack-jerusalem: {label: "God gathers all nations to battle against Jerusalem: the city is taken, houses plundered, women raped, half exiled", cluster: eschatology}
+  mount-of-olives-splits-under-gods-feet: {label: "God's feet stand on the Mount of Olives, which splits east to west into a great valley, half moving north and half south", cluster: eschatology}
+  earthquake-in-days-of-uzziah: {label: "The great earthquake in the days of King Uzziah is remembered as a reference point", cluster: history}
+  god-comes-with-all-holy-ones: {label: "YHWH comes and all the holy ones (angels) with him", cluster: eschatology}
+  day-neither-day-nor-night-light-at-evening: {label: "A unique day known to YHWH, neither day nor night, without light, cold and frost; at evening there will be light", cluster: eschatology}
+  living-waters-flow-from-jerusalem: {label: "Living waters flow out from Jerusalem, half to the eastern sea and half to the western sea, summer and winter", cluster: eschatology}
+  yhwh-one-and-name-one: {label: "YHWH will be king over all the earth; in that day YHWH will be one and his name one", cluster: eschatology}
+  land-leveled-jerusalem-raised: {label: "The whole land is leveled like the Arabah while Jerusalem is raised up on its site", cluster: eschatology}
+  flesh-rots-while-standing: {label: "Plague on Jerusalem's attackers: their flesh, eyes and tongues rot while they stand on their feet", cluster: eschatology}
+  nations-keep-sukkot-in-jerusalem: {label: "Survivors of the nations go up yearly to Jerusalem to bow to the King, YHWH of hosts, and keep the feast of Booths", cluster: eschatology}
+  no-rain-for-nations-not-keeping-sukkot: {label: "Families of the earth that do not go up for Sukkot get no rain; Egypt is struck with plague", cluster: eschatology}
+  holy-to-yhwh-on-horse-bells: {label: "In that day 'Holy to YHWH' is inscribed on the horses' bells and every pot in Jerusalem becomes holy", cluster: eschatology}
+  no-trader-in-house-of-yhwh: {label: "There will no longer be a Canaanite (trader) in the house of YHWH", cluster: temple}
+  book-named-my-messenger: {label: "A prophetic book is headed 'by the hand of Malakhi' ('my messenger'), a name or title", cluster: prophecy}
+  jacob-loved-esau-hated: {label: "God says 'I loved Jacob, but Esau I hated', laying Edom's mountains waste", cluster: theology}
+  disputation-question-and-answer: {label: "Disputation form: God states a claim, the people object 'How have you...?', and God answers", cluster: literary}
+  edom-builds-god-tears-down: {label: "If Edom rebuilds its ruins God will tear down; it will be called 'territory of wickedness'", cluster: prophecy}
+  god-as-father-and-master-demands-honor: {label: "A son honors his father and a servant his master: 'If I am a father, where is my honor?'", cluster: theology}
+  altar-called-table-of-yhwh: {label: "The altar is called 'the table of YHWH' and the offering 'bread' (lehem)", cluster: cult}
+  offer-it-to-your-governor: {label: "'Offer that to your governor; would he accept you?': sarcastic comparison of God and a human ruler", cluster: cult}
+  better-to-shut-temple-doors: {label: "God wishes someone would shut the temple doors rather than kindle the altar in vain", cluster: cult}
+  pure-offering-among-nations-in-every-place: {label: "From sunrise to sunset God's name is great among the nations and in every place incense and a pure offering are brought to his name", cluster: theology}
+  god-the-great-king: {label: "God calls himself 'a great king' (melekh gadol) whose name is feared among the nations", cluster: theology}
+  dung-of-feasts-spread-on-priests-faces: {label: "God will spread the dung of the festival sacrifices on the priests' faces", cluster: curse}
+  covenant-with-levi: {label: "God's covenant of life and peace with Levi, who revered God, had true Torah in his mouth and turned many from iniquity", cluster: priesthood}
+  priest-as-messenger-of-yhwh: {label: "The priest's lips guard knowledge and people seek Torah from his mouth, for he is the messenger (malakh) of YHWH of hosts", cluster: priesthood}
+  one-father-one-god-created-us: {label: "'Have we not all one father? Has not one God created us? Why do we deal treacherously with one another?'", cluster: theology}
+  altar-covered-with-tears: {label: "The people cover God's altar with tears, weeping and groaning because he no longer accepts their offering", cluster: cult}
+  god-witness-to-marriage-covenant: {label: "God is witness between a man and the wife of his youth, his companion and 'wife of your covenant'", cluster: marriage}
+  god-hates-divorce: {label: "'I hate sending away (divorce)', says YHWH, and covering one's garment with violence", cluster: marriage}
+  where-is-the-god-of-justice: {label: "The people weary God saying 'Everyone who does evil is good in his eyes' or 'Where is the God of justice?'", cluster: theodicy}
+  messenger-prepares-the-way: {label: "'Behold, I send my messenger and he will clear the way before me'", cluster: eschatology}
+  messenger-of-covenant-comes-to-temple: {label: "The Lord whom you seek will suddenly come to his temple, the messenger of the covenant in whom you delight", cluster: eschatology}
+  refiners-fire-and-fullers-soap: {label: "The coming one is like a refiner's fire and fuller's lye; he sits refining and purifies the sons of Levi like gold and silver", cluster: eschatology}
+  swift-witness-against-sorcerers-and-oppressors: {label: "God draws near for judgment as a swift witness against sorcerers, adulterers, perjurers and those who cheat the hired worker, widow, orphan and stranger", cluster: ethics}
+  god-does-not-change: {label: "'I YHWH do not change; therefore you sons of Jacob are not consumed'", cluster: theology}
+  robbing-god-in-tithes: {label: "'Will a man rob God? Yet you rob me' in tithes and offerings", cluster: cult}
+  test-god-with-tithes-windows-of-heaven: {label: "Bring the whole tithe to the storehouse and test God: he will open the windows of heaven and pour out blessing without limit", cluster: cult}
+  futile-to-serve-god-complaint: {label: "Complaint: 'It is vain to serve God; what profit that we kept his charge? The arrogant are blessed and the wicked test God and escape'", cluster: theodicy}
+  book-of-remembrance-for-god-fearers: {label: "A book of remembrance is written before God for those who fear him and think on his name", cluster: eschatology}
+  god-spares-them-as-man-spares-son: {label: "God will spare the faithful as a man spares the son who serves him, on the day he makes his treasured possession", cluster: theology}
+  day-burning-like-oven-root-and-branch: {label: "The day comes burning like an oven; the arrogant and evildoers become stubble, left neither root nor branch", cluster: eschatology}
+  sun-of-righteousness-healing-in-wings: {label: "For those who fear God the sun of righteousness will rise with healing in its wings (kenafeha)", cluster: eschatology}
+  righteous-leap-like-stall-calves-tread-wicked: {label: "The righteous go out leaping like stall-fed calves and tread the wicked like ashes under their feet", cluster: eschatology}
+  remember-torah-of-moses-at-horeb: {label: "Remember the Torah of Moses my servant, commanded at Horeb for all Israel", cluster: law}
+  elijah-sent-before-day-of-yhwh: {label: "God will send Elijah the prophet before the great and terrible day of YHWH", cluster: eschatology}
+  hearts-of-fathers-turned-to-sons: {label: "Elijah will turn the hearts of fathers to their sons and of sons to their fathers, lest God strike the land with a ban (herem)", cluster: eschatology}
+  book-ends-on-curse-word-repeated-verse: {label: "A book ends on a harsh word, so synagogue reading repeats the previous verse (Isaiah, Malachi, Lamentations, Ecclesiastes)", cluster: liturgy}
 units:
   - id: hb-obad-1-edom-brought-down
     tradition: judaism
@@ -1041,3 +1124,276 @@ units:
       - {motif: ten-gentiles-grasp-hem-of-jew, refs: ["Zech 8:23"]}
     hints:
       - "The four fasts are traditionally 17 Tammuz, 9 Av, the Fast of Gedaliah and 10 Tevet (b. Rosh Hashanah 18b). Zech 8:16 is cited in m. Avot 1:18 (truth, judgment and peace). Zech 8:23 and the kanaf (tassel corner) of Num 15:38; Matt 9:20 (the woman touches the hem of Jesus' garment)."
+  - id: hb-zech-9-against-neighbors
+    tradition: judaism
+    title: Oracle against Hadrach, Tyre and Philistia
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 9:1-8"]
+    tags:
+      - {motif: oracles-against-nations, refs: ["Zech 9:1", "Zech 9:2", "Zech 9:5"], note: "Hadrach, Damascus, Hamath, Tyre, Sidon, Ashkelon, Gaza, Ekron, Ashdod"}
+      - {motif: tyre-heaps-silver-like-dust, refs: ["Zech 9:3", "Zech 9:4"], note: "Tyre builds a matsor, punning on Tsor"}
+      - {motif: mamzer-dwells-in-ashdod, refs: ["Zech 9:6"]}
+      - {motif: philistine-remnant-incorporated-into-judah, refs: ["Zech 9:7"], note: "blood and detestable food removed from between his teeth"}
+      - {motif: wisdom-of-edom-teman, refs: ["Zech 9:2"], note: "loosely: Tyre and Sidon 'very wise'"}
+    hints:
+      - "Often linked to Alexander's march (332 BCE) and siege of Tyre (Arrian, Anabasis 2.15-24). Ezek 28 (wisdom and wealth of Tyre)."
+  - id: hb-zech-9-king-on-a-donkey
+    tradition: judaism
+    title: Zion's humble king on a donkey; sons of Zion against Javan
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 9:9-17"]
+    tags:
+      - {motif: humble-king-rides-donkey-colt, refs: ["Zech 9:9"], note: "tsaddiq ve-nosha', ani"}
+      - {motif: messianic-vine-and-ass, refs: ["Zech 9:9"], note: "'ir ben atonot echoes Gen 49:11"}
+      - {motif: god-ends-wars-breaks-bow-burns-chariots, refs: ["Zech 9:10"]}
+      - {motif: dominion-from-sea-to-sea, refs: ["Zech 9:10"], note: "= Ps 72:8"}
+      - {motif: prisoners-of-hope-from-waterless-pit, refs: ["Zech 9:11", "Zech 9:12"]}
+      - {motif: zion-against-sons-of-javan, refs: ["Zech 9:13"]}
+      - {motif: divine-arrows, refs: ["Zech 9:14"], note: "arrow like lightning, shofar, storms of Teman"}
+      - {motif: warriors-drink-blood-like-altar-basins, refs: ["Zech 9:15"]}
+      - {motif: god-as-shepherd, refs: ["Zech 9:16"]}
+    hints:
+      - "Matt 21:5 and John 12:15 quote Zech 9:9 for the entry into Jerusalem (Matthew has two animals). b. Sanh. 98a: if Israel is worthy the Messiah comes on the clouds (Dan 7), if not, poor and riding on a donkey. Hellenistic-era reading of 'Javan'."
+  - id: hb-zech-10-rain-and-regathering
+    tradition: judaism
+    title: Rain from YHWH, false teraphim and the regathering of Judah and Joseph
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 10:1-12"]
+    tags:
+      - {motif: ask-yhwh-for-latter-rain, refs: ["Zech 10:1"]}
+      - {motif: teraphim-and-diviners-speak-lies, refs: ["Zech 10:2"]}
+      - {motif: sheep-without-shepherd, refs: ["Zech 10:2", "Zech 10:3"]}
+      - {motif: cornerstone-and-tent-peg-from-judah, refs: ["Zech 10:4"]}
+      - {motif: god-whistles-to-gather-exiles, refs: ["Zech 10:8"]}
+      - {motif: ingathering-of-exiles, refs: ["Zech 10:6", "Zech 10:9", "Zech 10:10"], note: "house of Joseph included; Gilead and Lebanon"}
+      - {motif: new-exodus-through-sea-nile-dried, refs: ["Zech 10:11"]}
+    hints:
+      - "Targum Jonathan renders the cornerstone and tent peg of 10:4 as king and Messiah. Isa 5:26 and 7:18 (God whistles for nations)."
+  - id: hb-zech-11-shepherd-allegory
+    tradition: judaism
+    title: The shepherd of the flock of slaughter, two staffs and thirty pieces of silver
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 11:1-17"]
+    tags:
+      - {motif: trees-wail-for-fallen-cedars, refs: ["Zech 11:1", "Zech 11:2", "Zech 11:3"], note: "also shepherds wail and young lions roar"}
+      - {motif: shepherd-of-flock-doomed-to-slaughter, refs: ["Zech 11:4", "Zech 11:5", "Zech 11:7"]}
+      - {motif: two-staffs-favor-and-union, refs: ["Zech 11:7", "Zech 11:10", "Zech 11:14"]}
+      - {motif: three-shepherds-cut-off-in-one-month, refs: ["Zech 11:8"]}
+      - {motif: siege-cannibalism, refs: ["Zech 11:9"], note: "the survivors devour one another's flesh"}
+      - {motif: thirty-shekels-price-of-slave, refs: ["Zech 11:12"]}
+      - {motif: thirty-silver-thrown-to-potter-in-temple, refs: ["Zech 11:13"], note: "'adder ha-yeqar, the lordly price'; Syriac/Peshitta reads 'treasury' ('otsar) for 'potter' (yotser)"}
+      - {motif: worthless-shepherd-arm-withered-eye-blinded, refs: ["Zech 11:15", "Zech 11:16", "Zech 11:17"]}
+    hints:
+      - "Matt 26:15 and 27:3-10 (Judas' thirty silver thrown in the temple, the potter's field; attributed to Jeremiah). b. Taanit 9a reads the three shepherds as Moses, Aaron and Miriam who died in one month. Exod 21:32 (thirty shekels for a gored slave)."
+  - id: hb-zech-12-the-pierced-one
+    tradition: judaism
+    title: Jerusalem a cup of reeling; mourning for the one they pierced
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 12:1-14"]
+    tags:
+      - {motif: god-forms-human-spirit-within, refs: ["Zech 12:1"]}
+      - {motif: cup-of-wrath, refs: ["Zech 12:2"], note: "saf ra'al, bowl of reeling"}
+      - {motif: jerusalem-heavy-stone-for-nations, refs: ["Zech 12:3"]}
+      - {motif: horses-struck-with-panic-and-blindness, refs: ["Zech 12:4"]}
+      - {motif: madness-blindness-groping-at-noon, refs: ["Zech 12:4"], note: "timmahon, shiggaon, 'ivvaron: the Deut 28:28 triad"}
+      - {motif: feeblest-like-david-house-of-david-like-god, refs: ["Zech 12:8"]}
+      - {motif: spirit-of-grace-and-supplication-poured, refs: ["Zech 12:10"]}
+      - {motif: mourning-for-the-pierced-one, refs: ["Zech 12:10"], note: "ve-hibbitu elai et asher daqaru"}
+      - {motif: mourning-of-hadad-rimmon-at-megiddo, refs: ["Zech 12:11"]}
+      - {motif: families-mourn-separately-men-and-women, refs: ["Zech 12:12", "Zech 12:13", "Zech 12:14"]}
+    hints:
+      - "John 19:37 and Rev 1:7 cite Zech 12:10. b. Sukkah 52a applies the pierced one to Messiah son of Joseph and derives the separate women's gallery at the water-drawing celebration from 12:12. Hadad-rimmon recalls rites for the storm god Hadad/Rimmon (cf. Tammuz wailing, Ezek 8:14), or the lament for Josiah slain at Megiddo (2Chr 35:22-25, Targum)."
+  - id: hb-zech-13-fountain-and-shepherd
+    tradition: judaism
+    title: A cleansing fountain, the end of prophecy, and the struck shepherd
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 13:1-9"]
+    tags:
+      - {motif: fountain-opened-for-sin-and-impurity, refs: ["Zech 13:1"]}
+      - {motif: destroy-idols-and-high-places, refs: ["Zech 13:2"], note: "the names of idols cut off and not remembered"}
+      - {motif: prophets-and-unclean-spirit-removed, refs: ["Zech 13:2"], note: "ruah ha-tum'ah"}
+      - {motif: parents-pierce-prophesying-son, refs: ["Zech 13:3"]}
+      - {motif: false-prophet-death, refs: ["Zech 13:3"]}
+      - {motif: hairy-mantle-of-prophet, refs: ["Zech 13:4"]}
+      - {motif: i-am-no-prophet-but-farmer, refs: ["Zech 13:5"]}
+      - {motif: wounds-between-the-hands, refs: ["Zech 13:6"], note: "self-laceration of ecstatic prophets (cf. 1Kgs 18:28)"}
+      - {motif: strike-shepherd-sheep-scatter, refs: ["Zech 13:7"]}
+      - {motif: third-refined-like-silver, refs: ["Zech 13:8", "Zech 13:9"]}
+      - {motif: mutual-covenant-declaration, refs: ["Zech 13:9"], note: "'I will say: He is my people; and he will say: YHWH is my God'"}
+    hints:
+      - "Mark 14:27 / Matt 26:31 quote Zech 13:7 at the disciples' flight. Damascus Document (CD 19:7-9) cites it too. Amos 7:14 ('I am no prophet'). 2Kgs 1:8 (Elijah's hairy garment), Matt 3:4 (John's camel hair). t. Sotah 13 and b. Bava Batra 12b on the cessation of prophecy."
+  - id: hb-zech-14-day-on-mount-of-olives
+    tradition: judaism
+    title: The final day on the Mount of Olives; living waters; Sukkot for the nations
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Zech 14:1-21"]
+    tags:
+      - {motif: day-of-yhwh, refs: ["Zech 14:1"]}
+      - {motif: nations-gathered-to-sack-jerusalem, refs: ["Zech 14:2"]}
+      - {motif: divine-warrior, refs: ["Zech 14:3"]}
+      - {motif: mount-of-olives-splits-under-gods-feet, refs: ["Zech 14:4", "Zech 14:5"]}
+      - {motif: earthquake-in-days-of-uzziah, refs: ["Zech 14:5"]}
+      - {motif: god-comes-with-all-holy-ones, refs: ["Zech 14:5"]}
+      - {motif: day-neither-day-nor-night-light-at-evening, refs: ["Zech 14:6", "Zech 14:7"]}
+      - {motif: living-waters-flow-from-jerusalem, refs: ["Zech 14:8"]}
+      - {motif: yhwh-one-and-name-one, refs: ["Zech 14:9"]}
+      - {motif: shema-god-is-one, refs: ["Zech 14:9"]}
+      - {motif: land-leveled-jerusalem-raised, refs: ["Zech 14:10"], note: "Geba to Rimmon; Benjamin Gate, Corner Gate, Tower of Hananel, king's winepresses"}
+      - {motif: flesh-rots-while-standing, refs: ["Zech 14:12", "Zech 14:15"], note: "horses, mules, camels and donkeys too"}
+      - {motif: earthquake-panic-enemy-kill-each-other, refs: ["Zech 14:13"], note: "mehumat YHWH"}
+      - {motif: treasures-of-nations-fill-temple, refs: ["Zech 14:14"], note: "wealth of the nations gathered: gold, silver, garments"}
+      - {motif: nations-keep-sukkot-in-jerusalem, refs: ["Zech 14:16"]}
+      - {motif: booths-festival-seven-days, refs: ["Zech 14:16", "Zech 14:18", "Zech 14:19"]}
+      - {motif: no-rain-for-nations-not-keeping-sukkot, refs: ["Zech 14:17", "Zech 14:18", "Zech 14:19"]}
+      - {motif: holy-to-yhwh-on-horse-bells, refs: ["Zech 14:20", "Zech 14:21"]}
+      - {motif: gold-plate-holy-to-yhwh, refs: ["Zech 14:20"], note: "the high priest's inscription extended to horse bells and pots"}
+      - {motif: no-trader-in-house-of-yhwh, refs: ["Zech 14:21"]}
+    hints:
+      - "Zech 14:9 closes the Aleinu prayer. Zech 14 is the haftarah of the first day of Sukkot; the water libation and rain prayers of Sukkot (m. Sukkah 4-5). Ezek 47 and Rev 22:1 (river from the temple); Joel 4:18. Acts 1:11-12 (return to the Mount of Olives); Jewish burial on the Mount of Olives. John 2:16 (no trading in my Father's house). Josephus, Ant. 9.225 (Uzziah's earthquake split a hill west of Jerusalem). Amos 1:1 (earthquake)."
+  - id: hb-mal-1-jacob-and-esau
+    tradition: judaism
+    title: I loved Jacob, Esau I hated
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mal 1:1-5"]
+    tags:
+      - {motif: book-named-my-messenger, refs: ["Mal 1:1"]}
+      - {motif: jacob-loved-esau-hated, refs: ["Mal 1:2", "Mal 1:3"]}
+      - {motif: disputation-question-and-answer, refs: ["Mal 1:2"], note: "'You say: How have you loved us?'"}
+      - {motif: edom-builds-god-tears-down, refs: ["Mal 1:4"]}
+    hints:
+      - "Rom 9:13 quotes Mal 1:2-3. b. Megillah 15a identifies Malachi with Ezra or Mordecai; Targum adds 'whose name is Ezra the scribe'."
+  - id: hb-mal-1-blemished-offerings
+    tradition: judaism
+    title: Priests who despise God's name with blemished offerings
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mal 1:6-14"]
+    tags:
+      - {motif: god-as-father-and-master-demands-honor, refs: ["Mal 1:6"]}
+      - {motif: disputation-question-and-answer, refs: ["Mal 1:6", "Mal 1:7"]}
+      - {motif: altar-called-table-of-yhwh, refs: ["Mal 1:7", "Mal 1:12"]}
+      - {motif: blemished-animal-not-sacrificed, refs: ["Mal 1:8", "Mal 1:13", "Mal 1:14"], note: "blind, lame, sick, stolen; a cheat who vows a male and offers a blemished one"}
+      - {motif: offer-it-to-your-governor, refs: ["Mal 1:8"], note: "pehah, the Persian governor"}
+      - {motif: better-to-shut-temple-doors, refs: ["Mal 1:10"]}
+      - {motif: pure-offering-among-nations-in-every-place, refs: ["Mal 1:11"]}
+      - {motif: god-the-great-king, refs: ["Mal 1:14"]}
+    hints:
+      - "Mal 1:11 became a proof text for the Christian Eucharist as the 'pure sacrifice' (Didache 14; Justin, Dialogue 41; Council of Trent). Rabbinic readings (b. Menahot 110a) apply it to Torah scholars or to prayer in the diaspora."
+  - id: hb-mal-2-covenant-with-levi
+    tradition: judaism
+    title: The covenant with Levi and the corrupt priests
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mal 2:1-9"]
+    tags:
+      - {motif: curse-and-oath-to-keep-torah, refs: ["Mal 2:2"], note: "loosely: God will curse their blessings"}
+      - {motif: dung-of-feasts-spread-on-priests-faces, refs: ["Mal 2:3"]}
+      - {motif: covenant-with-levi, refs: ["Mal 2:4", "Mal 2:5", "Mal 2:6"]}
+      - {motif: priest-as-messenger-of-yhwh, refs: ["Mal 2:7"]}
+      - {motif: priests-and-prophets-for-hire, refs: ["Mal 2:8", "Mal 2:9"], note: "showing partiality in Torah"}
+    hints:
+      - "m. Avot 1:12 (Aaron loved peace and pursued peace) builds on Mal 2:6. Deut 33:8-11 (blessing of Levi); Num 25:12-13 (covenant of peace with Phinehas). Aramaic Levi Document and Testament of Levi."
+  - id: hb-mal-2-faithless-marriage
+    tradition: judaism
+    title: One father, one God; foreign wives and the wife of one's youth
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mal 2:10-16"]
+    tags:
+      - {motif: one-father-one-god-created-us, refs: ["Mal 2:10"]}
+      - {motif: intermarriage-leads-to-idolatry, refs: ["Mal 2:11"], note: "'married the daughter of a foreign god'"}
+      - {motif: altar-covered-with-tears, refs: ["Mal 2:13"]}
+      - {motif: god-witness-to-marriage-covenant, refs: ["Mal 2:14"]}
+      - {motif: god-hates-divorce, refs: ["Mal 2:15", "Mal 2:16"], note: "obscure 2:15 'did not one make... seeking seed of God'"}
+      - {motif: bill-of-divorce, refs: ["Mal 2:16"], note: "shallah, sending away"}
+    hints:
+      - "b. Gittin 90b: 'the altar sheds tears over one who divorces the wife of his youth'. Matt 19:3-9 and Mark 10 (divorce and 'from the beginning'). Ezra 9-10 and Neh 13:23-27 (foreign wives). 4Q271 and CD 4 (Qumran marriage rules)."
+  - id: hb-mal-2-messenger-of-the-covenant
+    tradition: judaism
+    title: Where is the God of justice? The messenger who prepares the way
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mal 2:17-3:5"]
+    tags:
+      - {motif: where-is-the-god-of-justice, refs: ["Mal 2:17"]}
+      - {motif: messenger-prepares-the-way, refs: ["Mal 3:1"], note: "mal'akhi, the book's name; ufinnah derekh, as Isa 40:3"}
+      - {motif: messenger-of-covenant-comes-to-temple, refs: ["Mal 3:1"]}
+      - {motif: who-can-stand-before-gods-wrath, refs: ["Mal 3:2"], note: "'who can endure the day of his coming?'"}
+      - {motif: refiners-fire-and-fullers-soap, refs: ["Mal 3:2", "Mal 3:3"]}
+      - {motif: swift-witness-against-sorcerers-and-oppressors, refs: ["Mal 3:5"]}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["Mal 3:5"]}
+    hints:
+      - "Mark 1:2, Matt 11:10 and Luke 7:27 apply Mal 3:1 to John the Baptist; Luke 2:22-38 (the Lord comes to his temple). Exod 23:20 ('I send an angel before you') is the model. Handel's Messiah ('But who may abide', 'And he shall purify'). Elijah as 'angel of the covenant' at circumcision (Pirqe de-Rabbi Eliezer 29; chair of Elijah)."
+  - id: hb-mal-3-tithes
+    tradition: judaism
+    title: Return to me; will a man rob God? Test me with the tithe
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mal 3:6-12"]
+    tags:
+      - {motif: god-does-not-change, refs: ["Mal 3:6"]}
+      - {motif: return-to-me-and-i-will-return, refs: ["Mal 3:7"]}
+      - {motif: disputation-question-and-answer, refs: ["Mal 3:7", "Mal 3:8"]}
+      - {motif: robbing-god-in-tithes, refs: ["Mal 3:8", "Mal 3:9"], note: "qava', rob, perhaps a play on Jacob (aqav)"}
+      - {motif: tithe-to-levites, refs: ["Mal 3:10"], note: "the whole tithe to the storehouse (beit ha-otsar)"}
+      - {motif: test-god-with-tithes-windows-of-heaven, refs: ["Mal 3:10"]}
+      - {motif: heavenly-storehouse-of-rain, refs: ["Mal 3:10"], note: "arubbot ha-shamayim, as in the flood (Gen 7:11)"}
+      - {motif: locust-worm-cricket-devour, refs: ["Mal 3:11"], note: "God rebukes 'the devourer'"}
+    hints:
+      - "b. Taanit 9a: tithing is the one commandment in which one may test God ('aser bishvil she-tit'asher'). Neh 10:38-40 and 13:10-12 (tithes brought to the storehouse chambers). Deut 6:16 (do not test God) is the contrast."
+  - id: hb-mal-3-book-of-remembrance
+    tradition: judaism
+    title: The book of remembrance and the sun of righteousness
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mal 3:13-21"]
+    tags:
+      - {motif: futile-to-serve-god-complaint, refs: ["Mal 3:13", "Mal 3:14", "Mal 3:15"], note: "walking in mourning (qedorannit) before God brought no gain"}
+      - {motif: why-do-the-wicked-prosper, refs: ["Mal 3:15"]}
+      - {motif: book-of-remembrance-for-god-fearers, refs: ["Mal 3:16"]}
+      - {motif: chosen-treasured-people, refs: ["Mal 3:17"], note: "segullah on the day God acts"}
+      - {motif: god-spares-them-as-man-spares-son, refs: ["Mal 3:17"]}
+      - {motif: day-of-yhwh, refs: ["Mal 3:19"]}
+      - {motif: day-burning-like-oven-root-and-branch, refs: ["Mal 3:19"]}
+      - {motif: sun-of-righteousness-healing-in-wings, refs: ["Mal 3:20"]}
+      - {motif: righteous-leap-like-stall-calves-tread-wicked, refs: ["Mal 3:20", "Mal 3:21"]}
+    hints:
+      - "The winged sun disk of Egyptian, Assyrian and Achaemenid iconography (Ahura Mazda's faravahar) is commonly compared with Mal 3:20. Charles Wesley's 'Risen with healing in his wings'; Luke 1:78 (dayspring). Esth 6:1 and Dan 7:10, Rev 20:12 (books of record); Ps 56:9."
+  - id: hb-mal-3-elijah-before-the-day
+    tradition: judaism
+    title: Remember Moses; Elijah sent before the great day
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["Mal 3:22-24"]
+    tags:
+      - {motif: remember-torah-of-moses-at-horeb, refs: ["Mal 3:22"]}
+      - {motif: elijah-sent-before-day-of-yhwh, refs: ["Mal 3:23"]}
+      - {motif: day-of-yhwh, refs: ["Mal 3:23"], note: "'the great and terrible day'"}
+      - {motif: hearts-of-fathers-turned-to-sons, refs: ["Mal 3:24"]}
+      - {motif: book-ends-on-curse-word-repeated-verse, refs: ["Mal 3:24"], note: "the Prophets end with herem; v. 23 is reread in the synagogue"}
+      - {motif: messenger-prepares-the-way, refs: ["Mal 3:23"], note: "Elijah identified with the messenger of 3:1"}
+    hints:
+      - "Sir 48:10 (Elijah to restore the tribes of Jacob); Luke 1:17 (John comes in the spirit and power of Elijah); Matt 11:14, 17:10-13 and Mark 9:11-13. m. Eduyot 8:7 (Elijah comes not to declare clean or unclean but to make peace); Elijah's cup at the Passover seder; 'teiku' (Elijah will resolve undecided questions). Quran 6:85 and 37:123-132 name Ilyas among the prophets, though not his return. LXX and Christian Bibles place this passage at the end of the Old Testament as a bridge to the Gospels."

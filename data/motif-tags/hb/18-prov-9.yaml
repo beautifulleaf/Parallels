@@ -947,6 +947,582 @@ new_motifs:
   children-and-husband-praise-wife:
     label: 'Her children rise up and call her blessed; her husband praises her: ''Many women have done valiantly, but you surpass them all'''
     cluster: wisdom
+  qohelet-son-of-david-king-in-jerusalem:
+    label: The speaker Qohelet ('the assembler') is presented as son of David and king over Israel in Jerusalem (royal fiction)
+    cluster: wisdom
+  vanity-of-vanities:
+    label: '''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience)'
+    cluster: wisdom
+  what-profit-under-the-sun:
+    label: What profit (yitron) has a man from all his toil under the sun?
+    cluster: wisdom
+  generations-pass-earth-remains:
+    label: A generation goes and a generation comes, but the earth stands forever
+    cluster: wisdom
+  cyclical-cosmos-sun-wind-rivers:
+    label: 'Endless cycles: the sun rises and pants back to its place, the wind circles, rivers run to the sea which is never full'
+    cluster: cosmology
+  eye-never-sated-with-seeing:
+    label: All things are wearisome; the eye is not sated with seeing nor the ear filled with hearing
+    cluster: wisdom
+  nothing-new-under-the-sun:
+    label: What has been is what will be; there is nothing new under the sun
+    cluster: wisdom
+  no-remembrance-of-former-or-latter:
+    label: There is no remembrance of former people nor will there be of those yet to come
+    cluster: wisdom
+  unhappy-business-given-by-god:
+    label: God has given humans an evil task ('inyan ra') to be busy with
+    cluster: wisdom
+  chasing-the-wind:
+    label: All is vapor and a chasing (or feeding on) wind (re'ut ruah)
+    cluster: wisdom
+  crooked-cannot-be-straightened:
+    label: What is crooked cannot be made straight, and what is lacking cannot be counted
+    cluster: wisdom
+  king-surpasses-all-before-him-in-wisdom:
+    label: The king says he acquired more wisdom (or wealth) than all who were before him in Jerusalem
+    cluster: wisdom
+  much-wisdom-much-grief:
+    label: In much wisdom is much vexation; who increases knowledge increases pain
+    cluster: wisdom
+  experiment-with-pleasure:
+    label: The sage tests himself with pleasure, laughter and wine while keeping his heart guided by wisdom, and finds it vapor
+    cluster: wisdom
+  royal-building-works-gardens-pools:
+    label: The king builds houses, plants vineyards, gardens and orchards (pardesim) with every fruit tree, and makes pools to water a forest
+    cluster: wisdom
+  royal-wealth-slaves-singers-concubines:
+    label: The king amasses slaves, herds, silver, gold, the treasure of kings and provinces, male and female singers and many concubines (shiddah)
+    cluster: wisdom
+  wisdom-excels-folly-as-light-darkness:
+    label: Wisdom excels folly as light excels darkness; the wise has eyes in his head, the fool walks in darkness
+    cluster: wisdom
+  one-fate-befalls-all:
+    label: One fate (miqreh) befalls the wise and the fool, man and beast alike
+    cluster: wisdom
+  hated-life:
+    label: The speaker says 'I hated life' because all is vapor
+    cluster: wisdom
+  toil-left-to-unknown-heir:
+    label: Hating his toil because he must leave it to one who comes after him, who may be wise or a fool
+    cluster: wisdom
+  heart-no-rest-at-night:
+    label: All his days are pain and vexation; even at night his heart does not rest
+    cluster: wisdom
+  eat-drink-and-enjoy-gift-of-god:
+    label: There is nothing better than to eat, drink and find enjoyment in one's toil; this is from the hand of God
+    cluster: wisdom
+  sinner-gathers-for-the-good:
+    label: God gives the sinner the task of gathering and heaping up to give to the one who pleases God
+    cluster: wisdom
+  time-for-everything:
+    label: For everything there is a season and a time for every matter under heaven (birth and death, planting and uprooting, etc.)
+    cluster: wisdom
+  time-to-cast-and-gather-stones:
+    label: A time to cast away stones and a time to gather stones
+    cluster: wisdom
+  everything-beautiful-in-its-time:
+    label: God has made everything beautiful in its time
+    cluster: theology
+  eternity-placed-in-human-heart:
+    label: God has put 'olam (eternity, or the world) in the human heart, yet man cannot find out the work of God from beginning to end
+    cluster: theology
+  gods-work-nothing-to-add-or-subtract:
+    label: Whatever God does endures forever; nothing can be added to it nor taken from it, so that people fear him
+    cluster: theology
+  god-seeks-what-is-pursued:
+    label: God seeks what has been driven away (et nirdaf); what is has already been
+    cluster: theology
+  wickedness-in-place-of-justice:
+    label: In the place of justice there is wickedness and in the place of righteousness wickedness
+    cluster: wisdom
+  god-will-judge-righteous-and-wicked:
+    label: God will judge the righteous and the wicked, for there is a time for every matter
+    cluster: theology
+  humans-are-beasts:
+    label: God tests humans to show them that they are but beasts; man has no advantage over the beast
+    cluster: wisdom
+  who-knows-if-human-spirit-ascends:
+    label: Who knows whether the spirit of man goes upward and the spirit of the beast goes down to the earth?
+    cluster: wisdom
+  who-will-show-what-comes-after:
+    label: Who will bring him to see what will be after him?
+    cluster: wisdom
+  tears-of-oppressed-no-comforter:
+    label: The tears of the oppressed, and they have no comforter; power is in the hand of their oppressors
+    cluster: wisdom
+  dead-better-than-living-unborn-best:
+    label: The dead are more fortunate than the living, and better than both is the one who has not yet been
+    cluster: wisdom
+  toil-driven-by-envy:
+    label: All toil and skill in work comes from a man's envy of his neighbor
+    cluster: wisdom
+  fool-folds-hands-eats-own-flesh:
+    label: The fool folds his hands and eats his own flesh
+    cluster: wisdom
+  handful-of-quiet-better:
+    label: Better one handful with quiet than two handfuls with toil and chasing the wind
+    cluster: wisdom
+  lonely-miser-no-heir:
+    label: 'One alone without son or brother, toiling endlessly, his eye unsated by riches: ''For whom am I toiling and depriving myself?'''
+    cluster: wisdom
+  two-better-than-one:
+    label: 'Two are better than one: if one falls the other lifts him; two lying together keep warm; two withstand an attacker'
+    cluster: wisdom
+  threefold-cord-not-quickly-broken:
+    label: A threefold cord is not quickly broken
+    cluster: wisdom
+  poor-wise-youth-better-than-old-foolish-king:
+    label: Better a poor and wise youth than an old and foolish king; one goes from prison to the throne, then is forgotten
+    cluster: kingship
+  guard-your-step-at-house-of-god:
+    label: Guard your steps when you go to the house of God; to draw near to listen is better than the sacrifice of fools
+    cluster: cult
+  god-in-heaven-few-words:
+    label: Do not be rash with your mouth before God, for God is in heaven and you on earth; let your words be few
+    cluster: cult
+  dreams-from-much-business:
+    label: Dreams come with much business and a fool's voice with many words
+    cluster: wisdom
+  better-not-to-vow-than-not-pay:
+    label: Better not to vow than to vow and not pay
+    cluster: cult
+  do-not-tell-messenger-it-was-error:
+    label: Do not say before the messenger (mal'akh) 'it was a mistake (shegagah)' lest God be angry at your voice
+    cluster: cult
+  officials-watch-officials:
+    label: 'If you see oppression of the poor in a province, do not be amazed: a high one watches over a high one, and higher ones over them'
+    cluster: kingship
+  king-for-cultivated-field:
+    label: The profit of the land is for all; a king is for (served by) the cultivated field
+    cluster: kingship
+  lover-of-money-never-satisfied:
+    label: He who loves silver will not be satisfied with silver, nor he who loves abundance with income
+    cluster: wisdom
+  goods-increase-eaters-increase:
+    label: When goods increase, those who eat them increase; the owner only sees them with his eyes
+    cluster: wisdom
+  laborer-sleeps-sweetly-rich-cannot:
+    label: Sweet is the sleep of the laborer whether he eats little or much, but the surfeit of the rich will not let him sleep
+    cluster: wisdom
+  riches-hoarded-to-owners-harm:
+    label: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in hand
+    cluster: wisdom
+  god-occupies-him-with-joy:
+    label: He will not much remember the days of his life because God keeps him occupied with the joy of his heart
+    cluster: wisdom
+  wealth-without-power-to-enjoy:
+    label: God gives a man riches, possessions and honor but not the power to enjoy them; a stranger enjoys them
+    cluster: wisdom
+  stillborn-better-than-unsatisfied-man:
+    label: 'A man with a hundred children and long life who is unsatisfied and has no burial: the stillborn (nefel) is better off than he'
+    cluster: wisdom
+  thousand-years-twice-same-place:
+    label: Even if he lived a thousand years twice and saw no good, do not all go to one place?
+    cluster: wisdom
+  appetite-never-filled:
+    label: All man's toil is for his mouth, yet the appetite (nefesh) is never filled
+    cluster: wisdom
+  sight-of-eyes-better-than-wandering-desire:
+    label: Better the sight of the eyes than the wandering of desire
+    cluster: wisdom
+  already-named-cannot-dispute-stronger:
+    label: Whatever has come to be has already been named; man cannot dispute with one stronger than he
+    cluster: theology
+  good-name-better-than-oil:
+    label: A good name is better than good oil (shem / shemen), and the day of death than the day of birth
+    cluster: wisdom
+  house-of-mourning-better-than-feasting:
+    label: Better to go to the house of mourning than to the house of feasting, for that is the end of all men; the heart of the wise is in the house of mourning
+    cluster: wisdom
+  sorrow-better-than-laughter:
+    label: Vexation is better than laughter, for by sadness of face the heart is made glad
+    cluster: wisdom
+  fools-laughter-crackling-thorns:
+    label: Like the crackling of thorns (sirim) under a pot (sir), so is the laughter of the fool
+    cluster: wisdom
+  oppression-makes-wise-mad-bribe-corrupts:
+    label: Oppression makes a wise man foolish and a bribe destroys the heart
+    cluster: wisdom
+  end-better-than-beginning:
+    label: The end of a thing is better than its beginning; patience is better than pride
+    cluster: wisdom
+  anger-rests-in-bosom-of-fools:
+    label: Do not be quick to anger, for anger lodges in the bosom of fools
+    cluster: wisdom
+  do-not-praise-former-days:
+    label: Do not say 'Why were the former days better than these?', for it is not from wisdom you ask this
+    cluster: wisdom
+  wisdom-shelter-like-money:
+    label: Wisdom is a shelter (shade) as money is a shelter; wisdom gives life to its possessor
+    cluster: wisdom
+  who-can-straighten-what-god-bent:
+    label: 'Consider the work of God: who can make straight what he has made crooked?'
+    cluster: theology
+  god-made-good-and-bad-days:
+    label: 'In the day of prosperity be joyful, in the day of adversity consider: God has made the one as well as the other'
+    cluster: theology
+  righteous-perishes-wicked-prolongs:
+    label: There is a righteous man who perishes in his righteousness and a wicked man who prolongs his life in his evil
+    cluster: wisdom
+  be-not-overly-righteous:
+    label: 'Be not overly righteous nor overly wise; be not overly wicked nor a fool: hold to both; the God-fearer escapes them all (golden mean)'
+    cluster: wisdom
+  wisdom-stronger-than-ten-rulers:
+    label: Wisdom gives the wise more strength than ten rulers in a city
+    cluster: wisdom
+  no-righteous-man-who-never-sins:
+    label: There is no righteous man on earth who does good and never sins
+    cluster: theology
+  ignore-servant-cursing-you:
+    label: Do not take to heart everything people say, lest you hear your servant curse you; you have often cursed others
+    cluster: wisdom
+  wisdom-far-and-deep:
+    label: '''I said I will be wise'' but it was far from me; that which is, is far off and deep, deep, who can find it?'
+    cluster: wisdom
+  woman-more-bitter-than-death-snare:
+    label: The woman whose heart is snares and nets and whose hands are fetters is more bitter than death; the sinner is caught by her
+    cluster: wisdom
+  one-man-in-thousand-no-woman:
+    label: One man in a thousand I found, but a woman among all these I did not find
+    cluster: wisdom
+  god-made-man-upright-they-sought-schemes:
+    label: God made humankind upright, but they have sought out many schemes (hishshevonot)
+    cluster: theology
+  qohelet-feminine-verb:
+    label: Qohelet construed once with a feminine verb ('amrah qohelet')
+    cluster: wisdom
+  wisdom-lights-up-face:
+    label: Who is like the wise and knows the interpretation (pesher) of a thing? Wisdom makes his face shine
+    cluster: wisdom
+  obey-king-because-of-oath:
+    label: Keep the king's command because of the oath of God; who can say to him 'What are you doing?'
+    cluster: kingship
+  no-power-over-day-of-death:
+    label: No man has power over the wind (ruah) to restrain it, nor power over the day of death; there is no discharge in war
+    cluster: wisdom
+  wicked-buried-with-honor-praised:
+    label: I saw the wicked buried with honor, going in and out of the holy place, and praised in the city where they did such things
+    cluster: wisdom
+  delayed-sentence-encourages-evil:
+    label: Because sentence (pitgam) against an evil deed is not executed speedily, the heart of men is set to do evil
+    cluster: wisdom
+  just-get-what-wicked-deserve:
+    label: There are righteous men who receive what the wicked deserve and wicked who receive what the righteous deserve
+    cluster: wisdom
+  work-of-god-unfindable:
+    label: Man cannot find out the work that is done under the sun; even if the wise man claims to know, he cannot find it
+    cluster: theology
+  righteous-in-gods-hand-love-or-hate-unknown:
+    label: The righteous and the wise and their deeds are in the hand of God; whether love or hate, man does not know
+    cluster: theology
+  same-fate-pure-impure-sacrificer:
+    label: One fate for righteous and wicked, clean and unclean, him who sacrifices and him who does not, the one who swears and the one who fears an oath
+    cluster: wisdom
+  living-dog-better-than-dead-lion:
+    label: A living dog is better than a dead lion
+    cluster: wisdom
+  dead-know-nothing:
+    label: The living know they will die, but the dead know nothing, have no more reward, and their love, hate and envy have perished
+    cluster: wisdom
+  white-garments-and-oil-enjoy-life:
+    label: Go, eat your bread with joy and drink your wine; let your garments always be white and oil not lack on your head; enjoy life with the woman you love
+    cluster: wisdom
+  no-work-or-knowledge-in-sheol:
+    label: Whatever your hand finds to do, do with your might, for there is no work, reckoning, knowledge or wisdom in Sheol
+    cluster: wisdom
+  race-not-to-swift:
+    label: The race is not to the swift nor the battle to the strong, nor bread to the wise; time and chance (pega') happen to all
+    cluster: wisdom
+  men-snared-like-fish-and-birds:
+    label: Man does not know his time; like fish caught in a net and birds in a snare, people are trapped in an evil time
+    cluster: wisdom
+  poor-wise-man-saves-besieged-city:
+    label: A great king besieges a small city; a poor wise man delivers it by his wisdom, yet no one remembers him
+    cluster: wisdom
+  wisdom-better-than-weapons:
+    label: Wisdom is better than might and weapons of war, but one sinner destroys much good
+    cluster: wisdom
+  dead-flies-spoil-perfume:
+    label: Dead flies make the perfumer's ointment stink; a little folly outweighs wisdom and honor
+    cluster: wisdom
+  wise-heart-right-fool-left:
+    label: The heart of the wise is to his right, the heart of the fool to his left
+    cluster: wisdom
+  stay-in-place-before-angry-ruler:
+    label: If the ruler's anger rises against you, do not leave your place, for calmness allays great offenses
+    cluster: kingship
+  social-inversion-slaves-on-horses:
+    label: Folly set in high places, the rich sitting low; slaves on horses and princes walking like slaves
+    cluster: wisdom
+  occupational-hazards:
+    label: He who breaks a wall is bitten by a snake; he who quarries stones is hurt; he who splits logs is endangered
+    cluster: wisdom
+  blunt-axe-needs-more-strength:
+    label: If the iron is blunt and one does not whet the edge, he must use more strength; wisdom helps one succeed
+    cluster: wisdom
+  snake-bites-before-charming:
+    label: If the snake bites before it is charmed, there is no profit for the charmer (ba'al hallashon)
+    cluster: magic
+  fool-does-not-know-way-to-city:
+    label: The toil of fools wearies them, for they do not even know the way to the city
+    cluster: wisdom
+  woe-to-land-whose-king-is-child:
+    label: Woe to the land whose king is a youth and whose princes feast in the morning; happy the land whose king is noble-born
+    cluster: kingship
+  idle-hands-roof-leaks:
+    label: Through sloth the roof sinks and through idle hands the house leaks
+    cluster: wisdom
+  money-answers-everything:
+    label: Bread is made for laughter, wine gladdens life, and money answers everything
+    cluster: wisdom
+  bird-of-air-carries-voice:
+    label: Do not curse the king even in thought nor the rich in your bedroom, for a bird of the air will carry the voice
+    cluster: wisdom
+  cast-bread-upon-waters:
+    label: Send out your bread on the face of the waters, for after many days you will find it
+    cluster: wisdom
+  give-portion-to-seven-or-eight:
+    label: Give a portion to seven or even to eight, for you do not know what disaster may come
+    cluster: wisdom
+  where-tree-falls-there-it-lies:
+    label: If clouds are full they empty rain; where the tree falls, north or south, there it lies
+    cluster: wisdom
+  wind-watcher-does-not-sow:
+    label: He who watches the wind will not sow, and he who regards the clouds will not reap
+    cluster: wisdom
+  bones-in-womb-unknowable:
+    label: As you do not know the way of the wind (or spirit), or how bones grow in the womb of the pregnant, so you do not know the work of God
+    cluster: theology
+  sow-morning-and-evening:
+    label: In the morning sow your seed and in the evening do not withhold your hand, for you do not know which will prosper
+    cluster: wisdom
+  light-is-sweet:
+    label: Light is sweet and it is pleasant for the eyes to see the sun
+    cluster: wisdom
+  rejoice-young-man-but-judgment:
+    label: Rejoice, young man, in your youth and walk in the ways of your heart, but know that for all these God will bring you into judgment
+    cluster: wisdom
+  youth-and-dawn-of-life-hevel:
+    label: Youth and the dawn of life (shaharut, 'blackness of hair') are vapor
+    cluster: wisdom
+  remember-creator-in-youth:
+    label: Remember your Creator (bor'ekha) in the days of your youth, before the evil days come
+    cluster: wisdom
+  allegory-of-old-age:
+    label: 'Allegory of old age and death: keepers of the house tremble, grinders cease, those at the windows grow dim, doors shut, daughters of song brought low'
+    cluster: wisdom
+  almond-blossoms-grasshopper-caperberry:
+    label: The almond tree blossoms, the grasshopper drags itself along, the caper-berry fails (signs of old age)
+    cluster: wisdom
+  man-goes-to-eternal-home:
+    label: Man goes to his eternal house (beit 'olamo) and the mourners go about the street
+    cluster: death
+  silver-cord-golden-bowl-broken:
+    label: Before the silver cord is snapped, the golden bowl crushed, the jar broken at the spring and the wheel broken at the cistern
+    cluster: death
+  spirit-returns-to-god-who-gave-it:
+    label: The dust returns to the earth as it was and the spirit returns to God who gave it
+    cluster: death
+  epilogue-about-qohelet:
+    label: 'Editorial epilogue speaks of Qohelet in the third person: a sage who taught the people, weighed and arranged many proverbs'
+    cluster: wisdom
+  words-of-wise-like-goads-and-nails:
+    label: The words of the wise are like goads and like nails firmly fixed, given by one shepherd
+    cluster: wisdom
+  of-making-many-books-no-end:
+    label: Of making many books there is no end, and much study wearies the flesh
+    cluster: wisdom
+  fear-god-keep-commandments-whole-of-man:
+    label: 'The end of the matter: fear God and keep his commandments, for this is the whole of man'
+    cluster: wisdom
+  god-judges-every-hidden-deed:
+    label: God will bring every deed into judgment, every hidden thing, whether good or evil
+    cluster: theology
+  song-of-songs-ascribed-to-solomon:
+    label: The love poem is titled 'Song of Songs, which is Solomon's'
+    cluster: love-poetry
+  love-poetry-dialogue-of-lovers:
+    label: Love poetry in alternating voices of a woman, her lover and a chorus (daughters of Jerusalem)
+    cluster: love-poetry
+  love-better-than-wine:
+    label: The lover's caresses (dodim) are better than wine
+    cluster: love-poetry
+  name-like-poured-oil:
+    label: The beloved's name is like oil poured out; his fragrance draws the maidens
+    cluster: love-poetry
+  king-brings-beloved-into-chambers:
+    label: '''The king has brought me into his chambers'''
+    cluster: love-poetry
+  black-and-beautiful:
+    label: '''I am black (or dark) and beautiful'', sunburned like the tents of Kedar and the curtains of Solomon'
+    cluster: love-poetry
+  brothers-make-sister-guard-vineyards:
+    label: Her angry brothers made her keeper of the vineyards; her own vineyard she did not keep
+    cluster: love-poetry
+  lover-as-shepherd-at-noon:
+    label: The beloved is a shepherd; she asks where he pastures and rests his flock at noon
+    cluster: love-poetry
+  beloved-as-mare-among-pharaohs-chariots:
+    label: The beloved is compared to a mare among Pharaoh's chariots
+    cluster: love-poetry
+  lovers-jewelry-gold-silver:
+    label: Her cheeks with ornaments and neck with beads; ornaments of gold studded with silver will be made for her
+    cluster: love-poetry
+  perfumes-nard-myrrh-henna:
+    label: 'Love described through aromatics: nard, a sachet of myrrh between the breasts, a cluster of henna from En-gedi'
+    cluster: love-poetry
+  eyes-are-doves:
+    label: '''Your eyes are doves'''
+    cluster: love-poetry
+  green-couch-cedar-beams:
+    label: Our couch is green, the beams of our house cedar, our rafters cypress (lovemaking outdoors)
+    cluster: love-poetry
+  rose-of-sharon-lily-of-valleys:
+    label: '''I am a crocus (havatselet) of Sharon, a lily (shoshannah) of the valleys''; like a lily among thorns'
+    cluster: love-poetry
+  lover-as-apple-tree-shade:
+    label: The beloved is like an apple tree among the trees of the forest; she delights in his shade and his fruit is sweet
+    cluster: love-poetry
+  house-of-wine-banner-of-love:
+    label: He brought me to the house of wine and his banner over me was love
+    cluster: love-poetry
+  lovesick-woman-raisin-cakes-apples:
+    label: Sustain me with raisin cakes, refresh me with apples, for I am sick with love
+    cluster: love-poetry
+  his-left-hand-under-my-head:
+    label: His left hand under my head and his right hand embraces me
+    cluster: love-poetry
+  adjuration-by-gazelles-not-to-awaken-love:
+    label: 'Refrain: ''I adjure you, daughters of Jerusalem, by the gazelles and does of the field, do not stir up love until it pleases'''
+    cluster: love-poetry
+  lover-like-gazelle-leaping-hills:
+    label: The lover is like a gazelle or young stag, leaping over mountains and bounding over hills
+    cluster: love-poetry
+  lover-peers-through-lattice:
+    label: The lover stands behind the wall, gazing through the windows, peering through the lattice
+    cluster: love-poetry
+  spring-song-arise-come-away:
+    label: '''Arise, my love, my fair one, and come away'': winter is past, flowers appear, the time of singing (or pruning) has come, the turtledove is heard'
+    cluster: love-poetry
+  dove-in-clefts-of-rock:
+    label: '''My dove in the clefts of the rock, let me see your face and hear your voice'''
+    cluster: love-poetry
+  little-foxes-spoil-vineyards:
+    label: Catch us the foxes, the little foxes that spoil the vineyards in blossom
+    cluster: love-poetry
+  my-beloved-is-mine-and-i-his:
+    label: 'Mutual-belonging formula: ''My beloved is mine and I am his'''
+    cluster: love-poetry
+  until-day-breathes-shadows-flee:
+    label: Until the day breathes and the shadows flee
+    cluster: love-poetry
+  night-search-for-beloved-in-city:
+    label: At night the woman seeks him whom her soul loves through the city streets and does not find him
+    cluster: love-poetry
+  watchmen-of-city:
+    label: The watchmen going about the city find the seeking woman
+    cluster: love-poetry
+  brings-lover-to-mothers-house:
+    label: She holds him and will not let go until she brings him to her mother's house, the chamber of her who conceived her
+    cluster: love-poetry
+  who-is-this-coming-up-from-desert:
+    label: '''Who is this coming up from the wilderness like columns of smoke, perfumed with myrrh and frankincense?'''
+    cluster: love-poetry
+  solomons-litter-sixty-warriors:
+    label: Solomon's litter (mittah) escorted by sixty armed warriors against terrors of the night
+    cluster: love-poetry
+  palanquin-of-lebanon-wood:
+    label: King Solomon's palanquin ('appiryon) of Lebanon wood, with silver posts, gold back, purple seat, inlaid with love
+    cluster: love-poetry
+  mother-crowns-king-on-wedding-day:
+    label: King Solomon wears the crown with which his mother crowned him on the day of his wedding
+    cluster: love-poetry
+  wasf-description-of-body:
+    label: 'Wasf: a descriptive song praising the beloved''s body part by part with images from nature and architecture'
+    cluster: love-poetry
+  hair-like-flock-of-goats-on-gilead:
+    label: Her hair is like a flock of goats streaming down Mount Gilead
+    cluster: love-poetry
+  teeth-like-shorn-ewes-twins:
+    label: Her teeth are like a flock of shorn ewes come up from washing, all bearing twins, none bereaved
+    cluster: love-poetry
+  lips-scarlet-thread-temples-pomegranate:
+    label: Her lips like a scarlet thread, her cheek (raqqah) like a slice of pomegranate behind her veil
+    cluster: love-poetry
+  neck-like-tower-of-david-shields:
+    label: Her neck is like the tower of David, built in courses, hung with a thousand shields of warriors
+    cluster: love-poetry
+  breasts-like-twin-fawns:
+    label: Her two breasts are like two fawns, twins of a gazelle, grazing among the lilies
+    cluster: love-poetry
+  mountain-of-myrrh-hill-of-frankincense:
+    label: '''I will go to the mountain of myrrh and the hill of frankincense'''
+    cluster: love-poetry
+  beloved-without-blemish:
+    label: '''You are all fair, my love; there is no blemish (mum) in you'''
+    cluster: love-poetry
+  bride-called-from-lebanon-lions-dens:
+    label: '''Come with me from Lebanon, bride'': from the peaks of Amana, Senir and Hermon, from the dens of lions and mountains of leopards'
+    cluster: love-poetry
+  sister-bride:
+    label: The lover calls the beloved 'my sister, bride' (ahoti kallah)
+    cluster: love-poetry
+  ravished-by-one-glance:
+    label: '''You have ravished my heart (libbavtini) with one of your eyes, one bead of your necklace'''
+    cluster: love-poetry
+  honey-and-milk-under-tongue:
+    label: Your lips drip honey, bride; honey and milk are under your tongue; the scent of your garments like Lebanon
+    cluster: love-poetry
+  locked-garden-sealed-fountain:
+    label: '''A garden locked is my sister, bride; a spring locked, a fountain sealed'''
+    cluster: love-poetry
+  garden-of-spices-catalogue:
+    label: Her shoots are an orchard (pardes) of pomegranates with henna, nard, saffron, calamus, cinnamon, frankincense, myrrh and aloes
+    cluster: love-poetry
+  well-of-living-water-from-lebanon:
+    label: A garden fountain, a well of living water, streams from Lebanon
+    cluster: love-poetry
+  winds-blow-on-garden-lover-eats-fruit:
+    label: '''Awake, north wind, come south wind, blow on my garden''; let my beloved come to his garden and eat its choice fruits'
+    cluster: love-poetry
+  eat-friends-drink-be-drunk-with-love:
+    label: '''I have come to my garden... eaten my honeycomb with my honey''; ''Eat, friends, drink, be drunk with love'''
+    cluster: love-poetry
+  i-sleep-but-heart-wakes:
+    label: '''I slept but my heart was awake'': the lover knocks at night, his head wet with dew'
+    cluster: love-poetry
+  hesitant-lover-garment-off-feet-washed:
+    label: '''I have taken off my robe, how shall I put it on? I have washed my feet, how shall I soil them?'''
+    cluster: love-poetry
+  hand-through-latch-hole:
+    label: The lover thrusts his hand through the hole (of the door) and her inward parts yearn for him
+    cluster: love-poetry
+  myrrh-dripping-on-door-bolt:
+    label: Her hands drip myrrh, liquid myrrh on the handles of the bolt
+    cluster: love-poetry
+  lover-vanishes-when-door-opened:
+    label: She opens to her beloved but he has turned away and gone; she calls but he does not answer
+    cluster: love-poetry
+  watchmen-beat-and-strip-woman:
+    label: The watchmen of the walls strike and wound the woman and take away her mantle
+    cluster: love-poetry
+  what-is-your-beloved-more-than-another:
+    label: 'Chorus: ''What is your beloved more than another beloved, O fairest of women?'''
+    cluster: love-poetry
+  lover-body-as-gold-and-jewel-statue:
+    label: 'Wasf of the man as a precious statue: head of fine gold, hands gold rods set with Tarshish stone, belly of ivory with sapphires, legs alabaster on gold bases'
+    cluster: love-poetry
+  locks-black-as-raven:
+    label: His locks are wavy (or palm-fronds), black as a raven
+    cluster: love-poetry
+  eyes-like-doves-by-streams-bathed-in-milk:
+    label: His eyes are like doves beside streams of water, bathed in milk, fitly set
+    cluster: love-poetry
+  radiant-and-ruddy-chief-among-ten-thousand:
+    label: '''My beloved is radiant and ruddy, distinguished among ten thousand'''
+    cluster: love-poetry
 units:
 - id: hb-prov-9-wisdom-and-folly-banquets
   tradition: judaism
@@ -2820,3 +3396,1245 @@ units:
     note: the poem closes the book and echoes Lady Wisdom of chs. 1-9 (interpretive)
   hints:
   - Sung at the Sabbath table (Eshet Hayil); midrash reads it of Sarah, Torah, the Shekhinah or the soul. Compare the ideal wife in Egyptian and Mesopotamian household texts.
+- id: hb-eccl-1-hevel-and-cycles
+  tradition: judaism
+  title: Superscription, 'vapor of vapors' and the endless cycles of nature
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 1:1-11
+  tags:
+  - motif: qohelet-son-of-david-king-in-jerusalem
+    refs:
+    - Eccl 1:1
+  - motif: vanity-of-vanities
+    refs:
+    - Eccl 1:2
+  - motif: what-profit-under-the-sun
+    refs:
+    - Eccl 1:3
+  - motif: generations-pass-earth-remains
+    refs:
+    - Eccl 1:4
+  - motif: cyclical-cosmos-sun-wind-rivers
+    refs:
+    - Eccl 1:5
+    - Eccl 1:6
+    - Eccl 1:7
+    note: the sun 'pants' (sho'ef) back to its place
+  - motif: eye-never-sated-with-seeing
+    refs:
+    - Eccl 1:8
+  - motif: nothing-new-under-the-sun
+    refs:
+    - Eccl 1:9
+    - Eccl 1:10
+  - motif: no-remembrance-of-former-or-latter
+    refs:
+    - Eccl 1:11
+  hints:
+  - Cyclical cosmos compares Heraclitus and Stoic eternal recurrence; 'nothing new' resembles Marcus Aurelius (Meditations 2.14, 7.1). Rabbinic tradition ascribes the book to Solomon in old age (Song Rab. 1:1).
+  - Hevel ('breath') compare Quran 57:20 (worldly life is play and amusement) and Buddhist anicca.
+- id: hb-eccl-1-royal-quest
+  tradition: judaism
+  title: Qohelet the king searches out all things by wisdom
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 1:12-18
+  tags:
+  - motif: qohelet-son-of-david-king-in-jerusalem
+    refs:
+    - Eccl 1:12
+    note: '''I, Qohelet, was king'' (past tense)'
+  - motif: unhappy-business-given-by-god
+    refs:
+    - Eccl 1:13
+  - motif: chasing-the-wind
+    refs:
+    - Eccl 1:14
+    - Eccl 1:17
+  - motif: vanity-of-vanities
+    refs:
+    - Eccl 1:14
+  - motif: crooked-cannot-be-straightened
+    refs:
+    - Eccl 1:15
+  - motif: king-surpasses-all-before-him-in-wisdom
+    refs:
+    - Eccl 1:16
+  - motif: much-wisdom-much-grief
+    refs:
+    - Eccl 1:18
+  hints:
+  - The legend that Solomon was dethroned by Ashmedai and wandered saying 'I, Qohelet, was king' (b. Git. 68b) builds on 1:12.
+- id: hb-eccl-2-pleasure-experiment
+  tradition: judaism
+  title: The royal experiment with pleasure, wealth and great works
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 2:1-11
+  tags:
+  - motif: experiment-with-pleasure
+    refs:
+    - Eccl 2:1
+    - Eccl 2:2
+    - Eccl 2:3
+  - motif: royal-building-works-gardens-pools
+    refs:
+    - Eccl 2:4
+    - Eccl 2:5
+    - Eccl 2:6
+    note: pardesim, Persian loanword 'paradise'
+  - motif: royal-wealth-slaves-singers-concubines
+    refs:
+    - Eccl 2:7
+    - Eccl 2:8
+    note: shiddah we-shiddot, hapax
+  - motif: king-surpasses-all-before-him-in-wisdom
+    refs:
+    - Eccl 2:7
+    - Eccl 2:9
+  - motif: vanity-of-vanities
+    refs:
+    - Eccl 2:1
+    - Eccl 2:11
+  - motif: chasing-the-wind
+    refs:
+    - Eccl 2:11
+  - motif: what-profit-under-the-sun
+    refs:
+    - Eccl 2:11
+  hints:
+  - Compare the royal self-presentation in Assyrian building inscriptions and the Egyptian Harper's Songs; the 'paradise' gardens recall Achaemenid royal parks.
+- id: hb-eccl-2-one-fate-and-toil
+  tradition: judaism
+  title: Wise and fool share one fate; hatred of toil; eat and drink
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 2:12-26
+  tags:
+  - motif: wisdom-excels-folly-as-light-darkness
+    refs:
+    - Eccl 2:13
+    - Eccl 2:14
+  - motif: one-fate-befalls-all
+    refs:
+    - Eccl 2:14
+    - Eccl 2:15
+  - motif: wise-and-fool-die-alike-leave-wealth
+    refs:
+    - Eccl 2:16
+    - Eccl 2:18
+  - motif: no-remembrance-of-former-or-latter
+    refs:
+    - Eccl 2:16
+  - motif: hated-life
+    refs:
+    - Eccl 2:17
+  - motif: toil-left-to-unknown-heir
+    refs:
+    - Eccl 2:18
+    - Eccl 2:19
+    - Eccl 2:21
+  - motif: heart-no-rest-at-night
+    refs:
+    - Eccl 2:23
+  - motif: eat-drink-and-enjoy-gift-of-god
+    refs:
+    - Eccl 2:24
+    - Eccl 2:25
+  - motif: sinner-gathers-for-the-good
+    refs:
+    - Eccl 2:26
+  - motif: sinners-wealth-stored-for-righteous
+    refs:
+    - Eccl 2:26
+  - motif: vanity-of-vanities
+    refs:
+    - Eccl 2:15
+    - Eccl 2:19
+    - Eccl 2:21
+    - Eccl 2:23
+    - Eccl 2:26
+  hints:
+  - 2:24 'eat and drink' closely parallels Siduri's advice to Gilgamesh (OB version, Meissner tablet) and Egyptian Harper's Songs.
+- id: hb-eccl-3-time-for-everything
+  tradition: judaism
+  title: A time for everything; eternity in the heart
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 3:1-15
+  tags:
+  - motif: time-for-everything
+    refs:
+    - Eccl 3:1
+    - Eccl 3:2
+    - Eccl 3:3
+    - Eccl 3:4
+    - Eccl 3:5
+    - Eccl 3:6
+    - Eccl 3:7
+    - Eccl 3:8
+    note: fourteen pairs of opposites
+  - motif: time-to-cast-and-gather-stones
+    refs:
+    - Eccl 3:5
+    note: midrash reads it as sexual (paired with embracing) or of clearing fields
+  - motif: what-profit-under-the-sun
+    refs:
+    - Eccl 3:9
+  - motif: unhappy-business-given-by-god
+    refs:
+    - Eccl 3:10
+  - motif: everything-beautiful-in-its-time
+    refs:
+    - Eccl 3:11
+  - motif: eternity-placed-in-human-heart
+    refs:
+    - Eccl 3:11
+  - motif: eat-drink-and-enjoy-gift-of-god
+    refs:
+    - Eccl 3:12
+    - Eccl 3:13
+  - motif: gods-work-nothing-to-add-or-subtract
+    refs:
+    - Eccl 3:14
+  - motif: nothing-new-under-the-sun
+    refs:
+    - Eccl 3:15
+  - motif: god-seeks-what-is-pursued
+    refs:
+    - Eccl 3:15
+  hints:
+  - 3:1-8 compare the Stoic kairos doctrine and Bhagavad Gita on acting according to the occasion; the merism catalogue resembles Egyptian onomastica.
+- id: hb-eccl-3-humans-and-beasts
+  tradition: judaism
+  title: Injustice, divine judgment, and humans no better than beasts
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 3:16-22
+  tags:
+  - motif: wickedness-in-place-of-justice
+    refs:
+    - Eccl 3:16
+  - motif: god-will-judge-righteous-and-wicked
+    refs:
+    - Eccl 3:17
+  - motif: humans-are-beasts
+    refs:
+    - Eccl 3:18
+    - Eccl 3:19
+  - motif: one-fate-befalls-all
+    refs:
+    - Eccl 3:19
+    note: one breath (ruah) for all
+  - motif: dust-to-dust
+    refs:
+    - Eccl 3:20
+  - motif: who-knows-if-human-spirit-ascends
+    refs:
+    - Eccl 3:21
+    note: MT vocalizes ha'olah/hayyoredet as articles, avoiding the question
+  - motif: eat-drink-and-enjoy-gift-of-god
+    refs:
+    - Eccl 3:22
+    note: rejoice in one's works, for that is his portion
+  - motif: who-will-show-what-comes-after
+    refs:
+    - Eccl 3:22
+  hints:
+  - 3:21 parallels Greek debates on the soul's ascent (Pythagorean, Platonic) and contrasts with Quran 17:85 ('the spirit is of my Lord's command').
+- id: hb-eccl-4-oppression-and-companions
+  tradition: judaism
+  title: Oppression, envy, the lonely miser, and 'two are better than one'
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 4:1-12
+  tags:
+  - motif: tears-of-oppressed-no-comforter
+    refs:
+    - Eccl 4:1
+  - motif: dead-better-than-living-unborn-best
+    refs:
+    - Eccl 4:2
+    - Eccl 4:3
+  - motif: toil-driven-by-envy
+    refs:
+    - Eccl 4:4
+  - motif: fool-folds-hands-eats-own-flesh
+    refs:
+    - Eccl 4:5
+  - motif: handful-of-quiet-better
+    refs:
+    - Eccl 4:6
+  - motif: better-than-saying
+    refs:
+    - Eccl 4:6
+    - Eccl 4:9
+  - motif: lonely-miser-no-heir
+    refs:
+    - Eccl 4:7
+    - Eccl 4:8
+  - motif: two-better-than-one
+    refs:
+    - Eccl 4:9
+    - Eccl 4:10
+    - Eccl 4:11
+    - Eccl 4:12
+  - motif: threefold-cord-not-quickly-broken
+    refs:
+    - Eccl 4:12
+  - motif: chasing-the-wind
+    refs:
+    - Eccl 4:4
+    - Eccl 4:6
+  hints:
+  - 4:2-3 'best never to have been born' is Theognis 425-428 and Sophocles, Oedipus at Colonus 1224-1227 (Silenus' wisdom).
+  - '4:12 the threefold cord appears in Gilgamesh (Sumerian ''Gilgamesh and Huwawa'': ''a triple-ply rope cannot be cut'').'
+- id: hb-eccl-4-youth-king-and-temple
+  tradition: judaism
+  title: The poor wise youth and the old king; caution at the house of God
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 4:13-17
+  tags:
+  - motif: poor-wise-youth-better-than-old-foolish-king
+    refs:
+    - Eccl 4:13
+    - Eccl 4:14
+    - Eccl 4:15
+    - Eccl 4:16
+    note: '''from the prison house he came out to reign'''
+  - motif: vanity-of-vanities
+    refs:
+    - Eccl 4:16
+  - motif: better-than-saying
+    refs:
+    - Eccl 4:13
+  - motif: guard-your-step-at-house-of-god
+    refs:
+    - Eccl 4:17
+    note: Hebrew 4:17 = English 5:1
+  - motif: obedience-better-than-sacrifice
+    refs:
+    - Eccl 4:17
+  hints:
+  - The prisoner who becomes king recalls Joseph (Gen 41) and the Midrash (Eccl. Rab. 4) reading it of Abraham vs Nimrod or the good and evil inclinations.
+- id: hb-eccl-5-words-and-vows
+  tradition: judaism
+  title: Few words before God and paying vows
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 5:1-6
+  tags:
+  - motif: god-in-heaven-few-words
+    refs:
+    - Eccl 5:1
+  - motif: dreams-from-much-business
+    refs:
+    - Eccl 5:2
+    - Eccl 5:6
+  - motif: vows-must-be-paid-promptly
+    refs:
+    - Eccl 5:3
+  - motif: better-not-to-vow-than-not-pay
+    refs:
+    - Eccl 5:4
+  - motif: do-not-tell-messenger-it-was-error
+    refs:
+    - Eccl 5:5
+    note: 'mal''akh: a temple messenger/priest, or an angel (LXX ''God'')'
+  - motif: restraint-of-speech-wise
+    refs:
+    - Eccl 5:1
+    - Eccl 5:2
+  hints:
+  - 5:3-4 closely echoes Deut 23:22-24; compare Quran 2:225 and 5:89 on unintentional oaths and the hadith on fulfilling vows.
+- id: hb-eccl-5-wealth-and-oppression
+  tradition: judaism
+  title: Bureaucratic oppression, the love of money and wealth that perishes
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 5:7-19
+  tags:
+  - motif: officials-watch-officials
+    refs:
+    - Eccl 5:7
+  - motif: king-for-cultivated-field
+    refs:
+    - Eccl 5:8
+    note: obscure verse
+  - motif: lover-of-money-never-satisfied
+    refs:
+    - Eccl 5:9
+  - motif: goods-increase-eaters-increase
+    refs:
+    - Eccl 5:10
+  - motif: laborer-sleeps-sweetly-rich-cannot
+    refs:
+    - Eccl 5:11
+  - motif: riches-hoarded-to-owners-harm
+    refs:
+    - Eccl 5:12
+    - Eccl 5:13
+  - motif: naked-from-womb-naked-return
+    refs:
+    - Eccl 5:14
+  - motif: what-profit-under-the-sun
+    refs:
+    - Eccl 5:15
+    note: toiling for the wind
+  - motif: eat-drink-and-enjoy-gift-of-god
+    refs:
+    - Eccl 5:17
+    - Eccl 5:18
+  - motif: god-occupies-him-with-joy
+    refs:
+    - Eccl 5:19
+  hints:
+  - 5:14 compare Job 1:21, 1 Tim 6:7 and the hadith 'the son of Adam says my wealth, my wealth...' (what you ate, wore out or gave in charity).
+- id: hb-eccl-6-wealth-unenjoyed
+  tradition: judaism
+  title: Wealth unenjoyed, the stillborn better off, desire unfilled
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 6:1-12
+  tags:
+  - motif: wealth-without-power-to-enjoy
+    refs:
+    - Eccl 6:1
+    - Eccl 6:2
+  - motif: stillborn-better-than-unsatisfied-man
+    refs:
+    - Eccl 6:3
+    - Eccl 6:4
+    - Eccl 6:5
+  - motif: wish-for-stillbirth
+    refs:
+    - Eccl 6:3
+    note: 'comparative, not a wish: the nefel is better off'
+  - motif: thousand-years-twice-same-place
+    refs:
+    - Eccl 6:6
+  - motif: appetite-never-filled
+    refs:
+    - Eccl 6:7
+  - motif: sight-of-eyes-better-than-wandering-desire
+    refs:
+    - Eccl 6:9
+  - motif: already-named-cannot-dispute-stronger
+    refs:
+    - Eccl 6:10
+  - motif: days-as-shadow
+    refs:
+    - Eccl 6:12
+  - motif: who-will-show-what-comes-after
+    refs:
+    - Eccl 6:12
+  - motif: vanity-of-vanities
+    refs:
+    - Eccl 6:2
+    - Eccl 6:4
+    - Eccl 6:9
+    - Eccl 6:11
+- id: hb-eccl-7-better-than-sayings
+  tradition: judaism
+  title: Better-than sayings (name, mourning, end of a thing)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 7:1-14
+  tags:
+  - motif: good-name-better-than-oil
+    refs:
+    - Eccl 7:1
+  - motif: good-name-better-than-riches
+    refs:
+    - Eccl 7:1
+  - motif: house-of-mourning-better-than-feasting
+    refs:
+    - Eccl 7:2
+    - Eccl 7:4
+  - motif: sorrow-better-than-laughter
+    refs:
+    - Eccl 7:3
+  - motif: better-than-saying
+    refs:
+    - Eccl 7:1
+    - Eccl 7:2
+    - Eccl 7:3
+    - Eccl 7:5
+    - Eccl 7:8
+  - motif: fools-laughter-crackling-thorns
+    refs:
+    - Eccl 7:6
+  - motif: oppression-makes-wise-mad-bribe-corrupts
+    refs:
+    - Eccl 7:7
+  - motif: end-better-than-beginning
+    refs:
+    - Eccl 7:8
+  - motif: anger-rests-in-bosom-of-fools
+    refs:
+    - Eccl 7:9
+  - motif: do-not-praise-former-days
+    refs:
+    - Eccl 7:10
+  - motif: wisdom-shelter-like-money
+    refs:
+    - Eccl 7:11
+    - Eccl 7:12
+  - motif: who-can-straighten-what-god-bent
+    refs:
+    - Eccl 7:13
+  - motif: god-made-good-and-bad-days
+    refs:
+    - Eccl 7:14
+  hints:
+  - 7:1b 'day of death better than day of birth' compares Herodotus 1.31 (Cleobis and Biton) and 5.4 (Thracians mourning births).
+- id: hb-eccl-7-moderation-and-search
+  tradition: judaism
+  title: Do not be overly righteous; the search for the sum of things; the snaring woman
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 7:15-29
+  tags:
+  - motif: righteous-perishes-wicked-prolongs
+    refs:
+    - Eccl 7:15
+  - motif: be-not-overly-righteous
+    refs:
+    - Eccl 7:16
+    - Eccl 7:17
+    - Eccl 7:18
+  - motif: wisdom-stronger-than-ten-rulers
+    refs:
+    - Eccl 7:19
+  - motif: no-righteous-man-who-never-sins
+    refs:
+    - Eccl 7:20
+  - motif: ignore-servant-cursing-you
+    refs:
+    - Eccl 7:21
+    - Eccl 7:22
+  - motif: wisdom-far-and-deep
+    refs:
+    - Eccl 7:23
+    - Eccl 7:24
+  - motif: woman-more-bitter-than-death-snare
+    refs:
+    - Eccl 7:26
+  - motif: qohelet-feminine-verb
+    refs:
+    - Eccl 7:27
+  - motif: one-man-in-thousand-no-woman
+    refs:
+    - Eccl 7:28
+  - motif: god-made-man-upright-they-sought-schemes
+    refs:
+    - Eccl 7:29
+  hints:
+  - 7:16-18 parallels the Greek meden agan and Aristotle's mean; also the hadith 'the best of affairs is the middle course'. 7:20 is cited in Rom 3:10 (with Ps 14).
+  - 7:26-28 compare misogynist sayings in Ankhsheshonq and Hesiod's Pandora (Works and Days).
+- id: hb-eccl-8-king-and-retribution
+  tradition: judaism
+  title: Obeying the king, the hour of death and the failure of retribution
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 8:1-17
+  tags:
+  - motif: wisdom-lights-up-face
+    refs:
+    - Eccl 8:1
+    note: pesher, Aramaic-type word for interpretation (cf. Dan, Qumran)
+  - motif: obey-king-because-of-oath
+    refs:
+    - Eccl 8:2
+    - Eccl 8:3
+    - Eccl 8:4
+  - motif: time-for-everything
+    refs:
+    - Eccl 8:5
+    - Eccl 8:6
+    note: the wise heart knows time and judgment
+  - motif: who-will-show-what-comes-after
+    refs:
+    - Eccl 8:7
+  - motif: no-power-over-day-of-death
+    refs:
+    - Eccl 8:8
+  - motif: wicked-buried-with-honor-praised
+    refs:
+    - Eccl 8:10
+  - motif: delayed-sentence-encourages-evil
+    refs:
+    - Eccl 8:11
+    note: pitgam, Persian loanword
+  - motif: wisdom-prolongs-life
+    refs:
+    - Eccl 8:12
+    - Eccl 8:13
+    note: 'affirmed against observation: it will be well with God-fearers'
+  - motif: days-as-shadow
+    refs:
+    - Eccl 8:13
+  - motif: just-get-what-wicked-deserve
+    refs:
+    - Eccl 8:14
+  - motif: eat-drink-and-enjoy-gift-of-god
+    refs:
+    - Eccl 8:15
+  - motif: work-of-god-unfindable
+    refs:
+    - Eccl 8:16
+    - Eccl 8:17
+  hints:
+  - 8:2 'the oath of God' to the king compares loyalty oaths to Persian/Hellenistic kings and Egyptian courtier instructions.
+- id: hb-eccl-9-one-fate-and-enjoy
+  tradition: judaism
+  title: One fate for all; the living dog; eat your bread with joy
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 9:1-10
+  tags:
+  - motif: righteous-in-gods-hand-love-or-hate-unknown
+    refs:
+    - Eccl 9:1
+  - motif: same-fate-pure-impure-sacrificer
+    refs:
+    - Eccl 9:2
+    - Eccl 9:3
+  - motif: one-fate-befalls-all
+    refs:
+    - Eccl 9:2
+    - Eccl 9:3
+  - motif: living-dog-better-than-dead-lion
+    refs:
+    - Eccl 9:4
+  - motif: dead-know-nothing
+    refs:
+    - Eccl 9:5
+    - Eccl 9:6
+  - motif: white-garments-and-oil-enjoy-life
+    refs:
+    - Eccl 9:7
+    - Eccl 9:8
+    - Eccl 9:9
+  - motif: eat-drink-and-enjoy-gift-of-god
+    refs:
+    - Eccl 9:7
+  - motif: no-work-or-knowledge-in-sheol
+    refs:
+    - Eccl 9:10
+  hints:
+  - '9:7-9 closely parallels Siduri''s speech to Gilgamesh (OB Gilgamesh, Meissner fragment iii): eat, make merry, wear clean clothes, wash, let your wife delight in your embrace.'
+  - 9:4 cf. Achilles in Odyssey 11.489-491 (better a living serf than king of the dead).
+- id: hb-eccl-9-time-chance-poor-wise-man
+  tradition: judaism
+  title: Time and chance; the poor wise man who saved the city
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 9:11-18
+  tags:
+  - motif: race-not-to-swift
+    refs:
+    - Eccl 9:11
+  - motif: men-snared-like-fish-and-birds
+    refs:
+    - Eccl 9:12
+  - motif: poor-wise-man-saves-besieged-city
+    refs:
+    - Eccl 9:13
+    - Eccl 9:14
+    - Eccl 9:15
+  - motif: wise-man-scales-city-of-mighty
+    refs:
+    - Eccl 9:15
+    note: 'inverse: wisdom defends rather than takes the city'
+  - motif: wisdom-better-than-weapons
+    refs:
+    - Eccl 9:16
+    - Eccl 9:17
+    - Eccl 9:18
+  - motif: better-than-saying
+    refs:
+    - Eccl 9:16
+    - Eccl 9:17
+    - Eccl 9:18
+  hints:
+  - The poor wise man has been compared with Archimedes at Syracuse and with the wise woman of Abel-beth-maacah (2 Sam 20).
+- id: hb-eccl-10-folly-and-rulers
+  tradition: judaism
+  title: Sayings on folly, rulers and hazards (dead flies, slaves on horses)
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 10:1-20
+  tags:
+  - motif: dead-flies-spoil-perfume
+    refs:
+    - Eccl 10:1
+  - motif: wise-heart-right-fool-left
+    refs:
+    - Eccl 10:2
+  - motif: stay-in-place-before-angry-ruler
+    refs:
+    - Eccl 10:4
+  - motif: social-inversion-slaves-on-horses
+    refs:
+    - Eccl 10:5
+    - Eccl 10:6
+    - Eccl 10:7
+  - motif: digger-falls-into-own-pit
+    refs:
+    - Eccl 10:8
+  - motif: occupational-hazards
+    refs:
+    - Eccl 10:8
+    - Eccl 10:9
+  - motif: blunt-axe-needs-more-strength
+    refs:
+    - Eccl 10:10
+  - motif: snake-bites-before-charming
+    refs:
+    - Eccl 10:11
+  - motif: deaf-adder-and-charmer
+    refs:
+    - Eccl 10:11
+    note: snake-charming (lahash)
+  - motif: restraint-of-speech-wise
+    refs:
+    - Eccl 10:12
+    - Eccl 10:13
+    - Eccl 10:14
+  - motif: fool-does-not-know-way-to-city
+    refs:
+    - Eccl 10:15
+  - motif: woe-to-land-whose-king-is-child
+    refs:
+    - Eccl 10:16
+    - Eccl 10:17
+  - motif: idle-hands-roof-leaks
+    refs:
+    - Eccl 10:18
+  - motif: money-answers-everything
+    refs:
+    - Eccl 10:19
+  - motif: bird-of-air-carries-voice
+    refs:
+    - Eccl 10:20
+  hints:
+  - '10:20 ''a little bird told me'': compare Aristophanes, Birds 601 and the Ahiqar saying ''a word is a bird; once released no one can recapture it''.'
+  - 10:16 was applied to young kings (Ptolemy V?) and recalls Isa 3:4,12.
+- id: hb-eccl-11-cast-bread-and-youth
+  tradition: judaism
+  title: Cast your bread upon the waters; rejoice in youth
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 11:1-10
+  tags:
+  - motif: cast-bread-upon-waters
+    refs:
+    - Eccl 11:1
+  - motif: give-portion-to-seven-or-eight
+    refs:
+    - Eccl 11:2
+  - motif: numerical-saying-x-x-plus-one
+    refs:
+    - Eccl 11:2
+  - motif: where-tree-falls-there-it-lies
+    refs:
+    - Eccl 11:3
+  - motif: wind-watcher-does-not-sow
+    refs:
+    - Eccl 11:4
+  - motif: bones-in-womb-unknowable
+    refs:
+    - Eccl 11:5
+  - motif: sow-morning-and-evening
+    refs:
+    - Eccl 11:6
+  - motif: light-is-sweet
+    refs:
+    - Eccl 11:7
+    - Eccl 11:8
+  - motif: rejoice-young-man-but-judgment
+    refs:
+    - Eccl 11:9
+  - motif: youth-and-dawn-of-life-hevel
+    refs:
+    - Eccl 11:10
+  hints:
+  - 11:1 parallels the Egyptian Instruction of Ankhsheshonq ('do a good deed and throw it in the river; when it dries you will find it') and a similar Arabic proverb; also John 3:8 for 11:5.
+- id: hb-eccl-12-old-age-and-death
+  tradition: judaism
+  title: Remember your Creator; the allegory of old age; dust and spirit return
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 12:1-8
+  tags:
+  - motif: remember-creator-in-youth
+    refs:
+    - Eccl 12:1
+    note: bor'ekha (plural form); m. Avot 3:1 plays on be'erkha 'your source' and borkha 'your pit'
+  - motif: allegory-of-old-age
+    refs:
+    - Eccl 12:2
+    - Eccl 12:3
+    - Eccl 12:4
+    note: darkened sun, moon and stars; grinders (teeth) few; those looking through windows (eyes) dim
+  - motif: almond-blossoms-grasshopper-caperberry
+    refs:
+    - Eccl 12:5
+    note: almond = white hair; avyonah = caper-berry, an aphrodisiac
+  - motif: man-goes-to-eternal-home
+    refs:
+    - Eccl 12:5
+    note: beit 'olam also in Punic and Palmyrene tomb inscriptions
+  - motif: silver-cord-golden-bowl-broken
+    refs:
+    - Eccl 12:6
+  - motif: spirit-returns-to-god-who-gave-it
+    refs:
+    - Eccl 12:7
+  - motif: dust-to-dust
+    refs:
+    - Eccl 12:7
+  - motif: vanity-of-vanities
+    refs:
+    - Eccl 12:8
+    note: inclusio with 1:2
+  hints:
+  - The old-age allegory is read anatomically in b. Shabb. 151b-152a; compare the Egyptian Instruction of Ptahhotep's prologue on old age (eyes dim, ears deaf, the heart forgets).
+  - 12:7 contrasts with 3:21; compare the Zoroastrian and Platonic return of the soul and Quran 2:156 ('to Him we return').
+- id: hb-eccl-12-epilogue
+  tradition: judaism
+  title: Epilogue on Qohelet, many books, and the whole duty of man
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Eccl 12:9-14
+  tags:
+  - motif: epilogue-about-qohelet
+    refs:
+    - Eccl 12:9
+    - Eccl 12:10
+  - motif: words-of-wise-like-goads-and-nails
+    refs:
+    - Eccl 12:11
+    note: ba'alei asuppot, 'masters of collections'; 'one shepherd' read as God or Moses
+  - motif: of-making-many-books-no-end
+    refs:
+    - Eccl 12:12
+  - motif: fear-god-keep-commandments-whole-of-man
+    refs:
+    - Eccl 12:13
+  - motif: god-judges-every-hidden-deed
+    refs:
+    - Eccl 12:14
+  - motif: god-will-judge-righteous-and-wicked
+    refs:
+    - Eccl 12:14
+  hints:
+  - The epilogue's orthodox ending is cited in the rabbinic debate on Qohelet's canonicity (m. Yad. 3:5; b. Shabb. 30b). 12:12 compare Callimachus 'big book, big evil'.
+- id: hb-song-1-kisses-and-black-beauty
+  tradition: judaism
+  title: Title; 'let him kiss me'; black and beautiful; the shepherd
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 1:1-8
+  tags:
+  - motif: song-of-songs-ascribed-to-solomon
+    refs:
+    - Song 1:1
+  - motif: love-poetry-dialogue-of-lovers
+    refs:
+    - Song 1:2
+    - Song 1:5
+    - Song 1:8
+  - motif: love-better-than-wine
+    refs:
+    - Song 1:2
+    - Song 1:4
+  - motif: name-like-poured-oil
+    refs:
+    - Song 1:3
+    note: shemen / shem pun
+  - motif: king-brings-beloved-into-chambers
+    refs:
+    - Song 1:4
+  - motif: black-and-beautiful
+    refs:
+    - Song 1:5
+    - Song 1:6
+  - motif: brothers-make-sister-guard-vineyards
+    refs:
+    - Song 1:6
+  - motif: lover-as-shepherd-at-noon
+    refs:
+    - Song 1:7
+    - Song 1:8
+    note: she fears being 'like one who veils herself' ('otyah) among his companions' flocks
+  hints:
+  - Rabbinic allegory (Targum, Song Rab.) reads the lovers as God and Israel; Origen and Bernard of Clairvaux as Christ and the Church or soul. R. Akiva called it the Holy of Holies (m. Yad. 3:5).
+  - Egyptian love songs (Papyrus Harris 500, Chester Beatty I) use 'sister/brother' and similar flower and perfume imagery; Sufi poetry (Ibn Arabi, Tarjuman al-Ashwaq) shares the mystical-erotic register.
+- id: hb-song-1-mare-lily-apple-tree
+  tradition: judaism
+  title: Mare among chariots, nard and myrrh, lily of the valleys, lovesick under the apple tree
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 1:9-2:7
+  tags:
+  - motif: beloved-as-mare-among-pharaohs-chariots
+    refs:
+    - Song 1:9
+    note: a mare loosed among chariot stallions to distract them (cf. Thutmose III at Qadesh, Amenemhab)
+  - motif: lovers-jewelry-gold-silver
+    refs:
+    - Song 1:10
+    - Song 1:11
+  - motif: perfumes-nard-myrrh-henna
+    refs:
+    - Song 1:12
+    - Song 1:13
+    - Song 1:14
+  - motif: eyes-are-doves
+    refs:
+    - Song 1:15
+  - motif: green-couch-cedar-beams
+    refs:
+    - Song 1:16
+    - Song 1:17
+  - motif: rose-of-sharon-lily-of-valleys
+    refs:
+    - Song 2:1
+    - Song 2:2
+  - motif: lover-as-apple-tree-shade
+    refs:
+    - Song 2:3
+  - motif: house-of-wine-banner-of-love
+    refs:
+    - Song 2:4
+  - motif: lovesick-woman-raisin-cakes-apples
+    refs:
+    - Song 2:5
+    note: ashishot, raisin cakes also used in cult (Hos 3:1)
+  - motif: his-left-hand-under-my-head
+    refs:
+    - Song 2:6
+  - motif: adjuration-by-gazelles-not-to-awaken-love
+    refs:
+    - Song 2:7
+    note: bi-tseva'ot o be-ayelot ha-sadeh, punning on divine names Tseva'ot and El Shaddai
+  hints:
+  - Lovesickness as illness compares Egyptian Chester Beatty love song 37 ('seven days I have not seen my sister, sickness invades me') and the Arabic 'Udhri love tradition (Majnun Layla).
+- id: hb-song-2-spring-song
+  tradition: judaism
+  title: The lover like a gazelle; spring song 'Arise, come away'; little foxes
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 2:8-17
+  tags:
+  - motif: lover-like-gazelle-leaping-hills
+    refs:
+    - Song 2:8
+    - Song 2:9
+    - Song 2:17
+  - motif: lover-peers-through-lattice
+    refs:
+    - Song 2:9
+  - motif: spring-song-arise-come-away
+    refs:
+    - Song 2:10
+    - Song 2:11
+    - Song 2:12
+    - Song 2:13
+    note: '''et ha-zamir, time of singing or of pruning'
+  - motif: dove-in-clefts-of-rock
+    refs:
+    - Song 2:14
+  - motif: little-foxes-spoil-vineyards
+    refs:
+    - Song 2:15
+  - motif: my-beloved-is-mine-and-i-his
+    refs:
+    - Song 2:16
+  - motif: until-day-breathes-shadows-flee
+    refs:
+    - Song 2:17
+    note: harei vater, 'cleft mountains' or 'mountains of Bether'
+  hints:
+  - The Song is read at Passover because of the spring song 2:10-13; compare the Sumerian Inanna-Dumuzi love songs and the Greek Anacreontic spring lyric.
+- id: hb-song-3-night-search
+  tradition: judaism
+  title: Night search through the city and the mother's house
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 3:1-5
+  tags:
+  - motif: night-search-for-beloved-in-city
+    refs:
+    - Song 3:1
+    - Song 3:2
+  - motif: watchmen-of-city
+    refs:
+    - Song 3:3
+  - motif: brings-lover-to-mothers-house
+    refs:
+    - Song 3:4
+  - motif: adjuration-by-gazelles-not-to-awaken-love
+    refs:
+    - Song 3:5
+  hints:
+  - The goddess searching for the lost lover (Inanna/Ishtar for Dumuzi, Isis for Osiris, Anat for Baal) has been compared; also Mary Magdalene seeking Jesus in John 20 (liturgically paired).
+- id: hb-song-3-solomons-litter
+  tradition: judaism
+  title: Procession of Solomon's litter on his wedding day
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 3:6-11
+  tags:
+  - motif: who-is-this-coming-up-from-desert
+    refs:
+    - Song 3:6
+  - motif: perfumes-nard-myrrh-henna
+    refs:
+    - Song 3:6
+    note: myrrh, frankincense and every merchant's powder
+  - motif: solomons-litter-sixty-warriors
+    refs:
+    - Song 3:7
+    - Song 3:8
+    note: pahad ba-leilot, 'terror in the nights' (demons in later exegesis)
+  - motif: palanquin-of-lebanon-wood
+    refs:
+    - Song 3:9
+    - Song 3:10
+    note: '''appiryon, probably Greek phoreion or Persian loan'
+  - motif: mother-crowns-king-on-wedding-day
+    refs:
+    - Song 3:11
+  - motif: royal-wedding-song
+    refs:
+    - Song 3:11
+    note: the king's wedding day (yom hatunnato)
+  hints:
+  - Rabbinic readings take the litter as the Tabernacle or Temple and 'the day of his wedding' as Sinai (m. Ta'an. 4:8). Wedding crowns for grooms were abolished after 70 CE (m. Sotah 9:14).
+- id: hb-song-4-wasf-of-bride
+  tradition: judaism
+  title: Descriptive song of the bride's beauty
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 4:1-7
+  tags:
+  - motif: wasf-description-of-body
+    refs:
+    - Song 4:1
+    - Song 4:7
+  - motif: eyes-are-doves
+    refs:
+    - Song 4:1
+    note: behind your veil (tsammah)
+  - motif: hair-like-flock-of-goats-on-gilead
+    refs:
+    - Song 4:1
+  - motif: teeth-like-shorn-ewes-twins
+    refs:
+    - Song 4:2
+  - motif: lips-scarlet-thread-temples-pomegranate
+    refs:
+    - Song 4:3
+  - motif: neck-like-tower-of-david-shields
+    refs:
+    - Song 4:4
+    note: talpiyyot, obscure
+  - motif: breasts-like-twin-fawns
+    refs:
+    - Song 4:5
+  - motif: until-day-breathes-shadows-flee
+    refs:
+    - Song 4:6
+  - motif: mountain-of-myrrh-hill-of-frankincense
+    refs:
+    - Song 4:6
+  - motif: beloved-without-blemish
+    refs:
+    - Song 4:7
+  hints:
+  - The term wasf comes from Syrian Arab wedding songs (Wetzstein 1873). Compare Egyptian love-song descriptions of the beloved's hair, teeth and breasts (Chester Beatty I, first stanza).
+- id: hb-song-4-locked-garden
+  tradition: judaism
+  title: Come from Lebanon; sister-bride; the locked garden and its consummation
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 4:8-5:1
+  tags:
+  - motif: bride-called-from-lebanon-lions-dens
+    refs:
+    - Song 4:8
+  - motif: sister-bride
+    refs:
+    - Song 4:9
+    - Song 4:10
+    - Song 4:12
+    - Song 5:1
+  - motif: ravished-by-one-glance
+    refs:
+    - Song 4:9
+  - motif: love-better-than-wine
+    refs:
+    - Song 4:10
+  - motif: honey-and-milk-under-tongue
+    refs:
+    - Song 4:11
+  - motif: locked-garden-sealed-fountain
+    refs:
+    - Song 4:12
+  - motif: garden-of-spices-catalogue
+    refs:
+    - Song 4:13
+    - Song 4:14
+    note: pardes (Persian), karkom (saffron), qinnamon
+  - motif: well-of-living-water-from-lebanon
+    refs:
+    - Song 4:15
+  - motif: winds-blow-on-garden-lover-eats-fruit
+    refs:
+    - Song 4:16
+  - motif: eat-friends-drink-be-drunk-with-love
+    refs:
+    - Song 5:1
+  hints:
+  - The 'hortus conclusus' and 'fons signatus' became Marian titles in Latin Christianity; rabbinic readings apply 4:12 to Israel's chastity in Egypt (Song Rab. 4:12).
+  - '''Sister'' for the bride parallels Egyptian snt (''sister'') in love songs and Ugaritic usage.'
+- id: hb-song-5-door-and-watchmen
+  tradition: judaism
+  title: The knock at night, the vanished lover and the watchmen's blows
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 5:2-8
+  tags:
+  - motif: i-sleep-but-heart-wakes
+    refs:
+    - Song 5:2
+  - motif: hesitant-lover-garment-off-feet-washed
+    refs:
+    - Song 5:3
+  - motif: hand-through-latch-hole
+    refs:
+    - Song 5:4
+  - motif: myrrh-dripping-on-door-bolt
+    refs:
+    - Song 5:5
+  - motif: lover-vanishes-when-door-opened
+    refs:
+    - Song 5:6
+    note: '''my soul went out when he spoke'''
+  - motif: night-search-for-beloved-in-city
+    refs:
+    - Song 5:6
+  - motif: watchmen-of-city
+    refs:
+    - Song 5:7
+  - motif: watchmen-beat-and-strip-woman
+    refs:
+    - Song 5:7
+  - motif: lovesick-woman-raisin-cakes-apples
+    refs:
+    - Song 5:8
+    note: '''tell him I am sick with love'''
+  hints:
+  - The paraklausithyron (lover locked out at the door) is a Greek and Latin love-poetry genre (Theocritus 3, Propertius 1.16); Egyptian love songs also stage the lover at the door. Rev 3:20 echoes the knock.
+  - Inanna's stripping as she descends to the underworld has been compared with 5:7.
+- id: hb-song-5-wasf-of-beloved
+  tradition: judaism
+  title: Descriptive song of the beloved man ('radiant and ruddy')
+  corpus: hebrew-bible
+  original: true
+  tagger: Claude (model), reading the Hebrew
+  read:
+  - Song 5:9-16
+  tags:
+  - motif: what-is-your-beloved-more-than-another
+    refs:
+    - Song 5:9
+  - motif: radiant-and-ruddy-chief-among-ten-thousand
+    refs:
+    - Song 5:10
+  - motif: wasf-description-of-body
+    refs:
+    - Song 5:10
+    - Song 5:16
+  - motif: lover-body-as-gold-and-jewel-statue
+    refs:
+    - Song 5:11
+    - Song 5:14
+    - Song 5:15
+  - motif: locks-black-as-raven
+    refs:
+    - Song 5:11
+  - motif: eyes-like-doves-by-streams-bathed-in-milk
+    refs:
+    - Song 5:12
+  - motif: perfumes-nard-myrrh-henna
+    refs:
+    - Song 5:13
+    note: cheeks like beds of spices, lips lilies dripping myrrh
+  - motif: love-poetry-dialogue-of-lovers
+    refs:
+    - Song 5:16
+    note: '''this is my beloved and this is my friend, daughters of Jerusalem'''
+  hints:
+  - The man described as a statue of gold, ivory and lapis matches cult-image descriptions of gods (Egyptian gods with gold flesh and lapis hair); the Shi'ur Qomah mystical tradition measures God's body from this wasf.
