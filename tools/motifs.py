@@ -79,6 +79,7 @@ def load(strict=True):
     return vocab, units
 
 
+DIVERGING = ("divergence", "response", "contrast")
 CONFIRMED = {}       # frozenset({unit a, unit b}) -> match details, from data/alignments/
 ALIGN_ERRORS = []
 
@@ -109,12 +110,18 @@ def load_alignments(vocab, units):
                 if a is None or b is None:
                     ALIGN_ERRORS.append(f"{rel}: unknown unit {r.get('unit') if a is None else x.get('with')}")
                     continue
+                mid, relation = x.get("motif"), x.get("relation") or "parallel"
+                if relation in DIVERGING and mid in vocab:
+                    # a divergence shares the matter, not the claim: neither verse gets the other side's label
+                    base, mid = mid, f"{mid}--{relation}"
+                    vocab.setdefault(mid, {"label": f"{vocab[base]['label']} [{relation} between the texts]",
+                                           "cluster": vocab[base].get("cluster"), "proposed_in": rel, "diverges_from": base})
                 for u, refs in ((a, x.get("refs") or []), (b, x.get("with_refs") or [])):
                     if not refs:
                         ALIGN_ERRORS.append(f"{rel}: {r['unit']} ~ {x['with']}: {x.get('motif')} needs refs on both sides")
-                    t = next((t for t in u["tags"] if t["motif"] == x.get("motif")), None)
+                    t = next((t for t in u["tags"] if t["motif"] == mid), None)
                     if t is None:
-                        u["tags"].append({"motif": x.get("motif"), "refs": list(refs), "via": rel,
+                        u["tags"].append({"motif": mid, "refs": list(refs), "via": rel,
                                           **({"note": x["note"]} if x.get("note") else {})})
                     else:
                         t["refs"] = list(dict.fromkeys(t["refs"] + list(refs)))

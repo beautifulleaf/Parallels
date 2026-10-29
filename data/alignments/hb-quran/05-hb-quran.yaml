@@ -6,6 +6,8 @@ new_motifs:
   blind-and-lame-admitted-or-excluded: {label: "Whether the blind and the lame may enter the house or share its table", cluster: law}
   egypt-enslaved-israel: {label: "Egypt reduced the Israelites to slavery", cluster: exodus}
   enemy-army-gathered-from-cities: {label: "The king musters his whole force to pursue the departing people", cluster: exodus}
+  presence-at-the-mountain-revelation: {label: "Who was present at the revelation on the mountain, and who knows it only by report", cluster: revelation}
+  wealth-of-lands-brought-to-sacred-city: {label: "Produce and wealth of every land brought to a sacred city", cluster: cult}
 reviewed:
   - unit: quran-22-disputers-and-waverers
     checked: [hb-ps-135-hymn-of-election, hb-ps-115-not-to-us, hb-hab-2-watchtower-and-woes, hb-isa-40-comfort-my-people, hb-jer-10-idols-scarecrows, hb-job-1-prologue-first-test, hb-job-2-second-test-and-friends]
@@ -2071,3 +2073,30 @@ reviewed:
         with_refs: ["Exod 7:11"]
         relation: echo
         note: "qālū mā hādhā illā siḥrun muftaran ~ wa-yyaʿăśû gam hēm ḥarṭummê Miṣrayim bə-lahăṭêhem kēn: the signs set on a level with sorcery; Exodus by imitation, the Quran by the charge 'forged magic'."
+  - unit: quran-28-prophet-not-present-and-the-two-books
+    checked: [hb-deut-13-enticers, hb-exod-34-thirteen-attributes-covenant-renewal, hb-deut-18-levites-prophet, hb-deut-5-decalogue, hb-deut-29-covenant-moab, hb-isa-60-arise-shine]
+    matches:
+      - with: hb-deut-18-levites-prophet
+        motif: prophet-like-moses
+        refs: ["28:48"]
+        with_refs: ["Deut 18:15"]
+        relation: echo
+        note: "qālū law-lā ūtiya mithla mā ūtiya Mūsā ~ nāvîʾ mi-qqirbəkā mē-ʾaḥêkā kāmōnî yāqîm ləkhā YHWH: the measure for a new prophet is Moses. Deuteronomy promises a prophet 'like me'; the Quran's opponents demand that the new messenger be given 'the like of what Moses was given', and the Quran answers that they had rejected Moses too (a-wa-lam yakfurū bimā ūtiya Mūsā min qabl)."
+      - with: hb-deut-5-decalogue
+        motif: presence-at-the-mountain-revelation
+        refs: ["28:44", "28:46"]
+        with_refs: ["Deut 5:3", "Deut 5:4"]
+        relation: contrast
+        note: "Deuteronomy insists its audience was there: lōʾ ʾet ʾăvōtênû kārat YHWH ʾet hab-bərît haz-zōʾt kî ʾittānû ʾănaḥnû ʾēlleh fōh hay-yôm ... pānîm bə-fānîm dibber YHWH ʿimmākhem bāhār. The Quran insists its prophet was not: wa-mā kunta bi-jānibi l-gharbiyyi idh qaḍaynā ilā Mūsā l-amra wa-mā kunta mina sh-shāhidīna ... wa-mā kunta bi-jānibi ṭ-Ṭūri idh nādaynā, so his knowledge of the event is revelation, a mercy from God."
+      - with: hb-deut-29-covenant-moab
+        motif: presence-at-the-mountain-revelation
+        refs: ["28:44", "28:45", "28:46"]
+        with_refs: ["Deut 29:13", "Deut 29:14"]
+        relation: divergence
+        note: "Those absent from the founding event: Deut 29:14 brings them into the covenant, wə-ʾēt ʾăšer ʾênennû pōh ʿimmānû hay-yôm; the Quran says its prophet, absent from Sinai and Midian, receives the story so as to warn a people who had no earlier warner (li-tundhira qawman mā atāhum min nadhīrin min qablika)."
+      - with: hb-isa-60-arise-shine
+        motif: wealth-of-lands-brought-to-sacred-city
+        refs: ["28:57"]
+        with_refs: ["Isa 60:5", "Isa 60:6", "Isa 60:11"]
+        relation: divergence
+        note: "a-wa-lam numakkin lahum ḥaraman āminan yujbā ilayhi thamarātu kulli shayʾin rizqan min ladunnā ~ ḥêl gôyim yāvōʾû lākh ... kullām mi-Šəvāʾ yāvōʾû zāhāv û-lvônâ yiśśāʾû ... ləhāvîʾ ʾēlayikh ḥêl gôyim: the produce or wealth of all lands flows to a sacred city. In Isaiah it is Zion in a promised future, brought as the nations' tribute; in the Quran it is Mecca's ḥaram, already given as God's provision and security."

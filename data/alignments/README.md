@@ -84,9 +84,12 @@ reviewed:
 
   For `divergence`, `response` and `contrast`, use a **neutral id** that names
   the shared matter, such as `payment-for-a-life` or `divine-title-sent-to-pharaoh`.
-  Do not use one side's claim, because the loader would put a label such as
-  "no ransom for a murderer" on the verse that says the opposite. Reuse a
-  neutral id when one already exists.
+  Do not use one side's claim, because it would put a label such as "no ransom
+  for a murderer" on the verse that says the opposite. Reuse a neutral id when
+  one already exists. As a safeguard, the loader always files these matches
+  under a derived id `<motif>--<relation>`, labelled "… [divergence between
+  the texts]". The pair is matched on the shared matter, and neither verse
+  carries the other's claim.
 - **note:** quote or transliterate the decisive words of each side. The note
   is what the people checking the Arabic and Hebrew will check first.
 - An empty `matches` list is a result: those candidates were compared and

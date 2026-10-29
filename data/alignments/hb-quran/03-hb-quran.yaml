@@ -1727,3 +1727,48 @@ reviewed:
         with_refs: ["Deut 32:39"]
         relation: parallel
         note: "huwa yuḥyī wa-yumītu wa-ilayhi turjaʿūn vs ʾănî ʾāmît waʾăḥayyeh."
+  - unit: quran-10-friends-of-god
+    checked: [hb-job-9-job-cannot-sue-god, hb-exod-20-decalogue, hb-isa-45-cyrus-the-anointed, hb-exod-4-signs-aaron-bridegroom-of-blood, hb-ps-139-searched-and-known, hb-jer-23-dreams-and-hammer, hb-ps-104-creation-hymn, hb-isa-29-ariel-and-sealed-book, hb-isa-41-trial-of-the-gods]
+    matches:
+      - with: hb-exod-4-signs-aaron-bridegroom-of-blood
+        motif: god-has-no-son
+        refs: ["10:68"]
+        with_refs: ["Exod 4:22"]
+        relation: contrast
+        note: "Divine sonship: Exod has God say kōh ʾāmar YHWH bᵉnî bᵉkōrî yiśrāʾēl (Israel as a people, figuratively); Q denies outright that God has a son, qālū ttakhadha llāhu waladan subḥānahu huwa l-ghaniyy. Q's target is probably not Exod. A lead on the word 'son' only."
+      - with: hb-ps-139-searched-and-known
+        motif: atoms-weight-recorded
+        refs: ["10:61"]
+        with_refs: ["Ps 139:15", "Ps 139:16"]
+        relation: parallel
+        note: "Nothing is hidden from God, and all is written in his book: wa-mā yaʿzubu ʿan rabbika min mithqāli dharratin fī l-arḍi wa-lā fī s-samāʾi ... illā fī kitābin mubīn vs lōʾ-nikḥad ʿoṣmî mimmekkā ... gālᵉmî rāʾû ʿênêkā wᵉʿal-sipᵉrᵉkā kullām yikkātēbû."
+      - with: hb-jer-23-dreams-and-hammer
+        motif: no-darkness-hides-evildoers
+        refs: ["10:61"]
+        with_refs: ["Jer 23:24"]
+        relation: parallel
+        note: "Nothing in heaven or earth escapes God: wa-mā yaʿzubu ʿan rabbika ... fī l-arḍi wa-lā fī s-samāʾ vs ʾim-yissātēr ʾîš bammistārîm waʾănî lōʾ-ʾerʾennû ... hălôʾ ʾet-haššāmayim wᵉʾet-hāʾāreṣ ʾănî mālēʾ."
+      - with: hb-ps-104-creation-hymn
+        motif: night-for-rest-day-for-seeing
+        refs: ["10:67"]
+        with_refs: ["Ps 104:22", "Ps 104:23"]
+        relation: parallel
+        note: "Night for rest and day for work: jaʿala lakumu l-layla li-taskunū fīhi wa-n-nahāra mubṣiran vs tizraḥ haššemeš yēʾāsēpûn wᵉʾel-mᵉʿônōtām yirbāṣûn yēṣēʾ ʾādām lᵉpāʿŏlô wᵉlaʿăbōdātô ʿădê-ʿāreb. In Ps the night belongs to the beasts; in Q it is for human rest."
+      - with: hb-isa-45-cyrus-the-anointed
+        motif: god-creates-light-and-darkness-peace-and-evil
+        refs: ["10:67"]
+        with_refs: ["Isa 45:7"]
+        relation: echo
+        note: "yôṣēr ʾôr ûbôrēʾ ḥōšek vs huwa lladhī jaʿala lakumu l-layla ... wa-n-nahāra mubṣiran: God as maker of both night and day."
+      - with: hb-isa-29-ariel-and-sealed-book
+        motif: self-made-food-prohibitions-condemned
+        refs: ["10:59"]
+        with_refs: ["Isa 29:13"]
+        relation: echo
+        note: "Religious rules made by men in place of God's: fa-jaʿaltum minhu ḥarāman wa-ḥalālan qul āllāhu adhina lakum am ʿalā llāhi taftarūn vs wattᵉhî yirʾātām ʾōtî miṣwat ʾănāšîm mᵉlummādāh."
+      - with: hb-isa-41-trial-of-the-gods
+        motif: friends-of-god-no-fear
+        refs: ["10:62", "10:63"]
+        with_refs: ["Isa 41:8", "Isa 41:10"]
+        relation: echo
+        note: "God's friends need not fear: alā inna awliyāʾa llāhi lā khawfun ʿalayhim wa-lā hum yaḥzanūn vs zeraʿ ʾabrāhām ʾōhăbî ... ʾal-tîrāʾ kî ʿimmᵉkā-ʾānî ʾal-tištāʿ. Isa says it to Abraham's seed; Q to all who believe and fear God."
