@@ -186,7 +186,18 @@ Leads are built on original-language texts, not translations or glosses.
   - **Hittite:** Hethitologie-Portal.
   - **Egyptian:** the TLA (also on Hugging Face, which is rate-limited without
     a token).
-  - **Ugaritic:** no open corpus found yet.
+  - **Ugaritic**, from the user's pointers, checked:
+    - **EUPT (Göttingen):** the most promising source. Its public `eupt-xml`
+      repository (gitlab.gwdg.de/subugoe/eupt, MIT) holds TEI editions of
+      Kirta (KTU 1.14–1.15) and a motif glossary. The full poetic corpus
+      (Baal Cycle, Aqhat) is served through its web edition (TextAPI). Its
+      export is still to be probed.
+    - **ORACC aemw/ugarit:** the Akkadian-language texts from Ugarit, not
+      the alphabetic Ugaritic ones.
+    - **KTU and the religious-texts anthology on the Internet Archive:**
+      scanned print editions for borrowing, not machine-readable. Usable as
+      a reference for checking readings.
+    - **Ugaritic Data Bank:** commercial; not used.
   ORACC needs the intermediate certificate in `data/certs/`.
 - **v2 — Aramaic world and the ancient Near East.**
   - Syriac Peshitta, Targums, Septuagint.
