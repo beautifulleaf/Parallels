@@ -60,6 +60,17 @@ def load(strict=True):
         for u in doc.get("units") or []:
             u["file"] = rel
             units.append(u)
+    # merged ids (data/motif-aliases.yaml): tags resolve to the canonical id
+    alias_path = DATA / "motif-aliases.yaml"
+    aliases = (yaml.safe_load(alias_path.read_text(encoding="utf-8")) or {}).get("aliases", {}) if alias_path.exists() else {}
+    for a, c in aliases.items():
+        if a in vocab:
+            vocab[a]["alias_of"] = c
+    for u in units:
+        for t in u["tags"]:
+            if t["motif"] in aliases:
+                t["written_as"] = t["motif"]
+                t["motif"] = aliases[t["motif"]]
     return vocab, units
 
 
