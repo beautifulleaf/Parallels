@@ -1241,13 +1241,13 @@ units:
       - {motif: annunciation-of-son-and-name, refs: ["19:7"], note: "a boy named Yaḥyā"}
       - {motif: name-never-given-before, refs: ["19:7"], note: "lam najʿal lahu min qablu samiyyan; compare Luke 1:61 'none of your kindred is called by this name'"}
       - {motif: father-doubts-annunciation-due-to-age, refs: ["19:8"], note: "'I have reached extreme old age' (ʿitiyyan)"}
-      - {motif: easy-for-god-who-created-from-nothing, refs: ["19:9", "19:21"], note: "huwa ʿalayya hayyin"}
+      - {motif: easy-for-god-who-created-from-nothing, refs: ["19:9"], note: "huwa ʿalayya hayyin; repeated to Mary in 19:21"}
       - {motif: muteness-as-sign-of-conception, refs: ["19:10", "19:11"], note: "three nights without speaking to people, though sound (sawiyyan)"}
       - {motif: prophet-struck-dumb, refs: ["19:10"]}
       - {motif: priest-emerges-from-sanctuary-and-signs, refs: ["19:11"], note: "he came out of the miḥrāb and signaled (awḥā) to them to glorify morning and evening"}
       - {motif: child-given-wisdom-as-boy, refs: ["19:12"], note: "'take the Book with strength'; al-ḥukm ṣabiyyan"}
-      - {motif: dutiful-to-parents-not-tyrant, refs: ["19:14", "19:32"]}
-      - {motif: peace-on-day-of-birth-death-and-resurrection, refs: ["19:15", "19:33"], note: "said of John in third person, by Jesus of himself in first person"}
+      - {motif: dutiful-to-parents-not-tyrant, refs: ["19:14"], note: "echoed of Jesus in 19:32"}
+      - {motif: peace-on-day-of-birth-death-and-resurrection, refs: ["19:15"], note: "said of John in the third person; Jesus says it of himself in 19:33"}
     hints:
       - "Luke 1:5-25, 57-80. Hannah's silent prayer (1 Sam 1:13) is the HB parallel to 19:3."
 
