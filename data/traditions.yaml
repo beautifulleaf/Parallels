@@ -1,0 +1,45 @@
+# Tradition taxonomy. Leads reference these ids in their `traditions` list.
+# group > family > tradition, mirroring TRADITIONS.md.
+
+groups:
+  - id: islamic
+    name: Islamic
+    note: Reference point for most seed leads; compared with every tradition.
+  - id: western
+    name: Western
+  - id: central
+    name: Central
+  - id: eastern
+    name: Eastern
+
+traditions:
+  - {id: islam, name: Islam, group: islamic, family: Islamic}
+
+  - {id: ane-sumerian, name: Sumerian, group: western, family: Ancient Near East}
+  - {id: ane-akkadian, name: Akkadian, group: western, family: Ancient Near East}
+  - {id: ane-ugaritic, name: Ugaritic / Canaanite, group: western, family: Ancient Near East}
+  - {id: ane-egyptian, name: Egyptian, group: western, family: Ancient Near East}
+  - {id: ane-hittite, name: Hittite / Hurrian, group: western, family: Ancient Near East}
+
+  - {id: greco-roman, name: Greco-Roman, group: western, family: Greco-Roman}
+
+  - {id: zoroastrianism, name: Zoroastrianism, group: western, family: Dualist}
+  - {id: manichaeism, name: Manichaeism, group: western, family: Dualist}
+  - {id: mandaeism, name: Mandaeism, group: western, family: Dualist}
+
+  - {id: judaism, name: Judaism, group: western, family: Covenantal}
+  - {id: christianity-early, name: Early Christianity & Gnostics, group: western, family: Covenantal}
+  - {id: christianity-eastern, name: Eastern Christianity, group: western, family: Covenantal}
+  - {id: christianity-western, name: Western Christianity, group: western, family: Covenantal}
+  - {id: christianity-modern, name: Newer movements & modern theology, group: western, family: Covenantal}
+  - {id: samaritanism, name: Samaritanism, group: western, family: Covenantal}
+
+  - {id: western-philosophy, name: Western Philosophy (Enlightenment on), group: western, family: Western Philosophy}
+
+  - {id: sikhism, name: Sikhism, group: central, family: Sikhism}
+  - {id: jainism, name: Jainism, group: central, family: Jainism}
+  - {id: hinduism, name: Hinduism, group: central, family: Hinduism}
+
+  - {id: buddhism, name: Buddhism, group: eastern, family: Buddhism}
+  - {id: shinto, name: Shinto, group: eastern, family: Shinto}
+  - {id: chinese-religion, name: Chinese religion, group: eastern, family: Chinese religion}
