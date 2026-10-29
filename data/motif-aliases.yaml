@@ -1,59 +1,86 @@
 note: Motif ids merged after the full Hebrew Bible read. Each alias resolves to its canonical id; tag
   files keep the ids their readers wrote. Pairs were proposed by label-embedding similarity (>=0.78) and
-  judged one by one; deliberate distinctions were kept apart.
+  judged one by one; deliberate distinctions were kept apart. A second round after the full Quran read
+  added the Quran's near-duplicates (pairs proposed the same way, each judged by hand); opposite rulings
+  such as Deut 24:1-4 vs Q 2:230 were kept apart.
 aliases:
+  abraham-prays-for-idolatrous-father: abraham-prays-for-father-then-disowns
+  adam-repents-and-is-forgiven: adam-receives-words-of-repentance
   adultery-capital-both-parties: adultery-both-die
   all-kings-seek-the-wise-king: nations-come-to-hear-wisdom
   almug-wood-instruments: almug-wood-for-lyres
   altar-of-unhewn-stone: altar-of-unhewn-stones
   angels-and-hosts-summoned-to-praise: angels-and-hosts-summoned-to-bless
+  angels-as-daughters-of-god-rejected: pagan-daughters-of-god
+  angels-commanded-to-bow-to-adam: angels-commanded-to-prostrate-to-adam
+  angels-reinforce-battle-thousands: angelic-reinforcement-in-battle
   animal-firstborn-seven-days-with-mother: newborn-animal-seven-days-with-mother
   armor-bearer-follows-in-death: armor-bearer-dies-with-master
   atrocities-infants-dashed-pregnant-ripped: pregnant-women-ripped-open
+  birds-held-up-by-god: birds-held-aloft-by-the-merciful
   blood-prohibition: prohibition-of-eating-blood
   bronze-cast-in-clay-ground-jordan: casting-in-clay-ground-of-jordan
   bronze-weight-not-counted: bronze-beyond-weighing
   camel-caravan-of-spices-gold: caravan-of-spices-gold-gems
   challenge-let-us-look-each-other-in-face: let-us-look-each-other-in-the-face
   chariot-of-israel-and-horsemen: my-father-chariot-of-israel
+  chastity-except-wives-and-slaves: chastity-except-with-wives-and-slaves
   child-king: boy-king
   children-burned-to-foreign-gods: child-sacrifice-by-fire-condemned
   chosen-people-treasured-possession: chosen-treasured-people
   circumference-ratio-thirty-to-ten: circumference-ratio-three
   clay-questions-potter: pot-questions-potter
   cloud-and-thick-darkness-around-god: god-dwells-in-thick-darkness
+  companions-of-the-thicket: shuayb-sent-to-people-of-the-thicket
   condolence-embassy-suspected-as-spies: condolence-envoys-suspected-as-spies
+  constellations-in-sky: constellations-adorn-sky
   covenant-formula-your-god-my-people: covenant-formula-my-people-your-god
   covenant-with-beasts-and-peace: covenant-of-peace-wild-beasts-banished
   covenant-with-patriarchs-remembered: god-remembers-patriarchal-covenant
+  creation-not-in-jest: creation-not-in-play
   creator-hymn-storehouses-of-wind: heavenly-storehouse-of-rain
   daily-morning-and-evening-lamb: daily-tamid-offering
+  daughters-of-god-polemic: pagan-daughters-of-god
   davidic-covenant-eternal-dynasty: eternal-davidic-dynasty
   davids-weapons-kept-in-temple: davids-weapons-in-temple
+  dead-earth-revived-by-rain-as-resurrection-proof: rain-revives-dead-earth
+  death-and-life-created-to-test: creation-to-test-best-in-deeds
   defeat-of-sihon-and-og: sihon-and-og-defeated
+  demand-ascent-and-book-brought-down: book-from-heaven-demanded
+  distress-prayer-then-forget: distress-prayer-then-ingratitude
   divine-face-hidden-or-turned: hiding-of-the-face
   divine-name-withheld: angel-name-withheld
   donkey-firstling-redeemed-or-neck-broken: donkey-firstborn-redeemed-or-neck-broken
   doublet-psalm: duplicate-psalm
   dying-king-propped-in-chariot: dies-at-sunset
   ear-pierced-at-doorpost-perpetual-slave: ear-pierced-at-door-perpetual-slave
+  earlier-peoples-mocked-their-prophets: prophets-mocked
   earth-filled-with-knowledge-as-waters-cover-sea: earth-full-of-knowledge-of-god
+  earth-spread-as-cradle: earth-as-cradle
   edict-in-every-script-and-language: decree-in-every-script-and-language
   end-of-days-prophecy: end-of-days-oracle
+  enter-gate-prostrating-saying-hitta: enter-gate-prostrate-say-hitta
   envoy-sent-among-nations-to-rouse-war: envoy-sent-among-nations
   envoys-humiliated-shaved-garments-cut: envoys-humiliated-half-beard-shaved
   everlasting-covenant-renewed: everlasting-covenant
+  everything-perishes-but-his-face: all-perish-but-the-face-of-god
   eye-for-an-eye: eye-for-eye
+  fables-of-the-ancients: ancients-fables-accusation
+  false-gods-disown-worshippers: false-gods-disown-worshipers
   fat-tail-offered: fat-tail-offering
   fathers-ate-sour-grapes: sour-grapes-proverb
   firstborn-belongs-to-god: firstborn-belong-to-god
+  follow-religion-of-abraham: religion-of-abraham-hanif
+  foods-forbidden-to-jews-as-punishment: good-things-forbidden-to-jews-as-punishment
   foreign-conqueror-as-gods-servant: foreign-king-called-gods-servant
   foreign-king-sends-son-with-congratulations: allied-king-sends-son-with-gifts
   foreigners-prayer-at-temple-heard: foreigner-prays-at-temple
   forty-year-reign: regnal-forty-years
   giant-with-six-fingers-six-toes: giant-with-six-fingers-and-toes
+  give-kin-poor-wayfarer-their-due: give-kin-poor-and-wayfarer-their-due
   god-breaks-weapons-of-war: god-ends-wars-breaks-bow-burns-chariots
   god-comes-to-judge-the-earth: god-comes-to-judge-earth
+  god-could-replace-humanity: god-can-replace-humanity-with-new-creation
   god-dwells-in-tent-not-house: god-dwelt-in-tent-not-house
   god-feeds-young-ravens: god-feeds-wild-animals
   god-first-and-last: first-and-last
@@ -61,21 +88,32 @@ aliases:
   god-girded-with-might: god-clothed-in-majesty
   god-hears-from-heaven-toward-temple: prayer-toward-the-temple
   god-helper-of-orphan: father-of-orphans-judge-of-widows
+  god-is-my-lord-and-your-lord: jesus-says-my-lord-and-your-lord
   god-looks-down-on-humankind: god-looks-down-from-heaven
   god-makes-great-name: great-name-promised
   god-midwife-from-womb: trust-from-the-womb
+  god-mounted-the-throne: god-established-on-throne
   god-offers-king-any-wish: god-offers-a-wish
   god-offers-to-destroy-and-make-new-nation: god-offers-new-nation-from-hero
   god-offers-to-make-prophet-a-new-nation: god-offers-new-nation-from-hero
+  god-seals-hearts: god-seals-hearts-ears-eyes
   god-sends-evil-spirit: evil-spirit-from-god
+  god-shaped-you-and-made-your-forms-good: god-formed-you-and-made-your-forms-beautiful
   god-speaks-from-between-cherubim: voice-from-between-cherubim
+  god-will-replace-people-who-turn-away: god-replaces-people
+  god-will-replace-you-with-another-people: god-replaces-people
   golden-shields-taken-as-trophies: golden-shields-trophies
   gradual-conquest-lest-wild-beasts-multiply: conquest-little-by-little-wild-beasts
   great-king-above-all-gods: yhwh-above-all-gods
   hammanim-incense-altars: hammanim-incense-stands
   healed-foreigner-confesses-one-god: foreigner-confesses-israels-god
+  hearts-sealed: god-seals-hearts-ears-eyes
   heaven-cannot-contain-god: god-cannot-be-contained-by-temple
+  heavens-nearly-split-at-blasphemy: heavens-nearly-burst-apart
+  heavens-without-visible-pillars: heavens-raised-without-pillars
   hebrew-slave-freed-in-seventh-year: release-of-slaves-seventh-year
+  hell-sees-them-from-afar-raging: hell-roars-and-nearly-bursts-with-rage
+  helpers-of-god-disciples-of-jesus: disciples-helpers-of-god
   herald-on-mountains-proclaims-peace: beautiful-feet-of-herald
   hero-kills-lion-in-pit-on-snowy-day: lion-killed-in-pit-on-snowy-day
   hero-wrests-spear-from-giant-egyptian: egyptian-giant-killed-with-own-spear
@@ -84,11 +122,19 @@ aliases:
   host-offers-daughter-to-mob: host-offers-daughters
   house-blessed-for-sake-of-ark: ark-blesses-host-household
   human-bones-burned-on-altar: human-bones-defile-shrine
+  iblis-expelled-and-cursed-until-judgment: iblis-expelled-and-cursed
+  iblis-refuses-to-bow: devil-refuses-to-bow-to-adam
   idol-polemic-no-breath: idols-have-no-breath
+  idols-created-nothing-challenge: show-me-what-your-gods-created
+  idols-disown-worshippers: false-gods-disown-worshipers
   incomparable-people-redeemed-from-egypt: israel-unique-nation-redeemed
+  infanticide-for-poverty-forbidden: do-not-kill-children-for-fear-of-poverty
+  intercession-only-by-gods-leave: intercession-only-by-permission
   invader-plunders-temple-treasury: temple-treasures-plundered
+  invoked-gods-disown-worshippers: false-gods-disown-worshipers
   ivory-throne-six-steps-twelve-lions: ivory-throne-six-steps-lions
   judgment-on-gods-of-egypt: judgment-on-egypts-gods
+  judgment-scales-heavy-and-light: deeds-weighed-in-scales
   just-king-does-justice-and-righteousness: just-king-does-mishpat-tsedaqah
   king-chooses-wisdom-over-wealth: asks-wisdom-not-riches
   king-diseased-in-feet-in-old-age: diseased-feet-of-king
@@ -101,15 +147,23 @@ aliases:
   king-slain-by-own-sons-in-temple: king-killed-by-sons-in-temple
   king-suicide-by-own-sword: king-falls-on-own-sword
   king-taken-from-following-the-sheep: shepherd-called-from-flock-to-rule
+  knowledge-of-hour-with-god-alone: hour-known-only-to-god
   labor-overseer-stoned: taskmaster-stoned
   land-flowing-milk-honey: land-flowing-milk-and-honey
   land-flowing-with-milk-and-honey: land-flowing-milk-and-honey
+  last-trumpet-blast: trumpet-blown-at-resurrection
   leader-shown-land-before-death: view-land-from-mountaintop
   leftover-sacrifice-third-day-abomination: piggul-third-day-meat-abhorrent
   leftovers-burned-by-morning: leftover-sacred-meat-burned-by-morning
   levite-singers-appointed: levite-singers-appointed-by-david
   little-sleep-little-slumber: poverty-comes-like-robber
+  living-self-subsisting-god: ever-living-self-subsisting
+  loan-to-god: goodly-loan-to-god-doubled
+  loan-to-god-multiplied: goodly-loan-to-god-doubled
+  lord-of-the-easts: lord-of-the-easts-and-wests
   lying-spirit-in-mouth-of-prophets: lying-spirit-sent-by-god
+  magicians-ask-pharaoh-for-reward: magicians-ask-for-reward
+  magicians-converted-prostrate: magicians-fall-prostrate-and-believe
   manna-like-coriander-tastes-of-honey-wafers: manna-description
   may-the-king-live-forever: long-live-the-king-formula
   measuring-line-for-new-jerusalem: measuring-line-over-jerusalem
@@ -118,40 +172,60 @@ aliases:
   molten-sea-on-twelve-oxen: bronze-sea-on-twelve-oxen
   mothers-dashed-with-children: pregnant-women-ripped-open
   mountain-of-yhwh-highest-of-mountains: mountain-of-gods-house-highest
+  mountains-as-anchors: mountains-as-pegs
   mourning-rites-baldness-beards-sackcloth: baldness-and-gashing-in-mourning
   music-and-dance-before-ark: ark-brought-up-with-music
   national-lament: communal-lament
+  night-pursues-day: night-covers-day
+  nine-signs-to-pharaoh: nine-signs-of-moses
   no-balm-in-gilead: balm-of-gilead
   no-human-who-does-not-sin: no-man-who-does-not-sin
   no-interest-to-brother: interest-forbidden-to-brother
+  oath-by-the-glorious-quran: oath-by-the-quran
   one-law-for-alien-and-citizen: one-law-for-stranger
   one-law-for-citizen-and-stranger: one-law-for-stranger
   one-who-pisses-against-the-wall: male-who-pisses-against-wall
+  only-four-food-prohibitions: four-food-prohibitions
+  orphans-property-protected: orphan-property-guardianship
   overlord-renames-vassal-king: king-deposed-and-renamed-by-overlord
+  pagans-admit-god-is-lord: pagans-admit-god-is-creator
   palace-conspiracy-kills-king: king-assassinated-by-servants
+  paradise-gardens-rivers-flow-beneath: gardens-with-rivers-beneath
+  paradise-wide-as-heavens-and-earth: garden-wide-as-heavens-and-earth
+  paradise-wine-without-headache: paradise-wine-no-headache-no-intoxication
   people-ask-mediator: people-fear-direct-revelation
   people-complain-in-wilderness: murmuring-in-wilderness
   people-of-land-kill-conspirators: people-of-the-land-enthrone-king
   people-try-to-stone-leaders: people-threaten-to-stone-leader
   peoples-labor-only-for-fire: peoples-labor-for-fire
   perpetual-lamp-pure-olive-oil: eternal-lamp-pure-olive-oil
+  pharaoh-orders-tower-to-gods-god: pharaoh-orders-haman-to-build-tower
   place-named-for-event: place-name-etiology
   plant-fable-thistle-and-cedar: fable-thistle-and-cedar
+  plot-and-counterplot-of-god: divine-counter-plot
   poor-mans-bird-offering: poor-substitute-two-birds
+  praise-before-sunrise-and-sunset: glorify-before-sunrise-and-sunset
   prohibition-of-coveting: covet-prohibition
+  prophecy-and-scripture-in-abrahams-line: prophecy-and-book-in-seed-of-noah-and-abraham
   prophet-approves-then-reversed-by-night-oracle: prophet-corrected-by-night-revelation
+  prophet-as-witness-herald-warner-lamp: prophet-as-witness-bearer-of-tidings-warner
   prophet-barred-from-promised-land: leader-barred-from-promised-land
+  prophet-cannot-make-dead-hear: dead-and-deaf-cannot-be-made-to-hear
   prophet-falls-on-face-before-god: prophet-falls-on-face-at-vision
+  prophet-grieves-to-death-over-unbelief: prophet-grieves-over-unbelievers
   prophet-hated-for-always-prophesying-evil: one-true-prophet-hated-by-king
   prophet-iron-horns-sign-act: iron-horns-sign-act
   prophet-ironically-echoes-false-oracle: prophet-first-echoes-then-tells-truth
+  prophet-refuses-to-drive-away-poor-believers: lowly-followers-objected
   prophet-slapped-on-cheek: prophet-struck-on-cheek
   prophet-stands-in-temple-court-to-preach: prophet-preaches-at-temple-gate
+  prophet-told-not-to-hasten-recitation: do-not-hasten-recitation
   prophet-writes-on-large-tablet: write-it-for-witness-forever
   prophetic-book-superscription-by-reigns: prophetic-book-superscription
   prophetic-symbolic-act: prophetic-sign-act
   prostration-toward-temple: bow-toward-holy-temple
   proverbs-of-solomon-title: solomonic-proverb-collection-heading
+  psalms-given-to-david: david-given-the-psalms
   public-reading-of-covenant-book: book-of-the-covenant-read-aloud
   puncta-extraordinaria-dots: puncta-extraordinaria
   punishment-to-third-and-fourth-generation: sins-visited-to-third-fourth-generation
@@ -160,27 +234,41 @@ aliases:
   queen-of-sheba-tests-with-riddles: queen-tests-king-with-riddles
   rabshakeh-taunt-gods-of-nations-failed: where-are-the-gods-taunt
   rain-in-its-season-blessing: god-gives-rain-and-harvest
+  rain-on-dead-land-as-resurrection-proof: rain-revives-dead-earth
   random-arrow-kills-disguised-king: random-arrow-fulfills-prophecy
   refuses-gift-pays-full-price-for-holy-site: king-insists-on-paying-full-price
+  religion-made-manifest-over-all: religion-of-truth-to-prevail-over-all
   remnant-canaanites-as-forced-labor: canaanites-made-forced-labor
   remnant-peoples-made-slave-labor: canaanites-made-forced-labor
   renaming-conquered-towns: towns-named-after-conqueror
+  repel-evil-with-good: repel-evil-with-better
   request-for-kings-concubine-as-claim: taking-kings-concubine-claim-to-throne
   restoration-of-fortunes: restoration-from-zion-shuv-shevut
+  resurrection-from-dust-doubted: resurrection-from-bones-and-dust-doubted
+  right-of-beggar-and-deprived-in-wealth: fixed-right-of-poor-in-wealth
   rival-sons-bury-father-together: estranged-brothers-bury-father
+  rivers-flow-beneath-gardens: gardens-with-rivers-beneath
   royal-infant-hidden-with-nurse: royal-infant-hidden-in-temple
   royal-sons-by-different-wives-list: sons-of-king-by-mothers-list
+  sabbath-breakers-turned-to-apes: sabbath-breakers-cursed-transformed
+  satan-as-companion: satan-assigned-as-companion
+  satan-whispers: devil-whispers-temptation
   secession-cry-to-your-tents: to-your-tents-o-israel
+  sects-dispute-over-jesus: sects-differ-about-jesus
+  seekers-of-forgiveness-before-dawn: righteous-sleep-little-and-pray-before-dawn
   seventy-went-down-to-egypt: seventy-descendants-total
   seventy-years-of-jeremiah: seventy-years-of-exile
   shaving-all-hair-for-purification: shaving-whole-body-purification
   showers-of-blessing: god-gives-rain-and-harvest
   sign-act-of-prophet: prophetic-sign-act
+  signs-in-creation-for-those-who-reason: signs-in-creation-catalogue
   silver-common-as-stones: silver-and-gold-common-as-stones
+  sky-splits-with-clouds-angels-descend: sky-split-frail-angels-on-its-edges
   son-not-father-builds-temple: son-builds-temple-for-name
   sons-of-the-living-god: children-of-god-israel
   sound-of-millstones-and-lamp-cease: voice-of-bride-and-groom-silenced
   source-citation-annals: source-book-cited
+  stones-of-baked-clay: stones-of-baked-clay-marked
   storm-of-divine-wrath: storm-of-yhwhs-wrath
   subject-nations-bring-tribute: vassals-bring-tribute-minchah
   tablets-written-by-finger-of-god: written-by-finger-of-god
@@ -196,16 +284,21 @@ aliases:
   touching-ark-struck-dead: touching-ark-death
   triple-divine-name-el-elohim-yhwh: divine-name-triple-oath
   twin-bronze-pillars-jachin-boaz: jachin-and-boaz-pillars
+  two-seas-with-barrier: two-seas-sweet-and-salt-with-barrier
   virgins-spared-from-massacre: virgin-captives-spared
   washing-hands-in-innocence: wash-hands-in-innocence
   weekly-sabbath-rest: sabbath-rest
   what-do-you-see-wordplay-vision: vision-question-what-do-you-see
   what-portion-in-david-to-your-tents: to-your-tents-o-israel
+  when-we-are-dust-shall-we-return: resurrection-from-bones-and-dust-doubted
   where-is-your-god-taunt: where-is-their-god-taunt
   wicked-like-chaff-before-wind: wicked-as-chaff
   wind-from-gods-storehouses: heavenly-storehouse-of-rain
   wind-from-storehouses: heavenly-storehouse-of-rain
+  winds-herald-mercy-rain: winds-herald-mercy-pure-water
+  winds-heralding-rain: winds-herald-mercy-pure-water
   wisdom-better-than-silver-gold-pearls: wisdom-better-than-gold
   wisdom-of-edom-teman: wisdom-of-teman
   yah-my-strength-and-song: song-of-sea-quoted
   yhwh-enthroned-on-cherubim: enthroned-on-cherubim
+  zihar-wife-not-mother: zihar-repudiation-wife-as-mothers-back
