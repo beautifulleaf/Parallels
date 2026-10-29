@@ -207,7 +207,30 @@ every pair of traditions.
   - Rabbinic dating is often later than the traditions it records, so the
     direction of influence must be argued, not assumed.
 
-#### Christianity
+#### Samaritanism
+
+- **Scope:** the Samaritan Pentateuch tradition and later Samaritan
+  literature; a living community at Mount Gerizim/Nablus and Holon.
+- **Core texts:** the Samaritan Pentateuch; the Samaritan Targum; *Tibat
+  Marqe* (*Memar Marqe*); the Samaritan Arabic Pentateuch (Abu Saʿid); the
+  Samaritan chronicles.
+- **Languages:** Samaritan Hebrew, Samaritan Aramaic, Arabic.
+- **Digital sources:** critical editions (Tal & Florentin; Schorch's
+  edition project). Open data is limited.
+- **Motifs and themes:** Mount Gerizim as the chosen place; Moses as the sole
+  prophet; the Taheb (the "returning one"); purity.
+- **Seed leads:**
+  - *Lexical and response, contested:* *al-Sāmirī* and the golden calf (Quran
+    20:85–97).
+  - *Convergence or transmission:* the Taheb ↔ the messianic figure / the
+    Mahdi.
+  - *Response:* the Samaritan Pentateuch's variants (Gerizim in the
+    Decalogue) as a polemic against Jerusalem.
+- **Caveats:**
+  - The corpus is small and less digitized. The community is small and
+    living.
+
+### Christianity
 
 Christianity is covered from its origins to the present, as four
 sub-traditions. Until the Enlightenment it cannot be separated from Western
@@ -225,7 +248,7 @@ transmission from the Islamic world.
   divine simplicity; mystical union; prophecy and revelation; grace and free
   will.
 
-##### Early Christianity (to about the 5th century), including the Gnostics
+#### Early Christianity (to about the 5th century), including the Gnostics
 
 - **Scope:** the New Testament and early apocrypha; Jewish-Christian groups
   (Ebionites, Elchasaites); the Gnostics (Sethians, Valentinians, Basilides);
@@ -268,7 +291,7 @@ transmission from the Islamic world.
   - *Contested:* Aḥmad (Quran 61:6) ↔ the Paraclete (*paraklētos* vs.
     *periklytos*).
 
-##### Eastern Christianity
+#### Eastern Christianity
 
 - **Scope:**
   - Syriac Christianity (the West Syriac church and the Church of the East);
@@ -311,7 +334,7 @@ transmission from the Islamic world.
   - Claims that the Quran is a Syriac text underneath, in the style of
     Luxenberg, are fringe and must be labeled as such.
 
-##### Western Christianity (to the Enlightenment)
+#### Western Christianity (to the Enlightenment)
 
 Until the Enlightenment, Western philosophy and Christian theology cannot be
 separated, so they are treated as one sub-tradition here.
@@ -356,7 +379,7 @@ separated, so they are treated as one sub-tradition here.
   - *Convergence:* Spinoza's single substance ↔ the oneness of being
     (*waḥdat al-wujūd*).
 
-##### Newer movements and modern theology
+#### Newer movements and modern theology
 
 - **Scope:**
   - Movements: Swedenborgianism, Latter-day Saints (Mormons), Jehovah's
@@ -379,29 +402,6 @@ separated, so they are treated as one sub-tradition here.
   - *Convergence:* Tillich's "ground of being" ↔ the oneness of being.
   - *Convergence:* Teilhard's Omega Point ↔ the perfected human
     (*al-insān al-kāmil*).
-
-#### Samaritanism
-
-- **Scope:** the Samaritan Pentateuch tradition and later Samaritan
-  literature; a living community at Mount Gerizim/Nablus and Holon.
-- **Core texts:** the Samaritan Pentateuch; the Samaritan Targum; *Tibat
-  Marqe* (*Memar Marqe*); the Samaritan Arabic Pentateuch (Abu Saʿid); the
-  Samaritan chronicles.
-- **Languages:** Samaritan Hebrew, Samaritan Aramaic, Arabic.
-- **Digital sources:** critical editions (Tal & Florentin; Schorch's
-  edition project). Open data is limited.
-- **Motifs and themes:** Mount Gerizim as the chosen place; Moses as the sole
-  prophet; the Taheb (the "returning one"); purity.
-- **Seed leads:**
-  - *Lexical and response, contested:* *al-Sāmirī* and the golden calf (Quran
-    20:85–97).
-  - *Convergence or transmission:* the Taheb ↔ the messianic figure / the
-    Mahdi.
-  - *Response:* the Samaritan Pentateuch's variants (Gerizim in the
-    Decalogue) as a polemic against Jerusalem.
-- **Caveats:**
-  - The corpus is small and less digitized. The community is small and
-    living.
 
 ### Western Philosophy (Enlightenment onward)
 

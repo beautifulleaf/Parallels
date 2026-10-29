@@ -86,34 +86,34 @@
    "family": "Covenantal"
   },
   {
+   "id": "samaritanism",
+   "name": "Samaritanism",
+   "group": "western",
+   "family": "Covenantal"
+  },
+  {
    "id": "christianity-early",
    "name": "Early Christianity & Gnostics",
    "group": "western",
-   "family": "Covenantal"
+   "family": "Christianity"
   },
   {
    "id": "christianity-eastern",
    "name": "Eastern Christianity",
    "group": "western",
-   "family": "Covenantal"
+   "family": "Christianity"
   },
   {
    "id": "christianity-western",
    "name": "Western Christianity",
    "group": "western",
-   "family": "Covenantal"
+   "family": "Christianity"
   },
   {
    "id": "christianity-modern",
    "name": "Newer movements & modern theology",
    "group": "western",
-   "family": "Covenantal"
-  },
-  {
-   "id": "samaritanism",
-   "name": "Samaritanism",
-   "group": "western",
-   "family": "Covenantal"
+   "family": "Christianity"
   },
   {
    "id": "western-philosophy",

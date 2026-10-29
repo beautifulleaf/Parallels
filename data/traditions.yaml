@@ -28,11 +28,12 @@ traditions:
   - {id: mandaeism, name: Mandaeism, group: western, family: Dualist}
 
   - {id: judaism, name: Judaism, group: western, family: Covenantal}
-  - {id: christianity-early, name: Early Christianity & Gnostics, group: western, family: Covenantal}
-  - {id: christianity-eastern, name: Eastern Christianity, group: western, family: Covenantal}
-  - {id: christianity-western, name: Western Christianity, group: western, family: Covenantal}
-  - {id: christianity-modern, name: Newer movements & modern theology, group: western, family: Covenantal}
   - {id: samaritanism, name: Samaritanism, group: western, family: Covenantal}
+
+  - {id: christianity-early, name: Early Christianity & Gnostics, group: western, family: Christianity}
+  - {id: christianity-eastern, name: Eastern Christianity, group: western, family: Christianity}
+  - {id: christianity-western, name: Western Christianity, group: western, family: Christianity}
+  - {id: christianity-modern, name: Newer movements & modern theology, group: western, family: Christianity}
 
   - {id: western-philosophy, name: Western Philosophy (Enlightenment on), group: western, family: Western Philosophy}
 
