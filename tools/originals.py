@@ -161,7 +161,7 @@ class AneCorpus:
             sec, n = loc.split(":", 1)
         elif default_sec is not None:
             sec, n = default_sec, loc
-        elif list(secs) == [""]:
+        elif "" in secs:                      # the unnamed section, alone or beside named ones
             sec, n = "", loc
         else:
             return None
