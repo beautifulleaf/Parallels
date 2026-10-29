@@ -177,6 +177,17 @@ Leads are built on original-language texts, not translations or glosses.
   - Reference lexica only: Akkadian, Ugaritic, Egyptian, Sumerian.
   - One cross-family response pair: Han Kitab ↔ Zhu Xi.
   - Exit criterion: the v1 slice of the gold set is recovered.
+- **Next, after the full Hebrew Bible read: ancient Near East originals.** The
+  sources checked from this environment:
+  - **Sumerian:** ETCSL (literary corpus); ORACC ePSD2 (lemmatized).
+  - **Akkadian:** ORACC, e.g. SAA 2 for the treaties; eBL for the Babylonian
+    literary corpus; CDLI.
+  - **Amarna letters:** ORACC (aemw/amarna).
+  - **Hittite:** Hethitologie-Portal.
+  - **Egyptian:** the TLA (also on Hugging Face, which is rate-limited without
+    a token).
+  - **Ugaritic:** no open corpus found yet.
+  ORACC needs the intermediate certificate in `data/certs/`.
 - **v2 — Aramaic world and the ancient Near East.**
   - Syriac Peshitta, Targums, Septuagint.
   - **Mandaean** (Aramaic lexical track plus motifs).
