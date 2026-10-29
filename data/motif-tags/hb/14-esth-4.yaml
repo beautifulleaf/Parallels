@@ -34,7 +34,6 @@ new_motifs:
   royal-decree-cannot-be-revoked: {label: "A decree written in the king's name and sealed with his ring cannot be revoked", cluster: law}
   counter-decree: {label: "Since the first decree cannot be revoked, a second edict permits the threatened people to defend themselves", cluster: law}
   edict-in-every-script-and-language: {label: "Royal letters sent to every province in its own script and every people in its own language", cluster: kingship}
-  empire-127-provinces-india-to-cush: {label: "An empire of 127 provinces from India to Cush", cluster: kingship}
   royal-couriers-on-steeds: {label: "Mounted royal couriers on swift royal steeds carry the edict in haste", cluster: kingship}
   hero-in-royal-blue-and-white: {label: "The hero goes out in royal blue and white with a great gold crown and a purple linen mantle", cluster: kingship}
   light-and-gladness-for-jews: {label: "'The Jews had light and gladness, joy and honor'", cluster: festival}
@@ -46,7 +45,6 @@ new_motifs:
   second-day-of-fighting-in-capital: {label: "The queen requests a second day of reprisal in the capital", cluster: warfare}
   purim-festival-founded: {label: "Annual festival of Purim (14th/15th of Adar) instituted with feasting, joy, portions to friends and gifts to the poor", cluster: festival}
   purim-named-from-lot: {label: "The festival is named Purim after the 'pur', the lot cast by the villain", cluster: etiology}
-  lot-cast-to-fix-day-of-destruction: {label: "The villain casts the pur (lot) to choose the date of the massacre", cluster: divination}
   walled-and-unwalled-towns-different-day: {label: "Villagers of unwalled towns keep the festival on a different day from the capital", cluster: festival}
   festival-by-letter-of-leaders: {label: "A festival is established by letters of a lay leader and a queen, not by a prophet or priest", cluster: festival}
   festival-binding-on-proselytes: {label: "The festival binds the Jews, their descendants and all who join them", cluster: conversion}
@@ -484,7 +482,7 @@ units:
       - {motif: royal-decree-cannot-be-revoked, refs: ["Esth 8:8"]}
       - {motif: counter-decree, refs: ["Esth 8:5", "Esth 8:11", "Esth 8:13"]}
       - {motif: edict-in-every-script-and-language, refs: ["Esth 8:9"], note: "and to the Jews in their own script and language"}
-      - {motif: empire-127-provinces-india-to-cush, refs: ["Esth 8:9"]}
+      - {motif: empire-from-india-to-cush, refs: ["Esth 8:9"]}
       - {motif: royal-couriers-on-steeds, refs: ["Esth 8:10", "Esth 8:14"], note: "achashteranim bnei haramakhim: rare Persian loanwords for royal steeds"}
       - {motif: hero-in-royal-blue-and-white, refs: ["Esth 8:15"]}
       - {motif: light-and-gladness-for-jews, refs: ["Esth 8:16"]}
@@ -523,14 +521,14 @@ units:
     tags:
       - {motif: purim-festival-founded, refs: ["Esth 9:21", "Esth 9:22", "Esth 9:27", "Esth 9:28"], note: "mishloach manot and matanot la'evyonim"}
       - {motif: sorrow-turned-to-joy-month, refs: ["Esth 9:22"]}
-      - {motif: lot-cast-to-fix-day-of-destruction, refs: ["Esth 9:24"], note: "'hippil pur hu hagoral'"}
+      - {motif: pur-lot-cast-for-date, refs: ["Esth 9:24"], note: "'hippil pur hu hagoral'"}
       - {motif: purim-named-from-lot, refs: ["Esth 9:24", "Esth 9:26"]}
       - {motif: plot-returns-on-plotters-head, refs: ["Esth 9:25"]}
       - {motif: villain-hanged-on-own-gallows, refs: ["Esth 9:25"], note: "him and his sons"}
       - {motif: festival-by-letter-of-leaders, refs: ["Esth 9:20", "Esth 9:29", "Esth 9:32"], note: "Esther 'bat Avichayil' writes with full authority; a second letter"}
       - {motif: festival-binding-on-proselytes, refs: ["Esth 9:27"]}
       - {motif: communal-fast-for-deliverance, refs: ["Esth 9:31"], note: "'matters of the fasts and their lamentation'"}
-      - {motif: empire-127-provinces-india-to-cush, refs: ["Esth 9:30"]}
+      - {motif: empire-from-india-to-cush, refs: ["Esth 9:30"]}
     hints:
       - "Akkadian puru 'lot'; an inscribed lot-die of Iahali (Assyria, 9th c. BCE) is a physical pur."
       - "Comparisons of Purim with the Babylonian New Year (Marduk/Ishtar ~ Mordecai/Esther) and the Persian Farvardigan festival of the dead (Lagarde, Zimmern)."

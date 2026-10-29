@@ -1,0 +1,1491 @@
+new_motifs:
+  twelve-district-governors-monthly-provision: {label: "King appoints twelve district governors, each supplying the royal table for one month of the year", cluster: kingship}
+  princesses-married-to-officials: {label: "King's daughters are married to his district officials", cluster: kingship}
+  people-numerous-as-sand-eating-drinking: {label: "The people are as numerous as the sand by the sea, eating, drinking and rejoicing", cluster: kingship}
+  empire-from-euphrates-to-egypt: {label: "King rules all kingdoms from the Euphrates to the border of Egypt, who bring him tribute", cluster: kingship}
+  royal-daily-provisions-enumerated: {label: "The quantities of flour, cattle, sheep and game consumed daily at the royal table are listed", cluster: kingship}
+  every-man-under-vine-and-fig: {label: "Everyone dwells safely under his own vine and fig tree", cluster: kingship}
+  royal-stables-chariot-horses: {label: "King keeps tens of thousands of chariot horses and horsemen", cluster: kingship}
+  king-wiser-than-east-and-egypt: {label: "King's wisdom surpasses that of the people of the East, of Egypt and of named sages", cluster: wisdom}
+  wise-man-heart-broad-as-sand: {label: "God gives the king wisdom and 'breadth of heart' like the sand on the seashore", cluster: wisdom}
+  king-composes-thousands-of-proverbs-songs: {label: "King speaks three thousand proverbs and a thousand and five songs", cluster: wisdom}
+  wise-king-speaks-of-plants-and-animals: {label: "Wise king discourses on trees from cedar to hyssop, and on beasts, birds, creeping things and fish", cluster: wisdom}
+  nations-come-to-hear-wisdom: {label: "Kings of all the earth send to hear the wise king's wisdom", cluster: wisdom}
+  foreign-king-supplies-temple-timber: {label: "Foreign king (Hiram of Tyre) supplies cedar and cypress from Lebanon for the temple in exchange for food", cluster: temple}
+  father-barred-from-building-temple-war: {label: "Father could not build the temple because of his wars; the son at rest builds it", cluster: temple}
+  timber-rafts-by-sea: {label: "Logs are floated as rafts by sea to the building site", cluster: temple}
+  corvee-labor-in-relays: {label: "Forced labor sent in monthly relays: one month abroad, two at home", cluster: kingship}
+  temple-foundation-of-costly-hewn-stones: {label: "Great costly hewn stones are quarried for the temple foundation", cluster: temple}
+  temple-founded-480-years-after-exodus: {label: "Temple building dated 480 years after the exodus, in the fourth year of the king, month Ziv", cluster: chronology}
+  temple-dimensions-in-cubits: {label: "Exact dimensions of the temple building and its rooms are given in cubits", cluster: temple}
+  temple-built-without-sound-of-iron: {label: "Temple built of stones finished at the quarry, so no hammer, axe or iron tool was heard in the house", cluster: temple}
+  temple-side-chambers-stepped-ledges: {label: "Three stories of side chambers around the temple, each wider by a cubit, resting on stepped ledges", cluster: temple}
+  divine-dwelling-conditional-on-obedience: {label: "God promises to dwell among Israel in the temple if the king keeps his statutes", cluster: temple}
+  inner-sanctuary-cube-overlaid-gold: {label: "The inner sanctuary (devir) is a perfect cube of twenty cubits overlaid with pure gold", cluster: temple}
+  giant-olivewood-cherubim-ten-cubits: {label: "Two cherubim of olive wood, ten cubits high, whose outstretched wings span the inner sanctuary wall to wall", cluster: temple}
+  temple-walls-carved-cherubim-palms-flowers: {label: "Temple walls and doors are carved with cherubim, palm trees and open flowers, overlaid with gold", cluster: temple}
+  temple-built-seven-years: {label: "The temple takes seven years to build, completed in the eighth month (Bul)", cluster: temple}
+  old-month-names-ziv-bul-ethanim: {label: "Archaic (Canaanite/Phoenician) month names Ziv, Bul and Ethanim are used", cluster: chronology}
+  palace-of-forest-of-lebanon: {label: "Royal hall called 'House of the Forest of Lebanon', built on rows of cedar pillars", cluster: kingship}
+  palace-built-thirteen-years: {label: "King spends thirteen years on his own palace (contrast with seven for the temple)", cluster: kingship}
+  hall-of-throne-for-judgment: {label: "King builds a throne hall where he sits to give judgment", cluster: kingship}
+  house-for-pharaohs-daughter: {label: "King builds a separate house for his wife, Pharaoh's daughter", cluster: kingship}
+  craftsman-son-of-widow-mixed-parentage: {label: "Master bronze-smith is son of an Israelite widow and a Tyrian father, filled with wisdom and skill", cluster: temple}
+  twin-bronze-pillars-jachin-boaz: {label: "Two freestanding bronze pillars at the temple porch named Jachin and Boaz", cluster: temple}
+  pillar-capitals-lilies-pomegranates: {label: "Pillar capitals with lily work, chain-network and rows of pomegranates", cluster: temple}
+  bronze-sea-on-twelve-oxen: {label: "A great cast-bronze 'sea' basin rests on twelve bronze oxen facing the four directions in threes", cluster: temple}
+  circumference-ratio-thirty-to-ten: {label: "A round vessel of ten cubits across has a circumference of thirty (pi as three)", cluster: temple}
+  wheeled-bronze-stands-with-lions-cherubim: {label: "Ten wheeled bronze stands decorated with lions, oxen, cherubim and palms carry basins", cluster: temple}
+  bronze-weight-not-counted: {label: "So much bronze was used that its weight was never measured", cluster: temple}
+  casting-in-clay-ground-of-jordan: {label: "Bronze vessels cast in the clay ground of the Jordan plain between Succoth and Zarethan", cluster: temple}
+  ten-golden-lampstands: {label: "Ten golden lampstands stand before the inner sanctuary, five on each side", cluster: temple}
+  ark-brought-into-temple-at-feast: {label: "Ark brought in procession into the temple at the autumn feast in the seventh month", cluster: temple}
+  sacrifices-beyond-counting: {label: "Sheep and cattle sacrificed so many that they could not be counted", cluster: cult}
+  ark-poles-visible-to-this-day: {label: "Ends of the ark's poles visible from the holy place but not outside, 'to this day'", cluster: temple}
+  god-dwells-in-thick-darkness: {label: "God has said he will dwell in thick darkness ('arafel)", cluster: theophany}
+  temple-as-exalted-house-zebul: {label: "Temple called a 'house of zebul' (exalted dwelling), a place for God to dwell forever", cluster: temple}
+  heaven-cannot-contain-god: {label: "Heaven and the heaven of heavens cannot contain God, much less a house built by hands", cluster: theology}
+  prayer-toward-the-temple: {label: "Prayers made toward the temple (or toward the land, city and house when in exile) are heard in heaven", cluster: cult}
+  oath-before-altar-ordeal: {label: "A man accused swears a curse-oath before the altar, and God judges guilty and innocent", cluster: law}
+  drought-as-punishment-for-sin: {label: "Heaven is shut and no rain falls because of the people's sin; repentance brings rain", cluster: prophecy}
+  foreigner-prays-at-temple: {label: "A foreigner from a far land who hears of God's name comes to pray at the temple and is heard", cluster: cult}
+  no-man-who-does-not-sin: {label: "'There is no man who does not sin'", cluster: wisdom}
+  repentance-in-exile-prayer: {label: "Exiles in an enemy land turn back with all their heart and pray toward their land, and God grants them mercy before captors", cluster: prophecy}
+  god-alone-knows-hearts: {label: "God alone knows the hearts of all humans", cluster: theology}
+  temple-dedication-fourteen-day-feast: {label: "Temple dedicated with a feast of seven plus seven days and a huge number of sacrifices", cluster: temple}
+  middle-court-consecrated-altar-too-small: {label: "King consecrates the middle of the court for offerings because the bronze altar is too small", cluster: temple}
+  second-divine-appearance-to-king: {label: "God appears a second time to the king, answering his prayer with promise and warning", cluster: kingship}
+  temple-ruin-passersby-hiss-and-ask-why: {label: "Passersby will be appalled and hiss at the ruined temple and ask why God did this; the answer is apostasy", cluster: prophecy}
+  worthless-cities-cabul: {label: "Gift of cities rejected as worthless and nicknamed 'Cabul' ('like nothing')", cluster: etiology}
+  pharaoh-gives-city-as-dowry: {label: "Pharaoh conquers a city and gives it to his daughter as a dowry on her marriage", cluster: marriage}
+  remnant-peoples-made-slave-labor: {label: "The remaining Canaanite peoples are made slave labor, while Israelites serve as soldiers and officers", cluster: kingship}
+  ophir-gold-voyages: {label: "Fleets with Phoenician sailors sail from the Red Sea to Ophir and bring back gold", cluster: kingship}
+  queen-of-sheba-tests-with-riddles: {label: "A foreign queen hears of the king's fame and comes to test him with hard riddles", cluster: wisdom}
+  queen-breathless-at-splendor: {label: "Visiting queen is left breathless ('no spirit left in her') at the king's wisdom, table and servants", cluster: wisdom}
+  not-half-was-told: {label: "Visitor confesses that reports did not tell even half of the king's wisdom and wealth", cluster: wisdom}
+  camel-caravan-of-spices-gold: {label: "A royal caravan of camels laden with spices, gold and precious stones", cluster: kingship}
+  almug-wood-for-lyres: {label: "Rare almug wood from Ophir used for temple supports and lyres for singers; never seen again", cluster: temple}
+  annual-gold-666-talents: {label: "Gold coming to the king each year weighs 666 talents", cluster: kingship}
+  golden-shields-in-palace: {label: "King makes hundreds of shields of beaten gold and hangs them in the palace", cluster: kingship}
+  ivory-throne-six-steps-lions: {label: "Great ivory throne overlaid with gold, with six steps and twelve lions on the steps and two beside the arms", cluster: kingship}
+  silver-common-as-stones: {label: "Silver as common as stones and cedar as sycamores in the king's day", cluster: kingship}
+  tarshish-ships-apes-peacocks: {label: "Tarshish ships every three years bring gold, silver, ivory, apes and peacocks (or baboons)", cluster: kingship}
+  horse-and-chariot-trade-egypt-kue: {label: "King's merchants import horses from Egypt and Kue and export chariots to Hittite and Aramean kings at fixed prices", cluster: kingship}
+  king-with-thousand-wives: {label: "King has seven hundred royal wives and three hundred concubines", cluster: kingship}
+  wise-king-led-astray-in-old-age: {label: "In his old age the wise king's foreign wives turn his heart to other gods", cluster: kingship}
+  king-builds-shrines-for-foreign-gods: {label: "King builds high places for Chemosh, Molech/Milcom and Astarte on the mount facing Jerusalem", cluster: cult}
+  punishment-deferred-for-sake-of-ancestor: {label: "God defers the punishment to the son's reign for the sake of the righteous father", cluster: kingship}
+  one-tribe-left-as-lamp-for-david: {label: "One tribe is left to the dynasty so that David may always have a 'lamp' (nir) in Jerusalem", cluster: kingship}
+  god-raises-adversary-satan: {label: "God raises up a human 'satan' (adversary) against the king", cluster: kingship}
+  royal-child-refugee-raised-at-pharaohs-court: {label: "A royal boy escapes a massacre to Egypt, marries into Pharaoh's family, and his son is raised among Pharaoh's sons", cluster: kingship}
+  exile-asks-pharaoh-to-let-him-go: {label: "Exile at Pharaoh's court insists 'let me go' to return to his land after his enemy's death", cluster: kingship}
+  prophet-tears-new-cloak-twelve-pieces: {label: "Prophet tears a new garment into twelve pieces and gives ten to the future king as sign of the divided kingdom", cluster: prophecy}
+  future-king-flees-to-egypt: {label: "The man designated to be king flees to Egypt (to Shishak) from the reigning king's attempt to kill him", cluster: kingship}
+  source-book-cited: {label: "Narrator refers the reader to a lost source book (Book of the Acts of Solomon, Chronicles of the Kings)", cluster: historiography}
+  old-counsel-vs-young-counsel: {label: "King rejects the counsel of the old advisers for that of the young men who grew up with him", cluster: kingship}
+  little-finger-thicker-than-fathers-loins: {label: "Arrogant boast: 'my little finger is thicker than my father's loins; he chastised with whips, I with scorpions'", cluster: kingship}
+  to-your-tents-o-israel: {label: "Secession cry: 'What portion have we in David? To your tents, O Israel!'", cluster: kingship}
+  labor-overseer-stoned: {label: "The people stone to death the official over forced labor", cluster: kingship}
+  prophet-forbids-civil-war: {label: "A prophet forbids the king to fight his brothers: 'this thing is from me'", cluster: prophecy}
+  two-golden-calves-at-bethel-and-dan: {label: "King sets up two golden calves at Bethel and Dan so the people need not go to Jerusalem", cluster: cult}
+  non-levite-priests-appointed: {label: "King appoints priests from all the people who are not Levites", cluster: cult}
+  rival-festival-eighth-month: {label: "King invents a rival pilgrimage festival on the fifteenth of the eighth month, a month 'he devised from his own heart'", cluster: cult}
+  forty-year-reign: {label: "A king reigns exactly forty years", cluster: kingship}
+  dynasty-promise-conditional: {label: "God promises a lasting dynasty ('sure house') on condition of obedience", cluster: kingship}
+  son-of-a-widow: {label: "A key figure is identified as the son of a widow", cluster: kingship}
+  prophecy-names-future-king-centuries-ahead: {label: "A prophet names a future king (Josiah) generations before his birth and what he will do", cluster: prophecy}
+  human-bones-burned-on-altar: {label: "Human bones are to be burned on an altar to defile it", cluster: cult}
+  altar-splits-ashes-pour-out: {label: "As a sign the altar splits apart and its ashes pour out", cluster: prophecy}
+  kings-hand-withers-and-restored: {label: "The king's hand, stretched out against the man of God, withers and is restored at the prophet's prayer", cluster: prophecy}
+  prophet-forbidden-food-and-return-route: {label: "Prophet commanded not to eat bread or drink water in the place nor return by the way he came", cluster: prophecy}
+  old-prophet-lies-claiming-angel: {label: "An old prophet lies, claiming an angel told him to bring the man of God home to eat", cluster: prophecy}
+  lion-kills-disobedient-prophet: {label: "A lion kills a disobedient prophet but stands beside the body with the donkey, eating neither", cluster: prophecy}
+  denied-burial-in-ancestral-tomb: {label: "Punishment: one's corpse will not come to the tomb of one's ancestors", cluster: death}
+  prophet-asks-burial-beside-other-prophets-bones: {label: "Prophet asks to be buried beside the bones of the man of God", cluster: death}
+  lament-alas-my-brother: {label: "Mourners lament 'Alas, my brother!' (hoy ahi)", cluster: death}
+  sick-child-oracle-sought: {label: "Parent sends to a prophet to learn whether a sick child will recover", cluster: prophecy}
+  queen-disguised-visits-blind-prophet: {label: "King's wife disguises herself to consult a blind prophet who recognizes her by her footsteps", cluster: prophecy}
+  gift-of-bread-cakes-honey-to-seer: {label: "Gift of loaves, crumbled cakes and a jar of honey brought to a seer", cluster: prophecy}
+  male-who-pisses-against-wall: {label: "Every male cut off, idiom 'one who pisses against the wall', 'bond and free'", cluster: kingship}
+  house-burned-like-dung: {label: "The dynasty will be swept away as one burns up dung until it is gone", cluster: kingship}
+  dynasty-dead-eaten-by-dogs-and-birds: {label: "Those of the dynasty who die in the city are eaten by dogs, those in the field by birds", cluster: kingship}
+  child-dies-as-mother-crosses-threshold: {label: "The sick child dies the moment his mother's foot crosses the threshold", cluster: prophecy}
+  israel-shaken-like-reed-scattered-beyond-river: {label: "Israel struck like a reed shaken in water and scattered beyond the River", cluster: prophecy}
+  regnal-formula: {label: "Standard regnal formula: age at accession, length of reign, mother's name, evaluation, burial, successor", cluster: kingship}
+  mother-of-king-named-foreign: {label: "The king's mother is named and is a foreigner (Naamah the Ammonite)", cluster: kingship}
+  invader-plunders-temple-treasury: {label: "Foreign invader (Shishak, etc.) carries off the treasures of the temple and palace", cluster: warfare}
+  gold-shields-replaced-with-bronze: {label: "Gold shields taken by the enemy are replaced with bronze ones carried by the guard", cluster: kingship}
+  david-faultless-except-uriah: {label: "David did right all his life except in the matter of Uriah the Hittite", cluster: kingship}
+  queen-mother-deposed-for-idol: {label: "King removes his (grand)mother from her rank as queen mother for making an obscene image for Asherah, burning it in the Kidron", cluster: cult}
+  temple-treasure-sent-as-bribe-to-foreign-king: {label: "King sends the temple's silver and gold to a foreign king to break his treaty with a rival", cluster: kingship}
+  enemy-fortress-dismantled-for-materials: {label: "The enemy's half-built fortress is dismantled and its stones and timber used to build one's own", cluster: warfare}
+  king-diseased-in-feet-in-old-age: {label: "A pious king in old age is diseased in his feet", cluster: kingship}
+  usurper-exterminates-predecessor-house: {label: "A usurper kills the king and wipes out his entire house, fulfilling prophecy", cluster: kingship}
+  raised-from-dust-to-rule: {label: "God raised the ruler 'from the dust' to be prince over his people", cluster: kingship}
+  king-assassinated-while-drunk: {label: "King is assassinated while drinking himself drunk in a steward's house", cluster: kingship}
+  seven-day-king-burns-palace-on-himself: {label: "Usurper who reigned seven days burns the palace over himself and dies", cluster: kingship}
+  people-split-between-two-claimants: {label: "The people split in half between two rival claimants to the throne", cluster: kingship}
+  capital-hill-bought-named-after-owner: {label: "King buys a hill for two talents of silver and names the new capital after its former owner (Shemer, Samaria)", cluster: etiology}
+  king-marries-sidonian-baal-priest-daughter: {label: "King marries Jezebel, daughter of Ethbaal king of the Sidonians, and serves Baal", cluster: kingship}
+  temple-of-baal-in-capital: {label: "King builds a temple and altar of Baal in his capital and makes an Asherah", cluster: cult}
+  prophet-shuts-heaven-no-dew-or-rain: {label: "Prophet declares there will be neither dew nor rain except at his word", cluster: prophecy}
+  prophet-fed-by-ravens: {label: "Prophet hiding by a wadi is fed bread and meat morning and evening by ravens", cluster: prophecy}
+  prophet-hides-by-brook: {label: "Prophet hides by a brook east of the Jordan and drinks from it until it dries up", cluster: prophecy}
+  foreign-widow-feeds-prophet: {label: "God commands a foreign (Sidonian) widow to feed the prophet in famine", cluster: prophecy}
+  widow-gathering-sticks-last-meal: {label: "Widow gathering two sticks to bake a last meal for herself and her son before they die", cluster: prophecy}
+  inexhaustible-jar-of-flour-and-oil: {label: "Jar of flour and jug of oil do not run out until the famine ends", cluster: miracle}
+  prophet-first-portion-test-of-faith: {label: "Prophet asks the starving widow to bake for him first, promising abundance", cluster: miracle}
+  host-blames-prophet-for-sons-death: {label: "Bereaved mother accuses the man of God of coming to recall her sin and kill her son", cluster: miracle}
+  prophet-revives-dead-child-in-upper-room: {label: "Prophet carries a dead boy to the upper room, lays him on his own bed, and revives him", cluster: miracle}
+  prophet-stretches-on-child-three-times: {label: "Prophet stretches himself over the child three times, praying that his life return", cluster: miracle}
+  revived-son-returned-to-mother: {label: "Prophet hands the revived child to his mother: 'See, your son lives'", cluster: miracle}
+  miracle-proves-man-of-god: {label: "A witness of the miracle confesses: now I know you are a man of God and God's word in your mouth is truth", cluster: miracle}
+  steward-hides-hundred-prophets-in-caves: {label: "Pious royal steward hides a hundred prophets, fifty to a cave, and feeds them bread and water", cluster: prophecy}
+  persecution-of-prophets-by-queen: {label: "Queen kills the prophets of YHWH", cluster: prophecy}
+  spirit-may-carry-prophet-away: {label: "Fear that the spirit of YHWH will carry the prophet off to an unknown place", cluster: prophecy}
+  king-searched-every-nation-for-prophet: {label: "King searched every nation and kingdom for the prophet, making them swear he was not there", cluster: prophecy}
+  troubler-of-israel: {label: "King calls the prophet 'troubler of Israel' (okher Yisra'el); prophet returns the charge", cluster: prophecy}
+  limping-between-two-opinions: {label: "'How long will you hop between two branches? If YHWH is God, follow him; if Baal, follow him'", cluster: prophecy}
+  lone-prophet-against-hundreds: {label: "A single prophet of YHWH stands against 450 prophets of Baal and 400 of Asherah", cluster: prophecy}
+  contest-god-who-answers-by-fire: {label: "Contest of gods: the god who answers by fire on an unlit sacrifice is God", cluster: prophecy}
+  prophet-mocks-sleeping-god: {label: "Prophet mocks the silent god: perhaps he is musing, relieving himself, travelling, or asleep and must be woken", cluster: prophecy}
+  priests-gash-themselves-ecstatic-rite: {label: "Prophets of Baal limp-dance around the altar and gash themselves with swords and lances till blood flows", cluster: cult}
+  altar-of-twelve-stones-repaired: {label: "Prophet repairs the ruined altar with twelve stones for the tribes of Jacob", cluster: cult}
+  sacrifice-drenched-with-water-thrice: {label: "Sacrifice and altar drenched with four jars of water three times, filling a trench, before the miracle", cluster: miracle}
+  fire-from-heaven-consumes-offering: {label: "Fire from heaven falls and consumes the offering, wood, stones, dust and water", cluster: miracle}
+  yhwh-he-is-god-acclamation: {label: "The people fall on their faces crying 'YHWH, he is God! YHWH, he is God!'", cluster: prophecy}
+  false-prophets-slaughtered-at-brook: {label: "The prophets of Baal are seized and slaughtered at the brook Kishon", cluster: prophecy}
+  prophet-crouches-head-between-knees: {label: "Prophet on the mountaintop bows to the ground with his face between his knees praying for rain", cluster: prophecy}
+  servant-looks-seven-times-small-cloud: {label: "Servant sent seven times to look toward the sea sees a cloud as small as a man's hand", cluster: miracle}
+  prophet-outruns-chariot: {label: "Hand of YHWH upon him, the prophet girds his loins and runs ahead of the king's chariot", cluster: prophecy}
+  queen-oath-to-kill-prophet-by-tomorrow: {label: "Queen swears by the gods to make the prophet's life like the slain prophets' by this time tomorrow", cluster: prophecy}
+  prophet-sleeps-under-broom-tree: {label: "Despairing prophet sits and sleeps under a broom tree in the wilderness", cluster: prophecy}
+  angel-wakes-prophet-with-cake-and-water: {label: "An angel touches the sleeping prophet twice and gives him a cake baked on hot stones and a jar of water", cluster: prophecy}
+  journey-forty-days-on-one-meal: {label: "On the strength of one meal the prophet walks forty days and nights to the mountain of God", cluster: prophecy}
+  prophet-in-cave-on-horeb: {label: "Prophet lodges in 'the cave' on Horeb, the mountain of God", cluster: theophany}
+  what-are-you-doing-here: {label: "God twice asks the prophet 'What are you doing here?' and he twice answers the same complaint", cluster: theophany}
+  zealous-for-god-alone-left: {label: "Prophet claims 'I have been very zealous for YHWH... and I alone am left'", cluster: prophecy}
+  god-not-in-wind-earthquake-fire: {label: "God passes by: a mountain-splitting wind, earthquake and fire, but God is not in them", cluster: theophany}
+  still-small-voice: {label: "After the fire comes 'a sound of thin silence' (qol demamah daqqah)", cluster: theophany}
+  prophet-wraps-face-in-mantle: {label: "Prophet wraps his face in his mantle on hearing God", cluster: theophany}
+  commission-to-anoint-three: {label: "Prophet commissioned to anoint a foreign king, a native king and his own prophetic successor", cluster: prophecy}
+  triple-sword-whoever-escapes: {label: "Whoever escapes the sword of the first avenger, the second will kill, and the third", cluster: prophecy}
+  seven-thousand-who-did-not-bow-to-baal: {label: "God keeps a remnant of seven thousand whose knees did not bow and lips did not kiss Baal", cluster: prophecy}
+  kissing-idol: {label: "Worshipers kiss the image of the god", cluster: cult}
+  mantle-cast-on-successor: {label: "Prophet calls his successor by throwing his mantle over him", cluster: prophecy}
+  disciple-called-from-plowing-farewell-parents: {label: "Disciple called while plowing asks to kiss his parents goodbye first", cluster: prophecy}
+  disciple-sacrifices-oxen-burns-yoke: {label: "Called disciple slaughters his oxen, boils the meat with the yoke for fuel, feeds the people, and follows", cluster: prophecy}
+  twelve-yoke-of-oxen: {label: "The called man is plowing with twelve yoke of oxen, himself with the twelfth", cluster: prophecy}
+  besieger-demands-wives-children-gold: {label: "Besieging king demands the besieged king's silver, gold, wives and sons", cluster: warfare}
+  boast-dust-not-enough-for-handfuls: {label: "Besieger swears the dust of the city will not suffice for handfuls for all his followers", cluster: warfare}
+  let-not-him-who-girds-boast: {label: "Proverb: 'Let not the one who girds on his armor boast like one who takes it off'", cluster: wisdom}
+  drunk-king-in-booths-routed: {label: "Enemy king drinking drunk in booths with thirty-two allied kings is routed at noon", cluster: warfare}
+  young-men-of-district-governors-win: {label: "Victory won by a small vanguard of 232 young men of the district governors", cluster: warfare}
+  god-of-hills-not-valleys: {label: "Enemies claim Israel's God is a god of the hills, not the valleys; God proves them wrong", cluster: warfare}
+  thirty-two-vassal-kings: {label: "A great king leads an alliance of thirty-two kings", cluster: warfare}
+  wall-falls-on-enemy-survivors: {label: "City wall falls on the 27,000 survivors who fled into it", cluster: warfare}
+  sackcloth-and-ropes-surrender: {label: "Defeated men come to the victor wearing sackcloth on their loins and ropes on their heads to beg for life", cluster: warfare}
+  merciful-kings-of-israel: {label: "Enemies rely on the reputation that the kings of Israel are merciful kings (malkhei hesed)", cluster: kingship}
+  enemy-called-my-brother-omen-seized: {label: "Victor calls the enemy king 'my brother'; envoys seize the word as an omen", cluster: divination}
+  bazaars-in-enemy-capital-treaty: {label: "Treaty grants trading quarters (hutsot) in the enemy capital and returns captured cities", cluster: kingship}
+  refusal-to-strike-prophet-punished-by-lion: {label: "Man who refuses a prophet's command to strike him is killed by a lion", cluster: prophecy}
+  prophet-disguised-with-bandage-juridical-parable: {label: "Wounded prophet, disguised with a bandage over his eyes, tells the king a case and the king condemns himself", cluster: prophecy}
+  life-for-life-of-guarded-captive: {label: "'Your life for his life': a guard who loses a prisoner forfeits his life or a talent of silver", cluster: law}
+  sullen-and-angry-king: {label: "King goes home 'sullen and angry' (sar ve-za'ef) after a prophet's rebuke", cluster: kingship}
+  ancestral-inheritance-refused-to-king: {label: "Commoner refuses to sell or trade his ancestral vineyard to the king: 'God forbid I give you my fathers' inheritance'", cluster: law}
+  king-sulks-on-bed-refuses-food: {label: "Thwarted king lies on his bed, turns his face to the wall and refuses to eat", cluster: kingship}
+  queen-forges-letters-with-kings-seal: {label: "Queen writes letters in the king's name, sealed with his seal, ordering a judicial murder", cluster: kingship}
+  staged-fast-and-two-false-witnesses: {label: "A fast is proclaimed and two worthless men falsely testify that the victim 'blessed (cursed) God and king'", cluster: law}
+  victim-stoned-outside-city: {label: "Innocent victim is taken outside the city and stoned to death", cluster: law}
+  have-you-murdered-and-also-inherited: {label: "Prophet confronts the king: 'Have you murdered and also taken possession?'", cluster: prophecy}
+  dogs-lick-blood-where-victim-died: {label: "Where dogs licked the victim's blood, dogs will lick the murderer's blood", cluster: prophecy}
+  dogs-eat-queen-by-wall: {label: "Dogs will eat the wicked queen by the wall (or plot) of Jezreel", cluster: prophecy}
+  found-me-o-my-enemy: {label: "King greets the prophet: 'Have you found me, O my enemy?'", cluster: prophecy}
+  king-sold-himself-to-do-evil: {label: "King 'sold himself' to do evil, incited by his wife", cluster: kingship}
+  royal-repentance-in-sackcloth-postpones-doom: {label: "King tears his clothes, wears sackcloth, fasts and walks softly; God postpones the doom to his son's days", cluster: kingship}
+  four-hundred-court-prophets-unanimous: {label: "Four hundred court prophets unanimously promise victory", cluster: prophecy}
+  prophet-hated-for-always-prophesying-evil: {label: "King hates the one true prophet because he never prophesies good for him, only evil", cluster: prophecy}
+  iron-horns-sign-act: {label: "Court prophet makes iron horns: 'with these you will gore Aram'", cluster: prophecy}
+  prophet-first-echoes-then-tells-truth: {label: "Prophet first sarcastically repeats the favorable oracle, then under oath tells the true one", cluster: prophecy}
+  vision-of-god-enthroned-with-host-of-heaven: {label: "Prophet sees God seated on his throne with all the host of heaven standing to his right and left", cluster: theophany}
+  divine-council-deliberates-deception: {label: "God asks the heavenly council 'who will entice the king?'; a spirit volunteers", cluster: theophany}
+  lying-spirit-in-mouth-of-prophets: {label: "A spirit becomes a lying spirit in the mouth of all the king's prophets, with God's permission", cluster: theophany}
+  prophet-slapped-on-cheek: {label: "Rival prophet slaps the true prophet on the cheek: 'Which way did the spirit of YHWH pass from me to speak to you?'", cluster: prophecy}
+  prophet-imprisoned-on-bread-and-water: {label: "Prophet imprisoned on short rations of bread and water until the king returns in peace", cluster: prophecy}
+  if-you-return-safely-god-has-not-spoken: {label: "Prophet stakes his authority: 'If you return in peace, YHWH has not spoken by me'", cluster: prophecy}
+  king-disguises-himself-in-battle: {label: "King disguises himself for battle while his ally wears royal robes", cluster: warfare}
+  random-arrow-kills-disguised-king: {label: "An arrow drawn 'at random' strikes the disguised king between the joints of his armor", cluster: warfare}
+  dying-king-propped-in-chariot: {label: "Wounded king is propped up in his chariot facing the enemy until he dies at evening, blood pooling in the chariot", cluster: warfare}
+  harlots-bathe-in-kings-blood: {label: "Dogs lick the dead king's blood at the pool of Samaria where harlots bathe", cluster: prophecy}
+  ivory-house: {label: "King builds a 'house of ivory'", cluster: kingship}
+  fleet-wrecked-at-ezion-geber: {label: "Ships built to sail to Ophir for gold are wrecked at Ezion-geber", cluster: kingship}
+  king-falls-through-lattice: {label: "King falls through the lattice of his upper chamber and is injured", cluster: kingship}
+  inquiring-of-foreign-god-baal-zebub: {label: "Sick king sends to inquire of Baal-zebub, god of Ekron, whether he will recover", cluster: cult}
+  is-there-no-god-in-israel: {label: "Rebuke: 'Is it because there is no God in Israel that you go to inquire of a foreign god?'", cluster: prophecy}
+  you-shall-not-come-down-from-bed: {label: "Doom oracle: 'From the bed you have gone up on you shall not come down, but shall surely die'", cluster: prophecy}
+  hairy-man-with-leather-belt: {label: "Prophet identified by being 'a hairy man' (or wearing a hair garment) with a leather belt round his loins", cluster: prophecy}
+  fire-consumes-captains-of-fifty: {label: "Fire from heaven consumes two captains of fifty and their men sent to seize the prophet; the third begs and is spared", cluster: miracle}
+  prophet-tests-companion-stay-here: {label: "Prophet thrice tells his disciple 'stay here', and the disciple swears thrice not to leave him", cluster: prophecy}
+  sons-of-prophets-know-master-taken-today: {label: "Guild prophets at each town tell the disciple 'today God takes your master'; he answers 'I know, be silent'", cluster: prophecy}
+  mantle-parts-jordan: {label: "Prophet rolls up his mantle, strikes the Jordan, and the waters divide so they cross on dry ground", cluster: miracle}
+  double-portion-of-spirit-requested: {label: "Disciple asks for a double portion (pi shnayim) of the master's spirit, granted if he sees him taken", cluster: prophecy}
+  chariot-and-horses-of-fire: {label: "A chariot of fire and horses of fire separate the two prophets", cluster: theophany}
+  prophet-ascends-in-whirlwind: {label: "Prophet is taken up alive to heaven in a whirlwind", cluster: theophany}
+  my-father-chariot-of-israel: {label: "Cry 'My father, my father, the chariots of Israel and its horsemen!' at the prophet's departure", cluster: prophecy}
+  successor-picks-up-fallen-mantle: {label: "Successor picks up the master's fallen mantle and repeats his miracle, striking the waters", cluster: prophecy}
+  where-is-god-of-elijah: {label: "Successor strikes the water crying 'Where is YHWH, the God of Elijah?'", cluster: prophecy}
+  search-for-taken-prophets-body: {label: "Fifty men search three days for the ascended prophet, fearing the spirit dropped him on a mountain or valley, but do not find him", cluster: prophecy}
+  salt-heals-bad-water: {label: "Prophet throws salt from a new bowl into the spring and heals the deadly, miscarriage-causing water 'to this day'", cluster: miracle}
+  boys-mock-bald-prophet-bears: {label: "Small boys jeer 'Go up, baldhead!'; the prophet curses them and two she-bears maul forty-two of them", cluster: prophecy}
+  vassal-tribute-of-lambs-and-wool: {label: "A sheep-breeding vassal king pays tribute of a hundred thousand lambs and the wool of a hundred thousand rams", cluster: kingship}
+  three-kings-campaign-waterless: {label: "Allied kings on a seven-day detour run out of water for army and beasts and despair", cluster: warfare}
+  prophet-refuses-to-look-at-wicked-king: {label: "Prophet says he would not even look at the wicked king were it not for the righteous ally", cluster: prophecy}
+  music-induces-prophecy: {label: "Prophet calls for a musician; as he plays, the hand of YHWH comes upon him", cluster: prophecy}
+  water-without-wind-or-rain: {label: "Dry wadi fills with water though no wind or rain is seen", cluster: miracle}
+  scorched-earth-campaign: {label: "Invaders fell every good tree, stop every spring and ruin every good field with stones", cluster: warfare}
+  water-appears-red-as-blood: {label: "At sunrise the water looks red as blood; the enemy thinks the kings have slain each other and rushes to plunder", cluster: warfare}
+  king-sacrifices-firstborn-on-wall: {label: "Besieged king offers his firstborn heir as a burnt offering on the city wall, and 'great wrath' falls on Israel, who withdraw", cluster: cult}
+  creditor-to-take-children-as-slaves: {label: "Creditor comes to take a dead man's two children as slaves for the debt", cluster: law}
+  widows-oil-fills-borrowed-vessels: {label: "Widow's little oil fills all the borrowed vessels behind a shut door and stops when vessels run out", cluster: miracle}
+  great-woman-builds-room-for-prophet: {label: "A wealthy woman has a small roof-chamber built for the holy man with bed, table, chair and lamp", cluster: hospitality}
+  hostess-declines-reward-dwells-among-people: {label: "Offered a favor with king or general, the hostess replies 'I dwell among my own people'", cluster: hospitality}
+  childless-woman-old-husband-promised-son: {label: "Prophet promises a childless woman with an old husband a son 'at this season next year'", cluster: childhood}
+  do-not-deceive-your-maidservant: {label: "Woman protests the promise of a son: 'Do not lie to your maidservant'", cluster: childhood}
+  child-dies-of-head-pain-in-harvest: {label: "Child in the harvest field cries 'My head, my head!' and dies at noon on his mother's knees", cluster: childhood}
+  mother-lays-dead-child-on-prophets-bed: {label: "Mother lays her dead son on the prophet's bed, shuts the door and rides to fetch him", cluster: miracle}
+  not-new-moon-nor-sabbath: {label: "Husband asks why she visits the prophet when it is neither new moon nor sabbath", cluster: cult}
+  woman-clasps-prophets-feet: {label: "Bereaved woman grasps the prophet's feet; the servant tries to push her away", cluster: miracle}
+  god-hid-it-from-prophet: {label: "Prophet admits 'YHWH has hidden it from me and not told me'", cluster: prophecy}
+  servant-greets-no-one-on-the-way: {label: "Servant sent in haste must greet no one and answer no greeting on the road", cluster: prophecy}
+  prophets-staff-on-dead-child-fails: {label: "Servant lays the prophet's staff on the dead child's face but there is no voice or response", cluster: miracle}
+  prophet-lies-mouth-to-mouth-on-child: {label: "Prophet lies on the child, mouth to mouth, eyes to eyes, hands to hands, until the body warms", cluster: miracle}
+  revived-child-sneezes-seven-times: {label: "Revived child sneezes seven times and opens his eyes", cluster: miracle}
+  death-in-the-pot: {label: "Wild gourds in the stew make the prophets cry 'Death in the pot!'; flour thrown in makes it harmless", cluster: miracle}
+  multiplication-of-loaves-leftovers: {label: "Twenty barley loaves of first fruits feed a hundred men with food left over, as God said", cluster: miracle}
+  leper-general-of-foreign-king: {label: "A great foreign general, mighty warrior and favorite of his king, is a leper", cluster: healing}
+  captive-israelite-girl-recommends-prophet: {label: "A captive Israelite servant girl tells her foreign mistress that the prophet in Samaria could cure her master", cluster: healing}
+  am-i-god-to-kill-and-make-alive: {label: "King tears his clothes: 'Am I God, to kill and to make alive?'", cluster: theology}
+  bathe-seven-times-in-jordan: {label: "Prophet sends word to wash seven times in the Jordan; the foreigner is cured", cluster: healing}
+  foreign-noble-scorns-simple-cure: {label: "Proud foreigner is angry that the prophet did not come out and wave his hand, preferring the rivers of his own land", cluster: healing}
+  healed-flesh-like-little-boys: {label: "Healed flesh is restored like the flesh of a little boy", cluster: healing}
+  healed-foreigner-confesses-one-god: {label: "Cured foreigner confesses 'there is no God in all the earth except in Israel'", cluster: theology}
+  prophet-refuses-payment-for-healing: {label: "Prophet refuses any gift for the healing", cluster: prophecy}
+  two-mule-loads-of-israelite-soil: {label: "Convert takes two mule-loads of Israel's earth to worship YHWH on in a foreign land", cluster: cult}
+  convert-pardoned-for-bowing-in-pagan-temple: {label: "Convert asks pardon in advance for bowing in the temple of Rimmon when his master leans on his arm", cluster: cult}
+  greedy-servant-lies-for-reward: {label: "Prophet's servant runs after the healed man and lies to obtain silver and garments", cluster: prophecy}
+  my-heart-went-with-you: {label: "Prophet reveals clairvoyance: 'Did not my heart go with you when the man turned from his chariot?'", cluster: prophecy}
+  leprosy-transferred-to-greedy-servant: {label: "The healed man's leprosy clings to the greedy servant and his descendants forever, white as snow", cluster: healing}
+  floating-axe-head: {label: "Prophet throws a stick into the river where a borrowed iron axe-head sank, and the iron floats", cluster: miracle}
+  prophet-reveals-enemy-kings-bedroom-words: {label: "The prophet tells the king even the words the enemy king speaks in his bedroom", cluster: prophecy}
+  servant-eyes-opened-fiery-army: {label: "At the prophet's prayer the servant's eyes are opened to see the mountain full of horses and chariots of fire", cluster: theophany}
+  more-with-us-than-with-them: {label: "'Do not fear, for those with us are more than those with them'", cluster: theophany}
+  enemy-army-struck-with-blindness-led-away: {label: "Enemy army struck with a blinding confusion (sanwerim) and led by the prophet into the enemy capital", cluster: miracle}
+  captives-feasted-and-released: {label: "Captured enemies are given a great feast and sent home instead of being killed", cluster: warfare}
+  famine-prices-donkey-head-dove-dung: {label: "In the siege a donkey's head sells for eighty shekels and a quarter-qab of dove's dung for five", cluster: warfare}
+  mothers-agree-to-eat-sons: {label: "Two mothers agree to eat their sons in turn; after the first is eaten the other hides hers", cluster: warfare}
+  king-wears-hidden-sackcloth: {label: "When the king tears his clothes, the people see sackcloth underneath on his body", cluster: kingship}
+  king-blames-prophet-oath-to-behead: {label: "King swears to behead the prophet, blaming him for the disaster", cluster: kingship}
+  son-of-a-murderer: {label: "Prophet calls the king 'this son of a murderer'", cluster: prophecy}
+  why-wait-for-god-any-longer: {label: "'This evil is from YHWH; why should I wait for YHWH any longer?'", cluster: theology}
+  prophecy-of-cheap-grain-tomorrow: {label: "Prophet foretells that by this time tomorrow fine flour and barley will sell for a shekel at the city gate", cluster: prophecy}
+  windows-in-heaven-skeptic: {label: "Skeptic scoffs 'even if YHWH made windows in heaven'; told he will see it but not eat of it, and is trampled", cluster: prophecy}
+  lepers-at-gate-desperate-gamble: {label: "Four lepers at the gate reason that they will die anyway and go over to the enemy camp", cluster: warfare}
+  divine-sound-of-army-routs-enemy: {label: "God makes the enemy hear the sound of chariots, horses and a great army, and they flee abandoning their camp", cluster: warfare}
+  day-of-good-news-not-kept-silent: {label: "Finders of plunder say 'this is a day of good tidings (besorah); if we keep silent, punishment will find us'", cluster: warfare}
+  king-suspects-feigned-retreat: {label: "King suspects the abandoned camp is an ambush by feigned retreat and sends scouts", cluster: warfare}
+  road-strewn-with-discarded-goods: {label: "Fleeing army leaves the road to the Jordan strewn with garments and vessels thrown away in haste", cluster: warfare}
+  prophet-warns-of-seven-year-famine: {label: "Prophet warns the family to emigrate because God has called a famine of seven years", cluster: prophecy}
+  land-restored-by-king-after-sojourn: {label: "On returning from seven years abroad, the woman petitions the king and her house, field and its produce are restored", cluster: law}
+  timely-arrival-during-telling-of-miracle: {label: "The woman arrives to petition the king at the very moment the servant is telling him her story", cluster: prophecy}
+  sick-foreign-king-consults-prophet: {label: "Sick foreign king sends a lavish gift by forty camels to ask the prophet if he will recover", cluster: prophecy}
+  oracle-you-will-recover-but-will-die: {label: "Prophet says 'tell him he will surely recover', though God has shown he will surely die", cluster: prophecy}
+  prophet-stares-and-weeps-at-future-king: {label: "Prophet fixes his gaze until the man is ashamed, then weeps at the atrocities the future king will commit", cluster: prophecy}
+  atrocities-infants-dashed-pregnant-ripped: {label: "Atrocities of war: infants dashed to pieces and pregnant women ripped open", cluster: warfare}
+  what-is-your-servant-a-dog: {label: "Self-deprecation: 'What is your servant, a dog, that he should do this great thing?'", cluster: wisdom}
+  king-smothered-with-wet-cloth: {label: "Usurper smothers the sick king with a wet cloth spread over his face and reigns in his place", cluster: kingship}
+  dynastic-marriage-to-ahab-house: {label: "Judahite king marries a daughter of Ahab and walks in the ways of the house of Ahab", cluster: kingship}
+  vassal-revolt-edom-libnah: {label: "Edom and Libnah revolt from Judah's rule 'to this day'", cluster: kingship}
+  wounded-king-recovers-at-jezreel: {label: "Wounded king returns to Jezreel to be healed, visited by his royal kinsman", cluster: kingship}
+  prophet-disciple-anoints-commander-and-flees: {label: "A young prophet anoints the army commander king in an inner room with a flask of oil, then opens the door and flees", cluster: kingship}
+  prophet-called-madman: {label: "Officers call the visiting prophet 'this madman' (meshugga')", cluster: prophecy}
+  garments-spread-under-new-king-shofar: {label: "Officers spread their garments under the new king on the steps, blow the shofar and proclaim 'Jehu is king!'", cluster: kingship}
+  watchman-sees-company-approaching: {label: "Watchman on the tower reports an approaching company; messengers sent out do not return", cluster: warfare}
+  furious-driving-identifies-rider: {label: "Watchman recognizes the rider by his driving: 'he drives like a madman'", cluster: warfare}
+  what-peace-while-queens-harlotries: {label: "'What peace, while your mother Jezebel's harlotries and sorceries are so many?'", cluster: prophecy}
+  king-shot-through-heart-in-chariot: {label: "Usurper draws his bow and shoots the fleeing king between the shoulders, through the heart", cluster: warfare}
+  corpse-cast-on-victims-plot: {label: "Slain king's body is thrown on the plot of the man his father murdered, fulfilling the oracle", cluster: prophecy}
+  queen-paints-eyes-looks-from-window: {label: "Queen paints her eyes with kohl, adorns her head and looks out of the window to face her killer", cluster: kingship}
+  is-it-peace-zimri-murderer-of-master: {label: "Queen taunts the usurper: 'Is it peace, Zimri, murderer of his master?'", cluster: kingship}
+  eunuchs-throw-queen-from-window: {label: "Eunuchs throw the queen down from the window; her blood spatters the wall and horses trample her", cluster: kingship}
+  only-skull-feet-hands-remain: {label: "When they go to bury her, only her skull, feet and palms of her hands are found", cluster: death}
+  corpse-like-dung-on-field: {label: "The corpse will be like dung on the field so no one can say 'this is Jezebel'", cluster: death}
+  seventy-heads-in-baskets: {label: "Guardians behead the king's seventy sons and send the heads in baskets; they are piled in two heaps at the gate", cluster: kingship}
+  usurper-feigns-innocence-before-people: {label: "Usurper tells the people 'you are righteous; I conspired, but who killed all these?'", cluster: kingship}
+  royal-kinsmen-massacred-at-pit: {label: "Forty-two kinsmen of the Judahite king are seized alive and slaughtered at the pit of Beth-eked", cluster: kingship}
+  rechabite-ally-joins-chariot: {label: "Jehonadab son of Rechab gives his hand, is taken into the chariot, and goes to see the king's zeal for YHWH", cluster: kingship}
+  come-see-my-zeal: {label: "'Come with me and see my zeal for YHWH'", cluster: prophecy}
+  sham-baal-festival-massacre: {label: "King feigns devotion to Baal, gathers all Baal's worshipers in vestments into the temple, and has them all killed", cluster: cult}
+  baal-temple-made-latrine: {label: "The temple of Baal is torn down and made into a latrine 'to this day'", cluster: cult}
+  dynasty-to-fourth-generation-reward: {label: "As reward, the king's sons to the fourth generation will sit on the throne", cluster: kingship}
+  god-begins-to-cut-off-territory: {label: "God begins to 'cut off' parts of Israel, as the foreign king seizes all of Transjordan", cluster: warfare}
+units:
+  - id: hb-1kgs-4-officials
+    tradition: judaism
+    title: Solomon's officials and twelve district governors
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 4:1-20"]
+    tags:
+      - {motif: twelve-district-governors-monthly-provision, refs: ["1Kgs 4:7"]}
+      - {motif: princesses-married-to-officials, refs: ["1Kgs 4:11", "1Kgs 4:15"], note: "Taphath and Basemath, daughters of Solomon"}
+      - {motif: people-numerous-as-sand-eating-drinking, refs: ["1Kgs 4:20"]}
+      - {motif: seed-as-dust-stars-sand, refs: ["1Kgs 4:20"]}
+      - {motif: royal-family-list, refs: ["1Kgs 4:2-6"], note: "Cabinet list: priest, scribes, recorder, army, 'friend of the king', palace, forced labor (Adoniram)"}
+    hints:
+      - "Compare Assyrian and Egyptian provincial provisioning systems; Persian satrapies supplying the royal table (Herodotus 1.192)."
+  - id: hb-1kgs-5-dominion-wisdom
+    tradition: judaism
+    title: Solomon's dominion, provisions and wisdom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 5:1-14"]
+    tags:
+      - {motif: empire-from-euphrates-to-egypt, refs: ["1Kgs 5:1", "1Kgs 5:4"], note: "From Tiphsah to Gaza"}
+      - {motif: royal-daily-provisions-enumerated, refs: ["1Kgs 5:2-3"], note: "Includes deer, gazelle, roebuck and fattened 'barburim' (fowl?)"}
+      - {motif: every-man-under-vine-and-fig, refs: ["1Kgs 5:5"]}
+      - {motif: royal-stables-chariot-horses, refs: ["1Kgs 5:6"], note: "40,000 stalls; 12,000 horsemen"}
+      - {motif: king-not-multiply-horses-wives-gold, refs: ["1Kgs 5:6"], note: "Implicit tension with Deut 17:16"}
+      - {motif: wise-man-heart-broad-as-sand, refs: ["1Kgs 5:9"]}
+      - {motif: king-wiser-than-east-and-egypt, refs: ["1Kgs 5:10-11"], note: "Ethan the Ezrahite, Heman, Calcol, Darda sons of Mahol"}
+      - {motif: king-composes-thousands-of-proverbs-songs, refs: ["1Kgs 5:12"]}
+      - {motif: wise-king-speaks-of-plants-and-animals, refs: ["1Kgs 5:13"]}
+      - {motif: nations-come-to-hear-wisdom, refs: ["1Kgs 5:14"]}
+    hints:
+      - "Quran 27:16 (Solomon taught the speech of birds) and later lore of Solomon's command over animals; Wisdom of Solomon 7:17-21 on his knowledge of nature."
+      - "Mesopotamian 'wisdom of the East'; Egyptian onomastica (lists of natural kinds) as a parallel to discourse on trees and animals."
+  - id: hb-1kgs-5-hiram-cedars
+    tradition: judaism
+    title: Treaty with Hiram of Tyre; cedars and forced labor
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 5:15-32"]
+    tags:
+      - {motif: foreign-king-supplies-temple-timber, refs: ["1Kgs 5:20", "1Kgs 5:22-25"]}
+      - {motif: father-barred-from-building-temple-war, refs: ["1Kgs 5:17-19"]}
+      - {motif: timber-rafts-by-sea, refs: ["1Kgs 5:23"]}
+      - {motif: corvee-labor-in-relays, refs: ["1Kgs 5:27-28"], note: "30,000 men, 10,000 a month"}
+      - {motif: temple-foundation-of-costly-hewn-stones, refs: ["1Kgs 5:31"]}
+      - {motif: foreigner-confesses-god-greatest, refs: ["1Kgs 5:21"], note: "Hiram blesses YHWH for giving David a wise son"}
+    hints:
+      - "Mesopotamian kings boast of cutting cedars of Lebanon for temples (Gilgamesh and Humbaba; Nebuchadnezzar's Wadi Brisa inscription)."
+      - "Gebalites (men of Byblos) as stone-dressers, 5:32."
+  - id: hb-1kgs-6-temple-structure
+    tradition: judaism
+    title: The temple's dating, dimensions and the divine promise
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 6:1-13"]
+    tags:
+      - {motif: temple-founded-480-years-after-exodus, refs: ["1Kgs 6:1"]}
+      - {motif: old-month-names-ziv-bul-ethanim, refs: ["1Kgs 6:1"]}
+      - {motif: temple-dimensions-in-cubits, refs: ["1Kgs 6:2-3"], note: "60 x 20 x 30 cubits"}
+      - {motif: temple-side-chambers-stepped-ledges, refs: ["1Kgs 6:5-6", "1Kgs 6:8", "1Kgs 6:10"], note: "Winding stairs (lulim) to the upper floors"}
+      - {motif: temple-built-without-sound-of-iron, refs: ["1Kgs 6:7"]}
+      - {motif: altar-of-unhewn-stones, refs: ["1Kgs 6:7"], note: "Related principle extended to the whole house"}
+      - {motif: divine-dwelling-conditional-on-obedience, refs: ["1Kgs 6:12-13"]}
+      - {motif: god-dwells-among-people, refs: ["1Kgs 6:13"]}
+    hints:
+      - "Rabbinic legend of the shamir worm that cut the stones silently (m. Avot 5:6; b. Gittin 68a-b), with Ashmedai the demon king; Quran 34:12-14 on jinn building for Solomon."
+      - "Masonic legend of Hiram Abiff and the silent temple."
+  - id: hb-1kgs-6-temple-interior
+    tradition: judaism
+    title: Cedar paneling, gold, the inner sanctuary and the cherubim
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 6:14-38"]
+    tags:
+      - {motif: holy-of-holies, refs: ["1Kgs 6:16", "1Kgs 6:19"]}
+      - {motif: inner-sanctuary-cube-overlaid-gold, refs: ["1Kgs 6:20-22"]}
+      - {motif: giant-olivewood-cherubim-ten-cubits, refs: ["1Kgs 6:23-28"]}
+      - {motif: temple-walls-carved-cherubim-palms-flowers, refs: ["1Kgs 6:18", "1Kgs 6:29", "1Kgs 6:32", "1Kgs 6:35"], note: "Gourds (peqa'im) and open flowers"}
+      - {motif: golden-incense-altar, refs: ["1Kgs 6:20", "1Kgs 6:22"], note: "Cedar altar overlaid with gold before the devir"}
+      - {motif: temple-built-seven-years, refs: ["1Kgs 6:37-38"]}
+      - {motif: old-month-names-ziv-bul-ethanim, refs: ["1Kgs 6:37-38"]}
+      - {motif: temple-dimensions-in-cubits, refs: ["1Kgs 6:16-17", "1Kgs 6:20"]}
+    hints:
+      - "Cherubim with palms recall Assyrian palace reliefs of genii flanking sacred trees; the Eden imagery (cherubim, trees) recurs in Ezek 41."
+      - "Compare the seven-year building to Baal's palace built in seven days in the Ugaritic Baal cycle (KTU 1.4 VI)."
+  - id: hb-1kgs-7-palace
+    tradition: judaism
+    title: Solomon's palace complex
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 7:1-12"]
+    tags:
+      - {motif: palace-built-thirteen-years, refs: ["1Kgs 7:1"]}
+      - {motif: palace-of-forest-of-lebanon, refs: ["1Kgs 7:2-5"], note: "100 x 50 x 30 cubits; 45 beams, fifteen a row"}
+      - {motif: hall-of-throne-for-judgment, refs: ["1Kgs 7:7"]}
+      - {motif: house-for-pharaohs-daughter, refs: ["1Kgs 7:8"]}
+      - {motif: temple-foundation-of-costly-hewn-stones, refs: ["1Kgs 7:9-11"], note: "Sawn stones; foundation stones of ten and eight cubits"}
+    hints:
+      - "Josephus Ant. 8.5; the 'Forest of Lebanon' hall compared with Persian apadana columned halls."
+  - id: hb-1kgs-7-hiram-pillars
+    tradition: judaism
+    title: Hiram the bronze-smith and the pillars Jachin and Boaz
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 7:13-22"]
+    tags:
+      - {motif: craftsman-son-of-widow-mixed-parentage, refs: ["1Kgs 7:14"], note: "Widow of Naphtali (2Chr 2:13: of Dan)"}
+      - {motif: son-of-a-widow, refs: ["1Kgs 7:14"]}
+      - {motif: craftsmen-filled-with-spirit-of-wisdom, refs: ["1Kgs 7:14"], note: "Filled with wisdom, understanding and knowledge, the same triad as Bezalel (Exod 31:3)"}
+      - {motif: twin-bronze-pillars-jachin-boaz, refs: ["1Kgs 7:15", "1Kgs 7:21"], note: "18 cubits high, 12 in circumference"}
+      - {motif: pillar-capitals-lilies-pomegranates, refs: ["1Kgs 7:16-20", "1Kgs 7:22"], note: "Seven chains per capital; two hundred pomegranates"}
+    hints:
+      - "Freestanding pillar pairs at Phoenician temples (Herodotus 2.44 on the two pillars of Melqart at Tyre, one of gold, one of emerald); later Pillars of Heracles."
+      - "Masonic lore of Hiram Abiff, 'the widow's son', and the pillars Jachin and Boaz."
+  - id: hb-1kgs-7-bronze-sea-vessels
+    tradition: judaism
+    title: The bronze sea, wheeled stands and temple vessels
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 7:23-51"]
+    tags:
+      - {motif: bronze-sea-on-twelve-oxen, refs: ["1Kgs 7:23", "1Kgs 7:25", "1Kgs 7:44"], note: "Holds 2000 baths; brim like a lily cup"}
+      - {motif: circumference-ratio-thirty-to-ten, refs: ["1Kgs 7:23"]}
+      - {motif: wheeled-bronze-stands-with-lions-cherubim, refs: ["1Kgs 7:27-37"], note: "Wheels made like chariot wheels"}
+      - {motif: bronze-laver-for-washing-hands-and-feet, refs: ["1Kgs 7:38"], note: "Ten basins of forty baths each"}
+      - {motif: casting-in-clay-ground-of-jordan, refs: ["1Kgs 7:46"]}
+      - {motif: bronze-weight-not-counted, refs: ["1Kgs 7:47"]}
+      - {motif: ten-golden-lampstands, refs: ["1Kgs 7:49"]}
+      - {motif: table-of-showbread, refs: ["1Kgs 7:48"]}
+      - {motif: golden-incense-altar, refs: ["1Kgs 7:48"]}
+      - {motif: temple-metal-inventory, refs: ["1Kgs 7:40-45", "1Kgs 7:48-50"]}
+      - {motif: sacred-object-dimensions-in-cubits, refs: ["1Kgs 7:23", "1Kgs 7:27", "1Kgs 7:31-32"]}
+    hints:
+      - "The bronze 'sea' recalls the cosmic waters (Babylonian apsu basins in temples; Yam in Ugarit); Talmudic discussion of the 30:10 ratio (b. Eruvin 14a)."
+      - "Wheeled cult stands found at Larnaca and Enkomi (Cyprus)."
+  - id: hb-1kgs-8-ark-installed
+    tradition: judaism
+    title: The ark brought into the temple; the cloud fills the house
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 8:1-13"]
+    tags:
+      - {motif: ark-brought-into-temple-at-feast, refs: ["1Kgs 8:1-2", "1Kgs 8:6"], note: "Month of Ethanim, the seventh month"}
+      - {motif: old-month-names-ziv-bul-ethanim, refs: ["1Kgs 8:2"]}
+      - {motif: sacrifices-beyond-counting, refs: ["1Kgs 8:5"]}
+      - {motif: two-cherubim-facing-with-spread-wings, refs: ["1Kgs 8:6-7"]}
+      - {motif: ark-poles-visible-to-this-day, refs: ["1Kgs 8:8"]}
+      - {motif: tablets-of-testimony-in-ark, refs: ["1Kgs 8:9"], note: "Nothing in the ark but the two stone tablets"}
+      - {motif: glory-fills-sanctuary-prophet-cannot-enter, refs: ["1Kgs 8:10-11"], note: "Priests cannot stand to minister"}
+      - {motif: god-dwells-in-thick-darkness, refs: ["1Kgs 8:12"]}
+      - {motif: temple-as-exalted-house-zebul, refs: ["1Kgs 8:13"], note: "LXX cites this poem from the 'Book of the Song'"}
+    hints:
+      - "Heb 9:4 places the jar of manna and Aaron's rod in the ark, contrasting 1Kgs 8:9."
+      - "Baal's epithet zbl b'l ars (Prince Baal) at Ugarit; Beelzebul."
+  - id: hb-1kgs-8-blessing-promise
+    tradition: judaism
+    title: Solomon blesses the assembly and recalls the promise to David
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 8:14-21"]
+    tags:
+      - {motif: father-barred-from-building-temple-war, refs: ["1Kgs 8:17-19"], note: "Here the reason is simply that the son is to build it"}
+      - {motif: centralized-sanctuary-chosen-place, refs: ["1Kgs 8:16"]}
+      - {motif: ark-of-the-covenant, refs: ["1Kgs 8:21"]}
+  - id: hb-1kgs-8-dedication-prayer
+    tradition: judaism
+    title: Solomon's prayer of dedication
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 8:22-53"]
+    tags:
+      - {motif: spreading-hands-in-prayer, refs: ["1Kgs 8:22", "1Kgs 8:38"]}
+      - {motif: heaven-cannot-contain-god, refs: ["1Kgs 8:27"]}
+      - {motif: heaven-of-heavens, refs: ["1Kgs 8:27"]}
+      - {motif: prayer-toward-the-temple, refs: ["1Kgs 8:29-30", "1Kgs 8:35", "1Kgs 8:44", "1Kgs 8:48"]}
+      - {motif: oath-before-altar-ordeal, refs: ["1Kgs 8:31-32"]}
+      - {motif: drought-as-punishment-for-sin, refs: ["1Kgs 8:35-36"]}
+      - {motif: covenant-curses-catalogue, refs: ["1Kgs 8:37"], note: "Famine, pestilence, blight, mildew, locust, siege, plague"}
+      - {motif: god-alone-knows-hearts, refs: ["1Kgs 8:39"]}
+      - {motif: foreigner-prays-at-temple, refs: ["1Kgs 8:41-43"]}
+      - {motif: no-man-who-does-not-sin, refs: ["1Kgs 8:46"]}
+      - {motif: repentance-in-exile-prayer, refs: ["1Kgs 8:46-50"], note: "Confession: 'we have sinned, done iniquity, acted wickedly'"}
+      - {motif: iron-furnace-egypt, refs: ["1Kgs 8:51"]}
+    hints:
+      - "Prayer toward Jerusalem: Dan 6:11; the Muslim qibla first toward Jerusalem (Quran 2:142-144); synagogue orientation."
+      - "The confession of 8:47 is the basis of the Yom Kippur viddui formula (b. Yoma 36b); compare Eccl 7:20."
+      - "Isa 56:7 'house of prayer for all peoples'; Acts 7:48-49 on God not dwelling in handmade houses."
+  - id: hb-1kgs-8-final-blessing-feast
+    tradition: judaism
+    title: Final blessing, sacrifices and the dedication feast
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 8:54-66"]
+    tags:
+      - {motif: spreading-hands-in-prayer, refs: ["1Kgs 8:54"], note: "Kneeling with palms spread to heaven"}
+      - {motif: foreigner-confesses-israels-god, refs: ["1Kgs 8:60"], note: "Aim that all peoples know 'YHWH is God, there is no other'"}
+      - {motif: peace-offering-shelamim, refs: ["1Kgs 8:63"], note: "22,000 cattle and 120,000 sheep"}
+      - {motif: middle-court-consecrated-altar-too-small, refs: ["1Kgs 8:64"]}
+      - {motif: temple-dedication-fourteen-day-feast, refs: ["1Kgs 8:65-66"], note: "From Lebo-hamath to the Wadi of Egypt; dismissed on the eighth day"}
+    hints:
+      - "Hanukkah (dedication) traditions; compare Gudea's temple dedication feast in the Gudea Cylinders."
+  - id: hb-1kgs-9-second-appearance
+    tradition: judaism
+    title: God's second appearance to Solomon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 9:1-9"]
+    tags:
+      - {motif: second-divine-appearance-to-king, refs: ["1Kgs 9:2-3"], note: "'As he appeared to him at Gibeon'"}
+      - {motif: divine-dwelling-conditional-on-obedience, refs: ["1Kgs 9:3-7"], note: "'My eyes and my heart will be there all the days'"}
+      - {motif: byword-and-proverb-among-nations, refs: ["1Kgs 9:7"]}
+      - {motif: temple-ruin-passersby-hiss-and-ask-why, refs: ["1Kgs 9:8-9"]}
+    hints:
+      - "Deut 29:23-25 has the same question-and-answer schema; Assyrian annals (Ashurbanipal on Arabia) use the same 'why has this happened' device."
+  - id: hb-1kgs-9-cities-labor-ophir
+    tradition: judaism
+    title: Cabul, forced labor, building projects and the Ophir fleet
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 9:10-28"]
+    tags:
+      - {motif: worthless-cities-cabul, refs: ["1Kgs 9:11-13"]}
+      - {motif: pharaoh-gives-city-as-dowry, refs: ["1Kgs 9:16"], note: "Gezer, burned and its Canaanites killed"}
+      - {motif: remnant-peoples-made-slave-labor, refs: ["1Kgs 9:20-22"]}
+      - {motif: canaanites-made-forced-labor, refs: ["1Kgs 9:21"]}
+      - {motif: house-for-pharaohs-daughter, refs: ["1Kgs 9:24"]}
+      - {motif: ophir-gold-voyages, refs: ["1Kgs 9:26-28"], note: "From Ezion-geber near Elath; 420 talents"}
+      - {motif: corvee-labor-in-relays, refs: ["1Kgs 9:15", "1Kgs 9:23"], note: "550 overseers; Hazor, Megiddo, Gezer, Tadmor (qere)"}
+    hints:
+      - "Ophir as a legendary gold land (later identified with India or Africa, 'King Solomon's Mines'); compare Egyptian expeditions to Punt (Hatshepsut)."
+  - id: hb-1kgs-10-queen-of-sheba
+    tradition: judaism
+    title: The Queen of Sheba visits Solomon
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 10:1-13"]
+    tags:
+      - {motif: queen-of-sheba-tests-with-riddles, refs: ["1Kgs 10:1", "1Kgs 10:3"]}
+      - {motif: camel-caravan-of-spices-gold, refs: ["1Kgs 10:2"]}
+      - {motif: queen-breathless-at-splendor, refs: ["1Kgs 10:4-5"]}
+      - {motif: not-half-was-told, refs: ["1Kgs 10:6-7"]}
+      - {motif: foreigner-confesses-god-greatest, refs: ["1Kgs 10:9"], note: "She blesses YHWH who loves Israel"}
+      - {motif: nations-come-to-hear-wisdom, refs: ["1Kgs 10:1", "1Kgs 10:8"]}
+      - {motif: almug-wood-for-lyres, refs: ["1Kgs 10:11-12"]}
+      - {motif: ophir-gold-voyages, refs: ["1Kgs 10:11"]}
+    hints:
+      - "Quran 27:20-44 (Bilqis, the hoopoe, the transported throne and the glass floor); Targum Sheni to Esther with her three riddles; Ethiopian Kebra Nagast (Menelik born of Solomon and Makeda)."
+      - "Matt 12:42 'queen of the south'; Midrash Mishle 1 and Alphabet of Ben Sira on her riddles and hairy legs."
+      - "'Gave her all she desired' (10:13) became the basis of the Ethiopian claim of a son."
+  - id: hb-1kgs-10-wealth
+    tradition: judaism
+    title: Solomon's gold, ivory throne, fleet and horse trade
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 10:14-29"]
+    tags:
+      - {motif: annual-gold-666-talents, refs: ["1Kgs 10:14"]}
+      - {motif: golden-shields-in-palace, refs: ["1Kgs 10:16-17"]}
+      - {motif: ivory-throne-six-steps-lions, refs: ["1Kgs 10:18-20"], note: "'Nothing like it was made for any kingdom'"}
+      - {motif: tarshish-ships-apes-peacocks, refs: ["1Kgs 10:22"], note: "shenhabbim, qofim, tukkiyim; Indic loanwords suggested"}
+      - {motif: silver-common-as-stones, refs: ["1Kgs 10:21", "1Kgs 10:27"]}
+      - {motif: nations-come-to-hear-wisdom, refs: ["1Kgs 10:24-25"], note: "Yearly tribute of vessels, garments, weapons, spices, horses, mules"}
+      - {motif: royal-stables-chariot-horses, refs: ["1Kgs 10:26"], note: "1,400 chariots, 12,000 horsemen"}
+      - {motif: horse-and-chariot-trade-egypt-kue, refs: ["1Kgs 10:28-29"], note: "Chariot 600 shekels, horse 150"}
+      - {motif: king-not-multiply-horses-wives-gold, refs: ["1Kgs 10:26-29"], note: "Violates Deut 17:16-17 by multiplying gold and Egyptian horses"}
+    hints:
+      - "666 recurs in Rev 13:18 (number of the beast) and Ezra 2:13."
+      - "Solomon's throne in Targum Sheni and the Islamic qisas al-anbiya with mechanical lions and eagles; Byzantine Magnaura throne with roaring lions."
+  - id: hb-1kgs-11-solomons-wives
+    tradition: judaism
+    title: Solomon's foreign wives and apostasy
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 11:1-13"]
+    tags:
+      - {motif: king-with-thousand-wives, refs: ["1Kgs 11:3"]}
+      - {motif: intermarriage-leads-to-idolatry, refs: ["1Kgs 11:1-2", "1Kgs 11:4"]}
+      - {motif: wise-king-led-astray-in-old-age, refs: ["1Kgs 11:4"]}
+      - {motif: king-builds-shrines-for-foreign-gods, refs: ["1Kgs 11:5", "1Kgs 11:7-8"], note: "Ashtoreth of Sidonians, Milcom, Chemosh, Molech"}
+      - {motif: king-not-multiply-horses-wives-gold, refs: ["1Kgs 11:3"]}
+      - {motif: punishment-deferred-for-sake-of-ancestor, refs: ["1Kgs 11:12"]}
+      - {motif: one-tribe-left-as-lamp-for-david, refs: ["1Kgs 11:13"]}
+    hints:
+      - "Quran 38:34-35 (Solomon tested, a body placed on his throne) and 2:102 (Solomon did not disbelieve), defending him against apostasy; rabbinic b. Shabbat 56b says his wives turned him only in that he did not stop them."
+      - "Neh 13:26 cites Solomon as the warning example."
+  - id: hb-1kgs-11-adversaries
+    tradition: judaism
+    title: Hadad the Edomite and Rezon of Damascus
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 11:14-25"]
+    tags:
+      - {motif: god-raises-adversary-satan, refs: ["1Kgs 11:14", "1Kgs 11:23", "1Kgs 11:25"]}
+      - {motif: royal-child-refugee-raised-at-pharaohs-court, refs: ["1Kgs 11:17-20"], note: "Wife is sister of queen Tahpenes; son Genubath weaned in Pharaoh's house"}
+      - {motif: exile-asks-pharaoh-to-let-him-go, refs: ["1Kgs 11:21-22"]}
+      - {motif: hero-flees-to-foreign-land, refs: ["1Kgs 11:17", "1Kgs 11:23-24"]}
+    hints:
+      - "Inverted Moses/Joseph story: refugee raised in Pharaoh's house asks 'let me go' (shalleheni)."
+      - "Compare the Egyptian Tale of Sinuhe (exile at a foreign court who returns)."
+  - id: hb-1kgs-11-jeroboam-ahijah
+    tradition: judaism
+    title: Ahijah tears the cloak; Jeroboam flees; Solomon's death
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 11:26-43"]
+    tags:
+      - {motif: prophet-tears-new-cloak-twelve-pieces, refs: ["1Kgs 11:29-31"]}
+      - {motif: torn-robe-sign-of-torn-kingdom, refs: ["1Kgs 11:30-31"]}
+      - {motif: one-tribe-left-as-lamp-for-david, refs: ["1Kgs 11:32", "1Kgs 11:36"]}
+      - {motif: future-king-flees-to-egypt, refs: ["1Kgs 11:40"]}
+      - {motif: source-book-cited, refs: ["1Kgs 11:41"], note: "Book of the Acts of Solomon"}
+      - {motif: forty-year-reign, refs: ["1Kgs 11:42"], note: "Solomon reigns forty years, like David"}
+      - {motif: dynasty-promise-conditional, refs: ["1Kgs 11:38"], note: "Jeroboam offered a 'sure house' like David's if obedient"}
+      - {motif: son-of-a-widow, refs: ["1Kgs 11:26"], note: "Jeroboam's mother Zeruah is a widow"}
+    hints:
+      - "Prophetic sign-acts (Jer 13, 19; Ezek 4-5); LXX 3 Kgdms 12:24a-z has an alternative Jeroboam story with a wife from Pharaoh."
+  - id: hb-1kgs-12-schism
+    tradition: judaism
+    title: Rehoboam at Shechem and the division of the kingdom
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 12:1-24"]
+    tags:
+      - {motif: old-counsel-vs-young-counsel, refs: ["1Kgs 12:6-8", "1Kgs 12:13"]}
+      - {motif: little-finger-thicker-than-fathers-loins, refs: ["1Kgs 12:10-11", "1Kgs 12:14"]}
+      - {motif: to-your-tents-o-israel, refs: ["1Kgs 12:16"]}
+      - {motif: labor-overseer-stoned, refs: ["1Kgs 12:18"], note: "Adoram; Rehoboam flees in his chariot"}
+      - {motif: stoning-penalty, refs: ["1Kgs 12:18"]}
+      - {motif: prophet-forbids-civil-war, refs: ["1Kgs 12:22-24"], note: "Shemaiah the man of God"}
+      - {motif: hardening-of-pharaohs-heart, refs: ["1Kgs 12:15"], note: "The king's refusal is 'a turn of affairs from YHWH' to fulfil prophecy"}
+    hints:
+      - "Wisdom-literature contrast of elders' and youths' counsel (Ahiqar; Sir 25:4-6); Plutarch and Herodotus on harsh successors provoking revolt."
+  - id: hb-1kgs-12-golden-calves
+    tradition: judaism
+    title: Jeroboam's golden calves and rival cult
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 12:25-33"]
+    tags:
+      - {motif: two-golden-calves-at-bethel-and-dan, refs: ["1Kgs 12:28-30"]}
+      - {motif: golden-calf, refs: ["1Kgs 12:28"]}
+      - {motif: calf-proclaimed-as-god-of-exodus, refs: ["1Kgs 12:28"], note: "Verbatim echo of Exod 32:4, 'here are your gods, Israel'"}
+      - {motif: non-levite-priests-appointed, refs: ["1Kgs 12:31"]}
+      - {motif: rival-festival-eighth-month, refs: ["1Kgs 12:32-33"]}
+      - {motif: rival-altar-crisis, refs: ["1Kgs 12:32-33"]}
+    hints:
+      - "Bulls as pedestals of storm gods (Hadad/Baal) in Syrian iconography; Hos 8:5-6, 10:5; Tobit 1:5."
+  - id: hb-1kgs-13-man-of-god-bethel
+    tradition: judaism
+    title: The man of God from Judah at Bethel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 13:1-10"]
+    tags:
+      - {motif: prophecy-names-future-king-centuries-ahead, refs: ["1Kgs 13:2"]}
+      - {motif: human-bones-burned-on-altar, refs: ["1Kgs 13:2"]}
+      - {motif: altar-splits-ashes-pour-out, refs: ["1Kgs 13:3", "1Kgs 13:5"]}
+      - {motif: kings-hand-withers-and-restored, refs: ["1Kgs 13:4", "1Kgs 13:6"]}
+      - {motif: king-asks-prophet-to-pray, refs: ["1Kgs 13:6"]}
+      - {motif: prophet-forbidden-food-and-return-route, refs: ["1Kgs 13:8-10"], note: "Refuses even half the king's house"}
+    hints:
+      - "Fulfilled in 2Kgs 23:15-18; Josephus names the prophet Jadon. Compare the withered hand of Mark 3:1-6."
+  - id: hb-1kgs-13-old-prophet-lion
+    tradition: judaism
+    title: The old prophet's lie and the lion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 13:11-34"]
+    tags:
+      - {motif: old-prophet-lies-claiming-angel, refs: ["1Kgs 13:18"]}
+      - {motif: false-prophet-test-from-god, refs: ["1Kgs 13:18-22"], note: "Lying prophet then speaks a true oracle at the table"}
+      - {motif: sacred-tree-sanctuary, refs: ["1Kgs 13:14"], note: "Found sitting under 'the terebinth'"}
+      - {motif: denied-burial-in-ancestral-tomb, refs: ["1Kgs 13:22"]}
+      - {motif: lion-kills-disobedient-prophet, refs: ["1Kgs 13:24-28"]}
+      - {motif: lament-alas-my-brother, refs: ["1Kgs 13:30"]}
+      - {motif: prophet-asks-burial-beside-other-prophets-bones, refs: ["1Kgs 13:31"]}
+      - {motif: non-levite-priests-appointed, refs: ["1Kgs 13:33"], note: "Whoever wished, he 'filled his hand'"}
+    hints:
+      - "Lion as divine executioner: 1Kgs 20:36, 2Kgs 17:25; Quranic and hadith tales of animals guarding the dead."
+  - id: hb-1kgs-14-ahijah-oracle
+    tradition: judaism
+    title: Jeroboam's wife disguised before blind Ahijah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 14:1-20"]
+    tags:
+      - {motif: sick-child-oracle-sought, refs: ["1Kgs 14:1-3"]}
+      - {motif: queen-disguised-visits-blind-prophet, refs: ["1Kgs 14:2", "1Kgs 14:4-6"]}
+      - {motif: gift-of-bread-cakes-honey-to-seer, refs: ["1Kgs 14:3"]}
+      - {motif: male-who-pisses-against-wall, refs: ["1Kgs 14:10"]}
+      - {motif: house-burned-like-dung, refs: ["1Kgs 14:10"]}
+      - {motif: dynasty-dead-eaten-by-dogs-and-birds, refs: ["1Kgs 14:11"]}
+      - {motif: child-dies-as-mother-crosses-threshold, refs: ["1Kgs 14:12", "1Kgs 14:17"]}
+      - {motif: israel-shaken-like-reed-scattered-beyond-river, refs: ["1Kgs 14:15"]}
+      - {motif: baal-and-ashtaroth-worship, refs: ["1Kgs 14:15"], note: "Asherim"}
+      - {motif: source-book-cited, refs: ["1Kgs 14:19"]}
+    hints:
+      - "The only good-death child: rabbinic tradition (b. Moed Qatan 28b) says Abijah removed guards blocking pilgrimage to Jerusalem."
+      - "Dogs and birds devouring the unburied: Iliad 1.4-5; Assyrian treaty curses (Esarhaddon VTE)."
+  - id: hb-1kgs-14-rehoboam
+    tradition: judaism
+    title: Rehoboam's reign and Shishak's invasion
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 14:21-31"]
+    tags:
+      - {motif: regnal-formula, refs: ["1Kgs 14:21", "1Kgs 14:29-31"]}
+      - {motif: mother-of-king-named-foreign, refs: ["1Kgs 14:21", "1Kgs 14:31"]}
+      - {motif: high-places-green-trees, refs: ["1Kgs 14:23"]}
+      - {motif: no-cult-prostitutes, refs: ["1Kgs 14:24"], note: "qadesh in the land"}
+      - {motif: invader-plunders-temple-treasury, refs: ["1Kgs 14:25-26"]}
+      - {motif: gold-shields-replaced-with-bronze, refs: ["1Kgs 14:27-28"]}
+      - {motif: source-book-cited, refs: ["1Kgs 14:29"]}
+    hints:
+      - "Shishak = Sheshonq I; his Karnak (Bubastite Portal) list of conquered towns."
+  - id: hb-1kgs-15-abijam-asa
+    tradition: judaism
+    title: Abijam and Asa of Judah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 15:1-24"]
+    tags:
+      - {motif: regnal-formula, refs: ["1Kgs 15:1-2", "1Kgs 15:7-11", "1Kgs 15:23-24"]}
+      - {motif: one-tribe-left-as-lamp-for-david, refs: ["1Kgs 15:4"]}
+      - {motif: david-faultless-except-uriah, refs: ["1Kgs 15:5"]}
+      - {motif: no-cult-prostitutes, refs: ["1Kgs 15:12"], note: "Asa expels the qedeshim"}
+      - {motif: queen-mother-deposed-for-idol, refs: ["1Kgs 15:13"], note: "mifletset, 'horrid thing'"}
+      - {motif: temple-treasure-sent-as-bribe-to-foreign-king, refs: ["1Kgs 15:18-20"], note: "Ben-hadad son of Tabrimmon son of Hezion"}
+      - {motif: enemy-fortress-dismantled-for-materials, refs: ["1Kgs 15:22"]}
+      - {motif: king-diseased-in-feet-in-old-age, refs: ["1Kgs 15:23"]}
+      - {motif: source-book-cited, refs: ["1Kgs 15:7", "1Kgs 15:23"]}
+    hints:
+      - "Maacah daughter of Abishalom is mother of both Abijam (15:2) and Asa (15:10): an anomaly harmonized by 'grandmother'."
+      - "Rabbinic b. Sotah 10a reads Asa's 'feet' disease as gout or a euphemism; 2Chr 16:12 adds he sought physicians."
+  - id: hb-1kgs-15-nadab-baasha
+    tradition: judaism
+    title: Nadab, and Baasha's coup
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 15:25-34"]
+    tags:
+      - {motif: regnal-formula, refs: ["1Kgs 15:25-26", "1Kgs 15:33-34"]}
+      - {motif: usurper-exterminates-predecessor-house, refs: ["1Kgs 15:27-29"], note: "At the siege of Gibbethon"}
+      - {motif: source-book-cited, refs: ["1Kgs 15:31"]}
+  - id: hb-1kgs-16-jehu-ben-hanani-elah-zimri
+    tradition: judaism
+    title: Jehu son of Hanani against Baasha; Elah and Zimri
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 16:1-20"]
+    tags:
+      - {motif: raised-from-dust-to-rule, refs: ["1Kgs 16:2"]}
+      - {motif: dynasty-dead-eaten-by-dogs-and-birds, refs: ["1Kgs 16:4"]}
+      - {motif: king-assassinated-while-drunk, refs: ["1Kgs 16:9-10"], note: "In the house of Arza, over the household"}
+      - {motif: male-who-pisses-against-wall, refs: ["1Kgs 16:11"], note: "Also his redeemers (go'alim) and friends"}
+      - {motif: usurper-exterminates-predecessor-house, refs: ["1Kgs 16:11-12"]}
+      - {motif: seven-day-king-burns-palace-on-himself, refs: ["1Kgs 16:15", "1Kgs 16:18"]}
+      - {motif: source-book-cited, refs: ["1Kgs 16:5", "1Kgs 16:14", "1Kgs 16:20"]}
+    hints:
+      - "Self-immolation in the palace: Sardanapalus (Ctesias via Diodorus 2.27); Shamash-shum-ukin of Babylon."
+  - id: hb-1kgs-16-omri-ahab
+    tradition: judaism
+    title: Omri founds Samaria; Ahab and Jezebel; Jericho rebuilt
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 16:21-34"]
+    tags:
+      - {motif: people-split-between-two-claimants, refs: ["1Kgs 16:21-22"], note: "Tibni son of Ginath"}
+      - {motif: capital-hill-bought-named-after-owner, refs: ["1Kgs 16:24"]}
+      - {motif: regnal-formula, refs: ["1Kgs 16:23", "1Kgs 16:25-30"]}
+      - {motif: king-marries-sidonian-baal-priest-daughter, refs: ["1Kgs 16:31"]}
+      - {motif: temple-of-baal-in-capital, refs: ["1Kgs 16:32-33"]}
+      - {motif: curse-on-rebuilder-of-city, refs: ["1Kgs 16:34"], note: "Hiel of Bethel loses firstborn Abiram at the foundation and youngest Segub at the gates, fulfilling Josh 6:26"}
+      - {motif: source-book-cited, refs: ["1Kgs 16:27"]}
+    hints:
+      - "Assyrian records call Israel 'Bit-Humri' (House of Omri); Mesha Stele mentions Omri."
+      - "Foundation sacrifice of children, attested archaeologically debated; Josephus Ant. 8.318 on Ethbaal as priest of Astarte."
+  - id: hb-1kgs-17-elijah-ravens
+    tradition: judaism
+    title: Elijah announces the drought and is fed by ravens
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 17:1-7"]
+    tags:
+      - {motif: prophet-shuts-heaven-no-dew-or-rain, refs: ["1Kgs 17:1"], note: "'As YHWH lives, before whom I stand'"}
+      - {motif: rain-reward-drought-punishment, refs: ["1Kgs 17:1", "1Kgs 17:7"]}
+      - {motif: prophet-hides-by-brook, refs: ["1Kgs 17:3", "1Kgs 17:5", "1Kgs 17:7"], note: "Wadi Cherith"}
+      - {motif: prophet-fed-by-ravens, refs: ["1Kgs 17:4", "1Kgs 17:6"]}
+    hints:
+      - "Jas 5:17 and Luke 4:25 give the drought as three and a half years. Rabbinic debate reads 'orvim' as Arabs or men of Orev (Gen. Rab. 33:5)."
+      - "Saints fed by ravens: Paul of Thebes and Anthony (Jerome), St Benedict's raven; Odin's ravens."
+  - id: hb-1kgs-17-widow-zarephath
+    tradition: judaism
+    title: The widow of Zarephath and her son
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 17:8-24"]
+    tags:
+      - {motif: foreign-widow-feeds-prophet, refs: ["1Kgs 17:9-11"]}
+      - {motif: widow-gathering-sticks-last-meal, refs: ["1Kgs 17:10", "1Kgs 17:12"]}
+      - {motif: prophet-first-portion-test-of-faith, refs: ["1Kgs 17:13"]}
+      - {motif: inexhaustible-jar-of-flour-and-oil, refs: ["1Kgs 17:14-16"]}
+      - {motif: host-blames-prophet-for-sons-death, refs: ["1Kgs 17:17-18"], note: "'What have I to do with you, man of God?'"}
+      - {motif: prophet-revives-dead-child-in-upper-room, refs: ["1Kgs 17:19", "1Kgs 17:21-22"]}
+      - {motif: prophet-stretches-on-child-three-times, refs: ["1Kgs 17:21"]}
+      - {motif: revived-son-returned-to-mother, refs: ["1Kgs 17:23"]}
+      - {motif: miracle-proves-man-of-god, refs: ["1Kgs 17:24"]}
+      - {motif: son-of-a-widow, refs: ["1Kgs 17:17"]}
+    hints:
+      - "Luke 4:25-26 (Jesus cites her as a gentile favored); Luke 7:11-17 widow of Nain ('gave him to his mother', verbatim echo of 17:23)."
+      - "Rabbinic tradition (PRE 33; y. Sukkah 5:1) that the revived boy was Jonah son of Amittai."
+      - "Ovid's Baucis and Philemon (inexhaustible wine jug for disguised gods)."
+  - id: hb-1kgs-18-obadiah
+    tradition: judaism
+    title: Obadiah meets Elijah in the famine
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 18:1-16"]
+    tags:
+      - {motif: persecution-of-prophets-by-queen, refs: ["1Kgs 18:4", "1Kgs 18:13"]}
+      - {motif: steward-hides-hundred-prophets-in-caves, refs: ["1Kgs 18:4", "1Kgs 18:13"]}
+      - {motif: king-searched-every-nation-for-prophet, refs: ["1Kgs 18:10"]}
+      - {motif: spirit-may-carry-prophet-away, refs: ["1Kgs 18:12"]}
+      - {motif: hiding-in-caves-and-strongholds, refs: ["1Kgs 18:4"]}
+    hints:
+      - "Rabbinic identification of this Obadiah with the prophet of the book of Obadiah (b. Sanhedrin 39b), an Edomite convert; and his widow as the woman of 2Kgs 4:1."
+  - id: hb-1kgs-18-carmel
+    tradition: judaism
+    title: Contest on Mount Carmel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 18:17-40"]
+    tags:
+      - {motif: troubler-of-israel, refs: ["1Kgs 18:17-18"]}
+      - {motif: lone-prophet-against-hundreds, refs: ["1Kgs 18:19", "1Kgs 18:22"], note: "Who 'eat at Jezebel's table'"}
+      - {motif: limping-between-two-opinions, refs: ["1Kgs 18:21"]}
+      - {motif: contest-god-who-answers-by-fire, refs: ["1Kgs 18:23-25"]}
+      - {motif: contest-with-court-magicians, refs: ["1Kgs 18:25-29"]}
+      - {motif: prophet-mocks-sleeping-god, refs: ["1Kgs 18:27"]}
+      - {motif: mocking-where-are-their-gods, refs: ["1Kgs 18:27"]}
+      - {motif: priests-gash-themselves-ecstatic-rite, refs: ["1Kgs 18:26", "1Kgs 18:28-29"], note: "'according to their custom'; they prophesy until the offering time"}
+      - {motif: no-gashing-or-baldness-for-dead, refs: ["1Kgs 18:28"]}
+      - {motif: altar-of-twelve-stones-repaired, refs: ["1Kgs 18:30-32"]}
+      - {motif: twelve-pillars-for-twelve-tribes, refs: ["1Kgs 18:31"]}
+      - {motif: sacrifice-drenched-with-water-thrice, refs: ["1Kgs 18:33-35"]}
+      - {motif: fire-from-heaven-consumes-offering, refs: ["1Kgs 18:38"]}
+      - {motif: yhwh-he-is-god-acclamation, refs: ["1Kgs 18:39"]}
+      - {motif: false-prophets-slaughtered-at-brook, refs: ["1Kgs 18:40"]}
+      - {motif: false-prophet-death, refs: ["1Kgs 18:40"]}
+    hints:
+      - "Ugaritic Baal 'dying and rising' (KTU 1.5-6): the mocking of a sleeping/absent god may answer Baal's seasonal absence. 'YHWH hu ha-Elohim' closes the Yom Kippur Neilah service."
+      - "Quran 37:123-132 (Ilyas against the worship of Ba'l); rabbinic legend that Hiel hid inside the Baal altar to light it and was killed by a snake (Exod. Rab. 15:15)."
+      - "Ritual self-laceration of the galli of Cybele (Lucian, De Dea Syria) and Herodotus 2.61 on Carians at Isis festival."
+  - id: hb-1kgs-18-rain
+    tradition: judaism
+    title: Elijah prays for rain and runs before Ahab
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 18:41-46"]
+    tags:
+      - {motif: prophet-crouches-head-between-knees, refs: ["1Kgs 18:42"]}
+      - {motif: servant-looks-seven-times-small-cloud, refs: ["1Kgs 18:43-44"]}
+      - {motif: seven-fold-ritual-action, refs: ["1Kgs 18:43"]}
+      - {motif: rain-reward-drought-punishment, refs: ["1Kgs 18:45"]}
+      - {motif: prophet-outruns-chariot, refs: ["1Kgs 18:46"]}
+    hints:
+      - "Honi the Circle-drawer (m. Taanit 3:8) and other rabbinic rainmakers; Jas 5:18."
+  - id: hb-1kgs-19-elijah-horeb
+    tradition: judaism
+    title: Elijah flees to Horeb; the still small voice
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 19:1-18"]
+    tags:
+      - {motif: queen-oath-to-kill-prophet-by-tomorrow, refs: ["1Kgs 19:2"]}
+      - {motif: prophet-sleeps-under-broom-tree, refs: ["1Kgs 19:4-5"]}
+      - {motif: leader-wishes-to-die, refs: ["1Kgs 19:4"], note: "'Enough! Take my life, for I am no better than my fathers'"}
+      - {motif: angel-wakes-prophet-with-cake-and-water, refs: ["1Kgs 19:5-7"]}
+      - {motif: journey-forty-days-on-one-meal, refs: ["1Kgs 19:8"]}
+      - {motif: forty-days-and-nights, refs: ["1Kgs 19:8"]}
+      - {motif: prophet-in-cave-on-horeb, refs: ["1Kgs 19:9", "1Kgs 19:13"]}
+      - {motif: prophet-in-cleft-of-rock-sees-gods-back, refs: ["1Kgs 19:9", "1Kgs 19:11"], note: "Moses parallel: God 'passes by' (Exod 33:22)"}
+      - {motif: what-are-you-doing-here, refs: ["1Kgs 19:9", "1Kgs 19:13"]}
+      - {motif: zealous-for-god-alone-left, refs: ["1Kgs 19:10", "1Kgs 19:14"]}
+      - {motif: god-not-in-wind-earthquake-fire, refs: ["1Kgs 19:11-12"]}
+      - {motif: still-small-voice, refs: ["1Kgs 19:12"]}
+      - {motif: prophet-wraps-face-in-mantle, refs: ["1Kgs 19:13"]}
+      - {motif: commission-to-anoint-three, refs: ["1Kgs 19:15-16"], note: "Hazael, Jehu, Elisha"}
+      - {motif: triple-sword-whoever-escapes, refs: ["1Kgs 19:17"]}
+      - {motif: seven-thousand-who-did-not-bow-to-baal, refs: ["1Kgs 19:18"]}
+      - {motif: kissing-idol, refs: ["1Kgs 19:18"]}
+    hints:
+      - "Rom 11:2-5 (Paul on the remnant of 7,000); Matt 4:2 (Jesus fasting forty days); rabbinic tradition (Pirqe R. El. 29) that Elijah is the 'angel of the covenant' at every circumcision because of his complaint."
+      - "The theophany against storm gods: Baal's voice in the thunder (KTU 1.4 VII); Zoroastrian and Sufi readings of the inner voice."
+  - id: hb-1kgs-19-call-of-elisha
+    tradition: judaism
+    title: The call of Elisha
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 19:19-21"]
+    tags:
+      - {motif: twelve-yoke-of-oxen, refs: ["1Kgs 19:19"]}
+      - {motif: hero-called-from-plowing, refs: ["1Kgs 19:19"]}
+      - {motif: mantle-cast-on-successor, refs: ["1Kgs 19:19"]}
+      - {motif: disciple-called-from-plowing-farewell-parents, refs: ["1Kgs 19:20"]}
+      - {motif: disciple-sacrifices-oxen-burns-yoke, refs: ["1Kgs 19:21"]}
+    hints:
+      - "Luke 9:61-62 ('no one who puts his hand to the plow and looks back'), Matt 8:21-22; Cincinnatus called from the plow (Livy 3.26)."
+  - id: hb-1kgs-20-siege-samaria
+    tradition: judaism
+    title: Ben-hadad besieges Samaria and is routed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 20:1-21"]
+    tags:
+      - {motif: thirty-two-vassal-kings, refs: ["1Kgs 20:1", "1Kgs 20:16"]}
+      - {motif: besieger-demands-wives-children-gold, refs: ["1Kgs 20:3-7"]}
+      - {motif: boast-dust-not-enough-for-handfuls, refs: ["1Kgs 20:10"]}
+      - {motif: let-not-him-who-girds-boast, refs: ["1Kgs 20:11"]}
+      - {motif: drunk-king-in-booths-routed, refs: ["1Kgs 20:12", "1Kgs 20:16-21"]}
+      - {motif: young-men-of-district-governors-win, refs: ["1Kgs 20:14-15", "1Kgs 20:17-20"], note: "Followed by 7,000 of Israel"}
+    hints:
+      - "Compare Herodotus and Assyrian annals of drunken commanders surprised; Holofernes in Judith 13."
+  - id: hb-1kgs-20-aphek
+    tradition: judaism
+    title: Battle of Aphek; Ben-hadad spared
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 20:22-34"]
+    tags:
+      - {motif: god-of-hills-not-valleys, refs: ["1Kgs 20:23", "1Kgs 20:28"]}
+      - {motif: wall-falls-on-enemy-survivors, refs: ["1Kgs 20:30"]}
+      - {motif: sackcloth-and-ropes-surrender, refs: ["1Kgs 20:31-32"]}
+      - {motif: merciful-kings-of-israel, refs: ["1Kgs 20:31"]}
+      - {motif: enemy-called-my-brother-omen-seized, refs: ["1Kgs 20:32-33"]}
+      - {motif: bazaars-in-enemy-capital-treaty, refs: ["1Kgs 20:34"]}
+      - {motif: enemy-king-spared-against-command, refs: ["1Kgs 20:34"]}
+    hints:
+      - "Israel camps 'like two little flocks of goats' (20:27). Localized deities of mountains vs plains in ANE thought (e.g. 2Kgs 17:26 'god of the land')."
+  - id: hb-1kgs-20-prophet-parable
+    tradition: judaism
+    title: The wounded prophet's parable against Ahab
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 20:35-43"]
+    tags:
+      - {motif: refusal-to-strike-prophet-punished-by-lion, refs: ["1Kgs 20:35-36"]}
+      - {motif: band-of-ecstatic-prophets, refs: ["1Kgs 20:35"], note: "'sons of the prophets' guild"}
+      - {motif: prophet-disguised-with-bandage-juridical-parable, refs: ["1Kgs 20:37-41"]}
+      - {motif: life-for-life-of-guarded-captive, refs: ["1Kgs 20:39", "1Kgs 20:42"]}
+      - {motif: herem-total-destruction, refs: ["1Kgs 20:42"], note: "'man of my herem'"}
+      - {motif: enemy-king-spared-against-command, refs: ["1Kgs 20:42"]}
+      - {motif: sullen-and-angry-king, refs: ["1Kgs 20:43"]}
+    hints:
+      - "Nathan's parable (2Sam 12) and the woman of Tekoa (2Sam 14) as juridical parables; Saul and Agag (1Sam 15)."
+  - id: hb-1kgs-21-naboth
+    tradition: judaism
+    title: Naboth's vineyard
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 21:1-16"]
+    tags:
+      - {motif: ancestral-inheritance-refused-to-king, refs: ["1Kgs 21:2-3", "1Kgs 21:6"], note: "Ahab wants it for a vegetable garden"}
+      - {motif: sullen-and-angry-king, refs: ["1Kgs 21:4"]}
+      - {motif: king-sulks-on-bed-refuses-food, refs: ["1Kgs 21:4-5"]}
+      - {motif: queen-forges-letters-with-kings-seal, refs: ["1Kgs 21:8-11"]}
+      - {motif: staged-fast-and-two-false-witnesses, refs: ["1Kgs 21:9-10", "1Kgs 21:12-13"], note: "'blessed' as euphemism for cursed"}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["1Kgs 21:10", "1Kgs 21:13"]}
+      - {motif: covet-prohibition, refs: ["1Kgs 21:2"]}
+      - {motif: victim-stoned-outside-city, refs: ["1Kgs 21:13"]}
+      - {motif: stoning-penalty, refs: ["1Kgs 21:13-15"]}
+    hints:
+      - "Susanna (two lying elders); the trial of Jesus with false witnesses (Mark 14:56-58). 2Kgs 9:26 adds Naboth's sons were killed."
+      - "Islamic and Persian tales of the just king and the widow's land (Nizam al-Mulk; Anushirvan and the old woman's hut)."
+  - id: hb-1kgs-21-elijah-condemns-ahab
+    tradition: judaism
+    title: Elijah's sentence on Ahab and Jezebel; Ahab's repentance
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 21:17-29"]
+    tags:
+      - {motif: have-you-murdered-and-also-inherited, refs: ["1Kgs 21:19"]}
+      - {motif: dogs-lick-blood-where-victim-died, refs: ["1Kgs 21:19"]}
+      - {motif: found-me-o-my-enemy, refs: ["1Kgs 21:20"]}
+      - {motif: king-sold-himself-to-do-evil, refs: ["1Kgs 21:20", "1Kgs 21:25"]}
+      - {motif: male-who-pisses-against-wall, refs: ["1Kgs 21:21"]}
+      - {motif: dogs-eat-queen-by-wall, refs: ["1Kgs 21:23"]}
+      - {motif: dynasty-dead-eaten-by-dogs-and-birds, refs: ["1Kgs 21:24"]}
+      - {motif: royal-repentance-in-sackcloth-postpones-doom, refs: ["1Kgs 21:27-29"]}
+      - {motif: rend-garments-grief, refs: ["1Kgs 21:27"]}
+      - {motif: punishment-deferred-for-sake-of-ancestor, refs: ["1Kgs 21:29"], note: "Here deferred because of the king's own humility"}
+    hints:
+      - "Jonah 3 (Nineveh's repentance in sackcloth averts doom); measure-for-measure (midah ke-neged midah) principle."
+  - id: hb-1kgs-22-micaiah
+    tradition: judaism
+    title: Micaiah son of Imlah and the lying spirit
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 22:1-28"]
+    tags:
+      - {motif: four-hundred-court-prophets-unanimous, refs: ["1Kgs 22:6", "1Kgs 22:12-13"]}
+      - {motif: prophet-hated-for-always-prophesying-evil, refs: ["1Kgs 22:8", "1Kgs 22:18"]}
+      - {motif: iron-horns-sign-act, refs: ["1Kgs 22:11"]}
+      - {motif: prophet-first-echoes-then-tells-truth, refs: ["1Kgs 22:15-17"]}
+      - {motif: sheep-without-shepherd, refs: ["1Kgs 22:17"]}
+      - {motif: vision-of-god-enthroned-with-host-of-heaven, refs: ["1Kgs 22:19"]}
+      - {motif: divine-council-deliberates-deception, refs: ["1Kgs 22:20-22"]}
+      - {motif: lying-spirit-in-mouth-of-prophets, refs: ["1Kgs 22:22-23"]}
+      - {motif: false-prophet-test-from-god, refs: ["1Kgs 22:23"]}
+      - {motif: prophet-slapped-on-cheek, refs: ["1Kgs 22:24"]}
+      - {motif: prophet-imprisoned-on-bread-and-water, refs: ["1Kgs 22:26-27"]}
+      - {motif: if-you-return-safely-god-has-not-spoken, refs: ["1Kgs 22:28"]}
+    hints:
+      - "Job 1-2 (heavenly council and the satan); Isa 6; Zech 3. Rabbinic identification of the spirit as the spirit of Naboth (b. Sanhedrin 89a; b. Shabbat 149b)."
+      - "Zeus sends a deceptive dream to Agamemnon (Iliad 2.1-34), a close parallel of a god sending a lying message to lure a king to battle."
+  - id: hb-1kgs-22-ahab-death
+    tradition: judaism
+    title: Ahab's death at Ramoth-gilead
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 22:29-40"]
+    tags:
+      - {motif: king-disguises-himself-in-battle, refs: ["1Kgs 22:30"]}
+      - {motif: random-arrow-kills-disguised-king, refs: ["1Kgs 22:34"]}
+      - {motif: dying-king-propped-in-chariot, refs: ["1Kgs 22:35"]}
+      - {motif: harlots-bathe-in-kings-blood, refs: ["1Kgs 22:38"]}
+      - {motif: dogs-lick-blood-where-victim-died, refs: ["1Kgs 22:38"], note: "Fulfilled at Samaria, not Jezreel"}
+      - {motif: ivory-house, refs: ["1Kgs 22:39"]}
+      - {motif: source-book-cited, refs: ["1Kgs 22:39"]}
+    hints:
+      - "Josiah's death disguised at Megiddo (2Chr 35:22); Samaria ivories excavated; Amos 3:15."
+  - id: hb-1kgs-22-jehoshaphat-ahaziah
+    tradition: judaism
+    title: Jehoshaphat of Judah and Ahaziah of Israel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["1Kgs 22:41-54"]
+    tags:
+      - {motif: regnal-formula, refs: ["1Kgs 22:41-43", "1Kgs 22:51-53"]}
+      - {motif: no-cult-prostitutes, refs: ["1Kgs 22:47"]}
+      - {motif: fleet-wrecked-at-ezion-geber, refs: ["1Kgs 22:49-50"]}
+      - {motif: ophir-gold-voyages, refs: ["1Kgs 22:49"]}
+      - {motif: baal-and-ashtaroth-worship, refs: ["1Kgs 22:54"]}
+      - {motif: source-book-cited, refs: ["1Kgs 22:46"]}
+    hints:
+      - "'There was no king in Edom; a deputy was king' (22:48)."
+  - id: hb-2kgs-1-ahaziah-baal-zebub
+    tradition: judaism
+    title: Ahaziah inquires of Baal-zebub; fire on the captains
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 1:1-18"]
+    tags:
+      - {motif: king-falls-through-lattice, refs: ["2Kgs 1:2"]}
+      - {motif: inquiring-of-foreign-god-baal-zebub, refs: ["2Kgs 1:2-3", "2Kgs 1:6", "2Kgs 1:16"]}
+      - {motif: is-there-no-god-in-israel, refs: ["2Kgs 1:3", "2Kgs 1:6", "2Kgs 1:16"]}
+      - {motif: you-shall-not-come-down-from-bed, refs: ["2Kgs 1:4", "2Kgs 1:6", "2Kgs 1:16"]}
+      - {motif: hairy-man-with-leather-belt, refs: ["2Kgs 1:8"]}
+      - {motif: fire-consumes-captains-of-fifty, refs: ["2Kgs 1:9-14"]}
+      - {motif: fire-and-brimstone-from-heaven, refs: ["2Kgs 1:10", "2Kgs 1:12"]}
+      - {motif: source-book-cited, refs: ["2Kgs 1:18"]}
+    hints:
+      - "Mark 1:6 (John the Baptist's camel-hair and leather belt, identifying him with Elijah); Luke 9:54 (disciples want to call down fire like Elijah, rebuked). Beelzebul in Matt 12:24 ('lord of flies' vs Ugaritic zbl 'prince')."
+      - "Moab's rebellion (1:1) = Mesha Stele."
+  - id: hb-2kgs-2-ascension-of-elijah
+    tradition: judaism
+    title: Elijah taken up in the whirlwind
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 2:1-18"]
+    tags:
+      - {motif: prophet-tests-companion-stay-here, refs: ["2Kgs 2:2", "2Kgs 2:4", "2Kgs 2:6"]}
+      - {motif: sons-of-prophets-know-master-taken-today, refs: ["2Kgs 2:3", "2Kgs 2:5"]}
+      - {motif: mantle-parts-jordan, refs: ["2Kgs 2:8"]}
+      - {motif: walk-on-dry-ground-waters-as-walls, refs: ["2Kgs 2:8", "2Kgs 2:14"], note: "Re-enacts Red Sea / Jordan crossing"}
+      - {motif: double-portion-of-spirit-requested, refs: ["2Kgs 2:9-10"]}
+      - {motif: firstborn-of-unloved-wife-double-portion, refs: ["2Kgs 2:9"], note: "pi shnayim, the firstborn's portion (Deut 21:17)"}
+      - {motif: chariot-and-horses-of-fire, refs: ["2Kgs 2:11"]}
+      - {motif: prophet-ascends-in-whirlwind, refs: ["2Kgs 2:1", "2Kgs 2:11"]}
+      - {motif: seventh-patriarch-taken-by-god, refs: ["2Kgs 2:3", "2Kgs 2:5"], note: "'Taken' (laqah) without dying, like Enoch"}
+      - {motif: my-father-chariot-of-israel, refs: ["2Kgs 2:12"]}
+      - {motif: rend-garments-grief, refs: ["2Kgs 2:12"], note: "Tears his clothes in two pieces"}
+      - {motif: successor-picks-up-fallen-mantle, refs: ["2Kgs 2:13-14"]}
+      - {motif: where-is-god-of-elijah, refs: ["2Kgs 2:14"]}
+      - {motif: spirit-shared-from-leader, refs: ["2Kgs 2:15"], note: "'The spirit of Elijah rests on Elisha'"}
+      - {motif: search-for-taken-prophets-body, refs: ["2Kgs 2:16-18"]}
+      - {motif: spirit-may-carry-prophet-away, refs: ["2Kgs 2:16"]}
+    hints:
+      - "Mal 3:23-24 (Elijah's return before the Day of the Lord), the empty chair and cup of Elijah at Passover; Mark 9:4 (Transfiguration), Matt 17:10-13; Acts 1:9-11 ascension and the disciples' gaze."
+      - "Greek apotheosis: Heracles taken up from the pyre; Romulus vanishing in a storm (Livy 1.16) and the search for his body; Muhammad's mi'raj on Buraq; al-Khidr identified with Elijah in Islamic lore."
+      - "Search that finds no body: Moses' unknown grave (Deut 34:6); the empty tomb."
+  - id: hb-2kgs-2-elisha-first-miracles
+    tradition: judaism
+    title: Elisha heals Jericho's water; the bears of Bethel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 2:19-25"]
+    tags:
+      - {motif: salt-heals-bad-water, refs: ["2Kgs 2:19-22"]}
+      - {motif: bitter-water-sweetened-by-wood, refs: ["2Kgs 2:21"], note: "Same 'I have healed' (rippiti) formula as Marah, Exod 15:26"}
+      - {motif: boys-mock-bald-prophet-bears, refs: ["2Kgs 2:23-24"]}
+    hints:
+      - "Infancy Gospel of Thomas: the child Jesus curses mocking children who die; Lev 26:22 (wild beasts bereave you)."
+  - id: hb-2kgs-3-moab-campaign
+    tradition: judaism
+    title: Jehoram's campaign against Mesha of Moab
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 3:1-27"]
+    tags:
+      - {motif: regnal-formula, refs: ["2Kgs 3:1-3"]}
+      - {motif: vassal-tribute-of-lambs-and-wool, refs: ["2Kgs 3:4-5"], note: "Mesha a noqed, 'sheep-breeder'"}
+      - {motif: three-kings-campaign-waterless, refs: ["2Kgs 3:9-10"]}
+      - {motif: prophet-refuses-to-look-at-wicked-king, refs: ["2Kgs 3:13-14"], note: "Elisha 'who poured water on Elijah's hands'"}
+      - {motif: music-induces-prophecy, refs: ["2Kgs 3:15"]}
+      - {motif: water-without-wind-or-rain, refs: ["2Kgs 3:16-17", "2Kgs 3:20"]}
+      - {motif: scorched-earth-campaign, refs: ["2Kgs 3:19", "2Kgs 3:25"]}
+      - {motif: spare-fruit-trees-in-siege, refs: ["2Kgs 3:19"], note: "Contradicts Deut 20:19"}
+      - {motif: water-appears-red-as-blood, refs: ["2Kgs 3:22-23"]}
+      - {motif: king-sacrifices-firstborn-on-wall, refs: ["2Kgs 3:26-27"], note: "Kir-hareseth"}
+      - {motif: child-sacrifice-by-fire-condemned, refs: ["2Kgs 3:27"]}
+    hints:
+      - "Mesha Stele (Moabite Stone) gives the Moabite side, with Chemosh's anger at his land. Agamemnon's sacrifice of Iphigenia; Kronos/El sacrificing his only son in Philo of Byblos; Phoenician-Punic molk sacrifice in crisis."
+      - "1Sam 16:16 and 10:5 on music and prophecy; Pythagorean and Sufi samā'."
+  - id: hb-2kgs-4-widows-oil
+    tradition: judaism
+    title: The widow's oil
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 4:1-7"]
+    tags:
+      - {motif: creditor-to-take-children-as-slaves, refs: ["2Kgs 4:1"]}
+      - {motif: widows-oil-fills-borrowed-vessels, refs: ["2Kgs 4:2-7"]}
+      - {motif: inexhaustible-jar-of-flour-and-oil, refs: ["2Kgs 4:6"]}
+    hints:
+      - "Targum and Josephus (Ant. 9.47) identify her as Obadiah's widow, indebted from feeding the hidden prophets. Hanukkah oil miracle; Jesus' wine at Cana (John 2)."
+  - id: hb-2kgs-4-shunammite
+    tradition: judaism
+    title: The Shunammite woman and her son
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 4:8-37"]
+    tags:
+      - {motif: great-woman-builds-room-for-prophet, refs: ["2Kgs 4:8-11"]}
+      - {motif: hospitality-to-strangers, refs: ["2Kgs 4:8"]}
+      - {motif: hostess-declines-reward-dwells-among-people, refs: ["2Kgs 4:13"]}
+      - {motif: childless-woman-old-husband-promised-son, refs: ["2Kgs 4:14-17"], note: "ka-et hayyah, echoing Gen 18:10, 14"}
+      - {motif: barren-wife-annunciation, refs: ["2Kgs 4:16"]}
+      - {motif: do-not-deceive-your-maidservant, refs: ["2Kgs 4:16", "2Kgs 4:28"]}
+      - {motif: child-dies-of-head-pain-in-harvest, refs: ["2Kgs 4:18-20"]}
+      - {motif: mother-lays-dead-child-on-prophets-bed, refs: ["2Kgs 4:21-24"]}
+      - {motif: not-new-moon-nor-sabbath, refs: ["2Kgs 4:23"]}
+      - {motif: woman-clasps-prophets-feet, refs: ["2Kgs 4:27"]}
+      - {motif: god-hid-it-from-prophet, refs: ["2Kgs 4:27"]}
+      - {motif: servant-greets-no-one-on-the-way, refs: ["2Kgs 4:29"]}
+      - {motif: prophets-staff-on-dead-child-fails, refs: ["2Kgs 4:29", "2Kgs 4:31"]}
+      - {motif: staff-of-wonders, refs: ["2Kgs 4:29"]}
+      - {motif: prophet-lies-mouth-to-mouth-on-child, refs: ["2Kgs 4:33-35"]}
+      - {motif: revived-child-sneezes-seven-times, refs: ["2Kgs 4:35"]}
+      - {motif: revived-son-returned-to-mother, refs: ["2Kgs 4:36-37"]}
+      - {motif: prophet-tests-companion-stay-here, refs: ["2Kgs 4:30"], note: "She swears 'as YHWH lives... I will not leave you', Elisha's own oath to Elijah"}
+    hints:
+      - "Luke 10:4 ('greet no one on the road'); Mark 5:21-43 (Jairus' daughter); Acts 20:10 (Paul embraces the dead Eutychus). Rabbinic lore that the Shunammite's son was the prophet Habakkuk (Zohar 1:7b), from 'hoveqet' (embrace)."
+      - "Sneezing as a sign of life in Jewish lore (Pirqe R. El. 52: before Jacob people died by sneezing)."
+  - id: hb-2kgs-4-pot-and-loaves
+    tradition: judaism
+    title: Death in the pot; loaves for a hundred
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 4:38-44"]
+    tags:
+      - {motif: band-of-ecstatic-prophets, refs: ["2Kgs 4:38"], note: "Sons of the prophets sitting before Elisha at Gilgal in famine"}
+      - {motif: death-in-the-pot, refs: ["2Kgs 4:39-41"]}
+      - {motif: multiplication-of-loaves-leftovers, refs: ["2Kgs 4:42-44"], note: "From Baal-shalishah; 'eat and have some left'"}
+      - {motif: first-fruits-to-house-of-god, refs: ["2Kgs 4:42"], note: "First fruits brought to the man of God instead"}
+    hints:
+      - "Feeding of the five thousand with five barley loaves (John 6:9-13), and leftovers; Mark 6:35-44."
+  - id: hb-2kgs-5-naaman
+    tradition: judaism
+    title: Naaman healed of leprosy; Gehazi's greed
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 5:1-27"]
+    tags:
+      - {motif: leper-general-of-foreign-king, refs: ["2Kgs 5:1"], note: "'Through him YHWH had given victory to Aram'"}
+      - {motif: captive-israelite-girl-recommends-prophet, refs: ["2Kgs 5:2-4"]}
+      - {motif: am-i-god-to-kill-and-make-alive, refs: ["2Kgs 5:7"]}
+      - {motif: rend-garments-grief, refs: ["2Kgs 5:7-8"]}
+      - {motif: bathe-seven-times-in-jordan, refs: ["2Kgs 5:10", "2Kgs 5:14"]}
+      - {motif: seven-fold-ritual-action, refs: ["2Kgs 5:10", "2Kgs 5:14"]}
+      - {motif: foreign-noble-scorns-simple-cure, refs: ["2Kgs 5:11-13"], note: "Abana and Pharpar, rivers of Damascus"}
+      - {motif: healed-flesh-like-little-boys, refs: ["2Kgs 5:14"]}
+      - {motif: healed-foreigner-confesses-one-god, refs: ["2Kgs 5:15"]}
+      - {motif: foreigner-confesses-israels-god, refs: ["2Kgs 5:15", "2Kgs 5:17"]}
+      - {motif: prophet-refuses-payment-for-healing, refs: ["2Kgs 5:16"]}
+      - {motif: two-mule-loads-of-israelite-soil, refs: ["2Kgs 5:17"]}
+      - {motif: convert-pardoned-for-bowing-in-pagan-temple, refs: ["2Kgs 5:18-19"]}
+      - {motif: greedy-servant-lies-for-reward, refs: ["2Kgs 5:20-24"]}
+      - {motif: my-heart-went-with-you, refs: ["2Kgs 5:26"]}
+      - {motif: leprosy-transferred-to-greedy-servant, refs: ["2Kgs 5:27"]}
+      - {motif: skin-disease-as-punishment, refs: ["2Kgs 5:27"]}
+    hints:
+      - "Luke 4:27 (Naaman as gentile favored); Matt 10:8 ('freely you received, freely give'); baptismal typology in the Church Fathers. Rabbinic tradition (b. Sanhedrin 107b) names Gehazi among those with no share in the world to come, and his sons as the four lepers of 2Kgs 7."
+      - "Earth carried abroad to worship a land-bound god: the notion of territorial deity (compare 1Sam 26:19)."
+  - id: hb-2kgs-6-floating-axe
+    tradition: judaism
+    title: The floating axe-head
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 6:1-7"]
+    tags:
+      - {motif: band-of-ecstatic-prophets, refs: ["2Kgs 6:1-2"], note: "Prophets' communal dwelling too cramped"}
+      - {motif: floating-axe-head, refs: ["2Kgs 6:5-7"]}
+      - {motif: bitter-water-sweetened-by-wood, refs: ["2Kgs 6:6"], note: "Same act: a cut stick thrown into the water"}
+    hints:
+      - "Medieval saints' lives (St Benedict recovers an iron blade from the lake, Gregory, Dialogues 2.6)."
+  - id: hb-2kgs-6-dothan
+    tradition: judaism
+    title: Elisha at Dothan; the blinded Arameans
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 6:8-23"]
+    tags:
+      - {motif: prophet-reveals-enemy-kings-bedroom-words, refs: ["2Kgs 6:8-12"]}
+      - {motif: servant-eyes-opened-fiery-army, refs: ["2Kgs 6:15", "2Kgs 6:17"]}
+      - {motif: more-with-us-than-with-them, refs: ["2Kgs 6:16"]}
+      - {motif: chariot-and-horses-of-fire, refs: ["2Kgs 6:17"]}
+      - {motif: enemy-army-struck-with-blindness-led-away, refs: ["2Kgs 6:18-20"]}
+      - {motif: attackers-struck-blind, refs: ["2Kgs 6:18"], note: "sanwerim, the same rare word as Gen 19:11"}
+      - {motif: captives-feasted-and-released, refs: ["2Kgs 6:21-23"], note: "'My father, shall I strike them?'"}
+    hints:
+      - "Rom 12:20 / Prov 25:21 (feed your enemy); Iliad gods hiding warriors in mist; angelic hosts visible to the elect."
+  - id: hb-2kgs-6-siege-cannibalism
+    tradition: judaism
+    title: Famine in besieged Samaria; the cannibal mothers
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 6:24-33"]
+    tags:
+      - {motif: famine-prices-donkey-head-dove-dung, refs: ["2Kgs 6:25"]}
+      - {motif: siege-cannibalism, refs: ["2Kgs 6:28-29"]}
+      - {motif: mothers-agree-to-eat-sons, refs: ["2Kgs 6:28-29"]}
+      - {motif: cannibalism-in-siege, refs: ["2Kgs 6:28-29"]}
+      - {motif: king-wears-hidden-sackcloth, refs: ["2Kgs 6:30"]}
+      - {motif: king-blames-prophet-oath-to-behead, refs: ["2Kgs 6:31"]}
+      - {motif: son-of-a-murderer, refs: ["2Kgs 6:32"]}
+      - {motif: why-wait-for-god-any-longer, refs: ["2Kgs 6:33"]}
+    hints:
+      - "Inverse of Solomon's judgment (1Kgs 3: two women and a child); Lam 2:20, 4:10; Josephus BJ 6.201-213 (Mary of Bethezuba at the siege of Jerusalem); Assyrian treaty curses of eating one's children."
+  - id: hb-2kgs-7-lepers-relief
+    tradition: judaism
+    title: The four lepers and the end of the siege
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 7:1-20"]
+    tags:
+      - {motif: prophecy-of-cheap-grain-tomorrow, refs: ["2Kgs 7:1", "2Kgs 7:16", "2Kgs 7:18"]}
+      - {motif: windows-in-heaven-skeptic, refs: ["2Kgs 7:2", "2Kgs 7:17", "2Kgs 7:19-20"]}
+      - {motif: lepers-at-gate-desperate-gamble, refs: ["2Kgs 7:3-5"]}
+      - {motif: leper-dwells-alone-outside-camp, refs: ["2Kgs 7:3"]}
+      - {motif: divine-sound-of-army-routs-enemy, refs: ["2Kgs 7:6-7"], note: "They think Israel hired the kings of the Hittites and Egypt"}
+      - {motif: day-of-good-news-not-kept-silent, refs: ["2Kgs 7:9"]}
+      - {motif: king-suspects-feigned-retreat, refs: ["2Kgs 7:12-14"]}
+      - {motif: feigned-retreat-ambush, refs: ["2Kgs 7:12"]}
+      - {motif: road-strewn-with-discarded-goods, refs: ["2Kgs 7:15"]}
+    hints:
+      - "'Windows of heaven' as in the flood (Gen 7:11) and Mal 3:10. Rabbinic identification of the four lepers as Gehazi and his sons (b. Sanhedrin 107b). 'Besorah' as 'gospel' (euangelion)."
+      - "Phantom armies heard in the sky: Herodotus 8.65 (the voice from Eleusis), Josephus BJ 6.298-299 (chariots in the clouds before 70 CE)."
+  - id: hb-2kgs-8-shunammite-land
+    tradition: judaism
+    title: The Shunammite's land restored
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 8:1-6"]
+    tags:
+      - {motif: prophet-warns-of-seven-year-famine, refs: ["2Kgs 8:1"]}
+      - {motif: seven-years-plenty-seven-famine, refs: ["2Kgs 8:1-2"], note: "Only the seven years of famine"}
+      - {motif: famine-emigration, refs: ["2Kgs 8:2"], note: "To the land of the Philistines"}
+      - {motif: timely-arrival-during-telling-of-miracle, refs: ["2Kgs 8:4-5"]}
+      - {motif: land-restored-by-king-after-sojourn, refs: ["2Kgs 8:3", "2Kgs 8:6"]}
+    hints:
+      - "Gehazi telling the king Elisha's wonders: an internal reference to a collection of prophet legends; Ruth 1 (famine emigration and return to reclaim land)."
+  - id: hb-2kgs-8-hazael
+    tradition: judaism
+    title: Elisha and Hazael; Ben-hadad smothered
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 8:7-15"]
+    tags:
+      - {motif: sick-foreign-king-consults-prophet, refs: ["2Kgs 8:7-9"]}
+      - {motif: oracle-you-will-recover-but-will-die, refs: ["2Kgs 8:10", "2Kgs 8:14"], note: "Ketiv lo / qere lo: 'tell him not' vs 'tell him'"}
+      - {motif: prophet-stares-and-weeps-at-future-king, refs: ["2Kgs 8:11-12"]}
+      - {motif: atrocities-infants-dashed-pregnant-ripped, refs: ["2Kgs 8:12"]}
+      - {motif: what-is-your-servant-a-dog, refs: ["2Kgs 8:13"]}
+      - {motif: dead-dog-single-flea, refs: ["2Kgs 8:13"]}
+      - {motif: king-smothered-with-wet-cloth, refs: ["2Kgs 8:15"]}
+      - {motif: commission-to-anoint-three, refs: ["2Kgs 8:13"], note: "Fulfils 1Kgs 19:15 by revelation rather than anointing"}
+    hints:
+      - "Assyrian inscription of Shalmaneser III calls Hazael 'son of a nobody' who seized the throne; Tel Dan stele possibly by Hazael."
+  - id: hb-2kgs-8-jehoram-ahaziah-judah
+    tradition: judaism
+    title: Jehoram and Ahaziah of Judah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 8:16-29"]
+    tags:
+      - {motif: regnal-formula, refs: ["2Kgs 8:16-18", "2Kgs 8:23-27"]}
+      - {motif: dynastic-marriage-to-ahab-house, refs: ["2Kgs 8:18", "2Kgs 8:26-27"], note: "Athaliah daughter of Omri"}
+      - {motif: one-tribe-left-as-lamp-for-david, refs: ["2Kgs 8:19"]}
+      - {motif: vassal-revolt-edom-libnah, refs: ["2Kgs 8:20-22"]}
+      - {motif: wounded-king-recovers-at-jezreel, refs: ["2Kgs 8:28-29"]}
+      - {motif: source-book-cited, refs: ["2Kgs 8:23"]}
+  - id: hb-2kgs-9-jehu-anointed
+    tradition: judaism
+    title: Jehu anointed king
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 9:1-13"]
+    tags:
+      - {motif: prophet-disciple-anoints-commander-and-flees, refs: ["2Kgs 9:1-6", "2Kgs 9:10"]}
+      - {motif: secret-anointing-of-king, refs: ["2Kgs 9:2-3", "2Kgs 9:6"]}
+      - {motif: commission-to-anoint-three, refs: ["2Kgs 9:3", "2Kgs 9:6"], note: "Fulfils 1Kgs 19:16 by proxy"}
+      - {motif: male-who-pisses-against-wall, refs: ["2Kgs 9:8"]}
+      - {motif: dogs-eat-queen-by-wall, refs: ["2Kgs 9:10"], note: "'with none to bury her'"}
+      - {motif: prophet-called-madman, refs: ["2Kgs 9:11"]}
+      - {motif: garments-spread-under-new-king-shofar, refs: ["2Kgs 9:13"]}
+    hints:
+      - "Cloaks spread at Jesus' entry into Jerusalem (Mark 11:7-8). Hos 1:4 condemns 'the blood of Jezreel'. Jehu on the Black Obelisk of Shalmaneser III, bowing."
+  - id: hb-2kgs-9-death-of-joram-ahaziah
+    tradition: judaism
+    title: Jehu kills Joram and Ahaziah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 9:14-29"]
+    tags:
+      - {motif: watchman-sees-company-approaching, refs: ["2Kgs 9:17-20"]}
+      - {motif: furious-driving-identifies-rider, refs: ["2Kgs 9:20"]}
+      - {motif: what-peace-while-queens-harlotries, refs: ["2Kgs 9:22"]}
+      - {motif: sorceress-not-to-live, refs: ["2Kgs 9:22"], note: "Jezebel's 'sorceries' (keshafim)"}
+      - {motif: idolatry-as-harlotry, refs: ["2Kgs 9:22"]}
+      - {motif: king-shot-through-heart-in-chariot, refs: ["2Kgs 9:24"]}
+      - {motif: corpse-cast-on-victims-plot, refs: ["2Kgs 9:21", "2Kgs 9:25-26"], note: "Adds that Naboth's sons were also slain"}
+      - {motif: dogs-lick-blood-where-victim-died, refs: ["2Kgs 9:26"]}
+    hints:
+      - "Tel Dan Stele: an Aramean king (Hazael?) claims to have killed Joram of Israel and Ahaziah of the 'House of David' — a rival claim to this account."
+  - id: hb-2kgs-9-death-of-jezebel
+    tradition: judaism
+    title: The death of Jezebel
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 9:30-37"]
+    tags:
+      - {motif: queen-paints-eyes-looks-from-window, refs: ["2Kgs 9:30"]}
+      - {motif: woman-at-the-window, refs: ["2Kgs 9:30"]}
+      - {motif: is-it-peace-zimri-murderer-of-master, refs: ["2Kgs 9:31"]}
+      - {motif: eunuchs-throw-queen-from-window, refs: ["2Kgs 9:32-33"]}
+      - {motif: dogs-eat-queen-by-wall, refs: ["2Kgs 9:35-36"]}
+      - {motif: only-skull-feet-hands-remain, refs: ["2Kgs 9:35"]}
+      - {motif: corpse-like-dung-on-field, refs: ["2Kgs 9:37"]}
+    hints:
+      - "Phoenician 'woman at the window' ivories (Astarte/Kilili motif); Rev 2:20 'that woman Jezebel'. Midrash (Pirqe R. El. 17) explains the surviving hands and feet as reward for her dancing at weddings and mourning at funerals."
+  - id: hb-2kgs-10-ahab-house-destroyed
+    tradition: judaism
+    title: Ahab's seventy sons and the kinsmen of Ahaziah
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 10:1-17"]
+    tags:
+      - {motif: seventy-sons, refs: ["2Kgs 10:1", "2Kgs 10:6-7"]}
+      - {motif: seventy-heads-in-baskets, refs: ["2Kgs 10:6-8"]}
+      - {motif: usurper-feigns-innocence-before-people, refs: ["2Kgs 10:9-10"]}
+      - {motif: usurper-exterminates-predecessor-house, refs: ["2Kgs 10:11", "2Kgs 10:17"], note: "Also his great men, friends and priests"}
+      - {motif: royal-kinsmen-massacred-at-pit, refs: ["2Kgs 10:12-14"], note: "Beth-eked of the shepherds; 'sons of the gebirah'"}
+      - {motif: rechabite-ally-joins-chariot, refs: ["2Kgs 10:15-16"]}
+      - {motif: come-see-my-zeal, refs: ["2Kgs 10:16"]}
+    hints:
+      - "Abimelech's slaughter of seventy brothers on one stone (Judg 9:5); Assyrian practice of heaping heads at city gates (Shalmaneser III reliefs). Rechabites in Jer 35."
+  - id: hb-2kgs-10-baal-worshipers-massacred
+    tradition: judaism
+    title: Jehu's ruse against the worshipers of Baal; his reign
+    corpus: hebrew-bible
+    original: true
+    tagger: Claude (model), reading the Hebrew
+    read: ["2Kgs 10:18-36"]
+    tags:
+      - {motif: sham-baal-festival-massacre, refs: ["2Kgs 10:18-25"], note: "'Ahab served Baal a little; Jehu will serve him much'"}
+      - {motif: life-for-life-of-guarded-captive, refs: ["2Kgs 10:24"], note: "Guard who lets one escape pays 'his life for his life'"}
+      - {motif: destroy-pagan-altars-pillars-asherim, refs: ["2Kgs 10:26-27"]}
+      - {motif: baal-temple-made-latrine, refs: ["2Kgs 10:27"]}
+      - {motif: two-golden-calves-at-bethel-and-dan, refs: ["2Kgs 10:29"]}
+      - {motif: dynasty-to-fourth-generation-reward, refs: ["2Kgs 10:30"]}
+      - {motif: god-begins-to-cut-off-territory, refs: ["2Kgs 10:32-33"]}
+      - {motif: regnal-formula, refs: ["2Kgs 10:34-36"]}
+      - {motif: source-book-cited, refs: ["2Kgs 10:34"]}
+    hints:
+      - "Ruse-feast massacres: the Magophonia; Herodotus 1.106 (Cyaxares slays the Scythians at a banquet); the 'Red Wedding' type."
