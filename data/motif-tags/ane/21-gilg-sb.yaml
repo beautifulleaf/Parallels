@@ -1,0 +1,420 @@
+# Full read of the ANE corpus, chunk 21: Gilg SB (Standard Babylonian Gilgameš, Tablets I-XII). Read from the eBL reconstructed normalized text, with eBL's English translation as a reading aid.
+new_motifs:
+  hero-who-saw-the-deep: {label: "The hero is introduced as the one who saw the Deep (nagbu) and knew the totality of wisdom", cluster: wisdom}
+  hidden-knowledge-from-before-flood: {label: "A sage-hero uncovers secret, hidden things and brings back knowledge from the age before the flood", cluster: wisdom}
+  heros-toils-written-on-stone: {label: "The hero's toils and adventures are inscribed on a stone stele for posterity", cluster: wisdom}
+  story-read-from-lapis-tablet-in-cedar-box: {label: "The reader is told to open a cedar tablet-box with bronze clasps and read the hero's story aloud from a lapis lazuli tablet", cluster: wisdom}
+  walk-around-city-wall-and-inspect: {label: "The audience is invited to climb the city wall, walk around it and inspect its foundations and brickwork", cluster: city}
+  seven-sages-laid-foundations: {label: "The city's foundations were laid by the Seven Sages (apkallū) of the primeval age", cluster: wisdom}
+  city-area-measured: {label: "The area of a city, with its gardens, clay-pits and temple, is given in exact measures", cluster: city}
+  hero-two-thirds-god: {label: "The hero is two-thirds god and one-third human", cluster: heroes}
+  giant-hero-dimensions: {label: "The hero's giant body is measured in cubits (height eleven cubits, chest four cubits, stride six cubits)", cluster: heroes}
+  gods-shape-heros-body: {label: "Gods (the mother goddess and the wise god) design and perfect the hero's body before birth", cluster: creation}
+  hero-searches-for-life: {label: "The hero roams the regions of the world searching for (eternal) life", cluster: immortality}
+  hero-restores-cult-after-flood: {label: "The hero restores the cult-centres destroyed by the flood and re-establishes the rites for humankind", cluster: flood}
+  people-complain-to-gods-of-king: {label: "The oppressed people's complaint about their king reaches the gods, who act on it", cluster: kingship}
+  king-takes-brides-before-grooms: {label: "The tyrant king lets no girl go free to her bridegroom (claims the bride before the husband)", cluster: kingship}
+  counterpart-created-to-match-hero: {label: "The gods create a rival equal to the overbearing hero, so that they contend and the city may have rest", cluster: creation}
+  wild-man-lives-with-beasts: {label: "A wild man, hairy and naked, eats grass with the gazelles and drinks at the water-hole with the herds", cluster: primeval}
+  wild-man-frees-trapped-animals: {label: "The wild man fills in the hunter's pits, tears up his snares and frees the animals", cluster: primeval}
+  harlot-tames-wild-man: {label: "A harlot is sent to the water-hole to seduce the wild man and estrange him from the animals", cluster: primeval}
+  intercourse-six-days-seven-nights: {label: "The wild man couples with the woman for six days and seven nights", cluster: sexuality}
+  wild-man-loses-animal-kinship-gains-understanding: {label: "After intercourse the animals flee the wild man; he is weakened and slower but has gained reason and understanding", cluster: primeval}
+  you-are-like-a-god: {label: "The woman tells the man he has become 'like a god' and leads him from the wild to the city", cluster: primeval}
+  dream-of-object-fallen-from-sky: {label: "A dream of a star or rock fallen from the sky that the dreamer cannot lift, and which he loves like a wife", cluster: dreams}
+  mother-interprets-sons-dreams: {label: "The hero's wise divine mother interprets his dreams for him", cluster: dreams}
+  dream-foretells-coming-friend: {label: "Dreams foretell the arrival of a mighty companion who will be the hero's friend and saviour", cluster: dreams}
+  love-of-friend-like-wife: {label: "The hero loves his male friend 'like a wife', caressing and embracing him", cluster: friendship}
+  hero-opens-mountain-passes-and-digs-wells: {label: "The culture-hero opens passes through the mountains and digs wells on the hillsides", cluster: heroes}
+  hunter-meets-wild-man-at-water-hole: {label: "A hunter or trapper encounters the wild man at the animals' water-hole and is terrified", cluster: primeval}
+  arrival-on-third-day: {label: "Travellers reach their destination on the third day of the journey", cluster: travel}
+  woman-leads-man-from-wild: {label: "The woman who tamed the wild man clothes and leads him from the wilderness to the city and its people", cluster: primeval}
+  wild-man-challenges-king: {label: "The newly civilised wild man resolves to go to the city and challenge its overbearing king", cluster: heroes}
+  city-of-daily-festival-and-harlots: {label: "The city is praised as a place of daily festival, drums and comely harlots", cluster: city}
+  harlot-clothes-wild-man: {label: "The woman shares her garments with the naked wild man, clothing him", cluster: primeval}
+  wild-man-taught-bread-and-beer: {label: "The wild man, who knew only milk and grass, is taught to eat bread and drink beer, the staff of human life", cluster: civilization}
+  wild-man-becomes-shepherds-watchman: {label: "The civilised wild man guards the shepherds' flocks at night, driving off wolves and lions", cluster: primeval}
+  hero-blocks-door-of-wedding-house: {label: "The newcomer blocks the door of the wedding house to stop the king entering before the groom, and they wrestle", cluster: heroes}
+  rivals-wrestle-then-become-friends: {label: "Two equal heroes fight, then embrace and become friends", cluster: friendship}
+  friend-has-no-kin: {label: "The hero's friend, born in the wild, has no father, mother, brother or kin", cluster: friendship}
+  hero-proposes-perilous-expedition: {label: "The king proposes a perilous expedition to the distant cedar forest to slay its monstrous guardian", cluster: heroes}
+  monster-appointed-by-high-god-to-guard-forest: {label: "The high god appointed the forest monster as guardian of the cedars, a terror to people", cluster: heroes}
+  monster-voice-flood-mouth-fire-breath-death: {label: "The monster's roar is the Deluge, his mouth fire, his breath death", cluster: heroes}
+  human-days-numbered-deeds-wind: {label: "Man's days are numbered and all his deeds are but wind", cluster: wisdom}
+  fame-better-than-long-life: {label: "Since humans must die anyway, the hero prefers to die gloriously and leave an eternal name", cluster: heroes}
+  giant-weapons-cast-for-expedition: {label: "The heroes have axes and swords of enormous weight (talents each) cast at the forge", cluster: heroes}
+  elders-warn-young-king: {label: "The city's elders warn the young, rash king against his plan: 'you are young and do not know what you are talking about'", cluster: kingship}
+  hero-seeks-assemblys-blessing-for-journey: {label: "The king asks the city's young men or elders to bless him before setting out, promising festivals on his safe return", cluster: kingship}
+  strong-hero-weeps-in-fear: {label: "The mighty companion sits down weeping, his eyes fill with tears, his arms fall limp and terror enters his heart", cluster: heroes}
+  do-not-trust-in-own-strength: {label: "Counsel to the hero: do not trust in the fullness of your own strength", cluster: wisdom}
+  one-who-knows-the-road-goes-ahead: {label: "Proverb: he who goes in front saves his comrade; he who knows the road guards his friend", cluster: wisdom}
+  king-entrusted-to-companion: {label: "The assembly formally entrusts the king to his companion, who must bring him back safely", cluster: kingship}
+  mother-purifies-and-prays-on-roof: {label: "The hero's mother bathes, dresses, climbs to the roof, offers incense to the sun god and raises her arms in prayer", cluster: cult}
+  god-gave-hero-restless-heart: {label: "A mother complains to the god that he gave her son a restless heart that drives him to danger", cluster: heroes}
+  sun-god-sends-winds-against-monster: {label: "The sun god is asked to raise a list of named winds (thirteen) against the monster so that his face is darkened", cluster: heroes}
+  long-days-short-nights-for-journey: {label: "Blessing on the traveller: may the days be long and the nights short, his loins girt and his stride long", cluster: travel}
+  goddess-adopts-heros-friend: {label: "The hero's divine mother adopts his friend as her son, putting a token on his neck", cluster: family}
+  hero-deified-like-the-gods: {label: "A hero is promised a place among the gods: sharing heaven with the sun, a sceptre with the moon, or dwelling with the netherworld gods", cluster: immortality}
+  slay-the-evil-the-god-hates: {label: "The expedition aims to destroy from the land the evil thing that the god hates", cluster: heroes}
+  officials-kiss-feet-of-departing-king: {label: "The officials kiss the departing king's feet and the people run after him with blessings", cluster: kingship}
+  sun-god-dawn-light-on-herds: {label: "At sunrise the sun god opens the way for the herds to go out and all creatures and gods wait for his light", cluster: cult}
+  foundling-raised-by-temple-women: {label: "A foundling is taken in and brought up by temple priestesses and votaries", cluster: family}
+  incense-and-juniper-offered: {label: "Incense and juniper are burned as an offering before a deity", cluster: cult}
+  journey-stages-formula: {label: "Refrain of the journey: at twenty leagues they broke bread, at thirty they camped, fifty leagues a day, a month and a half's march in three days", cluster: travel}
+  mountain-asked-for-dream: {label: "The hero climbs a mountain, offers flour to it and asks it to bring him a dream with a favourable message from the god", cluster: dreams}
+  dream-shelter-and-drawn-circle: {label: "A companion builds a shelter against the wind (house of Zaqīqu) and lays the dreamer down in a circle drawn on the ground", cluster: dreams}
+  dreamer-wakes-did-god-pass-by: {label: "The dreamer wakes at night asking: did you call me? did you touch me? did a god pass by? why is my flesh numb?", cluster: dreams}
+  dream-mountain-falls: {label: "In a dream a mountain collapses on the travellers", cluster: dreams}
+  dream-heaven-cries-earth-rumbles-death-rains: {label: "In a dream the heavens roar, the earth rumbles, darkness falls, lightning flashes and death rains down until the fire goes out and turns to ash", cluster: dreams}
+  companion-reinterprets-bad-dreams-as-good: {label: "The companion interprets each frightening dream as favourable, foretelling victory over the enemy", cluster: dreams}
+  series-of-five-dreams: {label: "The hero has a series of numbered dreams (first, second, third, fourth, fifth) on successive nights of the journey", cluster: dreams}
+units:
+  - id: ane-gilg-sb-i-prologue
+    tradition: ane-akkadian
+    title: "Prologue: he who saw the Deep; the wall of Uruk and the lapis tablet (Gilgameš SB I)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB I:1-28"]
+    tags:
+      - {motif: hero-who-saw-the-deep, refs: ["Gilg SB I:1-6"], note: "ša nagba īmuru išdī māti ... naphar nēmeqi ša kalāmi īde (incipit restored from I:3)"}
+      - {motif: hidden-knowledge-from-before-flood, refs: ["Gilg SB I:7-8"], note: "niṣirta īmur-ma katimta ipte, ubla ṭēma ša lām abūbi: he saw the secret, opened the hidden, brought a report from before the Deluge"}
+      - {motif: heros-toils-written-on-stone, refs: ["Gilg SB I:9-10"], note: "šakin ina narî kalu mānahti"}
+      - {motif: story-read-from-lapis-tablet-in-cedar-box, refs: ["Gilg SB I:24-28"], note: "tupšenna ša erēni ... ṭuppi uqnî šitassi; lid 'of its secret' (bāba ša niṣirtīšu)"}
+      - {motif: walk-around-city-wall-and-inspect, refs: ["Gilg SB I:13-21"], note: "elī-ma ina muhhi dūri ša uruk itallak, temmēna hīṭ-ma libitta ṣubbi"}
+      - {motif: seven-sages-laid-foundations, refs: ["Gilg SB I:21"], note: "uššīšu lā iddû sebet muntalkū"}
+      - {motif: city-area-measured, refs: ["Gilg SB I:22-23"], note: "šār city, šār date-grove, šār clay-pit, half šār temple of Ištar: 3½ šār"}
+      - {motif: king-builds-palace-temple-walls, refs: ["Gilg SB I:11-12"], note: "uppiš dūra ša uruk supūri"}
+    hints:
+      - "Compare Ps 48:13-14 (walk about Zion, count her towers, consider her ramparts, to tell the next generation) with I:18-21."
+      - "Knowledge from before the flood: compare Enoch (Gen 5:21-24) and Josephus Ant. 1.70-71 (antediluvian wisdom on two pillars); seven sages compare Prov 9:1 (wisdom's seven pillars)."
+      - "The hero's story written in a book: compare Q 18:9 (al-Raqīm, the inscription) and Deut 27:2-8 (words written on plastered stones)."
+
+  - id: ane-gilg-sb-i-gilgamesh-praised
+    tradition: ane-akkadian
+    title: "Hymn to Gilgameš: two-thirds god, eleven cubits tall, the far traveller (Gilgameš SB I)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB I:29-60"]
+    tags:
+      - {motif: king-as-wild-bull-calf-of-divine-cow, refs: ["Gilg SB I:30", "Gilg SB I:35-36"], note: "rīmu muttakpu; rīmu ša lugalbanda ... ēniq arhi ṣīrti rīmat-ninsun: suckling of the exalted cow, Wild-Cow Ninsun"}
+      - {motif: king-born-of-deity, refs: ["Gilg SB I:35-36", "Gilg SB I:48"]}
+      - {motif: hero-two-thirds-god, refs: ["Gilg SB I:48"], note: "šittāšu ilum-ma šulultašu amēlūtu"}
+      - {motif: gods-shape-heros-body, refs: ["Gilg SB I:49-50"], note: "ṣalam pagrīšu bēlet-ilī uṣṣir, ulteṣbi gattašu nudimmud"}
+      - {motif: giant-hero-dimensions, refs: ["Gilg SB I:52-56"], note: "ištēššeret ina ammati (11 cubits), chest [4] cubits partly restored, foot a nikkas, leg half a rod, stride 6 cubits"}
+      - {motif: giants-offspring-of-gods, refs: ["Gilg SB I:48", "Gilg SB I:52"], note: "interpretive: a giant hero born of a goddess (Ninsun) and a human king (Lugalbanda)"}
+      - {motif: hero-searches-for-life, refs: ["Gilg SB I:41"], note: "hāyyiṭ kibrāti mušteʾʾû balāṭi"}
+      - {motif: hero-visits-flood-survivor, refs: ["Gilg SB I:40", "Gilg SB I:42"], note: "ēbir ayyabi tâmati rapašti adi ṣīt šamsi; kāšid dannussu ana ūta-napišti rūqi"}
+      - {motif: hero-restores-cult-after-flood, refs: ["Gilg SB I:43-44"], note: "mutēr māhāzī ana ašrīšunu ša uhalliqu abūbu, mukīn parṣī ana nišī apâti"}
+      - {motif: incomparable-king, refs: ["Gilg SB I:45-46"], note: "mannu ša ittīšu iššannanu ana šarrūti ... anākū-ma šarru"}
+      - {motif: hero-opens-mountain-passes-and-digs-wells, refs: ["Gilg SB I:38-39"], note: "pētû nērebēti ša hursānī, hērû būrī ša kišād šadî"}
+      - {motif: new-exodus-not-in-haste, refs: ["Gilg SB I:31-34"], note: "interpretive: the leader who goes in front and is also the rear guard (illak ina pāni ... arka illak); illak ina pāni ašarēdu, arka illak tukulti ahhīšu; agû ezzu 'raging flood-wave'"}
+    hints:
+      - "Giant offspring of divine-human union: Gen 6:4 (the Nephilim, 'men of renown', gibborim); compare Og's bed of nine cubits (Deut 3:11) and Goliath six cubits (1Sam 17:4)."
+      - "The leader going out and coming in before his people: Num 27:17; 1Sam 18:16."
+      - "Wells dug by the hero: compare Isaac's wells, Gen 26:18-22."
+
+  - id: ane-gilg-sb-i-oppression-and-enkidu-created
+    tradition: ane-akkadian
+    title: "Gilgameš oppresses Uruk; the gods hear and Aruru creates Enkidu from clay (Gilgameš SB I)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB I:61-112"]
+    tags:
+      - {motif: king-oppresses-young-men-of-city, refs: ["Gilg SB I:63-67", "Gilg SB I:80-84"], note: "ina pukki tebû rūʾūšu: his companions kept on their feet by the ball; ul umaššar gilgāmeš māra ana abīšu"}
+      - {motif: king-takes-brides-before-grooms, refs: ["Gilg SB I:70", "Gilg SB I:74", "Gilg SB I:89"], note: "ul umaššar gilgāmeš batulta ana mutīša (partly restored at I:74, preserved at I:89)"}
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["Gilg SB I:69", "Gilg SB I:85-87"], note: "ironic: šū rēʾûm-ma ša uruk supūri, the shepherd who does not let his flock go"}
+      - {motif: people-complain-to-gods-of-king, refs: ["Gilg SB I:72", "Gilg SB I:76-79", "Gilg SB I:91"], note: "tazzimtašina ištenemme ānu: Anu kept hearing their complaint"}
+      - {motif: counterpart-created-to-match-hero, refs: ["Gilg SB I:92-96"], note: "ana ūm libbīšu lū mahir, lištannanū-ma uruk liš[tapših]"}
+      - {motif: god-fashions-creature-from-clay, refs: ["Gilg SB I:99-101"], note: "arūru imtasi qātīša, ṭīda iktariṣ ittadi ina ṣēri: she washed her hands, nipped off clay, threw it in the wild"}
+      - {motif: pinched-off-from-clay, refs: ["Gilg SB I:100"], note: "ṭīda iktariṣ, the same verb as Job 33:6 qoratsti"}
+      - {motif: human-formed-from-earth, refs: ["Gilg SB I:100-101"]}
+      - {motif: wild-man-lives-with-beasts, refs: ["Gilg SB I:103-110"], note: "šuʾʾur šārta kalu zumrīšu ... itti ṣabâtim-ma ikkala šammī; lā īde nišī u mātam-ma"}
+      - {motif: ishmael-wild-ass-of-a-man, refs: ["Gilg SB I:106-110"], note: "loose: a man of the wild living among the animals, ignorant of people"}
+      - {motif: hunter-meets-wild-man-at-water-hole, refs: ["Gilg SB I:111-112"], note: "ṣayyādu hābilu amēlu ina pūt mašqî šâšu uštamhiršu"}
+    hints:
+      - "Creation of a man from a pinch of clay: Gen 2:7; Job 33:6 (qoratsti, 'I too was nipped from clay'); Q 15:26-28, 38:71-72."
+      - "The cry of the oppressed reaching heaven: Exod 2:23-25, 3:7; Gen 18:20-21."
+      - "Enkidu among the beasts eating grass: compare Nebuchadnezzar in Dan 4:22, 4:29-30 and Ishmael 'a wild ass of a man' Gen 16:12; Esau the hairy man of the field Gen 25:25-27."
+      - "The king who takes your daughters and sons: 1Sam 8:11-17."
+
+  - id: ane-gilg-sb-i-hunter-and-shamhat
+    tradition: ane-akkadian
+    title: "The trapper, his father's counsel and the sending of Šamḫat (Gilgameš SB I)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB I:113-175"]
+    tags:
+      - {motif: hunter-meets-wild-man-at-water-hole, refs: ["Gilg SB I:113-119"], note: "three days running; his face froze, uštahrirū panūšu"}
+      - {motif: wild-man-frees-trapped-animals, refs: ["Gilg SB I:128-131", "Gilg SB I:155-158"], note: "umtalli būrī ... uttassih nuballīya"}
+      - {motif: harlot-tames-wild-man, refs: ["Gilg SB I:138-143", "Gilg SB I:160-164"], note: "harimta šamhat; lišhuṭ lubūšīšā-ma liptâ kuzubša; inakkiršu būlšu"}
+      - {motif: wise-father-instructs-son, refs: ["Gilg SB I:132-144"], note: "the trapper follows milki ša abīšu"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["Gilg SB I:147-158"], note: "the trapper repeats his speech to Gilgameš word for word"}
+      - {motif: arrival-on-third-day, refs: ["Gilg SB I:165-167"], note: "ina šalši ūmi ina eqel adanni iktaldūni"}
+      - {motif: wild-man-lives-with-beasts, refs: ["Gilg SB I:170-175"]}
+    hints:
+      - "A woman sent to undo a strong man: Judg 14:15-17, 16:4-21 (Delilah and Samson)."
+
+  - id: ane-gilg-sb-i-enkidu-humanised
+    tradition: ane-akkadian
+    title: "Šamḫat and Enkidu: six days and seven nights, the animals flee, 'you are like a god' (Gilgameš SB I)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB I:176-212"]
+    tags:
+      - {motif: harlot-tames-wild-man, refs: ["Gilg SB I:176-191"], note: "rummî kirimmīki, ūrki pitê-ma; she spread her clothing and he lay on her"}
+      - {motif: intercourse-six-days-seven-nights, refs: ["Gilg SB I:192"], note: "šeššet urrī u sebe mušâti enkīdu tebī-ma šamhat irehhi"}
+      - {motif: wild-man-loses-animal-kinship-gains-understanding, refs: ["Gilg SB I:195-200"], note: "ultahhi enkīdu ullula pagaršu ... umtaṭṭi ... u šū īši uzna rapaš hasīsa"}
+      - {motif: eyes-opened-nakedness-known, refs: ["Gilg SB I:197-200"], note: "interpretive: sexual knowledge leads to loss of innocence with nature and to wisdom (uzna, hasīsa)"}
+      - {motif: humans-become-like-gods, refs: ["Gilg SB I:205"], note: "damqāta enkīdu kīma ili tabašši"}
+      - {motif: you-are-like-a-god, refs: ["Gilg SB I:205-210"], note: "alka luttarrūka ana libbi uruk supūri ana bīti elli mūšab ānu u ištar"}
+      - {motif: woman-leads-man-from-wild, refs: ["Gilg SB I:201-212"], note: "mūdû libbašu išeʾʾâ ibra: his heart, now wise, sought a friend"}
+    hints:
+      - "Gen 3:5-7, 3:22 (knowing good and evil, 'like God', eyes opened, nakedness) and Gen 2:18-24 (the woman as companion); Enkidu later curses Šamḫat (VII) as Adam blames the woman (Gen 3:12)."
+      - "Six days and seven nights: compare the creation week (Gen 2:2) and the seven-day feasts (Judg 14:12-17)."
+
+  - id: ane-gilg-sb-i-invitation-and-dreams
+    tradition: ane-akkadian
+    title: "Šamḫat describes Uruk and tells Gilgameš's dreams of the star and the axe (Gilgameš SB I)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB I:213-298"]
+    tags:
+      - {motif: wild-man-challenges-king, refs: ["Gilg SB I:218-221"], note: "anāku lugrīšum-ma ... anākū-mi dannu; šīmata unakkar (restored)"}
+      - {motif: city-of-daily-festival-and-harlots, refs: ["Gilg SB I:224-230"], note: "ūmišam-ma šakin isinnu, urtaṣṣanū alû, ardāti šūsumā binûta"}
+      - {motif: sun-god-companion-of-king-in-battle, refs: ["Gilg SB I:239-240"], note: "gilgāmeš šamaš irāmšu; anu ellil u ea urappišū uzunšu"}
+      - {motif: dream-of-object-fallen-from-sky, refs: ["Gilg SB I:244-256"], note: "kakkabū šamê ... kīma kiṣri ša āni imtaqquta elu ṣērīya; unaššaqū šēpīšu"}
+      - {motif: doubled-dream-certainty, refs: ["Gilg SB I:271-283"], note: "šanīta ītamar šunassu: the axe (haṣṣinnu) lying in the street of Uruk"}
+      - {motif: mother-interprets-sons-dreams, refs: ["Gilg SB I:257-270", "Gilg SB I:284-291"], note: "rīmat-ninsun emqet mūdât kalāma īde"}
+      - {motif: dream-interpreted-item-by-item, refs: ["Gilg SB I:286"], note: "mārī haṣinnu ša tāmuru amēlu"}
+      - {motif: dream-foretells-coming-friend, refs: ["Gilg SB I:266-270", "Gilg SB I:289-295"], note: "illakakkum-ma dannu tappû mušēzib ibri; ibra mālika anāku lurši"}
+      - {motif: love-of-friend-like-wife, refs: ["Gilg SB I:254", "Gilg SB I:265", "Gilg SB I:269", "Gilg SB I:287"], note: "kīma aššati elīšu ahbub"}
+    hints:
+      - "Dreams told to a parent and interpreted: Gen 37:5-11 (Joseph's dreams, his father's rebuke); doubled dreams Gen 41:32."
+      - "Love surpassing the love of women: David and Jonathan, 2Sam 1:26 and 1Sam 18:1-3."
+      - "A star falling from heaven: Isa 14:12; Num 24:17 (a star from Jacob)."
+
+  - id: ane-gilg-sb-ii-enkidu-civilised
+    tradition: ane-akkadian
+    title: "Enkidu clothed, among the shepherds, taught bread and ale (Gilgameš SB II)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB II:1-62"]
+    tags:
+      - {motif: harlot-clothes-wild-man, refs: ["Gilg SB II:34-35"], note: "ištēn lubūša r[amānša] u šanâ lubūša šâ[šu ulabbiš] (verb restored)"}
+      - {motif: woman-leads-man-from-wild, refs: ["Gilg SB II:36-37"], note: "ṣabtassū-ma kīma ili ireddēšu ana gupri ša rēʾî"}
+      - {motif: wild-man-taught-bread-and-beer, refs: ["Gilg SB II:44-51"], note: "akala ana akāli lā lummud; [eat the bread, ... of the] people, [drink the ale ... of the] land: the key words restored"}
+      - {motif: wild-man-becomes-shepherds-watchman, refs: ["Gilg SB II:59-62"], note: "barbarī uttappiṣ, labbī uktaššid; nāqissunū-ma ēru amēlu"}
+      - {motif: wild-man-lives-with-beasts, refs: ["Gilg SB II:29"], note: "ammīni itti nammaššê tarappud ṣēra (largely restored)"}
+      - {motif: garments-of-skin, refs: ["Gilg SB II:34-35"], note: "loose: the first clothing given to the naked first man by his female companion"}
+      - {motif: ground-cursed-toil, refs: ["Gilg SB II:44-51"], note: "loose: entry into human life marked by bread (akalu) and ale"}
+    hints:
+      - "First clothing: Gen 3:7, 3:21; bread as human food after the garden: Gen 3:19 ('by the sweat of your face you shall eat bread')."
+      - "The shepherd who drives away lions and wolves: 1Sam 17:34-36 (David)."
+
+  - id: ane-gilg-sb-ii-wedding-house-fight
+    tradition: ane-akkadian
+    title: "Enkidu bars Gilgameš from the wedding house; the heroes wrestle (Gilgameš SB II)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB II:63-115"]
+    tags:
+      - {motif: king-takes-brides-before-grooms, refs: ["Gilg SB II:63-64", "Gilg SB II:109-110"], note: "ana išhara mayyāl[u] ... ana gilgāmeš kīma ili šakiššu pūhu: a bed for Išḫara, for Gilgameš like a god a substitute (bridegroom) in place; context partly lost (II:65-99)"}
+      - {motif: hero-blocks-door-of-wedding-house, refs: ["Gilg SB II:100-102", "Gilg SB II:111-114"], note: "enkīdu ina bāb bīt emūti iptarik šēpīšu ... iṣṣabtū-ma ... ittegrû"}
+      - {motif: wild-man-challenges-king, refs: ["Gilg SB II:100-102"], note: "iptaras alakta [ša gilgāmeš]"}
+      - {motif: rivals-wrestle-then-become-friends, refs: ["Gilg SB II:113-115"], note: "sippū irūbū igāru inūš: the doorjambs shook, the wall quaked; lines 116-161 lost"}
+      - {motif: night-wrestling-with-divine-being, refs: ["Gilg SB II:113-115"], note: "loose: a wrestling match between two heroes, the one 'like a god'"}
+    hints:
+      - "Wrestling: Gen 32:25-31 (Jacob at the Jabbok). The wedding feast and the bridegroom's companions: Judg 14:10-20."
+
+  - id: ane-gilg-sb-ii-friendship-and-humbaba
+    tradition: ane-akkadian
+    title: "Ninsun on Enkidu's lack of kin; Enkidu weeps; Gilgameš proposes the Cedar Forest (Gilgameš SB II)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB II:162-215"]
+    tags:
+      - {motif: friend-has-no-kin, refs: ["Gilg SB II:175-177"], note: "ul īši enkīdu [kimta u salāta]; ina ṣēri alid-ma mamma [ul ...] (key words restored)"}
+      - {motif: rivals-wrestle-then-become-friends, refs: ["Gilg SB II:182-183"], note: "iṣṣabtū-ma mithāriš ... qātātīšunu: they linked hands"}
+      - {motif: strong-hero-weeps-in-fear, refs: ["Gilg SB II:179-191"], note: "īnāšu imlâ [dimāti], ahāšu irmâ; īrub adīru ana libbīya"}
+      - {motif: hero-proposes-perilous-expedition, refs: ["Gilg SB II:199-215"], note: "humbāb[a]; luk[kis] 'let me cut [the cedar]'; fragmentary"}
+    hints:
+      - "Covenant of friendship of two heroes: 1Sam 18:1-4, 20:41-42 (Jonathan and David weeping)."
+
+  - id: ane-gilg-sb-ii-cedar-forest-debate
+    tradition: ane-akkadian
+    title: "Enkidu's warning about Ḫumbaba; 'man's days are numbered'; the forge; the elders' counsel (Gilgameš SB II)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB II:216-322"]
+    tags:
+      - {motif: monster-appointed-by-high-god-to-guard-forest, refs: ["Gilg SB II:218a-219a", "Gilg SB II:227-228", "Gilg SB II:298-299"], note: "aššu šullumi erēni ana pulhāti ša nišī išīmšu ellil"}
+      - {motif: monster-voice-flood-mouth-fire-breath-death, refs: ["Gilg SB II:221-222", "Gilg SB II:291-292"], note: "humbāba rigmašu abūbu, pīšu girrum-ma, napīssu mūtu"}
+      - {motif: forest-guardian-seven-terrors, refs: ["Gilg SB II:220-229"], note: "nāṣir qišti erēni; hears his forest for sixty leagues; Adad first, he second"}
+      - {motif: guardian-monster-radiates-terror, refs: ["Gilg SB II:229", "Gilg SB II:286"], note: "ārid qištīšu iṣabbassu luʾtu"}
+      - {motif: human-days-numbered-deeds-wind, refs: ["Gilg SB II:234-235"], note: "amēlūtu manû ūmūša, mimmû īteppušu š[ārum-ma] (šārum restored)"}
+      - {motif: mortality-motivates-quest-for-fame, refs: ["Gilg SB II:232-241"]}
+      - {motif: giant-weapons-cast-for-expedition, refs: ["Gilg SB II:241-253"], note: "pāšī sebe bilā, namṣārīšunu sebe bilā, meserrīšunu ištêt bilā"}
+      - {motif: hero-seeks-assemblys-blessing-for-journey, refs: ["Gilg SB II:260-271"], note: "kurbāʾinnī-ma lullik ... lūrubam-ma abul uruk; akīta ina šatti šinīšu lūpuš"}
+      - {motif: elders-warn-young-king, refs: ["Gilg SB II:272-299"], note: "ṣehrēta gilgāmeš libbaka našīka, u mimma ša tātamû ul tīde"}
+      - {motif: hero-proposes-perilous-expedition, refs: ["Gilg SB II:262-264"], note: "qabla ša lā īdû amahhar, harrāna ša lā īdû arakkab"}
+    hints:
+      - "Man's days numbered and his works wind: Ps 39:5-7, 90:10-12, 144:4; Job 7:7, 14:5; Eccl 1:14 (hevel, 'chasing wind'); compare Q 57:20 (this life is play and vanity)."
+      - "Young king rejecting / weighing the elders' counsel: 1Kgs 12:6-14 (Rehoboam); 'I am but a youth': Jer 1:6-7; 1Sam 17:33 (Saul to David: 'you are but a youth')."
+      - "Monster breathing fire: Job 41:11-13 (Leviathan, flames from its mouth, breath kindles coals)."
+
+  - id: ane-gilg-sb-iii-elders-counsel
+    tradition: ane-akkadian
+    title: "The elders' counsel: 'do not trust in your strength'; Gilgameš goes to Ninsun (Gilgameš SB III)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB III:1-34"]
+    tags:
+      - {motif: do-not-trust-in-own-strength, refs: ["Gilg SB III:2"], note: "lā tatakkil gilgāmeš ana gimir emūqīka"}
+      - {motif: one-who-knows-the-road-goes-ahead, refs: ["Gilg SB III:4-7"], note: "ālik mahri tappâ ušezzeb, ša ṭūda īdû ibiršu iṣṣur"}
+      - {motif: king-entrusted-to-companion, refs: ["Gilg SB III:9-12"], note: "ina puhrīnī-ma nipqidakka šarra, tutarram-ma tapaqqidannâši šarra"}
+      - {motif: hero-seeks-assemblys-blessing-for-journey, refs: ["Gilg SB III:24-34"], note: "usappīki kurbīnnī-ma lullik"}
+      - {motif: mother-interprets-sons-dreams, refs: ["Gilg SB III:17-18"], note: "loose: Ninsun the all-wise counsellor: kibsī milki išakkan ana šēpīni"}
+    hints:
+      - "Do not trust in strength: Ps 33:16-17, Jer 9:22 (let not the mighty boast of his might), Isa 30:15; Q 18:39 and 28:78 (Qārūn: 'I was given it by my own knowledge')."
+      - "Elders send off and bless: Gen 24:60; 'go in peace': Judg 18:6."
+
+  - id: ane-gilg-sb-iii-ninsun-prays-to-shamash
+    tradition: ane-akkadian
+    title: "Ninsun purifies herself, censes on the roof and prays to Šamaš for her son (Gilgameš SB III)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB III:35-116"]
+    tags:
+      - {motif: mother-purifies-and-prays-on-roof, refs: ["Gilg SB III:37-45"], note: "ana bīt narmaki sebêšu īrub ... ina mê bīni u tullal; īli ana ūri ana mahar šamaš qutrenna iškun ... idīša išši"}
+      - {motif: mother-prays-for-god-son, refs: ["Gilg SB III:46-110"]}
+      - {motif: god-gave-hero-restless-heart, refs: ["Gilg SB III:46-47"], note: "ammēni taškun ana mārīya gilgāmeš libba lā ṣālila"}
+      - {motif: slay-the-evil-the-god-hates, refs: ["Gilg SB III:53-54"], note: "mimma lemna ša tazerru uhallaq ina māti"}
+      - {motif: long-days-short-nights-for-journey, refs: ["Gilg SB III:82-85"], note: "lū arrakā ūmātu lū kurrā mušâtu, lū raksā qablāšu"}
+      - {motif: sun-god-sends-winds-against-monster, refs: ["Gilg SB III:87-93"], note: "šalaššeret šārū litbûnim-ma ša humbāba līṭû pānūšu: South, North, East, West, Blast, Counterblast ... Hell-wind (asakku)"}
+      - {motif: sun-god-companion-of-king-in-battle, refs: ["Gilg SB III:76-79", "Gilg SB III:93"]}
+      - {motif: hero-deified-like-the-gods, refs: ["Gilg SB III:101-106"], note: "ul itti ningišzida ina kurnugi uššab: will he not dwell in the Land of No Return with Ningišzida?"}
+      - {motif: gilgamesh-king-and-judge-of-netherworld, refs: ["Gilg SB III:106"]}
+      - {motif: sun-god-dawn-light-on-herds, refs: ["Gilg SB III:63-73"], note: "fragmentary hymnic passage: Šamaš opens (the gate) for the herds' going out; Anunnaki await his light"}
+    hints:
+      - "Prayer on the roof with incense: Jer 19:13, 32:29, Zeph 1:5 (offerings to the host of heaven on roofs); 2Kgs 23:12."
+      - "God sending winds against enemies: Ps 18:11-16, 135:7; Exod 14:21; four winds Dan 7:2, Zech 6:5."
+      - "Hands raised in prayer: Exod 9:29, 1Kgs 8:22, Ps 141:2."
+
+  - id: ane-gilg-sb-iii-enkidu-adopted
+    tradition: ane-akkadian
+    title: "Ninsun adopts Enkidu; rites at the Gate of Cedar (Gilgameš SB III)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB III:117-173"]
+    tags:
+      - {motif: goddess-adopts-heros-friend, refs: ["Gilg SB III:120-128"], note: "ul ṣīt ūrīya atta ... indī ittadi ana tikki enkīdu ... anāku enkīdu ilteqi ana mārūti"}
+      - {motif: adoption-formula-you-are-my-father, refs: ["Gilg SB III:127"], note: "ilteqi ana mārūti: adoption as son; ana [ahhūti] restored"}
+      - {motif: foundling-raised-by-temple-women, refs: ["Gilg SB III:122-126"], note: "ugbakkātu ilqâ liqûta, mārāt ilī urabbâ tarbûta"}
+      - {motif: long-days-short-nights-for-journey, refs: ["Gilg SB III:131-134"]}
+      - {motif: incense-and-juniper-offered, refs: ["Gilg SB III:149-153"], note: "Gate of Cedar; burāšu surqinnu; lines 155-163' broken"}
+    hints:
+      - "Adoption of a foundling and temple upbringing: Exod 2:10 (Moses), 1Sam 1:24-28, 2:11 (Samuel at the sanctuary); Q 3:37 (Mary in Zechariah's care)."
+
+  - id: ane-gilg-sb-iii-departure
+    tradition: ane-akkadian
+    title: "The departure from Uruk: 'judge the cause of the weak'; the officers kiss his feet (Gilgameš SB III)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB III:202-244"]
+    tags:
+      - {motif: slay-the-evil-the-god-hates, refs: ["Gilg SB III:202-205"], note: "largely restored from III:51-54"}
+      - {motif: king-hears-cry-of-orphan-widow-bondsman, refs: ["Gilg SB III:209"], note: "dīn enši dīn: judge the case of the weak (instructions for the regency)"}
+      - {motif: officials-kiss-feet-of-departing-king, refs: ["Gilg SB III:212-214"], note: "šakkanakkūšu unaššaqū šēpīšu"}
+      - {motif: do-not-trust-in-own-strength, refs: ["Gilg SB III:216"]}
+      - {motif: one-who-knows-the-road-goes-ahead, refs: ["Gilg SB III:218-221"]}
+      - {motif: king-entrusted-to-companion, refs: ["Gilg SB III:224-227"]}
+    hints:
+      - "Judge the cause of the weak: Ps 82:3, Isa 1:17, Jer 22:16, Prov 31:8-9."
+
+  - id: ane-gilg-sb-iv-journey-first-dream
+    tradition: ane-akkadian
+    title: "The march to Lebanon and the first dream: the mountain falls (Gilgameš SB IV)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB IV:1-33"]
+    tags:
+      - {motif: journey-stages-formula, refs: ["Gilg SB IV:1-4"], note: "restored from the later repetitions (IV:34-37): ana ešrā bēr iksupū kusāpa ... mālak arhi u šapatti ina šalši ūmi iṭhû ana šadî labnānu"}
+      - {motif: arrival-on-third-day, refs: ["Gilg SB IV:4"]}
+      - {motif: mountain-asked-for-dream, refs: ["Gilg SB IV:7-9"], note: "restored here from IV:40-42, IV:85-87: šadû bila šutta amāt šamši damiqta lūmur"}
+      - {motif: incubation-dream-in-temple, refs: ["Gilg SB IV:9-15"], note: "a dream sought by ritual sleep on the mountain, not in a temple"}
+      - {motif: dream-shelter-and-drawn-circle, refs: ["Gilg SB IV:10-13"], note: "bīt zaqīqi, dalat šarbilli; ina kippati uṣurti (restored here; preserved IV:88-91)"}
+      - {motif: dreamer-wakes-did-god-pass-by, refs: ["Gilg SB IV:16-20"], note: "ul ilu ītiq ammīni hamû šīrūʾa (restored here; preserved IV:96-98)"}
+      - {motif: dream-mountain-falls, refs: ["Gilg SB IV:23-25"], note: "šadû imqut; 'we like flies' restored"}
+      - {motif: companion-reinterprets-bad-dreams-as-good, refs: ["Gilg SB IV:26-33"], note: "damqat šunatka ... niṣabbat humbāba ninarraššu u šalamtašu ana tūšari ninaddi"}
+      - {motif: series-of-five-dreams, refs: ["Gilg SB IV:21"]}
+    hints:
+      - "Did a god pass by? flesh numb: Job 4:15-16 (a spirit passed before my face, the hair of my flesh stood up); 1Kgs 19:11 (YHWH passing by); compare 1Sam 3:4-9 (Samuel woken: 'did you call me?')."
+      - "Dream sought on a mountain or at a sanctuary: 1Kgs 3:4-5 (Solomon at Gibeon), Gen 28:11-17 (Jacob's stone pillow)."
+
+  - id: ane-gilg-sb-iv-second-third-dreams
+    tradition: ane-akkadian
+    title: "Second and third dreams: heaven cries out, death rains down (Gilgameš SB IV)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB IV:34-109"]
+    tags:
+      - {motif: journey-stages-formula, refs: ["Gilg SB IV:34-37", "Gilg SB IV:79-82"]}
+      - {motif: mountain-asked-for-dream, refs: ["Gilg SB IV:40-42", "Gilg SB IV:85-87"]}
+      - {motif: dream-shelter-and-drawn-circle, refs: ["Gilg SB IV:88-91"], note: "bīt zaqīqi; dalat šarbilli; ušnīlšū-ma ina kippati uṣurti"}
+      - {motif: dreamer-wakes-did-god-pass-by, refs: ["Gilg SB IV:94-98"], note: "šittu rēhât nišī elīšu imqut ... ul ilu ītiq"}
+      - {motif: deep-sleep-sent-by-god, refs: ["Gilg SB IV:92-93"], note: "šittu rēhât nišī elīšu imqut: the sleep that pours over people fell on him"}
+      - {motif: dream-heaven-cries-earth-rumbles-death-rains, refs: ["Gilg SB IV:101-106"], note: "ilsû šamû qaqqaru irammum, ūmu ušharrir ūṣâ eklētu, ibriq birqu innapih išātu ... izzannun mūtu ... itūr ana tumri"}
+      - {motif: companion-reinterprets-bad-dreams-as-good, refs: ["Gilg SB IV:70-74", "Gilg SB IV:107-109"], note: "humbāba kīma ṣehri: Ḫumbaba will become like a child (IV:73, fragmentary)"}
+      - {motif: series-of-five-dreams, refs: ["Gilg SB IV:54", "Gilg SB IV:99"]}
+    hints:
+      - "Heaven roaring, darkness, lightning, fire raining: Exod 19:16-18 (Sinai), Ps 18:8-15, Gen 19:24 (fire from heaven); Q 41:13 (a thunderbolt like that of ʿĀd and Thamūd)."
+      - "Deep sleep falling on a man: Gen 2:21, 15:12 (tardemah), Job 4:13."
+
+  - id: ane-gilg-sb-iv-fourth-fifth-dreams
+    tradition: ane-akkadian
+    title: "Fourth and fifth dreams and the approach to Ḫumbaba (Gilgameš SB IV)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB IV:a+1'-d+1'"]
+    tags:
+      - {motif: journey-stages-formula, refs: ["Gilg SB IV:a+3'-a+5'", "Gilg SB IV:120-124", "Gilg SB IV:163-165"]}
+      - {motif: mountain-asked-for-dream, refs: ["Gilg SB IV:127-129", "Gilg SB IV:168-170"]}
+      - {motif: series-of-five-dreams, refs: ["Gilg SB IV:141", "Gilg SB IV:182"], note: "rebūta šutta, hamušta šutta (restored)"}
+      - {motif: companion-reinterprets-bad-dreams-as-good, refs: ["Gilg SB IV:155-162", "Gilg SB IV:b+2'-b+7'"], note: "nišakkan nukassâ idīšu ... nizzazza eli ṣērīšu; dreams 4 and 5 lost in breaks"}
+      - {motif: monster-voice-flood-mouth-fire-breath-death, refs: ["Gilg SB IV:215-216"], note: "humbāba ... nukkur mimma: something very strange (restored)"}
+    hints:
+      - "Five dreams on a journey: compare the dream-series of Gen 37 and 40-41; morning brings Šamaš's favourable word, compare Ps 30:6, Lam 3:23."
