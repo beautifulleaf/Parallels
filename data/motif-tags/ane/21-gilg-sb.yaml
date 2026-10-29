@@ -68,6 +68,41 @@ new_motifs:
   dream-heaven-cries-earth-rumbles-death-rains: {label: "In a dream the heavens roar, the earth rumbles, darkness falls, lightning flashes and death rains down until the fire goes out and turns to ash", cluster: dreams}
   companion-reinterprets-bad-dreams-as-good: {label: "The companion interprets each frightening dream as favourable, foretelling victory over the enemy", cluster: dreams}
   series-of-five-dreams: {label: "The hero has a series of numbered dreams (first, second, third, fourth, fifth) on successive nights of the journey", cluster: dreams}
+  cedar-mountain-dwelling-of-gods: {label: "The cedar forest on the mountain is the dwelling of the gods and the throne-dais of the goddesses, sweet-shaded and full of delight", cluster: paradise}
+  cedar-forest-full-of-birdsong: {label: "The sacred forest resounds with the song of birds, crickets, doves and monkeys like a band of musicians before its guardian", cluster: paradise}
+  resin-drips-like-rain: {label: "Resin oozes from the cedars and drizzles down like rain", cluster: paradise}
+  terror-seizes-hero-at-threshold: {label: "As he enters the sacred place terror falls on the hero, his arms stiffen and his legs tremble", cluster: heroes}
+  forget-death-seek-life: {label: "Exhortation in danger: forget death and seek life; the one tested in battle does not fear death", cluster: heroes}
+  sun-god-answers-from-heaven-fear-not: {label: "The sun god hears the hero's tearful prayer and a voice cries from heaven: 'Fear not, stand against him!'", cluster: heroes}
+  monster-wears-seven-cloaks-of-radiance: {label: "The monster has seven cloaks (auras) of radiance; he is caught wearing only one, the other six shed", cluster: heroes}
+  monster-taunts-hero-and-companion: {label: "The monster mocks the hero's companion as a fish's spawn without father or mother's milk, and threatens to feed the hero's flesh to the birds", cluster: heroes}
+  earth-splits-heavens-darken-in-battle: {label: "In the combat the earth splits under the heroes' heels, mountains are sundered, white cloud turns black and death rains like mist", cluster: heroes}
+  monster-pleads-for-life-offers-service: {label: "The defeated monster begs for his life, offering to be the hero's slave and keep his timber", cluster: heroes}
+  companion-urges-killing-monster: {label: "The companion urges the hero not to listen to the monster's pleas but to kill it before the high god learns of it", cluster: heroes}
+  weeping-before-sun-god: {label: "A suppliant lifts his head and weeps before the sun god, tears flowing under the sun's rays", cluster: cult}
+  dying-monster-curses-hero: {label: "The doomed monster curses his captors: may they not grow old, may the companion have no one to bury him but his friend", cluster: curse}
+  heroes-fell-sacred-cedars-for-temple-door: {label: "The heroes fell the tallest cedar, whose top touched heaven, and make a great door for the high god's temple, floated downriver by raft", cluster: cult}
+  slain-monsters-seven-sons: {label: "The monster's seven sons, named after noises and storms, are slain with him", cluster: heroes}
+  lasting-name-from-great-deed: {label: "The heroes resolve to establish an enduring fame for future days by their deed", cluster: heroes}
+  voice-from-heaven: {label: "A voice cries out from heaven to answer or reassure a person", cluster: revelation}
+  catch-bird-where-go-its-young: {label: "Saying: catch the (parent) bird, and where will its young go? (destroy the chief and his brood is helpless)", cluster: wisdom}
+  hero-washes-and-dons-clean-garments: {label: "The returning hero washes his matted hair, casts off his dirty clothes and puts on clean garments and his crown", cluster: purity}
+  goddess-proposes-marriage-to-mortal-hero: {label: "A goddess, desiring the hero's beauty, proposes that he be her husband and offers him gifts", cluster: goddess}
+  goddess-offers-chariot-tribute-fertility: {label: "The goddess offers a chariot of gold and lapis, kings bowing in tribute, and fertile flocks as marriage gifts", cluster: goddess}
+  hero-refuses-goddess: {label: "The hero refuses the goddess's offer, recounting her faithlessness", cluster: goddess}
+  insult-litany-of-images: {label: "The goddess is reviled with a litany of images (a draughty door, pitch that stains, a shoe that bites its owner's foot)", cluster: wisdom}
+  catalogue-of-goddess-lovers-and-their-fates: {label: "A catalogue of the goddess's former lovers, each ruined by her: Dumuzi wept for yearly, the bird with broken wing, the lion trapped, the horse whipped, the shepherd turned into a wolf, the gardener turned into a dwarf", cluster: goddess}
+  lover-transformed-into-animal: {label: "A goddess's spurned or used lover is turned into an animal (a wolf) and hounded by his own dogs", cluster: transformation}
+  gardener-refuses-goddess: {label: "The gardener refuses the goddess's sexual advances ('did my mother not bake? am I to eat bread of insult?') and is turned into a dwarf", cluster: goddess}
+  goddess-complains-to-father-god: {label: "The insulted goddess goes weeping to her father and mother in heaven", cluster: goddess}
+  goddess-threatens-to-raise-dead-to-eat-living: {label: "The goddess threatens to smash the gates of the netherworld and raise the dead to consume and outnumber the living", cluster: underworld}
+  seven-years-of-provision-before-plague: {label: "Before sending the Bull of Heaven, the high god demands seven years of chaff and fodder be stored against the famine it will bring", cluster: famine}
+  bulls-snort-opens-pits: {label: "At each snort of the Bull of Heaven a pit opens and hundreds of young men fall in", cluster: goddess}
+  heroes-slay-bull-of-heaven: {label: "The heroes kill the Bull of Heaven, one holding its tail, the other thrusting a knife between horns and neck", cluster: heroes}
+  victors-offer-heart-to-sun-god: {label: "The victors cut out the slain beast's heart and set it before the sun god, prostrating themselves", cluster: cult}
+  hero-throws-haunch-at-goddess: {label: "The companion tears off the bull's haunch and hurls it at the goddess, threatening her with the same", cluster: goddess}
+  goddess-institutes-mourning-with-harlots: {label: "The goddess assembles the courtesans and harlots and institutes mourning over the bull's haunch", cluster: cult}
+  victory-song-who-is-finest: {label: "Women of the palace answer in song: 'Who is finest among men? Gilgameš is finest!'", cluster: kingship}
 units:
   - id: ane-gilg-sb-i-prologue
     tradition: ane-akkadian
@@ -418,3 +453,226 @@ units:
       - {motif: monster-voice-flood-mouth-fire-breath-death, refs: ["Gilg SB IV:215-216"], note: "humbāba ... nukkur mimma: something very strange (restored)"}
     hints:
       - "Five dreams on a journey: compare the dream-series of Gen 37 and 40-41; morning brings Šamaš's favourable word, compare Ps 30:6, Lam 3:23."
+
+  - id: ane-gilg-sb-v-cedar-forest
+    tradition: ane-akkadian
+    title: "The Cedar Forest: dwelling of the gods, birdsong, resin like rain; terror falls (Gilgameš SB V)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB V:1-30"]
+    tags:
+      - {motif: cedar-mountain-dwelling-of-gods, refs: ["Gilg SB V:6-9"], note: "šadâ erēni mūšab ilī parak irninnī ... ṭāb ṣillašu mali rīšāti"}
+      - {motif: garden-of-god-in-east, refs: ["Gilg SB V:6-9"], note: "interpretive: a divine forest-garden on a mountain"}
+      - {motif: anointed-guardian-cherub, refs: ["Gilg SB V:4-7"], note: "loose: a guardian set over the mountain of the gods"}
+      - {motif: resin-drips-like-rain, refs: ["Gilg SB V:14-16"], note: "ihūl-ma hīlu kīma zunni izannun"}
+      - {motif: cedar-forest-full-of-birdsong, refs: ["Gilg SB V:17-26"], note: "uršānu idammum, sukanninu ītappal: wood-pigeon moans, turtle-dove answers; pagâtu (monkeys) ... ina pānī humbāba"}
+      - {motif: dove-moans-in-field, refs: ["Gilg SB V:21"]}
+      - {motif: terror-seizes-hero-at-threshold, refs: ["Gilg SB V:27-30"], note: "[puluh]tu imtaqut eli gilgāmeš ... luʾtu imtaqut eli birkīšu"}
+      - {motif: cosmic-cedar-watered-by-tehom, refs: ["Gilg SB V:12-14"], note: "loose: cedars sixty cubits high"}
+    hints:
+      - "The cedar garden of God on the mountain: Ezek 28:13-16 and 31:3-9, 31:16-18 (the cedars in the garden of God, Eden), Ps 104:16-17 (cedars of Lebanon where birds nest), Isa 14:8 and 37:24 (the boast of cutting Lebanon's cedars)."
+      - "Dove moaning: Isa 38:14, 59:11; Nah 2:8."
+
+  - id: ane-gilg-sb-v-courage-speeches
+    tradition: ane-akkadian
+    title: "'Forget death and seek life': mutual encouragement at the forest's edge (Gilgameš SB V)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB V:31-54"]
+    tags:
+      - {motif: forget-death-seek-life, refs: ["Gilg SB V:39-47"], note: "ša tāhāza etmuru ul iddar mūta ... mūta mišī-ma balāṭa [šeʾi]"}
+      - {motif: choose-life, refs: ["Gilg SB V:47"], note: "mūta mišī-ma balāṭa [šeʾi] (verb restored)"}
+      - {motif: one-who-knows-the-road-goes-ahead, refs: ["Gilg SB V:48-49"], note: "ša ina pāni illaku pagaršu iṣṣur tappâ lišallim"}
+      - {motif: lasting-name-from-great-deed, refs: ["Gilg SB V:50"], note: "ana ūmi rūqūti šunu šuma ištaknū"}
+      - {motif: be-strong-and-courageous, refs: ["Gilg SB V:35-46"], note: "ammēni ibrī pisnuqiš nišubbam-ma ... līṣi mangu ša idīka"}
+      - {motif: strong-hero-weeps-in-fear, refs: ["Gilg SB V:35"]}
+    hints:
+      - "Be strong and courageous: Josh 1:6-9, Deut 31:6; 'choose life' Deut 30:19; fame for days to come: Gen 11:4, 2Sam 7:9."
+
+  - id: ane-gilg-sb-v-humbaba-confronted
+    tradition: ane-akkadian
+    title: "'Two are two'; Šamaš: 'Fear not!'; Ḫumbaba roars and taunts (Gilgameš SB V)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB V:55-142"]
+    tags:
+      - {motif: two-better-than-one, refs: ["Gilg SB V:75-77"], note: "ibru ištēn ištēn-ma š[ina šinā-ma] ... lū mušhalṣītum-ma ... šittā"}
+      - {motif: threefold-cord-not-quickly-broken, refs: ["Gilg SB V:79"], note: "ašlu šušlušu [...]: a three-ply rope (rest of line lost; translation restores 'is not easily broken')"}
+      - {motif: weeping-before-sun-god, refs: ["Gilg SB V:90-94"], note: "išši rēšīšu gilgāmeš ... ana pān šarūrī ša šamaš illakā dimāšu"}
+      - {motif: sun-god-answers-from-heaven-fear-not, refs: ["Gilg SB V:95-98"], note: "ištu ullânum-ma tukku iš[tu šamê iltanasâššu]: ē taplah izizzaššu"}
+      - {motif: fear-not-oracle, refs: ["Gilg SB V:97"], note: "ē taplah"}
+      - {motif: voice-from-heaven, refs: ["Gilg SB V:96"], note: "tukku ištu šamê, partly restored"}
+      - {motif: monster-wears-seven-cloaks-of-radiance, refs: ["Gilg SB V:99-100"], note: "sebe nahlapātīšu ... ištēt halip-ma šediš šahiṭ"}
+      - {motif: guardian-monster-radiates-terror, refs: ["Gilg SB V:103-106"], note: "ittilta issī-ma mali piritta ... humbāba kīma adad iraggum"}
+      - {motif: monster-taunts-hero-and-companion, refs: ["Gilg SB V:115-124"], note: "enkīdu mār nūni ša lā īdû abāšu ... ša lā īniqu šizib ummīšu; lušākil šīrīšu iṣṣūr ṣarṣari nāʾeri arê u zībi"}
+      - {motif: champion-curses-by-his-gods, refs: ["Gilg SB V:123-124"], note: "threat to give the hero's flesh to eagle and vulture"}
+      - {motif: monster-without-father-or-nurse, refs: ["Gilg SB V:117-118"], note: "said of Enkidu as insult"}
+      - {motif: do-not-trust-in-own-strength, refs: ["Gilg SB V:133-137"], note: "contrast: ē tassuh šēpīka ē tatūr ana arkīka; šapāru abūba ištuhha lapātu: to send the Deluge is to crack the whip"}
+    hints:
+      - "Two are better than one ... a threefold cord is not quickly broken: Eccl 4:9-12 (an almost verbatim parallel to V:75-79)."
+      - "Goliath: 'I will give your flesh to the birds of the air and the beasts of the field' (1Sam 17:43-46)."
+      - "'Fear not' from heaven: Gen 15:1, 21:17; Josh 8:1."
+
+  - id: ane-gilg-sb-v-humbaba-defeated
+    tradition: ane-akkadian
+    title: "The combat: earth splits, thirteen winds blind Ḫumbaba, the weapons reach him (Gilgameš SB V)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB V:143-165"]
+    tags:
+      - {motif: guardian-surrenders-powers-one-by-one, refs: ["Gilg SB V:148-149"], note: "translation only: they seize his auras in their hands (the Akkadian of V:143-151 is broken in this text)"}
+      - {motif: earth-splits-heavens-darken-in-battle, refs: ["Gilg SB V:154-158"], note: "ina asīd šēpīšunu qaqqaru ibešša, ... uhtappû sirara u labnānu, iṣṣalim urpatu peṣītu, mūtu kīma imbari izannun"}
+      - {motif: sun-god-sends-winds-against-monster, refs: ["Gilg SB V:159-165"], note: "šalaššeret šārū itbûnim-ma ša humbāba īṭû pānūšu"}
+      - {motif: god-controls-wind-over-ships, refs: ["Gilg SB V:159-163"], note: "loose: the god raises named winds in battle"}
+      - {motif: sun-god-companion-of-king-in-battle, refs: ["Gilg SB V:159-165"]}
+    hints:
+      - "God fighting with winds and storm: Ps 18:8-16, Josh 10:11 (hailstones), Judg 5:20-21 (the stars fought); Sirion and Lebanon skipping: Ps 29:5-6."
+
+  - id: ane-gilg-sb-v-humbaba-pleads
+    tradition: ane-akkadian
+    title: "Ḫumbaba begs for his life; Enkidu urges death; Ḫumbaba's curse (Gilgameš SB V)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB V:166-280"]
+    tags:
+      - {motif: monster-pleads-for-life-offers-service, refs: ["Gilg SB V:166-177"], note: "matīma gilgāmeš mītu ul ... bēla, [ardu balṭ]u ana bēlīšu; eṭir napištī; luṣṣurka asa (myrtle), cedar, cypress"}
+      - {motif: companion-urges-killing-monster, refs: ["Gilg SB V:178-183", "Gilg SB V:196-204", "Gilg SB V:265-272"], note: "gummiršu nēršu ṭēnšu hulliq lām išmû ašarēdu ellil"}
+      - {motif: weeping-before-sun-god, refs: ["Gilg SB V:185-186", "Gilg SB V:206-207", "Gilg SB V:256-257", "Gilg SB V:274-275"]}
+      - {motif: lasting-name-from-great-deed, refs: ["Gilg SB V:203-204", "Gilg SB V:271-272"], note: "šuziz-ma dārâ [...] kī gilgāmeš humbāba inarru"}
+      - {motif: catch-bird-where-go-its-young, refs: ["Gilg SB V:250-254"], note: "ibrī iṣṣūra bār-ma êšam illakū atmūšu (restored); kill the parent and the young are helpless"}
+      - {motif: dying-monster-curses-hero, refs: ["Gilg SB V:279-280"], note: "ay ulabbirū kilallān, eli ibrīšu gilgāmeš enkīdu qēbira ai irši"}
+      - {motif: dead-lie-unburied, refs: ["Gilg SB V:280"], note: "curse: Enkidu to have no one to bury him but Gilgameš"}
+      - {motif: threefold-repeated-episode, refs: ["Gilg SB V:185-207", "Gilg SB V:255-275"], note: "Ḫumbaba's tearful appeal and Enkidu's reply repeated"}
+    hints:
+      - "Sparing the defeated king against advice: 1Sam 15:8-9, 15:32-33 (Agag); 1Kgs 20:31-42 (Ahab spares Ben-hadad)."
+      - "The bird and her young: Deut 22:6-7."
+
+  - id: ane-gilg-sb-v-humbaba-slain-cedars-felled
+    tradition: ane-akkadian
+    title: "Ḫumbaba slain, the forest laid waste, a cedar door for Enlil's temple (Gilgameš SB V)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB V:281-324"]
+    tags:
+      - {motif: guardian-monster-beheaded, refs: ["Gilg SB V:286-290", "Gilg SB V:324"], note: "gilgāmeš ināršū kišādam-ma; enkīdu libbašu ilput adi hašê ištalpu; ... qaqqad humbāba"}
+      - {motif: enemy-head-and-armor-displayed, refs: ["Gilg SB V:290", "Gilg SB V:324"], note: "išallal šinnī: takes the tusks as booty; Gilgameš rides bearing Ḫumbaba's head"}
+      - {motif: hero-fells-sacred-cedars, refs: ["Gilg SB V:300-315"], note: "gilgāmeš iṣṣī inakkis, enkīdu išteneʾʾa hurbazalla; erēna šīha ša muhhašu šamê nakpu"}
+      - {motif: cedar-felled-in-forbidden-mountain, refs: ["Gilg SB V:303-306"], note: "ana tušār ništakan qišta, mīnâ ina nippuri nippal ellil"}
+      - {motif: slain-monsters-seven-sons, refs: ["Gilg SB V:307-308"], note: "sebettīšunu mārīšu inārū: zizānu, nāʾeru, simurru, šāsû, emqu ... ugallu"}
+      - {motif: heroes-fell-sacred-cedars-for-temple-door, refs: ["Gilg SB V:316-321"], note: "dalta ša šeššet nindan mēlûša šina nindan rupussu ... ana bīt ellil ina nippuri libil purattu; irtaksū ama"}
+      - {motif: cedars-from-lebanon-via-joppa, refs: ["Gilg SB V:318-321"], note: "cedar floated by raft downriver to the temple"}
+      - {motif: tower-reaching-heaven, refs: ["Gilg SB V:315"], note: "loose: a cedar whose top abutted heaven"}
+    hints:
+      - "Cedars of Lebanon floated by raft for the temple: 1Kgs 5:20-23 (5:6-9), 2Chr 2:15; temple doors of cedar/olive: 1Kgs 6:31-35."
+      - "Felling the cedars of Lebanon as hubris: Isa 14:8, 37:24; Hab 2:17 (the violence done to Lebanon); Ezek 31:12."
+      - "The severed head carried home: 1Sam 17:51-54 (Goliath's head to Jerusalem); 2Sam 4:7-8."
+
+  - id: ane-gilg-sb-vi-ishtar-proposes
+    tradition: ane-akkadian
+    title: "Gilgameš washes and is crowned; Ištar proposes marriage (Gilgameš SB VI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VI:1-21"]
+    tags:
+      - {motif: hero-washes-and-dons-clean-garments, refs: ["Gilg SB VI:1-5"], note: "imsi malêšu ubbib tillêšu ... iddi maršūtīšu ittalbiš zakūtīšu; agâšu ītepram-ma"}
+      - {motif: goddess-proposes-marriage-to-mortal-hero, refs: ["Gilg SB VI:6-9"], note: "ana dumqi ša gilgāmeš īnī ittaši rubūtu ištar ... attā lū mutī-ma anāku lū aššatka"}
+      - {motif: masters-wife-seduces, refs: ["Gilg SB VI:6-9"], note: "loose: a powerful woman, seeing the hero's beauty, invites him to her bed"}
+      - {motif: goddess-offers-chariot-tribute-fertility, refs: ["Gilg SB VI:10-21"], note: "narkabta uqnâ u hurāṣa ... sippu arattû linaššiqū šēpīka ... enzātūka takšî lahrātūka tūʾamī līlidā"}
+      - {motif: sacred-marriage-king-and-goddess, refs: ["Gilg SB VI:7-9"], note: "lū hāʾer attā: be my bridegroom"}
+    hints:
+      - "Potiphar's wife sees Joseph's beauty and demands 'lie with me' (Gen 39:6-12; Q 12:23-24); the strange woman's invitation with perfumed bed (Prov 7:13-18)."
+      - "Washing and changing garments after a crisis: Gen 41:14; 2Sam 12:20."
+
+  - id: ane-gilg-sb-vi-ishtar-rejected
+    tradition: ane-akkadian
+    title: "Gilgameš rejects Ištar and lists her ruined lovers (Gilgameš SB VI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VI:22-79"]
+    tags:
+      - {motif: hero-refuses-goddess, refs: ["Gilg SB VI:24-32"], note: "[ana kâši] ahhazki; whence food and clothing?"}
+      - {motif: insult-litany-of-images, refs: ["Gilg SB VI:33-41"], note: "dalat arkabinni ša lā ikallû šāra u zīqa ... ittû muṭappilat ... šēnu munaššikat šēpī bēlīša"}
+      - {motif: catalogue-of-goddess-lovers-and-their-fates, refs: ["Gilg SB VI:42-79"], note: "ayyû hāmeraki ibūr ana dāriš; alkīm-ma luppiš minât harmīki"}
+      - {motif: women-weeping-for-tammuz, refs: ["Gilg SB VI:46-47"], note: "ana dumuzi hāmiri ṣuhrētīki šatta ana šatti bitakkâ taltīmīššu"}
+      - {motif: lover-transformed-into-animal, refs: ["Gilg SB VI:58-63"], note: "tamhaṣīšū-ma ana barbari tutterrīšu ... kalbūšu unaššakū šaprīšu"}
+      - {motif: gardener-refuses-goddess, refs: ["Gilg SB VI:64-78"], note: "išullānu nukarib abīki ... qātka šūṣâm-ma luput hurdatni ... ummī lā tēpâ anāku lā ākul ... ana dallali tutterrīšu"}
+      - {motif: refusal-of-seduction, refs: ["Gilg SB VI:24-79"]}
+    hints:
+      - "Women weeping for Tammuz at the temple gate: Ezek 8:14."
+      - "Refusing the seductress: Gen 39:8-9 (Joseph), Q 12:23 (ma'adha llah); Prov 5:3-6 (her lips drip honey but her end is bitter as wormwood)."
+      - "The goddess who turns men into animals: compare Circe (Odyssey 10); the shepherd hounded by his own dogs: Actaeon."
+
+  - id: ane-gilg-sb-vi-ishtar-and-anu
+    tradition: ane-akkadian
+    title: "Ištar weeps before Anu, threatens to raise the dead, and obtains the Bull of Heaven (Gilgameš SB VI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VI:80-114"]
+    tags:
+      - {motif: goddess-complains-to-father-god, refs: ["Gilg SB VI:80-86"], note: "ištar uggugat-ma ana šamāmī īli ... ana pān ānu abīša ibakki"}
+      - {motif: father-god-rebukes-goddess, refs: ["Gilg SB VI:87-91"], note: "aba lā attī tegrî šarra gilgāmeš"}
+      - {motif: goddess-demands-bull-of-heaven, refs: ["Gilg SB VI:94-95"], note: "abī alâ bīnam-ma"}
+      - {motif: goddess-threatens-to-raise-dead-to-eat-living, refs: ["Gilg SB VI:96-100"], note: "ušellâm-ma mītūti ikkalū balṭūti, eli balṭūti ušamʾad mītūti"}
+      - {motif: goddess-threatens-cosmic-scream, refs: ["Gilg SB VI:96-100"], note: "loose: a goddess's threat to her father until he yields"}
+      - {motif: seven-years-of-provision-before-plague, refs: ["Gilg SB VI:103-111"], note: "almatti uruk sebe šanāti pî lipahhir, ikkar uruk lirabbi šammī"}
+      - {motif: seven-years-plenty-seven-famine, refs: ["Gilg SB VI:104-111"], note: "seven years of stored provision against the coming devastation"}
+    hints:
+      - "Seven years of storing grain against disaster: Gen 41:29-36, 41:47-49 (Joseph); Q 12:47-49."
+      - "The dead rising and outnumbering the living: Ezek 37:1-10 (inverted, as threat), Isa 26:19."
+
+  - id: ane-gilg-sb-vi-bull-of-heaven
+    tradition: ane-akkadian
+    title: "The Bull of Heaven ravages Uruk and is slain; its heart offered to Šamaš (Gilgameš SB VI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VI:115-150"]
+    tags:
+      - {motif: bull-of-heaven-ravages-land, refs: ["Gilg SB VI:115-118"], note: "ūtabbil qišta appara u qanâ, urid ana nāri sebe ammat nāru umdaṭṭi"}
+      - {motif: bulls-snort-opens-pits, refs: ["Gilg SB VI:119-124"], note: "ina nipšīšu ša alê šuttatu ippetē-ma ištēn mē eṭlūtu ša uruk imtaqqutū; then 200, then (variant) 300"}
+      - {motif: earth-opens-and-swallows, refs: ["Gilg SB VI:119-124"], note: "pits open in the ground and swallow the young men"}
+      - {motif: heroes-slay-bull-of-heaven, refs: ["Gilg SB VI:125-147"], note: "iṣbassū-ma ina kubur zibbatīšu ... ina birīt tikki qarnī u naplaki pataršu ummid"}
+      - {motif: hero-captures-wild-bull, refs: ["Gilg SB VI:125"], note: "alâ iṣṣabat ina qarnīšu"}
+      - {motif: victors-offer-heart-to-sun-god, refs: ["Gilg SB VI:148-149"], note: "libbašu iššûnim-ma ana pān šamaš ištaknū ... uškennū"}
+    hints:
+      - "Earth opening and swallowing men: Num 16:30-33 (Korah); the sacred bull: Exod 32 (golden calf); 'horns of the wild ox' Ps 22:22."
+
+  - id: ane-gilg-sb-vi-triumph-and-dream
+    tradition: ane-akkadian
+    title: "Ištar's lament, the haunch hurled, the horns dedicated, 'Who is finest among men?'; Enkidu dreams (Gilgameš SB VI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB VI:151-183"]
+    tags:
+      - {motif: goddess-curses-from-city-wall, refs: ["Gilg SB VI:151-153"], note: "īlī-ma ištar ina muhhi dūri ša uruk ... išhiṭ huppa ittadi arūrūta: allû gilgāmeš"}
+      - {motif: hero-throws-haunch-at-goddess, refs: ["Gilg SB VI:154-157"], note: "išluh imitti alê ana pānīša iddi ... errīšu lū ālula ina ahīki"}
+      - {motif: goddess-institutes-mourning-with-harlots, refs: ["Gilg SB VI:158-159"], note: "uptahhir ištar kezrēti šamhāti u harimāti ina muhhi imitti alê bikīta iškun"}
+      - {motif: horns-made-into-oil-flasks, refs: ["Gilg SB VI:160-166"], note: "šalāšā manā uqnû šipikšina ... šeššet kur šamnu ... ana piššat ilīšu lugalbanda iqīš"}
+      - {motif: hand-washing-innocence-of-blood, refs: ["Gilg SB VI:167"], note: "loose: ina puratti imsû qātīšun after the slaughter"}
+      - {motif: victory-song-who-is-finest, refs: ["Gilg SB VI:171-175"], note: "mannum-ma bani ina eṭlūti ... gilgāmeš bani ina eṭlūti"}
+      - {motif: women-sing-thousands-ten-thousands, refs: ["Gilg SB VI:171-175"], note: "loose: an antiphonal song of the palace women exalting the victor"}
+      - {motif: dream-of-companion-on-expedition, refs: ["Gilg SB VI:180-183"], note: "utūl-ma enkīdu šunata inaṭṭal"}
+    hints:
+      - "Women singing the victor's praise: 1Sam 18:6-7; Exod 15:20-21; Judg 5."
+      - "Jezebel at the window (2Kgs 9:30-33) as the goddess on the wall; the thigh/haunch (imittu) compare Exod 29:22 and Lev 7:32 (the right thigh)."

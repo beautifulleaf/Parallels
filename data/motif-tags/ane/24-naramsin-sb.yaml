@@ -1,0 +1,122 @@
+# Full read of the ANE corpus, chunk 24: Cuthaean Legend, Nergal and Ereškigal, Ninurta hymns, Akkadian disputations, Poor Man of Nippur, Queen of Nippur, Saĝba, Great Šamaš Hymn, šuʾilas (Adad to Gula). Read from the eBL reconstructed normalized texts, with eBL's English translation as a reading aid.
+new_motifs:
+  narû-literature-stela-for-future-king: {label: "A king's first-person account is framed as a stela left in a box for a future ruler to read and learn from", cluster: kingship}
+  predecessor-left-no-stela-not-blessed: {label: "A predecessor who left no inscription for posterity is not remembered or blessed", cluster: kingship}
+  hybrid-raven-faced-army-created-by-gods: {label: "The great gods create a demonic enemy host with bird-bodies and raven-faces, suckled by Tiamat and raised in the mountains", cluster: war}
+  seven-brother-kings-of-enemy-host: {label: "The invading host is led by seven royal brothers, each named in order, sons of a named king and queen", cluster: war}
+  blood-test-human-or-demon: {label: "A soldier pricks the strange enemy to test whether blood flows: if so they are human, if not they are demons", cluster: war}
+  king-defies-unfavourable-oracle: {label: "A king rejects an unfavourable divine oracle and resolves to rely on himself rather than the gods", cluster: kingship}
+  lion-does-not-take-omens: {label: "Rhetorical defiance: what lion ever took omens, what wolf consulted a dream-interpreter?", cluster: wisdom}
+  three-armies-lost-none-return: {label: "In three successive years the king sends huge armies and not one man returns alive", cluster: war}
+  king-laments-failing-as-shepherd: {label: "The king laments that he is a king who brings no well-being to his land and a shepherd who brings none to his people", cluster: kingship}
+  gods-decree-humanity-endure-forever: {label: "A god reminds the divine assembly that, though they ordered humankind destroyed, they also decreed that people should exist forever", cluster: flood}
+  goddess-forbids-destroying-enemy-reserved-for-god: {label: "A goddess forbids the king to destroy the enemy, for a high god will call them to account in future days", cluster: prophecy}
+  prophecy-of-social-collapse-house-against-house: {label: "Oracle of social breakdown: city against city, house against house, father against son, brother against brother, friend against friend; no one tells the truth", cluster: prophecy}
+  king-gives-defensive-counsel-to-successor: {label: "The king advises his successor to stay inside walls, fill moats, lay down weapons and not go out against the raider", cluster: kingship}
+  reader-who-blesses-will-be-blessed: {label: "The reader who blesses the author will in turn be blessed by a future reader", cluster: kingship}
+  invaders-from-mountains-overrun-known-world: {label: "A barbarian horde from the mountains overruns land after land to the ends of the known world", cluster: war}
+  doomed-city-burned-and-dogs-prowl: {label: "Prophecy that a doomed city will be burned and dogs will prowl round it", cluster: prophecy}
+  earth-and-date-palm-reduce-yield: {label: "Curse or prophecy: the earth will diminish its harvest and the date palm its yield", cluster: prophecy}
+  gods-carry-off-enemy-not-king: {label: "The gods themselves remove the enemy as tribute, while the king lays no hand on them", cluster: war}
+units:
+  - id: ane-naramsin-sb-1-prologue-enmerkar
+    tradition: ane-akkadian
+    title: "Prologue: Narām-Sîn's hardships, Enmerkar's precedent (Cuthaean Legend)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NaramSin SB –:1-30"]
+    tags:
+      - {motif: narû-literature-stela-for-future-king, refs: ["NaramSin SB –:1-3"], note: "restored: [tupšenna pitē-ma n]arâ šitassi 'open the tablet-box and read the stela'"}
+      - {motif: dynastic-succession-from-father, refs: ["NaramSin SB –:4-6"], note: "šarru-kīn abī šadâ īmid, 'Sargon my father went to the mountain' (died)"}
+      - {motif: hepatoscopy-liver-divination, refs: ["NaramSin SB –:11-17"], note: "largely restored: [sebet ana pān sebet pu]hādī 'seven (extispicies) on seven lambs', guhšî ellūti 'holy reed altars'"}
+      - {motif: dead-drink-muddy-water, refs: ["NaramSin SB –:24-27"], note: "ša mê dalhūti išattû lā mê zakûti: Enmerkar's ghosts and those of his family and offspring"}
+      - {motif: predecessor-left-no-stela-not-blessed, refs: ["NaramSin SB –:29-30"], note: "ina narê ul išṭur ... šuma ul ušēṣī-ma ul aktarrabšu"}
+      - {motif: sun-god-judges-dead-in-underworld, refs: ["NaramSin SB –:23-26"], note: "šamaš ... bēl elâti u šaplâti bēl anunnakkī bēl eṭemmī"}
+    hints:
+      - "Compare the 'book of the generations' and memorial writing: Exod 17:14 (write this in a book as a memorial); Job 19:23-24 (that my words were engraved on rock)."
+      - "Compare the doom of a sinner's descendants, Exod 20:5 (to the third and fourth generation)."
+  - id: ane-naramsin-sb-2-raven-faced-host
+    tradition: ane-akkadian
+    title: "The gods create the raven-faced host, which sweeps the world (Cuthaean Legend)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NaramSin SB –:31-62"]
+    tags:
+      - {motif: hybrid-raven-faced-army-created-by-gods, refs: ["NaramSin SB –:31-36"], note: "ṣābī pagrī iṣṣūr hurri amēlūta arēbī pānuššun ibnûšunūtī-ma ilū rabûtu ... tiāmatu ušēniqšunūti"}
+      - {motif: seven-brother-kings-of-enemy-host, refs: ["NaramSin SB –:37-46"], note: "sebet šarrū athû; father ānu-bānīni, mother melili; brothers memanduh, medudu, ...pish, tartadada, baldahdah, ahudanadih, hurrukidû"}
+      - {motif: storm-deluge-as-divine-weapon-on-land, refs: ["NaramSin SB –:49-60"], note: "refrain ittaspah / ispuhū-ma 'was scattered' through Burušhanda, Subartu, Gutium, Elam, to Dilmun, Magan, Meluhha"}
+      - {motif: invaders-from-mountains-overrun-known-world, refs: ["NaramSin SB –:47-58"], note: "the host, raised inside the mountains (ina qereb šadî irteʾû), overruns the known world from Anatolia to the Gulf"}
+      - {motif: coalition-of-canaanite-kings, refs: ["NaramSin SB –:61-62"], note: "sebêšer šarrū adi tišâ līm ummānātīšunu, 17 kings with 90,000 troops"}
+    hints:
+      - "Compare the northern foe of Jer 1:14-15; 4:6; 6:22-23 and Gog of Ezek 38-39, and Gog and Magog spreading over the earth in Q 18:94; 21:96."
+      - "Compare the coalition of kings in Gen 14:1-9 and Josh 10-11."
+  - id: ane-naramsin-sb-3-defiance-and-defeat
+    tradition: ane-akkadian
+    title: "Blood test, refused oracle, Narām-Sîn's defiance and three lost armies (Cuthaean Legend)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NaramSin SB –:63-103"]
+    tags:
+      - {motif: blood-test-human-or-demon, refs: ["NaramSin SB –:63-71"], note: "šumma dāmū uṣûni kī nâšī-ma amēlūtu šunu; šumma dāmū lā uṣûni ... šipir enlil šunu; blood comes out"}
+      - {motif: hepatoscopy-liver-divination, refs: ["NaramSin SB –:72-77"], note: "sebet ana pān sebet puhādī alput; ukīn guhšî ellūti"}
+      - {motif: god-silent-no-dreams-urim-prophets, refs: ["NaramSin SB –:78"], note: "namzāq ilī rabûti ana alākīya ... ul iddinam-ma: the gods' 'latchkey' does not permit the campaign"}
+      - {motif: king-defies-unfavourable-oracle, refs: ["NaramSin SB –:79-83"], note: "luddi ša ilim-ma yâti luṣbat 'let me cast off what is the god's and hold to myself'"}
+      - {motif: lion-does-not-take-omens, refs: ["NaramSin SB –:80-81"], note: "ayyu nēšu bīra ibri, ayyu barbaru išāl šāʾilta"}
+      - {motif: three-armies-lost-none-return, refs: ["NaramSin SB –:84-87"], note: "120,000, 90,000, 60,700: ištēn balṭu ul ittūra"}
+      - {motif: small-army-defeats-large-as-punishment, refs: ["NaramSin SB –:85-87"], note: "defeat follows the king's defiance of the oracle; interpretive"}
+      - {motif: king-laments-failing-as-shepherd, refs: ["NaramSin SB –:88-93"], note: "anāku šarru lā mušallimu mātīšu u rēʾû lā mušallimu ummānīšu"}
+      - {motif: disease-demon-catalogue-hand-of-god, refs: ["NaramSin SB –:94-96"], note: "list that came with the host: fear of lions, death, namtaru, convulsion, panic, ague, famine (nebrītu), disease, headache, sleeplessness"}
+      - {motif: gods-decree-humanity-endure-forever, refs: ["NaramSin SB –:97-103"], note: "elēnum-ma ina šamê šakin abūbu, šaplānu ina apsî ... abūbu; Ea: aššu zēr amēlūti ana hulluqi ... šubšû nišī ana dārâti tamtalkā (partly restored)"}
+    hints:
+      - "Compare Saul inquiring and receiving no answer, 1 Sam 28:6, and then acting on his own; and the hubris of the king who says 'by the strength of my hand I have done it', Isa 10:13-15."
+      - "Compare the shepherd who does not care for the flock, Ezek 34:2-10; Num 27:17."
+      - "Ea's reminder that the gods decided humankind should endure: compare the post-flood promise, Gen 8:21-22; 9:11."
+      - "Compare 'a king is not saved by a great army', Ps 33:16-17."
+  - id: ane-naramsin-sb-4-new-year-oracle-spared
+    tradition: ane-akkadian
+    title: "New Year rites, favourable omen, Ištar's oracle: spare the enemy (Cuthaean Legend)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NaramSin SB –:104-148"]
+    tags:
+      - {motif: new-year-festival-rite, refs: ["NaramSin SB –:104-107"], note: "zagmukku ša rebūti šatti: in the fourth year, with entreaty to Ea, nīqī zagmukki ellūti"}
+      - {motif: hepatoscopy-liver-divination, refs: ["NaramSin SB –:108-119", "NaramSin SB –:125-127"], note: "lines 115-117 broken; omen: ušardâ qulmû ... ina dāmī iṭebbû; balu bīri šīri tākalti ul ubbal"}
+      - {motif: goddess-forbids-destroying-enemy-reserved-for-god, refs: ["NaramSin SB –:128-133"], note: "dilbat elletu ištu šamê ... ezib zēr halqātî lā tuhallaq; ana arkât ūmī enlil ana lemutti inaššâ rēssun"}
+      - {motif: prophecy-of-social-collapse-house-against-house, refs: ["NaramSin SB –:138-142"], note: "ālu itti āli bītu itti bīti inakkir, abu itti māri ahu itti ahi ... itti ahāmiš kīnāti ul ītammû"}
+      - {motif: famine-curse-inflated-grain-price, refs: ["NaramSin SB –:144-145"], note: "ana ištēn šiqil kaspi sūt uṭṭatu imahhar (partly restored)"}
+      - {motif: doomed-city-burned-and-dogs-prowl, refs: ["NaramSin SB –:134"], note: "iqammû ilammû kalbū: they burn the city, dogs surround it"}
+      - {motif: earth-and-date-palm-reduce-yield, refs: ["NaramSin SB –:136"], note: "erṣetu išpikīša gišimmaru bilassa umaṭṭa"}
+      - {motif: gods-carry-off-enemy-not-king, refs: ["NaramSin SB –:147-148"], note: "ilū rabûtu ana bibilti ubillūšunūti, qātī ana dâki ul ubilšunūti"}
+    hints:
+      - "Compare 'vengeance is mine', Deut 32:35; and the nations as instrument later punished, Isa 10:5-12."
+      - "Compare Mic 7:5-6 (enemies of one's own household), Isa 19:2 (Egyptian against Egyptian, city against city), and Mark 13:12."
+      - "Compare siege famine prices, 2 Kgs 6:25; 7:1; Rev 6:6."
+  - id: ane-naramsin-sb-5-counsel-to-future-ruler
+    tradition: ane-akkadian
+    title: "Narām-Sîn's counsel to a future ruler; the stela in Nergal's cella at Cutha (Cuthaean Legend)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NaramSin SB –:149-180"]
+    tags:
+      - {motif: narû-literature-stela-for-future-king, refs: ["NaramSin SB –:149-155"], note: "tupšenna ēpuška narâ ašṭurka ina kutî ina emeslam ina papāh nergal ēzibakka; narâ annâ amur-ma ... šimē-ma"}
+      - {motif: be-strong-and-courageous, refs: ["NaramSin SB –:156-158"], note: "lā tessehhi lā tennešši lā tapallah lā tatarrur išdāka lū kīnā"}
+      - {motif: king-gives-defensive-counsel-to-successor, refs: ["NaramSin SB –:159-169"], note: "dūrīka tukkil hirâtīka mê mulli ... kakkīka rukus-ma tubqāti emid ... littaggiš mātka ē tuṣīšu"}
+      - {motif: submit-to-the-powerful, refs: ["NaramSin SB –:170-171"], note: "lū ašrāta lū sanqāta, annû bēlī apulšunūti"}
+      - {motif: repel-evil-with-better, refs: ["NaramSin SB –:172-174"], note: "ana gullultīšunu rīb dumqī, ana dumqī qīšāti u taṣbâti"}
+      - {motif: reader-who-blesses-will-be-blessed, refs: ["NaramSin SB –:175-180"], note: "šūt yâši taktarba arkû liktarrabka kâša"}
+      - {motif: hymn-written-to-preserve-kings-name, refs: ["NaramSin SB –:175-176"], note: "tupšarrū enqūtu lizkurū narâka"}
+    hints:
+      - "Compare Prov 25:21-22 (feed your enemy), Rom 12:20-21, Matt 5:39-44; Q 41:34 and 23:96 (repel evil with what is better)."
+      - "Compare Josh 1:6-9 ('be strong and courageous, do not fear or be dismayed'), and Hezekiah's siege preparations, 2 Chr 32:3-5 and Isa 22:9-11."
+      - "Compare Jer 27:11-12 and 38:17 (submit to the king of Babylon and live)."
+      - "Compare Deut 17:18-19 (the king reads the written law all his life)."

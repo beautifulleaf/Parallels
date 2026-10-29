@@ -92,6 +92,21 @@ new_motifs:
   strong-hand-of-mankind: {label: "The 'strong hand of humankind' (the witch's hand) seizes a man like a lion, clamps like a bird trap, covers like a net; a model of her hand is cast into the fire", cluster: magic}
   rise-like-fish-from-water: {label: "The freed speaker rises up like fish from the water, a pig from mud, a reed from the marsh, grass from the canal bank", cluster: magic}
   designs-of-life-drawn-on-speaker: {label: "The speaker is marked with the 'designs of life' (uṣurāt balāṭi) by the goddess who illumines fate", cluster: magic}
+  litany-you-did-may-fire-god-release: {label: "Long litany listing each act of sorcery, each line closing with the refrain 'you have done it, you have had it done: may Girra release'", cluster: magic}
+  victim-handed-over-to-ghosts-and-wastelands: {label: "The witch has handed the victim over to a skull, to the ghost of a kinsman or of a stranger, to a roaming ghost with no one to care for it, to the steppe and the wasteland", cluster: magic}
+  victims-figurines-hidden-in-wall-threshold-bridge: {label: "The witch hides the victim's figurines in a wall, under a threshold, in a drain, under a bridge for crowds to trample, or under water in a channel", cluster: magic}
+  victims-figurines-fed-to-dogs-pigs-birds: {label: "The witch feeds the victim's figurines to dogs, pigs and birds and throws them into the river", cluster: magic}
+  sorcery-before-moon-and-stars: {label: "Zikurrudû (life-cutting) magic is performed before the moon and named stars and constellations (Jupiter, Orion, Scorpio, Ursa Major, Leo)", cluster: magic}
+  any-acquaintance-may-be-the-witch: {label: "The unknown sorcerer may be anyone: friend or companion, brother or colleague, acquaintance or stranger, citizen or newcomer, male or female, dead or living", cluster: magic}
+  night-breaks-witches-weapon-sleeplessness: {label: "Night is asked to break the witches' weapon and impose sleeplessness on them", cluster: magic}
+  witch-height-of-heaven-depth-of-netherworld: {label: "The witch's (or her power's) height is that of heaven and her depth that of the netherworld", cluster: magic}
+  sun-god-genealogy-he-is-the-judge: {label: "Riddle-genealogy: who is the Sun's father, mother and sister? Sîn, Nikkal, Manzât (the rainbow) — he is the judge who destroys witchcraft", cluster: magic}
+  evil-sent-away-on-the-wind: {label: "The speaker sends sorcery and the evil word away on the wind", cluster: magic}
+  foreign-women-tie-knots: {label: "Foreign women (Gutean, Elamite, Hanigalbatean) and native women tie magical bindings (knots) against the speaker", cluster: magic}
+  release-by-day-what-was-bound-by-night: {label: "Whatever the witches bind by night the speaker releases by day, and what they bind by day he releases at night", cluster: magic}
+  witch-is-witch-i-am-releaser: {label: "Refrain: 'the witch is a witch (of whatever people or trade), but I am a releaser' (anāku pāširāk)", cluster: magic}
+  seven-and-seven-witches: {label: "Figurines of 'the seven and seven witches' are gathered from the west and handed to the fire god", cluster: magic}
+  witches-to-the-drain-speaker-the-flood: {label: "May the witches be for the drain, while the speaker sweeps over them like flood water", cluster: magic}
 units:
   # ================= Maqlû Tablet I =================
   - id: ane-maqlu-sb-i-gods-of-night
@@ -382,6 +397,65 @@ units:
     hints:
       - "Compare Ps 18:11 and Ps 104:3 (God rides on the wings of the wind) and Ugaritic rkb ʿrpt for 'rider of the wind'."
       - "Compare Isa 8:19 (mediums who chirp and mutter) and Isa 28:10 (ṣaw lāṣāw qaw lāqāw) for unintelligible ritual speech."
+  - id: ane-maqlu-sb-ii-reed-mat-net-turned-back
+    tradition: ane-akkadian
+    title: "Maqlû II 161-182: 'They perform sorcery against me ... to wrap me like a reed mat' — the similes turned back (bitumen-and-gypsum figurine)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB II:161-182"]
+    tags:
+      - {motif: witchs-acts-turned-back-in-similes, refs: ["Maqlu SB II:162-169", "Maqlu SB II:173-180"], note: "kīma kīti ... kīma huhāri ... kīma šēti ... kīma šūšurāt bīti ana bābi ana nasākīya"}
+      - {motif: enemies-caught-like-animals-in-net, refs: ["Maqlu SB II:163", "Maqlu SB II:165", "Maqlu SB II:174", "Maqlu SB II:176"]}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB II:173-180"]}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["Maqlu SB II:170"], note: "the translation supplies the client's name Aššuršaliṭ from a variant; the line itself has anāku"}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB II:170-171"], note: "Marduk, lord of the evening ceremonies, and Asalluḫi"}
+      - {motif: witch-figurines-made-and-set-before-gods, refs: ["Maqlu SB II:181-182"], note: "girra ina šaplīka ṣalam kaššāpi u kaššāpti addinka"}
+    hints:
+      - "Compare Ps 35:7-8 and Ps 57:7 (they hid a net for me; let the net they hid catch themselves) and Ps 141:10."
+      - "Compare 1Kgs 14:10 (as one sweeps away dung) and Lam 3:45 (made us offscouring and refuse) for the sweepings."
+  - id: ane-maqlu-sb-ii-clay-from-river-oven
+    tradition: ane-akkadian
+    title: "Maqlû II 183-204: 'Whoever you are, O witch, who took clay for me from the river' — the burning oven (clay-and-tallow figurine)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB II:183-204"]
+    tags:
+      - {motif: i-do-not-know-your-name-or-city, refs: ["Maqlu SB II:183"], note: "attimannu kaššāptu"}
+      - {motif: witch-buries-figurine-in-grave, refs: ["Maqlu SB II:183-185"], note: "ina bīti eṭî utammeru ṣalmīya; ina qabri itmeru mêya"}
+      - {motif: witch-takes-spittle-hair-hem-footprint, refs: ["Maqlu SB II:186-188"], note: "leavings from a garbage pit, hem cut in the launderer's house, dust from the threshold"}
+      - {motif: witch-figurines-made-and-set-before-gods, refs: ["Maqlu SB II:189-190", "Maqlu SB II:204"], note: "tallow bought at the quay gate, clay pinched from the city ditch"}
+      - {motif: oven-as-divine-daughter, refs: ["Maqlu SB II:191"], note: "āliku tinūru girra munnahzu"}
+      - {motif: gods-sent-to-collect-witchs-seed, refs: ["Maqlu SB II:193-196"]}
+      - {motif: may-she-die-but-i-live, refs: ["Maqlu SB II:197"]}
+      - {motif: victim-innocent-witch-guilty-relies-on-god, refs: ["Maqlu SB II:198-201"], note: "šī taklat ana kišpīša ... u anāku ana ... girra dayyānu"}
+      - {motif: petitioner-protests-innocence, refs: ["Maqlu SB II:198-199"]}
+      - {motif: fire-god-burns-witch-refrain, refs: ["Maqlu SB II:202-203"]}
+    hints:
+      - "Compare Ps 20:8 (some trust in chariots, but we in the name of YHWH) and Jer 17:5-7 for II:200-201."
+      - "Compare Ps 35:7 and Ps 109:3-4 (without cause they hid their net; in return for my love they accuse me) for II:198-199."
+      - "Compare Ps 21:10 (you will make them as a fiery oven) and Mal 3:19 (the day burning like an oven) for the oven."
+  - id: ane-maqlu-sb-ii-i-know-not-your-name-oven-daughter-of-anu
+    tradition: ane-akkadian
+    title: "Maqlû II 205-228: 'Whoever you are, O witch, who keeps seeking me' — 'I do not know your name'; the pure oven, daughter of Anu; catchline"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB II:205-228"]
+    tags:
+      - {motif: i-do-not-know-your-name-or-city, refs: ["Maqlu SB II:208"], note: "ālki ul īde bītki ul īde šumki ul īde šubatki ul īde"}
+      - {motif: named-demons-beset-mankind, refs: ["Maqlu SB II:209-213"], note: "šēdu, utukku, ghosts, bennu-epilepsy and lurker-demons sent to hunt the witch"}
+      - {motif: gods-tear-out-witchs-tongue-erase-name, refs: ["Maqlu SB II:214-218"], note: "partly restored: [Enli]l ... [šumk]i lipšiṭ; [lišānk]i lissuh"}
+      - {motif: oven-as-divine-daughter, refs: ["Maqlu SB II:219-223"], note: "ut[ū]nu elletu mārat ani rabītu ša ina libbīša nanhuzat išāt qabri; its flame reaches heaven (partly restored)"}
+      - {motif: fire-god-burns-witch-refrain, refs: ["Maqlu SB II:223-224"]}
+      - {motif: save-me-that-i-may-praise-you, refs: ["Maqlu SB II:225"]}
+    hints:
+      - "Compare Dan 3:19-22 (the furnace heated seven times) and Gen 15:17 (smoking oven) for the divine oven."
+      - "Compare Ps 9:6 and Deut 29:19 (God blots out their name) and Ps 12:4 (YHWH will cut off the boastful tongue) for II:215-216."
   # ================= Maqlû Tablet III =================
   - id: ane-maqlu-sb-iii-witch-roams-streets
     tradition: ane-akkadian
@@ -585,3 +659,112 @@ units:
       - {motif: witch-figurines-made-and-set-before-gods, refs: ["Maqlu SB III:187"]}
     hints:
       - "Compare Matt 5:30 (if your hand causes sin cut it off and throw it away) only loosely."
+  # ================= Maqlû Tablet IV =================
+  - id: ane-maqlu-sb-iv-burn-burn-litany
+    tradition: ane-akkadian
+    title: "Maqlû IV 1-79: 'Burn, burn, blaze, blaze!' — the great litany of the witch's deeds, 'may Girra release'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB IV:1-79a"]
+    tags:
+      - {motif: i-do-not-know-your-name-or-city, refs: ["Maqlu SB IV:3"], note: "attamannu mār manni attimannu mārat manni"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB IV:5-6", "Maqlu SB IV:76-77"]}
+      - {motif: witch-handed-over-to-fire-god, refs: ["Maqlu SB IV:7-8", "Maqlu SB IV:74-75"], note: "akassīkunūši akammīkunūši anamdinkunūši ana girra"}
+      - {motif: catalogue-of-kinds-of-witchcraft, refs: ["Maqlu SB IV:10-12"]}
+      - {motif: litany-you-did-may-fire-god-release, refs: ["Maqlu SB IV:13-67"], note: "tēpušāni tušēpišāni girra lipšur"}
+      - {motif: victim-betrothed-to-the-dead, refs: ["Maqlu SB IV:14", "Maqlu SB IV:24-28", "Maqlu SB IV:44-48", "Maqlu SB IV:51"], note: "betrothed to the netherworld (arallû); his figurines laid in a dead man's lap"}
+      - {motif: victim-handed-over-to-ghosts-and-wastelands, refs: ["Maqlu SB IV:15-23"], note: "eṭemmi murtappidu ša pāqida lā īšû"}
+      - {motif: victims-figurines-hidden-in-wall-threshold-bridge, refs: ["Maqlu SB IV:30-35"]}
+      - {motif: witch-makes-victims-figurine, refs: ["Maqlu SB IV:36-39"], note: "of tamarisk, cedar, tallow, wax, sesame pomace, bitumen, clay, dough"}
+      - {motif: victims-figurines-fed-to-dogs-pigs-birds, refs: ["Maqlu SB IV:40-41"]}
+      - {motif: gilgamesh-enforcer-of-netherworld-oath, refs: ["Maqlu SB IV:50"], note: "kurummata ana gilgāmeš taddinā: a ration given to Gilgameš (as netherworld judge)"}
+      - {motif: sorcery-before-moon-and-stars, refs: ["Maqlu SB IV:52-60"]}
+      - {motif: bewitched-food-and-drink-given, refs: ["Maqlu SB IV:61-67"], note: "includes magic with snake and mongoose; bread, water, milk, beer, wine; washing; oil; gifts"}
+      - {motif: sorcery-estranges-kin-and-friends, refs: ["Maqlu SB IV:68-72"], note: "rejected by god, king, courtier, friend, father and mother, wife, son and daughter, slaves"}
+      - {motif: sufferer-sickening-to-all-who-see-him, refs: ["Maqlu SB IV:73"]}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB IV:78-79"]}
+    hints:
+      - "Compare Ps 27:10 ('my father and my mother have forsaken me') and Job 19:13-17 (wife and brothers estranged) for IV:68-72."
+      - "Compare 2Kgs 23:5 and Jer 8:2 (worship of the moon, constellations and host of heaven) for IV:52-60; Isa 47:13 (star-gazers of Babylon)."
+      - "Compare Deut 18:10-11 and Isa 8:19 (inquiring of ghosts and the dead) and Isa 65:4 (sitting among tombs) for the necromantic acts."
+  - id: ane-maqlu-sb-iv-whoever-you-are-friend-or-stranger
+    tradition: ane-akkadian
+    title: "Maqlû IV 80-94: 'Whoever you are, O witch ... whether friend or companion' — Night, the veiled bride, breaks their weapon"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB IV:80-94a"]
+    tags:
+      - {motif: any-acquaintance-may-be-the-witch, refs: ["Maqlu SB IV:80-92"], note: "lū ibru lū tappû ... lū mītu lū balṭu ... lū lišānu nakertu"}
+      - {motif: witch-titles-include-cult-women, refs: ["Maqlu SB IV:89-91"], note: "kurgarrû, sahhiru, eššebû, naršindû, mušlahhu, agugillu"}
+      - {motif: night-as-veiled-bride, refs: ["Maqlu SB IV:93"]}
+      - {motif: night-breaks-witches-weapon-sleeplessness, refs: ["Maqlu SB IV:94"]}
+      - {motif: witchs-leavings-gathered-and-burned, refs: ["Maqlu SB IV:94a"], note: "rubric partly restored: three [lea]ves(?) of cornel, smeared with tallow, peeled and wrapped"}
+    hints:
+      - "Compare Ps 41:10 and Ps 55:13-15 (my close friend who ate my bread has lifted his heel against me) for IV:81."
+  - id: ane-maqlu-sb-iv-height-of-heaven
+    tradition: ane-akkadian
+    title: "Maqlû IV 95-106: 'My murderess, my witch' — height of heaven, depth of netherworld (broken)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB IV:95-106"]
+    tags:
+      - {motif: witch-height-of-heaven-depth-of-netherworld, refs: ["Maqlu SB IV:96", "Maqlu SB IV:99-100"], note: "l. 96 restored [šūquki ša š]amê; ll. 99-100 preserved: šūquki ša š[amê] šupulki ša qaqqa[ri]; ll. 97-98, 101-102 largely broken (Subartu named)"}
+      - {motif: witch-handed-over-to-fire-god, refs: ["Maqlu SB IV:105-106"], note: "ašakkanšunūti ana pī girra"}
+    hints:
+      - "Compare Ps 139:8 and Amos 9:2 (if they dig into Sheol ... if they climb to heaven) and Isa 7:11 (deep as Sheol or high as heaven)."
+  - id: ane-maqlu-sb-iv-sun-who-is-his-father
+    tradition: ane-akkadian
+    title: "Maqlû IV 107-114: 'Of the Sun, who is his father?' — he is the judge"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB IV:107-114"]
+    tags:
+      - {motif: sun-god-genealogy-he-is-the-judge, refs: ["Maqlu SB IV:107-110"]}
+      - {motif: sun-god-judge-of-gods, refs: ["Maqlu SB IV:108", "Maqlu SB IV:110"], note: "šū dayyānu"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB IV:111-113"], note: "Manzât uhappe riksī"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB IV:114"], note: "ušabbal šāra"}
+      - {motif: wicked-as-chaff, refs: ["Maqlu SB IV:114"]}
+    hints:
+      - "Compare Ps 1:4 and Ps 35:5 (like chaff before the wind) for IV:114; Heb 7:3 (without father, without mother) as a contrasting riddle of genealogy."
+  - id: ane-maqlu-sb-iv-six-bindings-seven-undoings
+    tradition: ane-akkadian
+    title: "Maqlû IV 115-122: 'Six are their bindings, seven are my undoings'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB IV:115-122"]
+    tags:
+      - {motif: foreign-women-tie-knots, refs: ["Maqlu SB IV:116-117"], note: "gutêti elamâtu habigalbatâtu mārāt māti irakkasāni riksī"}
+      - {motif: women-blowing-on-knots, refs: ["Maqlu SB IV:117"], note: "women tie bindings (rakāsu riksī); no blowing is mentioned"}
+      - {motif: numerical-saying-six-seven, refs: ["Maqlu SB IV:118"], note: "šeššet riksūšina sebet piṭrūʾa"}
+      - {motif: release-by-day-what-was-bound-by-night, refs: ["Maqlu SB IV:119-120"]}
+      - {motif: witch-handed-over-to-fire-god, refs: ["Maqlu SB IV:121-122"]}
+    hints:
+      - "Compare Job 5:19 (in six troubles he will deliver you, in seven no evil shall touch you) and Prov 6:16."
+      - "Compare Q 113:4 (those who blow on knots); Ezek 13:18-20 (bands sewn on wrists)."
+  - id: ane-maqlu-sb-iv-i-am-a-releaser
+    tradition: ane-akkadian
+    title: "Maqlû IV 123-153: 'My friend is a witch, but I am a releaser' — the seven and seven witches burned; catchline"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB IV:123-153"]
+    tags:
+      - {motif: witch-is-witch-i-am-releaser, refs: ["Maqlu SB IV:123-136"]}
+      - {motif: any-acquaintance-may-be-the-witch, refs: ["Maqlu SB IV:123", "Maqlu SB IV:136"], note: "my friend (rūʾūʾa); a native of my city"}
+      - {motif: enemy-as-sutean-and-elamite, refs: ["Maqlu SB IV:125-129"], note: "Elamite, Gutean, Sutean, Lullubean, Hanigalbatean"}
+      - {motif: seven-and-seven-witches, refs: ["Maqlu SB IV:137-139"], note: "ašpur ana ereb šamši"}
+      - {motif: fire-god-burns-witch-refrain, refs: ["Maqlu SB IV:140-146"]}
+      - {motif: witches-to-the-drain-speaker-the-flood, refs: ["Maqlu SB IV:150-151"]}
+    hints:
+      - "Compare Mic 7:5-6 (trust not a friend ... a man's enemies are the men of his own house) for IV:123."
