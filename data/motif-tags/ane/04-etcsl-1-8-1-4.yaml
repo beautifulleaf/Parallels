@@ -1,3 +1,245 @@
+# Full read, chunk 4: ETCSL 1.8.1.4 - 1.8.2.2 (Gilgameš, Enkidu and the nether world; Gilgameš and Ḫuwawa A and B; Lugalbanda I and II). Read from the ETCSL Sumerian composite transliterations.
+new_motifs:
+  in-those-days-primordial-opening: {label: "A text opens by evoking the primeval days, nights and years 'of old' when the world was first ordered", cluster: creation}
+  first-bread-and-ovens-of-the-land: {label: "The primeval age is dated by the first eating of bread and first firing of ovens in the land", cluster: civilization}
+  heaven-separated-from-earth-primeval: {label: "In the beginning heaven was separated from earth (Sumerian an ki-ta ba9-ra2)", cluster: creation}
+  cosmos-divided-among-three-gods: {label: "At creation heaven, earth and underworld are apportioned to three gods (An, Enlil, Ereškigala)", cluster: cosmology}
+  god-sails-to-netherworld-storm: {label: "A god sails to the netherworld and his boat is assailed by hailstones and devouring waves", cluster: underworld}
+  uprooted-tree-carried-by-river: {label: "A single tree on a river bank is uprooted by the wind and carried off by the river", cluster: paradise}
+  tree-planted-in-goddess-garden: {label: "A goddess plants a rescued tree in her garden and tends it", cluster: paradise}
+  furniture-from-sacred-tree-desired: {label: "A goddess wants a throne and a bed made from the wood of a sacred tree", cluster: cult}
+  serpent-at-root-bird-in-crown-demon-in-trunk: {label: "A sacred tree is occupied by a snake at its roots, a monstrous bird in its crown and a female demon in its trunk", cluster: paradise}
+  charm-resistant-serpent: {label: "A snake that does not know (is immune to) incantations", cluster: magic}
+  lilith-dwells-in-tree: {label: "The phantom maid (ki-sikil-lil-la, Lilith) makes her dwelling in a tree", cluster: demons}
+  goddess-weeps: {label: "A goddess weeps over a frustrated wish or loss", cluster: gods}
+  dawn-formula-sun-leaves-bedchamber: {label: "Dawn formula: the sun god comes out of his bedchamber as little birds clamour", cluster: cosmology}
+  verbatim-repetition-of-narrative-in-speech: {label: "A character retells the narrated events or message word for word in direct speech", cluster: literary-form}
+  brother-refuses-sisters-plea: {label: "A brother refuses to stand by his sister in her trouble", cluster: family}
+  hero-champions-goddess-as-brother: {label: "A mortal hero, addressed as 'my brother', takes up a goddess's cause", cluster: heroes}
+  triple-petition-pattern: {label: "A plea is refused by one or more parties before the next accepts it", cluster: literary-form}
+  heros-colossal-weapons-weighed: {label: "The hero's weapons and gear are given enormous weights (talents and minas) that are light to him", cluster: heroes}
+  hero-kills-serpent-in-tree: {label: "A hero kills the snake nesting at the root of a sacred tree", cluster: heroes}
+  demon-flees-to-wilderness: {label: "A demon driven from its dwelling flees to desolate places", cluster: demons}
+  bird-flees-to-mountains-with-young: {label: "A great bird takes up its young and flies off to the mountains", cluster: animals}
+  ball-and-mallet-from-sacred-wood: {label: "A hero makes a ball and stick (ellag and ekema) for a game from a sacred tree", cluster: heroes}
+  king-oppresses-young-men-of-city: {label: "A king exhausts the young men of his city with incessant games or labour", cluster: kingship}
+  self-praise-of-king: {label: "A king praises himself without ceasing", cluster: kingship}
+  mothers-and-sisters-bring-bread-and-water: {label: "Mothers bring bread and sisters pour water for the worn-out young men", cluster: family}
+  precious-object-falls-into-netherworld: {label: "A hero's prized object falls into the netherworld beyond his reach", cluster: underworld}
+  gate-of-netherworld-ganzer: {label: "The gate of the netherworld (Ganzer) where the living may sit and lament", cluster: underworld}
+  hero-laments-lost-object: {label: "A hero weeps aloud over a beloved lost possession", cluster: heroes}
+  who-will-bring-up-from-netherworld: {label: "Lament: 'Who will go down and bring it up for me from the netherworld?'", cluster: underworld}
+  servant-volunteers-for-perilous-descent: {label: "A servant or companion volunteers to go down to the netherworld for his master", cluster: underworld}
+  netherworld-taboos-instructed: {label: "Rules for visiting the netherworld: no clean clothes, oil, sandals, weapons, shouting, or kissing and striking wife and son", cluster: underworld}
+  dead-recognize-living-stranger: {label: "The dead recognise a living visitor as a stranger by his clean garments and scent", cluster: underworld}
+  outcry-detains-in-netherworld: {label: "An outcry raised in the netherworld seizes and detains the living visitor", cluster: underworld}
+  naked-mother-goddess-of-underworld-lies: {label: "The queen of the netherworld lies uncovered, with pickaxe-like nails, tearing her hair", cluster: underworld}
+  warning-disregarded-point-by-point: {label: "Every prohibition given is repeated as broken, item by item", cluster: literary-form}
+  dead-seize-the-living: {label: "The netherworld itself seizes and holds a living man", cluster: underworld}
+  hero-weeps-before-god-in-temple: {label: "A hero goes alone to a god's temple and weeps out his petition", cluster: prayer}
+  death-not-by-demon-or-battle-but-netherworld: {label: "Refrain: no demon, plague or battle took him, but the netherworld seized him", cluster: underworld}
+  wise-god-helps-where-chief-god-refuses: {label: "The chief god refuses help and the wise god (Enki) grants it", cluster: gods}
+  hole-opened-to-netherworld: {label: "A god opens a hole in the ground through which a dead man's spirit comes up", cluster: underworld}
+  companions-weary-each-other-with-questions: {label: "Reunited companions weary each other with questions about what befell", cluster: friendship}
+  order-of-the-netherworld-revealed: {label: "A returned spirit tells the living the order (rules) of the netherworld", cluster: underworld}
+  body-eaten-by-worms-in-grave: {label: "The body once loved is infested by vermin like an old garment and filled with dust", cluster: underworld}
+  sitting-in-dust-in-grief: {label: "The grieving one cries 'alas' and sits down in the dust", cluster: mourning}
+  fate-of-dead-graded-by-number-of-sons: {label: "A dead man's lot in the netherworld improves with the number of his sons, the father of seven sitting with the gods", cluster: underworld}
+  eunuch-childless-and-unmarried-dead-wretched: {label: "The eunuch, the barren woman and the unmarried young are wretched among the dead", cluster: underworld}
+  fallen-in-battle-head-unheld: {label: "The man fallen in battle has no father and mother to hold his head; his wife weeps", cluster: underworld}
+  ghost-without-funerary-offerings-eats-scraps: {label: "The ghost who has no one to make funerary offerings eats scraps tossed in the street", cluster: underworld}
+  stillborn-children-play-in-afterlife: {label: "Stillborn children play at a table of gold and silver with honey and ghee in the netherworld", cluster: underworld}
+  burned-man-has-no-ghost: {label: "A man burned to death has no ghost in the netherworld; his smoke went up to the sky", cluster: underworld}
+  death-by-lion-or-fall-in-afterlife: {label: "Those killed by a lion, a fall from a roof or a ship's beam still suffer from their manner of death below", cluster: underworld}
+  dead-on-bed-of-gods: {label: "One who died (properly) lies on the bed of the gods in the netherworld", cluster: underworld}
+  storm-gods-flood-victim-in-afterlife: {label: "The man killed by the storm god's flood is eaten by worms among the dead", cluster: underworld}
+  dishonoring-parents-punished-after-death: {label: "One who did not respect his parents' word suffers endless pain after death", cluster: underworld}
+  parents-curse-deprives-of-heir: {label: "One reached by his parents' curse has no heir and his ghost roams", cluster: family}
+  dishonoring-gods-name-punished: {label: "One who slighted the name of his god suffers in the netherworld", cluster: underworld}
+  oath-breaker-punished-in-afterlife: {label: "One who lied to the gods in an oath drinks foul water at the netherworld's libation place", cluster: underworld}
+  son-denied-water-to-parents-punished: {label: "A son who refused water to his father and mother is punished among the dead", cluster: family}
+  amorites-as-hostile-others: {label: "The Martu (Amorites) portrayed as uncivilised enemies who know no grain", cluster: peoples}
+  dead-drink-muddy-water: {label: "The dead, even one's own parents, drink muddy water in the netherworld", cluster: underworld}
+  return-to-city-with-weapons: {label: "The heroes return to their city and deposit their weapons in the palace", cluster: heroes}
+  statue-of-dead-made-for-mourning: {label: "A statue is set up and gazed at by the citizens in mourning", cluster: mourning}
+  funerary-water-libation-for-parents: {label: "A son pours clean water for his dead father and mother: 'drink clean water!'", cluster: mourning}
+  nine-days-of-mourning: {label: "A hero lies at the place of mourning for nine days", cluster: mourning}
+  hymnic-closing-praise-of-hero: {label: "Closing doxology praising the hero or god of the poem ('X, your praise is sweet')", cluster: literary-form}
+  seven-days-before-return: {label: "Seven days pass from the fateful day without the lost one returning", cluster: underworld}
+  hero-laments-dead-companion: {label: "A hero laments his beloved servant, faithful companion and counsellor", cluster: friendship}
+  proud-man-eaten-by-worms: {label: "The man who exalted himself bows like an ox while worms eat him below", cluster: underworld}
+  grief-drives-hero-to-seek-life: {label: "Grief over death drives a king to set out in search of life", cluster: immortality}
+  mountain-of-the-living-man: {label: "The far mountain 'where the man lives' (kur lu2 til3-la), goal of the hero's quest", cluster: immortality}
+  no-man-passes-end-of-life: {label: "No man can pass beyond the final end of life", cluster: wisdom}
+  patron-god-must-be-informed-before-venture: {label: "Before a venture the hero must inform the god whose domain it touches", cluster: prayer}
+  sacrificial-kid-and-staff-before-prayer: {label: "A petitioner holds a white and a brown kid and a holy staff as he prays to the sun god", cluster: cult}
+  hero-asks-god-to-be-helper: {label: "Hero prays: 'I am going ... be my helper!'", cluster: prayer}
+  corpses-float-in-river: {label: "From the city wall the hero sees corpses floating in the river and realises he too will die", cluster: mortality}
+  no-one-tall-enough-to-reach-heaven: {label: "No one is tall enough to reach heaven, or broad enough to span the mountains", cluster: wisdom}
+  mortality-motivates-quest-for-fame: {label: "Awareness of death drives the hero to win lasting renown", cluster: heroes}
+  tears-accepted-as-offering: {label: "A god accepts the petitioner's tears as a gift and shows mercy", cluster: prayer}
+  seven-monstrous-brothers-as-guides: {label: "A god gives the hero seven warrior-brothers of one mother (stars) to guide him", cluster: gods}
+  guides-to-portage-in-mountains: {label: "Guides lead to the place in the mountains where boats are hauled overland", cluster: travel}
+  fifty-companions-on-expedition: {label: "The hero takes fifty companions on his expedition", cluster: heroes}
+  weapons-forged-before-expedition: {label: "The hero has weapons cast at the smith's before setting out", cluster: heroes}
+  trees-felled-for-weapons: {label: "Choice trees are felled to make weapons and gear", cluster: heroes}
+  seven-mountain-ranges-crossed: {label: "The hero crosses seven mountain ranges before reaching his goal", cluster: travel}
+  hero-fells-sacred-cedars: {label: "The hero cuts down the guarded cedars of the mountain forest", cluster: heroes}
+  guardian-monster-radiates-terror: {label: "The forest guardian radiates terror (ni2) or auras (me-lem4) at the intruders", cluster: monsters}
+  hero-overcome-by-supernatural-sleep: {label: "The hero falls into an unnatural sleep on the expedition and cannot be roused", cluster: heroes}
+  dream-of-companion-on-expedition: {label: "A companion wakes shuddering from a dream on the journey", cluster: dreams}
+  how-long-will-you-sleep: {label: "Waking appeal: 'You who lie asleep, how long will you sleep?'", cluster: heroes}
+  oath-by-life-of-parents: {label: "Oath 'by the life of my mother and my father'", cluster: oaths}
+  human-or-god-uncertain: {label: "The hero vows to find out whether the being he faces is human or divine", cluster: heroes}
+  monster-described-mouth-of-dragon-face-of-lion: {label: "A monster described: mouth of a dragon, face of a lion, chest a raging flood, never wiping blood from its maw", cluster: monsters}
+  companion-urges-turning-back: {label: "A frightened companion urges the hero to turn back", cluster: heroes}
+  sinking-ship-proverb: {label: "Proverb: when the great ship sank, the life-saving pole did not sink", cluster: wisdom}
+  deadly-gaze-of-monster: {label: "The monster's look is the look of death", cluster: monsters}
+  hero-paralyzed-by-fear: {label: "Terror spreads through the hero's sinews so he cannot move his feet", cluster: heroes}
+  hero-hailed-by-epithets: {label: "The hero is hailed with a string of epithets (sceptre-bearer, glory of the gods, raging bull)", cluster: heroes}
+  do-not-fear-formula: {label: "A powerful being tells the trembling hero 'Do not be afraid'", cluster: heroes}
+  sister-offered-as-wife-to-monster: {label: "The hero offers his sisters as wife and concubine to the monster as a ruse", cluster: heroes}
+  deceptive-offer-of-kinship: {label: "The hero proposes to become the enemy's kinsman in order to disarm him", cluster: deception}
+  guardian-surrenders-powers-one-by-one: {label: "The guardian hands over his seven terrors or auras one at a time", cluster: monsters}
+  gifts-of-flour-water-shoes-and-gems: {label: "Gifts offered to the monster: flour of the gods, a waterskin, big and tiny sandals, precious stones", cluster: deception}
+  feigned-kiss-then-blow: {label: "The hero approaches as if to kiss his foe and strikes him instead", cluster: deception}
+  captive-bound-like-wild-bull: {label: "The captured foe is haltered like a wild bull and bound at the elbows", cluster: war}
+  hero-and-foe-weep-together: {label: "Captor and captive both sit down and weep", cluster: heroes}
+  orphan-raised-by-god-pleads: {label: "A captive pleads to the god who raised him, having known no mother or father", cluster: prayer}
+  oath-sworn-by-heaven-earth-mountains: {label: "An oath sworn by heaven, earth and the mountains", cluster: oaths}
+  suppliant-grasps-hand-and-prostrates: {label: "A suppliant clutches the victor's hand and prostrates himself", cluster: war}
+  victor-pities-captive-foe: {label: "The victor takes pity and wants to let the captive go 'like a captured bird to its home'", cluster: war}
+  hireling-insult: {label: "The companion is insulted as a hireling who follows his master for food", cluster: speech}
+  guardian-monster-beheaded: {label: "The forest guardian's throat is cut and his head put in a sack", cluster: monsters}
+  high-god-angered-by-killing: {label: "The high god is angry that the heroes killed the one he appointed, who should have sat and eaten with them", cluster: gods}
+  name-wiped-from-earth: {label: "A question whether a being's name was decreed to be wiped from the earth", cluster: curses}
+  auras-of-slain-guardian-distributed: {label: "The slain guardian's seven auras are given to fields, rivers, reeds, lions, palace, forest and a goddess", cluster: monsters}
+  underworld-spares-no-one: {label: "The netherworld, the great city, spares no one", cluster: underworld}
+  sun-god-crowned-with-lapis: {label: "The sun god binds on a lapis-lazuli diadem", cluster: gods}
+  stars-as-guides-of-the-way: {label: "Stars in heaven know the roads on earth and guide travellers", cluster: cosmology}
+  hero-accused-of-breaking-oath: {label: "The captured foe accuses the hero: 'You lied; you swore an oath'", cluster: oaths}
+  captive-would-mislead-the-way: {label: "The companion warns a freed captive would confuse the paths and prevent their return", cluster: war}
+  born-of-mountain-cave-orphan-of-sun: {label: "A being says his mother and father were caves in the mountains and the sun god left him alone there", cluster: monsters}
+  first-boundary-stones-inscribed: {label: "In primeval days borders were fixed and boundary stones set up and inscribed with names", cluster: civilization}
+  primeval-canals-and-wells-dug: {label: "In primeval days dykes and canals were cleansed, wells dug and the river bed opened", cluster: civilization}
+  kingship-first-exercised-in-city: {label: "The offices of en and king were first exercised in a named city", cluster: kingship}
+  battle-as-inanas-game: {label: "Battle is called the game (dance) of Inana", cluster: war}
+  black-headed-people: {label: "Humanity or the Sumerians called 'the black-headed'", cluster: peoples}
+  king-son-of-sun-god: {label: "The king is called son of the sun god", cluster: kingship}
+  horn-sounded-to-muster-army: {label: "A horn is sounded through the city or lands to muster the levy", cluster: war}
+  army-like-flood-and-dust-to-heaven: {label: "The levy is a flood and a clouded sky; its dust reaches heaven", cluster: war}
+  rebel-land-to-be-destroyed: {label: "A distant land is styled the 'rebel land' to be destroyed", cluster: war}
+  seven-day-march-sixth-day-washing: {label: "After five days of march they wash on the sixth and enter the mountains on the seventh", cluster: travel}
+  king-descends-from-heaven-on-storm: {label: "The king riding a storm steps from heaven to the great earth", cluster: kingship}
+  arrows-flash-like-lightning: {label: "Barbed arrows flash like lightning", cluster: war}
+  seven-heroic-brothers-nursed-by-wild-cow: {label: "Seven heroic brothers born of a goddess, suckled by the Wild Cow and raised at An's table", cluster: heroes}
+  officers-of-hundreds-and-thousands: {label: "Officers each command fixed numbers of men (300, 600, thousands)", cluster: war}
+  eighth-and-youngest-brother-hero: {label: "The hero is the eighth, beyond a group of seven brothers", cluster: heroes}
+  hero-struck-by-sickness-on-journey: {label: "Halfway on the march the hero is struck by sickness and collapses", cluster: sickness}
+  sickness-from-god-who-struck: {label: "Illness attributed to 'the god who struck him', who later steps aside", cluster: sickness}
+  sickbed-furnished-like-funerary-offering: {label: "Food, drink and resins are set by the sick man's head as for a funerary offering", cluster: mourning}
+  grave-goods-food-and-weapons: {label: "Provisions and weapons are laid by the head and chest of one thought dying", cluster: mourning}
+  iron-dagger-from-distant-mountains: {label: "A dagger of iron imported from distant mountains", cluster: technology}
+  no-breath-left-in-body: {label: "They lift his neck and there is no breath left in him", cluster: sickness}
+  brothers-deliberate-over-body: {label: "Companions decide to leave the dying man and carry his corpse home later if he dies", cluster: mourning}
+  sick-man-abandoned-by-companions: {label: "A sick man is left behind by his comrades in a cave with weeping", cluster: sickness}
+  two-and-a-half-days-sick: {label: "The hero lies sick two and a half days before recovery begins", cluster: sickness}
+  weeps-to-god-as-to-father: {label: "The petitioner weeps to the god as to his own father and raises his hands", cluster: prayer}
+  lament-no-mother-no-brother-to-mourn: {label: "Lament in a far place: no mother, father, brother or neighbour is here to weep for me", cluster: prayer}
+  lost-man-worse-than-lost-dog: {label: "Proverb: a lost dog is bad, a lost man is terrible", cluster: wisdom}
+  do-not-let-me-die-like-water-spilled: {label: "Prayer not to perish like water poured out, eat saltpetre for barley, or fall like a throw-stick in the desert", cluster: prayer}
+  inana-as-prostitute-at-tavern: {label: "Inana (evening star) is the prostitute who goes to the tavern and is food to the poor", cluster: gods}
+  astral-deity-lights-dark-place: {label: "A star or moon deity's radiance lights up the dark place where the sufferer lies", cluster: gods}
+  wish-to-be-home-in-native-city: {label: "The sufferer wishes the place were his home and native city", cluster: prayer}
+  moon-god-as-new-moon-and-bull: {label: "The moon god is a shining bull-calf, greeted at the new moon", cluster: gods}
+  god-loves-justice-hates-evil: {label: "The god loves justice and hates evil", cluster: gods}
+  god-out-of-reach-in-distant-heaven: {label: "The god is a king in the distant heaven whom no one can reach", cluster: gods}
+  god-gives-life-and-power-to-stand: {label: "The god gives the sick man life and the power to stand on his feet", cluster: healing}
+  protective-spirits-go-before-and-behind: {label: "A good protective spirit goes ahead and a protective goddess walks behind", cluster: guardianship}
+  sun-god-shepherd-of-the-land: {label: "The sun god is shepherd of the land and father of the black-headed", cluster: gods}
+  people-sleep-and-rise-with-the-sun: {label: "When the sun sleeps the people sleep; when he rises they rise", cluster: cosmology}
+  god-companion-of-lone-traveller: {label: "The god is brother to the one who walks alone and the third of those who travel in pairs", cluster: guardianship}
+  sunlight-clothes-poor-and-naked: {label: "Sunlight clothes the poor, the scoundrel and the naked like a fine garment", cluster: gods}
+  plant-and-water-of-life-revive-hero: {label: "A god makes a plant of life grow and the rivers bring water of life, which revive the hero", cluster: immortality}
+  hero-runs-like-wild-ass: {label: "The revived hero darts over the mountains like a lone wild ass", cluster: heroes}
+  alone-no-one-to-be-seen: {label: "He is alone; as far as the eye can see there is no one", cluster: travel}
+  first-fire-struck-from-flint: {label: "The hero strikes stones together and flint makes a spark, a first kindling of fire", cluster: civilization}
+  first-baking-without-oven: {label: "Not knowing cakes or oven, the hero bakes dough on seven coals", cluster: civilization}
+  wild-animals-graze-aromatic-plants: {label: "Wild bulls and goats chew aromatic resins and cypress as if barley and grass", cluster: animals}
+  hero-captures-wild-bull: {label: "The hero captures a wild bull of the mountains and tethers it", cluster: heroes}
+  two-goats-captured-for-sacrifice: {label: "Two wild goats are captured and fettered for sacrifice", cluster: cult}
+  sleep-personified-as-flood: {label: "Sleep personified: a land of oppression, a flood, a hand demolishing a wall, overpowering the hero", cluster: dreams}
+  dreams-true-for-truthful-lies-for-liar: {label: "A dream speaks lies to the liar and truth to the truthful", cluster: dreams}
+  dream-closed-tablet-basket-of-gods: {label: "The dream is the closed tablet-basket of the gods and Inana's counsellor", cluster: dreams}
+  god-of-dreams-speaks: {label: "The god of dreams himself speaks to the sleeper", cluster: dreams}
+  dream-command-fulfilled-word-for-word: {label: "A command received in a dream is carried out exactly as spoken", cluster: dreams}
+  woke-and-it-was-a-dream: {label: "He awoke, and it was a dream", cluster: dreams}
+  sacrifice-at-sunrise-blood-in-pit: {label: "Animals offered before the rising sun with their blood poured into a pit", cluster: cult}
+  gods-invited-to-banquet-at-pit: {label: "The great gods are made to sit down to a banquet at the sacrificial pit", cluster: cult}
+  roasted-liver-smoke-like-incense: {label: "The roasted livers' smoke rises like incense", cluster: cult}
+  altars-built-on-high-place: {label: "Altars of the sun and moon gods are built on a height", cluster: cult}
+  night-demons-enter-houses: {label: "Demons lie up by day and by night enter house after house and the bedside", cluster: demons}
+  secret-incantation-unknown-to-gods: {label: "An incantation of the sun god that even the great gods do not know", cluster: magic}
+  seven-torches-of-battle: {label: "Seven (or fourteen) 'torches of battle' favoured by Inana blaze at night", cluster: war}
+  wicked-and-just-gods: {label: "Some gods are just and some wicked with evil hearts, interpreters of spoken evil", cluster: gods}
+  battle-net-spread-across-sky: {label: "A battle-net is spread from the horizon to the zenith", cluster: war}
+  speaking-in-ones-heart: {label: "A character deliberates by speaking to himself in his heart", cluster: speech}
+  hero-plans-to-win-favour-of-monster-bird: {label: "The hero plans to win the favour of a monstrous bird by honouring its family", cluster: heroes}
+  beer-goddess-ninkasi-serves: {label: "The beer goddess with vats of lapis and silver serves the beer", cluster: gods}
+  cosmic-tree-shade-covers-mountains: {label: "A god's great tree on a sacred mountain covers the mountains with its shade like a cloak", cluster: cosmology}
+  tree-roots-in-river-of-seven-mouths: {label: "The great tree's roots rest like snakes in the river of seven mouths", cluster: cosmology}
+  place-without-snake-or-scorpion: {label: "A place where no snake slithers and no scorpion stings", cluster: paradise}
+  monster-bird-cry-shakes-mountains: {label: "At the monster bird's cry the ground quakes and wild animals flee", cluster: monsters}
+  honey-cakes-of-the-gods: {label: "Celestial cakes of the gods kneaded with honey", cluster: food}
+  hero-feeds-and-adorns-chick: {label: "The hero feeds a monster's chick, paints its eyes with kohl and crowns it with cedar", cluster: heroes}
+  monster-bird-carries-wild-bulls: {label: "The giant bird carries a live bull in its talons and a dead one on its shoulders", cluster: monsters}
+  repeated-call-unanswered: {label: "A parent calls repeatedly to the nest and the young does not answer", cluster: literary-form}
+  cry-reaches-heaven-and-abzu: {label: "A cry of grief reaches heaven and the abzu, and the gods hide in crevices like ants", cluster: gods}
+  who-has-taken-my-child: {label: "A parent cries 'Who has taken my child from its nest?'", cluster: family}
+  nest-made-like-gods-dwelling: {label: "The parent finds the nest festooned like a god's dwelling", cluster: cult}
+  anzud-bars-mountains-like-door: {label: "The bird, sent by Enlil, bars the mountains like a great door and decides the destiny of rivers", cluster: monsters}
+  fate-decreed-cannot-be-altered: {label: "'If I fix a fate, who can alter it? If I speak, who can change it?'", cluster: fate}
+  if-god-or-man-conditional-reward: {label: "'If you are a god I will befriend you; if a man I will fix your fate'", cluster: fate}
+  praise-of-monster-bird-body: {label: "Flattering praise of the bird's body: wings a net across the sky, talons a trap, back a palm garden", cluster: speech}
+  grandfather-set-heaven-in-hand-earth-at-feet: {label: "A god put heaven in the creature's hand and earth at its feet", cluster: kingship}
+  adoption-formula-you-are-my-father: {label: "Adoption formula: 'your wife shall be my mother, you my father, your little ones my brothers'", cluster: family}
+  refuge-under-protection-of-wings: {label: "The fugitive entrusts his life to the protection of a great bird", cluster: guardianship}
+  hero-refuses-offered-gifts: {label: "The hero refuses each offered gift (wealth, weapons, plenty) in turn", cluster: heroes}
+  wilful-ox-and-balking-ass-proverb: {label: "Proverb: the wilful ox must be put back in the furrow, the balking ass on the straight path", cluster: wisdom}
+  wish-granted-by-supernatural-patron: {label: "A supernatural patron promises to fix a destiny according to the hero's wish", cluster: fate}
+  gift-of-tireless-running: {label: "The hero is granted tireless running power, moving like sunlight, storm and lightning", cluster: heroes}
+  curser-shall-not-rejoice: {label: "Blessing: whoever curses you shall have no joy of it, whoever challenges you shall not prevail", cluster: blessing}
+  vow-of-statue-for-patron: {label: "The hero vows to have woodcarvers make statues of his patron to make its name famous", cluster: cult}
+  blessing-repeats-request-word-for-word: {label: "The patron grants the request by repeating it word for word as a blessing", cluster: blessing}
+  bird-above-hero-below-spy-the-army: {label: "The bird flies above and the hero walks below; each spies the army from his level", cluster: travel}
+  divine-gift-must-be-kept-secret: {label: "The hero is told not to reveal his gift or destiny to comrades or brothers", cluster: revelation}
+  return-of-one-presumed-dead: {label: "A comrade given up for dead returns to his astonished companions", cluster: heroes}
+  land-of-no-return-mountains: {label: "The great mountains where no one goes alone and from which no one returns to mankind", cluster: underworld}
+  concealing-truth-with-cover-story: {label: "The hero hides the true source of his survival behind a fanciful account", cluster: deception}
+  sick-man-fed-and-healed-by-kin: {label: "His brothers feed him like a chick in the nest and drive away his sickness", cluster: healing}
+  army-winds-like-snake: {label: "The army winds through the hills like a snake over a grain pile", cluster: war}
+  missiles-rain-from-walls: {label: "Javelins and slingstones rain from the walls like a year's rain", cluster: war}
+  siege-lasts-full-year: {label: "A siege drags on until the year comes full circle and the harvest yellows", cluster: war}
+  hemmed-in-by-thorns-and-dragons: {label: "The army is hemmed in by mountain thornbushes thronged with dragons", cluster: war}
+  king-afraid-and-troubled: {label: "The king is afraid and troubled in the midst of his army", cluster: kingship}
+  oath-sworn-by-heaven-and-earth: {label: "An oath sworn by heaven and earth", cluster: oaths}
+  king-reproaches-goddess: {label: "The king reproaches his patron goddess for abandoning him", cluster: prayer}
+  city-founded-on-drained-marsh: {label: "The city was built where marsh and reeds were, after a god drained the water", cluster: civilization}
+  wall-like-bird-net-over-desert: {label: "The city wall stretches over the desert like a bird net", cluster: war}
+  deity-abandons-king: {label: "The patron deity has left the king and gone home like a son who hates his mother", cluster: gods}
+  cow-bound-to-calf-simile: {label: "Troops bound to their king as a cow to its calf", cluster: kingship}
+  spear-laid-aside-shield-shattered: {label: "'On that day my spear shall be laid aside, my shield may be shattered'", cluster: war}
+  hero-scorned-like-foreign-dog: {label: "His comrades bark at the hero like a pack at a strange dog", cluster: heroes}
+  journey-of-weeks-done-in-one-day: {label: "A miraculously swift journey: the hero arrives by midnight of the same day", cluster: travel}
+  prostration-before-deity: {label: "The hero bows and prostrates himself on the ground before a deity", cluster: cult}
+  goddess-looks-on-hero-as-on-her-son: {label: "The goddess looks on the hero as on her beloved son or shepherd-consort", cluster: gods}
+  river-as-goddesss-waterskin: {label: "A clear river is called the goddess's lapis waterskin", cluster: gods}
+  oracle-with-riddling-instructions: {label: "A deity answers with a riddling oracle prescribing ritual acts for victory", cluster: prophecy}
+  lone-tamarisk-cut-for-bucket: {label: "A single tamarisk standing alone must be cut and made into a bucket", cluster: magic}
+  fish-caught-cooked-offered-to-weapon: {label: "A divine fish is caught, cooked and offered to the goddess's battle-weapon", cluster: magic}
+  enemy-life-force-in-subterranean-waters: {label: "The enemy city's life-force lies in the subterranean waters and can be ended", cluster: magic}
+  smiths-and-craftsmen-carried-off: {label: "The conqueror carries off the city's metalworkers and stone-workers", cluster: war}
+  city-of-lapis-and-red-brick: {label: "A distant city with battlements of lapis and walls of bright red brick", cluster: geography}
 units:
   - id: ane-etcsl-1-8-1-4-1-prologue-huluppu
     tradition: ane-sumerian
@@ -119,7 +361,8 @@ units:
     tagger: "Claude (model), reading the Sumerian"
     read: ["ETCSL 1.8.1.4 1:243-303"]
     tags:
-      - {motif: friends-embrace-and-question, refs: ["ETCSL 1.8.1.4 1:243-246"], note: "gu2-ni gu2-da mu-ni-in-la2 ne mu-un-su-ub-be2; en3 tar-re im-mi-in-kuš2-u3-ne 'they wearied each other with questions'"}
+      - {motif: companions-weary-each-other-with-questions, refs: ["ETCSL 1.8.1.4 1:243-246"], note: "gu2-ni gu2-da mu-ni-in-la2 ne mu-un-su-ub-be2; en3 tar-re im-mi-in-kuš2-u3-ne 'they wearied each other with questions'"}
+      - {motif: weeping-on-necks, refs: ["ETCSL 1.8.1.4 1:243"], note: "gu2-ni gu2-da mu-ni-in-la2 ne mu-un-su-ub-be2: neck bound to neck, they kiss; weeping follows at 1:248"}
       - {motif: order-of-the-netherworld-revealed, refs: ["ETCSL 1.8.1.4 1:245-248"], note: "a2 aĝ2-ĝa2 kur-ra igi bi2-du8 'did you see the order of the nether world?'; 'sit down and weep'"}
       - {motif: body-eaten-by-worms-in-grave, refs: ["ETCSL 1.8.1.4 1:249-252"], note: "[tug2 sumun]-a-gin7 uḫ bi2-in-tag: vermin infest (the body) like an old garment, full of dust; partly restored"}
       - {motif: sitting-in-dust-in-grief, refs: ["ETCSL 1.8.1.4 1:253"], note: "saḫar-ra ba-da-an-tuš"}
@@ -374,3 +617,454 @@ units:
     hints:
       - "God rebukes the slayer of a protected figure: compare 2 Sam 1:14-16 and 2 Sam 4:9-12 (heads brought to David)."
       - "Enlil's leaving through the window (variant J): compare Jer 9:20 (death through the windows)."
+  - id: ane-etcsl-1-8-1-5-1-death-and-utu
+    tradition: ane-sumerian
+    title: Gilgameš's meditation on death in Unug, Enkidu's advice and the seven star-guides (Gilgameš and Ḫuwawa B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version B
+    read: ["ETCSL 1.8.1.5.1 1-50"]
+    tags:
+      - {motif: hero-hailed-by-epithets, refs: ["ETCSL 1.8.1.5.1 1-4"], note: "here opening the poem"}
+      - {motif: corpses-float-in-river, refs: ["ETCSL 1.8.1.5.1 5-9"], note: "unug{ki}-ga lu2 ba-uš2; lu2 a-a ib2-dirig-ge4"}
+      - {motif: underworld-spares-no-one, refs: ["ETCSL 1.8.1.5.1 10-14"], note: "irigal kur nam-gu2-ka-ke4 lu2 la-ba-an-da13-da13-a: 'the great city, the netherworld of destruction (?), spares no one'; no one tall enough to block, broad enough to cover the netherworld"}
+      - {motif: no-man-passes-end-of-life, refs: ["ETCSL 1.8.1.5.1 14"]}
+      - {motif: no-one-tall-enough-to-reach-heaven, refs: ["ETCSL 1.8.1.5.1 12-13"], note: "variant: here it is the underworld (kur) no one can reach over"}
+      - {motif: oath-by-life-of-parents, refs: ["ETCSL 1.8.1.5.1 15-16"], note: "adds diĝir-ĝu10 {d}en-ki en {d}nu-dim2-mud 'my personal god Enki'"}
+      - {motif: patron-god-must-be-informed-before-venture, refs: ["ETCSL 1.8.1.5.1 22-28"]}
+      - {motif: sun-god-crowned-with-lapis, refs: ["ETCSL 1.8.1.5.1 29-30"], note: "suḫ10 za-gin3 mu-un-keše2: Utu binds on a lapis diadem"}
+      - {motif: hero-asks-god-to-be-helper, refs: ["ETCSL 1.8.1.5.1 31-33"]}
+      - {motif: seven-monstrous-brothers-as-guides, refs: ["ETCSL 1.8.1.5.1 38-50"], note: "e-ne-ne an-na mul-la-me-eš ki-a ḫar-ra-an zu-me-eš: they are stars in heaven who know the roads on earth, even to Aratta, like merchants and pigeons"}
+      - {motif: stars-as-guides-of-the-way, refs: ["ETCSL 1.8.1.5.1 45-49"], note: "the seven are identified as stars (mul): probably the Pleiades/Sebettu"}
+    hints:
+      - "Stars that guide travellers: compare Q 6:97 and Q 16:16 ('by the stars they are guided'); the Seven (Pleiades), Amos 5:8 and Job 38:31."
+      - "Death spares no one: compare Ps 89:49 and Eccl 8:8."
+  - id: ane-etcsl-1-8-1-5-1-expedition-sleep-gifts
+    tradition: ane-sumerian
+    title: Levy of the unmarried, the seven ranges, cedar-cutting, the sleep and the gifts of shoes (version B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version B
+    read: ["ETCSL 1.8.1.5.1 51-129"]
+    tags:
+      - {motif: military-exemptions-house-vineyard-bride, refs: ["ETCSL 1.8.1.5.1 51-56"], note: "dam tuku dam-zu-še3 dumu tuku dumu-zu-še3 ... dam nu-tuku dumu nu-tuku: those with wife or children sent home"}
+      - {motif: seven-mountain-ranges-crossed, refs: ["ETCSL 1.8.1.5.1 60-66"]}
+      - {motif: hero-fells-sacred-cedars, refs: ["ETCSL 1.8.1.5.1 67-70"]}
+      - {motif: guardian-monster-radiates-terror, refs: ["ETCSL 1.8.1.5.1 71-72"], note: "me-lem4 ... šu-gur-gin7 i-im-te: the aura comes like a (spear?)"}
+      - {motif: hero-overcome-by-supernatural-sleep, refs: ["ETCSL 1.8.1.5.1 73-85"], note: "here Gilgameš rises from his dream (83, emended from Enkidu)"}
+      - {motif: how-long-will-you-sleep, refs: ["ETCSL 1.8.1.5.1 79-81"]}
+      - {motif: monster-described-mouth-of-dragon-face-of-lion, refs: ["ETCSL 1.8.1.5.1 90-95"], note: "eme-a-ni ur-maḫ lu2 gu7-gin7 uš2 nu-šar2-ra-ge-dam: on his tongue, like a man-eating lion's, blood never dries"}
+      - {motif: gifts-of-flour-water-shoes-and-gems, refs: ["ETCSL 1.8.1.5.1 101-103", "ETCSL 1.8.1.5.1 111-113"], note: "tiny shoes for tiny feet, big shoes for big feet"}
+      - {motif: deceptive-offer-of-kinship, refs: ["ETCSL 1.8.1.5.1 99-113"], note: "oath by parents and personal god introduces each gift; lines 104-107, 116-128 missing"}
+  - id: ane-etcsl-1-8-1-5-1-capture-broken-oath
+    tradition: ane-sumerian
+    title: Ḫuwawa captured, accuses Gilgameš of perjury, is pitied; Enkidu objects; Ḫuwawa born of a mountain cave (version B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: version B
+    read: ["ETCSL 1.8.1.5.1 130-168"]
+    tags:
+      - {motif: guardian-surrenders-powers-one-by-one, refs: ["ETCSL 1.8.1.5.1 130"], note: "me-lem4 7-kam-ma: auras, not terrors"}
+      - {motif: feigned-kiss-then-blow, refs: ["ETCSL 1.8.1.5.1 131"], note: "here only the blow: ĝeštug-a-ni tibir bi2-in-ra 'struck him on the ear'"}
+      - {motif: captive-bound-like-wild-bull, refs: ["ETCSL 1.8.1.5.1 133-134"]}
+      - {motif: hero-and-foe-weep-together, refs: ["ETCSL 1.8.1.5.1 135-136"]}
+      - {motif: hero-accused-of-breaking-oath, refs: ["ETCSL 1.8.1.5.1 137-141"], note: "ur-saĝ-e lul mu-e-sig10 ... nam-erim2 mu-e-kud: 'warrior, you lied ... you swore an oath'"}
+      - {motif: victor-pities-captive-foe, refs: ["ETCSL 1.8.1.5.1 142-146"], note: "freed captive as guide: lu2 zu-me ḫe2-a dur2 kaskal-la igi me-eb-du8-de3"}
+      - {motif: captive-would-mislead-the-way, refs: ["ETCSL 1.8.1.5.1 152-158"], note: "ur-saĝ dab5-ba šu bar-ra ... en dab5-ba ĝi6-par4-še3 gur-ra ... a-ba-a igi im-mi-in-du8; he would confuse the mountain paths"}
+      - {motif: born-of-mountain-cave-orphan-of-sun, refs: ["ETCSL 1.8.1.5.1 163-166"], note: "ama tud-da-ĝu10 ḫur-ru-um kur-ra / a-a tud-da-ĝu10 ḫur-ru-um ḫur-saĝ-ĝa2 / {d}utu dili-ĝu10-ne ... mu-un-de3-en-tuš-en"}
+    hints:
+      - "Rock and cave as parent: compare Jer 2:27 ('to the stone: you gave me birth') and Deut 32:18."
+      - "Sparing a captive king who then becomes a danger: compare 1 Kgs 20:31-42."
+  - id: ane-etcsl-1-8-2-1-a-prologue-muster
+    tradition: ane-sumerian
+    title: Primeval prologue and Enmerkar's levy against Aratta (Lugalbanda in the mountain cave)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:1-46"]
+    tags:
+      - {motif: heaven-separated-from-earth-primeval, refs: ["ETCSL 1.8.2.1 A:1"], note: "restored: [ud ul an ki-ta ba9-ra2-a-ba]"}
+      - {motif: in-those-days-primordial-opening, refs: ["ETCSL 1.8.2.1 A:1-19"], note: "chain of -a-ba 'when' clauses describing the first age"}
+      - {motif: first-boundary-stones-inscribed, refs: ["ETCSL 1.8.2.1 A:4-5"], note: "ki ba-sur-ra-a-ba ... na ba-du3-a-ba mu ba-sar-ra-a-ba: borders fixed, stones set up and inscribed with names"}
+      - {motif: primeval-canals-and-wells-dug, refs: ["ETCSL 1.8.2.1 A:6-8"], note: "dykes and canals cleansed, wells dug straight, the bed of the Euphrates of Unug opened"}
+      - {motif: kingship-first-exercised-in-city, refs: ["ETCSL 1.8.2.1 A:12-13"], note: "nam-en nam-lugal-la-ke4 unug{ki}-ga-ke4 pa e3 bi2-in-ak"}
+      - {motif: battle-as-inanas-game, refs: ["ETCSL 1.8.2.1 A:14"], note: "me3 ešemen {d}inana-ke4"}
+      - {motif: black-headed-people, refs: ["ETCSL 1.8.2.1 A:15"], note: "saĝ gig2 zi su3-ud-ba: the black-headed blessed with long life"}
+      - {motif: king-son-of-sun-god, refs: ["ETCSL 1.8.2.1 A:19", "ETCSL 1.8.2.1 A:21"], note: "en-me-er-kar2 dumu {d}utu"}
+      - {motif: horn-sounded-to-muster-army, refs: ["ETCSL 1.8.2.1 A:24-27"], note: "niĝir kur-kur-ra si gu3 ba-ni-ra"}
+      - {motif: army-like-flood-and-dust-to-heaven, refs: ["ETCSL 1.8.2.1 A:28-31"], note: "Unug's levy a-ma-ru 'a flood', Kulaba's a clouded sky; dust reaches heaven"}
+      - {motif: rebel-land-to-be-destroyed, refs: ["ETCSL 1.8.2.1 A:22-23"], note: "aratta{ki} kur me sikil-la ... ki-bal gul-gul-de3"}
+    hints:
+      - "Ancient landmarks fixed: compare Deut 19:14; 32:8 and Prov 22:28."
+      - "Army like a flood and a cloud: compare Jer 46:7-8, Ezek 38:9 and Joel 2:2."
+  - id: ane-etcsl-1-8-2-1-a-march-seven-brothers
+    tradition: ane-sumerian
+    title: The march into the mountains and the seven heroes born of Uraš, with Lugalbanda the eighth
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:47-70"]
+    tags:
+      - {motif: seven-day-march-sixth-day-washing, refs: ["ETCSL 1.8.2.1 A:47-49"], note: "ud 5-am3 ba-zal / [ud 6-kam-ma]-ka a mu-un-tu5-tu5-uš / ud 7-kam-ma kur-ra ba-an-sun5-ne-eš; day 6 partly restored"}
+      - {motif: king-descends-from-heaven-on-storm, refs: ["ETCSL 1.8.2.1 A:52-54"], note: "en-bi ulu3-a u5-a-ni ... an-ta ki gal-la gub-ba-am3: riding the storm, he stands from heaven on the great earth"}
+      - {motif: arrows-flash-like-lightning, refs: ["ETCSL 1.8.2.1 A:55-58"], note: "ti zu2 nim-gin7 mu-na-ĝir2-ĝir2-re; the axe like a dog eating a corpse"}
+      - {motif: seven-heroic-brothers-nursed-by-wild-cow, refs: ["ETCSL 1.8.2.1 A:59-63"], note: "7-be2-ne {d}uraš-e tud-da immal2 ga gu7-me-eš: born of Uraš, suckled by the Wild Cow, raised at An's table"}
+      - {motif: officers-of-hundreds-and-thousands, refs: ["ETCSL 1.8.2.1 A:64-70"], note: "ugula of 300, nu-banda3 of 600, šagina of 7 šar (25,200) each"}
+    hints:
+      - "Officers over thousands and hundreds: compare Exod 18:21-25 and Deut 1:15."
+      - "God riding the storm and lightning-arrows: compare Ps 18:10-15, Ps 68:5 and Hab 3:11."
+  - id: ane-etcsl-1-8-2-1-a-sick-abandoned
+    tradition: ane-sumerian
+    title: Lugalbanda falls sick on the way and is left for dead in a mountain cave with provisions
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:71-140"]
+    tags:
+      - {motif: eighth-and-youngest-brother-hero, refs: ["ETCSL 1.8.2.1 A:71"], note: "lugal-ban3-da 8-kam-ma-ne-ne"}
+      - {motif: hero-struck-by-sickness-on-journey, refs: ["ETCSL 1.8.2.1 A:75-80"], note: "kaskal mu-un-sa9: halfway; tur5 ... saĝ gig 'head-sickness'; writhes like a snake, bites the dust like a gazelle in a snare"}
+      - {motif: sickness-from-god-who-struck, refs: ["ETCSL 1.8.2.1 A:124"], note: "diĝir niĝ2 mu-ni-ra-a-ni: the god who struck him (he steps aside at A:236)"}
+      - {motif: sickbed-furnished-like-funerary-offering, refs: ["ETCSL 1.8.2.1 A:87-115"], note: "dates, figs, cheese, beer, wine, resins at his head 'as for the holy place, the valued place' (ki kug ki kal-kal-la-aš); axe of tin and dagger of iron (an-bar) laid by him"}
+      - {motif: grave-goods-food-and-weapons, refs: ["ETCSL 1.8.2.1 A:102", "ETCSL 1.8.2.1 A:110-115"]}
+      - {motif: iron-dagger-from-distant-mountains, refs: ["ETCSL 1.8.2.1 A:113-114"], note: "ĝiri2 ur2-ra-ka-ni an-bar-sug4-ga-am3 / ḫur-saĝ gig2-ta: dagger of (meteoric?) iron from the Black Mountains"}
+      - {motif: no-breath-left-in-body, refs: ["ETCSL 1.8.2.1 A:116-120"], note: "gu2-ni un-zig3-ge-eš zi nu-um-me: they lifted his neck, there was no breath"}
+      - {motif: brothers-deliberate-over-body, refs: ["ETCSL 1.8.2.1 A:121-132"], note: "if he rises like Utu from bed ... if Utu calls him to the holy place, we will bring his corpse (ad6) to Kulaba"}
+      - {motif: sick-man-abandoned-by-companions, refs: ["ETCSL 1.8.2.1 A:133-140"], note: "like a bull left in the pen in old age; they leave him in ḫur-ru-um kur-ra weeping"}
+    hints:
+      - "Youngest brother as the chosen hero: compare 1 Sam 16:10-13 (David the eighth son, 1 Sam 17:12) and Gen 37."
+      - "Food placed for the dead: compare Deut 26:14 and Sir 30:18; Tob 4:17."
+      - "Abandoned sick man revived: compare 1 Sam 30:11-13."
+  - id: ane-etcsl-1-8-2-1-a-prayer-to-utu
+    tradition: ane-sumerian
+    title: Lugalbanda's prayer to Utu from the mountain cave
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:141-172"]
+    tags:
+      - {motif: two-and-a-half-days-sick, refs: ["ETCSL 1.8.2.1 A:141-142"], note: "ud 2-am3 ... ud MAŠ-am3 ba-an-taḫ"}
+      - {motif: weeps-to-god-as-to-father, refs: ["ETCSL 1.8.2.1 A:148-150"], note: "a-a tud-da-na-gin7 er2 ba-ši-in-pad3; raises his fair hands (šu sag9-sag9-ga-ni ... zi-zi)"}
+      - {motif: lifting-hands-in-prayer, refs: ["ETCSL 1.8.2.1 A:150"]}
+      - {motif: lament-no-mother-no-brother-to-mourn, refs: ["ETCSL 1.8.2.1 A:155-159"], note: "ama-ĝu10 a dumu-ĝu10 nu-um-me / šeš-ĝu10 a šeš-ĝu10 nu-um-me"}
+      - {motif: lost-man-worse-than-lost-dog, refs: ["ETCSL 1.8.2.1 A:162-164"], note: "ur nu-zu ḫul-a lu2 nu-zu ḫuš-am3"}
+      - {motif: do-not-let-me-die-like-water-spilled, refs: ["ETCSL 1.8.2.1 A:165-170"], note: "a-gin7 ki-lul-la nam-ma-e; eat saltpetre as barley; fall like a throw-stick in the desert; scorn of brothers"}
+      - {motif: tears-accepted-as-offering, refs: ["ETCSL 1.8.2.1 A:171-172"], note: "{d}utu er2-na šu ba-an-ši-in-ti; sends his zi-šag4-ĝal2 'life-giving spirit'"}
+    hints:
+      - "Prayer from isolation and abandonment: compare Ps 27:10 ('though father and mother forsake me'), Ps 88:9,19 and Jonah 2:3-8."
+      - "Like water spilled on the ground: compare 2 Sam 14:14 and Ps 22:15."
+  - id: ane-etcsl-1-8-2-1-a-prayers-inana-suen
+    tradition: ane-sumerian
+    title: Inana as evening star and Suen as moon hear Lugalbanda; hymn to the just moon-god
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:173-227"]
+    tags:
+      - {motif: inana-as-prostitute-at-tavern, refs: ["ETCSL 1.8.2.1 A:173-175"], note: "kar-ke4 eš2-dam-še3 ed2-da ki-nu2 dug3-dug3-ge-da: the prostitute who goes out to the tavern; 'food of the poor man'"}
+      - {motif: astral-deity-lights-dark-place, refs: ["ETCSL 1.8.2.1 A:177-179", "ETCSL 1.8.2.1 A:210-211"], note: "muš3-a-ni ḫur-ru-um kur-ra-kam ud mu-un-na-ĝa2-ĝa2"}
+      - {motif: weeps-to-god-as-to-father, refs: ["ETCSL 1.8.2.1 A:180-182", "ETCSL 1.8.2.1 A:212-214"]}
+      - {motif: wish-to-be-home-in-native-city, refs: ["ETCSL 1.8.2.1 A:183-186"], note: "{d}inana e2-ĝu10 ḫe2-me-a iri{ki}-ĝu10 ḫe2-me-a ... muš-gin7 ... ĝiri2-gin7 ki-in-dar"}
+      - {motif: sleep-in-safety-under-god, refs: ["ETCSL 1.8.2.1 A:197-199"], note: "zi-šag4-ĝal2-la {d}utu u3-sa2-gin7 ba-an-ku; heart's joy covers him like a garment"}
+      - {motif: moon-god-as-new-moon-and-bull, refs: ["ETCSL 1.8.2.1 A:201-209"], note: "gud-de3 tu7 gig2-ga gu7-da, mul amar kug; {d}suen ud-sakar-e silim dug4-ga"}
+      - {motif: god-loves-justice-hates-evil, refs: ["ETCSL 1.8.2.1 A:215-225"], note: "lugal-e niĝ2-si-sa2-e ki aĝ2 niĝ2-erim2-e ḫul gig; spits venom at evil like a snake"}
+      - {motif: god-out-of-reach-in-distant-heaven, refs: ["ETCSL 1.8.2.1 A:215-216"], note: "lugal an su3-ra2 nu-mu-ra-teĝ3-ĝe26-da"}
+      - {motif: god-gives-life-and-power-to-stand, refs: ["ETCSL 1.8.2.1 A:226-227"], note: "nam-til3 mu-na-šum2; ĝiri3-ni ĝiri3 ki us2-sa ba-an-taḫ"}
+    hints:
+      - "God loves righteousness and hates wickedness: Ps 45:8; Ps 11:5-7; Ps 33:5."
+      - "Sleep given by God: Ps 3:6; Ps 4:9; Ps 127:2."
+      - "God sets the feet firm: Ps 18:34; Ps 40:3."
+  - id: ane-etcsl-1-8-2-1-a-hymn-to-utu
+    tradition: ane-sumerian
+    title: The sun rises again, the protective gods attend him, and Lugalbanda's hymn to Utu
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:228-263"]
+    tags:
+      - {motif: protective-spirits-go-before-and-behind, refs: ["ETCSL 1.8.2.1 A:234-235"], note: "{d}udug sag9-ga-ni an-ta im-ta-la2 / {d}lamma sag9-ga-ni eĝer-a-na ba-e-ĝen"}
+      - {motif: sickness-from-god-who-struck, refs: ["ETCSL 1.8.2.1 A:236"], note: "the striking god steps aside / goes out of him"}
+      - {motif: weeps-to-god-as-to-father, refs: ["ETCSL 1.8.2.1 A:237-239"]}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["ETCSL 1.8.2.1 A:240"], note: "{d}utu sipad kalam-ma a-a saĝ gig2-ga"}
+      - {motif: people-sleep-and-rise-with-the-sun, refs: ["ETCSL 1.8.2.1 A:241-244"], note: "without you no net is stretched for a bird, no slave taken captive"}
+      - {motif: god-companion-of-lone-traveller, refs: ["ETCSL 1.8.2.1 A:245-246"], note: "lu2 dili du-ur2 šeš-tab-ba-ni-me-en / {d}utu lu2 2 du 3-kam-ma-bi za-e-me-en: 'the third of those who go in pairs'"}
+      - {motif: sunlight-clothes-poor-and-naked, refs: ["ETCSL 1.8.2.1 A:248-250"], note: "the poor, the scoundrel and the naked are clothed by sunshine like a zulumḫi garment; it covers even debt-slaves"}
+      - {motif: hymnic-closing-praise-of-hero, refs: ["ETCSL 1.8.2.1 A:262-263"], note: "here of the god: i-lu-zu dug3-ga ... ur-saĝ dumu {d}nin-gal-la me-teš2 am3-i-i-ne"}
+    hints:
+      - "Two travellers with God as the third: compare Q 58:7 ('no three converse in secret but He is their fourth') and Q 9:40 ('the second of two')."
+      - "Angel going before: compare Exod 23:20; Ps 139:5 ('behind and before'); Isa 52:12 (God your rear-guard)."
+      - "Sun that shines on all: compare Matt 5:45, Ps 19:7 and Ps 104:22-23 (people go out when the sun rises)."
+  - id: ane-etcsl-1-8-2-1-a-plants-of-life-fire
+    tradition: ane-sumerian
+    title: Plants and water of life; Lugalbanda strikes fire from flint and bakes cakes
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:264-299"]
+    tags:
+      - {motif: plant-and-water-of-life-revive-hero, refs: ["ETCSL 1.8.2.1 A:265-270"], note: "u2 nam-til3-la i-im-tud ... a nam-til3-la im-tum3: the rivers, 'mothers of the hills', bring water of life"}
+      - {motif: hero-runs-like-wild-ass, refs: ["ETCSL 1.8.2.1 A:271-275"], note: "dur3 dili du-e {d}šakkan2-na-ke4: like a lone wild ass of Šakkan"}
+      - {motif: alone-no-one-to-be-seen, refs: ["ETCSL 1.8.2.1 A:278"], note: "1-a-ni-im lu2 igi niĝin lu2 nu-mu-un-da-bar-re"}
+      - {motif: first-fire-struck-from-flint, refs: ["ETCSL 1.8.2.1 A:287-291"], note: "{na4}zu2 sal-la izi bi2-in-[…]: fine flint makes a spark; the fire shone over the waste like the sun"}
+      - {motif: first-baking-without-oven, refs: ["ETCSL 1.8.2.1 A:292-299"], note: "{ninda}gug2 du8 nu-zu {im}šu-rin-na nu-zu / ne-mur 7-ta: not knowing cakes or oven, he bakes with seven coals; garnished with date syrup"}
+    hints:
+      - "Water of life from the rivers: compare Ezek 47:9-12, Zech 14:8 and Q 21:30 ('from water every living thing')."
+      - "Elijah revived in the wilderness with cake baked on coals: 1 Kgs 19:5-8."
+      - "Wild ass running free: compare Job 39:5-8 and Gen 16:12."
+  - id: ane-etcsl-1-8-2-1-a-wild-bull-goats
+    tradition: ane-sumerian
+    title: Lugalbanda traps a wild bull and two goats and tethers them
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:300-325B"]
+    tags:
+      - {motif: wild-animals-graze-aromatic-plants, refs: ["ETCSL 1.8.2.1 A:300-307", "ETCSL 1.8.2.1 A:314-319"], note: "they chew šim-gig as if it were barley, grind cypress wood like esparto, belch from ilinnuš, 'the pure plant of the mountains'"}
+      - {motif: hero-captures-wild-bull, refs: ["ETCSL 1.8.2.1 A:308-313"], note: "tethered with a halter (saman) to an uprooted juniper"}
+      - {motif: two-goats-captured-for-sacrifice, refs: ["ETCSL 1.8.2.1 A:320-325"], note: "maš2 su4 maš2-ud5 ... ḪAR-GAM-še3 bi2-in-la2"}
+    hints:
+      - "Animal caught for sacrifice in the wild: compare Gen 22:13 (ram caught in the thicket)."
+  - id: ane-etcsl-1-8-2-1-a-dream-sacrifice
+    tradition: ane-sumerian
+    title: Sleep and the dream-god Zangara command a sacrifice, which Lugalbanda performs at sunrise
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:326-370"]
+    tags:
+      - {motif: sleep-personified-as-flood, refs: ["ETCSL 1.8.2.1 A:327-336"], note: "u3-sa2-ge kur nam-gu2-ka3-ke4: sleep, the land of oppression; like a flood, a hand demolishing a brick wall; 'knows no overseer, no captain'; via Ninkasi's beer cask"}
+      - {motif: incubation-dream-at-sanctuary, refs: ["ETCSL 1.8.2.1 A:337-340"], note: "loose fit: no sanctuary, but a prepared bed (ilinnuš, zulumḫi garment, white linen); lugal u3-sa2-ge la-ba-an-nu2-a ma-mu2-de3 ba-nu2 'he lay down not to sleep but to dream'"}
+      - {motif: dreams-true-for-truthful-lies-for-liar, refs: ["ETCSL 1.8.2.1 A:342"], note: "lul-da lul di-da zid-da zid di-dam"}
+      - {motif: dream-closed-tablet-basket-of-gods, refs: ["ETCSL 1.8.2.1 A:344-347"], note: "{gi}pisaĝ kad5 diĝir-re-e-ne-kam; bedchamber of Ninlil, counsellor of Inana; gu3 lu2 nu-til3-la 'voice of one not alive'"}
+      - {motif: god-of-dreams-speaks, refs: ["ETCSL 1.8.2.1 A:348-360"], note: "{d}za-an-gar3-ra diĝir ma-mu2-da-ke4 bellows like a bull and lows like a calf"}
+      - {motif: dream-command-fulfilled-word-for-word, refs: ["ETCSL 1.8.2.1 A:351-370"], note: "the dream's instructions are repeated verbatim as performed"}
+      - {motif: woke-and-it-was-a-dream, refs: ["ETCSL 1.8.2.1 A:361-362"], note: "i-im-zig3 ma-mu2-da im-bu-lu-uḫ3 u3-sa2-ga-am3"}
+      - {motif: sacrifice-at-sunrise-blood-in-pit, refs: ["ETCSL 1.8.2.1 A:356-358", "ETCSL 1.8.2.1 A:366-370"], note: "offered before the rising sun ({d}utu e3-a-ra); heads heaped like barley; blood poured into the pit (si-dug4) so its smell spreads; snakes of the mountains sniff it"}
+    hints:
+      - "Dream at night after which a sacrifice is performed: compare Gen 28:10-22 (Jacob wakes: 'surely YHWH is in this place') and 1 Kgs 3:5-15 ('he awoke and it was a dream')."
+      - "True and false dreams: compare Jer 23:25-32 and Deut 13:2-6; Q 12:43-44 ('confused dreams')."
+      - "Blood poured into a pit: compare Lev 17:13 (cover the blood with earth) and Odyssey 11."
+  - id: ane-etcsl-1-8-2-1-a-banquet-for-gods
+    tradition: ane-sumerian
+    title: Lugalbanda's banquet for An, Enlil, Enki and Ninḫursaĝa, and the altars of Utu and Suen
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:371-393"]
+    tags:
+      - {motif: gods-invited-to-banquet-at-pit, refs: ["ETCSL 1.8.2.1 A:372-376"], note: "an {d}en-lil2 {d}en-ki {d}nin-ḫur-saĝ-ĝa2-ke4 si-dug4-ta ĝišbun-na im-ma-ni-in-dur2-ru"}
+      - {motif: libation-of-wine, refs: ["ETCSL 1.8.2.1 A:376-379"], note: "dark beer, emmer beer, wine; cool water poured on the plain"}
+      - {motif: roasted-liver-smoke-like-incense, refs: ["ETCSL 1.8.2.1 A:380-382"], note: "ur5 niĝ2 gig2 izi im-mi-ni-in-si / na-izi sig9-ga-gin7 i-bi2-bi bi2-in-mu2"}
+      - {motif: pleasing-odor-to-god, refs: ["ETCSL 1.8.2.1 A:383-385"], note: "as when Dumuzid brings the good smells (ir dug3-ga) of the pen, the gods ate the best of the food"}
+      - {motif: altars-built-on-high-place, refs: ["ETCSL 1.8.2.1 A:386-389"], note: "barag {d}utu barag {d}suen-na-ka igi-nim-še3 ba-du3; decorated with Inana's lapis"}
+    hints:
+      - "Gods smell the savour of sacrifice: compare Gen 8:20-21 and Gilg SB XI 159-161."
+      - "Sacrifice and altar after a revelatory dream in the wilderness: Gen 28:18-22; Gen 35:7."
+  - id: ane-etcsl-1-8-2-1-a-seven-demons-torches
+    tradition: ane-sumerian
+    title: The night-demons and the seven (fourteen) torches of battle (fragmentary close)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.1 A:394-499", "ETCSL 1.8.2.1 B:1-7"]
+    tags:
+      - {motif: night-demons-enter-houses, refs: ["ETCSL 1.8.2.1 A:406-421"], note: "they lie up by day and by night enter house after house (e2-e2-a i-im-ku4-ku4-ne), peer into streets, nestle at bedsides, tie the door-pivots; translation free, many signs unclear"}
+      - {motif: secret-incantation-unknown-to-gods, refs: ["ETCSL 1.8.2.1 A:426-428", "ETCSL 1.8.2.1 A:434-436"], note: "ka-inim-ma ... šul {d}utu-kam / {d}a-nun-na diĝir gal-gal-e-ne nu-mu-un-zu-uš-a"}
+      - {motif: seven-torches-of-battle, refs: ["ETCSL 1.8.2.1 A:463-471"], note: "me3 izi-ĝar-bi 14-me-eš ... izi-ĝar me3 7-me-eš: favoured by Inana, they flash like lightning at dead of night"}
+      - {motif: astral-deity-lights-dark-place, refs: ["ETCSL 1.8.2.1 A:484"], note: "mul ud zal-le-da-ke4 an-na mul: the morning star"}
+      - {motif: wicked-and-just-gods, refs: ["ETCSL 1.8.2.1 A:487-493"], note: "diĝir si sa2 ... diĝir erim2-du šag4 niĝ2-erim2 ĝal2 ... niĝ2-erim2 dug4-ga ensi-bi-me-eš / niĝ2-a2-zig3-ga igi du8-bi: interpreters of spoken evil, spies of violence"}
+      - {motif: battle-net-spread-across-sky, refs: ["ETCSL 1.8.2.1 A:497-499"], note: "an-ur2 an-pa sa-par3: net from horizon to zenith; B:1-7 only signs"}
+    hints:
+      - "Destroyer entering houses by night: compare Exod 12:23 and Jer 9:20 (death climbing in at the windows); Ps 91:5-6."
+      - "Seven spirits / seven lamps: compare Zech 4:2,10 and Rev 4:5."
+  - id: ane-etcsl-1-8-2-2-alone-plans-anzud
+    tradition: ane-sumerian
+    title: Lugalbanda alone in the Zabu mountains plans to win over the Anzud bird (Lugalbanda and the Anzud bird)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 1-27"]
+    tags:
+      - {motif: lament-no-mother-no-brother-to-mourn, refs: ["ETCSL 1.8.2.2 3-6"], note: "ama nu-mu-un-da-an-ti na nu-mu-un-de5-de5 / a-a nu-mu-un-da-an-ti: no mother to advise, no father to speak, no confidant"}
+      - {motif: speaking-in-ones-heart, refs: ["ETCSL 1.8.2.2 7"], note: "šag4 ni2-te-na-ka inim am3-mi-ib2-sig10-ge"}
+      - {motif: hero-plans-to-win-favour-of-monster-bird, refs: ["ETCSL 1.8.2.2 8-12", "ETCSL 1.8.2.2 24-27"], note: "treat the bird as befits him, greet his wife, seat wife and child at a banquet so Anzud will put him on his brothers' track"}
+      - {motif: beer-goddess-ninkasi-serves, refs: ["ETCSL 1.8.2.2 13-23"], note: "{d}nin-ka-si: fermenting vat of lapis, cask of silver and gold; 'if she stands by the beer there is joy'"}
+  - id: ane-etcsl-1-8-2-2-eagle-tree-anzud
+    tradition: ane-sumerian
+    title: Enki's 'eagle'-tree on Inana's mountain and the nest of the Anzud bird
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 28-49"]
+    tags:
+      - {motif: cosmic-tree-shade-covers-mountains, refs: ["ETCSL 1.8.2.2 28-33"], note: "giri17-zal ĝiš-ḫu-ri2-in {d}en-ki-ke4 on the cornelian mountain of Inana, standing like a tower; its shade covers the mountains like a cloak"}
+      - {motif: tree-roots-in-river-of-seven-mouths, refs: ["ETCSL 1.8.2.2 34-35"], note: "roots like saĝkal snakes in id2 ka 7 {d}utu-ka 'Utu's river of seven mouths'"}
+      - {motif: birds-dwell-in-shade-of-great-tree, refs: ["ETCSL 1.8.2.2 36-43"], note: "the buru-az bird lays eggs, Anzud sets his young in a nest of juniper and box"}
+      - {motif: place-without-snake-or-scorpion, refs: ["ETCSL 1.8.2.2 36-37"], note: "muš nu-un-sul-sul ĝiri2 nu-sa-sa"}
+      - {motif: monster-bird-cry-shakes-mountains, refs: ["ETCSL 1.8.2.2 44-49"], note: "at his cry the ground quakes in the Lulubi mountains; teeth of a shark (kušu2), claws of an eagle; wild bulls and stags flee"}
+    hints:
+      - "Great tree with birds and roots in the waters: compare Ezek 31:3-9 and Dan 4:7-9."
+      - "Mythic bird of terrifying cry: compare Job 39:27-30 and the later Simurgh/Ziz traditions."
+  - id: ane-etcsl-1-8-2-2-chick-fed-parents-grieve
+    tradition: ane-sumerian
+    title: Lugalbanda feeds and adorns the chick; Anzud and his wife cry out when the chick does not answer
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 50-89"]
+    tags:
+      - {motif: honey-cakes-of-the-gods, refs: ["ETCSL 1.8.2.2 51-53"], note: "ninda mu-ud-gi diĝir-re-e-ne-ke4; dough kneaded with honey"}
+      - {motif: hero-feeds-and-adorns-chick, refs: ["ETCSL 1.8.2.2 54-60"], note: "fat and sheep's tallow, kohl (šem-bi-zid) on its eyes, white cedar on its head, salt meat hung up"}
+      - {motif: monster-bird-carries-wild-bulls, refs: ["ETCSL 1.8.2.2 63-67"], note: "a live bull in his talons, a dead one on his shoulders; bile poured out like 10 gur of water"}
+      - {motif: repeated-call-unanswered, refs: ["ETCSL 1.8.2.2 70-77"], note: "the parent calls to the nest; amar-bi gud3-bi-ta inim nu-um-ma-ni-ib-gi4"}
+      - {motif: cry-reaches-heaven-and-abzu, refs: ["ETCSL 1.8.2.2 78-83"], note: "a-nir ... an-e ba-te / u8 ... engur-ra ba-te; the Anuna crawl into crevices like ants"}
+      - {motif: who-has-taken-my-child, refs: ["ETCSL 1.8.2.2 86-89"], note: "amar-ĝu10 gud3-ba a-ba-a ba-ra-ab-tum3"}
+    hints:
+      - "Eagle and her young: compare Deut 32:11 and the Etana myth (eagle's nest in the tree)."
+      - "Cry rising to heaven: compare Exod 2:23 and 1 Sam 5:12."
+  - id: ane-etcsl-1-8-2-2-anzud-vows-blessing
+    tradition: ane-sumerian
+    title: Anzud finds his nest honoured like a god's dwelling and vows to fix the doer's fate
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 90-110"]
+    tags:
+      - {motif: nest-made-like-gods-dwelling, refs: ["ETCSL 1.8.2.2 90-96"], note: "ki diĝir til3-la-gin7 im-ak giri17-zal im-du8-du8"}
+      - {motif: anzud-bars-mountains-like-door, refs: ["ETCSL 1.8.2.2 99-102"], note: "id2 ḫal-ḫal-la nun nam tar-re-bi-me-en; a-a-ĝu10 {d}en-lil2-le ... kur-ra {ĝiš}ig gal-gin7 igi-ba bi2-in-tab-en"}
+      - {motif: fate-decreed-cannot-be-altered, refs: ["ETCSL 1.8.2.2 103-104"], note: "nam u3-mu-tar a-ba-a šu mi-ni-ib-bal-e / inim u3-bi2-dug4 a-ba-a ib2-ta-bal-e"}
+      - {motif: if-god-or-man-conditional-reward, refs: ["ETCSL 1.8.2.2 105-110"], note: "diĝir ḫe2-me-en ... gu5-li-ĝa2 ...; lu2-ulu3 ḫe2-me-en nam ga-mu-ri-ib-tar; name: meš3 anzud{mušen}-de3 a2 šum2-ma 'hero strengthened by Anzud'"}
+      - {motif: name-change-by-god, refs: ["ETCSL 1.8.2.2 110"], note: "loose fit: a new title promised as reward"}
+    hints:
+      - "Who can reverse what God decrees: Isa 14:27; Isa 43:13; Num 23:20; Q 13:41 ('none can reverse his judgment')."
+      - "Kindness to a creature's young rewarded: compare Deut 22:6-7 (sparing the mother bird, 'that it may go well with you')."
+  - id: ane-etcsl-1-8-2-2-flattery-gifts-refused
+    tradition: ane-sumerian
+    title: Lugalbanda praises Anzud and adopts him as father; Anzud's offers of wealth and weapons refused
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 111-166"]
+    tags:
+      - {motif: praise-of-monster-bird-body, refs: ["ETCSL 1.8.2.2 115-124"], note: "wings like a net across the sky, talons a trap for wild bulls, spine straight as a scribe's, breast like Niraḫ parting the waters, back a green palm garden"}
+      - {motif: grandfather-set-heaven-in-hand-earth-at-feet, refs: ["ETCSL 1.8.2.2 118-119"], note: "an šu-zu-še3 mu-un-ĝar ki ĝiri3-zu-še3 mu-un-ĝar"}
+      - {motif: adoption-formula-you-are-my-father, refs: ["ETCSL 1.8.2.2 126-128"], note: "dam-zu ama-ĝu10 ḫe2-am3 ... za-e ad-da-ĝu10 ḫe2-me-en ... di4-di4-la2-zu-ne šeš-ĝu10-ne"}
+      - {motif: refuge-under-protection-of-wings, refs: ["ETCSL 1.8.2.2 125"], note: "zi-ĝu10 mu-ri-de6 zag-ĝu10 mu-ri-us2: 'I brought my life to you, entrusted myself to your side'"}
+      - {motif: hero-refuses-offered-gifts, refs: ["ETCSL 1.8.2.2 132-158"], note: "boats laden with silver, grain, apples, cucumbers; Šara's arrows; Ninurta's helmet and breastplate; Dumuzid's butter-churn of plenty; refrain lugal-ban3-da lu2 numun-e ki aĝ2-am3 šu nu-um-ma-gid2-de3 'Lugalbanda who loves the seed does not accept'"}
+      - {motif: wilful-ox-and-balking-ass-proverb, refs: ["ETCSL 1.8.2.2 163-165"], note: "gud erim2 du-us2-a sig10-ge5-dam / anše dub3 guz-za ḫar-ra-an si sa2 dab5-be2-dam"}
+      - {motif: wish-granted-by-supernatural-patron, refs: ["ETCSL 1.8.2.2 166"], note: "nam tar-ra šag4-ge guru7-a-zu ĝe26-e ga-mu-ri-ib-tar"}
+    hints:
+      - "Refusing riches and weapons for a better gift: compare 1 Kgs 3:5-14 (Solomon asks wisdom, not riches or long life) and Q 27:36 (Solomon refuses the gifts)."
+      - "Shelter under wings: compare Ps 17:8; Ps 91:4; Ruth 2:12."
+  - id: ane-etcsl-1-8-2-2-gift-of-swiftness
+    tradition: ane-sumerian
+    title: Lugalbanda asks for and receives tireless speed; Anzud's command of secrecy
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 167-219"]
+    tags:
+      - {motif: gift-of-tireless-running, refs: ["ETCSL 1.8.2.2 167-177", "ETCSL 1.8.2.2 184-194"], note: "zag-še-ĝa2 kaš4 ḫe2-ĝal2 nam-ba-kuš2-u3-de3-en: running power in the thighs, never tiring; like the sun, Inana, the seven storms of Iškur, a flame, lightning"}
+      - {motif: mount-up-with-wings-like-eagles, refs: ["ETCSL 1.8.2.2 168-170", "ETCSL 1.8.2.2 185-187"], note: "loose fit: the bird grants tireless strength to the runner"}
+      - {motif: curser-shall-not-rejoice, refs: ["ETCSL 1.8.2.2 179-180", "ETCSL 1.8.2.2 196-197"], note: "lu2 aš2 dug4-ga-ĝu10 nam-ba-e-ši-ḫul2-e-en"}
+      - {motif: vow-of-statue-for-patron, refs: ["ETCSL 1.8.2.2 181-183", "ETCSL 1.8.2.2 198-200"], note: "alan-zu ĝiš-dim2-ba um-mi-dim2: woodcarvers will make your statue; your name made famous in Sumer"}
+      - {motif: blessing-repeats-request-word-for-word, refs: ["ETCSL 1.8.2.2 184-200"]}
+      - {motif: bird-above-hero-below-spy-the-army, refs: ["ETCSL 1.8.2.2 205-208"], note: "anzud an-ta i3-ĝen / lugal-ban3-da ki-ta i3-ĝen; the bird sees the troops, the man sees their dust"}
+      - {motif: divine-gift-must-be-kept-secret, refs: ["ETCSL 1.8.2.2 211-217"], note: "gu5-li-zu-ne-er nam-mu-ni-ib-be2-en / šeš-zu-ne-er pa nam-bi2-ib-ed2-en; sag9-ga ḫul šag4-ga ĝal2-la ur5 ḫe2-na-nam-ma 'good fortune can hide evil'"}
+    hints:
+      - "Running and not growing weary: Isa 40:31 (mount up with wings like eagles, run and not weary)."
+      - "Swift as a gazelle: 2 Sam 2:18; 1 Kgs 18:46 (Elijah outruns Ahab's chariot)."
+      - "Tell no one: compare Gen 37:5-11 (Joseph's dream told to his brothers) and Q 12:5 ('do not tell your dream to your brothers')."
+  - id: ane-etcsl-1-8-2-2-return-to-brothers
+    tradition: ane-sumerian
+    title: Lugalbanda rejoins his astonished brothers and hides the source of his survival
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 220-250"]
+    tags:
+      - {motif: return-of-one-presumed-dead, refs: ["ETCSL 1.8.2.2 223-232"], note: "lu2 me3-a ĝiš ra-gin7 erin2-e ḫe2-en-taka4-nam: 'the troops had left you like one killed in battle'"}
+      - {motif: land-of-no-return-mountains, refs: ["ETCSL 1.8.2.2 231-232"], note: "ḫur-saĝ gal lu2 dili nu-du-u3-da / lu2-bi lu2-ra nu-gi4-gi4-da: 'whence no one returns to mankind'"}
+      - {motif: companions-weary-each-other-with-questions, refs: ["ETCSL 1.8.2.2 225-226", "ETCSL 1.8.2.2 233-234", "ETCSL 1.8.2.2 246-247"], note: "en3 tar-re im-mi-in-kuš2-u3-ne; gu2-ni gu2-da im-da-la2-e-ne ne mu-un-su-su-ub"}
+      - {motif: weeping-on-necks, refs: ["ETCSL 1.8.2.2 247"], note: "gu2-ni gu2-da im-da-la2-e-ne ne mu-un-su-su-ub: embrace neck to neck and kiss (no weeping stated)"}
+      - {motif: concealing-truth-with-cover-story, refs: ["ETCSL 1.8.2.2 238-243"], note: "he says he stepped over the rivers, drank them like a waterskin, snarled like a wolf, ate acorns like a pigeon — keeping Anzud's gift secret"}
+      - {motif: sick-man-fed-and-healed-by-kin, refs: ["ETCSL 1.8.2.2 248-250"], note: "like a gamgam chick in its nest they feed him; tur5-ra-ni mu-un-ta-ab-ed3-ne"}
+    hints:
+      - "Return of one given up for dead: compare Gen 45:26-28 (Jacob cannot believe Joseph lives)."
+  - id: ane-etcsl-1-8-2-2-siege-volunteer
+    tradition: ane-sumerian
+    title: The year-long siege of Aratta; Enmerkar seeks a messenger and Lugalbanda alone volunteers
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 251-289"]
+    tags:
+      - {motif: army-winds-like-snake, refs: ["ETCSL 1.8.2.2 251-252"], note: "muš zar-ra-gin7 ḫur-saĝ-ta im-me-re-bal-bal"}
+      - {motif: missiles-rain-from-walls, refs: ["ETCSL 1.8.2.2 256-258"], note: "javelins rain like clouds, slingstones (im-dug) as many as a year's raindrops"}
+      - {motif: siege-lasts-full-year, refs: ["ETCSL 1.8.2.2 259-261"], note: "ud ba-zal-zal itid ba-sud-sud mu ama-bi-ir ba-gi4: the year returned to its mother; the yellow harvest grows"}
+      - {motif: hemmed-in-by-thorns-and-dragons, refs: ["ETCSL 1.8.2.2 263-265"], note: "{ĝiš}kiši16 kur-ra ... ušumgal teš2-bi mu-un-tag-tag-ge"}
+      - {motif: king-afraid-and-troubled, refs: ["ETCSL 1.8.2.2 268-269"], note: "ni2 ba-ni-in-te zi ba-ni-in-ir"}
+      - {motif: whom-shall-i-send, refs: ["ETCSL 1.8.2.2 270-286"], note: "repeated: no one says 'I will go to the city'; lugal-ban3-da dili-ni ... lugal-ĝu10 ĝe26-e iri-še3 ga-ĝen"}
+      - {motif: oath-sworn-by-heaven-and-earth, refs: ["ETCSL 1.8.2.2 289"], note: "zi an-na zi ki-a i3-pad3; not to let go of the great me/emblems of Kulaba; line 288 not in the text"}
+    hints:
+      - "'Here am I, send me': Isa 6:8; compare 2 Sam 18:19-23 (the runner who volunteers)."
+      - "Heaven and earth as oath-witnesses: Deut 4:26; 30:19; 32:1."
+  - id: ane-etcsl-1-8-2-2-message-and-journey
+    tradition: ane-sumerian
+    title: Enmerkar's reproachful message to Inana; the brothers' warning; Lugalbanda crosses seven mountains
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 290-344"]
+    tags:
+      - {motif: king-reproaches-goddess, refs: ["ETCSL 1.8.2.2 290-293"], note: "eme sig {d}inana ba-ni-in-gu7 'he slandered (lit. ate the back of) Inana'"}
+      - {motif: city-founded-on-drained-marsh, refs: ["ETCSL 1.8.2.2 294-302"], note: "Unug was marsh, poplars, reeds; Enki tore out the old reeds, drained the water; mu 50-uš ḫu-mu-du3 'for fifty years I built'"}
+      - {motif: amorites-as-hostile-others, refs: ["ETCSL 1.8.2.2 303-304"], note: "mar-tu lu2 še nu-zu ḫu-mu-zig3 'the Martu, who know no grain, rose up'"}
+      - {motif: wall-like-bird-net-over-desert, refs: ["ETCSL 1.8.2.2 305"]}
+      - {motif: deity-abandons-king, refs: ["ETCSL 1.8.2.2 306-318"], note: "like a son who hates his mother leaving the city, Inana has run off to Kulaba; if she loves the city and hates me ...; abandons me like an Anzud chick"}
+      - {motif: cow-bound-to-calf-simile, refs: ["ETCSL 1.8.2.2 307"], note: "ab2-šilam amar-bi la2-a-gin7 erin2-ĝu10 mu-da-la2"}
+      - {motif: spear-laid-aside-shield-shattered, refs: ["ETCSL 1.8.2.2 319-320"], note: "ĝiš-gid2-da-ĝu10 ud ne ba-an-de6 / {kuš}gur21-ĝu10 ... ba-an-zur-zur-re"}
+      - {motif: hero-scorned-like-foreign-dog, refs: ["ETCSL 1.8.2.2 322-325"], note: "they bark at him like a strange dog joining a pack; he steps proudly like a strange wild ass"}
+      - {motif: protective-spirits-go-before-and-behind, refs: ["ETCSL 1.8.2.2 330-331"], note: "{d}udug sag9-ga-me nam-ba-e-de3-gub-ba / {d}lamma sag9-ga-me nam-ba-e-de3-ĝen-na"}
+      - {motif: land-of-no-return-mountains, refs: ["ETCSL 1.8.2.2 335-336"]}
+      - {motif: seven-mountain-ranges-crossed, refs: ["ETCSL 1.8.2.2 342-344"], note: "from the edge of Anšan to its top: ḫur-saĝ 5 ḫur-saĝ 6 ḫur-saĝ 7 im-me-re-bal-bal"}
+    hints:
+      - "God as the one who drained the waters and made the land: compare Ps 104:5-9; Gen 1:9."
+      - "The deity leaving the king: compare 1 Sam 16:14; 1 Sam 28:15 and Ezek 10:18-19 (glory leaves the temple)."
+      - "Amorite/Bedouin who knows no grain: compare Jer 35:7 (Rechabites sow no seed)."
+  - id: ane-etcsl-1-8-2-2-before-inana
+    tradition: ane-sumerian
+    title: Lugalbanda arrives in Kulaba by midnight and repeats Enmerkar's message before Inana
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 345-387"]
+    tags:
+      - {motif: journey-of-weeks-done-in-one-day, refs: ["ETCSL 1.8.2.2 345-346"], note: "ĝi6 MAŠ-a ... šeg12 kul-aba4{ki}-še3 ĝiri3 ḫul2-la mi-ni-in-gub: arrives by midnight before the offering table is brought"}
+      - {motif: prostration-before-deity, refs: ["ETCSL 1.8.2.2 349"], note: "i3-gam ki-a mu-na-ab-za"}
+      - {motif: goddess-looks-on-hero-as-on-her-son, refs: ["ETCSL 1.8.2.2 350-353", "ETCSL 1.8.2.2 A-F"], note: "as on the shepherd Ama-ušumgal-ana (Dumuzid), as to her son Šara"}
+      - {motif: verbatim-repetition-of-narrative-in-speech, refs: ["ETCSL 1.8.2.2 357-387"], note: "the message is repeated in full"}
+    hints:
+      - "Night journey to a sanctuary: compare Q 17:1 (from the sacred mosque to the farthest mosque by night)."
+  - id: ane-etcsl-1-8-2-2-inana-oracle-tamarisk-fish
+    tradition: ane-sumerian
+    title: Inana's oracle of the lone tamarisk and the suḫurmaš fish; Aratta's craftsmen and lapis walls; praise
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 1.8.2.2 388-417"]
+    tags:
+      - {motif: river-as-goddesss-waterskin, refs: ["ETCSL 1.8.2.2 389-390"], note: "id2 {kuš}ummud za-gin3 {d}inana-ke4"}
+      - {motif: oracle-with-riddling-instructions, refs: ["ETCSL 1.8.2.2 388-408"], note: "the god-fish (ĜIŠ.ŠEŠ diĝir suḫur-maš2) darts among old reeds; tamarisks drink from the pool"}
+      - {motif: lone-tamarisk-cut-for-bucket, refs: ["ETCSL 1.8.2.2 399-402"], note: "{ĝiš}šinig-e bar-ta dili-bi i3-du3 ... {ĝiš}buniĝ-še3 un-dim2"}
+      - {motif: fish-caught-cooked-offered-to-weapon, refs: ["ETCSL 1.8.2.2 404-406"], note: "ku6-bi un-dab5 un-šeĝ6 un-sud / a2-an-kar2 a2 me3 {d}inana-ka u3-bi2-in-gu7"}
+      - {motif: enemy-life-force-in-subterranean-waters, refs: ["ETCSL 1.8.2.2 408"], note: "zi aratta-ka engur-ra ḫe2-ni-in-til"}
+      - {motif: smiths-and-craftsmen-carried-off, refs: ["ETCSL 1.8.2.2 409-412"], note: "iri kug dim2-bi kug-dim2 u3-bi2-in-dab5 / za dim2-ma-bi za-dim2: metalworkers and stoneworkers taken; moulds (agarin4) of Aratta"}
+      - {motif: city-of-lapis-and-red-brick, refs: ["ETCSL 1.8.2.2 413-416"], note: "zag-e3-bi {na4}za-gin3 dur5-ru-am3; bricks of tin-clay from the cypress mountains"}
+      - {motif: hymnic-closing-praise-of-hero, refs: ["ETCSL 1.8.2.2 417"], note: "kug lugal-ban3-da za3-mi2"}
+    hints:
+      - "Carrying off smiths and craftsmen: compare 2 Kgs 24:14-16 and 1 Sam 13:19-22."
+      - "City of precious stones: compare Isa 54:11-12 (lapis foundations) and Rev 21:18-21."
+      - "Tamarisk as sacred tree: Gen 21:33; 1 Sam 22:6; 1 Sam 31:13."
