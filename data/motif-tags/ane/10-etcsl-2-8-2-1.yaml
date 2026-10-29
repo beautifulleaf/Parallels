@@ -1,0 +1,132 @@
+# Full read of the ANE corpus, chunk 10: ETCSL 2.8.2.1 (Hammu-rabi A) - ETCSL 4.07.7 (Inana G). Read from the ETCSL Sumerian composite transliterations.
+new_motifs:
+  god-delights-in-kings-name-as-own: {label: "Prayer that the uttering of the king's name delight the god as much as the uttering of the god's own name", cluster: kingship}
+  god-petitions-divine-assembly-for-king: {label: "The king's patron god asks the assembled great gods to fix a grand destiny for his shepherd, and they name him king", cluster: kingship}
+  king-called-humble-before-gods: {label: "The chosen king is called the humble (sun5) prince acceptable to the gods", cluster: kingship}
+  king-roars-like-storm-god-mouth-like-fire: {label: "The king's battle-roar is like the storm god Iškur and his mouth is the fire god", cluster: kingship}
+  goddess-indispensable-to-divine-decisions: {label: "A goddess without whom the high gods (An and Enlil) cannot take a decision for the land", cluster: theology}
+  no-king-without-goddess: {label: "Without the goddess no king can be made shepherd of the land", cluster: kingship}
+  goddess-adorns-kings-statue: {label: "A goddess looks with joy on the king's statue, gives it beauty and charm and sets it up", cluster: cult}
+  goddess-gives-protective-spirits-for-king: {label: "A goddess gives the king's people protective deities (lamma, alad) to drive back the opposing side", cluster: kingship}
+  kingship-firm-as-heaven-and-earth: {label: "Prayer that the king's kingship be as stable as heaven and earth", cluster: kingship}
+  king-judges-like-sun-god: {label: "The king gives just verdicts like the sun god Utu", cluster: kingship}
+  king-leads-people-as-mother-and-father: {label: "The king leads his people with the shepherd's crook as if he were their mother and father; they look to him as to their parents", cluster: kingship}
+  king-appears-like-moon-over-land: {label: "The king comes forth over the land like the moon god, shining like the Barge of Heaven, and the people pray to him", cluster: kingship}
+  god-prays-for-king: {label: "A great god or goddess prays (šudu3) on the king's behalf, from an overflowing heart or to her husband in the bedchamber", cluster: kingship}
+  enemies-delivered-into-kings-hand: {label: "Prayer that a god deliver the king's enemies, or numerous people, into his hand", cluster: warfare}
+  divine-minister-ushers-king-before-god: {label: "The chief god's minister (Nuska) leads the king with his offerings into the temple and before the god's shining face", cluster: cult}
+  foreign-lands-placed-under-kings-feet: {label: "The high god places the foreign lands at (under) the king's feet", cluster: kingship}
+  kings-destiny-never-altered: {label: "The king is one whose fate the high god never alters", cluster: kingship}
+  interlinear-akkadian-gloss: {label: "A Sumerian composition is copied with an interlinear Akkadian translation or gloss", cluster: scribal}
+  supreme-rule-over-heaven-and-earth-given-to-marduk: {label: "The high gods (An, Enlil) give Marduk the supervision of heaven and earth, the sceptre, the rites of the gods and kingship over all, with no rival", cluster: theology}
+  goddess-speaks-in-emesal: {label: "A goddess (or her attendants) speaks in Emesal, the register of Sumerian used for goddesses and women", cluster: language}
+units:
+  - id: ane-etcsl-2-8-2-1-hammurabi-a
+    tradition: ane-sumerian
+    title: A praise poem of Hammu-rabi (Hammu-rabi A), fragments
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.2.1"]
+    tags:
+      - {motif: each-god-gives-king-a-gift, refs: ["ETCSL 2.8.2.1 A:14-23"], note: "after 'ḫa-am-mu-ra-bi lugal' a run of gods each with a gift: Gibil, Enlil nam-a-ni-še3, Enki nam-ur-[saĝ], Suen, Utu maš-maš 'the incantation priest', Iškur nam-ur-saĝ, Marduk nam-kalag, Inana me; the gifts are mostly broken"}
+      - {motif: black-headed-people, refs: ["ETCSL 2.8.2.1 A:10", "ETCSL 2.8.2.1 F:21"], note: "saĝ gig2-ga"}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.8.2.1 A:11-13"], note: "interpretive: the realm marked by the Euphrates, the Tigris and the bank of the Irnina, where something is built (garaš2 bi-ib2-du3{?})"}
+      - {motif: king-statue-set-before-god, refs: ["ETCSL 2.8.2.1 D:10"], note: "fragmentary 'alan-zu la-ba-da-an-kur9-re', 'your statue shall not be brought in'; context lost"}
+      - {motif: gods-escort-king-on-road, refs: ["ETCSL 2.8.2.1 F:2-5"], note: "very broken: Marduk 'in the midst of the great gods' (mu-ru-ub diĝir gal-gal-e-ne), with a curse (aš2 gig-ga) and great wrath (ib2-ba gu-la); the tag is tentative"}
+    hints:
+      - "Gods each contributing a gift to the king compare the prologue of the Laws of Hammurabi; for a king's realm bounded by rivers compare Gen 15:18 and 1Kgs 5:1 (Euphrates boundary)."
+  - id: ane-etcsl-2-8-2-2-hammurabi-b
+    tradition: ane-sumerian
+    title: A prayer to Marduk (?) for Hammu-rabi (Hammu-rabi B)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.2.2 1-13"]
+    tags:
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.8.2.2 1", "ETCSL 2.8.2.2 4"], note: "restored: '[saĝ-ĝa2 ḫu-mu-ra-an-ĝal2]' for Lugal-Šubur's desert crown (men edin-na); suḫ10 nam-en-na 'priestly headdress' covered in me-lem4"}
+      - {motif: god-delights-in-kings-name-as-own, refs: ["ETCSL 2.8.2.2 8"], note: "mu pad3-da-ni-gin7 mu pad3-da-zu ... {d}en-ki-ke4 ḫa-ba-ni-dug3"}
+      - {motif: wisdom-given-to-king-by-god, refs: ["ETCSL 2.8.2.2 9"], note: "ĝeštug3 ĝizzal 'wisdom and attention'"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.8.2.2 7", "ETCSL 2.8.2.2 11"], note: "a-a {d}en-ki mu nam-til3-la-zu ḫa-ba-ni-sud-sud; Enki recites life-giving incantations (mu7-mu7 nam-til3-la)"}
+      - {motif: king-named-by-high-god, refs: ["ETCSL 2.8.2.2 10"], note: "the royal name 'like something unchangeable forever' (niĝ2 du-ri2-še3 nu-ub-kur2-ru-gin7)"}
+    hints:
+      - "Compare Ps 21:4-5 (crown of fine gold, length of days for ever) and Ps 72:17 (may his name endure for ever); 1Kgs 3:12 wisdom given to the king; Q 38:20 'We strengthened his kingdom and gave him wisdom'."
+  - id: ane-etcsl-2-8-2-3-hammurabi-c
+    tradition: ane-sumerian
+    title: A praise poem of Hammu-rabi (Hammu-rabi C)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.2.3 1-14"]
+    tags:
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["ETCSL 2.8.2.3 4", "ETCSL 2.8.2.3 7"], note: "sipad šag4 še-ga 'shepherd agreeable to the heart' of Nunamnir, beloved of Ninlil; sipad zid {d}ḫa-am-mu-ra-bi"}
+      - {motif: king-provides-temple-offerings-prayer, refs: ["ETCSL 2.8.2.3 5", "ETCSL 2.8.2.3 10"], note: "nidba gal-gal e2-kur-ra; daily for Nanna and Ningal"}
+      - {motif: king-restores-purification-rites, refs: ["ETCSL 2.8.2.3 8", "ETCSL 2.8.2.3 11-12"], note: "šu-luḫ ĝiš-ḫur me ... ki-bi-še3 bi2-in-[gi4-gi4] 'restored to their place' in E-kiš-nu-ĝal of Urim"}
+    hints:
+      - "The king restoring the purification rites of the moon-god's temple compares Hezekiah's and Josiah's restorations of the cult (2Chr 29:3-36; 2Kgs 23:21-23)."
+  - id: ane-etcsl-2-8-2-4-hammurabi-d
+    tradition: ane-sumerian
+    title: A prayer for Hammu-rabi (Hammu-rabi D)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.2.4 1-37"]
+    tags:
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["ETCSL 2.8.2.4 4"], note: "šum2-mu-da-ab-ze2-en {ĝiš}ĝidru 'give him the sceptre!' (plural imperative to the gods)"}
+      - {motif: god-petitions-divine-assembly-for-king, refs: ["ETCSL 2.8.2.4 10-13"], note: "Marduk to the great gods: sipad šag4-ga-zu ... nam-a-ni gal-le-eš tar-re-en-ze2-en ka kug-za"}
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["ETCSL 2.8.2.4 8-10", "ETCSL 2.8.2.4 35"], note: "An, Enlil and Enki with the great gods; they magnify Hammu-rabi 'their benign shepherd'"}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.8.2.4 14", "ETCSL 2.8.2.4 6"], note: "lugal-ra im-mi-in-sa4-en-de3-en ub-ta 4-ba 'we name him king in the four quarters'"}
+      - {motif: king-called-humble-before-gods, refs: ["ETCSL 2.8.2.4 15"], note: "nun me-te diĝir-re-e-ne sun5-na"}
+      - {motif: black-headed-people, refs: ["ETCSL 2.8.2.4 16", "ETCSL 2.8.2.4 35"], note: "nam-barag saĝ gig2 'authority over the black-headed'"}
+      - {motif: king-roars-like-storm-god-mouth-like-fire, refs: ["ETCSL 2.8.2.4 20-21"], note: "za-pa-aĝ2-zu {d}iškur ... ka-zu gira2 ḫuš-a; lugal gaba-ri [nu-tuku] 'king without rival'"}
+      - {motif: gods-escort-king-on-road, refs: ["ETCSL 2.8.2.4 22-23"], note: "šul {d}utu a2-taḫ-zu ḫe2-a ... du-ri2-še3 zag zid-da ĝen-na-zu: Utu your helper, going always at your right side"}
+      - {motif: holy-city-inviolable, refs: ["ETCSL 2.8.2.4 5", "ETCSL 2.8.2.4 29-30"], note: "interpretive: Babylon (kan4-diĝir-ra) 'city of lordship', 'pure dwelling', 'great dais'; its exaltation, not its inviolability, is explicit"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.8.2.4 7", "ETCSL 2.8.2.4 34"], note: "Asarluḫi asked to fix destiny for 'my Hammu-rabi'; nam-a-ni pa bi2-in-ak-eš"}
+    hints:
+      - "The gods conferring and naming the king compares Ps 2:6-8 and Ps 89:20-28; the divine council deciding (1Kgs 22:19-22, Ps 82:1). God at the king's right hand: Ps 110:5, Ps 16:8, Ps 121:5. 'Trust in our august commands': Ps 21:8."
+  - id: ane-etcsl-2-8-2-5-hammurabi-e
+    tradition: ane-sumerian
+    title: A prayer for Hammu-rabi (Hammu-rabi E), ending
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.2.5"]
+    tags:
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.8.2.5 43", "ETCSL 2.8.2.5 47"], note: "lines 1-37 missing; nam tar-ra mu sa4-a-me-en 'destined and called by name'"}
+      - {motif: king-named-by-high-god, refs: ["ETCSL 2.8.2.5 47"]}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["ETCSL 2.8.2.5 47"], note: "gaba gi na-an-[...-tuku] 'may you have no rival'"}
+    hints:
+      - "'Called by name' compares Isa 45:3-4 (Cyrus called by name) and Isa 43:1."
+  - id: ane-etcsl-2-8-2-6-hammurabi-f
+    tradition: ane-sumerian
+    title: A praise poem of Hammu-rabi addressed to Inana (Hammu-rabi F)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.2.6 1-20"]
+    tags:
+      - {motif: goddess-indispensable-to-divine-decisions, refs: ["ETCSL 2.8.2.6 4"], note: "{d}inana an {d}en-lil2 e-ne-da nu ka-aš kalam-ma nu-[bar]"}
+      - {motif: no-king-without-goddess, refs: ["ETCSL 2.8.2.6 13"], note: "lugal za-da nu nam-sipad kalam-ma-še3 nu-un-[...]"}
+      - {motif: god-awe-fills-heaven-and-earth, refs: ["ETCSL 2.8.2.6 7"], note: "nam-maḫ-zu an ki-še3 dalla e3-a"}
+      - {motif: goddess-as-great-judge, refs: ["ETCSL 2.8.2.6 10"], note: "an-da uraš-a gi ba-an-šum2-mu-un 'with An you give judgment on earth'"}
+      - {motif: immutable-divine-word, refs: ["ETCSL 2.8.2.6 8"], note: "ka ba-zu dug4 an-na 'when you open your mouth it is the command of An'"}
+      - {motif: king-of-the-four-quarters, refs: ["ETCSL 2.8.2.6 18"]}
+      - {motif: gods-give-rain-and-abundance-through-king, refs: ["ETCSL 2.8.2.6 19"], note: "ud ma-dam mu ḫe2-ĝal2-la 'days of plenty, a year of abundance'"}
+    hints:
+      - "Wisdom/a female figure beside God in judgment: Prov 8:15-16 'by me kings reign'; Ps 72:3,16 abundance under the just king."
+  - id: ane-etcsl-2-8-3-1-samsuiluna-a
+    tradition: ane-sumerian
+    title: A praise poem of Samsu-iluna (Samsu-iluna A)
+    corpus: ane
+    original: true
+    tagger: Claude (model), reading the Sumerian
+    read: ["ETCSL 2.8.3.1 1-30"]
+    tags:
+      - {motif: goddess-adorns-kings-statue, refs: ["ETCSL 2.8.3.1 1-7"], note: "alan gun3-a-ni-še3 ḫi-li im-ma-ši-in-ti; ulutim2 kal-la-bi šag4 im-ma-ab-dab5-be2"}
+      - {motif: god-decrees-kings-destiny, refs: ["ETCSL 2.8.3.1 9", "ETCSL 2.8.3.1 17"], note: "u3-mu-un na-aĝ2-zu ze2-ba-am3 (Emesal: 'lord, your destiny is good')"}
+      - {motif: goddess-gives-protective-spirits-for-king, refs: ["ETCSL 2.8.3.1 18-20", "ETCSL 2.8.3.1 26-27"], note: "ur gal {d}alad2 {d}lamma mu-ne-en-šum2; the lamma goddesses speak: 'we are the beneficent lamma of Inana'"}
+      - {motif: gods-escort-king-on-road, refs: ["ETCSL 2.8.3.1 21-22"], note: "{d}inana a2 zid-da ba-an-da-gub ... sa-am-su-i-lu-na ba-gub: Inana at the right hand"}
+      - {motif: goddess-goes-before-king-in-battle, refs: ["ETCSL 2.8.3.1 13", "ETCSL 2.8.3.1 20", "ETCSL 2.8.3.1 25"], note: "uĝ3 gu2-re-a ḫub2 dar du5-mu-ra-an-ak 'I will make the people of the other side run'; bal-a-re gu2-re 'the opposing side'"}
+      - {motif: goddess-speaks-in-emesal, refs: ["ETCSL 2.8.3.1 9-15", "ETCSL 2.8.3.1 26-29"], note: "Inana and her lamma speak in Emesal (u3-mu-un, na-aĝ2, me-en-de3-en ga-ša-an-an-na); incantation songs (i-zi-iĝ3 aĝ2 KA-mu7-a) and a pilipili recital"}
+    hints:
+      - "Protective spirits given to the king's side compare Ps 91:11 (angels to guard you) and 2Kgs 6:16-17; the goddess at the right hand compares Ps 110:5."

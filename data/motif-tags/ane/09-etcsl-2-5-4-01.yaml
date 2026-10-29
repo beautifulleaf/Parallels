@@ -107,3 +107,94 @@ units:
     hints:
       - "Compare Ps 110:4 (king a priest forever after the order of Melchizedek) and Gen 14:18 with lines 106-107."
       - "Compare Song 1:16 (our bed is green/flourishing) and Song 3:11 (the king crowned on his wedding day) with line 105."
+  - id: ane-etcsl-2-5-4-01-a-ekur-service
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: the gods' 'So be it', Enlil's choice by extispicy, and the king's restoration of E-kur's rites and offerings"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:112-182"]
+    tags:
+      - {motif: gods-say-so-be-it-to-kings-destiny, refs: ["ETCSL 2.5.4.01 A:112-116"], note: "Enki, Ninki, Enul, Ninul, the Anuna, the udug of Nibru and lamma of E-kur ... ḫe2-am3 nu-kur2-ru-bi ḫe2-em-mi-in-ne-eš: they said an unalterable 'So be it!'"}
+      - {motif: king-chosen-by-extispicy, refs: ["ETCSL 2.5.4.01 A:118-119"], note: "ud dug3-dug3-ga-ni-še3 maš2-e ḫe2-em-mi-in-pad3-de3-en: on his favourable day he chose me by the kid (extispicy)"}
+      - {motif: just-king-does-justice-and-righteousness, refs: ["ETCSL 2.5.4.01 A:136"], note: "ki-en-gi-ra niĝ2-si-sa2 ḫe2-ni-in-ĝar"}
+      - {motif: king-restores-neglected-rites, refs: ["ETCSL 2.5.4.01 A:138-140"], note: "e2-kur-ra me-bi ḫu-mu-un-ur4-ur4 / ĝiš-ḫur libir-a-ba en3 ḫe2-bi2-in-tar / ĝarza šu-ta šub-ba-bi ki-bi ḫe2-bi2-in-gi4: restored the rites that had fallen from the hand"}
+      - {motif: king-provisions-temple-kitchens, refs: ["ETCSL 2.5.4.01 A:149-156"], note: "gud-i3 udu-i3 ... ku6 mušen-bi-da e2 lugal-ĝa2-ka ḫe2-ni-šar2-šar2 / gir4 maḫ-ba ir ḫu-mu-un-peš-peš-e: fat bulls and sheep, fish and birds; made them smell sweet in the great ovens"}
+      - {motif: deity-smells-offering, refs: ["ETCSL 2.5.4.01 A:154"], note: "ir ... peš: the savour of the roast is made rich (for Enlil); interpretive"}
+      - {motif: libation-poured-like-rain-from-heaven, refs: ["ETCSL 2.5.4.01 A:157-163"], note: "kurun2-bi a2 sikil-la / šeĝ14-ta šu bar-ra-gin7 ... a-gin7 ḫe2-ni-bal-bal: liquor poured like water, like rain released from heaven; beer mixed with cedar essence libated over E-kur's brickwork"}
+      - {motif: beer-goddess-ninkasi-serves, refs: ["ETCSL 2.5.4.01 A:160-161"], note: "an-ne2 {d}nin-ka-si e-ne-bi-da"}
+      - {motif: temple-festive-on-seventh-and-fifteenth, refs: ["ETCSL 2.5.4.01 A:164-165"], note: "itid e2 ud 7 e2 ud 15-bi ezen-a ḫe2-ni-kur9; ud šu2-še3 e2-kur buru14-gin7: daily E-kur like a harvest place"}
+      - {motif: first-fruits-to-house-of-god, refs: ["ETCSL 2.5.4.01 A:169-171"], note: "niĝ2-saĝ {ĝiš}kiri6 zu2-lum: first-fruits of the gardens, dates, on Enlil's table; partly broken"}
+      - {motif: king-son-of-enlil, refs: ["ETCSL 2.5.4.01 A:175-177"], note: "dumu [X] {d}[en-lil2-la2-me-en] partly restored; ĝuruš kalag-ga e2-kur-ra-me-en"}
+      - {motif: king-serves-gods-daily-meals, refs: ["ETCSL 2.5.4.01 A:179-182"], note: "ud šu2-še3 lugal-ĝu10 a-na am3-gu7 ga-an-dug4 a-na ga-an-naĝ: daily I shall say what my lord is to eat and drink; nu-kuš2-u3 ĝa2-la nu-dag-ge: untiring"}
+    hints:
+      - "Compare 2 Kgs 23:4-24 and 2 Chr 29-31 (Josiah's and Hezekiah's restoration of neglected rites) with lines 138-140."
+      - "Compare Num 28:11-25 (offerings at new moon and the 15th day of the month) and Num 28:3-8 (daily tamid) with lines 164-165, 180."
+      - "Compare Gen 8:21 and Lev 1:9 (pleasing odour to YHWH) with line 154; Exod 23:19 (first-fruits to the house of YHWH) with line 170."
+      - "Compare Ps 121:4 (he who keeps Israel neither slumbers nor sleeps) for 'untiring'; Num 28:7 (drink offering of strong drink poured out)."
+  - id: ane-etcsl-2-5-4-01-a-nibru-justice
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: freedoms for Nibru, the tithe, and justice for the weak, the orphan and the widow"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:183-235"]
+    tags:
+      - {motif: holy-city-exempted-from-labour-and-war, refs: ["ETCSL 2.5.4.01 A:183-189"], note: "nibru{ki} dim gal an ki-a; erin2-bi {ĝiš}dusu-ta ḫe2-em-ta-an-zig3 / ugnim-bi {ĝiš}tukul-ta ḫe2-em-ta-ĝa2-ar / kug-sig17 kug-babbar gud udu-bi gu2-un dumu nibru{ki}-ke4-ne ḫu-mu-du8: freed labourers from the basket, troops from weapons, remitted the tribute"}
+      - {motif: king-frees-poor-from-labor-and-tax, refs: ["ETCSL 2.5.4.01 A:185-189"]}
+      - {motif: tithe-imposed-for-temple, refs: ["ETCSL 2.5.4.01 A:190"], note: "niĝ2-sur še i3 siki udu zag 10-ba ab-ak: beer(?), barley, oil and wool were made a tenth"}
+      - {motif: king-establishes-justice-crushes-evildoers, refs: ["ETCSL 2.5.4.01 A:192-194"], note: "niĝ2-erim2 niĝ2-a2-zig3 ... niĝ2-gen6-na ki-en-gi ki-uri ḫe2-ni-ĝar / sipad niĝ2-si-sa2-e ki aĝ2-me-en: shepherd who loves justice"}
+      - {motif: ideal-king-justice-for-poor, refs: ["ETCSL 2.5.4.01 A:200-206"], note: "a2-tuku niĝ2 dirig nu-mu-ši-ib2-ak-e / kalag-ga si-ig-ga ... nu-mu-un-e / nir-ĝal2-e lu2 la-ba-an-ĝa2-ĝa2: the strong does not abuse the weak, no one subjected to the lordly"}
+      - {motif: king-hears-cry-of-orphan-widow-bondsman, refs: ["ETCSL 2.5.4.01 A:216-217"], note: "šu du3-a nu-siki nu-mu-su-a / i-{d}utu i-{d}nanna di-bi dug4-ge ḫe2-em-mi-gen6: bondsmen, orphans, widows crying 'Alas Utu, alas Nanna', I supported their cases"}
+      - {motif: god-hears-cry-of-widow-and-orphan, refs: ["ETCSL 2.5.4.01 A:216-217"], note: "here the king, not a god, hears their cry addressed to the gods"}
+      - {motif: king-destroys-desert-brigands, refs: ["ETCSL 2.5.4.01 A:219"], note: "lu2-sa-gaz-e edin im-sig9-sig9-ga niĝ2-gul-bi ḫu-mu-ak: I exterminated the cut-throats who prowl the steppe"}
+      - {motif: king-like-father-and-mother, refs: ["ETCSL 2.5.4.01 A:224-225"], note: "kur-kur-re a-a tud-da-bi-gin7 ... igi-bi ḫu-mu-ši-ĝal2: foreign lands gaze at me as at the father who begot them"}
+      - {motif: sun-god-of-justice, refs: ["ETCSL 2.5.4.01 A:226-227"], note: "{d}utu-gin7 di si sa2 ku5-ru-ĝu10-uš: when like Utu I give a just verdict, the people bring prayers to holy places"}
+      - {motif: prayer-for-kings-long-life, refs: ["ETCSL 2.5.4.01 A:235"], note: "mu ur5-še3-am3 {d}en-lil2 lugal-ĝu10 ud-ĝu10 mu-un-sud-su3-ud: for this Enlil prolonged my days"}
+    hints:
+      - "Compare Exod 22:21-23 and Deut 10:18; 24:17 (widow and orphan; their cry heard) and Ps 72:4, 12-14 with lines 216-217; Q 93:9-10; Q 107:2."
+      - "Compare 1 Sam 17:25 (the victor's father's house made free in Israel) and Ezra 7:24 (temple personnel exempt from tribute) with lines 185-189."
+      - "Compare Gen 14:20, 28:22 and Num 18:21-26 (tithes) with line 190."
+      - "Compare Isa 9:5 ('Everlasting Father' as royal title) and Isa 22:21 (a father to the inhabitants of Jerusalem) with line 224."
+      - "Compare Deut 17:20 and 1 Kgs 3:14 (the obedient king's days prolonged) with line 235."
+  - id: ane-etcsl-2-5-4-01-a-self-praise-tribute
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: the king's self-praise (father, wall, tree, lamp, seed) and the tribute of distant lands and nomads"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:236-273"]
+    tags:
+      - {motif: king-like-father-and-mother, refs: ["ETCSL 2.5.4.01 A:237"], note: "a-a-gin7 dug3 ama-gin7 dib-ba-me-en"}
+      - {motif: king-as-door-and-wall-of-land, refs: ["ETCSL 2.5.4.01 A:238"], note: "bad3 maḫ zi-šag4-ĝal2 kalam-ma-me-en"}
+      - {motif: king-as-great-tree-and-shade, refs: ["ETCSL 2.5.4.01 A:239-241"], note: "{ĝiš}meš3 maḫ ur2 gur-ra pa mul daĝal-la-me-en / an-dul3 ki-en-gi-ra ĝissu dug3-ga-me-en"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.5.4.01 A:246"], note: "am u3-na gub-ba saḫar kad4-kad4-e-me-en: a wild bull that kicks up dust"}
+      - {motif: king-fights-alone-ahead-of-army, refs: ["ETCSL 2.5.4.01 A:243-250"], note: "{kuš}gur21-ra2 ka-ba gub-me-en: I stand at the front of the shields; ur-saĝ ur-saĝ-e-ne; zid-da gab2-bu ki-bal dub2-dub2-bu"}
+      - {motif: king-as-lamp-of-land, refs: ["ETCSL 2.5.4.01 A:252"], note: "su3-ra2-aĝ2-gin7 kalam-ma ĝir2-ĝir2-me-en"}
+      - {motif: king-as-seed-of-kingship, refs: ["ETCSL 2.5.4.01 A:253-254"], note: "a zid nam-lugal-la numun nam-barag-ga-me-en / {ĝiš}isimu2 {ĝiš}erin-na tir ḫa-šu-ur2-ra-me-en: scion of a cedar"}
+      - {motif: tribute-of-nomads-and-distant-lands, refs: ["ETCSL 2.5.4.01 A:259-270"], note: "dilmun{ki}-e gada zu2-lum ...; mar-tu e2 nu-zu iri{ki} nu-zu / lu2 lil2-la2 ḫur-saĝ-ĝa2 tuš-a / {udu}a-lum u8-u3 si ḫa-ma-da-ab-sa2-sa2; cedar, zabalum, cypress, boxwood from the uplands"}
+      - {motif: amorites-as-hostile-others, refs: ["ETCSL 2.5.4.01 A:266-267"], note: "the Martu who know no house, no city, 'men of the wind' living in the hills"}
+      - {motif: foreign-lands-send-precious-goods, refs: ["ETCSL 2.5.4.01 A:262-270"]}
+    hints:
+      - "Compare Ps 72:10-11, 15 (kings of Tarshish and Sheba bring tribute) and 1 Kgs 5:1, 10:22-25 with lines 259-270."
+      - "Compare Dan 4:7-9 and Ezek 31:3-9 (the king as a great tree giving shade) with lines 239-241; Lam 4:20 ('in his shadow we shall live')."
+      - "Compare 2 Sam 21:17 ('the lamp of Israel') with line 252; Isa 11:1 (shoot from the stump of Jesse) with lines 253-254."
+      - "Compare Jer 35:7-10 (Rechabites build no houses) and Gen 25:27 (Esau, man of the field) with lines 266-267."
+  - id: ane-etcsl-2-5-4-01-a-thrones-statues
+    tradition: ane-sumerian
+    title: "Ishme-Dagan A: thrones for Enlil and Ninlil and copper statues of the king and his ancestors in E-kur"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["ETCSL 2.5.4.01 A:274-329"]
+    tags:
+      - {motif: king-statue-set-before-god, refs: ["ETCSL 2.5.4.01 A:274-277", "ETCSL 2.5.4.01 A:297-302"], note: "ud ki-en-gi ki-uri sag2 ba-ab-dug4-ga-ta ... lugal na-me alan ba-ra-ni-in-kur9: since Sumer and Akkad were scattered no king had brought a statue into E-kur; {urud}alan ... ĝe26-gin7 giri17 šu ĝal2: a copper statue praying like myself"}
+      - {motif: king-installs-thrones-for-god-and-consort, refs: ["ETCSL 2.5.4.01 A:282-296"], note: "{ĝiš}gu-za me-dim2-bi me-dim2-ma dirig-ga: a throne whose form surpasses form; barag mir 7: dais of seven storms; nin-ĝu10 {d}nin-lil2-da {d}en-lil2 ḫu-mu-un-da-tuš"}
+      - {motif: temple-of-precious-metal-and-lapis, refs: ["ETCSL 2.5.4.01 A:288-290"], note: "the throne decorated with nir-igi, šuba and translucent lapis lazuli, highly skilled craftsmanship"}
+      - {motif: king-sets-copper-statues-of-ancestors-in-temple, refs: ["ETCSL 2.5.4.01 A:308-320"], note: "{urud}alan gal-gal-ĝu10 for Ninlil in the E-šenšena; {urud}alan ad-da tud-da-ĝu10 (statue of the father who begot me); {urud}alan a-a gu-la-ĝu10 (grandfather)"}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["ETCSL 2.5.4.01 A:303"], note: "su piriĝ sa piriĝ-ĝa2 zag piriĝ-ĝa2: body, sinews and strength of a lion (of the statue?); context broken"}
+      - {motif: foreign-king-sends-cedar-and-craftsmen, refs: ["ETCSL 2.5.4.01 A:307"], note: "only: ĝiš maḫ ki u6 di-še3 ḫe2-ni-laḫ4: brought in mighty timbers, objects of wonder; no foreign king named"}
+    hints:
+      - "Compare 1 Kgs 7:7 and 10:18-20 (Solomon's throne of ivory and gold) and Ps 132:7-8 (arise to your resting place) with lines 282-292."
+      - "Compare 2 Sam 18:18 (Absalom's pillar so his name be remembered) with lines 297-320; contrast Deut 4:16-18, Exod 20:4."
+      - "Compare 1 Kgs 15:15 (Asa brings his father's dedicated things into the temple) with lines 316-320."

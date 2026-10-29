@@ -26,7 +26,7 @@ new_motifs:
   deity-born-from-rib-ti: {label: "A goddess named Nin-ti ('Lady of the rib' / 'Lady who gives life') is born from a god's rib (ti)", cluster: creation}
   newborn-deities-assigned-roles: {label: "Newly born deities are each assigned a role, a spouse or a land", cluster: creation}
   closing-praise-of-god: {label: "A composition ends with the formula 'X, be praised!' (zami)", cluster: hymn}
-  oath-by-life-of-heaven: {label: "A speaker adjures or swears 'by the life of heaven'", cluster: oath}
+  adjuration-by-life-of-heaven: {label: "A speaker adjures or swears 'by the life of heaven'", cluster: oath}
   name-puns-on-body-parts: {label: "Each newborn deity's name puns on the body part from which it came", cluster: wordplay}
   in-those-days-when-heaven-and-earth-were-made: {label: "A myth opens 'In those days, when heaven and earth were made / when the fates were determined'", cluster: creation}
   lesser-gods-toil-and-complain: {label: "Before humans exist, lesser gods do the heavy labor (digging canals, carrying baskets) and complain", cluster: creation}
@@ -152,7 +152,7 @@ units:
     tagger: Claude (model), reading the Sumerian
     read: ["ETCSL 1.1.1 63-126CC"]
     tags:
-      - {motif: oath-by-life-of-heaven, refs: ["ETCSL 1.1.1 70"], note: "zi an-na i3-pad3: 'by the life (breath) of heaven I adjure you'"}
+      - {motif: adjuration-by-life-of-heaven, refs: ["ETCSL 1.1.1 70"], note: "zi an-na i3-pad3: 'by the life (breath) of heaven I adjure you'"}
       - {motif: gestation-of-days-not-months, refs: ["ETCSL 1.1.1 75-83", "ETCSL 1.1.1 102-104", "ETCSL 1.1.1 126R-126Z"], note: "ud 1-am3 itid 1-a-ni ... ud 9-am3 itid 9-a-ni: 'her one month was one day ... her nine months nine days'"}
       - {motif: god-sees-maiden-and-desires-her, refs: ["ETCSL 1.1.1 88-92", "ETCSL 1.1.1 108-112", "ETCSL 1.1.1 126C-126H"], note: "{d}en-ki-ke4 ambar-ra im-da-la2: Enki sees from the marsh the girl who has gone out to the riverbank (gu2 id2-da)"}
       - {motif: minister-encourages-masters-desire, refs: ["ETCSL 1.1.1 93-96", "ETCSL 1.1.1 113-116", "ETCSL 1.1.1 126I-126K"], note: "Isimud: lugal-ĝu10 im-dirig ga-ri: 'my master will sail, let me navigate'"}
