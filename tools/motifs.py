@@ -193,6 +193,15 @@ def write_report(units, vocab, w, df, ps, bench):
             lines.append(f"**{u['title']}**")
             lines += [f"- {vocab[t['motif']]['label']} ({', '.join(t['refs'])})" for t in lonely]
             lines.append("")
+    hinted = [u for u in units if u.get("hints")]
+    if hinted:
+        lines += ["", "## Reader hints (from memory, not from the text)", "",
+                  "Parallels the reader recalled while tagging. They are secondary and unverified: use them as "
+                  "places to look, not as evidence.", ""]
+        for u in hinted:
+            lines.append(f"**{u['title']}** ({', '.join(u.get('read') or [])})")
+            lines += [f"- {h}" for h in u["hints"]]
+            lines.append("")
     lines += ["", "## Motif frequency", "", "| Motif | Units |", "|---|---|"]
     for m, c in sorted(df.items(), key=lambda x: (x[1], x[0])):
         lines.append(f"| {vocab[m]['label']} | {c} |")
