@@ -209,67 +209,172 @@ every pair of traditions.
 
 #### Christianity
 
-- **Scope:**
-  - Early Christianity and the apocrypha.
-  - Syriac Christianity (the highest priority for Quran-facing leads).
-  - Greek and Latin patristics.
-  - Coptic, Ethiopian, and Armenian churches; the Church of the East.
-  - Arabic Christianity.
+Christianity is covered from its origins to the present. Its branches and
+eras are treated as five sub-traditions. Material from after Islam's rise
+(roughly the 7th century) is compared mainly at the level of philosophy and
+metaphysics: concepts rather than words or stories. For those periods, the
+expected relation types are **response** and **convergence**, plus
+**reverse transmission** from the Islamic world into Christian thought.
+
+**Shared across all periods**
+- **Languages:** Greek, Syriac, Latin, Coptic, Ge'ez, Armenian, Arabic, then
+  the European vernaculars.
+- **Motifs and concepts:** the virgin birth; Mary; miracles; the disciples;
+  the crucifixion and docetism; the Paraclete; Satan's refusal to bow to
+  Adam; the Trinity and polemics against it; the Logos; divine attributes and
+  divine simplicity; mystical union; prophecy and revelation; grace and free
+  will.
+
+##### Early Christianity (to about the 5th century), including the Gnostics
+
+- **Scope:** the New Testament and early apocrypha; Jewish-Christian groups
+  (Ebionites, Elchasaites); the Gnostics (Sethians, Valentinians, Basilides);
+  Marcion; the early Fathers.
 - **Core texts:**
-  - Bible versions: the New Testament; the Septuagint; the Peshitta; the
-    Diatessaron (Arabic version; Ephrem's commentary).
+  - Scripture and early writings: the New Testament; the Septuagint; the
+    Diatessaron.
   - Infancy narratives: the Protevangelium of James; the Infancy Gospel of
     Thomas; Pseudo-Matthew; the Arabic/Syriac Infancy Gospel.
-  - Adam literature: the *Cave of Treasures*; the *Life of Adam and Eve*.
-  - Syriac literature: the Acts of Thomas (Hymn of the Pearl); the hymns of
-    Ephrem; the homilies of Jacob of Serugh.
-  - Christian–Muslim encounter: John of Damascus; Timothy I's dialogue with
-    the caliph al-Mahdi; Theodore Abu Qurrah.
-- **Languages:** Greek, Syriac, Latin, Coptic, Ge'ez, Armenian, Arabic.
+  - Adam literature: the *Life of Adam and Eve*.
+  - The Nag Hammadi library: the Gospel of Thomas; the Apocryphon of John;
+    the Gospel of Truth; the Second Treatise of the Great Seth.
+  - Jewish-Christian literature: the Pseudo-Clementines.
+  - Heresiologists: Irenaeus, Hippolytus, Epiphanius.
 - **Digital sources:**
-  - Bible texts: MorphGNT/SBLGNT (New Testament); CATSS (Septuagint); the
-    ETCBC Peshitta (via Text-Fabric).
-  - Syriac: the Digital Syriac Corpus (Beth Mardutho); Syriaca.org.
-  - Coptic: Coptic Scriptorium.
+  - New Testament and Septuagint: MorphGNT/SBLGNT, CATSS.
   - Apocrypha: e-Clavis (NASSCAL).
-  - Translations: CCEL and New Advent (*Ante-Nicene* and *Nicene and
-    Post-Nicene Fathers*, public domain).
-- **Motifs and themes:** the virgin birth; Mary in the Temple; miracles of the
-  child Jesus; the disciples; the table from heaven; the crucifixion and
-  docetism; the Paraclete; Satan's refusal to bow to Adam; the Trinity and the
-  polemics against it.
+  - Coptic: Coptic Scriptorium (includes some Nag Hammadi material).
+  - Translations: CCEL / New Advent (*Ante-Nicene Fathers*, public domain).
 - **Seed leads:**
   - *Transmission:* the Infancy Gospel of Thomas (Jesus brings clay birds to
     life) ↔ Quran 3:49 and 5:110.
   - *Transmission:* the Protevangelium of James (Mary raised in the Temple;
     Zechariah; casting lots) ↔ Quran 3:35–44.
   - *Transmission:* Pseudo-Matthew (the palm tree on the flight to Egypt) ↔
-    Mary under the palm (Quran 19:23–26).
+    Quran 19:23–26.
   - *Transmission:* the Arabic/Syriac Infancy Gospel (Jesus speaks in the
     cradle) ↔ Quran 19:29–33 and 3:46.
-  - *Transmission:* the *Cave of Treasures* and the *Life of Adam and Eve*
-    (Satan refuses to worship Adam) ↔ Quran 2:34, 7:11–12, and 38:71–76.
-  - *Transmission:* Jacob of Serugh's homily on the Sleepers ↔ Quran 18 (see
-    Greco-Roman).
+  - *Transmission:* the *Life of Adam and Eve* (Satan refuses to worship
+    Adam) ↔ Quran 2:34, 7:11–12, and 38:71–76.
+  - *Contested:* the crucifixion denial (Quran 4:157) ↔ the Second Treatise
+    of the Great Seth, and the substitution of Simon of Cyrene reported of
+    Basilides.
+  - *Contested:* the Pseudo-Clementine "True Prophet" doctrine and the
+    Jewish-Christian hypothesis ↔ the Quran's view of prophets.
+  - *Transmission:* the Elchasaites ↔ Mani's upbringing (Cologne Mani Codex)
+    → Manichaeism.
+  - *Convergence or transmission:* the cosmology of the Apocryphon of John ↔
+    the Mandaean and Manichaean cosmologies.
+  - *Contested:* Aḥmad (Quran 61:6) ↔ the Paraclete (*paraklētos* vs.
+    *periklytos*).
+
+##### Eastern Christianity
+
+- **Scope:**
+  - Syriac Christianity (the West Syriac church and the Church of the East);
+    the highest priority for Quran-facing leads.
+  - The Byzantine/Orthodox tradition.
+  - The Coptic, Ethiopian, and Armenian churches.
+  - Arabic Christianity.
+- **Core texts:**
+  - Syriac: the Peshitta; the hymns of Ephrem; the homilies of Jacob of
+    Serugh; the *Cave of Treasures*; the Acts of Thomas (Hymn of the Pearl);
+    the Syriac Alexander Legend.
+  - Christian–Muslim encounter: John of Damascus; Timothy I's dialogue with
+    the caliph al-Mahdi; Theodore Abu Qurrah.
+  - Byzantine mysticism: the *Philokalia*; Gregory Palamas.
+  - Ethiopian: the *Kebra Nagast*.
+- **Digital sources:** the ETCBC Peshitta (via Text-Fabric); the Digital
+  Syriac Corpus (Beth Mardutho); Syriaca.org; Coptic Scriptorium; CCEL
+  (*Nicene and Post-Nicene Fathers*).
+- **Seed leads:**
+  - *Transmission:* the *Cave of Treasures* (Satan refuses to bow to Adam) ↔
+    Quran 2:34 and its parallels.
+  - *Transmission:* Jacob of Serugh's homily on the Sleepers ↔ Quran 18.
+  - *Transmission, contested in direction:* the Syriac Alexander Legend ↔
+    Dhul-Qarnayn.
   - *Lexical:*
     - Syriac *ṣlōtā* ↔ *ṣalāt*.
     - Ge'ez *ḥawārya* ↔ *ḥawāriyyūn* ("disciples").
     - Syriac *qeryānā* ↔ *qurʾān* (proposed).
-  - *Transmission or convergence, proposed:* the table from heaven (Quran
-    5:112–115) ↔ the Last Supper and the feeding miracles.
-  - *Contested:* the crucifixion denial (Quran 4:157) ↔ docetic and Gnostic
-    accounts, such as the substitution of Simon of Cyrene reported of
-    Basilides.
-  - *Contested:* Aḥmad (Quran 61:6) ↔ the Paraclete (*paraklētos* vs.
-    *periklytos*).
+  - *Proposed:* the table from heaven (Quran 5:112–115) ↔ the Eucharist and
+    the feeding miracles.
   - *Response:* John of Damascus on the "heresy of the Ishmaelites"; Timothy
-    I's dialogue with al-Mahdi; Abu Qurrah's Arabic theology.
-  - *Response:* Arabic Christian texts adopting Islamic theological
-    vocabulary.
+    I and al-Mahdi; Abu Qurrah's Arabic theology.
+  - *Convergence, or transmission (contested):* the hesychast Jesus Prayer ↔
+    Sufi *dhikr*.
+  - *Convergence or response:* Palamas' distinction between God's essence
+    and energies ↔ the *kalām* debate over divine attributes.
+  - *Response or contact:* Ethiopia and the first hijra to Abyssinia; the
+    *Kebra Nagast*'s Solomon and Sheba ↔ Quran 27.
 - **Caveats:**
-  - The corpus is enormous. Prioritize Syriac literature and the apocrypha.
   - Claims that the Quran is a Syriac text underneath, in the style of
     Luxenberg, are fringe and must be labeled as such.
+
+##### Western Christianity (Latin, medieval to early modern)
+
+- **Scope:** Latin patristics; scholasticism; medieval mysticism; the
+  Reformation and the radical Reformation; Christian esotericism.
+- **Core texts:**
+  - Patristic and scholastic: Augustine; Aquinas; Meister Eckhart; Nicholas
+    of Cusa (*De pace fidei*, *Cribratio Alkorani*).
+  - Encounter with Islam: Ramon Llull; the *Liber Scalae Machometi* (Book of
+    the Ladder); Robert of Ketton's Latin Quran (1143); Dante.
+  - Reformation era: Luther on the Turks; Servetus; the Socinians.
+  - Esoteric: the Rosicrucian manifestos.
+- **Digital sources:** Corpus Thomisticum (Aquinas, lemmatized), Llull DB,
+  The Latin Library, CCEL, Project Gutenberg.
+- **Seed leads:**
+  - *Reverse transmission:* Avicenna, Averroes, and al-Ghazali in Aquinas and
+    the scholastics.
+  - *Response:* Llull's *Book of the Lover and the Beloved*. Llull himself
+    names Sufi models for it.
+  - *Transmission, contested:* the *Liber Scalae* (the Miʿrāj) → Dante's
+    *Commedia*.
+  - *Convergence:* Meister Eckhart ↔ Ibn ʿArabi.
+  - *Response:* Cusanus' *Cribratio Alkorani* and *De pace fidei*.
+  - *Convergence or response:* anti-Trinitarians (Servetus, the Socinians) ↔
+    *tawḥīd*.
+  - *Response or legend:* the Rosicrucian founder said to have studied in
+    Damascus and Fez (*Fama Fraternitatis*).
+
+##### Newer movements (18th century onward)
+
+- **Scope:** Swedenborgianism, Latter-day Saints (Mormons), Jehovah's
+  Witnesses, Christadelphians, Christian Science, Unitarian Universalism,
+  Quakers, Pentecostalism.
+- **Core texts:** Swedenborg's works; the Book of Mormon and the Doctrine and
+  Covenants; the founding writings of each movement.
+- **Digital sources:** the Joseph Smith Papers (open); the Swedenborg
+  Foundation texts; Project Gutenberg.
+- **Seed leads:**
+  - *Convergence:* new scripture brought by a final or restoring prophet (LDS)
+    ↔ Islamic prophetology.
+  - *Convergence:* non-Trinitarian monotheism (Jehovah's Witnesses,
+    Christadelphians, Unitarians) ↔ *tawḥīd*.
+  - *Convergence:* the Quaker "Inner Light" ↔ the Sufi *nūr*.
+  - *Convergence:* Swedenborg's spirit-world visions ↔ the Miʿrāj and Islamic
+    eschatology.
+
+##### Modern philosophy and theology
+
+- **Scope:** Christian-rooted philosophy and theology from the 18th century
+  on: Hegel, Kierkegaard, Tillich, Teilhard de Chardin, Whitehead and process
+  theology, and Christian existentialism.
+- **Digital sources:** SKS (Kierkegaard, open), Project Gutenberg; many 20th
+  century works are under copyright.
+- **Seed leads:**
+  - *Response:* Muhammad Iqbal's *Reconstruction of Religious Thought in
+    Islam* engaging Bergson, Nietzsche, and contemporary Western philosophy.
+  - *Convergence:* Teilhard's Omega Point ↔ Islamic perfected-human
+    (*al-insān al-kāmil*) cosmology.
+  - *Convergence:* Tillich's "ground of being" ↔ Ibn ʿArabi's oneness of
+    being (*waḥdat al-wujūd*).
+  - *Convergence:* Kierkegaard's leap of faith ↔ al-Ghazali's *Deliverance
+    from Error*.
+- **Caveats:**
+  - These comparisons are conceptual, so specificity scoring matters even
+    more here. Generic resemblances ("both value faith") must be filtered out.
 
 #### Samaritanism
 
@@ -482,8 +587,3 @@ every pair of traditions.
   - Classical Chinese segmentation needs care.
 
 ---
-
-## Gaps noted
-
-- **Gnostic texts** (Nag Hammadi) would fit naturally beside the Dualist
-  group.
