@@ -200,6 +200,24 @@ new_motifs:
   israels-response-to-moses-in-egypt:
     label: How Moses' own people in Egypt respond to his message
     cluster: exodus
+  what-is-above-the-primeval-waters:
+    label: 'What is over the waters before or at creation: God''s spirit, his throne or his voice'
+    cluster: creation
+  who-of-noahs-household-is-saved:
+    label: Which of Noah's household enter the ark and survive
+    cluster: flood
+  how-the-flood-waters-end:
+    label: How the flood waters are stopped and subside
+    cluster: flood
+  noahs-unworthy-son:
+    label: A son of Noah is found unworthy, and what follows
+    cluster: flood
+  future-of-humankind-after-the-flood:
+    label: 'What God says of later generations after the flood: no repeat, or punishment to come'
+    cluster: flood
+  noahs-standing-before-god:
+    label: 'Noah''s standing before God: blameless, or in need of forgiveness'
+    cluster: flood
 reviewed:
 - unit: quran-7-idol-request
   checked:
@@ -3148,6 +3166,332 @@ reviewed:
     - Num 16:15
     relation: echo
     note: 'lōʾ ḥămôr ʾeḥād mēhem nāśāʾtî vs fa-mā saʾaltukum min ajrin: a leader under attack disclaims any gain from his people.'
+- unit: quran-10-book-readers-jonah
+  checked:
+  - hb-jonah-3-nineveh-repents
+  - hb-gen-6-flood
+  - hb-gen-19-sodom-destroyed
+  - hb-ezek-14-idols-in-heart-noah-daniel-job
+  - hb-jer-33-branch-and-cosmic-covenant
+  - hb-ezek-33-watchman-and-fall-news
+  matches:
+  - with: hb-jonah-3-nineveh-repents
+    motif: jonahs-city-believes-and-is-spared
+    refs:
+    - 10:98
+    with_refs:
+    - Jonah 3:5
+    - Jonah 3:10
+    relation: divergence
+    note: 'The city warned by Jonah believes and is spared, with the same root ʾ-m-n: illā qawma yūnusa lammā āmanū kashafnā ʿanhum ʿadhāba l-khizyi fī l-ḥayāti d-dunyā vs wayyaʾămînû ʾanšê nînᵉwēh bēʾlōhîm ... wayyinnāḥem hāʾĕlōhîm ʿal-hārāʿāh ... wᵉlōʾ ʿāśāh. Changed: Q does not name Nineveh and calls them ''Jonah''s people'' (qawm Yūnus), and makes them the only town whose belief saved it (fa-law-lā kānat qaryatun āmanat fa-nafaʿahā īmānuhā); in Jonah they are a foreign city, and God repents of the evil (niḥam), a verb Q avoids.'
+  - with: hb-ezek-33-watchman-and-fall-news
+    motif: god-desires-not-death-of-wicked
+    refs:
+    - 10:98
+    with_refs:
+    - Ezek 33:11
+    relation: echo
+    note: 'Turning back from wrong lifts the sentence: lammā āmanū kashafnā ʿanhum ʿadhāba l-khizyi wa-mattaʿnāhum ilā ḥīn vs ʾim-ʾeḥpōṣ bᵉmôt hārāšāʿ kî ʾim-bᵉšûb rāšāʿ middarkô wᵉḥāyāh.'
+  - with: hb-gen-19-sodom-destroyed
+    motif: family-saved
+    refs:
+    - 10:103
+    with_refs:
+    - Gen 19:29
+    relation: echo
+    note: 'God rescues his man from a destroyed town: thumma nunajjī rusulanā wa-lladhīna āmanū vs wayyizkōr ʾĕlōhîm ʾet-ʾabrāhām wayᵉšallaḥ ʾet-lôṭ mittôk hahăpēkāh. In Gen Lot is saved for Abraham''s sake; in Q God saves messengers and believers as a rule (ḥaqqan ʿalaynā).'
+  - with: hb-gen-6-flood
+    motif: family-saved
+    refs:
+    - 10:103
+    with_refs:
+    - Gen 7:23
+    relation: echo
+    note: 'wayyiššāʾer ʾak-nōaḥ waʾăšer ʾittô battēbāh vs nunajjī rusulanā wa-lladhīna āmanū: the destruction spares only God''s man and those with him.'
+- unit: quran-10-closing
+  checked:
+  - hb-deut-32-song-of-moses
+  - hb-isa-46-bel-nebo-carried
+  - hb-isa-6-throne-vision
+  - hb-isa-42-servant-and-new-song
+  - hb-jer-10-idols-scarecrows
+  matches:
+  - with: hb-deut-32-song-of-moses
+    motif: i-kill-and-make-alive
+    refs:
+    - 10:107
+    with_refs:
+    - Deut 32:39
+    relation: parallel
+    note: 'God alone sends harm and good, and none can undo his act: wa-in yamsaska llāhu bi-ḍurrin fa-lā kāshifa lahu illā huwa wa-in yuridka bi-khayrin fa-lā rādda li-faḍlihi vs māḥaṣtî waʾănî ʾerpāʾ wᵉʾên miyyādî maṣṣîl.'
+  - with: hb-jer-10-idols-scarecrows
+    motif: idol-cannot-move-or-answer
+    refs:
+    - 10:106
+    with_refs:
+    - Jer 10:5
+    relation: parallel
+    note: 'The false god can do neither harm nor good: wa-lā tadʿu min dūni llāhi mā lā yanfaʿuka wa-lā yaḍurruka vs ʾal-tîrᵉʾû mēhem kî-lōʾ yārēʿû wᵉgam-hêṭêb ʾên ʾôtām (both pair ''harm'' and ''good'').'
+  - with: hb-isa-46-bel-nebo-carried
+    motif: idol-cannot-move-or-answer
+    refs:
+    - 10:106
+    with_refs:
+    - Isa 46:7
+    relation: echo
+    note: 'ʾap-yiṣʿaq ʾēlāyw wᵉlōʾ yaʿăneh miṣṣārātô lōʾ yôšîʿennû vs lā tadʿu min dūni llāhi mā lā yanfaʿuka wa-lā yaḍurruka: calling on what cannot help.'
+- unit: quran-11-opening-throne-on-water
+  checked:
+  - hb-gen-1-creation-six-days
+  - hb-ps-29-voice-of-yhwh
+  - hb-jer-5-sea-boundary
+  - hb-gen-3-fall-expulsion
+  - hb-deut-31-joshua-torah-song
+  - hb-deut-4-exhortation
+  - hb-ps-104-creation-hymn
+  matches:
+  - with: hb-gen-1-creation-six-days
+    motif: what-is-above-the-primeval-waters
+    refs:
+    - '11:7'
+    with_refs:
+    - Gen 1:2
+    relation: divergence
+    note: 'Above the waters at creation: wa-kāna ʿarshuhu ʿalā l-māʾi (his throne was on the water) vs wᵉrûaḥ ʾĕlōhîm mᵉraḥepet ʿal-pᵉnê hammāyim (God''s spirit hovering over the face of the waters). The same position over the water; Q puts the throne where Gen has the spirit.'
+  - with: hb-gen-1-creation-six-days
+    motif: creation-in-six-days
+    refs:
+    - '11:7'
+    with_refs:
+    - Gen 1:31
+    relation: divergence
+    note: 'Six days of creation and their purpose: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin ... li-yabluwakum ayyukum aḥsanu ʿamalan vs wayyarʾ ʾĕlōhîm ʾet-kol-ʾăšer ʿāśāh wᵉhinnēh-ṭôb mᵉʾōd ... yôm haššiššî. Gen ends the six days with God''s verdict that it is ''very good''; Q gives as their purpose a test of human deeds.'
+  - with: hb-ps-29-voice-of-yhwh
+    motif: enthroned-over-the-flood
+    refs:
+    - '11:7'
+    with_refs:
+    - Ps 29:3
+    - Ps 29:10
+    relation: parallel
+    note: 'God enthroned over the waters: wa-kāna ʿarshuhu ʿalā l-māʾ vs YHWH lammabbûl yāšāb wayyēšeb YHWH melek lᵉʿôlām; qôl YHWH ʿal-hammāyim. Ps over the flood-waters (mabbûl); Q over the water before creation.'
+  - with: hb-ps-104-creation-hymn
+    motif: upper-chambers-on-waters
+    refs:
+    - '11:7'
+    with_refs:
+    - Ps 104:3
+    relation: echo
+    note: 'God''s dwelling built on the waters: hamᵉqāreh bammayim ʿăliyyôtāyw vs kāna ʿarshuhu ʿalā l-māʾ.'
+  - with: hb-ps-104-creation-hymn
+    motif: all-creatures-wait-for-food
+    refs:
+    - '11:6'
+    with_refs:
+    - Ps 104:27
+    relation: parallel
+    note: 'Every creature''s food comes from God: wa-mā min dābbatin fī l-arḍi illā ʿalā llāhi rizquhā vs kullām ʾēlêkā yᵉśabbērûn lātēt ʾoklām bᵉʿittô.'
+  - with: hb-gen-3-fall-expulsion
+    motif: hiding-from-god
+    refs:
+    - '11:5'
+    with_refs:
+    - Gen 3:7
+    - Gen 3:8
+    - Gen 3:10
+    relation: echo
+    note: 'Hiding from God, with garments: alā innahum yathnūna ṣudūrahum li-yastakhfū minhu alā ḥīna yastaghshūna thiyābahum yaʿlamu mā yusirrūna vs wayyitpᵉrû ʿălēh tᵉʾēnāh ... wayyitḥabbēʾ hāʾādām wᵉʾištô mippᵉnê YHWH ... wāʾēḥābēʾ. In Gen God has to call ʾayyekkāh; in Q God knows what they hide.'
+  - with: hb-deut-31-joshua-torah-song
+    motif: moses-writes-torah
+    refs:
+    - '11:17'
+    with_refs:
+    - Deut 31:9
+    - Deut 31:26
+    relation: echo
+    note: 'Moses'' book as a lasting standard for the people: wa-min qablihi kitābu mūsā imāman wa-raḥmatan vs wayyiktōb mōšeh ʾet-hattôrāh hazzōʾt ... wᵉhāyāh šām bᵉkā lᵉʿēd. Deut calls it a witness against the people; Q a guide and mercy.'
+  - with: hb-jer-5-sea-boundary
+    motif: eyes-that-do-not-see
+    refs:
+    - '11:20'
+    - '11:24'
+    with_refs:
+    - Jer 5:21
+    relation: echo
+    note: mā kānū yastaṭīʿūna s-samʿa wa-mā kānū yubṣirūn; ka-l-aʿmā wa-l-aṣammi vs ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû.
+- unit: quran-11-noah
+  checked:
+  - hb-gen-6-flood
+  - hb-gen-9-noah-drunk-curse
+  - hb-jer-7-queen-of-heaven
+  - hb-jer-14-drought
+  - hb-jonah-1-flight-and-storm
+  - hb-2kgs-2-ascension-of-elijah
+  matches:
+  - with: hb-gen-6-flood
+    motif: flood-hero-speaks-before-flood
+    refs:
+    - '11:25'
+    - '11:26'
+    - '11:27'
+    - '11:28'
+    - '11:29'
+    - '11:32'
+    - '11:38'
+    with_refs:
+    - Gen 6:22
+    - Gen 7:5
+    relation: divergence
+    note: 'Noah and his people before the flood: Gen records no word from Noah, only obedience (wayyaʿaś nōaḥ kᵉkōl ʾăšer-ṣiwwāhû YHWH); Q adds a long debate, innī lakum nadhīrun mubīnun an lā taʿbudū illā llāha, with the chiefs'' replies (mā narāka illā basharan mithlanā) and their mockery while he builds (sakhirū minhu).'
+  - with: hb-gen-6-flood
+    motif: cause-of-the-destruction
+    refs:
+    - '11:27'
+    - '11:37'
+    with_refs:
+    - Gen 6:11
+    - Gen 6:13
+    relation: divergence
+    note: 'Why they drown: Gen, the earth full of violence (kî-mālᵉʾāh hāʾāreṣ ḥāmās mippᵉnêhem); Q, rejecting the messenger and doing wrong (lladhīna ẓalamū innahum mughraqūn), after Noah''s preaching. In Gen all flesh perishes (qēṣ kol-bāśār); in Q ''Noah''s people''.'
+  - with: hb-gen-6-flood
+    motif: hero-warned-by-deity
+    refs:
+    - '11:36'
+    - '11:37'
+    with_refs:
+    - Gen 6:13
+    - Gen 6:17
+    relation: parallel
+    note: 'God tells Noah privately that the others will be destroyed by water: wa-ūḥiya ilā nūḥin annahu lan yuʾmina min qawmika illā man qad āmana ... innahum mughraqūn vs qēṣ kol-bāśār bāʾ lᵉpānay ... hinnî mēbîʾ ʾet-hammabbûl mayim.'
+  - with: hb-gen-6-flood
+    motif: build-vessel-on-instruction
+    refs:
+    - '11:37'
+    - '11:38'
+    with_refs:
+    - Gen 6:14
+    relation: parallel
+    note: wa-ṣnaʿi l-fulka bi-aʿyuninā wa-waḥyinā vs ʿăśēh lᵉkā tēbat ʿăṣê-gōper. Gen gives the material, measurements and pitch (6:14-16); Q only 'under our eyes and our inspiration'.
+  - with: hb-gen-6-flood
+    motif: onset-of-the-flood
+    refs:
+    - '11:40'
+    with_refs:
+    - Gen 7:11
+    relation: divergence
+    note: 'The sign that the flood begins: ḥattā idhā jāʾa amrunā wa-fāra t-tannūru (the oven boiled over) vs bayyôm hazzeh nibqᵉʿû kol-maʿyᵉnōt tᵉhôm rabbāh waʾărubbōt haššāmayim niptāḥû, dated to the 17th of the second month of Noah''s 600th year. Q has a domestic oven instead of the cosmic deep and the windows of heaven, and no date. cf. b. Sanhedrin 108b (boiling flood waters), outside the canon.'
+  - with: hb-gen-6-flood
+    motif: animals-in-pairs
+    refs:
+    - '11:40'
+    with_refs:
+    - Gen 6:19
+    - Gen 7:2
+    relation: parallel
+    note: min kullin zawjayni thnayni vs šᵉnayim mikkōl ... zākār ûnᵉqēbāh. Q lacks Gen's second rule of seven pairs of clean animals (šibʿāh šibʿāh, Gen 7:2).
+  - with: hb-gen-6-flood
+    motif: who-of-noahs-household-is-saved
+    refs:
+    - '11:40'
+    - '11:42'
+    - '11:43'
+    with_refs:
+    - Gen 6:18
+    - Gen 7:13
+    relation: divergence
+    note: 'The household on board: Gen has all of Noah''s family, by name, eight persons (bāʾ nōaḥ wᵉšēm wᵉḥām wāyepet bᵉnê-nōaḥ wᵉʾēšet nōaḥ ûšᵉlōšet nᵉšê-bānāyw); Q has his family ''except the one against whom the word went before'' plus the few believers (wa-ahlaka illā man sabaqa ʿalayhi l-qawlu wa-man āmana wa-mā āmana maʿahu illā qalīl). One son refuses, is called in vain (yā bunayya rkab maʿanā) and drowns (fa-kāna mina l-mughraqīn).'
+  - with: hb-gen-6-flood
+    motif: waters-cover-highest-mountains
+    refs:
+    - '11:42'
+    - '11:43'
+    with_refs:
+    - Gen 7:19
+    - Gen 7:20
+    relation: echo
+    note: 'No mountain gives refuge from the flood: saʾāwī ilā jabalin yaʿṣimunī mina l-māʾi qāla lā ʿāṣima l-yawma min amri llāh; fī mawjin ka-l-jibāl vs wayᵉkussû kol-hehārîm haggᵉbōhîm ... ḥămēš ʿeśrēh ʾammāh milmaʿlāh.'
+  - with: hb-gen-6-flood
+    motif: how-the-flood-waters-end
+    refs:
+    - '11:44'
+    with_refs:
+    - Gen 8:1
+    - Gen 8:2
+    - Gen 8:3
+    relation: divergence
+    note: 'Earth and sky are both stopped: yā arḍu blaʿī māʾaki wa-yā samāʾu aqliʿī wa-ghīḍa l-māʾu vs wayyissākᵉrû maʿyᵉnōt tᵉhôm waʾărubbōt haššāmayim wayyikkālēʾ haggešem ... wayyaʿăbēr ʾĕlōhîm rûaḥ ... wayyāšōkkû hammāyim. Changed: God commands the earth and the sky directly by word in Q; in Gen he sends a wind and the waters recede slowly over 150 days.'
+  - with: hb-gen-6-flood
+    motif: vessel-rests-on-mountain
+    refs:
+    - '11:44'
+    with_refs:
+    - Gen 8:4
+    relation: divergence
+    note: 'The landing place: wa-stawat ʿalā l-jūdiyyi vs wattānaḥ hattēbāh ... ʿal hārê ʾărārāṭ. A different mountain; cf. Targum Onqelos and the Peshitta on Gen 8:4 (Qardu), outside the Hebrew text.'
+  - with: hb-gen-6-flood
+    motif: noahs-speech-to-god
+    refs:
+    - '11:45'
+    - '11:47'
+    with_refs:
+    - Gen 7:5
+    - Gen 8:20
+    relation: divergence
+    note: Noah never speaks to God in Gen; he obeys and offers sacrifice (wayyiben nōaḥ mizbēaḥ laYHWH). In Q he calls to God for his drowned son (rabbi inna bnī min ahlī wa-inna waʿdaka l-ḥaqq), is rebuked, and asks for refuge and forgiveness.
+  - with: hb-gen-6-flood
+    motif: noahs-standing-before-god
+    refs:
+    - '11:46'
+    - '11:47'
+    with_refs:
+    - Gen 6:9
+    relation: divergence
+    note: 'Noah''s standing: Gen calls him nōaḥ ʾîš ṣaddîq tāmîm ... ʾet-hāʾĕlōhîm hithallek-nōaḥ; in Q he is warned not to be among the ignorant (innī aʿiẓuka an takūna mina l-jāhilīn) and pleads wa-illā taghfir lī wa-tarḥamnī akun mina l-khāsirīn.'
+  - with: hb-gen-6-flood
+    motif: end-of-the-flood-voyage
+    refs:
+    - '11:48'
+    with_refs:
+    - Gen 8:20
+    - Gen 8:21
+    relation: divergence
+    note: 'After the landing: Gen, Noah builds an altar and offers burnt offerings whose scent God smells (wayyāraḥ YHWH ʾet-rêaḥ hannîḥōaḥ); Q has no sacrifice, only a divine command and blessing: yā nūḥu hbiṭ bi-salāmin minnā wa-barakātin ʿalayka wa-ʿalā umamin mimman maʿak.'
+  - with: hb-gen-6-flood
+    motif: future-of-humankind-after-the-flood
+    refs:
+    - '11:48'
+    with_refs:
+    - Gen 8:21
+    relation: contrast
+    note: 'God''s word about later generations is opposite: Gen promises no repeat (lōʾ-ʾōsip ʿôd lᵉhakkôt ʾet-kol-ḥay kaʾăšer ʿāśîtî), because the human heart is evil from youth; Q announces that some later nations will enjoy life and then be punished again (wa-umamun sa-numattiʿuhum thumma yamassuhum minnā ʿadhābun alīm).'
+  - with: hb-gen-9-noah-drunk-curse
+    motif: noahs-unworthy-son
+    refs:
+    - '11:42'
+    - '11:43'
+    - '11:46'
+    with_refs:
+    - Gen 9:22
+    - Gen 9:24
+    - Gen 9:25
+    relation: divergence
+    note: 'One of Noah''s sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical counterpart; this pair is the nearest.'
+  - with: hb-jer-7-queen-of-heaven
+    motif: prophet-forbidden-to-intercede
+    refs:
+    - '11:37'
+    with_refs:
+    - Jer 7:16
+    relation: parallel
+    note: 'God forbids the prophet to plead for the doomed: wa-lā tukhāṭibnī fī lladhīna ẓalamū innahum mughraqūn vs wᵉʾattāh ʾal-titpallēl bᵉʿad hāʿām hazzeh ... kî-ʾênennî šōmēaʿ ʾōtāk.'
+  - with: hb-jer-14-drought
+    motif: prophet-forbidden-to-intercede
+    refs:
+    - '11:37'
+    with_refs:
+    - Jer 14:11
+    relation: parallel
+    note: ʾal-titpallēl bᵉʿad-hāʿām hazzeh lᵉṭôbāh vs wa-lā tukhāṭibnī fī lladhīna ẓalamū.
 - unit: quran-10-moses-pharaoh
   checked:
   - hb-exod-14-crossing-of-the-sea
@@ -3159,6 +3503,7 @@ reviewed:
   - hb-exod-5-bricks-without-straw
   - hb-exod-4-signs-aaron-bridegroom-of-blood
   - hb-exod-6-name-and-levite-genealogy
+  - hb-1kgs-8-dedication-prayer
   matches:
   - with: hb-exod-7-staff-swallows-staffs
     motif: moses-and-aaron-sent-with-signs
@@ -3295,3 +3640,99 @@ reviewed:
     - Exod 5:4
     relation: echo
     note: 'Pharaoh''s court accuses Moses and Aaron of turning the people aside: a-jiʾtanā li-talfitanā ʿammā wajadnā ʿalayhi ābāʾanā wa-takūna lakumā l-kibriyāʾu fī l-arḍ vs lāmmāh mōšeh wᵉʾahărōn tapriʿû ʾet-hāʿām mimmaʿăśāyw. In Exod the charge is distraction from labour; in Q turning them from ancestral religion and a bid for power.'
+  - with: hb-1kgs-8-dedication-prayer
+    motif: prayer-toward-the-temple
+    refs:
+    - 10:87
+    with_refs:
+    - 1Kgs 8:48
+    relation: echo
+    note: 'Prayer directed toward a chosen place: wa-jʿalū buyūtakum qiblatan wa-aqīmū ṣ-ṣalāh vs wᵉhitpallᵉlû ʾēlêkā derek ʾarṣām ... wᵉhabbayit ʾăšer-bānîtî lišmekā. In Kings the exiles pray toward the land, city and temple; in Q the Israelites in Egypt make their houses a qibla before any temple exists.'
+- unit: quran-11-hud
+  checked:
+  - hb-jer-14-drought
+  - hb-gen-6-flood
+  - hb-gen-19-sodom-destroyed
+  - hb-ezek-14-idols-in-heart-noah-daniel-job
+  - hb-ezek-33-watchman-and-fall-news
+  - hb-jer-15-confession-words-eaten
+  - hb-1kgs-8-dedication-prayer
+  - hb-mic-3-rulers-and-prophets
+  matches:
+  - with: hb-1kgs-8-dedication-prayer
+    motif: drought-as-punishment-for-sin
+    refs:
+    - '11:52'
+    with_refs:
+    - 1Kgs 8:35
+    - 1Kgs 8:36
+    relation: parallel
+    note: 'Asking forgiveness and turning back brings rain: istaghfirū rabbakum thumma tūbū ilayhi yursili s-samāʾa ʿalaykum midrāran vs bᵉhēʿāṣēr šāmayim wᵉlōʾ-yihyeh māṭār ... ûmēḥaṭṭāʾtām yᵉšûbûn ... wᵉsālaḥtā ... wᵉnātattāh māṭār (tūbū = yᵉšûbûn). Q says it to the non-Israelite ʿĀd; Kings to Israel praying at the temple.'
+  - with: hb-jer-14-drought
+    motif: drought-as-punishment-for-sin
+    refs:
+    - '11:52'
+    with_refs:
+    - Jer 14:4
+    - Jer 14:7
+    relation: echo
+    note: 'Rain withheld for sin, confession for its return: ʾim-ʿăwōnênû ʿānû bānû ... kî-rabbû mᵉšûbōtênû lᵉkā ḥāṭāʾnû (with the parched ground, kî lōʾ-hāyāh gešem) vs istaghfirū rabbakum ... yursili s-samāʾa ʿalaykum midrāran.'
+  - with: hb-jer-15-confession-words-eaten
+    motif: i-am-with-you-to-deliver
+    refs:
+    - '11:55'
+    - '11:56'
+    with_refs:
+    - Jer 15:20
+    relation: echo
+    note: 'The prophet stands alone against his people, trusting God''s protection: fa-kīdūnī jamīʿan thumma lā tunẓirūni innī tawakkaltu ʿalā llāhi rabbī wa-rabbikum vs wᵉnilḥămû ʾēlêkā wᵉlōʾ-yûkᵉlû lāk kî-ʾittᵉkā ʾănî lᵉhôšîʿăkā. In Jer God promises it; in Q the prophet defies them with it.'
+  - with: hb-mic-3-rulers-and-prophets
+    motif: seer-and-payment
+    refs:
+    - '11:51'
+    with_refs:
+    - Mic 3:11
+    relation: contrast
+    note: 'lā asʾalukum ʿalayhi ajran in ajriya illā ʿalā lladhī faṭaranī vs ûnᵉbîʾêhā bᵉkesep yiqsōmû: the messenger who takes no wage against prophets who take money.'
+- unit: quran-11-salih
+  checked:
+  - hb-job-33-elihu-dreams-and-angel
+  - hb-job-10-why-did-you-make-me
+  - hb-gen-2-eden-adam-woman
+  - hb-jer-19-broken-flask
+  - hb-jer-24-two-baskets-figs
+  - hb-jer-42-43-flight-to-egypt
+  - hb-2kgs-19-deliverance-of-jerusalem
+  matches:
+  - with: hb-gen-2-eden-adam-woman
+    motif: human-formed-from-earth
+    refs:
+    - 11:61
+    with_refs:
+    - Gen 2:7
+    relation: parallel
+    note: 'Humans made from the earth: huwa anshaʾakum mina l-arḍi wa-staʿmarakum fīhā vs wayyîṣer YHWH ʾĕlōhîm ʾet-hāʾādām ʿāpār min-hāʾădāmāh. Q adds that God settled them on it (istaʿmarakum fīhā).'
+  - with: hb-job-33-elihu-dreams-and-angel
+    motif: human-formed-from-earth
+    refs:
+    - 11:61
+    with_refs:
+    - Job 33:6
+    relation: echo
+    note: hēn-ʾănî kᵉpîkā lāʾēl mēḥōmer qōraṣtî gam-ʾānî vs anshaʾakum mina l-arḍ.
+  - with: hb-job-10-why-did-you-make-me
+    motif: human-formed-from-earth
+    refs:
+    - 11:61
+    with_refs:
+    - Job 10:9
+    relation: echo
+    note: kî-kaḥōmer ʿăśîtānî wᵉʾel-ʿāpār tᵉšîbēnî vs huwa anshaʾakum mina l-arḍ.
+  - with: hb-2kgs-19-deliverance-of-jerusalem
+    motif: found-dead-prostrate-in-homes
+    refs:
+    - 11:67
+    with_refs:
+    - 2Kgs 19:35
+    relation: echo
+    note: 'Struck at night, found dead in the morning: fa-aṣbaḥū fī diyārihim jāthimīn vs wayyaškîmû babbōqer wᵉhinnēh kullām pᵉgārîm mētîm. In Kings it is an angel''s blow on an invading army; in Q the Shout (aṣ-ṣayḥa) on Thamūd.'

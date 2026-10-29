@@ -97,6 +97,15 @@ new_motifs:
   setting-of-moses-call: {label: "Where and how Moses comes to the place of his call", cluster: exodus}
   sin-of-korah: {label: "What Korah's sin was, and why the earth swallowed him", cluster: exodus}
   onlookers-fear-the-same-fate: {label: "Bystanders of a divine punishment fear it could have struck them too", cluster: judgment}
+  kin-who-urge-other-gods: {label: "How to treat close kin who urge one to worship other gods", cluster: law}
+  bearing-anothers-sin: {label: "Whether one person can carry another's sin", cluster: ethics}
+  noahs-950-years: {label: "Noah's span of 950 years, and what it measures", cluster: flood}
+  why-abraham-leaves-his-homeland: {label: "Who leads Abraham's departure from his homeland, with Lot, and why", cluster: patriarchs}
+  how-abraham-is-brought-out: {label: "How God brings Abraham out of his homeland's danger (Ur, or the fire)", cluster: patriarchs}
+  abrahams-plea-for-the-doomed-city: {label: "Abraham's plea when told that the city of Lot will be destroyed", cluster: patriarchs}
+  lots-reception-of-the-messengers: {label: "How Lot receives the divine messengers", cluster: judgment}
+  messengers-announce-destruction-of-city: {label: "God's messengers announce that they are sent to destroy the city", cluster: judgment}
+  destruction-of-midian: {label: "How the people of Midian came to be destroyed", cluster: judgment}
 reviewed:
   - unit: quran-22-disputers-and-waverers
     checked: [hb-ps-135-hymn-of-election, hb-ps-115-not-to-us, hb-hab-2-watchtower-and-woes, hb-isa-40-comfort-my-people, hb-jer-10-idols-scarecrows, hb-job-1-prologue-first-test, hb-job-2-second-test-and-friends]
@@ -2291,3 +2300,186 @@ reviewed:
         with_refs: ["Ps 102:27", "Ps 102:28"]
         relation: parallel
         note: "kullu shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā lōʾ yittāmmû: everything perishes (halaka / ʾāvad) except God."
+  - unit: quran-29-trial-of-believers
+    checked: [hb-deut-13-enticers, hb-jer-31-consolation-new-covenant, hb-gen-22-aqedah, hb-ezek-3-watchman-and-muteness, hb-ezek-18-sour-grapes, hb-job-1-prologue-first-test, hb-exod-20-decalogue]
+    matches:
+      - with: hb-deut-13-enticers
+        motif: kin-who-urge-other-gods
+        refs: ["29:8"]
+        with_refs: ["Deut 13:7", "Deut 13:9", "Deut 13:10"]
+        relation: divergence
+        note: "Close kin who press one to other gods: Deut lists brother, son, daughter, wife and friend (but not parents), kî yəsîtəkhā ... nēlkhâ wə-naʿavdâ ʾĕlōhîm ʾăḥērîm, and commands lōʾ tōʾveh lô wə-lōʾ tišmaʿ ʾēlāyw wə-lōʾ tāḥôs ... kî hārōg tahargennû. The Quran names exactly the parents, wa-in jāhadāka li-tushrika bī ... fa-lā tuṭiʿhumā: do not obey them, but the same verse enjoins kindness to them (bi-wālidayhi ḥusnan) and leaves judgment to God (ilayya marjiʿukum). Refusal plus execution becomes refusal plus continued kindness."
+      - with: hb-exod-20-decalogue
+        motif: honor-parents-long-life
+        refs: ["29:8"]
+        with_refs: ["Exod 20:12"]
+        relation: parallel
+        note: "wa-waṣṣaynā l-insāna bi-wālidayhi ḥusnan ~ kabbēd ʾet ʾāvîkā wə-ʾet ʾimmekā: a divine command to honor parents. The Quran leaves out Exodus' reward (ləmaʿan yaʾărikhûn yāmêkā) and adds the limit: no obedience in idolatry."
+      - with: hb-gen-22-aqedah
+        motif: god-tests-patriarch
+        refs: ["29:2", "29:3"]
+        with_refs: ["Gen 22:1"]
+        relation: parallel
+        note: "wa-la-qad fatannā lladhīna min qablihim fa-la-yaʿlamanna llāhu lladhīna ṣadaqū ~ wə-hā-ʾĕlōhîm nissâ ʾet ʾAvrāhām: God tests (fatana / nissâ) to know true faith (cf. Gen 22:12 ʿattâ yādaʿtî kî yərēʾ ʾĕlōhîm ʾattâ). Genesis tests one patriarch with one command; the Quran makes testing the rule for everyone who says 'we believe'."
+      - with: hb-job-1-prologue-first-test
+        motif: conditional-piety-tested-by-misfortune
+        refs: ["29:10", "29:11"]
+        with_refs: ["Job 1:9", "Job 1:11"]
+        relation: echo
+        note: "wa-mina n-nāsi man yaqūlu āmannā bi-llāhi fa-idhā ūdhiya fī llāhi jaʿala fitnata n-nāsi ka-ʿadhābi llāhi ... wa-la-yaʿlamanna llāhu ... l-munāfiqīn ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm ... wə-gaʿ bə-khol ʾăšer lô ʾim lōʾ ʿal pānêkā yəvārăkekkā: suffering as the test of whether professed faith is real. In Job the test proves the man true; the Quran's example is the one who fails."
+      - with: hb-ezek-18-sour-grapes
+        motif: bearing-anothers-sin
+        refs: ["29:12", "29:13"]
+        with_refs: ["Ezek 18:4", "Ezek 18:20"]
+        relation: divergence
+        note: "Can sin be carried by another? Ezekiel: han-nefeš ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ yiśśāʾ baʿăwōn hā-āv, no one bears (nāśāʾ) another's iniquity. The Quran agrees that the tempters' offer wa-l-naḥmil khaṭāyākum is false (wa-mā hum bi-ḥāmilīna min khaṭāyāhum min shayʾ), but adds that misleaders will carry 'their own loads and loads besides their loads' (athqālan maʿa athqālihim). cf. m. Avot 5:18, outside the HB."
+      - with: hb-jer-31-consolation-new-covenant
+        motif: individual-responsibility-for-sin
+        refs: ["29:12"]
+        with_refs: ["Jer 31:30"]
+        relation: echo
+        note: "wa-mā hum bi-ḥāmilīna min khaṭāyāhum min shayʾin ~ kî ʾim ʾîš baʿăwōnô yāmût: each bears his own guilt."
+      - with: hb-ezek-3-watchman-and-muteness
+        motif: righteous-man-who-turns-to-evil-dies
+        refs: ["29:10", "29:11"]
+        with_refs: ["Ezek 3:20"]
+        relation: echo
+        note: "man yaqūlu āmannā ... fa-idhā ūdhiya ... ~ û-və-šûv ṣaddîq miṣ-ṣidqô wə-ʿāśâ ʿāwel wə-nātattî mikhšôl ləfānāyw: professed righteousness that gives way under a test God places (mikhšôl / fitna)."
+  - unit: quran-29-noah-950
+    checked: [hb-gen-9-noah-drunk-curse, hb-gen-6-flood, hb-jonah-1-flight-and-storm, hb-gen-32-preparing-to-meet-esau, hb-gen-9-noahide-covenant]
+    matches:
+      - with: hb-gen-9-noah-drunk-curse
+        motif: noahs-950-years
+        refs: ["29:14"]
+        with_refs: ["Gen 9:28", "Gen 9:29"]
+        relation: divergence
+        note: "The same number with a different meaning: Genesis gives the whole lifespan, wa-yyihyû kol yəmê Nōaḥ təšaʿ mēʾôt šānâ wa-ḥămiššîm šānâ wa-yyāmōt (350 of them after the flood); the Quran gives the time Noah spent preaching among his people before the flood, fa-labitha fīhim alfa sanatin illā khamsīna ʿāman fa-akhadhahumu ṭ-ṭūfān. The Quran also writes 'a thousand less fifty' instead of 'nine hundred and fifty'."
+      - with: hb-gen-6-flood
+        motif: cause-of-the-destruction
+        refs: ["29:14"]
+        with_refs: ["Gen 6:13", "Gen 7:23"]
+        relation: divergence
+        note: "fa-akhadhahumu ṭ-ṭūfānu wa-hum ẓālimūna ~ kî mālʾâ hā-ʾāreṣ ḥāmās ... wa-yyimmaḥ ʾet kol hay-yəqûm: the flood (ṭūfān / mabbûl) takes those who did wrong. Genesis gives the earth's violence, all flesh perishing; the Quran gives his people's wrongdoing after centuries of being warned (arsalnā Nūḥan ilā qawmihi)."
+      - with: hb-gen-9-noahide-covenant
+        motif: sign-left-by-the-flood
+        refs: ["29:15"]
+        with_refs: ["Gen 9:13"]
+        relation: divergence
+        note: "What the flood leaves as a sign for later people: ʾet qaštî nātattî beʿānān wə-hāyətâ lə-ʾôt bərît (the bow in the cloud, a covenant sign) ~ fa-anjaynāhu wa-aṣḥāba s-safīnati wa-jaʿalnāhā āyatan li-l-ʿālamīna (the ship, or the rescue, made a sign for the worlds)."
+  - unit: quran-29-abraham-preaches
+    checked: [hb-ps-105-history, hb-gen-11-shem-to-terah, hb-exod-3-burning-bush, hb-ezek-20-history-of-rebellion, hb-neh-9-levites-confession, hb-gen-12-call-of-abram, hb-jer-14-lament-and-plea]
+    matches:
+      - with: hb-gen-11-shem-to-terah
+        motif: why-abraham-leaves-his-homeland
+        refs: ["29:26"]
+        with_refs: ["Gen 11:31"]
+        relation: divergence
+        note: "Who leads the departure: Genesis has the father, wa-yyiqqaḥ Teraḥ ʾet ʾAvrām bənô wə-ʾet Lôṭ ben Hārān ... wa-yyēṣəʾû ʾittām mē-ʾÛr Kaśdîm, a family migration led by the idolater Terah (Josh 24:2); the Quran has a religious emigration after Abraham's people reject him, fa-āmana lahu Lūṭun wa-qāla innī muhājirun ilā rabbī. Lot goes because he believes, not as Terah's grandson."
+      - with: hb-gen-12-call-of-abram
+        motif: why-abraham-leaves-his-homeland
+        refs: ["29:26"]
+        with_refs: ["Gen 12:1", "Gen 12:4"]
+        relation: divergence
+        note: "lekh ləkhā mē-ʾarṣəkhā ... wa-yyēlekh ʾAvrām ka-ʾăšer dibber ʾēlāyw YHWH wa-yyēlekh ʾittô Lôṭ ~ fa-āmana lahu Lūṭun wa-qāla innī muhājirun ilā rabbī: Abraham leaves with Lot. In Genesis God's command starts it and the goal is a land (ʾel hā-ʾāreṣ ʾăšer ʾarʾekkā); in the Quran the emigrant goes 'to my Lord', and no command or land is mentioned."
+      - with: hb-neh-9-levites-confession
+        motif: how-abraham-is-brought-out
+        refs: ["29:24", "29:26"]
+        with_refs: ["Neh 9:7"]
+        relation: divergence
+        note: "ʾăšer bāḥartā bə-ʾAvrām wə-hôṣēʾtô mē-ʾÛr Kaśdîm ~ qālū qtulūhu aw ḥarriqūhu fa-anjāhu llāhu mina n-nāri: God 'brought Abraham out' of Ur of the Chaldees (Nehemiah) or 'saved him from the fire' (Quran). The link is made by the midrashic reading of ʾûr as 'fire' (cf. Gen. Rab. 38:13, outside the HB); in the HB itself Ur is only a place."
+      - with: hb-ps-105-history
+        motif: god-of-abraham-isaac-jacob
+        refs: ["29:27"]
+        with_refs: ["Ps 105:9", "Ps 105:10", "Ps 105:15"]
+        relation: echo
+        note: "wa-wahabnā lahu Isḥāqa wa-Yaʿqūba wa-jaʿalnā fī dhurriyyatihi n-nubuwwata wa-l-kitāba ~ ʾăšer kārat ʾet ʾAvrāhām û-šəvûʿātô lə-Yiśḥāq wa-yyaʿămîdehā lə-Yaʿăqōv ... ʾal tiggəʿû vi-mšîḥāy wə-li-nvîʾay ʾal tārēʿû: Abraham, Isaac and Jacob as a line of God's favor, and the patriarchs called 'prophets' (nəvîʾay / nubuwwa). The Psalm speaks of covenant and oath, the Quran of gifts, prophecy and the Book."
+      - with: hb-jer-14-lament-and-plea
+        motif: idols-cannot-give-rain
+        refs: ["29:17"]
+        with_refs: ["Jer 14:22"]
+        relation: echo
+        note: "inna lladhīna taʿbudūna min dūni llāhi lā yamlikūna lakum rizqan fa-btaghū ʿinda llāhi r-rizqa ~ ha-yēš bə-havlê hag-gôyim magšimîm ... hălōʾ ʾattâ hûʾ: the idols cannot provide (rain or provision); only God can."
+  - unit: quran-29-lot
+    checked: [hb-gen-19-sodom-destroyed, hb-ps-11-flee-like-bird, hb-jer-50-oracle-babylon-1, hb-isa-1-indictment-of-judah, hb-ezek-16-sisters-sodom-samaria, hb-gen-18-abraham-bargains]
+    matches:
+      - with: hb-gen-18-abraham-bargains
+        motif: abrahams-plea-for-the-doomed-city
+        refs: ["29:31", "29:32"]
+        with_refs: ["Gen 18:23", "Gen 18:25", "Gen 18:32"]
+        relation: divergence
+        note: "Abraham's response to the news: Genesis has a long bargain for the city's sake on principle, ha-ʾap tispeh ṣaddîq ʿim rāšāʿ ... ha-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ, from fifty righteous down to ten. The Quran has one objection about one man, inna fīhā Lūṭan, and the answer naḥnu aʿlamu bi-man fīhā la-nunajjiyannahu wa-ahlahu illā mraʾatahu. Concern for the city becomes concern for Lot, and there is no bargaining."
+      - with: hb-gen-19-sodom-destroyed
+        motif: lots-reception-of-the-messengers
+        refs: ["29:33"]
+        with_refs: ["Gen 19:1", "Gen 19:2", "Gen 19:3"]
+        relation: divergence
+        note: "Lot and the guests: Genesis has him rise, bow and press them to stay (wa-yyifṣar bām məʾōd), and he makes a feast with unleavened bread; the Quran has him distressed and helpless on their account, sīʾa bihim wa-ḍāqa bihim dharʿan, until they reassure him, lā takhaf wa-lā taḥzan innā munajjūka. Eager hospitality becomes dismay."
+      - with: hb-gen-19-sodom-destroyed
+        motif: messengers-announce-destruction-of-city
+        refs: ["29:31", "29:34"]
+        with_refs: ["Gen 19:13"]
+        relation: parallel
+        note: "innā muhlikū ahli hādhihi l-qaryati inna ahlahā kānū ẓālimīna ... innā munzilūna ʿalā ahli hādhihi l-qaryati rijzan mina s-samāʾi ~ kî mašḥitîm ʾănaḥnû ʾet ham-māqôm haz-zeh ... wa-yšallə ḥēnû YHWH ləšaḥătāh: the messengers declare they are sent to destroy 'this place / this town'. In Genesis they say it to Lot; in the Quran first to Abraham, then to Lot."
+      - with: hb-gen-19-sodom-destroyed
+        motif: fate-of-lots-wife
+        refs: ["29:32", "29:33"]
+        with_refs: ["Gen 19:26"]
+        relation: divergence
+        note: "illā mraʾataka kānat mina l-ghābirīna ~ wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ: the wife's fate is known in advance and told to Abraham and Lot in the Quran; Genesis tells it as her own act during the flight."
+      - with: hb-ezek-16-sisters-sodom-samaria
+        motif: sin-of-sodom-pride-plenty-neglect-of-poor
+        refs: ["29:29"]
+        with_refs: ["Ezek 16:49"]
+        relation: echo
+        note: "wa-taqṭaʿūna s-sabīla wa-taʾtūna fī nādīkumu l-munkara ~ hinnēh zeh hāyâ ʿăwōn Sədōm ... gāʾôn śivʿat leḥem wə-šalwat hašqēṭ ... wə-yad ʿānî wə-ʾevyôn lōʾ heḥĕzîqâ: Sodom's sin extended beyond Gen 19 to social crimes, robbery of travelers in the Quran and neglect of the poor in Ezekiel. cf. b. Sanh. 109a-b, outside the HB."
+      - with: hb-jer-50-oracle-babylon-1
+        motif: overthrow-of-sodom-and-gomorrah-as-paradigm
+        refs: ["29:35"]
+        with_refs: ["Jer 50:40"]
+        relation: echo
+        note: "wa-la-qad taraknā minhā āyatan bayyinatan li-qawmin yaʿqilūna ~ kə-mahpēkhat ʾĕlōhîm ʾet Sədōm wə-ʾet ʿĂmōrâ ... lōʾ yēšēv šām ʾîš: Sodom's ruin as a lasting lesson; Jeremiah uses it as a model for Babylon's fate, the Quran as a sign for those who reason."
+      - with: hb-ps-11-flee-like-bird
+        motif: fire-and-brimstone-from-heaven
+        refs: ["29:34"]
+        with_refs: ["Ps 11:6"]
+        relation: echo
+        note: "rijzan mina s-samāʾi ~ yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-gofrît: punishment poured from the sky on the wicked."
+  - unit: quran-29-destroyed-nations
+    checked: [hb-ps-78-history, hb-ps-106-national-confession, hb-num-26-second-census, hb-exod-14-crossing-of-the-sea, hb-josh-10-sun-stands-still, hb-num-31-midian-war]
+    matches:
+      - with: hb-num-26-second-census
+        motif: earth-swallows-rebels
+        refs: ["29:39", "29:40"]
+        with_refs: ["Num 26:9", "Num 26:10", "Num 26:11"]
+        relation: parallel
+        note: "wa-Qārūna ... wa-minhum man khasafnā bihi l-arḍa ~ wat-tiftaḥ hā-ʾāreṣ ʾet pîhā wat-tivlaʿ ʾōtām wə-ʾet Qōraḥ ... wa-yyihyû lə-nēs: Korah swallowed by the earth and made a sign (nēs). Numbers adds û-vənê Qōraḥ lōʾ mētû; the Quran groups Korah with Pharaoh and Hāmān, not with Dathan and Abiram."
+      - with: hb-ps-106-national-confession
+        motif: catalogue-of-punishments-of-nations
+        refs: ["29:40"]
+        with_refs: ["Ps 106:11", "Ps 106:17", "Ps 106:18"]
+        relation: echo
+        note: "fa-minhum man arsalnā ʿalayhi ḥāṣiban wa-minhum man akhadhathu ṣ-ṣayḥatu wa-minhum man khasafnā bihi l-arḍa wa-minhum man aghraqnā ~ wa-yəkhassû mayim ṣārêhem ʾeḥād mēhem lōʾ nôtār ... tiftaḥ ʾereṣ wat-tivlaʿ Dātān ... wat-tivʿar ʾēš: a recital of punishments by water, earth and fire. In the Psalm they fall on Egypt and on Israel's own rebels, in the Quran on a series of nations."
+      - with: hb-ps-78-history
+        motif: pursuers-drowned-in-sea
+        refs: ["29:40"]
+        with_refs: ["Ps 78:53"]
+        relation: echo
+        note: "wa-minhum man aghraqnā ~ wə-ʾet ʾôyəvêhem kissâ hay-yām: Pharaoh's host drowned."
+      - with: hb-exod-14-crossing-of-the-sea
+        motif: pursuers-drowned-in-sea
+        refs: ["29:39", "29:40"]
+        with_refs: ["Exod 14:28"]
+        relation: echo
+        note: "wa-Firʿawna wa-Hāmāna ... wa-minhum man aghraqnā ~ lōʾ nišʾar bāhem ʿad ʾeḥād: Pharaoh's drowning, in the Quran shared with Hāmān."
+      - with: hb-josh-10-sun-stands-still
+        motif: hailstones-from-heaven-kill-enemy
+        refs: ["29:40"]
+        with_refs: ["Josh 10:11"]
+        relation: echo
+        note: "man arsalnā ʿalayhi ḥāṣiban ~ wa-YHWH hišlîkh ʿălêhem ʾăvānîm gədōlôt min haš-šāmayim: a storm of stones (ḥāṣib) or great hailstones from heaven sent by God."
+      - with: hb-num-31-midian-war
+        motif: destruction-of-midian
+        refs: ["29:36", "29:37"]
+        with_refs: ["Num 31:7", "Num 31:8"]
+        relation: divergence
+        note: "How Midian falls: Numbers has holy war waged by Israel at God's command, wa-yyiṣbəʾû ʿal Midyān ka-ʾăšer ṣiwwâ YHWH ʾet Mōše wa-yyahargû kol zākhār, with Midian's five kings and Balaam slain by the sword; the Quran has divine punishment after rejecting their own prophet, wa-ilā Madyana akhāhum Shuʿayban ... fa-kadhdhabūhu fa-akhadhathumu r-rajfatu fa-aṣbaḥū fī dārihim jāthimīn. The HB has no prophet sent to Midian."
