@@ -123,6 +123,9 @@ new_motifs:
   shepherd-counts-flock-each-night: {label: "The shepherd counts the flock every evening and sets a tally-stick in the ground", cluster: pastoral}
   wild-animals-threaten-flock: {label: "Snakes, bandits and wild creatures of the plain threaten the flock and seek its life", cluster: pastoral}
   younger-sister-sheep-bows-to-grain: {label: "In the verdict one sister must kneel before the other and kiss her feet; both remain sisters", cluster: wisdom}
+  underworld-god-king-of-sunset: {label: "A fierce god of the underworld is called king of the sunset (the place where the sun goes down)", cluster: underworld}
+  god-born-in-the-mountains: {label: "A warrior god was born in the mountains (in the women's chambers of the mountains) and is strong there", cluster: theogony}
+  incantation-priestess-given-office-by-enki: {label: "A healing deity's office of incantation priest(ess) was bestowed by Enki from the abzu", cluster: healing}
 units:
   - id: ane-etcsl-4-16-1-1-nisaba-epithets
     tradition: ane-sumerian
@@ -259,7 +262,7 @@ units:
     tagger: "Claude (model), reading the Sumerian"
     read: ["ETCSL 4.22.1 27-60"]
     tags:
-      - {motif: secret-incantation-unknown-to-gods, refs: ["ETCSL 4.22.1 30-31"], note: "nam-išib mu-na-ak-e / {d}en-ki-ke4 abzu nun-na-ta saĝ-e-eš mu-ni-in-rig7: the role of incantation priest given her by Enki from the abzu (no secrecy stated; tag for the Enki-sourced incantation)"}
+      - {motif: incantation-priestess-given-office-by-enki, refs: ["ETCSL 4.22.1 30-31"], note: "kug {d}nin-isin2{si}-na nam-išib mu-na-ak-e / {d}en-ki-ke4 abzu nun-na-ta saĝ-e-eš mu-ni-in-rig7"}
       - {motif: sick-man-writhes-like-snake, refs: ["ETCSL 4.22.1 32-35"], note: "šag4-gig lipiš-gig: heart- and intestinal disease; muš ki bil2-gin7 i-im-bal-bal-e: writhes like a snake on scorched ground; šag4-ĝu10 lipiš-ĝu10 ... im-me"}
       - {motif: illness-leaves-like-wind, refs: ["ETCSL 4.22.1 36-42"], note: "tu6 bi2-in-dug4 ba-sag9: she speaks the spell and they are well; i3-nun-e: with ghee in her great bowl; tum9-gin7 kuš-a-na ... ed2-de3: out of his body like wind; izi ... ni2-ba mu-un-te-en-te-en"}
       - {motif: personal-gods-plead-healer-intercedes, refs: ["ETCSL 4.22.1 43-45"], note: "diĝir nam-lu2-ulu3 sizkur a-ra-zu-a mu-na-an-sug2-sug2-ge-eš; an-ra {d}en-lil2-ra ... mu-un-ne-de3-en-ku4-ku4"}
@@ -284,7 +287,6 @@ units:
       - {motif: culture-heroes-inventors, refs: ["ETCSL 4.22.1 61-63"], note: "niĝ2 nu-sig9-ge en3 nam-ši-in-tar / niĝ2 nu-dim2-me-de3 ĝeštug2-ga-ni na-an-gub: she attended to things not usually done"}
       - {motif: goddess-as-midwife-cuts-cord, refs: ["ETCSL 4.22.1 74-79"], note: "šar2 ki-sikil li-li ĝa2-ĝa2-de3: offspring for thousands of young women; baḫar2-ra-ke4 si sa2-e-de3: like a potter; gi-dur kud-de3 nam tar-re-de3: cut the cord, decree the fate; dumu ... gu3 nun sud-sud-de3: make the child cry; saĝ šu bal ak-de3: turn it upside down"}
       - {motif: god-as-midwife-of-birth, refs: ["ETCSL 4.22.1 74-79"]}
-      - {motif: pot-questions-potter, refs: ["ETCSL 4.22.1 75"], note: "baḫar2{!}-ra-ke4 si sa2-e-de3: the midwife puts things in order 'like a potter'; image of the potter-creator only"}
     hints:
       - "Compare Ps 22:10-11 and Ps 71:6 (you drew me from the womb) and Job 10:8-11 (fashioned like clay)."
       - "Compare Ezek 16:4 (on the day you were born your cord was not cut) for the midwife's cutting the cord."
@@ -487,7 +489,7 @@ units:
       - {motif: sun-god-judge-of-gods, refs: ["ETCSL 4.27.01 A:4"], note: "di-kud si sa2: rigorous judge (said of Ninurta)"}
       - {motif: warrior-god-enthroned-on-dais-of-an, refs: ["ETCSL 4.27.01 A:8", "ETCSL 4.27.01 A:11-A:12"], note: "barag an-na-ke4 dur2 nam-[mi-in-ĝar]; ĝidru kug-an sud-aĝ2 šu-na; men zid an-na saĝ-ĝa2"}
       - {motif: god-rises-like-sun-and-moon, refs: ["ETCSL 4.27.01 A:9-A:14"], note: "ud-sakar gibil-am3 uĝ3-e pa am3-[…-e3]: like the new moon; {d}utu ḫa-šu-ur2-ta e3-am3"}
-      - {motif: born-of-mountain-cave-orphan-of-sun, refs: ["ETCSL 4.27.01 A:16"], note: "lugal ama5 kur-ra in-tud: the king born in the women's chambers of the mountains"}
+      - {motif: god-born-in-the-mountains, refs: ["ETCSL 4.27.01 A:16"], note: "lugal ama5 kur-ra in-tud: the king born in the women's chambers of the mountains"}
     hints:
       - "Compare Ps 110:1-2 (sit at my right hand, the sceptre of your strength) and Ps 2:6-9 (the son set on Zion)."
       - "Compare Ps 89:37-38 (his throne like the sun, established like the moon) and Mal 3:20 (the sun of righteousness)."
@@ -556,7 +558,7 @@ units:
       - {motif: consort-intercedes-for-king, refs: ["ETCSL 4.27.03 42-48"], note: "[nitalam] ki aĝ2 {d}nin-nibru{ki}-ke4 egir2 maḫ ḫe2-da-sag9: may the beloved spouse Ninnibru be favourable; igi-bi-a sag9"}
       - {motif: divine-self-praise-i-am, refs: ["ETCSL 4.27.03 52-57"], note: "ĝe26-e ur-saĝ-me-en {d}en-lil2-la2-me-en / inim zu2 keše2-da nibru{ki}-me-en"}
       - {motif: man-after-gods-heart, refs: ["ETCSL 4.27.03 55"], note: "[a]-a-ĝu10 {d}en-lil2-le lu2 šag4-ga-na-me-en: I am the man of my father Enlil's heart"}
-      - {motif: born-of-mountain-cave-orphan-of-sun, refs: ["ETCSL 4.27.03 57"], note: "kur-ra u3-tud-da-me-en kur-ra a2-ĝal2-me-en: born in the mountains, strong in the mountains"}
+      - {motif: god-born-in-the-mountains, refs: ["ETCSL 4.27.03 57"], note: "kur-ra u3-tud-da-me-en kur-ra a2-ĝal2-me-en: born in the mountains, strong in the mountains"}
       - {motif: god-overturns-mountains-shakes-earth, refs: ["ETCSL 4.27.03 58-59"], note: "šeg11 gi4-a-zu-še3 kur i3-tuku4-tuku4-e: at your roar the mountains tremble; a-ma-ru {tum9}u18-lu nim-gin7 ĝir2-ĝir2-e: deluge, south storm flashing like lightning"}
       - {motif: god-is-right-arm-of-high-god, refs: ["ETCSL 4.27.03 66-67"], note: "[ur]-saĝ a2 zid-da {d}en-lil2-la2 šul gaba-ri nu-tuku"}
       - {motif: named-weapons-of-divine-warrior, refs: ["ETCSL 4.27.03 68"], note: "[X] saĝ 50: the fifty-headed (mace)"}
@@ -960,7 +962,7 @@ units:
     read: ["ETCSL 4.80.1 457-506"]
     tags:
       - {motif: city-as-cosmic-bond, refs: ["ETCSL 4.80.1 457"], note: "e2-ĝiš-keše2-da-kalam-ma: House which is the bond of the Land"}
-      - {motif: dead-king-made-judge-of-underworld, refs: ["ETCSL 4.80.1 463-465"], note: "diĝir ḫuš ki-a lugal ud-šu2-uš: fierce god of the underworld, king of sunset (Nergal); god not a king"}
+      - {motif: underworld-god-king-of-sunset, refs: ["ETCSL 4.80.1 463-465"], note: "diĝir ḫuš ki-a lugal ud-šu2-uš: fierce god of the underworld, king of sunset (Nergal, Mešlamta-ea)"}
       - {motif: moon-god-as-shepherd, refs: ["ETCSL 4.80.1 469-470"], note: "e2-ab2-lu-a tur3 daĝal-la / {d}aš-im2-babbar-e nam-sipad-zu ša-mu-un-ak: Ašimbabbar is your shepherd"}
       - {motif: people-sleep-and-rise-with-the-sun, refs: ["ETCSL 4.80.1 482-483"], note: "en nu2-a-ni uĝ3 nu2-de3 / zi-zi-da-ni uĝ3 zi-zi-de3"}
       - {motif: sun-god-judge-of-gods, refs: ["ETCSL 4.80.1 468", "ETCSL 4.80.1 489"], note: "ki di ku5-ru {d}suen-na; di ku5-ru ki ud e3: pronouncing judgment where the sun rises"}
