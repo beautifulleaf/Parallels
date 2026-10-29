@@ -202,6 +202,8 @@ new_motifs:
   no-king-ever-like-me: {label: "Claim that no king of Sumer as great as the speaker has ever existed for the people", cluster: kingship}
   god-crowns-king-from-heaven: {label: "The sky god places a lofty crown firmly on the king's head; he takes the sceptre in the god's temple", cluster: kingship}
   hymns-to-be-sung-of-king: {label: "Wish that the king's name be proclaimed in the four regions and praised in holy hymns", cluster: kingship}
+  people-acclaim-king: {label: "The people of the cities line up and gaze on the king with admiration as he passes", cluster: kingship}
+  king-bathes-and-feasts-in-goddess-palace: {label: "The king bathes in flowing water and feasts kneeling in a goddess's palace", cluster: cult}
 units:
   - id: ane-etcsl-2-2-5-a-destroyer-created
     tradition: ane-sumerian
