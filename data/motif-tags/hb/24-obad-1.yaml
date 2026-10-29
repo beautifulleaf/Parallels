@@ -326,6 +326,7 @@ new_motifs:
   elijah-sent-before-day-of-yhwh: {label: "God will send Elijah the prophet before the great and terrible day of YHWH", cluster: eschatology}
   hearts-of-fathers-turned-to-sons: {label: "Elijah will turn the hearts of fathers to their sons and of sons to their fathers, lest God strike the land with a ban (herem)", cluster: eschatology}
   book-ends-on-curse-word-repeated-verse: {label: "A book ends on a harsh word, so synagogue reading repeats the previous verse (Isaiah, Malachi, Lamentations, Ecclesiastes)", cluster: liturgy}
+  god-curses-priests-blessings: {label: "God will send the curse on the priests and curse their blessings if they do not give glory to his name", cluster: priesthood}
 units:
   - id: hb-obad-1-edom-brought-down
     tradition: judaism
@@ -495,7 +496,6 @@ units:
     tags:
       - {motif: tell-it-not-in-gath, refs: ["Mic 1:10"], note: "quotes David's lament 2Sam 1:20"}
       - {motif: wordplay-on-town-names-in-lament, refs: ["Mic 1:10", "Mic 1:11", "Mic 1:13", "Mic 1:14", "Mic 1:15"], note: "Beth-leaphrah/afar, Lachish/rekhesh, Achzib/akhzav, Mareshah/yoresh"}
-      - {motif: mourning-rites-torn-clothes-dust, refs: ["Mic 1:10"], note: "'roll yourself in dust'"}
       - {motif: baldness-like-vulture-mourning, refs: ["Mic 1:16"]}
     hints:
       - "Isa 10:28-32 is a similar town-by-town march poem. Assyrian annals of Sennacherib's 701 campaign and the Lachish reliefs."
@@ -566,7 +566,6 @@ units:
     tags:
       - {motif: daughter-zion-in-labor, refs: ["Mic 4:9", "Mic 4:10"]}
       - {motif: redemption-from-babylon-announced, refs: ["Mic 4:10"]}
-      - {motif: coalition-of-nations-against-israel, refs: ["Mic 4:11"]}
       - {motif: nations-gathered-like-sheaves-to-threshing-floor, refs: ["Mic 4:12"]}
       - {motif: zion-threshes-with-iron-horn, refs: ["Mic 4:13"]}
       - {motif: judge-of-israel-struck-on-cheek, refs: ["Mic 4:14"]}
@@ -845,7 +844,6 @@ units:
     tags:
       - {motif: officials-lions-judges-evening-wolves, refs: ["Zeph 3:3"], note: "ha-ir ha-yonah in 3:1: 'the oppressing city' or 'the dove city'"}
       - {motif: priests-and-prophets-for-hire, refs: ["Zeph 3:4"], note: "reckless prophets, priests who do violence to Torah"}
-      - {motif: just-ruler-like-morning-sun, refs: ["Zeph 3:5"], note: "loosely: 'morning by morning he brings his justice to light'"}
       - {motif: verse-containing-whole-alphabet, refs: ["Zeph 3:8"], note: "Masoretic note: all letters including final forms"}
       - {motif: pour-out-wrath-on-nations, refs: ["Zeph 3:8"]}
       - {motif: pure-lip-given-to-peoples, refs: ["Zeph 3:9"], note: "reversal of Babel's confused safah"}
@@ -1136,7 +1134,6 @@ units:
       - {motif: tyre-heaps-silver-like-dust, refs: ["Zech 9:3", "Zech 9:4"], note: "Tyre builds a matsor, punning on Tsor"}
       - {motif: mamzer-dwells-in-ashdod, refs: ["Zech 9:6"]}
       - {motif: philistine-remnant-incorporated-into-judah, refs: ["Zech 9:7"], note: "blood and detestable food removed from between his teeth"}
-      - {motif: wisdom-of-edom-teman, refs: ["Zech 9:2"], note: "loosely: Tyre and Sidon 'very wise'"}
     hints:
       - "Often linked to Alexander's march (332 BCE) and siege of Tyre (Arrian, Anabasis 2.15-24). Ezek 28 (wisdom and wealth of Tyre)."
   - id: hb-zech-9-king-on-a-donkey
@@ -1304,7 +1301,7 @@ units:
     tagger: Claude (model), reading the Hebrew
     read: ["Mal 2:1-9"]
     tags:
-      - {motif: curse-and-oath-to-keep-torah, refs: ["Mal 2:2"], note: "loosely: God will curse their blessings"}
+      - {motif: god-curses-priests-blessings, refs: ["Mal 2:2"]}
       - {motif: dung-of-feasts-spread-on-priests-faces, refs: ["Mal 2:3"]}
       - {motif: covenant-with-levi, refs: ["Mal 2:4", "Mal 2:5", "Mal 2:6"]}
       - {motif: priest-as-messenger-of-yhwh, refs: ["Mal 2:7"]}
