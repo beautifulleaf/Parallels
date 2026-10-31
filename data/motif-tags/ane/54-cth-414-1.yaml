@@ -474,3 +474,102 @@ units:
     hints:
       - "Door anointed so evil stays out: compare the blood on doorposts at Passover (Exod 12:7, 22-23) and the mezuzah (Deut 6:9); in the Quran protection is sought from God alone against 'the evil of what He created' (Q 113:1-2)."
       - "'Eat sheep and cattle, not a human being': compare the substitution of the ram for Abraham's son (Gen 22:13; Q 37:107 'We ransomed him with a great sacrifice')."
+
+  - id: ane-arad-w1-eliashib-rations-kittim
+    tradition: ane-levantine
+    title: Arad ostraca - orders to Eliashib to issue wine, flour and bread to the Kittim (Arad 1-4, 17)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["Arad ostraca W1:1-W7:2"]
+    tags:
+      - {motif: rations-issued-to-kittim-mercenaries, refs: ["Arad ostraca W1:1-10", "Arad ostraca W2:1-8", "Arad ostraca W5:1-3"], note: "ʾl ʾlyšb wʿt ntn lktym yyn b 3 ... wktb šm hym; Kittim = Greek/Cypriot mercenaries in Judahite service"}
+      - {motif: date-of-issue-written-on-ostracon, refs: ["Arad ostraca W1:4", "Arad ostraca W7:1-2"], note: "wktb šm hym 'write the name of the day'; b-[date] lḥdš ntn nḥm šmn byd hkty"}
+      - {motif: urgency-do-not-delay, refs: ["Arad ostraca W2:6"], note: "mḥr ʾl tʾḥr 'tomorrow, do not be late'"}
+      - {motif: provisions-sent-to-beersheba, refs: ["Arad ostraca W3:1-8"], note: "wṣwk ḥnnyhw ʿl bʾr šbʿ ʿm mšʾ ṣmd ḥmrm 'Hananiah commands you to Beersheba with a load of two donkeys'; tie up dough and bread"}
+      - {motif: sealed-with-official-seal, refs: ["Arad ostraca W5:1-2", "Arad ostraca W6:1-7"], note: "ḥtm 'seal'; wḥtm ʾth bḥtmk 'seal it with your seal'; oil sent to Ziph quickly; Eliashib son of Eshiyahu"}
+      - {motif: theophoric-yahu-names, refs: ["Arad ostraca W3:3", "Arad ostraca W6:3"], note: "ḥnnyhw, ʾšyhw; W4 (reverse of No. 3) broken: only ʾdmm 'Edomites?' survives"}
+    hints:
+      - "The Kittim in the service of Judah: compare Num 24:24 (ships from Kittim in Balaam's last oracle), Jer 2:10, Dan 11:30."
+      - "Measured rations and the storehouse official: compare Joseph's storehouses, Q 12:47-49, 12:55 ('set me over the storehouses of the land')."
+
+  - id: ane-arad-w8-yhwh-ask-welfare-temple
+    tradition: ane-levantine
+    title: Arad ostracon 18 - 'YHWH ask after your welfare'; the man in the house of YHWH
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["Arad ostraca W8:1-W9:1"]
+    tags:
+      - {motif: letter-greeting-yhwh-ask-welfare, refs: ["Arad ostraca W8:1-3"], note: "ʾl ʾdny ʾlyšb yhwh yšʾl lšlmk"}
+      - {motif: house-of-yhwh-in-letter, refs: ["Arad ostraca W8:6-9", "Arad ostraca W9:1"], note: "wldbr ʾšr ṣwtny šlm byt yhwh hʾ yšb 'as to the matter you commanded me: it is well; he stays in the house of YHWH' (the temple in Jerusalem or at Arad)"}
+      - {motif: letter-greeting-gods-ask-welfare, refs: ["Arad ostraca W8:2-3"], note: "the Yahwistic version of the polytheist formula"}
+    hints:
+      - "Greeting in God's name: compare the Quranic salam greeting from God, Q 6:54 ('Peace be upon you; your Lord has prescribed mercy on Himself'), 10:10, 33:44."
+      - "Compare 1 Sam 25:6 and the 'house of YHWH' in 1 Kgs 6-8."
+
+  - id: ane-arad-w10-edom-threat
+    tradition: ane-levantine
+    title: Arad ostracon 24 - men sent to Ramat-Negev 'lest Edom come there'
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["Arad ostraca W10:1-9"]
+    tags:
+      - {motif: edom-threatens-judahite-negev, refs: ["Arad ostraca W10:8-9"], note: "pn tbʾ ʾdm šmh 'lest Edom come there'"}
+      - {motif: troops-sent-to-reinforce-fort, refs: ["Arad ostraca W10:1-5"], note: "from Arad and Kinah to Ramat Negev under Malkiyahu son of Qerab'ur, entrusted to Elisha son of Jeremiah, lest something happen to the city"}
+      - {motif: word-of-king-on-your-lives, refs: ["Arad ostraca W10:6-8"], note: "wdbr hmlk ʾtkm bnbškm hnh šlḥty lhʿyd bkm hym 'the word of the king is on you, upon your lives; I have sent to warn you today'"}
+    hints:
+      - "Edom's hostility at Judah's fall: compare Obad 10-14, Ps 137:7, Ezek 25:12 and existing motif mount-seir-eternal-enmity (Ezek 35:5)."
+
+  - id: ane-elephantine-w1-passover-letter
+    tradition: ane-levantine
+    title: Elephantine Passover letter - Hananiah to Yedaniah and the Jewish garrison, by order of Darius
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["Elephantine (selection) W1:1-10"]
+    tags:
+      - {motif: persian-king-authorizes-jewish-festival, refs: ["Elephantine (selection) W1:2"], note: "šnt 5 dryhwš mlkʾ mn mlkʾ šlyḥ ʿl ʾrš[m] 'year 5 of King Darius, from the king it was sent to Arsames'"}
+      - {motif: seven-days-unleavened-bread, refs: ["Elephantine (selection) W1:4", "Elephantine (selection) W1:7"], note: "mn ywm 15 ʿd ywm 21; from sunset to day 21 of Nisan"}
+      - {motif: festival-purity-and-no-work, refs: ["Elephantine (selection) W1:5"], note: "dkyn hww wʾzdhrw ʿbydh ʾ[l tʿbdw] 'be pure and take heed: [do no] work'"}
+      - {motif: leaven-sealed-away-during-festival, refs: ["Elephantine (selection) W1:6", "Elephantine (selection) W1:8"], note: "wkl mndʿm zy ḥmyr ʾl [tʾklw]; nʿlw btwnykm wḥtmw byn ywmyʾ 'bring into your chambers and seal up between the days'"}
+      - {motif: jewish-garrison-at-elephantine, refs: ["Elephantine (selection) W1:1", "Elephantine (selection) W1:10"], note: "ydnyh wknwth ḥylʾ yhwdyʾ ʾḥwkm ḥnnyh 'Yedaniah and his colleagues the Jewish garrison, your brother Hananiah'; šlm ʾḥy ʾlhyʾ [yšʾlw] 'may the gods ask after the welfare of my brothers'"}
+    hints:
+      - "Persian sanction for Jewish law: compare Ezra 7:12-26 (Artaxerxes' letter) and Ezra 6:19-22 (Passover after the temple's rebuilding)."
+      - "Feasts and the prohibition of work: compare Q 2:183-185 (the fixed fast of Ramadan) and 62:9-10 (leave trade at the call to Friday prayer); the Sabbath of the Jews, Q 2:65, 16:124."
+
+  - id: ane-elephantine-w2-temple-spared-by-cambyses
+    tradition: ane-levantine
+    title: Petition to Bagohi (excerpt) - the temple of YHW at Elephantine, spared by Cambyses
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["Elephantine (selection) W2:1-4"]
+    tags:
+      - {motif: jewish-temple-outside-jerusalem, refs: ["Elephantine (selection) W2:1"], note: "mn ywmy mlk mṣryn ʾbhyn bnw ʾgwrʾ zk byb byrtʾ 'from the days of the kings of Egypt our fathers built that temple in Yeb the fortress'"}
+      - {motif: conqueror-spares-temple-of-yhw, refs: ["Elephantine (selection) W2:2-4"], note: "kzy knbwzy ʿl lmṣryn ... wʾgwry ʾlhy mṣryn kl mgrw wʾyš mndʿm bʾgwrʾ zk lʾ ḥbl 'Cambyses ... overthrew all the temples of the gods of Egypt but no one damaged anything in that temple'"}
+    hints:
+      - "A temple of the God of Israel abroad: contrast Deut 12:5-14 (one chosen place); compare Isa 19:19 (an altar to YHWH in the midst of Egypt)."
+      - "The conqueror who spares the house of God: compare Cyrus in Ezra 1:1-4, and the Quranic sanctity of places of worship, Q 22:40 ('monasteries, churches, synagogues and mosques in which God's name is much remembered')."
+
+  - id: ane-elephantine-w3-marriage-ananiah-tamet
+    tradition: ane-levantine
+    title: Marriage document of Ananiah, servitor of YHH, and Tamet the handmaid of Meshullam
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["Elephantine (selection) W3:1-W4:2"]
+    tags:
+      - {motif: marriage-formula-she-my-wife-i-her-husband, refs: ["Elephantine (selection) W3:3-4"], note: "hy ʾntty wʾnh bʿlh mn ywmʾ znh wʿd ʿlm 'she is my wife and I am her husband from this day and forever'"}
+      - {motif: handmaid-married-with-masters-consent, refs: ["Elephantine (selection) W3:2-3", "Elephantine (selection) W3:13-14"], note: "lmšlm br zkwr ... lmntn ly ltmt šmh zy ʾmtk lʾntw; Meshullam may not reclaim her 'except as you expel her' (tsrk ... ltmt)"}
+      - {motif: dowry-listed-with-values, refs: ["Elephantine (selection) W3:4-6", "Elephantine (selection) W4:1-2"], note: "lbš 1 zy ʿmr ... mḥzy ... mšḥ bšm; ksp šqln 7 ...; verso: kṣp krš 1 šqln 5; spr ʾntw 'document of wifehood'"}
+      - {motif: divorce-by-declaring-hate, refs: ["Elephantine (selection) W3:7-10"], note: "yqwm ʿnny bʿdh wyʾmr šnʾt ltmt ʾntty ksp šnʾ brʾšh ... tqm tmt wtʾmr šnʾt lbʿly 'if Ananiah rises and says I hate Tamet my wife, divorce-silver on his head ...; if Tamet rises and says I hate my husband'"}
+      - {motif: wife-may-initiate-divorce, refs: ["Elephantine (selection) W3:9-10"], note: "she pays the divorce silver and goes out with what she brought mn ḥm ʿd ḥwṭ 'from straw to thread'"}
+      - {motif: surviving-spouse-inherits, refs: ["Elephantine (selection) W3:10-13"], note: "ymwt ʿnnyh tmt hy šlyṭh bkl nksn"}
+      - {motif: witnesses-and-scribe-of-contract, refs: ["Elephantine (selection) W3:14-15"], note: "ktb ntn br ʿnnyh sprʾ znh wšhdyʾ bgw"}
+      - {motif: temple-servitor-of-yhh, refs: ["Elephantine (selection) W3:2"], note: "ʿnnyh br ʿzryh lḥn zy yhh ʾlhʾ zy byb byrtʾ"}
+    hints:
+      - "Divorce initiated by the wife who returns what she received: compare khulʿ, Q 2:229 ('no blame on them for what she gives up to free herself'), and 4:20-21 (do not take back what you gave); HB Deut 24:1-4 (only the husband writes the bill)."
+      - "Marrying a slave woman: Q 4:25 (marry believing slave girls with their people's leave and give them their dowries), and the formula 'from this day forever' against Mal 2:16."
+      - "The written, witnessed contract: compare Q 2:282 (write the debt, call two witnesses)."

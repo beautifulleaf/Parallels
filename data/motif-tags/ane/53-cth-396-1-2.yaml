@@ -75,6 +75,42 @@ new_motifs:
   prayer-to-sun-god-at-rite-end: {label: "At the end of the rite bread is offered to the Sun god on a stone and he is told that the evil has been removed", cluster: cult}
   puppies-among-ritual-victims: {label: "Puppies are listed among the animals required for a purification", cluster: purification}
   ritual-cry-he-he: {label: "The participants repeatedly shout a ritual cry ('ui ui', 'he he')", cluster: cult}
+  hoe-and-spade-of-bronze-dig-clay: {label: "A bronze hoe and spade are prepared to dig clay at the riverbank where the potters take it", cluster: purification}
+  clay-offered-to-underground-watercourses: {label: "Clay dug from the riverbank is addressed and given to the underground watercourses", cluster: purification}
+  clay-smeared-with-oil-and-honey: {label: "The ritual clay is smeared with oil and honey and a libation is poured", cluster: cult}
+  lawsuit-of-blood-before-gods: {label: "Bloodshed, perjury and curse are treated as a lawsuit (hanneššar) that the gods are asked to judge", cluster: justice}
+  evil-sat-on-roof-of-palace-and-temple: {label: "The evil (disease, blood, oath) is told that it has sat on the roof of the palace or of the temple and must now purify them", cluster: purification}
+  bird-sent-off-with-disease-and-blood: {label: "A bird (šurašura) is told to go wherever the disease, blood and gods' oath go", cluster: purification}
+  friend-hides-gods-from-companion: {label: "A friend throws a garment over his companion and hides the gods from him (cuts him off from divine favour)", cluster: magic}
+  tongue-of-the-land: {label: "The 'tongue of the land' or 'of the multitude' (public slander or curse) is named as the evil to be removed", cluster: magic}
+  evil-strikes-itself-tree-and-buck: {label: "Obscure mountains' saying: the tree's own crown splits it, its own miya- binds it, the buck is struck by its own; the evil destroys itself", cluster: magic}
+  patient-called-by-name: {label: "The practitioner calls the patient (ritual patron) by his name during the rite", cluster: magic}
+  roads-addressed-to-carry-off-evil: {label: "The roads are addressed and asked to drive away the gods' oath, the tongue, blood and tears", cluster: purification}
+  king-purified-of-oath-tongue-tears: {label: "The king is purified of oath, the tongue of the multitude and tears", cluster: purification}
+  causes-of-impurity-fat-or-bloody-mouth: {label: "Possible causes of impurity are named: a man ate fat or his mouth was bloodied", cluster: purification}
+  bird-carried-back-to-mountains: {label: "A bird used in the rite is carried back to the mountains", cluster: purification}
+  offerings-of-every-seed-and-fruit: {label: "A little of every fruit, seed, malt, wax, fat and porridge is poured out before the gods", cluster: cult}
+  bird-sacrificed-to-ancient-gods: {label: "A bird is offered to the ancient (primeval) gods", cluster: cult}
+  plague-removed-from-city-by-rite: {label: "A rite asks that disease and plague (death) leave a city and become well", cluster: purification}
+  king-named-in-plague-rite: {label: "A named king (Muršili) and the princes of Hatti appear in a rite against plague", cluster: kingship}
+  deity-asked-for-mildness: {label: "The deity is asked to show mildness (genzu)", cluster: prayer}
+  woodpiles-and-pegs-at-city-gate: {label: "At the great city gate woodpiles and pegs are set up on either side and objects buried under the threshold", cluster: purification}
+  other-city-treated-as-enemy: {label: "Another city is treated as an enemy so that the evil may be sent there", cluster: purification}
+  nine-breads-offered: {label: "Nine thick breads are presented in the rite", cluster: cult}
+  patient-seated-facing-sun-god: {label: "The bewitched person is seated facing the Sun god while the practitioner works", cluster: magic}
+  figurines-speak-humans-weary: {label: "Dialogue in the rite: the mortal says 'we are tired, we dare no more, take it back' and the figurines answer 'bring it, we will carry it off'", cluster: magic}
+  wool-binds-sorcery-off-limbs: {label: "Whoever 'bound' the patient by sorcery, the practitioner takes it from all his limbs", cluster: magic}
+  drunkenness-of-sorcery-removed: {label: "The drunkenness caused by sorcery is taken off the patient and the sorcerer made drunk through the figurines", cluster: magic}
+  harm-done-before-gods-or-men: {label: "Whether someone harmed the patient before the gods or before mortals, the harm is to be removed", cluster: magic}
+  bad-dreams-buried-with-sorcery: {label: "Bad dreams are fixed in the earth together with the sorcery", cluster: magic}
+  bread-broken-for-dark-earth-and-sun: {label: "Flat breads are broken beside the pit for the dark earth, the Sun and other deities, who are to keep the evil fixed", cluster: cult}
+  gate-gods-asked-to-speak-good: {label: "The gods of the city gate are asked to speak good things", cluster: cult}
+  jug-broken-at-end-of-rite: {label: "A jug is broken at the end of a stage of the rite", cluster: magic}
+  evil-removed-from-head-and-bed: {label: "The evils are to be lifted off the patient, off his head and off his bed", cluster: magic}
+  dust-and-dough-cleanse-and-heal-analogy: {label: "Analogic spell: as this dust cleans and this dough heals, so may they clean and heal the person, his house, altar, hearth, spouse and children", cluster: purification}
+  five-cups-of-liquids: {label: "Five clay cups are filled with five different liquids for the patient's purification", cluster: purification}
+  gods-asked-not-to-let-evil-back-in: {label: "The gods are asked to protect the purified person and not let the evil back into him", cluster: purification}
+  blessing-surrounded-by-descendants: {label: "Blessing: may the gods keep the person alive, surrounded by children, grandchildren and descendants", cluster: blessing}
 units:
   - id: ane-cth-396-1-2-wishuriyant-offerings
     tradition: ane-hittite
@@ -250,3 +286,316 @@ units:
     hints:
       - "Compare Q 5:32 and Q 2:72-73 (a killing disputed, revealed through the slaughtered cow) and Num 35:33-34 (blood pollutes the land)."
       - "Compare Lev 14:33-53 (purifying a house with two birds, cedar, scarlet and hyssop)."
+  - id: ane-cth-400-1-iriya-riverbank-ancient-gods
+    tradition: ane-hittite
+    title: Iriya purifies a city of blood, perjury and curse, the riverbank clay and the ancient gods (CTH 400.1 §1-11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 400.1 §1:1-§11:53"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 400.1 §1:1"], note: "UM-MA Iriya; the diviner (LÚḪAL) per §11:50 and §20:111"}
+      - {motif: city-purified-of-blood-oath-and-tongue, refs: ["CTH 400.1 §1:2", "CTH 400.1 §8:40"], note: "URU-an išḫanaš linkiyaš pangawaš lalaš aniyami 'I treat a city for blood, oath and the tongue of the multitude'"}
+      - {motif: hoe-and-spade-of-bronze-dig-clay, refs: ["CTH 400.1 §1:5", "CTH 400.1 §7:26", "CTH 400.1 §10:46"], note: "GIŠAL ZABAR GIŠMAR ZABAR 'bronze hoe and spade'"}
+      - {motif: ritualist-asks-why-have-i-come, refs: ["CTH 400.1 §2:6-13"], note: "addressed to the riverbank where potters take clay: wappumit … kuwat uwanun? kuit dariyaḫḫun?"}
+      - {motif: primeval-gods-receive-impurity, refs: ["CTH 400.1 §2:13", "CTH 400.1 §10:49", "CTH 400.1 §11:51-53"], note: "karuileš DINGIR.MEŠ … parkunuškanzi 'the ancient gods who purify'; clay and wood laid before them; ki ḫanneššar apiya ḫannatten 'judge this case there'"}
+      - {motif: clay-offered-to-underground-watercourses, refs: ["CTH 400.1 §7:34-37"], note: "ki purut … šumeš ANA KASKAL.KUR.ḪI.A 'this clay … you … to the underground watercourses'"}
+      - {motif: clay-smeared-with-oil-and-honey, refs: ["CTH 400.1 §7:30-32"], note: "IŠTU Ì-ya LÀL iškiazzi; libation from a išpantuzzi"}
+      - {motif: lawsuit-of-blood-before-gods, refs: ["CTH 400.1 §8:40", "CTH 400.1 §11:53"], note: "ḫanneššar 'lawsuit, case' of blood, oath, tongue"}
+    hints:
+      - "Compare Deut 21:1-9 (a city purges unsolved bloodshed with a heifer at a perennial stream) and Num 35:33."
+      - "Compare Q 2:72-73 (the disputed killing and the cow) and Q 5:32 for bloodguilt of a community."
+  - id: ane-cth-400-1-iriya-waters-frog
+    tradition: ane-hittite
+    title: Iriya ritual, the springs answer and the frog swallows the impurity (CTH 400.1 §12-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 400.1 §12:54-§13:69"]
+    tags:
+      - {motif: ritualist-asks-why-have-i-come, refs: ["CTH 400.1 §12:55-58"], note: "aruna ṢUṢU PÚ.ḪI.A GAL.GAL PÚ.ḪI.A TUR.TUR 'sea, marsh, great springs, small springs, why have I come?'"}
+      - {motif: human-thrown-behind-fence-like-ox, refs: ["CTH 400.1 §12:59"], note: "DUMU.MEŠ LÚ.U19.LU-TI GU4-un mān ḫal[iyaš] ḫappui EGIR-an peššit"}
+      - {motif: waters-and-mountains-answer-fear-not-we-help, refs: ["CTH 400.1 §12:61-64"], note: "lē=tta nā[ḫi] … [ḫarappueni] restored from parallels"}
+      - {motif: do-not-fear-formula, refs: ["CTH 400.1 §12:63"]}
+      - {motif: frog-swallows-impurity-to-sea, refs: ["CTH 400.1 §12:65-67", "CTH 400.1 §13:68-69"], note: "BIL.ZA.ZA-at iššit [dai] … katta pašzi 'the frog takes it in the mouth and swallows it'; river to sea restored"}
+      - {motif: talking-animal, refs: ["CTH 400.1 §12:62-64"], note: "not an animal but the waters speak; nature addressed and answering"}
+    hints:
+      - "Compare Q 33:72 (the trust offered to heavens, earth and mountains) and Q 41:11 (heaven and earth answer 'we come willingly') for nature answering."
+      - "Compare Q 7:133 (frogs among the signs) and Mic 7:19 (sins cast into the sea)."
+  - id: ane-cth-400-1-iriya-goat-bird-eagle
+    tradition: ane-hittite
+    title: Iriya ritual, the šurašura-bird, the goat burned and buried, eagle and falcon released (CTH 400.1 §14-20)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 400.1 §14:70-§20:112"]
+    tags:
+      - {motif: evil-sat-on-roof-of-palace-and-temple, refs: ["CTH 400.1 §15:74-76"], note: "ḫalentuwaš šuḫḫi … INA É.DINGIR.MEŠ šuḫḫi 'you sat on the roof of the palace or the temple; now purify them'"}
+      - {motif: bird-sent-off-with-disease-and-blood, refs: ["CTH 400.1 §15:77-79"], note: "inan ešḫar NIŠ DINGIR-LIM kuwapi … šurašuwaš MUŠEN … itten 'where disease, blood, the gods' oath go, you šurašura-bird go'"}
+      - {motif: ritual-materials-waved-over-patient, refs: ["CTH 400.1 §16:82-83", "CTH 400.1 §20:107"], note: "the birds and the goat waved in the house and struck in the 4 corners"}
+      - {motif: eagle-and-falcon-set-free-carry-evil, refs: ["CTH 400.1 §16:85", "CTH 400.1 §20:109"], note: "ḫaran kallikallinna arḫa tarnatta 'he releases the eagle and falcon'"}
+      - {motif: water-poured-from-channel-perishes, refs: ["CTH 400.1 §16:86", "CTH 400.1 §17:87-90"], note: "ki wātar GIM-an arḫa ḫarakzi 'as this water perishes'; list in §17:90 partly broken: disease, blood, oath, tongue, ḫurkil (abomination)"}
+      - {motif: carriers-led-to-execution-gate, refs: ["CTH 400.1 §17:91-95"], note: "KÁ.GAL.ḪI.A-za … 'the gates through which people are taken down to be killed'"}
+      - {motif: goat-burned-bird-buried-evil-descends, refs: ["CTH 400.1 §18:96-100"], note: "MÁŠ.GAL-an warnuwanzi … ḫariyanzi 'they burn the goat … they bury (the bird)'"}
+      - {motif: scapegoat-bears-sins-into-wilderness, refs: ["CTH 400.1 §17:91"], note: "Hittite variant: the goat is led through the city and out, but then burned, not let go"}
+      - {motif: cry-of-the-wronged-reaches-gods, refs: ["CTH 400.1 §19:101-105"], note: "LÚluliḫiš naššma LÚSA.GAZ … iyauwa ḫalzaiš 'a mountain man or a Habiru(?) cried out in pain'"}
+      - {motif: analogic-spell-evil-vanish-like-substance, refs: ["CTH 400.1 §17:89-90", "CTH 400.1 §18:99-100"]}
+      - {motif: scribal-colophon, refs: ["CTH 400.1 §20:110-112"], note: "DUB 1.KAM; incipit repeated"}
+    hints:
+      - "Compare Lev 14:4-7, 49-53 (one bird slain, the living bird released over the open field) and Lev 16:8-10, 20-22 (two goats, one sent away); Lev 16:27 (the sin-offering goat burned outside the camp)."
+      - "Compare Q 22:31 (one who associates others with God is as if he fell from the sky and the birds snatched him) for birds carrying off."
+      - "The cry of the wronged reaching heaven: compare Q 4:148 and Gen 4:10, Exod 22:22-23."
+  - id: ane-cth-401-1-banippi-tongue
+    tradition: ane-hittite
+    title: The augur Banippi when a friend has slandered his companion, the clay tongue (CTH 401.1 §1-4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.1 §1:1-§4:23"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 401.1 §1:1"], note: "[UM-MA I]Banippi LÚIGI.DÙ"}
+      - {motif: friend-hides-gods-from-companion, refs: ["CTH 401.1 §1:2-3"], note: "[LÚar]aš ANA LÚTAPPĪŠU TÚGšeknun [UGU pip]pai … DINGIR.MEŠ [anda ka]riyazi 'a friend throws a šeknu-garment over his companion and covers the gods from him'; restorations"}
+      - {motif: clay-tongue-made-for-slander-rite, refs: ["CTH 401.1 §2:5", "CTH 401.1 §2:8"], note: "[EM]E-an ḫurlin ŠA IM 'a tongue and a ḫurli of clay'"}
+      - {motif: tongue-of-the-land, refs: ["CTH 401.1 §3:14-15"], note: "KUR-eaš EME-aš 'the tongue of the land'"}
+      - {motif: ritual-remains-thrown-into-river, refs: ["CTH 401.1 §3:20"], note: "ÍD-aš pēdau 'may the river carry (it) away'"}
+    hints:
+      - "Compare Q 24:11-19 (the slander, ifk, against the innocent), Q 49:12 and Q 104:1 (woe to the slanderer)."
+  - id: ane-cth-401-1-banippi-mountains-answer
+    tradition: ane-hittite
+    title: Banippi ritual, the mountains answer and the evil is given to the ancient gods (CTH 401.1 §5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.1 §5:24-43"]
+    tags:
+      - {motif: ritualist-asks-why-have-i-come, refs: ["CTH 401.1 §5:25-29"], note: "ḪUR.SAG.MEŠ GAL-TIM panguweš TUR.MEŠ-TIM … kuit uwanun"}
+      - {motif: human-thrown-behind-fence-like-ox, refs: ["CTH 401.1 §5:30"]}
+      - {motif: waters-and-mountains-answer-fear-not-we-help, refs: ["CTH 401.1 §5:31-34"], note: "UM-MA ḪUR.SAG.MEŠ: lēta nāḫi, uiešta ḫarappueni"}
+      - {motif: do-not-fear-formula, refs: ["CTH 401.1 §5:33"]}
+      - {motif: evil-strikes-itself-tree-and-buck, refs: ["CTH 401.1 §5:35-38"], note: "obscure: the tree's own crown splits it; its own miya- binds it; the buck is struck by its own…; a principle of self-harm"}
+      - {motif: primeval-gods-receive-impurity, refs: ["CTH 401.1 §5:39-41"], note: "iyauwan ešḫar pangawaš EME-an … karuiliyaš [DINGIR.MEŠ-aš pāi] … GAM-anda GE6-i KI-i pēdandu"}
+    hints:
+      - "Compare Q 33:72 and Q 59:21 (the mountains addressed) and Q 34:10 (mountains echo David)."
+      - "Compare Ps 7:15-16 (he falls into the pit he made)."
+  - id: ane-cth-401-1-banippi-tents-burned
+    tradition: ane-hittite
+    title: Banippi ritual, the burning of the seven kippa-tents and the bewitched driven off (CTH 401.1 §6-7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.1 §6:44-§7:62"]
+    tags:
+      - {motif: practitioner-colours-red-white-black, refs: ["CTH 401.1 §6:44-46"], note: "išḫarnuškimi, [ḫarga]nuškimi, [dank]uyanuškimi; colours partly restored"}
+      - {motif: bewitched-in-tents-burned, refs: ["CTH 401.1 §6:47-55", "CTH 401.1 §7:56"], note: "GIŠzupparu warani 'a torch burns at their heads'; Ékippan GAM tarnanzi; 7 kippan; UḪ7-anza UN-aš 'a bewitched man'"}
+      - {motif: patient-called-by-name, refs: ["CTH 401.1 §6:55"], note: "EN SISKUR-kan ŠUM-ŠU ḫalzai"}
+      - {motif: stones-thrown-after-departing-evil, refs: ["CTH 401.1 §7:57-62"], note: "NA4-an EGIR-an peššiyanzi … GIŠTUKUL … KUŠARITUM taḫtaḫḫiyanzi … itten UḪ7-uš UN.MEŠ-uš"}
+    hints:
+      - "Compare Q 2:200 and the stoning of the pillars (jamarat) at Mina; Q 67:5 (lamps of heaven as missiles against devils)."
+      - "Compare Lev 16:26-28 (those who led away and burned the remains washed before return)."
+  - id: ane-cth-401-2-mountains-tongue-tears
+    tradition: ane-hittite
+    title: Ritual like CTH 400, the king addresses the mountains about blood, tears and the tongue of the multitude (CTH 401.2 §1-6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.2 §1:1-§6:28"]
+    tags:
+      - {motif: water-poured-from-channel-perishes, refs: ["CTH 401.2 §2:2"], note: "GIŠŠEN-aš A-tar E[GIR-an] 'water (poured) again into the channel'"}
+      - {motif: roads-addressed-to-carry-off-evil, refs: ["CTH 401.2 §3:6", "CTH 401.2 §4:13"], note: "šumeš KASKAL.MEŠ 'you roads'; KASKAL.ḪI.A … arḫa pennatteni 'roads, drive away the gods' oath, the tongue, blood and tears' (partly restored)"}
+      - {motif: cry-of-the-wronged-reaches-gods, refs: ["CTH 401.2 §3:8", "CTH 401.2 §4:10-11"], note: "UGU ḫalzaiš 'he cried upward'; a just man (ḫandandan UN-an) wronged by the king cries out pain and tears (iyauwan išḫaḫru)"}
+      - {motif: city-purified-of-blood-oath-and-tongue, refs: ["CTH 401.2 §4:12-13"], note: "adds iš-ḫa-aḫ-ru 'tears' to blood, oath and tongue"}
+      - {motif: ritualist-asks-why-have-i-come, refs: ["CTH 401.2 §5:14-17"], note: "here the king (LUGAL-uš) speaks to the mountains"}
+      - {motif: human-thrown-behind-fence-like-ox, refs: ["CTH 401.2 §5:18"]}
+      - {motif: waters-and-mountains-answer-fear-not-we-help, refs: ["CTH 401.2 §6:20-22"]}
+      - {motif: evil-strikes-itself-tree-and-buck, refs: ["CTH 401.2 §6:23-25"]}
+      - {motif: primeval-gods-receive-impurity, refs: ["CTH 401.2 §6:26-28"]}
+    hints:
+      - "A king answerable for wronging a just man: compare Q 4:148 (God does not love evil spoken aloud except by one wronged) and 1 Kgs 21 (Naboth)."
+  - id: ane-cth-401-2-springs-frog-water
+    tradition: ane-hittite
+    title: Ritual like CTH 400, the springs answer, the frog swallows, the water does not return (CTH 401.2 §7-9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.2 §7:29-§9:51"]
+    tags:
+      - {motif: ritualist-asks-why-have-i-come, refs: ["CTH 401.2 §7:29-32"]}
+      - {motif: human-thrown-behind-fence-like-ox, refs: ["CTH 401.2 §7:33-34"], note: "first person: 'they threw me, a human child, like an ox behind the strong fence'"}
+      - {motif: waters-and-mountains-answer-fear-not-we-help, refs: ["CTH 401.2 §8:35-38"], note: "UM-MA PÚ.ḪI.A: lē=yaš nāḫi 'do not fear them'"}
+      - {motif: frog-swallows-impurity-to-sea, refs: ["CTH 401.2 §8:39-45"], note: "BIL.ZA.ZA KA×U-za dāi … [Í]D-at aruni pēdai … EGIR-pa UL uizzi 'it does not come back'"}
+      - {motif: water-poured-from-channel-perishes, refs: ["CTH 401.2 §9:46-51"], note: "EGIR-pa PÚ-i UL paizzi 'does not flow back to the spring'"}
+      - {motif: analogic-spell-evil-vanish-like-substance, refs: ["CTH 401.2 §9:48-51"]}
+    hints:
+      - "Compare Q 13:17 (the scum passes away as dross, what profits people remains) and 2 Sam 14:14 (water spilt on the ground that cannot be gathered)."
+  - id: ane-cth-401-2-eagle-falcon-king
+    tradition: ane-hittite
+    title: Ritual like CTH 400, eagle to heaven and falcon to the pure mountains, the king purified (CTH 401.2 §10-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.2 §10:52-§19:94"]
+    tags:
+      - {motif: eagle-and-falcon-set-free-carry-evil, refs: ["CTH 401.2 §10:52-64", "CTH 401.2 §18:84"], note: "zik TI8.MUŠEN dā … nepiši [šarā pēda] … SUR14.DÙ.A … šuppayaš ḪUR.SAG.MEŠ pēda 'eagle, carry it to heaven; falcon, carry it to the pure mountains'"}
+      - {motif: king-purified-of-oath-tongue-tears, refs: ["CTH 401.2 §10:58", "CTH 401.2 §17:83"], note: "LUGAL-un … linkiyaza pangawaza EME-za išḫaḫruwaza; the king (treated) with eagle, falcon and goat"}
+      - {motif: causes-of-impurity-fat-or-bloody-mouth, refs: ["CTH 401.2 §11:65-68"], note: "naššu UN-aš UZUÌ izzaš … našma KA×U-ŠU išḫanuwanza e[šta] 'either a man ate fat, or his mouth was bloodied'"}
+      - {motif: water-poured-from-channel-perishes, refs: ["CTH 401.2 §13:75-76", "CTH 401.2 §16:79-82"]}
+      - {motif: bird-carried-back-to-mountains, refs: ["CTH 401.2 §12:72"], note: "EGIR-pa ḪUR.SAG.MEŠ pēd[ai]"}
+      - {motif: primeval-gods-receive-impurity, refs: ["CTH 401.2 §10:56", "CTH 401.2 §19:85-87"], note: "karuiliyaš taknašša DINGIR.MEŠ; dankui dagazipi kattanda 'down into the dark earth'"}
+      - {motif: scribal-colophon, refs: ["CTH 401.2 §19:88-94"], note: "DUB 1.KAM QATI; 'Hand of Lu-…, son of Kammaliya(?)'; new incipit 'if to a man …'"}
+    hints:
+      - "Compare Lev 14:7, 53 (the living bird released) and Lev 16:22."
+      - "Eating fat and blood as a cause of impurity: compare Lev 3:17, 7:23-27 and Q 5:3, 6:145 (blood forbidden)."
+  - id: ane-cth-401-3-ancient-gods-goat-bird
+    tradition: ane-hittite
+    title: Fragment like CTH 400, offerings to the ancient gods, goat burned and bird buried (CTH 401.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.3 §1:1-§4:23"]
+    tags:
+      - {motif: primeval-gods-receive-impurity, refs: ["CTH 401.3 §1:4", "CTH 401.3 §4:20"], note: "karuil[iyaš DINGIR.MEŠ-aš] restored"}
+      - {motif: offerings-of-every-seed-and-fruit, refs: ["CTH 401.3 §1:6-11"], note: "malt, beer-wort, all fruits, all seeds, a ladle of each; wax, sheep fat, sinew, cress, porridge: a little of each, poured before them; three drinking straws in the beer"}
+      - {motif: bird-sacrificed-to-ancient-gods, refs: ["CTH 401.3 §1:12"], note: "1 MUŠEN kedaš DINGIR.MEŠ-aš BAL-anti"}
+      - {motif: goat-burned-bird-buried-evil-descends, refs: ["CTH 401.3 §3:15-19"], note: "šurašuraš MUŠEN MÁŠ.GAL-ašša GE6-i takni GAM-anta pāir 'went down into the dark earth'"}
+      - {motif: eagle-and-falcon-set-free-carry-evil, refs: ["CTH 401.3 §4:21-23"], note: "fragmentary; release restored from the parallel"}
+  - id: ane-cth-401-4-surasura-fragment
+    tradition: ane-hittite
+    title: Fragment possibly of CTH 400/401, eagle and šurašura-bird (CTH 401.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.4 §1:1-§2:10"]
+    tags:
+      - {motif: bird-sent-off-with-disease-and-blood, refs: ["CTH 401.4 §2:2-6"], note: "šurašuran MUŠEN … TI8.MUŠEN 'eagle'; speech lost"}
+      - {motif: primeval-gods-receive-impurity, refs: ["CTH 401.4 §2:8"], note: "[kar]uiliyaš DINGIR.MEŠ"}
+  - id: ane-cth-401-5-city-plague-gate
+    tradition: ane-hittite
+    title: Ritual to purify a city of disease and plague, Muršili and the great gate (CTH 401.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.5 §1:1-§3:51"]
+    tags:
+      - {motif: plague-removed-from-city-by-rite, refs: ["CTH 401.5 §1:5", "CTH 401.5 §1:14"], note: "URU-az GIG-an 'disease from the city'; GIG-an ÚŠ-anna SIG5-ru 'may disease and death (plague) become well'"}
+      - {motif: king-named-in-plague-rite, refs: ["CTH 401.5 §1:3-4", "CTH 401.5 §1:12"], note: "Muršili; ḫattulatar 'health'; sons of the king of Hatti"}
+      - {motif: deity-asked-for-mildness, refs: ["CTH 401.5 §1:6"], note: "genzu dā 'take (show) mercy'"}
+      - {motif: woodpiles-and-pegs-at-city-gate, refs: ["CTH 401.5 §1:16-23"], note: "INA KÁ.GAL-TIM uizzi … GIŠḫarpuš tianzi … GIŠGAG … GIŠkattaluzzi 'woodpiles, pegs, a reed, copper, under the threshold'"}
+    hints:
+      - "Compare Q 7:134-135 (Pharaoh's people ask Moses to have the plague, rijz, removed) and 2 Sam 24:15-25 (plague stopped at the threshing floor)."
+  - id: ane-cth-401-6-pegs-red-wool
+    tradition: ane-hittite
+    title: Fragment naming a city, cornel pegs and red wool (CTH 401.6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.6 §1:1-§2:10"]
+    tags:
+      - {motif: other-city-treated-as-enemy, refs: ["CTH 401.6 §1:2-3"], note: "tamain URU-an … kururiyaḫḫanzi 'they treat the others as enemies'"}
+      - {motif: evil-nailed-down-with-pegs, refs: ["CTH 401.6 §2:9-10"], note: "GIŠMA.NU-aš GIŠGAG.ḪI.A 'pegs of cornel wood' … SÍGmidaš 'red wool' … GIŠGAG-aš tarmanteš eštén 'be fastened with pegs'"}
+      - {motif: nine-breads-offered, refs: ["CTH 401.6 §2:8"], note: "9 NINDA.GUR4.RA.MEŠ"}
+  - id: ane-cth-401-7-enlil-tongue
+    tradition: ane-hittite
+    title: Fragment naming Enlil and the tongue of the multitude (CTH 401.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 401.7 §1:1-9"]
+    tags:
+      - {motif: cry-of-the-wronged-reaches-gods, refs: ["CTH 401.7 §1:4"], note: "kuiški ḫalzāi[š] 'someone cried out'"}
+      - {motif: city-purified-of-blood-oath-and-tongue, refs: ["CTH 401.7 §1:5-8"], note: "pangawaš l[alaš] 'tongue of the multitude'; 'heaven … down' fragmentary; dEN.LÍL named"}
+  - id: ane-cth-402-1-alli-figurines-tongues
+    tradition: ane-hittite
+    title: Alli of Arzawa against sorcery, the clay figurines with tongues and the sorcery handed back (CTH 402 §1-8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 402 §1:1-§8:55"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 402 §1:1"], note: "MUNUS URUArzawa (name lost in the line, supplied by the edition)"}
+      - {motif: sorcerer-figurines-with-tongues, refs: ["CTH 402 §1:4-6", "CTH 402 §2:7-14"], note: "ALAM IM ŠÀ.BA 2 LÚ … 3 MUNUS.MEŠ … kurtali IM … IŠTU EME IM … ANŠE IM … karpan ḫarzi 'a clay basket full of clay tongues, a clay donkey carrying it'"}
+      - {motif: patient-seated-facing-sun-god, refs: ["CTH 402 §3:17-20"], note: "dUTU-i menaḫḫanda ešari"}
+      - {motif: sun-of-the-hand-sees-sorcerers, refs: ["CTH 402 §4:22", "CTH 402 §5:28"], note: "kiššeraš dUTU-uš kāša alwanzineš antuḫšiš 'Sun of the hand, here are the sorcerers'"}
+      - {motif: sorcery-thrown-back-on-sorcerer, refs: ["CTH 402 §4:23-26", "CTH 402 §5:27-31"], note: "iškišaz karpan ḫarzi … EGIR-pa dāu 'he carries it on his back; let him take it back'"}
+      - {motif: sorcerer-to-wear-sorcery-as-clothing, refs: ["CTH 402 §5:29-35", "CTH 402 §6:36-39"], note: "TÚGkureššar … išḫuzzi … KUŠE.SIR 'headdress … belt … shoes'; ḫaššannit 'by her womb'; EGIR-pa BELĪŠU paiddu 'may it go back to its owner'"}
+      - {motif: curse-turned-back, refs: ["CTH 402 §6:39"]}
+      - {motif: figurines-speak-humans-weary, refs: ["CTH 402 §7:41-48"], note: "UM-MA DUMU.LÚ.U19.LU-MA: UL=wa namma mazzuweni … dariyauen 'we no longer dare, we are tired … take it back'"}
+      - {motif: hunter-carries-away-sorcery, refs: ["CTH 402 §8:49-54"], note: "LÚUR.GI7-aš LÚ-aš 'the hunter (dog-man)' with bow, arrows and four dogs; fodder for horses"}
+      - {motif: evil-given-to-horses-and-dogs-as-fodder, refs: ["CTH 402 §8:53"], note: "ANŠE.KUR.RA.MEŠ immiul ēšdu"}
+    hints:
+      - "Compare Q 113:4 (the blowers on knots), Q 2:102 (sorcery that separates man and wife) and Q 35:43 (evil plotting encompasses only its authors)."
+      - "Each bears her own deed: compare Q 6:164, 17:15 and 52:21; and Ps 7:16."
+  - id: ane-cth-402-2-alli-coloured-threads
+    tradition: ane-hittite
+    title: Alli ritual, coloured threads take off the colours of sorcery, white wool purifies (CTH 402 §9-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 402 §9:56-§19:119"]
+    tags:
+      - {motif: coloured-threads-take-off-colours-of-sickness, refs: ["CTH 402 §9:56-62", "CTH 402 §10:63-68", "CTH 402 §11:69-74", "CTH 402 §12:75-80", "CTH 402 §13:81-86", "CTH 402 §14:87-92", "CTH 402 §15:93-98"], note: "išḫarnuški- 'make blood-red', ḫaḫlaḫḫiški- 'make yellow-green', antariške- 'make blue' (andarandan UD-an 'the blue day'), ašareške- 'bind'; each thread wound (ḫulaleezzi) round the figurines"}
+      - {motif: sorcery-thrown-back-on-sorcerer, refs: ["CTH 402 §9:60-61", "CTH 402 §16:101-103", "CTH 402 §18:108-110"], note: "EGIR-pa išḫišši peškimi 'I give it back to its owner'; 'let the man take it back … if a woman, let the woman take it'"}
+      - {motif: wool-binds-sorcery-off-limbs, refs: ["CTH 402 §13:83-84"], note: "ašareške- 'bound' … ḫūmandaz UZUÚR-naz 'from all limbs'"}
+      - {motif: drunkenness-of-sorcery-removed, refs: ["CTH 402 §16:101-104"], note: "uiyaniškemi 'I make drunk': the drunkenness taken off and the sorcerer made drunk through the figurines; partly restored"}
+      - {motif: white-wool-pacifies-and-purifies, refs: ["CTH 402 §19:111-119"], note: "nakki kurur takšulaizzi 'appeases fierce hostility' … ka-aš UN-aš pēran parkuiš ēšdu 'may this person be pure before (all)'"}
+      - {motif: harm-done-before-gods-or-men, refs: ["CTH 402 §19:115-116"], note: "naššu=wan ANA PANI DINGIR.MEŠ … našma=an ANA PANI DUMU.LÚ.U19.LU.MEŠ … ḪUL-lu iēt"}
+      - {motif: analogic-spell-evil-vanish-like-substance, refs: ["CTH 402 §19:113-114"]}
+    hints:
+      - "Compare Isa 1:18 (sins red as crimson made white as wool) and Lev 14:4 (scarlet thread)."
+      - "Compare Q 113:4 and Q 2:102 for sorcery, and Q 24:23 (those who accuse innocent women)."
+  - id: ane-cth-402-3-alli-burial-roads-gate
+    tradition: ane-hittite
+    title: Alli ritual, the sorcery buried and pegged, bread for the gods of the roads and the gate (CTH 402 §20-23)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 402 §20:120-§23:169"]
+    tags:
+      - {motif: evil-buried-in-pit-pegged-down, refs: ["CTH 402 §20:120-135"], note: "tēkan paddai … purut šer išḫuwai … GIŠGAG.ḪI.A walaḫzi … taknai kattanda tēḫun … tarmanunun … namma šarā lē uizzi … dankuiš daganzipaš ḫardu"}
+      - {motif: bad-dreams-buried-with-sorcery, refs: ["CTH 402 §20:133"], note: "idalaweš tešḫuš tarmanteš ašandu 'may the bad dreams be fixed'"}
+      - {motif: earth-receives-my-sin, refs: ["CTH 402 §20:131", "CTH 402 §20:135"], note: "the dark earth (dankuiš daganzipaš) is to hold the sorcery; Hittite, not the Akkadian formula"}
+      - {motif: bread-broken-for-dark-earth-and-sun, refs: ["CTH 402 §21:136-147"], note: "NINDA.SIG for Marwayan, for the dark earth and the Sun: 'you guard this'; šumeš [tar]man ḫarten 'keep it fixed'"}
+      - {motif: gods-of-roads-hold-evil, refs: ["CTH 402 §22:148-160"], note: "Ariya at the right of the road; KASKAL-aš ḫattarišnaš 'crossroads'; KASKAL-aš DINGIR.MEŠ … EGIR-pa lē uizzi"}
+      - {motif: gate-gods-asked-to-speak-good, refs: ["CTH 402 §23:161-167"], note: "KÁ.GAL-aš dŠalawaneš 'the Šalawaneš of the gate': SIG5-TIM taraškitten 'speak good things'"}
+      - {motif: jug-broken-at-end-of-rite, refs: ["CTH 402 §23:168"], note: "1 DUGKUKUBU arḫa duwarnai"}
+    hints:
+      - "Compare Q 113:4 and Q 20:69, and Zech 5:8-11 (wickedness weighted down with a lead cover and set on its base)."
+      - "Compare Ezek 21:21 (the king at the parting of the ways)."
+  - id: ane-cth-402-4-alli-bed-basket-wax
+    tradition: ane-hittite
+    title: Alli ritual, the basket under the bed, wax figurines and the hunter who carries off (CTH 402 §24-32)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 402 §24:170-§32:235"]
+    tags:
+      - {motif: breads-placed-under-royal-bed, refs: ["CTH 402 §24:170-173", "CTH 402 §28:193-195"], note: "grain, breads, bow and three arrows in a basket under the bed overnight; wool band (SÍGešaran) tied at head and foot of the bed"}
+      - {motif: ritual-materials-waved-over-patient, refs: ["CTH 402 §25:174-181"], note: "UN-ši šer arḫa waḫnuzzi"}
+      - {motif: hunter-carries-away-sorcery, refs: ["CTH 402 §25:178", "CTH 402 §31:227-230", "CTH 402 §32:231-232"], note: "LÚUR.GI7-aš LÚ-aš … EGIR-pa pāi 'give it back'; waššiddu … šarkuyaddu … paḫšanuddu … ḫaḫḫariddu … šuwaiddu 'let him clothe, shoe himself, take it up, rake it, shovel it'"}
+      - {motif: sorcerer-figurines-with-tongues, refs: ["CTH 402 §27:186-192"], note: "3 MUNUS.MEŠ arandat … EME.ḪI.A DUḪ.LÀL 'tongues of wax'"}
+      - {motif: evil-removed-from-head-and-bed, refs: ["CTH 402 §28:196-200"], note: "kē=šši=kan kēz karappandu 'let them lift these off him'; from the head, from the bed (šaštaza)"}
+      - {motif: dust-and-dough-cleanse-and-heal-analogy, refs: ["CTH 402 §29:205-210", "CTH 402 §30:211-215"], note: "SAḪAR.ḪI.A GIM-an katta parkunuzi 'as this dust (of pistachio) cleans'; dough heals (ḫuišnuški-); house, altar, hearth, wife, children cleansed"}
+      - {motif: analogic-spell-evil-vanish-like-substance, refs: ["CTH 402 §29:208-210"]}
+      - {motif: patient-seated-facing-sun-god, refs: ["CTH 402 §26:182", "CTH 402 §31:216"]}
+      - {motif: figurines-speak-humans-weary, refs: ["CTH 402 §31:219-226"], note: "UM-MA DUMU.LÚ.U19.LU-MA tāriyaweni; UM-MA ALAM.ḪI.A udatten pēdumeni 'bring it, we will carry it off'"}
+    hints:
+      - "Compare Q 113:4 and Q 114 (refuge from the whisperer) and Zech 5:5-11 (the basket of wickedness carried away)."
+  - id: ane-cth-402-5-alli-bath-river-meal
+    tradition: ane-hittite
+    title: Alli ritual, the bath, the five cups, burial, sacrifice to the Sun and the river (CTH 402 §33-44)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 402 §33:236-§44:317"]
+    tags:
+      - {motif: five-cups-of-liquids, refs: ["CTH 402 §33:237-241"], note: "tariyattariya-, warduli-, wine of a young vine, ašḫaiul, irḫai- in five clay cups"}
+      - {motif: patient-bathed-tongue-removed, refs: ["CTH 402 §33:242-243", "CTH 402 §34:244-249"], note: "É.DU10.ÚS.SA 'bath-house'; NISABA-it warpanzi 'bathe him with grain'; ḪUL-un EME-an … ḪUL UḪ7-tar … kartanun 'I have cut off the evil tongue … evil sorcery'"}
+      - {motif: gods-asked-not-to-let-evil-back-in, refs: ["CTH 402 §34:248-249"], note: "DINGIR.MEŠ paḫḫaštin … ḪUL anda lē namma tarnatteni"}
+      - {motif: blessing-surrounded-by-descendants, refs: ["CTH 402 §35:250-254"], note: "DUMU.MEŠ DUMU.DUMU.MEŠ [ḫaššuš] ḫanzaššuš ḫulaliyan ḫarkandu"}
+      - {motif: evil-buried-in-pit-pegged-down, refs: ["CTH 402 §40:264-273"], note: "5 GIŠGAG 9 NINDA.SIG … tēkan paddai … tarmaizzi"}
+      - {motif: sacral-meal-after-purification, refs: ["CTH 402 §41:276-284"], note: "in the ḫilammar a lamb for the Sun of heaven (per the edition; lines partly lost); ear, liver, heart cooked in the ḫappina- and eaten up (arḫa adanzi)"}
+      - {motif: offerings-to-river-deities-at-night, refs: ["CTH 402 §42:285-298", "CTH 402 §43:299-308"], note: "I7-i paizzi … GE6-anti katta šešzi; wappuwaš DINGIR.MAḪ 'mother goddess of the riverbank', I7-aš weluila-"}
+      - {motif: ritual-washing-in-river, refs: ["CTH 402 §41':274-275", "CTH 402 §43:307-308"], note: "ŠE.NAGA-anzi 'they wash'; nu=za warapzi"}
+      - {motif: scribal-colophon, refs: ["CTH 402 §44:309-317"], note: "DUB.1.KAM QATI with an inventory for the third day"}
+    hints:
+      - "Compare Q 5:6 (ablution) and Q 4:43; Lev 14:8-9 and 16:24-28 (washing after the rite)."
+      - "Compare Q 22:36-37 (eat of the sacrificed animals; their flesh does not reach God)."

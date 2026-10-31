@@ -75,6 +75,32 @@ new_motifs:
   substitute-sent-to-angry-deity: {label: "A richly dressed woman (or animal) is sent to the angry deity as substitute for the sick person: better, pure, shining and white", cluster: ritual}
   deity-eats-fat-drinks-blood: {label: "The deity is invited to eat the fat of the sacrificial animals, eat its fill, drink the blood and quench its thirst", cluster: cult}
   neglected-offering-after-dream-causes-illness: {label: "A queen who saw a goddess in a dream failed to give her an offering, and later her illness is traced to it by oracle", cluster: divination}
+  rooftop-tables-facing-sun-for-plea: {label: "When a matter weighs on a man he makes his plea to the gods: on the roof, facing the sun, he sets up wicker tables with breads, honey, oil and wine and bows to the sun god", cluster: cult}
+  unaccepted-words-let-pass-unheard: {label: "The king asks the gods to accept his words, and to let pass unheard any words they do not accept, since they come from a human mouth", cluster: prayer}
+  divine-bull-transmits-plea: {label: "The storm god's bull Šeri is asked to convey the king's plea to the gods", cluster: prayer}
+  named-and-unnamed-gods-invoked: {label: "The prayer calls on the gods named and not named, of the temples the king visits and those he does not, with heaven, earth, clouds, winds, thunder and lightning", cluster: cult}
+  sun-god-rises-from-sea: {label: "The sun god comes up out of the sea and steps into heaven", cluster: cosmology}
+  sun-summons-gods-to-hear-plea: {label: "The sun god is asked to stop the gods today and call them from heaven, earth, mountains, rivers, temples and thrones to hear the plea", cluster: prayer}
+  god-took-king-from-mother-raised-him: {label: "The king says his father begot him but the god took him from his mother, raised him, made him priest and put him on the throne", cluster: kingship}
+  answered-prayer-glorifies-god: {label: "If the gods grant the plea, the king will be his god's glory: gods and men will say 'truly the god recognised this man', and his descendants will revere the god", cluster: prayer}
+  shine-on-me-like-moon-warm-like-sun: {label: "The god is asked to shine gently on the king like moonlight and warm him from above like the sun", cluster: prayer}
+  god-walks-at-right-hand-yoked-like-ox: {label: "The god is asked to walk at the king's right hand and be yoked with him like an ox for pulling", cluster: prayer}
+  offering-given-gladly-not-in-fear: {label: "The king promises to give the god his bread and libation joyfully, no longer in fear", cluster: cult}
+  loaves-broken-for-each-god-in-turn: {label: "Three white loaves, one of them red, are broken for each god in turn, filled with honey and oil, topped with fat-bread and porridge and a jug of wine poured", cluster: ritual}
+  release-storm-gods-anger-before-gods: {label: "The king calls one group of gods after another (Ḫebat, the gods of the lands, mountains and rivers, heaven and earth, the sun) and before each 'releases' the storm god's anger", cluster: ritual}
+  underworld-gods-reconcile-angry-god: {label: "If any god, mountain, river or spring has angered the storm god, the underworld gods (Anunnaki) are asked to reconcile him with it, and he is to look on the land with reconciled eyes", cluster: prayer}
+  king-follows-rules-found-on-tablets-and-elders: {label: "The king carries out whatever cult rules he finds on wooden and clay tablets or learns from the great old man, and asks a dream to clarify the rest", cluster: cult}
+  unknown-words-searched-out-by-underworld-gods: {label: "Since humans know only the words that came out of their mouth, the underworld gods are asked to search out in the dark earth the offences they do not know", cluster: theodicy}
+  storm-god-filled-mothers-breasts: {label: "The storm god filled the mother's breasts for our good, and as people are sated with cold water so may he grant satiety", cluster: fertility}
+  goddess-raises-and-rejects-kings: {label: "The goddess is she who takes up and who casts off; the king and queen she looks upon succeed through her", cluster: kingship}
+  son-disclaims-part-in-fathers-offence: {label: "The king declares he had no part in his father's offences (he was a child, or was compelled by his lord), and that the guilty one has already paid with his own head", cluster: theodicy}
+  old-guilt-not-revived-in-my-days: {label: "The deity is asked not to bring up again an old offence against the king and the land in his days, since it would not be right", cluster: theodicy}
+  king-installs-brothers-son: {label: "On his brother's death the king installs his brother's son on the throne", cluster: kingship}
+  city-raised-from-deep-waters-like-stone: {label: "The king brought the ruined holy city up like a stone out of deep waters, resettled and rebuilt it, which earlier victorious kings had failed to do", cluster: kingship}
+  king-risks-life-for-gods-city-not-wealth: {label: "Deserted by friends who said he would perish, the king said he would rather die for the god's city than give it away; as a mere man he did not seek wealth", cluster: kingship}
+  dahanga-place-of-favour: {label: "The gods' sanctuary of favour (daḫanga) is invoked as a place into which the land is enclosed, so that its offences are cast away", cluster: cult}
+  wet-nurse-wage-simile: {label: "As father and mother give the wage of a wet-nurse to one who raises their child, so the gods should reward the king who cared for their son's city", cluster: prayer}
+  accuser-in-divine-assembly: {label: "If anyone speaks of the evil matter in the assembly of the gods, the gods are asked to weigh the king's merit instead and cast the matter out", cluster: theodicy}
 units:
   - id: ane-cth-372-1-sun-hymn-epithets
     tradition: ane-hittite
@@ -589,3 +615,162 @@ units:
     tags:
       - {motif: scribal-colophon, refs: ["CTH 380.2 §1:1-4"], note: "'tablet finished; Tawa[nnanna] … concerning illness … to Lelwani an offering'; line §1:2 has no Hittite in the data"}
       - {motif: personal-gods-plead-healer-intercedes, refs: ["CTH 380.3 §1:1"], note: "only GÉME-TUM 'maidservant' survives; tag only marks the context of a prayer for the sick queen"}
+  - id: ane-cth-381-1-rooftop-plea-setting
+    tradition: ane-hittite
+    title: Muwatalli II's plea to the assembly of gods, ritual setting and preamble (CTH 381 §1-5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 381 §1:1-§5:30"]
+    tags:
+      - {motif: rooftop-tables-facing-sun-for-plea, refs: ["CTH 381 §1:2-9"], note: "šuḫḫi=kan šer dUTU-i menaḫḫanda 2 GIŠ.BANŠUR AD.KID"}
+      - {motif: offerings-on-rooftops-to-goddess, refs: ["CTH 381 §1:4-8"]}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 381 §1:3", "CTH 381 §3:14-§4:21"], note: "arkuwar of the gods, their temples and statues first, then 'the words of my soul'"}
+      - {motif: unaccepted-words-let-pass-unheard, refs: ["CTH 381 §4:22-27"], note: "nat=mu=kan UN-az KA×U-az šarā uezzi=pat … ištamaššuwanzi parā tarništen"}
+      - {motif: divine-bull-transmits-plea, refs: ["CTH 381 §5:28-30"], note: "dŠeriš … GU4 ŠA d10 … tarkummai"}
+    hints:
+      - "Compare Jer 19:13, Zeph 1:5 and 2 Kgs 23:12 (offerings on rooftops to the host of heaven)."
+      - "Compare Q 2:286 ('do not take us to task if we forget or err') with asking the gods to overlook unaccepted words."
+  - id: ane-cth-381-x1-god-list
+    tradition: ane-hittite
+    title: Catalogue of the gods of Hatti's cities invoked by Muwatalli (CTH 381 §X1-X59)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 381 §X1:31-§X59:95"]
+    tags:
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 381 §X1:31-§X58:88"], note: "city by city: 'male gods, female gods, mountains and rivers of X'; Arinna, Šamuḫa, Aleppo, Kummanni, Nerik, Ḫupišna, Tuwanuwa, Wašḫaniya …; also gods of grandfather, father and grandmother"}
+      - {motif: underground-watercourses-as-witnesses, refs: ["CTH 381 §X38:68"], note: "only the mountains and rivers (ḪUR.SAG.MEŠ ÍD.MEŠ) recur; no sinkholes; partial"}
+      - {motif: named-and-unnamed-gods-invoked, refs: ["CTH 381 §X59:90-95"], note: "kuieš daranteš kuieš UL daranteš 'who are named and who are not named'"}
+      - {motif: oath-by-heaven-and-earth, refs: ["CTH 381 §X59:95"], note: "heaven and dark earth, clouds and winds, thunder and lightning are invoked; not an oath"}
+    hints:
+      - "Compare Q 7:180 and Q 17:110 (God's names) and the polemic against many gods in Q 12:39-40 ('separate lords … names you have named, you and your fathers')."
+      - "Compare Acts 17:23 (to an unknown god) with the gods 'not named'."
+  - id: ane-cth-381-x60-prayer-to-storm-god
+    tradition: ane-hittite
+    title: Muwatalli's prayer to the Sun god and the storm god piḫaššašši (CTH 381 §X60-X68)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 381 §X60:96-§X68:159"]
+    tags:
+      - {motif: sun-god-shepherd-of-the-land, refs: ["CTH 381 §X60:96"], note: "ŠA DUMU.LÚ.U19.LU LÚ.SIPA-aš 'shepherd of mankind'"}
+      - {motif: sun-god-rises-from-sea, refs: ["CTH 381 §X60:97-98"], note: "šarā=kan uwaši … arunaz"}
+      - {motif: sun-god-judges-dumb-animals, refs: ["CTH 381 §X60:99"], note: "men, dogs, pigs and wild animals, daily (UD-tili)"}
+      - {motif: sun-summons-gods-to-hear-plea, refs: ["CTH 381 §X61:100-§X62:103"]}
+      - {motif: god-took-king-from-mother-raised-him, refs: ["CTH 381 §X63:105-111"], note: "DUMU.LÚ.U19.LU-aš ešun … annaz dāš nu=mu šallanut"}
+      - {motif: bird-takes-refuge-in-nest-simile, refs: ["CTH 381 §X65:120-123"]}
+      - {motif: answered-prayer-glorifies-god, refs: ["CTH 381 §X66:128-142"], note: "kuel walliyatar … ḫandan=wa … UN-an kaništa 'whose glory? truly you recognised the man'"}
+      - {motif: offering-given-gladly-not-in-fear, refs: ["CTH 381 §X67:143-150"]}
+      - {motif: shine-on-me-like-moon-warm-like-sun, refs: ["CTH 381 §X67:151-152"]}
+      - {motif: god-walks-at-right-hand-yoked-like-ox, refs: ["CTH 381 §X68:153-157"]}
+    hints:
+      - "Compare Q 40:60 ('call on me, I will answer you'), Q 2:186, and Ps 50:15 ('call on me in the day of trouble; I will deliver you and you shall glorify me')."
+      - "Compare Ps 22:10-11 and Ps 71:6 (taken from the womb) and Q 19:12-15 (Yaḥyā)."
+      - "Compare Ps 121:5-6 (YHWH at your right hand; the sun shall not strike you by day nor the moon by night) and Q 91:1-2."
+  - id: ane-cth-381-6-bread-breaking-ritual
+    tradition: ane-hittite
+    title: The bread-breaking offering that accompanies the plea (CTH 381 §6-24)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 381 §6:160-§24:223"]
+    tags:
+      - {motif: loaves-broken-for-each-god-in-turn, refs: ["CTH 381 §8:164-§18:203", "CTH 381 §20:208-§22:216"], note: "3 NINDA.GUR4.RA BABBAR ŠÀ.BA 1 SA5 paršiya … LÀL Ì.DÙG.GA šunniyazi"}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 381 §19:204-207"], note: "after breaking the loaves the Majesty lays before the gods the words on his heart"}
+      - {motif: sun-god-as-witness-to-rite, refs: ["CTH 381 §23:217"], note: "kutrui dUTU-i 'for the witness, the Sun god'"}
+      - {motif: scribe-marks-break-in-original, refs: ["CTH 381 §6:161"], note: "KI.MIN PAB 'ditto, broken'"}
+      - {motif: scribal-colophon, refs: ["CTH 381 §24:223"]}
+    hints:
+      - "The burning of the broken loaves before the two tables (§24:220-222) compares with the shewbread (Lev 24:5-9) and burnt grain offerings (Lev 2)."
+  - id: ane-cth-382-1-kummanni-wrath-released
+    tradition: ane-hittite
+    title: Muwatalli II's plea to the storm god of Kummanni, the cases of offence (CTH 382 §1-7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 382 §1:1-§7:105"]
+    tags:
+      - {motif: confession-it-is-so-we-did-it, refs: ["CTH 382 §1:1-2"], note: "ḫarātar wašdul=la p[ēran] t[arnumeni] 'we confess offence and sin before him'; restored verb"}
+      - {motif: release-storm-gods-anger-before-gods, refs: ["CTH 382 §1:3-17"], note: "ŠA d10 TUKU.TUKU-an pēran lāweni 'we release the storm god's anger before (them)'"}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["CTH 382 §1:9-15"], note: "AN KI ḫalziyawen … kutruwanni artari 'heaven and earth we called … (the sun) stands as witness'"}
+      - {motif: sun-god-as-witness-to-rite, refs: ["CTH 382 §1:13-15"]}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 382 §1:22-26", "CTH 382 §4:37"]}
+      - {motif: catalogue-of-possible-sins-for-release, refs: ["CTH 382 §2:27-§7:97"], note: "a chain of conditionals 'if any god / mountain / river / spring angered the storm god … if anyone overturned a throne or cult stone or blocked a pure spring'"}
+      - {motif: underworld-gods-reconcile-angry-god, refs: ["CTH 382 §2:28-29", "CTH 382 §3:32-33", "CTH 382 §5:70-71"], note: "dA.NUN.NA.KE4 … takšulandu 'let the Anunnaki reconcile'"}
+      - {motif: king-follows-rules-found-on-tablets-and-elders, refs: ["CTH 382 §4:44-65", "CTH 382 §7:98-103"], note: "IŠTU GIŠ.ḪUR.ḪI.A gulzattanazziya … wemiškemi; šalliš LÚ.ŠU.GI 'the great old man'; tešḫit parkunut 'clarify by a dream'"}
+      - {motif: gods-turned-back-on-mankind, refs: ["CTH 382 §4:39-40"], note: "only: the land was great and has become small"}
+      - {motif: collective-vs-individual-guilt, refs: ["CTH 382 §6:89-92"], note: "1-EN URU-LIM 1-EN É-TI anda šanḫi … A-NA KUR-TI=ma … lē anda šanaḫti 'avenge it on that one city or house, not on the land'"}
+      - {motif: king-vows-to-rebuild-temples-and-statues, refs: ["CTH 382 §6:73-88"], note: "here: šinapši shrines inspected and re-purified"}
+    hints:
+      - "Compare Deut 30:19 and 31:28 (I call heaven and earth to witness) and Isa 1:2."
+      - "Compare Gen 18:23-32 and Q 6:164 for limiting vengeance to the guilty city or house; and Q 17:16 (a town destroyed when its affluent transgress)."
+  - id: ane-cth-382-8-unknown-words-colophon
+    tradition: ane-hittite
+    title: Kummanni prayer, further cases, unknown offences and colophon of Lūrma (CTH 382 §8-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 382 §8:106-§13:153"]
+    tags:
+      - {motif: catalogue-of-possible-sins-for-release, refs: ["CTH 382 §8:106", "CTH 382 §10:113-121", "CTH 382 §11:122-125", "CTH 382 §12:126-131"], note: "curse, bloodshed and tears (ḫurtāi ešḫani išḫaḫrui); orphans; an evil bird and the bread of the dead; the father of the king's affair"}
+      - {motif: collective-vs-individual-guilt, refs: ["CTH 382 §10:119-121"], note: "if a poor man's house (LÚ.MÁŠDA), avenge it on that house, not on the land"}
+      - {motif: unknown-words-searched-out-by-underworld-gods, refs: ["CTH 382 §12:132-140"], note: "UL kuē šekkueni … dA.NUN.NA.KE4 GE6-i KI-pi šanḫandu 'what we do not know, let the Anunnaki seek in the dark earth'"}
+      - {motif: sufferer-confesses-unknown-sins, refs: ["CTH 382 §12:132-136"]}
+      - {motif: storm-god-filled-mothers-breasts, refs: ["CTH 382 §12:142-145"], note: "annaš UZU.UBUR … šunnaziyanteš; A-NA ME-E KA-ṢÍ-I"}
+      - {motif: answered-prayer-glorifies-god, refs: ["CTH 382 §12:146-149"], note: "wal[liyatar] restored"}
+      - {motif: scribal-colophon, refs: ["CTH 382 §13:150-153"], note: "hand of Lūrma, junior diviner, son of Aki-Tešup"}
+    hints:
+      - "Compare Q 2:286 ('do not take us to task if we forget or err') and Ps 19:13 ('who can discern errors? clear me from hidden faults') with offences 'that did not come out of our mouth'."
+      - "Compare Gen 49:25 (blessings of breasts and womb) and Q 16:66 (milk from the bellies of cattle)."
+  - id: ane-cth-383-1-hattusili-disclaimers
+    tradition: ane-hittite
+    title: Ḫattušili III and Puduḫepa to the Sun goddess of Arinna, disclaiming past offences (CTH 383.1 §1-8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 383.1 §1:1-§8:90"]
+    tags:
+      - {motif: goddess-raises-and-rejects-kings, refs: ["CTH 383.1 §1:1-7"], note: "šarā kuiš daškeši arḫa kuiš piššiškeši 'you who take up, you who cast off'; 'queen of heaven and earth', 'torch of Hatti'"}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 383.1 §2:8"]}
+      - {motif: son-disclaims-part-in-fathers-offence, refs: ["CTH 383.1 §2:9-26", "CTH 383.1 §3:35-42", "CTH 383.1 §5:49-52"], note: "TUR-aš ešun 'I was a child'; GEŠPU-aḫḫuwaš ešun EN-YA=aš=mu ešta 'I was compelled; he was my lord'"}
+      - {motif: guilt-of-predecessor-not-forgiven, refs: ["CTH 383.1 §2:13-19", "CTH 383.1 §4:43-46"], note: "trials of queen Tawannanna and of Danuḫepa, both humiliated by his father; whether it was the goddess's wish she alone knew"}
+      - {motif: blood-guilt-returns-on-head, refs: ["CTH 383.1 §5:53-58", "CTH 383.1 §2:23-25"], note: "IŠTU SAG.DU-ŠÚ karū parā šarnikta 'he already paid with his head'; DINGIR-LIM-iš kišat 'he has become a god' (died)"}
+      - {motif: old-guilt-not-revived-in-my-days, refs: ["CTH 383.1 §5:59-62"], note: "ammel UD.ḪI.A-aš … EGIR-pa lē ḫuittiyattari … UL ārān"}
+      - {motif: king-installs-brothers-son, refs: ["CTH 383.1 §6:63-71"], note: "Urḫi-Teššob; 'whether it was your wish or not'"}
+      - {motif: temple-treasures-plundered, refs: ["CTH 383.1 §3:40-41"], note: "the father took the silver and gold of all the gods and moved the gods (DINGIR.MEŠ-aš arnummar)"}
+    hints:
+      - "Compare Q 3:26 ('you give kingship to whom you will and take it from whom you will; you exalt whom you will and abase whom you will')."
+      - "Compare 1 Kgs 21:29 ('I will not bring the evil in his days') and 2 Kgs 22:20 with 'do not revive the matter in my days'."
+      - "Compare Q 6:164 and Q 2:134 with the plea that the guilty paid with his own head."
+  - id: ane-cth-383-1-nerik-merit
+    tradition: ane-hittite
+    title: Ḫattušili's restoration of Nerik as merit against inherited sin (CTH 383.1 §9-12)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 383.1 §9:91-§12:164"]
+    tags:
+      - {motif: city-raised-from-deep-waters-like-stone, refs: ["CTH 383.1 §9:93-106"], note: "NA4.akuš GIM-an … ḫalluwaz witaz šarā udaḫḫun 'I brought it up like a stone from deep waters'; roads overgrown (warḫuiššar)"}
+      - {motif: king-risks-life-for-gods-city-not-wealth, refs: ["CTH 383.1 §9:91-92", "CTH 383.1 §10:107-122"], note: "A-NA URU.nerik šer aggallu=pat 'I would rather die for Nerik'; NÍG.TUKU-an UL šanḫun 'I did not seek wealth'"}
+      - {motif: sick-man-abandoned-by-companions, refs: ["CTH 383.1 §10:109-110"], note: "friends and comrades separated from him: 'you will perish over Nerik'; a political, not sickness, setting"}
+      - {motif: exiles-confess-sins-of-fathers, refs: ["CTH 383.1 §10:124-§11:128"], note: "attaš=maš annaš=maš waštaiš … karuiliaš … waštaiš: 'if an offence of my father or mother or of earlier kings exists, do not avenge it'"}
+      - {motif: dahanga-place-of-favour, refs: ["CTH 383.1 §11:129-133", "CTH 383.1 §12:162"]}
+      - {motif: wet-nurse-wage-simile, refs: ["CTH 383.1 §11:134-138"], note: "ŠA MUNUS.ÙMMEDA UL imma pāi 'do they not give (the wage) of a wet-nurse?'"}
+      - {motif: accuser-in-divine-assembly, refs: ["CTH 383.1 §12:157-163"], note: "tuliya kuiški anda memai 'if anyone speaks (of it) in the assembly'"}
+    hints:
+      - "Compare Exod 2:9 and Q 28:7-13 (Moses' mother given wages to nurse her own son) with the wet-nurse's wage."
+      - "Compare Job 1:6-12, Zech 3:1-5 (the accuser in the heavenly council) and Q 7:16-17 (Iblīs vows to sit in wait), and Q 11:114 (good deeds remove evil deeds)."
+      - "Compare Neh 9:2, Lev 26:40 and Dan 9:16 (iniquities of the fathers confessed)."
+  - id: ane-cth-383-2-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer of Muršili or Ḫattušili concerning the queen and an oath (CTH 383.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 383.2"]
+    tags:
+      - {motif: prayer-as-legal-plea, refs: ["CTH 383.2 §1:4", "CTH 383.2 §2:15", "CTH 383.2 §2:34"], note: "arkuweškezzi; DI-NU pēran katta dāišten 'you laid the case down before …'"}
+      - {motif: son-disclaims-part-in-fathers-offence, refs: ["CTH 383.2 §2:30"], note: "nan ammuk … UL kuitki idālawaḫḫun 'I did him no harm at all'; context fragmentary (the queen, an oath over a single beer-bread, a blood relative who killed)"}
+    hints:
+      - "The oath over shared beer-bread and water (§2:20-24) compares with covenant meals (Gen 31:46-54)."

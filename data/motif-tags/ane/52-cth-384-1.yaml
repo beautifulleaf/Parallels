@@ -103,6 +103,13 @@ new_motifs:
   offering-burned-without-smoke: {label: "The fish is thrown on the hearth and burned, and there is no smoke", cluster: ritual}
   bones-gathered-and-burned-in-hearth: {label: "After the meal the bones are gathered, laid in the hearth and burned", cluster: ritual}
   ritualist-keeps-utensils-patron-takes-nothing: {label: "The ritualist takes the clay and wicker utensils of the rite for herself; the patron takes nothing back", cluster: ritual}
+  choice-portions-roasted-for-god-rest-eaten: {label: "Choice portions of the victim (right ear, liver, heart, right shoulder, breast, hoof) are roasted and set before the gods on bread and leaves; the rest is cooked and eaten by the participants", cluster: cult}
+  deity-asked-for-life-health-vigour-sight: {label: "The deity is asked to give the patient life, health, vigour, long years and the sight of the eyes", cluster: ritual}
+  vessel-broken-in-rite: {label: "A bowl or vessel is waved over the patient and then smashed", cluster: ritual}
+  amulet-wrapped-on-patient: {label: "A conjured bundle of wool and objects is wound round the patient's body and removed when he recovers", cluster: ritual}
+  silence-on-return-from-rite: {label: "Returning from the rite, the ritualist must not turn round, speak or curse", cluster: ritual}
+  wife-children-grandchildren-kept-alive-prayer: {label: "Prayer that the deity keep the petitioner's wife, children and grandchildren alive", cluster: prayer}
+  god-restores-status-servant-to-master: {label: "The healed patron asks which of the gods made him a servant again and a master again", cluster: ritual}
 units:
   - id: ane-cth-384-1-1-puduhepa-nerik-history
     tradition: ane-hittite
@@ -134,7 +141,6 @@ units:
       - {motif: prayer-framed-as-legal-plea, refs: ["CTH 384.1 §6:58"], note: "kī uttar … arkuwar iyanun 'I made this word as a plea'"}
       - {motif: god-yields-to-woman-in-labour-proverb, refs: ["CTH 384.1 §6:61-64"], note: "ḫarnauwaš=wa MUNUS-nī DINGIR-LUM kāri tiyazi 'to the woman of the birth-stool the deity yields'; ḫarnawaš MUNUS-za … SAG.DU-az piyan ḫarmi 'I have given myself in person'"}
       - {motif: prayer-for-long-years-months-days, refs: ["CTH 384.1 §6:67-68", "CTH 384.1 §8:114-115"], note: "TI-tar pāi 'give life'; MU.ḪI.A ITU.ḪI.A UD.ḪI.A [daluga]eš 'long years, months and days'"}
-      - {motif: deathbed-dream-of-divine-assembly, refs: ["CTH 384.1 §6:70-73"], note: "only a partial fit: when all the gods hold [assembly] (tuliya restored), the goddess is to ask for Ḫattušili's life there 'with a sincere mind'"}
       - {motif: harmful-words-and-gifts-before-gods-countered, refs: ["CTH 384.1 §8:102-113"], note: "maninkuwantaš=wa 'of short [life]' was said of him; IŠTU ŠU AMĒLŪTI 'by the hand of a man'; piyan … ḪUL-uanni šer A-NA DINGIR.MEŠ piyan ḫarzi 'has given a gift to the gods for evil'; GÌR.MEŠ-it išparratti 'you trample with the feet'"}
       - {motif: minor-deity-asked-to-forward-prayer, refs: ["CTH 384.1 §8:111", "CTH 384.1 §8:114"], note: "Lelwani is to speak good (parranda memaš-) to the gods; the life of Ḫattušili and Puduḫepa is to come from her mouth before the gods"}
       - {motif: conditional-vow-to-deity, refs: ["CTH 384.1 §9:116-119"]}
@@ -479,3 +485,400 @@ units:
       - {motif: ancestor-took-gods-silver-into-his-house, refs: ["CTH 387.5 §3:13-19"], note: "INA URU d10-ašša 'in Tarḫuntašša' silver and gold were mixed for all the gods; A-BU-YA=ma=za UL kuitki … INA É-ŠU pedaš 'my father … brought it into his house'; then he gave it to the gods"}
     hints:
       - "Compare Josh 7:1, 21 (Achan takes the devoted silver into his tent) and Q 3:161 (no prophet would defraud; whoever defrauds will bring it on the Day)."
+  - id: ane-cth-390-1-ayatarsa-sick-child
+    tradition: ane-hittite
+    title: Ayatarša's ritual for a sick child, sheep for the Sun god of illness, herbs and purification water (CTH 390 §1-21)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 390 §1:1-§21:65"]
+    tags:
+      - {motif: sick-child-offered-to-sun-god-of-illness, refs: ["CTH 390 §1:1-4", "CTH 390 §2:5", "CTH 390 §3:7-10"], note: "inanaš dUTU-un 'the Sun god of illness'; garāteš adanteš 'his entrails eaten'; ŠUM-ŠU tēmi 'I speak his name'; inan EGIR-an arḫa karš 'cut the illness away'"}
+      - {motif: deity-told-eat-drink-and-remove-illness, refs: ["CTH 390 §4:11-13", "CTH 390 §5:14-18", "CTH 390 §6:20-21", "CTH 390 §7:22-24"], note: "UZUḫuišu šuppa 'raw sacred meat'; KUŠ UDU UZUGABA ZAG 'hide, breast, shoulder' before the god; liver roasted on open flame (ḫappinit) on broken bread; zik azzikki akkuški 'eat and drink'; at dawn it is taken up and eaten"}
+      - {motif: herbal-potion-poured-into-mouth-and-over-body, refs: ["CTH 390 §8:26", "CTH 390 §9:27", "CTH 390 §10:28-32", "CTH 390 §11:33-37", "CTH 390 §12:38-42"], note: "list of garden plants (white and black cumin, asafoetida, crocus, lettuce …); ḫarnammar BAPPIR 'yeast, beer-wort'; waḫešnaš wātar 'water of purification'; into his mouth (aiš), head, all limbs, anus (arraš); the child washes with soapwort (ŠE.NAGA)"}
+      - {motif: bird-waved-over-patient-and-released, refs: ["CTH 390 §13:43-45"], note: "MUŠEN ḪURRI šēr arḫa waḫnuzzi 'waves a (Hurrian) goose over him'; dUTU-i EGIR-an tarnāi 'lets it go to the Sun god'"}
+      - {motif: two-birds-one-killed-one-released, refs: ["CTH 390 §13:44-45"], note: "only one bird, waved and released; no slaughtered partner"}
+      - {motif: purification-materials-catalogue, refs: ["CTH 390 §8:26", "CTH 390 §9:27"]}
+      - {motif: wound-dressed-with-bandage-and-salve, refs: ["CTH 390 §14:46-47", "CTH 390 §15:48-52"], note: "loose: plants sieved in sheep fat; the limbs are anointed (iškaḫḫi); the child set on a pierced stool (GIŠŠÚ.A gullanti) over a NAMMANTU vessel of purification water"}
+      - {motif: vessel-broken-in-rite, refs: ["CTH 390 §20:61-64"], note: "eleven(?) flat bowls; one is waved over him and smashed (duwarnai); §16-19 and §21 almost lost"}
+    hints:
+      - "Compare Lev 14:4-7, 49-53 (two birds: one killed, the living one set free over the field for the healed leper) with the goose waved over the child and released to the Sun."
+      - "Compare Q 26:80 ('when I fall ill, He heals me'), against a sun god of illness who takes it away; and Q 16:69 (honey with healing) for the herbal potion."
+  - id: ane-cth-390-22-wattitti-entrails
+    tradition: ane-hittite
+    title: Wattitti's ritual for eaten entrails, bread on the spit, entrails eaten, the bundle under the stars (CTH 390 §22-32)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 390 §22:66-§32:138"]
+    tags:
+      - {motif: entrails-overpower-entrails, refs: ["CTH 390 §22:71", "CTH 390 §23:72-77", "CTH 390 §24:78-85", "CTH 390 §25:86-88"], note: "2-ŠU 7 šalakar 'twice seven šalakar breads' taken from the hearth one by one on a spit (išpatar); sheep entrails roasted; 2-ŠU UD 7.KAM 'twice seven days'; karāduš=wa=za karātiš tarruḫḫanzi 'the entrails overpower the entrails'; a poor man (LÚMÁŠDA) eats whatever entrails he finds"}
+      - {motif: object-conjured-overnight-by-stars, refs: ["CTH 390 §26:89-96", "CTH 390 §27:97-102", "CTH 390 §28:103-109", "CTH 390 §29:110-111"], note: "black, yellow, red and blue wool plaited round an arrow-shaft and a boxwood spindle whorl, on bread, taken by night to the roof (šuḫḫa) behind the drainpipe MUL-aš kattan 'under the stars'; 1 LI-IM MUL.ḪI.A ḫukkiškanzi 'the thousand stars will conjure it'; taknaš dUTU-uš 'the Sun goddess of the Earth' below; at sunrise the Sun god"}
+      - {motif: analogic-spell-for-healing, refs: ["CTH 390 §29:112-115", "CTH 390 §30:116-118", "CTH 390 §31:126-129", "CTH 390 §32:132-135"], note: "ḫuišaš panzakittiš GIM-an weḫatta 'as the spindle whorl turns', so may the evil entrails turn away downward; as one arrow-shaft does not hit another, so may the evil entrails not hit the child; meat buried in a pit: as the earth is dug out … so may the child grow (šalliškiddu)"}
+      - {motif: amulet-wrapped-on-patient, refs: ["CTH 390 §29:111-112", "CTH 390 §31:119-120"], note: "the bundle is wound round the child's upper body (kuttaneššī nāi) and taken off when it is well"}
+    hints:
+      - "Compare Q 113:1-5 (refuge with the Lord of daybreak from the evil of night and of the blowers on knots) and Q 37:6-10 (stars as protection) with the bundle conjured by the stars."
+  - id: ane-cth-390-33-evil-tongues
+    tradition: ane-hittite
+    title: Against evil tongues, the Old Woman cleans the tongue with honey (CTH 390 §33-35)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 390 §33:139-§35:166"]
+    tags:
+      - {motif: tongue-cleansed-with-honey-and-spittle, refs: ["CTH 390 §33:139-141", "CTH 390 §35:159-165"], note: "EME.ḪI.A 'tongues' come upon someone; BAPPIR-it šartāmi 'I smear with beer-wort'; Ì.NUN 'ghee' on his member (ÚR); IŠTU LÀL-it EME-ŠU arḫa ānašdu 'wipe his tongue with honey'; INA KAxU-ŠU anda 2-ŠU allapaḫzi 'spits into his mouth twice'"}
+      - {motif: gods-send-old-woman-to-heal, refs: ["CTH 390 §33:150", "CTH 390 §34:152-158"], note: "ḫalugaš pait '[to Kamruš]epa the message went' (name restored); dNIN.TU: MUNUSḫašawan pēḫutetten … EME-ŠU šaḫdu 'bring the Old Woman, let her clean his tongue'"}
+      - {motif: sufferer-cannot-eat-or-drink, refs: ["CTH 390 §33:146-147"], note: "[…] UL … nu ekuzzi 'does not [eat], does not drink' (negation partly restored)"}
+      - {motif: slanderer-with-forked-tongue, refs: ["CTH 390 §33:139"], note: "only the 'tongues' (EME.ḪI.A) that come upon a man; the rubric is ŠI-PAT EME.ḪI.A 'incantation of the tongues' (§35:166)"}
+    hints:
+      - "Compare Q 20:27-28 (Moses: 'loosen the knot from my tongue') and Q 113:4; and Isa 6:6-7 (the lips touched with a coal) for the cleansed tongue."
+  - id: ane-cth-390-36-binding-and-loosing
+    tradition: ane-hittite
+    title: The great river bound everything; Kamrušepa conjures and looses it; the child bound and loosed limb by limb (CTH 390 §36-46)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 390 §36:167-§46:259"]
+    tags:
+      - {motif: cosmic-binding-catalogue, refs: ["CTH 390 §36:167-174", "CTH 390 §37:175-181"], note: "šalliš ÍD-aš ḫunḫumazzišit ḫamikta 'the great river bound its flood'; ḫamikta 'bound' each: fish, ḪUR.SAG.ḪI.A pargamuš, ḫāriuš ḫalluwauš, dIM-aš wellu, partiyanza ḫāraš 'eagle's wings', šamankurwanduš MUŠ.ḪI.A 'bearded eels', stag under the oak (GIŠeya), panther, wolf, lion, wild goat and its milk, ŠA dLAMMA GIŠŠÚ.A"}
+      - {motif: message-passed-down-chain-of-gods, refs: ["CTH 390 §38:182-184"]}
+      - {motif: bound-world-loosed-by-conjuring, refs: ["CTH 390 §38:185-190", "CTH 390 §39:191-196", "CTH 390 §40:197-203"], note: "Kamrušepa ANŠE.KUR.RA.ḪI.A-ŠU turit 'yoked her horses' and drove to the great river; ḫukkiškizzi 'conjures'; lāttat 'was loosed', item by item in the same order"}
+      - {motif: god-who-binds-and-looses, refs: ["CTH 390 §38:187-190"]}
+      - {motif: body-bound-and-loosed-part-by-part, refs: ["CTH 390 §41:204-220", "CTH 390 §42:226-231", "CTH 390 §43:232-242", "CTH 390 §44:243-249", "CTH 390 §45:250-256"], note: "DUMU-aš ḫuelpiš 'the young child' ḫamiktat 'was bound' as to hair, skull, nose (tititan), ears, mouth, tongue, throat, gullet, chest, lungs, liver, genitals (genzu), bladder, anus, knees, hands; ḫuikdu 'let her conjure'; lāun 'loosen'; KI.MIN 'ditto'"}
+      - {motif: gods-send-old-woman-to-heal, refs: ["CTH 390 §42:221-225"], note: "GIM-an=wa DÙ-ueni 'how shall we act?'; dNIN.TU: it=wa MUNUSḫāšawan pēḫute 'go, bring the Old Woman'"}
+      - {motif: gods-ask-what-shall-we-do, refs: ["CTH 390 §42:222-223"]}
+      - {motif: incantation-words-are-gods-not-mine, refs: ["CTH 390 §46:257-259"], note: "loose: kī=ma uttar nakkī 'this word is weighty'; āššu ŠI-PAT ḫamin[kuwaš] 'a good incantation of binding'; [ŠUM-Š]U NU.GÁL 'its name is not (known)'"}
+    hints:
+      - "Compare Q 113:4 ('the women who blow on knots') and Q 20:27 with binding and loosing; and Matt 16:19 (whatever you bind … loose)."
+      - "Compare Job 38:31 ('can you bind the chains of the Pleiades or loose the cords of Orion?') with the cosmic binding catalogue."
+  - id: ane-cth-390-47-susumaniga-hasammili
+    tradition: ane-hittite
+    title: Šušumaniga's monthly offering to Ḫašammili for a child; the tablet's colophon (CTH 390 §47-53)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 390 §47:260-§53:284"]
+    tags:
+      - {motif: deity-told-eat-drink-and-remove-illness, refs: ["CTH 390 §47:261-265", "CTH 390 §48:266-267"], note: "only a partial fit: monthly (ITU-miaš) for a child; a wicker table before the window (luttiya), a soldier bread and a small sweet bread, the image of Ḫašammili set on the bread, beer libated three times; the bread is not broken"}
+      - {motif: scribal-colophon, refs: ["CTH 390 §50:272-274", "CTH 390 §51:275-278", "CTH 390 §52:279-281", "CTH 390 §53:282-284"], note: "DUB.1.KAM QATI; the colophon repeats the incipits of the tablet's rituals: Šušumaniga, Ayatarša 'servant of Nawila', Wattitti 'woman of Kunaššarwa', the Old Woman against tongues"}
+  - id: ane-cth-391-1-1-ambazzi-zarniza
+    tradition: ane-hittite
+    title: Ambazzi's ritual for Zarniza and Tarpatassa, quenching, wool, the launderers, the mouse (CTH 391.1 §1-12)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 391.1 §1:1-§12:47"]
+    tags:
+      - {motif: analogic-quenching-of-evil, refs: ["CTH 391.1 §1:2-7", "CTH 391.1 §2:8-9"], note: "GIŠḫuwalliš 'juniper(?) wood', ḫalkin karaš 'barley and karaš' on a red bowl, roasted; wetenit kištanumi 'I quench with water'; idālu=ya … QATAMMA kištaru 'so may the evil be quenched over the lords'"}
+      - {motif: evil-drawn-out-with-wool-into-basket, refs: ["CTH 391.1 §3:10-14", "CTH 391.1 §4:15-19", "CTH 391.1 §5:20-21"], note: "dough balls, a bow, arrows, a crossbar bolt (GIŠḫattalu) and a locking bolt (GIŠtarzu) in a basket (GIpattani); white wool drawn from feet to heads and down the back; idālu ḫuitteššar ḫuittiya 'draw out the evil drawing' from head, hands, feet and every limb (many restorations from §15-16)"}
+      - {motif: evil-sent-to-enemies-life-to-patient, refs: ["CTH 391.1 §5:22", "CTH 391.1 §6:23-25"], note: "idālauwaš UN.MEŠ ḫarpanalliyaš peški 'give it to the evil men, the enemies'; TI-tar innarawatar MU.ḪI.A GÍD.DA 'life, vigour, long years' (§6 largely restored)"}
+      - {motif: laundered-cloth-analogy-purification, refs: ["CTH 391.1 §7:26-30"], note: "LÚ.MEŠÁZLAG 'launderers'; SÍGmariḫšin 'lint'; ḫarkišzi 'it becomes white'; restored after §17"}
+      - {motif: demon-told-to-fight-bolt-not-people, refs: ["CTH 391.1 §8:31-33"]}
+      - {motif: evil-transferred-to-mouse-sent-away, refs: ["CTH 391.1 §9:34-35", "CTH 391.1 §10:36-40", "CTH 391.1 §11:41"], note: "tin in a bowstring wound on the lords' right hands and feet, then A-NA PÉŠ.TUR 'on a mouse'; arḫa dāḫḫun idālu 'I have taken the evil away'; ḪUR.SAG.ḪI.A … ḫalluwaš ḫāriyaš … KASKAL.ḪI.A-aš pēdāu 'let it carry it over mountains, valleys, roads'"}
+      - {motif: deity-given-animal-in-exchange, refs: ["CTH 391.1 §11:42-44"], note: "kūn=za zik [dā] 'take this one for yourself'; [damā]in [pi]weni 'we give (you) another' to eat"}
+      - {motif: scapegoat-bears-sins-into-wilderness, refs: ["CTH 391.1 §10:40", "CTH 391.1 §11:41"], note: "carrier is a mouse, the burden illness, not sins; carried over the mountains and released"}
+    hints:
+      - "Compare Lev 16:21-22 (the goat carries the iniquities to a solitary land) and Lev 14:7, 53 (the living bird let go); and 1 Sam 6:4-5, 11 (golden mice sent away with the ark from the Philistines)."
+      - "Compare Isa 1:18 and Ps 51:9 (wash me, I shall be whiter than snow) with the launderers whitening the linen; Q 74:4 ('and your garments purify')."
+  - id: ane-cth-391-1-13-ambazzi-alauwaima
+    tradition: ane-hittite
+    title: Ambazzi's ritual for Alauwaima, the mouse released, a goat in its place, metals for good speech before the gods (CTH 391.1 §13-28)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 391.1 §13:48-§28:121"]
+    tags:
+      - {motif: analogic-quenching-of-evil, refs: ["CTH 391.1 §13:50-57"]}
+      - {motif: evil-drawn-out-with-wool-into-basket, refs: ["CTH 391.1 §14:58-60", "CTH 391.1 §15:61-65", "CTH 391.1 §16:66"]}
+      - {motif: evil-sent-to-enemies-life-to-patient, refs: ["CTH 391.1 §16:67-70"]}
+      - {motif: laundered-cloth-analogy-purification, refs: ["CTH 391.1 §17:71-76"], note: "idālu inan DINGIR.MEŠ NÍ.TE-az arḫa … parkunuwandu 'may the gods clean the evil illness out of the body'"}
+      - {motif: demon-told-to-fight-bolt-not-people, refs: ["CTH 391.1 §18:77-79"], note: "lē=aš namma zaḫḫiškiši … kūn GIŠtarzun namma zaḫḫiški 'do not fight them any more … fight this bolt'"}
+      - {motif: evil-transferred-to-mouse-sent-away, refs: ["CTH 391.1 §19:80-81", "CTH 391.1 §20:82-86", "CTH 391.1 §21:87"]}
+      - {motif: deity-given-animal-in-exchange, refs: ["CTH 391.1 §21:88-89", "CTH 391.1 §23:95-101"], note: "kūn=za zik penni 'drive this one away'; adanna=ma=tta UZ6-an peḫḫi 'to eat I give you a goat'; zik et 'you, eat!'; the goat is slaughtered before the breads, the right ear cut off and cooked"}
+      - {motif: scapegoat-bears-sins-into-wilderness, refs: ["CTH 391.1 §20:86", "CTH 391.1 §21:87"], note: "mouse as carrier of the evil; a goat is then given to the deity to eat"}
+      - {motif: metals-and-stones-strewn-for-deity, refs: ["CTH 391.1 §26:113", "CTH 391.1 §27:114-116", "CTH 391.1 §28:119-121"], note: "KÙ.BABBAR GUŠKIN NA4ZA.GÌN NA4GUG NA4KÁ.DINGIR.RA NA4lulluri NA4TI … AN.BAR NAGGA URUDU ZABAR; PA-NI DINGIR.MEŠ āššu memiški 'speak good before the gods'; even if another spoke evil before"}
+      - {motif: choice-portions-roasted-for-god-rest-eaten, refs: ["CTH 391.1 §22:90-94", "CTH 391.1 §24:102-106", "CTH 391.1 §25:107-110", "CTH 391.1 §26:111-112"], note: "leaves spread; long thick bread for the male gods (DINGIR.LÚ.MEŠ) of Alauwaima, breads for Alauwaima and Mamma; shoulder, hoof, muḫrai-, hip, half the head distributed; cooked in a copper pot, and they eat and drink"}
+      - {motif: deity-asked-for-life-health-vigour-sight, refs: ["CTH 391.1 §28:118"], note: "IGI.ḪI.A-aš=mu uwātar pāi 'give my eyes sight'"}
+    hints:
+      - "Compare Q 37:107 ('We ransomed him with a great sacrifice') and Gen 22:13 (the ram in place of the son) with the goat given to the deity in place of the carrier."
+      - "The deity who 'speaks good before all the gods' for a gift diverges from Q 2:255, Q 20:109 and Q 34:23 (no intercession except by His leave)."
+  - id: ane-cth-391-1-29-ambazzi-tarpatassa
+    tradition: ane-hittite
+    title: Ambazzi's ritual for Tarpatassa 'who stands in front', the second pure mouse (CTH 391.1 §29-43)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 391.1 §29:122-§43:193"]
+    tags:
+      - {motif: analogic-quenching-of-evil, refs: ["CTH 391.1 §31:128-132", "CTH 391.1 §32:133-134"], note: "idālu=ya=šan [ina]n … kištaru 'may the evil illness be quenched'"}
+      - {motif: evil-drawn-out-with-wool-into-basket, refs: ["CTH 391.1 §33:135-138", "CTH 391.1 §34:139-144", "CTH 391.1 §35:145"]}
+      - {motif: evil-sent-to-enemies-life-to-patient, refs: ["CTH 391.1 §35:146", "CTH 391.1 §36:147-149"]}
+      - {motif: laundered-cloth-analogy-purification, refs: ["CTH 391.1 §37:150-155"]}
+      - {motif: demon-told-to-fight-bolt-not-people, refs: ["CTH 391.1 §38:156-159"], note: "dTarpattaššan kuiš peran weḫanda 'Tarpatassa who stands in front'"}
+      - {motif: evil-transferred-to-mouse-sent-away, refs: ["CTH 391.1 §39:160-168"]}
+      - {motif: deity-given-animal-in-exchange, refs: ["CTH 391.1 §40:169-172", "CTH 391.1 §42:178-189"], note: "damain PÉŠ.TUR parkuin 'another, pure mouse' is offered: zik azzikki 'you, eat!'; its blood on the breads, shoulder roasted; kuptar arḫa šuḫḫai 'the refuse she throws away'"}
+      - {motif: choice-portions-roasted-for-god-rest-eaten, refs: ["CTH 391.1 §41:173-177"]}
+      - {motif: metals-and-stones-strewn-for-deity, refs: ["CTH 391.1 §43:190-193"], note: "it laḫḫiya ḪUR.SAG.ḪI.A GIŠlaḫḫurnuzzi 'go, roam the mountains and the greenery'; IŠTU MAḪAR EN.MEŠ-TIM awan arḫa namma tiya 'step away from the presence of the lords'"}
+      - {motif: scapegoat-bears-sins-into-wilderness, refs: ["CTH 391.1 §39:167-168"], note: "mouse as carrier"}
+  - id: ane-cth-391-1-44-ambazzi-gate-enemy-land
+    tradition: ane-hittite
+    title: The eya-tree at the gate, the goat's blood in pots, the evil driven into the enemy land (CTH 391.1 §44-54)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 391.1 §44:194-§56:260"]
+    tags:
+      - {motif: tree-planted-at-gate-for-protection, refs: ["CTH 391.1 §44:194-198", "CTH 391.1 §49:225"], note: "GIŠeyan … šēra=at warḫui katta=at alpu 'leafy above, pointed below'; ḫantezziyaš KÁ-aš ZAG-az GUL-aḫzi 'drives into the right of the main gate'; DUGÚTUL beneath; Tarpatassa, set the eya for me"}
+      - {motif: analogic-quenching-of-evil, refs: ["CTH 391.1 §46:207-210"]}
+      - {motif: evil-drawn-out-with-wool-into-basket, refs: ["CTH 391.1 §46:200-206", "CTH 391.1 §47:211-212"], note: "kuptar araḫza pēdai 'carries the refuse outside'"}
+      - {motif: silence-on-return-from-rite, refs: ["CTH 391.1 §48:216-220"], note: "on coming back: [he shall not turn round], UL memai 'does not speak', ḫuwarti UL 'does not curse' (§48:218 empty in the data, restored in the translation)"}
+      - {motif: wife-children-grandchildren-kept-alive-prayer, refs: ["CTH 391.1 §49:226-231"], note: "arauwaḫ 'free me'; idālu inan anda lē tarnatti 'do not let the evil illness in'; [DA]M-IA DUMU.MEŠ-IA DUMU.DUMU.MEŠ-IA TI-an ḫark 'keep my wife, children, grandchildren alive'"}
+      - {motif: blood-on-doorposts-and-lintel, refs: ["CTH 391.1 §50:232-235"], note: "MÁŠ.ŠIR 'a he-goat' slaughtered before the god, ešḫar … GAL.ZABAR 'the blood into a bronze bowl', poured into pots on this side and that of the gate (restored šuḫḫāi); not daubed on the posts"}
+      - {motif: choice-portions-roasted-for-god-rest-eaten, refs: ["CTH 391.1 §51:236-242", "CTH 391.1 §52:243-247"]}
+      - {motif: evil-driven-into-enemy-land-hole, refs: ["CTH 391.1 §53:248-251"], note: "7 GIŠGAG.URUDU 'seven copper pegs' on this side and that; I-NA KUR LÚ.K[ÚR] … gulliya nanni 'drive (it) into the enemy land … into a hole'"}
+      - {motif: metals-and-stones-strewn-for-deity, refs: ["CTH 391.1 §54:252-253", "CTH 391.1 §55:254-257"], note: "Tarpatassa is to speak good before all the gods and give him life and vigour; 'stand by my house'"}
+      - {motif: scribal-colophon, refs: ["CTH 391.1 §56:259-260"], note: "the offerings are eaten up (arḫa adanzi); QATI 'finished', the edition's notes run into the line"}
+    hints:
+      - "Compare Exod 12:7, 22-23 (blood at the door so the destroyer passes over) with the goat's blood in pots on either side of the gate."
+      - "Compare Q 38:41-44 (Job: 'Satan has touched me with hardship'; strike with your foot, here is cool water to wash and drink) with driving the illness away."
+  - id: ane-cth-391-2-ambazzi-second-version
+    tradition: ane-hittite
+    title: Second version of Ambazzi's ritual for the king, impurity drawn out, the bolt that opens the door (CTH 391.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Second version (CTH 391.2), for the king"
+    read: ["CTH 391.2"]
+    tags:
+      - {motif: impurity-taboo-and-sexual-abomination-drawn-out, refs: ["CTH 391.2 §1:1-5", "CTH 391.2 §3:11"], note: "papratar :mulātar SUD-ru 'impurity and mulātar be drawn out'; IGI.ḪI.A-wa=za, ŠU.MEŠ-za, 9-za UZUÚR-za 'from the eyes, hands, nine body parts'; AN-ZE-EL-LU ḫurkilaza paprannaza 'from taboo, from sexual abomination, from impurity'"}
+      - {motif: evil-sent-to-enemies-life-to-patient, refs: ["CTH 391.2 §1:5"]}
+      - {motif: laundered-cloth-analogy-purification, refs: ["CTH 391.2 §2:6-10", "CTH 391.2 §3:11"], note: "here LÚ.MEŠŠÀ.TAM 'chamberlains' clean the linen; NÍ.TE LUGAL QATAMMA parkuešdu 'so may the king's body be pure'"}
+      - {motif: demon-told-to-fight-bolt-not-people, refs: ["CTH 391.2 §4:12-14", "CTH 391.2 §5:15-17"], note: "the bolts in a basket waved over the king; as the crossbar turns back the bolt and opens the door (GIŠIG EGIR-pa ḫeškizzi), so let him keep taboo, abomination, impurity away; gods named Zarniza, Tarpatassa, Alauwaima, Mammaimi, DINGIR.MEŠ.LÚ.MEŠ"}
+      - {motif: evil-transferred-to-mouse-sent-away, refs: ["CTH 391.2 §6:18-22"], note: "[A-NA PÉŠ.TUR] restored; the rest is lost (§7:23 is a note)"}
+    hints:
+      - "Compare Lev 18:24-30 (the land defiled by sexual abominations) and Lev 16:16 (atonement for the uncleanness of Israel); Q 33:33 (God would remove impurity, rijs, from you and purify you)."
+  - id: ane-cth-393-1-anniwiyani-lulimi-innarawant
+    tradition: ane-hittite
+    title: Anniwiyani's ritual, the virgin at the door, the puppy cut in two at the hawthorn gate (CTH 393 §1-18)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 393 §1:1-§18:92"]
+    tags:
+      - {motif: coloured-wool-bound-on-patient-and-belongings, refs: ["CTH 393 §2:4-6", "CTH 393 §3:10-12", "CTH 393 §4:13", "CTH 393 §5:17-19"], note: "SÍG andaran 'blue wool', SÍG mitān 'red wool'; feet, hands, neck, the four bedposts (GIŠpatiyalleš), GIŠGIGIR 'chariot', GIŠPAN 'bow', quiver; at dawn arḫa tuḫšanzi 'they cut it off'"}
+      - {motif: clay-birds-under-bed, refs: ["CTH 393 §2:7-9", "CTH 393 §4:14-16"], note: "MUŠEN.ḪI.A ḫūmanduš ŠA IM 'all birds of clay', whatever bird the augurs observe, none left out; under the patient's bed"}
+      - {motif: virgin-girl-summons-deity-at-door, refs: ["CTH 393 §5:20-25"], note: "DUMU.MUNUS šuppeššaran 'a pure girl' set in the door with a dough bird: parā=wa=kan eḫu dLAMMA lulimiš, anda=wa=kan dLAMMA innarawanza uizzi 'come out, Lamma lulimi; the vigorous Lamma comes in'"}
+      - {motif: rite-at-untouched-place-no-plough, refs: ["CTH 393 §6:26-30"], note: "UR.TUR 'puppy' and [he-goat] run in front; ḪUR.SAG-i dammeli pedi 'to the mountains, an untouched place'; kuwapi GIŠAPIN-aš UL ārškizzi 'where the plough does not reach'"}
+      - {motif: puppy-halved-at-gate-pass-through, refs: ["CTH 393 §7:34-37", "CTH 393 §8:38-42", "CTH 393 §9:43-47", "CTH 393 §11:55-60"], note: "KÁ.GAL GIŠḫatalkešnaš 'a gate of hawthorn'; [UR.TUR] arḫa kuranzi 'they cut the puppy through', half on each side in front; breads and cups on both sides behind; all pass under the gate (kattan arḫa uizzi), the last breaks it (duwarnizzi), pushes it away, taškupaizzi 'shouts', and they run off"}
+      - {motif: covenant-between-the-pieces, refs: ["CTH 393 §7:35-37", "CTH 393 §11:55"], note: "not a covenant: the halves flank a gate the participants pass under"}
+      - {motif: place-of-rite-becomes-invisible, refs: ["CTH 393 §12:61-64"], note: "apāt=šmaš=kan pedan munnattari 'that place is hidden from them'; GIŠGAG.ḪI.A … KASKAL-an EGIR-an tarmānzi 'they peg the road behind'"}
+      - {motif: rite-at-untouched-place-no-plough, refs: ["CTH 393 §11:51-54"], note: "the clay birds put down into dug earth; the roasted grain scattered"}
+      - {motif: augurs-drink-the-god-standing, refs: ["CTH 393 §17:87-89", "CTH 393 §18:90-92"], note: "GUB-aš 3-ŠU akuwanzi 'they drink (the god) standing three times'; then the gods who are āššaweš 'kindly' to them"}
+      - {motif: choice-portions-roasted-for-god-rest-eaten, refs: ["CTH 393 §10:48-50", "CTH 393 §14:75-79", "CTH 393 §15:80-84", "CTH 393 §16:85-86"], note: "he-goat on the leaves of the apricot(?) tree in a garden or under a tree; right ear, liver, heart, right shoulder roasted for the god"}
+    hints:
+      - "Compare Gen 15:9-17 and Jer 34:18-19 (passing between the halves of the calf) with the puppy halved at the gate."
+      - "Compare Deut 21:3-4 (an untilled valley that is neither ploughed nor sown) and Num 19:2 with the untouched place 'where the plough does not reach'; and Q 2:71 (a cow 'not trained to plough the earth or water the tillage')."
+  - id: ane-cth-393-19-anniwiyani-kursa-lamma
+    tradition: ane-hittite
+    title: Calling the Lamma of the hunting bag, the lost chaff and the nine pebbles; the colophon (CTH 393 §19-31)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 393 §19:93-§31:152"]
+    tags:
+      - {motif: sheep-facing-sun-tuft-of-wool, refs: ["CTH 393 §20:100-102"], note: "kuiš UDUiyanza IGI.ḪI.A-wa dUTU-i neanza 'the sheep that has its eyes turned to the Sun'; SÍGḫuttulli 'a tuft'"}
+      - {motif: nine-dishes-for-the-god, refs: ["CTH 393 §21:103", "CTH 393 §26:126-129", "CTH 393 §27:132-133", "CTH 393 §28:134-135"], note: "9 edri 'nine dishes'; chaff (ḫašduer) from the harrow of a ploughed field and 9 pebbles (NA4paššilaš) of a ploughed field; kept before the god day after day (UD-at UD-at)"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 393 §23:108-110", "CTH 393 §24:118-120", "CTH 393 §25:121-125"], note: "karpin kartimmiyattan šāuwar arḫa tarna 'let go wrath, anger, sullenness'; as this chaff was lost (merta) to the ploughman, so let wrath be lost to you; pebbles quenched with beer: as these drank their fill (ninkir), so you drink your fill"}
+      - {motif: virgin-girl-summons-deity-at-door, refs: ["CTH 393 §23:111-114", "CTH 393 §24:115-117"], note: "the pure girl calls (wiyeškizzi): anda=kan eḫu dLAMMA KUŠkuršaš … miyēš … talliyēš 'come in, Lamma of the hunting bag, be mild, be favourable'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 393 §22:104-107", "CTH 393 §26:130-131", "CTH 393 §29:136-138"], note: "table in the inner room, the kureššar-cloth hung down, a hearth before it; 'I come out and draw the deity in' (anda ḫuittiyami); mukeššar 'the invocation materials' removed on the fourth day"}
+      - {motif: augurs-drink-the-god-standing, refs: ["CTH 393 §30:139-141", "CTH 393 §31:142-146"]}
+      - {motif: scribal-colophon, refs: ["CTH 393 §31:147-152"], note: "two rituals on one tablet; ŠU mḪanikkuili 'hand of Ḫanikkuili', son of NU.GIŠKIRI6, grandson of the chief of scribes (the edition's notes are run into §31:152)"}
+    hints:
+      - "Compare Q 3:134 (those who restrain anger) and Exod 32:12 ('turn from your fierce anger') with the god's wrath 'lost like chaff'; Ps 1:4 and Ps 35:5 (chaff driven by the wind)."
+  - id: ane-cth-394-1-ashella-rams-woman
+    tradition: ane-hittite
+    title: Ašḫella's plague ritual, the rams and the adorned woman sent to the enemy's border (CTH 394 §1-5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 394 §1:1-§5:41"]
+    tags:
+      - {motif: rams-tied-as-substitutes-for-plague-god, refs: ["CTH 394 §1:2", "CTH 394 §2:5-19"], note: "ŠÀ KARAŠ ÚŠ-kan kišari 'a plague arises in the camp'; each EN KARAŠ provides a UDU.ŠIR 'ram', light or dark does not matter; white, red and yellow-green wool, a ring of iron and lead bound on necks and horns; GE6-az PA-NI GIŠZA.LAM.GAR 'at night before the tents'; kuiš=wa DINGIR-LUM kī ÚŠ-kan iyat … katta waršiyaḫḫut 'whichever god caused this plague … be content'"}
+      - {motif: decorated-woman-sent-with-substitutes, refs: ["CTH 394 §3:22-23", "CTH 394 §4:32"], note: "MUNUS-[TU4] [unu]wandan ašaši 'he seats an adorned woman' before the king's tent with a ḫuppar of beer and three breads"}
+      - {motif: god-asked-to-loathe-human-flesh, refs: ["CTH 394 §4:26-30"], note: "IŠTU UZUNÍG.GIG UZUŠÀ Ù IŠTU UZUÚR mekki warkanteš 'very fat in liver, heart and member'; ŠA AMĒLŪTI UZU puktaru 'let the flesh of mankind be hateful (to the god)'"}
+      - {motif: officers-bow-behind-substitutes, refs: ["CTH 394 §4:24", "CTH 394 §4:31-32"], note: "A-NA UDU.ŠIR.ḪI.A … QATI-ŠUNU parā tiyanzi 'they stretch their hands toward the rams'; EGIR-an katta ḫinkanzi 'they bow behind'"}
+      - {motif: carriers-driven-to-enemy-frontier, refs: ["CTH 394 §3:20-21", "CTH 394 §5:33-41"], note: "LÍL-ri pennanzi 'drive into the open country'; A-NA ZAG LÚKÚR anda arḫa pittalanzi 'abandon them in the enemy's border'; kuedani pidi anzel UL aranzi 'where our people do not go'; the evil of the camp for men, cattle, sheep, horses, mules, donkeys; kuiš uemiyazzi … apāš KUR-eanza dāu 'whoever finds it, may that land take this evil plague'"}
+      - {motif: scapegoat-bears-sins-into-wilderness, refs: ["CTH 394 §5:33-39"], note: "rams and a woman, not a goat; the burden is plague (ÚŠ), not sins; driven to the enemy land, not the wilderness"}
+      - {motif: evil-transferred-to-outsider-woman, refs: ["CTH 394 §5:39"], note: "UDU.ŠIR.ḪI.A MUNUS-TUM=ya arḫa uter 'the rams and the woman have carried it out of the camp'"}
+    hints:
+      - "Compare Lev 16:20-22 (Aaron lays both hands on the goat and sends it to a solitary land), 1 Sam 6:2-12 (the Philistines send the plague-bringing ark back to Israel's border on a cart with golden tumours and mice, 'let it go its way') and Zech 5:5-11 (the woman in the ephah carried to Shinar)."
+      - "Compare Q 37:107 (ransomed with a great sacrifice) and Q 22:37 (neither their flesh nor their blood reaches God, but piety) with the plague god asked to take fat rams instead of human flesh; Q 2:67-73 (the cow demanded and slaughtered) for the animal set apart."
+  - id: ane-cth-394-6-ashella-days-two-to-four
+    tradition: ane-hittite
+    title: Ašḫella's ritual, days two to four, eat in a god's way; salt water and two fires; the colophon (CTH 394 §6-9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 394 §6:42-§9:107"]
+    tags:
+      - {motif: god-eats-in-gods-way-leaves-man-nothing, refs: ["CTH 394 §6:42-56"], note: "6 rams, 6 he-goats, 12 jugs, 12 cups, 12 breads, 3 small bronze daggers; taknan ḫattanzi 'slaughter them to the ground' in the open field, boiled pittalwanteš 'plain'; DINGIR-LIM-nili [ē]zza eku 'eat and drink in a god's way'; antuḫši=ma=wa=za kattan lē pešti 'leave nothing to man'"}
+      - {motif: vessels-of-rite-not-set-down, refs: ["CTH 394 §6:59-62"], note: "Ú-NU-TUM tagān katta UL kuiški dāi … [U]L āra 'no one puts the gear on the ground … it is not right'"}
+      - {motif: purified-by-salt-water-and-two-fires, refs: ["CTH 394 §7:63-67"], note: "witeni anda MUN išḫuwanzi 'they strew salt in water' and wash hands; I[ZI] … warnuanzi 'kindle (two) fires'; ištarna arḫa uwanzi 'go through the middle'"}
+      - {motif: handler-of-scapegoat-washes, refs: ["CTH 394 §7:63-67"], note: "after returning from the place of the rite"}
+      - {motif: purification-by-fire-and-water, refs: ["CTH 394 §7:64-67"], note: "people, not spoils, pass between fires and wash in salt water"}
+      - {motif: augurs-drink-the-god-standing, refs: ["CTH 394 §7:68-73", "CTH 394 §9:96"], note: "two he-goats for the LAMMA of the ritual equipment (dLAMMA aniyattaš); he drinks him three times; the Sun of heaven, the Storm god and all gods drunk three times on day four"}
+      - {motif: plague-god-asked-to-be-at-peace-with-land, refs: ["CTH 394 §8:74-86"], note: "1 MÁŠ.GAL 1 UDU.NÍTA 1 ŠAḪ 'a he-goat, a ram, a pig' for the god who made the plague; A-NA KUR URU ḫatti Ù A-NA KARAŠ … taksulanza [ēšdu] 'let it be at peace'; anda aššuli neyaru 'turn to them in kindness'"}
+      - {motif: unmated-ewe-offered, refs: ["CTH 394 §9:87-93"], note: "GU4.MAḪ to the Storm god; UDU.SÍG+MUNUS … kuedani UDU.ŠIR-aš nāwi pānza 'a ewe to which a ram has not yet gone' to the Sun god; three sheep for all the gods"}
+      - {motif: scribal-colophon, refs: ["CTH 394 §9:99-107"], note: "three rituals on one tablet: Zarpiya's 'if a year is bad' (the kelu ritual), Uḫḫamuwa's 'if in the land or city there is constant dying', Ašḫella's 'if a plague arises in the land or the camp'"}
+    hints:
+      - "Compare Num 19:2 (a red cow on which no yoke has come), Deut 21:3 (a heifer that has not drawn the yoke) and Q 2:71 ('a cow not trained to plough') with the ewe 'to which no ram has gone'."
+      - "Compare Num 31:19-24 (purify yourselves outside the camp; what can stand fire through fire, the rest through water) and Lev 16:26 (he who sent the goat washes before entering the camp)."
+      - "Compare Q 5:27 (from one it was accepted, from the other not) and Q 22:37 with 'eat in a god's way and leave nothing to man'; contrast Q 22:28, 36 ('eat of them and feed the needy')."
+  - id: ane-cth-395-1-1-hantitassu-years-disturbed
+    tradition: ane-hittite
+    title: Ḫantitaššu's ritual for disturbed years, the table on the roof, 'take the gold, give me back the man' (CTH 395.1 §1-12)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 395.1 §1:1-§12:88"]
+    tags:
+      - {motif: years-of-person-disturbed-ritual, refs: ["CTH 395.1 §1:1-6", "CTH 395.1 §2:7-11", "CTH 395.1 §3:12-15", "CTH 395.1 §4:16-22"], note: "MU.KAM.ḪI.A-ŠU [ninink]anteš 'his years are disturbed' (restored); [šuḫḫi] dUTU-i IGI-anda GIŠBANŠUR 'on the roof, facing the Sun, a table'; ZÍZ-tar šeppit parḫuena ewan karaš ḫattar zinail kūtiyan 'emmer, šeppit …'; gold, silver, lapis, carnelian, 'stone of life'; a shaving of horn from a living plough-ox; bread for dGulšaš 'the fate goddess'; cedar, ghee, honey burnt in embers"}
+      - {motif: sun-to-lick-incantations-like-salt, refs: ["CTH 395.1 §5:23-27"], note: "MUN GIM-an UDU.ḪI.A lilipanti … dUTU-uš QATAMMA lilipaiškiddu 'as sheep lick salt, so may the Sun lick (these incantations)'"}
+      - {motif: sun-god-feast-patient-missing, refs: ["CTH 395.1 §6:28-30"], note: "dUTU-uš=za EZEN4-an DÙ-at … dapiuš DINGIR.MEŠ-uš ḫalzaiš … ḫūmandan DUMU.LÚ.U19.LU-an ḫalzaiš 'the Sun made a festival, called all the gods, called all mankind'; the patron's vanishing is preserved in CTH 395.2.2 §2:13"}
+      - {motif: give-me-back-my-calf-my-son, refs: ["CTH 395.1 §8:33-37"], note: "fMaddu[ta] … dUTU-i ginuwaššaš 'on her knees before the Sun'; AMAR-un=man DUMU-la=man pāi 'give my calf, my son'"}
+      - {motif: take-the-gold-give-back-the-man, refs: ["CTH 395.1 §9:38-50", "CTH 395.1 §10:51-56"], note: "dUTU-uš ḫarkiš GEŠTU-KA lakkiški 'bright Sun, incline your ear'; ḫūman NUMUN dā … GUŠKIN dā … NA4ZA.GÌN dā … EN SISKUR=ma=mu EGIR-pa pāi 'take all the seed … the gold … the lapis … but give me back the ritual patron'"}
+      - {motif: tired-horse-unhitched-fresh-hitched, refs: ["CTH 395.1 §10:57-63"], note: "lā dariyantan, turiya=ma waršiyanta 'unhitch the tired, hitch the fresh'; 3-ŠÚ teši 'say it three times'"}
+      - {motif: escape-from-mouth-of-agni, refs: ["CTH 395.1 §11:64-67"], note: "NA4ARA5-za=kan GIM-an kappiš išpartiyezzi … EN SISKUR=kan dAgni KAxU-za QATAMMA išpartiddu 'as kappi escapes the millstone, so may the patron escape the mouth of Agni'; IGI-zian GIM-an GIŠḫurkin EGIR-ziš anda UL wemiyazi … idāluš UD.KAM-az … lē KAR-zi 'the evil day shall not catch him'"}
+      - {motif: incantation-words-are-gods-not-mine, refs: ["CTH 395.1 §11:68-69"], note: "natta ammel [uddār], dUTU-aš dKamrušipašša uddār 'not my words: the words of the Sun and of Kamrušepa'"}
+      - {motif: deity-told-eat-drink-and-remove-illness, refs: ["CTH 395.1 §12:70-80"], note: "said 7 times; 7 thick breads broken, once round (irḫai-); dUTU-i zikka azzikki … na-at=mu dUTU-uš EGIR-an tarna 'Sun, eat … and let what I say come back to me'"}
+      - {motif: prayer-for-long-years-months-days, refs: ["CTH 395.1 §1:2"], note: "the ritual's concern: the patient's years"}
+    hints:
+      - "Compare Q 3:91 and Q 5:36 (an earthful of gold offered as ransom is not accepted) and Q 37:107 (the great sacrifice as ransom) with 'take the gold, give back the man'; Ps 49:8-9 (the ransom of a life is too costly)."
+      - "Compare Q 6:76-78 (Abraham and the sun: 'this is my lord … it set') and Q 41:37 with the Sun asked to lick the incantations like salt."
+      - "Agni (dAgni), the Vedic fire god, appears in a Hittite-Luwian spell."
+  - id: ane-cth-395-1-13-hantitassu-pit-old-gods
+    tradition: ane-hittite
+    title: Ḫantitaššu's ritual, the piglet in the pit for the old gods, the bolt that opens the dark earth, the sealed bundle (CTH 395.1 §13-25)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 395.1 §13:89-§25:165"]
+    tags:
+      - {motif: piglet-blood-poured-into-pit-for-old-gods, refs: ["CTH 395.1 §14:97-101", "CTH 395.1 §15:102-112"], note: "GE6-anza kišari 'when it grows dark' tekan paddai 'digs the earth'; 1 ŠAḪ.TUR … ḫatteššna GAM-anta ḫattari 'slaughtered down in the pit'; ešḫaršet kattanta tarnai 'lets its blood down'; karuiliuš DINGIR.MEŠ azzi[kkand]u 'let the old gods eat'; išpiyatten 'be sated'; wine 3 times into the pit"}
+      - {motif: bolt-asked-to-open-dark-earth, refs: ["CTH 395.1 §16:114-123", "CTH 395.1 §17:124-129"], note: "GIŠḫattalwaš GIŠ-rui IŠTU Ì iškizzi 'anoints the bolt-wood with fat'; EGIR-pa ḫaškiši 'you open again'; danku- 'dark' (earth); it zik EGIR-pa ḫāš 'go, open'; taknaš dUTU-un mukiškandu 'let them invoke the Sun goddess of the Earth'"}
+      - {motif: conjured-object-worn-seven-days-then-sealed, refs: ["CTH 395.1 §19:137-140", "CTH 395.1 §20:141-146", "CTH 395.1 §22:152-158", "CTH 395.1 §23:162-163"], note: "ḫūganta … nāitta 'you had wrapped the conjured things round you'; all gods call 'nū' to you; INA UD.7.KAM; ŠÀ GIŠPISAN.TÚG.ḪI.A 'in the clothes chest' kuin UL ginuškanzi 'which one does not open'; INA É NA4KIŠIB 'in the seal-house'; namma UL kuiški niniqzi 'no one will stir it again'; on day 9 he washes"}
+      - {motif: rite-not-performed-in-palace, refs: ["CTH 395.1 §23:159-161"], note: "tametaš parnaš anda 'in another house'; UL=an INA É.GAL-LIM ēššai 'he does not do it in the palace'; the king does not step in"}
+      - {motif: choice-portions-roasted-for-god-rest-eaten, refs: ["CTH 395.1 §18:130-136", "CTH 395.1 §21:147-151"], note: "the suckling piglet's flesh cut off and laid down; wine offered once; the bull's intestines taken; soldier bread and covering bread eaten"}
+      - {motif: scribal-colophon, refs: ["CTH 395.1 §24:164", "CTH 395.1 §25:165"], note: "INIM fḪantitaššu LÚ URU Ḫurma QATI; the edition's long apparatus is run into the lines"}
+    hints:
+      - "Compare 1 Sam 28:7-14 (the woman of Endor brings up a god from the earth; Hebrew ʾôb, cf. Hittite āpi 'pit') and Isa 29:4; Q 2:102 (what was sent down in Babylon) for traffic with the powers below."
+      - "Compare Q 34:14 (Solomon's death unknown to the jinn) and Q 72:6 for seeking refuge with powers below; the 'old gods' of the dark earth diverge from Q 6:100."
+  - id: ane-cth-395-2-1-hantitassu-version
+    tradition: ane-hittite
+    title: Second manuscript of Ḫantitaššu's ritual, 'who of the gods made me a servant again' (CTH 395.2.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript CTH 395.2.1"
+    read: ["CTH 395.2.1"]
+    tags:
+      - {motif: sun-god-feast-patient-missing, refs: ["CTH 395.2.1 §2:7-14"], note: "almost all restored: [DINGIR.MEŠ-uš ḫalzaiš], EN SISKUR … ēte[r] 'they ate'; [mertat] 'vanished' restored"}
+      - {motif: deity-told-eat-drink-and-remove-illness, refs: ["CTH 395.2.1 §3:26-35", "CTH 395.2.1 §6:64-79"], note: "3 times; table before the Sun with bread and porridge; on day 9 at dawn they wash; the patron stands before the window (GIŠAB), bows (UŠKEN) to the Sun, an ox and a sheep; dUTU-uš ezzadu ekuddu 'let the Sun eat and drink'"}
+      - {motif: god-restores-status-servant-to-master, refs: ["CTH 395.2.1 §6:81-82"], note: "kuiš=mu DINGIR.MEŠ-aš EGIR-pa ARAD-in iyat … EGIR-pa EN-an iyat 'which of the gods made me a servant again … made me a master again'"}
+      - {motif: prayer-for-long-years-months-days, refs: ["CTH 395.2.1 §7:83-89"], note: "MU.KAM.ḪI.A ITU.KAM.ḪI.A UD.KAM.ḪI.A taluqaeš ašandu 'may your years, months and days be long'; all the gods call it out"}
+      - {motif: conjured-object-worn-seven-days-then-sealed, refs: ["CTH 395.2.1 §8:90-97"]}
+      - {motif: rite-not-performed-in-palace, refs: ["CTH 395.2.1 §9:98-100"], note: "tamedani parni 'in another house'; UL āra 'it is not right'"}
+      - {motif: years-of-person-disturbed-ritual, refs: ["CTH 395.2.1 §5:50-63"], note: "silver, gold, lapis, carnelian, stone of life, quartz, horn-shaving, kappi; the bull's sinew on red and white hides; the 8th day completed"}
+    hints:
+      - "Compare Q 3:26 ('You exalt whom You will and abase whom You will') and 1 Sam 2:7-8 with 'who of the gods made me a servant again, a master again'."
+  - id: ane-cth-395-2-2-hantitassu-sun-feast
+    tradition: ane-hittite
+    title: Ḫantitaššu's ritual, the Sun's feast and the vanished patron (CTH 395.2.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript CTH 395.2.2"
+    read: ["CTH 395.2.2"]
+    tags:
+      - {motif: sun-god-feast-patient-missing, refs: ["CTH 395.2.2 §2:3-18"], note: "dapianduš DINGIR.MEŠ ḫalzāiš … DUMU.MEŠ.LÚ.U19.LU ḫalzāiš; ēter ekuer DINGIR.MEŠ 'the gods ate and drank'; UM-MA dUTU … [EN.SISKUR=ma] mertat 'but the patron has vanished'; 'we will call him'"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 395.2.2 §2:7"], note: "loose fit: the Sun's feast for all gods; here they eat and drink, but one guest is missing"}
+      - {motif: deity-told-eat-drink-and-remove-illness, refs: ["CTH 395.2.2 §2:21-31", "CTH 395.2.2 §3:32-40"], note: "UM-MA DINGIR.MEŠ SAG.DU=wa … ezzāu 'the gods: the head … let him eat'; nu=wa uiddu 'let him come'; UZUNÍG.GIG=wa=kan āššan 'the liver is left over'"}
+      - {motif: rite-not-performed-in-palace, refs: ["CTH 395.2.2 §4:41-43"], note: "INA É EN.SISKUR … UL iyazi 'not in the patron's house'; UL āra"}
+      - {motif: scribal-colophon, refs: ["CTH 395.2.2 §5:44"]}
+    hints:
+      - "Compare Q 27:20 (Solomon: 'why do I not see the hoopoe, or is he among the absent?') with the Sun noticing a missing guest at his feast."
+  - id: ane-cth-395-3-1-hantitassu-atta
+    tradition: ane-hittite
+    title: Fragment of Ḫantitaššu's ritual for Attā (CTH 395.3.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript CTH 395.3.1, with the patient named Attā"
+    read: ["CTH 395.3.1"]
+    tags:
+      - {motif: give-me-back-my-calf-my-son, refs: ["CTH 395.3.1 §1:1-4"], note: "fManduta; [AMAR-un=man DUMU-]la=man pāi, the calf restored"}
+      - {motif: take-the-gold-give-back-the-man, refs: ["CTH 395.3.1 §2:6-15"], note: "GUŠKIN dā, KÙ.BABBAR dā … mAttā[n=ma EGIR-pa pāi] 'give back Attā' (name partly preserved in §2:11)"}
+      - {motif: tired-horse-unhitched-fresh-hitched, refs: ["CTH 395.3.1 §3:18-24"]}
+      - {motif: escape-from-mouth-of-agni, refs: ["CTH 395.3.1 §4:26-29"], note: "the name of Agni is restored here; the wheels and the evil day preserved"}
+      - {motif: incantation-words-are-gods-not-mine, refs: ["CTH 395.3.1 §4:30-31"]}
+      - {motif: deity-told-eat-drink-and-remove-illness, refs: ["CTH 395.3.1 §5:33-44", "CTH 395.3.1 §7:53-55"]}
+  - id: ane-cth-395-3-2-hantitassu-fragment
+    tradition: ane-hittite
+    title: Fragment of Ḫantitaššu's ritual, the mouth of Agni (CTH 395.3.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript CTH 395.3.2"
+    read: ["CTH 395.3.2"]
+    tags:
+      - {motif: take-the-gold-give-back-the-man, refs: ["CTH 395.3.2 §1:1-3"]}
+      - {motif: tired-horse-unhitched-fresh-hitched, refs: ["CTH 395.3.2 §2:5-7"]}
+      - {motif: escape-from-mouth-of-agni, refs: ["CTH 395.3.2 §2:9-13"], note: "dAgni preserved: EN SISKUR=ya=kan dAgni[ KAxU-za …]"}
+      - {motif: incantation-words-are-gods-not-mine, refs: ["CTH 395.3.2 §2:14-15"], note: "[A-MI-]LU-UT-TI=ma=at ḫukmauš a[šandu] 'let them be the incantations of mankind'"}
+      - {motif: years-of-person-disturbed-ritual, refs: ["CTH 395.3.2 §4:23-41"], note: "bull's sinew, red and white hides, precious stones, horn; the 8th day"}
+  - id: ane-cth-395-4-hantitassu-fragment
+    tradition: ane-hittite
+    title: Fragment of Ḫantitaššu's ritual, 'I invited mankind' (CTH 395.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript CTH 395.4"
+    read: ["CTH 395.4"]
+    tags:
+      - {motif: sun-god-feast-patient-missing, refs: ["CTH 395.4 §1:2-7"], note: "[DUMU.MEŠ.LÚ.U19.L]U ḫalziḫ[ḫun] 'I invited mankind'; UL ḫalziḫ[ḫun] 'I did not invite'; UM-MA DINGIR[.MEŠ]"}
+  - id: ane-cth-396-1-1-hatiya-wisuriyant
+    tradition: ane-hittite
+    title: Ḫatiya's ritual for the demoness Wišuriyant at the river (CTH 396.1.1 §1-6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 396.1.1 §1:1-§6:51"]
+    tags:
+      - {motif: demoness-washed-at-river, refs: ["CTH 396.1.1 §1:1-5", "CTH 396.1.1 §2:6-12"], note: "dWišuriyandan katta [ÍD-i] 'down to the river' (restored); GIŠZA.LAM.GAR 'a tent'; wappuwaš [IM-it] … warapmi 'I wash with [clay] of the bank'; kāša=wa=tta parkununun … šappišaraḫḫun 'see, I have purified you, washed you off'"}
+      - {motif: deity-asked-for-life-health-vigour-sight, refs: ["CTH 396.1.1 §2:13"], note: "TI-tar ḫaddulatar innarawatar MU.ḪI.A GÍD.DA IGI.ḪI.A-aš uškiyauwar … 'life, health, vigour, long years, sight of the eyes, uprightness'"}
+      - {motif: fish-sent-as-messenger-to-deity, refs: ["CTH 396.1.1 §3:21-26"], note: "KU6 dāḫḫi … KAxU-i anda NINDA.Ì.E.DÉ.A teḫḫi 'a fish, a cake in its mouth'; [ÍD-i EGIR]-an tarnaḫḫi 'release into the river'; ḪUR.SAG Šuppinna, ÍD Zippira; A-NA dWišuriyanti pēda 'bring (it) to Wišuriyant'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 396.1.1 §3:14-20"], note: "nakkiš DINGIR-LUM zik azzikki 'honoured deity, eat'; rivers to be bridged (armizziyandaru), valleys … mountains"}
+      - {motif: pits-on-riverbank-for-fate-goddesses, refs: ["CTH 396.1.1 §4:27-31"], note: "3 AŠRA paddaḫḫi 'I dig in three places'; dGulšaš dMAḪ 'the fate goddesses and mother goddess'; TI-tar … INA EGIR [UD-MI] 'for the future'"}
+      - {motif: offering-burned-without-smoke, refs: ["CTH 396.1.1 §5:33-42"], note: "1 GUNNI 'a hearth' before the river; the fish with a cake in its mouth thrown on the hearth and burned; tuḫ[ḫuwaiš=ma] UL kuiški 'there is no smoke' (smoke restored); the place marked (gulašmi) with wine"}
+      - {motif: sun-god-as-witness-to-rite, refs: ["CTH 396.1.1 §6:43-49"], note: "dWišuriyanti ḫuwappi MUNUS-ni 'Wišuriyant, the evil woman'; zik dUTU-uš kutruwaš ēš 'Sun god, be witness'; šannai kuwatqa … zik nepišaš dUTU-uš šāk 'if she hides anything, you, Sun of heaven, know it'"}
+      - {motif: hand-raised-to-sun-god-in-oath, refs: ["CTH 396.1.1 §6:46"], note: "the Sun as witness (kutruwaš), without the raised hand"}
+    hints:
+      - "Compare Q 2:102 and Q 113:4 (sorcery and the blowers on knots) and Q 114 (refuge from the whisperer) with appeasing a female demon; Isa 34:14 (Lilith)."
+      - "Compare Q 4:166 and Q 3:98 ('God is witness of what you do') and Gen 31:50 ('God is witness between me and you') with the Sun called as witness."
+      - "Compare Q 18:61-63 (the fish slips into the sea and makes its way) with the fish released into the river as messenger."
+  - id: ane-cth-396-1-7-hatiya-meal-return
+    tradition: ane-hittite
+    title: Ḫatiya's ritual, the sheep for the Sun, the bones burned, the goddess returned to her temple (CTH 396.1.1 §7-12)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 396.1.1 §7:52-§12:97"]
+    tags:
+      - {motif: choice-portions-roasted-for-god-rest-eaten, refs: ["CTH 396.1.1 §7:52-62", "CTH 396.1.1 §8:63-66"], note: "the palace attendant (DUMU.É.GAL) offers a sheep to the Sun of heaven; liver and heart roasted on 3 breads; 3 breads each for the Storm god, [ … ], the fate goddesses and mother goddess; beer 3 times"}
+      - {motif: augurs-drink-the-god-standing, refs: ["CTH 396.1.1 §9:67-75"], note: "the chief of the palace attendants drinks the Sun of heaven, then the Storm god, then [ … ]; akkuškiuwani=ma TUŠ-aš 'but we drink sitting'"}
+      - {motif: bones-gathered-and-burned-in-hearth, refs: ["CTH 396.1.1 §10:76-81"], note: "ḫaštāe … liššanzi 'they gather the bones', in the hearth warnuwanzi 'burn'; marked round with beer"}
+      - {motif: god-returns-house-restored, refs: ["CTH 396.1.1 §10:84-91"], note: "DINGIR-LUM Ékarimmi [EGIR-pa paizzi] 'the deity goes back to the temple'; the patron bows at the gate and libates; set on three breads 'in her place' (kuit=ši AŠRU)"}
+      - {motif: ritualist-keeps-utensils-patron-takes-nothing, refs: ["CTH 396.1.1 §11:92-94"], note: "Ú-NU-UT GIR4 Ú-NU-UT AD.KID … ammuk dāḫḫi; EN SÍSKUR=za EGIR-pa UL kuitki dāi"}
+      - {motif: scribal-colophon, refs: ["CTH 396.1.1 §12:95-97"], note: "DUB.1.KAM QATI; A-WA-AT fḪatiya MUNUS URU Kanzapida"}
+    hints:
+      - "Compare Exod 12:10, 46 (no bone broken; what is left burned) and Lev 7:17 with the bones gathered and burned; and 1 Sam 2:13-16 (the priest's portion) with the ritualist who keeps the utensils."
