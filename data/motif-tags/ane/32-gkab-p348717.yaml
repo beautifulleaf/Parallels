@@ -40,6 +40,36 @@ new_motifs:
   holy-water-vessel-with-plants-stones-metals: {label: "A holy-water vessel (agubbû) is filled with temple-well water and a catalogue of plants, metals and precious stones for the house's protective spirit", cluster: cult}
   honey-milk-wine-oil-poured-into-pit: {label: "A pit is opened at the gate and honey, milk, wine and oil are offered into it", cluster: cult}
   palm-thorns-buried-at-gate: {label: "Date-palm thorns are buried at the right and left of the gate like a whip against demons", cluster: magic}
+  incantation-whispered-into-bulls-ear: {label: "Before the sacrifice an incantation is whispered through a reed into the bull's right ear and another into its left ear", cluster: cult}
+  bull-is-offspring-of-anzu: {label: "The sacrificial bull is addressed: 'Bull, you are the offspring of Anzû'", cluster: cult}
+  kettledrum-covered-with-hide-of-sacrificed-bull: {label: "The temple kettledrum (lilissu) is re-covered with the hide of a specially chosen, sacrificed black bull", cluster: cult}
+  sacrificed-bull-buried-in-cloth-facing-sunset: {label: "The body of the sacrificed bull is wrapped in a red cloth, anointed and buried facing the setting sun", cluster: cult}
+  twelve-gods-seated-on-bricks: {label: "Twelve bricks are laid and the twelve gods are seated on them for a rite", cluster: cult}
+  auspicious-month-and-day-for-rite: {label: "A rite is to be performed in a favourable month on a propitious day", cluster: cult}
+  gods-as-creators-of-all-living: {label: "The great gods are hailed as creators of all that has the breath of life", cluster: creation}
+  bull-born-in-moon-gods-fold: {label: "The sacrificial bull was born in the moon god's pure sheepfold and suckled true milk, fit for divinity", cluster: cult}
+  kettledrum-deified-as-god: {label: "The consecrated kettledrum is called 'this god', to renew its brilliance like the moon and dwell in an eternal seat", cluster: cult}
+  pure-offering-and-incense-before-gods: {label: "The priest declares he has set out pure offerings, poured pure libations and burned pure incense before the gods", cluster: cult}
+  lament-sung-when-temple-is-renovated: {label: "When a temple is to be renovated, the lamentation priest sings eršemma laments at dawn on its roof to calm the gods", cluster: cult}
+  brushwood-pile-kindled-for-gods: {label: "A pile of brushwood is set alight for Ea and Asalluḫi in the course of a ritual", cluster: cult}
+  three-altars-for-ea-shamash-asalluhi: {label: "Three portable altars are set up for Ea, Šamaš and Asalluḫi with linen, cakes, honey, ghee, dates and libations", cluster: cult}
+  purification-of-site-with-holy-water: {label: "The ground of a ritual is swept and sprinkled with pure water", cluster: cult}
+  goddess-ashratu-in-cult-list: {label: "A list of goddesses honoured in a festival includes Ašratu (Asherah) beside the Queen of Heaven", cluster: cult}
+  sceptre-of-kingship-set-up: {label: "The sceptre of kingship is set up in a ritual", cluster: kingship}
+  eclipse-ritual-lament-until-moon-clears: {label: "During a lunar eclipse a brazier is lit at the temple gates and the lamentation priest performs laments until the moon becomes bright again", cluster: cult}
+  lamenting-god-without-food-or-water: {label: "In a lament the god (or his mourner) says: I am the one who roams and does not sleep, who ate no food and drank no water in his weariness", cluster: lament}
+  sunken-ship-of-dilmun-lament: {label: "Lament: I am the Dilmunite whose ship sank in the reed thicket", cluster: lament}
+  storm-is-word-of-anu-and-enlil: {label: "The destroying storm is the word of Anu, the word of Enlil, the rage of Anu's heart", cluster: lament}
+  evil-portent-kept-from-city: {label: "Prayer refrain: may confinement, murder, rebellion and (the evil of) the eclipse not come near the city and its temples", cluster: omen}
+  mourners-smeared-with-river-mud: {label: "Mourners smear their faces, hands and feet with river mud and hang a dagger at the collarbone", cluster: lament}
+  ritual-remains-thrown-into-river: {label: "After the rite the remains (brazier and ashes, magic circle, twine, purification materials) are thrown into the river", cluster: cult}
+  exorcists-at-right-and-left-of-house: {label: "One exorcist stands at the right of the house and another at its left, reciting incantations together", cluster: magic}
+  drums-beaten-during-eclipse: {label: "Bronze drums (ḫalḫallatu, manzû, lilissu) are brought out and set by the dais when an eclipse begins", cluster: cult}
+  lament-chosen-by-phase-of-eclipse: {label: "A different lament is sung according to how much of the moon the eclipse covers", cluster: cult}
+  seven-pure-garments-for-priest: {label: "Incantation of the seven pure garments: the priest is clothed in pure garments so that he is clean and the evil tongue stands aside", cluster: cult}
+  goddess-uttu-weaver-of-garment: {label: "The weaving goddess Uttu, daughter of Enlil and beloved of Ea, takes white wool of good sheep and makes the sacred garment", cluster: cult}
+  garment-entrusted-to-fuller-washed-pure: {label: "The sacred garment is entrusted to the fuller of the land and washed in pure water", cluster: cult}
+  magician-receives-spell-from-asalluhi: {label: "The exorcist's spell is given him by Asalluḫi (Marduk)", cluster: magic}
 units:
   - id: ane-gkab-p348717-r-ii-enkidu-warns
     tradition: ane-akkadian
@@ -321,3 +351,172 @@ units:
       - {motif: river-hubur-crossing-underworld, refs: ["GKAB P348838 o:3'", "GKAB P348838 o:6'-7'"], note: "nēberu ḫubur; ina nēberi; ana nēberi"}
     hints:
       - "The dead crossing to Sheol: Job 33:18 (passing over by the šelaḥ, 'the channel'); Ps 18:5-6."
+
+  - id: ane-gkab-p363269-kettledrum-bull
+    tradition: ane-akkadian
+    title: "Covering the kettledrum: the unblemished black bull, the spell whispered in its ears, its hide on the drum (BagM Beih. 2, 5)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363269"]
+    tags:
+      - {motif: unblemished-sacrificial-animal, refs: ["GKAB P363269 o:2-6"], note: "alpu šuklulu ṣalmu ša ṣuprū u qarnāšu šalmū; ištu qaqqadīšu adi appi zibbatīšu ummiānu mūdû ittanaplasū-ma ... šumma 7 šārtu peṣûtu kīma kakkabi takip, ina ḫaṭṭi maḫiṣ, ina qinnāzi lapit: ana parṣi u kidudê ul ilaqqe"}
+      - {motif: red-heifer, refs: ["GKAB P363269 o:2-4", "GKAB P363269 r:11-16"], note: "loose: a wholly black, perfect bull, inspected hair by hair, never struck by stick or whip, is slaughtered; part of it burned and its body buried outside; compare the red cow never yoked (Num 19:2)"}
+      - {motif: incantation-whispered-into-bulls-ear, refs: ["GKAB P363269 r:2-4"], note: "ina takkussi qanê ṭābi ana uzni imittīšu tulaḫḫaš 'gud gal gud maḫ ...'; ana uzni šumēlīšu: 'alpu ilitti anzî attā-ma'"}
+      - {motif: bull-is-offspring-of-anzu, refs: ["GKAB P363269 r:4"], note: "alpu ilitti anzî attā-ma: 'Bull, you are the offspring of Anzû'"}
+      - {motif: kettledrum-covered-with-hide-of-sacrificed-bull, refs: ["GKAB P363269 r:5-13"], note: "lilissu siparri dām erēni tasallaḫšu ... tapallaq-ma libbašu ina pān lilissi ... ; the hide treated with flour, beer, wine, ghee of a pure cow, alum of Ḫatti and madder, stretched on the bronze drum with the left sinew, pegs of oak"}
+      - {motif: sacrificed-bull-buried-in-cloth-facing-sunset, refs: ["GKAB P363269 r:14-16"], note: "šīr alpi šuāti ina 1-en ṭūg kurrî ... šamna ana libbīšu tanaddi taqebber; ana pān ereb šamši ... taqebber"}
+      - {motif: twelve-gods-seated-on-bricks, refs: ["GKAB P363269 o:7-11"], note: "ina bīt mummi ... 12 libnāti talaṭṭaṣ ... ilānī 12-šunu ina muḫḫi tušeššeb; Enmešara; flour heaps"}
+      - {motif: auspicious-month-and-day-for-rite, refs: ["GKAB P363269 o:7", "GKAB P363269 r:14"], note: "ina arḫi šalmi ina ūmi magri"}
+      - {motif: scribal-colophon, refs: ["GKAB P363269 l.e:1-2"], note: "ṭuppi Anu-bēlšunu mār Nidintu-Anu ... Uruk, Tašrītu 10, year 150 (SE) Antiochus"}
+    hints:
+      - "Unblemished animal: Lev 22:19-25; Deut 17:1; the red cow 'without defect, on which no yoke came': Num 19:2-10; heifer killed and buried in the valley: Deut 21:3-6."
+      - "Leftover parts burned/disposed outside: Lev 4:11-12, 16:27."
+
+  - id: ane-gkab-p363270-kettledrum-incantation
+    tradition: ane-akkadian
+    title: "Bilingual šuʾila of the great bull for the bīt mummi: 'may this god renew his brilliance like the moon' (BagM Beih. 2, 6)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["GKAB P363270"]
+    tags:
+      - {motif: deity-decrees-fates-of-all-lands, refs: ["GKAB P363270 o:3"], note: "na-aŋ₂ tar-tar-re-e-ne // mušimmū šīmāti, muṣṣirū [uṣurāti]: the great gods who decree fates"}
+      - {motif: gods-as-creators-of-all-living, refs: ["GKAB P363270 o:5"], note: "bānû napḫar šiknat napišti: creators of all that has breath"}
+      - {motif: bull-born-in-moon-gods-fold, refs: ["GKAB P363270 o:11-14"], note: "GU₄.GAL GU₄.MAḪ ... ina supūri sîn kīniš iʾaldu, šizba kīna īniqu, šūluk ana simat ilūti; tarbīt Ninamaškuga"}
+      - {motif: moon-god-renews-his-light, refs: ["GKAB P363270 r:4-5"], note: "of the drum-god: ilu šū kīma nannāri liddiš šarūru, kīma šamaš lištēpi ana ūmē dārûti"}
+      - {motif: kettledrum-deified-as-god, refs: ["GKAB P363270 r:4-6"], note: "the covered drum is 'this god' (dimmer-bi / ilu šū), to dwell in his eternal seat, a seat of rest"}
+      - {motif: pure-offering-and-incense-before-gods, refs: ["GKAB P363270 o:7-10"], note: "riksī ellī aškusukunūši, nīqû ebba aqqīkunūši ... qutrinnu ellu"}
+      - {motif: priestly-lineage-in-colophon, refs: ["GKAB P363270 r:7-11"], note: "ṭuppi Anu-aḫ-ušabši mār Anu-bēlšunu mār Sîn-lēqi-unninni; qāt Anu-balāssu-iqbi ...; Uruk, Ulūlu 21, year 136 Seleucus: the Uruk lamentation-priest family claims descent from Sîn-lēqi-unninni, the editor of Gilgameš"}
+    hints:
+      - "Musical instruments made holy for the cult: 1Chr 15:16, 2Chr 29:25-27; Ps 150:3-5."
+
+  - id: ane-gkab-p363271-kettledrum-fragment
+    tradition: ane-akkadian
+    title: "Kettledrum ritual fragment: the chief lamentation-priest, the uninitiated, the bīt mummi (BagM Beih. 2, 7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363271"]
+    tags:
+      - {motif: secret-knowledge-for-initiates-only, refs: ["GKAB P363271 o:7'"], note: "fragmentary: lā mūdû lā [immar]: the uninitiated (may not see?)"}
+      - {motif: kettledrum-covered-with-hide-of-sacrificed-bull, refs: ["GKAB P363271 o:4'-6'", "GKAB P363271 r:6'-7'"], note: "lilissu siparri ... šīr alpi šuāti galamāḫu; ana bīt mummi tušerreba; in Simānu"}
+
+  - id: ane-gkab-p363272-kettledrum-commentary
+    tradition: ane-akkadian
+    title: "Kettledrum commentary: Meslamtaea, Qingu, Enmešara, Alla, Anšar (BagM Beih. 2, 8)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363272"]
+    tags:
+      - {motif: cultic-acts-explained-as-myth, refs: ["GKAB P363272 written.horizontally:1'-4'", "GKAB P363272 o:2'-4'"], note: "fragmentary: list of gods (Gubagararae, Qingu, Enmešara, Alla, Anšar, Arna, Lugaldukuga, Šuziana) beside ritual items; Meslamtaea and the netherworld (erṣetu); the defeated 'Enmešara gods' Qingu and Enmešara appear"}
+
+  - id: ane-gkab-p363273-bronze-drum
+    tradition: ane-akkadian
+    title: "Fragment: bronze, 'true shepherd', the bronze manzû drum (BagM Beih. 2, 9)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363273"]
+    tags:
+      - {motif: drum-named-instrument-of-god, refs: ["GKAB P363273 o:4'-6'"], note: "fragmentary: siparru ... arāmu (to cover), rēʾû kīnu, manzû siparri"}
+
+  - id: ane-gkab-p363274-temple-renovation
+    tradition: ane-akkadian
+    title: "Ritual for renewing a temple: offerings at night to Ea, Šamaš and Asalluḫi, eršemma laments sung on the roof (BagM Beih. 2, 10)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363274"]
+    tags:
+      - {motif: lament-sung-when-temple-is-renovated, refs: ["GKAB P363274 o:1", "GKAB P363274 o:7-8", "GKAB P363274 o:16-20"], note: "uššušu ša bīti ...; eršemma 'u₃-ba mu-ḫul' ina šēri ina ūri bīt ilāni šuāti; 'e₂ zid ... er₂ im-še₈-še₈' and 'dilmun niŋin-na' sung with the ḫalḫallatu drum"}
+      - {motif: brushwood-pile-kindled-for-gods, refs: ["GKAB P363274 o:5"], note: "abru ana ea u asalluḫi tunammar"}
+      - {motif: three-altars-for-ea-shamash-asalluhi, refs: ["GKAB P363274 o:10-13"], note: "3 paṭīrī ana ea šamaš u asalluḫi tarakkas; linen on the seats; mersu-cake, honey, ghee, dates, flour; beer, wine, milk; 3 sheep: shoulder, fat, roast"}
+      - {motif: purification-of-site-with-holy-water, refs: ["GKAB P363274 o:9", "GKAB P363274 o:16"], note: "ašar tašbiṭ mê ellūti tasallaḫ"}
+    hints:
+      - "Weeping and shouting at the founding of the second temple: Ezra 3:10-13; Hag 2:3."
+
+  - id: ane-gkab-p363277-goddess-list
+    tradition: ane-akkadian
+    title: "New Year (?) ritual fragment listing goddesses: Nanaya, Šala, Ašratu, the Queen of Heaven (BagM Beih. 2, 13)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363277"]
+    tags:
+      - {motif: queen-of-heaven-title, refs: ["GKAB P363277 o:5'"], note: "d.SA.DAR₃.NUN.NA d.aš-rat u d.šar-rat-AN-e: Ašratu and Šarrat-šamê ('Queen of Heaven') named side by side in a list of goddesses"}
+      - {motif: goddess-ashratu-in-cult-list, refs: ["GKAB P363277 o:2'-7'"], note: "Nanaya; Šala and the daughters of Anu; Baba and Ninešgal; Sadarnuna, Ašratu and Šarrat-šamê; Ninigizibara and Išartu; Abetura and Šagepada"}
+    hints:
+      - "Asherah: 1Kgs 15:13, 18:19; 2Kgs 21:7, 23:4; the Queen of Heaven: Jer 7:18, 44:17-25."
+
+  - id: ane-gkab-p363278-new-year-fragment
+    tradition: ane-akkadian
+    title: "New Year (?) ritual fragment: ground swept, pure water, sceptre of kingship, travel provisions (BagM Beih. 2, 14)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363278"]
+    tags:
+      - {motif: purification-of-site-with-holy-water, refs: ["GKAB P363278 o:2'-3'"], note: "tašabbiṭ mê ellūti ... agurru ellu"}
+      - {motif: sceptre-of-kingship-set-up, refs: ["GKAB P363278 o:4'-5'"], note: "uluḫḫu (sceptre) šarrūti ... tušzaz; ṣidītu (travel provisions)"}
+
+  - id: ane-gkab-p363407-o-eclipse-lament
+    tradition: ane-akkadian
+    title: "Lunar eclipse ritual at Uruk: the kalû's lament ('the Dilmunite whose ship sank am I'), the brazier, kispu, mourners with covered heads (BRM 4, 6 obverse)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363407 o:1'-30'"]
+    tags:
+      - {motif: eclipse-ritual-lament-until-moon-clears, refs: ["GKAB P363407 o:14'-18'", "GKAB P363407 o:28'"], note: "annâ ša ana sîn ina antalî izzamir; garakku at the gate of the temple and in the square; kīma antalû ušarrû ... gizillâ iqâd-ma ... kalû ušab-ma nēpeš qāt kalî adi antalû unammir ippuš"}
+      - {motif: perpetual-altar-fire-never-extinguished, refs: ["GKAB P363407 o:18'", "GKAB P363407 o:29'"], note: "adi antalû unammar išātu ina muḫḫi garakki lā tebelle; afterwards the fire is quenched with beer"}
+      - {motif: lamenting-god-without-food-or-water, refs: ["GKAB P363407 o:5'-6'"], note: "bēlka ša idullū-ma lā iṣallal anāku ... akala lā īkul anāku, ina mānaḫtīšu mê lā išt[û] anāku"}
+      - {motif: sunken-ship-of-dilmun-lament, refs: ["GKAB P363407 o:10'"], note: "dilmunnû ša ina ṣuṣê eleppašu iṭbû anāku"}
+      - {motif: storm-is-word-of-anu-and-enlil, refs: ["GKAB P363407 o:9'"], note: "ūmu amāt anu, ūmu amāt ellil, ūmu uggat libbi ša anu rabî"}
+      - {motif: temple-cult-and-festivals-cease, refs: ["GKAB P363407 o:12'-13'"], note: "makurru ša nindabû izbil tānēḫa izzabil; ša nindabê nindabê ul ušērib, ša nīqê nīqê ul ušērib"}
+      - {motif: funerary-offering-to-netherworld-gods, refs: ["GKAB P363407 o:19'-20'"], note: "kispī ana ugāri ... ana nārāti ša mê lā ubbalā ... ana anunnakī takassip"}
+      - {motif: head-covered-in-shame, refs: ["GKAB P363407 o:21'"], note: "nišē māti ṣubāt qaqqadīšunu šaḫṭu ina lubārīšunu qaqqassunu katmu"}
+      - {motif: evil-portent-kept-from-city, refs: ["GKAB P363407 o:22'-27'"], note: "mēser nērti bārtu u antalû ai iṭḫû ana uruk, rēš, irigal, baramaḫ, eana; refrain repeated; they cry out in lament (ana ṣiriḫti rigimšunu inaddû)"}
+      - {motif: mourners-smeared-with-river-mud, refs: ["GKAB P363407 o:24'-25'"], note: "7 ṣābū nišē māti ṭerīt nāri pānīšunu qātīšunu u šēpīšunu paššū, patra ina kerri imittīšunu tallal"}
+      - {motif: ritual-remains-thrown-into-river, refs: ["GKAB P363407 o:30'"], note: "the builder carries the brazier with its ashes to the river"}
+    hints:
+      - "Sun darkened and moon not giving light as a day of mourning: Joel 2:10, 3:4 (2:31); Amos 8:9-10 (sackcloth, baldness, mourning for an only son); Q 75:8-9 (the moon eclipsed)."
+      - "Fire on the altar never to go out: Lev 6:6 (6:13)."
+      - "Mourners with covered heads: 2Sam 15:30; Jer 14:3-4; Esth 6:12."
+
+  - id: ane-gkab-p363407-r-eclipse-drums
+    tradition: ane-akkadian
+    title: "Lunar eclipse ritual: temples purified, drums set by the dais, lamentation priests in torn linen, eršemmas sung by phase (BRM 4, 6 reverse)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363407 r:1-24"]
+    tags:
+      - {motif: kuppuru-wiping-patient-clean, refs: ["GKAB P363407 r:2-3"], note: "takpirāt bīt ilāni kalāma u Edumununa bīt sîn tukappar: here the temples are purged (kuppuru), as in Lev 16"}
+      - {motif: oath-by-life-of-anunnaki, refs: ["GKAB P363407 r:4"], note: "zi An Enlil ḫe-pad₃-da-eš / nīš anu u ellil lū tummûšunūti: be sworn by Anu and Enlil"}
+      - {motif: exorcists-at-right-and-left-of-house, refs: ["GKAB P363407 r:5-6"], note: "one mašmaššu at the right of the house, the second at the left, recite 'ud du₇-du₇-a-meš'; the remaining exorcists recite udug-ḫul and adjure them"}
+      - {motif: drums-beaten-during-eclipse, refs: ["GKAB P363407 r:12-13"], note: "ḫalḫallatu siparri, manzû siparri, lilissu siparri ... itti parakki balaŋŋa tašakkan"}
+      - {motif: rend-garments-grief, refs: ["GKAB P363407 r:13-14"], note: "kalû ṣubāt kitî litbušū, ina lubāršunu nukkusūtu, qaqqassunu katmu, ṣiriḫtu nissatu u bikītu ana sîn ina antalî našû"}
+      - {motif: lament-chosen-by-phase-of-eclipse, refs: ["GKAB P363407 r:18-22"], note: "kī šalšu ḫaprāt šikin antalî: 'am amaš-na'; kī 2 qāt: 'u₈-u₂ a-a šag₄-zu'; kī gammartu ..."}
+      - {motif: evil-portent-kept-from-city, refs: ["GKAB P363407 r:8-11"]}
+      - {motif: ritual-remains-thrown-into-river, refs: ["GKAB P363407 r:1-2", "GKAB P363407 r:7"], note: "standards, magic circle, white and black twine, purification materials thrown into the river"}
+    hints:
+      - "Purging (kipper) of the sanctuary: Lev 16:16-20, 33; Ezek 45:18-20."
+      - "Trumpets and cymbals in national crisis: Num 10:9; Joel 2:1, 2:15."
+
+  - id: ane-gkab-p363507-priest-consecration
+    tradition: ane-akkadian
+    title: "Consecration of a priest: incantation of the seven pure garments; Uttu who wove the wool (CTN 4, 93)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["GKAB P363507"]
+    tags:
+      - {motif: seven-pure-garments-for-priest, refs: ["GKAB P363507 flake:5'-7'"], note: "ḫe₂-en-kug-ga ḫe₂-en-sikil-la ḫe₂-en-dadag-ga; eme ḫul-ŋal₂ bar-še₃ ḫe₂-em-ta-gub; ka-inim-ma 7 tug₂ kug-ga-kam: 'incantation of the seven pure garments'"}
+      - {motif: goddess-uttu-weaver-of-garment, refs: ["GKAB P363507 flake:8'-11'"], note: "Uttu sinništu damiqtu mārat ellil ... mārtu narāmti ea; wool of good sheep, white wool in her hands; paršīgu ... ikrib ... uštērsi"}
+      - {motif: garment-entrusted-to-fuller-washed-pure, refs: ["GKAB P363507 flake:12'-13'"], note: "ana ašlāki ša māti ipqid; paršīga ina mê ellūti uzakki"}
+      - {motif: magician-receives-spell-from-asalluhi, refs: ["GKAB P363507 flake:4'"], note: "d.asar-lu₂-ḫi nam-šub ba-an-šum₂ / marduk šiptu [iddin]"}
+      - {motif: evil-eye-mouth-tongue-go-out, refs: ["GKAB P363507 flake:6'"], note: "eme ḫul-ŋal₂ bar-še₃ ḫe₂-em-ta-gub: may the evil tongue stand aside"}
+    hints:
+      - "Priestly garments made and the priest washed and dressed at consecration: Exod 28:39-43, 29:4-9; Lev 8:6-13; Zech 3:4-5 (pure turban)."

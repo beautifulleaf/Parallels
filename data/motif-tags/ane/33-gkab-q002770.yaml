@@ -1,0 +1,136 @@
+# Full read of the ANE corpus, chunk 33: GKAB Q002770, Q002771 (SB Anzu tablets 2 and 3, Sultantepe manuscripts),
+# GKAB X900000 (fragment), then Amarna letters EA 268 ... EA 139 (in the order of `aneread.py texts 33`).
+# Read from ORACC lemmatized transliterations (cams/gkab; aemw/amarna). The GKAB Anzu tablets carry no glosses;
+# they were read against the eBL composite already tagged in chunk 18 (18-anzu-sb.yaml), whose ids are reused.
+# The Amarna letters carry ORACC lemma glosses only (no translation).
+new_motifs:
+  anzu-tablet-colophon-with-incipit-and-line-count: {label: "A literary tablet ends with a colophon naming the series by its incipit, the tablet number and its total line count", cluster: scribal}
+  vassal-dust-under-kings-feet: {label: "A vassal calls himself the dust (or clay, or trodden ground) under the overlord king's feet", cluster: kingship}
+  vassal-calls-himself-kings-dog: {label: "A vassal calls himself the dog of the king or of the king's house", cluster: kingship}
+  overlord-addressed-as-my-god-my-sun: {label: "A vassal addresses the Egyptian king as 'my god(s), my Sun (god)'", cluster: kingship}
+  city-goddess-gives-power-to-overlord: {label: "A vassal invokes his city's goddess (the Lady of Byblos) to give power or strength to the overlord king", cluster: kingship}
+  vassal-pleads-for-archers: {label: "A vassal begs the overlord to send archers (piṭṭātu) quickly, or the city and land will be lost", cluster: war}
+  overlord-orders-vassal-to-guard-and-provision: {label: "The overlord's letter orders a vassal to guard the king's place, obey the royal official and have bread, wine and supplies ready for the arriving troops", cluster: kingship}
+  king-well-like-sun-in-heaven: {label: "The overlord's letter assures the vassal that the king is well 'like the sun in heaven', with his troops and chariots in great number and very well", cluster: kingship}
+  vassal-sends-people-as-tribute: {label: "A vassal sends people (girls, boys, servants) to the overlord as tribute", cluster: kingship}
+  rebels-incite-killing-of-rulers: {label: "A rebel leader urges the townsmen to kill their ruler and become like the rebels, so that they too may have peace", cluster: war}
+  loyal-vassal-alone-among-defectors: {label: "A vassal claims he alone still serves the king loyally while all other rulers have gone over to the enemy", cluster: kingship}
+  peasants-starve-and-desert: {label: "The peasants (hupšu) have no food or livelihood and break away to the enemy", cluster: war}
+  field-like-wife-without-husband: {label: "An uncultivated field is likened to a wife without a husband", cluster: wisdom}
+  captives-held-for-silver-ransom: {label: "Men seized by an enemy ruler are held until a ransom in silver is paid", cluster: war}
+  vassal-supplies-corvee-workers: {label: "A vassal says he alone cultivates the king's land and brings corvée workers (massu) for the king, while other rulers do not", cluster: kingship}
+  vassal-swears-perpetual-servitude: {label: "A vassal declares himself the king's servant 'for ever' and invokes the gods to strike him if he fails to guard the king's cities", cluster: kingship}
+  vassal-denies-false-report-of-plague: {label: "A vassal assures the king that reports of plague (death) in the land are lies of other men and that the land is healthy", cluster: kingship}
+  hittite-troops-burn-vassal-cities: {label: "A ruler allied with Hatti leads Hittite troops against the overlord's cities and sets them on fire", cluster: war}
+  overlord-envoy-killed-by-rebels: {label: "Rebels kill the overlord's commissioner or envoy", cluster: war}
+units:
+  # ---------------- Anzu SB, GKAB manuscripts ----------------
+  - id: ane-gkab-q002770-mothers-orders
+    tradition: ane-akkadian
+    title: "Anzu tablet 2 (Sultantepe): Mami's battle orders to Ninurta, end (GKAB Q002770 1-27)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Standard Babylonian, Sultantepe manuscript (GKAB)"
+    read: ["GKAB Q002770 1-27"]
+    tags:
+      - {motif: mother-commissions-son-to-fight-monster, refs: ["GKAB Q002770 1-27"], note: "the mother's orders open mid-speech: biriq urha šukna adanna, 'flash along the road, fix the appointed time'"}
+      - {motif: sun-darkened-during-divine-battle, refs: ["GKAB Q002770 15-16"], note: "ai ippuha šamaš elīšu ūmu namru ana daʾummati litūršu"}
+      - {motif: arrows-flash-like-lightning, refs: ["GKAB Q002770 10-14"], note: "tulul qašta šukudu imta limīšu, 'draw the bow, let the arrow be smeared with poison'"}
+      - {motif: monster-feathers-carried-as-glad-tidings, refs: ["GKAB Q002770 18-19"], note: "šāru kappīšu ana busrāti liblūni"}
+      - {motif: champion-promised-cult-and-name, refs: ["GKAB Q002770 22-27"], note: "šarrūtu līruba ana ēkur ... ina kibrāt erbetti šitakkana māhāzūka ... gašru lū šumka"}
+    hints:
+      - "Compare Ps 18:14-15 (he sent out his arrows, lightnings) and Hab 3:11."
+  - id: ane-gkab-q002770-first-battle
+    tradition: ane-akkadian
+    title: "Anzu tablet 2 (Sultantepe): the challenge, the darkness and the arrows turned back (GKAB Q002770 28-69)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Standard Babylonian, Sultantepe manuscript (GKAB)"
+    read: ["GKAB Q002770 28-69"]
+    tags:
+      - {motif: seven-winds-storm, refs: ["GKAB Q002770 30-34"], note: "uštaṣbit sebet qabla ... sebet imhulla ... IMIN ašamšātu"}
+      - {motif: guardian-monster-radiates-terror, refs: ["GKAB Q002770 36-38"], note: "ikṣuṣ kīma ūmu melammašu šadê iktum"}
+      - {motif: combatants-exchange-challenge-who-are-you, refs: ["GKAB Q002770 40-47"], note: "Anzu: attabal-ma kullat kališunu parṣī ... manna attā; Ninurta: anāku ninurta tukulti duranki"}
+      - {motif: sun-darkened-during-divine-battle, refs: ["GKAB Q002770 50-51"], note: "šaknat eklētu ... šamaš nūr ilī daʾummeš īrub"}
+      - {motif: arrows-flash-like-lightning, refs: ["GKAB Q002770 53-56"], note: "erpet mūti izannunu ibarriq uṣṣī; the battle is abūbu aṣbu, 'like the deluge'"}
+      - {motif: magic-word-sends-arrow-back-to-origins, refs: ["GKAB Q002770 63-65"], note: "qanûm-ma ša talliku tūri apukka mummu qašti ana qišātīki šerʾānu ana šašalli immeri kappu ana iṣṣūri"}
+      - {motif: talisman-makes-holder-invulnerable, refs: ["GKAB Q002770 66-69"], note: "našī-ma ṭup šīmāti ilī qātuššu"}
+      - {motif: tablet-of-destinies, refs: ["GKAB Q002770 66"]}
+    hints:
+      - "Compare 1 Sam 17:43-47 (the champion's taunt and the answer naming his God) and Joel 2:10."
+  - id: ane-gkab-q002770-ea-advice
+    tradition: ane-akkadian
+    title: "Anzu tablet 2 (Sultantepe): Sharur's reports, Ea's advice, Ninurta sets out again; colophon (GKAB Q002770 70-155)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Standard Babylonian, Sultantepe manuscript (GKAB)"
+    read: ["GKAB Q002770 70-155"]
+    tags:
+      - {motif: talking-divine-weapon, refs: ["GKAB Q002770 70-71", "GKAB Q002770 86-88"], note: "{d}ŠAR₂.UR₄, Ninurta's weapon Šarur, carries the reports to Ea"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["GKAB Q002770 72-100", "GKAB Q002770 124-145"], note: "the battle report is told twice (72-85, 89-100) and Ea's advice twice (103-123, 126-145)"}
+      - {motif: cut-wings-to-break-magic, refs: ["GKAB Q002770 105-111"], note: "nukkis abrīšu imna šumēla ruʾʾim liṭṭul-ma kappāšu litbala zikir pîšu"}
+      - {motif: monster-feathers-carried-as-glad-tidings, refs: ["GKAB Q002770 113-114", "GKAB Q002770 135-136"]}
+      - {motif: seven-winds-storm, refs: ["GKAB Q002770 147-153"]}
+      - {motif: anzu-tablet-colophon-with-incipit-and-line-count, refs: ["GKAB Q002770 154-155"], note: "ṭuppi 2-kam.ma bīn šar dadmē ('Son of the king of the inhabited world', the series incipit); ŠU.NIGIN 2 UŠ 53, total 173 lines. The line printed as '11₂' is a garbled 112."}
+      - {motif: scribal-colophon, refs: ["GKAB Q002770 154-155"]}
+    hints:
+      - "Compare Judg 16:17-19 (the secret of invulnerability found and broken)."
+  - id: ane-gkab-q002771-anzu-slain
+    tradition: ane-akkadian
+    title: "Anzu tablet 3 (Sultantepe): the wings cut, Anzu slain, the tablet recovered; the gods rejoice (GKAB Q002771 1-32)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Standard Babylonian, Sultantepe manuscript (GKAB)"
+    read: ["GKAB Q002771 1-32"]
+    tags:
+      - {motif: cut-wings-to-break-magic, refs: ["GKAB Q002771 9-13"], note: "īnah-ma anzû ina mithur mehê abaršu iddi ... unakkis abrīšu"}
+      - {motif: divine-arrows, refs: ["GKAB Q002771 14-16"], note: "šiltāhu ībira bun libbīšu ... libba u hašê ībir šiltāhu"}
+      - {motif: deity-destroys-mountain, refs: ["GKAB Q002771 17-20"], note: "inār hursāni qerbīsunu udallih irhiṣ, written twice (17, 18)"}
+      - {motif: tablet-of-destinies, refs: ["GKAB Q002771 21", "GKAB Q002771 27"], note: "here also kakkī ilī ... qātuššu uttīr (27)"}
+      - {motif: monster-feathers-carried-as-glad-tidings, refs: ["GKAB Q002771 22-24"]}
+      - {motif: victor-admitted-to-secret-of-gods, refs: ["GKAB Q002771 30-32"], note: "lizziz itti ilī ahhēšu-ma pirištu lišme; line 32 adds that among the Anunnaki he be granted the divine offices (liqissu parṣī)"}
+    hints:
+      - "Compare Isa 27:1 and Ps 74:13-14; Jer 23:18, 22 (standing in God's council)."
+  - id: ane-gkab-q002771-birdu-mission
+    tradition: ane-akkadian
+    title: "Anzu tablet 3 (Sultantepe): the news to Dagan and Enlil; Birdu sent to Ninurta (GKAB Q002771 33-76)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Standard Babylonian, Sultantepe manuscript (GKAB)"
+    read: ["GKAB Q002771 33-76"]
+    tags:
+      - {motif: slain-monster-flayed-skin-taken, refs: ["GKAB Q002771 35"], note: "ina tabāk mê kišādi kī ikūṣu mašku ilqe"}
+      - {motif: tablet-of-destinies, refs: ["GKAB Q002771 37-39"], note: "ṭup šīmāti liškuna ina burkīka"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["GKAB Q002771 40-64"], note: "Enlil to Nusku, Nusku brings Birdu; Birdu repeats the gods' joy to Ninurta; lines 49-52 lost"}
+      - {motif: victor-withholds-recovered-talisman, refs: ["GKAB Q002771 70-76"], note: "fragmentary: DUB NAM.TAR-MEŠ-ma u₂-x ... ašakkan; Ninurta's reply largely lost"}
+  - id: ane-gkab-q002771-names-of-ninurta
+    tradition: ane-akkadian
+    title: "Anzu tablet 3 (Sultantepe): Ninurta's praise and his names in the cult cities (GKAB Q002771 113-181)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Standard Babylonian, Sultantepe manuscript (GKAB)"
+    read: ["GKAB Q002771 113-181"]
+    tags:
+      - {motif: deity-destroys-mountain, refs: ["GKAB Q002771 117-122"], note: "qarrādu ina dannūtīka šadê tanarru"}
+      - {motif: warrior-son-subdues-enemies-at-fathers-feet, refs: ["GKAB Q002771 121", "GKAB Q002771 123"], note: "kullat nakirī tušakniša ana šēpē abīka ellil"}
+      - {motif: deity-holds-all-divine-powers, refs: ["GKAB Q002771 124-126"], note: "bēlūta tagdamar kullat gimri parṣī; mannu ša kīma kâta ibbanû, 'who was created like you?'"}
+      - {motif: god-invoked-under-several-names-litany, refs: ["GKAB Q002771 127-156"], note: "Nisaba, Ningirsu, Hurabtil in Elam, Inshushinak in Susa, Pabilsag, Ninazu, Ishtaran in Der, Zababa, Lugalbanda, Lugalmarada, Tishpak, Messagunug, Papsukkal ..."}
+      - {motif: god-as-shepherd-of-all-creatures, refs: ["GKAB Q002771 129"], note: "ušmandûka rēʾût nišī gamirtu"}
+      - {motif: fifty-names-of-god, refs: ["GKAB Q002771 157"], note: "not fifty: palhū šūturū ina ilī šumūka maʾdiš"}
+    hints:
+      - "Compare Ps 110:1, Exod 15:11 ('who is like you among the gods?') and Q 59:22-24 (the names of God)."
+  - id: ane-gkab-x900000-fragment
+    tradition: ane-akkadian
+    title: "Small flake, possibly of STT 1, 087 (GKAB X900000)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["GKAB X900000 flake:1'-7'"]
+    tags:
+      - {motif: scribal-colophon, refs: ["GKAB X900000 flake:2'-4'"], note: "interpretive: only 'siesta-time', 'and year 14', 'that in it' survive; perhaps a dating or note; too broken to tag more"}

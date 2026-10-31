@@ -1,0 +1,423 @@
+units:
+  - id: ane-gkab-p338349-o-ludlul-god-abandons
+    tradition: ane-akkadian
+    title: "Ludlul bēl nēmeqi I, Uruk copy (STT 1 32 obv.): the gods desert the sufferer, omens fail, the king's courtiers plot"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Standard Babylonian, Sultantepe copy (STT 1 32)"
+    read: ["GKAB P338349 o"]
+    tags:
+      - {motif: personal-god-and-protective-spirits-desert-sufferer, refs: ["GKAB P338349 o:4'-9'"], note: "ištu ūma bēlu ... išbusu ... iddanni ilī ... ipparku ištarī ibēš ... isliṭ šēdu dumqi ... iprud lamassī-ma šanamma išeʾʾe: from the day the lord (Bēl/Marduk) grew angry my god threw me off, my goddess went away, my good šēdu split off, my lamassu took fright and seeks another"}
+      - {motif: crown-stripped-from-head, refs: ["GKAB P338349 o:10'-11'"], note: "inneṭir baltī dūtī uttammil simtī ipparis tarāna išhiṭ: my dignity was taken, my virility veiled, my emblem cut off, my (protecting) roof torn away"}
+      - {motif: omens-and-dreams-confused-for-sufferer, refs: ["GKAB P338349 o:12'-17'"], note: "iššaknānim-ma idāt pirittī ... dalhā têrētūa ... itti bārî u šāʾili alaktī ul parsat / ina pî sūqi lemun egirrûa / attīl-ma ina šāt mūši šuttī pardat: signs of terror, confused omens, the diviner and dream-asker cannot decide my way, the street's chance utterance is bad, my night dream frightening"}
+      - {motif: king-turns-against-loyal-courtier, refs: ["GKAB P338349 o:18'-21'"], note: "šarru šīr ilī šamšu ša nišīšu libbuš ikkaṣir-ma: the king, flesh of the gods, sun of his people, his heart was knotted (against me); courtiers spread slander and gather in malice"}
+      - {motif: seven-courtiers-conspire, refs: ["GKAB P338349 o:22'-28'"], note: "šumma ištēn-ma napištašu ušatbak ... šanû ... šalšu ... rebû ... hamšu ... šeššu u sebû ... ikṣurūnim-ma riksa sebet: the first, second ... seventh plotter each vows his share"}
+      - {motif: speech-of-sufferer-muzzled, refs: ["GKAB P338349 o:29'-35'"], note: "ūmiš lā pādû utukkiš mašlu ... appatiš iteššûʾ ... hašikkiš ēme ... šaqummiš ipparšid: they are like a storm and an utukku-demon; my mouth is muzzled as with a bridle, I became like a deaf man and fled silently"}
+    hints:
+      - "God's anger and abandonment: Job 19:6-13, Job 30:20-21, Ps 22:2, Ps 88:15-19; omens and prophets fall silent: 1 Sam 28:6, Ezek 7:26, Lam 2:9."
+      - "Seven plotters and the king turned against his servant: Ps 31:14, Ps 41:8-10, Ps 55:4-15, Dan 6:5-8 (courtiers plot against Daniel), Esth 3."
+      - "Stripped of glory, crown taken: Job 19:9; struck dumb: Ps 38:14-15, Ps 39:3."
+  - id: ane-gkab-p338349-r-ludlul-social-death
+    tradition: ane-akkadian
+    title: "Ludlul bēl nēmeqi I, Uruk copy (STT 1 32 rev.): the proud man brought low, shunned by kin, cursed by slaves, his goods shared out"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Standard Babylonian, Sultantepe copy (STT 1 32)"
+    read: ["GKAB P338349 r"]
+    tags:
+      - {motif: proud-man-humbled-to-servility, refs: ["GKAB P338349 r:1-6"], note: "šaqâtu rēšāya iknuš qaqqariš ... ša etelliš attallaku halāla almad / šarrahākū-ma atūr ana rēši: my lofty head bowed to the ground; I who walked like a lord learned to slink; proud, I became a slave"}
+      - {motif: alone-no-one-to-be-seen, refs: ["GKAB P338349 r:7"], note: "ana rapši kimāti ēteme ēdāniš: to a wide family I became a loner"}
+      - {motif: pointed-at-in-the-street, refs: ["GKAB P338349 r:8-11"], note: "sūqa abâʾ-ma turruṣā ubānāti / irrub ēkalliš iṣṣapparā īnāti / ālī kī ayyābi nekelmânni"}
+      - {motif: estranged-from-brothers, refs: ["GKAB P338349 r:12", "GKAB P338349 r:20"], note: "ana ahî ahi itūra ... ana lā šīrīšu iškunanni kimtī: my brother became a stranger; my family treated me as no flesh of theirs"}
+      - {motif: friend-turns-false-to-sufferer, refs: ["GKAB P338349 r:13-16"], note: "ana lemni u gallê itūra ibrī ... tappê unaggaranni ... kinātī ... kakkē uwarrašū ... rūʾa ṭābi ukarraṣa napištī: my friend became an evil one and a gallû-demon, companion denounces me, colleague stains his weapons, good friend cuts short my life"}
+      - {motif: slaves-curse-their-fallen-master, refs: ["GKAB P338349 r:17-18"], note: "šūpîš ina puhri īrurani ardī / amtīya ana pān ummāni ṭapilti iqbi"}
+      - {motif: slanderer-prospers-sympathizer-dies, refs: ["GKAB P338349 r:21-25"], note: "ana qābi damiqtīya petâssu hašti / mutammû ṭapiltīya šakin ana rēši / dābib nulliātīya ilu rēṣūšu: for the one who spoke well of me a pit is opened; my slanderer is promoted, the god is his helper; the one who said 'enough!' death hastens"}
+      - {motif: no-helper-at-side, refs: ["GKAB P338349 r:26"], note: "ul aršī ālik idī gāmila ul āmur"}
+      - {motif: sufferers-goods-and-office-given-to-others, refs: ["GKAB P338349 r:27-32"], note: "ana ṣindi u birti uzzuʾuzū mimmûa / pî nārātīya umanṭiṭū sakīka ... parṣīya ušalqû šanâmma ... ahâ ušzizū: goods divided among the riffraff, canals silted, offices given to another, a stranger set up"}
+      - {motif: house-of-sufferer-deathly-silent-family-scattered, refs: ["GKAB P338349 r:29-30"], note: "ina qerbetīya ušessû alāla / kī āl nakiri ušqammemu ālī: the work-song ceased in my fields, my town fell silent like an enemy town"}
+    hints:
+      - "Kin and friends estranged, servants despise him: Job 19:13-19 (my servant does not answer, I am a stranger to my brothers), Ps 31:12, Ps 38:12, Ps 41:10, Ps 55:13-15, Ps 88:9,19; Mic 7:5-6."
+      - "Pointed at and mocked in the streets: Job 30:1-10, Ps 22:7-8, Ps 44:15, Lam 3:14; the proud brought low: Job 29-30 (former glory vs present), Isa 2:11-17."
+      - "Goods given to strangers: Job 20:18, Ps 109:8-11 (let another take his office), Lam 5:2."
+  - id: ane-gkab-p338356-poor-man-of-nippur
+    tradition: ane-akkadian
+    title: "The Poor Man of Nippur, Uruk fragment (STT 1 39+)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338356"]
+    tags:
+      - {motif: blessing-on-the-king, refs: ["GKAB P338356 o:3-5"], note: "[...] šar kiššati ikarrab ... lamassu ... liddinūnim-ma: someone blesses 'the king of the world' and wishes him a protective spirit; context broken"}
+      - {motif: lord-asks-what-is-your-desire, refs: ["GKAB P338356 o:6-8"], note: "izzimtu lukšud ... mana rušši hurāṣi ... izzimtaka mīnumma: 'let me attain my desire' ... a mina of red gold ... 'what is your desire?'"}
+    hints:
+      - "A ruler asking a poor petitioner 'what is your wish?': compare Esth 5:3,6 and 1 Kgs 3:5 (God to Solomon: ask what I shall give you); the poor man's revenge on the mayor: Eccl 9:14-16 (the poor wise man who saved the city)."
+  - id: ane-gkab-p338358-gilgamesh-letter
+    tradition: ane-akkadian
+    title: "The Gilgameš Letter (STT 1 41): Gilgameš demands fabulous tribute for Enkidu's memorial and threatens the recipient's cities"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Neo-Assyrian school composition (Sultantepe)"
+    read: ["GKAB P338358"]
+    tags:
+      - {motif: legendary-king-letter-demands-fabulous-tribute, refs: ["GKAB P338358 o:2'-17'"], note: "Enkidu ibrīya ... ašpurakkam-ma yānu ... ūmu ṭuppī šuāti tāmuru ... il-lat sisê šupur-ma: thousands of white horses with black girths, black horses with white girths, 100,000 she-asses, calves, mules, beer, butter, wine, tables of ebony, donkeys laden with juniper, iron, tin for Marduk's storehouse"}
+      - {motif: statue-of-dead-friend-in-gold-and-lapis, refs: ["GKAB P338358 o:15'"], note: "1 šibirti hurāṣi huššî 30 mana lū šuqultašu ana irat Enkidu ibrīya lukīn ... yašpû uqnû ... takṣīrī ina muhhi lubanni: a block of red gold of 30 minas for the breast of Enkidu my friend, with jasper and lapis inlays"}
+      - {motif: precious-boats-on-euphrates-to-babylon, refs: ["GKAB P338358 r:5-6"], note: "makkūrē eššūti kaspa hurāṣa mullâm-ma ... ana Purattu ... ana kār Bābili tabal-ma ilūya līmurū-ma libbī lihmū: fill new processional boats with silver and gold, bring them down the Euphrates to the quay of Babylon, that my gods may see and be stunned"}
+      - {motif: oath-by-personal-god, refs: ["GKAB P338358 r:7-10"], note: "šumma ina Tašrīti ūmi 15 ina abulli ālīya Ur lā atmarūka / atma ilī rabûti ... atma ilūa Lugalbanda Sîn Šamaš Palil Lugalirra Meslamtaea Zababa u ilu bēl rēšīya: an oath by the great gods and by 'my god Lugalbanda' if the recipient fails to appear at the gate of Ur on 15 Tašrīt"}
+      - {motif: letter-threatens-plunder-of-cities-and-gardens, refs: ["GKAB P338358 r:11-13"], note: "ašapparakkam-ma ālānīka imarraq ēkallātīka imaššaʾ kirâtīka ... ina pî nārātīka murdê urattâ ... Gilgameš ina libbi ušab: I will send and he will crush your cities, plunder your palaces, (cut) your gardens, drive gratings into the mouths of your rivers; Gilgameš will dwell inside"}
+    hints:
+      - "A boastful ultimatum letter demanding horses, silver and gold and threatening cities: compare 1 Kgs 20:2-6 (Ben-hadad's demand 'your silver and gold are mine'), 2 Kgs 18:19-35 / Isa 36 (Rabshakeh), 2 Kgs 19:10-14 (threatening letter)."
+      - "Huge numbers of animals as tribute: 2 Kgs 3:4 (Mesha's 100,000 lambs), 1 Kgs 8:63, Ezra 2:66-67."
+  - id: ane-gkab-p338359-gilgamesh-letter-duplicate
+    tradition: ane-akkadian
+    title: "The Gilgameš Letter, second copy (STT 1 42): Gilgameš 'creation of Anu' to a king of the lands"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Neo-Assyrian school composition (Sultantepe)"
+    read: ["GKAB P338359"]
+    tags:
+      - {motif: legendary-king-letter-demands-fabulous-tribute, refs: ["GKAB P338359 o:1-24"], note: "the opening survives: ana [...] umma Gilgameš binût Anu ... šarrāni ... parakkī unaššaqū: 'to X, thus says Gilgameš, creation of Anu', before whose dais kings kiss (the ground); six hundred choice men sent; then the same list of horses, she-asses, calves, mules, butter and wine"}
+      - {motif: king-of-the-four-quarters, refs: ["GKAB P338359 o:6"], note: "šarru ša ultu [ṣīt šamši adi] ereb šamši mātāti naphar-šina: a king (ruling) from sunrise to sunset over all the lands; partly restored"}
+      - {motif: precious-boats-on-euphrates-to-babylon, refs: ["GKAB P338359 r:6-7"], note: "kaspim-ma hurāṣu ana Purattu neqelpâ ... lihmû"}
+      - {motif: statue-of-dead-friend-in-gold-and-lapis, refs: ["GKAB P338359 o:23"], note: "Enkidu ibrīya lukīn ... ina muhhi lubanni"}
+    hints:
+      - "Letter formula 'to X, thus says Y': Ezra 4:11-17, Ezra 7:12; kings kiss the ground before the overlord: Ps 72:9-11, Isa 49:23."
+  - id: ane-gkab-p338373-shuila-colophon
+    tradition: ane-akkadian
+    title: "Šuʾilas to Marduk and Nabû, Sultantepe copy (STT 1 55): only a colophon line survives"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338373"]
+    tags:
+      - {motif: scribal-colophon, refs: ["GKAB P338373 r:26"], note: "šamallû ṣehru: 'junior apprentice', the copyist's title in the colophon"}
+  - id: ane-gkab-p338378-shuila-shamash
+    tradition: ane-akkadian
+    title: "Šuʾila to Šamaš 1, Sultantepe copy (STT 1 60+): 'O supreme, perfect one, heir of Namraṣit'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GKAB P338378"]
+    tags:
+      - {motif: sun-god-judge-of-gods, refs: ["GKAB P338378 o:3", "GKAB P338378 o:16"], note: "Šamaš muštēšir mīti u balṭi bārû kal mimma šumšu ... dayyān ilī bēl Igigi"}
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["GKAB P338378 o:2", "GKAB P338378 o:4"], note: "nūru eddēšû pētû pān nišī mukallim nūri ... nūr ilī šarūr mātāti: the ever self-renewing light"}
+      - {motif: black-headed-people, refs: ["GKAB P338378 o:9"], note: "ilu u šarru nišū ṣalmat qaqqadi idallalā qurdīka"}
+      - {motif: god-gives-lonely-friend-impotent-heir-blind-light, refs: ["GKAB P338378 o:10-13"], note: "eṭla ēda tappâ tušarši / ana lā išari tanamdin apla / edlūti sikkūr šamê tupatti / ana lā nāṭili tašakkan nūra"}
+      - {motif: sun-god-reads-sealed-tablet-writes-omen-in-sheep, refs: ["GKAB P338378 o:14-15"], note: "ṭuppi armu lā petâ tašassi / ina libbi immeri tašaṭṭar šīrī"}
+      - {motif: bad-dream-made-favourable, refs: ["GKAB P338378 r:3-9"], note: "šīmtī šīm alaktī dummiq / līširā ittātūa / lidmiqā šunātūa / šutta anaṭṭalu ana damiqti terri"}
+      - {motif: justice-at-right-hand-favour-at-left, refs: ["GKAB P338378 r:14-15"], note: "Kittu lizziz ina imittīya Mīšaru izziz ina šumēlīya / littallak ilu mušallimu ina idīya: Truth at my right, Justice at my left, a safe-keeping god at my side"}
+      - {motif: gods-vizier-and-consort-intercede, refs: ["GKAB P338378 r:16"], note: "litammûka Bunene sukkallu awat damiqti: only Bunene the vizier is named here"}
+      - {motif: heaven-and-deep-rejoice-over-deity, refs: ["GKAB P338378 r:19-20"], note: "šamû lihdûka erṣetu lirīška ... Anu Ellil Ea lišarbû"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["GKAB P338378 r:21"], note: "KA.INIM.MA ŠU.IL₂.LA₂ {d}UTU-KAM"}
+    hints:
+      - "God sets the lonely in a home, gives children to the barren, opens eyes of the blind, frees captives: Ps 68:7, Ps 113:9, Ps 146:7-8, Isa 42:7; opening the bolts/windows of heaven: Gen 7:11, Mal 3:10."
+      - "Sun of righteousness / God who sees all: Mal 3:20, Ps 19:5-7, Ps 33:13-15; righteousness and justice personified at God's side: Ps 85:11-14, Ps 89:15."
+  - id: ane-gkab-p338379-shuila-shamash-aplutu
+    tradition: ane-akkadian
+    title: "Šuʾila to Šamaš 1, second Sultantepe copy (STT 1 61) with the user Aplūtu and an insertion against evil portents"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GKAB P338379"]
+    tags:
+      - {motif: god-gives-lonely-friend-impotent-heir-blind-light, refs: ["GKAB P338379 o:10-13"]}
+      - {motif: sun-god-reads-sealed-tablet-writes-omen-in-sheep, refs: ["GKAB P338379 o:14-15"], note: "adds ta-ša₂-kan di-na: 'you give the verdict'"}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["GKAB P338379 o:19-20"], note: "[anāku] Aplūtu mār ilīšu ... Sîn ... ištarīšu Ningal: the petitioner names himself and his personal deities"}
+      - {motif: evil-portent-turned-to-good, refs: ["GKAB P338379 o:22-28"], note: "ina lumun mimma huṣāb narkabtīya ša iššebru / ina lumun kulbābī sāmūti ša ina bītīya innamru ... palhāku adrāku ... šīmtu šīm ... līšera: the evil of a broken chariot peg and of red ants seen in my house"}
+      - {motif: bad-dream-made-favourable, refs: ["GKAB P338379 r:1-4"]}
+      - {motif: justice-at-right-hand-favour-at-left, refs: ["GKAB P338379 r:9-11"]}
+    hints:
+      - "Ominous insects or vermin in the house: compare Exod 8 (frogs, lice in houses) and Lev 14:34-45 (affliction in a house); fear of portents: Jer 10:2."
+  - id: ane-gkab-p338385-shuila-ea
+    tradition: ane-akkadian
+    title: "Šuʾila to Ea (STT 1 67): 'King of wisdom, creator of understanding', prayer of Banītu-ēreš against evil portents"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GKAB P338385"]
+    tags:
+      - {motif: divine-epithet-cluster, refs: ["GKAB P338385 o:1-5"], note: "šar nēmeqi bānû tašīmti massû ṣīru ... Ellilbanda itpēšu karūbu uršān Eridu apkal Igigi bēl bīt Engurra"}
+      - {motif: god-brings-flood-and-abundance-to-rivers, refs: ["GKAB P338385 o:6-8"], note: "bābil mīli hegalli murīš nārāti / ina tâmti u ṣuṣê tudeššī nuhša / ina qerbeti tušabši napišti nišī: bearer of the flood and of plenty, who makes abundance sprout in sea and reed-thicket and life for the people in the fields"}
+      - {motif: god-gives-counsel-to-great-gods, refs: ["GKAB P338385 o:9-12"], note: "Anu Ellil hadîš rīšūka ... ana ilī rabûti tadin milka"}
+      - {motif: incantation-of-life-keeps-dead-from-dying, refs: ["GKAB P338385 o:13"], note: "Ea ina têka ša balāṭi lā imât mītu: by your incantation of life the dead man does not die"}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["GKAB P338385 o:14-15"], note: "anāku Banītu-ēreš mār ilīšu"}
+      - {motif: evil-portent-turned-to-good, refs: ["GKAB P338385 o:16-21"], note: "ina lumun idāti ittāti lemnēti lā ṭābāti ša ina bītīya ibbašâ palhākū-ma adrāku šutadurāku"}
+      - {motif: god-takes-sufferer-by-hand-and-lifts-head, refs: ["GKAB P338385 o:19"], note: "ullî rēšīya ibi šumī: lift my head, call my name"}
+      - {motif: heaven-and-deep-rejoice-over-deity, refs: ["GKAB P338385 r:10-12"], note: "šamû lihdûka apsû lirīška"}
+    hints:
+      - "God who gives wisdom and understanding: Prov 2:6, Dan 2:20-21, Job 12:13; lifter of my head: Ps 3:4, Ps 27:6; called by name: Isa 43:1."
+      - "God who makes rivers and the deep yield plenty: Ps 65:10-14, Ps 104:10-16, Gen 49:25 (blessings of the deep)."
+  - id: ane-gkab-p338401-shurpu-4-colophon
+    tradition: ane-akkadian
+    title: "Šurpu IV, Sultantepe copy (STT 1 84): a royal titulary line of the colophon"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338401"]
+    tags:
+      - {motif: scribal-colophon, refs: ["GKAB P338401 r:44"], note: "šarru rabû šarru dannu šar kiššati šar [...]: 'great king, mighty king, king of the world', the titulary of the royal owner in a library colophon"}
+  - id: ane-gkab-p338429-dream-ritual-lump-of-earth
+    tradition: ane-akkadian
+    title: "Dream rituals (STT 1 107+): prayer to Ea against a frightening dream, told to a lump of earth dissolved in water"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338429"]
+    tags:
+      - {motif: divine-epithet-cluster, refs: ["GKAB P338429 o:4'-5'"], note: "Ea ... šamê u erṣeti bānû muṣṣiru usāti pāris purussê ša ilī: creator of heaven and earth, decider of the gods' decisions"}
+      - {motif: god-dispels-evil-dreams-and-portents, refs: ["GKAB P338429 o:6'-7'", "GKAB P338429 r:4-6"], note: "šutta āmuru palhāku adrākū-ma šutadurāku ... MAŠ₂.GE₆ HUL BUR₂: a ritual 'to release an evil dream'"}
+      - {motif: dream-transferred-to-clod-dissolved-in-water, refs: ["GKAB P338429 r:1-3"], note: "ina pānīka ana mê addû ina mê lippasis u lihharmiṭ ... kirbanni bal[ti] leqe šipta ... ana muhhi tamannu ina mê tanaddi: tell the dream to a clod (kirbānu) from the rubbish tip, throw it in water, 'may it be erased and dissolve'"}
+    hints:
+      - "Troubling dreams and their resolution: Gen 41:8, Dan 2:1-3, Job 7:14; evil cast into the waters: Mic 7:19 ('cast all their sins into the depths of the sea'), Exod 15:5."
+  - id: ane-gkab-p338442-shuila-shamash-fragment
+    tradition: ane-akkadian
+    title: "Šuʾila to Šamaš 1, small copy (STT 2 122)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["GKAB P338442"]
+    tags:
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["GKAB P338442 o:2'", "GKAB P338442 o:5'"], note: "nūru eddeššû ... Šamaš nūr šamê u erṣeti"}
+      - {motif: sun-god-judge-of-gods, refs: ["GKAB P338442 o:3'-4'"], note: "Šamaš muštēšir [mīti] u [balṭi] bār kal mimma"}
+  - id: ane-gkab-p338452-shuila-marduk
+    tradition: ane-akkadian
+    title: "Šuʾila to Marduk (STT 2 132): fragment with Zarpānītu's intercession and the libation rubric"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338452"]
+    tags:
+      - {motif: gods-vizier-and-consort-intercede, refs: ["GKAB P338452 b.e:2"], note: "Zarpānītu ina qātīya: the god's consort is asked to take the petitioner's hand"}
+      - {motif: sin-loosed-like-bond, refs: ["GKAB P338452 b.e:3"], note: "[...] rummê hiṭīti: slacken (release) my sin"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["GKAB P338452 r:1"], note: "[...] salim ittīya: be at peace with me"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["GKAB P338452 r:5-7"], note: "ŠU.IL₂.LA₂ {d}AMAR.UTU-KAM ... mahar Marduk tašakkan šikara rēštâ tanaqqi ... teslītsu šemât: libation of first-quality beer; 'his prayer is heard'"}
+  - id: ane-gkab-p338462-shurpu-4-fragment
+    tradition: ane-akkadian
+    title: "Šurpu IV, fragment (STT 2 142): wishes that evil be torn out and the fallen made well"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338462"]
+    tags:
+      - {motif: deity-changes-fates-raises-lowly, refs: ["GKAB P338462 side.a.frg.@surface.side.a:2'-6'"], note: "lissuhū ... lissû ... lišallamū ... maqtu ... lišir: may they tear out, remove, make well ... the fallen ... may it go right"}
+  - id: ane-gkab-p338492-udug-hul-namtar-and-substitute
+    tradition: ane-akkadian
+    title: "Udug-hul compendium (STT 2 173): Namtar and the evil messengers; Ea's remedy of a clay substitute figure taken to the steppe before Šamaš"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: "Sumerian-Akkadian bilingual"
+    read: ["GKAB P338492"]
+    tags:
+      - {motif: underworld-land-of-no-return, refs: ["GKAB P338492 1-2"], note: "Namtar utukku rabû ša qabri erṣeti lā târi = nam-tar udug gal irigal-la kur nu-gi₄-gi₄"}
+      - {motif: namtar-decrees-fates, refs: ["GKAB P338492 3-6", "GKAB P338492 33-34"], note: "Namtar lāsim ilī ... awīlu muttalliku ... alaktašu mamma ul īde; šīmti išīmšunūti: Namtar the runner of the gods, whose way no one knows; they fixed their fate"}
+      - {motif: hidden-illness-no-one-knows, refs: ["GKAB P338492 7-10"], note: "qereb murṣīšu mamma ul īde / imat murṣīšu ša lā naplusu: no one knows the inside of his illness, the poison of his illness that cannot be seen"}
+      - {motif: marduk-ea-incantation-dialogue, refs: ["GKAB P338492 o:6", "GKAB P338492 r:8", "GKAB P338492 13-14"], note: "Asarluhi igi im-ma-an-sig₁₀ ... niŋ₂ ŋa₂-e ŋen-na dumu-ŋu₁₀ 'Asalluhi saw it ... (what I know you know), go, my son'; āšipu bārû ša Ea"}
+      - {motif: bird-released-as-omen-east-or-west, refs: ["GKAB P338492 o:7", "GKAB P338492 17-20"], note: "iṣṣūr šamê summatu šamê muššir-ma / šumma ana ṣīt šamši ittapriš ana pān ereb šamši lā ittapriš: release the bird of heaven, the dove of heaven: if it flies to the sunrise and not to the sunset ..."}
+      - {motif: demons-as-evil-messengers-swarm-like-locusts, refs: ["GKAB P338492 31-42"], note: "mārū šipri lemnūte šunu ... ana māti tība iškunū ... kīma erbê māta imtalû ... awīla iṭhē-ma asakku marṣu ištakan: they are evil messengers, they attacked the land, filled it like locusts, approached a man and put the sick asakku on him"}
+      - {motif: sufferer-cannot-eat-or-drink, refs: ["GKAB P338492 43-48"], note: "tānēhi ekkal ... išatti ... imtaṭû: he eats moaning, drinks (tears), his ... dwindle"}
+      - {motif: substitute-figurine-bears-sin, refs: ["GKAB P338492 r:9", "GKAB P338492 51-56", "GKAB P338492 65-68"], note: "ṭiṭṭi apsî giriṣ-ma ṣalam dinānišu ša ṭiṭṭi bini-ma ... ṣalam pūhišu ... ina sūn marṣi mūšu šunil-ma ... ṣalamšu mahar Šamaš lū pūhušu lū dinānušu: pinch clay of the Apsû, make his substitute image, lay it at the sick man's loins overnight; before Šamaš it is his exchange"}
+      - {motif: effigy-taken-to-steppe-at-dawn-before-sun, refs: ["GKAB P338492 r:13", "GKAB P338492 58-61", "GKAB P338492 r:16-18"], note: "ina šēri ina namāri ... mahar Šamaš ana ṣēri šūṣīšu-ma ... naruqqa raksa idinšu-ma / ina išdi ašāgi šukun-ma / pānīšu ana ereb šamši šukun-ma: at dawn carry it out to the steppe, give it a tied leather bag (provisions), set it at the root of a thornbush facing sunset"}
+      - {motif: evil-demon-stands-aside-good-spirits-present, refs: ["GKAB P338492 t.e:1-3"], note: "udug hul a-la₂ hul bar-še₃ he₂-em-ta-gub / šedu₂ sag₁₀-ga lamma sag₁₀-ga he₂-en-sug₂-sug₂-ge-eš"}
+      - {motif: anointing-head-with-oil, refs: ["GKAB P338492 69-70"], note: "šamna ana qaqqadišu šupuk-ma"}
+    hints:
+      - "Substitute bearing the sick man's evil, sent off into the open country: Lev 16:10, 16:21-22 (goat for Azazel into the wilderness), Lev 14:4-7 (bird released over the open field); dove released to test: Gen 8:8-12."
+      - "Demons/plague as messengers of death, locust swarms: Ps 78:49 (band of evil angels), Joel 1-2, Prov 16:14; hidden poison of illness: Job 6:4."
+  - id: ane-gkab-p338499-ninurta-return-to-nippur
+    tradition: ane-akkadian
+    title: "Ninurta's Return to Nippur (An-gim), bilingual fragment (STT 2 180): Ninurta born of the mother goddess, praised for his strength"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    version: "Sumerian-Akkadian bilingual"
+    read: ["GKAB P338499"]
+    tags:
+      - {motif: mother-goddess-bore-all-the-gods, refs: ["GKAB P338499 2-3"], note: "[...] Nintur-e u₃-tu-ud-da = ša Bēlet-ilī uldūšu: whom Bēlet-ilī bore"}
+      - {motif: hero-god-reared-in-the-mountains, refs: ["GKAB P338499 4-5"], note: "hur-saŋ-ŋa₂ e₃-a = ša ina šadî irbû: who grew up in the mountain"}
+      - {motif: hymnic-call-to-praise-gods-strength, refs: ["GKAB P338499 6-15"], note: "mār Ellil ša ana emūqīšu taklu ... me-teš₂ ga-i-i = lunaʾʾid (twice) ... ana puggulātīka ... ana dannūtīka: son of Enlil trusting in his strength; let me praise, praise your might, your strength"}
+    hints:
+      - "Praise of the warrior God's might: Ps 21:14 ('be exalted, YHWH, in your strength; we will sing and praise your might'), Ps 24:8, Exod 15:2-3."
+  - id: ane-gkab-p338550-namburbi-ominous-entrails
+    tradition: ane-akkadian
+    title: "Namburbi against an ominous sacrifice (STT 2 231): when the slaughtered sheep does not bleed and its entrails are faulty"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338550"]
+    tags:
+      - {motif: hepatoscopy-liver-divination, refs: ["GKAB P338550 o:1-6"], note: "šumma nīqa naqī-ma ina nakās immeri dāmu lā uṣṣi ... martu halqat ... ubānu halqat ... kalītu halqat ... šīru watru ina libbi immeri šakin: the sheep does not bleed when cut; gall bladder, 'finger', kidney missing, extra flesh; that evil 'make it pass by me'"}
+      - {motif: god-dispels-evil-dreams-and-portents, refs: ["GKAB P338550 o:7-11", "GKAB P338550 o:31-37"], note: "bēlu rabû Marduk ilu rēmēnû ... lumun marti ša iššaknam-ma šīru lā pādû ešâku u dalhāku ... šūtiqanni-ma ana ahâti liššakin: let it pass me by, be put aside"}
+      - {motif: kiss-door-frame-of-temple, refs: ["GKAB P338550 o:12-13"], note: "ul šukênu ana bīti iššir-ma sippi bītišu inaššiq: he does not prostrate but goes straight to the house and kisses the door frame of its (Marduk's) house"}
+      - {motif: penitent-dressed-as-mourner-or-captive, refs: ["GKAB P338550 o:13-19"], note: "barley-grain and silver on his head, a paršīgu headdress, his jaw bound, bronze rings on fingers and toes, tin rings on hands and feet, a lead belt round his hips, the left eye smeared, a sandal on the left foot only, plaster scraped from his house wall put on his head"}
+      - {motif: seven-fold-ritual-action, refs: ["GKAB P338550 o:20", "GKAB P338550 o:25", "GKAB P338550 o:29"], note: "7-šu ana imitti ašar bītišu ilawwī ... 7-šu ana šumēli: he circles the site of his house seven times to the right and seven to the left"}
+      - {motif: house-exchanged-evil-handed-back, refs: ["GKAB P338550 o:26-28"], note: "bītī unakkar lumnūya lumnūka anassah šīru lemnu ... ša iškunūni ilī u ištarī: I change my house; my evils are your evils; I tear out the evil flesh my god and goddess placed"}
+      - {motif: gods-of-night-invoked-against-witch, refs: ["GKAB P338550 o:29-34", "GKAB P338550 r:8'-11'"], note: "at the crossroads, censer: attunu ilū rabûtu ša mušīti ša Anu u Ellil ibnûkunūši tapassasā ittāti lemnēti ... ilū rabûtu alsīkunūši ina mūši izizzānim-ma: great gods of the night created by Anu and Enlil, who erase evil signs"}
+      - {motif: evil-sent-beyond-river-and-mountain, refs: ["GKAB P338550 r:12'-13'", "GKAB P338550 r:24'-25'"], note: "libir nāra libbalkit šadâ lissi 3600 bēru ina zumrīya / kīma qutri lītelli šamê kīma bīni nashi ana ašrišu ai itūr: may it cross the river, cross the mountain, be 3600 double-hours from my body; rise like smoke to heaven; like an uprooted tamarisk not return to its place"}
+      - {motif: wicked-vanish-like-smoke, refs: ["GKAB P338550 r:13'", "GKAB P338550 r:24'"], note: "kīma qutri lītelli šamê"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["GKAB P338550 r:16'-23'"], note: "Šamaš unnīnīya leqe albin appa šūtiqanni-ma šime qabâya: Šamaš accept my supplication, I have stroked my nose (in humility)"}
+      - {motif: do-not-look-back, refs: ["GKAB P338550 r:26'"], note: "annâm iqabbī-ma ana arkišu ul ippallas: he says this and does not look behind him"}
+      - {motif: evil-transferred-to-outsider-woman, refs: ["GKAB P338550 r:28'-30'"], note: "6 qa of barley given to the brewer's house; first-quality beer given ana sinništi ahīti: to a strange woman"}
+    hints:
+      - "Do not look back when leaving evil behind: Gen 19:17,26; evil removed as far as east from west: Ps 103:12; sins cast into the sea Mic 7:19."
+      - "Penitent in mourning garb with dust on the head: 2 Sam 15:30, Jonah 3:6-8, Esth 4:1; the sevenfold circuit: Josh 6:15-16; kissing the threshold/doorpost: compare Deut 6:9 (mezuzah) and 1 Kgs 19:18 (kissing an image)."
+      - "Entrails omens: Ezek 21:26 (the king of Babylon looks at the liver)."
+  - id: ane-gkab-p338554-namburbi-hole-birds
+    tradition: ane-akkadian
+    title: "Namburbi against 'hole-birds' that land on a man (STT 2 235)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338554"]
+    tags:
+      - {motif: bird-omen-alighting-on-man, refs: ["GKAB P338554 o:1-4"], note: "iṣṣūr hurri iṣṣūr hurri eli awīli izzizzū ... ina muhhi awīli innendū: the evil of hole-birds that stood or alighted on a man"}
+      - {motif: body-wiped-with-dough-to-remove-evil, refs: ["GKAB P338554 o:6-9"], note: "zikara u sinništa taṣabbat qēma isqūqa ana mê ... zumur awīli tukappar: you catch a male and a female bird; you wipe the man's body with flour dough; he lifts the birds, the male in his right hand"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["GKAB P338554 o:10-12"], note: "šiptu Šamaš šar šamê ... rēʾû ṣalmat qaqqadi mušnammir šamê"}
+    hints:
+      - "Two birds, cleansing of a person, release over the field: Lev 14:4-7, 14:49-53."
+  - id: ane-gkab-p338555-namburbi-birds-bilingual
+    tradition: ane-akkadian
+    title: "Namburbi against the hole-birds, bilingual (STT 2 236): praise for release, a Sumerian incantation, and the birds released east and west"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Akkadian prayer with Sumerian incantation"
+    read: ["GKAB P338555"]
+    tags:
+      - {motif: save-me-that-i-may-praise-you, refs: ["GKAB P338555 o:2'-4'"], note: "lā enû luballuṭ lušlim-ma narbîka lušāpi dalīlīka ludlul: let me live and be well, that I may proclaim your greatness and sing your praise"}
+      - {motif: two-birds-one-killed-one-released, refs: ["GKAB P338555 o:5'-6'", "GKAB P338555 r:13-17"], note: "zikara ana ṣīt šamši sinništa ana ereb šamši tumaššar ... ina rēš iṣṣūr hurri ... tušaparraš ... Ea ipšur ... šamê tušaparraš: the male bird released toward sunrise, the female toward sunset; the birds are made to fly off over his head to heaven"}
+      - {motif: unknowing-sin-of-humanity, refs: ["GKAB P338555 o:12'-16'"], note: "inim diŋir-re-e-ne hul-a nam-lu₂-lu₇ ... niŋ₂-ak-a nu-mu-un-zu-a ... a bal nam-tag-ga-a-ni nu-mu-un-teŋ₃-a-gin₇: the evil word of the gods on humanity, the deed it does not know, like a libation (by which) his sin does not approach"}
+      - {motif: clay-images-of-portent-made, refs: ["GKAB P338555 r:3-4"], note: "tamšīl iṣṣūr hurri ... ṭiṭṭa teppuš haṣbi sūqi erbetti: you make clay images of the birds; a sherd from the crossroads"}
+      - {motif: immersion-three-times-in-river, refs: ["GKAB P338555 r:5-7"], note: "ina pān Šamaš šipta 3-šu tušadbabšu 3-šu ina mê iṭebbū-ma šaman šurmēni ina zumrišu tapaššassu: he recites three times and sinks three times in the water; anointed with cypress oil"}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["GKAB P338555 o:17'"], note: "inim Enki Asarluhi"}
+    hints:
+      - "Bird released alive to carry impurity away: Lev 14:7, 14:53; washing in the river: 2 Kgs 5:10-14 (Naaman dips seven times)."
+      - "Sin committed unknowingly: Lev 4:2,13; Lev 5:17-18; Ps 19:13."
+  - id: ane-gkab-p338557-bed-wetting-ninmah
+    tradition: ane-akkadian
+    title: "Ritual against bed-wetting, 'hand of Ninmah' (STT 2 238)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338557"]
+    tags:
+      - {motif: illness-as-hand-of-a-god, refs: ["GKAB P338557 o:1"], note: "awīlu ina mayyālišu šīnāti ištin qāt Ninmah: if a man urinates in bed, it is the hand of Ninmah"}
+      - {motif: mother-goddess-creator-of-heaven-and-earth, refs: ["GKAB P338557 o:5"], note: "Ninmah bānât šamê u erṣeti bēlet ilī attī"}
+      - {motif: deity-asked-to-turn-face-back, refs: ["GKAB P338557 o:6-7", "GKAB P338557 r:3-4"], note: "Ninmah salīma šuknī Ninmah napširī yâši Ninmah suhhirī pānīki (7 times): grant reconciliation, release me, turn your face back"}
+      - {motif: merciful-mother-goddess, refs: ["GKAB P338557 r:1-2"], note: "Ninmah ummu rēmēnītu ... rēma rašât: merciful mother, who has compassion (rēmu, also 'womb')"}
+      - {motif: seven-fold-ritual-action, refs: ["GKAB P338557 o:7"]}
+    hints:
+      - "God's face turned away and back: Ps 13:2, Ps 27:9, Num 6:25-26; God's compassion like a mother's (rḥm/womb): Isa 49:15, Isa 66:13."
+  - id: ane-gkab-p338564-dream-ritual-clod
+    tradition: ane-akkadian
+    title: "Dream ritual (STT 2 245): 'Clod, clod!' the evil dream of the three night watches transferred to a lump of salt or clay"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338564"]
+    tags:
+      - {motif: dream-transferred-to-clod-dissolved-in-water, refs: ["GKAB P338564 o:1-4", "GKAB P338564 r:7'-10'"], note: "kirbān kirbān ina kerṣīka gariṣ ramānī ina kerṣīya gariṣ ramānka ... lumun šutti: clod, from your piece my self is pinched; from mine yours; ... a clod of salt or clay, recite three times, throw into water: the dream's evil will not approach"}
+      - {motif: three-night-watches-personified, refs: ["GKAB P338564 o:5-6"], note: "barārītu qablītu šāt urri: the evening, middle and morning watch: whatever I saw"}
+      - {motif: dead-parents-seen-in-dream, refs: ["GKAB P338564 o:7"], note: "abī mīta āmuru ummī mīta āmuru: I saw my dead father, I saw my dead mother"}
+      - {motif: bad-dream-made-favourable, refs: ["GKAB P338564 r:4'-6'"], note: "āmuru lū damqat ... lū kīnat ... ana damiqti tirra: what I saw, let it be good, let it be true, turn it to good"}
+    hints:
+      - "Dreams by night watches: Ps 63:7, Lam 2:19; the dead appearing (Samuel to Saul): 1 Sam 28:11-15; dream turned to good: Gen 50:20 (evil meant, God meant for good)."
+  - id: ane-gkab-p338578-namburbi-dog
+    tradition: ane-akkadian
+    title: "Namburbi against the evil of a dog (that lay) on a bed (STT 2 259)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338578"]
+    tags:
+      - {motif: dog-omen-in-house, refs: ["GKAB P338578 o:3'-5'"], note: "kalbu ša ina erši ... lumun kalbi šuāti ... ina muhhi tīli: a dog (that lay) on the bed; that evil (taken) to a ruin mound"}
+      - {motif: offering-table-of-bread-dates-honey-ghee, refs: ["GKAB P338578 r:1-3"], note: "akal kunāši tarakkas ... mersa dišpa himēta ... nignakka burāši šikara"}
+  - id: ane-gkab-p338598-oi-shaziga-amulets
+    tradition: ane-akkadian
+    title: "Ša-zi-ga potency texts (STT 2 280 obv. i): amulets and potions for a man whose 'heart does not rise', bewitched with the dead"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338598 o.i"]
+    tags:
+      - {motif: impotence-from-sorcery-with-the-dead, refs: ["GKAB P338598 o.i:11-13", "GKAB P338598 o.i:22-25"], note: "libbašu ana sinništi hašhi ... rihûssu ... šunūlat išaršu ... kašip-ma šīrūšu tabkū ... rihûssu itti mīti ina qaqqari šunūlat: his semen (or potency) has been laid in the ground with a dead man; his flesh is 'poured out'; his semen flows in bed 'like a woman's'"}
+      - {motif: amulet-pouch-hung-on-neck, refs: ["GKAB P338598 o.i:4-6", "GKAB P338598 o.i:20-21", "GKAB P338598 o.i:39-54"], note: "ina mašku ... ina kišādišu tašakkan: plants, stones and animal parts in a leather pouch hung on his neck; a long list of 'ditto' recipes"}
+      - {motif: sympathetic-animal-ingredients-for-virility, refs: ["GKAB P338598 o.i:19", "GKAB P338598 o.i:51", "GKAB P338598 o.i:53"], note: "zappi šahî ša ana rakābi tebû ... rikibti ayyali qarni ayyali ... dām iṣṣūr hurri zikari: bristle of a boar aroused to mount, 'copulation' of a stag, stag's horn, blood of a male hole-bird"}
+      - {motif: plant-from-grave-used-in-magic, refs: ["GKAB P338598 o.i:27"], note: "šuršu baltu ša eli kimahhi: root of a thorn growing on a grave"}
+    hints:
+      - "Love-apples / mandrakes and fertility: Gen 30:14-16, Song 7:14; the curse of impotence or closed womb: Gen 20:17-18."
+  - id: ane-gkab-p338598-oii-shaziga-ishtar-dumuzi
+    tradition: ane-akkadian
+    title: "Ša-zi-ga (STT 2 280 obv. ii): wrath of Marduk and Ištar; 'as Ištar did for Dumuzi, Nanāya for her husband'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338598 o.ii"]
+    tags:
+      - {motif: divine-wrath-causes-illness, refs: ["GKAB P338598 o.ii:1-2", "GKAB P338598 o.ii:25-27"], note: "awīlu šū kimilti Marduk u Ištar eli bašû: the man's impotence is the anger of Marduk and Ištar upon him"}
+      - {motif: divine-love-precedent-in-charm, refs: ["GKAB P338598 o.ii:10-17"], note: "šiptu nīš libbi ... ša Ištar ana Dumuzi ēpuš / ša Nanāya ana hāwirīša ēpuš / ša Išhara ana Almanu ... annanna mār annanna lihmû šīrūšu lizaqqip / ai inah libbašu mūša urra: what Ištar did for Dumuzi, Nanāya for her husband, Išhara for Almanu, may so-and-so's flesh be inflamed and stand erect, may his heart not rest night or day"}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["GKAB P338598 o.ii:14"], note: "annanna mār annanna"}
+      - {motif: seven-fold-ritual-action, refs: ["GKAB P338598 o.ii:34", "GKAB P338598 o.ii:60"], note: "7 abnū nīš libbi ... šipta annīta 7-šu ana muhhi tamannu"}
+      - {motif: copy-broken-original-noted, refs: ["GKAB P338598 o.ii:50-60"], note: "hi-pi₂ 'broken': the scribe repeatedly marks gaps in the tablet he copied"}
+      - {motif: offering-to-ishtar-of-the-stars, refs: ["GKAB P338598 o.ii:63"], note: "[ana] Ištar kakkabī nīqa teppuš nignak burāši"}
+    hints:
+      - "Love charms and desire: Song 2:5, Song 8:6; Dumuzi/Tammuz and Ištar as divine lovers: Ezek 8:14."
+  - id: ane-gkab-p338598-ri-shaziga-nanaya
+    tradition: ane-akkadian
+    title: "Ša-zi-ga (STT 2 280 rev. i): prayer to Nanāya against figurines buried in the ground; 'may he spread like a donkey'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338598 r.i"]
+    tags:
+      - {motif: divine-epithet-cluster, refs: ["GKAB P338598 r.i:7-10"], note: "Nanāya bēlet ilī muttellet ilī bēlet šamê mumaʾʾerat kala ... kitmusū naphar bēlī"}
+      - {motif: witch-makes-victims-figurine, refs: ["GKAB P338598 r.i:11-12"], note: "anāku annanna mār annanna aktamis mahrīki ša kišpī epšūnini ina qaqqari šunūlū ṣalmūa: I knelt before you; I against whom sorcery was done, my figurines laid in the ground"}
+      - {motif: sufferer-purified-like-gold-and-bronze, refs: ["GKAB P338598 r.i:13-15"], note: "kīma uqnî lubib kīma gišnugalli lunammir kīma hurāṣi ruššî: like lapis may I be bright, like alabaster shine, like red gold"}
+      - {motif: aromatic-plants-sent-against-witch, refs: ["GKAB P338598 r.i:16-17"], note: "šammū šadî liṭrudū ruhêa: may the mountain plants drive away my sorcery"}
+      - {motif: virility-likened-to-donkey-and-stag, refs: ["GKAB P338598 r.i:27-28", "GKAB P338598 r.i:47-49"], note: "šū limgug kīma imēri ... kīma ērib hurri: may he be stiff like a donkey; stag's umbilical cord, horn and 'copulation' rubbed with salt on the penis"}
+      - {motif: knots-tied-in-coloured-wool, refs: ["GKAB P338598 r.i:39-42"], note: "šīpāti peṣâti šīpāti sāmāti ... 7 u 7 kiṣrī tarakkas: white and red wool spun, seven and seven knots tied"}
+      - {motif: male-and-female-figurines-anointed, refs: ["GKAB P338598 r.i:44-46"], note: "epri kimahhi ... ṣalam zikari u sinništi tapaššassunūti: dust from a grave; male and female figurines anointed with oil"}
+    hints:
+      - "Figurines and sympathetic magic: compare 1 Sam 6:4-5 (golden images of tumours and mice); purified like gold and silver: Mal 3:3, Job 23:10."
+  - id: ane-gkab-p338598-rii-shaziga-wind-garden
+    tradition: ane-akkadian
+    title: "Ša-zi-ga (STT 2 280 rev. ii): 'Let the wind blow, the garden sway, the clouds gather': potency like river water"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P338598 r.ii"]
+    tags:
+      - {motif: wind-garden-rain-image-of-desire, refs: ["GKAB P338598 r.ii:37-39"], note: "lillik šāru linūš kirû liktaṣṣir urpatu tīku littuk nīš libbīya lū mê nāri ālikūti ... sammû lā urradda: let the wind blow, the orchard sway, the clouds gather, the drops fall; may my desire be flowing river water; let the lyre not come down"}
+      - {motif: divine-love-precedent-in-charm, refs: ["GKAB P338598 r.ii:12-14"], note: "Ištar ... lipšurka Gazbaba Kanisura ana libbi ... puhāli: may Ištar, Gazbaba and Kanisurra release you ... (like) a ram"}
+      - {motif: insatiable-lover-formula, refs: ["GKAB P338598 r.ii:19"], note: "lā tašebbâ lalâša: you will not be sated with her charms"}
+      - {motif: copy-broken-original-noted, refs: ["GKAB P338598 r.ii:8-18"]}
+      - {motif: seven-fold-ritual-action, refs: ["GKAB P338598 r.ii:31", "GKAB P338598 r.ii:35"]}
+    hints:
+      - "'Awake north wind, blow on my garden that its spices flow': Song 4:16; love as flowing water Song 4:12-15; 'sated with her charms' Prov 5:19."
+  - id: ane-gkab-p338675-tammuz-elegies
+    tradition: ane-akkadian
+    title: "Elegies on the death of Tammuz (STT 2 360): the Babylonian merchant, the killed shepherd, farmer and gardener, the tall tree cut down"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Neo-Assyrian / Neo-Babylonian lyric laments"
+    read: ["GKAB P338675"]
+    tags:
+      - {motif: lament-refrain-repeated, refs: ["GKAB P338675 o:1-6"], note: "muppišu tamkāru Bābilāyu ša pâ iddinu usarrihā imērīšu / kalbu idūkū qanni ṣēnīni: the Babylonian merchant who gave his word destroyed his donkeys; the dog killed (at) the edge of our flock - repeated as a couplet"}
+      - {motif: shepherd-farmer-gardener-killed, refs: ["GKAB P338675 o:17-21"], note: "rēʾû ina muhhi ṣēni dīk ikkaru ina muhhi epinni / nukaribbu ina kirî dīk ... šandabakku dīk ina muhhi mānahtišu / bakkânî ṣarpiš ana nukaribbi nibki"}
+      - {motif: weeping-at-evening-entry, refs: ["GKAB P338675 o:10", "GKAB P338675 o:15"], note: "ikkil ... ana erēb bādi ... ina ūmi 10 ana bīt ili bādi utterūšu"}
+      - {motif: lament-for-fruit-and-wine-of-dead-gardener, refs: ["GKAB P338675 o:22-23"], note: "ša nīnu ina gummurti libbīni nīkulā inbu / ina libbi ishunnāti ina karāni ušaddilni: we who ate the fruit with all our heart; in the grapes, in the wine, he made us praise"}
+      - {motif: mother-seeks-son-where-are-your-feet, refs: ["GKAB P338675 o:24-27"], note: "ayyakama ina šēpīki ēdu utterū ... mārī ina šēpīya ēdu utterūka: where (did they turn) on your feet alone; my son, alone they turned you back on my feet"}
+      - {motif: tree-taller-than-others-cut-down, refs: ["GKAB P338675 r:14-21"], note: "anāku ina kirîni kī iṣi damqi elâku / elâku kī lammê elâku kī ašūhi ... ēmurānī ihaddî abūa ... ūma ittaksūni ... ēmurānī ibakkî abūa: I stood high in our garden like a fine tree, like a lammu, like a pine; my father saw me and rejoiced; today they have cut me down; my father sees me and weeps"}
+      - {motif: daughter-of-humbaba-cedar-forest, refs: ["GKAB P338675 r:24"], note: "mārat Humbaba kittî dannat qišti erēni"}
+      - {motif: bird-nest-in-city-lament, refs: ["GKAB P338675 r:5-8"], note: "iṣṣurtu ša ... iṣṣūrāte ša itti-šina ušabbitni / ammate ina birti ālīki qinnī iqṭunāni: the birds that fled with her; they made their nest in your city"}
+      - {motif: father-killed-house-broken, refs: ["GKAB P338675 r:25-28"], note: "bītsa ihpû ... hāwiru ša lalêya ... abūa dīk: her house broken, the husband of my delight ... my father killed"}
+    hints:
+      - "Women weeping for Tammuz: Ezek 8:14; the cedar cut down: Ezek 31:3-18, Isa 10:33-34, Dan 4:10-14; the slain shepherd: Zech 13:7; lament for vineyard and harvest: Isa 16:8-10, Jer 48:32-33."
+      - "Father who rejoiced now weeps over the son: 2 Sam 18:33, Gen 37:34-35."
