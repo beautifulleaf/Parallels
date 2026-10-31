@@ -267,7 +267,7 @@ reviewed:
         record:
           object: ["a malicious wife and a malicious son", "some of your wives and children"]
           quoted: ["dam nu-ĝar-ra e2-a til3-la a2-sag3-a2-sag3-a dirig-ga", "inna min azwājikum wa awlādikum ʿaduwwan lakum fa-ḥdharūhum"]
-          outcome: ["the worst of all afflictions", "beware of them", "but pardon"]
+          outcome: ["the worst of all afflictions", "beware of them, but pardon"]
         note: "'A malicious wife living in the house is the worst of all afflictions', with 'when I married a malicious husband, when I bore a malicious son'; 'among your wives and your children is an enemy to you, so beware of them; and if you pardon ... God is forgiving'. The Quran adds the call to pardon."
   - unit: ane-etcsl-6-1-15-ab-well-wisher-and-enlil
     checked: [quran-11-noah, quran-89-dawn, quran-47-muhammad-battle-and-rivers]
@@ -614,7 +614,7 @@ reviewed:
         with_refs: ["47:15"]
         relation: divergence
         record:
-          object: ["the river of the nether world", "rivers of water not stale (and of milk", "wine and honey)"]
+          object: ["the river of the nether world", "rivers of water not stale (and of milk, wine and honey)"]
           quoted: ["id2-kur-ra-ke4 a nu-de2 a-bi nu-mu-un-na-na8-na8", "anhārun min māʾin ghayri āsin ... wa suqū māʾan ḥamīman"]
           outcome: ["gives no water to drink", "flows for the pious while the damned are given boiling water"]
         note: "One river of the dead that pours no water, against the Garden's rivers of unspoiled water, unchanging milk, wine and pure honey, with the fire's people made to drink scalding water that cuts their bowels."
@@ -729,7 +729,7 @@ reviewed:
         with_refs: ["44:25", "44:26", "44:27", "44:28"]
         relation: echo
         record:
-          object: ["silver", "gems and stores", "gardens", "springs", "fields and a noble place"]
+          object: ["silver, gems and stores", "gardens, springs, fields and a noble place"]
           recipient: ["those who never knew silver", "another people (qawman ākharīn)"]
           quoted: ["kug-ŋu10 lu2 kug nu-zu-u3-ne šu-bi ha-ba-da-ab-si", "wa awrathnāhā qawman ākharīn"]
         note: "The ruined city's goods are scattered and seized by others; Pharaoh's people leave their gardens and springs and 'We made another people inherit them'. Spoken by the dispossessed goddess against spoken by God."
