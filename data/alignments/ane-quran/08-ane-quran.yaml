@@ -741,7 +741,7 @@ reviewed:
           outcome: ["do not eat", "eat"]
         note: "Both advisers present themselves as the trustworthy counsellor. Ea: ṭēma ša aškunūka lā temekki 'do not neglect the instruction I give you', 'food of death, do not eat'. Satan swears innī lakumā la-mina n-nāṣiḥīn 'I am a sincere adviser to you' and says the tree was forbidden only lest they become angels or among al-khālidīn. The advice runs in opposite directions."
   - unit: ane-adapa-mb-b-before-anu
-    checked: [quran-20-adam-iblis, quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-39-death-and-sleep, quran-7-adam-iblis]
+    checked: [quran-20-adam-iblis, quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-39-death-and-sleep, quran-7-adam-iblis, quran-2-adam-iblis]
     matches:
       - with: quran-20-adam-iblis
         motif: counsel-about-the-food-of-immortality
@@ -791,6 +791,18 @@ reviewed:
           quoted: ["ea bēlī iqbâ lā takkal lā tašatti", "wa-la-qad ʿahidnā ilā ādama min qablu fa-nasiya wa-lam najid lahu ʿazmā"]
           outcome: ["does not eat", "eats"]
         note: "Adapa remembers and cites the instruction 'Ea my lord told me: you must not eat, you must not drink' (cf. MB 37'-38' lū ṣabtāta 'hold fast'); Adam 'forgot' the covenant (fa-nasiya) and 'we found no resolve in him'."
+      - with: quran-2-adam-iblis
+        motif: knowledge-of-heaven-and-earth-given-to-a-human
+        refs: ["Adapa MB –:65'", "Adapa MB –:66'", "Adapa MB –:67'"]
+        with_refs: ["2:30", "2:31", "2:33"]
+        relation: divergence
+        record:
+          agent: ["Anu", "the angels"]
+          action: ["objects that a god has disclosed heaven and earth to a human", "object to placing a vicegerent on earth"]
+          recipient: ["Adapa", "Ādam"]
+          quoted: ["ammīni ea amīlūta lā banīta ša šamê u erṣeti ukellinši", "a-tajʿalu fīhā man yufsidu fīhā ... innī aʿlamu ghayba s-samāwāti wa-l-arḍ"]
+          outcome: ["Anu offers the food of life", "God teaches Adam the names and silences the angels"]
+        note: "A higher divine voice questions the human's privilege: Anu 'why did Ea disclose to a worthless (lā banīta) human what belongs to heaven and earth?'; the angels 'will you place on it one who will corrupt it and shed blood?' Then the knowledge is shown: Adam is taught the names and God says 'I know the unseen of the heavens and the earth (ghayb al-samāwāt wa-l-arḍ)'. In Adapa the objector is the high god and the human was taught by a lesser one; in 2:30-33 the objectors are the angels and the teacher is God."
   - unit: ane-adapa-sb-a-sage
     checked: [quran-18-moses-and-the-servant, quran-11-opening-throne-on-water, quran-68-qalam-shin-and-jonah, quran-2-adam-iblis]
     matches:
