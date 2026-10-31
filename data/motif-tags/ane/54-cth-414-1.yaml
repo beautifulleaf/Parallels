@@ -44,6 +44,40 @@ new_motifs:
   omen-observed-in-blood-cup-and-hearth: {label: "At dawn the expert and the physician inspect the blood-filled cup and the hearth and report whatever sign appears to king and queen", cluster: divination}
   pain-taken-from-throne-bed-heart: {label: "Pain, woe and constraint are taken from the royal couple's throne, bed, heart and limbs and handed to the Sun of heaven and Sun of the earth", cluster: ritual}
   figurines-inscribed-with-enemys-name: {label: "Ritual experts make figurines (of cedar and of clay) and put on them the name of the king's enemy", cluster: ritual}
+  gods-consulted-before-building: {label: "Before a palace is built the Sun god and the Storm god are consulted (by oracle) about it", cluster: building}
+  king-pours-tin-and-iron-into-heart: {label: "The king Labarna comes and pours tin and iron into the heart of the timbers (to make them firm)", cluster: ritual}
+  throne-told-to-protect-mountain: {label: "The king and throne-goddess go to the mountain together, eat zapzaki, and the throne is told to protect the mountain", cluster: kingship}
+  neighbours-keep-to-own-house: {label: "Mutual avoidance formula: 'Do not come into my house, and I will not come into yours'", cluster: ritual}
+  king-praises-storm-god-as-father: {label: "The king praises the Storm god as 'my father'", cluster: kingship}
+  weaving-women-appease-king: {label: "Skilled weaving women and weavers receive figs and raisins and are told to appease the king, his eyes, and take his ills away", cluster: ritual}
+  foundation-deposit-under-hearth: {label: "Fat, honey, cheese, white and black wool, malt, nuts, raisins, salt and sprigs are laid under the new hearth", cluster: building}
+  replicas-handled-in-royal-ritual: {label: "Replicas or effigies (ḫimma-) are handled in a royal ritual and someone bows", cluster: ritual}
+  women-singers-in-cult: {label: "Groups of cultic women (zintuḫi-women) sit to right and left in a festival", cluster: cult}
+  lambs-presented-to-king-and-queen: {label: "Lambs are brought out of the capital and one handed to the king and one to the queen", cluster: cult}
+  silver-and-gold-placed-in-pit: {label: "Silver and gold are put into the ritual pit or vessel at the site of a building", cluster: building}
+  libation-poured-three-times: {label: "The officiant libates three times before pouring oil or speaking", cluster: cult}
+  drinking-to-altar-throne-table-hearth: {label: "The officiant 'drinks' (toasts) the altar, the place, the throne, the offering table, the censer and the brazier", cluster: cult}
+  offerings-quench-thirst-of-place: {label: "The ritual place is told it has received offerings of command and has had its thirst quenched and been anointed with oil", cluster: building}
+  offering-table-for-ea-at-pillar: {label: "A wooden offering table for Ea is set before the central pillar with bread, cedar and libations", cluster: building}
+  statues-smeared-with-sacrificial-blood: {label: "A sheep is sacrificed and its blood smeared on the statues (and other ritual objects)", cluster: cult}
+  drinking-the-god-seated: {label: "The officiant, seated, 'drinks' named gods a set number of times, breaking a bread for each", cluster: cult}
+  statues-become-gods-of-place: {label: "The deposited statues become the gods of the building (or place)", cluster: building}
+  foundation-laid-on-levelled-ground: {label: "The site is levelled and the foundation stones are poured", cluster: building}
+  iron-and-copper-heaven-in-basin: {label: "A basin holds a 'heaven' of iron and one of copper with nine nails", cluster: ritual}
+  drink-called-blood: {label: "Clay cups filled with a liquid (tarlipa-) are carried in and called 'blood'", cluster: ritual}
+  clay-army-on-bread-carries-evil: {label: "A clay army set on a bread, with a bronze dagger on it, is waved over or spat on by the royal couple and then buried", cluster: ritual}
+  plea-for-mercy-to-gods-after-removal: {label: "After removing the royal couple's evil the expert sacrifices and asks the gods for mercy and protection", cluster: ritual}
+  ritual-meal-after-rite: {label: "The participants eat and drink at the end of the rite", cluster: cult}
+  eagle-as-substitute-for-royal-couple: {label: "An eagle is presented to the Sun goddess and Storm god (as the royal couple's substitute) while king and queen hold sickle and millstone", cluster: ritual}
+  cups-for-throne-and-hearth: {label: "Cups are given to the king, the queen, the throne and the hearth", cluster: cult}
+  spears-clashed-three-times: {label: "Two palace attendants clash bronze spears together three times", cluster: ritual}
+  figurine-told-to-take-pain: {label: "The expert tells the clay figurine to take the pain, woe and constraint of king and queen", cluster: ritual}
+  deaf-man-assists-ritual: {label: "A deaf man assists the ritual expert", cluster: ritual}
+  barley-and-wheat-heads-tied-at-feet: {label: "Bound heads of barley and wheat are set in a covered basket over the royal heads and at their feet, so that no one sees", cluster: ritual}
+  women-ritual-experts-named: {label: "A ritual is attributed to named women experts who speak in the first person", cluster: ritual}
+  silver-sun-discs-in-ritual: {label: "Silver sun discs are used in a ritual against enemies", cluster: ritual}
+  gods-reproach-oath-breakers: {label: "Speakers address those who keep breaking the oaths and announce they will go against the enemy troops", cluster: treaty}
+  rite-performed-in-enemy-field: {label: "Ritual actions are performed in the enemy's cultivated field", cluster: ritual}
 units:
   - id: ane-cth-414-1-1-plaster-long-years
     tradition: ane-hittite
@@ -54,7 +88,7 @@ units:
     read: ["CTH 414.1 §1:1-§2:10"]
     tags:
       - {motif: house-plastered-with-long-years-and-awe, refs: ["CTH 414.1 §2:6-10"], note: "MU.KAM{ḪI.A} GÍD.DA [ḫa-a-ni-iš]; na-aḫ-ša-ra-at-ta-an ḫa-a-ni-iš; restored in part from §39-40"}
-      - {motif: divine-sanction-for-building, refs: ["CTH 414.1 §1:4-5"], note: "partly restored: [ku-it É.GA]L! ú-e-da-a-ši ... {D}]IM-an-na a-a-ra-i-e-er, 'concerning the palace you build they asked the Sun god and the Storm god'"}
+      - {motif: gods-consulted-before-building, refs: ["CTH 414.1 §1:4-5"], note: "partly restored: [ku-it É.GA]L! ú-e-da-a-ši ... {D}]IM-an-na a-a-ra-i-e-er, 'concerning the palace you build they asked the Sun god and the Storm god'"}
     hints:
       - "Building as a sacred act sanctioned by God: compare Q 2:127 (Abraham and Ishmael raise the House's foundations, praying 'accept it from us') and Q 9:108-109 (a building founded on piety versus one on a crumbling bank); HB Ps 127:1 ('unless YHWH builds the house')."
 
@@ -73,7 +107,7 @@ units:
       - {motif: trees-grown-under-heaven-claimed-for-palace, refs: ["CTH 414.1 §8:31-§10:40"], note: "UR.MAḪ-aš kat-ta-an še-eš-ki-it, UG.TUR ... ḫar-tág-ga-aš (bear) climbed you; the storm god 'put evil to you'"}
       - {motif: timbers-asked-to-reveal-hidden-evil, refs: ["CTH 414.1 §13:53-§14:63"], note: "ku-it-ma-aš-<ma-aš>-kán kar-di-eš-mi! an-da na-at uš-ši-it-tén; ḫur-ta-aš 'curse'; illness of the Sun god"}
       - {motif: king-pours-tin-and-iron-into-heart, refs: ["CTH 414.1 §14:64-65"], note: "kar-di-iš-mi AN.NA AN.BAR-ya; the verb is broken"}
-      - {motif: mountain-guarded-by-god, refs: ["CTH 414.1 §4:17-20"], note: "loose: the throne is told zi-ik ḪUR.SAG-an-da-an pa-aḫ-ḫa-aš-ša-nu-ut 'protect the mountain'"}
+      - {motif: throne-told-to-protect-mountain, refs: ["CTH 414.1 §4:17-20"], note: "loose: the throne is told zi-ik ḪUR.SAG-an-da-an pa-aḫ-ḫa-aš-ša-nu-ut 'protect the mountain'"}
       - {motif: neighbours-keep-to-own-house, refs: ["CTH 414.1 §5:23-24"], note: "zi-ik am-me-el É-na le-e ú-wa-ši ú-ga tu-e-el pár-na Ú-UL ú-wa-a-mi"}
       - {motif: king-praises-storm-god-as-father, refs: ["CTH 414.1 §8:30"], note: "ad-da-aš-ma-an {D}U-an wa-al-lu-uš-ki-mi"}
     hints:
@@ -141,7 +175,7 @@ units:
     tags:
       - {motif: vine-roots-below-shoots-above-blessing, refs: ["CTH 414.2 §4:7-§5:11"], note: "{GIŠ}GEŠTIN-wa! ma-aḫ-ḫa-an kat-ta šur-x[...]; long years, [health] (ḫa-ad-du-la-an-ni-it) restored"}
       - {motif: simile-curse-just-as-so-may, refs: ["CTH 414.2 §2:2-§3:6"], note: "positive analogy, thigh standing arlipa; LUGAL-ya MUNUS.LUGAL QA-TAM-MA a[r-li-pa]"}
-      - {motif: royal-effigies-in-ritual, refs: ["CTH 414.2 §6:12-§7:16"], note: "ki-i ḫi-im-mi-i[š], ku-u-uš ḫi-im-mu-uš 'these replicas'; {d}UTU-ŠI 'My Sun' named; context broken"}
+      - {motif: replicas-handled-in-royal-ritual, refs: ["CTH 414.2 §6:12-§7:16"], note: "ki-i ḫi-im-mi-i[š], ku-u-uš ḫi-im-mu-uš 'these replicas'; {d}UTU-ŠI 'My Sun' named; context broken"}
       - {motif: building-works-provisioned-with-sacrifice, refs: ["CTH 414.2 §8:17-19"], note: "UN-aš É{MEŠ} G[IBIL] ú-e-te-ez-zi: the rite extended to any man (UN) who builds new houses; a hearth and iron mentioned"}
     hints:
       - "The rite applied to any man building a house: compare Deut 20:5 (who has built a new house and not dedicated it)."
@@ -285,7 +319,7 @@ units:
       - {motif: pain-taken-from-throne-bed-heart, refs: ["CTH 416 §49:279-282"], note: "{GIŠ}ŠÚ.A-ka-az-mi-it {GIŠ}NÁ-az-mi-it kar-ta-az-mi-it; Sun god of heaven and Sun goddess of the earth: da-a-at-te-en"}
       - {motif: ritual-objects-buried-and-nailed-down, refs: ["CTH 416 §48:273-278"], note: "a-ra-aḫ-za pé-[e-t]a-aḫ-ḫé tu-uš tar-ma-a-e-[mi]"}
       - {motif: enemy-to-carry-away-evil, refs: ["CTH 416 §39:213-215"], note: "a-ap-pa le-e ú-e-eḫ-zi na-at {LÚ.MEŠ}KÚR[-né-eš] pé-e-ta-an-tu"}
-      - {motif: figurine-takes-pain, refs: ["CTH 416 §45:257-258"], note: "ta ši-i-ni te-e-[mi]: the clay figurine is told to take pain, woe and constraints"}
+      - {motif: figurine-told-to-take-pain, refs: ["CTH 416 §45:257-258"], note: "ta ši-i-ni te-e-[mi]: the clay figurine is told to take pain, woe and constraints"}
       - {motif: deaf-man-assists-ritual, refs: ["CTH 416 §44:248-250"], note: "{LÚ}Ú.ḪÚB-za ... an-da pa-i-wa-ni 'a deaf man and I go in'"}
       - {motif: barley-and-wheat-heads-tied-at-feet, refs: ["CTH 416 §43:241-246", "CTH 416 §45:260-261"], note: "ḫal-ki-aš ḫar-ša-a-ar iš-ḫi-ya-an-da; placed over their heads in a basket covered with a cloth 'and nobody sees'"}
     hints:

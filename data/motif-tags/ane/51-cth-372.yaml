@@ -64,6 +64,8 @@ new_motifs:
   servant-confesses-master-relents: {label: "Analogy: when a servant confesses his offence to his master, the master's anger is calmed and he no longer punishes him", cluster: prayer}
   plague-already-repaid-many-times: {label: "The petitioner argues that the land has already made restitution for the offence many times over (twentyfold) through the deaths of the plague", cluster: theodicy}
   priests-incubate-dreams-for-cause: {label: "All the priests are told to sleep in purity so that one may learn the cause of the disaster in a dream", cluster: divination}
+  plague-no-one-reaches-old-age: {label: "Under the plague a man begets a son and grows to manhood but does not live to be old", cluster: theodicy}
+  gods-will-blame-humans-for-lack-of-offerings: {label: "If the offerers die, the gods will later hold it against the king as a sin and ask 'Why do you not give us bread and libations?'", cluster: theodicy}
 units:
   - id: ane-cth-372-1-sun-hymn-epithets
     tradition: ane-hittite
@@ -320,6 +322,7 @@ units:
       - {motif: sun-god-father-and-mother-of-oppressed, refs: ["CTH 376.1 §4:47"], note: "KUR-eaš ḫumandaš attaš annaš 'father and mother of all lands'"}
       - {motif: sun-god-opens-gate-of-heaven, refs: ["CTH 376.1 §4:53-54"]}
       - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 376.1 §6:66-80"], note: "ḫinkan tarnatten 'you let in the plague'; ploughmen, millstone women, herdsmen died; NINDA.GUR4.RA … karšandari 'the offerings will cease'"}
+      - {motif: gods-will-blame-humans-for-lack-of-offerings, refs: ["CTH 376.1 §6:80-84"], note: "unnaš uwatteni DINGIR.MEŠ … wašduli ḫarteni 'you gods will hold us guilty'; our wisdom is lost"}
       - {motif: plague-cause-sought-from-ecstatic-diviners-or-dream, refs: ["CTH 376.1 §6:85-89"], note: "DINGIR.MEŠ-niyanza uēddu … MUNUS.MEŠ ŠU.GI LÚ.MEŠ AZU LÚ.MEŠ MUŠEN.DÙ … zašḫiyaz … aušdu"}
       - {motif: land-hangs-from-needle-point, refs: ["CTH 376.1 §6:90"], note: "URUDU.ZI.KIN.BAR-aš GIŠ.šarpaz kunkuen"}
       - {motif: enemies-break-oath-of-gods-and-rob-temples, refs: ["CTH 376.1 §6:94-101"], note: "Mittanni and Arzawa: NI-EŠ DINGIR.MEŠ šarreškanzi"}
@@ -481,3 +484,20 @@ units:
       - "Compare Ps 84:4 (the sparrow finds a home, the swallow a nest, at your altars) and Ps 91:4."
       - "Compare 2 Sam 12:13 and 2 Sam 24:10,17 (David: 'I have sinned … these sheep, what have they done?') and Q 38:24 (David seeks forgiveness)."
       - "Compare Q 10:98 (the people of Jonah believed and the punishment was lifted)."
+  - id: ane-cth-378-3-third-plague-prayer
+    tradition: ane-hittite
+    title: Muršili II's 'third' plague prayer to the Sun goddess of Arinna (CTH 378.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 378.3 §1:1-§5:40"]
+    tags:
+      - {motif: plague-twenty-years, refs: ["CTH 378.3 §1:2-9"]}
+      - {motif: plague-no-one-reaches-old-age, refs: ["CTH 378.3 §2:12-20"], note: "fragmentary: DUMU-an iyazzi … LÚ.KAL-anteszi … UL=ma=aš LÚ.miyaḫ[unteszi]"}
+      - {motif: anguish-from-heart-fear-from-body, refs: ["CTH 378.3 §5:26"]}
+      - {motif: plague-diverted-to-enemy-lands, refs: ["CTH 378.3 §5:27-28"], note: "line §5:28 has no Hittite in the data, only the translation"}
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 378.3 §5:30-33"]}
+      - {motif: gods-will-blame-humans-for-lack-of-offerings, refs: ["CTH 378.3 §5:34-35"], note: "kuwat=wa=nnaš NINDA.GUR4.RA-in išpantu[zzi …] 'why (do you not give) us bread and libation?'"}
+    hints:
+      - "Compare Ps 88:11-13 and Ps 6:6 (who will praise you in Sheol?) and Q 51:56-57 (I created jinn and men only to worship me; I want no provision from them) as a divergence: the Quranic God needs no feeding."
+      - "Compare Q 22:37 (neither their flesh nor their blood reaches God)."

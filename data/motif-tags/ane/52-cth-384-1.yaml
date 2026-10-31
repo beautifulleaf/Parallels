@@ -41,6 +41,68 @@ new_motifs:
   bread-and-message-sent-three-times: {label: "Three thick breads are set out and a message is sent three times to call the god", cluster: cult}
   chariot-left-behind-against-order: {label: "Against the king's order that no chariot be left behind, an officer leaves a chariot; the prince says he did not know and sent one on", cluster: prayer}
   ancestor-took-gods-silver-into-his-house: {label: "When silver and gold were given to all the gods, the petitioner's father gave nothing and took it into his own house", cluster: cult}
+  sick-child-offered-to-sun-god-of-illness: {label: "For a sick child or one whose entrails are 'eaten', a sheep is offered to the Sun god of illness, who is asked to remove the illness from the child", cluster: ritual}
+  deity-told-eat-drink-and-remove-illness: {label: "The ritualist sets meat, bread and drink before the deity: 'eat and drink, and take the illness away from this person'", cluster: ritual}
+  herbal-potion-poured-into-mouth-and-over-body: {label: "A mash of garden herbs, yeast and beer-wort sprinkled with water of purification is poured into the patient's mouth and over his head and every limb", cluster: ritual}
+  bird-waved-over-patient-and-released: {label: "A bird is waved over the patient and then let go to the Sun god, carrying the evil away", cluster: ritual}
+  entrails-overpower-entrails: {label: "The patient eats an animal's entrails for twice seven days, saying 'entrails overpower entrails'", cluster: ritual}
+  object-conjured-overnight-by-stars: {label: "A bundle is set on the roof overnight under the stars so that the thousand stars, the gods and the Sun goddess of the Earth conjure it, and then the Sun god at dawn", cluster: ritual}
+  analogic-spell-for-healing: {label: "Analogic healing spell: as the spindle whorl turns, as one arrow-shaft does not hit another, as earth is dug out of a pit, so may the evil turn away from or not reach the patient", cluster: ritual}
+  tongue-cleansed-with-honey-and-spittle: {label: "Against 'evil tongues' the Old Woman smears the victim's tongue with beer-wort and ghee, wipes it with honey and spits into his mouth twice", cluster: ritual}
+  gods-send-old-woman-to-heal: {label: "A message goes to the goddess (Kamrušepa, the mother goddess), who answers 'bring the Old Woman' to cleanse or conjure the patient", cluster: ritual}
+  cosmic-binding-catalogue: {label: "A great river binds its flood, the fish, the high mountains, deep valleys, the storm god's meadow, the eagle's wings, eels, the stag under the oak, panther, wolf, lion, wild goat and its milk, and the throne of the protective god", cluster: ritual}
+  bound-world-loosed-by-conjuring: {label: "The goddess drives to the river and conjures it, and the river, mountains, valleys, animals and throne are loosed (lā- 'to loosen') item by item", cluster: ritual}
+  body-bound-and-loosed-part-by-part: {label: "The patient was 'bound' in each body part, hair, skull, nose, ears, mouth, tongue, throat, chest, lungs, liver, genitals, bladder, anus, knees, hands; each is conjured and loosed", cluster: ritual}
+  message-passed-down-chain-of-gods: {label: "A word passes from one deity to the next down a chain (Ištar to Maliya, Maliya to Pirwa, Pirwa to Kamrušepa) until the healing goddess acts", cluster: ritual}
+  evil-drawn-out-with-wool-into-basket: {label: "White wool or a bowstring is drawn over the patient from the feet up to the head and down the back, then taken off and laid in a basket, pulling the evil out of every limb", cluster: ritual}
+  evil-sent-to-enemies-life-to-patient: {label: "Formula: take the evil out of him and give it to the evil men, the enemies; to the patients give life, vigour and long years", cluster: ritual}
+  laundered-cloth-analogy-purification: {label: "Analogy of the launderers: as they clean the linen and pluck off the lint until it is white, so may the gods clean the evil illness out of this man's body", cluster: ritual}
+  analogic-quenching-of-evil: {label: "Wood and grain are roasted and the fire quenched with water: as I have quenched this, so may the evil be quenched over the patients", cluster: ritual}
+  demon-told-to-fight-bolt-not-people: {label: "The afflicting deity is told to stop fighting the patients and fight this bolt (a model door-bolt) instead, and drive the evil away with it", cluster: ritual}
+  evil-transferred-to-mouse-sent-away: {label: "Tin wrapped in a bowstring is tied on the patient's right hand and foot, then wound on a mouse, which is released to carry the evil over high mountains, deep valleys and far roads", cluster: ritual}
+  deity-given-animal-in-exchange: {label: "The afflicting deity is told: take this one (the carrier animal) for yourself, and we give you another (a goat, a pure mouse) to eat", cluster: ritual}
+  metals-and-stones-strewn-for-deity: {label: "A little of every metal and stone (silver, gold, lapis, carnelian, iron, tin, copper, bronze) is strewn for the deity, who is asked to speak good for the patient before all the gods", cluster: ritual}
+  tree-planted-at-gate-for-protection: {label: "On returning home the ritualist drives an eya-tree, leafy above and pointed below, into the ground at the right of the main gate with a pot beneath it", cluster: ritual}
+  evil-driven-into-enemy-land-hole: {label: "The evil is driven into the enemy land, into a hole", cluster: ritual}
+  impurity-taboo-and-sexual-abomination-drawn-out: {label: "Impurity (papratar), taboo-breach (anzellu), sexual abomination (ḫurkil) and the evil of evil men are drawn out of the king's eyes, hands and nine body parts", cluster: ritual}
+  coloured-wool-bound-on-patient-and-belongings: {label: "Blue and then red wool is bound on the patient's feet, hands, neck, the four bedposts, his chariot, bow and quiver overnight and cut off at dawn", cluster: ritual}
+  clay-birds-under-bed: {label: "Clay figures of every oracle bird, with roasted grain, breads and pegs, are set in a basket under the patient's bed overnight", cluster: ritual}
+  virgin-girl-summons-deity-at-door: {label: "A pure girl (virgin) sits in the doorway holding a dough bird and calls the deity: 'come out, X; Y is coming in'", cluster: ritual}
+  rite-at-untouched-place-no-plough: {label: "The rite is carried to an untouched place in the mountains where the plough never comes", cluster: ritual}
+  puppy-halved-at-gate-pass-through: {label: "A puppy is cut in two and its halves laid either side of a gate of hawthorn; all pass under the gate, the last breaks it, shouts, and they run off", cluster: ritual}
+  place-of-rite-becomes-invisible: {label: "As they go on, the place where the rite was done becomes invisible to them, and they peg the road behind them", cluster: ritual}
+  augurs-drink-the-god-standing: {label: "The participants 'drink the god' three times standing, then drink the gods who are kindly to them", cluster: cult}
+  sheep-facing-sun-tuft-of-wool: {label: "The ritualist plucks a tuft of wool from the sheep that has turned its eyes to the sun", cluster: ritual}
+  nine-dishes-for-the-god: {label: "Nine dishes are set before the god (meat stew, lentil soup, chickpea soup, barley porridge, fat cake, honeyed porridge, sweet milk) with bread and beer, day after day", cluster: cult}
+  rams-tied-as-substitutes-for-plague-god: {label: "In a plague in the army each officer provides a ram; coloured wool and rings are tied on the rams' necks and horns and they are tethered before the tents at night: 'whichever god made this plague, be content with these'", cluster: ritual}
+  god-asked-to-loathe-human-flesh: {label: "The plague god is told: these rams are very fat in liver, heart and member; let human flesh be hateful to you, be content with these rams", cluster: ritual}
+  decorated-woman-sent-with-substitutes: {label: "An adorned woman is set before the king's tent with beer and bread and is driven out with the substitute animals", cluster: ritual}
+  carriers-driven-to-enemy-frontier: {label: "Rams, woman, bread and beer are driven through the camp and left on the enemy's border, where our people do not go: 'whoever finds them, may that land take this evil plague'", cluster: ritual}
+  officers-bow-behind-substitutes: {label: "The officers stretch their hands toward the substitute animals, and bow behind the rams, the king and the adorned woman", cluster: ritual}
+  god-eats-in-gods-way-leaves-man-nothing: {label: "Animals are slaughtered in the open field: 'O god, eat and drink in a god's way, and leave nothing to man'", cluster: ritual}
+  vessels-of-rite-not-set-down: {label: "While the god is being served, no one sets the god's vessels on the ground or picks them up again: it is not right", cluster: cult}
+  purified-by-salt-water-and-two-fires: {label: "Leaving the rite, the participants wash their hands in water with salt, light two fires and walk between them", cluster: ritual}
+  unmated-ewe-offered: {label: "A ewe that a ram has not yet gone to is offered (to the Sun god)", cluster: ritual}
+  plague-god-asked-to-be-at-peace-with-land: {label: "The god who made the plague is fed and asked to be at peace with the land and army of Ḫatti and turn to them in kindness", cluster: ritual}
+  years-of-person-disturbed-ritual: {label: "Ritual for a man or woman 'whose years are disturbed': a table is set on the roof facing the Sun with all kinds of seed, precious stones, a shaving of horn from a living plough-ox", cluster: ritual}
+  sun-to-lick-incantations-like-salt: {label: "As sheep lick salt, so may the Sun god come and lick these incantations", cluster: ritual}
+  sun-god-feast-patient-missing: {label: "The Sun god gave a feast and invited all the gods and all mankind, but the ritual patron had vanished", cluster: ritual}
+  give-me-back-my-calf-my-son: {label: "A woman kneels before the Sun god: 'give him back to me, my calf, my son'", cluster: ritual}
+  take-the-gold-give-back-the-man: {label: "Ransom litany: 'take the seeds, take the gold, the lapis, the carnelian ... but give the ritual patron back to me'", cluster: ritual}
+  tired-horse-unhitched-fresh-hitched: {label: "Spell to the Sun god, said three times: 'unhitch the tired one, hitch the fresh one'", cluster: ritual}
+  escape-from-mouth-of-agni: {label: "As the kappi grain escapes the millstone, so may the patient escape the mouth of Agni (the fire god); as the rear wheel does not catch the front, so may the evil day not catch him", cluster: ritual}
+  incantation-words-are-gods-not-mine: {label: "The ritualist says: are these my words? They are the words of the Sun god and of Kamrušepa", cluster: ritual}
+  piglet-blood-poured-into-pit-for-old-gods: {label: "At nightfall a pit is dug, a piglet is slaughtered in it, its blood let down, food and wine put in, and the primeval gods (karuileš DINGIR.MEŠ) are called up to eat", cluster: underworld}
+  bolt-asked-to-open-dark-earth: {label: "A bolt-wood is anointed with fat and addressed: 'you open again and again; go, open (the dark earth)'", cluster: underworld}
+  conjured-object-worn-seven-days-then-sealed: {label: "The patient wears the conjured objects wrapped round him for seven days; then they are put in a clothes chest that is never opened and placed in the seal-house", cluster: ritual}
+  rite-not-performed-in-palace: {label: "The ritualist performs the rite in another house, not in the palace or the patient's house: it is not right", cluster: ritual}
+  demoness-washed-at-river: {label: "The demoness Wišuriyant (the 'strangler') is brought down to the river, a tent set up, and she is washed with clay of the bank: 'see, I have purified you'", cluster: ritual}
+  fish-sent-as-messenger-to-deity: {label: "A fish with a cake in its mouth is released into the river to go to the mountain and the river and bring the offering to the demoness", cluster: ritual}
+  sun-god-as-witness-to-rite: {label: "The Sun god of heaven is called as witness of the offering: if the demoness hides anything, you shall know it", cluster: ritual}
+  pits-on-riverbank-for-fate-goddesses: {label: "Three pits are dug before the river bank and breads broken for the fate goddesses and the mother goddess, who are asked for life, health, vigour, long years and sight", cluster: ritual}
+  offering-burned-without-smoke: {label: "The fish is thrown on the hearth and burned, and there is no smoke", cluster: ritual}
+  bones-gathered-and-burned-in-hearth: {label: "After the meal the bones are gathered, laid in the hearth and burned", cluster: ritual}
+  ritualist-keeps-utensils-patron-takes-nothing: {label: "The ritualist takes the clay and wicker utensils of the rite for herself; the patron takes nothing back", cluster: ritual}
 units:
   - id: ane-cth-384-1-1-puduhepa-nerik-history
     tradition: ane-hittite

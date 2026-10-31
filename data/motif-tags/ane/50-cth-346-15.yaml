@@ -1,3 +1,4 @@
+# Full read of the ANE corpus, chunk 50: CTH 346.15-21, 347-353, 360-365, 371. Read from hethiter.net / TLHdig (Hittite).
 new_motifs:
   storm-god-king-of-all-humanity: {label: "The storm god is called king of all mankind, with his heroism and valour praised", cluster: kingship}
   why-do-you-kneel-rebuke: {label: "A speaker rebukes others: why do you kneel (bow down) before him?", cluster: polemic}
@@ -45,6 +46,81 @@ new_motifs:
   windows-and-doors-sealed-against-goddess: {label: "The windows and doors facing Kumme and Nineveh are shut with cloth so that Ishtar may not hear the plan", cluster: council}
   feast-prepared-and-reported-done: {label: "The vizier prepares food and drink, fills cauldrons and heaps tables as his lord willed, and reports back", cluster: hospitality}
   god-goes-down-to-dark-earth-and-fasts: {label: "A god goes down into the dark earth and there eats nothing and drinks nothing", cluster: underworld}
+  storm-god-grows-high-as-heaven: {label: "The storm god (or his opponent) grows as high as heaven, mountains on his body, in a cosmic combat", cluster: myth}
+  god-puts-on-winds-as-shoes: {label: "A god rises, takes his staff and puts on the swift winds as his shoes", cluster: myth}
+  dream-and-vision-pair: {label: "'Dream and vision' (teshas duntarriyashas) named as a pair of revelation", cluster: revelation}
+  sea-sends-wave-against-storm-god: {label: "The Sea sends the wave (hunhuneššar) to fight the storm god; the wave later dries up", cluster: myth}
+  living-sent-down-to-sea: {label: "The Sea demands that the living be sent down to the sea, and a sword be sent", cluster: myth}
+  mountain-violates-sleeping-goddess: {label: "A mountain god (Pishaisha) lies with the goddess Ishtar while she sleeps; she wakes in fury asking who has shamed her", cluster: myth}
+  offender-begs-do-not-kill-me: {label: "The offender throws himself at the goddess's knees, 'do not kill me!', and promises to tell her something for his life", cluster: myth}
+  animal-tells-high-god-of-new-god: {label: "An animal (šuppala, the cattle) reveals to the wise god Ea that a new god is growing who will subdue heaven, earth, mountains and rivers", cluster: myth}
+  god-shall-keep-alive-whom-he-will: {label: "Decree: whom he keeps alive let none take back, whom he does not keep alive let none take away; he drives (them) down to the dark earth", cluster: theology}
+  heaven-earth-bound-and-held-subject: {label: "The new god shall hold the gods and all lands subject by a band (išhiman), the dark earth girded, heaven watching with favour", cluster: theology}
+  wisdom-of-primeval-gods: {label: "The wisdom of the former (primeval) gods, who made heaven, is known to one figure", cluster: wisdom}
+  god-conceived-of-river-or-spittle: {label: "A deity is to become pregnant with a river (the Aranzah/Tigris) or with a god (Zababa), the seed spat out", cluster: birth}
+  god-purifies-one-bewitched-by-evil-words: {label: "A god releases and purifies someone afflicted by anger, sin and 'evil words' or evil sorcery", cluster: magic}
+  pursued-flees-by-night-into-valley: {label: "Told 'run from me, I will not leave you in peace', a figure flees by night down into a valley, falls and trembles", cluster: myth}
+  god-exalts-just-fells-wicked-like-tree: {label: "Opening praise of a god who raises up just men but fells evil men like trees and strikes their skulls", cluster: theology}
+  rich-man-lacks-only-a-son: {label: "A man is the richest in the land, rich in cattle, sheep, silver, gold and lapis, and lacks only one thing: a son or daughter", cluster: birth}
+  childless-man-shamed-at-elders-meal: {label: "At the elders' meal each man gives bread and drink to his son; the childless man has no one to give bread to", cluster: birth}
+  childless-man-sleeps-in-his-shoes: {label: "The childless man goes to bed with his boots on and does not lie with his wife", cluster: birth}
+  husband-dismisses-wife-as-understanding-nothing: {label: "The husband answers his wife's question with 'you are a woman of womanly kind and understand nothing'", cluster: family}
+  childless-man-brings-white-lamb-to-sun-god: {label: "The childless man takes a white lamb and goes to the sun god to plead his case", cluster: birth}
+  god-takes-form-of-young-man: {label: "A god comes down from heaven and turns himself into a young man to meet a mortal", cluster: theophany}
+  god-asks-petitioner-what-is-your-grievance: {label: "The god asks the petitioner 'what is your sin (grievance)?' and he explains that he has wealth but no son", cluster: prayer}
+  god-promises-son-go-sleep-with-wife: {label: "The god tells the childless man: go home, eat and drink, sleep well with your wife; the gods will give you a son", cluster: birth}
+  storm-god-fears-disaster-at-sun-gods-coming: {label: "Seeing the sun god coming, the storm god asks whether the land has perished, the cities been laid waste, the troops beaten", cluster: myth}
+  pregnancy-months-counted-to-tenth: {label: "The months of pregnancy are counted one to nine, and in the tenth month the child is born", cluster: birth}
+  son-named-evil-because-gods-chose-evil-way: {label: "A father names his firstborn 'Evil' because his fathers' gods did not choose the right way for him but kept to the evil way", cluster: birth}
+  son-named-righteous-because-gods-chose-right-way: {label: "The second son is named 'Righteous' because the fathers' gods took the right way for him", cluster: birth}
+  brothers-good-and-evil: {label: "Two brothers embody good and evil (named Righteous and Evil) and their fortunes contrast", cluster: family}
+  brothers-divide-estate-and-separate: {label: "Grown brothers divide their father's estate and agree to live apart", cluster: family}
+  live-apart-as-gods-dwell-in-own-cities: {label: "'As mountains sit apart and rivers flow apart, as the sun god lives in Sippar, the moon god in Kuzina, the storm god in Kumme, Ishtar in Nineveh, Nanaya in Kissina, Marduk in Babylon, so let us live apart'", cluster: family}
+  cheating-brother-takes-better-share: {label: "In the division the evil brother takes the better share (the plough ox) and gives the good brother the worse (the cow)", cluster: family}
+  god-blesses-the-lesser-share: {label: "The god looks down from heaven and blesses the poorer share given to the good brother so that it prospers and bears", cluster: retribution}
+  sun-god-judges-brothers-lawsuit: {label: "The brothers take their case before the sun god in Sippar, who gives the verdict for the righteous brother", cluster: justice}
+  loser-curses-the-divine-judge: {label: "The losing party curses the god who judged against him; the god hears the curses", cluster: justice}
+  judge-god-refers-case-to-another-god: {label: "The god declines to judge the case again and sends the parties to another deity (Ishtar of Nineveh)", cluster: justice}
+  evil-brothers-scheme-against-good-brother: {label: "The evil brother speaks repeatedly to the good brother with proposals (ploughing, water) in a scheme against him; the sun god hears", cluster: family}
+  husband-neglects-gods-for-beautiful-wife: {label: "A man so loves his beautiful wife that he listens only to her and stops giving the gods their bread and libations", cluster: piety}
+  hunter-neglects-hunt-mother-complains: {label: "The hunter's mother reproaches him: only your wife is dear to you, you no longer go hunting and bring me nothing", cluster: family}
+  angry-gods-hide-the-game: {label: "The gods, angry over neglected offerings, hide all the game from the hunter so that he finds nothing", cluster: retribution}
+  hunter-will-not-return-empty-handed: {label: "The hunter wanders three months in the mountains, hungry and thirsty, unwilling to return empty-handed, and falls sick", cluster: retribution}
+  divine-father-rebukes-devourers: {label: "The hero's divine father comes down from the mountain and asks the creatures 'why do you devour him?'", cluster: rescue}
+  series-of-seven-numbered-dreams: {label: "The hero sees a series of seven numbered dreams in one night (a stone from heaven crushes men, the father's gods kindle fire, a yoke on his neck, lions, serpents at the gate)", cluster: revelation}
+  dream-of-stone-falling-from-heaven: {label: "In a dream a heavy stone falls from heaven and crushes servants and a man", cluster: revelation}
+  sun-rises-with-halo-ends-night-of-dreams: {label: "At daybreak the sun god comes with a radiant crown (kalmara) and the dreamer rises and tells his mother the night's dreams", cluster: revelation}
+  hero-wins-archery-contest-at-feast: {label: "At a feast the hero, the king's son-in-law seated at his right, shoots with the bow; his arrow flies like a bird and he defeats sixty men and seventy nobles", cluster: heroism}
+  bride-defers-union-to-another-day: {label: "On the night the hero goes up the stair to the bed, his bride sets the union for another day and bids him not (approach) yet", cluster: marriage}
+  enemy-king-took-our-treasure: {label: "The king tells his sixty kings and seventy nobles: see, the king of a foreign land took our treasure (hakhari) and our woman", cluster: war}
+  river-god-flies-like-eagle: {label: "The river god (Aranzah, Tigris) leaves his place like an eagle, goes to Akkad and to the mother goddess", cluster: myth}
+  river-god-asks-why-do-you-weep: {label: "The river god asks the weeping hero 'why do you lament, why does a stream of tears flow from your pure eyes?'", cluster: lament}
+  meal-eaten-seven-times: {label: "A guest eats and drinks once, twice, up to seven times", cluster: hospitality}
+  sun-god-desires-cow-comes-down-as-young-man: {label: "The sun god looks down from heaven, desires a thriving cow, takes the form of a young man and comes down to her", cluster: myth}
+  cow-bears-two-legged-child-and-would-devour-it: {label: "The cow, after ten months, bears a two-legged (human) child, cries 'why have I borne this two-footed one?' and opens her mouth like a lion to devour it", cluster: birth}
+  sun-god-protects-exposed-child: {label: "The sun god sees from heaven, saves the newborn from its mother, strokes its limbs, head and eyes, and has birds of prey and the eagle guard it while snakes draw back", cluster: rescue}
+  childless-fisherman-finds-child: {label: "A childless fisherman finds the divinely guarded child in the mountains and sees it as a gift of the sun god ('whom the sun god loves he gives bread')", cluster: birth}
+  wife-feigns-childbirth-to-adopt-foundling: {label: "The finder tells his wife to take the child to bed and cry out as in labour so the town will say she bore a son and bring gifts of bread, beer and oil", cluster: birth}
+  saying-on-womans-wisdom-and-obedience: {label: "Narrator's maxim: a woman's mind is clever, she keeps away from commanding, depends on the god's power, is obedient and does not twist her husband's word", cluster: wisdom}
+  singer-announces-theme-i-sing-of: {label: "The singer opens the song by announcing its subject: 'I sing of ...' (išhamihhi), with praise of the god's wisdom, word and battle", cluster: hymn}
+  primordial-time-when-thing-did-not-exist: {label: "Wise men told the singer of a time when the thing (silver) did not yet exist", cluster: creation}
+  fatherless-child-asks-mother-who-is-my-father: {label: "A child mocked as fatherless confronts his mother, who answers, 'do not kill me', and names his divine father and his city", cluster: family}
+  fear-only-the-one-god: {label: "'Do not fear any god; fear only the one god' (who raises the low and lowers the high)", cluster: theology}
+  god-raises-low-lowers-high: {label: "A god makes those above run down and those below run up, and stirs up enemies and wild beasts in the land", cluster: theology}
+  son-seeks-absent-father-who-roams-the-land: {label: "The son goes to his father's city but does not find him: the father is roaming the land and the mountains", cluster: family}
+  usurper-drives-gods-in-wooden-fetter: {label: "The usurping god (Silver) becomes king and drives all the gods with a fetter of pistachio wood", cluster: myth}
+  orphan-bully-rebuked-you-too-are-orphan: {label: "A bully who beats orphans is rebuked by an orphan child, 'why do you beat us? you too are an orphan like us', and goes home weeping", cluster: ethics}
+  sun-and-moon-bow-to-usurper: {label: "The usurper pulls the sun and the moon down from heaven; they bow before him and plead 'do not kill us, we are the lights of heaven and earth; without us you would rule dark lands'", cluster: myth}
+  primeval-gods-fix-earth-and-release-rivers: {label: "The primeval gods fixed (the earth) and let all the rivers loose, and the rivers of the lands took (water) for the Mala (Euphrates); they purified the land", cluster: creation}
+  gods-make-son-of-sun-god-king-of-land: {label: "All the gods take the son of the sun god and make him king of the land", cluster: kingship}
+  primeval-reign-of-162-years: {label: "A primeval period of 162 years (of strife or rule) is counted", cluster: primeval}
+  plague-after-creation-of-man: {label: "When man was created, a plague (hinkan) arose in the land and lasted years", cluster: primeval}
+  myth-recited-as-plague-ritual: {label: "The myth closes with the rubric of a ritual (of the Mala river) to be performed when plague arises in the land, fixed by oracle", cluster: cult}
+  prayer-do-not-hear-slanderers-of-petitioner: {label: "The petitioner asks the god not to listen if his father, mother, brother, sister, in-law or friend slanders him", cluster: prayer}
+  god-asked-to-lower-kind-eyes-raise-thousand-lashes: {label: "Prayer: lower your kind eyes, lift your thousand eyelashes, look kindly on the king; incline your ears and hear his good word", cluster: prayer}
+  god-chosen-as-personal-deity-by-king: {label: "The king has made the deity his personal god and kneels on the ground calling on it in person", cluster: prayer}
+  underworld-court-asked-to-speak-good-of-king: {label: "The underworld goddess's tutelary god, vizier, servants and courtiers are each greeted 'Mercy!', told 'the case be yours, eat and drink', and asked to speak well of the king's name before her", cluster: prayer}
+  deliver-from-evil-set-in-good-place: {label: "Prayer: take him away from evil and set him in a good place", cluster: prayer}
 units:
   - id: ane-cth-346-15-kumarbi-small-fragments
     tradition: ane-hittite
@@ -190,3 +266,670 @@ units:
     hints:
       - "A messenger who travels unseen by the sun: compare Q 18:86-90 (the sun's setting and rising places) for the sun as watcher, and Ps 139:7-12 (no hiding from God)."
       - "The head spinning like a potter's wheel; compare Isa 29:16 and Jer 18:3-6 (potter's wheel imagery)."
+
+  - id: ane-cth-348-i-2-hedammu-reared
+    tradition: ane-hittite
+    title: Song of Hedammu - the monster is reared and devours thousands (CTH 348.I.2-3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.2", "CTH 348.I.3"]
+    tags:
+      - {motif: monster-child-fed-thousands-of-cattle, refs: ["CTH 348.I.2 §1:5-15"], note: "{MUŠ}hedammun-ma-kan ... šallanuškanzi 'they rear Hedammu'; set in oil, set in water; adanna-ma-šši 2 LI-IM GU4.HI.A 'to eat they give him two thousand oxen'; kids and lambs kappuwauwar-pat Ú-UL 'without number'; LI-IM-tili azzikkezzi 'he eats by thousands'"}
+      - {motif: insatiable-devourer, refs: ["CTH 348.I.2 §1:16-22", "CTH 348.I.3 §3:13-15"], note: "frogs and snails; fish 'of one IKU' (huge), 'the dogs of the river', by thousands; swallows 'like honey', licks up; 'eats an ox'"}
+      - {motif: child-set-on-grandfathers-knee, refs: ["CTH 348.I.2 §1:2"], note: "interpretive: [ ... Kuma]rbiya haliḫl[a-] 'kneels before Kumarbi'; then to Kumme and Duddulla"}
+    hints:
+      - "A monstrous devourer of cattle and fish: compare Behemoth and Leviathan (Job 40-41), and Gog and Magog who devour the land (Q 18:94, 21:96)."
+
+  - id: ane-cth-348-i-4-ishtar-seduces-hedammu
+    tradition: ane-hittite
+    title: Song of Hedammu - Ishtar bewitches the waters and shows Hedammu her nakedness (CTH 348.I.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.4"]
+    tags:
+      - {motif: love-charm-poured-into-waters, refs: ["CTH 348.I.4 §3:10-12"], note: "{d}IŠTAR-iš {URU}nenuwaš MUNUS.LUGAL-aš 'Ishtar, queen of Nineveh'; āššiyatar GIŠ šahin GIŠ parnullinna daššauaš A.HI.A-naš 'love, šahi-wood and parnulli-wood into the heavy waters'"}
+      - {motif: monster-drugged-asleep-like-cattle, refs: ["CTH 348.I.4 §3:13-17"], note: "waršulan KAŠ ištahta 'tasted the fragrance, the beer'; tešhaš ēpta 'a dream (sleep) seized' Hedammu; GU4-aš ANŠE-ašša iwar šuppariyanza 'asleep like oxen and asses'; recognises nothing"}
+      - {motif: goddess-seduces-monster-with-nakedness, refs: ["CTH 348.I.4 §4:18-26"], note: "šarā-kan namma e[hu] 'come up again!'; [nekuman]da parā appiškezzi 'holds out her naked (limbs)'; LÚ-natar parā watkuškezzi 'his manhood leaps forth' and impregnates (armahhiškezzi)"}
+      - {motif: monster-ravages-cities-heaps-heads, refs: ["CTH 348.I.4 §4:27-32"], note: "1 ME 30 URU.DIDLI.HI.A '130 cities', with his belly 70 cities; harpuš SAG.DU-aš harpiyat 'heaped heaps of heads'"}
+      - {motif: harlot-tames-wild-man, refs: ["CTH 348.I.4 §4:23-26", "CTH 348.I.4 §6:41-45"], note: "the seduction that tames: Hedammu answers MUNUS KI.SIKIL ... āššiyatar ... pāi ... ehu daššauaš 'girl, if love ..., give love! come into the heavy waters'"}
+      - {motif: inana-sows-heads-like-seed, refs: ["CTH 348.I.4 §4:32"]}
+    hints:
+      - "Seduction of the monster by the goddess: compare Shamhat and Enkidu (Gilg SB I) and, inverted, Joseph resisting the master's wife (Q 12:23-24, Gen 39)."
+      - "Waters charmed to make the drinker sleep: compare the red beer that makes Sakhmet drunk (Heavenly Cow) and Judith 12-13."
+
+  - id: ane-cth-348-i-5-hedammu-refuses-hospitality
+    tradition: ane-hittite
+    title: Song of Hedammu - a guest refuses chair, table and cup (CTH 348.I.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.5"]
+    tags:
+      - {motif: guest-refuses-seat-food-and-cup, refs: ["CTH 348.I.5 §3:15-23"], note: "GIŠ ŠÚ.A-an tier ... Ú-UL-aš-za-kan ešat 'they set a chair; he did not sit'; parā Ú-UL šali[kta] 'did not go to (the table)'; purin Ú-UL dāi[š] 'did not put his lip (to the cup)'; Ishtar: kuwat-za Ú-UL ez[atti] ... Ú-UL ekutti ammel išhāmi 'why do you not eat, not drink, my lord?'"}
+      - {motif: angel-refuses-food, refs: ["CTH 348.I.5 §3:15-23"], note: "loosely: the guest refuses the meal offered; speaker and guest uncertain"}
+      - {motif: tears-flow-like-canals, refs: ["CTH 348.I.5 §4:36"], note: "restored: [išhahru-ma-šš]i-kan parā PA5.HI.A-[uš] 'tears (flow) out of him like canals'; only PA5.HI.A preserved"}
+      - {motif: sea-demands-storm-god-be-surrendered, refs: ["CTH 348.I.5 §3:26-29"], note: "loosely: arunan DINGIR.MEŠ-naš menahhanda 'the Sea opposite the gods'; tarpanalli 'the rival' in the sea; šakiyaz memahhi 'I speak by an omen'"}
+    hints:
+      - "Guest who will not eat: compare Abraham's guests whose hands do not reach the food (Q 11:69-70, 51:26-28) and Gen 18:8 (where they do eat)."
+
+  - id: ane-cth-348-i-6-sea-offers-daughter
+    tradition: ane-hittite
+    title: Song of Hedammu - the Sea offers Kumarbi his daughter Sertapsuruhi (CTH 348.I.6, first tablet)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.6"]
+    tags:
+      - {motif: sea-offers-giant-daughter-in-marriage, refs: ["CTH 348.I.6 §2:13-19"], note: "the edition's German at §2:15-19 ('come to my house on the seventh day ... my daughter Šertapšuruhi ... in breadth a mile ... like sweet milk') runs ahead of the preserved Hittite at §2:15-16, which is broken; preserved: [palh]ašti-ma-aš 1 DANNA 'in breadth she is one mile', GA.KU7 GIM-an 'like sweet milk', [{d}š]ert[ap]šuruhin"}
+      - {motif: sea-personified-guest-of-high-god, refs: ["CTH 348.I.6 §2:12", "CTH 348.I.6 §2:23-26"], note: "an rhyton (BI-IB-RU) is put in the Sea's hand; the great Sea is escorted from Kumarbi's house with lyre (arkammi), galgalturi and bronze rhyta; the Sea looks out for Kumarbi I-NA UD 7.KAM 'for seven days'"}
+      - {motif: lovers-in-bed-six-days-then-god-slips-away, refs: ["CTH 348.I.6 §2:26"], note: "loosely: a seven-day term before the union"}
+      - {motif: insatiable-devourer, refs: ["CTH 348.I.6 §1:3-8"], note: "arha-ma-an eter 'they ate him up'"}
+    hints:
+      - "Kumarbi marrying the Sea's daughter to beget a monster: compare Gen 6:1-4 (divine marriages and giants) and the Quran's denial of divine offspring, Q 6:100-101 ('how can He have a son when He has no consort?') and Q 72:3."
+
+  - id: ane-cth-348-i-7-kumarbi-soliloquy
+    tradition: ane-hittite
+    title: Song of Hedammu - Kumarbi ponders the assembly, Ea and mankind (CTH 348.I.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.7"]
+    tags:
+      - {motif: ancients-saying-quoted, refs: ["CTH 348.I.7 §2:3-9"], note: "loosely: Kumarbi speaks 'to himself' (PA-NI ZI-ŠU): mān tuliyaš pedi ... mān-mu kuwat zahta 'if at the place of assembly he should strike me', Ea king of wisdom ..., 'if mankind for some reason ...'"}
+      - {motif: storm-god-asks-father-where-were-you, refs: ["CTH 348.I.7 §3:10-15"], note: "loosely: Kumarbi calls himself DUMU {d}A-[NIM?] 'son of Anu?' and thinks of a rival (tarpanalli) for the storm god"}
+    hints:
+      - "A god who fears being struck in the assembly: contrast Q 21:23 ('He is not questioned about what He does, but they are')."
+
+  - id: ane-cth-348-i-8-ishtar-naked-at-shore
+    tradition: ane-hittite
+    title: Song of Hedammu - Ishtar shows herself naked; 'what kind of woman are you?' (CTH 348.I.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.8"]
+    tags:
+      - {motif: goddess-seduces-monster-with-nakedness, refs: ["CTH 348.I.8 §3:18-20"], note: "huwahuešnaz SAG.DU-a[n] 'his head out of the wave'; Ištarin aušta 'saw Ishtar'; NÍ.TE.MEŠ nekumanta šarā [ēpta] 'she held up her naked limbs'"}
+      - {motif: monster-asks-who-are-you-woman, refs: ["CTH 348.I.8 §4:21-23", "CTH 348.I.8 §5:30-31", "CTH 348.I.8 §6:39-40"], note: "[zikka-z]a kuiš DINGIR-LIM-iš ... Ú-U[L] ... weriteššaši 'which god are you? do you not fear?'; kuiš-za MUNUS-naš zik 'what kind of woman are you?'"}
+      - {motif: goddess-intoxicates-with-words, refs: ["CTH 348.I.8 §5:32-38"], note: "ammuk-za MUNUS KI.SIKIL harš[allanza] 'I am an angry(?) girl'; Ištariš halihl[āi] 'Ishtar kneels'; memini-t ... ninganuškezzi 'makes him drunk with words'"}
+      - {motif: combatants-exchange-challenge-who-are-you, refs: ["CTH 348.I.8 §4:22"]}
+    hints:
+      - "Compare the 'strange woman' whose smooth words lead to death (Prov 7:21-27) and Delilah (Judg 16)."
+
+  - id: ane-cth-348-i-9-ishtar-bathes
+    tradition: ane-hittite
+    title: Song of Hedammu - Ishtar bathes, anoints herself and calls for music (CTH 348.I.9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.9"]
+    tags:
+      - {motif: goddess-bathes-and-anoints-for-king, refs: ["CTH 348.I.9 §2:11-16"], note: "I-NA É.DU10.ÚS.SA anda pait 'went into the bath-house'; arraš-ta 'washed'; [Ì.DÙG.G]A-ma-za šanezzit išket 'anointed herself with first-class fine oil' and adorned herself"}
+      - {motif: lovelinesses-run-after-like-puppies, refs: ["CTH 348.I.9 §2:17"], note: "UR.TUR.MEŠ GIM-an EGIR-an huwayand[ari] 'run after (her) like puppies'"}
+      - {motif: goddess-orders-musicians-to-play-at-shore, refs: ["CTH 348.I.9 §3:18-21"], note: "[{d}k]ulitta; [galgaltu]ri ēpten 'take up the galgalturi'; arunaš arh[i] 'at the shore of the sea'; [GÙ]B-laza-ma galgalturi GUL-ahten 'on the left strike the galgalturi'"}
+      - {motif: hero-prays-for-judgment, refs: ["CTH 348.I.9 §1:8"], note: "loosely: [... wa]štul 'my sin/offence' in a speech about Hedammu"}
+    hints:
+      - "Toilette of the seductress: compare Esther 2:12 and Ruth 3:3 (wash, anoint, dress) and the Ugaritic Anat's toilette."
+
+  - id: ane-cth-348-i-10-19-hedammu-fragments
+    tradition: ane-hittite
+    title: Song of Hedammu - small fragments (CTH 348.I.10-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.10", "CTH 348.I.11", "CTH 348.I.12", "CTH 348.I.13", "CTH 348.I.14", "CTH 348.I.15", "CTH 348.I.16", "CTH 348.I.17", "CTH 348.I.18", "CTH 348.I.19"]
+    tags:
+      - {motif: monster-threatens-to-eat-goddess, refs: ["CTH 348.I.11 §2:3-6"], note: "zik MUNUS-n[a-] ... nu-tta arha etmi 'I will eat you up'; haršalanta 'angry'"}
+      - {motif: fate-and-mother-goddesses-do-not-celebrate, refs: ["CTH 348.I.12 §2:16-22", "CTH 348.I.13 §1:8"], note: "akkeškanzi 'they die'; nu akti harakti 'you will die and perish'; É-TI UL DÙ-anzi 'they do not celebrate in the house'; {d}gulšuš DINGIR.MAH.HI.A-uš QA-TAM-MA Ú-UL iēr 'the fate goddesses and mother goddesses did not do likewise'"}
+      - {motif: without-humans-gods-get-no-offerings, refs: ["CTH 348.I.12 §2:21-22"], note: "interpretive: festivals cease when mankind dies"}
+      - {motif: dream-and-vision-pair, refs: ["CTH 348.I.15 §1:3"], note: "loosely: [kut]ruwahhueni 'we call as witnesses'; parnulli fruit from the strong waters"}
+      - {motif: insatiable-devourer, refs: ["CTH 348.I.16 §1:4", "CTH 348.I.16 §2:8"], note: "[ ... ]SIG7 arha Ú-UL tarnāi 'does not let ... thousands go'; auriyaš 'of the border guard'"}
+      - {motif: mothers-milk-snatched-from-mouth, refs: ["CTH 348.I.19 §2:4-5"], note: "loosely: Ishtar harš[a]llanza 'angry'; tepawe-mu GA.KU7 'to me, the small one, sweet milk'"}
+    hints:
+      - "'You will die and perish' (akti harakti): compare Q 3:185 ('every soul shall taste death')."
+
+  - id: ane-cth-348-i-20-21-kumarbi-and-storm-god
+    tradition: ane-hittite
+    title: Song of Hedammu - Kumarbi meets the storm god; the son on Kumarbi's knee (CTH 348.I.20-21)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.20", "CTH 348.I.21"]
+    tags:
+      - {motif: storm-god-asks-father-where-were-you, refs: ["CTH 348.I.20 §1:14-18"], note: "{d}10-aš ... UR.SAG-liš LUGAL-uš IGI-anda pait 'the storm god, heroic king, went to meet him'; [DINGIR.M]EŠ-aš addaš 'father of the gods'; kuwapi-za ešta 'where were you?'; [ku]iš-aš KÚR-aš 'who is he, the enemy?'"}
+      - {motif: god-goes-down-to-dark-earth-and-fasts, refs: ["CTH 348.I.20 §1:7"], note: "[G]E6-i KI-pi kattanda peter 'they brought (it) down to the dark earth'"}
+      - {motif: why-do-you-kneel-rebuke, refs: ["CTH 348.I.20 §1:9-11"], note: "loosely: Kumarbi karuššiyattat-pat 'stayed quite silent (indifferent)' and does not answer"}
+      - {motif: sea-personified-guest-of-high-god, refs: ["CTH 348.I.20 §2:19-21", "CTH 348.I.21 §3:12-13"], note: "{HUR.SAG}huršanaza 'from Mount Huršana'; [{MUŠ}e]lliyankun 'the serpent'; Kumarbi goes down to the Sea and is given food and drink"}
+      - {motif: messenger-honoured-sevenfold-with-gold-crown, refs: ["CTH 348.I.21 §2:7-10"], note: "{LÚ}halukattallan 7-Š[U] 'the messenger seven times'; KI-LI-LU 'a wreath' of gold"}
+      - {motif: child-set-on-grandfathers-knee, refs: ["CTH 348.I.21 §3:14-16"], note: "DUMU.NITA-an karap[ta] 'lifted the son'; A-NA {d}kumarbi g[inuwaš] 'on Kumarbi's knees'"}
+    hints:
+      - "Son set on the father's knee: compare Gen 50:23 (born on Joseph's knees) and Gen 30:3; and the Kumarbi-cycle birth of Ullikummi."
+
+  - id: ane-cth-348-i-22-sixty-youths
+    tradition: ane-hittite
+    title: Song of Hedammu - Kumarbi orders sixty youths and sixty maidens of Duddul (CTH 348.I.22)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.22"]
+    tags:
+      - {motif: sixty-youths-and-sixty-maidens, refs: ["CTH 348.I.22 §1:6-11"], note: "ŠU-ŠI LÚ.MEŠ GURUŠ ... {URU}duddulaz 'sixty youths from Duddula' with weapons 'from the serpent'; ŠU-ŠI MUNUS.MEŠ KI.SIKIL; DUG.HI.A GEŠTIN ... NA4 ZA.GÌN-aš 'wine vessels of lapis'"}
+      - {motif: door-bolted-for-secret-council, refs: ["CTH 348.I.22 §1:1-4"], note: "formula: uddār-ta kue temi nu-mu udd[anaš GEŠTU-an ...] 'the words I speak to you, incline your ear'"}
+    hints:
+      - "Compare the youths and maidens sent as tribute (the Minotaur myth) and Q 18:9-13 for youths, loosely; better HB: Num 31:18."
+
+  - id: ane-cth-348-i-23-25-bitumen-holds-land
+    tradition: ane-hittite
+    title: Song of Hedammu - the storm god, the serpent's head, and asphalt holding the land (CTH 348.I.23-25)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.23", "CTH 348.I.24", "CTH 348.I.25"]
+    tags:
+      - {motif: sea-monster-defeated-by-god, refs: ["CTH 348.I.23 §1:1-4"], note: "šamnaet 'created'; hūmanta ŠA MUŠ SAG[.DU] 'all ... of the serpent's head'"}
+      - {motif: locusts-driven-from-land-by-god, refs: ["CTH 348.I.24 §1:1-3", "CTH 348.I.24 §2:5"], note: "halkin 'grain' at a festival; BURU5.HI.A arha ME-aš 'the locusts took away'; garipaškiuan dāiš 'began to devour'"}
+      - {motif: land-held-by-bitumen-seven-years, refs: ["CTH 348.I.25 §2:15-18"], note: "A-NA kuprik 'in asphalt'; KUR-e kupriyanza harzi 'asphalt holds the land'; MU 7.KAM 'seven years'"}
+      - {motif: seven-years-plenty-seven-famine, refs: ["CTH 348.I.25 §3:18"], note: "only MU 7.KAM preserved beside the asphalt clause; famine itself not stated"}
+      - {motif: wise-god-protests-destruction-of-humanity, refs: ["CTH 348.I.25 §2:13", "CTH 348.I.25 §3:22-26"], note: "{d}É.A-aš-wa-kan GALGA-aš EN-aš 'Ea, lord of wisdom'; Ea's words; duddutta[t] 'treated mercifully', idalawaz 'from evil'"}
+      - {motif: wooden-statue-made-as-substitute, refs: ["CTH 348.I.25 §2:11"], note: "ALAM {d}10-ni uddār 'the statue (speaks) words to the storm god'?"}
+    hints:
+      - "Seven years of disaster: compare Q 12:47-48 and Gen 41:27-30 (seven years of famine), and 2 Sam 24:13 (seven years of famine offered to David)."
+
+  - id: ane-cth-348-i-26-27-plan-hidden-from-ishtar
+    tradition: ane-hittite
+    title: Song of Hedammu - doors and windows sealed so Ishtar may not hear; the feast prepared (CTH 348.I.26-27)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.26", "CTH 348.I.27"]
+    tags:
+      - {motif: windows-and-doors-sealed-against-goddess, refs: ["CTH 348.I.26 §5:25-29", "CTH 348.I.27 §1:9-12"], note: "{URU}kummiyaz ... GIŠ AB.MEŠ-uš arantes ešir ... anda ištappēr 'the windows that stood open from Kumme they shut'; those from Nineveh with {URU}kuppila- cloth; [{d}I]ŠTAR-iš {URU}ninuwa lē ištamaš[z]i 'let Ishtar of Nineveh not hear!'"}
+      - {motif: feast-prepared-and-reported-done, refs: ["CTH 348.I.26 §5:30-31", "CTH 348.I.27 §1:13-17", "CTH 348.I.27 §2:18-22"], note: "DUG palhiuš-ma IŠ-TU KAŠ.GEŠTIN šunn[aš] 'filled cauldrons with beer'; tables heaped with bread; 'wherever you sent me I arranged everything ... as my lord's will decreed' (EN-YA ZI-aš taparriyan)"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 348.I.27 §1:16-17"]}
+      - {motif: temple-gatekeeper-gods, refs: ["CTH 348.I.26 §5:21-24", "CTH 348.I.27 §1:4-6"], note: "loosely: [É ka]rimnaš anda iit 'go into the temple'; kuttaz arha uiya 'drive (them) from the wall', GIŠ tarmaza 'from the peg'; MUŠ.HI.A šammanaz 'snakes from the foundation'"}
+      - {motif: sea-personified-guest-of-high-god, refs: ["CTH 348.I.26 §5:31"], note: "šallin a[runan] 'the great Sea' to be called to the feast"}
+    hints:
+      - "A plan hidden from a goddess behind sealed windows: compare the secret council of Joseph's brothers (Q 12:8-10) and, as divergence, Q 58:7 (no secret conference of three but God is the fourth)."
+
+  - id: ane-cth-348-i-28-29-hedammu-end-fragments
+    tradition: ane-hittite
+    title: Song of Hedammu - last fragments (CTH 348.I.28-29)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.28", "CTH 348.I.29"]
+    tags:
+      - {motif: door-bolted-for-secret-council, refs: ["CTH 348.I.28 §1:1-3"], note: "formula 'the words I speak to you, incline your ear'"}
+      - {motif: storm-god-asks-father-where-were-you, refs: ["CTH 348.I.29 §1:6-10"], note: "loosely: someone speaks to the storm god; {d}IB-an 'Uraš'; AŠ-ŠUM ÌR-UT-TIM 'because of servitude'; dāššuš 'heavy'; kāriya 'hide!' (§1:3)"}
+    hints:
+      - "The storm god's servitude theme: compare Q 19:93 ('all in the heavens and earth come to the Merciful as servants')."
+
+  - id: ane-cth-349-teshub-cycle-fragments
+    tradition: ane-hittite
+    title: Teshub cycle fragments - cosmic combat, winds as shoes, dream and vision (CTH 349.1, 349.2.1, 349.2.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 349.1", "CTH 349.2.1", "CTH 349.2.2"]
+    tags:
+      - {motif: storm-god-grows-high-as-heaven, refs: ["CTH 349.1 §2:3-13"], note: "{d}IM-aš šalliš 'the storm god great'; from his breast, shoulder; HUR.SAG.MEŠ-uš 'mountains'; nepiš mān parkuišta 'became high like heaven'; {GU4}hurrin 'the bull Hurri'; carts; the winds strong"}
+      - {motif: hero-paralyzed-by-fear, refs: ["CTH 349.1 §2:17-21"], note: "zahhain 'battle'; {d}IM-an ... Ú-UL mazzazzi 'cannot withstand the storm god'"}
+      - {motif: god-puts-on-winds-as-shoes, refs: ["CTH 349.2.1 §2:5-8"], note: "KUŠ E.SIR.HI.A-uš liliwanduš IM.HI.A-uš [šarkue]t 'he put on the shoes, the swift winds'; restored verb"}
+      - {motif: dream-and-vision-pair, refs: ["CTH 349.2.1 §1:3", "CTH 349.2.1 §2:10", "CTH 349.2.2 §1:7"], note: "tešhaš duntarriyašhaš 'dream and vision'; [nu-war]an-za-an {d}10-aš tarahzi 'the storm god defeats him'"}
+      - {motif: dream-revelation-of-god, refs: ["CTH 349.2.1 §1:3-4"]}
+    hints:
+      - "God who 'makes the winds his messengers' and rides the clouds: Ps 104:3-4; and Q 21:81 (the wind subjected to Solomon). Dream-and-vision pair: Num 12:6, Job 33:15, Q 12:4-6 (Joseph's dream)."
+
+  - id: ane-cth-350-1-sea-sends-wave
+    tradition: ane-hittite
+    title: Fragment with Ishtar - the Sea sends the wave against the storm god (CTH 350.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 350.1"]
+    tags:
+      - {motif: living-sent-down-to-sea, refs: ["CTH 350.1 §1:9-14"], note: "[the Sea] memiškezzi to [{d}i]mpaluri: aruni-kan TI-anduš kattanta 'the living down to the sea'; URUDU NAM-ṢA-RU uiyandu-pat 'let them send the sword'"}
+      - {motif: sea-sends-wave-against-storm-god, refs: ["CTH 350.1 §1:19-27"], note: "INIM.MEŠ ŠA {d}A.AB.BA IŠ-ME 'heard the words of the Sea'; hunhuneššar 'the wave'; A-NA {d}10 ... zahhiya uiyat 'sent to the storm god for battle'; Ishtar 3 DANNA down; {d}10-aš {d}IŠTAR-inna arha tarnaš 'the storm god let Ishtar go'; arha hadanut 'it dried up'"}
+      - {motif: sea-monster-defeated-by-god, refs: ["CTH 350.1 §1:27"]}
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 350.1 §1:15-18"], note: "loosely: the 'pleasant message' (šanezzin halugan) they do not hear, the pleasant (scent) of cedar they do not taste"}
+      - {motif: storm-god-king-of-all-humanity, refs: ["CTH 350.1 §1:7"], note: "{d}10 DUMU DINGIR.MEŠ 'storm god, child of the gods'"}
+    hints:
+      - "Sea fighting the storm god and drying up: compare Yamm and Baal (KTU 1.2), Ps 74:13-15 (dried up rivers), Exod 14:21 and Q 26:63 (the sea split), Q 44:24 (the sea left still)."
+
+  - id: ane-cth-350-2-ishtar-hazzi
+    tradition: ane-hittite
+    title: Fragment with Ishtar - queen of Nineveh, Mount Hazzi, naked (CTH 350.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 350.2"]
+    tags:
+      - {motif: goddess-seduces-monster-with-nakedness, refs: ["CTH 350.2 §1:2-5"], note: "{URU}ninuwaš MUNUS.LUGAL-aš; {HUR.SAG}hazzi 'Mount Hazzi' (Zaphon); nekumma[nt-] 'naked'; context of seduction inferred"}
+    hints:
+      - "Mount Hazzi is Ugaritic Zaphon: compare Ps 48:3 and Isa 14:13 ('mount of assembly in the far north')."
+
+  - id: ane-cth-350-3-pishaisha-and-ishtar
+    tradition: ane-hittite
+    title: Fragment with Ishtar - Mount Pishaisha and the sleeping Ishtar (CTH 350.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 350.3"]
+    tags:
+      - {motif: mountain-violates-sleeping-goddess, refs: ["CTH 350.3 §2:6-11"], note: "{d}IŠTAR-in NÍ.TE.MEŠ-ŠU 'Ishtar's limbs'; šešuwanzi ZI-anza 'desire to sleep'; {HUR.SAG}pišaišaš ... kattan šešta 'Pišaiša slept with (her)'; Ishtar šarā išparzašta 'sprang up'; kuiš-wa-mu kiššuwanti mehun[i] ... ašan(?) iyat 'who did (this) to me at such a time?'"}
+      - {motif: mortal-rapes-sleeping-goddess, refs: ["CTH 350.3 §2:8"]}
+      - {motif: offender-begs-do-not-kill-me, refs: ["CTH 350.3 §2:15-20"], note: "TUKU.TUKU-uwanza 'in anger'; nahta 'he was afraid'; ginuwaš kattan GIŠ HAŠHUR GIM-an 'at her knees like an apple'; lē-wa-mu-kan kuenti 'do not kill me!'; TI-tar ammuk memahhi 'life (for it) I will tell'"}
+      - {motif: sea-monster-defeated-by-god, refs: ["CTH 350.3 §2:21-23"], note: "{d}10-aš {d}arunan tarahzi 'the storm god defeats the Sea'; HUR.SAG.MEŠ-uš {d}10-an zahhiya [ta]rahhanzi 'the mountains defeat the storm god in battle'; Hazzi and other mountains of old"}
+    hints:
+      - "Compare Lot's daughters lying with their sleeping father (Gen 19:30-36) and Shukaletuda (ETCSL 1.3.3); the offender buying his life with a secret, as the jinn/Iblis bargain for respite (Q 7:14-15) only loosely."
+
+  - id: ane-cth-350-4-5-ishtar-fragments
+    tradition: ane-hittite
+    title: Fragments with Ishtar - Mount Pishaisha; 'Ishtar, my sister' (CTH 350.4, 350.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 350.4", "CTH 350.5"]
+    tags:
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 350.4 §1:2-4", "CTH 350.5 §2:6-7"], note: "I-NA {HUR.SAG}pišaiša; halukan-ma 'the message'; {d}IŠTAR NIN-YA 'Ishtar, my sister!'; Ishtar hears and liliwahta 'hurried'; [4-a]nki 5-anki 'four times, five times'"}
+    hints:
+      - "Ishtar as the storm god's sister: compare the sibling pair Baal and Anat (KTU 1.3)."
+
+  - id: ane-cth-351-1-ea-and-the-new-god
+    tradition: ane-hittite
+    title: Fragment with Ea - the beast tells Ea of a new god who will rule heaven and earth (CTH 351.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 351.1"]
+    tags:
+      - {motif: without-humans-gods-get-no-offerings, refs: ["CTH 351.1 §2:8-11"], note: "KISLAH-wani 'on the threshing floor'; DINGIR.MEŠ-aš NINDA.GUR4.RA-aš išpanduzziya piškanzi 'they give for the thick breads and libations of the gods'"}
+      - {motif: god-shall-keep-alive-whom-he-will, refs: ["CTH 351.1 §5:25-33"], note: "huišnuzi-ma-wa 'whom he keeps alive' ... EGIR-pa lē kuiški; Ú-UL-ma-wa kuin huišnuzi 'whom he does not keep alive'; nepiši šer dalāu 'let him leave them up in heaven'; dankuwai takni kattanta pennai 'drives down to the dark earth'"}
+      - {motif: heaven-earth-bound-and-held-subject, refs: ["CTH 351.1 §5:34-48", "CTH 351.1 §6:49-57"], note: "hūmandaš DINGIR.MEŠ-aš hatugan ēštu 'let him be terrible to all the gods'; išhimanaz ... tarahhan hardu 'hold subdued by a band'; dark earth with a sash (tarpalan), heaven looking with favour (aššuli); the great sea equipped; {MUŠ}illuiyangaš of rivers and sea drawn out"}
+      - {motif: animal-tells-high-god-of-new-god, refs: ["CTH 351.1 §7:59-64", "CTH 351.1 §9:88-93", "CTH 351.1 §10:94"], note: "{d}É-Aš šuppal EGIR-pa kiššan punušta 'Ea asked the beast again'; DINGIR-LUM ... tarhuilešzi 'will the god become mighty?'; daganzipan nepišan HUR.SAG.MEŠ ÍD.MEŠ ... tarahzi 'will he subdue earth, heaven, mountains, rivers?'; kinun ... miešzi 'now he grows'; ammuk šuppalanza 'I, the beast'; {d}É-A-aš Ú-UL šākti 'Ea, you do not know'"}
+      - {motif: wisdom-of-primeval-gods, refs: ["CTH 351.1 §8:70-75", "CTH 351.1 §10:95-102"], note: "[karu]iliaš DINGIR.MEŠ hattatar-šamit 'the wisdom of the primeval gods'; I-DE 'he knew'; nepišan kuies iēr 'who made heaven'; tuliaš pedi DINGIR.MEŠ-aš LUGAL-uezzanani 'at the place of assembly, in the kingship of the gods'; uktūri 'eternal' kingship; {d}gulšeš {d}darawies 'fate goddesses, Darawa' kept alive"}
+      - {motif: god-conceived-of-river-or-spittle, refs: ["CTH 351.1 §14:129", "CTH 351.1 §15:130-136"], note: "[{ÍD}]aranzahin armahhu 'become pregnant with the Aranzah (Tigris)!'; arha allapahhašta 'spat out'; {d}ZA-BA4-BA4-ma armahhu 'be pregnant with Zababa'; cf. Kumarbi swallowing in the Song of Kingship in Heaven"}
+      - {motif: fate-and-mother-goddesses-do-not-celebrate, refs: ["CTH 351.1 §11:104-108"], note: "DINGIR.MAH.MEŠ {d}gulšeš 'mother goddesses, fate goddesses' kept (the god) alive"}
+    hints:
+      - "'He gives life and death': compare Q 2:258 (Abraham: 'my Lord gives life and causes death'), Q 3:26 ('You give kingship to whom You will'), and 1 Sam 2:6-7; Deut 32:39."
+      - "An animal that knows what the wise god does not: compare the hoopoe telling Solomon 'I have encompassed what you have not' (Q 27:22) and Balaam's ass (Num 22:28)."
+      - "A god's eternal kingship over heaven, earth and sea: Q 2:255 (Throne verse), Q 67:1."
+
+  - id: ane-cth-351-2-ea-mad
+    tradition: ane-hittite
+    title: Fragment with Ea - Ea 'mad'; the storm god angered at the tutelary god's words (CTH 351.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 351.2"]
+    tags:
+      - {motif: why-do-you-kneel-rebuke, refs: ["CTH 351.2 §1:4", "CTH 351.2 §2:7-8"], note: "loosely: {d}É-A marlanza 'Ea ... foolish/mad'; {d}10-aš {d}LAMMA-aš udd[ār] 'the storm god (heard) the words of the tutelary god' and kartimmiya- 'became angry'"}
+    hints:
+      - "The storm god angered by the tutelary god LAMMA's claims: see the Song of LAMMA (CTH 343)."
+
+  - id: ane-cth-352-huranu-purifies
+    tradition: ane-hittite
+    title: Fragments with Huranu - Ishtar, evil words and purification (CTH 352.1, 352.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 352.1", "CTH 352.2"]
+    tags:
+      - {motif: god-purifies-one-bewitched-by-evil-words, refs: ["CTH 352.1 §6:21-28"], note: "haratnaza wašt[a-] 'sinned out of anger'; HUL-az memiyan[az] 'by evil words'; arha lāi 'he releases'; HUL-az alwan[zatar?] 'evil sorcery'; nan parkunut 'and he purified him'"}
+      - {motif: deity-asks-which-god-came-to-me, refs: ["CTH 352.1 §5:16-20"], note: "loosely: {d}hurānuš with {d}miyat[anzipa?]; TÚG šeknuššiya 'in his cloak' (repeated)"}
+    hints:
+      - "Release from the evil word and sorcery: compare Q 113 (refuge from the evil of those who blow on knots) and Q 2:102."
+
+  - id: ane-cth-353-daughter-of-pleiades
+    tradition: ane-hittite
+    title: Fragments with the daughter of the Pleiades - 'run from me!' (CTH 353.1, 353.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 353.1", "CTH 353.2"]
+    tags:
+      - {motif: pursued-flees-by-night-into-valley, refs: ["CTH 353.1 §2:5-12"], note: "ŠA {d}IMIN.IMIN.BI DUMU.MUNUS 'daughter of the Seven (Pleiades)': [per]an arha-wa-mu iit 'run away from me!'; Ú-UL dāliya[nzi] 'not leave you'; [G]E6-az-pat ... pidda- 'fled by night'; hāri kattanda pait 'went down into the valley'; katkattiškezzi 'trembles'"}
+      - {motif: hero-paralyzed-by-fear, refs: ["CTH 353.2 §1:10"], note: "[n]ahšaratti 'in fear'; a heavy stone; palahša garment; šuppari- 'sleep'"}
+      - {motif: maker-of-pleiades-and-orion, refs: ["CTH 353.1 §2:5"], note: "loosely: only the Pleiades {d}IMIN.IMIN.BI are named"}
+    hints:
+      - "The Pleiades: Job 9:9, 38:31, Amos 5:8; the Quran's star oaths (Q 53:1, 86:1-3)."
+
+  - id: ane-cth-360-1-appu-childless
+    tradition: ane-hittite
+    title: Tale of Appu - the rich childless man, the sun god's promise, and the births of Evil and Righteous (CTH 360.1 §1-16)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 360.1 §1:1-§16:112"]
+    tags:
+      - {motif: god-exalts-just-fells-wicked-like-tree, refs: ["CTH 360.1 §1:2-5"], note: "[ha]n[dand]uš LÚ.MEŠ-uš kuiš [šarl]iškezzi 'who exalts the just men'; huwappaš-kan LÚ.MEŠ-uš [GIŠ-ru m]ān lilakki 'fells the evil men like wood'; šakšakiluš walhannai 'strikes their skulls'; tuš harnikzi 'destroys them'"}
+      - {motif: do-not-lift-up-horn, refs: ["CTH 360.1 §1:2-5"]}
+      - {motif: rich-man-lacks-only-a-son, refs: ["CTH 360.1 §2:6-11", "CTH 360.1 §3:12", "CTH 360.1 §4:13-15"], note: "{URU}šudul in Lulluwa by the sea; {m}appu ... happinanza 'the richest'; GU4.HI.A UDU mekkiš; KÙ.BABBAR GUŠKIN NA4 ZA.GÌN ... hahhariyan 'heaped'; nu-šši-pa Ú-UL kuitki wakkari ... 1-an uttar wakkari: DUMU.NITA-ši DUMU.MUNUS-iš NU.GÁL 'he lacks nothing; one thing he lacks: he has neither son nor daughter'"}
+      - {motif: childless-man-shamed-at-elders-meal, refs: ["CTH 360.1 §4:16-19"], note: "LÚ.MEŠ ŠU.GI 'the elders' sit to eat; kuišša DUMU.NITA-li NINDA-an Ì-ya pāi 'each gives his son bread and fat'; {m}appuš-ma NINDA-an Ú-UL kuitanikki pāi 'Appu gives bread to no one'"}
+      - {motif: childless-man-sleeps-in-his-shoes, refs: ["CTH 360.1 §5:20-24", "CTH 360.1 §6:25-29"], note: "the table covered with linen stands before the altar (GIŠ ZAG.GAR.RA); [GIŠ].NÁ-aš šarkuwanza šeškit 'went to bed booted'; Ú-UL-wa kuššanka katta ēpta 'he never had intercourse'; the wife lies down beside him waššanza 'clothed'"}
+      - {motif: husband-dismisses-wife-as-understanding-nothing, refs: ["CTH 360.1 §7:30-37"], note: "Ù-az parkuiyatat 'started up from sleep'; [MUNUS-a]nza-wa-za MUNUS-niliyaz zik nu-wa Ú-UL kuitki šakti 'you are a woman of womanly kind and know nothing'"}
+      - {motif: childless-man-brings-white-lamb-to-sun-god, refs: ["CTH 360.1 §8:38-40"], note: "harkin SILA4-an dāš 'took a white lamb'; {d}UTU-i kattan iyanniš 'went to the sun god'"}
+      - {motif: god-takes-form-of-young-man, refs: ["CTH 360.1 §8:41-44"], note: "{d}UTU-uš-kan nepišaza katta š[akuwayat] 'looked down from heaven'; nan-za {LÚ}GURUŠ-anza kiš[at] 'he became a young man' and went to him"}
+      - {motif: god-asks-petitioner-what-is-your-grievance, refs: ["CTH 360.1 §8:45", "CTH 360.1 §9:47-52"], note: "[k]uit-wa waštultit 'what is your sin (offence)?'; nu-wa-mu aššu pier ... 1-an uttar wak[kari] ... NU.GÁL 'they have given me wealth; one thing I lack: neither son nor daughter'"}
+      - {motif: god-promises-son-go-sleep-with-wife, refs: ["CTH 360.1 §9:53-59"], note: "iit-za eku nu-za ninka 'go, drink, quench your thirst'; DAM-KA aššu šaštan šeški 'sleep well (in bed) with your wife'; DINGIR.MEŠ-aš pianzi 1-an DUMU.NITA-an 'the gods will give you one son'"}
+      - {motif: childless-king-prays-for-heir, refs: ["CTH 360.1 §8:38-45"]}
+      - {motif: storm-god-fears-disaster-at-sun-gods-coming, refs: ["CTH 360.1 §10:62-68", "CTH 360.1 §11:69-74"], note: "the storm god sees the sun god 3 DANNA off; KUR-eantaš {LÚ}SIPA.UDU-aš 'shepherd of the lands'; KUR-e-wa nikku kuwapikki harkan 'has the land perished somewhere?'; cities laid waste? troops beaten? orders the cook and cupbearer to give him food and drink"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["CTH 360.1 §10:65"]}
+      - {motif: pregnancy-months-counted-to-tenth, refs: ["CTH 360.1 §15:89-92"], note: "ITU 1.KAM ... ITU 9.KAM p[ait] nu [IT]U 10.KAM tiyat 'one month ... nine months passed, the tenth month arrived'; DAM {m}appu DUMU.NITA-an hašta"}
+      - {motif: birth-in-tenth-month, refs: ["CTH 360.1 §15:91", "CTH 360.1 §16:102"]}
+      - {motif: child-set-on-grandfathers-knee, refs: ["CTH 360.1 §15:93-96", "CTH 360.1 §16:104-107"], note: "{MUNUS}ÙMMEDA-aš ... karapta ... {m}appu ginuwaš halaiš 'the nurse lifted the son and set him on Appu's knees'; he rejoices and rocks him (kunkiškiuwan)"}
+      - {motif: son-named-evil-because-gods-chose-evil-way, refs: ["CTH 360.1 §15:97-100"], note: "šanezzi laman {LÚ}HUL-lu dāiš 'gave him the fine name Evil'; kuwapi-ši attašmiš DINGIR.MEŠ-aš NÍG.SI.SÁ-an KASKAL-an Ú-[UL ...] HUL-lu KASKAL-an harker 'since my fathers' gods did not (choose) the right road but kept the evil road'"}
+      - {motif: son-named-righteous-because-gods-chose-right-way, refs: ["CTH 360.1 §16:101-112"], note: "NÍG.SI.SÁ-an ŠUM-an daiš 'gave him the name Righteous'; [atta]šmiš DINGIR.MEŠ NÍG.SI.SÁ-an KASKAL-an eppir"}
+      - {motif: child-named-for-misfortune, refs: ["CTH 360.1 §15:97-100"]}
+      - {motif: barren-matriarch, refs: ["CTH 360.1 §6:26-29"], note: "here the failure is the husband's; the wife is not called barren"}
+    hints:
+      - "Childless rich man who petitions a god and is promised a son: compare Zakariyya's prayer (Q 19:2-10, Q 21:89-90, Q 3:38-41: 'my Lord, do not leave me alone, You are the best of inheritors') and Abraham's promise (Q 11:69-73, 51:24-30; Gen 15:2-4, 18:1-15)."
+      - "A god from heaven who takes the form of a young man: compare the spirit who appears to Mary 'as a well-formed man' (Q 19:17), the angels as men at Abraham's tent (Gen 18:2, Q 51:24) and Manoah's visitor (Judg 13)."
+      - "'What is your sin?': childlessness treated as a fault to be explained; compare Q 42:49-50 (He makes barren whom He wills) and 1 Sam 1:5-18 (Hannah)."
+      - "Child named for the father's gods' evil or right way: compare Gen 35:18 (Benoni/Benjamin), 1 Chr 7:23, and Q 3:36 (Mary named by her mother)."
+      - "Birth in the tenth (lunar) month: compare Q 46:15 (bearing and weaning thirty months)."
+
+  - id: ane-cth-360-1-appu-brothers-divide
+    tradition: ane-hittite
+    title: Tale of Appu - Evil and Righteous divide the estate; the lawsuit before the sun god and Ishtar (CTH 360.1 §17-30)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 360.1 §17:113-§30:174"]
+    tags:
+      - {motif: brothers-good-and-evil, refs: ["CTH 360.1 §19:121-126"], note: "{LÚ}HUL-aš ŠEŠ-aš 'brother Evil' and {LÚ}NÍG.SI.SÁ ŠEŠ 'brother Righteous'"}
+      - {motif: brothers-divide-estate-and-separate, refs: ["CTH 360.1 §18:116-120", "CTH 360.1 §19:121-123", "CTH 360.1 §21:139"], note: "when grown and come to manhood (LÚ-ni mehuni arāer) they divide; [ueš]a-wa-za šarraweni nu-wa-nnaš a[rhayan e]šuwaštati 'let us divide and settle apart'"}
+      - {motif: live-apart-as-gods-dwell-in-own-cities, refs: ["CTH 360.1 §19:127-130", "CTH 360.1 §20:131-138"], note: "HUR.SAG.HI.A GIM-an [arhayan aš]anzi ... ÍD.MEŠ ... aršanzi ... DINGIR.MEŠ-ya; {d}UTU-uš {URU}ZIMBIR, {d}30 {URU}kuzina, {d}10 {URU}kummiya, {d}IŠTAR {URU}nenuwa, {d}nanaya {URU}kiššina, {URU}KÁ.DINGIR.RA {d}AMAR.UTU"}
+      - {motif: cheating-brother-takes-better-share, refs: ["CTH 360.1 §21:140-142", "CTH 360.1 §22:143-147"], note: "half each; GIŠ APIN-aš GU4 'a plough ox' and ÁB-aš GU4 'a cow'; Evil takes the plough ox 'the good ox', gives [GU4].ÁB ... HUL-lun 'the cow, the bad ox' to Righteous"}
+      - {motif: god-blesses-the-lesser-share, refs: ["CTH 360.1 §22:148-150"], note: "{d}UTU-uš nepi[šaz ... šakuwaiy]at 'the sun god looked down from heaven'; paiddu-wa ... GU4.ÁB SIG5-ru ... hašdu 'from now on let the cow be good; let it give birth'"}
+      - {motif: sun-god-judges-brothers-lawsuit, refs: ["CTH 360.1 §23:154-156"], note: "[{URU}ZIMBI]R.ME erer ... {d}UTU-i DI-ešni tier 'they stepped before the sun god for judgement'; {LÚ}NÍG.SI.SÁ-an šar[laet] 'he made Righteous prevail'"}
+      - {motif: sun-god-judge-of-gods, refs: ["CTH 360.1 §23:155-156"]}
+      - {motif: loser-curses-the-divine-judge, refs: ["CTH 360.1 §24:157-158"], note: "[hur]zakiuwan dāiš 'began to curse'; {d}UTU-uš hurtāuš IŠ-ME 'the sun god heard the curses'; subject restored as Evil"}
+      - {motif: judge-god-refers-case-to-another-god, refs: ["CTH 360.1 §24:159-161", "CTH 360.1 §25:162-165"], note: "Ú-UL-[wa ... hanah]hi DI-eššar 'I will not judge the case for you'; {d}IŠTAR-iš {URU}ninuwaš ... hannāu 'let Ishtar of Nineveh judge it'; they reach Nineveh; then broken; colophon [DU]B 1.KAM Š[A {m}app]u NU.TIL 'first tablet of Appu, not finished'"}
+      - {motif: father-fixes-inheritance-shares-before-king, refs: ["CTH 360.1 §18:119"], note: "loosely: here the sons divide Appu's goods themselves"}
+    hints:
+      - "Good and evil brothers and an unequal division: compare Cain and Abel (Q 5:27-31, Gen 4), Jacob and Esau (Gen 25:29-34, 27), Abraham and Lot parting (Gen 13:8-12: 'let us separate'), and the Egyptian Truth and Falsehood."
+      - "God blessing the poorer share of the righteous: compare the owners of the garden (Q 68:17-33) and the two men with gardens (Q 18:32-44), where the proud one's better share is ruined."
+      - "The sun god as judge of a lawsuit between brothers: compare David and Solomon judging the field (Q 21:78-79) and 2 Sam 14:5-11."
+      - "Cursing the judge: compare Exod 22:27 (do not curse God or the ruler) and Q 6:108."
+
+  - id: ane-cth-360-2-4-appu-fragments
+    tradition: ane-hittite
+    title: Tale of Appu - fragments of Evil's dealings with Righteous (CTH 360.2, 360.3, 360.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 360.2", "CTH 360.3", "CTH 360.4"]
+    tags:
+      - {motif: evil-brothers-scheme-against-good-brother, refs: ["CTH 360.2 §2:3-6", "CTH 360.2 §3:7-10", "CTH 360.2 §4:12-14"], note: "[{LÚ}HUL-aš ŠE]Š-aš {LÚ}NÍG.SI.SÁ [...] memiškiuwan dāiš 'brother Evil began to speak to Righteous' (twice); harškiwen 'we plough'; GIŠ APIN-an 'the plough'; wātar eku 'drink water'; mān-wa-ran katt[a] 'how ... him down'"}
+      - {motif: sun-god-judge-of-gods, refs: ["CTH 360.2 §5:15-19"], note: "{d}UTU-uš IŠ-ME 'the sun god heard'; Evil; GIŠ HAŠHUR-lu 'an apple tree'; SAG.DU-an 'the head'"}
+      - {motif: brothers-good-and-evil, refs: ["CTH 360.3 §1:2-4", "CTH 360.4 §1:2-4"], note: "{LÚ}HUL-aš, idāluš 'evil', harranza 'damaged'; Evil and Righteous speak"}
+    hints:
+      - "The sun god who 'hears' the evil brother's words: compare Q 58:1 (God has heard the words of her who disputes), Q 20:46 ('I am with you, I hear and see') and Gen 4:10."
+
+  - id: ane-cth-361-i-1-keshshi-neglects-gods
+    tradition: ane-hittite
+    title: Tale of Keshshi the hunter - his beautiful wife, the neglected gods, the hidden game (CTH 361.I.1 §1-7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 361.I.1 §1:1-§7:34"]
+    tags:
+      - {motif: husband-neglects-gods-for-beautiful-wife, refs: ["CTH 361.I.1 §3:7-13"], note: "{m}udupšarriyaš NIN-SÚ ... DAM-anni 'Udupsarri's sister he took as wife'; {f}šintalimeni; mišriwanza 'beautiful'; parā A-NA DAM-ŠU-pat IŠ-ME 'he listened only to his wife'; DINGIR.MEŠ-uš NINDA haršit išpanduzzit Ú-UL kappuezzi 'no longer provides the gods with thick bread and libation'"}
+      - {motif: hunter-neglects-hunt-mother-complains, refs: ["CTH 361.I.1 §4:14-17"], note: "DAM-KA-pat-wa-tta-kan āššiyattat 'only your wife was dear to you'; HUR.SAG.MEŠ-aš hurnuwanzi Ú-UL pāiši 'you do not go to the mountains to hunt'; Ú-UL kuitki udatti 'you bring me nothing'"}
+      - {motif: angry-gods-hide-the-game, refs: ["CTH 361.I.1 §4:18-22"], note: "takes the spear (GIŠ ŠUKUR), calls the puppies, goes to Mount Natara; DINGIR.MEŠ-eš ... išpanduzzi šer kartimmiyawantes 'the gods were angry over the libation'; huitar [h]ūman peran arha munnāer 'hid all the game from him'"}
+      - {motif: hunter-will-not-return-empty-handed, refs: ["CTH 361.I.1 §5:23-25"], note: "ITU 3.KAM ... HUR.SAG.MEŠ-aš anda uehatta 'roams three months in the mountains'; šannapiliš nūman 'empty-handed he will not'; kašti kaninti 'in hunger and thirst'; [id]ālawanza GIG-anza harzi 'an evil illness holds him'"}
+      - {motif: divine-father-rebukes-devourers, refs: ["CTH 361.I.1 §5:26-28", "CTH 361.I.1 §6:29-33"], note: "HUR.SAG.MEŠ DUMU.MEŠ DINGIR.MEŠ 'mountains of the sons of the gods'; adanna 'to eat' Keshshi; [Š]A {m}keššima adda[š] DINGIR-LUM 'Keshshi's divine father'; [kuw]at-wa-ran ezzatteni 'why do you eat him?'"}
+      - {motif: king-provides-for-gods-hunger-and-thirst, refs: ["CTH 361.I.1 §3:11"]}
+    hints:
+      - "A man distracted from God by wife and pleasures: compare Q 64:14-15 (among your wives and children are enemies to you), Q 63:9 (let not wealth and children divert you from remembrance of God) and Solomon's wives turning his heart (1 Kgs 11:4)."
+      - "Gods withholding the hunt for neglected offerings: compare Q 68:17-33 (the garden owners who withheld the poor's share) and Hag 1:9-11."
+
+  - id: ane-cth-361-i-1-keshshi-seven-dreams
+    tradition: ane-hittite
+    title: Tale of Keshshi - seven dreams in one night and the mother's interpretation (CTH 361.I.1 §8-17)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 361.I.1 §8:35-§17:94"]
+    tags:
+      - {motif: series-of-seven-numbered-dreams, refs: ["CTH 361.I.1 §8:35", "CTH 361.I.1 §9:38", "CTH 361.I.1 §10:42", "CTH 361.I.1 §11:45", "CTH 361.I.1 §12:47", "CTH 361.I.1 §12:50"], note: "[zašhain] aušta 'he saw a dream', numbered second to seventh; the numerals are mostly restored ([6-anna-a]z zašhain)"}
+      - {motif: series-of-five-dreams, refs: ["CTH 361.I.1 §8:35-§12:50"]}
+      - {motif: dream-of-stone-falling-from-heaven, refs: ["CTH 361.I.1 §10:43-44"], note: "daššuš {NA4}kunkunuz[iš] 'a heavy diorite stone'; LÚ-ya katta da[m]ašta 'pressed down a man'; 'fell from heaven' in the translation is restored"}
+      - {motif: mother-interprets-dreams-of-companion, refs: ["CTH 361.I.1 §10:43", "CTH 361.I.1 §13:63-68"], note: "the stone from heaven as in Gilgamesh's dream; AMA-ŠÚ: za[šhiaš] uttar-šet apāt 'the word of the dream is this'; welku ša[lleškezzi] 'the grass grows'; arha-ma-šši-kan ÍD-aš ā[rašzi] 'a river flows out of it'"}
+      - {motif: mother-interprets-sons-dreams, refs: ["CTH 361.I.1 §12:57", "CTH 361.I.1 §13:58-68"]}
+      - {motif: series-of-seven-numbered-dreams, refs: ["CTH 361.I.1 §11:46", "CTH 361.I.1 §12:48-53"], note: "attaš DINGIR.MEŠ ... lapnuškiuwan 'the gods of his father kindled fire'; [GIŠ S]I.GAR UZU GÚ-ši kitta 'a neck-yoke lies on his neck'; MUNUS-aš GIŠ batalhaš 'a woman's clog'; UR.MAH 'lions'; āškaš 'to the gate'; [dammanašš]aruš uemiat 'found earth-serpents'"}
+      - {motif: sun-rises-with-halo-ends-night-of-dreams, refs: ["CTH 361.I.1 §12:54-57"], note: "lukkatta 'it grew light'; {d}[UT]U-uš-kan kalmaraz uet 'the sun god came with his radiance'"}
+      - {motif: hero-paralyzed-by-fear, refs: ["CTH 361.I.1 §13:58-62", "CTH 361.I.1 §13:70-71"], note: "kī mahhan i[yaweni] 'what shall we do?'; HUR.SAG-i akkueni 'shall we die in the mountains?'; karipandu 'let them devour me?'; akkueni 'we die'"}
+    hints:
+      - "Numbered dreams and their interpretation: compare Joseph (Q 12:4-6, 12:36-49; Gen 37, 40-41: Pharaoh's seven cows) and Gilgamesh's dreams of the meteor interpreted by Ninsun (Gilg SB I)."
+      - "The neck-yoke in a dream as sign of bondage: compare Jer 27:2 and 28:10-14."
+
+  - id: ane-cth-361-i-2-3-keshshi-fragments
+    tradition: ane-hittite
+    title: Tale of Keshshi - his mother's lament, the broken spear; a son born, the seventh year (CTH 361.I.2, 361.I.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 361.I.2", "CTH 361.I.3"]
+    tags:
+      - {motif: hunter-will-not-return-empty-handed, refs: ["CTH 361.I.2 §3:10-17"], note: "AMA {m}kiššiš uiški- 'Keshshi's mother weeps'; GIŠ ŠUKUR GIŠ uwamilaš 'spear of uwamila wood'; arha duwarnatt[a] 'you broke'; šanapiliš 'empty-handed' to Pera"}
+      - {motif: promised-children-born-in-seventh-year, refs: ["CTH 361.I.3 §2:2", "CTH 361.I.3 §3:6-9"], note: "DUMU.NITA-an hašt[a] 'bore a son'; LÚ.MEŠ ŠU.GI 'the elders' begin to entreat (wekeškiuwan); [I-N]A MU 7.KAM-ti 'in the seventh year'; DUMU.MUNUS-an DAM-anni 'a daughter in marriage'; context uncertain"}
+    hints:
+      - "Seven years before a marriage: compare Jacob serving seven years for Rachel (Gen 29:18-20) and Moses' eight or ten years (Q 28:27)."
+
+  - id: ane-cth-361-i-4-keshshi-fragment
+    tradition: ane-hittite
+    title: Tale of Keshshi - fragment with the righteous man, brothers, wives and the mill (CTH 361.I.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 361.I.4"]
+    tags:
+      - {motif: queen-city-grinds-at-millstones, refs: ["CTH 361.I.4 §1:5-6"], note: "loosely: DAM.MEŠ-KA-ma 'your wives'; É {NA4}ARA5 'the mill-house'; context of humiliation uncertain"}
+      - {motif: brothers-good-and-evil, refs: ["CTH 361.I.4 §1:2-3"], note: "{LÚ}NÍG.SI.SÁ-an 'the righteous one'; ŠEŠ.MEŠ-ŠU 'his brothers'; tuel A-B[U-KA] 'your father'; LÚ KÁ 'the gatekeeper'; armah- 'became pregnant'"}
+    hints:
+      - "Captive wives made to grind at the mill: Isa 47:2, Judg 16:21 (Samson grinding)."
+
+  - id: ane-cth-362-1-gurparanzah-archery
+    tradition: ane-hittite
+    title: Deeds of Gurparanzah - the hunt, the archery contest at Akkad, the wedding night (CTH 362.1, 362.2, 362.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 362.1", "CTH 362.2", "CTH 362.3"]
+    tags:
+      - {motif: king-hunts-wild-bulls-and-asses, refs: ["CTH 362.1 §3:11-13"], note: "huedar 'the game'; [PÌRIG.TU]R hartaggan {m}gurparanzahuš ... hudak kuenta 'Gurparanzah quickly killed a leopard (restored) and a bear'"}
+      - {motif: hero-wins-archery-contest-at-feast, refs: ["CTH 362.1 §3:14-15", "CTH 362.1 §4:16-24", "CTH 362.2 §2:3-8"], note: "{URU}aggata 'Akkad'; {m}impakruš with ŠU-ŠI LÚ.MEŠ 70 šargaueš 'sixty men and seventy nobles'; [ZA]G-naz ... ašešanut ... {LÚ}HA-TA-NI-ŠU 'seated at his right, his son-in-law'; GIŠ PAN.HI.A uekēr 'they asked for bows'; GI-aš IŠ-TU GIŠ PAN pariyan MUŠEN-iš mān iyattari 'the arrow flies from the bow like a bird'; šišiyawanzi taruhta 'he beat them at shooting'"}
+      - {motif: king-unrivalled-archer, refs: ["CTH 362.1 §4:22-24"]}
+      - {motif: bride-defers-union-to-another-day, refs: ["CTH 362.1 §5:25-35"], note: "Ì.DÙG.GA ... papparšeškanzi 'fine oil is sprinkled before him'; IŠ-TU GIŠ KUN5 'by a stair' to the bed; DAM-SÚ {f}tatizuli tamai UD-a[tti] 'his wife Tatizuli (fixed) another day'; lē-wa-za kuitman 'do not ... while'; ŠÀ É.ŠÀ-ni 'in the inner chamber'"}
+      - {motif: enemy-king-took-our-treasure, refs: ["CTH 362.1 §8:50-55"], note: "aūttini-wa 'see!'; LUGAL KUR {URU}ailanuwa [h]akhari dā[š] 'the king of Ailanuwa took the hakhari'; MUNUS-an 'the woman'; to Š[U-Š]I LUGAL.MEŠ 70 šargaueš"}
+      - {motif: father-in-law-delays-departure, refs: ["CTH 362.1 §7:47", "CTH 362.1 §9:62-63"], note: "loosely: {LÚ}gainanni 'in-lawship'; the woman, Gurparanzah, 70 nobles to eat and drink"}
+    hints:
+      - "The hero who wins a bride or honour by shooting: compare Odysseus' bow (Od. 21) and the archery of Jonathan (1 Sam 20:20-22); for a deferred wedding night, Tobit 8 and Gen 29:21-27."
+      - "Sixty and seventy as round numbers of retinues: compare Song 3:7 (sixty mighty men round Solomon's bed)."
+
+  - id: ane-cth-362-4-river-aranzah
+    tradition: ane-hittite
+    title: Deeds of Gurparanzah - the river Aranzah consoles the weeping hero and visits the mother goddess (CTH 362.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 362.4"]
+    tags:
+      - {motif: river-god-flies-like-eagle, refs: ["CTH 362.4 §3:13-16", "CTH 362.4 §6:34-36"], note: "{ÍD}aranzahaš TI8.MUŠEN-aš GIM-an tarnaš 'the Aranzah river left like an eagle'; {URU}nuadu DÙ-at 'made the city Nuwadu'; sat on the stair; IT-TI DINGIR.MAH pait 'went to the mother goddess (Hannahanna)'"}
+      - {motif: river-god-asks-why-do-you-weep, refs: ["CTH 362.4 §3:17-21", "CTH 362.4 §4:22"], note: "alalamniškezzi 'laments'; šargaueš ... ar[k]uiškanzi 'the nobles bow'; kuwat-wa ueškeši 'why do you lament?'; šuppayaza [IGI.H]I.A-waza išhahru parā āraš 'tears flowed from your pure eyes'; '[king] of Ailanuwa'"}
+      - {motif: god-ejaculates-filling-rivers, refs: ["CTH 362.4 §5:25-27"], note: "loosely: the river: ammuk-wa-z[a ... ] {d}10-aš SAG.DU-aš ... wātar 'the water of the storm god's head'; uškiškat[tallaš] 'watcher' of father and mother"}
+      - {motif: pharaoh-gives-city-as-dowry, refs: ["CTH 362.4 §5:28-33"], note: "loosely: Gurparanzah: DUMU.MUN[US] ... iwaru kuit pāi 'the dowry he gives me' from Akkad; unuwahhari 'I will adorn myself'"}
+      - {motif: meal-eaten-seven-times, refs: ["CTH 362.4 §6:37-40"], note: "{d}gulšuš ... {ÍD}aranzahan auer 'the fate goddesses saw the Aranzah'; gave him to drink; 1-ŠU 2-ŠU ... 7-ŠÚ 'once ... seven times'"}
+      - {motif: fate-and-mother-goddesses-do-not-celebrate, refs: ["CTH 362.4 §6:36-37", "CTH 362.4 §7:41-42"], note: "here the mother goddess and fate goddesses receive the river"}
+      - {motif: god-asks-petitioner-what-is-your-grievance, refs: ["CTH 362.4 §1:4", "CTH 362.4 §2:8-12"], note: "harpiyaši 'you make (me) defect'; ŠUM-an gulašmi 'I write the name'; handantatar 'divine providence'; colophon DUB 2.KAM Gurparanzah"}
+    hints:
+      - "A river that speaks to a weeping hero: compare the rivers that 'clap their hands' (Ps 98:8) and Hagar's well (Gen 21:16-19); 'why do you weep?': 1 Sam 1:8, John 20:13."
+      - "Handantatar 'divine providence' (the gods' just ordering): compare the Quranic qadar (Q 54:49)."
+
+  - id: ane-cth-362-5-7-gurparanzah-fragments
+    tradition: ane-hittite
+    title: Deeds of Gurparanzah - small fragments (CTH 362.5, 362.6, 362.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 362.5", "CTH 362.6", "CTH 362.7"]
+    tags:
+      - {motif: bride-defers-union-to-another-day, refs: ["CTH 362.6 §3:13-15", "CTH 362.7 §1:3-6"], note: "[GIŠ nat]hiši kattan šešta 'slept beside (her) on the bed'; GIŠ-ru GIM-an ... šešmi 'I sleep like wood'; Ú-UL šaliga 'does not approach'; šašti neyat 'turned in bed'"}
+      - {motif: river-god-flies-like-eagle, refs: ["CTH 362.5 §3:9"], note: "the Aranzah river named; GIŠ-ru watkuan 'leaping wood'; 5 LI-IM 'five thousand'"}
+    hints:
+      - "Lying beside a bride without approaching: compare Ruth 3:7-14 and 2 Sam 11:11-13 (Uriah who will not go to his wife)."
+
+  - id: ane-cth-363-1-sun-god-and-cow
+    tradition: ane-hittite
+    title: The Sun god and the cow - the sun god's desire, the cow's human child and her attempt to devour it (CTH 363.1 §1-10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 363.1 §1:1-§10:83"]
+    tags:
+      - {motif: sun-god-desires-cow-comes-down-as-young-man, refs: ["CTH 363.1 §1:9-15"], note: "GU4-uš mekki marri SIG5-t[at] 'the cow throve exceedingly'; {d}UTU-uš-kan AN-za GAM auš[ta] 'the sun god looked down from heaven'; A-NA GU4 ZI-aš parā watk[u]t 'desire leapt forth for the cow'; {LÚ}GUR[UŠ] 'a young man'; AN-za GAM uet 'came down from heaven'"}
+      - {motif: god-takes-form-of-young-man, refs: ["CTH 363.1 §1:13-14"]}
+      - {motif: god-sees-maiden-and-desires-her, refs: ["CTH 363.1 §1:11-12"]}
+      - {motif: storm-god-asks-father-where-were-you, refs: ["CTH 363.1 §1:16-21"], note: "loosely: kuiš ... [anz]el Ú.SAL arha weššeškeši 'who (are you that) you graze off our meadow?'; Ú.SAL arha harninkeškeši 'you ruin the pasture'"}
+      - {motif: pregnancy-months-counted-to-tenth, refs: ["CTH 363.1 §6:47"], note: "ITU 2.KAM ITU 3.KAM ... ITU 9.KAM ITU 10.KAM tiy[at]"}
+      - {motif: cow-bears-two-legged-child-and-would-devour-it, refs: ["CTH 363.1 §6:49-58"], note: "arha tarkuwa aušta 'looked away angrily'; ammuk-wa-za duddu :hal[zihhi?] 'I cry for mercy'; 4 GÌR.MEŠ-ŠU 'his four feet'; kūn-ma-wa-za ŠA 2 GÌR.MEŠ-ŠU kuwat hāšun 'why did I bear this two-footed one?'; GU4-uš UR.MAH-aš GIM-an KAxU-iš arha kinut 'opened her mouth like a lion'; DUMU-li adanna paišketta 'went at the child to eat it'; belly deep 'like a wave'"}
+      - {motif: sun-god-protects-exposed-child, refs: ["CTH 363.1 §7:59-64", "CTH 363.1 §9:67-69"], note: "AN-za GAM aušta ... GU4-i GAM-an tiyat 'looked down and stepped to the cow'; GAM paššuna 'to swallow'; the child; hahrieškezzi 'strokes'; IGI.HI.A-ŠU 'his eyes'"}
+    hints:
+      - "A god in human form who desires a creature: contrast Q 19:17-21 (the spirit as a man to Mary, who seeks refuge) and Gen 6:2."
+      - "A mother who would destroy her newborn: compare Q 81:8-9 (the buried infant girl asked for what sin she was killed) and the abandoned infant of Ezek 16:4-6."
+
+  - id: ane-cth-363-1-fisherman-adopts-child
+    tradition: ane-hittite
+    title: The Sun god, the cow and the fisherman - the child guarded by birds, found and adopted by the childless fisherman (CTH 363.1 §11-19, 363.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 363.1 §11:84-§19:169", "CTH 363.2"]
+    tags:
+      - {motif: sun-god-protects-exposed-child, refs: ["CTH 363.1 §12:91-103", "CTH 363.1 §16:121-124"], note: "the sun god strokes the child's limbs with his head; to Ša[...]: ŠU-za GIŠ GIDRU-an dā ... liliwanza IM.MEŠ šarku 'take the staff, put on the swift winds'; MUŠEN.HI.A zariyanalla, arwanalla birds over the child; TI8.MUŠEN 'eagles'; [GAG.HI.A] ... ellivankuš 'serpents' to be kept off; MUŠ.ŠÀ.TÙR-uš tuwa EGIR-pa tier 'the vipers drew far back'"}
+      - {motif: god-puts-on-winds-as-shoes, refs: ["CTH 363.1 §12:96-97"]}
+      - {motif: childless-fisherman-finds-child, refs: ["CTH 363.1 §15:114-116", "CTH 363.1 §16:125-139"], note: "pāimi-wa uhhi 'I will go and see'; {LÚ}ŠU.HA6 PA-NI ZI-ŠÚ 'the fisherman to himself': {d}UTU-i-ma uwahhat 'I was seen by the sun god'; šakti-mu-za kuwatka {d}UTU-uš DUMU-aš-mu kuit NU.GÁL 'do you know, sun god, that I have no child?'; {d}UTU-i-kan kuiš āššiyattari ... NINDA-an anda zikkezzi 'whoever is dear to the sun god, he puts bread in for him'; he lifts the child, rocks it, sets it on his lap (ÚR-ši) and carries it off"}
+      - {motif: found-by-commoner, refs: ["CTH 363.1 §16:135-139"]}
+      - {motif: wife-feigns-childbirth-to-adopt-foundling, refs: ["CTH 363.1 §17:140-153", "CTH 363.1 §18:159-168"], note: "{URU}urma; kūn-za DUMU-an dā nu-kan É.ŠÀ-ni anda iit ... GIŠ.NÁ-aš GAM šeški nu t[ašk]upai 'take this child, go into the bedroom, lie down in bed and scream'; DAM {LÚ}ŠU.HA6-wa-za DUMU.NITA-an hašta 'the fisherman's wife has borne a son'; NINDA, KAŠ-eššar, Ì brought; colophon [DU]B ...2.KAM NU.TIL"}
+      - {motif: adopt-as-son-perhaps-useful, refs: ["CTH 363.1 §16:131-134"]}
+      - {motif: saying-on-womans-wisdom-and-obedience, refs: ["CTH 363.1 §17:154-158"], note: "MUNUS-aš ZI-anza haddanza 'a woman's mind is clever'; tapariyaz-ma parā karšan harzi 'keeps away from command'; ŠA DINGIR-LIM-ya ... mitnaza 'from the god's ...'; MUNUS-aš-ma :hapazuwalanni aranza 'the woman stands in obedience'; LÚ-aš [memi]yan Ú-UL wahnuzzi 'does not twist the man's word'"}
+      - {motif: hero-gives-water-to-thirsty-guides-lost, refs: ["CTH 363.2 §1:4-8"], note: "loosely: GU4-un wellu 'the cow, the meadow'; weteni-t 'with water'; hašikt[a] 'was sated'"}
+    hints:
+      - "Exposed child protected under God's care and adopted by a childless household: compare Moses taken up by Pharaoh's house (Q 28:7-9: 'perhaps he will benefit us or we take him as a son'; Q 20:39 'that you be reared under My eye') and Exod 2:1-10; Sargon's birth legend."
+      - "'Whom the sun god loves he gives bread': compare Q 3:37 (Mary's provision, 'God provides for whom He wills without reckoning') and Ps 127:2."
+      - "Pretended childbirth to legitimate an adopted child: compare Gen 30:3 (born on my knees), Ruth 4:16-17 ('a son is born to Naomi')."
+
+  - id: ane-cth-364-1-silver-proem
+    tradition: ane-hittite
+    title: Song of Silver - proem (CTH 364.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 364.1"]
+    tags:
+      - {motif: singer-announces-theme-i-sing-of, refs: ["CTH 364.1 §2:7"], note: "[i]šhamihhiyan KÙ.BABBAR-an šanezz[in] 'I sing of the excellent Silver'"}
+      - {motif: primordial-time-when-thing-did-not-exist, refs: ["CTH 364.1 §2:8-13"], note: "haddantes LÚ.MEŠ-uš 'wise men' (told) me of the orphan (wan[numiaš]); [N]U.GÁL-at ešta 'it did not exist'; karū KÙ.BABBAR-i 'formerly to silver'"}
+      - {motif: wisdom-of-primeval-gods, refs: ["CTH 364.1 §1:1-6"], note: "Ú-UL kuiški iyazi 'no one celebrates (the sun god)'; [ut]tar-šet ... [hatt]atar-šet ... zahhaiššiš ... [han]dannaš 'his word, his wisdom, his battle, his divine providence' compared with theirs"}
+    hints:
+      - "'I sing of ...' openings: compare Exod 15:1 ('I will sing to YHWH') and the hymn proems; the claim that no one honours the god against Q 55 (Which of your Lord's favours will you deny?)."
+
+  - id: ane-cth-364-2-birth-of-silver
+    tradition: ane-hittite
+    title: Song of Silver - the orphan Silver learns his father is Kumarbi and becomes king over the gods (CTH 364.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 364.2"]
+    tags:
+      - {motif: pregnancy-months-counted-to-tenth, refs: ["CTH 364.2 §2:8-10"], note: "[IT]U 4.KAM pāer; ITU 5.KAM ...; [tiya]zzi 'arrives'; the months largely restored"}
+      - {motif: fatherless-child-asks-mother-who-is-my-father, refs: ["CTH 364.2 §5:18-35"], note: "takes away the staff (GIŠ GIDRU); KÙ.BABBAR-anti lē-mu-kan kueš[i] 'O Silver, do not kill me!'; [URU]-aš {URU}urkišaš attaš-šiš 'father of the city Urkish' (Kumarbi, restored); ŠEŠ-aš-ma-tta {d}10-a[š] ... nepiš[i] ... KUR-eanti LU[GAL-uš] 'your brother the storm god is king in heaven and in the land'; NIN-KA {d}GAŠAN-iš 'your sister Ishtar', queen of Nineveh"}
+      - {motif: fear-only-the-one-god, refs: ["CTH 364.2 §5:36-37", "CTH 364.2 §5:41-42"], note: "[... ] nāhi 'do not fear [any god]'; 1-edani-kan DIN[GIR-LIM-ni] 'the one god'; 1-edani {d}k[umarbi] 'the one, Kumarbi'; the negation is restored"}
+      - {motif: god-raises-low-lowers-high, refs: ["CTH 364.2 §5:38-40"], note: "KUR-e {LÚ}KÚR-ušša huitā[r] 'in the land enemies and wild beasts'; šarāzzi katterr[i] 'the upper (he makes go) down'; šarā huinuškezzi 'makes run up'"}
+      - {motif: deity-changes-fates-raises-lowly, refs: ["CTH 364.2 §5:38-40"]}
+      - {motif: son-seeks-absent-father-who-roams-the-land, refs: ["CTH 364.2 §5:43-48"], note: "{URU}urkišaš araš 'reached Urkish'; Ú-UL uemiyat 'did not find'; [u]eheškezzi HUR.SAG.MEŠ 'roams the mountains'"}
+      - {motif: usurper-drives-gods-in-wooden-fetter, refs: ["CTH 364.2 §7:52-56", "CTH 364.2 §11:88-89"], note: "LUGAL-uezzittat 'became king'; hūmantes DINGIR.MEŠ-muš ... GIŠ LAM.GAL-aš GIŠ patalhit na[nnāi] 'drives all the gods with a fetter of pistachio wood'; KÙ.BABBAR-anza ha[ttanza] 'wise Silver'"}
+      - {motif: monster-usurps-divine-kingship, refs: ["CTH 364.2 §7:55-56", "CTH 364.2 §8:57-67"], note: "the storm god to his vizier: ehu-wa paiweni adumeni 'come, let us go and eat'; [...] Ú-UL taruhta anzel a[tta] 'did not defeat our father'; will Silver defeat him now? nahhanz- 'they fear'"}
+      - {motif: father-of-the-gods-an, refs: ["CTH 364.2 §5:26"], note: "Kumarbi as father of Silver, restored"}
+    hints:
+      - "'Fear only the one god': a striking pre-echo, within polytheism, of Q 2:40-41 ('fear Me alone', iyyaya fa-rhabun), Q 16:51 ('do not take two gods; He is One God, so fear Me') and Deut 6:13; and of 1 Sam 2:6-8 / Q 3:26-27 (He exalts whom He wills and abases whom He wills)."
+      - "The fatherless son asking his mother about his father: compare Jesus 'son of Mary' (Q 19:27-33, the infant defending his mother) and Jephthah (Judg 11:1-2)."
+
+  - id: ane-cth-364-3-6-silver-fragments
+    tradition: ane-hittite
+    title: Song of Silver - the orphans' rebuke; the sun and moon bow to Silver (CTH 364.3, 364.4, 364.5, 364.6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 364.3", "CTH 364.4", "CTH 364.5", "CTH 364.6"]
+    tags:
+      - {motif: usurper-drives-gods-in-wooden-fetter, refs: ["CTH 364.3 §2:2-9", "CTH 364.5 §1:3-4"], note: "Kumarbi hink[att]a 'bowed'; GIŠ LAM.[GA]L-aš ... GIŠ patalhaz 'from the pistachio-wood fetter'; iit kattan 'go down!'; nan-kan GIŠ pat[alhit] 'him with the fetter'"}
+      - {motif: orphan-bully-rebuked-you-too-are-orphan, refs: ["CTH 364.4 §2:2-9", "CTH 364.4 §2:10-12", "CTH 364.4 §3:13-18"], note: "wannummiyan DUMU-an KÙ.BABBAR-anza GIŠ GI[DRU-it] 'Silver (beat) an orphan child with a stick'; HUL-lu uttar tet 'spoke the evil word': kuwat-wa-naš ... kuwaškeši 'why do you beat us?'; zikka-wa-za anzel iwar wannummiyaš DUMU-aš 'you too are an orphan like us'; Silver weeps and goes home to his mother: peran āškiza 'before the gate'; terišk[anzi] 'they defy me'"}
+      - {motif: weeping-like-orphan, refs: ["CTH 364.4 §2:8-9"]}
+      - {motif: sun-and-moon-bow-to-usurper, refs: ["CTH 364.5 §2:8-21"], note: "nakkiyatar 'might'; GIŠ marin 'the lance'; [{d}UTU-u]n {d}30-anna GAM huittiyat 'pulled the sun and the moon down'; [ka]ninier 'bowed down' to Silver; [l]ē-wa-nnaš-kan kueši 'do not kill us!'; ueša-wa ... [taknašš]a lalukkimiš 'we are the luminaries of [heaven] and earth'; GIŠ zuppari 'torch'; if you kill us, you will rule dark lands"}
+      - {motif: dream-heavenly-bodies-bow, refs: ["CTH 364.5 §2:11-13"]}
+      - {motif: gods-prostrate-before-victor, refs: ["CTH 364.5 §2:8", "CTH 364.5 §2:12-13"], note: "DINGIR.MEŠ-iš hūmantes ... uwanzi 'all the gods come'; genz[u] 'kindness' (§2:23)"}
+      - {motif: luminaries-rule-day-night, refs: ["CTH 364.5 §2:17-21"]}
+      - {motif: storm-god-asks-father-where-were-you, refs: ["CTH 364.6 §1:2-4", "CTH 364.6 §2:6-14"], note: "loosely: Ishtar LÚ-nili 'in the manner of a man'; kuway- 'fear'; Ishtar speaks to Silver: ukka-wa 'I too ...'; eku 'drink'"}
+    hints:
+      - "Sun and moon bowing: compare Joseph's dream of the sun, moon and eleven stars prostrating to him (Q 12:4, 12:100; Gen 37:9-10), and as divergence Q 41:37 ('do not prostrate to the sun or the moon, but to God who created them')."
+      - "'We are the lights of heaven and earth': compare Gen 1:14-18 and Q 10:5, 71:16 (sun a lamp, moon a light); the threat of a world of darkness, Q 28:71-72."
+      - "The orphan's rebuke: compare Q 93:6-9 ('did He not find you an orphan? ... so do not oppress the orphan'), Q 107:2 (who repulses the orphan) and Exod 22:21-23."
+
+  - id: ane-cth-365-mala-river-myth-and-ritual
+    tradition: ane-hittite
+    title: Myth and ritual of the Euphrates (Mala) - primeval gods, the king son of the sun god, plague (CTH 365)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 365"]
+    tags:
+      - {motif: primeval-gods-fix-earth-and-release-rivers, refs: ["CTH 365 §1:2-8"], note: "karūilēš DINGIR.MEŠ-eš ... tarmaer 'the primeval gods fixed (with pegs)'; ÍD.MEŠ-ma hūmanduš tarnir 'released all the rivers'; A-NA {ÍD}māla; KUR-e parkunuer 'purified the land'; [hat]talwaer 'bolted'"}
+      - {motif: god-dams-waters-builds-irrigation, refs: ["CTH 365 §1:3-5"]}
+      - {motif: gods-make-son-of-sun-god-king-of-land, refs: ["CTH 365 §2:10-11", "CTH 365 §4:21"], note: "{d}UTU-waš DUMU.NITA-an [hūm]antes DINGIR.MEŠ ēppir ... LUGAL-un iēr 'all the gods seized the son of the sun god and made him king'; {d}UTU-uš attaš-šiš 'the sun god his father'"}
+      - {motif: king-son-of-sun-god, refs: ["CTH 365 §2:10"]}
+      - {motif: primeval-reign-of-162-years, refs: ["CTH 365 §2:12-13"], note: "MU 1 ME ŠU-ŠI 2.KAM.HI.A 'one hundred sixty-two years'; šulle[r] 'they quarrelled'; cattle and sheep"}
+      - {motif: plague-after-creation-of-man, refs: ["CTH 365 §3:14-20"], note: "[DU]MU.LÚ.U19.LU mān kišati 'when man came into being'; hinkan 'plague'; MU 4.KAM 'four years'; kāš LUGAL-u[š] 'this king'"}
+      - {motif: human-formed-from-earth, refs: ["CTH 365 §3:14"], note: "only the creation of man is stated, not its manner"}
+      - {motif: myth-recited-as-plague-ritual, refs: ["CTH 365 §8:39-45"], note: "[Š]A {ÍD}māla SÍSKUR 'ritual of the Mala river'; KUR-ya anda hinkan kiša 'if plague arises in the land'; DINGIR-LIM arha ariyanzi 'establish by oracle before the deity'; king and queen ... people from the land; QA-TI 'finished'"}
+    hints:
+      - "Primeval gods who fixed the earth and released the rivers: compare Q 13:3 and 27:61 (He set firm mountains and made rivers), Q 79:30-31, and Gen 2:10-14 (Euphrates among the four rivers)."
+      - "Plague after the creation of man and the first king made by the gods: compare 2 Sam 24:15-25 (plague and David's altar) and, for divine appointment of a ruler on earth, Q 2:30 (khalifa) and Q 38:26 (David made vicegerent)."
+
+  - id: ane-cth-371-1-prayer-sun-goddess-of-earth
+    tradition: ane-hittite
+    title: Prayer of the king to the Sun goddess of the Earth and her underworld court (CTH 371.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 371.1"]
+    tags:
+      - {motif: god-chosen-as-personal-deity-by-king, refs: ["CTH 371.1 §1:1-2", "CTH 371.1 §2:3-9"], note: "[takn]āš {d}UTU-i DINGIR.MEŠ-ašša šipant[i] 'libates to the Sun goddess of the Earth'; duwaddu 'mercy!'; SAG.DU-za LUGAL-uš mukiškezzi 'the king himself invokes you'; DINGIR-LAM-du-za iet 'he has made you (his) god'; taknāš haliḫlištari 'he kneels on the ground'"}
+      - {motif: prayer-do-not-hear-slanderers-of-petitioner, refs: ["CTH 371.1 §3:10-19", "CTH 371.1 §5:36-37", "CTH 371.1 §8:52-53", "CTH 371.1 §9:59-60"], note: "takku-wan [atta]šiš kušduwaet zigan lē ištamašši 'if his father has slandered him, do not hear him!'; likewise mother, brother, sister, {LÚ}gainaššiš, {LÚ}araššiš 'in-law, friend'; later zigan lē tarnatti 'do not let him go'"}
+      - {motif: god-asked-to-lower-kind-eyes-raise-thousand-lashes, refs: ["CTH 371.1 §4:20-24"], note: "āššu IGI.HI.A-KA lāk 'bend your good eyes'; LI-IM laplippuš karap 'lift (your) thousand eyelashes'; LUGAL-un anda āššu šakuwaya 'look kindly on the king'; ear-line §4:23 is empty in the original, the translation supplies it; āššu uttar [i]štamaš 'hear the good word'"}
+      - {motif: deliver-from-evil-set-in-good-place, refs: ["CTH 371.1 §4:25-27", "CTH 371.1 §14:78"], note: "nan-kan i[dālawaz] dā 'take him from evil' (restored in §4:26, preserved in §14:78 idālauwaz dātten); āššawi pēdi tittanut 'set him in a good place'"}
+      - {motif: storm-god-sends-winds-in-succession-for-harvest, refs: ["CTH 371.1 §4:28-30", "CTH 371.1 §13:72"], note: "loosely: māu šešdu 'let it grow and thrive'; A-NA DINGIR.MEŠ NINDA.GUR4.RA GEŠTIN išpanduzz[i] aršiyattaru 'let thick bread, wine and libation flourish for the gods'"}
+      - {motif: underworld-court-asked-to-speak-good-of-king, refs: ["CTH 371.1 §5:31-35", "CTH 371.1 §6:38-41", "CTH 371.1 §7:42-46", "CTH 371.1 §8:47-51", "CTH 371.1 §9:54-58", "CTH 371.1 §10:61-63", "CTH 371.1 §11:64-66", "CTH 371.1 §12:67-69"], note: "duwaddu ... {d}LAMMA-ŠU, {LÚ}SUKKAL-ŠU, [AR]AD.MEŠ-ŠU 'who put her to bed and strengthen her', {d}dārawa, {d}parāya, chief eunuch, chief barber, {d}hilašši; DI-ma tuel ēštu 'the case shall be yours'; azzikki akkuški 'eat and drink'; ŠUM-MI LUGAL ... āššu taraški 'speak well of the king's name'"}
+      - {motif: gods-vizier-and-consort-intercede, refs: ["CTH 371.1 §6:38-40"]}
+      - {motif: god-acts-as-kings-intercessor-in-temple, refs: ["CTH 371.1 §13:70-77", "CTH 371.1 §14:80-84"], note: "mān uwatteni ... āššu šarā udatten 'when you come (up), bring good up!'; EGIR.UD-MI [DING]IR.MEŠ-nan uddār irhān ēšt[u] 'in future let the words of the gods be done in order'; the king has 'gone through' (celebrated) the Sun goddess and you"}
+      - {motif: slanderer-with-forked-tongue, refs: ["CTH 371.1 §15:85-87", "CTH 371.1 §16:88"], note: "kušduwata 'slander'; kuel id[ālu] 'whose evil'; broken"}
+    hints:
+      - "Intercessors in the court of the underworld goddess, bribed with food to speak well of the king: the sharpest divergence from the Quran's polemic against intercessors, Q 2:255 ('who can intercede with Him except by His leave?'), Q 10:18 ('these are our intercessors with God'), Q 39:3 ('we worship them only to bring us near'), Q 74:48."
+      - "Do not listen to slander even from father, mother or brother: compare Q 49:6 (verify the report of a wrongdoer), Q 31:14-15 (do not obey parents in associating partners) and Ps 27:10 ('though my father and mother forsake me')."
+      - "'Look with kind eyes, incline your ear': Ps 17:6, 2 Kgs 19:16, Dan 9:18; Quranic 'He hears and sees' (Q 58:1)."
+      - "'Take him from evil, set him in a good place': compare the Lord's Prayer 'deliver us from evil' and Q 23:29 ('my Lord, land me at a blessed landing place'), Q 7:23 (confession, forgiveness)."
+
+  - id: ane-cth-371-2-prayer-fragment
+    tradition: ane-hittite
+    title: Prayer to the Sun goddess of the Earth, fragment (CTH 371.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 371.2"]
+    tags:
+      - {motif: underworld-court-asked-to-speak-good-of-king, refs: ["CTH 371.2 §2:3-4"], note: "[āšša]ueš pūrieš šumeš 'you (with) good lips'; [ta]knāš {d}UTU-i peran ā[ššu] ... taraškitten 'speak well before the Sun goddess of the Earth'"}
+      - {motif: god-asked-to-accept-pure-food-and-water, refs: ["CTH 371.2 §5:10-11"], note: "[G]A.KIN.AG 'cheese' and DUG.KA.GAG 'beer jug' as offerings"}
+    hints:
+      - "Gods with 'good lips' asked to speak well: compare Q 20:109 (no intercession avails except for whom the Merciful permits) and Q 19:87."
