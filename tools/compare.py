@@ -13,6 +13,7 @@ Usage:
   python3 tools/compare.py [<pair>] text <unit id>        # the original text of a unit's read ranges
   python3 tools/compare.py [<pair>] find <words...>       # units of the other text with a motif whose id or label has all words
   python3 tools/compare.py [<pair>] validate <file>       # check a comparison file
+  python3 tools/compare.py [<pair>] flags                 # matches whose records differ in exactly one slot
 
 <pair> is hb-quran (the default), ane-hb or ane-quran. The first name is the
 folder; the reviewed side is the Quran for hb-quran and the ANE for the
@@ -23,7 +24,15 @@ passages of the other text its reader cited in hints, units it already shares
 one or two motifs with, and the units most similar by their motif labels (a
 weak signal, used only to propose). Every reviewed unit is included: units
 the motif track already pairs strongly are where the deliberate divergences
-are, and those are recorded too.
+are, and those are recorded too. For ane-quran, a fourth source: lexical
+traces (results/lexical/ane-traces.json), a Quran word concentrated in one
+narrative whose ANE cognate occurs in the unit.
+
+Blind pairs (ane-quran): the judge does not see the readers' hints or why a
+candidate was proposed, so a hint cannot steer the verdict. Matches carry an
+observation record (`record:`, the slots of data/records/README.md, each an
+[ANE, Quran] pair of values); `flags` lists the matches whose records agree
+in every slot but one, the shape of a deliberate divergence.
 """
 import pathlib
 import re
@@ -39,6 +48,8 @@ import originals  # noqa: E402
 DATA = motifs.DATA
 # pair -> (reviewed side, candidate side, number of chunks, candidates per unit)
 PAIRS = {"hb-quran": ("quran", "hb", 8, 6), "ane-hb": ("ane", "hb", None, 5), "ane-quran": ("ane", "quran", None, 4)}
+BLIND = {"ane-quran"}          # pairs judged without the readers' hints
+SLOTS = ("agent", "action", "object", "recipient", "instrument", "place", "time", "number", "name", "quoted", "outcome")
 PAIR = "hb-quran"
 PAIR_DIR = DATA / "alignments" / PAIR
 CANDIDATES = PAIR_DIR / "candidates.yaml"
@@ -142,6 +153,7 @@ def candidates():
     quran_text = originals.load_quran_text() if target_side == "quran" else None
     index = verse_index(target, hebrew_text, quran_text)
     target_motifs = {u["id"]: {t["motif"] for t in u["tags"]} for u in target}
+    traces = trace_targets(reviewed, index) if PAIR == "ane-quran" else {}
     vecs = label_vectors(vocab, target + reviewed)
     H = np.stack(vecs[:len(target)])
     out = []
@@ -153,10 +165,13 @@ def candidates():
             cands.setdefault(uid, []).append("hint")
         for n, uid in shared[:3]:
             cands.setdefault(uid, []).append(f"shares {n}")
+        for uid in traces.get(q["id"], []):
+            cands.setdefault(uid, []).append("trace")
         sims = H @ qv
         for j in np.argsort(-sims)[:SIMILAR]:
             cands.setdefault(target[j]["id"], []).append(f"similar {sims[j]:.2f}")
-        ranked = sorted(cands.items(), key=lambda kv: ("hint" not in kv[1], not any(r.startswith("shares") for r in kv[1])))
+        ranked = sorted(cands.items(), key=lambda kv: ("hint" not in kv[1] and "trace" not in kv[1],
+                                                       not any(r.startswith("shares") for r in kv[1])))
         out.append({"unit": q["id"], "candidates": [{"with": uid, "why": why} for uid, why in ranked[:MAX_CANDIDATES]]})
     # chunks of about equal candidate count, keeping reading order
     total = sum(len(o["candidates"]) for o in out)
@@ -175,6 +190,37 @@ def candidates():
     print(Counter(w.split()[0] for o in out for c in o["candidates"] for w in c["why"]))
 
 
+def trace_targets(reviewed, index):
+    """ANE unit -> Quran units, from the lexical traces: the Quran word's verses and its cognate's ANE units."""
+    import json
+    path = DATA.parent / "results" / "lexical" / "ane-traces.json"
+    if not path.exists():
+        return {}
+    ids = {u["id"] for u in reviewed}
+    out = {}
+    for t in json.loads(path.read_text(encoding="utf-8")):
+        qunits = list(dict.fromkeys(uid for r in t["refs"] for uid in index.get(r.split(":", 1)[-1] if r.count(":") > 1 else r, [])))
+        for x in t["ane"]:
+            for u in x["units"]:
+                if u["unit"] in ids:
+                    out.setdefault(u["unit"], [])
+                    out[u["unit"]] += [q for q in qunits[:3] if q not in out[u["unit"]]]
+    return out
+
+
+def flags():
+    """Matches whose observation records agree in every filled slot but one."""
+    for path in sorted(PAIR_DIR.glob("[0-9]*.yaml")):
+        for r in (yaml.safe_load(path.read_text(encoding="utf-8")) or {}).get("reviewed") or []:
+            for x in r.get("matches") or []:
+                rec = x.get("record") or {}
+                both = {k: v for k, v in rec.items() if isinstance(v, list) and len(v) == 2 and all(v)}
+                diff = [k for k, (a, b) in both.items() if str(a).strip().lower() != str(b).strip().lower()]
+                if len(both) >= 3 and len(diff) == 1:
+                    k = diff[0]
+                    print(f"{path.name}: {r['unit']} ~ {x['with']} [{x['relation']}] {k}: {both[k][0]} | {both[k][1]}")
+
+
 def plan_units():
     return yaml.safe_load(CANDIDATES.read_text(encoding="utf-8"))["units"]
 
@@ -185,6 +231,8 @@ def show_unit(uid, vocab, by_id):
     for t in u["tags"]:
         print(f"  {t['motif']}: {vocab[t['motif']]['label']}  [{', '.join(t['refs'])}]"
               + (f"  — {t['note']}" if t.get("note") else ""))
+    if PAIR in BLIND:
+        return
     for h in u.get("hints") or []:
         print(f"  hint: {h}")
 
@@ -240,6 +288,14 @@ def validate(path):
         for x in r.get("matches") or []:
             if x.get("relation") not in RELATIONS:
                 errors.append(f"{rel}: {r['unit']} ~ {x.get('with')}: relation must be one of {', '.join(RELATIONS)}")
+            rec = x.get("record")
+            if rec is not None:
+                bad = [k for k in rec if k not in SLOTS]
+                if bad or not isinstance(rec, dict) or any(not (isinstance(v, list) and len(v) == 2) for v in rec.values()):
+                    errors.append(f"{rel}: {r['unit']} ~ {x.get('with')}: record slots must be among {', '.join(SLOTS)}, "
+                                  "each a pair [this side, other side] (use null for an empty side)")
+            elif PAIR in BLIND:
+                errors.append(f"{rel}: {r['unit']} ~ {x.get('with')}: a record is required (data/records/README.md)")
             w = by_id.get(x.get("with"))
             if w is not None and not w["file"].startswith(f"{target_side}/"):
                 errors.append(f"{rel}: {r['unit']} ~ {x.get('with')}: not a {SIDE_NAMES[target_side]} unit")
@@ -260,6 +316,8 @@ def main():
         return candidates()
     if cmd == "validate":
         return validate(args[1])
+    if cmd == "flags":
+        return flags()
     if cmd == "plan":
         c = Counter()
         for o in plan_units():
@@ -275,7 +333,8 @@ def main():
             if o["chunk"] == int(args[1]):
                 print(f"{o['unit']}: {by_id[o['unit']]['title']}")
                 for c in o["candidates"]:
-                    print(f"    {c['with']}: {by_id[c['with']]['title']}  ({', '.join(c['why'])})")
+                    why = "" if PAIR in BLIND else f"  ({', '.join(c['why'])})"
+                    print(f"    {c['with']}: {by_id[c['with']]['title']}{why}")
     elif cmd == "unit":
         show_unit(args[1], vocab, by_id)
     elif cmd == "text":

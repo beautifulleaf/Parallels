@@ -1,7 +1,8 @@
 # Motif tags, flood cluster. Units with `original: true` cite verses whose
 # original text is in the repo (Quran, Hebrew Bible); the tags are a reader's
 # interpretation of that text. Units with `original: false` are tagged from
-# secondary knowledge until their original texts are added.
+# secondary knowledge until their original texts are added. The ANE units
+# (Gilgamesh XI, Atrahasis, Eridu Genesis) are assembled from the full ANE read.
 units:
   - id: quran-noah
     tradition: islam
@@ -62,55 +63,156 @@ units:
 
   - id: akk-gilgamesh-xi
     tradition: ane-akkadian
-    title: Utnapishtim's flood (Gilgamesh, Tablet XI)
-    original: false
-    tagger: Claude (model), from secondary knowledge
+    title: "Utnapishtim's flood (Gilgamesh, Standard Babylonian Tablet XI:8-206)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian; assembled from the full-read units ane-gilg-sb-xi-flood-decision-and-warning, ane-gilg-sb-xi-boat-built-and-loaded, ane-gilg-sb-xi-the-deluge, ane-gilg-sb-xi-landing-birds-sacrifice, ane-gilg-sb-xi-necklace-enlil-ea-immortality (data/motif-tags/ane/)"
+    read: ["Gilg SB XI:8-47", "Gilg SB XI:48-96", "Gilg SB XI:97-139", "Gilg SB XI:140-163", "Gilg SB XI:164-206"]
     tags:
-      - {motif: divine-decision-to-destroy, refs: ["Tablet XI"]}
-      - {motif: hero-warned-by-deity, refs: ["Tablet XI"], note: Ea}
-      - {motif: warning-through-wall, refs: ["Tablet XI"], note: reed hut and wall}
-      - {motif: build-vessel-on-instruction, refs: ["Tablet XI"]}
-      - {motif: vessel-dimensions-given, refs: ["Tablet XI"]}
-      - {motif: vessel-sealed-with-pitch, refs: ["Tablet XI"]}
-      - {motif: animals-aboard, refs: ["Tablet XI"]}
-      - {motif: family-saved, refs: ["Tablet XI"]}
-      - {motif: universal-destruction, refs: ["Tablet XI"]}
-      - {motif: vessel-rests-on-mountain, refs: ["Tablet XI"], note: Mount Nimush}
-      - {motif: bird-release, refs: ["Tablet XI"], note: dove, swallow, raven}
-      - {motif: sacrifice-after-flood, refs: ["Tablet XI"]}
-      - {motif: deity-smells-offering, refs: ["Tablet XI"], note: the gods gather like flies}
-      - {motif: sign-in-sky, refs: ["Tablet XI"], note: "the goddess's lapis necklace; proposed parallel to the bow"}
-
+      - {motif: flood-story-told-as-secret-of-gods, refs: ["Gilg SB XI:9-10"]}
+      - {motif: flood-hero-city-shuruppak, refs: ["Gilg SB XI:11-13"]}
+      - {motif: antediluvian-cities-assigned-to-gods, refs: ["Gilg SB XI:11-13"]}
+      - {motif: divine-decision-to-destroy, refs: ["Gilg SB XI:14"]}
+      - {motif: cause-of-the-flood, refs: ["Gilg SB XI:14"]}
+      - {motif: divine-council, refs: ["Gilg SB XI:14-19"]}
+      - {motif: gods-bound-by-oath-to-destroy, refs: ["Gilg SB XI:15-19"]}
+      - {motif: hero-warned-by-deity, refs: ["Gilg SB XI:19-31"]}
+      - {motif: warning-through-wall, refs: ["Gilg SB XI:20-22"]}
+      - {motif: build-vessel-on-instruction, refs: ["Gilg SB XI:24", "Gilg SB XI:28-31"]}
+      - {motif: abandon-wealth-save-life, refs: ["Gilg SB XI:25-26"]}
+      - {motif: seed-of-all-life-loaded, refs: ["Gilg SB XI:27", "Gilg SB XI:84"]}
+      - {motif: animals-aboard, refs: ["Gilg SB XI:27", "Gilg SB XI:86"]}
+      - {motif: vessel-dimensions-given, refs: ["Gilg SB XI:29-30", "Gilg SB XI:57-59"]}
+      - {motif: vessel-roofed-like-apsu, refs: ["Gilg SB XI:31"]}
+      - {motif: hero-agrees-asks-what-to-tell-people, refs: ["Gilg SB XI:32-35"]}
+      - {motif: flood-hero-speaks-before-flood, refs: ["Gilg SB XI:35-47"]}
+      - {motif: deceptive-cover-story-to-citizens, refs: ["Gilg SB XI:38-47"]}
+      - {motif: bread-rained-from-heaven, refs: ["Gilg SB XI:46-47"]}
+      - {motif: whole-city-helps-build-vessel, refs: ["Gilg SB XI:48-56"]}
+      - {motif: people-mock-builder, refs: ["Gilg SB XI:48-56"]}
+      - {motif: ark-of-planks-and-palm-fibre, refs: ["Gilg SB XI:54"]}
+      - {motif: vessel-is-a-cube, refs: ["Gilg SB XI:58-59"]}
+      - {motif: vessel-multiple-decks-door-window, refs: ["Gilg SB XI:61-63", "Gilg SB XI:94", "Gilg SB XI:137"]}
+      - {motif: vessel-six-decks-nine-compartments, refs: ["Gilg SB XI:61-64"]}
+      - {motif: vessel-sealed-with-pitch, refs: ["Gilg SB XI:55", "Gilg SB XI:66-67"]}
+      - {motif: bitumen-measured-in-myriads, refs: ["Gilg SB XI:66-70"]}
+      - {motif: builders-feasted-like-new-year, refs: ["Gilg SB XI:71-75"]}
+      - {motif: vessel-launched-on-slipway, refs: ["Gilg SB XI:76-80"]}
+      - {motif: silver-and-gold-loaded, refs: ["Gilg SB XI:81-83"]}
+      - {motif: family-saved, refs: ["Gilg SB XI:85"]}
+      - {motif: craftsmen-saved-in-vessel, refs: ["Gilg SB XI:86"]}
+      - {motif: contents-of-the-ark, refs: ["Gilg SB XI:81-86"]}
+      - {motif: description-of-the-ark, refs: ["Gilg SB XI:57-70"]}
+      - {motif: god-sets-deadline-for-boarding, refs: ["Gilg SB XI:87-91"]}
+      - {motif: sign-to-board, refs: ["Gilg SB XI:87-93"]}
+      - {motif: hero-seals-hatch-himself, refs: ["Gilg SB XI:94-96"]}
+      - {motif: god-shuts-the-door, refs: ["Gilg SB XI:89", "Gilg SB XI:94"]}
+      - {motif: storm-gods-march-before-flood, refs: ["Gilg SB XI:97-105"]}
+      - {motif: deity-preceded-and-followed-by-storm-attendants, refs: ["Gilg SB XI:100-101"]}
+      - {motif: waters-from-above-and-below, refs: ["Gilg SB XI:98-103"]}
+      - {motif: storm-darkens-all-light, refs: ["Gilg SB XI:106-107", "Gilg SB XI:112-113"]}
+      - {motif: universal-destruction, refs: ["Gilg SB XI:108-113", "Gilg SB XI:135"]}
+      - {motif: gods-frightened-by-flood, refs: ["Gilg SB XI:114-115"]}
+      - {motif: gods-cower-like-dogs, refs: ["Gilg SB XI:116"]}
+      - {motif: gods-flee-in-terror, refs: ["Gilg SB XI:114-116"]}
+      - {motif: mother-goddess-laments-her-people, refs: ["Gilg SB XI:117-124"]}
+      - {motif: goddess-laments-destruction-of-humans, refs: ["Gilg SB XI:117-124"]}
+      - {motif: god-regrets-creating, refs: ["Gilg SB XI:119-123"]}
+      - {motif: god-as-woman-in-labor, refs: ["Gilg SB XI:117", "Gilg SB XI:130-133b"]}
+      - {motif: humans-fill-sea-like-fish, refs: ["Gilg SB XI:124"]}
+      - {motif: gods-weep-with-mother-goddess, refs: ["Gilg SB XI:125-127"]}
+      - {motif: flood-lasts-seven-days-and-nights, refs: ["Gilg SB XI:128-129"]}
+      - {motif: flood-ends-on-seventh-day, refs: ["Gilg SB XI:130-133b"]}
+      - {motif: how-the-flood-waters-end, refs: ["Gilg SB XI:130-134"]}
+      - {motif: all-humanity-turned-to-clay, refs: ["Gilg SB XI:135-136"]}
+      - {motif: hero-opens-window-sees-light, refs: ["Gilg SB XI:137"]}
+      - {motif: sun-god-enters-ark, refs: ["Gilg SB XI:137"]}
+      - {motif: flood-hero-weeps-at-destruction, refs: ["Gilg SB XI:138-139"]}
+      - {motif: land-emerges-in-fourteen-places, refs: ["Gilg SB XI:140-141"]}
+      - {motif: vessel-rests-on-mountain, refs: ["Gilg SB XI:142-146"]}
+      - {motif: mountain-holds-vessel-six-days, refs: ["Gilg SB XI:143-146"]}
+      - {motif: end-of-the-flood-voyage, refs: ["Gilg SB XI:142-160"]}
+      - {motif: bird-release, refs: ["Gilg SB XI:147-156"]}
+      - {motif: dove-sent-returns-no-resting-place, refs: ["Gilg SB XI:148-150"]}
+      - {motif: swallow-sent-returns, refs: ["Gilg SB XI:151-153"]}
+      - {motif: raven-does-not-return-waters-receded, refs: ["Gilg SB XI:154-156"]}
+      - {motif: raven-sent-first, refs: ["Gilg SB XI:154-156"]}
+      - {motif: wind-abates-waters, refs: ["Gilg SB XI:155"]}
+      - {motif: sacrifice-after-flood, refs: ["Gilg SB XI:157-160"]}
+      - {motif: blessing-on-descent, refs: ["Gilg SB XI:157", "Gilg SB XI:202"]}
+      - {motif: sacrifice-to-four-winds-on-mountain-peak, refs: ["Gilg SB XI:157-160"]}
+      - {motif: incense-and-juniper-offered, refs: ["Gilg SB XI:158-160"]}
+      - {motif: deity-smells-offering, refs: ["Gilg SB XI:161-162"]}
+      - {motif: gods-gather-like-flies, refs: ["Gilg SB XI:163"]}
+      - {motif: goddess-necklace-of-flies-remember-forever, refs: ["Gilg SB XI:164-167"]}
+      - {motif: sign-in-sky, refs: ["Gilg SB XI:165-167"]}
+      - {motif: bow-in-cloud-reminds-god, refs: ["Gilg SB XI:166-167"]}
+      - {motif: promise-never-again, refs: ["Gilg SB XI:167"]}
+      - {motif: author-of-flood-excluded-from-offering, refs: ["Gilg SB XI:168-171"]}
+      - {motif: chief-god-angry-at-survivor, refs: ["Gilg SB XI:172-176"]}
+      - {motif: wise-god-rebukes-flood-god, refs: ["Gilg SB XI:179-187"]}
+      - {motif: individual-responsibility-for-sin, refs: ["Gilg SB XI:185-186"]}
+      - {motif: alternatives-to-flood-lion-wolf-famine-plague, refs: ["Gilg SB XI:188-195"]}
+      - {motif: four-evil-judgments, refs: ["Gilg SB XI:188-195"]}
+      - {motif: future-of-humankind-after-the-flood, refs: ["Gilg SB XI:185-195"]}
+      - {motif: secret-revealed-through-dream, refs: ["Gilg SB XI:196-197"]}
+      - {motif: flood-hero-and-wife-blessed-made-like-gods, refs: ["Gilg SB XI:199-204"]}
+      - {motif: flood-hero-granted-eternal-life, refs: ["Gilg SB XI:204"]}
+      - {motif: flood-hero-settled-at-mouth-of-rivers, refs: ["Gilg SB XI:205-206"]}
+      - {motif: flood-hero-settled-in-dilmun, refs: ["Gilg SB XI:205-206"]}
+      - {motif: seventh-patriarch-taken-by-god, refs: ["Gilg SB XI:204-206"]}
+      - {motif: how-noahs-story-ends, refs: ["Gilg SB XI:199-206"]}
   - id: akk-atrahasis
     tradition: ane-akkadian
-    title: Atrahasis
-    original: false
-    tagger: Claude (model), from secondary knowledge
+    title: "Atrahasis: the flood (Middle Babylonian fragments, the boat and the birds)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian; assembled from the full-read units ane-atr-mb-priv-boat, ane-atr-mb-ug2-birds (data/motif-tags/ane/)"
+    read: ["Atr MB Priv:1-60", "Atr MB Ug2:1-14"]
+    note: "Old Babylonian Tablets II-III (the plagues, the human noise, the flood and the gods smelling the offering) have no lines in eBL and are not in the repo (data/ane/SCOPE.md); the secondary-knowledge tags reason-human-noise, sacrifice-after-flood and deity-smells-offering are therefore dropped, not carried over."
     tags:
-      - {motif: divine-decision-to-destroy, refs: ["Tablets II–III"]}
-      - {motif: reason-human-noise, refs: ["Tablets I–II"]}
-      - {motif: hero-warned-by-deity, refs: ["Tablet III"], note: Enki}
-      - {motif: warning-through-wall, refs: ["Tablet III"]}
-      - {motif: build-vessel-on-instruction, refs: ["Tablet III"]}
-      - {motif: vessel-sealed-with-pitch, refs: ["Tablet III"]}
-      - {motif: animals-aboard, refs: ["Tablet III"]}
-      - {motif: family-saved, refs: ["Tablet III"]}
-      - {motif: sacrifice-after-flood, refs: ["Tablet III"]}
-      - {motif: deity-smells-offering, refs: ["Tablet III"]}
-
+      - {motif: warning-through-wall, refs: ["Atr MB Priv:1"]}
+      - {motif: hero-warned-by-deity, refs: ["Atr MB Priv:2–3"]}
+      - {motif: abandon-possessions-save-life, refs: ["Atr MB Priv:4a", "Atr MB Priv:4b–5"]}
+      - {motif: round-boat-coracle, refs: ["Atr MB Priv:6–7", "Atr MB Priv:8"]}
+      - {motif: vessel-dimensions-given, refs: ["Atr MB Priv:9", "Atr MB Priv:13-16"]}
+      - {motif: vessel-multiple-decks-door-window, refs: ["Atr MB Priv:17", "Atr MB Ug2:3-4", "Atr MB Ug2:9-10"]}
+      - {motif: vessel-sealed-with-pitch, refs: ["Atr MB Priv:18-22", "Atr MB Priv:31-33"]}
+      - {motif: family-saved, refs: ["Atr MB Priv:35-37"]}
+      - {motif: people-feast-unaware-before-flood, refs: ["Atr MB Priv:38-44"]}
+      - {motif: high-god-swears-total-annihilation, refs: ["Atr MB Priv:49-50"]}
+      - {motif: animals-in-pairs, refs: ["Atr MB Priv:51-52"]}
+      - {motif: door-of-ark-sealed-after-boarding, refs: ["Atr MB Priv:59-60"]}
+      - {motif: god-instructs-in-dream, refs: ["Atr MB Ug2:1-2", "Atr MB Ug2:7-10"]}
+      - {motif: bird-release, refs: ["Atr MB Ug2:5–6", "Atr MB Ug2:11-14"]}
+      - {motif: dove-returns-having-found-no-rest, refs: ["Atr MB Ug2:11-13"]}
   - id: sux-eridu-genesis
     tradition: ane-sumerian
-    title: Ziusudra (Eridu Genesis)
-    original: false
-    tagger: Claude (model), from secondary knowledge
+    title: "Ziusudra (Eridu Genesis, ETCSL 1.7.4, segments C-E)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian; assembled from the full-read units ane-etcsl-1-7-4-c-warning, ane-etcsl-1-7-4-d-flood, ane-etcsl-1-7-4-e-immortality (data/motif-tags/ane/)"
+    read: ["ETCSL 1.7.4 C:1-28", "ETCSL 1.7.4 D:1-17", "ETCSL 1.7.4 E:1-12"]
     tags:
-      - {motif: divine-decision-to-destroy, refs: ["Eridu Genesis"]}
-      - {motif: hero-righteous, refs: ["Eridu Genesis"], note: pious king}
-      - {motif: hero-warned-by-deity, refs: ["Eridu Genesis"], note: Enki}
-      - {motif: warning-through-wall, refs: ["Eridu Genesis"]}
-      - {motif: universal-destruction, refs: ["Eridu Genesis"]}
-      - {motif: sacrifice-after-flood, refs: ["Eridu Genesis"]}
-
+      - {motif: divine-decision-to-destroy, refs: ["ETCSL 1.7.4 C:22-23"]}
+      - {motif: goddess-laments-destruction-of-humans, refs: ["ETCSL 1.7.4 C:7"]}
+      - {motif: gods-bound-by-oath-to-destroy, refs: ["ETCSL 1.7.4 C:9-10"]}
+      - {motif: hero-righteous, refs: ["ETCSL 1.7.4 C:11-14"]}
+      - {motif: hero-warned-by-deity, refs: ["ETCSL 1.7.4 C:15-26"]}
+      - {motif: warning-through-wall, refs: ["ETCSL 1.7.4 C:17-21"]}
+      - {motif: divine-assembly-decree-irrevocable, refs: ["ETCSL 1.7.4 C:24-25"]}
+      - {motif: divine-council, refs: ["ETCSL 1.7.4 C:24"]}
+      - {motif: flood-lasts-seven-days-and-nights, refs: ["ETCSL 1.7.4 D:3-5"]}
+      - {motif: universal-destruction, refs: ["ETCSL 1.7.4 D:1-4"]}
+      - {motif: sun-god-enters-ark, refs: ["ETCSL 1.7.4 D:6-8"]}
+      - {motif: vessel-multiple-decks-door-window, refs: ["ETCSL 1.7.4 D:7"]}
+      - {motif: sacrifice-after-flood, refs: ["ETCSL 1.7.4 D:9-11"]}
+      - {motif: oath-by-heaven-and-earth, refs: ["ETCSL 1.7.4 E:1-2"]}
+      - {motif: animals-aboard, refs: ["ETCSL 1.7.4 E:3", "ETCSL 1.7.4 E:10"]}
+      - {motif: blessing-on-descent, refs: ["ETCSL 1.7.4 E:4-6"]}
+      - {motif: flood-hero-granted-eternal-life, refs: ["ETCSL 1.7.4 E:7-8"]}
+      - {motif: flood-hero-settled-in-dilmun, refs: ["ETCSL 1.7.4 E:11"]}
+      - {motif: seventh-patriarch-taken-by-god, refs: ["ETCSL 1.7.4 E:7-11"]}
   - id: hin-shatapatha-manu
     tradition: hinduism
     title: Manu and the fish (Śatapatha Brāhmaṇa 1.8.1)
