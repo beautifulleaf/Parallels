@@ -585,7 +585,7 @@ units:
       - {motif: son-makes-fathers-coffin, refs: ["KAI 1 main:1-2"], note: "ʾrn z pʿl [ʾt]bʿl bn ʾḥrm mlk gbl lʾḥrm ʾbh k šth bʿlm 'this coffin made Ittobaal son of Ahiram ... for Ahiram his father, when he laid him in eternity'"}
       - {motif: curse-on-tomb-violator, refs: ["KAI 1 main:3-9"], note: "any mlk bmlkm, skn bsknm, commander who uncovers (wygl) this coffin"}
       - {motif: curse-sceptre-stripped-throne-overturned, refs: ["KAI 1 main:7-9"], note: "tḥtsp ḥṭr mšpṭh thtpk ksʾ mlkh wnḥt tbrḥ ʿl gbl"}
-      - {motif: curse-on-defacer-of-inscription, refs: ["KAI 1 main:10-11"], note: "whʾ ymḥ spr z lpp šbl - meaning of l.11 uncertain"}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["KAI 1 main:10-11"], note: "whʾ ymḥ spr z lpp šbl - meaning of l.11 uncertain"}
       - {motif: eternal-house-of-the-dead, refs: ["KAI 1 main:2"], note: "bʿlm 'in eternity'"}
     hints:
       - "Curse that the sceptre depart: compare Gen 49:10 ('the sceptre shall not depart from Judah'), Hag 2:22 ('I will overturn the throne of kingdoms'), Ezek 19:14."
@@ -599,9 +599,9 @@ units:
     tagger: "Claude (model), reading the Phoenician"
     read: ["KAI 4 W1:1-7", "KAI 4 W2:1-7"]
     tags:
-      - {motif: king-restores-ruined-temples, refs: ["KAI 4 W1:1", "KAI 4 W1:2–3", "KAI 4 W2:1-2"], note: "bt z bny yḥmlk ... hʾt ḥwy kl mplt hbtm 'he restored all the ruins of these houses'"}
+      - {motif: king-restores-shrine-from-dust, refs: ["KAI 4 W1:1", "KAI 4 W1:2–3", "KAI 4 W2:1-2"], note: "bt z bny yḥmlk ... hʾt ḥwy kl mplt hbtm 'he restored all the ruins of these houses'"}
       - {motif: gods-prolong-days-of-just-king, refs: ["KAI 4 W1:3–4", "KAI 4 W1:5–6", "KAI 4 W1:6–7", "KAI 4 W2:3-7"], note: "yʾrk bʿlšmm wbʿlt gbl ... ymt yḥmlk wšntw ʿl gbl k mlk ṣdq wmlk yšr lpn ʾl gbl qdšm"}
-      - {motif: assembly-of-holy-gods, refs: ["KAI 4 W1:4–5", "KAI 4 W2:4-5"], note: "wmpḥrt ʾl gbl qdšm 'the assembly of the holy gods of Byblos'"}
+      - {motif: assembly-of-holy-ones, refs: ["KAI 4 W1:4–5", "KAI 4 W2:4-5"], note: "wmpḥrt ʾl gbl qdšm 'the assembly of the holy gods of Byblos'"}
       - {motif: just-and-upright-king, refs: ["KAI 4 W1:6–7", "KAI 4 W1:7"], note: "mlk ṣdq wmlk yšr"}
     hints:
       - "'Assembly of the holy ones': compare Ps 89:6-8 (qehal qedoshim), Ps 82:1; the Quran's 'exalted assembly' (al-malaʾ al-aʿla), Q 37:8, 38:69."
@@ -655,7 +655,7 @@ units:
       - {motif: king-builds-altar-and-gold-door-for-goddess, refs: ["KAI 10 main:3-7"], note: "hmzbḥ nḥšt zn ... whptḥ ḥrṣ zn ... whʿpt ḥrṣ ... hʿrpt zʾ wʿmdh ... 'this bronze altar, this gold doorway, the gold winged disc (?) on the stone, this portico and its pillars'"}
       - {motif: gods-prolong-days-of-just-king, refs: ["KAI 10 main:8-9"], note: "tbrk bʿlt gbl ʾyt yḥwmlk ... wtḥww wtʾrk ymw wšntw ʿl gbl k mlk ṣdq hʾ"}
       - {motif: favour-in-eyes-of-gods-and-people, refs: ["KAI 10 main:9-11"], note: "wttn [lw hrbt b]ʿlt gbl ḥn lʿn ʾlnm wlʿn ʿm ʾrṣ z"}
-      - {motif: curse-on-defacer-of-inscription, refs: ["KAI 10 main:11-16"], note: "ʾm tsr mlʾkt zʾ ... wtgl mstrw tsrḥw hrbt bʿlt gbl ʾyt hʾdm hʾ wzrʿw ʾt pn kl ʾln gbl 'may the Lady make that man and his seed stink before all the gods of Byblos'"}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["KAI 10 main:11-16"], note: "ʾm tsr mlʾkt zʾ ... wtgl mstrw tsrḥw hrbt bʿlt gbl ʾyt hʾdm hʾ wzrʿw ʾt pn kl ʾln gbl 'may the Lady make that man and his seed stink before all the gods of Byblos'"}
       - {motif: future-builder-must-keep-founders-name, refs: ["KAI 10 main:11-13"], note: "kl ʾdm ʾš ysp lpʿl mlʾkt ... šm ʾnk yḥwmlk ... tšt ʾtk ʿlt mlʾkt hʾ 'put my name with yours on that work'"}
     hints:
       - "'I called and she heard my voice': compare Q 2:186 ('I answer the call of the caller when he calls Me'), Q 40:60, 27:62; HB Ps 18:7, Jonah 2:3."
@@ -712,7 +712,7 @@ units:
     read: ["KAI 14 Lid:13-22"]
     tags:
       - {motif: queen-mother-priestess-co-builder, refs: ["KAI 14 Lid:14-16"], note: "wʾmy ʾmʿštrt khnt ʿštrt rbtn hmlkt ... ʾm bnn ʾyt bt ʾlnm"}
-      - {motif: king-restores-ruined-temples, refs: ["KAI 14 Lid:15-18"], note: "temples of Astarte in Sidon 'land of the sea', of Eshmun 'holy prince' at the spring YDLL in the mountain, of Baal of Sidon"}
+      - {motif: royal-pair-builds-temples-of-sidon, refs: ["KAI 14 Lid:15-18"], note: "temples of Astarte in Sidon 'land of the sea', of Eshmun 'holy prince' at the spring YDLL in the mountain, of Baal of Sidon"}
       - {motif: gods-enthroned-in-mighty-heavens, refs: ["KAI 14 Lid:16-17"], note: "wyšrn ʾyt ʿštrt šmm ʾdrm; wyšbny šmm ʾdrm - or a place-name Shamem-Addirim"}
       - {motif: astarte-name-of-baal, refs: ["KAI 14 Lid:18"], note: "bt lʿštrt šm bʿl 'a temple for Astarte, Name of Baal'"}
       - {motif: overlord-grants-territory-as-reward, refs: ["KAI 14 Lid:18-20"], note: "ytn ln ʾdn mlkm ʾyt dʾr wypy ʾrṣt dgn hʾdrt ʾš bšd šrn lmdt ʿṣmt ʾš pʿlt ... lʿlm 'the lord of kings (the Persian king) gave us Dor and Joppa, the mighty lands of Dagon in the plain of Sharon'"}
@@ -735,7 +735,7 @@ units:
       - {motif: girl-sold-for-sheep-man-for-garment, refs: ["KAI 24 main:8"], note: "wʿlmt ytn bš wgbr bswt 'a young woman was given for a sheep and a man for a garment'"}
       - {motif: king-as-father-mother-brother-to-subjects, refs: ["KAI 24 main:9-11", "KAI 24 main:13"], note: "wʾnk lmy kt ʾb wlmy kt ʾm wlmy kt ʾḥ; the muškabim ytlnn ... km klbm 'lay down like dogs'; tmkt mškbm lyd 'I took the muškabim by the hand'; kms nbš ytm bʾm 'like an orphan's soul toward its mother'"}
       - {motif: king-makes-poor-rich, refs: ["KAI 24 main:11-13"], note: "wmy bl ḥz pn š štyw bʿl ʿdr ... bʿl bqr wbʿl ksp wbʿl ḥrṣ ... wbymy ksy bṣ 'who never saw a sheep I made lord of a flock ... whoever never saw linen from his youth, in my days was covered with byssus'"}
-      - {motif: curse-on-defacer-of-inscription, refs: ["KAI 24 main:13-16"], note: "wmy yšḥt hspr z yšḥt rʾš bʿl ṣmd ʾš lgbr wyšḥt rʾš bʿl ḥmn ʾš lbmh wrkbʾl bʿl bt"}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["KAI 24 main:13-16"], note: "wmy yšḥt hspr z yšḥt rʾš bʿl ṣmd ʾš lgbr wyšḥt rʾš bʿl ḥmn ʾš lbmh wrkbʾl bʿl bt"}
       - {motif: muskabim-and-baaririm-not-to-honour-each-other, refs: ["KAI 24 main:14-15"], note: "mškbm ʾl ykbd lbʿrrm wbʿrrm ʾl ykbd lmškbm - two social classes of Samʾal"}
       - {motif: sat-on-fathers-throne, refs: ["KAI 24 main:9"], note: "yšbt ʿl ksʾ ʾby"}
     hints:
@@ -757,7 +757,7 @@ units:
       - {motif: oath-by-heaven-and-earth, refs: ["KAI 27 W1:13-18"], note: "bʾlt šmm wʾrṣ ʿd ʿlm bʾlt bʿl [zb]l ʾrṣ bʾlt ʾšt ḥwrn ʾš tm py wšbʿ ṣrty wšmnh ʾštm bʿl qdš"}
       - {motif: doorpost-protected-by-incantation, refs: ["KAI 27 W1:22-26"], note: "mnʿt lpy ptḥy wʾwr lmzzt 'I have denied access to the opening of his door ... to the doorpost' (mzzt, cf. mezuzah)"}
       - {motif: demon-vanishes-at-sunrise, refs: ["KAI 27 W1:26-29"], note: "yṣʾ šmš kssm ḥlp wldr ʿp 'the sun rises; like a moth vanish and fly away forever'"}
-      - {motif: sons-of-god-as-divine-beings, refs: ["KAI 27 W1:11"], note: "kl bn ʾlm"}
+      - {motif: assembly-of-holy-ones, refs: ["KAI 27 W1:11"], note: "kl bn ʾlm"}
     hints:
       - "Refuge from night-time evils: Q 113:3 ('from the evil of darkness when it gathers') and Q 114 (the whisperer who withdraws); Ps 91:5-6 (terror of the night, pestilence stalking in darkness)."
       - "Words on the doorpost: Deut 6:9, 11:20 (mezuzah); compare Exod 12:23 (the destroyer not allowed to enter)."
@@ -959,7 +959,7 @@ units:
     tags:
       - {motif: what-is-your-servant-a-dog, refs: ["KAI 192-199 W7:3-5", "KAI 192-199 W8:2-4"]}
       - {motif: letter-greeting-yhwh-make-lord-hear-peace, refs: ["KAI 192-199 W7:1-3", "KAI 192-199 W8:1-2"], note: "yrʾ yhwh ʾt ʾdny ʾt hʿt hzh šlm 'may YHWH let my lord see peace at this time'"}
-      - {motif: prophet-accused-of-weakening-hands, refs: ["KAI 192-199 W8:4-7"], note: "spr hmlk wʾt spry hśrm ... whnh dbry h[śrm] lʾ ṭbm lrpt ydym wlhšqṭ ydy hʾrṣ 'the words of the officials are not good, to weaken the hands and to slacken the hands of the land' - the printed text reads hnbʾ 'the prophet' at W8:5, older reading; the edition-dependent word matters"}
+      - {motif: prophet-accused-of-weakening-hands, refs: ["KAI 192-199 W8:4-7"], note: "spr hmlk wʾt spry hśrm lʾmr qrʾ nʾ whnh dbry hnbʾ lʾ ṭbm lrpt ydym wlhšqṭ ydy hʾrṣ 'the letter of the king and the letters of the officials ... and behold the words of the prophet are not good, to weaken the hands and slacken the hands of the land' - the printed text reads hnbʾ; many editions read h[śrm] 'the officials'"}
       - {motif: oath-as-yhwh-lives, refs: ["KAI 192-199 W8:11-12"], note: "wḥy yhwh ʾlhyk"}
       - {motif: subordinate-urges-lord-to-write-reproof, refs: ["KAI 192-199 W8:7-10"], note: "hlʾ tktb ʾlhm lʾmr lmh tʿśw kzʾt 'will you not write to them: why do you do this?'"}
       - {motif: letters-returned-to-sender, refs: ["KAI 192-199 W7:4-7"], note: "ky šlḥt ʾl ʿbdk ʾt hsprm ... hšb ʿbdk hsprm ʾl ʾdny"}
