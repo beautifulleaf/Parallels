@@ -126,6 +126,55 @@ new_motifs:
   seven-years-eight-cycles-of-drought: {label: "Seven years El fills, eight cycles of time, while the produce of the fields is scorched", cluster: myth}
   city-life-stops-at-gods-fall: {label: "At the god's fall the king ceases to judge, the women drawing water leave the spring, the noise in El's house and the clatter of the craftsman's house cease", cluster: myth}
   goddess-promised-seat-on-high-heavens: {label: "Incantation-hymn: the goddess is promised a seat on the roof of the high heavens, where the stars fall like bricks", cluster: myth}
+  days-pass-formula: {label: "Time formula: 'a day, two days passed' (ym wṯn), counted on to the seventh day, or 'days, months, years'", cluster: myth}
+  messenger-not-to-be-harmed: {label: "An attack on envoys is rebuked as unthinkable: 'how could you strike the messengers?'", cluster: myth}
+  god-without-wife-like-gods: {label: "A god is taunted that he has no wife like the other gods", cluster: myth}
+  sun-deity-lamp-of-gods: {label: "The Sun deity is called 'the Lamp of the gods' (nrt ilm špš)", cluster: theology}
+  fall-to-earth-strong-into-dust: {label: "Curse or boast: 'may the mighty fall to the earth, the strong into the dust'", cluster: myth}
+  mixed-wine-of-feast: {label: "At a feast wine is mixed with spices in vast quantity (a thousand jars, ten thousand mixed)", cluster: cult}
+  locust-simile: {label: "Things or people are likened to locusts or grasshoppers for their number", cluster: myth}
+  bow-of-goddess: {label: "A goddess carries a bow and drives captives with its string", cluster: myth}
+  lyre-song-of-gods-love: {label: "A singer takes the lyre to his breast and sings of the god's love for his brides or daughters", cluster: cult}
+  storm-god-driven-from-zaphon-like-bird: {label: "An enemy drove the storm god from the heights of his mountain like a bird from its nest and from the throne of his kingship", cluster: myth}
+  loins-shake-in-terror-at-news: {label: "At bad news or a sudden sight the hearer's feet shake, loins break, face sweats and back gives way", cluster: myth}
+  storm-god-lightning-horns-kindled: {label: "The storm god sets his thunderbolt in the heavens and kindles his horns (lightning rays)", cluster: myth}
+  mother-of-gods-creatress: {label: "The mother goddess (Athirat) is called 'Creatress of the gods' (qnyt ilm), mother of seventy sons", cluster: theology}
+  messengers-cross-sea-and-mountains: {label: "Messengers cross a thousand leagues of sea and rivers, mountains and coasts to the heights of heaven", cluster: myth}
+  goddess-fears-visitors-come-to-slay-sons: {label: "At the sight of approaching gods the mother goddess cries: 'have they come to slay me, to slay my sons?'", cluster: myth}
+  fisherman-of-the-goddess: {label: "The sea goddess has a divine fisherman servant who is told to take his net", cluster: myth}
+  numerical-saying-two-three: {label: "Graded numerical saying: 'two (things) X hates, three ...' (n, n+1)", cluster: wisdom}
+  scribal-note-return-to-passage: {label: "A scribal note within a poem instructs the reciter to go back and repeat an earlier passage", cluster: scribal}
+  cedar-spear-in-gods-right-hand: {label: "A cedar (spear or lightning bolt) leaps from the storm god's right hand at his foes", cluster: myth}
+  heavens-wither-and-droop: {label: "The heavens wither and droop (when the storm god is defeated)", cluster: cosmology}
+  slave-for-life-formula: {label: "Submission formula: 'I am your slave, and yours for ever' (ʿbdk an wd ʿlmk)", cluster: kingship}
+  storm-god-obeys-command: {label: "The mighty storm god obeys the instruction to go down to death", cluster: myth}
+  sackcloth-loincloth-in-mourning: {label: "The mourner covers himself with a loincloth or sackcloth (mizrt) instead of clothing", cluster: underworld}
+  land-of-pleasant-steppe-shore-of-death: {label: "The place where the god fell: 'the pleasant land of pasture, the lovely field of the shore of death (šḥlmmt)'", cluster: underworld}
+  enemies-rejoice-at-gods-death: {label: "At the storm god's death his rivals (Athirat and her sons) are told they may rejoice", cluster: myth}
+  water-drawn-in-jars: {label: "Water is drawn in amphoras and jars", cluster: myth}
+  grasping-garment-hem-in-plea: {label: "A petitioner or avenger seizes another by the hem or corner of the garment", cluster: myth}
+  corpse-eaten-by-birds: {label: "The enemy's flesh is eaten by the birds", cluster: myth}
+  dream-revelation-of-god: {label: "A revelation comes to a god or man 'in a dream, in a vision' (ḥlm // ḏhrt)", cluster: prophecy}
+  god-alive-again-joy: {label: "Joy that the dead god lives again: 'I will sit and rest, for mighty Baal is alive, the prince, lord of the earth, exists'", cluster: myth}
+  libation-before-search: {label: "A libation of wine is poured before a deity sets out to search for the lost god", cluster: cult}
+  storm-god-smites-sons-of-athirat: {label: "The returning storm god strikes down the sons of Athirat, great and small", cluster: myth}
+  storm-god-reenthroned: {label: "The storm god sits again on the throne of his kingship, the seat of his dominion", cluster: kingship}
+  death-demands-substitute-to-eat: {label: "Death demands one of the storm god's brothers to eat, or he will consume all humankind; he is given his own brothers", cluster: underworld}
+  offering-bread-and-libation-wine: {label: "Invitation to eat the bread of offering (trmmt) and drink the wine of libation", cluster: cult}
+  chief-of-priests-and-herdsmen: {label: "An official is 'chief of the priests (khnm), chief of the herdsmen (nqdm)'", cluster: cult}
+  smite-enemies-into-dust: {label: "Wish to thrust the god's enemies into the earth, into the dust those who rise against him", cluster: myth}
+  lift-eyes-and-see: {label: "Narrative formula: 'he lifted his eyes and saw'", cluster: myth}
+  god-creator-who-made-us: {label: "A deity is called 'our creator', 'the one who established us'", cluster: theology}
+  birth-announcement-a-son-is-born: {label: "Good news of a birth brought to the father: 'a son (a bull) is born to you'", cluster: myth}
+  midwife-goddesses-kotharat: {label: "The skilful goddesses of birth and conception (the Kotharat) attend a birth", cluster: myth}
+  dawn-and-dusk-gods: {label: "The gods Dawn (Šaḥar) and Dusk (Šalim) or the East (Qdm) are named", cluster: myth}
+  woman-sent-to-wilderness-to-give-birth: {label: "A woman is sent away into the wilderness, by a sacred tree, to give birth there", cluster: myth}
+  oak-sacred-tree: {label: "A sacred oak (or terebinth) at a named place", cluster: cult}
+  horned-monsters-like-bulls: {label: "Monstrous offspring have horns like bulls, humps like oxen and the face of a god", cluster: myth}
+  clothed-in-blood-of-brothers: {label: "A god lies clothed in the blood of his brothers as in a garment, of his kin as in a cloak", cluster: myth}
+  sounds-of-life-cease: {label: "At a disaster the ordinary sounds cease: water-drawers at the spring, the noise of the house, the clatter of the workshop", cluster: myth}
+  birds-of-prey-feed-on-slain: {label: "Eagles and birds of prey gather to the slain", cluster: myth}
+  divine-messenger-heavens: {label: "A 'messenger of the heavens' is sent", cluster: myth}
 units:
   - id: ane-ugarit-rs-94-2478-beirut-servant-judged
     tradition: ane-akkadian
@@ -189,7 +238,6 @@ units:
     tags:
       - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 94.2494 o:1-5"], note: "umma Teḫi-Teššub mārūka ... ana Sakini abīya: may be literal son or courtesy title"}
       - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2494 o:6-9"], note: "ilānū ana šulmāni liṣṣurūka Bēltaka: the greeting adds 'your Lady' (the goddess)"}
-      - {motif: heart-very-dark-at-friends-neglect, refs: ["Ugarit RS 94.2494 o:10-11", "Ugarit RS 94.2494 r:11"], note: "Weak match: manaʾatu kabti ana yâši 'heavy (toil) on me'; e taḫbutu 'do not rob, my father'; text broken"}
     hints:
       - "A son's letter pleading weariness compare Gen 47:9 (few and evil days)."
 
@@ -205,7 +253,6 @@ units:
       - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2511 o:4"]}
       - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["Ugarit RS 94.2511 o:11-14", "Ugarit RS 94.2511 b.e:1-3"], note: "ṣābū karašu sisû ... ṣābū ša šar Kargamiš; ṣābūka sisûka ... lā takaššad: your troops and horses did not arrive"}
       - {motif: overlord-threatens-combat-of-the-sun, refs: ["Ugarit RS 94.2511 b.e:3-r:1", "Ugarit RS 94.2511 r:16-18"], note: "lū tīde kī ṣāltu ša dŠamši ana muḫḫika ikaššad: said twice"}
-      - {motif: caravan-plundered-on-road, refs: ["Ugarit RS 94.2511 r:4-8"], note: "Interpretive: things lost (ḫalqu), chariots destroyed (narkabātika uḫalliq), 'in Alalakh they are not settled (ul ašbū)'"}
 
   - id: ane-ugarit-rs-94-2515-sheep-lost
     tradition: ane-akkadian
@@ -231,7 +278,6 @@ units:
     tags:
       - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2520 + RS 94.2570 o:3'-5'"]}
       - {motif: overlord-addressed-as-my-god-my-sun, refs: ["Ugarit RS 94.2520 + RS 94.2570 o:6'-9'"], note: "anumma dŠamšu ... 1 ribbatu ... ana muḫḫiya ana zabāli ana Zalḫi iltakan: 'the Sun' is the Hittite king's title"}
-      - {motif: army-crosses-sea-in-ships, refs: ["Ugarit RS 94.2520 + RS 94.2570 o:10'-b.e:2"], note: "Loose fit: eleppūya ṣabtū 'my ships are seized'; eleppūka liššū 'let your ships lift (it)'; agrūtu 'hire'"}
 
   - id: ane-ugarit-rs-94-2524-prefect-dark-heart
     tradition: ane-ugaritic
@@ -503,7 +549,6 @@ units:
     read: ["KTU 1.1 V"]
     tags:
       - {motif: holy-mountain-of-my-inheritance, refs: ["KTU 1.1 V:5", "KTU 1.1 V:18"], note: "Only bṣpn 'on Ṣapan' survives; Haddu sought there (hd tngṯnh, V:4, 17)"}
-      - {motif: god-binds-tiamat-and-qingu, refs: ["KTU 1.1 V:9-10", "KTU 1.1 V:22-23"], note: "Interpretive: tasrn ṯr il ... trks bn abnm 'you will bind (me), Bull El, ... tie between the stones'; who binds whom is unclear"}
       - {motif: days-pass-formula, refs: ["KTU 1.1 V:2-3", "KTU 1.1 V:15-16"], note: "[wym ym]m [yʿtqn]: 'a day, two days passed'"}
 
   - id: ane-ktu-1-2-i-yamm-embassy
@@ -804,7 +849,6 @@ units:
       - {motif: prophetic-critique-of-sacrifice, refs: ["KTU 1.4 III:17-22"], note: "Interpretive parallel: a god hates certain feasts (dbḥ) for the shame and lewdness at them"}
       - {motif: gift-to-goddess-before-request, refs: ["KTU 1.4 III:23-36"], note: "tmgnn rbt aṯrt ym tġẓyn qnyt ilm ... hm ġẓtm bny bnwt: 'have you also brought gifts to the Bull El, creator of creatures?'"}
       - {motif: gods-feast-slaughtered-cattle-sheep-fatlings, refs: ["KTU 1.4 III:40-44"], note: "[tl]ḥm tšty ... mrġṯm ṯd ... krpnm yn [bks ḫrṣ d]m ʿṣm"}
-      - {motif: messianic-vine-and-ass, refs: ["KTU 1.4 III:44"], note: "dm ʿṣm 'blood of trees' for wine, as Hebrew dam ʿanavim 'blood of grapes'"}
     hints:
       - "'Six things YHWH hates, seven are an abomination' compare Prov 6:16-19 and Prov 30:15-31; God hating feasts compare Amos 5:21, Isa 1:13-14, Hos 4:13-14 (sacrifice with temple women)."
       - "'Blood of grapes' for wine compare Gen 49:11 and Deut 32:14."
@@ -875,8 +919,6 @@ units:
       - {motif: days-pass-formula, refs: ["KTU 1.4 VI:24-32"], note: "Seven-day counting: one, two; three, four; five, six; on the seventh"}
       - {motif: palace-feast-for-seventy-sons, refs: ["KTU 1.4 VI:38-59"], note: "ṭbḫ alpm ap ṣin ... ṣḥ aḫh bbhth aryh bqrb hklh ṣḥ šbʿm bn aṯrt špq ilm krm yn špq ilht ḫprt ..."}
       - {motif: seventy-sons, refs: ["KTU 1.4 VI:46"], note: "šbʿm bn aṯrt"}
-      - {motif: nations-divided-by-number-of-sons-of-god, refs: ["KTU 1.4 VI:46"], note: "Interpretive: the seventy sons of the divine mother as the full count of the gods"}
-      - {motif: dedication-at-feast-of-seventh-month, refs: ["KTU 1.4 VI:40-55"], note: "Loose: a temple-completion feast after a seven-day period"}
       - {motif: massive-dedication-sacrifice, refs: ["KTU 1.4 VI:40-43"]}
     hints:
       - "Cedars of Lebanon for the temple compare 1 Kgs 5:20-24 and Ps 29:5-6 (Lebanon and Sirion)."
@@ -967,7 +1009,6 @@ units:
       - {motif: death-lip-to-earth-lip-to-heaven, refs: ["KTU 1.5 II:2-3"], note: "[št špt la]rṣ špt lšmm [ ] lšn lkbkbm (first lip restored)"}
       - {motif: sheol-opens-its-throat, refs: ["KTU 1.5 II:2-5"], note: "yʿrb bʿl bkbdh bph yrd kḥrr zt ybl arṣ wpr ʿṣm: Baal will enter his innards, go down his mouth, as the olive, the produce of earth and fruit of the trees are scorched"}
       - {motif: storm-god-fears-death, refs: ["KTU 1.5 II:6-7"], note: "yraun aliyn bʿl ṯtʿnn rkb ʿrpt"}
-      - {motif: monster-cannot-be-caught-with-hook, refs: ["KTU 1.5 II:12", "KTU 1.5 II:19-20"], note: "ʿbdk an wd ʿlmk: 'I am your slave, yours for ever' -- the phrase ʿeved ʿolam of Job 40:28, said here by the god to Death"}
       - {motif: slave-for-life-formula, refs: ["KTU 1.5 II:12", "KTU 1.5 II:19-20"], note: "ʿbdk an wd ʿlmk"}
       - {motif: death-city-pit-throne-mire-land, refs: ["KTU 1.5 II:15-16"], note: "tk qrth hmry mk ksu ṯbt ḫḫ arṣ nḥlth"}
       - {motif: death-not-invited-to-feast, refs: ["KTU 1.5 II:20-22"], note: "šmḫ bn ilm mt ... ik yṣḥn [bʿl ʿm aḫy] yqrun hd"}
@@ -986,7 +1027,6 @@ units:
     read: ["KTU 1.5 III", "KTU 1.5 IV"]
     tags:
       - {motif: death-not-invited-to-feast, refs: ["KTU 1.5 III:9-10", "KTU 1.5 III:18-19", "KTU 1.5 III:25-26"], note: "dm mt aṣḥ ydd bqrb: 'I will surely call Mot, the beloved, into ...' (refrain)"}
-      - {motif: funeral-sacrifice-of-oxen-and-sheep, refs: ["KTU 1.5 III:16-17", "KTU 1.5 III:22-24"], note: "Interpretive: šgr mud ... bmud ṣin ... iṯm mud: young of animals and flocks in great number"}
       - {motif: furrows-of-fields-parched, refs: ["KTU 1.5 IV:7-8"], note: "i ap bʿ[l] i hd: 'where is Baal? where is Haddu?' -- the question of 1.6 IV"}
       - {motif: gods-feast-slaughtered-cattle-sheep-fatlings, refs: ["KTU 1.5 IV:12-19"], note: "ʿd lḥm ... ṯd bḥrb ... krpnm bks ḫrṣ ks ksp"}
     hints:
@@ -1006,9 +1046,7 @@ units:
       - {motif: messengers-to-death-lift-mountains, refs: ["KTU 1.5 V:11-15"], note: "tk ġr knkny ša ġr ʿl ydm ḫlb lẓr rḥtm wrd bt ḫpṯt arṣ"}
       - {motif: counted-among-those-who-descend, refs: ["KTU 1.5 V:15-17"], note: "tspr byrdm arṣ wtdʿ ilm kmtt"}
       - {motif: like-those-who-go-down-to-pit, refs: ["KTU 1.5 V:15-16"]}
-      - {motif: grave-goods-for-netherworld-gods, refs: ["KTU 1.5 V:5-6"], note: "Interpretive: aštn bḫrt ilm arṣ 'I will put (him) in the pit of the gods of the earth'"}
       - {motif: storm-god-mates-heifer-before-descent, refs: ["KTU 1.5 V:17-22"], note: "yuhb ʿglt bdbr prt bšd šḥlmmt škb ʿmnh šbʿ lšbʿm tš[ʿ]ly ṯmn lṯmnym wt[ḥ]rn wtld mṯ"}
-      - {motif: sevenfold-vengeance, refs: ["KTU 1.5 V:20-21"], note: "Only the numerical pattern šbʿ lšbʿm 'seven and seventy' (77) as in Gen 4:24"}
       - {motif: storm-god-obeys-command, refs: ["KTU 1.5 V:17"], note: "yšmʿ aliyn bʿl"}
     hints:
       - "The god of the storm going down with his clouds compare Ps 18:10-12; the 'shore of death' (šḥlmmt) compare Ps 107:18 (gates of death)."
@@ -1101,7 +1139,6 @@ units:
       - {motif: sun-glows-heavens-weak-in-deaths-hand, refs: ["KTU 1.6 II:24-25"]}
       - {motif: death-split-winnowed-burned-ground-sown, refs: ["KTU 1.6 II:30-37"], note: "bḥrb tbqʿnn bḫṯr tdrynn bišt tšrpnn brḥm tṭḥnn bšd tdrʿnn širh ltikl ʿṣrm mnth ltkly npr[m]"}
       - {motif: calf-burned-scattered-in-sea, refs: ["KTU 1.6 II:30-35"], note: "The sequence burn - grind - scatter as in Exod 32:20 (the calf burned, ground to powder, scattered on the water)"}
-      - {motif: death-swallowed-forever, refs: ["KTU 1.6 II:30-37"], note: "Interpretive: Death himself destroyed"}
       - {motif: corpse-eaten-by-birds, refs: ["KTU 1.6 II:35-37"]}
     hints:
       - "Moses burns the calf, grinds it to powder, scatters it on the water compare Exod 32:20 and Deut 9:21; Josiah burns and grinds the Asherah 2 Kgs 23:6."
@@ -1124,7 +1161,6 @@ units:
       - {motif: el-laughs-feet-on-footstool, refs: ["KTU 1.6 III:14-17"], note: "šmḫ lṭpn il dpid pʿnh lhdm yṯpd wyprq lṣb wyṣḥq"}
       - {motif: god-alive-again-joy, refs: ["KTU 1.6 III:2-3", "KTU 1.6 III:8-9", "KTU 1.6 III:18-21"], note: "aṯbn ank wanḫn wtnḫ birty npš kḥy aliyn bʿl kiṯ zbl bʿl arṣ: 'I will sit and rest, my soul shall rest in my breast, for mighty Baal lives'"}
       - {motif: furrows-of-fields-parched, refs: ["KTU 1.6 IV:1-5", "KTU 1.6 IV:12-16"], note: "pl ʿnt šdm yšpš pl ʿnt šdm il yštk bʿl ʿnt mḥrṯt iy aliyn bʿl iy zbl bʿl arṣ"}
-      - {motif: animals-cry-to-god, refs: ["KTU 1.6 IV:1-3"], note: "Loose: the parched fields await the storm god's watering"}
       - {motif: sun-deity-lamp-of-gods, refs: ["KTU 1.6 IV:8", "KTU 1.6 IV:17"]}
       - {motif: libation-before-search, refs: ["KTU 1.6 IV:18-20"], note: "Uncertain: šdyn ʿn bqbʿt ... bl lyt ʿl umtk wabqṯ aliyn bʿl"}
       - {motif: letter-greeting-gods-guard-you, refs: ["KTU 1.6 IV:22-24"], note: "an l an yšpš an l an il yġr[k] tġrk šlm: 'wherever you are, may El guard you, may (the gods) guard you in peace' -- the letter formula in myth"}
@@ -1146,7 +1182,6 @@ units:
       - {motif: storm-god-smites-sons-of-athirat, refs: ["KTU 1.6 V:1-4"], note: "yiḫd bʿl bn aṯrt rbm ymḫṣ bktp dkym ymḫṣ bṣmd ṣġrm ymṣḫ larṣ"}
       - {motif: storm-god-reenthroned, refs: ["KTU 1.6 V:5-6"], note: "[yṯb] bʿl lksi mlkh l[nḫt] lkḥṯ drkth"}
       - {motif: god-returns-in-seventh-year, refs: ["KTU 1.6 V:7-10"], note: "lymm lyrḫm lyrḫm lšnt ... bšbʿ šnt wrk bn ilm mt"}
-      - {motif: seven-years-plenty-seven-famine, refs: ["KTU 1.6 V:8-9"], note: "Loose: a seven-year cycle ending in Death's return"}
       - {motif: death-gods-litany-of-suffering, refs: ["KTU 1.6 V:11-19"], note: "ʿlk bʿlm pht qlt ʿlk pht dry bḥrb ʿlk pht šrp bišt ... bkbrt ... ġly bšdm ... drʿ bym"}
       - {motif: death-demands-substitute-to-eat, refs: ["KTU 1.6 V:19-25"], note: "tn aḥd b aḫk ispa wyṯb ap dan ... akly [bnnšm] akly hml[t arṣ]: 'give one of your brothers that I may eat; otherwise I will consume humankind, the multitudes of the earth'"}
     hints:
@@ -1173,7 +1208,6 @@ units:
       - {motif: rephaim-shades, refs: ["KTU 1.6 VI:45-46"], note: "rpim"}
       - {motif: sun-god-judges-dead-in-underworld, refs: ["KTU 1.6 VI:45-48"]}
       - {motif: monsters-in-sea-driven-off, refs: ["KTU 1.6 VI:51-53"], note: "bym arš wtnn kṯr wḫss yd ytr kṯr wḫss"}
-      - {motif: leviathan-as-gods-plaything, refs: ["KTU 1.6 VI:51"], note: "tnn in the sea: cf. the tanninim and Leviathan in the sea, Ps 104:26"}
       - {motif: scribe-colophon-names-author, refs: ["KTU 1.6 VI:54-58"], note: "spr ilmlk šbny lmd atn prln rb khnm rb nqdm ṯʿy nqmd mlk ugrt adn yrgb bʿl ṯrmn: Ilimilku, pupil of Attenu the diviner, chief of priests (khnm) and chief of herdsmen (nqdm)"}
       - {motif: chief-of-priests-and-herdsmen, refs: ["KTU 1.6 VI:55-56"], note: "rb khnm rb nqdm: 'chief of priests, chief of herdsmen' -- nqd as in Amos 1:1 and 2 Kgs 3:4"}
     hints:
@@ -1181,3 +1215,169 @@ units:
       - "The dragon (tannin) in the sea compare Isa 27:1, Ps 74:13, Ezek 29:3 and Ezek 32:2."
       - "Bread of offering, terumah, and libation wine compare Num 15:5-10, Num 18:8-11."
       - "Amos 'among the herdsmen (noqdim) of Tekoa' compare Amos 1:1 with rb nqdm; Mesha the noqed 2 Kgs 3:4."
+
+  - id: ane-ktu-1-7-anat-battle-duplicate
+    tradition: ane-ugaritic
+    title: "KTU 1.7: fragmentary duplicate of Anat's battle and washing and of Baal's message (1.3 II-III): heads like balls, knees in blood, oil poured, Pidray and Arṣay, the whisper of stone, 'come and I will reveal it'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.7, a variant copy (no EUPT translation; read against KTU 1.3)"
+    read: ["KTU 1.7 I", "KTU 1.7 II", "KTU 1.7 III", "KTU 1.7 IV"]
+    tags:
+      - {motif: goddess-massacres-in-valley, refs: ["KTU 1.7 I:4'-6'", "KTU 1.7 III:8-9"], note: "[hln ʿnt tm]tḫs bʿmq [tḫṣb bn qrytm]; ap ʿnt tm[tḫṣ] lim ḫp: largely restored after 1.3 II"}
+      - {motif: heads-and-hands-as-goddess-ornaments, refs: ["KTU 1.7 I:2'", "KTU 1.7 I:8'"], note: "[ḫb]šh ʿtkt r[išt] ... kdrt riš"}
+      - {motif: goddess-wades-knee-deep-in-blood, refs: ["KTU 1.7 I:9'"], note: "[b]rk tġll bdm"}
+      - {motif: goddess-rejoices-in-slaughter, refs: ["KTU 1.7 I:7'"], note: "[bṣḥ]q ymlu lbh"}
+      - {motif: goddess-washes-hands-of-blood, refs: ["KTU 1.7 II:8-9"], note: "[t]rḥṣ yd[h] ... yṣq šm[n]"}
+      - {motif: storm-gods-daughters-dew-light-earth, refs: ["KTU 1.7 II:11-12"], note: "[a]h[b]t pdr[y] arsy bt y[ʿbdr]"}
+      - {motif: word-of-tree-whisper-of-stone, refs: ["KTU 1.7 III:1-4"], note: "hwt daṯ[nyk] wlḫšt abn ... ʿm kbkbm wank ib[ġyh]"}
+      - {motif: goddess-adorns-for-journey, refs: ["KTU 1.7 III:6-7"], note: "kpr šbʿ bn[t] ... klat ṯġrt"}
+    hints:
+      - "As for KTU 1.3 II-III: Ps 58:11, Isa 63:1-6; Ps 19:2-5."
+
+  - id: ane-ktu-1-9-fragment
+    tradition: ane-ugaritic
+    title: "KTU 1.9: tiny mythological fragment ('he sat'; 'he raised his palace')"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.9, four broken line-beginnings, no translation"
+    read: ["KTU 1.9 I", "KTU 1.9 II"]
+    tags:
+      - {motif: god-commissions-king-to-build-temple, refs: ["KTU 1.9 II:Rs._2'"], note: "Only yrmm h[kl] 'he raised the pa[lace]' (cf. trmmn hklm in the palace episode) and yṯb 'he sat' survive; the tag is a guess at the context"}
+
+  - id: ane-ktu-1-10-i-assembly-of-stars
+    tradition: ane-ugaritic
+    title: "KTU 1.10 I: fragment: what the sons of El do not know; the assembly of the stars; the circle of heaven; mighty Baal, Rider of the Clouds; Anat"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.10 (Baal and the heifer), column I fragmentary"
+    read: ["KTU 1.10 I"]
+    tags:
+      - {motif: assembly-of-the-stars, refs: ["KTU 1.10 I:3'-5'"], note: "dlydʿ bn il ... pḫr kkbm ... dr dt šmm: 'what the sons of El do not know ... the assembly of the stars ... the circle of the heavens'"}
+      - {motif: morning-stars-sing-at-creation, refs: ["KTU 1.10 I:3'-4'"], note: "bn il in parallel with pḫr kkbm, as bene elohim // kokhve voqer in Job 38:7"}
+      - {motif: divine-council, refs: ["KTU 1.10 I:3'-5'"]}
+      - {motif: rider-of-the-heavens, refs: ["KTU 1.10 I:7'"]}
+    hints:
+      - "Sons of God and morning stars compare Job 38:7; the host of heaven as the council compare 1 Kgs 22:19 and Isa 14:13 (above the stars of El)."
+
+  - id: ane-ktu-1-10-ii-baal-hunts-anat-flies
+    tradition: ane-ugaritic
+    title: "KTU 1.10 II: Baal is not in his house; he takes his bow and arrows and goes to the marsh of Šamak, full of wild bulls; Anat lifts her wings and flies after him; Baal kneels before her: 'may your life be long; Baal will anoint your horns'; she sees a cow"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.10 (Baal and the heifer)"
+    read: ["KTU 1.10 II"]
+    tags:
+      - {motif: storm-god-hunts-with-bow, refs: ["KTU 1.10 II:4'-9'"], note: "in bʿl bbhth ... qšthn aḫd bydh wqṣʿth bm ymnh ... tk aḫ šmk mlat rumm"}
+      - {motif: winged-goddess-flies, refs: ["KTU 1.10 II:10'-12'"], note: "tšu knp btlt ʿnt tšu knp wtr bʿp"}
+      - {motif: god-bows-to-goddess-wishes-long-life, refs: ["KTU 1.10 II:13'-20'"], note: "lpnnh ydd wyqm lpʿnh ykrʿ wyql ... ḥwt aḫt wnark"}
+      - {motif: goddess-horns-anointed, refs: ["KTU 1.10 II:21'-23'"], note: "qrn dbatk btlt ʿnt qrn dbatk bʿl ymšḥ bʿl ymšḥhm bʿp"}
+      - {motif: anointed-with-fresh-oil, refs: ["KTU 1.10 II:21'-23'"], note: "Horns of strength anointed, as the horn exalted like the wild ox's and anointed with fresh oil in Ps 92:11"}
+      - {motif: smite-enemies-into-dust, refs: ["KTU 1.10 II:24'-25'"], note: "nṭʿn barṣ iby wbʿpr qm aḫk: 'let us thrust my enemies into the earth, into the dust those who rise against your brother'"}
+      - {motif: lift-eyes-and-see, refs: ["KTU 1.10 II:13'-15'", "KTU 1.10 II:26'-28'"], note: "yšu ʿnh wyʿn"}
+      - {motif: cow-bears-wild-bull-to-storm-god, refs: ["KTU 1.10 II:28'-30'"], note: "wtʿn arḫ wtr blkt ... bḫl: the cow walking about in labour, with the Kotharat (midwife goddesses)"}
+    hints:
+      - "The horn exalted like the wild ox, anointed with fresh oil compare Ps 92:11; horns of the wild ox compare Deut 33:17, Num 23:22."
+      - "Lifting one's eyes and seeing compare Gen 18:2, Gen 22:4, 13."
+      - "Under the wings compare Ps 91:4; the winged deity compare Deut 32:11."
+
+  - id: ane-ktu-1-10-iii-bull-born-to-baal
+    tradition: ane-ugaritic
+    title: "KTU 1.10 III: the cow bears an ox for Anat; Baal goes up the mountain and sits on his throne; the cow gives birth to a bull for Baal, a wild ox for the Rider of the Clouds, covers it with her udder; Anat climbs Ṣapan with the good news: 'a bull is born to Baal!'; Baal rejoices"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.10 (Baal and the heifer)"
+    read: ["KTU 1.10 III"]
+    tags:
+      - {motif: cow-bears-wild-bull-to-storm-god, refs: ["KTU 1.10 III:1'-3'", "KTU 1.10 III:19'-21'", "KTU 1.10 III:35'-36'"], note: "ibr tld [lbʿl] wrum l[rkb ʿrpt] ... k ibr lbʿl yld wrum lrkb ʿrpt"}
+      - {motif: storm-god-reenthroned, refs: ["KTU 1.10 III:11'-14'"], note: "yʿl bʿl bġr wbn dgn bš[mm] bʿl yṯb lksi [mlkh]"}
+      - {motif: god-creator-who-made-us, refs: ["KTU 1.10 III:5'-6'"], note: "kqnyn ... kdrd<r> dyknn: 'like our creator ... the Eternal(?) who established us' (uncertain)"}
+      - {motif: newborn-calf-covered-with-udder, refs: ["KTU 1.10 III:22'-26'"], note: "tḥbq arḫ ... wtksynn bṯdh"}
+      - {motif: holy-mountain-of-my-inheritance, refs: ["KTU 1.10 III:27'-31'"], note: "tʿl bkm barr bm arr wbṣpn bnʿm bġr tliyt"}
+      - {motif: good-news-a-house-is-given, refs: ["KTU 1.10 III:32'-36'"], note: "bšrt il bšr bʿl wbšr ḥtk dgn k ibr lbʿl yld: here the good news is the birth"}
+      - {motif: birth-announcement-a-son-is-born, refs: ["KTU 1.10 III:33'-36'"], note: "k ibr lbʿl yld: 'for a bull is born to Baal'"}
+      - {motif: beautiful-feet-of-herald, refs: ["KTU 1.10 III:27'-34'"], note: "The herald goddess climbs the mountain with good news (bšr)"}
+    hints:
+      - "'For a child is born to us' compare Isa 9:5 and Jer 20:15 (the man who brought my father the news, 'a son is born to you'); good news brought on the mountain compare Isa 40:9, Isa 52:7."
+      - "A bull or calf associated with the storm god compare Exod 32:4 and 1 Kgs 12:28-29 (golden calves), Hos 8:5-6."
+
+  - id: ane-ktu-1-11-baal-anat-union
+    tradition: ane-ugaritic
+    title: "KTU 1.11: Baal and Anat grow hot and seize each other; she conceives and bears; the band of the Kotharat (fragment)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.11, fragment"
+    read: ["KTU 1.11 I"]
+    tags:
+      - {motif: god-and-goddess-sexual-union, refs: ["KTU 1.11 I:1-2"], note: "[bʿ]l yṯkḥ wyiḫd bqrb ... tṯkḥ wtiḫd bušk (the subjects largely restored; 'hot' ṯkḥ)"}
+      - {motif: cow-bears-wild-bull-to-storm-god, refs: ["KTU 1.11 I:3-6"], note: "bʿl ... lalp ... hry wyld ... ḥbl kṯrt: conception, birth and the midwife goddesses"}
+      - {motif: midwife-goddesses-kotharat, refs: ["KTU 1.11 I:6"], note: "ḥbl kṯrt 'the band of the Kotharat'"}
+
+  - id: ane-ktu-1-12-i-devourers-born
+    tradition: ane-ugaritic
+    title: "KTU 1.12 I: the handmaids complain to El that 'they' devour their liver; El laughs in his heart and sends them into the wilderness to crouch and bear the Devourers and Renders, horned like bulls, with Baal's face; Baal hunts them at the edge of the steppe, burning with desire"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.12 (Baal and the Devourers)"
+    read: ["KTU 1.12 I"]
+    tags:
+      - {motif: dawn-and-dusk-gods, refs: ["KTU 1.12 I:7'-8'"], note: "km šḥr ... km qdm: 'like Dawn (Šaḥar) ... like the East'"}
+      - {motif: el-laughs-in-his-heart, refs: ["KTU 1.12 I:12'-13'"], note: "il yẓḥq bm lb wygmḏ bmkbd"}
+      - {motif: handmaids-bear-devourers, refs: ["KTU 1.12 I:14'-33'"], note: "ẓi at ltlš amt yrḫ ... qḥ ksank ... ẓi baln tkm btk mlbr ... kry amt ʿpr ... ḫl ld aklm tbrkk wld ʿqqm ilm ypʿr šmthm bhm qrnm km ṯrm ... wbhm pn bʿl"}
+      - {motif: woman-sent-to-wilderness-to-give-birth, refs: ["KTU 1.12 I:19'-27'"], note: "Go out to the oak(s) of Tkm in the midst of the wilderness; crouch and give birth"}
+      - {motif: high-god-names-favoured-son, refs: ["KTU 1.12 I:28'-29'"], note: "ilm ypʿr šmthm: El proclaims their names"}
+      - {motif: oak-sacred-tree, refs: ["KTU 1.12 I:19'-20'"], note: "baln tkm 'at the oak(s) of Tkm' (perhaps a place name)"}
+      - {motif: storm-god-hunts-with-bow, refs: ["KTU 1.12 I:34'-41'"], note: "bʿl ytlk wyṣd yḥpat mlbr ... ymġy aklm wymẓa ʿqqm bʿl ḥmdm yḥmdm"}
+      - {motif: horned-monsters-like-bulls, refs: ["KTU 1.12 I:30'-33'"]}
+    hints:
+      - "Hagar sent into the wilderness and the birth of Ishmael, a 'wild ass of a man' compare Gen 16:7-12 and Gen 21:14-21; the oak of Moreh at Shechem (Gen 12:6, Gen 35:4) has been compared with 'the oaks of Tkm'."
+      - "Laughter at an announced birth compare Gen 17:17 and Gen 18:12."
+
+  - id: ane-ktu-1-12-ii-baal-falls-seven-years
+    tradition: ane-ugaritic
+    title: "KTU 1.12 II: Baal approaches the Devourers and seizes them, or is seized; he falls like a bull in the marsh, clothed in his brothers' blood; for seven years, eight cycles, El lets the fields wither; the king ceases to judge, the water-drawers leave the spring, the noise in El's house ceases"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.12 (Baal and the Devourers)"
+    read: ["KTU 1.12 II"]
+    tags:
+      - {motif: storm-god-hunts-with-bow, refs: ["KTU 1.12 II:5'-9'", "KTU 1.12 II:21'-25'", "KTU 1.12 II:31'-35'"], note: "ẓrh aḫḏ qš[t]: 'he took the bow from his back' (or 'they seized his back'); the agent is ambiguous"}
+      - {motif: storm-god-fallen-like-bull, refs: ["KTU 1.12 II:36'-40'", "KTU 1.12 II:53'-57'"], note: "npl bmšmš ... kn npl bʿl km ṯr wtkms hd km ibr btk mšmš"}
+      - {motif: seven-years-eight-cycles-of-drought, refs: ["KTU 1.12 II:43'-45'"], note: "bnt šdm ṣḥrrt šbʿ šnt il mla wṯmn nqpnt ʿd"}
+      - {motif: clothed-in-blood-of-brothers, refs: ["KTU 1.12 II:46'-49'"], note: "klbš km lpš dm a[ḫh] km all dm aryh kšbʿt lšbʿm aḫh ... wṯmnt lṯmnym"}
+      - {motif: god-garment-blood-stained, refs: ["KTU 1.12 II:46'-47'"]}
+      - {motif: city-life-stops-at-gods-fall, refs: ["KTU 1.12 II:58'-61'"], note: "štk mlk dn štk šibt ʿn štk qr bt il wmṣlt bt ḥrš"}
+      - {motif: justice-ceases-in-ruined-city, refs: ["KTU 1.12 II:58'"], note: "štk mlk dn 'the king ceased to judge'"}
+      - {motif: sounds-of-life-cease, refs: ["KTU 1.12 II:59'-61'"]}
+    hints:
+      - "The sounds of millstones, bride and groom, and the drawers of water cease compare Jer 25:10, Jer 7:34, Eccl 12:4-6 (the pitcher broken at the spring), Rev 18:22-23."
+      - "Seven years of famine compare 2 Kgs 8:1, Gen 41:27, 2 Sam 24:13; garments rolled in blood compare Isa 9:4 and Isa 63:3."
+
+  - id: ane-ktu-1-13-anat-incantation-hymn
+    tradition: ane-ugaritic
+    title: "KTU 1.13: hymn-incantation to Anat: she will kill for two, three, four days; blood for her girdle, heads for her warriors, eagles and birds of prey; a seat promised on the roof of the high heavens where the stars fall like bricks; she bathes and goes up to El her father; the cow of Baal gives birth"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.13 (no EUPT translation; read from the consonantal text, interpretation uncertain)"
+    read: ["KTU 1.13 I", "KTU 1.13 II"]
+    tags:
+      - {motif: goddess-massacres-in-valley, refs: ["KTU 1.13 I:Vs._3-Vs._7"], note: "ṯn ymm špl [ṯlṯ] ymn lk hrg ar[bʿ] ymn ... šsk [d]m l ḥbšk ʿtk riš[t] lmhrk: 'two days ... three days for you to kill, four days ... pour blood on your girdle, bind heads for your warriors' (my reading)"}
+      - {motif: heads-and-hands-as-goddess-ornaments, refs: ["KTU 1.13 I:Vs._6-Vs._7"]}
+      - {motif: birds-of-prey-feed-on-slain, refs: ["KTU 1.13 I:Vs._8-Vs._9"], note: "wʿp lḏ[ʿ] nšrk wrbṣ lġrk: eagles (nšr) and the flock on the mountain"}
+      - {motif: goddess-promised-seat-on-high-heavens, refs: ["KTU 1.13 I:Vs._10-Vs._17"], note: "atn at mṯbk bgg šmm rmm ... kbkbm ṯm tpl klbnt ... ḫr k[bdk] ʿl kbkbm: 'I will give you your seat on the roof of the high heavens ... the stars fall there like bricks'"}
+      - {motif: ascent-above-stars-of-el, refs: ["KTU 1.13 I:Vs._12-Vs._17"], note: "A seat set above the stars (ʿl kbkbm)"}
+      - {motif: goddess-washes-hands-of-blood, refs: ["KTU 1.13 I:Vs._18-Vs._19"], note: "trḥṣ btlt ʿnt"}
+      - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.13 I:Vs._20-Vs._21"], note: "wtʿl ʿm il abh: she goes up to El her father"}
+      - {motif: cow-bears-wild-bull-to-storm-god, refs: ["KTU 1.13 II:Rs._8-Rs._11"], note: "ʿnt arḫ bʿl ... wld ... tnqt: 'Anat the cow of Baal ... bore ... suckled' (my reading)"}
+      - {motif: divine-messenger-heavens, refs: ["KTU 1.13 II:Rs._4-Rs._7"], note: "mlak šmm 'messenger of the heavens' (twice)"}
+    hints:
+      - "A throne set above the stars of El compare Isa 14:13; eagles gathering at the slain compare Job 39:27-30 and Ezek 39:17-20."
