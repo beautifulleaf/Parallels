@@ -42,6 +42,7 @@ new_motifs:
   enemies-break-oath-of-gods-and-rob-temples: {label: "The hostile neighbours do not honour the gods, transgress the oath sworn by the gods and seek to rob the temples", cluster: treaty}
   god-must-not-lower-own-name: {label: "The deity is told not to let her own name be humbled by the land's defeat", cluster: prayer}
   prayer-as-legal-plea: {label: "The prayer is presented as a legal plea of defence (Hittite arkuwar) laid before the gods", cluster: prayer}
+  scribe-prays-daily-for-king: {label: "A scribe recites the king's prayer to the god every day on the king's behalf", cluster: cult}
 units:
   - id: ane-cth-372-1-sun-hymn-epithets
     tradition: ane-hittite
@@ -354,3 +355,25 @@ units:
       - {motif: personal-gods-plead-healer-intercedes, refs: ["CTH 376.4 §4:27-38"], note: "the queen's deity is asked to look upon Gaššuliyawiya and keep her alive; fragmentary"}
     hints:
       - "Compare 2 Kgs 20:1-6 and Isa 38 (prayer for the sick royal person)."
+  - id: ane-cth-377-telipinu-hymn
+    tradition: ane-hittite
+    title: Muršili II's hymn and prayer to Telipinu, recited daily by the scribe (CTH 377)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 377 §1:1-§18:63"]
+    tags:
+      - {motif: scribe-prays-daily-for-king, refs: ["CTH 377 §1:1-2", "CTH 377 §18:63"], note: "DUB.SAR … UD-at UD-at memiškezzi; colophon: UD.KAM-tili arkuwar eššai 'daily makes his plea'"}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 377 §18:63"]}
+      - {motif: absent-deity-summoned-from-sky-sea-mountains, refs: ["CTH 377 §3:7-§4:16"], note: "adds 'or gone to the enemy land to battle'; šanezziš waršulaš GIŠ.ERIN-anza Ì-anza kallišdu 'let the sweet scent, cedar and oil, call you'"}
+      - {motif: hatti-only-pure-land-for-gods, refs: ["CTH 377 §5:18-§9:33"]}
+      - {motif: no-god-compares-to-deity, refs: ["CTH 377 §10:34-36"], note: "ŠUM-an ŠUM.ḪI.A-aš ištarna nakki 'your name the weightiest among names'"}
+      - {motif: king-asks-life-health-progeny-and-fertility, refs: ["CTH 377 §11:38-§12:43", "CTH 377 §17:55-60"], note: "rain (ḫeuš) and 'winds of prosperity' requested"}
+      - {motif: enemies-placed-under-kings-feet, refs: ["CTH 377 §12:44-46"]}
+      - {motif: plague-diverted-to-enemy-lands, refs: ["CTH 377 §13:47-§16:54"], note: "fever, plague, famine and locusts (mašanna, BURU5.ḪI.A) to be removed from Hatti and given to enemies who would burn the temples"}
+      - {motif: assembly-answers-let-it-be, refs: ["CTH 377 §17:61"]}
+      - {motif: scribal-colophon, refs: ["CTH 377 §18:62"]}
+    hints:
+      - "Compare Q 7:133 (flood, locusts, lice, frogs, blood sent on Pharaoh's people) and Exod 10 for locusts sent against enemies."
+      - "Compare Q 7:57 and Q 30:46 (winds sent as good tidings before rain) with the 'winds of prosperity'."
+      - "Compare Q 37:180-182, Q 59:24 (the most beautiful names) with the god's name 'weightiest among names'."

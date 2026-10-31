@@ -768,3 +768,80 @@ units:
     hints:
       - "Fig and olive, raisin and wine held within: compare Q 95:1 ('by the fig and the olive') and Q 80:27-31 (grain, grapes, olives, palms among God's provisions)."
       - "Words that hold back divine anger: compare Moses' intercession that turns back God's wrath (Ex 32:11-14; Ps 106:23) and Abraham's pleading for the people of Lot (Q 11:74-76)."
+  - id: ane-cth-334-5-olive-raisin-samama
+    tradition: ane-hittite
+    title: Olive, raisin and samama-fruit analogies for Hannahanna (CTH 334.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.5)"
+    read: ["CTH 334.5"]
+    tags:
+      - {motif: fruit-holds-seed-wine-oil-analogy, refs: ["CTH 334.5 §1:1-§3:9"], note: "GIM-an Ì ŠÀ-it ḫ[ar-zi] 'as (the olive) holds oil within', so hold LUGAL MUNUS.LUGAL DUMU.MEŠ KUR {URU}ḫa-at-[ti] ŠÀ-it ZI-it ... aš-šu-[li] 'king, queen, sons and land of Hatti in heart and soul in goodwill'; ka-a-ša {GIŠ}GEŠTIN ḪÁD.DU.A GAR-ri 'here lies a raisin'; {GIŠ}ša-ma-ma ... Ì-an ŠÀ-it ḫar-zi"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.5 §4:10-12"], note: "le-e-t[i] 'leti-plant'; [Ḫ]UL-lu 'evil'"}
+  - id: ane-cth-334-6-return-and-eya-tree
+    tradition: ane-hittite
+    title: Hannahanna soothed; mother, cow and ewe recognise their young; the deity recognises king and queen; the eya-tree fleece (CTH 334.6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.6)"
+    read: ["CTH 334.6"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.6 §1:1-§2:7"], note: "[k]a-a-š[a-at-ta] 'here for you'; ZI-KA ... li-la-re-eš-[ke-ed-du] 'let your soul be soothed'; ŠA DINGIR.MAḪ ud-da-a-a[r] ... e-eš-du 'Hannahanna's words shall be likewise'"}
+      - {motif: mother-ewe-cow-accept-young-again, refs: ["CTH 334.6 §3:8-10"], note: "A[MA] 'mother'; GU4-u[š ... g]a-né-eš-ta 'the cow recognised'; U[DU-u]š S[ILA4-an g]a-ni-i[š-ta] 'the ewe recognised the lamb'"}
+      - {motif: returned-god-cares-for-king, refs: ["CTH 334.6 §3:11-13"], note: "[DI]NGIR-LUM-ma LUGAL MUNUS.LUGAL ga-né-eš-ta 'the deity recognised king and queen', K[UR-SÚ] 'their land'; ḫu-iš-wa-an-ni ... EGIR.UD-MI kap-pu-u-e[t] 'provided them with life and future'"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 334.6 §4:14-§5:19"], note: "A-NA DINGIR-LIM pé-e-ra-an {GIŠ}e-ya-an a[r-ta] 'before the deity stands an eya-tree'; UDU-aš kur-ša-aš kán-k[án-za] 'a sheep's fleece hung'; ḫal-ki-ya-aš GU4-a[š] 'of grain, cattle'; MU.ḪI.A GÍD.D[A] 'long years'; [m]i-ú-uš ḫ[a-lu-ga-aš] 'the mild message'; [nu]-ú-u[š] 'assent'"}
+    hints:
+      - "The deity 'recognises' (kaneš-) the king again, as the ewe her lamb: compare God's acknowledging (yada') his chosen (Amos 3:2) and turning in mercy to the repentant (Q 2:37)."
+  - id: ane-cth-334-7-galaktar-fig-olive-raisin
+    tradition: ane-hittite
+    title: Galaktar, parhuena, fig with a thousand seeds, olive, raisins and samama-fruit set out 'for invocation' of Hannahanna (CTH 334.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.7)"
+    read: ["CTH 334.7"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 334.7 §1:1-§2:7"], note: "wa-a-tar ḫar-mi 'I hold the water (of ...)'; DINGIR.MAḪ-aš ... EGIR-pa"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.7 §2:8-§3:13"], note: "galaktar restored; [ka-ra-a]z-ti-iš 'your innards'; LUGAL MUNUS.LUGAL DUMU.MEŠ ... KUR {URU}ḫa-at-ti-ya pa-ra-a ga-la-an-kán-za 'king ... and land of Hatti shall be soothed'; ka-a-ša-at-[ta m]u-ki-iš-ni pár-ḫu-u-i-[na-aš] ki-it-ta-r[i] 'here lies for you for invocation parhuena'; tal-l[i-i-e-ed-du] 'let her become calm'"}
+      - {motif: fruit-holds-seed-wine-oil-analogy, refs: ["CTH 334.7 §4:14-§6:27"], note: "[n]u {GIŠ}PÈŠ ma-aḫ-ḫ[a-an] [mi]-li-id-du 'as the fig is sweet'; [{GIŠ}PÈ]Š ma-aḫ-ḫa-an LI-IM NUMUN-an 'as the fig (holds) a thousand seeds'; {GIŠ}S[E20-ER-DUM] 'olive' (oil); {GIŠ}GEŠTIN ḪÁD.DU.A ... GEŠTIN-an ŠÀ-it ḫar-kán-z[i] 'raisins hold wine within'; {GIŠ}ša-ma-ma ... Ì-an; each time: hold king, queen, princes and land of Hatti ŠÀ-it ZI-it aš-šu-li a-aš-šu ḫar-ak 'in heart and soul well in goodwill'"}
+    hints:
+      - "Q 95:1-3 swears by the fig and the olive, Mount Sinai and 'this secure land'; here fig and olive stand for the land of Hatti held securely in the deity's heart."
+  - id: ane-cth-334-8-storm-god-raging-pot-and-spoon
+    tradition: ane-hittite
+    title: The raging Storm god held back; the pot stopped by the spoon; Hannahanna's anger and the choked house (CTH 334.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.8)"
+    read: ["CTH 334.8"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.8 §1:1-3"], note: "[wa]-aš-túl ša-a-u-wa-a[r] 'sin, sullenness'"}
+      - {motif: storm-god-comes-raging-held-back, refs: ["CTH 334.8 §2:4-5"], note: "{d}IM-aš le-la-ni-ya-a[n-za] 'the Storm god, furious'; a-ra-ez-zi 'stops (him)'"}
+      - {motif: cart-held-back-analogy, refs: ["CTH 334.8 §2:6-9"], note: "{DUG}ÚTUL-ma-ká[n] 'the pot (comes)', [n]a-an {GIŠ}ti-pa-aš a-ra-[ez-zi] 'and the spoon stops it': so let anger, wrath, sin be (stopped)"}
+      - {motif: mist-seizes-windows-smoke-the-house, refs: ["CTH 334.8 §3:10-12"], note: "[DINGIR].MAḪ-aš kar-tim-mi-ya-; [kam-m]a-ra-a-aš IṢ-BAT; É-[er]"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 334.8 §3:13-15"], note: "ú-i-[š]u-ri-[ya-an-ta-ti]"}
+  - id: ane-cth-334-9-all-good-of-the-land
+    tradition: ane-hittite
+    title: Hannahanna has the fleece brought to the king and gives him all the good of the land (CTH 334.9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.9)"
+    read: ["CTH 334.9"]
+    tags:
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 334.9 §1:1-§2:4"], note: "ki-it-t[a] 'lies (in it)'; [DINGIR.MA]Ḫ-a[š] ... kar-ap-pa-nu-[ut] 'Hannahanna had it lifted (for the king)'; [ḫu-u-m]a-an [KUR]-e-ya-an-da-aš a-[aš-šu] ... pa-iš 'gave all the good of the land'"}
+      - {motif: returned-god-cares-for-king, refs: ["CTH 334.9 §3:5-§5:9"], note: "ŠA Ì.NUN i-wa-[ar] 'like ghee'; i-wa-ar ar-li-ip ti-ya-at 'stood like (a thigh) arlip'; [DIN]GIR.MAḪ-aš LUGAL-i MUNUS.LUGAL-i; [m]u-ki-iš-n[a-aš] 'of invocation'"}
+  - id: ane-cth-334-10-storm-god-addresses-gods
+    tradition: ane-hittite
+    title: A feast for the Storm god; he speaks to the gods about 'my son' (CTH 334.10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.10)"
+    read: ["CTH 334.10"]
+    tags:
+      - {motif: gods-feast-without-satiety, refs: ["CTH 334.10 §1:1-4"], note: "{d}10-ni EZEN4 šar-r[a-] 'for the Storm god a feast'; DINGIR.MEŠ-mu-uš 'the gods'; satiety not preserved"}
+      - {motif: gods-ask-what-shall-we-do, refs: ["CTH 334.10 §1:5-11"], note: "{d}10-aš A-NA DINGIR.MEŠ kiš-an 'the Storm god (spoke) to the gods thus'; wa-tar-na-aḫ-zi 'he commissions'; le-e me-ma-i 'let him not say'; mar-ki-iš-ta-aḫ-ḫe-er 'they took (me) by surprise'"}
+      - {motif: vanished-god-takes-fertility-with-him, refs: ["CTH 334.10 §2:12-§3:23"], note: "DUMU-YA-wa 'my son ...'; KALA.GA-aš 'the strong one'; da-aš-šu 'strong'; A-NA {d}I[ŠTAR?]: the father's complaint over the absent son, as in CTH 325 §9:61 (tentative)"}
