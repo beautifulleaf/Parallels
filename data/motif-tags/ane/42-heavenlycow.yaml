@@ -191,6 +191,50 @@ new_motifs:
   wrong-roams-land-without-end: {label: "The wrong that strikes the land has no end", cluster: lament}
   death-as-homecoming-from-captivity: {label: "Death is like a man coming home from an expedition or longing to see his house after years in captivity", cluster: afterlife}
   dead-punish-the-wrongdoer: {label: "The blessed dead, as a living god, repels wrong against the one who does it", cluster: afterlife}
+  asiatics-plundered-until-they-abhor-egypt: {label: "The king had the Asiatics struck, their people captured and their cattle seized until they abhorred Egypt", cluster: war}
+  ba-returns-to-known-place: {label: "The ba (soul) goes to the place it knows and does not stray from its accustomed paths; no magic can hold it back", cluster: afterlife}
+  be-mild-when-punishing: {label: "The ruler is told to be mild (gracious) when he punishes", cluster: kingship}
+  choose-men-by-deeds-not-birth: {label: "Do not distinguish the well-born from the commoner: take a man for the work of his hands", cluster: kingship}
+  conquest-like-a-cloudburst: {label: "The king took a region 'like a cloudburst' (a flood of water)", cluster: war}
+  creator-made-plants-and-animals-to-feed-humans: {label: "The creator made plants, cattle, fowl and fish to feed humankind", cluster: creation}
+  do-for-god-that-he-may-do-for-you: {label: "Act for the god, so that he may act likewise for you (offerings and inscriptions)", cluster: cult}
+  do-maat-while-on-earth: {label: "Speak and do Maat (justice) while you remain on earth", cluster: wisdom}
+  do-not-execute-unjustly: {label: "Do not kill: punish with beatings and imprisonment, not execution, except the rebel; do not kill a man whose worth you know", cluster: law}
+  do-not-oppress-widow-or-dispossess-heir: {label: "Comfort the weeper, do not oppress the widow, do not drive a man from his father's property, do not demote officials", cluster: law}
+  do-what-benefits-the-ba: {label: "A man should do what benefits his ba: serve as priest, wear white sandals, visit the temple, eat bread in the god's house", cluster: cult}
+  even-temper-is-heaven-for-a-man: {label: "A good (even) temper is a man's heaven; the rage of the hot-hearted is grievous", cluster: wisdom}
+  fortified-frontier-city-gate-of-delta: {label: "A fortified city with walls, many troops and dykes is 'the door' of the land against foreigners", cluster: war}
+  furnish-tomb-by-doing-maat: {label: "Make your tomb excellent by uprightness and by doing Maat, for that is what the gods rely on", cluster: afterlife}
+  god-avenges-bloodshed: {label: "God strikes down with misfortune because of blood(shed)", cluster: law}
+  god-hears-the-weeping: {label: "When humans weep, the creator hears", cluster: theology}
+  god-kills-rebellious-children: {label: "The creator killed his enemies and destroyed his own children because they plotted rebellion", cluster: theology}
+  god-knows-the-treacherous: {label: "God knows the treacherous (crooked-hearted)", cluster: theology}
+  god-knows-who-serves-him: {label: "God knows the one who acts for him", cluster: theology}
+  god-punishes-temple-rebel: {label: "God attacks the one who rebels against the temple and repays him as he acts", cluster: cult}
+  god-revered-in-his-image-on-processional-way: {label: "God is worshipped on his processional way in images of stone and copper, one image replacing another like a wave", cluster: cult}
+  god-sails-round-to-see-them: {label: "The sun god sails round the sky to see humankind and has built a shrine around them", cluster: theology}
+  increase-offerings-on-altar: {label: "Enrich the altar, increase the food offerings and the daily offering; honour god", cluster: cult}
+  justify-yourself-before-god: {label: "Justify yourself (make your voice true) at the side of the god", cluster: wisdom}
+  keep-peace-with-southern-rival: {label: "The king is advised to keep peace with the southern realm, renew treaties and receive its goods", cluster: kingship}
+  king-builds-monument-for-god: {label: "Build a monument (temple) for the god: it keeps alive the name of him who builds it", cluster: kingship}
+  king-pacifies-and-settles-frontier: {label: "The old king tells how he pacified the west and settled the eastern border with towns of choice people to repel foreigners", cluster: kingship}
+  king-wise-from-the-womb: {label: "The king is wise from the moment he comes out of the womb, distinguished by god before millions", cluster: kingship}
+  kingship-a-goodly-office-each-king-restores-predecessor: {label: "Kingship is a goodly office without son or brother to keep its monuments: each king must restore his predecessor's work so his own is restored after him", cluster: kingship}
+  monument-is-to-be-loved: {label: "Make your monument endure through the love people bear you", cluster: wisdom}
+  nile-flood-failure-not-feared: {label: "Because the revenues of the north are in the king's hand, a failure of the Nile flood will not distress him", cluster: kingship}
+  no-one-without-an-enemy: {label: "There is no one who is free of an enemy", cluster: wisdom}
+  no-river-can-hide-itself: {label: "No river lets itself be hidden: it breaks the dyke in which it was concealed", cluster: wisdom}
+  poor-official-partial-to-bribe: {label: "The rich man is impartial in his house, but the poor man who says 'would that I had' is partial to whoever bribes him", cluster: wisdom}
+  recruits-come-of-age-every-twenty-years: {label: "Every twenty years a new generation of youth comes of age to be recruited", cluster: war}
+  righteous-dead-like-god-free-forever: {label: "Whoever reaches the hereafter without wrongdoing will be there like a god, striding free like the lords of eternity", cluster: afterlife}
+  subdue-the-multitude: {label: "Bend the multitude and drive the heat (unrest) from it", cluster: kingship}
+  the-greedy-is-a-fool: {label: "He who covets what belongs to others is a fool", cluster: wisdom}
+  war-reaches-necropolis-tombs-hacked: {label: "Egypt fights even in the necropolis, hacking up the tombs", cluster: war}
+  youth-against-youth-foretold-by-ancestors: {label: "Generation will attack generation, as the ancestors foretold", cluster: prophecy}
+  reach-me-without-accuser: {label: "The father hopes his son will join him in the hereafter with no accuser against him", cluster: afterlife}
+  kings-followers-are-gods: {label: "Whoever prospers on earth is one of them (the gods); the king's followers are gods", cluster: kingship}
+  spread-love-of-yourself-among-all-people: {label: "Spread the love of yourself among all humankind; a good character is remembered after the years have passed", cluster: wisdom}
+  hope-for-saviour-may-he-come-today: {label: "The ruler's descendants will call him the one who ended the time of suffering, praying 'may he come today'", cluster: kingship}
 units:
   - id: ane-heavenlycow-w1-council-and-eye-sent
     tradition: ane-egyptian
@@ -993,3 +1037,258 @@ units:
       - {motif: scribal-colophon, refs: ["ManAndBa 154/2"], note: "jwi̯ =f pw ḥꜣ,t =f r pḥ(,wj) =fj mj gmi̯.yt m-zẖꜣ,w"}
     hints:
       - "Choose life: Deut 30:19; Eccl 9:4 (a living dog is better than a dead lion); and the soul's return to God at death, Eccl 12:7."
+  - id: ane-merikare-w1-rebels-and-talkers
+    tradition: ane-egyptian
+    title: The rebel, the agitating talker and his followers; mild punishment (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:1_1-3_6/3"]
+    tags:
+      - {motif: wise-father-instructs-son, refs: ["Merikare W1:1_1"], note: "[H̱,t]y n zꜣ =f Mri̯.yw-kꜣ-Rꜥ: the king's name is restored in brackets; the opening is broken (1_1-1_11)"}
+      - {motif: destroy-the-agitator-and-his-name, refs: ["Merikare W1:2_11-2_12/3", "Merikare W1:3_1/2-3_3"], note: "dr sw, smꜣm 〈ms.w〉 =〈f〉, [s]jn rn =f, [ski̯] hn,w =f, [dr] sḫꜣ =f; the talker (mdw,tj) is 'the troublemaker of the city' who splits the youth into two factions"}
+      - {motif: subdue-the-multitude, refs: ["Merikare W1:3_3/2-3_3/3"], note: "qꜥḥ ꜥšꜣ,t; dr tꜣ r =s 'drive the heat from it'"}
+      - {motif: be-mild-when-punishing, refs: ["Merikare W1:2_8/2", "Merikare W1:3_5/2"], note: "sfn ḫsf =k; 'be gracious to him when your heart is refreshed'"}
+      - {motif: justify-yourself-before-god, refs: ["Merikare W1:3_6/2"], note: "smꜣꜥ ḫrw =k r-gs nṯr"}
+    hints:
+      - "Blot out the name and memory: Deut 25:19, 29:20, Ps 9:6-7, 109:13; the rebel and his house destroyed, 1 Kgs 16:11-12, 2 Kgs 9:7-10."
+      - "The whisperer who separates friends and stirs the city: Prov 16:28, 26:20-21, Prov 29:8 (scoffers set a city aflame)."
+  - id: ane-merikare-w1-speech-ancestors-maat
+    tradition: ane-egyptian
+    title: Speech is stronger than fighting; imitate the ancestors; life on earth is short; do Maat (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:3_7-4_11/3"]
+    tags:
+      - {motif: speech-stronger-than-weapons, refs: ["Merikare W1:3_8-3_8/4"], note: "ḥmw.w m mdw,t nḫt =[k]; ḫpš pw n(,j) nsw,t ns =f; qn mdw,t r ꜥḥꜣ nb"}
+      - {motif: even-temper-is-heaven-for-a-man, refs: ["Merikare W1:3_7-3_7/2"], note: "p,t pw n.t z jwn nfr; the rage of the hot-hearted is grievous"}
+      - {motif: imitate-ancestors-whose-words-are-written, refs: ["Merikare W1:3_10/2-4_1/2"], note: "Maat comes to him 'strained' as the sayings of the forebears; snj r jt.w =k ... mdw,t =sn mn m zẖꜣ; pgꜣ šdi̯ =k"}
+      - {motif: monument-is-to-be-loved, refs: ["Merikare W1:4_2"], note: "swꜣḥ mn,w =k m mr,wt =k"}
+      - {motif: brevity-of-life, refs: ["Merikare W1:4_5/3-4_7"], note: "swꜣ tp tꜣ nn ꜣw =f; wꜣḏ pw sḫ[ꜣ.w] jm =f 'happy is he who is remembered'; 'is it for ever that a man lives?'"}
+      - {motif: the-greedy-is-a-fool, refs: ["Merikare W1:4_5-4_5/2"], note: "ḫm-ḫ,t pw ḥntj jw n k(y).wj"}
+      - {motif: poor-official-partial-to-bribe, refs: ["Merikare W1:4_8-4_9/2"], note: "the rich in his house is not partial; the poor man who says 'would that I had' is partial to the owner of a bribe"}
+      - {motif: do-maat-while-on-earth, refs: ["Merikare W1:4_10/2", "Merikare W1:4_11/3"], note: "jri̯ mꜣꜥ,t wꜣḥ =k tp tꜣ"}
+    hints:
+      - "Wise speech stronger than weapons: Prov 25:15 (a soft tongue breaks a bone), Eccl 9:16-18 (wisdom better than weapons of war), Prov 18:21."
+      - "Seek the words of the ancestors: Deut 32:7, Job 8:8-10, Ps 78:2-4."
+      - "'Is it for ever that a man lives?' Ps 49:8-10, 89:48-49, Job 14:1-2; the remembered righteous, Prov 10:7, Ps 112:6."
+      - "Bribes pervert the judge: Exod 23:8, Deut 16:19."
+  - id: ane-merikare-w1-justice-and-judgment
+    tradition: ane-egyptian
+    title: Comfort the weeper, oppress no widow; do not kill; the judges of the dead (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:5_1-5_10/3"]
+    tags:
+      - {motif: do-not-oppress-widow-or-dispossess-heir, refs: ["Merikare W1:5_1-5_1/4"], note: "sgrj rm,w; m ꜣjr ḫꜣr,t; m nš z ḥr ḫ,t jt =f; do not demote officials"}
+      - {motif: do-not-execute-unjustly, refs: ["Merikare W1:5_2-5_2/4", "Merikare W1:5_4/3"], note: "beware of punishing wrongly; do not slay (m sqrj), punish with beatings and guard, except the rebel; do not kill a man whose worth you know"}
+      - {motif: god-knows-the-treacherous, refs: ["Merikare W1:5_3"], note: "jw nṯr rḫ.w ẖꜣk.w-jb.pl"}
+      - {motif: god-avenges-bloodshed, refs: ["Merikare W1:5_4"], note: "ḥwi̯ nṯr sḏb =f ḥr snf"}
+      - {motif: ba-returns-to-known-place, refs: ["Merikare W1:5_6"], note: "the ba comes to the place it knows, does not stray from its paths of yesterday; no magic can repel it"}
+      - {motif: judges-of-dead-not-lenient, refs: ["Merikare W1:5_7-5_9"], note: "ḏꜣḏꜣ,t wḏꜥ sꜣr,yw ... tm =sn sfn hrw pf n(,j) wḏꜥ; 'do not trust in length of years: they see a lifetime as an hour'"}
+      - {motif: deeds-heaped-beside-dead-at-judgment, refs: ["Merikare W1:5_9/2"], note: "spp 〈z〉 m-ḫt mnj.t rḏi̯.w sp.w.pl =f r-gs =f m ꜥḥꜥ,w"}
+      - {motif: righteous-dead-like-god-free-forever, refs: ["Merikare W1:5_10-5_10/3"], note: "nḥḥ pw gr,t wnn jm; whoever reaches it without wrongdoing will be there like a god, striding free like the lords of eternity"}
+    hints:
+      - "Do not wrong the widow or fatherless: Exod 22:21-23, Deut 24:17, Isa 1:17, Jer 22:3, Zech 7:10; Q 4:2-10 and Q 93:9-10 (do not oppress the orphan)."
+      - "God avenges blood: Gen 9:5-6, Deut 32:43, Ps 9:13."
+      - "A thousand years as a day, a lifetime as an hour: Ps 90:4-6, 2 Pet 3:8; Q 23:112-114 (how many years did you tarry? a day or part of a day); Q 30:55."
+      - "Deeds set out before the judge: Q 18:49 (the book leaves nothing small or great), Q 99:6-8, Q 21:47 (scales of justice); Eccl 12:14, Dan 7:10, Rev 20:12."
+      - "The spirit returns to the place it knows: Eccl 12:7, Job 7:10."
+  - id: ane-merikare-w1-army-and-cult
+    tradition: ane-egyptian
+    title: Raise the youth, choose men by their deeds, serve the temple; one day gives for eternity (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:5_11-6_10"]
+    tags:
+      - {motif: recruits-come-of-age-every-twenty-years, refs: ["Merikare W1:6_1-6_2/2"], note: "rnp,t 20 nꜣ ḏꜣm,w nḏm ḥr šms jb =f"}
+      - {motif: choose-men-by-deeds-not-birth, refs: ["Merikare W1:6_4-6_5"], note: "m tni̯.t zꜣ-z r n[ḏs]; jni̯ n =k z ḥr rʾ-ꜥ.wj.du =fj"}
+      - {motif: king-builds-monument-for-god, refs: ["Merikare W1:6_6/3-6_6/4", "Merikare W1:6_9/2"], note: "jri̯ mn,w n nṯr: it keeps alive the name of him who makes it"}
+      - {motif: do-what-benefits-the-ba, refs: ["Merikare W1:6_6/5"], note: "monthly priestly service, white sandals, visiting the temple, entering the sanctuary, eating bread in the god's house"}
+      - {motif: increase-offerings-on-altar, refs: ["Merikare W1:6_8-6_9"], note: "swꜣḏ wḏḥ,w; sꜥꜣ ꜥq,w; jmi̯ ḥꜣ,w ḥr 〈j〉mn,yt"}
+      - {motif: one-day-for-eternity, refs: ["Merikare W1:6_9/3"], note: "jw hrw 〈wꜥ〉 ḏi̯ =f n nḥḥ wnw,t smnḫ =s n m-ḫt"}
+      - {motif: god-knows-who-serves-him, refs: ["Merikare W1:6_10"], note: "rḫ.n nṯr m jrr.w n =f"}
+    hints:
+      - "Choosing officials for ability: Exod 18:21, Deut 1:13-15, Prov 22:29 (a man skilful in his work will stand before kings)."
+      - "Better is one day in your courts than a thousand: Ps 84:11; Ps 27:4."
+      - "God knows those who serve him: Mal 3:16-18, Nah 1:7, 2 Tim 2:19."
+  - id: ane-merikare-w1-thinis-and-the-south
+    tradition: ane-egyptian
+    title: Strife foretold, the tombs of Thinis, peace with the south, do not wreck another's monument (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:6_10/2-7_11/2"]
+    tags:
+      - {motif: youth-against-youth-foretold-by-ancestors, refs: ["Merikare W1:6_11/3"], note: "jw ḏꜣm,w r ꜣjr ḏꜣm,w mj sr.n tp(,j).w.pl-ꜥ.pl r =s"}
+      - {motif: war-reaches-necropolis-tombs-hacked, refs: ["Merikare W1:6_12-7_1"], note: "ꜥḥꜣ Km,t m ẖr(,t)-nṯr m ꜥḏ js.pl; 'I did the same, and the same happened' (obscure)"}
+      - {motif: keep-peace-with-southern-rival, refs: ["Merikare W1:7_2-7_8/2"], note: "do not be on bad terms with the south, knowing what the Residence prophesied; renew the treaties (wḥm ḫtm.pl); tribute and granite come"}
+      - {motif: do-not-destroy-anothers-monument, refs: ["Merikare W1:7_9-7_9/3"], note: "m ḥḏi̯ mn,w n(,j) ky; quarry stone in Tura; do not build your tomb from ruins"}
+      - {motif: conquest-like-a-cloudburst, refs: ["Merikare W1:7_3/3"], note: "jṯi̯.n =j s(j) mj gp n(,j) mw"}
+      - {motif: follow-your-heart-while-you-live, refs: ["Merikare W1:7_10-7_11/2"], note: "the king may sleep secure and 'follow your heart through what I have done', there is no troublemaker within your borders"}
+    hints:
+      - "Prophecies of strife between generations: Isa 3:5 (the youth insolent to the elder), Mic 7:6."
+      - "Do not remove the ancient landmark: Prov 22:28, 23:10; desecration of tombs, 2 Kgs 23:16-18."
+  - id: ane-merikare-w1-delta-and-the-asiatic
+    tradition: ane-egyptian
+    title: The pacified Delta and the wretched Asiatic, a crocodile on its bank (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:8_1-9_13/2"]
+    tags:
+      - {motif: king-pacifies-and-settles-frontier, refs: ["Merikare W1:8_2/2-8_8"], note: "the West pacified to the coast, giving cedar; the East settled with towns of the choicest people up to the Ways of Horus, 'to repel the arms' of foreigners; the land organised in nomes"}
+      - {motif: asiatic-nomad-stereotype, refs: ["Merikare W1:8_11-9_2", "Merikare W1:9_5/2-9_6/2"], note: "ꜥꜣm,w ẖsj: short of water, poor in wood, many paths made hard by mountains; he never settles; ꜥḥꜣ ḏr rk Ḥr; n qn.n =f n gr qn.(n).tw =f; like a thief cast out by the community; ꜥꜣm,w pw msḥ ḥr mr,yt =f"}
+      - {motif: asiatics-plundered-until-they-abhor-egypt, refs: ["Merikare W1:9_4"], note: "'I made the Delta strike them, captured their people, carried off their cattle, until the Asiatics abhorred Egypt'"}
+      - {motif: fortified-frontier-city-gate-of-delta, refs: ["Merikare W1:9_6/3-9_12/2"], note: "dig canals in Medenit, flood to Kem-wer; Djed-sut (Memphis) musters 10,000 men; strong walls; 'the door of Lower Egypt'; a dyke to Herakleopolis"}
+      - {motif: nile-flood-failure-not-feared, refs: ["Merikare W1:8_7/2-8_7/3"], note: "the Nile will not distress you if it fails, for the Delta's revenues are in your hand"}
+    hints:
+      - "The nomadic Asiatic who cannot be beaten: Gen 16:12 (Ishmael, 'his hand against every man'), Gen 21:20-21; Judg 6:3-5 (Midianites and the people of the east raiding like locusts)."
+      - "Egypt's eastern border defences and the 'Way of Horus': Exod 13:17 (the way of the land of the Philistines), Gen 46:28-34 (Goshen)."
+      - "Pharaoh as crocodile: Ezek 29:3, 32:2."
+  - id: ane-merikare-w1-build-and-guilt
+    tradition: ane-egyptian
+    title: Build in the Delta; god attacks the temple-rebel; kingship a goodly office; the king's guilt at Thinis (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:10_1-11_2"]
+    tags:
+      - {motif: god-punishes-temple-rebel, refs: ["Merikare W1:10_4/2-10_6"], note: "as King Khety taught: tkk nṯr sbj ḥr rʾ-pr; 'one comes upon him as he does it'"}
+      - {motif: wisdom-prolongs-life, refs: ["Merikare W1:10_1"], note: "zꜣu̯,wt snḫḫ =〈s〉 rnp,t 'vigilance makes the year young'"}
+      - {motif: increase-offerings-on-altar, refs: ["Merikare W1:10_7-10_7/4"], note: "sḫwsj wḏḥ,w; trj nṯr; do not say 'the heart is weak'; do not slacken your arms"}
+      - {motif: no-one-without-an-enemy, refs: ["Merikare W1:10_9"], note: "nn-wn šwi̯ m ḫrw,y"}
+      - {motif: king-wise-from-the-womb, refs: ["Merikare W1:10_10-10_11"], note: "sꜣꜣ =f m pr(,w) =f n.w ẖ,t; 〈god〉 distinguished him before millions"}
+      - {motif: kingship-a-goodly-office-each-king-restores-predecessor, refs: ["Merikare W1:10_11/2-10_12/3", "Merikare W1:10_8/4"], note: "jꜣw,t pw nfr.t nsw,yt; 'it has no son, no brother to make its monuments endure'; 'one improves another'; act for your predecessor so your work is restored by your successor"}
+      - {motif: king-confesses-own-wrongdoing, refs: ["Merikare W1:10_14-11_1/3"], note: "m =k sp ẖsj ḫpr m-hꜣ,w =j ꜥḏ.tw ... Tnw; ḫpr.n js m jri̯.t.n =j; m =k ḏꜣr,w ḫnt,j jri̯.(t).n =j 'my distress is the result of what I did'"}
+    hints:
+      - "A king's confession of guilt: 2 Sam 12:13 and 24:10, 17 (David: 'I have sinned'), Ps 51:5-6."
+      - "Chosen from the womb: Jer 1:5, Isa 49:1, Ps 22:10-11."
+      - "God punishes those who violate the temple: 2 Chr 26:16-21 (Uzziah), 2 Macc 3."
+  - id: ane-merikare-w1-retribution-hidden-god
+    tradition: ane-egyptian
+    title: A blow is repaid; the hidden god who knows characters; the upright's loaf preferred to the evildoer's ox (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:11_3-11_10"]
+    tags:
+      - {motif: blow-repaid-with-blow, refs: ["Merikare W1:11_3-11_3/2"], note: "ḏbꜣ.tw sḫi̯.t m mj,tt =f; mḏd(.t) pw jrr.t nb.t"}
+      - {motif: hidden-god-knows-characters, refs: ["Merikare W1:11_3/3"], note: "snn ẖ,t m r(m)ṯ jmn.n s[w] [nṯr] rḫ.w qd,w"}
+      - {motif: none-can-stay-gods-hand, refs: ["Merikare W1:11_4"], note: "nn ḫsf ꜥ 〈n(,j)〉 nb ḏr,t"}
+      - {motif: god-revered-in-his-image-on-processional-way, refs: ["Merikare W1:11_5"], note: "the god is worshipped on his way in images made of stone and copper, 'like a wave replaced by a wave'"}
+      - {motif: no-river-can-hide-itself, refs: ["Merikare W1:11_6-11_6/2"], note: "nn jtr,w rḏi̯ sdgꜣ =f: it breaks the dyke in which it was hidden"}
+      - {motif: ba-returns-to-known-place, refs: ["Merikare W1:11_7"]}
+      - {motif: furnish-tomb-by-doing-maat, refs: ["Merikare W1:11_7/2-11_8"], note: "smnḫ s,t =k n.t ẖr(.t)-nṯr m ꜥqꜣ m jri̯(.t) mꜣꜥ,t"}
+      - {motif: sacrifice-of-wicked-abomination, refs: ["Merikare W1:11_8/2"], note: "šzp bj(ꜣ),t n.t ꜥqꜣ jb r jwꜣ,w n(,j) jri̯ jsf,t 'more acceptable is the loaf of the upright than the ox of the wrongdoer'"}
+      - {motif: contrite-heart-over-sacrifice, refs: ["Merikare W1:11_8/2"]}
+      - {motif: do-for-god-that-he-may-do-for-you, refs: ["Merikare W1:11_9-11_10"], note: "jri̯ n nṯr jri̯ =f n =k mj,tt; 'your name is a pointer: god knows him who acts for him'"}
+    hints:
+      - "The upright's loaf better than the wicked man's ox: Prov 15:8, 21:3 and 21:27; 1 Sam 15:22; Hos 6:6; Amos 5:22-24; Ps 51:18-19; Q 22:37 (neither their flesh nor their blood reaches God, but your piety reaches him); Q 5:27 (God accepts only from the God-fearing: Cain and Abel)."
+      - "Measure for measure: Obad 15, Judg 1:7, Gal 6:7; Q 42:40 (the recompense of evil is evil like it)."
+      - "The hidden God: Isa 45:15 ('truly you are a God who hides himself'), Job 23:8-9, Ps 139:1-4 (you know my sitting down and rising up)."
+      - "None can stay his hand: Dan 4:32, Job 9:12, Isa 43:13."
+  - id: ane-merikare-w1-hymn-to-creator
+    tradition: ane-egyptian
+    title: Hymn to the creator - men the cattle of god, heaven and earth made for their sake, his images from his body; god knows every name (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:11_10/2-12_8"]
+    tags:
+      - {motif: humans-cattle-of-god, refs: ["Merikare W1:11_10/2"], note: "ḥn r(m)ṯ ꜥw,t n.t nṯr 'well tended are men, the cattle of god'"}
+      - {motif: creator-made-world-for-humans-sake, refs: ["Merikare W1:12_1", "Merikare W1:12_2/2", "Merikare W1:12_4"], note: "jri̯.n =f p,t tꜣ n-jb =sn; he rises in the sky for their sake; he makes the light for their sake"}
+      - {motif: creator-drove-off-greed-of-water, refs: ["Merikare W1:12_1"], note: "dr.n =f snk n(,j) mw: the water-monster (snk 'greed, voracity') driven off"}
+      - {motif: breath-of-life-into-nostrils, refs: ["Merikare W1:12_1/2"], note: "jri̯.n =f ṯꜣw jb ꜥnḫ 〈fnd〉.pl =sn 'he made the breath of the heart that their noses may live' (emended from sfn)"}
+      - {motif: human-in-divine-image, refs: ["Merikare W1:12_2"], note: "snn.pl =f pw pri̯.pl m ḥꜥ.pl =f 'they are his images (snn) who came forth from his body'"}
+      - {motif: creator-made-plants-and-animals-to-feed-humans, refs: ["Merikare W1:12_2/3"], note: "jri̯.n =f n =sn sm,w ꜥw,t ꜣpd.pl rm.w.pl snm st"}
+      - {motif: god-kills-rebellious-children, refs: ["Merikare W1:12_3", "Merikare W1:12_7"], note: "he killed his enemies and destroyed his children for plotting rebellion; he killed the treacherous among them 'as a man beats his son for his brother's sake'"}
+      - {motif: god-disciplines-as-father, refs: ["Merikare W1:12_7"]}
+      - {motif: god-sails-round-to-see-them, refs: ["Merikare W1:12_4/2-12_4/3"], note: "he sails round to see them; he has built a shrine behind them (around them)"}
+      - {motif: god-hears-the-weeping, refs: ["Merikare W1:12_5"], note: "[r]mi̯.w =sn jw =f ḥr sḏm 'when they weep he hears'"}
+      - {motif: creator-made-rulers-to-support-weak, refs: ["Merikare W1:12_5/2"], note: "ḥqꜣ.w ... r ṯsi̯.t m psd 〈n(,j)〉 sꜣ-ꜥ"}
+      - {motif: creator-gave-magic-as-weapon, refs: ["Merikare W1:12_6"], note: "ḥkꜣ,w r ꜥḥꜣ,w r ḫsf ꜥ n(,j) ḫpr.yt; dreams watched over night and day (rs.wt)"}
+      - {motif: god-knows-every-name, refs: ["Merikare W1:12_8"], note: "jw nṯr rḫ.w rn nb"}
+    hints:
+      - "Heaven and earth made for humankind and everything given them: Ps 8:4-9 ('what is man ... you have put all things under his feet'), Gen 1:26-30, Ps 115:16; Q 2:29 (he created for you all that is on earth), Q 45:12-13, Q 14:32-34, Q 16:5-14 (cattle, sea creatures for food)."
+      - "The creator provides food for all his creatures: Ps 104:14-15, 27-28 and 145:15-16; Gen 1:29-30 and 9:3; Q 80:24-32."
+      - "Humans as god's images from his body: Gen 1:26-27 and 5:1-3; and as god's flock: Ps 95:7, 100:3, Ezek 34:31."
+      - "Breath of life in the nostrils: Gen 2:7, Job 27:3, Isa 2:22; Q 15:29 and 32:9 (he breathed into him of his spirit)."
+      - "The waters subdued before creation: Ps 104:6-9, Ps 74:13-14, Job 38:8-11, Gen 1:2, 9-10."
+      - "When they weep he hears: Exod 2:23-25, 3:7, Ps 34:18, Ps 145:19; and god disciplines as a father, Deut 8:5, Prov 3:12."
+      - "God knows every name: Ps 147:4 and Isa 40:26 (he calls the stars by name), Isa 43:1, Exod 33:12 and 17 ('I know you by name'), John 10:3; Q 2:31 (he taught Adam all the names)."
+      - "He destroyed his children for rebellion: compare the Heavenly Cow (HeavenlyCow W1:1-15/2) and Gen 6-7, Q 11:25-49."
+  - id: ane-merikare-w1-closing-and-colophon
+    tradition: ane-egyptian
+    title: Closing counsel - do not kill your intimate, the king's followers are gods, spread love of yourself; colophon of Khaemwaset (Instruction for Merikare)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPetersburg 1116A verso"
+    read: ["Merikare W1:12_8/2-13_3/2"]
+    tags:
+      - {motif: reach-me-without-accuser, refs: ["Merikare W1:12_8/2-12_9"], note: "keep my teaching for the king 'that you may reach me without an accuser (srḫ,y)'"}
+      - {motif: do-not-execute-unjustly, refs: ["Merikare W1:12_9/2"], note: "do not kill one close to you whom you have favoured, for god knows him"}
+      - {motif: kings-followers-are-gods, refs: ["Merikare W1:12_10-12_10/2"], note: "wꜥ jm =sn pw wꜣḏ tp tꜣ; nṯr.pl pw šms,w nsw,t"}
+      - {motif: spread-love-of-yourself-among-all-people, refs: ["Merikare W1:12_11-12_11/2"], note: "jmi̯ mr,wt =k n tꜣ-tm,w; a good character is remembered when the years have passed"}
+      - {motif: hope-for-saviour-may-he-come-today, refs: ["Merikare W1:13_1"], note: "the descendants of Khety will say of him 'destroyer of the time of suffering', imploring 'may he come today' (jwi̯.t =f mjn) - reading uncertain"}
+      - {motif: scribal-colophon, refs: ["Merikare W1:13_3/2"], note: "copied 'as found in writing' by the scribe Khaemwaset for himself and his brother the scribe Mehu, 'skilled in the work of Thoth'"}
+      - {motif: wise-father-instructs-son, refs: ["Merikare W1:13_2"], note: "m =k ḏd.n =j n =k bw-ꜣḫ n(,j) ẖ,t =j"}
+    hints:
+      - "The father's closing charge: Prov 4:1-9, 1 Kgs 2:1-4 (David to Solomon), Deut 32:46-47."
+      - "Love of the people as the king's best defence: Prov 14:28, 20:28 and 29:14."
+  - id: ane-merikare-w2-carlsberg
+    tradition: ane-egyptian
+    title: Instruction for Merikare, pCarlsberg VI (from the Asiatic passage to the closing)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pCarlsberg VI"
+    read: ["Merikare W2"]
+    tags:
+      - {motif: asiatic-nomad-stereotype, refs: ["Merikare W2:x+2_1/2-W2:x+2_5", "Merikare W2:x+2_7-W2:x+2_8/2"], note: "variant x+2_1/2 pḏ,t 'the bow-people' for pḏ,t(j) 'the bowman'; x+2_3 'a single place that lack of food makes inaccessible to his feet'"}
+      - {motif: asiatics-plundered-until-they-abhor-egypt, refs: ["Merikare W2:x+2_6"], note: "variant: 'I carried off all their food and killed [...] among them'"}
+      - {motif: god-punishes-temple-rebel, refs: ["Merikare W2:x+3_6-W2:x+3_7/2"]}
+      - {motif: king-confesses-own-wrongdoing, refs: ["Merikare W2:x+4_3/2-W2:x+4_5/2"], note: "variant x+4_4 ḫpr.n n-js m jri̯.t.n =j 'it did not happen through what I did' - a negation where W1 has js 'indeed'"}
+      - {motif: sacrifice-of-wicked-abomination, refs: ["Merikare W2:x+5_1"]}
+      - {motif: creator-made-world-for-humans-sake, refs: ["Merikare W2:x+5_4-W2:x+5_5/2"]}
+      - {motif: creator-drove-off-greed-of-water, refs: ["Merikare W2:x+5_4/2"], note: "variant: dr.n =f n =sn snk n(,j) mw 'he drove off for them the greed of the water'"}
+      - {motif: human-in-divine-image, refs: ["Merikare W2:x+5_5"]}
+      - {motif: god-hears-the-weeping, refs: ["Merikare W2:x+5_7"], note: "rmm =sn jw =f ḥr sḏm"}
+      - {motif: god-knows-every-name, refs: ["Merikare W2:x+6_1/2"], note: "entirely restored: [jw] [nṯr] rḫ[.w] [rn] [nb]"}
+    hints:
+      - "Same parallels as W1 (Ps 8, Ps 104, Gen 1:26-30, Ps 147:4); the variant 'it did not happen through what I did' changes the king's confession into a disclaimer, compare 2 Sam 12:13 versus 1 Sam 15:20-21."
+  - id: ane-merikare-w3-moscow
+    tradition: ane-egyptian
+    title: Instruction for Merikare, pMoscow 4658 (fragments of the whole text)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W3, pMoscow 4658"
+    read: ["Merikare W3"]
+    tags:
+      - {motif: destroy-the-agitator-and-his-name, refs: ["Merikare W3:2_8-W3:2_9/4"]}
+      - {motif: do-not-oppress-widow-or-dispossess-heir, refs: ["Merikare W3:3_18/2-W3:4_1/2"]}
+      - {motif: judges-of-dead-not-lenient, refs: ["Merikare W3:4_7-W3:4_9/2"]}
+      - {motif: deeds-heaped-beside-dead-at-judgment, refs: ["Merikare W3:4_9/3"]}
+      - {motif: poor-official-partial-to-bribe, refs: ["Merikare W3:3_15/2-W3:3_15/3"], note: "variant adds nmꜥ =f n mri̯.y =f 'he is partial to the one he loves' and gꜣs.w =f 'he is biased'"}
+      - {motif: asiatic-nomad-stereotype, refs: ["Merikare W3:6_8/2-W3:6_13/3", "Merikare W3:6_16-W3:6_17/2"], note: "variant 6_13/3: 'like a thief whom the community's arm has repelled'"}
+      - {motif: sacrifice-of-wicked-abomination, refs: ["Merikare W3:8_7/3"], note: "variant ꜣḫ 'more useful' for šzp 'more acceptable'"}
+      - {motif: creator-made-world-for-humans-sake, refs: ["Merikare W3:8_10-W3:8_12/2"]}
+      - {motif: human-in-divine-image, refs: ["Merikare W3:8_11"]}
+      - {motif: creator-made-rulers-to-support-weak, refs: ["Merikare W3:8_13/4"], note: "variant m swḥ,t 'in the egg' (from the egg) for W1 m stj 'from the scent'"}
+      - {motif: god-knows-every-name, refs: ["Merikare W3:8_16/2"], note: "restored in brackets"}
+    hints:
+      - "Same parallels as W1; for 'rulers made in the egg' compare Jer 1:5 (before I formed you in the womb) and Ps 139:13-16."

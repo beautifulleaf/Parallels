@@ -1,0 +1,1574 @@
+# Full read of the ANE corpus, chunk 40: KTU 1.14 ... AtenHymn (in the order of `aneread.py texts 40`).
+# Ugaritic: Kirta (1.14-1.16), Aqhat (1.17-1.19), Shahar and Shalim (1.23), Nikkal (1.24), Horon and the snakes (1.100), read from EUPT
+# consonantal text with its German translation per colon. Egyptian: Instruction of Amenemope (six witnesses) and the Great Hymn to the Aten, from TLA.
+new_motifs:
+  king-loses-all-wives-and-heirs: {label: "The king's house is ruined: his wives die one after another (in health, in sickness, by plague, by the sea, by the weapon) and all his heirs perish", cluster: kingship}
+  seven-brothers-eight-sons-of-one-mother: {label: "A man had seven brothers, eight sons of one mother (graded number), all of whom are lost", cluster: family}
+  plague-god-resheph-carries-off-family: {label: "The plague god Resheph (Rašpu) gathers in or snatches away members of a family", cluster: underworld}
+  sea-takes-a-wife: {label: "The Sea (Yammu) or its lads carry off a man's wife", cluster: myth}
+  tears-like-shekels-to-ground: {label: "Tears fall to the ground like shekels (or fractions of shekels), onto the bed", cluster: mourning}
+  mourner-weeps-in-inner-chamber: {label: "The grieving man goes into his inner chamber to weep", cluster: mourning}
+  weeper-falls-asleep-and-dreams: {label: "The weeping man falls asleep in his tears and slumber overcomes him, opening onto a divine dream", cluster: revelation}
+  father-of-mankind-el: {label: "The high god El is called 'Father of Mankind' (ab adm)", cluster: theology}
+  god-asks-why-petitioner-weeps: {label: "The god appearing to the grieving man asks why he weeps and what he desires", cluster: revelation}
+  king-called-gracious-lad-of-el: {label: "The human king is called 'the gracious lad of El' (nʿmn ġlm il) and 'the servant of El'", cluster: kingship}
+  hero-refuses-wealth-asks-for-offspring: {label: "Offered (or thinking of) silver, gold, slaves and horses, the hero wants none of them, only sons and offspring", cluster: family}
+  ritual-washing-and-rouging-before-sacrifice: {label: "Before sacrificing the worshipper washes his hands to the elbow, his fingers to the shoulder, and reddens (rouges) himself", cluster: cult}
+  offering-of-lamb-bird-wine-and-honey: {label: "An offering of a sacrificial lamb and a bird, wine poured in a silver cup and honey in a gold cup", cluster: cult}
+  sacrifice-on-tower-roof-hands-to-heaven: {label: "The king climbs to the top of the tower or roof, lifts his hands to heaven and sacrifices to the high god", cluster: cult}
+  army-numberless-like-storm-and-autumn-rain: {label: "A huge army (three million, numberless) marches by thousands like a storm, by myriads like the early rain", cluster: war}
+  total-levy-widow-sick-blind-newlywed: {label: "A total levy: even the only son shuts his house, the widow hires a substitute, the sick carries his bed, the blind gropes along, the new bridegroom gives his bride to another", cluster: war}
+  army-settles-on-land-like-locusts: {label: "The marching army settles on the field like locusts, like grasshoppers on the edge of the steppe", cluster: war}
+  seven-day-march-formula: {label: "Journey formula counting day by day (a day, a second, a third ... at sunrise on the seventh) until arrival", cluster: narrative}
+  women-flee-from-fields-and-well: {label: "At the besieger's arrival the women gathering wood and straw in the fields and drawing water at the spring flee", cluster: war}
+  siege-waits-six-days-acts-on-seventh: {label: "The besieger is told to wait quietly six days, shooting no arrows at the city, and on the seventh something happens", cluster: war}
+  king-cannot-sleep-for-noise-of-animals: {label: "The besieged king cannot sleep for the roaring of his bulls, the braying of his asses, the lowing of plough-oxen and barking of dogs", cluster: war}
+  besieged-king-offers-peace-gifts: {label: "The besieged king sends messengers offering silver, gold, slaves, horses and chariots as peace gifts if the besieger will withdraw", cluster: war}
+  city-called-gift-of-el: {label: "A city is called the gift of the high god, the present of the Father of Mankind", cluster: theology}
+  hero-demands-princess-not-treasure: {label: "The besieger refuses the treasure and demands instead the enemy king's daughter as bride", cluster: marriage}
+  bride-beautiful-as-anat-and-athtart: {label: "The desired bride's grace is like Anat's and her beauty like Athtart's; her eyes like lapis and alabaster", cluster: marriage}
+  bride-promised-in-dream-by-god: {label: "The hero claims the bride because the god gave her to him in a dream, to bear him offspring", cluster: marriage}
+  athirat-of-tyre-goddess-of-sidon: {label: "The goddess Athirat is worshipped at her shrine as 'Athirat of Tyre, goddess of Sidon'", cluster: cult}
+  conditional-vow-on-the-way: {label: "On the way to his goal the hero vows a gift to a deity at her shrine if he succeeds", cluster: cult}
+  besieged-king-consults-wife: {label: "The besieged king calls aloud to his wife to take counsel", cluster: kingship}
+  princess-fed-hungry-and-thirsty: {label: "The princess used to take the hungry and the thirsty by the hand (her charity mourned when she leaves)", cluster: ethics}
+  bride-taken-to-conquerors-camp: {label: "The princess is handed over and brought into the conqueror's camp", cluster: marriage}
+  city-laments-like-cow-for-calf: {label: "A city laments its departing princess as a cow lows for its calf and children cry for their mothers", cluster: mourning}
+  divine-assembly-comes-to-kings-house: {label: "The assembly of the gods, named one by one, comes to a mortal king's house", cluster: myth}
+  blessing-with-cup-in-hand: {label: "The high god takes a cup in his hand, a goblet in his right, and pronounces a blessing on a mortal", cluster: cult}
+  wife-will-bear-seven-sons-yea-eight: {label: "Divine blessing: the wife you have taken will bear you seven sons, yes, eight", cluster: family}
+  king-exalted-among-rephaim: {label: "The king is exalted among the Rephaim of the earth, in the gathering of the assembly of Ditanu (royal ancestors)", cluster: underworld}
+  litany-of-daughters-to-be-born: {label: "A blessing lists the daughters to be born one after another in a litany ('she will bear the girl ...')", cluster: family}
+  youngest-made-firstborn: {label: "The youngest child is formally made the firstborn", cluster: family}
+  gods-depart-to-their-tents-after-blessing: {label: "Having blessed the mortal, the gods go back to their tents, their dwellings", cluster: myth}
+  promised-children-born-in-seventh-year: {label: "In the seventh year the promised sons and daughters are born as foretold", cluster: family}
+  deity-remembers-unpaid-vow: {label: "A goddess remembers the vow the hero made and did not fulfil, and threatens to annul her favour", cluster: cult}
+  queen-prepares-feast-for-nobles: {label: "At the king's order the queen slaughters fat beasts, opens the wine jars and calls the nobles to a feast", cluster: kingship}
+  nobles-called-bulls-and-gazelles: {label: "The king's nobles are called his seventy 'bulls' and eighty 'gazelles'", cluster: kingship}
+  hostess-carves-meat-for-guests: {label: "The hostess puts her hand to the dish and the knife to the meat to serve the guests", cluster: hospitality}
+  weeping-for-dying-king-like-lowing-bulls: {label: "The guests are told to weep for the dying king like the bellowing of bulls", cluster: mourning}
+  death-as-reaching-sunset: {label: "Dying is described as reaching the setting of the sun, joining the high god", cluster: underworld}
+  nobles-anticipate-successor: {label: "While the king lies ill the nobles say that when he dies his son will reign over them", cluster: kingship}
+  do-gods-die-lament: {label: "A child laments the dying father who was called son of god: 'we rejoiced in your immortality; how can you die? do gods die?'", cluster: mourning}
+  perish-like-dog-in-house: {label: "Lament: we waste away like a dog in your house, like a cur at your door", cluster: mourning}
+  dying-father-forbids-son-to-weep: {label: "The dying father tells his son not to weep or waste the fountain of his eyes, but to call his sister", cluster: mourning}
+  daughter-summoned-to-lament-with-tambourine: {label: "A daughter is called to come with tambourine in hand to sing (lament) over her father", cluster: mourning}
+  sister-at-well-learns-news: {label: "A sister out drawing water sees her brother coming and asks whether their father is ill", cluster: narrative}
+  mourner-cries-out-unclothed: {label: "The mourner sobs and cries out, naked, without garment", cluster: mourning}
+  earth-searched-for-baals-rain: {label: "Messengers are told to roam earth and heaven to its edge, looking for the rain of Baal on the fields", cluster: myth}
+  rain-good-for-wheat-like-perfume: {label: "Baal's rain is good for the earth and the wheat, like fragrance on the ploughed field, like a garland on the furrow", cluster: myth}
+  food-wine-oil-exhausted-in-drought: {label: "In drought the ploughmen look up: the bread is spent from the jars, the wine from the skins, the oil from the vessels", cluster: famine}
+  kings-sickness-brings-drought: {label: "The king's mortal sickness is accompanied by failure of rain and the land's produce", cluster: kingship}
+  herald-of-the-gods-and-his-wife: {label: "The high god summons his herald (Ilish) and the herald's wife, herald of the goddesses", cluster: myth}
+  herald-climbs-building-to-proclaim: {label: "The herald is told to climb onto the shoulder of the building, the parapet of the tower, and cry aloud", cluster: myth}
+  high-god-asks-seven-times-who-will-heal: {label: "The high god asks the assembled gods seven times who will drive out the king's sickness", cluster: myth}
+  none-answers-in-divine-assembly: {label: "No one among the gods answers the high god's question", cluster: myth}
+  healer-drives-death-from-city: {label: "A divine healer drives Death out of the city and the foe out of the town, striking with a staff", cluster: underworld}
+  healer-washes-sweat-and-opens-throat: {label: "The healer washes the sick man's sweat and opens his throat so that he can eat again", cluster: healing}
+  recovered-king-asks-for-food: {label: "On recovering, the king orders a lamb slaughtered so that he may eat", cluster: healing}
+  king-returns-to-throne-after-illness: {label: "After a day or two the healed king sits again on his royal throne", cluster: kingship}
+  son-demands-father-abdicate: {label: "A son, prompted by his inner voice, demands that his sick father step down from kingship so that he may reign", cluster: kingship}
+  king-fails-to-judge-widow-and-poor: {label: "The king is accused of not judging the widow's case, not trying the cause of the wretched, not driving out the oppressor of the poor, not feeding the orphan", cluster: kingship}
+  sickbed-as-sister-and-companion: {label: "The sickbed has become the sick king's sister, his couch of illness his companion", cluster: mourning}
+  father-curses-rebellious-son: {label: "The father curses the son who sought his throne, calling on gods to break his head and skull", cluster: family}
+  six-days-of-ritual-then-seventh: {label: "A ritual action is repeated day by day for six days (one, two, three ... six) and on the seventh comes the result", cluster: cult}
+  duties-of-the-ideal-son: {label: "A list of a son's duties to his father: setting up the ancestral stele, making his smoke rise, silencing his slanderers, supporting him when drunk, offering for him in the temples, plastering his roof and washing his clothes", cluster: family}
+  son-holds-drunken-fathers-hand: {label: "A good son takes his father by the hand when he is drunk and supports him when he is sated with wine", cluster: family}
+  stele-for-ancestral-god: {label: "The son sets up the stele of his father's ancestral god, the emblem of his clan in the sanctuary", cluster: cult}
+  kiss-and-embrace-bring-conception: {label: "When he kisses his wife she conceives; when he embraces her she becomes pregnant", cluster: family}
+  promised-father-laughs-for-joy: {label: "Told he will have a son, the father's face shines; he laughs, rests his feet on the footstool and says his soul is at rest", cluster: family}
+  kotharat-swallow-birth-goddesses: {label: "The Kotharat, daughters of Hilal (the new moon), 'the swallows', goddesses of conception and birth, are feasted or invoked", cluster: family}
+  father-counts-months-of-pregnancy: {label: "The expectant father sits and counts the months of his wife's pregnancy", cluster: family}
+  just-judge-at-gate-for-widow-and-orphan: {label: "The righteous man sits at the city gate among the nobles on the threshing floor and judges the cause of the widow and the orphan", cluster: law}
+  lifts-eyes-and-sees-visitor-approach: {label: "Lifting his eyes he sees the divine visitor coming from far away", cluster: hospitality}
+  divine-craftsman-makes-hero-bow: {label: "The craftsman god brings a bow and arrows for a mortal hero", cluster: myth}
+  father-gives-bow-to-son: {label: "The father strings the bow and gives it to his son, asking for the best of his game", cluster: family}
+  bow-flashes-like-lightning: {label: "The divine bow's string flashes like lightning, shooting into the deep, and curls like a serpent", cluster: myth}
+  goddess-covets-heros-bow: {label: "A goddess covets the mortal hero's bow and offers silver and gold for it", cluster: myth}
+  hero-tells-goddess-make-her-own-bow: {label: "The hero refuses to give his bow and tells the goddess to bring the materials (wood of Lebanon, sinews, horns) to the craftsman god for her own", cluster: myth}
+  goddess-offers-hero-immortality: {label: "A goddess offers the mortal hero life, not-dying, years counted with the gods, in exchange for his weapon", cluster: immortality}
+  death-of-all-men-cannot-be-escaped: {label: "The mortal answers that no one escapes death: at the last glaze is poured on his head, plaster on his crown; he will die the death of all men", cluster: immortality}
+  bows-are-for-warriors-not-women: {label: "The hero taunts the goddess: bows are for warriors; do women now hunt?", cluster: gender}
+  goddess-threatens-hero-on-path-of-sin: {label: "The goddess laughs but plots: if she meets him on the path of transgression and pride she will fell him under her feet", cluster: myth}
+  goddess-prostrates-at-el-feet: {label: "The goddess bows at the high god's feet, falls down, prostrates herself and honours him", cluster: myth}
+  goddess-slanders-hero-to-high-god: {label: "The goddess slanders the mortal hero before the high god", cluster: myth}
+  high-god-yields-to-violent-daughter: {label: "The high god yields to his fierce daughter: 'I know you are implacable; go, do what is in your heart; whoever hinders you will be crushed'", cluster: myth}
+  goddess-offers-to-teach-hunting: {label: "The goddess invites the hero to go hunting and offers to teach him the hunt", cluster: myth}
+  abilum-city-of-moon-god: {label: "Abilum, 'the city of Prince Yarikh' (the moon god), near the site of the murder", cluster: geography}
+  goddess-hires-assassin: {label: "A goddess enlists a warrior (Yatpan) to kill the mortal she hates", cluster: myth}
+  murder-for-coveted-object: {label: "A man is murdered for a possession (his bow) the killer coveted", cluster: crime}
+  assassin-carried-as-raptor-in-goddess-belt: {label: "The goddess carries the assassin like an eagle in her belt, like a falcon in her sheath, and releases him over the victim", cluster: myth}
+  raptors-hover-over-victim: {label: "Eagles and falcons hover over the man as he sits to eat, or over his father's house, an omen of death", cluster: omen}
+  blows-twice-on-skull-thrice-on-ear: {label: "The killer strikes the victim twice on the skull, three times over the ear", cluster: crime}
+  blood-poured-like-a-slaughterer: {label: "The killer pours out the victim's blood like a murderer, like a slaughterer, to his knees", cluster: crime}
+  life-leaves-like-wind-spittle-smoke: {label: "The victim's life goes out like a breath of wind, his soul like spittle, like smoke from his nostrils", cluster: death}
+  killer-goddess-weeps-over-victim: {label: "The goddess who had the hero killed weeps over him: 'for your bow I struck you, for your arrows I did not let you live'", cluster: myth}
+  coveted-object-lost-after-murder: {label: "The coveted object for which the hero was killed falls into the waters and breaks, so the killer never gets it", cluster: myth}
+  harvest-withers-at-heros-death: {label: "After the hero's death the grain on the threshing floor dries up and the vines wither", cluster: famine}
+  weeping-in-heart-and-liver: {label: "The mourner weeps in her heart and sheds tears in her liver (inwardly)", cluster: mourning}
+  garment-torn-in-mourning: {label: "A garment or cloak is torn in grief at a death or disaster", cluster: mourning}
+  hero-adjures-clouds-for-rain: {label: "The righteous man adjures the clouds in the heat of disaster to bring the early rain and the dew on the grapes", cluster: ritual}
+  dew-collected-from-fleece: {label: "A woman 'who scoops the dew from the fleece' (and carries water, knows the course of the stars)", cluster: agriculture}
+  daughter-saddles-donkey-for-father: {label: "The daughter harnesses the donkey with silver and gold trappings, lifts her father and sets him on its back", cluster: narrative}
+  father-kisses-surviving-stalk: {label: "In the parched field the father finds a surviving shoot or ear, embraces and kisses it, and wishes that his son's hand may gather it into the granary", cluster: agriculture}
+  word-not-yet-out-of-mouth-when: {label: "Formula: the word had not yet left his mouth, the speech his lips, when the event happened", cluster: narrative}
+  messengers-bring-news-of-sons-death: {label: "Messengers arrive and announce to the father: your son is dead, the goddess killed him", cluster: mourning}
+  mourners-bind-hair-and-weep: {label: "Mourners bind (or loose) the locks of their heads and shed tears", cluster: mourning}
+  feet-shake-loins-break-at-bad-news: {label: "At bad news the hearer's feet shake, his face sweats, his loins break and his back gives way", cluster: emotion}
+  eagles-sighted-in-clouds: {label: "Lifting his eyes the father sees eagles in the clouds", cluster: narrative}
+  storm-god-breaks-wings-of-eagles: {label: "At a mortal's prayer the storm god breaks the wings of eagles so that they fall at his feet", cluster: myth}
+  entrails-searched-for-devoured-remains: {label: "The father splits open the birds' bellies (livers) to look for the fat and bones of his devoured son", cluster: death}
+  storm-god-restores-wings: {label: "When the remains are not found the storm god is asked to restore the eagle's wings and it flies away", cluster: myth}
+  father-and-mother-of-eagles: {label: "Named eagles: Hirgab the father of the eagles and Ṣamal the mother of the eagles", cluster: myth}
+  grave-in-pit-of-underworld-gods: {label: "The dead son is buried in the hole of the gods of the earth (the underworld)", cluster: underworld}
+  father-guards-sons-grave-from-birds: {label: "The father curses any birds that fly over his son's grave and disturb him from his sleep", cluster: death}
+  mourner-sets-down-staff: {label: "The mourner sets down (or takes up) the end of the staff in his hand between curses", cluster: ritual}
+  mourning-ended-with-sacrifice-and-incense: {label: "Mourning is ended: the mourning women are sent away, sacrifice is offered and incense rises to the heavens and the stars", cluster: mourning}
+  daughter-asks-blessing-to-avenge-brother: {label: "The sister asks her father's blessing to go and kill her brother's killer, and he blesses her", cluster: vengeance}
+  woman-armed-under-womans-dress: {label: "The avenging woman puts on warrior's garb and a dagger beneath, and a woman's garment over it, and rouges herself", cluster: vengeance}
+  avenger-plies-killer-with-wine: {label: "The disguised woman avenger serves the killer wine, a second cup of mixed drink, in his tent", cluster: vengeance}
+  killer-boasts-in-drink: {label: "Drunk, the killer boasts that the hand that slew the hero will slay thousands of enemies", cluster: vengeance}
+  hired-woman-suspected-in-tent: {label: "The killer is told that 'the one who hired us' (or a hired woman) has come to his tent", cluster: vengeance}
+  scribal-rubric-return-to-recitation: {label: "A rubric at the end of a tablet tells the reciter to return to (the beginning of) the recitation", cluster: scribal}
+  invited-to-eat-bread-and-drink-wine: {label: "Invitation: eat of every bread, drink of every wine", cluster: cult}
+  peace-to-king-and-queen-and-those-who-enter: {label: "Liturgical greeting: peace to the king, peace to the queen, to those who enter and to the guards", cluster: cult}
+  death-pruned-like-a-vine: {label: "Death (Mot-wa-Šar) sits with the staff of bereavement and widowhood, and the pruners prune him and the binders bind him like a vine", cluster: underworld}
+  staff-of-bereavement-and-widowhood: {label: "Death holds in his hand the staff of childlessness and the staff of widowhood", cluster: underworld}
+  sevenfold-recitation-rubric: {label: "A rubric prescribes that a text be recited seven times (over the platform, over the fire, over the basin)", cluster: cult}
+  field-of-the-gods-of-athirat-and-rahmay: {label: "Refrain: the field is the field of the gods, the field of Athirat and Rahmay", cluster: cult}
+  gods-suckle-at-goddess-breasts: {label: "Newborn gods suck at the nipples of the mother goddess's breast", cluster: myth}
+  gracious-gods-divide-day-from-day: {label: "The gracious gods are 'those who split day from day'", cluster: cosmology}
+  high-god-walks-shore-of-sea: {label: "The high god walks along the shore of the sea, the shore of the deep", cluster: myth}
+  high-god-takes-two-women-as-wives: {label: "The high god sees two women at a basin, takes them into his house and, according to their cry, makes them his wives (not daughters) for ever", cluster: myth}
+  high-god-shoots-and-roasts-a-bird: {label: "The high god shoots a bird from the sky, plucks it and roasts it on the coals as a sign of his potency", cluster: myth}
+  birth-of-dawn-and-dusk: {label: "The high god's wives give birth to Shahar and Shalim, Dawn and Dusk", cluster: cosmology}
+  offerings-to-sun-and-fixed-stars: {label: "Gifts are lifted up to the Sun, the Lady, and to the fixed stars", cluster: cult}
+  insatiable-newborn-gods-lip-to-earth-lip-to-heaven: {label: "The newborn gods put one lip to the earth and one to the heavens; birds of the sky and fish of the sea enter their mouths, yet they are not sated", cluster: myth}
+  sojourn-seven-years-in-holy-desert: {label: "The newborn gods are sent to dwell as strangers among stones and trees in the holy desert for seven full years, eight cycles", cluster: myth}
+  wanderers-ask-guard-of-sown-land-for-bread-and-wine: {label: "The wanderers from the desert ask the watchman of the sown land to open and give them bread and wine", cluster: myth}
+  moon-god-desires-maiden: {label: "The moon god burns with desire at sunset and embraces the maiden", cluster: myth}
+  suitor-sends-bride-price-to-brides-father: {label: "The divine suitor sends to the bride's father offering a bride-price of a thousand silver and ten thousand gold and lapis, and to turn her field into vineyards", cluster: marriage}
+  father-offers-another-bride: {label: "The bride's father suggests the suitor marry another (more prestigious) girl instead", cluster: marriage}
+  suitor-insists-on-chosen-bride: {label: "The suitor refuses the alternative and insists on the bride he chose, and marries her", cluster: marriage}
+  bride-price-weighed-by-brides-family: {label: "The bride's father, mother, brother and sister set up the scales and weigh the bride-price", cluster: marriage}
+  moon-god-lamp-of-heaven: {label: "The moon god is called 'the lamp of heaven' (nyr šmm) and asked to shine on the worshipper", cluster: cosmology}
+  catalogue-of-goddess-names-recited: {label: "The singer says the names of the goddesses are in his mouth, their count on his lips, and lists them", cluster: cult}
+  mare-daughter-of-spring-stone-heaven-and-deep: {label: "The mother of stallion and mare is 'daughter of the spring, daughter of the stone, daughter of heaven and the deep'", cluster: myth}
+  sun-goddess-carries-petition-to-each-god: {label: "The sun goddess is asked to carry the petitioner's cry to each god in turn at his own city", cluster: cult}
+  snakebite-incantation-expels-venom: {label: "An incantation against snakebite: the charmer destroys the venom, removes the poison and casts the snake away", cluster: magic}
+  gods-sit-on-thrones-and-do-nothing: {label: "Each god petitioned sets out his chair and sits down, without helping", cluster: cult}
+  healer-god-sets-out-for-city-of-east: {label: "The healer god sets his face toward a distant city to fetch the cure", cluster: magic}
+  tree-cast-to-neutralize-poison: {label: "The god casts the 'tree of death' among tamarisks and date-spathes to neutralise the venom", cluster: magic}
+  venom-flows-away-like-a-stream: {label: "The venom grows weak and flows away like a wadi, dispersed like a channel", cluster: magic}
+  bride-house-shut-until-terms-met: {label: "The house of the bride is shut against the suitor until he meets her terms", cluster: marriage}
+  snakes-as-bride-price: {label: "The bride demands snakes, 'sons of the serpent', as her bride-price, and the god gives them", cluster: marriage}
+  instruction-for-life-and-well-being: {label: "An instruction presents itself as the teaching for life and the guide to well-being", cluster: wisdom}
+  wisdom-enables-true-answer-to-sender: {label: "The purpose of instruction: to answer one who speaks and bring back a report to the one who sent you", cluster: wisdom}
+  way-of-life-path-image: {label: "Teaching steers the pupil on the way (path) of life", cluster: wisdom}
+  father-instructs-youngest-son: {label: "An official writes his instruction for his son, the youngest of his children", cluster: wisdom}
+  author-is-scribe-of-fields-and-boundaries: {label: "The author of the instruction is a scribe of fields who sets boundary stones and keeps the land register", cluster: wisdom}
+  truly-silent-man-ideal: {label: "The ideal of the 'truly silent' (self-controlled, modest) man contrasted with the heated man", cluster: wisdom}
+  incline-ear-to-words-of-wise: {label: "Opening call of instruction: give your ears, hear the words, set your heart to understand them", cluster: wisdom}
+  teaching-a-storehouse-for-life: {label: "The teacher's words will be a storehouse (treasury) for life and the body will prosper on earth", cluster: wisdom}
+  honour-the-aged-and-great: {label: "Do not lay hands on an old man or cut off the elder's speech; give respect to the older and greater", cluster: wisdom}
+  evildoer-swept-away-by-flood-and-storm: {label: "The evildoer is abandoned by the riverbank, carried off by its mud and swept away by the storm; crocodiles await", cluster: wisdom}
+  pause-before-speaking: {label: "Pause, sleep a night, before speaking", cluster: wisdom}
+  anger-like-fire-in-straw: {label: "The heated man's anger flares up like fire in straw", cluster: wisdom}
+  wicked-tree-withers-righteous-tree-flourishes: {label: "Two trees: the heated man is a tree that withers and ends as firewood; the silent man a tree flourishing in a garden with sweet fruit and pleasant shade", cluster: wisdom}
+  do-not-embezzle-temple-share: {label: "Do not take for yourself the share (offering-portions) of the temple", cluster: wisdom}
+  fortunes-reversed-when-flood-recedes: {label: "When the inundation recedes the crocodiles are exposed, hippopotami stranded, fish gasping, while jackals and birds feast: a sudden reversal of fortunes", cluster: wisdom}
+  moon-god-lassoes-perjurer: {label: "The moon god catches the perjurer with his lasso", cluster: wisdom}
+  land-grabbers-house-destroyed: {label: "The land-grabber's house becomes the town's enemy, his granaries are destroyed and his goods given to another", cluster: wisdom}
+  little-from-god-better-than-much-by-wrong: {label: "Better a bushel God gives you than five thousand by wrong; better poverty in God's hand than riches in the storehouse", cluster: wisdom}
+  beware-of-the-lord-of-all: {label: "Warning: beware of the Lord of All (God), lest his terror carry you off", cluster: wisdom}
+  do-not-strive-after-riches: {label: "Do not set your heart on riches, for no one can ignore Fate and Fortune", cluster: wisdom}
+  earth-swallows-ill-gotten-wealth: {label: "The ground opens its mouth and swallows ill-gotten wealth into the underworld", cluster: wisdom}
+  stolen-wealth-gone-by-morning: {label: "Wealth from robbery does not spend the night with you; at daybreak it is gone", cluster: wisdom}
+  greedy-mans-ship-stuck-humble-boat-sails: {label: "The great ship of the greedy is left in the mud, while the small boat of the silent man sails on", cluster: wisdom}
+  prayer-to-rising-sun-for-health: {label: "When the sun rises, pray to it: give me well-being and health, and my daily needs", cluster: prayer}
+  kindness-wins-universal-greeting: {label: "Put your goodness into people's bodies and everyone will greet you", cluster: wisdom}
+  guard-the-tongue: {label: "Guard your tongue from harmful words", cluster: wisdom}
+  secure-burial-reward-of-good-life: {label: "The virtuous will find his place in the temple, his coffin will hide him and keep him safe", cluster: wisdom}
+  do-not-answer-superior-rashly: {label: "Do not answer your superior insolently or rashly; consult your equal before answering", cluster: wisdom}
+  word-of-aggrieved-swifter-than-wind: {label: "The word of an aggrieved man is swifter than the wind", cluster: wisdom}
+  tongue-tears-down-and-builds: {label: "The heated man tears down and builds up with his tongue", cluster: wisdom}
+  potter-god-fashions-hearts: {label: "The potter god (Khnum) shapes men, including the heated man, kneading the heart", cluster: wisdom}
+  sweet-lips-bitter-tongue-fire-in-belly: {label: "The hypocrite's lips are sweet, his tongue bitter, and fire burns in his belly", cluster: wisdom}
+  hothead-sets-brothers-quarrelling: {label: "The heated man sets one eye against another and makes brothers quarrel", cluster: wisdom}
+  no-feigned-greeting-to-enemy: {label: "Do not greet your adversary with false words of praise while fear is in your belly", cluster: wisdom}
+  heart-and-tongue-must-agree: {label: "Do not separate your heart from your tongue; speech must match inner intent", cluster: wisdom}
+  abomination-of-god-formula: {label: "A forbidden act is called 'the abomination of the god' (Egyptian bw.t pꜣ nṯr)", cluster: wisdom}
+  do-not-covet-poor-mans-goods: {label: "Do not covet the goods of a poor dependant or hunger for his bread: it chokes the throat", cluster: wisdom}
+  morsel-swallowed-and-vomited: {label: "The too-large mouthful (ill-gotten) is swallowed and then vomited up", cluster: wisdom}
+  flattery-returns-as-curses: {label: "Flattery returns to you as curses, homage as beatings", cluster: wisdom}
+  dishonest-messenger-not-sent-again: {label: "One who misbehaves on a mission is not sent again", cluster: wisdom}
+  scribe-must-not-falsify-records: {label: "The scribe must not cheat with his pen on the scroll or falsify accounts", cluster: wisdom}
+  remit-two-thirds-of-poor-mans-debt: {label: "If a poor man owes a large arrear, divide it in three, forgive two parts and let one stand", cluster: wisdom}
+  do-not-seek-patrons-favour: {label: "Do not push yourself on a man to seek his favour or his gifts", cluster: wisdom}
+  cheaters-son-not-registered: {label: "The son of a scribe who cheats will not be enrolled", cluster: wisdom}
+  virtue-benefits-children: {label: "If you keep these teachings in your heart, your children will see the benefit", cluster: wisdom}
+  god-presides-over-the-balance: {label: "The baboon (Thoth) sits by the balance, his heart the plummet; the god invented weights and measures", cluster: wisdom}
+  gilded-metal-becomes-lead-at-dawn: {label: "Fraudulently gilded metal becomes lead by morning", cluster: wisdom}
+  do-not-covet-fine-goods: {label: "Do not covet copper or fine linen; what use is fine clothing to one who cheats before God?", cluster: wisdom}
+  measure-is-eye-of-re: {label: "The grain measure is the Eye of Re, and its abomination is the thief", cluster: wisdom}
+  do-not-oppress-tax-paying-farmer: {label: "Do not exact the harvest tax and then draw up a document against the farmer to harm him", cluster: wisdom}
+  tongue-is-rudder-god-is-pilot: {label: "Man's tongue is the steering oar of the boat, but the Lord of All is its pilot", cluster: wisdom}
+  avoid-needless-oath: {label: "Do not seek to swear an oath by the lord; speak plainly in court", cluster: wisdom}
+  council-of-thirty: {label: "The high court of 'the Thirty' in the Residence reviews testimony", cluster: law}
+  no-partiality-to-rich-or-poor: {label: "In court do not favour the man in bright clothes nor despise the man in rags", cluster: law}
+  truth-a-great-gift-of-god: {label: "Truth (Maat) is a great gift of God, given to whom he loves", cluster: wisdom}
+  do-not-forge-oracles: {label: "Do not falsify an oracle on the scroll or invent divine power for yourself", cluster: wisdom}
+  return-goods-to-owners: {label: "Return property to its owners and seek your own living", cluster: wisdom}
+  trust-god-not-human-protector: {label: "Do not seek a powerful protector against your enemy; set yourself in the arms of God, and your silence will overthrow them", cluster: wisdom}
+  you-know-not-gods-plans: {label: "You do not know the plans of God, so do not be ashamed of tomorrow", cluster: wisdom}
+  let-the-angry-man-empty-himself: {label: "Do not provoke your adversary; let him empty his belly and keep calm", cluster: wisdom}
+  great-man-like-many-wells: {label: "An official great in office is like one with many wells for drawing water", cluster: wisdom}
+  heart-of-man-is-gods-gift: {label: "The heart of a man is the nose (beak) of God, or the gift of God; beware of neglecting it", cluster: wisdom}
+  man-is-clay-and-straw-god-the-builder: {label: "Man is clay and straw; God is his builder", cluster: creation}
+  god-tears-down-and-builds-daily: {label: "God tears down and builds up every day, making a thousand poor and a thousand overseers as he wishes", cluster: wisdom}
+  happy-who-reaches-the-west-safe: {label: "How joyful is he who reaches the West (death) safe in the hand of God", cluster: underworld}
+  do-not-sit-with-drinkers-of-wine: {label: "Do not sit in the beer-house or join one greater than you there", cluster: wisdom}
+  pilot-who-looks-ahead: {label: "A pilot who looks far ahead does not capsize his ship", cluster: wisdom}
+  do-not-curse-elder: {label: "Do not revile one older than you, for he has seen the sun before you", cluster: wisdom}
+  endure-insult-silently: {label: "Let your elder beat you with your hand in your lap, revile you while you are silent", cluster: wisdom}
+  dog-does-not-bark-at-master: {label: "The master's dog does not bark at him who feeds it", cluster: wisdom}
+  god-loves-who-honours-poor: {label: "God loves him who honours the poor more than him who respects the noble", cluster: wisdom}
+  ferry-the-poor-free: {label: "Do not stop a man from crossing the river; take the fare from the rich and let the poor cross free", cluster: wisdom}
+  help-the-drowning-grasp-the-oar: {label: "When an oar is brought to you in midstream, stretch out your arms to take it", cluster: wisdom}
+  thirty-sayings-of-the-wise: {label: "An instruction counts itself as 'these thirty chapters' that entertain and instruct", cluster: wisdom}
+  skilled-scribe-stands-before-kings: {label: "A scribe skilled in his office will be found worthy of being a courtier", cluster: wisdom}
+  teaching-makes-ignorant-wise: {label: "The teaching makes the ignorant learned and purifies him when it is read to him", cluster: wisdom}
+  school-copy-with-daily-dates: {label: "A school copy of a literary text marked with day dates (a pupil's daily stint)", cluster: scribal}
+  sun-god-lord-of-heaven-and-earth: {label: "The sun god is lord of all the sun disc encircles, lord of heaven and lord of earth", cluster: theology}
+  royal-couple-in-hymn-to-god: {label: "The king and his queen are named with full titulary in the hymn to the god", cluster: kingship}
+  king-lives-on-maat: {label: "The king is 'living on Maat' (truth, right order)", cluster: kingship}
+  god-rises-and-fills-land-with-beauty: {label: "The god appears beautiful in the horizon and fills every land with his beauty", cluster: theology}
+  suns-rays-embrace-all-lands: {label: "The sun's rays embrace the lands to the limit of all he has made", cluster: theology}
+  god-far-yet-rays-on-earth: {label: "The god is far away, yet his rays are on earth; he is in people's faces, yet his course is unknown", cluster: theology}
+  night-as-state-of-death: {label: "When the sun sets the land lies in darkness as in death: sleepers with covered heads, eye not seeing eye", cluster: cosmology}
+  thief-in-the-night: {label: "At night goods are stolen from under the sleepers' heads and they do not notice", cluster: cosmology}
+  arms-raised-in-praise-at-sunrise: {label: "At sunrise people and birds raise arms and wings in praise of the god", cluster: theology}
+  cattle-content-with-pasture-trees-flourish: {label: "At sunrise all cattle are content with their pasture, trees and plants flourish", cluster: creation}
+  fish-leap-rays-in-the-sea: {label: "The fish in the river leap before the sun, whose rays reach into the sea", cluster: creation}
+  god-gives-breath-to-all-he-made: {label: "The god gives breath to keep alive all that he has made", cluster: creation}
+  god-opens-newborns-mouth: {label: "When the child comes forth from the womb the god opens its mouth and supplies its needs", cluster: creation}
+  chick-in-egg-given-breath: {label: "The god gives breath to the chick in the egg and sets its time to break out and walk", cluster: creation}
+  how-manifold-are-your-works: {label: "Exclamation of praise: how many (how excellent) are the things you have made", cluster: creation}
+  god-alone-created-earth-by-his-will: {label: "The god created the earth according to his heart when he was alone, with people, cattle and all that walks and flies", cluster: creation}
+  universal-god-cares-for-foreign-lands: {label: "The god cares for the foreign lands (Syria, Kush) as for Egypt, setting each man in his place", cluster: theology}
+  god-fixes-each-ones-lifetime: {label: "The god reckons (fixes) each person's lifetime", cluster: theology}
+  nile-from-underworld-rain-a-nile-in-sky: {label: "The god made the Nile in the underworld for Egypt and a 'Nile in the sky' (rain) for the foreign lands", cluster: cosmology}
+  suns-rays-nourish-plants-seasons-made: {label: "The sun's rays nurse the fields; the god made the seasons, winter to cool and summer heat", cluster: creation}
+  one-god-makes-millions-of-forms: {label: "The one god makes millions of forms (cities, fields, roads, rivers) from himself alone", cluster: theology}
+  every-eye-sees-the-god-by-day: {label: "Every eye beholds the god above them as the sun of day", cluster: theology}
+  creatures-live-at-his-rising-die-at-his-setting: {label: "When the god rises creatures live, when he sets they die; he is lifetime itself", cluster: theology}
+  king-sole-knower-of-god: {label: "The king says: you are in my heart; no one knows you except your son, the king, whom you have made wise", cluster: kingship}
+  work-ceases-at-sunset: {label: "All work is laid down when the sun sets in the west", cluster: cosmology}
+units:
+  - id: ane-ktu-1-14-i-kirta-house-destroyed
+    tradition: ane-ugaritic
+    title: Kirta's house destroyed; his wives and heirs lost; he weeps himself to sleep (Kirta I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.14 I:1-34"]
+    tags:
+      - {motif: king-loses-all-wives-and-heirs, refs: ["KTU 1.14 I:7-25"], note: "umt [krt] ˁrwt, bt mlk itbd: the clan is laid bare, the house destroyed; seven successive wives lost (mṯlṯt kṯrm tmt, mrbˁt zblnm ... mšbˁthn bšlḥ ttpl), wbklhn špḥ yitbd: all the offspring perished"}
+      - {motif: seven-brothers-eight-sons-of-one-mother, refs: ["KTU 1.14 I:8-9"], note: "dšbˁ [a]ḫm lh ṯmnt bn um: who had seven brothers, eight sons of one mother"}
+      - {motif: plague-god-resheph-carries-off-family, refs: ["KTU 1.14 I:18-19"], note: "mḫmšt yitsp ršp: the fifth Rašpu gathered in"}
+      - {motif: sea-takes-a-wife, refs: ["KTU 1.14 I:19-20"], note: "mṯdṯt ġlm ym: the sixth the lads of Yammu (the Sea) took"}
+      - {motif: tears-like-shekels-to-ground, refs: ["KTU 1.14 I:26-30"], note: "tntkn udmˁth km ṯqlm arṣh kmḫmšt mṭth: his tears pour like shekels to the ground, like fifth-shekels on the bed"}
+      - {motif: bed-flooded-with-tears, refs: ["KTU 1.14 I:28-30"]}
+      - {motif: mourner-weeps-in-inner-chamber, refs: ["KTU 1.14 I:26-27"], note: "yˁrb bḥdrh ybky: he enters his chamber and weeps"}
+      - {motif: weeper-falls-asleep-and-dreams, refs: ["KTU 1.14 I:31-34"]}
+    hints:
+      - "Compare Job 1:13-19 and 42:13 (the righteous man stripped of all his children, then given new ones); Job 1:2 'seven sons'."
+      - "Tears on the bed: Ps 6:7; 1Sam 1:7-10 (Hannah weeping, not eating, before the promise of a son); Ps 56:9."
+      - "Resheph as a destroyer: Hab 3:5; Deut 32:24; Job 5:7."
+  - id: ane-ktu-1-14-i-el-in-dream
+    tradition: ane-ugaritic
+    title: El descends in Kirta's dream and asks why he weeps (Kirta I-II)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.14 I:35-52", "KTU 1.14 II:1-5"]
+    tags:
+      - {motif: god-instructs-in-dream, refs: ["KTU 1.14 I:35-37"], note: "wbḥlmh il yrd bḏhrth ab adm: in his dream El came down, in his vision the Father of Mankind"}
+      - {motif: father-of-mankind-el, refs: ["KTU 1.14 I:36-37", "KTU 1.14 I:43"], note: "ab adm"}
+      - {motif: god-asks-why-petitioner-weeps, refs: ["KTU 1.14 I:37-43"], note: "mat krt kybky: what ails Kirta that he weeps? Does he desire the kingship of the Bull his father?"}
+      - {motif: king-called-gracious-lad-of-el, refs: ["KTU 1.14 I:40-41", "KTU 1.14 II:8"], note: "nˁmn ġlm il"}
+      - {motif: hero-refuses-wealth-asks-for-offspring, refs: ["KTU 1.14 I:51-52", "KTU 1.14 II:1-5"], note: "restored [lm ank ksp wyrq] ... [x x x]ṯnm aqny, [x x x]šrm amid: why should I want silver and gold ...? let me acquire [sons], multiply [offspring]; the opening of the request is restored from III:33-37; I:44-50 are lost"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.14 II:6"], note: "ṯr abh il"}
+    hints:
+      - "Compare 1Kgs 3:5-13 (God appears to Solomon in a dream: 'Ask what I shall give you'; he does not ask riches); Gen 15:1-3 ('what will you give me, seeing I go childless?')."
+      - "God asks the weeping: Gen 21:17 ('What troubles you, Hagar?'); 1Sam 1:8."
+  - id: ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign
+    tradition: ane-ugaritic
+    title: El's instructions - sacrifice on the tower, muster of the whole people, seven-day march, siege of Udum, demand for Hurriya (Kirta II-III)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.14 II:6-III:49"]
+    tags:
+      - {motif: ritual-washing-and-rouging-before-sacrifice, refs: ["KTU 1.14 II:9-11"], note: "trtḥṣ wtadm, rḥṣ ydk amt, uṣbˁtk ˁd ṯkm: wash and redden yourself, wash your hands to the elbow, your fingers to the shoulder"}
+      - {motif: offering-of-lamb-bird-wine-and-honey, refs: ["KTU 1.14 II:13-19"], note: "imr dbḥ, mṣrr ˁṣr dbḥ, yn bgl ḥtṯ, nbt bgl ḫrṣ: sacrificial lamb, sacrificial bird, wine in a silver cup, honey in a gold cup"}
+      - {motif: sacrifice-on-tower-roof-hands-to-heaven, refs: ["KTU 1.14 II:20-26"], note: "ˁl lẓr mgdl ... ša ydk šmm dbḥ lṯr abk il: climb to the top of the tower, lift your hands to heaven, sacrifice to the Bull your father El; then come down from the roofs (gg)"}
+      - {motif: army-numberless-like-storm-and-autumn-rain, refs: ["KTU 1.14 II:35-40"], note: "ṯlṯ mat rbt ... hlk lalpm ḫḏḏ wlrbt kmyr: by thousands like a storm, by myriads like the early rain"}
+      - {motif: total-levy-widow-sick-blind-newlywed, refs: ["KTU 1.14 II:43-50"], note: "the only son shuts his house, the widow hires a substitute, the sick man carries his bed, the blind gropes after, the new bridegroom (trḫ ḥdṯ) must hand his wife to another, his beloved to a stranger"}
+      - {motif: army-settles-on-land-like-locusts, refs: ["KTU 1.14 II:50-51", "KTU 1.14 III:1"], note: "kirby tškn šd km ḥsn pat mdbr"}
+      - {motif: seven-day-march-formula, refs: ["KTU 1.14 III:2-5"], note: "a day and a second, a third, a fourth ... at sunrise on the seventh you will reach Udum"}
+      - {motif: women-flee-from-fields-and-well, refs: ["KTU 1.14 III:7-9"], note: "the wood-gatherer, the straw-gatherer, the water-drawer at the spring flee"}
+      - {motif: siege-waits-six-days-acts-on-seventh, refs: ["KTU 1.14 III:10-15"], note: "dm ym wṯn ...: keep still six days; do not shoot your arrows at the city; and lo, at sunset on the seventh"}
+      - {motif: king-cannot-sleep-for-noise-of-animals, refs: ["KTU 1.14 III:14-19"], note: "wl yšn pbl mlk lqr ṯigt ibrh lql nhqt ḥmrh: King Pabil cannot sleep for the roar of his bulls, the braying of his asses"}
+      - {motif: besieged-king-offers-peace-gifts, refs: ["KTU 1.14 III:19-32"], note: "qḥ ksp wyrq ḫrṣ ... ˁbd ˁlm ṯlṯ sswm mrkbt ... qḥ krt šlmm šlmm: take silver, gold, a perpetual slave, three horses, a chariot ... take peace-offerings, Kirta, and go away from my house"}
+      - {motif: city-called-gift-of-el, refs: ["KTU 1.14 III:31-32"], note: "udm ytnt il wušn ab adm: Udum is the gift of El, the present of the Father of Mankind"}
+      - {motif: message-repeated-verbatim, refs: ["KTU 1.14 III:19-49"]}
+      - {motif: hero-demands-princess-not-treasure, refs: ["KTU 1.14 III:33-40"], note: "lm ank ksp ... pd in bbty ttn tn ly mṯt ḥry: why should I take silver ...? give what is lacking in my house, give me the girl Hurriya"}
+      - {motif: bride-beautiful-as-anat-and-athtart, refs: ["KTU 1.14 III:40-45"], note: "dk nˁm ˁnt nˁmh km tsm ˁṯtrt tsmh, dˁqh ib iqni ˁpˁph sp ṯrml: whose grace is like Anat's, beauty like Athtart's, eyeballs lapis lazuli, eyelids alabaster bowls"}
+      - {motif: bride-promised-in-dream-by-god, refs: ["KTU 1.14 III:46-49"], note: "dbḥlmy il ytn ... wld špḥ lkrt: whom El gave in my dream, to bear Kirta offspring"}
+      - {motif: king-called-gracious-lad-of-el, refs: ["KTU 1.14 III:49"], note: "ˁbd il: the servant of El"}
+    hints:
+      - "Rooftop sacrifice and raised hands: 2Kgs 23:12; Jer 19:13; 32:29; Zeph 1:5; 1Kgs 8:22, 54."
+      - "Total levy with the newlywed: contrast Deut 20:5-7 and 24:5 (the new husband is exempt for a year); Joel 2:16 ('let the bridegroom leave his chamber')."
+      - "Army like locusts: Judg 6:5; 7:12; Joel 2:2-11; Nah 3:15-17. Army like a storm cloud: Ezek 38:9."
+      - "Seven days of encirclement before action: Josh 6:3-4, 14-15 (Jericho); 1Kgs 20:29."
+      - "Peace gifts to buy off a besieger: 2Kgs 18:14-16; 1Kgs 20:2-6 (silver, gold, wives and children demanded); 1Kgs 15:18-19."
+      - "Bride's beauty and eyes: Song 4:1-9; 6:4-7; 7:5; Gen 29:17."
+  - id: ane-ktu-1-14-iii-kirta-wakes-and-obeys
+    tradition: ane-ugaritic
+    title: Kirta wakes from the dream and carries out El's instructions; the army marches (Kirta III-IV)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.14 III:50-IV:31"]
+    tags:
+      - {motif: woke-and-it-was-a-dream, refs: ["KTU 1.14 III:50-51"], note: "krt yḫṭ wḥlm, ˁbd il whdrt: Kirta awoke - and it was a dream; the servant of El - and it was a vision"}
+      - {motif: god-instructs-in-dream, refs: ["KTU 1.14 III:52-IV:31"], note: "the instructions of II:9-III:1 are carried out word for word"}
+      - {motif: ritual-washing-and-rouging-before-sacrifice, refs: ["KTU 1.14 III:52-54"]}
+      - {motif: offering-of-lamb-bird-wine-and-honey, refs: ["KTU 1.14 III:55-IV:2"]}
+      - {motif: sacrifice-on-tower-roof-hands-to-heaven, refs: ["KTU 1.14 IV:2-8"], note: "nša ydh šmmh dbḥ lṯr abh il"}
+      - {motif: army-numberless-like-storm-and-autumn-rain, refs: ["KTU 1.14 IV:15-18"]}
+      - {motif: total-levy-widow-sick-blind-newlywed, refs: ["KTU 1.14 IV:21-28"]}
+      - {motif: army-settles-on-land-like-locusts, refs: ["KTU 1.14 IV:29-31"]}
+    hints:
+      - "Waking from the dream: Gen 41:7; 1Kgs 3:15 ('Solomon awoke, and behold, it was a dream', then sacrificed and made a feast); Gen 28:16."
+  - id: ane-ktu-1-14-iv-vow-to-athirat
+    tradition: ane-ugaritic
+    title: At the shrine of Athirat of Tyre Kirta vows silver and gold if he wins Hurriya (Kirta IV)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.14 IV:32-43"]
+    tags:
+      - {motif: seven-day-march-formula, refs: ["KTU 1.14 IV:32-34"], note: "here the formula is broken off at the third day, at sunset, when he reaches the shrine"}
+      - {motif: athirat-of-tyre-goddess-of-sidon, refs: ["KTU 1.14 IV:34-39"], note: "qdš aṯrt ṣrm wilt ṣdynm"}
+      - {motif: conditional-vow-on-the-way, refs: ["KTU 1.14 IV:36-43"], note: "ydr krt ṯˁ ... hm ḥry bty iqḥ ... ṯnh kspm atn wṯlṯth ḫrṣm: if I take Hurriya into my house, I will give twice her (weight) in silver, three times in gold"}
+    hints:
+      - "Conditional vows on a journey: Gen 28:20-22 (Jacob at Bethel); Judg 11:30-31 (Jephthah); 1Sam 1:11 (Hannah); 2Sam 15:7-8; Num 21:2."
+      - "'Ashtoreth goddess of the Sidonians': 1Kgs 11:5, 33; 2Kgs 23:13."
+  - id: ane-ktu-1-14-iv-siege-of-udum
+    tradition: ane-ugaritic
+    title: Siege of Udum; King Pabil offers ransom; Kirta demands Hurriya (Kirta IV-VI)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.14 IV:44-VI:41'"]
+    tags:
+      - {motif: seven-day-march-formula, refs: ["KTU 1.14 IV:44-48"], note: "reaches Udum at sunrise on the fourth day (not the seventh as foretold)"}
+      - {motif: women-flee-from-fields-and-well, refs: ["KTU 1.14 IV:51-V:2"]}
+      - {motif: siege-waits-six-days-acts-on-seventh, refs: ["KTU 1.14 V:3-6"]}
+      - {motif: king-cannot-sleep-for-noise-of-animals, refs: ["KTU 1.14 V:6-12"]}
+      - {motif: besieged-king-consults-wife, refs: ["KTU 1.14 V:12-15"], note: "[pb]l [mlk g]m laṯth [k]yṣḥ: Pabil cries aloud to his wife; the rest of the counsel (V:16-28) is broken"}
+      - {motif: besieged-king-offers-peace-gifts, refs: ["KTU 1.14 V:31-45", "KTU 1.14 VI:1'-15'"], note: "V:34-45 largely restored from III:21-32"}
+      - {motif: city-called-gift-of-el, refs: ["KTU 1.14 VI:12'-13'"]}
+      - {motif: message-repeated-verbatim, refs: ["KTU 1.14 V:29-VI:41'"]}
+      - {motif: hero-demands-princess-not-treasure, refs: ["KTU 1.14 VI:16'-24'"]}
+      - {motif: bride-beautiful-as-anat-and-athtart, refs: ["KTU 1.14 VI:25'-30'"]}
+      - {motif: bride-promised-in-dream-by-god, refs: ["KTU 1.14 VI:31'-35'"]}
+    hints:
+      - "Compare 1Kgs 20:1-11 (Ben-hadad besieging Samaria sends messengers demanding silver, gold, wives and children); 2Sam 3:13-16 (David demands Michal as condition of peace)."
+  - id: ane-ktu-1-15-i-hurriya-given
+    tradition: ane-ugaritic
+    title: Hurriya is handed over; Udum laments like a cow for her calf (Kirta 1.15 I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.15 I"]
+    tags:
+      - {motif: princess-fed-hungry-and-thirsty, refs: ["KTU 1.15 I:1'-2'"], note: "rġb yd mṯkt, mẓma yd mṯkt: she took the hungry by the hand, the thirsty by the hand. Lines I:(1)-(40) carry no tablet text: they are EUPT's reconstruction of the repeated message, with no Ugaritic preserved"}
+      - {motif: bride-taken-to-conquerors-camp, refs: ["KTU 1.15 I:3'-4'"], note: "tṯṯkrn wtbun ˁm krt mswnh"}
+      - {motif: city-laments-like-cow-for-calf, refs: ["KTU 1.15 I:5'-7'"], note: "arḫ tzġ lˁglh bn ḫpṯ lumhthm ktnḥn udmm: as a cow lows for her calf, the children of the ḫpṯ for their mothers, so Udum will moan"}
+    hints:
+      - "Charity of the noble woman: Prov 31:20; Isa 58:7, 10; Job 31:16-20."
+      - "A city weeping for its lost children: Jer 31:15 (Rachel); Lam 1:1-2; Mic 1:8 (mourning like jackals and ostriches)."
+  - id: ane-ktu-1-15-ii-el-blesses-kirta
+    tradition: ane-ugaritic
+    title: The assembly of the gods visits Kirta; at Baal's request El blesses him with cup in hand and promises sons (Kirta 1.15 II)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.15 II"]
+    tags:
+      - {motif: divine-assembly-comes-to-kings-house, refs: ["KTU 1.15 II:2'-11'"], note: "Baal, Yariḫ, Kothar-wa-Ḫasis, Raḥmay, Rašap ... [wˁ]dt ilm ṯlṯh: the assembly of the gods in its triad; Kirta posts a guard in his house (II:8'-10')"}
+      - {motif: son-god-prays-father-for-king, refs: ["KTU 1.15 II:11'-16'"], note: "aliyn bˁl: ltbrk [krt] ṯˁ ltmr nˁmn [ġlm] il: Baal asks El, 'bless noble Kirta, bless the gracious lad of El'"}
+      - {motif: blessing-with-cup-in-hand, refs: ["KTU 1.15 II:16'-20'"], note: "ks yiḫd [il b]yd krpn bm [ym]n brkm ybrk: El takes the cup in his hand, the goblet in his right; he blesses"}
+      - {motif: wife-will-bear-seven-sons-yea-eight, refs: ["KTU 1.15 II:21'-25'"], note: "aṯt tqḥ ... tld šbˁ bnm lk wṯmn tṯtmnm lk: the wife you take will bear you seven sons, yes, eight"}
+      - {motif: king-born-of-deity, refs: ["KTU 1.15 II:25'-28'"], note: "tld yṣb ġlm ynq ḥlb aṯrt mṣṣ ṯd btlt [ˁnt] mšnq[t]: she will bear Yaṣṣib the lad, who sucks the milk of Athirat, drains the breast of the maiden Anat, the wet-nurse(s)"}
+      - {motif: numerical-saying-x-x-plus-one, refs: ["KTU 1.15 II:23'-24'"], note: "seven ... eight"}
+    hints:
+      - "Melchizedek brings bread and wine and blesses Abram: Gen 14:18-19; the cup of blessing Ps 116:13."
+      - "'Better to you than seven sons': Ruth 4:15; 1Sam 2:5 ('the barren has borne seven'); Job 1:2; 42:13."
+      - "Royal child nursed by queens: Isa 49:23; 60:16 ('you shall suck the breast of kings'); Ps 2:7."
+      - "Divine visitors at a human house and a promised son: Gen 18:1-14."
+  - id: ane-ktu-1-15-iii-exalted-among-rephaim
+    tradition: ane-ugaritic
+    title: Kirta exalted among the Rephaim; daughters promised, the youngest made firstborn; the children born; Athirat remembers the vow (Kirta 1.15 III)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.15 III"]
+    tags:
+      - {motif: king-exalted-among-rephaim, refs: ["KTU 1.15 III:2'-4'", "KTU 1.15 III:13'-15'"], note: "mid rm krt btk rpi arṣ bpḫr qbṣ dtn: greatly exalted is Kirta among the Rephaim of the earth, in the gathering of the assembly of Ditanu (III:2'-4' restored from III:13'-15')"}
+      - {motif: rephaim-shades, refs: ["KTU 1.15 III:14'"], note: "rpi arṣ, the Rephaim of the 'earth' (underworld), honoured royal ancestors"}
+      - {motif: litany-of-daughters-to-be-born, refs: ["KTU 1.15 III:5'-12'"], note: "tld pġt ... six times: she will bear the girl ..."}
+      - {motif: youngest-made-firstborn, refs: ["KTU 1.15 III:16'"], note: "ṣġrthn abkrn: the youngest of them I make the firstborn"}
+      - {motif: gods-depart-to-their-tents-after-blessing, refs: ["KTU 1.15 III:17'-19'"], note: "tbrk ilm tity ... lahlhm dr il lmšknthm: the gods blessed and went to their tents, the circle of El to their dwellings (mškn)"}
+      - {motif: promised-children-born-in-seventh-year, refs: ["KTU 1.15 III:20'-25'"], note: "mk bšbˁ šnt bn krt kmhm tdr: in the seventh year the sons of Kirta were as promised"}
+      - {motif: deity-remembers-unpaid-vow, refs: ["KTU 1.15 III:25'-30'"], note: "wtḫss aṯrt ndrh ... phm ap k[rt] uṯn ndr: Athirat remembers his vow: 'has Kirta altered (?) the vow? I will break [the agreement]'"}
+    hints:
+      - "Rephaim as royal shades: Isa 14:9-10; 26:14, 19; Ps 88:11; Job 26:5; Prov 9:18."
+      - "The younger made firstborn: Gen 48:13-20 (Ephraim over Manasseh); 1Chr 26:10 ('though he was not the firstborn his father made him chief'); Gen 25:23."
+      - "God (gods) going up from the patriarch after speaking: Gen 17:22; 18:33; 35:13. 'Tents' and 'dwellings' (ohel / mishkan) in parallel: Num 24:5."
+      - "Vows that must be paid: Deut 23:22-24; Eccl 5:3-5; Ps 76:12. Compare Q 9:75-77 (those who vowed to God and broke it)."
+  - id: ane-ktu-1-15-iv-feasts-and-weeping
+    tradition: ane-ugaritic
+    title: Hurriya's feasts for the nobles; weeping for the dying Kirta and talk of succession (Kirta 1.15 IV-VI)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.15 IV:1'-VI:10"]
+    tags:
+      - {motif: queen-prepares-feast-for-nobles, refs: ["KTU 1.15 IV:2'-27'", "KTU 1.15 VI:3-5"], note: "ṭbḫ šmn mrik ptḥ rḥbt yn ṣḥ šbˁm ṯry ṯmnym ẓbyy: slaughter your fattest beasts, open the wine jars, call my seventy 'bulls', my eighty 'gazelles' (nobles)"}
+      - {motif: nobles-called-bulls-and-gazelles, refs: ["KTU 1.15 IV:6'-9'", "KTU 1.15 IV:17'-20'"]}
+      - {motif: hostess-carves-meat-for-guests, refs: ["KTU 1.15 IV:24'-25'", "KTU 1.15 V:7'-8'"], note: "yd bṣˁ tšlḥ ḥrb bbšr tštn"}
+      - {motif: weeping-for-dying-king-like-lowing-bulls, refs: ["KTU 1.15 V:12'-16'", "KTU 1.15 VI:6-7"], note: "[x x]krt tbkn [km] rgm ṯrm ... wblb tqbr: you shall weep for Kirta like the bellowing of bulls ... bury him in the heart"}
+      - {motif: death-as-reaching-sunset, refs: ["KTU 1.15 V:17'-20'"], note: "krt šrk il, ˁrb špš lymġ krt, ṣbia špš bˁlny: when Kirta joins El, when he reaches the sunset, our lord the sunrise"}
+      - {motif: nobles-anticipate-successor, refs: ["KTU 1.15 V:20'-23'"], note: "wymlk [y]ṣbˁln: and Yaṣṣib will reign over us"}
+    hints:
+      - "Feast with the nobles and talk of succession during the king's decline: 1Kgs 1:9, 18-25 (Adonijah's feast while David lies dying)."
+      - "Dying as 'going the way of all the earth' or 'being gathered to one's fathers': 1Kgs 2:2; Judg 2:10."
+  - id: ane-ktu-1-16-i-son-laments-do-gods-die
+    tradition: ane-ugaritic
+    title: Ilihau laments over his dying father - 'shall gods die?'; Kirta sends for his daughter Thitmanat (Kirta 1.16 I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.16 I"]
+    tags:
+      - {motif: do-gods-die-lament, refs: ["KTU 1.16 I:3-5", "KTU 1.16 I:14-23"], note: "bḥyk abn nšmḫ blmtk ngln ... ikm yrgm bn il krt ... uilm tmtn špḥ lṭpn lyḥ: in your life, father, we rejoiced, in your not-dying we exulted ... how can Kirta be called son of El? or do gods die? shall the offspring of the Kindly One not live?"}
+      - {motif: perish-like-dog-in-house, refs: ["KTU 1.16 I:2-3", "KTU 1.16 I:15-16"], note: "kklb bbtk nˁtq kinr ap ḫštk"}
+      - {motif: all-creation-summoned-to-mourn, refs: ["KTU 1.16 I:6-9"], note: "tbkyk ab ġr bˁl ṣpn ḥlm qdš nny ḥlm adr: may the mountain of Baal weep for you, Ṣapan the holy fortress, Nanay the mighty fortress"}
+      - {motif: king-son-of-enlil, refs: ["KTU 1.16 I:9-11", "KTU 1.16 I:20-22"], note: "krt bnm il špḥ lṭpn wqdš: Kirta is a son of El, offspring of the Kindly and Holy One (here El, not Enlil)"}
+      - {motif: dying-father-forbids-son-to-weep, refs: ["KTU 1.16 I:24-30"], note: "bn al tbkn al tdm ly al tkl bn qr ˁnk: son, do not weep for me, do not use up the spring of your eyes; call your sister to weep"}
+      - {motif: daughter-summoned-to-lament-with-tambourine, refs: ["KTU 1.16 I:38-45"], note: "qḥ tpk byd: take your tambourine in your hand; ostensibly to a feast"}
+      - {motif: sister-at-well-learns-news, refs: ["KTU 1.16 I:50-62"], note: "aḫth šib yṣat: his sister had gone out to draw water; 'is the king sick?' - the brother denies it"}
+    hints:
+      - "Ps 82:6-7 ('You are gods ... yet you shall die like men'); compare gods-condemned-to-die-like-men."
+      - "Mountains called to mourn: 2Sam 1:21; Ezek 31:15; Jer 4:24-28. The king as son of God: Ps 2:7; 89:27-28; 2Sam 7:14."
+      - "Women with tambourines: Exod 15:20; Judg 11:34 (Jephthah's daughter); 1Sam 18:6. Meeting at the well: Gen 24:15-20; 29:9-12."
+  - id: ane-ktu-1-16-ii-sister-laments
+    tradition: ane-ugaritic
+    title: Thitmanat learns the truth and laments her father (Kirta 1.16 II)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.16 II"]
+    tags:
+      - {motif: numerical-saying-x-x-plus-one, refs: ["KTU 1.16 II:19-23"], note: "mn yrḫ kmrṣ ... ṯlṯ yrḫm kmrṣ arbˁ kdw: how many months has he been sick? three months sick, four ill"}
+      - {motif: mourner-cries-out-unclothed, refs: ["KTU 1.16 II:25-31"], note: "tṣr trm tnqt ... ˁrym lbl[x] ... lbl sk: she sobs, cries out ... naked, without garment"}
+      - {motif: do-gods-die-lament, refs: ["KTU 1.16 II:35-49"]}
+      - {motif: all-creation-summoned-to-mourn, refs: ["KTU 1.16 II:44-47"]}
+    hints:
+      - "Mourning stripped: Mic 1:8 ('I will go stripped and naked'); Isa 20:2-4."
+  - id: ane-ktu-1-16-iii-drought
+    tradition: ane-ugaritic
+    title: Search for Baal's rain; the ploughmen look up, bread, wine and oil exhausted (Kirta 1.16 III)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.16 III"]
+    tags:
+      - {motif: earth-searched-for-baals-rain, refs: ["KTU 1.16 III:2'-11'"], note: "ˁn tr arṣ wšmm sb lqṣm arṣ ... ˁn larṣ mṭr bˁl wlšd mṭr ˁly: look, roam earth and heaven, to the edge of the earth ... look on the earth for the rain of Baal, on the field for the rain of the Most High (ˁly)"}
+      - {motif: rain-good-for-wheat-like-perfume, refs: ["KTU 1.16 III:7'-11'"], note: "nˁm larṣ mṭr bˁl ... bm nrt ksmm ˁl tlmk ˁṭrṭrt"}
+      - {motif: food-wine-oil-exhausted-in-drought, refs: ["KTU 1.16 III:12'-16'"], note: "nšu riš ḥrṯm ... kly lḥm b[x]dnhm kly yn bḥmthm kly šmn: the ploughmen raised their heads; bread was spent from their jars, wine from their skins, oil ..."}
+      - {motif: kings-sickness-brings-drought, refs: ["KTU 1.16 III:1'-17'"], note: "interpretive: the drought scene stands between the king's illness and his healing; the tablet's top is lost"}
+    hints:
+      - "Rain of the Most High (ʿly): compare ʿElyon; Ps 68:10; Deut 11:14; Hos 6:3."
+      - "Jar of flour and jug of oil in drought: 1Kgs 17:12-16; 18:5 (search the land for grass); Joel 1:10-12; Hag 1:11."
+      - "King's righteousness and the land's rain: Ps 72:6; 2Sam 21:1; 23:3-4."
+  - id: ane-ktu-1-16-iv-el-summons-ilish
+    tradition: ane-ugaritic
+    title: El summons Ilish, herald of the gods, and his wife (Kirta 1.16 IV)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.16 IV"]
+    tags:
+      - {motif: el-wise-forever, refs: ["KTU 1.16 IV:2'"], note: "kil ḥkmt kṯr lṭpn: like El you are wise, like the Bull, the Kindly One"}
+      - {motif: herald-of-the-gods-and-his-wife, refs: ["KTU 1.16 IV:3'-12'"], note: "ngr il ilš ... waṯth ngrt ilht: Ilish, herald of El, of the house of Baal, and his wife the herald of the goddesses"}
+      - {motif: herald-climbs-building-to-proclaim, refs: ["KTU 1.16 IV:13'-16'"], note: "ˁl lṯkm bnwn ... gm ṣḥ: climb onto the shoulder of the building ... call aloud"}
+    hints:
+      - "Wisdom calling from the heights: Prov 8:2-3; 9:3. Herald proclaiming: Isa 40:9; 52:7."
+  - id: ane-ktu-1-16-v-who-will-heal
+    tradition: ane-ugaritic
+    title: El asks seven times which god will drive out the sickness; none answers; El fashions Shaatiqat (Kirta 1.16 V)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.16 V"]
+    tags:
+      - {motif: high-god-asks-seven-times-who-will-heal, refs: ["KTU 1.16 V:9-22"], note: "my bilm ydy mrṣ gršm zbln: who among the gods will drive out the sickness, expel the illness? in bilm ˁnyh: none among the gods answered him; asked a second, third ... seventh time (partly restored)"}
+      - {motif: none-answers-in-divine-assembly, refs: ["KTU 1.16 V:12-13", "KTU 1.16 V:16", "KTU 1.16 V:19", "KTU 1.16 V:22"]}
+      - {motif: god-fashions-creature-from-clay, refs: ["KTU 1.16 V:25-30"], note: "ank iḥtrš waškn aškn ydt mrṣ gršt zbln ... nˁm rṭ ... yqrṣ: I myself will work and create a female who drives out sickness; he takes the best of the clay (rṭ?) and nips it off; the clay is partly restored"}
+    hints:
+      - "Whom shall I send? Isa 6:8; 1Kgs 22:20-22 (who will entice Ahab? a spirit volunteers); Isa 63:5 ('no one to help')."
+      - "Creature nipped from clay: Gen 2:7; Job 33:6 ('I too was nipped (qoratsti) from clay'), the same verb qrṣ."
+  - id: ane-ktu-1-16-vi-death-defeated
+    tradition: ane-ugaritic
+    title: Shaatiqat drives Death from the city and heals Kirta; he eats and returns to his throne (Kirta 1.16 VI)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.16 VI:1-24"]
+    tags:
+      - {motif: healer-drives-death-from-city, refs: ["KTU 1.16 VI:1-9", "KTU 1.16 VI:13-14"], note: "mt dm ḫt šˁtqt dm li ... ˁrm tdu mt pdrm tdu šrr ḫṭm tˁmt: Death, be shattered! Shaatiqat, prevail! ... from the city she drove Death, from the town the foe, struck with a stick"}
+      - {motif: healer-washes-sweat-and-opens-throat, refs: ["KTU 1.16 VI:10-12"], note: "trḥṣnn bdˁt npšh llḥm tptḥ brlth lṯrm"}
+      - {motif: recovered-king-asks-for-food, refs: ["KTU 1.16 VI:14-21"], note: "ṭbḫ imr wilḥm: slaughter a lamb that I may eat"}
+      - {motif: king-returns-to-throne-after-illness, refs: ["KTU 1.16 VI:21-24"], note: "hnym wṯn yṯb krt lˁdh yṯb lksi mlk: after a day and a second Kirta sat on the throne of kingship"}
+    hints:
+      - "Death swallowed and defeated: Isa 25:8; Hos 13:14; 1Cor 15:55. Healing with a staff: 2Kgs 4:29-35 (Gehazi's staff, Elisha revives the child)."
+      - "Hezekiah's illness and recovery: 2Kgs 20:1-11; Isa 38:1-22. Eating after a crisis: 2Sam 12:20; 1Kgs 19:5-8."
+  - id: ane-ktu-1-16-vi-yassib-rebukes-father
+    tradition: ane-ugaritic
+    title: Yassib accuses his father of neglecting justice and demands the throne; Kirta curses him (Kirta 1.16 VI)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.16 VI:25-59"]
+    tags:
+      - {motif: son-demands-father-abdicate, refs: ["KTU 1.16 VI:25-38", "KTU 1.16 VI:39-53"], note: "ywsrnn ggnh ... rd lmlk amlk ldrktk aṯbn: his inner self instructs him ... come down from the kingship, I will be king; from your dominion, I will sit enthroned"}
+      - {motif: king-fails-to-judge-widow-and-poor, refs: ["KTU 1.16 VI:32-34", "KTU 1.16 VI:44-50"], note: "ltdn dn almnt ltṯpṭ ṯpṭ qṣr npš ltdy ṯšm ˁl dl lpnk ltšlḥm ytm bˁd kslk almnt: you do not judge the widow's case, nor try the cause of the wretched, nor drive out the oppressor of the poor; you do not feed the orphan before you nor the widow behind you"}
+      - {motif: sickbed-as-sister-and-companion, refs: ["KTU 1.16 VI:35-36", "KTU 1.16 VI:50-52"], note: "km aḫt ˁrš mdw anšt ˁrš zbln"}
+      - {motif: father-curses-rebellious-son, refs: ["KTU 1.16 VI:54-58"], note: "yṯbr ḥrn ybn yṯbr ḥrn rišk ˁṯtrt šm bˁl qdqdk: may Ḥoranu break, my son, may Ḥoranu break your head, ˁAṯtart-name-of-Baal your skull"}
+      - {motif: scribe-colophon-names-author, refs: ["KTU 1.16 VI:59"], note: "spr ilmlk ṯˁy"}
+    hints:
+      - "Absalom at the gate: 2Sam 15:1-6 ('there is no one deputed by the king to hear you'); Adonijah: 1Kgs 1:5."
+      - "Royal duty to widow, orphan and poor: Ps 72:2-4, 12-14; 82:3-4; Isa 1:17, 23; Jer 5:28; 22:15-16; Job 29:12-16; Prov 31:8-9."
+      - "Kinship with the sickbed and the grave: Job 17:14 ('to the worm: my mother and my sister'); Prov 7:4."
+      - "Fathers' curses on sons: Gen 9:25; 49:3-7. 'Name of Baal' (šm bʿl) as a divine hypostasis: compare the Name in Deut 12:11; Ashtoreth 'name of Baal' in the Eshmunazar inscription."
+  - id: ane-ktu-1-17-i-danel-incubation-and-blessing
+    tradition: ane-ugaritic
+    title: Childless Danel feeds the gods for seven days; Baal intercedes; El blesses him with a son who will do a son's duties (Aqhat 1.17 I-II)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.17 I:0'-II:23'"]
+    tags:
+      - {motif: incubation-dream-in-temple, refs: ["KTU 1.17 I:2'-15'"], note: "uzr ilm ylḥm uzr yšqy bn qdš ... yˁl wyškb ... ypln: girded (in a loincloth?), he gives the gods food and drink, then goes up and lies down, spends the night; the place is not named"}
+      - {motif: six-days-of-ritual-then-seventh, refs: ["KTU 1.17 I:5'-16'"], note: "hn ym wṯn ... ṯlṯ rbˁ ym ... ḫmš ṯdṯ ym ... mk bšbˁ ymm"}
+      - {motif: son-god-prays-father-for-king, refs: ["KTU 1.17 I:16'-24'"], note: "wyqrb bˁl bḥnth: Baal draws near in his compassion: 'ltbrknn lṯr il aby tmrnn lbny bnwt' - bless him, Bull El my father, strengthen him, Creator of creatures"}
+      - {motif: childless-king-prays-for-heir, refs: ["KTU 1.17 I:16'-22'"], note: "abyn dnil ... din bn lh km aḫh wšrš km aryh: wretched is Danel, who has no son like his brothers, no root like his kin, though he fed the gods"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.17 I:23'-24'"], note: "ṯr il aby ... bny bnwt"}
+      - {motif: duties-of-the-ideal-son, refs: ["KTU 1.17 I:25'-33'", "KTU 1.17 I:42'-47'", "KTU 1.17 II:1'-8'", "KTU 1.17 II:14'-23'"], note: "one who sets up the stele of his ancestral god (nṣb skn ilibh) ... makes his smoke rise from the earth, guards his place from the dust, shuts the jaws of his scorners, takes his hand when drunk (aḫd ydh bškrn), supports him when sated with wine, eats his portion in the temples of Baal and El, plasters his roof on a muddy day, washes his clothes on a dirty day"}
+      - {motif: son-holds-drunken-fathers-hand, refs: ["KTU 1.17 I:30'-31'", "KTU 1.17 II:19'-20'"]}
+      - {motif: stele-for-ancestral-god, refs: ["KTU 1.17 I:26'-27'", "KTU 1.17 II:16'"]}
+      - {motif: blessing-with-cup-in-hand, refs: ["KTU 1.17 I:34'-37'"], note: "[ks] yiḫd il [b]ydh ybrk ... npš yḥ dnil: El takes the cup in his hand and blesses: by my life, may Danel live"}
+      - {motif: kiss-and-embrace-bring-conception, refs: ["KTU 1.17 I:38'-41'"], note: "bm nšq aṯth [wḥr] bḥbqh ḥmḥmt: when he kisses his wife [she will conceive], when he embraces her, she will be pregnant"}
+      - {motif: promised-father-laughs-for-joy, refs: ["KTU 1.17 II:8'-15'"], note: "pnm tšmḫ ... yprq lṣb wyṣḥq pˁn lhdm yṯpd ... aṯbn ank wanḫn ... kyld bn ly: his face rejoices, he unknits his brow and laughs, puts his foot on the footstool: I will sit and rest, for a son is born to me"}
+    hints:
+      - "Childlessness and prayer: Gen 15:2-3; 25:21; 1Sam 1:9-18 (Hannah at the sanctuary); 2Kgs 4:14-17."
+      - "Duties of a son: Exod 20:12; Gen 9:20-27 (Noah drunk; Shem and Japheth cover him); Isa 51:17-18 ('none to take her by the hand of all the sons she has raised'); Prov 23:22."
+      - "A pillar to keep one's name: 2Sam 18:18 (Absalom: 'I have no son to keep my name'); Isa 56:5 (yad va-shem); Gen 28:18; 35:20."
+      - "Laughter at the promise of a son: Gen 17:17; 18:12; 21:6. Danel (Dan'el) the righteous and wise: Ezek 14:14, 20; 28:3."
+  - id: ane-ktu-1-17-ii-kotharat-pregnancy
+    tradition: ane-ugaritic
+    title: Danel feasts the Kotharat for seven days; he counts the months of pregnancy (Aqhat 1.17 II)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.17 II:24'-47'"]
+    tags:
+      - {motif: kotharat-swallow-birth-goddesses, refs: ["KTU 1.17 II:26'-42'"], note: "kṯrt bnt hll snnt: the Kotharat, daughters of Hilal (the new moon), the swallows; n[ˁ]my ˁrš ... ysmsmt ˁrš ḫllt: delights of the bed of conception, of the bed of labour"}
+      - {motif: six-days-of-ritual-then-seventh, refs: ["KTU 1.17 II:32'-40'"]}
+      - {motif: father-counts-months-of-pregnancy, refs: ["KTU 1.17 II:43'-46'"], note: "yṯb dnil [ys]pr yrḫh yrḫ yrḫ [ṯn] yṣi ṯlṯ rbˁ"}
+    hints:
+      - "'Can you number the months they fulfil?' Job 39:1-2; Job 3:3-6 (the night of conception). Women attending a birth: Ruth 4:14-17; 1Sam 4:20."
+  - id: ane-ktu-1-17-v-kothar-brings-bow
+    tradition: ane-ugaritic
+    title: Danel judging at the gate sees Kothar-wa-Hasis approach with a bow; hospitality; the bow given to Aqhat (Aqhat 1.17 V)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.17 V"]
+    tags:
+      - {motif: just-judge-at-gate-for-widow-and-orphan, refs: ["KTU 1.17 V:6'-8'"], note: "yṯb bap ṯġr tḥt adrm dbgrn ydn dn almnt yṯpṭ ṯpṭ ytm: he sits before the gate among the nobles on the threshing floor; he judges the widow's case, tries the orphan's cause"}
+      - {motif: lifts-eyes-and-sees-visitor-approach, refs: ["KTU 1.17 V:9'-12'"], note: "bnši ˁnh wyphn balp šd rbt kmn hlk kṯr"}
+      - {motif: thousand-fields-ten-thousand-furlongs, refs: ["KTU 1.17 V:9'-10'"]}
+      - {motif: divine-craftsman-makes-hero-bow, refs: ["KTU 1.17 V:12'-13'", "KTU 1.17 V:25'-28'"], note: "hlk qšt ybln hl yšrbˁ qṣˁt ... bd dnil ytnn qšt lbrkh yˁdb qṣˁt"}
+      - {motif: hospitality-to-strangers, refs: ["KTU 1.17 V:15'-25'", "KTU 1.17 V:28'-31'"], note: "ˁdb imr bpḫd lnpš kṯr wḫss ... šlḥm ššqy ilm sad kbd hmt: prepare a lamb from the flock for Kothar-wa-Hasis, give the god food and drink, serve and honour him"}
+      - {motif: craftsman-god-from-caphtor-and-memphis, refs: ["KTU 1.17 V:20'-21'", "KTU 1.17 V:30'-31'"], note: "bˁl ḥkpt il klh: lord of all divine Ḥikuptah (Memphis)"}
+      - {motif: father-gives-bow-to-son, refs: ["KTU 1.17 V:35'-39'"], note: "qšt yqb [yd]rk ˁl aqht: he bends and strings the bow for Aqhat; 'the choicest of your game, my son ... in my palace'"}
+    hints:
+      - "Judging at the gate: Ruth 4:1-2; Deut 21:19; 2Sam 15:2; Job 29:7-17 ('I delivered the poor and the orphan ... I made the widow's heart sing'); 1Kgs 22:10 (kings seated on the threshing floor at the gate). Danel: Ezek 14:14; 28:3."
+      - "Lifting the eyes to see divine visitors, then a meal: Gen 18:1-8; Judg 6:18-21; 13:15-20."
+      - "Bow and hunting son: Gen 27:3-4 (Isaac: 'take your bow, hunt game for me'); Gen 21:20."
+  - id: ane-ktu-1-17-vi-anat-covets-bow
+    tradition: ane-ugaritic
+    title: At the feast Anat covets Aqhat's bow, offers wealth and then immortality; he refuses and mocks her; she goes to El (Aqhat 1.17 VI)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.17 VI"]
+    tags:
+      - {motif: gods-feast-slaughtered-cattle-sheep-fatlings, refs: ["KTU 1.17 VI:4'-8'"], note: "largely restored: [yn] bks ḫr[ṣ dm ˁṣm] ... krpn ˁl krpn"}
+      - {motif: bow-flashes-like-lightning, refs: ["KTU 1.17 VI:10'-14'"], note: "kslh kbrq ... thmt brq: its string like lightning, the lightning shot into the deep; km bṯn yqr: it curls like a serpent"}
+      - {motif: goddess-covets-heros-bow, refs: ["KTU 1.17 VI:15'-19'"], note: "irš ksp watnk [ḫrṣ waš]lḥk wtn qštk l[ˁnt]: ask silver and I will give it you, gold, and I will bestow it; but give your bow to Anat"}
+      - {motif: hero-tells-goddess-make-her-own-bow, refs: ["KTU 1.17 VI:20'-25'"], note: "adr ṯqbm blbnn adr gdm brumm adr qrnt byˁlm ... tn lkṯr wḫss: the best wood from Lebanon, sinews of wild bulls, horns of ibexes ... give them to Kothar-wa-Hasis, he will make a bow for Anat"}
+      - {motif: goddess-offers-hero-immortality, refs: ["KTU 1.17 VI:25'-33'"], note: "irš ḥym laqht ġzr irš ḥym watnk blmt wašlḥk ašsprk ˁm bˁl šnt ˁm bn il tspr yrḫm: ask for life, Aqhat, and I will give it; not-dying (blmt), and I will bestow it; I will make you count years with Baal, months with the sons of El"}
+      - {motif: hero-rebuffs-goddess, refs: ["KTU 1.17 VI:33'-41'"], note: "al tšrgn ybtltm dm lġzr šrgk ḫḫm: do not lie to me, maiden; to a hero your lies are filth"}
+      - {motif: death-of-all-men-cannot-be-escaped, refs: ["KTU 1.17 VI:35'-38'"], note: "mt uḫryt mh yqḥ mh yqḥ mt aṯryt spsg ysk [l]riš ḥrṣ lẓr qdqdy [x x]mt kl amt wan mtm amt: what does a man get at the last? glaze is poured on the head, lime on the crown; the death of all I shall die, I too shall surely die"}
+      - {motif: bows-are-for-warriors-not-women, refs: ["KTU 1.17 VI:39'-41'"], note: "qštm [x x x] mhrm ht tṣdn tinṯt: bows are for warriors; do women now hunt?"}
+      - {motif: goddess-threatens-hero-on-path-of-sin, refs: ["KTU 1.17 VI:41'-45'"], note: "tṣḥq ˁnt wblb tqny ... hm laqryk bntb pšˁ ... ašqlk tḥt [pˁny]: Anat laughs but plots in her heart: if I meet you on the path of transgression, on the path of pride, I will fell you under my feet"}
+      - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.17 VI:46'-49'"], note: "[lttn p]nm ˁm il mbk nhrm [qrb ap]q thmtm tgly ḏd il"}
+      - {motif: goddess-prostrates-at-el-feet, refs: ["KTU 1.17 VI:50'-51'"], note: "[lpˁn il t]hbr wtql tštḥ[wy wtkbd]nh"}
+      - {motif: goddess-slanders-hero-to-high-god, refs: ["KTU 1.17 VI:51'-53'"], note: "tlšn aqht ġzr"}
+      - {motif: scribe-colophon-names-author, refs: ["KTU 1.17 VI:56'"], note: "restored [spr ilmlk šbny lmd atn] prln: only prln survives"}
+    hints:
+      - "Offer of eternal life by a supernatural tempter: Gen 3:4-5, 22; Q 7:20 and 20:120 ('shall I lead you to the tree of immortality and a kingdom that never decays?'); compare tempter-promises-angelhood-or-immortality and tree-of-immortality-and-unending-kingdom."
+      - "Man's common death: Num 16:29; Josh 23:14; 1Kgs 2:2; 2Sam 14:14; Ps 49:8-13; 89:49; Eccl 3:19-20; Q 3:185; 21:34-35."
+      - "Gilgamesh rebuffing Ishtar (SB VI) is the closest ANE parallel; for 'women hunting' compare Judg 4:9 (glory to a woman) and 9:54."
+      - "Path of transgression (ntb pšʿ): Prov 4:14-19; Ps 1:1."
+  - id: ane-ktu-1-18-i-anat-threatens-el
+    tradition: ane-ugaritic
+    title: Anat threatens El and gets leave; she offers Aqhat to be his sister and teach him to hunt (Aqhat 1.18 I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.18 I"]
+    tags:
+      - {motif: goddess-threatens-el-grey-beard-blood, refs: ["KTU 1.18 I:11-14"], note: "[lqdq]dk ašhlk [šbtk dmm šbt dqn]k mmˁm: I will make your grey hair run with blood, the grey of your beard with gore (largely restored); then call Aqhat to save you from the hand of the maiden Anat"}
+      - {motif: high-god-yields-to-violent-daughter, refs: ["KTU 1.18 I:15-19"], note: "ydˁtk bt kanšt ... tbˁ bt ḫnp lb[k] ... dṯ ydṯ mˁqbk: I know you, daughter, that you are fierce; go, daughter, (take) the impiety of your heart ... whoever holds you back will be crushed"}
+      - {motif: thousand-fields-ten-thousand-furlongs, refs: ["KTU 1.18 I:21-22"]}
+      - {motif: deceptive-offer-of-kinship, refs: ["KTU 1.18 I:23-24"], note: "at aḫ wan a[ḫt]: you be my brother and I your sister (here the goddess, not the hero, offers kinship to disarm)"}
+      - {motif: goddess-offers-to-teach-hunting, refs: ["KTU 1.18 I:27-29"], note: "tlk bṣd ... almdk ṣ[d]: go hunting ... I will teach you to hunt"}
+      - {motif: abilum-city-of-moon-god, refs: ["KTU 1.18 I:30-31"], note: "[l]qrt ablm a[blm qrt zbl] yrḫ"}
+    hints:
+      - "'Say you are my sister': Gen 12:13; 20:2; 'my sister, my bride' Song 4:9; 8:1; Prov 7:4."
+      - "A goddess demanding a mortal's death of the high god: Gilgamesh SB VI (Ishtar and the Bull of Heaven)."
+  - id: ane-ktu-1-18-iv-aqhat-murdered
+    tradition: ane-ugaritic
+    title: Anat carries Yatpan as a bird of prey among the eagles; Aqhat is struck down at his meal; Anat weeps (Aqhat 1.18 IV)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.18 IV"]
+    tags:
+      - {motif: goddess-hires-assassin, refs: ["KTU 1.18 IV:5'-16'"], note: "ˁm yṭpn mhr št ... at ˁ[l qšth] tmḫṣh: to Yatpan, the warrior of the Lady ... 'you yourself should strike him for his bow'"}
+      - {motif: murder-for-coveted-object, refs: ["KTU 1.18 IV:12'-13'", "KTU 1.18 IV:40'-41'"], note: "ˁl qšth ... qṣˁth: for his bow, for his arrows"}
+      - {motif: assassin-carried-as-raptor-in-goddess-belt, refs: ["KTU 1.18 IV:17'-22'", "KTU 1.18 IV:27'-29'"], note: "aštk km nšr bḥb[šy] km diy btˁrty: I will put you like an eagle in my belt, like a falcon in my sheath"}
+      - {motif: winged-goddess-flies, refs: ["KTU 1.18 IV:21'", "KTU 1.18 IV:31'-32'"], note: "bn nšrm arḫp ank: among the eagles I will hover"}
+      - {motif: raptors-hover-over-victim, refs: ["KTU 1.18 IV:18'-21'", "KTU 1.18 IV:29'-31'"], note: "km yṯb llḥm ... ˁlh nšrm trḫpn ybṣr ḥbl diym: when Aqhat sits to eat, eagles hover over him, a flock of falcons watches"}
+      - {motif: blows-twice-on-skull-thrice-on-ear, refs: ["KTU 1.18 IV:22'-23'", "KTU 1.18 IV:33'-34'"], note: "hlmn ṯnm qdqd ṯlṯ id ˁl udn"}
+      - {motif: blood-poured-like-a-slaughterer, refs: ["KTU 1.18 IV:23'-24'", "KTU 1.18 IV:34'-35'"], note: "špk km šiy dm km šḫṭ lbrkh: pour out his blood like a murderer, like a slaughterer, to his knees"}
+      - {motif: life-leaves-like-wind-spittle-smoke, refs: ["KTU 1.18 IV:24'-26'", "KTU 1.18 IV:36'-37'"], note: "tṣi km rḥ npšh km iṯl brlth km qṭr baph: let his life go out like a breath, his soul like spittle, like smoke from his nose"}
+      - {motif: killer-goddess-weeps-over-victim, refs: ["KTU 1.18 IV:38'-41'"], note: "aqht wtbk: and she wept: 'for your bow I struck you down, for your arrows I did not let you live'"}
+    hints:
+      - "Killing for a coveted possession: 1Kgs 21 (Naboth's vineyard)."
+      - "Birds of prey over a victim: Gen 15:11; Job 39:27-30; Deut 28:26; Jer 7:33."
+      - "Life as breath and smoke: Job 7:7; Ps 78:39; 102:4; Hos 13:3; Jas 4:14."
+      - "Shed blood: Gen 4:10-11; 9:6. Weeping over one's own victim: 2Sam 3:31-37 (David over Abner, killed by Joab)."
+  - id: ane-ktu-1-19-i-bow-lost-drought
+    tradition: ane-ugaritic
+    title: The bow is broken and lost; Danel at the gate; Pughat sees the withering; Danel's rain spell; seven years without Baal (Aqhat 1.19 I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.19 I"]
+    tags:
+      - {motif: coveted-object-lost-after-murder, refs: ["KTU 1.19 I:2-17"], note: "lqrb [x]mym tql ... qšt ... yṯbr ... ap qšth lttn ly: [the bow] fell into the midst of the waters, the bow broke ... yet his bow was not given to me (Anat); I:8-12 untranslated and obscure"}
+      - {motif: just-judge-at-gate-for-widow-and-orphan, refs: ["KTU 1.19 I:19-25"], note: "largely restored from 1.17 V:6'-8'"}
+      - {motif: harvest-withers-at-heros-death, refs: ["KTU 1.19 I:18-19", "KTU 1.19 I:29-31"], note: "bgrn yḫrb ... yġly yḫsp ib: on the threshing floor (the grain) dried up ... the bud of the vines withered"}
+      - {motif: raptors-hover-over-victim, refs: ["KTU 1.19 I:32-33"], note: "ˁl bt abh nšrm trḫpn: over her father's house eagles hover"}
+      - {motif: weeping-in-heart-and-liver, refs: ["KTU 1.19 I:34-35"], note: "tbky pġt bm lb tdmˁ bm kbd"}
+      - {motif: garment-torn-in-mourning, refs: ["KTU 1.19 I:36-37", "KTU 1.19 I:46-48"], note: "tmzˁ kst dnil ... all: she tears the garment of Danel, the cloak"}
+      - {motif: hero-adjures-clouds-for-rain, refs: ["KTU 1.19 I:38-42"], note: "yṣly ˁrpt bḥm un yr ˁrpt tmṭr bqẓ ṭl yṭll lġnbm: he adjures the clouds in the heat of misfortune: the early rain the clouds should pour on the summer fruit, the dew to settle on the grapes"}
+      - {motif: seven-years-eight-cycles-of-drought, refs: ["KTU 1.19 I:42-46"], note: "šbˁ šnt yṣrk bˁl ṯmn rkb ˁrpt bl ṭl bl rbb bl šrˁ thmtm bl ṭbn ql bˁl: seven years Baal fails, eight the Rider of the Clouds: no dew, no showers, no surging of the two deeps, no goodness of Baal's voice"}
+      - {motif: rider-of-the-heavens, refs: ["KTU 1.19 I:43-44"], note: "rkb ˁrpt, 'rider of the clouds'"}
+    hints:
+      - "Rider of the clouds: Ps 68:5 (rokhev ba-ʿaravot), 34; Deut 33:26; Isa 19:1; Ps 18:11; 104:3."
+      - "No dew or rain for a slain hero's land: 2Sam 1:21 (Gilboa); 1Kgs 17:1 (Elijah: neither dew nor rain these years); seven years' famine Gen 41:27-30; 2Sam 24:13; 2Kgs 8:1."
+      - "Blessings of the deep lying below: Gen 49:25; Deut 33:13. Baal's voice as thunder: Ps 29:3-9."
+      - "Tearing garments at bad news: Gen 37:29, 34; 2Sam 13:31; Job 1:20."
+  - id: ane-ktu-1-19-ii-danel-kisses-the-ears
+    tradition: ane-ugaritic
+    title: Pughat saddles the donkey; Danel kisses the surviving stalks; messengers bring news of Aqhat's death (Aqhat 1.19 II)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.19 II"]
+    tags:
+      - {motif: dew-collected-from-fleece, refs: ["KTU 1.19 II:1-2", "KTU 1.19 II:6", "KTU 1.19 IV:37-38"], note: "ṯkmt my ḥspt lšˁr ṭl ydˁt hlk kbkbm: she who carries water on her shoulder, scoops the dew from the fleece, knows the course of the stars"}
+      - {motif: daughter-saddles-donkey-for-father, refs: ["KTU 1.19 II:3-11"], note: "mdl ˁr ṣmd pḥl ... tšu abh tštnn lbmt ˁr: harness the donkey, yoke the jack ... she lifts her father and sets him on the donkey's back"}
+      - {motif: father-kisses-surviving-stalk, refs: ["KTU 1.19 II:12-25"], note: "yph bṣql ... yḥbq wynšq ... ur tispk yd aqht ġzr tštk bqrbm asm: he sees a sprout in the parched field, embraces and kisses it: may the hand of Aqhat the hero gather you, put you in the granary"}
+      - {motif: word-not-yet-out-of-mouth-when, refs: ["KTU 1.19 II:26-27"], note: "bph rgm lyṣa bšpth [hwth]: the word had not left his mouth, the speech his lips, when ..."}
+      - {motif: messengers-bring-news-of-sons-death, refs: ["KTU 1.19 II:27-44"], note: "hlk ġlmm ... šmˁ ldnil mt [rpi] mt aqht ġzr: two lads come ... hear, Danel: Aqhat the hero is dead; the maiden Anat let his life go out like a breath"}
+      - {motif: mourners-bind-hair-and-weep, refs: ["KTU 1.19 II:31-34"], note: "obscure: pdm rišh ... wl ytk d[mˁt k]m rbˁt ṯqlm: they shed tears like quarter-shekels"}
+      - {motif: tears-like-shekels-to-ground, refs: ["KTU 1.19 II:33-34"]}
+      - {motif: life-leaves-like-wind-spittle-smoke, refs: ["KTU 1.19 II:38-39", "KTU 1.19 II:42-44"]}
+      - {motif: feet-shake-loins-break-at-bad-news, refs: ["KTU 1.19 II:44-47"], note: "restored: [bh pˁnm] tṭṭ ˁl[n pnh tdˁ] ... ksl yṯ[br]: his feet tremble, his face sweats, his loins break"}
+      - {motif: eagles-sighted-in-clouds, refs: ["KTU 1.19 II:56-57"], note: "restored: [yḥd] bˁrpt [nšrm]; II:50-55 lost"}
+    hints:
+      - "Gideon's fleece and dew: Judg 6:37-40 (the dew wrung from the fleece). Daughter knowing the stars: Gen 15:5; Job 38:31-33."
+      - "Dismounting or riding with a parent: Josh 15:18-19; Judg 1:14; 1Sam 25:20; Gen 22:3."
+      - "News of a son's death: 2Sam 18:19-33 (Ahimaaz and the Cushite; David weeps for Absalom); 1Sam 4:12-18; Job 1:14-19."
+      - "'While the word was in the king's mouth': Dan 4:28; Gen 24:15; Isa 65:24."
+      - "Bodily collapse at bad news: Dan 5:6 (knees knock, loins loosened); Isa 21:3-4; Nah 2:11; Ezek 21:12."
+  - id: ane-ktu-1-19-iii-eagles-and-burial
+    tradition: ane-ugaritic
+    title: Baal breaks the eagles' wings; Danel searches their entrails, finds Aqhat in Ṣamal, buries him, curses the places near the murder (Aqhat 1.19 III)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.19 III"]
+    tags:
+      - {motif: storm-god-breaks-wings-of-eagles, refs: ["KTU 1.19 III:1-3", "KTU 1.19 III:8-10", "KTU 1.19 III:16-17", "KTU 1.19 III:22-23", "KTU 1.19 III:30-31", "KTU 1.19 III:36-37"], note: "knp nšrm bˁl yṯbr bˁl yṯbr diy hmt: may Baal break the wings of the eagles, Baal break their pinions; tqln tḥt pˁny: may they fall under my feet"}
+      - {motif: entrails-searched-for-devoured-remains, refs: ["KTU 1.19 III:3-6", "KTU 1.19 III:10-11", "KTU 1.19 III:18-21", "KTU 1.19 III:24-25", "KTU 1.19 III:32-35", "KTU 1.19 III:38-40"], note: "ibqˁ kbdthm waḥd hm iṯ šmt hm iṯ ˁẓm abky waqbrnh: I will split their livers and look: if there is fat, if there is bone, I will weep and bury him; at last iṯ šmt iṯ ˁẓm wyqḥ bhm aqht"}
+      - {motif: storm-god-restores-wings, refs: ["KTU 1.19 III:12-14", "KTU 1.19 III:26-28"], note: "knp nšrm bˁl ybn: may Baal rebuild the wings of the eagles; let them flee and fly away"}
+      - {motif: father-and-mother-of-eagles, refs: ["KTU 1.19 III:15", "KTU 1.19 III:29"], note: "hrgb ab nšrm ... ṣml um nšrm: Hirgab father of the eagles, Ṣamal mother of the eagles"}
+      - {motif: threefold-repeated-episode, refs: ["KTU 1.19 III:1-40"]}
+      - {motif: word-not-yet-out-of-mouth-when, refs: ["KTU 1.19 III:7-8", "KTU 1.19 III:21-22", "KTU 1.19 III:35-36"]}
+      - {motif: grave-in-pit-of-underworld-gods, refs: ["KTU 1.19 III:5-6", "KTU 1.19 III:20-21", "KTU 1.19 III:34-35", "KTU 1.19 III:40-41"], note: "ašt bḫrt ilm arṣ: I will put him in the hole of the gods of the earth; yqbrnn bmdgt bknrt"}
+      - {motif: father-guards-sons-grave-from-birds, refs: ["KTU 1.19 III:42-45"], note: "hm tˁpn ˁl qbr bny tšḫṭann bšnth: if they fly over my son's grave and disturb him from his sleep"}
+      - {motif: sleep-of-death, refs: ["KTU 1.19 III:45"], note: "bšnth: in his sleep (in the grave)"}
+      - {motif: curse-on-place-of-death-no-dew-or-rain, refs: ["KTU 1.19 III:45-48", "KTU 1.19 III:51-56"], note: "here not drought but exclusion and sterility: QR-MYM 'be a stranger (?) in the house of El for ever'; MRRT-TĠLL-BNR 'may your root not rise from the earth, your head wither'; ˁnt brḥ pˁlmh ˁnt pdr dr: now and for ever, now and for all generations"}
+      - {motif: mourner-sets-down-staff, refs: ["KTU 1.19 III:49", "KTU 1.19 III:56"], note: "ˁdb uḫry mṭ ydh. III:57 'S. iv' is an editorial cross-reference, not text"}
+    hints:
+      - "Rizpah keeping birds from the bodies by day: 2Sam 21:10. Graves disturbed: Isa 14:18-20; 1Sam 28:15 ('why have you disturbed me?')."
+      - "Sleep of death: Ps 13:4; Jer 51:39; Job 14:12; Dan 12:2. Curse on a place of death: 2Sam 1:21; Gen 4:11; Josh 6:26."
+      - "'For ever, to all generations' (ledor vador): Ps 33:11; 89:2; 102:13."
+      - "Pharaoh's baker and the birds: Gen 40:19; birds eating the slain: 1Sam 17:44-46; Ezek 39:4, 17-20."
+  - id: ane-ktu-1-19-iv-abilum-cursed-mourning
+    tradition: ane-ugaritic
+    title: Abilum cursed with blindness; seven years of mourning with wailing women; mourning ends with sacrifice (Aqhat 1.19 IV)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.19 IV:1-27"]
+    tags:
+      - {motif: curse-on-place-of-death-no-dew-or-rain, refs: ["KTU 1.19 IV:1-6"], note: "qrt ablm ... dˁlk mḫṣ aqht ġzr ˁwrt yštk bˁl: city Abilum, near which Aqhat was slain, may Baal make you blind, now and for ever"}
+      - {motif: abilum-city-of-moon-god, refs: ["KTU 1.19 IV:1-3"]}
+      - {motif: professional-mourners-summoned, refs: ["KTU 1.19 IV:9-11"], note: "bkyt ... mšspdt ... pẓġm ġr: weeping women in his house, keening women in his palace, skin-gashers in his court"}
+      - {motif: baldness-and-gashing-in-mourning, refs: ["KTU 1.19 IV:10-11", "KTU 1.19 IV:21-22"], note: "pẓġm ġr: those who gash the skin"}
+      - {motif: king-mourns-seven-years, refs: ["KTU 1.19 IV:11-18"], note: "lymm lyrḫm lyrḫm lšnt ˁd šbˁt šnt ybk laqht: for days, for months, for years, until the seventh year he wept for Aqhat (Danel is not a king but 'the man of Rapiu')"}
+      - {motif: mourning-ended-with-sacrifice-and-incense, refs: ["KTU 1.19 IV:19-27"], note: "tbˁ bbty bkyt ... dbḥ ilm yšˁly dġṯh bšmym dġṯ hrnmy bkbkbm: out of my house, weeping women! he offers a sacrifice to the gods, sends up his incense to the heavens, to the stars; cymbals and ivory castanets"}
+    hints:
+      - "Wailing women and gashing: Jer 9:16-20; 16:6; 41:5; 47:5; Lev 19:28; Deut 14:1; 2Chr 35:25."
+      - "Long mourning for a son: Gen 37:34-35; 2Sam 13:37; 14:2. Ending mourning and worshipping: 2Sam 12:20."
+      - "Blindness as curse: Deut 28:28-29; Gen 19:11; 2Kgs 6:18."
+  - id: ane-ktu-1-19-iv-pughat-avenges
+    tradition: ane-ugaritic
+    title: Pughat asks her father's blessing to avenge her brother; armed under a woman's dress, she plies Yatpan with wine (Aqhat 1.19 IV)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.19 IV:28-#"]
+    tags:
+      - {motif: daughter-asks-blessing-to-avenge-brother, refs: ["KTU 1.19 IV:28-40"], note: "ltbrkn alk brktm ... imḫṣ mḫṣ aḫy akly mkly ˁl umty: bless me, that I may go blessed; I will strike the one who struck my brother, destroy the destroyer of my family; Danel: npš tḥ pġt ... tmḫṣ mḫṣ aḫh"}
+      - {motif: blood-avenger, refs: ["KTU 1.19 IV:34-35", "KTU 1.19 IV:39-40"], note: "here a sister vows the vengeance"}
+      - {motif: dew-collected-from-fleece, refs: ["KTU 1.19 IV:28", "KTU 1.19 IV:37-38"]}
+      - {motif: woman-armed-under-womans-dress, refs: ["KTU 1.19 IV:41-46"], note: "trtḥṣ wtadm ... tlbš npṣ ġzr ... ḥrb tšt btˁrth wˁl tlbš npṣ aṯt: she washes and reddens herself with sea-shell dye; underneath she puts on a hero's gear, a knife in her sheath, and over it a woman's clothing"}
+      - {motif: avenger-plies-killer-with-wine, refs: ["KTU 1.19 IV:50-61"], note: "qḥn wtšqyn yn tqḥ ks bdy ... ṯnm tšqy msk: take it and give me wine to drink ... twice she gives him the mixed drink"}
+      - {motif: killer-boasts-in-drink, refs: ["KTU 1.19 IV:57-60"], note: "yd mḫṣt aqht ġzr tmḫṣ alpm ib št: the hand that struck Aqhat the hero will strike thousands of the Lady's foes"}
+      - {motif: hired-woman-suspected-in-tent, refs: ["KTU 1.19 IV:50-52"], note: "agrtn bat bḏdk: 'she who hired us' (or 'the hired woman') has come into your tent - ambiguous"}
+      - {motif: scribal-rubric-return-to-recitation, refs: ["KTU 1.19 IV:62"], note: "whndt yṯb lmspr: and here one returns to the recitation. IV:# 'S. #' is an editorial placeholder"}
+    hints:
+      - "Jael gives Sisera milk in her tent and kills him: Judg 4:17-21; 5:24-27. Judith adorns herself, plies Holofernes with wine and beheads him: Jdt 10:3-4; 12:17-13:10."
+      - "Hidden weapon under clothing: Judg 3:16 (Ehud). Killing when the victim is merry with wine: 2Sam 13:28. Avenger of blood: Num 35:19-21."
+      - "Strike thousands: 1Sam 18:7 ('Saul has slain his thousands')."
+  - id: ane-ktu-1-23-i-rite-mot-pruned
+    tradition: ane-ugaritic
+    title: Liturgical opening of the Gracious Gods - peace to king and queen; Mot-wa-Shar pruned like a vine; songs over fire and basin (KTU 1.23 1-29)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.23 I:(Vs.)_1-29"]
+    tags:
+      - {motif: epic-opens-i-will-sing-the-hero, refs: ["KTU 1.23 I:(Vs.)_1-2", "KTU 1.23 I:23"], note: "iqra ilm nˁ[mm]: I will invoke the gracious gods"}
+      - {motif: invited-to-eat-bread-and-drink-wine, refs: ["KTU 1.23 I:6"], note: "lḥm blḥm ay wšty bḫmr yn ay"}
+      - {motif: peace-to-king-and-queen-and-those-who-enter, refs: ["KTU 1.23 I:7", "KTU 1.23 I:26-27"], note: "šlm mlk šlm mlkt ˁrbm wṯnnm"}
+      - {motif: death-pruned-like-a-vine, refs: ["KTU 1.23 I:8-11"], note: "mt wšr yṯb bdh ḫṭ ṯkl bdh ḫṭ ulmn yzbrnn zbrm gpn yṣmdnn ṣmdm gpn yšql šdmth kmgpn: Death-and-Ruler sits, in his hand the staff of bereavement, the staff of widowhood; the pruners of the vine prune him, the binders of the vine bind him; they fell him like a vine"}
+      - {motif: staff-of-bereavement-and-widowhood, refs: ["KTU 1.23 I:8-9"]}
+      - {motif: sevenfold-recitation-rubric, refs: ["KTU 1.23 I:12", "KTU 1.23 I:14-15"], note: "šbˁd yrgm ˁl ˁd ... ˁl išt šbˁd ġzrm ... ˁl agn šbˁdm: seven times it is recited over the platform, over the fire, over the basin"}
+      - {motif: field-of-the-gods-of-athirat-and-rahmay, refs: ["KTU 1.23 I:13", "KTU 1.23 I:28"], note: "šd ilm šd aṯrt wrḥm(y)"}
+      - {motif: kid-in-mothers-milk, refs: ["KTU 1.23 I:14"], note: "ṭb gd bḥlb annḫb bḫmat: EUPT 'coriander in milk, mint in butter'; the older reading 'cook a kid in milk' (gd = kid) underlies the famous comparison; the reading is disputed"}
+      - {motif: gods-suckle-at-goddess-breasts, refs: ["KTU 1.23 I:24"], note: "ynqm bap ḏd aṯrt: who suck the nipples of Athirat's breast"}
+      - {motif: gracious-gods-divide-day-from-day, refs: ["KTU 1.23 I:23"], note: "restored [agzrym bn] ym: who split day from day"}
+    hints:
+      - "Kid in its mother's milk: Exod 23:19; 34:26; Deut 14:21 (the old interpretation of KTU 1.23:14 as a Canaanite rite; now doubted)."
+      - "Pruning (zmr) and the vine: Lev 25:3-4; Isa 5:6; 18:5; Song 2:12 ('the time of pruning/singing (zamir) has come'); John 15:1-2. Death's staff: Isa 14:5; Ps 23:4."
+      - "Greeting of peace to the king's house: 1Sam 25:6; Ps 122:6-8. Lines 17-22 have no translation in the source."
+  - id: ane-ktu-1-23-i-el-two-women-dawn-dusk
+    tradition: ane-ugaritic
+    title: El takes two women at the shore; they bear Shahar and Shalim and the gracious gods, who are sent to the holy desert for seven years (KTU 1.23 30-76)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.23 I:(U.R.)_30-76"]
+    tags:
+      - {motif: high-god-walks-shore-of-sea, refs: ["KTU 1.23 I:(U.R.)_30"], note: "gp ym wyṣġd gp thm: [El went] to the shore of the sea, strode to the shore of the deep"}
+      - {motif: high-god-takes-two-women-as-wives, refs: ["KTU 1.23 I:31-49"], note: "il mštˁltm ... yqḥ yš bbth: El sees two women 'raising themselves' at the basin, takes them into his house; if they cry 'husband!' they become El's wives for ever, if 'father!' his daughters; they cry 'husband'"}
+      - {motif: el-offers-food-and-love, refs: ["KTU 1.23 I:33-35"], note: "tirkm yd il kym wyd il kmdb: El's 'hand' (penis) grows long as the sea, El's 'hand' as the flood"}
+      - {motif: high-god-shoots-and-roasts-a-bird, refs: ["KTU 1.23 I:37-41"], note: "yr šmmh yr bšmm ˁṣr yḫrṭ yšt lpḥm: he shoots into the sky, shoots a bird, plucks it, puts it on the coals; hl ˁṣr tḥrr lišt"}
+      - {motif: lips-sweet-as-honey, refs: ["KTU 1.23 I:49-50", "KTU 1.23 I:55"], note: "špthm mtqtm mtqtm klrmnm: their lips sweet, sweet as pomegranates"}
+      - {motif: kiss-and-embrace-bring-conception, refs: ["KTU 1.23 I:51", "KTU 1.23 I:56"], note: "bm nšq whr bḥbq ḥmḥmt"}
+      - {motif: birth-of-dawn-and-dusk, refs: ["KTU 1.23 I:51-53"], note: "tldn šḥr wšlm: they bore Šaḥar and Šalim (Dawn and Dusk)"}
+      - {motif: birth-announcement-a-son-is-born, refs: ["KTU 1.23 I:52-53", "KTU 1.23 I:59-61"], note: "rgm lil ybl aṯty il ylt mh ylt yldy šḥr wšlm: word was brought to El: El's wives have given birth - what have they borne? my children Shahar and Shalim"}
+      - {motif: offerings-to-sun-and-fixed-stars, refs: ["KTU 1.23 I:54"], note: "šu ˁdb lšpš rbt wlkbkbm knm"}
+      - {motif: gods-suckle-at-goddess-breasts, refs: ["KTU 1.23 I:58-61"]}
+      - {motif: gracious-gods-divide-day-from-day, refs: ["KTU 1.23 I:58-61"], note: "agzrym bn ym"}
+      - {motif: insatiable-newborn-gods-lip-to-earth-lip-to-heaven, refs: ["KTU 1.23 I:61-64"], note: "št špt larṣ špt lšmm wyˁrb bphm ˁṣr šmm wdg bym ... wl tšbˁn: they put a lip to the earth, a lip to the heavens; birds of heaven and fish of the sea enter their mouths, yet they are not sated"}
+      - {motif: sojourn-seven-years-in-holy-desert, refs: ["KTU 1.23 I:64-67"], note: "šu ˁdb tk mdbr qdš ṯm tgrgr labnm wlˁṣm šbˁ šnt tmt ṯmn nqpt ˁd: in the midst of the holy desert you shall sojourn among stones and trees seven full years, eight cycles of time"}
+      - {motif: wanderers-ask-guard-of-sown-land-for-bread-and-wine, refs: ["KTU 1.23 I:68-76"], note: "y nġr nġr ptḥ ... hm iṯ lk lḥm wtn wnlḥm hm iṯ lk yn wtn wnšt: watchman of the sown, open! if you have bread, give and let us eat; if you have wine, give and let us drink"}
+    hints:
+      - "Sons of God taking human women: Gen 6:1-4. Dawn (Shahar): Isa 14:12 (Helel ben Shahar); Ps 139:9 (wings of the dawn); Ps 110:3. Shalem as a divine name behind Jerusalem: Gen 14:18; Ps 76:3."
+      - "Mouths reaching heaven and earth: Ps 73:9 ('they set their mouths against heaven, their tongue struts on earth'); Isa 5:14; Hab 2:5; compare death-lip-to-earth-lip-to-heaven (Mot)."
+      - "Holy desert (mdbr qdš): Ps 29:8 ('YHWH shakes the wilderness of Qadesh'). Wilderness sojourn: Num 14:33-34; Deut 8:2; Hos 2:16."
+      - "Asking for bread and water on the way: Num 20:17-19; 21:22; Deut 2:28-29; Judg 8:5-6. Sweet lips: Song 4:3, 11."
+  - id: ane-ktu-1-24-nikkal-and-yarikh
+    tradition: ane-ugaritic
+    title: Hymn to Nikkal-wa-Ib - the moon god Yarikh woos Nikkal, pays the bride-price, the family weighs it; the Kotharat (KTU 1.24)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.24"]
+    tags:
+      - {motif: epic-opens-i-will-sing-the-hero, refs: ["KTU 1.24 I:(Vs.)_1", "KTU 1.24 I:(Rs.)_37-38", "KTU 1.24 I:(Rs.)_40"], note: "ašr nkl wib ... ašr ilht kṯrt: I sing of Nikkal-wa-Ib ... I sing of the Kotharat"}
+      - {motif: kotharat-swallow-birth-goddesses, refs: ["KTU 1.24 I:(Vs.)_5-6", "KTU 1.24 I:(Vs.)_11", "KTU 1.24 I:(Vs.)_14-15", "KTU 1.24 I:(Rs.)_40-42"], note: "bnt hll snnt; hll bˁl gml: daughters of Hilal, lord of the crescent"}
+      - {motif: moon-god-desires-maiden, refs: ["KTU 1.24 I:(Vs.)_3-9"], note: "šbˁ? ... špš yrḫ yṯkḥ yḥbq: at sunset Yarikh burns, embraces ...; hl ġlmt tld b[n]: behold, the maiden will bear a son (sense disputed)"}
+      - {motif: suitor-sends-bride-price-to-brides-father, refs: ["KTU 1.24 I:(Vs.)_16-23"], note: "tn nkl yrḫ ytrḫ ... watn mhrh lab h alp ksp wrbt ḫrṣ išlḥ ẓhrm iqnim atn šdh krmm šd ddh ḥrnqm: give Nikkal, that Yarikh may marry her ... I will give her bride-price (mhr) to her father: a thousand of silver, ten thousand of gold, I will send pure lapis; I will make her field vineyards, the field of her love orchards"}
+      - {motif: bridegroom-offers-herds-as-bride-price, refs: ["KTU 1.24 I:(Vs.)_19-21"], note: "here silver, gold and lapis, not herds"}
+      - {motif: father-offers-another-bride, refs: ["KTU 1.24 I:(Vs.)_23-29"], note: "ḫrḫb: trḫ pdry b[t ar] ... aqrbk abh bˁl ... ybrdmy: marry Pidray daughter of light, I will bring you to her father Baal; or Ybrdmy"}
+      - {motif: storm-gods-daughters-dew-light-earth, refs: ["KTU 1.24 I:(Vs.)_26-27"], note: "pdry bt[ar] restored"}
+      - {motif: suitor-insists-on-chosen-bride, refs: ["KTU 1.24 I:(Rs.)_30-33"], note: "ˁm nkl ḫtny: with Nikkal is my marriage; aḫr nkl yrḫ ytrḫ"}
+      - {motif: bride-price-weighed-by-brides-family, refs: ["KTU 1.24 I:(Rs.)_33-37"], note: "adnh yšt mṣb mznm umh kp mznm iḫh yṯˁr mšrrm aḫth labn mznm: her father sets up the beam of the scales, her mother the pans, her brother arranges the balance arms, her sister the weights"}
+      - {motif: moon-god-lamp-of-heaven, refs: ["KTU 1.24 I:(Vs.)_16", "KTU 1.24 I:(Rs.)_31", "KTU 1.24 I:(Rs.)_38-39"], note: "yrḫ nyr šmm; ar yrḫ wyrḫ yark: shine on Yarikh and may Yarikh shine on you"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.24 I:(Rs.)_44-45"], note: "ˁm lẓpn il ḏpid: with the Kindly One, El the Merciful"}
+      - {motif: catalogue-of-goddess-names-recited, refs: ["KTU 1.24 I:(Rs.)_45-50"], note: "hn bpy sprhn bšpty mnthn: in my mouth is their number, on my lips their count; the names in Rs. 47-50 are untranslated in the source"}
+    hints:
+      - "Bride-price to the father: Gen 24:53; 29:18; 34:12 ('ask of me ever so great a mohar'); Exod 22:15-16; 1Sam 18:25. Silver weighed on scales: Gen 23:16; Jer 32:9-10."
+      - "Brother and mother negotiate the marriage: Gen 24:50-55. Substitute bride offered: Gen 29:23-26 (Leah for Rachel); compare substituted-bride."
+      - "Vineyard of the beloved: Song 8:11-12; Isa 5:1. 'Behold the young woman (ʿalmah) shall conceive and bear a son': Isa 7:14, a phrase close to hl ġlmt tld b[n] here."
+      - "Moon and sun as lamps: Gen 1:16; Ps 136:7-9. A list of names counted on the lips: Ps 147:4."
+  - id: ane-ktu-1-100-mare-appeals-to-gods
+    tradition: ane-ugaritic
+    title: The mare, daughter of spring, stone, heaven and deep, sends Shapsh to each god in turn for a spell against snakebite (KTU 1.100 1-60)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.100 I:(Vs.)_1-60"]
+    tags:
+      - {motif: mare-daughter-of-spring-stone-heaven-and-deep, refs: ["KTU 1.100 I:(Vs.)_1"], note: "um pḥl pḥlt bt ˁn bt abn bt šmm wthm"}
+      - {motif: sun-goddess-carries-petition-to-each-god, refs: ["KTU 1.100 I:2-3", "KTU 1.100 I:8-9", "KTU 1.100 I:14-15", "KTU 1.100 I:19-20", "KTU 1.100 I:25-26", "KTU 1.100 I:30-31", "KTU 1.100 I:35-36", "KTU 1.100 I:40-41", "KTU 1.100 I:45-46", "KTU 1.100 I:51-52", "KTU 1.100 I:57-58"], note: "špš um ql bl ˁm ...: Shapsh, mother, take my cry to El at the source of the rivers, Baal on the heights of Ṣapan, Dagan in Tuttul, Anat-wa-Athtart in Inbub, Yarikh in Larugat, Rashap in Bibitta, Ẓẓ-wa-Kmṯ in Ḫryt, Milku in Athtartu, Kothar-wa-Hasis in Caphtor, Shahar-wa-Shalim in heaven, Horon in Mṣd; lines 14-60 carry no translation in the source"}
+      - {motif: snakebite-incantation-expels-venom, refs: ["KTU 1.100 I:4-6", "KTU 1.100 I:9-12"], note: "mnt nṯk nḥš šmrr nḥš ˁqšr lnh mlḫš abd lnh ydy ḥmt hlm yṯq nḥš yšlḥm: the spell for the bite of the snake, the venom of the sloughing serpent; from it let the charmer destroy, from it let him remove the venom; let him bind the snake, let him ... the serpent"}
+      - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.100 I:2-3"], note: "ˁm il mbk nhrm bˁdt thmtm"}
+      - {motif: hymn-repeats-each-stanza-with-name, refs: ["KTU 1.100 I:8-60"], note: "the same stanza is repeated eleven times with each god's name and city"}
+      - {motif: gods-sit-on-thrones-and-do-nothing, refs: ["KTU 1.100 I:7", "KTU 1.100 I:12-13", "KTU 1.100 I:18", "KTU 1.100 I:23-24", "KTU 1.100 I:29", "KTU 1.100 I:34", "KTU 1.100 I:39", "KTU 1.100 I:44", "KTU 1.100 I:49-50", "KTU 1.100 I:55-56"], note: "yˁdb ksa wyṯb: he sets out a chair and sits - interpretive: each god sits down without effect, until Horon"}
+      - {motif: craftsman-god-from-caphtor-and-memphis, refs: ["KTU 1.100 I:46"], note: "kṯr wḫss kptrh"}
+      - {motif: resheph-qeteb-plague-demons, refs: ["KTU 1.100 I:31"], note: "ršp bbth: Rashap in Bibitta"}
+    hints:
+      - "Snakebite and its cure: Num 21:6-9 (the bronze serpent); compare fiery-serpents. Snake charming: Ps 58:5-6; Jer 8:17; Eccl 10:11."
+      - "Gods who do not answer: 1Kgs 18:26-29 (Baal's prophets cry from morning till noon, 'but there was no voice')."
+      - "Caphtor: Amos 9:7; Deut 2:23; Jer 47:4. Resheph: Hab 3:5; Deut 32:24."
+  - id: ane-ktu-1-100-horon-cures-snakebite
+    tradition: ane-ugaritic
+    title: Horon expels the venom with the tree of death among tamarisks; the mare asks snakes as her bride-price (KTU 1.100 61-79)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Ugaritic"
+    read: ["KTU 1.100 I:61-79"]
+    tags:
+      - {motif: healer-god-sets-out-for-city-of-east, refs: ["KTU 1.100 I:61-64"], note: "untranslated in the source, no lemmas; idk pnm lytn tk aršḫ rbt waršḫ ṯrrt: he set his face toward Aršḫ the great, Aršḫ the strong (reading after the standard editions)"}
+      - {motif: tree-cast-to-neutralize-poison, refs: ["KTU 1.100 I:64-67"], note: "ydy bˁṣm ˁrˁr wbšḥt ˁṣ mt ˁrˁrm ynˁrnh ssnm ysynh: he casts among the trees the tamarisk (ˁrˁr), the tree of death among the shrubs; with tamarisks he shakes it out, with date-spathes he drives it off - untranslated in the source, reading interpretive"}
+      - {motif: venom-flows-away-like-a-stream, refs: ["KTU 1.100 I:68-69"], note: "tlu ḥ(m)t km nḫl tplg km plg: the venom grows weak like a wadi, is dispersed like a channel"}
+      - {motif: bride-house-shut-until-terms-met, refs: ["KTU 1.100 I:70-72"], note: "bˁdh bhtm mnt bˁdh bhtm sgrt ... ptḥ bt wuba hkl wištql: behind her the house is shut ... 'open the house that I may enter the palace' (interpretive)"}
+      - {motif: snakes-as-bride-price, refs: ["KTU 1.100 I:73-76"], note: "tn nḥšm mhry wbn bṯn itnny ... ytt nḥšm mhrk bn bṯn itnnk: give snakes as my bride-price, the sons of the serpent as my gift; I give you snakes as your bride-price"}
+      - {motif: snakebite-incantation-expels-venom, refs: ["KTU 1.100 I:77-79"], note: "rubric: aṯr ršp ˁṯtrt ... mnt nṯk nḥš: after Rashap, Athtart; a spell for snakebite"}
+    hints:
+      - "A tree thrown into water to heal it: Exod 15:25 (Marah); 2Kgs 2:21 and 4:41 (Elisha's salt and flour). Horon: the place-name Beth-horon (Josh 10:10)."
+      - "Gruesome bride-price: 1Sam 18:25-27 (a hundred Philistine foreskins); compare foreskins-as-bride-price."
+      - "Bronze serpent (Num 21:8-9) and the healer's power over snakes: Mark 16:18; Luke 10:19."
+  - id: ane-amenemope-w1-prologue
+    tradition: ane-egyptian
+    title: Prologue of the Instruction of Amenemope - purpose of the teaching, titles of the author and of his son (Amenemope 1.1-3.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:1.1-2.13"]
+    tags:
+      - {motif: instruction-for-life-and-well-being, refs: ["Amenemope W1:1.1"], note: "ḥꜣ,t-ꜥ-m sbꜣ,yt m ꜥnḫ mtr,w n wḏꜣ: beginning of the teaching for life, the instruction for well-being"}
+      - {motif: wisdom-enables-true-answer-to-sender, refs: ["Amenemope W1:1.1"], note: "r rḫ ḫsf wšb(,t) n ḏd sw r ꜥn smj n hꜣb.w sw: to know how to answer one who speaks, to report back to the one who sent him"}
+      - {motif: way-of-life-path-image, refs: ["Amenemope W1:1.1"], note: "r sꜥq(ꜣ)w =f r mj,t n ꜥnḫ: to steer him on the way of life"}
+      - {motif: father-instructs-youngest-son, refs: ["Amenemope W1:2.13"], note: "n zꜣ =f ktj n ms.wj =f: for his son, the youngest of his children"}
+      - {motif: author-is-scribe-of-fields-and-boundaries, refs: ["Amenemope W1:1.13"], note: "overseer of fields who sets the boundary stones of the arable land, makes the land register of Egypt; 'the truly silent one' (gr mꜣꜥ) of Abydos, Amenemope son of Kanakht"}
+      - {motif: truly-silent-man-ideal, refs: ["Amenemope W1:1.13"], note: "gr mꜣꜥ"}
+    hints:
+      - "Prov 22:17-21 ('Incline your ear and hear the words of the wise ... that you may give a true answer to those who sent you'), modelled on this prologue; Prov 1:2-6; 4:10-13 (the way of life)."
+      - "Father to son: Prov 1:8; 4:1-4."
+  - id: ane-amenemope-w1-ch01-hear-my-words
+    tradition: ane-egyptian
+    title: "Chapter 1: give your ears, set your heart on the words, keep them in the casket of your belly (Amenemope 3.8-3.17)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:3.8-3.17"]
+    tags:
+      - {motif: incline-ear-to-words-of-wise, refs: ["Amenemope W1:3.9-3.10"], note: "jmm ꜥnḫ,wj =k sḏm j:ḏd.wt jmm ḥꜣ,tj =k r wḥꜥ =w: give your ears, hear what is said, give your heart to understand them"}
+      - {motif: sayings-kept-in-belly, refs: ["Amenemope W1:3.13-3.15"], note: "jmm ḥtp =w m mꜥhn.w n ẖ,t =k ... nꜥy,t m ns =k: let them rest in the casket of your belly ... a mooring post for your tongue"}
+      - {motif: teaching-a-storehouse-for-life, refs: ["Amenemope W1:3.17"], note: "mdw(,t) =j m wḏꜣ n ꜥnḫ: my words a storehouse of life"}
+    hints:
+      - "Prov 22:17-18 ('apply your heart to my knowledge; it is pleasant if you keep them within you (bevitnekha), that they be ready together on your lips'); Prov 4:20-22; 3:1-2."
+  - id: ane-amenemope-w1-ch02-do-not-rob-the-wretched
+    tradition: ane-egyptian
+    title: "Chapter 2: do not rob the wretched; the heated man swept away; leave the evildoer to God and feed him (Amenemope 4.3-5.8)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:4.3-5.7"]
+    tags:
+      - {motif: do-not-rob-poor-at-gate, refs: ["Amenemope W1:4.4"], note: "zꜣw tw r ḥwrꜥ jꜣd r nꜥš.jw zꜣw-ꜥ: beware of robbing the wretched, of overpowering the broken-armed"}
+      - {motif: honour-the-aged-and-great, refs: ["Amenemope W1:4.6"], note: "do not stretch out your hand to touch an old man, nor snatch the word from the elder"}
+      - {motif: evildoer-swept-away-by-flood-and-storm, refs: ["Amenemope W1:4.12-4.19"], note: "the bank abandons him, its mud carries him off, the north wind ends his hour, the storm is loud, the crocodiles are evil; the moon god (Jꜥḥ) establishes his crime"}
+      - {motif: do-not-repay-evil-wait-for-yhwh, refs: ["Amenemope W1:4.10", "Amenemope W1:5.4"], note: "ḫꜣꜥ sw ḥr ꜥ.wj pꜣ nṯr: leave him in the hands of the god"}
+      - {motif: feed-enemy-heap-coals, refs: ["Amenemope W1:5.3-5.6"], note: "ṯs sw jmm n =f ḏr,t =k ... mḥ ẖ,t =f m tʾ m-ḏi̯w =k sꜣwj =f mtw =f ṯm: lift him up, give him your hand ... fill his belly with your bread so that he is sated and ashamed"}
+      - {motif: pause-before-speaking, refs: ["Amenemope W1:5.7"], note: "wsfꜣ (r)-ḥꜣ,t mdwi̯"}
+    hints:
+      - "Prov 22:22 ('Do not rob the poor because he is poor, nor crush the afflicted at the gate'); Prov 25:21-22 (feed your enemy, heap coals); Prov 20:22 ('wait for YHWH'); Prov 24:29; Rom 12:19-20."
+      - "Rise before the aged: Lev 19:32. Swept away like chaff: Ps 1:4; Job 27:20-21."
+  - id: ane-amenemope-w1-ch03-heated-man
+    tradition: ane-egyptian
+    title: "Chapter 3: do not quarrel with the hot-mouthed; sleep a night before speaking; God knows how to answer him (Amenemope 5.9-5.19)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:5.9-5.18"]
+    tags:
+      - {motif: do-not-befriend-hothead, refs: ["Amenemope W1:5.10"], note: "m-jri̯ nḥb ṯ(t)ṯ(t) (j)~rʾ~mꜥ pꜣ tꜣ-rʾ: do not start a quarrel with the hot-mouthed"}
+      - {motif: pause-before-speaking, refs: ["Amenemope W1:5.12-5.13"], note: "sḏr (r)-ḥꜣ,t mdwi̯: sleep (a night) before speaking"}
+      - {motif: anger-like-fire-in-straw, refs: ["Amenemope W1:5.14"], note: "ḏꜥ pri̯ =f mj ḫ,t m rwy pꜣ šmm m wnw,t.ṱ =f"}
+      - {motif: do-not-repay-evil-wait-for-yhwh, refs: ["Amenemope W1:5.16-5.17"], note: "r pꜣ nṯr (r) rḫ ꜥn n =f: the god will know how to answer him"}
+    hints:
+      - "Prov 22:24-25 ('Make no friendship with an angry man'); 15:18; 26:20-21 (fire and quarrels); 29:22; Jas 1:19."
+  - id: ane-amenemope-w1-ch04-two-trees
+    tradition: ane-egyptian
+    title: "Chapter 4: the heated man in the temple is a tree that withers and is burned; the silent man is a tree that flourishes with sweet fruit (Amenemope 5.20-6.12)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:5.20-6.12"]
+    tags:
+      - {motif: wicked-tree-withers-righteous-tree-flourishes, refs: ["Amenemope W1:6.1-6.12"], note: "pꜣ šmm ... mj šꜣ rd m-ḫntj ... tꜣ stꜣ tꜣyw =f qrjs: the heated man is like a tree growing indoors (?), it sheds its shoots, ends in the timber yard, fire is its burial; gr mꜣꜥ ... mj šꜣ rd m tjḥn,t ... dgꜣ =f bjnr ḫꜣ(y)b(,t) =f nḏm: the truly silent man is like a tree growing in a garden, its fruit sweet, its shade pleasant"}
+      - {motif: righteous-as-tree-by-water, refs: ["Amenemope W1:6.7-6.12"]}
+      - {motif: truly-silent-man-ideal, refs: ["Amenemope W1:6.7"]}
+    hints:
+      - "Ps 1:3-4 (tree by streams vs. chaff); Jer 17:5-8 (the shrub in the desert vs. the tree planted by water); Ps 92:13-15; Ps 37:35-36."
+  - id: ane-amenemope-w1-ch05-temple-greed
+    tradition: ane-egyptian
+    title: "Chapter 5: do not embezzle temple shares; 'today is not like tomorrow' - the flood falls, crocodiles exposed; join the silent (Amenemope 6.13-7.10)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:6.13-7.9"]
+    tags:
+      - {motif: do-not-embezzle-temple-share, refs: ["Amenemope W1:6.14-6.17"], note: "m-jri̯ ꜥšgꜣjw dnj,t n ḥw,t-nṯr: do not take for yourself the share of the temple"}
+      - {motif: carousers-say-tomorrow-like-today, refs: ["Amenemope W1:6.18-7.1"], note: "m-jri̯ ḏd pꜣ-hrw mj dwꜣ,w: do not say 'today is like tomorrow'; tomorrow has come, today has gone"}
+      - {motif: fortunes-reversed-when-flood-recedes, refs: ["Amenemope W1:7.2-7.6"], note: "the flood becomes a sandbank, the crocodiles are exposed, the hippopotami on dry land, the fish gasping, the jackals sated, the birds in festival, the nets empty"}
+      - {motif: truly-silent-man-ideal, refs: ["Amenemope W1:7.7-7.9"], note: "jr gr nb n ḥw,t-nṯr st ḥr ḏd wr ḥs(,wt) Rꜥ: every silent one of the temple says 'great is the favour of Re'"}
+    hints:
+      - "Isa 56:12 ('tomorrow will be like this day'), compare carousers-say-tomorrow-like-today; Prov 27:1 (do-not-boast-of-tomorrow); Jas 4:13-14."
+      - "Robbing God of tithes: Mal 3:8. Reversal of fortunes: 1Sam 2:4-8; Ps 113:7-8."
+  - id: ane-amenemope-w1-ch06-boundary-stone
+    tradition: ane-egyptian
+    title: "Chapter 6: do not move the boundary stone or encroach on the widow's field; one bushel from God is better than five thousand by wrong; riches fly to heaven (Amenemope 7.11-9.8)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:7.11-9.7"]
+    tags:
+      - {motif: do-not-move-boundary-stone, refs: ["Amenemope W1:7.12"], note: "m-jri̯ rmni̯ wḏ.y ḥr tšjw n ꜣḫ(,t): do not remove the stela on the boundaries of the arable land"}
+      - {motif: orphans-field-strong-redeemer, refs: ["Amenemope W1:7.14"], note: "mtw =k hꜣd tšjw n ḫꜣrj(,t): do not encroach on the boundaries of a widow"}
+      - {motif: moon-god-lassoes-perjurer, refs: ["Amenemope W1:7.18"], note: "jw =f spḥ n-m bꜣ,w n Jꜥḥ: he is lassoed by the might of the Moon"}
+      - {motif: land-grabbers-house-destroyed, refs: ["Amenemope W1:8.1"], note: "his house is an enemy of the town, his granaries destroyed, his goods taken from his children and given to another"}
+      - {motif: little-from-god-better-than-much-by-wrong, refs: ["Amenemope W1:8.19-9.7"], note: "ꜣḫ jp,t jw ḏi̯ s(j) n =k pꜣ nṯr r 5000 m-gꜣnjsꜣ ... ꜣḫ pꜣ nmḥ m-ḏr,t pꜣ nṯr r wsr m wḏꜣ ... ꜣḫ pꜣw,t jw ḥꜣ,tj nḏm r wsr ẖr šnn: better a bushel God gives you than 5000 by wrong ... better poverty in the hand of God than riches in the storehouse; better bread with a happy heart than riches with sorrow"}
+      - {motif: little-of-righteous-better, refs: ["Amenemope W1:8.19-9.8"]}
+      - {motif: dry-morsel-in-peace, refs: ["Amenemope W1:9.7"]}
+      - {motif: beware-of-the-lord-of-all, refs: ["Amenemope W1:8.9-8.14"], note: "zꜣw tw r Nb-r-ḏr: beware of the Lord of All; lest the terror (of God) carry you off"}
+    hints:
+      - "Prov 22:28 and 23:10-11 ('Do not remove the ancient landmark, nor enter the fields of the fatherless, for their Redeemer is strong'); Deut 19:14; 27:17; Hos 5:10; Job 24:2."
+      - "Prov 15:16-17 ('better a little with the fear of YHWH than great treasure and trouble with it'); 16:8; 17:1; Ps 37:16."
+  - id: ane-amenemope-w1-ch07-riches-fly
+    tradition: ane-egyptian
+    title: "Chapter 7: do not set your heart on riches; ill-gotten wealth is swallowed by the earth or flies to heaven like geese; pray to the sun at dawn (Amenemope 9.9-10.15)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:9.9-10.14"]
+    tags:
+      - {motif: do-not-strive-after-riches, refs: ["Amenemope W1:9.10-9.14"], note: "m-jri̯ qmꜣm jb =k m-sꜣ wsr nn ḫm Šꜣy Rnn,t: do not cast your heart after riches; there is no ignoring Fate (Shai) and Fortune (Renenet)"}
+      - {motif: riches-fly-away-like-eagle, refs: ["Amenemope W1:10.4-10.5"], note: "jri̯.y =w n =w dnḥ.du mj rʾ.w st pwy r tꜣ p,t: they have made themselves wings like geese and flown to heaven"}
+      - {motif: earth-swallows-ill-gotten-wealth, refs: ["Amenemope W1:9.20-10.3"], note: "wn pꜣ jwdn rʾ =f ... ꜥm =f sw ... hꜣrpwy =w m dwꜣ,t: the ground opened its mouth, swallowed them, they sank into the underworld"}
+      - {motif: stolen-wealth-gone-by-morning, refs: ["Amenemope W1:9.16-9.19/2"], note: "nn sḏr =w m-djw =k ḥḏ tꜣ bn st m pr =k: they will not spend the night with you; at daybreak they are not in your house"}
+      - {motif: greedy-mans-ship-stuck-humble-boat-sails, refs: ["Amenemope W1:10.10"]}
+      - {motif: prayer-to-rising-sun-for-health, refs: ["Amenemope W1:10.12-10.14"], note: "jr wbn =f ... ḏi̯ n =j wḏꜣ snb: when he rises, pray to the Aten (sun): 'give me well-being and health'; may he give you your needs"}
+    hints:
+      - "Prov 23:4-5 ('Do not toil to be rich ... for riches make themselves wings, like an eagle that flies toward heaven'); Prov 28:20, 22; Matt 6:19-20."
+      - "Earth opening its mouth: Num 16:30-33; compare earth-swallows-rebels. Daily bread: Prov 30:8; Matt 6:11."
+  - id: ane-amenemope-w1-ch08-good-name
+    tradition: ane-egyptian
+    title: "Chapter 8: put your goodness in people's bellies; spit on Apophis; guard your tongue; do not proclaim another's sin (Amenemope 10.16-11.11)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:10.16-11.10"]
+    tags:
+      - {motif: kindness-wins-universal-greeting, refs: ["Amenemope W1:10.17"]}
+      - {motif: god-repels-chaos-serpent-from-sun-barque, refs: ["Amenemope W1:10.19-10.20"], note: "the uraeus is hailed; psg ḥr ꜥꜣpp: spit on Apophis (proverbial for shunning evil)"}
+      - {motif: guard-the-tongue, refs: ["Amenemope W1:10.21"]}
+      - {motif: secure-burial-reward-of-good-life, refs: ["Amenemope W1:11.2-11.4/2"], note: "your coffin will hide you; you will be safe from the power of God"}
+      - {motif: talebearer-reveals-secrets, refs: ["Amenemope W1:11.6-11.10"], note: "do not cry 'crime!' against a man; conceal the fugitive's state; put good news on your tongue, keep evil hidden in your belly"}
+    hints:
+      - "Prov 22:1 (a good name); Prov 11:13; 17:9 (he who covers an offence seeks love); Deut 23:16-17 (do not hand back the escaped slave); Ps 34:14; Prov 21:23."
+  - id: ane-amenemope-w1-ch09-hot-man-portrait
+    tradition: ane-egyptian
+    title: "Chapter 9: do not befriend the heated man; his portrait - ferryman of words, wolf-cub, crocodile, cloud before the wind; Khnum his potter (Amenemope 11.12-13.9)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:11.12-13.8"]
+    tags:
+      - {motif: do-not-befriend-hothead, refs: ["Amenemope W1:11.13"], note: "m-jri̯ sn n =k pꜣ šmm: do not befriend the heated man, do not approach him to converse"}
+      - {motif: do-not-answer-superior-rashly, refs: ["Amenemope W1:11.15-11.19"]}
+      - {motif: word-of-aggrieved-swifter-than-wind, refs: ["Amenemope W1:12.1"]}
+      - {motif: tongue-tears-down-and-builds, refs: ["Amenemope W1:12.3"], note: "he tears down and builds up with his tongue"}
+      - {motif: potter-god-fashions-hearts, refs: ["Amenemope W1:12.15-12.17"], note: "Ḫnmw ... pꜣ nḥp n pꜣ tꜣ-rʾ: Khnum, the potter of the hot-mouthed, kneads (the clay) to lead hearts astray (?)"}
+      - {motif: sweet-lips-bitter-tongue-fire-in-belly, refs: ["Amenemope W1:13.6-13.7"], note: "his lips are sweet, his tongue bitter, fire burns in his belly"}
+      - {motif: lips-drip-honey-end-bitter-wormwood, refs: ["Amenemope W1:13.6-13.6/2"]}
+      - {motif: hothead-sets-brothers-quarrelling, refs: ["Amenemope W1:12.19-13.1"], note: "he sets one eye against the other, he makes brothers quarrel"}
+    hints:
+      - "Prov 22:24-25; Prov 6:19 ('one who sows discord among brothers'); 16:28; 26:21-25 (burning lips and a wicked heart; he disguises with his lips); Ps 55:22 (smoother than butter); Jas 3:5-6."
+      - "Potter shaping hearts: Isa 29:16; 45:9; 64:7; Jer 18:1-6; Ps 33:15 ('he fashions their hearts')."
+  - id: ane-amenemope-w1-ch10-heart-and-tongue
+    tradition: ane-egyptian
+    title: "Chapter 10: do not greet the heated man falsely; do not separate your heart from your tongue; God hates falsified words (Amenemope 13.10-14.3)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:13.10-14.3"]
+    tags:
+      - {motif: no-feigned-greeting-to-enemy, refs: ["Amenemope W1:13.11-13.13"], note: "do not say to him falsely 'hail to you' while fear is in your belly"}
+      - {motif: heart-and-tongue-must-agree, refs: ["Amenemope W1:13.17"], note: "m-jri̯ pš ḥꜣ,tj =k r ns =k: do not separate your heart from your tongue"}
+      - {motif: abomination-of-god-formula, refs: ["Amenemope W1:13.16", "Amenemope W1:14.2-14.3"], note: "bw,t pꜣ nṯr: the abomination of the god; God hates the falsifier of words"}
+    hints:
+      - "Prov 26:24-26 (he who hates disguises it with his lips); Ps 12:3; 28:3 ('speak peace with their neighbours while evil is in their hearts'); Prov 12:22 ('lying lips are an abomination to YHWH'); Jer 9:7."
+  - id: ane-amenemope-w1-ch11-poor-mans-goods
+    tradition: ane-egyptian
+    title: "Chapter 11: do not covet the poor man's goods - they choke the throat; the big mouthful swallowed and vomited (Amenemope 14.4-15.7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:14.4-15.7"]
+    tags:
+      - {motif: do-not-covet-poor-mans-goods, refs: ["Amenemope W1:14.5-14.8"], note: "do not covet the goods of a dependent, do not hunger for his bread; it is a blockage in the throat"}
+      - {motif: morsel-swallowed-and-vomited, refs: ["Amenemope W1:14.17"], note: "the too-large mouthful of bread: you swallowed it, you vomit it, and are emptied of your good"}
+      - {motif: flattery-returns-as-curses, refs: ["Amenemope W1:14.15"]}
+    hints:
+      - "Prov 23:6-8 ('do not eat the bread of the stingy ... the morsel you have eaten you will vomit up'); Job 20:15 ('he swallows riches and vomits them up')."
+  - id: ane-amenemope-w1-ch12-officials-goods
+    tradition: ane-egyptian
+    title: "Chapter 12: do not covet an official's property; as steward, avoid his goods (Amenemope 15.8-15.18)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:15.8-15.17"]
+    tags:
+      - {motif: steward-must-not-covet-masters-treasure, refs: ["Amenemope W1:15.9-15.12"]}
+      - {motif: do-not-befriend-hothead, refs: ["Amenemope W1:15.13"], note: "do not steal with the heated man, do not befriend a rebel"}
+      - {motif: dishonest-messenger-not-sent-again, refs: ["Amenemope W1:15.17"]}
+    hints:
+      - "Prov 23:1-3 (do not desire a ruler's delicacies); Luke 16:1-12 (the steward); Prov 25:13; 26:6 (sending a message by a fool)."
+  - id: ane-amenemope-w1-ch13-forgive-the-poor
+    tradition: ane-egyptian
+    title: "Chapter 13: do not cheat with the pen; remit two-thirds of a poor man's debt; praise better than riches (Amenemope 15.19-16.14)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:15.19-16.13"]
+    tags:
+      - {motif: scribe-must-not-falsify-records, refs: ["Amenemope W1:15.20-15.21", "Amenemope W1:16.3"]}
+      - {motif: true-and-false-witness, refs: ["Amenemope W1:16.1"], note: "do not bear witness with false words"}
+      - {motif: remit-two-thirds-of-poor-mans-debt, refs: ["Amenemope W1:16.5-16.10"], note: "if you find a large debt against a poor man, make it three parts, release two, let one stand; you will sleep soundly"}
+      - {motif: little-of-righteous-better, refs: ["Amenemope W1:16.11-16.13"]}
+      - {motif: abomination-of-god-formula, refs: ["Amenemope W1:15.21"]}
+    hints:
+      - "Luke 16:5-7 (the steward reduces debts); Deut 15:1-11 (release of debts); Neh 5:10-12; Prov 22:1; Prov 15:16."
+      - "Pen of the scribes made into a lie: Jer 8:8; Isa 10:1."
+  - id: ane-amenemope-w1-ch14-do-not-fawn
+    tradition: ane-egyptian
+    title: "Chapter 14: do not ingratiate yourself; greet with your mouth (Amenemope 16.15-17.3)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:16.15-17.3"]
+    tags:
+      - {motif: do-not-seek-patrons-favour, refs: ["Amenemope W1:16.16-16.20"], note: "do not recall yourself to a man, do not strive to seek his hand"}
+      - {motif: bribe-blinds-the-wise, refs: ["Amenemope W1:16.18"], note: "'take a gift!' - there is no have-not who will refuse it (the danger of gifts)"}
+    hints:
+      - "Prov 19:6 ('many seek the favour of a generous man'); Prov 25:6-7; Exod 23:8; Prov 17:8."
+  - id: ane-amenemope-w1-ch15-thoth-the-scribe
+    tradition: ane-egyptian
+    title: "Chapter 15: do good; the beak of the Ibis is the scribe's finger; the baboon's eye roams the Two Lands (Amenemope 17.4-17.16)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:17.4-17.15"]
+    tags:
+      - {motif: scribe-must-not-falsify-records, refs: ["Amenemope W1:17.6-17.8", "Amenemope W1:17.13"], note: "do not dip the pen to do wrong; the beak of the Ibis (Thoth) is the scribe's finger"}
+      - {motif: eyes-of-yhwh-roam-the-earth, refs: ["Amenemope W1:17.9-17.11"], note: "the baboon sits in Hermopolis but his eye travels round the Two Lands; if he sees one who cheats with his finger he takes away his provisions"}
+      - {motif: cheaters-son-not-registered, refs: ["Amenemope W1:17.13"]}
+      - {motif: virtue-benefits-children, refs: ["Amenemope W1:17.15"]}
+    hints:
+      - "God's eyes roaming the earth: 2Chr 16:9; Zech 4:10; Prov 15:3; Job 34:21. Children reap the father's righteousness: Ps 37:25-26; 112:2; Prov 20:7."
+  - id: ane-amenemope-w1-ch16-scales
+    tradition: ane-egyptian
+    title: "Chapter 16: do not tamper with the scales or weights; the baboon sits by the balance, his heart the plummet (Amenemope 17.17-18.13)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:17.17-18.12"]
+    tags:
+      - {motif: honest-weights, refs: ["Amenemope W1:17.18-17.20", "Amenemope W1:18.4"], note: "do not move the scales, do not falsify the kite-weights, do not diminish the fractions of the measure"}
+      - {motif: god-presides-over-the-balance, refs: ["Amenemope W1:17.22-18.2"], note: "pꜣ jꜥn ḥms r-gs tꜣ mḫꜣ,t jw ḥꜣ,tj =f m tḫ: the baboon sits beside the balance, his heart is the plummet; which god is as great as Thoth who invented these things?"}
+      - {motif: gilded-metal-becomes-lead-at-dawn, refs: ["Amenemope W1:18.12"]}
+      - {motif: do-not-covet-fine-goods, refs: ["Amenemope W1:18.8-18.10"]}
+    hints:
+      - "Prov 11:1; 16:11 ('a just balance and scales are YHWH's; all the weights in the bag are his work'); 20:10, 23; Lev 19:35-36; Deut 25:13-16; Amos 8:5; Mic 6:11. Compare heart-weighed-against-maat (BD 125)."
+  - id: ane-amenemope-w1-ch17-measure
+    tradition: ane-egyptian
+    title: "Chapter 17: do not falsify the corn-measure, the Eye of Re; the threshing-floor's power greater than an oath by the throne (Amenemope 18.14-19.9)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:18.14-19.8"]
+    tags:
+      - {motif: just-weights-and-measures, refs: ["Amenemope W1:18.15-18.21"], note: "do not make yourself a measure that holds two (a double measure)"}
+      - {motif: measure-is-eye-of-re, refs: ["Amenemope W1:18.23-19.2"], note: "pꜣ jp,t jr,t Rꜥ ... bw,t =s pꜣ ṯꜣw: the oipe-measure is the Eye of Re, its abomination is the thief"}
+      - {motif: abomination-of-god-formula, refs: ["Amenemope W1:19.1"]}
+      - {motif: do-not-oppress-tax-paying-farmer, refs: ["Amenemope W1:19.4-19.6"]}
+    hints:
+      - "Deut 25:14-15 ('you shall not have in your house two kinds of ephah'); Prov 20:10 ('diverse weights and diverse measures, both are an abomination to YHWH'); Amos 8:5; Mic 6:10-11."
+  - id: ane-amenemope-w1-ch18-god-decides
+    tradition: ane-egyptian
+    title: "Chapter 18: do not lie awake fearing tomorrow; man's words are one thing, God's deeds another; no one is sinless; the tongue is the rudder, the Lord of All the pilot (Amenemope 19.10-20.6)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:19.10-20.6"]
+    tags:
+      - {motif: do-not-boast-of-tomorrow, refs: ["Amenemope W1:19.11-19.13"], note: "man does not know what tomorrow is like"}
+      - {motif: man-plans-god-disposes, refs: ["Amenemope W1:19.14-19.17", "Amenemope W1:20.5-20.6"], note: "kt pꜣ ḏd nꜣ rmṯ kt pꜣ jri̯ pꜣ nṯr: one thing is what men say, another what God does; the tongue of man is the steering oar of the boat, the Lord of All is its pilot"}
+      - {motif: who-can-say-heart-is-pure, refs: ["Amenemope W1:19.18-19.23"], note: "do not say 'I have no sin'; sin belongs to God, sealed with his finger; there is no perfection in the hand of God"}
+      - {motif: tongue-is-rudder-god-is-pilot, refs: ["Amenemope W1:20.4-20.6"]}
+    hints:
+      - "Prov 16:1, 9 ('the heart of man plans his way, but YHWH directs his steps'); 19:21; 20:24; Prov 27:1; Matt 6:34; Jas 4:13-15."
+      - "Prov 20:9 ('who can say, I have made my heart clean?'); 1Kgs 8:46; Eccl 7:20; 1John 1:8. Tongue as ship's rudder: Jas 3:4-5."
+  - id: ane-amenemope-w1-ch19-tell-the-truth-in-court
+    tradition: ane-egyptian
+    title: "Chapter 19: in court do not falsify your words or seek a royal oath; speak the truth before the official (Amenemope 20.7-20.19)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:20.7-20.18"]
+    tags:
+      - {motif: true-and-false-witness, refs: ["Amenemope W1:20.8-20.14"], note: "do not falsify your words, do not go up and down with your answer ... speak the truth before the official"}
+      - {motif: avoid-needless-oath, refs: ["Amenemope W1:20.12-20.13"], note: "do not strive for an oath by the Lord; speak plainly in the court"}
+      - {motif: council-of-thirty, refs: ["Amenemope W1:20.18"], note: "the Thirty (the high court) in the Residence"}
+    hints:
+      - "Exod 20:16; 23:1-2; Prov 14:5; 19:5, 9; Matt 5:33-37 ('let your yes be yes'); Jas 5:12."
+  - id: ane-amenemope-w1-ch20-justice-in-court
+    tradition: ane-egyptian
+    title: "Chapter 20: do not pervert justice, take no bribe from the powerful; truth is God's gift; do not forge oracles (Amenemope 20.20-21.20)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:20.20-21.19"]
+    tags:
+      - {motif: corrupt-judge-punished-just-judge-rewarded, refs: ["Amenemope W1:20.21-21.4"], note: "do not confound a man in the law court nor push aside the just; do not attend to the bright garment, nor despise the ragged; take no gift from the strong"}
+      - {motif: bribe-blinds-the-wise, refs: ["Amenemope W1:21.3"]}
+      - {motif: no-partiality-to-rich-or-poor, refs: ["Amenemope W1:21.1-21.4"]}
+      - {motif: truth-a-great-gift-of-god, refs: ["Amenemope W1:21.5-21.6"], note: "mꜣꜥ,t bꜣk ꜥꜣ n nṯr ḏi̯ =f s(j) n mr =f: Maat is a great gift of God; he gives it to whom he loves"}
+      - {motif: do-not-forge-oracles, refs: ["Amenemope W1:21.13-21.16"], note: "do not falsify an oracle on the scroll, do not disturb the plans of God; do not invent for yourself the might of God as though there were no Fate and Fortune"}
+      - {motif: return-goods-to-owners, refs: ["Amenemope W1:21.17-21.19"]}
+    hints:
+      - "Exod 23:2-3, 6-8; Lev 19:15; Deut 16:19 ('a bribe blinds the eyes of the wise'); Jas 2:1-4 (fine clothes vs. shabby); Prov 2:6 (YHWH gives wisdom)."
+      - "False prophecy in God's name: Jer 23:16-32; Deut 18:20; Ezek 13:6-7."
+  - id: ane-amenemope-w1-ch21-sit-in-gods-arms
+    tradition: ane-egyptian
+    title: "Chapter 21: do not seek a powerful protector; you do not know God's plans - set yourself in the arms of God; keep your report in your belly (Amenemope 21.21-22.18)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:21.21-22.18"]
+    tags:
+      - {motif: trust-god-not-human-protector, refs: ["Amenemope W1:22.1-22.8"], note: "do not say 'find me a strong superior' ... ḥms tw r ꜥ.wj pꜣ nṯr: set yourself in the arms of God; your silence will overthrow them"}
+      - {motif: you-know-not-gods-plans, refs: ["Amenemope W1:22.5"], note: "bw rḫ =k nꜣ sḫr.w pꜣ nṯr"}
+      - {motif: do-not-repay-evil-wait-for-yhwh, refs: ["Amenemope W1:22.1-22.8"]}
+      - {motif: talebearer-reveals-secrets, refs: ["Amenemope W1:22.11-22.16"], note: "do not empty your belly to everyone ... better a man who keeps his report in his belly"}
+    hints:
+      - "Prov 20:22 ('do not say, I will repay evil; wait for YHWH'); Ps 118:8-9; 146:3; Isa 30:15 ('in quietness and trust'); Exod 14:14 ('you shall be silent'); Deut 33:27 ('underneath are the everlasting arms')."
+      - "Prov 11:13; 20:19; 29:11. God's ways unknown: Isa 55:8-9; Eccl 11:5."
+  - id: ane-amenemope-w1-ch22-do-not-provoke
+    tradition: ane-egyptian
+    title: "Chapter 22: do not provoke your opponent; let him empty his belly; set yourself in the arms of God (Amenemope 22.19-23.11)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:22.19-23.11"]
+    tags:
+      - {motif: let-the-angry-man-empty-himself, refs: ["Amenemope W1:22.20-23.5"], note: "do not provoke your adversary ... consider his answers first; leave him to empty his belly; know how to sleep"}
+      - {motif: trust-god-not-human-protector, refs: ["Amenemope W1:23.8-23.11"]}
+      - {motif: you-know-not-gods-plans, refs: ["Amenemope W1:23.8"]}
+    hints:
+      - "Prov 26:4-5; 29:11 ('a fool vents all his anger'); 15:1 (soft-answer-turns-wrath); Prov 18:13 (answering before hearing)."
+  - id: ane-amenemope-w1-ch23-dining-with-official
+    tradition: ane-egyptian
+    title: "Chapter 23: do not eat bread before an official; chew as pretence; look at the cup before you (Amenemope 23.12-23.20)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:23.12-23.19"]
+    tags:
+      - {motif: eating-with-ruler-knife-to-throat, refs: ["Amenemope W1:23.13-23.17"], note: "do not eat bread in the presence of an official nor set your mouth before him; if you are sated, chew pretendingly, enjoy your saliva; look at the bowl before you"}
+      - {motif: great-man-like-many-wells, refs: ["Amenemope W1:23.19"]}
+    hints:
+      - "Prov 23:1-3 ('When you sit down to eat with a ruler, consider carefully what is before you, and put a knife to your throat'); Sir 31:12-18; Luke 14:7-11."
+  - id: ane-amenemope-w1-ch24-keep-confidence
+    tradition: ane-egyptian
+    title: "Chapter 24: do not repeat an official's words outside; the heart of man is the beak of God (Amenemope 23.21-24.7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:23.21-24.6"]
+    tags:
+      - {motif: talebearer-reveals-secrets, refs: ["Amenemope W1:23.22-24.2"]}
+      - {motif: heart-of-man-is-gods-gift, refs: ["Amenemope W1:24.4-24.5"], note: "W1 'the heart of man is the beak (nose) of God'; W6 B.12 reads 'a gift of God'"}
+    hints:
+      - "Prov 25:9-10 (do not reveal another's secret); Prov 20:27 ('the spirit of man is the lamp of YHWH'); Prov 4:23."
+  - id: ane-amenemope-w1-ch25-do-not-mock-the-blind
+    tradition: ane-egyptian
+    title: "Chapter 25: do not laugh at the blind, mock the dwarf, harm the lame; man is clay and straw, God his builder (Amenemope 24.8-24.20)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:24.8-24.19"]
+    tags:
+      - {motif: no-stumbling-block-before-blind, refs: ["Amenemope W1:24.9-24.12"], note: "m-jri̯ sbi̯ r bl,ꜣ ... do not laugh at a blind man, nor tease a dwarf, nor injure the lame; do not tease a man in the hand of God"}
+      - {motif: mocking-poor-insults-maker, refs: ["Amenemope W1:24.9-24.14"]}
+      - {motif: man-is-clay-and-straw-god-the-builder, refs: ["Amenemope W1:24.13-24.14"], note: "jr pꜣ rmṯ ꜥmꜥ ḏꜣjs pꜣ nṯr pꜣ jqd =f: man is clay and straw, God is his builder"}
+      - {motif: god-tears-down-and-builds-daily, refs: ["Amenemope W1:24.15-24.17"], note: "he tears down and builds every day; he makes a thousand poor as he wishes, a thousand men overseers"}
+      - {motif: poor-raised-from-dunghill-to-princes, refs: ["Amenemope W1:24.16-24.17"]}
+      - {motif: happy-who-reaches-the-west-safe, refs: ["Amenemope W1:24.19"]}
+    hints:
+      - "Lev 19:14 ('do not curse the deaf nor put a stumbling block before the blind'); Deut 27:18; Prov 17:5."
+      - "Man as clay: Job 4:19; 10:9; 33:6; Isa 64:7; Gen 2:7. God brings low and raises: 1Sam 2:6-8; Ps 75:8; 113:7-8; Eccl 3:3; Jer 1:10."
+  - id: ane-amenemope-w1-ch26-respect-elders
+    tradition: ane-egyptian
+    title: "Chapter 26: do not sit in the beer-house with a greater man; befriend your equal; give your hand to an old man full of beer (Amenemope 24.21-25.15)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:24.21-25.14"]
+    tags:
+      - {motif: do-not-sit-with-drinkers-of-wine, refs: ["Amenemope W1:24.22"], note: "do not sit in a beer-house"}
+      - {motif: honour-the-aged-and-great, refs: ["Amenemope W1:25.6-25.9"]}
+      - {motif: son-holds-drunken-fathers-hand, refs: ["Amenemope W1:25.8"], note: "reach your hand to an old man sated with beer"}
+      - {motif: pilot-who-looks-ahead, refs: ["Amenemope W1:25.14"]}
+    hints:
+      - "Prov 23:20-21 ('be not among winebibbers'); Lev 19:32; Isa 51:17-18 (no one to take her hand); Prov 25:6-7 (do not claim a place among the great)."
+  - id: ane-amenemope-w1-ch27-do-not-curse-elder
+    tradition: ane-egyptian
+    title: "Chapter 27: do not revile one older than you, for he saw Re before you; let him beat you while your hand is in your lap (Amenemope 25.16-26.7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:25.16-26.6"]
+    tags:
+      - {motif: do-not-curse-elder, refs: ["Amenemope W1:25.17-25.21"], note: "do not revile one greater than you, for he has seen Re before you; lest he report you to the Aten at its rising"}
+      - {motif: endure-insult-silently, refs: ["Amenemope W1:26.2-26.4"], note: "let him beat you while your hand is in your lap, let him revile you while you keep silent"}
+      - {motif: dog-does-not-bark-at-master, refs: ["Amenemope W1:26.6"]}
+    hints:
+      - "Lev 19:32; Exod 21:17; Prov 20:20; 30:11, 17. Silence under abuse: Isa 50:6; 53:7; Lam 3:30; Matt 5:39."
+  - id: ane-amenemope-w1-ch28-widow-and-stranger
+    tradition: ane-egyptian
+    title: "Chapter 28: do not pounce on a widow gleaning in the field; do not pass the stranger with your oil-jar; God loves him who honours the poor (Amenemope 26.8-26.14)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:26.8-26.13"]
+    tags:
+      - {motif: gleanings-for-poor, refs: ["Amenemope W1:26.9"], note: "do not pounce on a widow when you find her in the field, do not fail to be patient with her"}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["Amenemope W1:26.9-26.13"], note: "do not pass by a stranger with your oil jar, double it before your brothers; God loves him who honours the poor more than him who respects the noble"}
+      - {motif: god-loves-who-honours-poor, refs: ["Amenemope W1:26.13"]}
+    hints:
+      - "Deut 24:19-21; Ruth 2:2-16 (Boaz and the gleaning widow); Deut 10:18-19; Prov 14:31; 19:17; Jas 2:5."
+  - id: ane-amenemope-w1-ch29-ferry
+    tradition: ane-egyptian
+    title: "Chapter 29: do not stop anyone crossing the river; take fare from the rich, waive it for the poor (Amenemope 26.15-27.5)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:26.15-27.4"]
+    tags:
+      - {motif: ferry-the-poor-free, refs: ["Amenemope W1:26.16-27.4"], note: "do not hinder a man from crossing the river ... take the fare from the wealthy, let pass him who has nothing"}
+      - {motif: help-the-drowning-grasp-the-oar, refs: ["Amenemope W1:26.18"]}
+    hints:
+      - "Prov 3:27-28 ('withhold not good from those to whom it is due'); Deut 15:7-8; Q 2:177 (giving to the wayfarer)."
+  - id: ane-amenemope-w1-ch30-thirty-chapters
+    tradition: ane-egyptian
+    title: "Chapter 30: 'see these thirty chapters' - they entertain and instruct; colophon (Amenemope 27.6-28.1)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBM EA 10474"
+    read: ["Amenemope W1:27.6-28.1"]
+    tags:
+      - {motif: thirty-sayings-of-the-wise, refs: ["Amenemope W1:27.7-27.10"], note: "ptr n =k tꜣj 30 n ḥw,t st sḏm st sbꜣ: look at these thirty chapters: they entertain, they instruct, they are the foremost of all books"}
+      - {motif: skilled-scribe-stands-before-kings, refs: ["Amenemope W1:27.16"], note: "a scribe skilled in his office will find himself worthy of being a courtier"}
+      - {motif: teaching-makes-ignorant-wise, refs: ["Amenemope W1:27.10-27.13"]}
+      - {motif: priestly-lineage-in-colophon, refs: ["Amenemope W1:28.1"], note: "in the hand of Senu son of the god's father Pamiu"}
+    hints:
+      - "Prov 22:20 ('Have I not written for you thirty sayings (shilshom, read sheloshim) of counsel and knowledge'); Prov 22:29 ('a man skilled in his work will stand before kings'); Prov 1:4."
+  - id: ane-amenemope-w2-louvre-tablet
+    tradition: ane-egyptian
+    title: Louvre writing board - titles of the son with daily dates (Amenemope W2, = 2.15-18)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tLouvre E 17173"
+    read: ["Amenemope W2"]
+    tags:
+      - {motif: school-copy-with-daily-dates, refs: ["Amenemope W2:2", "Amenemope W2:4", "Amenemope W2:6", "Amenemope W2:8"], note: "sw 22 Ḥr-zꜣ-ꜣs,t ... last day: a pupil's exercise dated by days with pupils' names"}
+      - {motif: father-instructs-youngest-son, refs: ["Amenemope W2:1-3", "Amenemope W2:5-7"], note: "the son's titles: initiate of Min-Kamutef, water-pourer of Onnophris, who installs Horus on his father's throne"}
+    hints:
+      - "Evidence that the text was copied in school; compare Deut 6:7 and Prov 22:6 on teaching."
+  - id: ane-amenemope-w3-cairo-ostracon
+    tradition: ane-egyptian
+    title: Cairo ostracon - chapters 1-2 in a variant copy (Amenemope W3, = 3.11-4.10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "oKairo SR 1840"
+    read: ["Amenemope W3"]
+    tags:
+      - {motif: sayings-kept-in-belly, refs: ["Amenemope W3:A.3-A.4"]}
+      - {motif: teaching-a-storehouse-for-life, refs: ["Amenemope W3:A.5"], note: "variant: 'my words as well-being and life'"}
+      - {motif: do-not-rob-poor-at-gate, refs: ["Amenemope W3:A.6"], note: "variant: a furious one (?) and a guard (?) for 'the wretched' and 'the broken-armed'"}
+      - {motif: honour-the-aged-and-great, refs: ["Amenemope W3:A.6/2"]}
+    hints:
+      - "Parallels W1 3.8-4.11; see Prov 22:17-22."
+  - id: ane-amenemope-w4-moscow-tablet
+    tradition: ane-egyptian
+    title: Moscow writing board - chapters 4-5 (Amenemope W4, = 6.10-7.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tMoskau I.1.d.324"
+    read: ["Amenemope W4"]
+    tags:
+      - {motif: righteous-as-tree-by-water, refs: ["Amenemope W4:Rekto_1-Rekto_2"]}
+      - {motif: do-not-embezzle-temple-share, refs: ["Amenemope W4:Rekto_3-Rekto_4"]}
+      - {motif: carousers-say-tomorrow-like-today, refs: ["Amenemope W4:Verso_1-Verso_2"]}
+    hints:
+      - "Parallels W1 6.10-7.1; Ps 1:3; Isa 56:12."
+  - id: ane-amenemope-w5-stockholm-papyrus
+    tradition: ane-egyptian
+    title: Stockholm papyrus - chapters 8-11 (Amenemope W5, = 10.18-14.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pStockholm MM 18416"
+    read: ["Amenemope W5"]
+    tags:
+      - {motif: god-repels-chaos-serpent-from-sun-barque, refs: ["Amenemope W5:Rekto_x+1.1/2"]}
+      - {motif: do-not-befriend-hothead, refs: ["Amenemope W5:x+1.14-x+2.9/3"], note: "variant: 'he goes before every wind like a sickness' for W1 'like a cloud'"}
+      - {motif: potter-god-fashions-hearts, refs: ["Amenemope W5:x+2.3/2-x+2.4"]}
+      - {motif: heart-and-tongue-must-agree, refs: ["Amenemope W5:x+2.13/2"]}
+      - {motif: abomination-of-god-formula, refs: ["Amenemope W5:x+2.13", "Amenemope W5:x+2.16"], note: "variant: 'the greatest taboo' (bw,t)"}
+    hints:
+      - "Parallels W1 10.18-14.5; Prov 22:24-25; 26:24-26."
+  - id: ane-amenemope-w6-turin-tablet
+    tradition: ane-egyptian
+    title: Turin writing board - chapters 24-26 with day-dates (Amenemope W6, = 24.1-25.9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tTurin CGT 58005"
+    read: ["Amenemope W6"]
+    tags:
+      - {motif: heart-of-man-is-gods-gift, refs: ["Amenemope W6:B.12"], note: "W6 reads 'the heart of a man is a gift of God' where W1 has 'the beak of God'"}
+      - {motif: no-stumbling-block-before-blind, refs: ["Amenemope W6:A.3-A.6"]}
+      - {motif: man-is-clay-and-straw-god-the-builder, refs: ["Amenemope W6:A.8-A.9"]}
+      - {motif: god-tears-down-and-builds-daily, refs: ["Amenemope W6:A.10-A.12"]}
+      - {motif: school-copy-with-daily-dates, refs: ["Amenemope W6:B.13/2", "Amenemope W6:A.8/2", "Amenemope W6:A.11/2", "Amenemope W6:A.13"], note: "'day 4', 'day 8', 'day 10', 'day 12' ... marked between sentences"}
+    hints:
+      - "Parallels W1 23.21-25.9; Lev 19:14; Job 10:9; 1Sam 2:6-8."
+  - id: ane-atenhymn-sunrise-and-titles
+    tradition: ane-egyptian
+    title: Great Hymn to the Aten - titulary of the Aten, Akhenaten and Nefertiti; the sun rises beautiful in the horizon (AtenHymn 1-3/1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tomb of Ay, Amarna"
+    read: ["AtenHymn 1-3"]
+    tags:
+      - {motif: sun-god-lord-of-heaven-and-earth, refs: ["AtenHymn 1"], note: "nb-šnn,t-nb-Jtn nb-p,t nb-tꜣ: lord of all that the sun disc encircles, lord of heaven, lord of earth"}
+      - {motif: royal-couple-in-hymn-to-god, refs: ["AtenHymn 1/2-1/3"], note: "Neferkheperure-Waenre, Akhenaten, and the great royal wife Nefernefruaten-Nefertiti"}
+      - {motif: king-lives-on-maat, refs: ["AtenHymn 1/2"], note: "ꜥnḫ-m-Mꜣꜥ,t: living on Maat"}
+      - {motif: god-rises-and-fills-land-with-beauty, refs: ["AtenHymn 2/2-2/5"], note: "ḫꜥi̯ =k nfr m ꜣḫ,t n,t p,t pꜣ Jtn ꜥnḫ šꜣꜥ ꜥnḫ ... mḥ.n =k tꜣ nb m nfr,w =k: you appear beautiful in the horizon of heaven, living Aten, beginner of life ... you fill every land with your beauty"}
+      - {motif: suns-rays-embrace-all-lands, refs: ["AtenHymn 2/5", "AtenHymn 3"], note: "stw,t =k jnḥ =sn tꜣ.w r rʾ-ꜥ jri̯.t.n =k nb: your rays encompass the lands to the limit of all you have made"}
+    hints:
+      - "Ps 104:1-2 ('clothed with honour and majesty, wrapped in light as a garment'); Ps 19:5-7 (the sun's circuit from end to end of heaven, nothing hidden from its heat); Mal 3:20."
+  - id: ane-atenhymn-night
+    tradition: ane-egyptian
+    title: "Great Hymn to the Aten - night: the land in darkness as in death; lions leave their dens, serpents bite (AtenHymn 3/2-4/3)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tomb of Ay, Amarna"
+    read: ["AtenHymn 3/2-4/3"]
+    tags:
+      - {motif: god-far-yet-rays-on-earth, refs: ["AtenHymn 3/2-3/3"], note: "jw =k wꜣi̯.tj stw,t =k ḥr tꜣ ... bw rḫ =tw šm,t =k: you are far, yet your rays are on earth; you are in their faces, yet your course is unknown"}
+      - {motif: night-as-state-of-death, refs: ["AtenHymn 3/4-3/7"], note: "ḥtp =k m ꜣḫ,t jmn,t.t tꜣ m kk m sḫr n m(w)t: when you set in the western horizon the land is in darkness, in the manner of death; sleepers with covered heads, one eye does not see the other, their goods stolen from under their heads unnoticed"}
+      - {motif: night-beasts-day-workers, refs: ["AtenHymn 4-4/3"], note: "mꜣj nb pri̯ m rwrw,t =f ḏdf,t nb psḥ =sn kk ... tꜣ m sgr: every lion comes out of its den, every serpent bites; darkness is a shroud, the land in silence, for he who made them rests in his horizon"}
+      - {motif: thief-in-the-night, refs: ["AtenHymn 3/7"]}
+    hints:
+      - "Ps 104:20-21 ('you make darkness and it is night, wherein all the beasts of the forest creep forth; the young lions roar after their prey'); the closest of the Psalm 104 parallels. Job 24:13-17 (thieves and murderers love the dark); 1Thess 5:2."
+      - "Night as image of death: Ps 88:13; Job 10:21-22."
+  - id: ane-atenhymn-day
+    tradition: ane-egyptian
+    title: "Great Hymn to the Aten - day: people wake and work, cattle graze, birds praise, ships sail, fish leap (AtenHymn 4/4-6/2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tomb of Ay, Amarna"
+    read: ["AtenHymn 4/4-6/2"]
+    tags:
+      - {motif: night-beasts-day-workers, refs: ["AtenHymn 4/4-5"], note: "ḥḏ tꜣ wbn.tj ... rwi̯ =k kk ... ḥnmm,t rs ꜥḥꜥ ḥr rd.wj ... tꜣ r-ḏr =f jri̯ =sn kꜣ,t =sn: the land brightens when you rise ... you drive away darkness ... mankind wakes and stands on its feet ... the whole land does its work"}
+      - {motif: people-sleep-and-rise-with-the-sun, refs: ["AtenHymn 4/6-4/7"]}
+      - {motif: arms-raised-in-praise-at-sunrise, refs: ["AtenHymn 4/7", "AtenHymn 5/5"], note: "ꜥ.du =sn m jꜣ,w n ḫꜥꜥ =k ... dnḥ.w =sn m jꜣ,w n kꜣ =k: their arms in praise at your appearing ... the birds' wings in praise of your ka"}
+      - {motif: cattle-content-with-pasture-trees-flourish, refs: ["AtenHymn 5/2-5/3"], note: "jꜣ,t nb ḥtp ḥr sm =sn šn.w sm ḥr ꜣḫꜣḫ: all cattle are content with their pasture, trees and plants flourish"}
+      - {motif: birds-in-flight-know-their-prayer, refs: ["AtenHymn 5/4-5/5"], note: "the birds fly from their nests, their wings praising your ka"}
+      - {motif: ships-on-the-sea, refs: ["AtenHymn 6"], note: "ꜥḥꜥ.w m ḫdi̯ ḫnti̯ ...: ships sail north and south, every way is open at your appearing"}
+      - {motif: fish-leap-rays-in-the-sea, refs: ["AtenHymn 6/2"], note: "rm.w ḥr jtr,w ḥr tfi̯.t n-ḥr =k stw,t =k m-ẖnw wꜣḏ-wr: the fish in the river leap before you, your rays are inside the sea (Great Green)"}
+    hints:
+      - "Ps 104:22-23 ('the sun rises, they slink away ... man goes out to his work and to his labour until evening'); 104:14 (grass for cattle); 104:12, 17 (birds nesting and singing); 104:25-26 ('the sea, great and wide ... there go the ships'). Ps 148:7-10; Q 24:41 (birds in flight know their prayer)."
+  - id: ane-atenhymn-creation-in-womb-and-egg
+    tradition: ane-egyptian
+    title: "Great Hymn to the Aten - the god makes seed grow in women, nurses the child in the womb, gives breath to the chick in the egg; 'O sole god, there is no other' (AtenHymn 6/3-7/7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tomb of Ay, Amarna"
+    read: ["AtenHymn 6/3-7/7"]
+    tags:
+      - {motif: knit-together-in-mothers-womb, refs: ["AtenHymn 6/3-6/5"], note: "sḫpr mꜣy m ḥm,wt jri̯ mw m rmṯ sꜥnḫ zꜣ m ẖ,t n mw,t =f ... mnꜥ,t m ẖ,t: who makes seed grow in women, makes fluid into people, keeps the son alive in his mother's womb, soothes him so he does not weep, nurse in the womb"}
+      - {motif: god-gives-breath-to-all-he-made, refs: ["AtenHymn 6/5", "AtenHymn 7/2"], note: "ḏi̯ ṯꜣw r sꜥnḫ jri̯.t =f nb: who gives breath to keep alive all he has made"}
+      - {motif: god-opens-newborns-mouth, refs: ["AtenHymn 7"], note: "when he descends from the womb to breathe on the day of his birth you open his mouth fully and supply his needs"}
+      - {motif: chick-in-egg-given-breath, refs: ["AtenHymn 7/2-7/5"], note: "the chick in the egg speaks in the shell; you give it breath inside to keep it alive; you set its term to break the egg; it walks on its legs when it comes out"}
+      - {motif: how-manifold-are-your-works, refs: ["AtenHymn 7/6"], note: "ꜥšꜣ.wj sn jri̯.y =k: how many are the things you have made, though hidden from sight"}
+      - {motif: strict-monotheism-none-besides, refs: ["AtenHymn 7/7"], note: "pꜣ nṯr wꜥ,tj nn ky ḥr-ḫw =f: O sole god, there is no other beside him"}
+    hints:
+      - "Ps 139:13-16 (knit in the mother's womb); Job 10:10-12 ('did you not pour me out like milk'); Ps 22:10-11; Jer 1:5; Q 23:12-14 (sperm-drop, clot, bones clothed with flesh); Q 39:6 ('in the wombs of your mothers, creation after creation, in three darknesses')."
+      - "Ps 104:24 ('How manifold are your works, O YHWH! In wisdom you made them all'); Ps 104:29-30 (breath withdrawn/sent: breath-withdrawn-return-to-dust)."
+      - "'I am YHWH and there is no other, besides me there is no god': Isa 45:5-7, 18, 21-22; Deut 4:35, 39; 32:39; Q 112:1-4; Q 2:163; Q 28:70."
+  - id: ane-atenhymn-creation-of-world-and-nations
+    tradition: ane-egyptian
+    title: "Great Hymn to the Aten - creation alone according to his heart; Syria, Kush and Egypt each in its place, tongues and skins distinguished; the Nile below and the Nile in the sky (AtenHymn 8-10/6)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tomb of Ay, Amarna"
+    read: ["AtenHymn 8-10/6"]
+    tags:
+      - {motif: god-alone-created-earth-by-his-will, refs: ["AtenHymn 8"], note: "qmꜣ =k tꜣ n jb =k jw =k wꜥi̯.tj: you created the earth according to your heart when you were alone - people, cattle, all that walks on feet and all that flies with wings"}
+      - {motif: universal-god-cares-for-foreign-lands, refs: ["AtenHymn 8/2-8/3", "AtenHymn 9/7"], note: "ḫꜣs,wt Ḫr Kš tꜣ n Km,t: the foreign lands, Syria and Kush, the land of Egypt; you set every man in his place and make his needs"}
+      - {motif: diversity-of-languages-and-colors-as-sign, refs: ["AtenHymn 8/4-9"], note: "ns.w wp m md,t qd =sn m-mj,tt jnm =sn stni̯.w: tongues are separated in speech, their natures likewise, their skins distinguished, for you distinguished the peoples"}
+      - {motif: god-fixes-each-ones-lifetime, refs: ["AtenHymn 8/3"], note: "ḥsb =k ꜥḥꜥ,w =f: you reckon his lifetime"}
+      - {motif: nile-from-underworld-rain-a-nile-in-sky, refs: ["AtenHymn 9/2-9/8", "AtenHymn 10/2-10/3"], note: "jri̯ =k ḥꜥpj m dwꜣ,t ... ḏi̯.n =k ḥꜥpj m p,t hꜣi̯.y =f n =sn jri̯ =f hꜣnw ḥr ḏw.w mj wꜣḏ-wr: you made the Nile in the underworld for Egypt, and a Nile in the sky for the foreigners, that descends for them and makes waves on the mountains like the sea, to water their fields"}
+      - {motif: waters-from-above-and-below, refs: ["AtenHymn 9/2", "AtenHymn 9/8"]}
+      - {motif: how-manifold-are-your-works, refs: ["AtenHymn 10"], note: "smnḫ.wj sj sḫr.w =k pꜣ nb-nḥḥ: how excellent are your plans, lord of eternity!"}
+      - {motif: suns-rays-nourish-plants-seasons-made, refs: ["AtenHymn 10/4-10/6"], note: "your rays nurse every field ... you made the seasons, winter to cool them, heat that they may taste you"}
+      - {motif: all-creatures-wait-for-food, refs: ["AtenHymn 8/3", "AtenHymn 9/3"], note: "jri̯ =k ẖr,t =sn wꜥ nb ẖr wnm =f: you provide their needs, everyone has his food"}
+    hints:
+      - "Ps 104:10-13 (springs in the valleys; he waters the mountains from his upper chambers); 104:27-28 (all wait for you to give them food in season); 104:19 (moon for seasons); Gen 8:22."
+      - "Gen 10:5, 31 (nations by their tongues); Gen 11:1-9; Acts 17:26 ('made from one every nation ... fixing their boundaries'); Q 30:22 ('the diversity of your tongues and colours'); Q 49:13."
+      - "Rain as heaven's watering in contrast with Egypt's river: Deut 11:10-12. Days numbered by God: Ps 139:16; Job 14:5."
+  - id: ane-atenhymn-sole-knower-king
+    tradition: ane-egyptian
+    title: "Great Hymn to the Aten - the sky made to behold creation; millions of forms from the one; 'you are in my heart, none knows you but your son' Akhenaten (AtenHymn 11-13/4)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "tomb of Ay, Amarna"
+    read: ["AtenHymn 11-13/4"]
+    tags:
+      - {motif: one-god-makes-millions-of-forms, refs: ["AtenHymn 11/2-11/4"], note: "jw =k wꜥi̯.tj ... jri̯ =k ḥḥ.w n ḫpr.w jm =k wꜥi̯.tj: you are one, risen in your form as living Aten ... you made millions of forms from yourself alone - cities, towns, fields, roads and river"}
+      - {motif: god-near-and-far-fills-heaven-and-earth, refs: ["AtenHymn 11/3"], note: "wꜣi̯.tj ẖn.tj: far and near"}
+      - {motif: every-eye-sees-the-god-by-day, refs: ["AtenHymn 11/5", "AtenHymn 12/7"]}
+      - {motif: creatures-live-at-his-rising-die-at-his-setting, refs: ["AtenHymn 12/5-12/6"], note: "wbn.n =k ꜥnḫ =sn ḥtp =k m(w)t =sn ntk ꜥḥꜥ,w r-ḥꜥ,w =k: when you rise they live, when you set they die; you are lifetime itself, one lives by you"}
+      - {motif: breath-withdrawn-return-to-dust, refs: ["AtenHymn 12/5"]}
+      - {motif: king-sole-knower-of-god, refs: ["AtenHymn 12/2-12/3"], note: "jw =k m jb =j nn-wn ky rḫ tw wp(w)-ḥr zꜣ =k Nfr-ḫpr,w-Rꜥ-wꜥ-n-Rꜥ: you are in my heart; there is no other who knows you except your son Neferkheperure-Waenre, whom you make wise in your plans and your might"}
+      - {motif: king-son-of-sun-god, refs: ["AtenHymn 12/3", "AtenHymn 13/4"], note: "zꜣ =k pri̯ m ḥꜥ,w =k: your son who came forth from your body"}
+      - {motif: work-ceases-at-sunset, refs: ["AtenHymn 13"], note: "wꜣḥ =tw kꜣ,t nb ḥtp =k ḥr wnm,j: all work is laid down when you set in the west"}
+    hints:
+      - "Ps 104:29-30 ('you hide your face, they are dismayed; you take away their breath, they die ... you send forth your spirit, they are created'); Job 34:14-15; Q 3:27; 10:31."
+      - "Matt 11:27 ('no one knows the Father except the Son'); Ps 2:7; John 1:18. God near and far: Jer 23:23; Ps 139:7-12."
+      - "Ps 104:31-35 ends in the psalmist's personal praise, as this hymn ends in the king's: compare 'you are in my heart'."

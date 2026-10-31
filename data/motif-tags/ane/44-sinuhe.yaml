@@ -99,6 +99,9 @@ new_motifs:
   king-judges-wife-before-officials: {label: "On becoming king, the hero has his wife brought, pleads against her before the great officials, tells all that happened, and they agree to her condemnation", cluster: justice}
   loyal-brother-made-successor: {label: "The king makes his loyal brother crown prince; after reigning thirty years he dies and the brother succeeds him", cluster: kingship}
   colophon-curse-on-critic-of-book: {label: "Colophon: whoever speaks against this book, Thoth (the scribe god) will be his adversary", cluster: scribal}
+  two-brothers-of-one-father-and-mother: {label: "A tale opens with two brothers 'of one mother and one father', the elder a householder, the younger his helper", cluster: family}
+  hero-flees-brother-who-seeks-to-kill-him: {label: "The hero runs away from his own brother, who pursues him to kill him", cluster: family}
+  accused-hero-gives-his-own-account: {label: "The falsely accused hero tells the husband his own account: it was she who propositioned him and she has twisted the story", cluster: joseph}
   # --- Westcar ---
   kings-sons-tell-wonders-of-old: {label: "The king's sons rise one after another to tell the king a wonder (bjꜣ,yt) worked by a magician-priest in the days of a former king", cluster: narrative-form}
   offerings-for-dead-king-and-his-magician: {label: "After each wonder tale the king orders offerings (a thousand loaves, a hundred jars of beer, an ox, incense) for the dead king and his magician: 'I have seen his deed of knowledge'", cluster: cult}
@@ -604,3 +607,321 @@ units:
       - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W10:1.13-2.1"]}
       - {motif: fugitive-slips-past-border-fortress, refs: ["Sinuhe W10:2.5-2.7"], note: "Jnb.w-jt =j 'the Walls of my Father'"}
       - {motif: eulogy-of-king-to-foreign-ruler, refs: ["Sinuhe W10:3.x+1-3.x+5"]}
+  # ===================== Tale of the Two Brothers (pD'Orbiney) =====================
+  - id: ane-twobrothers-brothers-and-herds
+    tradition: ane-egyptian
+    title: "Two Brothers: Anubis and Bata; the younger brother as son and servant of the household; the talking cattle; ploughing"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney (BM EA 10183), Late Egyptian, 19th Dynasty (scribe Inena)"
+    read: ["TwoBrothers 1_1-2_6"]
+    tags:
+      - {motif: two-brothers-of-one-father-and-mother, refs: ["TwoBrothers 1_1"], note: "sn 2 n wꜥ mw,t n wꜥ jt Jnp,w rn n pꜣ ꜥꜣ jw Bꜣtꜣ rn n pꜣ šrjw 'two brothers of one mother and one father: Anubis the name of the elder, Bata the name of the younger'"}
+      - {motif: younger-brother-raised-as-son, refs: ["TwoBrothers 1_1/2-1_3"], note: "pꜣy =f sn šrjw m-ḏi̯ =f mj-sḫr,w-n šrjw jw mntwf j:jri̯ n =f ḥbs.w 'his younger brother was with him like a son; it was he who made his clothes', went behind his cattle, ploughed, harvested and did all the field work"}
+      - {motif: hero-beautiful, refs: ["TwoBrothers 1_3/2-1_4"], note: "pꜣy =f sn šrjw m ꜥḥꜣ,wtj nfr nn-wn mj-qd =f m pꜣ tꜣ r-ḏr =f 'his younger brother was a fine (nfr: good / handsome) young man; there was none like him in the whole land'"}
+      - {motif: divine-favor-in-servitude, refs: ["TwoBrothers 1_4/2", "TwoBrothers 2_1-2_1/2"], note: "js wn pḥ,tj n nṯr jm =f 'the strength of a god was in him'; the cattle in his charge became very fine and multiplied their calves. Bata is a younger brother serving the household, not a slave: interpretive"}
+      - {motif: herd-multiplies-under-heros-care, refs: ["TwoBrothers 2_1-2_1/2"]}
+      - {motif: cattle-tell-herdsman-where-pasture-good, refs: ["TwoBrothers 1_10"], note: "jw =sn ḥr ḏd n =f nfr pꜣ stjmw n s,t ḥmn.t mtw =f sḏm pꜣ ḏd =sn nb 'they would say to him: the grass of such a place is good, and he heard all they said'"}
+      - {motif: speaking-animal-ox, refs: ["TwoBrothers 1_10"]}
+    hints:
+      - "Two sons of one father and mother, one a herdsman: compare Cain and Abel (Gen 4:1-2) and Jacob and Esau (Gen 25:24-27)."
+      - "'The strength of a god was in him' and the herds thriving under him: compare Gen 39:2-6 (YHWH with Joseph, the blessing on Potiphar's house and field) and Gen 41:38 ('a man in whom is the spirit of God'); Jacob's herding for Laban (Gen 30:29-30, 43; 31:38-40)."
+      - "Joseph as handsome (Gen 39:6, yefeh-toʾar) and the beauty of Joseph in Q 12:31."
+      - "Talking animals: Balaam's ass (Num 22:28-30) and Solomon understanding the ant (Q 27:18-19)."
+  - id: ane-twobrothers-seduction-attempt
+    tradition: ane-egyptian
+    title: "Two Brothers: sent home for seed, Bata is propositioned by his elder brother's wife and refuses"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 2_7-4_2/4"]
+    tags:
+      - {motif: masters-wife-seduces, refs: ["TwoBrothers 3_5-3_7/5"], note: "wn pḥ,tj ꜥꜣ jm =k ... jw jb =st r rḫ =f m rḫ n ꜥḥꜣ,wtj 'there is great strength in you, I see your strength every day' -- she wished 'to know him as one knows a man'; jw =st ḥr mḥ jm =f 'she seized him'; mꜥ~j jry =n n =n wnw,t sḏr =n 'come, let us spend an hour lying together'. The woman is the wife of his elder brother, who is 'like a father' to him"}
+      - {motif: hero-beautiful, refs: ["TwoBrothers 3_5"], note: "The woman is drawn by his strength (pḥ,tj ꜥꜣ), seen daily as he carries five sacks of grain on his shoulder (3_4/5)"}
+      - {motif: seducer-offers-fine-clothes, refs: ["TwoBrothers 3_7/4-3_7/5"], note: "ꜣḫ n =k pꜣj kꜣ jry =j n =k ḥbs.w nfr.w 'it will be good for you: I will make you fine clothes'"}
+      - {motif: alone-in-house, refs: ["TwoBrothers 2_9/2-3_2"], note: "Anubis is in the field; Bata finds her at home having her hair done (jw =tw ḥmsi̯ ḥr nbd =st), and she sends him alone to the storeroom; the proposition comes when he returns laden"}
+      - {motif: refusal-of-seduction, refs: ["TwoBrothers 3_8-4_1/3"]}
+      - {motif: enraged-like-leopard, refs: ["TwoBrothers 3_8"], note: "wn.jn pꜣ ꜥḏd,w ḥr ḫpr mj ꜣb,w-šmꜥ m qnd,t ḥr pꜣ smy bjn 'the youth became like a leopard in fury at the wicked speech', and she was very afraid"}
+      - {motif: hero-likens-seducer-to-mother, refs: ["TwoBrothers 3_9/2-3_10/3"], note: "tw≡t m-ḏi̯ =j m sḫr,w n mw,t ḫr pꜣy =t hꜣy m-ḏi̯ =j m sḫr,w n jt ḫr pꜣ ꜥꜣ r =j mntwf sḫpr wj jḫ pꜣj btꜣ,w ꜥꜣ j:ḏd =t n =j 'you are like a mother to me, your husband like a father; he who is older than I raised me. What is this great crime (btꜣ,w ꜥꜣ) you have said to me?'"}
+      - {motif: hero-refuses-citing-master-and-god, refs: ["TwoBrothers 3_10-3_10/2"], note: "Partial: Bata cites his loyalty to his elder brother who raised him, but no god; the 'great crime' (btꜣ,w ꜥꜣ) matches Gen 39:9 'this great evil' (hā-rāʿāh ha-gdolah) though without 'sin against God'"}
+      - {motif: hero-promises-silence-about-seduction, refs: ["TwoBrothers 4_1-4_1/3"], note: "m-jri̯ ḏd.ṱ =f n =j ꜥn ḫr nn jw =j r ḏd.ṱ =f n wꜥ 'do not say it to me again, and I will not tell it to anyone'"}
+    hints:
+      - "The seduction of Joseph by his master's wife (Gen 39:7-12): 'lie with me' (39:7, 12; Bata's sḏr =n), seized (39:12, wa-titpeśehu; 3_7 mḥ jm =f), the refusal citing the master's trust (39:8-9) and 'this great wickedness' (39:9; btꜣ,w ꜥꜣ), the day-to-day contact of the household (39:10-11)."
+      - "Q 12:23: she sought to seduce him, closed the doors and said 'come' (hayta laka; compare mꜥ~j 'come!'); he said 'God forbid: he is my lord who made my lodging good'. Q 12:24: she desired him and he would have desired her but for the proof of his Lord."
+      - "Unlike Gen 39:12 and Q 12:25, no garment is torn or left behind; instead the woman promises to make him garments (3_7/5). Compare also Prov 7:10-23 (the seductress)."
+  - id: ane-twobrothers-false-accusation
+    tradition: ane-egyptian
+    title: "Two Brothers: the wife fakes a beating and accuses Bata to her husband"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 4_3-5_3/4"]
+    tags:
+      - {motif: false-accusation-by-wife, refs: ["TwoBrothers 4_6/2-4_7", "TwoBrothers 4_10/4-5_3/2"], note: "m pꜣy =k sn šrj j:jri̯ qnqn 'it was your younger brother who beat me'; bw-pw wꜥ md.t m-ḏi̯ =j ḥr,w pꜣy =k sn šrj 'no one quarrelled with me but your younger brother'"}
+      - {motif: accuser-feigns-beating, refs: ["TwoBrothers 4_5-4_6/2", "TwoBrothers 4_8/2-4_8/3"], note: "jni̯ ꜥd,w pd~jrʾ 'she took fat and a bandage' and made herself like one beaten (qnqn.tj n ꜥḏꜣ,w); she lies 'falsely sick' (mḥr.tj n ꜥḏꜣ,w), pours no water on his hands, has lit no lamp, the house is in darkness, she is vomiting"}
+      - {motif: accuser-puts-her-words-in-heros-mouth, refs: ["TwoBrothers 5_1-5_2/4"], note: "mꜥ~j jry =n wnw,t sḏr =n wnḫ =t pꜣy =t nbd 'come, let us spend an hour lying together; loosen your braids'; and her own feigned refusal: js bn jnk tꜣy =k mw,t ḫr pꜣy =k sn ꜥꜣ m-ḏi̯ =k m sḫr,w n jt 'am I not your mother, is not your elder brother like a father to you?'"}
+      - {motif: alone-in-house, refs: ["TwoBrothers 5_1"], note: "In her lie: jw =f ḥr gmi̯ =j ḥmsi̯.kwj wꜥi̯ =j 'he found me sitting alone'"}
+      - {motif: accuser-threatens-suicide-unless-hero-killed, refs: ["TwoBrothers 5_3/3"], note: "jr ḏi̯ =k ꜥnḫ =f jw =j r mt n =j 'if you let him live, I will kill myself'"}
+    hints:
+      - "Potiphar's wife's accusation (Gen 39:13-18): she reverses roles, calls the household and her husband and claims 'he came to lie with me' (39:14, 17); here too the woman quotes her own proposition as his."
+      - "Q 12:25: at the door she says to her husband 'what is the recompense of one who intended evil for your wife but prison or a painful punishment?'; Q 12:26-28 the witness and the torn shirt test, which the Egyptian tale lacks (the husband believes her)."
+      - "Feigned sickness as a ruse: compare Amnon (2 Sam 13:5-6) and Rachel on the camel saddle (Gen 31:35)."
+  - id: ane-twobrothers-rage-and-flight
+    tradition: ane-egyptian
+    title: "Two Brothers: Anubis' rage and ambush; the cows warn Bata, who flees"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 5_4-6_3/3"]
+    tags:
+      - {motif: enraged-like-leopard, refs: ["TwoBrothers 5_4"], note: "wn.jn pꜣy =f sn ꜥꜣ ḥr ḫpr mj ꜣbw-šmꜥ 'his elder brother became like a leopard'; the same simile used of Bata's anger at 3_8"}
+      - {motif: husband-lies-in-wait-to-kill-hero, refs: ["TwoBrothers 5_5-5_5/3"], note: "He has his spear sharpened and stands behind the stable door r ẖdb pꜣy =f sn šrj 'to kill his younger brother'"}
+      - {motif: speaking-cow-warns-of-ambush, refs: ["TwoBrothers 5_8-6_1"], note: "m =kw pꜣy =k sn ꜥꜣ ꜥḥꜥ r-ḥꜣ,t.ṱ =k ẖr,j pꜣy =f njw,y r ẖdb =k rwj =k tw r-ḥꜣ,t =f 'see, your elder brother stands before you with his spear to kill you: flee from him!'; the second cow says the same"}
+      - {motif: speaking-animal-ox, refs: ["TwoBrothers 5_8/2"]}
+      - {motif: hero-flees-brother-who-seeks-to-kill-him, refs: ["TwoBrothers 6_3-6_3/3"], note: "He throws down his load and runs away; his elder brother pursues with the spear"}
+      - {motif: brothers-plot-death, refs: ["TwoBrothers 5_5/3"], note: "Not envy but a husband's revenge: the elder brother (not brothers) plans to kill the younger"}
+    hints:
+      - "The master's anger at the accusation (Gen 39:19, 'his anger burned') leads here to an attempted killing instead of prison (Gen 39:20; Q 12:35)."
+      - "Flight from a brother's murderous anger: Jacob from Esau (Gen 27:41-45); David from Saul's spear (1 Sam 19:9-10)."
+      - "An animal sees the danger first and warns its master: Balaam's ass (Num 22:22-33)."
+  - id: ane-twobrothers-gods-intervention
+    tradition: ane-egyptian
+    title: "Two Brothers: Bata prays to Re-Harakhti, who puts a crocodile-filled water between the brothers; the dialogue at dawn"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 6_4-7_6/3"]
+    tags:
+      - {motif: sun-god-separates-wrongdoer-from-righteous, refs: ["TwoBrothers 6_4-6_5/2"], note: "pꜣy =j nb nfr mntk pꜣ n,tj ḥr wpw.t pꜣ ꜥḏꜣ,w r pꜣ mꜣꜥ,tj 'my good lord, you are the one who separates the wrongdoer from the righteous'; ꜥḥꜥ.n Pꜣ-Rꜥ ḥr sḏm spr,w =f nb 'Pre heard all his pleas'"}
+      - {motif: god-hears-prayer-of-righteous, refs: ["TwoBrothers 6_5/2"]}
+      - {motif: god-sets-crocodile-water-between-pursuer-and-pursued, refs: ["TwoBrothers 6_6-6_7"], note: "jw Pꜣ-Rꜥ ḥr ḏi̯.t ḫpr wꜥ-n mw ꜥꜣ r-jwd =f r-jwd pꜣy =f sn ꜥꜣ jw =f mḥ m msḥ.w 'Pre made a great water appear between him and his elder brother, full of crocodiles'; one on one side, the other on the other"}
+      - {motif: case-to-be-judged-at-sunrise, refs: ["TwoBrothers 6_8-6_9/2", "TwoBrothers 7_2/3"], note: "ꜥḥꜥ dj r ḥḏ-tꜣ wnn pꜣ Jtn ḥr wbn jw =j ḥr wpw.t ḥnꜥ =k m-bꜣḥ =f mtw =f ḏi̯.t pꜣ ꜥḏꜣ,w n pꜣ mꜣꜥ,tj 'stay there till dawn; when the Disk rises I will be judged with you before him, and he will hand the wrongdoer over to the righteous'"}
+      - {motif: accused-hero-gives-his-own-account, refs: ["TwoBrothers 7_3/2-7_6/3"], note: "jḫ pꜣy =k jy.t m-sꜣ =j r ẖdb =j m-grg jw nn sḏm =k rʾ =j ḥr md.t 'why do you pursue me to kill me wrongfully without hearing my mouth speak?'; repeats her words 'come, let us lie together' and ptrj pnꜥ =st sw n =k m ktḫ 'she has turned it round for you into something else'"}
+      - {motif: adoption-formula-you-are-my-father, refs: ["TwoBrothers 7_4/3-7_5"], note: "tw≡k m-ḏi̯ =j m sḫr,w n jt ḫr tꜣy =k ḥm,t m-ḏi̯ =j m sḫr,w n mw,t 'you are to me like a father, your wife like a mother'"}
+      - {motif: wronged-hero-lives-alone-in-valley-of-cedar, refs: ["TwoBrothers 7_2-7_2/2"], note: "jw =j r šmi̯.t r tꜣ jn,t n pꜣ ꜥš 'I will go to the Valley of the Cedar (ꜥš, conifer of Lebanon/Syria)'"}
+    hints:
+      - "Prayer to the judge who separates the guilty from the innocent: Gen 18:25, Ps 7:9-12, 1 Kgs 8:31-32; Joseph's 'my Lord knows' (Q 12:50) and Q 12:33-34 (Joseph prays and his Lord answers him)."
+      - "A divinely placed barrier between pursuer and pursued: the pillar of cloud between Egypt and Israel (Exod 14:19-20), the waters of the sea (Exod 14:21-29); Laban stopped by God's warning in a dream (Gen 31:24, 29)."
+      - "Case brought before the rising sun: compare Zeph 3:5 ('morning by morning he brings his justice to light') and Ps 37:6."
+  - id: ane-twobrothers-oath-mutilation-heart
+    tradition: ane-egyptian
+    title: "Two Brothers: Bata's oath and self-castration; his heart to be placed on the cedar; Anubis kills his wife"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 7_7-8_8/2"]
+    tags:
+      - {motif: gods-invoked-as-witness-of-innocence, refs: ["TwoBrothers 7_7-7_7/2"], note: "wn.jn =f ḥr ꜥrq =f n pꜣ Rꜥ-Ḥr,w-ꜣḫ,ty 'he swore by Re-Harakhti': you came to kill me wrongfully (m-grg) with your spear for the sake of a filthy whore (kꜣ,t)"}
+      - {motif: self-castration-as-proof-of-innocence, refs: ["TwoBrothers 7_8-7_9/3"], note: "jw =f ḥr jni̯ wꜥ-n sfd-gš jw =f ḥr šꜥd ḥnw =f jw =f ḥr ḫꜣꜥ =f r pꜣ mw jw pꜣ nꜥr ḥr ꜥmꜣm =f 'he took a reed knife, cut off his phallus and threw it into the water; the catfish swallowed it'"}
+      - {motif: elder-brother-weeps-for-wronged-brother, refs: ["TwoBrothers 8_1/2-8_1/4"], note: "jw =f ḥr rmy.t n =f qꜣi̯ 'he wept loudly for him', unable to cross because of the crocodiles"}
+      - {motif: master-recognizes-wifes-guilt, refs: ["TwoBrothers 8_1/2", "TwoBrothers 8_7/2"], note: "After Bata's account (7_6/3) and oath, Anubis' heart grieves and he goes home and kills his wife"}
+      - {motif: remember-good-not-only-evil, refs: ["TwoBrothers 8_2/2"], note: "jr sḫꜣy =k wꜥ-n bjn jstw bw jri̯ =k sḫꜣy wꜥ-n nfr 'if you remember something bad, can you not remember something good?'"}
+      - {motif: heart-placed-in-tree-external-soul, refs: ["TwoBrothers 8_3/2-8_4"], note: "pꜣy =j šdi̯ ḥꜣ,tj =j mtw =j wꜣḥ =f ḥr ḏꜣḏꜣ n tꜣ ḥw~rw~rw n pꜣ ꜥš 'I will take out my heart and put it on top of the blossom of the cedar'"}
+      - {motif: heart-revived-in-bowl-of-water, refs: ["TwoBrothers 8_4/2-8_5"], note: "If the cedar is felled, search for it, 'even if you spend seven years (7 rnp,t) searching, let your heart not weary'; put it in a bowl of cool water and I will live again"}
+      - {motif: beer-foams-sign-of-disaster, refs: ["TwoBrothers 8_6-8_6/2"], note: "When a jug of beer is put in your hand and it foams over (jri̯ stf), you will know something has happened to me"}
+      - {motif: mourner-hand-on-dust-smeared-head, refs: ["TwoBrothers 8_6/3"], note: "jw ḏr,t =f wꜣḥ ḥr ḏꜣḏꜣ =f jw =f wrḥ.w n jwdn 'his hand on his head, smeared with dust'"}
+      - {motif: husband-kills-lying-wife-throws-to-dogs, refs: ["TwoBrothers 8_7/2-8_8"], note: "jw =f ḥr ẖdb tꜣy =f ḥm,t jw =f ḥr ḫꜣꜥ =st n nꜣ-n jw 'he killed his wife and threw her to the dogs'"}
+      - {motif: weeping-fasting-mourning-for-days, refs: ["TwoBrothers 8_8/2"], note: "jw =f ḥmsi̯ m gꜣ~sꜣ 'he sat in mourning for his younger brother'"}
+    hints:
+      - "Oath of innocence and self-mutilation: compare the eunuchs who 'made themselves eunuchs' (Matt 19:12) and the eunuch's exclusion and promise (Deut 23:1; Isa 56:3-5); the phallus swallowed by a fish recalls Plutarch's Osiris (De Iside 18)."
+      - "The husband convinced of the wife's guilt: Potiphar (Q 12:28-29, 'it is of your women's guile; Joseph, turn from this; and you, seek forgiveness'); in Gen 39 the master never recognises it."
+      - "Life held in a separate object and a sign that reveals the hero's death: compare Samson's strength in his hair (Judg 16:17) and Jacob's recognition by a garment (Gen 37:33)."
+      - "Earth on the head as mourning: Josh 7:6, 1 Sam 4:12, 2 Sam 1:2, 13:19 (Tamar's hand on her head). A wicked wife thrown to the dogs: Jezebel (1 Kgs 21:23; 2 Kgs 9:33-37)."
+  - id: ane-twobrothers-valley-of-cedar-and-new-wife
+    tradition: ane-egyptian
+    title: "Two Brothers: Bata alone in the Valley of the Cedar; the Ennead has Khnum fashion him a wife; the Seven Hathors"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 8_8/3-10_3/2"]
+    tags:
+      - {motif: wronged-hero-lives-alone-in-valley-of-cedar, refs: ["TwoBrothers 8_8/3-8_9/2"], note: "Alone (nn wn wꜥ m-ḏi̯ =f), he spends his days hunting desert game, sleeps under the cedar that bears his heart, and builds himself a castle (bḫn,w) full of good things, 'wishing to found a household'"}
+      - {motif: god-fashions-wife-so-man-not-alone, refs: ["TwoBrothers 9_6-9_7"], note: "Re-Harakhti to Khnum: jḫ qd =k wꜥ-n s,t-ḥm,t n Bꜣtꜣ tm =f ḥmsi̯ wꜥi̯ 'fashion (qd, the potter's verb) a woman for Bata, that he not dwell alone'; she is more beautiful in body than any woman, jw nṯr nb jm =st 'every god in her'"}
+      - {motif: seven-hathors-decree-fate, refs: ["TwoBrothers 9_8-9_9"], note: "tꜣ 7 Ḥ,t-ḥr,t ... ḏd m rʾ wꜥ j:jri̯ =st mt m dm,t 'the Seven Hathors said with one mouth: she will die by the knife'"}
+      - {motif: hero-reveals-secret-of-his-life-to-wife, refs: ["TwoBrothers 10_1-10_3/2"], note: "He warns her: m-jri̯ pri̯ r-bnr tm pꜣ y~mꜥ jṯꜣ =t 'do not go out, lest the Sea (pꜣ Ym, Semitic Yam) seize you'; I cannot save you, tw≡j m s,t-ḥm,t mj-qd =t 'for I am a woman like you' (after his castration); ḥꜣ,tj =j wꜣḥ ḥr ḏꜣḏꜣ n tꜣ ḥ~rw~rw n pꜣ ꜥš ... wn.jn =f ḥr wpw.t n =sst ḥꜣ,tj =f m-qꜣj =f nb 'my heart lies on the top of the cedar's blossom ... and he opened his heart to her completely'"}
+    hints:
+      - "'That he not dwell alone': Gen 2:18 ('it is not good that the man should be alone; I will make him a helper') and Gen 2:22 (God builds the woman); the potter god Khnum compares with Gen 2:7 and Isa 64:8."
+      - "Fates decreed at birth by goddesses: compare the Hathors with the decreeing of a destiny (Ps 139:16) and Q 57:22."
+      - "The hero opening his whole heart to a woman who will betray him: Samson and Delilah, 'he told her all his heart' (Judg 16:17-18, wayyagged-lāh ʾet-kol-libbo)."
+      - "Yam, the Sea, as a hostile power: Ps 74:13; 89:9-10; Job 7:12; 38:8-11."
+  - id: ane-twobrothers-lock-of-hair-and-death
+    tradition: ane-egyptian
+    title: "Two Brothers: the Sea steals a lock of hair; Pharaoh's search for its owner; she is brought to Egypt, betrays Bata, the cedar is felled and he dies"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 10_4-12_7"]
+    tags:
+      - {motif: sea-pursues-woman-takes-lock-of-hair, refs: ["TwoBrothers 10_5-10_7/3"], note: "ptrj st pꜣ y~mꜥ ḥr ḥwi̯ m-sꜣ =st ... j:mḥ n =j jm =st 'the Sea saw her and surged after her ... (to the cedar) seize her for me!'; the cedar gives a lock (nbd,t) of her hair, which the Sea takes to Egypt"}
+      - {motif: scent-of-hair-in-kings-linen, refs: ["TwoBrothers 10_8-11_3/4"], note: "stj sgnn m nꜣ-n ḥbs.w n pr-ꜥꜣ 'there is a scent of ointment in Pharaoh's clothes!'; the chief launderer finds the lock in the water"}
+      - {motif: scholars-identify-divine-daughter, refs: ["TwoBrothers 11_4-11_6"], note: "zẖꜣ.w rḫ.y-(j)ḫ,t 'scribes and learned men': ns-st wꜥ-n šrjw n pꜣ Rꜥ-Ḥr,w-ꜣḫ,ty jw mw n nṯr nb jm =st 'it belongs to a daughter of Re-Harakhti in whom is the seed (water) of every god'"}
+      - {motif: envoys-sent-to-fetch-beauty, refs: ["TwoBrothers 11_5/2-12_1"]}
+      - {motif: only-i-escaped-to-tell, refs: ["TwoBrothers 11_7/4"], note: "Bata kills the men sent to the Valley of the Cedar, leaving one to report to His Majesty"}
+      - {motif: matriarch-taken-into-royal-house, refs: ["TwoBrothers 12_1-12_3"], note: "The hero's wife is brought to Egypt, acclaimed in the whole land, loved by His Majesty and made šps,j(t)-ꜥꜣ.t 'great lady (favourite)'"}
+      - {motif: wife-betrays-husbands-life-secret, refs: ["TwoBrothers 12_3/2-12_4/2"], note: "Asked about her husband's nature, she says jmm šꜥd.tw pꜣ ꜥš mtw =tw sksk =f 'have the cedar felled and chopped up'"}
+      - {motif: heart-placed-in-tree-external-soul, refs: ["TwoBrothers 12_6-12_7"], note: "They cut the blossom on which Bata's heart was, jw =f ḥr hꜣy.t mt m tꜣ wnw,t šr.t 'and he fell dead at that moment'"}
+    hints:
+      - "A beautiful woman taken into Pharaoh's house after his officials praise her: Sarah (Gen 12:14-15) and the 'wife-sister' stories (Gen 20; 26); a king who sends for a woman he has heard of: David and Bathsheba (2 Sam 11:2-4), Ahasuerus' search for maidens (Esth 2:2-4, 8)."
+      - "Court scholars consulted on a mystery: Pharaoh's magicians and wise men (Gen 41:8; Exod 7:11) and the 'scribes and wise men' of Dan 2:2."
+      - "The wife who reveals her husband's secret to his enemies: Delilah (Judg 16:4-21); 'I alone escaped to tell you' (Job 1:15-19); successive companies sent to take a man who destroys them: 2 Kgs 1:9-14."
+  - id: ane-twobrothers-anubis-revives-bata
+    tradition: ane-egyptian
+    title: "Two Brothers: the beer foams; Anubis searches years for the heart, finds it as a grape and revives Bata; the plan of the bull"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 12_7/2-14_9"]
+    tags:
+      - {motif: beer-foams-sign-of-disaster, refs: ["TwoBrothers 12_8-12_10/2"], note: "A jug of beer foams over; a jug of wine turns foul (jri̯ ḥwꜣ,w)"}
+      - {motif: elder-brother-weeps-for-wronged-brother, refs: ["TwoBrothers 13_3"]}
+      - {motif: heart-revived-in-bowl-of-water, refs: ["TwoBrothers 13_3/2-14_3/3"], note: "jw =f jri̯ 3 rnp,t n wḫꜣḫ =f nn gmi̯ =f 'he spent three years searching without finding it'; in the fourth year, about to go home, he finds a grape (jꜣjr): js ḥꜣ,tj n pꜣy =f sn šrj pꜣj 'that was the heart of his younger brother'. Placed in a bowl of cool water, at nightfall the heart absorbs the water, Bata trembles in all his body, drinks it and becomes as he was (ḫpr mj wnn =f)"}
+      - {motif: brothers-reconciled-embrace, refs: ["TwoBrothers 14_3/4-14_4"], note: "wn.jn wꜥ qnjw wꜥ jm =sn 'then they embraced one another' and spoke"}
+      - {motif: hero-transforms-into-bull, refs: ["TwoBrothers 14_5", "TwoBrothers 14_9"], note: "jw =j r ḫpr m wꜥ-n kꜣ ꜥꜣ jw =f m jwn,w nb nfr jw nn rḫ =tw pꜣy =f sḫr 'I will become a great bull of every beautiful colour, whose nature no one knows'"}
+      - {motif: finder-rewarded-with-gold-and-silver, refs: ["TwoBrothers 14_7"], note: "jw =tw r fꜣi̯.ṱ =k m ḥḏ nbw 'they will weigh you out with silver and gold' for bringing me, jw =j r ḫpr m bjꜣ,t ꜥꜣ.t 'for I shall become a great wonder'"}
+    hints:
+      - "Reunion embrace of brothers: Jacob and Esau (Gen 33:4) and Joseph with Benjamin and his brothers (Gen 45:14-15)."
+      - "Revival of the dead: Elijah and Elisha (1 Kgs 17:17-22; 2 Kgs 4:32-35) and Ezek 37:1-10; the dead raised by God's leave (Q 2:259-260; 3:49)."
+      - "A bull as divine manifestation: compare the golden calf (Exod 32:4) and Jeroboam's calves (1 Kgs 12:28-30); the Egyptian Apis bull lies behind Bata's form."
+  - id: ane-twobrothers-bull-at-court
+    tradition: ane-egyptian
+    title: "Two Brothers: the bull at Pharaoh's court; Bata reveals himself to his wife; she makes Pharaoh swear and asks for the bull's liver"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 15_1-16_5/2"]
+    tags:
+      - {motif: hero-transforms-into-bull, refs: ["TwoBrothers 15_1-15_4/2"], note: "Pharaoh rejoices over the bull, makes a great offering for it: bjꜣ,yt ꜥꜣ.t tꜣj ḫpr.tj 'this is a great wonder that has happened'"}
+      - {motif: finder-rewarded-with-gold-and-silver, refs: ["TwoBrothers 15_4/3-15_5/2"]}
+      - {motif: reborn-hero-confronts-betrayer, refs: ["TwoBrothers 15_7-16_1"], note: "ptrj tw≡j ꜥnḫ.kwj m-rʾ-ꜥ ... jnk Bꜣtꜣ 'see, I am still alive! ... I am Bata'; I know that you had the cedar felled to stop me living; ptrj tw≡j ꜥnḫ.kwj jw =j m kꜣ 'see, I am alive as a bull'; she is very afraid"}
+      - {motif: hero-reveals-identity, refs: ["TwoBrothers 15_9-15_9/3"], note: "Approximate: the self-revelation 'I am Bata' is made to his betraying wife, not to his brothers"}
+      - {motif: woman-makes-king-swear-to-grant-wish, refs: ["TwoBrothers 16_2/2-16_4"], note: "During a feast she pours for His Majesty; jmm ꜥrq n =j n nṯr m-ḏd jr pꜣ n,tj jw =t r ḏd =f jw =j r sḏm =f n =sst 'swear to me by god: whatever she says, I will obey it for her'"}
+      - {motif: wife-asks-to-eat-liver-of-bull, refs: ["TwoBrothers 16_4/2-16_5/2"], note: "jmm.tw wnm =j n tꜣ mjs,t n pꜣj kꜣ 'let me eat the liver of this bull'; Pharaoh is greatly grieved"}
+    hints:
+      - "A king trapped by an oath sworn at a feast to grant a woman's request: Herod and the daughter of Herodias (Mark 6:21-28), Ahasuerus to Esther 'up to half the kingdom' (Esth 5:3, 6; 7:2)."
+      - "'I am Bata' as a recognition formula: compare 'I am Joseph' (Gen 45:3-4; Q 12:90)."
+  - id: ane-twobrothers-persea-trees-and-conception
+    tradition: ane-egyptian
+    title: "Two Brothers: the bull slaughtered; two drops of blood at the palace doorposts become persea trees; the trees felled; the splinter swallowed"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 16_6-18_5/2"]
+    tags:
+      - {motif: blood-drops-at-gate-become-trees, refs: ["TwoBrothers 16_8-17_2"], note: "jw =f ḥr ḏi̯.t ḫꜣꜥ.tw n =f ḏf 2 n snf r-gs pꜣ bꜣnš 2 n ḥm =f 'he let two drops of blood fall beside the two doorposts of His Majesty'; one on each side of the great gate of Pharaoh; they grow into two great persea trees (šꜣwꜣb) in the night, 'a great wonder'"}
+      - {motif: blood-on-doorposts-and-lintel, refs: ["TwoBrothers 16_8/2"], note: "Approximate: blood of the slain sacred bull falls at the two doorposts of the royal gate and becomes a new life-form, not a protective daub"}
+      - {motif: tree-speaks-to-betrayer, refs: ["TwoBrothers 17_3/2-17_8/2"], note: "Pharaoh sits under one tree, his lady under the other; Bata speaks: hꜣ tꜣ grg,t jnk Bꜣtꜣ tw≡j ꜥnḫ.kwj ḫbꜣ,tw r =t 'Ha, you liar! I am Bata, I am alive in spite of you'"}
+      - {motif: woman-makes-king-swear-to-grant-wish, refs: ["TwoBrothers 17_8/3-18_2"], note: "The same oath again; she asks that the two trees be felled and made into fine furniture"}
+      - {motif: conception-by-swallowing-splinter, refs: ["TwoBrothers 18_2/2-18_5"], note: "wꜥ-n nꜣḏꜣ ḥr pwy ... ꜥq m rʾ n tꜣ šps,jt ... ꜥmꜣm =f ... šzp jwr m km n jꜣd,t šrj.t 'a splinter flew up, entered the lady's mouth, she swallowed it and became pregnant in the blink of an eye'"}
+    hints:
+      - "Blood at the two doorposts of a house: the Passover blood on the two doorposts and lintel (Exod 12:7, 22-23); here it is the blood of a slaughtered sacred bull."
+      - "Trees as the abode of a living person: compare the sacred tree of Gen 21:33 and the burning bush (Exod 3:2-4)."
+      - "Miraculous conception: compare the annunciations of Gen 18:10-14; Judg 13:3; Q 19:16-22 (Mary under the palm tree)."
+  - id: ane-twobrothers-bata-king-and-colophon
+    tradition: ane-egyptian
+    title: "Two Brothers: Bata reborn as the queen's son, crown prince and king; he judges his wife and makes Anubis his heir; colophon"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pD'Orbiney"
+    read: ["TwoBrothers 18_6-20_1"]
+    tags:
+      - {motif: reborn-hero-becomes-crown-prince-and-king, refs: ["TwoBrothers 18_6-19_2"], note: "A son is born (msy =tw n =k wꜥ-n zꜣ-ṯꜣy); given a wet nurse and nurses; acclaimed in the whole land; made zꜣ-nswt-n-Kš 'king's son of Kush', then crown prince; 'His Majesty flew up to heaven' (pwy r tꜣ p,t, i.e. died)"}
+      - {motif: king-ascends-to-heaven, refs: ["TwoBrothers 19_2"]}
+      - {motif: king-judges-wife-before-officials, refs: ["TwoBrothers 19_3-19_5/3"], note: "jw =f ḥr wpw.t ḥnꜥ =st m-bꜣḥ =sn jw =tw ḥr jri̯ tjw jm =sn 'he judged with her before them and they said yes'; her death is implied, fulfilling the Hathors' 'by the knife'"}
+      - {motif: loyal-brother-made-successor, refs: ["TwoBrothers 19_6-19_7/2"], note: "He makes Anubis crown prince (ꜥr,j-pꜥ,t) of the whole land, rules 30 years as king of Egypt, dies, and his elder brother takes his place on the day of mooring (death)"}
+      - {motif: hero-forgives-brothers, refs: ["TwoBrothers 19_6-19_6/2"], note: "Approximate: the once murderous elder brother is raised to crown prince by the younger, now king"}
+      - {motif: colophon-curse-on-critic-of-book, refs: ["TwoBrothers 19_9"], note: "jr pꜣ n,tj jw =f r mdw m pꜣj zẖꜣ,w jri̯ n =f Ḏḥw,tj r jr,j-ꜥḥꜣ,wtj 'whoever speaks against this book, Thoth will be his adversary'"}
+      - {motif: scribal-colophon, refs: ["TwoBrothers 19_7/3", "TwoBrothers 20_1"], note: "Written by the scribe Inena, for the treasury scribe Qagabu and the scribes Hori and Meremope; owned by the prince Sety-Merenptah"}
+    hints:
+      - "The younger brother raised over the elder, who bows to him and is then honoured: Joseph and his brothers (Gen 42:6; 45:4-13; 50:18-21; Q 12:100)."
+      - "The once-wronged hero becoming ruler of Egypt: Joseph as second only to Pharaoh (Gen 41:40-44; Q 12:54-56)."
+      - "Curses on those who alter or speak against a book: Deut 4:2; Rev 22:18-19."
+  # ===================== Truth and Falsehood (pChester Beatty II) =====================
+  - id: ane-truthfalsehood-blinding-of-truth
+    tradition: ane-egyptian
+    title: "Truth and Falsehood: the lost dagger; Falsehood has his elder brother Truth blinded and orders him thrown to lions"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pChester Beatty II (BM EA 10682), Late Egyptian, 19th-20th Dynasty; beginning lost"
+    read: ["TruthFalsehood 1_6-3_3"]
+    tags:
+      - {motif: dagger-of-cosmic-size, refs: ["TruthFalsehood 1_8"], note: "Largely restored from the later quotation at 10_3: pꜣ ḏww n J:jrʾ ... ḥmt ... the god's tomb as sheath, the herds of Kar as strap; Falsehood claims a dagger (lent to Truth?) of impossible size"}
+      - {motif: younger-brother-blinds-elder, refs: ["TruthFalsehood 2_1-2_3"], note: "Grg(,j) 'Falsehood' to the Ennead: jmm jni̯ =tw Mꜣꜥ,t(j) mtw =tw kꜣmn =f m jr,t.du =f mtw =tw ḏi̯.t =f r jr,j-ꜥꜣ n pꜣy =j pr 'have Truth brought, blind him in both eyes and make him doorkeeper of my house'; the Ennead does all he says"}
+      - {motif: lawsuit-before-divine-tribunal, refs: ["TruthFalsehood 2_1-2_3"]}
+      - {motif: villain-envies-brothers-virtue, refs: ["TruthFalsehood 2_3/2-2_4"], note: "Falsehood looks about and sees bj(ꜣ),t n Mꜣꜥ,t(j) pꜣy =f sn ꜥꜣ 'the excellent character of Truth, his elder brother'"}
+      - {motif: servants-ordered-to-throw-master-to-lions, refs: ["TruthFalsehood 2_5-3_3"], note: "jṯꜣy =tn pꜣy =tn nb mtw =tn ḫꜣꜥ =f n wꜥ mꜣj ḏw ... 'seize your master and throw him to a fierce lion and many lionesses'; Truth begs them not to and asks for bread; they report: the lion came out and devoured him"}
+      - {motif: wild-animal-blamed, refs: ["TruthFalsehood 3_2-3_3"], note: "The servants falsely report that the lion devoured him (restored in part: [ḫꜣꜥ] =[n] =[f] ... ⸮wšꜥ? =f)"}
+    hints:
+      - "Brother against brother out of envy at his goodness: Cain and Abel (Gen 4:3-8; Q 5:27-31) and Joseph's brothers (Gen 37:4, 11, 18-20)."
+      - "Servants spare the victim and report that a beast devoured him: compare Joseph's brothers and the 'evil beast' (Gen 37:20, 31-33; Q 12:13-17 'the wolf ate him')."
+      - "Thrown to lions: Daniel (Dan 6:16-23)."
+  - id: ane-truthfalsehood-lady-and-son
+    tradition: ane-egyptian
+    title: "Truth and Falsehood: a lady finds the blind Truth, conceives by him; the son mocked as fatherless learns who his father is"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pChester Beatty II"
+    read: ["TruthFalsehood 3_4-5_8"]
+    tags:
+      - {motif: hero-beautiful, refs: ["TruthFalsehood 3_5/2-3_6"], note: "nn-wn mj-qd =f m pꜣ tꜣ r-ḏr =f 'there was none like him in the whole land' (partly restored); the same formula as Bata (TwoBrothers 1_4)"}
+      - {motif: lady-desires-blind-stranger-conceives, refs: ["TruthFalsehood 3_6/2-4_5"], note: "jw =st ḥr ꜣbwy.ṱ =f r-jqr zp-2 'she desired him very much'; jw =f (ḥr) rḫ =st m rḫ n ꜥḥꜣ,wtj 'he knew her as a man knows (a woman)'; jw =st ḥr ꜥḥꜥ jwr.tj m pꜣj grḥ m wꜥ ꜥḏd šrj 'she conceived that night a little boy'"}
+      - {motif: blind-man-made-doorkeeper, refs: ["TruthFalsehood 3_7/2"], note: "Her servants propose to bring him and 'make him doorkeeper of our house' (as Falsehood had done)"}
+      - {motif: wondrous-child-like-a-gods-child, refs: ["TruthFalsehood 4_5/2"], note: "She bore a son without equal in the land, 'in the manner of a god's child' (m sḫr,w n ms-nṯr, partly restored)"}
+      - {motif: king-educated-in-scribal-school, refs: ["TruthFalsehood 4_7-5_1/3"], note: "Approximate (the label is royal): he is sent to school, learns writing excellently, practises all arts of war and surpasses his older schoolmates"}
+      - {motif: boy-mocked-as-fatherless, refs: ["TruthFalsehood 5_3-5_6"], note: "mntk šrjw nj~mꜥ ... yꜣ mꜥ~nj m-ḏi̯ =k jt 'whose son are you? ... you have no father!'; he asks his mother nj~mꜥ rn n pꜣy =j jt 'what is my father's name?'"}
+      - {motif: mother-reveals-blind-father, refs: ["TruthFalsehood 5_7-5_8"], note: "tw≡k ptrj pꜣj kꜣmn n,tj ḥmsi̯ r-gs pꜣ sbꜣ pꜣy =k jt pꜣj 'do you see this blind man sitting by the door? He is your father'"}
+    hints:
+      - "'Knew her as a man knows': the Hebrew yādaʿ of Gen 4:1, 25 and 19:8; conception in one night: Gen 19:33-36, 38:18."
+      - "The son of a disgraced father mocked by his fellows: Jephthah driven out by his half-brothers (Judg 11:1-2); 'is not this the carpenter's son?' (Matt 13:55)."
+  - id: ane-truthfalsehood-son-avenges-father
+    tradition: ane-egyptian
+    title: "Truth and Falsehood: the son honours his blind father and goes to avenge him; the ruse of the ox"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pChester Beatty II"
+    read: ["TruthFalsehood 6_1-9_6/2"]
+    tags:
+      - {motif: son-honours-blind-father, refs: ["TruthFalsehood 6_2-6_4/3"], note: "He seats his father on a proper chair (qnjw), puts a footstool under his feet, sets food before him, makes him eat and drink"}
+      - {motif: son-avenges-wronged-father, refs: ["TruthFalsehood 6_5-6_7/2"], note: "nj~mꜥ j:kꜣmn tw ꜥn =j n =k wšb,t 'who blinded you? I will seek redress for you'; m pꜣy =j sn šrjw j:kꜣmn =j 'it was my younger brother who blinded me'"}
+      - {motif: hero-sets-out-with-staff-sandals-bread, refs: ["TruthFalsehood 7_1"], note: "10 loaves, a staff, a pair of sandals, a waterskin and a knife"}
+      - {motif: ox-entrusted-to-herdsman-taken-by-villain, refs: ["TruthFalsehood 7_2-8_4/2"], note: "He leaves a beautifully coloured ox with Falsehood's herdsman; Falsehood sees it, says jmm.tw n =j pꜣj jḥ wnm =j sw 'give me this ox to eat' and has the herdsman give the owner one of his own instead"}
+      - {motif: tall-tale-of-cosmic-bull, refs: ["TruthFalsehood 8_5-9_5/2"], note: "jr wnn =f ꜥḥꜥ m Pꜣ-jw-n-Jmn tꜣ bꜣjr n sd =f ḥr tꜣ mḥ,t jw ꜥb =f wꜥ ḥr pꜣ ḏw jmn,tj ... 'when he stands on the Isle of Amun, the tuft of his tail lies on the papyrus marshes, one horn on the western mountain, the other on the eastern, the great river his resting place, 60 calves born to him daily'"}
+      - {motif: lawsuit-before-divine-tribunal, refs: ["TruthFalsehood 9_5/3-9_6/2"], note: "He seizes the herdsman and drags Falsehood to the court (qnb,t) before the Ennead"}
+    hints:
+      - "Honouring the blind father with food: Isaac blind and fed by his son (Gen 27:1-4, 25-31); 'honour your father' (Exod 20:12)."
+      - "A story told to make the wrongdoer condemn himself: Nathan's parable of the poor man's lamb (2 Sam 12:1-7), where a rich man takes another's beast to eat."
+      - "The son as avenger of his father: the goʾel and the avenger of blood (Num 35:19; Deut 19:6)."
+  - id: ane-truthfalsehood-trial-and-punishment
+    tradition: ane-egyptian
+    title: "Truth and Falsehood: the trial before the Ennead; Falsehood swears his own punishment; Truth found alive; Falsehood blinded"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pChester Beatty II; with small displaced fragments (Recto 1, Recto 2, Verso 1) giving only isolated words"
+    read: ["TruthFalsehood 10_1-11_5/2", "TruthFalsehood Recto.1.=", "TruthFalsehood Recto.2.=", "TruthFalsehood Verso.1.="]
+    tags:
+      - {motif: lawsuit-before-divine-tribunal, refs: ["TruthFalsehood 10_1-10_5/4"], note: "The Ennead: ꜥḏꜣ,y bw-pwy =n ptrj jḥ mj ꜥꜣ n pꜣ ḏd =k 'false! we have never seen an ox the size you describe'; the youth: jstw wn ḥmt mj ꜥꜣ n pꜣ j:ḏd =tn 'is there a dagger the size you described?'; wpw Mꜣꜥ,t(j) ḥnꜥ Grg(,j) jnk pꜣy =f šrjw 'judge between Truth and Falsehood: I am his son'"}
+      - {motif: tall-tale-of-cosmic-bull, refs: ["TruthFalsehood 10_2-10_3"], note: "The bull is set against the earlier impossible dagger (1_8): one lie unmasks the other"}
+      - {motif: dagger-of-cosmic-size, refs: ["TruthFalsehood 10_3"]}
+      - {motif: liar-swears-his-own-punishment, refs: ["TruthFalsehood 10_6-11_3/2"], note: "jri̯.t ꜥnḫ n nb ꜥnḫ (w)ḏꜣ snb wꜣḥ Jmn wꜣḥ pꜣ ḥqꜣ mtw =tw gmi̯ Mꜣꜥ,t(j) ꜥnḫ mtw =tw kꜣmn =j 'oath by the Lord: as Amun endures, as the Ruler endures, if Truth is found alive, let me be blinded in both eyes and made doorkeeper in Truth's house'; Truth is found alive; Falsehood receives 100 blows and 5 open wounds, is blinded and made doorkeeper (partly restored)"}
+      - {motif: deceiver-deceived, refs: ["TruthFalsehood 11_2-11_3/2"]}
+      - {motif: oath-by-life-of-the-king-and-god, refs: ["TruthFalsehood 10_6-10_6/2"], note: "wꜣḥ Jmn wꜣḥ pꜣ ḥqꜣ 'as Amun endures, as the Ruler endures'"}
+      - {motif: scribal-colophon, refs: ["TruthFalsehood 11_5-11_5/2"], note: "Fragmentary end formula [jwi̯ =s pw nfr] and a scribe's name"}
+    hints:
+      - "The wicked caught in their own trap and given the punishment they devised: Haman (Esth 7:9-10), Daniel's accusers (Dan 6:24), Ps 7:15-16; the lex talionis 'eye for eye' (Exod 21:24; Q 5:45)."
+      - "An oath 'as the LORD lives' (1 Sam 14:39; 2 Sam 12:5, where David condemns himself unknowing) and 'as the king lives' (1 Sam 17:55; 2 Sam 15:21)."
+      - "Truth (Maat) and Falsehood as personified brothers: compare personified Wisdom and Folly (Prov 8-9) and 'truth has stumbled in the street' (Isa 59:14-15)."
