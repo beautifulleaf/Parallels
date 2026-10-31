@@ -4,24 +4,24 @@ new_motifs:
   twin-mountains-at-the-ends-of-the-earth: {label: At the end of his journey the traveller comes to a pair of mountains, cluster: cosmos}
   gods-fix-death-and-life: {label: Death and life (in that order) are set or created by the divine, cluster: death}
   hidden-time-or-place-of-death: {label: Humans are not told the day or the place of their death, cluster: death}
-  flood-hero-found-to-be-an-ordinary-man: {label: 'The flood hero is told he is only a man like the speaker(s) [shared matter]', cluster: flood}
-  flood-hero-promises-his-city-rain-of-plenty: {label: 'Before the flood the hero tells his city that heaven will rain plenty on them [shared matter]', cluster: flood}
-  townspeople-at-the-building-of-the-vessel: {label: 'The townspeople come to the flood hero while he builds the vessel [shared matter]', cluster: flood}
-  what-is-loaded-into-the-vessel: {label: 'What the flood hero takes aboard: animals, kin and others [shared matter]', cluster: flood}
-  sign-to-board-the-vessel: {label: 'The deity sets a sign for when the flood hero must board [shared matter]', cluster: flood}
-  who-pilots-the-vessel: {label: 'To whom the vessel''s course is entrusted on boarding [shared matter]', cluster: flood}
-  days-and-nights-of-the-destroying-wind: {label: 'The count of days and nights a destroying wind or flood-storm blows [shared matter]', cluster: flood}
-  how-the-flood-ends: {label: 'How the flood waters stop [shared matter]', cluster: flood}
-  what-the-flood-hero-does-on-landing: {label: 'What happens when the flood hero leaves the vessel on the mountain [shared matter]', cluster: flood}
-  blessing-of-the-flood-hero-after-the-flood: {label: 'The flood hero is blessed after the flood; the content of the blessing [shared matter]', cluster: flood}
-  token-of-remembrance-after-the-flood: {label: 'A token is kept after the flood so that it is remembered [shared matter]', cluster: flood}
-  no-one-to-survive-the-destruction: {label: 'A wish that no one be left alive by the destruction [shared matter]', cluster: flood}
+  flood-hero-found-to-be-an-ordinary-man: {label: The flood hero is told he is only a man like the speaker(s), cluster: flood}
+  flood-hero-promises-his-city-rain-of-plenty: {label: Before the flood the hero tells his city that heaven will rain plenty on them, cluster: flood}
+  townspeople-at-the-building-of-the-vessel: {label: The townspeople come to the flood hero while he builds the vessel, cluster: flood}
+  what-is-loaded-into-the-vessel: {label: 'What the flood hero takes aboard: animals, kin and others', cluster: flood}
+  sign-to-board-the-vessel: {label: The deity sets a sign for when the flood hero must board, cluster: flood}
+  who-pilots-the-vessel: {label: To whom the vessel's course is entrusted on boarding, cluster: flood}
+  days-and-nights-of-the-destroying-wind: {label: The count of days and nights a destroying wind or flood-storm blows, cluster: flood}
+  how-the-flood-ends: {label: How the flood waters stop, cluster: flood}
+  what-the-flood-hero-does-on-landing: {label: What happens when the flood hero leaves the vessel on the mountain, cluster: flood}
+  blessing-of-the-flood-hero-after-the-flood: {label: The flood hero is blessed after the flood; the content of the blessing, cluster: flood}
+  token-of-remembrance-after-the-flood: {label: A token is kept after the flood so that it is remembered, cluster: flood}
+  no-one-to-survive-the-destruction: {label: A wish that no one be left alive by the destruction, cluster: flood}
   sage-dwells-where-the-waters-meet: {label: A sage with divine knowledge or life is found far away where rivers or seas meet, cluster: cosmos}
-  food-marks-the-length-of-a-sleep: {label: 'The sleeper''s food shows how long he slept [shared matter]', cluster: death}
+  food-marks-the-length-of-a-sleep: {label: The sleeper's food shows how long he slept, cluster: death}
   sleeper-thinks-he-slept-a-moment: {label: A man woken from a long sleep thinks he slept only a moment or a day, cluster: death}
-  healer-raises-the-dead-in-first-person: {label: 'A speaker says in the first person that he or she heals the sick and brings the dead back [shared matter]', cluster: deity}
+  healer-raises-the-dead-in-first-person: {label: A speaker says in the first person that he or she heals the sick and brings the dead back, cluster: deity}
   women-who-bind-knots-in-sorcery: {label: Female sorcerers work their magic with knots and spittle; refuge or release is sought from it, cluster: magic}
-  night-and-dawn-against-sorcery: {label: 'The night and the dawn in a formula against sorcery [shared matter]', cluster: magic}
+  night-and-dawn-against-sorcery: {label: The night and the dawn in a formula against sorcery, cluster: magic}
   dust-from-a-footprint-in-magic: {label: A sorcerer takes the dirt of someone's footprint for a magical act, cluster: magic}
   two-heavenly-beings-descend-in-a-sorcery-context: {label: Two heavenly beings come down from heaven in connection with sorcery, cluster: magic}
 reviewed:
