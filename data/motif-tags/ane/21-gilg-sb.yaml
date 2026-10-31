@@ -144,6 +144,9 @@ new_motifs:
   scorpion-people-guard-gate-of-sun: {label: "A scorpion-man and his wife, whose glance is death, guard the gate of the mountain of the sun", cluster: cosmology}
   journey-through-darkness-twelve-hours: {label: "The hero travels the sun's path inside the mountain for twelve double-hours of total darkness, unable to see behind him, emerging before the sun", cluster: cosmology}
   garden-of-jewel-trees: {label: "Beyond the darkness lies a garden of the gods whose trees bear fruit and foliage of carnelian, lapis lazuli and other gems", cluster: paradise}
+  travellers-ford-perilous-rivers: {label: "The far traveller is asked how he crossed the many rivers whose crossing is perilous", cluster: travel}
+  weathered-face-of-wanderer: {label: "The wanderer's face is burnt by frost and sun, his cheeks hollow, his heart sorrowful from the long road", cluster: death}
+  tree-pleasant-to-sight: {label: "A tree in the divine garden is lovely to look at and bears fruit", cluster: paradise}
 units:
   - id: ane-gilg-sb-i-prologue
     tradition: ane-akkadian
@@ -988,6 +991,7 @@ units:
       - {motif: threefold-repeated-episode, refs: ["Gilg SB IX:139-166"], note: "the refrain repeated for each double-hour, one to nine"}
       - {motif: garden-of-jewel-trees, refs: ["Gilg SB IX:171-194"], note: "iṣṣī ša ilī ... sāmtu našât inibša, ishunnata ullulat ... uqnû naši hashalta ... kīma balti u ašāgi [ibšû] AN.ZA.GUL.ME"}
       - {motif: paradise-gold-and-gems, refs: ["Gilg SB IX:173-192"]}
+      - {motif: primal-being-in-eden-covered-with-gems, refs: ["Gilg SB IX:173-192"], note: "loose: the garden of God made of carnelian, lapis lazuli, coral and other stones"}
       - {motif: garden-of-god-in-east, refs: ["Gilg SB IX:170-176"], note: "the garden of the gods reached at the sun's rising"}
       - {motif: tree-pleasant-to-sight, refs: ["Gilg SB IX:174", "Gilg SB IX:176"], note: "ana dagāli hīpat ... ana amāri ṣayyah"}
     hints:

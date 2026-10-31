@@ -174,7 +174,6 @@ units:
       - {motif: goddess-self-praise-under-many-names, refs: ["GulaHymn SB –:25", "GulaHymn SB –:43"], note: "Ninmadiriga; ummu nanše bēlet kudurri anākū-ma"}
       - {motif: warrior-god-as-farmer-behind-plow, refs: ["GulaHymn SB –:26-34"], note: "rēdû rīmu ... pāṣid abnī muallid ašnan ... mušēšib tīlī nadûti: walks behind the bull, plow that splits stones and nurtures grain, resettles abandoned mounds"}
       - {motif: goddess-of-plowing-measuring-and-accounts, refs: ["GulaHymn SB –:35-43"], note: "bēlet quppi zēri epinni ... muttabbilat ašli ... nāšât qantuppi ēpišat nikkassī ... bēlet kudurri"}
-      - {motif: deity-names-creations, refs: ["GulaHymn SB –:25"], note: "rather the husband names her: ninmadiriga šumī ibbi šānina ul īši; interpretive use for divine renaming"}
     hints:
       - "Compare Isa 28:23-29 (God teaches the farmer to plow and sow) and Prov 31:13-27 (the capable wife who manages the household)."
   - id: ane-gulahymn-sb-3-ninazu-and-ninkarrak
@@ -476,9 +475,9 @@ units:
       - {motif: divine-son-intercedes-with-father, refs: ["IshDesc SB –:83-85"], note: "illik anhiš ina pān sîn abīšu ibakki, ina pān ea illakā dimāšu"}
       - {motif: wise-god-helps-where-chief-god-refuses, refs: ["IshDesc SB –:91-92"], note: "only Ea acts: ea ina emqi libbīšu ibtani zikra; Sîn's response not recorded"}
       - {motif: ea-creates-envoy-to-trick-underworld-queen, refs: ["IshDesc SB –:92-99"], note: "ibnī-ma aṣûšu-namir assinna ... tummīšī-ma nīš ilī rabûti ... ē bēltī halziqqa lidnūnī-ma mê ina libbi lultatti"}
-      - {motif: beings-created-from-dirt-under-fingernail, refs: ["IshDesc SB –:92"], note: "the Akkadian has no fingernail; the creation of an assinnu by Ea parallels the Sumerian kurgarra/galatur; tag for the cross-version link"}
     hints:
       - "Compare Hos 2:9-13 and Joel 1:10-12 (fertility withdrawn) and Jer 7:34 (voice of bride and groom ceases)."
+      - "Compare the Sumerian Inana's Descent (ETCSL 1.4.1), where Enki makes the kurgarra and galatur from the dirt under his fingernail."
       - "Compare Dan 6:8-9 and Esth 8:8 (an oath or decree that cannot be revoked used against its maker)."
   - id: ane-ishdesc-sb-5-curse-and-water-of-life
     tradition: ane-akkadian
@@ -826,7 +825,6 @@ units:
     read: ["Ludlul SB III:1-8"]
     tags:
       - {motif: heavy-hand-gentle-grasp, refs: ["Ludlul SB III:1"], note: "kabtat qāssu ul aleʾʾi našâša"}
-      - {motif: heavy-burden-of-sin, refs: ["Ludlul SB III:1-3"], note: "kabtat qāssu ... [en]nessu ezzetu abūbu-ma"}
       - {motif: ceaseless-lament-day-night-month-year, refs: ["Ludlul SB III:7-8"], note: "urra u mūša ištēniš annaššar, šuttu munattu malmališ šumruṣāni"}
     hints:
       - "Compare Ps 32:4 (day and night your hand was heavy on me), Ps 38:3 and 39:11, Job 23:2 (his hand is heavy despite my groaning), Job 19:21 and 1Sam 5:6,11."
