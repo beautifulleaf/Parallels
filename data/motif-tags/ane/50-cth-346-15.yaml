@@ -1,8 +1,50 @@
-# Full read of the ANE corpus, chunk 50: CTH 346.15-21 (Kumarbi fragments), 347 (Hittite Atramhasis),
-# 348.I (Hedammu), 349 (Teshub cycle), 350-353 (fragments naming Ishtar, Ea, Huranu, daughter of the Pleiades),
-# 360 (Appu), 361.I (Keshshi), 362 (Gurparanzah), 363 (Sun god, cow and fisherman), 364 (Song of Silver),
-# 365 (Euphrates/Mala), 371 (prayer to the Sun goddess of the Earth). Read from hethiter.net / TLHdig.
-new_motifs: {}
+new_motifs:
+  storm-god-king-of-all-humanity: {label: "The storm god is called king of all mankind, with his heroism and valour praised", cluster: kingship}
+  why-do-you-kneel-rebuke: {label: "A speaker rebukes others: why do you kneel (bow down) before him?", cluster: polemic}
+  where-do-silver-and-gold-come-from: {label: "A speaker asks where silver and gold come from and whence they are, with divine statues mentioned", cluster: wisdom}
+  deity-asks-which-god-came-to-me: {label: "After a purification or awakening a figure asks 'which god came to me?'", cluster: revelation}
+  ancients-saying-quoted: {label: "A character quotes what 'the ancients' (karuwiliēš) say, as a proverb that guides his decision", cluster: wisdom}
+  lions-bed-begets-hero: {label: "Proverb: the lion's bed begets a hero; if a father begets a heroic son he will stand against a thousand armies", cluster: wisdom}
+  wise-father-warns-son-of-gods-plan: {label: "A father (Hamsha) passes on to his son (Atramhasi) the words of a god and tells him how to act to survive", cluster: flood}
+  feast-invitation-as-death-trap: {label: "A son is warned that the feast to which a god invites him will mean his death: he will die like a mortal", cluster: flood}
+  wooden-statue-made-as-substitute: {label: "The hero is told to make a statue of wood (ALAM IṢṢI), apparently as a substitute or decoy", cluster: magic}
+  fields-given-to-another: {label: "A man's fields are given to another (dameda) in a divine plan or disaster", cluster: flood}
+  ant-will-devour-crop: {label: "Warning that in this year the ant will eat (the crop), with a plant remedy (hutanu) to take", cluster: flood}
+  carts-driven-away-grain-saved: {label: "The hero is told to drive away the carts and bring the grain to another place before disaster", cluster: flood}
+  ditches-dug-round-about: {label: "Ditches are dug all around (a field or settlement) as a protective measure", cluster: flood}
+  divine-assembly-confronts-enlil: {label: "According to an oracle the gods and Enlil stand against each other in assembly", cluster: council}
+  vizier-reports-assembly-to-master: {label: "A god's vizier hears the words of the divine assembly, returns to his lord and reports that he spoke his master's word before them", cluster: council}
+  wise-god-protests-destruction-of-humanity: {label: "The wise god (Ea) protests in the divine assembly against destroying humanity: why do you destroy mankind?", cluster: flood}
+  without-humans-gods-get-no-offerings: {label: "If mankind is destroyed, no one will offer the gods bread, libations or burn cedar for them", cluster: cult}
+  without-humans-gods-must-plough-and-grind: {label: "Without humans the great gods themselves will have to take the plough and grind at the millstone", cluster: cult}
+  god-accused-of-visiting-evil-on-mankind: {label: "A god is asked why he visits mankind with evil when they offer to him gladly in his temple", cluster: theodicy}
+  blood-and-tears-of-mankind: {label: "The blood and tears of mankind are invoked against a destroying god", cluster: theodicy}
+  messenger-travels-unseen-by-sun-and-moon: {label: "A messenger is told to travel under the earth by river and ground so that the moon, the sun and the gods of the earth do not see him", cluster: messenger}
+  sea-personified-guest-of-high-god: {label: "The great Sea, personified, comes up to the father of the gods, is given a chair, a laid table and sweet wine", cluster: myth}
+  door-bolted-for-secret-council: {label: "A god orders his vizier to bolt the door and push the bars for a secret plan", cluster: council}
+  monster-child-fed-thousands-of-cattle: {label: "A monstrous child is reared on thousands of oxen and horses, countless lambs and kids, and fish", cluster: monster}
+  insatiable-devourer: {label: "A monster or being devours everything without being sated", cluster: monster}
+  goddess-seduces-monster-with-nakedness: {label: "A goddess shows her naked limbs to a sea monster to seduce and overpower it", cluster: monster}
+  monster-drugged-asleep-like-cattle: {label: "Having tasted a potion (beer, love-charm) put into the waters, the monster falls into a sweet sleep like cattle and recognises nothing", cluster: monster}
+  love-charm-poured-into-waters: {label: "The goddess pours 'love' and aromatic woods into the waters to bewitch the monster", cluster: magic}
+  monster-ravages-cities-heaps-heads: {label: "The monster devastates scores of cities and piles up heaps of heads", cluster: monster}
+  guest-refuses-seat-food-and-cup: {label: "A guest refuses to sit on the chair offered, to touch the table or to put his lip to the cup", cluster: hospitality}
+  tears-flow-like-canals: {label: "Tears flow from someone like canals", cluster: lament}
+  sea-offers-giant-daughter-in-marriage: {label: "The Sea offers his daughter, a mile long and a mile broad, as wife for the father of the gods to beget a champion", cluster: myth}
+  monster-asks-who-are-you-woman: {label: "The monster asks the seductive goddess 'what kind of woman are you? which god are you, that you do not fear?'", cluster: monster}
+  goddess-intoxicates-with-words: {label: "The goddess kneels before the monster and makes him drunk with her words", cluster: monster}
+  lovelinesses-run-after-like-puppies: {label: "After bathing and anointing, the goddess's charms run after her like little puppies", cluster: love}
+  goddess-orders-musicians-to-play-at-shore: {label: "The goddess orders her attendants (Ninatta, Kulitta) to play the galgalturi and arkammi on the sea shore", cluster: music}
+  monster-threatens-to-eat-goddess: {label: "The monster threatens the goddess: I will eat you up", cluster: monster}
+  fate-and-mother-goddesses-do-not-celebrate: {label: "The fate goddesses and mother goddesses do not celebrate (a birth or festival) in the house", cluster: birth}
+  storm-god-asks-father-where-were-you: {label: "The storm god meets the father of the gods and asks 'where were you? who is the enemy?'", cluster: myth}
+  child-set-on-grandfathers-knee: {label: "A newborn son is lifted up and set on the knees of the father (or grandfather) to be named or acknowledged", cluster: birth}
+  messenger-honoured-sevenfold-with-gold-crown: {label: "The messenger is honoured seven times and given a golden wreath for his news", cluster: messenger}
+  sixty-youths-and-sixty-maidens: {label: "Sixty young men and sixty young women of a city are sent, the maidens with lapis wine vessels", cluster: ritual}
+  land-held-by-bitumen-seven-years: {label: "The land is held fast by asphalt (bitumen) for seven years", cluster: disaster}
+  windows-and-doors-sealed-against-goddess: {label: "The windows and doors facing Kumme and Nineveh are shut with cloth so that Ishtar may not hear the plan", cluster: council}
+  feast-prepared-and-reported-done: {label: "The vizier prepares food and drink, fills cauldrons and heaps tables as his lord willed, and reports back", cluster: hospitality}
+  god-goes-down-to-dark-earth-and-fasts: {label: "A god goes down into the dark earth and there eats nothing and drinks nothing", cluster: underworld}
 units:
   - id: ane-cth-346-15-kumarbi-small-fragments
     tradition: ane-hittite
@@ -12,4 +54,139 @@ units:
     tagger: "Claude (model), reading the Hittite"
     read: ["CTH 346.15", "CTH 346.17", "CTH 346.18", "CTH 346.20"]
     tags:
-      - {motif: test-motif, refs: ["CTH 346.15 §2:3"]}
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 346.17 §1:3"], note: "only '[ ... ]utar {d}10-ni', a word to the storm god, with Kumme and the sea (aruna) in the next lines; very broken"}
+      - {motif: storm-god-asks-father-where-were-you, refs: ["CTH 346.15 §2:3-5"], note: "interpretive: someone goes to Kumarbi and is 'calm' (karussiyazzi) towards him; the meeting of a god with Kumarbi, all else broken. CTH 346.18 and 346.20 preserve only 'to Kumarbi' and 'house of Kumarbi'"}
+    hints:
+      - "Too broken for a parallel; the Kumarbi cycle's succession of divine kings may be set against Q 21:22 (were there gods besides God, heaven and earth would be ruined) and Q 23:91."
+
+  - id: ane-cth-346-16-storm-god-king-of-men
+    tradition: ane-hittite
+    title: Kumarbi myth fragment with the storm god as king of all mankind (CTH 346.16)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.16"]
+    tags:
+      - {motif: why-do-you-kneel-rebuke, refs: ["CTH 346.16 §1:9"], note: "kuwat halaettén 'why did you kneel?', near 'who is in first place?' (hantezzi kuis, §1:6) and 'their stupidity' (marlatar-šamit, §1:8)"}
+      - {motif: where-do-silver-and-gold-come-from, refs: ["CTH 346.16 §4:29-34"], note: "DINGIR-LIM-ni ešri.HI.A 'the statues of the deity'; KÙ.BABBAR GUŠKIN kuwapi 'where (are) silver and gold?'; kuez 'from where?'; Ú-UL šekkanta 'not known'"}
+      - {motif: storm-god-king-of-all-humanity, refs: ["CTH 346.16 §5:37-42"], note: "nakkiš {d}10-aš 'the weighty storm god' hears the words; hūmandaš DUMU.NAM.LÚ.U19.LU-aš LUGAL-uš 'king of all mankind'; haštaliyatar ... tarhuilatar 'heroism ... valour'; 'of the Subarian earth and of heaven' (šupriyaš taknaš nepišaš)"}
+    hints:
+      - "'King of all mankind' for a storm god: compare the Quran's 'malik al-nas' (Q 114:2) and 'Lord of the heavens and the earth' (Q 13:16); divergence: there no rival divine king."
+      - "Divine statues and the question where silver and gold come from: compare Q 20:88 (the calf from the people's ornaments) and Job 28:1."
+
+  - id: ane-cth-346-19-which-god-came
+    tradition: ane-hittite
+    title: Kumarbi myth fragment, 'Which god came to me?' (CTH 346.19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.19"]
+    tags:
+      - {motif: deity-asks-which-god-came-to-me, refs: ["CTH 346.19 §2:4-6"], note: "mān parkuwattama ... 'when he had purified himself'; kuiš-wa-mu DINGIR-LUM uet 'which god came to me?'"}
+      - {motif: storm-god-king-of-all-humanity, refs: ["CTH 346.19 §2:8"], note: "URU kummiyaš šarkuš 'the mighty (king) of Kumme', i.e. the storm god; he ceases (zinnet) and goes off"}
+    hints:
+      - "Compare 1 Sam 3:4-10 (who called me?) and Q 20:11-12 (Moses at the fire, 'I am your Lord')."
+
+  - id: ane-cth-346-21-kumarbi-quotes-ancients
+    tradition: ane-hittite
+    title: Kumarbi rises and quotes the saying of the ancients (CTH 346.21)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.21"]
+    tags:
+      - {motif: ancients-saying-quoted, refs: ["CTH 346.21 §2:5-6"], note: "PA-NI ZI-ŠU 'to his own soul' he says: karūiliuš-wa kuit memi[škanzi] 'what the ancients say'"}
+      - {motif: lions-bed-begets-hero, refs: ["CTH 346.21 §2:7-10"], note: "mān-wa-za addaš DUMU-an UR.SAG-in ... A-NA LI-IM KARAŠ ... ešdu 'if the father (begets) a son, a hero, let him be (a match) for a thousand armies'; mān šašza UR.MAH ... UR.SAG-in hāši 'if the lion's bed ..., it begets a hero'"}
+    hints:
+      - "Kumarbi plans to beget a champion against his son the storm god; compare the theme of fathers plotting against sons, and Q 2:170 (following what the forefathers said) for the authority of 'the ancients'."
+
+  - id: ane-cth-347-1-hamsha-warns-atramhasi
+    tradition: ane-hittite
+    title: Hittite Atramhasis - Hamsha passes Kumarbi's words to his son Atramhasi (CTH 347.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite adaptation of Atrahasis
+    read: ["CTH 347.1"]
+    tags:
+      - {motif: wise-father-warns-son-of-gods-plan, refs: ["CTH 347.1 §2:6-9", "CTH 347.1 §6:32-35"], note: "GIM-an {m}hamšaš ŠA {d}kumarpi INIM.MEŠ ištamašta ... A-NA {m}atramhaši DUMU-ŠU memiškiuwan 'when Hamsha heard Kumarbi's words he began to speak to Atramhasi his son'; the flood hero is the son, not the recipient of the god's direct warning"}
+      - {motif: hero-warned-by-deity, refs: ["CTH 347.1 §1:3-5"], note: "araš-wa-mu ... akti-ma-wa 'the friend ... me ... but you will die'; speaker unclear (Kumarbi?)"}
+      - {motif: feast-invitation-as-death-trap, refs: ["CTH 347.1 §2:11-15"], note: "A-NA EZEN4-ma-wa-tta kuedani halziššai 'the feast to which he calls you'; āššiyanza kuit araš 'because he is a dear friend'; dandukiš-wa GIM-an akkiškittari 'he will die like a mortal'"}
+      - {motif: wooden-statue-made-as-substitute, refs: ["CTH 347.1 §2:17"], note: "ALAM IṢ-ṢÍ iya 'make a statue of wood!'; purpose lost"}
+      - {motif: fields-given-to-another, refs: ["CTH 347.1 §4:24-27"], note: "apel A.ŠÀ.MEŠ dameta[ni] 'his fields to another'"}
+      - {motif: ant-will-devour-crop, refs: ["CTH 347.1 §5:28", "CTH 347.1 §6:33-38"], note: "MU 3.KAM-ma 'in the third year'; {d}kumarpiš kedani MU.KAM-ti 'Kumarbi in this year'; lalaweššaš garapi 'the ant will devour'; :hutanuenzi dā 'take hutanu-'; Luwian glossed plant words"}
+      - {motif: carts-driven-away-grain-saved, refs: ["CTH 347.1 §6:39-41", "CTH 347.1 §7:49"], note: "GIŠ MAR.GÍD.DA.MEŠ penni 'drive the carts away'; halkin dameda[ni] 'the grain to another (place)'"}
+      - {motif: ditches-dug-round-about, refs: ["CTH 347.1 §7:44"], note: "arahzanda HI-RI-TU4.HI.A 'ditches all around'"}
+      - {motif: messenger-travels-unseen-by-sun-and-moon, refs: ["CTH 347.1 §5:30-31"], note: "interpretive: [...] harianza 'buried/hidden' and 'heard everything' (hūman išt[amašta]); someone hidden overhears"}
+    hints:
+      - "Hittite reshaping of the Atrahasis flood story inside the Kumarbi cycle: the disaster here is a crop plague (the ant), not yet a flood. Compare Q 11:36-43 (Noah warned, his son lost), Q 71:1-4, and Gen 6:13-22."
+      - "Father warning son, against Q 11:42-43 where Noah calls his son who refuses; here the father warns and the son acts."
+      - "Grain saved from a plague over years: compare Joseph storing grain, Q 12:47-49 and Gen 41:33-36."
+
+  - id: ane-cth-347-2-gods-against-enlil
+    tradition: ane-hittite
+    title: Hittite Atramhasis - the gods face Enlil; Nuska reports (CTH 347.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite adaptation of Atrahasis
+    read: ["CTH 347.2"]
+    tags:
+      - {motif: divine-assembly-confronts-enlil, refs: ["CTH 347.2 §2:3"], note: "kinun-ma-wa KIN-ti handaš DINGIR.MEŠ-iš {d}EN.LÍL-ya IGI-anda tier 'now according to the oracle the gods and Enlil stood against each other'"}
+      - {motif: lesser-gods-toil-and-complain, refs: ["CTH 347.2 §1:2"], note: "interpretive: aimpan ardumeni 'we saw off the burden', the toiling gods' complaint as in OB Atrahasis I"}
+      - {motif: vizier-reports-assembly-to-master, refs: ["CTH 347.2 §3:4-11"], note: "{d}nušqaš DINGIR.MEŠ-aš uddār išt[amašta] ... EN-mi DINGIR.MEŠ-aš ... tuliya ... nu-šmaš tuel memian mem[ahhun] 'my lord, ... in the assembly of the gods ... I told them your word'; Ú-UL QA-TI 'not finished' (colophon)"}
+    hints:
+      - "The gods' strike against Enlil (Atrahasis I) and the assembly; compare the divine council of Ps 82:1 and, in contrast, Q 2:30-34 where the angels question God's plan for man but submit."
+
+  - id: ane-cth-348-i-1-hedammu-in-sea
+    tradition: ane-hittite
+    title: Song of Hedammu - the serpent in the sea and Ishtar's fear (CTH 348.I.1 §1-5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.1 §1:1-§5:51"]
+    tags:
+      - {motif: insatiable-devourer, refs: ["CTH 348.I.1 §3:24-26", "CTH 348.I.1 §4:31"], note: "aruni kattan 'down in the sea'; {MUŠ}hedammu ... [pašk]izzi 'swallows'; azzikkezzi 'eats (and eats)'"}
+      - {motif: deity-asks-which-god-came-to-me, refs: ["CTH 348.I.1 §4:33-36"], note: "PA-NI ZI-ŠU 'to himself': kuiš-wa-kan DINGIR-LUM arunaza GAM-an ... URU.DIDLI.HI.A dannarandus 'which god from the sea below ... the empty cities?'"}
+      - {motif: goddess-seduces-monster-with-nakedness, refs: ["CTH 348.I.1 §4:38-42"], note: "Ištar goes out to the sea; someone sees Ištar; nahmi-uš {MUŠ}ill[uyankuš] 'I fear them, the serpents'"}
+      - {motif: god-goes-down-to-dark-earth-and-fasts, refs: ["CTH 348.I.1 §2:12-18", "CTH 348.I.1 §3:20-21"], note: "a god goes down into the dark earth and 'eats nothing and drinks nothing'; 'the wind eats it, the peg'"}
+    hints:
+      - "Sea serpent (illuyanka) devouring in the sea: compare Leviathan (Isa 27:1, Ps 74:13-14) and the Quran's silence on sea monsters; the whale that swallows Jonah (Q 37:142) is God's servant, not a rival."
+
+  - id: ane-cth-348-i-1-ea-protests
+    tradition: ane-hittite
+    title: Song of Hedammu - Ea rebukes the gods for destroying mankind (CTH 348.I.1 §6-7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.1 §6:52-§7:71"]
+    tags:
+      - {motif: wise-god-protests-destruction-of-humanity, refs: ["CTH 348.I.1 §6:52-54"], note: "[{d}A.A-aš] GALGA-aš LUGAL-uš DINGIR.MEŠ-aš ištarna memišta: kuwat-tan šer harnikt[eni DUMU.LÚ.U19.LU-UTT]I 'Ea, king of wisdom, spoke among the gods: why do you destroy mankind?'"}
+      - {motif: without-humans-gods-get-no-offerings, refs: ["CTH 348.I.1 §6:55-59"], note: "A-NA DINGIR.MEŠ SISKUR Ú-UL p[eškanzi] ... GIŠ ERIN UL [šamminuškan]zi ... NINDA.GUR4.RA ... išpantuzzi namma UL kuiški šipanti 'they will no longer give offerings to the gods, nor burn cedar; no one will offer you thick bread and libation any more'"}
+      - {motif: without-humans-gods-must-plough-and-grind, refs: ["CTH 348.I.1 §6:60-61"], note: "uezzi {d}10-aš ... GIŠ APIN-an [apaši]la ēpzi 'it will come about that the storm god himself takes the plough'; {d}IŠTAR-iš {d}hepatušša [NA4 A]RA5 apašila mallanzi 'Ishtar and Hepat themselves grind at the millstone'"}
+      - {motif: gods-bear-corvee-labor, refs: ["CTH 348.I.1 §6:60-61"]}
+      - {motif: god-accused-of-visiting-evil-on-mankind, refs: ["CTH 348.I.1 §7:62-67"], note: "kuwatpat-wa zik {d}kumarbiš DUMU.LÚ.U19.LU-UTTI idalawanni šanhiš[keši] 'why do you, Kumarbi, seek out mankind with evil?'; they lay down grain, offer to you in the temple 'in joy, quickly'"}
+      - {motif: father-of-the-gods-an, refs: ["CTH 348.I.1 §7:66"], note: "here of Kumarbi: tuk-pat {d}kumarbin [... at]tan 'you, Kumarbi, the father (of the gods)'"}
+      - {motif: blood-and-tears-of-mankind, refs: ["CTH 348.I.1 §7:70"], note: "ŠA DUMU.NAM.LÚ.U19.LU ešhar išhahru 'the blood (and) tears of mankind'"}
+      - {motif: king-provides-for-gods-hunger-and-thirst, refs: ["CTH 348.I.1 §7:64-67"], note: "the storm god is called LÚ PA5 'canal inspector of mankind'; Ea asks whether he too is not named in offerings"}
+    hints:
+      - "Gods who need human offerings and would have to plough and grind for themselves: the sharpest divergence from Q 51:56-57 ('I created jinn and men only to worship me; I want no provision from them nor that they feed me') and Q 6:14 ('He feeds and is not fed'); also Ps 50:12-13 ('if I were hungry I would not tell you')."
+      - "A god pleading against the destruction of mankind: compare Abraham pleading for Sodom (Gen 18:23-33, Q 11:74-76) and Ea in Gilgamesh XI 180-188; contrast Q 2:30 where the angels object to man and God answers 'I know what you do not know'."
+
+  - id: ane-cth-348-i-1-sea-summoned
+    tradition: ane-hittite
+    title: Song of Hedammu - Mukisanu summons the Sea to Kumarbi's banquet (CTH 348.I.1 §8-14)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 348.I.1 §8:72-§14:128"]
+    tags:
+      - {motif: messenger-travels-unseen-by-sun-and-moon, refs: ["CTH 348.I.1 §8:73-75", "CTH 348.I.1 §9:78-79", "CTH 348.I.1 §10:87-88"], note: "ÍD-za taknaza GAM-an arha 'down by river and earth'; {d}30-aš {d}UTU-uš taknašša DINGIR.MEŠ-muš lē uwanzi 'let the moon god, the sun god and the gods of the earth not see you'"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 348.I.1 §10:81-88"], note: "Mukišanu repeats Kumarbi's words to the Sea: ehu ... halziššai-wa-tta DINGIR.MEŠ-aš attaš {d}kumarbiš ... uttar liliwan 'come! the father of the gods Kumarbi calls you ... an urgent matter'"}
+      - {motif: sea-personified-guest-of-high-god, refs: ["CTH 348.I.1 §10:89-99"], note: "šalliš arunaš 'the great Sea' rises, crosses 'in one go' (1-ankiya šarrattat), comes up from the šarhula- earth to Kumarbi's throne; a chair is set, a laid table, GEŠTIN KU7 'sweet wine' from the cupbearer; they eat and drink"}
+      - {motif: father-of-the-gods-an, refs: ["CTH 348.I.1 §10:83"], note: "DINGIR.MEŠ-aš attaš {d}kumarbiš 'the father of the gods, Kumarbi'"}
+      - {motif: door-bolted-for-secret-council, refs: ["CTH 348.I.1 §11:100-106", "CTH 348.I.1 §12:110-114"], note: "GIŠ IG hattal[wai] 'bolt the door!'; URUDU zakk[iuš-ma peššiya] 'push the bars!'"}
+      - {motif: hero-paralyzed-by-fear, refs: ["CTH 348.I.1 §13:117-121"], note: "lightning and thunder of the storm god and Ishtar 'with water' have not yet left us; ginuwa ... katkattiškezzi 'the knees tremble'; SAG.DU-aš ... LÚ BÁHAR-aš [GIŠ UMB]IN GIM-an uehattari 'the head spins like a potter's wheel'"}
+    hints:
+      - "A messenger who travels unseen by the sun: compare Q 18:86-90 (the sun's setting and rising places) for the sun as watcher, and Ps 139:7-12 (no hiding from God)."
+      - "The head spinning like a potter's wheel; compare Isa 29:16 and Jer 18:3-6 (potter's wheel imagery)."

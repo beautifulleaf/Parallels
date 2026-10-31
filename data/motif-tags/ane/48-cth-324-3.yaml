@@ -43,6 +43,11 @@ new_motifs:
   divine-assembly-under-hawthorn: {label: "The gods hold assembly under the hatalkešna-tree (hawthorn), where long years lie and all the gods sit", cluster: vanishing-god}
   god-carried-off-by-wind-to-sea: {label: "A vanished god is carried away into the sea (or by the wind) and must be fetched back", cluster: vanishing-god}
   vanished-god-hides-in-place-of-concealment: {label: "The vanished deity lies hidden in a named place (the moor, a pit, a grove) from which helpers must bring her or him back", cluster: vanishing-god}
+  illness-passed-down-to-earth-and-sea: {label: "An illness is passed hand to hand (palms to fingers to nails) down to the dark earth, to the Sun deity and into the sea, where it is laid in copper cauldrons with lead lids", cluster: vanishing-god}
+  ailments-of-eyes-listed-and-removed: {label: "The ailments of the eyes (tears, pus, clouding, whiteness, disease) are named one by one and taken away", cluster: healing}
+  body-made-bright-as-before: {label: "After the healing it grows bright on the person's body, head, eyes, brows and lashes, and he is to become again as he was before", cluster: healing}
+  god-sojourns-years-in-town-harvests-it: {label: "The Storm god stays eight years in a town, strikes it, harvests it, plants an orchard and fells it, and then returns", cluster: vanishing-god}
+  sons-greet-returning-father-where-were-you: {label: "The returning god meets his sons on the road; they bow and ask 'Father, where were you?'", cluster: vanishing-god}
 units:
   - id: ane-cth-324-3-1-bee-finds-telipinu
     tradition: ane-hittite
@@ -407,3 +412,65 @@ units:
     tags:
       - {motif: mugawar-invocation-with-offerings, refs: ["CTH 327.3 §1:1-§3:13"], note: "wa-al-la-a[n] 'the thigh'; ki-i ḫ[u-u-ma-an] ... [da]-a-i 'all this he sets'; 1 DUG.KA.GAG NA[G] 'a vessel of beer to drink'; ša-ez-zi 'becomes angry'?; PA-NI DI[NGIR-LIM] ... še-mi-še-ez-zi 'he burns (it)'"}
       - {motif: eagle-searches-for-vanished-god, refs: ["CTH 327.3 §3:14"], note: "only [ḫ]a-ra-na-aš-ša 'and the eagle' survives; tentative"}
+  - id: ane-cth-328-pirwa
+    tradition: ane-hittite
+    title: The Storm god of the scribe Pirwa departs and returns (CTH 328)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 328"]
+    tags:
+      - {motif: shoes-put-on-wrong-feet, refs: ["CTH 328 §2:3-5"], note: "for [Pi]rwa the wood-tablet scribe ({LÚ}DUB.SAR.GIŠ): [{KUŠ}]E.SIR ZAG-az ḫ[u-i-nu-ut] '(the left) shoe he made run on the right', [GÙ]B-la-az ḫu-i-nu-ut 'on the left'"}
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 328 §3:7"], note: "[{d}]IM-aš-kán {m}pí-ir-wa-aš '(the Storm god left the house of) Pirwa': the personal god of a scribe"}
+      - {motif: mist-seizes-windows-smoke-the-house, refs: ["CTH 328 §3:8-9"], note: "[{GI]}Šlu-ut-ta-i kam-ma-ra-a-aš 'mist (seized) the window'; e-ep-ta 'seized'"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 328 §3:10-12"], note: "GUNNI ú-i-šu-r[i-ya-at-ta-ti] 'the hearth choked'; 1 LI-IM DINGIR.MEŠ ú-i-šu-ri-y[a-an-ta-ti] 'the thousand gods choked'"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 328 §4:13-20"], note: "{d}UTU-uš-za EZEN4-an i-e-et 'the Sun god made a feast'; {d}UTU-uš IGI.ḪI.A-wa wa-aḫ-nu-[ut] ... Ú-UL ú-e-mi-et 'the Sun god turned his eyes about ... he did not find (him)'"}
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 328 §4:21-24"], note: "{MUŠEN}ḫa-ra-na-a-an pít-ti-ya-li-i[n] 'the swift eagle'; pár-ga-mu-uš ḪUR.SAG.ḪI.A-uš ... ku-li-ya-mu-uš ... ḫal-lu-wa-mu-u[š]"}
+      - {motif: god-returns-house-restored, refs: ["CTH 328 §5:27-§7:43"], note: "{d}IM-aš-za I-NA É {m}p[í-ir-wa] [š]a-ku-wa-i-e-et 'the Storm god looked into Pirwa's house'; {GIŠ}AB-i kam-m[a-ra-aš] ... tar-na-aš 'mist left the window'; [kal-m]i-ša-né-eš ḫa-an-ta-[an-ta-at]; DINGIR.MEŠ ḫa-an-t[a-an-ta-at]; the scribe sits on a footstool ({GIŠ}GÌR.GUB e-š[a-at]); 9 NINDA.ÉRIN.MEŠ ḫar-pa-an-da-a[n] 'nine soldier-breads heaped'"}
+      - {motif: gods-eat-and-are-satisfied-on-return, refs: ["CTH 328 §7:44-47"], note: "[n]a-at-za iš-pí-er 'they were full'; e-ku-er 'they drank'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 328 §8:50-§10:61"], note: "[šu-up]-pí-iš-ša-ra-aš DUMU.MUNUS.MEŠ 'pure daughters (= virgins)'; nu ZI-KA 'your soul'; i-ya-aḫ-ḫu-ut 'go!'; {GIŠ}ḫa-ap-pu-ri-ya-aš; nu UD 3.KAM mu-ki-iš-ke-ez-z[i] 'for three days he invokes'; 3-ŠU ḫu-e-ek-zi 'three times he conjures'"}
+    hints:
+      - "A scribe's personal god who departs and returns to his house: compare the personal relationship with God of the Quranic and biblical petitioner, and the three-day invocation with the three days of Jonah in the fish (Jonah 1:17) or of Zechariah's sign of silence (Q 3:41, 19:10)."
+      - "The departure in anger: compare Dhul-Nun (Jonah) 'when he went off in anger' (idh dhahaba mughadiban, Q 21:87) and Jonah fleeing from the presence of the LORD (Jonah 1:3)."
+  - id: ane-cth-331-1-1-eye-illness-removed
+    tradition: ane-hittite
+    title: The eye diseases are taken from a child and passed down through palms, fingers and nails to the dark earth, the Sun and the copper cauldrons of the sea (Storm god in Lihzina, CTH 331.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 331.1 §1:1-§11:59"]
+    tags:
+      - {motif: ailments-of-eyes-listed-and-removed, refs: ["CTH 331.1 §1:3-§2:15"], note: "[DUM]U-li A-NA S[AG.D]U-ŠU 'to the child, on his head'; tarpi-, parninka-, [blood], ḫa-pa-an-zi, [iš-ḫa-aḫ-r]u 'the flow of tears', IGI.ḪI.A-aš '(disease) of the eyes', [š]i-pa-an 'pus', kam-ma-ra-a-an 'the clouding (lit. mist)', i-na-an 'the disease' ... da-a-ú 'let him take'"}
+      - {motif: illness-passed-down-to-earth-and-sea, refs: ["CTH 331.1 §3:16-18", "CTH 331.1 §7:31-§8:35"], note: "[da-ga-an]-zi-pa-aš an-da e-e[p-d]u 'let the dark earth take (it) in'; ḫar-ga-na-u-i-ša-at ka-lu-lu-[pa-aš] 'the palms (gave) it to the fingers', the fingers to the nails, ša-an-ku-wa-i-ša-at da-an-ku-wa-i t[a-ga-an-zi-pí] pí-i-e-er 'the nails gave it to the dark earth'; the earth to the Sun deity, {d}UTU-ša-at a-ru-ni pé-e-da-[aš] 'the Sun deity carried it to the sea'"}
+      - {motif: anger-sealed-in-netherworld-cauldrons, refs: ["CTH 331.1 §9:36-§10:49"], note: "a-ru-ni-ma URUDU-aš pal-ḫa-eš ki-an-da-[ri] 'in the SEA lie COPPER palḫi-vessels', iš-tap-pu-ul-li-iš-mi-it A.BÁR-aš 'their lids of lead'; every ailment named again, each 'da-iš' 'she put (it in)': here it is illness, not anger, that is sealed away"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 331.1 §4:19-§6:30"], note: "fragmentary: ḪUR.SAG.ḪI.A KI.MIN 'the mountains likewise'; DINGIR.MEŠ-eš {GIŠ}BANŠUR.ḪI.A-aš ... da-i-e-er 'the gods set (food) on the tables'; {URUDU}ŠÚ.A 'the (copper) throne'"}
+      - {motif: body-made-bright-as-before, refs: ["CTH 331.1 §11:50-59"], note: "A-NA DUMU.LÚ.U19.LU-ma tu-ek-ki-iš-ši [a]n-da-an la-lu-uk-ki-it 'on the man's body it became bright'; head, eyes, pupils, the white and dark of the eyes, forehead, brows, lashes KI.MIN; ka-ru-ú ma-a-an na-aš a-ap-pa QA-TAM-MA ki-ša-ru 'as he was before, so let him become again'"}
+    hints:
+      - "Healing of eyes and the body made 'as before': compare Jesus healing the blind (Q 3:49, 5:110: 'you healed the blind and the leper by my permission') and Jacob's sight restored (Q 12:93, 96; Gen 48:10 for his failing eyes)."
+      - "Disease cast into the sea: compare the demons sent into the swine that rush into the sea (Mark 5:13) and God casting sins 'into the depths of the sea' (Mic 7:19)."
+  - id: ane-cth-331-1-2-storm-god-in-lihzina
+    tradition: ane-hittite
+    title: The Storm god spends eight years in Lihzina; his sons meet him on the road and ask where he was (CTH 331.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 331.1 §12:60-§17:88"]
+    tags:
+      - {motif: god-sojourns-years-in-town-harvests-it, refs: ["CTH 331.1 §12:60-§13:68"], note: "{d}IM-na-aš pa-it nu-k[án {URU}li]-iḫ-zi-na-an ku-wa-aš-ke-ez-zi 'the Storm god went and keeps striking Lihzina'; na-an-kán n[a-a]t-ta tar-uḫ-zi ku-e-en-zi 'he cannot kill it'; MU 8.KAM e-eš-ta 'was there eight years', a-ni-at 'worked', wa-a-ar-aš-ta 'harvested'; {GIŠ}ti-i-e-eš-šar da-iš ... ḫa-aš-pád-da 'planted an orchard and felled it'; a-ap-pa i-ez-zi 'he returns'"}
+      - {motif: sons-greet-returning-father-where-were-you, refs: ["CTH 331.1 §14:69-75"], note: "8 DUMU.MEŠ DINGIR.MEŠ 'eight sons of the gods' met on the road; ḫi-in-kán-ta-at 'bowed'; {d}IM-ta [a]t-ta-šu[m-mi] ku-wa-pí e-eš-ta 'Storm god, our father, where were you?'; he answers in the first person"}
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 331.1 §12:60"], note: "the going (pa-it) of the Storm god; no anger is stated in the preserved text"}
+      - {motif: gods-ask-what-shall-we-do, refs: ["CTH 331.1 §15:76-83"], note: "the sons: da-a-la-wa 'let it be!'; a-mi-ya-an-te-eš-wa ú-e-eš 'we are small'; ut-ni-wa-kán ú-e-eš 'we are in the land'; nu-za ut-ne-e tar-ḫu-[er] 'they conquered the land'"}
+      - {motif: roused-god-destroys-rivers-cities-men, refs: ["CTH 331.1 §16:84-87"], note: "ḫa-at-te-eš-na-aš kat-t[a] 'down into the pits'; GU4-un ta-ru-up-pé-er 'they gathered the cattle', the sheep, DUMU.LÚ.U19.LU ta-ru-up-pé-[er] 'they gathered the people': the sons' action, not the god's, so a loose fit"}
+    hints:
+      - "A long absence that seems short and a question 'where were you?': compare the man who slept a hundred years and is asked 'how long have you stayed?' (Q 2:259) and the sleepers of the cave (Q 18:19)."
+      - "Eight years in a foreign town working and harvesting: compare Jacob's years of service for Laban (Gen 31:41) and Moses' eight or ten years in Midian (Q 28:27)."
+  - id: ane-cth-331-2-illness-dissolves
+    tradition: ane-hittite
+    title: The ailments dissolve one by one (fragment of the Lihzina myth, CTH 331.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 331.2"]
+    tags:
+      - {motif: ailments-of-eyes-listed-and-removed, refs: ["CTH 331.2 §1:1-§2:12"], note: "each ailment mar-ra-at-ta-at 'dissolved': [ḫap]anzi, iš-ḫa-aḫ-ru 'tears', ši-pa-an 'pus', ga-ma-ra-a-aš 'clouding', ḫar-ki 'the white', i-n[a-an] 'disease'"}
+      - {motif: body-made-bright-as-before, refs: ["CTH 331.2 §2:14-16"], note: "[DUMU].LÚ.U19.[L]U tu-ek-ke-eš-še-eš 'the limbs of the person' KI.MIN"}

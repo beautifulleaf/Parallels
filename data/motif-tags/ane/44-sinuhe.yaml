@@ -1080,3 +1080,148 @@ units:
     hints:
       - "The threat to newborn future kings from the reigning king, foiled: the infancy of Moses (Exod 1:22-2:10; Q 28:7-13) and of Jesus (Matt 2:13-18)."
       - "A betrayer struck down: Judas (Matt 27:3-5; Acts 1:18)."
+  # ===================== CTH 1: the Anitta text (Old Hittite) =====================
+  - id: ane-cth1-w1-nesa-fragment
+    tradition: ane-hittite
+    title: "Anitta (KBo 22.5): fragment of the taking of Neša and the campaign towards Ullamma"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W1, KBo 22.5, Old Hittite fragment (CTH 1)"
+    read: ["CTH 1 W1:1'-16'"]
+    tags:
+      - {motif: city-taken-by-night-assault, refs: ["CTH 1 W1:5'-6'"], note: "[URU n]e-e-ša-an iš-pa-an-ti [...] e-ep-ta '(he) seized Neša in the night'"}
+      - {motif: conqueror-makes-citizens-his-parents, refs: ["CTH 1 W1:7'-8'"], note: "[ne-e]-ša i-da-a-lu Ú-UL ku-it-ki ... [at-t]u-uš an-ni-uš i-ia-nu-un 'to Neša (I did) nothing evil ... I made (them) fathers and mothers'; this copy has the first person (iyanun)"}
+      - {motif: city-conquered-in-a-single-day, refs: ["CTH 1 W1:10'"], note: "I-NA UD 1 KAM 'in one day' (context broken; perhaps of a defeat at Ullamma, 11')"}
+  - id: ane-cth1-w2-anitta-takes-nesa
+    tradition: ane-hittite
+    title: "Anitta (KBo 3.22): Anitta son of Pithana; dear to the Storm-god; the king of Kuššara takes Neša by night and spares it"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 3.22, Old Hittite main manuscript (CTH 1)"
+    read: ["CTH 1 W2:obv._1-obv._12"]
+    tags:
+      - {motif: royal-inscription-umma-opening, refs: ["CTH 1 W2:obv._1"], note: "a-ni-it-ta DUMU pí-it-ḫa-a-na LUGAL URU ku-uš-ša-ra QÍ-BÍ-MA 'Anitta, son of Pithana, king of Kuššara, speak!' (the Akkadian letter/message formula)"}
+      - {motif: storm-god-of-heaven-favours-king, refs: ["CTH 1 W2:obv._2-obv._3"], note: "ne-pí-iš-za-aš-ta IŠKUR-un-ni a-aš-šu-uš e-eš-ta 'he was dear (aššuš) to the Storm-god of Heaven', repeated: 'and when he was dear to the Storm-god ...'"}
+      - {motif: city-taken-by-night-assault, refs: ["CTH 1 W2:obv._5-obv._7"], note: "The king of Kuššara came down from the city in force (pangarit) and [ne-e-ša-an] iš-pa-an-di na-ak-ki-it da-a-aš 'took Neša in the night by storm'; he seized the king of Neša (IṢ-BAT)"}
+      - {motif: conqueror-makes-citizens-his-parents, refs: ["CTH 1 W2:obv._7-obv._9"], note: "DUMU.MEŠ URU ne-e-ša-aš i-da-a-lu na-at-ta ku-e-da-ni-ik-ki ták-ki-iš-ta an-nu-uš at-tu-uš i-e-et 'to the sons of Neša he did no evil to anyone; he made them mothers and fathers'"}
+      - {motif: son-continues-fathers-conquests, refs: ["CTH 1 W2:obv._10-obv._12"], note: "pí-it-ḫa-a-na-aš at-ta-aš-ma-aš a-ap-pa-an 'after my father Pithana' I fought a revolt: d UTU-az ut-ne-e ku-it ku-it-pát a-ra-iš nu-uš ḫu-u-ma-an-du-uš-pát ḫu-ul-la-nu-un 'whatever land rose from the sunrise, I defeated them all'"}
+    hints:
+      - "A god's favour as the ground of a royal career: 'the LORD was with him' of David (1 Sam 18:12-14; 2 Sam 5:10) and Hezekiah (2 Kgs 18:7)."
+      - "A city taken by a night attack: Gideon (Judg 7:19-22), Abraham against the kings (Gen 14:15), Ai by ambush (Josh 8:3-19)."
+      - "The conqueror who does no harm to the captured city's people: contrast the ban (ḥerem) of Josh 6:21; compare David sparing (2 Sam 8:2 partially) and the clemency of 1 Kgs 20:31."
+  - id: ane-cth1-w2-campaigns-and-gate-tablet
+    tradition: ane-hittite
+    title: "Anitta (KBo 3.22): campaigns to Ullamma, against the king of Hatti, Harkiuna, Wašhaniya; the inscription set at the city gate"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 3.22"
+    read: ["CTH 1 W2:obv._13-obv._35"]
+    tags:
+      - {motif: city-taken-by-night-assault, refs: ["CTH 1 W2:obv._17-obv._19"], note: "Harkiuna and Wašhaniya: ḫa-an-ta-i-ši me-e-ḫu-ni 'at the time of heat' and [x]-an iš-pa-an-di [na-ak-ki-it] 'by night'"}
+      - {motif: defeated-cities-given-to-storm-god, refs: ["CTH 1 W2:obv._20-obv._21"], note: "[URU.DIDLI] ne-pí-ša-aš d IŠKUR-ni ḫa-ap-pa-ri-e-nu-un 'I handed over (sold?) the cities to the Storm-god of Heaven' (ḫappariya- 'trade, hand over'); obscure"}
+      - {motif: city-never-resettled-curse, refs: ["CTH 1 W2:obv._22-obv._28"], note: "Fragmentary: ku-iš am-me-el a-ap-pa-an LUGAL-uš ki-i-ša-ri 'whoever becomes king after me' ... a-ap-pa le-e ku-iš-ki a-ša-a-ši 'let no one settle again (Harkiuna, Neša?)'; 'like a lion to the land' (UR.MAḪ-iš ma-a-an ut-ne-e); the Storm-god is to deal with the offender"}
+      - {motif: lion-simile-for-king, refs: ["CTH 1 W2:obv._26"]}
+      - {motif: inscription-set-at-city-gate-with-curse, refs: ["CTH 1 W2:obv._33-obv._35"], note: "ke-e ud-da-a-ar tup-pi-ia-az I-NA KÁ.GAL-IA ... UR-RA-AM ŠE-RA-AM ki-i tup-pi le-e ku-iš-ki ḫu-ul-li-e-ez-zi ku-i-ša-at ḫu-ul-li-iz-zi URU ne-e-ša-aš LÚ.KÚR-ŠU e-eš-tu 'these words (I set) on a tablet at my gate; in future let no one damage this tablet; whoever damages it, let him be the enemy of Neša'"}
+      - {motif: curse-gods-destroy-name-of-tablet-alterer, refs: ["CTH 1 W2:obv._34-obv._35"], note: "Approximate: the sanction here is enmity with Neša, not the gods' destruction of his name"}
+    hints:
+      - "A conqueror's words written up at the city gate with a curse on whoever damages them: compare Deut 27:2-8 (words written on plastered stones), Josh 8:32, and the curse formula of Deut 27:15-26; Rev 22:18-19."
+      - "A curse on whoever rebuilds the destroyed city: Josh 6:26, fulfilled at 1 Kgs 16:34."
+  - id: ane-cth1-w2-zalpa-and-hattusa
+    tradition: ane-hittite
+    title: "Anitta (KBo 3.22): Piyušti of Hatti defeated; the god Šiušummi brought back from Zalpa; Huzziya captured; Hattusa taken by night, sown with weeds and cursed"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 3.22"
+    read: ["CTH 1 W2:obv._36-rev._51"]
+    tags:
+      - {motif: auxiliary-army-defeated, refs: ["CTH 1 W2:obv._36-obv._38"], note: "Piyušti king of Hatti came again; šar-di-aš-ša-an-na ku-in ú-wa-te-et 'the auxiliaries he brought' I defeated at Šalampa; all the lands from Zalpa by the sea (a-ru-na-aš)"}
+      - {motif: patron-goddess-statue-carried-off-and-brought-back, refs: ["CTH 1 W2:obv._39-obv._42"], note: "ka-ru-ú u-uḫ-na-aš LUGAL URU za-a-al-pu-wa d ši-ú-šum-mi-in URU ne-e-ša-az URU za-a-al-pu-wa pé-e-da-aš ap-pé-ez-zi-ia-na a-ni-it-ta-aš LUGAL.GAL d ši-ú-šum-mi-in URU za-a-al-pu-wa-az a-ap-pa URU ne-e-ša pé-e-taḫ-ḫu-un 'formerly Uhna king of Zalpa carried Šiušummi ('our god') from Neša to Zalpa; later I, Anitta the great king, brought Šiušummi back from Zalpa to Neša'. Šiušummi is a god, not a goddess"}
+      - {motif: idols-stolen-by-conquerors, refs: ["CTH 1 W2:obv._39-obv._40"]}
+      - {motif: captured-king-brought-alive-to-capital, refs: ["CTH 1 W2:obv._43-lo._e._44"], note: "ḫu-uz-zi-ia-na LUGAL URU za-a-al-pu-wa ḫu-šu-wa-an-ta-an URU ne-e-ša ú-wa-te-nu-un 'Huzziya king of Zalpa I brought alive to Neša'"}
+      - {motif: city-taken-by-night-assault, refs: ["CTH 1 W2:rev._46-rev._48"], note: "Hattusa: ap-pé-ez-zi-ia-na ki-iš-ta-an-zi-at-ta-at ša-an d ḫal-ma-šu-it-ti d ši-i-uš-mi-iš pa-ra-a pa-iš ša-an iš-pa-an-di na-ak-ki-it da-a-aḫ-ḫu-un 'later, when it was in famine, the goddess Halmašuitti my god(dess) handed it over, and I took it in the night by storm'"}
+      - {motif: god-delivers-city-to-king, refs: ["CTH 1 W2:rev._46-rev._47"], note: "pa-ra-a pa-iš 'gave it over (into my hand)'"}
+      - {motif: destroyed-city-sown-with-weeds, refs: ["CTH 1 W2:rev._48"], note: "pé-e-di-iš-ši-ma ZÀ.AḪ.LI-an a-ni-e-nu-un 'in its place I sowed cress/weeds (ZÀ.AḪ.LI, sahlu)'"}
+      - {motif: city-never-resettled-curse, refs: ["CTH 1 W2:rev._49-rev._51"], note: "ku-iš am-me-el a-ap-pa-an LUGAL-uš ki-i-ša-ri nu URU ḫa-at-tu-ša-an a-ap-pa a-ša-a-ši na-an ne-pí-ša-aš d IŠKUR-aš ḫa-az-zi-e-et-tu 'whoever becomes king after me and settles Hattusa again, may the Storm-god of Heaven strike him'"}
+    hints:
+      - "A city sown after its destruction: Abimelech razes Shechem and sows it with salt (Judg 9:45); Jericho cursed for whoever rebuilds it (Josh 6:26; 1 Kgs 16:34)."
+      - "A captured god returned to its city: the ark taken by the Philistines and returned (1 Sam 5-6); Cyrus restoring the temple vessels (Ezra 1:7-11)."
+      - "A god handing over a city to the king: 'I have given Jericho into your hand' (Josh 6:2; 8:1)."
+  - id: ane-cth1-w2-salatiwara-temples-hunt-purushanda
+    tradition: ane-hittite
+    title: "Anitta (KBo 3.22): Šalatiwara; temples built in Neša; the vowed hunt; the man of Purušhanda brings an iron throne and sceptre"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 3.22; reverse increasingly broken (supplemented by W5 = KUB 26.71)"
+    read: ["CTH 1 W2:rev._52-rev._79"]
+    tags:
+      - {motif: temples-built-and-booty-dedicated, refs: ["CTH 1 W2:rev._55-rev._59"], note: "In Neša I built (ú-e-te-nu-un) ... ne-pí-ša-aš d IŠKUR-na-aš É-er Ù É d ši-ú-na-šum-ma-aš É d ḫal-ma-šu-it-ta-aš 'the house of the Storm-god of Heaven, the house of our god (Šiušummi), the house of Halmašuitt'; KASKAL-za ku-it a-aš-šu ú-daḫ-ḫu-un 'what goods I brought from the campaign' ... ma-a-al-daḫ-ḫu-un 'I vowed (dedicated)'"}
+      - {motif: royal-hunt-animals-brought-to-city, refs: ["CTH 1 W2:rev._59-rev._63"], note: "Fragmentary: ša-ni-ia ši-wa-at 'in one day'; 1 ME 20 AZ.ḪI.A 'one hundred and twenty bears (?)' or ... DÀRA (wild goat); to Neša"}
+      - {motif: city-burned-by-conqueror, refs: ["CTH 1 W2:rev._64-rev._70"], note: "Mostly broken: in the following year (ú-e-et-ta-an-da-an-ni-eš-ši) the man of Šalatiwara came, river Hulanna, his cities ...; fuller in W5"}
+      - {motif: submitting-king-brings-iron-throne-and-sceptre, refs: ["CTH 1 W2:rev._74-rev._75"], note: "nu LÚ URU pu-ru-uš-ḫa-an-da ... šu-mu 1 GIŠ ŠÚ.A AN.BAR 1 PA.GAM AN.BAR 'the man of Purušhanda (brought) me one throne of iron and one sceptre of iron'"}
+      - {motif: submitted-king-seated-before-conqueror, refs: ["CTH 1 W2:rev._76-rev._79"], note: "When I came back to Neša, I brought the man of Purušhanda with me; ma-a-an tu-un-na-ki-iš-na-ma pa-iz-zi a-pa-a-ša pé-e-ra-am-mi-it ku-un-na-az e-ša-ri 'when he goes into the inner chamber, he shall sit before me on the right'"}
+    hints:
+      - "A defeated king given a seat of honour at the conqueror's court: Jehoiachin lifted up and given a seat above the kings with Evil-merodach (2 Kgs 25:27-30; Jer 52:31-34); Mephibosheth at David's table (2 Sam 9:7-13)."
+      - "Iron throne and sceptre as tribute: compare the iron sceptre of Ps 2:9 and Og's iron bed (Deut 3:11)."
+      - "Booty dedicated to the god's house: David dedicating the spoils (2 Sam 8:11-12; 1 Chr 26:27)."
+  - id: ane-cth1-w3-hattusa-curse-fragment
+    tradition: ane-hittite
+    title: "Anitta (KBo 50.1): fragment of the curse on resettling Hattusa and the turn to Šalatiwara"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W3, KBo 50.1, duplicate of KBo 3.22 rev. 49-54"
+    read: ["CTH 1 W3:1'-7'"]
+    tags:
+      - {motif: city-never-resettled-curse, refs: ["CTH 1 W3:1'-3'"], note: "[ku-iš am-me]-el EGIR-a[n ... nu URU ḫ]a-at-tu-ša-a[n ...] ne-pí-ša-aš [d IŠKUR-aš ...]"}
+      - {motif: city-burned-by-conqueror, refs: ["CTH 1 W3:4'-7'"], note: "Šalatiwara ... GIŠ tu-u-ri ú-da-a-aš 'brought (his) spears'; to Neša; the burning itself is not preserved here"}
+  - id: ane-cth1-w4-hunt-fragment
+    tradition: ane-hittite
+    title: "Anitta (KBo 61.319): fragment of the hunt list and dedication to 'my god' in Neša"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W4, KBo 61.319, fragment of the reverse (col. IV?)"
+    read: ["CTH 1 W4:rev._IV(?)_1'-rev._IV(?)_12'"]
+    tags:
+      - {motif: royal-hunt-animals-brought-to-city, refs: ["CTH 1 W4:rev._IV(?)_1'-rev._IV(?)_4'"], note: "ŠAḪ GIŠ.GI 1 ME 'one hundred boars (reed-pigs)', AZ (bear?), DÀRA.MAŠ (deer), UDU.KUR.RA (wild sheep); [URU ne-e-š]a A-NA DINGIR-IA 'to Neša, to my god'"}
+  - id: ane-cth1-w5-temples-hunt-salatiwara-purushanda
+    tradition: ane-hittite
+    title: "Anitta (KUB 26.71): temples, the vowed hunt, the burning of Šalatiwara, Purušhanda's iron gifts"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W5, KUB 26.71, later copy duplicating and completing KBo 3.22 rev."
+    read: ["CTH 1 W5:obv._I_1'-obv._I_19´"]
+    tags:
+      - {motif: city-never-resettled-curse, refs: ["CTH 1 W5:obv._I_1'"], note: "[... ḫa-az-zi-e]-ed-d[u] 'may he strike (him)', end of the Hattusa curse"}
+      - {motif: temples-built-and-booty-dedicated, refs: ["CTH 1 W5:obv._I_4'-obv._I_7'"], note: "Houses of the Storm-god of Heaven, of Šiunašummi, of Halmašuitta, of the Storm-god my lord; KASKAL-za ku-it ... a-pé-e-da-an-da ḫa-liš-ši-ia-nu-un 'what (I brought) from the campaign I overlaid (them) with'; nu ma-al-da-aḫ-ḫu-un nu ḫu-u-wa-ar-na-aḫ-ḫu-un 'I made a vow and I hunted'"}
+      - {motif: royal-hunt-animals-brought-to-city, refs: ["CTH 1 W5:obv._I_8'-obv._I_10'"], note: "2 UR.MAḪ 70 ŠAḪ.ḪI.A 60 ŠAḪ GIŠ.GI ... PÌRIG.TUR Ú-LU UR.MAḪ.ḪI.A LU-Ú DÀRA.MAŠ LU-Ú DÀRA '2 lions, 70 pigs, 60 boars ... leopards or lions, deer or wild goats'; URU ne-i-ša A-NA URU-IA ú-da-aḫ-ḫu-un 'I brought (them) to Neša, my city'"}
+      - {motif: city-burned-by-conqueror, refs: ["CTH 1 W5:obv._I_10'-obv._I_15´"], note: "In the following year I went to battle against Šalatiwara; the man of Šalatiwara with his sons rose up, left his land and city and seized the river Hulanna; (the army of Neša) went round behind him: URU-ŠU lu-uk-ki-it 'set fire to his city'; his besieging force 1400 troops, (40) chariots, horses, silver"}
+      - {motif: submitting-king-brings-iron-throne-and-sceptre, refs: ["CTH 1 W5:obv._I_16´-obv._I_17´"], note: "LÚ.MEŠ URU pu-ru-uš-ḫa-an-da ... AN.BAR ḫé-en-gur ú-da-aš 'the man of Purušhanda brought iron as a gift'"}
+      - {motif: submitted-king-seated-before-conqueror, refs: ["CTH 1 W5:obv._I_17´-obv._I_19´"], note: "Variant: ma-a-an URU za-al-pa-ma pa-iz-zi 'when he goes to Zalpa (?)' where KBo 3.22 has tunnakkišna 'into the inner chamber'; [ku-un-na-a]z e-ša-ri 'he sits on the right'"}
+    hints:
+      - "The conqueror's hunt of lions and wild beasts as royal deed: Nimrod 'a mighty hunter before the LORD' (Gen 10:9); David's lion and bear (1 Sam 17:34-36); Benaiah (2 Sam 23:20)."
+  - id: ane-cth1-w6-duplicate-fragments
+    tradition: ane-hittite
+    title: "Anitta (KUB 36.98b+): fragments duplicating the whole text: Neša spared, campaigns, gate tablet, Šiušummi, the temples, the hunt, Purušhanda"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W6, KUB 36.98b+ (three joined fragments), later copy"
+    read: ["CTH 1 W6:{€1}_obv._1'-{€3}_rev._5"]
+    tags:
+      - {motif: conqueror-makes-citizens-his-parents, refs: ["CTH 1 W6:{€1}_obv._2'-{€1}_obv._3'"], note: "[... ne-ša-aš ... ták-ki-i]š-ta, the clause 'did no evil' (restored)"}
+      - {motif: son-continues-fathers-conquests, refs: ["CTH 1 W6:{€1}_obv._4'-{€1}_obv._5'"]}
+      - {motif: city-taken-by-night-assault, refs: ["CTH 1 W6:{€1}_obv._9'-{€1}_obv._10'"], note: "Harkiuna ... [na-ak]-ki-it EL-QÉ 'I took (it) by storm' (Akkadogram for 'I took')"}
+      - {motif: inscription-set-at-city-gate-with-curse, refs: ["CTH 1 W6:{€2}_obv._4'-{€2}_obv._5'"], note: "[...] tup-pí-ia-a[z ... ḫu]-ul-li-e-ez-zi ku-i-ša-at"}
+      - {motif: patron-goddess-statue-carried-off-and-brought-back, refs: ["CTH 1 W6:{€2}_obv._9'-{€2}_obv._10'"], note: "Neša ... Zalpuwa ... [Šiušumm]i-in Zalpuwaza"}
+      - {motif: temples-built-and-booty-dedicated, refs: ["CTH 1 W6:{€3}_obv._3'-{€3}_obv._6'"]}
+      - {motif: royal-hunt-animals-brought-to-city, refs: ["CTH 1 W6:{€3}_obv._7'-{€3}_obv._9'"], note: "ša-ni-i-ia UD.KAM-ti 2 UR.MAḪ ... URU ne-ša A-NA DINGIR.DIDLI-IA 'in one day 2 lions ... to Neša, to my gods'"}
+      - {motif: city-burned-by-conqueror, refs: ["CTH 1 W6:{€3}_obv._10'-{€3}_obv._14'"]}
+      - {motif: submitting-king-brings-iron-throne-and-sceptre, refs: ["CTH 1 W6:{€3}_rev._2-{€3}_rev._3"], note: "1 GIŠ ŠÚ.A AN.BAR 1 PA.ḪAL AN.BAR ḫé-en-gur 'one iron throne, one iron sceptre as gift'"}
+      - {motif: submitted-king-seated-before-conqueror, refs: ["CTH 1 W6:{€3}_rev._4-{€3}_rev._5"], note: "[tu-un-na-k]i-iš-na-ma pa-iz-zi a-pa-a-ša pé-ra-a-am-mi-it ... e-ša-ri 'when he goes into the inner chamber he sits before me'"}

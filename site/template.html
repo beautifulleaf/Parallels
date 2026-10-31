@@ -856,7 +856,8 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     const list = visible();
     const groups = new Map();
     for (const r of list) {
-      const key = r.q.length ? r.q[0][0] : 999;
+      const ref = qTokens.find(t => typeof t !== "string" && r.q.some(([qs]) => qs === t.s));   // a verse search groups by that surah
+      const key = ref ? ref.s : r.q.length ? r.q[0][0] : 999;
       if (!groups.has(key)) groups.set(key, []);
       groups.get(key).push(r);
     }
