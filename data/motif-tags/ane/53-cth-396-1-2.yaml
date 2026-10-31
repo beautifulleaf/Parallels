@@ -892,3 +892,215 @@ units:
       - {motif: washing-with-natron-water, refs: ["CTH 404.1.III §18:104-108"]}
       - {motif: water-sealed-in-horn-until-ancient-kings-return, refs: ["CTH 404.1.III §19:109-114"]}
       - {motif: scribal-colophon, refs: ["CTH 404.1.III §20:115-117", "CTH 404.1.III §21:118-121"], note: "SISKUR EN EME 'ritual of the lord of a tongue'; incipit of the next tablet"}
+  - id: ane-cth-406-1-paskuwatti-gate-spindle-bow
+    tradition: ane-hittite
+    title: Paškuwatti of Arzawa against impotence, the reed gate, the spindle taken and the bow given (CTH 406 §1-4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 406 §1:1-§4:28"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 406 §1:1-2"], note: "UM-MA fPaškuwatti MUNUS URUArzawa; living in Parašša"}
+      - {motif: ritual-against-impotence, refs: ["CTH 406 §1:3-4"], note: "LÚ-ni kuedani ḫaššatar NU.GÁL našma=aš MUNUS-ni menaḫḫanda UL LÚ-aš 'a man who has no procreative power or is not a man towards a woman'"}
+      - {motif: goddess-invoked-three-days, refs: ["CTH 406 §2:5-7"], note: "dUliliyaššin šippantaḫḫi … INA U4.3.KAM mugāmi"}
+      - {motif: offerings-on-soldier-bread, refs: ["CTH 406 §2:8-10"], note: "NINDA.ERÍN.MEŠ with sweet breads, figs, raisins, poppy, parḫuena-, memal, a tuft of wool"}
+      - {motif: pure-girl-carries-offerings, refs: ["CTH 406 §3:11", "CTH 406 §3:16"], note: "DUMU.MUNUS šuppeššaraš karapzi 'a girl of purity lifts it'"}
+      - {motif: patient-washed-before-rite, refs: ["CTH 406 §3:12-14"], note: "EN SÍSKUR warpanza"}
+      - {motif: rite-in-uncultivated-place, refs: ["CTH 406 §3:15"], note: "gimri dammeli [ped]i 'in the open country, in an untrodden place'"}
+      - {motif: patients-pass-through-ritual-gates, refs: ["CTH 406 §3:17", "CTH 406 §4:18-21"], note: "KÁ.GAL.ḪI.A-TIM ŠA GI.ḪI.A 'a gate of reeds' bound with red and white wool; he passes through"}
+      - {motif: spindle-taken-bow-given-manhood-restored, refs: ["CTH 406 §4:19-28"], note: "GIŠḫuišan GIŠḫulaliya 'spindle and distaff' … GIŠPAN GI.ḪI.A 'bow and arrows': MUNUS-tar arḫa daḫḫun … EGIR-pa LÚ-tar piḫḫun … MUNUS-aš šaklin arḫa … pešši[yat] … LÚ-aš šaklin"}
+    hints:
+      - "Compare Q 42:49-50 (He gives females or males to whom He wills and makes barren whom He wills) and Q 3:38-40, 19:8-9 (Zechariah given a son)."
+      - "Compare 2 Sam 3:29 (a man 'who holds the spindle' as a curse on Joab's house) and Deut 22:5 (garments of the other sex)."
+  - id: ane-cth-406-2-paskuwatti-invocation-uliliyassi
+    tradition: ane-hittite
+    title: Paškuwatti ritual, the invocation of Uliliyašši to come to the man and be his wife (CTH 406 §5-10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 406 §5:29-§10:81"]
+    tags:
+      - {motif: man-of-excrement-and-urine, refs: ["CTH 406 §6:35-37"], note: "kāš tandukešnaš DUMU-aš šaknaš šeḫunaš 'this mortal is of excrement and urine'; he did not find you; it went down to his loins"}
+      - {motif: suppliant-comes-on-knees-seeks-deity, refs: ["CTH 406 §7:38-39", "CTH 406 §10:67-69"], note: "ginuwaššaš uit 'came on his knees'; DINGIR-LIM-anni EGIR-an šanḫiškezzi 'seeks you for your divinity'"}
+      - {motif: deity-summoned-from-mountain-meadow-valley, refs: ["CTH 406 §7:40-45"], note: "mān ḪUR.SAG-i … uellui … ḫāriya … kuwapitza imma kuwapi … eḫu; let winds and rain not strike your eyes"}
+      - {motif: vow-to-give-goddess-house-servants-cattle, refs: ["CTH 406 §8:46-51"], note: "DINGIR-LAM DÙ-zi 'he will make you (his) deity' … É-er … ÌR-an GÉME-an … GU4.ḪI.A UDU.ḪI.A … maltiššanalan 'recipient of vows'"}
+      - {motif: deity-asked-to-bring-moon-stars-sun-of-earth, refs: ["CTH 406 §9:52-55"], note: "dEN.ZU-na=za MUL taknaš dUTU-un kattitti uwatet"}
+      - {motif: goddess-to-be-his-wife-for-children, refs: ["CTH 406 §9:56-66"], note: "DUMU-anna=šši DAM-ZU zik 'you are his wife for children'; GÉME-KA maniyaḫ … GIŠiugan kišari 'entrust him your maidservant, he will become a yoke'; sons and daughters will be your servants"}
+      - {motif: deity-show-your-divinity, refs: ["CTH 406 §10:72-75"], note: "DINGIR-LIM-[tar] tekkušnut 'show your divinity'; he will make you the deity of his person (ŠA SAG.DU-ŠU)"}
+      - {motif: new-table-set-for-goddess, refs: ["CTH 406 §10:76-81"], note: "GIŠBANŠUR GIBIL kittari"}
+    hints:
+      - "Compare Q 32:8 and 77:20 (man created from a despised fluid) and Q 80:17-19 for 'excrement and urine'."
+      - "The vow to make the goddess his deity: compare Q 7:189-190 (the couple promise thanks for a child, then give partners to God) as polemic."
+      - "Compare Gen 28:20-22 (Jacob's vow: if God gives, 'the LORD shall be my God')."
+  - id: ane-cth-406-3-paskuwatti-incubation-dream
+    tradition: ane-hittite
+    title: Paškuwatti ritual, three days of invocation, incubation and the goddess in the dream, her image as vessel or stone (CTH 406 §11-20)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 406 §11:82-§20:149"]
+    tags:
+      - {motif: drinking-the-god-seated-or-standing, refs: ["CTH 406 §11:82-86"], note: "ekuzi=ya 3-ŠU dUliliyaššin 'he drinks Uliliyašši three times'"}
+      - {motif: incubation-before-deitys-table, refs: ["CTH 406 §11:87-89", "CTH 406 §17:127-129", "CTH 406 §18:130"], note: "GIŠBANŠUR-pat pēran šešzi 'he lies down before the very table'; the garments laid on the bread are spread for him"}
+      - {motif: invocation-at-dawn-noon-and-evening, refs: ["CTH 406 §12:92-95", "CTH 406 §13:96-98"], note: "karuwariwar … UD.KAM-ti ištarna pedi … nekuz meḫur 'at dawn, at midday, at evening' for three days"}
+      - {motif: sacral-meal-after-purification, refs: ["CTH 406 §14:99-108"], note: "a sheep to Uliliyašši slaughtered before the table; breast, shoulder, liver, heart cooked"}
+      - {motif: goddess-to-be-his-wife-for-children, refs: ["CTH 406 §16:118-123", "CTH 406 §17:124-126"], note: "repeated: GÉME-KA maniyaḫ … GIŠŠU.ŠÙDUN-aš kišari"}
+      - {motif: goddess-lies-with-man-in-dream, refs: ["CTH 406 §18:131-138"], note: "mān DINGIR-LUM zašḫiya tuekkišši aušzi … kattišši šešzi 'if he sees the goddess's body in a dream, if she comes and sleeps with him'; he reports his dreams"}
+      - {motif: dream-reported-to-practitioner, refs: ["CTH 406 §18:135-136"]}
+      - {motif: goddess-installed-as-vessel-stone-or-image, refs: ["CTH 406 §19:139-146"], note: "DUGḫaršiyalli … NA4ḫuwaši … ALAM-ma iyazi; GIŠBANŠUR GIBIL … ŠA DINGIR-LIM-pat kišari 'the new table becomes the goddess's'"}
+      - {motif: rite-repeated-until-sign-comes, refs: ["CTH 406 §20:147-149"], note: "[UL aušzi] … iššiškemi=pat 'if he does not see her, I keep performing'"}
+    hints:
+      - "Compare Gen 28:11-22 (dream at Bethel, the stone set up as a pillar, a vow) and 1 Kgs 3:5-15 (Solomon's dream at Gibeon)."
+      - "Against images: compare Q 21:52 (what are these images to which you are devoted?), Q 7:138 and Q 71:23."
+      - "A goddess as consort diverges from Q 72:3 (He has taken neither consort nor son) and Q 6:101."
+  - id: ane-cth-407-pulisa-plague-substitutes
+    tradition: ane-hittite
+    title: Puliša against plague brought from the enemy, captive and woman in the king's garments, the ringed bull and ewe sent back (CTH 407)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 407 §1:1-§8:56"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 407 §1:1"]}
+      - {motif: plague-from-enemy-gods-after-campaign, refs: ["CTH 407 §1:2-5"], note: "LUGAL-uš KUR LÚKÚR GUL-aḫzi … DINGIR-LUM kuiški … ÚŠ-an kišari 'when the king attacks an enemy land … some god … a plague occurs'; anger partly restored"}
+      - {motif: human-substitute-adorned-sent-to-enemy-god, refs: ["CTH 407 §2:7-26", "CTH 407 §3:27"], note: "1 LÚŠU.DAB 1 MUNUS-TUM … NÍ.TE-ŠU TÚGNÍG.LÁM.MEŠ arḫa dāi … ANA LÚ waššiyanzi … LÚ unuwantan ANA LÚPUḪIŠU piḫḫun 'I have given him an adorned man as his substitute'; ÚŠ-an kāš LÚŠU.DAB ka[rapdu] … EGIR-pa … pēdau"}
+      - {motif: substitute-great-in-head-heart-limb, refs: ["CTH 407 §2:22"], note: "IŠTU SAG.DU-ŠU … šalliš, UZUŠÀ-za … šalliš, ÚR-azza … šalliš"}
+      - {motif: deity-asked-to-turn-in-friendship-to-hatti, refs: ["CTH 407 §2:23-24", "CTH 407 §4:44-46"], note: "galanganza ēš 'be appeased'; aššuli namma neyaḫḫut 'turn again in friendship' to king, lords, army and Hatti"}
+      - {motif: king-may-delegate-the-rite, refs: ["CTH 407 §2:17-18"], note: "mān LUGAL-i=ma [UL] aššu nu tamain uyazi"}
+      - {motif: coloured-wool-drawn-from-kings-mouth, refs: ["CTH 407 §4:32-37"], note: "SÍG SA5 SÍG SIG7.SIG7 SÍG G[E6 …] ANA LUGAL KA×U-az parā ḫuittiyazi; 'because the king became red, yellow, black … take notice of the enemy land, not of the king'"}
+      - {motif: ringed-bull-and-ewe-carry-plague-back, refs: ["CTH 407 §4:28-30", "CTH 407 §4:40-45", "CTH 407 §5:47", "CTH 407 §6:48"], note: "GU4.MAḪ … GEŠTU.ḪI.A-ŠU ašušantan 'with ringed ears'; GU4.MAḪ unuwandan ašušantan malantan ADDIN … I-NA KUR LÚKÚR pēdau; the bull and ewe driven before captive and woman"}
+      - {motif: substitute-animal-tarpalli, refs: ["CTH 407 §4:43"], note: "Hittite has puḫu- / ADDIN, not tarpalli-; the bull is given in place of the land"}
+      - {motif: scribal-colophon, refs: ["CTH 407 §8:54-56"], note: "ANA ṬUPPI 2 SÍSKUR: of Puliša and of Ummaya"}
+    hints:
+      - "Compare 1 Sam 6:1-12 (the Philistines send the plague-bringing ark home on a cart drawn by two milch cows, with gold offerings) and 2 Sam 24:15-25."
+      - "Compare Q 7:133-135 (the plague, rijz, removed from Pharaoh's people) and Q 37:107; a human substitute diverges sharply from Q 6:164, 17:15 and 5:32."
+      - "Compare Lev 16:21-22 (the goat bears iniquity to a land apart)."
+  - id: ane-cth-410-uhhamuwa-wreathed-ram
+    tradition: ane-hittite
+    title: Uḫḫamuwa of Arzawa against dying in the land, the wreathed ram driven to the enemy and the god's horses fed (CTH 410)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 410 §1:1-§4:33"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 410 §1:1"], note: "UM-MA mUḫḫamuwa LÚ URUArzawa"}
+      - {motif: plague-from-enemy-gods-after-campaign, refs: ["CTH 410 §1:2-3"], note: "ŠÀ KUR-TI akkiškittari … kururaš kuiški DINGIR-LUM iyan ḫarzi 'dying in the land … an enemy god has caused it'"}
+      - {motif: wreathed-ram-driven-onto-enemy-road, refs: ["CTH 410 §2:5-9", "CTH 410 §2:18"], note: "blue, red, green, black and white wool plaited into a wreath (SÍGKILILU); UDU.NÍTA ḫaršanalanzi 'they crown the ram'; ANA KASKAL LÚKÚR parā penniyanzi"}
+      - {motif: ram-brought-for-peace-with-plague-god, refs: ["CTH 410 §2:10-17"], note: "takšulanni unnummen 'we have driven it to you for peace'; as the herd (KÉŠ) though strong makes peace with this ram, so make peace with Hatti; ḫenkan 'pestilence'"}
+      - {motif: deity-asked-to-turn-in-friendship-to-hatti, refs: ["CTH 410 §2:17", "CTH 410 §3:25-26"]}
+      - {motif: horses-of-the-god-fed-chariot-greased, refs: ["CTH 410 §3:19-24"], note: "ANA ANŠE.KUR.RA.MEŠ DINGIR-LIM ŠÀ.GAL … išpiyanteš ašandu … GIŠGIGIR … IŠTU Ì.UDU iškiyan ēšdu"}
+      - {motif: goat-to-seven-gods-sheep-to-sun, refs: ["CTH 410 §4:27-31"], note: "MÁŠ.GAL dIMIN.IMIN.BI šipanti, 1 UDU dUTU-i, 1 UDU kunanzi … zanuwanzi"}
+      - {motif: offering-to-god-of-the-road, refs: ["CTH 410 §4:32-33"], note: "ANA DINGIR-LIM ŠA KASKAL-NIM"}
+    hints:
+      - "Compare Q 5:2 and 5:97 (the sacrificial animals and the garlands, al-qala'id) and Q 22:36 for the garlanded animal."
+      - "Compare Lev 16:10, 21-22 and 1 Sam 6:7-12 (cows sent on the road out of the land)."
+  - id: ane-cth-411-uruwanda-slander-tongue
+    tradition: ane-hittite
+    title: Uruwanda against the effects of slander, the tongue pulled down with sinew and seven fires each side (CTH 411)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 411 §1:1-§7:27'''"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 411 §1:1"], note: "UM-MA MUNUSUruwanda"}
+      - {motif: ritual-against-slander, refs: ["CTH 411 §1:2"], note: "mān lālaš aniyami 'when I treat (one) for tongue (slander)'"}
+      - {motif: sinew-plaited-tied-to-reed-cut-burned, refs: ["CTH 411 §1:3-8"], note: "UZUSA šumanzana … tarupiyami … ANA GI … ḫamenkeškimi … arḫa kuwakuwarkimi … ḫappini peššiškimi 'I plait the sinew with cords, tie it to a reed, cut it through and throw it into the flame'"}
+      - {motif: evil-tongue-pulled-down-and-bound, refs: ["CTH 411 §2:10-11"], note: "katta ḫuittaḫḫat idalawaš lālan alwanzinaš EME-an 'I have pulled down the tongue of evil, the tongue of sorcery'; šumanza EME-an tarupišta 'the cord bound the tongue together'"}
+      - {motif: sorcerer-protects-the-evil-ones, refs: ["CTH 411 §3:13'"], note: "obscure: alwanzenaš idaluš idāluš EGIR-pa paltanaš paḫḫašnuddu"}
+      - {motif: seven-fires-on-each-side, refs: ["CTH 411 §4:16'-20'"], note: "keez 7-an paḫḫur keezziya 7-an paḫḫur pariḫḫi; bread, beer, wine on either side held out to the Sun"}
+      - {motif: materials-list-of-ritual, refs: ["CTH 411 §1:7", "CTH 411 §7:26'''"], note: "ewe, oil, tin, lulluri, two smiths, shirt, shoes, blankets, small copper knife, 14 foot-bones, 14 ajartu-stones"}
+      - {motif: jug-broken-at-end-of-rite, refs: ["CTH 411 §5:23''"], note: "duwarn[aḫḫun] 'I broke'; object lost"}
+    hints:
+      - "Compare Q 24:11-19 (the slander against the innocent and its punishment), Q 49:12 and Q 68:10-11 (the slanderer going about with calumnies), Q 104:1."
+      - "Compare Ps 120:2-4 and Ps 52:4-7 (the deceitful tongue uprooted)."
+  - id: ane-cth-413-1-foundation-deposits
+    tradition: ane-hittite
+    title: Building ritual for a new temple, copper nailed under the pillar and foundation stones of nine materials (CTH 413.1 §1-11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 413.1 §1:1-§11:51"]
+    tags:
+      - {motif: temple-built-on-untouched-ground, refs: ["CTH 413.1 §1:1"], note: "É DINGIR-LIM GIBIL našma É.MEŠ GIBIL.MEŠ dammeli pedi uedanzi"}
+      - {motif: copper-nailed-down-as-durable-as-temple, refs: ["CTH 413.1 §1:4-9", "CTH 413.1 §2:10-12"], note: "URUDU … IŠTU GIŠGAG.ḪI.A araḫzanda tarmaizzi … IŠTU GIŠNÍG.GUL AN.BAR walaḫzi; as copper is protecting and eternal (uktūriš) so may the temple be on the dark earth"}
+      - {motif: builder-to-be-eternal-before-gods, refs: ["CTH 413.1 §3:13-16", "CTH 413.1 §11:51"], note: "EN SÍSKUR … ŠUM-an ḫalzai; kuiš uetet … uktūriš ēšdu; grandsons and great-grandsons"}
+      - {motif: four-corners-unmoving-so-welfare-unchanged, refs: ["CTH 413.1 §4:17-20"], note: "4 ḫalḫaltumarieš … uktūrieš … UL ueḫandari 'do not move'"}
+      - {motif: foundation-deposit-of-metals-and-stones, refs: ["CTH 413.1 §5:21-23", "CTH 413.1 §6:24-25"], note: "in each corner and under each pillar: silver, gold, lapis, quartz, alabaster, iron, copper, bronze, rock"}
+      - {motif: not-we-built-it-the-gods-built-it, refs: ["CTH 413.1 §7:27-31"], note: "UL anzāš uetummen, DINGIR.MEŠ=wa=rat ḫūmanteš ueter 'not we built it; all the gods built it'"}
+      - {motif: gods-as-builders-of-temple, refs: ["CTH 413.1 §8:32-36"], note: "male gods as carpenter; Telipinu laid the foundations; Ea, king of wisdom, built the walls; mountains brought wood and stone; female gods brought clay"}
+      - {motif: materials-brought-from-named-lands, refs: ["CTH 413.1 §9:37-45"], note: "gold from Pirundummeya, silver from Kuzza, lapis from Mount Takniyara, alabaster from Kanišḫa, quartz from Ilamda, rock from the earth, copper and bronze from Alašiya (Mount Taggata)"}
+      - {motif: black-iron-from-heaven, refs: ["CTH 413.1 §9:44"], note: "AN.BAR GE6 nepišaš nepišaz uter 'black iron of heaven they brought from heaven' (meteoric iron)"}
+      - {motif: gold-eternal-pure-so-temple, refs: ["CTH 413.1 §10:46-50"], note: "GUŠKIN … uktūri … parkui daššu; ŠA-MA-NA-AN-NI 'as foundation gift'"}
+    hints:
+      - "Compare Q 2:127 (Abraham and Ishmael raising the foundations of the House) and Q 9:108-109 (a mosque founded on piety vs one founded on a crumbling bank)."
+      - "Iron from heaven: compare Q 57:25 (We sent down iron, in which is great might)."
+      - "'Not we built it': compare Ps 127:1 (unless the LORD builds the house) and Q 8:17 (you did not slay them, God slew them)."
+      - "Materials from afar: compare 1 Kgs 5:6-18, 7:13-14 and Q 34:12-13 (molten copper for Solomon; the jinn build for him)."
+  - id: ane-cth-413-1-pegs-models-under-hearth-and-door
+    tradition: ane-hittite
+    title: Building ritual, pegs of precious metal, the golden lion and iron oxen, models of hearth, door and trees (CTH 413.1 §12-22)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 413.1 §12:52-§22:77"]
+    tags:
+      - {motif: pegs-of-silver-gold-iron-bronze, refs: ["CTH 413.1 §12:52", "CTH 413.1 §13:53-55", "CTH 413.1 §14:56"], note: "9 wallaš each of silver, gold, iron, bronze, one shekel each; four under the pedestal, each pillar, each corner"}
+      - {motif: golden-lion-and-iron-oxen-with-silver-yoke, refs: ["CTH 413.1 §15:57-61", "CTH 413.1 §16:62-65"], note: "1 UR.MAḪ GUŠKIN … 2 TAPAL GU4.ḪI.A AN.BAR IŠTU GIŠŠÙDUN KÙ.BABBAR turiyanteš; on a base under the first middle pillar"}
+      - {motif: foundation-deposit-of-metals-and-stones, refs: ["CTH 413.1 §17:66", "CTH 413.1 §18:67-70", "CTH 413.1 §19:71"], note: "miniature pedestals, hearths and doors of nine materials under the real pedestal, hearth and door"}
+      - {motif: copper-foxes-in-gate, refs: ["CTH 413.1 §20:72-73"], note: "2 KA5.A ŠA URUDU … KÁ.GAL-aš anda"}
+      - {motif: precious-metal-apple-trees, refs: ["CTH 413.1 §21:74-75"], note: "16 GIŠḪAŠḪUR: four each of gold, silver, iron, bronze"}
+      - {motif: scribal-colophon, refs: ["CTH 413.1 §22:76-77"], note: "1 IM.GÍD.DA NU.TIL 'one long tablet, not finished'"}
+    hints:
+      - "Compare 1 Kgs 7:23-29 (the sea on twelve oxen, lions and oxen on the stands) and 1 Kgs 6:29-35 (palm trees and cherubim of gold)."
+      - "Compare Q 34:13 (they made for Solomon sanctuaries, statues, basins like reservoirs) and Q 9:109."
+  - id: ane-cth-413-2-azu-priest-bow-oath
+    tradition: ane-hittite
+    title: An incantation ritual, the AZU-priest, the bound bird, the reed gate, the arrow shot against oath and curse (CTH 413.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 413.2 §1:1-§12:30"]
+    tags:
+      - {motif: azu-priest-officiates, refs: ["CTH 413.2 §1:3", "CTH 413.2 §3:8", "CTH 413.2 §3:13"], note: "LÚAZU (Hurrian-Babylonian diviner/exorcist)"}
+      - {motif: gods-of-heaven-and-earth-addressed, refs: ["CTH 413.2 §2:4-6"], note: "[nepiš]aš daganzipašša DINGIR.MEŠ … KUR-e ḫaššikdu 'may the land be sated'"}
+      - {motif: bird-bound-at-side-of-gate, refs: ["CTH 413.2 §3:7"], note: "1 MUŠEN anda ḫamankanza 'a bird is tied'"}
+      - {motif: patients-pass-through-ritual-gates, refs: ["CTH 413.2 §3:10-11"], note: "KÁ.GAL GI.ḪI.A 'the gate of reeds'"}
+      - {motif: practitioner-takes-patients-garment, refs: ["CTH 413.2 §3:11-13"], note: "the patron puts on (clothes) again; the AZU takes it for himself"}
+      - {motif: arrow-shot-against-oath-and-curse, refs: ["CTH 413.2 §4:14-17"], note: "šiezzi 'he shoots' … GIŠPAN … GIGAG.Ú.TAG.GA 'bow and arrow' … lingain ḫurt[ain] 'oath and curse'"}
+      - {motif: materials-list-of-ritual, refs: ["CTH 413.2 §10:27", "CTH 413.2 §11:28-29", "CTH 413.2 §12:30"], note: "copper disc, iron, lulluri, bronze cup, jug, hearth, axes, knives, a leather-worker's cloth"}
+    hints:
+      - "Compare Q 16:91-92 (do not break oaths after confirming them) and Q 5:89 (expiation of oaths)."
+      - "Compare 2 Kgs 13:15-19 (Elisha has the king shoot the arrow of victory)."
+  - id: ane-cth-413-3-azu-priest-gods-seven-oaths
+    tradition: ane-hittite
+    title: Parallel incantation ritual, the ancient gods, offerings to the Hurrian gods one by one, seven tongues in the hearth and seven oaths (CTH 413.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 413.3 §1:1-§35:53"]
+    tags:
+      - {motif: azu-priest-officiates, refs: ["CTH 413.3 §12:15", "CTH 413.3 §13:18-20", "CTH 413.3 §29:45"]}
+      - {motif: materials-list-of-ritual, refs: ["CTH 413.3 §4:4", "CTH 413.3 §5:5", "CTH 413.3 §6:6", "CTH 413.3 §7:7", "CTH 413.3 §9:10"], note: "lapis, 'stone of life' (NA4TI), bronze disc, bronze tapuri-, copper bath tub, a spade"}
+      - {motif: primeval-gods-receive-impurity, refs: ["CTH 413.3 §11:13-14"], note: "karuiliaš DINGIR.MEŠ … nepiš daganzi[pašša] … kinuna=aš parkuiš ē[šdu] 'now may he be pure'"}
+      - {motif: patron-declared-pure, refs: ["CTH 413.3 §11:14", "CTH 413.3 §12:17", "CTH 413.3 §23:32", "CTH 413.3 §25:40"], note: "EN SÍSKUR=ma=wa parkuiš ē[šdu]"}
+      - {motif: bread-thrown-into-hearth-for-gods, refs: ["CTH 413.3 §12:15", "CTH 413.3 §13:18-22"], note: "NINDA.SIG … ḫaššī anda peššizzi; kangadanteš ašandu 'may they be appeased'"}
+      - {motif: kupti-offered-to-each-hurrian-god, refs: ["CTH 413.3 §14:23", "CTH 413.3 §15:24", "CTH 413.3 §16:25", "CTH 413.3 §17:26", "CTH 413.3 §18:27", "CTH 413.3 §19:28", "CTH 413.3 §20:29", "CTH 413.3 §21:30", "CTH 413.3 §22:31"], note: "one kupti- each to the Storm god, Ninurta, Kumarbi, Aya, EN.ZU (Moon), the Sun, Aštawe, Ḫebat …"}
+      - {motif: seven-tongues-burned-in-hearth, refs: ["CTH 413.3 §24:34-35"], note: "7 EME? (reading uncertain) … QADU NINDA.SIG ḫaššī anda"}
+      - {motif: seven-oaths-made-one, refs: ["CTH 413.3 §25:36-40"], note: "mān=wa dUTU-uš dIM-ša … lingain … 1-an ē[šdu] … 7 kingaiyaza (for lingai-) … IŠTU IZI 'if the Sun and the Storm god (swore) the oath, let it be one … with seven oaths … with fire'"}
+      - {motif: oath-in-presence-of-king-ritual-called-out, refs: ["CTH 413.3 §34:52"], note: "linkiyaš … PANI LUGAL … ki SÍSKUR [ḫalz]iššanzi"}
+      - {motif: offering-cut-in-halves, refs: ["CTH 413.3 §35:53"], note: "takšan šarranzi 'they divide into halves'; object lost"}
+    hints:
+      - "The list of gods each given its share diverges from Q 112:1-4 and Q 21:22 (were there gods besides God, heaven and earth would be ruined)."
+      - "Compare Q 16:91 and Q 3:77 (those who sell God's covenant and their oaths) for the dangers of the oath."
+  - id: ane-cth-413-4-building-fragment
+    tradition: ane-hittite
+    title: Another building ritual fragment, plastering and scraping (CTH 413.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 413.4 §1:1-§2:6"]
+    tags:
+      - {motif: house-plastered-and-scraped, refs: ["CTH 413.4 §2:2-4"], note: "[ḫ]anišš[a-] 'plaster', mān É … ariran- 'scrape off'; fragmentary"}
+      - {motif: temple-built-on-untouched-ground, refs: ["CTH 413.4 §1:1"], note: "uetumm[a-] 'to build'; only the verb survives"}
+    hints:
+      - "Compare Lev 14:41-45 (the house with disease scraped and replastered)."

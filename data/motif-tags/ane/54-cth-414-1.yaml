@@ -1003,3 +1003,194 @@ units:
     hints:
       - "The poor man's garment: Exod 22:25-26 and Deut 24:12-15 (return the pledge by sunset; pay the hired labourer's wage the same day), Amos 2:8."
       - "Justice for the labourer: compare Q 83:1-3 (woe to those who give short measure), Q 4:135 (stand firm for justice even against yourselves), and the hadith 'give the worker his wage before his sweat dries'."
+
+  - id: ane-kai-202-zakkur-baalshamayn-answers
+    tradition: ane-levantine
+    title: Zakkur stele face A - besieged by Bar-Hadad and sixteen kings, Zakkur lifts his hands and Baalshamayn answers through seers 'Do not fear' (KAI 202 A)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["KAI 202 W1:1-17"]
+    tags:
+      - {motif: stele-for-ancestral-god, refs: ["KAI 202 W1:1"], note: "loose: [n]ṣbʾ zy šm zkr mlk [ḥ]mt wlʿš lʾlwr [mrʾh] 'the stele which Zakkur ... set up for Iluwer his lord'"}
+      - {motif: humble-man-raised-by-god, refs: ["KAI 202 W1:2-3"], note: "ʾš ʿnh ʾnh 'I was a humble man' (or 'a man of ʿAnah'); w[ḥṣl]ny bʿlšmyn wqm ʿmy whmlkny bʿlšm[yn]"}
+      - {motif: deity-makes-king, refs: ["KAI 202 W1:3-4", "KAI 202 W1:13"], note: "whmlkny bʿlšmyn ʿl ḥzrk; ʾnh hml[ktk]"}
+      - {motif: coalition-of-kings-besieges-city, refs: ["KAI 202 W1:4-10"], note: "whwḥd ʿly brhdd br ḥzʾl mlk ʾrm š[bʿt] ʿšr mlkn ... wšmw kl mlkyʾ ʾl mṣr ʿl ḥzrk whrmw šr mn šr ḥzrk whʿmqw ḥrṣ mn ḥr[ṣh] 'they raised a wall higher than the wall of Hazrach and dug a moat deeper than its moat'"}
+      - {motif: king-named-son-of-hazael, refs: ["KAI 202 W1:4"], note: "brhdd br ḥzʾl mlk ʾrm"}
+      - {motif: lifted-hands-prayer-answered, refs: ["KAI 202 W1:11"], note: "wʾšʾ ydy ʾl bʿlšmyn wyʿnny bʿlšmyn"}
+      - {motif: god-answers-through-seers-and-diviners, refs: ["KAI 202 W1:11-12"], note: "wy[dbr] bʿlšmyn ʾly [b]yd ḥzyn wbyd ʿddn 'Baalshamayn spoke to me through seers (ḥāzîn) and diviners (ʿiddān)'"}
+      - {motif: fear-not-oracle, refs: ["KAI 202 W1:13-15"], note: "ʾl tzḥl ky ʾnh hml[ktk wʾnh ʾq]m ʿmk wʾnh ʾḥṣlk mn kl [mlkyʾ ʾl zy] mḥʾw ʿlyk mṣr 'do not fear, for I made you king, I will stand with you and deliver you from all these kings who have laid siege against you'"}
+    hints:
+      - "Ben-Hadad son of Hazael: 2 Kgs 13:3, 24-25. The siege of Samaria by Ben-Hadad and thirty-two kings, 1 Kgs 20:1."
+      - "'Do not fear, I am with you': Isa 41:10, 43:1-5; 2 Chr 20:15-17 (Jehoshaphat's prayer answered through a Levite: 'the battle is not yours'). In the Quran: God tells Moses and Aaron 'Do not fear, I am with you both, hearing and seeing', Q 20:46; and Q 9:40 ('do not grieve, God is with us')."
+      - "Answered through prophets: compare 2 Kgs 19:20 (Isaiah sends Hezekiah God's answer during the siege) and Q 8:9 ('when you sought help from your Lord and He answered you: I will reinforce you')."
+
+  - id: ane-kai-202-zakkur-building-curse
+    tradition: ane-levantine
+    title: Zakkur stele faces B-C - Hazrach and temples built; curse on whoever removes the stele (KAI 202 B-C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["KAI 202 W2:1-28", "KAI 202 W3:1-2"]
+    tags:
+      - {motif: king-builds-walls-gates-towers-palace, refs: ["KAI 202 W2:2-8"], note: "ʾnh bnyt ḥzrk whwspt lh ʾyt kl mḥnt ...; fortresses in all his borders"}
+      - {motif: king-restores-shrine-from-dust, refs: ["KAI 202 W2:9-10"], note: "[b]nyt bty ʾlhn bkl ʾrqy"}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["KAI 202 W2:13-28"], note: "mn yhgʿ ʾyt ʾšr ydy zkr ... mn nṣbʾ znh wmn yhgʿ nṣbʾ znh mn qdm ʾlwr wyhnsnh mn ʾšrh ... bʿlšmyn wʾlwr ... wšmš wšhr ... wʾlhy šmyn wʾlhy ʾrq"}
+      - {motif: deeds-of-hands-written-on-stele, refs: ["KAI 202 W2:13-15"], note: "wšmt qdm [ʾlwr] nṣbʾ znh wk[tbt b]h ʾyt ʾšr ydy 'I set this stele before Iluwer and wrote on it the deeds of my hands'"}
+      - {motif: gods-of-heaven-and-earth-invoked, refs: ["KAI 202 W2:23-26"], note: "šmš wšhr ... ʾlhy šmyn wʾlhy ʾrq; face C keeps only šm zkr 'the name of Zakkur'"}
+
+  - id: ane-kai-214-hadad-statue-panamuwa
+    tradition: ane-levantine
+    title: Hadad statue of Panamuwa I - the gods gave him the sceptre; let the heir sacrifice and say 'may Panamuwa's soul eat and drink with Hadad'; curses on kin-murder (KAI 214)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    version: "Samʾalian"
+    read: ["KAI 214 main:1-34"]
+    tags:
+      - {motif: gods-stood-with-king-gave-sceptre, refs: ["KAI 214 main:1-3", "KAI 214 main:8-9"], note: "ʾnk pnmw br qrl mlk yʾdy zy hqmt nṣb zn lhdd ... qmw ʿmy ʾlhw hdd wʾl wršp wrkbʾl wšmš wntn bydy ... ḥṭr ḥlbbh 'the gods stood with me ... and put in my hand the sceptre of ...'"}
+      - {motif: land-of-barley-wheat-garlic, refs: ["KAI 214 main:5-7"], note: "ʾrq šʿry ... ʾrq ḥṭy wʾrq šmy ... yʿbdw ʾrq wkrm 'a land of barley, a land of wheat, a land of garlic ... they worked land and vineyard'"}
+      - {motif: in-my-days-ate-and-drank, refs: ["KAI 214 main:9-10"], note: "wbymy gm ʾkl wštʾ yʾdy 'in my days Yaudi ate and drank'; cities and villages founded"}
+      - {motif: whatever-i-asked-gods-gave, refs: ["KAI 214 main:4", "KAI 214 main:12-13"], note: "wmz ʾšʾ[l mn] ʾlhy ytnw ly; wmh ʾšʾl mn ʾlhy mt ytr"}
+      - {motif: soul-of-dead-king-eats-and-drinks-with-god, refs: ["KAI 214 main:15-18", "KAI 214 main:20-22"], note: "mn bny yʾḥz ḥṭr wyšb ʿl mšby ... wyzbḥ hdd zn ... wyzkr ʾšm pnmw yʾmr tʾkl nbš pnmw ʿmk wtšty nbš pnmw ʿmk 'may the soul of Panamuwa eat with you and the soul of Panamuwa drink with you'"}
+      - {motif: heir-must-remember-fathers-name-at-sacrifice, refs: ["KAI 214 main:16-17", "KAI 214 main:21-22"], note: "wyzkr ʾšm pnmw"}
+      - {motif: curse-on-heir-who-neglects-fathers-cult, refs: ["KAI 214 main:22-24"], note: "wʾl yrqy bh ... ʾl ytn lh hdd ... wšnh lmnʿ mnh blylʾ 'may Hadad not accept it, not give him [what he asks]; may he withhold sleep from him at night'"}
+      - {motif: curse-on-kin-murderer, refs: ["KAI 214 main:25-34"], note: "wyšlḥ ydh bḥrb ... ʾw ḥms ʾl yhrg ... 'whether by violence or command'; yrš šḥt bʾšr ḥd ʾyḥyh ... tʾl ʿynk bʾ ... ; stone him (?): ttʾlb ʾš zr lhrgh"}
+      - {motif: wicked-counsel-to-destroy-kin, refs: ["KAI 214 main:29-31"], note: "yʾmr ʾḥkm hšḥt ... zkr hʾ ltgmrw ʾyḥh 'let him say I will wise up to destroy ... (and incite) to annihilate his kinsmen'"}
+    hints:
+      - "The dead king's soul (nbš) feasting with the god: contrast the Quranic martyrs 'alive with their Lord, provided for', Q 3:169-170, and the believers' souls; HB 2 Sam 18:18 (Absalom's pillar 'to keep my name in remembrance')."
+      - "Hadad who withholds sleep at night: compare Esth 6:1 and Dan 6:19."
+      - "Kin-killing for the throne: Judg 9:5 (Abimelech kills his seventy brothers), 2 Kgs 11:1 (Athaliah), 2 Chr 21:4; the Quranic first fratricide, Q 5:27-32."
+
+  - id: ane-kai-215-panamuwa-ii-bar-rakib
+    tradition: ane-levantine
+    title: Panamuwa II memorial by Bar-Rakib - usurper's massacre, flight to Tiglath-pileser, death at Damascus, the Assyrian king weeps (KAI 215)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    version: "Samʾalian"
+    read: ["KAI 215 main:1-23"]
+    tags:
+      - {motif: son-erects-memorial-for-father, refs: ["KAI 215 main:1", "KAI 215 main:20"], note: "nṣb zn šm brrkb lʾbh lpnmw br brṣr"}
+      - {motif: gods-save-king-from-destruction-in-fathers-house, refs: ["KAI 215 main:2"], note: "plṭwh ʾlh yʾdy mn šḥth ʾlh hwt bbyt ʾbwh 'the gods of Yaudi rescued him from the destruction that was in his father's house'"}
+      - {motif: usurper-kills-seventy-kinsmen, refs: ["KAI 215 main:3"], note: "whrg ʾbh brṣr whrg šbʿy ::: ʾyḥy ʾbh 'he killed his father Bar-Ṣur and killed seventy kinsmen of his father'"}
+      - {motif: famine-and-ruin-under-usurper, refs: ["KAI 215 main:4-6"], note: "mlʾ msgrt whkbr qyrt ḥrbt ... šʾh wšwrh wḥṭh wšʿrh wqm prs bšql ... 'the prisons filled, ruined cities more than inhabited ... a peres of grain for a shekel'"}
+      - {motif: vassal-runs-at-wheel-of-overlord, refs: ["KAI 215 main:6-7", "KAI 215 main:13"], note: "wybl ʾby ... ʿd mlk ʾšwr wmlkh ʿl byt ʾbh; ʾby lzm bglgl mrʾh tgltplsr 'my father held fast to the wheel of his lord Tiglath-pileser'"}
+      - {motif: overlord-grants-territory-as-reward, refs: ["KAI 215 main:11-15"], note: "mrʾh mlk ʾšwr ʿl mlky kbr ... qyrt mn gbl grgm"}
+      - {motif: tiglath-pileser-named, refs: ["KAI 215 main:13", "KAI 215 main:15-16"], note: "tgltplsr mlk ʾšwr; from the rising of the sun to the setting, the four quarters of the earth (rbʿt ʾrq)"}
+      - {motif: overlord-mourns-vassal-killed-on-campaign, refs: ["KAI 215 main:16-18"], note: "wgm mt ʾby pnmw blgry mrʾh tgltplsr ... bmḥnt ... wbkyh ʾyḥh mlkw wbkyth mḥnt mrʾh mlk ʾšwr klh 'my father died at the feet of his lord ... his kinsmen bewailed him and the whole camp of his lord the king of Assyria wept for him'"}
+      - {motif: body-brought-home-for-burial, refs: ["KAI 215 main:18-19"], note: "wlqḥ mrʾh mlk ʾšwr ... nbšh whqm lh mšty bʾrḥ whʿbr ʾby mn dmšq lʾšwr 'set up a memorial meal for him on the way and brought my father from Damascus to Assyria'"}
+      - {motif: dynastic-succession-from-father, refs: ["KAI 215 main:19-20"], note: "wʾnky brkb br pnmw bṣdq ʾby wbṣdqy hwšbny mrʾy ... ʿl mšb ʾby"}
+      - {motif: wise-and-righteous-king-holds-hem-of-overlord, refs: ["KAI 215 main:11"], note: "bḥkmth wbṣdqh py ʾḥz bknp mrʾh 'by his wisdom and righteousness he seized the hem of his lord'"}
+      - {motif: gods-of-samal-remember-king, refs: ["KAI 215 main:22-23"], note: "wzkr znh hʾ pʾ hdd wʾl wrkbʾl bʿl byt wšmš wkl ʾlhy yʾdy ... qdm ʾlhy wqdm ʾnš 'before gods and before men'"}
+    hints:
+      - "Seventy kinsmen killed: Judg 9:5 (Abimelech), 2 Kgs 10:1-7 (Jehu and the seventy sons of Ahab)."
+      - "Tiglath-pileser III: 2 Kgs 15:29, 16:7-10 (Ahaz meets him at Damascus)."
+      - "Seizing the hem: 1 Sam 15:27, 24:5, Zech 8:23; the vassal as servant at the overlord's chariot wheel."
+      - "'Before God and men': Prov 3:4, 1 Sam 2:26."
+
+  - id: ane-kai-222-sefire-a-parties-witnesses
+    tradition: ane-levantine
+    title: Sefire I face A - the treaty of Bar-Gaʾyah of KTK with Matiʿel of Arpad and the gods as witnesses (KAI 222 A 1-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["KAI 222 W1:1-13"]
+    tags:
+      - {motif: treaty-binds-descendants-and-whole-land, refs: ["KAI 222 W1:1-6"], note: "ʿdy brgʾyh mlk ktk ʿm mtʿʾl br ʿtrsmk mlk [ʾrpd] wʿdy bny brgʾyh ʿm bny mtʿʾl wʿdy bny bny ... ʿm kl ʿly ʾrm wtḥth"}
+      - {motif: treaty-sworn-before-gods-list, refs: ["KAI 222 W1:7-12"], note: "zy gzr br gʾ[yh qdm ʾšr] wmlš ... mrdk wzrpnt ... nbʾ wtšmt ... nrgl wlṣ ... šmš wnr ... sn wnkl ... nkr wkdʾh ... hdd ḥlb ... sbt ... ʾl wʿlyn 'El and Elyon' ... šmyn wʾrq ... mṣlh wmʿynn ... ywm wlylh"}
+      - {motif: mountains-rivers-sea-winds-clouds-as-witnesses, refs: ["KAI 222 W1:11-12"], note: "heaven and earth, the abyss (mṣlh) and springs, day and night"}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["KAI 222 W1:11-12"], note: "šhdn kl ʾ[lhy ...]"}
+      - {motif: treaty-cut-gzr, refs: ["KAI 222 W1:7"], note: "ʿdyʾ ʾln zy gzr 'this treaty which Bar-Gaʾyah cut' (cf. Hebrew kārat berît)"}
+      - {motif: gods-told-open-your-eyes-to-see-treaty, refs: ["KAI 222 W1:13"], note: "pqḥw ʿynykm lḥzyh ʿdy brgʾyh"}
+      - {motif: el-and-elyon-paired, refs: ["KAI 222 W1:11"], note: "wqdm ʾl wʿlyn"}
+    hints:
+      - "El and Elyon: Gen 14:18-22 (ʾēl ʿelyôn), Ps 78:35; heaven and earth as witnesses: Deut 4:26, 30:19, 32:1, Isa 1:2."
+      - "God as witness of covenants in the Quran: Q 3:81 ('bear witness, and I am with you among the witnesses'), 16:91 ('you have made God your surety'), 7:172 (the covenant of Alast)."
+
+  - id: ane-kai-222-sefire-a-curses
+    tradition: ane-levantine
+    title: Sefire I face A - futility curses, seven years of locust, Arpad a tell, simile curses of wax, bow, calf (KAI 222 A 14-41)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["KAI 222 W1:14-41"]
+    tags:
+      - {motif: conditional-curse-if-vassal-is-false, refs: ["KAI 222 W1:14-16", "KAI 222 W1:23-24"], note: "whn yšqr mtʿʾl br ʿtrsmk ... lbrgʾyh 'if Matiʿel is false (šqr) to Bar-Gaʾyah'"}
+      - {motif: futility-curse-suckle-and-not-be-satisfied, refs: ["KAI 222 W1:21-23"], note: "wšbʿ [mhy]nqn ymšḥ[n šdyhn w]yhynqn ʿlym wʾl yšbʿ wšbʿ ssyh yhynqn ʿl wʾl yšbʿ ... šwrh ... ʿgl ... šʾn ... ʾmr 'seven nurses anoint their breasts and suckle a child and it is not sated; seven mares suckle a foal ...; seven cows a calf; seven ewes a lamb'"}
+      - {motif: futility-curse-seven-daughters-seek-bread, refs: ["KAI 222 W1:23-24"], note: "wšbʿ bkth yhkn bšṭ lḥm wʾl yhrgn 'seven daughters go looking for food and do not conceive (?)'"}
+      - {motif: kingdom-like-kingdom-of-sand, refs: ["KAI 222 W1:24-25"], note: "thwy mlkth kmlkt ḥl mlkt ḥlm 'may his kingdom be like a kingdom of sand, a kingdom of a dream'"}
+      - {motif: curse-hadad-pours-hail-and-locust, refs: ["KAI 222 W1:25-27"], note: "wysk ʿl ʾrpd [ʾbny b]rd wšbʿ šnn yʾkl ʾrbh wšbʿ šnn yʾkl twlʿh 'may Hadad pour hailstones on Arpad; seven years may the locust devour and seven years the worm'"}
+      - {motif: no-grass-no-green, refs: ["KAI 222 W1:27-28"], note: "wʾl ypq ḥṣr wlythzh yrq"}
+      - {motif: curse-no-sound-of-lyre, refs: ["KAI 222 W1:28-29"], note: "wʾl ytšmʿ ql knr bʾrpd ... [ṣʿ]qh wyllh 'may the sound of the lyre not be heard in Arpad, but ... outcry and wailing'"}
+      - {motif: gods-send-devourers-snake-scorpion-bear-panther, refs: ["KAI 222 W1:29-31"], note: "wyšlḥn ʾlhn mn klmh ʾkl ... pm ḥwh wpm ʿqrb wpm dbhh wpm nmrh wss wqml 'the mouth of the snake, scorpion, bear, panther; moth and louse'"}
+      - {motif: city-made-eternal-tell, refs: ["KAI 222 W1:31-33"], note: "wthwy ʾrpd tl l[rbq ṣy w]ṣby wšʿl wʾrnb wšrn wṣdh 'Arpad shall become a tell for the lying-down of wild beasts, gazelle, fox, hare, wild-cat and owl'"}
+      - {motif: ruins-become-jackal-haunt, refs: ["KAI 222 W1:31-33"]}
+      - {motif: city-sown-with-salt, refs: ["KAI 222 W1:35-36"], note: "wyzrʿ bhn hdd mlḥ wšḥlyn 'Hadad shall sow salt and cress in them'"}
+      - {motif: curse-melt-like-wax-dissolve-like-clay-figure, refs: ["KAI 222 W1:34-36"], note: "ʾyk zy tqd šʿwtʾ zʾ bʾš kn tqd ʾrpd ... kn yqd mtʿʾl 'as this wax is burned by fire, so may Arpad be burned ... so may Matiʿel be burned'"}
+      - {motif: curse-bow-broken-by-war-goddess, refs: ["KAI 222 W1:37-38"], note: "ʾyk zy tšbr qštʾ wḥṣyʾ ʾln kn yšbr ʾnrt whdd [qšt mtʿʾl] wqšt rbwh - here Inurta and Hadad break it"}
+      - {motif: simile-curse-calf-cut-in-two, refs: ["KAI 222 W1:39"], note: "wʾyk zy ygzr ʿglʾ znh kn ygzr mtʿʾl wygzrn rbwh 'as this calf is cut in two, so may Matiʿel be cut in two and his nobles'"}
+      - {motif: simile-curse-man-of-wax-blinded, refs: ["KAI 222 W1:38-39"], note: "ʾyk zy yʿr gbr šʿwtʾ kn yʿr mtʿʾ[l] 'as a man of wax is blinded (or stripped), so may Matiʿel be'"}
+      - {motif: curse-wives-stripped-like-harlot, refs: ["KAI 222 W1:39-41"], note: "partly restored: [ʾyk zy tʿrr z]n[yh] kn yʿrrn nšy mtʿʾl ... wymḥʾ ʿl ʾpyh 'as a harlot is stripped, so may the wives of Matiʿel ... and struck on the face'"}
+      - {motif: analogical-treaty-curse, refs: ["KAI 222 W1:34-41"]}
+    hints:
+      - "Breaking the covenant and its curses: Q 2:27 and 13:25 ('those who break God's covenant after its confirmation and cut what God ordered to be joined and spread corruption on earth: for them is the curse (laʿna) and the evil abode'); Q 5:13 (for breaking their covenant We cursed them and hardened their hearts)."
+      - "Eating and not being satisfied: Lev 26:26, Hos 4:10, Mic 6:14, Hag 1:6; seven years of locust: Joel 1:4, Deut 28:38-42; the plague of locusts on Pharaoh's people, Q 7:133."
+      - "A city made a tell, haunt of beasts, sown with salt: Josh 8:28, Judg 9:45, Deut 29:22, Isa 13:20-22, 34:11-15, Zeph 2:9; Q 22:45 ('how many a town We destroyed ... a deserted well and a lofty palace')."
+      - "The calf cut in two: Jer 34:18-20 (those who passed between the parts of the calf), Gen 15:9-17."
+      - "No sound of the lyre: Ezek 26:13, Isa 24:8, Jer 25:10."
+
+  - id: ane-kai-222-sefire-b-stipulations
+    tradition: ane-levantine
+    title: Sefire I face B - the treaty of the gods, its extent; stipulations on loyalty, avenging the overlord's son, fugitives and bread (KAI 222 B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["KAI 222 W2:1-46"]
+    tags:
+      - {motif: treaty-binds-descendants-and-whole-land, refs: ["KAI 222 W2:1-6"], note: "ʿdy ʾlhn hm zy šmw ʾlhn 'it is a treaty of the gods, which the gods have set'"}
+      - {motif: treaty-words-must-not-be-silenced, refs: ["KAI 222 W2:9-10"], note: "wʾl tštq ḥdh mn mly sprʾ znh 'let not one of the words of this inscription be silent'"}
+      - {motif: treaty-extent-from-lebanon-to-yabrud, refs: ["KAI 222 W2:10-12"], note: "mn ʿrqw wʿd yʾd[y] ... mn lbnn wʿd ybrd ... mn bqʿt wʿd ktk"}
+      - {motif: false-to-gods-of-treaty, refs: ["KAI 222 W2:24", "KAI 222 W2:28-29", "KAI 222 W2:33-34", "KAI 222 W2:38-39"], note: "šqrtm lkl ʾlhy ʿdyʾ zy bsprʾ znh 'you will have been false to all the gods of the treaty in this inscription'"}
+      - {motif: no-excuse-i-am-bound-by-other-oath, refs: ["KAI 222 W2:25-27"], note: "wtʾmr gbr ʿdn hʾ [ʾnh lʾkhl lʾ]šlḥ ydy bk 'and you say: I am a man under treaty, I cannot raise my hand against you' - the text is partly restored"}
+      - {motif: vassal-must-avenge-overlords-son, refs: ["KAI 222 W2:26-28", "KAI 222 W2:32-34"], note: "whn ... yšlḥ yd bbry wyqtlnh ... you must come with your army (bḥylk) to avenge (lšgb) my house"}
+      - {motif: vassal-must-come-with-army, refs: ["KAI 222 W2:29-33"], note: "whn yʾth ḥd mlkn wysbny ʾth b[kl ḥylk]; corpses of locusts? (pgr ʾrbʾ) on corpses in Arpad"}
+      - {motif: vassal-must-give-bread-to-overlords-men, refs: ["KAI 222 W2:38-40"], note: "whn lthb lḥmy ... wltsk šqrt bʿdyʾ ʾln 'if you do not give my bread ... you will have been false to this treaty'"}
+      - {motif: conspiracy-to-kill-king-must-be-reported, refs: ["KAI 222 W2:45-46"], note: "loose, fragmentary: ʿl bry ʾw ʿl ḥd srsy wyqrq ḥdhm 'against my son or one of my eunuchs and one of them flees'"}
+      - {motif: treaty-return-fugitives, refs: ["KAI 222 W2:45-46"], note: "wyqrq 'he flees' - the extradition clause is largely lost here"}
+    hints:
+      - "A treaty set by the gods themselves: compare Q 2:40 ('fulfil My covenant and I will fulfil yours'), 2:27, 13:20 ('those who fulfil God's covenant and do not break the pact')."
+      - "Let not one word fall: compare Josh 21:45, 23:14, 1 Sam 3:19 (none of his words fell to the ground)."
+
+  - id: ane-kai-222-sefire-c-blessing-overturned
+    tradition: ane-levantine
+    title: Sefire I face C - 'thus we have written for remembrance'; whoever effaces the words, the gods overturn him and his house (KAI 222 C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["KAI 222 W3:1-24"]
+    tags:
+      - {motif: treaty-written-for-remembrance-of-descendants, refs: ["KAI 222 W3:1-9"], note: "kh ʾmrn [wkh k]tbn mh ktbt ʾ[nh mtʿ]ʾl lzkrn lbry [wlbr] bry zy ysqn b[ʾšr]y ... ʿd ʿlm"}
+      - {motif: gods-guard-the-days-and-house, refs: ["KAI 222 W3:15-17"], note: "yṣrw ʾlhn mn ywmh wmn byth 'may the gods guard (him) from his day and from his house'"}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["KAI 222 W3:17-24"], note: "mn lyṣr mly sprʾ zy bnṣbʾ znh wyʾmr ʾhldr mn mlwh ʾw ʾhpk ṭbtʾ wʾšm [l]lḥyt ... kn yhpkw ʾlhn ʾšʾ hʾ wbyth ... wʾl yrt šršh ʾšm 'whoever says I will efface some of its words, or I will turn the good into evil ... so may the gods overturn that man and his house ... and may his root not inherit a name'"}
+      - {motif: turning-good-into-evil, refs: ["KAI 222 W3:18-20"], note: "ʾhpk ṭbtʾ wʾšm [l]lḥyt"}
+      - {motif: overthrown-house-lowest-made-highest, refs: ["KAI 222 W3:21-24"], note: "wyšmw tḥtyth [lʿ]lyth 'may they make its lowest (part) its highest'"}
+    hints:
+      - "Overturning like Sodom: Gen 19:25 (hāpak), Jer 20:16; in the Quran the overturned cities (al-muʾtafikat), Q 9:70, 53:53, 69:9, and 'We turned it upside down' (jaʿalna ʿaliyaha safilaha), Q 11:82, 15:74 - the same 'lowest made highest' image."
+      - "Those who change the words after hearing them: Q 2:181 ('whoever alters it after hearing it, the sin is on those who alter it'), 2:75, 4:46."
+
+  - id: ane-kai-223-sefire-ii-curses
+    tradition: ane-levantine
+    title: Sefire II - the futility curses repeated; the kingdom a heap; the mouth of the lion and panther (KAI 223)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["KAI 223 1-16"]
+    tags:
+      - {motif: futility-curse-suckle-and-not-be-satisfied, refs: ["KAI 223 1-4"], note: "largely restored after KAI 222: [ššbʿ ssyh yhynqn ʿl wʾ]l yšbʿ wšbʿ [šʾn ... ʿzn yhy]nqn gdh ʾl yš[bʿ] - goats and kids added"}
+      - {motif: kingdom-like-kingdom-of-sand, refs: ["KAI 223 4-5"], note: "restored: [kmlkt ḥlm]; [y]tnšy wyhwh qb[rh] 'his name be forgotten and his grave be ...'"}
+      - {motif: curse-hadad-pours-hail-and-locust, refs: ["KAI 223 6"], note: "[wš]bʿ šnn thwy - seven years"}
+      - {motif: gods-send-devourers-snake-scorpion-bear-panther, refs: ["KAI 223 9"], note: "pm ʾryh wpm [...] wpm nmr[h] 'the mouth of the lion ... the panther'"}
+      - {motif: curse-no-sound-of-lyre, refs: ["KAI 223 8"], note: "only wṣʿ[qh] 'and outcry' survives; lines 10-16 broken"}
+    hints:
+      - "Name forgotten, grave destroyed: Ps 9:6-7, Prov 10:7; Q 19:98 ('do you perceive any of them or hear from them a whisper?')."
