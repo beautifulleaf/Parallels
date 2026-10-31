@@ -1,0 +1,1167 @@
+# Hadith chunk 20: al-Jāmiʿ al-Kāmil book 67 (paradise and hell, end) pp. 8646-8686, and book 2 (faith) pp. 119-197, babs 1-53.
+# Read in full from the Arabic (268 hadith).
+new_motifs:
+  marrow-seen-like-red-drink-in-white-glass: {label: "The marrow of the wives' shins is seen through their robes as red drink is seen in a white glass", cluster: eschatology}
+  paradise-womans-headcloth-better-than-world: {label: "The headcloth (nasif, khimar) of a woman of paradise is better than the world and what is in it", cluster: eschatology}
+  bow-length-of-paradise-better-than-world: {label: "A bow's length or a foot's place in paradise is better than the world and what is in it", cluster: eschatology}
+  houri-finger-scent-reaches-every-living-being: {label: "Were a houri to put out one finger, every living being would find its scent", cluster: eschatology}
+  paradise-woman-would-blot-out-sun-and-moon: {label: "Were a woman of paradise to look down on the earth she would fill it with musk and take away the light of sun and moon", cluster: eschatology}
+  governor-gives-away-stipend-prefers-houris-to-wife: {label: "A companion-governor sent ten thousand by Umar gives it away in purses; pressed by his wife, he says he would rather leave her for the houris than them for her, and pushes her chest", cluster: narrative}
+  jew-argues-eating-in-paradise-implies-excretion: {label: "A Jew tells his friends he will defeat the prophet if he admits eating in paradise, since eating means need; answer: their need is a musk-scented sweat and the belly shrinks", cluster: eschatology}
+  strength-of-a-hundred-men-in-paradise: {label: "Each man of paradise is given the strength of a hundred in food, drink, desire and intercourse", cluster: eschatology}
+  paradise-dweller-sows-crop-ripens-in-a-glance: {label: "A man of paradise asks God's leave to sow; it sprouts, ripens, is reaped and heaped like mountains in the blink of an eye: 'take it, son of Adam, nothing fills you'", cluster: eschatology}
+  bedouin-only-qurashi-or-ansari-would-farm: {label: "A bedouin listener says only a Qurashi or an Ansari, who are farmers, would ask that; the prophet laughs", cluster: narrative}
+  kindler-of-the-fire-is-malik-with-gabriel-and-michael: {label: "In a dream two men explain: the one kindling the fire is Malik its keeper, 'I am Gabriel and this is Michael'", cluster: eschatology}
+  world-left-like-last-drops-of-a-vessel: {label: "The world has announced its end and turned swiftly away; only a dreg remains like the last drops of a vessel its owner sips", cluster: ethics}
+  prophet-never-laughed-after-hearing-the-rock-land: {label: "The prophet hears a crash: a rock thrown into the fire seventy autumns before has just settled; he was not seen laughing after that day", cluster: eschatology}
+  image-makers-among-the-three-seized-by-the-fire: {label: "The neck from the fire is charged with every obstinate tyrant, every associator and the image-makers", cluster: eschatology}
+  worldly-fire-one-hundredth-of-hell: {label: "This fire is one part of a hundred of hell", cluster: eschatology}
+  fire-complains-granted-two-breaths: {label: "The fire complains to its Lord that it eats itself; it is allowed two breaths, one in winter and one in summer: the fiercest heat and the bitterest cold", cluster: cosmology}
+  intoxicant-drinker-given-mire-of-corruption: {label: "God has bound himself to give the drinker of intoxicants the mire of corruption (tinat al-khabal): the sweat or juice of the people of the fire", cluster: eschatology}
+  prayer-missed-drunk-four-times: {label: "Who leaves prayer through drunkenness once is as one robbed of the world; four times, God is bound to give him the mire of corruption", cluster: law}
+  fire-forbidden-to-who-says-it-seeking-gods-face: {label: "Whoever comes on resurrection day saying 'no god but God' seeking God's face, God forbids the fire to him", cluster: theology}
+  angels-prophets-martyrs-intercede-and-bring-out: {label: "Angels, prophets and martyrs are given leave to intercede and bring out, again and again, whoever has an atom's weight of faith", cluster: eschatology}
+  believers-plead-for-brothers-who-prayed-with-them: {label: "Believers miss men who prayed, gave alms, fasted, made pilgrimage and raided with them, plead for them with God and are sent to bring them out of the fire", cluster: eschatology}
+  burnt-thrown-in-river-of-life-sprout-like-seed: {label: "Those brought out charred are thrown into the river (water) of life at paradise's mouth and sprout like a seed in the flood's silt, coming up yellow and twisted", cluster: eschatology}
+  four-brought-out-one-asks-not-to-be-returned: {label: "Four are brought out and shown to God; one turns and says 'Lord, since you took me out, do not return me', and God saves him", cluster: eschatology}
+  ember-under-instep-boils-brain: {label: "The lightest punished: an ember (or two) placed under the hollow of his foot boils his brain like a cauldron", cluster: eschatology}
+  lightest-punished-is-abu-talib: {label: "The lightest punished of the people of the fire is Abu Talib, wearing two sandals that boil his brain", cluster: eschatology}
+  less-asked-in-adams-loins-not-to-associate: {label: "To the damned willing to ransom himself with the earth: 'I wanted less of you while you were in Adam's loins: that you not associate anything with me'", cluster: theology}
+  two-men-lead-dreamer-up-rugged-mountain: {label: "In a dream two men take him by the upper arms to a rugged mountain and bid him climb; halfway he hears the howling of the people of the fire", cluster: eschatology}
+  early-fast-breakers-hung-by-hamstrings-mouths-torn: {label: "Those who broke their fast before its time hang by their hamstrings, the corners of their mouths torn and running blood", cluster: eschatology}
+  adulterers-most-swollen-and-stinking: {label: "The adulterers and adulteresses are the most swollen, foulest-smelling and ugliest", cluster: eschatology}
+  snakes-bite-breasts-of-women-who-withheld-milk: {label: "Snakes bite the breasts of women who withheld their milk from their children", cluster: eschatology}
+  unbelievers-shoulders-three-days-fast-ride-apart: {label: "Between the shoulders of the unbeliever in the fire is three days' journey for a fast rider", cluster: eschatology}
+  unbelievers-skin-forty-two-cubits-by-the-jabbars-cubit: {label: "The unbeliever's skin in the fire is forty-two cubits thick 'by the cubit of the jabbar' (or seventy cubits broad)", cluster: eschatology}
+  unbelievers-seat-in-fire-as-mecca-to-medina: {label: "The unbeliever's seat in the fire spans as far as Mecca to Medina, or to al-Rabadha, or Qudayd to Mecca; his thigh like al-Bayda' or Warqan", cluster: eschatology}
+  earlobe-to-shoulder-seventy-autumns-valleys-of-pus: {label: "Between a damned man's earlobe and shoulder is seventy autumns' journey, through which run valleys (not rivers) of pus and blood", cluster: eschatology}
+  hell-crushing-itself: {label: "He saw hell, its parts crushing one another", cluster: eschatology}
+  lookalike-of-the-damned-not-harmed: {label: "The man in the fire most resembles Aktham b. al-Jawn; Aktham asks whether the likeness harms him: 'no, you are a Muslim and he an unbeliever'", cluster: narrative}
+  saved-only-as-few-as-stray-cattle: {label: "Of the companions led off to the fire for turning back, none escapes but as few as stray untended cattle", cluster: eschatology}
+  cat-woman-israelite-or-himyarite: {label: "The woman punished over the cat is an Israelite, or a tall black Himyarite woman", cluster: narrative}
+  prophet-steps-back-from-heat-of-fire-in-prayer: {label: "In the eclipse prayer the fire is brought and he steps back for fear of its blast; paradise is brought and he steps forward", cluster: eschatology}
+  pilgrim-thief-with-crooked-staff-in-fire: {label: "The man of the crooked staff, who stole from pilgrims with its hook and said 'it caught on my staff' if noticed, drags his guts in the fire leaning on the staff", cluster: eschatology}
+  thief-of-sacrificial-camels-driven-with-forked-stick: {label: "The thief of the prophet's two sacrificial camels, the brother of Da'da', is pushed in the fire with a two-pronged stick", cluster: eschatology}
+  did-you-not-promise-not-to-punish-them-while-i-am-among-them: {label: "Shown the fire, the prophet pleads: 'did you not promise not to punish them while I am among them and while they ask forgiveness?'", cluster: theology}
+  women-most-of-fire-for-ingratitude-to-husband: {label: "He saw that most of the fire were women: they curse much and are ungrateful to the husband; after a lifetime of kindness one fault makes her say 'I never saw good from you'", cluster: ethics}
+  women-told-give-alms-even-from-jewellery: {label: "At the feast the prophet tells the women: give alms, even from your jewellery, for you are most of the fire (the fuel of hell)", cluster: ritual}
+  feast-prayer-before-sermon-no-adhan-no-iqama: {label: "At the feast he prays before the sermon without call or iqama, then stands leaning on Bilal and goes on to preach to the women", cluster: ritual}
+  women-deficient-in-intellect-and-religion: {label: "'I have not seen any deficient in intellect and religion more able to take away a resolute man's mind than you'", cluster: ethics}
+  the-corrupt-are-women-ungrateful-and-impatient: {label: "'The corrupt (fussaq) are the people of the fire': women, who when given do not thank and when tried do not endure", cluster: ethics}
+  jew-or-christian-as-muslims-ransom-from-fire: {label: "On resurrection day God gives each Muslim a Jew or Christian: 'this is your ransom from the fire'; Muslims' sins like mountains are laid on them", cluster: eschatology}
+  ramadan-paradise-opened-hell-shut-devils-chained: {label: "When Ramadan comes the gates of paradise (of mercy) are opened, the gates of hell shut and the devils chained", cluster: ritual}
+  paradise-and-fire-nearer-than-sandal-strap: {label: "Paradise is nearer to each of you than his sandal-strap, and the fire likewise", cluster: ethics}
+  man-asking-his-entrance-told-the-fire: {label: "Asked 'where do I enter?', the prophet answers 'the fire'", cluster: narrative}
+  umar-kneels-content-with-god-islam-muhammad: {label: "Umar kneels: 'we are content with God as Lord, Islam as religion, Muhammad as messenger', and the prophet falls silent", cluster: narrative}
+  god-creates-new-people-for-paradises-surplus: {label: "Room remains in paradise until God creates a new people and settles them in its surplus", cluster: eschatology}
+  herald-eternity-no-death: {label: "A herald stands between them: 'people of paradise, eternity, no death; people of the fire, eternity, no death; each abides in what he is in'", cluster: eschatology}
+  death-led-by-collar-to-the-wall-between: {label: "Death is led by the collar and stood on the wall between paradise and the fire; paradise's people look out afraid, the fire's hopeful of intercession; it is laid down and slaughtered on the wall", cluster: eschatology}
+  two-necessities-dying-with-or-without-shirk: {label: "The two necessities (mujibatan): who dies associating nothing with God enters paradise, who dies associating enters the fire", cluster: theology}
+  god-loathed-earth-but-remnants-of-scripture-people: {label: "God looked at the people of the earth and loathed them, Arabs and non-Arabs, except remnants of the people of the book", cluster: theology}
+  ordered-to-burn-quraysh-head-made-into-bread: {label: "God orders the prophet to burn Quraysh; 'they will break my head like bread'; 'drive them out as they drove you; raise an army, we send five like it'", cluster: narrative}
+  three-people-of-paradise-five-of-the-fire: {label: "People of paradise are three (just ruler, tender-hearted man, chaste man with dependants); of the fire five (the weak without restraint, the greedy cheat, the one who deceives you over family and wealth, the miser or liar, the obscene)", cluster: ethics}
+  fire-forbidden-to-the-near-gentle-easy: {label: "The fire is forbidden to everyone near (approachable), gentle and easy", cluster: ethics}
+  questioner-confirms-answers-you-speak-truly: {label: "The stranger confirms each answer 'you speak truly'; they wonder that he asks and then confirms", cluster: narrative}
+  gabriel-vanishes-when-sought: {label: "The questioner turns away; 'bring him back' - they see nothing: 'this was Gabriel come to teach the people their religion'", cluster: narrative}
+  faith-includes-decree-good-and-evil: {label: "Faith includes belief in the decree, its good and its evil (prompted by Ma'bad al-Juhani's denial of qadar)", cluster: theology}
+  camel-couched-and-hobbled-in-the-mosque: {label: "A man rides into the mosque, couches and hobbles his camel and asks 'which of you is Muhammad?'", cluster: narrative}
+  envoy-of-two-plaits-converts-whole-tribe-in-a-day: {label: "Dimam, a man with two plaits, returns and says 'wretched are al-Lat and al-'Uzza'; his people warn of leprosy and madness; by evening every man and woman of the camp is Muslim", cluster: narrative}
+  swore-by-his-fingers-not-to-come: {label: "He swore as many oaths as his fingers not to come, showing his two hands spread", cluster: narrative}
+  wife-fed-and-clothed-face-not-struck: {label: "The wife's right: feed her when you eat, clothe her when you clothe yourself, do not strike the face, do not revile, do not shun her except in the house", cluster: law}
+  gathered-toward-syria-mouths-gagged-thigh-speaks-first: {label: "You will be gathered toward Syria on foot, riding and on your faces, your mouths gagged; the first to speak for a man is his thigh", cluster: eschatology}
+  withheld-surplus-becomes-serpent-biting-the-miser: {label: "A master who withholds his surplus from his client is given a bald serpent that bites him before the judgement", cluster: eschatology}
+  islam-built-on-five: {label: "Islam is built on five: the two testimonies, prayer, alms, pilgrimage, fast of Ramadan", cluster: ritual}
+  faith-sixty-or-seventy-odd-branches: {label: "Faith is sixty-odd (seventy-odd) branches; modesty is a branch of faith", cluster: theology}
+  love-hate-give-withhold-for-god-completes-faith: {label: "Who loves, hates, gives and withholds (and marries) for God has completed faith", cluster: ethics}
+  most-perfect-faith-best-character-best-to-wives: {label: "The most perfect in faith are the best in character, and the best of you are the best to their wives; good character reaches the rank of fasting and prayer", cluster: ethics}
+  no-adulterer-is-believer-while-he-commits-it: {label: "The adulterer is not a believer while he commits adultery, nor the drinker while he drinks, nor the thief while he steals (nor the killer)", cluster: ethics}
+  plunder-of-renown-while-eyes-are-raised: {label: "Nor does one plunder a prized spoil to which people raise their eyes while he is a believer", cluster: ethics}
+  faith-withdrawn-like-unlaced-fingers: {label: "Faith leaves him thus: Ibn Abbas interlaces his fingers and draws them apart; if he repents it returns, interlacing them again", cluster: theology}
+  faith-hovers-over-adulterer-like-canopy: {label: "When a man commits adultery faith goes out of him and is over him like a canopy; when he stops it returns", cluster: theology}
+  no-faith-without-trust-no-religion-without-covenant: {label: "No faith for one without trustworthiness, no religion for one without covenant", cluster: ethics}
+  two-womens-witness-equals-one-mans: {label: "The deficiency of intellect: two women's testimony equals one man's", cluster: law}
+  menstruant-neither-prays-nor-fasts-deficiency-of-religion: {label: "The deficiency of religion: in menstruation she stays nights without prayer and breaks the fast in Ramadan", cluster: ritual}
+  wife-gives-jewellery-as-alms-to-husband-and-children: {label: "Zaynab brings her jewellery to give in alms; Ibn Mas'ud claims it for himself and his children; 'which Zaynab?'; 'give it to him and his sons, they are a fit place for it'", cluster: law}
+  brought-out-by-dinar-half-dinar-atom-of-good: {label: "They bring out whoever has a dinar's weight of good in his heart, then half a dinar, then an atom (or barley, wheat, atom)", cluster: eschatology}
+  most-merciful-scoops-handful-who-never-did-good: {label: "Angels, prophets and believers have interceded; only the Most Merciful remains and takes a handful from the fire of people who never did good, turned to charcoal", cluster: eschatology}
+  mustard-seed-of-faith-or-of-pride: {label: "None with a mustard seed of faith in his heart enters the fire; none with a mustard seed of pride enters paradise", cluster: eschatology}
+  freed-of-god-written-on-necks-called-jahannamiyyun: {label: "Those brought out are written on the necks 'God's freedmen' and in paradise are called the Jahannamiyyun", cluster: eschatology}
+  god-brings-out-by-his-own-knowledge-and-mercy: {label: "After the intercessors God says 'now I bring out by my knowledge and mercy' and brings out many times as many", cluster: eschatology}
+  faith-learned-before-quran-then-increased: {label: "As strong boys with the prophet we learned faith before the Quran, then learned the Quran and our faith increased by it", cluster: theology}
+  grabs-camels-halter-to-ask-the-way-to-paradise: {label: "A bedouin seizes the halter of the prophet's camel to ask what brings him near paradise; answered, he is told 'let go of the camel'", cluster: narrative}
+  four-commands-four-prohibitions-fifth-of-spoils: {label: "The delegation of Abd al-Qays is commanded four things including giving a fifth of the spoils, and forbidden four vessels", cluster: law}
+  drunk-man-strikes-cousin-with-sword: {label: "Drinking from the hollowed trunk, a man strikes his cousin with the sword; one of the delegation hides such a wound for shame", cluster: narrative}
+  leather-skins-even-if-rats-eat-them: {label: "Told to drink from tied leather skins, they say rats eat them in their land: 'even if rats eat them' three times", cluster: law}
+  welcome-without-shame-or-regret: {label: "Welcome to the delegation, 'neither disgraced nor regretful'", cluster: narrative}
+  head-islam-pillar-prayer-hump-jihad: {label: "The head of the matter is islam, its pillar prayer, the top of its hump jihad", cluster: theology}
+  thrown-on-faces-for-harvest-of-tongues: {label: "Holding his tongue: 'restrain this'; 'are people thrown on their faces into the fire for anything but the harvest of their tongues?'", cluster: ethics}
+  not-believe-until-love-spread-greeting: {label: "You will not enter paradise till you believe nor believe till you love one another: spread the greeting among you", cluster: ethics}
+  face-not-the-face-of-a-liar: {label: "Ibn Salam looks at the prophet's face at his arrival in Medina and knows it is not a liar's; the first words: spread the greeting, feed, pray while people sleep", cluster: narrative}
+  abu-l-hakam-renamed-abu-shurayh: {label: "A man called Abu l-Hakam: 'God is the judge (al-hakam)'; he names his eldest son Shurayh and is renamed Abu Shurayh", cluster: narrative}
+  abd-al-hajar-renamed-abd-allah: {label: "A man named Abd al-Hajar (servant of the stone) is renamed Abd Allah", cluster: narrative}
+  good-speech-and-giving-food-oblige-paradise: {label: "What obliges paradise: good speech and giving food", cluster: ethics}
+  or-a-muslim-not-a-believer: {label: "Sa'd says of a man left out of a gift 'I see him a believer'; three times the prophet answers 'or a Muslim'", cluster: theology}
+  dying-companion-tells-the-one-withheld-hadith: {label: "A dying companion tells the one hadith he had withheld, for fear of sin in keeping it", cluster: narrative}
+  called-three-times-labbayk-then-taught: {label: "Riding behind him, Mu'adh is called by name three times, each answered 'labbayk', before the teaching", cluster: narrative}
+  right-of-god-on-servants-and-of-servants-on-god: {label: "God's right on his servants is that they worship him and associate nothing; the servants' right on God is that he not punish whoever associates nothing", cluster: theology}
+  riding-pillion-on-donkey-named-ufayr: {label: "Mu'adh rides behind the prophet on a donkey named 'Ufayr", cluster: narrative}
+  dies-on-unity-with-certain-heart-forgiven: {label: "No soul dies associating nothing, testifying to the messenger, its witness returning to a certain heart, but it is forgiven", cluster: theology}
+  blind-man-asks-prophet-to-pray-in-his-house: {label: "Going blind, Itban asks the prophet to pray in his house so he may take the spot as his place of prayer", cluster: ritual}
+  fire-does-not-eat-marks-of-prostration: {label: "Angels recognise those to be brought out by the marks of prostration; God forbade the fire to eat the marks of prostration", cluster: eschatology}
+  squeezes-into-garden-like-a-fox-through-the-stream: {label: "Searching for the prophet, Abu Hurayra squeezes into a walled garden like a fox through the channel that feeds it", cluster: narrative}
+  sandals-given-as-token-of-the-message: {label: "The prophet gives Abu Hurayra his sandals as token: tell whoever testifies with certainty that he has paradise", cluster: narrative}
+  umar-turns-back-bearer-of-good-news: {label: "Umar strikes the bearer of the good news on the chest and sends him back, fearing people will rely on it; the prophet agrees: 'let them work'", cluster: narrative}
+  leftover-provisions-blessed-fill-every-vessel: {label: "Starving on a raid, they bring the remnants of their provisions to a leather mat; he blesses them and every vessel in the camp is filled", cluster: narrative}
+  two-testimonies-without-doubt-not-barred-from-paradise: {label: "No servant meets God with the two testimonies, not doubting them, and is barred from paradise", cluster: theology}
+  last-out-crawling-told-ten-worlds-asks-are-you-mocking: {label: "The last out of the fire comes crawling, finds paradise seeming full, returns twice, is given ten times the world and asks 'do you mock me, and you the King?'; the prophet laughs till his molars show", cluster: eschatology}
+  the-many-are-the-few-but-who-gives-this-way: {label: "The many (in wealth) are the few on resurrection day, except who scatters it right, left, before and behind; he would not keep a dinar of Uhud in gold three nights", cluster: ethics}
+  told-sit-here-voice-heard-in-the-lava-field: {label: "Abu Dharr is told to sit in a hollow ringed with stones; the prophet disappears in the lava field and is heard answering someone: Gabriel", cluster: narrative}
+  even-if-he-steals-and-fornicates: {label: "Whoever dies associating nothing enters paradise, 'even if he steals and fornicates' (and drinks wine)", cluster: theology}
+  dies-knowing-no-god-but-god-enters-paradise: {label: "Whoever dies knowing there is no god but God enters paradise", cluster: theology}
+  brought-out-by-intercession-like-tharir: {label: "They come out of the fire by intercession like tharir (small cucumbers, explained as daghabis)", cluster: eschatology}
+  burnt-all-but-the-circles-of-their-faces: {label: "A people come out of the fire burnt all over except the circles of their faces", cluster: eschatology}
+  kharijite-band-turned-back-by-jabirs-hadith: {label: "A band holding the Kharijite view, on the way to pilgrimage and revolt, hear Jabir on the praised station and those brought out; all but one turn back", cluster: narrative}
+  out-like-sesame-stalks-washed-white-as-paper: {label: "They come out like sesame stalks, wash in a river of paradise and come out like sheets of paper", cluster: eschatology}
+  once-traded-with-anyone-now-with-few: {label: "Once I did not care with whom I traded, for Muslim or Christian would be made to return my due; now I trade only with so-and-so", cluster: ethics}
+  valiant-fighter-of-the-fire-kills-himself: {label: "A man who fought fiercely at Khaybar, declared of the fire, cannot bear his wounds and kills himself; 'God is great, I bear witness I am God's servant and messenger'", cluster: narrative}
+  god-supports-religion-by-the-wicked-man: {label: "God supports this religion by the wicked man", cluster: theology}
+  proclaim-only-believers-enter-paradise: {label: "Bilal, Umar and Bishr are sent to proclaim to the people that only a believing (Muslim) soul enters paradise", cluster: ritual}
+  tashriq-days-of-eating-and-drinking: {label: "The days of tashriq are days of eating and drinking", cluster: ritual}
+  son-leads-father-by-hand-father-changed-and-left: {label: "A man takes his father's hand to bring him into paradise; told it is forbidden to every associator, the father changes into an ugly form with a stench and he leaves him", cluster: eschatology}
+  not-enter-whose-neighbour-unsafe-from-harms: {label: "He will not enter paradise whose neighbour is not safe from his harms (bawa'iq)", cluster: ethics}
+  three-give-sweetness-of-faith: {label: "Three bring the sweetness of faith: God and his messenger dearer than all else, loving a man only for God, hating to return to unbelief as to be thrown into fire", cluster: ethics}
+  taste-of-faith-content-with-god-islam-muhammad: {label: "He tastes faith who is content with God as Lord, Islam as religion and Muhammad as messenger", cluster: theology}
+  love-a-man-only-for-god-gives-taste-of-faith: {label: "Whoever would find the taste of faith, let him love a man only for God", cluster: ethics}
+  prophet-dearer-than-father-child-and-all: {label: "None of you believes till I am dearer to him than his father, his child and all people", cluster: theology}
+  love-for-brother-what-you-love-for-self: {label: "None of you believes till he loves for his brother (or neighbour) what he loves for himself", cluster: ethics}
+  whoever-believes-honours-guest-and-neighbour-speaks-good-or-is-silent: {label: "Whoever believes in God and the last day does not harm his neighbour, honours his guest, and speaks good or keeps silent", cluster: ethics}
+  guests-due-a-day-and-night-hospitality-three-days: {label: "The guest's due (ja'iza) is a day and a night; hospitality is three days; beyond that it is charity", cluster: law}
+  change-evil-by-hand-tongue-or-heart: {label: "Whoever sees an evil let him change it by his hand, if not by his tongue, if not by his heart, the weakest of faith", cluster: ethics}
+  prophets-disciples-then-successors-who-say-not-do: {label: "Every prophet had disciples who held to his way; then came successors who say what they do not and do what they are not commanded; whoever strives against them by hand, tongue or heart is a believer", cluster: ethics}
+  love-of-ansar-sign-of-faith: {label: "The sign of faith is love of the Ansar, the sign of hypocrisy hatred of them", cluster: ethics}
+  leave-him-modesty-is-of-faith: {label: "Passing a man reproaching his brother for modesty: 'leave him, modesty is of faith'", cluster: ethics}
+  modesty-brings-only-good: {label: "Modesty brings nothing but good", cluster: ethics}
+  modesty-in-paradise-obscenity-in-fire: {label: "Modesty is of faith and faith in paradise; obscenity is of coarseness and coarseness in the fire", cluster: ethics}
+  modesty-and-faith-paired-one-lifted-other-lifted: {label: "Modesty and faith are joined; when one is lifted the other is lifted", cluster: ethics}
+  only-believer-loves-ali: {label: "Ali swears by him who split the seed and made the soul: only a believer loves me and only a hypocrite hates me", cluster: ethics}
+  clan-of-abu-blank-not-my-friends: {label: "'The family of Abu [blank in the scribe's copy] are not my friends; my friend is God and the righteous believers'", cluster: narrative}
+  sheep-on-mountain-peaks-flight-from-strife: {label: "The best wealth will be sheep followed to the mountain peaks and rain-places, fleeing with one's religion from strife", cluster: ethics}
+  best-is-fighter-then-recluse-in-a-ravine: {label: "Best is the believer fighting with self and wealth, then the believer in a ravine who fears God and spares people his evil", cluster: ethics}
+  rider-flies-to-every-alarm: {label: "Best livelihood: a man holding his horse's rein who flies on its back at every cry of alarm seeking death where it may be found", cluster: ethics}
+  census-of-those-who-professed-islam: {label: "'Write down for me who has professed islam': fifteen hundred (or six to seven hundred); later they were tried till a man prayed alone in fear", cluster: narrative}
+  greeting-the-dead-god-willing-we-will-join-you: {label: "At the graveyard: 'peace on you, abode of believers; we will join you, God willing'", cluster: ritual}
+  brothers-yet-to-come-known-by-white-blaze-of-ablution: {label: "He longs for his brothers yet to come; he will know them as a man knows his white-blazed horses among black: they come with blaze and stockings from ablution", cluster: eschatology}
+  men-driven-from-the-basin-like-stray-camels: {label: "Men are driven from his basin as a stray camel is driven; he calls them and is told 'they changed after you': 'away, away'", cluster: eschatology}
+  dream-shirts-of-faith-umar-trails-his: {label: "In a dream people are shown in shirts reaching the breast or less; Umar's he trails; interpreted as religion", cluster: narrative}
+  ammar-filled-with-faith-to-bone-ends: {label: "Ali greets Ammar 'the good and made good': 'Ammar is filled with faith to the ends of his bones'", cluster: narrative}
+  hardness-among-camel-drovers-where-devils-horns-rise: {label: "Hardness and coarseness of heart are among the loud camel-drovers at the camels' tails, where the devil's two horns rise, in Rabi'a and Mudar", cluster: ethics}
+  pride-with-camel-owners-calm-with-sheep-owners: {label: "Pride and vanity are among the camel people of the tents, calm and dignity among the sheep owners", cluster: ethics}
+  faith-in-hijaz-harshness-in-the-east: {label: "Coarseness of heart and harshness are in the east, faith in the people of the Hijaz", cluster: ethics}
+  good-deed-tenfold-to-seven-hundred-bad-as-one: {label: "When a man's islam is good, each good deed is written tenfold to seven hundred, each bad deed as one", cluster: theology}
+  leaving-what-does-not-concern-him: {label: "Part of a man's good islam is leaving what does not concern him", cluster: ethics}
+  convert-credited-with-good-done-before-islam: {label: "When a man becomes Muslim and his islam is good, God writes every good he did before and erases every evil; then the reckoning begins", cluster: theology}
+  pledge-of-sincere-counsel-to-every-muslim: {label: "Pledged to prayer, alms and sincere counsel to every Muslim; told to add 'as far as I am able'", cluster: ritual}
+  religion-is-sincere-counsel: {label: "Religion is sincere counsel: to God, his book, his messenger, the leaders of the Muslims and their common folk", cluster: ethics}
+  i-will-seek-forgiveness-until-forbidden: {label: "'I will ask forgiveness for you as long as I am not forbidden', and Q 9:113 came down", cluster: narrative}
+  faith-once-mingled-with-hearts-none-resent-it: {label: "Heraclius: so is faith, growing till complete; when its joy mingles with hearts none apostatises in resentment of it", cluster: narrative}
+  religion-is-ease-none-overdoes-it-but-is-beaten: {label: "Religion is ease; none overburdens himself in religion but it overcomes him; aim right, come near, use the morning, evening and part of the night", cluster: ethics}
+  say-we-hear-and-obey-not-we-hear-and-disobey: {label: "Do not say as the people of the two books said 'we hear and disobey'; say 'we hear and obey, your forgiveness our Lord'", cluster: scripture}
+  companions-kneel-at-the-unbearable-verse: {label: "At Q 2:284 the companions come and kneel: we can bear prayer, fasting, jihad and alms, but not this", cluster: narrative}
+  god-answers-each-petition-yes-i-have-done-it: {label: "To each petition of the closing verses God answers 'yes' (or 'I have done it')", cluster: scripture}
+  brought-out-then-ordered-back-this-was-not-my-hope: {label: "Two brought out are ordered back to the fire; one turns: 'this was not my hope'; asked his hope, 'that you would not return me', and he is let into paradise", cluster: eschatology}
+  i-am-as-my-servant-thinks-good-or-bad: {label: "'I am as my servant thinks of me: if he thinks good, it is his; if he thinks evil, it is his'", cluster: theology}
+  two-fears-and-two-securities-not-joined: {label: "God swears: I do not join on my servant two fears or two securities; who fears me in the world I make safe on the day, who feels safe I make afraid", cluster: theology}
+  emigrants-allotted-to-hosts-by-lot: {label: "The emigrants were divided among the Ansar by lot; Uthman b. Maz'un fell to Umm al-Ala's household", cluster: narrative}
+  what-makes-you-know-god-honoured-him: {label: "'What makes you know God honoured him? I do not know, though God's messenger, what will be done with me'; she never vouched for anyone again", cluster: theology}
+  sinner-orders-body-burned-ground-scattered-forgiven-for-fear: {label: "A man of old who did no good orders his sons to burn him, grind him and scatter him on a windy day; God gathers him: 'why?' - 'fear of you'; he is forgiven", cluster: narrative}
+  half-scattered-on-land-half-in-sea-each-gives-back: {label: "Half the ashes are strewn on land and half in the sea; God commands land and sea to gather what is in them", cluster: narrative}
+  submit-even-if-unwilling: {label: "'Become Muslim' - 'I find myself unwilling' - 'even if you are unwilling'", cluster: theology}
+  reviling-a-muslim-is-sin-fighting-him-unbelief: {label: "Reviling a Muslim is wickedness and fighting him unbelief", cluster: ethics}
+  do-not-revert-to-unbelief-striking-necks: {label: "At the farewell pilgrimage: 'do not turn unbelievers after me, striking one another's necks'", cluster: ethics}
+  attacking-lineage-and-wailing-are-unbelief: {label: "Two things in people are unbelief: attacking lineage and wailing over the dead", cluster: ethics}
+  three-jahiliyya-practices-never-left: {label: "Three practices of the jahiliyya the people of islam will not leave: wailing, seeking rain by the stars, and the jahiliyya cry 'O family of so-and-so' (or reviling lineage)", cluster: ethics}
+  good-in-islam-not-held-for-jahiliyya-deeds: {label: "Who does good in islam is not held to account for what he did in the jahiliyya; who does evil in it is taken for the first and the last", cluster: theology}
+  dying-man-recounts-three-stages-of-life: {label: "Dying, Amr b. al-As weeps with his face to the wall and recounts three stages: hatred, love of the prophet, offices whose end he does not know", cluster: narrative}
+  withdraws-hand-to-set-a-condition-at-pledge: {label: "At the pledge he draws back his hand to set a condition: that he be forgiven", cluster: narrative}
+  islam-hijra-hajj-demolish-what-came-before: {label: "Islam demolishes what was before it, emigration what was before it, pilgrimage what was before it", cluster: theology}
+  could-not-fill-his-eyes-with-the-prophet: {label: "For reverence he could not fill his eyes with the prophet and could not describe him if asked", cluster: narrative}
+  stay-at-grave-while-a-camel-is-slaughtered: {label: "No wailer and no fire with the bier; pour the earth on me, then stay round my grave as long as a camel is slaughtered and its meat divided, that I may have your company while I answer my Lord's messengers", cluster: ritual}
+  you-became-muslim-with-the-good-you-did: {label: "Asked about acts of devotion in the jahiliyya (alms, freeing slaves, kinship): 'you became Muslim with the good that went before'", cluster: theology}
+  hundred-slaves-freed-hundred-camels-given-before-and-after: {label: "Hakim b. Hizam freed a hundred slaves and gave a hundred camels in the jahiliyya, and did the same in islam", cluster: narrative}
+  ibn-judan-never-asked-forgiveness-for-the-day-of-judgement: {label: "Ibn Jud'an kept kinship and fed the poor, but it does not avail him: he never once said 'Lord, forgive my sin on the day of judgement'", cluster: theology}
+  father-sought-renown-and-attained-it: {label: "Of Adi b. Hatim's generous father: 'your father wanted a thing and attained it', meaning renown", cluster: theology}
+  islam-began-strange-will-return-strange: {label: "Islam began as a stranger and will return a stranger as it began; blessed are the strangers", cluster: eschatology}
+  faith-shrinks-between-two-mosques-like-snake-to-hole: {label: "Islam (faith) will shrink back between the two mosques as a snake shrinks back into its hole", cluster: eschatology}
+  strangers-are-those-righteous-when-people-corrupt: {label: "The strangers are those who are righteous when people are corrupt", cluster: ethics}
+  few-righteous-among-many-wicked: {label: "The strangers: a few righteous people among many bad, those who disobey them more than those who obey", cluster: ethics}
+units:
+  # ---- Book 67: paradise (end), hell, the people of hell, paradise and hell together
+  - id: hadith-67-no-sleep-in-paradise
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The people of paradise do not sleep: sleep is the brother of death"
+    read: ["Jāmiʿ 67:8646.1"]
+    tags:
+      - {motif: no-sleep-in-paradise-sleep-brother-of-death, refs: ["Jāmiʿ 67:8646.1"], note: "هل ينام أهل الجنة؟ قال: لا، النوم أخو الموت"}
+  - id: hadith-67-women-of-paradise
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The women of paradise: two wives, seventy robes, marrow seen through; a houri's finger or glance would fill the earth with scent"
+    read: ["Jāmiʿ 67:8646.2-8648.2"]
+    quran: ["56:22-23", "38:52", "55:70-75", "4:57"]
+    tags:
+      - {motif: first-group-like-full-moon-two-wives-marrow-seen, refs: ["Jāmiʿ 67:8646.2", "Jāmiʿ 67:8647.3"], note: "أول زمرة تدخل الجنة على صورة القمر ليلة البدر ... لكل امرئ منهم زوجتان اثنتان، يرى مخ سوقهما من وراء اللحم"}
+      - {motif: no-bachelor-in-paradise, refs: ["Jāmiʿ 67:8646.2"], note: "وما في الجنة أعزب؟ (asked as Ibn Sirin's companions debate whether men or women are more in paradise)"}
+      - {motif: houri-wears-seventy-robes-marrow-seen, refs: ["Jāmiʿ 67:8647.1", "Jāmiʿ 67:8647.3"], note: "زوجتان من حور العين، على كل واحدة سبعون حلة، يرى مخ ساقها من وراء الثياب"}
+      - {motif: marrow-seen-like-red-drink-in-white-glass, refs: ["Jāmiʿ 67:8647.3"], note: "يرى مخ سوقهن من وراء الحلل، كما ترى الشراب الأحمر في الزجاجة البيضاء"}
+      - {motif: woman-of-paradise-would-light-the-earth, refs: ["Jāmiʿ 67:8647.2", "Jāmiʿ 67:8648.2"], note: "لو أن امرأة من نساء أهل الجنة اطلعت إلى الأرض لأضاءت ما بينهما، ولملأت ما بينهما ريحا"}
+      - {motif: paradise-womans-headcloth-better-than-world, refs: ["Jāmiʿ 67:8647.2"], note: "ولنصيفها -يعني الخمار- خير من الدنيا وما فيها"}
+      - {motif: bow-length-of-paradise-better-than-world, refs: ["Jāmiʿ 67:8647.2"], note: "ولقاب قوس أحدكم أو موضع قدم من الجنة خير من الدنيا وما فيها"}
+      - {motif: houri-finger-scent-reaches-every-living-being, refs: ["Jāmiʿ 67:8648.1"], note: "لو أن حورا أطلعت أصبعا من أصابعها لوجد ريحها كل ذي روح"}
+      - {motif: paradise-woman-would-blot-out-sun-and-moon, refs: ["Jāmiʿ 67:8648.2"], note: "لملأت الأرض ريح مسك، ولأذهبت ضوء الشمس والقمر"}
+      - {motif: governor-gives-away-stipend-prefers-houris-to-wife, refs: ["Jāmiʿ 67:8648.1", "Jāmiʿ 67:8648.2"], note: "فبعث إليه بعشرة آلاف ... فجعل يفرقها صررا ... فأنا أدعهن، لكن والله! لأنتن أحق أن أدعكن لهن ... ودفع في صدرها"}
+  - id: hadith-67-intercourse-in-paradise
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A Jew's challenge on eating in paradise; the strength of a hundred men; a hundred virgins a day; the wife returns a virgin"
+    read: ["Jāmiʿ 67:8649.1-8650.1"]
+    tags:
+      - {motif: jew-argues-eating-in-paradise-implies-excretion, refs: ["Jāmiʿ 67:8649.1"], note: "إن أقر لي بهذه خصمته ... فإن الذي يأكل ويشرب تكون له الحاجة ... حاجة أحدهم عرق يفيض من جلودهم مثل ريح المسك، فإذا البطن قد ضمر"}
+      - {motif: strength-of-a-hundred-men-in-paradise, refs: ["Jāmiʿ 67:8649.1", "Jāmiʿ 67:8649.2"], note: "إن أحدهم ليعطى قوة مائة رجل في المطعم والمشرب والشهوة والجماع"}
+      - {motif: wife-returns-virgin-after-intercourse, refs: ["Jāmiʿ 67:8649.3"], note: "أنطأ في الجنة؟ قال: نعم ... دحما دحما، فإذا قام عنها رجعت مطهرة بكرا"}
+      - {motif: hundred-virgins-a-day, refs: ["Jāmiʿ 67:8650.1"], note: "إن الرجل ليفضي في اليوم الواحد إلى مائة عذراء"}
+    hints:
+      - "A Jew holds that eating and drinking in paradise must bring bodily need, and is answered that it leaves as musk-scented sweat: compare b. Berakhot 17a (Rav), 'in the world to come there is no eating, no drinking, no procreation'."
+  - id: hadith-67-child-in-paradise
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A child in paradise, if desired, is carried, born and grown in an hour"
+    read: ["Jāmiʿ 67:8650.2"]
+    quran: ["50:35", "41:31"]
+    tags:
+      - {motif: child-in-paradise-in-an-hour, refs: ["Jāmiʿ 67:8650.2"], note: "المؤمن إذا اشتهى الولد في الجنة كان حمله ووضعه وسنه في ساعة كما يشتهي"}
+  - id: hadith-67-farming-in-paradise
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A man of paradise asks leave to sow; the crop sprouts, ripens and is heaped like mountains in a glance"
+    read: ["Jāmiʿ 67:8651.1"]
+    tags:
+      - {motif: paradise-dweller-sows-crop-ripens-in-a-glance, refs: ["Jāmiʿ 67:8651.1"], note: "استأذن ربه في الزرع ... فبذر، فتبادر الطرف نباته واستواؤه واستحصاده وتكويره أمثال الجبال، فيقول الله تعالى: دونك يا ابن آدم، فإنه لا يشبعك شيء"}
+      - {motif: bedouin-only-qurashi-or-ansari-would-farm, refs: ["Jāmiʿ 67:8651.1"], note: "لا تجد هذا إلا قرشيا أو أنصاريا، فإنهم أصحاب زرع، فأما نحن فلسنا بأصحاب زرع، فضحك رسول الله ﷺ"}
+  - id: hadith-67-praise-as-breath
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The people of paradise do not excrete; they are inspired with praise as with breath; God's pleasure that is never withdrawn"
+    read: ["Jāmiʿ 67:8651.2-8652.1"]
+    quran: ["10:9-10"]
+    tags:
+      - {motif: people-of-paradise-do-not-excrete, refs: ["Jāmiʿ 67:8651.2"], note: "ولا يتفلون ولا يبولون ولا يتغوطون ولا يمتخطون ... جشاء ورشح كرشح المسك، يلهمون التسبيح والتحميد، كما تلهمون النفس"}
+      - {motif: i-make-my-pleasure-alight-on-you, refs: ["Jāmiʿ 67:8651.3", "Jāmiʿ 67:8652.1"], note: "هل رضيتم؟ ... أحل عليكم رضواني، فلا أسخط عليكم بعده أبدا"}
+  - id: hadith-67-no-interpreter-half-a-date
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Each will be spoken to by God with no interpreter; guard against the fire with half a date"
+    read: ["Jāmiʿ 67:8653.1"]
+    tags:
+      - {motif: no-interpreter-between-man-and-god, refs: ["Jāmiʿ 67:8653.1"], note: "ليس بينه وبينه ترجمان، فينظر أيمن منه فلا يرى إلا ما قدم ... فاتقوا النار ولو بشق تمرة ... فمن لم يجد فبكلمة طيبة"}
+  - id: hadith-67-hell-brought-and-filled
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Hell is dragged with seventy thousand reins; it asks for more until the Lord sets his foot in it"
+    read: ["Jāmiʿ 67:8653.2-8653.3"]
+    quran: ["50:30"]
+    tags:
+      - {motif: hell-dragged-by-seventy-thousand-reins, refs: ["Jāmiʿ 67:8653.2"], note: "يؤتى بجهنم يومئذ لها سبعون ألف زمام، مع كل زمام سبعون ألف ملك يجرونها"}
+      - {motif: lord-sets-foot-hell-says-enough, refs: ["Jāmiʿ 67:8653.3"], note: "لا تزال جهنم تقول: هل من مزيد؟ حتى يضع فيها رب العزة قدمه، فتقول: قط قط وعزتك. ويزوى بعضها إلى بعض"}
+  - id: hadith-67-malik-keeper-of-the-fire
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Malik, the keeper who kindles the fire, shown in a dream and on the night journey"
+    read: ["Jāmiʿ 67:8653.4-8654.1"]
+    tags:
+      - {motif: kindler-of-the-fire-is-malik-with-gabriel-and-michael, refs: ["Jāmiʿ 67:8653.4"], note: "رأيت الليلة رجلين أتياني قالا: الذي يوقد النار مالك خازن النار، وأنا جبريل، وهذا ميكائيل"}
+      - {motif: malik-keeper-of-hell, refs: ["Jāmiʿ 67:8654.1"], note: "وأري مالكا خازن النار"}
+      - {motif: moses-like-a-man-of-shanua, refs: ["Jāmiʿ 67:8654.1"], note: "على موسى بن عمران، رجل آدم طوال جعد كأنه من رجال شنوءة، ورأيت عيسى ابن مريم مربوع الخلق إلى الحمرة والبياض سبط الرأس"}
+  - id: hadith-67-depth-of-hell
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A stone falling seventy autumns to hell's bottom; a careless word that drops a man into the fire; a lead ball and the chain"
+    read: ["Jāmiʿ 67:8654.2-8655.2"]
+    quran: ["40:71-72"]
+    tags:
+      - {motif: stone-falls-seventy-years-in-hell, refs: ["Jāmiʿ 67:8654.2", "Jāmiʿ 67:8654.5", "Jāmiʿ 67:8655.1"], note: "إذ سمع وجبة ... هذا حجر رمي به في النار منذ سبعين خريفا فهو يهوي في النار الآن حتى انتهى إلى قعرها"}
+      - {motif: careless-word-drops-man-east-to-west-into-fire, refs: ["Jāmiʿ 67:8654.3"], note: "إن العبد ليتكلم بالكلمة ما يتبين ما فيها، يهوي بها في النار أبعد ما بين المشرق والمغرب"}
+      - {motif: careless-word-raises-or-hurls-into-hell, refs: ["Jāmiʿ 67:8654.4"], note: "بالكلمة من رضوان الله لا يلقي لها بالا يرفعه الله بها درجات ... من سخط الله ... يهوي بها في جهنم"}
+      - {motif: world-left-like-last-drops-of-a-vessel, refs: ["Jāmiʿ 67:8654.5"], note: "إن الدنيا قد آذنت بصرم وولت حذاء، ولم يبق منها إلا صبابة كصبابة الإناء، يتصابها صاحبها"}
+      - {motif: prophet-never-laughed-after-hearing-the-rock-land, refs: ["Jāmiʿ 67:8655.1"], note: "سمعت هدة لم أسمع مثلها ... هذا صخر قذف به في النار منذ سبعين خريفا فاليوم استقر قراره ... ما رأيته ضاحكا بعد ذلك اليوم حتى واراه التراب"}
+      - {motif: lead-ball-falls-five-hundred-years-chain-forty-autumns, refs: ["Jāmiʿ 67:8655.2"], note: "لو أن رصاصة مثل هذه -وأشار إلى مثل جمجمة- أرسلت من السماء إلى الأرض وهي مسيرة خمس مائة سنة لبلغت الأرض قبل الليل ... من رأس السلسلة لسارت أربعين خريفا"}
+  - id: hadith-67-neck-from-the-fire
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A neck comes out of the fire with eyes, ears and a tongue, charged with three"
+    read: ["Jāmiʿ 67:8656.1-8656.2"]
+    tags:
+      - {motif: neck-from-fire-seizes-three, refs: ["Jāmiʿ 67:8656.1", "Jāmiʿ 67:8656.2"], note: "تخرج عنق من النار ... لها عينان تبصران، وأذنان تسمعان، ولسان ينطق يقول: إني وكلت بثلاثة: بكل جبار عنيد، وبكل من دعا مع الله إلها آخر، وبالمصورين"}
+      - {motif: image-makers-among-the-three-seized-by-the-fire, refs: ["Jāmiʿ 67:8656.1"], note: "وبالمصورين (in Abu Sa'id's version the third is: وبمن قتل نفسا بغير نفس)"}
+  - id: hadith-67-heat-of-hell
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Worldly fire is one part of seventy (or of a hundred) of hell's; the fire takes each by his deeds; it complains and is given two breaths"
+    read: ["Jāmiʿ 67:8657.1-8658.2"]
+    tags:
+      - {motif: earthly-fire-one-seventieth-of-hell, refs: ["Jāmiʿ 67:8657.1"], note: "نار بني آدم التي يوقدون جزء من سبعين جزءا من نار جهنم ... إن كانت لكافية ... فضلت عليها بتسعة وستين جزءا"}
+      - {motif: worldly-fire-one-hundredth-of-hell, refs: ["Jāmiʿ 67:8657.2"], note: "هذه النار جزء من مئة جزء من جهنم"}
+      - {motif: fire-takes-each-to-ankles-knees-waist-collarbone, refs: ["Jāmiʿ 67:8658.1"], note: "منهم من تأخذه النار إلى كعبيه ... إلى ركبتيه ... إلى حجزته ... إلى ترقوته"}
+      - {motif: fire-complains-granted-two-breaths, refs: ["Jāmiʿ 67:8658.2"], note: "اشتكت النار إلى ربها، فقالت: رب! أكل بعضي بعضا، فأذن لها بنفسين: نفس في الشتاء، ونفس في الصيف، فأشد ما تجدون من الحر وأشد ما تجدون من الزمهرير"}
+  - id: hadith-67-food-and-drink-of-hell
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A drop of Zaqqum; boiling water poured on the head passes through; the drinker of intoxicants given the mire of corruption"
+    read: ["Jāmiʿ 67:8659.1-8660.1"]
+    quran: ["44:43-48", "69:35-37", "88:4-7", "3:102"]
+    tags:
+      - {motif: drop-of-zaqqum-would-embitter-earth, refs: ["Jāmiʿ 67:8659.1"], note: "ولو أن قطرة من الزقوم قطرت لأمرت على أهل الأرض عيشهم، فكيف من ليس لهم طعام إلا الزقوم (Ibn Abbas, seated with a crooked staff while people circle the House, first recites 3:102)"}
+      - {motif: boiling-water-poured-on-head, refs: ["Jāmiʿ 67:8659.2"], note: "إن الحميم ليصب على رؤوسهم، فينفذ الحميم حتى يخلص إلى جوفه"}
+      - {motif: damned-restored-to-be-punished-again, refs: ["Jāmiʿ 67:8659.2"], note: "فيسلت ما في جوفه حتى يمرق من قدميه -وهو الصهر-، ثم يعاد كما كان"}
+      - {motif: every-intoxicant-is-wine-and-forbidden, refs: ["Jāmiʿ 67:8659.3"], note: "شراب يشربونه بأرضهم من الذرة يقال له: المزر ... أو مسكر هو؟ قال: نعم ... كل مسكر حرام"}
+      - {motif: intoxicant-drinker-given-mire-of-corruption, refs: ["Jāmiʿ 67:8659.3", "Jāmiʿ 67:8660.1"], note: "إن على الله عهدا لمن يشرب المسكر أن يسقيه من طينة الخبال ... عرق أهل النار، أو عصارة أهل النار"}
+      - {motif: prayer-missed-drunk-four-times, refs: ["Jāmiʿ 67:8660.1"], note: "من ترك الصلاة سكرا مرة واحدة، فكأنما كانت له الدنيا وما عليها فسلبها، ومن ترك الصلاة سكرا أربع مرات، كان حقا على الله ﷿ أن يسقيه من طينة الخبال"}
+  - id: hadith-67-fire-forbidden-to-the-sincere-confessor
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The fire forbidden to whoever says 'no god but God' seeking God's face"
+    read: ["Jāmiʿ 67:8661.1"]
+    tags:
+      - {motif: fire-forbidden-to-who-says-it-seeking-gods-face, refs: ["Jāmiʿ 67:8661.1"], note: "لن يوافي عبد يوم القيامة يقول: لا إله إلا الله يبتغي به وجه الله إلا حرم الله عليه النار"}
+  - id: hadith-67-brought-out-of-the-fire
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Angels, prophets and martyrs intercede; believers miss those who prayed and fasted with them; the burnt are thrown in the water of life; four brought out"
+    read: ["Jāmiʿ 67:8661.2-8662.1"]
+    tags:
+      - {motif: angels-prophets-martyrs-intercede-and-bring-out, refs: ["Jāmiʿ 67:8661.2"], note: "ثم يؤذن للملائكة والنبيين والشهداء أن يشفعوا، فيشفعون ويخرجون ... من كان في قلبه ما يزن ذرة من إيمان"}
+      - {motif: believers-plead-for-brothers-who-prayed-with-them, refs: ["Jāmiʿ 67:8661.3"], note: "يفقد المؤمنون رجالا كانوا معهم في الدنيا يصلون بصلاتهم ... فيقولون: أي ربنا! عباد من عبادك ... لا نراهم؟ فيقول: اذهبوا إلى النار فمن وجدتم فيها منهم فأخرجوه"}
+      - {motif: fire-takes-each-to-ankles-knees-waist-collarbone, refs: ["Jāmiʿ 67:8661.3"], note: "فمنهم من أخذته إلى قدميه ... ومنهم من أزرته، ومنهم من أخذته إلى ثدييه، ومنهم من أخذته إلى عنقه، ولم تغش الوجوه"}
+      - {motif: burnt-thrown-in-river-of-life-sprout-like-seed, refs: ["Jāmiʿ 67:8661.3"], note: "فيطرحون في ماء الحياة. قيل: ... وما الحياة؟ قال: غسل أهل الجنة، فينبتون نبات الزرعة ... كما تنبت الزرعة في غثاء السيل"}
+      - {motif: four-brought-out-one-asks-not-to-be-returned, refs: ["Jāmiʿ 67:8662.1"], note: "يخرج من النار أربعة، فيعرضون على الله، فيلتفت أحدهم، فيقول: أي رب! إذ أخرجتني منها فلا تعدني فيها، فينجيه الله منها"}
+  - id: hadith-67-lightest-punishment
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The lightest punishment: an ember under the instep, sandals of fire that boil the brain; Abu Talib in a shallow of fire"
+    read: ["Jāmiʿ 67:8662.2-8664.2"]
+    tags:
+      - {motif: ember-under-instep-boils-brain, refs: ["Jāmiʿ 67:8662.2"], note: "لرجل توضع في أخمص قدميه جمرة يغلي منها دماغه"}
+      - {motif: sandals-of-fire-make-brain-boil, refs: ["Jāmiʿ 67:8663.1", "Jāmiʿ 67:8663.2", "Jāmiʿ 67:8663.3"], note: "ينتعل بنعلين من نار يغلي دماغه من حرارة نعليه"}
+      - {motif: lightest-punished-is-abu-talib, refs: ["Jāmiʿ 67:8663.2"], note: "أهون أهل النار عذابا أبو طالب وهو منتعل بنعلين يغلي منهما دماغه"}
+      - {motif: uncle-in-shallows-of-fire-to-ankles, refs: ["Jāmiʿ 67:8664.1", "Jāmiʿ 67:8664.2"], note: "فيجعل في ضحضاح من نار يبلغ كعبيه يغلي منه دماغه ... لولا أنا لكان في الدرك الأسفل من النار ... وجدته في غمرات من النار فأخرجته إلى ضحضاح"}
+  - id: hadith-67-ransom-of-the-earth
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The damned would ransom himself with the earth's fill of gold; less was asked of him in Adam's loins"
+    read: ["Jāmiʿ 67:8664.3-8665.1"]
+    quran: ["5:36", "7:172"]
+    tags:
+      - {motif: earthful-of-gold-no-ransom, refs: ["Jāmiʿ 67:8664.3", "Jāmiʿ 67:8665.1"], note: "لو كان لك ملء الأرض ذهبا أكنت تفتدي به؟ فيقول: نعم، فيقال له: قد كنت سئلت ما هو أيسر من ذلك ... كذبت"}
+      - {motif: less-asked-in-adams-loins-not-to-associate, refs: ["Jāmiʿ 67:8664.3"], note: "أردت منك أهون من هذا، وأنت في صلب آدم: أن لا تشرك بي شيئا، فأبيت إلا أن تشرك بي"}
+  - id: hadith-67-dream-tour-of-punishments
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "In a dream two men lead the prophet up a rugged mountain past the howling of hell and punishments fitted to sins"
+    read: ["Jāmiʿ 67:8665.2"]
+    tags:
+      - {motif: two-men-lead-dreamer-up-rugged-mountain, refs: ["Jāmiʿ 67:8665.2"], note: "إذ أتاني رجلان فأخذا بضبعي فأتيا بي جبلا وعرا فقالا لي: اصعد ... هذا عواء أهل النار"}
+      - {motif: early-fast-breakers-hung-by-hamstrings-mouths-torn, refs: ["Jāmiʿ 67:8665.2"], note: "بقوم معلقين بعراقيبهم مشققة أشداقهم تسيل أشداقهم دما ... الذين يفطرون قبل تحلة صومهم"}
+      - {motif: adulterers-most-swollen-and-stinking, refs: ["Jāmiʿ 67:8665.2"], note: "بقوم أشد شيء انتفاخا وأنتنه ريحا وأسوئه منظرا ... الزانون والزواني"}
+      - {motif: snakes-bite-breasts-of-women-who-withheld-milk, refs: ["Jāmiʿ 67:8665.2"], note: "بنساء تنهشن ثديهن الحيات ... هؤلاء يمنعن أولادهن ألبانهن"}
+    hints:
+      - "Sinners hung up by a body part and punished by the member that sinned, seen on a guided tour: compare the Apocalypse of Peter (Akhmim 22-24: blasphemers hung by their tongues, adulteresses hung by their hair) and the Apocalypse of Paul 31-42."
+  - id: hadith-67-size-of-the-damned
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The unbeliever enlarged in the fire: a molar like Uhud, skin forty-two cubits, shoulders three days' ride, a seat as far as Mecca from Medina"
+    read: ["Jāmiʿ 67:8666.1-8668.1"]
+    quran: ["4:56", "39:67"]
+    tags:
+      - {motif: unbelievers-molar-like-uhud-skin-three-days, refs: ["Jāmiʿ 67:8666.1", "Jāmiʿ 67:8666.3", "Jāmiʿ 67:8666.4", "Jāmiʿ 67:8666.5", "Jāmiʿ 67:8667.1", "Jāmiʿ 67:8667.2"], note: "ضرس الكافر -أو ناب الكافر- مثل أحد، وغلظ جلده مسيرة ثلاث"}
+      - {motif: unbelievers-shoulders-three-days-fast-ride-apart, refs: ["Jāmiʿ 67:8666.2"], note: "ما بين منكبي الكافر في النار مسيرة ثلاثة أيام للراكب المسرع"}
+      - {motif: unbelievers-skin-forty-two-cubits-by-the-jabbars-cubit, refs: ["Jāmiʿ 67:8666.3", "Jāmiʿ 67:8666.5", "Jāmiʿ 67:8667.1"], note: "إن غلظ جلد الكافر اثنان وأربعون ذراعا ... وكثافة جلده اثنان وأربعون ذراعا بذراع الجبار (variant: وعرض جلده سبعون ذراعا)"}
+      - {motif: unbelievers-seat-in-fire-as-mecca-to-medina, refs: ["Jāmiʿ 67:8666.3", "Jāmiʿ 67:8666.4", "Jāmiʿ 67:8666.5", "Jāmiʿ 67:8667.1"], note: "وإن مجلسه من جهنم كما بين مكة والمدينة ... ومقعده من النار مسيرة ثلاث مثل الربذة ... كما بين قديد ومكة؛ وفخذه مثل البيضاء / ورقان"}
+      - {motif: earlobe-to-shoulder-seventy-autumns-valleys-of-pus, refs: ["Jāmiʿ 67:8668.1"], note: "إن بين شحمة أذن أحدهم وبين عاتقه مسيرة سبعين خريفا، تجري فيها أودية القيح والدم، قلت: أنهارا؟ قال: لا، بل أودية"}
+      - {motif: people-on-the-bridge-when-earth-changed, refs: ["Jāmiʿ 67:8668.1"], note: "سألت رسول الله ﷺ عن قوله: ﴿والأرض جميعا قبضته يوم القيامة﴾ فأين الناس يومئذ؟ قال: هم على جسر جهنم"}
+  - id: hadith-67-amr-bin-luhayy
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Amr b. Luhayy, first to free beasts to the idols, drags his guts in the fire; Aktham resembles him"
+    read: ["Jāmiʿ 67:8668.2-8669.2"]
+    tags:
+      - {motif: amr-b-luhayy-drags-guts-in-fire, refs: ["Jāmiʿ 67:8668.2", "Jāmiʿ 67:8668.3", "Jāmiʿ 67:8669.1", "Jāmiʿ 67:8669.2"], note: "رأيت عمرو بن عامر الخزاعي يجر قصبه في النار، كان أول من سيب السوائب ... وغير عهد إبراهيم"}
+      - {motif: hell-crushing-itself, refs: ["Jāmiʿ 67:8668.2"], note: "رأيت جهنم يحطم بعضه بعضا"}
+      - {motif: lookalike-of-the-damned-not-harmed, refs: ["Jāmiʿ 67:8669.2"], note: "وأشبه من رأيت به أكثم بن الجون. قال: فقال أكثم: يا رسول الله أيضرني شبهه؟ قال: لا، إنك مسلم وهو كافر"}
+  - id: hadith-67-hypocrites-and-apostates
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Twelve hypocrites who will not smell paradise; companions led off to the fire for turning back"
+    read: ["Jāmiʿ 67:8669.3-8669.4"]
+    quran: ["4:138", "4:140", "4:145", "9:68"]
+    tags:
+      - {motif: twelve-hypocrites-among-companions, refs: ["Jāmiʿ 67:8669.3"], note: "إن في أمتي اثنا عشر منافقا لا يدخلون الجنة، ولا يجدون ريحها، حتى يلج الجمل في سم الخياط"}
+      - {motif: ulcer-of-fire-emerging-from-chest, refs: ["Jāmiʿ 67:8669.3"], note: "ثمانية منهم تكفيكهم الدبيلة، سراج من النار يظهر في أكتافهم، حتى ينجم من صدورهم"}
+      - {motif: companions-taken-to-the-left-as-apostates, refs: ["Jāmiʿ 67:8669.4"], note: "إذا زمرة حتى إذا عرفتهم خرج رجل من بيني وبينهم، فقال: هلم ... إلى النار والله ... إنهم ارتدوا بعدك على أدبارهم القهقرى"}
+      - {motif: saved-only-as-few-as-stray-cattle, refs: ["Jāmiʿ 67:8669.4"], note: "فلا أراه يخلص منهم إلا مثل همل النعم"}
+  - id: hadith-67-woman-and-cat-and-eclipse-visions
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A woman in the fire for a cat she starved; the eclipse-prayer visions of the fire and paradise"
+    read: ["Jāmiʿ 67:8670.1-8671.2"]
+    tags:
+      - {motif: woman-in-fire-for-starving-a-cat, refs: ["Jāmiʿ 67:8670.1", "Jāmiʿ 67:8670.2", "Jāmiʿ 67:8670.3", "Jāmiʿ 67:8671.1", "Jāmiʿ 67:8671.2"], note: "عذبت امرأة في هرة سجنتها حتى ماتت ... لا هي أطعمتها ولا سقتها ... ولا هي تركتها تأكل من خشاش الأرض"}
+      - {motif: cat-claws-its-tormentor-in-hell, refs: ["Jāmiʿ 67:8671.2"], note: "فرأيت فيها الحميرية السوداء صاحبة الهرة ... فرأيتها كلما أدبرت نهشت في النار"}
+      - {motif: cat-woman-israelite-or-himyarite, refs: ["Jāmiʿ 67:8670.3", "Jāmiʿ 67:8671.2"], note: "امرأة من بني إسرائيل تعذب في هرة لها (variant: امرأة حميرية سوداء طويلة)"}
+      - {motif: amr-b-luhayy-drags-guts-in-fire, refs: ["Jāmiʿ 67:8670.3"], note: "ورأيت أبا ثمامة عمرو بن مالك يجر قصبه في النار"}
+      - {motif: grape-cluster-of-paradise-reached-for, refs: ["Jāmiʿ 67:8670.3", "Jāmiʿ 67:8671.1", "Jāmiʿ 67:8671.2"], note: "فعرضت علي الجنة، حتى لو تناولت منها قطفا أخذته ... فقصرت يدي عنه"}
+      - {motif: prophet-steps-back-from-heat-of-fire-in-prayer, refs: ["Jāmiʿ 67:8671.1"], note: "لقد جيء بالنار، وذلكم حين رأيتموني تأخرت، مخافة أن يصيبني من لفحها"}
+      - {motif: pilgrim-thief-with-crooked-staff-in-fire, refs: ["Jāmiʿ 67:8671.1", "Jāmiʿ 67:8671.2"], note: "صاحب المحجن يجر قصبه في النار، كان يسرق الحاج بمحجنه، فإن فطن له قال: إنما تعلق بمحجني ... فرأيته في النار على محجنه متوكئا"}
+      - {motif: thief-of-sacrificial-camels-driven-with-forked-stick, refs: ["Jāmiʿ 67:8671.2"], note: "ورأيت فيها صاحب بدنتي رسول الله ﷺ أخا دعدع، يدفع في النار بقضيبين ذي شعبتين"}
+      - {motif: did-you-not-promise-not-to-punish-them-while-i-am-among-them, refs: ["Jāmiʿ 67:8671.2"], note: "فجعلت أقول: ألم تعدني أن لا تعذبهم وأنا فيهم، رب ألم تعدني أن لا تعذبهم وهم يستغفرونك"}
+  - id: hadith-67-women-most-of-the-fire
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Women shown as most of the fire for ingratitude to husbands; give alms even from your jewellery; the corrupt are women"
+    read: ["Jāmiʿ 67:8672.1-8674.1"]
+    tags:
+      - {motif: women-most-of-fire-for-ingratitude-to-husband, refs: ["Jāmiʿ 67:8672.1", "Jāmiʿ 67:8673.1", "Jāmiʿ 67:8673.2", "Jāmiʿ 67:8673.3", "Jāmiʿ 67:8673.4"], note: "أريت النار فإذا أكثر أهلها النساء، يكفرن ... يكفرن العشير، ويكفرن الإحسان، لو أحسنت إلى إحداهن الدهر، ثم رأت منك شيئا، قالت: ما رأيت منك خيرا قط"}
+      - {motif: women-told-give-alms-even-from-jewellery, refs: ["Jāmiʿ 67:8672.2", "Jāmiʿ 67:8673.1", "Jāmiʿ 67:8673.3", "Jāmiʿ 67:8673.4"], note: "يا معشر النساء! تصدقن، ولو من حليكن؛ فإنكن أكثر أهل جهنم يوم القيامة ... فإن أكثركن حطب جهنم"}
+      - {motif: feast-prayer-before-sermon-no-adhan-no-iqama, refs: ["Jāmiʿ 67:8673.3"], note: "فبدأ بالصلاة قبل الخطبة بغير أذان ولا إقامة، ثم قام متوكئا على بلال ... ثم مضى حتى أتى النساء"}
+      - {motif: women-deficient-in-intellect-and-religion, refs: ["Jāmiʿ 67:8673.4"], note: "وما رأيت ناقصات عقل ودين أغلب للب الرجال منكن"}
+      - {motif: the-corrupt-are-women-ungrateful-and-impatient, refs: ["Jāmiʿ 67:8674.1"], note: "إن الفساق هم أهل النار. قيل: ... ومن الفساق؟ قال: النساء ... إذا أعطين لم يشكرن، وإذا ابتلين لم يصبرن"}
+  - id: hadith-67-ransom-from-the-fire
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A Jew or Christian given to each Muslim as his ransom from the fire; each has a home in paradise and in the fire"
+    read: ["Jāmiʿ 67:8674.2-8675.1"]
+    quran: ["23:10"]
+    tags:
+      - {motif: jew-or-christian-as-muslims-ransom-from-fire, refs: ["Jāmiʿ 67:8674.2", "Jāmiʿ 67:8674.3", "Jāmiʿ 67:8674.4"], note: "دفع الله ﷿ إلى كل مسلم يهوديا أو نصرانيا، فيقول: هذا فكاكك من النار ... يغفرها الله لهم ويضعها على اليهود والنصارى"}
+      - {motif: every-person-has-seat-in-paradise-and-fire, refs: ["Jāmiʿ 67:8675.1"], note: "ما منكم من أحد إلا له منزلان: منزل في الجنة ومنزل في النار. فإذا مات فدخل النار، ورث أهل الجنة منزله"}
+    hints:
+      - "The sinner's place filled by another, each person having a share in paradise and in Gehenna that the righteous inherits: compare b. Hagigah 15a (the righteous takes his own portion and his fellow's portion in the Garden; the wicked his own and his fellow's in Gehenna)."
+  - id: hadith-67-paradise-and-hell-surrounded
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "God's punishment and mercy; paradise ringed with hardships, the fire with desires; Gabriel sent to look at both"
+    read: ["Jāmiʿ 67:8676.1-8676.4"]
+    tags:
+      - {motif: unbeliever-would-not-despair-believer-not-feel-safe, refs: ["Jāmiʿ 67:8676.1"], note: "لو يعلم المؤمن ما عند الله من العقوبة، ما طمع بجنته أحد، ولو يعلم الكافر ما عند الله من الرحمة، ما قنط من جنته أحد"}
+      - {motif: paradise-ringed-with-hardships-hell-with-desires, refs: ["Jāmiʿ 67:8676.2", "Jāmiʿ 67:8676.3", "Jāmiʿ 67:8676.4"], note: "حفت الجنة بالمكاره، وحفت النار بالشهوات ... حجبت النار بالشهوات"}
+      - {motif: gabriel-sent-to-inspect-paradise-and-hell, refs: ["Jāmiʿ 67:8676.4"], note: "لما خلق الله الجنة والنار أرسل جبريل إلى الجنة، فقال: انظر إليها، وإلى ما أعددت لأهلها فيها"}
+      - {motif: none-will-enter-none-will-escape, refs: ["Jāmiʿ 67:8676.4"], note: "وعزتك لقد خفت أن لا يدخلها أحد ... وعزتك لقد خشيت أن لا ينجو منها أحد إلا دخلها"}
+  - id: hadith-67-ramadan-gates
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "In Ramadan the gates of paradise are opened, those of hell shut and the devils chained"
+    read: ["Jāmiʿ 67:8677.1-8677.2"]
+    tags:
+      - {motif: ramadan-paradise-opened-hell-shut-devils-chained, refs: ["Jāmiʿ 67:8677.1", "Jāmiʿ 67:8677.2"], note: "إذا جاء رمضان فتحت أبواب الجنة، وغلقت أبواب النار، وصفدت الشياطين ... فتحت أبواب الرحمة ... وسلسلت الشياطين"}
+  - id: hadith-67-seats-shown-and-inherited
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Each is shown the seat he would have had in the other abode; the unbeliever inherits the believer's place in the fire and the reverse; one dip makes each forget"
+    read: ["Jāmiʿ 67:8677.3-8678.2"]
+    quran: ["39:57", "7:43", "43:72"]
+    tags:
+      - {motif: each-shown-other-seat-in-hell-or-paradise, refs: ["Jāmiʿ 67:8677.3", "Jāmiʿ 67:8677.4"], note: "لا يدخل أحد الجنة إلا أري مقعده من النار لو أساء، ليزداد شكرا، ولا يدخل النار أحد إلا أري مقعده من الجنة لو أحسن، ليكون عليه حسرة"}
+      - {motif: every-person-has-seat-in-paradise-and-fire, refs: ["Jāmiʿ 67:8677.4"], note: "ما من أحد إلا وله منزل في الجنة، ومنزل في النار، فالكافر يرث المؤمن منزله من النار، والمؤمن يرث الكافر منزله من الجنة"}
+      - {motif: one-dip-erases-memory-of-life, refs: ["Jāmiʿ 67:8678.1"], note: "يؤتى بأنعم أهل الدنيا من أهل النار ... فيصبغ في النار صبغة ... هل رأيت خيرا قط؟ ... لا، والله! يا رب"}
+      - {motif: paradise-and-fire-nearer-than-sandal-strap, refs: ["Jāmiʿ 67:8678.2"], note: "الجنة أقرب إلى أحدكم من شراك نعله، والنار مثل ذلك"}
+    hints:
+      - "Each soul has a place in both paradise and Gehenna, and the righteous takes the wicked man's place in the Garden: b. Hagigah 15a."
+  - id: hadith-67-ask-me-and-the-wall
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Ask me': paradise and the fire shown in the breadth of the wall; 'your father is Hudhafa'"
+    read: ["Jāmiʿ 67:8678.3"]
+    tags:
+      - {motif: ask-me-anything-from-the-pulpit, refs: ["Jāmiʿ 67:8678.3"], note: "لا تسألوني عن شيء إلا أخبرتكم به ما دمت في مقامي هذا ... فأكثر الناس البكاء"}
+      - {motif: your-father-is-hudhafa, refs: ["Jāmiʿ 67:8678.3"], note: "فقام عبد الله بن حذافة، فقال: من أبي يا رسول الله؟ قال: أبوك حذافة"}
+      - {motif: man-asking-his-entrance-told-the-fire, refs: ["Jāmiʿ 67:8678.3"], note: "فقام إليه رجل: فقال: أين مدخلي يا رسول الله؟ قال: النار"}
+      - {motif: paradise-and-fire-shown-beyond-the-wall, refs: ["Jāmiʿ 67:8678.3"], note: "لقد عرضت علي الجنة والنار آنفا في عرض هذا الحائط وأنا أصلي، فلم أر كاليوم في الخير والشر"}
+      - {motif: umar-kneels-content-with-god-islam-muhammad, refs: ["Jāmiʿ 67:8678.3"], note: "فبرك عمر على ركبتيه، فقال: رضينا بالله ربا، وبالإسلام دينا، وبمحمد ﷺ رسولا ... فسكت رسول الله ﷺ"}
+  - id: hadith-67-room-left-in-paradise
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Hell filled when the Lord sets his foot; room remains in paradise until God creates a people for it"
+    read: ["Jāmiʿ 67:8679.1"]
+    quran: ["50:30"]
+    tags:
+      - {motif: lord-sets-foot-hell-says-enough, refs: ["Jāmiʿ 67:8679.1"], note: "حتى يضع رب العزة فيها قدمه، فينزوي بعضها إلى بعض، وتقول: قط قط، بعزتك وكرمك"}
+      - {motif: god-creates-new-people-for-paradises-surplus, refs: ["Jāmiʿ 67:8679.1"], note: "ولا يزال في الجنة فضل حتى ينشئ الله لها خلقا، فيسكنهم فضل الجنة"}
+  - id: hadith-67-death-slaughtered
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Death brought as a ram, recognised by both peoples and slaughtered between paradise and the fire: 'eternity, no death'"
+    read: ["Jāmiʿ 67:8680.1-8681.3"]
+    quran: ["18:107-108", "2:161-162", "19:39"]
+    tags:
+      - {motif: death-as-ram-slaughtered-between-paradise-and-hell, refs: ["Jāmiʿ 67:8680.1", "Jāmiʿ 67:8680.3", "Jāmiʿ 67:8681.2", "Jāmiʿ 67:8681.3"], note: "يؤتى بالموت كهيئة كبش أملح ... هل تعرفون هذا؟ فيقولون: نعم، هذا الموت، وكلهم قد رآه ... فيذبح"}
+      - {motif: herald-eternity-no-death, refs: ["Jāmiʿ 67:8680.1", "Jāmiʿ 67:8680.2", "Jāmiʿ 67:8680.3", "Jāmiʿ 67:8681.1", "Jāmiʿ 67:8681.2", "Jāmiʿ 67:8681.3"], note: "يا أهل الجنة لا موت، ويا أهل النار لا موت، كل خالد فيما هو فيه ... خلود فلا موت"}
+      - {motif: death-led-by-collar-to-the-wall-between, refs: ["Jāmiʿ 67:8681.2"], note: "أتي بالموت ملببا فيوقف على السور الذي بين أهل الجنة وأهل النار، ثم يقال: يا أهل الجنة فيطلعون خائفين ... يا أهل النار فيطلعون مستبشرين يرجون الشفاعة"}
+  - id: hadith-67-the-two-necessities
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The two necessities: dying without association, dying with it"
+    read: ["Jāmiʿ 67:8682.1"]
+    tags:
+      - {motif: two-necessities-dying-with-or-without-shirk, refs: ["Jāmiʿ 67:8682.1"], note: "ما الموجبتان؟ قال: من مات لا يشرك بالله شيئا دخل الجنة، ومن مات يشرك بالله شيئا دخل النار"}
+  - id: hadith-67-poor-and-women
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "At the gate of paradise most who enter are the poor, the wealthy held back; at the gate of the fire, women"
+    read: ["Jāmiʿ 67:8682.2-8682.4"]
+    tags:
+      - {motif: paradise-mostly-poor-hell-mostly-women, refs: ["Jāmiʿ 67:8682.2", "Jāmiʿ 67:8682.3", "Jāmiʿ 67:8682.4"], note: "قمت على باب الجنة، فكان عامة من دخلها المساكين، وأصحاب الجد محبوسون ... وقمت على باب النار، فإذا عامة من دخلها النساء"}
+  - id: hadith-67-weak-and-tyrants
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Paradise and the fire dispute; the weak to paradise, the coarse and proud to the fire; the sermon of Iyad b. Himar"
+    read: ["Jāmiʿ 67:8683.1-8686.1"]
+    tags:
+      - {motif: paradise-and-fire-dispute, refs: ["Jāmiʿ 67:8683.1", "Jāmiʿ 67:8683.2", "Jāmiʿ 67:8683.4"], note: "تحاجت الجنة والنار، فقالت النار: أوثرت بالمتكبرين والمتجبرين، وقالت الجنة: فما لي لا يدخلني إلا ضعفاء الناس وسقطهم وغرتهم؟ ... إنما أنت رحمتي ... إنما أنت عذابي"}
+      - {motif: lord-sets-foot-hell-says-enough, refs: ["Jāmiʿ 67:8683.1", "Jāmiʿ 67:8683.2"], note: "فأما النار فلا تمتلئ حتى يضع الله ﵎ رجله، تقول: قط قط قط"}
+      - {motif: god-creates-new-people-for-paradises-surplus, refs: ["Jāmiʿ 67:8683.1", "Jāmiʿ 67:8683.2"], note: "وأما الجنة فإن الله ينشئ لها خلقا (in the Bukhari wording of 8683.2: وإنه ينشئ للنار من يشاء)"}
+      - {motif: weak-of-paradise-coarse-of-hell, refs: ["Jāmiʿ 67:8683.3", "Jāmiʿ 67:8684.2", "Jāmiʿ 67:8685.1", "Jāmiʿ 67:8685.2", "Jāmiʿ 67:8685.3", "Jāmiʿ 67:8685.4"], note: "كل ضعيف متضعف، لو أقسم على الله لأبره ... كل عتل جواظ مستكبر ... كل جعظري جواظ مستكبر جماع مناع"}
+      - {motif: servants-created-hanif-devils-led-them-off, refs: ["Jāmiʿ 67:8684.1"], note: "وإني خلقت عبادي حنفاء كلهم، وإنهم أتتهم الشياطين فاجتالتهم عن دينهم"}
+      - {motif: book-not-washed-away-by-water-read-asleep-and-awake, refs: ["Jāmiʿ 67:8684.1"], note: "وأنزلت عليك كتابا لا يغسله الماء، تقرؤه نائما ويقظان"}
+      - {motif: god-loathed-earth-but-remnants-of-scripture-people, refs: ["Jāmiʿ 67:8684.1"], note: "وإن الله نظر إلى أهل الأرض، فمقتهم عربهم وعجمهم إلا بقايا من أهل الكتاب"}
+      - {motif: ordered-to-burn-quraysh-head-made-into-bread, refs: ["Jāmiʿ 67:8684.1"], note: "إن الله أمرني أن أحرق قريشا، فقلت: رب إذا يثلغوا رأسي فيدعوه خبزة، قال: استخرجهم كما استخرجوك ... وابعث جيشا نبعث خمسة مثله"}
+      - {motif: three-people-of-paradise-five-of-the-fire, refs: ["Jāmiʿ 67:8684.1"], note: "وأهل الجنة ثلاثة: ذو سلطان مقسط متصدق موفق، ورجل رحيم رقيق القلب ... وعفيف متعفف ذو عيال ... وأهل النار خمسة: الضعيف الذي لا زبر له ... والخائن ... ورجل يخادعك عن أهلك ومالك ... والشنظير الفحاش"}
+      - {motif: fire-forbidden-to-the-near-gentle-easy, refs: ["Jāmiʿ 67:8686.1"], note: "ألا أخبركم بمن يحرم على النار أو بمن تحرم عليه النار، على كل قريب هين سهل"}
+  - id: hadith-67-two-words-in-the-scale
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Two words light on the tongue, heavy in the scale"
+    read: ["Jāmiʿ 67:8686.2"]
+    quran: ["21:47"]
+    tags:
+      - {motif: two-words-light-on-tongue-heavy-in-scale, refs: ["Jāmiʿ 67:8686.2"], note: "كلمتان حبيبتان إلى الرحمن، خفيفتان على اللسان، ثقيلتان في الميزان، سبحان الله وبحمده، سبحان الله العظيم"}
+  # ---- Book 2: faith (kitab al-iman), babs 1-53
+  - id: hadith-2-gabriel-questions
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Gabriel as an unknown man asks of islam, iman, ihsan and the Hour; the slave woman bears her master; the herdsmen build tall"
+    read: ["Jāmiʿ 2:119.1-121.2"]
+    quran: ["31:34"]
+    tags:
+      - {motif: gabriel-asks-iman-islam-ihsan-and-the-hour, refs: ["Jāmiʿ 2:119.1", "Jāmiʿ 2:119.2", "Jāmiʿ 2:121.1", "Jāmiʿ 2:121.2"], note: "ما الإيمان؟ ... ما الإسلام؟ ... ما الإحسان؟ قال: أن تعبد الله كأنك تراه فإن لم تكن تراه فإنه يراك ... متى الساعة؟ قال: ما المسؤول عنها بأعلم من السائل"}
+      - {motif: gabriel-in-human-form-teaches-faith, refs: ["Jāmiʿ 2:119.1", "Jāmiʿ 2:119.2"], note: "إذ طلع علينا رجل شديد بياض الثياب شديد سواد الشعر، لا يرى عليه أثر السفر، ولا يعرفه منا أحد ... فأسند ركبتيه إلى ركبتيه، ووضع كفيه على فخذيه ... فإنه جبريل أتاكم يعلمكم دينكم"}
+      - {motif: questioner-confirms-answers-you-speak-truly, refs: ["Jāmiʿ 2:119.2", "Jāmiʿ 2:121.1"], note: "قال: صدقت! قال: فعجبنا له يسأله ويصدقه"}
+      - {motif: gabriel-vanishes-when-sought, refs: ["Jāmiʿ 2:119.1"], note: "ثم أدبر فقال: ردوه فلم يروا شيئا!"}
+      - {motif: slave-woman-bears-her-mistress-sign, refs: ["Jāmiʿ 2:119.1", "Jāmiʿ 2:119.2", "Jāmiʿ 2:121.2"], note: "إذا ولدت الأمة ربها ... أن تلد الأمة ربتها"}
+      - {motif: barefoot-naked-shepherds-vie-in-building, refs: ["Jāmiʿ 2:119.1", "Jāmiʿ 2:119.2", "Jāmiʿ 2:121.2"], note: "وأن ترى الحفاة العراة العالة رعاء الشاء يتطاولون في البنيان ... ومن أصحاب الشاء والحفاة الجياع العالة؟ قال: العرب"}
+      - {motif: five-keys-of-the-unseen, refs: ["Jāmiʿ 2:119.1", "Jāmiʿ 2:121.2"], note: "في خمس لا يعلمهن إلا الله، ثم تلا: ﴿إن الله عنده علم الساعة﴾"}
+      - {motif: faith-includes-decree-good-and-evil, refs: ["Jāmiʿ 2:119.2", "Jāmiʿ 2:121.1", "Jāmiʿ 2:121.2"], note: "وتؤمن بالقدر خيره وشره (the question was prompted by Ma'bad al-Juhani's denial of qadar at Basra)"}
+  - id: hadith-2-questioners-on-the-pillars
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The Najdi who will add nothing; Dimam b. Tha'laba adjures the prophet by his Lord; Mu'awiya b. Hayda swears by his fingers"
+    read: ["Jāmiʿ 2:122.1-126.1"]
+    tags:
+      - {motif: neither-add-nor-subtract-gains-paradise, refs: ["Jāmiʿ 2:122.1", "Jāmiʿ 2:123.1", "Jāmiʿ 2:124.1"], note: "خمس صلوات في اليوم والليلة. فقال: هل علي غيرهن قال: لا إلا أن تطوع ... والله لا أزيد على هذا ولا أنقص منه ... أفلح الرجل إن صدق"}
+      - {motif: oath-by-maker-of-sky-earth-mountains, refs: ["Jāmiʿ 2:123.1", "Jāmiʿ 2:124.1"], note: "أسألك بربك ورب من قبلك، آلله أرسلك إلى الناس كلهم؟ فقال: اللهم نعم ... أنشدك الله إلهك، وإله من كان قبلك، وإله من هو كائن بعدك"}
+      - {motif: camel-couched-and-hobbled-in-the-mosque, refs: ["Jāmiʿ 2:123.1", "Jāmiʿ 2:124.1"], note: "دخل رجل على جمل فأناخه في المسجد ثم عقله ثم قال لهم: أيكم محمد؟ ... هذا الرجل الأبيض المتكئ"}
+      - {motif: envoy-of-two-plaits-converts-whole-tribe-in-a-day, refs: ["Jāmiʿ 2:124.1"], note: "وكان ضمام رجلا جلدا أشعر ذا غديرتين ... إن يصدق ذو العقيصتين يدخل الجنة ... بئست اللات والعزى. قالوا: مه يا ضمام، اتق البرص والجذام، اتق الجنون ... فوالله ما أمسى من ذلك اليوم وفي حاضره رجل ولا امرأة إلا مسلما"}
+      - {motif: swore-by-his-fingers-not-to-come, refs: ["Jāmiʿ 2:126.1"], note: "ما أتيتك حتى حلفت عدد أصابعي هذه أن لا آتيك -أرانا عفان وطبق كفيه-"}
+      - {motif: wife-fed-and-clothed-face-not-struck, refs: ["Jāmiʿ 2:126.1"], note: "ما حق زوجة أحدنا عليه؟ قال: تطعمها إذا طعمت، وتكسوها إذا اكتسيت، ولا تضرب الوجه، ولا تقبح، ولا تهجر إلا في البيت"}
+      - {motif: gathered-toward-syria-mouths-gagged-thigh-speaks-first, refs: ["Jāmiʿ 2:126.1"], note: "تحشرون ههنا -وأومأ بيده إلى نحو الشام- مشاة وركبانا وعلى وجوهكم، تعرضون على الله وعلى أفواهكم الفدام، وأول ما يعرب عن أحدكم فخذه"}
+      - {motif: withheld-surplus-becomes-serpent-biting-the-miser, refs: ["Jāmiʿ 2:126.1"], note: "ما من مولى يأتي مولى له فيسأله من فضل عنده فيمنعه إلا جعله الله عليه شجاعا ينهشه قبل القضاء"}
+  - id: hadith-2-built-on-five
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Islam built on five; faith of sixty- or seventy-odd branches, modesty one of them"
+    read: ["Jāmiʿ 2:126.2-127.1"]
+    tags:
+      - {motif: islam-built-on-five, refs: ["Jāmiʿ 2:126.2"], note: "بني الإسلام على خمس: شهادة أن لا إله إلا الله، وأن محمدا رسول الله وإقام الصلاة، وإيتاء الزكاة، والحج، وصوم رمضان (told to a man urging Ibn Umar to go raiding)"}
+      - {motif: faith-sixty-or-seventy-odd-branches, refs: ["Jāmiʿ 2:127.1"], note: "الإيمان بضع وستون شعبة، والحياء شعبة من الإيمان (Muslim: بضع وسبعون؛ highest saying la ilaha illa allah, lowest removing harm from the road)"}
+  - id: hadith-2-perfection-of-faith
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Faith completed by loving, hating, giving and withholding for God; the most perfect in faith are the best in character"
+    read: ["Jāmiʿ 2:128.1-129.1"]
+    tags:
+      - {motif: love-hate-give-withhold-for-god-completes-faith, refs: ["Jāmiʿ 2:128.1", "Jāmiʿ 2:128.2"], note: "من أحب لله، وأبغض لله، وأعطى لله، ومنع لله فقد استكمل الإيمان (Mu'adh b. Anas adds: وأنكح لله)"}
+      - {motif: most-perfect-faith-best-character-best-to-wives, refs: ["Jāmiʿ 2:128.3", "Jāmiʿ 2:129.1"], note: "أكمل المؤمنين إيمانا أحسنهم خلقا، وخياركم خياركم لنسائهم خلقا ... وإن حسن الخلق ليبلغ درجة الصوم والصلاة"}
+  - id: hadith-2-faith-leaves-the-sinner
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "No adulterer, thief or drinker is a believer while he does it; faith hovers above him like a canopy; no faith without trust"
+    read: ["Jāmiʿ 2:130.1-133.1"]
+    tags:
+      - {motif: no-adulterer-is-believer-while-he-commits-it, refs: ["Jāmiʿ 2:130.1", "Jāmiʿ 2:131.1", "Jāmiʿ 2:131.2", "Jāmiʿ 2:131.3"], note: "لا يزني الزاني حين يزني وهو مؤمن، ولا يشرب الخمر حين يشربها وهو مؤمن، ولا يسرق السارق حين يسرق وهو مؤمن (Ibn Abbas adds: ولا يقتل وهو مؤمن)"}
+      - {motif: plunder-of-renown-while-eyes-are-raised, refs: ["Jāmiʿ 2:131.3"], note: "ولا ينتهب نهبة ذات شرف -أو سرف- وهو مؤمن"}
+      - {motif: faith-withdrawn-like-unlaced-fingers, refs: ["Jāmiʿ 2:131.1"], note: "كيف ينزع الإيمان منه؟ قال: هكذا -وشبك بين أصابعه، ثم أخرجها-، فإن تاب عاد إليه - وشبك بين أصابعه"}
+      - {motif: faith-hovers-over-adulterer-like-canopy, refs: ["Jāmiʿ 2:132.1"], note: "إذا زنى الرجل خرج منه الإيمان كان عليه كالظلة، فإذا انقلع رجع إليه الإيمان"}
+      - {motif: no-faith-without-trust-no-religion-without-covenant, refs: ["Jāmiʿ 2:133.1"], note: "ما خطبنا نبي الله ﷺ إلا قال فيه: لا إيمان لمن لا أمانة له، ولا دين لمن لا عهد له"}
+  - id: hadith-2-deficiency-of-religion
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Women told they are deficient in intellect and religion: two women's witness for one man, menstruation without prayer or fast; Zaynab's jewellery"
+    read: ["Jāmiʿ 2:134.1-136.1"]
+    tags:
+      - {motif: women-most-of-fire-for-ingratitude-to-husband, refs: ["Jāmiʿ 2:134.1", "Jāmiʿ 2:134.2", "Jāmiʿ 2:135.1", "Jāmiʿ 2:136.1"], note: "فإني أريتكن أكثر أهل النار ... تكثرن اللعن، وتكفرن العشير"}
+      - {motif: women-deficient-in-intellect-and-religion, refs: ["Jāmiʿ 2:134.1", "Jāmiʿ 2:134.2", "Jāmiʿ 2:134.3", "Jāmiʿ 2:135.1", "Jāmiʿ 2:136.1"], note: "ما رأيت من ناقصات عقل ودين أذهب للب الرجل الحازم من إحداكن"}
+      - {motif: two-womens-witness-equals-one-mans, refs: ["Jāmiʿ 2:134.1", "Jāmiʿ 2:134.2", "Jāmiʿ 2:135.1"], note: "أليس شهادة المرأة مثل نصف شهادة الرجل ... فذلك من نقصان عقلها ... شهادة امرأتين تعدل شهادة رجل"}
+      - {motif: menstruant-neither-prays-nor-fasts-deficiency-of-religion, refs: ["Jāmiʿ 2:134.1", "Jāmiʿ 2:134.2", "Jāmiʿ 2:135.1"], note: "أليس إذا حاضت لم تصل ولم تصم؟ ... فذلك من نقصان دينها ... وتمكث الليالي ما تصلي، وتفطر في رمضان"}
+      - {motif: wife-gives-jewellery-as-alms-to-husband-and-children, refs: ["Jāmiʿ 2:135.1"], note: "وأخذت حليا لها ... فقال ابن مسعود: ... هلم تصدقي به علي وعلى ولدي ... فقال: أي الزيانب هي؟ ... تصدقي به عليه وعلى بنيه فإنهم له موضع"}
+      - {motif: women-told-give-alms-even-from-jewellery, refs: ["Jāmiʿ 2:136.1"], note: "تصدقن يا معشر النساء، ولو من حليكن، فإنكن أكثر أهل النار"}
+  - id: hadith-2-increase-of-faith
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Faith increases and decreases: those with a dinar, half a dinar, an atom of good brought out; the handful of those who never did good; the river of life"
+    read: ["Jāmiʿ 2:137.1-139.2"]
+    quran: ["33:22", "74:31", "9:124", "3:173", "48:4", "4:40"]
+    tags:
+      - {motif: believers-plead-for-brothers-who-prayed-with-them, refs: ["Jāmiʿ 2:137.1"], note: "ما منكم من أحد بأشد مناشدة لله في استقصاء الحق من المؤمنين لله يوم القيامة لإخوانهم الذين في النار، يقولون: ربنا كانوا يصومون معنا، ويصلون ويحجون"}
+      - {motif: faces-forbidden-to-the-fire, refs: ["Jāmiʿ 2:137.1"], note: "فيقال لهم: أخرجوا من عرفتم، فتحرم صورهم على النار"}
+      - {motif: brought-out-by-dinar-half-dinar-atom-of-good, refs: ["Jāmiʿ 2:137.1", "Jāmiʿ 2:138.2"], note: "فمن وجدتم في قلبه مثقال دينار من خير فأخرجوه ... مثقال نصف دينار ... مثقال ذرة ... (Anas: وزن شعيرة ... وزن برة ... وزن ذرة)"}
+      - {motif: most-merciful-scoops-handful-who-never-did-good, refs: ["Jāmiʿ 2:137.1"], note: "شفعت الملائكة، وشفع النبيون، وشفع المؤمنون، ولم يبق إلا أرحم الراحمين فيقبض قبضة من النار فيخرج منها قوما لم يعملوا خيرا قط، قد عادوا حمما"}
+      - {motif: burnt-thrown-in-river-of-life-sprout-like-seed, refs: ["Jāmiʿ 2:137.1", "Jāmiʿ 2:138.1", "Jāmiʿ 2:139.1"], note: "فيلقيهم في نهر في أفواه الجنة يقال له: نهر الحياة فيخرجون كما تخرج الحبة في حميل السيل ... ألم تر أنها تخرج صفراء ملتوية"}
+      - {motif: mustard-seed-of-faith-or-of-pride, refs: ["Jāmiʿ 2:138.1", "Jāmiʿ 2:138.3", "Jāmiʿ 2:139.1"], note: "لا يدخل النار أحد في قلبه مثقال حبة خردل من إيمان. ولا يدخل الجنة أحد في قلبه مثقال حبة خردل من كبرياء"}
+      - {motif: freed-of-god-written-on-necks-called-jahannamiyyun, refs: ["Jāmiʿ 2:139.1"], note: "فتسقط محاشهم على حافة النهر ويخرجون بيضا مثل الثعارير ... فيكتب في رقابهم: عتقاء الله، ثم يدخلون الجنة فيسمون فيها الجهنميين"}
+      - {motif: god-brings-out-by-his-own-knowledge-and-mercy, refs: ["Jāmiʿ 2:139.1"], note: "ثم يقول الله ﷿: أنا الآن أخرج بعلمي ورحمتي. قال: فيخرج أضعاف ما أخرجوا وأضعافه"}
+      - {motif: faith-learned-before-quran-then-increased, refs: ["Jāmiʿ 2:139.2"], note: "كنا مع النبي ﷺ ونحن فتيان حزاورة، فتعلمنا الإيمان قبل أن نتعلم القرآن، ثم تعلمنا القرآن، فازددنا به إيمانا"}
+  - id: hadith-2-deeds-that-bring-to-paradise
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Deeds that bring a man to paradise: the man at the camel's halter, the bedouin who adds nothing, the deputation of Abd al-Qays, Mu'adh on the road"
+    read: ["Jāmiʿ 2:139.3-144.1"]
+    quran: ["32:16-17"]
+    tags:
+      - {motif: grabs-camels-halter-to-ask-the-way-to-paradise, refs: ["Jāmiʿ 2:139.3"], note: "أرب ما له، تعبد الله ولا تشرك به شيئا، وتقيم الصلاة، وتؤتي الزكاة، وتصل الرحم (Muslim's wording: فأخذ بخطام ناقته ... دع الناقة)"}
+      - {motif: neither-add-nor-subtract-gains-paradise, refs: ["Jāmiʿ 2:140.1", "Jāmiʿ 2:143.1"], note: "والذي نفسي بيده! لا أزيد على هذا. فلما ولى قال النبي ﷺ: من سره أن ينظر إلى رجل من أهل الجنة فلينظر إلى هذا"}
+      - {motif: four-commands-four-prohibitions-fifth-of-spoils, refs: ["Jāmiʿ 2:140.2", "Jāmiʿ 2:141.1"], note: "فأمرهم بأربع، ونهاهم عن أربع ... وأن تعطوا من المغنم الخمس ... احفظوهن وأخبروا بهن من وراءكم"}
+      - {motif: four-forbidden-vessels-for-nabidh, refs: ["Jāmiʿ 2:140.2", "Jāmiʿ 2:141.1"], note: "عن الحنتم، والدباء والنقير، والمزفت ... النقير؟ قال: بلى جذع تنقرونه فتقذفون فيه من القطيعاء ... في أسقية الأدم التي يلاث على أفواهها"}
+      - {motif: drunk-man-strikes-cousin-with-sword, refs: ["Jāmiʿ 2:141.1"], note: "حتى إن أحدكم -أو إن أحدهم- ليضرب ابن عمه بالسيف. قال: وفي القوم رجل أصابته جراحة كذلك. قال: وكنت أخبأها حياء من رسول الله ﷺ"}
+      - {motif: leather-skins-even-if-rats-eat-them, refs: ["Jāmiʿ 2:141.1"], note: "إن أرضنا كثيرة الجرذان، ولا تبقى بها أسقية الأدم. فقال: وإن أكلتها الجرذان، وإن أكلتها الجرذان، وإن أكلتها الجرذان"}
+      - {motif: forbearance-and-deliberation-loved-by-god, refs: ["Jāmiʿ 2:140.2", "Jāmiʿ 2:141.1"], note: "قال لأشج عبد القيس: إن فيك لخصلتين يحبهما الله الحلم والأناة"}
+      - {motif: welcome-without-shame-or-regret, refs: ["Jāmiʿ 2:140.2"], note: "مرحبا بالقوم -أو بالوفد- غير خزايا ولا ندامى ... إنا لا نستطيع أن نأتيك إلا في الشهر الحرام، وبيننا وبينك هذا الحي من كفار مضر"}
+      - {motif: alms-quench-sin-as-water-quenches-fire, refs: ["Jāmiʿ 2:144.1"], note: "الصوم جنة، والصدقة تطفئ الخطيئة كما يطفئ الماء النار، وصلاة الرجل من جوف الليل، ثم تلا: ﴿تتجافى جنوبهم عن المضاجع﴾"}
+      - {motif: head-islam-pillar-prayer-hump-jihad, refs: ["Jāmiʿ 2:144.1"], note: "رأس الأمر الإسلام، وعموده الصلاة، وذروة سنامه الجهاد"}
+      - {motif: thrown-on-faces-for-harvest-of-tongues, refs: ["Jāmiʿ 2:144.1"], note: "فأخذه بلسانه قال: كف عليك هذا ... ثكلتك أمك يا معاذ! وهل يكب الناس في النار على وجوههم -أو على مناخرهم- إلا حصائد ألسنتهم؟"}
+  - id: hadith-2-spread-the-greeting
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Spread the greeting, feed others, pray while people sleep; Ibn Salam knows the face is not a liar's; the renaming of Abu l-Hakam and Abd al-Hajar"
+    read: ["Jāmiʿ 2:144.2-146.1"]
+    tags:
+      - {motif: not-believe-until-love-spread-greeting, refs: ["Jāmiʿ 2:144.2"], note: "لا تدخلون الجنة حتى تؤمنوا، ولا تؤمنوا حتى تحابوا. أولا أدلكم على شيء إذا فعلتموه تحاببتم؟ أفشوا السلام بينكم"}
+      - {motif: ask-me-of-everything-all-from-water, refs: ["Jāmiʿ 2:145.1"], note: "إني إذا رأيتك طابت نفسي، وقرت عيني، فأنبئني عن كل شيء، فقال: كل شيء خلق من ماء"}
+      - {motif: greeting-feeding-kinship-night-prayer-enter-paradise, refs: ["Jāmiʿ 2:145.1", "Jāmiʿ 2:145.2", "Jāmiʿ 2:145.3"], note: "أفش السلام، وأطعم الطعام، وصل الأرحام، وقم بالليل والناس نيام، ثم ادخل الجنة بسلام"}
+      - {motif: face-not-the-face-of-a-liar, refs: ["Jāmiʿ 2:145.3"], note: "فلما استثبت وجه رسول الله ﷺ عرفت أن وجهه ليس بوجه كذاب، وكان أول شيء تكلم به ... أفشوا السلام"}
+      - {motif: abu-l-hakam-renamed-abu-shurayh, refs: ["Jāmiʿ 2:146.1"], note: "إن الله هو الحكم، وإليه الحكم، فلم تكنيت بأبي الحكم؟ ... فمن أكبرهم؟ قلت: شريح. قال: فأنت أبو شريح"}
+      - {motif: abd-al-hajar-renamed-abd-allah, refs: ["Jāmiʿ 2:146.1"], note: "وسمع النبي ﷺ قوما يسمون رجلا منهم: عبد الحجر، فقال ... لا، أنت عبد الله"}
+      - {motif: good-speech-and-giving-food-oblige-paradise, refs: ["Jāmiʿ 2:146.1"], note: "أخبرني بأي شيء يوجب لي الجنة؟ قال: عليك بحسن الكلام، وبذل الطعام"}
+  - id: hadith-2-muslim-not-mumin
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Or a Muslim': Sa'd vouches for a man's faith; the gift to the weaker lest God throw him in the fire"
+    read: ["Jāmiʿ 2:146.2"]
+    quran: ["49:14", "3:19"]
+    tags:
+      - {motif: or-a-muslim-not-a-believer, refs: ["Jāmiʿ 2:146.2"], note: "فوالله إني لأراه مؤمنا. فقال: أو مسلما (three times)"}
+      - {motif: gift-to-weaker-lest-he-fall-into-fire, refs: ["Jāmiʿ 2:146.2"], note: "يا سعد، إني لأعطي الرجل وغيره أحب إلي منه، خشية أن يكبه الله في النار"}
+  - id: hadith-2-who-dies-on-unity
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Who dies on God's unity enters paradise: Jesus God's word and spirit; Mu'adh behind the prophet on the donkey; 'do not tell them lest they rely on it'"
+    read: ["Jāmiʿ 2:148.1-150.1"]
+    tags:
+      - {motif: confession-of-unity-opens-eight-gates, refs: ["Jāmiʿ 2:148.1"], note: "وأن عيسى عبد الله ورسوله، وكلمته ألقاها إلى مريم وروح منه، والجنة حق، والنار حق، أدخله الله الجنة على ما كان من العمل (Muslim adds: من أي أبواب الجنة الثمانية شاء)"}
+      - {motif: dying-companion-tells-the-one-withheld-hadith, refs: ["Jāmiʿ 2:148.1", "Jāmiʿ 2:149.2"], note: "إلا حديثا واحدا. وسوف أحدثكموه اليوم، وقد أحيط بنفسي ... فأخبر بها معاذ عند موته تأثما"}
+      - {motif: called-three-times-labbayk-then-taught, refs: ["Jāmiʿ 2:148.2", "Jāmiʿ 2:149.2"], note: "يا معاذ قلت: لبيك رسول الله وسعديك. ثم سار ساعة ثم قال: يا معاذ ... (three times)"}
+      - {motif: right-of-god-on-servants-and-of-servants-on-god, refs: ["Jāmiʿ 2:148.2", "Jāmiʿ 2:149.1"], note: "حق الله على عباده أن يعبدوه ولا يشركوا به شيئا ... حق العباد على الله أن لا يعذبهم"}
+      - {motif: riding-pillion-on-donkey-named-ufayr, refs: ["Jāmiʿ 2:149.1"], note: "كنت ردف النبي ﷺ على حمار يقال له: عفير"}
+      - {motif: do-not-tell-lest-they-rely-on-it, refs: ["Jāmiʿ 2:149.1", "Jāmiʿ 2:149.2"], note: "أفلا أبشر به الناس؟ قال: لا تبشرهم فيتكلوا"}
+      - {motif: dies-on-unity-with-certain-heart-forgiven, refs: ["Jāmiʿ 2:150.1"], note: "ما على الأرض نفس تموت لا تشرك بالله شيئا تشهد أني رسول الله ﷺ يرجع ذاكم إلى قلب موقن إلا غفر لها ... فعنفني القوم"}
+  - id: hadith-2-brought-out-of-the-fire
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The Jahannamiyyun; the four brought out; Itban's mosque and Malik b. al-Dukhshum; the fire does not eat the marks of prostration"
+    read: ["Jāmiʿ 2:150.2-151.1"]
+    tags:
+      - {motif: freed-of-god-written-on-necks-called-jahannamiyyun, refs: ["Jāmiʿ 2:150.2"], note: "يخرج قوم من النار بعد ما مسهم منها سفع فيدخلون الجنة، فيسميهم أهل الجنة الجهنميين"}
+      - {motif: four-brought-out-one-asks-not-to-be-returned, refs: ["Jāmiʿ 2:150.3"], note: "يخرج من النار أربعة ... أي رب إذا أخرجتني منها فلا تعدني فيها"}
+      - {motif: blind-man-asks-prophet-to-pray-in-his-house, refs: ["Jāmiʿ 2:150.4"], note: "بعثت إلى رسول الله ﷺ أني أحب أن تأتيني فتصلي في منزلي فأتخذه مصلى (variant: أنه عمي ... فخط لي مسجدا)"}
+      - {motif: fire-forbidden-to-who-says-it-seeking-gods-face, refs: ["Jāmiʿ 2:150.4"], note: "أسندوا عظم ذلك وكبره إلى مالك بن دخشم ... إنه يقول ذلك وما هو في قلبه! قال: لا يشهد أحد أن لا إله إلا الله وأني رسول الله فيدخل النار أو تطعمه"}
+      - {motif: fire-does-not-eat-marks-of-prostration, refs: ["Jāmiʿ 2:151.1"], note: "فيعرفونهم بعلامة آثار السجود، وحرم الله على النار أن تأكل من ابن آدم أثر السجود ... فيصب عليهم ماء يقال له: ماء الحياة"}
+      - {motif: burnt-thrown-in-river-of-life-sprout-like-seed, refs: ["Jāmiʿ 2:151.1"], note: "فينبتون نبات الحبة في حميل السيل"}
+  - id: hadith-2-glad-tidings-withheld
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Abu Hurayra sent with the prophet's sandals is struck down by Umar; the blessed provisions at the raid; the last man out of the fire"
+    read: ["Jāmiʿ 2:152.1-154.1"]
+    tags:
+      - {motif: squeezes-into-garden-like-a-fox-through-the-stream, refs: ["Jāmiʿ 2:152.1"], note: "فإذا ربيع يدخل في جوف حائط من بئر خارجة (والربيع: الجدول) فاحتفزت كما يحتفز الثعلب"}
+      - {motif: sandals-given-as-token-of-the-message, refs: ["Jāmiʿ 2:152.1"], note: "وأعطاني نعليه قال: اذهب بنعلي هاتين، فمن لقيت من وراء هذا الحائط يشهد أن لا إله إلا الله مستيقنا بها قلبه فبشره بالجنة"}
+      - {motif: umar-turns-back-bearer-of-good-news, refs: ["Jāmiʿ 2:152.1"], note: "فضرب عمر بيده بين ثديي فخررت لإستي فقال: ارجع ... فلا تفعل فإني أخشى أن يتكل الناس عليها، فخلهم يعملون. قال رسول الله ﷺ: فخلهم"}
+      - {motif: leftover-provisions-blessed-fill-every-vessel, refs: ["Jāmiʿ 2:153.1"], note: "فدعا بنطع فبسطه ... فجعل الرجل يجيء بكف ذرة ... ويجيء الآخر بكسرة ... حتى ما تركوا في العسكر وعاء إلا ملأوه ... وذو النواة بنواه ... كانوا يمصونه ويشربون عليه الماء"}
+      - {motif: two-testimonies-without-doubt-not-barred-from-paradise, refs: ["Jāmiʿ 2:153.1"], note: "أشهد أن لا إله إلا الله وأني رسول الله لا يلقى الله بهما عبد غير شاك فيهما إلا دخل الجنة"}
+      - {motif: last-out-crawling-told-ten-worlds-asks-are-you-mocking, refs: ["Jāmiʿ 2:153.2"], note: "رجل يخرج من النار كبوا ... فيخيل إليه أنها ملأى ... فإن لك مثل الدنيا وعشرة أمثالها ... فيقول: أتسخر مني -أو تضحك مني- وأنت الملك! فلقد رأيت رسول الله ﷺ ضحك حتى بدت نواجذه"}
+      - {motif: two-necessities-dying-with-or-without-shirk, refs: ["Jāmiʿ 2:154.1"], note: "من مات يشرك بالله شيئا دخل النار. وقلت أنا: من مات لا يشرك بالله شيئا دخل الجنة (the threat marfu', the promise Ibn Mas'ud's own inference)"}
+  - id: hadith-2-even-if-he-steals-and-fornicates
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Gabriel in the lava field: whoever dies associating nothing enters paradise, even if he steals and fornicates, despite Abu Dharr's nose"
+    read: ["Jāmiʿ 2:154.2-156.2"]
+    tags:
+      - {motif: the-many-are-the-few-but-who-gives-this-way, refs: ["Jāmiʿ 2:154.2", "Jāmiʿ 2:155.1"], note: "إن المكثرين هم المقلون يوم القيامة، إلا من أعطاه الله خيرا، فنفح فيه يمينه وشماله ... ما أحب أن أحدا لي ذهبا يأتي علي ليلة أو ثلاث عندي منه دينار إلا أرصده لدين"}
+      - {motif: told-sit-here-voice-heard-in-the-lava-field, refs: ["Jāmiʿ 2:154.2", "Jāmiʿ 2:155.1"], note: "فأجلسني في قاع حوله حجارة ... فانطلق في الحرة حتى لا أراه ... ثم إني سمعته وهو مقبل وهو يقول: وإن سرق وإن زنى ... ذلك جبريل ﵇ عرض لي في جانب الحرة"}
+      - {motif: even-if-he-steals-and-fornicates, refs: ["Jāmiʿ 2:154.2", "Jāmiʿ 2:155.1", "Jāmiʿ 2:155.2"], note: "بشر أمتك أنه من مات لا يشرك بالله شيئا دخل الجنة. قلت: يا جبريل وإن سرق وإن زنى؟ قال: نعم ... وإن شرب الخمر"}
+      - {motif: dies-knowing-no-god-but-god-enters-paradise, refs: ["Jāmiʿ 2:156.1"], note: "من مات وهو يعلم أنه لا إله إلا الله دخل الجنة"}
+      - {motif: word-of-piety-is-shahada, refs: ["Jāmiʿ 2:156.2"], note: "هي كلمة الإخلاص التي ألزمها الله ﵎ محمدا وأصحابه، وهي كلمة التقوى التي ألاص عليها نبي الله ﷺ عمه أبا طالب عند الموت"}
+  - id: hadith-2-out-by-intercession
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Brought out by intercession like tharir; faces spared; Jabir turns Yazid al-Faqir from the Kharijite view"
+    read: ["Jāmiʿ 2:157.1-158.2"]
+    quran: ["3:192", "32:20"]
+    tags:
+      - {motif: brought-out-by-intercession-like-tharir, refs: ["Jāmiʿ 2:157.1", "Jāmiʿ 2:157.2"], note: "يخرج من النار بالشفاعة كأنهم الثعارير ... إن الله يخرج ناسا من النار فيدخلهم الجنة"}
+      - {motif: burnt-all-but-the-circles-of-their-faces, refs: ["Jāmiʿ 2:157.3"], note: "إن قوما يخرجون من النار يحترقون فيها إلا دارات وجوههم حتى يدخلون الجنة"}
+      - {motif: kharijite-band-turned-back-by-jabirs-hadith, refs: ["Jāmiʿ 2:158.1"], note: "كنت قد شغفني رأي من رأي الخوارج ... فإذا جابر بن عبد الله يحدث القوم ... فهل سمعت بمقام محمد ﵇؟ ... فرجعنا، فلا والله ما خرج منا غير رجل واحد"}
+      - {motif: out-like-sesame-stalks-washed-white-as-paper, refs: ["Jāmiʿ 2:158.1"], note: "فيخرجون كأنهم عيدان السماسم ... فيدخلون نهرا من أنهار الجنة، فيغتسلون فيه، فيخرجون كأنهم القراطيس"}
+      - {motif: two-necessities-dying-with-or-without-shirk, refs: ["Jāmiʿ 2:158.2"], note: "ما الموجبتان؟ قال: من مات لا يشرك بالله شيئا دخل الجنة، ومن مات يشرك بالله شيئا دخل النار"}
+  - id: hadith-2-card-and-scrolls
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Jabir sent to proclaim and pushed back by Umar; the card of the testimony outweighs ninety-nine scrolls"
+    read: ["Jāmiʿ 2:159.1-159.2"]
+    tags:
+      - {motif: umar-turns-back-bearer-of-good-news, refs: ["Jāmiʿ 2:159.1"], note: "ناد في الناس: من قال: لا إله إلا الله دخل الجنة ... فلقيه عمر ... فلهزني لهزة في صدري ... إن الناس قد طمعوا وخشوا، فقال النبي ﷺ: اقعد"}
+      - {motif: card-of-shahada-outweighs-ninety-nine-scrolls, refs: ["Jāmiʿ 2:159.2"], note: "فينشر عليه تسعة وتسعين سجلا كل سجل مثل مد البصر ... فتخرج بطاقة فيها: أشهد أن لا إله إلا الله ... فطاشت السجلات وثقلت البطاقة، فلا يثقل مع اسم الله شيء"}
+  - id: hadith-2-trust-lifted
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Trust came down into the root of men's hearts and is taken in sleep, leaving a blister"
+    read: ["Jāmiʿ 2:160.1"]
+    tags:
+      - {motif: trust-taken-in-sleep-leaving-blister, refs: ["Jāmiʿ 2:160.1"], note: "ينام الرجل النومة فتقبض الأمانة من قلبه فيظل أثرها مثل أثر الوكت ... مثل المجل كجمر دحرجته على رجلك فنفط فتراه منتبرا"}
+      - {motif: trust-descended-into-root-of-hearts, refs: ["Jāmiʿ 2:160.1"], note: "أن الأمانة نزلت في جذر قلوب الرجال، ثم علموا من القرآن، ثم علموا من السنة"}
+      - {motif: once-traded-with-anyone-now-with-few, refs: ["Jāmiʿ 2:160.1"], note: "لئن كان مسلما رده الإسلام وإن كان نصرانيا رده علي ساعيه، فأما اليوم فما كنت أبايع إلا فلانا وفلانا"}
+  - id: hadith-2-only-believers-enter
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The brave fighter of Khaybar kills himself; the cloak stolen from the spoils; only believers enter paradise, proclaimed by Bilal, Umar and Bishr"
+    read: ["Jāmiʿ 2:161.1-162.1"]
+    tags:
+      - {motif: valiant-fighter-of-the-fire-kills-himself, refs: ["Jāmiʿ 2:161.1"], note: "هذا من أهل النار. فلما حضر القتال قاتل الرجل قتالا شديدا ... فلما كان من الليل لم يصبر على الجراح فقتل نفسه ... الله أكبر أشهد أني عبد الله ورسوله"}
+      - {motif: god-supports-religion-by-the-wicked-man, refs: ["Jāmiʿ 2:161.1"], note: "وإن الله ليؤيد هذا الدين بالرجل الفاجر"}
+      - {motif: proclaim-only-believers-enter-paradise, refs: ["Jāmiʿ 2:161.1", "Jāmiʿ 2:161.2", "Jāmiʿ 2:162.1"], note: "ثم أمر بلالا فنادى بالناس: إنه لا يدخل الجنة إلا نفس مسلمة ... يا ابن الخطاب، اذهب فناد في الناس: أنه لا يدخل الجنة إلا المؤمنون"}
+      - {motif: stolen-cloak-burns-in-fire, refs: ["Jāmiʿ 2:161.2"], note: "فلان شهيد ... كلا إني رأيته في النار في بردة غلها أو عباءة"}
+      - {motif: tashriq-days-of-eating-and-drinking, refs: ["Jāmiʿ 2:162.1"], note: "أمره أن ينادي أيام التشريق: أنه لا يدخل الجنة إلا مؤمن، وهي أيام أكل وشرب"}
+  - id: hadith-2-father-of-abraham
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Abraham pleads for Azar on the day of resurrection; paradise forbidden to unbelievers; the father turned into a hyena"
+    read: ["Jāmiʿ 2:162.2-163.1"]
+    tags:
+      - {motif: azar-turned-into-a-hyena, refs: ["Jāmiʿ 2:162.2"], note: "وعلى وجه آزر قترة وغبرة ... فأي خزي أخزى من أبي الأبعد؟ فيقول الله تعالى: إني حرمت الجنة على الكافرين ... فإذا هو بذيخ ملتطخ، فيؤخذ بقوائمه فيلقى في النار"}
+      - {motif: father-says-today-i-will-not-disobey, refs: ["Jāmiʿ 2:162.2"], note: "ألم أقل لك: لا تعصني؟ فيقول أبوه: فاليوم لا أعصيك"}
+      - {motif: son-leads-father-by-hand-father-changed-and-left, refs: ["Jāmiʿ 2:163.1"], note: "ليأخذن رجل بيد أبيه يوم القيامة يريد أن يدخله الجنة ... فيتحول في صورة قبيحة، وريح منتنة، فيتركه. قال أبو سعيد: كان أصحاب محمد ﷺ يرون أنه إبراهيم"}
+    hints:
+      - "On the day of judgement no father can intercede for his son nor son for father (4 Ezra 7:102-105); here Abraham pleads and is answered by the father's change into a filth-smeared hyena (dhikh)."
+  - id: hadith-2-pride-mercy-neighbour
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "An atom of pride; none saved by his deeds; the neighbour not safe from one's harms"
+    read: ["Jāmiʿ 2:163.2-164.1"]
+    tags:
+      - {motif: atom-of-pride-bars-paradise-god-beautiful, refs: ["Jāmiʿ 2:163.2"], note: "لا يدخل الجنة من كان في قلبه مثقال ذرة من كبر ... إن الله جميل يحب الجمال؛ الكبر بطر الحق، وغمط الناس"}
+      - {motif: none-enters-paradise-by-deeds-not-even-prophet, refs: ["Jāmiʿ 2:163.3"], note: "لن ينجي أحدا منكم عمله. قالوا: ولا أنت يا رسول الله؟ قال: ولا أنا إلا أن يتغمدني الله برحمة. سددوا وقاربوا ... القصد القصد تبلغوا"}
+      - {motif: not-enter-whose-neighbour-unsafe-from-harms, refs: ["Jāmiʿ 2:164.1"], note: "لا يدخل الجنة من لا يأمن جاره بوائقه"}
+  - id: hadith-2-sweetness-and-taste-of-faith
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Three things give the sweetness of faith; the taste of faith; the prophet dearer than father and son; you are with whom you love"
+    read: ["Jāmiʿ 2:164.2-165.3"]
+    tags:
+      - {motif: three-give-sweetness-of-faith, refs: ["Jāmiʿ 2:164.2"], note: "ثلاث من كن فيه وجد حلاوة الإيمان: أن يكون الله ورسوله أحب إليه مما سواهما، وأن يحب المرء لا يحبه إلا الله، وأن يكره أن يعود إلى الكفر كما يكره أن يقذف في النار"}
+      - {motif: taste-of-faith-content-with-god-islam-muhammad, refs: ["Jāmiʿ 2:164.3"], note: "ذاق طعم الإيمان من رضي بالله ربا، وبالإسلام دينا، وبمحمد رسولا"}
+      - {motif: love-a-man-only-for-god-gives-taste-of-faith, refs: ["Jāmiʿ 2:164.4"], note: "من أحب أن يجد طعم الإيمان فليحب المرء لا يحبه إلا الله"}
+      - {motif: prophet-dearer-than-father-child-and-all, refs: ["Jāmiʿ 2:165.1", "Jāmiʿ 2:165.2"], note: "لا يؤمن أحدكم حتى أكون أحب إليه من والده وولده والناس أجمعين"}
+      - {motif: you-are-with-whom-you-love, refs: ["Jāmiʿ 2:165.3"], note: "متى الساعة؟ فقال له رسول الله ﷺ: ما أعددت لها قال: حب الله ورسوله. قال: أنت مع من أحببت"}
+  - id: hadith-2-neighbour-guest-and-evil
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Love for your brother what you love for yourself; honour the guest: a day and night, three days' hospitality; change evil by hand, tongue, heart"
+    read: ["Jāmiʿ 2:166.1-167.2"]
+    tags:
+      - {motif: love-for-brother-what-you-love-for-self, refs: ["Jāmiʿ 2:166.1"], note: "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه (variant: لجاره أو لأخيه)"}
+      - {motif: whoever-believes-honours-guest-and-neighbour-speaks-good-or-is-silent, refs: ["Jāmiʿ 2:166.2", "Jāmiʿ 2:166.3"], note: "من كان يؤمن بالله واليوم الآخر فلا يؤذ جاره ... فليكرم ضيفه ... فليقل خيرا أو ليصمت"}
+      - {motif: guests-due-a-day-and-night-hospitality-three-days, refs: ["Jāmiʿ 2:166.3"], note: "فليكرم ضيفه جائزته قال: وما جائزته يا رسول الله؟ قال: يوم وليلة، والضيافة ثلاثة أيام، فما كان وراء ذلك فهو صدقة عليه"}
+      - {motif: change-evil-by-hand-tongue-or-heart, refs: ["Jāmiʿ 2:167.1"], note: "من رأى منكم منكرا فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان (told when Marwan put the feast sermon before the prayer)"}
+      - {motif: prophets-disciples-then-successors-who-say-not-do, refs: ["Jāmiʿ 2:167.2"], note: "إلا كان له من أمته حواريون وأصحاب يأخذون بسنته ... ثم إنها تخلف من بعدهم خلوف، يقولون ما لا يفعلون، ويفعلون ما لا يؤمرون، فمن جاهدهم بيده فهو مؤمن ... وليس وراء ذلك من الإيمان حبة خردل"}
+    hints:
+      - "Love your fellow as yourself (Lev 19:18), with the negative form attributed to Hillel (b. Shabbat 31a), against 'none believes until he loves for his brother what he loves for himself'."
+  - id: hadith-2-ansar-and-modesty
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Love of the Ansar a sign of faith; modesty is of faith; Imran angered by a 'book of wisdom'; love of Ali"
+    read: ["Jāmiʿ 2:168.1-170.1"]
+    tags:
+      - {motif: love-of-ansar-sign-of-faith, refs: ["Jāmiʿ 2:168.1", "Jāmiʿ 2:168.2", "Jāmiʿ 2:168.3", "Jāmiʿ 2:168.4"], note: "آية الإيمان حب الأنصار، وآية النفاق بغض الأنصار ... لا يحبهم إلا مؤمن، ولا يبغضهم إلا منافق"}
+      - {motif: leave-him-modesty-is-of-faith, refs: ["Jāmiʿ 2:168.5"], note: "مر على رجل وهو يعظ أخاه في الحياء، فقال ... دعه فإن الحياء من الإيمان"}
+      - {motif: modesty-brings-only-good, refs: ["Jāmiʿ 2:169.1"], note: "الحياء لا يأتي إلا بخير"}
+      - {motif: shyer-than-virgin-in-seclusion, refs: ["Jāmiʿ 2:169.2"], note: "كان النبي ﷺ أشد حياء من العذراء في خدرها، فإذا رأى شيئا يكرهه عرفناه في وجهه"}
+      - {motif: modesty-in-paradise-obscenity-in-fire, refs: ["Jāmiʿ 2:169.3"], note: "الحياء من الإيمان، والإيمان في الجنة، والبذاء من الجفاء، والجفاء في النار"}
+      - {motif: modesty-and-faith-paired-one-lifted-other-lifted, refs: ["Jāmiʿ 2:169.4"], note: "الحياء والإيمان قرنا جميعا، فإذا رفع أحدهما رفع الآخر"}
+      - {motif: only-believer-loves-ali, refs: ["Jāmiʿ 2:170.1"], note: "والذي فلق الحبة وبرأ النسمة إنه لعهد النبي الأمي ﷺ إلي: أن لا يحبني إلا مؤمن، ولا يبغضني إلا منافق"}
+  - id: hadith-2-loyalty-and-flight
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The clan of Abu so-and-so are not my friends; sheep on the mountain peaks; the census of fifteen hundred"
+    read: ["Jāmiʿ 2:170.2-171.2"]
+    tags:
+      - {motif: clan-of-abu-blank-not-my-friends, refs: ["Jāmiʿ 2:170.2"], note: "إن آل أبي -قال عمرو: في كتاب محمد بن جعفر بياض- ليسوا بأوليائي، إنما وليي الله وصالح المؤمنين"}
+      - {motif: sheep-on-mountain-peaks-flight-from-strife, refs: ["Jāmiʿ 2:170.3", "Jāmiʿ 2:171.1"], note: "يوشك أن يكون خير مال المسلم غنم يتبع بها شعف الجبال، ومواقع القطر، يفر بدينه من الفتن"}
+      - {motif: best-is-fighter-then-recluse-in-a-ravine, refs: ["Jāmiʿ 2:170.4", "Jāmiʿ 2:171.1"], note: "مؤمن يجاهد في سبيل الله بنفسه وماله ... ثم من؟ قال: مؤمن في شعب من الشعاب، يتقي الله، ويدع الناس من شره"}
+      - {motif: rider-flies-to-every-alarm, refs: ["Jāmiʿ 2:171.1"], note: "رجل ممسك عنان فرسه في سبيل الله، يطير على متنه كلما سمع هيعة أو فزعة طار عليه يبتغي القتل والموت مظانه"}
+      - {motif: census-of-those-who-professed-islam, refs: ["Jāmiʿ 2:171.2"], note: "اكتبوا لي من تلفظ بالإسلام من الناس، فكتبنا له ألفا وخمسمائة رجل ... حتى إن الرجل ليصلي وحده وهو خائف (Muslim: ما بين الستمائة إلى السبعمائة)"}
+    hints:
+      - "A count of the professing community ordered by the leader, given as 1,500 or as 600-700: compare the census of Israel (Num 1; 2 Sam 24, where the count itself brings a plague); here the count is followed by trial."
+  - id: hadith-2-brothers-not-yet-come
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "At the graveyard: 'God willing we will join you'; brothers yet to come known by the white blaze of ablution; men driven from the basin"
+    read: ["Jāmiʿ 2:172.1"]
+    quran: ["48:27"]
+    tags:
+      - {motif: greeting-the-dead-god-willing-we-will-join-you, refs: ["Jāmiʿ 2:172.1"], note: "أتى المقبرة فقال: السلام عليكم دار قوم مؤمنين، وإنا إن شاء الله بكم لاحقون"}
+      - {motif: brothers-yet-to-come-known-by-white-blaze-of-ablution, refs: ["Jāmiʿ 2:172.1"], note: "أنتم أصحابي، وإخواننا الذين لم يأتوا بعد ... لو أن رجلا له خيل غر محجلة بين ظهري خيل دهم بهم، ألا يعرف خيله؟ ... فإنهم يأتون غرا محجلين من الوضوء"}
+      - {motif: men-driven-from-the-basin-like-stray-camels, refs: ["Jāmiʿ 2:172.1"], note: "وأنا فرطهم على الحوض. ألا ليذادن رجال عن حوضي كما يذاد البعير الضال ... فيقال: إنهم قد بدلوا بعدك. فأقول: سحقا سحقا"}
+  - id: hadith-2-purity-steadfastness-ranks
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Purity is half of faith; 'say I believe in God, then be upright'; shirts of faith of different lengths; Ammar filled with faith"
+    read: ["Jāmiʿ 2:173.1-173.4"]
+    tags:
+      - {motif: purity-half-of-faith-praise-fills-the-scale, refs: ["Jāmiʿ 2:173.1"], note: "الطهور شطر الإيمان، والحمد لله تملأ الميزان ... والصلاة نور، والصدقة برهان، والصبر ضياء، والقرآن حجة لك أو عليك، كل الناس يغدو فبائع نفسه فمعتقها أو موبقها"}
+      - {motif: say-i-believe-then-be-upright, refs: ["Jāmiʿ 2:173.2"], note: "قل لي في الإسلام قولا لا أسأل عنه أحدا بعدك. قال: قل: آمنت بالله، فاستقم"}
+      - {motif: dream-shirts-of-faith-umar-trails-his, refs: ["Jāmiʿ 2:173.3"], note: "رأيت الناس يعرضون علي، وعليهم قميص منها ما يبلغ الثدي ومنها ما دون ذلك، وعرض علي عمر ... وعليه قميص يجره ... فما أولت ذلك؟ قال: الدين"}
+      - {motif: ammar-filled-with-faith-to-bone-ends, refs: ["Jāmiʿ 2:173.4"], note: "مرحبا بالطيب المطيب. سمعت رسول الله ﷺ يقول: ملئ عمار إيمانا إلى مشاشه"}
+  - id: hadith-2-yemen-and-hijaz
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Faith is Yemeni; hardness among the camel-drovers where the devil's horns rise; faith in the Hijaz"
+    read: ["Jāmiʿ 2:174.1-176.1"]
+    tags:
+      - {motif: faith-is-yemeni-wisdom-is-yemeni, refs: ["Jāmiʿ 2:174.1", "Jāmiʿ 2:174.2", "Jāmiʿ 2:175.1"], note: "الإيمان يمان ... والحكمة يمانية ... أتاكم أهل اليمن هم أرق أفئدة، وألين قلوبا"}
+      - {motif: hardness-among-camel-drovers-where-devils-horns-rise, refs: ["Jāmiʿ 2:174.1"], note: "ألا إن القسوة وغلظ القلوب في الفدادين عند أصول أذناب الإبل حيث يطلع قرنا الشيطان في ربيعة ومضر"}
+      - {motif: pride-with-camel-owners-calm-with-sheep-owners, refs: ["Jāmiʿ 2:174.2", "Jāmiʿ 2:175.1"], note: "الفخر والخيلاء في الفدادين أهل الوبر، والسكينة في أهل الغنم ... والسكينة والوقار في أهل الغنم"}
+      - {motif: faith-in-hijaz-harshness-in-the-east, refs: ["Jāmiʿ 2:176.1"], note: "غلظ القلوب والجفاء في الشرق، والإيمان في أهل الحجاز"}
+  - id: hadith-2-good-islam
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "When one's islam is good each good deed is tenfold to seven hundred; leaving what does not concern him; past good deeds credited"
+    read: ["Jāmiʿ 2:176.2-177.1"]
+    tags:
+      - {motif: good-deed-tenfold-to-seven-hundred-bad-as-one, refs: ["Jāmiʿ 2:176.2", "Jāmiʿ 2:177.1"], note: "فكل حسنة يعملها تكتب له بعشر أمثالها إلى سبعمائة ضعف، وكل سيئة يعملها تكتب له بمثلها"}
+      - {motif: leaving-what-does-not-concern-him, refs: ["Jāmiʿ 2:176.3"], note: "إن من حسن إسلام المرء تركه ما لا يعنيه"}
+      - {motif: convert-credited-with-good-done-before-islam, refs: ["Jāmiʿ 2:177.1"], note: "إذا أسلم العبد فحسن إسلامه، كتب الله له كل حسنة كان أزلفها، ومحيت عنه كل سيئة كان أزلفها، ثم كان بعد ذلك القصاص"}
+  - id: hadith-2-religion-is-sincere-counsel
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Pledged to prayer, alms and sincere counsel to every Muslim; religion is sincere counsel"
+    read: ["Jāmiʿ 2:178.1-178.2"]
+    tags:
+      - {motif: pledge-of-sincere-counsel-to-every-muslim, refs: ["Jāmiʿ 2:178.1"], note: "بايعت رسول الله ﷺ على إقام الصلاة، وإيتاء الزكاة، والنصح لكل مسلم (variant: على السمع والطاعة -فلقنني: فيما استطعت-)"}
+      - {motif: religion-is-sincere-counsel, refs: ["Jāmiʿ 2:178.2"], note: "الدين النصيحة قلنا: لمن؟ قال: لله، ولكتابه، ولرسوله، ولأئمة المسلمين وعامتهم"}
+  - id: hadith-2-abu-talib-at-death
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Abu Talib at death refuses the testimony; the verses on forgiveness for polytheists and 'you do not guide whom you love'"
+    read: ["Jāmiʿ 2:178.3-179.1"]
+    quran: ["9:113", "28:56"]
+    tags:
+      - {motif: dying-uncle-chooses-religion-of-his-father, refs: ["Jāmiʿ 2:178.3"], note: "أي عم، قل: لا إله إلا الله أحاج لك بها عند الله فقال أبو جهل، وعبد الله بن أبي أمية: يا أبا طالب، أترغب عن ملة عبد المطلب؟"}
+      - {motif: i-will-seek-forgiveness-until-forbidden, refs: ["Jāmiʿ 2:178.3"], note: "لأستغفرن لك ما لم أنه عنك فنزلت: ﴿ما كان للنبي والذين آمنوا أن يستغفروا للمشركين﴾"}
+      - {motif: uncle-fears-quraysh-would-say-it-was-fear-of-death, refs: ["Jāmiʿ 2:179.1"], note: "قل: لا إله إلا الله، أشهد لك بها يوم القيامة فأبى (variant: لولا أن تعيرني قريش يقولون: إنما حمله على ذلك الجزع، لأقررت بها عينك)"}
+  - id: hadith-2-heraclius-faith-mingles
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Heraclius: faith, once its delight mingles with hearts, is resented by none"
+    read: ["Jāmiʿ 2:179.2"]
+    tags:
+      - {motif: faith-once-mingled-with-hearts-none-resent-it, refs: ["Jāmiʿ 2:179.2"], note: "هل يزيدون أم ينقصون؟ فزعمت أنهم يزيدون، وكذلك الإيمان حتى يتم ... هل يرتد أحد سخطة لدينه ... وكذلك الإيمان حين تخالط بشاشته القلوب لا يسخطه أحد"}
+  - id: hadith-2-religion-is-ease
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Religion is ease: none overdoes it but it defeats him"
+    read: ["Jāmiʿ 2:179.3"]
+    tags:
+      - {motif: religion-is-ease-none-overdoes-it-but-is-beaten, refs: ["Jāmiʿ 2:179.3"], note: "إن الدين يسر، ولن يشاد الدين أحد إلا غلبه، فسددوا، وقاربوا، وأبشروا، واستعينوا بالغدوة والروحة وشيء من الدلجة"}
+  - id: hadith-2-burden-only-what-is-borne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "On Q 2:284 the companions kneel: say 'we hear and obey', not as the people of the two books said; God answers each petition 'yes' / 'I have done it'"
+    read: ["Jāmiʿ 2:180.1-181.1"]
+    quran: ["2:284", "2:285", "2:286"]
+    tags:
+      - {motif: say-we-hear-and-obey-not-we-hear-and-disobey, refs: ["Jāmiʿ 2:180.1", "Jāmiʿ 2:181.1"], note: "أتريدون أن تقولوا كما قال أهل الكتابين من قبلكم: سمعنا وعصينا؟ بل قولوا: سمعنا وأطعنا غفرانك ربنا وإليك المصير ... فلما اقترأها القوم ذلت بها ألسنتهم"}
+      - {motif: companions-kneel-at-the-unbearable-verse, refs: ["Jāmiʿ 2:180.1"], note: "فاشتد ذلك على أصحاب رسول الله ﷺ ... ثم بركوا على الركب، فقالوا: ... وقد أنزلت عليك هذه الآية ولا نطيقها"}
+      - {motif: god-answers-each-petition-yes-i-have-done-it, refs: ["Jāmiʿ 2:180.1", "Jāmiʿ 2:181.1"], note: "﴿ربنا لا تؤاخذنا إن نسينا أو أخطأنا﴾ قال: نعم ... (Ibn Abbas: قال: قد فعلت)"}
+      - {motif: verse-abrogated-by-the-next, refs: ["Jāmiʿ 2:180.1"], note: "فلما فعلوا ذلك نسخها الله تعالى، فأنزل الله ﷿: ﴿لا يكلف الله نفسا إلا وسعها﴾"}
+    hints:
+      - "'We hear and obey' set against the people of the two books' 'we hear and disobey': compare Deut 5:27 (ve-shama'nu ve-'asinu, 'we will hear and do') and Exod 24:7 ('we will do and hear')."
+  - id: hadith-2-hope-and-fear
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Good opinion of God: 'this was not my hope'; I am as my servant thinks of me; two fears and two securities are not joined"
+    read: ["Jāmiʿ 2:181.2-182.2"]
+    tags:
+      - {motif: four-brought-out-one-asks-not-to-be-returned, refs: ["Jāmiʿ 2:181.2", "Jāmiʿ 2:181.3"], note: "يخرج من النار أربعة ... إذ أخرجتني منها لا تعدني فيها"}
+      - {motif: brought-out-then-ordered-back-this-was-not-my-hope, refs: ["Jāmiʿ 2:181.3"], note: "يخرج رجلان من النار، فيعرضان على الله، ثم يؤمر بهما إلى النار، فيلتفت أحدهما فيقول: يا رب، ما كان هذا رجائي! ... فيرحمه الله فيدخله الجنة"}
+      - {motif: i-am-as-my-servant-thinks-good-or-bad, refs: ["Jāmiʿ 2:182.1"], note: "أنا عند ظن عبدي بي، إن ظن خيرا فله، وإن ظن شرا فله"}
+      - {motif: two-fears-and-two-securities-not-joined, refs: ["Jāmiʿ 2:182.2"], note: "وعزتي لا أجمع على عبدي خوفين وأمنين، إذا خافني في الدنيا أمنته يوم القيامة، وإذا أمنني في الدنيا أخفته يوم القيامة"}
+  - id: hadith-2-uthman-bin-mazun
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Umm al-Ala vouches that God honoured Uthman b. Maz'un: 'I do not know, though God's messenger, what will be done with me'"
+    read: ["Jāmiʿ 2:182.3"]
+    tags:
+      - {motif: emigrants-allotted-to-hosts-by-lot, refs: ["Jāmiʿ 2:182.3"], note: "أنه اقتسم المهاجرون قرعة، فطار لنا عثمان بن مظعون، فأنزلناه في أبياتنا"}
+      - {motif: what-makes-you-know-god-honoured-him, refs: ["Jāmiʿ 2:182.3"], note: "رحمة الله عليك أبا السائب، فشهادتي عليك، لقد أكرمك الله. فقال: وما يدريك أن الله أكرمه؟ ... والله ما أدري وأنا رسول الله ما يفعل بي. قالت: فوالله لا أزكي أحدا بعده أبدا"}
+  - id: hadith-2-burned-and-scattered
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A man orders his body burned, ground and scattered in wind and sea for fear of God, and is forgiven"
+    read: ["Jāmiʿ 2:183.1-184.1"]
+    tags:
+      - {motif: sinner-orders-body-burned-ground-scattered-forgiven-for-fear, refs: ["Jāmiʿ 2:183.1", "Jāmiʿ 2:183.2", "Jāmiʿ 2:184.1"], note: "إذا مت فأحرقوني، ثم اسحقوني، ثم ذروني في يوم عاصف ... فجمعه الله ﷿ فقال: ما حملك؟ قال: مخافتك، فتلقاه برحمته"}
+      - {motif: half-scattered-on-land-half-in-sea-each-gives-back, refs: ["Jāmiʿ 2:183.2", "Jāmiʿ 2:184.1"], note: "ثم اذروا نصفه في البر، ونصفه في البحر، فوالله لئن قدر الله عليه ليعذبنه ... فأمر الله البر فجمع ما فيه، وأمر البحر فجمع ما فيه ... فذروني في اليم"}
+    hints:
+      - "Ashes scattered on land and sea so that the body cannot be raised, and land and sea ordered to give it back: compare 1 Enoch 61:5 and Rev 20:13 ('the sea gave up the dead in it'), and the rabbinic tradition that the earth and the sea restore what was deposited in them (Pirqe de-Rabbi Eliezer 34)."
+  - id: hadith-2-no-compulsion
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Ansari sons vowed to Judaism, 'no compulsion in religion'; 'submit, even if unwilling'"
+    read: ["Jāmiʿ 2:184.2-185.1"]
+    quran: ["2:256"]
+    tags:
+      - {motif: ansar-vowed-surviving-sons-to-judaism, refs: ["Jāmiʿ 2:184.2"], note: "كانت المرأة من الأنصار لا يكاد يعيش لها ولد، فتحلف: لئن عاش لها ولد لتهودنه. فلما أجليت بنو النضير إذا فيهم ناس من أبناء الأنصار"}
+      - {motif: submit-even-if-unwilling, refs: ["Jāmiʿ 2:185.1"], note: "قال لرجل: أسلم. قال: إني أجدني كارها! قال: وإن كنت كارها"}
+  - id: hadith-2-fighting-among-believers
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Killer and killed both in the fire; reviling a Muslim is sin, fighting him unbelief; do not turn unbelievers striking each other's necks"
+    read: ["Jāmiʿ 2:185.2-186.3"]
+    quran: ["49:9"]
+    tags:
+      - {motif: killer-and-killed-both-in-fire, refs: ["Jāmiʿ 2:185.2"], note: "إذا التقى المسلمان بسيفيهما فالقاتل والمقتول في النار ... إنه كان حريصا على قتل صاحبه (Abu Bakra turns back al-Ahnaf going to help Ali)"}
+      - {motif: reviling-a-muslim-is-sin-fighting-him-unbelief, refs: ["Jāmiʿ 2:186.1"], note: "سباب المسلم فسوق، وقتاله كفر"}
+      - {motif: do-not-revert-to-unbelief-striking-necks, refs: ["Jāmiʿ 2:186.2", "Jāmiʿ 2:186.3"], note: "استنصت الناس ... لا ترجعوا بعدي كفارا يضرب بعضكم رقاب بعض (Ibn Umar: ويلكم أو ويحكم)"}
+  - id: hadith-2-rain-by-a-star
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "After rain at Hudaybiya some woke believers, some unbelievers saying 'rained on by such a star'; Q 56:75-82"
+    read: ["Jāmiʿ 2:186.4-187.2"]
+    quran: ["56:75-82"]
+    tags:
+      - {motif: rain-by-mercy-or-by-star, refs: ["Jāmiʿ 2:186.4", "Jāmiʿ 2:187.1", "Jāmiʿ 2:187.2"], note: "أصبح من عبادي مؤمن بي وكافر بي. فأما من قال: مطرنا بفضل الله ورحمته، فذلك مؤمن بي، كافر بالكوكب. وأما من قال: مطرنا بنوء كذا وكذا، فذلك كافر بي، مؤمن بالكوكب"}
+    hints:
+      - "Rain credited to a star's setting (naw') rather than to God: compare Jer 10:2 ('do not be dismayed at the signs of the heavens') and the rabbinic 'Israel is not under the stars' (b. Shabbat 156a)."
+  - id: hadith-2-jahiliyya-practices
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Two things that are unbelief in people: attacking lineage and wailing; three jahiliyya practices that will not be left"
+    read: ["Jāmiʿ 2:187.3-188.1"]
+    tags:
+      - {motif: attacking-lineage-and-wailing-are-unbelief, refs: ["Jāmiʿ 2:187.3"], note: "اثنتان في الناس هما بهم كفر: الطعن في النسب، والنياحة على الميت"}
+      - {motif: three-jahiliyya-practices-never-left, refs: ["Jāmiʿ 2:188.1"], note: "ثلاث من عمل أهل الجاهلية لا يتركهن أهل الإسلام: النياحة، والاستسقاء بالأنواء، وكذا ... دعوى الجاهلية: يا آل فلان، يا آل فلان (Ibn Hibban: التعاير)"}
+  - id: hadith-2-islam-demolishes-the-past
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Islam demolishes what was before it: the killers and fornicators who asked expiation; Amr b. al-As on his deathbed"
+    read: ["Jāmiʿ 2:188.2-189.1"]
+    quran: ["25:68", "39:53"]
+    tags:
+      - {motif: converts-ask-expiation-for-past-killing-and-zina, refs: ["Jāmiʿ 2:188.2"], note: "قد قتلوا وأكثروا، وزنوا وأكثروا ... لو تخبرنا أن لما عملنا كفارة، فنزلت: ﴿والذين لا يدعون مع الله إلها آخر﴾ ... ونزل: ﴿قل يا عبادي الذين أسرفوا﴾"}
+      - {motif: good-in-islam-not-held-for-jahiliyya-deeds, refs: ["Jāmiʿ 2:188.3"], note: "من أحسن في الإسلام لم يؤاخذ بما عمل في الجاهلية، ومن أساء في الإسلام أخذ بالأول والآخر"}
+      - {motif: dying-man-recounts-three-stages-of-life, refs: ["Jāmiʿ 2:189.1"], note: "إني قد كنت على أطباق ثلاث: لقد رأيتني وما أحد أشد بغضا لرسول الله ﷺ مني ... ثم ولينا أشياء ما أدري ما حالي فيها"}
+      - {motif: withdraws-hand-to-set-a-condition-at-pledge, refs: ["Jāmiʿ 2:189.1"], note: "ابسط يمينك فلأبايعك. فبسط يمينه. قال: فقبضت يدي ... أردت أن أشترط ... أن يغفر لي"}
+      - {motif: islam-hijra-hajj-demolish-what-came-before, refs: ["Jāmiʿ 2:189.1"], note: "أما علمت أن الإسلام يهدم ما كان قبله، وأن الهجرة تهدم ما كان قبلها، وأن الحج يهدم ما كان قبله؟"}
+      - {motif: could-not-fill-his-eyes-with-the-prophet, refs: ["Jāmiʿ 2:189.1"], note: "وما كنت أطيق أن أملأ عيني منه إجلالا له، ولو سئلت أن أصفه ما أطقت"}
+      - {motif: stay-at-grave-while-a-camel-is-slaughtered, refs: ["Jāmiʿ 2:189.1"], note: "فلا تصحبني نائحة ولا نار، فإذا دفنتموني فشنوا علي التراب شنا، ثم أقيموا حول قبري قدر ما تنحر جزور ويقسم لحمها حتى أستأنس بكم، وأنظر ماذا أراجع به رسل ربي"}
+  - id: hadith-2-good-done-before-islam
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Hakim b. Hizam's good deeds of the jahiliyya; Ibn Jud'an never asked forgiveness; Hatim sought renown and got it"
+    read: ["Jāmiʿ 2:189.2-191.2"]
+    tags:
+      - {motif: you-became-muslim-with-the-good-you-did, refs: ["Jāmiʿ 2:189.2"], note: "أرأيت أشياء، كنت أتحنث بها في الجاهلية من صدقة أو عتاقة، وصلة رحم، فهل فيها من أجر؟ فقال: أسلمت على ما سلف من خير"}
+      - {motif: hundred-slaves-freed-hundred-camels-given-before-and-after, refs: ["Jāmiʿ 2:189.2"], note: "أعتق في الجاهلية مائة رقبة، وحمل على مائة بعير ثم أعتق في الإسلام مائة رقبة، وحمل على مائة بعير"}
+      - {motif: convert-credited-with-good-done-before-islam, refs: ["Jāmiʿ 2:190.1"], note: "إذا أسلم العبد فحسن إسلامه، كتب الله له كل حسنة كان أزلفها"}
+      - {motif: ibn-judan-never-asked-forgiveness-for-the-day-of-judgement, refs: ["Jāmiʿ 2:191.1"], note: "ابن جدعان كان في الجاهلية يصل الرحم ويطعم المسكين فهل ذاك نافعه؟ قال: لا ينفعه، إنه لم يقل يوما: رب اغفر لي خطيئتي يوم الدين"}
+      - {motif: father-sought-renown-and-attained-it, refs: ["Jāmiʿ 2:191.2"], note: "إن أبي كان يصل الرحم ويفعل كذا وكذا، قال: إن أباك أراد أمرا فأدركه يعني الذكر"}
+  - id: hadith-2-islam-began-strange
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Islam began strange and will return strange; it shrinks back between the two mosques as a snake to its hole; who the strangers are"
+    read: ["Jāmiʿ 2:191.3-193.1"]
+    tags:
+      - {motif: islam-began-strange-will-return-strange, refs: ["Jāmiʿ 2:191.3", "Jāmiʿ 2:192.1", "Jāmiʿ 2:192.2", "Jāmiʿ 2:192.3", "Jāmiʿ 2:193.1"], note: "بدأ الإسلام غريبا وسيعود كما بدأ غريبا، فطوبى للغرباء"}
+      - {motif: faith-shrinks-between-two-mosques-like-snake-to-hole, refs: ["Jāmiʿ 2:192.1", "Jāmiʿ 2:192.2"], note: "وهو يأرز بين المسجدين كما تأرز الحية في جحرها"}
+      - {motif: strangers-are-those-righteous-when-people-corrupt, refs: ["Jāmiʿ 2:192.2", "Jāmiʿ 2:192.3"], note: "قيل: من هم يا رسول الله؟ قال: الذين يصلحون إذا فسد الناس"}
+      - {motif: few-righteous-among-many-wicked, refs: ["Jāmiʿ 2:193.1"], note: "أناس صالحون في أناس سوء كثير، من يعصيهم أكثر ممن يطيعهم. ثم ذكر فقراء المهاجرين الذين تتقى بهم المكاره"}
