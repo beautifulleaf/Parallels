@@ -2,7 +2,7 @@
 
 Usage:
   python3 tools/hadith.py plan                 # the reading chunks: pages and books
-  python3 tools/hadith.py show <chunk>         # the hadith a reader saved for a chunk (matn, grade, takhrij)
+  python3 tools/hadith.py show <chunk>         # the hadith a reader saved for a chunk, one line each (⏎ marks a line break)
   python3 tools/hadith.py check <chunk>        # check a chunk's raw file: every page read, every line well formed
 
 The text reaches the project only through the Shamela MCP tools: the library is the user's own, and
@@ -206,7 +206,7 @@ def main():
             print(f"## {SIGLUM} {s['name']}: {s.get('title', '')}")
             for line in s["lines"]:
                 print(f"{SIGLUM} {s['name']}:{line['n']}  [{line.get('printed_page', '')}] {line.get('companion', '')} | "
-                      f"{line.get('grade', '')} | {line.get('matn', '')}")
+                      f"{line.get('grade', '')} | " + " ⏎ ".join(x.strip() for x in line.get('matn', '').splitlines() if x.strip()))
         return
     sys.exit(__doc__)
 
