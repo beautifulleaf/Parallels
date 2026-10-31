@@ -1,0 +1,1603 @@
+# ANE x Quran side-by-side pass, chunk 12 (Maqlu IV-VIII and Ritual Tablet, Marduk's Address to the Demons, Syncretistic Hymn to Marduk, Great Prayer to Nabu, Cuthaean Legend of Naram-Sin, Nergal and Ereshkigal, Ninurta hymns, Ox and Horse, Palm and Vine). Judged blind, from the originals.
+new_motifs:
+  sorcery-that-sows-hatred:
+    label: A named kind of sorcery whose effect is hatred or estrangement between people (hate-magic; what separates a man from his wife)
+    cluster: magic
+  covered-over-by-mountain-or-earth:
+    label: 'Being covered over by a mountain or by the earth: cursed on others or wished for oneself [shared matter]'
+    cluster: eschatology
+  ploughing-as-insemination:
+    label: Ploughing and sowing a field stand for insemination (the plough impregnates the earth; women are a tilth)
+    cluster: nature
+  earth-bidden-to-take-in:
+    label: The earth is addressed in the vocative and bidden to open, receive or swallow something [shared matter]
+    cluster: nature
+  oath-by-the-life-of:
+    label: An oath 'by the life of' someone (nīš X / la-ʿamru-ka) [shared matter]
+    cluster: deity
+  flash-of-a-falling-star:
+    label: The flash of a star falling from heaven and its relation to demons [shared matter]
+    cluster: cosmos
+  reviver-of-the-dead-epithet:
+    label: The deity bears the epithet 'reviver of the dead' (muballiṭ mīti / muḥyī l-mawtā)
+    cluster: deity
+  number-of-the-underworld-s-wardens:
+    label: How many wardens or demons are set over the underworld or hell [shared matter]
+    cluster: eschatology
+  messenger-climbs-the-stairway-of-heaven:
+    label: Messengers go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij)
+    cluster: cosmos
+  god-raises-a-mighty-foe-against-his-own-land:
+    label: The god himself rouses a mighty foreign enemy against his own land or people
+    cluster: kingship
+  who-killed-the-enemy:
+    label: Whether the human side or the deity is credited with killing the enemy [shared matter]
+    cluster: kingship
+  destroying-horde-kept-for-a-later-day:
+    label: A destroying people is not wiped out now but kept for a later divine appointment [shared matter]
+    cluster: eschatology
+  kin-against-kin-in-the-coming-calamity:
+    label: Under the coming calamity the bonds of father, son, brother and friend give way [shared matter]
+    cluster: eschatology
+  thunder-and-the-god:
+    label: 'How thunder in the clouds relates to the god: his own roar or a creature praising him [shared matter]'
+    cluster: nature
+  god-holds-heaven:
+    label: 'The god (alone) holds the heavens (and earth) in place: the bond or rope of heaven, holding back the sky'
+    cluster: cosmos
+  none-forgives-sin-but-the-god:
+    label: Only this god can absolve or forgive sin
+    cluster: deity
+  heavenly-beings-plead-for-the-human:
+    label: The heavenly host speak for a human before the high god and ask his forgiveness
+    cluster: deity
+  beasts-for-riding-and-beasts-for-burden:
+    label: The horse is for riding and display and is not eaten; cattle carry loads (and are eaten)
+    cluster: nature
+  palm-and-vine-yield-drink:
+    label: Date palm and vine paired as sources of fruit and intoxicating drink
+    cluster: nature
+  drink-that-heals:
+    label: 'A drink said to contain healing for the sick: wine or honey [shared matter]'
+    cluster: nature
+reviewed:
+- unit: ane-maqlu-sb-iv-six-bindings-seven-undoings
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-37-ranks-and-guarded-heaven
+  - quran-83-defrauders
+  - quran-52-tur-garden-and-challenge
+  matches:
+  - with: quran-112-114-unity-and-refuge
+    motif: women-who-bind-knots-in-sorcery
+    refs:
+    - Maqlu SB IV:116-117
+    with_refs:
+    - '113:4'
+    relation: parallel
+    record:
+      agent:
+      - women (Gutean, Elamite, Hanigalbatean and native)
+      - women (feminine plural)
+      action:
+      - work sorcery with knots
+      - work sorcery with knots
+      object:
+      - knots
+      - knots
+      quoted:
+      - mārāt māti irakkasāni riksī
+      - al-naffāthāti fī l-ʿuqad
+    note: IV:116-117 gutêti elamâtu habigalbatâtu / mārāt māti irakkasāni riksī, 'the Gutean, Elamite, Hanigalbatean women, the daughters of the land are tying knots (riksī) against me'; Q 113:4 wa-min sharri n-naffāthāti fī l-ʿuqad, 'from the evil of the women who blow on knots'. Both name the knot-sorcerers as a feminine plural. The Akkadian verb is tying (rakāsu), the Arabic blowing (nafatha); Maqlû elsewhere pairs the knot with spittle (ruhû), e.g. VIII:25-27.
+- unit: ane-maqlu-sb-iv-i-am-a-releaser
+  checked:
+  - quran-37-hell-and-garden
+  - quran-7-moses-pharaoh
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-maqlu-sb-v-brick-pile-thyme
+  checked:
+  - quran-37-hell-and-garden
+  - quran-17-polemic-and-resurrection
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-maqlu-sb-v-who-twined-chaff
+  checked:
+  - quran-2-harut-marut
+  - quran-37-hell-and-garden
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-maqlu-sb-v-strong-one-plant-curses
+  checked:
+  - quran-37-hell-and-garden
+  - quran-17-polemic-and-resurrection
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-maqlu-sb-v-cord-of-the-qadistu
+  checked:
+  - quran-25-hell-and-the-day-of-angels
+  - quran-105-elephant
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-37-hell-and-garden
+  matches:
+  - with: quran-25-hell-and-the-day-of-angels
+    motif: deeds-blown-away-as-wind
+    refs:
+    - Maqlu SB V:52-53
+    with_refs:
+    - '25:23'
+    relation: echo
+    record:
+      object:
+      - her witchcraft and words
+      - what they did of deeds
+      action:
+      - are blown away like chaff
+      - made scattered dust
+      instrument:
+      - storm and wind
+      - null
+      quoted:
+      - terrā kišpūša ana mehê amâtīša ana šāri / linnašpū kišpūša kīma pê
+      - fa-jaʿalnāhu habāʾan manthūran
+    note: V:52-53 terrā kišpūša ana mehê amâtīša ana šāri / linnašpū kišpūša kīma pê, 'turn her witchcraft into a storm, her words into wind; may her witchcraft be blown away like chaff'; Q 25:23 wa-qadimnā ilā mā ʿamilū min ʿamalin fa-jaʿalnāhu habāʾan manthūran, 'we turn to the deeds they did and make them scattered dust'. The evildoer's works reduced to windblown fluff; Q 25:23 is at the judgment, Maqlû a present curse.
+- unit: ane-maqlu-sb-v-hate-magic-returned
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-37-ranks-and-guarded-heaven
+  - quran-4-satan-vows-share
+  - quran-2-harut-marut
+  - quran-35-heirs-of-book
+  matches:
+  - with: quran-2-harut-marut
+    motif: sorcery-that-sows-hatred
+    refs:
+    - Maqlu SB V:57
+    with_refs:
+    - 2:102
+    relation: echo
+    record:
+      action:
+      - performs hate-magic
+      - learn sorcery that separates
+      object:
+      - the victim
+      - a man and his wife
+      quoted:
+      - zīru ša tēpušāni
+      - mā yufarriqūna bihi bayna l-marʾi wa-zawjihi
+    note: V:57 zīru ša tēpušāni tušēpišāni ana muhhīkunu ēpuša, 'the hate(-magic) you performed against me I perform against you' (paired with love-magic, râmu, in VII:75); Q 2:102 fa-yataʿallamūna minhumā mā yufarriqūna bihi bayna l-marʾi wa-zawjihi, 'they learn from the two what separates a man from his wife'. A named kind of sorcery whose effect is estrangement. Maqlû does not say between spouses; the Quran does not name it hate.
+  - with: quran-35-heirs-of-book
+    motif: plot-returns-on-plotters-head
+    refs:
+    - Maqlu SB V:68
+    - Maqlu SB V:75
+    with_refs:
+    - '35:43'
+    relation: echo
+    record:
+      object:
+      - deeds of sorcery
+      - evil plotting
+      action:
+      - turn back on the doers
+      - encompasses only its authors
+      quoted:
+      - epšētēkunu turrānikkunūši
+      - wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi
+    note: V:75 epšētēkunu turrānikkunūši, 'your deeds are turned back to you', after V:68 ina nīši u māmīti tuqattâʾinni ... pagarkunu liqti; Q 35:43 wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi, 'the evil plot encompasses none but its own people'. Maqlû makes it happen by spell; the Quran states it as God's sunna.
+- unit: ane-maqlu-sb-v-south-wind-north-wind
+  checked:
+  - quran-25-signs-shadow-seas
+  - quran-77-sent-forth
+  - quran-81-folding-up
+  matches: []
+- unit: ane-maqlu-sb-v-splendid-my-appearance
+  checked:
+  - quran-3-misers-mockers
+  - quran-3-badr-uhud
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-maqlu-sb-v-sinews-unbound-spring-water
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-37-ranks-and-guarded-heaven
+  matches: []
+- unit: ane-maqlu-sb-v-you-water
+  checked:
+  - quran-47-muhammad-battle-and-rivers
+  - quran-7-moses-pharaoh
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-maqlu-sb-v-you-shall-not-cross
+  checked:
+  - quran-37-hell-and-garden
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-84-splitting
+  matches: []
+- unit: ane-maqlu-sb-v-my-mouth-is-water
+  checked:
+  - quran-56-waqia-left-hand-and-proofs
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-84-splitting
+  matches: []
+- unit: ane-maqlu-sb-v-trample-melt-dissolve
+  checked:
+  - quran-71-noah
+  - quran-79-pharaoh-and-cosmos
+  - quran-59-hashr-hypocrites-and-the-names
+  matches: []
+- unit: ane-maqlu-sb-v-may-the-mountain-cover-you
+  checked:
+  - quran-4-kindness-misers-atom
+  - quran-84-splitting
+  - quran-81-folding-up
+  - quran-21-heedless-and-doomed-towns
+  matches:
+  - with: quran-4-kindness-misers-atom
+    motif: covered-over-by-mountain-or-earth
+    refs:
+    - Maqlu SB V:149
+    - Maqlu SB V:155-156
+    with_refs:
+    - '4:42'
+    relation: divergence
+    record:
+      agent:
+      - the speaker (curse)
+      - the disbelievers (wish)
+      action:
+      - may the mountain cover them
+      - wish the earth were levelled over them
+      object:
+      - the witches
+      - themselves
+      instrument:
+      - mountain
+      - earth
+      quoted:
+      - šadû liktumkunūši ... šadû dannu elīkunu limqut
+      - yawaddu lladhīna kafarū ... law tusawwā bihimu l-arḍu
+    note: 'V:149 šadû liktumkunūši, ''may the mountain cover you'', V:155-156 šadû likattinkunūši / šadû dannu elīkunu limqut, ''may a strong mountain fall upon you''; Q 4:42 yawmaʾidhin yawaddu lladhīna kafarū ... law tusawwā bihimu l-arḍu, ''on that day those who disbelieved will wish the earth were levelled over them''. Being covered over by the land: a curse the exorcist lays on the witches, against a wish of the damned for themselves.'
+- unit: ane-maqlu-sb-v-be-off-begone
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-41-steadfast-and-repel-evil
+  - quran-15-iblis
+  - quran-15-abraham-guests-lot
+  matches:
+  - with: quran-15-abraham-guests-lot
+    motif: oath-by-the-life-of
+    refs:
+    - Maqlu SB V:171-174
+    with_refs:
+    - 15:72
+    relation: divergence
+    record:
+      agent:
+      - the exorcist
+      - God
+      action:
+      - adjures by the life of
+      - swears by the life of
+      name:
+      - Šamaš, Ea, Asalluḫi, Girra
+      - the Prophet ("your life")
+      quoted:
+      - nīš šamaš kabti lū tamâtunu
+      - laʿamruka
+    note: V:171-174 nīš šamaš kabti lū tamâtunu ... nīš girra qāmīkunu lū tamâtunu, 'by the life of Šamaš ... by the life of Girra be adjured'; Q 15:72 laʿamruka innahum la-fī sakratihim yaʿmahūna, 'by your life, they wander blindly in their intoxication'. An oath 'by the life (nīšu / ʿamr) of' someone; in Maqlû the life of gods, in the Quran God swears by the life of the one addressed.
+- unit: ane-maqlu-sb-vi-enlil-is-my-head
+  checked:
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-37-ranks-and-guarded-heaven
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-maqlu-sb-vi-qumqummatu-kukru
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-7-adam-iblis
+  - quran-37-hell-and-garden
+  matches: []
+- unit: ane-maqlu-sb-vi-kukru-1
+  checked:
+  - quran-25-hell-and-the-day-of-angels
+  - quran-105-elephant
+  - quran-83-defrauders
+  - quran-52-tur-garden-and-challenge
+  - quran-14-parables-and-satans-speech
+  matches:
+  - with: quran-14-parables-and-satans-speech
+    motif: deeds-blown-away-as-wind
+    refs:
+    - Maqlu SB VI:29-31
+    with_refs:
+    - '14:18'
+    relation: echo
+    record:
+      object:
+      - her witchcraft
+      - the deeds of those who disbelieve
+      action:
+      - blown away like chaff by storm and wind
+      - like ashes the wind blows hard on
+      instrument:
+      - storm (mehû), wind (šāru)
+      - wind (rīḥ) on a stormy day
+      quoted:
+      - ana mehê ... ana šāri ... kīma pê ... kīma dikmenni
+      - ka-ramādin ishtaddat bihi r-rīḥu fī yawmin ʿāṣif
+    note: VI:29-31 [terrā ki]špīša ana mehê amâtīša ana šāri / [linn]ešpū kišpīša kīma pê / [liṣall]imūši kīma dikmenni, 'turn her witchcraft into a storm, her words into wind; may her witchcraft be blown away like chaff; may it blacken her like ashes'; Q 14:18 aʿmāluhum ka-ramādin ishtaddat bihi r-rīḥu fī yawmin ʿāṣif, 'their deeds are like ashes on which the wind blows hard on a stormy day'. Storm, wind and ashes around the wrongdoer's works; in Maqlû the ashes blacken the witch, in the Quran the deeds are the ashes.
+- unit: ane-maqlu-sb-vi-kukru-2
+  checked:
+  - quran-81-folding-up
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-37-ranks-and-guarded-heaven
+  matches: []
+- unit: ane-maqlu-sb-vi-smoke-from-your-house
+  checked:
+  - quran-7-adam-iblis
+  - quran-37-hell-and-garden
+  - quran-19-mary-and-jesus
+  matches: []
+- unit: ane-maqlu-sb-vi-before-ningirsu
+  checked:
+  - quran-52-tur-garden-and-challenge
+  - quran-71-noah
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-maqlu-sb-vi-day-the-witch-bewitched-me
+  checked:
+  - quran-37-hell-and-garden
+  - quran-7-adam-iblis
+  - quran-2-harut-marut
+  - quran-20-samiri-calf
+  matches:
+  - with: quran-20-samiri-calf
+    motif: dust-from-a-footprint-in-magic
+    refs:
+    - Maqlu SB VI:54
+    with_refs:
+    - 20:96
+    relation: divergence
+    record:
+      agent:
+      - the witch ('collectress')
+      - al-Sāmirī
+      action:
+      - collects the dust of a footprint
+      - takes a handful from a footprint
+      object:
+      - dust of my feet
+      - trace of the messenger
+      outcome:
+      - used to bewitch the victim
+      - cast (into the molten calf)
+      quoted:
+      - šābištu išbušu eper šēpīya
+      - fa-qabaḍtu qabḍatan min athari r-rasūli fa-nabadhtuhā
+    note: VI:54 [šā]bištu išbušu eper šēpīya, 'the collectress collected the dust of my feet'; Q 20:96 baṣurtu bimā lam yabṣurū bihi fa-qabaḍtu qabḍatan min athari r-rasūli fa-nabadhtuhā, 'I took a handful from the trace (footprint) of the messenger and threw it'. Taking a pinch from a footprint for a magical act; the witch harms the man whose footprint it is, the Sāmirī takes it from the messenger's track to make the calf.
+- unit: ane-maqlu-sb-vi-south-wind-right-and-left
+  checked:
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-2-harut-marut
+  - quran-68-qalam-companions-of-the-garden
+  matches: []
+- unit: ane-maqlu-sb-vi-pure-sulphur-am-i
+  checked:
+  - quran-11-opening-throne-on-water
+  - quran-17-polemic-and-resurrection
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches: []
+- unit: ane-maqlu-sb-vi-sulphur-daughter-of-river
+  checked:
+  - quran-2-harut-marut
+  - quran-44-dukhan-zaqqum-and-garden
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-maqlu-sb-vi-sulphur-and-atisu
+  checked:
+  - quran-52-tur-garden-and-challenge
+  - quran-17-polemic-and-resurrection
+  - quran-81-folding-up
+  - quran-2-harut-marut
+  matches:
+  - with: quran-2-harut-marut
+    motif: two-heavenly-beings-descend-in-a-sorcery-context
+    refs:
+    - Maqlu SB VI:86-89
+    with_refs:
+    - 2:102
+    relation: divergence
+    record:
+      agent:
+      - the Sages of the apsû and the heavenly Daughters of Anu
+      - the two angels Hārūt and Mārūt
+      action:
+      - perform sorcery
+      - teach sorcery
+      place:
+      - heaven (Anu) and the apsû
+      - Babylon
+      outcome:
+      - never able to overpower the speaker
+      - harm no one except by God's leave
+      quoted:
+      - ēpišūtūʾa mārāt ani ša šamê ... ul ileʾʾâʾinni
+      - wa-mā unzila ʿalā l-malakayni bi-bābila ... wa-mā hum bi-ḍārrīna bihi min aḥadin illā bi-idhni llāh
+    note: VI:86-88 ēpišūʾa apkallū ša apsî / ēpišūtūʾa mārāt ani ša šamê / kī īpušāni ul ileʾʾâʾinni, 'my sorcerers are the Sages of the apsû, my sorceresses the heavenly Daughters of Anu; when they bewitched me they could not overpower me'; Q 2:102 wa-mā unzila ʿalā l-malakayni bi-bābila hārūta wa-mārūta ... wa-mā hum bi-ḍārrīna bihi min aḥadin illā bi-idhni llāh. Heavenly beings as the source of sorcery, whose sorcery cannot of itself prevail; in Maqlû they are the speaker's assailants, in the Quran two angels in Babylon who teach it with a warning.
+- unit: ane-maqlu-sb-vi-river-is-my-head
+  checked:
+  - quran-11-opening-throne-on-water
+  - quran-5-jesus-miracles-table
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-maqlu-sb-vi-o-river-i-have-eaten
+  checked:
+  - quran-47-muhammad-battle-and-rivers
+  - quran-37-hell-and-garden
+  - quran-7-adam-iblis
+  matches: []
+- unit: ane-maqlu-sb-vi-i-know-your-form
+  checked:
+  - quran-84-splitting
+  - quran-17-polemic-and-resurrection
+  - quran-11-opening-throne-on-water
+  matches: []
+- unit: ane-maqlu-sb-vi-you-salt
+  checked:
+  - quran-11-opening-throne-on-water
+  - quran-17-polemic-and-resurrection
+  - quran-5-jesus-miracles-table
+  matches: []
+- unit: ane-maqlu-sb-vi-watch-on-my-roof-twine-round-bed
+  checked:
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-100-chargers
+  matches: []
+- unit: ane-maqlu-sb-vi-twelve-figurines-at-bed
+  checked:
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-11-opening-throne-on-water
+  - quran-27-prologue-moses-fire
+  matches: []
+- unit: ane-maqlu-sb-vi-gods-of-the-watch
+  checked:
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-20-moses-pharaoh-magicians
+  - quran-40-throne-bearers
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-13-signs-of-creation
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: divine-beings-at-a-man-s-right-and-left
+    refs:
+    - Maqlu SB VI:146-148
+    with_refs:
+    - '50:17'
+    relation: divergence
+    record:
+      agent:
+      - Lugalirra and Meslamtaʾea, gods of the watch
+      - the two receivers
+      number:
+      - 2
+      - 2
+      place:
+      - right and left of my gate
+      - right and left
+      outcome:
+      - kill the witch
+      - record every word
+      quoted:
+      - ina imitti bābīya u šumēl bābīya ultezziz
+      - ʿani l-yamīni wa-ʿani sh-shimāli qaʿīdun
+    note: VI:146-148 ina ūrīya maṣṣartu ... ina imitti bābīya u šumēl bābīya ultezziz lugalirra u meslamtaʾea, 'a watch on my roof ... at the right of my gate and the left of my gate I have posted Lugalirra and Meslamtaʾea'; Q 50:17 idh yatalaqqā l-mutalaqqiyāni ʿani l-yamīni wa-ʿani sh-shimāli qaʿīdun. Two beings stationed at right and left; in Maqlû guards that kill the witch, in the Quran recorders of speech (cf. the guardians before and behind, yaḥfaẓūnahu, 13:11).
+- unit: ane-maqlu-sb-vi-pure-mountain-in-courtyard
+  checked:
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-100-chargers
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-maqlu-sb-vii-my-hand-is-the-rainbow
+  checked:
+  - quran-81-folding-up
+  - quran-37-ranks-and-guarded-heaven
+  - quran-52-tur-garden-and-challenge
+  matches: []
+- unit: ane-maqlu-sb-vii-i-impregnate-my-self
+  checked:
+  - quran-7-adam-iblis
+  - quran-75-resurrection
+  - quran-74-cloaked
+  - quran-2-wine-marriage
+  matches:
+  - with: quran-2-wine-marriage
+    motif: ploughing-as-insemination
+    refs:
+    - Maqlu SB VII:25
+    with_refs:
+    - 2:223
+    relation: echo
+    record:
+      agent:
+      - the plough
+      - men
+      action:
+      - impregnates the earth
+      - come to their tilth
+      object:
+      - the earth
+      - women as tilth
+      quoted:
+      - epinnu erṣeta irhû erṣetu imhuru zēraša
+      - nisāʾukum ḥarthun lakum fa-ʾtū ḥarthakum
+    note: 'VII:25 epinnu erṣeta irhû erṣetu imhuru zēraša, ''(as) the plough impregnated the earth and the earth received its seed''; Q 2:223 nisāʾukum ḥarthun lakum fa-ʾtū ḥarthakum annā shiʾtum, ''your women are a tilth for you, so come to your tilth as you will''. The same equation of ploughing and insemination, run in opposite directions: Maqlû makes the field a mother, the Quran makes the wife a field.'
+- unit: ane-maqlu-sb-vii-pure-oil
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-40-throne-bearers
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-maqlu-sb-vii-enlil-my-head-sirius-my-form
+  checked:
+  - quran-2-three-groups
+  - quran-74-cloaked
+  - quran-7-closing-recitation
+  matches: []
+- unit: ane-maqlu-sb-vii-counter-figurine-substitute
+  checked:
+  - quran-37-hell-and-garden
+  - quran-7-adam-iblis
+  - quran-68-qalam-the-pen-and-the-slanderer
+  matches: []
+- unit: ane-maqlu-sb-vii-huntress-of-huntresses
+  checked:
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-7-moses-pharaoh
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  matches: []
+- unit: ane-maqlu-sb-vii-mouth-full-of-earth
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-81-folding-up
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-maqlu-sb-vii-i-wash-my-hands
+  checked:
+  - quran-37-hell-and-garden
+  - quran-74-cloaked
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  matches: []
+- unit: ane-maqlu-sb-vii-rise-morning-open-earth
+  checked:
+  - quran-41-steadfast-and-repel-evil
+  - quran-52-tur-garden-and-challenge
+  - quran-74-cloaked
+  - quran-11-noah
+  matches:
+  - with: quran-11-noah
+    motif: earth-bidden-to-take-in
+    refs:
+    - Maqlu SB VII:142
+    - Maqlu SB VII:144
+    with_refs:
+    - '11:44'
+    relation: divergence
+    record:
+      action:
+      - 'addresses the earth: open and receive'
+      - 'addresses the earth: swallow'
+      recipient:
+      - earth
+      - earth
+      object:
+      - my sin
+      - your water
+      quoted:
+      - pite qaqqaru muhur arnīya
+      - yā arḍu blaʿī māʾaki
+    note: 'VII:142 pite qaqqaru (u) muhur arnīya, ''open up, earth, and receive my sin'' (VII:144 qaqqaru limhuranni); Q 11:44 wa-qīla yā arḍu blaʿī māʾaki wa-yā samāʾu aqliʿī, ''it was said: O earth, swallow your water, and O sky, hold back''. A vocative imperative bidding the earth take something in: the penitent''s sin in Maqlû, the flood water in the Quran. A loose echo.'
+- unit: ane-maqlu-sb-vii-dawn-has-broken
+  checked:
+  - quran-37-hell-and-garden
+  - quran-7-adam-iblis
+  - quran-7-dog-parable
+  matches: []
+- unit: ane-maqlu-sb-vii-morning-palil-at-door
+  checked:
+  - quran-37-ranks-and-guarded-heaven
+  - quran-18-companions-of-the-cave
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  matches: []
+- unit: ane-maqlu-sb-vii-at-dawn-hands-washed
+  checked:
+  - quran-74-cloaked
+  - quran-73-enwrapped
+  - quran-7-closing-recitation
+  matches: []
+- unit: ane-maqlu-sb-vii-flood-foam-wash-mouth
+  checked:
+  - quran-37-hell-and-garden
+  - quran-41-steadfast-and-repel-evil
+  - quran-52-tur-garden-and-challenge
+  matches: []
+- unit: ane-maqlu-sb-viii-until-you-rose
+  checked:
+  - quran-37-hell-and-garden
+  - quran-7-adam-iblis
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-maqlu-sb-viii-samas-has-risen
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-81-folding-up
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-74-cloaked
+  matches:
+  - with: quran-112-114-unity-and-refuge
+    motif: night-and-dawn-against-sorcery
+    refs:
+    - Maqlu SB VIII:17
+    - Maqlu SB VIII:23-27
+    with_refs:
+    - '113:1'
+    - '113:4'
+    relation: divergence
+    record:
+      agent:
+      - Šamaš, the risen sun, and his daughter
+      - the Lord of the daybreak
+      action:
+      - unknots the hand that bound a knot
+      - gives refuge from the blowers on knots
+      time:
+      - sunrise
+      - daybreak
+      object:
+      - knot, spittle and witchcraft
+      - knots
+      quoted:
+      - ittapha šamaš ... ana ritti ša irkusu riksa ... pušur ritta ša irkusu riksa
+      - aʿūdhu bi-rabbi l-falaq ... min sharri n-naffāthāti fī l-ʿuqad
+    note: VIII:17 [i]t[ta]pha šamaš, 'Šamaš has risen'; VIII:23-27 ana ritti ša irkusu riksa ... pušur ritta ša irkusu ri[ksa] ... kišpīšunu r[uhêšun]u, 'against the hand that bound a knot ... relax the hand that bound a knot ... their witchcraft and spittle'; Q 113:1 qul aʿūdhu bi-rabbi l-falaq ... 113:4 min sharri n-naffāthāti fī l-ʿuqad. In both the power of the dawn is set against knot-and-spittle sorcery. In Maqlû the rising sun himself (through his daughter, the 'releaser') undoes the knots; in the Quran the daybreak is a title of the Lord in whom refuge is taken.
+- unit: ane-maqlu-sb-viii-witch-crossed-the-river
+  checked:
+  - quran-39-mercy-and-last-day
+  - quran-3-community
+  - quran-37-hell-and-garden
+  - quran-7-moses-pharaoh
+  matches:
+  - with: quran-3-community
+    motif: faces-whitened-and-blackened
+    refs:
+    - Maqlu SB VIII:35
+    with_refs:
+    - 3:106
+    relation: echo
+    record:
+      agent:
+      - Ea, king of the apsû
+      - null
+      action:
+      - darkens her face
+      - faces turn black
+      object:
+      - the witch's face
+      - faces of those who disbelieved
+      quoted:
+      - uṭṭâ pānīša
+      - wa-taswaddu wujūhun
+    note: VIII:35 [ea] šar apsî uṭṭâ pānīša, 'Ea, king of the apsû, darkened her face', as she crosses the river; Q 3:106 yawma tabyaḍḍu wujūhun wa-taswaddu wujūhun fa-ammā lladhīna swaddat wujūhuhum ... The darkened face of the guilty; Maqlû as a punishment Ea inflicts at the river, the Quran on the day of judgment.
+  - with: quran-39-mercy-and-last-day
+    motif: faces-whitened-and-blackened
+    refs:
+    - Maqlu SB VIII:35
+    with_refs:
+    - 39:60
+    relation: echo
+    record:
+      action:
+      - darkens her face
+      - faces blackened
+      object:
+      - the witch
+      - those who lied against God
+      quoted:
+      - uṭṭâ pānīša
+      - wujūhuhum muswaddatun
+    note: VIII:35 uṭṭâ pānīša, 'he darkened her face' (the witch, whose word is false); Q 39:60 wa-yawma l-qiyāmati tarā lladhīna kadhabū ʿalā llāhi wujūhuhum muswaddatun, 'on the day of resurrection you will see those who lied against God, their faces blackened'.
+- unit: ane-maqlu-sb-viii-after-uru-called
+  checked:
+  - quran-25-hell-and-the-day-of-angels
+  - quran-105-elephant
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-14-parables-and-satans-speech
+  matches: []
+- unit: ane-maqlu-sb-viii-now-this-one-fragment
+  checked:
+  - quran-37-hell-and-garden
+  - quran-7-adam-iblis
+  - quran-68-qalam-the-pen-and-the-slanderer
+  matches: []
+- unit: ane-maqlu-sb-viii-mouth-spoke-evil
+  checked:
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-7-moses-pharaoh
+  - quran-37-hell-and-garden
+  - quran-102-104-rivalry-time-slanderer
+  matches: []
+- unit: ane-maqlu-sb-viii-eagle-and-vulture
+  checked:
+  - quran-44-dukhan-zaqqum-and-garden
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-81-folding-up
+  matches: []
+- unit: ane-maqlu-sb-viii-you-are-my-reflection
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-7-closing-recitation
+  matches: []
+- unit: ane-maqlu-sb-rt-night-rite-tablet-i
+  checked:
+  - quran-27-prologue-moses-fire
+  - quran-56-waqia-left-hand-and-proofs
+  - quran-85-constellations
+  matches: []
+- unit: ane-maqlu-sb-rt-figurine-rubrics-ii-iii
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-37-ranks-and-guarded-heaven
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-maqlu-sb-rt-tablets-iv-v-quench-and-cast-out
+  checked:
+  - quran-4-kindness-misers-atom
+  - quran-112-114-unity-and-refuge
+  - quran-77-sent-forth
+  - quran-81-folding-up
+  matches: []
+- unit: ane-maqlu-sb-rt-tablets-vi-vii-bed-and-door
+  checked:
+  - quran-11-opening-throne-on-water
+  - quran-77-sent-forth
+  - quran-37-ranks-and-guarded-heaven
+  matches: []
+- unit: ane-maqlu-sb-rt-morning-handwashing
+  checked:
+  - quran-25-hell-and-the-day-of-angels
+  - quran-105-elephant
+  - quran-83-defrauders
+  - quran-27-prologue-moses-fire
+  matches: []
+- unit: ane-marddemons-sb-begone-evil
+  checked:
+  - quran-37-ranks-and-guarded-heaven
+  - quran-112-114-unity-and-refuge
+  - quran-15-iblis
+  matches:
+  - with: quran-37-ranks-and-guarded-heaven
+    motif: flash-of-a-falling-star
+    refs:
+    - MardDemons SB –:6
+    with_refs:
+    - '37:10'
+    relation: divergence
+    record:
+      object:
+      - that which falls from heaven, the flash of a star
+      - a piercing flame
+      action:
+      - is driven away as an evil
+      - pursues the eavesdropping devil
+      outcome:
+      - expelled with the demons
+      - the devil is struck
+      quoted:
+      - miqit šamê ṣereh kakkabi
+      - shihābun thāqibun
+    note: –:6 miqit šamê ṣereh kakkabi, 'that which falls from heaven, the flash of a star', listed among the demons to be expelled; Q 37:10 illā man khaṭifa l-khaṭfata fa-atbaʿahu shihābun thāqibun (cf. 37:7 ḥifẓan min kulli shayṭānin mārid). The falling star is itself one of the evil powers in the Akkadian list; in the Quran it is the weapon that drives off the devils.
+- unit: ane-marddemons-sb-i-am-asalluhi-1
+  checked:
+  - quran-85-constellations
+  - quran-112-114-unity-and-refuge
+  - quran-17-polemic-and-resurrection
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-41-steadfast-and-repel-evil
+  - quran-3-annunciation-jesus
+  matches:
+  - with: quran-41-steadfast-and-repel-evil
+    motif: reviver-of-the-dead-epithet
+    refs:
+    - MardDemons SB –:13
+    - MardDemons SB –:20
+    with_refs:
+    - '41:39'
+    relation: echo
+    record:
+      agent:
+      - Asalluḫi
+      - God
+      name:
+      - muballiṭ mīti
+      - muḥyī l-mawtā
+      quoted:
+      - muballiṭ mīti
+      - la-muḥyī l-mawtā
+    note: –:13 anāku asalluhi bēl nagbi mašmaš ilī muballiṭ mīti and –:20, 'I am Asalluḫi ... who makes the dead alive'; Q 41:39 inna lladhī aḥyāhā la-muḥyī l-mawtā, 'He who gave it (the earth) life is the giver of life to the dead'. The same participial epithet, 'reviver of the dead'; Asalluḫi revives the moribund by his spell, the Quran argues from the rain-revived earth to the resurrection.
+  - with: quran-3-annunciation-jesus
+    motif: healer-raises-the-dead-in-first-person
+    refs:
+    - MardDemons SB –:13
+    - MardDemons SB –:22
+    with_refs:
+    - '3:49'
+    relation: divergence
+    record:
+      agent:
+      - Asalluḫi (spoken by the exorcist)
+      - Jesus
+      action:
+      - 'says: I make the dead alive'
+      - 'says: I give life to the dead'
+      instrument:
+      - his rites and spell
+      - God's leave
+      quoted:
+      - anāku asalluhi ... muballiṭ mīti
+      - wa-uḥyī l-mawtā bi-idhni llāh
+    note: –:13 anāku asalluhi ... muballiṭ mīti; –:22 ša ina kikiṭṭêšu mītu iballuṭu, 'by whose rites the dead become alive'; Q 3:49 wa-ubriʾu l-akmaha wa-l-abraṣa wa-uḥyī l-mawtā bi-idhni llāh. A first-person claim to revive the dead; the exorcist speaks as the god himself, Jesus adds 'by God's leave'.
+- unit: ane-marddemons-sb-i-am-asalluhi-2
+  checked:
+  - quran-85-constellations
+  - quran-7-sinai-theophany
+  - quran-112-114-unity-and-refuge
+  - quran-17-iblis-and-adam
+  matches: []
+- unit: ane-marddemons-sb-marduk-sees-them
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-37-ranks-and-guarded-heaven
+  matches: []
+- unit: ane-marddemons-sb-or-you-who-at-the-sickbed
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-37-ranks-and-guarded-heaven
+  - quran-15-iblis
+  matches: []
+- unit: ane-marddemons-sb-restless-dead
+  checked:
+  - quran-15-abraham-guests-lot
+  - quran-15-iblis
+  - quran-17-iblis-and-adam
+  matches: []
+- unit: ane-marddemons-sb-handed-to-netherworld
+  checked:
+  - quran-15-iblis
+  - quran-37-ranks-and-guarded-heaven
+  - quran-81-folding-up
+  - quran-23-death-barzakh-judgment
+  - quran-39-mercy-and-last-day
+  matches:
+  - with: quran-15-iblis
+    motif: seven-gates-of-underworld
+    refs:
+    - MardDemons SB –:110'-111'
+    with_refs:
+    - '15:44'
+    relation: parallel
+    record:
+      object:
+      - the evil ones
+      - Iblis's followers
+      place:
+      - the gate of the Land of No Return
+      - Gehenna
+      number:
+      - 7
+      - 7
+      outcome:
+      - committed to the seven gatekeepers
+      - a portion allotted to each gate
+      quoted:
+      - lipqidkunūši ana sebetti atî ša ereškigal
+      - lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūm
+    note: –:110'-111' liddinkunūši ... ana bāb kurnugi / lipqidkunūši ana sebetti atî ša ereškigal, 'may he hand you over to the gate of the Land of No Return, commit you to the seven gatekeepers of Ereškigal'; Q 15:44 lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūm, 'it has seven gates, to each gate a portion of them is assigned'. The evil are distributed to a seven-gated underworld.
+- unit: ane-mardsyncr-sb-wise-one-heaven-tiara
+  checked:
+  - quran-85-constellations
+  - quran-112-114-unity-and-refuge
+  - quran-13-signs-of-creation
+  - quran-23-lordship-arguments
+  matches: []
+- unit: ane-mardsyncr-sb-your-name-is-indeed-marduk
+  checked:
+  - quran-85-constellations
+  - quran-7-sinai-theophany
+  - quran-112-114-unity-and-refuge
+  - quran-27-is-there-a-god-with-god
+  - quran-17-moses-nine-signs-and-close
+  - quran-13-signs-of-creation
+  - quran-22-signs-and-rites
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches:
+  - with: quran-17-moses-nine-signs-and-close
+    motif: whatever-name-is-called-the-one-god-answers
+    refs:
+    - MardSyncr SB –:22
+    - MardSyncr SB –:25
+    - MardSyncr SB –:30
+    - MardSyncr SB –:33
+    with_refs:
+    - 17:110
+    relation: divergence
+    record:
+      agent:
+      - the hymnist
+      - the believers
+      action:
+      - names the god by other gods' names
+      - call on God by either name
+      name:
+      - Dagan, Adad ... indeed Marduk
+      - Allah or al-Raḥmān, the most beautiful names
+      quoted:
+      - šumka dagān ... šumka addu ... zikirka marūtuk-ma
+      - ayyan mā tadʿū fa-lahu l-asmāʾu l-ḥusnā
+    note: –:22 šumka dagān ..., –:25 ... zikirka marūtuk-ma, –:30 šumka addu ..., –:33 ... zikirka marūtuk-ma, 'your name is Dagan ... your name is Adad ... your name is indeed Marduk'; Q 17:110 qul idʿū llāha awi dʿū r-raḥmāna ayyan mā tadʿū fa-lahu l-asmāʾu l-ḥusnā. Several names all belong to the one god; in the hymn they are the names of other gods, in the Quran two names of God, one of which (al-Raḥmān) the hearers questioned.
+  - with: quran-13-signs-of-creation
+    motif: thunder-and-the-god
+    refs:
+    - MardSyncr SB –:30-31
+    with_refs:
+    - '13:13'
+    relation: divergence
+    record:
+      agent:
+      - Adad (= Marduk)
+      - the thunder
+      action:
+      - roars in the banks of clouds
+      - glorifies with his praise
+      place:
+      - the clouds
+      - null
+      quoted:
+      - ša ina kiṣir urpāti urtaṣṣanu ramīmšu
+      - wa-yusabbiḥu r-raʿdu bi-ḥamdihi
+    note: '–:30-31 šumka addu ... ša ina kiṣir urpāti urtaṣṣanu ramīmšu / ana rigmīšu šamû u erṣetu irūbū, ''your name is Adad ... whose roaring resounds in the banks of clouds, at whose clamour heaven and earth shake''; Q 13:12-13 wa-yunshiʾu s-saḥāba th-thiqāla / wa-yusabbiḥu r-raʿdu bi-ḥamdihi wa-l-malāʾikatu min khīfatihi. The thunder in the heavy clouds: in the hymn it is the god''s own roar, in the Quran the thunder is a creature that praises him.'
+  - with: quran-22-signs-and-rites
+    motif: god-holds-heaven
+    refs:
+    - MardSyncr SB –:25
+    with_refs:
+    - 22:65
+    relation: parallel
+    record:
+      agent:
+      - Marduk
+      - God
+      action:
+      - holds the bond of heaven
+      - holds back the sky
+      object:
+      - the great heavens
+      - the sky
+      quoted:
+      - markas šamê rabûti ukallu
+      - wa-yumsiku s-samāʾa an taqaʿa ʿalā l-arḍi
+    note: –:25 markas šamê rabûti ukallu parkat haṭṭašu eli erṣeti rapašti, 'who holds the bond of the great heavens, whose sceptre lies across the netherworld'; Q 22:65 wa-yumsiku s-samāʾa an taqaʿa ʿalā l-arḍi illā bi-idhnihi. The god keeps the sky in place by holding it (ukallu / yumsiku).
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: immutable-divine-word
+    refs:
+    - MardSyncr SB –:36
+    with_refs:
+    - '50:29'
+    relation: echo
+    record:
+      object:
+      - his decision
+      - the word
+      action:
+      - cannot be revoked
+      - is not changed
+      quoted:
+      - purussûšu lā innennû
+      - mā yubaddalu l-qawlu ladayya
+    note: –:36 ... purussûšu lā innennû, 'whose decision cannot be revoked' (of Nannaru = Marduk); Q 50:29 mā yubaddalu l-qawlu ladayya wa-mā ana bi-ẓallāmin li-l-ʿabīd.
+- unit: ane-mardsyncr-sb-fifty-auras-extol-the-lord
+  checked:
+  - quran-59-hashr-hypocrites-and-the-names
+  - quran-44-dukhan-blessed-night-and-smoke
+  - quran-112-114-unity-and-refuge
+  - quran-2-throne-verse
+  - quran-35-heirs-of-book
+  matches:
+  - with: quran-35-heirs-of-book
+    motif: god-holds-heaven
+    refs:
+    - MardSyncr SB –:83
+    with_refs:
+    - '35:41'
+    relation: parallel
+    record:
+      agent:
+      - Marduk alone
+      - God alone
+      action:
+      - holds the cosmic rope
+      - holds the heavens and the earth
+      object:
+      - the whole universe
+      - the heavens and the earth
+      quoted:
+      - ša ēdiššīšu ṣerret gimri īhuzu
+      - inna llāha yumsiku s-samāwāti wa-l-arḍa an tazūlā ... in amsakahumā min aḥadin min baʿdihi
+    note: –:83 ša ēdiššīšu ṣerret gimri īhuzu kullat naphar kala ibēlu, 'who alone holds the cosmic rope, who rules everything'; Q 35:41 inna llāha yumsiku s-samāwāti wa-l-arḍa an tazūlā wa-laʾin zālatā in amsakahumā min aḥadin min baʿdihi. The god alone holds the cosmos together; no one else could.
+- unit: ane-nabupr-sb-o-lord-o-nabu-hymn
+  checked:
+  - quran-85-constellations
+  - quran-112-114-unity-and-refuge
+  - quran-27-is-there-a-god-with-god
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-nabupr-sb-servant-in-the-morass
+  checked:
+  - quran-9-closing
+  - quran-3-sovereignty
+  - quran-3-badr-uhud
+  matches: []
+- unit: ane-nabupr-sb-only-you-absolve
+  checked:
+  - quran-42-shura-signs-and-ethics
+  - quran-39-death-and-sleep
+  - quran-16-parables-and-justice
+  - quran-3-badr-uhud
+  - quran-40-throne-bearers
+  matches:
+  - with: quran-3-badr-uhud
+    motif: none-forgives-sin-but-the-god
+    refs:
+    - NabuPr SB –:91-92
+    - NabuPr SB –:99-100
+    with_refs:
+    - 3:135
+    relation: echo
+    record:
+      agent:
+      - Nabû
+      - God
+      action:
+      - absolves sin
+      - forgives sins
+      name:
+      - temēšu (Forgiver)
+      - Allāh
+      quoted:
+      - '[ina b]aluk ennētī gillatī [ul ippaṭṭar]'
+      - wa-man yaghfiru dh-dhunūba illā llāhu
+    note: –:91-92 teleʾû bēlu ennētī paṭāra / temēšu gillatī ..., 'O Lord, who has power to absolve my sin, O Forgiver'; –:99-100 [ela k]âti bēlu ul ibbašši [rēmu?] / [ina b]aluk ennētī gillatī [ul ippaṭṭar?], 'without you no forgiveness, unless by you no sin is absolved' (the verbs are restored); Q 3:135 fa-staghfarū li-dhunūbihim wa-man yaghfiru dh-dhunūba illā llāhu. Forgiveness of sin belongs to this god alone.
+- unit: ane-nabupr-sb-praise-vow-dream-spirit
+  checked:
+  - quran-17-prayer-spirit-and-challenge
+  - quran-74-cloaked
+  - quran-7-closing-recitation
+  matches: []
+- unit: ane-nabupr-sb-restoration-bitter-dates
+  checked:
+  - quran-3-sovereignty
+  - quran-42-shura-signs-and-ethics
+  - quran-16-parables-and-justice
+  - quran-40-throne-bearers
+  matches:
+  - with: quran-40-throne-bearers
+    motif: heavenly-beings-plead-for-the-human
+    refs:
+    - NabuPr SB –:218-219
+    with_refs:
+    - '40:7'
+    relation: echo
+    record:
+      agent:
+      - the Igigi and the Laḫmu gods
+      - the throne-bearers and those around the throne
+      action:
+      - take his part and speak in his favour
+      - ask forgiveness for the believers
+      recipient:
+      - Nabû
+      - their Lord
+      quoted:
+      - igīgū gimrassunu līhuzū abūssu / lahmū ... liqbû dumuqšu
+      - wa-yastaghfirūna lilladhīna āmanū
+    note: –:218-219 [igīg]ū gimrassunu līhuzū abūssu / [la]hmū iṣrassunu liqbû dumuqšu, 'may all the Igigi take his part, may the Laḫmu speak in his favour'; Q 40:7 alladhīna yaḥmilūna l-ʿarsha wa-man ḥawlahu ... wa-yastaghfirūna lilladhīna āmanū rabbanā ... fa-ghfir lilladhīna tābū. The heavenly host intercede with the high god for the penitent human.
+- unit: ane-naramsin-mb-a-six-kings-created-by-ea
+  checked:
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-26-hud-ad
+  - quran-3-badr-uhud
+  matches: []
+- unit: ane-naramsin-mb-a-approach-to-akkad
+  checked:
+  - quran-2-talut-jalut
+  - quran-8-fifth-and-badr-vision
+  - quran-8-ratio-captives
+  matches: []
+- unit: ane-naramsin-mb-b-fragment
+  checked:
+  - quran-18-dhul-qarnayn
+  - quran-9-shirkers-excuses
+  - quran-50-qaf-resurrection-proofs-and-peoples
+  matches: []
+- unit: ane-naramsin-ob-i-three-armies-destroyed
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-talut-jalut
+  - quran-17-night-journey-and-israel
+  matches:
+  - with: quran-17-night-journey-and-israel
+    motif: god-raises-a-mighty-foe-against-his-own-land
+    refs:
+    - NaramSin OB I:b+11
+    - NaramSin OB I:b+17-b+19
+    with_refs:
+    - '17:5'
+    relation: parallel
+    record:
+      agent:
+      - god
+      - God
+      action:
+      - raises a mighty foe
+      - sends servants of great might
+      recipient:
+      - Akkad
+      - the Children of Israel
+      outcome:
+      - the plains of Akkad laid low
+      - they ravage the homes
+      quoted:
+      - nakram dannam idkeam-ma
+      - baʿathnā ʿalaykum ʿibādan lanā ulī baʾsin shadīdin
+    note: b+11 ilu ana palêya mīnâm ublam, 'god, what has he brought upon my reign?'; b+17-19 ana hulluq ṣērim akkadîm / [n]akram dannam idkeam-ma / [iš]šiam hariātim malgiam, 'to lay low the plains of Akkad he has mobilized a mighty foe, raised up the Hari people and Malgium'; Q 17:5 baʿathnā ʿalaykum ʿibādan lanā ulī baʾsin shadīdin fa-jāsū khilāla d-diyāri. The god himself rouses a powerful foreign enemy against his own land. The subject of idkeam is implied (the god of b+11).
+- unit: ane-naramsin-ob-i-land-levelled-like-flood
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-89-dawn
+  - quran-29-emigrate-and-trust
+  matches: []
+- unit: ane-naramsin-ob-ii-fragment
+  checked:
+  - quran-20-judgment-day
+  - quran-18-dhul-qarnayn
+  - quran-89-dawn
+  matches: []
+- unit: ane-naramsin-sb-1-prologue-enmerkar
+  checked:
+  - quran-2-talut-jalut
+  - quran-16-daughters-and-the-bee
+  - quran-82-cleaving
+  matches: []
+- unit: ane-naramsin-sb-2-raven-faced-host
+  checked:
+  - quran-18-dhul-qarnayn
+  - quran-7-idol-request
+  - quran-29-destroyed-nations
+  - quran-26-hud-ad
+  matches: []
+- unit: ane-naramsin-sb-3-defiance-and-defeat
+  checked:
+  - quran-3-badr-uhud
+  - quran-17-iblis-and-adam
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-naramsin-sb-4-new-year-oracle-spared
+  checked:
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-89-dawn
+  - quran-3-sovereignty
+  - quran-8-badr-help
+  - quran-18-dhul-qarnayn
+  - quran-70-ascending-stairways
+  matches:
+  - with: quran-8-badr-help
+    motif: who-killed-the-enemy
+    refs:
+    - NaramSin SB –:147-148
+    with_refs:
+    - '8:17'
+    relation: divergence
+    record:
+      agent:
+      - the great gods
+      - God
+      action:
+      - carry off the enemy
+      - killed them
+      recipient:
+      - the enemy host
+      - the enemy at Badr
+      quoted:
+      - ilū rabûtu ana bibilti ubillūšunūti / qātī ana dâki ul ubilšunūti
+      - fa-lam taqtulūhum wa-lākinna llāha qatalahum
+    note: –:147-148 ilū rabûtu ana bibilti ubillū(niš)šunūti / qātī ana dâki u[l] ubilšunūti, 'the great gods carried them off as tribute, while I laid no hand on them to kill'; Q 8:17 fa-lam taqtulūhum wa-lākinna llāha qatalahum wa-mā ramayta idh ramayta wa-lākinna llāha ramā. The enemy's end is credited to the deity, not the human side; Narām-Sîn really did not fight, the believers did fight and God claims the killing.
+  - with: quran-18-dhul-qarnayn
+    motif: destroying-horde-kept-for-a-later-day
+    refs:
+    - NaramSin SB –:130-131
+    with_refs:
+    - 18:97-98
+    relation: divergence
+    record:
+      agent:
+      - Ištar (the Morning Star)
+      - Dhū l-Qarnayn
+      object:
+      - the roving host
+      - Yaʾjūj and Maʾjūj
+      action:
+      - forbids destroying them
+      - walls them in
+      time:
+      - in future days
+      - when my Lord's promise comes
+      outcome:
+      - Enlil will call them to account
+      - the barrier is levelled
+      quoted:
+      - ezib zēr halqātî lā tuhallaq / ana arkât ūmī enlil
+      - fa-idhā jāʾa waʿdu rabbī jaʿalahu dakkāʾa
+    note: '–:130-131 ezib zēr halqātî lā tuhallaq / ana arkât ūmī enlil ana lemutti inaššâ rēssun, ''leave alone, do not destroy the roving breed; in future days Enlil will call them to account''; Q 18:97-98 fa-mā sṭāʿū an yaẓharūhu ... fa-idhā jāʾa waʿdu rabbī jaʿalahu dakkāʾa. A destroying people from the mountains is not wiped out but kept for a later divine appointment: in the legend for Enlil''s punishment, in the Quran for their release at the end.'
+  - with: quran-70-ascending-stairways
+    motif: kin-against-kin-in-the-coming-calamity
+    refs:
+    - NaramSin SB –:138-141
+    with_refs:
+    - 70:10-14
+    relation: divergence
+    record:
+      object:
+      - son, brother, companion, friend
+      - sons, wife, brother, clan, close friend
+      action:
+      - turn against each other
+      - would be given as ransom
+      time:
+      - the coming doom of the city
+      - the day of punishment
+      quoted:
+      - abu itti māri ahu itti ahi ... rūʾu itti itbāri
+      - wa-lā yasʾalu ḥamīmun ḥamīman ... yawaddu l-mujrimu law yaftadī ... bi-banīhi wa-ṣāḥibatihi wa-akhīhi
+    note: '–:138-141 ālu itti āli bītu itti bīti inakkir / abu it[ti mā]ri ahu itti ahi / e[ṭlu] itti eṭli rūʾu itti itbāri / itti ahāmiš kīnāti ul ītammû; Q 70:10-14 wa-lā yasʾalu ḥamīmun ḥamīman ... yawaddu l-mujrimu law yaftadī min ʿadhābi yawmiʾidhin bi-banīhi wa-ṣāḥibatihi wa-akhīhi wa-faṣīlatihi. A list of kin (son, brother, friend) broken apart under the coming calamity: in the oracle they turn hostile, in the Quran the guilty would sacrifice them to save himself.'
+- unit: ane-naramsin-sb-5-counsel-to-future-ruler
+  checked:
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-prophet-not-present-and-the-two-books
+  - quran-23-death-barzakh-judgment
+  - quran-3-sovereignty
+  - quran-3-badr-uhud
+  matches:
+  - with: quran-41-steadfast-and-repel-evil
+    motif: repel-evil-with-better
+    refs:
+    - NaramSin SB –:172-173
+    with_refs:
+    - '41:34'
+    relation: parallel
+    record:
+      action:
+      - repay their wickedness with kindness
+      - repel (evil) with what is better
+      recipient:
+      - the enemy
+      - one between you and whom is enmity
+      quoted:
+      - ana gullultīšunu rīb dumqī
+      - idfaʿ bi-llatī hiya aḥsanu
+      outcome:
+      - avoid them
+      - the enemy becomes a close friend
+    note: –:172-173 ana gullultīšunu rīb dumqī / ana dumqī qīšāti u taṣbâti, 'to their wickedness repay kindness, to kindness add gifts and gratifications', said of the enemy raider; Q 41:34 idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīmun. Narām-Sîn's maxim is prudential submission to a stronger enemy; the Quran's promises that enmity turns to friendship.
+  - with: quran-23-death-barzakh-judgment
+    motif: repel-evil-with-better
+    refs:
+    - NaramSin SB –:172
+    with_refs:
+    - 23:96
+    relation: parallel
+    record:
+      action:
+      - repay wickedness with kindness
+      - repel the evil deed with what is better
+      quoted:
+      - ana gullultīšunu rīb dumqī
+      - idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata
+    note: –:172 ana gullultīšunu rīb dumqī; Q 23:96 idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata naḥnu aʿlamu bimā yaṣifūna.
+- unit: ane-nergeresh-mb-1-banquet-and-insult
+  checked:
+  - quran-13-signs-of-creation
+  - quran-17-polemic-and-resurrection
+  - quran-17-iblis-and-adam
+  matches: []
+- unit: ane-nergeresh-mb-2-descent-and-marriage
+  checked:
+  - quran-40-throne-bearers
+  - quran-3-sovereignty
+  - quran-15-iblis
+  - quran-74-cloaked
+  matches:
+  - with: quran-15-iblis
+    motif: seven-gates-of-underworld
+    refs:
+    - NergEresh MB –:b+2-b+9
+    with_refs:
+    - '15:44'
+    relation: divergence
+    record:
+      place:
+      - the underworld
+      - Gehenna
+      number:
+      - 14
+      - 7
+      object:
+      - one disease-demon posted at each gate
+      - a portion of the damned assigned to each gate
+      quoted:
+      - ina šalši muttabriqa ... ina erbēšerî bābi iltakan hurbāša
+      - li-kulli bābin minhum juzʾun maqsūm
+    note: 'b+2-9 ina šalši muttabriqa ... ina erbēšerî bābi iltakan hurbāša, ''at the third (gate he posted) Muttabriqu ... at the fourteenth gate he posted Ḫurbāšu''; Q 15:44 lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūm. Gate by gate distribution in the underworld: the Amarna version has fourteen gates, a demon at each; the Quran seven, a portion of the damned at each.'
+  - with: quran-74-cloaked
+    motif: number-of-the-underworld-s-wardens
+    refs:
+    - NergEresh MB –:b+2-b+9
+    with_refs:
+    - 74:30-31
+    relation: divergence
+    record:
+      agent:
+      - disease-demons (Muttabriqu, Šarabdû, Rābiṣu ...)
+      - angels
+      number:
+      - 14
+      - 19
+      place:
+      - the gates of the underworld
+      - over Saqar
+      quoted:
+      - ina erbēšerî bābi iltakan hurbāša
+      - ʿalayhā tisʿata ʿashara ... wa-mā jaʿalnā aṣḥāba n-nāri illā malāʾikatan
+    note: 'MB a+24 sebet u sebet, ''seven and seven'' (demons given to Nergal), posted one per gate in b+2-9 up to the fourteenth; Q 74:30-31 ʿalayhā tisʿata ʿashara / wa-mā jaʿalnā aṣḥāba n-nāri illā malāʾikatan wa-mā jaʿalnā ʿiddatahum illā fitnatan. A fixed count of wardens set over the underworld: fourteen named demons against nineteen angels, whose number the Quran calls a test.'
+- unit: ane-nergeresh-sb-1-kakka-sent-down
+  checked:
+  - quran-70-ascending-stairways
+  - quran-52-tur-garden-and-challenge
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-78-the-tiding
+  matches:
+  - with: quran-70-ascending-stairways
+    motif: messenger-climbs-the-stairway-of-heaven
+    refs:
+    - NergEresh SB –:a+48
+    with_refs:
+    - 70:3-4
+    relation: echo
+    record:
+      agent:
+      - Namtar
+      - the angels and the spirit
+      action:
+      - goes up the stairway of heaven
+      - ascend
+      place:
+      - the long stairway of heaven (simmilat šamāmī)
+      - the stairways (maʿārij)
+      quoted:
+      - namtar eli arkāt si[mmilat šamāmī]
+      - dhī l-maʿāriji taʿruju l-malāʾikatu
+    note: a+48 namtar eli arkāt si[mmilat? šamāmī], 'Namtar went up the long stair[way of heaven]' (a+11 urid kaka arkāt simmilat šamāmī is restored); Q 70:3-4 mina llāhi dhī l-maʿāriji / taʿruju l-malāʾikatu wa-r-rūḥu ilayhi. Divine messengers ascend between realms by a stairway; in Nergal and Ereškigal from the underworld to Anu's gate, in the Quran to God.
+- unit: ane-nergeresh-sb-2-ea-instructs-nergal
+  checked:
+  - quran-2-throne-verse
+  - quran-15-iblis
+  - quran-17-iblis-and-adam
+  matches: []
+- unit: ane-nergeresh-sb-3-descent-and-abstinence
+  checked:
+  - quran-15-iblis
+  - quran-23-death-barzakh-judgment
+  - quran-78-the-tiding
+  - quran-39-mercy-and-last-day
+  matches:
+  - with: quran-15-iblis
+    motif: seven-gates-of-underworld
+    refs:
+    - NergEresh SB –:c+41-c+47
+    with_refs:
+    - '15:44'
+    relation: parallel
+    record:
+      place:
+      - the underworld
+      - Gehenna
+      number:
+      - 7
+      - 7
+      quoted:
+      - ištēn bāba ... sebâ bāba ša ennugigi
+      - sabʿatu abwābin
+    note: c+41-47 ištēn bāba ša bidu ... sebâ bāba ša ennugigi ina erēbīšu, the seven named gates Nergal passes on entering; Q 15:44 lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūm.
+- unit: ane-nergeresh-sb-4-love-flight-and-search
+  checked:
+  - quran-52-tur-garden-and-challenge
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-16-daughters-and-the-bee
+  - quran-78-the-tiding
+  matches:
+  - with: quran-52-tur-garden-and-challenge
+    motif: messenger-climbs-the-stairway-of-heaven
+    refs:
+    - NergEresh SB –:d+26
+    - NergEresh SB –:d+73
+    with_refs:
+    - '52:38'
+    relation: divergence
+    record:
+      agent:
+      - Nergal and Namtar
+      - the deniers (hypothetical)
+      action:
+      - go up the stairway of heaven
+      - have a ladder to listen in
+      instrument:
+      - simmiltu (stairway)
+      - sullam (ladder)
+      outcome:
+      - reach the gate of Anu Enlil and Ea
+      - challenged to bring a clear warrant
+      quoted:
+      - īlâ namtar arkāt simmilat šamāmī
+      - am lahum sullamun yastamiʿūna fīhi
+    note: d+73 īlâ namtar arkāt simmilat šamā[mī] / ana bāb āni ellil u ea, 'Namtar went up the long stairway of heaven to the gate of Anu, Enlil and Ea' (d+26 the same of Nergal, partly restored); Q 52:38 am lahum sullamun yastamiʿūna fīhi fa-l-yaʾti mustamiʿuhum bi-sulṭānin mubīnin. Akkadian simmiltu and Arabic sullam (Hebrew sullām) are usually taken as cognate words for the stairway to heaven. In the myth the gods' envoys use it; in the Quran it is denied to the deniers.
+- unit: ane-nergeresh-sb-5-return-and-union
+  checked:
+  - quran-52-tur-garden-and-challenge
+  - quran-35-originator
+  - quran-78-the-tiding
+  - quran-13-signs-of-creation
+  matches: []
+- unit: ane-ninurtamacr-sb-1-body-of-gods
+  checked:
+  - quran-7-names-and-hour
+  - quran-2-abrogation-polemic
+  - quran-2-throne-verse
+  - quran-23-lordship-arguments
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: immutable-divine-word
+    refs:
+    - NinurtaMacr SB –:16
+    with_refs:
+    - '50:29'
+    relation: echo
+    record:
+      object:
+      - your command
+      - the word
+      action:
+      - cannot be changed
+      - is not changed
+      quoted:
+      - qibītka ul innenni
+      - mā yubaddalu l-qawlu ladayya
+    note: –:16 ānu u āntu šaptāka qibītka ul i[nnenni], 'Anu and Antu are your lips, your command cannot be changed' (verb partly restored); Q 50:29 mā yubaddalu l-qawlu ladayya.
+- unit: ane-ninurtamacr-sb-2-weapons
+  checked:
+  - quran-7-sinai-theophany
+  - quran-73-enwrapped
+  - quran-59-hashr-hypocrites-and-the-names
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-ninurtasavior-sb-1-savior-of-weak
+  checked:
+  - quran-35-originator
+  - quran-13-signs-of-creation
+  - quran-22-signs-and-rites
+  matches: []
+- unit: ane-oxhorse-sb-1-flood-and-pasture
+  checked:
+  - quran-100-chargers
+  - quran-21-noah-david-solomon
+  - quran-71-noah
+  matches: []
+- unit: ane-oxhorse-sb-2-exchanges
+  checked:
+  - quran-16-blessings-of-creation
+  - quran-100-chargers
+  - quran-2-the-cow
+  - quran-6-pagan-offerings-cattle
+  matches:
+  - with: quran-16-blessings-of-creation
+    motif: beasts-for-riding-and-beasts-for-burden
+    refs:
+    - OxHorse SB –:A+5'-A+6'
+    - OxHorse SB –:B+11-B+12
+    - OxHorse SB –:C+16
+    with_refs:
+    - '16:5'
+    - 16:7-8
+    relation: parallel
+    record:
+      agent:
+      - the ox (with the donkey)
+      - the cattle
+      action:
+      - carries panniers and provisions on the road
+      - carries your loads
+      object:
+      - the horse carries kings and nobles
+      - horses mules and donkeys for riding
+      outcome:
+      - 'horse: my flesh is not eaten'
+      - 'cattle: of them you eat; horses: for riding and adornment'
+      quoted:
+      - attā u agālu tazabbilā tupšikka ... ul innakkal šīrī
+      - wa-taḥmilu athqālakum ... wa-l-khayla wa-l-bighāla wa-l-ḥamīra li-tarkabūhā wa-zīnatan
+    note: 'A+5''-6'' ela yâti ... šarru šakkanakku ēnu u rubû ul ibaʾʾū padāna, ''without me king, governor, lord and prince do not go on the road''; B+11-12 attā u agālu tazabbilā tupšikka, ''you and the donkey carry the panniers''; C+16 [ul inn]akkal šīrī, ''my flesh is not eaten'' (partly restored); Q 16:5-8 wa-l-anʿāma khalaqahā lakum ... wa-minhā taʾkulūna ... wa-taḥmilu athqālakum ... wa-l-khayla wa-l-bighāla wa-l-ḥamīra li-tarkabūhā wa-zīnatan. The same division: the horse is for riding and prestige and is not eaten; the cattle carry loads (and are eaten). One detail differs: the donkey goes with the ox under the panniers in the debate, with the horse among the mounts in the Quran.'
+- unit: ane-palmvine-sb-1-dispute
+  checked:
+  - quran-56-waqia-three-classes-and-the-garden
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-14-parables-and-satans-speech
+  - quran-16-daughters-and-the-bee
+  matches:
+  - with: quran-16-daughters-and-the-bee
+    motif: palm-and-vine-yield-drink
+    refs:
+    - PalmVine SB –:9'
+    - PalmVine SB –:14'
+    - PalmVine SB –:33'
+    - PalmVine SB –:39'
+    with_refs:
+    - 16:67
+    relation: parallel
+    record:
+      object:
+      - date palm and vine
+      - date palms and vines
+      action:
+      - give fruit and drink
+      - give intoxicant and good provision
+      quoted:
+      - inbīya ... kurunna ... anākū-ma karānu
+      - min thamarāti n-nakhīli wa-l-aʿnābi tattakhidhūna minhu sakaran wa-rizqan ḥasanan
+    note: 9' ana inbīya ṣayyahūti iriššā apâtu, 'in my luscious fruit humanity exults'; 14' kurunna napšat nišī uqāš, 'beer, life of mankind, I bestow' (the palm); 33' anākū-ma karānu ... šikar hursanni, 'I am Wine, the mountain drink'; Q 16:67 wa-min thamarāti n-nakhīli wa-l-aʿnābi tattakhidhūna minhu sakaran wa-rizqan ḥasanan. Palm and vine paired as the two sources of fruit and of intoxicating drink.
+  - with: quran-16-daughters-and-the-bee
+    motif: drink-that-heals
+    refs:
+    - PalmVine SB –:41'-45'
+    with_refs:
+    - 16:69
+    relation: divergence
+    record:
+      agent:
+      - wine
+      - honey from the bee
+      action:
+      - heals the sick
+      - contains healing
+      recipient:
+      - the sick and dying
+      - mankind
+      quoted:
+      - uballaṭ marṣa ša ubburūš liʾbu
+      - fīhi shifāʾun li-n-nāsi
+    note: '41''-45'' uballaṭ marṣa ša ubburūš liʾbu / utār-ma ultu arallê šibṭa namtara ..., ''I heal the sick whom fever afflicts and bring back the dying from the netherworld'' (Vine); Q 16:69 yakhruju min buṭūnihā sharābun mukhtalifun alwānuhu fīhi shifāʾun li-n-nāsi, two verses after the palm-and-vine intoxicant (16:67). A drink that heals: in the debate the vine claims it for wine; the Quran gives the palm and vine their sakar and assigns healing to the bee''s drink.'
