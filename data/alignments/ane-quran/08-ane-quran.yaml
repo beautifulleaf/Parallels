@@ -1,8 +1,13 @@
 # ANE x Quran side-by-side pass, chunk 8 (ETCSL 2.5.1.2 - 5.7.a, Adapa, Advice to a Prince, Angim, Anzu). Judged blind, from the originals.
 new_motifs:
+  door-that-opens-for-the-righteous-not-the-wicked: {label: A door or gate of the place of judgment does not open for the wicked and opens for the righteous, cluster: judgment}
+  the-accused-brought-in-blind: {label: The accused is led to judgment with eyes covered, or gathered blind, cluster: judgment}
+  friends-and-brothers-ignore-each-other-at-judgment: {label: At the judgment friends no longer speak to or recognise each other and brother neglects brother, cluster: judgment}
+  the-poor-at-the-harvest: {label: At the reaping, the poor and the gleaners are provided for or shut out, cluster: law}
+  prayer-at-the-harvest: {label: A prayer or glorification of God is due at the harvest, said or omitted, cluster: cult}
   works-carried-off-by-the-wind: {label: The wrongdoer's works are carried off by the wind and reckoned as nothing (a breath, ashes, dust), cluster: judgment}
   payment-to-the-judge: {label: Money or a gift passes to the judge of a case to pervert the verdict, cluster: law}
-  brothers-offerings-and-the-envy-that-follows: {label: Two brothers each bring an offering to the god, and envy of one against the other follows, cluster: law}
+  brothers-offerings-and-the-envy-that-follows: {label: Two brothers each bring an offering to the god, and envy of one against the other follows, cluster: family}
   counsel-about-the-food-of-immortality: {label: Before the offer of a food that gives (or is said to give) eternal life, an adviser tells the human whether to eat it, and names the food, cluster: afterlife}
   human-holds-fast-to-or-forgets-the-instruction: {label: A human is given an instruction about what not to eat and either holds fast to it or forgets it, cluster: creation}
   human-sent-down-from-heaven-to-earth: {label: After the episode of the forbidden or refused food, the human is ordered back down to earth, cluster: creation}
@@ -241,10 +246,65 @@ reviewed:
     matches: []
   - unit: ane-etcsl-4-28-1-a-prison-house
     checked: [quran-39-mercy-and-last-day, quran-7-paradise-hell-araf, quran-15-iblis, quran-112-114-unity-and-refuge]
-    matches: []
+    matches:
+      - with: quran-7-paradise-hell-araf
+        motif: door-that-opens-for-the-righteous-not-the-wicked
+        refs: [ETCSL 4.28.1 20, ETCSL 4.28.1 21]
+        with_refs: ['7:40']
+        relation: divergence
+        record:
+          object: [the great door of the house of judgment, the gates of heaven]
+          action: [does not open for the evildoer, are not opened for those who deny]
+          recipient: [lu2-erim2 (the evildoer), alladhīna kadhdhabū bi-āyātinā]
+          quoted: ['{ŋiš}ig-bi hur-saŋ gal lu2-erim2-ra ŋal2 nu-un-ta-da13-da13 / lu2 zid ... ŋal2 mu-un-ta-da13-da13', lā tufattaḥu lahum abwābu s-samāʾi wa-lā yadkhulūna l-jannata]
+          outcome: [it opens for the just man, they do not enter the garden]
+        note: 'The same selective door: Nungal''s door, ''a great mountain'', ''is not opened for the evildoer'' (ŋal2 nu-un-ta-da13) but ''is opened'' (ŋal2 mu-un-ta-da13) for the just man; ''the gates of heaven are not opened for them''. Direction differs: the prison door opens to let the just out; heaven''s gates open to let the righteous in.'
+      - with: quran-39-mercy-and-last-day
+        motif: door-that-opens-for-the-righteous-not-the-wicked
+        refs: [ETCSL 4.28.1 20, ETCSL 4.28.1 21]
+        with_refs: ['39:71', '39:73']
+        relation: divergence
+        record:
+          object: [the door of the house of judgment, the gates of hell and of the garden]
+          action: [opens for the just man only, are opened for each company as it arrives]
+          quoted: [lu2-erim2-ra ŋal2 nu-un-ta-da13-da13 / lu2 zid ... ŋal2 mu-un-ta-da13-da13, ḥattā idhā jāʾūhā futiḥat abwābuhā ... ḥattā idhā jāʾūhā wa-futiḥat abwābuhā]
+          outcome: [the just man goes free, the righteous enter the garden forever]
+        note: Nungal's single door divides the evildoer from the just by not opening or opening; in 39:71-73 two sets of gates both open (futiḥat), hell's for the disbelievers and the garden's for the God-fearing, with keepers (khazanatuhā) speaking to each.
   - unit: ane-etcsl-4-28-1-b-nungal-judges
-    checked: [quran-36-trumpet-and-judgment, quran-12-joseph-full, quran-15-abraham-guests-lot, quran-26-lot]
-    matches: []
+    checked: [quran-36-trumpet-and-judgment, quran-12-joseph-full, quran-15-abraham-guests-lot, quran-26-lot, quran-17-prayer-spirit-and-challenge, quran-70-ascending-stairways, quran-80-frowned]
+    matches:
+      - with: quran-17-prayer-spirit-and-challenge
+        motif: the-accused-brought-in-blind
+        refs: [ETCSL 4.28.1 44, ETCSL 4.28.1 45]
+        with_refs: ['17:97']
+        relation: echo
+        record:
+          agent: [Nungal, God]
+          action: [leads the accused in with his eyes covered, gathers the misguided blind]
+          place: [into the house of lamentation, on the day of resurrection]
+          quoted: [ŋiri3 mu-un-dab5 e2 a-nir-ra-še3 / tug2 igi-na mu-un-si, wa-naḥshuruhum yawma l-qiyāmati ʿalā wujūhihim ʿumyan wa-bukman wa-ṣummā]
+        note: 'The accused is led to judgment unable to see: the goddess ''takes his foot to the house of lamentation, covers his eyes with a cloth'' (tug2 igi-na mu-un-si); God ''gathers them on the day of resurrection on their faces, blind, dumb and deaf'' (ʿumyan). A prison ordeal in this life against the last gathering.'
+      - with: quran-70-ascending-stairways
+        motif: friends-and-brothers-ignore-each-other-at-judgment
+        refs: [ETCSL 4.28.1 47, ETCSL 4.28.1 52, ETCSL 4.28.1 53, ETCSL 4.28.1 54]
+        with_refs: ['70:10', '70:11']
+        relation: echo
+        record:
+          agent: [the accused's acquaintances, close friends]
+          action: [do not speak to him and do not recognise him, do not ask after each other though they are shown each other]
+          quoted: [lu2 zu-a-ni gu3 nu-mu-un-da-ab-be2 ... šul-e šul-zu-ne nu-mu-un-zu-zu, wa-lā yasʾalu ḥamīmun ḥamīman yubaṣṣarūnahum]
+        note: 'Those brought to judgment are cut off from those who know them: ''his acquaintance does not speak to him, stands aside''; ''the youth does not recognise his fellows''; ''man does not acknowledge man''. In 70:10-11 ''no close friend will ask after a close friend, though they are made to see them''.'
+      - with: quran-80-frowned
+        motif: friends-and-brothers-ignore-each-other-at-judgment
+        refs: [ETCSL 4.28.1 52]
+        with_refs: ['80:34', '80:35', '80:36']
+        relation: echo
+        record:
+          agent: [brother, a man]
+          action: [neglects his brother, flees from his brother]
+          recipient: [his brother, his brother, mother, father, wife and sons]
+          quoted: [šeš šeš-ra ud ha-lam mu-un-da-aŋ2-e, yawma yafirru l-marʾu min akhīhi wa-ummihi wa-abīhi wa-ṣāḥibatihi wa-banīh]
+        note: šeš šeš-ra 'brother to brother' gives a day of forgetting (ud ha-lam) in the house of judgment; 80:34 'the day a man flees from his brother'. The Quran extends it to mother, father, wife and sons.
   - unit: ane-etcsl-4-28-1-c-nungal-self-praise
     checked: [quran-17-book-of-deeds, quran-40-throne-bearers, quran-17-polemic-and-resurrection, quran-50-qaf-two-recorders-and-hell-asks-more]
     matches: []
@@ -317,7 +377,32 @@ reviewed:
     matches: []
   - unit: ane-etcsl-5-6-3-c-harvest
     checked: [quran-51-dhariyat-oaths-and-the-righteous, quran-68-qalam-companions-of-the-garden, quran-55-rahman-judgment-and-the-four-gardens, quran-80-frowned]
-    matches: []
+    matches:
+      - with: quran-68-qalam-companions-of-the-garden
+        motif: the-poor-at-the-harvest
+        refs: [ETCSL 5.6.3 79, ETCSL 5.6.3 82, ETCSL 5.6.3 83]
+        with_refs: ['68:17', '68:24']
+        relation: divergence
+        record:
+          agent: [the farmer, the owners of the garden]
+          action: [is instructed about the gleaners at the reaping, plan to reap at dawn with no poor man let in]
+          recipient: [the gleaners and the weak, the miskīn]
+          time: [at the reaping, at dawn of the reaping]
+          quoted: [lu2 še degₓ-degₓ-ga-zu ... usu di4-di4-la2-zu-ne u3 lu2 še degₓ-degₓ-ga-zu-ne ... zar-re-eš2 nu2-a-ab, la-yaṣrimunnahā muṣbiḥīna ... an lā yadkhulannahā l-yawma ʿalaykum miskīn]
+          outcome: [the weak and the gleaners lie among the sheaves, the garden is struck and left like a reaped field]
+        note: At the reaping the Sumerian father has the gleaners (lu2 še deg-deg-ga) and the weak (usu di4-di4-la2) in view and lets them lie among the sheaves (zar-re-eš2 nu2-a-ab); the owners of the garden whisper that 'no poor man shall enter it today'. The exact sense of 79-83 is uncertain (the gleaners may be warned not to damage the grain), but their presence at the harvest is clear.
+      - with: quran-68-qalam-companions-of-the-garden
+        motif: prayer-at-the-harvest
+        refs: [ETCSL 5.6.3 88, ETCSL 5.6.3 103, ETCSL 5.6.3 108]
+        with_refs: ['68:18', '68:28', '68:29']
+        relation: divergence
+        record:
+          agent: [the farmer, the owners of the garden]
+          action: [says a prayer at each stage of the harvest, omit the exception and the glorification]
+          time: [over the grain heap and before winnowing, at the planned reaping]
+          quoted: [sizkur2 še-zar-ra ud šu2-uš-e ha-ra-ab-dug4; sizkur2 še nu-nir-ra dug4-ga-ab, wa-lā yastathnūn ... a-lam aqul lakum law-lā tusabbiḥūn]
+          outcome: [the harvest is brought in, the harvest is destroyed overnight]
+        note: The farmer is told to say a prayer (sizkur2) over the grain heap, before the grain is winnowed and at evening and night; the owners of the garden swore to reap 'and made no exception' (lā yastathnūn) and are reproached 'did I not tell you, why do you not glorify (tusabbiḥūn)?' The same act at the same moment, performed against omitted.
   - unit: ane-etcsl-5-2-4-a-man-afflicted
     checked: [quran-6-poor-keys-of-unseen, quran-16-parables-and-justice, quran-3-sovereignty]
     matches: []
@@ -332,7 +417,19 @@ reviewed:
     matches: []
   - unit: ane-etcsl-5-6-6-old-man-young-girl
     checked: [quran-19-zechariah-and-john, quran-4-creation-kinship-orphans, quran-4-marriage-forbidden-degrees, quran-4-women-orphans-justice]
-    matches: []
+    matches:
+      - with: quran-19-zechariah-and-john
+        motif: old-mans-lament-lost-vigour
+        refs: [ETCSL 5.6.6 34, ETCSL 5.6.6 35, ETCSL 5.6.6 37a]
+        with_refs: ['19:4', '19:8']
+        relation: echo
+        record:
+          agent: [an old man, Zakariyyā]
+          action: [laments his old age, laments his old age]
+          recipient: [the king, his Lord]
+          quoted: [hur-saŋ gegge-ŋu10 im-babbar2 ba-an-mu2; zu2-ŋu10 niŋ2 kala-ge nu-ar3-re, wahana l-ʿaẓmu minnī wa-shtaʿala r-raʾsu shaybā; wa-qad balaghtu mina l-kibari ʿitiyyā]
+          outcome: [the king grants the young wife release, God promises a son]
+        note: 'An old man''s lament in images of the head turned white and the body failing: ''my black mountain has grown white gypsum'', ''my teeth no longer grind hard things'', ''my youth ran off like a runaway donkey'' against ''the bone has weakened in me and the head is ablaze with grey''. Both turn on begetting: the Sumerian old man has married a young girl, Zakariyyā asks for an heir from a barren wife.'
   - unit: ane-etcsl-5-7-a-lost-seal
     checked: [quran-100-chargers, quran-74-cloaked, quran-21-heedless-and-doomed-towns]
     matches: []

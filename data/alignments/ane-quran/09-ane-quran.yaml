@@ -1,279 +1,828 @@
 # ANE x Quran side-by-side pass, chunk 9 (Anzu, Atra-hasis, Bit meseri, Catalogue of Texts and Authors, Counsels of Wisdom, Dialogue of Pessimism, Enuma elish, Elevation of Babylon, Erra I, Etana). Judged blind, from the originals.
-new_motifs: {}
+new_motifs:
+  burden-borne-by-humankind:
+    label: A burden that higher beings refuse or throw off is laid on, or taken up by, humankind
+    cluster: creation
+  divine-element-in-the-first-human:
+    label: 'What divine element is put into the clay of the first human: a slain god''s flesh, blood and spirit, or God''s breath'
+    cluster: creation
+  obeisance-at-the-making-of-man:
+    label: 'Heavenly beings do obeisance when the first human has been made: to the maker or to the man'
+    cluster: creation
+  number-of-the-first-humans:
+    label: 'How many first humans are made: seven pairs, or one soul and its mate'
+    cluster: creation
+  the-two-waters-meet:
+    label: Two waters, the sweet and the salt sea, meet or mingle
+    cluster: nature
+  one-mass-split-into-heaven-and-earth:
+    label: Heaven (and earth) made by splitting one primeval mass or body in two
+    cluster: creation
+  guards-posted-in-the-sky:
+    label: 'Watchmen or guards are posted in the sky at its making: what they keep in or out'
+    cluster: creation
+  defeated-foe-kept-as-a-sign-for-later-times:
+    label: The defeated foe (its image or its body) is kept as a sign (ittu / aya) for those who come after
+    cluster: kingship
+  whatever-name-is-called-the-one-god-answers:
+    label: 'Whatever name is pronounced, it belongs to the one god: ''he is our god'' / ''his are the beautiful names'''
+    cluster: deity
+  human-made-from-congealed-blood-and-bones:
+    label: Man is made from compacted (clotted) blood and then bones
+    cluster: creation
+  rebel-s-string-of-i-will-vows:
+    label: A rebel against the high god vows, in a string of first-person 'I will' clauses, to take and to command
+    cluster: deity
+  ancient-sage-raised-to-heaven:
+    label: One of a list of ancient sages or prophets ascends, or is raised, to heaven or a high place
+    cluster: prophecy
+  divine-beings-at-a-man-s-right-and-left:
+    label: Divine beings are stationed at a man's right and at his left
+    cluster: deity
+  number-of-the-heavens:
+    label: How many heavens there are
+    cluster: creation
+  looking-at-ancient-ruins:
+    label: 'Go up on (travel through) the ruins of the ancients and look: what the sight teaches'
+    cluster: wisdom
+  one-grain-given-returns-manifold:
+    label: A single grain given (to the god, in God's way) returns many times over
+    cluster: wisdom
+  sky-split-and-stars-displaced:
+    label: The seams of heaven come apart, the stars leave their places and the waters break out
+    cluster: eschatology
+  tree-rooted-below-reaching-heaven:
+    label: A tree whose root reaches deep down and whose top reaches heaven
+    cluster: nature
 reviewed:
-  - unit: ane-anzu-na-b-victory
-    checked: [quran-3-badr-uhud, quran-3-sovereignty, quran-2-throne-verse]
-    matches: []
-  - unit: ane-anzu-ob-ii-a-crisis
-    checked: [quran-38-patriarchs-and-fates, quran-37-ranks-and-guarded-heaven, quran-11-opening-throne-on-water, quran-2-throne-verse]
-    matches: []
-  - unit: ane-anzu-ob-ii-b-ningirsu-commissioned
-    checked: [quran-8-badr-help, quran-25-signs-shadow-seas, quran-17-polemic-and-resurrection]
-    matches: []
-  - unit: ane-anzu-ob-iii-combat
-    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-8-badr-help]
-    matches: []
-  - unit: ane-anzu-sb-1-prologue
-    checked: [quran-9-bargain-abraham, quran-9-closing, quran-23-lordship-arguments]
-    matches: []
-  - unit: ane-anzu-sb-1-anzu-born
-    checked: [quran-13-signs-of-creation, quran-79-pharaoh-and-cosmos, quran-35-originator]
-    matches: []
-  - unit: ane-anzu-sb-1-theft
-    checked: [quran-7-adam-iblis, quran-38-adam-iblis, quran-3-sovereignty, quran-20-moses-pharaoh-magicians]
-    matches: []
-  - unit: ane-anzu-sb-1-gods-refuse
-    checked: [quran-17-polemic-and-resurrection, quran-23-lordship-arguments, quran-15-prologue-and-heavens]
-    matches: []
-  - unit: ane-anzu-sb-1-ea-chooses-ninurta
-    checked: [quran-53-najm-goddesses-and-scrolls, quran-17-polemic-and-resurrection, quran-57-hadid-first-and-last-and-the-loan]
-    matches: []
-  - unit: ane-anzu-sb-2-mothers-orders
-    checked: [quran-8-badr-help, quran-25-signs-shadow-seas, quran-13-signs-of-creation]
-    matches: []
-  - unit: ane-anzu-sb-2-first-battle
-    checked: [quran-8-badr-help, quran-4-fighting-and-death, quran-33-trench]
-    matches: []
-  - unit: ane-anzu-sb-2-ea-advice
-    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-17-prayer-spirit-and-challenge]
-    matches: []
-  - unit: ane-anzu-sb-3-anzu-slain
-    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-27-is-there-a-god-with-god]
-    matches: []
-  - unit: ane-anzu-sb-3-birdu-mission
-    checked: [quran-9-closing, quran-40-throne-bearers, quran-17-prayer-spirit-and-challenge]
-    matches: []
-  - unit: ane-anzu-sb-3-names-of-ninurta
-    checked: [quran-7-names-and-hour, quran-2-throne-verse, quran-17-polemic-and-resurrection, quran-23-lordship-arguments]
-    matches: []
-  - unit: ane-atr-ob-1-gods-labor
-    checked: [quran-21-against-other-gods, quran-16-blessings-of-creation, quran-23-lordship-arguments]
-    matches: []
-  - unit: ane-atr-ob-1-strike
-    checked: [quran-2-throne-verse, quran-17-polemic-and-resurrection, quran-21-against-other-gods]
-    matches: []
-  - unit: ane-atr-ob-1-debate
-    checked: [quran-22-signs-and-rites, quran-2-throne-verse, quran-53-najm-goddesses-and-scrolls]
-    matches: []
-  - unit: ane-atr-ob-1-creation-of-man
-    checked: [quran-15-iblis, quran-51-dhariyat-flee-to-god, quran-71-noah, quran-7-adam-iblis]
-    matches: []
-  - unit: ane-atr-ob-1-birth-and-marriage
-    checked: [quran-23-creation-of-man-and-gifts, quran-49-hujurat-etiquette-and-brotherhood, quran-42-shura-revelation-one-religion, quran-39-pure-religion]
-    matches: []
-  - unit: ane-atr-mb-bab2-strike
-    checked: [quran-11-pharaoh-leads, quran-16-deniers-and-angels-of-death, quran-59-hashr-banu-nadir-and-fay]
-    matches: []
-  - unit: ane-atr-mb-priv-boat
-    checked: [quran-11-noah, quran-23-noah, quran-54-qamar-moon-split-and-noah, quran-71-noah]
-    matches: []
-  - unit: ane-atr-mb-ug2-birds
-    checked: [quran-54-qamar-moon-split-and-noah, quran-7-creation-signs, quran-24-light-verse]
-    matches: []
-  - unit: ane-atr-sb-1-gods-labor
-    checked: [quran-21-against-other-gods, quran-16-blessings-of-creation, quran-23-lordship-arguments]
-    matches: []
-  - unit: ane-atr-sb-1-strike
-    checked: [quran-79-pharaoh-and-cosmos, quran-2-throne-verse, quran-43-zukhruf-jesus-and-paradise]
-    matches: []
-  - unit: ane-atr-sb-2-debate
-    checked: [quran-10-ingratitude-sea, quran-71-noah, quran-25-destroyed-peoples]
-    matches: []
-  - unit: ane-atr-sb-2-creation
-    checked: [quran-15-iblis, quran-23-creation-of-man-and-gifts, quran-32-sajda, quran-50-qaf-two-recorders-and-hell-asks-more]
-    matches: []
-  - unit: ane-atr-sb-3-birth
-    checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-49-hujurat-etiquette-and-brotherhood, quran-42-shura-revelation-one-religion]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-marduk-prayer
-    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-3-sovereignty]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-lugalirra-summoned
-    checked: [quran-67-mulk-heavens-lamps-and-hell, quran-81-folding-up, quran-77-sent-forth, quran-82-cleaving]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-lugalirra-house
-    checked: [quran-37-ranks-and-guarded-heaven, quran-74-cloaked, quran-54-qamar-ad-thamud-lot-pharaoh]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-standards-and-figures
-    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-40-throne-bearers]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-sebettu-and-sages
-    checked: [quran-19-prophets-remembered, quran-7-towns-pattern, quran-11-hud, quran-71-noah]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-clay-man-and-woman
-    checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-23-creation-of-man-and-gifts, quran-16-blessings-of-creation]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-watchmen-and-dogs
-    checked: [quran-18-companions-of-the-cave, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-goat-substitute
-    checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-2-the-cow, quran-6-pagan-offerings-cattle]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-nuska-lamp
-    checked: [quran-24-light-verse, quran-6-poor-keys-of-unseen, quran-2-throne-verse]
-    matches: []
-  - unit: ane-bitmeseri-sb-it-dismissal-of-death
-    checked: [quran-35-heirs-of-book, quran-35-originator, quran-3-sovereignty]
-    matches: []
-  - unit: ane-bitmeseri-sb-fi-figurine-list
-    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-78-the-tiding]
-    matches: []
-  - unit: ane-bitmeseri-sb-rta-ritual
-    checked: [quran-7-single-soul-idols, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree]
-    matches: []
-  - unit: ane-catauth-na-catalogue
-    checked: [quran-25-furqan-and-objections, quran-53-najm-vision-and-lote-tree, quran-13-messengers-and-mother-of-book, quran-69-haqqa-books-in-right-and-left-hands]
-    matches: []
-  - unit: ane-catauth-nb-catalogue
-    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-25-furqan-and-objections, quran-2-four-birds]
-    matches: []
-  - unit: ane-counswis-sb-father-counsels
-    checked: [quran-41-steadfast-and-repel-evil, quran-23-death-barzakh-judgment, quran-13-covenant-and-paradise, quran-6-commandments]
-    matches: []
-  - unit: ane-counswis-sb-charity-and-women
-    checked: [quran-76-the-human, quran-90-city, quran-24-privacy-modesty-marriage, quran-4-marriage-forbidden-degrees]
-    matches: []
-  - unit: ane-counswis-sb-steward-and-office
-    checked: [quran-4-wealth-household, quran-4-kindness-misers-atom, quran-25-servants-of-the-merciful]
-    matches: []
-  - unit: ane-counswis-sb-speech-and-piety
-    checked: [quran-17-commandments, quran-5-contracts-food-laws, quran-49-hujurat-etiquette-and-brotherhood, quran-41-steadfast-and-repel-evil]
-    matches: []
-  - unit: ane-dialpess-sb-palace-dine-hunt-house
-    checked: [quran-5-ablution-covenant-justice, quran-29-emigrate-and-trust, quran-2-charity, quran-18-two-gardens]
-    matches: []
-  - unit: ane-dialpess-sb-silence-crime-love
-    checked: [quran-37-hell-and-garden, quran-4-creation-kinship-orphans, quran-7-adam-iblis]
-    matches: []
-  - unit: ane-dialpess-sb-sacrifice-loans-good-deed
-    checked: [quran-2-thousands-revived, quran-30-signs, quran-2-usury, quran-42-shura-signs-and-ethics]
-    matches: []
-  - unit: ane-dialpess-sb-what-is-good
-    checked: [quran-17-commandments, quran-29-emigrate-and-trust, quran-23-death-barzakh-judgment, quran-50-qaf-two-recorders-and-hell-asks-more]
-    matches: []
-  - unit: ane-ee-sb-1-theogony
-    checked: [quran-21-cosmic-signs-and-scales, quran-11-opening-throne-on-water, quran-35-originator, quran-31-signs-and-unseen]
-    matches: []
-  - unit: ane-ee-sb-1-apsu-slain
-    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-35-originator, quran-71-noah]
-    matches: []
-  - unit: ane-ee-sb-1-marduk-born
-    checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-37-sacrifice-of-son, quran-19-zechariah-and-john, quran-27-is-there-a-god-with-god]
-    matches: []
-  - unit: ane-ee-sb-1-tiamat-musters
-    checked: [quran-12-joseph-full, quran-35-originator, quran-11-opening-throne-on-water, quran-17-polemic-and-resurrection]
-    matches: []
-  - unit: ane-ee-sb-2-ea-reports
-    checked: [quran-40-throne-bearers, quran-11-opening-throne-on-water, quran-85-constellations]
-    matches: []
-  - unit: ane-ee-sb-2-ea-anu-fail
-    checked: [quran-17-polemic-and-resurrection, quran-3-badr-uhud, quran-16-parables-and-justice]
-    matches: []
-  - unit: ane-ee-sb-2-marduk-volunteers
-    checked: [quran-8-badr-help, quran-3-badr-uhud, quran-3-sovereignty]
-    matches: []
-  - unit: ane-ee-sb-3-kakka-sent
-    checked: [quran-74-cloaked, quran-19-zechariah-and-john, quran-8-fifth-and-badr-vision]
-    matches: []
-  - unit: ane-ee-sb-3-gods-feast
-    checked: [quran-5-jesus-miracles-table, quran-6-deliverance-trumpet, quran-2-throne-verse]
-    matches: []
-  - unit: ane-ee-sb-4-enthronement
-    checked: [quran-36-bones-and-be, quran-6-deliverance-trumpet, quran-2-abrogation-polemic, quran-2-throne-verse]
-    matches: []
-  - unit: ane-ee-sb-4-arming
-    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-35-originator]
-    matches: []
-  - unit: ane-ee-sb-4-battle
-    checked: [quran-19-mary-and-jesus, quran-17-iblis-and-adam, quran-40-throne-bearers, quran-9-closing]
-    matches: []
-  - unit: ane-ee-sb-4-cosmos-from-carcass
-    checked: [quran-21-cosmic-signs-and-scales, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree]
-    matches: []
-  - unit: ane-ee-sb-5-astral-order
-    checked: [quran-6-signs-in-nature, quran-10-opening-creation, quran-36-cosmic-signs, quran-9-months-nasi]
-    matches: []
-  - unit: ane-ee-sb-5-cosmos-from-body
-    checked: [quran-54-qamar-moon-split-and-noah, quran-47-muhammad-battle-and-rivers, quran-35-originator, quran-25-signs-shadow-seas]
-    matches: []
-  - unit: ane-ee-sb-5-homage
-    checked: [quran-3-badr-uhud, quran-8-badr-help, quran-9-closing]
-    matches: []
-  - unit: ane-ee-sb-5-babylon-founded
-    checked: [quran-2-throne-verse, quran-15-prologue-and-heavens, quran-57-hadid-first-and-last-and-the-loan]
-    matches: []
-  - unit: ane-ee-sb-6-humans-created
-    checked: [quran-2-adam-iblis, quran-96-clot, quran-23-creation-of-man-and-gifts, quran-6-deliverance-trumpet]
-    matches: []
-  - unit: ane-ee-sb-6-babylon-built
-    checked: [quran-2-throne-verse, quran-15-prologue-and-heavens, quran-22-abraham-house-pilgrimage]
-    matches: []
-  - unit: ane-ee-sb-6-bow-oath-kingship
-    checked: [quran-17-moses-nine-signs-and-close, quran-7-names-and-hour, quran-23-lordship-arguments, quran-27-is-there-a-god-with-god]
-    matches: []
-  - unit: ane-ee-sb-6-names-1-9
-    checked: [quran-59-hashr-hypocrites-and-the-names, quran-66-tahrim-wives-and-the-four-women, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-5-jesus-miracles-table]
-    matches: []
-  - unit: ane-ee-sb-7-names-10-23
-    checked: [quran-67-mulk-heavens-lamps-and-hell, quran-30-winds-and-rain, quran-6-signs-in-nature, quran-35-originator]
-    matches: []
-  - unit: ane-ee-sb-7-names-24-50
-    checked: [quran-31-signs-and-unseen, quran-26-moses-and-pharaoh, quran-2-exodus-calf, quran-13-signs-of-creation]
-    matches: []
-  - unit: ane-ee-sb-7-epilogue
-    checked: [quran-31-luqman, quran-2-abrogation-polemic, quran-4-prophets-and-trinity]
-    matches: []
-  - unit: ane-elevbab-sb-hymn-marduk
-    checked: [quran-11-opening-throne-on-water, quran-27-is-there-a-god-with-god, quran-35-originator, quran-3-sovereignty]
-    matches: []
-  - unit: ane-elevbab-sb-blessing-esagil-eridu
-    checked: [quran-39-mercy-and-last-day, quran-25-signs-shadow-seas, quran-78-the-tiding]
-    matches: []
-  - unit: ane-elevbab-sb-city-and-citizens
-    checked: [quran-47-muhammad-battle-and-rivers, quran-2-call-to-worship, quran-11-noah, quran-7-wilderness-entry]
-    matches: []
-  - unit: ane-erra-sb-1-invocation
-    checked: [quran-74-cloaked, quran-37-ranks-and-guarded-heaven, quran-3-badr-uhud]
-    matches: []
-  - unit: ane-erra-sb-1-seven-born
-    checked: [quran-69-haqqa-destroyed-peoples-and-the-throne, quran-71-noah, quran-91-sun, quran-16-blessings-of-creation]
-    matches: []
-  - unit: ane-erra-sb-1-seven-urge-war
-    checked: [quran-59-hashr-banu-nadir-and-fay, quran-10-rain-parable-idols-disown, quran-11-salih]
-    matches: []
-  - unit: ane-erra-sb-1-erra-resolves
-    checked: [quran-20-moses-call, quran-3-badr-uhud, quran-9-closing, quran-28-destroyed-towns-and-judgment]
-    matches: []
-  - unit: ane-erra-sb-1-marduk-flood
-    checked: [quran-11-noah, quran-2-harut-marut, quran-54-qamar-moon-split-and-noah, quran-71-noah]
-    matches: []
-  - unit: ane-erra-sb-1-erra-takes-over
-    checked: [quran-82-cleaving, quran-77-sent-forth, quran-35-originator, quran-13-signs-of-creation]
-    matches: []
-  - unit: ane-etana-ma-assur-oath-and-friendship
-    checked: [quran-7-adam-iblis, quran-16-parables-and-justice, quran-20-adam-iblis]
-    matches: []
-  - unit: ane-etana-ma-assur-eagle-seized
-    checked: [quran-41-steadfast-and-repel-evil, quran-7-adam-iblis, quran-18-moses-and-the-servant]
-    matches: []
-  - unit: ane-etana-ma-assur-dream-and-pit
-    checked: [quran-12-joseph-full, quran-19-zechariah-and-john, quran-3-imran-mary-zechariah, quran-93-94-forenoon-and-expansion]
-    matches: []
-  - unit: ane-etana-ma-assur-dreams-and-ascent
-    checked: [quran-17-prayer-spirit-and-challenge, quran-53-najm-vision-and-lote-tree, quran-12-joseph-full, quran-81-folding-up]
-    matches: []
-  - unit: ane-etana-ob-morgan-kingship
-    checked: [quran-2-talut-jalut, quran-3-sovereignty, quran-81-folding-up, quran-35-originator]
-    matches: []
-  - unit: ane-etana-ob-morgan-eagle-pit
-    checked: [quran-52-tur-garden-and-challenge, quran-12-joseph-full, quran-4-fighting-and-death]
-    matches: []
-  - unit: ane-etana-ob-susa-oath-betrayal
-    checked: [quran-16-parables-and-justice, quran-31-luqman, quran-41-steadfast-and-repel-evil]
-    matches: []
-  - unit: ane-etana-sb-1-kish-founded
-    checked: [quran-16-blessings-of-creation, quran-3-sovereignty, quran-13-signs-of-creation]
-    matches: []
-  - unit: ane-etana-sb-2-friendship-betrayal
-    checked: [quran-16-parables-and-justice, quran-13-covenant-and-paradise, quran-7-adam-iblis]
-    matches: []
+- unit: ane-anzu-na-b-victory
+  checked: [quran-3-badr-uhud, quran-3-sovereignty, quran-2-throne-verse]
+  matches: []
+- unit: ane-anzu-ob-ii-a-crisis
+  checked: [quran-38-patriarchs-and-fates, quran-37-ranks-and-guarded-heaven, quran-11-opening-throne-on-water, quran-2-throne-verse]
+  matches: []
+- unit: ane-anzu-ob-ii-b-ningirsu-commissioned
+  checked: [quran-8-badr-help, quran-25-signs-shadow-seas, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-anzu-ob-iii-combat
+  checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-8-badr-help]
+  matches: []
+- unit: ane-anzu-sb-1-prologue
+  checked: [quran-9-bargain-abraham, quran-9-closing, quran-23-lordship-arguments]
+  matches: []
+- unit: ane-anzu-sb-1-anzu-born
+  checked: [quran-13-signs-of-creation, quran-79-pharaoh-and-cosmos, quran-35-originator]
+  matches: []
+- unit: ane-anzu-sb-1-theft
+  checked: [quran-7-adam-iblis, quran-38-adam-iblis, quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-4-satan-vows-share]
+  matches:
+  - with: quran-4-satan-vows-share
+    motif: rebel-s-string-of-i-will-vows
+    refs: ['Anzu SB I:b+69-b+72']
+    with_refs: ['4:118', '4:119']
+    relation: divergence
+    record:
+      agent: [Anzu, Satan]
+      action: ['vows: I will take, I will command', 'vows: I will take, I will command']
+      object: [the tablet of destinies and the throne, an appointed share of God's servants]
+      recipient: [all the Igigi gods, God's servants]
+      quoted: [lulqē-ma ... luhmum ... lugmur-ma kussâ lubēl parṣī lumaʾʾir kullat igīgī, la-attakhidhanna ... wa-la-uḍillannahum wa-la-umanniyannahum wa-la-āmurannahum]
+    note: 'b+69-72 lulqē-ma tuppi šīmāti ... luhmum ... lugmur-ma kussâ lubēl parṣī / lumaʾʾir kullat kalîšunu igīgī, ''let me take the tablet ... I will appropriate ... have the throne, take power ... give orders to every Igigi''; Q 4:118-119 the cursed Satan: la-attakhidhanna min ʿibādika naṣīban mafrūḍan wa-la-uḍillannahum wa-la-umanniyannahum wa-la-āmurannahum (''I will take ... mislead ... arouse desire ... command them''). Same run of ''I will take ... I will command'', but the rebel against God aims at humans, not at the throne (cf. 7:16-17).'
+- unit: ane-anzu-sb-1-gods-refuse
+  checked: [quran-17-polemic-and-resurrection, quran-23-lordship-arguments, quran-15-prologue-and-heavens, quran-33-hour-and-trust]
+  matches: []
+- unit: ane-anzu-sb-1-ea-chooses-ninurta
+  checked: [quran-53-najm-goddesses-and-scrolls, quran-17-polemic-and-resurrection, quran-57-hadid-first-and-last-and-the-loan]
+  matches: []
+- unit: ane-anzu-sb-2-mothers-orders
+  checked: [quran-8-badr-help, quran-25-signs-shadow-seas, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-anzu-sb-2-first-battle
+  checked: [quran-8-badr-help, quran-4-fighting-and-death, quran-33-trench]
+  matches: []
+- unit: ane-anzu-sb-2-ea-advice
+  checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-17-prayer-spirit-and-challenge]
+  matches: []
+- unit: ane-anzu-sb-3-anzu-slain
+  checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-27-is-there-a-god-with-god]
+  matches: []
+- unit: ane-anzu-sb-3-birdu-mission
+  checked: [quran-9-closing, quran-40-throne-bearers, quran-17-prayer-spirit-and-challenge]
+  matches: []
+- unit: ane-anzu-sb-3-names-of-ninurta
+  checked: [quran-7-names-and-hour, quran-2-throne-verse, quran-17-polemic-and-resurrection, quran-23-lordship-arguments]
+  matches: []
+- unit: ane-atr-ob-1-gods-labor
+  checked: [quran-21-against-other-gods, quran-16-blessings-of-creation, quran-23-lordship-arguments, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: creation-toil-and-weariness
+    refs: ['Atr OB I:1-4']
+    with_refs: ['50:38']
+    relation: response
+    record:
+      agent: [the gods, God]
+      action: [bear the labour of making the world, created heavens and earth in six days]
+      outcome: [the labour is heavy and the misery too much, no weariness touched him]
+      quoted: [dullum kabit mād šapšāqum, wa-mā massanā min lughūbin]
+    note: I:1-4 inūma ilū awīlum ublū dullam izbilū šupšikkam ... dullum kabit mād šapšāqum ('when the gods were man they bore the labour ... the labour was heavy, the misery too much'), then forty years of digging the rivers (I:37); Q 50:38 created the heavens and the earth in six days wa-mā massanā min lughūbin, 'and no weariness touched us'.
+- unit: ane-atr-ob-1-strike
+  checked: [quran-2-throne-verse, quran-17-polemic-and-resurrection, quran-21-against-other-gods]
+  matches:
+  - with: quran-2-throne-verse
+    motif: creator-asleep
+    refs: ['Atr OB I:70-79']
+    with_refs: ['2:255']
+    relation: response
+    record:
+      agent: [Enlil, God]
+      action: [sleeps in bed and does not know, is seized by neither slumber nor sleep]
+      outcome: [woken by his vizier when his house is surrounded, knows what is before and behind them]
+      quoted: [ēkur lawi ellil ul īde ... nusku iddeki bēlšu ina mayyāli ušetbīšu, lā taʾkhudhuhu sinatun wa-lā nawmun ... yaʿlamu mā bayna aydīhim wa-mā khalfahum]
+    note: 'I:70-79: at midnight Ekur is surrounded wa-ellil ul īde, ''and Enlil did not know''; Kalkal wakes Nusku, Nusku wakes his lord and gets him out of bed (ina mayyāli ušetbīšu). Q 2:255 lā taʾkhudhuhu sinatun wa-lā nawmun ... yaʿlamu mā bayna aydīhim wa-mā khalfahum: the high god who sleeps and does not know against the God whom no sleep takes and who knows.'
+- unit: ane-atr-ob-1-debate
+  checked: [quran-22-signs-and-rites, quran-2-throne-verse, quran-53-najm-goddesses-and-scrolls]
+  matches: []
+- unit: ane-atr-ob-1-creation-of-man
+  checked: [quran-15-iblis, quran-51-dhariyat-flee-to-god, quran-71-noah, quran-7-adam-iblis, quran-33-hour-and-trust, quran-2-adam-iblis]
+  matches:
+  - with: quran-51-dhariyat-flee-to-god
+    motif: why-humans-were-created
+    refs: ['Atr OB I:190-193', 'Atr OB I:236-237']
+    with_refs: ['51:56', '51:57']
+    relation: divergence
+    record:
+      agent: [the birth goddess, God]
+      action: [creates man, created jinn and humans]
+      outcome: [man bears the gods' yoke and drudgery, they worship; God wants no provision nor to be fed]
+      quoted: [abšānam libil šipir ellil šupšik ilim awīlum lišši, illā li-yaʿbudūni mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūni]
+    note: 'I:190-193 binî-ma lullâ libil abšānam ... šupšik ilim awīlum lišši (''create a human, let him bear the yoke ... let man carry the drudgery of god''); I:237 šupšikkakunu awīlam ēmid. Q 51:56-57 wa-mā khalaqtu l-jinna wa-l-insa illā li-yaʿbudūni / mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūni: service is kept (ʿ-b-d) but the work of supplying and feeding the deity is expressly denied.'
+  - with: quran-15-iblis
+    motif: divine-element-in-the-first-human
+    refs: ['Atr OB I:206-213']
+    with_refs: ['15:28', '15:29']
+    relation: divergence
+    record:
+      agent: [Nintu, God]
+      action: [mixes clay, shapes man from clay]
+      object: [clay, clay of black mud]
+      instrument: [the flesh and blood of a slain god, God's own spirit breathed in]
+      quoted: [ina šīrīšu u dāmīšu nintu liballil ṭiṭṭam ... ina šīr ilim eṭemmum libši, ṣalṣālin min ḥamaʾin masnūnin ... wa-nafakhtu fīhi min rūḥī]
+    note: 'I:206-211: with the flesh and blood of the slaughtered god Nintu mixes the clay, god and man are mixed in it, and ''from the flesh of the god let a spirit (eṭemmu) remain''; Q 15:28-29 man from ṣalṣālin min ḥamaʾin masnūnin, then fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī: clay plus something divine in both, but a slain god''s flesh against God''s breath.'
+  - with: quran-33-hour-and-trust
+    motif: burden-borne-by-humankind
+    refs: ['Atr OB I:190-193', 'Atr OB I:236-237']
+    with_refs: ['33:72']
+    relation: divergence
+    record:
+      agent: [the gods, 'the heavens, the earth and the mountains']
+      action: [throw off their labour, refuse to bear the trust]
+      object: [the yoke and drudgery, the trust]
+      recipient: [man, man]
+      quoted: [abšānam libil ... awīlum lišši, fa-abayna an yaḥmilnahā ... wa-ḥamalahā l-insānu]
+    note: 'In Atra-hasis the Igigi refuse their labour (I:39-69) and man is made to bear it: libil abšānam ... awīlum lišši, ''let him bear the yoke ... let man carry'' (I:190-193), ''I have imposed your drudgery on man'' (I:237). Q 33:72 the trust is offered to heavens, earth and mountains, fa-abayna an yaḥmilnahā wa-ashfaqna minhā wa-ḥamalahā l-insānu: refused by the higher beings, carried (ḥ-m-l / wabālu, našû) by man; here man takes it up, there it is imposed.'
+  - with: quran-2-adam-iblis
+    motif: heavenly-beings-and-the-making-of-man
+    refs: ['Atr OB I:189-193', 'Atr OB I:214', 'Atr OB I:215–216']
+    with_refs: ['2:30']
+    relation: divergence
+    record:
+      agent: [the gods in assembly, God]
+      action: [propose the making of man, announces a vicegerent on earth]
+      recipient: [the birth goddess, the angels]
+      outcome: [the Anunna answer 'yes', the angels object]
+      quoted: [binî-ma lullâ ... ina puhri īpulū annam, innī jāʿilun fī l-arḍi khalīfatan qālū a-tajʿalu fīhā man yufsidu fīhā]
+    note: 'I:189-193 the gods ask the birth goddess ''create a human, let him bear the yoke''; I:214-216 the great Anunna answer annam, ''yes'', in the assembly. Q 2:30 God announces innī jāʿilun fī l-arḍi khalīfatan and the angels object a-tajʿalu fīhā man yufsidu fīhā wa-yasfiku d-dimāʾ: in both the making of man is put before the heavenly assembly; assent against objection, and a substitute labourer against a khalīfa.'
+- unit: ane-atr-ob-1-birth-and-marriage
+  checked: [quran-23-creation-of-man-and-gifts, quran-49-hujurat-etiquette-and-brotherhood, quran-42-shura-revelation-one-religion, quran-39-pure-religion, quran-38-adam-iblis, quran-15-iblis]
+  matches:
+  - with: quran-38-adam-iblis
+    motif: creator-boasts-my-hands-made-it
+    refs: ['Atr OB I:289']
+    with_refs: ['38:75']
+    relation: echo
+    record:
+      agent: [the birth goddess, God]
+      action: [made man with her hands, created man with his two hands]
+      quoted: [anākū-mi abni īpušā qātāya, li-mā khalaqtu bi-yadayya]
+    note: I:289 anākū-mi abni īpušā qātāya, 'I am the one who created, my hands have made it' (the birth goddess over the first birth); Q 38:75 mā manaʿaka an tasjuda li-mā khalaqtu bi-yadayya, 'what I created with my two hands' (of Adam). The maker's hands are named in the making of man on both sides.
+  - with: quran-15-iblis
+    motif: obeisance-at-the-making-of-man
+    refs: ['Atr OB I:240-241']
+    with_refs: ['15:29', '15:30']
+    relation: divergence
+    record:
+      agent: [the gods, the angels]
+      action: [run and kiss her feet, fall prostrate]
+      recipient: [the birth goddess who made man, the man made]
+      quoted: [iddarrū-ma unaššiqū šēpīša, fa-qaʿū lahu sājidīna ... fa-sajada l-malāʾikatu kulluhum]
+    note: 'Once Mami reports the man made (I:233-239) the gods iddarrū-ma unaššiqū šēpīša, ''ran and kissed her feet'' (I:241); Q 15:29-30 when God has shaped man and breathed his spirit in, the angels are told fa-qaʿū lahu sājidīna and fa-sajada l-malāʾikatu kulluhum: the obeisance at the making of man goes to the maker in one text and to the man in the other.'
+- unit: ane-atr-mb-bab2-strike
+  checked: [quran-11-pharaoh-leads, quran-16-deniers-and-angels-of-death, quran-59-hashr-banu-nadir-and-fay]
+  matches: []
+- unit: ane-atr-mb-priv-boat
+  checked: [quran-11-noah, quran-23-noah, quran-54-qamar-moon-split-and-noah, quran-71-noah]
+  matches:
+  - with: quran-11-noah
+    motif: animals-in-pairs
+    refs: ['Atr MB Priv:51-52']
+    with_refs: ['11:40']
+    relation: parallel
+    record:
+      agent: [Atra-hasis, Nuh]
+      action: [takes animals into the boat two by two, takes animals into the ship two by two]
+      object: [wild animals of the steppe, of every kind]
+      number: [2, 2]
+      quoted: [nammaštûm ina ṣērim šanâ eleppam, min kullin zawjayni thnayni]
+    note: Priv:51-52 u nammaštûm ina ṣērim šanâ eleppam ('wild animals of the steppe, two by two, into the boat'); Q 11:40 iḥmil fīhā min kullin zawjayni thnayni ('load in it two of every kind, a pair'). The Atra-hasis text has the pairs, which the Gilgamesh flood tablet does not.
+  - with: quran-11-noah
+    motif: family-saved
+    refs: ['Atr MB Priv:35-37']
+    with_refs: ['11:40']
+    relation: parallel
+    record:
+      agent: [Atra-hasis, Nuh]
+      action: [brings his family into the boat, takes his family into the ship]
+      object: ['kith and kin, in-laws, pregnant women', 'his family, except the one decreed']
+      quoted: [ana eleppim īrubū ... emūtim, wa-ahlaka illā man sabaqa ʿalayhi l-qawl]
+    note: 'Priv:35-37 kith and kin, in-laws (emūtim) and the pregnant enter the boat; Q 11:40 wa-ahlaka illā man sabaqa ʿalayhi l-qawlu: the Quran excepts one of the family (the son of 11:42-43) and adds ''whoever believed''.'
+  - with: quran-54-qamar-moon-split-and-noah
+    motif: vessel-of-planks-and-fastenings
+    refs: ['Atr MB Priv:6–7', 'Atr MB Priv:8-9', 'Atr MB Priv:13-20']
+    with_refs: ['54:13']
+    relation: divergence
+    record:
+      object: [the boat, the ship]
+      instrument: ['thirty ribs, 3,600 pillars, bitumen', planks and fastenings]
+      number: ['30 ribs, 3,600 pillars, 60 kor of bitumen', null]
+      quoted: [eṣerti kippātim ... šalāšā ṣēlī ... ištēn šūši iṭṭâm, dhāti alwāḥin wa-dusurin]
+    note: 'Atra-hasis is told to draw the boat on a circular plan (eṣerti kippātim, length equal to breadth), sets 30 ribs and 3,600 pillars and caulks it with 60 kor of bitumen inside and out (Priv:6-20); Q 54:13 names the ark only as dhāti alwāḥin wa-dusurin, ''the one of planks and fastenings (fibres/nails)'': no plan, no dimensions, no pitch.'
+  - with: quran-71-noah
+    motif: stance-on-the-decreed-destruction
+    refs: ['Atr MB Priv:49-50']
+    with_refs: ['71:26']
+    relation: divergence
+    record:
+      agent: [Enlil, Nuh]
+      action: [swears total annihilation, prays that none be left]
+      object: [the people, the unbelievers on earth]
+      place: [from his throne, null]
+      quoted: ['ellil ina kussî [ittam]e gamartam u armūtam', rabbi lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyāran]
+    note: 'Priv:49-50 Enlil on his throne takes an oath of ''annihilation and desolation'' (gamartam u armūtam; verb restored); Q 71:26 it is the flood hero himself who asks: rabbi lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyāran, ''leave not one of the unbelievers on the earth'': the total destruction is sought by the hero, not sworn by the god, and limited to the unbelievers.'
+- unit: ane-atr-mb-ug2-birds
+  checked: [quran-54-qamar-moon-split-and-noah, quran-7-creation-signs, quran-24-light-verse]
+  matches: []
+- unit: ane-atr-sb-1-gods-labor
+  checked: [quran-21-against-other-gods, quran-16-blessings-of-creation, quran-23-lordship-arguments]
+  matches: []
+- unit: ane-atr-sb-1-strike
+  checked: [quran-79-pharaoh-and-cosmos, quran-2-throne-verse, quran-43-zukhruf-jesus-and-paradise]
+  matches: []
+- unit: ane-atr-sb-2-debate
+  checked: [quran-10-ingratitude-sea, quran-71-noah, quran-25-destroyed-peoples]
+  matches: []
+- unit: ane-atr-sb-2-creation
+  checked: [quran-15-iblis, quran-23-creation-of-man-and-gifts, quran-32-sajda, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches:
+  - with: quran-32-sajda
+    motif: divine-element-in-the-first-human
+    refs: ['Atr SB II:93-100']
+    with_refs: ['32:7', '32:9']
+    relation: divergence
+    record:
+      agent: [Belet-ili, God]
+      object: [clay, clay]
+      instrument: [the flesh and blood of a slain god, God's spirit breathed in]
+      outcome: [a spirit (eṭemmu) remains in man, hearing and sight given]
+      quoted: [iš-širīšu u dāmīšu bēlet-ilī liballil ṭiṭṭa ... iš-šīri ili eṭemmu libši, badaʾa khalqa l-insāni min ṭīnin ... thumma sawwāhu wa-nafakha fīhi min rūḥihi]
+    note: 'SB II:93-100 Belet-ili mixes clay with the slain god''s flesh and blood and ''from the flesh of the god let a spirit remain, a sign not to be forgotten''; Q 32:7-9 man begun min ṭīnin, then sawwāhu wa-nafakha fīhi min rūḥihi: the same two stages, clay then the divine element, with God''s breath for the dead god.'
+- unit: ane-atr-sb-3-birth
+  checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-49-hujurat-etiquette-and-brotherhood, quran-42-shura-revelation-one-religion, quran-39-pure-religion]
+  matches:
+  - with: quran-39-pure-religion
+    motif: number-of-the-first-humans
+    refs: ['Atr SB III:20-22', 'Atr SB III:34-36']
+    with_refs: ['39:6']
+    relation: divergence
+    record:
+      agent: [Mama, God]
+      action: [nips off clay pieces for the first humans, creates mankind from one soul]
+      object: [fourteen pieces of clay, one soul and its mate]
+      number: [14 (7 and 7), 1]
+      quoted: [kerṣī erbēšeret ... sebet kerṣī ana imitti sebet kerṣī ana šumēli, khalaqakum min nafsin wāḥidatin thumma jaʿala minhā zawjahā]
+    note: 'SB III:20-22 kerṣī erbēšeret uktarriṣ, seven on the right and seven on the left, with the designs of male and female (III:34-36): seven pairs at once. Q 39:6 khalaqakum min nafsin wāḥidatin thumma jaʿala minhā zawjahā: one soul, and its mate made from it.'
+- unit: ane-bitmeseri-sb-it-marduk-prayer
+  checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-3-sovereignty, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: divine-beings-at-a-man-s-right-and-left
+    refs: ['BitMeseri SB IT:16-18']
+    with_refs: ['50:17']
+    relation: divergence
+    record:
+      agent: ['my god, my goddess', the two receivers]
+      action: [stand at the man's right and left, sit at the man's right and left]
+      place: [right and left, right and left]
+      outcome: [keep him well, record his words]
+      quoted: [ilī lizzīz ina imnīya ištarī lizzīz ina šumēlīya, yatalaqqā l-mutalaqqiyāni ʿani l-yamīni wa-ʿani sh-shimāli qaʿīdun]
+    note: 'IT:16-18 ilī lizzīz ina imnīya / ištarī lizzīz ina šumēlīya / ilu mušallimu idāya lū kayyān, ''may my god stand at my right, my goddess at my left, a caring god constantly at my side''; Q 50:17-18 two receivers ʿani l-yamīni wa-ʿani sh-shimāli qaʿīdun, who take down every word: protectors at right and left become recorders.'
+- unit: ane-bitmeseri-sb-it-lugalirra-summoned
+  checked: [quran-67-mulk-heavens-lamps-and-hell, quran-81-folding-up, quran-77-sent-forth, quran-82-cleaving]
+  matches:
+  - with: quran-67-mulk-heavens-lamps-and-hell
+    motif: number-of-the-heavens
+    refs: ['BitMeseri SB IT:47-48']
+    with_refs: ['67:3']
+    relation: divergence
+    record:
+      object: [the heavens, the heavens]
+      number: [3, 7]
+      name: ['of Anu, of Ellil, of Ea', in layers]
+      quoted: [šamê šalaltīšunu šūt Ani šūt Ellil u šūt Ea, sabʿa samāwātin ṭibāqan]
+    note: 'IT:47-48 uqaddišku šamê šalaltīšunu / šūt Ani šūt Ellil u šūt Ea, ''I sanctify for you the three heavens, that of Anu, that of Ellil and that of Ea''; Q 67:3 alladhī khalaqa sabʿa samāwātin ṭibāqan: three heavens, each named for a god, against seven in layers.'
+- unit: ane-bitmeseri-sb-it-lugalirra-house
+  checked: [quran-37-ranks-and-guarded-heaven, quran-74-cloaked, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-bitmeseri-sb-it-standards-and-figures
+  checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-40-throne-bearers]
+  matches: []
+- unit: ane-bitmeseri-sb-it-sebettu-and-sages
+  checked: [quran-19-prophets-remembered, quran-7-towns-pattern, quran-11-hud, quran-71-noah]
+  matches:
+  - with: quran-19-prophets-remembered
+    motif: ancient-sage-raised-to-heaven
+    refs: ['BitMeseri SB IT:291-292']
+    with_refs: ['19:56', '19:57']
+    relation: parallel
+    record:
+      agent: [Uduʾabzu, God]
+      action: [ascended to heaven, raised him to a high place]
+      object: [null, Idris]
+      name: [Uduʾabzu, Idris]
+      quoted: [Uduʾabzu ša ana šamê īlû, wa-rafaʿnāhu makānan ʿaliyyan]
+    note: IT:291-292 u₃-du₂-abzu lu₂ an-še₃ ba-an-e₁₁-de₃ / Uduʾabzu ša ana šamê īlû, 'Uduʾabzu, who ascended to heaven', last of the seven antediluvian sages listed one by one; Q 19:56-57 wa-dhkur fī l-kitābi Idrīsa ... wa-rafaʿnāhu makānan ʿaliyyan, last of a run of remembered prophets. He goes up himself in the ANE list; God raises him in the Quran.
+- unit: ane-bitmeseri-sb-it-clay-man-and-woman
+  checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-23-creation-of-man-and-gifts, quran-16-blessings-of-creation]
+  matches: []
+- unit: ane-bitmeseri-sb-it-watchmen-and-dogs
+  checked: [quran-18-companions-of-the-cave, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree]
+  matches: []
+- unit: ane-bitmeseri-sb-it-goat-substitute
+  checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-2-the-cow, quran-6-pagan-offerings-cattle]
+  matches: []
+- unit: ane-bitmeseri-sb-it-nuska-lamp
+  checked: [quran-24-light-verse, quran-6-poor-keys-of-unseen, quran-2-throne-verse, quran-13-signs-of-creation]
+  matches:
+  - with: quran-13-signs-of-creation
+    motif: guardian-over-every-soul
+    refs: ['BitMeseri SB IT:513''-515''']
+    with_refs: ['13:10', '13:11']
+    relation: parallel
+    record:
+      agent: [Nuska, God]
+      action: [sets a guard over the man, appoints attendants who guard him]
+      object: [a protective šēdu and a caring god, attendants before and behind him]
+      time: [all night until morning, by night and by day]
+      quoted: [maṣṣar šulmi u balāṭi šukun elīya ... littarrûninni kal mūši adi šāt urri, lahu muʿaqqibātun min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu]
+    note: IT:513'-515' maṣṣar šulmi u balāṭi šukun elīya / šēda nāṣira u ila mušallima šuzzīz ina rēšīya / littarrûninni kal mūši adi šāt urri, 'provide me with a guard ... install a protective spirit and a caring god at my head, let them escort me all night until morning'; Q 13:10-11 whoever hides by night or goes out by day, lahu muʿaqqibātun min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu min amri llāhi.
+- unit: ane-bitmeseri-sb-it-dismissal-of-death
+  checked: [quran-35-heirs-of-book, quran-35-originator, quran-3-sovereignty]
+  matches: []
+- unit: ane-bitmeseri-sb-fi-figurine-list
+  checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-78-the-tiding]
+  matches: []
+- unit: ane-bitmeseri-sb-rta-ritual
+  checked: [quran-7-single-soul-idols, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree]
+  matches: []
+- unit: ane-catauth-na-catalogue
+  checked: [quran-25-furqan-and-objections, quran-53-najm-vision-and-lote-tree, quran-13-messengers-and-mother-of-book, quran-69-haqqa-books-in-right-and-left-hands]
+  matches:
+  - with: quran-53-najm-vision-and-lote-tree
+    motif: text-revealed-to-author-who-proclaimed-it
+    refs: ['CatAuth NA –:b+2', 'CatAuth NA –:6']
+    with_refs: ['53:3', '53:4', '53:10']
+    relation: parallel
+    record:
+      agent: [a god, God]
+      action: [reveals a text to a man who then speaks it, reveals to his servant what he reveals]
+      recipient: [Kabti-ili-Marduk; Adapa, his servant]
+      quoted: [ušabrīšū-ma idbubu, in huwa illā waḥyun yūḥā ... fa-awḥā ilā ʿabdihi mā awḥā]
+    note: 'The catalogue classes works by origin: ''from the mouth of Ea'' (–:4), and ''what was revealed to [Kabti-ili-Marduk] and what he proclaimed'', ušabrīšū-ma idbubu (–:b+2, Erra; restored for Adapa at –:6), ušabrû being ''to make see, show in a vision''. Q 53:3-4 wa-mā yanṭiqu ʿani l-hawā in huwa illā waḥyun yūḥā and 53:10 fa-awḥā ilā ʿabdihi mā awḥā, with the vision of 53:11: the spoken text is what was shown to its speaker.'
+- unit: ane-catauth-nb-catalogue
+  checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-25-furqan-and-objections, quran-2-four-birds]
+  matches: []
+- unit: ane-counswis-sb-father-counsels
+  checked: [quran-41-steadfast-and-repel-evil, quran-23-death-barzakh-judgment, quran-13-covenant-and-paradise, quran-6-commandments, quran-31-luqman]
+  matches:
+  - with: quran-41-steadfast-and-repel-evil
+    motif: repay-evil-with-good
+    refs: ['CounsWis SB –:42-46']
+    with_refs: ['41:34']
+    relation: parallel
+    record:
+      action: [requite evil with good, repel evil with what is better]
+      recipient: [the one who does you evil, the one between you and whom is enmity]
+      outcome: [null, he becomes like a warm friend]
+      quoted: [ana ēpiš lemuttīka damiqta rībšu ... ana zêrīka kabattaka limmiršu, idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīmun]
+    note: –:42-46 itti bēl ṣāltīka ē tultammin / ana ēpiš lemuttīka damiqta rībšu / ana raggīka mīšara killaššu / ana zêrīka kabattaka limmiršu, 'requite with good the one who does evil to you ... let your demeanour be cheerful to your foe'; Q 41:34 idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīmun. The Quran adds the outcome, the enemy turned friend.
+  - with: quran-31-luqman
+    motif: wise-father-instructs-son
+    refs: ['CounsWis SB –:1-5', 'CounsWis SB –:8-9']
+    with_refs: ['31:12', '31:13', '31:14']
+    relation: parallel
+    record:
+      agent: [a sage, Luqman]
+      action: ['counsels his son, opening ''come, my son''', 'counsels his son, opening ''O my little son''']
+      recipient: [his son, his son]
+      quoted: [ummânu ina nēmeqi ša Ea alka mārī, wa-idh qāla luqmānu li-bnihi wa-huwa yaʿiẓuhu yā bunayya]
+    note: '–:1-5 a sage (ummânu), ''from the wisdom of Ea'': alka mārī ... milkī liqī-ma, ''come, my son ... take my advice'', then honour of father and mother (–:8-9); Q 31:12-14 God gave Luqman al-ḥikma, wa-idh qāla luqmānu li-bnihi wa-huwa yaʿiẓuhu yā bunayya, then the charge to honour parents (31:14). In both the father''s counsels include restrained speech: CounsWis –:27-30, Q 31:19 wa-ghḍuḍ min ṣawtika.'
+- unit: ane-counswis-sb-charity-and-women
+  checked: [quran-76-the-human, quran-90-city, quran-24-privacy-modesty-marriage, quran-4-marriage-forbidden-degrees]
+  matches: []
+- unit: ane-counswis-sb-steward-and-office
+  checked: [quran-4-wealth-household, quran-4-kindness-misers-atom, quran-25-servants-of-the-merciful]
+  matches: []
+- unit: ane-counswis-sb-speech-and-piety
+  checked: [quran-17-commandments, quran-5-contracts-food-laws, quran-49-hujurat-etiquette-and-brotherhood, quran-41-steadfast-and-repel-evil, quran-61-saff-ranks-moses-jesus-ahmad, quran-2-charity]
+  matches:
+  - with: quran-49-hujurat-etiquette-and-brotherhood
+    motif: slander-as-eating
+    refs: ['CounsWis SB –:A+70', 'CounsWis SB –:A+72-A+73']
+    with_refs: ['49:12']
+    relation: echo
+    record:
+      action: [do not backbite (eat pieces), do not backbite (eat your dead brother's flesh)]
+      object: [someone's pieces, the flesh of one's dead brother]
+      outcome: [he settles accounts with Shamash, fear God]
+      quoted: [ē tākul karṣa ... ša ākil karṣi, wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan]
+    note: 'A+70 ē tākul karṣa, ''do not eat (someone''s) pieces'' = do not slander, and A+72-73 ša ākil karṣi ... ina ribbāti ša šamaš uqaʾʾû rēssu; Q 49:12 wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan fa-kariḥtumūhu: backbiting is eating the absent man''s flesh in both. (The same idiom ikkalū karṣī stands in Atra-hasis OB I:39.)'
+  - with: quran-61-saff-ranks-moses-jesus-ahmad
+    motif: keep-your-promise
+    refs: ['CounsWis SB –:A+94-A+95', 'CounsWis SB –:A+102-A+103']
+    with_refs: ['61:2', '61:3']
+    relation: parallel
+    record:
+      action: [promising and not delivering, saying what you do not do]
+      outcome: [abhorrent to Marduk, most hateful to God]
+      name: [Marduk, God]
+      quoted: [qabû enû tukkulu nadû ... lā nadānu ikkib marduk, kabura maqtan ʿinda llāhi an taqūlū mā lā tafʿalūna]
+    note: A+94-95 šumma taqtabī-ma idin ē tēni, 'if you have given your word, deliver, do not revoke'; A+102-103 qabû enû tukkulu nadû ... lā nadānu ikkib marduk, 'promising then revoking ... not delivering are abhorrent to Marduk'; Q 61:2-3 lima taqūlūna mā lā tafʿalūna / kabura maqtan ʿinda llāhi an taqūlū mā lā tafʿalūna. ikkib + god and maqt ʿinda llāh are the same 'abomination to the deity' frame.
+  - with: quran-2-charity
+    motif: one-grain-given-returns-manifold
+    refs: ['CounsWis SB –:A+82-A+84']
+    with_refs: ['2:261']
+    relation: echo
+    record:
+      action: [offers to his god, spends in God's way]
+      object: [a grain, a grain]
+      outcome: [returns a talent, grows seven ears of a hundred grains each]
+      number: [1 grain to 1 talent, 1 grain to 700]
+      quoted: [uṭṭat tanaddiššum-ma iribka bilat, ka-mathali ḥabbatin anbatat sabʿa sanābila fī kulli sunbulatin miʾatu ḥabbatin]
+    note: 'A+82-84 prayer, supplication and obeisance: uṭṭat tanaddiššum-ma iribka bilat, ''for every grain you give him, your return will be a talent''; Q 2:261 the spending of those who spend in God''s way ka-mathali ḥabbatin anbatat sabʿa sanābila fī kulli sunbulatin miʾatu ḥabbatin wa-llāhu yuḍāʿifu li-man yashāʾu.'
+- unit: ane-dialpess-sb-palace-dine-hunt-house
+  checked: [quran-5-ablution-covenant-justice, quran-29-emigrate-and-trust, quran-2-charity, quran-18-two-gardens]
+  matches: []
+- unit: ane-dialpess-sb-silence-crime-love
+  checked: [quran-37-hell-and-garden, quran-4-creation-kinship-orphans, quran-7-adam-iblis]
+  matches: []
+- unit: ane-dialpess-sb-sacrifice-loans-good-deed
+  checked: [quran-2-thousands-revived, quran-30-signs, quran-2-usury, quran-42-shura-signs-and-ethics, quran-2-abrogation-polemic, quran-57-hadid-first-and-last-and-the-loan]
+  matches:
+  - with: quran-2-thousands-revived
+    motif: giving-as-loan-to-god
+    refs: ['DialPess SB –:56-57']
+    with_refs: ['2:245']
+    relation: parallel
+    record:
+      action: [sacrifices to his god, lends God a goodly loan]
+      outcome: [makes loan upon loan, God multiplies it many times]
+      quoted: [amēlu ša niqâ ana ilīšu ippušu ... qīpta eli qīpti ippuš, man dhā lladhī yuqriḍu llāha qarḍan ḥasanan fa-yuḍāʿifahu lahu aḍʿāfan kathīratan]
+    note: '–:56-57 amēlu ša niqâ ana ilīšu ippušu libbašu ṭābšu / qīpta eli qīpti ippuš, ''the man who sacrifices to his god ... makes loan upon loan''; Q 2:245 man dhā lladhī yuqriḍu llāha qarḍan ḥasanan fa-yuḍāʿifahu lahu aḍʿāfan kathīratan (also 57:11). The Dialogue then has the servant refute it: the god will follow you like a dog demanding more (–:59-61).'
+  - with: quran-2-abrogation-polemic
+    motif: good-deed-stored-with-god
+    refs: ['DialPess SB –:72-73']
+    with_refs: ['2:110']
+    relation: parallel
+    record:
+      action: [does a good deed, sends good ahead for himself]
+      outcome: [it rests in Marduk's basket, you will find it with God]
+      quoted: [šaknā usātūšu ina qappati ša marūtuk, wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāhi]
+    note: –:72-73 amēlu ša usāta ana mātīšu ippušu / šaknā usātūšu ina qappati ša marūtuk, 'his good deed rests in Marduk's basket'; Q 2:110 wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāhi. The servant at once undercuts it (–:75-78).
+  - with: quran-30-signs
+    motif: looking-at-ancient-ruins
+    refs: ['DialPess SB –:76-78']
+    with_refs: ['30:9']
+    relation: divergence
+    record:
+      action: [go up on the ancient ruins and look, travel the land and look]
+      object: [the skulls of the lowly and the great, the end of those before them]
+      outcome: [evildoer and benefactor cannot be told apart, the wrongdoers were destroyed]
+      quoted: [elī-ma ina muhhi tīlānī labīrūti ... ayyu bēl lemuttim-ma ayyu bēl usāti, a-wa-lam yasīrū fī l-arḍi fa-yanẓurū kayfa kāna ʿāqibatu lladhīna min qablihim]
+    note: '–:76-78 elī-ma ina muhhi tīlānī labīrūti atallak / amur gulgullī ša arkûti u pānûti / ayyu bēl lemuttim-ma ayyu bēl usāti, ''go up on the ancient ruin heaps, look at the skulls: which was the evildoer, which the benefactor?''; Q 30:9 a-wa-lam yasīrū fī l-arḍi fa-yanẓurū kayfa kāna ʿāqibatu lladhīna min qablihim ... fa-mā kāna llāhu li-yaẓlimahum: the same look at the ruins, read as showing that good and evil end alike, or as showing the end of the wrongdoers.'
+- unit: ane-dialpess-sb-what-is-good
+  checked: [quran-17-commandments, quran-29-emigrate-and-trust, quran-23-death-barzakh-judgment, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches:
+  - with: quran-17-commandments
+    motif: no-one-tall-enough-to-reach-heaven
+    refs: ['DialPess SB –:83-84']
+    with_refs: ['17:37']
+    relation: echo
+    record:
+      action: ['reaches heaven by his height, spans the earth by his breadth', 'reaches the mountains in height, pierces the earth']
+      outcome: [no one, never]
+      quoted: [ayyu arku ša ana šamê elû ayyu rapšu ša erṣeta ugammeru, innaka lan takhriqa l-arḍa wa-lan tablugha l-jibāla ṭūlan]
+    note: '–:83-84 ayyu arku ša ana šamê elû / ayyu rapšu ša erṣeta ugammeru, ''who is so tall as to reach heaven, so broad as to encompass the earth (netherworld)?''; Q 17:37 wa-lā tamshi fī l-arḍi maraḥan innaka lan takhriqa l-arḍa wa-lan tablugha l-jibāla ṭūlan: human limits measured by height and by the earth; a counsel of futility in the Dialogue, a rebuke of strutting in the Quran.'
+- unit: ane-ee-sb-1-theogony
+  checked: [quran-21-cosmic-signs-and-scales, quran-11-opening-throne-on-water, quran-35-originator, quran-31-signs-and-unseen, quran-25-signs-shadow-seas, quran-55-rahman-creation-and-the-two-seas]
+  matches:
+  - with: quran-25-signs-shadow-seas
+    motif: the-two-waters-meet
+    refs: ['Ee SB I:3-5']
+    with_refs: ['25:53']
+    relation: divergence
+    record:
+      agent: [Apsu and Tiamat, God]
+      action: [mingle their waters together, lets the two seas flow together]
+      outcome: [the gods are formed within them, a barrier and a partition between them]
+      quoted: [mûšunu ištēniš ihiqqū-ma, maraja l-baḥrayni ... wa-jaʿala baynahumā barzakhan wa-ḥijran maḥjūran]
+    note: 'I:3-5 Apsu and Tiamat (tiāmtu, ''sea'') mûšunu ištēniš ihiqqū-ma, ''were mingling their waters together'', and the gods are formed within them (I:9). Q 25:53 maraja l-baḥrayni hādhā ʿadhbun furātun wa-hādhā milḥun ujājun wa-jaʿala baynahumā barzakhan wa-ḥijran maḥjūran (also 55:19-20 yaltaqiyāni baynahumā barzakhun lā yabghiyāni): the two waters meet, but kept apart, and they bear nothing.'
+- unit: ane-ee-sb-1-apsu-slain
+  checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-35-originator, quran-71-noah, quran-2-throne-verse]
+  matches:
+  - with: quran-2-throne-verse
+    motif: creator-asleep
+    refs: ['Ee SB I:38-40', 'Ee SB I:64-65']
+    with_refs: ['2:255']
+    relation: response
+    record:
+      agent: [Apsu, God]
+      action: [cannot sleep and craves sleep; is put to deep sleep and slain, is seized by neither slumber nor sleep]
+      quoted: [urriš lā šupšuhāku mūšiš lā ṣallāku ... šitta irtehīšu, lā taʾkhudhuhu sinatun wa-lā nawmun]
+    note: 'I:38-40 Apsu: urriš lā šupšuhāku mūšiš lā ṣallāku ... qūlu liššakin-ma i niṣlal nīnu (''by day I have no rest, by night I do not sleep ... that we may sleep''); I:64-65 Ea''s spell pours sleep on him (šitta irtehīšu) and he is killed asleep. Q 2:255 lā taʾkhudhuhu sinatun wa-lā nawmun.'
+- unit: ane-ee-sb-1-marduk-born
+  checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-37-sacrifice-of-son, quran-19-zechariah-and-john, quran-27-is-there-a-god-with-god]
+  matches: []
+- unit: ane-ee-sb-1-tiamat-musters
+  checked: [quran-12-joseph-full, quran-35-originator, quran-11-opening-throne-on-water, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-ee-sb-2-ea-reports
+  checked: [quran-40-throne-bearers, quran-11-opening-throne-on-water, quran-85-constellations]
+  matches: []
+- unit: ane-ee-sb-2-ea-anu-fail
+  checked: [quran-17-polemic-and-resurrection, quran-3-badr-uhud, quran-16-parables-and-justice]
+  matches: []
+- unit: ane-ee-sb-2-marduk-volunteers
+  checked: [quran-8-badr-help, quran-3-badr-uhud, quran-3-sovereignty]
+  matches: []
+- unit: ane-ee-sb-3-kakka-sent
+  checked: [quran-74-cloaked, quran-19-zechariah-and-john, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-ee-sb-3-gods-feast
+  checked: [quran-5-jesus-miracles-table, quran-6-deliverance-trumpet, quran-2-throne-verse]
+  matches: []
+- unit: ane-ee-sb-4-enthronement
+  checked: [quran-36-bones-and-be, quran-6-deliverance-trumpet, quran-2-abrogation-polemic, quran-2-throne-verse]
+  matches:
+  - with: quran-36-bones-and-be
+    motif: creation-by-word
+    refs: ['Ee SB IV:22-26']
+    with_refs: ['36:81', '36:82']
+    relation: echo
+    record:
+      agent: [Marduk, God]
+      action: [commands and a thing is made, says 'be' and it is]
+      object: [a constellation destroyed and made anew, whatever he wills; the dead re-created]
+      quoted: [abātu u banû qibi liktūnā ... itūr iqbīšum-ma lumāšu ittabni, innamā amruhu idhā arāda shayʾan an yaqūla lahu kun fa-yakūnu]
+    note: 'IV:22-26 abātu u banû qibi liktūnā, ''command destruction or creation, they shall take place'': he speaks and the constellation is destroyed, speaks again and it is made anew (itūr iqbīšum-ma lumāšu ittabni); Q 36:81-82 the power to create their like again, innamā amruhu idhā arāda shayʾan an yaqūla lahu kun fa-yakūnu. In both the word that makes is shown by making again.'
+- unit: ane-ee-sb-4-arming
+  checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-35-originator]
+  matches: []
+- unit: ane-ee-sb-4-battle
+  checked: [quran-19-mary-and-jesus, quran-17-iblis-and-adam, quran-40-throne-bearers, quran-9-closing]
+  matches: []
+- unit: ane-ee-sb-4-cosmos-from-carcass
+  checked: [quran-21-cosmic-signs-and-scales, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-72-jinn, quran-37-ranks-and-guarded-heaven]
+  matches:
+  - with: quran-21-cosmic-signs-and-scales
+    motif: one-mass-split-into-heaven-and-earth
+    refs: ['Ee SB IV:137-138']
+    with_refs: ['21:30']
+    relation: divergence
+    record:
+      agent: [Marduk, God]
+      action: [splits in two, split apart]
+      object: [Tiamat's carcass, 'the heavens and the earth, a joined mass']
+      number: [2, 2]
+      quoted: [ihpīšī-ma kīma nūn mašṭê ana šinīšu mišlušša iškunam-ma šamāmī uṣṣallil, kānatā ratqan fa-fataqnāhumā]
+    note: 'IV:137-138 ihpīšī-ma kīma nūn mašṭê ana šinīšu / mišlušša iškunam-ma šamāmī uṣṣallil, ''he split her in two like a fish for drying, half of her he set up as a roof, heaven'' (the other half is earth, V:62); Q 21:30 anna s-samāwāti wa-l-arḍa kānatā ratqan fa-fataqnāhumā: one mass split into heaven and earth, a slain monster against an inert joined mass.'
+  - with: quran-72-jinn
+    motif: guards-posted-in-the-sky
+    refs: ['Ee SB IV:139-140']
+    with_refs: ['72:8', '72:9']
+    relation: divergence
+    record:
+      agent: [Marduk, God]
+      action: [posts watchmen on the sky, filled the sky with guards]
+      object: [the sky, the sky]
+      outcome: [Tiamat's waters kept from escaping, eavesdropping jinn kept out by a flame]
+      quoted: [išdud maška maṣṣara ušaṣbit mêša lā šūṣâ šunūti umtaʾʾir, mulīʾat ḥarasan shadīdan wa-shuhuban]
+    note: 'IV:139-140 išdud maška maṣṣara ušaṣbit / mêša lā šūṣâ šunūti umtaʾʾir, ''he stretched out the hide, assigned watchmen, ordered them not to let her waters escape''; Q 72:8-9 the jinn find the sky mulīʾat ḥarasan shadīdan wa-shuhuban, ''filled with strong guards and flames'', so that whoever listens finds a flame lying in wait: guards on the sky, keeping the waters in against keeping the listeners out.'
+- unit: ane-ee-sb-5-astral-order
+  checked: [quran-6-signs-in-nature, quran-10-opening-creation, quran-36-cosmic-signs, quran-9-months-nasi]
+  matches:
+  - with: quran-9-months-nasi
+    motif: twelve-months-from-creation
+    refs: ['Ee SB V:3-4']
+    with_refs: ['9:36']
+    relation: parallel
+    record:
+      agent: [Marduk, God]
+      action: [fixes the months of the year at creation, fixed the number of months on the day he created heavens and earth]
+      number: [12, 12]
+      quoted: [uʾaddi šatta ... šinšeret arhī, inna ʿiddata sh-shuhūri ʿinda llāhi thnā ʿashara shahran ... yawma khalaqa s-samāwāti wa-l-arḍa]
+    note: 'V:3-4 uʾaddi šatta miṣrāti umaṣṣir / šinšeret arhī kakkabī šulušā ušziz, ''he marked the year ... set up twelve months of three stars each'', part of ordering the sky after the battle; Q 9:36 inna ʿiddata sh-shuhūri ʿinda llāhi thnā ʿashara shahran fī kitābi llāhi yawma khalaqa s-samāwāti wa-l-arḍa. Divergence in the use: the Quran ties it to the four sacred months and the ban on intercalation (9:37).'
+  - with: quran-10-opening-creation
+    motif: months-in-their-houses
+    refs: ['Ee SB V:12-13', 'Ee SB V:15-22']
+    with_refs: ['10:5']
+    relation: parallel
+    record:
+      agent: [Marduk, God]
+      action: [assigns the moon its phases, measured out stations for the moon]
+      object: [the moon, the moon]
+      outcome: [to mark the days of the month, to know the number of years and the reckoning]
+      quoted: [nannāra uštēpâ ... ana uddû ūmī, wa-l-qamara nūran wa-qaddarahu manāzila li-taʿlamū ʿadada s-sinīna wa-l-ḥisāba]
+    note: V:12-13 nannāra uštēpâ ... uʾaddīšum-ma šuknat mūši ana uddû ūmī, 'he made the moon appear ... assigned it to mark the days', then horns at the start, half-crown on the 7th, full at mid-month, waning to the 30th (V:15-22); Q 10:5 wa-l-qamara nūran wa-qaddarahu manāzila li-taʿlamū ʿadada s-sinīna wa-l-ḥisāba.
+  - with: quran-36-cosmic-signs
+    motif: months-in-their-houses
+    refs: ['Ee SB V:15-22']
+    with_refs: ['36:39']
+    relation: echo
+    record:
+      agent: [Marduk, God]
+      object: [the moon, the moon]
+      action: [prescribes waxing and waning by set stages, measured out its stations]
+      outcome: [wanes in reverse and joins the sun at month's end, returns like an old palm stalk]
+      quoted: [qarnī nabâta ... ina sebūti agâ mašla ... šutakṣibam-ma bini arkāniš, qaddarnāhu manāzila ḥattā ʿāda ka-l-ʿurjūni l-qadīmi]
+    note: 'V:15-22 the moon is told its course month by month: ''shine with two horns ... on the 7th day a half crown ... on the 15th in opposition ... wane in reverse''; Q 36:39 wa-l-qamara qaddarnāhu manāzila ḥattā ʿāda ka-l-ʿurjūni l-qadīmi: the moon''s shape is decreed stage by stage, ending as the thin crescent.'
+- unit: ane-ee-sb-5-cosmos-from-body
+  checked: [quran-54-qamar-moon-split-and-noah, quran-47-muhammad-battle-and-rivers, quran-35-originator, quran-25-signs-shadow-seas]
+  matches: []
+- unit: ane-ee-sb-5-homage
+  checked: [quran-3-badr-uhud, quran-8-badr-help, quran-9-closing, quran-10-moses-pharaoh]
+  matches:
+  - with: quran-10-moses-pharaoh
+    motif: defeated-foe-kept-as-a-sign-for-later-times
+    refs: ['Ee SB V:75-76']
+    with_refs: ['10:92']
+    relation: echo
+    record:
+      agent: [Marduk, God]
+      action: [sets up images of the defeated monsters, saves Pharaoh's body]
+      object: [images of Tiamat's eleven creatures, Pharaoh's body]
+      recipient: [later times, those after you]
+      quoted: [ahrâtaš lā immaššâ šī lū ittu, li-takūna li-man khalfaka āyatan]
+    note: 'V:75-76 ibnī-ma ṣalmīšunu ina bāb apsî ušaṣbit / ahrâtaš lā immaššâ šī lū ittu, ''he made images of them, set them at the gate of Apsu: lest ever after they be forgotten, let this be the sign''; Q 10:92 fa-l-yawma nunajjīka bi-badanika li-takūna li-man khalfaka āyatan. ittu and āya are the same Semitic sign word (Hebrew ʾôt).'
+- unit: ane-ee-sb-5-babylon-founded
+  checked: [quran-2-throne-verse, quran-15-prologue-and-heavens, quran-57-hadid-first-and-last-and-the-loan]
+  matches: []
+- unit: ane-ee-sb-6-humans-created
+  checked: [quran-2-adam-iblis, quran-96-clot, quran-23-creation-of-man-and-gifts, quran-6-deliverance-trumpet, quran-51-dhariyat-flee-to-god]
+  matches:
+  - with: quran-51-dhariyat-flee-to-god
+    motif: why-humans-were-created
+    refs: ['Ee SB VI:7-8', 'Ee SB VI:33-36']
+    with_refs: ['51:56', '51:57']
+    relation: divergence
+    record:
+      agent: [Marduk and Ea, God]
+      action: [create humankind, created jinn and humans]
+      outcome: [humans bear the gods' toil so the gods rest, they worship; God wants no provision nor to be fed]
+      quoted: [lū emdū dulli ilī-ma šunu lū pašhū, illā li-yaʿbudūni mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūni]
+    note: VI:7-8 lubnī-ma lullâ amēla / lū emdū dulli ilī-ma šunu lū pašhū, 'I shall create man; they shall bear the gods' toil, and those shall rest'; VI:34-36 īmid dulli ilī. Q 51:56-57 illā li-yaʿbudūni / mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūni.
+  - with: quran-23-creation-of-man-and-gifts
+    motif: human-made-from-congealed-blood-and-bones
+    refs: ['Ee SB VI:5-6']
+    with_refs: ['23:14']
+    relation: echo
+    record:
+      agent: [Marduk, God]
+      action: [compacts blood and makes bones, makes the clot a lump and the lump bones]
+      object: ['blood, then bones', 'the clot, the lump, then bones']
+      quoted: [dāmī lukṣur-ma eṣemta lušabšī-ma, khalaqnā l-ʿalaqata muḍghatan fa-khalaqnā l-muḍghata ʿiẓāman]
+    note: VI:5-6 dāmī lukṣur-ma eṣemta lušabšī-ma / lušziz-ma lullâ lū amēlu šumšu, 'I shall compact (knot) blood, I shall cause bones to be, I shall make a man stand'; Q 23:14 the drop becomes ʿalaqa (the clinging clot), then a lump, then ʿiẓām, 'bones', clothed with flesh. The blood is a slain god's (VI:33) in Enuma elish and the embryo's in the Quran; also 96:2 khalaqa l-insāna min ʿalaqin.
+- unit: ane-ee-sb-6-babylon-built
+  checked: [quran-2-throne-verse, quran-15-prologue-and-heavens, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-ee-sb-6-bow-oath-kingship
+  checked: [quran-17-moses-nine-signs-and-close, quran-7-names-and-hour, quran-23-lordship-arguments, quran-27-is-there-a-god-with-god]
+  matches:
+  - with: quran-17-moses-nine-signs-and-close
+    motif: whatever-name-is-called-the-one-god-answers
+    refs: ['Ee SB VI:119-121']
+    with_refs: ['17:110']
+    relation: echo
+    record:
+      agent: [the gods, the believers]
+      action: [pronounce a name of their god, call on God by a name]
+      name: [Marduk's fifty names, 'Allah, al-Rahman, the most beautiful names']
+      quoted: [nâši mala šuma nibbû šū lū ilni ... i nibbī-ma hamšā šumīšu, ayyan mā tadʿū fa-lahu l-asmāʾu l-ḥusnā]
+    note: VI:119-121 lū zīzā-ma ṣalmāt qaqqadi ilī / nâši mala šuma nibbû šū lū ilni / i nibbī-ma hamšā šumīšu, 'though the people be divided as to gods, for us, whatever name we pronounce, he is our god; let us pronounce his fifty names'; Q 17:110 qul idʿū llāha awi dʿū r-raḥmāna ayyan mā tadʿū fa-lahu l-asmāʾu l-ḥusnā.
+- unit: ane-ee-sb-6-names-1-9
+  checked: [quran-59-hashr-hypocrites-and-the-names, quran-66-tahrim-wives-and-the-four-women, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-5-jesus-miracles-table]
+  matches: []
+- unit: ane-ee-sb-7-names-10-23
+  checked: [quran-67-mulk-heavens-lamps-and-hell, quran-30-winds-and-rain, quran-6-signs-in-nature, quran-35-originator]
+  matches: []
+- unit: ane-ee-sb-7-names-24-50
+  checked: [quran-31-signs-and-unseen, quran-26-moses-and-pharaoh, quran-2-exodus-calf, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-ee-sb-7-epilogue
+  checked: [quran-31-luqman, quran-2-abrogation-polemic, quran-4-prophets-and-trinity]
+  matches: []
+- unit: ane-elevbab-sb-hymn-marduk
+  checked: [quran-11-opening-throne-on-water, quran-27-is-there-a-god-with-god, quran-35-originator, quran-3-sovereignty]
+  matches: []
+- unit: ane-elevbab-sb-blessing-esagil-eridu
+  checked: [quran-39-mercy-and-last-day, quran-25-signs-shadow-seas, quran-78-the-tiding]
+  matches: []
+- unit: ane-elevbab-sb-city-and-citizens
+  checked: [quran-47-muhammad-battle-and-rivers, quran-2-call-to-worship, quran-11-noah, quran-7-wilderness-entry]
+  matches: []
+- unit: ane-erra-sb-1-invocation
+  checked: [quran-74-cloaked, quran-37-ranks-and-guarded-heaven, quran-3-badr-uhud]
+  matches: []
+- unit: ane-erra-sb-1-seven-born
+  checked: [quran-69-haqqa-destroyed-peoples-and-the-throne, quran-71-noah, quran-91-sun, quran-16-blessings-of-creation]
+  matches: []
+- unit: ane-erra-sb-1-seven-urge-war
+  checked: [quran-59-hashr-banu-nadir-and-fay, quran-10-rain-parable-idols-disown, quran-11-salih]
+  matches: []
+- unit: ane-erra-sb-1-erra-resolves
+  checked: [quran-20-moses-call, quran-3-badr-uhud, quran-9-closing, quran-28-destroyed-towns-and-judgment]
+  matches: []
+- unit: ane-erra-sb-1-marduk-flood
+  checked: [quran-11-noah, quran-2-harut-marut, quran-54-qamar-moon-split-and-noah, quran-71-noah, quran-82-cleaving, quran-14-parables-and-satans-speech]
+  matches:
+  - with: quran-82-cleaving
+    motif: sky-split-and-stars-displaced
+    refs: ['Erra SB I:133-134']
+    with_refs: ['82:1', '82:2']
+    relation: divergence
+    record:
+      object: [the seams of heaven and earth; the stars, the sky; the stars]
+      action: [are rent asunder; change their positions, is split; are scattered]
+      time: [when Marduk rose from his throne for the flood, at the Hour]
+      quoted: [šipīt šamê u erṣeti uptaṭṭir ... ša kakkabī šamāmī manzāssunu išnī-ma, idhā s-samāʾu nfaṭarat wa-idhā l-kawākibu ntatharat]
+    note: I:133-134 ina šubtīya atbē-ma šipīt šamê u erṣeti uptaṭṭir / ... ša kakkabī šamāmī manzāssunu išnī-ma ul utīr ašruššun, 'I rose from my residence and the seams of heaven and earth came apart ... the stars changed their positions and I did not restore them'; Q 82:1-2 idhā s-samāʾu nfaṭarat wa-idhā l-kawākibu ntatharat. Caused by the god leaving his throne (past flood) against the Hour.
+  - with: quran-14-parables-and-satans-speech
+    motif: tree-rooted-below-reaching-heaven
+    refs: ['Erra SB I:150-153']
+    with_refs: ['14:24']
+    relation: echo
+    record:
+      object: [the mēsu-tree, a good tree]
+      place: ['roots in the netherworld, top in the sky of Anu', 'root firm, branch in heaven']
+      quoted: [išissu ikšudu šupul aralli qimmassu emdet šamê ša ānu, aṣluhā thābitun wa-farʿuhā fī s-samāʾi]
+    note: 'I:150-153 the mēsu-tree, ''the pure tree'', whose roots (išissu) reach the depths of the netherworld and whose top (qimmassu) touches the sky of Anu; Q 14:24 ka-shajaratin ṭayyibatin aṣluhā thābitun wa-farʿuhā fī s-samāʾi: a real cosmic tree in Erra, a simile for the good word in the Quran.'
+- unit: ane-erra-sb-1-erra-takes-over
+  checked: [quran-82-cleaving, quran-77-sent-forth, quran-35-originator, quran-13-signs-of-creation]
+  matches:
+  - with: quran-82-cleaving
+    motif: sky-split-and-stars-displaced
+    refs: ['Erra SB I:170-173']
+    with_refs: ['82:1', '82:2', '82:3']
+    relation: divergence
+    record:
+      object: [the seams of heaven and earth; the waters; the stars, the sky; the seas; the stars]
+      action: [torn; rise and sweep the land; are covered, split; burst forth; scattered]
+      time: [if Marduk leaves his throne, at the Hour]
+      quoted: [šipīt šamê erṣeti uptaṭṭar mû illûnim-ma ibaʾʾū māta, idhā s-samāʾu nfaṭarat ... wa-idhā l-biḥāru fujjirat]
+    note: 'I:170-173 ''if I rise from my residence, šipīt šamê erṣeti uptaṭṭar, mû illûnim-ma ibaʾʾū māta, bright day turns to darkness, a storm covers the stars''; Q 82:1-3 idhā s-samāʾu nfaṭarat wa-idhā l-kawākibu ntatharat wa-idhā l-biḥāru fujjirat (cf. 81:1-2 the sun wrapped, the stars dimmed): the same undoing of sky, stars and waters, as the threat of the god''s absence against the Hour.'
+- unit: ane-etana-ma-assur-oath-and-friendship
+  checked: [quran-7-adam-iblis, quran-16-parables-and-justice, quran-20-adam-iblis]
+  matches: []
+- unit: ane-etana-ma-assur-eagle-seized
+  checked: [quran-41-steadfast-and-repel-evil, quran-7-adam-iblis, quran-18-moses-and-the-servant]
+  matches: []
+- unit: ane-etana-ma-assur-dream-and-pit
+  checked: [quran-12-joseph-full, quran-19-zechariah-and-john, quran-3-imran-mary-zechariah, quran-93-94-forenoon-and-expansion]
+  matches: []
+- unit: ane-etana-ma-assur-dreams-and-ascent
+  checked: [quran-17-prayer-spirit-and-challenge, quran-53-najm-vision-and-lote-tree, quran-12-joseph-full, quran-81-folding-up]
+  matches: []
+- unit: ane-etana-ob-morgan-kingship
+  checked: [quran-2-talut-jalut, quran-3-sovereignty, quran-81-folding-up, quran-35-originator]
+  matches: []
+- unit: ane-etana-ob-morgan-eagle-pit
+  checked: [quran-52-tur-garden-and-challenge, quran-12-joseph-full, quran-4-fighting-and-death]
+  matches: []
+- unit: ane-etana-ob-susa-oath-betrayal
+  checked: [quran-16-parables-and-justice, quran-31-luqman, quran-41-steadfast-and-repel-evil]
+  matches: []
+- unit: ane-etana-sb-1-kish-founded
+  checked: [quran-16-blessings-of-creation, quran-3-sovereignty, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-etana-sb-2-friendship-betrayal
+  checked: [quran-16-parables-and-justice, quran-13-covenant-and-paradise, quran-7-adam-iblis]
+  matches: []
