@@ -162,8 +162,7 @@ cover every rendering of a Quranic or Islamic term found in the reading.
 ## After the read
 
 1. Merge near-duplicate motifs and concepts.
-2. Run the **Chinese × Quran** and **Shinto × Quran** comparisons, mainly on
-   the concept layer.
+2. Run the **Chinese × Quran** and **Shinto × Quran** comparisons, on motifs and concepts alike (a concept match needs a specific shared formulation, argument or image, not a shared or opposed doctrine).
    - Use neutral ids for divergences.
    - Quote the decisive Classical Chinese or Japanese and the Arabic.
    - For the Han Kitab, record how each rendering keeps, bends or drops the
