@@ -1,0 +1,722 @@
+# Observation records, hadith chunk 25 (al-Jāmiʿ al-Kāmil book 2, kitāb al-īmān, pp. 678-784): the end of the
+# eschatology bābs and the cycle on decree (qadar).
+records:
+- id: h-679.1-vision
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  agent: believers
+  action: see their Lord on the day of resurrection
+  instrument: [the sun at noon without cloud, the full moon]
+  quoted: hal tuḍārrūna fī ruʾyat al-shams bi-l-ẓahīra ṣaḥwan
+- id: h-679.1-follow
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  agent: a caller
+  action: calls each community to follow what it worshipped
+  object: [idols and stones (al-aṣnām wa-l-anṣāb), ʿUzayr son of God, the Messiah son of God]
+  recipient: [Jews, Christians]
+  quoted: kunnā naʿbud ʿUzayra bna llāh; ʿaṭishnā yā rabbanā fa-sqinā
+  outcome: led thirsty to a fire that looks like a mirage, its parts smashing one another
+- id: h-679.1-form
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  agent: the Lord of the worlds
+  action: comes to those left in a form other than the one they saw, then in his first form
+  quoted: fī adnā ṣūra min allatī raʾawhu fīhā
+  outcome: they say 'we seek refuge in God from you' until the sign is shown
+- id: h-679.1-shin
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  action: the shin is uncovered
+  object: those who prostrated for show
+  quoted: yukshafu ʿan sāq; jaʿala llāhu ẓahrahu ṭabaqatan wāḥida
+  outcome: the hypocrite's back becomes one plate and he falls on his back
+- id: h-679.1-bridge
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  object: the bridge over hell
+  instrument: [hooks (khaṭāṭīf, kalālīb), thorns (ḥasak) like the saʿdān of Najd]
+  quoted: daḥḍun mazilla
+  outcome: [saved unhurt, scratched and let go, thrown down into hell]
+- id: h-679.1-speeds
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  agent: believers
+  action: cross the bridge
+  instrument: [glance of the eye, lightning, wind, birds, fine horses, camels]
+  quoted: ka-ṭarf al-ʿayn wa-ka-l-barq wa-ka-l-rīḥ wa-ka-l-ṭayr wa-ka-ajāwīd al-khayl wa-l-rikāb
+- id: h-679.1-weights
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  agent: believers
+  action: bring out of the fire those with good in their hearts
+  number: [a dinar, half a dinar, an atom (dharra)]
+  quoted: mithqāla dīnār ... niṣfi dīnār ... dharratin min khayr
+- id: h-679.1-handful
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  agent: the Most Merciful
+  action: takes a handful from the fire
+  object: people who never did good, turned to charcoal
+  place: a river at the mouths of paradise called the river of life
+  quoted: lam yaʿmalū khayran qaṭṭ qad ʿādū ḥumaman
+  outcome: they come out like pearls with seals on their necks, 'the freed of God'
+- id: h-679.1-seed
+  ref: Jāmiʿ 2:679.1
+  unit: hadith-2-vision-bridge-abu-said
+  object: seed sprouting in flood-silt
+  quoted: ilā l-shams uṣayfir wa-ukhayḍir ... ilā l-ẓill yakūnu abyaḍ; ka-annaka kunta tarʿā bi-l-bādiya
+  outcome: yellowish-green on the sunny side, white in shade
+- id: h-682.1-trees
+  ref: Jāmiʿ 2:682.1
+  unit: hadith-2-last-man-ibn-masud
+  agent: the last man to enter paradise
+  action: asks to be brought near a tree, to shade and drink
+  number: 3 trees
+  place: the third at the gate of paradise
+  quoted: wa-rabbuhu yaʿdhiruhu li-annahu yarā mā lā ṣabra lahu ʿalayh
+  outcome: given the world and its like
+- id: h-682.1-laugh
+  ref: Jāmiʿ 2:682.1
+  unit: hadith-2-last-man-ibn-masud
+  agent: [Ibn Masʿūd, the Prophet, the Lord of the worlds]
+  action: laughs
+  quoted: a-tastahziʾu minnī wa-anta rabbu l-ʿālamīn
+  outcome: God admits the man to paradise
+- id: h-683.1-chain
+  ref: Jāmiʿ 2:683.1
+  unit: hadith-2-intercession-trust-kinship-bridge
+  agent: the believers
+  action: ask prophets to open paradise
+  recipient: [Adam, Abraham, Moses, Jesus, Muḥammad]
+  name: [khalīl allāh, kalīmat allāh wa-rūḥuh]
+  quoted: innamā kuntu khalīlan min warāʾa warāʾ
+  outcome: Muḥammad stands and is given leave
+- id: h-683.1-trust
+  ref: Jāmiʿ 2:683.1
+  unit: hadith-2-intercession-trust-kinship-bridge
+  agent: trust and kinship (al-amāna wa-l-raḥim)
+  action: stand on either side of the bridge
+  place: right and left of the ṣirāṭ
+  quoted: fa-taqūmāni janabatay al-ṣirāṭ
+- id: h-683.1-crawl
+  ref: Jāmiʿ 2:683.1
+  unit: hadith-2-intercession-trust-kinship-bridge
+  agent: the last man on the bridge
+  action: can only crawl
+  quoted: lā yastaṭīʿu l-sayra illā zaḥfan
+- id: h-683.1-depth
+  ref: Jāmiʿ 2:683.1
+  unit: hadith-2-intercession-trust-kinship-bridge
+  object: the bottom of hell
+  number: seventy autumns
+  quoted: inna qaʿra jahannama la-sabʿūna kharīfan
+- id: h-683.2-laugh
+  ref: Jāmiʿ 2:683.2
+  unit: hadith-2-wurud-jabir
+  agent: the Lord
+  action: manifests himself laughing
+  quoted: fa-yatajallā lahum yaḍḥak
+- id: h-683.2-light
+  ref: Jāmiʿ 2:683.2
+  unit: hadith-2-wurud-jabir
+  object: the light given to each, hypocrite and believer
+  place: the bridge of hell
+  quoted: thumma yuṭfaʾu nūru l-munāfiq
+  outcome: the hypocrite's light is put out
+- id: h-683.2-first
+  ref: Jāmiʿ 2:683.2
+  unit: hadith-2-wurud-jabir
+  agent: the first band
+  number: 70,000
+  quoted: wujūhuhum ka-l-qamar laylata l-badr ... lā yuḥāsabūn
+- id: h-683.2-sprinkle
+  ref: Jāmiʿ 2:683.2
+  unit: hadith-2-wurud-jabir
+  agent: the people of paradise
+  action: sprinkle water on those brought out
+  place: the courtyard (fināʾ) of paradise
+  number: a barley grain's weight of good
+  quoted: yarushshūna ʿalayhim al-māʾ ḥattā yanbutū
+  outcome: the last given the world and ten times its like
+- id: h-684.2-levels
+  ref: Jāmiʿ 2:684.2
+  unit: hadith-2-fire-to-the-neck-water-of-life
+  agent: the fire
+  action: takes each according to his deeds
+  object: [feet, half the shins, knees, waist, breasts, neck]
+  quoted: wa-lam taghsha l-wujūh
+  outcome: thrown into the water of life, 'the washing of the people of paradise'
+- id: h-684.2-missed
+  ref: Jāmiʿ 2:684.2
+  unit: hadith-2-fire-to-the-neck-water-of-life
+  agent: the believers
+  action: miss and plead for men who prayed, gave alms, fasted, made pilgrimage and raided with them
+  quoted: ʿibādun min ʿibādika kānū maʿanā fī l-dunyā
+- id: h-685.1-name
+  ref: Jāmiʿ 2:685.1
+  unit: hadith-2-rabbi-questions-thawban
+  agent: a Jewish scholar (ḥabr)
+  action: greets the Prophet by name and is pushed by Thawbān
+  name: Muḥammad
+  quoted: inna smī Muḥammad alladhī sammānī bihi ahlī
+- id: h-685.1-questions
+  ref: Jāmiʿ 2:685.1
+  unit: hadith-2-rabbi-questions-thawban
+  agent: the Prophet
+  action: answers while scratching the ground with a stick
+  object: [where people are when the earth is changed, first to cross, gift on entering paradise, food after it, drink]
+  quoted: fī l-ẓulma dūna l-jisr; fuqarāʾ al-muhājirīn; ziyādatu kabidi l-nūn; thawru l-janna; ʿayn tusammā salsabīlā
+  outcome: the scholar says 'you have spoken truly'
+- id: h-686.1-wind
+  ref: Jāmiʿ 2:686.1
+  unit: hadith-2-wind-takes-believers
+  agent: God
+  action: sends a wind
+  place: from Yemen
+  quoted: alyan min al-ḥarīr
+  outcome: takes everyone with a grain (or atom) of faith
+- id: h-686.2-wind
+  ref: Jāmiʿ 2:686.2
+  unit: hadith-2-wind-takes-believers
+  agent: God
+  action: sends a cold wind
+  place: [from Syria, into the liver of a mountain]
+  outcome: the worst remain, light as birds with minds of beasts; Satan bids them worship idols
+- id: h-687.1-century
+  ref: Jāmiʿ 2:687.1
+  unit: hadith-2-century-none-remain
+  agent: the Prophet
+  action: swears no soul now on earth will live a hundred years
+  time: a month before his death
+  number: 100 years
+- id: h-687.3-correction
+  ref: Jāmiʿ 2:687.3
+  unit: hadith-2-century-none-remain
+  agent: ʿAlī
+  action: corrects Abū Masʿūd's report
+  number: 100 years
+  quoted: inna rakhāʾa hādhihi l-umma baʿda miʾat ʿām
+- id: h-688.1-thinking
+  ref: Jāmiʿ 2:688.1
+  unit: hadith-2-raised-on-what-he-died-on
+  agent: the Prophet
+  time: three days before his death
+  quoted: lā yamūtanna aḥadukum illā wa-huwa yuḥsinu bi-llāhi l-ẓann
+- id: h-688.3-rank
+  ref: Jāmiʿ 2:688.3
+  unit: hadith-2-raised-on-what-he-died-on
+  object: one who dies at a rank (marṭaba)
+  quoted: buʿitha ʿalayhā
+  outcome: raised on it (frontier-guard, pilgrimage, per Ḥaywa)
+- id: h-690.1-knees
+  ref: Jāmiʿ 2:690.1
+  unit: hadith-2-faith-in-all-of-decree
+  agent: a man
+  action: sits at the Prophet's knees and asks
+  object: [islām, īmān]
+  quoted: wa-tuʾmina bi-l-qadari kullih
+  outcome: 'you have spoken truly'
+- id: h-691.1-gold
+  ref: Jāmiʿ 2:691.1
+  unit: hadith-2-ibn-daylami-four-companions
+  agent: Ibn al-Daylamī
+  action: asks four Companions about decree
+  recipient: [Ubayy b. Kaʿb, Ibn Masʿūd, Ḥudhayfa, Zayd b. Thābit]
+  object: gold like Uḥud spent in God's path
+  quoted: mā qabilahu llāhu minka ḥattā tuʾmina bi-l-qadar
+  outcome: would enter the fire if he died otherwise
+- id: h-692.1-barred
+  ref: Jāmiʿ 2:692.1
+  unit: hadith-2-belief-in-decree-required
+  object: [one undutiful to parents, addicted wine-drinker, denier of decree]
+  number: 3
+  outcome: does not enter paradise
+- id: h-692.2-four
+  ref: Jāmiʿ 2:692.2
+  unit: hadith-2-belief-in-decree-required
+  object: [witness to God and his messenger, death, resurrection after death, decree]
+  number: 4
+  quoted: lā yuʾminu ʿabdun ḥattā yuʾmina bi-arbaʿ
+- id: h-696.1-eye
+  ref: Jāmiʿ 2:696.1
+  unit: hadith-2-evil-eye-and-decree
+  object: the evil eye
+  quoted: al-ʿaynu ḥaqq, wa-law kāna shayʾun sābiqa l-qadar sabaqathu l-ʿayn
+  outcome: those asked to wash must wash
+- id: h-696.2-jafar
+  ref: Jāmiʿ 2:696.2
+  unit: hadith-2-evil-eye-and-decree
+  agent: Asmāʾ bint ʿUmays
+  action: asks to seek spells
+  recipient: the sons of Jaʿfar
+  outcome: permitted
+- id: h-696.3-pen
+  ref: Jāmiʿ 2:696.3
+  unit: hadith-2-pen-first-created
+  agent: God
+  action: creates the pen first and tells it to write
+  object: the measures of everything until the Hour
+  quoted: "uktub. qāla: rabbi, mādhā aktub?"
+- id: h-698.2-hand
+  ref: Jāmiʿ 2:698.2
+  unit: hadith-2-pen-first-created
+  agent: God
+  action: takes the pen in his right hand and writes the world
+  instrument: the pen
+  quoted: wa-kiltā yadayhi yamīn; ruṭab aw yābis
+  outcome: deeds are a copy (nuskha) of what is finished
+- id: h-700.1-mabad
+  ref: Jāmiʿ 2:700.1
+  unit: hadith-2-mabad-first-to-speak-on-decree
+  agent: [Yaḥyā b. Yaʿmar, Ḥumayd b. ʿAbd al-Raḥmān]
+  action: flank Ibn ʿUmar in the mosque, one on each side, to ask about the deniers of decree
+  place: [Basra, the mosque]
+  name: Maʿbad al-Juhanī
+  quoted: wa-l-amru unuf
+  outcome: Ibn ʿUmar disowns them and cites ʿUmar's report of the white-clothed questioner
+- id: h-701.1-quraysh
+  ref: Jāmiʿ 2:701.1
+  unit: hadith-2-disputing-decree-forbidden
+  agent: polytheists of Quraysh
+  action: dispute about decree
+  outcome: Q 54:48-49 comes down
+- id: h-701.2-pomegranate
+  ref: Jāmiʿ 2:701.2
+  unit: hadith-2-disputing-decree-forbidden
+  agent: the Prophet
+  action: comes out angry at Companions disputing about decree
+  quoted: ka-annamā yufqaʾu fī wajhihi ḥabbu l-rummān; taḍribūna l-qurʾāna baʿḍahu bi-baʿḍ
+- id: h-704.1-greeting
+  ref: Jāmiʿ 2:704.1
+  unit: hadith-2-deniers-of-decree
+  agent: Ibn ʿUmar
+  action: refuses to return a greeting
+  recipient: a man said to have innovated
+  quoted: maskhun wa-khasfun wa-qadhf, wa-dhālika fī ahli l-qadar
+- id: h-713.1-forties
+  ref: Jāmiʿ 2:713.1
+  unit: hadith-2-embryo-and-the-writing
+  object: the embryo
+  time: forty days each as drop, clot, lump
+  number: [40, 4 words]
+  agent: an angel
+  action: writes deed, provision, term, wretched or happy, then the spirit is breathed in
+- id: h-713.1-cubit
+  ref: Jāmiʿ 2:713.1
+  unit: hadith-2-embryo-and-the-writing
+  agent: a man
+  action: works until a cubit separates him from paradise
+  number: one cubit
+  quoted: fa-yasbiqu ʿalayhi kitābuh
+  outcome: does the work of the fire
+- id: h-713.2-shape
+  ref: Jāmiʿ 2:713.2
+  unit: hadith-2-angel-of-the-womb
+  agent: an angel
+  action: shapes the drop
+  object: [hearing, sight, skin, flesh, bones]
+  time: after forty-two nights
+  number: 42
+  outcome: writes sex, term and provision; goes out with the scroll in his hand
+- id: h-714.1-stages
+  ref: Jāmiʿ 2:714.1
+  unit: hadith-2-angel-of-the-womb
+  agent: the angel set over the womb
+  action: announces each stage
+  quoted: yā rabbi nuṭfa, yā rabbi ʿalaqa, yā rabbi muḍgha
+- id: h-714.2-time
+  ref: Jāmiʿ 2:714.2
+  unit: hadith-2-angel-of-the-womb
+  agent: the angel
+  action: enters upon the drop and asks
+  time: forty or forty-five nights after it settles
+  number: [40, 45]
+  quoted: thumma tuṭwā l-ṣuḥuf
+- id: h-714.3-sound
+  ref: Jāmiʿ 2:714.3
+  unit: hadith-2-angel-of-the-womb
+  agent: the angel
+  action: asks male or female, sound or unsound
+  time: forty nights
+  quoted: a-sawiyyun aw ghayru sawiyy
+- id: h-714.4-eyes
+  ref: Jāmiʿ 2:714.4
+  unit: hadith-2-angel-of-the-womb
+  agent: the angel of the wombs
+  action: writes between its eyes what it will meet
+  quoted: ḥattā l-nakbata yunkabuhā
+- id: h-715.1-ascend
+  ref: Jāmiʿ 2:715.1
+  unit: hadith-2-angel-of-the-womb
+  agent: the angel of the soul
+  action: ascends to the Lord to ask
+  time: forty nights
+  outcome: Abū Dharr recites five verses from the opening of al-Taghābun
+- id: h-718.1-mercy
+  ref: Jāmiʿ 2:718.1
+  unit: hadith-2-written-before-creation
+  agent: God
+  action: writes in his book
+  place: above the throne
+  quoted: inna raḥmatī ghalabat ghaḍabī
+- id: h-719.1-fifty
+  ref: Jāmiʿ 2:719.1
+  unit: hadith-2-written-before-creation
+  agent: God
+  action: writes the measures of creatures
+  time: before heaven and earth
+  number: 50,000 years
+  quoted: wa-kāna ʿarshuhu ʿalā l-māʾ
+- id: h-719.2-twothousand
+  ref: Jāmiʿ 2:719.2
+  unit: hadith-2-written-before-creation
+  agent: God
+  action: writes a book
+  time: before heaven and earth
+  number: [2,000 years, 2 verses, 3 nights]
+  object: the closing two verses of al-Baqara
+  outcome: no devil comes near a house where they are recited three nights
+- id: h-720.1-staff
+  ref: Jāmiʿ 2:720.1
+  unit: hadith-2-each-eased-for-what-he-was-created
+  agent: the Prophet
+  action: sits at a funeral and scratches the ground with a staff (mikhṣara)
+  place: Baqīʿ al-Gharqad
+  quoted: a-fa-lā nattakilu ʿalā kitābinā
+  outcome: recites Q 92:5
+- id: h-721.2-test
+  ref: Jāmiʿ 2:721.2
+  unit: hadith-2-each-eased-for-what-he-was-created
+  agent: ʿImrān b. al-Ḥuṣayn
+  action: asks a hard question
+  recipient: Abū l-Aswad al-Duʾalī
+  quoted: a-fa-lā yakūnu ẓulman; illā li-aḥzira ʿaqlak
+  outcome: two men of Muzayna; Q 91:7-8 cited
+- id: h-722.2-badr
+  ref: Jāmiʿ 2:722.2
+  unit: hadith-2-each-eased-for-what-he-was-created
+  agent: ʿUmar
+  action: asks whether deeds are for a finished matter
+  time: on the return from Badr
+  quoted: kullun muyassarun li-mā kutiba lahu wa-ʿalayh
+- id: h-725.1-terms
+  ref: Jāmiʿ 2:725.1
+  unit: hadith-2-terms-and-provisions-fixed
+  agent: Umm Ḥabība
+  action: prays to enjoy her husband, father and brother
+  name: [Abū Sufyān, Muʿāwiya]
+  quoted: li-ājālin maḍrūba, wa-ayyāmin maʿdūda, wa-arzāqin maqsūma
+  outcome: told refuge from the fire or the grave would have been better
+- id: h-725.1-apes
+  ref: Jāmiʿ 2:725.1
+  unit: hadith-2-terms-and-provisions-fixed
+  object: apes and swine
+  quoted: inna l-qirada wa-l-khanāzīra kānū qabla dhālik
+  outcome: a destroyed people is given no offspring
+- id: h-727.2-scab
+  ref: Jāmiʿ 2:727.2
+  unit: hadith-2-terms-and-provisions-fixed
+  agent: a bedouin
+  object: scab on a camel's lip or tail-root spreading through the herd
+  number: 3 times 'nothing infects anything'
+  quoted: fa-man aʿdā l-awwal? lā ʿadwā wa-lā ṣafar wa-lā hāma
+- id: h-728.1-five
+  ref: Jāmiʿ 2:728.1
+  unit: hadith-2-terms-and-provisions-fixed
+  agent: God
+  action: has finished for each servant
+  object: [provision, term, deed, trace, resting place]
+  number: 5
+- id: h-729.1-date
+  ref: Jāmiʿ 2:729.1
+  unit: hadith-2-terms-and-provisions-fixed
+  agent: the Prophet
+  action: gives a stray date to a beggar
+  quoted: law lam taʾtihā la-atatka
+- id: h-730.1-remedy
+  ref: Jāmiʿ 2:730.1
+  unit: hadith-2-remedies-are-decree
+  agent: father of Abū Khuzāma
+  action: asks whether medicine, spells and precautions turn back decree
+  quoted: innahu min qadari llāh
+- id: h-731.1-vow
+  ref: Jāmiʿ 2:731.1
+  unit: hadith-2-vow-and-prayer-against-decree
+  object: the vow (nadhr)
+  quoted: fa-yustakhraju bihi mina l-bakhīl
+  outcome: brings nothing not decreed
+- id: h-732.2-prayer
+  ref: Jāmiʿ 2:732.2
+  unit: hadith-2-vow-and-prayer-against-decree
+  object: [prayer, devotion (birr), sin]
+  quoted: lā yaruddu l-qadara illā l-duʿāʾ; la-yuḥramu l-rizqa bi-khaṭīʾatin yaʿmaluhā
+- id: h-734.1-sargh
+  ref: Jāmiʿ 2:734.1
+  unit: hadith-2-umar-at-sargh
+  agent: ʿUmar
+  action: consults on entering a plague-struck land
+  recipient: [the first emigrants, the helpers, elders of Quraysh of the conquest]
+  place: [Sargh, Syria]
+  number: 3 consultations
+  name: [Abū ʿUbayda b. al-Jarrāḥ, ʿAbd al-Raḥmān b. ʿAwf]
+  quoted: nafirru min qadari llāhi ilā qadari llāh
+  outcome: turns back; ʿAbd al-Raḥmān cites the plague ruling
+- id: h-734.1-valley
+  ref: Jāmiʿ 2:734.1
+  unit: hadith-2-umar-at-sargh
+  agent: ʿUmar
+  object: camels in a valley with two slopes, fertile and barren
+  quoted: in raʿayta l-khaṣbata raʿaytahā bi-qadari llāh
+- id: h-735.1-sparrow
+  ref: Jāmiʿ 2:735.1
+  unit: hadith-2-paradise-and-fire-each-has-its-people
+  agent: ʿĀʾisha
+  action: calls a dead boy of the Anṣār a sparrow of paradise
+  quoted: ʿuṣfūrun min ʿaṣāfīr al-janna
+  outcome: rebuked; God created each with its people in their fathers' loins
+- id: h-735.2-four
+  ref: Jāmiʿ 2:735.2
+  unit: hadith-2-four-plead-at-resurrection
+  agent: [a deaf man, a fool, a senile man, one who died in the interval]
+  action: plead with God
+  number: 4
+  quoted: wa-l-ṣibyānu yakhdhifūnanī bi-l-baʿr
+  outcome: told to enter the fire; it would be cool and safe (bardan wa-salāman)
+- id: h-737.1-light
+  ref: Jāmiʿ 2:737.1
+  unit: hadith-2-light-cast-on-creation
+  agent: God
+  action: casts his light on creatures made in darkness
+  outcome: whom it hit was guided, whom it missed went astray
+- id: h-738.1-boy
+  ref: Jāmiʿ 2:738.1
+  unit: hadith-2-khidr-boy-stamped-unbeliever
+  agent: al-Khaḍir
+  action: kills a boy
+  quoted: ṭubiʿa kāfiran
+  outcome: had he lived he would have burdened his parents with transgression and unbelief
+- id: h-739.1-handful
+  ref: Jāmiʿ 2:739.1
+  unit: hadith-2-two-handfuls
+  agent: God
+  action: creates Adam from a handful of all the earth
+  object: [red, white, black, smooth, rough, bad, good]
+  quoted: min qabḍatin qabaḍahā min jamīʿ al-arḍ
+- id: h-739.2-shoulders
+  ref: Jāmiʿ 2:739.2
+  unit: hadith-2-two-handfuls
+  agent: God
+  action: strikes Adam's shoulders
+  object: [white offspring like small ants (dharr), black offspring like charcoal (ḥumam)]
+  quoted: ilā l-janna wa-lā ubālī ... ilā l-nār wa-lā ubālī
+- id: h-739.3-weeps
+  ref: Jāmiʿ 2:739.3
+  unit: hadith-2-two-handfuls
+  agent: Abū ʿAbd Allāh, a Companion
+  action: weeps on his sickbed
+  quoted: khudh min shāribika thumma aqirrahu ḥattā talqānī; fa-lā adrī fī ayyi l-qabḍatayn anā
+- id: h-740.2-witness
+  ref: Jāmiʿ 2:740.2
+  unit: hadith-2-two-handfuls
+  agent: God
+  action: takes Adam's offspring from his back, makes them witness, and pours them in his two palms
+  quoted: ashhadahum ʿalā anfusihim thumma afāḍa bihim fī kaffayh
+- id: h-747.1-arrow
+  ref: Jāmiʿ 2:747.1
+  unit: hadith-2-deeds-by-their-endings
+  agent: a man who claimed Islam
+  action: fights hard, then kills himself
+  instrument: an arrow from his own quiver
+  place: Khaybar
+  outcome: Bilāl calls out that only a Muslim soul enters paradise
+- id: h-746.1-sword
+  ref: Jāmiʿ 2:746.1
+  unit: hadith-2-deeds-by-their-endings
+  agent: a fighter who left no straggler alone
+  action: falls on his sword
+  instrument: sword hilt on the ground, point between his breasts
+  outcome: proves to be of the people of the fire
+- id: h-749.3-vessel
+  ref: Jāmiʿ 2:749.3
+  unit: hadith-2-deeds-by-their-endings
+  agent: Muʿāwiya
+  object: deeds and their endings
+  quoted: ka-l-duʿāʾ (printed) idhā ṭāba aʿlāhu ṭāba asfaluh
+- id: h-750.1-classes
+  ref: Jāmiʿ 2:750.1
+  unit: hadith-2-classes-of-men
+  object: the sons of Adam in classes (ṭabaqāt shattā)
+  number: 4
+- id: h-752.1-honey
+  ref: Jāmiʿ 2:752.1
+  unit: hadith-2-god-employs-his-servant
+  agent: God
+  action: honeys the servant he wants good for (ʿassalahu)
+  quoted: ʿassalahu
+  outcome: grants him a good deed before death and takes him on it
+- id: h-753.1-snakes
+  ref: Jāmiʿ 2:753.1
+  unit: hadith-2-islam-enters-houses-then-trials
+  agent: Kurz b. ʿAlqama
+  object: trials
+  instrument: [canopies (ẓulal), black snakes poured down (asāwid ṣubban)]
+  quoted: yaḍribu baʿḍukum riqāba baʿḍ
+- id: h-754.1-dispute
+  ref: Jāmiʿ 2:754.1
+  unit: hadith-2-adam-and-moses-dispute
+  agent: [Moses, Adam]
+  action: dispute
+  number: 40 years
+  quoted: khaṭṭa laka bi-yadih; fa-ḥajja Ādamu Mūsā
+  outcome: Adam out-argues Moses (said three times)
+- id: h-755.3-torah
+  ref: Jāmiʿ 2:755.3
+  unit: hadith-2-adam-and-moses-dispute
+  agent: Adam
+  action: asks how long before his creation the Torah was written
+  place: before their Lord
+  number: 40 years
+  quoted: wa-ʿaṣā Ādamu rabbahu fa-ghawā
+- id: h-757.2-shown
+  ref: Jāmiʿ 2:757.2
+  unit: hadith-2-adam-and-moses-dispute
+  agent: Moses
+  action: asks God to show him Adam
+  quoted: kallamaka llāhu min warāʾi l-ḥijāb
+- id: h-759.1-david
+  ref: Jāmiʿ 2:759.1
+  unit: hadith-2-adam-gives-david-years
+  agent: Adam
+  action: gives years of his life
+  recipient: David
+  number: [60 years given to David, 40 added]
+  outcome: denies it when the angel of death comes; his offspring deny, forget and err
+- id: h-759.2-david
+  ref: Jāmiʿ 2:759.2
+  unit: hadith-2-adam-gives-david-years
+  agent: Adam
+  action: gives years of his life
+  recipient: David
+  number: [1,000 years for Adam, 40 for David, 60 given]
+  outcome: from that day writing and witnesses were commanded
+- id: h-759.2-sneeze
+  ref: Jāmiʿ 2:759.2
+  unit: hadith-2-adam-gives-david-years
+  agent: Adam
+  action: sneezes and praises God; greets the angels
+  quoted: yarḥamuka llāhu yā Ādam; al-salāmu ʿalaykum
+  outcome: the greeting of his sons among themselves
+- id: h-762.1-cleverness
+  ref: Jāmiʿ 2:762.1
+  unit: hadith-2-everything-by-decree
+  quoted: kullu shayʾin bi-qadar ḥattā l-ʿajzu wa-l-kays
+- id: h-762.2-bowl
+  ref: Jāmiʿ 2:762.2
+  unit: hadith-2-everything-by-decree
+  agent: a woman
+  action: must not ask for her sister's divorce
+  quoted: li-tastafrigha ṣaḥfatahā
+  outcome: she has only what was decreed for her
+- id: h-763.1-zina
+  ref: Jāmiʿ 2:763.1
+  unit: hadith-2-share-of-zina
+  object: [eyes, ears, tongue, hand, foot, heart]
+  quoted: zinā l-ʿayn al-naẓar; wa-l-farju yuṣaddiqu dhālika aw yukadhdhibuh
+  outcome: the private part confirms or denies
+- id: h-766.2-satan
+  ref: Jāmiʿ 2:766.2
+  unit: hadith-2-born-on-the-fitra
+  agent: Satan
+  action: pricks every newborn in his sides
+  name: [Maryam, her son]
+  quoted: illā Maryama wa-bnahā
+- id: h-765.3-beast
+  ref: Jāmiʿ 2:765.3
+  unit: hadith-2-born-on-the-fitra
+  agent: parents
+  action: make the child Jew, Christian or Magian
+  instrument: a beast born whole until its ears are cut
+  quoted: hal tuḥissūna fīhā min jadʿāʾ
+- id: h-768.1-raid
+  ref: Jāmiʿ 2:768.1
+  unit: hadith-2-children-of-polytheists
+  agent: al-Ṣaʿb b. Jaththāma
+  action: asks about women and children struck in a night raid
+  place: [al-Abwāʾ, Waddān]
+  quoted: hum minhum
+- id: h-769.2-boy
+  ref: Jāmiʿ 2:769.2
+  unit: hadith-2-children-of-polytheists
+  agent: the Prophet
+  action: calls the man who asked about al-lāhīn
+  object: a boy fallen from a litter, digging in the ground
+  outcome: forbids killing children
+- id: h-771.1-hem
+  ref: Jāmiʿ 2:771.1
+  unit: hadith-2-children-of-muslims-in-paradise
+  agent: a dead child
+  action: takes his father's garment hem
+  name: daʿāmīṣ al-janna
+  quoted: kamā ākhudhu anā bi-ṣanifati thawbika hādhā
+  outcome: does not let go until God admits him and his father
+- id: h-771.2-mountain
+  ref: Jāmiʿ 2:771.2
+  unit: hadith-2-children-of-muslims-in-paradise
+  agent: [Abraham, Sarah]
+  action: foster the children of Muslims
+  place: a mountain in paradise
+  time: until the day of resurrection
+  outcome: handed to their fathers
+- id: h-774.1-if
+  ref: Jāmiʿ 2:774.1
+  unit: hadith-2-strong-believer-and-trial
+  quoted: fa-inna law taftaḥu ʿamala l-shayṭān; qadaru llāhi wa-mā shāʾa faʿal
+- id: h-775.1-azl
+  ref: Jāmiʿ 2:775.1
+  unit: hadith-2-withdrawal-and-destined-souls
+  agent: the Companions
+  action: ask about withdrawal from captives
+  place: the raid on Banū l-Muṣṭaliq
+  quoted: mā min nasamatin kāʾinatin ilā yawmi l-qiyāma illā wa-hiya kāʾina
+- id: h-775.2-slavegirl
+  ref: Jāmiʿ 2:775.2
+  unit: hadith-2-withdrawal-and-destined-souls
+  agent: a man
+  action: withdraws from his slave-girl
+  object: our servant and water-carrier (sāniya)
+  outcome: she conceives
+- id: h-776.1-rock
+  ref: Jāmiʿ 2:776.1
+  unit: hadith-2-withdrawal-and-destined-souls
+  object: the water of the child
+  instrument: poured on a rock
+  outcome: God would bring a child out of it
+- id: h-777.1-castrate
+  ref: Jāmiʿ 2:777.1
+  unit: hadith-2-castration-pen-has-dried
+  agent: Abū Hurayra
+  action: asks leave to castrate himself
+  number: 3 times
+  quoted: qad jaffa l-qalamu bi-mā anta lāq
+- id: h-778.1-adam
+  ref: Jāmiʿ 2:778.1
+  unit: hadith-2-adam-and-the-black-shapes
+  agent: Adam
+  action: laughs looking right, weeps looking left
+  place: the lowest heaven
+  object: shapes (aswida), the souls of his sons
+  quoted: marḥaban bi-l-nabiyyi l-ṣāliḥ wa-l-ibni l-ṣāliḥ
+- id: h-778.1-breast
+  ref: Jāmiʿ 2:778.1
+  unit: hadith-2-adam-and-the-black-shapes
+  agent: Gabriel
+  action: opens the breast and washes it
+  instrument: [Zamzam water, a gold basin full of wisdom and faith]
+  place: Mecca, through the house roof
+- id: h-780.1-istidraj
+  ref: Jāmiʿ 2:780.1
+  unit: hadith-2-istidraj
+  agent: God
+  action: gives the sinner what he loves of the world
+  quoted: fa-innamā huwa stidrāj
