@@ -40,6 +40,9 @@ new_motifs:
   victor-does-to-foe-what-foe-planned: {label: "What the enemy planned to do to the hero, the hero did to him", cluster: justice}
   subject-yields-life-to-kings-will: {label: "Before the king the subject says: 'Here I am before you; life is yours; let your majesty do as he wishes'", cluster: kingship}
   royal-women-intercede-with-king: {label: "Royal women (the queen, the princesses) intercede with the king for a man who fears his punishment", cluster: court}
+  tomb-autobiography-titles-opening: {label: "The narrative opens like a tomb autobiography: the hero's string of titles, then 'he says: I was ...'", cluster: narrative-form}
+  palace-in-mourning-at-kings-death: {label: "At the king's death the residence falls silent, the great gates are sealed and the courtiers sit head on knee in mourning", cluster: mourning}
+  crown-prince-on-campaign-returns-to-claim-throne: {label: "The crown prince, away on campaign, receives secret word of his father's death and hurries home without telling his army", cluster: kingship}
   # --- Truth and Falsehood ---
   dagger-of-cosmic-size: {label: "A lent dagger is described in cosmic proportions: its blade the mountain of Yal, its hilt the trees of Coptos, its sheath the god's tomb, its strap the herds of Kar", cluster: myth}
   younger-brother-blinds-elder: {label: "The younger brother, Falsehood, has his elder brother Truth blinded and made doorkeeper of his house", cluster: primeval}
@@ -323,11 +326,10 @@ units:
     original: true
     tagger: "Claude Opus 5.5, reading the Egyptian"
     version: "W2, pBerlin P 10499 (R), the best witness for the opening"
-    read: ["Sinuhe W2:1-23"]
+    read: ["Sinuhe W2:1-22"]
     tags:
       - {motif: tomb-autobiography-titles-opening, refs: ["Sinuhe W2:1-2/3"], note: "(j)r,(j)-pꜥ,t ḥꜣ,tj-ꜥ ... šms,w Zꜣ-nh,t ḏd =f jnk šms,w šms nb =f 'the noble and count ... the follower Sinuhe says: I was a follower who followed his lord', servant of the royal harem of the queen"}
       - {motif: king-ascends-to-heaven, refs: ["Sinuhe W2:6-7"], note: "ꜥr nṯr r ꜣḫ,t =f ... sḥri̯ r p,t ẖnm m jtn ḥꜥ nṯr ꜣbḫ m jri̯ sw 'the god ascended to his horizon ... flew to heaven, united with the sun disk, the god's body merged with him who made him'"}
-      - {motif: death-dated-by-regnal-year, refs: ["Sinuhe W2:5"], note: "rnp,t-zp 30 ꜣbd 3 ꜣḫ,t sw 7 'year 30, third month of Inundation, day 7'"}
       - {motif: palace-in-mourning-at-kings-death, refs: ["Sinuhe W2:8-10/2"], note: "jw ẖnw m sgr jb.pl m gm,w rw,tj-wr,tj ḫtm šny,t m tp-ḥr-mꜣs,t 'the residence was in silence, hearts in grief, the great double gate sealed, the court head on knee'"}
       - {motif: crown-prince-on-campaign-returns-to-claim-throne, refs: ["Sinuhe W2:11-21"], note: "Senwosret is leading the army against the Tjemehu Libyans; messengers reach him at night; n-zp sjni̯ =f rssy bjk ꜥḫi̯ =f ḥnꜥ šms,w =f 'he did not wait a moment; the falcon flew off with his followers' without telling his army"}
       - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W2:22"], note: "Messengers were also sent to the king's sons in the army (setting up the secret message Sinuhe overhears)"}
