@@ -206,6 +206,13 @@ new_motifs:
   bitter-dates-later-sweet: {label: "Proverbial consolation: early dates are bitter but later sweet; grain struck by smut in budding still gives full yield at maturity", cluster: wisdom}
   leave-a-vent-to-breathe: {label: "Plea: if you discipline your servant, leave him a vent to breathe through; turn your face toward him", cluster: prayer}
   restored-sufferer-regains-fields-and-prebends: {label: "Prayer that the restored servant regain his fields, prebend shares and sanctuary, build his storehouse and chapel", cluster: prayer}
+  people-hide-in-caves-before-invaders: {label: "Before the invaders humankind goes into caves and holes; city is no longer city, ground no longer ground", cluster: war}
+  god-creates-enemy-horde: {label: "A god creates with his own hand an invading horde of supernatural warriors (with the awesomeness of lions) and sends death, famine and high prices with them", cluster: war}
+  seven-kings-coalition-numbered-host: {label: "The invaders are a set number of allied kings (six or seven brothers) with a fixed, vast host", cluster: war}
+  enemy-host-fated-to-wander-and-starve: {label: "The gods decree that the destroying host shall not seize the holy city, shall eat no food, drink only water, wander all day and get no sleep at night", cluster: war}
+  king-sends-three-armies-all-destroyed: {label: "The king sends out three successive armies (180,000, 120,000, 60,000) against the enemy and each is annihilated", cluster: war}
+  king-despairs-reign-brings-no-wellbeing: {label: "The defeated king despairs: 'What has god brought upon my reign? I am a king who brings no well-being to his land, a shepherd who brings none to his people'", cluster: kingship}
+  land-devastated-as-by-the-flood: {label: "The land is laid low and levelled as completely as by the deluge of former times, as if it had never been", cluster: war}
 units:
   # ================= Maqlû Tablet I =================
   - id: ane-maqlu-sb-i-gods-of-night
@@ -2060,3 +2067,89 @@ units:
     hints:
       - "Compare Prov 3:11-12 and Heb 12:5-11 (the Lord disciplines the son he loves) for –:185-190; Ps 30:12 and Job 42:10-12 (fortunes restored) for –:200-211."
       - "Compare John 16:20-21 and Ps 126:5-6 (sorrow turned to joy, sowing in tears) for the bitter-then-sweet sayings."
+  # ================= Cuthaean Legend of Narām-Sîn (MB) =================
+  - id: ane-naramsin-mb-a-six-kings-created-by-ea
+    tradition: ane-akkadian
+    title: "Cuthaean Legend (MB) A b+1-29: Enmerkar left no stela; the six kings and their host created by Ea"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Middle Babylonian
+    read: ["NaramSin MB A:b+1-b+29"]
+    tags:
+      - {motif: predecessor-left-no-stela-not-blessed, refs: ["NaramSin MB A:b+2", "NaramSin MB A:b+3"], note: "[e]nmekar ul išṭuram-ma narâ ... mahar šamaš ul akrubšū-ma (Enmerkar partly restored)"}
+      - {motif: people-hide-in-caves-before-invaders, refs: ["NaramSin MB A:b+4", "NaramSin MB A:b+5", "NaramSin MB A:b+6"], note: "awīlūtu īrub ... ana hurrī"}
+      - {motif: seven-kings-coalition-numbered-host, refs: ["NaramSin MB A:b+7", "NaramSin MB A:b+25"], note: "šeššet šarrū ... šediš meʾāt ummānšunu"}
+      - {motif: god-creates-enemy-horde, refs: ["NaramSin MB A:b+8", "NaramSin MB A:b+9", "NaramSin MB A:b+10", "NaramSin MB A:b+11", "NaramSin MB A:b+12", "NaramSin MB A:b+15"], note: "qātiššu ibnīšunūti ... šalummat nēšī"}
+      - {motif: god-forbids-extinction-of-species, refs: ["NaramSin MB A:b+16"], note: "aššum lā hulluqi awīlūti"}
+      - {motif: enemy-host-fated-to-wander-and-starve, refs: ["NaramSin MB A:b+17", "NaramSin MB A:b+18", "NaramSin MB A:b+19", "NaramSin MB A:b+20", "NaramSin MB A:b+21", "NaramSin MB A:b+22", "NaramSin MB A:b+23", "NaramSin MB A:b+24"], note: "the bricks of the wall to be their god; l. 19: let it not seize the city of Šamaš"}
+      - {motif: invaders-from-mountains-overrun-known-world, refs: ["NaramSin MB A:b+26"], note: "the mountains reared them"}
+    hints:
+      - "Compare Isa 2:19-21 and Rev 6:15-16 (people enter caves of the rocks before the terror) and Judg 6:2 for A:b+4."
+      - "Compare Ezek 38-39 (Gog's horde brought by God from the north) and Joel 2:1-11 (the divine army)."
+  - id: ane-naramsin-mb-a-approach-to-akkad
+    tradition: ane-akkadian
+    title: "Cuthaean Legend (MB) A c+1-d+9: the host reaches the gate of Akkad and sends a message to Narām-Sîn (fragmentary)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Middle Babylonian
+    read: ["NaramSin MB A:c+1-d+9"]
+    tags:
+      - {motif: seven-kings-coalition-numbered-host, refs: ["NaramSin MB A:c+11"], note: "nīnu athû"}
+      - {motif: envoys-demand-submission, refs: ["NaramSin MB A:c+8", "NaramSin MB A:c+9", "NaramSin MB A:c+10", "NaramSin MB A:c+13"], note: "they reach the gate of Akkad and send to Narām-Sîn; 'sea folk' mentioned; c+18 to d+9 broken (only 'wife', 'lost', 'shores' legible)"}
+    hints:
+      - "Compare 2Kgs 18:17-35 (the Rabshakeh's message at the walls of Jerusalem)."
+  - id: ane-naramsin-mb-b-fragment
+    tradition: ane-akkadian
+    title: "Cuthaean Legend (MB) B: kings brought into a cave (fragment)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Middle Babylonian
+    read: ["NaramSin MB B:a+1-b+1"]
+    tags:
+      - {motif: people-hide-in-caves-before-invaders, refs: ["NaramSin MB B:a+2", "NaramSin MB B:a+3", "NaramSin MB B:a+4", "NaramSin MB B:a+5"], note: "hurri; made them enter / come out; kings; badly broken"}
+    hints:
+      - "Compare Josh 10:16-27 (five kings shut in the cave at Makkedah and brought out)."
+  # ================= Cuthaean Legend of Narām-Sîn (OB) =================
+  - id: ane-naramsin-ob-i-three-armies-destroyed
+    tradition: ane-akkadian
+    title: "Cuthaean Legend (OB) I a+1-b+22: three armies annihilated — 'What has god brought upon my reign?'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Old Babylonian
+    read: ["NaramSin OB I:a+1-b+22"]
+    tags:
+      - {motif: king-sends-three-armies-all-destroyed, refs: ["NaramSin OB I:b+1", "NaramSin OB I:b+2", "NaramSin OB I:b+3", "NaramSin OB I:b+4", "NaramSin OB I:b+5", "NaramSin OB I:b+6", "NaramSin OB I:b+7", "NaramSin OB I:b+8"], note: "b+1 restored; 360,000 dead in all; lines a+1-17 fragmentary (the king pondering, a messenger, kingship)"}
+      - {motif: king-despairs-reign-brings-no-wellbeing, refs: ["NaramSin OB I:b+9", "NaramSin OB I:b+10", "NaramSin OB I:b+11", "NaramSin OB I:b+12", "NaramSin OB I:b+13", "NaramSin OB I:b+14"], note: "anāku šarrum lā mušallim mātīšu u rēʾûm lā mušallim nišīšu"}
+      - {motif: god-brings-enemy-from-mountains, refs: ["NaramSin OB I:b+17", "NaramSin OB I:b+18", "NaramSin OB I:b+19", "NaramSin OB I:b+20"], note: "[n]akram dannam idkeam-ma: he raised a mighty foe, the Hari people, Malgium, Gukkanium"}
+    hints:
+      - "Compare 2Kgs 6:26-33 (the king of Israel: 'this evil is from YHWH, why should I wait?') and 1Kgs 22:17 (sheep without a shepherd) for b+11-14; Judg 7:2-7 for successive army numbers."
+  - id: ane-naramsin-ob-i-land-levelled-like-flood
+    tradition: ane-akkadian
+    title: "Cuthaean Legend (OB) I c+1-d+17: Akkad levelled as by the deluge of former times"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Old Babylonian
+    read: ["NaramSin OB I:c+1-d+17"]
+    tags:
+      - {motif: land-devastated-as-by-the-flood, refs: ["NaramSin OB I:c+8", "NaramSin OB I:c+9", "NaramSin OB I:c+10", "NaramSin OB I:c+11", "NaramSin OB I:c+12", "NaramSin OB I:c+13", "NaramSin OB I:c+17"], note: "kīma abūb mê ša ibbašû ina nišī mahriātim; kīma lā nabšîm"}
+      - {motif: storm-god-voice-shakes-heaven-and-earth, refs: ["NaramSin OB I:c+4"], note: "what Adad called out over the land"}
+      - {motif: music-of-city-silenced, refs: ["NaramSin OB I:c+5", "NaramSin OB I:c+16"], note: "hubūrša iktabas"}
+      - {motif: god-brings-enemy-from-mountains, refs: ["NaramSin OB I:c+14"], note: "ina ezēz ilī: because of the anger of the gods"}
+      - {motif: famine-inflated-market-prices, refs: ["NaramSin OB I:d+13"], note: "mahīram sanqam; column d otherwise fragmentary (Ištar, battles, 'he let them defeat me')"}
+    hints:
+      - "Compare Isa 24:1-13 and Jer 4:23-26 (the land laid waste, as before creation) and Gen 6-8 for the flood comparison."
+  - id: ane-naramsin-ob-ii-fragment
+    tradition: ane-akkadian
+    title: "Cuthaean Legend (OB) II: 'He contrived battle against it, reducing it to ruins' (fragment)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Old Babylonian
+    read: ["NaramSin OB II:1-c+2"]
+    tags:
+      - {motif: land-devastated-as-by-the-flood, refs: ["NaramSin OB II:1", "NaramSin OB II:2"], note: "kīma karmi uštēwi; the rest of the column is broken"}
