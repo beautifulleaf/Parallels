@@ -1,0 +1,331 @@
+# Full read, chunk 54: CTH 414.1 - Kuntillet Ajrud. Hittite rituals read from hethiter.net / TLHdig; Northwest Semitic inscriptions after the published editions.
+new_motifs:
+  house-plastered-with-long-years-and-awe: {label: "Building words: plaster the new house inside with long years and the good, and outside with awe and lordship", cluster: building}
+  king-addresses-throne-goddess-as-companion: {label: "The king speaks to the throne (the throne-goddess Halmasuit) as his companion and asks her to hand over the mountain's timber", cluster: kingship}
+  throne-brought-kingship-from-sea: {label: "The throne-goddess brought the king rulership and the chariot from the sea, and he was named Labarna", cluster: kingship}
+  sun-and-storm-god-entrust-land-to-king: {label: "The Sun god and the Storm god have handed over (maniyaḫḫ-) the land and the king's house to the king", cluster: kingship}
+  trees-grown-under-heaven-claimed-for-palace: {label: "Trees that grew under heaven, under which the lion and leopard slept and cattle and sheep grazed, are claimed from the storm god and felled for the palace", cluster: building}
+  timbers-asked-to-reveal-hidden-evil: {label: "The felled timbers are told to reveal what is in their heart, whether grief, evil, curse or illness, and sweep it out", cluster: ritual}
+  eagle-sent-to-spy-out: {label: "In a ritual a speaker sends the eagle out to spy and report who is in the green forest", cluster: ritual}
+  netherworld-goddesses-spin-kings-years: {label: "Ancient netherworld goddesses (Išduštaya and Papaya) kneel with distaff and full spindles and spin the king's years", cluster: fate}
+  kings-years-without-limit: {label: "The gods give the king many years, and his years have no shortness or limit", cluster: kingship}
+  litany-take-away-ills-from-king: {label: "Litany 'take from him': illness, fear, headache, the evil words of men, revenge, knee and heart illness are taken from the king", cluster: ritual}
+  mountains-told-to-stay-in-place: {label: "Named mountains are told to stay in their place and not drive away the great one", cluster: cosmology}
+  gods-rejuvenate-king: {label: "The gods take away the king's old age and give him back youth and fighting strength", cluster: kingship}
+  king-made-of-tin-and-iron-eagle-eyes-lion-teeth: {label: "The gods make the king a figure of tin with a head of iron, eagle's eyes and lion's teeth", cluster: kingship}
+  kings-soul-intertwined-with-heart: {label: "Lion's and leopard's paws are braided into one so that the king's soul be intertwined with his heart", cluster: ritual}
+  gods-assembled-on-mountain-rejoice-in-king: {label: "All the gods are gathered on the mountain and rejoice in the king and esteem him", cluster: kingship}
+  grain-crushed-so-may-kings-foe-be-crushed: {label: "Grain is poured out and crushed: may the gods give over to evil and crush whoever plans evil against the king", cluster: ritual}
+  building-works-provisioned-with-sacrifice: {label: "Each stage of building (felling timber, laying foundation stones, plastering, setting the hearth) is provisioned from the palace with bulls, sheep, wine and loaves and sacrifices to the gods", cluster: building}
+  gods-set-up-hearth: {label: "The gods set up the hearth, sprinkle it with copper beads, wipe it with iron and sit on it", cluster: cult}
+  hearth-says-this-is-good-for-me: {label: "As the household sits at the new hearth (king, queen, daughters, brothers), the hearth says 'This is good for me'", cluster: cult}
+  vine-roots-below-shoots-above-blessing: {label: "Analogy: as the vine sends roots downward and shoots upward, so may the king and queen", cluster: ritual}
+  evergreen-tree-blessing-king-flourish: {label: "Analogy: as the evergreen tree is always flourishing and does not shed its leaves, so may the king and queen flourish and their word endure", cluster: ritual}
+  descendants-many-at-hearth: {label: "Wish that sons, daughters, grandchildren and great-grandchildren become numerous", cluster: blessing}
+  ritual-place-fed-and-told-admit-no-other-god: {label: "The ritual place (pedan) is given food and drink and told: eat, drink, rejoice; let no other god and no evil sign enter; watch over the god you are assigned to", cluster: building}
+  no-god-invoked-aloud: {label: "During the rite no deity is invoked aloud by the mouth", cluster: cult}
+  foundation-filled-with-seeds-metals-stones: {label: "The foundations are filled with every seed and fruit, oil, butter, honey, salt, silver, gold, precious stones and glass", cluster: building}
+  bronze-statues-and-winged-bull-at-foundation-corners: {label: "Bronze statues of the house-building goddess (NIN.É.MU.UN.DÙ) are set at each corner of the foundation and a winged bronze bull at the place of the pillars", cluster: building}
+  ear-shaped-breads-put-in-statues-ears: {label: "Breads shaped like ears are put into the ears of the bronze foundation statues and the bronze bull", cluster: building}
+  impure-remains-taken-by-officiant: {label: "Meat and bread that are not pure are taken by the officiant for himself", cluster: cult}
+  iron-tongues-in-mouths-of-king-and-queen: {label: "Tongues of iron are put in the mouths of king and queen and the 'tongues' (slanders) of the population are taken from them", cluster: ritual}
+  king-and-queen-spit-on-substitute: {label: "King and queen spit three times on a clay figurine, an ox, or a clay army that carries off their evil", cluster: ritual}
+  bloody-eyed-goddesses-holding-heads: {label: "Wooden Ḫantašepa deities with blood-stained eyes and blood-red garments hold human heads and spears", cluster: ritual}
+  ritual-objects-buried-and-nailed-down: {label: "The carrier figurines and cups are buried in the earth and nailed down so that the evil may not come back up", cluster: ritual}
+  enemy-to-carry-away-evil: {label: "Wish that the enemy (the enemy land) carry away the evil removed from the royal couple", cluster: ritual}
+  eagle-released-to-sky-as-messenger: {label: "An eagle waved over the royal couple is released to the sky and told to tell the Sun goddess and Storm god that king and queen should be eternal", cluster: ritual}
+  as-gods-eternal-so-king: {label: "Analogy: as the Sun goddess and the Storm god, heaven and earth, are eternal, so may king, queen and children be eternal", cluster: kingship}
+  not-i-but-the-king-released-it: {label: "The ritual expert disclaims the act: 'Not I released it; the king and queen released it'", cluster: ritual}
+  coloured-threads-tied-and-cut-from-fingers: {label: "Threads of five colours are hung on a tree and tied to the fingers of king and queen, then cut with a thorn bush to remove pain and constraint", cluster: ritual}
+  goat-with-breads-on-horns-driven-away: {label: "A billy-goat with breads hung on its horns is driven away after the royal couple's evil is taken", cluster: ritual}
+  hidden-birds-released-startle-king: {label: "The expert secretly holds two birds and releases them toward a branch; king and queen are startled and he cries 'I have taken your pain'", cluster: ritual}
+  spittle-sealed-in-cup-with-lead-lid: {label: "King and queen spit into a clay cup which is closed with a lid of lead", cluster: ritual}
+  expert-goes-to-house-of-children-only-when-told: {label: "The ritual expert goes to the house of the (royal) children only when king and queen tell him; once he used to go, now he no longer does", cluster: ritual}
+  omen-observed-in-blood-cup-and-hearth: {label: "At dawn the expert and the physician inspect the blood-filled cup and the hearth and report whatever sign appears to king and queen", cluster: divination}
+  pain-taken-from-throne-bed-heart: {label: "Pain, woe and constraint are taken from the royal couple's throne, bed, heart and limbs and handed to the Sun of heaven and Sun of the earth", cluster: ritual}
+  figurines-inscribed-with-enemys-name: {label: "Ritual experts make figurines (of cedar and of clay) and put on them the name of the king's enemy", cluster: ritual}
+units:
+  - id: ane-cth-414-1-1-plaster-long-years
+    tradition: ane-hittite
+    title: Palace-building ritual opens - plaster long years inside, awe outside (CTH 414.1 §1-2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 414.1 §1:1-§2:10"]
+    tags:
+      - {motif: house-plastered-with-long-years-and-awe, refs: ["CTH 414.1 §2:6-10"], note: "MU.KAM{ḪI.A} GÍD.DA [ḫa-a-ni-iš]; na-aḫ-ša-ra-at-ta-an ḫa-a-ni-iš; restored in part from §39-40"}
+      - {motif: divine-sanction-for-building, refs: ["CTH 414.1 §1:4-5"], note: "partly restored: [ku-it É.GA]L! ú-e-da-a-ši ... {D}]IM-an-na a-a-ra-i-e-er, 'concerning the palace you build they asked the Sun god and the Storm god'"}
+    hints:
+      - "Building as a sacred act sanctioned by God: compare Q 2:127 (Abraham and Ishmael raise the House's foundations, praying 'accept it from us') and Q 9:108-109 (a building founded on piety versus one on a crumbling bank); HB Ps 127:1 ('unless YHWH builds the house')."
+
+  - id: ane-cth-414-1-3-king-throne-timber
+    tradition: ane-hittite
+    title: The king, the throne-goddess and the mountain's trees (CTH 414.1 §3-14)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 414.1 §3:11-§14:65"]
+    tags:
+      - {motif: king-addresses-throne-goddess-as-companion, refs: ["CTH 414.1 §3:11-16", "CTH 414.1 §10:41-§11:47"], note: "{GIŠ}DAG-ti te-ez-zi; a-ra-aš-mi-iš a-ra-a-aš-mi-<iš> e-eš 'be my companion'; the throne answers kar-aš-ša-at-kán kar-aš 'fell it, fell!'"}
+      - {motif: throne-brought-kingship-from-sea, refs: ["CTH 414.1 §7:27-29"], note: "{GIŠ}DAG-iz a-ru-na-za ú-da-aš ... la-ba-ar-na-an ḫal-zi-i-e-er (the line is Hattic-flavoured; the translation 'Halmasuit' interprets DAG)"}
+      - {motif: sun-and-storm-god-entrust-land-to-king, refs: ["CTH 414.1 §5:21-22", "CTH 414.1 §11:47", "CTH 414.1 §12:49"], note: "{D}UTU-uš {D}IM-aš-ša ud-ne-e É-ir-mi-it-ta ma-ni-ya-aḫ-ḫi-ir"}
+      - {motif: kings-years-without-limit, refs: ["CTH 414.1 §6:25-26"], note: "me-ek-ku-uš MU.KAM{ḪI.A}-uš ... ku-ut-re-eš-me-et NU.GÁL"}
+      - {motif: trees-grown-under-heaven-claimed-for-palace, refs: ["CTH 414.1 §8:31-§10:40"], note: "UR.MAḪ-aš kat-ta-an še-eš-ki-it, UG.TUR ... ḫar-tág-ga-aš (bear) climbed you; the storm god 'put evil to you'"}
+      - {motif: timbers-asked-to-reveal-hidden-evil, refs: ["CTH 414.1 §13:53-§14:63"], note: "ku-it-ma-aš-<ma-aš>-kán kar-di-eš-mi! an-da na-at uš-ši-it-tén; ḫur-ta-aš 'curse'; illness of the Sun god"}
+      - {motif: king-pours-tin-and-iron-into-heart, refs: ["CTH 414.1 §14:64-65"], note: "kar-di-iš-mi AN.NA AN.BAR-ya; the verb is broken"}
+      - {motif: mountain-guarded-by-god, refs: ["CTH 414.1 §4:17-20"], note: "loose: the throne is told zi-ik ḪUR.SAG-an-da-an pa-aḫ-ḫa-aš-ša-nu-ut 'protect the mountain'"}
+      - {motif: neighbours-keep-to-own-house, refs: ["CTH 414.1 §5:23-24"], note: "zi-ik am-me-el É-na le-e ú-wa-ši ú-ga tu-e-el pár-na Ú-UL ú-wa-a-mi"}
+      - {motif: king-praises-storm-god-as-father, refs: ["CTH 414.1 §8:30"], note: "ad-da-aš-ma-an {D}U-an wa-al-lu-uš-ki-mi"}
+    hints:
+      - "Kingship and land handed over by the gods: compare Q 3:26 ('You give kingship to whom You will') and Q 2:247 (God gives Saul kingship); HB 1 Kgs 3:7."
+      - "Timber cut from the mountain for the royal house: compare 1 Kgs 5:6-10 (cedars of Lebanon for Solomon's temple and palace) and Q 34:12-13 (the jinn build for Solomon)."
+      - "The throne as speaking companion of the king: contrast Q 27:38-42 (the queen's throne brought to Solomon) and Q 38:34 (a body cast on Solomon's throne)."
+
+  - id: ane-cth-414-1-15-eagle-spinners-renewal
+    tradition: ane-hittite
+    title: The eagle sees the fate goddesses spinning the king's years; the king renewed (CTH 414.1 §15-33)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 414.1 §15:66-§33:155"]
+    tags:
+      - {motif: eagle-sent-to-spy-out, refs: ["CTH 414.1 §15:66-71", "CTH 414.1 §16:72-73", "CTH 414.1 §26:122-125"], note: "{GIŠ}DAG-iz TI₈{MUŠEN}-an ḫal-za-a-i ... ú-li-li-ya {GIŠ}TIR-na šu-ú-wa-ya 'spy into the green forest'"}
+      - {motif: netherworld-goddesses-spin-kings-years, refs: ["CTH 414.1 §16:74-§18:81"], note: "{D}Iš-du-uš-ta-ya-aš {D}Pa-pa-ya-aš kat-te-er-re-eš ka-ru-ú-e-li-e-eš DINGIR{MEŠ} ... {GIŠ}ḫu-u-la-li ḫar-zi ... LUGAL-wa-aš MU.KAM{ḪI.A}-uš ma-al-ki-ya-an-zi"}
+      - {motif: kings-years-without-limit, refs: ["CTH 414.1 §18:81", "CTH 414.1 §32:150"], note: "the number of the years 'is not visible' (Ú-UL du-uq-qa-a-ri); ku-ut-ri-iš Ú-UL i-e-er"}
+      - {motif: litany-take-away-ills-from-king, refs: ["CTH 414.1 §20:89-§21:98", "CTH 414.1 §24:112-§25:119"], note: "an-tu-uḫ-ša-aš i-da-a-lu INIM{MEŠ}-ar da-at-tén 'take the evil words of man'"}
+      - {motif: mountains-told-to-stay-in-place, refs: ["CTH 414.1 §22:99-§23:107"], note: "ti-i-ya šal-li-iš MUL-aš 'step forth, great star!'; Pentaya, Harga, Tutḫaliya, Šituwani, Piškurunuwa: pé-e-di-it-ti e-eš"}
+      - {motif: gods-rejuvenate-king, refs: ["CTH 414.1 §25:119-121", "CTH 414.1 §32:148-149"], note: "mi-ḫu-un-ta-tar-še-kán da-a-aš; ma-ya-ta-tar-ma-aš-ši EGIR-pa pa-iš; na-an da-a-an ma-ya-an-da-aḫ-ḫi-ir"}
+      - {motif: kings-soul-intertwined-with-heart, refs: ["CTH 414.1 §27:126-§28:131"], note: "LUGAL-wa-aš ZI-aš kar-di-iš-ši-ya ta-ru-up-ta-ru"}
+      - {motif: sun-and-storm-god-entrust-land-to-king, refs: ["CTH 414.1 §29:132-136"], note: "ták-šu-li-ši-it da-an-du 'may they make a pact (takšul) with the king'; they renewed his years and awe (ne-wa-aḫ-ḫi-ir)"}
+      - {motif: king-made-of-tin-and-iron-eagle-eyes-lion-teeth, refs: ["CTH 414.1 §30:137-140"], note: "ALAM-iš-ši AN.NA-aš i-e-er, SAG.DU-ZU AN.BAR-aš, ša-a-ku-wa-aš-ši TI₈{MUŠEN}-aš, ZU₉{ḪI.A} UR.MAḪ-aš"}
+      - {motif: gods-assembled-on-mountain-rejoice-in-king, refs: ["CTH 414.1 §31:141-147"], note: "Telipinu brings wine '9 sevenfold'; DINGIR{MEŠ} ḫu-u-ma-an-te-eš ḪUR.SAG-i ta-ru-up-pa-an-te-eš"}
+      - {motif: grain-crushed-so-may-kings-foe-be-crushed, refs: ["CTH 414.1 §33:151-155"], note: "ku-iš LUGAL-i i-da-a-lu ša-an-ḫa-az-zi ... pa-ak-ku-uš-kán-du"}
+      - {motif: weaving-women-appease-king, refs: ["CTH 414.1 §20:84-89"], note: "{MUNUS.MEŠ}UŠ.BAR ... figs, raisins set before them; LUGAL-un-wa li-li-iš-ki-it-tén 'appease the king'"}
+    hints:
+      - "Goddesses spinning the length of a life: compare the Greek Moirai; in the Quran the term (ajal) of each life is fixed by God alone and written: Q 35:11 ('no one is given long life or has his life shortened but it is in a Book'), Q 7:34, Q 3:145."
+      - "Old age removed, youth restored: contrast Q 36:68 ('whom We give long life We reverse in creation') and Q 16:70, 22:5 (returned to the most decrepit age); HB Ps 103:5 ('your youth renewed like the eagle')."
+      - "Mountains told to stay in place: compare the Quranic mountains as pegs that keep the earth from shaking, Q 16:15, 21:31, 78:7."
+      - "Gods assembled on the mountain rejoicing in the king: contrast the Quranic denial of a divine council, Q 21:22, 23:91."
+
+  - id: ane-cth-414-1-34-foundation-hearth-analogies
+    tradition: ane-hittite
+    title: Provisions for the building stages; the new hearth and the tree analogies; colophon (CTH 414.1 §34-55)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 414.1 §34:156-§55:224"]
+    tags:
+      - {motif: building-works-provisioned-with-sacrifice, refs: ["CTH 414.1 §34:156-158", "CTH 414.1 §35:159-160", "CTH 414.1 §36:161-163", "CTH 414.1 §37:164-165", "CTH 414.1 §41:176", "CTH 414.1 §54:222-223"], note: "ša-ma-nu-uš-ma iš-ḫu-wa-an-zi 'when they pour the foundation stones': bull to the Storm god, cow to the Sun goddess of Arinna"}
+      - {motif: house-plastered-with-long-years-and-awe, refs: ["CTH 414.1 §39:168-§40:175"], note: "{GIŠ}DAG-iz-wa [t]ar-aš-ki-iz-zi: the throne speaks the plastering words"}
+      - {motif: gods-set-up-hearth, refs: ["CTH 414.1 §42:177-§43:182"], note: "DINGIR{MEŠ}-wa GUNNI da-a-ir ... AN.BAR-it ša-an-[ḫi]-ir ... e-ša-an-ta-ri"}
+      - {motif: hearth-says-this-is-good-for-me, refs: ["CTH 414.1 §43:183-§45:194", "CTH 414.1 §47:197-200"], note: "GUNNI te-ez-zi a-pa-a-at-wa-mu-kán a-aš-šu; the brothers rejoice like eagles"}
+      - {motif: descendants-many-at-hearth, refs: ["CTH 414.1 §47:198"], note: "DUMU.NÍTA{MEŠ} DUMU.MUNUS{MEŠ} ḫa-aš-še-eš ḫa-an-za-aš-še-eš ma-ak-ke-eš-ša-an-du"}
+      - {motif: simile-curse-just-as-so-may, refs: ["CTH 414.1 §49:203-206"], note: "positive analogy: as the thighs stand arlipa, so may the king's words stand"}
+      - {motif: vine-roots-below-shoots-above-blessing, refs: ["CTH 414.1 §50:207-210"], note: "kat-ta šu-u-ur-ku-uš ša-ra-a-ma-wa {GIŠ}ma-aḫ-lu-uš"}
+      - {motif: evergreen-tree-blessing-king-flourish, refs: ["CTH 414.1 §51:211-216"], note: "{GIŠ}e-ya-an ... ḫur-pa-aš-ta-nu-uš ar-ḫa Ú-UL iš-ḫu-wa-i; ud-da-a-ar ... uk-tu-u-ri e-eš-du"}
+      - {motif: queen-asks-sons-daughters-long-years, refs: ["CTH 414.1 §52:217-220"], note: "loose: as these trees are tended, so may grandchildren and great-grandchildren tend king and queen"}
+      - {motif: foundation-deposit-under-hearth, refs: ["CTH 414.1 §48:201-202", "CTH 414.1 §53:221"], note: "fat, honey, cheese, white and black wool, malt, nuts, raisins, salt ...; ke-e ḫu-u-ma-an ŠA-PAL GUNNI zi-ik-kán-zi"}
+      - {motif: scribal-colophon, refs: ["CTH 414.1 §55:224"], note: "ŠU {m}Pí-ik-ku PA-NI {m}A-nu-wa-an-za IŠ-ṬUR; the line also carries editorial notes"}
+    hints:
+      - "The vine with roots below and fruit above, the evergreen tree: compare the good word as a good tree, its root firm and branches in heaven, Q 14:24-25, and Ps 1:3, 92:13-15 (the righteous flourish like a palm, still green in old age); contrast Amos 2:9 (fruit above and roots below destroyed)."
+      - "Offering at the laying of foundations: compare Ezra 3:10-11 and 1 Kgs 16:34 (Hiel's sons at Jericho's foundation)."
+
+  - id: ane-cth-414-2-duplicate-analogies
+    tradition: ane-hittite
+    title: Palace-building ritual, second manuscript - thigh and vine analogies, effigies, a man's new house (CTH 414.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "CTH 414.2 (parallel version, fragmentary)"
+    read: ["CTH 414.2 §1:1-§8:19"]
+    tags:
+      - {motif: vine-roots-below-shoots-above-blessing, refs: ["CTH 414.2 §4:7-§5:11"], note: "{GIŠ}GEŠTIN-wa! ma-aḫ-ḫa-an kat-ta šur-x[...]; long years, [health] (ḫa-ad-du-la-an-ni-it) restored"}
+      - {motif: simile-curse-just-as-so-may, refs: ["CTH 414.2 §2:2-§3:6"], note: "positive analogy, thigh standing arlipa; LUGAL-ya MUNUS.LUGAL QA-TAM-MA a[r-li-pa]"}
+      - {motif: royal-effigies-in-ritual, refs: ["CTH 414.2 §6:12-§7:16"], note: "ki-i ḫi-im-mi-i[š], ku-u-uš ḫi-im-mu-uš 'these replicas'; {d}UTU-ŠI 'My Sun' named; context broken"}
+      - {motif: building-works-provisioned-with-sacrifice, refs: ["CTH 414.2 §8:17-19"], note: "UN-aš É{MEŠ} G[IBIL] ú-e-te-ez-zi: the rite extended to any man (UN) who builds new houses; a hearth and iron mentioned"}
+    hints:
+      - "The rite applied to any man building a house: compare Deut 20:5 (who has built a new house and not dedicated it)."
+
+  - id: ane-cth-414-3-festival-fragment
+    tradition: ane-hittite
+    title: Festival ritual fragment - zintuḫi women, lambs brought from Hattuša (CTH 414.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 414.3 §1:1-§4:13"]
+    tags:
+      - {motif: women-singers-in-cult, refs: ["CTH 414.3 §1:2-4"], note: "6 {MUNUS.MEŠ}zi-in-tu-[ḫi] sit right and 6 left"}
+      - {motif: lambs-presented-to-king-and-queen, refs: ["CTH 414.3 §4:10-13"], note: "the weavers bring 2 SILA₄ out of Hattuša; 1 SILA₄ A-NA LUGAL, 1 SILA₄ A-NA MUNUS.LUGAL; §2 broken"}
+
+  - id: ane-cth-414-4-sun-god-tabarna-fragment
+    tradition: ane-hittite
+    title: Fragment naming the Sun god and the Tabarna (CTH 414.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 414.4 §1:1-§4:8"]
+    tags:
+      - {motif: sun-and-storm-god-entrust-land-to-king, refs: ["CTH 414.4 §3:4-6"], note: "very loose: only e-ḫu 'come!', {D}UTU-i ut-ne[-, ut-ni-ia-an-da-an, [t]a-ba-ar-na-aš survive"}
+
+  - id: ane-cth-414-5-palace-fragment
+    tradition: ane-hittite
+    title: Fragment of a palace-building ritual - long years, hearth, vine and eya-tree (CTH 414.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "CTH 414.5 (parallel version, fragmentary)"
+    read: ["CTH 414.5 §1:1-§8:23"]
+    tags:
+      - {motif: house-plastered-with-long-years-and-awe, refs: ["CTH 414.5 §1:1-§2:8"], note: "É.G]AL-LAM GIBIL-TIM; ta-lu-ga-uš MU{ḪI.A}-uš 'long years' ... the verb is different from ḫaniš- and broken"}
+      - {motif: building-works-provisioned-with-sacrifice, refs: ["CTH 414.5 §3:9"], note: "3 DUG KAŠ.GEŠTIN, 20 NINDA KU₇, 50 NINDA.ÉRIN{MEŠ}"}
+      - {motif: gods-set-up-hearth, refs: ["CTH 414.5 §4:10-§5:14"], note: "ḫa-aš-ša-an in the new palace; the words are lost"}
+      - {motif: vine-roots-below-shoots-above-blessing, refs: ["CTH 414.5 §7:18-20"]}
+      - {motif: evergreen-tree-blessing-king-flourish, refs: ["CTH 414.5 §8:21-23"], note: "only e?-ya-an? survives"}
+      - {motif: simile-curse-just-as-so-may, refs: ["CTH 414.5 §6:15-17"], note: "positive analogy: [ar-l]i-pa-a a-r[a-] 'stand arlipa'"}
+
+  - id: ane-cth-415-1-keldi-ritual-for-place
+    tradition: ane-hittite
+    title: Temple-building ritual - offering in the pit; the place told to admit no other god (CTH 415 §1-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 415 §1:1-§13:79"]
+    tags:
+      - {motif: ritual-place-fed-and-told-admit-no-other-god, refs: ["CTH 415 §6:39-§7:43", "CTH 415 §11:62-§12:71"], note: "pé-e-ta-an-ti e-et-za [e-ku] ... ta-ma-i-in-ma-za-an DINGIR-LAM ḪUL-lu-u[n-n]a ša-ga-in an-da le-e tar-na-at-ti"}
+      - {motif: silver-and-gold-placed-in-pit, refs: ["CTH 415 §5:33-§6:35", "CTH 415 §9:49-51"], note: "[KÙ.B]ABBAR-ya-kán an-da da-a-i; [GUŠKIN] KÙ.BABBAR-ya-kán an-da tar-na-i; the place anointed all round"}
+      - {motif: libation-poured-three-times, refs: ["CTH 415 §6:36-37"], note: "3-ŠU ši-pa-an-ti; then fine oil poured"}
+      - {motif: no-god-invoked-aloud, refs: ["CTH 415 §8:44-47"], note: "[DINGIR-L]UM-ma-kán KAxU-az Ú-UL ku-in-ki ú-e-ri-ya-an-zi"}
+      - {motif: drinking-to-altar-throne-table-hearth, refs: ["CTH 415 §10:52-58"], note: "ZAG.GAR.RA AŠ-RU {GIŠ}ŠÚ.A {GIŠ}BANŠ[UR] ... e-ku-zi: he 'drinks' the altar, the place, the throne, the table, the censer and the brazier"}
+      - {motif: offerings-quench-thirst-of-place, refs: ["CTH 415 §11:64-68"], note: "offerings of 'command', ambašši and keldi given; [ni-]in-ga-nu-nu-u[n] 'I have quenched your thirst'; anointed with fine oil"}
+      - {motif: impure-remains-taken-by-officiant, refs: ["CTH 415 §13:72-79"], note: "ḫa-at-te-eš-šar iš-ta-a-p[í] 'closes the pit'; [na-a]t Ú-UL ku-wa-at-k[a₄ šu-]up-pí ... a-pa-a-aš da-a-i; S[ÍSKUR] ke-e-el-di-ya-aš QA-TI"}
+    hints:
+      - "Let no other god enter the sacred place: compare Q 72:18 ('the places of prostration belong to God, so call on no one with God') and Q 2:114; HB Exod 20:3."
+      - "The ground of the sanctuary as a being that eats and drinks: contrast Q 22:37 ('neither their flesh nor their blood reaches God, but your piety')."
+
+  - id: ane-cth-415-14-foundation-deposit
+    tradition: ane-hittite
+    title: Temple-building ritual - the foundation deposit with bronze statues and winged bull for Ea (CTH 415 §14-39)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 415 §14:80-§39:165"]
+    tags:
+      - {motif: bronze-statues-and-winged-bull-at-foundation-corners, refs: ["CTH 415 §14:83-84", "CTH 415 §15:85", "CTH 415 §17:90-95"], note: "4 ALAM ZAB[AR] ... {d}NIN.É.MU.UN.DÙ; GU₄ par-ta-u-wa-ar-ši-it ZABAR 'its wings of bronze, of one mina'; at {GIŠ}šar-ḫu-li-aš pé-e-di"}
+      - {motif: foundation-filled-with-seeds-metals-stones, refs: ["CTH 415 §15:87-88", "CTH 415 §16:89", "CTH 415 §18:96-98", "CTH 415 §19:99"], note: "ša-ma-a-na-aš ḫu-u-ma-an-ta-aš šu-un-ni-ya-an-zi; lapis, carnelian, iron nails, iron mace ..."}
+      - {motif: ear-shaped-breads-put-in-statues-ears, refs: ["CTH 415 §21:101", "CTH 415 §23:109-111"], note: "10 ḫa-zi-zi ŠA NINDA; I-NA GEŠTU-ŠU-NU an-da ... da-a-i (the ḫazizi breads partly restored)"}
+      - {motif: offering-table-for-ea-at-pillar, refs: ["CTH 415 §21:102-104", "CTH 415 §22:105-106", "CTH 415 §23:107-108"], note: "{GIŠ}šar-ḫu-u-li-kán me-na-aḫ-ḫa-an-ta A-NA {d}É-A; libation three times; gives Ea to eat"}
+      - {motif: statues-smeared-with-sacrificial-blood, refs: ["CTH 415 §26:116-119"], note: "1 UDU A-NA {d}É-A ši-pa-an-ti nu 4 ALAM ZAB[AR] GU₄ ZABAR ... iš-ḫar-nu-ma-a-iz-zi; raw head, feet, breast, shoulder before Ea's table"}
+      - {motif: drinking-the-god-seated, refs: ["CTH 415 §28:125-129", "CTH 415 §29:130-§33:144"], note: "{d}É-[A] ... 3-ŠU TUŠ-aš e-ku-zi; a tappinu bread broken for each round"}
+      - {motif: statues-become-gods-of-place, refs: ["CTH 415 §25:115"], note: "na-at-za x-x-x-na-aš DINGIR{MEŠ} ki-ša-an[-da-]ri 'they become the gods of [...]'; the key word is broken"}
+      - {motif: foundation-laid-on-levelled-ground, refs: ["CTH 415 §14:80-81"], note: "pé-e-da-an i-pu-r[a-a]n-zi ... ša-ma-a-[nu-uš] [iš-]ḫu-wa-an-zi"}
+    hints:
+      - "Foundation deposits and the winged bull: compare the cherubim and the bronze bulls of Solomon's temple (1 Kgs 7:25, 29) and the precious stones of the foundations (Isa 54:11-12; Rev 21:19)."
+      - "Statues in a sanctuary's foundations: contrast the Quranic smashing of idols, Q 21:57-58, and the Kaaba founded by Abraham on monotheism, Q 22:26."
+
+  - id: ane-cth-416-1-iron-tongues-hantasepa
+    tradition: ane-hittite
+    title: Old Hittite rituals for the royal couple I - iron tongues, slanders taken, the Ḫantašepa deities (CTH 416 §1-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 416 §1:1-§19:87"]
+    tags:
+      - {motif: iron-tongues-in-mouths-of-king-and-queen, refs: ["CTH 416 §4:11-15", "CTH 416 §9:34-37", "CTH 416 §10:44"], note: "2 GAL la-a-le-eš AN.B[AR] ... iš-ša-a-aš-ma; ut-ni-ya-an-da-an la-a-lu-uš da-a-aḫ-ḫu-[un] 'I have taken from you the tongues of the population'"}
+      - {motif: king-and-queen-spit-on-substitute, refs: ["CTH 416 §7:22-26", "CTH 416 §14:67-68"], note: "LUGAL-uš [3]-iš GU₄-un 1 ši-i-na-an-na al-la-ap-pa-aḫ-ḫi; again on the clay troop"}
+      - {motif: iron-and-copper-heaven-in-basin, refs: ["CTH 416 §8:28-33"], note: "ḫu-ur-ti-ia-li-ma [AN.BA]R-aš ne-e-pí-iš 1{EN} ki-it-ta URU-aš-ša 1{EN}; nine nails"}
+      - {motif: mouth-washing-of-patient, refs: ["CTH 416 §9:38-43"], note: "šu-up-pí wa-a-tar; LUGAL-uš 3-ŠU a-i-iš-še-et a-ar-ri, poured into the basin"}
+      - {motif: bloody-eyed-goddesses-holding-heads, refs: ["CTH 416 §11:50-53"], note: "ḫar-kán-zi-ma-an {D}Ḫa-an-ta-še-pé-eš an-du-uḫ-ša-aš ḫar-ša-a-a[r-r]a {GIŠ}ŠUKUR{ḪI.A}-ya; ša-a-ku-wa-aš-me-et iš-ḫa-aš-kán-ta"}
+      - {motif: drink-called-blood, refs: ["CTH 416 §12:54-55"], note: "te-eš-šum-mi-uš tar-li-pí-it šu-u-wa-mu-uš ... ta-ru-e-ni-ma-at e-eš-ḫar 'we call it blood'"}
+      - {motif: clay-army-on-bread-carries-evil, refs: ["CTH 416 §12:59-§13:64", "CTH 416 §15:73-§16:76"], note: "{NINDA}šar-ru-i-m[a-aš-š]a-an ERÍN{MEŠ}-az e-eš-zi; bronze dagger on top; later buried: pád-da-aḫ-ḫi tu-uš ḫa-ri-e-mi"}
+      - {motif: ritual-objects-buried-and-nailed-down, refs: ["CTH 416 §16:74-76"]}
+      - {motif: plea-for-mercy-to-gods-after-removal, refs: ["CTH 416 §17:78-§18:84"], note: "sheep to the Sun of heaven, Ḫantitaššu, Queen of Katapa, Inar of Ḫattuša; honey and fat in the flame; '[mercy], O gods' (translation; original broken) - i-da-a-lu-uš-mi-it and the Ḫantašepa taken"}
+      - {motif: ritual-meal-after-rite, refs: ["CTH 416 §19:85-87"], note: "a-du-e-ni a-ku-e-ni; the king goes to Arinna"}
+    hints:
+      - "The 'tongues' of the populace taken from the king: compare the Quranic refuge from the evil of whisperers and envy (Q 113:5, 114:4-6) and the slanderer in Q 68:10-11, 104:1."
+      - "Spitting to remove evil: the Prophet's spitting thrice to the left after a bad dream (hadith, cf. Q 113:4 'blowers on knots'); contrast Q 113 as the Quranic ritual of refuge."
+
+  - id: ane-cth-416-20-eagle-ritual
+    tradition: ane-hittite
+    title: Old Hittite rituals for the royal couple II - the eagle waved over them and released to the sky (CTH 416 §20-32)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 416 §20:88-§32:172"]
+    tags:
+      - {motif: eagle-released-to-sky-as-messenger, refs: ["CTH 416 §21:96-97", "CTH 416 §23:112-116", "CTH 416 §25:130-131", "CTH 416 §29:148-155"], note: "{MUŠEN}ḫa-a-ra-na-an ne-e-pí-ša tar-na-aḫ-ḫi ... nu i-it {D}UTU-i {D}IM-ya me-e-[mi-iš]-ki"}
+      - {motif: as-gods-eternal-so-king, refs: ["CTH 416 §28:146-147", "CTH 416 §29:154-155"], note: "{D}UTU-uš {D}IM-aš ne-e-pí-iš te-e-[kan] uk-tu-u-re-eš ... LUGAL-uš MUNUS.LUGAL-aš-ša DUMU{MEŠ}-ša uk-tu-u-re-eš a-ša-an-tu"}
+      - {motif: not-i-but-the-king-released-it, refs: ["CTH 416 §29:150-151"], note: "na-at-ta-an ú-uk t[ar-na-aḫ]-ḫu-un LUGAL-ša-an MUNUS.LUGAL-ša tar-na-aš"}
+      - {motif: eagle-as-substitute-for-royal-couple, refs: ["CTH 416 §27:140-145"], note: "[MUŠEN]ḫa-a-ra-aš [...]: the 'substitute' is the translator's restoration; the king holds the sickle, the queen the millstone, offerings 'forever' (uk-tu-u-ri)"}
+      - {motif: clay-army-on-bread-carries-evil, refs: ["CTH 416 §21:98-99", "CTH 416 §23:113-115", "CTH 416 §30:156"]}
+      - {motif: cups-for-throne-and-hearth, refs: ["CTH 416 §22:107-110", "CTH 416 §24:122", "CTH 416 §25:133-134"], note: "1{EN} A-NA ḫal-ma-šu-it-ti; ḫa-aš-ši-ya-aš-ša-an"}
+      - {motif: spears-clashed-three-times, refs: ["CTH 416 §23:117-119", "CTH 416 §25:135"], note: "{GIŠ}ŠUKUR ZABAR wa-al-ḫa-an-ni-an-zi 3-ŠU"}
+      - {motif: ritual-objects-buried-and-nailed-down, refs: ["CTH 416 §30:156-161"], note: "ta-ak-na-a ḫa-ri-e-mi tu-uš tar-ma-e-mi ... ta-at a-ap-pa ša-ra-a le-e ú-e-iz-zi"}
+      - {motif: enemy-to-carry-away-evil, refs: ["CTH 416 §30:161"], note: "subject broken: [...]-ša-at pé-e-ta?-<ú>, translated 'may the enemy carry it away'"}
+      - {motif: expert-goes-to-house-of-children-only-when-told, refs: ["CTH 416 §20:88-95", "CTH 416 §32:169-172"]}
+      - {motif: ritual-meal-after-rite, refs: ["CTH 416 §31:162-168"]}
+    hints:
+      - "A bird set free to carry evil or a message: compare Lev 14:4-7, 53 (the living bird released over the field for the leper) and the dove of Gen 8; in the Quran Abraham's four birds (Q 2:260) and Solomon's hoopoe as messenger (Q 27:20-28)."
+      - "Eternal as heaven and earth: compare Q 11:107-108 ('as long as the heavens and earth endure') and Ps 89:29-37 (David's throne as the days of heaven)."
+
+  - id: ane-cth-416-33-goat-threads-birds
+    tradition: ane-hittite
+    title: Old Hittite rituals for the royal couple III-IV - the goat driven off, coloured threads, startled by birds (CTH 416 §33-51)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 416 §33:173-§39:211", "CTH 416 §40:212", "CTH 416 §39:213-§51:285"]
+    tags:
+      - {motif: goat-with-breads-on-horns-driven-away, refs: ["CTH 416 §33:181-183", "CTH 416 §36:195-199"], note: "1 MÁŠ.GAL ... mu-ri-ya-le-eš ga-an-ga-an-te-eš; MÁŠ.GAL-na pí-en-ni-ú-e-in 'we drive away the goat'"}
+      - {motif: scapegoat-bears-sins-into-wilderness, refs: ["CTH 416 §33:173", "CTH 416 §36:199"], note: "the evil taken is ḫatugan, ešḫar, (impurity): [ḫa-tu]-ú-ga-an e-eš-ḫar [... d]a-a-aḫ-ḫ[i]"}
+      - {motif: omen-observed-in-blood-cup-and-hearth, refs: ["CTH 416 §41:220-226"], note: "{LÚ.MEŠ}A.ZU-ša kat-ti-mi ... [k]u-iš ša-ga-i-[iš] ki-i-ša-ri ta LUGAL-i MUNUS.LUGAL-ya ta-ru-e-ni"}
+      - {motif: expert-goes-to-house-of-children-only-when-told, refs: ["CTH 416 §42:229-234", "CTH 416 §51:284-285"], note: "ka-ru-ú-ma ... pa-iš-ga-ḫa-at ki-nu-na na-at-ta ku-wa-a-pí-ik-ki pa-a-un"}
+      - {motif: coloured-threads-tied-and-cut-from-fingers, refs: ["CTH 416 §43:235-239", "CTH 416 §44:252-253", "CTH 416 §45:259", "CTH 416 §46:262"], note: "white, black, red, yellow (SIG₇.SIG₇) and blue wool; a tree with five branches; cut with ḫa-a-aḫ-ḫa-al 'thorn bush'"}
+      - {motif: hidden-birds-released-startle-king, refs: ["CTH 416 §46:267-271"], note: "2 {MUŠEN} pár-tu-u-ni-uš ... LUGAL-uš MUNUS.[LUGAL] wa-ri-ta-an-zi ... d[a]-a-aḫ-ḫu-uš-ma-[aš-ta] a-i-in wa-a-i-[in]"}
+      - {motif: spittle-sealed-in-cup-with-lead-lid, refs: ["CTH 416 §46:263-266"], note: "šu-li-i-ya-aš 'of lead' ... iš-ta-a-ap-ḫé"}
+      - {motif: pain-taken-from-throne-bed-heart, refs: ["CTH 416 §49:279-282"], note: "{GIŠ}ŠÚ.A-ka-az-mi-it {GIŠ}NÁ-az-mi-it kar-ta-az-mi-it; Sun god of heaven and Sun goddess of the earth: da-a-at-te-en"}
+      - {motif: ritual-objects-buried-and-nailed-down, refs: ["CTH 416 §48:273-278"], note: "a-ra-aḫ-za pé-[e-t]a-aḫ-ḫé tu-uš tar-ma-a-e-[mi]"}
+      - {motif: enemy-to-carry-away-evil, refs: ["CTH 416 §39:213-215"], note: "a-ap-pa le-e ú-e-eḫ-zi na-at {LÚ.MEŠ}KÚR[-né-eš] pé-e-ta-an-tu"}
+      - {motif: figurine-takes-pain, refs: ["CTH 416 §45:257-258"], note: "ta ši-i-ni te-e-[mi]: the clay figurine is told to take pain, woe and constraints"}
+      - {motif: deaf-man-assists-ritual, refs: ["CTH 416 §44:248-250"], note: "{LÚ}Ú.ḪÚB-za ... an-da pa-i-wa-ni 'a deaf man and I go in'"}
+      - {motif: barley-and-wheat-heads-tied-at-feet, refs: ["CTH 416 §43:241-246", "CTH 416 §45:260-261"], note: "ḫal-ki-aš ḫar-ša-a-ar iš-ḫi-ya-an-da; placed over their heads in a basket covered with a cloth 'and nobody sees'"}
+    hints:
+      - "The goat driven away bearing evil: compare Lev 16:10, 20-22 (the goat for Azazel). The Quran has no scapegoat: each soul bears its own burden (Q 6:164, 17:15, 35:18), a direct divergence."
+      - "Coloured threads tied to the fingers: compare the scarlet thread on Zerah's hand (Gen 38:28-30) and the crimson wool of purification (Lev 14:4, Num 19:6); contrast Q 113:4 (the women who blow on knots)."
+
+  - id: ane-cth-417-1-figurines-with-enemys-name
+    tradition: ane-hittite
+    title: Ritual against the king's enemies - figurines of cedar and clay bearing names (CTH 417.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 417.1 §1:1-§3:13"]
+    tags:
+      - {motif: figurines-inscribed-with-enemys-name, refs: ["CTH 417.1 §2:3-8"], note: "2 ALAM DÙ-u-en ... {GIŠ}ERIN ŠUM {LÚ}KÚR {D}UTU-ŠI ti-i[a-] ... A-NA ALAM IM-ma-wa-kán ŠUM {m}PU[-Šarruma]"}
+      - {motif: women-ritual-experts-named, refs: ["CTH 417.1 §1:1-2"], note: "UM-MA {fD}NIN.GAL-ú-uz-z[i] ... DAM {m}Kaš-šú-ú; am-mu-uq-qa {LÚ}KÚR {D}UTU-ŠI ki[š-ša-an ...]; §3 broken ('the land of the enemy')"}
+    hints:
+      - "Writing a name on a figurine to harm its bearer: contrast Q 113:4 and Q 2:102 (sorcery learned from Harut and Marut harms only by God's leave)."
+
+  - id: ane-cth-417-2-name-incised
+    tradition: ane-hittite
+    title: Ritual against the king's enemies - a name incised, six silver sun-discs (CTH 417.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 417.2 §1:1-6"]
+    tags:
+      - {motif: figurines-inscribed-with-enemys-name, refs: ["CTH 417.2 §1:3-4"], note: "ŠUM {m}Tàš-mi-LUGAL-m[a] an-da-an gul-š[a-an] 'the name of Tašmi-Šarruma is incised'"}
+      - {motif: silver-sun-discs-in-ritual, refs: ["CTH 417.2 §1:5"], note: "6 ši-it-tar KÙ.B[ABBAR]"}
+
+  - id: ane-cth-417-3-oath-breakers-enemy-field
+    tradition: ane-hittite
+    title: Ritual against the king's enemies - oath-breakers addressed, rites in the enemy's field (CTH 417.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 417.3 §1:1-§5:24"]
+    tags:
+      - {motif: gods-reproach-oath-breakers, refs: ["CTH 417.3 §2:3-10"], note: "li-i[n-ki-uš?] šar-ra-aš-ki-it-tum-ma 'you keep breaking the oaths'; ŠA {LÚ.MEŠ}KÚR ÉRIN{MEŠḪI.A} pa-i-wa-ni; addressees uncertain"}
+      - {motif: rite-performed-in-enemy-field, refs: ["CTH 417.3 §3:11-14"], note: "{LÚ}KÚR-aš A.ŠÀ ku-e-ri an-d[a] ti-a[n-zi]; emmer taken, raisins mixed, galgaturi instrument"}
+      - {motif: libation-poured-three-times, refs: ["CTH 417.3 §4:15-17", "CTH 417.3 §5:18-23"], note: "loose: a bronze vessel filled with wine; bread broken for the deity; libation into bronze - no count preserved"}
+    hints:
+      - "Oath-breakers and the field of the enemy: compare Q 16:91-92 (do not break oaths after confirming them, like the woman who unravels her yarn) and Q 2:27."

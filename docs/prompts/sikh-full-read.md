@@ -137,8 +137,11 @@ lemmas, as a loanword list with attestations. These must recover:
      - the Guru against the Prophet as guide.
 3. **Run the pipeline**, with every benchmark passing.
 4. **Add a dated `docs/CLEANUP.md` entry.** Record the deferred comparisons
-   against the Hebrew Bible, the ANE, Hinduism and Islamic Sufism; Sufism is
-   the natural partner once it is read.
+   against the Hebrew Bible, the ANE and Hinduism. The Sufi material within
+   the Islamic tradition (Farid's Chishti setting, Kabir's Sufi milieu,
+   authors such as al-Ghazali) belongs to the Islamic side of the analysis,
+   not to a separate round: when the Islamic texts beyond the Quran are read,
+   their units are natural partners for these hymns.
 5. **Report:**
    - the inventory: read from the original, from a translation, left out;
    - the benchmarks;

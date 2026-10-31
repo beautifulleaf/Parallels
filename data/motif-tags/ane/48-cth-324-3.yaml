@@ -67,6 +67,8 @@ new_motifs:
   hot-pebbles-quenched-analogy: {label: "Analogy: as the hot pebbles are quenched with water, so may the deity's anger, wrath, sin and sullenness be quenched", cluster: vanishing-god}
   cart-held-back-analogy: {label: "Analogy: as this cart is held back, so may our words hold back the deity's anger", cluster: vanishing-god}
   storm-god-comes-raging-held-back: {label: "The Storm god comes raging and the 'man of the Storm god' holds him back", cluster: vanishing-god}
+  offerings-placed-at-hearth-throne-window-bedchamber: {label: "Bread is broken and laid at the hearth, the throne, the window for the fate goddesses, the bedchamber for Harištašši and before the house-goddesses", cluster: vanishing-god}
+  vanished-god-found-asleep-in-vineyard: {label: "The vanished god is found lying asleep in a vineyard (or grove) under a plant, gone down toward the dark earth", cluster: vanishing-god}
 units:
   - id: ane-cth-324-3-1-bee-finds-telipinu
     tradition: ane-hittite
@@ -845,3 +847,146 @@ units:
       - {motif: gods-feast-without-satiety, refs: ["CTH 334.10 §1:1-4"], note: "{d}10-ni EZEN4 šar-r[a-] 'for the Storm god a feast'; DINGIR.MEŠ-mu-uš 'the gods'; satiety not preserved"}
       - {motif: gods-ask-what-shall-we-do, refs: ["CTH 334.10 §1:5-11"], note: "{d}10-aš A-NA DINGIR.MEŠ kiš-an 'the Storm god (spoke) to the gods thus'; wa-tar-na-aḫ-zi 'he commissions'; le-e me-ma-i 'let him not say'; mar-ki-iš-ta-aḫ-ḫe-er 'they took (me) by surprise'"}
       - {motif: vanished-god-takes-fertility-with-him, refs: ["CTH 334.10 §2:12-§3:23"], note: "DUMU-YA-wa 'my son ...'; KALA.GA-aš 'the strong one'; da-aš-šu 'strong'; A-NA {d}I[ŠTAR?]: the father's complaint over the absent son, as in CTH 325 §9:61 (tentative)"}
+  - id: ane-cth-334-11-offerings-and-firewood
+    tradition: ane-hittite
+    title: Bread laid at hearth, throne, window and bedchamber; the invocation; Hannahanna's soul burned like firewood; soapwort and pebbles (CTH 334.11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.11)"
+    read: ["CTH 334.11"]
+    tags:
+      - {motif: offerings-placed-at-hearth-throne-window-bedchamber, refs: ["CTH 334.11 §1:1-§4:15"], note: "ḫa-aš-ši-i d[a-a-i] 'lays it on the hearth'; pár-ši-ya 'breaks'; {d}DAG-ti 'on the throne (deified)'; {GIŠ}AB-ya {d}gul-aš-ša-aš 'in the window for the fate goddesses'; É.ŠÀ-ni {d}ḫa-re-eš-ta-ši 'in the bedchamber for Harištašši'; ŠA DINGIR.MAḪ DINGIR.MUNUS.MEŠ pu-nu-ut 'for Hannahanna's goddesses'; {d}ḫi-la-aš-ši 'for (the deity of) the courtyard'; KAŠ.GEŠTIN GA.KU7 PA-NI DINGIR.MAḪ 'wine, sweet milk before Hannahanna'; DINGIR.MEŠ-aš da-pí-an-da-aš pé-ra-an 'before all the gods'"}
+      - {motif: terrible-one-become-gracious, refs: ["CTH 334.11 §5:16-§7:21"], note: "iš-pa-an-tu-uz-zi-it 'with libation'; [ša-a-a]n-za me-mi 'as the angry one speak'; [ḫa-a-an-da]-aḫ-ḫu-ut 'be set right'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.11 §8:22-§9:27"], note: "[DINGIR.MAḪ-a]š ZI-ŠU {GIŠ}wa-ar-[ši-ma-aš ú-i]-šu-ri-ya-at-ta-at 'Hannahanna's soul choked as firewood'; [ḫal-ḫa]l-tu-u-ma-ra-aš la-lu-uk-k[i-iš-zi] 'grows bright in the corners'; ZI-ŠU ka-ra-du-uš-ša ... la-lu-ke-eš-du 'let it grow bright in her soul and innards'; ar-ḫa wa-ra-a-nu 'let (anger) burn away'"}
+      - {motif: soapwort-and-pebbles-from-untouched-place, refs: ["CTH 334.11 §10:28-33"], note: "{GIŠ}kar-š[a-ni-ya-aš]; ḫa-aš-ši-i 'in the hearth'; [dam-mé-e-la-az]-za [pé-e-d]a-az-za {NA4}pa-[aš-ši-lu-uš] 'pebbles from an untouched place'"}
+  - id: ane-cth-334-12-hawthorn-fragment
+    tradition: ane-hittite
+    title: Fragment of the hawthorn analogy, with the tuft of hair (CTH 334.12)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.12)"
+    read: ["CTH 334.12"]
+    tags:
+      - {motif: hawthorn-plucks-fleece-analogy, refs: ["CTH 334.12 §1:1-5"], note: "{SÍG}p[u]-ut-t[ar] 'tuft of wool/hair'; [ḫa]-tal-ki-iš-ni 'in the hawthorn'; [e]-eš-ḫar-wa-an-ta 'blood-red'"}
+  - id: ane-cth-334-13-raisin-fragment
+    tradition: ane-hittite
+    title: Fragment of the raisin and sweet-reed analogies (CTH 334.13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.13)"
+    read: ["CTH 334.13"]
+    tags:
+      - {motif: fruit-holds-seed-wine-oil-analogy, refs: ["CTH 334.13 §1:1-4"], note: "{GIŠ}GEŠTIN ḪÁD.D[U.A] ... ŠÀ-it ḫar-zi 'as the raisin holds (its wine) within', [aš-šu-l]i QA-TAM-MA ḫar-ak 'hold likewise in goodwill'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.13 §1:6-7"], note: "GI.DÙG.GA 'sweet reed'"}
+  - id: ane-cth-335-1-1-departure-feast-eagle
+    tradition: ane-hittite
+    title: An angered deity puts on shoes reversed; smoke, choking, unsatisfying feast; the eagle sent (mugawar fragment CTH 335.1.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.1.1"]
+    tags:
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 335.1.1 §1:1-§2:5"], note: "nu ki-iš-ša-a[n] '(he speaks) thus'; [ ... ]ša-a-et '(the deity) became angry'"}
+      - {motif: shoes-put-on-wrong-feet, refs: ["CTH 335.1.1 §2:6"], note: "[GÙB-l]i šar-ku-et 'put on (the shoe) on the left' (partly restored)"}
+      - {motif: mist-seizes-windows-smoke-the-house, refs: ["CTH 335.1.1 §2:7-8"], note: "IGI.ḪI.A 'the eyes'; [túḫ-ḫu]-i-iš IṢ-BAT 'smoke seized'"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 335.1.1 §2:9-13"], note: "iš-t[a-na-]; IGI.ḪI.A-ŠU-NU 'their eyes'; [TÙ]R-kán UDU.ḪI.A KI.MIN"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 335.1.1 §2:14-§3:18"], note: "ak-ku-uš-kán-z[i] 'they drink'; DINGIR.MEŠ ḫal-za-iš 'he called the gods'; [Ú-UL I]K-ŠU-UD '(he) did not find'"}
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 335.1.1 §3:19-25"], note: "TI8.MUŠEN-an pít-t[e-ya-li-in] 'the swift eagle'; ša-an-ḫa 'search!'; na-aš ú-et 'he came (back)'"}
+  - id: ane-cth-335-1-2-feast-eagle
+    tradition: ane-hittite
+    title: The Sun god's feast; he looks about and does not find the god; the eagle is fetched (CTH 335.1.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.1.2"]
+    tags:
+      - {motif: gods-feast-without-satiety, refs: ["CTH 335.1.2 §1:1-§2:7"], note: "[a]k-ku-uš-ká[n-zi]; {d}UTU-uš E[ZEN4-an]; {d}UTU-uš IGI.ḪI.A-wa w[a-aḫ-nu-ut] 'turned his eyes about'; Ú-UL IK-ŠU-U[D] 'did not find'"}
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 335.1.2 §2:8-13"], note: "[i]-it-tén-wa-mu TI8.MUŠEN-a[n] 'go (call) me the eagle'; [pa]-a-er TI8.MUŠEN-an pít-t[e-ya-li-in] 'they went (for) the swift eagle'"}
+  - id: ane-cth-335-2-search-and-bee
+    tradition: ane-hittite
+    title: The searchers comb forests, roads, currents and springs; the bee, holding honey within, goes through all places and finds the god asleep in a vineyard (CTH 335.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.2"]
+    tags:
+      - {motif: gods-search-for-vanished-god, refs: ["CTH 335.2 §1:1-§2:25"], note: "[ša-an]-ḫa 'search!' repeated; {GIŠ}TI[R-ká]n KI.MIN 'the forest likewise'; [B]ÚN-a[š] pa-it '(the) Thunder went'?; Ú-UL [A]K-ŠU-UD 'I did not find'; KASKAL.ḪI.A GÍD.DA 'the long roads'; TI8.MUŠEN-aš 'the eagle'; ar-šar-šu-u-ra 'the currents'; ša-an-ḫu-un 'I searched'; PÚ.MEŠ 'springs'; {GIŠ}TIR-kán SIG5-TIM 'the good forest'"}
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 335.2 §2:16-18"]}
+      - {motif: bee-searches-mountains-valleys-waters, refs: ["CTH 335.2 §3:26-31"], note: "ŠÀ-it LÀL-it ḫar-ši 'you hold honey within'; [ḪUR.S]AG.MEŠ-uš pár-ga-mu-uš zi-ik 'you (search) the high mountains'; ḫu-u-ma-an-da AŠ-RI.ḪI.A ir-ḫa-a-ez-zi 'she goes round all places'; [AK-Š]U-UD '(I) found'"}
+      - {motif: vanished-god-found-asleep-in-vineyard, refs: ["CTH 335.2 §3:32-43"], note: "a-pa-a-ša-kán an-da {URU}ḫa-at-tu-ša 'but he, in Hattusa'; {GIŠ}KIRI6.GEŠTIN an-da pa-iz-zi ... še-eš-zi 'goes into the vineyard and sleeps'; kat-ta-an {GIŠ}ma-am-mar-r[i] 'under the mammarra-plant'; [ka]t-ta-an da-an-ku-i 'down in the dark (earth)'"}
+      - {motif: divine-assembly-under-hawthorn, refs: ["CTH 335.2 §4:44-§5:56"], note: "ki-nu-un 'now'; [e]-ša-at ... e-ša-at '(he) sat ... sat' (under the adorned hawthorn, restored)"}
+    hints:
+      - "The god asleep in a vineyard: compare Noah drunk and asleep in his vineyard (Gen 9:20-21); and contrast Q 2:255."
+      - "The bee 'goes through all places' holding honey within: compare Q 16:68-69 ('take your houses in the mountains and trees ... follow the ways of your Lord made easy; from their bellies comes a drink of varying colours')."
+  - id: ane-cth-335-3-1-search-by-gods
+    tradition: ane-hittite
+    title: Fate and mother goddesses; the gods search mountains, rivers and pure waters and do not find the god; found in the forest; let him be sweet (CTH 335.3.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.3.1"]
+    tags:
+      - {motif: gods-search-for-vanished-god, refs: ["CTH 335.3.1 §1:1-14"], note: "[{d}g]ul-šu-uš DINGIR.MAḪ.MEŠ-uš 'the fate goddesses and mother goddesses'; ú-e-el-lu-uš 'the meadows'; GÌR.MEŠ-uš 'feet', [te]-e-ta-nu-uš 'hair', IGI.ḪI.A 'eyes'; [EGIR-an-n]a-aš ša-an-ḫi-iš-kir 'they searched after him'; [pár-ga-mu-u]š ḪUR.SAG.MEŠ-iš ša-an-ḫe-er 'searched the high mountains'; [ÍD.MEŠ-uš] ar-ša-an-te-eš 'the flowing rivers'; šu-up-pí-ú-uš 'the pure (waters)'; 'and did not find him' restored after each"}
+      - {motif: bee-finds-sleeping-god-stings-him, refs: ["CTH 335.3.1 §1:15-18"], note: "[{GIŠ}TI]R-ni ú-e-mi-er 'they found (him) in the forest'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.3.1 §2:19-§3:25"], note: "[tal-l]e-eš-ke-ed-du 'let him be soothed'; [mi]-li-id-du '(as the fig) is sweet', [mi-li-te-eš-d]u 'let him become sweet'; DUMU.MEŠ LUGAL 'the princes'"}
+  - id: ane-cth-335-3-2-search-by-strong-gods
+    tradition: ane-hittite
+    title: Weeds, wind; the strong gods search the flowing rivers and do not find him (CTH 335.3.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.3.2"]
+    tags:
+      - {motif: gods-search-for-vanished-god, refs: ["CTH 335.3.2 §1:1-§3:15"], note: "pé-ši-ya-an- 'thrown'; ḫa-aḫ-ḫa-li-i[t] 'with weeds'; ar-ḫa IM-za 'the wind away'; IGI.ḪI.A-ma-wa-ra-at 'their eyes'; EGIR-an-na-aš ša-an-[ḫi-iš-kir]; ša-an-aḫ-ḫe-er 'they searched'; Ú-UL-a[n] 'not him'; ÍD.MEŠ-uš-ša-kán ar-ša-a[n-te-eš] 'the flowing rivers'; ú-e-mi-er"}
+  - id: ane-cth-335-4-fire-malt-cloud
+    tradition: ane-hittite
+    title: The deity's soul glows like fire, quenched with water; dry malt; Hapantali's soapwort and pebbles; pure water, the rising vapour drives out the anger; the hawthorn (CTH 335.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.4"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.4 §1:1-§2:4"], note: "[DING]IR-LUM TUKU.TUKU-u-an-za 'the deity was angered'; ZI-ŠU [ka-r]a-az-še-iš wa-ra-an pa-aḫ-ḫur la-ap-ta 'her soul and innards glowed (as) burning fire'; ki-i pa-aḫ-ḫur GIM-an ú-i-te-ni-it [ki-iš-t]a-nu-nu-un 'as I quenched this fire with water', so let anger ... ki-iš-ta-ru 'be quenched'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.4 §3:5-10"], note: "malt: [GIM]-an te-ep-šu-uš 'as (malt) is dry', Ú-UL-an A.ŠÀ-ni [pé-e-d]a-an-zi 'they do not take it to the field', NUMUN-an, NINDA-an 'seed, bread', I-NA É {NA4}KIŠIB 'into the sealed storehouse'; [Š]A DINGIR-LIM kar-pí-iš ... te-ep-ša-u-e-eš-[du] 'let the deity's anger dry up'"}
+      - {motif: soapwort-and-pebbles-from-untouched-place, refs: ["CTH 335.4 §4:11-§6:16"], note: "[na-a]k-ki-iš DINGIR-LUM {d}ḫa-pa-an-ta-l[i-y]a-aš ... {GIŠ}kar-ša-ni-ya-an 'the weighty deity Hapantali (brought) soapwort'; [p]é-e-da-az ... [ú]-da-a-aš 'brought from a (pure) place'; ḫa-a[š-ši] ... [šu-uḫ-ḫ]a-iš 'poured into the hearth'; [z]i-e-an-ta-ri 'are cooked'; [w]a-aš-ši-aš MUNUS.LUGAL-aš 'the queen of herbs', {GIŠ}a-la-an-za-na-an, [{GIŠ}ḫa-tal-kiš]-na-aš, {GIŠ}ša-ma-li-ya-aš, túḫ-ḫu-eš-šar šu-ma-an-za-n[a-an] 'rush'; {NA4}pa-aš-šu-e-la-aš še-er šu-u[ḫ-ḫa-i] 'pours on the pebbles'"}
+      - {motif: pure-water-poured-cloud-rises-into-body, refs: ["CTH 335.4 §7:17-§8:22"], note: "[šu-u]p-pí wa-a-tar pa-ap-pa-ar-iš-š[a-an] 'pure water sprinkled'; wa-ar-šu-la-aš 'the vapour (rose)'; A-NA DINGIR-LIM [tu-e-ek-ki-i]š-ši an-da pa-it 'went into the deity's body'; NÍ.TE-az ŠÀ-az 'from limbs and heart' (drove out) anger, wa-aš-túl ša-a-u-wa-ar; ar-ša-na-an-ta '(the) envious (eyes)', [LÚ].U19.LU-aš ḪUL-lu-un 'the evil (tongue?) of mankind'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.4 §9:23-§10:25"], note: "ZI-ni ... [t]ar-ra-nu-ud-du 'let it strengthen in the soul'; DINGIR.MEŠ-aš ZI-ni [la-lu-u]k-ki-iš-nu-ud-du 'let it brighten in the gods' soul'; DINGIR.MEŠ-aš ḫa-am-mi-in-kán-du-uš ... [a-a]p-pa la-a-ú 'let it loosen again the bound (things) of the gods'"}
+      - {motif: hawthorn-plucks-fleece-analogy, refs: ["CTH 335.4 §11:26-29"], note: "[{GIŠ}ḫa-a]t-tal-kiš-na-aš 'the hawthorn'; [w]a-aš-ši-ya-ši 'you dress' (white/red restored)"}
+    hints:
+      - "Anger like burning fire quenched with water: compare 'a soft answer turns away wrath' (Prov 15:1) and the hadith-like Quranic counsel to restrain anger (Q 3:134, 'those who restrain anger and pardon people')."
+  - id: ane-cth-335-5-olive-raisin-liti
+    tradition: ane-hittite
+    title: Olive, raisin and liti-plant analogies (CTH 335.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.5"]
+    tags:
+      - {motif: fruit-holds-seed-wine-oil-analogy, refs: ["CTH 335.5 §1:1-§2:6"], note: "ka-ra-a-[az-] 'innards'; [{GIŠ}SE20-ER-D]UM-ma-az ma-a-aḫ-[ḫa-an] 'as the olive'; GEŠTIN-ŠU Š[À-it] 'its wine within'; Ù KUR-SÚ 'and his land'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.5 §3:7-11"], note: "[{GIŠ}l]i-i-ti; [-i]š-ke-e[d-du] 'let (it) be soothed'"}
+  - id: ane-cth-335-6-1-fig-olive-and-fleece
+    tradition: ane-hittite
+    title: Fig, raisin, olive, leti and shammamma laid out for the deity; the fleece holding thriving of cattle and sheep, long years, health and the mild lamb (CTH 335.6.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.6.1"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.6.1 §1:1-§2:10"], note: "[wa-al-l]a-aš i-wa-a[r] 'like the thigh'; ZI-ŠU ka-r[a-az-za-ši-iš] 'his soul and innards'; [DIN]GIR-LUM IT-TI LUGAL 'the deity with the king'"}
+      - {motif: fruit-holds-seed-wine-oil-analogy, refs: ["CTH 335.6.1 §3:11-§4:17"], note: "[ka-a-š]a-at-ta {GIŠ}PÈŠ ki-it-[t]a-ri 'here lies a fig for you'; [NUMU]N ŠÀ-it ḫar-zi 'holds (a thousand) seeds within'; QA-TAM-MA LI-IM-MI-ŠU aš-šu-[li] 'likewise his thousands in goodwill'; {GIŠ}GEŠTIN ḪÁD.DU.A, {GIŠ}SE20-ER-DUM ... Ì-an ŠÀ-it ḫar-zi; LUGAL-un ... ŠÀ-it a-aš-šu-li ḫar-a[k]"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.6.1 §5:18-23"], note: "le-e-ti; [ka-ra-az-t]i-eš-ša NÍ.TE.MEŠ-uš li-[la-re]-eš-ke-ed-du 'let innards and limbs be soothed'; {GIŠ}ša-am-ma-am-m[a] 'shammamma-nut'"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 335.6.1 §6:24-32"], note: "[kán-ká]n-za 'hung'; GU4-aš UDU-aš m[i-ya]-tar 'thriving of cattle and sheep'; M[U.ḪI.A] 'years'; [ḫa-a]t-tu-la-tar in-na-[r]a-[wa-tar] 'health and vigour'; mi-nu-wa-aš SILA4-[aš] 'of the mild lamb'; nu-ú-u[š] 'assent'; [šal-ḫa]-an-t[i-iš] 'growth'"}
+    hints:
+      - "The god holding the king's 'thousands' within like the fig its seeds: compare the promise of countless offspring (Gen 22:17) and the 'thousands' of Israel (Num 10:36)."
+  - id: ane-cth-335-6-2-galaktar-parhuena
+    tradition: ane-hittite
+    title: Galaktar and parhuena laid out; let his soul be mild (CTH 335.6.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.6.2"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.6.2 §1:1-§3:7"], note: "[ga-la-ak-ta]r ki-i[t-ta]; [pár-ḫ]u-e-na-aš ki-it-ta; [ZI-K]A ka-ra-az-ti-iš-ša 'your soul and innards'; ZI-Š[U] ... [mi]-e-nu e-eš-du 'let his soul be mild'"}

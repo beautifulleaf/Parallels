@@ -43,6 +43,27 @@ new_motifs:
   god-must-not-lower-own-name: {label: "The deity is told not to let her own name be humbled by the land's defeat", cluster: prayer}
   prayer-as-legal-plea: {label: "The prayer is presented as a legal plea of defence (Hittite arkuwar) laid before the gods", cluster: prayer}
   scribe-prays-daily-for-king: {label: "A scribe recites the king's prayer to the god every day on the king's behalf", cluster: cult}
+  plague-twenty-years: {label: "A plague has raged in the land for twenty years, with great numbers dying", cluster: theodicy}
+  plague-cause-found-by-oracle: {label: "The king inquires of the gods by oracle and the oracle establishes the hidden cause of the plague", cluster: divination}
+  plague-for-fathers-broken-oath: {label: "A plague strikes the land because the king's father broke an oath sworn by the gods (by killing the lord to whom he had sworn or by attacking a treaty partner)", cluster: theodicy}
+  usurper-kills-sworn-lord: {label: "The king's father, with the princes and nobles, breaks the oath sworn to the reigning king, kills him and takes the throne", cluster: kingship}
+  rivals-exiled-to-alashiya: {label: "The murdered king's brothers are seized and sent away to Alašiya (Cyprus)", cluster: kingship}
+  delayed-divine-retribution: {label: "The gods let the guilty king prosper at first and only later avenge his crime on him, his supporters and the land", cluster: theodicy}
+  bloodguilt-ritual-neglected-by-land: {label: "The father and the son each performed a ritual for the bloodshed, but the land did nothing for it", cluster: cult}
+  restitution-and-reconciliation-offering: {label: "The king offers the gods a restitution (šarnikzel) and reconciliation (maškan) offering for the land's plague, together with his house", cluster: cult}
+  innocent-son-atones-for-fathers-sin: {label: "The king protests that he himself did no evil and the wrongdoers are dead, yet his father's guilt has reached him and he makes amends for it", cluster: theodicy}
+  anguish-from-heart-fear-from-body: {label: "The king asks the gods to send the anguish from his heart and take the fear from his body", cluster: prayer}
+  old-tablets-reveal-cause-of-plague: {label: "The king finds old tablets in the archive which reveal a neglected ritual and a broken treaty as possible causes of the plague", cluster: divination}
+  neglected-river-offering-causes-plague: {label: "An offering to a river (the Māla, Euphrates) performed by earlier kings has been neglected since the father's days and is found to be a cause of the plague", cluster: cult}
+  treaty-with-egypt-broken: {label: "The Hittites break the treaty sworn before the storm god with Egypt (the Kuruštamma treaty) by attacking Egyptian territory", cluster: treaty}
+  prince-sent-to-rule-egypt-murdered: {label: "The Egyptians ask the Hittite king for his son as their king, and when he is sent they kill him", cluster: kingship}
+  prisoners-of-war-bring-plague: {label: "Prisoners of war brought home from the campaign carry a plague into the land", cluster: theodicy}
+  confession-it-is-so-we-did-it: {label: "Confession formula before the god: 'It is so; we have done it'", cluster: prayer}
+  fathers-sin-comes-to-son-saying: {label: "Saying: the father's sin comes upon his son", cluster: theodicy}
+  bird-takes-refuge-in-nest-simile: {label: "As a bird takes refuge in its nest and the nest keeps it alive, so the petitioner takes refuge in the god", cluster: prayer}
+  servant-confesses-master-relents: {label: "Analogy: when a servant confesses his offence to his master, the master's anger is calmed and he no longer punishes him", cluster: prayer}
+  plague-already-repaid-many-times: {label: "The petitioner argues that the land has already made restitution for the offence many times over (twentyfold) through the deaths of the plague", cluster: theodicy}
+  priests-incubate-dreams-for-cause: {label: "All the priests are told to sleep in purity so that one may learn the cause of the disaster in a dream", cluster: divination}
 units:
   - id: ane-cth-372-1-sun-hymn-epithets
     tradition: ane-hittite
@@ -377,3 +398,86 @@ units:
       - "Compare Q 7:133 (flood, locusts, lice, frogs, blood sent on Pharaoh's people) and Exod 10 for locusts sent against enemies."
       - "Compare Q 7:57 and Q 30:46 (winds sent as good tidings before rain) with the 'winds of prosperity'."
       - "Compare Q 37:180-182, Q 59:24 (the most beautiful names) with the god's name 'weightiest among names'."
+  - id: ane-cth-378-1-first-plague-prayer
+    tradition: ane-hittite
+    title: Muršili II's 'first' plague prayer, on the murder of Tudḫaliya the Younger (CTH 378.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 378.1 §1:1-§11:148"]
+    tags:
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 378.1 §1:1"], note: "all male and female gods, gods of the oath (linkiyaš DINGIR.MEŠ), the primeval gods …"}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 378.1 §1:2-4", "CTH 378.1 §11:148"], note: "arkuwar … eššaḫḫi 'I make my plea'"}
+      - {motif: plague-twenty-years, refs: ["CTH 378.1 §2:5-9"], note: "kāš MU-20.KAM 'this is the twentieth year'"}
+      - {motif: plague-cause-found-by-oracle, refs: ["CTH 378.1 §2:10-12", "CTH 378.1 §8:87-90"], note: "IŠTU DINGIR-LIM=ya ariyanun … ḫandaittat 'I inquired of the god … it was established'"}
+      - {motif: usurper-kills-sworn-lord, refs: ["CTH 378.1 §2:13-§3:26"], note: "all Hattusa and his father swore to Tudḫaliya; they wronged their 'lord of oaths' and killed him; NI-EŠ DINGIR-LIM šarrer"}
+      - {motif: rivals-exiled-to-alashiya, refs: ["CTH 378.1 §3:20-22"], note: "I-NA KUR URU.alašiya uper"}
+      - {motif: delayed-divine-retribution, refs: ["CTH 378.1 §4:27-50"], note: "the gods protected his father, the land prospered, nothing perished; afterwards (appezziyaz) they avenged (šanḫatten) the affair"}
+      - {motif: gods-seek-the-kings-blood, refs: ["CTH 378.1 §4:45-48", "CTH 378.1 §9:94-98"], note: "ŠA m.tutḫaliya ešḫar EGIR-an šanḫatteni 'you avenge the blood of Tudḫaliya'"}
+      - {motif: plague-for-fathers-broken-oath, refs: ["CTH 378.1 §4:49-50", "CTH 378.1 §8:90"], note: "MA-MI-TI … ḫingani šer ḫandaittat 'oath(-guilt) was established as cause of the plague'"}
+      - {motif: famine-for-bloodguilt, refs: ["CTH 378.1 §4:46-50"], note: "here plague, not famine"}
+      - {motif: guilt-of-predecessor-not-forgiven, refs: ["CTH 378.1 §8:87"]}
+      - {motif: bloodguilt-ritual-neglected-by-land, refs: ["CTH 378.1 §7:79-84"], note: "išḫanaš SÍSKUR partly restored"}
+      - {motif: restitution-and-reconciliation-offering, refs: ["CTH 378.1 §8:91-93", "CTH 378.1 §9:99-100", "CTH 378.1 §9:112-114"]}
+      - {motif: innocent-son-atones-for-fathers-sin, refs: ["CTH 378.1 §9:106-111"], note: "idālu UL kuitki … ammuk iyanun … wašter kuieš … karū=wat arḫa eker; ammuk=ma=kan ŠA A-BI-YA memiaš ār 'I did no evil; those who sinned are already dead; but my father's affair has reached me'"}
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 378.1 §9:117-127", "CTH 378.1 §10:133-136"], note: "if the bread- and libation-offerers all perish, no one will give you bread and libation any more"}
+      - {motif: plague-diverted-to-enemy-lands, refs: ["CTH 378.1 §10:137-141"]}
+      - {motif: anguish-from-heart-fear-from-body, refs: ["CTH 378.1 §4:55-56", "CTH 378.1 §10:145-146"]}
+    hints:
+      - "Compare 2 Sam 21:1-14: a three-year famine traced by inquiry of YHWH to Saul's breach of the sworn treaty with the Gibeonites; expiation by the king."
+      - "Compare Q 6:164, Q 17:15, Q 35:18, Q 53:38 (no bearer of burdens bears another's burden) and Ezek 18:2-20 (sour grapes) against the son paying for the father's oath-breaking."
+      - "Compare Q 16:91-94 (do not break oaths after confirming them, with God as surety) and Q 2:27."
+      - "The argument that the gods will lose their offerers compares with Ps 6:6, Ps 88:11-13, Ps 115:17, Isa 38:18 (the dead do not praise) and with Moses' plea in Num 14:13-19."
+      - "Delayed punishment after prosperity: compare Q 6:44 and Q 7:94-95, Q 22:48 (God gives respite, then seizes)."
+  - id: ane-cth-378-2-second-plague-prayer-causes
+    tradition: ane-hittite
+    title: Muršili II's 'second' plague prayer, the causes found (CTH 378.2 §1-10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 378.2 §1:1-§10:112"]
+    tags:
+      - {motif: plague-twenty-years, refs: ["CTH 378.2 §1:7-12"], note: "dying under father, brother and now me; kāš MU-20.KAM"}
+      - {motif: anguish-from-heart-fear-from-body, refs: ["CTH 378.2 §1:13-14"]}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 378.2 §2:18", "CTH 378.2 §9:91"]}
+      - {motif: plague-cause-sought-from-ecstatic-diviners-or-dream, refs: ["CTH 378.2 §2:23-26"], note: "oracle, dream or LÚ.DINGIR-LIM-niyanza 'man of god' (ecstatic) partly restored"}
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 378.2 §3:30-31"]}
+      - {motif: old-tablets-reveal-cause-of-plague, refs: ["CTH 378.2 §3:34", "CTH 378.2 §6:71"], note: "karuila DUB-2.KAM.ḪI.A 'two old tablets'"}
+      - {motif: neglected-river-offering-causes-plague, refs: ["CTH 378.2 §3:35-38", "CTH 378.2 §8:79-80", "CTH 378.2 §10:105-109"], note: "SISKUR ŠA ÍD.Māla … UL kuwapikki iyawen 'we never performed the rite of the river Māla'"}
+      - {motif: offering-to-river, refs: ["CTH 378.2 §10:106-109"]}
+      - {motif: treaty-with-egypt-broken, refs: ["CTH 378.2 §4:39-49", "CTH 378.2 §7:75-78"], note: "NI-IŠ DINGIR-LIM LÚ.MEŠ URU.ḫatti ḫudāk šarriēr 'suddenly the Hittites transgressed the oath of the gods'; attack on Amka"}
+      - {motif: plague-for-fathers-broken-oath, refs: ["CTH 378.2 §6:71-§7:78", "CTH 378.2 §10:100-101"]}
+      - {motif: prince-sent-to-rule-egypt-murdered, refs: ["CTH 378.2 §4:50-60"], note: "DUMU-ŠÚ LUGAL-uiznanni anku wekker … nan kuenner"}
+      - {motif: prisoners-of-war-bring-plague, refs: ["CTH 378.2 §5:61-§6:70"], note: "I-NA ŠÀ-BI LÚ.MEŠ ŠU.DAB.BI.ḪI.A ḫinkan kišat"}
+      - {motif: plague-cause-found-by-oracle, refs: ["CTH 378.2 §6:72-§7:78", "CTH 378.2 §10:96-97"]}
+      - {motif: confession-it-is-so-we-did-it, refs: ["CTH 378.2 §8:81-83"], note: "wašdul tarnaḫḫun 'I have confessed the offence': ēšzi=at iyawen=at"}
+      - {motif: restitution-and-reconciliation-offering, refs: ["CTH 378.2 §10:98-102"], note: "EGIR-pa lāiškemi … šarninkiškemi 'I loosen them and make restitution'"}
+    hints:
+      - "Compare 2 Sam 21:1 (David seeks the face of YHWH; the cause is Saul's oath-breach) and 2 Kgs 22:8-13 (an old book found reveals the cause of divine wrath)."
+      - "Compare Q 7:23 and Q 28:16 (confession 'we have wronged ourselves', 'I have wronged myself') with 'it is so; we did it'."
+      - "The murdered Hittite prince sent to marry into Egypt's throne is the Zannanza affair; the Egyptian queen's request has no Quranic echo, but the Hittite-Egyptian treaty framework compares with the covenant language of Q 8:56-58."
+  - id: ane-cth-378-2-second-plague-prayer-confession
+    tradition: ane-hittite
+    title: Muršili confesses his father's sin and argues for mercy (CTH 378.2 §11-15)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 378.2 §11:113-§15:184"]
+    tags:
+      - {motif: innocent-son-atones-for-fathers-sin, refs: ["CTH 378.2 §11:114-117"], note: "A-BU-YA=ya waštaš … ammuk=ma UL kuitki waštaḫḫun 'my father sinned … I have not sinned at all'"}
+      - {motif: fathers-sin-comes-to-son-saying, refs: ["CTH 378.2 §11:118-120"], note: "ŠA A-BU-ŠU=kan waštul A-NA DUMU-ŠÚ ari 'the father's sin comes to his son'"}
+      - {motif: sins-visited-to-third-fourth-generation, refs: ["CTH 378.2 §11:119-120"]}
+      - {motif: confession-it-is-so-we-did-it, refs: ["CTH 378.2 §11:121-124", "CTH 378.2 §12:149-151"], note: "ēšzi=at iyawen=at; ašān=at iyanun=at 'it is true, I did it'"}
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 378.2 §11:128-129", "CTH 378.2 §13:166-167"]}
+      - {motif: bird-takes-refuge-in-nest-simile, refs: ["CTH 378.2 §12:134-135"], note: "MUŠEN-iš=za=kan GIŠ.taptappan EGIR-pa ēpzi nan GIŠ.taptappaš ḫuišnuzi"}
+      - {motif: servant-confesses-master-relents, refs: ["CTH 378.2 §12:136-148"]}
+      - {motif: plague-already-repaid-many-times, refs: ["CTH 378.2 §12:152-158"], note: "20-anki … kišari 'has it not already happened twentyfold?'"}
+      - {motif: priests-incubate-dreams-for-cause, refs: ["CTH 378.2 §12:159-161", "CTH 378.2 §14:169-177"], note: "šuppaya šeškiškanzi 'they lie down (to sleep) in purity'"}
+      - {motif: plague-cause-sought-from-ecstatic-diviners-or-dream, refs: ["CTH 378.2 §14:168-171"]}
+      - {motif: land-hangs-from-needle-point, refs: ["CTH 378.2 §14:180"]}
+      - {motif: scribal-colophon, refs: ["CTH 378.2 §15:183-184"]}
+    hints:
+      - "Compare Q 35:18 and Q 6:164 (no bearer bears another's burden), Q 2:134 and 2:141 ('that was a nation that has passed; theirs is what they earned'), against 'the father's sin comes to the son'; and Ezek 18:2-4, Jer 31:29-30, Deut 24:16, Exod 20:5."
+      - "Compare Ps 84:4 (the sparrow finds a home, the swallow a nest, at your altars) and Ps 91:4."
+      - "Compare 2 Sam 12:13 and 2 Sam 24:10,17 (David: 'I have sinned … these sheep, what have they done?') and Q 38:24 (David seeks forgiveness)."
+      - "Compare Q 10:98 (the people of Jonah believed and the punishment was lifted)."

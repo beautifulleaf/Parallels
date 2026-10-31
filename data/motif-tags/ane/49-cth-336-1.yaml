@@ -101,6 +101,8 @@ new_motifs:
   gods-seek-the-throne: {label: "The gods (and the Sea) search for the throne", cluster: theogony}
   outcome-decreed-by-fate-goddesses: {label: "The gods say: it was not our decision; it was made by our fate goddesses", cluster: fate}
   sinner-renounces-sin-praises-goddess: {label: "A woman questioned by a divine messenger gives up her sin and praises the goddess", cluster: cult}
+  god-curses-like-dried-wood: {label: "A god curses something so that, like dried wood, it puts forth no branches", cluster: curse}
+  search-lands-for-clever-people: {label: "A messenger is told to search the (Mittani) lands for clever people to install in priestly office", cluster: cult}
   god-ritually-washed: {label: "A god is washed in a purification rite", cluster: ritual}
 units:
   - id: ane-cth-336-1-inara-bee-zababa
@@ -428,3 +430,550 @@ units:
       - {motif: god-deposed-from-heavenly-kingship, refs: ["CTH 343.6 §1:3", "CTH 343.6 §2:4"], note: "LAMMA [...] GAM-an-da 'down'; the storm god's man and LAMMA"}
     hints:
       - "'Father of the gods' as a title: contrast Q 112:3 and Q 6:101."
+  - id: ane-cth-344-a-primeval-gods-listen
+    tradition: ane-hittite
+    title: Song of Going Forth - the primeval gods called to listen (CTH 344 §1-2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §1:1-§2:8"]
+    tags:
+      - {motif: primeval-gods-summoned-to-hear-song, refs: ["CTH 344 §1:2-5", "CTH 344 §2:6-8"], note: "[k]a-[ru]-ú-i-li-ya-aš-kán DINGIR{MEŠ}-iš ... iš-ta-ma-aš-kán-du; Nara, Napšara, Minki, Ammunki, Ammezzadu, Ellil and Ninlil"}
+      - {motif: father-and-mother-of-all-gods-invoked, refs: ["CTH 344 §1:5", "CTH 344 §2:6"], note: "at-ta-aš an-na-aš: father and mother of (Išḫara)"}
+    hints:
+      - "Gods with fathers and mothers: contrast Q 112:3 (He begets not, nor is begotten) and Q 6:101 (how could He have a son when He has no consort?)."
+  - id: ane-cth-344-b-alalu-anu-kumarbi
+    tradition: ane-hittite
+    title: Alalu, Anu, Kumarbi - nine-year reigns and revolts of the cupbearer (CTH 344 §2-4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §2:9-§4:34"]
+    tags:
+      - {motif: succession-of-kings-in-heaven, refs: ["CTH 344 §2:9-10", "CTH 344 §3:20-21", "CTH 344 §4:25-27"], note: "ka-ru-ú-uš-ša-an ka-ru-ú-i-li-ya-aš MU{ḪI.A}-aš {d}a-la-lu-uš AN-ši LUGAL-uš e-eš-ta"}
+      - {motif: cupbearer-god-overthrows-king, refs: ["CTH 344 §2:11-13", "CTH 344 §3:22-24"], note: "GÌR{MEŠ}-aš-ša GAM-an ḫi-in-ki-iš-ke-et-ta NAG-na-ša-aš-ši-kán GAL{ḪI.A}-uš ŠU-iš-ši zi-ik-ke-ez-zi"}
+      - {motif: divine-reign-of-nine-years, refs: ["CTH 344 §3:14-15", "CTH 344 §4:25-26"], note: "9 MU{ḪI.A}-aš kap-pu-u-wa-an-ta-aš ... 9-ti-ma MU-ti"}
+      - {motif: defeated-god-flees-to-dark-earth, refs: ["CTH 344 §3:16-19"], note: "na-an-kán GAM-ta-an-da da-an-ku-wa-i ták-ni-i pa-it"}
+      - {motif: god-dragged-down-from-heaven-by-feet, refs: ["CTH 344 §4:28-34"], note: "na-an GÌR{MEŠ} e-ep-ta {d}a-nu-un na-an-kán ne-pí-ša-az kat-ta ḫu-it-ti-et"}
+      - {motif: son-god-avenges-father-receives-kingship, refs: ["CTH 344 §4:27"], note: "{d}ku-mar-bi-iš {d}a-la-lu-wa-aš NUMUN!-ŠU: Kumarbi, Alalu's seed, fights Anu; interpretive: vengeance for his line is implied, not stated"}
+    hints:
+      - "Kingship in heaven seized by violence among gods: compare Q 23:91 (no god with Him, else some would overcome others), Q 17:42-43 (they would seek a way to the Lord of the Throne), Q 21:22."
+      - "Gods cast down into the earth: compare Ps 82:6-7 and Isa 14:12-15."
+  - id: ane-cth-344-c-castration-pregnancy
+    tradition: ane-hittite
+    title: Kumarbi bites off Anu's manhood and is made pregnant with three gods (CTH 344 §5-7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §5:35-§7:57"]
+    tags:
+      - {motif: god-bites-off-predecessors-genitals, refs: ["CTH 344 §5:35-37"], note: "pár-ši-nu-uš-šu-uš wa-ak-ki-iš; LÚ-na-tar-še-et ... ZABAR ma-a-an ú-li-iš-ta; the meaning 'genitals' for paršinuš is uncertain (edition: 'Genitalien?')"}
+      - {motif: male-god-made-pregnant, refs: ["CTH 344 §6:45-49"], note: "ar-ma-aḫ-ḫu-un {d}IM-ni-it na-ak-ki-it ... {ÍD}a-ra-an-[z]a-ḫi-it ... {d}ta-aš-mi-it"}
+      - {motif: defeated-god-foretells-avengers, refs: ["CTH 344 §5:40-43", "CTH 344 §6:44", "CTH 344 §6:49-50"], note: "le-e-wa-az du-uš-ki-iš-ke-et-ta ... 3 DINGIR{MEŠ}-ya-ták-kán ḫa-tu-ga-uš; you will strike the rocks of Mt Tašša with your head"}
+      - {motif: swallowed-seed-spat-out-received-by-mountain, refs: ["CTH 344 §7:54-57"], note: "KAxU-kán pa-ra-a al-la-pa-aḫ-ḫa-aš ... {ḪUR.SAG}ga!-an-zu-ra-aš na-aḫ-šar-an-ta-an DINGIR-an da-[a-aš]"}
+      - {motif: succession-of-kings-in-heaven, refs: ["CTH 344 §7:51-53"], note: "Anu goes up to heaven and hides"}
+    hints:
+      - "A god pregnant with gods and gods born of gods: the sharpest contrast to Q 112:3 and Q 19:88-92 (heavens almost burst that they ascribe a son to the Merciful)."
+      - "Compare Hesiod's Kronos and Ouranos, and Gen 9:20-25 (a son's offence against his father's nakedness)."
+  - id: ane-cth-344-d-gods-inside-kumarbi
+    tradition: ane-hittite
+    title: Kumarbi's pregnancy; the unborn gods debate how to come out; the storm god's birth from the skull (CTH 344 §8-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §8:58-§13:118"]
+    tags:
+      - {motif: male-god-made-pregnant, refs: ["CTH 344 §8:58-63"], note: "Kumarbi to Nippur; ITU 7{KAM}-aš ti-y[a-at]: the seventh month arrived; ŠÀ-ši 'in his inside'"}
+      - {motif: unborn-gods-debate-way-out, refs: ["CTH 344 §9:64-66", "CTH 344 §12:92-104", "CTH 344 §13:105-114"], note: "pa-ra-a e-ḫu ... a-aš-šu-wa-az pé-da-az: 'come out from the good place'; leaving by the 'good place' would defile him (pa-ap-ra-aḫ-ḫi)"}
+      - {motif: god-endowed-with-gifts-of-other-gods, refs: ["CTH 344 §10:72-79"], note: "KI-aš-mu GURUŠ-tar-še-et pa-a-i AN-aš-mu UR.SAG-li-ya-tar ... {d}a-nu-ša-mu LÚ-na-tar-še-et pa-a-i"}
+      - {motif: god-born-from-skull, refs: ["CTH 344 §13:117-118"], note: "NA₄-an-wa-ra-an GIM-an pár-ša-nu-ut tar-na-aš-ša-an {d}ku-mar-bi-in ... tar-na-aš-ši-it ú-et {d}KA.ZAL-aš"}
+      - {motif: wise-god-proposes-plan-in-assembly, refs: ["CTH 344 §10:67-68"], note: "loose: A.GILIM greets Kumarbi 'live, lord of the springs of wisdom'"}
+    hints:
+      - "Gods with divided parentage and endowments: contrast Q 6:100-101 (they ascribe to Him sons and daughters without knowledge)."
+      - "Wisdom born from a god's head: compare Athena from Zeus; Prov 8:22-25 (Wisdom 'brought forth' before the hills)."
+  - id: ane-cth-344-e-kumarbi-eats-stone
+    tradition: ane-hittite
+    title: Kumarbi demands the son to eat him, breaks his teeth on the diorite; a stone cult is founded (CTH 344 §14-16)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §14:119-§16:169"]
+    tags:
+      - {motif: father-god-demands-son-to-devour, refs: ["CTH 344 §14:124-132"], note: "[DU]MU-an-mu pa-a-i [nu-wa-ra-a]n ar-ḫa e-et-mi"}
+      - {motif: god-bites-on-stone-breaks-teeth, refs: ["CTH 344 §14:142-146"], note: "[{NA4}ku-un-ku-nu-uz-z]i-iš-ma {d}ku-mar-bi KAxU-iš-ši an-da ZU₉{ḪI.A}-uš; the stone's name is restored here, cf. §15:155; the substitution of a stone for the child is implied, not stated"}
+      - {motif: stone-cult-founded-rich-and-poor-offer, refs: ["CTH 344 §15:153-158", "CTH 344 §16:165-166"], note: "[{LÚ.MEŠ}ḫa-ap-pí-na]-a-an-te-eš ... GU₄{ḪI.A}-uš [... ḫu-uk-ki]-iš-kán-du {LÚ.MEŠ}a-ši-wa-an-te-eš-ma ... ši-ip-pa-an-za-kán-du"}
+      - {motif: god-born-from-skull, refs: ["CTH 344 §16:168-169"], note: "tar-na-aš-še-et TÚG-an ma-a-an ... an-da še-e-ku-e-er ... UR.SAG-iš {d}IM-aš pa-ra-a ú-et"}
+      - {motif: wise-god-proposes-plan-in-assembly, refs: ["CTH 344 §14:120-123", "CTH 344 §14:136-141"], note: "Kumarbi bows and falls down before Ea; Ea speaks; loose fit"}
+    hints:
+      - "A stone set up and given sacrifices: compare Gen 28:18-22 (Bethel stone anointed), Gen 31:45-52, and the Quran's polemic against stones set up for worship (al-anṣāb), Q 5:3, 5:90."
+      - "The idol cannot help its worshippers: Q 22:73, Q 26:72-73."
+  - id: ane-cth-344-f-aranzah-kanzura-born
+    tradition: ane-hittite
+    title: The storm god, the Aranzah and Mt Kanzura come out (CTH 344 §17-18)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §17:170-§18:185"]
+    tags:
+      - {motif: male-god-made-pregnant, refs: ["CTH 344 §17:171-180"], note: "the fate goddesses (restored [{d}gu]l-še-eš) close his 'good place' like a garment; ḫa-aš-ša-nu-e-ra-an: they made him give birth ... like a woman of the bed; Aranzah and the hero come out"}
+      - {motif: newborn-set-on-fathers-knees, refs: ["CTH 344 §17:170"], note: "only the fate goddesses' presence at the birth is preserved; loose"}
+    hints:
+      - "A male god giving birth 'like a woman': contrast Q 3:47 and Q 19:20 (Mary: how shall I have a son?), where conception is by God's word alone."
+  - id: ane-cth-344-g-plot-against-kumarbi
+    tradition: ane-hittite
+    title: Anu and the storm god plot against Kumarbi; the storm god boasts; Šeri warns (CTH 344 §19-21)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §19:186-§21:234"]
+    tags:
+      - {motif: succession-of-kings-in-heaven, refs: ["CTH 344 §19:186-198", "CTH 344 §19:205"], note: "ḫar-ni-in-ku-e-ni ... {d}ku-mar-bi-in ḫar-ni-ik-ši ... I-NA {GIŠ}GU.ZA-IA; LUGAL-un i-ya! 'make (him) king'"}
+      - {motif: storm-god-boasts-none-left-to-fight, refs: ["CTH 344 §20:211-220"], note: "nu ku-i-e-eš [... me-na-aḫ-ḫa-an-t]a za-aḫ-ḫi-ya-an-zi"}
+      - {motif: storm-gods-bulls-seri-and-tella, refs: ["CTH 344 §19:210", "CTH 344 §21:221-225"], note: "the bull Šeri answers: 'my lord, why do you curse them, the gods ... Enki?'"}
+      - {motif: wise-god-proposes-plan-in-assembly, refs: ["CTH 344 §21:227-234"], note: "IGI.GÁL-an-za-aš ... {d}A.A-aš: 'he is wise, Ea'; wisdom as great as the land"}
+    hints:
+      - "A god boasting no one can fight him: compare Q 79:24 (Pharaoh: I am your lord most high) and Q 28:38."
+  - id: ane-cth-344-h-ea-cursed
+    tradition: ane-hittite
+    title: Ea angered at being cursed; the melting pot; the wagon (CTH 344 §22-26)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §22:235-§26:257"]
+    tags:
+      - {motif: curse-not-returned-with-curse, refs: ["CTH 344 §25:242-251"], note: "ḫur-da-a-uš-mu le-e me-mi-iš-ke-ši ḫur-za-ke-et-mu ku-iš ...; the beer pot melts (mar-ri-ya-az-zi)"}
+    hints:
+      - "Curses rebounding: compare Ps 109:17-18 and Q 35:43 (the evil plot encompasses only its authors)."
+  - id: ane-cth-344-i-earth-gives-birth
+    tradition: ane-hittite
+    title: Ea counts the months; the Earth bears two sons; gifts to the messenger (CTH 344 §27-28)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §27:258-§28:285"]
+    tags:
+      - {motif: birth-in-tenth-month, refs: ["CTH 344 §27:267-272"], note: "ITU 1{KAM} ... ITU 9{KAM} pa-it nu ITU 10{KA[M}] ... KI-aš ú-i-ú-e-iš-ki[-u-an]"}
+      - {motif: earth-bears-sons-of-divine-seed, refs: ["CTH 344 §28:273-278"], note: "KI-aš-za 2 DUMU{MEŠ} ḫa-aš-t[a]"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 344 §28:279-285"], note: "the king sends a gift (NÍG.BA), a garment and a silver IPANTU to the messenger; loose fit"}
+    hints:
+      - "Gestation counted by months: compare Q 46:15 (thirty months of bearing and weaning) and Q 31:14; Job 39:2."
+  - id: ane-cth-344-j-colophon
+    tradition: ane-hittite
+    title: Colophon of the Song of Going Forth, tablet one (CTH 344 §29-31)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 344 §29:286-§31:296"]
+    tags:
+      - {motif: scribal-colophon-copied-from-worn-tablet, refs: ["CTH 344 §29:286-292"], note: "DUB 1{KAM} ŠÁ SÌR GÁxÈ.A NU.TIL ... ki-i ṬUP-PU ar-ḫa ḫar-ra-an e-eš-ta na-at am-mu-uk {m}aš-ḫa-pa<-la>-aš PA-NI {m}LÚ IŠ-ṬUR"}
+    hints:
+      - "Faithful transmission of a worn text: compare Q 15:9 (We sent down the Reminder and We guard it)."
+  - id: ane-cth-345-1-a-kumarbi-plans-rival
+    tradition: ane-hittite
+    title: Ullikummi I - proem; Kumarbi plans a rival and mates with the rock (CTH 345.I.1 §1-3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 1
+    read: ["CTH 345.I.1 §1:1-§3:33"]
+    tags:
+      - {motif: song-proem-i-sing-of-god, refs: ["CTH 345.I.1 §1:4"], note: "da-pí-y[a-aš ...] {d}ku-m[ar-b]i-in iš-ḫa-mi-iḫ-ḫi"}
+      - {motif: father-god-raises-rival-against-storm-god, refs: ["CTH 345.I.1 §1:5-8", "CTH 345.I.1 §2:9-11"], note: "{d}10-ni :tar-pa-na-al-li-in šal-la-nu-u[š-ke-ez-zi]; ḪUL-lu-un UD{KAM}-an"}
+      - {motif: god-takes-staff-and-wind-shoes, refs: ["CTH 345.I.1 §2:12-15"], note: "ŠU-za {GIŠ}GIDRU-an da-a-aš ... li-li-wa-an-du-uš IM[{MEŠ}-uš]; from Urkiš"}
+      - {motif: god-mates-with-rock, refs: ["CTH 345.I.1 §2:16-26"], note: "na-aš-za-aš {NA4}p[é-ru-ni] kat-ta-an še-eš-ta ... 5-ŠU da-a-aš ... 10-ŠU da-a-aš; the rock's size (three miles long) comes from the translation of broken lines"}
+    hints:
+      - "A god begetting a monstrous offspring: compare Gen 6:1-4 (sons of God and the Nephilim) and contrast Q 112:3."
+      - "The father of the gods plotting evil: compare Q 21:26-29 (they say the Merciful has taken a son; glory be to Him)."
+  - id: ane-cth-345-1-b-kumarbi-feasts-with-sea
+    tradition: ane-hittite
+    title: Impaluri, the Sea's invitation and the feast (CTH 345.I.1 §4-6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 1
+    read: ["CTH 345.I.1 §4:34-§6:87"]
+    tags:
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 345.I.1 §5:38-49"], note: "Impaluri reports to the Sea; the Sea sends him back with words; much of the speech is from duplicates in the translation"}
+      - {motif: guest-welcomed-with-cake-water-and-beer, refs: ["CTH 345.I.1 §6:64-70"], note: "[{GIŠ}ḫa-a]š-ša-al-li a-ša-an-na ... [{GIŠ}BA]NŠUR-un ... [KAŠ]-eš-šar ... [GEŠT]IN KU₇"}
+      - {motif: drinking-counted-to-seven, refs: ["CTH 345.I.1 §6:71-77"], note: "1-ŠU e-ku-er ... 7-ŠU e-ku-er"}
+      - {motif: god-takes-staff-and-wind-shoes, refs: ["CTH 345.I.1 §6:78-87"], note: "Kumarbi to his vizier Mukišanu"}
+    hints:
+      - "A host's feast for a god: compare Gen 18:1-8; contrast Q 51:24-28."
+  - id: ane-cth-345-1-c-ullikummi-born-named
+    tradition: ane-hittite
+    title: The stone child is born, named Ullikummi and destined to destroy the storm god; hidden from the gods (CTH 345.I.1 §7-9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 1
+    read: ["CTH 345.I.1 §7:88-§9:128"]
+    tags:
+      - {motif: god-mates-with-rock, refs: ["CTH 345.I.1 §7:94-97"], note: "NA₄-aš NA₄-an ... ḫa-aš-ša-nu-uš-: the stone (bears) a stone"}
+      - {motif: newborn-set-on-fathers-knees, refs: ["CTH 345.I.1 §8:98-102"], note: "{d}gul-šu-uš DINGIR.M[AḪ{ḪI.A}-uš] ... [g]i-nu-wa-aš ḫa-la-a-e[r] ... du-uš-ki-iš-ki-u-wa-an da-a-[iš]"}
+      - {motif: son-named-for-destructive-purpose, refs: ["CTH 345.I.1 §8:103-108"], note: "pa-id-d[u-wa-aš-ša-a]n {d}ul-li-kum-mi ŠUM-an e-eš-du; he sprang from the body like a spear"}
+      - {motif: son-destined-to-scatter-gods-from-heaven, refs: ["CTH 345.I.1 §8:109-116"], note: "ne-pí-ši [LUGAL-iz-na-a]n-ni UGU pa-id-du ... DINGIR{MEŠ}-ma-wa-kán ḫu-u-ma-an-du-uš [ne-pí-š]a-az GAM MUŠEN{ḪI.A} GIM-an iš-ḫu-wa-a-ú"}
+      - {motif: ascent-above-stars-of-el, refs: ["CTH 345.I.1 §8:109"], note: "the son is to go up into heaven to kingship"}
+      - {motif: child-hidden-in-netherworld-from-gods, refs: ["CTH 345.I.1 §9:119-128"], note: "[GE₆]-i KI-pí-ya an-da ... {d}UTU-uš {d}[30-aš-ša l]e-e ú-wa-a[n-z]i ... {d}IŠTAR-iš {URU}ni-nu-wa-aš"}
+      - {motif: first-birth-naming-speech, refs: ["CTH 345.I.1 §8:104-108"], note: "here the father, not the mother, gives the explanatory name"}
+    hints:
+      - "The would-be usurper of heaven: compare Isa 14:13-14 (I will ascend to heaven, above the stars of El) and Q 40:36-37 (Pharaoh's tower to reach the ways of heaven)."
+      - "A child hidden from a hostile king: compare Q 28:7 and Exod 2:2-3, reversed."
+  - id: ane-cth-345-1-d-ullikummi-upelluri-grows
+    tradition: ane-hittite
+    title: The Irširra gods carry Ullikummi to Enlil and set him on Upelluri's shoulder; he grows out of the sea to heaven (CTH 345.I.1 §10-18)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 1
+    read: ["CTH 345.I.1 §10:129-§18:204"]
+    tags:
+      - {motif: god-takes-staff-and-wind-shoes, refs: ["CTH 345.I.1 §10:132-135", "CTH 345.I.1 §11:146-149"]}
+      - {motif: child-hidden-in-netherworld-from-gods, refs: ["CTH 345.I.1 §11:141-142", "CTH 345.I.1 §13:162-164"], note: "[nu-w]a-ra-an GE₆-i KI-pí pé-da-at-t[én]"}
+      - {motif: monster-grows-on-world-bearers-shoulder, refs: ["CTH 345.I.1 §13:166", "CTH 345.I.1 §16:190"], note: "DUMU-[a]n A-NA {d}ú-pé-e[l-lu-r]i ZAG-ni {UZU}ZAG.UDU-ni {GIŠ}š[i-ya-tal]; §13:166 is mostly restored"}
+      - {motif: monster-grows-cubit-a-day, refs: ["CTH 345.I.1 §13:167-168", "CTH 345.I.1 §17:191-194"], note: "INA UD 1{KAM}-ya-aš 1 AM-MA-DU pár-ki-iš-kit₉-ta-ri"}
+      - {motif: monsters-body-unlike-gods, refs: ["CTH 345.I.1 §14:177-180", "CTH 345.I.1 §15:181-188"], note: "NÍ.TE-aš-ma-aš-ši NA₄-aš {NA4}ku-[un-k]u-nu-uz-zi-ya-aš DÙ-an-za; Enlil: 'it is the evil of Kumarbi alone'"}
+      - {motif: father-god-raises-rival-against-storm-god, refs: ["CTH 345.I.1 §15:187-188"], note: "{d}ku-mar-bi-iš-wa GIM-an {d}10-an šal-la-nu-ut ... tar-pa-na-al-li-in šal-la-[nu-ut]"}
+      - {motif: monster-grows-to-reach-heaven, refs: ["CTH 345.I.1 §18:197-204"], note: "a-ru-ni gi-nu-wa-aš ... ne-pí-ši UGU [... ku-un]-tar-ra-an-na an-da ú-e-mi-iš-ke-ez-zi"}
+    hints:
+      - "Growth reaching heaven: compare Gen 11:4 (a tower with its top in heaven) and Q 40:36-37."
+      - "The giant who bears the world: contrast Q 2:255 (His Throne extends over heavens and earth and guarding them does not weary Him), Q 35:41, Q 13:2 (heavens raised without pillars you can see)."
+  - id: ane-cth-345-1-e-sun-sees-refuses-food
+    tradition: ane-hittite
+    title: The sun god sees Ullikummi and comes to the storm god; he will not sit, eat or drink (CTH 345.I.1 §19-24)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 1
+    read: ["CTH 345.I.1 §19:205-§24:253"]
+    tags:
+      - {motif: monsters-body-unlike-gods, refs: ["CTH 345.I.1 §19:205-210"], note: "[nu-wa-aš]-ši NÍ.TE{MEŠ} ... DINGIR{MEŠ}-aš Ú-UL ta-ak-ki"}
+      - {motif: divine-guests-do-not-eat, refs: ["CTH 345.I.1 §22:234-241"], note: "na-aš-za Ú-UL [e-ša]-at ... pa-ra-a Ú-UL ša-l[i-ik-t]a ... pu-u-ri-in Ú-UL da-a-i[š]"}
+      - {motif: host-asks-if-servants-at-fault, refs: ["CTH 345.I.1 §23:242-251"], note: "{LÚ}ŠÀ.TA[M ḪUL]-lu-uš ... {LÚ}SAGI.A-aš ḪUL-l[u-uš]"}
+      - {motif: guest-welcomed-with-cake-water-and-beer, refs: ["CTH 345.I.1 §21:231-233"]}
+      - {motif: sun-god-lights-darkness-above-and-below, refs: ["CTH 345.I.1 §20:211-216"], note: "loose: the sun turns his rays (kal-ma-ru-uš), shades his brow, and changes colour in anger"}
+      - {motif: no-king-left-in-heaven, refs: ["CTH 345.I.1 §21:227-230"], note: "Tašmišu: ne-pí-ša-aš-ma-wa-ra-aš ḫar-nam-ni-ya-aš-ḫa-aš ŠA [KUR-ma]-wa-ra-aš ka-aš-za ak-ka₄-tar-ra: 'an upheaval of heaven, hunger and death for the land'"}
+    hints:
+      - "A heavenly visitor who will not touch the food until his message is out: compare Q 11:69-70 and Q 51:24-28 (Abraham's guests do not eat), Gen 24:33 (I will not eat until I have told my errand)."
+  - id: ane-cth-345-2-a-sun-eats
+    tradition: ane-hittite
+    title: The sun god eats and returns to heaven; the storm god takes counsel (CTH 345.I.2 §1-5 to 5:37)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 2
+    read: ["CTH 345.I.2 §1:1-§5:37"]
+    tags:
+      - {motif: divine-guests-eat, refs: ["CTH 345.I.2 §4:13-30"], note: "nu-wa-za e-ez-za ... [GAL-i-ma-kán an-da GEŠTIN K]U₇ ša-né-ez-ze-e-eš-ta nu e-[ku-u]t-ta; much restored"}
+      - {motif: wise-king-plans-sleeplessly, refs: ["CTH 345.I.2 §5:34-36"], note: "loose: {d}10-aš ZI-ni pé-ra-an [ḫa-at-t]a-tar da-aš-; storm god and Tašmišu leave the temple hand in hand"}
+    hints:
+      - "Compare Gen 18:8 (the visitors eat) against Q 11:70."
+  - id: ane-cth-345-2-b-mount-hazzi-weeping
+    tradition: ane-hittite
+    title: Ištar meets her brothers; on Mt Ḫazzi the storm god sees the stone and weeps (CTH 345.I.2 §5:38-§6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 2
+    read: ["CTH 345.I.2 §5:38-§6:77"]
+    tags:
+      - {motif: storm-god-weeps-tears-like-canals, refs: ["CTH 345.I.2 §6:61-66"], note: "{d}10-aš da-ga-an e-ša-at nu-uš-ši-kán iš-ḫa-aḫ-ru [pa-ra]-a PA₅{ḪI.A}-uš ma-a-an ar-ša-an-zi"}
+      - {motif: monster-grows-to-reach-heaven, refs: ["CTH 345.I.2 §5:56-60"], note: "I-NA {ḪUR.SAG}ḫa-az-zi-ya ša-ra-a pa-a-er ... :ša-pí-id-du-wa {NA4}ku-un-ku-nu-uz-zi"}
+      - {motif: gods-are-small-birds-goddess-is-falcon, refs: ["CTH 345.I.2 §6:67-69"], note: "loose: Ištar: 'my brother, he does not know even a little sense, but courage is given him tenfold' (ma-al-wa-za te-pu-ya Ú-UL [ša-a]k-ki UR.SAG-tar-ma-aš-ši 10-pa pí-ya-an)"}
+    hints:
+      - "Mount Ḫazzi is Ṣapanu / Mons Casius: compare Ps 48:3 (Zion, the heights of Zaphon) and Isa 14:13 (the mount of assembly in the far north)."
+  - id: ane-cth-345-2-c-ishtar-sings
+    tradition: ane-hittite
+    title: Ištar sings to the deaf and blind stone; the wave sends her away (CTH 345.I.2 §7-10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 2
+    read: ["CTH 345.I.2 §7:78-§10:112"]
+    tags:
+      - {motif: goddess-sings-to-charm-monster, refs: ["CTH 345.I.2 §8:82-90", "CTH 345.I.2 §9:91-92"], note: "{GIŠ}BALAG.DI gal-gal-tu-ri ... {GIŠ}ERIN ša-mi-ši-ya<-at> ... iš-ḫa-mi-iš-ke-ez-zi {d}IŠTAR-iš"}
+      - {motif: wave-speaks-to-goddess, refs: ["CTH 345.I.2 §9:93-96"], note: "GAL-iš ḫu-un-ḫu-eš-na-aš A-NA {d}IŠTAR me-mi-iš-ke-ez-zi"}
+      - {motif: eyes-and-ears-that-do-not-perceive, refs: ["CTH 345.I.2 §9:97-101"], note: "LÚ-iš-wa du-ud-du-ud-mi-ya-an-za nu-wa [Ú-UL] iš-ta-ma-aš-z[i] [IG]I{ḪI.A}-wa-ma-wa-ra-aš da-šu-wa-an-za nu-wa Ú-UL a-uš-zi nu-wa-aš-ši ka-ri-ya-aš-ḫa-aš NU.G[ÁL]"}
+      - {motif: heavens-thunder-earth-answers, refs: ["CTH 345.I.2 §8:90"], note: "ne-pí-i[š d]a-ga-an-zi-pa-aš-ša ... ar-ku-uš-k[a-an]-zi: heaven and earth answer her song"}
+      - {motif: masters-wife-seduces, refs: ["CTH 345.I.2 §10:106-110"], note: "loose: the seduction fails; she quenches the cedar, throws away her instruments and goes off wailing"}
+    hints:
+      - "The stone that neither hears nor sees: compare Q 7:195-198, Q 19:42 (why worship what neither hears nor sees?), Q 2:18 (deaf, dumb, blind), Ps 115:4-8."
+      - "Ishtar seducing a monster from the sea: the Hedammu song (CTH 348) has the fuller version; it is not in this chunk."
+  - id: ane-cth-345-2-d-bulls-prepared
+    tradition: ane-hittite
+    title: The storm god orders his bulls and storm weapons prepared; he arms for battle (CTH 345.I.2 §11-15)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 2
+    read: ["CTH 345.I.2 §11:113-§15:169"]
+    tags:
+      - {motif: storm-gods-bulls-seri-and-tella, refs: ["CTH 345.I.2 §11:115-121", "CTH 345.I.2 §12:131-140"], note: "ŠA {GU4}še-ri-šu SI{ḪI.A}-ar iš-ki-y[a-a]n-du ŠA {GU4}ti-el-la-ma KUN-an IŠ-TU GUŠ[KIN] ḫa-liš-ši-an-du"}
+      - {motif: storm-weapons-summoned, refs: ["CTH 345.I.2 §11:122-130"], note: "ḫé-e-uš IM{MEŠ}-uš ḫal-zi-ya-an-du [w]a-an-ti-ma-aš-ma ... še-šu-wa-aš É.ŠÀ-na-aš pa-ra-a ú-da-an-du"}
+      - {motif: chariot-harnessed-to-seven-winds, refs: ["CTH 345.I.2 §13:152-155"], note: "Ú-NU-UT M[È] ... {GIŠ}MAR.GÍD.DA{ḪI.A} ... [ne-p]í-ša-za ar-ḫa al-pa{ḪI.A} pé-e-d[a-aš]"}
+      - {motif: scribal-colophon-copied-from-worn-tablet, refs: ["CTH 345.I.2 §15:169"], note: "loose: DUB 2{KAM} NU!.TIL"}
+    hints:
+      - "God riding the storm with lightning as weapon: compare Ps 18:8-16, Ps 104:3-4; Q 13:12-13 (the thunder glorifies Him, He sends thunderbolts)."
+  - id: ane-cth-345-3-a-battle-seventy-gods
+    tradition: ane-hittite
+    title: First battle - seventy gods fall into the sea; Ullikummi reaches 9000 miles and shuts in Ḫebat (CTH 345.I.3.1 §1-6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 3
+    read: ["CTH 345.I.3.1 §1:1-§6:61"]
+    tags:
+      - {motif: seventy-gods-fall-into-sea, refs: ["CTH 345.I.3.1 §2:16-19"], note: "70 DINGIR{MEŠ}-ya-kán a-ru-ni GAM-a[n-da]; Aštabi with his thunder"}
+      - {motif: monster-shakes-and-tears-heaven, refs: ["CTH 345.I.3.1 §2:22-24"], note: "ne-pí-iš kat-kat-ti-nu-u[t] ... [d]a-an-na-ra-an TÚG-an [m]a-a-[an a]r-ḫa šar-ga-an-né-et"}
+      - {motif: monster-of-nine-thousand-miles, refs: ["CTH 345.I.3.1 §2:26-33"], note: "pár-ga-tar-še-et 9 LI-IM DANNA ... pal-ḫa-aš-ti-iš-ma-aš-ši 9 LI-IM DANNA"}
+      - {motif: monster-grows-to-reach-heaven, refs: ["CTH 345.I.3.1 §2:28-30"]}
+      - {motif: goddess-cut-off-in-temple, refs: ["CTH 345.I.3.1 §2:34-37", "CTH 345.I.3.1 §3:38-42"], note: "{d}ḫé-pa-du-un {É}ka-ri-im-ni an-da a-ra-a-iš ... DINGIR{MEŠ}-aš ḫa-lu-ga-an Ú-UL iš-ta-ma-aš-zi"}
+      - {motif: god-takes-staff-and-wind-shoes, refs: ["CTH 345.I.3.1 §4:43-49"], note: "Ḫebat sends Takiti"}
+      - {motif: heavens-fold-like-garment-before-deity, refs: ["CTH 345.I.3.1 §2:24"], note: "heaven torn like an empty garment; partial fit"}
+    hints:
+      - "The heavens torn and rolled up: compare Isa 34:4 and Q 21:104 (We roll up the heaven like a scroll), Q 81:11."
+      - "Seventy gods: compare the seventy sons of Athirat at Ugarit and Deut 32:8 (nations by the number of the sons of God)."
+  - id: ane-cth-345-3-b-tashmishu-to-ea
+    tradition: ane-hittite
+    title: Ḫebat nearly falls from the roof; 'there will be no king in heaven'; to Ea in Abzuwa (CTH 345.I.3.1 §7-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 3
+    read: ["CTH 345.I.3.1 §7:62-§13:149"]
+    tags:
+      - {motif: queen-nearly-falls-from-roof, refs: ["CTH 345.I.3.1 §7:71-76"], note: "šu-uḫ-ḫa-az kat-ta ma-uš-šu-u-wa-an-zi wa-ak-ka₄-re-eš ... {MUNUS.MEŠ}SUḪUR.LA₅ e-ep-pir"}
+      - {motif: no-king-left-in-heaven, refs: ["CTH 345.I.3.1 §7:81-85"], note: "nu-wa-kán ne-pí-ši še-er LUGAL-uš NU.GÁL"}
+      - {motif: gods-consult-ancient-tablets, refs: ["CTH 345.I.3.1 §7:91-92"], note: "[a]n-na-al-la-aš INIM{MEŠ}-na-aš tup-pí-ya-aš EGIR-pa pu-nu-uš-šu-u-e-ni"}
+      - {motif: graded-prostrations-before-god, refs: ["CTH 345.I.3.1 §7:93-97", "CTH 345.I.3.1 §8:108-112"], note: "{GIŠ}a-ra-ši-ya-aš 5-an-ki ḫi-in-ku-e-ni ... A-NA {d}É.A 15-ŠU ḫi-in-ku-e-ni"}
+      - {motif: suppliant-kisses-knees-and-soles, refs: ["CTH 345.I.3.1 §11:131-132"], note: "na-an gi-nu-wa 3-Š[U] ... pa-tal-ḫu-uš 4-ŠU ku-wa-aš-ta; 'kissed' restored at 131"}
+      - {motif: god-takes-staff-and-wind-shoes, refs: ["CTH 345.I.3.1 §7:63-66"]}
+      - {motif: wise-god-helps-where-chief-god-refuses, refs: ["CTH 345.I.3.1 §7:98-101"], note: "[nu-un?-n]a-aš ge-en-zu da-a-i: 'he will have mercy on us'"}
+      - {motif: primeval-cutting-tool-reused-against-monster, refs: ["CTH 345.I.3.1 §12:141-142"], note: "da-da-al-la ḫu-ḫa-da-al-l[a] ... {URUDU}ar-da-a-la pa-ra-[a]"}
+    hints:
+      - "'No king in heaven' as the outcome of divine rivalry: compare Q 21:22 and Q 23:91; contrast Q 67:1 (Blessed is He in whose hand is the kingship)."
+      - "Prostration in graded numbers before a god: compare Gen 33:3 (seven times) and Q 12:100 (they fell down prostrate before him)."
+  - id: ane-cth-345-3-c-ea-upelluri-saw
+    tradition: ane-hittite
+    title: Ea, Enlil and Upelluri; the saw that cut heaven from earth (CTH 345.I.3.1 §14-24)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 3
+    read: ["CTH 345.I.3.1 §14:150-§24:238"]
+    tags:
+      - {motif: wise-god-proposes-plan-in-assembly, refs: ["CTH 345.I.3.1 §14:152-157"], note: "{d}É.A-aš-za-kán ḫa-ad-da-tar ... DINGIR{MEŠ} ḫu-u-ma-an-te-eš ... ša-ra-a t[i]-i-e-er"}
+      - {motif: father-god-raises-rival-against-storm-god, refs: ["CTH 345.I.3.1 §17:179-182", "CTH 345.I.3.1 §21:207-213"], note: "{d}ku-mar-bé-eš-wa ku-in nu-ut-ta-ri-ya-an DINGIR-LIM-in DINGIR{MEŠ}-aš IGI-an-da ša-am-na-et ... ag!-ga-tar ša-an-ḫe-eš-ke-ez-zi"}
+      - {motif: monster-grows-on-world-bearers-shoulder, refs: ["CTH 345.I.3.1 §22:221-223", "CTH 345.I.3.1 §23:224-226"], note: "[k]i-nu-na-mu ZAG-an ku-it-ki [{U]}ZUZAG.UDU-an GIG-zi ... {NA4}ŠU.U-iš ... {GIŠ}ši-ya-at-tal ma-aḫ-ḫa-an ar-ta-at"}
+      - {motif: world-bearer-unaware-of-creation, refs: ["CTH 345.I.3.1 §20:201-202", "CTH 345.I.3.1 §22:216-220"], note: "ne-pí-ša-an-mu-kán ku-wa-pí da-ga-an-zi-pa-an-na še-er ú-e-te-er nu Ú-UL ku-it-ki ša-ag-ga-aḫ-ḫu-un"}
+      - {motif: heaven-earth-joined-then-parted, refs: ["CTH 345.I.3.1 §22:219", "CTH 345.I.3.1 §24:233-234"], note: "AN-iš! ... te-ká[n-n]a {URUDU}ku-ru-uz-zi-it ar-ḫa ku-e-re-er; ne-pí-iš te-kán-na ku-e-ez ar-ḫa ku-e-re-er"}
+      - {motif: primeval-cutting-tool-reused-against-monster, refs: ["CTH 345.I.3.1 §24:229-236"], note: "an-na-al-la at-ta-al-la ḫu-u-ḫa-da-al-la É {NA4}KIŠIB{ḪI.A} ... {URUDU}ar-da-a-la ... GÌR{MEŠ} GAM-an ar-ḫa ar-du-[um-me-ni]"}
+      - {motif: gods-consult-ancient-tablets, refs: ["CTH 345.I.3.1 §24:227-232"], note: "ka-ru-ú-i-li-ya-aš DINGIR{MEŠ}-iš ... ka-ru-ú-i-li ud-da-a-ar [š]e-ek-te-ni"}
+      - {motif: monster-split-into-heaven-and-earth, refs: ["CTH 345.I.3.1 §24:234"], note: "related: the separation is by a tool, not by splitting a monster"}
+    hints:
+      - "Heaven and earth once joined and cut apart: compare Q 21:30 (the heavens and earth were a joined mass, ratq, and We parted them) and Gen 1:6-8."
+      - "Contrast the burdened world-bearer with Q 2:255 (the Kursi encompasses heavens and earth; guarding them does not weary Him), Q 35:41 and Q 22:65 (He holds back the sky from falling)."
+  - id: ane-cth-345-3-d-final-battle
+    tradition: ane-hittite
+    title: Ea has seen the dead; the gods bellow; battle with the cut-off Ullikummi and his boast (CTH 345.I.3.1 §25-34)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 3
+    read: ["CTH 345.I.3.1 §25:239-§34:301"]
+    tags:
+      - {motif: dead-seen-standing-like-dust, refs: ["CTH 345.I.3.1 §27:247-252"], note: "ak-kán-du-uš ku-it GE₆-i KI-pí IGI{ḪI.A}-it uš-ki-nu-un na-at SAḪAR{ḪI.A}-uš :gul-lu-ši-iš-ša ma-aḫ-ḫ[a]-an a-ra-an-ta-ri"}
+      - {motif: monster-grows-on-world-bearers-shoulder, refs: ["CTH 345.I.3.1 §26:245-246"], note: "Tašmišu sees him changed in body and hair"}
+      - {motif: gods-bellow-at-monster, refs: ["CTH 345.I.3.1 §28:257-264"], note: "3-ŠU pal-wa-et ... DINGIR{MEŠ} ḫu-u-ma-an-te-eš A-NA {d}ul-lu-kum-mi ... GU₄{ḪI.A} ma-aḫ-ḫa-an ú-wa-ya-u-wa-an-zi ti-i-e-er"}
+      - {motif: storm-gods-bulls-seri-and-tella, refs: ["CTH 345.I.3.1 §29:265-267"], note: "the storm god leaps on the wagon and comes down with thunder to the sea; loose"}
+      - {motif: monster-boasts-to-take-heavenly-kingship, refs: ["CTH 345.I.3.1 §31:273-278"], note: "ne-pí-ši-wa-kán [š]a-ra-a LUGAL-ez-na-an-ni pa-a-i-mi ... DINGIR{MEŠ}-ma-wa-kán ne-pí-ša-az kat-ta me-ma-al ma-a-[a]n iš-ḫu-w[a-a]ḫ-ḫi"}
+      - {motif: ascent-above-stars-of-el, refs: ["CTH 345.I.3.1 §31:276-277"]}
+      - {motif: monster-usurps-divine-kingship, refs: ["CTH 345.I.3.1 §31:276-278", "CTH 345.I.3.1 §33:290-294"]}
+      - {motif: wise-god-creator-of-discernment, refs: ["CTH 345.I.3.1 §30:272", "CTH 345.I.3.1 §32:282"], note: "{d}É.A-aš GALGA-aš LUGAL-uš: Ea, king of wisdom"}
+      - {motif: wise-god-helps-where-chief-god-refuses, refs: ["CTH 345.I.3.1 §28:253-256", "CTH 345.I.3.1 §30:268-272"], note: "Ea: 'go and fight him'; the diorit taunts: {d}É.A-aš GALGA-aš LUGAL-uš tu-e-da-za ar-ta-ri"}
+    hints:
+      - "The arrogant one who says 'I will ascend to heaven': Isa 14:13-15 and Q 40:36-37; his fall 'to the depths of the pit' (Isa 14:15). The Hittite end is lost."
+      - "The dead in darkness like dust: compare Q 23:99-100 (a barrier until the Day they are raised) and Job 10:21-22."
+  - id: ane-cth-345-3-2-ullikummi-plan
+    tradition: ane-hittite
+    title: Ullikummi recalls Kumarbi's plan (CTH 345.I.3.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, tablet 3, fragment
+    read: ["CTH 345.I.3.2"]
+    tags:
+      - {motif: monster-boasts-to-take-heavenly-kingship, refs: ["CTH 345.I.3.2 §4:9-15"], note: "AN-ši-wa-kán ša-[r]a-a pa-[id-du] nu-wa-za {URU}kum-mi-[ya-a]n ... DINGIR{MEŠ}-ma-wa-kán n[e-pí-ša-az]"}
+      - {motif: wise-god-helps-where-chief-god-refuses, refs: ["CTH 345.I.3.2 §3:8"], note: "{d}A.A-aš-w[a GA]LGA-aš LUGAL-u[š] tu-e-ta-az ti-ya-at"}
+    hints:
+      - "Compare Isa 14:13-14."
+  - id: ane-cth-345-4-ishtar-from-nineveh
+    tradition: ane-hittite
+    title: Ištar with her instruments goes from Nineveh to the sea (CTH 345.I.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, fragment
+    read: ["CTH 345.I.4"]
+    tags:
+      - {motif: goddess-sings-to-charm-monster, refs: ["CTH 345.I.4 §1:6-9", "CTH 345.I.4 §2:10"], note: "[{GIŠ}BALA]G?.DI? gal-gal-tu-ú?-[ri] ... {URU}n[e-nu-wa-] ... a-ru-ni pa-ra-[a]"}
+    hints:
+      - "Compare Q 7:195."
+  - id: ane-cth-345-5-astabi
+    tradition: ane-hittite
+    title: Aštabi, the terrible god (CTH 345.I.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, fragment
+    read: ["CTH 345.I.5"]
+    tags:
+      - {motif: seventy-gods-fall-into-sea, refs: ["CTH 345.I.5 §2:7-9"], note: "loose: {d}aš-da-bi-iš ḫa-du-ga-aš DINGIR-LIM-i[š]; someone went up into heaven and grows great (§1:3-4)"}
+    hints:
+      - "Compare Q 21:22."
+  - id: ane-cth-345-6-10-ullikummi-fragments
+    tradition: ane-hittite
+    title: Small Ullikummi fragments - the diorite, Impaluri, spindles of heaven (CTH 345.I.6-10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Hittite version, fragments
+    read: ["CTH 345.I.6", "CTH 345.I.7", "CTH 345.I.8", "CTH 345.I.9", "CTH 345.I.10"]
+    tags:
+      - {motif: monster-grows-to-reach-heaven, refs: ["CTH 345.I.6 §1:5-7", "CTH 345.I.9 §1:5-7"], note: "{NA4}ŠU.U-in ... ar-ḫa ti-i-e-e[r]; {GIŠ}ti-y[a-ri-ta] ... AN-iš-; very broken"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 345.I.8 §1:2", "CTH 345.I.8 §1:10"], note: "only the name of Impaluri, the Sea's vizier, survives"}
+    hints:
+      - "No further hint: too broken."
+  - id: ane-cth-346-1-merchant-curse
+    tradition: ane-hittite
+    title: Kumarbi myth fragment - the merchant, silver and gold, Kumarbi's curse (CTH 346.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.1"]
+    tags:
+      - {motif: god-curses-like-dried-wood, refs: ["CTH 346.1 §7:43-47"], note: "loose: Kumarbi: ḫu-u-wa-ar-taḫ-ḫi 'I curse (it)': like dried wood whose branches do not come forth"}
+      - {motif: lavish-marriage-gifts-catalogue, refs: ["CTH 346.1 §2:9-11", "CTH 346.1 §2:14-19", "CTH 346.1 §7:41"], note: "silver, gold, a man's wife, the eldest son, the merchant (DAM.GÀR), the bride (É.GI₄.A); interpretive"}
+    hints:
+      - "A curse like a dried tree: compare Ps 1:3-4 and Q 14:26 (a bad word like a bad tree uprooted)."
+  - id: ane-cth-346-2-born-of-dark-earth
+    tradition: ane-hittite
+    title: "'The dark earth bore me' - a god's boast of his endowments (CTH 346.2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.2"]
+    tags:
+      - {motif: god-born-of-dark-earth-boasts-endowments, refs: ["CTH 346.2 §1:7-13", "CTH 346.2 §2:14-18"], note: "7-an-ki-mu da-an-ku-i KI-pí ... nu te-e-kán SUD-nu-un ... nu AN-iš SUD-nu-un ... GE₆{ḪI.A}-e-eš-mu KI{ḪI.A}-aš ḫa-aš-t[a] ... ŠA {d}A-NU LÚ-tar ḫar-mi"}
+      - {motif: god-endowed-with-gifts-of-other-gods, refs: ["CTH 346.2 §2:14-18", "CTH 346.2 §3:19"]}
+      - {motif: god-neither-begets-nor-begotten, refs: ["CTH 346.2 §1:5"], note: "contrast, not parallel: DINGIR{MEŠ}-aš at-ta-aš LÚ?-aš ... ḫa-aš-ta 'the father of the gods (and?) of men begat'"}
+    hints:
+      - "'Father of gods and men' begetting: the exact antithesis of Q 112:3. Compare also Q 72:3 (He has taken neither consort nor son)."
+  - id: ane-cth-346-3-mukishanu-mt-shepisha
+    tradition: ane-hittite
+    title: Mukišanu reports; Kumarbi rises; the gods to Mt Šepiša (CTH 346.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.3"]
+    tags:
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 346.3 §2:4-6", "CTH 346.3 §3:7-9"], note: "EN-YA-mu ... ḪUR.SAG{MEŠ} ÍD{MEŠ}; Kumarbi stands up at once"}
+      - {motif: divine-council-scene, refs: ["CTH 346.3 §3:11-12", "CTH 346.3 §4:13-17"], note: "DINGIR{MEŠ} ḫu-u-ma-an-te-e[š] ... I-NA {ḪUR.SAG}še-pí-ša"}
+    hints:
+      - "Compare 1 Kgs 22:19 and Q 37:8 (the exalted assembly)."
+  - id: ane-cth-346-4-sea-weeps
+    tradition: ane-hittite
+    title: The sun god feasted by the Sea; the Sea weeps, bitten by creatures (CTH 346.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.4"]
+    tags:
+      - {motif: guest-welcomed-with-cake-water-and-beer, refs: ["CTH 346.4 §1:2-7", "CTH 346.4 §2:8-12"], note: "nu-za e-ez-za-ad-du e-ku-u[d-du] ... a-da-an-na-aš-ši a-ku-wa-an-na pí-i-e-er"}
+      - {motif: storm-god-weeps-tears-like-canals, refs: ["CTH 346.4 §4:22-27"], note: "nu ú-e-eš-ke-ez-zi iš-ḫa-aḫ-ru-ma-aš-ši-kán p[a-ra-a ...] ma-a-an ar-ša-an-zi: the Sea weeps"}
+      - {motif: sea-complains-of-biting-creatures, refs: ["CTH 346.4 §5:28-35", "CTH 346.4 §6:37-39"], note: "[U]R.GI₇{ḪI!}.A-uš ŠAḪ{ḪI.A}-uš ... nu-mu-kán ku-iš wa-a-ki ... :ma-lu-uš-te-ya-aš-ma-mu wa-a-ke-et"}
+      - {motif: divine-guests-eat, refs: ["CTH 346.4 §3:18-21"], note: "loose: the sun god says no one lacks anything (wa-ak-ka₄-ri Ú-UL)"}
+    hints:
+      - "The Sea as a person who weeps and is fed by gods: contrast Q 55:19-20 (the two seas with a barrier) and Q 52:6 (the swelling sea) as created signs."
+  - id: ane-cth-346-5-mt-washitta-labour
+    tradition: ane-hittite
+    title: Kumarbi counts the months; Mt Wašitta in labour after a stranger lay with her (CTH 346.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.5"]
+    tags:
+      - {motif: birth-in-tenth-month, refs: ["CTH 346.5 §1:6-15", "CTH 346.5 §3:35-37"], note: "UD{KAM.ḪI.A}-uš kap-[pu-u-wa-] ... [IT]U{KAM.ḪI.A}-uš gul-aš-ke-ez-zi ... nu ITU 10{KAM} ti-ya-at"}
+      - {motif: mountain-in-labour-after-stranger, refs: ["CTH 346.5 §2:16-29", "CTH 346.5 §3:30-32"], note: "DUMU-an-na-za-wa-za túḫ-ḫi-ma-an Ú-UL ša-ak-ti Ú-UL-an-ták-kán {d}gul-aš-še-eš gul-aš-še-er ... {LÚ}Ú-BA-RUM ma-a-an ... nu-mu-za kat-ti-iš-ši ša-aš-nu-ut"}
+      - {motif: fate-written-on-tablet-by-god, refs: ["CTH 346.5 §2:24", "CTH 346.5 §2:28"], note: "gul-aš-: the fate goddesses 'wrote' (gulš-) it for you"}
+    hints:
+      - "Pregnancy unexpected and unfated: compare Q 19:20-21 (Mary: no man has touched me) and Q 11:72 (Sarah: shall I bear, an old woman?)."
+      - "Mountains in labour: compare Ps 90:2 (before the mountains were born) and Q 33:72 (the mountains refused the trust)."
+  - id: ane-cth-346-6-8-small-kumarbi-fragments
+    tradition: ane-hittite
+    title: Small Kumarbi fragments - ornaments and a garland; Kumarbi washed; the Sea (CTH 346.6, 346.7, 346.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.6", "CTH 346.7", "CTH 346.8"]
+    tags:
+      - {motif: god-ritually-washed, refs: ["CTH 346.7 §2:7-10"], note: "[š]u-up-pí-ya-aḫ-ḫu-u-wa-aš ... [{d}ku-m]ar-bi-iš ar-ra-ta-at"}
+      - {motif: outcome-decreed-by-fate-goddesses, refs: ["CTH 346.7 §1:2-5"], note: "a-aš-šu-wa-an-za MUNUS-za ... {d}gul-še-eš; loose"}
+      - {motif: wise-god-proposes-plan-in-assembly, refs: ["CTH 346.6 §1:7-8"], note: "Kumarbi, ornaments (ú-nu-wa-aš-ḫu-uš), Ea; very broken"}
+      - {motif: sea-floods-rise-to-stars, refs: ["CTH 346.8 §1:5-8"], note: "lu-uk-kat-ta ... a-ru-na-aš ... iš-pár-za-: dawn, the Sea, flight; very broken"}
+    hints:
+      - "No firm hint; compare Q 5:6 on ritual washing only by contrast."
+  - id: ane-cth-346-9-sea-floods-tribute
+    tradition: ane-hittite
+    title: The Sea's floods rise to the stars; the gods bring tribute to the Sea; Ištar summoned (CTH 346.9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.9"]
+    tags:
+      - {motif: sea-floods-rise-to-stars, refs: ["CTH 346.9 §3:10-12", "CTH 346.9 §4:13-15"], note: "le-el-ḫu-wa-ar-ti-[ma?-aš?] [ut-ne?]-e an-da ka-a-ri-e-er ... ša-ra-a {d}UTU {d}30 ... ne-pí-ša-aš MUL{ḪI.A}-uš"}
+      - {motif: gods-pay-tribute-to-sea, refs: ["CTH 346.9 §5:16-20", "CTH 346.9 §6:21-25"], note: "ú-ta-at-te-en a-ru-ni ar-kam-ma-an ... {NA4}ZA.GÌN ... KÙ.BABBAR GUŠKIN A-ni an-[da] ... pé-eš-ši-ya-u-e-ni"}
+      - {motif: waters-cover-highest-mountains, refs: ["CTH 346.9 §3:11-12"]}
+      - {motif: goddess-sings-to-charm-monster, refs: ["CTH 346.9 §6:26"], note: "e-ḫu {d}IŠTAR-li {URU}ni-nu-wa-aš MUNUS.LUGAL-aš: Ištar summoned; her role is lost"}
+      - {motif: god-boasts-monsters-slain, refs: ["CTH 346.9 §2:4-6"], note: "loose: the storm god in the waters; a terrible one covers heaven"}
+    hints:
+      - "The flood rising toward heaven: compare Gen 7:19-20, Q 11:42-43 (waves like mountains) and Q 54:11-12."
+      - "Gods paying tribute to the Sea: compare Ugaritic Yamm demanding Baal as tribute (KTU 1.2 I) and contrast Ps 93:3-4 and Q 25:53 (God set the two seas)."
+  - id: ane-cth-346-10-12-shimmurra-kutiladu
+    tradition: ane-hittite
+    title: Ḫepat, Takidu and Kutiladu of Šimmurra - a woman gives up her sin (CTH 346.10, 346.12)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.10", "CTH 346.12"]
+    tags:
+      - {motif: sinner-renounces-sin-praises-goddess, refs: ["CTH 346.12 §2:9-18"], note: "{d}ta-ki-du-uš ... {URU}ši-im-mu!-ur-ra [p]a-it nu {f}ku-ti-la-du-un pu-nu-uš-ta ... wa-aš-túl tar-na-aš nu {d}ḫé-pát [w]a-al-le-eš-ke-ez-zi"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 346.12 §2:14-18", "CTH 346.12 §3:19-22"]}
+      - {motif: search-lands-for-clever-people, refs: ["CTH 346.12 §1:4-8"], note: "loose: search the Mittani lands and seek out the clever people (ḫa-at-ta-an-du-uš UN{ḪI.A}-u[š])"}
+      - {motif: masters-wife-seduces, refs: ["CTH 346.10 §1:1-11"], note: "very loose: a merchant, a man of Šimmurra, Takidu, Ḫepat, a rich man, the good bride; the plot is lost"}
+    hints:
+      - "A messenger sent to a sinful woman who repents and praises God: compare Q 4:17 and Q 66:8 (sincere repentance); John 4:39 only distantly."
+  - id: ane-cth-346-11-gods-seek-throne
+    tradition: ane-hittite
+    title: The gods and the Sea search for the throne; 'made by our fate goddesses' (CTH 346.11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.11"]
+    tags:
+      - {motif: gods-seek-the-throne, refs: ["CTH 346.11 §5:13-16"], note: "{GIŠ}ŠÚ.A-an ša-an-ḫi-iš-kán-zi a-ru-na-[aš ...] ša-an-ḫi-iš-ke-zi"}
+      - {motif: outcome-decreed-by-fate-goddesses, refs: ["CTH 346.11 §5:17-18"], note: "Ú-UL-aš-kán an-ze-da-az-pát mi-it-na-az ... [a]n-ze-da-az {d}gul!-ša-za i-ya-an-za"}
+      - {motif: son-destined-to-scatter-gods-from-heaven, refs: ["CTH 346.11 §3:7-9"], note: "ez-za-an GIM-a[n] ... la-la-ú-e-ša-an-m[a]: crushed like straw, like an ant (same formula as Ullikummi I §8:112-113)"}
+    hints:
+      - "Gods seeking a way to the throne: Q 17:42 (they would have sought a way to the Lord of the Throne)."
+  - id: ane-cth-346-13-14-stylus-kumme
+    tradition: ane-hittite
+    title: Kumarbi and the lord of the stylus; galgalturi and the city of Kumme (CTH 346.13, 346.14)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.13", "CTH 346.14"]
+    tags:
+      - {motif: fate-written-on-tablet-by-god, refs: ["CTH 346.13 §1:4-7"], note: "very loose: {d}ku-mar-bi-ma ... {GIŠ}ŠÚ.A ... [E]N? GI ṬUP-PÍ 'lord of the stylus, tablet'"}
+      - {motif: goddess-sings-to-charm-monster, refs: ["CTH 346.14 §1:3-8"], note: "very loose: gal-gal-t[u-u-ri] instrument; taken to his house; to [Ku]mme"}
+    hints:
+      - "The pen and the tablet of decrees: compare Q 68:1 and Q 85:21-22 (a Preserved Tablet)."
