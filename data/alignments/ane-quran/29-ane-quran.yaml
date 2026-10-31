@@ -1,0 +1,732 @@
+# ANE x Quran side-by-side pass, chunk 29 (CTH 346.13 - CTH 383.2). Judged blind, from the originals.
+new_motifs:
+  whether-the-deity-is-fed: {label: "Whether the deity eats the food that humans give it", cluster: deity}
+  divine-messenger-in-human-form-announces-a-son: {label: "A divine being takes the form of a man and announces the gift of a son", cluster: angels}
+  foundling-taken-as-son: {label: "A child found or acquired is taken by the finder, with his wife, as their own son", cluster: family}
+  sun-and-moon-bowing: {label: "The sun and the moon bow down (prostrate) before someone", cluster: nature}
+  orphan-reminded-he-too-was-an-orphan: {label: "One who was himself an orphan is reminded of it in connection with how he treats orphans", cluster: family}
+  plea-not-to-destroy-the-many-for-the-few: {label: "Plea that the deity not destroy the whole community for what one or a few have done", cluster: judgment}
+  substitute-for-a-human-life: {label: "A substitute (animal or person) is given to the deity in place of a human life", cluster: ritual}
+  trader-falsifies-the-scales: {label: "A trader cheats with the scales or the measure", cluster: law}
+  animals-come-to-judgment: {label: "Animals, even those that cannot speak, have their case judged or are gathered before the deity", cluster: animals}
+  fear-of-the-one-deity: {label: "Formula: fear no other, fear only the one (god)", cluster: deity}
+  king-of-all-mankind-title: {label: "A deity is called king of (all) mankind", cluster: deity}
+  secret-counsel-and-the-listening-deity: {label: "Whether a secret counsel can be kept from a deity's hearing", cluster: deity}
+  release-from-unwitting-offences: {label: "Petition not to be held for offences committed unknowingly, forgotten or by mistake", cluster: sin}
+  sworn-enemy-breaks-oath-and-scorns-religion: {label: "An enemy bound by oath breaks it, again and again, and scorns the religion or the gods' words", cluster: law}
+  houses-of-worship-destroyed-by-enemy: {label: "An enemy demolishes the houses of worship where the deity's name is called", cluster: kingship}
+  intercession-by-the-deity-s-court: {label: "Members of the deity's court speak for a petitioner before the deity", cluster: deity}
+  wife-draws-a-man-from-the-god-s-service: {label: "A man's wife draws him away from what he owes to the deity", cluster: family}
+  adding-to-or-altering-a-sacred-text: {label: "Whether anyone added words to, or took words from, a sacred or ancient written text", cluster: scripture}
+reviewed:
+  - unit: ane-cth-346-13-14-stylus-kumme
+    checked: [quran-68-qalam-the-pen-and-the-slanderer, quran-85-constellations, quran-11-opening-throne-on-water, quran-6-poor-keys-of-unseen]
+    matches: []
+  - unit: ane-cth-346-15-kumarbi-small-fragments
+    checked: [quran-21-against-other-gods, quran-23-lordship-arguments, quran-2-abrogation-polemic, quran-9-closing]
+    matches: []
+  - unit: ane-cth-346-16-storm-god-king-of-men
+    checked: [quran-112-114-unity-and-refuge, quran-13-signs-of-creation, quran-20-samiri-calf, quran-2-abrogation-polemic]
+    matches:
+      - with: quran-112-114-unity-and-refuge
+        motif: king-of-all-mankind-title
+        refs: ["CTH 346.16 §5:41"]
+        with_refs: ["114:2"]
+        relation: echo
+        record:
+          name: ["ḫūmandaš DUMU.NAM.LÚ.U19.LU-aš LUGAL-uš", "malik an-nās"]
+          agent: ["the weighty storm god", "God"]
+          quoted: ["ḫūmandaš DUMU.NAM.LÚ.U19.LU-aš LUGAL-uš", "maliki n-nās"]
+        note: "'The king of all mankind' in a broken context about the storm god (§5:37-42); 114:2 malik an-nās, the King of mankind, in the refuge formula. The Hittite line is fragmentary and the subject is restored from §5:37 and §5:39."
+  - unit: ane-cth-346-19-which-god-came
+    checked: [quran-20-moses-call, quran-23-lordship-arguments, quran-22-signs-and-rites, quran-2-abrogation-polemic]
+    matches: []
+  - unit: ane-cth-346-21-kumarbi-quotes-ancients
+    checked: [quran-2-food-piety, quran-46-ahqaf-parents-and-the-scornful-son, quran-2-talut-jalut, quran-11-closing]
+    matches: []
+  - unit: ane-cth-347-1-hamsha-warns-atramhasi
+    checked: [quran-11-noah, quran-71-noah, quran-12-joseph-full, quran-23-noah]
+    matches: []
+  - unit: ane-cth-347-2-gods-against-enlil
+    checked: [quran-2-adam-iblis, quran-10-ingratitude-sea, quran-17-polemic-and-resurrection, quran-19-resurrection-and-the-son]
+    matches: []
+  - unit: ane-cth-348-i-1-hedammu-in-sea
+    checked: [quran-37-lot-and-jonah, quran-2-throne-verse, quran-16-blessings-of-creation, quran-11-opening-throne-on-water]
+    matches: []
+  - unit: ane-cth-348-i-1-ea-protests
+    checked: [quran-51-dhariyat-flee-to-god, quran-6-mercy-judgment, quran-11-abraham-guests, quran-2-adam-iblis]
+    matches:
+      - with: quran-51-dhariyat-flee-to-god
+        motif: why-humans-were-created
+        refs: ["CTH 348.I.1 §6:54", "CTH 348.I.1 §6:55", "CTH 348.I.1 §6:59", "CTH 348.I.1 §6:60", "CTH 348.I.1 §6:61"]
+        with_refs: ["51:56", "51:57"]
+        relation: divergence
+        record:
+          agent: ["Ea", "God"]
+          object: ["offerings of bread, libation and cedar", "provision and food"]
+          recipient: ["the gods", "God"]
+          quoted: ["A-NA DINGIR.MEŠ SISKUR UL peškanzi ... {d}10-aš GIŠAPIN-an apašila ēpzi", "mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūn"]
+          outcome: ["without humans the storm god must plough and Ishtar grind", "humans exist to worship; God wants no food from them"]
+        note: "Ea argues against destroying mankind because the gods would lose their offerings and have to take the plough and millstone themselves (§6:55-61); 51:56-57 says jinn and humans were made only to worship, and God wants no provision from them nor to be fed."
+      - with: quran-6-mercy-judgment
+        motif: whether-the-deity-is-fed
+        refs: ["CTH 348.I.1 §6:55", "CTH 348.I.1 §6:59", "CTH 348.I.1 §7:64", "CTH 348.I.1 §7:66"]
+        with_refs: ["6:14"]
+        relation: response
+        record:
+          agent: ["mankind", "God"]
+          action: ["feeds the gods with grain, bread and libation", "feeds and is not fed"]
+          quoted: ["NINDA.GUR4.RA-ya-aš-ma-aš išpantuzzi namma UL kuiški šipanti", "wa-huwa yuṭʿimu wa-lā yuṭʿam"]
+        note: "The gods depend on human bread and libations (§6:59, §7:64-66: 'does mankind not lay down grain? do they not offer to you quickly?'); 6:14 names God as the one who feeds and is not fed."
+      - with: quran-11-abraham-guests
+        motif: stance-on-the-decreed-destruction
+        refs: ["CTH 348.I.1 §6:52", "CTH 348.I.1 §6:54", "CTH 348.I.1 §7:63"]
+        with_refs: ["11:74", "11:75", "11:76"]
+        relation: divergence
+        record:
+          agent: ["Ea, king of wisdom", "Abraham"]
+          action: ["protests the destruction of mankind", "disputes for the people of Lot"]
+          quoted: ["kuwat-tan šer harnikteni DUMU.LÚ.U19.LU-UTTI", "yujādilunā fī qawmi Lūṭ ... yā Ibrāhīmu aʿriḍ ʿan hādhā"]
+          outcome: ["the argument is the gods' own loss of offerings", "Abraham is told to turn away: the decree will not be turned back"]
+        note: "A figure argues against a decreed destruction. Ea, among the gods, asks 'why do you destroy mankind?'; Abraham argues with the messengers over Lot's people and is told aʿriḍ ʿan hādhā ... ʿadhābun ghayru mardūd."
+  - unit: ane-cth-348-i-1-sea-summoned
+    checked: [quran-18-dhul-qarnayn, quran-11-opening-throne-on-water, quran-43-zukhruf-abraham-and-silver-roofs, quran-5-jesus-miracles-table]
+    matches: []
+  - unit: ane-cth-348-i-2-hedammu-reared
+    checked: [quran-18-dhul-qarnayn, quran-46-ahqaf-parents-and-the-scornful-son, quran-28-pharaoh-oppression-infant-moses, quran-19-zechariah-and-john]
+    matches: []
+  - unit: ane-cth-348-i-4-ishtar-seduces-hedammu
+    checked: [quran-12-joseph-full, quran-39-sincere-servant, quran-16-blessings-of-creation, quran-16-daughters-and-the-bee]
+    matches: []
+  - unit: ane-cth-348-i-5-hedammu-refuses-hospitality
+    checked: [quran-11-abraham-guests, quran-5-ablution-covenant-justice, quran-18-moses-and-the-servant, quran-37-hell-and-garden, quran-51-dhariyat-abrahams-guests-and-the-peoples]
+    matches:
+      - with: quran-11-abraham-guests
+        motif: guest-refuses-seat-food-and-cup
+        refs: ["CTH 348.I.5 §3:15", "CTH 348.I.5 §3:16", "CTH 348.I.5 §3:17", "CTH 348.I.5 §3:18", "CTH 348.I.5 §3:19", "CTH 348.I.5 §3:20"]
+        with_refs: ["11:69", "11:70"]
+        relation: parallel
+        record:
+          action: ["sets food before a guest", "sets food before a guest"]
+          object: ["chair, laid table, cup", "roasted calf"]
+          quoted: ["parā UL šalikta ... purin UL dāiš", "aydiyahum lā taṣilu ilayhi"]
+          outcome: ["the guest does not touch the table or put his lip to the cup", "their hands do not reach to it"]
+        note: "The guest does not sit, does not go to the table, does not put his lip to the cup (§3:15-20); Abraham's guests' hands do not reach the calf (lā taṣilu ilayhi), and he mistrusts them."
+      - with: quran-51-dhariyat-abrahams-guests-and-the-peoples
+        motif: guest-refuses-seat-food-and-cup
+        refs: ["CTH 348.I.5 §3:17", "CTH 348.I.5 §3:18", "CTH 348.I.5 §3:22", "CTH 348.I.5 §3:23"]
+        with_refs: ["51:26", "51:27"]
+        relation: echo
+        record:
+          action: ["asks why the guest does not eat", "asks why the guests do not eat"]
+          agent: ["Ishtar, queen of Nineveh", "Abraham"]
+          quoted: ["kuwat-za UL ezatti ... UL ekutti ammel išhāmi", "a-lā taʾkulūn"]
+        note: "The host's question to the guest who will not eat: 'why do you not eat ... why do you not drink, my lord?' against fa-qarrabahu ilayhim qāla a-lā taʾkulūn. Who the refusing guest is, is broken in the Hittite. 51:24-27 is not in the list of candidates: I add it here."
+  - unit: ane-cth-348-i-6-sea-offers-daughter
+    checked: [quran-6-signs-in-nature, quran-72-jinn, quran-31-signs-and-unseen, quran-2-throne-verse]
+    matches: []
+  - unit: ane-cth-348-i-7-kumarbi-soliloquy
+    checked: [quran-21-against-other-gods, quran-67-mulk-heavens-lamps-and-hell, quran-71-noah, quran-11-noah]
+    matches: []
+  - unit: ane-cth-348-i-8-ishtar-naked-at-shore
+    checked: [quran-7-adam-iblis, quran-40-throne-bearers, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-cth-348-i-9-ishtar-bathes
+    checked: [quran-71-noah, quran-26-noah, quran-23-unnamed-messenger-and-succession, quran-5-ablution-covenant-justice]
+    matches: []
+  - unit: ane-cth-348-i-10-19-hedammu-fragments
+    checked: [quran-3-misers-mockers, quran-16-daughters-and-the-bee, quran-39-pure-religion, quran-41-steadfast-and-repel-evil]
+    matches: []
+  - unit: ane-cth-348-i-20-21-kumarbi-and-storm-god
+    checked: [quran-5-jesus-miracles-table, quran-19-zechariah-and-john, quran-31-signs-and-unseen]
+    matches: []
+  - unit: ane-cth-348-i-22-sixty-youths
+    checked: [quran-18-companions-of-the-cave, quran-18-moses-and-the-servant, quran-56-waqia-three-classes-and-the-garden, quran-29-lot]
+    matches: []
+  - unit: ane-cth-348-i-23-25-bitumen-holds-land
+    checked: [quran-12-joseph-full, quran-71-noah, quran-16-blessings-of-creation, quran-50-qaf-resurrection-proofs-and-peoples]
+    matches: []
+  - unit: ane-cth-348-i-26-27-plan-hidden-from-ishtar
+    checked: [quran-12-joseph-full, quran-58-mujadila-zihar-and-secret-counsel, quran-43-zukhruf-abraham-and-silver-roofs, quran-11-opening-throne-on-water]
+    matches:
+      - with: quran-58-mujadila-zihar-and-secret-counsel
+        motif: secret-counsel-and-the-listening-deity
+        refs: ["CTH 348.I.26 §5:25", "CTH 348.I.26 §5:26", "CTH 348.I.26 §5:29", "CTH 348.I.27 §1:9", "CTH 348.I.27 §1:10", "CTH 348.I.27 §1:11", "CTH 348.I.27 §1:12"]
+        with_refs: ["58:7"]
+        relation: divergence
+        record:
+          agent: ["Kumarbi's household", "those who confer in secret"]
+          action: ["shut the windows and doors so the goddess cannot hear", "confer in secret"]
+          quoted: ["{d}IŠTAR-iš {URU}ninuwa lē ištamašzi", "mā yakūnu min najwā thalāthatin illā huwa rābiʿuhum"]
+          outcome: ["the plan is hidden from Ishtar", "God is the fourth of every three"]
+        note: "The windows toward Kumme and the doors toward Nineveh are stopped with cloth so that 'Ishtar of Nineveh shall not hear' (§5:25-29, §1:9-12); 58:7 no secret conference of three but God is the fourth of them, wherever they are."
+  - unit: ane-cth-348-i-28-29-hedammu-end-fragments
+    checked: [quran-19-resurrection-and-the-son, quran-27-is-there-a-god-with-god, quran-6-deliverance-trumpet, quran-15-prologue-and-heavens]
+    matches: []
+  - unit: ane-cth-349-teshub-cycle-fragments
+    checked: [quran-21-noah-david-solomon, quran-12-joseph-full, quran-13-signs-of-creation, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-cth-350-1-sea-sends-wave
+    checked: [quran-26-moses-and-pharaoh, quran-44-dukhan-pharaoh-drowned, quran-11-noah, quran-30-winds-and-rain]
+    matches: []
+  - unit: ane-cth-350-2-ishtar-hazzi
+    checked: [quran-16-blessings-of-creation, quran-16-daughters-and-the-bee, quran-7-children-of-adam]
+    matches: []
+  - unit: ane-cth-350-3-pishaisha-and-ishtar
+    checked: [quran-7-adam-iblis, quran-16-daughters-and-the-bee, quran-53-najm-goddesses-and-scrolls, quran-21-prophets-answered]
+    matches: []
+  - unit: ane-cth-350-4-5-ishtar-fragments
+    checked: [quran-14-moses-and-messengers, quran-17-moses-nine-signs-and-close, quran-22-destroyed-towns-satanic-insinuation]
+    matches: []
+  - unit: ane-cth-351-1-ea-and-the-new-god
+    checked: [quran-2-abraham-king, quran-3-sovereignty, quran-27-solomon-ants-hoopoe-sheba, quran-2-throne-verse]
+    matches:
+      - with: quran-27-solomon-ants-hoopoe-sheba
+        motif: animal-informant-brings-hidden-knowledge
+        refs: ["CTH 351.1 §9:90", "CTH 351.1 §9:92", "CTH 351.1 §10:94"]
+        with_refs: ["27:22", "27:23"]
+        relation: parallel
+        record:
+          agent: ["the beast (šuppala)", "the hoopoe"]
+          recipient: ["Ea, king of wisdom", "Solomon"]
+          object: ["a new god growing into kingship", "a woman ruling Sheba with a great throne"]
+          quoted: ["ammuk šuppalanza kī uttar ... {d}É-A-aš UL šakti", "aḥaṭtu bi-mā lam tuḥiṭ bihi"]
+        note: "An animal tells the wisest ruler something he does not know, about a rival ruler: 'I, the beast, (tell) you this word ... Ea, you do not know it' (§9:90, §10:94); the hoopoe to Solomon, 'I have encompassed what you have not', about a queen with a mighty throne."
+  - unit: ane-cth-351-2-ea-mad
+    checked: [quran-7-closing-recitation, quran-9-stayers-exempt, quran-17-moses-nine-signs-and-close]
+    matches: []
+  - unit: ane-cth-352-huranu-purifies
+    checked: [quran-2-harut-marut, quran-6-poor-keys-of-unseen, quran-2-abrogation-polemic, quran-22-signs-and-rites]
+    matches: []
+  - unit: ane-cth-353-daughter-of-pleiades
+    checked: [quran-53-najm-vision-and-lote-tree, quran-53-najm-goddesses-and-scrolls, quran-33-trench, quran-67-mulk-earth-birds-and-water]
+    matches: []
+  - unit: ane-cth-360-1-appu-childless
+    checked: [quran-21-prophets-answered, quran-3-imran-mary-zechariah, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-19-zechariah-and-john, quran-19-mary-and-jesus]
+    matches:
+      - with: quran-19-mary-and-jesus
+        motif: divine-messenger-in-human-form-announces-a-son
+        refs: ["CTH 360.1 §8:41", "CTH 360.1 §8:42", "CTH 360.1 §8:43", "CTH 360.1 §9:58", "CTH 360.1 §9:59"]
+        with_refs: ["19:17", "19:19"]
+        relation: divergence
+        record:
+          agent: ["the sun god", "God's spirit"]
+          action: ["takes the form of a young man", "takes the form of a man"]
+          recipient: ["the childless man Appu", "Mary"]
+          quoted: ["nan-za LÚGURUŠ-anza kišat ... DINGIR.MEŠ-aš pianzi 1-an DUMU.NITA-an", "fa-tamaththala lahā basharan sawiyyā ... li-ahaba laki ghulāman zakiyyā"]
+          outcome: ["the son is conceived by Appu's wife when he sleeps with her", "a boy given to a woman no man has touched"]
+        note: "The god looks down from heaven and 'became a young man' (§8:42), then promises a son: 'sleep well with your wife; the gods will give you a son' (§9:58-59). In 19:17-19 the spirit appears to Mary as a well-formed man and announces a boy. The announcement goes to the husband, with ordinary conception, against to the virgin. 19:16-40 is not in the list of candidates: I add it here."
+  - unit: ane-cth-360-1-appu-brothers-divide
+    checked: [quran-5-two-sons-of-adam, quran-68-qalam-companions-of-the-garden, quran-18-two-gardens, quran-21-noah-david-solomon]
+    matches: []
+  - unit: ane-cth-360-2-4-appu-fragments
+    checked: [quran-58-mujadila-zihar-and-secret-counsel, quran-20-moses-pharaoh-magicians, quran-5-two-sons-of-adam, quran-43-zukhruf-jesus-and-paradise]
+    matches: []
+  - unit: ane-cth-361-i-1-keshshi-neglects-gods
+    checked: [quran-64-taghabun-day-of-loss-and-household-enemies, quran-63-munafiqun-propped-timbers, quran-68-qalam-companions-of-the-garden, quran-93-94-forenoon-and-expansion]
+    matches:
+      - with: quran-64-taghabun-day-of-loss-and-household-enemies
+        motif: wife-draws-a-man-from-the-god-s-service
+        refs: ["CTH 361.I.1 §3:10", "CTH 361.I.1 §3:11", "CTH 361.I.1 §3:13", "CTH 361.I.1 §4:15"]
+        with_refs: ["64:14", "64:15"]
+        relation: echo
+        record:
+          agent: ["Keshshi's beautiful wife", "wives and children"]
+          recipient: ["Keshshi", "the believers"]
+          quoted: ["Keššiš parā A-NA DAM-ŠU-pát IŠ-ME ... DINGIR.MEŠ-uš ... UL kappuezzi", "inna min azwājikum wa-awlādikum ʿaduwwan lakum fa-ḥdharūhum"]
+          outcome: ["the gods, angered, hide the game", "be wary of them, yet pardon"]
+        note: "Keshshi 'listened only to his wife' and no longer provided the gods with bread and wine (§3:10-13), and the angry gods hid the game; 64:14-15 among your wives and children is an enemy to you, they are a trial (fitna)."
+  - unit: ane-cth-361-i-1-keshshi-seven-dreams
+    checked: [quran-12-joseph-full, quran-79-pharaoh-and-cosmos, quran-26-noah]
+    matches: []
+  - unit: ane-cth-361-i-2-3-keshshi-fragments
+    checked: [quran-28-moses-in-midian, quran-16-daughters-and-the-bee, quran-47-muhammad-battle-and-rivers, quran-3-imran-mary-zechariah]
+    matches: []
+  - unit: ane-cth-361-i-4-keshshi-fragment
+    checked: [quran-7-lot, quran-12-joseph-full, quran-11-closing]
+    matches: []
+  - unit: ane-cth-362-1-gurparanzah-archery
+    checked: [quran-12-joseph-full, quran-38-solomon-horses-throne, quran-18-moses-and-the-servant]
+    matches: []
+  - unit: ane-cth-362-4-river-aranzah
+    checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-16-daughters-and-the-bee, quran-53-najm-goddesses-and-scrolls, quran-39-pure-religion]
+    matches: []
+  - unit: ane-cth-362-5-7-gurparanzah-fragments
+    checked: [quran-25-signs-shadow-seas, quran-79-pharaoh-and-cosmos, quran-11-noah]
+    matches: []
+  - unit: ane-cth-363-1-sun-god-and-cow
+    checked: [quran-19-mary-and-jesus, quran-81-folding-up, quran-39-pure-religion, quran-16-daughters-and-the-bee]
+    matches: []
+  - unit: ane-cth-363-1-fisherman-adopts-child
+    checked: [quran-28-pharaoh-oppression-infant-moses, quran-20-moses-favors-recalled, quran-3-imran-mary-zechariah, quran-12-joseph-full]
+    matches:
+      - with: quran-28-pharaoh-oppression-infant-moses
+        motif: foundling-taken-as-son
+        refs: ["CTH 363.1 §16:130", "CTH 363.1 §16:131", "CTH 363.1 §16:135", "CTH 363.1 §16:138", "CTH 363.1 §17:146", "CTH 363.1 §17:147", "CTH 363.1 §17:148", "CTH 363.1 §17:149"]
+        with_refs: ["28:8", "28:9"]
+        relation: divergence
+        record:
+          agent: ["the childless fisherman and his wife", "Pharaoh's household and Pharaoh's wife"]
+          action: ["takes up a found infant as their son", "takes up a found infant as their son"]
+          place: ["the mountains", "the water (al-yamm)"]
+          quoted: ["DUMU-aš-mu kuit NU.GÁL ... kūn-za DUMU-an dā ... GIŠ.NÁ-aš GAM šeški nu taškupai", "fa-ltaqaṭahu ālu firʿawna ... ʿasā an yanfaʿanā aw nattakhidhahu waladā"]
+          outcome: ["the wife feigns labour so the town thinks she bore him", "'perhaps we will take him as a son', and he is to become their enemy"]
+        note: "An exposed infant, watched over from heaven, is picked up and taken as a son. The Hittite finder is a childless fisherman ('do you know, sun god, that I have no child?') who has his wife lie in bed and scream as if in labour; in 28:8-9 Pharaoh's people pick up (iltaqaṭa) the child from the water and his wife says ʿasā an yanfaʿanā aw nattakhidhahu waladā."
+      - with: quran-12-joseph-full
+        motif: foundling-taken-as-son
+        refs: ["CTH 363.1 §17:143", "CTH 363.1 §17:144", "CTH 363.1 §17:145", "CTH 363.1 §17:146"]
+        with_refs: ["12:21"]
+        relation: divergence
+        record:
+          agent: ["the fisherman", "the man from Egypt who bought him"]
+          action: ["tells his wife what to do with the boy", "tells his wife what to do with the boy"]
+          recipient: ["his wife", "his wife"]
+          quoted: ["nu LÚŠU.HA6 A-NA DAM-ŠU ... kūn-za DUMU-an dā", "li-mraʾatihi akrimī mathwāhu ʿasā an yanfaʿanā aw nattakhidhahu waladā"]
+          outcome: ["she is to pass him off as her own newborn", "she is to honour his lodging; perhaps they will adopt him"]
+        note: "The man who has acquired a boy instructs his wife: the fisherman, 'take this child, go into the bedroom' (§17:146-147); in 12:21 the Egyptian, akrimī mathwāhu ... aw nattakhidhahu waladā. The found infant becomes a bought youth."
+  - unit: ane-cth-364-1-silver-proem
+    checked: [quran-23-lordship-arguments, quran-43-zukhruf-jesus-and-paradise, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-cth-364-2-birth-of-silver
+    checked: [quran-2-israel-favor, quran-16-daughters-and-the-bee, quran-3-sovereignty, quran-19-mary-and-jesus]
+    matches:
+      - with: quran-16-daughters-and-the-bee
+        motif: fear-of-the-one-deity
+        refs: ["CTH 364.2 §5:36", "CTH 364.2 §5:37", "CTH 364.2 §5:41", "CTH 364.2 §5:42"]
+        with_refs: ["16:51"]
+        relation: divergence
+        record:
+          agent: ["Silver's mother", "God"]
+          recipient: ["Silver", "people"]
+          name: ["Kumarbi, his father", "ilāhun wāḥid"]
+          quoted: ["[...] nāhi 1-edani-kan DINGIR-LIM-ni ... 1-edani {d}K[umarbi]", "innamā huwa ilāhun wāḥidun fa-iyyāya fa-rhabūn"]
+        note: "'Do not fear any god; fear only the one god ... the one, Kumarbi' (§5:36-42), said by the mother just after she names his brother the storm god and his sister Ishtar; 16:51 'do not take two gods: he is one god, so fear me alone'. The one to be feared is the father among the gods against the only god."
+      - with: quran-3-sovereignty
+        motif: deity-s-powers-of-reversal
+        refs: ["CTH 364.2 §5:38", "CTH 364.2 §5:39", "CTH 364.2 §5:40"]
+        with_refs: ["3:26"]
+        relation: echo
+        record:
+          agent: ["the one god (Kumarbi)", "God"]
+          action: ["brings the high low and the low high", "exalts whom he wills and abases whom he wills"]
+          quoted: ["šarāzzi katterri ... šarā huinuškezzi", "tuʿizzu man tashāʾu wa-tudhillu man tashāʾ"]
+        note: "'Those above he makes run down, those below he makes run up' (§5:39-40) against 3:26 tuʿizzu man tashāʾu wa-tudhillu man tashāʾ."
+  - unit: ane-cth-364-3-6-silver-fragments
+    checked: [quran-12-joseph-full, quran-41-steadfast-and-repel-evil, quran-10-opening-creation, quran-28-destroyed-towns-and-judgment, quran-93-94-forenoon-and-expansion]
+    matches:
+      - with: quran-12-joseph-full
+        motif: sun-and-moon-bowing
+        refs: ["CTH 364.5 §2:11", "CTH 364.5 §2:12", "CTH 364.5 §2:13", "CTH 364.5 §2:16", "CTH 364.5 §2:17"]
+        with_refs: ["12:4", "12:100"]
+        relation: divergence
+        record:
+          agent: ["the sun god and the moon god", "the sun, the moon and eleven stars"]
+          action: ["bow down", "prostrate"]
+          recipient: ["Silver, the fatherless son", "Joseph"]
+          quoted: ["{d}UTU-un {d}30-anna GAM huittiyat ... kaniniēr ... KÙ.BABBAR-i", "wa-sh-shamsa wa-l-qamara raʾaytuhum lī sājidīn"]
+          outcome: ["pulled down from heaven, they plead 'do not kill us, we are the lights'", "a dream, fulfilled when his parents fall prostrate before him"]
+        note: "Sun and moon bow before a youth raised without his father: Silver, the orphan who learns that Kumarbi is his father, drags them down from heaven and they bow and beg for life (CTH 364.5 §2:11-17); Joseph sees them prostrate in a dream (12:4), fulfilled by his parents (12:100)."
+      - with: quran-41-steadfast-and-repel-evil
+        motif: sun-and-moon-bowing
+        refs: ["CTH 364.5 §2:11", "CTH 364.5 §2:12", "CTH 364.5 §2:13"]
+        with_refs: ["41:37"]
+        relation: divergence
+        record:
+          agent: ["the sun god and the moon god", "people"]
+          action: ["bow down", "are told not to prostrate"]
+          recipient: ["Silver", "the sun and the moon"]
+          quoted: ["kaniniēr ... KÙ.BABBAR-i", "lā tasjudū li-sh-shamsi wa-lā li-l-qamar"]
+        note: "In the Hittite the sun and moon gods themselves bow down; 41:37 turns the act around: do not prostrate to the sun or the moon, but to God who created them."
+      - with: quran-93-94-forenoon-and-expansion
+        motif: orphan-reminded-he-too-was-an-orphan
+        refs: ["CTH 364.4 §2:2", "CTH 364.4 §2:3", "CTH 364.4 §2:4", "CTH 364.4 §2:5", "CTH 364.4 §2:6"]
+        with_refs: ["93:6", "93:9"]
+        relation: parallel
+        record:
+          agent: ["an orphan child", "God"]
+          recipient: ["Silver", "the Prophet"]
+          action: ["reminds him he too is an orphan", "reminds him he was an orphan"]
+          quoted: ["kuwat-wa-naš kuwaškeši ... zikka-wa-za anzel iwar wannummiyaš DUMU-aš", "a-lam yajidka yatīman fa-āwā ... fa-ammā l-yatīma fa-lā taqhar"]
+          outcome: ["Silver weeps and goes home to his mother", "do not oppress the orphan"]
+        note: "The same argument: you were an orphan yourself, so do not mistreat orphans. Silver beats an orphan with a stick and is told 'why do you beat us? you too are an orphan like us' (CTH 364.4 §2:2-6); 93:6 and 93:9 'did he not find you an orphan and shelter you? ... so do not oppress the orphan'. 93-94 is not in the list of candidates: I add it here."
+  - unit: ane-cth-365-mala-river-myth-and-ritual
+    checked: [quran-13-signs-of-creation, quran-79-pharaoh-and-cosmos, quran-2-adam-iblis, quran-38-david-ewe-parable]
+    matches: []
+  - unit: ane-cth-371-1-prayer-sun-goddess-of-earth
+    checked: [quran-2-throne-verse, quran-10-ingratitude-sea, quran-39-pure-religion, quran-74-cloaked]
+    matches:
+      - with: quran-2-throne-verse
+        motif: intercession-by-the-deity-s-court
+        refs: ["CTH 371.1 §5:31", "CTH 371.1 §5:34", "CTH 371.1 §5:35", "CTH 371.1 §6:38"]
+        with_refs: ["2:255"]
+        relation: divergence
+        record:
+          agent: ["the goddess's tutelary god, vizier and servants", "none, except by his leave"]
+          action: ["speak well of the king before her", "intercede with him"]
+          quoted: ["tagnaš {d}UTU-i peran LUGAL-un āššu memiški", "man dhā lladhī yashfaʿu ʿindahu illā bi-idhnih"]
+        note: "Each member of the Sun goddess of the Earth's court is greeted 'Mercy!', offered food and drink and asked to speak well of the king's name before her (§5:31-35, §6:38-40); 2:255 who is there to intercede with him except by his leave?"
+      - with: quran-2-throne-verse
+        motif: creator-asleep
+        refs: ["CTH 371.1 §7:42", "CTH 371.1 §7:43"]
+        with_refs: ["2:255"]
+        relation: divergence
+        record:
+          agent: ["the Sun goddess of the Earth", "God"]
+          action: ["is put to bed at night by her servants", "is not seized by drowsiness or sleep"]
+          quoted: ["šašnuškatteni-yan tašnuškettani-yan kuiēš", "lā taʾkhudhuhu sinatun wa-lā nawm"]
+        note: "The servants 'who put her to bed (at evening) and strengthen her (at morning)' (§7:43); 2:255 neither slumber nor sleep overtakes him."
+  - unit: ane-cth-371-2-prayer-fragment
+    checked: [quran-20-judgment-day, quran-19-resurrection-and-the-son, quran-3-sovereignty, quran-40-throne-bearers]
+    matches: []
+  - unit: ane-cth-372-1-sun-hymn-epithets
+    checked: [quran-93-94-forenoon-and-expansion, quran-1-fatiha, quran-2-throne-verse, quran-4-women-orphans-justice]
+    matches: []
+  - unit: ane-cth-372-5-sun-judges-all-mediates
+    checked: [quran-6-prophet-consoled-signs, quran-81-folding-up, quran-2-throne-verse, quran-39-death-and-sleep]
+    matches:
+      - with: quran-6-prophet-consoled-signs
+        motif: animals-come-to-judgment
+        refs: ["CTH 372 §5:36", "CTH 372 §5:37", "CTH 372 §5:38"]
+        with_refs: ["6:38"]
+        relation: echo
+        record:
+          agent: ["the sun god", "God"]
+          object: ["dog, pig and the animals that do not speak with the mouth", "every creature on earth and bird"]
+          action: ["judges their case", "gathers them to their Lord"]
+          quoted: ["UR.GI7-aš ŠAḪ-ašša ḫanneššar ḫannattari šuppalanna ... kuiēš UL memiškanzi", "illā umamun amthālukum ... thumma ilā rabbihim yuḥsharūn"]
+        note: "The sun god judges the case of dog and pig and of the beasts that cannot speak (§5:36-38); 6:38 the creatures and birds are communities like you and will be gathered to their Lord."
+      - with: quran-81-folding-up
+        motif: animals-come-to-judgment
+        refs: ["CTH 372 §5:37", "CTH 372 §5:38"]
+        with_refs: ["81:5"]
+        relation: echo
+        record:
+          object: ["the animals that do not speak", "the wild beasts"]
+          action: ["have their case judged", "are gathered"]
+          quoted: ["šuppalanna ḫanneššar ... apāt-ta ḫannattari", "wa-idhā l-wuḥūshu ḥushirat"]
+          time: ["each day at sunrise", "at the end"]
+        note: "Daily judgment of the dumb animals by the rising sun against the gathering of the wild beasts at the end (81:5)."
+  - unit: ane-cth-372-9-sufferer-plea
+    checked: [quran-7-adam-iblis, quran-28-moses-kills-and-flees, quran-57-hadid-iron-and-monasticism, quran-3-sovereignty]
+    matches:
+      - with: quran-57-hadid-iron-and-monasticism
+        motif: destinies-written-in-advance
+        refs: ["CTH 372 §18:153"]
+        with_refs: ["57:22"]
+        relation: parallel
+        record:
+          object: ["this illness", "every affliction on earth or in yourselves"]
+          time: ["from the mother's womb", "before we bring it into being"]
+          quoted: ["mān-mu-kan annaz kartaz DINGIR-YA [...] gulašta", "illā fī kitābin min qabli an nabraʾahā"]
+        note: "'Whether you, my god, wrote (gulš-) this illness down for me from my mother's womb' (§18:153); 57:22 no affliction strikes the earth or yourselves but it is in a book before we create it."
+  - unit: ane-cth-372-20-praise-and-soothing
+    checked: [quran-21-prophets-answered, quran-2-closing, quran-50-qaf-two-recorders-and-hell-asks-more, quran-75-resurrection]
+    matches: []
+  - unit: ane-cth-373-1-kantuzzili-prayer
+    checked: [quran-76-the-human, quran-106-108-quraysh-kindness-kawthar, quran-83-defrauders, quran-55-rahman-creation-and-the-two-seas, quran-57-hadid-iron-and-monasticism]
+    matches:
+      - with: quran-57-hadid-iron-and-monasticism
+        motif: destinies-written-in-advance
+        refs: ["CTH 373 §12:92"]
+        with_refs: ["57:22"]
+        relation: parallel
+        record:
+          object: ["this illness", "every affliction in yourselves"]
+          time: ["from the mother's womb", "before we bring it into being"]
+          quoted: ["mān-mu-kan annaz-ma kartaz kī inan gulašta", "illā fī kitābin min qabli an nabraʾahā"]
+        note: "Kantuzzili's version of the same line (§12:92), 'whether you wrote down this illness for me from my mother's womb'. 57:20-29 is not in the list of candidates: I add it here."
+      - with: quran-83-defrauders
+        motif: trader-falsifies-the-scales
+        refs: ["CTH 373 §10:80", "CTH 373 §10:81"]
+        with_refs: ["83:1", "83:2", "83:3"]
+        relation: echo
+        record:
+          agent: ["the merchant", "the defrauders"]
+          instrument: ["the scales", "the measure and the scales"]
+          action: ["falsifies the scales", "gives short measure and weight"]
+          quoted: ["LÚDAM.GÀR ... {d}UTU-i GIŠelzi ḫarzi nu GIŠelzi maršanuzzi", "idhā kālūhum aw wazanūhum yukhsirūn"]
+        note: "'The merchant holds the scales before the sun god and falsifies the scales' (§10:80-81); 83:1-3 woe to those who take full measure and give short in measure and weight. Kantuzzili sets the cheat against his own innocence; 83 sets him before the Lord of the worlds."
+  - unit: ane-cth-374-1-king-hymn-to-sun
+    checked: [quran-6-prophet-consoled-signs, quran-13-signs-of-creation, quran-22-signs-and-rites, quran-2-throne-verse]
+    matches:
+      - with: quran-6-prophet-consoled-signs
+        motif: animals-come-to-judgment
+        refs: ["CTH 374 §12:25", "CTH 374 §13:26", "CTH 374 §13:27"]
+        with_refs: ["6:38"]
+        relation: echo
+        record:
+          agent: ["the sun god", "God"]
+          object: ["dog, pig and the animals that do not speak", "every creature on earth and bird"]
+          action: ["judges their case", "gathers them to their Lord"]
+          quoted: ["ŠA UR.GI7 ŠA ŠAḪ ḫanneššar zik ḫannatta", "thumma ilā rabbihim yuḥsharūn"]
+        note: "The same hymnic line as CTH 372 §5:36-38, here §12:25-§13:27; compare 6:38."
+  - unit: ane-cth-374-22-king-plea
+    checked: [quran-6-deliverance-trumpet, quran-10-ingratitude-sea, quran-39-death-and-sleep, quran-6-poor-keys-of-unseen]
+    matches: []
+  - unit: ane-cth-375-1-arnuwanda-kaska
+    checked: [quran-2-abrogation-polemic, quran-22-permission-to-fight, quran-9-baraa-treaties, quran-8-treaties-peace]
+    matches:
+      - with: quran-9-baraa-treaties
+        motif: sworn-enemy-breaks-oath-and-scorns-religion
+        refs: ["CTH 375.1 §25:67", "CTH 375.1 §26:72", "CTH 375.1 §26:73", "CTH 375.1 §26:74", "CTH 375.1 §26:75", "CTH 375.1 §26:76"]
+        with_refs: ["9:12", "9:13"]
+        relation: parallel
+        record:
+          agent: ["the Kaška men", "the treaty partners"]
+          action: ["break the oaths and scorn the gods' words", "break their oaths and revile your religion"]
+          quoted: ["lingauš šarranzi nu-za šumenzan ŠA DINGIR.MEŠ memiyanuš tepnuwanzi", "nakathū aymānahum min baʿdi ʿahdihim wa-ṭaʿanū fī dīnikum"]
+        note: "Two acts together on both sides: the Kaška 'transgress the oaths and scorn your, the gods', words' and smash the seal of the storm god's treaty (§26:74-76); 9:12 'if they break their oaths after their covenant and revile your religion'."
+      - with: quran-8-treaties-peace
+        motif: sworn-enemy-breaks-oath-and-scorns-religion
+        refs: ["CTH 375.1 §25:66", "CTH 375.1 §25:67", "CTH 375.1 §26:71", "CTH 375.1 §26:72", "CTH 375.1 §26:73", "CTH 375.1 §26:74"]
+        with_refs: ["8:56"]
+        relation: echo
+        record:
+          agent: ["the Kaška men", "those with whom you made a covenant"]
+          action: ["swear and break the oath each time they return", "break their covenant every time"]
+          quoted: ["namma linkanzi ... māḫḫan-ma-at EGIR-pa aranzi našta lingāuš šarranzi", "yanquḍūna ʿahdahum fī kulli marra"]
+        note: "The oath taken and broken as a habit: they take the gifts and swear, and as soon as they get back they break the oaths (present iterative, §26:71-74); 8:56 'they break their covenant every time'."
+      - with: quran-22-permission-to-fight
+        motif: houses-of-worship-destroyed-by-enemy
+        refs: ["CTH 375.1 §15:37", "CTH 375.1 §15:38", "CTH 375.1 §19:47"]
+        with_refs: ["22:40"]
+        relation: echo
+        record:
+          agent: ["the Kaška men", "people (were God not to repel them)"]
+          object: ["the gods' temples", "cloisters, churches, synagogues and mosques"]
+          action: ["overturn", "would demolish"]
+          quoted: ["LÚ.MEŠ URU gašga arḫa pipper ... lāman-na UL kuiški werizzi", "la-huddimat ṣawāmiʿu wa-biyaʿun wa-ṣalawātun wa-masājidu yudhkaru fīhā smu llāhi kathīrā"]
+        note: "The temples are overturned and 'no one calls you by name any more in those lands' (§15:38, §19:47); 22:40 the houses of worship 'in which God's name is much mentioned' would be demolished."
+  - unit: ane-cth-375-2-colophon-tablet-1
+    checked: [quran-91-sun, quran-61-saff-ranks-moses-jesus-ahmad, quran-39-mercy-and-last-day, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-cth-375-3-kaska-towns-tablet-2
+    checked: [quran-85-constellations, quran-13-messengers-and-mother-of-book, quran-84-splitting]
+    matches: []
+  - unit: ane-cth-375-4-make-good-by-oracle
+    checked: [quran-27-salih-nine-plotters, quran-20-moses-pharaoh-magicians, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-cth-375-5-innocent-lands
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-7-towns-pattern, quran-9-closing]
+    matches: []
+  - unit: ane-cth-375-6-17-fragments
+    checked: [quran-9-closing, quran-59-hashr-banu-nadir-and-fay, quran-43-zukhruf-abraham-and-silver-roofs]
+    matches: []
+  - unit: ane-cth-376-1-hymn-arinna-plague
+    checked: [quran-7-calf, quran-6-final-reckoning, quran-17-book-of-deeds, quran-8-obedience-trial]
+    matches:
+      - with: quran-7-calf
+        motif: plea-not-to-destroy-the-many-for-the-few
+        refs: ["CTH 376.1 §9:122", "CTH 376.1 §9:123", "CTH 376.1 §9:124", "CTH 376.1 §9:125"]
+        with_refs: ["7:155"]
+        relation: parallel
+        record:
+          agent: ["Muršili", "Moses"]
+          recipient: ["the gods", "God"]
+          action: ["pleads that the good not perish with the wicked", "pleads not to be destroyed for what the foolish did"]
+          quoted: ["lē āššaweš idālawaš anda ḫarkanzi ... apūn-pat 1-an ḫarnikten", "a-tuhlikunā bi-mā faʿala s-sufahāʾu minnā"]
+        note: "'Let the good not perish with the evil; if it is one city, one house or one man, destroy only that one' (§9:122-125); Moses, when the quake seizes the seventy: 'will you destroy us for what the foolish among us did?'"
+      - with: quran-8-obedience-trial
+        motif: calamity-that-strikes-not-only-the-wrongdoers
+        refs: ["CTH 376.1 §9:122", "CTH 376.1 §9:125"]
+        with_refs: ["8:25"]
+        relation: divergence
+        record:
+          object: ["the plague", "the trial (fitna)"]
+          action: ["is asked to strike only the guilty one", "does not strike only the wrongdoers"]
+          quoted: ["lē āššaweš idālawaš anda ḫarkanzi", "fitnatan lā tuṣībanna lladhīna ẓalamū minkum khāṣṣa"]
+        note: "Muršili asks the gods to single out the guilty city, house or man; 8:25 warns of a fitna that will not fall on the wrongdoers alone."
+  - unit: ane-cth-376-2-duplicate-and-ritual
+    checked: [quran-7-calf, quran-59-hashr-banu-nadir-and-fay, quran-3-badr-uhud, quran-89-dawn]
+    matches:
+      - with: quran-7-calf
+        motif: plea-not-to-destroy-the-many-for-the-few
+        refs: ["CTH 376.2 §10:30", "CTH 376.2 §10:31"]
+        with_refs: ["7:155"]
+        relation: parallel
+        record:
+          agent: ["Muršili", "Moses"]
+          action: ["pleads that the good not perish with the wicked", "pleads not to be destroyed for what the foolish did"]
+          quoted: ["[...] idālawaš ḫarkanzi ... 1-EN É-TUM našma 1-EN", "a-tuhlikunā bi-mā faʿala s-sufahāʾu minnā"]
+        note: "The duplicate keeps the same plea, broken: '[the good shall not] perish with the evil ... one single house or one single [man]' (§10:30-31); compare 7:155."
+  - unit: ane-cth-376-3-fragment
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-22-abraham-house-pilgrimage, quran-6-pagan-offerings-cattle]
+    matches: []
+  - unit: ane-cth-376-4-hymn-gassuliyawiya
+    checked: [quran-17-polemic-and-resurrection, quran-9-bargain-abraham, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-cth-377-telipinu-hymn
+    checked: [quran-7-moses-pharaoh, quran-7-creation-signs, quran-30-winds-and-rain, quran-37-daughters-and-ranks]
+    matches: []
+  - unit: ane-cth-378-1-first-plague-prayer
+    checked: [quran-6-final-reckoning, quran-17-book-of-deeds, quran-35-not-equal, quran-53-najm-goddesses-and-scrolls]
+    matches:
+      - with: quran-53-najm-goddesses-and-scrolls
+        motif: liability-for-another-s-guilt
+        refs: ["CTH 378.1 §9:106", "CTH 378.1 §9:107", "CTH 378.1 §9:110", "CTH 378.1 §9:111"]
+        with_refs: ["53:38", "53:39"]
+        relation: contrast
+        record:
+          object: ["his father's affair", "another's burden"]
+          recipient: ["Muršili", "each human"]
+          quoted: ["idālu UL kuitki ammuk iyanun ... ammuk-ma-kan ŠA A-BI-YA memiaš ār", "allā taziru wāziratun wizra ukhrā wa-an laysa li-l-insāni illā mā saʿā"]
+        note: "'I did no evil; those who sinned are already dead; but my father's affair has reached me' (§9:106-111); 53:38-39 no bearer bears another's load, and a man has only what he strove for."
+  - unit: ane-cth-378-2-second-plague-prayer-causes
+    checked: [quran-7-adam-iblis, quran-28-moses-kills-and-flees, quran-8-treaties-peace, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-cth-378-2-second-plague-prayer-confession
+    checked: [quran-35-not-equal, quran-6-final-reckoning, quran-2-abraham-kaaba, quran-38-david-ewe-parable]
+    matches:
+      - with: quran-6-final-reckoning
+        motif: liability-for-another-s-guilt
+        refs: ["CTH 378.2 §11:115", "CTH 378.2 §11:117", "CTH 378.2 §11:118", "CTH 378.2 §11:119", "CTH 378.2 §11:120"]
+        with_refs: ["6:164"]
+        relation: contrast
+        record:
+          object: ["the father's sin", "another's burden"]
+          recipient: ["the son", "another soul"]
+          quoted: ["ŠA A-BU-ŠU-kan waštul A-NA DUMU-ŠU ari", "wa-lā taziru wāziratun wizra ukhrā"]
+          outcome: ["the father's sin has reached Muršili, who did no wrong", "no bearer bears another's load"]
+        note: "Muršili: 'I did no wrong, but it happens so: the father's sin comes to his son, so my father's sin has come to me' (§11:117-120); 6:164 lā taziru wāziratun wizra ukhrā."
+      - with: quran-35-not-equal
+        motif: liability-for-another-s-guilt
+        refs: ["CTH 378.2 §11:118", "CTH 378.2 §11:119", "CTH 378.2 §11:120"]
+        with_refs: ["35:18"]
+        relation: contrast
+        record:
+          object: ["the father's sin", "another's burden"]
+          recipient: ["the son", "a near kinsman"]
+          quoted: ["ŠA A-BU-ŠU-kan waštul A-NA DUMU-ŠU ari", "lā yuḥmal minhu shayʾun wa-law kāna dhā qurbā"]
+        note: "The father's sin passes to the son (§11:119) against 35:18, where none of the load is carried 'even by a near kinsman' (wa-law kāna dhā qurbā): the kinship that transmits guilt in the Hittite is named in Q only to deny it."
+  - unit: ane-cth-378-3-third-plague-prayer
+    checked: [quran-51-dhariyat-flee-to-god, quran-22-abraham-house-pilgrimage, quran-7-moses-pharaoh, quran-23-death-barzakh-judgment]
+    matches: []
+  - unit: ane-cth-378-4-fourth-plague-prayer
+    checked: [quran-9-mosques-and-kin, quran-2-abraham-kaaba, quran-22-signs-and-rites, quran-3-badr-uhud]
+    matches: []
+  - unit: ane-cth-378-5-8-fragments
+    checked: [quran-7-moses-pharaoh, quran-89-dawn, quran-54-qamar-ad-thamud-lot-pharaoh]
+    matches: []
+  - unit: ane-cth-379-plague-prayer-assembly
+    checked: [quran-2-polemic-israel, quran-15-prologue-and-heavens, quran-2-war-pilgrimage, quran-10-moses-pharaoh]
+    matches:
+      - with: quran-2-polemic-israel
+        motif: adding-to-or-altering-a-sacred-text
+        refs: ["CTH 379 §9:24", "CTH 379 §9:25", "CTH 379 §9:29", "CTH 379 §9:30"]
+        with_refs: ["2:75", "2:79"]
+        relation: divergence
+        record:
+          agent: ["Muršili", "a party of the People of the Book"]
+          object: ["the old tablet", "the book, God's word"]
+          action: ["swears he added no word and took none away", "write it with their hands; distort it"]
+          quoted: ["ANA ṬUPPI memiyan ammuk anda UL kuinki teḫḫun arḫa-ya-kan UL dāḫḫun", "yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāh"]
+        note: "Muršili swears to the gods he added no word to the old tablet and took none away, and does not know whether earlier kings did (§9:24-31); 2:75 and 2:79 accuse those who distort God's word after understanding it and write the book with their own hands."
+  - unit: ane-cth-380-1-gassuliyawiya-recovery
+    checked: [quran-37-sacrifice-of-son, quran-22-abraham-house-pilgrimage, quran-16-daughters-and-the-bee, quran-21-prophets-answered]
+    matches:
+      - with: quran-22-abraham-house-pilgrimage
+        motif: who-consumes-the-sacrifice
+        refs: ["CTH 380.1 §1:8", "CTH 380.1 §1:9", "CTH 380.1 §1:10", "CTH 380.1 §1:11"]
+        with_refs: ["22:36", "22:37"]
+        relation: response
+        record:
+          agent: ["the deity (Lelwani)", "the offerers and the poor"]
+          object: ["fat and blood of the victims", "flesh and blood of the camels"]
+          action: ["eats the fat and drinks the blood", "eat of it and feed the needy"]
+          quoted: ["UZU.Ì et nu-za išpāi ešḫar [...] ninik", "lan yanāla llāha luḥūmuhā wa-lā dimāʾuhā wa-lākin yanāluhu t-taqwā minkum"]
+        note: "'Eat, deity, the fat of that cow and sheep, eat your fill; drink the blood and quench your thirst' (§1:8-11); 22:36-37 the offerers eat and feed the poor, and neither the flesh nor the blood reaches God."
+      - with: quran-37-sacrifice-of-son
+        motif: substitute-for-a-human-life
+        refs: ["CTH 380.1 §2:12", "CTH 380.1 §2:13", "CTH 380.1 §2:14", "CTH 380.1 §2:15"]
+        with_refs: ["37:107"]
+        relation: divergence
+        record:
+          agent: ["the queen Gaššuliyawiya", "God"]
+          object: ["an adorned substitute", "a great sacrifice"]
+          recipient: ["the angry deity", "Abraham's son"]
+          quoted: ["tarpaššan unuwandan uppaḫḫun ... ammuk kattan SIG5-anza", "wa-fadaynāhu bi-dhibḥin ʿaẓīm"]
+          outcome: ["sent so the deity takes it instead of her", "the son is ransomed"]
+        note: "The sick queen sends the deity an adorned substitute, 'better than I, pure, shining, white' (§2:13-17), to be taken in her place; in 37:107 God himself ransoms the son with a great sacrifice. Who provides the substitute, and to whom, is reversed."
+  - unit: ane-cth-380-2-3-fragments
+    checked: [quran-10-ingratitude-sea, quran-50-qaf-two-recorders-and-hell-asks-more, quran-13-messengers-and-mother-of-book]
+    matches: []
+  - unit: ane-cth-381-1-rooftop-plea-setting
+    checked: [quran-2-closing, quran-79-pharaoh-and-cosmos, quran-13-signs-of-creation, quran-15-prologue-and-heavens]
+    matches: []
+  - unit: ane-cth-381-x1-god-list
+    checked: [quran-7-names-and-hour, quran-17-moses-nine-signs-and-close, quran-12-joseph-full, quran-2-patience-signs]
+    matches: []
+  - unit: ane-cth-381-x60-prayer-to-storm-god
+    checked: [quran-40-call-on-me, quran-2-fasting, quran-19-zechariah-and-john, quran-91-sun]
+    matches: []
+  - unit: ane-cth-381-6-bread-breaking-ritual
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-53-najm-goddesses-and-scrolls, quran-11-opening-throne-on-water]
+    matches: []
+  - unit: ane-cth-382-1-kummanni-wrath-released
+    checked: [quran-6-final-reckoning, quran-17-book-of-deeds, quran-99-earthquake, quran-7-calf]
+    matches:
+      - with: quran-7-calf
+        motif: plea-not-to-destroy-the-many-for-the-few
+        refs: ["CTH 382 §6:89", "CTH 382 §6:90", "CTH 382 §6:92"]
+        with_refs: ["7:155"]
+        relation: parallel
+        record:
+          agent: ["Muwatalli", "Moses"]
+          action: ["asks the god to avenge only the one city or house", "pleads not to be destroyed for what the foolish did"]
+          quoted: ["DINGIR-LUM apēdani A-NA 1-EN URU-LIM 1-EN É-TI anda šanḫi ... A-NA KUR-TI-ma-at-kan lē anda šanaḫti", "a-tuhlikunā bi-mā faʿala s-sufahāʾu minnā"]
+        note: "'If a single city or house does harm, avenge it on that city or house; do not avenge it on the whole land' (§6:89-92); compare Moses at 7:155."
+  - unit: ane-cth-382-8-unknown-words-colophon
+    checked: [quran-2-closing, quran-16-daughters-and-the-bee, quran-7-calf, quran-54-qamar-ad-thamud-lot-pharaoh]
+    matches:
+      - with: quran-7-calf
+        motif: plea-not-to-destroy-the-many-for-the-few
+        refs: ["CTH 382 §10:119", "CTH 382 §10:120", "CTH 382 §10:121"]
+        with_refs: ["7:155"]
+        relation: parallel
+        record:
+          agent: ["Muwatalli", "Moses"]
+          action: ["asks the god to avenge only the one house", "pleads not to be destroyed for what the foolish did"]
+          quoted: ["{d}10 EN-YA apēdani A-NA É-TI anda šanaḫ ... KUR-e-ma-at-kan anda lē", "a-tuhlikunā bi-mā faʿala s-sufahāʾu minnā"]
+        note: "'If it is the house of a poor man, avenge it on that house, not on the land' (§10:119-121); compare 7:155."
+      - with: quran-2-closing
+        motif: release-from-unwitting-offences
+        refs: ["CTH 382 §12:132", "CTH 382 §12:135", "CTH 382 §12:136", "CTH 382 §12:138", "CTH 382 §12:140"]
+        with_refs: ["2:286"]
+        relation: echo
+        record:
+          agent: ["the king for the people", "the believers"]
+          object: ["words we do not know, that did not come from our mouth", "what we forgot or did by mistake"]
+          quoted: ["UL kuē šekkueni ... DINGIR.MEŠ {d}A.NUN.NA.KE4 GE6-i KI-pi šanḫandu ... lāttaru", "rabbanā lā tuʾākhidhnā in nasīnā aw akhṭaʾnā"]
+          outcome: ["let it be released", "pardon us"]
+        note: "'Because we are only human: the words we know came from our mouth; the words we do not know ... let the Anunnaki seek them in the dark earth, and let it be released' (§12:132-140); 2:286 'our Lord, do not take us to task if we forget or err'."
+  - unit: ane-cth-383-1-hattusili-disclaimers
+    checked: [quran-3-sovereignty, quran-6-final-reckoning, quran-2-abraham-kaaba, quran-7-moses-pharaoh]
+    matches:
+      - with: quran-3-sovereignty
+        motif: kingship-given-and-taken-back
+        refs: ["CTH 383.1 §1:2", "CTH 383.1 §1:3", "CTH 383.1 §1:4", "CTH 383.1 §1:5", "CTH 383.1 §1:6"]
+        with_refs: ["3:26"]
+        relation: echo
+        record:
+          agent: ["the Sun goddess of Arinna", "God"]
+          object: ["the kings of Hatti", "kingship"]
+          action: ["takes up and casts off", "gives kingship and strips it"]
+          quoted: ["šarā kuiš daškeši arḫa kuiš piššiškeši", "tuʾtī l-mulka man tashāʾu wa-tanziʿu l-mulka mimman tashāʾ"]
+        note: "The goddess 'who takes up, who casts off' the kings she looks on (§1:3-6); 3:26 mālika l-mulki tuʾtī l-mulka man tashāʾ wa-tanziʿu l-mulka mimman tashāʾ."
+      - with: quran-2-abraham-kaaba
+        motif: liability-for-another-s-guilt
+        refs: ["CTH 383.1 §5:59", "CTH 383.1 §5:60", "CTH 383.1 §5:61", "CTH 383.1 §5:62"]
+        with_refs: ["2:134", "2:141"]
+        relation: echo
+        record:
+          agent: ["Ḫattušili", "God"]
+          object: ["the old offence of his father's time", "what past generations did"]
+          quoted: ["ammel UD.ḪI.A-aš EGIR-pa lē ḫuittiyattari ... UL ārān ... karū apāšpat šarnikta", "lahā mā kasabat wa-lakum mā kasabtum wa-lā tusʾalūna ʿammā kānū yaʿmalūn"]
+          outcome: ["it is not right to bring it up in my days; the doer already paid", "you will not be asked about what they did"]
+        note: "Ḫattušili asks that the Danuḫepa affair not be brought up against him in his days: 'it is not right; the one who did it has already paid' (§5:59-62). 2:134 and 2:141 state the same as a rule for a nation that has passed. The Hittite is a plea against a liability the prayers otherwise assume."
+  - unit: ane-cth-383-1-nerik-merit
+    checked: [quran-28-pharaoh-oppression-infant-moses, quran-7-adam-iblis, quran-11-closing, quran-59-hashr-banu-nadir-and-fay]
+    matches: []
+  - unit: ane-cth-383-2-fragment
+    checked: [quran-6-final-reckoning, quran-89-dawn, quran-3-sovereignty]
+    matches: []
