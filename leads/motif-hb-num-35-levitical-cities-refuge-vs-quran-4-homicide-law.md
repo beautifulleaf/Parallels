@@ -23,24 +23,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Murder distinguished from manslaughter by weapon (iron, stone, wood),
-    enmity and intent (weight 6.7); A place of refuge for one who kills unintentionally [divergence between
-    the texts] (weight 6.0); Whether payment may substitute for a life [contrast between the texts] (weight
-    5.8). Pair score 18.5.'
+    enmity and intent (weight 7.7); A place of refuge for one who kills unintentionally [divergence between
+    the texts] (weight 7.1); Whether payment may substitute for a life [contrast between the texts] (weight
+    6.8). Pair score 21.6.'
   basis: reading
 - text: 'Only in Levitical cities, cities of refuge and the law of homicide: Manslayer may leave refuge
     only at the death of the high priest; Shed blood pollutes the land and only the killer''s blood atones
     for it; Forty-eight cities with pasture-lands of measured cubits assigned to the Levites; No ransom
     (kofer) may be taken for a murderer''s life; How many witnesses a charge requires [divergence between
-    the texts]; The ''redeemer of blood'' (go''el ha-dam) kills the murderer; Same law for the resident
-    alien and the native; Six cities of refuge for the unintentional killer, three on each side of the
-    Jordan; No one put to death on the testimony of a single witness.'
+    the texts]; Same law for the resident alien and the native; Six cities of refuge for the unintentional
+    killer, three on each side of the Jordan; No one put to death on the testimony of a single witness;
+    The ''redeemer of blood'' (go''el ha-dam) kills the murderer.'
   basis: reading
 - text: 'Only in Accidental and deliberate killing of a believer: Deliberate killing of a believer is
     punished by hell forever, God''s wrath and curse; Do not tell one who greets you with peace ''you
     are not a believer'' to seize booty; Whoever cannot pay the expiation fasts two consecutive months;
     Accidental killing of a believer: free a believing slave and pay blood money (diya) to the family
-    unless they remit it; A place of refuge for one who kills unintentionally; The penalty for deliberate
-    murder [divergence between the texts].'
+    unless they remit it; A place of refuge for one who kills unintentionally; Blood compensation paid
+    to the kin of a man killed who belongs to a people bound by treaty; The penalty for deliberate murder
+    [divergence between the texts]; Whether payment may substitute for a life.'
   basis: reading
 - text: 'Levitical cities, cities of refuge and the law of homicide: tagged by Claude (model), reading
     the Hebrew.'

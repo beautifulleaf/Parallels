@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What happens where fresh and salt water meet [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The river from the temple and the healing of the sea: The temple river heals the salt
     waters of the Dead Sea so they teem with fish; Fishermen spread nets from En-gedi to En-eglaim on
     the healed sea; The swamps and marshes are left unhealed, given over to salt; Trees along the river
     bear fruit every month and their leaves are for healing; Abundant fruit in paradise, neither cut off
     (seasonless) nor forbidden; A river flows from under the temple threshold, growing ever deeper; A
-    river from paradise divides into four named rivers; A heavenly guide measures the visionary temple
-    with a reed or line while the prophet watches.'
+    heavenly guide measures the visionary temple with a reed or line while the prophet watches; A river
+    from paradise divides into four named rivers.'
   basis: reading
 - text: 'Only in The Originator, winged angels, and the two seas: God made the angels messengers with
     wings in twos, threes and fours, adding to creation what he wills; To God ascends the good word, and
@@ -36,11 +36,12 @@ evidence:
     prayer and will disown it at the Resurrection; The form, faces and number of wings of heavenly beings
     [divergence between the texts]; Each cherub or living creature has four faces (human, lion, ox/cherub,
     eagle), four wings and human hands under the wings; What God opens no one can shut, and what he withholds
-    no one can release; If God willed he could remove you and bring a new creation; God began man''s creation
+    no one can release; A god''s act sets fresh (sweet) water against salt (bitter) water [divergence
+    between the texts]; If God willed he could remove you and bring a new creation; God began man''s creation
     from clay, then made his progeny from an extract of a despised fluid, then shaped him and breathed
-    of his spirit; No one is granted long life or has his life shortened except it is in a Book; The life
-    of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter is the true
-    life; Sun and moon are subjected, each running to an appointed term; and 6 more.'
+    of his spirit; The life of this world is only amusement and play (lahw wa-la''ib); the abode of the
+    hereafter is the true life; No one is granted long life or has his life shortened except it is in
+    a Book; and 7 more.'
   basis: reading
 - text: 'The river from the temple and the healing of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your wife a fruitful vine in the recesses of your house, your children
-    like olive shoots around your table (weight 6.7). Pair score 6.7.'
+    like olive shoots around your table (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 128, blessing of the God-fearer''s household: Blessing: may you see your children''s
     children; Closing benediction ''Peace upon Israel'' (shalom al yisra''el); Superscription ''A song
@@ -29,11 +29,12 @@ evidence:
     they spend they are neither extravagant nor stingy, but in between; The righteous spend the night
     prostrating and standing before their Lord; The righteous are rewarded with the lofty chamber (al-ghurfa)
     and greeted with peace; The servants of the Merciful walk humbly on the earth and answer the ignorant
-    with ''Peace''; Though sins be like scarlet they shall be white as snow; though red as crimson, like
-    wool; Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
-    to his folly''; What God requires: to do justice, love hesed and walk humbly with your God; Prohibitions
-    of murder, adultery, theft and false witness [divergence between the texts]; Prohibitions of murder,
-    adultery, theft and false witness.'
+    with ''Peace''; Do not bear false witness (mtr n mdw n ʿḏꜣ / shahādat al-zūr); When the ignorant or
+    weak man disputes with you, do not engage him: leave him; Though sins be like scarlet they shall be
+    white as snow; though red as crimson, like wool; What God requires: to do justice, love hesed and
+    walk humbly with your God; Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer
+    a fool according to his folly''; Prohibitions of murder, adultery, theft and false witness [divergence
+    between the texts]; and 1 more.'
   basis: reading
 - text: 'Psalm 128, blessing of the God-fearer''s household: tagged by Claude (model), reading the Hebrew.'
   basis: reading

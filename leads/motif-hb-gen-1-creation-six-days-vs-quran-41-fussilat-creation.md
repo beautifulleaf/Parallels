@@ -20,19 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The order of creating heaven and earth and the days allotted to
-    each [divergence between the texts] (weight 6.7); Creation is completed in six days (weight 5.2).
-    Pair score 11.9.'
+    each [divergence between the texts] (weight 7.7); Creation is completed in six days (weight 6.2).
+    Pair score 14.0.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 26 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 26 more.'
   basis: reading
 - text: 'Only in Ha-Mim Fussilat: the veil between; creation in days; heaven as smoke: God created the
     earth in two days, set mountains and measured its provisions in four days, then made the seven heavens
@@ -42,10 +43,9 @@ evidence:
     (amr) and adorned the lowest heaven with lamps and protection; God says to heaven and earth ''Come
     willingly or unwillingly'', and they answer ''We come willingly''; Heaven likened to or made from
     smoke [contrast between the texts]; The lowest heaven is adorned with stars as a guard against every
-    rebellious devil; Who makes the hearers deaf, blind and closed of heart to the message [divergence
-    between the texts]; God fashions seven heavens; God set firm mountains on the earth lest it sway with
-    people; Prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand
-    and be healed; and 1 more.'
+    rebellious devil; The stars are set on (drawn on, adorn) the lowest of the heavens; Who makes the
+    hearers deaf, blind and closed of heart to the message [divergence between the texts]; God fashions
+    seven heavens; God set firm mountains on the earth lest it sway with people; and 2 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

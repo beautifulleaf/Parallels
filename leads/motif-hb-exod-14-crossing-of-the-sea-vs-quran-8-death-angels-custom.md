@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
-    4.5). Pair score 4.5.'
+    5.5). Pair score 5.5.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -34,10 +34,10 @@ evidence:
     becomes of the drowned Pharaoh and his army after the sea [divergence between the texts]; and 20 more.'
   basis: reading
 - text: 'Only in Angels at the death of unbelievers; the custom of Pharaoh''s people: Unbelievers follow
-    ''the custom of Pharaoh''s people'' and those before them; Angels take the souls of unbelievers striking
-    their faces and backs; God does not change a favor he gave a people until they change what is in themselves;
-    ''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according to his
-    deeds.'
+    ''the custom of Pharaoh''s people'' and those before them; Fierce messengers sent to fetch the evildoers
+    at death [divergence between the texts]; Angels take the souls of unbelievers striking their faces
+    and backs; God does not change a favor he gave a people until they change what is in themselves; ''Far
+    be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according to his deeds.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

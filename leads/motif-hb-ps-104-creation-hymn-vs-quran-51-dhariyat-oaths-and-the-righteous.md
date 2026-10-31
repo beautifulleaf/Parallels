@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Oath cluster by the scatterers, the burden-bearers, the easy runners
-    and the distributors of command (winds, clouds, ships or angels) (weight 6.7). Pair score 6.7.'
+    and the distributors of command (winds, clouds, ships or angels) (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 40 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 40 more.'
   basis: reading
 - text: 'Only in Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful righteous and
     the beggar''s due: God swears by the Lord of heaven and earth that it is as true as the fact that
@@ -39,9 +39,9 @@ evidence:
     who are heedless in a flood of ignorance; In the wealth of the righteous is a known right (haqq ma''lum)
     for the beggar and the deprived; The share of the poor in the owner''s harvest or wealth [divergence
     between the texts]; In heaven is your provision and what you are promised; In the earth are signs
-    for the certain, and in yourselves; will you not see?; Corners of the field, gleanings and fallen
-    grapes left for the poor and the stranger; The righteous slept little of the night and sought forgiveness
-    in the hours before dawn (ashar); Speaker rises at midnight to give thanks to God.'
+    for the certain, and in yourselves; will you not see?; The righteous slept little of the night and
+    sought forgiveness in the hours before dawn (ashar); Corners of the field, gleanings and fallen grapes
+    left for the poor and the stranger; Speaker rises at midnight to give thanks to God.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

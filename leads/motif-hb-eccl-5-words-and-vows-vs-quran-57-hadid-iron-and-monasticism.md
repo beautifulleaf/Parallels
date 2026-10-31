@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Monasticism (rahbaniyya) they invented; God did not prescribe it,
-    only seeking God''s pleasure, and they did not observe it rightly (weight 6.7). Pair score 6.7.'
+    only seeking God''s pleasure, and they did not observe it rightly (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Few words before God and paying vows: Do not say before the messenger (mal''akh) ''it
     was a mistake (shegagah)'' lest God be angry at your voice; Dreams come with much business and a fool''s
@@ -35,11 +35,11 @@ evidence:
     for people; God gave Jesus son of Mary the Gospel (al-Injil); Worldly life is play, adornment, boasting
     and rivalry in wealth and children, like rain whose growth pleases the sowers, then withers yellow
     and becomes chaff; God sent down the Book with the truth and the Balance (al-mizan); Christians are
-    nearest in affection to the believers because they have priests and monks and are not proud; So that
-    you do not grieve over what escapes you nor exult over what he gives you; A double portion (k-p-l)
-    from God [divergence between the texts]; No calamity befalls the earth or yourselves but it is in
-    a Book before God brings it into being; Race to forgiveness and a Garden whose breadth is as the breadth
-    of heaven and earth; and 7 more.'
+    nearest in affection to the believers because they have priests and monks and are not proud; What
+    befalls creatures is written beforehand on a heavenly tablet or in a book [divergence between the
+    texts]; So that you do not grieve over what escapes you nor exult over what he gives you; A double
+    portion (k-p-l) from God [divergence between the texts]; No calamity befalls the earth or yourselves
+    but it is in a Book before God brings it into being; and 11 more.'
   basis: reading
 - text: 'Few words before God and paying vows: tagged by Claude (model), reading the Hebrew.'
   basis: reading

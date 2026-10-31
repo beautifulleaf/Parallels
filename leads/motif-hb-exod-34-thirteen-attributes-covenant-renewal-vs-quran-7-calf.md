@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How far God''s mercy and his punishment extend [divergence between
-    the texts] (weight 6.7); What becomes of the first tablets after the calf: broken and replaced, or
-    cast down and taken up again [divergence between the texts] (weight 5.8). Pair score 12.5.'
+    the texts] (weight 7.7); What becomes of the first tablets after the calf: broken and replaced, or
+    cast down and taken up again [divergence between the texts] (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
     covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
     time; Call to the People of the Book to a common word: worship none but God and take none as lords
     besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
     down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
-    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
-    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
-    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
-    a snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
-    appear before God empty-handed; and 20 more.'
+    neck is broken; God passes by and proclaims his name and attributes of mercy; Whether one person (kin,
+    descendants) bears another''s sin [contrast between the texts]; Do not offer sacrificial blood with
+    leavened bread; fat not left until morning; No one shall appear before God empty-handed; The prophet
+    intercedes for the people, arguing from God''s reputation; Moses hews a second pair of tablets to
+    replace the broken ones; and 20 more.'
   basis: reading
 - text: 'Only in The lowing calf and the seventy: Aaron pleads ''son of my mother, the people overpowered
     me and almost killed me''; The angry prophet seizes his brother by the head (and beard), dragging
@@ -42,7 +42,7 @@ evidence:
     he will be gracious to whom he will be gracious; Moses intercedes for Aaron, with whom God was angry
     enough to destroy him; God''s mercy encompasses all things; Moses includes himself with the guilty
     people in his plea after the calf [divergence between the texts]; Moses prays for Aaron after the
-    calf [divergence between the texts]; and 14 more.'
+    calf [divergence between the texts]; and 15 more.'
   basis: reading
 - text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,9 +19,9 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hearts of stone [divergence between the texts] (weight 6.3); God
-    will remove the heart of stone and give a heart of flesh and a new spirit (weight 5.8). Pair score
-    12.1.'
+- text: 'Shared motifs, rarest first: Hearts of stone [divergence between the texts] (weight 7.3); God
+    will remove the heart of stone and give a heart of flesh and a new spirit (weight 6.8). Pair score
+    14.2.'
   basis: reading
 - text: 'Only in The cauldron saying, death of Pelatiah, God as little sanctuary, the new heart, the glory
     on the Mount of Olives: A man dies suddenly while the prophet is still prophesying against him; Proverb
@@ -37,12 +37,15 @@ evidence:
 - text: 'Only in The cow and the slain man: Moses commands a cow be slaughtered; the people repeatedly
     ask its age, color and nature before complying; Hearts harder than stones, yet some stones gush rivers,
     split for water or fall down in fear of God; A slain man is struck with part of the slaughtered cow
-    and revived to reveal his killer; The sacrificial cow is bright yellow, pleasing to beholders; What
-    contact with a corpse does [contrast between the texts]; Unyoked milk cows pull a new cart unguided,
-    separated from their calves, as a divine test; Description of the cow required by God [divergence
-    between the texts]; A heifer and a killing whose perpetrator is unknown [divergence between the texts];
-    Unblemished red cow never yoked is burned whole for purifying ash; Unsolved murder: elders of nearest
-    city break the neck of an unworked heifer in an untilled wadi.'
+    and revived to reveal his killer; The sacrificial cow is bright yellow, pleasing to beholders; A bovine
+    chosen for a rite has never been put to work (never struck with stick or whip, never yoked to plough
+    or water); What contact with a corpse does [contrast between the texts]; Unyoked milk cows pull a
+    new cart unguided, separated from their calves, as a divine test; Description of the cow required
+    by God [divergence between the texts]; A heifer and a killing whose perpetrator is unknown [divergence
+    between the texts]; A man is killed within a community and the killer is unknown [divergence between
+    the texts]; A man is found killed and the killer is unknown: how the case is settled [divergence between
+    the texts]; A bovine for a rite must be of one colour with no spot of another colour, sound in body
+    [divergence between the texts]; and 2 more.'
   basis: reading
 - text: 'The cauldron saying, death of Pelatiah, God as little sanctuary, the new heart, the glory on
     the Mount of Olives: tagged by Claude (model), reading the Hebrew.'

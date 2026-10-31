@@ -15,29 +15,29 @@ traditions:
 layers:
 - motif
 motifs:
-- hospitality-to-strangers-as-divergence
-- sarahs-reaction-to-announcement-as-divergence
-- identity-of-abrahams-visitors-as-divergence
 - answer-to-sarahs-doubt-as-divergence
+- sarahs-reaction-to-announcement-as-divergence
+- hospitality-to-strangers-as-divergence
 - whether-abrahams-guests-eat-as-divergence
-- divine-guests-eat
-- calf-prepared-for-guests
+- identity-of-abrahams-visitors-as-divergence
 - sarah-laughs-overhearing
+- calf-prepared-for-guests
+- divine-guests-eat
 - annunciation-of-son-and-name
 - hospitality-to-strangers
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Host runs to welcome strangers, washes their feet and feeds them
-    [divergence between the texts] (weight 6.7); Sarah''s reaction to the announcement of a son [divergence
-    between the texts] (weight 6.7); Who Abraham''s visitors are [divergence between the texts] (weight
-    6.7); The answer given to the old woman''s doubt [divergence between the texts] (weight 6.7); Whether
-    Abraham''s heavenly guests eat the meal [divergence between the texts] (weight 6.7); Heavenly visitors
-    eat a human meal (weight 6.7); A tender calf is slaughtered and served to divine guests (weight 6.3);
-    The old wife overhears the promise of a son at the tent door and laughs (weight 6.3); A divine messenger
-    announces a son''s birth and gives his name (weight 5.2); Host runs to welcome strangers, washes their
-    feet and feeds them (weight 5.1). Pair score 63.0.'
+- text: 'Shared motifs, rarest first: The answer given to the old woman''s doubt [divergence between the
+    texts] (weight 7.7); Sarah''s reaction to the announcement of a son [divergence between the texts]
+    (weight 7.7); Host runs to welcome strangers, washes their feet and feeds them [divergence between
+    the texts] (weight 7.7); Whether Abraham''s heavenly guests eat the meal [divergence between the texts]
+    (weight 7.7); Who Abraham''s visitors are [divergence between the texts] (weight 7.7); The old wife
+    overhears the promise of a son at the tent door and laughs (weight 7.3); A tender calf is slaughtered
+    and served to divine guests (weight 7.3); Heavenly visitors eat a human meal (weight 7.1); A divine
+    messenger announces a son''s birth and gives his name (weight 6.0); Host runs to welcome strangers,
+    washes their feet and feeds them (weight 5.8). Pair score 72.3.'
   basis: reading
 - text: 'Only in Three visitors at Mamre and the promise of Isaac: Child promised to a woman past childbearing
     age; Doubt voiced at the promise of a son in old age; Doubt voiced at the promise of a son in old
@@ -57,12 +57,12 @@ evidence:
     strangers (qawm munkarun)''; The guests announce to Abraham a knowing (or wise) son (''alim); Thamud
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
-    old woman!''; Angels seize the hesitating family by the hand and lead them out; How Abraham learns
-    of Sodom''s fate, and his response [divergence between the texts]; Only Lot''s household is brought
-    out of the doomed city [divergence between the texts]; In Lot''s town only one house of submitters
-    (muslimin) was found, and the believers were brought out; God seized Pharaoh and his hosts and cast
-    them into the sea while he was blameworthy; Pharaoh turned away with his power/pillar (rukn) and called
-    Moses ''a sorcerer or a madman''; and 10 more.'
+    old woman!''; Angels seize the hesitating family by the hand and lead them out; Supernatural envoys
+    who come to seize or destroy do not eat the food offered them [divergence between the texts]; The
+    host, seeing the divine visitor, has his household prepare an animal from the herd (lamb, calf) for
+    the guest; How Abraham learns of Sodom''s fate, and his response [divergence between the texts]; Only
+    Lot''s household is brought out of the doomed city [divergence between the texts]; In Lot''s town
+    only one house of submitters (muslimin) was found, and the believers were brought out; and 15 more.'
   basis: reading
 - text: 'Three visitors at Mamre and the promise of Isaac: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -251,22 +251,6 @@ matches:
       lang: ar
       text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
 - kind: shared
-  label: Heavenly visitors eat a human meal
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 18:8
-      lang: he
-      text: וַיִּקַּ֨ח חֶמְאָ֜ה וְחָלָ֗ב וּבֶן הַבָּקָר֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיִּתֵּ֖ן לִפְנֵיהֶ֑ם וְהֽוּא
-        עֹמֵ֧ד עֲלֵיהֶ֛ם תַּ֥חַת הָעֵ֖ץ וַיֹּאכֵֽלוּ
-    note: 'curds, milk and calf: meat with milk, noted by rabbis'
-  - tradition: islam
-    passages:
-    - ref: Quran 51:27
-      lang: ar
-      text: فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
-    note: 'contrast: in the Quran the angels do not eat (Gen 18:8 they eat)'
-- kind: shared
   label: The old wife overhears the promise of a son at the tent door and laughs
   sides:
   - tradition: judaism
@@ -289,6 +273,22 @@ matches:
       lang: ar
       text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
     note: here she cries out and slaps her face instead of laughing
+- kind: shared
+  label: Heavenly visitors eat a human meal
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:8
+      lang: he
+      text: וַיִּקַּ֨ח חֶמְאָ֜ה וְחָלָ֗ב וּבֶן הַבָּקָר֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיִּתֵּ֖ן לִפְנֵיהֶ֑ם וְהֽוּא
+        עֹמֵ֧ד עֲלֵיהֶ֛ם תַּ֥חַת הָעֵ֖ץ וַיֹּאכֵֽלוּ
+    note: 'curds, milk and calf: meat with milk, noted by rabbis'
+  - tradition: islam
+    passages:
+    - ref: Quran 51:27
+      lang: ar
+      text: فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
+    note: 'contrast: in the Quran the angels do not eat (Gen 18:8 they eat)'
 ---
 
 ## Questions

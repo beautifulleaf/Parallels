@@ -19,26 +19,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The townsfolk say ''we augur ill of you'' and threaten to stone
-    the messengers; they reply ''your omen is with you'' (weight 6.3). Pair score 6.3.'
+    the messengers; they reply ''your omen is with you'' (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Intercessor argues the
-    nations would say God was unable; Those who slandered the land die by plague; People have tested God
-    ''ten times''; Forty years of wandering, a year for each day of scouting [divergence between the texts];
-    God threatens to destroy a people and put another in its place [divergence between the texts]; Two
-    faithful spies dissent from the majority [divergence between the texts]; People ordered to fight complain
-    to God and wish to be spared the battle; People attack without God''s ark or leader and are routed;
-    After the people''s rebellion the prophet intercedes for them or asks to be separated from them [divergence
-    between the texts]; People propose appointing a leader to go back to Egypt; Caleb has ''another spirit''
-    and follows God fully; God offers to destroy the people and make a nation of the hero instead; and
-    10 more.'
+- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Those who slandered the
+    land die by plague; People have tested God ''ten times''; Intercessor argues the nations would say
+    God was unable; Forty years of wandering, a year for each day of scouting [divergence between the
+    texts]; God threatens to destroy a people and put another in its place [divergence between the texts];
+    Two faithful spies dissent from the majority [divergence between the texts]; People ordered to fight
+    complain to God and wish to be spared the battle; People attack without God''s ark or leader and are
+    routed; After the people''s rebellion the prophet intercedes for them or asks to be separated from
+    them [divergence between the texts]; People propose appointing a leader to go back to Egypt; Caleb
+    has ''another spirit'' and follows God fully; God offers to destroy the people and make a nation of
+    the hero instead; and 10 more.'
   basis: reading
 - text: 'Only in The people of the town, the three messengers and the man who came running: A man comes
     running from the farthest part of the city urging his people to follow the messengers; The believer
     is told ''enter the Garden'' and says ''Would that my people knew how my Lord forgave me''; Two messengers
     sent to a town are rejected, so God reinforces them with a third; No host from heaven was needed:
-    a single Shout (sayha) and they were extinguished; Offender stoned to death by the community; Travel
-    in the land and see the end of those who denied; Intercession avails only for whom God permits; The
-    Prophet asks no wage for the message.'
+    a single Shout (sayha) and they were extinguished; Offender stoned to death by the community; Augury:
+    a bird''s flight or alighting is an omen bound to a person [divergence between the texts]; The dead
+    cannot go back to the life they left; Travel in the land and see the end of those who denied; Intercession
+    avails only for whom God permits; The Prophet asks no wage for the message.'
   basis: reading
 - text: 'Rebellion after the spies'' report and the forty-year sentence: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From the bee''s belly comes a drink of many colors in which is healing
-    for people (weight 6.3). Pair score 6.3.'
+    for people (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in YHWH sayings and royal sayings (man plans, God disposes): By loyalty and faithfulness
     (hesed we-emet) iniquity is atoned for; When a man''s ways please YHWH he makes even his enemies to
     be at peace with him; YHWH has made everything for its purpose, even the wicked for the day of evil;
-    The worker''s appetite works for him, for his mouth urges him on; In the light of the king''s face
-    is life; his favor is like a cloud of the latter rain; The wrath of a king is messengers of death,
-    but a wise man will pacify it; The lot is cast into the lap, but its every decision is from YHWH;
-    Divination (qesem) is on the lips of the king; his mouth does not err in judgment; Pleasant words
-    are a honeycomb, sweet to the soul and healing to the bones; Roll (commit) your works to YHWH and
-    your plans will be established; The worthless man (ish beliyya''al) digs up evil and on his lips is
-    a scorching fire; A whisperer separates close friends; and 13 more.'
+    The worker''s appetite works for him, for his mouth urges him on; The wrath of a king is messengers
+    of death, but a wise man will pacify it; The lot is cast into the lap, but its every decision is from
+    YHWH; Divination (qesem) is on the lips of the king; his mouth does not err in judgment; Pleasant
+    words are a honeycomb, sweet to the soul and healing to the bones; Roll (commit) your works to YHWH
+    and your plans will be established; The worthless man (ish beliyya''al) digs up evil and on his lips
+    is a scorching fire; A whisperer separates close friends; In the light of the king''s face is life;
+    his favor is like a cloud of the latter rain; and 13 more.'
   basis: reading
 - text: 'Only in Not two gods; daughters ascribed to God and buried alive; milk, wine and the bee (Surah
     16:51-70): The polytheists assign daughters to God while wishing sons for themselves; God says: do
@@ -38,11 +38,12 @@ evidence:
     and he hides from people in shame; Burying a newborn daughter in the dust is condemned; Pure milk
     issues from cattle''s bellies from between dung and blood: a sign; Some are returned to the feeblest
     age (ardhal al-''umur), knowing nothing after knowledge; God reveals (awha) to the bee to build in
-    mountains, trees and trellises and follow his paths; At the judgment the girl buried alive (al-maw''uda)
+    mountains, trees and trellises and follow his paths; The bee, sent or inspired by the deity, goes
+    through the mountains [divergence between the texts]; At the judgment the girl buried alive (al-maw''uda)
     is asked for what sin she was killed; In distress, at sea or otherwise, people call on God alone,
-    then return to polytheism once rescued; From palms and vines people take an intoxicant (sakar) and
-    good provision; Idolaters assign to unknown gods a share of what God provided them; Punishment is
-    delayed only because of a word that went before from God and an appointed term; and 1 more.'
+    then return to polytheism once rescued; A deity gives the bee an order: where to go and what to do
+    [divergence between the texts]; A drink said to contain healing for the sick: wine or honey [shared
+    matter] [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'YHWH sayings and royal sayings (man plans, God disposes): tagged by Claude (model), reading the
     Hebrew.'

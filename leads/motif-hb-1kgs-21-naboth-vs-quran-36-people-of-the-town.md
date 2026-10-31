@@ -17,15 +17,15 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Offender stoned to death by the community (weight 5.8). Pair score
-    5.8.'
+- text: 'Shared motifs, rarest first: Offender stoned to death by the community (weight 6.8). Pair score
+    6.8.'
   basis: reading
 - text: 'Only in Naboth''s vineyard: Commoner refuses to sell or trade his ancestral vineyard to the king:
-    ''God forbid I give you my fathers'' inheritance''; Thwarted king lies on his bed, turns his face
-    to the wall and refuses to eat; Queen writes letters in the king''s name, sealed with his seal, ordering
-    a judicial murder; A fast is proclaimed and two worthless men falsely testify that the victim ''blessed
-    (cursed) God and king''; Innocent victim is taken outside the city and stoned to death; King goes
-    home ''sullen and angry'' (sar ve-za''ef) after a prophet''s rebuke; Prohibition of coveting the neighbor''s
+    ''God forbid I give you my fathers'' inheritance''; Queen writes letters in the king''s name, sealed
+    with his seal, ordering a judicial murder; A fast is proclaimed and two worthless men falsely testify
+    that the victim ''blessed (cursed) God and king''; Innocent victim is taken outside the city and stoned
+    to death; King goes home ''sullen and angry'' (sar ve-za''ef) after a prophet''s rebuke; Thwarted
+    king lies on his bed, turns his face to the wall and refuses to eat; Prohibition of coveting the neighbor''s
     wife and property; Prohibitions of murder, adultery, theft and false witness.'
   basis: reading
 - text: 'Only in The people of the town, the three messengers and the man who came running: A man comes
@@ -33,9 +33,10 @@ evidence:
     is told ''enter the Garden'' and says ''Would that my people knew how my Lord forgave me''; Two messengers
     sent to a town are rejected, so God reinforces them with a third; The townsfolk say ''we augur ill
     of you'' and threaten to stone the messengers; they reply ''your omen is with you''; No host from
-    heaven was needed: a single Shout (sayha) and they were extinguished; Travel in the land and see the
-    end of those who denied; Intercession avails only for whom God permits; The Prophet asks no wage for
-    the message.'
+    heaven was needed: a single Shout (sayha) and they were extinguished; Augury: a bird''s flight or
+    alighting is an omen bound to a person [divergence between the texts]; The dead cannot go back to
+    the life they left; Travel in the land and see the end of those who denied; Intercession avails only
+    for whom God permits; The Prophet asks no wage for the message.'
   basis: reading
 - text: 'Naboth''s vineyard: tagged by Claude (model), reading the Hebrew.'
   basis: reading

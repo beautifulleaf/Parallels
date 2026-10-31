@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The scripture is a glorious recitation inscribed on a preserved
-    tablet (lawh mahfuz) in heaven [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    tablet (lawh mahfuz) in heaven [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Exhortation at Horeb''s memory; no image; exile and return: No other nation has a god
     so near whenever they call on him; Keeping the law will make the nations call Israel wise; They forgot
@@ -34,13 +34,16 @@ evidence:
 - text: 'Only in The constellations: the people of the ditch and the preserved tablet: The scripture is
     a glorious recitation inscribed on a preserved tablet (lawh mahfuz) in heaven; Oath by the sky possessing
     the constellations or towers (dhat al-buruj); The people of the ditch (ashab al-ukhdud) sit by a fire
-    pit, watching what they do to believers, whose only offense was faith in God; Hero thrown into a fire
-    or furnace by a king or people [divergence between the texts]; Cluster of divine epithets in sequence
-    (e.g. the Forgiving, the Loving, Lord of the Throne, the Glorious, doer of what he wills; or Lord,
-    King, God of mankind); God originates creation and then repeats it (resurrection as re-creation);
-    List of destroyed peoples or hosts (e.g. ''Ad, Thamud, Pharaoh) recalled as warning; Hero thrown into
-    a fire or furnace by a king or people; A series of oaths by natural phenomena (dawn, night, day, sun,
-    moon, sky, earth, stars, winds) opens or punctuates a passage.'
+    pit, watching what they do to believers, whose only offense was faith in God; The deity calls himself
+    or herself the doer (of what he says, of what he wills); A single heavenly tablet holding supreme
+    decrees, and whether it is guarded or can be stolen [divergence between the texts]; Hero thrown into
+    a fire or furnace by a king or people [divergence between the texts]; The epithet ''he does what he
+    wills'' (Eg. Mrr=f-jrr=f, Ar. faʿʿālun li-mā yurīd) [neutral] [divergence between the texts]; God
+    originates creation and then repeats it (resurrection as re-creation); List of destroyed peoples or
+    hosts (e.g. ''Ad, Thamud, Pharaoh) recalled as warning; Hero thrown into a fire or furnace by a king
+    or people; A series of oaths by natural phenomena (dawn, night, day, sun, moon, sky, earth, stars,
+    winds) opens or punctuates a passage; Cluster of divine epithets in sequence (e.g. the Forgiving,
+    the Loving, Lord of the Throne, the Glorious, doer of what he wills; or Lord, King, God of mankind).'
   basis: reading
 - text: 'Exhortation at Horeb''s memory; no image; exile and return: tagged by Claude (model), reading
     the Hebrew.'

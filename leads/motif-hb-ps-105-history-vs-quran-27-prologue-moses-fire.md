@@ -21,9 +21,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The number of signs or plagues in Egypt [divergence between the
-    texts] (weight 6.7); A poetic list of the Egyptian plagues differs in number and order from Exodus
-    (weight 6.0); The king''s heart is hardened (by himself or by God) so he refuses to release the people
-    (weight 4.6). Pair score 17.3.'
+    texts] (weight 7.7); A poetic list of the Egyptian plagues differs in number and order from Exodus
+    (weight 7.1); The king''s heart is hardened (by himself or by God) so he refuses to release the people
+    (weight 5.7). Pair score 20.5.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his

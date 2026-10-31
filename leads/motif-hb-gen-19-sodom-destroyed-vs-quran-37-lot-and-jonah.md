@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The fate of Lot''s wife [divergence between the texts] (weight 6.7);
-    Wife who looks back is turned into a pillar of salt (weight 5.6). Pair score 12.3.'
+- text: 'Shared motifs, rarest first: The fate of Lot''s wife [divergence between the texts] (weight 7.7);
+    Wife who looks back is turned into a pillar of salt (weight 6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -37,14 +37,13 @@ evidence:
     while he is sick; Jonah ran away (abaqa, as a runaway slave) to the laden ship; Had Jonah not been
     among those who glorify God he would have stayed in the fish''s belly until the Day of Resurrection;
     Jonah is sent to a hundred thousand or more; they believe and are granted enjoyment for a while; The
-    hearers pass by the ruins of Lot''s people morning and night; Nineveh has more than 120,000 people
-    who do not know their right hand from their left; The city to which Jonah is sent believes and is
-    spared [divergence between the texts]; Jonah flees by ship [divergence between the texts]; Sailors
-    cast lots to learn on whose account the disaster has come, and the lot falls on the prophet; Sailors
-    cast lots to learn on whose account the disaster has come, and the lot falls on the prophet [divergence
-    between the texts]; God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet;
-    God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet [divergence between
-    the texts]; and 6 more.'
+    hearers pass by the ruins of Lot''s people morning and night; A man cast up on land from the sea lies
+    under a tree [neutral]; Nineveh has more than 120,000 people who do not know their right hand from
+    their left; Divination or lots decide against a particular man at a ship''s sailing [divergence between
+    the texts]; The city to which Jonah is sent believes and is spared [divergence between the texts];
+    Jonah flees by ship [divergence between the texts]; Sailors cast lots to learn on whose account the
+    disaster has come, and the lot falls on the prophet; Sailors cast lots to learn on whose account the
+    disaster has come, and the lot falls on the prophet [divergence between the texts]; and 9 more.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

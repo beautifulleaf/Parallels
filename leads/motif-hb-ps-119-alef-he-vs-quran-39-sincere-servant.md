@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God expands a person''s breast (sharh al-sadr) to Islam so he is
-    upon a light from his Lord (weight 6.7). Pair score 6.7.'
+    upon a light from his Lord (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas alef to he: Prayer ''Open my eyes that I may behold wonders out of
     your Torah''; Speaker calls himself a stranger (ger) on the earth; Torah praised under a fixed set

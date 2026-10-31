@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will raise up a prophet like Moses from among the brothers and
-    put his words in his mouth (weight 5.2). Pair score 5.2.'
+    put his words in his mouth (weight 6.2). Pair score 6.2.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:
@@ -41,9 +41,9 @@ evidence:
     not seek the ignorant''; Opponents call the Torah and the Quran ''two sorceries supporting each other'';
     Who was present at the revelation on the mountain, and who knows it only by report [contrast between
     the texts]; Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts]; Produce and wealth of every land brought to a sacred city [divergence between
-    the texts]; Whoever takes his own desire (hawā) as his god; Repel evil with what is better; and 1
-    more.'
+    between the texts]; The produce (tribute, fruits) of all lands is brought into a sacred city; Produce
+    and wealth of every land brought to a sacred city [divergence between the texts]; Whoever takes his
+    own desire (hawā) as his god; and 2 more.'
   basis: reading
 - text: 'Levitical dues; forbidden divination; the prophet like Moses: tagged by Claude (model), reading
     the Hebrew.'

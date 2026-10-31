@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ant, a people without strength, prepares its food in summer
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Agur''s numerical sayings (leech, four wonders, four small wise creatures): The adulteress
     eats, wipes her mouth and says ''I have done no wrong''; Pressing milk produces butter, pressing the
@@ -27,14 +27,13 @@ evidence:
     to his master lest he curse you; Four small but wise creatures: ants storing food in summer, rock-badgers
     housed in rock, locusts with no king marching in ranks, the lizard in kings'' palaces; Four stately
     in stride: the lion mightiest of beasts, the strutting rooster (zarzir), the he-goat, and a king with
-    his army; Under four the earth trembles: a slave who becomes king, a fool sated with food, an unloved
-    woman who marries, a maid who supplants her mistress; Catalogue of a corrupt ''generation'' (dor):
-    cursing parents, self-righteous yet unwashed, haughty, with sword-teeth devouring the poor; If you
-    have been foolish in exalting yourself, put your hand on your mouth; The leech (''aluqah) has two
-    daughters: ''Give, give!''; The locusts have no king yet all go out in ranks; The eye that mocks a
-    father and scorns a mother will be pecked out by ravens of the valley and eaten by young vultures;
-    Four wonders: the way of an eagle in the sky, a serpent on a rock, a ship in the sea, and a man with
-    a young woman (''almah); and 4 more.'
+    his army; Catalogue of a corrupt ''generation'' (dor): cursing parents, self-righteous yet unwashed,
+    haughty, with sword-teeth devouring the poor; If you have been foolish in exalting yourself, put your
+    hand on your mouth; The leech (''aluqah) has two daughters: ''Give, give!''; The locusts have no king
+    yet all go out in ranks; The eye that mocks a father and scorns a mother will be pecked out by ravens
+    of the valley and eaten by young vultures; Four wonders: the way of an eagle in the sky, a serpent
+    on a rock, a ship in the sea, and a man with a young woman (''almah); Sheol and Abaddon are never
+    satisfied, and the eyes of man are never satisfied; and 4 more.'
   basis: reading
 - text: 'Only in Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba: Entering Solomon''s
     palace, the queen takes its floor of smooth glass for a pool and bares her legs; The hoopoe returns
@@ -48,7 +47,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 22 more.'
+    and 42 more.'
   basis: reading
 - text: 'Agur''s numerical sayings (leech, four wonders, four small wise creatures): tagged by Claude
     (model), reading the Hebrew.'

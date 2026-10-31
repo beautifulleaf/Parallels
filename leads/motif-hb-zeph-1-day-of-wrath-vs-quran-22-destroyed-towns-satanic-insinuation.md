@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Day of YHWH: a coming day of divine judgment, terror and darkness
-    (weight 5.0). Pair score 5.0.'
+    (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Zephaniah''s Day of YHWH against Judah: Men thickened on their lees who say in their
     hearts ''YHWH will do neither good nor evil''; The Day of YHWH is a sacrifice he has prepared, with

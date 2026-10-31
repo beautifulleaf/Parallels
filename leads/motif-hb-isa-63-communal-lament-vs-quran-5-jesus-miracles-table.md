@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s ''holy spirit'' (ruah qodesh) is asked not to be taken away
-    from a person (weight 6.0). Pair score 6.0.'
+    from a person (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Remembering the days of Moses - O that you would rend the heavens: No ear has heard and
     no eye has seen any God besides you who acts for those who wait for him; In all their affliction he

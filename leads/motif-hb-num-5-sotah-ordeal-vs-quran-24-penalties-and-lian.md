@@ -15,21 +15,21 @@ traditions:
 layers:
 - motif
 motifs:
+- verdict-on-suspected-wife-as-divergence
 - secret-adultery-without-witness
 - accusing-husbands-liability-as-contrast
-- verdict-on-suspected-wife-as-divergence
-- oath-procedure-for-suspected-wife-as-divergence
 - bitter-water-ordeal-for-adultery
+- oath-procedure-for-suspected-wife-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Adultery done in secret with no witness and not caught in the act
-    (weight 6.7); Whether the husband who accuses his wife bears any liability [contrast between the texts]
-    (weight 6.7); How the case of a wife suspected of adultery is decided [divergence between the texts]
-    (weight 6.7); Who swears, and how, when a husband suspects his wife of adultery without witnesses
-    [divergence between the texts] (weight 6.7); Wife suspected of adultery drinks ''water of bitterness''
-    as an ordeal (weight 6.7). Pair score 33.5.'
+- text: 'Shared motifs, rarest first: How the case of a wife suspected of adultery is decided [divergence
+    between the texts] (weight 7.7); Adultery done in secret with no witness and not caught in the act
+    (weight 7.7); Whether the husband who accuses his wife bears any liability [contrast between the texts]
+    (weight 7.7); Wife suspected of adultery drinks ''water of bitterness'' as an ordeal (weight 7.7);
+    Who swears, and how, when a husband suspects his wife of adultery without witnesses [divergence between
+    the texts] (weight 7.7). Pair score 38.7.'
   basis: reading
 - text: 'Only in The suspected adulteress and the bitter water: Suspected wife''s offering is barley flour
     without oil or frankincense, a ''meal offering of jealousy''; Ordeal curse: the guilty woman''s belly
@@ -45,15 +45,15 @@ evidence:
     and man each receive a hundred lashes, witnessed by a party of believers; A fornicator may marry only
     a fornicator or an idolater; such marriage is forbidden to believers; A husband accusing his wife
     without witnesses swears four times by God and a fifth time invokes God''s curse on himself if lying;
-    she averts punishment by four counter-oaths and a fifth invoking God''s wrath; Whoever accuses a chaste
-    woman without four witnesses is flogged eighty lashes and his testimony is never accepted; Who is
-    barred from marrying an unchaste woman [divergence between the texts]; Judges told to let no pity
-    hold them back from carrying out a fixed punishment; How many lashes a flogging may have [contrast
-    between the texts]; A man accused swears a curse-oath before the altar, and God judges guilty and
-    innocent; The penalty for adultery or fornication [contrast between the texts]; The penalty for falsely
-    accusing a woman of unchastity [divergence between the texts]; Husband who falsely accuses his bride
-    is flogged, fined 100 silver, and may never divorce her; Adulterer and adulteress both put to death;
-    and 3 more.'
+    she averts punishment by four counter-oaths and a fifth invoking God''s wrath; The adulterer is excluded
+    from the company of the just [divergence between the texts]; Whoever accuses a chaste woman without
+    four witnesses is flogged eighty lashes and his testimony is never accepted; Who is barred from marrying
+    an unchaste woman [divergence between the texts]; Judges told to let no pity hold them back from carrying
+    out a fixed punishment; How many lashes a flogging may have [contrast between the texts]; A man accused
+    swears a curse-oath before the altar, and God judges guilty and innocent; The penalty for adultery
+    or fornication [contrast between the texts]; The penalty for falsely accusing a woman of unchastity
+    [divergence between the texts]; Husband who falsely accuses his bride is flogged, fined 100 silver,
+    and may never divorce her; and 4 more.'
   basis: reading
 - text: 'The suspected adulteress and the bitter water: tagged by Claude (model), reading the Hebrew.'
   basis: reading

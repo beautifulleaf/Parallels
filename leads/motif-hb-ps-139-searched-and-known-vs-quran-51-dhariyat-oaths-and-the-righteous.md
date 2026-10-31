@@ -19,20 +19,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In the earth are signs for the certain, and in yourselves; will
-    you not see? (weight 6.7). Pair score 6.7.'
+    you not see? (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 139, God''s all-knowing presence and the embryo: Darkness is not dark to God; night
     shines like day, darkness and light are alike; ''YHWH, you have searched me and known me'': God knows
-    sitting and rising, thoughts from afar, every word before it is spoken; Nowhere to flee God''s spirit:
-    if I ascend to heaven you are there, if I make my bed in Sheol you are there; ''Do I not hate those
-    who hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar)
-    and dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s
-    leave at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti)
-    in the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before
-    God brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
+    sitting and rising, thoughts from afar, every word before it is spoken; ''Do I not hate those who
+    hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar) and
+    dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s leave
+    at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti) in
+    the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before God
+    brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
     between the texts]; God''s knowledge of a person''s thoughts and words, from afar or from near [divergence
     between the texts]; God knows what the earth diminishes of the dead bodies, and with him is a preserving
-    record; and 15 more.'
+    record; Nowhere to flee God''s spirit: if I ascend to heaven you are there, if I make my bed in Sheol
+    you are there; and 15 more.'
   basis: reading
 - text: 'Only in Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful righteous and
     the beggar''s due: God swears by the Lord of heaven and earth that it is as true as the fact that
@@ -41,9 +41,9 @@ evidence:
     for the beggar and the deprived; Oath cluster by the scatterers, the burden-bearers, the easy runners
     and the distributors of command (winds, clouds, ships or angels); The share of the poor in the owner''s
     harvest or wealth [divergence between the texts]; In heaven is your provision and what you are promised;
-    Corners of the field, gleanings and fallen grapes left for the poor and the stranger; The righteous
-    slept little of the night and sought forgiveness in the hours before dawn (ashar); Speaker rises at
-    midnight to give thanks to God.'
+    The righteous slept little of the night and sought forgiveness in the hours before dawn (ashar); Corners
+    of the field, gleanings and fallen grapes left for the poor and the stranger; Speaker rises at midnight
+    to give thanks to God.'
   basis: reading
 - text: 'Psalm 139, God''s all-knowing presence and the embryo: tagged by Claude (model), reading the
     Hebrew.'

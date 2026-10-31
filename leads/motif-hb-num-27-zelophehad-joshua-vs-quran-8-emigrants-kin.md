@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- order-of-inheritance
 - kin-nearer-in-book-of-god
+- order-of-inheritance
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Statutory order of inheritance: son, daughter, brothers, father''s
-    brothers, nearest kin (weight 6.3); Blood relatives are nearer to one another (in inheritance) in
-    God''s book (weight 6.3). Pair score 12.6.'
+- text: 'Shared motifs, rarest first: Blood relatives are nearer to one another (in inheritance) in God''s
+    book (weight 7.3); Statutory order of inheritance: son, daughter, brothers, father''s brothers, nearest
+    kin (weight 7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in Daughters of Zelophehad; Moses views the land; Joshua commissioned: Petition so that
     a dead man''s name not be lost from his clan; Leader ordains his successor by laying hands and sharing

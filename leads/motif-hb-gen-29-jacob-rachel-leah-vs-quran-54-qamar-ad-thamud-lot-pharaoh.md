@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A she-camel of God is given as a sign; she must be left to graze
-    unharmed (weight 5.8). Pair score 5.8.'
+    unharmed (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Jacob meets Rachel; Laban''s substitution of Leah: Custom that the younger daughter is
     not given before the elder; Each bride receives a handmaid from her father; Hero single-handedly rolls
     a great stone from the mouth of a well; Hero kisses and weeps on meeting a kinswoman or kinsman; Father
     substitutes the elder daughter for the promised younger bride on the wedding night; A week of wedding
-    feasting (shavua); The deceiver is deceived in kind (younger for elder, darkness/blindness); Years
-    of service given for a bride [divergence between the texts]; Hero marries two sisters; Future bride
+    feasting (shavua); Years of service given for a bride [divergence between the texts]; The deceiver
+    is deceived in kind (younger for elder, darkness/blindness); Hero marries two sisters; Future bride
     or groom met at a well, leading to betrothal; Suitor serves the bride''s father seven years for her
     hand; Hero''s beauty is remarked on.'
   basis: reading
@@ -35,12 +35,12 @@ evidence:
     faces into the Fire: ''Taste the touch of Saqar''; The God-fearing are in gardens and a river, in
     a seat of truth with an all-powerful King; A single Cry (sayha) is sent and they become like the dry
     stubble of a pen-builder; When they solicited Lot''s guests, God obliterated their eyes; ''The host
-    will be routed and turn their backs'' (applied to Badr); Everything they did is in the scriptures
-    (zubur); every small and great thing is written down; God created everything by measure/decree (bi-qadar);
-    ''Are your unbelievers better than those, or have you an immunity (bara''a) in the scriptures (zubur)?'';
-    Lot''s family is saved at the time before dawn (bi-sahar) while a storm of stones (hasib) destroys
-    the rest; Supernatural being must leave before daybreak; Refrain: ''How then were my punishment and
-    my warnings?'' (fa-kayfa kana ''adhabi wa-nudhur); and 12 more.'
+    will be routed and turn their backs'' (applied to Badr); The high god''s command is spoken once only:
+    not twice, not turned back; Everything they did is in the scriptures (zubur); every small and great
+    thing is written down; God created everything by measure/decree (bi-qadar); ''Are your unbelievers
+    better than those, or have you an immunity (bara''a) in the scriptures (zubur)?''; Lot''s family is
+    saved at the time before dawn (bi-sahar) while a storm of stones (hasib) destroys the rest; Supernatural
+    being must leave before daybreak; and 14 more.'
   basis: reading
 - text: 'Jacob meets Rachel; Laban''s substitution of Leah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

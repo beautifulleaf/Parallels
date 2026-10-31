@@ -22,27 +22,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The form God gave humans at creation [divergence between the texts]
-    (weight 6.7); Humanity made in the image or likeness of the deity (weight 5.8); God creates by saying
-    to a thing ''Be'' and it is (kun fa-yakun) (weight 5.3); Sun and moon are set to rule day and night
-    and mark signs and seasons (weight 4.7). Pair score 22.5.'
+    (weight 7.7); Humanity made in the image or likeness of the deity (weight 6.4); God creates by saying
+    to a thing ''Be'' and it is (kun fa-yakun) (weight 6.4); Sun and moon are set to rule day and night
+    and mark signs and seasons (weight 5.5). Pair score 26.0.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; Whether humans bear God''s likeness, or nothing is like
-    him [contrast between the texts]; and 24 more.'
+    him [contrast between the texts]; Sun and moon are set to rule day and night and mark signs and seasons
+    [divergence between the texts]; Night and day are two signs; the sign of night is effaced and that
+    of day made bright for reckoning years; The office given to humans on earth at creation [divergence
+    between the texts]; and 24 more.'
   basis: reading
 - text: 'Only in God helps his messengers; call on me; the stages of life: Your Lord said ''Call on me
     and I will answer you''; God shaped you and made your forms good (sawwarakum fa-ahsana suwarakum);
     The creation of the heavens is greater than the creation of humankind; From dust, then a drop, then
     a clinging clot (''alaqa), then a child, then full strength, then old age; some die before; Rhetorical
     question: are the blind and the seeing equal, or darkness and light?; God made leaders (a''imma) among
-    the Israelites who guided by his command because they were patient; Glorify God in the evening, morning,
+    the Israelites who guided by his command because they were patient; The creator made heaven and earth,
+    light, air and food ''for their sake'' (n-jb =sn), for humankind; Glorify God in the evening, morning,
     afternoon and noon (set times of praise or prayer).'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'

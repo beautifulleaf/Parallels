@@ -17,19 +17,19 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The hoofbeats of galloping horses depicted in poetry (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: The hoofbeats of galloping horses depicted in poetry (weight 7.3).
+    Pair score 7.3.'
   basis: reading
 - text: 'Only in The locust army of the Day of YHWH; ''rend your hearts''; restoration: Even bridegroom
     and bride must leave the wedding chamber for the public fast; God sends the early and latter rain
-    (moreh and malqosh) and restores abundance; The invaders climb walls and enter houses through windows
-    like a thief; The land is like the Garden of Eden before the invader and a desolate wilderness after;
-    The locusts look like horses and run like cavalry, leaping on mountaintops with a noise like chariots;
-    The northern one (ha-tsefoni) is driven into the desert and seas, and its stench rises; Priests weep
-    between the porch and the altar; ''Rend your hearts and not your garments''; Blow the shofar in Zion,
-    sound the alarm on God''s holy mountain; ''Who knows? He may turn and relent'' (mi yodea); God will
-    repay the years the locust has eaten; Proclaim a fast, call a solemn assembly, gather elders and all
-    the people to the house of God and cry out; and 9 more.'
+    (moreh and malqosh) and restores abundance; The land is like the Garden of Eden before the invader
+    and a desolate wilderness after; The locusts look like horses and run like cavalry, leaping on mountaintops
+    with a noise like chariots; The northern one (ha-tsefoni) is driven into the desert and seas, and
+    its stench rises; Priests weep between the porch and the altar; ''Rend your hearts and not your garments'';
+    Blow the shofar in Zion, sound the alarm on God''s holy mountain; ''Who knows? He may turn and relent''
+    (mi yodea); God will repay the years the locust has eaten; Proclaim a fast, call a solemn assembly,
+    gather elders and all the people to the house of God and cry out; God loves those who fight in his
+    way in ranks as though they were a solid structure (bunyan marsus); and 9 more.'
   basis: reading
 - text: 'Only in The chargers: Oath by charging war-horses that pant, strike sparks with their hooves,
     raid at dawn, raise dust and storm into the midst of a host; Man will be evidence against himself,

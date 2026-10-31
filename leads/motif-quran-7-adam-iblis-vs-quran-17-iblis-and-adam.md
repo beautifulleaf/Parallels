@@ -14,18 +14,18 @@ layers:
 motifs:
 - devil-vows-to-mislead-humanity
 - fire-superior-to-clay-argument
-- devil-refuses-to-bow-to-adam
 - devil-granted-respite-until-resurrection
+- devil-refuses-to-bow-to-adam
 - angels-commanded-to-prostrate-to-adam
 - human-formed-from-earth
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The expelled devil vows to lie in wait on the straight path and
-    mislead humanity (weight 6.3); The devil argues he is better than man because he was made of fire
-    and man of clay (weight 6.3); The devil (Iblis) alone refuses to bow to the first man (weight 5.8);
-    The devil asks for and is granted respite until the day the dead are raised (weight 5.8); God commands
-    the angels to prostrate before the first man, and they do (weight 5.8); First human shaped from dust,
-    clay or soil (weight 4.6). Pair score 34.4.'
+    mislead humanity (weight 7.3); The devil argues he is better than man because he was made of fire
+    and man of clay (weight 7.3); The devil asks for and is granted respite until the day the dead are
+    raised (weight 6.8); The devil (Iblis) alone refuses to bow to the first man (weight 6.8); God commands
+    the angels to prostrate before the first man, and they do (weight 6.8); First human shaped from dust,
+    clay or soil (weight 5.2). Pair score 40.4.'
   basis: reading
 - text: 'Only in The prostration to Adam, Iblis'' refusal and the fall: Man and wife are addressed, tempted
     and eat together; the woman is not singled out; The first humans are sent down to earth to live and
@@ -36,8 +36,8 @@ evidence:
     he is their sincere adviser; God vows to fill hell with the devil and all who follow him; Satan whispers
     (waswasa) to tempt humans; God casts the proud being out from the mountain of God and destroys him
     from among the stones of fire, hurling him to earth before kings; How the first couple answer God
-    after eating: shifting the blame or confessing [divergence between the texts]; God gives the adversary
-    (Satan) leave to act against humans; and 16 more.'
+    after eating: shifting the blame or confessing [divergence between the texts]; In the divine realm
+    the human is given a garment to put on [divergence between the texts]; and 19 more.'
   basis: reading
 - text: 'Only in Iblis''s threat to bridle Adam''s offspring; sea peril; the honored children of Adam
     (Surah 17:61-72): Whoever is blind in this world will be blind in the hereafter and further astray;
@@ -49,8 +49,9 @@ evidence:
     otherwise, people call on God alone, then return to polytheism once rescued [contrast between the
     texts]; In distress, at sea or otherwise, people call on God alone, then return to polytheism once
     rescued [divergence between the texts]; God honored the children of Adam, carried them on land and
-    sea and preferred them above much of creation; Satan has no authority over God''s sincere servants,
-    only over those who follow him; The earth opens its mouth and swallows rebels alive into Sheol.'
+    sea and preferred them above much of creation; Man is clay (and straw) shaped by God, said where a
+    human is scorned; Satan has no authority over God''s sincere servants, only over those who follow
+    him; The earth opens its mouth and swallows rebels alive into Sheol.'
   basis: reading
 - text: 'The prostration to Adam, Iblis'' refusal and the fall: tagged by Claude (model), reading the
     Arabic.'
@@ -108,6 +109,23 @@ matches:
         لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
     note: 'implicit: one you created of clay, this one you honored above me'
 - kind: shared
+  label: The devil asks for and is granted respite until the day the dead are raised
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:14
+      lang: ar
+      text: قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    - ref: Quran 7:15
+      lang: ar
+      text: قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:62
+      lang: ar
+      text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+        لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
+- kind: shared
   label: The devil (Iblis) alone refuses to bow to the first man
   sides:
   - tradition: islam
@@ -131,23 +149,6 @@ matches:
       text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
         لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
     note: '''shall I prostrate to one you created of clay (ṭīn)?'''
-- kind: shared
-  label: The devil asks for and is granted respite until the day the dead are raised
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 7:14
-      lang: ar
-      text: قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
-    - ref: Quran 7:15
-      lang: ar
-      text: قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
-  - tradition: islam
-    passages:
-    - ref: Quran 17:62
-      lang: ar
-      text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
-        لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
 - kind: shared
   label: God commands the angels to prostrate before the first man, and they do
   sides:

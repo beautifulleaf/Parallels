@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deeds are weighed on judgment day; heavy scales mean salvation,
-    light scales loss (weight 6.3). Pair score 6.3.'
+    light scales loss (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Job''s reply - the weight of grief and the treacherous wadi: Proverb: does a wild ass
     bray over grass or an ox low over its fodder?; ''Is my strength that of stones, or my flesh bronze?'';

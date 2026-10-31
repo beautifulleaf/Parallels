@@ -18,30 +18,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God in heaven laughs at and mocks those who plot against him or
-    the righteous (weight 5.6). Pair score 5.6.'
+    the righteous (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Psalm 2 - the nations rage; the king as God''s son: God gives the king the nations as
-    inheritance and the ends of the earth as possession; God tells the king ''You are my son; today I
-    have begotten you''; God installs his king on Zion, his holy mountain; Rulers told to serve God with
-    trembling and ''kiss the son'' (nashqu bar); Happy are all who take refuge (hosim) in God; The king
-    will break the nations with a rod of iron and shatter them like a potter''s vessel; Whether God has
-    a son, or calls his anointed king his begotten son [response between the texts]; Whether God has or
-    begets a son [contrast between the texts]; God does not beget and was not begotten [contrast between
-    the texts]; Nations and kings of the earth conspire against YHWH and his anointed (mashiah); They
-    say ''al-Rahman has taken a son''; it is not fitting for the Merciful [response between the texts];
-    Whether God has, begets or takes sons or other offspring [contrast between the texts]; and 1 more.'
+    inheritance and the ends of the earth as possession; God installs his king on Zion, his holy mountain;
+    Rulers told to serve God with trembling and ''kiss the son'' (nashqu bar); Happy are all who take
+    refuge (hosim) in God; The king will break the nations with a rod of iron and shatter them like a
+    potter''s vessel; Whether God has a son, or calls his anointed king his begotten son [response between
+    the texts]; Whether God has or begets a son [contrast between the texts]; God does not beget and was
+    not begotten [contrast between the texts]; Nations and kings of the earth conspire against YHWH and
+    his anointed (mashiah); They say ''al-Rahman has taken a son''; it is not fitting for the Merciful
+    [response between the texts]; Whether God has, begets or takes sons or other offspring [contrast between
+    the texts]; Whether God has a son, or calls his anointed king his begotten son [contrast between the
+    texts]; and 1 more.'
   basis: reading
 - text: 'Only in Believers, unbelievers and hypocrites: The faithful defined as those who believe in the
     unseen (al-ghayb); The scripture announces itself as ''the Book'' in which there is no doubt, guidance
     for the God-fearing; Unbelievers called ''deaf, dumb, blind'' (summun bukmun umyun); Parable: one
     kindles a fire, and when it lights his surroundings God takes away the light, leaving him in darkness;
     Parable: travelers in a rainstorm of darkness, thunder and lightning put fingers in their ears for
-    fear of death; Woe to those who call evil good and good evil, darkness light and bitter sweet; God
-    scorns the scorners but gives grace to the humble; Hardening of the heart, ears and eyes of the hearers
-    [divergence between the texts]; Revelation as a sealed or an open book [contrast between the texts];
-    Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe; The hypocrites
+    fear of death; God scorns the scorners but gives grace to the humble; Hardening of the heart, ears
+    and eyes of the hearers [divergence between the texts]; Revelation as a sealed or an open book [contrast
+    between the texts]; Who is blind but my servant, deaf like my messenger? Israel sees much but does
+    not observe; Woe to those who call evil good and good evil, darkness light and bitter sweet; The hypocrites
     try to deceive God, but it is he who deceives them; Hypocrites profess faith before believers and
-    tell their own ''devils'' in private they were only mocking; and 5 more.'
+    tell their own ''devils'' in private they were only mocking; and 6 more.'
   basis: reading
 - text: 'Psalm 2 - the nations rage; the king as God''s son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

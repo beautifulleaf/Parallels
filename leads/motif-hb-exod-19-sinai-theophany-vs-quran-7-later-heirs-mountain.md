@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel stands beneath the mountain when the covenant is given [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Arrival at Sinai, covenant offer and theophany: Israel arrives at Sinai in the third
-    month after leaving Egypt; God carried Israel on eagles'' wings; Moses speaks and God answers him
-    with a voice (thunder); God comes to the prophet in a thick cloud so the people may hear; Priests
-    are mentioned before the Aaronic priesthood is instituted; A ram''s horn blast signals that the people
-    may go up the mountain; Men must not approach a woman before a holy encounter; God descends or reveals
-    himself on the third day; A boundary is set round the holy mountain; whoever touches it dies; A horn
-    blast at which all tremble [divergence between the texts]; Israel is to be a kingdom of priests and
-    a holy nation; Israel is to be a kingdom of priests and a holy nation [divergence between the texts];
-    and 10 more.'
+    month after leaving Egypt; Moses speaks and God answers him with a voice (thunder); God comes to the
+    prophet in a thick cloud so the people may hear; Priests are mentioned before the Aaronic priesthood
+    is instituted; A ram''s horn blast signals that the people may go up the mountain; Men must not approach
+    a woman before a holy encounter; God descends or reveals himself on the third day; God carried Israel
+    on eagles'' wings; A horn blast at which all tremble [divergence between the texts]; Israel is to
+    be a kingdom of priests and a holy nation; Israel is to be a kingdom of priests and a holy nation
+    [divergence between the texts]; A mountain shaken by God''s descent or by his revelation [divergence
+    between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Heirs of the book and the mountain lifted over Israel: The words of a covenant are written
     in a book of the law of God; Later heirs of the scripture take worldly gain and say ''we will be forgiven'';

@@ -17,30 +17,30 @@ motifs:
 - prohibition-murder-adultery-theft-false-witness
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life (weight 5.3);
-    Prohibitions of murder, adultery, theft and false witness (weight 5.1). Pair score 10.4.'
+- text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life (weight 5.9);
+    Prohibitions of murder, adultery, theft and false witness (weight 5.7). Pair score 11.5.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
-    the texts]; and 12 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch your eyes
+    toward the worldly splendor given to others to test them; and 12 more.'
   basis: reading
 - text: 'Only in Polemic with the People of the Book: The love of the calf was made to sink (be drunk)
     into their hearts; If the next world is yours alone, wish for death: they never will; Enmity to Gabriel
     and Michael (Mikal) equated with enmity to God; Gabriel (Jibril) brings down the revelation upon the
-    prophet''s heart; Some wish to be granted a life of a thousand years; Israel made to drink the golden
-    calf [divergence between the texts]; Worship of God alone joined to duty to parents [divergence between
-    the texts]; Claim that the fire will touch them only for a few numbered days, rebutted; The idol is
-    burned, ground to powder, scattered on water and the people made to drink it; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); Woe to those who write the book with their
-    own hands and say it is from God, for a small price; Hypocrites profess faith before believers and
-    tell their own ''devils'' in private they were only mocking; and 15 more.'
+    prophet''s heart; Some wish to be granted a life of a thousand years; Whether anyone added words to,
+    or took words from, a sacred or ancient written text [divergence between the texts]; What is drunk
+    at the making of a covenant, and what the drinking does [divergence between the texts]; Israel made
+    to drink the golden calf [divergence between the texts]; Worship of God alone joined to duty to parents
+    [divergence between the texts]; Claim that the fire will touch them only for a few numbered days,
+    rebutted; The idol is burned, ground to powder, scattered on water and the people made to drink it;
+    Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna); and 18 more.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

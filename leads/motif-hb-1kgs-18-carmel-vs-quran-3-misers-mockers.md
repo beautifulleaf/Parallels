@@ -12,28 +12,28 @@ traditions:
 layers:
 - motif
 motifs:
-- fire-consumed-offering-as-proof-as-response
 - fire-from-heaven-consumes-offering
+- fire-consumed-offering-as-proof-as-response
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: An offering consumed by fire as proof of the true God or messenger
-    [response between the texts] (weight 6.7); Fire from heaven falls and consumes the offering, wood,
-    stones, dust and water (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Fire from heaven falls and consumes the offering, wood, stones,
+    dust and water (weight 7.7); An offering consumed by fire as proof of the true God or messenger [response
+    between the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Contest on Mount Carmel: Prophet repairs the ruined altar with twelve stones for the
     tribes of Jacob; Contest of gods: the god who answers by fire on an unlit sacrifice is God; The prophets
-    of Baal are seized and slaughtered at the brook Kishon; Prophets of Baal limp-dance around the altar
-    and gash themselves with swords and lances till blood flows; Prophet mocks the silent god: perhaps
-    he is musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched
-    with four jars of water three times, filling a trench, before the miracle; The people fall on their
-    faces crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; ''How long will you hop between
-    two branches? If YHWH is God, follow him; if Baal, follow him''; A single prophet of YHWH stands against
+    of Baal are seized and slaughtered at the brook Kishon; Prophet mocks the silent god: perhaps he is
+    musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched with
+    four jars of water three times, filling a trench, before the miracle; The people fall on their faces
+    crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and the
+    king''s religious specialists ends [contrast between the texts]; ''How long will you hop between two
+    branches? If YHWH is God, follow him; if Baal, follow him''; A single prophet of YHWH stands against
     450 prophets of Baal and 400 of Asherah; How the people respond to the prophet''s challenge over Baal
     [divergence between the texts]; Parable: a slave owned by quarreling partners versus a slave belonging
-    wholly to one man; and 9 more.'
+    wholly to one man; Prophets of Baal limp-dance around the altar and gash themselves with swords and
+    lances till blood flows; and 9 more.'
   basis: reading
 - text: 'Only in Misers, those who called God poor, and the fire-consumed offering: God took the covenant
     of those given the Book to make it clear to people and not conceal it; Those who said ''God is poor
@@ -41,11 +41,11 @@ evidence:
     round their necks as a collar on the Day of Resurrection; Some demand that a messenger bring an offering
     consumed by fire as his credential; God grants the unbelievers respite only that they may increase
     in sin; Whether God is in need and humans rich [contrast between the texts]; God will not leave believers
-    as they are until he separates the bad from the good; What man can live and not see death, or deliver
-    his soul from the hand of Sheol?; Every soul shall taste death; Fire comes out from before God and
-    consumes the offering on the altar; God sent his servants the prophets ''rising early and sending''
-    (hashkem), but they did not listen; He who is gracious to the poor lends to YHWH, and he will repay
-    him; and 2 more.'
+    as they are until he separates the bad from the good; Wrongdoers take the deity''s delay for indifference;
+    the delay is not a release; What man can live and not see death, or deliver his soul from the hand
+    of Sheol?; A writer reproaches his addressee: the oath I made you swear before the gods you have thrown
+    behind you; Fire comes out from before God and consumes the offering on the altar; God sent his servants
+    the prophets ''rising early and sending'' (hashkem), but they did not listen; and 4 more.'
   basis: reading
 - text: 'Contest on Mount Carmel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

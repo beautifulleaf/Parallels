@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If your water were to sink deep into the earth, who would bring
-    you flowing water? (weight 6.7); The birds above them spreading and folding their wings: none holds
-    them up but the Merciful (weight 6.0). Pair score 12.7.'
+    you flowing water? (weight 7.7); The birds above them spreading and folding their wings: none holds
+    them up but the Merciful (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Job - ask the beasts; God''s sovereign overturnings: Ask the beasts, birds, earth and
     fish and they will teach you that God''s hand made this; In God''s hand is the life of every living
@@ -42,8 +42,8 @@ evidence:
     swallow you as it quakes, or send a stone-storm?; Is one who walks prone on his face better guided
     than one who walks upright on a straight path?; By God''s wisdom the hawk soars and spreads its wings
     toward the south; The people mock God''s messengers, despise his words and scoff at his prophets;
-    The earth opens its mouth and swallows rebels alive into Sheol; Knowledge of the Hour is with God
-    alone; it will come suddenly.'
+    Knowledge of the Hour is with God alone; it will come suddenly; The earth opens its mouth and swallows
+    rebels alive into Sheol.'
   basis: reading
 - text: 'Job - ask the beasts; God''s sovereign overturnings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

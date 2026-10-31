@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How God brings Abraham out of his homeland''s danger (Ur, or the
-    fire) [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    fire) [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one put to death on the testimony of a single witness (weight
-    5.4). Pair score 5.4.'
+    6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Cities of refuge, boundary stones, false witnesses: Axe head slips off the handle while
     cutting wood and kills a companion (accidental homicide); Deliberate murderer who flees to refuge
@@ -28,8 +28,8 @@ evidence:
     witness receives the punishment he plotted for his brother; How many witnesses a charge requires [divergence
     between the texts]; A place of refuge for one who kills unintentionally [divergence between the texts];
     How many witnesses are required [divergence between the texts]; Retaliation (talion) for killing or
-    injury [divergence between the texts]; The ''redeemer of blood'' (go''el ha-dam) kills the murderer;
-    Six cities of refuge for the unintentional killer, three on each side of the Jordan; and 2 more.'
+    injury [divergence between the texts]; Six cities of refuge for the unintentional killer, three on
+    each side of the Jordan; Eye for an eye, tooth for a tooth (lex talionis); and 2 more.'
   basis: reading
 - text: 'Only in Witnesses to a bequest made far from home: Two just witnesses attend a bequest at death;
     on a journey two outsiders may serve; If the witnesses are found guilty, two of the wronged heirs

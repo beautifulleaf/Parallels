@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel made to drink the golden calf [divergence between the texts]
-    (weight 6.7); The idol is burned, ground to powder, scattered on water and the people made to drink
-    it (weight 6.7). Pair score 13.4.'
+    (weight 7.7); The idol is burned, ground to powder, scattered on water and the people made to drink
+    it (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -37,13 +37,14 @@ evidence:
 - text: 'Only in Polemic with the People of the Book: The love of the calf was made to sink (be drunk)
     into their hearts; If the next world is yours alone, wish for death: they never will; Enmity to Gabriel
     and Michael (Mikal) equated with enmity to God; Gabriel (Jibril) brings down the revelation upon the
-    prophet''s heart; Some wish to be granted a life of a thousand years; Worship of God alone joined
-    to duty to parents [divergence between the texts]; Claim that the fire will touch them only for a
-    few numbered days, rebutted; Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna);
-    Woe to those who write the book with their own hands and say it is from God, for a small price; Hypocrites
-    profess faith before believers and tell their own ''devils'' in private they were only mocking; Jesus
-    son of Mary given clear signs and supported with the holy spirit (ruh al-qudus); Michael, ''one of
-    the chief princes'', the great prince who stands over Israel; and 15 more.'
+    prophet''s heart; Some wish to be granted a life of a thousand years; Whether anyone added words to,
+    or took words from, a sacred or ancient written text [divergence between the texts]; What is drunk
+    at the making of a covenant, and what the drinking does [divergence between the texts]; Worship of
+    God alone joined to duty to parents [divergence between the texts]; Claim that the fire will touch
+    them only for a few numbered days, rebutted; Israel at the mountain says ''we hear and we disobey''
+    (sami''na wa-''asayna); Woe to those who write the book with their own hands and say it is from God,
+    for a small price; Hypocrites profess faith before believers and tell their own ''devils'' in private
+    they were only mocking; and 18 more.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

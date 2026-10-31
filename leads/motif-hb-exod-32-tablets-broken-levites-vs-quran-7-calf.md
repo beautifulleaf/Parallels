@@ -13,8 +13,8 @@ traditions:
 layers:
 - motif
 motifs:
-- punishment-for-the-calf-as-divergence
 - aarons-defense-over-the-calf-as-divergence
+- punishment-for-the-calf-as-divergence
 - moses-joins-himself-to-the-guilty-as-divergence
 - tablets-broken
 - calf-lows
@@ -23,13 +23,13 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How the calf-worshippers are punished [divergence between the texts]
-    (weight 6.7); Aaron answers Moses'' rebuke over the calf [divergence between the texts] (weight 6.7);
-    Moses includes himself with the guilty people in his plea after the calf [divergence between the texts]
-    (weight 6.7); The prophet breaks the tablets in anger at the idolatry (weight 6.3); The idol calf
-    is a body that makes a lowing sound (khuwar) (weight 6.3); What becomes of the first tablets after
-    the calf: broken and replaced, or cast down and taken up again [divergence between the texts] (weight
-    5.8). Pair score 38.4.'
+- text: 'Shared motifs, rarest first: Aaron answers Moses'' rebuke over the calf [divergence between the
+    texts] (weight 7.7); How the calf-worshippers are punished [divergence between the texts] (weight
+    7.7); Moses includes himself with the guilty people in his plea after the calf [divergence between
+    the texts] (weight 7.7); The prophet breaks the tablets in anger at the idolatry (weight 7.3); The
+    idol calf is a body that makes a lowing sound (khuwar) (weight 7.3); What becomes of the first tablets
+    after the calf: broken and replaced, or cast down and taken up again [divergence between the texts]
+    (weight 6.8). Pair score 44.7.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -51,7 +51,7 @@ evidence:
     for Aaron, with whom God was angry enough to destroy him; God''s mercy encompasses all things; Moses
     prays for Aaron after the calf [divergence between the texts]; Moses ''stood in the breach'' (pérets)
     before God to turn back his wrath from destroying the people; After the calf the people mourn or repent
-    of what they did [divergence between the texts]; and 10 more.'
+    of what they did [divergence between the texts]; and 11 more.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

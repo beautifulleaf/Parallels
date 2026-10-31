@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The rank of the first human relative to the heavenly beings [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 8 - what is man: The heavens, moon and stars are the work of God''s fingers; Man
     made a little lower than elohim and crowned with glory and honor; Refrain: ''How majestic is your
@@ -36,11 +36,13 @@ evidence:
     to lead all humans astray except God''s sincere servants; The prophet asks no wage and is not one
     of the pretenders (mutakallifin); God created Adam ''with my two hands''; God commands the angels
     to prostrate to Adam; all do except Iblis, who refuses; God''s word: ''I will fill hell with jinn
-    and humans all together''; Deity breathes the breath of life into the first human''s nostrils [divergence
-    between the texts]; The devil argues he is better than man because he was made of fire and man of
-    clay; God expels Iblis as accursed (rajim) with a curse until the Day of Judgment; The devil asks
-    for and is granted respite until the day the dead are raised; Deity breathes the breath of life into
-    the first human''s nostrils; First human shaped from dust, clay or soil.'
+    and humans all together''; In the divine assembly some withhold the obeisance the others perform [divergence
+    between the texts]; Deity breathes the breath of life into the first human''s nostrils [divergence
+    between the texts]; The creator declares ''I am the one who created, my hands have made it''; The
+    devil argues he is better than man because he was made of fire and man of clay; God expels Iblis as
+    accursed (rajim) with a curse until the Day of Judgment; The devil asks for and is granted respite
+    until the day the dead are raised; Deity breathes the breath of life into the first human''s nostrils;
+    and 1 more.'
   basis: reading
 - text: 'Psalm 8 - what is man: tagged by Claude (model), reading the Hebrew.'
   basis: reading

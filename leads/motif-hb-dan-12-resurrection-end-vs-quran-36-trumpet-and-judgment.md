@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The resurrected cry ''Woe to us, who has raised us from our sleeping
-    place (marqad)?'' (weight 6.7); Your dead shall live, their corpses rise; dwellers in the dust shall
-    awake and sing (weight 4.9). Pair score 11.6.'
+    place (marqad)?'' (weight 7.7); Your dead shall live, their corpses rise; dwellers in the dust shall
+    awake and sing (weight 6.0). Pair score 13.7.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition
@@ -46,8 +46,8 @@ evidence:
     when they wake from the dust [divergence between the texts]; A horn blown on the last day, and whom
     it gathers [divergence between the texts]; The prophet heard or dismissed as a poet or singer [divergence
     between the texts]; If God willed he would blot out their eyes or transform them (maskh) in their
-    places so they could neither go on nor return; On judgment day tongues, hands and feet testify against
-    people; No host from heaven was needed: a single Shout (sayha) and they were extinguished; and 1 more.'
+    places so they could neither go on nor return; The dead wake in their resting place [divergence between
+    the texts]; On judgment day tongues, hands and feet testify against people; and 3 more.'
   basis: reading
 - text: 'Michael arises, the resurrection, and the sealed book: tagged by Claude (model), reading the
     Hebrew.'

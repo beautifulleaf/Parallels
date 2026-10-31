@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The righteous does not slander with his tongue or take up reproach
-    against his neighbor (weight 6.7). Pair score 6.7.'
+    against his neighbor (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 15 - who may dwell on your holy mountain: The righteous keeps his oath even to
     his own hurt and does not change; Entrance liturgy: ''Who may dwell on your holy mountain?'' answered
@@ -30,9 +30,10 @@ evidence:
     giving to kin, the poor and emigrants, but pardon and overlook; A band spreads a lie (ifk) against
     a chaste believing woman; the community is rebuked for not dismissing it; Corrupt women are for corrupt
     men and good women for good men; Whoever accuses a chaste woman without four witnesses is flogged
-    eighty lashes and his testimony is never accepted; On judgment day tongues, hands and feet testify
-    against people; Hatred stirs up strife, but love covers all offenses; Do not spread false reports
-    or follow the majority to do wrong in court; Do not go about as a talebearer among your people.'
+    eighty lashes and his testimony is never accepted; A wife about whom a lie has been told to her husband;
+    On judgment day tongues, hands and feet testify against people; Hatred stirs up strife, but love covers
+    all offenses; Do not spread false reports or follow the majority to do wrong in court; Do not go about
+    as a talebearer among your people.'
   basis: reading
 - text: 'Psalm 15 - who may dwell on your holy mountain: tagged by Claude (model), reading the Hebrew.'
   basis: reading

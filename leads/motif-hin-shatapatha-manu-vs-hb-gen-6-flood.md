@@ -16,14 +16,14 @@ motifs:
 - vessel-rests-on-mountain
 - sacrifice-after-flood
 - build-vessel-on-instruction
-- hero-warned-by-deity
 - universal-destruction
+- hero-warned-by-deity
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Vessel comes to rest on a named mountain (weight 5.4); Hero offers
-    sacrifice after leaving the vessel (weight 5.4); Hero builds a vessel on divine instruction (weight
-    5.2); Hero privately warned of the coming flood by a deity (weight 5.1); All others perish (weight
-    5.0). Pair score 26.1.'
+- text: 'Shared motifs, rarest first: Vessel comes to rest on a named mountain (weight 6.4); Hero offers
+    sacrifice after leaving the vessel (weight 6.2); Hero builds a vessel on divine instruction (weight
+    6.2); All others perish (weight 5.9); Hero privately warned of the coming flood by a deity (weight
+    5.8). Pair score 30.5.'
   basis: reading
 - text: 'Manu and the fish (Śatapatha Brāhmaṇa 1.8.1): tagged by Claude (model), from secondary knowledge.'
   basis: scholarship
@@ -85,23 +85,6 @@ matches:
       text: וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה
     note: tevah of gopher wood with qinnim (rooms/reeds)
 - kind: shared
-  label: Hero privately warned of the coming flood by a deity
-  sides:
-  - tradition: hinduism
-    passages:
-    - ref: 'Manu and the fish (Śatapatha Brāhmaṇa 1.8.1): 1.8.1'
-    note: the fish
-  - tradition: judaism
-    passages:
-    - ref: Gen 6:13
-      lang: he
-      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-    - ref: Gen 6:17
-      lang: he
-      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
-        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
-- kind: shared
   label: All others perish
   sides:
   - tradition: hinduism
@@ -121,6 +104,23 @@ matches:
       text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
         וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
         בַּתֵּבָֽה
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: hinduism
+    passages:
+    - ref: 'Manu and the fish (Śatapatha Brāhmaṇa 1.8.1): 1.8.1'
+    note: the fish
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
 ---
 
 ## Questions

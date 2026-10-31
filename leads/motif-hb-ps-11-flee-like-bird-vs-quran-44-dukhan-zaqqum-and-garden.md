@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Angels drag the sinner into the midst of hellfire and pour boiling
-    water (hamim) over his head (weight 6.7). Pair score 6.7.'
+    water (hamim) over his head (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 11 - in YHWH I take refuge: The righteous is told to flee like a bird to the mountain;
     If the foundations (shatot) are destroyed, what can the righteous do?; God''s throne is in heaven;
-    his eyes behold and his eyelids test humankind; God rains coals, fire, sulfur and scorching wind on
-    the wicked as the portion of their cup; The upright shall behold God''s face; The wicked bend the
-    bow and fit the arrow to shoot the upright in darkness; The ''frequented House'' (al-bayt al-ma''mur),
-    understood as a heavenly sanctuary above the Ka''ba visited by angels; God rains sulfur and fire from
-    heaven on cities; Superscription ''for the leader/choirmaster'' (lamenatseah).'
+    his eyes behold and his eyelids test humankind; The upright shall behold God''s face; The wicked bend
+    the bow and fit the arrow to shoot the upright in darkness; The ''frequented House'' (al-bayt al-ma''mur),
+    understood as a heavenly sanctuary above the Ka''ba visited by angels; God rains coals, fire, sulfur
+    and scorching wind on the wicked as the portion of their cup; God rains sulfur and fire from heaven
+    on cities; Superscription ''for the leader/choirmaster'' (lamenatseah).'
   basis: reading
 - text: 'Only in Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade
     and the houris: The Day of Sorting/Decision (yawm al-fasl) is the appointed time for all; The blessed
@@ -39,8 +39,8 @@ evidence:
     The damned man is taunted: ''Taste! You are the mighty, the noble!''; In paradise they taste no death
     except the first death; On that day no patron (mawla) can avail his client at all; The people of Tubba''
     (the Himyarite kings of Yemen) as a destroyed people; A tree whose fruit is food, in Eden or in hell
-    [contrast between the texts]; Neither their silver nor their gold can save them on the day of YHWH''s
-    wrath; and 4 more.'
+    [contrast between the texts]; The blessed will not die except their first death and will not be punished;
+    and 6 more.'
   basis: reading
 - text: 'Psalm 11 - in YHWH I take refuge: tagged by Claude (model), reading the Hebrew.'
   basis: reading

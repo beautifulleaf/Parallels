@@ -14,37 +14,39 @@ traditions:
 layers:
 - motif
 motifs:
-- test-by-loss-of-goods-and-children-as-divergence
 - lord-gave-lord-has-taken
+- test-by-loss-of-goods-and-children-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God''s test by loss of goods, lives and children [divergence between
-    the texts] (weight 6.7); ''YHWH gave and YHWH has taken; blessed be the name of YHWH'' (weight 6.7).
-    Pair score 13.4.'
+- text: 'Shared motifs, rarest first: ''YHWH gave and YHWH has taken; blessed be the name of YHWH'' (weight
+    7.7); God''s test by loss of goods, lives and children [divergence between the texts] (weight 7.7).
+    Pair score 15.5.'
   basis: reading
 - text: 'Only in Job''s piety, the heavenly council and the first test: The verb ''bless'' (barekh) used
     as a scribal euphemism for cursing God; Grown sons hold feasts in turn, each on his day, and invite
     their sisters; A great wind from the desert strikes the four corners of the house and it falls on
     the feasting children; God has set a protective hedge around the righteous man, his house and goods;
     ''Fire of God'' falls from heaven and consumes flocks and servants; Messenger after messenger arrives
-    while the last is still speaking, each the sole survivor of a disaster; ''I alone escaped to tell
-    you''; ''Does he fear God for nothing?'': piety suspected of being motivated by reward; The exemplary
-    righteous man is a non-Israelite living in the land of Uz in the east; Father offers burnt offerings
-    in case his children ''blessed'' (cursed) God in their hearts; A blessed man has seven sons and three
-    daughters; Mourner shaves his head and falls to the ground; and 19 more.'
+    while the last is still speaking, each the sole survivor of a disaster; ''Does he fear God for nothing?'':
+    piety suspected of being motivated by reward; The exemplary righteous man is a non-Israelite living
+    in the land of Uz in the east; Father offers burnt offerings in case his children ''blessed'' (cursed)
+    God in their hearts; Mourner shaves his head and falls to the ground; A patriarch''s wealth is listed
+    in precise numbers of sheep, camels, oxen and asses; Humans are presented before God in rows, coming
+    as they were first created; and 19 more.'
   basis: reading
 - text: 'Only in Patience, Safa and Marwa, signs of creation: On seeing the punishment, those followed
     disown their followers, who wish for a return to disown them in turn; Safa and Marwa are among God''s
     waymarks; circuit between them permitted on pilgrimage; Formula of the afflicted: ''To God we belong
-    and to him we return''; Those slain in God''s way are not dead but alive, provided for with their
-    Lord; Those who conceal the revealed signs are cursed by God and by all who curse; God''s covenant
-    with Israel is as sure as the fixed order of sun, moon, stars and sea; Ships go to and fro on the
-    great sea; Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving
-    dead earth, beasts, winds, clouds; Hear O Israel: YHWH our God, YHWH is one; Declaration that YHWH
-    is God and there is no other besides him; Rain from the sky gives life to the earth after its death,
-    a sign of resurrection.'
+    and to him we return''; In affliction the person declares ''I belong to (the god)''; ''If only (the
+    enemy / the wrongdoers) knew or saw'' the god''s strength (formula); Those who conceal the revealed
+    signs are cursed by God and by all who curse; God''s covenant with Israel is as sure as the fixed
+    order of sun, moon, stars and sea; Those slain in God''s way are not dead but alive, provided for
+    with their Lord; The dead are declared ''not dead, but alive'' [neutral] [divergence between the texts];
+    Ships go to and fro on the great sea; Catalogue of signs: heavens and earth, alternation of night
+    and day, ships, rain reviving dead earth, beasts, winds, clouds; Hear O Israel: YHWH our God, YHWH
+    is one; and 2 more.'
   basis: reading
 - text: 'Job''s piety, the heavenly council and the first test: tagged by Claude (model), reading the
     Hebrew.'

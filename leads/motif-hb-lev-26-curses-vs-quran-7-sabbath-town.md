@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Curse: God will scatter the people among the nations (weight 5.4).
-    Pair score 5.4.'
+- text: 'Shared motifs, rarest first: Curse: God will scatter the people among the nations (weight 6.5).
+    Pair score 6.5.'
   basis: reading
 - text: 'Only in Covenant curses, exile, and remembered covenant: Curse: your corpses will be heaped on
     the corpses of your idols; Punishments escalate sevenfold each time the people do not listen; Curse
@@ -30,8 +30,8 @@ evidence:
     like iron and the earth like bronze; Curse: ten women bake bread in one oven and it is doled out by
     weight; Humiliation is stamped on them wherever found except under a rope from God and a rope from
     men; While the people are in exile, the desolate land makes up its missed sabbath years; The people''s
-    ''uncircumcised heart'' must be humbled [divergence between the texts]; Curse: you will eat the flesh
-    of your sons and daughters; and 6 more.'
+    ''uncircumcised heart'' must be humbled [divergence between the texts]; God remembers his covenant
+    with Jacob, Isaac and Abraham even in exile; and 6 more.'
   basis: reading
 - text: 'Only in The Sabbath-breaking seaside town turned into apes: Fish come openly to a seaside town
     on the Sabbath but not on other days, as a test; Transgressors are turned into despised apes; God

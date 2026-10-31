@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The son, consulted by his father, consents: ''Father, do what you
-    are commanded; you will find me patient'' (weight 6.7). Pair score 6.7.'
+    are commanded; you will find me patient'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jephthah''s vow and the sacrifice of his only daughter: The daughters of Israel go yearly
     for four days to commemorate her; The daughter comes out with timbrels and dances to greet the returning
@@ -37,7 +37,7 @@ evidence:
     [divergence between the texts]; The father lays the son down for the sacrifice [divergence between
     the texts]; Who the son to be sacrificed is and how he is named [divergence between the texts]; Lot
     believes in Abraham, who declares ''I am emigrating to my Lord''; A ram caught in a thicket is sacrificed
-    in place of the son; and 9 more.'
+    in place of the son; and 11 more.'
   basis: reading
 - text: 'Jephthah''s vow and the sacrifice of his only daughter: tagged by Claude (model), reading the
     Hebrew.'

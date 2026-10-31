@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people walk on dry ground through the sea with the waters as
-    a wall on either side (weight 5.3). Pair score 5.3.'
+    a wall on either side (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Psalm 106, national confession of sins from Egypt to exile: Israel ate ''sacrifices of
     the dead'' (zivhei metim) at Baal-peor; God caused the exiles to be pitied by all their captors; God
@@ -28,9 +28,10 @@ evidence:
     reckoned to him as righteousness for all generations''; Israel ''yokes itself'' to Baal of Peor; List
     of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning; The
     people exchanged their Glory for the image of an ox that eats grass; Moses ''stood in the breach''
-    (pérets) before God to turn back his wrath from destroying the people; Speaker confesses personal
-    sin and pleads for forgiveness and cleansing; God turned the sea into dry land and they crossed the
-    river on foot; Shed blood pollutes the land and only the killer''s blood atones for it; and 16 more.'
+    (pérets) before God to turn back his wrath from destroying the people; God turned the sea into dry
+    land and they crossed the river on foot; Shed blood pollutes the land and only the killer''s blood
+    atones for it; A closing doxology and the divine title it uses [divergence between the texts]; and
+    16 more.'
   basis: reading
 - text: 'Only in Moses asks Pharaoh to hand over God''s servants; the sea left parted; heaven did not
     weep: The drowned Egyptians left gardens, springs, crops and noble dwellings, which God gave another
@@ -38,11 +39,12 @@ evidence:
     the sea parted and still (rahwan), for Pharaoh''s host will be drowned; What Moses demands of Pharaoh
     in God''s name [divergence between the texts]; Sacrificial meal eaten in haste, loins girded, sandals
     on, staff in hand; Who, if anyone, inherits Egypt''s land after the exodus [divergence between the
-    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; God chose
-    the Children of Israel, knowingly, above the worlds and tested them with signs; What Moses does with
-    the sea after the crossing [divergence between the texts]; How Israel leaves Egypt by night: expelled,
-    or secretly [divergence between the texts]; The prophet seeks refuge in God from being stoned by his
-    people; Whether heaven and earth mourn a destroyed people [contrast between the texts]; and 2 more.'
+    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; Whether
+    heaven and earth mourn a destroyed people; God chose the Children of Israel, knowingly, above the
+    worlds and tested them with signs; What Moses does with the sea after the crossing [divergence between
+    the texts]; How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts];
+    A city, or heaven and earth, weeps (or does not weep) over a people in disaster [divergence between
+    the texts]; and 5 more.'
   basis: reading
 - text: 'Psalm 106, national confession of sins from Egypt to exile: tagged by Claude (model), reading
     the Hebrew.'

@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Stars and constellations (kesilim) give no light, the sun is dark
-    at its rising and the moon does not shine (weight 6.3). Pair score 6.3.'
+    at its rising and the moon does not shine (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Oracle against Babylon; the Day of YHWH darkens the heavens: Babylon, glory of kingdoms,
     will be overthrown like Sodom and Gomorrah; Wordplay: the Day comes ''like destruction (shod) from
     Shaddai''; God makes the heavens tremble and the earth shake from its place on the day of his wrath;
     God makes mortals rarer than fine gold, humans than the gold of Ophir; God stirs up the Medes, who
     care nothing for silver or gold; God musters his consecrated ones and mighty men; a host from the
-    end of heaven, the weapons of his wrath; Ruined city never reinhabited, even by Arab tents or shepherds;
-    inhabited by desert creatures, ostriches, jackals and dancing goat-demons (se''irim); The quake of
-    the Hour: every nursing mother forgets her suckling, every pregnant one miscarries, people seem drunk
-    though not drunk; The people''s terror is like the pangs of a woman in labor with her first child;
-    Oracle headed ''massa'' (burden) against a named nation or place; The Day of YHWH: a coming day of
-    divine judgment, terror and darkness; Brief oracles against neighboring nations (Amalek, Kenite, Asshur,
+    end of heaven, the weapons of his wrath; The quake of the Hour: every nursing mother forgets her suckling,
+    every pregnant one miscarries, people seem drunk though not drunk; Ruined city never reinhabited,
+    even by Arab tents or shepherds; inhabited by desert creatures, ostriches, jackals and dancing goat-demons
+    (se''irim); The people''s terror is like the pangs of a woman in labor with her first child; Oracle
+    headed ''massa'' (burden) against a named nation or place; The Day of YHWH: a coming day of divine
+    judgment, terror and darkness; Brief oracles against neighboring nations (Amalek, Kenite, Asshur,
     Kittim).'
   basis: reading
 - text: 'Only in Those sent forth: the refrain of woe: Humans created from a despised fluid placed in

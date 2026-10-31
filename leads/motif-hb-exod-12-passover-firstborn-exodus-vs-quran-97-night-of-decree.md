@@ -18,18 +18,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The exodus night is a ''night of watching'' for God and for Israel
-    through the generations (weight 6.7). Pair score 6.7.'
+    through the generations (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: Sacrificial blood
-    daubed on the doorposts and lintel protects the household; No one may leave the house until morning
-    on the night of the destroyer; The people carry their unleavened dough in kneading-troughs on their
-    shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival days are holy convocations
-    on which no work is done except preparing food; Small households join neighbors to share one sacrificial
-    lamb; Defeated king asks the departing prophet to bless him too; Leaven must be removed from houses;
-    whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites leaves Egypt with Israel;
-    The spring exodus month becomes the first month of the year; No bone of the paschal sacrifice may
-    be broken; No uncircumcised foreigner may eat the Passover; circumcised slaves and converts may; and
-    18 more.'
+- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: No one may leave
+    the house until morning on the night of the destroyer; The people carry their unleavened dough in
+    kneading-troughs on their shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival
+    days are holy convocations on which no work is done except preparing food; Small households join neighbors
+    to share one sacrificial lamb; Defeated king asks the departing prophet to bless him too; Leaven must
+    be removed from houses; whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites
+    leaves Egypt with Israel; The spring exodus month becomes the first month of the year; No bone of
+    the paschal sacrifice may be broken; No uncircumcised foreigner may eat the Passover; circumcised
+    slaves and converts may; An unblemished yearling lamb selected on the tenth and slaughtered at twilight
+    on the fourteenth; and 18 more.'
   basis: reading
 - text: 'Only in The Night of Decree: On a holy night the angels and the Spirit descend by their Lord''s
     permission with every command; it is peace until dawn; Scripture sent down on the Night of Decree

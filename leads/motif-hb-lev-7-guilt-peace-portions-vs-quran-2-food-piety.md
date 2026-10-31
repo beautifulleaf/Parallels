@@ -18,7 +18,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Eating blood is forbidden (weight 5.6). Pair score 5.6.'
+- text: 'Shared motifs, rarest first: Eating blood is forbidden (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Guilt and well-being offerings; priests'' portions; fat and blood bans: Fat of a carcass
     or torn animal may be used for work but not eaten; An impure person who eats sacred meat is cut off;

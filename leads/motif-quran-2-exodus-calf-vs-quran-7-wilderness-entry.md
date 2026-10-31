@@ -12,18 +12,18 @@ traditions:
 layers:
 - motif
 motifs:
-- twelve-springs-as-divergence
 - enter-gate-prostrate-say-hitta
+- twelve-springs-as-divergence
 - water-from-struck-rock
 - twelve-springs-seventy-palms
 - pillar-of-cloud-and-fire
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Twelve springs in the wilderness [divergence between the texts]
-    (weight 6.3); Israel told to enter the town''s gate prostrating and say ''hitta'' (remission); the
-    wrongdoers change the word (weight 6.3); Prophet strikes a rock and water flows out for the people
-    (weight 6.3); Oasis with twelve springs and seventy palm trees (weight 6.0); God leads the people
-    in a pillar of cloud by day and a pillar of fire by night (weight 5.1). Pair score 29.9.'
+- text: 'Shared motifs, rarest first: Israel told to enter the town''s gate prostrating and say ''hitta''
+    (remission); the wrongdoers change the word (weight 7.3); Twelve springs in the wilderness [divergence
+    between the texts] (weight 7.3); Prophet strikes a rock and water flows out for the people (weight
+    7.3); Oasis with twelve springs and seventy palm trees (weight 7.1); God leads the people in a pillar
+    of cloud by day and a pillar of fire by night (weight 6.1). Pair score 35.2.'
   basis: reading
 - text: 'Only in Exodus, the calf and the wilderness: Israelites who demanded to see God are struck by
     a thunderbolt and then raised after their death; Who or what parts the sea [divergence between the
@@ -51,7 +51,8 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Twelve springs in the wilderness
+finding: Israel told to enter the town's gate prostrating and say 'hitta' (remission); the wrongdoers
+  change the word
 kinds:
 - shared
 units:
@@ -62,6 +63,26 @@ units:
   title: Twelve tribes, twelve springs, and the word changed at the gate
   tradition: islam
 matches:
+- kind: shared
+  label: Israel told to enter the town's gate prostrating and say 'hitta' (remission); the wrongdoers
+    change the word
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:58
+      lang: ar
+      text: وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟
+        ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ
+    - ref: Quran 2:59
+      lang: ar
+      text: فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ
+        ظَلَمُوا۟ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:161
+      lang: ar
+      text: وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟
+        حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ سَنَزِيدُ ٱلْمُحْسِنِينَ
 - kind: shared
   label: Twelve springs in the wilderness
   sides:
@@ -89,26 +110,6 @@ matches:
       vs šᵉtêm ʿeśrēh ʿênōt mayim wᵉšibʿîm tᵉmārîm (ʿayn = ʿayin). Elim''s natural oasis becomes the miracle
       of the struck rock, and the twelve springs are tied to the twelve tribes (ithnatay ʿashrata asbāṭan;
       asbāṭ = šᵉbāṭîm); the seventy palms are dropped.'
-- kind: shared
-  label: Israel told to enter the town's gate prostrating and say 'hitta' (remission); the wrongdoers
-    change the word
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 2:58
-      lang: ar
-      text: وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟
-        ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ
-    - ref: Quran 2:59
-      lang: ar
-      text: فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ
-        ظَلَمُوا۟ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
-  - tradition: islam
-    passages:
-    - ref: Quran 7:161
-      lang: ar
-      text: وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟
-        حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ سَنَزِيدُ ٱلْمُحْسِنِينَ
 - kind: shared
   label: Prophet strikes a rock and water flows out for the people
   sides:

@@ -20,20 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses ''stood in the breach'' (pérets) before God to turn back his
-    wrath from destroying the people (weight 6.7); The people exchanged their Glory for the image of an
-    ox that eats grass (weight 6.7); People make a molten calf while the leader is on the mountain (weight
-    4.7). Pair score 18.1.'
+    wrath from destroying the people (weight 7.7); The people exchanged their Glory for the image of an
+    ox that eats grass (weight 7.7); People make a molten calf while the leader is on the mountain (weight
+    5.8). Pair score 21.3.'
   basis: reading
 - text: 'Only in Psalm 106, national confession of sins from Egypt to exile: Israel ate ''sacrifices of
     the dead'' (zivhei metim) at Baal-peor; God caused the exiles to be pitied by all their captors; God
     grants the people''s wilderness craving but sends wasting (razon) into their souls; Provoked at Meribah,
     Moses spoke rashly with his lips and suffered because of the people; Phinehas''s intervention ''was
     reckoned to him as righteousness for all generations''; Israel ''yokes itself'' to Baal of Peor; List
-    of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning; Speaker
-    confesses personal sin and pleads for forgiveness and cleansing; God turned the sea into dry land
-    and they crossed the river on foot; Shed blood pollutes the land and only the killer''s blood atones
-    for it; A closing doxology and the divine title it uses [divergence between the texts]; Egypt is called
-    ''the tents of Ham'' or ''the land of Ham''; and 14 more.'
+    of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning; God
+    turned the sea into dry land and they crossed the river on foot; Shed blood pollutes the land and
+    only the killer''s blood atones for it; A closing doxology and the divine title it uses [divergence
+    between the texts]; Egypt is called ''the tents of Ham'' or ''the land of Ham''; Patriarch believes
+    God and it is counted to him as righteousness; and 14 more.'
   basis: reading
 - text: 'Only in The lowing calf and the seventy: Aaron pleads ''son of my mother, the people overpowered
     me and almost killed me''; The angry prophet seizes his brother by the head (and beard), dragging
@@ -44,7 +44,7 @@ evidence:
     for Aaron, with whom God was angry enough to destroy him; God''s mercy encompasses all things; Moses
     includes himself with the guilty people in his plea after the calf [divergence between the texts];
     Moses prays for Aaron after the calf [divergence between the texts]; After the calf the people mourn
-    or repent of what they did [divergence between the texts]; and 13 more.'
+    or repent of what they did [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Psalm 106, national confession of sins from Egypt to exile: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,27 +19,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Two golden cherubim face each other with wings spread over the ark
-    (weight 5.4). Pair score 5.4.'
+    (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Cedar paneling, gold, the inner sanctuary and the cherubim: Two cherubim of olive wood,
     ten cubits high, whose outstretched wings span the inner sanctuary wall to wall; The inner sanctuary
-    (devir) is a perfect cube of twenty cubits overlaid with pure gold; The temple takes seven years to
-    build, completed in the eighth month (Bul); Temple walls and doors are carved with cherubim, palm
-    trees and open flowers, overlaid with gold; The innermost room, the holy of holies, holds the ark;
-    Archaic (Canaanite/Phoenician) month names Ziv, Bul and Ethanim are used; Exact dimensions of the
-    temple building and its rooms are given in cubits; A small gold-plated altar for burning incense before
-    the veil.'
+    (devir) is a perfect cube of twenty cubits overlaid with pure gold; Temple walls and doors are carved
+    with cherubim, palm trees and open flowers, overlaid with gold; The temple takes seven years to build,
+    completed in the eighth month (Bul); Archaic (Canaanite/Phoenician) month names Ziv, Bul and Ethanim
+    are used; A small gold-plated altar for burning incense before the veil; The innermost room, the holy
+    of holies, holds the ark; Exact dimensions of the temple building and its rooms are given in cubits.'
   basis: reading
 - text: 'Only in David''s mountains and mail; Solomon''s wind, copper, jinn and staff: God made a spring
     of molten copper (or brass) flow for Solomon; The jinn did not know the unseen, else they would not
     have stayed in humiliating labor; Solomon dies leaning on his staff; only a creature of the earth
-    gnawing the staff reveals his death when he falls; David and the coat of mail [contrast between the
-    texts]; How Solomon died and how his death became known [divergence between the texts]; Rivers clap
-    their hands and mountains sing together before YHWH; How Solomon''s great bronze works were produced
-    [divergence between the texts]; God taught David the craft of making coats of mail; Who did Solomon''s
-    building and craft work [divergence between the texts]; The stormy wind is subjected to Solomon, blowing
-    at his command; A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing the four directions
-    in threes; Mountains and birds are made to glorify God together with David; and 1 more.'
+    gnawing the staff reveals his death when he falls; A superhuman craftsman casts metal vessels and
+    furniture for a lord [divergence between the texts]; David and the coat of mail [contrast between
+    the texts]; A king covers a journey of many stages in a single day [divergence between the texts];
+    How Solomon died and how his death became known [divergence between the texts]; How Solomon''s great
+    bronze works were produced [divergence between the texts]; God taught David the craft of making coats
+    of mail; Rivers clap their hands and mountains sing together before YHWH; Who did Solomon''s building
+    and craft work [divergence between the texts]; The stormy wind is subjected to Solomon, blowing at
+    his command; and 3 more.'
   basis: reading
 - text: 'Cedar paneling, gold, the inner sanctuary and the cherubim: tagged by Claude (model), reading
     the Hebrew.'

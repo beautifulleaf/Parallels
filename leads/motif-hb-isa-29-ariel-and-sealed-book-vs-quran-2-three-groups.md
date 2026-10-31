@@ -24,10 +24,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Revelation as a sealed or an open book [contrast between the texts]
-    (weight 6.7); The hypocrites try to deceive God, but it is he who deceives them (weight 6.3); This
+    (weight 7.7); The hypocrites try to deceive God, but it is he who deceives them (weight 7.3); This
     people honors God with lips while its heart is far; its fear of him is a commandment of men learned
-    by rote (weight 6.0); God sets a seal on the unbelievers'' hearts and hearing and a covering over
-    their eyes (weight 5.3). Pair score 24.3.'
+    by rote (weight 7.1); God sets a seal on the unbelievers'' hearts and hearing and a covering over
+    their eyes (weight 6.4). Pair score 28.5.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be
@@ -48,12 +48,12 @@ evidence:
     for the God-fearing; Unbelievers called ''deaf, dumb, blind'' (summun bukmun umyun); Parable: one
     kindles a fire, and when it lights his surroundings God takes away the light, leaving him in darkness;
     Parable: travelers in a rainstorm of darkness, thunder and lightning put fingers in their ears for
-    fear of death; Woe to those who call evil good and good evil, darkness light and bitter sweet; God
-    scorns the scorners but gives grace to the humble; Hardening of the heart, ears and eyes of the hearers
-    [divergence between the texts]; Who is blind but my servant, deaf like my messenger? Israel sees much
-    but does not observe; Hypocrites profess faith before believers and tell their own ''devils'' in private
-    they were only mocking; Who is called blind and deaf toward God''s word [divergence between the texts];
-    God in heaven laughs at and mocks those who plot against him or the righteous; and 2 more.'
+    fear of death; God scorns the scorners but gives grace to the humble; Hardening of the heart, ears
+    and eyes of the hearers [divergence between the texts]; Who is blind but my servant, deaf like my
+    messenger? Israel sees much but does not observe; Woe to those who call evil good and good evil, darkness
+    light and bitter sweet; Hypocrites profess faith before believers and tell their own ''devils'' in
+    private they were only mocking; Who is called blind and deaf toward God''s word [divergence between
+    the texts]; Saying with the tongue (mouth) what is not in the heart; and 3 more.'
   basis: reading
 - text: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay: tagged
     by Claude (model), reading the Hebrew.'

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Opponents refuse the prophet: ''We found our fathers on a way and
-    follow in their footsteps'' (weight 6.7). Pair score 6.7.'
+    follow in their footsteps'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Judeans in Egypt defend their cult of the Queen of Heaven: Worshipers argue their
     goddess cult brought plenty and abandoning it brought disaster; Women bake cakes bearing the image
@@ -29,9 +29,9 @@ evidence:
     fulfill their vows; Judeans settled in Egyptian cities: Migdol, Tahpanhes, Memphis and Pathros; Pharaoh
     Hophra will be handed over to those who seek his life; Events will show whose word will stand, God''s
     or the people''s; The wickedness of the kings of Judah and of their wives; Women burn incense to a
-    goddess, claiming they did so with their husbands'' knowledge; Offerings, incense and libations to
-    the ''Queen of Heaven''; God sends his messengers ''rising early and sending'' out of compassion;
-    and 2 more.'
+    goddess, claiming they did so with their husbands'' knowledge; God sends his messengers ''rising early
+    and sending'' out of compassion; Rejecters reply ''we follow what we found our fathers upon''; and
+    2 more.'
   basis: reading
 - text: 'Only in Ha-Mim: the Mother of the Book, the riding prayer and the ''daughters'' of God: When
     one of them is told of a daughter''s birth, his face darkens and he chokes with grief; A formula of

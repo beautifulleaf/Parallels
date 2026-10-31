@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Ad grow arrogant: ''Who is mightier than us in strength?'' (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 12 - flattering lips and God''s pure words: The godly man is gone; the faithful
     have vanished from among humankind; Embedded divine oracle: ''Because the poor are plundered, now

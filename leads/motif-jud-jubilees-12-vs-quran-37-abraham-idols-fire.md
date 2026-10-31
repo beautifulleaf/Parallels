@@ -20,8 +20,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero reasons from the stars, moon and sun to the one God (weight
-    5.8); Hero smashes or burns idols (weight 5.6); Hero''s father makes, sells or worships idols (weight
-    4.8). Pair score 16.2.'
+    6.8); Hero smashes or burns idols (weight 6.6); Hero''s father makes, sells or worships idols (weight
+    5.9). Pair score 19.4.'
   basis: reading
 - text: 'Abraham burns the house of idols (Jubilees 12): tagged by Claude (model), from secondary knowledge.'
   basis: scholarship

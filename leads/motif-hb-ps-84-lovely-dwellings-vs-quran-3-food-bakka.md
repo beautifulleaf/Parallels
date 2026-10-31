@@ -22,13 +22,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Baca / Bakka on the pilgrims'' way or as the House [divergence between
-    the texts] (weight 6.7); Pilgrims passing through the Valley of Baca (weeping/balsam) make it a place
-    of springs (weight 6.7); The House (Kaaba) made a place of return and security for mankind (weight
-    6.3). Pair score 19.7.'
+    the texts] (weight 7.7); Pilgrims passing through the Valley of Baca (weeping/balsam) make it a place
+    of springs (weight 7.7); The House (Kaaba) made a place of return and security for mankind (weight
+    7.3). Pair score 22.8.'
   basis: reading
-- text: 'Only in Psalm 84, how lovely are your dwellings; the sparrow at the altar: Sparrow and swallow
-    find a nest for their young at God''s altars; YHWH God is called a sun (shemesh) and a shield; Soul
-    longs and faints for the courts of YHWH, the living God; Wish to dwell in God''s tent or house forever;
+- text: 'Only in Psalm 84, how lovely are your dwellings; the sparrow at the altar: YHWH God is called
+    a sun (shemesh) and a shield; Soul longs and faints for the courts of YHWH, the living God; Sparrow
+    and swallow find a nest for their young at God''s altars; Wish to dwell in God''s tent or house forever;
     A day in God''s courts is better than a thousand elsewhere; better a doorkeeper than dwell in tents
     of wickedness; God gives strength to his king and exalts the horn of his anointed (messiah); Pilgrims
     go from strength to strength until each appears before God in Zion; Genealogy of Korah and his sons;

@@ -14,22 +14,22 @@ traditions:
 layers:
 - motif
 motifs:
-- night-terror-and-noonday-demon
 - apotropaic-psalm
+- night-terror-and-noonday-demon
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Protection from the terror of the night, the arrow by day, the pestilence
-    (dever) stalking in darkness and Qeteb that ravages at noon (weight 6.7); Psalm used as protection
-    against demons and harm (later amulet and ''song of plagues'') (weight 6.3). Pair score 13.0.'
+- text: 'Shared motifs, rarest first: Psalm used as protection against demons and harm (later amulet and
+    ''song of plagues'') (weight 7.3); Protection from the terror of the night, the arrow by day, the
+    pestilence (dever) stalking in darkness and Qeteb that ravages at noon (weight 7.3). Pair score 14.7.'
   basis: reading
-- text: 'Only in Psalm 91, shelter of the Most High; the noonday demon; angels bear you up: One who dwells
-    in the shelter of Elyon lodges in the shadow of Shaddai; God delivers from the snare of the fowler;
-    A thousand fall at your side, ten thousand at your right, but it does not come near you; The protected
-    one treads on lion and cobra, young lion and dragon (tannin); God commands his angels to guard the
-    faithful and bear him on their palms lest he strike his foot on a stone; Men used to seek refuge with
-    male jinn, who only increased them in burden [contrast between the texts]; Petitioner takes refuge
+- text: 'Only in Psalm 91, shelter of the Most High; the noonday demon; angels bear you up: God delivers
+    from the snare of the fowler; A thousand fall at your side, ten thousand at your right, but it does
+    not come near you; The protected one treads on lion and cobra, young lion and dragon (tannin); God
+    commands his angels to guard the faithful and bear him on their palms lest he strike his foot on a
+    stone; One who dwells in the shelter of Elyon lodges in the shadow of Shaddai; Men used to seek refuge
+    with male jinn, who only increased them in burden [contrast between the texts]; Petitioner takes refuge
     in the shadow of God''s wings; Resheph and Qeteb (plague deities/demons) sent as God''s arrows; A
     psalm quotes a first-person oracle of God; God called rock, fortress, refuge, stronghold or tower
     of strength.'
@@ -38,13 +38,13 @@ evidence:
     of darkness (or the moon) when it settles (ghasiq idha waqab); Refuge from the evil of an envier when
     he envies (evil eye); God is al-Samad (the Eternal Refuge, the solid one who needs nothing); Triple
     title: Lord of mankind, King of mankind, God of mankind; Refuge from the evil of the slinking whisperer
-    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; God does not beget
-    and was not begotten; God does not beget and was not begotten [contrast between the texts]; Protective
-    formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi) against named evils; Refuge
-    from the evil of those (women) who blow on knots (al-naffathat fi al-''uqad), i.e. knot-tying sorcery;
-    Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the Throne, the Glorious,
-    doer of what he wills; or Lord, King, God of mankind); ''To whom will you liken God, what likeness
-    compare to him?''; ''There is none like you and no God beside you''; and 1 more.'
+    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; Calling on a divine
+    name or seeking refuge with God protects a person in the dark of night; God does not beget and was
+    not begotten [contrast between the texts]; A deity is called king of (all) mankind; Protection against
+    beings or evil of the night, invoked with the coming of dawn; Protective formula ''Say: I seek refuge
+    with the Lord of...'' (qul a''udhu bi-rabbi) against named evils; Sorcery is done by binding or knotting;
+    Witchcraft worked by a (female) witch through knots or bonds, from which release or refuge is sought;
+    and 9 more.'
   basis: reading
 - text: 'Psalm 91, shelter of the Most High; the noonday demon; angels bear you up: tagged by Claude (model),
     reading the Hebrew.'

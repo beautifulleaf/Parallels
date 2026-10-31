@@ -19,20 +19,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The enemy''s horses are hamstrung and their chariots burned by divine
-    command (weight 6.0). Pair score 6.0.'
+    command (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Northern coalition under Jabin of Hazor; hamstrung horses; Anakim destroyed: An enemy
     army as numerous as the sand on the seashore; Hazor, ''head of all those kingdoms'', is the only city
-    burned in the north; The enemy is pursued as far as Great Sidon; The kings of the land form a coalition
-    against Israel; Foreigners have heard the fame of Israel''s God and what he did in Egypt; God hardens
-    an enemy king''s heart so he can be defeated; ''And the land had rest from war'' after conquest; Giant
-    descendants (Anakim / Nephilim) inhabit the land.'
+    burned in the north; The enemy is pursued as far as Great Sidon; Foreigners have heard the fame of
+    Israel''s God and what he did in Egypt; God hardens an enemy king''s heart so he can be defeated;
+    The kings of the land form a coalition against Israel; ''And the land had rest from war'' after conquest;
+    Giant descendants (Anakim / Nephilim) inhabit the land.'
   basis: reading
 - text: 'Only in Solomon''s steeds, the body on his throne, and the unmatched kingdom: God tested Solomon
     by placing a body (jasad) on his throne; then he repented; Devils serve Solomon as builders and divers,
     and others are bound together in fetters; Solomon asks for a kingdom such as no one after him should
     have; Fine steeds shown to Solomon in the evening distract him from remembrance of God until the sun
-    hides; he has them brought back and strokes (or slashes) their legs and necks; Solomon''s horses [divergence
+    hides; he has them brought back and strokes (or slashes) their legs and necks; No king after the speaker
+    will equal (or be given) what he has [divergence between the texts]; Solomon''s horses [divergence
     between the texts]; King keeps tens of thousands of chariot horses and horsemen; What Solomon asks
     of God and the gift none after him will match [divergence between the texts]; The stormy wind is subjected
     to Solomon, blowing at his command; Devils (shayāṭīn) and jinn labor for Solomon, diving and building;

@@ -19,28 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: King calls the prophet ''troubler of Israel'' (okher Yisra''el);
-    prophet returns the charge (weight 6.7). Pair score 6.7.'
+    prophet returns the charge (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Contest on Mount Carmel: Prophet repairs the ruined altar with twelve stones for the
     tribes of Jacob; Contest of gods: the god who answers by fire on an unlit sacrifice is God; The prophets
-    of Baal are seized and slaughtered at the brook Kishon; Prophets of Baal limp-dance around the altar
-    and gash themselves with swords and lances till blood flows; Prophet mocks the silent god: perhaps
-    he is musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched
-    with four jars of water three times, filling a trench, before the miracle; The people fall on their
-    faces crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; An offering consumed by fire
-    as proof of the true God or messenger [response between the texts]; Fire from heaven falls and consumes
-    the offering, wood, stones, dust and water; ''How long will you hop between two branches? If YHWH
-    is God, follow him; if Baal, follow him''; A single prophet of YHWH stands against 450 prophets of
-    Baal and 400 of Asherah; and 10 more.'
+    of Baal are seized and slaughtered at the brook Kishon; Prophet mocks the silent god: perhaps he is
+    musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched with
+    four jars of water three times, filling a trench, before the miracle; The people fall on their faces
+    crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and the
+    king''s religious specialists ends [contrast between the texts]; An offering consumed by fire as proof
+    of the true God or messenger [response between the texts]; Fire from heaven falls and consumes the
+    offering, wood, stones, dust and water; ''How long will you hop between two branches? If YHWH is God,
+    follow him; if Baal, follow him''; A single prophet of YHWH stands against 450 prophets of Baal and
+    400 of Asherah; How the people respond to the prophet''s challenge over Baal [divergence between the
+    texts]; and 10 more.'
   basis: reading
 - text: 'Only in Salih, the evil omen and the nine plotters of Thamud: The people say they augur ill (iṭṭayyarnā)
     of the prophet; he answers that their omen (ṭāʾir) is with God; The men of the prophet''s hometown
     seek his life: ''Do not prophesy in YHWH''s name or you will die by our hand''; Nine men of the city
     swear by God to attack the prophet and his family by night and deny it to his avenger; The prophet
     Ṣāliḥ is sent to the people of Thamūd; They plot a plot, and God plots a plot; give the deniers respite
-    a little; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent
-    to his people; The listeners walk among the dwellings of generations God destroyed, a sign.'
+    a little; Augury: a bird''s flight or alighting is an omen bound to a person [divergence between the
+    texts]; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to
+    his people; The listeners walk among the dwellings of generations God destroyed, a sign.'
   basis: reading
 - text: 'Contest on Mount Carmel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

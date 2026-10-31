@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Limits on how many wives the leader may take [divergence between
-    the texts] (weight 6.7); King must not multiply horses, wives or silver and gold, nor return the people
-    to Egypt (weight 5.3). Pair score 12.0.'
+    the texts] (weight 7.7); King must not multiply horses, wives or silver and gold, nor return the people
+    to Egypt (weight 6.4). Pair score 14.1.'
   basis: reading
 - text: 'Only in Idolater''s trial; witnesses; high court; law of the king: King writes a copy of the
     Torah and reads it all his days; King must be chosen by God from among brothers, not a foreigner;
@@ -30,9 +30,8 @@ evidence:
     gold and silver, branded horses, cattle and tillage; Difficult cases referred to the Levitical priests
     and judge at the chosen place; defiance is capital; Amassing war horses, and trust in God [contrast
     between the texts]; Blemished animal (lame, blind) may not be sacrificed; How many witnesses are required
-    [divergence between the texts]; Formula: you shall purge the evil from your midst; Prohibition of
-    worshipping sun, moon, stars, the host of heaven; No one put to death on the testimony of a single
-    witness.'
+    [divergence between the texts]; Prohibition of worshipping sun, moon, stars, the host of heaven; Formula:
+    you shall purge the evil from your midst; No one put to death on the testimony of a single witness.'
   basis: reading
 - text: 'Only in Divorce before consummation; the prophet''s marriages; the curtain and the cloaks: A
     wife divorced before consummation owes no waiting period (''idda); give her a gift and release her

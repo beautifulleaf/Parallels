@@ -19,7 +19,7 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero placed over the land''s storehouses or the kingdom (weight
-    5.6); Hero attributes his dream interpretation to God (weight 5.4). Pair score 11.0.'
+    6.6); Hero attributes his dream interpretation to God (weight 6.1). Pair score 12.8.'
   basis: reading
 - text: 'Only in The statue of four metals and the stone cut without hands: Destroyed kingdoms become
     like chaff from the summer threshing floors carried away by the wind; There is a God in heaven who
@@ -43,7 +43,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 107 more.'
+    brings back the missing royal cup, with a guarantor; and 145 more.'
   basis: reading
 - text: 'The statue of four metals and the stone cut without hands: tagged by Claude (model), reading
     the Aramaic.'

@@ -18,27 +18,27 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The temple as a house of rest for the ark and the footstool of God''s
-    feet (weight 6.7). Pair score 6.7.'
+    feet (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in David''s assembly speech and the written pattern of the temple: The cherubim over the
     ark are called ''the chariot'' (merkavah); God''s election narrows from tribe to family to man to
     the chosen son; Eunuchs (sarisim) serve among the royal officials; Multiple gold and silver lampstands
     and tables in the temple; The Davidic king sits on ''the throne of YHWH''; The king may not build
-    the temple because he is a man of war who shed much blood; Formula: be strong and courageous, do not
-    fear, God will not leave or forsake you; The dynasty''s continuance is conditioned on the heirs''
-    faithfulness; God looks on the heart, not on appearance or height; God declares the king his son:
-    ''I will be his father and he my son''; The sanctuary is built after a pattern shown by God on the
-    mountain.'
+    the temple because he is a man of war who shed much blood; The dynasty''s continuance is conditioned
+    on the heirs'' faithfulness; God looks on the heart, not on appearance or height; God declares the
+    king his son: ''I will be his father and he my son''; Formula: be strong and courageous, do not fear,
+    God will not leave or forsake you; The sanctuary is built after a pattern shown by God on the mountain.'
   basis: reading
 - text: 'Only in Ranks of the messengers and the Throne Verse: God''s footstool or seat (kursi) extends
     over the heavens and the earth; No compulsion in religion; Neither slumber nor sleep overtakes God;
-    God''s throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false
-    gods (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber
-    or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day
-    comes with no trade, no friendship and no intercession; Jesus son of Mary given clear signs and supported
-    with the holy spirit (ruh al-qudus); Israel''s God is called ''the living God, enduring forever, whose
-    kingdom shall never be destroyed''; God ranked some messengers above others; to some God spoke; God
-    the Ever-Living, the Self-Subsisting (al-hayy al-qayyum); and 4 more.'
+    Whether the deity sleeps [divergence between the texts]; Whether the deity sleeps [response between
+    the texts]; A divine object is measured against heaven and earth: the heavens too small for the god''s
+    cup, or his seat (kursī) spanning the heavens and the earth [divergence between the texts]; God''s
+    throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false gods
+    (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber or
+    sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day comes
+    with no trade, no friendship and no intercession; The one who upholds the heavens does not tire of
+    it [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'David''s assembly speech and the written pattern of the temple: tagged by Claude (model), reading
     the Hebrew.'

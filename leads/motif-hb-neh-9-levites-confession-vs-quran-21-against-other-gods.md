@@ -19,7 +19,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 6.0). Pair score 6.0.'
+- text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -34,11 +34,11 @@ evidence:
   basis: reading
 - text: 'Only in Creation not in jest; the unceasing angels and the argument from one God: Those called
     God''s offspring are rather honored servants who do not speak before him [response between the texts];
-    Divine beings take human women as wives; God hurls the truth against falsehood and it shatters its
-    skull, and falsehood vanishes; Those called God''s offspring are rather honored servants who do not
-    speak before him; Those with God glorify him night and day without tiring; God is not questioned about
-    what he does, but they are questioned; Were there gods besides God in heaven and earth, both would
-    have been ruined; In hell the damned neither die nor live; God did not create the heavens and earth
+    God hurls the truth against falsehood and it shatters its skull, and falsehood vanishes; Those called
+    God''s offspring are rather honored servants who do not speak before him; Those with God glorify him
+    night and day without tiring; God is not questioned about what he does, but they are questioned; Were
+    there gods besides God in heaven and earth, both would have been ruined; Divine beings take human
+    women as wives; In hell the damned neither die nor live; God did not create the heavens and earth
     and what is between them in play (la''ibin) but in truth; Intercession avails only for whom God permits.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),

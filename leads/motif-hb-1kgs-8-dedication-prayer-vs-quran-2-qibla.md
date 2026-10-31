@@ -12,33 +12,34 @@ traditions:
 layers:
 - motif
 motifs:
-- direction-of-prayer-as-divergence
 - prayer-toward-the-temple
+- direction-of-prayer-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The direction faced in prayer [divergence between the texts] (weight
-    6.0); Prayers made toward the temple (or toward the land, city and house when in exile) are heard
-    in heaven (weight 6.0). Pair score 12.0.'
+- text: 'Shared motifs, rarest first: Prayers made toward the temple (or toward the land, city and house
+    when in exile) are heard in heaven (weight 7.1); The direction faced in prayer [divergence between
+    the texts] (weight 7.1). Pair score 14.1.'
   basis: reading
 - text: 'Only in Solomon''s prayer of dedication: Exiles in an enemy land turn back with all their heart
     and pray toward their land, and God grants them mercy before captors; A foreigner from a far land
     who hears of God''s name comes to pray at the temple and is heard; ''There is no man who does not
-    sin''; A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Long
-    catalogue of curses for covenant violation (disease, defeat, famine, exile); Heaven and the heaven
-    of heavens cannot contain God, much less a temple; Egypt called an iron furnace (smelting furnace);
-    Heaven is shut and no rain falls because of the people''s sin; repentance brings rain; Heaven and
-    the heaven of heavens belong to God; Prophet spreads out his palms to God in prayer; God alone knows
-    the hearts of all humans.'
+    sin''; A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Egypt
+    called an iron furnace (smelting furnace); Heaven and the heaven of heavens cannot contain God, much
+    less a temple; Heaven is shut and no rain falls because of the people''s sin; repentance brings rain;
+    Long catalogue of curses for covenant violation (disease, defeat, famine, exile); Heaven and the heaven
+    of heavens belong to God; Prophet spreads out his palms to God in prayer; God alone knows the hearts
+    of all humans.'
   basis: reading
 - text: 'Only in The change of qibla: The direction of prayer (qibla) is changed toward the Sacred Mosque;
     fools ask why; Believers made a middle community (umma wasat), witnesses over mankind, with the messenger
     a witness over them; God sees the prophet turning his face toward heaven and grants him a qibla he
     is pleased with; To each a direction he faces: so race toward good deeds; Abraham and Ishmael pray
     that a messenger be raised from among their offspring; The People of the Book recognize the truth
-    as they recognize their own sons; Leader prays ''remember me, my God, for good'' for his deeds; Who
-    bears witness to God''s oneness [divergence between the texts].'
+    as they recognize their own sons; Simile: to recognise someone as father and mother recognise their
+    sons; Leader prays ''remember me, my God, for good'' for his deeds; Who bears witness to God''s oneness
+    [divergence between the texts].'
   basis: reading
 - text: 'Solomon''s prayer of dedication: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,18 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer ''Turn us back to you, YHWH, and we shall return'' (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured
     city: In the new age no one will need to teach his neighbor ''Know YHWH'', for all will know him;
     The blind, the lame and women in labor are among the returning exiles; Ephraim likens himself to an
     untrained calf, chastised, and slaps his thigh in repentance; God has loved his people with an everlasting
     love and drawn them with faithfulness; God creates a new thing on earth: ''a female shall encompass
-    a man''; God declares ''I am a father to Israel''; God will forgive iniquity and remember sin no more;
-    God who stirs up the sea so its waves roar; God''s innards yearn (hamu me''ai) with compassion for
-    his wayward son; The people who survived the sword found grace in the wilderness; If the heavens above
-    could be measured and the earth''s foundations searched out, God would reject Israel; God will make
-    a new covenant with Israel and Judah, unlike the one broken after the exodus; and 22 more.'
+    a man''; God will forgive iniquity and remember sin no more; God who stirs up the sea so its waves
+    roar; God''s innards yearn (hamu me''ai) with compassion for his wayward son; The people who survived
+    the sword found grace in the wilderness; If the heavens above could be measured and the earth''s foundations
+    searched out, God would reject Israel; God will make a new covenant with Israel and Judah, unlike
+    the one broken after the exodus; The prophet awakes from a vision-sleep that was sweet to him; and
+    22 more.'
   basis: reading
 - text: 'Only in The three who were left behind; every step recorded: The three who stayed behind are
     forgiven after the earth grew narrow for them and they found no refuge but God; Every thirst, fatigue,

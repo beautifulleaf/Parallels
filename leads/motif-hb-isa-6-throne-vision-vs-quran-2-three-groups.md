@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hardening of the heart, ears and eyes of the hearers [divergence
-    between the texts] (weight 6.7); Prophet commissioned to make the people''s heart fat, ears heavy
-    and eyes shut lest they understand and be healed (weight 5.0). Pair score 11.7.'
+    between the texts] (weight 7.7); Prophet commissioned to make the people''s heart fat, ears heavy
+    and eyes shut lest they understand and be healed (weight 6.0). Pair score 13.8.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -29,24 +29,24 @@ evidence:
     terebinth or oak whose stump is the holy seed; At the heavenly voice the doorposts shake and the house
     fills with smoke; Prophet sees the Lord seated on a high and lifted-up throne, his train filling the
     temple; Heavenly beings call ''Holy, holy, holy is YHWH of hosts; the whole earth is full of his glory'';
-    God asks ''Whom shall I send, and who will go for us?'' and the prophet volunteers ''Here am I, send
-    me''; Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The
-    angels say: each of us has a known station; we are ranged in ranks; we glorify; God has not given
-    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
-    God is ''Lord of the mighty Throne'' (rabb al-''arsh al-''azim); The prophet''s word and a people
-    deaf and blind to it [divergence between the texts]; and 10 more.'
+    Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The angels
+    say: each of us has a known station; we are ranged in ranks; we glorify; God has not given the people
+    a heart to know, eyes to see, ears to hear until today [divergence between the texts]; God is ''Lord
+    of the mighty Throne'' (rabb al-''arsh al-''azim); The prophet''s word and a people deaf and blind
+    to it [divergence between the texts]; A revealed surah increases believers in faith and the sick-hearted
+    in filth; and 10 more.'
   basis: reading
 - text: 'Only in Believers, unbelievers and hypocrites: The faithful defined as those who believe in the
     unseen (al-ghayb); The scripture announces itself as ''the Book'' in which there is no doubt, guidance
     for the God-fearing; Unbelievers called ''deaf, dumb, blind'' (summun bukmun umyun); Parable: one
     kindles a fire, and when it lights his surroundings God takes away the light, leaving him in darkness;
     Parable: travelers in a rainstorm of darkness, thunder and lightning put fingers in their ears for
-    fear of death; Woe to those who call evil good and good evil, darkness light and bitter sweet; God
-    scorns the scorners but gives grace to the humble; Revelation as a sealed or an open book [contrast
-    between the texts]; Who is blind but my servant, deaf like my messenger? Israel sees much but does
-    not observe; The hypocrites try to deceive God, but it is he who deceives them; Hypocrites profess
+    fear of death; God scorns the scorners but gives grace to the humble; Revelation as a sealed or an
+    open book [contrast between the texts]; Who is blind but my servant, deaf like my messenger? Israel
+    sees much but does not observe; Woe to those who call evil good and good evil, darkness light and
+    bitter sweet; The hypocrites try to deceive God, but it is he who deceives them; Hypocrites profess
     faith before believers and tell their own ''devils'' in private they were only mocking; Who is called
-    blind and deaf toward God''s word [divergence between the texts]; and 4 more.'
+    blind and deaf toward God''s word [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'The throne vision and the call of Isaiah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Naked I came from my mother''s womb and naked I shall return there''
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Bureaucratic oppression, the love of money and wealth that perishes: He will not much
     remember the days of his life because God keeps him occupied with the joy of his heart; When goods
@@ -41,8 +41,8 @@ evidence:
     wise, and the Torah of YHWH is with us?'' The lying pen of the scribes has made it a lie; The prophet
     is sent to warn ''the mother of towns'' (umm al-qura, Mecca) and those around it; False prophet put
     to death [divergence between the texts]; The Torah contains guidance and light; Angels (God''s messengers)
-    take the souls of the dying; False prophet put to death; If God wills he takes you away and brings
-    another people in your place; and 1 more.'
+    take the souls of the dying; False prophet put to death; No one can take his goods with him into death;
+    what he owned falls to others; and 2 more.'
   basis: reading
 - text: 'Bureaucratic oppression, the love of money and wealth that perishes: tagged by Claude (model),
     reading the Hebrew.'

@@ -14,49 +14,51 @@ layers:
 - motif
 motifs:
 - tempter-in-the-garden-as-divergence
-- enmity-decreed-at-expulsion-as-divergence
 - first-man-after-the-transgression-as-divergence
+- enmity-decreed-at-expulsion-as-divergence
 - human-lot-on-earth-after-expulsion-as-divergence
 - expulsion-from-paradise-as-divergence
 - expulsion-from-paradise
+- tree-of-knowledge-forbidden
 - serpent-tempter
 - divine-plural-speech
-- tree-of-knowledge-forbidden
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The tempter in the garden [divergence between the texts] (weight
-    6.7); Enmity decreed at the expulsion from the garden [divergence between the texts] (weight 6.7);
-    The first man''s response after the transgression in the garden (blame or repentance) [divergence
-    between the texts] (weight 6.7); The human condition on earth after the expulsion [divergence between
-    the texts] (weight 6.7); First humans expelled from the garden [divergence between the texts] (weight
-    6.3); First humans expelled from the garden (weight 6.0); A cunning serpent persuades the woman to
-    eat the forbidden fruit (weight 6.0); God speaks in the plural (us, our) as if to a divine council
-    (weight 6.0); A tree of knowledge whose fruit is forbidden (weight 5.8). Pair score 56.8.'
+    7.7); The first man''s response after the transgression in the garden (blame or repentance) [divergence
+    between the texts] (weight 7.7); Enmity decreed at the expulsion from the garden [divergence between
+    the texts] (weight 7.7); The human condition on earth after the expulsion [divergence between the
+    texts] (weight 7.7); First humans expelled from the garden [divergence between the texts] (weight
+    7.3); First humans expelled from the garden (weight 7.1); A tree of knowledge whose fruit is forbidden
+    (weight 6.8); A cunning serpent persuades the woman to eat the forbidden fruit (weight 6.8); God speaks
+    in the plural (us, our) as if to a divine council (weight 6.6). Pair score 65.7.'
   basis: reading
-- text: 'Only in The serpent, the eating, the curses and the expulsion: Each accused shifts blame to another
-    (man to woman, woman to serpent); First woman named as mother of all living; God heard walking in
-    the garden in the breeze of the day; Humans gain divine knowledge and God fears they will also gain
-    immortality; Woman punished with pain in childbirth and subordination to husband; The woman eats first
-    and gives the fruit to her husband; Adam receives words from his Lord and God turns to him in forgiveness
-    [divergence between the texts]; Cherubim and a flaming turning sword guard the way to the tree of
-    life; Eating opens their eyes and they know they are naked [divergence between the texts]; How the
-    first couple answer God after eating: shifting the blame or confessing [divergence between the texts];
-    God makes garments of skin for the first couple; God makes garments of skin for the first couple [divergence
-    between the texts]; and 18 more.'
+- text: 'Only in The serpent, the eating, the curses and the expulsion: First woman named as mother of
+    all living; God heard walking in the garden in the breeze of the day; Woman punished with pain in
+    childbirth and subordination to husband; The woman eats first and gives the fruit to her husband;
+    Adam receives words from his Lord and God turns to him in forgiveness [divergence between the texts];
+    Each accused shifts blame to another (man to woman, woman to serpent); Eating opens their eyes and
+    they know they are naked [divergence between the texts]; How the first couple answer God after eating:
+    shifting the blame or confessing [divergence between the texts]; God makes garments of skin for the
+    first couple [divergence between the texts]; Ground cursed; man must eat by sweat of his brow among
+    thorns and thistles [divergence between the texts]; Sinner hides from God, who calls ''Where are you?''
+    [divergence between the texts]; The ground of a husband''s authority over his wife [divergence between
+    the texts]; and 18 more.'
   basis: reading
 - text: 'Only in Adam, the angels and Iblis: God teaches Adam all the names and he recites them to the
     angels, who cannot; The expelled are told ''Go down, enemies to one another'' with a dwelling and
     provision on earth for a time; God announces to the angels he will place a vicegerent (khalifa) on
-    earth; The first man names the animals; Adam receives words from his Lord and God turns to him in
-    forgiveness; Angels object that the new human will corrupt the earth and shed blood while they praise
-    God; The first man and the names of the creatures [divergence between the texts]; The tree forbidden
-    to the first humans [divergence between the texts]; The garden given to the first humans to live and
-    eat in [divergence between the texts]; God speaks to heavenly beings about making man [divergence
-    between the texts]; The office given to humans on earth at creation [divergence between the texts];
-    Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s image; and 4
-    more.'
+    earth; Adam receives words from his Lord and God turns to him in forgiveness; Angels object that the
+    new human will corrupt the earth and shed blood while they praise God; The first man and the names
+    of the creatures [divergence between the texts]; The tree forbidden to the first humans [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; God speaks to heavenly beings about making man [divergence between the texts]; After the episode
+    of the forbidden or refused food [divergence between the texts]; A god gives a human knowledge of
+    ''heaven and earth'' and a higher divine voice remarks on it [divergence between the texts]; A superior
+    asks ''what are these?'' and a subordinate tells their names one by one [divergence between the texts];
+    and 10 more.'
   basis: reading
 - text: 'The serpent, the eating, the curses and the expulsion: tagged by Claude (model), reading the
     Hebrew.'

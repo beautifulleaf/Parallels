@@ -19,15 +19,15 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A father must not make his daughter a prostitute (weight 6.7); The
+- text: 'Shared motifs, rarest first: A father must not make his daughter a prostitute (weight 7.7); The
     head of a household must not prostitute a woman under his authority [divergence between the texts]
-    (weight 6.7). Pair score 13.4.'
+    (weight 7.7). Pair score 15.5.'
   basis: reading
-- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Gashes in the flesh
-    for the dead and tattoo marks are forbidden; Prohibition of cross-breeding animals, sowing mixed seed
-    and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three years, holy in the fourth,
-    eaten in the fifth; Rise before the gray-haired and honor the elderly; Man who lies with a slave woman
-    designated to another man: inquiry and guilt offering, not death, because she is not free; Just weights
+- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Prohibition of cross-breeding
+    animals, sowing mixed seed and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three
+    years, holy in the fourth, eaten in the fifth; Rise before the gray-haired and honor the elderly;
+    Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
+    because she is not free; Gashes in the flesh for the dead and tattoo marks are forbidden; Just weights
     and measures, and the ground given for them [divergence between the texts]; Love the stranger, for
     you were strangers in Egypt; Kindness to the near neighbor, the distant neighbor, the companion at
     one''s side and the wayfarer; Do not wear wool and linen together (sha''atnez); Do not round the corners
@@ -39,12 +39,14 @@ evidence:
     back; Believing men and women are told to lower their gaze and guard their private parts; Grant slaves
     who ask a written manumission contract (kitāba) and give them of God''s wealth; Marry off the unmarried
     among you and your righteous slaves; God will enrich the poor; Believing women draw their head-coverings
-    (khumur) over their bosoms and do not show adornment except to listed kin; Bride covers herself with
-    a veil on seeing the groom; ''I made a covenant with my eyes; how then could I look upon a virgin?'';
+    (khumur) over their bosoms and do not show adornment except to listed kin; A man''s look at a woman,
+    and what is required or done about it [neutral] [divergence between the texts]; Bride covers herself
+    with a veil on seeing the groom; ''I made a covenant with my eyes; how then could I look upon a virgin?'';
     Women should not strike their feet to make known their hidden ornaments (anklets); Freed slave must
     not be sent away empty-handed but furnished from flock, threshing floor and winepress; Catalogue of
     bridal finery: embroidered cloth, tahash sandals, linen, silk, bracelets, necklace, nose-ring, earrings
-    and a crown; Creditor must wait outside for the pledge and return a poor man''s cloak by sunset.'
+    and a crown; Creditor must wait outside for the pledge and return a poor man''s cloak by sunset; and
+    1 more.'
   basis: reading
 - text: 'Mixtures, orlah fruit, mourning cuttings, alien and just weights: tagged by Claude (model), reading
     the Hebrew.'

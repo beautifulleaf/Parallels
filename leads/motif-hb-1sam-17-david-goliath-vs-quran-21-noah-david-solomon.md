@@ -19,28 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God taught David the craft of making coats of mail [contrast between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in David and Goliath: Champion curses his opponent by his gods and threatens to give his
-    flesh to birds and beasts; Challenge or trial lasting forty days; Giant champion challenges the enemy
-    army to single combat to decide the war; Youth refuses the king''s armor and goes with his own simple
-    weapons; Hero comes ''in the name of YHWH'', not with sword and spear; The king asks ''whose son is
-    this youth?'' about one already in his service; Eldest brother angrily scorns the youngest''s presumption;
-    Shepherd boy rescued his flock from a lion and a bear; Youth kills the giant with a sling-stone to
-    the forehead; Hero beheads the slain enemy with the enemy''s own sword; David and the coat of mail
-    [contrast between the texts]; David kills the Philistine giant [divergence between the texts]; and
-    4 more.'
+- text: 'Only in David and Goliath: Challenge or trial lasting forty days; Youth refuses the king''s armor
+    and goes with his own simple weapons; Hero comes ''in the name of YHWH'', not with sword and spear;
+    The king asks ''whose son is this youth?'' about one already in his service; Eldest brother angrily
+    scorns the youngest''s presumption; Youth kills the giant with a sling-stone to the forehead; Hero
+    beheads the slain enemy with the enemy''s own sword; Champion curses his opponent by his gods and
+    threatens to give his flesh to birds and beasts; David and the coat of mail [contrast between the
+    texts]; David kills the Philistine giant [divergence between the texts]; Giant champion challenges
+    the enemy army to single combat to decide the war; Whoever slays the enemy champion receives the king''s
+    daughter and riches; and 4 more.'
   basis: reading
 - text: 'Only in Noah answered; David and Solomon''s judgment, the praising mountains, mail and wind:
     David and Solomon judge a case of sheep that strayed by night into a field; Solomon is given the right
     understanding; The people see that divine wisdom is in the king to do justice; The people see that
     divine wisdom is in the king to do justice [divergence between the texts]; Liability for one''s grazing
     animals or spreading fire damaging another''s field; Mountains and birds are made to glorify God together
-    with David [divergence between the texts]; God taught David the craft of making coats of mail; Hero
-    asks the deity to judge or destroy his opponents [divergence between the texts]; The stormy wind is
-    subjected to Solomon, blowing at his command; Mountains and birds are made to glorify God together
-    with David; Devils (shayāṭīn) and jinn labor for Solomon, diving and building; Hero asks the deity
-    to judge or destroy his opponents; All others perish; and 1 more.'
+    with David [divergence between the texts]; A herdsman''s sheep graze in a cultivator''s field [divergence
+    between the texts]; God taught David the craft of making coats of mail; Hero asks the deity to judge
+    or destroy his opponents [divergence between the texts]; The stormy wind is subjected to Solomon,
+    blowing at his command; Mountains and birds are made to glorify God together with David; Devils (shayāṭīn)
+    and jinn labor for Solomon, diving and building; Hero asks the deity to judge or destroy his opponents;
+    and 2 more.'
   basis: reading
 - text: 'David and Goliath: tagged by Claude (model), reading the Hebrew.'
   basis: reading

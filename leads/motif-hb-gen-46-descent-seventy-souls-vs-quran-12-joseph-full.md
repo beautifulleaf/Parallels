@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero meets and embraces his father [divergence between the texts]
-    (weight 6.7); Hero meets and embraces his father (weight 6.0); The whole family moves to Egypt (weight
-    5.8). Pair score 18.5.'
+    (weight 7.7); Hero meets and embraces his father (weight 7.1); The whole family moves to Egypt (weight
+    6.8). Pair score 21.6.'
   basis: reading
 - text: 'Only in Vision at Beersheba, the seventy who went down, reunion in Goshen: God promises to go
     down to a foreign land with the patriarch and bring him back up; Aged father says he may die now that
@@ -41,7 +41,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 106 more.'
+    brings back the missing royal cup, with a guarantor; and 144 more.'
   basis: reading
 - text: 'Vision at Beersheba, the seventy who went down, reunion in Goshen: tagged by Claude (model),
     reading the Hebrew.'

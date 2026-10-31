@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In distress, at sea or otherwise, people call on God alone, then
-    return to polytheism once rescued [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    return to polytheism once rescued [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jonah flees to Tarshish and is thrown into the sea: The ship''s captain wakes the sleeper
     and urges him to call on his god that they may not perish; Sailors throw the cargo overboard to lighten
@@ -42,10 +42,10 @@ evidence:
     otherwise, people call on God alone, then return to polytheism once rescued; In distress, at sea or
     otherwise, people call on God alone, then return to polytheism once rescued [divergence between the
     texts]; God honored the children of Adam, carried them on land and sea and preferred them above much
-    of creation; The expelled devil vows to lie in wait on the straight path and mislead humanity; The
-    devil argues he is better than man because he was made of fire and man of clay; Satan has no authority
-    over God''s sincere servants, only over those who follow him; God commands the angels to prostrate
-    before the first man, and they do; and 4 more.'
+    of creation; Man is clay (and straw) shaped by God, said where a human is scorned; The expelled devil
+    vows to lie in wait on the straight path and mislead humanity; The devil argues he is better than
+    man because he was made of fire and man of clay; Satan has no authority over God''s sincere servants,
+    only over those who follow him; and 5 more.'
   basis: reading
 - text: 'Jonah flees to Tarshish and is thrown into the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

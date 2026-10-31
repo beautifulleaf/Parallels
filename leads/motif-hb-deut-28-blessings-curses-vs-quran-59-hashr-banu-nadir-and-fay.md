@@ -19,18 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They thought their fortresses would protect them from God, but God
-    came from where they did not expect and cast terror into their hearts (weight 6.7). Pair score 6.7.'
+    came from where they did not expect and cast terror into their hearts (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Blessings and the great curses: Futility curse: betroth a wife another lies with, build
-    a house and not live in it, plant a vineyard and not enjoy it; Blessed in city and field, in coming
-    in and going out, basket and kneading trough; Smitten with the boils of Egypt, tumors, scab and itch
-    that cannot be healed; Covenant at Moab in addition to the covenant at Horeb; Delicate woman who never
-    set foot on the ground secretly eats her afterbirth and children in the siege; Enemies come out one
-    way and flee seven ways; King and people exiled to an unknown nation to serve gods of wood and stone;
-    As God rejoiced to do you good, so he will rejoice to destroy you; God will make you the head and
-    not the tail; God puts an iron yoke on your neck; In the morning you will say: would it were evening;
-    in the evening: would it were morning; God will send you back to Egypt in ships to be sold as slaves,
-    and no one will buy; and 20 more.'
+- text: 'Only in Blessings and the great curses: Blessed in city and field, in coming in and going out,
+    basket and kneading trough; Covenant at Moab in addition to the covenant at Horeb; Delicate woman
+    who never set foot on the ground secretly eats her afterbirth and children in the siege; Enemies come
+    out one way and flee seven ways; King and people exiled to an unknown nation to serve gods of wood
+    and stone; As God rejoiced to do you good, so he will rejoice to destroy you; God will make you the
+    head and not the tail; God puts an iron yoke on your neck; God will send you back to Egypt in ships
+    to be sold as slaves, and no one will buy; The stranger in your midst rises higher and higher while
+    you sink; Smitten with the boils of Egypt, tumors, scab and itch that cannot be healed; Have you seen
+    what you sow? Do you make it grow, or are we the grower? We could make it chaff; and 20 more.'
   basis: reading
 - text: 'Only in Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law
     of fay'': The expelled demolish their houses with their own hands and the hands of the believers;
@@ -38,13 +37,14 @@ evidence:
     the unbelieving People of the Book (the Banu Nadir) from their homes at ''the first gathering'' (li-awwal
     al-hashr); Whatever palm trees (lina) you cut down or left standing on their roots was by God''s leave;
     Later believers pray: forgive us and our brethren who preceded us in faith, and put no rancor in our
-    hearts; Whether the enemy''s trees may be cut down in a siege [contrast between the texts]; How spoil
-    taken from the enemy is distributed [divergence between the texts]; Fay'' (booty gained without cavalry
-    or camels) goes to God, the messenger, kin, orphans, the poor and the wayfarer, so wealth does not
-    circulate only among the rich; The poor emigrants and the hosts who prefer others over themselves
-    even in need; whoever is saved from his own greed succeeds; Cities ''great and fortified up to heaven'';
-    Spoils divided half to warriors, half to community, with a levy for God; Do not cut down fruit trees
-    during a siege: is the tree of the field a man?; and 2 more.'
+    hearts; Vines or palms of a hostile neighbour are cut down [divergence between the texts]; Whether
+    the enemy''s trees may be cut down in a siege [contrast between the texts]; How spoil taken from the
+    enemy is distributed [divergence between the texts]; Fay'' (booty gained without cavalry or camels)
+    goes to God, the messenger, kin, orphans, the poor and the wayfarer, so wealth does not circulate
+    only among the rich; The wealth of a ruined or expelled people passes to others who did not have it
+    [divergence between the texts]; The poor emigrants and the hosts who prefer others over themselves
+    even in need; whoever is saved from his own greed succeeds; What becomes of the spoil taken from the
+    enemy: brought to the god or assigned to God [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Blessings and the great curses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

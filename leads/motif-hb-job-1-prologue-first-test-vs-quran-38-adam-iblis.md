@@ -19,28 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The devil asks for and is granted respite until the day the dead
-    are raised (weight 5.8). Pair score 5.8.'
+    are raised (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Job''s piety, the heavenly council and the first test: The verb ''bless'' (barekh) used
     as a scribal euphemism for cursing God; Grown sons hold feasts in turn, each on his day, and invite
     their sisters; A great wind from the desert strikes the four corners of the house and it falls on
     the feasting children; God has set a protective hedge around the righteous man, his house and goods;
     ''Fire of God'' falls from heaven and consumes flocks and servants; Messenger after messenger arrives
-    while the last is still speaking, each the sole survivor of a disaster; ''I alone escaped to tell
-    you''; ''Does he fear God for nothing?'': piety suspected of being motivated by reward; The exemplary
-    righteous man is a non-Israelite living in the land of Uz in the east; Father offers burnt offerings
-    in case his children ''blessed'' (cursed) God in their hearts; A blessed man has seven sons and three
-    daughters; Mourner shaves his head and falls to the ground; and 20 more.'
+    while the last is still speaking, each the sole survivor of a disaster; ''Does he fear God for nothing?'':
+    piety suspected of being motivated by reward; The exemplary righteous man is a non-Israelite living
+    in the land of Uz in the east; Father offers burnt offerings in case his children ''blessed'' (cursed)
+    God in their hearts; Mourner shaves his head and falls to the ground; A patriarch''s wealth is listed
+    in precise numbers of sheep, camels, oxen and asses; Humans are presented before God in rows, coming
+    as they were first created; and 20 more.'
   basis: reading
 - text: 'Only in Adam made from clay; Iblis refuses and is granted respite: Iblis swears by God''s might
     to lead all humans astray except God''s sincere servants; The prophet asks no wage and is not one
     of the pretenders (mutakallifin); God created Adam ''with my two hands''; God commands the angels
     to prostrate to Adam; all do except Iblis, who refuses; God''s word: ''I will fill hell with jinn
     and humans all together''; The rank of the first human relative to the heavenly beings [contrast between
+    the texts]; In the divine assembly some withhold the obeisance the others perform [divergence between
     the texts]; Deity breathes the breath of life into the first human''s nostrils [divergence between
-    the texts]; The devil argues he is better than man because he was made of fire and man of clay; God
-    expels Iblis as accursed (rajim) with a curse until the Day of Judgment; Deity breathes the breath
-    of life into the first human''s nostrils; First human shaped from dust, clay or soil.'
+    the texts]; The creator declares ''I am the one who created, my hands have made it''; The devil argues
+    he is better than man because he was made of fire and man of clay; God expels Iblis as accursed (rajim)
+    with a curse until the Day of Judgment; Deity breathes the breath of life into the first human''s
+    nostrils; and 1 more.'
   basis: reading
 - text: 'Job''s piety, the heavenly council and the first test: tagged by Claude (model), reading the
     Hebrew.'

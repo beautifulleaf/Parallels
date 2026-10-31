@@ -19,17 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a man may marry his son''s (or adopted son''s) wife [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Forbidden sexual unions; the land vomits out its inhabitants: Sexual relations of a man
-    or a woman with an animal are forbidden; Marrying or lying with a brother''s wife is forbidden; Do
-    not follow the practices of Egypt where you lived or of Canaan where you are going; List of forbidden
-    close-kin unions (''uncovering nakedness'') [divergence between the texts]; The land, defiled by abominations,
-    vomits out its inhabitants; The person who does God''s statutes shall live by them; Lying with a male
-    as with a woman is forbidden; Marrying two sisters [divergence between the texts]; A man may not marry
-    his wife''s sister as a rival while the wife lives; Sexual relations with a neighbor''s wife are forbidden;
-    Zihar: a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying
-    is false and abhorrent; Giving one''s offspring to Molech is forbidden and punished; and 3 more.'
+    or a woman with an animal are forbidden; Do not follow the practices of Egypt where you lived or of
+    Canaan where you are going; List of forbidden close-kin unions (''uncovering nakedness'') [divergence
+    between the texts]; The land, defiled by abominations, vomits out its inhabitants; The person who
+    does God''s statutes shall live by them; Lying with a male as with a woman is forbidden; Marrying
+    two sisters [divergence between the texts]; A man may not marry his wife''s sister as a rival while
+    the wife lives; Marrying or lying with a brother''s wife is forbidden; Zihar: a husband declaring
+    his wife ''like my mother''s back''; she is not his mother, the saying is false and abhorrent; Giving
+    one''s offspring to Molech is forbidden and punished; Intercourse with a menstruating woman is forbidden;
+    and 3 more.'
   basis: reading
 - text: 'Only in Zayd''s wife, the seal of the prophets, and the prophet as a lamp: The greeting of the
     righteous in the hereafter is ''Peace'' (salam); Adopted sons are not one''s sons; call them by their

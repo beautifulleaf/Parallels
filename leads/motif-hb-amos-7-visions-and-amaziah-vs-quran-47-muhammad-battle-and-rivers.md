@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mightier towns than the one that drove the prophet out were destroyed
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Visions of locusts, fire and plumb line; Amos and Amaziah: The high places of Isaac (yishaq,
     spelled with sin) will be desolate; ''I am no prophet nor a prophet''s son; I am a herdsman, and YHWH
@@ -41,10 +41,10 @@ evidence:
     and admits them to a Garden he has made known to them; The signs/portents (ashrat) of the Hour have
     already come; The prophet is told to ask forgiveness for his own sin and for the believing men and
     women; In battle, strike the necks of unbelievers; when they are subdued bind them, then free them
-    as favor or for ransom until war lays down its burdens; Four rivers in the Garden [divergence between
-    the texts]; If you help God he will help you and make your feet firm; The Hour will come upon them
-    suddenly while they are unaware; Streams and rivers flowing with honey and curds (denied to the wicked);
-    Rivers or streams of honey and milk (curds) [divergence between the texts]; and 9 more.'
+    as favor or for ransom until war lays down its burdens; People eat as sheep or cattle eat; Four rivers
+    in the Garden [divergence between the texts]; If you help God he will help you and make your feet
+    firm; The Hour will come upon them suddenly while they are unaware; Whether a bound captive is released
+    or killed [contrast between the texts]; and 14 more.'
   basis: reading
 - text: 'Visions of locusts, fire and plumb line; Amos and Amaziah: tagged by Claude (model), reading
     the Hebrew.'

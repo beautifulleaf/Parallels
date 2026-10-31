@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They will say to the mountains ''Cover us'' and to the hills ''Fall
-    on us'' (weight 6.7). Pair score 6.7.'
+    on us'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The luxuriant vine, the calves of Beth-aven, sow righteousness: Israel a luxuriant vine:
     the more fruit, the more altars and pillars; The idol-priests (kemarim) mourn as the calf is carried
@@ -31,13 +31,14 @@ evidence:
   basis: reading
 - text: 'Only in The circle of kindness, misers, and the atom''s weight: Misers who urge stinginess and
     hide what God gave them of his bounty; On that day the disbelievers wish the earth were leveled over
-    them; God does not wrong anyone by an atom''s weight (mithqāl dharra); Good works (spending, prayer)
-    done to be seen by people (riyāʾ); God multiplies a good deed (tenfold) while an evil deed is requited
-    only by its like; Love your neighbor as yourself; Kindness to the near neighbor, the distant neighbor,
-    the companion at one''s side and the wayfarer; Whoever turns from God''s remembrance is assigned a
-    devil as constant companion (qarin), whom he curses at the judgment; On judgment day a witness is
-    brought from every nation, and the Prophet as witness over them; Honor father and mother, with the
-    promise of long life.'
+    them; God does not wrong anyone by an atom''s weight (mithqāl dharra); Being covered over by a mountain
+    or by the earth: cursed on others or wished for oneself [shared matter] [divergence between the texts];
+    Good works (spending, prayer) done to be seen by people (riyāʾ); God multiplies a good deed (tenfold)
+    while an evil deed is requited only by its like; Love your neighbor as yourself; Kindness to the near
+    neighbor, the distant neighbor, the companion at one''s side and the wayfarer; Whoever turns from
+    God''s remembrance is assigned a devil as constant companion (qarin), whom he curses at the judgment;
+    On judgment day a witness is brought from every nation, and the Prophet as witness over them; Honor
+    father and mother, with the promise of long life.'
   basis: reading
 - text: 'The luxuriant vine, the calves of Beth-aven, sow righteousness: tagged by Claude (model), reading
     the Hebrew.'

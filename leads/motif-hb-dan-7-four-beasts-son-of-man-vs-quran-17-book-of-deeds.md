@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The heavenly court sits in judgment and the books are opened (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The four beasts, the Ancient of Days and one like a son of man: Thrones are set and the
     Ancient of Days sits, his garment white as snow and his hair like pure wool; The seer asks one of
@@ -29,10 +29,10 @@ evidence:
     over to burning fire; A heavenly figure or the holy ones are given everlasting dominion, glory and
     kingdom which all peoples serve; God''s throne is flames of fire with wheels of burning fire; Four
     great beasts rise from the sea, each different, symbolizing successive kingdoms; A leopard with four
-    wings and four heads is given dominion; The four winds of heaven stir up the great sea, out of which
-    monstrous beasts arise; The holy ones of the Most High (qaddishe ''elyonin) receive and possess the
-    kingdom forever; The horn makes war against the holy ones and prevails until the Ancient of Days comes;
-    A little horn with human eyes and a mouth speaking great things uproots three horns; and 15 more.'
+    wings and four heads is given dominion; The holy ones of the Most High (qaddishe ''elyonin) receive
+    and possess the kingdom forever; The horn makes war against the holy ones and prevails until the Ancient
+    of Days comes; A little horn with human eyes and a mouth speaking great things uproots three horns;
+    Thousands of thousands serve God and myriads of myriads stand before him; and 15 more.'
   basis: reading
 - text: 'Only in The bird on the neck, the open book and individual responsibility (Surah 17:9-21): When
     God would destroy a town he commands its affluent ones; they transgress and it is destroyed; The hereafter
@@ -43,8 +43,9 @@ evidence:
     spread open, leaving nothing small or great unrecorded; On judgment day each receives a book of his
     deeds spread open, leaving nothing small or great unrecorded [divergence between the texts]; Night
     and day are two signs; the sign of night is effaced and that of day made bright for reckoning years;
-    God does not punish a people before sending a messenger, lest they plead they had none; Each person
-    dies for his own sin; Sun and moon are set to rule day and night and mark signs and seasons.'
+    Augury: a bird''s flight or alighting is an omen bound to a person [divergence between the texts];
+    A written record (tablet [divergence between the texts]; God does not punish a people before sending
+    a messenger, lest they plead they had none; and 2 more.'
   basis: reading
 - text: 'The four beasts, the Ancient of Days and one like a son of man: tagged by Claude (model), reading
     the Aramaic.'

@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness [divergence
-    between the texts] (weight 5.8); The Ten Commandments (Decalogue) (weight 5.4); Prohibitions of murder,
-    adultery, theft and false witness (weight 5.1). Pair score 16.3.'
+    between the texts] (weight 6.8); The Ten Commandments (Decalogue) (weight 6.5); Prohibitions of murder,
+    adultery, theft and false witness (weight 5.7). Pair score 19.0.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -49,7 +49,7 @@ evidence:
     what they worship, except the one who created him; Dissolving marriages with women outside the community
     [divergence between the texts]; God does not forbid kindness and justice toward those who did not
     fight you over religion or expel you; Neither your blood-ties nor your children will benefit you on
-    the Day of Resurrection; and 1 more.'
+    the Day of Resurrection; and 8 more.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

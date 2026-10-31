@@ -20,28 +20,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why God destroyed a generation or a people [divergence between the
-    texts] (weight 6.0); All others perish (weight 5.0). Pair score 11.0.'
+    texts] (weight 7.1); All others perish (weight 5.9). Pair score 12.9.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 44 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What sets the flood in
+    motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts];
+    How the ark is described [divergence between the texts]; What the flood hero does when the vessel
+    comes to rest [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; How the flood waters are stopped and
+    subside [divergence between the texts]; and 44 more.'
   basis: reading
 - text: 'Only in Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town: The
     ''People of the Rass'' (aṣḥāb al-rass, the well) named among destroyed peoples; Most unbelievers are
     like cattle, or even further astray; The prophet asks that his brother be made his helper (wazīr)
     and partner in his mission; God rains destruction on Lot''s town [divergence between the texts]; ''Do
-    not go about after your heart and your eyes''; Ox knows its owner and the ass its master''s crib,
-    but Israel does not know (animals wiser than God''s people); The sign the flood leaves for later generations
-    [divergence between the texts]; The town that was rained on with an evil rain (Lot''s) is passed by
-    travelers; Aaron''s role beside Moses and how he is appointed [divergence between the texts]; Whoever
-    takes his own desire (hawā) as his god; The people mock God''s messengers, despise his words and scoff
-    at his prophets; God rains sulfur and fire from heaven on cities; and 1 more.'
+    not go about after your heart and your eyes''; The sign the flood leaves for later generations [divergence
+    between the texts]; The town that was rained on with an evil rain (Lot''s) is passed by travelers;
+    Aaron''s role beside Moses and how he is appointed [divergence between the texts]; Whoever takes his
+    own desire (hawā) as his god; Ox knows its owner and the ass its master''s crib, but Israel does not
+    know (animals wiser than God''s people); The people mock God''s messengers, despise his words and
+    scoff at his prophets; God rains sulfur and fire from heaven on cities; and 1 more.'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading

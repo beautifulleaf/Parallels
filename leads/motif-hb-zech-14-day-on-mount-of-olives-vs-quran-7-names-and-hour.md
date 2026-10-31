@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Knowledge of the Hour is with God alone; it will come suddenly (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in The final day on the Mount of Olives; living waters; Sukkot for the nations: A unique
     day known to YHWH, neither day nor night, without light, cold and frost; at evening there will be
@@ -39,13 +39,12 @@ evidence:
 - text: 'Only in Made for hell, the beautiful names, the unknown Hour: God has created many jinn and humans
     for hell; The charge that a prophet is mad; The charge that a prophet is mad [response between the
     texts]; Having eyes that do not see and ears that do not hear, said of idols or of people [divergence
-    between the texts]; God leads deniers step by step to ruin and grants them respite (istidraj); The
-    prophet disclaims knowledge of the unseen and power over benefit or harm; Among Moses'' people is
-    a community that guides by the truth and acts justly by it; To God belong the most beautiful names;
-    call on him by them; The seer is told to shut up and seal the vision/book until the end; Every nation
-    has a fixed term that cannot be advanced or delayed by an hour; The heedless are like cattle, or even
-    more astray; God''s plotting (makr / kayd) outwits the schemers; none is safe from it but the losers;
-    and 2 more.'
+    between the texts]; Those with eyes and ears who neither see nor hear; God leads deniers step by step
+    to ruin and grants them respite (istidraj); The prophet disclaims knowledge of the unseen and power
+    over benefit or harm; Among Moses'' people is a community that guides by the truth and acts justly
+    by it; To God belong the most beautiful names; call on him by them; The seer is told to shut up and
+    seal the vision/book until the end; Every nation has a fixed term that cannot be advanced or delayed
+    by an hour; The heedless are like cattle, or even more astray; and 4 more.'
   basis: reading
 - text: 'The final day on the Mount of Olives; living waters; Sukkot for the nations: tagged by Claude
     (model), reading the Hebrew.'

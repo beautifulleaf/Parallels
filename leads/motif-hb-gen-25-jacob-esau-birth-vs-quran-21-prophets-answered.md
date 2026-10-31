@@ -20,8 +20,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Husband prays for his barren wife and she conceives (weight 6.3);
-    The patriarch''s wife is barren (weight 5.2). Pair score 11.5.'
+- text: 'Shared motifs, rarest first: Husband prays for his barren wife and she conceives (weight 7.3);
+    The patriarch''s wife is barren (weight 6.0). Pair score 13.4.'
   basis: reading
 - text: 'Only in Birth of Esau and Jacob; the sale of the birthright: Hungry elder brother sells his birthright
     for a dish of red lentil stew; Edom etymologized from the red (adom) stew; Firstborn twin born red

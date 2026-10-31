@@ -21,9 +21,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Loyalty to God over one''s own kin [divergence between the texts]
-    (weight 6.7); The Levites kill idolaters including their own kin and are consecrated for it (weight
-    5.8); God keeps a book in which names are written and from which sinners are blotted (weight 4.6).
-    Pair score 17.0.'
+    (weight 7.7); The Levites kill idolaters including their own kin and are consecrated for it (weight
+    6.8); God keeps a book in which names are written and from which sinners are blotted (weight 5.4).
+    Pair score 20.0.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -48,7 +48,7 @@ evidence:
     poor; There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
     wherever they are; God is well pleased with them and they with him (radiya llahu ''anhum wa-radu ''anhu);
     Expiation in steps according to what one can afford [divergence between the texts]; God will put his
-    law within the people and write it on their hearts; and 8 more.'
+    law within the people and write it on their hearts; and 12 more.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

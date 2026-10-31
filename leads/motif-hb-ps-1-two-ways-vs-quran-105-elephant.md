@@ -17,18 +17,18 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.6). Pair
-    score 5.6.'
+- text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.9). Pair
+    score 5.9.'
   basis: reading
 - text: 'Only in Psalm 1 - the two ways: The deeds of unbelievers are like ashes blown by the wind on
     a stormy day; The righteous man is like a tree planted by streams of water, bearing fruit in season,
     leaf never withering [divergence between the texts]; Contrast of the way of the righteous, which God
     knows, and the way of the wicked, which perishes [divergence between the texts]; Do not sit with those
-    who plunge into mockery of God''s signs until they change the subject; The righteous man is like a
-    tree planted by streams of water, bearing fruit in season, leaf never withering; Meditate on the book
-    of the Torah day and night; it shall not depart from your mouth; Contrast of the way of the righteous,
-    which God knows, and the way of the wicked, which perishes; Beatitude formula ''Happy (ashrei) is
-    the man who...''; I set before you life and death, blessing and curse: choose life.'
+    who plunge into mockery of God''s signs until they change the subject; Meditate on the book of the
+    Torah day and night; it shall not depart from your mouth; Contrast of the way of the righteous, which
+    God knows, and the way of the wicked, which perishes; Beatitude formula ''Happy (ashrei) is the man
+    who...''; I set before you life and death, blessing and curse: choose life; The righteous man is like
+    a tree planted by streams of water, bearing fruit in season, leaf never withering.'
   basis: reading
 - text: 'Only in The companions of the elephant: God sends birds in flocks (tayran ababil) that pelt an
     army with stones of baked clay (sijjil), leaving them like devoured straw; God''s action against the

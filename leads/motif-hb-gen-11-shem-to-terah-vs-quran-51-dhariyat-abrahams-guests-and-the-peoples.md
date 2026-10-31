@@ -19,14 +19,14 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The patriarch''s wife is barren (weight 5.2). Pair score 5.2.'
+- text: 'Shared motifs, rarest first: The patriarch''s wife is barren (weight 6.0). Pair score 6.0.'
   basis: reading
-- text: 'Only in Generations of Shem to Terah; Terah''s family leaves Ur: Lifespans decline generation
-    by generation after the flood; A son dies in his father''s lifetime and presence; How Abraham parts
-    from his father and his father''s land or gods [divergence between the texts]; Family migrates from
-    Ur of the Chaldeans to Harran on the way to Canaan; How Abraham parts from his father and his father''s
-    land or gods; Ten generations of long-lived patriarchs from the first man to the flood hero; Who leads
-    Abraham''s departure from his homeland, with Lot, and why [divergence between the texts].'
+- text: 'Only in Generations of Shem to Terah; Terah''s family leaves Ur: A son dies in his father''s
+    lifetime and presence; How Abraham parts from his father and his father''s land or gods [divergence
+    between the texts]; Family migrates from Ur of the Chaldeans to Harran on the way to Canaan; How Abraham
+    parts from his father and his father''s land or gods; Who leads Abraham''s departure from his homeland,
+    with Lot, and why [divergence between the texts]; Ten generations of long-lived patriarchs from the
+    first man to the flood hero; Lifespans decline generation by generation after the flood.'
   basis: reading
 - text: 'Only in Abraham''s honored guests, the barren old wife striking her face, the stones of clay
     for Lot''s people; Pharaoh, ''Ad, Thamud and Noah: On ''Ad God sent the barren wind (al-rih al-''aqim),
@@ -36,10 +36,11 @@ evidence:
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
     old woman!''; Angels seize the hesitating family by the hand and lead them out; The answer given to
-    the old woman''s doubt [divergence between the texts]; Heavenly visitors eat a human meal; Host runs
-    to welcome strangers, washes their feet and feeds them [divergence between the texts]; How Abraham
-    learns of Sodom''s fate, and his response [divergence between the texts]; Who Abraham''s visitors
-    are [divergence between the texts]; and 19 more.'
+    the old woman''s doubt [divergence between the texts]; Supernatural envoys who come to seize or destroy
+    do not eat the food offered them [divergence between the texts]; Host runs to welcome strangers, washes
+    their feet and feeds them [divergence between the texts]; The host, seeing the divine visitor, has
+    his household prepare an animal from the herd (lamb, calf) for the guest; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; and 24 more.'
   basis: reading
 - text: 'Generations of Shem to Terah; Terah''s family leaves Ur: tagged by Claude (model), reading the
     Hebrew.'

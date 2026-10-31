@@ -18,27 +18,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The laggard thanks God he was absent when disaster struck, and wishes
-    he had shared the spoil (weight 6.7). Pair score 6.7.'
+    he had shared the spoil (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Song of Deborah: A woman is called ''most blessed of women''; An angel curses a town
     that did not come to YHWH''s help; The enemy''s mother waits at the window for her son who will not
     return; Those who love God are like the sun rising in its strength; A woman leader is called ''a mother
     in Israel''; Not a shield or spear to be seen among forty thousand in Israel; Nobles described as
-    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; Under oppression the highways
-    are deserted and travelers use byways; A woman leader sings the victory song; If you help God he will
-    help you and make your feet firm; Asked for water, the woman gives milk; and 10 more.'
+    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; A woman leader sings the
+    victory song; If you help God he will help you and make your feet firm; Asked for water, the woman
+    gives milk; Under oppression the highways are deserted and travelers use byways; and 10 more.'
   basis: reading
-- text: 'Only in Fighting for the oppressed; death in lofty towers: Death will reach you wherever you
-    are, even in lofty towers; Fight for the oppressed men, women and children who cry ''take us out of
-    this town of wrongdoers''; Whoever intercedes for good shares in it; whoever intercedes for evil bears
-    a part of it; All comes from God; yet good befalling you is from God and evil from yourself; Were
-    the Quran from other than God they would find much contradiction in it; When greeted, return a better
-    greeting or the same; The plot of Satan is weak; ''I form light and create darkness, make peace and
-    create evil (ra''); I YHWH do all these'' [divergence between the texts]; Though they dig into Sheol
-    or climb to heaven, hide on Carmel or at the bottom of the sea, God''s hand will take them; People
-    ordered to fight complain to God and wish to be spared the battle; The proud one who builds his nest
-    high as the eagle or among the stars is brought down by God; Not wronged by a date-stone''s thread
-    (fatīl) or groove (naqīr): proverbial minimal measures; and 1 more.'
+- text: 'Only in Fighting for the oppressed; death in lofty towers: Fight for the oppressed men, women
+    and children who cry ''take us out of this town of wrongdoers''; Whoever intercedes for good shares
+    in it; whoever intercedes for evil bears a part of it; All comes from God; yet good befalling you
+    is from God and evil from yourself; Were the Quran from other than God they would find much contradiction
+    in it; When greeted, return a better greeting or the same; The plot of Satan is weak; Death will reach
+    you wherever you are, even in lofty towers; A secure building (stone house, lofty towers) cannot keep
+    out a death that is fated [divergence between the texts]; ''I form light and create darkness, make
+    peace and create evil (ra''); I YHWH do all these'' [divergence between the texts]; Though they dig
+    into Sheol or climb to heaven, hide on Carmel or at the bottom of the sea, God''s hand will take them;
+    People ordered to fight complain to God and wish to be spared the battle; Whatever word or news one
+    hears is to be referred to the ruler (and those in authority), not concealed or spread [divergence
+    between the texts]; and 4 more.'
   basis: reading
 - text: 'The Song of Deborah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

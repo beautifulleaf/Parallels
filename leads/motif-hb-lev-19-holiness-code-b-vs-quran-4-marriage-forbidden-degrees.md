@@ -20,13 +20,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Man who lies with a slave woman designated to another man: inquiry
-    and guilt offering, not death, because she is not free (weight 6.7). Pair score 6.7.'
+    and guilt offering, not death, because she is not free (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Gashes in the flesh
-    for the dead and tattoo marks are forbidden; Prohibition of cross-breeding animals, sowing mixed seed
-    and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three years, holy in the fourth,
-    eaten in the fifth; Rise before the gray-haired and honor the elderly; A father must not make his
-    daughter a prostitute; The head of a household must not prostitute a woman under his authority [divergence
+- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Prohibition of cross-breeding
+    animals, sowing mixed seed and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three
+    years, holy in the fourth, eaten in the fifth; Rise before the gray-haired and honor the elderly;
+    Gashes in the flesh for the dead and tattoo marks are forbidden; A father must not make his daughter
+    a prostitute; The head of a household must not prostitute a woman under his authority [divergence
     between the texts]; Just weights and measures, and the ground given for them [divergence between the
     texts]; Love the stranger, for you were strangers in Egypt; Kindness to the near neighbor, the distant
     neighbor, the companion at one''s side and the wayfarer; Do not wear wool and linen together (sha''atnez);
@@ -41,9 +41,9 @@ evidence:
     slave woman who commits indecency receives half the punishment of a free woman; The husband gives
     the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; List of forbidden
     close-kin unions (''uncovering nakedness'') [divergence between the texts]; Married women are forbidden
-    except those one''s right hand possesses (captives); Marrying two sisters [divergence between the
-    texts]; A man may not marry his wife''s sister as a rival while the wife lives; What becomes of a
-    dead man''s widow within his family [contrast between the texts]; and 4 more.'
+    except those one''s right hand possesses (captives); A man marries a slave woman by leave of her owner
+    and with a payment; Marrying two sisters [divergence between the texts]; A man may not marry his wife''s
+    sister as a rival while the wife lives; and 6 more.'
   basis: reading
 - text: 'Mixtures, orlah fruit, mourning cuttings, alien and just weights: tagged by Claude (model), reading
     the Hebrew.'

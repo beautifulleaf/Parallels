@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At judgment the associated ''partners'' disown their worshipers:
-    ''it was not us you worshiped'' (weight 5.0). Pair score 5.0.'
+    ''it was not us you worshiped'' (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Bel and Nebo carried off; God who carries Israel: Babylon''s gods Bel and Nebo bow and
     stoop, their images loaded as burdens on weary beasts; God summons a bird of prey from the east, the

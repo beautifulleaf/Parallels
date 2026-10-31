@@ -18,29 +18,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayers made toward the temple (or toward the land, city and house
-    when in exile) are heard in heaven (weight 6.0). Pair score 6.0.'
+    when in exile) are heard in heaven (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Solomon''s prayer of dedication: Exiles in an enemy land turn back with all their heart
     and pray toward their land, and God grants them mercy before captors; A foreigner from a far land
     who hears of God''s name comes to pray at the temple and is heard; ''There is no man who does not
-    sin''; A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Long
-    catalogue of curses for covenant violation (disease, defeat, famine, exile); Heaven and the heaven
-    of heavens cannot contain God, much less a temple; Egypt called an iron furnace (smelting furnace);
-    The direction faced in prayer [divergence between the texts]; Heaven is shut and no rain falls because
-    of the people''s sin; repentance brings rain; Heaven and the heaven of heavens belong to God; Prophet
+    sin''; A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Egypt
+    called an iron furnace (smelting furnace); The direction faced in prayer [divergence between the texts];
+    Heaven and the heaven of heavens cannot contain God, much less a temple; Heaven is shut and no rain
+    falls because of the people''s sin; repentance brings rain; Long catalogue of curses for covenant
+    violation (disease, defeat, famine, exile); Heaven and the heaven of heavens belong to God; Prophet
     spreads out his palms to God in prayer; God alone knows the hearts of all humans.'
   basis: reading
 - text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Only some youths (dhurriyya)
     of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
     the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
-    the texts]; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
-    of prayer); God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
-    between the texts]; Threatened believers say ''to our Lord we return'' and pray for patience and to
-    die as muslims; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God or
-    his own sin, and what follows; Pharaoh acknowledges Israel''s God or his own sin, and what follows
-    [divergence between the texts]; Who throws the staff before Pharaoh and what it becomes; and 10 more.'
+    they see punishment; The defeated enemy''s form (image or body) is kept as a sign (Akk. ittu, Ar.
+    āya) for those who come after [divergence between the texts]; What becomes of the drowned Pharaoh
+    and his army after the sea [divergence between the texts]; Moses and Aaron are told to make their
+    people''s houses in Egypt a qibla (place/direction of prayer); God''s instruction about the Israelites''
+    houses in Egypt before the exodus [divergence between the texts]; Threatened believers say ''to our
+    Lord we return'' and pray for patience and to die as muslims; Why Pharaoh pursues the departing Israelites;
+    Pharaoh acknowledges Israel''s God or his own sin, and what follows; Pharaoh acknowledges Israel''s
+    God or his own sin, and what follows [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'Solomon''s prayer of dedication: tagged by Claude (model), reading the Hebrew.'
   basis: reading

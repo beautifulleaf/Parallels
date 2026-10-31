@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests his people as silver is refined in the crucible (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas pe to tav: Speaker strays like a lost sheep and asks God to seek his
     servant; Speaker rises before dawn (neshef) and anticipates the night watches to cry out and meditate;
@@ -27,8 +27,8 @@ evidence:
     the speaker; Speaker remembers and meditates on God on his bed through the night watches; The righteous
     slept little of the night and sought forgiveness in the hours before dawn (ashar); Psalm in 22 stanzas
     of eight lines, every line of a stanza beginning with the same letter, each line naming the Torah;
-    Blessing: may God make his face shine upon you; Those who hate the speaker without cause (hinnam);
-    God''s commandments or Torah are the speaker''s delight (sha''ashu''im).'
+    Those who hate the speaker without cause (hinnam); God''s commandments or Torah are the speaker''s
+    delight (sha''ashu''im); Blessing: may God make his face shine upon you.'
   basis: reading
 - text: 'Only in Badr and Uhud: God helped you at Badr when you were weak; The prophet told to be gentle,
     pardon them and consult them (shawirhum) in the matter; Such days God alternates among people; Defeat
@@ -38,7 +38,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 17 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 25 more.'
   basis: reading
 - text: 'Psalm 119, stanzas pe to tav: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God willed he could remove you and bring a new creation (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The golden calf: Aaron builds an altar before the calf and proclaims a feast to YHWH;
     Intercessor reminds God of his oath to Abraham, Isaac and Jacob; The people eat, drink and rise up
@@ -38,11 +38,12 @@ evidence:
     prayer and will disown it at the Resurrection; The form, faces and number of wings of heavenly beings
     [divergence between the texts]; Each cherub or living creature has four faces (human, lion, ox/cherub,
     eagle), four wings and human hands under the wings; What God opens no one can shut, and what he withholds
-    no one can release; What happens where fresh and salt water meet [divergence between the texts]; God
+    no one can release; What happens where fresh and salt water meet [divergence between the texts]; A
+    god''s act sets fresh (sweet) water against salt (bitter) water [divergence between the texts]; God
     began man''s creation from clay, then made his progeny from an extract of a despised fluid, then shaped
-    him and breathed of his spirit; No one is granted long life or has his life shortened except it is
-    in a Book; The life of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter
-    is the true life; Sun and moon are subjected, each running to an appointed term; and 6 more.'
+    him and breathed of his spirit; The life of this world is only amusement and play (lahw wa-la''ib);
+    the abode of the hereafter is the true life; No one is granted long life or has his life shortened
+    except it is in a Book; and 7 more.'
   basis: reading
 - text: 'The golden calf: tagged by Claude (model), reading the Hebrew.'
   basis: reading

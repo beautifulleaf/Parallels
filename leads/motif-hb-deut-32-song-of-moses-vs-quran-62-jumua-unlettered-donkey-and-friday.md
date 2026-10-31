@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised among the unlettered (ummiyyun, Gentiles) a messenger
-    from among them, reciting signs, purifying them and teaching the Book and wisdom (weight 6.7). Pair
-    score 6.7.'
+    from among them, reciting signs, purifying them and teaching the Book and wisdom (weight 7.7). Pair
+    score 7.7.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 30 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; Whether God, or the gods, eat the offerings [contrast between the texts]; and 30
+    more.'
   basis: reading
 - text: 'Only in Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for
     death, and the Friday prayer: When they saw trade or amusement they rushed to it and left the prophet
@@ -39,14 +39,14 @@ evidence:
     When the call to prayer is made on Friday (yawm al-jumu''a), hasten to God''s remembrance and leave
     trading; after the prayer disperse and seek God''s bounty; Challenge to the Jews: if you claim to
     be God''s friends apart from others, wish for death, if you are truthful; they never will; The death
-    you flee from will surely meet you; Israel likened to a donkey that knows, or does not understand,
-    what it has [divergence between the texts]; Merchants ask when the new moon and sabbath will be over
-    so they can sell grain with small ephah, big shekel and false scales; Reformer rebukes treading winepresses,
+    or fate a man flees comes after him and meets him [divergence between the texts]; The death you flee
+    from will surely meet you; Israel likened to a donkey that knows, or does not understand, what it
+    has [divergence between the texts]; Merchants ask when the new moon and sabbath will be over so they
+    can sell grain with small ephah, big shekel and false scales; Reformer rebukes treading winepresses,
     loading donkeys and selling fish on the Sabbath; Trade on the weekly holy day [divergence between
     the texts]; The weekly holy day, and whether it rests on God''s rest [divergence between the texts];
     Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
-    Maker, Fashioner; to him belong the most beautiful names; Opening formula: whatever is in the heavens
-    and the earth glorifies God (sabbaha / yusabbihu lillah).'
+    Maker, Fashioner; to him belong the most beautiful names; and 1 more.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

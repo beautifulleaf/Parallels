@@ -19,24 +19,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer that God not turn (incline) the petitioner''s heart aside,
-    but toward his way (weight 6.3). Pair score 6.3.'
+    but toward his way (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 141, prayer as incense, guard on the mouth: ''As when one plows and breaks up the
-    earth, our bones are scattered at the mouth of Sheol''; ''Set a guard, YHWH, over my mouth; keep watch
-    over the door of my lips''; Their judges are thrown down by the sides of the rock (cliff); ''Let my
-    prayer be set before you as incense, the lifting of my hands as the evening offering''; Let the righteous
-    strike and rebuke me in kindness; it is oil on the head; Urgent plea ''O God, hasten to help me; do
-    not delay''; Lifting the hands (palms) in prayer or blessing; Those who dig a pit or spread a net
-    for the righteous fall into it themselves.'
+    earth, our bones are scattered at the mouth of Sheol''; Their judges are thrown down by the sides
+    of the rock (cliff); ''Let my prayer be set before you as incense, the lifting of my hands as the
+    evening offering''; Let the righteous strike and rebuke me in kindness; it is oil on the head; ''Set
+    a guard, YHWH, over my mouth; keep watch over the door of my lips''; Urgent plea ''O God, hasten to
+    help me; do not delay''; Those who dig a pit or spread a net for the righteous fall into it themselves;
+    Lifting the hands (palms) in prayer or blessing.'
   basis: reading
 - text: 'Only in Torah, Gospel and the clear and ambiguous verses: Scripture has decisive verses (muhkamat),
     the mother of the book, and ambiguous ones (mutashabihat) whose interpretation God knows; God shapes
-    you in the wombs as he wills; God sent down the Torah (al-Tawrat) and the Gospel (al-Injil) before
-    as guidance; Israel''s God is called ''the living God, enduring forever, whose kingdom shall never
-    be destroyed''; God is king or master of the Day of Judgment (yawm al-din); God the Ever-Living, the
-    Self-Subsisting (al-hayy al-qayyum); The secret things belong to God; the revealed things to us and
-    our children; God formed the kidneys and wove (knit) the speaker in his mother''s womb; A surah opens
-    with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    you in the wombs as he wills; The god''s holy word is known to those who know it and unknown to those
+    who do not; who can find out his intentions?; God sent down the Torah (al-Tawrat) and the Gospel (al-Injil)
+    before as guidance; Israel''s God is called ''the living God, enduring forever, whose kingdom shall
+    never be destroyed''; God is king or master of the Day of Judgment (yawm al-din); God the Ever-Living,
+    the Self-Subsisting (al-hayy al-qayyum); The secret things belong to God; the revealed things to us
+    and our children; God formed the kidneys and wove (knit) the speaker in his mother''s womb; A surah
+    opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
   basis: reading
 - text: 'Psalm 141, prayer as incense, guard on the mouth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

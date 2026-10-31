@@ -19,10 +19,10 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The chiefs (al-mala'') of the prophet''s people accuse him of error
-    or folly and reject him (weight 6.0); Prophet''s refrain to his people: ''Worship God; you have no
-    god other than him'' (weight 5.2); Hero warns or preaches to his people before the flood (weight 5.2);
-    Destruction follows the people''s rejection of a messenger (weight 4.8); Hero''s family saved with
-    him (weight 4.5). Pair score 25.7.'
+    or folly and reject him (weight 7.1); Prophet''s refrain to his people: ''Worship God; you have no
+    god other than him'' (weight 6.2); Hero warns or preaches to his people before the flood (weight 6.2);
+    Destruction follows the people''s rejection of a messenger (weight 5.9); Hero''s family saved with
+    him (weight 5.4). Pair score 30.9.'
   basis: reading
 - text: 'Only in Noah warns his people: The drowned/destroyed were a blind people; Destruction follows
     the people''s rejection of a messenger [divergence between the texts]; Hero warns or preaches to his
@@ -36,11 +36,13 @@ evidence:
     subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
     the prophet because only the lowest of them follow him; God answers that the drowned son is not of
     Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
-    unknown to him and his people before; The ark sails through waves like mountains; What the flood hero
-    does when the vessel comes to rest; What God says of later generations after the flood: no repeat,
-    or punishment to come [contrast between the texts]; How the flood waters are stopped and subside [divergence
-    between the texts]; The prophet''s opponents object that only the lowliest follow him; he refuses
-    to drive the believers away; Someone seeks refuge on a mountain and is drowned; and 24 more.'
+    unknown to him and his people before; The ark sails through waves like mountains; The flood hero is
+    blessed after the flood; the content of the blessing [divergence between the texts]; What the flood
+    hero receives when he leaves the vessel [divergence between the texts]; A son who rejects his father''s
+    teaching is to be driven away: ''he is not your son, he was not born to you'' [divergence between
+    the texts]; The earth is addressed in the vocative and bidden to open, receive or swallow something
+    [shared matter] [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; and 37 more.'
   basis: reading
 - text: 'Noah warns his people: tagged by Claude (model), reading the Arabic.'
   basis: reading

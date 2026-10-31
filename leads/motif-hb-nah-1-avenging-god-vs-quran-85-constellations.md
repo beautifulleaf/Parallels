@@ -20,29 +20,33 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: Cluster of divine epithets in sequence (e.g. the Forgiving, the
     Loving, Lord of the Throne, the Glorious, doer of what he wills; or Lord, King, God of mankind) (weight
-    6.3). Pair score 6.3.'
+    5.7). Pair score 5.7.'
   basis: reading
-- text: 'Only in The jealous and avenging God against Nineveh: God''s way is in whirlwind and storm, and
-    the clouds are the dust of his feet; One who plots evil against YHWH comes out of the enemy city,
-    a counselor of Belial (beliyya''al); YHWH is an avenging God (noqem), ''lord of wrath'' (ba''al hemah),
-    keeping anger for his enemies; God rebukes the sea and dries it up and makes all rivers fail; Bashan,
-    Carmel and Lebanon wither; ''Who can stand before his indignation?'': rhetorical question on the unendurable
-    divine wrath; Command to destroy figured stones, molten images and high places of the land; God broke
-    the bars of the yoke and made the people walk upright; God is a jealous God; God called rock, fortress,
-    refuge, stronghold or tower of strength; At God''s coming the earth quakes, heavens drip and mountains
-    flow; Formula of divine attributes: slow to anger, abundant in mercy, visits iniquity to fourth generation;
-    The poem is an alphabetic acrostic (lines or stanzas begin with successive letters); and 1 more.'
+- text: 'Only in The jealous and avenging God against Nineveh: One who plots evil against YHWH comes out
+    of the enemy city, a counselor of Belial (beliyya''al); God''s way is in whirlwind and storm, and
+    the clouds are the dust of his feet; YHWH is an avenging God (noqem), ''lord of wrath'' (ba''al hemah),
+    keeping anger for his enemies; ''Who can stand before his indignation?'': rhetorical question on the
+    unendurable divine wrath; God rebukes the sea and dries it up and makes all rivers fail; Bashan, Carmel
+    and Lebanon wither; Command to destroy figured stones, molten images and high places of the land;
+    God broke the bars of the yoke and made the people walk upright; God is a jealous God; God called
+    rock, fortress, refuge, stronghold or tower of strength; Formula of divine attributes: slow to anger,
+    abundant in mercy, visits iniquity to fourth generation; Brief oracles against neighboring nations
+    (Amalek, Kenite, Asshur, Kittim); At God''s coming the earth quakes, heavens drip and mountains flow;
+    and 1 more.'
   basis: reading
 - text: 'Only in The constellations: the people of the ditch and the preserved tablet: The scripture is
     a glorious recitation inscribed on a preserved tablet (lawh mahfuz) in heaven; Oath by the sky possessing
     the constellations or towers (dhat al-buruj); The people of the ditch (ashab al-ukhdud) sit by a fire
-    pit, watching what they do to believers, whose only offense was faith in God; The scripture is a glorious
-    recitation inscribed on a preserved tablet (lawh mahfuz) in heaven [divergence between the texts];
-    Hero thrown into a fire or furnace by a king or people [divergence between the texts]; God originates
-    creation and then repeats it (resurrection as re-creation); List of destroyed peoples or hosts (e.g.
-    ''Ad, Thamud, Pharaoh) recalled as warning; Hero thrown into a fire or furnace by a king or people;
-    A series of oaths by natural phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens
-    or punctuates a passage.'
+    pit, watching what they do to believers, whose only offense was faith in God; The deity calls himself
+    or herself the doer (of what he says, of what he wills); The scripture is a glorious recitation inscribed
+    on a preserved tablet (lawh mahfuz) in heaven [divergence between the texts]; A single heavenly tablet
+    holding supreme decrees, and whether it is guarded or can be stolen [divergence between the texts];
+    Hero thrown into a fire or furnace by a king or people [divergence between the texts]; The epithet
+    ''he does what he wills'' (Eg. Mrr=f-jrr=f, Ar. faʿʿālun li-mā yurīd) [neutral] [divergence between
+    the texts]; God originates creation and then repeats it (resurrection as re-creation); List of destroyed
+    peoples or hosts (e.g. ''Ad, Thamud, Pharaoh) recalled as warning; Hero thrown into a fire or furnace
+    by a king or people; A series of oaths by natural phenomena (dawn, night, day, sun, moon, sky, earth,
+    stars, winds) opens or punctuates a passage.'
   basis: reading
 - text: 'The jealous and avenging God against Nineveh: tagged by Claude (model), reading the Hebrew.'
   basis: reading

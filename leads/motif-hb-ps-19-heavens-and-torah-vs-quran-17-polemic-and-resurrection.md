@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The seven heavens, the earth and everything in them glorify God,
-    though humans do not understand their praise (weight 6.3). Pair score 6.3.'
+    though humans do not understand their praise (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 19 - the heavens declare; the Torah is perfect: God has set a tent for the sun
     in the heavens; The Torah of YHWH is perfect, restoring the soul; its precepts make wise, gladden
     the heart, enlighten the eyes; ''May the words of my mouth and the meditation of my heart be acceptable
     before you, my Rock and Redeemer''; The heavens recount God''s glory; day to day pours out speech
     without words or voice; Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot);
-    The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his course;
-    God''s judgments are more desirable than gold and sweeter than honey and the honeycomb; Sun and moon
-    each swim in an orbit (falak); God called the Rock (tsur); A solid firmament (raqia) separates upper
-    waters from lower waters; Superscription ''for the leader/choirmaster'' (lamenatseah).'
+    God''s judgments are more desirable than gold and sweeter than honey and the honeycomb; The sun comes
+    forth like a bridegroom from his chamber and rejoices like a strong man to run his course; Sun and
+    moon each swim in an orbit (falak); God called the Rock (tsur); A solid firmament (raqia) separates
+    upper waters from lower waters; Superscription ''for the leader/choirmaster'' (lamenatseah).'
   basis: reading
 - text: 'Only in Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60):
     Answer to the deniers: even if you were stone or iron, the one who made you first will raise you;
@@ -42,8 +42,8 @@ evidence:
     the texts]; If there were other gods they would seek a way to the Lord of the Throne; Opponents say
     the believers follow only a bewitched man (rajul mashur); Satan stirs up enmity (nazagha) between
     brothers or among people; Thamud''s most wretched one rises; the messenger warns ''God''s she-camel
-    and her drinking''; they hamstring her and God crushes them; God ranked some messengers above others;
-    to some God spoke; and 6 more.'
+    and her drinking''; they hamstring her and God crushes them; Heaven, earth and inanimate things have
+    a speech that humans do not understand [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Psalm 19 - the heavens declare; the Torah is perfect: tagged by Claude (model), reading the Hebrew.'
   basis: reading

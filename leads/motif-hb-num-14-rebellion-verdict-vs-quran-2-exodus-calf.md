@@ -17,19 +17,19 @@ motifs:
 - murmuring-in-wilderness
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: People propose appointing a leader to go back to Egypt (weight 6.3);
-    The people grumble against their leaders about food or water (weight 5.1). Pair score 11.4.'
+- text: 'Shared motifs, rarest first: People propose appointing a leader to go back to Egypt (weight 7.3);
+    The people grumble against their leaders about food or water (weight 6.1). Pair score 13.5.'
   basis: reading
-- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Intercessor argues the
-    nations would say God was unable; Those who slandered the land die by plague; People have tested God
-    ''ten times''; Forty years of wandering, a year for each day of scouting [divergence between the texts];
-    God threatens to destroy a people and put another in its place [divergence between the texts]; Two
-    faithful spies dissent from the majority [divergence between the texts]; People ordered to fight complain
-    to God and wish to be spared the battle; People attack without God''s ark or leader and are routed;
-    After the people''s rebellion the prophet intercedes for them or asks to be separated from them [divergence
-    between the texts]; Caleb has ''another spirit'' and follows God fully; God offers to destroy the
-    people and make a nation of the hero instead; The townsfolk say ''we augur ill of you'' and threaten
-    to stone the messengers; they reply ''your omen is with you''; and 9 more.'
+- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Those who slandered the
+    land die by plague; People have tested God ''ten times''; Intercessor argues the nations would say
+    God was unable; Forty years of wandering, a year for each day of scouting [divergence between the
+    texts]; God threatens to destroy a people and put another in its place [divergence between the texts];
+    Two faithful spies dissent from the majority [divergence between the texts]; People ordered to fight
+    complain to God and wish to be spared the battle; People attack without God''s ark or leader and are
+    routed; After the people''s rebellion the prophet intercedes for them or asks to be separated from
+    them [divergence between the texts]; Caleb has ''another spirit'' and follows God fully; God offers
+    to destroy the people and make a nation of the hero instead; The townsfolk say ''we augur ill of you''
+    and threaten to stone the messengers; they reply ''your omen is with you''; and 9 more.'
   basis: reading
 - text: 'Only in Exodus, the calf and the wilderness: Israelites who demanded to see God are struck by
     a thunderbolt and then raised after their death; Who or what parts the sea [divergence between the

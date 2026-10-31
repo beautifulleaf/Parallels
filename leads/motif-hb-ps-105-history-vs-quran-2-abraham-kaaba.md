@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The chain of patriarchs to whom revelation or covenant passed [divergence
-    between the texts] (weight 6.7); God identifies himself as God of Abraham, Isaac and Jacob (weight
-    5.6). Pair score 12.3.'
+    between the texts] (weight 7.7); God identifies himself as God of Abraham, Isaac and Jacob (weight
+    6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -44,8 +44,8 @@ evidence:
     Ishmael pray that a messenger be raised from among their offspring; Whether and how God''s covenant
     with Abraham passes to his offspring [contrast between the texts]; The list of fathers in ''God of
     your fathers'' [divergence between the texts]; Whether Ishmael is with Abraham or sent away [contrast
-    between the texts]; Dying Jacob addresses his sons [divergence between the texts]; A nation descended
-    from Ishmael [divergence between the texts]; and 16 more.'
+    between the texts]; Dying Jacob addresses his sons [divergence between the texts]; Whether one person''s
+    guilt (a parent''s, another''s) comes upon someone else; and 17 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'

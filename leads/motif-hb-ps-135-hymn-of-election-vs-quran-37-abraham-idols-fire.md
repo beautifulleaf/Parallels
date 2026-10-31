@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Psalm 135, hymn on God''s power, election and the idols: Whatever YHWH pleases he does,
     in heaven, on earth, in the seas and all the deeps; God struck the firstborn of Egypt, of man and

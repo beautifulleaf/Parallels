@@ -24,10 +24,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people walk on dry ground through the sea with the waters as
-    a wall on either side [divergence between the texts] (weight 6.7); King regrets releasing the slaves
-    and pursues them with chariots (weight 6.3); The people walk on dry ground through the sea with the
-    waters as a wall on either side (weight 5.3); The returning waters drown the pursuing army; not one
-    survives (weight 4.5). Pair score 22.8.'
+    a wall on either side [divergence between the texts] (weight 7.7); King regrets releasing the slaves
+    and pursues them with chariots (weight 7.3); The people walk on dry ground through the sea with the
+    waters as a wall on either side (weight 6.4); The returning waters drown the pursuing army; not one
+    survives (weight 5.5). Pair score 27.0.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -41,8 +41,8 @@ evidence:
     becomes of the drowned Pharaoh and his army after the sea [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'Only in The night departure, the dry road through the sea, the mount and manna: The covenant
-    appointment is at the right (ayman) side of the Mount (al-Ṭūr); A mountain called the mountain of
-    God; Manna named from the people''s question ''What is it?'' (man hu); Wind brings quail in vast quantity
+    appointment is at the right (ayman) side of the Mount (al-Ṭūr); Manna named from the people''s question
+    ''What is it?'' (man hu); A mountain called the mountain of God; Wind brings quail in vast quantity
     to feed the people.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'

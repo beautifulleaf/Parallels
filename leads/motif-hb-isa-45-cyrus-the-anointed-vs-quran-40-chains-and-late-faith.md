@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: With collars and chains on their necks the damned are dragged through
-    boiling water and then set ablaze in the fire (weight 6.7). Pair score 6.7.'
+    boiling water and then set ablaze in the fire (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls

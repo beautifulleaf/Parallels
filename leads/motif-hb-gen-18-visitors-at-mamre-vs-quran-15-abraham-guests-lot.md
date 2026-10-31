@@ -23,21 +23,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Patriarch or matriarch laughs at the promise of a child in old age
-    [divergence between the texts] (weight 6.7); The patriarch tells his unknown guests ''we are afraid
-    of you'' [divergence between the texts] (weight 6.7); God appears as three men who visit the patriarch
-    (weight 5.8); Patriarch or matriarch laughs at the promise of a child in old age (weight 5.6); A divine
-    messenger announces a son''s birth and gives his name (weight 5.2). Pair score 29.9.'
+    [divergence between the texts] (weight 7.7); The patriarch tells his unknown guests ''we are afraid
+    of you'' [divergence between the texts] (weight 7.7); God appears as three men who visit the patriarch
+    (weight 6.8); Patriarch or matriarch laughs at the promise of a child in old age (weight 6.6); A divine
+    messenger announces a son''s birth and gives his name (weight 6.0). Pair score 35.0.'
   basis: reading
 - text: 'Only in Three visitors at Mamre and the promise of Isaac: Child promised to a woman past childbearing
-    age; The answer given to the old woman''s doubt [divergence between the texts]; Heavenly visitors
-    eat a human meal; Doubt voiced at the promise of a son in old age; Doubt voiced at the promise of
-    a son in old age [divergence between the texts]; The aged father asks how he can have a son when his
-    wife is barren and he is very old [divergence between the texts]; Who is afraid during the visit of
-    the heavenly guests, and why [divergence between the texts]; Host runs to welcome strangers, washes
-    their feet and feeds them [divergence between the texts]; Who Abraham''s visitors are; Who Abraham''s
-    visitors are [divergence between the texts]; When and why Sarah laughs, and how it is answered [divergence
-    between the texts]; Sarah''s reaction to the announcement of a son [divergence between the texts];
-    and 8 more.'
+    age; The answer given to the old woman''s doubt [divergence between the texts]; Doubt voiced at the
+    promise of a son in old age; Doubt voiced at the promise of a son in old age [divergence between the
+    texts]; The aged father asks how he can have a son when his wife is barren and he is very old [divergence
+    between the texts]; Who is afraid during the visit of the heavenly guests, and why [divergence between
+    the texts]; Host runs to welcome strangers, washes their feet and feeds them [divergence between the
+    texts]; Who Abraham''s visitors are; Who Abraham''s visitors are [divergence between the texts]; When
+    and why Sarah laughs, and how it is answered [divergence between the texts]; Sarah''s reaction to
+    the announcement of a son [divergence between the texts]; Whether Abraham''s heavenly guests eat the
+    meal [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Only in Abraham''s guests and the destruction of Lot''s people (Surah 15:51-77): The angelic
     guests reveal they are sent against a criminal people; The rescued family leaves by night, the leader
@@ -48,8 +48,8 @@ evidence:
     and the plain destroyed [divergence between the texts]; The doomed people are seized by the Shout
     (al-sayha) at dawn or sunrise; Do not despair of God''s mercy (rawh / rahma); only unbelievers or
     the astray despair; Command not to look back while fleeing a doomed place [divergence between the
-    texts]; Host offers his virgin daughters to the mob to protect his guests [divergence between the
-    texts]; and 10 more.'
+    texts]; Command: on leaving, do not look behind you (ana arkīka lā tappallas / lā yaltafit minkum
+    aḥad) [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Three visitors at Mamre and the promise of Isaac: tagged by Claude (model), reading the Hebrew.'
   basis: reading

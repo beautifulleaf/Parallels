@@ -19,23 +19,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A witness who hears a public adjuration and withholds testimony
-    bears guilt (weight 6.3). Pair score 6.3.'
+    bears guilt (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Graduated purification offering and the guilt (asham) offering: The poorest bring a flour
-    sin offering without oil or frankincense; One is guilty even for a sin committed without knowing;
-    Restitution to the wronged person precedes the atonement offering; Sacrilege (me''ilah) against the
-    holy things of YHWH; Touching an unclean carcass or human impurity makes one guilty; Defrauding a
-    neighbor with a false oath is a trespass against God; The priest pinches off the bird''s head with
-    his fingernail (melikah); Expiation in steps according to what one can afford [divergence between
-    the texts]; The guilt offering is a ram assessed in silver shekels; The priest burns a handful as
-    the token or ''memorial'' portion (azkarah); Liability for oaths spoken thoughtlessly [contrast between
-    the texts]; The priest makes atonement and the sinner is forgiven; and 8 more.'
+    sin offering without oil or frankincense; Restitution to the wronged person precedes the atonement
+    offering; Sacrilege (me''ilah) against the holy things of YHWH; Touching an unclean carcass or human
+    impurity makes one guilty; Defrauding a neighbor with a false oath is a trespass against God; The
+    priest pinches off the bird''s head with his fingernail (melikah); Expiation in steps according to
+    what one can afford [divergence between the texts]; The guilt offering is a ram assessed in silver
+    shekels; The priest burns a handful as the token or ''memorial'' portion (azkarah); Liability for
+    oaths spoken thoughtlessly [contrast between the texts]; The priest makes atonement and the sinner
+    is forgiven; A rash oath spoken thoughtlessly requires atonement [divergence between the texts]; and
+    8 more.'
   basis: reading
 - text: 'Only in The debt verse: A debt for a fixed term must be written by a just scribe, dictated by
     the debtor or his guardian; Two male witnesses, or one man and two women so that if one errs the other
-    reminds her; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; A land deed
-    made in a sealed copy and an open copy, witnessed and the silver weighed; How many witnesses are required
-    [divergence between the texts]; No one put to death on the testimony of a single witness.'
+    reminds her; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; The scribe who
+    writes a debt or account must not cheat with his pen; he writes with justice; A land deed made in
+    a sealed copy and an open copy, witnessed and the silver weighed; A transfer of goods (gift, sale,
+    debt) is to be written down and witnessed; Knowing the matter and not speaking: withholding testimony
+    as a sin; How many witnesses are required [divergence between the texts]; No one put to death on the
+    testimony of a single witness.'
   basis: reading
 - text: 'Graduated purification offering and the guilt (asham) offering: tagged by Claude (model), reading
     the Hebrew.'

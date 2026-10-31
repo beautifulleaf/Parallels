@@ -22,20 +22,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made a covenant with Adam, but he forgot and lacked resolve
-    [divergence between the texts] (weight 6.7); In the garden Adam will not hunger, be naked, thirst
-    or suffer the sun''s heat [divergence between the texts] (weight 6.7); God plants a garden (Eden)
-    in the east and places the first human there (weight 5.6); A tree whose fruit gives eternal life (weight
-    5.4). Pair score 24.4.'
+    [divergence between the texts] (weight 7.7); In the garden Adam will not hunger, be naked, thirst
+    or suffer the sun''s heat [divergence between the texts] (weight 7.7); God plants a garden (Eden)
+    in the east and places the first human there (weight 6.4); A tree whose fruit gives eternal life (weight
+    6.2). Pair score 28.1.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; The first man names the animals; Whether the
-    first couple were naked or clothed before the fall [contrast between the texts]; The first man and
-    the names of the creatures [divergence between the texts]; How the first human''s mate is made from
-    the first human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast
-    between the texts]; The tree forbidden to the first humans [divergence between the texts]; Forming
-    a creature from earth and breathing life into it [divergence between the texts]; and 18 more.'
+    threatened with death; The first human is put in the garden to work and guard it; Whether the first
+    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
+    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
+    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
+    the texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; The likeness of Jesus with God is as Adam, created from dust by ''Be''; Man leaves father
+    and mother and cleaves to his wife; they become one flesh; and 18 more.'
   basis: reading
 - text: 'Only in Adam''s forgetting, Iblis, the tree of immortality and the descent: God made a covenant
     with Adam, but he forgot and lacked resolve; In the garden Adam will not hunger, be naked, thirst
@@ -44,11 +45,10 @@ evidence:
     that never decays''; Adam receives words from his Lord and God turns to him in forgiveness; Adam receives
     words from his Lord and God turns to him in forgiveness [divergence between the texts]; God commands
     the angels to prostrate to Adam; all do except Iblis, who refuses; Satan whispers (waswasa) to tempt
-    humans; Eating opens their eyes and they know they are naked [divergence between the texts]; The tempter
-    offers ''the tree of immortality and a kingdom that never decays'' [divergence between the texts];
-    Enmity between the serpent''s seed and the woman''s seed: head bruised, heel struck; Enmity between
-    the serpent''s seed and the woman''s seed: head bruised, heel struck [divergence between the texts];
-    and 5 more.'
+    humans; Eating opens their eyes and they know they are naked [divergence between the texts]; A human
+    is given an instruction about what not to eat and either holds fast to it or forgets it [divergence
+    between the texts]; After the episode of the forbidden or refused food; The tempter offers ''the tree
+    of immortality and a kingdom that never decays'' [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

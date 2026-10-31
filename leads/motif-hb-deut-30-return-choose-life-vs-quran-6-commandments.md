@@ -12,23 +12,23 @@ traditions:
 layers:
 - motif
 motifs:
-- choose-life
 - no-soul-burdened-beyond-capacity
+- choose-life
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: I set before you life and death, blessing and curse: choose life
-    (weight 5.6); God burdens no soul beyond its capacity (weight 5.6). Pair score 11.2.'
+- text: 'Shared motifs, rarest first: God burdens no soul beyond its capacity (weight 6.6); I set before
+    you life and death, blessing and curse: choose life (weight 6.5). Pair score 13.1.'
   basis: reading
 - text: 'Only in Return from exile; the near commandment; choose life: God himself will circumcise your
-    heart and your offspring''s heart; Blessing and curse set before the people as a choice; I set before
-    you life and death, blessing and curse: choose life [divergence between the texts]; Those who break
-    God''s covenant and sever ties have the curse and the evil abode; The commandment is not in heaven
-    or beyond the sea but in your mouth and heart; God tries towns with hardship, then with ease, then
-    seizes them suddenly; God will remove the heart of stone and give a heart of flesh and a new spirit;
-    Heaven and earth called as witnesses against the people; In the end of days, in distress, the people
-    will seek God and return; God will gather the exiles even from the end of heaven and restore them.'
+    heart and your offspring''s heart; I set before you life and death, blessing and curse: choose life
+    [divergence between the texts]; Those who break God''s covenant and sever ties have the curse and
+    the evil abode; The commandment is not in heaven or beyond the sea but in your mouth and heart; God
+    tries towns with hardship, then with ease, then seizes them suddenly; Blessing and curse set before
+    the people as a choice; God will remove the heart of stone and give a heart of flesh and a new spirit;
+    In the end of days, in distress, the people will seek God and return; Heaven and earth called as witnesses
+    against the people; God will gather the exiles even from the end of heaven and restore them.'
   basis: reading
 - text: 'Only in The recited commandments (the Quranic decalogue): List of commandments introduced ''Come,
     I will recite what your Lord has forbidden you''; Lest you say scripture was sent only to two groups

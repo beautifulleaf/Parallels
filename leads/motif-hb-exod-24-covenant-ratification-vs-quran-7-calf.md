@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seventy elders of Israel accompany or assist the prophet [contrast
-    between the texts] (weight 6.7); Seventy elders of Israel accompany or assist the prophet (weight
-    6.0). Pair score 12.7.'
+    between the texts] (weight 7.7); Seventy elders of Israel accompany or assist the prophet (weight
+    7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Covenant ratified in blood; the elders see God: Sacrificial blood splashed on altar and
     people seals the covenant (''blood of the covenant''); A meal eaten in God''s presence seals a covenant;
@@ -41,7 +41,7 @@ evidence:
     he will be gracious to whom he will be gracious; Moses intercedes for Aaron, with whom God was angry
     enough to destroy him; God''s mercy encompasses all things; Moses includes himself with the guilty
     people in his plea after the calf [divergence between the texts]; Moses prays for Aaron after the
-    calf [divergence between the texts]; and 14 more.'
+    calf [divergence between the texts]; and 15 more.'
   basis: reading
 - text: 'Covenant ratified in blood; the elders see God: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -18,16 +18,16 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Intercession avails only for whom God permits (weight 4.8). Pair
-    score 4.8.'
+- text: 'Shared motifs, rarest first: Intercession avails only for whom God permits (weight 5.9). Pair
+    score 5.9.'
   basis: reading
 - text: 'Only in Though Moses and Samuel stood before me: God appoints four kinds of destroyers: the sword
     to kill, dogs to drag, birds and beasts to devour; Those destined for death to death, for the sword
     to the sword, for famine to famine, for captivity to captivity; God says ''I am weary of relenting''
     (nil''eti hinnahem); She who bore seven languishes and breathes out her life; her sun goes down while
-    it is still day; A later disaster is attributed to the unforgiven sins and innocent blood of an earlier
-    king; Moses, Aaron and Samuel named together as those who called on God and were answered; Even if
-    the prophet asks forgiveness for them seventy times God will not forgive them.'
+    it is still day; Moses, Aaron and Samuel named together as those who called on God and were answered;
+    Even if the prophet asks forgiveness for them seventy times God will not forgive them; A later disaster
+    is attributed to the unforgiven sins and innocent blood of an earlier king.'
   basis: reading
 - text: 'Only in Partners own nothing; intercession; the weak and the arrogant at judgment: When terror
     is lifted from their hearts they ask ''what did your Lord say?'' and answer ''The truth''; Iron collars

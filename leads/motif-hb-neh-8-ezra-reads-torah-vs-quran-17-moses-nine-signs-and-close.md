@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those given knowledge before fall on their chins prostrate and weeping
-    when the scripture is recited [divergence between the texts] (weight 6.7); The people weep on hearing
-    the words of the Torah (weight 6.3). Pair score 13.0.'
+    when the scripture is recited [divergence between the texts] (weight 7.7); The people weep on hearing
+    the words of the Torah (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored: Assembly
     answers the blessing ''Amen, Amen'' with uplifted hands and prostrates; Festival booths built on rooftops,
@@ -29,10 +29,10 @@ evidence:
     ''The joy of the LORD is your strength''; Studying the Torah, the leaders find a forgotten commandment
     written in it; Levites explain the Torah reading so the people understand it; When the reader opens
     the scroll all the people stand up; On the holy day the people eat, drink and send portions to those
-    who have nothing; Reader stands on a wooden tower made for the purpose, flanked by named men; The
-    people gather ''as one man'' to Jerusalem; An eighth day of solemn assembly (''atseret) closes the
-    seven-day festival; Fruit of a goodly tree, palm fronds, leafy boughs and brook willows taken for
-    the festival; and 4 more.'
+    who have nothing; Reader stands on a wooden tower made for the purpose, flanked by named men; An eighth
+    day of solemn assembly (''atseret) closes the seven-day festival; Fruit of a goodly tree, palm fronds,
+    leafy boughs and brook willows taken for the festival; Those who do not prostrate when the scripture
+    is recited to them are rebuked (a prostration verse) [contrast between the texts]; and 4 more.'
   basis: reading
 - text: 'Only in Moses'' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111):
     Call on God as Allah or as al-Rahman: to him belong the most beautiful names; After Pharaoh''s drowning
@@ -41,10 +41,11 @@ evidence:
     you are doomed''; Those given knowledge before fall on their chins prostrate and weeping when the
     scripture is recited; Moses was given nine clear signs; Do not be loud in prayer nor too quiet; seek
     a way between [contrast between the texts]; The scripture is sent down in portions so the prophet
-    recites it to people at intervals; Moses was given nine clear signs [divergence between the texts];
-    Those who do not prostrate when the scripture is recited to them are rebuked (a prostration verse);
-    The returning waters drown the pursuing army; not one survives [divergence between the texts]; Denial
-    that God has taken a son (walad); and 2 more.'
+    recites it to people at intervals; Whatever name is pronounced, it belongs to the one god: ''he is
+    our god'' / ''his are the beautiful names''; Whatever name is pronounced, it belongs to the one god:
+    ''he is our god'' / ''his are the beautiful names'' [divergence between the texts]; Moses was given
+    nine clear signs [divergence between the texts]; Those who do not prostrate when the scripture is
+    recited to them are rebuked (a prostration verse); and 5 more.'
   basis: reading
 - text: 'Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored: tagged by Claude
     (model), reading the Hebrew.'

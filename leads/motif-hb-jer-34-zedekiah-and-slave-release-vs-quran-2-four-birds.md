@@ -18,21 +18,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Covenant ritual: animals cut in halves and a divine presence passes
-    between them (weight 6.3). Pair score 6.3.'
+    between them (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Zedekiah''s fate and the revoked release of slaves; the calf cut in two: Owners free
     their Hebrew slaves under covenant oath, then take them back; Funeral cry ''Hoy, lord!'' (alas, master)
     for a dead king; Because they revoked the slaves'' release, God ''proclaims a release'' for them to
     sword, pestilence and famine; Lachish and Azekah are the last fortified cities of Judah holding out;
-    Burnings (of spices) made at a king''s funeral as for his fathers; Your corpse food for birds and
-    beasts with no one to frighten them away; The king will see the conquering king eye to eye and speak
-    with him mouth to mouth; Proclaim release (deror) throughout the land to all its inhabitants; Hebrew
-    slaves are released in the seventh year; Judgment by the triad sword, famine and pestilence.'
+    The king will see the conquering king eye to eye and speak with him mouth to mouth; Burnings (of spices)
+    made at a king''s funeral as for his fathers; Hebrew slaves are released in the seventh year; Your
+    corpse food for birds and beasts with no one to frighten them away; Proclaim release (deror) throughout
+    the land to all its inhabitants; Judgment by the triad sword, famine and pestilence.'
   basis: reading
 - text: 'Only in Abraham and the four birds: Abraham, asking to see how God revives the dead, takes four
     birds, places parts on each hill, calls them and they come flying; Abraham takes and cuts animals
-    at God''s command [divergence between the texts]; The called one asks for a sign that it is God who
-    speaks [divergence between the texts]; The called one asks for a sign that it is God who speaks.'
+    at God''s command [divergence between the texts]; Creatures cut in pieces, the parts set apart, are
+    made whole and alive by a spoken word [neutral] [divergence between the texts]; The called one asks
+    for a sign that it is God who speaks [divergence between the texts]; The called one asks for a sign
+    that it is God who speaks.'
   basis: reading
 - text: 'Zedekiah''s fate and the revoked release of slaves; the calf cut in two: tagged by Claude (model),
     reading the Hebrew.'

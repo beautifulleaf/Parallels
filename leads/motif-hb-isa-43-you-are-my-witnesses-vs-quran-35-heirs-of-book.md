@@ -19,21 +19,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Challenge to idolaters: show me what those besides God have created
-    (weight 5.3). Pair score 5.3.'
+    (weight 6.4). Pair score 6.4.'
   basis: reading
-- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Fear not,
-    for I have redeemed you; I have called you by name, you are mine''; ''Your first father sinned and
-    your interpreters (melitsim) transgressed against me''; God says to north ''Give up'' and to south
-    ''Do not withhold'': bring my sons from afar and my daughters from the end of the earth; The wild
-    beasts, jackals and ostriches honor God for the water he gives in the desert; God gives Egypt, Cush
-    and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I, I am YHWH, and besides
-    me there is no savior''; ''Do not remember the former things... Behold I am doing a new thing; now
-    it springs forth'': a way in the wilderness, rivers in the desert; When you pass through waters God
-    is with you and rivers will not overwhelm you; through fire you will not be burned; Israel did not
-    weary itself with offerings for God but wearied him with its sins; he blots out transgressions for
-    his own sake; Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen,
-    fallen is Babylon!'' and all her idols shattered on the ground; Oracle of salvation: ''Fear not, for
-    I am with you; I will strengthen and help you''; and 16 more.'
+- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Your first
+    father sinned and your interpreters (melitsim) transgressed against me''; God says to north ''Give
+    up'' and to south ''Do not withhold'': bring my sons from afar and my daughters from the end of the
+    earth; The wild beasts, jackals and ostriches honor God for the water he gives in the desert; God
+    gives Egypt, Cush and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I,
+    I am YHWH, and besides me there is no savior''; ''Do not remember the former things... Behold I am
+    doing a new thing; now it springs forth'': a way in the wilderness, rivers in the desert; Israel did
+    not weary itself with offerings for God but wearied him with its sins; he blots out transgressions
+    for his own sake; ''Fear not, for I have redeemed you; I have called you by name, you are mine'';
+    Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen, fallen is
+    Babylon!'' and all her idols shattered on the ground; God himself devotes the nations (or a nation)
+    to destruction (herem) and gives them to slaughter; What God created humans, or his people, for [divergence
+    between the texts]; and 16 more.'
   basis: reading
 - text: 'Only in The heirs of the Book, the Gardens of Eden and the cries of the damned: God made humans
     successors (khala''if) on the earth; Heirs of the Book are of three kinds: one who wrongs himself,
@@ -41,10 +41,11 @@ evidence:
     to be returned to do good; God holds the heavens and the earth lest they cease; if they ceased, no
     one else could hold them; If God took people to task for what they earned he would not leave a creature
     on the earth''s back, but he defers them to a set term; Paradise is the abode of permanence where
-    no toil or weariness touches the blessed and grief is removed; The evil plot encompasses only its
-    own authors; In paradise the righteous are adorned with gold bracelets and pearls and wear silk; In
-    hell the damned neither die nor live; The way (sunna) of God with those who passed before: you will
-    find no change in God''s way; Travel in the land and see the end of those who denied.'
+    no toil or weariness touches the blessed and grief is removed; The evil plot or sorcery turns back
+    upon its own author; The evil plot or sorcery turns back upon its own author [divergence between the
+    texts]; The evil plot encompasses only its own authors; In paradise the righteous are adorned with
+    gold bracelets and pearls and wear silk; The god (alone) holds the heavens (and earth) in place: the
+    bond or rope of heaven, holding back the sky; In hell the damned neither die nor live; and 3 more.'
   basis: reading
 - text: 'I have called you by name; you are my witnesses; behold I do a new thing: tagged by Claude (model),
     reading the Hebrew.'

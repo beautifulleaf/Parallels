@@ -20,27 +20,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is not questioned about what he does, but they are questioned
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Job - cosmic power of God and the impossible lawsuit: God made the constellations Ash
     (Bear?), Kesil (Orion) and Kimah (Pleiades) and the chambers of the south; Life''s days flee faster
     than a runner, reed boats, or a swooping eagle; The earth is given into the hand of the wicked; God
     covers the faces of its judges; ''He destroys both the blameless and the wicked''; God mocks the calamity
-    of the innocent; God moves mountains in anger and shakes the earth so its pillars tremble; God passes
-    by the speaker and he does not see him; God commands the sun not to rise and seals up the stars; God
-    treads on the back (bamot) of Sea; The helpers of Rahab bow beneath God''s wrath; ''How can a man
-    be in the right with God? He could not answer one in a thousand''; Lament that there is no umpire
-    (mokhiach) to lay his hand on both God and man; Even if washed in snow and lye, God would plunge him
-    into the pit so his clothes abhor him; and 7 more.'
+    of the innocent; God passes by the speaker and he does not see him; God commands the sun not to rise
+    and seals up the stars; God treads on the back (bamot) of Sea; The helpers of Rahab bow beneath God''s
+    wrath; ''How can a man be in the right with God? He could not answer one in a thousand''; Lament that
+    there is no umpire (mokhiach) to lay his hand on both God and man; Even if washed in snow and lye,
+    God would plunge him into the pit so his clothes abhor him; Sufferer imagines suing God but knows
+    God''s might would silence or condemn him; and 7 more.'
   basis: reading
 - text: 'Only in Creation not in jest; the unceasing angels and the argument from one God: Those called
     God''s offspring are rather honored servants who do not speak before him [response between the texts];
-    Divine beings take human women as wives; God hurls the truth against falsehood and it shatters its
-    skull, and falsehood vanishes; Those called God''s offspring are rather honored servants who do not
-    speak before him; Those with God glorify him night and day without tiring; Were there gods besides
-    God in heaven and earth, both would have been ruined; In hell the damned neither die nor live; The
-    host of heaven bows down to God; God did not create the heavens and earth and what is between them
-    in play (la''ibin) but in truth; Intercession avails only for whom God permits.'
+    God hurls the truth against falsehood and it shatters its skull, and falsehood vanishes; Those called
+    God''s offspring are rather honored servants who do not speak before him; Those with God glorify him
+    night and day without tiring; Were there gods besides God in heaven and earth, both would have been
+    ruined; Divine beings take human women as wives; In hell the damned neither die nor live; The host
+    of heaven bows down to God; God did not create the heavens and earth and what is between them in play
+    (la''ibin) but in truth; Intercession avails only for whom God permits.'
   basis: reading
 - text: 'Job - cosmic power of God and the impossible lawsuit: tagged by Claude (model), reading the Hebrew.'
   basis: reading

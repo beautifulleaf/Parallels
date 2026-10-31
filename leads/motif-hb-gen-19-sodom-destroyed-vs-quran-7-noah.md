@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The righteous man''s warning is taken as a joke by his own relatives
-    (weight 6.3); Hero''s family saved with him [divergence between the texts] (weight 5.4); Hero''s family
-    saved with him (weight 4.5). Pair score 16.2.'
+    (weight 7.3); Hero''s family saved with him [divergence between the texts] (weight 6.5); Hero''s family
+    saved with him (weight 5.4). Pair score 19.3.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them

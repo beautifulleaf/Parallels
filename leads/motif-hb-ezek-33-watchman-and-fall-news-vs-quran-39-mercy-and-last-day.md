@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''O my servants who have transgressed against themselves, do not
-    despair of God''s mercy; God forgives all sins'' (weight 6.3). Pair score 6.3.'
+    despair of God''s mercy; God forgives all sins'' (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     Survivors in the ruins argue ''Abraham was only one and inherited the land; we are many, so the land
@@ -48,8 +48,8 @@ evidence:
     trumpet blast all in heaven and earth swoon (sa''iqa) except whom God wills; at the second they stand
     looking; On the Day of Resurrection the whole earth is in God''s grip and the heavens folded in his
     right hand; The earth shines (lit up) with God''s glory; The earth shines (lit up) with God''s glory
-    [divergence between the texts]; Who holds the keys that open and shut [divergence between the texts];
-    and 6 more.'
+    [divergence between the texts]; At the gate of the netherworld the gatekeepers question those who
+    arrive [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     tagged by Claude (model), reading the Hebrew.'

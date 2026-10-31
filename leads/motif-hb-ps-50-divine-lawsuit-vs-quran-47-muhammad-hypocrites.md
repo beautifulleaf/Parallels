@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is the Rich (al-ghani) and you are the poor; the miser is miserly
-    only against himself (weight 5.8). Pair score 5.8.'
+    only against himself (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: Superscription
     ascribes the psalm to Asaph; Every beast of the forest is mine, the cattle on a thousand hills, and

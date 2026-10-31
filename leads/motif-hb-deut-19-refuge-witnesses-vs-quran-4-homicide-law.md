@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A place of refuge for one who kills unintentionally [divergence
-    between the texts] (weight 6.0). Pair score 6.0.'
+    between the texts] (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Cities of refuge, boundary stones, false witnesses: Axe head slips off the handle while
     cutting wood and kills a companion (accidental homicide); Deliberate murderer who flees to refuge
@@ -27,17 +27,19 @@ evidence:
     the texts]; Judges told to let no pity hold them back from carrying out a fixed punishment; False
     witness receives the punishment he plotted for his brother; How many witnesses a charge requires [divergence
     between the texts]; How many witnesses are required [divergence between the texts]; Retaliation (talion)
-    for killing or injury [divergence between the texts]; The ''redeemer of blood'' (go''el ha-dam) kills
-    the murderer; Six cities of refuge for the unintentional killer, three on each side of the Jordan;
-    Do not move your neighbor''s ancient boundary marker; and 2 more.'
+    for killing or injury [divergence between the texts]; Six cities of refuge for the unintentional killer,
+    three on each side of the Jordan; Eye for an eye, tooth for a tooth (lex talionis); No one put to
+    death on the testimony of a single witness; and 2 more.'
   basis: reading
 - text: 'Only in Accidental and deliberate killing of a believer: Deliberate killing of a believer is
     punished by hell forever, God''s wrath and curse; Do not tell one who greets you with peace ''you
     are not a believer'' to seize booty; Whoever cannot pay the expiation fasts two consecutive months;
     Accidental killing of a believer: free a believing slave and pay blood money (diya) to the family
-    unless they remit it; A place of refuge for one who kills unintentionally; Murder distinguished from
-    manslaughter by weapon (iron, stone, wood), enmity and intent; The penalty for deliberate murder [divergence
-    between the texts]; Whether payment may substitute for a life [contrast between the texts].'
+    unless they remit it; A place of refuge for one who kills unintentionally; Blood compensation paid
+    to the kin of a man killed who belongs to a people bound by treaty; Murder distinguished from manslaughter
+    by weapon (iron, stone, wood), enmity and intent; The penalty for deliberate murder [divergence between
+    the texts]; Whether payment may substitute for a life [contrast between the texts]; Whether payment
+    may substitute for a life.'
   basis: reading
 - text: 'Cities of refuge, boundary stones, false witnesses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

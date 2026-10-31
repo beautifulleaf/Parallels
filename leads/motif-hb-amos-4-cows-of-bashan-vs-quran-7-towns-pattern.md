@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Refrain listing plagues (famine, drought, blight, locust, pestilence,
-    war, overthrow): ''yet you did not return to me'' (weight 6.0). Pair score 6.0.'
+    war, overthrow): ''yet you did not return to me'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Cows of Bashan; ''yet you did not return''; prepare to meet your God: The wealthy women
     of Samaria are called ''cows of Bashan'' who oppress the poor and say to their husbands ''Bring, let
@@ -28,17 +28,17 @@ evidence:
     treads the heights; YHWH of hosts is his name; Captives will be dragged away with hooks and fishhooks;
     Ironic summons: ''Come to Bethel and transgress, to Gilgal and multiply transgression''; ''Prepare
     to meet your God, O Israel''; God makes it rain on one city and not on another, one field and not
-    another; Israel was like a brand plucked from the burning; The evil diseases of Egypt removed from
-    the obedient or brought on the disobedient; The ''overturned cities'' (al-mu''tafikat), Lot''s towns;
+    another; Israel was like a brand plucked from the burning; The ''overturned cities'' (al-mu''tafikat),
+    Lot''s towns; The evil diseases of Egypt removed from the obedient or brought on the disobedient;
     Locusts brought by an east wind devour all vegetation left after the hail; God swears by himself;
     God rains sulfur and fire from heaven on cities.'
   basis: reading
 - text: 'Only in The pattern of the destroyed towns: If the towns had believed God would have opened blessings
-    from heaven and earth; God tries towns with hardship, then with ease, then seizes them suddenly; Heaven
-    is shut and no rain falls because of the people''s sin; repentance brings rain; Most of the peoples
-    were found without fidelity to their covenant; God''s plotting (makr / kayd) outwits the schemers;
-    none is safe from it but the losers; Divine punishment falls on a town by night or while its people
-    take the midday rest; God seals (tab'') the hearts of deniers so they do not hear.'
+    from heaven and earth; God tries towns with hardship, then with ease, then seizes them suddenly; Most
+    of the peoples were found without fidelity to their covenant; God''s plotting (makr / kayd) outwits
+    the schemers; none is safe from it but the losers; Divine punishment falls on a town by night or while
+    its people take the midday rest; Heaven is shut and no rain falls because of the people''s sin; repentance
+    brings rain; God seals (tab'') the hearts of deniers so they do not hear.'
   basis: reading
 - text: 'Cows of Bashan; ''yet you did not return''; prepare to meet your God: tagged by Claude (model),
     reading the Hebrew.'

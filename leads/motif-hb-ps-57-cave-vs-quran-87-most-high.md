@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God Most High (El Elyon), creator/possessor of heaven and earth
-    (weight 5.8). Pair score 5.8.'
+    (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 57, in the shadow of your wings (in the cave): Speaker lies down among lions, i.e.
     ravenous enemies; Singer rouses harp and lyre to awaken the dawn (shahar); Refrain: ''Be exalted above
@@ -34,9 +34,10 @@ evidence:
     that he will not forget, except what God wills; ''I YHWH make all things, who alone stretched out
     the heavens, who spread out the earth - who was with me?''; The most wretched burns in the great fire,
     in which he neither dies nor lives; The message is in the former scrolls, the scrolls of Abraham and
-    Moses; God proportioned the soul and inspired it with (knowledge of) its wickedness and its piety;
-    who purifies it prospers; God pours down rain, splits the earth and makes grain, grapes, olives, palms
-    and pasture grow, as provision and sign.'
+    Moses; Some prefer and praise life on earth over the hereafter, and are corrected; A being is ''neither
+    living nor dead'' (formula); God proportioned the soul and inspired it with (knowledge of) its wickedness
+    and its piety; who purifies it prospers; God pours down rain, splits the earth and makes grain, grapes,
+    olives, palms and pasture grow, as provision and sign.'
   basis: reading
 - text: 'Psalm 57, in the shadow of your wings (in the cave): tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -14,40 +14,40 @@ traditions:
 layers:
 - motif
 motifs:
-- famine-grain-storage-plan-as-divergence
-- hero-appointed-over-storehouses-as-divergence
-- hero-demands-vindication-as-divergence
-- cupbearer-recalls-hero-as-divergence
 - court-experts-fail-as-divergence
+- cupbearer-recalls-hero-as-divergence
+- hero-demands-vindication-as-divergence
+- hero-appointed-over-storehouses-as-divergence
+- famine-grain-storage-plan-as-divergence
 - king-dream-cows-and-ears
-- famine-grain-storage-plan
 - cupbearer-recalls-hero
+- famine-grain-storage-plan
 - hero-appointed-over-storehouses
-- interpretation-from-god
 - court-experts-fail
+- interpretation-from-god
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Plan to store grain in the good years for the famine years [divergence
-    between the texts] (weight 6.7); Hero placed over the land''s storehouses or the kingdom [divergence
-    between the texts] (weight 6.7); Hero refuses release until his innocence is established [divergence
-    between the texts] (weight 6.7); The freed prisoner remembers the hero and recommends him [divergence
-    between the texts] (weight 6.7); The king''s experts cannot interpret the dream [divergence between
-    the texts] (weight 6.7); King dreams of seven fat cows eaten by seven lean, and seven green ears and
-    seven dry (weight 6.0); Plan to store grain in the good years for the famine years (weight 6.0); The
-    freed prisoner remembers the hero and recommends him (weight 6.0); Hero placed over the land''s storehouses
-    or the kingdom (weight 5.6); Hero attributes his dream interpretation to God (weight 5.4); The king''s
-    experts cannot interpret the dream (weight 5.3). Pair score 67.8.'
+- text: 'Shared motifs, rarest first: The king''s experts cannot interpret the dream [divergence between
+    the texts] (weight 7.7); The freed prisoner remembers the hero and recommends him [divergence between
+    the texts] (weight 7.7); Hero refuses release until his innocence is established [divergence between
+    the texts] (weight 7.7); Hero placed over the land''s storehouses or the kingdom [divergence between
+    the texts] (weight 7.7); Plan to store grain in the good years for the famine years [divergence between
+    the texts] (weight 7.7); King dreams of seven fat cows eaten by seven lean, and seven green ears and
+    seven dry (weight 7.1); The freed prisoner remembers the hero and recommends him (weight 7.1); Plan
+    to store grain in the good years for the famine years (weight 6.6); Hero placed over the land''s storehouses
+    or the kingdom (weight 6.6); The king''s experts cannot interpret the dream (weight 6.2); Hero attributes
+    his dream interpretation to God (weight 6.1). Pair score 78.5.'
   basis: reading
-- text: 'Only in Pharaoh''s dreams and Joseph''s elevation: A dream given twice means God has firmly decided
-    and will act soon; Grain stored like the sand of the sea, beyond counting; Hero is thirty when he
-    enters royal service; In a dream the lean devour the fat but remain as lean as before; Prisoner shaved
-    and dressed in new clothes before appearing before the king; Hero names his sons for forgetting his
-    hardship and being fruitful in affliction; A foreign king recognizes ''a man in whom is the spirit
-    of God''; All lands come to Egypt to buy grain from the hero; King gives the foreign hero a new native
-    name; Seven years of plenty followed by seven years of famine; Hero given an Egyptian priest''s daughter
-    as wife; King invests the hero with ring, linen and chariot.'
+- text: 'Only in Pharaoh''s dreams and Joseph''s elevation: Grain stored like the sand of the sea, beyond
+    counting; Hero is thirty when he enters royal service; In a dream the lean devour the fat but remain
+    as lean as before; Hero names his sons for forgetting his hardship and being fruitful in affliction;
+    A foreign king recognizes ''a man in whom is the spirit of God''; All lands come to Egypt to buy grain
+    from the hero; King gives the foreign hero a new native name; Prisoner shaved and dressed in new clothes
+    before appearing before the king; Hero given an Egyptian priest''s daughter as wife; A dream given
+    twice means God has firmly decided and will act soon; King invests the hero with ring, linen and chariot;
+    Seven years of plenty followed by seven years of famine.'
   basis: reading
 - text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
     town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
@@ -59,7 +59,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 98 more.'
+    brings back the missing royal cup, with a guarantor; and 136 more.'
   basis: reading
 - text: 'Pharaoh''s dreams and Joseph''s elevation: tagged by Claude (model), reading the Hebrew.'
   basis: reading

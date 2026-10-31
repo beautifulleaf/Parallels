@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s wives will receive double punishment for open indecency
-    and double reward for obedience (weight 6.7). Pair score 6.7.'
+    and double reward for obedience (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Priests'' mourning and marriage limits; blemished priests: Priest with a bodily defect
     may not approach the altar or veil; Blemished priest still eats the holy and most holy food; High
     priest may not defile himself even for father or mother; Offender executed by burning; Who is barred
     from marrying an unchaste woman [divergence between the texts]; Sacrifice called God''s ''bread/food''
-    (lahmi); Priest may defile himself only for close kin; Priests may not dishevel hair, tear garments,
-    shave or gash themselves in mourning; Priests may not marry a harlot or divorcee; the high priest
-    only a virgin of his people.'
+    (lahmi); Priest may defile himself only for close kin; Priests may not marry a harlot or divorcee;
+    the high priest only a virgin of his people; Priests may not dishevel hair, tear garments, shave or
+    gash themselves in mourning.'
   basis: reading
 - text: 'Only in The prophet''s wives, the people of the House, and the believers men and women: The prophet''s
     wives are given the choice between worldly adornment (with release and gift) and God and the hereafter;

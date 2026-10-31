@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The sinner must confess the sin he committed (weight 5.8). Pair
-    score 5.8.'
+- text: 'Shared motifs, rarest first: The sinner must confess the sin he committed (weight 6.8). Pair
+    score 6.8.'
   basis: reading
 - text: 'Only in Psalm 41 - happy who considers the poor; the friend who lifted his heel: Happy is he
     who considers the poor; God sustains him on his sickbed; Even my close friend whom I trusted, who

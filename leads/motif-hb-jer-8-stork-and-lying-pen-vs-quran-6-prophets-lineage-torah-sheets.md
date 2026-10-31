@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''How can you say We are wise, and the Torah of YHWH is with us?''
-    The lying pen of the scribes has made it a lie (weight 6.7). Pair score 6.7.'
+    The lying pen of the scribes has made it a lie (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The stork knows its seasons; the lying pen of the scribes: The stork, turtledove, swift
     and crane know their seasons of migration, but God''s people do not know his law; When God comes to
@@ -38,8 +38,8 @@ evidence:
     warn ''the mother of towns'' (umm al-qura, Mecca) and those around it; False prophet put to death
     [divergence between the texts]; ''Naked I came from my mother''s womb and naked I shall return there'';
     The Torah contains guidance and light; Angels (God''s messengers) take the souls of the dying; False
-    prophet put to death; If God wills he takes you away and brings another people in your place; and
-    1 more.'
+    prophet put to death; No one can take his goods with him into death; what he owned falls to others;
+    and 2 more.'
   basis: reading
 - text: 'The stork knows its seasons; the lying pen of the scribes: tagged by Claude (model), reading
     the Hebrew.'

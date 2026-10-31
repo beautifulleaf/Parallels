@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are darkened and the stars withdraw their shining (weight
-    5.8). Pair score 5.8.'
+    6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The spirit poured on all flesh and signs before the Day: Everyone who calls on the name
     of YHWH will be delivered; Portents in heaven and earth: blood, fire and columns of smoke; The spirit
@@ -40,9 +40,9 @@ evidence:
     horizon; At the end the souls are paired (with bodies or their like); At the end the wild beasts are
     gathered together; At the judgment the girl buried alive (al-maw''uda) is asked for what sin she was
     killed; All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig [divergence between the texts]; Victim''s blood cries out from the
-    ground to God; You will not will unless God wills; Then each soul will know what it has brought forward
-    and what it left behind; and 7 more.'
+    withered leaves from vine and fig [divergence between the texts]; The sun is covered (wrapped) and
+    gives no light; Victim''s blood cries out from the ground to God; You will not will unless God wills;
+    and 10 more.'
   basis: reading
 - text: 'The spirit poured on all flesh and signs before the Day: tagged by Claude (model), reading the
     Hebrew.'

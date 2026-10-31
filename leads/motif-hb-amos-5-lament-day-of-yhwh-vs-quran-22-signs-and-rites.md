@@ -19,29 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes the night pass into the day and the day into the night
-    (weight 5.6). Pair score 5.6.'
+    (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: Futility curse:
     you built houses of hewn stone but will not live in them, planted vineyards but will not drink their
     wine; The city that marched out a thousand will have a hundred left, and the hundred ten; Dirge: ''Fallen,
-    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; As if a man fled from
-    a lion and met a bear, entered the house, leaned on the wall and was bitten by a snake; ''I hate,
-    I despise your feasts''; God rejects offerings and the noise of their songs and harps; They hate the
-    one who reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like
-    waters and righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices
-    in the wilderness forty years?; Farmers and professional wailers are summoned to lamentation in every
-    street and vineyard; The prudent will keep silent in such a time, for it is an evil time; Israel carried
-    Sakkuth their king and Kaiwan their images, the star of their god; and 11 more.'
+    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; ''I hate, I despise
+    your feasts''; God rejects offerings and the noise of their songs and harps; They hate the one who
+    reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like waters and
+    righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices in the
+    wilderness forty years?; The prudent will keep silent in such a time, for it is an evil time; Israel
+    carried Sakkuth their king and Kaiwan their images, the star of their god; ''Seek me and live''; do
+    not seek Bethel, Gilgal or Beersheba; Woe to those who desire the Day of YHWH: it is darkness and
+    not light; and 11 more.'
   basis: reading
 - text: 'Only in Migrants provided for; the night and day, the held sky, a rite for every nation: God
     holds back the sky from falling onto the earth except by his leave; Those who emigrated for God and
     were killed or died will receive a fine provision; God appointed for every community a rite of sacrifice
-    (mansak); God''s eyes saw the speaker''s unformed substance (golem); all his days were written in
-    God''s book before one of them existed; They sacrificed to shedim (demons), no-gods, new gods their
-    fathers did not know; Eye for an eye, tooth for a tooth (lex talionis); God visits the earth with
-    rain, softens it with showers, and crowns the year with harvest; I kill and I make alive, I wound
-    and I heal; there is no god beside me; God keeps a book in which names are written and from which
-    sinners are blotted.'
+    (mansak); He holds up the sky (so that it does not fall on the earth); The sky falls, or is kept from
+    falling, on the earth [divergence between the texts]; God''s eyes saw the speaker''s unformed substance
+    (golem); all his days were written in God''s book before one of them existed; They sacrificed to shedim
+    (demons), no-gods, new gods their fathers did not know; The god (alone) holds the heavens (and earth)
+    in place: the bond or rope of heaven, holding back the sky; Eye for an eye, tooth for a tooth (lex
+    talionis); I kill and I make alive, I wound and I heal; there is no god beside me; God visits the
+    earth with rain, softens it with showers, and crowns the year with harvest; God keeps a book in which
+    names are written and from which sinners are blotted.'
   basis: reading
 - text: 'Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: tagged by Claude (model),
     reading the Hebrew.'

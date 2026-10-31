@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Blood relatives are nearer to one another (in inheritance) in God''s
-    book (weight 6.3). Pair score 6.3.'
+    book (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Daughters of Zelophehad; Moses views the land; Joshua commissioned: Petition so that
     a dead man''s name not be lost from his clan; Leader ordains his successor by laying hands and sharing
@@ -39,7 +39,8 @@ evidence:
     God has not put two hearts inside any man; The prophet''s wives are the mothers of the believers and
     may not be married after him; Whether an adopted or fostered child counts as one''s own child [contrast
     between the texts]; Zihar: a husband declaring his wife ''like my mother''s back''; she is not his
-    mother, the saying is false and abhorrent.'
+    mother, the saying is false and abhorrent; The ruler (crown prince, prophet) is to be loved as, or
+    to be closer than, one''s own self [divergence between the texts].'
   basis: reading
 - text: 'Daughters of Zelophehad; Moses views the land; Joshua commissioned: tagged by Claude (model),
     reading the Hebrew.'

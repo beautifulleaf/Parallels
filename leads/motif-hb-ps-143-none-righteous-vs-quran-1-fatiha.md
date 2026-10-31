@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer to be guided on the straight path (al-sirat al-mustaqim)
-    (weight 5.8). Pair score 5.8.'
+    (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 143, enter not into judgment: The enemy made the speaker dwell in darkness like
     those long dead (metei olam); ''Your good spirit will lead me on level ground''; prayer to be taught

@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Dying Jacob addresses his sons [divergence between the texts] (weight
-    6.7); A dying father gathers his sons to bless them and foretell their destinies (weight 6.3). Pair
-    score 13.0.'
+    7.7); A dying father gathers his sons to bless them and foretell their destinies (weight 7.3). Pair
+    score 15.1.'
   basis: reading
 - text: 'Only in The Testament (Blessing) of Jacob and his death: Blessings of heaven above, of the deep
     crouching below, and of breasts and womb; Father curses two violent sons'' anger and decrees they
-    be scattered among the tribes; Patriarch dies and is ''gathered to his people''; A brief prayer (''For
-    your salvation I wait, YHWH'') interrupts a poem; Judah likened to a lion''s whelp crouching that
-    none dare rouse; The favored son called ''nazir (consecrated/prince) among his brothers''; A tribe
-    likened to a serpent by the road biting the horse''s heels so the rider falls; Tribes characterized
-    by animal images (lion, ass, serpent, hind, wolf); Tribal sayings pun on each son''s name; Firstborn
-    son loses his preeminence for lying with his father''s concubine; Ruler binds his ass''s foal to the
-    vine and washes his garments in wine, the blood of grapes; Scepter shall not depart from Judah until
-    Shiloh comes and peoples obey him; and 4 more.'
+    be scattered among the tribes; A brief prayer (''For your salvation I wait, YHWH'') interrupts a poem;
+    Judah likened to a lion''s whelp crouching that none dare rouse; The favored son called ''nazir (consecrated/prince)
+    among his brothers''; A tribe likened to a serpent by the road biting the horse''s heels so the rider
+    falls; Tribes characterized by animal images (lion, ass, serpent, hind, wolf); Firstborn son loses
+    his preeminence for lying with his father''s concubine; Patriarch dies and is ''gathered to his people'';
+    Ruler binds his ass''s foal to the vine and washes his garments in wine, the blood of grapes; Scepter
+    shall not depart from Judah until Shiloh comes and peoples obey him; Tribal sayings pun on each son''s
+    name; and 4 more.'
   basis: reading
 - text: 'Only in Abraham, Ishmael and the House: Abraham and Ishmael raise the foundations of the House
     while praying; Abraham told ''Submit'' answers ''I submit to the Lord of the worlds'' (aslamtu); God
@@ -43,7 +43,8 @@ evidence:
     revelation or covenant passed [divergence between the texts]; Whether and how God''s covenant with
     Abraham passes to his offspring [contrast between the texts]; The list of fathers in ''God of your
     fathers'' [divergence between the texts]; Whether Ishmael is with Abraham or sent away [contrast between
-    the texts]; A nation descended from Ishmael [divergence between the texts]; and 16 more.'
+    the texts]; Whether one person''s guilt (a parent''s, another''s) comes upon someone else; and 17
+    more.'
   basis: reading
 - text: 'The Testament (Blessing) of Jacob and his death: tagged by Claude (model), reading the Hebrew.'
   basis: reading

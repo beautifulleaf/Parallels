@@ -12,24 +12,24 @@ traditions:
 layers:
 - motif
 motifs:
-- prayer-face-to-wall
-- fig-cake-poultice-heals
-- king-told-to-set-house-in-order
 - king-asks-for-harder-sign
+- king-told-to-set-house-in-order
+- fig-cake-poultice-heals
+- prayer-face-to-wall
+- life-extended-fifteen-years-as-contrast
 - life-extended-fifteen-years
 - shadow-goes-back-on-dial
-- life-extended-fifteen-years-as-contrast
 - sun-stands-still
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Dying man turns his face to the wall and prays, weeping (weight
-    6.7); A cake of figs laid on a boil heals the king (weight 6.7); Prophet tells the sick king ''Set
-    your house in order, for you shall die'' (weight 6.7); Given a choice of signs, the king picks the
-    harder (shadow going backward) (weight 6.7); In answer to prayer God adds fifteen years to the king''s
-    life (weight 6.3); As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz (weight
-    6.3); In answer to prayer God adds fifteen years to the king''s life [contrast between the texts]
-    (weight 6.3); At a leader''s command the sun and moon stand still until the battle is won (weight
-    6.0). Pair score 51.6.'
+- text: 'Shared motifs, rarest first: Given a choice of signs, the king picks the harder (shadow going
+    backward) (weight 7.7); Prophet tells the sick king ''Set your house in order, for you shall die''
+    (weight 7.7); A cake of figs laid on a boil heals the king (weight 7.7); Dying man turns his face
+    to the wall and prays, weeping (weight 7.7); In answer to prayer God adds fifteen years to the king''s
+    life [contrast between the texts] (weight 7.3); In answer to prayer God adds fifteen years to the
+    king''s life (weight 7.3); As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz
+    (weight 7.3); At a leader''s command the sun and moon stand still until the battle is won (weight
+    7.1). Pair score 60.1.'
   basis: reading
 - text: 'Only in Hezekiah''s illness, the shadow on the steps and the Babylonian envoys: The king proudly
     shows foreign envoys all his treasures, prompting a prophecy of their loss; A king receives a foreign
@@ -42,12 +42,12 @@ evidence:
     laments that in the noon of his days he must go to the gates of Sheol, deprived of the rest of his
     years; A psalm-like ''writing'' (mikhtav) of the king composed when he was sick and recovered; My
     dwelling is pulled up like a shepherd''s tent; I have rolled up my life like a weaver, he cuts me
-    off from the loom; In distress the sufferer chirps like a swift or crane and moans like a dove; God
-    has cast all the speaker''s sins behind his back and held back his soul from the pit of destruction;
-    The dead cannot praise God: no wonders for the dead, no hesed in the grave, no faithfulness in Abaddon;
-    A dying person''s plea to God for more life, and God''s answer [contrast between the texts]; On that
-    day neither wealth nor sons avail, only one who comes to God with a sound heart; Bequest (wasiyya)
-    to parents and kin prescribed for one who leaves wealth; altering it is a sin; Death or Sheol has
+    off from the loom; God has cast all the speaker''s sins behind his back and held back his soul from
+    the pit of destruction; The dead cannot praise God: no wonders for the dead, no hesed in the grave,
+    no faithfulness in Abaddon; A dying person''s plea to God for more life, and God''s answer [contrast
+    between the texts]; On that day neither wealth nor sons avail, only one who comes to God with a sound
+    heart; Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a
+    sin; In distress the sufferer chirps like a swift or crane and moans like a dove; Death or Sheol has
     gates (sha''arei mavet).'
   basis: reading
 - text: 'Hezekiah''s illness, the shadow on the steps and the Babylonian envoys: tagged by Claude (model),
@@ -58,7 +58,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Dying man turns his face to the wall and prays, weeping
+finding: Given a choice of signs, the king picks the harder (shadow going backward)
 kinds:
 - shared
 units:
@@ -69,6 +69,50 @@ units:
   title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm
   tradition: judaism
 matches:
+- kind: shared
+  label: Given a choice of signs, the king picks the harder (shadow going backward)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 20:10
+      lang: he
+      text: וַיֹּ֨אמֶר֙ יְחִזְקִיָּ֔הוּ נָקֵ֣ל לַצֵּ֔ל לִנְט֖וֹת עֶ֣שֶׂר מַעֲל֑וֹת לֹ֣א כִ֔י יָשׁ֥וּב
+        הַצֵּ֛ל אֲחֹרַנִּ֖ית עֶ֥שֶׂר מַעֲלֽוֹת
+  - tradition: judaism
+    passages:
+    - ref: Isa 38:22
+      lang: he
+      text: וַיֹּ֥אמֶר חִזְקִיָּ֖הוּ מָ֣ה א֑וֹת כִּ֥י אֶעֱלֶ֖ה בֵּ֥ית יְהוָֽה
+    note: here only 'what is the sign that I will go up to the house of YHWH?'
+- kind: shared
+  label: Prophet tells the sick king 'Set your house in order, for you shall die'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 20:1
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּבֹ֣א אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ
+        הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
+  - tradition: judaism
+    passages:
+    - ref: Isa 38:1
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּב֣וֹא אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ
+        הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
+- kind: shared
+  label: A cake of figs laid on a boil heals the king
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 20:7
+      lang: he
+      text: וַיֹּ֣אמֶר יְשַֽׁעְיָ֔הוּ קְח֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וַיִּקְח֛וּ וַיָּשִׂ֥ימוּ עַֽל הַשְּׁחִ֖ין
+        וַיֶּֽחִי
+  - tradition: judaism
+    passages:
+    - ref: Isa 38:21
+      lang: he
+      text: וַיֹּ֣אמֶר יְשַׁעְיָ֔הוּ יִשְׂא֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וְיִמְרְח֥וּ עַֽל הַשְּׁחִ֖ין וְיֶֽחִי
 - kind: shared
   label: Dying man turns his face to the wall and prays, weeping
   sides:
@@ -89,21 +133,7 @@ matches:
         אָנָּ֤ה יְהוָה֙ זְכָר נָ֞א אֵ֣ת אֲשֶׁ֧ר הִתְהַלַּ֣כְתִּי לְפָנֶ֗יךָ בֶּֽאֱמֶת֙ וּבְלֵ֣ב שָׁלֵ֔ם
         וְהַטּ֥וֹב בְּעֵינֶ֖יךָ עָשִׂ֑יתִי וַיֵּ֥בְךְּ חִזְקִיָּ֖הוּ בְּכִ֥י גָדֽוֹל
 - kind: shared
-  label: A cake of figs laid on a boil heals the king
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 20:7
-      lang: he
-      text: וַיֹּ֣אמֶר יְשַֽׁעְיָ֔הוּ קְח֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וַיִּקְח֛וּ וַיָּשִׂ֥ימוּ עַֽל הַשְּׁחִ֖ין
-        וַיֶּֽחִי
-  - tradition: judaism
-    passages:
-    - ref: Isa 38:21
-      lang: he
-      text: וַיֹּ֣אמֶר יְשַׁעְיָ֔הוּ יִשְׂא֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וְיִמְרְח֥וּ עַֽל הַשְּׁחִ֖ין וְיֶֽחִי
-- kind: shared
-  label: Prophet tells the sick king 'Set your house in order, for you shall die'
+  label: In answer to prayer God adds fifteen years to the king's life
   sides:
   - tradition: judaism
     passages:
@@ -111,27 +141,26 @@ matches:
       lang: he
       text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּבֹ֣א אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ
         הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
+    - ref: 2Kgs 20:6
+      lang: he
+      text: וְהֹסַפְתִּ֣י עַל יָמֶ֗יךָ חֲמֵ֤שׁ עֶשְׂרֵה֙ שָׁנָ֔ה וּמִכַּ֤ף מֶֽלֶךְ אַשּׁוּר֙ אַצִּ֣ילְךָ֔
+        וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִי֙ עַל הָעִ֣יר הַזֹּ֔את לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
+    note: lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ we-hōsaftî ʿal yāmêkā ḥămēš ʿeśrēh šānāh; same
+      contrast as Isa 38.
   - tradition: judaism
     passages:
     - ref: Isa 38:1
       lang: he
       text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּב֣וֹא אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ
         הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
-- kind: shared
-  label: Given a choice of signs, the king picks the harder (shadow going backward)
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 20:10
+    - ref: Isa 38:5
       lang: he
-      text: וַיֹּ֨אמֶר֙ יְחִזְקִיָּ֔הוּ נָקֵ֣ל לַצֵּ֔ל לִנְט֖וֹת עֶ֣שֶׂר מַעֲל֑וֹת לֹ֣א כִ֔י יָשׁ֥וּב
-        הַצֵּ֛ל אֲחֹרַנִּ֖ית עֶ֥שֶׂר מַעֲלֽוֹת
-  - tradition: judaism
-    passages:
-    - ref: Isa 38:22
-      lang: he
-      text: וַיֹּ֥אמֶר חִזְקִיָּ֖הוּ מָ֣ה א֑וֹת כִּ֥י אֶעֱלֶ֖ה בֵּ֥ית יְהוָֽה
-    note: here only 'what is the sign that I will go up to the house of YHWH?'
+      text: הָל֞וֹךְ וְאָמַרְתָּ֣ אֶל חִזְקִיָּ֗הוּ כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ שָׁמַ֨עְתִּי֙
+        אֶת תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת דִּמְעָתֶ֑ךָ הִנְנִי֙ יוֹסִ֣ף עַל יָמֶ֔יךָ חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה
+    note: 'Opposite teaching on the plea for more time at death: rabbi law-lā akhkhartanī ilā ajalin qarībin
+      fa-aṣṣaddaqa ... wa-lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ ṣaw le-vêtekā kî mēt ʾattāh
+      ... šāmaʿtî ʾet tefillātekā ... hinenî yôsîf ʿal yāmêkā ḥămēš ʿeśrēh šānāh. Hezekiah''s prayer at
+      death wins fifteen years; in the Quran no soul is delayed when its term comes.'
 - kind: shared
   label: In answer to prayer God adds fifteen years to the king's life
   sides:
@@ -181,35 +210,6 @@ matches:
         אֲחֹרַנִּ֖ית עֶ֣שֶׂר מַעֲל֑וֹת וַתָּ֤שָׁב הַשֶּׁ֨מֶשׁ֙ עֶ֣שֶׂר מַעֲל֔וֹת בַּֽמַּעֲל֖וֹת אֲשֶׁ֥ר
         יָרָֽדָה
     note: ten steps (ma'alot) of Ahaz; here unrequested sign, no choice offered
-- kind: shared
-  label: In answer to prayer God adds fifteen years to the king's life
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 20:1
-      lang: he
-      text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּבֹ֣א אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ
-        הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
-    - ref: 2Kgs 20:6
-      lang: he
-      text: וְהֹסַפְתִּ֣י עַל יָמֶ֗יךָ חֲמֵ֤שׁ עֶשְׂרֵה֙ שָׁנָ֔ה וּמִכַּ֤ף מֶֽלֶךְ אַשּׁוּר֙ אַצִּ֣ילְךָ֔
-        וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִי֙ עַל הָעִ֣יר הַזֹּ֔את לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
-    note: lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ we-hōsaftî ʿal yāmêkā ḥămēš ʿeśrēh šānāh; same
-      contrast as Isa 38.
-  - tradition: judaism
-    passages:
-    - ref: Isa 38:1
-      lang: he
-      text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּב֣וֹא אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ
-        הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
-    - ref: Isa 38:5
-      lang: he
-      text: הָל֞וֹךְ וְאָמַרְתָּ֣ אֶל חִזְקִיָּ֗הוּ כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ שָׁמַ֨עְתִּי֙
-        אֶת תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת דִּמְעָתֶ֑ךָ הִנְנִי֙ יוֹסִ֣ף עַל יָמֶ֔יךָ חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה
-    note: 'Opposite teaching on the plea for more time at death: rabbi law-lā akhkhartanī ilā ajalin qarībin
-      fa-aṣṣaddaqa ... wa-lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ ṣaw le-vêtekā kî mēt ʾattāh
-      ... šāmaʿtî ʾet tefillātekā ... hinenî yôsîf ʿal yāmêkā ḥămēš ʿeśrēh šānāh. Hezekiah''s prayer at
-      death wins fifteen years; in the Quran no soul is delayed when its term comes.'
 - kind: shared
   label: At a leader's command the sun and moon stand still until the battle is won
   sides:

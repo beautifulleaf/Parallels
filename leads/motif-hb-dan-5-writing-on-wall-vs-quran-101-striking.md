@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A person is weighed in the balances and found wanting (weight 6.0).
-    Pair score 6.0.'
+- text: 'Shared motifs, rarest first: A person is weighed in the balances and found wanting (weight 7.1).
+    Pair score 7.1.'
   basis: reading
 - text: 'Only in Belshazzar''s feast and the writing on the wall: A king holds a great feast for a thousand
     nobles and drinks wine before them; Idols listed as gods of gold, silver, bronze, iron, wood and stone
@@ -36,9 +36,9 @@ evidence:
   basis: reading
 - text: 'Only in The striking day: moths, wool and the scales: The one whose scales are light: ''his mother
     is Hawiya (the abyss)'', a blazing fire; On the striking day (al-qari''a) people will be like scattered
-    moths; On the day the mountains will be like (carded, dyed) wool (''ihn); Deeds are weighed on judgment
-    day; heavy scales mean salvation, light scales loss; Spies seem like grasshoppers in their own eyes
-    and the giants''; Hell given proper names: Laza (scalp-stripper), Saqar (scorcher, leaves nothing),
+    moths; On the day the mountains will be like (carded, dyed) wool (''ihn); Spies seem like grasshoppers
+    in their own eyes and the giants''; Deeds are weighed on judgment day; heavy scales mean salvation,
+    light scales loss; Hell given proper names: Laza (scalp-stripper), Saqar (scorcher, leaves nothing),
     al-Hutama (the crusher), Hawiya (the abyss); Rhetorical formula ''And what will make you know what
     X is?'' (wa ma adraka ma) introducing an eschatological term.'
   basis: reading

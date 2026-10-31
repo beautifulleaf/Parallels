@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers ask ''When we are bones and fragments, shall we be raised
-    as a new creation?'' (weight 5.4). Pair score 5.4.'
+    as a new creation?'' (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
     graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is
@@ -44,8 +44,8 @@ evidence:
     the texts]; If there were other gods they would seek a way to the Lord of the Throne; Opponents say
     the believers follow only a bewitched man (rajul mashur); Satan stirs up enmity (nazagha) between
     brothers or among people; Thamud''s most wretched one rises; the messenger warns ''God''s she-camel
-    and her drinking''; they hamstring her and God crushes them; The seven heavens, the earth and everything
-    in them glorify God, though humans do not understand their praise; and 6 more.'
+    and her drinking''; they hamstring her and God crushes them; Heaven, earth and inanimate things have
+    a speech that humans do not understand [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'The valley of dry bones: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh gathers the people and proclaims ''I am your Lord most high''
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in First audience with Pharaoh; bricks without straw: Slaves must make the same quota of
     bricks while gathering their own straw; The oppressed blame the deliverer for making things worse;
@@ -40,12 +40,12 @@ evidence:
     will have the garden as refuge; The first quaking blast (al-rajifa) is followed by a second (al-radifa);
     a single shout (zajra) and they are on the open plain (al-sahira); God built the sky, raised its canopy,
     darkened its night and brought out its forenoon; after that he spread out the earth; The call comes
-    in the holy valley named Ṭuwā; Pharaoh gathers the people and proclaims ''I am your Lord most high'';
-    Narrative of a prophet''s commissioning by God [divergence between the texts]; The call comes in the
-    holy valley named Ṭuwā [divergence between the texts]; On that day hell is brought forth, exposed
-    or kindled for whoever sees, and paradise brought near; God spread out the earth as a carpet, cradle
-    or bed (bisat, mihad, daha, sutihat, tahaha); The king''s heart is hardened (by himself or by God)
-    so he refuses to release the people [divergence between the texts]; and 9 more.'
+    in the holy valley named Ṭuwā; The king of Egypt is called, or calls himself, god or lord [divergence
+    between the texts]; Pharaoh gathers the people and proclaims ''I am your Lord most high''; Narrative
+    of a prophet''s commissioning by God [divergence between the texts]; The call comes in the holy valley
+    named Ṭuwā [divergence between the texts]; The king of Egypt is called god (by his vassals, or by
+    himself) [divergence between the texts]; On that day hell is brought forth, exposed or kindled for
+    whoever sees, and paradise brought near; and 13 more.'
   basis: reading
 - text: 'First audience with Pharaoh; bricks without straw: tagged by Claude (model), reading the Hebrew.'
   basis: reading

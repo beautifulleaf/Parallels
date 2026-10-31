@@ -18,12 +18,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Among the People of the Book an upright community recites God''s
-    signs through the night and prostrates (weight 6.3). Pair score 6.3.'
+    signs through the night and prostrates (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 134, servants who stand by night in the house of YHWH: Servants of YHWH who stand
-    in the house of YHWH by night are called to bless him; Lifting the hands (palms) in prayer or blessing;
-    God called ''maker of heaven and earth'' (''oseh shamayim va-arets'') in blessing or confession of
-    help; Superscription ''A song of ascents'' (shir ha-ma''alot), Ps 120-134.'
+    in the house of YHWH by night are called to bless him; God called ''maker of heaven and earth'' (''oseh
+    shamayim va-arets'') in blessing or confession of help; Lifting the hands (palms) in prayer or blessing;
+    Superscription ''A song of ascents'' (shir ha-ma''alot), Ps 120-134.'
   basis: reading
 - text: 'Only in Hold fast to the rope of God: ''You are the best community brought forth for mankind'';
     You were on the brink of a pit of fire and God rescued you; When alone they bite their fingertips
@@ -31,10 +31,10 @@ evidence:
     Spending of unbelievers is like an icy wind that destroys the tillage of a wrongdoing people; A community
     that enjoins the good and forbids the evil (al-amr bil-ma''ruf); Humiliation is stamped on them wherever
     found except under a rope from God and a rope from men; God will give his people one heart and one
-    way to fear him always; The wicked sees the righteous exalted, gnashes his teeth and melts away; On
-    the day some faces turn white and some turn black; Hypocrites profess faith before believers and tell
-    their own ''devils'' in private they were only mocking; On the day of wrath people fling their silver
-    into the streets; silver and gold cannot save them; and 2 more.'
+    way to fear him always; The wicked sees the righteous exalted, gnashes his teeth and melts away; Hypocrites
+    profess faith before believers and tell their own ''devils'' in private they were only mocking; On
+    the day of wrath people fling their silver into the streets; silver and gold cannot save them; Speaker
+    rises at midnight to give thanks to God; and 2 more.'
   basis: reading
 - text: 'Psalm 134, servants who stand by night in the house of YHWH: tagged by Claude (model), reading
     the Hebrew.'

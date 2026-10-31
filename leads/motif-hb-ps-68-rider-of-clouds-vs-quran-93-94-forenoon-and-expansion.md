@@ -20,26 +20,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is father of orphans and defender of widows, who sets the lonely
-    in a home and frees prisoners (weight 6.0). Pair score 6.0.'
+    in a home and frees prisoners (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain:
     God rebukes the beast of the reeds (Egypt as hippopotamus or crocodile) and the herd of bulls; Envoys
-    come from Egypt and Cush (Ethiopia) stretches out its hands to God; Dogs lick the blood of the slain
-    enemies (or of the wicked king); Liturgical procession into the sanctuary with singers, musicians
-    and maidens playing drums; God ascends on high leading captives and receiving gifts among men; God''s
-    chariots are myriads, thousands upon thousands; the Lord among them as at Sinai; God says he will
-    bring back (enemies or people) from Bashan and from the depths of the sea; God rides in the heaven
-    of heavens of old and utters his mighty voice; Many-peaked mountains (Bashan) look with envy at the
-    mountain God chose for his dwelling; A dove''s wings covered with silver and its pinions with yellow-green
-    gold; When Shaddai scattered kings, it snowed on Zalmon; A great host of women heralds (mevasserot)
-    announces the victory and women divide the spoil; and 11 more.'
+    come from Egypt and Cush (Ethiopia) stretches out its hands to God; God ascends on high leading captives
+    and receiving gifts among men; God''s chariots are myriads, thousands upon thousands; the Lord among
+    them as at Sinai; God says he will bring back (enemies or people) from Bashan and from the depths
+    of the sea; God rides in the heaven of heavens of old and utters his mighty voice; Many-peaked mountains
+    (Bashan) look with envy at the mountain God chose for his dwelling; A dove''s wings covered with silver
+    and its pinions with yellow-green gold; When Shaddai scattered kings, it snowed on Zalmon; A great
+    host of women heralds (mevasserot) announces the victory and women divide the spoil; Dogs lick the
+    blood of the slain enemies (or of the wicked king); The guilty are known by their marks and seized
+    by the forelocks and the feet; and 11 more.'
   basis: reading
 - text: 'Only in The forenoon and the expansion: the orphan prophet consoled: God found the prophet an
     orphan and sheltered him, astray and guided him, needy and enriched him; God expanded the prophet''s
-    breast, removed the burden that weighed down his back and raised his renown; Truly with hardship comes
-    ease (repeated twice); The deniers do not honor the orphan, push him away, and do not urge the feeding
-    of the poor; A series of oaths by natural phenomena (dawn, night, day, sun, moon, sky, earth, stars,
-    winds) opens or punctuates a passage.'
+    breast, removed the burden that weighed down his back and raised his renown; Whether the deity has
+    abandoned (forsaken) his servant [divergence between the texts]; A deity lifts sin pictured as a heavy
+    load from a person; Do not rebuff (turn away) the one who comes asking; The deity raises up the devotee
+    and gives him or her a lasting good name; The god makes the name or renown of his chosen one high
+    and far-reaching; A speaker or addressee is an orphan; who (if anyone) cares for him [shared matter]
+    [divergence between the texts]; One who was himself an orphan is reminded of it in connection with
+    how he treats orphans; The speaker was orphaned of father (and mother): left with no one to rear him,
+    or found an orphan and sheltered [divergence between the texts]; Whether the speaker''s own god has
+    forsaken him [divergence between the texts]; The one who asks or petitions is not to be driven away;
+    and 6 more.'
   basis: reading
 - text: 'Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain: tagged by
     Claude (model), reading the Hebrew.'

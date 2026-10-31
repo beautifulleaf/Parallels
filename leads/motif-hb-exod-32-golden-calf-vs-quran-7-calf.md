@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the calf is a god that leads the people [response between
-    the texts] (weight 6.7); Who makes the golden calf and from what [divergence between the texts] (weight
-    6.7); A golden calf is made from the people''s gold earrings (weight 6.3). Pair score 19.7.'
+    the texts] (weight 7.7); Who makes the golden calf and from what [divergence between the texts] (weight
+    7.7); A golden calf is made from the people''s gold earrings (weight 7.3). Pair score 22.8.'
   basis: reading
 - text: 'Only in The golden calf: Aaron builds an altar before the calf and proclaims a feast to YHWH;
     Intercessor reminds God of his oath to Abraham, Isaac and Jacob; The people eat, drink and rise up
@@ -43,7 +43,7 @@ evidence:
     for Aaron, with whom God was angry enough to destroy him; God''s mercy encompasses all things; Moses
     includes himself with the guilty people in his plea after the calf [divergence between the texts];
     Moses prays for Aaron after the calf [divergence between the texts]; Moses ''stood in the breach''
-    (pérets) before God to turn back his wrath from destroying the people; and 13 more.'
+    (pérets) before God to turn back his wrath from destroying the people; and 14 more.'
   basis: reading
 - text: 'The golden calf: tagged by Claude (model), reading the Hebrew.'
   basis: reading

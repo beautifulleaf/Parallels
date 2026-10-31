@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not sit with those who plunge into mockery of God''s signs until
-    they change the subject (weight 6.3). Pair score 6.3.'
+    they change the subject (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 1 - the two ways: The deeds of unbelievers are like ashes blown by the wind on
     a stormy day; The righteous man is like a tree planted by streams of water, bearing fruit in season,
     leaf never withering [divergence between the texts]; Contrast of the way of the righteous, which God
-    knows, and the way of the wicked, which perishes [divergence between the texts]; The righteous man
-    is like a tree planted by streams of water, bearing fruit in season, leaf never withering; Meditate
-    on the book of the Torah day and night; it shall not depart from your mouth; Contrast of the way of
-    the righteous, which God knows, and the way of the wicked, which perishes; Beatitude formula ''Happy
-    (ashrei) is the man who...''; I set before you life and death, blessing and curse: choose life; The
+    knows, and the way of the wicked, which perishes [divergence between the texts]; Meditate on the book
+    of the Torah day and night; it shall not depart from your mouth; Contrast of the way of the righteous,
+    which God knows, and the way of the wicked, which perishes; Beatitude formula ''Happy (ashrei) is
+    the man who...''; I set before you life and death, blessing and curse: choose life; The righteous
+    man is like a tree planted by streams of water, bearing fruit in season, leaf never withering; The
     wicked are like chaff driven by the wind.'
   basis: reading
 - text: 'Only in Rescue in the darkness of land and sea; the bewildered man; the trumpet: Parable: one
@@ -38,9 +38,9 @@ evidence:
     split their religion into sects, each party exulting in what it has; Sailors in a storm call on God
     sincerely, vow thanks, and transgress once saved [divergence between the texts]; God raises a storm
     that lifts ships to the heavens and down to the deeps, then hushes it to a whisper and brings sailors
-    to harbor; Each wrongdoer would ransom himself with all that is on earth, if he could; Deity creates
-    by spoken command (Let there be...); When harm touches people they turn to God; when he gives them
-    relief a party of them associates partners again; The trumpet (ṣūr) is blown and the dead are gathered.'
+    to harbor; Each wrongdoer would ransom himself with all that is on earth, if he could; When harm touches
+    people they turn to God; when he gives them relief a party of them associates partners again; Deity
+    creates by spoken command (Let there be...); The trumpet (ṣūr) is blown and the dead are gathered.'
   basis: reading
 - text: 'Psalm 1 - the two ways: tagged by Claude (model), reading the Hebrew.'
   basis: reading

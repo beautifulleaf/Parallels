@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sent before only men, inspired, from the people of the towns
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:

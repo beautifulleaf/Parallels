@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Infant found by members of a royal household (weight 5.6). Pair
-    score 5.6.'
+- text: 'Shared motifs, rarest first: Infant found by members of a royal household (weight 6.6). Pair
+    score 6.6.'
   basis: reading
 - text: 'Only in Ahaziah counselled by his mother, killed by Jehu; Athaliah''s purge and Joash hidden:
     A slain king is given burial for the sake of his pious grandfather; A king''s ruin through an ill-judged
@@ -31,13 +31,13 @@ evidence:
   basis: reading
 - text: 'Only in God recalls his favors to Moses from infancy to Midian: Moses stays years among the people
     of Midian before his call; Moses killed a man and God delivered him from distress, then tried him
-    with trials [divergence between the texts]; God calls, forms, knows or consecrates his servant or
-    prophet from the womb, before birth; Infant found by members of a royal household [divergence between
-    the texts]; Infant placed in a container and set on the water [divergence between the texts]; Moses
-    killed a man and God delivered him from distress, then tried him with trials; Mother receives divine
-    instruction about the infant; Hero flees the king''s death sentence to a foreign land; Infant returned
-    to his own mother to nurse; Sister offers to find a nurse; Infant placed in a container and set on
-    the water; Hero''s beauty is remarked on.'
+    with trials [divergence between the texts]; Infant found by members of a royal household [divergence
+    between the texts]; Infant placed in a container and set on the water [divergence between the texts];
+    Moses killed a man and God delivered him from distress, then tried him with trials; Mother receives
+    divine instruction about the infant; Hero flees the king''s death sentence to a foreign land; Infant
+    returned to his own mother to nurse; Sister offers to find a nurse; Infant placed in a container and
+    set on the water; God calls, forms, knows or consecrates his servant or prophet from the womb, before
+    birth; Hero''s beauty is remarked on.'
   basis: reading
 - text: 'Ahaziah counselled by his mother, killed by Jehu; Athaliah''s purge and Joash hidden: tagged
     by Claude (model), reading the Hebrew.'

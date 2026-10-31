@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Edom dwells in the clefts of the rock (sela) and thinks no one can
-    bring it down (weight 6.3). Pair score 6.3.'
+    bring it down (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Obadiah''s vision against Edom''s pride: A nation''s treaty partners and table companions
     deceive and overpower it; An envoy is sent among the nations to summon them to battle; Grape-gatherers

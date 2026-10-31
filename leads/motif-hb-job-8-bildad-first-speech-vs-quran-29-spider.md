@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The trust of the godless is a spider''s house that will not stand
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Bildad''s first speech - the papyrus and the spider''s web: Appeal to the wisdom of former
     generations, since ''we are but of yesterday''; The friend argues the sufferer''s children died because
@@ -29,7 +29,8 @@ evidence:
     reap it; Human days on earth are a shadow.'
   basis: reading
 - text: 'Only in Parable of the spider''s house: Refrain ''among his signs (ayat) is...'' listing natural
-    phenomena as evidence of God.'
+    phenomena as evidence of God; The spider and its strength: it boasts it is the strongest, or its house
+    is the weakest of houses [divergence between the texts].'
   basis: reading
 - text: 'Bildad''s first speech - the papyrus and the spider''s web: tagged by Claude (model), reading
     the Hebrew.'

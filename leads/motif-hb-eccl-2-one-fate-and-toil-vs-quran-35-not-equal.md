@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the seeing and the blind, light and darkness, end alike
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Wise and fool share one fate; hatred of toil; eat and drink: The speaker says ''I hated
     life'' because all is vapor; All his days are pain and vexation; even at night his heart does not
@@ -27,20 +27,23 @@ evidence:
     Hating his toil because he must leave it to one who comes after him, who may be wise or a fool; Wisdom
     excels folly as light excels darkness; the wise has eyes in his head, the fool walks in darkness;
     There is no remembrance of former people nor will there be of those yet to come; The good leaves an
-    inheritance to his grandchildren; the sinner''s wealth is stored up for the righteous; Wise men die,
-    the fool and the brute perish together and leave their wealth to others; One fate (miqreh) befalls
-    the wise and the fool, man and beast alike; There is nothing better than to eat, drink and find enjoyment
-    in one''s toil; this is from the hand of God; ''Hevel havalim'': vapor of vapors, all is vapor (vanity,
+    inheritance to his grandchildren; the sinner''s wealth is stored up for the righteous; One fate (miqreh)
+    befalls the wise and the fool, man and beast alike; Wise men die, the fool and the brute perish together
+    and leave their wealth to others; There is nothing better than to eat, drink and find enjoyment in
+    one''s toil; this is from the hand of God; ''Hevel havalim'': vapor of vapors, all is vapor (vanity,
     futility, transience).'
   basis: reading
 - text: 'Only in No soul bears another''s burden; the blind and the seeing; the colors of creation: God
     brings forth fruits of varied colors, streaks in the mountains white, red and raven-black, and varied
     colors in people and beasts; There was no community but a warner passed among it; Only those of his
     servants who have knowledge truly fear God; Whether one person (kin, descendants) bears another''s
-    sin [contrast between the texts]; Rhetorical question: are the blind and the seeing equal, or darkness
-    and light?; How the fear of God and knowledge are related [divergence between the texts]; The prophet
-    cannot make the dead or deaf hear, nor guide the blind; No burdened soul bears another''s burden;
-    even a relative will not carry any of it; Each person dies for his own sin.'
+    sin [contrast between the texts]; No burdened soul bears another''s burden; even a relative will not
+    carry any of it [divergence between the texts]; Rhetorical question: are the blind and the seeing
+    equal, or darkness and light?; How the fear of God and knowledge are related [divergence between the
+    texts]; Whether a man can hear (obey) is given or withheld by the deity; The prophet cannot make the
+    dead or deaf hear, nor guide the blind; No burdened soul bears another''s burden; even a relative
+    will not carry any of it; Whether one person''s guilt (a parent''s, another''s) comes upon someone
+    else [contrast between the texts]; Each person dies for his own sin.'
   basis: reading
 - text: 'Wise and fool share one fate; hatred of toil; eat and drink: tagged by Claude (model), reading
     the Hebrew.'

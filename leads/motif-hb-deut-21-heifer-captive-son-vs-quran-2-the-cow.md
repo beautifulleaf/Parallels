@@ -13,37 +13,40 @@ traditions:
 layers:
 - motif
 motifs:
-- heifer-and-unsolved-killing-as-divergence
 - unsolved-murder-heifer-ritual
+- heifer-and-unsolved-killing-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A heifer and a killing whose perpetrator is unknown [divergence
-    between the texts] (weight 6.7); Unsolved murder: elders of nearest city break the neck of an unworked
-    heifer in an untilled wadi (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Unsolved murder: elders of nearest city break the neck of an unworked
+    heifer in an untilled wadi (weight 7.7); A heifer and a killing whose perpetrator is unknown [divergence
+    between the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: Captive
     wife who is no longer wanted must be freed, not sold; Captive woman shaves her head, pares her nails,
-    mourns her parents a month before marriage; Elders wash their hands over the heifer: our hands did
-    not shed this blood; Body hanged on a tree must be buried the same day; the hanged is a curse of God;
-    A boy is killed lest he burden his believing parents with rebellion; God will give them a better child
-    [contrast between the texts]; Who receives a double share of inheritance [divergence between the texts];
-    Firstborn of the unloved wife keeps the double portion; Married women are forbidden except those one''s
-    right hand possesses (captives); A man may marry two, three or four wives, or only one if he fears
-    injustice; A son who rejects his parents: the charge and the penalty [divergence between the texts];
-    Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city; Formula: you shall
-    purge the evil from your midst.'
+    mourns her parents a month before marriage; Body hanged on a tree must be buried the same day; the
+    hanged is a curse of God; A boy is killed lest he burden his believing parents with rebellion; God
+    will give them a better child [contrast between the texts]; Who receives a double share of inheritance
+    [divergence between the texts]; Firstborn of the unloved wife keeps the double portion; Elders wash
+    their hands over the heifer: our hands did not shed this blood; Married women are forbidden except
+    those one''s right hand possesses (captives); A man may marry two, three or four wives, or only one
+    if he fears injustice; A son who rejects his parents: the charge and the penalty [divergence between
+    the texts]; Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city; Formula:
+    you shall purge the evil from your midst.'
   basis: reading
 - text: 'Only in The cow and the slain man: Moses commands a cow be slaughtered; the people repeatedly
     ask its age, color and nature before complying; Hearts harder than stones, yet some stones gush rivers,
     split for water or fall down in fear of God; A slain man is struck with part of the slaughtered cow
-    and revived to reveal his killer; The sacrificial cow is bright yellow, pleasing to beholders; What
-    contact with a corpse does [contrast between the texts]; Unyoked milk cows pull a new cart unguided,
-    separated from their calves, as a divine test; Description of the cow required by God [divergence
-    between the texts]; Unblemished red cow never yoked is burned whole for purifying ash; Hearts of stone
-    [divergence between the texts]; God will remove the heart of stone and give a heart of flesh and a
-    new spirit.'
+    and revived to reveal his killer; The sacrificial cow is bright yellow, pleasing to beholders; A bovine
+    chosen for a rite has never been put to work (never struck with stick or whip, never yoked to plough
+    or water); What contact with a corpse does [contrast between the texts]; Unyoked milk cows pull a
+    new cart unguided, separated from their calves, as a divine test; Description of the cow required
+    by God [divergence between the texts]; A man is killed within a community and the killer is unknown
+    [divergence between the texts]; A man is found killed and the killer is unknown: how the case is settled
+    [divergence between the texts]; A bovine for a rite must be of one colour with no spot of another
+    colour, sound in body [divergence between the texts]; Hearts of stone [divergence between the texts];
+    and 2 more.'
   basis: reading
 - text: 'Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: tagged by Claude
     (model), reading the Hebrew.'

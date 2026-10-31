@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On judgment day each receives a book of his deeds spread open, leaving
-    nothing small or great unrecorded [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    nothing small or great unrecorded [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition
@@ -41,9 +41,9 @@ evidence:
     those who strive for the hereafter are thanked; On judgment day each receives a book of his deeds
     spread open, leaving nothing small or great unrecorded; Night and day are two signs; the sign of night
     is effaced and that of day made bright for reckoning years; The heavenly court sits in judgment and
-    the books are opened; God does not punish a people before sending a messenger, lest they plead they
-    had none; Each person dies for his own sin; Sun and moon are set to rule day and night and mark signs
-    and seasons.'
+    the books are opened; Augury: a bird''s flight or alighting is an omen bound to a person [divergence
+    between the texts]; A written record (tablet [divergence between the texts]; God does not punish a
+    people before sending a messenger, lest they plead they had none; and 2 more.'
   basis: reading
 - text: 'Michael arises, the resurrection, and the sealed book: tagged by Claude (model), reading the
     Hebrew.'

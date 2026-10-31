@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mountains and birds are made to glorify God together with David
-    [divergence between the texts] (weight 6.7); Mountains and birds are made to glorify God together
-    with David (weight 6.0). Pair score 12.7.'
+    [divergence between the texts] (weight 7.7); Mountains and birds are made to glorify God together
+    with David (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Psalm 148, praise from heaven and earth: Kings and peoples, princes and judges, young
     men and maidens, old and young together praise God; God commanded and they were created; he established
@@ -29,22 +29,22 @@ evidence:
     God; Sea monsters (tanninim) and all deeps are summoned to praise God from the earth; ''The waters
     above the heavens'' are summoned to praise; Fire and hail, snow and smoke, stormy wind fulfilling
     his word; God''s angels, mighty ones who do his word, and all his hosts and ministers are summoned
-    to bless him; Those near God do not disdain to worship him; they glorify him and prostrate; Birds
-    with outspread wings glorify God; each knows its prayer and praise; Heaven, earth, seas and all that
-    moves in them praise God; The place of humans in the worship offered by all creation [divergence between
-    the texts]; The ''statutes of the heavens'' (huqqot shamayim) and their rule over the earth; and 5
-    more.'
+    to bless him; Those near God do not disdain to worship him; they glorify him and prostrate; Heaven,
+    earth, seas and all that moves in them praise God; The place of humans in the worship offered by all
+    creation [divergence between the texts]; The ''statutes of the heavens'' (huqqot shamayim) and their
+    rule over the earth; The seven heavens, the earth and everything in them glorify God, though humans
+    do not understand their praise; and 5 more.'
   basis: reading
 - text: 'Only in Noah answered; David and Solomon''s judgment, the praising mountains, mail and wind:
     David and Solomon judge a case of sheep that strayed by night into a field; Solomon is given the right
     understanding; God taught David the craft of making coats of mail [contrast between the texts]; The
     people see that divine wisdom is in the king to do justice; The people see that divine wisdom is in
     the king to do justice [divergence between the texts]; Liability for one''s grazing animals or spreading
-    fire damaging another''s field; God taught David the craft of making coats of mail; Hero asks the
-    deity to judge or destroy his opponents [divergence between the texts]; The stormy wind is subjected
-    to Solomon, blowing at his command; Devils (shayāṭīn) and jinn labor for Solomon, diving and building;
-    Hero asks the deity to judge or destroy his opponents; All others perish; Hero''s family saved with
-    him.'
+    fire damaging another''s field; A herdsman''s sheep graze in a cultivator''s field [divergence between
+    the texts]; God taught David the craft of making coats of mail; Hero asks the deity to judge or destroy
+    his opponents [divergence between the texts]; The stormy wind is subjected to Solomon, blowing at
+    his command; Devils (shayāṭīn) and jinn labor for Solomon, diving and building; Hero asks the deity
+    to judge or destroy his opponents; All others perish; and 1 more.'
   basis: reading
 - text: 'Psalm 148, praise from heaven and earth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

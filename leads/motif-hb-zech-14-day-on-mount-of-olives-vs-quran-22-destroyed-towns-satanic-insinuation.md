@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: YHWH will be king over all the earth; in that day YHWH will be one
-    and his name one (weight 6.7); The Day of YHWH: a coming day of divine judgment, terror and darkness
-    (weight 5.0). Pair score 11.7.'
+    and his name one (weight 7.7); The Day of YHWH: a coming day of divine judgment, terror and darkness
+    (weight 6.0). Pair score 13.8.'
   basis: reading
 - text: 'Only in The final day on the Mount of Olives; living waters; Sukkot for the nations: A unique
     day known to YHWH, neither day nor night, without light, cold and frost; at evening there will be

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Difficult cases referred to the Levitical priests and judge at the
-    chosen place; defiance is capital (weight 6.3). Pair score 6.3.'
+    chosen place; defiance is capital (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Idolater''s trial; witnesses; high court; law of the king: King writes a copy of the
     Torah and reads it all his days; King must be chosen by God from among brothers, not a foreigner;
@@ -29,17 +29,18 @@ evidence:
     [divergence between the texts]; Made attractive to men: women, sons, heaped-up gold and silver, branded
     horses, cattle and tillage; Amassing war horses, and trust in God [contrast between the texts]; Blemished
     animal (lame, blind) may not be sacrificed; How many witnesses are required [divergence between the
-    texts]; Formula: you shall purge the evil from your midst; Prohibition of worshipping sun, moon, stars,
-    the host of heaven; No one put to death on the testimony of a single witness; and 1 more.'
+    texts]; Prohibition of worshipping sun, moon, stars, the host of heaven; Formula: you shall purge
+    the evil from your midst; No one put to death on the testimony of a single witness; and 1 more.'
   basis: reading
 - text: 'Only in Trusts, obedience to authority, and the hypocrites who seek other judges: Companions
     of the obedient: prophets, the truthful (ṣiddīqūn), martyrs and the righteous; Had they been commanded
     ''kill yourselves or leave your homes'', few would have done it; Obey God, obey the Messenger and
     those in authority; refer disputes to God and the Messenger; Some of the People of the Book believe
     in al-jibt and al-ṭāghūt (idols, false powers); The Levites kill idolaters including their own kin
-    and are consecrated for it [divergence between the texts]; Return trusts (amānāt) to their owners
-    and judge between people with justice; Prophet intercedes and averts God''s destruction of the people;
-    The Levites kill idolaters including their own kin and are consecrated for it.'
+    and are consecrated for it [divergence between the texts]; Command to hand over possessions / trusts
+    to their owners, in a context of just judgment; Return trusts (amānāt) to their owners and judge between
+    people with justice; Prophet intercedes and averts God''s destruction of the people; The Levites kill
+    idolaters including their own kin and are consecrated for it.'
   basis: reading
 - text: 'Idolater''s trial; witnesses; high court; law of the king: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,30 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not look at wine when it is red and sparkles in the cup; at the
-    last it bites like a serpent and stings like a viper (weight 6.7). Pair score 6.7.'
+    last it bites like a serpent and stings like a viper (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Father''s appeal, the harlot as pit, and the drunkard''s woes: Buy truth and do not sell
     it, wisdom, instruction and understanding; The drunkard is like one lying in the heart of the sea
     or on top of a mast; struck and feeling nothing, he seeks more on waking; Riddle-catalogue: ''Who
     has woe? who has sorrow? who has strife, wounds without cause, red eyes?'' Those who linger over wine;
-    ''My son, give me your heart and let your eyes keep my ways''; Do not be among wine-bibbers and gluttonous
-    eaters of meat, for drunkard and glutton come to poverty and rags; The harlot lies in wait like a
-    robber and multiplies the faithless among men; The speaker''s kidneys (kilyot) exult at the son''s
-    upright words; Do not envy sinners or evildoers, for there is a future (aharit) and your hope will
-    not be cut off; The effects of wine on the drinker [contrast between the texts]; The mouth of the
+    ''My son, give me your heart and let your eyes keep my ways''; The harlot lies in wait like a robber
+    and multiplies the faithless among men; The speaker''s kidneys (kilyot) exult at the son''s upright
+    words; Do not envy sinners or evildoers, for there is a future (aharit) and your hope will not be
+    cut off; The effects of wine on the drinker [contrast between the texts]; Do not be among wine-bibbers
+    and gluttonous eaters of meat, for drunkard and glutton come to poverty and rags; The mouth of the
     strange woman (or harlot) is a deep pit, a narrow well into which the cursed falls; The effects of
     wine and of the cup: mockery, madness, or none [contrast between the texts]; A wise son gladdens his
     father; a foolish son grieves his mother.'
   basis: reading
 - text: 'Only in Wine, gambling, orphans, mixed marriage and menstruation: A believing slave woman (or
     man) is better for marriage than an attractive polytheist; What to spend? ''The surplus'' (al-''afw);
-    Mixing with orphans'' affairs permitted: they are your brothers; Your wives are a tilth for you; come
-    to your tilth as you wish; Intercourse with a menstruating woman is forbidden [divergence between
-    the texts]; A woman is purifying herself from her menstrual impurity; Wine and gambling: in both great
-    sin and some benefit, but the sin is greater; Whether wine is good or harmful [contrast between the
-    texts]; Ban on marrying outside the community and its criterion [divergence between the texts]; Intercourse
-    with a menstruating woman is forbidden; Marrying foreign women will lead the sons into idolatry; Prohibition
-    of intermarriage with the peoples of the land lest they turn sons to other gods.'
+    Mixing with orphans'' affairs permitted: they are your brothers; Intercourse with a menstruating woman
+    is forbidden [divergence between the texts]; Marriage with a man or woman of the hostile outside group
+    is barred or dangerous, because the spouse will lead to betrayal or ruin; Ploughing and sowing a field
+    stand for insemination (the plough impregnates the earth; women are a tilth); A woman is purifying
+    herself from her menstrual impurity; Wine and gambling: in both great sin and some benefit, but the
+    sin is greater; A woman (wife) is likened to a field that is ploughed; Whether wine is good or harmful
+    [contrast between the texts]; Ban on marrying outside the community and its criterion [divergence
+    between the texts]; A woman and a ploughed field are likened to each other; and 5 more.'
   basis: reading
 - text: 'Father''s appeal, the harlot as pit, and the drunkard''s woes: tagged by Claude (model), reading
     the Hebrew.'

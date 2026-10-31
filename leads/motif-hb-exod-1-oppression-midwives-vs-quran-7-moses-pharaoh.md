@@ -21,9 +21,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rulers fear that a people will leave the land, or drive them out
-    of it [divergence between the texts] (weight 6.7); Ruler orders the killing of male infants [divergence
-    between the texts] (weight 6.3); Ruler orders the killing of male infants (weight 5.1). Pair score
-    18.1.'
+    of it [divergence between the texts] (weight 7.7); Ruler orders the killing of male infants [divergence
+    between the texts] (weight 7.3); Ruler orders the killing of male infants (weight 6.1). Pair score
+    21.2.'
   basis: reading
 - text: 'Only in Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: Midwives observe
     the newborn on the birthstool (ovnayim, ''the two stones''); Oppressed people forced to build store-cities
@@ -41,11 +41,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; The court magicians ask the king for a reward if they win and are promised closeness; Magicians
-    fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate a wonder
-    and confess ''This is the finger of God'' [divergence between the texts]; Threatened believers say
-    ''to our Lord we return'' and pray for patience and to die as muslims; and 22 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 32 more.'
   basis: reading
 - text: 'Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: tagged by Claude (model),
     reading the Hebrew.'

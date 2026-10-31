@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Penalty for adultery or sexual indecency [contrast between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Penalties for Molech worship, necromancy and sexual offenses: In bestiality the animal
-    is killed together with the human offender; One who curses father or mother is put to death; God separated
-    Israel from the peoples as clean animals are separated from unclean; Sibling incest is called ''hesed''
-    (normally ''kindness''), here a disgrace; Offender executed by burning; Offenders punished by dying
-    childless; Intercourse with a menstruating woman is forbidden [divergence between the texts]; The
-    land, defiled by abominations, vomits out its inhabitants; Lying with a male as with a woman is forbidden;
-    Adulterer and adulteress both put to death; Giving one''s offspring to Molech is forbidden and punished;
-    Intercourse with a menstruating woman is forbidden; and 3 more.'
+    is killed together with the human offender; God separated Israel from the peoples as clean animals
+    are separated from unclean; Sibling incest is called ''hesed'' (normally ''kindness''), here a disgrace;
+    Offender executed by burning; Offenders punished by dying childless; One who curses father or mother
+    is put to death; Intercourse with a menstruating woman is forbidden [divergence between the texts];
+    The land, defiled by abominations, vomits out its inhabitants; Lying with a male as with a woman is
+    forbidden; Adulterer and adulteress both put to death; Giving one''s offspring to Molech is forbidden
+    and punished; Intercourse with a menstruating woman is forbidden; and 3 more.'
   basis: reading
 - text: 'Only in Indecency, four witnesses, and the limits of repentance: Women guilty of indecency are
     confined to houses until death or until God makes a way; Repentance is not accepted from one who repents

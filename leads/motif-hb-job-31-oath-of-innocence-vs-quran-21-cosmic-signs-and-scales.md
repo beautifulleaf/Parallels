@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Let God weigh me in just balances and know my integrity'' [divergence
-    between the texts] (weight 6.7); ''Let God weigh me in just balances and know my integrity'' (weight
-    6.3). Pair score 13.0.'
+    between the texts] (weight 7.7); ''Let God weigh me in just balances and know my integrity'' (weight
+    7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Job''s oath of innocence: Adultery is a fire that consumes unto Abaddon and roots out
     all one''s increase; Self-curse: may I sow and another eat, and my offspring be uprooted; Self-curse:
@@ -31,18 +31,18 @@ evidence:
     Self-curse should his land cry out against him and its furrows weep for stolen produce or murdered
     owners; Master respects his slaves'' lawsuits because the one who made him in the womb made them too;
     The righteous did not rejoice at his enemy''s ruin nor curse his life; Disavowal of making gold one''s
-    hope or rejoicing in great wealth; Protagonist clears himself with a series of conditional self-curses
-    (''If I have done X, may Y befall me''); and 9 more.'
+    hope or rejoicing in great wealth; ''Here is my mark (tav); let Shaddai answer me'': the litigant
+    signs his deposition; and 9 more.'
   basis: reading
-- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: The heavens and earth
-    were a closed-up mass (ratq) that God split apart (fatq); Man was created of haste; Creation proceeds
-    by dividing (light/darkness, waters above/below); God comes to the land, reducing it from its outlying
-    parts; God made every living thing from water [divergence between the texts]; God gave Moses and Aaron
-    the Criterion (al-furqān), a light and reminder; The heavens and earth were a closed-up mass (ratq)
-    that God split apart (fatq) [divergence between the texts]; God made the sky a protected roof; God
-    made every living thing from water; Just scales are set up on the day of resurrection; even a mustard
-    seed''s weight is brought forth; Sun and moon each swim in an orbit (falak); Every soul shall taste
-    death; and 3 more.'
+- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: Man was created of
+    haste; A balance set upright / just balances set up for the judgment; God comes to the land, reducing
+    it from its outlying parts; God made every living thing from water [divergence between the texts];
+    Whether a human, such as the flood hero, is granted eternal life; God gave Moses and Aaron the Criterion
+    (al-furqān), a light and reminder; When the gods created mankind they allotted death to them and kept
+    life in their own hands; At the beginning heaven and earth, once together, were separated; The heavens
+    and earth were a closed-up mass (ratq) that God split apart (fatq); The heavens and earth were a closed-up
+    mass (ratq) that God split apart (fatq) [divergence between the texts]; God made the sky a protected
+    roof; God made every living thing from water; and 11 more.'
   basis: reading
 - text: 'Job''s oath of innocence: tagged by Claude (model), reading the Hebrew.'
   basis: reading

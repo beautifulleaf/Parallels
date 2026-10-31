@@ -21,10 +21,10 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God enlarges and restricts provision for whom he wills (weight 6.7);
-    An earthful of gold would not be accepted as ransom from one who dies unbelieving (weight 5.8); No
+- text: 'Shared motifs, rarest first: God enlarges and restricts provision for whom he wills (weight 7.7);
+    An earthful of gold would not be accepted as ransom from one who dies unbelieving (weight 6.8); No
     man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too costly
-    (weight 5.3). Pair score 17.8.'
+    (weight 6.4). Pair score 20.9.'
   basis: reading
 - text: 'Only in Psalm 49 - no man can ransom his brother: Like sheep they are appointed for Sheol; Death
     shepherds them; When he dies he takes nothing with him; his glory does not go down after him; God
@@ -34,9 +34,9 @@ evidence:
     forever, though they named lands after themselves; No man can ransom his brother or give God a ransom
     (kofer) for him; the redemption of life is too costly [divergence between the texts]; On that day
     no patron (mawla) can avail his client at all; Qārūn goes out in his finery and the worldly wish for
-    his fortune; Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging; Wise men
-    die, the fool and the brute perish together and leave their wealth to others; Riches kept by their
-    owner to his hurt, lost in a bad venture, so that his son has nothing in hand; and 2 more.'
+    his fortune; Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging; Riches
+    kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in hand; Wise
+    men die, the fool and the brute perish together and leave their wealth to others; and 2 more.'
   basis: reading
 - text: 'Only in Those who keep God''s covenant and the abode of Eden (Surah 13:18-29): Angels enter upon
     the blessed from every gate saying ''Peace be upon you for your patience''; In the remembrance of

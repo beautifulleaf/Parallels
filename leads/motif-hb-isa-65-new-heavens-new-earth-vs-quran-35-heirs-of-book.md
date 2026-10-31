@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Paradise is the abode of permanence where no toil or weariness touches
-    the blessed and grief is removed (weight 6.7). Pair score 6.7.'
+    the blessed and grief is removed (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in New heavens and a new earth: Before they call God will answer; while they are still speaking
     he will hear; People will build houses and live in them, plant vineyards and eat their fruit, and
@@ -26,20 +26,21 @@ evidence:
     a youth; God creates Jerusalem a joy; the sound of weeping and crying will no longer be heard in her;
     God creates new heavens and a new earth; the former things will not be remembered; Believers'' offspring
     who followed them in faith are joined with them in paradise, without loss of reward; each is pledged
-    for what he earned; Wolf dwells with lamb, leopard with kid, lion eats straw like the ox, and a little
-    child leads them; Serpent cursed to crawl on its belly and eat dust; On the last day the earth is
-    changed into another earth, and the heavens too.'
+    for what he earned; Serpent cursed to crawl on its belly and eat dust; On the last day the earth is
+    changed into another earth, and the heavens too; Wolf dwells with lamb, leopard with kid, lion eats
+    straw like the ox, and a little child leads them.'
   basis: reading
 - text: 'Only in The heirs of the Book, the Gardens of Eden and the cries of the damned: God made humans
     successors (khala''if) on the earth; Heirs of the Book are of three kinds: one who wrongs himself,
     one who is moderate, and one foremost in good deeds; The guilty, heads bowed before their Lord, beg
     to be returned to do good; God holds the heavens and the earth lest they cease; if they ceased, no
     one else could hold them; If God took people to task for what they earned he would not leave a creature
-    on the earth''s back, but he defers them to a set term; The evil plot encompasses only its own authors;
-    In paradise the righteous are adorned with gold bracelets and pearls and wear silk; In hell the damned
-    neither die nor live; The way (sunna) of God with those who passed before: you will find no change
-    in God''s way; Challenge to idolaters: show me what those besides God have created; Travel in the
-    land and see the end of those who denied.'
+    on the earth''s back, but he defers them to a set term; The evil plot or sorcery turns back upon its
+    own author; The evil plot or sorcery turns back upon its own author [divergence between the texts];
+    The evil plot encompasses only its own authors; In paradise the righteous are adorned with gold bracelets
+    and pearls and wear silk; The god (alone) holds the heavens (and earth) in place: the bond or rope
+    of heaven, holding back the sky; In hell the damned neither die nor live; The way (sunna) of God with
+    those who passed before: you will find no change in God''s way; and 3 more.'
   basis: reading
 - text: 'New heavens and a new earth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

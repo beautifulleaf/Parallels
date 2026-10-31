@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Do you worship what you carve, when God created you and what you
-    make?'' (weight 6.7). Pair score 6.7.'
+    make?'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
     Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the

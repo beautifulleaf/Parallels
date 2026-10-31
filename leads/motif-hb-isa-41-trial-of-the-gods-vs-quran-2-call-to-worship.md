@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A challenge to rivals to prove a divine claim [divergence between
-    the texts] (weight 6.7); God summons the coastlands and nations (and their gods) to a court trial
-    to argue their case (weight 6.3). Pair score 13.0.'
+    the texts] (weight 7.7); God summons the coastlands and nations (and their gods) to a court trial
+    to argue their case (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged
     to foretell: God has stirred up one from the east (and north) whom victory meets at every step, who
@@ -29,22 +29,23 @@ evidence:
     hammer, approving the soldering and fastening it with nails; Israel made a new sharp threshing sledge
     with teeth that threshes mountains and makes hills like chaff; God plants in the wilderness cedar,
     acacia, myrtle, olive, cypress, plane and pine together; God addresses Israel as ''worm Jacob'' and
-    promises to help; Oracle of salvation: ''Fear not, for I am with you; I will strengthen and help you'';
-    God''s friends (awliya'') have no fear and will not grieve; A herald of good news (mevasseret Tsiyyon)
-    goes up on a high mountain to announce ''Behold your God!''; ''You, Israel, my servant, Jacob whom
-    I have chosen, offspring of Abraham my friend''; Truth has come; falsehood neither originates nor
-    restores; Waters break out in the wilderness and streams in the desert; burning sand becomes a pool;
-    Abraham is called God''s friend (ohev, ''lover''); and 3 more.'
+    promises to help; God''s friends (awliya'') have no fear and will not grieve; A herald of good news
+    (mevasseret Tsiyyon) goes up on a high mountain to announce ''Behold your God!''; ''You, Israel, my
+    servant, Jacob whom I have chosen, offspring of Abraham my friend''; Truth has come; falsehood neither
+    originates nor restores; Waters break out in the wilderness and streams in the desert; burning sand
+    becomes a pool; Abraham is called God''s friend (ohev, ''lover''); The gods are challenged to declare
+    the former things or the things to come so that we may know they are gods; they are nothing; and 3
+    more.'
   basis: reading
 - text: 'Only in Call to worship the Creator; the challenge; paradise and the gnat: God is not ashamed
     to strike a parable of a gnat or something smaller; Fruits in paradise resemble those of earth: ''this
-    is what we were given before''; God takes life and gives it again [divergence between the texts];
-    The people break the covenant God made with them; Humans were dead, given life, will die and be given
-    life again (two deaths, two lives); God stretches out the heavens like a tent curtain; Hell''s fire
-    has men and stones as its fuel; The blessed have purified spouses (azwaj mutahhara) in paradise; God
-    fashions seven heavens; Inimitability challenge: produce a surah like it, calling on your own witnesses
-    (tahaddi); God visits the earth with rain, softens it with showers, and crowns the year with harvest;
-    God opens his good storehouse, the heavens, to give rain; and 1 more.'
+    is what we were given before''; In the hereafter the dead eat the like of what they ate on earth;
+    God takes life and gives it again [divergence between the texts]; The people break the covenant God
+    made with them; Humans were dead, given life, will die and be given life again (two deaths, two lives);
+    God stretches out the heavens like a tent curtain; Hell''s fire has men and stones as its fuel; The
+    blessed have purified spouses (azwaj mutahhara) in paradise; The creator made heaven and earth, light,
+    air and food ''for their sake'' (n-jb =sn), for humankind; God fashions seven heavens; Inimitability
+    challenge: produce a surah like it, calling on your own witnesses (tahaddi); and 3 more.'
   basis: reading
 - text: 'Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to
     foretell: tagged by Claude (model), reading the Hebrew.'

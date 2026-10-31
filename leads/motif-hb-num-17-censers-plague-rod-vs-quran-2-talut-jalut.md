@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Miraculous rod kept before the Testimony as a sign (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Miraculous rod kept before the Testimony as a sign (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Censers as altar plating, Aaron stops the plague, Aaron''s rod blossoms: Chosen leader''s
     rod sprouts, blossoms and bears almonds overnight; Rebels'' censers beaten into altar plating as a
@@ -36,9 +36,10 @@ evidence:
     object that the chosen king has no wealth and they have more right to kingship; Before battle the
     army is tested at a river: whoever drinks is not with the leader, except a handful scooped by hand;
     The ark of the covenant: a gold-plated acacia chest with rings and poles [divergence between the texts];
-    What the ark contains [contrast between the texts]; David kills the Philistine giant [divergence between
-    the texts]; A giant taunts Israel and is killed by a hero; A jar of manna preserved before the testimony
-    for future generations; and 10 more.'
+    A candidate for kingship is judged by his bodily size or strength (too small for the throne; given
+    increase of body) [divergence between the texts]; A claimant''s body is weighed as fitness for kingship
+    [divergence between the texts]; What the ark contains [contrast between the texts]; David kills the
+    Philistine giant [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'Censers as altar plating, Aaron stops the plague, Aaron''s rod blossoms: tagged by Claude (model),
     reading the Hebrew.'

@@ -19,32 +19,34 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Many rabbis and monks devour people''s wealth wrongfully (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The bad shepherds; God the shepherd; one shepherd David; the covenant of peace: God declares
     ''I myself will search for my sheep and seek them out'' and shepherd them on the mountains of Israel;
     God judges between sheep and sheep, fat and lean, rams and goats who trample the pasture, foul the
     water and butt the weak with their horns; God raises up for them ''a plantation of renown'' (matta''
-    leshem) so they are no longer consumed by famine; Without a shepherd the flock is scattered over every
-    mountain and hill and becomes food for wild beasts, with no one to search for them; The shepherd''s
-    neglected duties: strengthen the weak, heal the sick, bind up the injured, bring back the strayed,
-    seek the lost; Woe to the shepherds of Israel who feed themselves, eat the fat, wear the wool, slaughter
-    the fatlings and do not tend the flock; ''You are my flock, the flock of my pasture; you are men (adam),
-    and I am your God''; God will raise up over them one shepherd, ''my servant David'', as prince (nasi)
-    among them; God makes a covenant of peace, banishing evil beasts so the flock can dwell securely in
-    the wilderness and sleep in the forests; Blessing: God removes harmful wild beasts from the land;
-    The king is called to ''shepherd'' God''s people; God broke the bars of the yoke and made the people
-    walk upright; and 5 more.'
+    leshem) so they are no longer consumed by famine; Woe to the shepherds of Israel who feed themselves,
+    eat the fat, wear the wool, slaughter the fatlings and do not tend the flock; ''You are my flock,
+    the flock of my pasture; you are men (adam), and I am your God''; God will raise up over them one
+    shepherd, ''my servant David'', as prince (nasi) among them; Without a shepherd the flock is scattered
+    over every mountain and hill and becomes food for wild beasts, with no one to search for them; The
+    shepherd''s neglected duties: strengthen the weak, heal the sick, bind up the injured, bring back
+    the strayed, seek the lost; God makes a covenant of peace, banishing evil beasts so the flock can
+    dwell securely in the wilderness and sleep in the forests; Blessing: God removes harmful wild beasts
+    from the land; God broke the bars of the yoke and made the people walk upright; Prayer that the people
+    not be ''like sheep without a shepherd''; and 5 more.'
   basis: reading
 - text: 'Only in ''Uzayr and the Messiah called sons of God; rabbis and monks as lords: Polemic: the Jews
     are said to call ''Uzayr (Ezra?) son of God; People of the Book took their rabbis (ahbar) and monks
-    as lords besides God; Whether God has a son, or calls his anointed king his begotten son [response
-    between the texts]; Opponents wish to put out God''s light with their mouths, but God will perfect
-    his light; Hoarded gold and silver are heated in hell and used to brand the hoarders'' foreheads,
-    sides and backs; The standing of Ezra (ʿUzayr): scribe or son of God [divergence between the texts];
-    Polemic against calling the Messiah son of God; God sent his messenger with guidance and the religion
-    of truth to make it prevail over all religion; A bribe blinds the clear-sighted and perverts the words
-    of the righteous.'
+    as lords besides God; Religious personnel eat up goods that are not theirs (the god''s offerings,
+    people''s wealth) [divergence between the texts]; Whether God has a son, or calls his anointed king
+    his begotten son [response between the texts]; Opponents wish to put out God''s light with their mouths,
+    but God will perfect his light; Hoarded gold and silver are heated in hell and used to brand the hoarders''
+    foreheads, sides and backs; Silver is hidden away: wrapped in rags, sealed in jars and boxes and buried
+    in a hole in the cattle-pen or a dark corner of the house; The standing of Ezra (ʿUzayr): scribe or
+    son of God [divergence between the texts]; Polemic against calling the Messiah son of God; God sent
+    his messenger with guidance and the religion of truth to make it prevail over all religion; A bribe
+    blinds the clear-sighted and perverts the words of the righteous.'
   basis: reading
 - text: 'The bad shepherds; God the shepherd; one shepherd David; the covenant of peace: tagged by Claude
     (model), reading the Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is sent as witness, bearer of good tidings and warner
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Ezekiel appointed watchman; bound and struck dumb in his house: The glory seen by the
     river appears again to the prophet in a valley/plain; The prophet is told to shut himself in his house;

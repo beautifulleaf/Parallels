@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 6.0). Pair
-    score 6.0.'
+- text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 7.1). Pair
+    score 7.1.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas vav to kaf: ''It is good for me that I was afflicted, so that I might
     learn your statutes''; The arrogant have hearts gross (unfeeling) as fat; Speaker has become like
@@ -29,22 +29,21 @@ evidence:
     fine gold; Psalm in 22 stanzas of eight lines, every line of a stanza beginning with the same letter,
     each line naming the Torah; God is the speaker''s portion (heleq) forever, more than anything in heaven
     or earth; The believers'' sides forsake their beds as they call on their Lord in fear and hope (night
-    vigil); God formed the kidneys and wove (knit) the speaker in his mother''s womb; Lifting the hands
-    (palms) in prayer or blessing; God''s commandments or Torah are the speaker''s delight (sha''ashu''im);
-    and 1 more.'
+    vigil); God''s commandments or Torah are the speaker''s delight (sha''ashu''im); God formed the kidneys
+    and wove (knit) the speaker in his mother''s womb; Those who dig a pit or spread a net for the righteous
+    fall into it themselves; and 1 more.'
   basis: reading
 - text: 'Only in The enwrapped one: the night vigil: A day so terrible it turns children grey-haired;
     Command to recite the scripture in slow measured chant (tartil); Night vigil prescribed in measured
     portions (half the night, less or more, two-thirds or a third), later lightened for the sick, travelers
     and fighters; God will cast upon the prophet a heavy word (qawlan thaqilan); Hell''s food chokes (dha
-    ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies hunger; God called Lord
-    of the east and the west, or of the (many) easts and wests (sunrise and sunset points); Prophet wraps
-    his face in his mantle on hearing God; God has prepared chains, iron collars and fetters (ankal) for
-    the unbelievers; At the end the sky is split, cleft or opened (infatarat, inshaqqat, furijat); At
-    the end the mountains become a heap of running sand, are blown away, set in motion or turn into a
-    mirage; Who will lend God a goodly loan (qard hasan), that he may multiply it for him?; On that day
-    a great earthquake shakes the land; fish, birds, beasts, creeping things and all humans quake before
-    God, mountains are thrown down and every wall falls; and 1 more.'
+    ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies hunger; Sacred words recited
+    at dead of night, and what is done by day [divergence between the texts]; God called Lord of the east
+    and the west, or of the (many) easts and wests (sunrise and sunset points); Prophet wraps his face
+    in his mantle on hearing God; God has prepared chains, iron collars and fetters (ankal) for the unbelievers;
+    Lordship that reaches from the rising to the setting of the sun; At the end the sky is split, cleft
+    or opened (infatarat, inshaqqat, furijat); At the end the mountains become a heap of running sand,
+    are blown away, set in motion or turn into a mirage; and 3 more.'
   basis: reading
 - text: 'Psalm 119, stanzas vav to kaf: tagged by Claude (model), reading the Hebrew.'
   basis: reading

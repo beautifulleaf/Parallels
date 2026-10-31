@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes the prophet''s tongue cleave to his palate so he is mute
-    except when God speaks (weight 6.3). Pair score 6.3.'
+    except when God speaks (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Ezekiel appointed watchman; bound and struck dumb in his house: The glory seen by the
     river appears again to the prophet in a valley/plain; The prophet is told to shut himself in his house;
@@ -31,17 +31,17 @@ evidence:
     the prophet as a watchman (tsofeh) for the house of Israel; The prophet must speak ''whether they
     hear or refuse''; The prophet is sent as witness, bearer of good tidings and warner; and 2 more.'
   basis: reading
-- text: 'Only in Zechariah''s secret prayer and the birth of John (Surah 19:1-15): Old man''s prayer:
-    ''my bones have weakened and my head is aflame with gray''; The child is given judgment and wisdom
-    while still a boy; The aged father asks how he can have a son when his wife is barren and he is very
-    old; As a sign of the promised son the father cannot speak to people for three days or nights; The
-    announced son receives a name never given to anyone before; A petitioner calls to God in a hidden,
-    secret voice; The mute priest comes out of the sanctuary and signals to the people to glorify God;
-    The childless priest fears for his kinsmen after him and asks for an heir to the family of Jacob;
-    A divine messenger announces a son''s birth and gives his name [divergence between the texts]; The
-    prophet child is dutiful to his parent(s), not an arrogant tyrant; The aged father asks how he can
-    have a son when his wife is barren and he is very old [divergence between the texts]; ''Peace on him
-    the day he was born, the day he dies and the day he is raised alive''; and 7 more.'
+- text: 'Only in Zechariah''s secret prayer and the birth of John (Surah 19:1-15): The child is given
+    judgment and wisdom while still a boy; The aged father asks how he can have a son when his wife is
+    barren and he is very old; As a sign of the promised son the father cannot speak to people for three
+    days or nights; The announced son receives a name never given to anyone before; A petitioner calls
+    to God in a hidden, secret voice; The mute priest comes out of the sanctuary and signals to the people
+    to glorify God; The childless priest fears for his kinsmen after him and asks for an heir to the family
+    of Jacob; A divine messenger announces a son''s birth and gives his name [divergence between the texts];
+    Formula: ''from when you did not exist'' / ''when you were nothing''; Old man''s prayer: ''my bones
+    have weakened and my head is aflame with gray''; A childless man pleads with the deity for a son to
+    inherit from him and stand in his house, and is granted one; A childless man prays to his god for
+    an heir, recalling his past devotion; and 16 more.'
   basis: reading
 - text: 'Ezekiel appointed watchman; bound and struck dumb in his house: tagged by Claude (model), reading
     the Hebrew.'

@@ -18,16 +18,16 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: In paradise they taste no death except the first death (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: In paradise they taste no death except the first death (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Thanksgiving; the feast on the mountain; death swallowed forever: God will swallow up
     death forever (bila ha-mavet la-netsah); On this mountain YHWH makes for all peoples a feast of rich
     foods and well-aged wines; God turned the city into a heap, the foreigners'' palace never to be rebuilt;
     strong peoples fear him; God is a stronghold for the poor, refuge from the storm and shade from the
-    heat; The Lord YHWH will wipe away tears from all faces and remove his people''s disgrace; Moab trampled
-    like straw in a dung-pit, spreading his hands like a swimmer; ''Behold, this is our God; we waited
-    for him and he saved us''; God swallows the shroud (lot) and veil spread over all peoples.'
+    heat; Moab trampled like straw in a dung-pit, spreading his hands like a swimmer; ''Behold, this is
+    our God; we waited for him and he saved us''; God swallows the shroud (lot) and veil spread over all
+    peoples; The Lord YHWH will wipe away tears from all faces and remove his people''s disgrace.'
   basis: reading
 - text: 'Only in Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade
     and the houris: The Day of Sorting/Decision (yawm al-fasl) is the appointed time for all; The blessed
@@ -39,8 +39,8 @@ evidence:
     fire and boiling water is poured on their heads, melting their insides and skins; The damned man is
     taunted: ''Taste! You are the mighty, the noble!''; On that day no patron (mawla) can avail his client
     at all; The people of Tubba'' (the Himyarite kings of Yemen) as a destroyed people; A tree whose fruit
-    is food, in Eden or in hell [contrast between the texts]; Neither their silver nor their gold can
-    save them on the day of YHWH''s wrath; and 4 more.'
+    is food, in Eden or in hell [contrast between the texts]; The blessed will not die except their first
+    death and will not be punished; and 6 more.'
   basis: reading
 - text: 'Thanksgiving; the feast on the mountain; death swallowed forever: tagged by Claude (model), reading
     the Hebrew.'

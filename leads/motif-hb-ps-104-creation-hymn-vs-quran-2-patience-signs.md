@@ -21,32 +21,33 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Ships go to and fro on the great sea (weight 6.3); Catalogue of
+- text: 'Shared motifs, rarest first: Ships go to and fro on the great sea (weight 7.1); Catalogue of
     signs: heavens and earth, alternation of night and day, ships, rain reviving dead earth, beasts, winds,
-    clouds (weight 5.6); Rain from the sky gives life to the earth after its death, a sign of resurrection
-    (weight 4.4). Pair score 16.3.'
+    clouds (weight 6.6); Rain from the sky gives life to the earth after its death, a sign of resurrection
+    (weight 5.5). Pair score 19.2.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 38 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 38 more.'
   basis: reading
 - text: 'Only in Patience, Safa and Marwa, signs of creation: On seeing the punishment, those followed
     disown their followers, who wish for a return to disown them in turn; Safa and Marwa are among God''s
     waymarks; circuit between them permitted on pilgrimage; Formula of the afflicted: ''To God we belong
-    and to him we return''; ''YHWH gave and YHWH has taken; blessed be the name of YHWH''; Those slain
-    in God''s way are not dead but alive, provided for with their Lord; God''s test by loss of goods,
-    lives and children [divergence between the texts]; Those who conceal the revealed signs are cursed
-    by God and by all who curse; God''s covenant with Israel is as sure as the fixed order of sun, moon,
-    stars and sea; Hear O Israel: YHWH our God, YHWH is one; Declaration that YHWH is God and there is
-    no other besides him.'
+    and to him we return''; In affliction the person declares ''I belong to (the god)''; ''If only (the
+    enemy / the wrongdoers) knew or saw'' the god''s strength (formula); ''YHWH gave and YHWH has taken;
+    blessed be the name of YHWH''; God''s test by loss of goods, lives and children [divergence between
+    the texts]; Those who conceal the revealed signs are cursed by God and by all who curse; God''s covenant
+    with Israel is as sure as the fixed order of sun, moon, stars and sea; Those slain in God''s way are
+    not dead but alive, provided for with their Lord; The dead are declared ''not dead, but alive'' [neutral]
+    [divergence between the texts]; Hear O Israel: YHWH our God, YHWH is one; and 1 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

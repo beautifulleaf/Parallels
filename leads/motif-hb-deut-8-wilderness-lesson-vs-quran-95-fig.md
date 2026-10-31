@@ -19,26 +19,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Land of wheat, barley, vine, fig, pomegranate, olive and honey (weight
-    5.8). Pair score 5.8.'
+    6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Lessons of the wilderness; the good land; beware of pride: Wilderness of fiery serpents
-    and scorpions; When you eat and are satisfied, bless God for the land; Land whose stones are iron
-    and from whose hills copper is dug; Man does not live by bread alone but by every word from God''s
-    mouth; God tests the community ''until we know'' who strive and are patient; Springs and fruit of
-    the promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I
-    was given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and
-    test Israel; Clothes did not wear out and feet did not swell for forty years; God disciplines Israel
-    as a man disciplines his son; Warning against saying my power and the might of my hand made this wealth;
-    When you eat and are full, beware lest you forget God; and 6 more.'
+    and scorpions; When you eat and are satisfied, bless God for the land; Man does not live by bread
+    alone but by every word from God''s mouth; God tests the community ''until we know'' who strive and
+    are patient; Land whose stones are iron and from whose hills copper is dug; Springs and fruit of the
+    promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I was
+    given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and test
+    Israel; Warning against saying my power and the might of my hand made this wealth; When you eat and
+    are full, beware lest you forget God; Water brought out of the rock; Wealth and children are a trial
+    (fitna); and 6 more.'
   basis: reading
 - text: 'Only in The fig and the olive, Mount Sinai and the secure city: Humankind created in the best
-    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; Humankind created
-    in the best of forms (ahsan taqwim), then returned to the lowest of the low, except the believers
-    [divergence between the texts]; Hero challenges God: shall the judge of all the earth not do justice?
-    [divergence between the texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin);
-    Hero challenges God: shall the judge of all the earth not do justice?; God shines forth from Sinai,
-    Seir and Mount Paran with holy myriads; A series of oaths by natural phenomena (dawn, night, day,
-    sun, moon, sky, earth, stars, winds) opens or punctuates a passage.'
+    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; The fig and
+    the olive named together; Humankind created in the best of forms (ahsan taqwim), then returned to
+    the lowest of the low, except the believers [divergence between the texts]; Hero challenges God: shall
+    the judge of all the earth not do justice? [divergence between the texts]; Oath by ''this city'' (Mecca),
+    the secure city (al-balad al-amin); Hero challenges God: shall the judge of all the earth not do justice?;
+    God shines forth from Sinai, Seir and Mount Paran with holy myriads; A series of oaths by natural
+    phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates a passage.'
   basis: reading
 - text: 'Lessons of the wilderness; the good land; beware of pride: tagged by Claude (model), reading
     the Hebrew.'

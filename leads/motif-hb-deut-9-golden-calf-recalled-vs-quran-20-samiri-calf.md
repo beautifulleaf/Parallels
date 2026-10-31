@@ -23,9 +23,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Calf burned, ground to dust, and the dust thrown into the stream
-    (weight 6.7); Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
-    between the texts] (weight 6.3); People make a molten calf while the leader is on the mountain (weight
-    4.7). Pair score 17.7.'
+    (weight 7.7); Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
+    between the texts] (weight 7.3); People make a molten calf while the leader is on the mountain (weight
+    5.8). Pair score 20.9.'
   basis: reading
 - text: 'Only in Not for your righteousness; the golden calf and Moses'' intercession recalled: Land given
     not for Israel''s righteousness but for the nations'' wickedness; Intercession appeals to what the
@@ -38,16 +38,16 @@ evidence:
   basis: reading
 - text: 'Only in Moses hastens to the appointment; the Samiri and the calf: Aaron explains he feared being
     blamed for dividing the children of Israel; Aaron warns the people against the calf; they refuse to
-    stop until Moses returns; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
-    is condemned to say all his life ''No touching!'' (lā misās), an outcast; The calf-maker took a handful
-    (of dust) from the track of the messenger and cast it in; God asks Moses why he hastened ahead of
-    his people to the appointment; In anger Moses seizes his brother by the beard and head; Aaron pleads
-    ''son of my mother''; Calf burned, ground to dust, and the dust thrown into the stream [divergence
-    between the texts]; The calf-maker is condemned to say all his life ''No touching!'' (lā misās), an
+    stop until Moses returns; The calf-maker is condemned to say all his life ''No touching!'' (lā misās),
+    an outcast; The calf-maker took a handful (of dust) from the track of the messenger and cast it in;
+    God asks Moses why he hastened ahead of his people to the appointment; In anger Moses seizes his brother
+    by the beard and head; Aaron pleads ''son of my mother''; Calf burned, ground to dust, and the dust
+    thrown into the stream [divergence between the texts]; The calf is burned and its remains scattered
+    in the sea (yamm); The calf-maker is condemned to say all his life ''No touching!'' (lā misās), an
     outcast [divergence between the texts]; The calf is hailed as the god who brought Israel out of Egypt
-    [divergence between the texts]; God asks Moses why he hastened ahead of his people to the appointment
-    [divergence between the texts]; In anger Moses seizes his brother by the beard and head; Aaron pleads
-    ''son of my mother'' [divergence between the texts]; and 7 more.'
+    [divergence between the texts]; A sorcerer takes the dirt of someone''s footprint for a magical act;
+    A sorcerer takes the dirt of someone''s footprint for a magical act [divergence between the texts];
+    and 11 more.'
   basis: reading
 - text: 'Not for your righteousness; the golden calf and Moses'' intercession recalled: tagged by Claude
     (model), reading the Hebrew.'

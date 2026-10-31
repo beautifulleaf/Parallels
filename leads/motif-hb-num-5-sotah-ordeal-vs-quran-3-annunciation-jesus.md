@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Challenge to mutual imprecation (mubahala): gather sons, women and
-    selves and invoke God''s curse on the liars (weight 6.7). Pair score 6.7.'
+    selves and invoke God''s curse on the liars (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The suspected adulteress and the bitter water: Suspected wife''s offering is barley flour
     without oil or frankincense, a ''meal offering of jealousy''; Ordeal curse: the guilty woman''s belly
@@ -33,14 +33,14 @@ evidence:
 - text: 'Only in The annunciation and the mission of Jesus: Jesus comes confirming the Torah and making
     lawful some of what was forbidden; God says to Jesus ''I will take you (mutawaffika) and raise you
     to myself and purify you''; Jesus tells people what they eat and store in their houses; Jesus announced
-    as a word (kalima) from God, named the Messiah, Jesus son of Mary; Forming a creature from earth and
+    as a word (kalima) from God, named the Messiah, Jesus son of Mary; Something (a reed) born without
+    father or mother, out of the storm [divergence between the texts]; Forming a creature from earth and
     breathing life into it [divergence between the texts]; They plotted, and God plotted; God is the best
-    of plotters; The likeness of Jesus with God is as Adam, created from dust by ''Be''; Jesus will speak
-    to people in the cradle and in maturity; God sent down the Torah (al-Tawrat) and the Gospel (al-Injil)
-    before as guidance; Mary asks how she will have a child when no man has touched her; Jesus asks ''Who
-    are my helpers to God?'' and the disciples (hawariyyun) answer ''We are God''s helpers''; Sign: the
-    young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God with us'');
-    and 8 more.'
+    of plotters; To prove the truth, the parties call down destruction or curse on the liar together with
+    wives and children; The likeness of Jesus with God is as Adam, created from dust by ''Be''; Jesus
+    will speak to people in the cradle and in maturity; By whose power a healer revives the dead and heals
+    the sick [divergence between the texts]; Parties to a dispute call down divine punishment on the liar,
+    with their wives and children; and 14 more.'
   basis: reading
 - text: 'The suspected adulteress and the bitter water: tagged by Claude (model), reading the Hebrew.'
   basis: reading

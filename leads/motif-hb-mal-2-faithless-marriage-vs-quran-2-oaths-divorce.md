@@ -18,15 +18,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s attitude to divorce [contrast between the texts] (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in One father, one God; foreign wives and the wife of one''s youth: The people cover God''s
     altar with tears, weeping and groaning because he no longer accepts their offering; ''I hate sending
-    away (divorce)'', says YHWH, and covering one''s garment with violence; God is witness between a man
-    and the wife of his youth, his companion and ''wife of your covenant''; Husband writes a bill of divorcement
+    away (divorce)'', says YHWH, and covering one''s garment with violence; Husband writes a bill of divorcement
     for ''some indecency'' and sends her away [contrast between the texts]; One origin (one father, one
     pair, one God) as ground for conduct toward others [divergence between the texts]; Whether separation
-    of spouses is allowed or hated by God [contrast between the texts]; ''Have we not all one father?
+    of spouses is allowed or hated by God [contrast between the texts]; God is witness between a man and
+    the wife of his youth, his companion and ''wife of your covenant''; ''Have we not all one father?
     Has not one God created us? Why do we deal treacherously with one another?''; Marrying foreign women
     will lead the sons into idolatry; Husband writes a bill of divorcement for ''some indecency'' and
     sends her away.'
@@ -40,7 +40,7 @@ evidence:
     during the waiting period but no secret promise or contract until it ends; Oath of abstention from
     wives (ila''): a four-month waiting period; In fear, pray on foot or riding; Divorced women are due
     a provision (mut''a) according to the husband''s means; After a third divorce she may not return to
-    the first husband until she marries another; and 12 more.'
+    the first husband until she marries another; and 14 more.'
   basis: reading
 - text: 'One father, one God; foreign wives and the wife of one''s youth: tagged by Claude (model), reading
     the Hebrew.'

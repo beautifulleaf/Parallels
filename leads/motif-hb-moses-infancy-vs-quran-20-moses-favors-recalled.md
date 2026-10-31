@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- sister-offers-nurse
 - returned-to-own-mother
-- infant-set-adrift
+- sister-offers-nurse
 - found-by-royal-household
+- infant-set-adrift
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Sister offers to find a nurse (weight 5.8); Infant returned to his
-    own mother to nurse (weight 5.8); Infant placed in a container and set on the water (weight 5.6);
-    Infant found by members of a royal household (weight 5.6). Pair score 22.7.'
+- text: 'Shared motifs, rarest first: Infant returned to his own mother to nurse (weight 6.8); Sister
+    offers to find a nurse (weight 6.8); Infant found by members of a royal household (weight 6.6); Infant
+    placed in a container and set on the water (weight 6.6). Pair score 27.0.'
   basis: reading
 - text: 'Only in The infant Moses in Exodus: Mother hides the infant; Name explained by being drawn from
     water; The container is made of reeds or papyrus; Infant adopted by a royal woman; Infant''s sister
@@ -29,11 +29,11 @@ evidence:
   basis: reading
 - text: 'Only in God recalls his favors to Moses from infancy to Midian: Moses stays years among the people
     of Midian before his call; Moses killed a man and God delivered him from distress, then tried him
-    with trials [divergence between the texts]; God calls, forms, knows or consecrates his servant or
-    prophet from the womb, before birth; Infant found by members of a royal household [divergence between
-    the texts]; Infant placed in a container and set on the water [divergence between the texts]; Moses
-    killed a man and God delivered him from distress, then tried him with trials; Mother receives divine
-    instruction about the infant; Hero flees the king''s death sentence to a foreign land; Hero''s beauty
+    with trials [divergence between the texts]; Infant found by members of a royal household [divergence
+    between the texts]; Infant placed in a container and set on the water [divergence between the texts];
+    Moses killed a man and God delivered him from distress, then tried him with trials; Mother receives
+    divine instruction about the infant; Hero flees the king''s death sentence to a foreign land; God
+    calls, forms, knows or consecrates his servant or prophet from the womb, before birth; Hero''s beauty
     is remarked on.'
   basis: reading
 - text: 'The infant Moses in Exodus: tagged by Claude (model), reading the Hebrew.'
@@ -43,7 +43,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Sister offers to find a nurse
+finding: Infant returned to his own mother to nurse
 kinds:
 - shared
 units:
@@ -54,22 +54,6 @@ units:
   title: God recalls his favors to Moses from infancy to Midian
   tradition: islam
 matches:
-- kind: shared
-  label: Sister offers to find a nurse
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 2:7
-      lang: he
-      text: וַתֹּ֣אמֶר אֲחֹתוֹ֮ אֶל בַּת פַּרְעֹה֒ הַאֵלֵ֗ךְ וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן
-        הָעִבְרִיֹּ֑ת וְתֵינִ֥ק לָ֖ךְ אֶת הַיָּֽלֶד
-  - tradition: islam
-    passages:
-    - ref: Quran 20:40
-      lang: ar
-      text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
-        أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
-        وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
 - kind: shared
   label: Infant returned to his own mother to nurse
   sides:
@@ -90,22 +74,21 @@ matches:
         أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
         وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
 - kind: shared
-  label: Infant placed in a container and set on the water
+  label: Sister offers to find a nurse
   sides:
   - tradition: judaism
     passages:
-    - ref: Exod 2:3
+    - ref: Exod 2:7
       lang: he
-      text: וְלֹא יָכְלָ֣ה עוֹד֮ הַצְּפִינוֹ֒ וַתִּֽקַּֽח לוֹ֙ תֵּ֣בַת גֹּ֔מֶא וַתַּחְמְרָ֥ה בַחֵמָ֖ר
-        וּבַזָּ֑פֶת וַתָּ֤שֶׂם בָּהּ֙ אֶת הַיֶּ֔לֶד וַתָּ֥שֶׂם בַּסּ֖וּף עַל שְׂפַ֥ת הַיְאֹֽר
+      text: וַתֹּ֣אמֶר אֲחֹתוֹ֮ אֶל בַּת פַּרְעֹה֒ הַאֵלֵ֗ךְ וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן
+        הָעִבְרִיֹּ֑ת וְתֵינִ֥ק לָ֖ךְ אֶת הַיָּֽלֶד
   - tradition: islam
     passages:
-    - ref: Quran 20:39
+    - ref: Quran 20:40
       lang: ar
-      text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ
-        يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ
-        عَلَىٰ عَيْنِىٓ
-    note: the tābūt is thrown in the yamm and the yamm casts it ashore
+      text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
+        أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
+        وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
 - kind: shared
   label: Infant found by members of a royal household
   sides:
@@ -132,6 +115,23 @@ matches:
         أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
         وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
     note: taken by 'an enemy to me and an enemy to him'
+- kind: shared
+  label: Infant placed in a container and set on the water
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 2:3
+      lang: he
+      text: וְלֹא יָכְלָ֣ה עוֹד֮ הַצְּפִינוֹ֒ וַתִּֽקַּֽח לוֹ֙ תֵּ֣בַת גֹּ֔מֶא וַתַּחְמְרָ֥ה בַחֵמָ֖ר
+        וּבַזָּ֑פֶת וַתָּ֤שֶׂם בָּהּ֙ אֶת הַיֶּ֔לֶד וַתָּ֥שֶׂם בַּסּ֖וּף עַל שְׂפַ֥ת הַיְאֹֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 20:39
+      lang: ar
+      text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ
+        يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ
+        عَلَىٰ عَيْنِىٓ
+    note: the tābūt is thrown in the yamm and the yamm casts it ashore
 ---
 
 ## Questions

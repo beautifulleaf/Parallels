@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many witnesses are required [divergence between the texts] (weight
-    6.0); No one put to death on the testimony of a single witness (weight 5.4). Pair score 11.4.'
+    7.1); No one put to death on the testimony of a single witness (weight 6.5). Pair score 13.5.'
   basis: reading
 - text: 'Only in Cities of refuge, boundary stones, false witnesses: Axe head slips off the handle while
     cutting wood and kills a companion (accidental homicide); Deliberate murderer who flees to refuge
@@ -29,9 +29,9 @@ evidence:
     the texts]; Judges told to let no pity hold them back from carrying out a fixed punishment; False
     witness receives the punishment he plotted for his brother; How many witnesses a charge requires [divergence
     between the texts]; A place of refuge for one who kills unintentionally [divergence between the texts];
-    Retaliation (talion) for killing or injury [divergence between the texts]; The ''redeemer of blood''
-    (go''el ha-dam) kills the murderer; Six cities of refuge for the unintentional killer, three on each
-    side of the Jordan; Do not move your neighbor''s ancient boundary marker; and 1 more.'
+    Retaliation (talion) for killing or injury [divergence between the texts]; Six cities of refuge for
+    the unintentional killer, three on each side of the Jordan; Eye for an eye, tooth for a tooth (lex
+    talionis); The ''redeemer of blood'' (go''el ha-dam) kills the murderer; and 1 more.'
   basis: reading
 - text: 'Only in Indecency, four witnesses, and the limits of repentance: Women guilty of indecency are
     confined to houses until death or until God makes a way; Repentance is not accepted from one who repents

@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Quail come up in the evening and cover the camp (weight 6.0). Pair
-    score 6.0.'
+- text: 'Shared motifs, rarest first: Quail come up in the evening and cover the camp (weight 7.1). Pair
+    score 7.1.'
   basis: reading
 - text: 'Only in Manna and quail; the first Sabbath: Food is given daily, a day''s portion at a time,
     to test obedience; A double portion of manna falls or is gathered on the sixth day; Manna kept overnight
@@ -28,9 +28,9 @@ evidence:
     manna melts when the sun grows hot; Explanatory gloss defining a measure (an omer is a tenth of an
     ephah); Each gathers an omer per person; the one who gathers much has no excess, the one who gathers
     little no lack; Those who go out to gather on the Sabbath find nothing; Manna kept for the Sabbath
-    does not spoil or breed worms; Seventh-day rest declared holy to God, with no gathering or going out;
-    The people eat manna or wander for forty years in the wilderness; A jar of manna preserved before
-    the testimony for future generations; and 7 more.'
+    does not spoil or breed worms; The people eat manna or wander for forty years in the wilderness; A
+    jar of manna preserved before the testimony for future generations; Manna described: like coriander
+    seed, look of bdellium, taste of oil cakes, falls with the dew; and 7 more.'
   basis: reading
 - text: 'Only in Twelve tribes, twelve springs, and the word changed at the gate: Twelve springs gush
     from the struck rock, one drinking place for each tribe; Among Moses'' people is a community that

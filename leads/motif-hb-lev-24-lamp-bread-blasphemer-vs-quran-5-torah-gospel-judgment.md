@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Eye for an eye, tooth for a tooth (lex talionis) (weight 5.4). Pair
-    score 5.4.'
+- text: 'Shared motifs, rarest first: Eye for an eye, tooth for a tooth (lex talionis) (weight 6.5). Pair
+    score 6.5.'
   basis: reading
 - text: 'Only in Perpetual lamp, showbread, and the blasphemer stoned: Those who heard the blasphemy lay
     their hands on the offender''s head before stoning; Killing a person is capital; killing an animal

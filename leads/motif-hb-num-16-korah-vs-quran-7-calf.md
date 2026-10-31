@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Intercessor asks: shall one man sin and you rage at the whole community?
-    (weight 6.3). Pair score 6.3.'
+    (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Korah, Dathan and Abiram rebel; the earth swallows them: Rival claimants offer incense
     in fire-pans so God may choose the holy one; Rebels claim all the people are holy and challenge the
@@ -42,7 +42,7 @@ evidence:
     he will be gracious to whom he will be gracious; Moses intercedes for Aaron, with whom God was angry
     enough to destroy him; God''s mercy encompasses all things; Moses includes himself with the guilty
     people in his plea after the calf [divergence between the texts]; Moses prays for Aaron after the
-    calf [divergence between the texts]; and 15 more.'
+    calf [divergence between the texts]; and 16 more.'
   basis: reading
 - text: 'Korah, Dathan and Abiram rebel; the earth swallows them: tagged by Claude (model), reading the
     Hebrew.'

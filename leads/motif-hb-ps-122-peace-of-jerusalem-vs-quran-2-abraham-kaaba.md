@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer for the peace and security of the sanctuary city [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 122, pilgrim''s song, pray for the peace of Jerusalem: Jerusalem built ''as a city
     that is joined together'' (shehubberah lah yahdav); ''Pray for the peace of Jerusalem: may those who
@@ -37,7 +37,7 @@ evidence:
     revelation or covenant passed [divergence between the texts]; Whether and how God''s covenant with
     Abraham passes to his offspring [contrast between the texts]; The list of fathers in ''God of your
     fathers'' [divergence between the texts]; Whether Ishmael is with Abraham or sent away [contrast between
-    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 17 more.'
+    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'Psalm 122, pilgrim''s song, pray for the peace of Jerusalem: tagged by Claude (model), reading
     the Hebrew.'

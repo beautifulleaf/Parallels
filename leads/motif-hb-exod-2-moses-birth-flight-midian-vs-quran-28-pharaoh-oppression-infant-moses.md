@@ -16,14 +16,14 @@ layers:
 - motif
 motifs:
 - sister-offers-nurse-as-divergence
-- moses-mothers-decision-as-divergence
-- returned-to-own-mother-as-divergence
 - adopted-by-royal-woman-as-divergence
+- returned-to-own-mother-as-divergence
+- moses-mothers-decision-as-divergence
 - infant-set-adrift-as-divergence
-- sister-watches
 - adopted-by-royal-woman
-- sister-offers-nurse
+- sister-watches
 - returned-to-own-mother
+- sister-offers-nurse
 - found-by-royal-household
 - infant-set-adrift
 passages: []
@@ -31,13 +31,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sister offers to find a nurse [divergence between the texts] (weight
-    6.7); Who decides that Moses be put on the water [divergence between the texts] (weight 6.7); Infant
-    returned to his own mother to nurse [divergence between the texts] (weight 6.7); Infant adopted by
-    a royal woman [divergence between the texts] (weight 6.7); Infant placed in a container and set on
-    the water [divergence between the texts] (weight 6.3); Infant''s sister watches over him (weight 6.0);
-    Infant adopted by a royal woman (weight 6.0); Sister offers to find a nurse (weight 5.8); Infant returned
-    to his own mother to nurse (weight 5.8); Infant found by members of a royal household (weight 5.6);
-    Infant placed in a container and set on the water (weight 5.6). Pair score 67.8.'
+    7.7); Infant adopted by a royal woman [divergence between the texts] (weight 7.7); Infant returned
+    to his own mother to nurse [divergence between the texts] (weight 7.7); Who decides that Moses be
+    put on the water [divergence between the texts] (weight 7.7); Infant placed in a container and set
+    on the water [divergence between the texts] (weight 7.3); Infant adopted by a royal woman (weight
+    7.1); Infant''s sister watches over him (weight 7.1); Infant returned to his own mother to nurse (weight
+    6.8); Sister offers to find a nurse (weight 6.8); Infant found by members of a royal household (weight
+    6.6); Infant placed in a container and set on the water (weight 6.6). Pair score 79.4.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
     The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
@@ -53,12 +53,14 @@ evidence:
 - text: 'Only in Pharaoh''s oppression and the infant Moses on the water: Moses'' mother''s heart becomes
     empty and she nearly discloses him, but God steadies her heart; God wills to favor the oppressed and
     make them leaders (aʾimma) and inheritors; Pharaoh exalted himself and divided the land''s people
-    into factions, oppressing one group; The oppressor slaughters the sons and lets the women live; Why
-    Pharaoh oppresses Israel [divergence between the texts]; Hāmān appears as Pharaoh''s minister and
-    partner; Infant refuses other wet nurses; Mother receives divine instruction about the infant; Foster
-    parent says: perhaps he will benefit us, or we will take him as a son; God addresses the hero with
-    ''Fear not'' in a vision; Ruler orders the killing of male infants; A surah opens with isolated letters
-    (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    into factions, oppressing one group; A foundling not born of her is taken in and adopted as a son
+    by a royal or divine woman; A newborn destined to bring down a ruler is hidden so that the ruler does
+    not see and kill it [divergence between the texts]; The oppressor slaughters the sons and lets the
+    women live; Why Pharaoh oppresses Israel [divergence between the texts]; A royal house takes a foreign
+    youth whose life is threatened as its son; A child found or acquired is taken by the finder, with
+    his wife, as their own son [divergence between the texts]; Hāmān appears as Pharaoh''s minister and
+    partner; Infant refuses other wet nurses; Mother receives divine instruction about the infant; and
+    4 more.'
   basis: reading
 - text: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry: tagged by
     Claude (model), reading the Hebrew.'

@@ -18,19 +18,19 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: King invests the hero with ring, linen and chariot (weight 6.0).
-    Pair score 6.0.'
+- text: 'Shared motifs, rarest first: King invests the hero with ring, linen and chariot (weight 7.1).
+    Pair score 7.1.'
   basis: reading
-- text: 'Only in Pharaoh''s dreams and Joseph''s elevation: A dream given twice means God has firmly decided
-    and will act soon; Grain stored like the sand of the sea, beyond counting; Hero is thirty when he
-    enters royal service; In a dream the lean devour the fat but remain as lean as before; Prisoner shaved
-    and dressed in new clothes before appearing before the king; Hero names his sons for forgetting his
-    hardship and being fruitful in affliction; A foreign king recognizes ''a man in whom is the spirit
-    of God''; All lands come to Egypt to buy grain from the hero; The king''s experts cannot interpret
-    the dream [divergence between the texts]; The freed prisoner remembers the hero and recommends him
-    [divergence between the texts]; Plan to store grain in the good years for the famine years [divergence
-    between the texts]; Hero placed over the land''s storehouses or the kingdom [divergence between the
-    texts]; and 10 more.'
+- text: 'Only in Pharaoh''s dreams and Joseph''s elevation: Grain stored like the sand of the sea, beyond
+    counting; Hero is thirty when he enters royal service; In a dream the lean devour the fat but remain
+    as lean as before; Hero names his sons for forgetting his hardship and being fruitful in affliction;
+    A foreign king recognizes ''a man in whom is the spirit of God''; All lands come to Egypt to buy grain
+    from the hero; The king''s experts cannot interpret the dream [divergence between the texts]; The
+    freed prisoner remembers the hero and recommends him [divergence between the texts]; Plan to store
+    grain in the good years for the famine years [divergence between the texts]; Hero placed over the
+    land''s storehouses or the kingdom [divergence between the texts]; Hero refuses release until his
+    innocence is established [divergence between the texts]; King gives the foreign hero a new native
+    name; and 10 more.'
   basis: reading
 - text: 'Only in Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning:
     Each sign shown to Pharaoh''s people was greater than the one before it; Pharaoh scorns Moses as contemptible,
@@ -40,11 +40,11 @@ evidence:
     himself or thrown at him [divergence between the texts]; Pharaoh is the great tannin (crocodile/dragon)
     lying in the midst of his Nile channels; Pharaoh boasts to his people: is not the kingdom of Egypt
     mine, and these rivers flowing beneath me?; The king breaks his promise to release the people once
-    a plague is lifted [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
+    a plague is lifted [divergence between the texts]; The water of the river of Egypt is said to be at
+    its king''s disposal [neutral] [divergence between the texts]; A man brought before Pharaoh is afraid
+    and cannot speak [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
     heart, or Pharaoh and his people themselves [divergence between the texts]; The returning waters drown
-    the pursuing army; not one survives [divergence between the texts]; The king breaks his promise to
-    release the people once a plague is lifted; Prophet protests he is heavy of mouth and tongue or ''uncircumcised
-    of lips''; and 2 more.'
+    the pursuing army; not one survives [divergence between the texts]; and 4 more.'
   basis: reading
 - text: 'Pharaoh''s dreams and Joseph''s elevation: tagged by Claude (model), reading the Hebrew.'
   basis: reading

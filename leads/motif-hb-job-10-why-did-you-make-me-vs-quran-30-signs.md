@@ -18,32 +18,32 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
-    4.5.'
+- text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 5.2). Pair score
+    5.2.'
   basis: reading
 - text: 'Only in Job - ''Your hands fashioned me''; land of darkness: The sufferer reminds God that God''s
     hands shaped him yet now destroy him; ''Have you eyes of flesh? Are your days like a mortal''s days?'';
-    God hunts the sufferer like a lion; The underworld as a land of darkness and deep shadow, without
-    order, where light is like darkness; God created Adam ''with my two hands''; God creates you in your
+    God hunts the sufferer like a lion; God created Adam ''with my two hands''; God creates you in your
     mothers'' bellies creation after creation in three darknesses; God''s crafting of the human body,
-    and what is said to follow from it [divergence between the texts]; Like a vanishing cloud, whoever
-    goes down to Sheol does not come up; his place knows him no more; From dust, then a drop, then a clinging
-    clot (''alaqa), then a child, then full strength, then old age; some die before; Have you seen what
-    you emit? Do you create it, or are we the creator?; Sufferer wishes he had died in the womb or been
-    a hidden stillborn; God poured the embryo out like milk and curdled it like cheese, clothing it with
-    skin and flesh and knitting bones and sinews; and 2 more.'
+    and what is said to follow from it [divergence between the texts]; From dust, then a drop, then a
+    clinging clot (''alaqa), then a child, then full strength, then old age; some die before; Have you
+    seen what you emit? Do you create it, or are we the creator?; Sufferer wishes he had died in the womb
+    or been a hidden stillborn; God poured the embryo out like milk and curdled it like cheese, clothing
+    it with skin and flesh and knitting bones and sinews; The underworld as a land of darkness and deep
+    shadow, without order, where light is like darkness; Like a vanishing cloud, whoever goes down to
+    Sheol does not come up; his place knows him no more; and 2 more.'
   basis: reading
 - text: 'Only in The Hour, the times of praise, and the signs of God: Everything in the heavens and the
-    earth is devoutly obedient (qanit) to God; The diversity of human languages and colors is one of God''s
-    signs; God created mates for humans from their own selves so they may find rest in them, with love
-    and mercy between them; God did not wrong them; they wronged themselves (refrain); At night the beasts
-    of the forest prowl and lions roar for prey; at sunrise they withdraw and man goes out to work till
-    evening; Why humans speak many languages [divergence between the texts]; Refrain ''among his signs
-    (ayat) is...'' listing natural phenomena as evidence of God; God shows lightning to inspire fear and
-    hope (of rain); Nations distinguished by land, language and clan; How God made the human mate, and
-    for what purpose [divergence between the texts]; God brings the living out of the dead and the dead
-    out of the living; Glorify God in the evening, morning, afternoon and noon (set times of praise or
-    prayer); and 4 more.'
+    earth is devoutly obedient (qanit) to God; God created mates for humans from their own selves so they
+    may find rest in them, with love and mercy between them; The many languages of mankind and the deity''s
+    part in them [divergence between the texts]; The diversity of human languages and colors is one of
+    God''s signs; God made human tongues different in speech and their skins (colours) distinct; God did
+    not wrong them; they wronged themselves (refrain); Go up on (travel through) the ruins of the ancients
+    and look: what the sight teaches [divergence between the texts]; Why humans speak many languages [divergence
+    between the texts]; Refrain ''among his signs (ayat) is...'' listing natural phenomena as evidence
+    of God; God shows lightning to inspire fear and hope (of rain); How God made the human mate, and for
+    what purpose [divergence between the texts]; God brings the living out of the dead and the dead out
+    of the living; and 7 more.'
   basis: reading
 - text: 'Job - ''Your hands fashioned me''; land of darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

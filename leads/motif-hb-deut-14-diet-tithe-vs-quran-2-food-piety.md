@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The pig is unclean and forbidden [divergence between the texts]
-    (weight 6.7); Rule on eating an animal that died of itself [contrast between the texts] (weight 6.3);
-    The pig is unclean and forbidden (weight 5.3). Pair score 18.3.'
+    (weight 7.7); Rule on eating an animal that died of itself [contrast between the texts] (weight 7.3);
+    The pig is unclean and forbidden (weight 6.4). Pair score 21.4.'
   basis: reading
 - text: 'Only in Mourning rites forbidden; clean and unclean food; tithes: Animal that died of itself
     may be given to the resident alien or sold to a foreigner; If the place is far, convert the tithe

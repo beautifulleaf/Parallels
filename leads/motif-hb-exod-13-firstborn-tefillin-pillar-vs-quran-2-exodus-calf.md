@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The cloud over Israel in the wilderness: guide or shade [divergence
-    between the texts] (weight 6.7); God leads the people in a pillar of cloud by day and a pillar of
-    fire by night (weight 5.1). Pair score 11.8.'
+    between the texts] (weight 7.7); God leads the people in a pillar of cloud by day and a pillar of
+    fire by night (weight 6.1). Pair score 13.9.'
   basis: reading
 - text: 'Only in Consecration of the firstborn, sign on hand and forehead, Joseph''s bones, pillar of
     cloud and fire: The exodus month is Aviv, the month of ripening grain; Firstborn sons must be redeemed;

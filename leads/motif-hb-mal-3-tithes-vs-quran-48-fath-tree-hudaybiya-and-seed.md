@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The way (sunna) of God with those who passed before: you will find
-    no change in God''s way (weight 5.6). Pair score 5.6.'
+    no change in God''s way (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Return to me; will a man rob God? Test me with the tithe: ''I YHWH do not change; therefore
     you sons of Jacob are not consumed''; ''Will a man rob God? Yet you rob me'' in tithes and offerings;
-    Locust, worm and cricket devour crops, vines and trees; God opens the windows or gates of heaven,
-    for blessing or for the flood [contrast between the texts]; ''Return to me and I will return to you'',
-    says God; Bring the whole tithe to the storehouse and test God: he will open the windows of heaven
-    and pour out blessing without limit; Disputation form: God states a claim, the people object ''How
-    have you...?'', and God answers; Had they observed the Torah and Gospel they would have eaten from
-    above them and beneath their feet; The tithe given to the Levites; Levites give a tithe of the tithe;
-    God opens his good storehouse, the heavens, to give rain.'
+    God opens the windows or gates of heaven, for blessing or for the flood [contrast between the texts];
+    ''Return to me and I will return to you'', says God; Bring the whole tithe to the storehouse and test
+    God: he will open the windows of heaven and pour out blessing without limit; Disputation form: God
+    states a claim, the people object ''How have you...?'', and God answers; Had they observed the Torah
+    and Gospel they would have eaten from above them and beneath their feet; The tithe given to the Levites;
+    Levites give a tithe of the tithe; Locust, worm and cricket devour crops, vines and trees; God opens
+    his good storehouse, the heavens, to give rain.'
   basis: reading
 - text: 'Only in The pledge under the tree, the hidden believers in Mecca, the dream of entering the sanctuary,
     and the seed parable from Torah and Gospel: But for unknown believing men and women in the city, whom

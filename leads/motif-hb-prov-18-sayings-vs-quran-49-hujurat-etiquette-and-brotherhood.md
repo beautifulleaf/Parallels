@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Slander or gossip pictured as eating [divergence between the texts]
-    (weight 6.7); The words of a whisperer are like delicious morsels that go down into the inner chambers
-    of the belly (weight 6.3). Pair score 13.0.'
+    (weight 7.7); The words of a whisperer are like delicious morsels that go down into the inner chambers
+    of the belly (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Sayings on the tongue, the strong tower and the lot: He who answers before he hears,
     it is folly and shame to him; Death and life are in the hand of the tongue; There is a friend who
@@ -31,8 +31,8 @@ evidence:
     it and is safe; An offended brother is harder to win than a strong city; quarrels are like the bars
     of a citadel; The words of a man''s mouth are deep waters; the fountain of wisdom a gushing stream;
     He who finds a wife finds a good thing and obtains favor from YHWH; a prudent wife is from YHWH; He
-    who justifies the wicked and he who condemns the righteous are both an abomination to YHWH; Before
-    honor comes humility; and 5 more.'
+    who justifies the wicked and he who condemns the righteous are both an abomination to YHWH; The poor
+    is hated even by his neighbor, but the rich has many friends; and 5 more.'
   basis: reading
 - text: 'Only in Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and
     the peoples and tribes: Those who call the prophet from outside his private chambers (hujurat) lack
@@ -45,10 +45,9 @@ evidence:
     God) as ground for conduct toward others [divergence between the texts]; Believers must not put themselves
     before God and his messenger, nor raise their voices above the prophet''s or shout to him; Humanity
     created from a male and a female and made into peoples (shu''ub) and tribes to know one another; the
-    noblest is the most pious; ''Have we not all one father? Has not one God created us? Why do we deal
-    treacherously with one another?''; If a corrupt person brings you news, verify it lest you harm a
-    people in ignorance and come to regret it; Avoid suspicion, spying and backbiting: would one of you
-    like to eat the flesh of his dead brother?; and 3 more.'
+    noblest is the most pious; Denial / prohibition of eavesdropping or spying on others; ''Have we not
+    all one father? Has not one God created us? Why do we deal treacherously with one another?''; Slander
+    or backbiting is pictured as eating the slandered person''s flesh; and 11 more.'
   basis: reading
 - text: 'Sayings on the tongue, the strong tower and the lot: tagged by Claude (model), reading the Hebrew.'
   basis: reading

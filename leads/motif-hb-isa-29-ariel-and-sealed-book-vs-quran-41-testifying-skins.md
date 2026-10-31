@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to those who hide their plans deep from God and say ''Who sees
-    us? Who knows us?'' (weight 6.7). Pair score 6.7.'
+    us? Who knows us?'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be
@@ -45,8 +45,9 @@ evidence:
     and sight: so God sees and hears, or the senses themselves testify [divergence between the texts];
     A great stone set up as a witness because it has heard all God''s words; Sinners say ''YHWH does not
     see us; YHWH has forsaken the land''; The hearing ear and the seeing eye, YHWH made them both; On
-    judgment day tongues, hands and feet testify against people; The damned blame their chiefs and great
-    ones who misled them and ask God to double their punishment.'
+    judgment day tongues, hands and feet testify against people; Who witnesses against the dead at the
+    judgment (no witness against me / their own limbs and skins) [divergence between the texts]; The damned
+    blame their chiefs and great ones who misled them and ask God to double their punishment.'
   basis: reading
 - text: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay: tagged
     by Claude (model), reading the Hebrew.'

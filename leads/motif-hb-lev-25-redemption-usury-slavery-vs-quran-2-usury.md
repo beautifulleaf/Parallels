@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: To whom and how widely the ban on interest applies [divergence between
-    the texts] (weight 6.3); Lending at interest or increase to a poor brother is forbidden (weight 5.6).
-    Pair score 11.9.'
+    the texts] (weight 7.3); Lending at interest or increase to a poor brother is forbidden (weight 6.6).
+    Pair score 14.0.'
   basis: reading
 - text: 'Only in Redemption of land, interest-free loans, and Israelite bondmen: An impoverished Israelite
     sold to a brother serves as a hired worker, not a slave, until the jubilee; Houses in Levite cities
@@ -37,9 +37,12 @@ evidence:
     until ease; remitting it as charity is better; Trade is like usury, they say; but God permitted trade
     and forbade usury (riba); Those who consume usury rise like one driven mad by Satan''s touch; Those
     who do not give up usury are warned of war from God and his messenger; they keep their principal;
-    Whether obligations differ toward insiders and outsiders [contrast between the texts]; Relief of debtors:
-    release or respite [divergence between the texts]; He who increases wealth by interest and usury gathers
-    it for one who is gracious to the poor; Do not charge interest to the poor of my people.'
+    Whether obligations differ toward insiders and outsiders [contrast between the texts]; What becomes
+    of the usurer''s profit and his principal (kīsu / ruʾūs amwālikum) [divergence between the texts];
+    A creditor facing a debtor in hardship remits all or part of the debt [divergence between the texts];
+    Relief of debtors: release or respite [divergence between the texts]; He who increases wealth by interest
+    and usury gathers it for one who is gracious to the poor; Do not charge interest to the poor of my
+    people.'
   basis: reading
 - text: 'Redemption of land, interest-free loans, and Israelite bondmen: tagged by Claude (model), reading
     the Hebrew.'

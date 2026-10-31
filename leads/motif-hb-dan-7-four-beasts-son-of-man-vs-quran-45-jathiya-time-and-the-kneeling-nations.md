@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day of the Hour every community is seen kneeling (jathiya),
-    each called to its book of deeds (weight 6.3); God keeps a book in which names are written and from
-    which sinners are blotted (weight 4.6). Pair score 10.8.'
+    each called to its book of deeds (weight 7.3); God keeps a book in which names are written and from
+    which sinners are blotted (weight 5.4). Pair score 12.8.'
   basis: reading
 - text: 'Only in The four beasts, the Ancient of Days and one like a son of man: Thrones are set and the
     Ancient of Days sits, his garment white as snow and his hair like pure wool; The seer asks one of
@@ -31,10 +31,10 @@ evidence:
     over to burning fire; A heavenly figure or the holy ones are given everlasting dominion, glory and
     kingdom which all peoples serve; God''s throne is flames of fire with wheels of burning fire; Four
     great beasts rise from the sea, each different, symbolizing successive kingdoms; A leopard with four
-    wings and four heads is given dominion; The four winds of heaven stir up the great sea, out of which
-    monstrous beasts arise; The holy ones of the Most High (qaddishe ''elyonin) receive and possess the
-    kingdom forever; The horn makes war against the holy ones and prevails until the Ancient of Days comes;
-    A little horn with human eyes and a mouth speaking great things uproots three horns; and 14 more.'
+    wings and four heads is given dominion; The holy ones of the Most High (qaddishe ''elyonin) receive
+    and possess the kingdom forever; The horn makes war against the holy ones and prevails until the Ancient
+    of Days comes; A little horn with human eyes and a mouth speaking great things uproots three horns;
+    Thousands of thousands serve God and myriads of myriads stand before him; and 14 more.'
   basis: reading
 - text: 'Only in Desire as god, ''only Time destroys us'', and every nation kneeling before its book:
     God''s book speaks against them with truth: ''We used to have transcribed (nastansikh) all that you

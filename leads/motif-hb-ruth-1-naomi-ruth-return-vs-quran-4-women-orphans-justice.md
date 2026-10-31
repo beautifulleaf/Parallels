@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not leave a wife ''suspended'' (kal-muʿallaqa), neither married
-    nor free (weight 6.7). Pair score 6.7.'
+    nor free (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Naomi''s losses in Moab and Ruth''s vow of loyalty: Foreign daughter-in-law swears to
     follow her mother-in-law: your people my people, your God my God; A person asks to be renamed to reflect
@@ -34,9 +34,9 @@ evidence:
     by God [contrast between the texts]; The marriage of fatherless girls is tied to their inheritance
     [divergence between the texts]; Form: ''They ask you for a ruling (yastaftūnaka); say: God gives you
     a ruling''; Stand firm for justice as witnesses for God even against yourselves, parents and kin,
-    rich or poor; Judge fairly, favoring neither the poor nor the great; Guardians must keep orphans''
-    property intact and hand it over when they come of age; If God wills he takes you away and brings
-    another people in your place.'
+    rich or poor; Guardians must keep orphans'' property intact and hand it over when they come of age;
+    Judge fairly, favoring neither the poor nor the great; If God wills he takes you away and brings another
+    people in your place.'
   basis: reading
 - text: 'Naomi''s losses in Moab and Ruth''s vow of loyalty: tagged by Claude (model), reading the Hebrew.'
   basis: reading

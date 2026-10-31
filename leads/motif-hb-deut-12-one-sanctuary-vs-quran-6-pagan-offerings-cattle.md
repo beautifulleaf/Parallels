@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Blood is the life; do not eat it but pour it on the ground like
-    water (weight 6.3); Nations burn their sons and daughters in fire to their gods (weight 5.2). Pair
-    score 11.5.'
+    water (weight 7.3); Nations burn their sons and daughters in fire to their gods (weight 6.2). Pair
+    score 13.6.'
   basis: reading
 - text: 'Only in The chosen place; profane slaughter; blood prohibition: Do not inquire how the nations
     served their gods in order to imitate them; Every man doing what is right in his own eyes; Meat may
@@ -44,7 +44,8 @@ evidence:
     to be eaten only by whom they will; Pagans reserve what is in the wombs of cattle for males, forbidden
     to wives unless stillborn; The camel is unclean because it does not have a split hoof [contrast between
     the texts]; List of clean and unclean animals: split hoof and chewing cud [response between the texts];
-    The fat tail of the sheep is offered [divergence between the texts]; and 11 more.'
+    The due from crops and young animals is given at once, at harvest time [divergence between the texts];
+    and 14 more.'
   basis: reading
 - text: 'The chosen place; profane slaughter; blood prohibition: tagged by Claude (model), reading the
     Hebrew.'

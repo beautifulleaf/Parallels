@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Praise (hamd) belongs to God, Lord of the worlds (rabb al-alamin)
-    (weight 6.7); God called al-Rahman and al-Rahim (the Merciful, the Compassionate), paired names from
-    the root r-h-m (womb, mercy) (weight 6.0). Pair score 12.7.'
+    (weight 7.7); God called al-Rahman and al-Rahim (the Merciful, the Compassionate), paired names from
+    the root r-h-m (womb, mercy) (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Psalm 145, acrostic praise of the King (Ashrei): YHWH upholds all who fall and raises
     up all who are bowed down; An alphabetic acrostic lacks one letter of the alphabet; God''s mercy encompasses
     all things; What the fathers told is to be passed on so that coming generations will tell their children;
-    All creatures look to God to give their food in due season; he opens his hand and they are satisfied;
     All flesh, or all nations, come to God to pray or worship; YHWH is near to all who call on him in
-    truth; ''Your kingdom is a kingdom of all ages and your dominion through all generations''; Formula
-    of divine attributes: slow to anger, abundant in mercy, visits iniquity to fourth generation; The
-    poem is an alphabetic acrostic (lines or stanzas begin with successive letters).'
+    truth; ''Your kingdom is a kingdom of all ages and your dominion through all generations''; All creatures
+    look to God to give their food in due season; he opens his hand and they are satisfied; Formula of
+    divine attributes: slow to anger, abundant in mercy, visits iniquity to fourth generation; The poem
+    is an alphabetic acrostic (lines or stanzas begin with successive letters).'
   basis: reading
 - text: 'Only in The Opening (al-Fatiha): Text or act opened with the formula ''In the name of God, the
     Merciful, the Compassionate''; Three ways contrasted: those God favored, those under wrath, and those

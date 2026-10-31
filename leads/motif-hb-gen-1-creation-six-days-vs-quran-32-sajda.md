@@ -20,18 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God did when the six days of creation were done [divergence
-    between the texts] (weight 6.7); Creation is completed in six days (weight 5.2). Pair score 11.9.'
+    between the texts] (weight 7.7); Creation is completed in six days (weight 6.2). Pair score 14.0.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 26 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 26 more.'
   basis: reading
 - text: 'Only in Al-Sajda: creation, the angel of death, and the two fates: Whenever the damned try to
     get out of the fire they are driven back into it; On the Day of the Opening/Victory (al-fath) the
@@ -40,11 +41,10 @@ evidence:
     they may return; The angel of death (malak al-mawt), put in charge of humans, takes their souls; The
     guilty, heads bowed before their Lord, beg to be returned to do good; God''s word: ''I will fill hell
     with jinn and humans all together''; No soul knows what delight of the eyes is hidden in store for
-    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; God began
-    man''s creation from clay, then made his progeny from an extract of a despised fluid, then shaped
-    him and breathed of his spirit; God made leaders (a''imma) among the Israelites who guided by his
-    command because they were patient; God gave Moses the Book as guidance for the Children of Israel;
-    and 9 more.'
+    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; Man described
+    by the lowly bodily substance he is made of [shared matter] [divergence between the texts]; What goes
+    into the place below cannot come out again [divergence between the texts]; Whether one who has stood
+    before the judge of the dead is sent back to the living [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

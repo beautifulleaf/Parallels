@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised the heavens without pillars that you can see [divergence
-    between the texts] (weight 6.7); After creating the heavens and earth God established himself on the
-    Throne (istawa ''ala l-''arsh) (weight 5.2). Pair score 11.9.'
+    between the texts] (weight 7.7); After creating the heavens and earth God established himself on the
+    Throne (istawa ''ala l-''arsh) (weight 6.2). Pair score 14.0.'
   basis: reading
-- text: 'Only in Job - the earth hung on nothing; Rahab smitten: God hangs the earth upon nothing (beli-mah);
-    These are but the fringes of his ways, a whisper of a word; who can understand the thunder of his
-    power?; God''s hand pierced the fleeing serpent (nachash bariach); God stretches out Zaphon (the north)
-    over the void (tohu); The pillars of heaven tremble and are astounded at God''s rebuke; The shades
-    (Rephaim) tremble beneath the waters and their inhabitants; God veils the face of his throne, spreading
-    his cloud over it; By his wind (breath) the heavens are made fair; God owns what is in heaven, on
-    earth, between them and beneath the moist soil (al-tharā); By his power God stilled (or stirred) the
-    Sea and by his understanding smote Rahab; God wraps (yukawwir) the night around the day and the day
-    around the night; Whether the heavens rest on pillars [divergence between the texts]; and 5 more.'
+- text: 'Only in Job - the earth hung on nothing; Rahab smitten: These are but the fringes of his ways,
+    a whisper of a word; who can understand the thunder of his power?; God''s hand pierced the fleeing
+    serpent (nachash bariach); God stretches out Zaphon (the north) over the void (tohu); The pillars
+    of heaven tremble and are astounded at God''s rebuke; The shades (Rephaim) tremble beneath the waters
+    and their inhabitants; God veils the face of his throne, spreading his cloud over it; By his wind
+    (breath) the heavens are made fair; God hangs the earth upon nothing (beli-mah); God owns what is
+    in heaven, on earth, between them and beneath the moist soil (al-tharā); God wraps (yukawwir) the
+    night around the day and the day around the night; Whether the heavens rest on pillars [divergence
+    between the texts]; Sheol is naked before God and Abaddon has no covering; and 5 more.'
   basis: reading
 - text: 'Only in The signs of creation, thunder and the parable of the foam (Surah 13:1-17): To every
     people there is a guide; God knows what every female carries and how wombs shrink or swell; Each person
@@ -40,10 +40,11 @@ evidence:
     watered with one water give different fruits: a sign; Parable: torrents and smelted metal throw up
     foam that vanishes, while what benefits people remains; The thunder glorifies God with his praise,
     and the angels too in awe of him; All in heaven and earth prostrate to God, willingly or unwillingly,
-    even their shadows morning and evening; Thunder is the roaring voice of God [divergence between the
-    texts]; The thunder glorifies God with his praise, and the angels too in awe of him [divergence between
-    the texts]; God shows lightning in fear and hope and sends thunderbolts on whom he wills; Rhetorical
-    question: are the blind and the seeing equal, or darkness and light?; and 12 more.'
+    even their shadows morning and evening; A protector goes (stands) before and behind a man to guard
+    him [divergence between the texts]; Lightning, thunderbolts or hail sent from heaven at the god''s
+    command strike what he wills [divergence between the texts]; How thunder in the clouds relates to
+    the god: his own roar or a creature praising him [shared matter] [divergence between the texts]; Thunder
+    is the roaring voice of God [divergence between the texts]; and 19 more.'
   basis: reading
 - text: 'Job - the earth hung on nothing; Rahab smitten: tagged by Claude (model), reading the Hebrew.'
   basis: reading

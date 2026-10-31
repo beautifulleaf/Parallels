@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests the people through food and the Sabbath [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Manna and quail; the first Sabbath: Food is given daily, a day''s portion at a time,
     to test obedience; A double portion of manna falls or is gathered on the sixth day; Manna kept overnight
@@ -26,9 +26,9 @@ evidence:
     manna melts when the sun grows hot; Explanatory gloss defining a measure (an omer is a tenth of an
     ephah); Each gathers an omer per person; the one who gathers much has no excess, the one who gathers
     little no lack; Those who go out to gather on the Sabbath find nothing; Manna kept for the Sabbath
-    does not spoil or breed worms; Seventh-day rest declared holy to God, with no gathering or going out;
-    The people eat manna or wander for forty years in the wilderness; A jar of manna preserved before
-    the testimony for future generations; and 7 more.'
+    does not spoil or breed worms; The people eat manna or wander for forty years in the wilderness; A
+    jar of manna preserved before the testimony for future generations; Manna described: like coriander
+    seed, look of bdellium, taste of oil cakes, falls with the dew; and 7 more.'
   basis: reading
 - text: 'Only in The Sabbath-breaking seaside town turned into apes: Fish come openly to a seaside town
     on the Sabbath but not on other days, as a test; Transgressors are turned into despised apes; God

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The gods are challenged to declare the former things or the things
-    to come so that we may know they are gods; they are nothing (weight 6.3). Pair score 6.3.'
+    to come so that we may know they are gods; they are nothing (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged
     to foretell: God has stirred up one from the east (and north) whom victory meets at every step, who
@@ -28,12 +28,12 @@ evidence:
     hammer, approving the soldering and fastening it with nails; Israel made a new sharp threshing sledge
     with teeth that threshes mountains and makes hills like chaff; God plants in the wilderness cedar,
     acacia, myrtle, olive, cypress, plane and pine together; God addresses Israel as ''worm Jacob'' and
-    promises to help; A challenge to rivals to prove a divine claim [divergence between the texts]; Oracle
-    of salvation: ''Fear not, for I am with you; I will strengthen and help you''; God''s friends (awliya'')
-    have no fear and will not grieve; A herald of good news (mevasseret Tsiyyon) goes up on a high mountain
-    to announce ''Behold your God!''; ''You, Israel, my servant, Jacob whom I have chosen, offspring of
-    Abraham my friend''; Truth has come; falsehood neither originates nor restores; Waters break out in
-    the wilderness and streams in the desert; burning sand becomes a pool; and 4 more.'
+    promises to help; A challenge to rivals to prove a divine claim [divergence between the texts]; God''s
+    friends (awliya'') have no fear and will not grieve; A herald of good news (mevasseret Tsiyyon) goes
+    up on a high mountain to announce ''Behold your God!''; ''You, Israel, my servant, Jacob whom I have
+    chosen, offspring of Abraham my friend''; Truth has come; falsehood neither originates nor restores;
+    Waters break out in the wilderness and streams in the desert; burning sand becomes a pool; Abraham
+    is called God''s friend (ohev, ''lover''); and 4 more.'
   basis: reading
 - text: 'Only in Who provides and who restores creation; the challenge of the surah: The resurrected feel
     they had stayed only an hour of a day; The idol cannot speak to its worshipers or guide them; Argument:

@@ -15,8 +15,8 @@ layers:
 motifs:
 - night-as-garment-sleep-as-rest
 - winds-as-angels-fire-as-ministers
-- firmament-divides-waters
 - winds-herald-mercy-pure-water
+- firmament-divides-waters
 - luminaries-rule-day-night
 - rain-revives-dead-earth
 passages: []
@@ -24,34 +24,35 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the night a garment, sleep a rest, and the day a rising
-    (nushūr) (weight 6.3); God makes winds his messengers (angels) and flaming fire his ministers (weight
-    5.8); A solid firmament (raqia) separates upper waters from lower waters (weight 5.6); God sends the
-    winds as heralds before his mercy and sends down pure water from the sky (weight 5.4); Sun and moon
-    are set to rule day and night and mark signs and seasons (weight 4.7); Rain from the sky gives life
-    to the earth after its death, a sign of resurrection (weight 4.4). Pair score 32.3.'
+    (nushūr) (weight 7.3); God makes winds his messengers (angels) and flaming fire his ministers (weight
+    6.6); God sends the winds as heralds before his mercy and sends down pure water from the sky (weight
+    6.5); A solid firmament (raqia) separates upper waters from lower waters (weight 6.4); Sun and moon
+    are set to rule day and night and mark signs and seasons (weight 5.5); Rain from the sky gives life
+    to the earth after its death, a sign of resurrection (weight 5.5). Pair score 37.8.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 35 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 35 more.'
   basis: reading
 - text: 'Only in The moving shadow, the night garment, the two seas and the constellations: God extends
     the shadow, makes the sun its guide, then draws it back gently; God created humans from water and
     gave them kinship by blood and by marriage; Told to prostrate to the Merciful, the pagans ask ''What
-    is al-Raḥmān?''; What God does after creating in six days [divergence between the texts]; Worship
-    of the constellations or zodiac signs (mazzalot); God has inscribed a circle on the face of the waters
-    at the boundary between light and darkness; As a sign the shadow goes back ten steps on the stairway
-    (dial) of Ahaz; God set constellations (buruj) in the sky and adorned it for beholders; God the Ever-Living,
-    the Self-Subsisting (al-hayy al-qayyum); God let loose the two seas, one sweet, one salt, with a barrier
-    (barzakh) and partition between them; Creation is completed in six days; After creating the heavens
-    and earth God established himself on the Throne (istawa ''ala l-''arsh); and 1 more.'
+    is al-Raḥmān?''; Night covers the sleepers as a garment, the land as in death; the day is a rising
+    (waking); Two waters, the sweet and the salt sea, meet or mingle [divergence between the texts]; What
+    God does after creating in six days [divergence between the texts]; What sets the daily sleeping and
+    rising of people [divergence between the texts]; Worship of the constellations or zodiac signs (mazzalot);
+    God has inscribed a circle on the face of the waters at the boundary between light and darkness; A
+    god''s act sets fresh (sweet) water against salt (bitter) water [divergence between the texts]; As
+    a sign the shadow goes back ten steps on the stairway (dial) of Ahaz; The wind carries good news (Akk.
+    bussurtu, Ar. bushr, mubashshirāt) [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'
@@ -106,24 +107,6 @@ matches:
       lang: ar
       text: وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا
 - kind: shared
-  label: A solid firmament (raqia) separates upper waters from lower waters
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 104:3
-      lang: he
-      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
-        רֽוּחַ
-  - tradition: islam
-    passages:
-    - ref: Quran 25:53
-      lang: ar
-      text: وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ
-        بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا
-    note: 'marajā l-baḥrayni hādhā ʿadhbun furātun wa-hādhā milḥun ujājun wa-jaʿala baynahumā barzakhan
-      ~ wî-hî mavdîl bên mayim lā-māyim: God sets a barrier dividing two bodies of water. In Genesis the
-      firmament divides upper from lower waters, in the Quran a barzakh divides sweet from salt.'
-- kind: shared
   label: God sends the winds as heralds before his mercy and sends down pure water from the sky
   sides:
   - tradition: judaism
@@ -153,6 +136,24 @@ matches:
       lang: ar
       text: لِّنُحْۦِىَ بِهِۦ بَلْدَةً مَّيْتًا وَنُسْقِيَهُۥ مِمَّا خَلَقْنَآ أَنْعَٰمًا وَأَنَاسِىَّ
         كَثِيرًا
+- kind: shared
+  label: A solid firmament (raqia) separates upper waters from lower waters
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:3
+      lang: he
+      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
+        רֽוּחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:53
+      lang: ar
+      text: وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ
+        بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا
+    note: 'marajā l-baḥrayni hādhā ʿadhbun furātun wa-hādhā milḥun ujājun wa-jaʿala baynahumā barzakhan
+      ~ wî-hî mavdîl bên mayim lā-māyim: God sets a barrier dividing two bodies of water. In Genesis the
+      firmament divides upper from lower waters, in the Quran a barzakh divides sweet from salt.'
 - kind: shared
   label: Sun and moon are set to rule day and night and mark signs and seasons
   sides:

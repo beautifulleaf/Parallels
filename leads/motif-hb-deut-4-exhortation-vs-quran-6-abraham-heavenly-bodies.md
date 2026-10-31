@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibition of worshipping sun, moon, stars, the host of heaven
-    [divergence between the texts] (weight 6.3); Prohibition of worshipping sun, moon, stars, the host
-    of heaven (weight 5.8). Pair score 12.1.'
+    [divergence between the texts] (weight 7.3); Prohibition of worshipping sun, moon, stars, the host
+    of heaven (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Exhortation at Horeb''s memory; no image; exile and return: No other nation has a god
     so near whenever they call on him; Keeping the law will make the nations call Israel wise; They forgot
@@ -38,10 +38,11 @@ evidence:
     father is named Āzar; Abraham: ''I do not love things that set'' (lā uḥibbu l-āfilīn); Which of the
     two parties has more right to security? Those who believe without mixing in wrong; God takes the patriarch
     outside and tells him to count the stars; God takes the patriarch outside and tells him to count the
-    stars [divergence between the texts]; If he is a god, let him defend himself [divergence between the
-    texts]; Patriarch believes God and it is counted to him as righteousness; Follow the religion (milla)
-    of Abraham the ḥanīf, who was no idolater; Hero reasons from the stars, moon and sun to the one God;
-    Hero''s father makes, sells or worships idols [divergence between the texts]; and 1 more.'
+    stars [divergence between the texts]; A star, the moon or the sun is identified as the (high) god
+    [divergence between the texts]; If he is a god, let him defend himself [divergence between the texts];
+    What follows when the sun (as deity) goes down [divergence between the texts]; Patriarch believes
+    God and it is counted to him as righteousness; Follow the religion (milla) of Abraham the ḥanīf, who
+    was no idolater; and 3 more.'
   basis: reading
 - text: 'Exhortation at Horeb''s memory; no image; exile and return: tagged by Claude (model), reading
     the Hebrew.'

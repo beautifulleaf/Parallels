@@ -19,29 +19,30 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The sun runs to its resting place (mustaqarr) (weight 6.7). Pair
-    score 6.7.'
+- text: 'Shared motifs, rarest first: The sun runs to its resting place (mustaqarr) (weight 7.7). Pair
+    score 7.7.'
   basis: reading
-- text: 'Only in Superscription, ''vapor of vapors'' and the endless cycles of nature: Endless cycles:
-    the sun rises and pants back to its place, the wind circles, rivers run to the sea which is never
-    full; All things are wearisome; the eye is not sated with seeing nor the ear filled with hearing;
-    A generation goes and a generation comes, but the earth stands forever; There is no remembrance of
-    former people nor will there be of those yet to come; What has been is what will be; there is nothing
-    new under the sun; The speaker Qohelet (''the assembler'') is presented as son of David and king over
-    Israel in Jerusalem (royal fiction); What profit (yitron) has a man from all his toil under the sun?;
-    ''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience).'
+- text: 'Only in Superscription, ''vapor of vapors'' and the endless cycles of nature: All things are
+    wearisome; the eye is not sated with seeing nor the ear filled with hearing; Endless cycles: the sun
+    rises and pants back to its place, the wind circles, rivers run to the sea which is never full; There
+    is no remembrance of former people nor will there be of those yet to come; What has been is what will
+    be; there is nothing new under the sun; The speaker Qohelet (''the assembler'') is presented as son
+    of David and king over Israel in Jerusalem (royal fiction); A generation goes and a generation comes,
+    but the earth stands forever; What profit (yitron) has a man from all his toil under the sun?; ''Hevel
+    havalim'': vapor of vapors, all is vapor (vanity, futility, transience).'
   basis: reading
 - text: 'Only in Signs of the dead earth, night, sun, moon and the laden ship: The night is a sign: God
     strips (naslakh) the day from it and they are in darkness; A sign: God carried their offspring in
     the laden ship, and made for them similar things to ride; God measured stations (manazil) for the
     moon until it returns like an old dried palm-stalk; Asked to spend, unbelievers retort ''shall we
     feed one whom God could feed if he willed?''; God made the flood ship (or its survivors) a sign for
-    all the worlds; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn); The sun
-    comes forth like a bridegroom from his chamber and rejoices like a strong man to run his course; God
+    all the worlds; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn); The moon
+    travels across the sky as a vessel floats or swims; The sun ends its daily course at a resting place
+    (the bedchamber where it is told ''Rest!'', or its mustaqarr) [divergence between the texts]; God
     made the sun a radiance and the moon a light with measured stations, to count years and reckoning;
-    Sun and moon each swim in an orbit (falak); God created humans (and things) in pairs, male and female;
-    Scoffers ask the prophet to hasten the punishment; it is held back only by an appointed term and will
-    come suddenly; Sun and moon are set to rule day and night and mark signs and seasons; and 1 more.'
+    The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his course;
+    Sun and moon each swim in an orbit (falak); The crescent moon fixes the months and the reckoning of
+    time; and 5 more.'
   basis: reading
 - text: 'Superscription, ''vapor of vapors'' and the endless cycles of nature: tagged by Claude (model),
     reading the Hebrew.'

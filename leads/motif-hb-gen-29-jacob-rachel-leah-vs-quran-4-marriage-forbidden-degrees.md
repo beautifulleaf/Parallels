@@ -18,14 +18,14 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero marries two sisters (weight 6.3). Pair score 6.3.'
+- text: 'Shared motifs, rarest first: Hero marries two sisters (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Jacob meets Rachel; Laban''s substitution of Leah: Custom that the younger daughter is
     not given before the elder; Each bride receives a handmaid from her father; Hero single-handedly rolls
     a great stone from the mouth of a well; Hero kisses and weeps on meeting a kinswoman or kinsman; Father
     substitutes the elder daughter for the promised younger bride on the wedding night; A week of wedding
-    feasting (shavua); The deceiver is deceived in kind (younger for elder, darkness/blindness); Years
-    of service given for a bride [divergence between the texts]; Future bride or groom met at a well,
+    feasting (shavua); Years of service given for a bride [divergence between the texts]; The deceiver
+    is deceived in kind (younger for elder, darkness/blindness); Future bride or groom met at a well,
     leading to betrothal; Suitor serves the bride''s father seven years for her hand; A she-camel of God
     is given as a sign; she must be left to graze unharmed; Hero''s beauty is remarked on.'
   basis: reading
@@ -38,9 +38,9 @@ evidence:
     a slave woman designated to another man: inquiry and guilt offering, not death, because she is not
     free; The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit
     part; List of forbidden close-kin unions (''uncovering nakedness'') [divergence between the texts];
-    Married women are forbidden except those one''s right hand possesses (captives); Marrying two sisters
-    [divergence between the texts]; A man may not marry his wife''s sister as a rival while the wife lives;
-    and 4 more.'
+    Married women are forbidden except those one''s right hand possesses (captives); A man marries a slave
+    woman by leave of her owner and with a payment; Marrying two sisters [divergence between the texts];
+    and 6 more.'
   basis: reading
 - text: 'Jacob meets Rachel; Laban''s substitution of Leah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

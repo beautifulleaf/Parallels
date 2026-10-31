@@ -13,19 +13,19 @@ traditions:
 layers:
 - motif
 motifs:
-- hero-warned-by-deity
 - universal-destruction
+- hero-warned-by-deity
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero privately warned of the coming flood by a deity (weight 5.1);
-    All others perish (weight 5.0). Pair score 10.1.'
+- text: 'Shared motifs, rarest first: All others perish (weight 5.9); Hero privately warned of the coming
+    flood by a deity (weight 5.8). Pair score 11.7.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
-    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero blessed on leaving the
-    vessel; Hero''s life or mission spans 950 years; Deity resolves or promises not to repeat the destruction;
-    Destruction motivated by human wickedness or violence; Waters pour both from the sky and from springs
-    of the earth; Animals taken aboard in pairs; Deity or gods smell the offering; Hero offers sacrifice
-    after leaving the vessel; Vessel comes to rest on a named mountain; and 5 more.'
+- text: 'Only in The Flood in Genesis: Hero''s life or mission spans 950 years; Destruction motivated
+    by human wickedness or violence; A sign in the sky commemorates the flood (bow, necklace); Birds released
+    to find dry land; Deity resolves or promises not to repeat the destruction; Animals taken aboard in
+    pairs; Deity or gods smell the offering; Exact dimensions of the vessel are specified; Vessel comes
+    to rest on a named mountain; Hero blessed on leaving the vessel; Hero builds a vessel on divine instruction;
+    Hero singled out as righteous or pious; and 5 more.'
   basis: reading
 - text: 'Only in Noah''s preaching, the five idols and the flood: Because of their sins they were drowned
     and then made to enter a fire; The people put their fingers in their ears and wrap their garments
@@ -33,13 +33,12 @@ evidence:
     Yaghuth, Ya''uq and Nasr; The flood hero prays for forgiveness for himself, his parents, whoever enters
     his house believing, and all believers; God caused humans to grow from the earth like a plant, returns
     them to it and will bring them out again; Prophet summons his people night and day, openly and in
-    secret, yet they only flee further; Human comes from dust and returns to dust [divergence between
-    the texts]; Deity resolves or promises not to repeat the destruction [divergence between the texts];
-    Destruction motivated by human wickedness or violence [divergence between the texts]; Seek forgiveness
-    and repent, and God will send the sky down on you in abundant rain [divergence between the texts];
-    God created seven heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens) above
-    humans; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur) within the heavens;
-    and 12 more.'
+    secret, yet they only flee further; People are put into the earth and brought out of it again [divergence
+    between the texts]; Destroying a people together with their offspring because of their character [neutral]
+    [divergence between the texts]; Human comes from dust and returns to dust [divergence between the
+    texts]; Before the flood the hero tells his city that heaven will rain plenty on them [divergence
+    between the texts]; A wish that no one be left alive by the destruction [divergence between the texts];
+    Deity resolves or promises not to repeat the destruction [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'The Flood in Genesis: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -47,7 +46,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Hero privately warned of the coming flood by a deity
+finding: All others perish
 kinds:
 - shared
 units:
@@ -58,22 +57,6 @@ units:
   title: Noah's preaching, the five idols and the flood
   tradition: islam
 matches:
-- kind: shared
-  label: Hero privately warned of the coming flood by a deity
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 6:13
-      lang: he
-      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-  - tradition: islam
-    passages:
-    - ref: Quran 71:1
-      lang: ar
-      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
-        عَذَابٌ أَلِيمٌ
-    note: Noah is sent to warn before a painful punishment
 - kind: shared
   label: All others perish
   sides:
@@ -97,6 +80,22 @@ matches:
     - ref: Quran 71:26
       lang: ar
       text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 71:1
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
+        عَذَابٌ أَلِيمٌ
+    note: Noah is sent to warn before a painful punishment
 ---
 
 ## Questions

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God commanded the skies and opened the doors (or windows) of heaven
-    [divergence between the texts] (weight 6.7); God commanded the skies and opened the doors (or windows)
-    of heaven (weight 6.7). Pair score 13.4.'
+    [divergence between the texts] (weight 7.7); God commanded the skies and opened the doors (or windows)
+    of heaven (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -38,14 +38,14 @@ evidence:
 - text: 'Only in The great tiding: signs of creation and the day of sorting: On the day the Spirit and
     the angels stand in ranks; none speaks except whom the Merciful permits and who says what is right;
     Transgressors abide in hell for ages (ahqaban); On the day the unbeliever says ''Would that I were
-    dust!''; Hell (or the Lord) lies in wait (mirsad) as a watch-post for the transgressors; Paradise
-    has full-breasted companions of equal age (kawa''ib atrab); The righteous drink sealed pure wine (rahiq
-    makhtum) whose seal is musk; God created seven heavens in layers (sab'' samawat tibaqan) or built
-    seven strong (heavens) above humans; The Spirit and the angels, or the angels with the coming Lord,
-    stand rank upon rank (saffan saffa) on judgment day; The sun is made a lamp (siraj), a blazing lamp,
-    and the moon a light (nur) within the heavens; God has counted everything by number and recorded it
-    in a book; God made the night a garment, sleep a rest, and the day a rising (nushūr); In paradise
-    there is no idle talk (laghw) nor lying; and 9 more.'
+    dust!''; Hell (or the Lord) lies in wait (mirsad) as a watch-post for the transgressors; Maidens whose
+    breasts have risen (ready for the embrace); Paradise has full-breasted companions of equal age (kawa''ib
+    atrab); The righteous drink sealed pure wine (rahiq makhtum) whose seal is musk; God created seven
+    heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens) above humans; The Spirit
+    and the angels, or the angels with the coming Lord, stand rank upon rank (saffan saffa) on judgment
+    day; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur) within the heavens;
+    The dead man and his turning into clay or dust [divergence between the texts]; God has counted everything
+    by number and recorded it in a book; and 11 more.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

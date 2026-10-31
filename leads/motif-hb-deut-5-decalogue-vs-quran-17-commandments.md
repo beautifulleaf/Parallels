@@ -23,8 +23,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life [divergence
-    between the texts] (weight 6.0); No other gods before YHWH (weight 5.8); The Ten Commandments (Decalogue)
-    (weight 5.4); Honor father and mother, with the promise of long life (weight 5.3). Pair score 22.5.'
+    between the texts] (weight 7.1); No other gods before YHWH (weight 6.8); The Ten Commandments (Decalogue)
+    (weight 6.5); Honor father and mother, with the promise of long life (weight 5.9). Pair score 26.2.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -35,19 +35,19 @@ evidence:
     out of fire with no visible form; People fear to hear God directly and ask the prophet to mediate;
     The people''s answer to the covenant (''we hear ...'') [response between the texts]; Sabbath grounded
     in the memory of slavery in Egypt; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na);
-    Prohibition of coveting the neighbor''s wife and property; and 7 more.'
+    Prohibitions of murder, adultery, theft and false witness [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Only in The code of commandments (Surah 17:22-39): A Quranic code of commandments resembling
     the Decalogue in content; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently;
     Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height; Do
-    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Do not kill
-    the soul God has made sacred except by right; Lower the wing of humility to parents and pray ''Lord,
-    have mercy on them as they raised me when small''; Squanderers are brothers of the devils; Sexual
-    relations with a neighbor''s wife are forbidden [divergence between the texts]; A Quranic code of
-    commandments resembling the Decalogue in content [divergence between the texts]; Do not pursue what
-    you have no knowledge of; hearing, sight and heart will be questioned; Do not kill your children for
-    fear of poverty; God provides for them and you; Do not kill the soul God has made sacred except by
-    right [divergence between the texts]; and 7 more.'
+    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Lower the
+    wing of humility to parents and pray ''Lord, have mercy on them as they raised me when small''; Squanderers
+    are brothers of the devils; Sexual relations with a neighbor''s wife are forbidden [divergence between
+    the texts]; A Quranic code of commandments resembling the Decalogue in content [divergence between
+    the texts]; Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned;
+    Do not kill your children for fear of poverty; God provides for them and you; Do not speak harshly
+    or arrogantly to your parent; A decreed order includes reverence and humility toward father and mother
+    [divergence between the texts]; and 19 more.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

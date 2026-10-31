@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Ad grow arrogant: ''Who is mightier than us in strength?'' (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Woe to Assyria, rod of my anger; a remnant will return; the invader''s march on Jerusalem:
     Conqueror boasts of cities taken (Calno, Carchemish, Hamath, Arpad, Samaria) and that his own strength

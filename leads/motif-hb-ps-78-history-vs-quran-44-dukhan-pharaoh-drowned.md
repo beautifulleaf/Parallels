@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The people walk on dry ground through the sea with the waters as
-    a wall on either side (weight 5.3); The returning waters drown the pursuing army; not one survives
-    (weight 4.5). Pair score 9.8.'
+    a wall on either side (weight 6.4); The returning waters drown the pursuing army; not one survives
+    (weight 5.5). Pair score 11.9.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -40,11 +40,12 @@ evidence:
     the sea parted and still (rahwan), for Pharaoh''s host will be drowned; What Moses demands of Pharaoh
     in God''s name [divergence between the texts]; Sacrificial meal eaten in haste, loins girded, sandals
     on, staff in hand; Who, if anyone, inherits Egypt''s land after the exodus [divergence between the
-    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; God chose
-    the Children of Israel, knowingly, above the worlds and tested them with signs; What Moses does with
-    the sea after the crossing [divergence between the texts]; How Israel leaves Egypt by night: expelled,
-    or secretly [divergence between the texts]; The prophet seeks refuge in God from being stoned by his
-    people; Whether heaven and earth mourn a destroyed people [contrast between the texts]; and 1 more.'
+    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; Whether
+    heaven and earth mourn a destroyed people; God chose the Children of Israel, knowingly, above the
+    worlds and tested them with signs; What Moses does with the sea after the crossing [divergence between
+    the texts]; How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts];
+    A city, or heaven and earth, weeps (or does not weep) over a people in disaster [divergence between
+    the texts]; and 4 more.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

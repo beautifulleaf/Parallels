@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Covenant made with those present and with those not here today [divergence
-    between the texts] (weight 6.7); Covenant made with those present and with those not here today (weight
-    6.7). Pair score 13.4.'
+    between the texts] (weight 7.7); Covenant made with those present and with those not here today (weight
+    7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Covenant at Moab; the secret apostate; the land like Sodom: All ranks stand before God,
     from the hewer of wood to the drawer of water; A root bearing poison and wormwood among you (secret
@@ -29,16 +29,19 @@ evidence:
     allotted the heavenly bodies (or gods) to the other nations; Nations ask why God did this to the land
     and are answered: they forsook the covenant; Who was present at the revelation on the mountain, and
     who knows it only by report [divergence between the texts]; Man who hears the curse but blesses himself
-    in his heart: ''I shall have peace''; In forty years of wandering the people lacked nothing (clothes
-    did not wear out, feet did not swell); Clothes did not wear out and feet did not swell for forty years;
-    Land made brimstone and salt like Sodom, Gomorrah, Admah and Zeboiim; The ''overturned cities'' (al-mu''tafikat),
-    Lot''s towns; The secret things belong to God; the revealed things to us and our children; and 1 more.'
+    in his heart: ''I shall have peace''; Land made brimstone and salt like Sodom, Gomorrah, Admah and
+    Zeboiim; In forty years of wandering the people lacked nothing (clothes did not wear out, feet did
+    not swell); Clothes did not wear out and feet did not swell for forty years; The ''overturned cities''
+    (al-mu''tafikat), Lot''s towns; The secret things belong to God; the revealed things to us and our
+    children; and 1 more.'
   basis: reading
 - text: 'Only in The primordial covenant ("Am I not your Lord?"): God takes all Adam''s descendants from
-    their loins and makes them testify ''Am I not your Lord?'' (''Yes''); The covenant is made with those
-    alive today, not only with the fathers; No one may excuse himself on judgment day because his ancestors
-    associated partners; The people are made witnesses against themselves to their choice; Unbelievers
-    defend their practice as what they found their fathers doing.'
+    their loins and makes them testify ''Am I not your Lord?'' (''Yes''); A covenant is framed so that
+    the bound party cannot later say ''I did not know''; The covenant is made with those alive today,
+    not only with the fathers; No one may excuse himself on judgment day because his ancestors associated
+    partners; The people are made witnesses against themselves to their choice; An oath or covenant that
+    binds descendants not yet born [divergence between the texts]; Unbelievers defend their practice as
+    what they found their fathers doing.'
   basis: reading
 - text: 'Covenant at Moab; the secret apostate; the land like Sodom: tagged by Claude (model), reading
     the Hebrew.'

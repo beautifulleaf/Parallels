@@ -20,16 +20,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Argument: He who planted the ear, does he not hear? He who formed
-    the eye, does he not see? (weight 6.3). Pair score 6.3.'
+    the eye, does he not see? (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 94, God of vengeance; he who planted the ear: Invocation ''God of vengeance, shine
-    forth; rise up, judge of the earth''; The wicked kill the widow, the stranger and the orphan; Happy
-    is the man whom God disciplines and teaches from his Torah; The wicked ask ''How does God know? Is
-    there knowledge in the Most High?''; The underworld called Dumah, the land of silence; God made human
+    forth; rise up, judge of the earth''; Happy is the man whom God disciplines and teaches from his Torah;
+    The wicked ask ''How does God know? Is there knowledge in the Most High?''; The underworld called
+    Dumah, the land of silence; The wicked kill the widow, the stranger and the orphan; God made human
     hearing and sight: so God sees and hears, or the senses themselves testify [divergence between the
-    texts]; Vengeance and recompense are mine; Lament question ''How long, O God?'' / ''Why have you rejected
-    us forever?''; Those who dig a pit or spread a net for the righteous fall into it themselves; God
-    called rock, fortress, refuge, stronghold or tower of strength.'
+    texts]; Vengeance and recompense are mine; God called rock, fortress, refuge, stronghold or tower
+    of strength; Those who dig a pit or spread a net for the righteous fall into it themselves; Lament
+    question ''How long, O God?'' / ''Why have you rejected us forever?''.'
   basis: reading
 - text: 'Only in Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils,
     hell nearly bursting with rage: ''Blessed is he in whose hand is the dominion (al-mulk)''; ''Does
@@ -39,10 +39,10 @@ evidence:
     look again and again, you will see no flaw or rift; your sight returns dazzled and weary; God adorned
     the lowest heaven with lamps and made them missiles (rujum) against the devils; I set before you life
     and death, blessing and curse: choose life [divergence between the texts]; God created heaven and
-    earth to test which of you is best in deeds; God, who fashions the hearts of all and observes all
-    their deeds, looks down from his dwelling; When the damned are cast in they hear hell gasping/roaring
-    as it boils, nearly bursting with rage; God built the sky and adorned it, and it has no rifts (furuj);
-    The stars fight from their courses against the enemy; and 3 more.'
+    earth to test which of you is best in deeds; Kingship over heaven and earth and everything is in the
+    god''s hand or grasp; God, who fashions the hearts of all and observes all their deeds, looks down
+    from his dwelling; Death and life (in that order) are set or created by the divine; When the damned
+    are cast in they hear hell gasping/roaring as it boils, nearly bursting with rage; and 6 more.'
   basis: reading
 - text: 'Psalm 94, God of vengeance; he who planted the ear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

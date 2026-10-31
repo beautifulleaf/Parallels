@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hearing ear and the seeing eye, YHWH made them both (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -27,10 +27,10 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 19 more.'
   basis: reading
 - text: 'Only in Skins testify; evil companions; the misled ask to trample their misleaders: The damned
     ask to be shown the jinn and humans who misled them so they may put them beneath their feet; God assigned
@@ -41,8 +41,10 @@ evidence:
     and sight: so God sees and hears, or the senses themselves testify [divergence between the texts];
     Woe to those who hide their plans deep from God and say ''Who sees us? Who knows us?''; A great stone
     set up as a witness because it has heard all God''s words; Sinners say ''YHWH does not see us; YHWH
-    has forsaken the land''; On judgment day tongues, hands and feet testify against people; The damned
-    blame their chiefs and great ones who misled them and ask God to double their punishment.'
+    has forsaken the land''; On judgment day tongues, hands and feet testify against people; Who witnesses
+    against the dead at the judgment (no witness against me / their own limbs and skins) [divergence between
+    the texts]; The damned blame their chiefs and great ones who misled them and ask God to double their
+    punishment.'
   basis: reading
 - text: 'Sayings on wine, the king''s throne and the lamp of YHWH: tagged by Claude (model), reading the
     Hebrew.'

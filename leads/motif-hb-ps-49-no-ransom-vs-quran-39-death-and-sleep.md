@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An earthful of gold would not be accepted as ransom from one who
-    dies unbelieving (weight 5.8). Pair score 5.8.'
+    dies unbelieving (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 49 - no man can ransom his brother: Like sheep they are appointed for Sheol; Death
     shepherds them; When he dies he takes nothing with him; his glory does not go down after him; God
@@ -31,17 +31,18 @@ evidence:
     No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too
     costly [divergence between the texts]; On that day no patron (mawla) can avail his client at all;
     Qārūn goes out in his finery and the worldly wish for his fortune; Unbelievers enjoy themselves and
-    eat as cattle eat; the Fire is their lodging; Wise men die, the fool and the brute perish together
-    and leave their wealth to others; and 4 more.'
+    eat as cattle eat; the Fire is their lodging; Riches kept by their owner to his hurt, lost in a bad
+    venture, so that his son has nothing in hand; and 4 more.'
   basis: reading
 - text: 'Only in The prophet''s mortality; souls taken in sleep; intercession belongs to God: When God
     alone is mentioned the hearts of unbelievers shrink with aversion; at mention of others they rejoice;
-    All intercession belongs to God; ''You will die and they will die'', said to the prophet; Death described
-    as sleep: ''lest I sleep the sleep of death''; Given a blessing, man says ''I was given it only because
-    of my knowledge''; it is a trial; God takes the souls at death and of those not dead in their sleep;
-    he keeps those decreed to die and sends back the others for a set term; If asked who created heaven
-    and earth and sends rain, the idolaters themselves answer ''God''; When harm touches people they turn
-    to God; when he gives them relief a party of them associates partners again.'
+    All intercession belongs to God; ''You will die and they will die'', said to the prophet; Given a
+    blessing, man says ''I was given it only because of my knowledge''; it is a trial; He whom the gods
+    guide cannot go astray; he whom they leave boatless cannot find a crossing; God takes the souls at
+    death and of those not dead in their sleep; he keeps those decreed to die and sends back the others
+    for a set term; Death described as sleep: ''lest I sleep the sleep of death''; If asked who created
+    heaven and earth and sends rain, the idolaters themselves answer ''God''; When harm touches people
+    they turn to God; when he gives them relief a party of them associates partners again.'
   basis: reading
 - text: 'Psalm 49 - no man can ransom his brother: tagged by Claude (model), reading the Hebrew.'
   basis: reading

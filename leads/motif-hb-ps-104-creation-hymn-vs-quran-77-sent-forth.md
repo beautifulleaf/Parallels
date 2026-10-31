@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes winds his messengers (angels) and flaming fire his ministers
-    (weight 5.8). Pair score 5.8.'
+    (weight 6.6). Pair score 6.6.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 40 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 40 more.'
   basis: reading
 - text: 'Only in Those sent forth: the refrain of woe: Humans created from a despised fluid placed in
     a secure lodging (the womb) for a known term; On that day the damned do not speak and are not permitted
@@ -39,11 +39,11 @@ evidence:
     throws sparks as huge as castles, like yellow (or black) camels; The damned are led to a shadow of
     three branches that gives no shade nor protects from the flame; Every verse ends with the same response
     (''for his steadfast love is forever''), an antiphonal litany; In paradise the shades are close and
-    the fruit clusters hang low within reach; Stars and constellations (kesilim) give no light, the sun
-    is dark at its rising and the moon does not shine; Refrain ''Woe that day to the deniers'' (waylun
-    yawma''idhin lil-mukadhdhibin) repeated through a surah; At the end the sky is split, cleft or opened
-    (infatarat, inshaqqat, furijat); At the end the mountains become a heap of running sand, are blown
-    away, set in motion or turn into a mirage; God set the mountains as pegs or firm anchors (awtad, rawasi)
+    the fruit clusters hang low within reach; Refrain ''Woe that day to the deniers'' (waylun yawma''idhin
+    lil-mukadhdhibin) repeated through a surah; At the end the sky is split, cleft or opened (infatarat,
+    inshaqqat, furijat); At the end the mountains become a heap of running sand, are blown away, set in
+    motion or turn into a mirage; Stars and constellations (kesilim) give no light, the sun is dark at
+    its rising and the moon does not shine; God set the mountains as pegs or firm anchors (awtad, rawasi)
     for the earth; and 2 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),

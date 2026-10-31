@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: People demand a king ''like all the nations'' (weight 6.3). Pair
-    score 6.3.'
+- text: 'Shared motifs, rarest first: People demand a king ''like all the nations'' (weight 7.3). Pair
+    score 7.3.'
   basis: reading
 - text: 'Only in Israel demands a king; the ''manner of the king'': A righteous leader''s sons take bribes
     and pervert justice, prompting a change of regime; Prophet warns how a king will conscript sons, take

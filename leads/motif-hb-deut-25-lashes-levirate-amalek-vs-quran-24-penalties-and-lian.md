@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many lashes a flogging may have [contrast between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: Do not muzzle the ox
-    while it threshes; Flogging limited to forty stripes so your brother is not degraded; Widow removes
-    the refusing brother-in-law''s sandal and spits in his face; Remember Amalek who attacked the stragglers;
-    blot out his memory; Woman who seizes a man''s genitals in a brawl has her hand cut off; What becomes
-    of a dead man''s widow within his family [contrast between the texts]; No two kinds of weights or
-    measures; just weights for long life; A man must marry his dead brother''s widow to raise seed for
-    the brother; Honest balances, weights, ephah and hin are commanded.'
+- text: 'Only in Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: Flogging limited to
+    forty stripes so your brother is not degraded; Widow removes the refusing brother-in-law''s sandal
+    and spits in his face; Remember Amalek who attacked the stragglers; blot out his memory; Woman who
+    seizes a man''s genitals in a brawl has her hand cut off; Do not muzzle the ox while it threshes;
+    What becomes of a dead man''s widow within his family [contrast between the texts]; A man must marry
+    his dead brother''s widow to raise seed for the brother; No two kinds of weights or measures; just
+    weights for long life; Honest balances, weights, ephah and hin are commanded.'
   basis: reading
 - text: 'Only in Lashes for fornication, four witnesses and the mutual cursing oath: The fornicating woman
     and man each receive a hundred lashes, witnessed by a party of believers; A fornicator may marry only
     a fornicator or an idolater; such marriage is forbidden to believers; A husband accusing his wife
     without witnesses swears four times by God and a fifth time invokes God''s curse on himself if lying;
     she averts punishment by four counter-oaths and a fifth invoking God''s wrath; Whether the husband
-    who accuses his wife bears any liability [contrast between the texts]; Wife suspected of adultery
-    drinks ''water of bitterness'' as an ordeal; Whoever accuses a chaste woman without four witnesses
-    is flogged eighty lashes and his testimony is never accepted; Who is barred from marrying an unchaste
-    woman [divergence between the texts]; Judges told to let no pity hold them back from carrying out
-    a fixed punishment; A man accused swears a curse-oath before the altar, and God judges guilty and
-    innocent; Who swears, and how, when a husband suspects his wife of adultery without witnesses [divergence
-    between the texts]; The penalty for adultery or fornication [contrast between the texts]; The penalty
-    for falsely accusing a woman of unchastity [divergence between the texts]; and 7 more.'
+    who accuses his wife bears any liability [contrast between the texts]; The adulterer is excluded from
+    the company of the just [divergence between the texts]; Wife suspected of adultery drinks ''water
+    of bitterness'' as an ordeal; Whoever accuses a chaste woman without four witnesses is flogged eighty
+    lashes and his testimony is never accepted; Who is barred from marrying an unchaste woman [divergence
+    between the texts]; Judges told to let no pity hold them back from carrying out a fixed punishment;
+    A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Who swears,
+    and how, when a husband suspects his wife of adultery without witnesses [divergence between the texts];
+    The penalty for adultery or fornication [contrast between the texts]; and 8 more.'
   basis: reading
 - text: 'Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: tagged by Claude (model), reading
     the Hebrew.'

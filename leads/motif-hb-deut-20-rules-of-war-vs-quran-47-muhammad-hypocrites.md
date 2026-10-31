@@ -21,9 +21,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether and when to call the enemy to peace [contrast between the
-    texts] (weight 6.7); Who is exempted from going out to war [contrast between the texts] (weight 6.3);
+    texts] (weight 7.7); Who is exempted from going out to war [contrast between the texts] (weight 7.3);
     Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness (weight
-    5.8). Pair score 18.7.'
+    6.5). Pair score 21.6.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Conditions under which war is waged
     or stopped [divergence between the texts]; Whether the enemy''s trees may be cut down in a siege [contrast

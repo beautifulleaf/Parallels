@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Opponents call the revelation jumbled dreams, a forgery, or the
-    work of a poet (weight 6.3). Pair score 6.3.'
+    work of a poet (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     Survivors in the ruins argue ''Abraham was only one and inherited the land; we are many, so the land
@@ -38,10 +38,12 @@ evidence:
   basis: reading
 - text: 'Only in The reckoning approaches; mortal messengers and destroyed towns: The doomed townsfolk
     run from God''s onslaught and are told mockingly to return to their luxuries; they become mown stubble;
-    The people''s reckoning draws near while they turn away in heedlessness; ''Ask the people of the Reminder
-    (ahl al-dhikr) if you do not know'': appeal to earlier scripture-holders; Earlier messengers were
-    only men who ate food and were not immortal; The unbelievers demand: ''Why does he not bring us a
-    sign from his Lord?''; Destruction follows the people''s rejection of a messenger.'
+    The people''s reckoning draws near while they turn away in heedlessness; The punished cry ''woe (ahula
+    / yā waylanā), we have sinned (been wrongdoers)''; ''Ask the people of the Reminder (ahl al-dhikr)
+    if you do not know'': appeal to earlier scripture-holders; Earlier messengers were only men who ate
+    food and were not immortal; The unbelievers demand: ''Why does he not bring us a sign from his Lord?'';
+    The slain are piled up in heaps like grain stacks or sheaves; Destruction follows the people''s rejection
+    of a messenger.'
   basis: reading
 - text: 'The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     tagged by Claude (model), reading the Hebrew.'

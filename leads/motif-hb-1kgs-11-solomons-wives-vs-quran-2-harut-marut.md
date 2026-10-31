@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Solomon turned from God [response between the texts] (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Solomon''s foreign wives and apostasy: King builds high places for Chemosh, Molech/Milcom
     and Astarte on the mount facing Jerusalem; King has seven hundred royal wives and three hundred concubines;
@@ -32,8 +32,11 @@ evidence:
     reign; Solomon himself did not disbelieve; Two angels in Babylon, Harut and Marut, teach magic while
     warning ''we are only a trial''; Magic is learned that separates a man from his wife, harming only
     by God''s leave; A nation''s sorcerers, enchanters, star-gazers and monthly prognosticators are challenged
-    and cannot save it; Divination, soothsaying, mediums (ov) and wizards (yidde''oni) are forbidden;
-    The king''s experts cannot interpret the dream.'
+    and cannot save it; A named kind of sorcery whose effect is hatred or estrangement between people
+    (hate-magic; what separates a man from his wife); Two heavenly beings come down from heaven in connection
+    with sorcery; Two heavenly beings come down from heaven in connection with sorcery [divergence between
+    the texts]; Divination, soothsaying, mediums (ov) and wizards (yidde''oni) are forbidden; The king''s
+    experts cannot interpret the dream.'
   basis: reading
 - text: 'Solomon''s foreign wives and apostasy: tagged by Claude (model), reading the Hebrew.'
   basis: reading

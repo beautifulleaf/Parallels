@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Exemptions from war for a new house, unharvested vineyard, betrothed
-    bride, or faintheartedness [divergence between the texts] (weight 6.7); Exemptions from war for a
-    new house, unharvested vineyard, betrothed bride, or faintheartedness (weight 5.8). Pair score 12.5.'
+    bride, or faintheartedness [divergence between the texts] (weight 7.7); Exemptions from war for a
+    new house, unharvested vineyard, betrothed bride, or faintheartedness (weight 6.5). Pair score 14.2.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -38,9 +38,10 @@ evidence:
 - text: 'Only in Those who strive and those who sit; the angels'' question at death: Angels taking a soul
     ask ''what state were you in?''; excuses of weakness are tested; Those with disabilities (ulū l-ḍarar)
     are excepted from the duty to fight; Whoever leaves home as an emigrant to God and dies on the way
-    has his reward with God; Those who strive with wealth and life are ranked above those who sit at home;
-    Was not God''s earth wide enough for you to emigrate (hijra) in it?; Angels (God''s messengers) take
-    the souls of the dying.'
+    has his reward with God; The excuse that one was forced or powerless is put forward for going over
+    to the other side; Those who strive with wealth and life are ranked above those who sit at home; Was
+    not God''s earth wide enough for you to emigrate (hijra) in it?; Angels (God''s messengers) take the
+    souls of the dying.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

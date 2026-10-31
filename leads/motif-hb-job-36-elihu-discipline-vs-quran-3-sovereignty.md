@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gives justice to the poor and seats kings (or the lowly) on
-    the throne (weight 6.7). Pair score 6.7.'
+    the throne (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Elihu on God''s justice and suffering as discipline: Who has prescribed God''s way, or
     who can say ''You have done wrong''?; Affliction is God''s instruction: he opens the sufferer''s ear
@@ -28,11 +28,15 @@ evidence:
     it, wishing a far distance from its evil; Believers may not take unbelievers as allies, unless guarding
     against them (tuqat); God warns you of himself (yuhadhdhirukum allahu nafsahu); God makes night enter
     day and day night, brings the living from the dead and the dead from the living; O God, owner of sovereignty,
-    you give it to whom you will and take it from whom you will; you exalt and abase; God changes times
-    and seasons, deposes kings and sets up kings; The Most High rules the kingdom of men, gives it to
-    whom he wills and sets over it the lowliest of men; God provides for whom he wills without reckoning
-    (bi-ghayri hisab); Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from
-    the dung-heap.'
+    you give it to whom you will and take it from whom you will; you exalt and abase; A deity holds paired
+    powers of reversal: raising some and lowering others, turning light and darkness into each other;
+    A deity holds paired powers of reversal: raising some and lowering others, turning light and darkness
+    into each other [divergence between the texts]; The deity turns day into night (darkness into light)
+    [divergence between the texts]; God changes times and seasons, deposes kings and sets up kings; The
+    god changes the length of day and night (shortens days, lengthens nights; makes night enter into day);
+    The deity gives the crown and kingship and raises one and lowers another (litany addressed to the
+    deity); God tears down and builds up: makes men poor or overseers, gives and takes kingship, exalts
+    and abases as he wills; and 5 more.'
   basis: reading
 - text: 'Elihu on God''s justice and suffering as discipline: tagged by Claude (model), reading the Hebrew.'
   basis: reading

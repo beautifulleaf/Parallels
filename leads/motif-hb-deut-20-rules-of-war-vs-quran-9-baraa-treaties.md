@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: War on the idolatrous inhabitants: total destruction or a way out
-    [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -41,9 +41,9 @@ evidence:
     the Merciful, the Compassionate''; Four of the twelve months are sacred; God punishes the enemy by
     the believers'' hands and heals the believers'' breasts; Treaties with those who kept them are honored
     until their term; Protection for someone who seeks refuge [divergence between the texts]; Treaties
-    with idolatrous peoples [contrast between the texts]; Most of the peoples were found without fidelity
-    to their covenant; Unbelievers plot to confine, kill or expel the prophet, but God plots too; and
-    1 more.'
+    with idolatrous peoples [contrast between the texts]; An enemy bound by oath breaks it, again and
+    again, and scorns the religion or the gods'' words; Most of the peoples were found without fidelity
+    to their covenant; and 2 more.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

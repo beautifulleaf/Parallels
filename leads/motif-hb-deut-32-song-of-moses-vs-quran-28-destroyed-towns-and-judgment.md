@@ -20,29 +20,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God mocks: where are their gods who ate the fat of their sacrifices?
-    let them rise and help (weight 5.8). Pair score 5.8.'
+    let them rise and help (weight 6.8). Pair score 6.8.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 30 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; Whether God, or the gods, eat the offerings [contrast between the texts]; and 30
+    more.'
   basis: reading
 - text: 'Only in Towns destroyed for ingratitude; ''Where are my partners?''; perpetual night and day:
     God does not destroy towns until he sends a messenger to their mother-town; If God made the night
-    or the day perpetual until resurrection, what god could bring the other?; Nations come from the ends
-    of the earth confessing ''our fathers inherited nothing but lies''; can a man make gods for himself?;
-    God guarantees seedtime and harvest, cold and heat, day and night will not cease; On judgment day
-    God asks ''Where are my partners for whom you contended?''; God knows the secrets of the heart (ta''alumot
-    lev); On judgment day a witness is brought from every nation, and the Prophet as witness over them;
-    The listeners walk among the dwellings of generations God destroyed, a sign; At judgment the associated
-    ''partners'' disown their worshipers: ''it was not us you worshiped''; God alone knows the hearts
-    of all humans.'
+    or the day perpetual until resurrection, what god could bring the other?; The destroyed city stays
+    unsettled: no one dwells there after; Nations come from the ends of the earth confessing ''our fathers
+    inherited nothing but lies''; can a man make gods for himself?; God guarantees seedtime and harvest,
+    cold and heat, day and night will not cease; On judgment day God asks ''Where are my partners for
+    whom you contended?''; God knows the secrets of the heart (ta''alumot lev); On judgment day a witness
+    is brought from every nation, and the Prophet as witness over them; The listeners walk among the dwellings
+    of generations God destroyed, a sign; At judgment the associated ''partners'' disown their worshipers:
+    ''it was not us you worshiped''; God alone knows the hearts of all humans.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sabbath-breakers, those who rebuke them and those who ask why bother
-    rebuking a doomed people (weight 6.7). Pair score 6.7.'
+    rebuking a doomed people (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites'' portions,
     Sabbath and mixed marriages: The Persian king is called ''king of Babylon''; Temple chambers defiled

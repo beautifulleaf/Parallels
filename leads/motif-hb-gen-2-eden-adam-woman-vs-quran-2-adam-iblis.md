@@ -13,9 +13,9 @@ layers:
 - motif
 motifs:
 - garden-given-to-first-couple-as-divergence
-- adam-names-animals
-- first-man-and-the-names-as-divergence
 - forbidden-tree-as-divergence
+- first-man-and-the-names-as-divergence
+- adam-names-animals
 - tree-of-knowledge-forbidden
 - garden-of-god-in-east
 passages: []
@@ -23,22 +23,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The garden given to the first humans to live and eat in [divergence
-    between the texts] (weight 6.7); The first man names the animals (weight 6.7); The first man and the
-    names of the creatures [divergence between the texts] (weight 6.7); The tree forbidden to the first
-    humans [divergence between the texts] (weight 6.7); A tree of knowledge whose fruit is forbidden (weight
-    5.8); God plants a garden (Eden) in the east and places the first human there (weight 5.6). Pair score
-    38.1.'
+    between the texts] (weight 7.7); The tree forbidden to the first humans [divergence between the texts]
+    (weight 7.7); The first man and the names of the creatures [divergence between the texts] (weight
+    7.7); The first man names the animals (weight 7.3); A tree of knowledge whose fruit is forbidden (weight
+    6.8); God plants a garden (Eden) in the east and places the first human there (weight 6.4). Pair score
+    43.8.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; Whether the first couple were naked or clothed
-    before the fall [contrast between the texts]; How the first human''s mate is made from the first human
-    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
-    texts]; Forming a creature from earth and breathing life into it [divergence between the texts]; Four
-    rivers in the Garden [divergence between the texts]; In the garden Adam will not hunger, be naked,
-    thirst or suffer the sun''s heat [divergence between the texts]; and 16 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; How the first human''s mate is
+    made from the first human [divergence between the texts]; Whether any fruit in the Garden is forbidden
+    [contrast between the texts]; Forming a creature from earth and breathing life into it [divergence
+    between the texts]; Four rivers in the Garden [divergence between the texts]; In the garden Adam will
+    not hunger, be naked, thirst or suffer the sun''s heat [divergence between the texts]; The likeness
+    of Jesus with God is as Adam, created from dust by ''Be''; Man leaves father and mother and cleaves
+    to his wife; they become one flesh; How the first woman was made [divergence between the texts]; and
+    16 more.'
   basis: reading
 - text: 'Only in Adam, the angels and Iblis: God teaches Adam all the names and he recites them to the
     angels, who cannot; The expelled are told ''Go down, enemies to one another'' with a dwelling and
@@ -48,9 +49,10 @@ evidence:
     from the garden [divergence between the texts]; The first man''s response after the transgression
     in the garden (blame or repentance) [divergence between the texts]; God speaks to heavenly beings
     about making man [divergence between the texts]; The human condition on earth after the expulsion
-    [divergence between the texts]; The office given to humans on earth at creation [divergence between
-    the texts]; The tempter in the garden [divergence between the texts]; Whoever sheds human blood, by
-    man shall his blood be shed, because humans bear God''s image; and 7 more.'
+    [divergence between the texts]; After the episode of the forbidden or refused food [divergence between
+    the texts]; A god gives a human knowledge of ''heaven and earth'' and a higher divine voice remarks
+    on it [divergence between the texts]; A superior asks ''what are these?'' and a subordinate tells
+    their names one by one [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

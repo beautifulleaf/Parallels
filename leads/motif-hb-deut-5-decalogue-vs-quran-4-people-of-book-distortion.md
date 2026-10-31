@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people answer as one: all that YHWH has spoken we will do [response
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -29,20 +29,20 @@ evidence:
     out of fire with no visible form; People fear to hear God directly and ask the prophet to mediate;
     The people''s answer to the covenant (''we hear ...'') [response between the texts]; Sabbath grounded
     in the memory of slavery in Egypt; Honor father and mother, with the promise of long life [divergence
-    between the texts]; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na); Prohibition
-    of coveting the neighbor''s wife and property; and 10 more.'
+    between the texts]; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na); Prohibitions
+    of murder, adultery, theft and false witness [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Shifted words, ''we hear and disobey'', and the people of the Sabbath: God gave the family
     of Abraham the book, wisdom and a great kingdom; Opponents twist an ambiguous address (''rāʿinā'')
     with their tongues to mock; The blessed enter a deep, lasting shade (ẓill ẓalīl); Threat to obliterate
     faces and turn them backward; In hellfire, whenever the skins are burnt through, they are replaced
     with new skins; Some of the People of the Book believe in al-jibt and al-ṭāghūt (idols, false powers);
-    The people answer as one: all that YHWH has spoken we will do [divergence between the texts]; Those
-    who violate the Sabbath are punished (executed, cut off, cursed or transformed) [divergence between
-    the texts]; Those who claim to be pure are rebuked: God purifies whom he will; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); God does not forgive associating partners
-    with him (shirk) but forgives anything less; Kings promised to come from the patriarch or matriarch;
-    and 6 more.'
+    A thread as the smallest measure: not even a thread is withheld, or wronged; The people answer as
+    one: all that YHWH has spoken we will do [divergence between the texts]; Those who violate the Sabbath
+    are punished (executed, cut off, cursed or transformed) [divergence between the texts]; Those who
+    claim to be pure are rebuked: God purifies whom he will; Israel at the mountain says ''we hear and
+    we disobey'' (sami''na wa-''asayna); God does not forgive associating partners with him (shirk) but
+    forgives anything less; and 7 more.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

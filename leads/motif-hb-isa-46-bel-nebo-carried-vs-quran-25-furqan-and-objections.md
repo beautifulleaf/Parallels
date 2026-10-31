@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The made idol cannot move from its place, speak or answer and save
-    those who cry to it (weight 5.4). Pair score 5.4.'
+    those who cry to it (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Bel and Nebo carried off; God who carries Israel: Babylon''s gods Bel and Nebo bow and
     stoop, their images loaded as burdens on weary beasts; God summons a bird of prey from the east, the

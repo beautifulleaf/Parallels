@@ -1,0 +1,85 @@
+---
+id: motif-ane-etcsl-1-2-1-praise-vs-quran-50-qaf-two-recorders-and-hell-asks-more
+title: Praise of Enlil, lord of heaven and earth, whose word cannot be altered ↔ Nearer than the jugular
+  vein; the two recorders; driver and witness; Gehenna says 'Is there more?'; creation in six days without
+  weariness
+summary: '1 correspondence read side by side: 1 shared wording.'
+finding: '''Who can change the word that has gone out?'' / ''none can change his words'''
+kinds:
+- echo
+units:
+- id: ane-etcsl-1-2-1-praise
+  title: Praise of Enlil, lord of heaven and earth, whose word cannot be altered
+  tradition: ane-sumerian
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Who can change the word that has gone out?'' / ''none can change his words'''
+  note: nu-kur2 ('not changed') and šu nu-bal ('not overturned') of Enlil's word, in the closing praise;
+    50:29 mā yubaddalu l-qawlu ladayya, God's own statement after the damned dispute before him. Enlil's
+    'primordial utterance' (dug4-ga saĝ du3) stands for his decrees as God's qawl does for the sentence
+    already given (qad qaddamtu ilaykum bi-l-waʿīd, 50:28).
+  sides:
+  - tradition: ane-sumerian
+    passages:
+    - ref: ETCSL 1.2.1 151-152
+      lang: sux
+      text: (151) en {dug4-ga-ni} {(2 mss. have instead:) niĝ2 ka ba-a-ni} niĝ2 nu-kur2-ru-dam (152) dug4-ga-ni
+        saĝ du3-du3-a šu nu-bal-e-de3
+  - tradition: islam
+    passages:
+    - ref: Quran 50:29
+      lang: ar
+      text: مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّٰمٍ لِّلْعَبِيدِ
+status: new
+relations:
+- convergence
+standing: proposed
+traditions:
+- ane-sumerian
+- islam
+layers:
+- motif
+motifs:
+- no-one-changes-the-spoken-word
+passages: []
+evidence:
+- text: Read side by side in both originals (alignments/ane-quran/01-ane-quran.yaml).
+  basis: reading
+- text: 'Shared motifs, rarest first: ''Who can change the word that has gone out?'' / ''none can change
+    his words'' (weight 5.7). Pair score 5.7.'
+  basis: reading
+- text: 'Only in Praise of Enlil, lord of heaven and earth, whose word cannot be altered: The earth itself
+    is commanded to bring forth plants or animals; A spoken blessing, once given, cannot be retracted;
+    A composition ends with a doxology to its deity: ''praise of X is sweet / magnificent'' (za3-mi2).'
+  basis: reading
+- text: 'Only in Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says ''Is
+    there more?''; creation in six days without weariness: On the day the caller calls from a place near
+    at hand, and they hear the Cry (al-sayha): the day of coming forth; The damned man''s companion (qarin)
+    disputes before God: ''Our Lord, I did not make him transgress''; The earth splits open from them
+    and they hasten forth to the gathering; ''Enter it in peace'': the day of eternity; they have what
+    they wish and more (mazid) with God; The Garden is brought near to the God-fearing, not far off; God
+    created the heavens and earth in six days and no weariness (lughub) touched him; Every soul comes
+    with a driver (sa''iq) and a witness (shahid); The stupor (sakra) of death comes with the truth: ''this
+    is what you tried to avoid''; Two receivers sit on the right and the left recording every word a person
+    utters; At judgment the covering is removed from a person and his sight that day is sharp as iron;
+    Whether the work of creation brings toil and weariness on the divine [divergence between the texts];
+    Whether the work of creation brings toil and weariness on the divine [response between the texts];
+    and 25 more.'
+  basis: reading
+- text: 'Praise of Enlil, lord of heaven and earth, whose word cannot be altered: tagged by Claude (model),
+    reading the Sumerian.'
+  basis: reading
+- text: 'Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says ''Is there
+    more?''; creation in six days without weariness: tagged by Claude (model), reading the Arabic.'
+  basis: reading
+origin: pipeline
+added: '2026-10-31'
+---
+
+## Questions
+
+## Notes

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Open your hand wide to the poor brother; do not harden your heart
-    or shut your hand (weight 6.3). Pair score 6.3.'
+    or shut your hand (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Release of debts, release of Hebrew slaves, firstlings: Base thought refusing a loan
     as the release year nears; the poor man cries to God against you; There will be no poor among you,
@@ -36,9 +36,9 @@ evidence:
 - text: 'Only in Hypocrites who mock and the destroyed peoples: Hypocrites fear a surah will be revealed
     exposing what is in their hearts; Hypocrites mock the prophet as ''all ear'' (udhun), credulous; Like
     a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says ''I was
-    only joking''; God''s good pleasure (ridwan) is greater than the gardens of Eden; ''Hate evil, love
-    good, establish justice in the gate; perhaps God will be gracious to the remnant of Joseph''; Hypocrite
-    men and women enjoin wrong and forbid right and close their hands; The ''overturned cities'' (al-mu''tafikat),
+    only joking''; God''s good pleasure (ridwan) is greater than the gardens of Eden; Hypocrite men and
+    women enjoin wrong and forbid right and close their hands; ''Hate evil, love good, establish justice
+    in the gate; perhaps God will be gracious to the remnant of Joseph''; The ''overturned cities'' (al-mu''tafikat),
     Lot''s towns; God forgets the damned today as they forgot the meeting of this day; Roll call of destroyed
     peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned cities; Paradise as gardens
     (of ʿAdn) beneath which rivers flow, where the righteous abide forever.'

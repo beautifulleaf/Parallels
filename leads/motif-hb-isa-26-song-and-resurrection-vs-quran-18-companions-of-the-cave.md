@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God lets the people discover the sleepers so they know his promise
-    of resurrection is true (weight 6.7). Pair score 6.7.'
+    of resurrection is true (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Song of the strong city; your dead shall live: Other lords ruled us; they are dead, they
     will not live; shades (rephaim) will not rise; their memory is wiped out; God''s dew is a ''dew of
@@ -30,9 +30,8 @@ evidence:
     perfect peace (shalom shalom) because it trusts in him; ''My soul yearns for you in the night; my
     spirit within me seeks you at dawn''; ''We have a strong city... Open the gates that the righteous
     nation that keeps faith may enter''; In Yah YHWH is an everlasting rock (tsur olamim); What the dead
-    say when they wake from the dust [divergence between the texts]; On God''s day all that is lofty (cedars
-    of Lebanon, oaks of Bashan, towers, ships of Tarshish) is brought low and God alone exalted; The Gardens
-    of Eden have their gates opened for the righteous; and 7 more.'
+    say when they wake from the dust [divergence between the texts]; The Gardens of Eden have their gates
+    opened for the righteous; Victim''s blood cries out from the ground to God; and 7 more.'
   basis: reading
 - text: 'Only in The Companions of the Cave and al-Raqim (Surah 18:9-31): The companions of the Cave and
     al-Raqim (an inscription or tablet); The sleepers'' dog lies stretching its forelegs at the cave''s
@@ -44,7 +43,7 @@ evidence:
     terror; The sleepers stayed in their cave three hundred years and nine more; One sleeper is sent to
     town with their silver coin to buy food discreetly; The sleepers seem awake though asleep, and God
     turns them from side to side; Woken after centuries, the sleepers think they slept a day or part of
-    a day; and 9 more.'
+    a day; and 17 more.'
   basis: reading
 - text: 'Song of the strong city; your dead shall live: tagged by Claude (model), reading the Hebrew.'
   basis: reading

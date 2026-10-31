@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: ''Do not go about after your heart and your eyes'' (weight 6.7);
-    Whoever takes his own desire (hawā) as his god (weight 6.0). Pair score 12.7.'
+- text: 'Shared motifs, rarest first: ''Do not go about after your heart and your eyes'' (weight 7.7);
+    Whoever takes his own desire (hawā) as his god (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in The Sabbath wood-gatherer; the law of tassels: Man gathering wood on the Sabbath is stoned
     by divine ruling; Tassels (tzitzit) with a blue cord on garment corners as reminder; Leader defers
@@ -30,13 +30,14 @@ evidence:
 - text: 'Only in Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town: The
     ''People of the Rass'' (aṣḥāb al-rass, the well) named among destroyed peoples; Most unbelievers are
     like cattle, or even further astray; The prophet asks that his brother be made his helper (wazīr)
-    and partner in his mission; God rains destruction on Lot''s town [divergence between the texts]; Ox
-    knows its owner and the ass its master''s crib, but Israel does not know (animals wiser than God''s
-    people); The sign the flood leaves for later generations [divergence between the texts]; The town
-    that was rained on with an evil rain (Lot''s) is passed by travelers; Aaron''s role beside Moses and
-    how he is appointed [divergence between the texts]; Why God destroyed a generation or a people [divergence
-    between the texts]; The people mock God''s messengers, despise his words and scoff at his prophets;
-    All others perish; God rains sulfur and fire from heaven on cities; and 1 more.'
+    and partner in his mission; God rains destruction on Lot''s town [divergence between the texts]; The
+    sign the flood leaves for later generations [divergence between the texts]; The town that was rained
+    on with an evil rain (Lot''s) is passed by travelers; Aaron''s role beside Moses and how he is appointed
+    [divergence between the texts]; Why God destroyed a generation or a people [divergence between the
+    texts]; Ox knows its owner and the ass its master''s crib, but Israel does not know (animals wiser
+    than God''s people); The people mock God''s messengers, despise his words and scoff at his prophets;
+    God rains sulfur and fire from heaven on cities; Destruction follows the people''s rejection of a
+    messenger; and 1 more.'
   basis: reading
 - text: 'The Sabbath wood-gatherer; the law of tassels: tagged by Claude (model), reading the Hebrew.'
   basis: reading

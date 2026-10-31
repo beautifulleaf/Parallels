@@ -25,33 +25,34 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God does after creating in six days [divergence between the
-    texts] (weight 6.7); God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and
-    partition between them (weight 5.8); A solid firmament (raqia) separates upper waters from lower waters
-    (weight 5.6); Creation is completed in six days (weight 5.2); Sun and moon are set to rule day and
-    night and mark signs and seasons (weight 4.7). Pair score 28.0.'
+    texts] (weight 7.7); God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and
+    partition between them (weight 6.8); A solid firmament (raqia) separates upper waters from lower waters
+    (weight 6.4); Creation is completed in six days (weight 6.2); Sun and moon are set to rule day and
+    night and mark signs and seasons (weight 5.5). Pair score 32.7.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 23 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 23 more.'
   basis: reading
 - text: 'Only in The moving shadow, the night garment, the two seas and the constellations: God extends
     the shadow, makes the sun its guide, then draws it back gently; God created humans from water and
     gave them kinship by blood and by marriage; Told to prostrate to the Merciful, the pagans ask ''What
-    is al-Raḥmān?''; Worship of the constellations or zodiac signs (mazzalot); God has inscribed a circle
-    on the face of the waters at the boundary between light and darkness; God made the night a garment,
-    sleep a rest, and the day a rising (nushūr); As a sign the shadow goes back ten steps on the stairway
-    (dial) of Ahaz; God set constellations (buruj) in the sky and adorned it for beholders; God the Ever-Living,
-    the Self-Subsisting (al-hayy al-qayyum); God makes winds his messengers (angels) and flaming fire
-    his ministers; God sends the winds as heralds before his mercy and sends down pure water from the
-    sky; After creating the heavens and earth God established himself on the Throne (istawa ''ala l-''arsh);
-    and 2 more.'
+    is al-Raḥmān?''; Night covers the sleepers as a garment, the land as in death; the day is a rising
+    (waking); Two waters, the sweet and the salt sea, meet or mingle [divergence between the texts]; What
+    sets the daily sleeping and rising of people [divergence between the texts]; Worship of the constellations
+    or zodiac signs (mazzalot); God has inscribed a circle on the face of the waters at the boundary between
+    light and darkness; A god''s act sets fresh (sweet) water against salt (bitter) water [divergence
+    between the texts]; God made the night a garment, sleep a rest, and the day a rising (nushūr); As
+    a sign the shadow goes back ten steps on the stairway (dial) of Ahaz; The wind carries good news (Akk.
+    bussurtu, Ar. bushr, mubashshirāt) [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

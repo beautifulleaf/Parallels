@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A person is weighed in the balances and found wanting (weight 6.0).
-    Pair score 6.0.'
+- text: 'Shared motifs, rarest first: A person is weighed in the balances and found wanting (weight 7.1).
+    Pair score 7.1.'
   basis: reading
 - text: 'Only in Belshazzar''s feast and the writing on the wall: A king holds a great feast for a thousand
     nobles and drinks wine before them; Idols listed as gods of gold, silver, bronze, iron, wood and stone
@@ -36,10 +36,13 @@ evidence:
     with dew, with hair like eagles'' feathers and nails like birds'' claws; and 4 more.'
   basis: reading
 - text: 'Only in Opening letters, destroyed towns and the weighing of deeds: On judgment day both the
-    peoples and the messengers sent to them are interrogated; Deeds are weighed on judgment day; heavy
-    scales mean salvation, light scales loss; When punishment comes the doomed can only confess ''we were
-    wrongdoers'', too late; Divine punishment falls on a town by night or while its people take the midday
-    rest; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    peoples and the messengers sent to them are interrogated; A balance on which the dead are weighed
+    at the judgment, and what is put on it [divergence between the texts]; The hour at which a town is
+    fallen upon: by night, or in the heat of the day [neutral] [divergence between the texts]; When punishment
+    comes the doomed can only confess ''we were wrongdoers'', too late; Deeds are weighed on judgment
+    day; heavy scales mean salvation, light scales loss; Divine punishment falls on a town by night or
+    while its people take the midday rest; A surah opens with isolated letters (huruf muqatta''at) of
+    unexplained meaning, e.g. alif-lam-mim.'
   basis: reading
 - text: 'Belshazzar''s feast and the writing on the wall: tagged by Claude (model), reading the Aramaic.'
   basis: reading

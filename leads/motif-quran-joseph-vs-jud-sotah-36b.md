@@ -17,8 +17,8 @@ motifs:
 - alone-in-house
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero nearly yields but a sign from God stops him (weight 6.3); Seduction
-    attempt when the two are alone in the house (weight 5.8). Pair score 12.1.'
+- text: 'Shared motifs, rarest first: Hero nearly yields but a sign from God stops him (weight 7.3); Seduction
+    attempt when the two are alone in the house (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.'
   basis: reading

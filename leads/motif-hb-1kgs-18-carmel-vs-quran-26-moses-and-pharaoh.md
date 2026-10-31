@@ -19,21 +19,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How a public contest between God''s prophet and the king''s religious
-    specialists ends [contrast between the texts] (weight 6.7); Prophet''s wonders are imitated by the
-    king''s magicians in a contest (weight 5.1). Pair score 11.8.'
+    specialists ends [contrast between the texts] (weight 7.7); Prophet''s wonders are imitated by the
+    king''s magicians in a contest (weight 6.0). Pair score 13.7.'
   basis: reading
 - text: 'Only in Contest on Mount Carmel: Prophet repairs the ruined altar with twelve stones for the
     tribes of Jacob; Contest of gods: the god who answers by fire on an unlit sacrifice is God; The prophets
-    of Baal are seized and slaughtered at the brook Kishon; Prophets of Baal limp-dance around the altar
-    and gash themselves with swords and lances till blood flows; Prophet mocks the silent god: perhaps
-    he is musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched
-    with four jars of water three times, filling a trench, before the miracle; The people fall on their
-    faces crying ''YHWH, he is God! YHWH, he is God!''; An offering consumed by fire as proof of the true
-    God or messenger [response between the texts]; Fire from heaven falls and consumes the offering, wood,
+    of Baal are seized and slaughtered at the brook Kishon; Prophet mocks the silent god: perhaps he is
+    musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched with
+    four jars of water three times, filling a trench, before the miracle; The people fall on their faces
+    crying ''YHWH, he is God! YHWH, he is God!''; An offering consumed by fire as proof of the true God
+    or messenger [response between the texts]; Fire from heaven falls and consumes the offering, wood,
     stones, dust and water; ''How long will you hop between two branches? If YHWH is God, follow him;
     if Baal, follow him''; A single prophet of YHWH stands against 450 prophets of Baal and 400 of Asherah;
-    How the people respond to the prophet''s challenge over Baal [divergence between the texts]; and 9
-    more.'
+    How the people respond to the prophet''s challenge over Baal [divergence between the texts]; Parable:
+    a slave owned by quarreling partners versus a slave belonging wholly to one man; and 9 more.'
   basis: reading
 - text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
     the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
@@ -43,9 +42,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; The king musters his whole force to pursue the departing
-    people; Whose forefathers'' God is proclaimed in the Moses story [divergence between the texts]; and
-    41 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; The king musters his whole force to pursue the
+    departing people; and 49 more.'
   basis: reading
 - text: 'Contest on Mount Carmel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

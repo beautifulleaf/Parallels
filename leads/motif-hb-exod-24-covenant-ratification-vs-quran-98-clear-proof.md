@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A messenger from God recites purified scrolls (suhuf mutahhara)
-    containing upright writings (weight 6.7). Pair score 6.7.'
+    containing upright writings (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant ratified in blood; the elders see God: Sacrificial blood splashed on altar and
     people seals the covenant (''blood of the covenant''); A meal eaten in God''s presence seals a covenant;

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Retaliation (talion) for killing or injury [divergence between the
-    texts] (weight 6.0); Eye for an eye, tooth for a tooth (lex talionis) (weight 5.4). Pair score 11.4.'
+    texts] (weight 7.1); Eye for an eye, tooth for a tooth (lex talionis) (weight 6.5). Pair score 13.5.'
   basis: reading
 - text: 'Only in Cities of refuge, boundary stones, false witnesses: Axe head slips off the handle while
     cutting wood and kills a companion (accidental homicide); Deliberate murderer who flees to refuge
@@ -28,15 +28,20 @@ evidence:
     the texts]; Judges told to let no pity hold them back from carrying out a fixed punishment; False
     witness receives the punishment he plotted for his brother; How many witnesses a charge requires [divergence
     between the texts]; A place of refuge for one who kills unintentionally [divergence between the texts];
-    How many witnesses are required [divergence between the texts]; The ''redeemer of blood'' (go''el
-    ha-dam) kills the murderer; Six cities of refuge for the unintentional killer, three on each side
-    of the Jordan; Do not move your neighbor''s ancient boundary marker; and 1 more.'
+    How many witnesses are required [divergence between the texts]; Six cities of refuge for the unintentional
+    killer, three on each side of the Jordan; No one put to death on the testimony of a single witness;
+    The ''redeemer of blood'' (go''el ha-dam) kills the murderer; and 1 more.'
   basis: reading
 - text: 'Only in Retaliation and bequests: Kin of the slain may pardon and accept compensation (diya)
     instead of retaliation, a lightening from God; ''In retaliation there is life for you''; Retaliation
-    (qisas) for the slain: free for free, slave for slave, female for female; Bequest (wasiyya) to parents
-    and kin prescribed for one who leaves wealth; altering it is a sin; A negligent owner may pay a ransom
-    for his life; Whether payment may substitute for a life [contrast between the texts].'
+    (qisas) for the slain: free for free, slave for slave, female for female; What person is matched to
+    a man who was killed [neutral] [divergence between the texts]; Clause on whoever alters a sealed grant
+    or a bequest [divergence between the texts]; Bequest (wasiyya) to parents and kin prescribed for one
+    who leaves wealth; altering it is a sin; Whoever alters the wording of a fixed text (tablet, bequest)
+    after it is set bears the penalty; A negligent owner may pay a ransom for his life; In a homicide,
+    the ''lord of the blood'' decides: if he says ''let him die'' the killer dies, if ''let him pay''
+    he pays; the king has no part; Whether payment may substitute for a life [contrast between the texts];
+    Whether payment may substitute for a life.'
   basis: reading
 - text: 'Cities of refuge, boundary stones, false witnesses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

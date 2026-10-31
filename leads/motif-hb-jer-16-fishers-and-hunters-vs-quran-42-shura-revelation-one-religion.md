@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 5.0). Pair score
-    5.0.'
+- text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 6.0). Pair score
+    6.0.'
   basis: reading
 - text: 'Only in A new exodus from the north; fishers and hunters: God sends many fishers to fish them
     out and then many hunters to hunt them from every mountain and cleft of rock; Appeal to the religion

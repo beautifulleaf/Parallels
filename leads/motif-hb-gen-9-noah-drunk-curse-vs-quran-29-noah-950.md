@@ -20,19 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Noah''s span of 950 years, and what it measures [divergence between
-    the texts] (weight 6.7); Hero''s life or mission spans 950 years (weight 6.0). Pair score 12.7.'
+    the texts] (weight 7.7); Hero''s life or mission spans 950 years (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Noah''s vineyard, Ham''s sin and the curse of Canaan; Noah''s death: Curse falls on Canaan,
-    son of the offender, to be a slave of slaves; First planter of a vineyard becomes drunk; A son sees
-    his father''s nakedness and is cursed for it; Sons cover their father''s nakedness walking backward
-    with averted faces; How the story of Noah ends [divergence between the texts]; A son of Noah is found
-    unworthy, and what follows [divergence between the texts]; Three sons of the flood hero repopulate
-    the whole earth.'
+    son of the offender, to be a slave of slaves; A son sees his father''s nakedness and is cursed for
+    it; Sons cover their father''s nakedness walking backward with averted faces; First planter of a vineyard
+    becomes drunk; How the story of Noah ends [divergence between the texts]; A son of Noah is found unworthy,
+    and what follows [divergence between the texts]; Three sons of the flood hero repopulate the whole
+    earth.'
   basis: reading
 - text: 'Only in Noah remains a thousand years less fifty among his people: God made the flood ship (or
-    its survivors) a sign for all the worlds; The sign the flood leaves for later generations [divergence
-    between the texts]; Why God destroyed a generation or a people [divergence between the texts]; Hero
-    warns or preaches to his people before the flood.'
+    its survivors) a sign for all the worlds; A span of years counted up to the flood, then ''the flood
+    swept over / took them'' [divergence between the texts]; The sign the flood leaves for later generations
+    [divergence between the texts]; Why God destroyed a generation or a people [divergence between the
+    texts]; Hero warns or preaches to his people before the flood.'
   basis: reading
 - text: 'Noah''s vineyard, Ham''s sin and the curse of Canaan; Noah''s death: tagged by Claude (model),
     reading the Hebrew.'

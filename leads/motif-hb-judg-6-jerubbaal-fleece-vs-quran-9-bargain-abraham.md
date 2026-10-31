@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero''s father makes, sells or worships idols [divergence between
-    the texts] (weight 5.4); Hero''s father makes, sells or worships idols (weight 4.8). Pair score 10.3.'
+    the texts] (weight 6.5); Hero''s father makes, sells or worships idols (weight 5.9). Pair score 12.4.'
   basis: reading
 - text: 'Only in Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: A fleece is
     left on the threshing floor as a sign: wet when the ground is dry, then dry when it is wet; If he

@@ -16,14 +16,14 @@ motifs:
 - planted-cup
 - thief-penalty-set-by-brothers
 - offer-substitute
-- search-eldest-to-youngest
 - theft-accusation-pursuit
+- search-eldest-to-youngest
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero''s cup is hidden in the youngest brother''s bag (weight 6.0);
-    The brothers themselves name the thief''s penalty (weight 6.0); A brother offers himself or another
-    in place of the youngest (weight 6.0); Search proceeds through the others'' bags before the youngest''s
-    (weight 5.8); Brothers pursued and accused of theft (weight 5.8). Pair score 29.5.'
+- text: 'Shared motifs, rarest first: Hero''s cup is hidden in the youngest brother''s bag (weight 7.1);
+    The brothers themselves name the thief''s penalty (weight 7.1); A brother offers himself or another
+    in place of the youngest (weight 7.1); Brothers pursued and accused of theft (weight 6.8); Search
+    proceeds through the others'' bags before the youngest''s (weight 6.8). Pair score 34.8.'
   basis: reading
 - text: 'Only in The silver cup and Judah''s plea: A ruler''s silver cup used for divination; A father''s
     life is bound up with the life of his youngest son; Brothers confess their old crime in front of the
@@ -33,12 +33,12 @@ evidence:
     their garments in grief or dismay.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 52 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 52 more.'
   basis: reading
 - text: 'The silver cup and Judah''s plea: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -126,22 +126,6 @@ matches:
       text: قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ
         إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
 - kind: shared
-  label: Search proceeds through the others' bags before the youngest's
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 44:12
-      lang: he
-      text: וַיְחַפֵּ֕שׂ בַּגָּד֣וֹל הֵחֵ֔ל וּבַקָּטֹ֖ן כִּלָּ֑ה וַיִּמָּצֵא֙ הַגָּבִ֔יעַ בְּאַמְתַּ֖חַת
-        בִּנְיָמִֽן
-  - tradition: islam
-    passages:
-    - ref: Quran 12:76
-      lang: ar
-      text: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ
-        كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ
-        ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
-- kind: shared
   label: Brothers pursued and accused of theft
   sides:
   - tradition: judaism
@@ -171,6 +155,22 @@ matches:
     - ref: Quran 12:73
       lang: ar
       text: قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ
+- kind: shared
+  label: Search proceeds through the others' bags before the youngest's
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 44:12
+      lang: he
+      text: וַיְחַפֵּ֕שׂ בַּגָּד֣וֹל הֵחֵ֔ל וּבַקָּטֹ֖ן כִּלָּ֑ה וַיִּמָּצֵא֙ הַגָּבִ֔יעַ בְּאַמְתַּ֖חַת
+        בִּנְיָמִֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 12:76
+      lang: ar
+      text: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ
+        كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ
+        ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
 ---
 
 ## Questions

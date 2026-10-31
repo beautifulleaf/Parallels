@@ -19,27 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
-    [response between the texts] (weight 6.7). Pair score 6.7.'
+    [response between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 2 - the nations rage; the king as God''s son: God gives the king the nations as
-    inheritance and the ends of the earth as possession; God tells the king ''You are my son; today I
-    have begotten you''; God installs his king on Zion, his holy mountain; Rulers told to serve God with
-    trembling and ''kiss the son'' (nashqu bar); Happy are all who take refuge (hosim) in God; The king
-    will break the nations with a rod of iron and shatter them like a potter''s vessel; Whether God has
-    or begets a son [contrast between the texts]; God does not beget and was not begotten [contrast between
-    the texts]; Nations and kings of the earth conspire against YHWH and his anointed (mashiah); They
-    say ''al-Rahman has taken a son''; it is not fitting for the Merciful [response between the texts];
-    Whether God has, begets or takes sons or other offspring [contrast between the texts]; God in heaven
-    laughs at and mocks those who plot against him or the righteous; and 1 more.'
+    inheritance and the ends of the earth as possession; God installs his king on Zion, his holy mountain;
+    Rulers told to serve God with trembling and ''kiss the son'' (nashqu bar); Happy are all who take
+    refuge (hosim) in God; The king will break the nations with a rod of iron and shatter them like a
+    potter''s vessel; Whether God has or begets a son [contrast between the texts]; God does not beget
+    and was not begotten [contrast between the texts]; Nations and kings of the earth conspire against
+    YHWH and his anointed (mashiah); They say ''al-Rahman has taken a son''; it is not fitting for the
+    Merciful [response between the texts]; Whether God has, begets or takes sons or other offspring [contrast
+    between the texts]; God in heaven laughs at and mocks those who plot against him or the righteous;
+    Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]; and
+    1 more.'
   basis: reading
 - text: 'Only in ''Uzayr and the Messiah called sons of God; rabbis and monks as lords: Polemic: the Jews
     are said to call ''Uzayr (Ezra?) son of God; People of the Book took their rabbis (ahbar) and monks
-    as lords besides God; Many rabbis and monks devour people''s wealth wrongfully; Opponents wish to
-    put out God''s light with their mouths, but God will perfect his light; Hoarded gold and silver are
-    heated in hell and used to brand the hoarders'' foreheads, sides and backs; The standing of Ezra (ʿUzayr):
-    scribe or son of God [divergence between the texts]; Polemic against calling the Messiah son of God;
-    God sent his messenger with guidance and the religion of truth to make it prevail over all religion;
-    A bribe blinds the clear-sighted and perverts the words of the righteous.'
+    as lords besides God; Religious personnel eat up goods that are not theirs (the god''s offerings,
+    people''s wealth) [divergence between the texts]; Many rabbis and monks devour people''s wealth wrongfully;
+    Opponents wish to put out God''s light with their mouths, but God will perfect his light; Hoarded
+    gold and silver are heated in hell and used to brand the hoarders'' foreheads, sides and backs; Silver
+    is hidden away: wrapped in rags, sealed in jars and boxes and buried in a hole in the cattle-pen or
+    a dark corner of the house; The standing of Ezra (ʿUzayr): scribe or son of God [divergence between
+    the texts]; Polemic against calling the Messiah son of God; God sent his messenger with guidance and
+    the religion of truth to make it prevail over all religion; A bribe blinds the clear-sighted and perverts
+    the words of the righteous.'
   basis: reading
 - text: 'Psalm 2 - the nations rage; the king as God''s son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

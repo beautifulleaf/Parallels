@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After crossing the sea the people see idol-worshipers and ask the
-    prophet for a god like theirs (weight 6.3). Pair score 6.3.'
+    prophet for a god like theirs (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The chosen place; profane slaughter; blood prohibition: Do not inquire how the nations
     served their gods in order to imitate them; Every man doing what is right in his own eyes; Meat may

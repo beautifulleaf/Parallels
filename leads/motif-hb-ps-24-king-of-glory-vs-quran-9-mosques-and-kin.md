@@ -18,15 +18,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Entrance liturgy: ''Who may dwell on your holy mountain?'' answered
-    by a list of ethical qualifications (weight 5.8). Pair score 5.8.'
+    by a list of ethical qualifications (weight 6.8). Pair score 6.8.'
   basis: reading
-- text: 'Only in Psalm 24 - lift up your heads, O gates: Who shall ascend the mountain of YHWH? He who
-    has clean hands and a pure heart and has not sworn deceitfully; God founded the earth upon the seas
-    and established it upon the rivers; Antiphonal question ''Who is the King of Glory?'' answered ''YHWH
-    strong and mighty, YHWH of hosts''; Gates and everlasting doors are told to lift up their heads that
-    the King of Glory may come in; Wonder done ''so that you may know that the earth belongs to YHWH'';
-    God celebrated as a warrior (''YHWH is a man of war''); The marker selah interrupts the psalm; Psalm
-    superscription ascribes the poem to David (le-david).'
+- text: 'Only in Psalm 24 - lift up your heads, O gates: God founded the earth upon the seas and established
+    it upon the rivers; Antiphonal question ''Who is the King of Glory?'' answered ''YHWH strong and mighty,
+    YHWH of hosts''; Gates and everlasting doors are told to lift up their heads that the King of Glory
+    may come in; Wonder done ''so that you may know that the earth belongs to YHWH''; Who shall ascend
+    the mountain of YHWH? He who has clean hands and a pure heart and has not sworn deceitfully; The marker
+    selah interrupts the psalm; God celebrated as a warrior (''YHWH is a man of war''); Psalm superscription
+    ascribes the poem to David (le-david).'
   basis: reading
 - text: 'Only in Who maintains the mosques; God above family: Giving water to pilgrims and tending the
     Sacred Mosque are not equal to faith and striving; God''s good pleasure (ridwan) is greater than the
@@ -34,7 +34,8 @@ evidence:
     children for God''s covenant; Do not take fathers or brothers as allies against faith; love of God
     must outweigh family, wealth, trade and homes; Only those who believe, pray and give alms may maintain
     God''s places of worship; To obey is better than sacrifice; The Levites kill idolaters including their
-    own kin and are consecrated for it.'
+    own kin and are consecrated for it; Loyalty to the lord overrides a listed series of kin: father,
+    mother, son, brother, kinsman.'
   basis: reading
 - text: 'Psalm 24 - lift up your heads, O gates: tagged by Claude (model), reading the Hebrew.'
   basis: reading

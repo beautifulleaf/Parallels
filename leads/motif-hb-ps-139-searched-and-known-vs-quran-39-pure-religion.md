@@ -20,32 +20,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God formed the kidneys and wove (knit) the speaker in his mother''s
-    womb (weight 5.8). Pair score 5.8.'
+    womb (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Psalm 139, God''s all-knowing presence and the embryo: Darkness is not dark to God; night
     shines like day, darkness and light are alike; ''YHWH, you have searched me and known me'': God knows
-    sitting and rising, thoughts from afar, every word before it is spoken; Nowhere to flee God''s spirit:
-    if I ascend to heaven you are there, if I make my bed in Sheol you are there; ''Do I not hate those
-    who hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar)
-    and dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s
-    leave at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti)
-    in the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before
-    God brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
+    sitting and rising, thoughts from afar, every word before it is spoken; ''Do I not hate those who
+    hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar) and
+    dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s leave
+    at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti) in
+    the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before God
+    brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
     between the texts]; God''s knowledge of a person''s thoughts and words, from afar or from near [divergence
     between the texts]; God knows what the earth diminishes of the dead bodies, and with him is a preserving
-    record; and 15 more.'
+    record; Nowhere to flee God''s spirit: if I ascend to heaven you are there, if I make my bed in Sheol
+    you are there; and 15 more.'
   basis: reading
 - text: 'Only in Pure religion; no son for God; creation from one soul in three darknesses: God sent down
     for you eight pairs of livestock; Idolaters say ''we worship them only that they may bring us near
     to God''; Had God wished to take a son he would have chosen from what he creates whatever he willed;
     glory be to him, the One; God creates you in your mothers'' bellies creation after creation in three
-    darknesses; God wraps (yukawwir) the night around the day and the day around the night; Was not God''s
-    earth wide enough for you to emigrate (hijra) in it?; How God made the human mate, and for what purpose
-    [divergence between the texts]; The believers'' sides forsake their beds as they call on their Lord
-    in fear and hope (night vigil); First woman made from the man''s rib or side while he sleeps; Whether
-    God has, begets or takes sons or other offspring [contrast between the texts]; No burdened soul bears
-    another''s burden; even a relative will not carry any of it; Sun and moon are subjected, each running
-    to an appointed term; and 2 more.'
+    darknesses; The deity sends sheep or livestock down to humankind; God wraps (yukawwir) the night around
+    the day and the day around the night; How many first humans are made: seven pairs, or one soul and
+    its mate [divergence between the texts]; Was not God''s earth wide enough for you to emigrate (hijra)
+    in it?; Members of the deity''s court speak for a petitioner before the deity [response between the
+    texts]; How God made the human mate, and for what purpose [divergence between the texts]; Whether
+    the creator has offspring though he has no consort [neutral] [divergence between the texts]; The believers''
+    sides forsake their beds as they call on their Lord in fear and hope (night vigil); and 6 more.'
   basis: reading
 - text: 'Psalm 139, God''s all-knowing presence and the embryo: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,7 +19,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 6.0). Pair score 6.0.'
+- text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and

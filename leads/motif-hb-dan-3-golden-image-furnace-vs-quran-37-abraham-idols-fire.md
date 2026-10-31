@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero thrown into a fire or furnace by a king or people (weight 5.3).
-    Pair score 5.3.'
+- text: 'Shared motifs, rarest first: Hero thrown into a fire or furnace by a king or people (weight 6.2).
+    Pair score 6.2.'
   basis: reading
 - text: 'Only in The golden image and the fiery furnace: God sends his angel to rescue his servants from
     death; All are commanded to bow to the king''s image on pain of being thrown into a blazing furnace;

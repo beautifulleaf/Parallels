@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who kill prophets and those who enjoin justice are warned
-    of punishment (weight 6.7). Pair score 6.7.'
+    of punishment (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Joash repairs the temple with the collection chest; after Jehoiada''s death he stones
     Zechariah: A king who was righteous under a mentor turns to idolatry after the mentor''s death; A
     child king does right as long as his priestly guardian lives; A chest is set at the temple gate for
     donations, emptied daily by royal and priestly officials; A murdered prophet''s dying words call on
-    God to see and avenge; A king kills the son of the man who saved and raised him, forgetting his loyalty;
-    The Levites are slow to carry out the king''s command and are rebuked; A priest is buried among the
-    kings because of the good he did; The priestly guardian takes two wives for the king; The priest dies
-    old and full of days at 130; A prophet is stoned in the temple court at the king''s command; God sends
-    prophets to warn the people but they will not listen; Surplus donations are made into gold and silver
-    temple vessels; and 9 more.'
+    God to see and avenge; The Levites are slow to carry out the king''s command and are rebuked; A priest
+    is buried among the kings because of the good he did; The priestly guardian takes two wives for the
+    king; The priest dies old and full of days at 130; A prophet is stoned in the temple court at the
+    king''s command; God sends prophets to warn the people but they will not listen; Surplus donations
+    are made into gold and silver temple vessels; A levy instituted by Moses collected for the sanctuary;
+    and 9 more.'
   basis: reading
 - text: 'Only in The two hosts, worldly lures, God''s witness: God bears witness there is no god but he,
     and so do the angels and those of knowledge; Sign in two hosts that met: one saw the other as twice

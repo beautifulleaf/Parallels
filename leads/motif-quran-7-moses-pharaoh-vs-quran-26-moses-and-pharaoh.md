@@ -23,13 +23,13 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The court magicians ask the king for a reward if they win and are
-    promised closeness (weight 6.7); The defeated magicians fall prostrate and declare faith in the Lord
-    of Moses and Aaron (weight 6.3); The prophet''s staff-serpent swallows the magicians'' staff-serpents
-    (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 5.6);
-    Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 5.4); A staff thrown
-    down becomes a serpent and turns back into a staff (weight 5.4); Prophet''s wonders are imitated by
-    the king''s magicians in a contest (weight 5.1); The returning waters drown the pursuing army; not
-    one survives (weight 4.5). Pair score 45.0.'
+    promised closeness (weight 7.7); The defeated magicians fall prostrate and declare faith in the Lord
+    of Moses and Aaron (weight 7.3); The prophet''s staff-serpent swallows the magicians'' staff-serpents
+    (weight 7.1); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 6.6);
+    Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 6.5); A staff thrown
+    down becomes a serpent and turns back into a staff (weight 6.5); Prophet''s wonders are imitated by
+    the king''s magicians in a contest (weight 6.0); The returning waters drown the pursuing army; not
+    one survives (weight 5.5). Pair score 53.3.'
   basis: reading
 - text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
     years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
@@ -37,12 +37,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians
-    fail to imitate a wonder and confess ''This is the finger of God'' [divergence between the texts];
-    Threatened believers say ''to our Lord we return'' and pray for patience and to die as muslims; and
-    17 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 27 more.'
   basis: reading
 - text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
     the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
@@ -52,9 +51,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 35 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 43 more.'
   basis: reading
 - text: 'Moses before Pharaoh, the magicians and the plagues: tagged by Claude (model), reading the Arabic.'
   basis: reading

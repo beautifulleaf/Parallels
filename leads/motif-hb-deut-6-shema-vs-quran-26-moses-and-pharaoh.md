@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel will inherit cities, houses, cisterns, vineyards and olives
-    they did not build or plant (weight 6.0). Pair score 6.0.'
+    they did not build or plant (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The Shema and the instruction to teach: When your son asks what the laws mean, recite
-    the exodus story; Swear only by God''s name; Teach the words to your children when sitting, walking,
-    lying down and rising; Words bound as a sign on the hand and between the eyes (phylacteries); Do not
-    put God to the test as at Massah; When you eat and are full, beware lest you forget God; Words written
-    on doorposts and gates (mezuzah); Love God with all your heart, soul and might; Those who remember
-    God standing, sitting and on their sides and reflect on creation; Hear O Israel: YHWH our God, YHWH
-    is one; Promised land described as flowing with milk and honey.'
+    the exodus story; Words bound as a sign on the hand and between the eyes (phylacteries); Do not put
+    God to the test as at Massah; Swear only by God''s name; When you eat and are full, beware lest you
+    forget God; Words written on doorposts and gates (mezuzah); Those who remember God standing, sitting
+    and on their sides and reflect on creation; Teach the words to your children when sitting, walking,
+    lying down and rising; Hear O Israel: YHWH our God, YHWH is one; Love God with all your heart, soul
+    and might; Promised land described as flowing with milk and honey.'
   basis: reading
 - text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
     the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
@@ -37,9 +37,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 42 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 50 more.'
   basis: reading
 - text: 'The Shema and the instruction to teach: tagged by Claude (model), reading the Hebrew.'
   basis: reading

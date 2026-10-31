@@ -21,15 +21,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mother of Moses, Aaron and Miriam named (Jochebed, born to Levi
-    in Egypt) (weight 6.7); Miriam / Maryam named as the daughter of Amram / ʿImran (weight 6.3). Pair
-    score 13.0.'
+    in Egypt) (weight 7.7); Miriam / Maryam named as the daughter of Amram / ʿImran (weight 7.3). Pair
+    score 15.1.'
   basis: reading
 - text: 'Only in Census of the second generation on the plains of Moab: A second census counts the new
-    generation by clans; The sons of the rebel did not die with him; The family of Amram / Imran and Miriam
-    / Maryam [divergence between the texts]; Land divided by lot and in proportion to tribal size; Priests
-    die for offering ''strange fire''; Daughters petition and win the right to inherit when there is no
-    son; Whole adult generation condemned to die in the desert; only children enter; A lone daughter is
-    named in a male genealogy (Dinah, Serah); The earth opens its mouth and swallows rebels alive into
+    generation by clans; The family of Amram / Imran and Miriam / Maryam [divergence between the texts];
+    Land divided by lot and in proportion to tribal size; The sons of the rebel did not die with him;
+    Priests die for offering ''strange fire''; Daughters petition and win the right to inherit when there
+    is no son; Whole adult generation condemned to die in the desert; only children enter; A lone daughter
+    is named in a male genealogy (Dinah, Serah); The earth opens its mouth and swallows rebels alive into
     Sheol.'
   basis: reading
 - text: 'Only in Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives
@@ -46,7 +46,7 @@ evidence:
     secret to one of his wives; she divulged it, and God informed him; The wives of Noah and Lot, married
     to righteous servants, betrayed them and are told to enter the Fire; Father or husband may annul a
     woman''s vow on the day he hears it; A man''s vow or oath must be fulfilled as uttered [contrast between
-    the texts]; and 9 more.'
+    the texts]; and 12 more.'
   basis: reading
 - text: 'Census of the second generation on the plains of Moab: tagged by Claude (model), reading the
     Hebrew.'

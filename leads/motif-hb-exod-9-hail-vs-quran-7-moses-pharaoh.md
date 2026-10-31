@@ -20,10 +20,10 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
-    is lifted (weight 5.8); King asks the prophet to intercede with God to remove a plague (weight 5.6);
-    Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 5.4); The king''s
-    heart is hardened (by himself or by God) so he refuses to release the people (weight 4.6). Pair score
-    21.4.'
+    is lifted (weight 6.8); King asks the prophet to intercede with God to remove a plague (weight 6.6);
+    Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 6.5); The king''s
+    heart is hardened (by himself or by God) so he refuses to release the people (weight 5.7). Pair score
+    25.6.'
   basis: reading
 - text: 'Only in Plague 7: hail and fire: Narrator dates a plague by the growth stage of named crops (barley
     in ear, flax in bud, wheat late); Some of the king''s servants fear God''s word and bring their slaves
@@ -34,8 +34,8 @@ evidence:
     between the texts]; A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will
     you kill a man for saying my Lord is God?''; The king confesses he has sinned and that God is righteous;
     Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves; Wonder
-    done ''so that you may know that the earth belongs to YHWH''; God sends hail mingled with fire and
-    thunder from heaven; and 1 more.'
+    done ''so that you may know that the earth belongs to YHWH''; Prophet spreads out his palms to God
+    in prayer; and 1 more.'
   basis: reading
 - text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
     years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
@@ -43,11 +43,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 21 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 31 more.'
   basis: reading
 - text: 'Plague 7: hail and fire: tagged by Claude (model), reading the Hebrew.'
   basis: reading

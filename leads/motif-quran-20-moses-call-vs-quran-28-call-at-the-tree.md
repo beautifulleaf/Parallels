@@ -12,8 +12,8 @@ traditions:
 layers:
 - motif
 motifs:
-- prophet-sees-fire-goes-to-fetch-brand
 - shepherd-called-at-mountain-of-god
+- prophet-sees-fire-goes-to-fetch-brand
 - burning-bush-not-consumed
 - hand-turned-leprous-white-as-snow
 - prophet-slow-of-speech
@@ -21,27 +21,27 @@ motifs:
 - staff-becomes-serpent
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Traveling with his family, the prophet sees a fire and goes to bring
-    back a brand or find guidance there (weight 6.3); A shepherd tending flocks comes to the mountain
-    of God and is called (weight 6.3); God appears in a bush that burns without being consumed (weight
-    6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 5.6); Prophet
-    protests he is heavy of mouth and tongue or ''uncircumcised of lips'' (weight 5.6); An eloquent brother
-    is appointed to speak for the hero, who is ''as God'' to him (weight 5.6); A staff thrown down becomes
-    a serpent and turns back into a staff (weight 5.4). Pair score 40.8.'
+- text: 'Shared motifs, rarest first: A shepherd tending flocks comes to the mountain of God and is called
+    (weight 7.3); Traveling with his family, the prophet sees a fire and goes to bring back a brand or
+    find guidance there (weight 7.3); God appears in a bush that burns without being consumed (weight
+    7.1); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 6.6); Prophet
+    protests he is heavy of mouth and tongue or ''uncircumcised of lips'' (weight 6.6); An eloquent brother
+    is appointed to speak for the hero, who is ''as God'' to him (weight 6.6); A staff thrown down becomes
+    a serpent and turns back into a staff (weight 6.5). Pair score 48.2.'
   basis: reading
 - text: 'Only in Moses at the fire in the holy valley Tuwa: The Hour is coming; God almost keeps it hidden
     so each soul is repaid for its striving; Prophet prays for his chest to be expanded and the knot of
     his tongue untied; Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating
     down leaves for sheep, other needs; The prophet asks that his brother be made his helper (wazīr) and
     partner in his mission; The prophet asks that his brother be made his helper (wazīr) and partner in
-    his mission [divergence between the texts]; The call comes in the holy valley named Ṭuwā; Asked what
-    is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves for sheep, other
-    needs [divergence between the texts]; Traveling with his family, the prophet sees a fire and goes
-    to bring back a brand or find guidance there [divergence between the texts]; Prophet protests he is
-    heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between the texts]; Prophet''s
-    hand turns leprous, white as snow, and is restored as a sign [divergence between the texts]; The call
-    comes in the holy valley named Ṭuwā [divergence between the texts]; Hero told to remove his sandals
-    because the place is holy ground; and 1 more.'
+    his mission [divergence between the texts]; The call comes in the holy valley named Ṭuwā; A messenger''s
+    heavy or knotted tongue and its remedy [divergence between the texts]; Asked what is in his hand,
+    the prophet lists his staff''s uses: leaning, beating down leaves for sheep, other needs [divergence
+    between the texts]; Traveling with his family, the prophet sees a fire and goes to bring back a brand
+    or find guidance there [divergence between the texts]; Prophet protests he is heavy of mouth and tongue
+    or ''uncircumcised of lips'' [divergence between the texts]; A serpent appears and the trembling man
+    is told ''do not fear'' [neutral] [divergence between the texts]; The deity gives the one he commissions
+    a sign on his arm or hand [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Only in The fire on the side of the Mount; the call from the tree; Aaron as helper: Moses says
     his brother Aaron is more eloquent of tongue and asks for him as a helper to confirm him; Moses is
@@ -61,8 +61,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Traveling with his family, the prophet sees a fire and goes to bring back a brand or find guidance
-  there
+finding: A shepherd tending flocks comes to the mountain of God and is called
 kinds:
 - shared
 units:
@@ -73,26 +72,6 @@ units:
   title: The fire on the side of the Mount; the call from the tree; Aaron as helper
   tradition: islam
 matches:
-- kind: shared
-  label: Traveling with his family, the prophet sees a fire and goes to bring back a brand or find guidance
-    there
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 20:10
-      lang: ar
-      text: إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم
-        مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى
-    note: '''Stay here, I have perceived a fire; perhaps I will bring you a brand (qabas) or find guidance
-      at the fire'''
-  - tradition: islam
-    passages:
-    - ref: Quran 28:29
-      lang: ar
-      text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا
-        قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
-        جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
-    note: jadhwa min al-nār, 'a firebrand', that you may warm yourselves
 - kind: shared
   label: A shepherd tending flocks comes to the mountain of God and is called
   sides:
@@ -113,6 +92,26 @@ matches:
       lang: ar
       text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ
         مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+- kind: shared
+  label: Traveling with his family, the prophet sees a fire and goes to bring back a brand or find guidance
+    there
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:10
+      lang: ar
+      text: إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم
+        مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى
+    note: '''Stay here, I have perceived a fire; perhaps I will bring you a brand (qabas) or find guidance
+      at the fire'''
+  - tradition: islam
+    passages:
+    - ref: Quran 28:29
+      lang: ar
+      text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا
+        قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
+        جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
+    note: jadhwa min al-nār, 'a firebrand', that you may warm yourselves
 - kind: shared
   label: God appears in a bush that burns without being consumed
   sides:

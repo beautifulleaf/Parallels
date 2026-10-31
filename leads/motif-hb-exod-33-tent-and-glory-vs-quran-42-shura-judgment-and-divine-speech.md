@@ -22,17 +22,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How God speaks to prophets: face to face, in vision or dream, from
-    behind a veil, or by a messenger [divergence between the texts] (weight 6.3); No human can see God''s
-    face and live (weight 5.8). Pair score 12.1.'
+    behind a veil, or by a messenger [divergence between the texts] (weight 7.3); No human can see God''s
+    face and live (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Mourning, the tent outside the camp, and Moses sees God''s back: God refuses to go among
     the people lest he consume them on the way; Joshua, the young attendant, never leaves the tent; God
-    tells the prophet: I know you by name and you have found favor; The people strip off their ornaments
-    in mourning or penitence; The people stand at their tent doors and bow as the prophet goes to meet
-    God; A tent of meeting pitched outside the camp where all who seek God go; God''s own Presence (face)
-    will go with the people; God declares he will be gracious to whom he will be gracious; Moses asks
-    to see God, his glory or God himself [divergence between the texts]; God called Moses and drew him
-    near in confidential converse (najiyy); Moses travels with his young servant (fata); After the calf
+    tells the prophet: I know you by name and you have found favor; The people stand at their tent doors
+    and bow as the prophet goes to meet God; A tent of meeting pitched outside the camp where all who
+    seek God go; God''s own Presence (face) will go with the people; God declares he will be gracious
+    to whom he will be gracious; Moses asks to see God, his glory or God himself [divergence between the
+    texts]; God called Moses and drew him near in confidential converse (najiyy); Moses travels with his
+    young servant (fata); The people strip off their ornaments in mourning or penitence; After the calf
     the people mourn or repent of what they did [divergence between the texts]; and 9 more.'
   basis: reading
 - text: 'Only in The damned seek a way back; God gives children as he wills; three ways God speaks to
@@ -41,9 +41,12 @@ evidence:
     he exults; when evil strikes him for his deeds he is ungrateful; Before revelation the prophet did
     not know what the Book or faith was; The revelation is a spirit (ruh) from God''s command and a light
     by which he guides; God speaks to a human only by inspiration (wahy), from behind a veil (hijab),
-    or by sending a messenger; God speaks to one prophet ''mouth to mouth'', not in dreams or riddles;
-    God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom he wills;
-    The prophet is not a guardian over people; his duty is only to deliver the message (al-balagh).'
+    or by sending a messenger; Children come from the divine, as a gift; A deity deliberately makes a
+    human barren [divergence between the texts]; The modes in which a deity speaks with a human: dream,
+    waking speech, revelation, veil, messenger [divergence between the texts]; God speaks to one prophet
+    ''mouth to mouth'', not in dreams or riddles; God grants daughters to whom he wills, sons to whom
+    he wills, or both, and makes barren whom he wills; The prophet is not a guardian over people; his
+    duty is only to deliver the message (al-balagh).'
   basis: reading
 - text: 'Mourning, the tent outside the camp, and Moses sees God''s back: tagged by Claude (model), reading
     the Hebrew.'

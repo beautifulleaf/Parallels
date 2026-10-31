@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They say ''al-Rahman has taken a son''; it is not fitting for the
-    Merciful [response between the texts] (weight 6.3). Pair score 6.3.'
+    Merciful [response between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 2 - the nations rage; the king as God''s son: God gives the king the nations as
-    inheritance and the ends of the earth as possession; God tells the king ''You are my son; today I
-    have begotten you''; God installs his king on Zion, his holy mountain; Rulers told to serve God with
-    trembling and ''kiss the son'' (nashqu bar); Happy are all who take refuge (hosim) in God; The king
-    will break the nations with a rod of iron and shatter them like a potter''s vessel; Whether God has
-    a son, or calls his anointed king his begotten son [response between the texts]; Whether God has or
-    begets a son [contrast between the texts]; God does not beget and was not begotten [contrast between
-    the texts]; Nations and kings of the earth conspire against YHWH and his anointed (mashiah); Whether
-    God has, begets or takes sons or other offspring [contrast between the texts]; God in heaven laughs
-    at and mocks those who plot against him or the righteous; and 1 more.'
+    inheritance and the ends of the earth as possession; God installs his king on Zion, his holy mountain;
+    Rulers told to serve God with trembling and ''kiss the son'' (nashqu bar); Happy are all who take
+    refuge (hosim) in God; The king will break the nations with a rod of iron and shatter them like a
+    potter''s vessel; Whether God has a son, or calls his anointed king his begotten son [response between
+    the texts]; Whether God has or begets a son [contrast between the texts]; God does not beget and was
+    not begotten [contrast between the texts]; Nations and kings of the earth conspire against YHWH and
+    his anointed (mashiah); Whether God has, begets or takes sons or other offspring [contrast between
+    the texts]; God in heaven laughs at and mocks those who plot against him or the righteous; Whether
+    God has a son, or calls his anointed king his begotten son [contrast between the texts]; and 1 more.'
   basis: reading
 - text: 'Only in Kneeling around hell, all will come to it; ''al-Rahman has taken a son'' (Surah 19:66-98):
     Everyone in the heavens and earth comes to the Merciful only as a servant; A denier boasts he will
@@ -42,7 +42,7 @@ evidence:
     out the one most insolent against the Merciful; Of the destroyed generations not one can be perceived
     nor a whisper heard; The pious are gathered to the Merciful as an honored delegation while the guilty
     are driven to hell like thirsty herds; God made the scripture easy in the prophet''s own tongue to
-    give good news and warn; and 11 more.'
+    give good news and warn; and 14 more.'
   basis: reading
 - text: 'Psalm 2 - the nations rage; the king as God''s son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

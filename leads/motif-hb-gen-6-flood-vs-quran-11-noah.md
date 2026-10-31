@@ -15,61 +15,64 @@ traditions:
 layers:
 - motif
 motifs:
-- vessel-rests-on-mountain-as-divergence
+- how-the-flood-waters-end-as-divergence
 - noahs-speech-to-god
 - onset-of-the-flood
-- noahs-standing-before-god-as-divergence
-- who-of-noahs-household-is-saved-as-divergence
-- end-of-the-flood-voyage
 - future-of-humankind-after-the-flood-as-contrast
-- how-the-flood-waters-end-as-divergence
+- noahs-standing-before-god-as-divergence
+- vessel-rests-on-mountain-as-divergence
+- who-of-noahs-household-is-saved-as-divergence
 - waters-cover-highest-mountains
-- flood-hero-speaks-before-flood
 - cause-of-the-destruction
+- end-of-the-flood-voyage
+- flood-hero-speaks-before-flood
 - animals-in-pairs
 - vessel-rests-on-mountain
-- divine-decision-to-destroy
 - build-vessel-on-instruction
+- divine-decision-to-destroy
 - hero-warned-by-deity
 - family-saved
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Vessel comes to rest on a named mountain [divergence between the
-    texts] (weight 6.7); Whether and how Noah speaks to God (weight 6.7); When and from where the flood
-    waters come (weight 6.7); Noah''s standing before God: blameless, or in need of forgiveness [divergence
-    between the texts] (weight 6.7); Which of Noah''s household enter the ark and survive [divergence
-    between the texts] (weight 6.7); What the flood hero does when the vessel comes to rest (weight 6.7);
-    What God says of later generations after the flood: no repeat, or punishment to come [contrast between
-    the texts] (weight 6.7); How the flood waters are stopped and subside [divergence between the texts]
-    (weight 6.7); Waters rise above the highest mountains (fifteen cubits) (weight 6.7); Whether the flood
-    hero speaks to his people before the flood (weight 6.3); Why God destroyed a generation or a people
-    (weight 6.3); Animals taken aboard in pairs (weight 5.8); Vessel comes to rest on a named mountain
-    (weight 5.4); Deity decides to destroy humankind (weight 5.3); Hero builds a vessel on divine instruction
-    (weight 5.2); Hero privately warned of the coming flood by a deity (weight 5.1); Hero''s family saved
-    with him (weight 4.5). Pair score 104.1.'
+- text: 'Shared motifs, rarest first: How the flood waters are stopped and subside [divergence between
+    the texts] (weight 7.7); Whether and how Noah speaks to God (weight 7.7); When and from where the
+    flood waters come (weight 7.7); What God says of later generations after the flood: no repeat, or
+    punishment to come [contrast between the texts] (weight 7.7); Noah''s standing before God: blameless,
+    or in need of forgiveness [divergence between the texts] (weight 7.7); Vessel comes to rest on a named
+    mountain [divergence between the texts] (weight 7.7); Which of Noah''s household enter the ark and
+    survive [divergence between the texts] (weight 7.7); Waters rise above the highest mountains (fifteen
+    cubits) (weight 7.3); Why God destroyed a generation or a people (weight 7.3); What the flood hero
+    does when the vessel comes to rest (weight 7.1); Whether the flood hero speaks to his people before
+    the flood (weight 6.8); Animals taken aboard in pairs (weight 6.5); Vessel comes to rest on a named
+    mountain (weight 6.4); Hero builds a vessel on divine instruction (weight 6.2); Deity decides to destroy
+    humankind (weight 6.1); Hero privately warned of the coming flood by a deity (weight 5.8); Hero''s
+    family saved with him (weight 5.4). Pair score 119.3.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 29 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What sets the flood in
+    motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts];
+    How the ark is described [divergence between the texts]; What the flood hero does when the vessel
+    comes to rest [divergence between the texts]; God made Noah''s descendants the only survivors; Whether
+    and how Noah speaks to God [divergence between the texts]; and 29 more.'
   basis: reading
 - text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Embark: ''in the name of God be its
     sailing and its mooring''; God commands: ''Earth, swallow your water; sky, withhold!'' and the water
     subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
     the prophet because only the lowest of them follow him; God answers that the drowned son is not of
     Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
-    unknown to him and his people before; The ark sails through waves like mountains; The prophet''s opponents
-    object that only the lowliest follow him; he refuses to drive the believers away; Someone seeks refuge
-    on a mountain and is drowned; A son of Noah is found unworthy, and what follows [divergence between
-    the texts]; The prophet disclaims having God''s treasuries, knowing the unseen, or being an angel;
-    A specific sign marks the moment to board; and 12 more.'
+    unknown to him and his people before; The ark sails through waves like mountains; The flood hero is
+    blessed after the flood; the content of the blessing [divergence between the texts]; What the flood
+    hero receives when he leaves the vessel [divergence between the texts]; A son who rejects his father''s
+    teaching is to be driven away: ''he is not your son, he was not born to you'' [divergence between
+    the texts]; The earth is addressed in the vocative and bidden to open, receive or swallow something
+    [shared matter] [divergence between the texts]; How the flood waters stop [divergence between the
+    texts]; and 25 more.'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading

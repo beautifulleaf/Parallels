@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I set before you life and death, blessing and curse: choose life
-    (weight 5.6). Pair score 5.6.'
+    (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Return from exile; the near commandment; choose life: God himself will circumcise your
-    heart and your offspring''s heart; Blessing and curse set before the people as a choice; I set before
-    you life and death, blessing and curse: choose life [divergence between the texts]; Those who break
-    God''s covenant and sever ties have the curse and the evil abode; The commandment is not in heaven
-    or beyond the sea but in your mouth and heart; God tries towns with hardship, then with ease, then
-    seizes them suddenly; God will remove the heart of stone and give a heart of flesh and a new spirit;
-    Heaven and earth called as witnesses against the people; In the end of days, in distress, the people
-    will seek God and return; God burdens no soul beyond its capacity; God will gather the exiles even
+    heart and your offspring''s heart; I set before you life and death, blessing and curse: choose life
+    [divergence between the texts]; Those who break God''s covenant and sever ties have the curse and
+    the evil abode; The commandment is not in heaven or beyond the sea but in your mouth and heart; God
+    tries towns with hardship, then with ease, then seizes them suddenly; Blessing and curse set before
+    the people as a choice; God will remove the heart of stone and give a heart of flesh and a new spirit;
+    In the end of days, in distress, the people will seek God and return; God burdens no soul beyond its
+    capacity; Heaven and earth called as witnesses against the people; God will gather the exiles even
     from the end of heaven and restore them.'
   basis: reading
 - text: 'Only in The human: the mingled drop and the camphor cup: The blessed wear green garments of fine
     silk (sundus) and brocade (istabraq) and bracelets of silver; Immortal youths (wildan mukhalladun)
     circulate among the blessed, like scattered pearls; The righteous drink from a cup mixed with camphor
     (kafur) or ginger (zanjabil); Vessels of silver and goblets of crystal made of silver, measured exactly,
-    are passed round; The righteous did not eat his morsel alone without sharing with the orphan; God
-    is able to replace a people with others better than they, and none can outrun him; There was a stretch
-    of time when the human was not yet a thing worth mentioning; In paradise the shades are close and
-    the fruit clusters hang low within reach; God as shade: the sun shall not strike you by day nor the
-    moon by night; You will not will unless God wills; The righteous give and feed solely for the face
-    of God, seeking no repayment or thanks; Paradise has named springs: Salsabil, Tasnim (and a spring
-    the servants of God make gush forth); and 4 more.'
+    are passed round; Young servers go round with a variety of vessels serving a mixed drink; Feeding
+    the one without bread, and the motive given for it [divergence between the texts]; God is able to
+    replace a people with others better than they, and none can outrun him; There was a stretch of time
+    when the human was not yet a thing worth mentioning; In paradise the shades are close and the fruit
+    clusters hang low within reach; The divine name(s) are to be pronounced at morning and at evening;
+    God as shade: the sun shall not strike you by day nor the moon by night; The righteous did not eat
+    his morsel alone without sharing with the orphan; and 7 more.'
   basis: reading
 - text: 'Return from exile; the near commandment; choose life: tagged by Claude (model), reading the Hebrew.'
   basis: reading

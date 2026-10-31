@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God casts terror (ru''b) into the hearts of the unbelievers (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The angel sent ahead and promises of conquest: The promised borders run from the Red
     Sea to the Sea of the Philistines and to the River; Obedience is rewarded with health, fertility and
     full lifespan; Enemies driven out little by little lest wild beasts multiply; Israel must tear down
     the standing stones of the Canaanite gods; God sends an angel ahead of Israel who bears God''s name;
-    Make no covenant with the inhabitants or their gods, who would be a snare; God sends the hornet to
-    drive out the inhabitants; God sends terror ahead to panic the enemies.'
+    God sends the hornet to drive out the inhabitants; Make no covenant with the inhabitants or their
+    gods, who would be a snare; God sends terror ahead to panic the enemies.'
   basis: reading
 - text: 'Only in Badr and Uhud: God helped you at Badr when you were weak; The prophet told to be gentle,
     pardon them and consult them (shawirhum) in the matter; Such days God alternates among people; Defeat
@@ -36,7 +36,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 17 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 25 more.'
   basis: reading
 - text: 'The angel sent ahead and promises of conquest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

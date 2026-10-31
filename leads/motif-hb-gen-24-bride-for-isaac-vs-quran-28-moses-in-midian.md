@@ -19,28 +19,32 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero meets his future wife at a well (weight 6.3); Future bride
-    or groom met at a well, leading to betrothal (weight 6.3). Pair score 12.6.'
+- text: 'Shared motifs, rarest first: Hero meets his future wife at a well (weight 7.3); Future bride
+    or groom met at a well, leading to betrothal (weight 7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in Abraham''s servant finds Rebekah for Isaac: God sends his angel ahead to guide the journey;
-    Departing bride blessed to become thousands of myriads; The bride is asked and consents to go (''I
-    will go''); Son brings bride into his dead mother''s tent and is comforted; Patriarch goes out to
-    meditate (or pray) in the field at evening; A trusted servant is sent abroad to find a bride for the
-    master''s son; Hero asks God for a specific sign to identify the right person (who will offer water);
-    Bride given a gold nose-ring and bracelets; Father insists his son''s wife come from his own kin,
-    not the local women; Bride covers herself with a veil on seeing the groom; On entering houses greet
-    one another with a blessed greeting from God; Oath sworn by placing the hand under the thigh of the
-    one demanding it; and 4 more.'
+    The bride is asked and consents to go (''I will go''); Son brings bride into his dead mother''s tent
+    and is comforted; Patriarch goes out to meditate (or pray) in the field at evening; Hero asks God
+    for a specific sign to identify the right person (who will offer water); Departing bride blessed to
+    become thousands of myriads; Father insists his son''s wife come from his own kin, not the local women;
+    Bride covers herself with a veil on seeing the groom; On entering houses greet one another with a
+    blessed greeting from God; Oath sworn by placing the hand under the thigh of the one demanding it;
+    Descendants will possess the gate of their enemies; A trusted servant is sent abroad to find a bride
+    for the master''s son; and 4 more.'
   basis: reading
 - text: 'Only in At the water of Midian; the two women, their old father and the marriage contract: The
     father offers one of his two daughters in marriage for eight years'' service, ten if the groom wishes;
     One of the women comes walking shyly to invite the hero to her father, who will reward him; The daughter
-    advises: ''The best one to hire is the strong and trustworthy''; The prophet''s father-in-law is a
-    foreign priest; Hero drives off shepherds and waters the flock of women at a well; What the Midianite
-    daughters do after Moses helps them [divergence between the texts]; Moses helps the women at the water
-    of Midian [divergence between the texts]; Moses'' father-in-law in Midian [divergence between the
-    texts]; Years of service given for a bride [divergence between the texts]; The terms of Moses'' marriage
-    in Midian [divergence between the texts]; Suitor serves the bride''s father seven years for her hand.'
+    advises: ''The best one to hire is the strong and trustworthy''; A foreign ruler or father is asked
+    to give his daughter to a fugitive come from Egypt [divergence between the texts]; The prophet''s
+    father-in-law is a foreign priest; A fugitive in the desert at the water: given water, or giving it
+    [neutral] [divergence between the texts]; Hero drives off shepherds and waters the flock of women
+    at a well; The foreign host gives the fugitive from Egypt his daughter in marriage, and on what terms
+    [neutral] [divergence between the texts]; A foreign host hears the fugitive''s account and reassures
+    him [neutral] [divergence between the texts]; A foreign host marries the fugitive to his daughter
+    [neutral] [divergence between the texts]; What the Midianite daughters do after Moses helps them [divergence
+    between the texts]; Moses helps the women at the water of Midian [divergence between the texts]; and
+    8 more.'
   basis: reading
 - text: 'Abraham''s servant finds Rebekah for Isaac: tagged by Claude (model), reading the Hebrew.'
   basis: reading

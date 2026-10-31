@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h),
-    or God makes them so (weight 6.7). Pair score 6.7.'
+    or God makes them so (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ezekiel''s commission as ''son of man'' to the rebellious house; he eats the scroll sweet
     as honey: Heavenly voice cries ''Blessed be the glory of YHWH from his place''; God makes the prophet''s

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Declaration that YHWH is God and there is no other besides him (weight
-    5.1). Pair score 5.1.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
     Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the
@@ -40,12 +40,12 @@ evidence:
 - text: 'Only in The litany ''Is there a god with God?'' and the unseen: As God began the first creation
     he will repeat it; God answers the distressed when he calls and removes the evil; God knows the secret
     and what is even more hidden; God records the peoples in a register, noting where each was born; Litany
-    of signs each ending ''Is there a god with God?''; God sends rain on the desert where no human lives,
-    to make grass sprout; The secret things belong to God; the revealed things to us and our children;
-    God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between them;
-    The world set upon pillars belonging to God; God set firm mountains on the earth lest it sway with
-    people; The listeners walk among the dwellings of generations God destroyed, a sign; God sends the
-    winds as heralds before his mercy and sends down pure water from the sky; and 2 more.'
+    of signs each ending ''Is there a god with God?''; Rhetorical question: who besides (among the gods)
+    can remove the sickness / the harm? None can; God sends rain on the desert where no human lives, to
+    make grass sprout; The secret things belong to God; the revealed things to us and our children; The
+    wind carries good tidings (Akkadian busrātu, Arabic bushrā); God let loose the two seas, one sweet,
+    one salt, with a barrier (barzakh) and partition between them; The world set upon pillars belonging
+    to God; God set firm mountains on the earth lest it sway with people; and 4 more.'
   basis: reading
 - text: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: tagged by Claude
     (model), reading the Hebrew.'

@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Priests feed on the people''s sin and set their heart on their iniquity
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in YHWH''s lawsuit; priests, divination and cultic harlotry: Men sacrifice with qedeshot
-    (cult women) and go aside with harlots; Prophet lists violations echoing the Decalogue: swearing,
-    lying, murder, theft, adultery; ''Like people, like priest'': both punished alike; My people are destroyed
-    for lack of knowledge; the priest who rejected knowledge is rejected; Israel is like a stubborn heifer;
-    YHWH brings a lawsuit (riv) against his people; The people consult their piece of wood and their staff
-    (rhabdomancy) gives them oracles; A ''spirit of harlotry'' (ruah zenunim) leads the people astray;
-    Because of sin the land mourns and beasts, birds and even fish of the sea perish; Bethel (''house
-    of God'') mocked as Beth-aven (''house of iniquity''); God forgets the damned today as they forgot
-    the meeting of this day; Pagan worship on high mountains, hills and under every green tree.'
+- text: 'Only in YHWH''s lawsuit; priests, divination and cultic harlotry: Prophet lists violations echoing
+    the Decalogue: swearing, lying, murder, theft, adultery; ''Like people, like priest'': both punished
+    alike; My people are destroyed for lack of knowledge; the priest who rejected knowledge is rejected;
+    Israel is like a stubborn heifer; YHWH brings a lawsuit (riv) against his people; Men sacrifice with
+    qedeshot (cult women) and go aside with harlots; The people consult their piece of wood and their
+    staff (rhabdomancy) gives them oracles; A ''spirit of harlotry'' (ruah zenunim) leads the people astray;
+    Bethel (''house of God'') mocked as Beth-aven (''house of iniquity''); Because of sin the land mourns
+    and beasts, birds and even fish of the sea perish; God forgets the damned today as they forgot the
+    meeting of this day; Pagan worship on high mountains, hills and under every green tree.'
   basis: reading
 - text: 'Only in Allies, apostates replaced, the mocked call to prayer, apes and swine: When you call
     to prayer they take it as mockery and play; A people whom God loves and who love him; Do not take

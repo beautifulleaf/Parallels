@@ -19,23 +19,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A land deed made in a sealed copy and an open copy, witnessed and
-    the silver weighed (weight 6.7). Pair score 6.7.'
+    the silver weighed (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jeremiah buys his cousin''s field at Anathoth during the siege: Sons and daughters passed
     through fire to Molech at the high places in the Valley of Ben-Hinnom; Deeds are put in an earthenware
     jar so they may last many days; God''s eyes are open on all the ways of humanity to repay each by
     his deeds; Incense offered to Baal and libations to other gods on the roofs of houses; A field bought
     for seventeen shekels of silver; The prophet buys a family field during siege as a sign that land
-    will again be bought; Siege ramps are raised against the city; The king will see the conquering king
-    eye to eye and speak with him mouth to mouth; God will give his people one heart and one way to fear
-    him always; The prophet is confined in the court of the guard in the palace; Baruch son of Neriah,
-    the prophet''s scribe; God promises an everlasting covenant (berit olam) with his people; and 5 more.'
+    will again be bought; The king will see the conquering king eye to eye and speak with him mouth to
+    mouth; God will give his people one heart and one way to fear him always; Siege ramps are raised against
+    the city; The prophet is confined in the court of the guard in the palace; Baruch son of Neriah, the
+    prophet''s scribe; God promises an everlasting covenant (berit olam) with his people; and 5 more.'
   basis: reading
 - text: 'Only in The debt verse: A debt for a fixed term must be written by a just scribe, dictated by
     the debtor or his guardian; Two male witnesses, or one man and two women so that if one errs the other
-    reminds her; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; A witness who
-    hears a public adjuration and withholds testimony bears guilt; How many witnesses are required [divergence
-    between the texts]; No one put to death on the testimony of a single witness.'
+    reminds her; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; The scribe who
+    writes a debt or account must not cheat with his pen; he writes with justice; A transfer of goods
+    (gift, sale, debt) is to be written down and witnessed; Knowing the matter and not speaking: withholding
+    testimony as a sin; A witness who hears a public adjuration and withholds testimony bears guilt; How
+    many witnesses are required [divergence between the texts]; No one put to death on the testimony of
+    a single witness.'
   basis: reading
 - text: 'Jeremiah buys his cousin''s field at Anathoth during the siege: tagged by Claude (model), reading
     the Hebrew.'

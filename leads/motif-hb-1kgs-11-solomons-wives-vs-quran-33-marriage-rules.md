@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Limits on how many wives the leader may take [contrast between the
-    texts] (weight 6.7); King must not multiply horses, wives or silver and gold, nor return the people
-    to Egypt (weight 5.3). Pair score 12.0.'
+    texts] (weight 7.7); King must not multiply horses, wives or silver and gold, nor return the people
+    to Egypt (weight 6.4). Pair score 14.1.'
   basis: reading
 - text: 'Only in Solomon''s foreign wives and apostasy: King builds high places for Chemosh, Molech/Milcom
     and Astarte on the mount facing Jerusalem; King has seven hundred royal wives and three hundred concubines;

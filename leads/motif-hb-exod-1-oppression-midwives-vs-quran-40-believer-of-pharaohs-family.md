@@ -13,16 +13,16 @@ traditions:
 layers:
 - motif
 motifs:
-- egypts-memory-of-joseph-as-divergence
 - pharaohs-decree-against-sons-as-divergence
+- egypts-memory-of-joseph-as-divergence
 - king-kills-male-infants
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How Egypt remembers Joseph [divergence between the texts] (weight
-    6.7); Pharaoh''s order to kill the sons and let the women live [divergence between the texts] (weight
-    6.7); Ruler orders the killing of male infants (weight 5.1). Pair score 18.5.'
+- text: 'Shared motifs, rarest first: Pharaoh''s order to kill the sons and let the women live [divergence
+    between the texts] (weight 7.7); How Egypt remembers Joseph [divergence between the texts] (weight
+    7.7); Ruler orders the killing of male infants (weight 6.1). Pair score 21.6.'
   basis: reading
 - text: 'Only in Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: Midwives observe
     the newborn on the birthstool (ovnayim, ''the two stones''); Oppressed people forced to build store-cities

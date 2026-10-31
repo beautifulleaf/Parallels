@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1). Pair score
-    5.1.'
+- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 6.1). Pair score
+    6.1.'
   basis: reading
 - text: 'Only in Degenerate vine, she-camel in heat, gods of wood and stone: ''Can a virgin forget her
     ornaments or a bride her sash?'' yet my people have forgotten me; God planted a choice vine of pure

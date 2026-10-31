@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Gog and Magog are let loose and swarm down from every height before
-    the end [divergence between the texts] (weight 6.0); Gog of the land of Magog, chief prince (nesi
-    rosh) of Meshech and Tubal, an eschatological invader (weight 6.0). Pair score 12.0.'
+    the end [divergence between the texts] (weight 7.1); Gog of the land of Magog, chief prince (nesi
+    rosh) of Meshech and Tubal, an eschatological invader (weight 7.1). Pair score 14.1.'
   basis: reading
 - text: 'Only in Gog''s fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast
     of the birds: God strikes the bow from the invader''s left hand and makes the arrows drop from his
@@ -35,17 +35,19 @@ evidence:
     every human bone with a sign (tsiyyun) for the buriers; Gog and his horde are buried in the Valley
     of the Travelers east of the sea, renamed Valley of Hamon-Gog; a city is named Hamonah; Israel''s
     townsfolk burn the enemy weapons (shields, bows, arrows, clubs, spears) as fuel for seven years, cutting
-    no wood from the forest; Strong bulls of Bashan encircle the sufferer; Slain enemies become a portion
-    for jackals or food for beasts and birds; and 6 more.'
+    no wood from the forest; Strong bulls of Bashan encircle the sufferer; The final invader comes from
+    the farthest recesses of the north (yarketei tsafon); and 6 more.'
   basis: reading
 - text: 'Only in One community, Gog and Magog, the rolled heaven and the Zabur''s promise: On the day
     of the great terror the angels meet the righteous: ''This is your day that you were promised''; The
     idolaters and what they worship are fuel (ḥaṣab) for hell; The prophet was sent only as a mercy to
     the worlds; As God began the first creation he will repeat it; Gog and Magog are let loose and swarm
     down from every height before the end; Humanity was one community (umma) but split its affair into
-    sects; All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig; The meek / those who wait for YHWH / the righteous and their seed
-    shall inherit the land (yirshu arets).'
+    sects; A savage people is let loose and pours down from the mountains or heights [divergence between
+    the texts]; The heavens are folded like cloth or a scroll before or by the deity; All the host of
+    heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves from
+    vine and fig; The meek / those who wait for YHWH / the righteous and their seed shall inherit the
+    land (yirshu arets).'
   basis: reading
 - text: 'Gog''s fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast of the
     birds: tagged by Claude (model), reading the Hebrew.'

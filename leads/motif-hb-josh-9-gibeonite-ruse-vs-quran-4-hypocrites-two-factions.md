@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those allied by treaty or who withdraw and offer peace may not be
-    attacked (weight 6.7). Pair score 6.7.'
+    attacked (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Gibeonites trick Israel into a treaty: A people is cursed to perpetual slavery; Locals
     disguise themselves with worn clothes and old provisions to pass as travelers from a far country;
     Leaders make a decision without asking the oracle of YHWH; A subject people made perpetual woodcutters
     and water-drawers for the sanctuary; Dry, crumbled bread shown as proof of a long journey; The congregation
-    grumbles against its chiefs over a decision; The kings of the land form a coalition against Israel;
-    Foreigners have heard the fame of Israel''s God and what he did in Egypt; Treaties with those who
-    kept them are honored until their term; An oath sworn by God stays binding even though obtained by
-    deceit; Sacrifice only at the place God will choose to make his name dwell.'
+    grumbles against its chiefs over a decision; Foreigners have heard the fame of Israel''s God and what
+    he did in Egypt; Treaties with those who kept them are honored until their term; An oath sworn by
+    God stays binding even though obtained by deceit; The kings of the land form a coalition against Israel;
+    Sacrifice only at the place God will choose to make his name dwell.'
   basis: reading
 - text: 'Only in The hypocrites, deserters and those who offer peace: Believers are split into two factions
     over the hypocrites, whom God has overturned; Messengers offer peace terms before battle [divergence

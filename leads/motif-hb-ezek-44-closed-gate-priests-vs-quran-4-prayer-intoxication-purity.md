@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Priests may not drink wine or strong drink when entering the tent
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The shut east gate, foreigners excluded, Levites and Zadokite priests: The east gate
     stays shut forever because YHWH the God of Israel entered by it; The first of the dough (reshit arisot)
@@ -38,8 +38,8 @@ evidence:
     until you know what you say; One in major impurity (junub) must bathe before prayer, except a traveller
     passing through; Purification after seminal emission or intercourse [divergence between the texts];
     Emission of semen makes a man (and his partner) unclean until evening; No wine before approaching
-    God [divergence between the texts]; Without water, purify with clean earth (tayammum), wiping face
-    and hands.'
+    God [divergence between the texts]; One who has had intercourse must wash before approaching the deity''s
+    service or prayer; Without water, purify with clean earth (tayammum), wiping face and hands.'
   basis: reading
 - text: 'The shut east gate, foreigners excluded, Levites and Zadokite priests: tagged by Claude (model),
     reading the Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The steep ascent (''aqaba) is freeing a neck (slave), feeding an
-    orphan relative or a needy man in the dust on a day of hunger (weight 6.7). Pair score 6.7.'
+    orphan relative or a needy man in the dust on a day of hunger (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Eliphaz''s third speech - Job accused of social crimes: The penitent righteous will decree
     a thing and it will be established for him; God is in the height of heaven above the stars; the wicked
@@ -32,16 +32,17 @@ evidence:
     the naked, denying water and bread, sending widows away empty; ''Can a man be of use to God? Is it
     gain to Shaddai if you are righteous?''.'
   basis: reading
-- text: 'Only in The city: the two highways and the steep ascent: The companions of the right (ashab al-yamin,
+- text: 'Only in The city: the two highways and the steep ascent: Giving food to the hungry (water, clothing,
+    a ferry) as the deed that justifies before the judge; The companions of the right (ashab al-yamin,
     al-maymana) are saved; the companions of the left (al-mash''ama) are damned; A fire is closed over
-    the damned (mu''sada); Ground cursed; man must eat by sweat of his brow among thorns and thistles;
-    Ground cursed; man must eat by sweat of his brow among thorns and thistles [divergence between the
-    texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin); The fast God chooses is
-    to loose bonds of injustice, free the oppressed, share bread with the hungry and clothe the naked;
-    Oath introduced by the negated formula ''No! I swear by...'' (la uqsimu / fa-la uqsimu); I set before
-    you life and death, blessing and curse: choose life; Woe to every slanderer and backbiter (humaza
-    lumaza) who amasses and counts wealth, thinking it makes him immortal; Rhetorical formula ''And what
-    will make you know what X is?'' (wa ma adraka ma) introducing an eschatological term.'
+    the damned (mu''sada); Ground cursed; man must eat by sweat of his brow among thorns and thistles
+    [divergence between the texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin);
+    Whether a bound captive is released or killed; The fast God chooses is to loose bonds of injustice,
+    free the oppressed, share bread with the hungry and clothe the naked; Ground cursed; man must eat
+    by sweat of his brow among thorns and thistles; The evil is shut in below under a closed cover; Oath
+    introduced by the negated formula ''No! I swear by...'' (la uqsimu / fa-la uqsimu); Woe to every slanderer
+    and backbiter (humaza lumaza) who amasses and counts wealth, thinking it makes him immortal; I set
+    before you life and death, blessing and curse: choose life; and 1 more.'
   basis: reading
 - text: 'Eliphaz''s third speech - Job accused of social crimes: tagged by Claude (model), reading the
     Hebrew.'

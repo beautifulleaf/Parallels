@@ -24,12 +24,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s staff-serpent swallows the magicians'' staff-serpents
-    [divergence between the texts] (weight 6.3); The prophet''s staff-serpent swallows the magicians''
-    staff-serpents (weight 6.0); The king''s heart is hardened (by himself or by God) so he refuses to
-    release the people [divergence between the texts] (weight 5.6); A staff thrown down becomes a serpent
-    and turns back into a staff (weight 5.4); Prophet''s wonders are imitated by the king''s magicians
-    in a contest (weight 5.1); The king''s heart is hardened (by himself or by God) so he refuses to release
-    the people (weight 4.6). Pair score 33.0.'
+    [divergence between the texts] (weight 7.3); The prophet''s staff-serpent swallows the magicians''
+    staff-serpents (weight 7.1); The king''s heart is hardened (by himself or by God) so he refuses to
+    release the people [divergence between the texts] (weight 6.6); A staff thrown down becomes a serpent
+    and turns back into a staff (weight 6.5); Prophet''s wonders are imitated by the king''s magicians
+    in a contest (weight 6.0); The king''s heart is hardened (by himself or by God) so he refuses to release
+    the people (weight 5.7). Pair score 39.2.'
   basis: reading
 - text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
     staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet
@@ -49,11 +49,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 19 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 29 more.'
   basis: reading
 - text: 'Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians'' staffs:
     tagged by Claude (model), reading the Hebrew.'

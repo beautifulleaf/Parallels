@@ -20,26 +20,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who hurt Moses: God cleared him of what they said [divergence
-    between the texts] (weight 6.7); Prophet criticized over his foreign (Cushite) wife (weight 6.7).
-    Pair score 13.4.'
+    between the texts] (weight 7.7); Prophet criticized over his foreign (Cushite) wife (weight 7.7).
+    Pair score 15.5.'
   basis: reading
 - text: 'Only in Miriam and Aaron speak against Moses: Hero called the humblest man on earth; Ordinary
     prophets receive revelation in visions and dreams; Afflicted person shut outside the camp seven days;
-    Prophet''s own siblings challenge his unique authority; Father spitting in a daughter''s face brings
-    seven days'' shame; Believers must not put themselves before God and his messenger, nor raise their
-    voices above the prophet''s or shout to him; God speaks to one prophet ''mouth to mouth'', not in
-    dreams or riddles; Moses asks his people: ''Why do you hurt me when you know I am God''s messenger
-    to you?''; when they swerved God made their hearts swerve; How God speaks to prophets: face to face,
-    in vision or dream, from behind a veil, or by a messenger [divergence between the texts]; God ranked
+    Prophet''s own siblings challenge his unique authority; Believers must not put themselves before God
+    and his messenger, nor raise their voices above the prophet''s or shout to him; Moses asks his people:
+    ''Why do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their
+    hearts swerve; Father spitting in a daughter''s face brings seven days'' shame; God speaks to one
+    prophet ''mouth to mouth'', not in dreams or riddles; How God speaks to prophets: face to face, in
+    vision or dream, from behind a veil, or by a messenger [divergence between the texts]; God ranked
     some messengers above others; to some God spoke; Offender struck with skin disease ''white as snow'';
     Hero''s prayer or act halts a divine punishment; and 1 more.'
   basis: reading
 - text: 'Only in The Hour, the blaming of leaders, Moses cleared, and the Trust: In hell the faces of
-    the damned are turned over in the fire; Those who hurt Moses: God cleared him of what they said; The
-    damned followers ask double punishment for those who misled them; all get double; God offered the
-    Trust (amana) to the heavens, earth and mountains; they refused and feared it, but man bore it, unjust
-    and ignorant; The damned blame their chiefs and great ones who misled them and ask God to double their
-    punishment; Knowledge of the Hour is with God alone; it will come suddenly.'
+    the damned are turned over in the fire; Those who hurt Moses: God cleared him of what they said; A
+    burden that higher beings refuse or throw off is laid on, or taken up by, humankind [divergence between
+    the texts]; A heavy charge is offered to three who refuse it in fear, and a fourth takes it on [divergence
+    between the texts]; The damned followers ask double punishment for those who misled them; all get
+    double; God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared
+    it, but man bore it, unjust and ignorant; The damned blame their chiefs and great ones who misled
+    them and ask God to double their punishment; Knowledge of the Hour is with God alone; it will come
+    suddenly.'
   basis: reading
 - text: 'Miriam and Aaron speak against Moses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

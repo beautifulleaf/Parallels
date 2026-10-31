@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God erases what he wills and confirms, and with him is the Mother
-    of the Book (umm al-kitab) (weight 6.7). Pair score 6.7.'
+    of the Book (umm al-kitab) (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -44,7 +44,7 @@ evidence:
     God comes to the land, reducing it from its outlying parts; They plotted, and God plotted; God is
     the best of plotters; Earlier messengers were given wives and offspring; Those with knowledge of the
     earlier Book are invoked as witnesses to the prophet''s mission [divergence between the texts]; and
-    3 more.'
+    6 more.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

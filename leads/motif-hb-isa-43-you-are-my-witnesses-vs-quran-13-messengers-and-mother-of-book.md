@@ -19,21 +19,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those with knowledge of the earlier Book are invoked as witnesses
-    to the prophet''s mission [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    to the prophet''s mission [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Fear not,
-    for I have redeemed you; I have called you by name, you are mine''; ''Your first father sinned and
-    your interpreters (melitsim) transgressed against me''; God says to north ''Give up'' and to south
-    ''Do not withhold'': bring my sons from afar and my daughters from the end of the earth; The wild
-    beasts, jackals and ostriches honor God for the water he gives in the desert; God gives Egypt, Cush
-    and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I, I am YHWH, and besides
-    me there is no savior''; ''Do not remember the former things... Behold I am doing a new thing; now
-    it springs forth'': a way in the wilderness, rivers in the desert; When you pass through waters God
-    is with you and rivers will not overwhelm you; through fire you will not be burned; Israel did not
-    weary itself with offerings for God but wearied him with its sins; he blots out transgressions for
-    his own sake; Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen,
-    fallen is Babylon!'' and all her idols shattered on the ground; Oracle of salvation: ''Fear not, for
-    I am with you; I will strengthen and help you''; and 16 more.'
+- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Your first
+    father sinned and your interpreters (melitsim) transgressed against me''; God says to north ''Give
+    up'' and to south ''Do not withhold'': bring my sons from afar and my daughters from the end of the
+    earth; The wild beasts, jackals and ostriches honor God for the water he gives in the desert; God
+    gives Egypt, Cush and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I,
+    I am YHWH, and besides me there is no savior''; ''Do not remember the former things... Behold I am
+    doing a new thing; now it springs forth'': a way in the wilderness, rivers in the desert; Israel did
+    not weary itself with offerings for God but wearied him with its sins; he blots out transgressions
+    for his own sake; ''Fear not, for I have redeemed you; I have called you by name, you are mine'';
+    Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen, fallen is
+    Babylon!'' and all her idols shattered on the ground; God himself devotes the nations (or a nation)
+    to destruction (herem) and gives them to slaughter; What God created humans, or his people, for [divergence
+    between the texts]; and 16 more.'
   basis: reading
 - text: 'Only in Messengers, the Mother of the Book and the witness of scripture (Surah 13:30-43): For
     every term there is a book (a written decree); The messenger''s duty is only to deliver the message;
@@ -45,7 +45,7 @@ evidence:
     (muhkamat), the mother of the book, and ambiguous ones (mutashabihat) whose interpretation God knows;
     God comes to the land, reducing it from its outlying parts; They plotted, and God plotted; God is
     the best of plotters; God erases what he wills and confirms, and with him is the Mother of the Book
-    (umm al-kitab); Earlier messengers were given wives and offspring; and 3 more.'
+    (umm al-kitab); Earlier messengers were given wives and offspring; and 6 more.'
   basis: reading
 - text: 'I have called you by name; you are my witnesses; behold I do a new thing: tagged by Claude (model),
     reading the Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A multitude of dead revived [divergence between the texts] (weight
-    6.7); The revived dead stand on their feet, an exceedingly great army (weight 6.7). Pair score 13.4.'
+    7.7); The revived dead stand on their feet, an exceedingly great army (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
     graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is
@@ -35,8 +35,9 @@ evidence:
     and fragments, shall we be raised as a new creation?''; and 2 more.'
   basis: reading
 - text: 'Only in The thousands who died and were revived; a loan to God: Thousands who left their homes
-    fearing death are told by God ''Die'' and then revived; He who is gracious to the poor lends to YHWH,
-    and he will repay him; Who will lend God a goodly loan (qard hasan), that he may multiply it for him?.'
+    fearing death are told by God ''Die'' and then revived; Giving as a loan to God, repaid by him; He
+    who is gracious to the poor lends to YHWH, and he will repay him; Who will lend God a goodly loan
+    (qard hasan), that he may multiply it for him?.'
   basis: reading
 - text: 'The valley of dry bones: tagged by Claude (model), reading the Hebrew.'
   basis: reading

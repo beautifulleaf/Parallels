@@ -21,9 +21,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Firstborn male of herd and flock consecrated to God, not worked
-    or shorn (weight 6.7); Firstborn male of herd and flock consecrated to God, not worked or shorn [contrast
-    between the texts] (weight 6.3); Blood is the life; do not eat it but pour it on the ground like water
-    (weight 6.3). Pair score 19.3.'
+    or shorn (weight 7.7); Firstborn male of herd and flock consecrated to God, not worked or shorn [contrast
+    between the texts] (weight 7.3); Blood is the life; do not eat it but pour it on the ground like water
+    (weight 7.3). Pair score 22.4.'
   basis: reading
 - text: 'Only in Release of debts, release of Hebrew slaves, firstlings: Base thought refusing a loan
     as the release year nears; the poor man cries to God against you; There will be no poor among you,
@@ -46,7 +46,8 @@ evidence:
     to be eaten only by whom they will; Pagans reserve what is in the wombs of cattle for males, forbidden
     to wives unless stillborn; The camel is unclean because it does not have a split hoof [contrast between
     the texts]; List of clean and unclean animals: split hoof and chewing cud [response between the texts];
-    The fat tail of the sheep is offered [divergence between the texts]; and 10 more.'
+    The due from crops and young animals is given at once, at harvest time [divergence between the texts];
+    and 13 more.'
   basis: reading
 - text: 'Release of debts, release of Hebrew slaves, firstlings: tagged by Claude (model), reading the
     Hebrew.'

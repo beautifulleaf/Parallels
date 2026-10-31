@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness (weight
-    5.1). Pair score 5.1.'
+    5.7). Pair score 5.7.'
   basis: reading
 - text: 'Only in Sixth vision, the flying scroll: A curse goes out over the land, enters the house of
     the thief and the false swearer, lodges there and consumes its timber and stones; A huge flying scroll,
@@ -39,7 +39,7 @@ evidence:
     what they worship, except the one who created him; Dissolving marriages with women outside the community
     [divergence between the texts]; God does not forbid kindness and justice toward those who did not
     fight you over religion or expel you; Neither your blood-ties nor your children will benefit you on
-    the Day of Resurrection; and 3 more.'
+    the Day of Resurrection; and 10 more.'
   basis: reading
 - text: 'Sixth vision, the flying scroll: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -21,19 +21,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who is gracious to the poor lends to YHWH, and he will repay
-    him (weight 5.8); Who will lend God a goodly loan (qard hasan), that he may multiply it for him? (weight
-    5.4). Pair score 11.2.'
+    him (weight 6.8); Who will lend God a goodly loan (qard hasan), that he may multiply it for him? (weight
+    6.5). Pair score 13.3.'
   basis: reading
 - text: 'Only in Sayings on the poor, the king''s wrath and the sluggard: A man''s folly ruins his way
     and his heart rages against YHWH; A son who ruins his father and chases away his mother brings shame;
     He who finds a wife finds a good thing and obtains favor from YHWH; a prudent wife is from YHWH; Giving
     as a loan to God, repaid by him [divergence between the texts]; The king''s wrath is like the growling
     of a young lion; his favor like dew on the grass; Whatever misfortune strikes people is for what their
-    own hands have earned, though God pardons much; A quarrelsome wife is like a continual dripping (of
-    a leaking roof); The sluggard buries his hand in the dish and will not even bring it back to his mouth;
-    Strike a scoffer and the simple will learn prudence; The poor is hated even by his neighbor, but the
-    rich has many friends; A rod is for the back of the fool (the senseless); The slow to anger is better
-    than a mighty man, and he who rules his spirit than he who takes a city; and 5 more.'
+    own hands have earned, though God pardons much; The sluggard buries his hand in the dish and will
+    not even bring it back to his mouth; Strike a scoffer and the simple will learn prudence; The poor
+    is hated even by his neighbor, but the rich has many friends; A rod is for the back of the fool (the
+    senseless); A quarrelsome wife is like a continual dripping (of a leaking roof); The slow to anger
+    is better than a mighty man, and he who rules his spirit than he who takes a city; and 5 more.'
   basis: reading
 - text: 'Only in Israel''s covenant and twelve chiefs; the Christians'' forgotten portion: A messenger
     comes after an interval (fatra) without messengers; The Messenger makes clear much of the scripture

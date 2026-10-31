@@ -19,31 +19,34 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
-    4.5.'
+- text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 5.2). Pair score
+    5.2.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 21 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence
+    between the texts]; and 21 more.'
   basis: reading
 - text: 'Only in Man from clay through the stages of the womb; seven paths, water, Sinai''s tree, cattle
     and ships: God called ''the best of creators'' (aḥsan al-khāliqīn); Cattle are a lesson: God gives
     drink from what is in their bellies; A tree springing from Mount Sinai (Ṭūr Saynāʾ) yields oil and
     a relish for eaters; In the womb God makes the lump into bones and clothes the bones with flesh, then
     makes it another creation; God''s crafting of the human body, and what is said to follow from it [divergence
-    between the texts]; At creation God fixed the weight of the wind, the measure of the waters, a decree
-    for the rain and a way for the thunderbolt; Humans created from dust, then a drop (nuṭfa), then a
-    clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped; God''s eyes saw the speaker''s
-    unformed substance (golem); all his days were written in God''s book before one of them existed; The
-    speaker too was ''pinched off from clay'' (qoratsti), like a figure nipped from a lump of clay; God
-    poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh and knitting
-    bones and sinews; God fashions seven heavens.'
+    between the texts]; Man is made from compacted (clotted) blood and then bones; God makes the fluid
+    (seed) in women into a human and forms the child in its mother''s belly; At creation God fixed the
+    weight of the wind, the measure of the waters, a decree for the rain and a way for the thunderbolt;
+    Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump (muḍgha),
+    shaped and unshaped; God''s eyes saw the speaker''s unformed substance (golem); all his days were
+    written in God''s book before one of them existed; God poured the embryo out like milk and curdled
+    it like cheese, clothing it with skin and flesh and knitting bones and sinews; God fashions seven
+    heavens; and 1 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What becomes of the first tablets after the calf: broken and replaced,
-    or cast down and taken up again [divergence between the texts] (weight 5.8). Pair score 5.8.'
+    or cast down and taken up again [divergence between the texts] (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Second tablets and ark; Levites set apart; what God requires: Aaron dies and his son
     Eleazar becomes priest in his place; Wooden ark made to hold the stone tablets; God''s choice of Abraham,
@@ -39,7 +39,7 @@ evidence:
     he will be gracious to whom he will be gracious; Moses intercedes for Aaron, with whom God was angry
     enough to destroy him; God''s mercy encompasses all things; Moses includes himself with the guilty
     people in his plea after the calf [divergence between the texts]; Moses prays for Aaron after the
-    calf [divergence between the texts]; and 15 more.'
+    calf [divergence between the texts]; and 16 more.'
   basis: reading
 - text: 'Second tablets and ark; Levites set apart; what God requires: tagged by Claude (model), reading
     the Hebrew.'

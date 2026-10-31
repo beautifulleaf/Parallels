@@ -21,10 +21,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and
-    Tubal, an eschatological invader [divergence between the texts] (weight 6.7); Gog and Magog are let
-    loose and swarm down from every height before the end [divergence between the texts] (weight 6.0);
+    Tubal, an eschatological invader [divergence between the texts] (weight 7.7); Gog and Magog are let
+    loose and swarm down from every height before the end [divergence between the texts] (weight 7.1);
     Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-    (weight 6.0). Pair score 18.7.'
+    (weight 7.1). Pair score 21.9.'
   basis: reading
 - text: 'Only in Gog of Magog invades the land dwelling at the navel of the earth: The invader plots to
     attack a quiet people dwelling securely in unwalled villages without bars or gates, to seize plunder;
@@ -47,10 +47,10 @@ evidence:
     conqueror finds a people with no shelter from it; Between two mountain barriers the conqueror finds
     a people who scarcely understand speech; At the end peoples surge into one another like waves; At
     the place of sunset the conqueror finds the sun setting in a muddy (or hot) spring; The people offer
-    tribute for a barrier; the conqueror declines payment and asks for their labor; Gog and Magog are
-    let loose and swarm down from every height before the end; Dhu l-Qarnayn (''the two-horned'') is given
-    power on earth and a way to everything; On that day hell is brought forth, exposed or kindled for
-    whoever sees, and paradise brought near; and 1 more.'
+    tribute for a barrier; the conqueror declines payment and asks for their labor; A ruler builds a barrier
+    across the gap between two mountains to cut off invading peoples; A ruler builds a barrier across
+    the gap between two mountains to cut off invading peoples [divergence between the texts]; Whether
+    a king''s barrier against invaders holds or is breached [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Gog of Magog invades the land dwelling at the navel of the earth: tagged by Claude (model), reading
     the Hebrew.'

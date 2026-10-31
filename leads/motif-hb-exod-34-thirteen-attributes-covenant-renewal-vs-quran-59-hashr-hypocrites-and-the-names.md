@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty,
-    Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names (weight 5.6).
-    Pair score 5.6.'
+    Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names (weight 6.6).
+    Pair score 6.6.'
   basis: reading
 - text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
     covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
     time; Call to the People of the Book to a common word: worship none but God and take none as lords
     besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
     down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
-    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
-    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
-    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
-    a snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
-    appear before God empty-handed; and 21 more.'
+    neck is broken; God passes by and proclaims his name and attributes of mercy; Whether one person (kin,
+    descendants) bears another''s sin [contrast between the texts]; Do not offer sacrificial blood with
+    leavened bread; fat not left until morning; No one shall appear before God empty-handed; The prophet
+    intercedes for the people, arguing from God''s reputation; How far God''s mercy and his punishment
+    extend [divergence between the texts]; and 21 more.'
   basis: reading
 - text: 'Only in The hypocrites'' false promises, Satan''s disowning, the Quran on a mountain, and the
     litany of beautiful names: They fight only from fortified towns or behind walls; you think them united
@@ -42,6 +42,7 @@ evidence:
     humbled and split asunder for fear of God; Like Satan who says to man ''Disbelieve!'' and when he
     disbelieves says ''I am quit of you, I fear God''; A mountain shaken by God''s descent or by his revelation
     [divergence between the texts]; The mountain smokes like a furnace and quakes as God descends in fire;
+    A mountain bows, or fails to bow, before the divine, and is broken [divergence between the texts];
     ''There is none like you and no God beside you''; Do evildoers think God will make them equal to the
     righteous in life and in death?; Opening formula: whatever is in the heavens and the earth glorifies
     God (sabbaha / yusabbihu lillah).'

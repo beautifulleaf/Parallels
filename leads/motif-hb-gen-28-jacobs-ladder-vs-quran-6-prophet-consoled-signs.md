@@ -18,28 +18,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A ladder (sullam / sullām) reaching from earth to heaven (weight
-    6.7). Pair score 6.7.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Jacob''s dream at Bethel: God promises to be with the traveler and bring him back; Hero
     sleeps with a stone under his head at a holy place; The angels and the Spirit (al-ruh) ascend to God
     by stairways (ma''arij); God is ''Lord of the ascending ways''; A standing stone (matsevah) set up
     and anointed with oil; Hero vows that if God protects and provides for him, he will worship and tithe;
     Hero vows that if God protects and provides for him, he will worship and tithe [divergence between
-    the texts]; Dream of a ladder or stairway reaching heaven with angels ascending and descending; A
-    place recognized as the house of God and gate of heaven; A ladder (sullam / sullām) reaching from
-    earth to heaven [divergence between the texts]; A tenth of everything given to a priest; Luz renamed
-    Bethel, ''house of God''; All families of the earth will be blessed through the patriarch; and 2 more.'
+    the texts]; A place recognized as the house of God and gate of heaven; A ladder (sullam / sullām)
+    reaching from earth to heaven [divergence between the texts]; A tenth of everything given to a priest;
+    Luz renamed Bethel, ''house of God''; Dream of a ladder or stairway reaching heaven with angels ascending
+    and descending; All families of the earth will be blessed through the patriarch; and 2 more.'
   basis: reading
 - text: 'Only in The Prophet consoled; a ladder to the sky; animals as communities: Every beast on earth
     and bird flying with its wings are communities (umam) like you, gathered to their Lord; The Prophet
     is consoled: messengers before him were denied and patient until help came; We have neglected nothing
     in the Book; God opened the gates of everything to them, and when they rejoiced he seized them suddenly;
-    If you could seek a tunnel into the earth or a ladder into the sky to bring them a sign...; The prophet
-    disclaims having God''s treasuries, knowing the unseen, or being an angel; Animals are in God''s care
-    and are gathered before him; The paired extremes of digging into the earth and climbing to the sky;
-    Had God willed he would have made all humanity a single community; None can change the words of God;
-    The unbelievers demand: ''Why does he not bring us a sign from his Lord?''; When harm touches people
-    they turn to God; when he gives them relief a party of them associates partners again; and 1 more.'
+    If you could seek a tunnel into the earth or a ladder into the sky to bring them a sign...; A ladder
+    (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral] [divergence between the texts];
+    The prophet disclaims having God''s treasuries, knowing the unseen, or being an angel; Animals are
+    in God''s care and are gathered before him; The paired extremes of digging into the earth and climbing
+    to the sky; Had God willed he would have made all humanity a single community; The sovereign''s word
+    cannot be turned back, cast aside, broken or changed; Animals, even those that cannot speak, have
+    their case judged or are gathered before the deity; and 4 more.'
   basis: reading
 - text: 'Jacob''s dream at Bethel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

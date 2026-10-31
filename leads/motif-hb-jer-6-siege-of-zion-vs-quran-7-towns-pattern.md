@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Divine punishment falls on a town by night or while its people take
-    the midday rest (weight 5.8). Pair score 5.8.'
+    the midday rest (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Sanctify war against her - the siege: As a well keeps its water fresh, so the city keeps
     its wickedness fresh; The attackers ''sanctify war'' (qaddeshu milhamah) against the city and plan
@@ -27,11 +27,11 @@ evidence:
     nation comes from the north.'
   basis: reading
 - text: 'Only in The pattern of the destroyed towns: If the towns had believed God would have opened blessings
-    from heaven and earth; God tries towns with hardship, then with ease, then seizes them suddenly; Heaven
-    is shut and no rain falls because of the people''s sin; repentance brings rain; Most of the peoples
-    were found without fidelity to their covenant; Refrain listing plagues (famine, drought, blight, locust,
-    pestilence, war, overthrow): ''yet you did not return to me''; God''s plotting (makr / kayd) outwits
-    the schemers; none is safe from it but the losers; God seals (tab'') the hearts of deniers so they
+    from heaven and earth; God tries towns with hardship, then with ease, then seizes them suddenly; Most
+    of the peoples were found without fidelity to their covenant; Refrain listing plagues (famine, drought,
+    blight, locust, pestilence, war, overthrow): ''yet you did not return to me''; God''s plotting (makr
+    / kayd) outwits the schemers; none is safe from it but the losers; Heaven is shut and no rain falls
+    because of the people''s sin; repentance brings rain; God seals (tab'') the hearts of deniers so they
     do not hear.'
   basis: reading
 - text: 'Sanctify war against her - the siege: tagged by Claude (model), reading the Hebrew.'

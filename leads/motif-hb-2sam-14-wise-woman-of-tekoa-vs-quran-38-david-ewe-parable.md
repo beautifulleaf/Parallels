@@ -20,28 +20,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God strengthened David''s kingdom and gave him wisdom and decisive
-    judgment (fasl al-khitab) (weight 6.7); A prophet tells a case as if real; the king condemns the offender
-    and is told ''You are the man'' (weight 6.3). Pair score 13.0.'
+    judgment (fasl al-khitab) (weight 7.7); A prophet tells a case as if real; the king condemns the offender
+    and is told ''You are the man'' (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in The wise woman of Tekoa wins Absalom''s return: A returned exile may not see the king''s
     face; The king guesses who is behind a petitioner''s speech; An only heir called ''my remaining ember''
-    that kinsmen would quench; Mortality likened to water spilled on the ground that cannot be gathered
-    up; A woman disguised as a long-mourning widow petitions the king with an invented case; Oath that
-    not one hair of the person shall fall to the ground; A brother kills his brother in the first murder;
-    A person praised as ''good (or wise) as an angel of God''; A wise woman intercepts an avenging warrior
-    with gifts and speech and averts bloodshed; The ''redeemer of blood'' (go''el ha-dam) kills the murderer.'
+    that kinsmen would quench; A woman disguised as a long-mourning widow petitions the king with an invented
+    case; Oath that not one hair of the person shall fall to the ground; Mortality likened to water spilled
+    on the ground that cannot be gathered up; A brother kills his brother in the first murder; A person
+    praised as ''good (or wise) as an angel of God''; A wise woman intercepts an avenging warrior with
+    gifts and speech and averts bloodshed; The ''redeemer of blood'' (go''el ha-dam) kills the murderer.'
   basis: reading
 - text: 'Only in David''s mountains, the two litigants and the ninety-nine ewes: Two litigants scale the
     wall of David''s prayer-chamber (mihrab) and frighten him; A man with ninety-nine ewes demands his
     brother''s single ewe and overpowers him in argument; A case about a ewe is brought to David for judgment
+    [divergence between the texts]; A case is put to a judge as real, and his verdict on it turns on himself
     [divergence between the texts]; ''O David, we made you a vicegerent (khalifa) on earth; judge between
     people with truth and do not follow desire''; David realizes he was being tested, asks forgiveness,
     falls down bowing and turns in repentance; David''s repentance and what follows it [divergence between
-    the texts]; A man with many sheep takes another''s only ewe [divergence between the texts]; Shall
-    God treat believers like those who spread corruption, the godfearing like the wicked?; The king confesses
-    ''I have sinned'' and the prophet announces forgiveness with a remaining penalty; Mountains and birds
-    are made to glorify God together with David; God did not create the heavens and earth and what is
-    between them in play (la''ibin) but in truth.'
+    the texts]; A named ''day of reckoning'' on which accounts are settled; A man with many sheep takes
+    another''s only ewe [divergence between the texts]; Shall God treat believers like those who spread
+    corruption, the godfearing like the wicked?; The king confesses ''I have sinned'' and the prophet
+    announces forgiveness with a remaining penalty; Sheep are divided so that one party takes nine (ninety-nine)
+    and the other one [divergence between the texts]; and 3 more.'
   basis: reading
 - text: 'The wise woman of Tekoa wins Absalom''s return: tagged by Claude (model), reading the Hebrew.'
   basis: reading

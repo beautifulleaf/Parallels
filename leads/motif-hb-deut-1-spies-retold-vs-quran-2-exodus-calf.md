@@ -18,8 +18,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God leads the people in a pillar of cloud by day and a pillar of
-    fire by night (weight 5.1); The people grumble against their leaders about food or water (weight 5.1).
-    Pair score 10.2.'
+    fire by night (weight 6.1); The people grumble against their leaders about food or water (weight 6.1).
+    Pair score 12.3.'
   basis: reading
 - text: 'Only in The spies episode retold: Children ''who do not yet know good and evil'' will inherit;
     The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence between

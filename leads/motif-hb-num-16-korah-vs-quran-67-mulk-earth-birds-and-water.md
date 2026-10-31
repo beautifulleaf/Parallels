@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
-    5.0). Pair score 5.0.'
+    5.9). Pair score 5.9.'
   basis: reading
 - text: 'Only in Korah, Dathan and Abiram rebel; the earth swallows them: Rival claimants offer incense
     in fire-pans so God may choose the holy one; Rebels claim all the people are holy and challenge the
@@ -28,9 +28,10 @@ evidence:
     as ''God of the spirits of all flesh''; Bystanders of a divine punishment fear it could have struck
     them too; Your companion has not erred; he does not speak from desire; it is only revelation revealed;
     Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?'';
-    What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; Intercessor
-    asks: shall one man sin and you rage at the whole community?; A people is destroyed by an earthquake/tremor
-    (al-rajfa); Leader protests he never took so much as a donkey from anyone; and 2 more.'
+    What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; A people is
+    destroyed by an earthquake/tremor (al-rajfa); Leader protests he never took so much as a donkey from
+    anyone; Where Haman and Korah belong in the story of God''s people [divergence between the texts];
+    and 2 more.'
   basis: reading
 - text: 'Only in The tractable earth, the one in heaven who could make it swallow you, the birds held
     up, and the water that could sink away: God made the earth tractable (dhalul) for you: walk its shoulders

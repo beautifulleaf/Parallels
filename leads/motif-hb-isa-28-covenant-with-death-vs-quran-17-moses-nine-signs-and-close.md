@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The scripture is sent down in portions so the prophet recites it
-    to people at intervals (weight 6.7). Pair score 6.7.'
+    to people at intervals (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ephraim''s drunkards; tsav la-tsav; covenant with death; the cornerstone; the farmer''s
     wisdom: Proverb: the bed is too short to stretch out and the blanket too narrow to wrap oneself; Rulers
@@ -43,10 +43,11 @@ evidence:
     you are doomed''; Those given knowledge before fall on their chins prostrate and weeping when the
     scripture is recited; Moses was given nine clear signs; Do not be loud in prayer nor too quiet; seek
     a way between [contrast between the texts]; Those given knowledge before fall on their chins prostrate
-    and weeping when the scripture is recited [divergence between the texts]; Moses was given nine clear
-    signs [divergence between the texts]; Those who do not prostrate when the scripture is recited to
-    them are rebuked (a prostration verse); The returning waters drown the pursuing army; not one survives
-    [divergence between the texts]; The people weep on hearing the words of the Torah; and 3 more.'
+    and weeping when the scripture is recited [divergence between the texts]; Whatever name is pronounced,
+    it belongs to the one god: ''he is our god'' / ''his are the beautiful names''; Whatever name is pronounced,
+    it belongs to the one god: ''he is our god'' / ''his are the beautiful names'' [divergence between
+    the texts]; Moses was given nine clear signs [divergence between the texts]; Those who do not prostrate
+    when the scripture is recited to them are rebuked (a prostration verse); and 6 more.'
   basis: reading
 - text: 'Ephraim''s drunkards; tsav la-tsav; covenant with death; the cornerstone; the farmer''s wisdom:
     tagged by Claude (model), reading the Hebrew.'

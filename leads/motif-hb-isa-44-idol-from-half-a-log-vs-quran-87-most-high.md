@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I YHWH make all things, who alone stretched out the heavens, who
-    spread out the earth - who was with me?'' (weight 6.7). Pair score 6.7.'
+    spread out the earth - who was with me?'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
     Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the
@@ -39,9 +39,11 @@ evidence:
 - text: 'Only in The Most High: the scrolls of Abraham and Moses: God will make the prophet recite so
     that he will not forget, except what God wills; The most wretched burns in the great fire, in which
     he neither dies nor lives; The message is in the former scrolls, the scrolls of Abraham and Moses;
-    God proportioned the soul and inspired it with (knowledge of) its wickedness and its piety; who purifies
-    it prospers; God Most High (El Elyon), creator/possessor of heaven and earth; God pours down rain,
-    splits the earth and makes grain, grapes, olives, palms and pasture grow, as provision and sign.'
+    Some prefer and praise life on earth over the hereafter, and are corrected; A being is ''neither living
+    nor dead'' (formula); God proportioned the soul and inspired it with (knowledge of) its wickedness
+    and its piety; who purifies it prospers; God Most High (El Elyon), creator/possessor of heaven and
+    earth; God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+    as provision and sign.'
   basis: reading
 - text: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: tagged by Claude
     (model), reading the Hebrew.'

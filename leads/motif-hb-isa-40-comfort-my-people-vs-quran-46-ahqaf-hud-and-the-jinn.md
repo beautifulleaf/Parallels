@@ -21,22 +21,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God was not wearied by creating the heavens and earth (polemic against
-    divine rest) (weight 6.3); The everlasting God, creator of the ends of the earth, does not faint or
-    grow weary; his understanding is unsearchable (weight 6.0). Pair score 12.3.'
+    divine rest) (weight 7.3); The everlasting God, creator of the ends of the earth, does not faint or
+    grow weary; his understanding is unsearchable (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
     God tends his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God
     brings out the starry host by number and calls each by name; none is missing; God sits enthroned above
-    the circle (hug) of the earth; its inhabitants are like grasshoppers; Those who wait for YHWH renew
-    strength, mount up with wings like eagles, run and not be weary; Nations are like a drop from a bucket
-    and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering; A voice
-    cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for our God'';
-    Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed the mountains
-    in scales?; God made everything grow in due weight and sends it down only in known measure; A double
-    portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole earth
-    is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret Tsiyyon)
-    goes up on a high mountain to announce ''Behold your God!''; and 17 more.'
+    the circle (hug) of the earth; its inhabitants are like grasshoppers; Nations are like a drop from
+    a bucket and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering;
+    A voice cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for
+    our God''; Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed
+    the mountains in scales?; God made everything grow in due weight and sends it down only in known measure;
+    A double portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole
+    earth is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret
+    Tsiyyon) goes up on a high mountain to announce ''Behold your God!''; Satire on the making of idols:
+    craftsman casts, goldsmith overlays, the poor choose wood that will not rot so the idol will not totter;
+    and 17 more.'
   basis: reading
 - text: 'Only in Hud warns ''Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran:
     A destroyed people see a cloud approaching their valleys and say ''this cloud will give us rain'',
@@ -48,8 +49,8 @@ evidence:
     hearers, which serve as warning; A destroying wind wipes out everything at its Lord''s command; in
     the morning only their dwellings are seen; A cloud seen over a land in drought, bringing rain or destruction
     [contrast between the texts]; Woe to those who desire the Day of YHWH: it is darkness and not light;
-    The prophet Hūd is sent to the people of ʿĀd; God rested and was refreshed on the seventh day; and
-    4 more.'
+    The prophet Hūd is sent to the people of ʿĀd; The destroying storm-wind wrecks the land by its god''s
+    command; and 5 more.'
   basis: reading
 - text: 'Comfort my people; a voice in the wilderness; to whom will you liken God: tagged by Claude (model),
     reading the Hebrew.'

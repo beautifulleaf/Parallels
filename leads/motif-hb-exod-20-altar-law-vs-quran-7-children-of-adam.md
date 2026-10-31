@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Nakedness must be covered at the place of worship (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Nakedness must be covered at the place of worship (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Altar law: Altar to be made of earth; God will come and bless in every place where he
     causes his name to be remembered; God declares that he spoke from heaven; No steps up to the altar,
@@ -33,9 +33,9 @@ evidence:
     adornments and good provisions are not forbidden to believers; Short list of what God truly forbids:
     indecencies open and hidden, sin, oppression, associating partners, false speech about God; Whether
     the first couple were naked or clothed before the fall [contrast between the texts]; Clothing at every
-    altar or place of prostration; God makes garments of skin for the first couple; God makes garments
-    of skin for the first couple [divergence between the texts]; Every nation has a fixed term that cannot
-    be advanced or delayed by an hour; and 1 more.'
+    altar or place of prostration; God makes garments of skin for the first couple [divergence between
+    the texts]; Whether the first humans went naked, and how clothing came to them [divergence between
+    the texts]; God makes garments of skin for the first couple; and 3 more.'
   basis: reading
 - text: 'Altar law: tagged by Claude (model), reading the Hebrew.'
   basis: reading

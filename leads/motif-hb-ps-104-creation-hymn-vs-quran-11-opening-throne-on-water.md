@@ -21,20 +21,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God lays the beams of his upper chambers on the (heavenly) waters
-    and waters the mountains from them (weight 6.7); All creatures look to God to give their food in due
-    season; he opens his hand and they are satisfied (weight 6.3). Pair score 13.0.'
+    and waters the mountains from them (weight 7.7); All creatures look to God to give their food in due
+    season; he opens his hand and they are satisfied (weight 6.8). Pair score 14.6.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 39 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 39 more.'
   basis: reading
 - text: 'Only in The Book made firm, the Throne on the water, the challenge of ten surahs: Every creature
     on earth has its provision from God, who knows its resting place and depository; Before creation God''s
@@ -42,11 +42,11 @@ evidence:
     God; Those who want only this life are paid in full here and have nothing in the hereafter but fire;
     God created heaven and earth to test which of you is best in deeds; Deniers demand that a treasure
     be sent down to the prophet or an angel come with him; A divine wind or spirit hovers or moves over
-    the primeval waters; YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever; Man calls
+    the primeval waters; YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever; God sets
+    each creature in its place, supplies its sustenance and knows (reckons) its term or abode; Man calls
     on God lying, sitting or standing in distress, then passes on as if he had never prayed once relieved;
     Moses writes the Torah and gives it to the Levitical priests and elders; What is over the waters before
-    or at creation: God''s spirit, his throne or his voice [divergence between the texts]; Sinner hides
-    from God, who calls ''Where are you?''; and 9 more.'
+    or at creation: God''s spirit, his throne or his voice [divergence between the texts]; and 11 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

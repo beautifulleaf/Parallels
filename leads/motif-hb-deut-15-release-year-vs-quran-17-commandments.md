@@ -39,7 +39,7 @@ passages:
   text: وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبْسُطْهَا كُلَّ ٱلْبَسْطِ فَتَقْعُدَ
     مَلُومًا مَّحْسُورًا
 evidence:
-- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
     longer meet the thresholds after a method change. Kept for review.'
   basis: original
 - text: 'Shared motifs, rarest first: Open your hand wide to the poor brother; do not harden your heart

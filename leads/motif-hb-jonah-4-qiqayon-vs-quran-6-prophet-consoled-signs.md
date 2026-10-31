@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Animals are in God''s care and are gathered before him (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: Animals are in God''s care and are gathered before him (weight 7.3).
+    Pair score 7.3.'
   basis: reading
 - text: 'Only in Jonah''s anger, the qiqayon plant and God''s question: God''s compassion extends to the
     many animals of the city; God argues from the prophet''s pity for a plant that grew and perished in
@@ -38,11 +38,12 @@ evidence:
     is consoled: messengers before him were denied and patient until help came; We have neglected nothing
     in the Book; God opened the gates of everything to them, and when they rejoiced he seized them suddenly;
     If you could seek a tunnel into the earth or a ladder into the sky to bring them a sign...; A ladder
-    (sullam / sullām) reaching from earth to heaven; The prophet disclaims having God''s treasuries, knowing
-    the unseen, or being an angel; The paired extremes of digging into the earth and climbing to the sky;
-    Had God willed he would have made all humanity a single community; None can change the words of God;
-    The unbelievers demand: ''Why does he not bring us a sign from his Lord?''; When harm touches people
-    they turn to God; when he gives them relief a party of them associates partners again; and 1 more.'
+    (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral] [divergence between the texts];
+    The prophet disclaims having God''s treasuries, knowing the unseen, or being an angel; The paired
+    extremes of digging into the earth and climbing to the sky; Had God willed he would have made all
+    humanity a single community; A ladder (sullam / sullām) reaching from earth to heaven; The sovereign''s
+    word cannot be turned back, cast aside, broken or changed; Animals, even those that cannot speak,
+    have their case judged or are gathered before the deity; and 4 more.'
   basis: reading
 - text: 'Jonah''s anger, the qiqayon plant and God''s question: tagged by Claude (model), reading the
     Hebrew.'

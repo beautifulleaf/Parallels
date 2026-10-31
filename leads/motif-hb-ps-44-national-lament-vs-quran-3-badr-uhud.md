@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those killed for God''s sake [divergence between the texts] (weight
-    6.7); Explaining a military defeat of God''s people [contrast between the texts] (weight 6.7). Pair
-    score 13.4.'
+    7.7); Explaining a military defeat of God''s people [contrast between the texts] (weight 7.7). Pair
+    score 15.5.'
   basis: reading
 - text: 'Only in Psalm 44 - national lament; why do you sleep, O Lord: Our fathers told us what you did
     in their days: you dispossessed nations and planted them; God made his people a byword (mashal) among
     nations, a shaking of the head among peoples; God crushed them in the place of jackals (tannim) and
     covered them with deep darkness; For your sake we are killed all day long, counted as sheep for slaughter;
     All this came upon us though we have not forgotten you nor been false to your covenant; God sold his
-    people for no price and scattered them among the nations; ''Awake! Why do you sleep, O Lord?''; The
-    petitioner addresses God as ''my King and my God''; God knows the treachery of the eyes and what the
-    breasts conceal; They did not win the land by their sword but by God''s right hand, arm and the light
-    of his face; The petitioner spreads out his palms toward God; Moses is told to remind his people of
-    ''the days of God''; and 7 more.'
+    people for no price and scattered them among the nations; The petitioner addresses God as ''my King
+    and my God''; God knows the treachery of the eyes and what the breasts conceal; They did not win the
+    land by their sword but by God''s right hand, arm and the light of his face; The petitioner spreads
+    out his palms toward God; ''Awake! Why do you sleep, O Lord?''; Moses is told to remind his people
+    of ''the days of God''; and 7 more.'
   basis: reading
 - text: 'Only in Badr and Uhud: God helped you at Badr when you were weak; The prophet told to be gentle,
     pardon them and consult them (shawirhum) in the matter; Such days God alternates among people; Defeat
@@ -41,7 +41,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 16 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 24 more.'
   basis: reading
 - text: 'Psalm 44 - national lament; why do you sleep, O Lord: tagged by Claude (model), reading the Hebrew.'
   basis: reading

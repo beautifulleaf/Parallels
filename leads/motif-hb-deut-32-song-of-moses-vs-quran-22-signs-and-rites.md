@@ -21,28 +21,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They sacrificed to shedim (demons), no-gods, new gods their fathers
-    did not know (weight 6.3); I kill and I make alive, I wound and I heal; there is no god beside me
-    (weight 5.1). Pair score 11.4.'
+    did not know (weight 7.3); I kill and I make alive, I wound and I heal; there is no god beside me
+    (weight 6.1). Pair score 13.5.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 29 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; Whether God, or the gods, eat the offerings [contrast between the texts]; and 29
+    more.'
   basis: reading
 - text: 'Only in Migrants provided for; the night and day, the held sky, a rite for every nation: God
     holds back the sky from falling onto the earth except by his leave; Those who emigrated for God and
     were killed or died will receive a fine provision; God appointed for every community a rite of sacrifice
-    (mansak); God''s eyes saw the speaker''s unformed substance (golem); all his days were written in
-    God''s book before one of them existed; God makes the night pass into the day and the day into the
-    night; Eye for an eye, tooth for a tooth (lex talionis); God visits the earth with rain, softens it
-    with showers, and crowns the year with harvest; God keeps a book in which names are written and from
-    which sinners are blotted.'
+    (mansak); He holds up the sky (so that it does not fall on the earth); The sky falls, or is kept from
+    falling, on the earth [divergence between the texts]; God''s eyes saw the speaker''s unformed substance
+    (golem); all his days were written in God''s book before one of them existed; The god (alone) holds
+    the heavens (and earth) in place: the bond or rope of heaven, holding back the sky; God makes the
+    night pass into the day and the day into the night; Eye for an eye, tooth for a tooth (lex talionis);
+    God visits the earth with rain, softens it with showers, and crowns the year with harvest; God keeps
+    a book in which names are written and from which sinners are blotted.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

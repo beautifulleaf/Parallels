@@ -21,19 +21,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Alms go to the poor, the needy, the collectors, those whose hearts
-    are reconciled, slaves, debtors, God''s cause and the wayfarer (weight 6.7); Freeing or buying back
-    the enslaved (weight 6.7). Pair score 13.4.'
+    are reconciled, slaves, debtors, God''s cause and the wayfarer (weight 7.7); Freeing or buying back
+    the enslaved (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Outcry over debt slavery; Nehemiah''s remission and his refusal of the governor''s allowance:
-    The poor borrow money against fields and vineyards to pay the king''s tax; Parents forced to sell
-    sons and daughters into slavery for debt; In famine the people pledge fields, vineyards and houses
-    for grain; Governor refuses his official food allowance so as not to burden the people; Leader shakes
-    out the fold of his garment: so may God shake out whoever breaks the oath; Governor feeds 150 officials
-    and foreign visitors daily at his own expense; The poor protest: ''our flesh is like our brothers''
-    flesh, our children like their children''; A great outcry of the poor and their wives against their
-    fellow Jews; Israelite sold to a resident alien may be redeemed by kin or himself, priced by years
-    to jubilee; Leader prays ''remember me, my God, for good'' for his deeds; Lending at interest or increase
-    to a poor brother is forbidden.'
+    The poor borrow money against fields and vineyards to pay the king''s tax; In famine the people pledge
+    fields, vineyards and houses for grain; Governor refuses his official food allowance so as not to
+    burden the people; Leader shakes out the fold of his garment: so may God shake out whoever breaks
+    the oath; Governor feeds 150 officials and foreign visitors daily at his own expense; The poor protest:
+    ''our flesh is like our brothers'' flesh, our children like their children''; A great outcry of the
+    poor and their wives against their fellow Jews; Israelite sold to a resident alien may be redeemed
+    by kin or himself, priced by years to jubilee; Leader prays ''remember me, my God, for good'' for
+    his deeds; Parents forced to sell sons and daughters into slavery for debt; Lending at interest or
+    increase to a poor brother is forbidden.'
   basis: reading
 - text: 'Only in The eight recipients of alms: Who receives the sacred levy for the needy [divergence
     between the texts]; Freeing or buying back the enslaved [divergence between the texts]; Relief of

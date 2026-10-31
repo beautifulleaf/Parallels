@@ -21,9 +21,9 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 5.8);
-    Israel killed the prophets who warned them (weight 5.1); People make a molten calf while the leader
-    is on the mountain (weight 4.7). Pair score 15.6.'
+- text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 6.8);
+    Israel killed the prophets who warned them (weight 6.1); People make a molten calf while the leader
+    is on the mountain (weight 5.8). Pair score 18.8.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -39,13 +39,13 @@ evidence:
 - text: 'Only in Polemic with the People of the Book: The love of the calf was made to sink (be drunk)
     into their hearts; If the next world is yours alone, wish for death: they never will; Enmity to Gabriel
     and Michael (Mikal) equated with enmity to God; Gabriel (Jibril) brings down the revelation upon the
-    prophet''s heart; Some wish to be granted a life of a thousand years; Israel made to drink the golden
-    calf [divergence between the texts]; Worship of God alone joined to duty to parents [divergence between
-    the texts]; Claim that the fire will touch them only for a few numbered days, rebutted; The idol is
-    burned, ground to powder, scattered on water and the people made to drink it; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); Woe to those who write the book with their
-    own hands and say it is from God, for a small price; Hypocrites profess faith before believers and
-    tell their own ''devils'' in private they were only mocking; and 14 more.'
+    prophet''s heart; Some wish to be granted a life of a thousand years; Whether anyone added words to,
+    or took words from, a sacred or ancient written text [divergence between the texts]; What is drunk
+    at the making of a covenant, and what the drinking does [divergence between the texts]; Israel made
+    to drink the golden calf [divergence between the texts]; Worship of God alone joined to duty to parents
+    [divergence between the texts]; Claim that the fire will touch them only for a few numbered days,
+    rebutted; The idol is burned, ground to powder, scattered on water and the people made to drink it;
+    Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna); and 17 more.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

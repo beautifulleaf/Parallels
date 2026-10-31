@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Jews quoted as saying ''God''s hand is fettered''; rather both his
-    hands are outspread (weight 6.7). Pair score 6.7.'
+    hands are outspread (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Lamentations 2: the Lord became like an enemy; children faint in the streets: The city''s
     ruin is as vast as the sea; who can heal it?; Infants and sucklings faint from hunger in the city
     squares, asking their mothers for bread and wine; Arise and cry out in the night at the beginning
-    of the watches, pour out your heart like water; The day of YHWH''s anger on which none escape; God
-    did not remember his footstool (Zion or the ark) on the day of his anger; The city''s gates sink into
-    the ground and their bars are broken; God himself spurns his altar and destroys his own sanctuary
-    and festivals; The Lord has become like an enemy to his own people; God cast down the splendor of
-    Israel from heaven to earth; The mourner''s liver is poured out on the ground; There is no torah,
-    and the prophets find no vision from YHWH; Passers-by clap hands, hiss and wag their heads at the
-    ruined city; and 14 more.'
+    of the watches, pour out your heart like water; God did not remember his footstool (Zion or the ark)
+    on the day of his anger; God cast down the splendor of Israel from heaven to earth; The mourner''s
+    liver is poured out on the ground; There is no torah, and the prophets find no vision from YHWH; Passers-by
+    clap hands, hiss and wag their heads at the ruined city; Priest and prophet are slain in the sanctuary
+    of the Lord; Enemies raise a shout in the temple as on a festival day; Let tears run down like a torrent
+    day and night with no rest; The city''s gates sink into the ground and their bars are broken; and
+    14 more.'
   basis: reading
 - text: 'Only in ''God''s hand is fettered''; the blessings of observing the Torah: Believers, Jews, Sabians
     and Christians who believe in God and the last day and do good need not fear; Whenever they kindle

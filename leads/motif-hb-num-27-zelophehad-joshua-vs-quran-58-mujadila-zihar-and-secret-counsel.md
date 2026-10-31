@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Daughters petition and win the right to inherit when there is no
-    son (weight 5.8). Pair score 5.8.'
+    son (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Daughters of Zelophehad; Moses views the land; Joshua commissioned: Petition so that
     a dead man''s name not be lost from his clan; Leader ordains his successor by laying hands and sharing
@@ -44,7 +44,7 @@ evidence:
     poor; There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
     wherever they are; God is well pleased with them and they with him (radiya llahu ''anhum wa-radu ''anhu);
     Expiation in steps according to what one can afford [divergence between the texts]; God will put his
-    law within the people and write it on their hearts; and 10 more.'
+    law within the people and write it on their hearts; and 14 more.'
   basis: reading
 - text: 'Daughters of Zelophehad; Moses views the land; Joshua commissioned: tagged by Claude (model),
     reading the Hebrew.'

@@ -15,8 +15,8 @@ traditions:
 layers:
 - motif
 motifs:
-- prophet-describes-staff-uses-as-divergence
 - brother-as-vizier-as-divergence
+- prophet-describes-staff-uses-as-divergence
 - prophet-slow-of-speech-as-divergence
 - hand-turned-leprous-white-as-snow-as-divergence
 - hand-turned-leprous-white-as-snow
@@ -27,25 +27,25 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Asked what is in his hand, the prophet lists his staff''s uses:
-    leaning, beating down leaves for sheep, other needs [divergence between the texts] (weight 6.7); The
-    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
-    the texts] (weight 6.7); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''
-    [divergence between the texts] (weight 6.7); Prophet''s hand turns leprous, white as snow, and is
-    restored as a sign [divergence between the texts] (weight 6.3); Prophet''s hand turns leprous, white
-    as snow, and is restored as a sign (weight 5.6); Prophet protests he is heavy of mouth and tongue
-    or ''uncircumcised of lips'' (weight 5.6); An eloquent brother is appointed to speak for the hero,
-    who is ''as God'' to him (weight 5.6); A staff thrown down becomes a serpent and turns back into a
-    staff (weight 5.4). Pair score 48.6.'
+- text: 'Shared motifs, rarest first: The prophet asks that his brother be made his helper (wazīr) and
+    partner in his mission [divergence between the texts] (weight 7.7); Asked what is in his hand, the
+    prophet lists his staff''s uses: leaning, beating down leaves for sheep, other needs [divergence between
+    the texts] (weight 7.7); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''
+    [divergence between the texts] (weight 7.7); Prophet''s hand turns leprous, white as snow, and is
+    restored as a sign [divergence between the texts] (weight 7.3); Prophet''s hand turns leprous, white
+    as snow, and is restored as a sign (weight 6.6); Prophet protests he is heavy of mouth and tongue
+    or ''uncircumcised of lips'' (weight 6.6); An eloquent brother is appointed to speak for the hero,
+    who is ''as God'' to him (weight 6.6); A staff thrown down becomes a serpent and turns back into a
+    staff (weight 6.5). Pair score 57.0.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
     of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
-    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
-    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
-    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
-    man; The hero carries ''the staff of God'' with which he performs signs; What Moses demands of Pharaoh
-    in God''s name [divergence between the texts]; God taught humankind by the pen (qalam) what it did
+    and seeks to kill him; The people believe the prophet''s signs and bow in worship; Hero may return
+    home because those seeking his life are dead; Wife cuts off her son''s foreskin with a flint and touches
+    it to the threatened man; The hero carries ''the staff of God'' with which he performs signs; What
+    Moses demands of Pharaoh in God''s name [divergence between the texts]; God claims to make the mouth,
+    the mute, the deaf, the seeing and the blind; God taught humankind by the pen (qalam) what it did
     not know; Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence between the
     texts]; How a people responds to a sign given to prove the messenger [contrast between the texts];
     and 11 more.'
@@ -54,13 +54,14 @@ evidence:
     so each soul is repaid for its striving; Prophet prays for his chest to be expanded and the knot of
     his tongue untied; Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating
     down leaves for sheep, other needs; The prophet asks that his brother be made his helper (wazīr) and
-    partner in his mission; The call comes in the holy valley named Ṭuwā; Traveling with his family, the
-    prophet sees a fire and goes to bring back a brand or find guidance there [divergence between the
-    texts]; The call comes in the holy valley named Ṭuwā [divergence between the texts]; Traveling with
-    his family, the prophet sees a fire and goes to bring back a brand or find guidance there; Hero told
-    to remove his sandals because the place is holy ground; A shepherd tending flocks comes to the mountain
-    of God and is called; God appears in a bush that burns without being consumed; The called one asks
-    for a sign that it is God who speaks.'
+    partner in his mission; The call comes in the holy valley named Ṭuwā; A messenger''s heavy or knotted
+    tongue and its remedy [divergence between the texts]; Traveling with his family, the prophet sees
+    a fire and goes to bring back a brand or find guidance there [divergence between the texts]; A serpent
+    appears and the trembling man is told ''do not fear'' [neutral] [divergence between the texts]; The
+    deity gives the one he commissions a sign on his arm or hand [divergence between the texts]; An object
+    thrown down becomes a live beast and, taken in the hand, returns to what it was [neutral] [divergence
+    between the texts]; A person''s tongue is ''bound'' and the binding is asked to be loosed; The deity
+    keeps (or makes) the speaker''s tongue free of impediment; and 7 more.'
   basis: reading
 - text: 'Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: tagged by Claude
     (model), reading the Hebrew.'

@@ -18,7 +18,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The pig is unclean and forbidden (weight 5.3). Pair score 5.3.'
+- text: 'Shared motifs, rarest first: The pig is unclean and forbidden (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Clean and unclean animals; carcass impurity: The camel is unclean because it does not
     have a split hoof; Touching or carrying a carcass makes one unclean until evening; Creatures that

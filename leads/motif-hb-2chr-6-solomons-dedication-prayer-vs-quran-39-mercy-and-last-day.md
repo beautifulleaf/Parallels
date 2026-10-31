@@ -19,19 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''O my servants who have transgressed against themselves, do not
-    despair of God''s mercy; God forgives all sins'' (weight 6.3). Pair score 6.3.'
+    despair of God''s mercy; God forgives all sins'' (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Solomon''s blessing and dedication prayer on the bronze platform: Prayer lists famine,
-    pestilence, blight, mildew, locust, siege and sickness as occasions for prayer; The king kneels on
-    a bronze platform in the court and spreads his hands to heaven; An oath sworn before God''s altar
-    in the temple, judged by God; People away from Jerusalem or in exile pray in the direction of the
-    land, city and temple; Captives confess in exile ''We have sinned, done wrong and acted wickedly'';
-    ''Arise, YHWH, to your resting place, you and the ark of your might''; A foreigner from a far land
-    who hears of God''s name comes to pray at the temple and is heard; ''There is no man who does not
-    sin''; Temple called a ''house of zebul'' (exalted dwelling), a place for God to dwell forever; Heaven
-    and the heaven of heavens cannot contain God, much less a temple; God has said he will dwell in thick
-    darkness (''arafel); The dynasty''s continuance is conditioned on the heirs'' faithfulness; and 7
-    more.'
+- text: 'Only in Solomon''s blessing and dedication prayer on the bronze platform: The king kneels on
+    a bronze platform in the court and spreads his hands to heaven; People away from Jerusalem or in exile
+    pray in the direction of the land, city and temple; Captives confess in exile ''We have sinned, done
+    wrong and acted wickedly''; ''Arise, YHWH, to your resting place, you and the ark of your might'';
+    Prayer lists famine, pestilence, blight, mildew, locust, siege and sickness as occasions for prayer;
+    A foreigner from a far land who hears of God''s name comes to pray at the temple and is heard; ''There
+    is no man who does not sin''; An oath sworn before God''s altar in the temple, judged by God; Temple
+    called a ''house of zebul'' (exalted dwelling), a place for God to dwell forever; God has said he
+    will dwell in thick darkness (''arafel); The dynasty''s continuance is conditioned on the heirs''
+    faithfulness; The direction faced in prayer [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Only in Do not despair of mercy; the earth in God''s grip; the throngs to hell and Garden: The
     angels are seen surrounding the Throne, glorifying the praise of their Lord; The blessed praise God
@@ -44,8 +43,8 @@ evidence:
     trumpet blast all in heaven and earth swoon (sa''iqa) except whom God wills; at the second they stand
     looking; On the Day of Resurrection the whole earth is in God''s grip and the heavens folded in his
     right hand; The earth shines (lit up) with God''s glory; The earth shines (lit up) with God''s glory
-    [divergence between the texts]; Who holds the keys that open and shut [divergence between the texts];
-    and 6 more.'
+    [divergence between the texts]; At the gate of the netherworld the gatekeepers question those who
+    arrive [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Solomon''s blessing and dedication prayer on the bronze platform: tagged by Claude (model), reading
     the Hebrew.'

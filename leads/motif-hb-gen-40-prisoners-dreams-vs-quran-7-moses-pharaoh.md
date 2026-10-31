@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh executes or threatens offenders by hanging, impaling or
-    crucifixion (weight 6.7). Pair score 6.7.'
+    crucifixion (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The cupbearer''s and baker''s dreams: On the king''s birthday feast prisoners are released
     or executed; ''Lift up your head'' means restoration for one and beheading for the other; King''s
@@ -35,11 +35,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 24 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 34 more.'
   basis: reading
 - text: 'The cupbearer''s and baker''s dreams: tagged by Claude (model), reading the Hebrew.'
   basis: reading

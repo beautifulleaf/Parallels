@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When harm touches people they turn to God; when he gives them relief
-    a party of them associates partners again (weight 5.4). Pair score 5.4.'
+    a party of them associates partners again (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -42,10 +42,11 @@ evidence:
     will come, and if returned to my Lord I will have the best with him''; On the Day God calls ''Where
     are my partners?'', they answer ''We declare to you none of us is a witness''; The Quran is guidance
     and healing (shifa'') for believers; for others deafness and blindness; ''We will show them our signs
-    on the horizons and in themselves until it is clear to them that it is the truth''; Do not say ''I
-    will repay evil''; wait for YHWH and he will save you; Doing good to an enemy, and what it brings
-    [divergence between the texts]; Had it been revealed to a non-Arab (aʿjamī) reciting it, they would
-    still not believe; When an evil prompting from Satan stirs you, seek refuge in God; and 13 more.'
+    on the horizons and in themselves until it is clear to them that it is the truth''; The adversary
+    is reconciled and becomes a friend; who spoke evil speaks good [divergence between the texts]; Whether
+    to answer an evil word or deed with its like [divergence between the texts]; Doing good to an enemy,
+    and what it brings [divergence between the texts]; Prayer or prostration addressed to the sun [response
+    between the texts]; and 21 more.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

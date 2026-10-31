@@ -18,29 +18,29 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Kings promised to come from the patriarch or matriarch (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: Kings promised to come from the patriarch or matriarch (weight 7.3).
+    Pair score 7.3.'
   basis: reading
 - text: 'Only in El Shaddai, new names and the covenant of circumcision: Ishmael circumcised at thirteen,
     Abraham at ninety-nine; Uncircumcised male is cut off from his people; Circumcision commanded as the
     sign of the covenant; Whether and how God''s covenant with Abraham passes to his offspring [contrast
     between the texts]; A nation descended from Ishmael [divergence between the texts]; Circumcision on
-    the eighth day after birth; Ishmael promised to father twelve princes and a great nation; God changes
-    a person''s name to mark a new destiny; God promises to make the patriarch a great nation; God reveals
-    himself by the name El Shaddai; Patriarch or matriarch laughs at the promise of a child in old age;
-    God promises the land to the patriarch''s descendants; and 1 more.'
+    the eighth day after birth; Ishmael promised to father twelve princes and a great nation; God promises
+    to make the patriarch a great nation; God reveals himself by the name El Shaddai; Patriarch or matriarch
+    laughs at the promise of a child in old age; God changes a person''s name to mark a new destiny; God
+    promises the land to the patriarch''s descendants; and 1 more.'
   basis: reading
 - text: 'Only in Shifted words, ''we hear and disobey'', and the people of the Sabbath: God gave the family
     of Abraham the book, wisdom and a great kingdom; Opponents twist an ambiguous address (''rāʿinā'')
     with their tongues to mock; The blessed enter a deep, lasting shade (ẓill ẓalīl); Threat to obliterate
     faces and turn them backward; In hellfire, whenever the skins are burnt through, they are replaced
     with new skins; Some of the People of the Book believe in al-jibt and al-ṭāghūt (idols, false powers);
-    The people answer as one: all that YHWH has spoken we will do [divergence between the texts]; The
-    people answer as one: all that YHWH has spoken we will do [response between the texts]; Those who
-    violate the Sabbath are punished (executed, cut off, cursed or transformed) [divergence between the
-    texts]; Those who claim to be pure are rebuked: God purifies whom he will; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); God does not forgive associating partners
-    with him (shirk) but forgives anything less; and 6 more.'
+    A thread as the smallest measure: not even a thread is withheld, or wronged; The people answer as
+    one: all that YHWH has spoken we will do [divergence between the texts]; The people answer as one:
+    all that YHWH has spoken we will do [response between the texts]; Those who violate the Sabbath are
+    punished (executed, cut off, cursed or transformed) [divergence between the texts]; Those who claim
+    to be pure are rebuked: God purifies whom he will; Israel at the mountain says ''we hear and we disobey''
+    (sami''na wa-''asayna); and 7 more.'
   basis: reading
 - text: 'El Shaddai, new names and the covenant of circumcision: tagged by Claude (model), reading the
     Hebrew.'

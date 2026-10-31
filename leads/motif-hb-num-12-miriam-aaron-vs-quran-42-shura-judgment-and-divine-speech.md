@@ -13,24 +13,24 @@ traditions:
 layers:
 - motif
 motifs:
-- face-to-face-revelation
 - modes-of-divine-speech-to-prophets-as-divergence
+- face-to-face-revelation
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God speaks to one prophet ''mouth to mouth'', not in dreams or riddles
-    (weight 6.7); How God speaks to prophets: face to face, in vision or dream, from behind a veil, or
-    by a messenger [divergence between the texts] (weight 6.3). Pair score 13.0.'
+- text: 'Shared motifs, rarest first: How God speaks to prophets: face to face, in vision or dream, from
+    behind a veil, or by a messenger [divergence between the texts] (weight 7.3); God speaks to one prophet
+    ''mouth to mouth'', not in dreams or riddles (weight 7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in Miriam and Aaron speak against Moses: Hero called the humblest man on earth; Ordinary
     prophets receive revelation in visions and dreams; Afflicted person shut outside the camp seven days;
-    Prophet''s own siblings challenge his unique authority; Father spitting in a daughter''s face brings
-    seven days'' shame; Believers must not put themselves before God and his messenger, nor raise their
-    voices above the prophet''s or shout to him; Prophet criticized over his foreign (Cushite) wife; Moses
-    asks his people: ''Why do you hurt me when you know I am God''s messenger to you?''; when they swerved
-    God made their hearts swerve; Those who hurt Moses: God cleared him of what they said [divergence
-    between the texts]; God ranked some messengers above others; to some God spoke; Offender struck with
+    Prophet''s own siblings challenge his unique authority; Believers must not put themselves before God
+    and his messenger, nor raise their voices above the prophet''s or shout to him; Prophet criticized
+    over his foreign (Cushite) wife; Moses asks his people: ''Why do you hurt me when you know I am God''s
+    messenger to you?''; when they swerved God made their hearts swerve; Those who hurt Moses: God cleared
+    him of what they said [divergence between the texts]; Father spitting in a daughter''s face brings
+    seven days'' shame; God ranked some messengers above others; to some God spoke; Offender struck with
     skin disease ''white as snow''; Hero''s prayer or act halts a divine punishment; and 1 more.'
   basis: reading
 - text: 'Only in The damned seek a way back; God gives children as he wills; three ways God speaks to
@@ -39,9 +39,12 @@ evidence:
     he exults; when evil strikes him for his deeds he is ungrateful; Before revelation the prophet did
     not know what the Book or faith was; The revelation is a spirit (ruh) from God''s command and a light
     by which he guides; God speaks to a human only by inspiration (wahy), from behind a veil (hijab),
-    or by sending a messenger; God grants daughters to whom he wills, sons to whom he wills, or both,
-    and makes barren whom he wills; The prophet is not a guardian over people; his duty is only to deliver
-    the message (al-balagh); No human can see God''s face and live.'
+    or by sending a messenger; Children come from the divine, as a gift; A deity deliberately makes a
+    human barren [divergence between the texts]; The modes in which a deity speaks with a human: dream,
+    waking speech, revelation, veil, messenger [divergence between the texts]; God grants daughters to
+    whom he wills, sons to whom he wills, or both, and makes barren whom he wills; The prophet is not
+    a guardian over people; his duty is only to deliver the message (al-balagh); No human can see God''s
+    face and live.'
   basis: reading
 - text: 'Miriam and Aaron speak against Moses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

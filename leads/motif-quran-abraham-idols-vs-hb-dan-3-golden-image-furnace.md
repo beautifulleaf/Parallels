@@ -17,8 +17,8 @@ motifs:
 - thrown-into-fire
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The fire does not harm the hero (weight 5.8); Hero thrown into a
-    fire or furnace by a king or people (weight 5.3). Pair score 11.1.'
+- text: 'Shared motifs, rarest first: The fire does not harm the hero (weight 6.8); Hero thrown into a
+    fire or furnace by a king or people (weight 6.2). Pair score 13.1.'
   basis: reading
 - text: 'Only in Abraham and the idols in the Quran: Hero blames the largest idol for the destruction;
     Hero reasons from the stars, moon and sun to the one God; Hero smashes or burns idols; Hero''s father

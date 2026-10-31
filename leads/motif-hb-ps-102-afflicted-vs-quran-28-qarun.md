@@ -20,29 +20,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All on earth perish; there remains the Face of your Lord, possessor
-    of majesty and honor (weight 6.3). Pair score 6.3.'
+    of majesty and honor (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 102, prayer of the afflicted; the heavens wear out like a garment: Sufferer''s
     days vanish like smoke and his bones burn like a hearth; Prayer ''Do not take me away in the midst
-    of my days''; Mourner eats ashes like bread and mingles his drink with tears; God looks down from
-    his holy height to hear the prisoner''s groan and free those doomed to die; Sufferer likened to a
-    desert bird (qa''at), an owl of the ruins, a lonely bird on a roof; Heading ''A prayer of the afflicted
-    when he faints and pours out his complaint before YHWH''; God''s servants cherish Zion''s stones and
-    pity her dust; it is the appointed time to favor her; This is written for a later generation, a people
-    yet to be created, to praise Yah; Speaker''s days are like a lengthening (evening) shadow; Earth and
-    heavens will perish and wear out like a garment, changed like clothing, but God remains the same;
-    On the last day the earth is changed into another earth, and the heavens too; Foreign kings bring
-    gifts or tribute to God''s temple in Jerusalem; and 3 more.'
+    of my days''; God looks down from his holy height to hear the prisoner''s groan and free those doomed
+    to die; Heading ''A prayer of the afflicted when he faints and pours out his complaint before YHWH'';
+    God''s servants cherish Zion''s stones and pity her dust; it is the appointed time to favor her; This
+    is written for a later generation, a people yet to be created, to praise Yah; Speaker''s days are
+    like a lengthening (evening) shadow; Mourner eats ashes like bread and mingles his drink with tears;
+    Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
+    the same; Sufferer likened to a desert bird (qa''at), an owl of the ruins, a lonely bird on a roof;
+    On the last day the earth is changed into another earth, and the heavens too; Prayer that God rebuild
+    the walls of Jerusalem/Zion; and 3 more.'
   basis: reading
 - text: 'Only in Qarun''s treasures and his swallowing by the earth; closing: God who imposed the Quran
     will bring the prophet back to a place of return (maʿād); Qārūn says his wealth came to him through
     knowledge he possesses; Qārūn (Korah) of Moses'' people was given treasures whose keys would weigh
     down a band of strong men; Donors confess that everything comes from God and they only give back what
-    is his; Bystanders of a divine punishment fear it could have struck them too; Qārūn goes out in his
-    finery and the worldly wish for his fortune; What Korah''s sin was, and why the earth swallowed him
-    [divergence between the texts]; Warning against saying my power and the might of my hand made this
-    wealth; The rich man''s wealth is his strong city; the poverty of the poor is their ruin; The earth
-    opens its mouth and swallows rebels alive into Sheol.'
+    is his; The earth opens and swallows ill-gotten riches or the wrongful rich man with his house; Bystanders
+    of a divine punishment fear it could have struck them too; Qārūn goes out in his finery and the worldly
+    wish for his fortune; What Korah''s sin was, and why the earth swallowed him [divergence between the
+    texts]; Warning against saying my power and the might of my hand made this wealth; The rich man''s
+    wealth is his strong city; the poverty of the poor is their ruin; The earth opens its mouth and swallows
+    rebels alive into Sheol.'
   basis: reading
 - text: 'Psalm 102, prayer of the afflicted; the heavens wear out like a garment: tagged by Claude (model),
     reading the Hebrew.'

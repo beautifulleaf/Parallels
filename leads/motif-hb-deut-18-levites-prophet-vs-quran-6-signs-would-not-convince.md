@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the dead may be consulted, or would persuade the living
-    if they spoke [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    if they spoke [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:
@@ -39,7 +39,7 @@ evidence:
     heart fat, ears heavy and eyes shut lest they understand and be healed [divergence between the texts];
     Do not spread false reports or follow the majority to do wrong in court; None can change the words
     of God; Prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand
-    and be healed.'
+    and be healed; ''Who can change the word that has gone out?'' / ''none can change his words''.'
   basis: reading
 - text: 'Levitical dues; forbidden divination; the prophet like Moses: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,17 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every inclination (yetser) of the human heart is only evil (weight
-    6.7). Pair score 6.7.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 45 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What sets the flood in
+    motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts];
+    How the ark is described [divergence between the texts]; What the flood hero does when the vessel
+    comes to rest [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; How the flood waters are stopped and
+    subside [divergence between the texts]; and 45 more.'
   basis: reading
 - text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
     town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
@@ -41,7 +43,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 108 more.'
+    brings back the missing royal cup, with a guarantor; and 146 more.'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading

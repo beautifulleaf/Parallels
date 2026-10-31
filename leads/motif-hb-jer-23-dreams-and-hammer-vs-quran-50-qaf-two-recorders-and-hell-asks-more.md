@@ -19,12 +19,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created man, knows what his soul whispers to him, and is nearer
-    to him than his jugular vein (weight 6.7). Pair score 6.7.'
+    to him than his jugular vein (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in A God near and far; dreams versus the word like a hammer: False prophets say ''I have
-    dreamed, I have dreamed''; what has straw to do with wheat?; ''Am I a God near at hand and not a God
-    far off? Do I not fill heaven and earth?''; God is against the prophets who steal his words from one
-    another and wag their tongues saying ''oracle''; God''s word is like a hammer that shatters rock;
+    dreamed, I have dreamed''; what has straw to do with wheat?; God is against the prophets who steal
+    his words from one another and wag their tongues saying ''oracle''; God''s word is like a hammer that
+    shatters rock; ''Am I a God near at hand and not a God far off? Do I not fill heaven and earth?'';
     God makes his words in the prophet''s mouth a fire and the people wood it consumes; There is no darkness
     or deep shadow where evildoers can hide from God; God did not send the prophets who promise peace;
     they prophesy a lying vision, divination and the deceit of their heart.'
@@ -39,9 +39,9 @@ evidence:
     with a driver (sa''iq) and a witness (shahid); The stupor (sakra) of death comes with the truth: ''this
     is what you tried to avoid''; Two receivers sit on the right and the left recording every word a person
     utters; At judgment the covering is removed from a person and his sight that day is sharp as iron;
-    Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire that
-    never says ''Enough''; God''s knowledge of a person''s thoughts and words, from afar or from near
-    [divergence between the texts]; and 13 more.'
+    Whether the work of creation brings toil and weariness on the divine [divergence between the texts];
+    Whether the work of creation brings toil and weariness on the divine [response between the texts];
+    and 25 more.'
   basis: reading
 - text: 'A God near and far; dreams versus the word like a hammer: tagged by Claude (model), reading the
     Hebrew.'

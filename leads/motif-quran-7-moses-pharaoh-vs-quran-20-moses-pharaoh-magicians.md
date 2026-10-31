@@ -2,7 +2,7 @@
 id: motif-quran-7-moses-pharaoh-vs-quran-20-moses-pharaoh-magicians
 title: Moses before Pharaoh, the magicians and the plagues ↔ Moses and Aaron before Pharaoh; the contest
   with the magicians
-summary: 8 shared motifs, found by the separate reads; not yet compared side by side.
+summary: 9 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -12,9 +12,10 @@ traditions:
 layers:
 - motif
 motifs:
+- impaling-or-crucifying-opponents
+- let-my-people-go-demand-as-divergence
 - prophets-staff-swallows-magicians-staffs-as-divergence
 - magicians-fall-prostrate-and-believe
-- let-my-people-go-demand-as-divergence
 - prophets-staff-swallows-magicians-staffs
 - hardening-of-pharaohs-heart-as-divergence
 - let-my-people-go-demand
@@ -22,15 +23,16 @@ motifs:
 - hardening-of-pharaohs-heart
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The prophet''s staff-serpent swallows the magicians'' staff-serpents
-    [divergence between the texts] (weight 6.3); The defeated magicians fall prostrate and declare faith
-    in the Lord of Moses and Aaron (weight 6.3); Prophet delivers God''s demand ''Let my people go that
-    they may serve me'' [divergence between the texts] (weight 6.3); The prophet''s staff-serpent swallows
-    the magicians'' staff-serpents (weight 6.0); The king''s heart is hardened (by himself or by God)
-    so he refuses to release the people [divergence between the texts] (weight 5.6); Prophet delivers
-    God''s demand ''Let my people go that they may serve me'' (weight 5.4); Prophet''s wonders are imitated
-    by the king''s magicians in a contest (weight 5.1); The king''s heart is hardened (by himself or by
-    God) so he refuses to release the people (weight 4.6). Pair score 45.6.'
+- text: 'Shared motifs, rarest first: Opponents of the ruler are impaled or crucified on wood (weight
+    7.3); Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
+    the texts] (weight 7.3); The prophet''s staff-serpent swallows the magicians'' staff-serpents [divergence
+    between the texts] (weight 7.3); The defeated magicians fall prostrate and declare faith in the Lord
+    of Moses and Aaron (weight 7.3); The prophet''s staff-serpent swallows the magicians'' staff-serpents
+    (weight 7.1); The king''s heart is hardened (by himself or by God) so he refuses to release the people
+    [divergence between the texts] (weight 6.6); Prophet delivers God''s demand ''Let my people go that
+    they may serve me'' (weight 6.5); Prophet''s wonders are imitated by the king''s magicians in a contest
+    (weight 6.0); The king''s heart is hardened (by himself or by God) so he refuses to release the people
+    (weight 5.7). Pair score 61.2.'
   basis: reading
 - text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
     years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
@@ -38,25 +40,25 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 17 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 26 more.'
   basis: reading
 - text: 'Only in Moses and Aaron before Pharaoh; the contest with the magicians: The contest with the
     magicians is set for a festival day (yawm al-zīna) at forenoon with the people assembled; From the
     earth humans were created, into it they return, and from it they are brought forth again; Formula:
     ''Peace be on whoever follows the guidance''; Pharaoh asks about the fate of former generations; the
     answer: their knowledge is with God in a book; The prophets are told to speak to the tyrant with gentle
-    words, that he may take heed or fear; The defeated magicians fall prostrate and declare faith in the
-    Lord of Moses and Aaron [divergence between the texts]; The magicians'' ropes and staffs appear by
-    sorcery to be moving like snakes; Condemned believers tell the tyrant ''decree what you will; you
-    can only decree for this worldly life''; Pharaoh threatens the converted magicians with cutting off
-    hands and feet on opposite sides and crucifixion (on palm trunks); King defies the prophet: ''Who
-    is YHWH that I should obey him?'' [divergence between the texts]; God made the earth a cradle (mahd)
-    or bed and laid out paths in it; King defies the prophet: ''Who is YHWH that I should obey him?'';
-    and 3 more.'
+    words, that he may take heed or fear; In a contest of magic each side throws, and one side''s creature
+    seizes or swallows the other''s [divergence between the texts]; ''Fear not'': the deity reassures
+    with ''I see and I hear'' (I hear and I see); Those who rose against the king are impaled (crucified)
+    on stakes or palm trunks [divergence between the texts]; Whether the events of the distant past can
+    be known, and by whom [divergence between the texts]; The defeated magicians fall prostrate and declare
+    faith in the Lord of Moses and Aaron [divergence between the texts]; The magicians'' ropes and staffs
+    appear by sorcery to be moving like snakes; Condemned believers tell the tyrant ''decree what you
+    will; you can only decree for this worldly life''; and 10 more.'
   basis: reading
 - text: 'Moses before Pharaoh, the magicians and the plagues: tagged by Claude (model), reading the Arabic.'
   basis: reading
@@ -65,7 +67,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: The prophet's staff-serpent swallows the magicians' staff-serpents
+finding: Opponents of the ruler are impaled or crucified on wood
 kinds:
 - shared
 units:
@@ -76,6 +78,55 @@ units:
   title: Moses and Aaron before Pharaoh; the contest with the magicians
   tradition: islam
 matches:
+- kind: shared
+  label: Opponents of the ruler are impaled or crucified on wood
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:124
+      lang: ar
+      text: لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
+    note: The nobles are blinded and 'ana GIŠ.MEŠ izzaqapūšunūti' (impaled on stakes) at Taide. Pharaoh
+      to the magicians, Q 7:124 'la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin thumma la-uṣallibannakum
+      ajmaʿīn'. Mutilation then exposure on wood.
+  - tradition: islam
+    passages:
+    - ref: Quran 20:71
+      lang: ar
+      text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ
+        ٱلسِّحْرَ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ
+        ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
+    note: 'The wood is named on both sides: ''ana GIŠ.MEŠ izzaqapūšunūti'' vs Q 20:71 ''wa-la-uṣallibannakum
+      fī judhūʿi n-nakhl''.'
+- kind: shared
+  label: Prophet delivers God's demand 'Let my people go that they may serve me'
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:104
+      lang: ar
+      text: وَقَالَ مُوسَىٰ يَٰفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 7:105
+      lang: ar
+      text: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ
+        مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
+    note: 'The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî wə-yāḥōggû
+      lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a pretext
+      of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ... fa-arsil
+      maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey, and ''the
+      Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2) becomes
+      in fa-ʾti bihā in kunta mina l-ṣādiqīn.'
+  - tradition: islam
+    passages:
+    - ref: Quran 20:47
+      lang: ar
+      text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا
+        تُعَذِّبْهُمْ قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
+    note: 'Title and purpose change. Exod: kōh-ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾet-ʿammî wəyāḥōggû lî
+      bammidbār ... ʾĕlōhê hāʿibrîm niqrāʾ ʿālênû ... wənizbəḥâ: the God of Israel, of the Hebrews, wants
+      a festival and sacrifice three days into the wilderness. Q: innā rasūlā rabbika, ''messengers of
+      your Lord'', Pharaoh''s own Lord, and the purpose is release from oppression, fa-arsil maʿanā banī
+      Isrāʾīla wa-lā tuʿadhdhibhum. Q adds wa-s-salāmu ʿalā mani ttabaʿa l-hudā.'
 - kind: shared
   label: The prophet's staff-serpent swallows the magicians' staff-serpents
   sides:
@@ -131,35 +182,6 @@ matches:
     - ref: Quran 20:70
       lang: ar
       text: فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
-- kind: shared
-  label: Prophet delivers God's demand 'Let my people go that they may serve me'
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 7:104
-      lang: ar
-      text: وَقَالَ مُوسَىٰ يَٰفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
-    - ref: Quran 7:105
-      lang: ar
-      text: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ
-        مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
-    note: 'The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî wə-yāḥōggû
-      lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a pretext
-      of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ... fa-arsil
-      maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey, and ''the
-      Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2) becomes
-      in fa-ʾti bihā in kunta mina l-ṣādiqīn.'
-  - tradition: islam
-    passages:
-    - ref: Quran 20:47
-      lang: ar
-      text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا
-        تُعَذِّبْهُمْ قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
-    note: 'Title and purpose change. Exod: kōh-ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾet-ʿammî wəyāḥōggû lî
-      bammidbār ... ʾĕlōhê hāʿibrîm niqrāʾ ʿālênû ... wənizbəḥâ: the God of Israel, of the Hebrews, wants
-      a festival and sacrifice three days into the wilderness. Q: innā rasūlā rabbika, ''messengers of
-      your Lord'', Pharaoh''s own Lord, and the purpose is release from oppression, fa-arsil maʿanā banī
-      Isrāʾīla wa-lā tuʿadhdhibhum. Q adds wa-s-salāmu ʿalā mani ttabaʿa l-hudā.'
 - kind: shared
   label: The prophet's staff-serpent swallows the magicians' staff-serpents
   sides:

@@ -18,17 +18,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A day in God''s courts is better than a thousand elsewhere; better
-    a doorkeeper than dwell in tents of wickedness (weight 6.7). Pair score 6.7.'
+    a doorkeeper than dwell in tents of wickedness (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Psalm 84, how lovely are your dwellings; the sparrow at the altar: Sparrow and swallow
-    find a nest for their young at God''s altars; YHWH God is called a sun (shemesh) and a shield; Soul
-    longs and faints for the courts of YHWH, the living God; Baca / Bakka on the pilgrims'' way or as
-    the House [divergence between the texts]; Wish to dwell in God''s tent or house forever; Pilgrims
-    passing through the Valley of Baca (weeping/balsam) make it a place of springs; God gives strength
-    to his king and exalts the horn of his anointed (messiah); The House (Kaaba) made a place of return
-    and security for mankind; Pilgrims go from strength to strength until each appears before God in Zion;
-    Genealogy of Korah and his sons; Heading assigns the psalm to a Levitical singer or guild (Jeduthun,
-    Asaph, sons of Korah, Heman, Ethan).'
+- text: 'Only in Psalm 84, how lovely are your dwellings; the sparrow at the altar: YHWH God is called
+    a sun (shemesh) and a shield; Soul longs and faints for the courts of YHWH, the living God; Baca /
+    Bakka on the pilgrims'' way or as the House [divergence between the texts]; Sparrow and swallow find
+    a nest for their young at God''s altars; Wish to dwell in God''s tent or house forever; Pilgrims passing
+    through the Valley of Baca (weeping/balsam) make it a place of springs; God gives strength to his
+    king and exalts the horn of his anointed (messiah); The House (Kaaba) made a place of return and security
+    for mankind; Pilgrims go from strength to strength until each appears before God in Zion; Genealogy
+    of Korah and his sons; Heading assigns the psalm to a Levitical singer or guild (Jeduthun, Asaph,
+    sons of Korah, Heman, Ethan).'
   basis: reading
 - text: 'Only in The Night of Decree: On a holy night the angels and the Spirit descend by their Lord''s
     permission with every command; it is peace until dawn; Scripture sent down on the Night of Decree

@@ -19,18 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Iron collars (aghlal) are put on the necks of the damned (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Blessings and the great curses: Futility curse: betroth a wife another lies with, build
-    a house and not live in it, plant a vineyard and not enjoy it; Blessed in city and field, in coming
-    in and going out, basket and kneading trough; Smitten with the boils of Egypt, tumors, scab and itch
-    that cannot be healed; Covenant at Moab in addition to the covenant at Horeb; Delicate woman who never
-    set foot on the ground secretly eats her afterbirth and children in the siege; Enemies come out one
-    way and flee seven ways; King and people exiled to an unknown nation to serve gods of wood and stone;
-    As God rejoiced to do you good, so he will rejoice to destroy you; God will make you the head and
-    not the tail; God puts an iron yoke on your neck; In the morning you will say: would it were evening;
-    in the evening: would it were morning; God will send you back to Egypt in ships to be sold as slaves,
-    and no one will buy; and 20 more.'
+- text: 'Only in Blessings and the great curses: Blessed in city and field, in coming in and going out,
+    basket and kneading trough; Covenant at Moab in addition to the covenant at Horeb; Delicate woman
+    who never set foot on the ground secretly eats her afterbirth and children in the siege; Enemies come
+    out one way and flee seven ways; King and people exiled to an unknown nation to serve gods of wood
+    and stone; As God rejoiced to do you good, so he will rejoice to destroy you; God will make you the
+    head and not the tail; God puts an iron yoke on your neck; God will send you back to Egypt in ships
+    to be sold as slaves, and no one will buy; The stranger in your midst rises higher and higher while
+    you sink; Smitten with the boils of Egypt, tumors, scab and itch that cannot be healed; Have you seen
+    what you sow? Do you make it grow, or are we the grower? We could make it chaff; and 20 more.'
   basis: reading
 - text: 'Only in Partners own nothing; intercession; the weak and the arrogant at judgment: When terror
     is lifted from their hearts they ask ''what did your Lord say?'' and answer ''The truth''; Not an

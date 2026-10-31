@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eating the fat (helev) of sacrificial animals is forbidden [response
-    between the texts] (weight 6.7); Eating the fat (helev) of sacrificial animals is forbidden (weight
-    6.3). Pair score 13.0.'
+    between the texts] (weight 7.7); Eating the fat (helev) of sacrificial animals is forbidden (weight
+    7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Guilt and well-being offerings; priests'' portions; fat and blood bans: Fat of a carcass
     or torn animal may be used for work but not eaten; An impure person who eats sacred meat is cut off;
@@ -43,7 +43,8 @@ evidence:
     to be eaten only by whom they will; Pagans reserve what is in the wombs of cattle for males, forbidden
     to wives unless stillborn; The camel is unclean because it does not have a split hoof [contrast between
     the texts]; List of clean and unclean animals: split hoof and chewing cud [response between the texts];
-    The fat tail of the sheep is offered [divergence between the texts]; and 11 more.'
+    The due from crops and young animals is given at once, at harvest time [divergence between the texts];
+    and 14 more.'
   basis: reading
 - text: 'Guilt and well-being offerings; priests'' portions; fat and blood bans: tagged by Claude (model),
     reading the Hebrew.'

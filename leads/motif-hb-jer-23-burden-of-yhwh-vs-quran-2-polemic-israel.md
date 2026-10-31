@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Accusation that some People of the Book distort (yuharrifuna) God''s
-    word after understanding it (weight 5.8). Pair score 5.8.'
+    word after understanding it (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in What is the burden of YHWH?: When asked ''What is the burden (massa) of YHWH?'' the prophet
     answers ''You are the burden, and I will cast you off''; the phrase is banned; YHWH is the true God,
@@ -30,13 +30,13 @@ evidence:
 - text: 'Only in Polemic with the People of the Book: The love of the calf was made to sink (be drunk)
     into their hearts; If the next world is yours alone, wish for death: they never will; Enmity to Gabriel
     and Michael (Mikal) equated with enmity to God; Gabriel (Jibril) brings down the revelation upon the
-    prophet''s heart; Some wish to be granted a life of a thousand years; Israel made to drink the golden
-    calf [divergence between the texts]; Worship of God alone joined to duty to parents [divergence between
-    the texts]; Claim that the fire will touch them only for a few numbered days, rebutted; The idol is
-    burned, ground to powder, scattered on water and the people made to drink it; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); Woe to those who write the book with their
-    own hands and say it is from God, for a small price; Hypocrites profess faith before believers and
-    tell their own ''devils'' in private they were only mocking; and 16 more.'
+    prophet''s heart; Some wish to be granted a life of a thousand years; Whether anyone added words to,
+    or took words from, a sacred or ancient written text [divergence between the texts]; What is drunk
+    at the making of a covenant, and what the drinking does [divergence between the texts]; Israel made
+    to drink the golden calf [divergence between the texts]; Worship of God alone joined to duty to parents
+    [divergence between the texts]; Claim that the fire will touch them only for a few numbered days,
+    rebutted; The idol is burned, ground to powder, scattered on water and the people made to drink it;
+    Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna); and 19 more.'
   basis: reading
 - text: 'What is the burden of YHWH?: tagged by Claude (model), reading the Hebrew.'
   basis: reading

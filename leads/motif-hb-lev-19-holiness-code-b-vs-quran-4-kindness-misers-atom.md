@@ -19,13 +19,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Kindness to the near neighbor, the distant neighbor, the companion
-    at one''s side and the wayfarer (weight 6.7). Pair score 6.7.'
+    at one''s side and the wayfarer (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Gashes in the flesh
-    for the dead and tattoo marks are forbidden; Prohibition of cross-breeding animals, sowing mixed seed
-    and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three years, holy in the fourth,
-    eaten in the fifth; Rise before the gray-haired and honor the elderly; Man who lies with a slave woman
-    designated to another man: inquiry and guilt offering, not death, because she is not free; A father
+- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Prohibition of cross-breeding
+    animals, sowing mixed seed and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three
+    years, holy in the fourth, eaten in the fifth; Rise before the gray-haired and honor the elderly;
+    Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
+    because she is not free; Gashes in the flesh for the dead and tattoo marks are forbidden; A father
     must not make his daughter a prostitute; The head of a household must not prostitute a woman under
     his authority [divergence between the texts]; Just weights and measures, and the ground given for
     them [divergence between the texts]; Love the stranger, for you were strangers in Egypt; Do not wear
@@ -35,12 +35,14 @@ evidence:
   basis: reading
 - text: 'Only in The circle of kindness, misers, and the atom''s weight: Misers who urge stinginess and
     hide what God gave them of his bounty; On that day the disbelievers wish the earth were leveled over
-    them; God does not wrong anyone by an atom''s weight (mithqāl dharra); Good works (spending, prayer)
-    done to be seen by people (riyāʾ); God multiplies a good deed (tenfold) while an evil deed is requited
-    only by its like; Love your neighbor as yourself; They will say to the mountains ''Cover us'' and
-    to the hills ''Fall on us''; Whoever turns from God''s remembrance is assigned a devil as constant
-    companion (qarin), whom he curses at the judgment; On judgment day a witness is brought from every
-    nation, and the Prophet as witness over them; Honor father and mother, with the promise of long life.'
+    them; God does not wrong anyone by an atom''s weight (mithqāl dharra); Being covered over by a mountain
+    or by the earth: cursed on others or wished for oneself [shared matter] [divergence between the texts];
+    Good works (spending, prayer) done to be seen by people (riyāʾ); God multiplies a good deed (tenfold)
+    while an evil deed is requited only by its like; Love your neighbor as yourself; Whoever turns from
+    God''s remembrance is assigned a devil as constant companion (qarin), whom he curses at the judgment;
+    They will say to the mountains ''Cover us'' and to the hills ''Fall on us''; On judgment day a witness
+    is brought from every nation, and the Prophet as witness over them; Honor father and mother, with
+    the promise of long life.'
   basis: reading
 - text: 'Mixtures, orlah fruit, mourning cuttings, alien and just weights: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is sent as witness, bearer of good tidings and warner
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Ezekiel appointed watchman; bound and struck dumb in his house: The glory seen by the
     river appears again to the prophet in a valley/plain; The prophet is told to shut himself in his house;
@@ -42,7 +42,7 @@ evidence:
     divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts [divergence
     between the texts]; Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by
     me''; Oath sworn by raising the hand to God; Whether those who stayed behind share in the spoil [contrast
-    between the texts]; Who is exempted from going out to war [contrast between the texts]; and 3 more.'
+    between the texts]; Who is exempted from going out to war [contrast between the texts]; and 7 more.'
   basis: reading
 - text: 'Ezekiel appointed watchman; bound and struck dumb in his house: tagged by Claude (model), reading
     the Hebrew.'

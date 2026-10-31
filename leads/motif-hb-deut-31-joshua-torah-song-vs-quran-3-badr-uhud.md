@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Muhammad is only a messenger; messengers passed before him; if he
-    died or were killed would you turn on your heels? (weight 6.7). Pair score 6.7.'
+    died or were killed would you turn on your heels? (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Joshua commissioned; Torah written and deposited; the Song commanded: Book of the Torah
     placed beside the ark as a witness; God foretells to the dying prophet that the people will go astray
@@ -39,7 +39,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 17 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 25 more.'
   basis: reading
 - text: 'Joshua commissioned; Torah written and deposited; the Song commanded: tagged by Claude (model),
     reading the Hebrew.'

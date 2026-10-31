@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer ''Turn us back to you, YHWH, and we shall return'' (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Lamentations 5: communal prayer ''Remember, O LORD'', renew our days as of old: A book
-    closes on the fear that God has utterly rejected his people; The crown has fallen from our head; woe
-    to us for we have sinned; Foxes (jackals) prowl over desolate Mount Zion; YHWH sits enthroned forever;
-    his throne endures from generation to generation; Our inheritance is turned over to strangers, our
-    houses to foreigners; A poem of twenty-two lines matching the alphabet count but not acrostic; The
-    people have become orphans without a father, their mothers like widows; The conquered must pay for
-    their own water and buy their wood; Princes hanged up by their hands by the enemy; Women are raped
-    in Zion and virgins in the towns of Judah; Our skin is hot as an oven from the burning of famine;
-    Slaves rule over the conquered with no one to deliver them; and 3 more.'
+    closes on the fear that God has utterly rejected his people; YHWH sits enthroned forever; his throne
+    endures from generation to generation; A poem of twenty-two lines matching the alphabet count but
+    not acrostic; The people have become orphans without a father, their mothers like widows; The conquered
+    must pay for their own water and buy their wood; Princes hanged up by their hands by the enemy; Women
+    are raped in Zion and virgins in the towns of Judah; Our skin is hot as an oven from the burning of
+    famine; Slaves rule over the conquered with no one to deliver them; Captive hero made to grind at
+    the mill in prison; The crown has fallen from our head; woe to us for we have sinned; Foxes (jackals)
+    prowl over desolate Mount Zion; and 3 more.'
   basis: reading
 - text: 'Only in The three who were left behind; every step recorded: The three who stayed behind are
     forgiven after the earth grew narrow for them and they found no refuge but God; Every thirst, fatigue,

@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First servant song: God''s chosen servant with his spirit brings
-    justice to the nations without crying out; a bruised reed he will not break (weight 6.7). Pair score
-    6.7.'
+    justice to the nations without crying out; a bruised reed he will not break (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in First servant song; light to the nations; a new song; God as warrior and as woman in
     labor; the blind servant: ''A bruised reed he will not break and a dimly burning wick he will not
-    quench''; God''s servant given as a covenant for the people and a light to the nations, to open blind
-    eyes and free prisoners from the dungeon; The former things have come to pass and God now declares
-    new things before they spring forth; God, silent long, now cries out like a woman in labor, gasping
-    and panting; ''I am YHWH, that is my name; my glory I will not give to another nor my praise to idols'';
-    Who gave Jacob to plunder? Was it not YHWH against whom we sinned? Yet they did not take it to heart;
-    Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe; Who is
-    called blind and deaf toward God''s word [divergence between the texts]; On that day the deaf will
-    hear the words of a book and the eyes of the blind will see out of darkness; God brings believers
+    quench''; The former things have come to pass and God now declares new things before they spring forth;
+    ''I am YHWH, that is my name; my glory I will not give to another nor my praise to idols''; Who gave
+    Jacob to plunder? Was it not YHWH against whom we sinned? Yet they did not take it to heart; God''s
+    servant given as a covenant for the people and a light to the nations, to open blind eyes and free
+    prisoners from the dungeon; Who is blind but my servant, deaf like my messenger? Israel sees much
+    but does not observe; God, silent long, now cries out like a woman in labor, gasping and panting;
+    Who is called blind and deaf toward God''s word [divergence between the texts]; On that day the deaf
+    will hear the words of a book and the eyes of the blind will see out of darkness; God brings believers
     out of darknesses into light; false gods lead others from light into darkness; Call to sing a new
     song (shir hadash) to God; God alone stretches out the heavens; and 1 more.'
   basis: reading

@@ -18,15 +18,15 @@ motifs:
 - family-saved
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: All others perish (weight 5.0); Hero''s family saved with him (weight
-    4.5). Pair score 9.5.'
+- text: 'Shared motifs, rarest first: All others perish (weight 5.9); Hero''s family saved with him (weight
+    5.4). Pair score 11.3.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
-    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero blessed on leaving the
-    vessel; Hero''s life or mission spans 950 years; Deity resolves or promises not to repeat the destruction;
-    Destruction motivated by human wickedness or violence; Waters pour both from the sky and from springs
-    of the earth; Animals taken aboard in pairs; Deity or gods smell the offering; Hero offers sacrifice
-    after leaving the vessel; Vessel comes to rest on a named mountain; and 5 more.'
+- text: 'Only in The Flood in Genesis: Hero''s life or mission spans 950 years; Destruction motivated
+    by human wickedness or violence; A sign in the sky commemorates the flood (bow, necklace); Birds released
+    to find dry land; Deity resolves or promises not to repeat the destruction; Animals taken aboard in
+    pairs; Deity or gods smell the offering; Exact dimensions of the vessel are specified; Vessel comes
+    to rest on a named mountain; Hero blessed on leaving the vessel; Hero builds a vessel on divine instruction;
+    Hero singled out as righteous or pious; and 5 more.'
   basis: reading
 - text: 'Only in Noah answered; David and Solomon''s judgment, the praising mountains, mail and wind:
     David and Solomon judge a case of sheep that strayed by night into a field; Solomon is given the right
@@ -34,10 +34,11 @@ evidence:
     people see that divine wisdom is in the king to do justice; The people see that divine wisdom is in
     the king to do justice [divergence between the texts]; Liability for one''s grazing animals or spreading
     fire damaging another''s field; Mountains and birds are made to glorify God together with David [divergence
-    between the texts]; God taught David the craft of making coats of mail; Hero asks the deity to judge
-    or destroy his opponents [divergence between the texts]; The stormy wind is subjected to Solomon,
-    blowing at his command; Mountains and birds are made to glorify God together with David; Devils (shayāṭīn)
-    and jinn labor for Solomon, diving and building; Hero asks the deity to judge or destroy his opponents.'
+    between the texts]; A herdsman''s sheep graze in a cultivator''s field [divergence between the texts];
+    God taught David the craft of making coats of mail; Hero asks the deity to judge or destroy his opponents
+    [divergence between the texts]; The stormy wind is subjected to Solomon, blowing at his command; Mountains
+    and birds are made to glorify God together with David; Devils (shayāṭīn) and jinn labor for Solomon,
+    diving and building; and 1 more.'
   basis: reading
 - text: 'The Flood in Genesis: tagged by Claude (model), reading the Hebrew.'
   basis: reading

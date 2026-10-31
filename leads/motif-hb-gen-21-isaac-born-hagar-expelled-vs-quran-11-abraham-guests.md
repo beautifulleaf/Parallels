@@ -20,9 +20,9 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: When and why Sarah laughs, and how it is answered (weight 6.7);
-    Promised son born to aged parents at the appointed time (weight 6.7); Patriarch or matriarch laughs
-    at the promise of a child in old age (weight 5.6). Pair score 19.0.'
+- text: 'Shared motifs, rarest first: When and why Sarah laughs, and how it is answered (weight 7.7);
+    Promised son born to aged parents at the appointed time (weight 7.7); Patriarch or matriarch laughs
+    at the promise of a child in old age (weight 6.6). Pair score 22.1.'
   basis: reading
 - text: 'Only in Birth of Isaac and expulsion of Hagar and Ishmael: Mother lays her dying child under
     a bush and sits a bowshot away weeping; Slave-wife and her son expelled at the wife''s demand; The
@@ -36,14 +36,16 @@ evidence:
     day after birth; and 3 more.'
   basis: reading
 - text: 'Only in Abraham''s guests, the roasted calf and the laughing wife: Abraham is forbearing, sighing
-    (awwah) and penitent; Abraham''s angelic guests do not stretch their hands to the food, and he is
-    afraid; The annunciation names Isaac ''and after Isaac, Jacob''; Doubt voiced at the promise of a
-    son in old age; Who is afraid during the visit of the heavenly guests, and why [divergence between
-    the texts]; How Abraham learns of Sodom''s fate, and his response; Who Abraham''s visitors are; How
-    God answers Abraham''s plea for the people of Sodom [divergence between the texts]; When and why Sarah
-    laughs, and how it is answered [divergence between the texts]; Whether Abraham''s heavenly guests
-    eat the meal he serves [divergence between the texts]; A tender calf is slaughtered and served to
-    divine guests; The old wife overhears the promise of a son at the tent door and laughs; and 5 more.'
+    (awwah) and penitent; The annunciation names Isaac ''and after Isaac, Jacob''; Whether the divine
+    guest eats the meal prepared by the host [divergence between the texts]; Doubt voiced at the promise
+    of a son in old age; Who is afraid during the visit of the heavenly guests, and why [divergence between
+    the texts]; How Abraham learns of Sodom''s fate, and his response; Who Abraham''s visitors are; A
+    host sets meat before an arriving messenger, who does not take the meal, and fear follows [divergence
+    between the texts]; How God answers Abraham''s plea for the people of Sodom [divergence between the
+    texts]; An intercessor pleads with the divine to spare a city whose destruction is decreed; the decree
+    is not turned back [divergence between the texts]; When and why Sarah laughs, and how it is answered
+    [divergence between the texts]; Whether Abraham''s heavenly guests eat the meal he serves; and 11
+    more.'
   basis: reading
 - text: 'Birth of Isaac and expulsion of Hagar and Ishmael: tagged by Claude (model), reading the Hebrew.'
   basis: reading

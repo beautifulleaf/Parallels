@@ -20,32 +20,33 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The office given to humans on earth at creation [divergence between
-    the texts] (weight 6.7); God speaks to heavenly beings about making man [divergence between the texts]
-    (weight 6.7); God speaks in the plural (us, our) as if to a divine council (weight 6.0). Pair score
-    19.4.'
+    the texts] (weight 7.7); God speaks to heavenly beings about making man [divergence between the texts]
+    (weight 7.7); God speaks in the plural (us, our) as if to a divine council (weight 6.6). Pair score
+    22.1.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; The heavens and earth were a closed-up mass
     (ratq) that God split apart (fatq) [divergence between the texts]; The form God gave humans at creation
     [divergence between the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast
+    between the texts]; Sun and moon are set to rule day and night and mark signs and seasons [divergence
+    between the texts]; Night and day are two signs; the sign of night is effaced and that of day made
+    bright for reckoning years; The order of creating heaven and earth and the days allotted to each [divergence
     between the texts]; and 25 more.'
   basis: reading
 - text: 'Only in Adam, the angels and Iblis: God teaches Adam all the names and he recites them to the
     angels, who cannot; The expelled are told ''Go down, enemies to one another'' with a dwelling and
     provision on earth for a time; God announces to the angels he will place a vicegerent (khalifa) on
-    earth; The first man names the animals; Adam receives words from his Lord and God turns to him in
-    forgiveness; Angels object that the new human will corrupt the earth and shed blood while they praise
-    God; Enmity decreed at the expulsion from the garden [divergence between the texts]; The first man''s
-    response after the transgression in the garden (blame or repentance) [divergence between the texts];
-    The first man and the names of the creatures [divergence between the texts]; The tree forbidden to
-    the first humans [divergence between the texts]; The garden given to the first humans to live and
-    eat in [divergence between the texts]; The human condition on earth after the expulsion [divergence
-    between the texts]; and 10 more.'
+    earth; Adam receives words from his Lord and God turns to him in forgiveness; Angels object that the
+    new human will corrupt the earth and shed blood while they praise God; Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; The first man''s response after the transgression
+    in the garden (blame or repentance) [divergence between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; The tree forbidden to the first humans [divergence between
+    the texts]; The garden given to the first humans to live and eat in [divergence between the texts];
+    The human condition on earth after the expulsion [divergence between the texts]; After the episode
+    of the forbidden or refused food [divergence between the texts]; and 16 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

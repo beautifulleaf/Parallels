@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The penalty prescribed for theft [contrast between the texts] (weight
-    6.3). Pair score 6.3.'
+- text: 'Shared motifs, rarest first: The penalty for theft [neutral] [contrast between the texts] (weight
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Covenant Code - homicide, injury and the goring ox: An animal that kills a person is
     stoned and its flesh not eaten; Men fighting strike a pregnant woman and she miscarries; One who injures
@@ -35,10 +35,11 @@ evidence:
     hands of the male and female thief as recompense; Those who repent before they are overpowered are
     pardoned; Seek a means of approach (al-wasīla) to God; Those who wage war on God and spread corruption:
     killed, crucified, hands and feet cut off on opposite sides, or exiled; Executed men''s hands and
-    feet cut off and their bodies hung up publicly; Neither their silver nor their gold can save them
-    on the day of YHWH''s wrath; Each wrongdoer would ransom himself with all that is on earth, if he
-    could; No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life
-    is too costly.'
+    feet cut off and their bodies hung up publicly; Cutting off hands and feet as the punishment of those
+    who sin against (wage war on) the god [divergence between the texts]; Neither their silver nor their
+    gold can save them on the day of YHWH''s wrath; Each wrongdoer would ransom himself with all that
+    is on earth, if he could; No man can ransom his brother or give God a ransom (kofer) for him; the
+    redemption of life is too costly.'
   basis: reading
 - text: 'Covenant Code - homicide, injury and the goring ox: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -47,7 +48,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: The penalty prescribed for theft
+finding: The penalty for theft [neutral]
 kinds:
 - contrast
 units:
@@ -59,7 +60,7 @@ units:
   tradition: islam
 matches:
 - kind: contrast
-  label: The penalty prescribed for theft
+  label: The penalty for theft [neutral]
   note: 'Exod: ḥămiššāh vāqār yəšallēm taḥat haš-šôr wə-ʾarbaʿ-ṣōʾn taḥat haś-śeh, restitution scaled
     to the theft. Q 5:38: fa-qṭaʿū aydiyahumā, corporal punishment in place of compensation.'
   sides:

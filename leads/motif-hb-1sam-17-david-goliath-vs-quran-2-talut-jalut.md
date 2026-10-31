@@ -18,17 +18,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: David kills the Philistine giant [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in David and Goliath: Champion curses his opponent by his gods and threatens to give his
-    flesh to birds and beasts; Challenge or trial lasting forty days; Giant champion challenges the enemy
-    army to single combat to decide the war; Youth refuses the king''s armor and goes with his own simple
-    weapons; Hero comes ''in the name of YHWH'', not with sword and spear; The king asks ''whose son is
-    this youth?'' about one already in his service; Eldest brother angrily scorns the youngest''s presumption;
-    Shepherd boy rescued his flock from a lion and a bear; Youth kills the giant with a sling-stone to
-    the forehead; Hero beheads the slain enemy with the enemy''s own sword; David and the coat of mail
-    [contrast between the texts]; God taught David the craft of making coats of mail [contrast between
-    the texts]; and 4 more.'
+- text: 'Only in David and Goliath: Challenge or trial lasting forty days; Youth refuses the king''s armor
+    and goes with his own simple weapons; Hero comes ''in the name of YHWH'', not with sword and spear;
+    The king asks ''whose son is this youth?'' about one already in his service; Eldest brother angrily
+    scorns the youngest''s presumption; Youth kills the giant with a sling-stone to the forehead; Hero
+    beheads the slain enemy with the enemy''s own sword; Champion curses his opponent by his gods and
+    threatens to give his flesh to birds and beasts; David and the coat of mail [contrast between the
+    texts]; God taught David the craft of making coats of mail [contrast between the texts]; Giant champion
+    challenges the enemy army to single combat to decide the war; Whoever slays the enemy champion receives
+    the king''s daughter and riches; and 4 more.'
   basis: reading
 - text: 'Only in Talut (Saul), the ark and Jalut (Goliath): The ark (tabut) returns, carried by angels,
     containing tranquility (sakina) and relics left by the family of Moses and Aaron; David kills Jalut
@@ -38,9 +38,10 @@ evidence:
     object that the chosen king has no wealth and they have more right to kingship; Before battle the
     army is tested at a river: whoever drinks is not with the leader, except a handful scooped by hand;
     The ark of the covenant: a gold-plated acacia chest with rings and poles [divergence between the texts];
-    What the ark contains [contrast between the texts]; A giant taunts Israel and is killed by a hero;
-    A jar of manna preserved before the testimony for future generations; Objection raised against the
-    newly chosen king [divergence between the texts]; and 10 more.'
+    A candidate for kingship is judged by his bodily size or strength (too small for the throne; given
+    increase of body) [divergence between the texts]; A claimant''s body is weighed as fitness for kingship
+    [divergence between the texts]; What the ark contains [contrast between the texts]; A champion whom
+    everyone fears is killed by one unlikely man; and 17 more.'
   basis: reading
 - text: 'David and Goliath: tagged by Claude (model), reading the Hebrew.'
   basis: reading

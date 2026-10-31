@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Twelve springs in the wilderness [divergence between the texts]
-    (weight 6.3); Oasis with twelve springs and seventy palm trees (weight 6.0); The people grumble against
-    their leaders about food or water (weight 5.1). Pair score 17.4.'
+    (weight 7.3); Oasis with twelve springs and seventy palm trees (weight 7.1); The people grumble against
+    their leaders about food or water (weight 6.1). Pair score 20.5.'
   basis: reading
 - text: 'Only in Bitter water sweetened at Marah; Elim''s twelve springs and seventy palms: At a desert
     stop God gives statute and ordinance and tests the people; Three days in the wilderness without finding

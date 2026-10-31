@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Levites kill idolaters including their own kin and are consecrated
-    for it [divergence between the texts] (weight 6.7); The Levites kill idolaters including their own
-    kin and are consecrated for it (weight 5.8). Pair score 12.5.'
+    for it [divergence between the texts] (weight 7.7); The Levites kill idolaters including their own
+    kin and are consecrated for it (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -38,9 +38,10 @@ evidence:
     of the obedient: prophets, the truthful (ṣiddīqūn), martyrs and the righteous; Had they been commanded
     ''kill yourselves or leave your homes'', few would have done it; Obey God, obey the Messenger and
     those in authority; refer disputes to God and the Messenger; Some of the People of the Book believe
-    in al-jibt and al-ṭāghūt (idols, false powers); Return trusts (amānāt) to their owners and judge between
-    people with justice; Prophet intercedes and averts God''s destruction of the people; Difficult cases
-    referred to the Levitical priests and judge at the chosen place; defiance is capital.'
+    in al-jibt and al-ṭāghūt (idols, false powers); Command to hand over possessions / trusts to their
+    owners, in a context of just judgment; Return trusts (amānāt) to their owners and judge between people
+    with justice; Prophet intercedes and averts God''s destruction of the people; Difficult cases referred
+    to the Levitical priests and judge at the chosen place; defiance is capital.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

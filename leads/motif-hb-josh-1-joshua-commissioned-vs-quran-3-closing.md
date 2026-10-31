@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Meditate on the book of the Torah day and night; it shall not depart
-    from your mouth (weight 6.0). Pair score 6.0.'
+    from your mouth (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in God commissions Joshua; Transjordan tribes pledged: People pledge to obey the successor
     as they obeyed his predecessor; rebels to die; Every place your foot treads will be yours, from the
-    wilderness to the Euphrates; Three days of preparation before a decisive crossing or event; Formula:
-    be strong and courageous, do not fear, God will not leave or forsake you; Leader charges his successor
-    to be strong and courageous; Tribes settled east of the Jordan must lead the armed vanguard for their
-    brothers.'
+    wilderness to the Euphrates; Three days of preparation before a decisive crossing or event; Leader
+    charges his successor to be strong and courageous; Tribes settled east of the Jordan must lead the
+    armed vanguard for their brothers; Formula: be strong and courageous, do not fear, God will not leave
+    or forsake you.'
   basis: reading
 - text: 'Only in Signs for people of understanding; closing prayer: ''We heard a caller calling to faith:
     believe in your Lord''; God does not waste the work of any worker, male or female; you are of one

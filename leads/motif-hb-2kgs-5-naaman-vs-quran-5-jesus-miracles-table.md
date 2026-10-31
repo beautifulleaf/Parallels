@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: King tears his clothes: ''Am I God, to kill and to make alive?''
-    (weight 6.7); Jesus heals the born-blind and the leper and raises the dead by God''s leave (weight
-    6.0). Pair score 12.7.'
+    (weight 7.7); Jesus heals the born-blind and the leper and raises the dead by God''s leave (weight
+    7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Naaman healed of leprosy; Gehazi''s greed: Prophet sends word to wash seven times in
     the Jordan; the foreigner is cured; A captive Israelite servant girl tells her foreign mistress that

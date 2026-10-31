@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abstinence from wine, by vow or by general law [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Nazirite vow: Priest places the boiled shoulder and cakes in the hands of the shaved
     Nazirite and waves them; Nazirite may not become unclean even for the corpse of father, mother, brother
@@ -38,10 +38,10 @@ evidence:
     free a slave, or fast three days; Game of the sea and its food are lawful, also for travellers; Wine,
     gambling, stone altars and divining arrows are abomination of Satan''s work; The people consult their
     piece of wood and their staff (rhabdomancy) gives them oracles; Seeking decisions by divining arrows
-    (azlām) is forbidden; Water creatures are permitted only if they have fins and scales [contrast between
-    the texts]; Hunting land game is forbidden while in pilgrim sanctity (iḥrām); A rash oath spoken thoughtlessly
-    requires atonement [divergence between the texts]; A rash oath spoken thoughtlessly requires atonement;
-    and 2 more.'
+    (azlām) is forbidden; Drunkenness produces quarrels that disrupt worship; Water creatures are permitted
+    only if they have fins and scales [contrast between the texts]; Hunting land game is forbidden while
+    in pilgrim sanctity (iḥrām); A little honestly gained is better than much by wrong, even if the abundance
+    of the bad impresses; and 4 more.'
   basis: reading
 - text: 'The Nazirite vow: tagged by Claude (model), reading the Hebrew.'
   basis: reading

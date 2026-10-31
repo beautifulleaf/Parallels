@@ -14,14 +14,14 @@ traditions:
 layers:
 - motif
 motifs:
-- creation-by-word
 - kun-fa-yakun
+- creation-by-word
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Deity creates by spoken command (Let there be...) (weight 5.8);
-    God creates by saying to a thing ''Be'' and it is (kun fa-yakun) (weight 5.3). Pair score 11.1.'
+- text: 'Shared motifs, rarest first: God creates by saying to a thing ''Be'' and it is (kun fa-yakun)
+    (weight 6.4); Deity creates by spoken command (Let there be...) (weight 6.4). Pair score 12.7.'
   basis: reading
 - text: 'Only in Psalm 33 - by the word of YHWH the heavens were made: God frustrates the counsel of the
     nations; his own counsel stands forever; By the word of YHWH the heavens were made and all their host
@@ -92,6 +92,10 @@ matches:
     - ref: Quran 36:82
       lang: ar
       text: إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ
+    - ref: Quran 36:81
+      lang: ar
+      text: أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم
+        بَلَىٰ وَهُوَ ٱلْخَلَّٰقُ ٱلْعَلِيمُ
 ---
 
 ## Questions

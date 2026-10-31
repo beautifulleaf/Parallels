@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God enthroned with the host of heaven standing at his right and
-    left deliberates (weight 5.8). Pair score 5.8.'
+    left deliberates (weight 6.2). Pair score 6.2.'
   basis: reading
 - text: 'Only in Micaiah ben Imlah, the lying spirit in the divine council, and Ahab''s death: The enemy
     commander orders his chariots to fight no one but the king; When the threatened king cries out, God
@@ -29,8 +29,8 @@ evidence:
     Prophet imprisoned on ''bread of affliction and water of affliction''; The prophet swears to speak
     only what his God tells him; The wounded king props himself in his chariot all day and dies at sunset;
     Four hundred court prophets unanimously promise victory; Court prophet makes iron horns: ''with these
-    you will gore Aram''; A spirit volunteers in the divine council to be a lying spirit in the prophets''
-    mouths; and 6 more.'
+    you will gore Aram''; A single true prophet, hated by the king because he never prophesies good for
+    him; and 6 more.'
   basis: reading
 - text: 'Only in The chosen patriarchs; the Gardens of Eden and the quarrel of the damned: The damned
     ask ''Why do we not see men we counted among the wicked, whom we mocked?''; The prophet had no knowledge

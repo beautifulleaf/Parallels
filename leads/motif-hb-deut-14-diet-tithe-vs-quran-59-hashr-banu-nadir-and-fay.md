@@ -20,7 +20,7 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: Fay'' (booty gained without cavalry or camels) goes to God, the
     messenger, kin, orphans, the poor and the wayfarer, so wealth does not circulate only among the rich
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Mourning rites forbidden; clean and unclean food; tithes: Animal that died of itself
     may be given to the resident alien or sold to a foreigner; If the place is far, convert the tithe
@@ -40,13 +40,14 @@ evidence:
     the unbelieving People of the Book (the Banu Nadir) from their homes at ''the first gathering'' (li-awwal
     al-hashr); Whatever palm trees (lina) you cut down or left standing on their roots was by God''s leave;
     Later believers pray: forgive us and our brethren who preceded us in faith, and put no rancor in our
-    hearts; Whether the enemy''s trees may be cut down in a siege [contrast between the texts]; How spoil
-    taken from the enemy is distributed [divergence between the texts]; They thought their fortresses
-    would protect them from God, but God came from where they did not expect and cast terror into their
-    hearts; The poor emigrants and the hosts who prefer others over themselves even in need; whoever is
-    saved from his own greed succeeds; Cities ''great and fortified up to heaven''; Spoils divided half
-    to warriors, half to community, with a levy for God; Do not cut down fruit trees during a siege: is
-    the tree of the field a man?; and 2 more.'
+    hearts; Vines or palms of a hostile neighbour are cut down [divergence between the texts]; Whether
+    the enemy''s trees may be cut down in a siege [contrast between the texts]; How spoil taken from the
+    enemy is distributed [divergence between the texts]; They thought their fortresses would protect them
+    from God, but God came from where they did not expect and cast terror into their hearts; The wealth
+    of a ruined or expelled people passes to others who did not have it [divergence between the texts];
+    The poor emigrants and the hosts who prefer others over themselves even in need; whoever is saved
+    from his own greed succeeds; What becomes of the spoil taken from the enemy: brought to the god or
+    assigned to God [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Mourning rites forbidden; clean and unclean food; tithes: tagged by Claude (model), reading the
     Hebrew.'

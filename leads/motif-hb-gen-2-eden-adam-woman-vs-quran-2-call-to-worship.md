@@ -19,27 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Paradise as gardens (of ʿAdn) beneath which rivers flow, where the
-    righteous abide forever (weight 4.4). Pair score 4.4.'
+    righteous abide forever (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 21 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence
+    between the texts]; and 21 more.'
   basis: reading
 - text: 'Only in Call to worship the Creator; the challenge; paradise and the gnat: God is not ashamed
     to strike a parable of a gnat or something smaller; Fruits in paradise resemble those of earth: ''this
     is what we were given before''; A challenge to rivals to prove a divine claim [divergence between
-    the texts]; God takes life and gives it again [divergence between the texts]; The people break the
-    covenant God made with them; Humans were dead, given life, will die and be given life again (two deaths,
-    two lives); God stretches out the heavens like a tent curtain; Hell''s fire has men and stones as
-    its fuel; The blessed have purified spouses (azwaj mutahhara) in paradise; God summons the coastlands
-    and nations (and their gods) to a court trial to argue their case; God fashions seven heavens; Inimitability
-    challenge: produce a surah like it, calling on your own witnesses (tahaddi); and 2 more.'
+    the texts]; In the hereafter the dead eat the like of what they ate on earth; God takes life and gives
+    it again [divergence between the texts]; The people break the covenant God made with them; Humans
+    were dead, given life, will die and be given life again (two deaths, two lives); God stretches out
+    the heavens like a tent curtain; Hell''s fire has men and stones as its fuel; The blessed have purified
+    spouses (azwaj mutahhara) in paradise; God summons the coastlands and nations (and their gods) to
+    a court trial to argue their case; The creator made heaven and earth, light, air and food ''for their
+    sake'' (n-jb =sn), for humankind; and 4 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

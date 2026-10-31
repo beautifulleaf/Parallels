@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: They forgot a portion of what they were reminded of (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: They forgot a portion of what they were reminded of (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Exhortation at Horeb''s memory; no image; exile and return: No other nation has a god
     so near whenever they call on him; Keeping the law will make the nations call Israel wise; He it is

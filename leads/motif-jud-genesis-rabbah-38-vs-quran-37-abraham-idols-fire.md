@@ -19,9 +19,9 @@ motifs:
 - father-serves-idols
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero smashes or burns idols (weight 5.6); Hero thrown into a fire
-    or furnace by a king or people (weight 5.3); Hero''s father makes, sells or worships idols (weight
-    4.8). Pair score 15.7.'
+- text: 'Shared motifs, rarest first: Hero smashes or burns idols (weight 6.6); Hero thrown into a fire
+    or furnace by a king or people (weight 6.2); Hero''s father makes, sells or worships idols (weight
+    5.9). Pair score 18.8.'
   basis: reading
 - text: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): tagged by Claude (model), from secondary
     knowledge.'

@@ -20,12 +20,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Where iron and iron-working come from [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Cain''s line, the first city, culture heroes and the Song of Lamech: Named ancestors
-    are originators of crafts (herding, music, metalwork); First city built and named after the founder''s
-    son; First man to take two wives; Boast-song of Lamech to his wives about killing a man for wounding
-    him; Vengeance multiplied sevenfold (or seventy-sevenfold).'
+- text: 'Only in Cain''s line, the first city, culture heroes and the Song of Lamech: First man to take
+    two wives; Boast-song of Lamech to his wives about killing a man for wounding him; First city built
+    and named after the founder''s son; Vengeance multiplied sevenfold (or seventy-sevenfold); Named ancestors
+    are originators of crafts (herding, music, metalwork).'
   basis: reading
 - text: 'Only in Life like withering plants; the Garden as wide as heaven and earth; every calamity written;
     iron sent down; Jesus'' followers and invented monasticism: The People of the Book should know they
@@ -35,11 +35,11 @@ evidence:
     for people; God gave Jesus son of Mary the Gospel (al-Injil); Worldly life is play, adornment, boasting
     and rivalry in wealth and children, like rain whose growth pleases the sowers, then withers yellow
     and becomes chaff; God sent down the Book with the truth and the Balance (al-mizan); Christians are
-    nearest in affection to the believers because they have priests and monks and are not proud; So that
-    you do not grieve over what escapes you nor exult over what he gives you; A double portion (k-p-l)
-    from God [divergence between the texts]; No calamity befalls the earth or yourselves but it is in
-    a Book before God brings it into being; Race to forgiveness and a Garden whose breadth is as the breadth
-    of heaven and earth; and 7 more.'
+    nearest in affection to the believers because they have priests and monks and are not proud; What
+    befalls creatures is written beforehand on a heavenly tablet or in a book [divergence between the
+    texts]; So that you do not grieve over what escapes you nor exult over what he gives you; A double
+    portion (k-p-l) from God [divergence between the texts]; No calamity befalls the earth or yourselves
+    but it is in a Book before God brings it into being; and 11 more.'
   basis: reading
 - text: 'Cain''s line, the first city, culture heroes and the Song of Lamech: tagged by Claude (model),
     reading the Hebrew.'

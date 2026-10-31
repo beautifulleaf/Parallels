@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day believers'' light runs before them and on their right
-    hands (weight 6.3). Pair score 6.3.'
+    hands (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Consecration of the firstborn, sign on hand and forehead, Joseph''s bones, pillar of
     cloud and fire: The exodus month is Aviv, the month of ripening grain; Firstborn sons must be redeemed;

@@ -18,14 +18,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is king or master of the Day of Judgment (yawm al-din) (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 75, I set firm its pillars; the cup in YHWH''s hand: God declares ''When I seize
     the appointed time (mo''ed) I will judge with equity''; The earth is shaken violently and the mountains
-    crumbled into scattered dust (haba''); The arrogant are warned not to lift up their horn; God cuts
-    off the horns of the wicked and exalts those of the righteous; Hymn of reversals: the barren bears
-    seven, the mighty broken, the poor raised from the dung-heap; God is judge: he puts down one and lifts
-    up another; The world set upon pillars belonging to God; A psalm quotes a first-person oracle of God;
+    crumbled into scattered dust (haba''); Hymn of reversals: the barren bears seven, the mighty broken,
+    the poor raised from the dung-heap; The arrogant are warned not to lift up their horn; God cuts off
+    the horns of the wicked and exalts those of the righteous; The world set upon pillars belonging to
+    God; A psalm quotes a first-person oracle of God; God is judge: he puts down one and lifts up another;
     Psalm heading names a tune or melody to which it is sung (e.g. ''Do not destroy'', ''Dove of distant
     terebinths'', ''Lilies''); The wicked should drink of the wrath (cup) of Shaddai.'
   basis: reading

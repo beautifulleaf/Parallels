@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who do not prostrate when the scripture is recited to them
-    are rebuked (a prostration verse) [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    are rebuked (a prostration verse) [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored: Assembly
     answers the blessing ''Amen, Amen'' with uplifted hands and prostrates; Festival booths built on rooftops,
@@ -27,10 +27,10 @@ evidence:
     ''The joy of the LORD is your strength''; Studying the Torah, the leaders find a forgotten commandment
     written in it; Levites explain the Torah reading so the people understand it; When the reader opens
     the scroll all the people stand up; On the holy day the people eat, drink and send portions to those
-    who have nothing; Reader stands on a wooden tower made for the purpose, flanked by named men; The
-    people gather ''as one man'' to Jerusalem; An eighth day of solemn assembly (''atseret) closes the
-    seven-day festival; Fruit of a goodly tree, palm fronds, leafy boughs and brook willows taken for
-    the festival; and 5 more.'
+    who have nothing; Reader stands on a wooden tower made for the purpose, flanked by named men; An eighth
+    day of solemn assembly (''atseret) closes the seven-day festival; Fruit of a goodly tree, palm fronds,
+    leafy boughs and brook willows taken for the festival; Those given knowledge before fall on their
+    chins prostrate and weeping when the scripture is recited [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'Only in The splitting: the book in the right hand: O man, you are toiling laboriously toward
     your Lord, and you will meet him; ''You will surely ride (pass through) stage upon stage'' (tabaqan

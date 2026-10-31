@@ -18,18 +18,18 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Do not revile God or curse a ruler of your people (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Do not revile God or curse a ruler of your people (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant Code - sorceress, stranger, widow, loans, firstborn: Lying with an animal is
     a capital crime; Whoever sacrifices to other gods is devoted to destruction; Flesh torn by beasts
     in the field is not eaten but thrown to dogs; Flesh of an animal torn by a beast of prey is not to
-    be eaten [divergence between the texts]; God hears the cry of the oppressed widow and orphan and punishes
-    measure for measure; Newborn animal stays seven days with its mother before it may be sacrificed;
-    Do not charge interest to the poor of my people [response between the texts]; Do not oppress the stranger,
-    for you were strangers in Egypt; You shall not let a sorceress live; Firstborn sons and animals belong
-    to God; A cloak taken in pledge must be returned before sunset; To whom and how widely the ban on
-    interest applies [divergence between the texts]; and 2 more.'
+    be eaten [divergence between the texts]; Newborn animal stays seven days with its mother before it
+    may be sacrificed; Do not charge interest to the poor of my people [response between the texts]; You
+    shall not let a sorceress live; Firstborn sons and animals belong to God; Do not oppress the stranger,
+    for you were strangers in Egypt; To whom and how widely the ban on interest applies [divergence between
+    the texts]; A cloak taken in pledge must be returned before sunset; God hears the cry of the oppressed
+    widow and orphan and punishes measure for measure; and 2 more.'
   basis: reading
 - text: 'Only in Splitter of seed and dawn; stars for navigation; do not revile their gods: Do not revile
     those they invoke besides God, lest they revile God in ignorance; They made the jinn partners of God,
@@ -38,8 +38,9 @@ evidence:
     hanging date clusters, vineyards, olives and pomegranates; God is the splitter of the dawn (fāliq
     al-iṣbāḥ); night for rest; God splits the grain and the date-stone; Vision does not grasp him, but
     he grasps all vision; God has taken neither consort (sahiba) nor child; God made the stars for guidance
-    in the darknesses of land and sea; God brings the living out of the dead and the dead out of the living;
-    No human can see God''s face and live; and 5 more.'
+    in the darknesses of land and sea; Whether the creator has offspring though he has no consort [neutral]
+    [divergence between the texts]; God brings the living out of the dead and the dead out of the living;
+    and 6 more.'
   basis: reading
 - text: 'Covenant Code - sorceress, stranger, widow, loans, firstborn: tagged by Claude (model), reading
     the Hebrew.'

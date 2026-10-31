@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Parable: a bad word is like a bad tree uprooted from the earth,
-    with no stability (weight 6.7); The righteous man is like a tree planted by streams of water, bearing
-    fruit in season, leaf never withering (weight 6.3). Pair score 13.0.'
+    with no stability (weight 7.7); The righteous man is like a tree planted by streams of water, bearing
+    fruit in season, leaf never withering (weight 6.5). Pair score 14.2.'
   basis: reading
 - text: 'Only in Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart: Cursed is
     the man who trusts in man and makes flesh his arm; he is like a juniper in the desert, in a salt land;
@@ -40,12 +40,13 @@ evidence:
     is like a good tree, its root firm, its branches in the sky, yielding fruit every season; On judgment
     day Satan disowns his followers: ''I only called you; blame yourselves''; God has subjected ships,
     rivers, sun, moon, night and day to human use; If you counted God''s blessings you could never number
-    them; The deeds of unbelievers are like ashes blown by the wind on a stormy day; A day comes with
-    no trade, no friendship and no intercession; The blessed in paradise cry ''Glory to you, O God'',
-    greet with ''Peace'' and end with ''Praise be to God, Lord of the worlds''; The righteous man is like
-    a tree planted by streams of water, bearing fruit in season, leaf never withering [divergence between
-    the texts]; If God willed he could remove you and bring a new creation; On judgment day the weak followers
-    ask the arrogant leaders to avail them; the leaders cannot.'
+    them; The deeds of unbelievers are like ashes blown by the wind on a stormy day; Good words and bad
+    words set against each other, with plant imagery; A day comes with no trade, no friendship and no
+    intercession; The blessed in paradise cry ''Glory to you, O God'', greet with ''Peace'' and end with
+    ''Praise be to God, Lord of the worlds''; The righteous man is like a tree planted by streams of water,
+    bearing fruit in season, leaf never withering [divergence between the texts]; A spoken word or testimony
+    is like a tree that yields its fruit; The sun (and moon) are made to rise or run for the sake of humankind;
+    and 10 more.'
   basis: reading
 - text: 'Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart: tagged by Claude (model),
     reading the Hebrew.'

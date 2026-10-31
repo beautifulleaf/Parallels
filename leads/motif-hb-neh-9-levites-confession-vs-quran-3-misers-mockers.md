@@ -20,8 +20,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 5.8);
-    Israel killed the prophets who warned them (weight 5.1). Pair score 10.9.'
+- text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 6.8);
+    Israel killed the prophets who warned them (weight 6.1). Pair score 13.0.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -42,9 +42,10 @@ evidence:
     in sin; Whether God is in need and humans rich [contrast between the texts]; An offering consumed
     by fire as proof of the true God or messenger [response between the texts]; Fire from heaven falls
     and consumes the offering, wood, stones, dust and water; God will not leave believers as they are
-    until he separates the bad from the good; What man can live and not see death, or deliver his soul
-    from the hand of Sheol?; Every soul shall taste death; Fire comes out from before God and consumes
-    the offering on the altar; and 2 more.'
+    until he separates the bad from the good; Wrongdoers take the deity''s delay for indifference; the
+    delay is not a release; What man can live and not see death, or deliver his soul from the hand of
+    Sheol?; A writer reproaches his addressee: the oath I made you swear before the gods you have thrown
+    behind you; and 4 more.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

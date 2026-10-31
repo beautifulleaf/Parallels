@@ -19,32 +19,34 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God expels Iblis as accursed (rajim) with a curse until the Day
-    of Judgment (weight 6.0). Pair score 6.0.'
+    of Judgment (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Lament over the king of Tyre - the gem-covered cherub in Eden cast from God''s mountain:
-    ''You were an anointed guardian cherub; I placed you on the holy mountain of God''; The being was
-    blameless from the day he was created until iniquity was found in him; God brings out a fire from
-    within the sinner that consumes him and turns him to ashes on the ground; A primal figure was in Eden,
-    the garden of God, covered with every precious stone (sardius, topaz, diamond, beryl, onyx, jasper,
-    sapphire, turquoise, emerald) and gold settings prepared on the day of his creation; The king of Tyre
-    is called ''the seal of perfection (hotem toknit), full of wisdom and perfect in beauty''; The primal
-    being walked among the ''stones of fire'' on God''s mountain; Cherubim and a flaming turning sword
-    guard the way to the tree of life; God casts the proud being out from the mountain of God and destroys
-    him from among the stones of fire, hurling him to earth before kings; A city or king claims or is
-    called ''perfect in beauty'' (kelilat yofi); By wisdom and trade the ruler amasses gold and silver
-    and his heart grows proud because of his wealth; The breastpiece of judgment set with twelve gems
-    in four rows; A mountain called the mountain of God; and 4 more.'
+    The being was blameless from the day he was created until iniquity was found in him; God brings out
+    a fire from within the sinner that consumes him and turns him to ashes on the ground; The king of
+    Tyre is called ''the seal of perfection (hotem toknit), full of wisdom and perfect in beauty''; The
+    primal being walked among the ''stones of fire'' on God''s mountain; ''You were an anointed guardian
+    cherub; I placed you on the holy mountain of God''; God casts the proud being out from the mountain
+    of God and destroys him from among the stones of fire, hurling him to earth before kings; A city or
+    king claims or is called ''perfect in beauty'' (kelilat yofi); A primal figure was in Eden, the garden
+    of God, covered with every precious stone (sardius, topaz, diamond, beryl, onyx, jasper, sapphire,
+    turquoise, emerald) and gold settings prepared on the day of his creation; By wisdom and trade the
+    ruler amasses gold and silver and his heart grows proud because of his wealth; The breastpiece of
+    judgment set with twelve gems in four rows; Cherubim and a flaming turning sword guard the way to
+    the tree of life; The destroyed one will be sought but never found again; ''I will make you terrors
+    and you shall be no more''; and 4 more.'
   basis: reading
 - text: 'Only in Man from black mud, jinn from scorching fire, and Iblis''s refusal (Surah 15:26-50):
     The pious are in gardens and springs, entering in peace and security; Hell has seven gates, each with
     an assigned portion of the damned; The jinn were created before humans from smokeless or scorching
-    fire; In paradise no fatigue touches them and they are never expelled from it; God removes all rancor
-    from the hearts of those in paradise; Deity breathes the breath of life into the first human''s nostrils
-    [divergence between the texts]; The expelled devil vows to lie in wait on the straight path and mislead
-    humanity; Satan has no authority over God''s sincere servants, only over those who follow him; God
-    commands the angels to prostrate before the first man, and they do; The devil asks for and is granted
-    respite until the day the dead are raised; The devil (Iblis) alone refuses to bow to the first man;
-    Deity breathes the breath of life into the first human''s nostrils; and 1 more.'
+    fire; In paradise no fatigue touches them and they are never expelled from it; A hostile spirit is
+    commanded ''go out'' of the dwelling; Heavenly beings do obeisance when the first human has been made:
+    to the maker or to the man [divergence between the texts]; God removes all rancor from the hearts
+    of those in paradise; The underworld or hell has seven doors or gates; The underworld has seven gates,
+    bolted and opened one at a time [divergence between the texts]; Deity breathes the breath of life
+    into the first human''s nostrils [divergence between the texts]; The expelled devil vows to lie in
+    wait on the straight path and mislead humanity; Satan has no authority over God''s sincere servants,
+    only over those who follow him; and 8 more.'
   basis: reading
 - text: 'Lament over the king of Tyre - the gem-covered cherub in Eden cast from God''s mountain: tagged
     by Claude (model), reading the Hebrew.'

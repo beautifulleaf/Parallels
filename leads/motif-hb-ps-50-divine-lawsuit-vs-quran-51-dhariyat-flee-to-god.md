@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not need sacrifices: ''If I were hungry I would not tell
-    you... Do I eat the flesh of bulls or drink the blood of goats?'' (weight 5.8). Pair score 5.8.'
+    you... Do I eat the flesh of bulls or drink the blood of goats?'' (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: Superscription
     ascribes the psalm to Asaph; Every beast of the forest is mine, the cattle on a thousand hills, and
@@ -39,10 +39,11 @@ evidence:
     The wrongdoers have a portion (dhanub, a bucketful) of punishment like that of their fellows; Fleeing
     from God, or to God [divergence between the texts]; Whether God, or the gods, eat the offerings [contrast
     between the texts]; What God created humans, or his people, for [divergence between the texts]; God
-    built the sky with might (bi-aydin) and is expanding it (inna la-musi''un); God made the earth a cradle
-    (mahd) or bed and laid out paths in it; No messenger came to earlier peoples without being called
-    ''a sorcerer or a madman'', as if they had bequeathed the charge to one another; God alone stretches
-    out the heavens.'
+    built the sky with might (bi-aydin) and is expanding it (inna la-musi''un); The deity declines the
+    mortal''s gifts of food or offerings [neutral] [divergence between the texts]; God made the earth
+    a cradle (mahd) or bed and laid out paths in it; No messenger came to earlier peoples without being
+    called ''a sorcerer or a madman'', as if they had bequeathed the charge to one another; Whether the
+    deity is hungry and thirsty and is fed by worshippers [response between the texts]; and 2 more.'
   basis: reading
 - text: 'Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: tagged by Claude (model),
     reading the Hebrew.'

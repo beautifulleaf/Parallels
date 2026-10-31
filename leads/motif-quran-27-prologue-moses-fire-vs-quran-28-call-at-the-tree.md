@@ -13,21 +13,21 @@ layers:
 - motif
 motifs:
 - staff-quivers-like-jinn-snake-moses-flees
-- prophet-sees-fire-goes-to-fetch-brand
 - moses-flees-from-staff-serpent-as-divergence
-- burning-bush-not-consumed
+- prophet-sees-fire-goes-to-fetch-brand
 - moses-white-hand-sign-as-divergence
+- burning-bush-not-consumed
 - hand-turned-leprous-white-as-snow
 - staff-becomes-serpent
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The thrown staff quivers like a jānn (small snake) and Moses turns
-    and flees without looking back (weight 6.7); Traveling with his family, the prophet sees a fire and
-    goes to bring back a brand or find guidance there (weight 6.3); Moses flees from his staff turned
-    serpent, and God''s response [divergence between the texts] (weight 6.3); God appears in a bush that
-    burns without being consumed (weight 6.0); Moses'' hand turned white as a sign [divergence between
-    the texts] (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight
-    5.6); A staff thrown down becomes a serpent and turns back into a staff (weight 5.4). Pair score 42.3.'
+    and flees without looking back (weight 7.7); Moses flees from his staff turned serpent, and God''s
+    response [divergence between the texts] (weight 7.3); Traveling with his family, the prophet sees
+    a fire and goes to bring back a brand or find guidance there (weight 7.3); Moses'' hand turned white
+    as a sign [divergence between the texts] (weight 7.1); God appears in a bush that burns without being
+    consumed (weight 7.1); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight
+    6.6); A staff thrown down becomes a serpent and turns back into a staff (weight 6.5). Pair score 49.7.'
   basis: reading
 - text: 'Only in Ta Sin; Moses at the fire, the jann-staff and the nine signs: At the fire the voice proclaims
     ''Blessed is he who is in the fire and those around it''; God described as the one who dwells in the
@@ -35,9 +35,9 @@ evidence:
     given nine clear signs; The number of signs or plagues in Egypt [divergence between the texts]; Why
     Moses approaches the fire [divergence between the texts]; Why Pharaoh and Egypt refuse despite the
     signs [divergence between the texts]; A poetic list of the Egyptian plagues differs in number and
-    order from Exodus; God addresses the hero with ''Fear not'' in a vision; Prophet''s wonders are imitated
-    by the king''s magicians in a contest; The king''s heart is hardened (by himself or by God) so he
-    refuses to release the people; A surah opens with isolated letters (huruf muqatta''at) of unexplained
+    order from Exodus; Prophet''s wonders are imitated by the king''s magicians in a contest; The king''s
+    heart is hardened (by himself or by God) so he refuses to release the people; God addresses the hero
+    with ''Fear not'' in a vision; A surah opens with isolated letters (huruf muqatta''at) of unexplained
     meaning, e.g. alif-lam-mim.'
   basis: reading
 - text: 'Only in The fire on the side of the Mount; the call from the tree; Aaron as helper: Moses says
@@ -88,25 +88,6 @@ matches:
       text: وَأَنْ أَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ
         يُعَقِّبْ يَٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ إِنَّكَ مِنَ ٱلْءَامِنِينَ
 - kind: shared
-  label: Traveling with his family, the prophet sees a fire and goes to bring back a brand or find guidance
-    there
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 27:7
-      lang: ar
-      text: إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
-        ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ
-    note: '''a burning brand (shihāb qabas) that you may warm yourselves'''
-  - tradition: islam
-    passages:
-    - ref: Quran 28:29
-      lang: ar
-      text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا
-        قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
-        جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
-    note: jadhwa min al-nār, 'a firebrand', that you may warm yourselves
-- kind: shared
   label: Moses flees from his staff turned serpent, and God's response
   sides:
   - tradition: islam
@@ -129,25 +110,24 @@ matches:
       to seize the snake''s tail (wə-ʾĕḥōz bi-znāvô) becomes yā Mūsā aqbil wa-lā takhaf innaka mina l-āminīn,
       ''come forward and do not fear, you are safe''.'
 - kind: shared
-  label: God appears in a bush that burns without being consumed
+  label: Traveling with his family, the prophet sees a fire and goes to bring back a brand or find guidance
+    there
   sides:
   - tradition: islam
     passages:
-    - ref: Quran 27:8
-      lang: ar
-      text: فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَٰنَ ٱللَّهِ
-        رَبِّ ٱلْعَٰلَمِينَ
     - ref: Quran 27:7
       lang: ar
       text: إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
         ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ
+    note: '''a burning brand (shihāb qabas) that you may warm yourselves'''
   - tradition: islam
     passages:
-    - ref: Quran 28:30
+    - ref: Quran 28:29
       lang: ar
-      text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ
-        مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
-    note: 'min al-shajara: here the tree'
+      text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا
+        قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
+        جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
+    note: jadhwa min al-nār, 'a firebrand', that you may warm yourselves
 - kind: shared
   label: Moses' hand turned white as a sign
   sides:
@@ -173,6 +153,26 @@ matches:
       for doubting Israelites; the Quran has fa-dhānika burhānāni min rabbika ilā Firʿawna wa-malaʾihi,
       two proofs aimed at Pharaoh, the hand white ''without evil'' (min ghayri sūʾ), and adds ''draw your
       arm to your side against fear''.'
+- kind: shared
+  label: God appears in a bush that burns without being consumed
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 27:8
+      lang: ar
+      text: فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَٰنَ ٱللَّهِ
+        رَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 27:7
+      lang: ar
+      text: إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
+        ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:30
+      lang: ar
+      text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ
+        مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+    note: 'min al-shajara: here the tree'
 - kind: shared
   label: Prophet's hand turns leprous, white as snow, and is restored as a sign
   sides:

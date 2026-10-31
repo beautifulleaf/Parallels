@@ -14,23 +14,23 @@ traditions:
 layers:
 - motif
 motifs:
-- lots-household-alone-rescued-as-divergence
 - ruins-left-as-sign
+- lots-household-alone-rescued-as-divergence
 - angels-drag-family-out
 - what-falls-on-sodom-as-divergence
 - wicked-sodom
-- hospitality-to-strangers
 - fire-and-brimstone-from-heaven
+- hospitality-to-strangers
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Only Lot''s household is brought out of the doomed city [divergence
-    between the texts] (weight 6.7); God left in the destroyed city a sign for those who fear the painful
-    punishment (weight 6.7); Angels seize the hesitating family by the hand and lead them out (weight
-    6.7); What falls from heaven on Sodom [divergence between the texts] (weight 6.3); The men of Sodom
-    are exceedingly wicked (weight 5.2); Host runs to welcome strangers, washes their feet and feeds them
-    (weight 5.1); God rains sulfur and fire from heaven on cities (weight 4.8). Pair score 41.4.'
+- text: 'Shared motifs, rarest first: God left in the destroyed city a sign for those who fear the painful
+    punishment (weight 7.7); Only Lot''s household is brought out of the doomed city [divergence between
+    the texts] (weight 7.7); Angels seize the hesitating family by the hand and lead them out (weight
+    7.7); What falls from heaven on Sodom [divergence between the texts] (weight 7.3); The men of Sodom
+    are exceedingly wicked (weight 6.2); God rains sulfur and fire from heaven on cities (weight 5.9);
+    Host runs to welcome strangers, washes their feet and feeds them (weight 5.8). Pair score 48.5.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Two angels are received as guests by Lot in Sodom [divergence
@@ -51,11 +51,12 @@ evidence:
     strangers (qawm munkarun)''; The guests announce to Abraham a knowing (or wise) son (''alim); Thamud
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
-    old woman!''; The answer given to the old woman''s doubt [divergence between the texts]; Heavenly
-    visitors eat a human meal; Host runs to welcome strangers, washes their feet and feeds them [divergence
-    between the texts]; How Abraham learns of Sodom''s fate, and his response [divergence between the
-    texts]; Who Abraham''s visitors are [divergence between the texts]; In Lot''s town only one house
-    of submitters (muslimin) was found, and the believers were brought out; and 13 more.'
+    old woman!''; The answer given to the old woman''s doubt [divergence between the texts]; Supernatural
+    envoys who come to seize or destroy do not eat the food offered them [divergence between the texts];
+    Host runs to welcome strangers, washes their feet and feeds them [divergence between the texts]; The
+    host, seeing the divine visitor, has his household prepare an animal from the herd (lamb, calf) for
+    the guest; How Abraham learns of Sodom''s fate, and his response [divergence between the texts]; Who
+    Abraham''s visitors are [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'
@@ -184,6 +185,24 @@ matches:
       lang: ar
       text: قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ
 - kind: shared
+  label: God rains sulfur and fire from heaven on cities
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:24
+      lang: he
+      text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
+    - ref: Gen 19:25
+      lang: he
+      text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים
+        וְצֶ֖מַח הָאֲדָמָֽה
+    note: '''from YHWH ... from YHWH from heaven'', double divine name'
+  - tradition: islam
+    passages:
+    - ref: Quran 51:33
+      lang: ar
+      text: لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ
+- kind: shared
   label: Host runs to welcome strangers, washes their feet and feeds them
   sides:
   - tradition: judaism
@@ -207,24 +226,6 @@ matches:
     - ref: Quran 51:26
       lang: ar
       text: فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ
-- kind: shared
-  label: God rains sulfur and fire from heaven on cities
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 19:24
-      lang: he
-      text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
-    - ref: Gen 19:25
-      lang: he
-      text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים
-        וְצֶ֖מַח הָאֲדָמָֽה
-    note: '''from YHWH ... from YHWH from heaven'', double divine name'
-  - tradition: islam
-    passages:
-    - ref: Quran 51:33
-      lang: ar
-      text: لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ
 ---
 
 ## Questions

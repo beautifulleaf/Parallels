@@ -20,12 +20,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: There is no darkness or deep shadow where evildoers can hide from
-    God (weight 6.3). Pair score 6.3.'
+    God (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in A God near and far; dreams versus the word like a hammer: False prophets say ''I have
-    dreamed, I have dreamed''; what has straw to do with wheat?; ''Am I a God near at hand and not a God
-    far off? Do I not fill heaven and earth?''; God is against the prophets who steal his words from one
-    another and wag their tongues saying ''oracle''; God''s word is like a hammer that shatters rock;
+    dreamed, I have dreamed''; what has straw to do with wheat?; God is against the prophets who steal
+    his words from one another and wag their tongues saying ''oracle''; God''s word is like a hammer that
+    shatters rock; ''Am I a God near at hand and not a God far off? Do I not fill heaven and earth?'';
     God created man, knows what his soul whispers to him, and is nearer to him than his jugular vein;
     God makes his words in the prophet''s mouth a fire and the people wood it consumes; God did not send
     the prophets who promise peace; they prophesy a lying vision, divination and the deceit of their heart.'

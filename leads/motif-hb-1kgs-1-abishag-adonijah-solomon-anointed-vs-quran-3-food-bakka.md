@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A fugitive grasps the horns of the altar seeking asylum (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Abishag warms the old king; Adonijah''s feast; Solomon anointed at Gihon: The aged king
     bows in worship upon his bed; A king is anointed at a spring; The people''s shouting is so loud the

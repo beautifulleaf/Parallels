@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The title of God in whose name Moses goes to Pharaoh [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in First audience with Pharaoh; bricks without straw: Slaves must make the same quota of
     bricks while gathering their own straw; The oppressed blame the deliverer for making things worse;
@@ -40,11 +40,12 @@ evidence:
     speech, pleaded by himself or thrown at him [divergence between the texts]; Pharaoh is the great tannin
     (crocodile/dragon) lying in the midst of his Nile channels; Pharaoh boasts to his people: is not the
     kingdom of Egypt mine, and these rivers flowing beneath me?; The king breaks his promise to release
-    the people once a plague is lifted [divergence between the texts]; Who causes Pharaoh''s refusal:
+    the people once a plague is lifted [divergence between the texts]; The water of the river of Egypt
+    is said to be at its king''s disposal [neutral] [divergence between the texts]; A man brought before
+    Pharaoh is afraid and cannot speak [divergence between the texts]; Who causes Pharaoh''s refusal:
     God hardening his heart, or Pharaoh and his people themselves [divergence between the texts]; The
     returning waters drown the pursuing army; not one survives [divergence between the texts]; King invests
-    the hero with ring, linen and chariot; The king breaks his promise to release the people once a plague
-    is lifted; Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''; and 2 more.'
+    the hero with ring, linen and chariot; and 4 more.'
   basis: reading
 - text: 'First audience with Pharaoh; bricks without straw: tagged by Claude (model), reading the Hebrew.'
   basis: reading

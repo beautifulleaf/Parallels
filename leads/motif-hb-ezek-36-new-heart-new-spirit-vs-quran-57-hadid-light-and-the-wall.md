@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h),
-    or God makes them so [divergence between the texts] (weight 6.7); God will remove the heart of stone
-    and give a heart of flesh and a new spirit (weight 5.8). Pair score 12.5.'
+    or God makes them so [divergence between the texts] (weight 7.7); God will remove the heart of stone
+    and give a heart of flesh and a new spirit (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in For my holy name - clean water, new heart, my spirit within; the land like Eden: Onlookers
     say ''This desolate land has become like the garden of Eden''; The exiles profane God''s holy name

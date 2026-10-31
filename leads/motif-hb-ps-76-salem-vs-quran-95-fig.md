@@ -19,23 +19,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero challenges God: shall the judge of all the earth not do justice?
-    (weight 6.0). Pair score 6.0.'
+    (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 76, God''s lair in Salem where he broke the flaming arrows: At God''s rebuke the
     enemy warriors sleep their last sleep, horse and chariot stunned; Jerusalem called Salem (Shalem);
-    Song of Zion: God dwells in Zion/Salem and breaks the weapons of war there; Foreign kings bring gifts
-    or tribute to God''s temple in Jerusalem; A priest-king of Salem brings bread and wine and blesses
-    the patriarch; God makes wars cease to the end of the earth, breaks the bow, snaps the spear and burns
-    the chariots; Resheph and Qeteb (plague deities/demons) sent as God''s arrows.'
+    Song of Zion: God dwells in Zion/Salem and breaks the weapons of war there; A priest-king of Salem
+    brings bread and wine and blesses the patriarch; God makes wars cease to the end of the earth, breaks
+    the bow, snaps the spear and burns the chariots; Foreign kings bring gifts or tribute to God''s temple
+    in Jerusalem; Resheph and Qeteb (plague deities/demons) sent as God''s arrows.'
   basis: reading
 - text: 'Only in The fig and the olive, Mount Sinai and the secure city: Humankind created in the best
-    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; Humankind created
-    in the best of forms (ahsan taqwim), then returned to the lowest of the low, except the believers
-    [divergence between the texts]; Hero challenges God: shall the judge of all the earth not do justice?
-    [divergence between the texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin);
-    Land of wheat, barley, vine, fig, pomegranate, olive and honey; God shines forth from Sinai, Seir
-    and Mount Paran with holy myriads; A series of oaths by natural phenomena (dawn, night, day, sun,
-    moon, sky, earth, stars, winds) opens or punctuates a passage.'
+    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; The fig and
+    the olive named together; Humankind created in the best of forms (ahsan taqwim), then returned to
+    the lowest of the low, except the believers [divergence between the texts]; Hero challenges God: shall
+    the judge of all the earth not do justice? [divergence between the texts]; Oath by ''this city'' (Mecca),
+    the secure city (al-balad al-amin); Land of wheat, barley, vine, fig, pomegranate, olive and honey;
+    God shines forth from Sinai, Seir and Mount Paran with holy myriads; A series of oaths by natural
+    phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates a passage.'
   basis: reading
 - text: 'Psalm 76, God''s lair in Salem where he broke the flaming arrows: tagged by Claude (model), reading
     the Hebrew.'

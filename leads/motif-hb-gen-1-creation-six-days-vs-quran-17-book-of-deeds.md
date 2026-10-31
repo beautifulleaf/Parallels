@@ -21,19 +21,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Night and day are two signs; the sign of night is effaced and that
-    of day made bright for reckoning years (weight 6.7); Sun and moon are set to rule day and night and
-    mark signs and seasons (weight 4.7). Pair score 11.4.'
+    of day made bright for reckoning years (weight 7.7); Sun and moon are set to rule day and night and
+    mark signs and seasons (weight 5.5). Pair score 13.2.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 26 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    The office given to humans on earth at creation [divergence between the texts]; and 26 more.'
   basis: reading
 - text: 'Only in The bird on the neck, the open book and individual responsibility (Surah 17:9-21): When
     God would destroy a town he commands its affluent ones; they transgress and it is destroyed; The hereafter
@@ -43,8 +43,10 @@ evidence:
     those who strive for the hereafter are thanked; On judgment day each receives a book of his deeds
     spread open, leaving nothing small or great unrecorded; On judgment day each receives a book of his
     deeds spread open, leaving nothing small or great unrecorded [divergence between the texts]; The heavenly
-    court sits in judgment and the books are opened; God does not punish a people before sending a messenger,
-    lest they plead they had none; Each person dies for his own sin.'
+    court sits in judgment and the books are opened; Augury: a bird''s flight or alighting is an omen
+    bound to a person [divergence between the texts]; A written record (tablet [divergence between the
+    texts]; God does not punish a people before sending a messenger, lest they plead they had none; and
+    1 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

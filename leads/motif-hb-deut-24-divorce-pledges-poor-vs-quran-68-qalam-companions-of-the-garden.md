@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- gleanings-for-poor
 - gleanings-for-poor-as-contrast
+- gleanings-for-poor
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Forgotten sheaf, olive and grape gleanings left for stranger, orphan
-    and widow (weight 6.3); Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
-    [contrast between the texts] (weight 6.3). Pair score 12.6.'
+    and widow [contrast between the texts] (weight 7.3); Forgotten sheaf, olive and grape gleanings left
+    for stranger, orphan and widow (weight 7.1). Pair score 14.4.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -40,9 +40,11 @@ evidence:
     a harvested/blackened field; The owners of a garden swore to harvest it in the morning without making
     exception (''if God wills''); The most moderate of them (awsatuhum) said ''Did I not tell you to glorify
     God?''; they blame one another, repent and hope for a better garden; The owners set out whispering
-    that no poor man (miskin) should enter the garden that day; Do not boast about tomorrow, for you do
-    not know what a day may bring forth; God appoints a worm that at dawn attacks the shade plant so it
-    withers.'
+    that no poor man (miskin) should enter the garden that day; A prayer or glorification of God is due
+    at the harvest [divergence between the texts]; At the reaping [divergence between the texts]; God
+    appoints a worm that at dawn attacks the shade plant so it withers; Do not boast about tomorrow, for
+    you do not know what a day may bring forth; What man says he will do is one thing, what God does another;
+    do not say ''I will do it tomorrow'' without God''s will.'
   basis: reading
 - text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

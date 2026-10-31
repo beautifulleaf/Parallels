@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel asks its leader to make them a god [divergence between the
-    texts] (weight 6.7). Pair score 6.7.'
+    texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The golden calf: Aaron builds an altar before the calf and proclaims a feast to YHWH;
     Intercessor reminds God of his oath to Abraham, Isaac and Jacob; The people eat, drink and rise up

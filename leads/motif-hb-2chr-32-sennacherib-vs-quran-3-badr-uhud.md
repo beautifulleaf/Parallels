@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''God is sufficient for us and the best guardian'' (hasbuna allah)
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sennacherib''s invasion, blasphemy and the angel''s slaughter: An angel of God annihilates
     the besieging Assyrian army; The enemy king writes letters reviling the God of Israel; Besieger mocks
     the king for removing high places and commanding worship at one altar; Enemies speak of Israel''s
     God as of the gods of the nations, the work of human hands; King and prophet pray together and cry
     to heaven against the invader; Defenders stop up the springs and streams so the besieger will find
-    no water; Enemy envoys shout in Judean to the people on the wall to terrify them; King rebuilds the
-    broken wall, raises towers and builds another wall outside; Leader contrasts the enemy''s ''arm of
-    flesh'' with God who fights for us; After deliverance many bring gifts to God in Jerusalem and to
-    the king; Enemy king is murdered by his own sons while worshipping in his god''s temple; ''Do not
-    fear, for those with us are more than those with them''; and 1 more.'
+    no water; Enemy envoys shout in Judean to the people on the wall to terrify them; Leader contrasts
+    the enemy''s ''arm of flesh'' with God who fights for us; After deliverance many bring gifts to God
+    in Jerusalem and to the king; ''Do not fear, for those with us are more than those with them''; Enemy
+    king is murdered by his own sons while worshipping in his god''s temple; King rebuilds the broken
+    wall, raises towers and builds another wall outside; and 1 more.'
   basis: reading
 - text: 'Only in Badr and Uhud: God helped you at Badr when you were weak; The prophet told to be gentle,
     pardon them and consult them (shawirhum) in the matter; Such days God alternates among people; Defeat
@@ -40,7 +40,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 17 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 25 more.'
   basis: reading
 - text: 'Sennacherib''s invasion, blasphemy and the angel''s slaughter: tagged by Claude (model), reading
     the Hebrew.'

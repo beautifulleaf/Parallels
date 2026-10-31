@@ -19,29 +19,30 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Good deeds remove evil deeds (weight 6.3). Pair score 6.3.'
+- text: 'Shared motifs, rarest first: Good deeds remove evil deeds (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Nebuchadnezzar''s letter, the great tree dream and his madness: Dream of an immense tree
-    whose top reaches heaven, visible to the ends of the earth, sheltering beasts and birds; The sentence
-    is ''by the decree of the watchers and the word of the holy ones''; The king boasts ''Is not this
-    great Babylon which I have built by my might?''; The king''s reason returns when he lifts his eyes
-    to heaven and he is restored to his throne after praising God; No one can stay God''s hand or say
-    to him ''What are you doing?''; The seer is dismayed and terrified when he grasps the meaning of the
-    dream; ''Seven times'' (periods) pass over the punished king; The felled tree''s stump is left in
-    the earth bound with a band of iron and bronze; While the words are still in his mouth a voice falls
-    from heaven pronouncing the king''s sentence; A ''watcher'' (''ir), a holy one, descends from heaven
-    and decrees the judgment; Take alms from their wealth to purify them; the prophet''s prayer is a comfort
-    to them; Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to
-    the poor; and 7 more.'
+- text: 'Only in Nebuchadnezzar''s letter, the great tree dream and his madness: The sentence is ''by
+    the decree of the watchers and the word of the holy ones''; The king boasts ''Is not this great Babylon
+    which I have built by my might?''; The king''s reason returns when he lifts his eyes to heaven and
+    he is restored to his throne after praising God; The seer is dismayed and terrified when he grasps
+    the meaning of the dream; ''Seven times'' (periods) pass over the punished king; The felled tree''s
+    stump is left in the earth bound with a band of iron and bronze; While the words are still in his
+    mouth a voice falls from heaven pronouncing the king''s sentence; A ''watcher'' (''ir), a holy one,
+    descends from heaven and decrees the judgment; Take alms from their wealth to purify them; the prophet''s
+    prayer is a comfort to them; Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities
+    by mercy to the poor; Dream of an immense tree whose top reaches heaven, visible to the ends of the
+    earth, sheltering beasts and birds; A king is driven from human society to live with beasts, eating
+    grass like oxen, wet with dew, with hair like eagles'' feathers and nails like birds'' claws; and
+    7 more.'
   basis: reading
 - text: 'Only in Stand firm; prayer times; good deeds remove bad: Only a few in past generations forbade
     corruption, and they were saved; The stories of the messengers are told to make the prophet''s heart
     firm; God vows to fill hell with the devil and all who follow him; Humankind was originally one community,
     then they differed; Hero challenges God: shall the judge of all the earth not do justice? [response
     between the texts]; When a land is destroyed only the righteous few are rescued, by their own righteousness;
-    Perform prayer at the two ends of the day and in the near hours of the night; Hero bargains with God
-    to spare a city for the sake of a few righteous (50 down to 10); Prophet tells deniers ''Wait, I too
-    am waiting''.'
+    Whether the god destroys a city whose people do right [divergence between the texts]; Perform prayer
+    at the two ends of the day and in the near hours of the night; Hero bargains with God to spare a city
+    for the sake of a few righteous (50 down to 10); Prophet tells deniers ''Wait, I too am waiting''.'
   basis: reading
 - text: 'Nebuchadnezzar''s letter, the great tree dream and his madness: tagged by Claude (model), reading
     the Aramaic.'

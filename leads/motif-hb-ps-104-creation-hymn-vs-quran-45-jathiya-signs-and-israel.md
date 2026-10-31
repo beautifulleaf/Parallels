@@ -19,20 +19,20 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Catalogue of signs: heavens and earth, alternation of night and
-    day, ships, rain reviving dead earth, beasts, winds, clouds (weight 5.6); Rain from the sky gives
-    life to the earth after its death, a sign of resurrection (weight 4.4). Pair score 10.0.'
+    day, ships, rain reviving dead earth, beasts, winds, clouds (weight 6.6); Rain from the sky gives
+    life to the earth after its death, a sign of resurrection (weight 5.5). Pair score 12.1.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 39 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 39 more.'
   basis: reading
 - text: 'Only in Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a: God
     has subjected (sakhkhara) to humans the sea and all that is in the heavens and on the earth; Believers
@@ -44,8 +44,8 @@ evidence:
     between the texts]; Israel given God''s law, as a unique gift or followed by a later law [divergence
     between the texts]; Woe to every sinful liar who hears God''s signs recited, persists in arrogance
     as if he had not heard, and takes them in mockery; Formula: the sending down of the Book (tanzil al-kitab)
-    is from God, the Mighty, the Wise/Knowing; Vengeance and recompense are mine; Whoever does good does
-    it for his own soul; whoever does evil, it is against it; Humans given rule over animals; and 1 more.'
+    is from God, the Mighty, the Wise/Knowing; Whoever does good does it for his own soul; whoever does
+    evil, it is against it; Vengeance and recompense are mine; Humans given rule over animals; and 1 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

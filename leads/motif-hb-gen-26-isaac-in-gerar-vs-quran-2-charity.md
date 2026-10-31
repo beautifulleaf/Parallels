@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Patriarch reaps a hundredfold in one year (weight 6.7). Pair score
-    6.7.'
+- text: 'Shared motifs, rarest first: Patriarch reaps a hundredfold in one year (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Isaac in Gerar, the wife-sister episode, wells and treaty: God forbids the patriarch
     to go down to Egypt in a famine; King looking through a window sees the couple embracing and learns
@@ -37,11 +37,12 @@ evidence:
     with a hundred grains each; Deserving poor, restrained in God''s way, thought rich by the ignorant
     for their restraint, known by their mark; Satan threatens you with poverty and commands indecency;
     Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the poor;
-    He who gives to the poor will not lack, but he who hides his eyes will get many curses; An old man
-    with weak children loses his garden of palms and vines to a fiery whirlwind; Giving charity openly
-    is good, but giving it secretly to the poor is better and expiates sins; God gives wisdom to whom
-    he wills; whoever is given wisdom is given much good; One scatters and yet increases; the generous
-    soul is made fat and who waters will be watered.'
+    He who gives to the poor will not lack, but he who hides his eyes will get many curses; An inferior
+    thing is given in place of the good one owed to God or the god [divergence between the texts]; A single
+    grain given (to the god, in God''s way) returns many times over; An old man with weak children loses
+    his garden of palms and vines to a fiery whirlwind; Giving charity openly is good, but giving it secretly
+    to the poor is better and expiates sins; God gives wisdom to whom he wills; whoever is given wisdom
+    is given much good; and 2 more.'
   basis: reading
 - text: 'Isaac in Gerar, the wife-sister episode, wells and treaty: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,28 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Lending at interest or increase to a poor brother is forbidden (weight
-    5.6). Pair score 5.6.'
+    6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Outcry over debt slavery; Nehemiah''s remission and his refusal of the governor''s allowance:
-    The poor borrow money against fields and vineyards to pay the king''s tax; Parents forced to sell
-    sons and daughters into slavery for debt; In famine the people pledge fields, vineyards and houses
-    for grain; Governor refuses his official food allowance so as not to burden the people; Leader shakes
-    out the fold of his garment: so may God shake out whoever breaks the oath; Governor feeds 150 officials
-    and foreign visitors daily at his own expense; The poor protest: ''our flesh is like our brothers''
-    flesh, our children like their children''; A great outcry of the poor and their wives against their
-    fellow Jews; Alms go to the poor, the needy, the collectors, those whose hearts are reconciled, slaves,
-    debtors, God''s cause and the wayfarer; Freeing or buying back the enslaved; Israelite sold to a resident
-    alien may be redeemed by kin or himself, priced by years to jubilee; Leader prays ''remember me, my
-    God, for good'' for his deeds.'
+    The poor borrow money against fields and vineyards to pay the king''s tax; In famine the people pledge
+    fields, vineyards and houses for grain; Governor refuses his official food allowance so as not to
+    burden the people; Leader shakes out the fold of his garment: so may God shake out whoever breaks
+    the oath; Governor feeds 150 officials and foreign visitors daily at his own expense; The poor protest:
+    ''our flesh is like our brothers'' flesh, our children like their children''; A great outcry of the
+    poor and their wives against their fellow Jews; Alms go to the poor, the needy, the collectors, those
+    whose hearts are reconciled, slaves, debtors, God''s cause and the wayfarer; Freeing or buying back
+    the enslaved; Israelite sold to a resident alien may be redeemed by kin or himself, priced by years
+    to jubilee; Leader prays ''remember me, my God, for good'' for his deeds; Parents forced to sell sons
+    and daughters into slavery for debt.'
   basis: reading
 - text: 'Only in Usury: God blots out usury and makes charity grow; A debtor in hardship is given respite
     until ease; remitting it as charity is better; Trade is like usury, they say; but God permitted trade
     and forbade usury (riba); Those who consume usury rise like one driven mad by Satan''s touch; Those
     who do not give up usury are warned of war from God and his messenger; they keep their principal;
-    Whether obligations differ toward insiders and outsiders [contrast between the texts]; Relief of debtors:
-    release or respite [divergence between the texts]; To whom and how widely the ban on interest applies
-    [divergence between the texts]; He who increases wealth by interest and usury gathers it for one who
-    is gracious to the poor; Do not charge interest to the poor of my people.'
+    Whether obligations differ toward insiders and outsiders [contrast between the texts]; What becomes
+    of the usurer''s profit and his principal (kīsu / ruʾūs amwālikum) [divergence between the texts];
+    A creditor facing a debtor in hardship remits all or part of the debt [divergence between the texts];
+    Relief of debtors: release or respite [divergence between the texts]; To whom and how widely the ban
+    on interest applies [divergence between the texts]; He who increases wealth by interest and usury
+    gathers it for one who is gracious to the poor; Do not charge interest to the poor of my people.'
   basis: reading
 - text: 'Outcry over debt slavery; Nehemiah''s remission and his refusal of the governor''s allowance:
     tagged by Claude (model), reading the Hebrew.'

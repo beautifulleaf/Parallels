@@ -20,16 +20,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God rested, or could tire, after creating heaven and earth
-    [response between the texts] (weight 6.3); God rested and was refreshed on the seventh day (weight
-    6.3). Pair score 12.6.'
+    [response between the texts] (weight 7.3); God rested and was refreshed on the seventh day (weight
+    7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in Bezalel and Oholiab; Sabbath as sign; the tablets: God calls a master craftsman by name
     for the sacred work; Whoever works on the Sabbath shall be put to death; The Sabbath is justified
     by God''s resting on the seventh day of creation; Those who violate the Sabbath are punished (executed,
     cut off, cursed or transformed) [divergence between the texts]; Tablets written by the finger of God;
     A second craftsman from the tribe of Dan assists the master craftsman; The Sabbath is an everlasting
-    sign of the covenant between God and Israel; God fills craftsmen with a spirit of wisdom for sacred
-    work; Punishment of those who break the Sabbath [divergence between the texts]; God gives stone tablets
+    sign of the covenant between God and Israel; Punishment of those who break the Sabbath [divergence
+    between the texts]; God fills craftsmen with a spirit of wisdom for sacred work; God gives stone tablets
     he himself has written.'
   basis: reading
 - text: 'Only in Hud warns ''Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran:
@@ -42,8 +42,8 @@ evidence:
     hearers, which serve as warning; A destroying wind wipes out everything at its Lord''s command; in
     the morning only their dwellings are seen; A cloud seen over a land in drought, bringing rain or destruction
     [contrast between the texts]; Woe to those who desire the Day of YHWH: it is darkness and not light;
-    The prophet Hūd is sent to the people of ʿĀd; God was not wearied by creating the heavens and earth
-    (polemic against divine rest); and 4 more.'
+    The prophet Hūd is sent to the people of ʿĀd; The destroying storm-wind wrecks the land by its god''s
+    command; and 5 more.'
   basis: reading
 - text: 'Bezalel and Oholiab; Sabbath as sign; the tablets: tagged by Claude (model), reading the Hebrew.'
   basis: reading

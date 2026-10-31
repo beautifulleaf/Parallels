@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A prophet spends forty days and forty nights in a set period (weight
-    5.8). Pair score 5.8.'
+    6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Moses ascends into the cloud for forty days: The cloud covers the mountain six days and
     God calls on the seventh; God''s glory appears as a devouring fire; Joshua serves as Moses'' attendant;

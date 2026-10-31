@@ -20,9 +20,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s courtiers advise him how to deal with the prophet and
-    his people [contrast between the texts] (weight 6.7); Locusts brought by an east wind devour all vegetation
-    left after the hail (weight 5.6); The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people (weight 4.6). Pair score 16.9.'
+    his people [contrast between the texts] (weight 7.7); Locusts brought by an east wind devour all vegetation
+    left after the hail (weight 6.5); The king''s heart is hardened (by himself or by God) so he refuses
+    to release the people (weight 5.7). Pair score 19.9.'
   basis: reading
 - text: 'Only in Plagues 8-9: locusts and darkness: The king''s own servants urge him to let the people
     go; King tells the prophet never to see his face again or he will die; During the plague of darkness
@@ -40,11 +40,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    Rulers fear that a people will leave the land, or drive them out of it [divergence between the texts];
-    The court magicians ask the king for a reward if they win and are promised closeness; Magicians fail
-    to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate a wonder
-    and confess ''This is the finger of God'' [divergence between the texts]; Threatened believers say
-    ''to our Lord we return'' and pray for patience and to die as muslims; and 22 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; Rulers fear that a people will leave the land, or drive them out of
+    it [divergence between the texts]; and 32 more.'
   basis: reading
 - text: 'Plagues 8-9: locusts and darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

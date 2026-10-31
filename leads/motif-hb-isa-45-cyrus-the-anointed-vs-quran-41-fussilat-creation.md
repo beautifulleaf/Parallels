@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God revealed to each heaven its command (amr) and adorned the lowest
-    heaven with lamps and protection (weight 6.7). Pair score 6.7.'
+    heaven with lamps and protection (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -44,9 +44,9 @@ evidence:
     willingly or unwillingly'', and they answer ''We come willingly''; Heaven likened to or made from
     smoke [contrast between the texts]; The order of creating heaven and earth and the days allotted to
     each [divergence between the texts]; The lowest heaven is adorned with stars as a guard against every
-    rebellious devil; Who makes the hearers deaf, blind and closed of heart to the message [divergence
-    between the texts]; God fashions seven heavens; God set firm mountains on the earth lest it sway with
-    people; Creation is completed in six days; and 2 more.'
+    rebellious devil; The stars are set on (drawn on, adorn) the lowest of the heavens; Who makes the
+    hearers deaf, blind and closed of heart to the message [divergence between the texts]; God fashions
+    seven heavens; God set firm mountains on the earth lest it sway with people; and 3 more.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

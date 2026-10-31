@@ -19,33 +19,32 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The heedless are like cattle, or even more astray (weight 6.0).
-    Pair score 6.0.'
+- text: 'Shared motifs, rarest first: The heedless are like cattle, or even more astray (weight 7.1).
+    Pair score 7.1.'
   basis: reading
 - text: 'Only in Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: City or
     people given a new name in the future age (e.g. ''City of Righteousness'', ''Hephzibah''); The faithful
     city has become a harlot; silver turned to dross, wine diluted with water; Worshippers shamed by the
-    sacred oaks (elim) and gardens they chose; God will smelt away the dross of his people as in a furnace
-    to purify them; Daughter Zion left alone like a booth in a vineyard, a hut in a cucumber field, a
-    besieged city; Nation pictured as a body beaten from sole of foot to head, with untended wounds and
-    sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey at the end; Israel likened
-    to a donkey that knows, or does not understand, what it has [divergence between the texts]; Prophet
-    addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; In Lot''s town only one house of
-    submitters (muslimin) was found, and the believers were brought out; Ox knows its owner and the ass
-    its master''s crib, but Israel does not know (animals wiser than God''s people); Book or oracle opens
-    with a heading naming the prophet, his father and the kings in whose days he saw the vision; and 12
-    more.'
+    sacred oaks (elim) and gardens they chose; Daughter Zion left alone like a booth in a vineyard, a
+    hut in a cucumber field, a besieged city; Nation pictured as a body beaten from sole of foot to head,
+    with untended wounds and sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey
+    at the end; Israel likened to a donkey that knows, or does not understand, what it has [divergence
+    between the texts]; Prophet addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; In
+    Lot''s town only one house of submitters (muslimin) was found, and the believers were brought out;
+    Book or oracle opens with a heading naming the prophet, his father and the kings in whose days he
+    saw the vision; God''s people as sons he reared who rebelled against him; Though sins be like scarlet
+    they shall be white as snow; though red as crimson, like wool; and 12 more.'
   basis: reading
 - text: 'Only in Made for hell, the beautiful names, the unknown Hour: God has created many jinn and humans
     for hell; The charge that a prophet is mad; The charge that a prophet is mad [response between the
     texts]; Having eyes that do not see and ears that do not hear, said of idols or of people [divergence
-    between the texts]; God leads deniers step by step to ruin and grants them respite (istidraj); The
-    prophet disclaims knowledge of the unseen and power over benefit or harm; Among Moses'' people is
-    a community that guides by the truth and acts justly by it; To God belong the most beautiful names;
-    call on him by them; The seer is told to shut up and seal the vision/book until the end; Every nation
-    has a fixed term that cannot be advanced or delayed by an hour; God''s plotting (makr / kayd) outwits
-    the schemers; none is safe from it but the losers; Defense of the prophet: there is no madness (jinna)
-    in your companion; he is only a warner; and 2 more.'
+    between the texts]; Those with eyes and ears who neither see nor hear; God leads deniers step by step
+    to ruin and grants them respite (istidraj); The prophet disclaims knowledge of the unseen and power
+    over benefit or harm; Among Moses'' people is a community that guides by the truth and acts justly
+    by it; To God belong the most beautiful names; call on him by them; The seer is told to shut up and
+    seal the vision/book until the end; Every nation has a fixed term that cannot be advanced or delayed
+    by an hour; God''s plotting (makr / kayd) outwits the schemers; none is safe from it but the losers;
+    and 4 more.'
   basis: reading
 - text: 'Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: tagged by Claude
     (model), reading the Hebrew.'

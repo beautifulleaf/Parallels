@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether those who die and return to dust rise again [contrast between
-    the texts] (weight 6.3); Human comes from dust and returns to dust (weight 5.0). Pair score 11.3.'
+    the texts] (weight 7.3); Human comes from dust and returns to dust (weight 5.9). Pair score 13.2.'
   basis: reading
 - text: 'Only in Injustice, divine judgment, and humans no better than beasts: God tests humans to show
     them that they are but beasts; man has no advantage over the beast; Who knows whether the spirit of
-    man goes upward and the spirit of the beast goes down to the earth?; In the place of justice there
-    is wickedness and in the place of righteousness wickedness; God will judge the righteous and the wicked,
-    for there is a time for every matter; Whether death is the end: asked, held by sceptics, or answered
-    by resurrection [response between the texts]; One fate (miqreh) befalls the wise and the fool, man
-    and beast alike; Who will bring him to see what will be after him?; There is nothing better than to
-    eat, drink and find enjoyment in one''s toil; this is from the hand of God; Do evildoers think God
-    will make them equal to the righteous in life and in death?.'
+    man goes upward and the spirit of the beast goes down to the earth?; God will judge the righteous
+    and the wicked, for there is a time for every matter; Whether death is the end: asked, held by sceptics,
+    or answered by resurrection [response between the texts]; In the place of justice there is wickedness
+    and in the place of righteousness wickedness; Who will bring him to see what will be after him?; One
+    fate (miqreh) befalls the wise and the fool, man and beast alike; Do evildoers think God will make
+    them equal to the righteous in life and in death?; There is nothing better than to eat, drink and
+    find enjoyment in one''s toil; this is from the hand of God.'
   basis: reading
 - text: 'Only in A later generation''s messenger, the Cry, and messengers in succession: God sent his
     messengers one after another; each was denied and each nation became a tale; A people is seized by

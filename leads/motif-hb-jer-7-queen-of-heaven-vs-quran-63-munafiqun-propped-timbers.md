@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God forbids the prophet to pray or intercede for the people, for
-    he will not hear (weight 5.4). Pair score 5.4.'
+    he will not hear (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Do not pray for this people; cakes for the Queen of Heaven: Children gather wood, fathers
     kindle fire and women knead dough to make cakes for the Queen of Heaven; God is a consuming fire,

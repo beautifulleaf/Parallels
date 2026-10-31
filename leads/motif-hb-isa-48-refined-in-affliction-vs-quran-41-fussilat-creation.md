@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God says to heaven and earth ''Come willingly or unwillingly'',
-    and they answer ''We come willingly'' (weight 6.7). Pair score 6.7.'
+    and they answer ''We come willingly'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Obstinate Israel, former and new things, flee from Babylon: God foretold the former things
     long before so no idol could claim credit, and now reveals hidden new things; A speaker declares ''the
@@ -41,9 +41,9 @@ evidence:
     (amr) and adorned the lowest heaven with lamps and protection; Heaven likened to or made from smoke
     [contrast between the texts]; The order of creating heaven and earth and the days allotted to each
     [divergence between the texts]; The lowest heaven is adorned with stars as a guard against every rebellious
-    devil; Who makes the hearers deaf, blind and closed of heart to the message [divergence between the
-    texts]; God fashions seven heavens; God set firm mountains on the earth lest it sway with people;
-    Creation is completed in six days; and 2 more.'
+    devil; The stars are set on (drawn on, adorn) the lowest of the heavens; Who makes the hearers deaf,
+    blind and closed of heart to the message [divergence between the texts]; God fashions seven heavens;
+    God set firm mountains on the earth lest it sway with people; and 3 more.'
   basis: reading
 - text: 'Obstinate Israel, former and new things, flee from Babylon: tagged by Claude (model), reading
     the Hebrew.'

@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends Moses and Aaron together, with his signs, to Pharaoh (weight
-    6.0); Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
-    or praise (weight 5.6). Pair score 11.6.'
+    7.1); Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
+    or praise (weight 6.6). Pair score 13.7.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his

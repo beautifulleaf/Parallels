@@ -13,25 +13,25 @@ traditions:
 layers:
 - motif
 motifs:
-- i-will-be-gracious-to-whom-i-will
 - people-remorse-after-calf-as-divergence
+- i-will-be-gracious-to-whom-i-will
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God declares he will be gracious to whom he will be gracious (weight
-    6.7); After the calf the people mourn or repent of what they did [divergence between the texts] (weight
-    6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: After the calf the people mourn or repent of what they did [divergence
+    between the texts] (weight 7.7); God declares he will be gracious to whom he will be gracious (weight
+    7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Mourning, the tent outside the camp, and Moses sees God''s back: God refuses to go among
     the people lest he consume them on the way; Joshua, the young attendant, never leaves the tent; God
-    tells the prophet: I know you by name and you have found favor; The people strip off their ornaments
-    in mourning or penitence; The people stand at their tent doors and bow as the prophet goes to meet
-    God; A tent of meeting pitched outside the camp where all who seek God go; God''s own Presence (face)
-    will go with the people; Moses asks to see God, his glory or God himself [divergence between the texts];
-    God called Moses and drew him near in confidential converse (najiyy); Moses travels with his young
-    servant (fata); The prophet asks to see God''s glory; God hides the prophet in a cleft of the rock,
-    covers him with his hand, and lets him see only his back; and 9 more.'
+    tells the prophet: I know you by name and you have found favor; The people stand at their tent doors
+    and bow as the prophet goes to meet God; A tent of meeting pitched outside the camp where all who
+    seek God go; God''s own Presence (face) will go with the people; Moses asks to see God, his glory
+    or God himself [divergence between the texts]; God called Moses and drew him near in confidential
+    converse (najiyy); Moses travels with his young servant (fata); The people strip off their ornaments
+    in mourning or penitence; The prophet asks to see God''s glory; God hides the prophet in a cleft of
+    the rock, covers him with his hand, and lets him see only his back; and 9 more.'
   basis: reading
 - text: 'Only in The lowing calf and the seventy: Aaron pleads ''son of my mother, the people overpowered
     me and almost killed me''; The angry prophet seizes his brother by the head (and beard), dragging
@@ -42,7 +42,7 @@ evidence:
     intercedes for Aaron, with whom God was angry enough to destroy him; God''s mercy encompasses all
     things; Moses includes himself with the guilty people in his plea after the calf [divergence between
     the texts]; Moses prays for Aaron after the calf [divergence between the texts]; Moses ''stood in
-    the breach'' (pérets) before God to turn back his wrath from destroying the people; and 14 more.'
+    the breach'' (pérets) before God to turn back his wrath from destroying the people; and 15 more.'
   basis: reading
 - text: 'Mourning, the tent outside the camp, and Moses sees God''s back: tagged by Claude (model), reading
     the Hebrew.'

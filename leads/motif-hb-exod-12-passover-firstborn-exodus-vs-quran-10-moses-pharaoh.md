@@ -19,30 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s instruction about the Israelites'' houses in Egypt before
-    the exodus [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    the exodus [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: Sacrificial blood
-    daubed on the doorposts and lintel protects the household; No one may leave the house until morning
-    on the night of the destroyer; The people carry their unleavened dough in kneading-troughs on their
-    shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival days are holy convocations
-    on which no work is done except preparing food; Small households join neighbors to share one sacrificial
-    lamb; Defeated king asks the departing prophet to bless him too; Leaven must be removed from houses;
-    whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites leaves Egypt with Israel;
-    The spring exodus month becomes the first month of the year; No bone of the paschal sacrifice may
-    be broken; No uncircumcised foreigner may eat the Passover; circumcised slaves and converts may; and
-    18 more.'
+- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: No one may leave
+    the house until morning on the night of the destroyer; The people carry their unleavened dough in
+    kneading-troughs on their shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival
+    days are holy convocations on which no work is done except preparing food; Small households join neighbors
+    to share one sacrificial lamb; Defeated king asks the departing prophet to bless him too; Leaven must
+    be removed from houses; whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites
+    leaves Egypt with Israel; The spring exodus month becomes the first month of the year; No bone of
+    the paschal sacrifice may be broken; No uncircumcised foreigner may eat the Passover; circumcised
+    slaves and converts may; An unblemished yearling lamb selected on the tenth and slaughtered at twilight
+    on the fourteenth; and 18 more.'
   basis: reading
 - text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Only some youths (dhurriyya)
     of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
     the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
-    the texts]; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
-    of prayer); Threatened believers say ''to our Lord we return'' and pray for patience and to die as
-    muslims; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God or his own
-    sin, and what follows; Pharaoh acknowledges Israel''s God or his own sin, and what follows [divergence
-    between the texts]; Who throws the staff before Pharaoh and what it becomes; How Moses'' own people
-    in Egypt respond to his message [divergence between the texts]; and 10 more.'
+    they see punishment; The defeated enemy''s form (image or body) is kept as a sign (Akk. ittu, Ar.
+    āya) for those who come after [divergence between the texts]; What becomes of the drowned Pharaoh
+    and his army after the sea [divergence between the texts]; Moses and Aaron are told to make their
+    people''s houses in Egypt a qibla (place/direction of prayer); Threatened believers say ''to our Lord
+    we return'' and pray for patience and to die as muslims; Why Pharaoh pursues the departing Israelites;
+    Pharaoh acknowledges Israel''s God or his own sin, and what follows; Pharaoh acknowledges Israel''s
+    God or his own sin, and what follows [divergence between the texts]; Who throws the staff before Pharaoh
+    and what it becomes; and 12 more.'
   basis: reading
 - text: 'Passover law, matzot, the night of the firstborn, departure from Egypt: tagged by Claude (model),
     reading the Hebrew.'

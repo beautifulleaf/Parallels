@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is no soothsayer (kahin), no madman, no poet awaiting
-    the accident of fate (weight 6.0); Opponents accuse the prophet of forging lies against God (weight
-    6.0). Pair score 12.0.'
+    the accident of fate (weight 7.1); Opponents accuse the prophet of forging lies against God (weight
+    7.1). Pair score 14.1.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:
@@ -43,11 +43,11 @@ evidence:
     of the stars (dawn); Do they have a ladder (sullam) by which they eavesdrop on heaven? Let their listener
     bring clear proof; ''Be patient for your Lord''s judgment, for you are under our eyes''; Were they
     created from nothing, or are they the creators? Did they create the heavens and earth?; Do they possess
-    the Unseen (al-ghayb) so they write it down?; Dream of a ladder or stairway reaching heaven with angels
-    ascending and descending; ''Eat and drink with relish for what you used to do''; A ladder (sullam
-    / sullām) reaching from earth to heaven [divergence between the texts]; Believers'' offspring who
-    followed them in faith are joined with them in paradise, without loss of reward; each is pledged for
-    what he earned; and 12 more.'
+    the Unseen (al-ghayb) so they write it down?; ''Eat and drink with relish for what you used to do'';
+    A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts]; Messengers
+    go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij) [divergence
+    between the texts]; Believers'' offspring who followed them in faith are joined with them in paradise,
+    without loss of reward; each is pledged for what he earned; and 13 more.'
   basis: reading
 - text: 'Levitical dues; forbidden divination; the prophet like Moses: tagged by Claude (model), reading
     the Hebrew.'

@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who will lend God a goodly loan (qard hasan), that he may multiply
-    it for him? (weight 5.4). Pair score 5.4.'
+    it for him? (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Sayings on the poor, the king''s wrath and the sluggard: A man''s folly ruins his way
     and his heart rages against YHWH; A son who ruins his father and chases away his mother brings shame;
     He who finds a wife finds a good thing and obtains favor from YHWH; a prudent wife is from YHWH; Giving
     as a loan to God, repaid by him [divergence between the texts]; The king''s wrath is like the growling
     of a young lion; his favor like dew on the grass; Whatever misfortune strikes people is for what their
-    own hands have earned, though God pardons much; A quarrelsome wife is like a continual dripping (of
-    a leaking roof); The sluggard buries his hand in the dish and will not even bring it back to his mouth;
-    Strike a scoffer and the simple will learn prudence; The poor is hated even by his neighbor, but the
-    rich has many friends; A rod is for the back of the fool (the senseless); The slow to anger is better
-    than a mighty man, and he who rules his spirit than he who takes a city; and 6 more.'
+    own hands have earned, though God pardons much; The sluggard buries his hand in the dish and will
+    not even bring it back to his mouth; Strike a scoffer and the simple will learn prudence; The poor
+    is hated even by his neighbor, but the rich has many friends; A rod is for the back of the fool (the
+    senseless); A quarrelsome wife is like a continual dripping (of a leaking roof); The slow to anger
+    is better than a mighty man, and he who rules his spirit than he who takes a city; and 6 more.'
   basis: reading
 - text: 'Only in Al-Taghabun: forms made beautiful, the Day of Mutual Loss, enemies among wives and children,
     and the goodly loan: The Day of Gathering is the Day of Mutual Dispossession / Loss and Gain (yawm
@@ -40,12 +40,11 @@ evidence:
     except by God''s leave; whoever believes, God guides his heart; Unbelievers rejected their messengers
     saying ''Shall mere humans guide us?''; God created you, and among you are unbelievers and believers;
     Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a man''s
-    enemies are his own household; Son dishonors father, daughter rises against mother, daughter-in-law
-    against mother-in-law; a man''s enemies are his own household [divergence between the texts]; God
-    shaped you and made your forms good (sawwarakum fa-ahsana suwarakum); The poor emigrants and the hosts
-    who prefer others over themselves even in need; whoever is saved from his own greed succeeds; The
-    Day of Gathering (yawm al-jam'') when all humanity is assembled; one party to the Garden, one to the
-    Blaze; Wealth and children are a trial (fitna); and 6 more.'
+    enemies are his own household [divergence between the texts]; God shaped you and made your forms good
+    (sawwarakum fa-ahsana suwarakum); Human beings as the creator''s images or as forms he fashioned [neutral]
+    [divergence between the texts]; The poor emigrants and the hosts who prefer others over themselves
+    even in need; whoever is saved from his own greed succeeds; A man''s own child is his enemy; One''s
+    wife or child can be one''s worst affliction or enemy; and 10 more.'
   basis: reading
 - text: 'Sayings on the poor, the king''s wrath and the sluggard: tagged by Claude (model), reading the
     Hebrew.'

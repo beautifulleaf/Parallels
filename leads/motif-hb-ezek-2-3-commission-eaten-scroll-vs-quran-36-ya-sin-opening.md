@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet commissioned to make the people''s heart fat, ears heavy
-    and eyes shut lest they understand and be healed (weight 5.0). Pair score 5.0.'
+    and eyes shut lest they understand and be healed (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Ezekiel''s commission as ''son of man'' to the rebellious house; he eats the scroll sweet
     as honey: Heavenly voice cries ''Blessed be the glory of YHWH from his place''; God makes the prophet''s

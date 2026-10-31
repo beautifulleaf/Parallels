@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Corners of the field, gleanings and fallen grapes left for the poor
-    and the stranger (weight 6.3). Pair score 6.3.'
+    and the stranger (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The appointed times - sabbath and annual festivals: A holy day is kept from evening to
     evening; First sheaf (omer) of the harvest waved by the priest on the morrow after the sabbath; Two

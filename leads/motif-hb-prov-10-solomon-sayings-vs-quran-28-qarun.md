@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The rich man''s wealth is his strong city; the poverty of the poor
-    is their ruin (weight 6.3). Pair score 6.3.'
+    is their ruin (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in First Solomonic collection begins (antithetic sayings on righteous and wicked): The prudent
     son gathers in summer; the shameful son sleeps in harvest; The memory of the righteous is for blessing
@@ -30,18 +30,19 @@ evidence:
     eye and pursing the lips signal malicious scheming; Hatred stirs up strife, but love covers all offenses;
     A rod is for the back of the fool (the senseless); A collection of sayings is headed ''Proverbs of
     Solomon''; Wise teaching, the righteous mouth or the fear of YHWH is a ''fountain of life'' (meqor
-    hayyim); Wisdom or the fear of YHWH adds days and years of life; the years of the wicked are shortened;
-    and 3 more.'
+    hayyim); The diligent hand makes rich and rules; the slack hand brings poverty and forced labor; and
+    3 more.'
   basis: reading
 - text: 'Only in Qarun''s treasures and his swallowing by the earth; closing: God who imposed the Quran
     will bring the prophet back to a place of return (maʿād); Qārūn says his wealth came to him through
     knowledge he possesses; Qārūn (Korah) of Moses'' people was given treasures whose keys would weigh
     down a band of strong men; Donors confess that everything comes from God and they only give back what
-    is his; Bystanders of a divine punishment fear it could have struck them too; Qārūn goes out in his
-    finery and the worldly wish for his fortune; What Korah''s sin was, and why the earth swallowed him
-    [divergence between the texts]; All on earth perish; there remains the Face of your Lord, possessor
-    of majesty and honor; Warning against saying my power and the might of my hand made this wealth; The
-    earth opens its mouth and swallows rebels alive into Sheol.'
+    is his; The earth opens and swallows ill-gotten riches or the wrongful rich man with his house; Bystanders
+    of a divine punishment fear it could have struck them too; Qārūn goes out in his finery and the worldly
+    wish for his fortune; What Korah''s sin was, and why the earth swallowed him [divergence between the
+    texts]; All on earth perish; there remains the Face of your Lord, possessor of majesty and honor;
+    Warning against saying my power and the might of my hand made this wealth; The earth opens its mouth
+    and swallows rebels alive into Sheol.'
   basis: reading
 - text: 'First Solomonic collection begins (antithetic sayings on righteous and wicked): tagged by Claude
     (model), reading the Hebrew.'

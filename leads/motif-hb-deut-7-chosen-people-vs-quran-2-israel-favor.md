@@ -20,19 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If the people keep God''s covenant, God keeps his covenant with
-    them (weight 6.7); Israel chosen as God''s treasured people (am segullah) out of all peoples (weight
-    5.3). Pair score 12.0.'
+    them (weight 7.7); Israel chosen as God''s treasured people (am segullah) out of all peoples (weight
+    6.2). Pair score 14.0.'
   basis: reading
 - text: 'Only in Dispossession of the seven nations; Israel the treasured people: God chose Israel not
     for their numbers, being the fewest of peoples, but from love; Silver and gold on idols must not be
-    taken; it is abomination and herem; Obedience brings fertility: none barren among people or cattle;
-    Enemies driven out little by little lest wild beasts multiply; Why God chose Israel: love, or knowledge
-    and testing [divergence between the texts]; The evil diseases of Egypt removed from the obedient or
-    brought on the disobedient; God sends the hornet to drive out the inhabitants; Ban on marrying outside
-    the community and its criterion [divergence between the texts]; List of the seven nations of Canaan
-    to be dispossessed; God visits the fathers'' sin on the third and fourth generation, but keeps steadfast
-    love for thousands; Prohibition of intermarriage with the peoples of the land lest they turn sons
-    to other gods; Command to smash altars, standing stones and Asherah poles and burn idols; and 1 more.'
+    taken; it is abomination and herem; Enemies driven out little by little lest wild beasts multiply;
+    Why God chose Israel: love, or knowledge and testing [divergence between the texts]; Obedience brings
+    fertility: none barren among people or cattle; God sends the hornet to drive out the inhabitants;
+    Ban on marrying outside the community and its criterion [divergence between the texts]; List of the
+    seven nations of Canaan to be dispossessed; The evil diseases of Egypt removed from the obedient or
+    brought on the disobedient; Prohibition of intermarriage with the peoples of the land lest they turn
+    sons to other gods; God visits the fathers'' sin on the third and fourth generation, but keeps steadfast
+    love for thousands; Command to smash altars, standing stones and Asherah poles and burn idols; and
+    1 more.'
   basis: reading
 - text: 'Only in Address to the Children of Israel: God''s choosing of Israel among the peoples [divergence
     between the texts]; On that day no soul will avail another, no intercession or ransom accepted, no

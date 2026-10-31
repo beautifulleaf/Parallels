@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Doing good to an enemy, and what it brings [divergence between the
-    texts] (weight 6.7); Repel evil with what is better (weight 5.8). Pair score 12.5.'
+    texts] (weight 7.7); Repel evil with what is better (weight 6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies): A word fitly spoken
     is like apples of gold in settings of silver; A man without self-restraint is like a city broken into,
     without walls; Clouds and wind without rain is a man who boasts of a gift he does not give; If you
     find honey eat only enough, lest you be sated and vomit it; Like the cold of snow in harvest time
-    is a faithful messenger to those who send him; If your enemy is hungry give him bread and if thirsty
-    water, for you will heap coals of fire on his head and YHWH will reward you; It is the glory of God
-    to conceal a matter and the glory of kings to search it out; Like cold water to a weary soul is good
-    news from a far country; Proverbs of Solomon ''copied out'' (he''tiqu) by the men of Hezekiah king
-    of Judah; As heaven for height and earth for depth, so the heart of kings is unsearchable; The north
-    wind brings forth rain, and a backbiting tongue angry looks; A righteous man who gives way before
-    the wicked is like a muddied spring or polluted fountain; and 12 more.'
+    is a faithful messenger to those who send him; It is the glory of God to conceal a matter and the
+    glory of kings to search it out; Like cold water to a weary soul is good news from a far country;
+    Proverbs of Solomon ''copied out'' (he''tiqu) by the men of Hezekiah king of Judah; As heaven for
+    height and earth for depth, so the heart of kings is unsearchable; The north wind brings forth rain,
+    and a backbiting tongue angry looks; A righteous man who gives way before the wicked is like a muddied
+    spring or polluted fountain; Let your foot be seldom in your neighbor''s house, lest he grow weary
+    of you and hate you; and 12 more.'
   basis: reading
 - text: 'Only in Angels descend on the steadfast; repel evil with good; signs on the horizons: Angels
     descend on those who say ''Our Lord is God'' and stand firm: ''Fear not, grieve not, rejoice in the
@@ -42,11 +42,11 @@ evidence:
     will come, and if returned to my Lord I will have the best with him''; On the Day God calls ''Where
     are my partners?'', they answer ''We declare to you none of us is a witness''; The Quran is guidance
     and healing (shifa'') for believers; for others deafness and blindness; ''We will show them our signs
-    on the horizons and in themselves until it is clear to them that it is the truth''; Do not say ''I
-    will repay evil''; wait for YHWH and he will save you; Had it been revealed to a non-Arab (aʿjamī)
-    reciting it, they would still not believe; When an evil prompting from Satan stirs you, seek refuge
-    in God; Disavowal of secretly worshiping the shining sun and moon by kissing the hand to the mouth;
-    and 12 more.'
+    on the horizons and in themselves until it is clear to them that it is the truth''; The adversary
+    is reconciled and becomes a friend; who spoke evil speaks good [divergence between the texts]; Whether
+    to answer an evil word or deed with its like [divergence between the texts]; Prayer or prostration
+    addressed to the sun [response between the texts]; The adversary is met with good (raise him, feed
+    him), so that he is shamed or turned into a friend; and 20 more.'
   basis: reading
 - text: 'Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies): tagged by Claude (model),
     reading the Hebrew.'

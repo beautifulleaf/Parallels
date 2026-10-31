@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Postponing a sacred month (al-nasi'', intercalation) is an increase
-    in unbelief (weight 6.7). Pair score 6.7.'
+    in unbelief (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jeroboam''s golden calves and rival cult: King invents a rival pilgrimage festival on
     the fifteenth of the eighth month, a month ''he devised from his own heart''; King appoints priests
@@ -28,10 +28,12 @@ evidence:
     The calf is hailed as the god who brought Israel out of Egypt; People make a molten calf while the
     leader is on the mountain.'
   basis: reading
-- text: 'Only in Twelve months and the ban on intercalation: God fixes the reckoning of months [divergence
-    between the texts]; Four of the twelve months are sacred; God fixed all the boundaries of the earth
-    and formed summer and winter; The number of months with God is twelve, in God''s book since the day
-    he created heaven and earth; Sun and moon are set to rule day and night and mark signs and seasons.'
+- text: 'Only in Twelve months and the ban on intercalation: God fixes the reckoning of months; God fixes
+    the reckoning of months [divergence between the texts]; Four of the twelve months are sacred; God
+    fixed all the boundaries of the earth and formed summer and winter; Moving a sacred festival or month
+    out of its fixed time is forbidden; The number of months with God is twelve, in God''s book since
+    the day he created heaven and earth; Sun and moon are set to rule day and night and mark signs and
+    seasons.'
   basis: reading
 - text: 'Jeroboam''s golden calves and rival cult: tagged by Claude (model), reading the Hebrew.'
   basis: reading

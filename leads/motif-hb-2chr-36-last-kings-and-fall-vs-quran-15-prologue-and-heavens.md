@@ -20,30 +20,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people mock God''s messengers, despise his words and scoff at
-    his prophets (weight 5.4). Pair score 5.4.'
+    his prophets (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Last kings of Judah, burning of the temple, exile and seventy years: God''s wrath rises
     until there is no remedy; The enemy kills the young men by the sword in the sanctuary; Overlord imposes
     a fine of 100 talents of silver and a talent of gold; While the people are in exile, the desolate
     land makes up its missed sabbath years; The temple of Jerusalem is burned and the city walls broken
     down; The enemy enters the sanctuary (masjid) a second time as the first and destroys all; Vassal
-    king rebels against the overlord who made him swear by God; Foreign overlord deposes a king and renames
-    his replacement; The ''people of the land'' kill the conspirators or choose and enthrone a king; God
-    sends his messengers ''rising early and sending'' out of compassion; The temple treasures and gold
-    vessels of Solomon are carried off to Babylon; A child of eight to twelve years becomes king; and
-    1 more.'
+    king rebels against the overlord who made him swear by God; The ''people of the land'' kill the conspirators
+    or choose and enthrone a king; God sends his messengers ''rising early and sending'' out of compassion;
+    Foreign overlord deposes a king and renames his replacement; The temple treasures and gold vessels
+    of Solomon are carried off to Babylon; A child of eight to twelve years becomes king; and 1 more.'
   basis: reading
 - text: 'Only in The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25): Opponents
     demand that the prophet bring the angels if he is truthful; Even if a door of heaven were opened and
     they ascended, they would say their eyes were bewitched; No town is destroyed without a known written
     decree; no nation outstrips its term; God sends the winds as fertilizers (lawaqih), then rain to drink;
     God declares that he sent down the Reminder and will himself guard it; God made everything grow in
-    due weight and sends it down only in known measure; Jinn or devils who used to sit listening at heaven''s
-    gates now find it full of stern guards and shooting stars (shuhub) lying in wait; There is nothing
-    whose storehouses are not with God; God gives life and death and is the inheritor of the earth and
-    all on it; God set constellations (buruj) in the sky and adorned it for beholders; Defense of the
-    prophet: there is no madness (jinna) in your companion; he is only a warner; God set the mountains
-    as pegs or firm anchors (awtad, rawasi) for the earth; and 1 more.'
+    due weight and sends it down only in known measure; A mortal climbs into the sky through a gate of
+    heaven; Jinn or devils who used to sit listening at heaven''s gates now find it full of stern guards
+    and shooting stars (shuhub) lying in wait; There is nothing whose storehouses are not with God; God
+    gives life and death and is the inheritor of the earth and all on it; God set constellations (buruj)
+    in the sky and adorned it for beholders; Defense of the prophet: there is no madness (jinna) in your
+    companion; he is only a warner; and 2 more.'
   basis: reading
 - text: 'Last kings of Judah, burning of the temple, exile and seventy years: tagged by Claude (model),
     reading the Hebrew.'

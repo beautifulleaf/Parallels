@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
-    are blotted (weight 4.6). Pair score 4.5.'
+    are blotted (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in The four beasts, the Ancient of Days and one like a son of man: Thrones are set and the
     Ancient of Days sits, his garment white as snow and his hair like pure wool; The seer asks one of
@@ -28,10 +28,10 @@ evidence:
     over to burning fire; A heavenly figure or the holy ones are given everlasting dominion, glory and
     kingdom which all peoples serve; God''s throne is flames of fire with wheels of burning fire; Four
     great beasts rise from the sea, each different, symbolizing successive kingdoms; A leopard with four
-    wings and four heads is given dominion; The four winds of heaven stir up the great sea, out of which
-    monstrous beasts arise; The holy ones of the Most High (qaddishe ''elyonin) receive and possess the
-    kingdom forever; The horn makes war against the holy ones and prevails until the Ancient of Days comes;
-    A little horn with human eyes and a mouth speaking great things uproots three horns; and 15 more.'
+    wings and four heads is given dominion; The holy ones of the Most High (qaddishe ''elyonin) receive
+    and possess the kingdom forever; The horn makes war against the holy ones and prevails until the Ancient
+    of Days comes; A little horn with human eyes and a mouth speaking great things uproots three horns;
+    Thousands of thousands serve God and myriads of myriads stand before him; and 15 more.'
   basis: reading
 - text: 'Only in The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the
     aorta of a forger: Whoever is given his book in his left hand wishes he had never been given it and
@@ -42,10 +42,10 @@ evidence:
     seized him by the right hand and cut his aorta (watin); ''I swear by what you see and what you do
     not see''; ''Seize him, fetter him, roast him in hellfire, then thread him on a chain seventy cubits
     long''; ''This is the certain truth'' (haqq al-yaqin); Reclining on couches lined with brocade, with
-    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; God
-    keeps a book in which names are written and from which sinners are blotted [divergence between the
-    texts]; Kings bound with chains and nobles with fetters of iron to execute ''the judgment written'';
-    and 5 more.'
+    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; An offence
+    concerning food is repaid with foul food and drink [divergence between the texts]; God keeps a book
+    in which names are written and from which sinners are blotted [divergence between the texts]; and
+    8 more.'
   basis: reading
 - text: 'The four beasts, the Ancient of Days and one like a son of man: tagged by Claude (model), reading
     the Aramaic.'

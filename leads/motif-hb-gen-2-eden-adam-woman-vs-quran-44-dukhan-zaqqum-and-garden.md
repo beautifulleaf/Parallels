@@ -19,17 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A tree whose fruit is food, in Eden or in hell [contrast between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 21 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence
+    between the texts]; and 21 more.'
   basis: reading
 - text: 'Only in Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade
     and the houris: The Day of Sorting/Decision (yawm al-fasl) is the appointed time for all; The blessed
@@ -41,8 +43,8 @@ evidence:
     fire and boiling water is poured on their heads, melting their insides and skins; The damned man is
     taunted: ''Taste! You are the mighty, the noble!''; In paradise they taste no death except the first
     death; On that day no patron (mawla) can avail his client at all; The people of Tubba'' (the Himyarite
-    kings of Yemen) as a destroyed people; Neither their silver nor their gold can save them on the day
-    of YHWH''s wrath; and 4 more.'
+    kings of Yemen) as a destroyed people; The blessed will not die except their first death and will
+    not be punished; and 6 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,29 +19,30 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Sun and moon each swim in an orbit (falak) (weight 6.0). Pair score
-    6.0.'
+- text: 'Shared motifs, rarest first: Sun and moon each swim in an orbit (falak) (weight 7.1). Pair score
+    7.1.'
   basis: reading
 - text: 'Only in Psalm 19 - the heavens declare; the Torah is perfect: God has set a tent for the sun
     in the heavens; The Torah of YHWH is perfect, restoring the soul; its precepts make wise, gladden
     the heart, enlighten the eyes; ''May the words of my mouth and the meditation of my heart be acceptable
     before you, my Rock and Redeemer''; The heavens recount God''s glory; day to day pours out speech
     without words or voice; Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot);
-    The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his course;
     God''s judgments are more desirable than gold and sweeter than honey and the honeycomb; The seven
     heavens, the earth and everything in them glorify God, though humans do not understand their praise;
+    The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his course;
     God called the Rock (tsur); A solid firmament (raqia) separates upper waters from lower waters; Superscription
     ''for the leader/choirmaster'' (lamenatseah).'
   basis: reading
-- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: The heavens and earth
-    were a closed-up mass (ratq) that God split apart (fatq); Man was created of haste; Creation proceeds
-    by dividing (light/darkness, waters above/below); God comes to the land, reducing it from its outlying
-    parts; God made every living thing from water [divergence between the texts]; God gave Moses and Aaron
-    the Criterion (al-furqān), a light and reminder; The heavens and earth were a closed-up mass (ratq)
-    that God split apart (fatq) [divergence between the texts]; God made the sky a protected roof; ''Let
-    God weigh me in just balances and know my integrity'' [divergence between the texts]; God made every
-    living thing from water; Just scales are set up on the day of resurrection; even a mustard seed''s
-    weight is brought forth; ''Let God weigh me in just balances and know my integrity''; and 4 more.'
+- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: Man was created of
+    haste; A balance set upright / just balances set up for the judgment; God comes to the land, reducing
+    it from its outlying parts; God made every living thing from water [divergence between the texts];
+    Whether a human, such as the flood hero, is granted eternal life; God gave Moses and Aaron the Criterion
+    (al-furqān), a light and reminder; When the gods created mankind they allotted death to them and kept
+    life in their own hands; At the beginning heaven and earth, once together, were separated; The heavens
+    and earth were a closed-up mass (ratq) that God split apart (fatq); The heavens and earth were a closed-up
+    mass (ratq) that God split apart (fatq) [divergence between the texts]; God made the sky a protected
+    roof; ''Let God weigh me in just balances and know my integrity'' [divergence between the texts];
+    and 12 more.'
   basis: reading
 - text: 'Psalm 19 - the heavens declare; the Torah is perfect: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God drives the storm cloud to strike whom he wills or to show favor
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Elihu''s hymn on rain, thunder, snow and the storm: Golden splendor comes out of the
     north as God''s awesome majesty; God''s booth or canopy (sukkah) is made of thunderclouds and darkness;
@@ -41,10 +41,11 @@ evidence:
     light upon light; God sends down hail from mountains in the sky; the flash of his lightning nearly
     takes away sight; In houses God allowed to be raised, men undistracted by trade glorify him morning
     and evening; God created every beast from water: some go on their bellies, some on two legs, some
-    on four; Birds with outspread wings glorify God; each knows its prayer and praise; With God is the
-    fountain of life; in his light we see light; A lamp fed directly by an olive tree [divergence between
-    the texts]; A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil
-    through golden pipes; The mirage and the thirsty traveler [divergence between the texts]; and 8 more.'
+    on four; Birds in flight, wings spread, praise the deity; With God is the fountain of life; in his
+    light we see light; A lamp fed directly by an olive tree [divergence between the texts]; A golden
+    lampstand with seven lamps is flanked by two olive trees that pour golden oil through golden pipes;
+    The god titled ''light of heaven(s) and earth'' (nūr šamāmī u qaqqari / nūru l-samāwāti wa-l-arḍ),
+    and those deprived of light walk in darkness; and 12 more.'
   basis: reading
 - text: 'Elihu''s hymn on rain, thunder, snow and the storm: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On that day no patron (mawla) can avail his client at all (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 49 - no man can ransom his brother: Like sheep they are appointed for Sheol; Death
     shepherds them; When he dies he takes nothing with him; his glory does not go down after him; God
@@ -30,9 +30,9 @@ evidence:
     wills; Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves;
     No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too
     costly [divergence between the texts]; Qārūn goes out in his finery and the worldly wish for his fortune;
-    Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging; Wise men die, the fool
-    and the brute perish together and leave their wealth to others; Riches kept by their owner to his
-    hurt, lost in a bad venture, so that his son has nothing in hand; and 4 more.'
+    Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging; Riches kept by their
+    owner to his hurt, lost in a bad venture, so that his son has nothing in hand; Wise men die, the fool
+    and the brute perish together and leave their wealth to others; and 4 more.'
   basis: reading
 - text: 'Only in Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade
     and the houris: The Day of Sorting/Decision (yawm al-fasl) is the appointed time for all; The blessed
@@ -44,8 +44,8 @@ evidence:
     fire and boiling water is poured on their heads, melting their insides and skins; The damned man is
     taunted: ''Taste! You are the mighty, the noble!''; In paradise they taste no death except the first
     death; The people of Tubba'' (the Himyarite kings of Yemen) as a destroyed people; A tree whose fruit
-    is food, in Eden or in hell [contrast between the texts]; Neither their silver nor their gold can
-    save them on the day of YHWH''s wrath; and 4 more.'
+    is food, in Eden or in hell [contrast between the texts]; The blessed will not die except their first
+    death and will not be punished; and 6 more.'
   basis: reading
 - text: 'Psalm 49 - no man can ransom his brother: tagged by Claude (model), reading the Hebrew.'
   basis: reading

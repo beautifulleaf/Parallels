@@ -16,37 +16,38 @@ layers:
 - motif
 motifs:
 - origin-and-purpose-of-the-human-mate-as-divergence
-- human-formed-from-earth
 - gardens-with-rivers-beneath
+- human-formed-from-earth
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How God made the human mate, and for what purpose [divergence between
-    the texts] (weight 6.3); First human shaped from dust, clay or soil (weight 4.6); Paradise as gardens
-    (of ʿAdn) beneath which rivers flow, where the righteous abide forever (weight 4.4). Pair score 15.2.'
+    the texts] (weight 7.3); Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous
+    abide forever (weight 5.4); First human shaped from dust, clay or soil (weight 5.2). Pair score 18.0.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 19 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence
+    between the texts]; and 19 more.'
   basis: reading
 - text: 'Only in The Hour, the times of praise, and the signs of God: Everything in the heavens and the
-    earth is devoutly obedient (qanit) to God; The diversity of human languages and colors is one of God''s
-    signs; God created mates for humans from their own selves so they may find rest in them, with love
-    and mercy between them; God did not wrong them; they wronged themselves (refrain); At night the beasts
-    of the forest prowl and lions roar for prey; at sunrise they withdraw and man goes out to work till
-    evening; Why humans speak many languages [divergence between the texts]; Refrain ''among his signs
-    (ayat) is...'' listing natural phenomena as evidence of God; God shows lightning to inspire fear and
-    hope (of rain); Nations distinguished by land, language and clan; God brings the living out of the
-    dead and the dead out of the living; Glorify God in the evening, morning, afternoon and noon (set
-    times of praise or prayer); God originates creation and then repeats it (resurrection as re-creation);
-    and 2 more.'
+    earth is devoutly obedient (qanit) to God; God created mates for humans from their own selves so they
+    may find rest in them, with love and mercy between them; The many languages of mankind and the deity''s
+    part in them [divergence between the texts]; The diversity of human languages and colors is one of
+    God''s signs; God made human tongues different in speech and their skins (colours) distinct; God did
+    not wrong them; they wronged themselves (refrain); Go up on (travel through) the ruins of the ancients
+    and look: what the sight teaches [divergence between the texts]; Why humans speak many languages [divergence
+    between the texts]; Refrain ''among his signs (ayat) is...'' listing natural phenomena as evidence
+    of God; God shows lightning to inspire fear and hope (of rain); God brings the living out of the dead
+    and the dead out of the living; Nations distinguished by land, language and clan; and 5 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

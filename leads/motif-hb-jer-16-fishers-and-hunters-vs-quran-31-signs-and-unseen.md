@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The religion of the fathers invoked, held to or renounced [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in A new exodus from the north; fishers and hunters: God sends many fishers to fish them
     out and then many hunters to hunt them from every mountain and cleft of rock; Appeal to the religion
@@ -35,13 +35,13 @@ evidence:
     resurrecting all of you is for God like a single soul; Waves overwhelm the ship like canopies (zulal);
     If all trees were pens and the sea, replenished by seven more seas, were ink, God''s words would not
     be exhausted; Whoever rejects false gods (taghut) and believes in God grasps the firmest handhold
-    that never breaks; On the Day no parent can avail his child, nor child his parent; Only God knows
-    when the mountain goats and hinds give birth and counts their months; God alone knows the Hour, sends
-    rain, knows what is in wombs; no soul knows what it will earn tomorrow or in what land it will die;
-    Seafarers cry to God in a storm; what they do once rescued [divergence between the texts]; Sailors
-    in a storm call on God sincerely, vow thanks, and transgress once saved; Rejecters reply ''we follow
-    what we found our fathers upon''; Sun and moon are subjected, each running to an appointed term; God
-    makes the night pass into the day and the day into the night; and 1 more.'
+    that never breaks; On the Day no parent can avail his child, nor child his parent; A great wave at
+    sea; the man brought safe to land and what he then does for the deity [neutral] [divergence between
+    the texts]; No one knows what tomorrow will bring; Only God knows when the mountain goats and hinds
+    give birth and counts their months; God alone knows the Hour, sends rain, knows what is in wombs;
+    no soul knows what it will earn tomorrow or in what land it will die; Humans are not told the day
+    or the place of their death; No one knows what will happen when he thinks of tomorrow; Seafarers cry
+    to God in a storm; what they do once rescued [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'A new exodus from the north; fishers and hunters: tagged by Claude (model), reading the Hebrew.'
   basis: reading

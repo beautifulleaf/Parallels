@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who was present at the revelation on the mountain, and who knows
-    it only by report [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    it only by report [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -29,8 +29,8 @@ evidence:
     with no visible form; People fear to hear God directly and ask the prophet to mediate; The people''s
     answer to the covenant (''we hear ...'') [response between the texts]; Sabbath grounded in the memory
     of slavery in Egypt; Honor father and mother, with the promise of long life [divergence between the
-    texts]; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na); Prohibition of coveting
-    the neighbor''s wife and property; and 10 more.'
+    texts]; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na); Prohibitions of murder,
+    adultery, theft and false witness [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in The prophet was not there; the two books; believing People of the Book: Challenge: bring
     a book from God more guiding than these two and I will follow it; The prophet cannot guide whom he
@@ -40,9 +40,9 @@ evidence:
     already, receive their reward twice; ''To us our deeds and to you yours; peace be upon you; we do
     not seek the ignorant''; Opponents call the Torah and the Quran ''two sorceries supporting each other'';
     Who was present at the revelation on the mountain, and who knows it only by report [divergence between
-    the texts]; Produce and wealth of every land brought to a sacred city [divergence between the texts];
-    Whoever takes his own desire (hawā) as his god; Repel evil with what is better; God does not punish
-    a people before sending a messenger, lest they plead they had none; and 1 more.'
+    the texts]; The produce (tribute, fruits) of all lands is brought into a sacred city; Produce and
+    wealth of every land brought to a sacred city [divergence between the texts]; Whoever takes his own
+    desire (hawā) as his god; Repel evil with what is better; and 2 more.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

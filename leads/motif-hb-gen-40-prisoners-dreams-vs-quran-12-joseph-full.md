@@ -16,10 +16,10 @@ layers:
 motifs:
 - interpretation-from-god-as-divergence
 - freed-prisoner-forgets-as-divergence
-- one-executed-one-restored
-- freed-prisoner-forgets
 - remember-me-to-king
 - prisoners-dreams-wine-bread
+- one-executed-one-restored
+- freed-prisoner-forgets
 - birds-eat-bread-from-head
 - interpretation-from-god
 passages: []
@@ -27,12 +27,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero attributes his dream interpretation to God [divergence between
-    the texts] (weight 6.7); The freed prisoner forgets the hero for years [divergence between the texts]
-    (weight 6.7); One prisoner is restored, the other executed and his body exposed (weight 6.0); The
-    freed prisoner forgets the hero for years (weight 6.0); Hero asks the freed prisoner to mention him
-    to the king (weight 6.0); Two fellow prisoners dream of pressing wine and carrying bread (weight 6.0);
-    Birds eat bread from on top of the dreamer''s head (weight 6.0); Hero attributes his dream interpretation
-    to God (weight 5.4). Pair score 48.8.'
+    the texts] (weight 7.7); The freed prisoner forgets the hero for years [divergence between the texts]
+    (weight 7.7); Hero asks the freed prisoner to mention him to the king (weight 7.1); Two fellow prisoners
+    dream of pressing wine and carrying bread (weight 7.1); One prisoner is restored, the other executed
+    and his body exposed (weight 7.1); The freed prisoner forgets the hero for years (weight 7.1); Birds
+    eat bread from on top of the dreamer''s head (weight 7.1); Hero attributes his dream interpretation
+    to God (weight 6.1). Pair score 56.9.'
   basis: reading
 - text: 'Only in The cupbearer''s and baker''s dreams: On the king''s birthday feast prisoners are released
     or executed; ''Lift up your head'' means restoration for one and beheading for the other; King''s
@@ -49,7 +49,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 101 more.'
+    brings back the missing royal cup, with a guarantor; and 139 more.'
   basis: reading
 - text: 'The cupbearer''s and baker''s dreams: tagged by Claude (model), reading the Hebrew.'
   basis: reading

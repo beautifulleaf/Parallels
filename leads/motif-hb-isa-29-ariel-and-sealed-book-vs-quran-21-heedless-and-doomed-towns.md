@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s reckoning draws near while they turn away in heedlessness
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be
@@ -37,10 +37,12 @@ evidence:
   basis: reading
 - text: 'Only in The reckoning approaches; mortal messengers and destroyed towns: The doomed townsfolk
     run from God''s onslaught and are told mockingly to return to their luxuries; they become mown stubble;
-    ''Ask the people of the Reminder (ahl al-dhikr) if you do not know'': appeal to earlier scripture-holders;
-    Earlier messengers were only men who ate food and were not immortal; Opponents call the revelation
-    jumbled dreams, a forgery, or the work of a poet; The unbelievers demand: ''Why does he not bring
-    us a sign from his Lord?''; Destruction follows the people''s rejection of a messenger.'
+    The punished cry ''woe (ahula / yā waylanā), we have sinned (been wrongdoers)''; ''Ask the people
+    of the Reminder (ahl al-dhikr) if you do not know'': appeal to earlier scripture-holders; Earlier
+    messengers were only men who ate food and were not immortal; Opponents call the revelation jumbled
+    dreams, a forgery, or the work of a poet; The unbelievers demand: ''Why does he not bring us a sign
+    from his Lord?''; The slain are piled up in heaps like grain stacks or sheaves; Destruction follows
+    the people''s rejection of a messenger.'
   basis: reading
 - text: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay: tagged
     by Claude (model), reading the Hebrew.'

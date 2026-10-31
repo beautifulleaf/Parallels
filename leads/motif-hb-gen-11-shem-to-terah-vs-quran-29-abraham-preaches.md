@@ -20,14 +20,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Family migrates from Ur of the Chaldeans to Harran on the way to
-    Canaan (weight 6.7); Who leads Abraham''s departure from his homeland, with Lot, and why [divergence
-    between the texts] (weight 6.3). Pair score 13.0.'
+    Canaan (weight 7.7); Who leads Abraham''s departure from his homeland, with Lot, and why [divergence
+    between the texts] (weight 7.3). Pair score 15.1.'
   basis: reading
-- text: 'Only in Generations of Shem to Terah; Terah''s family leaves Ur: Lifespans decline generation
-    by generation after the flood; A son dies in his father''s lifetime and presence; How Abraham parts
-    from his father and his father''s land or gods [divergence between the texts]; How Abraham parts from
-    his father and his father''s land or gods; Ten generations of long-lived patriarchs from the first
-    man to the flood hero; The patriarch''s wife is barren.'
+- text: 'Only in Generations of Shem to Terah; Terah''s family leaves Ur: A son dies in his father''s
+    lifetime and presence; How Abraham parts from his father and his father''s land or gods [divergence
+    between the texts]; How Abraham parts from his father and his father''s land or gods; Ten generations
+    of long-lived patriarchs from the first man to the flood hero; Lifespans decline generation by generation
+    after the flood; The patriarch''s wife is barren.'
   basis: reading
 - text: 'Only in Abraham preaches against idols, is saved from the fire, and Lot believes: Idols are taken
     only as a bond of affection among people in this life; on the Day they will disown and curse one another;

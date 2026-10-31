@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Repeated mutual disavowal: ''I do not worship what you worship,
-    nor do you worship what I worship''; ''to you your religion and to me mine'' (weight 6.7). Pair score
-    6.7.'
+    nor do you worship what I worship''; ''to you your religion and to me mine'' (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
@@ -38,9 +38,9 @@ evidence:
 - text: 'Only in The disbelievers, the help, and the flame: Curse on Abu Lahab (''father of flame''):
     his hands perish, he will burn in a fire of flame, and his wife carries firewood with a rope of palm
     fiber (masad) on her neck; Foreign daughter-in-law swears to follow her mother-in-law: your people
-    my people, your God my God [contrast between the texts]; A person''s name declared to match his character:
-    ''as his name is, so is he''; When God''s help and the opening (al-fath) come, people enter God''s
-    religion in crowds; the prophet is to glorify and seek forgiveness; Wealth does not profit on the
+    my people, your God my God [contrast between the texts]; When God''s help and the opening (al-fath)
+    come, people enter God''s religion in crowds; the prophet is to glorify and seek forgiveness; A person''s
+    name declared to match his character: ''as his name is, so is he''; Wealth does not profit on the
     day of wrath.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged

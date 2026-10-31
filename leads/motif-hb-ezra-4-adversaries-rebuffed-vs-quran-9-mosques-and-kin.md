@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Only those who believe, pray and give alms may maintain God''s places
-    of worship (weight 6.7). Pair score 6.7.'
+    of worship (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Offer of help from the deportee peoples rejected; opposition and accusations: A letter
     written in Aramaic script and Aramaic language is quoted; Neighboring settlers offer to help build
@@ -34,7 +34,8 @@ evidence:
     children for God''s covenant; Do not take fathers or brothers as allies against faith; love of God
     must outweigh family, wealth, trade and homes; To obey is better than sacrifice; Entrance liturgy:
     ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications; The Levites
-    kill idolaters including their own kin and are consecrated for it.'
+    kill idolaters including their own kin and are consecrated for it; Loyalty to the lord overrides a
+    listed series of kin: father, mother, son, brother, kinsman.'
   basis: reading
 - text: 'Offer of help from the deportee peoples rejected; opposition and accusations: tagged by Claude
     (model), reading the Hebrew.'

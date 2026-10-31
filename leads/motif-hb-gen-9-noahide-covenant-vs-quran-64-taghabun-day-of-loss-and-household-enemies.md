@@ -18,19 +18,19 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Humanity made in the image or likeness of the deity (weight 5.8).
-    Pair score 5.8.'
+- text: 'Shared motifs, rarest first: Humanity made in the image or likeness of the deity (weight 6.4).
+    Pair score 6.4.'
   basis: reading
 - text: 'Only in Blessing of Noah, blood laws and the covenant of the bow: God requires the life of a
-    human even from an animal that kills; God sees the bow in the cloud and remembers his covenant (the
-    sign reminds the deity); God makes a covenant with humans and all living creatures; Eating animals
-    permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be shed, because
-    humans bear God''s image [divergence between the texts]; The same religion (din) was enjoined on Noah,
-    Abraham, Moses, Jesus and the Prophet: establish it and do not divide; The sign left after the flood:
-    the rainbow, or the ark [divergence between the texts]; Whoever sheds human blood, by man shall his
-    blood be shed, because humans bear God''s image; A sign in the sky commemorates the flood (bow, necklace);
-    The sign the flood leaves for later generations [divergence between the texts]; Hero blessed on leaving
-    the vessel; Humans given rule over animals; and 3 more.'
+    human even from an animal that kills; God makes a covenant with humans and all living creatures; Eating
+    animals permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be
+    shed, because humans bear God''s image [divergence between the texts]; The same religion (din) was
+    enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish it and do not divide; The sign
+    left after the flood: the rainbow, or the ark [divergence between the texts]; Whoever sheds human
+    blood, by man shall his blood be shed, because humans bear God''s image; God sees the bow in the cloud
+    and remembers his covenant (the sign reminds the deity); The sign the flood leaves for later generations
+    [divergence between the texts]; Humans given rule over animals; A sign in the sky commemorates the
+    flood (bow, necklace); Eating blood is forbidden; and 3 more.'
   basis: reading
 - text: 'Only in Al-Taghabun: forms made beautiful, the Day of Mutual Loss, enemies among wives and children,
     and the goodly loan: The Day of Gathering is the Day of Mutual Dispossession / Loss and Gain (yawm
@@ -39,12 +39,11 @@ evidence:
     except by God''s leave; whoever believes, God guides his heart; Unbelievers rejected their messengers
     saying ''Shall mere humans guide us?''; God created you, and among you are unbelievers and believers;
     Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a man''s
-    enemies are his own household; Son dishonors father, daughter rises against mother, daughter-in-law
-    against mother-in-law; a man''s enemies are his own household [divergence between the texts]; God
-    shaped you and made your forms good (sawwarakum fa-ahsana suwarakum); The poor emigrants and the hosts
-    who prefer others over themselves even in need; whoever is saved from his own greed succeeds; The
-    Day of Gathering (yawm al-jam'') when all humanity is assembled; one party to the Garden, one to the
-    Blaze; Wealth and children are a trial (fitna); and 6 more.'
+    enemies are his own household [divergence between the texts]; God shaped you and made your forms good
+    (sawwarakum fa-ahsana suwarakum); Human beings as the creator''s images or as forms he fashioned [neutral]
+    [divergence between the texts]; The poor emigrants and the hosts who prefer others over themselves
+    even in need; whoever is saved from his own greed succeeds; A man''s own child is his enemy; One''s
+    wife or child can be one''s worst affliction or enemy; and 10 more.'
   basis: reading
 - text: 'Blessing of Noah, blood laws and the covenant of the bow: tagged by Claude (model), reading the
     Hebrew.'

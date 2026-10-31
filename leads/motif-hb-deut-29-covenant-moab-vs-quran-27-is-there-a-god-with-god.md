@@ -20,29 +20,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The secret things belong to God; the revealed things to us and our
-    children (weight 6.0). Pair score 6.0.'
+    children (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Covenant at Moab; the secret apostate; the land like Sodom: All ranks stand before God,
     from the hewer of wood to the drawer of water; A root bearing poison and wormwood among you (secret
-    apostate); Covenant made with those present and with those not here today; Covenant made with those
-    present and with those not here today [divergence between the texts]; God has not given the people
-    a heart to know, eyes to see, ears to hear until today; God allotted the heavenly bodies (or gods)
-    to the other nations; Nations ask why God did this to the land and are answered: they forsook the
-    covenant; Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts]; Man who hears the curse but blesses himself in his heart: ''I shall have peace'';
-    In forty years of wandering the people lacked nothing (clothes did not wear out, feet did not swell);
-    Clothes did not wear out and feet did not swell for forty years; Land made brimstone and salt like
-    Sodom, Gomorrah, Admah and Zeboiim; and 2 more.'
+    apostate); Covenant made with those present and with those not here today [divergence between the
+    texts]; God has not given the people a heart to know, eyes to see, ears to hear until today; God allotted
+    the heavenly bodies (or gods) to the other nations; Nations ask why God did this to the land and are
+    answered: they forsook the covenant; Who was present at the revelation on the mountain, and who knows
+    it only by report [divergence between the texts]; Man who hears the curse but blesses himself in his
+    heart: ''I shall have peace''; Covenant made with those present and with those not here today; Land
+    made brimstone and salt like Sodom, Gomorrah, Admah and Zeboiim; In forty years of wandering the people
+    lacked nothing (clothes did not wear out, feet did not swell); Clothes did not wear out and feet did
+    not swell for forty years; and 2 more.'
   basis: reading
 - text: 'Only in The litany ''Is there a god with God?'' and the unseen: As God began the first creation
     he will repeat it; God answers the distressed when he calls and removes the evil; God knows the secret
     and what is even more hidden; God records the peoples in a register, noting where each was born; Litany
-    of signs each ending ''Is there a god with God?''; God sends rain on the desert where no human lives,
-    to make grass sprout; God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and
-    partition between them; The world set upon pillars belonging to God; God set firm mountains on the
-    earth lest it sway with people; The listeners walk among the dwellings of generations God destroyed,
-    a sign; God sends the winds as heralds before his mercy and sends down pure water from the sky; Unbelievers
-    dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal; and 2 more.'
+    of signs each ending ''Is there a god with God?''; Rhetorical question: who besides (among the gods)
+    can remove the sickness / the harm? None can; God sends rain on the desert where no human lives, to
+    make grass sprout; The wind carries good tidings (Akkadian busrātu, Arabic bushrā); God let loose
+    the two seas, one sweet, one salt, with a barrier (barzakh) and partition between them; The world
+    set upon pillars belonging to God; God set firm mountains on the earth lest it sway with people; The
+    listeners walk among the dwellings of generations God destroyed, a sign; and 4 more.'
   basis: reading
 - text: 'Covenant at Moab; the secret apostate; the land like Sodom: tagged by Claude (model), reading
     the Hebrew.'

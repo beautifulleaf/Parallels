@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
-    5.0). Pair score 5.0.'
+    5.9). Pair score 5.9.'
   basis: reading
 - text: 'Only in Korah, Dathan and Abiram rebel; the earth swallows them: Rival claimants offer incense
     in fire-pans so God may choose the holy one; Rebels claim all the people are holy and challenge the
@@ -29,9 +29,10 @@ evidence:
     as ''God of the spirits of all flesh''; Bystanders of a divine punishment fear it could have struck
     them too; Your companion has not erred; he does not speak from desire; it is only revelation revealed;
     Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?'';
-    What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; Intercessor
-    asks: shall one man sin and you rage at the whole community?; A people is destroyed by an earthquake/tremor
-    (al-rajfa); Leader protests he never took so much as a donkey from anyone; and 2 more.'
+    What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; A people is
+    destroyed by an earthquake/tremor (al-rajfa); Leader protests he never took so much as a donkey from
+    anyone; Where Haman and Korah belong in the story of God''s people [divergence between the texts];
+    and 2 more.'
   basis: reading
 - text: 'Only in Iblis''s threat to bridle Adam''s offspring; sea peril; the honored children of Adam
     (Surah 17:61-72): Whoever is blind in this world will be blind in the hereafter and further astray;
@@ -43,10 +44,9 @@ evidence:
     otherwise, people call on God alone, then return to polytheism once rescued [contrast between the
     texts]; In distress, at sea or otherwise, people call on God alone, then return to polytheism once
     rescued [divergence between the texts]; God honored the children of Adam, carried them on land and
-    sea and preferred them above much of creation; The expelled devil vows to lie in wait on the straight
-    path and mislead humanity; The devil argues he is better than man because he was made of fire and
-    man of clay; Satan has no authority over God''s sincere servants, only over those who follow him;
-    and 4 more.'
+    sea and preferred them above much of creation; Man is clay (and straw) shaped by God, said where a
+    human is scorned; The expelled devil vows to lie in wait on the straight path and mislead humanity;
+    The devil argues he is better than man because he was made of fire and man of clay; and 5 more.'
   basis: reading
 - text: 'Korah, Dathan and Abiram rebel; the earth swallows them: tagged by Claude (model), reading the
     Hebrew.'

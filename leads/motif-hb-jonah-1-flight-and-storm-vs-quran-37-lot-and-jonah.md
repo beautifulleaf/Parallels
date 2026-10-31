@@ -12,17 +12,17 @@ traditions:
 layers:
 - motif
 motifs:
-- lots-cast-to-find-culprit-of-storm
-- jonahs-flight-by-ship-as-divergence
 - lots-cast-to-find-culprit-of-storm-as-divergence
+- jonahs-flight-by-ship-as-divergence
+- lots-cast-to-find-culprit-of-storm
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sailors cast lots to learn on whose account the disaster has come,
-    and the lot falls on the prophet (weight 6.7); Jonah flees by ship [divergence between the texts]
-    (weight 6.7); Sailors cast lots to learn on whose account the disaster has come, and the lot falls
-    on the prophet [divergence between the texts] (weight 6.7). Pair score 20.1.'
+    and the lot falls on the prophet [divergence between the texts] (weight 7.7); Jonah flees by ship
+    [divergence between the texts] (weight 7.7); Sailors cast lots to learn on whose account the disaster
+    has come, and the lot falls on the prophet (weight 7.7). Pair score 23.2.'
   basis: reading
 - text: 'Only in Jonah flees to Tarshish and is thrown into the sea: The ship''s captain wakes the sleeper
     and urges him to call on his god that they may not perish; Sailors throw the cargo overboard to lighten
@@ -40,13 +40,13 @@ evidence:
     while he is sick; Jonah ran away (abaqa, as a runaway slave) to the laden ship; Had Jonah not been
     among those who glorify God he would have stayed in the fish''s belly until the Day of Resurrection;
     Jonah is sent to a hundred thousand or more; they believe and are granted enjoyment for a while; The
-    hearers pass by the ruins of Lot''s people morning and night; Nineveh has more than 120,000 people
-    who do not know their right hand from their left; The fate of Lot''s wife [divergence between the
-    texts]; The city to which Jonah is sent believes and is spared [divergence between the texts]; God
-    makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet; God makes a plant (qiqayon,
-    gourd or castor) grow overnight to shade the prophet [divergence between the texts]; Jonah''s people
-    is the one town whose belief benefited it, lifting the punishment; God appoints a great fish to swallow
-    the prophet; and 5 more.'
+    hearers pass by the ruins of Lot''s people morning and night; A man cast up on land from the sea lies
+    under a tree [neutral]; Nineveh has more than 120,000 people who do not know their right hand from
+    their left; Divination or lots decide against a particular man at a ship''s sailing [divergence between
+    the texts]; The fate of Lot''s wife [divergence between the texts]; The city to which Jonah is sent
+    believes and is spared [divergence between the texts]; God makes a plant (qiqayon, gourd or castor)
+    grow overnight to shade the prophet; God makes a plant (qiqayon, gourd or castor) grow overnight to
+    shade the prophet [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Jonah flees to Tarshish and is thrown into the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

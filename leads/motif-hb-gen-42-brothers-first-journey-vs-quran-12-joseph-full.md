@@ -13,36 +13,36 @@ traditions:
 layers:
 - motif
 motifs:
-- spy-accusation-as-divergence
-- money-returned-in-sacks-as-divergence
 - father-reluctant-youngest-as-divergence
+- money-returned-in-sacks-as-divergence
+- spy-accusation-as-divergence
 - one-brother-left-in-egypt-as-divergence
-- one-brother-left-in-egypt
 - brothers-come-unrecognizing
 - money-returned-in-sacks
 - demand-youngest-brother
-- parents-honored-dream-fulfilled
+- one-brother-left-in-egypt
 - pledge-to-father
+- parents-honored-dream-fulfilled
 - father-reluctant-youngest
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero accuses his brothers of being spies [divergence between the
-    texts] (weight 6.7); Their payment is secretly returned in their bags [divergence between the texts]
-    (weight 6.7); Father refuses at first to send the youngest [divergence between the texts] (weight
-    6.7); One brother stays behind in Egypt [divergence between the texts] (weight 6.7); One brother stays
-    behind in Egypt (weight 6.0); Brothers come for grain and do not recognize the hero (weight 6.0);
-    Their payment is secretly returned in their bags (weight 6.0); Hero demands they bring their youngest
-    brother (weight 6.0); Family prostrates before the hero, fulfilling the dream (weight 5.8); A brother
-    or the brothers give the father a pledge for the youngest (weight 5.8); Father refuses at first to
-    send the youngest (weight 5.6). Pair score 67.9.'
+- text: 'Shared motifs, rarest first: Father refuses at first to send the youngest [divergence between
+    the texts] (weight 7.7); Their payment is secretly returned in their bags [divergence between the
+    texts] (weight 7.7); Hero accuses his brothers of being spies [divergence between the texts] (weight
+    7.7); One brother stays behind in Egypt [divergence between the texts] (weight 7.7); Brothers come
+    for grain and do not recognize the hero (weight 7.1); Their payment is secretly returned in their
+    bags (weight 7.1); Hero demands they bring their youngest brother (weight 7.1); One brother stays
+    behind in Egypt (weight 7.1); A brother or the brothers give the father a pledge for the youngest
+    (weight 6.8); Family prostrates before the hero, fulfilling the dream (weight 6.8); Father refuses
+    at first to send the youngest (weight 6.6). Pair score 79.5.'
   basis: reading
 - text: 'Only in The brothers'' first journey to Egypt: Hero speaks through an interpreter so the others
-    do not know he understands them; Hero swears ''by the life of Pharaoh''; Brothers held in custody
-    for three days; Brothers confess their old crime in front of the victim without knowing he hears them;
-    Hero turns aside or withdraws to weep unseen before his brothers; Hero accuses his brothers of being
-    spies; Father says losing his son will bring his grey hairs down to Sheol in sorrow; Famine forces
+    do not know he understands them; Brothers held in custody for three days; Brothers confess their old
+    crime in front of the victim without knowing he hears them; Hero swears ''by the life of Pharaoh'';
+    Hero accuses his brothers of being spies; Father says losing his son will bring his grey hairs down
+    to Sheol in sorrow; Hero turns aside or withdraws to weep unseen before his brothers; Famine forces
     the family to go down to Egypt.'
   basis: reading
 - text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
@@ -55,7 +55,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 98 more.'
+    brings back the missing royal cup, with a guarantor; and 136 more.'
   basis: reading
 - text: 'The brothers'' first journey to Egypt: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -232,29 +232,6 @@ matches:
       text: فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
     note: '''a brother of yours from your father'''
 - kind: shared
-  label: Family prostrates before the hero, fulfilling the dream
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 42:6
-      lang: he
-      text: וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙
-        אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ ל֥וֹ אַפַּ֖יִם אָֽרְצָה
-    - ref: Gen 42:9
-      lang: he
-      text: וַיִּזְכֹּ֣ר יוֹסֵ֔ף אֵ֚ת הַחֲלֹמ֔וֹת אֲשֶׁ֥ר חָלַ֖ם לָהֶ֑ם וַיֹּ֤אמֶר אֲלֵהֶם֙ מְרַגְּלִ֣ים
-        אַתֶּ֔ם לִרְא֛וֹת אֶת עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶֽם
-    note: brothers bow face to the ground; Joseph remembers the dreams
-  - tradition: islam
-    passages:
-    - ref: Quran 12:100
-      lang: ar
-      text: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ
-        رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
-        وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ
-        إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
-    note: raised on the throne; they fall prostrate
-- kind: shared
   label: A brother or the brothers give the father a pledge for the youngest
   sides:
   - tradition: judaism
@@ -277,6 +254,29 @@ matches:
         فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ
         ٱلْحَٰكِمِينَ
     note: a covenant by God (mawthiq)
+- kind: shared
+  label: Family prostrates before the hero, fulfilling the dream
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 42:6
+      lang: he
+      text: וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙
+        אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ ל֥וֹ אַפַּ֖יִם אָֽרְצָה
+    - ref: Gen 42:9
+      lang: he
+      text: וַיִּזְכֹּ֣ר יוֹסֵ֔ף אֵ֚ת הַחֲלֹמ֔וֹת אֲשֶׁ֥ר חָלַ֖ם לָהֶ֑ם וַיֹּ֤אמֶר אֲלֵהֶם֙ מְרַגְּלִ֣ים
+        אַתֶּ֔ם לִרְא֛וֹת אֶת עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶֽם
+    note: brothers bow face to the ground; Joseph remembers the dreams
+  - tradition: islam
+    passages:
+    - ref: Quran 12:100
+      lang: ar
+      text: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ
+        رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
+        وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ
+        إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+    note: raised on the throne; they fall prostrate
 ---
 
 ## Questions

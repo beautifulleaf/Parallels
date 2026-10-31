@@ -14,18 +14,18 @@ layers:
 - motif
 motifs:
 - pharaoh-deceives-again
-- hardening-of-pharaohs-heart-as-divergence
 - king-asks-prophet-to-pray
+- hardening-of-pharaohs-heart-as-divergence
 - hardening-of-pharaohs-heart
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
-    is lifted (weight 5.8); The king''s heart is hardened (by himself or by God) so he refuses to release
-    the people [divergence between the texts] (weight 5.6); King asks the prophet to intercede with God
-    to remove a plague (weight 5.6); The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people (weight 4.6). Pair score 21.6.'
+    is lifted (weight 6.8); King asks the prophet to intercede with God to remove a plague (weight 6.6);
+    The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
+    between the texts] (weight 6.6); The king''s heart is hardened (by himself or by God) so he refuses
+    to release the people (weight 5.7). Pair score 25.8.'
   basis: reading
 - text: 'Only in Plagues 4-6: swarms, pestilence of livestock, boils: Soot from a kiln thrown skyward
     becomes boils on men and beasts; Pestilence kills the oppressors'' livestock while sparing the oppressed''s;
@@ -43,11 +43,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 21 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 31 more.'
   basis: reading
 - text: 'Plagues 4-6: swarms, pestilence of livestock, boils: tagged by Claude (model), reading the Hebrew.'
   basis: reading

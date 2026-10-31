@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1). Pair score
-    5.1.'
+- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 6.1). Pair score
+    6.1.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and

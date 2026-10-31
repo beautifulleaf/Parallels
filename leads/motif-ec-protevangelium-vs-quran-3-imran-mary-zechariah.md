@@ -19,9 +19,9 @@ motifs:
 - child-raised-in-sanctuary
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Child miraculously fed in the sanctuary (weight 6.3); Lots, rods
-    or reeds decide who will be the child''s guardian (weight 6.0); Mother vows her (unborn) child to
-    God''s service (weight 5.8); Child raised in the sanctuary or temple (weight 5.4). Pair score 23.5.'
+- text: 'Shared motifs, rarest first: Child miraculously fed in the sanctuary (weight 7.3); Lots, rods
+    or reeds decide who will be the child''s guardian (weight 7.1); Mother vows her (unborn) child to
+    God''s service (weight 6.8); Child raised in the sanctuary or temple (weight 6.5). Pair score 27.7.'
   basis: reading
 - text: 'Protevangelium of James: tagged by Claude (model), from secondary knowledge.'
   basis: scholarship

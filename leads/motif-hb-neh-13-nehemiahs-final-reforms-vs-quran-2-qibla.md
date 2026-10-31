@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader prays ''remember me, my God, for good'' for his deeds (weight
-    6.3). Pair score 6.3.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites'' portions,
     Sabbath and mixed marriages: The Persian king is called ''king of Babylon''; Temple chambers defiled
@@ -38,9 +38,10 @@ evidence:
     a witness over them; God sees the prophet turning his face toward heaven and grants him a qibla he
     is pleased with; To each a direction he faces: so race toward good deeds; Abraham and Ishmael pray
     that a messenger be raised from among their offspring; The People of the Book recognize the truth
-    as they recognize their own sons; The direction faced in prayer [divergence between the texts]; Prayers
-    made toward the temple (or toward the land, city and house when in exile) are heard in heaven; Who
-    bears witness to God''s oneness [divergence between the texts].'
+    as they recognize their own sons; Simile: to recognise someone as father and mother recognise their
+    sons; The direction faced in prayer [divergence between the texts]; Prayers made toward the temple
+    (or toward the land, city and house when in exile) are heard in heaven; Who bears witness to God''s
+    oneness [divergence between the texts].'
   basis: reading
 - text: 'Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites'' portions, Sabbath
     and mixed marriages: tagged by Claude (model), reading the Hebrew.'

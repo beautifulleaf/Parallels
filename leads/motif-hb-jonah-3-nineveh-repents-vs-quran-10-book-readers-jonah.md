@@ -13,24 +13,24 @@ traditions:
 layers:
 - motif
 motifs:
-- whole-city-repents-at-warning
 - jonahs-city-believes-and-is-spared
+- whole-city-repents-at-warning
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A whole foreign city believes the prophet''s warning, proclaims
-    a fast and puts on sackcloth from greatest to least (weight 6.7); The city to which Jonah is sent
-    believes and is spared (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The city to which Jonah is sent believes and is spared (weight 7.7);
+    A whole foreign city believes the prophet''s warning, proclaims a fast and puts on sackcloth from
+    greatest to least (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Jonah preaches and Nineveh repents down to its animals: By royal decree even the cattle
     and flocks fast, drink no water and are covered in sackcloth; A prophet announces: ''Forty more days
-    and the city will be overturned''; The king rises from his throne, removes his robe, covers himself
-    with sackcloth and sits in ashes; Nineveh is an exceedingly great city of three days'' walk; Each
+    and the city will be overturned''; Nineveh is an exceedingly great city of three days'' walk; Each
     is to turn from his evil way and from the violence (hamas) in his hands; God sees the people''s repentance
     and does not carry out the announced destruction; ''Who knows? God may turn and relent'' as a ground
     for repentance; A period of forty days; The city to which Jonah is sent believes and is spared [divergence
-    between the texts]; The word of God comes to the prophet a second time with the same commission; Cities
+    between the texts]; The king rises from his throne, removes his robe, covers himself with sackcloth
+    and sits in ashes; The word of God comes to the prophet a second time with the same commission; Cities
     overturned (hafakh) and the plain destroyed; God relents from the evil he planned.'
   basis: reading
 - text: 'Only in Ask the readers of scripture; the people of Jonah: If in doubt, ask those who read the

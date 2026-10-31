@@ -18,8 +18,8 @@ motifs:
 - miraculous-spring
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: A palm tree provides food to the mother (weight 6.3); A spring or
-    stream appears for the mother (weight 5.6). Pair score 11.9.'
+- text: 'Shared motifs, rarest first: A palm tree provides food to the mother (weight 6.8); A spring or
+    stream appears for the mother (weight 6.6). Pair score 13.5.'
   basis: reading
 - text: 'Gospel of Pseudo-Matthew: tagged by Claude (model), from secondary knowledge.'
   basis: scholarship

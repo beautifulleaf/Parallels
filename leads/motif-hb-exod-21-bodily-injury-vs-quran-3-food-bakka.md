@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether one who takes refuge at the sanctuary is safe [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant Code - homicide, injury and the goring ox: An animal that kills a person is
     stoned and its flesh not eaten; Men fighting strike a pregnant woman and she miscarries; One who injures
@@ -28,8 +28,7 @@ evidence:
     Laws of the goring ox and the warned owner; A slave whose eye or tooth the master destroys goes free;
     Striking or cursing father or mother is a capital crime; The owner of an uncovered pit pays for an
     animal that falls in; A deliberate murderer is taken even from God''s altar; A place of refuge for
-    one who kills unintentionally; Five oxen for a stolen ox and four sheep for a stolen sheep; and 9
-    more.'
+    one who kills unintentionally; Kidnapping and selling a person is a capital crime; and 9 more.'
   basis: reading
 - text: 'Only in Israel''s self-imposed food law and the House at Bakka: The first House appointed for
     mankind was the one at Bakka, blessed; All food was lawful to the Children of Israel except what Israel

@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God punishes the enemy by the believers'' hands and heals the believers''
-    breasts (weight 6.7). Pair score 6.7.'
+    breasts (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in War against Midian and division of the spoils: Five named kings slain together; Captured
     gold jewelry offered to atone for the soldiers'' lives; Leader given a final task to complete before
     he is ''gathered to his people''; Commanders report that not one man of the army is missing; Priest
-    accompanies the army with holy vessels and trumpets; Metal spoils purified by passing through fire,
-    others through water; Warriors and captives purified outside camp seven days after battle; Army of
-    a thousand from each tribe (12,000); How the people of Midian came to be destroyed [divergence between
-    the texts]; How spoil taken from the enemy is distributed [divergence between the texts]; God commands
-    war of vengeance against a people; Foreign seer blamed for advising the seduction that led to apostasy;
+    accompanies the army with holy vessels and trumpets; Warriors and captives purified outside camp seven
+    days after battle; Army of a thousand from each tribe (12,000); How the people of Midian came to be
+    destroyed [divergence between the texts]; How spoil taken from the enemy is distributed [divergence
+    between the texts]; God commands war of vengeance against a people; Metal spoils purified by passing
+    through fire, others through water; Foreign seer blamed for advising the seduction that led to apostasy;
     and 6 more.'
   basis: reading
 - text: 'Only in The disavowal - treaties, sacred months and asylum: A polytheist who seeks protection
@@ -39,9 +39,9 @@ evidence:
     the Merciful, the Compassionate''; Four of the twelve months are sacred; Treaties with those who kept
     them are honored until their term; Protection for someone who seeks refuge [divergence between the
     texts]; Treaties with idolatrous peoples [contrast between the texts]; War on the idolatrous inhabitants:
-    total destruction or a way out [contrast between the texts]; Most of the peoples were found without
-    fidelity to their covenant; Unbelievers plot to confine, kill or expel the prophet, but God plots
-    too; and 1 more.'
+    total destruction or a way out [contrast between the texts]; An enemy bound by oath breaks it, again
+    and again, and scorns the religion or the gods'' words; Most of the peoples were found without fidelity
+    to their covenant; and 2 more.'
   basis: reading
 - text: 'War against Midian and division of the spoils: tagged by Claude (model), reading the Hebrew.'
   basis: reading

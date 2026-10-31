@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A thousand years in God''s sight are like yesterday when it passes,
-    or a watch in the night (weight 6.0). Pair score 6.0.'
+    or a watch in the night (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Psalm 90, prayer of Moses; a thousand years as yesterday: Before the mountains were born
     and the earth was brought forth in labor, God existed from everlasting; God turns mortals back to
     dust (dakka), saying ''Return, sons of Adam''; The span of human life is seventy years, or eighty
     with strength; A psalm is ascribed to Moses, ''the man of God''; Prayer ''Teach us to number our days
-    that we may gain a heart of wisdom''; Human life is short and fleeting (heled, a handbreadth, grass,
-    a sigh); Human comes from dust and returns to dust [divergence between the texts]; A thousand years
-    in God''s sight are like yesterday when it passes, or a watch in the night [divergence between the
-    texts]; The resurrected feel they had stayed only an hour of a day; Lament question ''How long, O
-    God?'' / ''Why have you rejected us forever?''; Humans are like grass that flourishes in the morning
-    and withers by evening; Human comes from dust and returns to dust.'
+    that we may gain a heart of wisdom''; Human comes from dust and returns to dust [divergence between
+    the texts]; A thousand years in God''s sight are like yesterday when it passes, or a watch in the
+    night [divergence between the texts]; The resurrected feel they had stayed only an hour of a day;
+    Humans are like grass that flourishes in the morning and withers by evening; Human life is short and
+    fleeting (heled, a handbreadth, grass, a sigh); Human comes from dust and returns to dust; Lament
+    question ''How long, O God?'' / ''Why have you rejected us forever?''.'
   basis: reading
 - text: 'Only in Rejected prophets, ruined towns, the thousand-year day and Satan''s insertion: Destroyed
     towns lie fallen on their roofs, with an abandoned well and a lofty palace; It is not the eyes that

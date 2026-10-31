@@ -18,31 +18,32 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Animals are in God''s care and are gathered before him (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: Animals are in God''s care and are gathered before him (weight 7.3).
+    Pair score 7.3.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 40 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 40 more.'
   basis: reading
 - text: 'Only in The Prophet consoled; a ladder to the sky; animals as communities: Every beast on earth
     and bird flying with its wings are communities (umam) like you, gathered to their Lord; The Prophet
     is consoled: messengers before him were denied and patient until help came; We have neglected nothing
     in the Book; God opened the gates of everything to them, and when they rejoiced he seized them suddenly;
     If you could seek a tunnel into the earth or a ladder into the sky to bring them a sign...; A ladder
-    (sullam / sullām) reaching from earth to heaven; The prophet disclaims having God''s treasuries, knowing
-    the unseen, or being an angel; The paired extremes of digging into the earth and climbing to the sky;
-    Had God willed he would have made all humanity a single community; None can change the words of God;
-    The unbelievers demand: ''Why does he not bring us a sign from his Lord?''; When harm touches people
-    they turn to God; when he gives them relief a party of them associates partners again; and 1 more.'
+    (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral] [divergence between the texts];
+    The prophet disclaims having God''s treasuries, knowing the unseen, or being an angel; The paired
+    extremes of digging into the earth and climbing to the sky; Had God willed he would have made all
+    humanity a single community; A ladder (sullam / sullām) reaching from earth to heaven; The sovereign''s
+    word cannot be turned back, cast aside, broken or changed; Animals, even those that cannot speak,
+    have their case judged or are gathered before the deity; and 4 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

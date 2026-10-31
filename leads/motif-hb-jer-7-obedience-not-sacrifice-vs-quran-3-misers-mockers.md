@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sent his servants the prophets ''rising early and sending''
-    (hashkem), but they did not listen (weight 5.8). Pair score 5.8.'
+    (hashkem), but they did not listen (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Obedience not sacrifice; the Topheth becomes the Valley of Slaughter: The bones of kings,
     priests, prophets and people will be taken from their graves and spread before the sun, moon and host
@@ -31,8 +31,8 @@ evidence:
     his mind; An idol (the carved Asherah) is placed in the temple where God put his name; The Topheth
     and Valley of Ben-hinnom will be renamed the Valley of Slaughter, where the dead are buried for lack
     of room; God will silence the sound of joy and gladness, the voice of the bridegroom and the voice
-    of the bride; The people''s corpses will be food for the birds of the sky and the beasts with no one
-    to frighten them away; People bow down to all the host of heaven; Nations burn their sons and daughters
+    of the bride; People bow down to all the host of heaven; The people''s corpses will be food for the
+    birds of the sky and the beasts with no one to frighten them away; Nations burn their sons and daughters
     in fire to their gods; and 1 more.'
   basis: reading
 - text: 'Only in Misers, those who called God poor, and the fire-consumed offering: God took the covenant
@@ -43,9 +43,10 @@ evidence:
     in sin; Whether God is in need and humans rich [contrast between the texts]; An offering consumed
     by fire as proof of the true God or messenger [response between the texts]; Fire from heaven falls
     and consumes the offering, wood, stones, dust and water; God will not leave believers as they are
-    until he separates the bad from the good; What man can live and not see death, or deliver his soul
-    from the hand of Sheol?; Every soul shall taste death; Fire comes out from before God and consumes
-    the offering on the altar; and 3 more.'
+    until he separates the bad from the good; Wrongdoers take the deity''s delay for indifference; the
+    delay is not a release; What man can live and not see death, or deliver his soul from the hand of
+    Sheol?; A writer reproaches his addressee: the oath I made you swear before the gods you have thrown
+    behind you; and 5 more.'
   basis: reading
 - text: 'Obedience not sacrifice; the Topheth becomes the Valley of Slaughter: tagged by Claude (model),
     reading the Hebrew.'

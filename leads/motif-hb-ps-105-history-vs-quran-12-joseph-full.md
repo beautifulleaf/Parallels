@@ -14,15 +14,15 @@ traditions:
 layers:
 - motif
 motifs:
-- family-migrates-to-egypt
 - hero-imprisoned
+- family-migrates-to-egypt
 - hero-sees-divine-plan
 - hero-appointed-over-storehouses
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The whole family moves to Egypt (weight 5.8); Hero thrown into prison
-    (weight 5.8); Hero declares that God turned the brothers'' deed to good (weight 5.6); Hero placed
-    over the land''s storehouses or the kingdom (weight 5.6). Pair score 22.7.'
+- text: 'Shared motifs, rarest first: Hero thrown into prison (weight 6.8); The whole family moves to
+    Egypt (weight 6.8); Hero declares that God turned the brothers'' deed to good (weight 6.6); Hero placed
+    over the land''s storehouses or the kingdom (weight 6.6). Pair score 27.0.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -46,7 +46,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 105 more.'
+    brings back the missing royal cup, with a guarantor; and 143 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'
@@ -55,7 +55,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: The whole family moves to Egypt
+finding: Hero thrown into prison
 kinds:
 - shared
 units:
@@ -66,6 +66,20 @@ units:
   title: Joseph and his brothers (Surah 12, full read)
   tradition: islam
 matches:
+- kind: shared
+  label: Hero thrown into prison
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:18
+      lang: he
+      text: עִנּ֣וּ בַכֶּ֣בֶל רגליו רַגְל֑וֹ בַּ֝רְזֶ֗ל בָּ֣אָה נַפְשֽׁוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 12:35
+      lang: ar
+      text: ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ
+    note: imprisoned despite the signs, 'for a time'
 - kind: shared
   label: The whole family moves to Egypt
   sides:
@@ -85,20 +99,6 @@ matches:
       text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن
         شَآءَ ٱللَّهُ ءَامِنِينَ
     note: '''from the desert (al-badw)'' (12:100)'
-- kind: shared
-  label: Hero thrown into prison
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 105:18
-      lang: he
-      text: עִנּ֣וּ בַכֶּ֣בֶל רגליו רַגְל֑וֹ בַּ֝רְזֶ֗ל בָּ֣אָה נַפְשֽׁוֹ
-  - tradition: islam
-    passages:
-    - ref: Quran 12:35
-      lang: ar
-      text: ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ
-    note: imprisoned despite the signs, 'for a time'
 - kind: shared
   label: Hero declares that God turned the brothers' deed to good
   sides:

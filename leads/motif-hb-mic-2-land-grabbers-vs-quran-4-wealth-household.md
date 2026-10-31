@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not consume one another''s wealth wrongfully (bil-bāṭil), only
-    by trade with mutual consent (weight 6.3); Prohibition of coveting the neighbor''s wife and property
-    (weight 5.8). Pair score 12.1.'
+    by trade with mutual consent (weight 7.3); Prohibition of coveting the neighbor''s wife and property
+    (weight 6.2). Pair score 13.6.'
   basis: reading
 - text: 'Only in Woe to those who seize fields; the breaker goes before the flock: The wicked devise evil
     on their beds and carry it out at morning light; The people tell the prophets: ''Do not preach (drip)
@@ -34,10 +34,12 @@ evidence:
     (or one another); In marital discord an arbiter is sent from his family and one from hers; If the
     major sins (kabāʾir) are avoided, God expiates lesser misdeeds; Men are maintainers (qawwāmūn) of
     women by God''s preference and their spending; A wife whose rebellion (nushūz) is feared is admonished,
-    left alone in bed, then struck; Those bound to you by oath-alliance receive their share; Prohibition
-    of coveting the neighbor''s wife and property [divergence between the texts]; The ground of a husband''s
-    authority over his wife [divergence between the texts]; Prohibitions of murder, adultery, theft and
-    false witness.'
+    left alone in bed, then struck; Those bound to you by oath-alliance receive their share; A partner
+    bound by contract or pact, not by blood, inherits a share; Prohibition of coveting the neighbor''s
+    wife and property [divergence between the texts]; The ground of a husband''s authority over his wife
+    [divergence between the texts]; How a man and woman who have become estranged are brought together
+    again [divergence between the texts]; Do not covet; each has his own share (in the division among
+    kin); Prohibitions of murder, adultery, theft and false witness.'
   basis: reading
 - text: 'Woe to those who seize fields; the breaker goes before the flock: tagged by Claude (model), reading
     the Hebrew.'

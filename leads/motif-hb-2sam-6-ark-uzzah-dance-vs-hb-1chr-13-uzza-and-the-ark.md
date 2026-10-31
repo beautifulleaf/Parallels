@@ -13,19 +13,19 @@ layers:
 - motif
 motifs:
 - ark-on-new-cart
-- touching-ark-death
 - ark-blesses-host-household
+- touching-ark-death
 - ark-brought-up-with-music
 - baalah-kiriath-jearim
 - enthroned-on-cherubim
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The ark is carried on a new cart drawn by oxen (weight 6.7); A man
-    who reaches out to steady the ark when the oxen stumble is struck dead (weight 6.7); The ark stays
-    three months in a foreigner''s house and God blesses his household (weight 6.7); The ark is brought
-    up in procession with singing, lyres, harps, drums, cymbals and trumpets (weight 6.3); Kiriath-jearim
-    also called Baalah or Kiriath-baal (weight 6.0); God addressed as enthroned (yoshev) on the cherubim
-    (weight 5.4). Pair score 37.8.'
+- text: 'Shared motifs, rarest first: The ark is carried on a new cart drawn by oxen (weight 7.7); The
+    ark stays three months in a foreigner''s house and God blesses his household (weight 7.7); A man who
+    reaches out to steady the ark when the oxen stumble is struck dead (weight 7.7); The ark is brought
+    up in procession with singing, lyres, harps, drums, cymbals and trumpets (weight 7.3); Kiriath-jearim
+    also called Baalah or Kiriath-baal (weight 7.1); God addressed as enthroned (yoshev) on the cherubim
+    (weight 6.5). Pair score 44.1.'
   basis: reading
 - text: 'Only in The ark brought to Jerusalem; Uzzah struck; David dances; Michal despises him: The ark
     is set in a tent the king pitched for it; The king blesses the people and gives each person bread
@@ -73,32 +73,6 @@ matches:
       text: וַיַּרְכִּ֜יבוּ אֶת אֲר֤וֹן הָאֱלֹהִים֙ עַל עֲגָלָ֣ה חֲדָשָׁ֔ה מִבֵּ֖ית אֲבִינָדָ֑ב וְעֻזָּ֣א
         וְאַחְי֔וֹ נֹהֲגִ֖ים בָּעֲגָלָֽה
 - kind: shared
-  label: A man who reaches out to steady the ark when the oxen stumble is struck dead
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Sam 6:6
-      lang: he
-      text: וַיָּבֹ֖אוּ עַד גֹּ֣רֶן נָכ֑וֹן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶל אֲר֤וֹן הָֽאֱלֹהִים֙ וַיֹּ֣אחֶז בּ֔וֹ
-        כִּ֥י שָׁמְט֖וּ הַבָּקָֽר
-    - ref: 2Sam 6:7
-      lang: he
-      text: וַיִּֽחַר אַ֤ף יְהוָה֙ בְּעֻזָּ֔ה וַיַּכֵּ֥הוּ שָׁ֛ם הָאֱלֹהִ֖ים עַל הַשַּׁ֑ל וַיָּ֣מָת שָׁ֔ם
-        עִ֖ם אֲר֥וֹן הָאֱלֹהִֽים
-    note: Uzzah steadies the ark when the oxen stumble at the threshing floor of Nacon; struck 'for the
-      error (shal)'
-  - tradition: judaism
-    passages:
-    - ref: 1Chr 13:9
-      lang: he
-      text: וַיָּבֹ֖אוּ עַד גֹּ֣רֶן כִּידֹ֑ן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶת יָד֗וֹ לֶאֱחֹז֙ אֶת הָ֣אָר֔וֹן כִּ֥י
-        שָֽׁמְט֖וּ הַבָּקָֽר
-    - ref: 1Chr 13:10
-      lang: he
-      text: וַיִּֽחַר אַ֤ף יְהוָה֙ בְּעֻזָּ֔א וַיַּכֵּ֕הוּ עַ֛ל אֲשֶׁר שָׁלַ֥ח יָד֖וֹ עַל הָאָר֑וֹן וַיָּ֥מָת
-        שָׁ֖ם לִפְנֵ֥י אֱלֹהִֽים
-    note: at the threshing floor of Chidon
-- kind: shared
   label: The ark stays three months in a foreigner's house and God blesses his household
   sides:
   - tradition: judaism
@@ -124,6 +98,32 @@ matches:
       text: וַיֵּשֶׁב֩ אֲר֨וֹן הָאֱלֹהִ֜ים עִם בֵּ֨ית עֹבֵ֥ד אֱדֹ֛ם בְּבֵית֖וֹ שְׁלֹשָׁ֣ה חֳדָשִׁ֑ים וַיְבָ֧רֶךְ
         יְהוָ֛ה אֶת בֵּ֥ית עֹבֵֽד אֱדֹ֖ם וְאֶת כָּל אֲשֶׁר לֽוֹ
     note: Obed-edom the Gittite
+- kind: shared
+  label: A man who reaches out to steady the ark when the oxen stumble is struck dead
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 6:6
+      lang: he
+      text: וַיָּבֹ֖אוּ עַד גֹּ֣רֶן נָכ֑וֹן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶל אֲר֤וֹן הָֽאֱלֹהִים֙ וַיֹּ֣אחֶז בּ֔וֹ
+        כִּ֥י שָׁמְט֖וּ הַבָּקָֽר
+    - ref: 2Sam 6:7
+      lang: he
+      text: וַיִּֽחַר אַ֤ף יְהוָה֙ בְּעֻזָּ֔ה וַיַּכֵּ֥הוּ שָׁ֛ם הָאֱלֹהִ֖ים עַל הַשַּׁ֑ל וַיָּ֣מָת שָׁ֔ם
+        עִ֖ם אֲר֥וֹן הָאֱלֹהִֽים
+    note: Uzzah steadies the ark when the oxen stumble at the threshing floor of Nacon; struck 'for the
+      error (shal)'
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 13:9
+      lang: he
+      text: וַיָּבֹ֖אוּ עַד גֹּ֣רֶן כִּידֹ֑ן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶת יָד֗וֹ לֶאֱחֹז֙ אֶת הָ֣אָר֔וֹן כִּ֥י
+        שָֽׁמְט֖וּ הַבָּקָֽר
+    - ref: 1Chr 13:10
+      lang: he
+      text: וַיִּֽחַר אַ֤ף יְהוָה֙ בְּעֻזָּ֔א וַיַּכֵּ֕הוּ עַ֛ל אֲשֶׁר שָׁלַ֥ח יָד֖וֹ עַל הָאָר֑וֹן וַיָּ֥מָת
+        שָׁ֖ם לִפְנֵ֥י אֱלֹהִֽים
+    note: at the threshing floor of Chidon
 - kind: shared
   label: The ark is brought up in procession with singing, lyres, harps, drums, cymbals and trumpets
   sides:

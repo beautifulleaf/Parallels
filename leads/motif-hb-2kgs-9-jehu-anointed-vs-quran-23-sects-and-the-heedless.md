@@ -18,14 +18,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
-    (weight 5.1). Pair score 5.1.'
+    (weight 6.1). Pair score 6.1.'
   basis: reading
 - text: 'Only in Jehu anointed king: Officers spread their garments under the new king on the steps, blow
     the shofar and proclaim ''Jehu is king!''; A young prophet anoints the army commander king in an inner
     room with a flask of oil, then opens the door and flees; The charge that a prophet is mad; Idolaters
     ask ''shall we abandon our gods for a mad poet?''; Prophet commissioned to anoint a foreign king,
-    a native king and his own prophetic successor; Dogs will eat the wicked queen by the wall (or plot)
-    of Jezreel; Prophet anoints a future king privately with oil from a flask; Every male cut off, idiom
+    a native king and his own prophetic successor; Prophet anoints a future king privately with oil from
+    a flask; Dogs will eat the wicked queen by the wall (or plot) of Jezreel; Every male cut off, idiom
     ''one who pisses against the wall'', ''bond and free''.'
   basis: reading
 - text: 'Only in One community split into sects; the heedless rich and the God-fearing: Nation pictured
@@ -33,11 +33,11 @@ evidence:
     (umma) but split its affair into sects; Whether a prophet takes payment for his message [contrast
     between the texts]; Were there gods besides God in heaven and earth, both would have been ruined;
     False prophets prophesy ''from their own heart'', following their own spirit, having seen nothing;
-    Speaker is troubled by the prosperity and ease of the wicked (theodicy); Refrain listing plagues (famine,
-    drought, blight, locust, pestilence, war, overthrow): ''yet you did not return to me''; God did not
-    send the prophets who promise peace; they prophesy a lying vision, divination and the deceit of their
-    heart; God burdens no soul beyond its capacity; The Prophet asks no wage for the message; God keeps
-    a book in which names are written and from which sinners are blotted.'
+    Refrain listing plagues (famine, drought, blight, locust, pestilence, war, overthrow): ''yet you did
+    not return to me''; God did not send the prophets who promise peace; they prophesy a lying vision,
+    divination and the deceit of their heart; God burdens no soul beyond its capacity; Speaker is troubled
+    by the prosperity and ease of the wicked (theodicy); The Prophet asks no wage for the message; God
+    keeps a book in which names are written and from which sinners are blotted.'
   basis: reading
 - text: 'Jehu anointed king: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -18,29 +18,28 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score
-    5.4.'
+- text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 6.5). Pair score
+    6.5.'
   basis: reading
 - text: 'Only in The Shema and the instruction to teach: When your son asks what the laws mean, recite
-    the exodus story; Swear only by God''s name; Teach the words to your children when sitting, walking,
-    lying down and rising; Words bound as a sign on the hand and between the eyes (phylacteries); Do not
-    put God to the test as at Massah; When you eat and are full, beware lest you forget God; Words written
-    on doorposts and gates (mezuzah); Israel will inherit cities, houses, cisterns, vineyards and olives
-    they did not build or plant; Love God with all your heart, soul and might; Those who remember God
-    standing, sitting and on their sides and reflect on creation; Promised land described as flowing with
-    milk and honey.'
+    the exodus story; Words bound as a sign on the hand and between the eyes (phylacteries); Do not put
+    God to the test as at Massah; Swear only by God''s name; When you eat and are full, beware lest you
+    forget God; Words written on doorposts and gates (mezuzah); Israel will inherit cities, houses, cisterns,
+    vineyards and olives they did not build or plant; Those who remember God standing, sitting and on
+    their sides and reflect on creation; Teach the words to your children when sitting, walking, lying
+    down and rising; Love God with all your heart, soul and might; Promised land described as flowing
+    with milk and honey.'
   basis: reading
 - text: 'Only in Patience, Safa and Marwa, signs of creation: On seeing the punishment, those followed
     disown their followers, who wish for a return to disown them in turn; Safa and Marwa are among God''s
     waymarks; circuit between them permitted on pilgrimage; Formula of the afflicted: ''To God we belong
-    and to him we return''; ''YHWH gave and YHWH has taken; blessed be the name of YHWH''; Those slain
-    in God''s way are not dead but alive, provided for with their Lord; God''s test by loss of goods,
-    lives and children [divergence between the texts]; Those who conceal the revealed signs are cursed
-    by God and by all who curse; God''s covenant with Israel is as sure as the fixed order of sun, moon,
-    stars and sea; Ships go to and fro on the great sea; Catalogue of signs: heavens and earth, alternation
-    of night and day, ships, rain reviving dead earth, beasts, winds, clouds; Declaration that YHWH is
-    God and there is no other besides him; Rain from the sky gives life to the earth after its death,
-    a sign of resurrection.'
+    and to him we return''; In affliction the person declares ''I belong to (the god)''; ''If only (the
+    enemy / the wrongdoers) knew or saw'' the god''s strength (formula); ''YHWH gave and YHWH has taken;
+    blessed be the name of YHWH''; God''s test by loss of goods, lives and children [divergence between
+    the texts]; Those who conceal the revealed signs are cursed by God and by all who curse; God''s covenant
+    with Israel is as sure as the fixed order of sun, moon, stars and sea; Those slain in God''s way are
+    not dead but alive, provided for with their Lord; The dead are declared ''not dead, but alive'' [neutral]
+    [divergence between the texts]; Ships go to and fro on the great sea; and 3 more.'
   basis: reading
 - text: 'The Shema and the instruction to teach: tagged by Claude (model), reading the Hebrew.'
   basis: reading

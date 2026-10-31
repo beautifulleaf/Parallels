@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham withdraws from his people and their gods and is given descendants
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The call of Abram and his journey through Canaan: God commands the hero to leave his
     land, kin and father''s house for a land he will be shown; Abraham and Lot are rescued to the land
@@ -36,11 +36,11 @@ evidence:
     son repeatedly and tenderly pleads with his idolatrous father (''O my father''); God grants the patriarchs
     a lofty ''tongue of truth'' (lasting renown); Worshipping idols is worshipping Satan, who rebelled
     against the Merciful; The idolatrous father threatens to stone his son and banishes him [contrast
-    between the texts]; Isaac given, and Jacob in addition as an extra gift (nāfila); Isaac given, and
-    Jacob in addition as an extra gift (nāfila) [divergence between the texts]; Refrain ''And mention
-    in the Book ...'' introducing a series of prophet portraits; Abraham prayed for his father''s forgiveness
-    only by a promise, and disowned him when he proved God''s enemy; Idols of wood and stone that cannot
-    see, hear, eat or smell; and 1 more.'
+    between the texts]; The good man''s name endures in the mouths of later people; Isaac given, and Jacob
+    in addition as an extra gift (nāfila); Having eyes that do not see and ears that do not hear, said
+    of idols or of people; Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between
+    the texts]; Refrain ''And mention in the Book ...'' introducing a series of prophet portraits; and
+    3 more.'
   basis: reading
 - text: 'The call of Abram and his journey through Canaan: tagged by Claude (model), reading the Hebrew.'
   basis: reading

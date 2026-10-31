@@ -19,16 +19,16 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
-    Pair score 4.7.'
+- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 5.3).
+    Pair score 5.3.'
   basis: reading
-- text: 'Only in Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: Do not muzzle the ox
-    while it threshes; Flogging limited to forty stripes so your brother is not degraded; Widow removes
-    the refusing brother-in-law''s sandal and spits in his face; Remember Amalek who attacked the stragglers;
-    blot out his memory; Woman who seizes a man''s genitals in a brawl has her hand cut off; How many
-    lashes a flogging may have [contrast between the texts]; What becomes of a dead man''s widow within
-    his family [contrast between the texts]; No two kinds of weights or measures; just weights for long
-    life; A man must marry his dead brother''s widow to raise seed for the brother.'
+- text: 'Only in Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: Flogging limited to
+    forty stripes so your brother is not degraded; Widow removes the refusing brother-in-law''s sandal
+    and spits in his face; Remember Amalek who attacked the stragglers; blot out his memory; Woman who
+    seizes a man''s genitals in a brawl has her hand cut off; Do not muzzle the ox while it threshes;
+    How many lashes a flogging may have [contrast between the texts]; What becomes of a dead man''s widow
+    within his family [contrast between the texts]; A man must marry his dead brother''s widow to raise
+    seed for the brother; No two kinds of weights or measures; just weights for long life.'
   basis: reading
 - text: 'Only in Shu''ayb - measures, the prayer that commands, the clan: The people mock: ''Does your
     prayer command you that we abandon our fathers'' gods or our way with our wealth?''; The prophet does

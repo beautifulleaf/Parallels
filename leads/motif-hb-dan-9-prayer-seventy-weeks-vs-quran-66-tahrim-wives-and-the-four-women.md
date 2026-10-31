@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angel Gabriel is named and sent to explain the vision (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Daniel''s penitential prayer and the seventy weeks: The angel arrives in swift flight
     at the time of the evening offering, while the seer is still praying; An anointed one (mashiah) is
@@ -47,7 +47,7 @@ evidence:
     secret to one of his wives; she divulged it, and God informed him; The wives of Noah and Lot, married
     to righteous servants, betrayed them and are told to enter the Fire; Father or husband may annul a
     woman''s vow on the day he hears it; A man''s vow or oath must be fulfilled as uttered [contrast between
-    the texts]; and 10 more.'
+    the texts]; and 13 more.'
   basis: reading
 - text: 'Daniel''s penitential prayer and the seventy weeks: tagged by Claude (model), reading the Hebrew.'
   basis: reading

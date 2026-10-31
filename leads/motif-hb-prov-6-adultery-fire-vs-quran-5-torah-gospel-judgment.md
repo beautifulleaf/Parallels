@@ -18,20 +18,20 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The Torah contains guidance and light (weight 6.3). Pair score 6.3.'
+- text: 'Shared motifs, rarest first: The Torah contains guidance and light (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Proverbs 6:20-35, commandment as lamp; adultery as fire in the bosom: ''The commandment
     is a lamp and the teaching (torah) is light; reproofs of discipline are the way of life''; Can a man
     carry fire in his bosom and his clothes not burn, or walk on coals and his feet not be scorched? So
-    is adultery; A prostitute costs a loaf of bread, but another man''s wife hunts the precious life;
-    The jealous husband shows no mercy on the day of vengeance and will accept no ransom (kofer) or bribe
-    for adultery; When you walk it will lead you, when you lie down it will watch over you, when you wake
-    it will talk with you; A starving thief is not despised, yet when caught he repays sevenfold, giving
-    all the wealth of his house; How far a child must obey father and mother [divergence between the texts];
-    Sexual relations with a neighbor''s wife are forbidden; ''Hear, my son, your father''s instruction
-    and do not forsake your mother''s teaching (torah)''; Bind the teachings around your neck (or fingers)
-    and write them on the tablet of your heart; Warning against the ''strange woman'' (ishah zarah / nokhriyyah)
-    with smooth words.'
+    is adultery; The jealous husband shows no mercy on the day of vengeance and will accept no ransom
+    (kofer) or bribe for adultery; When you walk it will lead you, when you lie down it will watch over
+    you, when you wake it will talk with you; A starving thief is not despised, yet when caught he repays
+    sevenfold, giving all the wealth of his house; How far a child must obey father and mother [divergence
+    between the texts]; A prostitute costs a loaf of bread, but another man''s wife hunts the precious
+    life; Bind the teachings around your neck (or fingers) and write them on the tablet of your heart;
+    Warning against the ''strange woman'' (ishah zarah / nokhriyyah) with smooth words; ''Hear, my son,
+    your father''s instruction and do not forsake your mother''s teaching (torah)''; Sexual relations
+    with a neighbor''s wife are forbidden.'
   basis: reading
 - text: 'Only in Judging by the Torah, the Gospel and the Quran; eye for eye: For each community God made
     a law (shirʿa) and a way; had he willed he would have made one nation; Do they seek the judgment of

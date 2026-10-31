@@ -19,31 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not obey every contemptible swearer, backbiter going about with
-    slander, hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble) (weight 6.7). Pair score
-    6.7.'
+    slander, hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble) (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates: The worthless
     man (adam beliyya''al) winks with his eyes, scrapes with his feet and points with his fingers, sowing
-    discord; Six things YHWH hates, seven an abomination: haughty eyes, lying tongue, hands shedding innocent
-    blood, scheming heart, feet running to evil, false witness, sower of discord; Warning against striking
-    hands as surety for a neighbor or stranger; free yourself without sleep like a gazelle from the hunter;
-    ''Go to the ant, sluggard'': without chief or ruler she stores food in summer and harvest; ''A little
-    sleep, a little slumber, a little folding of the hands'', and poverty comes like a vagabond, want
-    like an armed man; Graded numerical saying (''One thing God spoke, two things I heard''; ''three,
+    discord; Warning against striking hands as surety for a neighbor or stranger; free yourself without
+    sleep like a gazelle from the hunter; ''Go to the ant, sluggard'': without chief or ruler she stores
+    food in summer and harvest; ''A little sleep, a little slumber, a little folding of the hands'', and
+    poverty comes like a vagabond, want like an armed man; Six things YHWH hates, seven an abomination:
+    haughty eyes, lying tongue, hands shedding innocent blood, scheming heart, feet running to evil, false
+    witness, sower of discord; Graded numerical saying (''One thing God spoke, two things I heard''; ''three,
     yes four'').'
   basis: reading
 - text: 'Only in Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born
     man branded on the snout: God threatens: ''We shall brand him on the snout (khurtum)''; The deniers
     wish the prophet would compromise (tudhin) so they would compromise; The prophet is not mad; he has
-    an unfailing reward and is of a great moral character (khuluq ''azim); Mamzer excluded from the assembly
-    to the tenth generation; Oath ''Nun. By the pen and what they inscribe''; A mark (tav) is put on the
-    foreheads of those who sigh over the city''s abominations so the destroyers spare them; The prophet
-    is no soothsayer (kahin), no madman, no poet awaiting the accident of fate; God will put his hook
-    in the enemy king''s nose and his bit in his lips and lead him back; Defense of the prophet: there
-    is no madness (jinna) in your companion; he is only a warner; Do not go about as a talebearer among
-    your people; Unbelievers dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin) they
-    could equal; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g.
-    alif-lam-mim.'
+    an unfailing reward and is of a great moral character (khuluq ''azim); A string of abusive epithets
+    against an opponent, including a slur on his birth; Mamzer excluded from the assembly to the tenth
+    generation; Oath ''Nun. By the pen and what they inscribe''; The ruler is told not to listen to, or
+    obey, the slanderer; The man who goes about (comes and goes) with words, setting brothers / people
+    against each other; A go-between who carries slander between men; A mark (tav) is put on the foreheads
+    of those who sigh over the city''s abominations so the destroyers spare them; The prophet is no soothsayer
+    (kahin), no madman, no poet awaiting the accident of fate; God will put his hook in the enemy king''s
+    nose and his bit in his lips and lead him back; and 4 more.'
   basis: reading
 - text: 'Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates: tagged by Claude (model),
     reading the Hebrew.'

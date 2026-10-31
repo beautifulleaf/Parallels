@@ -21,34 +21,35 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: God raises a storm that lifts ships to the heavens and down to the
     deeps, then hushes it to a whisper and brings sailors to harbor [divergence between the texts] (weight
-    6.7); God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to
-    a whisper and brings sailors to harbor (weight 6.3). Pair score 13.0.'
+    7.7); God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to
+    a whisper and brings sailors to harbor (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): God
     shatters doors of bronze and cuts through bars of iron; Thanksgiving liturgy for four groups rescued
     by God: desert wanderers, prisoners, the sick, seafarers; God ''sent his word and healed them'', the
-    word acting as an agent; God turns rivers into desert and fruitful land into salt waste, and desert
-    into pools of water; Storm-tossed sailors reel and stagger like drunkards and all their skill is swallowed
-    up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction and iron; Refrain:
-    ''Let them thank YHWH for his steadfast love and his wonders to the sons of man''; In distress, at
-    sea or otherwise, people call on God alone, then return to polytheism once rescued [divergence between
-    the texts]; God''s control of the wind over ships at sea: raising a storm or stilling it [divergence
-    between the texts]; God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter
-    fruit, tamarisk and a few lote-trees; Seafarers cry to God in a storm; what they do once rescued [divergence
-    between the texts]; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved
-    [divergence between the texts]; and 7 more.'
+    word acting as an agent; Storm-tossed sailors reel and stagger like drunkards and all their skill
+    is swallowed up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction
+    and iron; Refrain: ''Let them thank YHWH for his steadfast love and his wonders to the sons of man'';
+    In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
+    [divergence between the texts]; God''s control of the wind over ships at sea: raising a storm or stilling
+    it [divergence between the texts]; God turns rivers into desert and fruitful land into salt waste,
+    and desert into pools of water; God sends the flood of al-''Arim (the dam) and turns the two gardens
+    into bitter fruit, tamarisk and a few lote-trees; Seafarers cry to God in a storm; what they do once
+    rescued [divergence between the texts]; Sailors in a storm call on God sincerely, vow thanks, and
+    transgress once saved [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Only in Prayer in distress, a changed Quran, the storm at sea: Deniers ask the prophet to bring
     a different Quran or change it; he may not alter it of himself; The prophet argues he had lived a
-    lifetime among them before receiving revelation; Humankind was originally one community, then they
-    differed; Man calls on God lying, sitting or standing in distress, then passes on as if he had never
-    prayed once relieved; All humanity once spoke one language; Humankind was originally one (in speech
-    or community) and then divided [divergence between the texts]; Sailors in a storm pray and vow to
-    God [divergence between the texts]; A later people (Ad, then Thamud) are made successors on the earth
-    after a destroyed people; God''s messengers (angels) write down what people plot and do; Sailors in
-    a storm call on God sincerely, vow thanks, and transgress once saved; Command not to add to or subtract
-    from the divine words; God''s plotting (makr / kayd) outwits the schemers; none is safe from it but
-    the losers; and 1 more.'
+    lifetime among them before receiving revelation; In peril on a boat, the one who calls on god is brought
+    safely to land [divergence between the texts]; Humankind was originally one community, then they differed;
+    Man calls on God lying, sitting or standing in distress, then passes on as if he had never prayed
+    once relieved; Humankind was originally one (in speech or community) and then divided [divergence
+    between the texts]; Sailors in a storm pray and vow to God [divergence between the texts]; Those surrounded
+    by the waves at sea are saved by the god they call on; what follows the rescue [divergence between
+    the texts]; A later people (Ad, then Thamud) are made successors on the earth after a destroyed people;
+    God''s messengers (angels) write down what people plot and do; Members of the deity''s court speak
+    for a petitioner before the deity [response between the texts]; All humanity once spoke one language;
+    and 4 more.'
   basis: reading
 - text: 'Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): tagged by Claude
     (model), reading the Hebrew.'

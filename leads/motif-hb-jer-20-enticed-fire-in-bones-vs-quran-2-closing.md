@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God tests the hearts and the kidneys (inner self) (weight 5.6).
-    Pair score 5.6.'
+- text: 'Shared motifs, rarest first: God tests the hearts and the kidneys (inner self) (weight 5.9).
+    Pair score 5.9.'
   basis: reading
 - text: 'Only in Fifth confession - you enticed me; fire shut up in my bones: The prophet complains ''You
     enticed (pittitani) me, YHWH, and I was enticed; you overpowered me and prevailed''; The prophet is
@@ -28,12 +28,14 @@ evidence:
     celebrated as a warrior (''YHWH is a man of war'').'
   basis: reading
 - text: 'Only in Closing confession and prayer: Prayer not to be laid with a burden (isr) like that laid
-    on those before us; Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot); Believers
-    make no distinction between any of the prophets (Abraham, Ishmael, Isaac, Jacob, the Tribes, Moses,
-    Jesus); ''The soul that sins, it shall die'': the son does not bear the father''s iniquity nor the
-    father the son''s; ''We are the clay and you are our potter; we are all the work of your hand''; Believers''
-    confession ''we hear and we obey'' (sami''na wa-ata''na); God burdens no soul beyond its capacity;
-    God alone knows the hearts of all humans.'
+    on those before us; Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot); Petition
+    not to be held for offences committed unknowingly, forgotten or by mistake; No one is to be burdened
+    with more than he is able to do [divergence between the texts]; Believers make no distinction between
+    any of the prophets (Abraham, Ishmael, Isaac, Jacob, the Tribes, Moses, Jesus); ''The soul that sins,
+    it shall die'': the son does not bear the father''s iniquity nor the father the son''s; ''We are the
+    clay and you are our potter; we are all the work of your hand''; Believers'' confession ''we hear
+    and we obey'' (sami''na wa-ata''na); God burdens no soul beyond its capacity; God alone knows the
+    hearts of all humans.'
   basis: reading
 - text: 'Fifth confession - you enticed me; fire shut up in my bones: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Ishmael is with Abraham or sent away [contrast between the
-    texts] (weight 6.7); Abraham prays that the town be made secure and its people provided with fruits
-    (weight 6.3). Pair score 13.0.'
+    texts] (weight 7.7); Abraham prays that the town be made secure and its people provided with fruits
+    (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Birth of Isaac and expulsion of Hagar and Ishmael: Mother lays her dying child under
     a bush and sits a bowshot away weeping; Slave-wife and her son expelled at the wife''s demand; The
@@ -42,7 +42,7 @@ evidence:
     revelation or covenant passed [divergence between the texts]; Whether and how God''s covenant with
     Abraham passes to his offspring [contrast between the texts]; The list of fathers in ''God of your
     fathers'' [divergence between the texts]; Dying Jacob addresses his sons [divergence between the texts];
-    A nation descended from Ishmael [divergence between the texts]; and 16 more.'
+    Whether one person''s guilt (a parent''s, another''s) comes upon someone else; and 17 more.'
   basis: reading
 - text: 'Birth of Isaac and expulsion of Hagar and Ishmael: tagged by Claude (model), reading the Hebrew.'
   basis: reading

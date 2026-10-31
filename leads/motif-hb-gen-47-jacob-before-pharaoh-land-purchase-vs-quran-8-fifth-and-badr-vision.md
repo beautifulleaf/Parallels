@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A fixed fifth owed, to the king or to God [divergence between the
-    texts] (weight 6.7). Pair score 6.7.'
+    texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jacob before Pharaoh; Joseph''s famine economics; deathbed oath: Dying patriarch bows
     down on (or over) the head of his bed (or staff); Patriarch tells a king his years have been few and
@@ -29,7 +29,7 @@ evidence:
     land is exempt because they receive a royal allotment; A fifth of the harvest is paid to the king
     as a perpetual statute; Hero buys the people''s land for the king during the famine; The family is
     settled apart in the land of Goshen; Oath sworn by placing the hand under the thigh of the one demanding
-    it; A precise long lifespan is recorded for a patriarch or ancestor (110-180 years); and 2 more.'
+    it; Famine forces the family to go down to Egypt; and 2 more.'
   basis: reading
 - text: 'Only in The fifth of the spoils, the dream of few, Satan''s desertion: The day the two hosts
     met is the ''day of the criterion'' (yawm al-furqan); God shows the prophet the enemy as few in a

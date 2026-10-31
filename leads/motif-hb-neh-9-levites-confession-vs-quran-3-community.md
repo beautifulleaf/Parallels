@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1). Pair score
-    5.1.'
+- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 6.1). Pair score
+    6.1.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -38,10 +38,11 @@ evidence:
     Spending of unbelievers is like an icy wind that destroys the tillage of a wrongdoing people; A community
     that enjoins the good and forbids the evil (al-amr bil-ma''ruf); Humiliation is stamped on them wherever
     found except under a rope from God and a rope from men; God will give his people one heart and one
-    way to fear him always; The wicked sees the righteous exalted, gnashes his teeth and melts away; On
-    the day some faces turn white and some turn black; Hypocrites profess faith before believers and tell
-    their own ''devils'' in private they were only mocking; Among the People of the Book an upright community
-    recites God''s signs through the night and prostrates; and 2 more.'
+    way to fear him always; The wicked sees the righteous exalted, gnashes his teeth and melts away; Hypocrites
+    profess faith before believers and tell their own ''devils'' in private they were only mocking; Among
+    the People of the Book an upright community recites God''s signs through the night and prostrates;
+    On the day of wrath people fling their silver into the streets; silver and gold cannot save them;
+    and 2 more.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

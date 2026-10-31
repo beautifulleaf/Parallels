@@ -19,13 +19,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Abraham parts from his father and his father''s land or gods
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Generations of Shem to Terah; Terah''s family leaves Ur: Lifespans decline generation
-    by generation after the flood; A son dies in his father''s lifetime and presence; Family migrates
-    from Ur of the Chaldeans to Harran on the way to Canaan; How Abraham parts from his father and his
-    father''s land or gods; Ten generations of long-lived patriarchs from the first man to the flood hero;
-    Who leads Abraham''s departure from his homeland, with Lot, and why [divergence between the texts];
+- text: 'Only in Generations of Shem to Terah; Terah''s family leaves Ur: A son dies in his father''s
+    lifetime and presence; Family migrates from Ur of the Chaldeans to Harran on the way to Canaan; How
+    Abraham parts from his father and his father''s land or gods; Who leads Abraham''s departure from
+    his homeland, with Lot, and why [divergence between the texts]; Ten generations of long-lived patriarchs
+    from the first man to the flood hero; Lifespans decline generation by generation after the flood;
     The patriarch''s wife is barren.'
   basis: reading
 - text: 'Only in Abraham disowns his father''s worship; the great man of the two towns; silver roofs;
@@ -33,14 +33,15 @@ evidence:
     two easts''; But for fear all would become one community, God would give unbelievers houses with silver
     roofs, stairways, doors, couches and gold ornament; Abraham declares to his father and people that
     he is free of what they worship, except the one who created him; The people are told to choose this
-    day whom they will serve; God expands provision (rizq) for whom he wills and restricts it; Lying on
-    ivory beds eating lambs and calves, improvising on the harp like David, drinking wine from bowls and
-    anointing with finest oils; What is given in this life is passing enjoyment (mata''); what is with
-    God is better and more lasting; Opponents ask why the revelation was not sent down to some great man
-    of the two towns; The wealth of the wicked: a scandal to be explained, or worthless enjoyment [divergence
-    between the texts]; Abraham''s confession is left as an enduring word among his descendants (''aqib);
-    Whoever turns from God''s remembrance is assigned a devil as constant companion (qarin), whom he curses
-    at the judgment; The prophet cannot make the dead or deaf hear, nor guide the blind; and 3 more.'
+    day whom they will serve; An evil spirit attached to a person is wished away to a vast, measured distance
+    [divergence between the texts]; God expands provision (rizq) for whom he wills and restricts it; A
+    dwelling built or roofed with silver and gold [divergence between the texts]; Lying on ivory beds
+    eating lambs and calves, improvising on the harp like David, drinking wine from bowls and anointing
+    with finest oils; What is given in this life is passing enjoyment (mata''); what is with God is better
+    and more lasting; Opponents ask why the revelation was not sent down to some great man of the two
+    towns; The wealth of the wicked: a scandal to be explained, or worthless enjoyment [divergence between
+    the texts]; Abraham''s confession is left as an enduring word among his descendants (''aqib); and
+    5 more.'
   basis: reading
 - text: 'Generations of Shem to Terah; Terah''s family leaves Ur: tagged by Claude (model), reading the
     Hebrew.'

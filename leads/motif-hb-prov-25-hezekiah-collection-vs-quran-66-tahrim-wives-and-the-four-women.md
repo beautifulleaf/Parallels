@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The talebearer (rakhil) goes about revealing secrets; the faithful
-    conceal a matter (weight 6.0). Pair score 6.0.'
+    conceal a matter (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies): A word fitly spoken
     is like apples of gold in settings of silver; A man without self-restraint is like a city broken into,
     without walls; Clouds and wind without rain is a man who boasts of a gift he does not give; If you
     find honey eat only enough, lest you be sated and vomit it; Like the cold of snow in harvest time
-    is a faithful messenger to those who send him; If your enemy is hungry give him bread and if thirsty
-    water, for you will heap coals of fire on his head and YHWH will reward you; It is the glory of God
-    to conceal a matter and the glory of kings to search it out; Like cold water to a weary soul is good
-    news from a far country; Proverbs of Solomon ''copied out'' (he''tiqu) by the men of Hezekiah king
-    of Judah; As heaven for height and earth for depth, so the heart of kings is unsearchable; The north
-    wind brings forth rain, and a backbiting tongue angry looks; A righteous man who gives way before
-    the wicked is like a muddied spring or polluted fountain; and 13 more.'
+    is a faithful messenger to those who send him; It is the glory of God to conceal a matter and the
+    glory of kings to search it out; Like cold water to a weary soul is good news from a far country;
+    Proverbs of Solomon ''copied out'' (he''tiqu) by the men of Hezekiah king of Judah; As heaven for
+    height and earth for depth, so the heart of kings is unsearchable; The north wind brings forth rain,
+    and a backbiting tongue angry looks; A righteous man who gives way before the wicked is like a muddied
+    spring or polluted fountain; Let your foot be seldom in your neighbor''s house, lest he grow weary
+    of you and hate you; and 13 more.'
   basis: reading
 - text: 'Only in Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives
     of Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran: If he divorced them, God might give
@@ -48,7 +48,7 @@ evidence:
     secret to one of his wives; she divulged it, and God informed him; The wives of Noah and Lot, married
     to righteous servants, betrayed them and are told to enter the Fire; Father or husband may annul a
     woman''s vow on the day he hears it; A man''s vow or oath must be fulfilled as uttered [contrast between
-    the texts]; and 10 more.'
+    the texts]; and 13 more.'
   basis: reading
 - text: 'Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies): tagged by Claude (model),
     reading the Hebrew.'

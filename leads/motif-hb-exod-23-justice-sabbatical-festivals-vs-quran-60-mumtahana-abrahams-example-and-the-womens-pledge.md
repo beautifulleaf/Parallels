@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not forbid kindness and justice toward those who did not
-    fight you over religion or expel you (weight 6.7). Pair score 6.7.'
+    fight you over religion or expel you (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant Code - justice, enemy''s animal, sabbatical year, festivals: Return your enemy''s
     stray animal and help his overloaded donkey; Neither favor nor pervert justice for the poor in his
     lawsuit; Whoever commits a sin and casts it on an innocent bears slander and manifest sin; Do not
     offer sacrificial blood with leavened bread; fat not left until morning; No one shall appear before
-    God empty-handed; Do not oppress the stranger, for you were strangers in Egypt; The land lies fallow
-    in the seventh year for the poor and wild animals; Do not invoke the names of other gods; Let not
-    hatred of a people move you to injustice; be just; Prohibition of boiling a kid in its mother''s milk;
-    Do not spread false reports or follow the majority to do wrong in court; How often and when pilgrimage
-    is made [divergence between the texts]; and 6 more.'
+    God empty-handed; The land lies fallow in the seventh year for the poor and wild animals; Do not invoke
+    the names of other gods; Let not hatred of a people move you to injustice; be just; Do not spread
+    false reports or follow the majority to do wrong in court; How often and when pilgrimage is made [divergence
+    between the texts]; Who must make pilgrimage to the sanctuary, and how often [divergence between the
+    texts]; Do not oppress the stranger, for you were strangers in Egypt; and 6 more.'
   basis: reading
 - text: 'Only in Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining
     emigrant women, and the women''s pledge: Abraham and those with him are an excellent example: they
@@ -44,8 +44,8 @@ evidence:
     slander, or disobey in what is right; Abraham declares to his father and people that he is free of
     what they worship, except the one who created him; Dissolving marriages with women outside the community
     [divergence between the texts]; Neither your blood-ties nor your children will benefit you on the
-    Day of Resurrection; Mightier towns than the one that drove the prophet out were destroyed; and 3
-    more.'
+    Day of Resurrection; The sovereign party of a bond requires the other to treat ''my enemy'' as an
+    enemy, not as a friend; and 10 more.'
   basis: reading
 - text: 'Covenant Code - justice, enemy''s animal, sabbatical year, festivals: tagged by Claude (model),
     reading the Hebrew.'

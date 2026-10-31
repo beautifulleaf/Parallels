@@ -13,27 +13,27 @@ traditions:
 layers:
 - motif
 motifs:
-- maker-of-pleiades-and-orion
 - god-as-lord-of-named-stars-as-divergence
+- maker-of-pleiades-and-orion
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God made the Pleiades and Orion (kimah and kesil), turns deep darkness
-    into morning, and pours the sea waters on the earth (weight 6.7); God as maker or lord of named stars
-    [divergence between the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: God as maker or lord of named stars [divergence between the texts]
+    (weight 7.7); God made the Pleiades and Orion (kimah and kesil), turns deep darkness into morning,
+    and pours the sea waters on the earth (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: Futility curse:
     you built houses of hewn stone but will not live in them, planted vineyards but will not drink their
     wine; The city that marched out a thousand will have a hundred left, and the hundred ten; Dirge: ''Fallen,
-    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; As if a man fled from
-    a lion and met a bear, entered the house, leaned on the wall and was bitten by a snake; ''I hate,
-    I despise your feasts''; God rejects offerings and the noise of their songs and harps; They hate the
-    one who reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like
-    waters and righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices
-    in the wilderness forty years?; Farmers and professional wailers are summoned to lamentation in every
-    street and vineyard; The prudent will keep silent in such a time, for it is an evil time; Israel carried
-    Sakkuth their king and Kaiwan their images, the star of their god; and 10 more.'
+    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; ''I hate, I despise
+    your feasts''; God rejects offerings and the noise of their songs and harps; They hate the one who
+    reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like waters and
+    righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices in the
+    wilderness forty years?; The prudent will keep silent in such a time, for it is an evil time; Israel
+    carried Sakkuth their king and Kaiwan their images, the star of their god; ''Seek me and live''; do
+    not seek Bethel, Gilgal or Beersheba; Woe to those who desire the Day of YHWH: it is darkness and
+    not light; and 10 more.'
   basis: reading
 - text: 'Only in Al-Lat, al-''Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses;
     the Lord of Sirius: The three goddesses al-Lat, al-''Uzza and Manat, ''the third, the other'', named
@@ -45,7 +45,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 14 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 18 more.'
   basis: reading
 - text: 'Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: tagged by Claude (model),
     reading the Hebrew.'

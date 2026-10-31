@@ -20,20 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ox knows its owner and the ass its master''s crib, but Israel does
-    not know (animals wiser than God''s people) (weight 6.7). Pair score 6.7.'
+    not know (animals wiser than God''s people) (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: City or
     people given a new name in the future age (e.g. ''City of Righteousness'', ''Hephzibah''); The faithful
     city has become a harlot; silver turned to dross, wine diluted with water; Worshippers shamed by the
-    sacred oaks (elim) and gardens they chose; God will smelt away the dross of his people as in a furnace
-    to purify them; Daughter Zion left alone like a booth in a vineyard, a hut in a cucumber field, a
-    besieged city; Nation pictured as a body beaten from sole of foot to head, with untended wounds and
-    sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey at the end; Israel likened
-    to a donkey that knows, or does not understand, what it has [divergence between the texts]; Prophet
-    addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; In Lot''s town only one house of
-    submitters (muslimin) was found, and the believers were brought out; Book or oracle opens with a heading
-    naming the prophet, his father and the kings in whose days he saw the vision; God''s people as sons
-    he reared who rebelled against him; and 12 more.'
+    sacred oaks (elim) and gardens they chose; Daughter Zion left alone like a booth in a vineyard, a
+    hut in a cucumber field, a besieged city; Nation pictured as a body beaten from sole of foot to head,
+    with untended wounds and sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey
+    at the end; Israel likened to a donkey that knows, or does not understand, what it has [divergence
+    between the texts]; Prophet addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; In
+    Lot''s town only one house of submitters (muslimin) was found, and the believers were brought out;
+    Book or oracle opens with a heading naming the prophet, his father and the kings in whose days he
+    saw the vision; God''s people as sons he reared who rebelled against him; Though sins be like scarlet
+    they shall be white as snow; though red as crimson, like wool; and 12 more.'
   basis: reading
 - text: 'Only in Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town: The
     ''People of the Rass'' (aṣḥāb al-rass, the well) named among destroyed peoples; Most unbelievers are
@@ -43,8 +43,8 @@ evidence:
     between the texts]; The town that was rained on with an evil rain (Lot''s) is passed by travelers;
     Aaron''s role beside Moses and how he is appointed [divergence between the texts]; Why God destroyed
     a generation or a people [divergence between the texts]; Whoever takes his own desire (hawā) as his
-    god; The people mock God''s messengers, despise his words and scoff at his prophets; All others perish;
-    and 2 more.'
+    god; The people mock God''s messengers, despise his words and scoff at his prophets; God rains sulfur
+    and fire from heaven on cities; and 2 more.'
   basis: reading
 - text: 'Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: tagged by Claude
     (model), reading the Hebrew.'

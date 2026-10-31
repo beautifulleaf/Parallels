@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: YHWH is near to all who call on him in truth (weight 6.3). Pair
-    score 6.3.'
+- text: 'Shared motifs, rarest first: YHWH is near to all who call on him in truth (weight 7.3). Pair
+    score 7.3.'
   basis: reading
 - text: 'Only in Exhortation at Horeb''s memory; no image; exile and return: No other nation has a god
     so near whenever they call on him; Keeping the law will make the nations call Israel wise; They forgot
@@ -36,10 +36,10 @@ evidence:
     only with hardship may ransom fast days by feeding a poor person (fidya); Spouses not approached while
     in retreat (i''tikaf) in the mosques; Marital relations permitted on fast nights; spouses are garments
     for one another; Ramadan, the month in which the Quran was sent down; The sick and the traveler may
-    make up missed fast days later; The wicked takes a bribe from the bosom to pervert the ways of justice;
-    Marital relations during a fast [contrast between the texts]; What the annual fast is tied to [divergence
-    between the texts]; Length, hours and exemptions of a prescribed fast [divergence between the texts];
-    ''These are the bounds (hudud) of God; do not approach (or transgress) them''; and 1 more.'
+    make up missed fast days later; A gift (bribe) from or to the powerful in court, to deprive another
+    of his right; Making the judge take a bribe to win a case [divergence between the texts]; Marital
+    relations during a fast [contrast between the texts]; The deity is near to the one who prays and hears
+    (answers) him; What the annual fast is tied to [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Exhortation at Horeb''s memory; no image; exile and return: tagged by Claude (model), reading
     the Hebrew.'

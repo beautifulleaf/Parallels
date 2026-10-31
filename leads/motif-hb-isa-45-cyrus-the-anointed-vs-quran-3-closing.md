@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: ''Our Lord, you have not created this in vain'' (weight 6.7). Pair
-    score 6.7.'
+- text: 'Shared motifs, rarest first: ''Our Lord, you have not created this in vain'' (weight 7.7). Pair
+    score 7.7.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls

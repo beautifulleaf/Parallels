@@ -19,21 +19,22 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The enemy''s horses are hamstrung and their chariots burned by divine
-    command (weight 6.0). Pair score 6.0.'
+    command (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in David''s conquests and list of officials: Captives laid on the ground and measured with
-    a cord to decide who is killed; The Euphrates as the limit of the king''s dominion; The king''s sons
-    serve as priests; Obscure term ''Metheg-ammah'' for what David took from the Philistines; A neighboring
-    king sends his son with precious vessels to congratulate the victor; The king does justice and righteousness
-    for all his people; A battle in the Valley of Salt; Shields of beaten gold made or captured and displayed;
-    List of the king''s chief officials: commander, recorder, priests, scribe, guard; The king dedicates
-    silver and gold from conquered nations to God; Subject peoples bring tribute (minhah) to the king.'
+    a cord to decide who is killed; The Euphrates as the limit of the king''s dominion; Obscure term ''Metheg-ammah''
+    for what David took from the Philistines; A neighboring king sends his son with precious vessels to
+    congratulate the victor; The king''s sons serve as priests; A battle in the Valley of Salt; Shields
+    of beaten gold made or captured and displayed; List of the king''s chief officials: commander, recorder,
+    priests, scribe, guard; The king dedicates silver and gold from conquered nations to God; Subject
+    peoples bring tribute (minhah) to the king; The king does justice and righteousness for all his people.'
   basis: reading
 - text: 'Only in Solomon''s steeds, the body on his throne, and the unmatched kingdom: God tested Solomon
     by placing a body (jasad) on his throne; then he repented; Devils serve Solomon as builders and divers,
     and others are bound together in fetters; Solomon asks for a kingdom such as no one after him should
     have; Fine steeds shown to Solomon in the evening distract him from remembrance of God until the sun
-    hides; he has them brought back and strokes (or slashes) their legs and necks; Solomon''s horses [divergence
+    hides; he has them brought back and strokes (or slashes) their legs and necks; No king after the speaker
+    will equal (or be given) what he has [divergence between the texts]; Solomon''s horses [divergence
     between the texts]; King keeps tens of thousands of chariot horses and horsemen; What Solomon asks
     of God and the gift none after him will match [divergence between the texts]; The stormy wind is subjected
     to Solomon, blowing at his command; Devils (shayāṭīn) and jinn labor for Solomon, diving and building;

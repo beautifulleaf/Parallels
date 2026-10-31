@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God repays each person according to his deeds (weight 6.0). Pair
-    score 6.0.'
+- text: 'Shared motifs, rarest first: God repays each person according to his deeds (weight 7.1). Pair
+    score 7.1.'
   basis: reading
 - text: 'Only in Psalm 62, for God alone my soul waits in silence: Humans are a breath (hevel); weighed
     on the scales they rise up, lighter than vapor; The soul waits in silence (dumiyyah) for God; silence
@@ -33,12 +33,12 @@ evidence:
     Transgressors abide in hell for ages (ahqaban); On the day the unbeliever says ''Would that I were
     dust!''; God commanded the skies and opened the doors (or windows) of heaven; God commanded the skies
     and opened the doors (or windows) of heaven [divergence between the texts]; Hell (or the Lord) lies
-    in wait (mirsad) as a watch-post for the transgressors; Paradise has full-breasted companions of equal
-    age (kawa''ib atrab); The righteous drink sealed pure wine (rahiq makhtum) whose seal is musk; God
-    created seven heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens) above humans;
-    The Spirit and the angels, or the angels with the coming Lord, stand rank upon rank (saffan saffa)
-    on judgment day; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur) within
-    the heavens; God has counted everything by number and recorded it in a book; and 10 more.'
+    in wait (mirsad) as a watch-post for the transgressors; Maidens whose breasts have risen (ready for
+    the embrace); Paradise has full-breasted companions of equal age (kawa''ib atrab); The righteous drink
+    sealed pure wine (rahiq makhtum) whose seal is musk; God created seven heavens in layers (sab'' samawat
+    tibaqan) or built seven strong (heavens) above humans; The Spirit and the angels, or the angels with
+    the coming Lord, stand rank upon rank (saffan saffa) on judgment day; The sun is made a lamp (siraj),
+    a blazing lamp, and the moon a light (nur) within the heavens; and 12 more.'
   basis: reading
 - text: 'Psalm 62, for God alone my soul waits in silence: tagged by Claude (model), reading the Hebrew.'
   basis: reading

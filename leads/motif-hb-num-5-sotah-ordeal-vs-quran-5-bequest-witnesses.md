@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An oath before God settles a suspicion that cannot be proven (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The suspected adulteress and the bitter water: Suspected wife''s offering is barley flour
     without oil or frankincense, a ''meal offering of jealousy''; Ordeal curse: the guilty woman''s belly

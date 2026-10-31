@@ -22,8 +22,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service [divergence between
-    the texts] (weight 6.7); Mother names her child with a speech explaining the name (weight 6.0); Mother
-    vows her (unborn) child to God''s service (weight 5.8). Pair score 18.5.'
+    the texts] (weight 7.7); Mother names her child with a speech explaining the name (weight 6.8); Mother
+    vows her (unborn) child to God''s service (weight 6.8). Pair score 21.4.'
   basis: reading
 - text: 'Only in Hannah''s vow and Samuel''s birth: Barren favored wife provoked by a fertile rival co-wife;
     Child brought to the sanctuary once weaned, with sacrifices; Child''s name explained as ''asked of
@@ -43,8 +43,8 @@ evidence:
     by gestures; Zechariah is made Mary''s guardian; Prophet promises a childless woman with an old husband
     a son ''at this season next year''; God chose Adam, Noah, the family of Abraham and the family of
     Imran over the worlds; Doubt voiced at the promise of a son in old age [divergence between the texts];
-    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; Muteness imposed as
-    a sign [divergence between the texts]; and 11 more.'
+    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; A mother commits her
+    child to her god''s keeping, against sin or against the evil one; and 14 more.'
   basis: reading
 - text: 'Hannah''s vow and Samuel''s birth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

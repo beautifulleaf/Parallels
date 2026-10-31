@@ -26,18 +26,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Father revives on hearing the hero lives [divergence between the
-    texts] (weight 6.7); Hero declares that God turned the brothers'' deed to good [divergence between
-    the texts] (weight 6.7); Hero reveals his identity to his brothers [divergence between the texts]
-    (weight 6.7); Hero forgives his brothers [divergence between the texts] (weight 6.3); Father revives
-    on hearing the hero lives (weight 6.0); Hero reveals his identity to his brothers (weight 6.0); Hero
-    declares that God turned the brothers'' deed to good (weight 5.6); Hero forgives his brothers (weight
-    5.6). Pair score 49.5.'
+    texts] (weight 7.7); Hero declares that God turned the brothers'' deed to good [divergence between
+    the texts] (weight 7.7); Hero reveals his identity to his brothers [divergence between the texts]
+    (weight 7.3); Hero forgives his brothers [divergence between the texts] (weight 7.3); Father revives
+    on hearing the hero lives (weight 7.1); Hero reveals his identity to his brothers (weight 6.8); Hero
+    declares that God turned the brothers'' deed to good (weight 6.6); Hero forgives his brothers (weight
+    6.5). Pair score 57.2.'
   basis: reading
 - text: 'Only in Joseph makes himself known; the wagons sent for Jacob: Hero warns his brothers not to
     quarrel on the journey home; Hero gives his brothers changes of clothing, with a larger gift to the
     favorite; Hero made ''father'' (chief adviser) to the king; Wagons sent from Egypt to carry the father
-    and families; Hero weeps so loudly that the Egyptians and the king''s house hear; Brothers or father
-    and son fall on each other''s necks and weep; The family is settled apart in the land of Goshen.'
+    and families; Hero weeps so loudly that the Egyptians and the king''s house hear; The family is settled
+    apart in the land of Goshen; Brothers or father and son fall on each other''s necks and weep.'
   basis: reading
 - text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
     town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
@@ -49,7 +49,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 101 more.'
+    brings back the missing royal cup, with a guarantor; and 139 more.'
   basis: reading
 - text: 'Joseph makes himself known; the wagons sent for Jacob: tagged by Claude (model), reading the
     Hebrew.'

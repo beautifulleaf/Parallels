@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s wives are to stay in their houses, not soften their
-    speech, and not display themselves as in the former Jahiliyya (weight 6.3). Pair score 6.3.'
+    speech, and not display themselves as in the former Jahiliyya (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Removal of stay and staff; children rule; the finery of the daughters of Zion; seven
     women and one man: Amulets, charms or ''houses of the soul'' (bottei ha-nefesh) worn as protection;

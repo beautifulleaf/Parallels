@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Later heirs of the scripture take worldly gain and say ''we will
-    be forgiven'' (weight 6.7). Pair score 6.7.'
+    be forgiven'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Cannibal rulers, hireling prophets and Zion plowed as a field: The corrupt leaders say
     ''Is not YHWH among us? No evil will come on us''; False seers will have night without vision; the

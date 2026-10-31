@@ -19,16 +19,17 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God tests the patriarch''s obedience (weight 6.3). Pair score 6.3.'
+- text: 'Shared motifs, rarest first: God tests the patriarch''s obedience (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in The binding of Isaac (Aqedah): The son to be sacrificed is called the only, beloved son;
-    Place of sacrifice named ''YHWH will see/provide'' on the mount of the LORD; Son asks his father where
-    the sacrificial lamb is; The son carries the wood for his own sacrifice; Three-day journey to the
-    mountain of sacrifice; An angel calls from heaven to stop the sacrifice at the last moment; Father
-    binds his son on the altar and lifts the knife; God commands a father to sacrifice his son; God commands
-    a father to sacrifice his son [divergence between the texts]; The father lays the son down for the
-    sacrifice [divergence between the texts]; Who the son to be sacrificed is and how he is named [divergence
-    between the texts]; A ram caught in a thicket is sacrificed in place of the son; and 10 more.'
+- text: 'Only in The binding of Isaac (Aqedah): Place of sacrifice named ''YHWH will see/provide'' on
+    the mount of the LORD; Son asks his father where the sacrificial lamb is; The son carries the wood
+    for his own sacrifice; Three-day journey to the mountain of sacrifice; An angel calls from heaven
+    to stop the sacrifice at the last moment; Father binds his son on the altar and lifts the knife; God
+    commands a father to sacrifice his son; God commands a father to sacrifice his son [divergence between
+    the texts]; The father lays the son down for the sacrifice [divergence between the texts]; Who the
+    son to be sacrificed is and how he is named [divergence between the texts]; The son to be sacrificed
+    is called the only, beloved son; A ram caught in a thicket is sacrificed in place of the son; and
+    10 more.'
   basis: reading
 - text: 'Only in Believers tested; parents and idolatry; the false offer to carry sins: Unbelievers offer
     to carry the believers'' sins if they follow their way; they cannot, and will carry their own loads

@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Objection raised against the newly chosen king [divergence between
-    the texts] (weight 6.7); The chosen king is taller than all the people from the shoulders up (weight
-    6.3). Pair score 13.0.'
+    the texts] (weight 7.7); The chosen king is taller than all the people from the shoulders up (weight
+    7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Saul anointed, prophesies, and is chosen by lot at Mizpah: The chosen king hides among
     the baggage and is found by oracle; King chosen by lot, narrowing from tribe to clan to man; Rules
     of the kingship written in a book and laid up before YHWH; Prophet foretells a series of chance encounters
     as signs confirming the anointing; Spirit transforms a man into ''another man'', giving him a new
     heart; Proverb ''Is Saul also among the prophets?''; Asking for a human king is a rejection of God''s
-    kingship; Prophet anoints a future king privately with oil from a flask; People acclaim ''Long live
-    the king!''; Band of prophets with harp, drum, flute and lyre prophesying in ecstasy; Spirit of God
+    kingship; Prophet anoints a future king privately with oil from a flask; Band of prophets with harp,
+    drum, flute and lyre prophesying in ecstasy; People acclaim ''Long live the king!''; Spirit of God
     rushes upon a man, giving him strength or ecstasy.'
   basis: reading
 - text: 'Only in Talut (Saul), the ark and Jalut (Goliath): The ark (tabut) returns, carried by angels,
@@ -39,9 +39,10 @@ evidence:
     object that the chosen king has no wealth and they have more right to kingship; Before battle the
     army is tested at a river: whoever drinks is not with the leader, except a handful scooped by hand;
     The ark of the covenant: a gold-plated acacia chest with rings and poles [divergence between the texts];
-    What the ark contains [contrast between the texts]; David kills the Philistine giant [divergence between
-    the texts]; A giant taunts Israel and is killed by a hero; A jar of manna preserved before the testimony
-    for future generations; and 9 more.'
+    A candidate for kingship is judged by his bodily size or strength (too small for the throne; given
+    increase of body) [divergence between the texts]; A claimant''s body is weighed as fitness for kingship
+    [divergence between the texts]; What the ark contains [contrast between the texts]; David kills the
+    Philistine giant [divergence between the texts]; and 16 more.'
   basis: reading
 - text: 'Saul anointed, prophesies, and is chosen by lot at Mizpah: tagged by Claude (model), reading
     the Hebrew.'

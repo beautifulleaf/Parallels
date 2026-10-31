@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Zihar: a husband declaring his wife ''like my mother''s back'';
-    she is not his mother, the saying is false and abhorrent (weight 6.3); List of forbidden close-kin
-    unions (''uncovering nakedness'') (weight 6.0). Pair score 12.3.'
+    she is not his mother, the saying is false and abhorrent (weight 7.3); List of forbidden close-kin
+    unions (''uncovering nakedness'') (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Forbidden sexual unions; the land vomits out its inhabitants: Sexual relations of a man
-    or a woman with an animal are forbidden; Marrying or lying with a brother''s wife is forbidden; Do
-    not follow the practices of Egypt where you lived or of Canaan where you are going; List of forbidden
-    close-kin unions (''uncovering nakedness'') [divergence between the texts]; The land, defiled by abominations,
-    vomits out its inhabitants; The person who does God''s statutes shall live by them; Lying with a male
-    as with a woman is forbidden; Whether a man may marry his son''s (or adopted son''s) wife [divergence
-    between the texts]; Marrying two sisters [divergence between the texts]; A man may not marry his wife''s
-    sister as a rival while the wife lives; Sexual relations with a neighbor''s wife are forbidden; Giving
-    one''s offspring to Molech is forbidden and punished; and 2 more.'
+    or a woman with an animal are forbidden; Do not follow the practices of Egypt where you lived or of
+    Canaan where you are going; List of forbidden close-kin unions (''uncovering nakedness'') [divergence
+    between the texts]; The land, defiled by abominations, vomits out its inhabitants; The person who
+    does God''s statutes shall live by them; Lying with a male as with a woman is forbidden; Whether a
+    man may marry his son''s (or adopted son''s) wife [divergence between the texts]; Marrying two sisters
+    [divergence between the texts]; A man may not marry his wife''s sister as a rival while the wife lives;
+    Marrying or lying with a brother''s wife is forbidden; Giving one''s offspring to Molech is forbidden
+    and punished; Intercourse with a menstruating woman is forbidden; and 2 more.'
   basis: reading
 - text: 'Only in Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth
     of three; the party of God: Before a private consultation with the prophet give charity (sadaqa);
@@ -45,7 +45,7 @@ evidence:
     poor; There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
     wherever they are; God is well pleased with them and they with him (radiya llahu ''anhum wa-radu ''anhu);
     Expiation in steps according to what one can afford [divergence between the texts]; God will put his
-    law within the people and write it on their hearts; and 9 more.'
+    law within the people and write it on their hearts; and 13 more.'
   basis: reading
 - text: 'Forbidden sexual unions; the land vomits out its inhabitants: tagged by Claude (model), reading
     the Hebrew.'

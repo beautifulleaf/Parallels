@@ -13,36 +13,38 @@ traditions:
 layers:
 - motif
 motifs:
-- ground-cursed-toil
 - ground-cursed-toil-as-divergence
+- ground-cursed-toil
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ground cursed; man must eat by sweat of his brow among thorns and
-    thistles (weight 6.7); Ground cursed; man must eat by sweat of his brow among thorns and thistles
-    [divergence between the texts] (weight 6.7). Pair score 13.4.'
+    thistles [divergence between the texts] (weight 7.7); Ground cursed; man must eat by sweat of his
+    brow among thorns and thistles (weight 7.3). Pair score 15.1.'
   basis: reading
-- text: 'Only in The serpent, the eating, the curses and the expulsion: Each accused shifts blame to another
-    (man to woman, woman to serpent); First woman named as mother of all living; God heard walking in
-    the garden in the breeze of the day; Humans gain divine knowledge and God fears they will also gain
-    immortality; Woman punished with pain in childbirth and subordination to husband; The woman eats first
-    and gives the fruit to her husband; Adam receives words from his Lord and God turns to him in forgiveness
-    [divergence between the texts]; Cherubim and a flaming turning sword guard the way to the tree of
-    life; Enmity decreed at the expulsion from the garden [divergence between the texts]; Eating opens
-    their eyes and they know they are naked [divergence between the texts]; How the first couple answer
-    God after eating: shifting the blame or confessing [divergence between the texts]; The first man''s
-    response after the transgression in the garden (blame or repentance) [divergence between the texts];
-    and 25 more.'
+- text: 'Only in The serpent, the eating, the curses and the expulsion: First woman named as mother of
+    all living; God heard walking in the garden in the breeze of the day; Woman punished with pain in
+    childbirth and subordination to husband; The woman eats first and gives the fruit to her husband;
+    Adam receives words from his Lord and God turns to him in forgiveness [divergence between the texts];
+    Each accused shifts blame to another (man to woman, woman to serpent); Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; Eating opens their eyes and they know they are naked
+    [divergence between the texts]; How the first couple answer God after eating: shifting the blame or
+    confessing [divergence between the texts]; The first man''s response after the transgression in the
+    garden (blame or repentance) [divergence between the texts]; God makes garments of skin for the first
+    couple [divergence between the texts]; Sinner hides from God, who calls ''Where are you?'' [divergence
+    between the texts]; and 25 more.'
   basis: reading
-- text: 'Only in The city: the two highways and the steep ascent: The companions of the right (ashab al-yamin,
+- text: 'Only in The city: the two highways and the steep ascent: Giving food to the hungry (water, clothing,
+    a ferry) as the deed that justifies before the judge; The companions of the right (ashab al-yamin,
     al-maymana) are saved; the companions of the left (al-mash''ama) are damned; A fire is closed over
     the damned (mu''sada); The steep ascent (''aqaba) is freeing a neck (slave), feeding an orphan relative
     or a needy man in the dust on a day of hunger; Oath by ''this city'' (Mecca), the secure city (al-balad
-    al-amin); The fast God chooses is to loose bonds of injustice, free the oppressed, share bread with
-    the hungry and clothe the naked; Oath introduced by the negated formula ''No! I swear by...'' (la
-    uqsimu / fa-la uqsimu); I set before you life and death, blessing and curse: choose life; Woe to every
-    slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking it makes him immortal;
+    al-amin); Whether a bound captive is released or killed; The fast God chooses is to loose bonds of
+    injustice, free the oppressed, share bread with the hungry and clothe the naked; The evil is shut
+    in below under a closed cover; Oath introduced by the negated formula ''No! I swear by...'' (la uqsimu
+    / fa-la uqsimu); Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth,
+    thinking it makes him immortal; I set before you life and death, blessing and curse: choose life;
     Rhetorical formula ''And what will make you know what X is?'' (wa ma adraka ma) introducing an eschatological
     term.'
   basis: reading

@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary
-    or sent down into hearts [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    or sent down into hearts [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The tabernacle erected; cloud and glory fill it: When the cloud lifts from the tabernacle
-    the people set out; otherwise they stay; Anointing confers an everlasting priesthood on the line;
-    The sanctuary is erected on the first day of the first month; A cloud by day and fire by night over
-    the people; The lampstand stands on the south side and the table on the north; Completion of the sanctuary
+    the people set out; otherwise they stay; A cloud by day and fire by night over the people; The lampstand
+    stands on the south side and the table on the north; Anointing confers an everlasting priesthood on
+    the line; The sanctuary is erected on the first day of the first month; Completion of the sanctuary
     is narrated in the language of the completion of creation; Anointing makes the tent and its furnishings
     holy; The refrain ''as YHWH commanded Moses'' recurs in a sevenfold pattern; Priests are washed with
-    water at the entrance before ordination; A bronze laver where priests wash hands and feet before service,
-    lest they die; The tablets of the testimony are placed inside the ark; The cloud and glory fill the
-    sanctuary so that even the leader cannot enter.'
+    water at the entrance before ordination; The tablets of the testimony are placed inside the ark; A
+    bronze laver where priests wash hands and feet before service, lest they die; The cloud and glory
+    fill the sanctuary so that even the leader cannot enter.'
   basis: reading
 - text: 'Only in Al-Fath: the clear opening, the sakina, the hand of God over their hands and the bedouin
     who stayed behind: The bedouin who stayed behind plead that wealth and families kept them busy and
@@ -40,8 +40,8 @@ evidence:
     sins; ''We have opened for you a clear opening/victory (fath mubin)'' (the Hudaybiya treaty); Prophet
     stakes his authority: ''If you return in peace, YHWH has not spoken by me''; Oath sworn by raising
     the hand to God; Whether those who stayed behind share in the spoil [contrast between the texts];
-    Who is exempted from going out to war [contrast between the texts]; The prophet is sent as witness,
-    bearer of good tidings and warner; and 3 more.'
+    Who is exempted from going out to war [contrast between the texts]; Household, wife or family as a
+    ground for staying behind from a campaign [contrast between the texts]; and 7 more.'
   basis: reading
 - text: 'The tabernacle erected; cloud and glory fill it: tagged by Claude (model), reading the Hebrew.'
   basis: reading

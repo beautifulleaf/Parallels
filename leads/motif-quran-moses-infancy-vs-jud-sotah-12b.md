@@ -26,7 +26,7 @@ passages:
   ref: 'Moses and the Egyptian nurses (Babylonian Talmud, Sotah 12b): Sotah 12b'
   note: Infant refuses other wet nurses
 evidence:
-- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
     longer meet the thresholds after a method change. Kept for review.'
   basis: original
 - text: 'Shared motifs, rarest first: Infant refuses other wet nurses (weight 2.8). Pair score 2.8.'

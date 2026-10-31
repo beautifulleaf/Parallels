@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A spring or stream appears for the mother (weight 5.6). Pair score
-    5.6.'
+- text: 'Shared motifs, rarest first: A spring or stream appears for the mother (weight 6.6). Pair score
+    6.6.'
   basis: reading
 - text: 'Only in Birth of Isaac and expulsion of Hagar and Ishmael: Mother lays her dying child under
     a bush and sits a bowshot away weeping; Slave-wife and her son expelled at the wife''s demand; The

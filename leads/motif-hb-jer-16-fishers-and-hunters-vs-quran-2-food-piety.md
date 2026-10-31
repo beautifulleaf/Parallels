@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Appeal to the religion of the fathers [contrast between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in A new exodus from the north; fishers and hunters: God sends many fishers to fish them
     out and then many hunters to hunt them from every mountain and cleft of rock; The religion of the

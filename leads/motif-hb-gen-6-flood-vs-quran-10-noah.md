@@ -14,26 +14,28 @@ traditions:
 layers:
 - motif
 motifs:
-- flood-hero-speaks-before-flood
 - cause-of-the-destruction
+- flood-hero-speaks-before-flood
 - family-saved
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Whether the flood hero speaks to his people before the flood (weight
-    6.3); Why God destroyed a generation or a people (weight 6.3); Hero''s family saved with him (weight
-    4.5). Pair score 17.1.'
+- text: 'Shared motifs, rarest first: Why God destroyed a generation or a people (weight 7.3); Whether
+    the flood hero speaks to his people before the flood (weight 6.8); Hero''s family saved with him (weight
+    5.4). Pair score 19.6.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 43 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What sets the flood in
+    motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts];
+    How the ark is described [divergence between the texts]; What the flood hero does when the vessel
+    comes to rest [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; How the flood waters are stopped and
+    subside [divergence between the texts]; and 43 more.'
   basis: reading
 - text: 'Only in Noah''s challenge to his people: Prophet challenges the idolaters to call their partners
     and plot against him without delay; Leader protests he never took so much as a donkey from anyone;

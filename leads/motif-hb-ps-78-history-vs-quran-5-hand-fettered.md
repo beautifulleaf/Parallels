@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Cycle: God punishes, the people seek him and repent, then flatter
-    him and sin again (weight 6.3); Leader doubts God can supply; God replies ''Is my hand too short?''
-    (weight 5.8). Pair score 12.1.'
+    him and sin again (weight 7.3); Leader doubts God can supply; God replies ''Is my hand too short?''
+    (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The made idol cannot move from its place, speak or answer and save
-    those who cry to it (weight 5.4). Pair score 5.4.'
+    those who cry to it (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Bel and Nebo carried off; God who carries Israel: Babylon''s gods Bel and Nebo bow and
     stoop, their images loaded as burdens on weary beasts; God summons a bird of prey from the east, the
@@ -37,10 +37,11 @@ evidence:
     in it; How the first human''s mate is made from the first human [divergence between the texts]; Parents''
     words to God about the child he gave them [divergence between the texts]; Taunt: do the idols have
     feet to walk, hands to grasp, eyes to see, ears to hear?; Likeness between the idols and those who
-    call on them [divergence between the texts]; Prophet challenges the idolaters to call their partners
-    and plot against him without delay; First woman made from the man''s rib or side while he sleeps;
-    Humankind is created from a single soul, from which its mate was made to dwell with it; Idols of wood
-    and stone that cannot see, hear, eat or smell.'
+    call on them [divergence between the texts]; How God made the human mate, and for what purpose; Prophet
+    challenges the idolaters to call their partners and plot against him without delay; Having eyes that
+    do not see and ears that do not hear, said of idols or of people; First woman made from the man''s
+    rib or side while he sleeps; Humankind is created from a single soul, from which its mate was made
+    to dwell with it; and 1 more.'
   basis: reading
 - text: 'Bel and Nebo carried off; God who carries Israel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

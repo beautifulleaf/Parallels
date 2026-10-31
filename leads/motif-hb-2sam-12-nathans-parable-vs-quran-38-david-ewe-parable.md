@@ -14,39 +14,43 @@ layers:
 - motif
 motifs:
 - rich-man-takes-poor-mans-only-ewe-as-divergence
+- royal-confession-and-pardon
 - davids-repentance-and-its-outcome-as-divergence
 - case-of-the-ewe-brought-to-david-as-divergence
-- royal-confession-and-pardon
 - juridical-parable-entraps-king
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man with many sheep takes another''s only ewe [divergence between
-    the texts] (weight 6.7); David''s repentance and what follows it [divergence between the texts] (weight
-    6.7); A case about a ewe is brought to David for judgment [divergence between the texts] (weight 6.7);
-    The king confesses ''I have sinned'' and the prophet announces forgiveness with a remaining penalty
-    (weight 6.7); A prophet tells a case as if real; the king condemns the offender and is told ''You
-    are the man'' (weight 6.3). Pair score 33.0.'
+    the texts] (weight 7.7); The king confesses ''I have sinned'' and the prophet announces forgiveness
+    with a remaining penalty (weight 7.7); David''s repentance and what follows it [divergence between
+    the texts] (weight 7.7); A case about a ewe is brought to David for judgment [divergence between the
+    texts] (weight 7.7); A prophet tells a case as if real; the king condemns the offender and is told
+    ''You are the man'' (weight 7.1). Pair score 38.0.'
   basis: reading
 - text: 'Only in Nathan''s parable of the ewe lamb and David''s punishment: A child born of the sin dies
     as punishment for the father; A child is given a second name by a prophet at God''s word; Father fasts
     and lies on the ground praying for a dying child; God reminds the king he gave him his predecessor''s
     house and wives; ''I shall go to him, but he will not return to me''; After the death the mourner
     unexpectedly rises, washes, anoints himself and eats; A poor man''s only ewe lamb, raised like a daughter,
-    taken by a rich man for a guest; Punishment: the sword will never depart from the king''s house; Five
-    oxen for a stolen ox and four sheep for a stolen sheep; Punishment: the king''s wives will be lain
-    with publicly ''before the sun''.'
+    taken by a rich man for a guest; Punishment: the sword will never depart from the king''s house; Punishment:
+    the king''s wives will be lain with publicly ''before the sun''; Five oxen for a stolen ox and four
+    sheep for a stolen sheep.'
   basis: reading
 - text: 'Only in David''s mountains, the two litigants and the ninety-nine ewes: Two litigants scale the
     wall of David''s prayer-chamber (mihrab) and frighten him; A man with ninety-nine ewes demands his
-    brother''s single ewe and overpowers him in argument; ''O David, we made you a vicegerent (khalifa)
+    brother''s single ewe and overpowers him in argument; A case is put to a judge as real, and his verdict
+    on it turns on himself [divergence between the texts]; ''O David, we made you a vicegerent (khalifa)
     on earth; judge between people with truth and do not follow desire''; David realizes he was being
     tested, asks forgiveness, falls down bowing and turns in repentance; God strengthened David''s kingdom
-    and gave him wisdom and decisive judgment (fasl al-khitab); Shall God treat believers like those who
-    spread corruption, the godfearing like the wicked?; Mountains and birds are made to glorify God together
-    with David; God did not create the heavens and earth and what is between them in play (la''ibin) but
-    in truth.'
+    and gave him wisdom and decisive judgment (fasl al-khitab); A named ''day of reckoning'' on which
+    accounts are settled; Shall God treat believers like those who spread corruption, the godfearing like
+    the wicked?; Sheep are divided so that one party takes nine (ninety-nine) and the other one [divergence
+    between the texts]; A man of means covets and seizes a poorer man''s animal, and the case goes before
+    a judge [divergence between the texts]; Mountains and birds are made to glorify God together with
+    David; God did not create the heavens and earth and what is between them in play (la''ibin) but in
+    truth.'
   basis: reading
 - text: 'Nathan''s parable of the ewe lamb and David''s punishment: tagged by Claude (model), reading
     the Hebrew.'

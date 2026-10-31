@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ban on marrying outside the community and its criterion [divergence
-    between the texts] (weight 6.3); Prohibition of intermarriage with the peoples of the land lest they
-    turn sons to other gods (weight 5.4). Pair score 11.7.'
+    between the texts] (weight 7.3); Prohibition of intermarriage with the peoples of the land lest they
+    turn sons to other gods (weight 6.5). Pair score 13.8.'
   basis: reading
 - text: 'Only in The sealed pledge (amanah) and its stipulations: Community pledges an annual third of
     a shekel for the temple service; The people enter into a curse and an oath to walk in God''s Torah;
@@ -35,13 +35,15 @@ evidence:
   basis: reading
 - text: 'Only in Wine, gambling, orphans, mixed marriage and menstruation: A believing slave woman (or
     man) is better for marriage than an attractive polytheist; What to spend? ''The surplus'' (al-''afw);
-    Mixing with orphans'' affairs permitted: they are your brothers; Your wives are a tilth for you; come
-    to your tilth as you wish; Intercourse with a menstruating woman is forbidden [divergence between
-    the texts]; A woman is purifying herself from her menstrual impurity; Wine and gambling: in both great
-    sin and some benefit, but the sin is greater; Do not look at wine when it is red and sparkles in the
-    cup; at the last it bites like a serpent and stings like a viper; Whether wine is good or harmful
-    [contrast between the texts]; Intercourse with a menstruating woman is forbidden; Marrying foreign
-    women will lead the sons into idolatry.'
+    Mixing with orphans'' affairs permitted: they are your brothers; Intercourse with a menstruating woman
+    is forbidden [divergence between the texts]; Marriage with a man or woman of the hostile outside group
+    is barred or dangerous, because the spouse will lead to betrayal or ruin; Ploughing and sowing a field
+    stand for insemination (the plough impregnates the earth; women are a tilth); A woman is purifying
+    herself from her menstrual impurity; Wine and gambling: in both great sin and some benefit, but the
+    sin is greater; Do not look at wine when it is red and sparkles in the cup; at the last it bites like
+    a serpent and stings like a viper; A woman (wife) is likened to a field that is ploughed; Whether
+    wine is good or harmful [contrast between the texts]; A woman and a ploughed field are likened to
+    each other; and 4 more.'
   basis: reading
 - text: 'The sealed pledge (amanah) and its stipulations: tagged by Claude (model), reading the Hebrew.'
   basis: reading

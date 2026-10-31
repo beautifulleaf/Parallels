@@ -21,7 +21,7 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: O company of jinn and men, pass beyond the regions of the heavens
     and earth if you can; you cannot without authority; flames and molten brass will be sent on you (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Lord at the altar, no escape, the sieve, and the fallen booth of David: In that day
     God will raise up the fallen booth (sukkah) of David and repair its breaches; God builds his upper
@@ -32,8 +32,9 @@ evidence:
     Egypt, the Philistines from Caphtor and Aram from Kir; The plowman will overtake the reaper and the
     treader of grapes the sower; God commands the serpent at the bottom of the sea to bite those who hide
     there; God will shake Israel among the nations as grain is shaken in a sieve, yet no pebble will fall
-    to the ground; The whole land heaves and sinks like the Nile of Egypt; In that day the mountains drip
-    sweet wine and the hills flow with milk; and 3 more.'
+    to the ground; The whole land heaves and sinks like the Nile of Egypt; Though they dig into Sheol
+    or climb to heaven, hide on Carmel or at the bottom of the sea, God''s hand will take them; and 3
+    more.'
   basis: reading
 - text: 'Only in Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs
     of gardens with secluded maidens: The damned go round between Gehenna and seething boiling water;
@@ -45,8 +46,7 @@ evidence:
     attend to you, O two weighty ones (al-thaqalan)''; Doxology: ''Blessed be the name of your Lord, possessor
     of majesty and honor''; Reclining on couches lined with brocade, with the fruit of the gardens hanging
     near; The text addresses jinn and humans together in the dual (''you two'', al-thaqalan, ''the two
-    weighty ones''); The guilty are known by their marks and seized by the forelocks and the feet; and
-    5 more.'
+    weighty ones''); Favour is repaid with favour (goodness with goodness); and 8 more.'
   basis: reading
 - text: 'The Lord at the altar, no escape, the sieve, and the fallen booth of David: tagged by Claude
     (model), reading the Hebrew.'

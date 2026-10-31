@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham kept God''s charge, commandments, statutes and laws (torot)
-    before Sinai (weight 6.7). Pair score 6.7.'
+    before Sinai (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Isaac in Gerar, the wife-sister episode, wells and treaty: God forbids the patriarch
     to go down to Egypt in a famine; King looking through a window sees the couple embracing and learns

@@ -27,11 +27,11 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the sin of Lot''s townsmen was [divergence between the texts]
-    (weight 6.7); Lot''s people threaten to expel him (weight 6.3); The fate of Lot''s wife (weight 5.8);
-    Who is saved with the hero from the destruction, and why [divergence between the texts] (weight 5.8);
-    Wife who looks back is turned into a pillar of salt (weight 5.6); The men of Sodom are exceedingly
-    wicked (weight 5.2); God rains sulfur and fire from heaven on cities (weight 4.8); Hero''s family
-    saved with him (weight 4.5). Pair score 44.6.'
+    (weight 7.7); Lot''s people threaten to expel him (weight 7.3); The fate of Lot''s wife (weight 6.8);
+    Who is saved with the hero from the destruction, and why [divergence between the texts] (weight 6.8);
+    Wife who looks back is turned into a pillar of salt (weight 6.6); The men of Sodom are exceedingly
+    wicked (weight 6.2); God rains sulfur and fire from heaven on cities (weight 5.9); Hero''s family
+    saved with him (weight 5.4). Pair score 53.0.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them

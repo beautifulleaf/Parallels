@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Dissolving marriages with women outside the community [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant to send away foreign wives; assembly in the rain; list of offenders: The assembly
     sits trembling in the open square in the winter rains; Mixed marriages have already produced children,
@@ -46,8 +46,8 @@ evidence:
     slander, or disobey in what is right; Abraham declares to his father and people that he is free of
     what they worship, except the one who created him; God does not forbid kindness and justice toward
     those who did not fight you over religion or expel you; Neither your blood-ties nor your children
-    will benefit you on the Day of Resurrection; Mightier towns than the one that drove the prophet out
-    were destroyed; and 3 more.'
+    will benefit you on the Day of Resurrection; The sovereign party of a bond requires the other to treat
+    ''my enemy'' as an enemy, not as a friend; and 10 more.'
   basis: reading
 - text: 'Covenant to send away foreign wives; assembly in the rain; list of offenders: tagged by Claude
     (model), reading the Hebrew.'

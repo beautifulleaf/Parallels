@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Remove the dross from silver and a vessel comes out for the smith;
-    remove the wicked and the throne is established (weight 6.3). Pair score 6.3.'
+    remove the wicked and the throne is established (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies): A word fitly spoken
     is like apples of gold in settings of silver; A man without self-restraint is like a city broken into,
     without walls; Clouds and wind without rain is a man who boasts of a gift he does not give; If you
     find honey eat only enough, lest you be sated and vomit it; Like the cold of snow in harvest time
-    is a faithful messenger to those who send him; If your enemy is hungry give him bread and if thirsty
-    water, for you will heap coals of fire on his head and YHWH will reward you; It is the glory of God
-    to conceal a matter and the glory of kings to search it out; Like cold water to a weary soul is good
-    news from a far country; Proverbs of Solomon ''copied out'' (he''tiqu) by the men of Hezekiah king
-    of Judah; As heaven for height and earth for depth, so the heart of kings is unsearchable; The north
-    wind brings forth rain, and a backbiting tongue angry looks; A righteous man who gives way before
-    the wicked is like a muddied spring or polluted fountain; and 13 more.'
+    is a faithful messenger to those who send him; It is the glory of God to conceal a matter and the
+    glory of kings to search it out; Like cold water to a weary soul is good news from a far country;
+    Proverbs of Solomon ''copied out'' (he''tiqu) by the men of Hezekiah king of Judah; As heaven for
+    height and earth for depth, so the heart of kings is unsearchable; The north wind brings forth rain,
+    and a backbiting tongue angry looks; A righteous man who gives way before the wicked is like a muddied
+    spring or polluted fountain; Let your foot be seldom in your neighbor''s house, lest he grow weary
+    of you and hate you; and 13 more.'
   basis: reading
 - text: 'Only in The signs of creation, thunder and the parable of the foam (Surah 13:1-17): To every
     people there is a guide; God knows what every female carries and how wombs shrink or swell; Each person
@@ -41,10 +41,11 @@ evidence:
     watered with one water give different fruits: a sign; Parable: torrents and smelted metal throw up
     foam that vanishes, while what benefits people remains; The thunder glorifies God with his praise,
     and the angels too in awe of him; All in heaven and earth prostrate to God, willingly or unwillingly,
-    even their shadows morning and evening; God raised the heavens without pillars that you can see [divergence
-    between the texts]; Thunder is the roaring voice of God [divergence between the texts]; The thunder
-    glorifies God with his praise, and the angels too in awe of him [divergence between the texts]; God
-    shows lightning in fear and hope and sends thunderbolts on whom he wills; and 13 more.'
+    even their shadows morning and evening; A protector goes (stands) before and behind a man to guard
+    him [divergence between the texts]; God raised the heavens without pillars that you can see [divergence
+    between the texts]; Lightning, thunderbolts or hail sent from heaven at the god''s command strike
+    what he wills [divergence between the texts]; How thunder in the clouds relates to the god: his own
+    roar or a creature praising him [shared matter] [divergence between the texts]; and 20 more.'
   basis: reading
 - text: 'Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies): tagged by Claude (model),
     reading the Hebrew.'

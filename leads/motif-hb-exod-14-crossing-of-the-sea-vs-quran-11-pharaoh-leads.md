@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh goes at the head of his people to their destruction [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -34,10 +34,11 @@ evidence:
   basis: reading
 - text: 'Only in Pharaoh leads his people into the fire; the towns standing and mown: Of the destroyed
     towns some still stand, some are mown down; On judgment day Pharaoh will lead his people down into
-    the fire, an evil watering place; The gods of a people judged by God cannot help them; ''Far be it
-    from God to do wickedness, from Shaddai to do wrong''; he repays a man according to his deeds; Divine
-    punishment falls on a town by night or while its people take the midday rest; At judgment the associated
-    ''partners'' disown their worshipers: ''it was not us you worshiped''.'
+    the fire, an evil watering place; The deity''s seizing (of the guilty) is slow to come but severe
+    and final once it falls; The gods of a people judged by God cannot help them; ''Far be it from God
+    to do wickedness, from Shaddai to do wrong''; he repays a man according to his deeds; Divine punishment
+    falls on a town by night or while its people take the midday rest; At judgment the associated ''partners''
+    disown their worshipers: ''it was not us you worshiped''.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

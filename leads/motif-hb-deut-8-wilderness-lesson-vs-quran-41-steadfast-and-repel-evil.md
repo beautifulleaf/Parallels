@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Warning against saying my power and the might of my hand made this
-    wealth (weight 6.3). Pair score 6.3.'
+    wealth (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Lessons of the wilderness; the good land; beware of pride: Wilderness of fiery serpents
-    and scorpions; When you eat and are satisfied, bless God for the land; Land whose stones are iron
-    and from whose hills copper is dug; Man does not live by bread alone but by every word from God''s
-    mouth; God tests the community ''until we know'' who strive and are patient; Springs and fruit of
-    the promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I
-    was given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and
-    test Israel; Clothes did not wear out and feet did not swell for forty years; God disciplines Israel
-    as a man disciplines his son; When you eat and are full, beware lest you forget God; Water brought
-    out of the rock; and 6 more.'
+    and scorpions; When you eat and are satisfied, bless God for the land; Man does not live by bread
+    alone but by every word from God''s mouth; God tests the community ''until we know'' who strive and
+    are patient; Land whose stones are iron and from whose hills copper is dug; Springs and fruit of the
+    promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I was
+    given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and test
+    Israel; When you eat and are full, beware lest you forget God; Water brought out of the rock; Wealth
+    and children are a trial (fitna); Clothes did not wear out and feet did not swell for forty years;
+    and 6 more.'
   basis: reading
 - text: 'Only in Angels descend on the steadfast; repel evil with good; signs on the horizons: Angels
     descend on those who say ''Our Lord is God'' and stand firm: ''Fear not, grieve not, rejoice in the
@@ -40,10 +40,11 @@ evidence:
     will come, and if returned to my Lord I will have the best with him''; On the Day God calls ''Where
     are my partners?'', they answer ''We declare to you none of us is a witness''; The Quran is guidance
     and healing (shifa'') for believers; for others deafness and blindness; ''We will show them our signs
-    on the horizons and in themselves until it is clear to them that it is the truth''; Do not say ''I
-    will repay evil''; wait for YHWH and he will save you; Doing good to an enemy, and what it brings
-    [divergence between the texts]; Had it been revealed to a non-Arab (aʿjamī) reciting it, they would
-    still not believe; When an evil prompting from Satan stirs you, seek refuge in God; and 13 more.'
+    on the horizons and in themselves until it is clear to them that it is the truth''; The adversary
+    is reconciled and becomes a friend; who spoke evil speaks good [divergence between the texts]; Whether
+    to answer an evil word or deed with its like [divergence between the texts]; Doing good to an enemy,
+    and what it brings [divergence between the texts]; Prayer or prostration addressed to the sun [response
+    between the texts]; and 21 more.'
   basis: reading
 - text: 'Lessons of the wilderness; the good land; beware of pride: tagged by Claude (model), reading
     the Hebrew.'

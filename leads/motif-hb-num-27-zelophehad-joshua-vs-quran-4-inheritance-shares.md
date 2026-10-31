@@ -21,10 +21,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rules for who inherits and in what order or share [divergence between
-    the texts] (weight 6.7); Whether and how daughters inherit [divergence between the texts] (weight
-    6.3); Statutory order of inheritance: son, daughter, brothers, father''s brothers, nearest kin (weight
-    6.3); Daughters petition and win the right to inherit when there is no son (weight 5.8). Pair score
-    25.0.'
+    the texts] (weight 7.7); Whether and how daughters inherit [divergence between the texts] (weight
+    7.3); Statutory order of inheritance: son, daughter, brothers, father''s brothers, nearest kin (weight
+    7.3); Daughters petition and win the right to inherit when there is no son (weight 6.8). Pair score
+    29.3.'
   basis: reading
 - text: 'Only in Daughters of Zelophehad; Moses views the land; Joshua commissioned: Petition so that
     a dead man''s name not be lost from his clan; Leader ordains his successor by laying hands and sharing
@@ -37,12 +37,14 @@ evidence:
   basis: reading
 - text: 'Only in The fixed shares of inheritance: Shares are distributed only after a bequest (waṣiyya)
     and debts are paid; Inheritance fixed in fractions (one half, a third, a quarter, a sixth, an eighth,
-    two-thirds); Husband and wife inherit fixed shares from each other; Three named daughters (Jemimah,
-    Keziah, Keren-happuch), the most beautiful in the land, inherit among their brothers; Who receives
-    a double share of inheritance [divergence between the texts]; One who dies without parent or child
-    (kalāla): brothers and sisters inherit fixed shares; A son (or brother) inherits the share of two
-    daughters (or sisters); ''These are the bounds (hudud) of God; do not approach (or transgress) them'';
-    Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever.'
+    two-thirds); Husband and wife inherit fixed shares from each other; What a daughter inherits when
+    her father leaves no son [divergence between the texts]; Three named daughters (Jemimah, Keziah, Keren-happuch),
+    the most beautiful in the land, inherit among their brothers; Who receives a double share of inheritance
+    [divergence between the texts]; Who fixes the shares of a man''s children in his estate [contrast
+    between the texts]; One who dies without parent or child (kalāla): brothers and sisters inherit fixed
+    shares; A son (or brother) inherits the share of two daughters (or sisters); ''These are the bounds
+    (hudud) of God; do not approach (or transgress) them''; Paradise as gardens (of ʿAdn) beneath which
+    rivers flow, where the righteous abide forever.'
   basis: reading
 - text: 'Daughters of Zelophehad; Moses views the land; Joshua commissioned: tagged by Claude (model),
     reading the Hebrew.'

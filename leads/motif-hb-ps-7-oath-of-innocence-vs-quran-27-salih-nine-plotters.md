@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They plot a plot, and God plots a plot; give the deniers respite
-    a little (weight 6.3). Pair score 6.3.'
+    a little (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 7 - Shiggayon concerning Cush the Benjaminite: The congregation of peoples surrounds
-    God as he takes his seat on high to judge; Oath of innocence: ''If I have done this... let the enemy
-    pursue and trample me''; God whets his sword and strings his bow, preparing deadly fiery arrows; The
-    wicked conceives mischief, is pregnant with trouble and gives birth to falsehood; The evil plot encompasses
+    God as he takes his seat on high to judge; God whets his sword and strings his bow, preparing deadly
+    fiery arrows; The wicked conceives mischief, is pregnant with trouble and gives birth to falsehood;
+    Oath of innocence: ''If I have done this... let the enemy pursue and trample me''; The evil plot encompasses
     only its own authors; God Most High (El Elyon), creator/possessor of heaven and earth; The enemy is
     like a lion that tears the speaker''s soul or lurks in ambush; Call to God to arise (qumah YHWH) and
-    save or judge; God tests the hearts and the kidneys (inner self); He who digs a pit or hides a net
-    is caught in it himself; Superscription sets the psalm in a specific episode of David''s life; Superscription
+    save or judge; He who digs a pit or hides a net is caught in it himself; God tests the hearts and
+    the kidneys (inner self); Superscription sets the psalm in a specific episode of David''s life; Superscription
     contains an obscure musical or liturgical term (neginot, nehilot, sheminit, gittit, alamot, shiggayon,
     maskil, miktam, shoshannim...); and 1 more.'
   basis: reading
@@ -37,9 +37,9 @@ evidence:
     seek his life: ''Do not prophesy in YHWH''s name or you will die by our hand''; Nine men of the city
     swear by God to attack the prophet and his family by night and deny it to his avenger; The prophet
     Ṣāliḥ is sent to the people of Thamūd; King calls the prophet ''troubler of Israel'' (okher Yisra''el);
-    prophet returns the charge; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy
-    messenger sent to his people; The listeners walk among the dwellings of generations God destroyed,
-    a sign.'
+    prophet returns the charge; Augury: a bird''s flight or alighting is an omen bound to a person [divergence
+    between the texts]; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger
+    sent to his people; The listeners walk among the dwellings of generations God destroyed, a sign.'
   basis: reading
 - text: 'Psalm 7 - Shiggayon concerning Cush the Benjaminite: tagged by Claude (model), reading the Hebrew.'
   basis: reading

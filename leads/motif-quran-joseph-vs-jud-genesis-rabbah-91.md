@@ -18,8 +18,8 @@ motifs:
 - father-reluctant-youngest
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Father tells the sons to enter by separate gates (weight 6.3); Father
-    refuses at first to send the youngest (weight 5.6). Pair score 11.9.'
+- text: 'Shared motifs, rarest first: Father tells the sons to enter by separate gates (weight 7.3); Father
+    refuses at first to send the youngest (weight 6.6). Pair score 14.0.'
   basis: reading
 - text: 'Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.'
   basis: reading

@@ -18,13 +18,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ark of the covenant: a gold-plated acacia chest with rings and
-    poles (weight 5.6). Pair score 5.6.'
+    poles (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Bezalel makes the ark, table, lampstand and incense altar: A cult object is hammered
-    from a single piece of gold; Recipe of the holy anointing oil of myrrh, cinnamon, cane, cassia and
-    olive oil; A golden cover (kapporet, mercy seat) on top of the ark; Execution of a divine command
-    is narrated by repeating the command almost verbatim; A small gold-plated altar for burning incense
-    before the veil; A golden seven-lamp lampstand with almond-blossom cups; A gold table with the bread
+    from a single piece of gold; A golden cover (kapporet, mercy seat) on top of the ark; Execution of
+    a divine command is narrated by repeating the command almost verbatim; A small gold-plated altar for
+    burning incense before the veil; Recipe of the holy anointing oil of myrrh, cinnamon, cane, cassia
+    and olive oil; A golden seven-lamp lampstand with almond-blossom cups; A gold table with the bread
     of the presence always before God; Two golden cherubim face each other with wings spread over the
     ark.'
   basis: reading
@@ -36,9 +36,10 @@ evidence:
     object that the chosen king has no wealth and they have more right to kingship; Before battle the
     army is tested at a river: whoever drinks is not with the leader, except a handful scooped by hand;
     The ark of the covenant: a gold-plated acacia chest with rings and poles [divergence between the texts];
-    What the ark contains [contrast between the texts]; David kills the Philistine giant [divergence between
-    the texts]; A giant taunts Israel and is killed by a hero; A jar of manna preserved before the testimony
-    for future generations; and 10 more.'
+    A candidate for kingship is judged by his bodily size or strength (too small for the throne; given
+    increase of body) [divergence between the texts]; A claimant''s body is weighed as fitness for kingship
+    [divergence between the texts]; What the ark contains [contrast between the texts]; David kills the
+    Philistine giant [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'Bezalel makes the ark, table, lampstand and incense altar: tagged by Claude (model), reading
     the Hebrew.'

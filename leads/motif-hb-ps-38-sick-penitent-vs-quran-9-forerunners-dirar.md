@@ -18,17 +18,17 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The sinner must confess the sin he committed (weight 5.8). Pair
-    score 5.8.'
+- text: 'Shared motifs, rarest first: The sinner must confess the sin he committed (weight 6.8). Pair
+    score 6.8.'
   basis: reading
-- text: 'Only in Psalm 38 - the sick penitent abandoned by friends: The sufferer is like a deaf man who
-    does not hear and a mute who does not open his mouth; Friends and companions stand aloof from the
-    sufferer''s plague (nega); kin stand far off; God''s arrows have sunk into the sufferer and his hand
-    pressed down on him; Superscription ''to bring to remembrance'' (lehazkir), linked to the memorial
-    offering; Because of his sin the sufferer''s wounds stink and fester; no soundness in his flesh; The
-    speaker fasted in sackcloth for his enemies when they were sick; they repay evil for good; Plea: ''Do
-    not rebuke me in your anger nor chasten me in your wrath''; Psalm superscription ascribes the poem
-    to David (le-david).'
+- text: 'Only in Psalm 38 - the sick penitent abandoned by friends: God''s arrows have sunk into the sufferer
+    and his hand pressed down on him; Superscription ''to bring to remembrance'' (lehazkir), linked to
+    the memorial offering; Because of his sin the sufferer''s wounds stink and fester; no soundness in
+    his flesh; The sufferer is like a deaf man who does not hear and a mute who does not open his mouth;
+    The speaker fasted in sackcloth for his enemies when they were sick; they repay evil for good; Plea:
+    ''Do not rebuke me in your anger nor chasten me in your wrath''; Friends and companions stand aloof
+    from the sufferer''s plague (nega); kin stand far off; Psalm superscription ascribes the poem to David
+    (le-david).'
   basis: reading
 - text: 'Only in The forerunners, alms that purify, and the mosque of harm: The first forerunners (al-sabiqun
     al-awwalun) among emigrants and helpers: God is pleased with them and they with him; Hardened hypocrites

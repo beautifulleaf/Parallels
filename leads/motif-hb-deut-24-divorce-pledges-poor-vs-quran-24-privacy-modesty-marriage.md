@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Creditor must wait outside for the pledge and return a poor man''s
-    cloak by sunset (weight 6.3). Pair score 6.3.'
+    cloak by sunset (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -30,21 +30,21 @@ evidence:
     husband divorces his wife [divergence between the texts]; At the end of the term, retain or part with
     them honorably, and call two just witnesses [divergence between the texts]; Whether a divorced wife
     may return to her first husband after another marriage [contrast between the texts]; Forgotten sheaf,
-    olive and grape gleanings left for stranger, orphan and widow; Forgotten sheaf, olive and grape gleanings
-    left for stranger, orphan and widow [contrast between the texts]; and 7 more.'
+    olive and grape gleanings left for stranger, orphan and widow [contrast between the texts]; Divorced
+    wife who remarried may not return to her first husband; and 7 more.'
   basis: reading
 - text: 'Only in Entering houses, lowering the gaze, head-coverings, marriage and manumission: Do not
     enter others'' houses until you have asked leave and greeted the household; if told to go back, go
     back; Believing men and women are told to lower their gaze and guard their private parts; Grant slaves
     who ask a written manumission contract (kitāba) and give them of God''s wealth; Marry off the unmarried
     among you and your righteous slaves; God will enrich the poor; Believing women draw their head-coverings
-    (khumur) over their bosoms and do not show adornment except to listed kin; Bride covers herself with
-    a veil on seeing the groom; ''I made a covenant with my eyes; how then could I look upon a virgin?'';
+    (khumur) over their bosoms and do not show adornment except to listed kin; A man''s look at a woman,
+    and what is required or done about it [neutral] [divergence between the texts]; Bride covers herself
+    with a veil on seeing the groom; ''I made a covenant with my eyes; how then could I look upon a virgin?'';
     A father must not make his daughter a prostitute; Women should not strike their feet to make known
     their hidden ornaments (anklets); Freed slave must not be sent away empty-handed but furnished from
     flock, threshing floor and winepress; The head of a household must not prostitute a woman under his
-    authority [divergence between the texts]; Catalogue of bridal finery: embroidered cloth, tahash sandals,
-    linen, silk, bracelets, necklace, nose-ring, earrings and a crown.'
+    authority [divergence between the texts]; and 2 more.'
   basis: reading
 - text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -23,22 +23,22 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses flees from his staff turned serpent, and God''s response [divergence
-    between the texts] (weight 6.3); Moses'' hand turned white as a sign [divergence between the texts]
-    (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 5.6);
-    A staff thrown down becomes a serpent and turns back into a staff (weight 5.4); The king''s heart
-    is hardened (by himself or by God) so he refuses to release the people (weight 4.6). Pair score 27.9.'
+    between the texts] (weight 7.3); Moses'' hand turned white as a sign [divergence between the texts]
+    (weight 7.1); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 6.6);
+    A staff thrown down becomes a serpent and turns back into a staff (weight 6.5); The king''s heart
+    is hardened (by himself or by God) so he refuses to release the people (weight 5.7). Pair score 33.2.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
     of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
-    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
-    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
-    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
-    man; The hero carries ''the staff of God'' with which he performs signs; The prophet asks that his
-    brother be made his helper (wazīr) and partner in his mission [divergence between the texts]; What
-    Moses demands of Pharaoh in God''s name [divergence between the texts]; God taught humankind by the
-    pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him
-    [divergence between the texts]; and 14 more.'
+    and seeks to kill him; The people believe the prophet''s signs and bow in worship; Hero may return
+    home because those seeking his life are dead; Wife cuts off her son''s foreskin with a flint and touches
+    it to the threatened man; The hero carries ''the staff of God'' with which he performs signs; The
+    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
+    the texts]; What Moses demands of Pharaoh in God''s name [divergence between the texts]; God claims
+    to make the mouth, the mute, the deaf, the seeing and the blind; God taught humankind by the pen (qalam)
+    what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence
+    between the texts]; and 14 more.'
   basis: reading
 - text: 'Only in Ta Sin; Moses at the fire, the jann-staff and the nine signs: At the fire the voice proclaims
     ''Blessed is he who is in the fire and those around it''; God described as the one who dwells in the
@@ -48,8 +48,8 @@ evidence:
     Moses approaches the fire [divergence between the texts]; Traveling with his family, the prophet sees
     a fire and goes to bring back a brand or find guidance there; God appears in a bush that burns without
     being consumed; Why Pharaoh and Egypt refuse despite the signs [divergence between the texts]; A poetic
-    list of the Egyptian plagues differs in number and order from Exodus; God addresses the hero with
-    ''Fear not'' in a vision; and 2 more.'
+    list of the Egyptian plagues differs in number and order from Exodus; Prophet''s wonders are imitated
+    by the king''s magicians in a contest; and 2 more.'
   basis: reading
 - text: 'Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: tagged by Claude
     (model), reading the Hebrew.'

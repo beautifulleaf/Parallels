@@ -20,27 +20,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Warning against saying my power and the might of my hand made this
-    wealth (weight 6.3). Pair score 6.3.'
+    wealth (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Lessons of the wilderness; the good land; beware of pride: Wilderness of fiery serpents
-    and scorpions; When you eat and are satisfied, bless God for the land; Land whose stones are iron
-    and from whose hills copper is dug; Man does not live by bread alone but by every word from God''s
-    mouth; God tests the community ''until we know'' who strive and are patient; Springs and fruit of
-    the promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I
-    was given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and
-    test Israel; Clothes did not wear out and feet did not swell for forty years; God disciplines Israel
-    as a man disciplines his son; When you eat and are full, beware lest you forget God; Water brought
-    out of the rock; and 6 more.'
+    and scorpions; When you eat and are satisfied, bless God for the land; Man does not live by bread
+    alone but by every word from God''s mouth; God tests the community ''until we know'' who strive and
+    are patient; Land whose stones are iron and from whose hills copper is dug; Springs and fruit of the
+    promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I was
+    given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and test
+    Israel; When you eat and are full, beware lest you forget God; Water brought out of the rock; Wealth
+    and children are a trial (fitna); Clothes did not wear out and feet did not swell for forty years;
+    and 6 more.'
   basis: reading
 - text: 'Only in Qarun''s treasures and his swallowing by the earth; closing: God who imposed the Quran
     will bring the prophet back to a place of return (maʿād); Qārūn says his wealth came to him through
     knowledge he possesses; Qārūn (Korah) of Moses'' people was given treasures whose keys would weigh
     down a band of strong men; Donors confess that everything comes from God and they only give back what
-    is his; Bystanders of a divine punishment fear it could have struck them too; Qārūn goes out in his
-    finery and the worldly wish for his fortune; What Korah''s sin was, and why the earth swallowed him
-    [divergence between the texts]; All on earth perish; there remains the Face of your Lord, possessor
-    of majesty and honor; The rich man''s wealth is his strong city; the poverty of the poor is their
-    ruin; The earth opens its mouth and swallows rebels alive into Sheol.'
+    is his; The earth opens and swallows ill-gotten riches or the wrongful rich man with his house; Bystanders
+    of a divine punishment fear it could have struck them too; Qārūn goes out in his finery and the worldly
+    wish for his fortune; What Korah''s sin was, and why the earth swallowed him [divergence between the
+    texts]; All on earth perish; there remains the Face of your Lord, possessor of majesty and honor;
+    The rich man''s wealth is his strong city; the poverty of the poor is their ruin; The earth opens
+    its mouth and swallows rebels alive into Sheol.'
   basis: reading
 - text: 'Lessons of the wilderness; the good land; beware of pride: tagged by Claude (model), reading
     the Hebrew.'

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An earthful of gold would not be accepted as ransom from one who
-    dies unbelieving (weight 5.8). Pair score 5.8.'
+    dies unbelieving (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Zephaniah''s Day of YHWH against Judah: Men thickened on their lees who say in their
     hearts ''YHWH will do neither good nor evil''; The Day of YHWH is a sacrifice he has prepared, with
@@ -36,12 +36,13 @@ evidence:
   basis: reading
 - text: 'Only in The prophet''s mortality; souls taken in sleep; intercession belongs to God: When God
     alone is mentioned the hearts of unbelievers shrink with aversion; at mention of others they rejoice;
-    All intercession belongs to God; ''You will die and they will die'', said to the prophet; Death described
-    as sleep: ''lest I sleep the sleep of death''; Given a blessing, man says ''I was given it only because
-    of my knowledge''; it is a trial; God takes the souls at death and of those not dead in their sleep;
-    he keeps those decreed to die and sends back the others for a set term; If asked who created heaven
-    and earth and sends rain, the idolaters themselves answer ''God''; When harm touches people they turn
-    to God; when he gives them relief a party of them associates partners again.'
+    All intercession belongs to God; ''You will die and they will die'', said to the prophet; Given a
+    blessing, man says ''I was given it only because of my knowledge''; it is a trial; He whom the gods
+    guide cannot go astray; he whom they leave boatless cannot find a crossing; God takes the souls at
+    death and of those not dead in their sleep; he keeps those decreed to die and sends back the others
+    for a set term; Death described as sleep: ''lest I sleep the sleep of death''; If asked who created
+    heaven and earth and sends rain, the idolaters themselves answer ''God''; When harm touches people
+    they turn to God; when he gives them relief a party of them associates partners again.'
   basis: reading
 - text: 'Zephaniah''s Day of YHWH against Judah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

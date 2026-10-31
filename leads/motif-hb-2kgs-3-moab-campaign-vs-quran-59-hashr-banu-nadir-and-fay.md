@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not cut down fruit trees during a siege: is the tree of the field
-    a man? (weight 6.3). Pair score 6.3.'
+    a man? (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Jehoram''s campaign against Mesha of Moab: Besieged king offers his firstborn heir as
     a burnt offering on the city wall, and ''great wrath'' falls on Israel, who withdraw; Prophet calls
     for a musician; as he plays, the hand of YHWH comes upon him; Prophet says he would not even look
-    at the wicked king were it not for the righteous ally; Invaders fell every good tree, stop every spring
-    and ruin every good field with stones; Allied kings on a seven-day detour run out of water for army
-    and beasts and despair; A sheep-breeding vassal king pays tribute of a hundred thousand lambs and
-    the wool of a hundred thousand rams; At sunrise the water looks red as blood; the enemy thinks the
-    kings have slain each other and rushes to plunder; Dry wadi fills with water though no wind or rain
-    is seen; Standard regnal formula: age at accession, length of reign, mother''s name, evaluation, burial,
+    at the wicked king were it not for the righteous ally; Allied kings on a seven-day detour run out
+    of water for army and beasts and despair; A sheep-breeding vassal king pays tribute of a hundred thousand
+    lambs and the wool of a hundred thousand rams; At sunrise the water looks red as blood; the enemy
+    thinks the kings have slain each other and rushes to plunder; Dry wadi fills with water though no
+    wind or rain is seen; Invaders fell every good tree, stop every spring and ruin every good field with
+    stones; Standard regnal formula: age at accession, length of reign, mother''s name, evaluation, burial,
     successor; Nations burn their sons and daughters in fire to their gods.'
   basis: reading
 - text: 'Only in Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law
@@ -39,14 +39,15 @@ evidence:
     the unbelieving People of the Book (the Banu Nadir) from their homes at ''the first gathering'' (li-awwal
     al-hashr); Whatever palm trees (lina) you cut down or left standing on their roots was by God''s leave;
     Later believers pray: forgive us and our brethren who preceded us in faith, and put no rancor in our
-    hearts; Whether the enemy''s trees may be cut down in a siege [contrast between the texts]; How spoil
-    taken from the enemy is distributed [divergence between the texts]; Fay'' (booty gained without cavalry
-    or camels) goes to God, the messenger, kin, orphans, the poor and the wayfarer, so wealth does not
-    circulate only among the rich; They thought their fortresses would protect them from God, but God
-    came from where they did not expect and cast terror into their hearts; The poor emigrants and the
-    hosts who prefer others over themselves even in need; whoever is saved from his own greed succeeds;
-    Cities ''great and fortified up to heaven''; Spoils divided half to warriors, half to community, with
-    a levy for God; and 2 more.'
+    hearts; Vines or palms of a hostile neighbour are cut down [divergence between the texts]; Whether
+    the enemy''s trees may be cut down in a siege [contrast between the texts]; How spoil taken from the
+    enemy is distributed [divergence between the texts]; Fay'' (booty gained without cavalry or camels)
+    goes to God, the messenger, kin, orphans, the poor and the wayfarer, so wealth does not circulate
+    only among the rich; They thought their fortresses would protect them from God, but God came from
+    where they did not expect and cast terror into their hearts; The wealth of a ruined or expelled people
+    passes to others who did not have it [divergence between the texts]; The poor emigrants and the hosts
+    who prefer others over themselves even in need; whoever is saved from his own greed succeeds; and
+    8 more.'
   basis: reading
 - text: 'Jehoram''s campaign against Mesha of Moab: tagged by Claude (model), reading the Hebrew.'
   basis: reading

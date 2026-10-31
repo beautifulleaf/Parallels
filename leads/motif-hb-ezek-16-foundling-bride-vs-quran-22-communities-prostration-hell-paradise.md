@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- paradise-gold-bracelets-pearls-silk
 - bridal-adornment-catalogue
+- paradise-gold-bracelets-pearls-silk
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: In paradise the righteous are adorned with gold bracelets and pearls
-    and wear silk (weight 6.3); Catalogue of bridal finery: embroidered cloth, tahash sandals, linen,
-    silk, bracelets, necklace, nose-ring, earrings and a crown (weight 6.3). Pair score 12.6.'
+- text: 'Shared motifs, rarest first: Catalogue of bridal finery: embroidered cloth, tahash sandals, linen,
+    silk, bracelets, necklace, nose-ring, earrings and a crown (weight 7.3); In paradise the righteous
+    are adorned with gold bracelets and pearls and wear silk (weight 7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in Jerusalem the exposed foundling, God''s bride and the faithless harlot: The adorned bride
     trusts in her beauty and plays the harlot with every passer-by; Sons and daughters born to God are
@@ -34,8 +34,8 @@ evidence:
     them; Political alliances with Egypt, Assyria and Chaldea pictured as harlotry with lovers (''big
     of flesh''); An assembly stones the adulteress and hacks her with swords and burns her houses before
     many women; God gathers the adulteress''s lovers, strips her naked before them and hands her over
-    to be judged; Bride given a gold nose-ring and bracelets; Jerusalem''s origin is Canaanite: ''your
-    father was an Amorite and your mother a Hittite''; and 3 more.'
+    to be judged; Jerusalem''s origin is Canaanite: ''your father was an Amorite and your mother a Hittite'';
+    Man asked to spread his garment-wing over a woman as a sign of marriage; and 3 more.'
   basis: reading
 - text: 'Only in Six communities judged; all things prostrate; garments of fire and bracelets of gold:
     Hooked maces of iron (maqāmiʿ) drive back those who try to escape hell; God will judge between believers,

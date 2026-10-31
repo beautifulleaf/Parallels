@@ -14,34 +14,36 @@ layers:
 motifs:
 - mother-divinely-inspired
 - infant-set-adrift-as-divergence
-- sister-offers-nurse
 - returned-to-own-mother
+- sister-offers-nurse
 - found-by-royal-household
 - infant-set-adrift
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Mother receives divine instruction about the infant (weight 6.3);
-    Infant placed in a container and set on the water [divergence between the texts] (weight 6.3); Sister
-    offers to find a nurse (weight 5.8); Infant returned to his own mother to nurse (weight 5.8); Infant
-    found by members of a royal household (weight 5.6); Infant placed in a container and set on the water
-    (weight 5.6). Pair score 35.3.'
+- text: 'Shared motifs, rarest first: Mother receives divine instruction about the infant (weight 7.3);
+    Infant placed in a container and set on the water [divergence between the texts] (weight 7.3); Infant
+    returned to his own mother to nurse (weight 6.8); Sister offers to find a nurse (weight 6.8); Infant
+    found by members of a royal household (weight 6.6); Infant placed in a container and set on the water
+    (weight 6.6). Pair score 41.6.'
   basis: reading
 - text: 'Only in God recalls his favors to Moses from infancy to Midian: Moses stays years among the people
     of Midian before his call; Moses killed a man and God delivered him from distress, then tried him
-    with trials [divergence between the texts]; God calls, forms, knows or consecrates his servant or
-    prophet from the womb, before birth; Infant found by members of a royal household [divergence between
-    the texts]; Moses killed a man and God delivered him from distress, then tried him with trials; Hero
-    flees the king''s death sentence to a foreign land; Hero''s beauty is remarked on.'
+    with trials [divergence between the texts]; Infant found by members of a royal household [divergence
+    between the texts]; Moses killed a man and God delivered him from distress, then tried him with trials;
+    Hero flees the king''s death sentence to a foreign land; God calls, forms, knows or consecrates his
+    servant or prophet from the womb, before birth; Hero''s beauty is remarked on.'
   basis: reading
 - text: 'Only in Pharaoh''s oppression and the infant Moses on the water: Moses'' mother''s heart becomes
     empty and she nearly discloses him, but God steadies her heart; God wills to favor the oppressed and
     make them leaders (aʾimma) and inheritors; Pharaoh exalted himself and divided the land''s people
     into factions, oppressing one group; Infant adopted by a royal woman [divergence between the texts];
-    The oppressor slaughters the sons and lets the women live; Who decides that Moses be put on the water
-    [divergence between the texts]; Why Pharaoh oppresses Israel [divergence between the texts]; Infant
-    returned to his own mother to nurse [divergence between the texts]; Sister offers to find a nurse
-    [divergence between the texts]; Hāmān appears as Pharaoh''s minister and partner; Infant refuses other
-    wet nurses; Foster parent says: perhaps he will benefit us, or we will take him as a son; and 5 more.'
+    A foundling not born of her is taken in and adopted as a son by a royal or divine woman; A newborn
+    destined to bring down a ruler is hidden so that the ruler does not see and kill it [divergence between
+    the texts]; The oppressor slaughters the sons and lets the women live; Who decides that Moses be put
+    on the water [divergence between the texts]; Why Pharaoh oppresses Israel [divergence between the
+    texts]; Infant returned to his own mother to nurse [divergence between the texts]; A royal house takes
+    a foreign youth whose life is threatened as its son; Sister offers to find a nurse [divergence between
+    the texts]; and 9 more.'
   basis: reading
 - text: 'God recalls his favors to Moses from infancy to Midian: tagged by Claude (model), reading the
     Arabic.'
@@ -106,22 +108,6 @@ matches:
       Quran says ''cast him into the yamm'', with no vessel in this passage, using the word that elsewhere
       names the sea where Pharaoh drowns.'
 - kind: shared
-  label: Sister offers to find a nurse
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 20:40
-      lang: ar
-      text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
-        أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
-        وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
-  - tradition: islam
-    passages:
-    - ref: Quran 28:12
-      lang: ar
-      text: وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ
-        يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
-- kind: shared
   label: Infant returned to his own mother to nurse
   sides:
   - tradition: islam
@@ -137,6 +123,22 @@ matches:
       lang: ar
       text: فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ
         ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+- kind: shared
+  label: Sister offers to find a nurse
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:40
+      lang: ar
+      text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
+        أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
+        وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:12
+      lang: ar
+      text: وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ
+        يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
 - kind: shared
   label: Infant found by members of a royal household
   sides:

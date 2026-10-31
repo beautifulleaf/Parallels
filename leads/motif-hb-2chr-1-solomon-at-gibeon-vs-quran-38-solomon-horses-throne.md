@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Solomon asks of God and the gift none after him will match
-    [divergence between the texts] (weight 6.3); King must not multiply horses, wives or silver and gold,
-    nor return the people to Egypt (weight 5.3). Pair score 11.6.'
+    [divergence between the texts] (weight 7.3); King must not multiply horses, wives or silver and gold,
+    nor return the people to Egypt (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in Solomon at Gibeon asks for wisdom; his chariots, wealth and horse trade: A people as
     numerous as the dust of the earth; Offered any gift, the king asks for wisdom to judge rather than
@@ -35,7 +35,8 @@ evidence:
     by placing a body (jasad) on his throne; then he repented; Devils serve Solomon as builders and divers,
     and others are bound together in fetters; Solomon asks for a kingdom such as no one after him should
     have; Fine steeds shown to Solomon in the evening distract him from remembrance of God until the sun
-    hides; he has them brought back and strokes (or slashes) their legs and necks; Solomon''s horses [divergence
+    hides; he has them brought back and strokes (or slashes) their legs and necks; No king after the speaker
+    will equal (or be given) what he has [divergence between the texts]; Solomon''s horses [divergence
     between the texts]; King keeps tens of thousands of chariot horses and horsemen; The stormy wind is
     subjected to Solomon, blowing at his command; The enemy''s horses are hamstrung and their chariots
     burned by divine command; Devils (shayāṭīn) and jinn labor for Solomon, diving and building.'

@@ -19,26 +19,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''overturned cities'' (al-mu''tafikat), Lot''s towns (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Covenant at Moab; the secret apostate; the land like Sodom: All ranks stand before God,
     from the hewer of wood to the drawer of water; A root bearing poison and wormwood among you (secret
-    apostate); Covenant made with those present and with those not here today; Covenant made with those
-    present and with those not here today [divergence between the texts]; God has not given the people
-    a heart to know, eyes to see, ears to hear until today; God allotted the heavenly bodies (or gods)
-    to the other nations; Nations ask why God did this to the land and are answered: they forsook the
-    covenant; Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts]; Man who hears the curse but blesses himself in his heart: ''I shall have peace'';
-    In forty years of wandering the people lacked nothing (clothes did not wear out, feet did not swell);
-    Clothes did not wear out and feet did not swell for forty years; Land made brimstone and salt like
-    Sodom, Gomorrah, Admah and Zeboiim; and 2 more.'
+    apostate); Covenant made with those present and with those not here today [divergence between the
+    texts]; God has not given the people a heart to know, eyes to see, ears to hear until today; God allotted
+    the heavenly bodies (or gods) to the other nations; Nations ask why God did this to the land and are
+    answered: they forsook the covenant; Who was present at the revelation on the mountain, and who knows
+    it only by report [divergence between the texts]; Man who hears the curse but blesses himself in his
+    heart: ''I shall have peace''; Covenant made with those present and with those not here today; Land
+    made brimstone and salt like Sodom, Gomorrah, Admah and Zeboiim; In forty years of wandering the people
+    lacked nothing (clothes did not wear out, feet did not swell); Clothes did not wear out and feet did
+    not swell for forty years; and 2 more.'
   basis: reading
 - text: 'Only in Hypocrites who mock and the destroyed peoples: Hypocrites fear a surah will be revealed
     exposing what is in their hearts; Hypocrites mock the prophet as ''all ear'' (udhun), credulous; Like
     a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says ''I was
-    only joking''; God''s good pleasure (ridwan) is greater than the gardens of Eden; ''Hate evil, love
-    good, establish justice in the gate; perhaps God will be gracious to the remnant of Joseph''; Hypocrite
-    men and women enjoin wrong and forbid right and close their hands; Open your hand wide to the poor
+    only joking''; God''s good pleasure (ridwan) is greater than the gardens of Eden; Hypocrite men and
+    women enjoin wrong and forbid right and close their hands; ''Hate evil, love good, establish justice
+    in the gate; perhaps God will be gracious to the remnant of Joseph''; Open your hand wide to the poor
     brother; do not harden your heart or shut your hand; God forgets the damned today as they forgot the
     meeting of this day; Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian
     and the overturned cities; Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous

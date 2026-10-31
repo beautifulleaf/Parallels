@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Thamūd hew houses out of the mountains, among gardens, springs and
-    palms with tender spathes (weight 6.7). Pair score 6.7.'
+    palms with tender spathes (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Valley of vision; let us eat and drink; Shebna deposed, Eliakim given the key of David:
     Revelers say ''Let us eat and drink, for tomorrow we die'' when called to mourning; God will wind

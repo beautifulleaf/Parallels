@@ -20,12 +20,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those called God''s offspring are rather honored servants who do
-    not speak before him [response between the texts] (weight 6.7); Divine beings take human women as
-    wives (weight 6.7). Pair score 13.4.'
+    not speak before him [response between the texts] (weight 7.7); Divine beings take human women as
+    wives (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Sons of God, daughters of men, and the Nephilim: God limits human lifespan to 120 years;
-    Giants or heroes (Nephilim) born from divine-human unions; Maidens of restrained glance whom no man
-    or jinn has touched before them, like rubies and coral; Whether God has, begets or takes sons or other
+    Maidens of restrained glance whom no man or jinn has touched before them, like rubies and coral; Giants
+    or heroes (Nephilim) born from divine-human unions; Whether God has, begets or takes sons or other
     offspring [contrast between the texts].'
   basis: reading
 - text: 'Only in Creation not in jest; the unceasing angels and the argument from one God: God hurls the

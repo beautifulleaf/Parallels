@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Remove the dross from silver and a vessel comes out for the smith;
-    remove the wicked and the throne is established (weight 6.3). Pair score 6.3.'
+    remove the wicked and the throne is established (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The city of blood; the dross in the furnace; no man in the breach: Catalogue of social,
     sexual and cultic sins in the city: contempt of parents, oppression of stranger, orphan and widow,
@@ -31,8 +31,8 @@ evidence:
     hiding their eyes from the sabbaths; Jerusalem indicted as ''the city of bloodshed'' (ir ha-damim)
     with a catalogue of its crimes; False prophets daub a flimsy wall with whitewash (tafel); God''s storm,
     flood-rain and hailstones bring it down; Prophet told to clap his hands, stamp his foot and cry ''Ah!''
-    as a gesture of doom; List of forbidden close-kin unions (''uncovering nakedness''); A man must not
-    take his father''s wife (uncover his father''s skirt); Lending at interest or increase to a poor brother
+    as a gesture of doom; A man must not take his father''s wife (uncover his father''s skirt); List of
+    forbidden close-kin unions (''uncovering nakedness''); Lending at interest or increase to a poor brother
     is forbidden; and 1 more.'
   basis: reading
 - text: 'Only in The signs of creation, thunder and the parable of the foam (Surah 13:1-17): To every
@@ -42,10 +42,11 @@ evidence:
     watered with one water give different fruits: a sign; Parable: torrents and smelted metal throw up
     foam that vanishes, while what benefits people remains; The thunder glorifies God with his praise,
     and the angels too in awe of him; All in heaven and earth prostrate to God, willingly or unwillingly,
-    even their shadows morning and evening; God raised the heavens without pillars that you can see [divergence
-    between the texts]; Thunder is the roaring voice of God [divergence between the texts]; The thunder
-    glorifies God with his praise, and the angels too in awe of him [divergence between the texts]; God
-    shows lightning in fear and hope and sends thunderbolts on whom he wills; and 13 more.'
+    even their shadows morning and evening; A protector goes (stands) before and behind a man to guard
+    him [divergence between the texts]; God raised the heavens without pillars that you can see [divergence
+    between the texts]; Lightning, thunderbolts or hail sent from heaven at the god''s command strike
+    what he wills [divergence between the texts]; How thunder in the clouds relates to the god: his own
+    roar or a creature praising him [shared matter] [divergence between the texts]; and 20 more.'
   basis: reading
 - text: 'The city of blood; the dross in the furnace; no man in the breach: tagged by Claude (model),
     reading the Hebrew.'

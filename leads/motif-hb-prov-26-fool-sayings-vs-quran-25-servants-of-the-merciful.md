@@ -18,26 +18,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Contradictory pair: ''Do not answer a fool according to his folly''
-    / ''Answer a fool according to his folly'' (weight 6.3). Pair score 6.3.'
+    / ''Answer a fool according to his folly'' (weight 6.8). Pair score 6.8.'
   basis: reading
-- text: 'Only in Sayings on the fool (the ''book of fools''): Like a fluttering sparrow or a flying swallow,
-    a curse without cause does not alight; As a dog returns to its vomit, so a fool repeats his folly;
-    Like snow in summer or rain at harvest, honor is not fitting for a fool; He who sends a message by
-    the hand of a fool cuts off his own feet and drinks violence; A proverb (mashal) in the mouth of fools
-    is like lame legs or a thorn in a drunkard''s hand; Giving honor to a fool is like binding a stone
-    in a sling; There is more hope for a fool than for a man wise in his own eyes; A rod is for the back
-    of the fool (the senseless).'
+- text: 'Only in Sayings on the fool (the ''book of fools''): Like snow in summer or rain at harvest,
+    honor is not fitting for a fool; He who sends a message by the hand of a fool cuts off his own feet
+    and drinks violence; A proverb (mashal) in the mouth of fools is like lame legs or a thorn in a drunkard''s
+    hand; Giving honor to a fool is like binding a stone in a sling; Like a fluttering sparrow or a flying
+    swallow, a curse without cause does not alight; As a dog returns to its vomit, so a fool repeats his
+    folly; A rod is for the back of the fool (the senseless); There is more hope for a fool than for a
+    man wise in his own eyes.'
   basis: reading
 - text: 'Only in The virtues of the servants of the Merciful: For the repentant God changes their evil
     deeds into good deeds; Prayer: grant us from our spouses and offspring the comfort of our eyes; When
     they spend they are neither extravagant nor stingy, but in between; The righteous spend the night
     prostrating and standing before their Lord; The righteous are rewarded with the lofty chamber (al-ghurfa)
     and greeted with peace; The servants of the Merciful walk humbly on the earth and answer the ignorant
-    with ''Peace''; Though sins be like scarlet they shall be white as snow; though red as crimson, like
-    wool; Your wife a fruitful vine in the recesses of your house, your children like olive shoots around
-    your table; What God requires: to do justice, love hesed and walk humbly with your God; Prohibitions
-    of murder, adultery, theft and false witness [divergence between the texts]; Prohibitions of murder,
-    adultery, theft and false witness.'
+    with ''Peace''; Do not bear false witness (mtr n mdw n ʿḏꜣ / shahādat al-zūr); When the ignorant or
+    weak man disputes with you, do not engage him: leave him; Though sins be like scarlet they shall be
+    white as snow; though red as crimson, like wool; Your wife a fruitful vine in the recesses of your
+    house, your children like olive shoots around your table; What God requires: to do justice, love hesed
+    and walk humbly with your God; Prohibitions of murder, adultery, theft and false witness [divergence
+    between the texts]; and 1 more.'
   basis: reading
 - text: 'Sayings on the fool (the ''book of fools''): tagged by Claude (model), reading the Hebrew.'
   basis: reading

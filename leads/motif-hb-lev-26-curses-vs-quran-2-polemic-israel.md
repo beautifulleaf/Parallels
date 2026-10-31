@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''uncircumcised'' or covered heart [divergence between the texts]
-    (weight 6.3); The people''s ''uncircumcised heart'' must be humbled (weight 5.6). Pair score 11.9.'
+    (weight 7.3); The people''s ''uncircumcised heart'' must be humbled (weight 6.6). Pair score 14.0.'
   basis: reading
 - text: 'Only in Covenant curses, exile, and remembered covenant: Curse: your corpses will be heaped on
     the corpses of your idols; Punishments escalate sevenfold each time the people do not listen; Curse
@@ -29,19 +29,19 @@ evidence:
     like iron and the earth like bronze; Curse: ten women bake bread in one oven and it is doled out by
     weight; Humiliation is stamped on them wherever found except under a rope from God and a rope from
     men; While the people are in exile, the desolate land makes up its missed sabbath years; The people''s
-    ''uncircumcised heart'' must be humbled [divergence between the texts]; Curse: you will eat the flesh
-    of your sons and daughters; and 5 more.'
+    ''uncircumcised heart'' must be humbled [divergence between the texts]; God remembers his covenant
+    with Jacob, Isaac and Abraham even in exile; and 5 more.'
   basis: reading
 - text: 'Only in Polemic with the People of the Book: The love of the calf was made to sink (be drunk)
     into their hearts; If the next world is yours alone, wish for death: they never will; Enmity to Gabriel
     and Michael (Mikal) equated with enmity to God; Gabriel (Jibril) brings down the revelation upon the
-    prophet''s heart; Some wish to be granted a life of a thousand years; Israel made to drink the golden
-    calf [divergence between the texts]; Worship of God alone joined to duty to parents [divergence between
-    the texts]; Claim that the fire will touch them only for a few numbered days, rebutted; The idol is
-    burned, ground to powder, scattered on water and the people made to drink it; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); Woe to those who write the book with their
-    own hands and say it is from God, for a small price; Hypocrites profess faith before believers and
-    tell their own ''devils'' in private they were only mocking; and 15 more.'
+    prophet''s heart; Some wish to be granted a life of a thousand years; Whether anyone added words to,
+    or took words from, a sacred or ancient written text [divergence between the texts]; What is drunk
+    at the making of a covenant, and what the drinking does [divergence between the texts]; Israel made
+    to drink the golden calf [divergence between the texts]; Worship of God alone joined to duty to parents
+    [divergence between the texts]; Claim that the fire will touch them only for a few numbered days,
+    rebutted; The idol is burned, ground to powder, scattered on water and the people made to drink it;
+    Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna); and 18 more.'
   basis: reading
 - text: 'Covenant curses, exile, and remembered covenant: tagged by Claude (model), reading the Hebrew.'
   basis: reading

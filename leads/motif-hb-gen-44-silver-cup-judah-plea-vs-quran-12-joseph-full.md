@@ -14,8 +14,8 @@ traditions:
 layers:
 - motif
 motifs:
-- offer-substitute-as-divergence
 - planted-cup-as-divergence
+- offer-substitute-as-divergence
 - planted-cup
 - thief-penalty-set-by-brothers
 - offer-substitute
@@ -25,12 +25,12 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A brother offers himself or another in place of the youngest [divergence
-    between the texts] (weight 6.7); Hero''s cup is hidden in the youngest brother''s bag [divergence
-    between the texts] (weight 6.7); Hero''s cup is hidden in the youngest brother''s bag (weight 6.0);
-    The brothers themselves name the thief''s penalty (weight 6.0); A brother offers himself or another
-    in place of the youngest (weight 6.0); Brothers pursued and accused of theft (weight 5.8); Search
-    proceeds through the others'' bags before the youngest''s (weight 5.8). Pair score 42.9.'
+- text: 'Shared motifs, rarest first: Hero''s cup is hidden in the youngest brother''s bag [divergence
+    between the texts] (weight 7.7); A brother offers himself or another in place of the youngest [divergence
+    between the texts] (weight 7.7); Hero''s cup is hidden in the youngest brother''s bag (weight 7.1);
+    The brothers themselves name the thief''s penalty (weight 7.1); A brother offers himself or another
+    in place of the youngest (weight 7.1); Brothers pursued and accused of theft (weight 6.8); Search
+    proceeds through the others'' bags before the youngest''s (weight 6.8). Pair score 50.3.'
   basis: reading
 - text: 'Only in The silver cup and Judah''s plea: A ruler''s silver cup used for divination; A father''s
     life is bound up with the life of his youngest son; Brothers confess their old crime in front of the
@@ -47,7 +47,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 102 more.'
+    brings back the missing royal cup, with a guarantor; and 140 more.'
   basis: reading
 - text: 'The silver cup and Judah''s plea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

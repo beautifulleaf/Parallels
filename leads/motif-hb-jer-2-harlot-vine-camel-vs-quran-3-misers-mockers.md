@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1). Pair score
-    5.1.'
+- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 6.1). Pair score
+    6.1.'
   basis: reading
 - text: 'Only in Degenerate vine, she-camel in heat, gods of wood and stone: ''Can a virgin forget her
     ornaments or a bride her sash?'' yet my people have forgotten me; God planted a choice vine of pure
@@ -42,9 +42,10 @@ evidence:
     in sin; Whether God is in need and humans rich [contrast between the texts]; An offering consumed
     by fire as proof of the true God or messenger [response between the texts]; Fire from heaven falls
     and consumes the offering, wood, stones, dust and water; God will not leave believers as they are
-    until he separates the bad from the good; What man can live and not see death, or deliver his soul
-    from the hand of Sheol?; Every soul shall taste death; Fire comes out from before God and consumes
-    the offering on the altar; and 3 more.'
+    until he separates the bad from the good; Wrongdoers take the deity''s delay for indifference; the
+    delay is not a release; What man can live and not see death, or deliver his soul from the hand of
+    Sheol?; A writer reproaches his addressee: the oath I made you swear before the gods you have thrown
+    behind you; and 5 more.'
   basis: reading
 - text: 'Degenerate vine, she-camel in heat, gods of wood and stone: tagged by Claude (model), reading
     the Hebrew.'

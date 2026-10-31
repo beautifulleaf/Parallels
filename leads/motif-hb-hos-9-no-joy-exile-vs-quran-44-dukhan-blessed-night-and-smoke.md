@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
-    (weight 5.1). Pair score 5.1.'
+    (weight 6.1). Pair score 6.1.'
   basis: reading
 - text: 'Only in No rejoicing for Israel; exile, the mad prophet, Baal-peor: The apostasy at Baal-peor;
     Their sacrifices are like the bread of mourners: all who eat it are defiled; Prayer/curse: ''Give
@@ -35,11 +35,11 @@ evidence:
     then comes ''the greatest assault'' (al-batsha al-kubra); The Book was sent down on a blessed night
     in which every wise matter is decreed/distinguished (cf. the Night of Decree); Oath ''By the clear
     Book!'' opening a surah; A day when the sky brings a visible smoke (dukhan) covering the people as
-    a painful punishment; Smoke rises from the destroyed land like smoke of a kiln; God kills and makes
-    alive, brings down to Sheol and raises up; ''There is none like you and no God beside you''; The king
-    breaks his promise to release the people once a plague is lifted; God identifies himself as God of
-    Abraham, Isaac and Jacob; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning,
-    e.g. alif-lam-mim.'
+    a painful punishment; Smoke envelops house or people as a calamity [divergence between the texts];
+    Smoke rises from the destroyed land like smoke of a kiln; A set day or night on which the fates or
+    every matter are decided; The king breaks his promise to release the people once a plague is lifted;
+    God identifies himself as God of Abraham, Isaac and Jacob; ''There is none like you and no God beside
+    you''; God kills and makes alive, brings down to Sheol and raises up; and 1 more.'
   basis: reading
 - text: 'No rejoicing for Israel; exile, the mad prophet, Baal-peor: tagged by Claude (model), reading
     the Hebrew.'

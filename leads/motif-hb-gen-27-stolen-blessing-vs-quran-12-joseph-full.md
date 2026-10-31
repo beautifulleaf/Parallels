@@ -18,18 +18,18 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Father recognizes his son''s scent (weight 6.0); The father''s eyesight
-    fails (weight 5.8). Pair score 11.8.'
+- text: 'Shared motifs, rarest first: Father recognizes his son''s scent (weight 7.1); The father''s eyesight
+    fails (weight 6.8). Pair score 13.9.'
   basis: reading
 - text: 'Only in Jacob steals Esau''s blessing: Father requests a favorite dish of game before blessing;
-    Blessing of the dew of heaven, fatness of the earth, grain and wine; Aged, blind father prepares to
-    give his deathbed blessing to the firstborn; Wronged brother plans to kill his brother once their
-    father has died; The cheated brother cries a great and bitter cry and weeps for a blessing; Smooth
-    son disguises himself with goatskins and his brother''s garments to deceive a blind father; Hero flees
-    to his mother''s brother in a foreign land; A spoken blessing, once given, cannot be retracted; Elder
-    son told he will live by the sword, serve his brother, then break his yoke; Mother devises a ruse
-    so her favorite younger son gets the blessing; Blind father notes the voice is one son''s but the
-    hands are the other''s; Oracle or blessing that the elder will serve the younger; and 1 more.'
+    Aged, blind father prepares to give his deathbed blessing to the firstborn; Wronged brother plans
+    to kill his brother once their father has died; The cheated brother cries a great and bitter cry and
+    weeps for a blessing; Smooth son disguises himself with goatskins and his brother''s garments to deceive
+    a blind father; Hero flees to his mother''s brother in a foreign land; Elder son told he will live
+    by the sword, serve his brother, then break his yoke; Mother devises a ruse so her favorite younger
+    son gets the blessing; Blind father notes the voice is one son''s but the hands are the other''s;
+    Oracle or blessing that the elder will serve the younger; Blessing of the dew of heaven, fatness of
+    the earth, grain and wine; Second twin born grasping his brother''s heel; and 1 more.'
   basis: reading
 - text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
     town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
@@ -41,7 +41,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 107 more.'
+    brings back the missing royal cup, with a guarantor; and 145 more.'
   basis: reading
 - text: 'Jacob steals Esau''s blessing: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: YHWH is the true God, the living God and everlasting King at whose
-    wrath the earth quakes (weight 6.3). Pair score 6.3.'
+    wrath the earth quakes (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Idols like scarecrows in a cucumber field: Do not learn the way of the nations or be
     dismayed by the signs of the heavens, at which the nations are dismayed; Idols are like a scarecrow
@@ -37,13 +37,13 @@ evidence:
     now the believers triumph; God tells the damned pleading to leave hell: ''Be driven away into it and
     do not speak to me''; At death the sinner begs ''My Lord, send me back, that I may do good''; it is
     refused; When the trumpet is blown there will be no ties of kinship between them, nor will they ask
-    after one another; Seek refuge in God from the goadings of the devils and from their presence; A dying
-    person''s plea to God for more life, and God''s answer [contrast between the texts]; Whether those
-    who die and return to dust rise again [divergence between the texts]; On that day a great shofar will
-    be blown and the lost in Assyria and outcasts in Egypt will come and worship on the holy mountain;
-    Just scales are set up on the day of resurrection; even a mustard seed''s weight is brought forth;
-    ''Let God weigh me in just balances and know my integrity''; At the resurrection people think they
-    tarried only ten days, or a day, or part of a day; and 5 more.'
+    after one another; Seek refuge in God from the goadings of the devils and from their presence; The
+    dead cannot come back to life on earth; A dying person''s plea to God for more life, and God''s answer
+    [contrast between the texts]; Whether those who die and return to dust rise again [divergence between
+    the texts]; On that day a great shofar will be blown and the lost in Assyria and outcasts in Egypt
+    will come and worship on the holy mountain; A span of many years is set against a single day [divergence
+    between the texts]; At the judgment after death a whole lifetime is reckoned as an hour or a day;
+    and 10 more.'
   basis: reading
 - text: 'Idols like scarecrows in a cucumber field: tagged by Claude (model), reading the Hebrew.'
   basis: reading

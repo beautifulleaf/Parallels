@@ -14,15 +14,15 @@ traditions:
 layers:
 - motif
 motifs:
-- family-migrates-to-egypt
 - hero-imprisoned
+- family-migrates-to-egypt
 - hero-sees-divine-plan
 - hero-appointed-over-storehouses
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The whole family moves to Egypt (weight 5.8); Hero thrown into prison
-    (weight 5.8); Hero declares that God turned the brothers'' deed to good (weight 5.6); Hero placed
-    over the land''s storehouses or the kingdom (weight 5.6). Pair score 22.7.'
+- text: 'Shared motifs, rarest first: Hero thrown into prison (weight 6.8); The whole family moves to
+    Egypt (weight 6.8); Hero declares that God turned the brothers'' deed to good (weight 6.6); Hero placed
+    over the land''s storehouses or the kingdom (weight 6.6). Pair score 27.0.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -37,12 +37,12 @@ evidence:
     land for three days; and 29 more.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 53 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 53 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'
@@ -51,7 +51,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: The whole family moves to Egypt
+finding: Hero thrown into prison
 kinds:
 - shared
 units:
@@ -62,6 +62,19 @@ units:
   title: Joseph in the Quran (Surah 12)
   tradition: islam
 matches:
+- kind: shared
+  label: Hero thrown into prison
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:18
+      lang: he
+      text: עִנּ֣וּ בַכֶּ֣בֶל רגליו רַגְל֑וֹ בַּ֝רְזֶ֗ל בָּ֣אָה נַפְשֽׁוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 12:35
+      lang: ar
+      text: ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ
 - kind: shared
   label: The whole family moves to Egypt
   sides:
@@ -80,19 +93,6 @@ matches:
       lang: ar
       text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن
         شَآءَ ٱللَّهُ ءَامِنِينَ
-- kind: shared
-  label: Hero thrown into prison
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 105:18
-      lang: he
-      text: עִנּ֣וּ בַכֶּ֣בֶל רגליו רַגְל֑וֹ בַּ֝רְזֶ֗ל בָּ֣אָה נַפְשֽׁוֹ
-  - tradition: islam
-    passages:
-    - ref: Quran 12:35
-      lang: ar
-      text: ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ
 - kind: shared
   label: Hero declares that God turned the brothers' deed to good
   sides:

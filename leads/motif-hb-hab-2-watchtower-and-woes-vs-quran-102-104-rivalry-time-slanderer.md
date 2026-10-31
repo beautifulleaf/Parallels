@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to every slanderer and backbiter (humaza lumaza) who amasses
-    and counts wealth, thinking it makes him immortal (weight 5.6). Pair score 5.6.'
+    and counts wealth, thinking it makes him immortal (weight 6.6). Pair score 6.6.'
   basis: reading
-- text: 'Only in The vision on tablets; the righteous live by faith; five woes: The arrogant man''s appetite
-    is wide as Sheol and like Death never satisfied, gathering all nations; Woe to one who makes his neighbor
-    drunk in order to gaze on his nakedness; The prophet stations himself on his watchpost to see what
-    God will answer to his complaint; ''The righteous shall live by his faith (emunah)''; A series of
-    ''woe'' (hoy) taunt-sayings against an oppressor; The stone cries out from the wall and the beam answers
-    from the woodwork; The vision is for an appointed time; though it tarry, wait for it, for it will
-    surely come; Write the vision plainly on tablets so that a runner may read it; Woe to the one who
-    says to wood ''Awake!'' and to dumb stone ''Arise!''; there is no breath in it; The earth will be
-    full of the knowledge of YHWH as the waters cover the sea; Peoples labor only for fire and nations
-    weary themselves for nothing; ''Hush (has) before YHWH, all the earth'', for he is in his holy temple
-    or has roused himself; and 7 more.'
+- text: 'Only in The vision on tablets; the righteous live by faith; five woes: Woe to one who makes his
+    neighbor drunk in order to gaze on his nakedness; The prophet stations himself on his watchpost to
+    see what God will answer to his complaint; ''The righteous shall live by his faith (emunah)''; A series
+    of ''woe'' (hoy) taunt-sayings against an oppressor; The stone cries out from the wall and the beam
+    answers from the woodwork; The vision is for an appointed time; though it tarry, wait for it, for
+    it will surely come; Write the vision plainly on tablets so that a runner may read it; Woe to the
+    one who says to wood ''Awake!'' and to dumb stone ''Arise!''; there is no breath in it; The earth
+    will be full of the knowledge of YHWH as the waters cover the sea; The arrogant man''s appetite is
+    wide as Sheol and like Death never satisfied, gathering all nations; Peoples labor only for fire and
+    nations weary themselves for nothing; ''Hush (has) before YHWH, all the earth'', for he is in his
+    holy temple or has roused himself; and 7 more.'
   basis: reading
 - text: 'Only in Rivalry, time and the slanderer: Knowledge of certainty (''ilm al-yaqin) and the eye
     of certainty (''ayn al-yaqin): you will see hell; God''s kindled fire rises over the hearts and is
@@ -39,9 +39,10 @@ evidence:
     Rivalry in piling up (al-takathur) distracts people until they visit the graves; they will be asked
     about the pleasures; A fire is closed over the damned (mu''sada); Riches kept by their owner to his
     hurt, lost in a bad venture, so that his son has nothing in hand; Hell given proper names: Laza (scalp-stripper),
-    Saqar (scorcher, leaves nothing), al-Hutama (the crusher), Hawiya (the abyss); Do not go about as
-    a talebearer among your people; Rhetorical formula ''And what will make you know what X is?'' (wa
-    ma adraka ma) introducing an eschatological term.'
+    Saqar (scorcher, leaves nothing), al-Hutama (the crusher), Hawiya (the abyss); The evil is shut in
+    below under a closed cover; Do not go about as a talebearer among your people; Wealth does not profit
+    on the day of wrath; Rhetorical formula ''And what will make you know what X is?'' (wa ma adraka ma)
+    introducing an eschatological term.'
   basis: reading
 - text: 'The vision on tablets; the righteous live by faith; five woes: tagged by Claude (model), reading
     the Hebrew.'

@@ -13,23 +13,23 @@ traditions:
 layers:
 - motif
 motifs:
-- divine-favor-in-servitude
-- hero-refuses-citing-master-and-god
 - garment-evidence-in-seduction
+- bought-by-egyptian-official
 - hero-imprisoned
 - false-accusation-by-wife
-- bought-by-egyptian-official
+- hero-refuses-citing-master-and-god
+- divine-favor-in-servitude
 - alone-in-house
 - masters-wife-seduces
 - hero-beautiful
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: God''s favor rests on the hero while he is a slave or prisoner (weight
-    6.0); Hero refuses, citing loyalty to his master and to God (weight 6.0); Hero''s garment becomes
-    evidence in the seduction episode (weight 6.0); Hero thrown into prison (weight 5.8); The woman falsely
-    accuses the hero of assault (weight 5.8); Hero bought by an Egyptian official (weight 5.8); Seduction
-    attempt when the two are alone in the house (weight 5.8); The master''s wife tries to seduce the hero
-    (weight 5.8); Hero''s beauty is remarked on (weight 4.9). Pair score 51.8.'
+- text: 'Shared motifs, rarest first: Hero''s garment becomes evidence in the seduction episode (weight
+    7.1); Hero bought by an Egyptian official (weight 6.8); Hero thrown into prison (weight 6.8); The
+    woman falsely accuses the hero of assault (weight 6.6); Hero refuses, citing loyalty to his master
+    and to God (weight 6.6); God''s favor rests on the hero while he is a slave or prisoner (weight 6.6);
+    Seduction attempt when the two are alone in the house (weight 6.4); The master''s wife tries to seduce
+    the hero (weight 6.1); Hero''s beauty is remarked on (weight 5.5). Pair score 58.7.'
   basis: reading
 - text: 'Only in Joseph in Potiphar''s house and in prison: The jailer puts all the prisoners in the hero''s
     charge; God blesses a foreigner''s house for the sake of the righteous slave; The woman falsely accuses
@@ -39,12 +39,12 @@ evidence:
     household to the hero.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 48 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 48 more.'
   basis: reading
 - text: 'Joseph in Potiphar''s house and in prison: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -52,7 +52,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: God's favor rests on the hero while he is a slave or prisoner
+finding: Hero's garment becomes evidence in the seduction episode
 kinds:
 - shared
 units:
@@ -63,51 +63,6 @@ units:
   title: Joseph in the Quran (Surah 12)
   tradition: islam
 matches:
-- kind: shared
-  label: God's favor rests on the hero while he is a slave or prisoner
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 39:2
-      lang: he
-      text: וַיְהִ֤י יְהוָה֙ אֶת יוֹסֵ֔ף וַיְהִ֖י אִ֣ישׁ מַצְלִ֑יחַ וַיְהִ֕י בְּבֵ֥ית אֲדֹנָ֖יו הַמִּצְרִֽי
-    - ref: Gen 39:3
-      lang: he
-      text: וַיַּ֣רְא אֲדֹנָ֔יו כִּ֥י יְהוָ֖ה אִתּ֑וֹ וְכֹל֙ אֲשֶׁר ה֣וּא עֹשֶׂ֔ה יְהוָ֖ה מַצְלִ֥יחַ בְּיָדֽוֹ
-    - ref: Gen 39:21
-      lang: he
-      text: וַיְהִ֤י יְהוָה֙ אֶת יוֹסֵ֔ף וַיֵּ֥ט אֵלָ֖יו חָ֑סֶד וַיִּתֵּ֣ן חִנּ֔וֹ בְּעֵינֵ֖י שַׂ֥ר בֵּית
-        הַסֹּֽהַר
-  - tradition: islam
-    passages:
-    - ref: Quran 12:21
-      lang: ar
-      text: وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ
-        أَوْ نَتَّخِذَهُۥ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ
-        ٱلْأَحَادِيثِ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
-    - ref: Quran 12:22
-      lang: ar
-      text: وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
-- kind: shared
-  label: Hero refuses, citing loyalty to his master and to God
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 39:8
-      lang: he
-      text: וַיְמָאֵ֓ן וַיֹּ֨אמֶר֙ אֶל אֵ֣שֶׁת אֲדֹנָ֔יו הֵ֣ן אֲדֹנִ֔י לֹא יָדַ֥ע אִתִּ֖י מַה בַּבָּ֑יִת
-        וְכֹ֥ל אֲשֶׁר יֶשׁ ל֖וֹ נָתַ֥ן בְּיָדִֽי
-    - ref: Gen 39:9
-      lang: he
-      text: אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּנִּי֒ וְלֹֽא חָשַׂ֤ךְ מִמֶּ֨נִּי֙ מְא֔וּמָה כִּ֥י
-        אִם אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי
-        לֵֽאלֹהִֽים
-  - tradition: islam
-    passages:
-    - ref: Quran 12:23
-      lang: ar
-      text: وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ
-        هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
 - kind: shared
   label: Hero's garment becomes evidence in the seduction episode
   sides:
@@ -139,6 +94,22 @@ matches:
       lang: ar
       text: وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّٰدِقِينَ
     note: shirt torn from behind
+- kind: shared
+  label: Hero bought by an Egyptian official
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 39:1
+      lang: he
+      text: וְיוֹסֵ֖ף הוּרַ֣ד מִצְרָ֑יְמָה וַיִּקְנֵ֡הוּ פּוֹטִיפַר֩ סְרִ֨יס פַּרְעֹ֜ה שַׂ֤ר הַטַּבָּחִים֙
+        אִ֣ישׁ מִצְרִ֔י מִיַּד֙ הַיִּשְׁמְעֵאלִ֔ים אֲשֶׁ֥ר הוֹרִדֻ֖הוּ שָֽׁמָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 12:21
+      lang: ar
+      text: وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ
+        أَوْ نَتَّخِذَهُۥ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ
+        ٱلْأَحَادِيثِ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 - kind: shared
   label: Hero thrown into prison
   sides:
@@ -175,14 +146,40 @@ matches:
       text: وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ
         قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ
 - kind: shared
-  label: Hero bought by an Egyptian official
+  label: Hero refuses, citing loyalty to his master and to God
   sides:
   - tradition: judaism
     passages:
-    - ref: Gen 39:1
+    - ref: Gen 39:8
       lang: he
-      text: וְיוֹסֵ֖ף הוּרַ֣ד מִצְרָ֑יְמָה וַיִּקְנֵ֡הוּ פּוֹטִיפַר֩ סְרִ֨יס פַּרְעֹ֜ה שַׂ֤ר הַטַּבָּחִים֙
-        אִ֣ישׁ מִצְרִ֔י מִיַּד֙ הַיִּשְׁמְעֵאלִ֔ים אֲשֶׁ֥ר הוֹרִדֻ֖הוּ שָֽׁמָּה
+      text: וַיְמָאֵ֓ן וַיֹּ֨אמֶר֙ אֶל אֵ֣שֶׁת אֲדֹנָ֔יו הֵ֣ן אֲדֹנִ֔י לֹא יָדַ֥ע אִתִּ֖י מַה בַּבָּ֑יִת
+        וְכֹ֥ל אֲשֶׁר יֶשׁ ל֖וֹ נָתַ֥ן בְּיָדִֽי
+    - ref: Gen 39:9
+      lang: he
+      text: אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּנִּי֒ וְלֹֽא חָשַׂ֤ךְ מִמֶּ֨נִּי֙ מְא֔וּמָה כִּ֥י
+        אִם אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי
+        לֵֽאלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 12:23
+      lang: ar
+      text: وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ
+        هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
+- kind: shared
+  label: God's favor rests on the hero while he is a slave or prisoner
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 39:2
+      lang: he
+      text: וַיְהִ֤י יְהוָה֙ אֶת יוֹסֵ֔ף וַיְהִ֖י אִ֣ישׁ מַצְלִ֑יחַ וַיְהִ֕י בְּבֵ֥ית אֲדֹנָ֖יו הַמִּצְרִֽי
+    - ref: Gen 39:3
+      lang: he
+      text: וַיַּ֣רְא אֲדֹנָ֔יו כִּ֥י יְהוָ֖ה אִתּ֑וֹ וְכֹל֙ אֲשֶׁר ה֣וּא עֹשֶׂ֔ה יְהוָ֖ה מַצְלִ֥יחַ בְּיָדֽוֹ
+    - ref: Gen 39:21
+      lang: he
+      text: וַיְהִ֤י יְהוָה֙ אֶת יוֹסֵ֔ף וַיֵּ֥ט אֵלָ֖יו חָ֑סֶד וַיִּתֵּ֣ן חִנּ֔וֹ בְּעֵינֵ֖י שַׂ֥ר בֵּית
+        הַסֹּֽהַר
   - tradition: islam
     passages:
     - ref: Quran 12:21
@@ -190,6 +187,9 @@ matches:
       text: وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ
         أَوْ نَتَّخِذَهُۥ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ
         ٱلْأَحَادِيثِ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+    - ref: Quran 12:22
+      lang: ar
+      text: وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 - kind: shared
   label: Seduction attempt when the two are alone in the house
   sides:

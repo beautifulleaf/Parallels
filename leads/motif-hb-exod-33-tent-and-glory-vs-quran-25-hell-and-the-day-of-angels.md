@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A request to see God, by the prophet or by the people [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Mourning, the tent outside the camp, and Moses sees God''s back: God refuses to go among
     the people lest he consume them on the way; Joshua, the young attendant, never leaves the tent; God
-    tells the prophet: I know you by name and you have found favor; The people strip off their ornaments
-    in mourning or penitence; The people stand at their tent doors and bow as the prophet goes to meet
-    God; A tent of meeting pitched outside the camp where all who seek God go; God''s own Presence (face)
-    will go with the people; God declares he will be gracious to whom he will be gracious; Moses asks
-    to see God, his glory or God himself [divergence between the texts]; God called Moses and drew him
-    near in confidential converse (najiyy); Moses travels with his young servant (fata); After the calf
+    tells the prophet: I know you by name and you have found favor; The people stand at their tent doors
+    and bow as the prophet goes to meet God; A tent of meeting pitched outside the camp where all who
+    seek God go; God''s own Presence (face) will go with the people; God declares he will be gracious
+    to whom he will be gracious; Moses asks to see God, his glory or God himself [divergence between the
+    texts]; God called Moses and drew him near in confidential converse (najiyy); Moses travels with his
+    young servant (fata); The people strip off their ornaments in mourning or penitence; After the calf
     the people mourn or repent of what they did [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Raging hell, the disowning of false gods, the split sky and the regretful wrongdoer:
@@ -40,8 +40,8 @@ evidence:
     wishing he had not taken so-and-so as a friend; The sky torn open for a descent from heaven [divergence
     between the texts]; When the damned are cast in they hear hell gasping/roaring as it boils, nearly
     bursting with rage; The sky splits and is frail that day, and the angels are on its borders; Earlier
-    messengers were only men who ate food and were not immortal; The wicked are like chaff driven by the
-    wind; and 1 more.'
+    messengers were only men who ate food and were not immortal; The wrongdoer''s works are carried off
+    by the wind and reckoned as nothing (a breath; and 3 more.'
   basis: reading
 - text: 'Mourning, the tent outside the camp, and Moses sees God''s back: tagged by Claude (model), reading
     the Hebrew.'

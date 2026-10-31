@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rain from the sky gives life to the earth after its death, a sign
-    of resurrection (weight 4.4). Pair score 4.4.'
+    of resurrection (weight 5.5). Pair score 5.5.'
   basis: reading
 - text: 'Only in Song of the strong city; your dead shall live: Other lords ruled us; they are dead, they
     will not live; shades (rephaim) will not rise; their memory is wiped out; God''s dew is a ''dew of
@@ -30,21 +30,21 @@ evidence:
     perfect peace (shalom shalom) because it trusts in him; ''My soul yearns for you in the night; my
     spirit within me seeks you at dawn''; ''We have a strong city... Open the gates that the righteous
     nation that keeps faith may enter''; In Yah YHWH is an everlasting rock (tsur olamim); What the dead
-    say when they wake from the dust [divergence between the texts]; On God''s day all that is lofty (cedars
-    of Lebanon, oaks of Bashan, towers, ships of Tarshish) is brought low and God alone exalted; The Gardens
-    of Eden have their gates opened for the righteous; and 7 more.'
+    say when they wake from the dust [divergence between the texts]; The Gardens of Eden have their gates
+    opened for the righteous; God lets the people discover the sleepers so they know his promise of resurrection
+    is true; and 7 more.'
   basis: reading
 - text: 'Only in The Hour, the times of praise, and the signs of God: Everything in the heavens and the
-    earth is devoutly obedient (qanit) to God; The diversity of human languages and colors is one of God''s
-    signs; God created mates for humans from their own selves so they may find rest in them, with love
-    and mercy between them; God did not wrong them; they wronged themselves (refrain); At night the beasts
-    of the forest prowl and lions roar for prey; at sunrise they withdraw and man goes out to work till
-    evening; Why humans speak many languages [divergence between the texts]; Refrain ''among his signs
-    (ayat) is...'' listing natural phenomena as evidence of God; God shows lightning to inspire fear and
-    hope (of rain); Nations distinguished by land, language and clan; How God made the human mate, and
-    for what purpose [divergence between the texts]; God brings the living out of the dead and the dead
-    out of the living; Glorify God in the evening, morning, afternoon and noon (set times of praise or
-    prayer); and 4 more.'
+    earth is devoutly obedient (qanit) to God; God created mates for humans from their own selves so they
+    may find rest in them, with love and mercy between them; The many languages of mankind and the deity''s
+    part in them [divergence between the texts]; The diversity of human languages and colors is one of
+    God''s signs; God made human tongues different in speech and their skins (colours) distinct; God did
+    not wrong them; they wronged themselves (refrain); Go up on (travel through) the ruins of the ancients
+    and look: what the sight teaches [divergence between the texts]; Why humans speak many languages [divergence
+    between the texts]; Refrain ''among his signs (ayat) is...'' listing natural phenomena as evidence
+    of God; God shows lightning to inspire fear and hope (of rain); How God made the human mate, and for
+    what purpose [divergence between the texts]; God brings the living out of the dead and the dead out
+    of the living; and 7 more.'
   basis: reading
 - text: 'Song of the strong city; your dead shall live: tagged by Claude (model), reading the Hebrew.'
   basis: reading

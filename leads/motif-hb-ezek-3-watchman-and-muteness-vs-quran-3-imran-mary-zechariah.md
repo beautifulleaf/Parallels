@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Muteness imposed as a sign [divergence between the texts] (weight
-    6.7); God makes the prophet''s tongue cleave to his palate so he is mute except when God speaks (weight
-    6.3). Pair score 13.0.'
+    7.7); God makes the prophet''s tongue cleave to his palate so he is mute except when God speaks (weight
+    7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Ezekiel appointed watchman; bound and struck dumb in his house: The glory seen by the
     river appears again to the prophet in a valley/plain; The prophet is told to shut himself in his house;
@@ -42,8 +42,8 @@ evidence:
     by gestures; Zechariah is made Mary''s guardian; Prophet promises a childless woman with an old husband
     a son ''at this season next year''; God chose Adam, Noah, the family of Abraham and the family of
     Imran over the worlds; Doubt voiced at the promise of a son in old age [divergence between the texts];
-    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; Mother vows her (unborn)
-    child to God''s service [divergence between the texts]; and 12 more.'
+    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; A mother commits her
+    child to her god''s keeping, against sin or against the evil one; and 15 more.'
   basis: reading
 - text: 'Ezekiel appointed watchman; bound and struck dumb in his house: tagged by Claude (model), reading
     the Hebrew.'

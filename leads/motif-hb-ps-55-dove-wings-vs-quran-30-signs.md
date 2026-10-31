@@ -20,29 +20,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Glorify God in the evening, morning, afternoon and noon (set times
-    of praise or prayer) (weight 5.8). Pair score 5.8.'
+    of praise or prayer) (weight 6.8). Pair score 6.8.'
   basis: reading
-- text: 'Only in Psalm 55, wings of a dove and the treacherous friend: Speaker betrayed not by an enemy
-    but by an intimate companion with whom he shared counsel in God''s house; Men of blood and deceit
-    will not live out half their days; Cast your burden on YHWH and he will sustain you; Wish for wings
-    like a dove to fly away and rest in the wilderness; God confuses human language; Wish that the enemies
-    go down alive into Sheol; Guard the prayers and the middle prayer (al-salat al-wusta); A man whose
-    speech pleases, who calls God to witness, but goes forth to destroy tillage and offspring; Perform
+- text: 'Only in Psalm 55, wings of a dove and the treacherous friend: Men of blood and deceit will not
+    live out half their days; Cast your burden on YHWH and he will sustain you; Wish for wings like a
+    dove to fly away and rest in the wilderness; Wish that the enemies go down alive into Sheol; Guard
+    the prayers and the middle prayer (al-salat al-wusta); A man whose speech pleases, who calls God to
+    witness, but goes forth to destroy tillage and offspring; Speaker betrayed not by an enemy but by
+    an intimate companion with whom he shared counsel in God''s house; God confuses human language; Perform
     prayer at the two ends of the day and in the near hours of the night; Enemy''s words are smoother
     than butter or oil but are drawn swords; The wicked are brought down to the pit (be''er shahat / bor),
     the underworld; Prayer at evening, morning and noon (three fixed times a day); and 1 more.'
   basis: reading
 - text: 'Only in The Hour, the times of praise, and the signs of God: Everything in the heavens and the
-    earth is devoutly obedient (qanit) to God; The diversity of human languages and colors is one of God''s
-    signs; God created mates for humans from their own selves so they may find rest in them, with love
-    and mercy between them; God did not wrong them; they wronged themselves (refrain); At night the beasts
-    of the forest prowl and lions roar for prey; at sunrise they withdraw and man goes out to work till
-    evening; Why humans speak many languages [divergence between the texts]; Refrain ''among his signs
-    (ayat) is...'' listing natural phenomena as evidence of God; God shows lightning to inspire fear and
-    hope (of rain); Nations distinguished by land, language and clan; How God made the human mate, and
-    for what purpose [divergence between the texts]; God brings the living out of the dead and the dead
-    out of the living; God originates creation and then repeats it (resurrection as re-creation); and
-    4 more.'
+    earth is devoutly obedient (qanit) to God; God created mates for humans from their own selves so they
+    may find rest in them, with love and mercy between them; The many languages of mankind and the deity''s
+    part in them [divergence between the texts]; The diversity of human languages and colors is one of
+    God''s signs; God made human tongues different in speech and their skins (colours) distinct; God did
+    not wrong them; they wronged themselves (refrain); Go up on (travel through) the ruins of the ancients
+    and look: what the sight teaches [divergence between the texts]; Why humans speak many languages [divergence
+    between the texts]; Refrain ''among his signs (ayat) is...'' listing natural phenomena as evidence
+    of God; God shows lightning to inspire fear and hope (of rain); How God made the human mate, and for
+    what purpose [divergence between the texts]; God brings the living out of the dead and the dead out
+    of the living; and 7 more.'
   basis: reading
 - text: 'Psalm 55, wings of a dove and the treacherous friend: tagged by Claude (model), reading the Hebrew.'
   basis: reading

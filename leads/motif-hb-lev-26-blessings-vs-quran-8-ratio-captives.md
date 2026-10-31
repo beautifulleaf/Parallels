@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Blessing: five of you will chase a hundred, a hundred ten thousand
-    (weight 6.7); A ratio of the few who defeat (or are routed by) the many [divergence between the texts]
-    (weight 6.3). Pair score 13.0.'
+    (weight 7.7); A ratio of the few who defeat (or are routed by) the many [divergence between the texts]
+    (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Covenant blessings for obedience: God promises to walk about in the midst of the people;
     No idols, carved image, pillar or figured stone set up to bow down on; God lifts a yoke or burden
@@ -33,9 +33,9 @@ evidence:
 - text: 'Only in The ratio of the steadfast, captives and ransom: Captives with good in their hearts are
     promised better than what was taken from them; Twenty steadfast defeat two hundred, a hundred a thousand;
     later eased to one against two; Only a prior decree from God averted punishment for taking ransom;
-    A prophet should not take captives until he has thoroughly subdued the land; Conqueror spares the
-    enemy king and best livestock against God''s command; Livestock and spoil taken as booty after the
-    ban; One chases a thousand and two put ten thousand to flight.'
+    A prophet should not take captives until he has thoroughly subdued the land; Livestock and spoil taken
+    as booty after the ban; One chases a thousand and two put ten thousand to flight; Conqueror spares
+    the enemy king and best livestock against God''s command.'
   basis: reading
 - text: 'Covenant blessings for obedience: tagged by Claude (model), reading the Hebrew.'
   basis: reading

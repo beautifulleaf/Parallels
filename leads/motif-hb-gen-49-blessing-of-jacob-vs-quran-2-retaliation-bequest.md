@@ -18,25 +18,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Bequest (wasiyya) to parents and kin prescribed for one who leaves
-    wealth; altering it is a sin (weight 6.3). Pair score 6.3.'
+    wealth; altering it is a sin (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The Testament (Blessing) of Jacob and his death: Blessings of heaven above, of the deep
     crouching below, and of breasts and womb; Father curses two violent sons'' anger and decrees they
-    be scattered among the tribes; Patriarch dies and is ''gathered to his people''; A brief prayer (''For
-    your salvation I wait, YHWH'') interrupts a poem; Judah likened to a lion''s whelp crouching that
-    none dare rouse; The favored son called ''nazir (consecrated/prince) among his brothers''; A tribe
-    likened to a serpent by the road biting the horse''s heels so the rider falls; Tribes characterized
-    by animal images (lion, ass, serpent, hind, wolf); Tribal sayings pun on each son''s name; Firstborn
-    son loses his preeminence for lying with his father''s concubine; Dying Jacob addresses his sons [divergence
-    between the texts]; Ruler binds his ass''s foal to the vine and washes his garments in wine, the blood
-    of grapes; and 5 more.'
+    be scattered among the tribes; A brief prayer (''For your salvation I wait, YHWH'') interrupts a poem;
+    Judah likened to a lion''s whelp crouching that none dare rouse; The favored son called ''nazir (consecrated/prince)
+    among his brothers''; A tribe likened to a serpent by the road biting the horse''s heels so the rider
+    falls; Tribes characterized by animal images (lion, ass, serpent, hind, wolf); Firstborn son loses
+    his preeminence for lying with his father''s concubine; Patriarch dies and is ''gathered to his people'';
+    Dying Jacob addresses his sons [divergence between the texts]; Ruler binds his ass''s foal to the
+    vine and washes his garments in wine, the blood of grapes; Scepter shall not depart from Judah until
+    Shiloh comes and peoples obey him; and 5 more.'
   basis: reading
 - text: 'Only in Retaliation and bequests: Kin of the slain may pardon and accept compensation (diya)
     instead of retaliation, a lightening from God; ''In retaliation there is life for you''; Retaliation
-    (qisas) for the slain: free for free, slave for slave, female for female; A negligent owner may pay
-    a ransom for his life; Retaliation (talion) for killing or injury [divergence between the texts];
-    Whether payment may substitute for a life [contrast between the texts]; Eye for an eye, tooth for
-    a tooth (lex talionis).'
+    (qisas) for the slain: free for free, slave for slave, female for female; What person is matched to
+    a man who was killed [neutral] [divergence between the texts]; Clause on whoever alters a sealed grant
+    or a bequest [divergence between the texts]; Whoever alters the wording of a fixed text (tablet, bequest)
+    after it is set bears the penalty; A negligent owner may pay a ransom for his life; Retaliation (talion)
+    for killing or injury [divergence between the texts]; In a homicide, the ''lord of the blood'' decides:
+    if he says ''let him die'' the killer dies, if ''let him pay'' he pays; the king has no part; Whether
+    payment may substitute for a life [contrast between the texts]; Eye for an eye, tooth for a tooth
+    (lex talionis); Whether payment may substitute for a life.'
   basis: reading
 - text: 'The Testament (Blessing) of Jacob and his death: tagged by Claude (model), reading the Hebrew.'
   basis: reading

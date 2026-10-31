@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In labor the mother wishes she had died before this and been utterly
-    forgotten (weight 6.7); A spring or stream appears for the mother (weight 5.6). Pair score 12.3.'
+    forgotten (weight 7.7); A spring or stream appears for the mother (weight 6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Birth of Isaac and expulsion of Hagar and Ishmael: Mother lays her dying child under
     a bush and sits a bowshot away weeping; Slave-wife and her son expelled at the wife''s demand; The
@@ -39,11 +39,11 @@ evidence:
     (yawm al-hasra) when the matter is decided; The infant Jesus declares himself God''s servant, given
     the Book and made a prophet; ''That is Jesus son of Mary, the word of truth about which they dispute'';
     Labor pains drive the mother to the trunk of a palm tree; Mary is addressed as ''sister of Aaron'';
-    Mary withdraws from her family to an eastern place behind a screen; The mother returns with the child
-    and her people accuse her of an enormity; A voice from beneath her consoles the mother: ''do not grieve'';
-    The woman seeks refuge in God from the mysterious visitor; A divine messenger announces a son to a
-    virgin untouched by any man [divergence between the texts]; Mother gives birth alone in a remote place;
-    and 19 more.'
+    Mary withdraws from her family to an eastern place behind a screen; A voice from beneath her consoles
+    the mother: ''do not grieve''; The woman seeks refuge in God from the mysterious visitor; A divine
+    messenger announces a son to a virgin untouched by any man [divergence between the texts]; Mother
+    gives birth alone in a remote place; What caused the pregnancy of one who was not expected to bear
+    [divergence between the texts]; and 25 more.'
   basis: reading
 - text: 'Birth of Isaac and expulsion of Hagar and Ishmael: tagged by Claude (model), reading the Hebrew.'
   basis: reading

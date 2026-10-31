@@ -19,25 +19,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Destruction follows the people''s rejection of a messenger (weight
-    4.8). Pair score 4.8.'
+    5.9). Pair score 5.9.'
   basis: reading
-- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Intercessor argues the
-    nations would say God was unable; Those who slandered the land die by plague; People have tested God
-    ''ten times''; Forty years of wandering, a year for each day of scouting [divergence between the texts];
-    God threatens to destroy a people and put another in its place [divergence between the texts]; Two
-    faithful spies dissent from the majority [divergence between the texts]; People ordered to fight complain
-    to God and wish to be spared the battle; People attack without God''s ark or leader and are routed;
-    After the people''s rebellion the prophet intercedes for them or asks to be separated from them [divergence
-    between the texts]; People propose appointing a leader to go back to Egypt; Caleb has ''another spirit''
-    and follows God fully; God offers to destroy the people and make a nation of the hero instead; and
-    10 more.'
+- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Those who slandered the
+    land die by plague; People have tested God ''ten times''; Intercessor argues the nations would say
+    God was unable; Forty years of wandering, a year for each day of scouting [divergence between the
+    texts]; God threatens to destroy a people and put another in its place [divergence between the texts];
+    Two faithful spies dissent from the majority [divergence between the texts]; People ordered to fight
+    complain to God and wish to be spared the battle; People attack without God''s ark or leader and are
+    routed; After the people''s rebellion the prophet intercedes for them or asks to be separated from
+    them [divergence between the texts]; People propose appointing a leader to go back to Egypt; Caleb
+    has ''another spirit'' and follows God fully; God offers to destroy the people and make a nation of
+    the hero instead; and 10 more.'
   basis: reading
 - text: 'Only in A later generation''s messenger, the Cry, and messengers in succession: God sent his
     messengers one after another; each was denied and each nation became a tale; A people is seized by
     the Cry (al-ṣayḥa) and made like flood-scum; Whether those who die and return to dust rise again [contrast
     between the texts]; Earlier messengers were only men who ate food and were not immortal; Hero asks
-    the deity to judge or destroy his opponents; Human comes from dust and returns to dust; Your dead
-    shall live, their corpses rise; dwellers in the dust shall awake and sing.'
+    the deity to judge or destroy his opponents; Your dead shall live, their corpses rise; dwellers in
+    the dust shall awake and sing; Human comes from dust and returns to dust.'
   basis: reading
 - text: 'Rebellion after the spies'' report and the forty-year sentence: tagged by Claude (model), reading
     the Hebrew.'

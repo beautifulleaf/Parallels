@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Narrative of a prophet''s commissioning by God [divergence between
-    the texts] (weight 6.7); The call comes in the holy valley named Ṭuwā [divergence between the texts]
-    (weight 6.3). Pair score 13.0.'
+    the texts] (weight 7.7); The call comes in the holy valley named Ṭuwā [divergence between the texts]
+    (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in The burning bush and the divine name: God names himself ''I will be what I will be''
-    (ehyeh asher ehyeh); God has seen the affliction, heard the cry and comes down to deliver; God introduced
-    to a foreign king as ''the God of the Hebrews''; God foretells that the king will not let the people
-    go except under compulsion; Hero hides his face, afraid to look at God; The sign confirming the call
-    is that the people will later worship on this mountain; God calls Moses from the fire, from a bush
-    or a tree [divergence between the texts]; God declares his name as his everlasting memorial for all
-    generations; The title of God in whose name Moses goes to Pharaoh; The list of fathers in ''God of
-    your fathers'' [divergence between the texts]; Whose forefathers'' God is proclaimed in the Moses
+    (ehyeh asher ehyeh); God introduced to a foreign king as ''the God of the Hebrews''; God foretells
+    that the king will not let the people go except under compulsion; Hero hides his face, afraid to look
+    at God; The sign confirming the call is that the people will later worship on this mountain; God calls
+    Moses from the fire, from a bush or a tree [divergence between the texts]; God declares his name as
+    his everlasting memorial for all generations; The title of God in whose name Moses goes to Pharaoh;
+    God has seen the affliction, heard the cry and comes down to deliver; The list of fathers in ''God
+    of your fathers'' [divergence between the texts]; Whose forefathers'' God is proclaimed in the Moses
     story [divergence between the texts]; How God names himself to Moses from the fire [divergence between
     the texts]; and 16 more.'
   basis: reading
@@ -41,13 +41,12 @@ evidence:
     will have the garden as refuge; The first quaking blast (al-rajifa) is followed by a second (al-radifa);
     a single shout (zajra) and they are on the open plain (al-sahira); God built the sky, raised its canopy,
     darkened its night and brought out its forenoon; after that he spread out the earth; The call comes
-    in the holy valley named Ṭuwā; Pharaoh gathers the people and proclaims ''I am your Lord most high'';
-    Pharaoh gathers the people and proclaims ''I am your Lord most high'' [divergence between the texts];
-    On that day hell is brought forth, exposed or kindled for whoever sees, and paradise brought near;
-    God spread out the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha); The king''s
-    heart is hardened (by himself or by God) so he refuses to release the people [divergence between the
-    texts]; God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign; and 8 more.'
+    in the holy valley named Ṭuwā; The king of Egypt is called, or calls himself, god or lord [divergence
+    between the texts]; Pharaoh gathers the people and proclaims ''I am your Lord most high''; Pharaoh
+    gathers the people and proclaims ''I am your Lord most high'' [divergence between the texts]; The
+    king of Egypt is called god (by his vassals, or by himself) [divergence between the texts]; On that
+    day hell is brought forth, exposed or kindled for whoever sees, and paradise brought near; A king
+    is called, or calls himself, the god of his people [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'The burning bush and the divine name: tagged by Claude (model), reading the Hebrew.'
   basis: reading

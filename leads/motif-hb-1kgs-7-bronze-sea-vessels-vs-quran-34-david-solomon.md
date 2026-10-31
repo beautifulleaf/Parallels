@@ -20,29 +20,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Solomon''s great bronze works were produced [divergence between
-    the texts] (weight 6.7); A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing the
-    four directions in threes (weight 6.0). Pair score 12.7.'
+    the texts] (weight 7.7); A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing the
+    four directions in threes (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in The bronze sea, wheeled stands and temple vessels: Ten golden lampstands stand before
     the inner sanctuary, five on each side; Ten wheeled bronze stands decorated with lions, oxen, cherubim
     and palms carry basins; The bronze used for the sanctuary is so abundant its weight was not determined;
     Bronze vessels cast in the clay ground of the Jordan plain between Succoth and Zarethan; A round vessel
     ten cubits across measures thirty around (pi taken as three); Exact dimensions in cubits are given
-    for a sacred object of the sanctuary; An accounting of the gold, silver and bronze used for the sanctuary;
-    A bronze laver where priests wash hands and feet before service, lest they die; A small gold-plated
-    altar for burning incense before the veil; A gold table with the bread of the presence always before
-    God.'
+    for a sacred object of the sanctuary; A small gold-plated altar for burning incense before the veil;
+    An accounting of the gold, silver and bronze used for the sanctuary; A bronze laver where priests
+    wash hands and feet before service, lest they die; A gold table with the bread of the presence always
+    before God.'
   basis: reading
 - text: 'Only in David''s mountains and mail; Solomon''s wind, copper, jinn and staff: God made a spring
     of molten copper (or brass) flow for Solomon; The jinn did not know the unseen, else they would not
     have stayed in humiliating labor; Solomon dies leaning on his staff; only a creature of the earth
-    gnawing the staff reveals his death when he falls; David and the coat of mail [contrast between the
-    texts]; How Solomon died and how his death became known [divergence between the texts]; Rivers clap
-    their hands and mountains sing together before YHWH; God taught David the craft of making coats of
-    mail; Who did Solomon''s building and craft work [divergence between the texts]; The stormy wind is
-    subjected to Solomon, blowing at his command; Mountains and birds are made to glorify God together
-    with David; Devils (shayāṭīn) and jinn labor for Solomon, diving and building; Two golden cherubim
-    face each other with wings spread over the ark.'
+    gnawing the staff reveals his death when he falls; A superhuman craftsman casts metal vessels and
+    furniture for a lord [divergence between the texts]; David and the coat of mail [contrast between
+    the texts]; A king covers a journey of many stages in a single day [divergence between the texts];
+    How Solomon died and how his death became known [divergence between the texts]; God taught David the
+    craft of making coats of mail; Rivers clap their hands and mountains sing together before YHWH; Who
+    did Solomon''s building and craft work [divergence between the texts]; The stormy wind is subjected
+    to Solomon, blowing at his command; Mountains and birds are made to glorify God together with David;
+    and 2 more.'
   basis: reading
 - text: 'The bronze sea, wheeled stands and temple vessels: tagged by Claude (model), reading the Hebrew.'
   basis: reading

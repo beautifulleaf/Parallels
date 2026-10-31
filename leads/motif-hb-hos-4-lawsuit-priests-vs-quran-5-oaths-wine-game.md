@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people consult their piece of wood and their staff (rhabdomancy)
-    gives them oracles (weight 6.7). Pair score 6.7.'
+    gives them oracles (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in YHWH''s lawsuit; priests, divination and cultic harlotry: Men sacrifice with qedeshot
-    (cult women) and go aside with harlots; Prophet lists violations echoing the Decalogue: swearing,
-    lying, murder, theft, adultery; ''Like people, like priest'': both punished alike; My people are destroyed
-    for lack of knowledge; the priest who rejected knowledge is rejected; Israel is like a stubborn heifer;
-    YHWH brings a lawsuit (riv) against his people; Priests feed on the people''s sin and set their heart
-    on their iniquity; A ''spirit of harlotry'' (ruah zenunim) leads the people astray; Because of sin
-    the land mourns and beasts, birds and even fish of the sea perish; Bethel (''house of God'') mocked
-    as Beth-aven (''house of iniquity''); God forgets the damned today as they forgot the meeting of this
-    day; Pagan worship on high mountains, hills and under every green tree.'
+- text: 'Only in YHWH''s lawsuit; priests, divination and cultic harlotry: Prophet lists violations echoing
+    the Decalogue: swearing, lying, murder, theft, adultery; ''Like people, like priest'': both punished
+    alike; My people are destroyed for lack of knowledge; the priest who rejected knowledge is rejected;
+    Israel is like a stubborn heifer; YHWH brings a lawsuit (riv) against his people; Men sacrifice with
+    qedeshot (cult women) and go aside with harlots; Priests feed on the people''s sin and set their heart
+    on their iniquity; A ''spirit of harlotry'' (ruah zenunim) leads the people astray; Bethel (''house
+    of God'') mocked as Beth-aven (''house of iniquity''); Because of sin the land mourns and beasts,
+    birds and even fish of the sea perish; God forgets the damned today as they forgot the meeting of
+    this day; Pagan worship on high mountains, hills and under every green tree.'
   basis: reading
 - text: 'Only in Lawful good things, oath expiation, wine and gambling, game in iḥrām: Do not forbid the
     good things God has made lawful (against self-imposed abstinence); Killing game in iḥrām is compensated
@@ -38,10 +38,10 @@ evidence:
     free a slave, or fast three days; Game of the sea and its food are lawful, also for travellers; Wine,
     gambling, stone altars and divining arrows are abomination of Satan''s work; Abstinence from wine,
     by vow or by general law [divergence between the texts]; Seeking decisions by divining arrows (azlām)
-    is forbidden; Water creatures are permitted only if they have fins and scales [contrast between the
-    texts]; Hunting land game is forbidden while in pilgrim sanctity (iḥrām); A rash oath spoken thoughtlessly
-    requires atonement [divergence between the texts]; A rash oath spoken thoughtlessly requires atonement;
-    and 2 more.'
+    is forbidden; Drunkenness produces quarrels that disrupt worship; Water creatures are permitted only
+    if they have fins and scales [contrast between the texts]; Hunting land game is forbidden while in
+    pilgrim sanctity (iḥrām); A little honestly gained is better than much by wrong, even if the abundance
+    of the bad impresses; and 4 more.'
   basis: reading
 - text: 'YHWH''s lawsuit; priests, divination and cultic harlotry: tagged by Claude (model), reading the
     Hebrew.'

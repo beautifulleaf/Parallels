@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not curse the deaf or put a stumbling block before the blind
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Be holy - ethical laws and love of neighbor: Do not stand idly by the blood of your neighbor;
-    Do not take vengeance or bear a grudge against your people; Do not hate your brother in your heart;
-    rebuke your neighbor instead; Each person must revere mother and father; Command ''You shall be holy,
-    for I am holy''; A Quranic code of commandments resembling the Decalogue in content [divergence between
-    the texts]; Fulfill God''s covenant and do not break oaths after confirming them or use them for deceit;
-    Love your neighbor as yourself; Sacrificial meat eaten on the third day is abhorrent (piggul) and
-    the offering is invalid; The share of the poor in the owner''s harvest or wealth [divergence between
+    Do not hate your brother in your heart; rebuke your neighbor instead; Each person must revere mother
+    and father; Command ''You shall be holy, for I am holy''; A Quranic code of commandments resembling
+    the Decalogue in content [divergence between the texts]; Fulfill God''s covenant and do not break
+    oaths after confirming them or use them for deceit; Love your neighbor as yourself; Do not take vengeance
+    or bear a grudge against your people; Sacrificial meat eaten on the third day is abhorrent (piggul)
+    and the offering is invalid; The share of the poor in the owner''s harvest or wealth [divergence between
     the texts]; If you retaliate, do so in kind; but patience is better; Give the kinsman, the poor and
     the wayfarer their due; and 6 more.'
   basis: reading

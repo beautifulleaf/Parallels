@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
-    5.0). Pair score 5.0.'
+    5.9). Pair score 5.9.'
   basis: reading
 - text: 'Only in Psalm 106, national confession of sins from Egypt to exile: Israel ate ''sacrifices of
     the dead'' (zivhei metim) at Baal-peor; God caused the exiles to be pitied by all their captors; God
@@ -29,9 +29,10 @@ evidence:
     reckoned to him as righteousness for all generations''; Israel ''yokes itself'' to Baal of Peor; List
     of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning; The
     people exchanged their Glory for the image of an ox that eats grass; Moses ''stood in the breach''
-    (pérets) before God to turn back his wrath from destroying the people; Speaker confesses personal
-    sin and pleads for forgiveness and cleansing; God turned the sea into dry land and they crossed the
-    river on foot; Shed blood pollutes the land and only the killer''s blood atones for it; and 16 more.'
+    (pérets) before God to turn back his wrath from destroying the people; God turned the sea into dry
+    land and they crossed the river on foot; Shed blood pollutes the land and only the killer''s blood
+    atones for it; A closing doxology and the divine title it uses [divergence between the texts]; and
+    16 more.'
   basis: reading
 - text: 'Only in Legends of the ancients, the fallen roof, the angels who take souls (Surah 16:24-50):
     The angels are not arrogant; they fear their Lord above them and do as commanded; God came at the
@@ -41,10 +42,10 @@ evidence:
     are told to enter the gates of hell to abide in it; Those who mislead bear their own full burdens
     and some of the burdens of those they misled; Deniers swear their strongest oaths that God will not
     raise the dead; All in heaven and earth prostrate to God, willingly or unwillingly, even their shadows
-    morning and evening; Every nation has a messenger, and it is judged justly when he comes; Travel in
+    morning and evening; Those who receive the dead greet him with ''peace'' on his arrival [divergence
+    between the texts]; Every nation has a messenger, and it is judged justly when he comes; Travel in
     the land and see the end of those before you; ''Ask the people of the Reminder (ahl al-dhikr) if you
-    do not know'': appeal to earlier scripture-holders; God sent before only men, inspired, from the people
-    of the towns; and 5 more.'
+    do not know'': appeal to earlier scripture-holders; and 6 more.'
   basis: reading
 - text: 'Psalm 106, national confession of sins from Egypt to exile: tagged by Claude (model), reading
     the Hebrew.'

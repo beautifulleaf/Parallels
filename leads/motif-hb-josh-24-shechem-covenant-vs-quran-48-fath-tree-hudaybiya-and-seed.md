@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God was pleased with the believers when they pledged allegiance
-    to the prophet under the tree (Bay''at al-Ridwan) (weight 6.7); Sacred oak or terebinth marks a sanctuary
-    site (Moreh, Mamre) (weight 5.6). Pair score 12.3.'
+    to the prophet under the tree (Bay''at al-Ridwan) (weight 7.7); Sacred oak or terebinth marks a sanctuary
+    site (Moreh, Mamre) (weight 6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging

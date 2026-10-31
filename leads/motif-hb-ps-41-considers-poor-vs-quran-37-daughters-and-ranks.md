@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A closing doxology and the divine title it uses [divergence between
-    the texts] (weight 6.3). Pair score 6.3.'
+    the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 41 - happy who considers the poor; the friend who lifted his heel: Happy is he
     who considers the poor; God sustains him on his sickbed; Even my close friend whom I trusted, who
@@ -34,10 +34,10 @@ evidence:
     each of us has a known station; we are ranged in ranks; we glorify; When the punishment descends in
     their courtyard, evil will be the morning of those who were warned; Closing doxology: glory to your
     Lord, Lord of might, above what they describe; peace on the messengers; praise to God, Lord of the
-    worlds; Whether God has, begets or takes sons or other offspring [contrast between the texts]; Polemic
-    against assigning daughters to God (the angels as females) while preferring sons for themselves; Scoffers
-    ask the prophet to hasten the punishment; it is held back only by an appointed term and will come
-    suddenly.'
+    worlds; Whether the divine attendants (heralds [divergence between the texts]; Whether God has, begets
+    or takes sons or other offspring [contrast between the texts]; Polemic against assigning daughters
+    to God (the angels as females) while preferring sons for themselves; Scoffers ask the prophet to hasten
+    the punishment; it is held back only by an appointed term and will come suddenly.'
   basis: reading
 - text: 'Psalm 41 - happy who considers the poor; the friend who lifted his heel: tagged by Claude (model),
     reading the Hebrew.'

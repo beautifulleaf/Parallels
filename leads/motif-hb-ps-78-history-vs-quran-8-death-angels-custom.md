@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Angels take the souls of unbelievers striking their faces and backs
-    (weight 6.3); The returning waters drown the pursuing army; not one survives (weight 4.5). Pair score
-    10.8.'
+    (weight 7.3); The returning waters drown the pursuing army; not one survives (weight 5.5). Pair score
+    12.9.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -36,9 +36,10 @@ evidence:
     windows) of heaven; and 39 more.'
   basis: reading
 - text: 'Only in Angels at the death of unbelievers; the custom of Pharaoh''s people: Unbelievers follow
-    ''the custom of Pharaoh''s people'' and those before them; God does not change a favor he gave a people
-    until they change what is in themselves; ''Far be it from God to do wickedness, from Shaddai to do
-    wrong''; he repays a man according to his deeds.'
+    ''the custom of Pharaoh''s people'' and those before them; Fierce messengers sent to fetch the evildoers
+    at death [divergence between the texts]; God does not change a favor he gave a people until they change
+    what is in themselves; ''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays
+    a man according to his deeds.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

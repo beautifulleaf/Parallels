@@ -2,7 +2,7 @@
 id: motif-quran-11-lot-vs-quran-15-abraham-guests-lot
 title: Lot, his guests, his daughters and the stones of sijjil ↔ Abraham's guests and the destruction
   of Lot's people (Surah 15:51-77)
-summary: 6 shared motifs, found by the separate reads; not yet compared side by side.
+summary: 7 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -12,29 +12,33 @@ traditions:
 layers:
 - motif
 motifs:
-- do-not-look-back
-- lots-wife-among-those-left-behind
 - stones-of-baked-clay-marked
-- angels-lodge-with-lot
+- do-not-look-back-when-leaving-as-divergence
+- lots-wife-among-those-left-behind
 - host-offers-daughters
+- angels-lodge-with-lot
 - cities-overturned
+- do-not-look-back
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Command not to look back while fleeing a doomed place (weight 6.3);
-    Lot''s wife is among those who stay behind and perish (weight 6.3); Stones of baked clay (sijjil),
-    in layers, each marked by the Lord, rain on the town (weight 6.3); Two angels are received as guests
-    by Lot in Sodom (weight 6.0); Host offers his virgin daughters to the mob to protect his guests (weight
-    6.0); Cities overturned (hafakh) and the plain destroyed (weight 5.6). Pair score 36.4.'
+- text: 'Shared motifs, rarest first: Stones of baked clay (sijjil), in layers, each marked by the Lord,
+    rain on the town (weight 7.3); Not looking back when leaving behind the doomed place or the banished
+    evil [divergence between the texts] (weight 7.3); Lot''s wife is among those who stay behind and perish
+    (weight 7.3); Host offers his virgin daughters to the mob to protect his guests (weight 7.1); Two
+    angels are received as guests by Lot in Sodom (weight 7.1); Cities overturned (hafakh) and the plain
+    destroyed (weight 6.6); Command not to look back while fleeing a doomed place (weight 6.6). Pair score
+    49.4.'
   basis: reading
 - text: 'Only in Lot, his guests, his daughters and the stones of sijjil: The angels tell Lot the destruction
     is appointed for the morning: ''is not the morning near?''; Lot wishes he had strength or a strong
     support to take refuge in; The angels tell Lot who sent them and what they will do [divergence between
-    the texts]; Only Lot''s household is brought out of the doomed city; What Lot says to the townsmen;
-    How Lot receives the heavenly guests [divergence between the texts]; When Lot leaves the city and
-    when the destruction falls [divergence between the texts]; Lot''s townspeople turn on him; What falls
-    from heaven on Sodom; A land will be overthrown like Sodom and Gomorrah and their neighbors, never
-    inhabited; The fate of Lot''s wife; God casts great hailstones from heaven, killing more than the
-    sword; and 2 more.'
+    the texts]; A dwelling or town is overturned so that its top and bottom are exchanged; Only Lot''s
+    household is brought out of the doomed city; What Lot says to the townsmen; How Lot receives the heavenly
+    guests [divergence between the texts]; A protected person is forbidden to look out or turn round,
+    and one does [divergence between the texts]; The deity rains stones from heaven on those he destroys:
+    what kind of stones [divergence between the texts]; When Lot leaves the city and when the destruction
+    falls [divergence between the texts]; Lot''s townspeople turn on him; What falls from heaven on Sodom;
+    and 5 more.'
   basis: reading
 - text: 'Only in Abraham''s guests and the destruction of Lot''s people (Surah 15:51-77): The angelic
     guests reveal they are sent against a criminal people; The rescued family leaves by night, the leader
@@ -45,8 +49,8 @@ evidence:
     and the plain destroyed [divergence between the texts]; The doomed people are seized by the Shout
     (al-sayha) at dawn or sunrise; Do not despair of God''s mercy (rawh / rahma); only unbelievers or
     the astray despair; Command not to look back while fleeing a doomed place [divergence between the
-    texts]; Host offers his virgin daughters to the mob to protect his guests [divergence between the
-    texts]; and 9 more.'
+    texts]; Command: on leaving, do not look behind you (ana arkīka lā tappallas / lā yaltafit minkum
+    aḥad) [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'Lot, his guests, his daughters and the stones of sijjil: tagged by Claude (model), reading the
     Arabic.'
@@ -56,7 +60,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Command not to look back while fleeing a doomed place
+finding: Stones of baked clay (sijjil), in layers, each marked by the Lord, rain on the town
 kinds:
 - shared
 units:
@@ -67,39 +71,6 @@ units:
   title: Abraham's guests and the destruction of Lot's people (Surah 15:51-77)
   tradition: islam
 matches:
-- kind: shared
-  label: Command not to look back while fleeing a doomed place
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 11:81
-      lang: ar
-      text: قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ
-        مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ
-        إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ
-  - tradition: islam
-    passages:
-    - ref: Quran 15:65
-      lang: ar
-      text: فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ
-        أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
-    note: lā yaltafit minkum aḥad
-- kind: shared
-  label: Lot's wife is among those who stay behind and perish
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 11:81
-      lang: ar
-      text: قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ
-        مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ
-        إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ
-  - tradition: islam
-    passages:
-    - ref: Quran 15:60
-      lang: ar
-      text: إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ
-    note: qaddarnā innahā la-mina l-ghābirīn
 - kind: shared
   label: Stones of baked clay (sijjil), in layers, each marked by the Lord, rain on the town
   sides:
@@ -119,23 +90,43 @@ matches:
       text: فَجَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ
     note: ḥijāratan min sijjīl
 - kind: shared
-  label: Two angels are received as guests by Lot in Sodom
+  label: Not looking back when leaving behind the doomed place or the banished evil
   sides:
   - tradition: islam
     passages:
-    - ref: Quran 11:77
+    - ref: Quran 11:81
       lang: ar
-      text: وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ
-        عَصِيبٌ
+      text: قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ
+        مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ
+        إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ
+    note: 'Namburbi: the evil is told ana ašrišu ai itūr (not to return to its place), then annâm iqabbī-ma
+      ana arkišu ul ippallas (he says this and does not look behind him); 11:81: fa-asri bi-ahlika bi-qiṭʿin
+      mina l-layli wa-lā yaltafit minkum aḥadun illā mraʾatak. A ritual rule after banishing evil against
+      a command for leaving a doomed town; the Quran names one who fails it.'
   - tradition: islam
     passages:
-    - ref: Quran 15:61
+    - ref: Quran 15:65
       lang: ar
-      text: فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ
-    - ref: Quran 15:62
+      text: فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ
+        أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
+    note: 'Namburbi: ana arkišu ul ippallas; 15:65: wa-ttabiʿ adbārahum wa-lā yaltafit minkum aḥadun wa-mḍū
+      ḥaythu tuʾmarūn. The same rule of not looking back at what is left behind.'
+- kind: shared
+  label: Lot's wife is among those who stay behind and perish
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:81
       lang: ar
-      text: قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ
-    note: '''you are unknown people'''
+      text: قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ
+        مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ
+        إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ
+  - tradition: islam
+    passages:
+    - ref: Quran 15:60
+      lang: ar
+      text: إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ
+    note: qaddarnā innahā la-mina l-ghābirīn
 - kind: shared
   label: Host offers his virgin daughters to the mob to protect his guests
   sides:
@@ -157,6 +148,24 @@ matches:
       text: قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ
     note: hāʾulāʾi banātī
 - kind: shared
+  label: Two angels are received as guests by Lot in Sodom
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:77
+      lang: ar
+      text: وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ
+        عَصِيبٌ
+  - tradition: islam
+    passages:
+    - ref: Quran 15:61
+      lang: ar
+      text: فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ
+    - ref: Quran 15:62
+      lang: ar
+      text: قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ
+    note: '''you are unknown people'''
+- kind: shared
   label: Cities overturned (hafakh) and the plain destroyed
   sides:
   - tradition: islam
@@ -173,6 +182,23 @@ matches:
       lang: ar
       text: فَجَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ
     note: jaʿalnā ʿāliyahā sāfilahā
+- kind: shared
+  label: Command not to look back while fleeing a doomed place
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:81
+      lang: ar
+      text: قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ
+        مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ
+        إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ
+  - tradition: islam
+    passages:
+    - ref: Quran 15:65
+      lang: ar
+      text: فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ
+        أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
+    note: lā yaltafit minkum aḥad
 ---
 
 ## Questions

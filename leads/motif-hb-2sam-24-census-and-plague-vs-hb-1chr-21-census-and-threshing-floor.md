@@ -15,24 +15,24 @@ motifs:
 - choice-of-three-punishments
 - king-insists-on-paying-full-price
 - king-offers-himself-for-flock
-- plague-death-toll
 - threshing-floor-becomes-temple-site
+- plague-death-toll
 - intercession-stops-plague
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A prophet offers the king a choice among three punishments (weight
-    6.7); The king refuses a free gift of land for an altar and pays its price (weight 6.7); King asks
-    that punishment fall on him and his house rather than on the innocent ''sheep'' (weight 6.7); Exact
-    number of dead in a divine plague is given (weight 6.0); A threshing floor where the plague was stopped
-    becomes the site of the altar and temple (weight 6.0); Hero''s prayer or act halts a divine punishment
-    (weight 5.2). Pair score 37.3.'
+    7.7); The king refuses a free gift of land for an altar and pays its price (weight 7.7); King asks
+    that punishment fall on him and his house rather than on the innocent ''sheep'' (weight 7.7); A threshing
+    floor where the plague was stopped becomes the site of the altar and temple (weight 7.1); Exact number
+    of dead in a divine plague is given (weight 7.1); Hero''s prayer or act halts a divine punishment
+    (weight 6.2). Pair score 43.6.'
   basis: reading
 - text: 'Only in David''s census, the plague, and Araunah''s threshing floor: Itinerary of census-takers
-    around the land''s borders; The king''s heart strikes him after a sin; God halts the destroying angel
-    at a specific spot: ''Enough, stay your hand''; The commander objects to the king''s census; Counting
-    the people requires a ransom for each life to avert plague; God himself incites a person to an evil
-    act; The believers'' pride in their great numbers avails nothing and the earth grows narrow for them
-    (Hunayn); Census totals given tribe by tribe.'
+    around the land''s borders; The king''s heart strikes him after a sin; The commander objects to the
+    king''s census; Counting the people requires a ransom for each life to avert plague; God halts the
+    destroying angel at a specific spot: ''Enough, stay your hand''; God himself incites a person to an
+    evil act; The believers'' pride in their great numbers avails nothing and the earth grows narrow for
+    them (Hunayn); Census totals given tribe by tribe.'
   basis: reading
 - text: 'Only in Satan incites the census; plague, the angel over Jerusalem and Ornan''s threshing floor:
     The angel of YHWH is seen standing between earth and heaven; At God''s command the destroying angel
@@ -155,22 +155,6 @@ matches:
         נָ֤א יָֽדְךָ֙ בִּ֚י וּבְבֵ֣ית אָבִ֔י וּֽבְעַמְּךָ֖ לֹ֥א לְמַגֵּפָֽה
     note: '''these sheep, what have they done? let your hand be on me and my father''s house'''
 - kind: shared
-  label: Exact number of dead in a divine plague is given
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Sam 24:15
-      lang: he
-      text: וַיִּתֵּ֨ן יְהוָ֥ה דֶּ֨בֶר֙ בְּיִשְׂרָאֵ֔ל מֵהַבֹּ֖קֶר וְעַד עֵ֣ת מוֹעֵ֑ד וַיָּ֣מָת מִן הָעָ֗ם
-        מִדָּן֙ וְעַד בְּאֵ֣ר שֶׁ֔בַע שִׁבְעִ֥ים אֶ֖לֶף אִֽישׁ
-    note: 70,000 from Dan to Beersheba
-  - tradition: judaism
-    passages:
-    - ref: 1Chr 21:14
-      lang: he
-      text: וַיִּתֵּ֧ן יְהוָ֛ה דֶּ֖בֶר בְּיִשְׂרָאֵ֑ל וַיִּפֹּל֙ מִיִּשְׂרָאֵ֔ל שִׁבְעִ֥ים אֶ֖לֶף אִֽישׁ
-    note: 70,000
-- kind: shared
   label: A threshing floor where the plague was stopped becomes the site of the altar and temple
   sides:
   - tradition: judaism
@@ -202,6 +186,22 @@ matches:
       lang: he
       text: בָּעֵ֣ת הַהִ֔יא בִּרְא֤וֹת דָּוִיד֙ כִּי עָנָ֣הוּ יְהוָ֔ה בְּגֹ֖רֶן אָרְנָ֣ן הַיְבוּסִ֑י וַיִּזְבַּ֖ח
         שָֽׁם
+- kind: shared
+  label: Exact number of dead in a divine plague is given
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 24:15
+      lang: he
+      text: וַיִּתֵּ֨ן יְהוָ֥ה דֶּ֨בֶר֙ בְּיִשְׂרָאֵ֔ל מֵהַבֹּ֖קֶר וְעַד עֵ֣ת מוֹעֵ֑ד וַיָּ֣מָת מִן הָעָ֗ם
+        מִדָּן֙ וְעַד בְּאֵ֣ר שֶׁ֔בַע שִׁבְעִ֥ים אֶ֖לֶף אִֽישׁ
+    note: 70,000 from Dan to Beersheba
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 21:14
+      lang: he
+      text: וַיִּתֵּ֧ן יְהוָ֛ה דֶּ֖בֶר בְּיִשְׂרָאֵ֑ל וַיִּפֹּל֙ מִיִּשְׂרָאֵ֔ל שִׁבְעִ֥ים אֶ֖לֶף אִֽישׁ
+    note: 70,000
 - kind: shared
   label: Hero's prayer or act halts a divine punishment
   sides:

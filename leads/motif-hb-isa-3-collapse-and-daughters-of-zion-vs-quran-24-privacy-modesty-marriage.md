@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Women should not strike their feet to make known their hidden ornaments
-    (anklets) (weight 6.7). Pair score 6.7.'
+    (anklets) (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Removal of stay and staff; children rule; the finery of the daughters of Zion; seven
     women and one man: Amulets, charms or ''houses of the soul'' (bottei ha-nefesh) worn as protection;
@@ -38,13 +38,13 @@ evidence:
     back; Believing men and women are told to lower their gaze and guard their private parts; Grant slaves
     who ask a written manumission contract (kitāba) and give them of God''s wealth; Marry off the unmarried
     among you and your righteous slaves; God will enrich the poor; Believing women draw their head-coverings
-    (khumur) over their bosoms and do not show adornment except to listed kin; Bride covers herself with
-    a veil on seeing the groom; ''I made a covenant with my eyes; how then could I look upon a virgin?'';
+    (khumur) over their bosoms and do not show adornment except to listed kin; A man''s look at a woman,
+    and what is required or done about it [neutral] [divergence between the texts]; Bride covers herself
+    with a veil on seeing the groom; ''I made a covenant with my eyes; how then could I look upon a virgin?'';
     A father must not make his daughter a prostitute; Freed slave must not be sent away empty-handed but
     furnished from flock, threshing floor and winepress; The head of a household must not prostitute a
     woman under his authority [divergence between the texts]; Catalogue of bridal finery: embroidered
-    cloth, tahash sandals, linen, silk, bracelets, necklace, nose-ring, earrings and a crown; Creditor
-    must wait outside for the pledge and return a poor man''s cloak by sunset.'
+    cloth, tahash sandals, linen, silk, bracelets, necklace, nose-ring, earrings and a crown; and 2 more.'
   basis: reading
 - text: 'Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
     one man: tagged by Claude (model), reading the Hebrew.'

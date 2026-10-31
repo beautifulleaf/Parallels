@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The proud one who builds his nest high as the eagle or among the
-    stars is brought down by God (weight 6.3). Pair score 6.3.'
+    stars is brought down by God (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Obadiah''s vision against Edom''s pride: A nation''s treaty partners and table companions
     deceive and overpower it; An envoy is sent among the nations to summon them to battle; Grape-gatherers
@@ -27,17 +27,17 @@ evidence:
     it down; A people carve houses out of the mountains and build palaces on the plains; Brief oracles
     against neighboring nations (Amalek, Kenite, Asshur, Kittim).'
   basis: reading
-- text: 'Only in Fighting for the oppressed; death in lofty towers: Death will reach you wherever you
-    are, even in lofty towers; Fight for the oppressed men, women and children who cry ''take us out of
-    this town of wrongdoers''; Whoever intercedes for good shares in it; whoever intercedes for evil bears
-    a part of it; All comes from God; yet good befalling you is from God and evil from yourself; Were
-    the Quran from other than God they would find much contradiction in it; When greeted, return a better
-    greeting or the same; The plot of Satan is weak; ''I form light and create darkness, make peace and
-    create evil (ra''); I YHWH do all these'' [divergence between the texts]; The laggard thanks God he
-    was absent when disaster struck, and wishes he had shared the spoil; Though they dig into Sheol or
-    climb to heaven, hide on Carmel or at the bottom of the sea, God''s hand will take them; People ordered
-    to fight complain to God and wish to be spared the battle; Not wronged by a date-stone''s thread (fatīl)
-    or groove (naqīr): proverbial minimal measures; and 1 more.'
+- text: 'Only in Fighting for the oppressed; death in lofty towers: Fight for the oppressed men, women
+    and children who cry ''take us out of this town of wrongdoers''; Whoever intercedes for good shares
+    in it; whoever intercedes for evil bears a part of it; All comes from God; yet good befalling you
+    is from God and evil from yourself; Were the Quran from other than God they would find much contradiction
+    in it; When greeted, return a better greeting or the same; The plot of Satan is weak; Death will reach
+    you wherever you are, even in lofty towers; A secure building (stone house, lofty towers) cannot keep
+    out a death that is fated [divergence between the texts]; ''I form light and create darkness, make
+    peace and create evil (ra''); I YHWH do all these'' [divergence between the texts]; The laggard thanks
+    God he was absent when disaster struck, and wishes he had shared the spoil; Though they dig into Sheol
+    or climb to heaven, hide on Carmel or at the bottom of the sea, God''s hand will take them; People
+    ordered to fight complain to God and wish to be spared the battle; and 4 more.'
   basis: reading
 - text: 'Obadiah''s vision against Edom''s pride: tagged by Claude (model), reading the Hebrew.'
   basis: reading

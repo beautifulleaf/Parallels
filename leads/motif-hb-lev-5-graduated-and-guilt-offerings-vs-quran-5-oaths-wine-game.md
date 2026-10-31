@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A rash oath spoken thoughtlessly requires atonement [divergence
-    between the texts] (weight 6.7); A rash oath spoken thoughtlessly requires atonement (weight 6.3).
-    Pair score 13.0.'
+    between the texts] (weight 7.7); A rash oath spoken thoughtlessly requires atonement (weight 7.3).
+    Pair score 15.1.'
   basis: reading
 - text: 'Only in Graduated purification offering and the guilt (asham) offering: The poorest bring a flour
-    sin offering without oil or frankincense; One is guilty even for a sin committed without knowing;
-    Restitution to the wronged person precedes the atonement offering; Sacrilege (me''ilah) against the
-    holy things of YHWH; Touching an unclean carcass or human impurity makes one guilty; Defrauding a
-    neighbor with a false oath is a trespass against God; The priest pinches off the bird''s head with
-    his fingernail (melikah); Expiation in steps according to what one can afford [divergence between
-    the texts]; The guilt offering is a ram assessed in silver shekels; The priest burns a handful as
-    the token or ''memorial'' portion (azkarah); Liability for oaths spoken thoughtlessly [contrast between
-    the texts]; The priest makes atonement and the sinner is forgiven; and 7 more.'
+    sin offering without oil or frankincense; Restitution to the wronged person precedes the atonement
+    offering; Sacrilege (me''ilah) against the holy things of YHWH; Touching an unclean carcass or human
+    impurity makes one guilty; Defrauding a neighbor with a false oath is a trespass against God; The
+    priest pinches off the bird''s head with his fingernail (melikah); Expiation in steps according to
+    what one can afford [divergence between the texts]; The guilt offering is a ram assessed in silver
+    shekels; The priest burns a handful as the token or ''memorial'' portion (azkarah); Liability for
+    oaths spoken thoughtlessly [contrast between the texts]; The priest makes atonement and the sinner
+    is forgiven; How sin committed in ignorance is forgiven [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Only in Lawful good things, oath expiation, wine and gambling, game in iḥrām: Do not forbid the
     good things God has made lawful (against self-imposed abstinence); Killing game in iḥrām is compensated
@@ -41,9 +41,9 @@ evidence:
     gambling, stone altars and divining arrows are abomination of Satan''s work; Abstinence from wine,
     by vow or by general law [divergence between the texts]; The people consult their piece of wood and
     their staff (rhabdomancy) gives them oracles; Seeking decisions by divining arrows (azlām) is forbidden;
-    Water creatures are permitted only if they have fins and scales [contrast between the texts]; Hunting
-    land game is forbidden while in pilgrim sanctity (iḥrām); What is slaughtered on stone altars (nuṣub/anṣāb)
-    is forbidden; the stones are abomination; and 1 more.'
+    Drunkenness produces quarrels that disrupt worship; Water creatures are permitted only if they have
+    fins and scales [contrast between the texts]; Hunting land game is forbidden while in pilgrim sanctity
+    (iḥrām); and 3 more.'
   basis: reading
 - text: 'Graduated purification offering and the guilt (asham) offering: tagged by Claude (model), reading
     the Hebrew.'

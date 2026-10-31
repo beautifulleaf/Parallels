@@ -13,17 +13,17 @@ traditions:
 layers:
 - motif
 motifs:
-- bill-of-divorce-as-divergence
 - retain-or-part-honorably-with-two-witnesses-as-divergence
+- bill-of-divorce-as-divergence
 - bill-of-divorce
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Husband writes a bill of divorcement for ''some indecency'' and
-    sends her away [divergence between the texts] (weight 6.7); At the end of the term, retain or part
-    with them honorably, and call two just witnesses [divergence between the texts] (weight 6.7); Husband
-    writes a bill of divorcement for ''some indecency'' and sends her away (weight 5.8). Pair score 19.2.'
+- text: 'Shared motifs, rarest first: At the end of the term, retain or part with them honorably, and
+    call two just witnesses [divergence between the texts] (weight 7.7); Husband writes a bill of divorcement
+    for ''some indecency'' and sends her away [divergence between the texts] (weight 7.7); Husband writes
+    a bill of divorcement for ''some indecency'' and sends her away (weight 6.8). Pair score 22.3.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -32,9 +32,9 @@ evidence:
     crime; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; How a husband divorces
     his wife [divergence between the texts]; Whether a divorced wife may return to her first husband after
     another marriage [contrast between the texts]; Forgotten sheaf, olive and grape gleanings left for
-    stranger, orphan and widow; Forgotten sheaf, olive and grape gleanings left for stranger, orphan and
-    widow [contrast between the texts]; Divorced wife who remarried may not return to her first husband;
-    Creditor must wait outside for the pledge and return a poor man''s cloak by sunset; and 5 more.'
+    stranger, orphan and widow [contrast between the texts]; Divorced wife who remarried may not return
+    to her first husband; Creditor must wait outside for the pledge and return a poor man''s cloak by
+    sunset; Sabbath grounded in the memory of slavery in Egypt; and 5 more.'
   basis: reading
 - text: 'Only in Al-Talaq: divorce and the waiting period, two witnesses, nursing wages, and the seven
     heavens and earths: Divorce women at (the start of) their waiting period (''idda), count it, and do
@@ -44,10 +44,11 @@ evidence:
     God created seven heavens and of the earth the like of them, the command descending between them;
     Waiting period of three months for women past menses or not yet menstruating; for the pregnant, until
     delivery; Husband writes a bill of divorcement for ''some indecency'' and sends her away [contrast
-    between the texts]; The offering is reduced for those who cannot afford it; God burdens no soul beyond
-    its capacity; God brings believers out of darknesses into light; false gods lead others from light
-    into darkness; Heaven and the heaven of heavens belong to God; Roll call of destroyed peoples: Noah''s,
-    Ad, Thamud, Abraham''s people, Midian and the overturned cities.'
+    between the texts]; What one gives is graded by one''s means: the rich much, the poor little; The
+    offering is reduced for those who cannot afford it; How many heavens there are [divergence between
+    the texts]; God burdens no soul beyond its capacity; God brings believers out of darknesses into light;
+    false gods lead others from light into darkness; Heaven and the heaven of heavens belong to God; and
+    1 more.'
   basis: reading
 - text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

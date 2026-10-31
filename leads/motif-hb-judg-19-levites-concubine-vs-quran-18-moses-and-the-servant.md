@@ -19,10 +19,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The townspeople refuse the travelers food and hospitality (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in The Levite''s concubine at Gibeah: Father-in-law repeatedly detains his son-in-law with
-    food and drink; Travelers find no hospitality in a city except from a resident alien old man; A body
+- text: 'Only in The Levite''s concubine at Gibeah: Travelers find no hospitality in a city except from
+    a resident alien old man; Father-in-law repeatedly detains his son-in-law with food and drink; A body
     (or animals) cut into twelve pieces and sent to the tribes as a summons; Host offers his virgin daughters
     to the mob to protect his guests; Townsmen surround the house and demand the male guest for sexual
     abuse; Refrain: ''In those days there was no king in Israel; each did what was right in his own eyes''.'
@@ -35,7 +35,7 @@ evidence:
     until they come of age; Realizing the sign, the travelers retrace their footsteps; The travelers rest
     at a rock where the sign occurs; The sage kills a boy they meet; The sage repairs a wall about to
     collapse in the inhospitable town without payment; The sage holes the boat that carries them; A servant
-    of God given mercy and knowledge from God''s presence (ilm ladunni); and 6 more.'
+    of God given mercy and knowledge from God''s presence (ilm ladunni); and 8 more.'
   basis: reading
 - text: 'The Levite''s concubine at Gibeah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

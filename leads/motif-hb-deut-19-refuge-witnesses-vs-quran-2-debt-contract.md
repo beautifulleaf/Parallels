@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many witnesses are required [divergence between the texts] (weight
-    6.0); No one put to death on the testimony of a single witness (weight 5.4). Pair score 11.4.'
+    7.1); No one put to death on the testimony of a single witness (weight 6.5). Pair score 13.5.'
   basis: reading
 - text: 'Only in Cities of refuge, boundary stones, false witnesses: Axe head slips off the handle while
     cutting wood and kills a companion (accidental homicide); Deliberate murderer who flees to refuge
@@ -28,15 +28,17 @@ evidence:
     the texts]; Judges told to let no pity hold them back from carrying out a fixed punishment; False
     witness receives the punishment he plotted for his brother; How many witnesses a charge requires [divergence
     between the texts]; A place of refuge for one who kills unintentionally [divergence between the texts];
-    Retaliation (talion) for killing or injury [divergence between the texts]; The ''redeemer of blood''
-    (go''el ha-dam) kills the murderer; Six cities of refuge for the unintentional killer, three on each
-    side of the Jordan; Do not move your neighbor''s ancient boundary marker; and 1 more.'
+    Retaliation (talion) for killing or injury [divergence between the texts]; Six cities of refuge for
+    the unintentional killer, three on each side of the Jordan; Eye for an eye, tooth for a tooth (lex
+    talionis); The ''redeemer of blood'' (go''el ha-dam) kills the murderer; and 1 more.'
   basis: reading
 - text: 'Only in The debt verse: A debt for a fixed term must be written by a just scribe, dictated by
     the debtor or his guardian; Two male witnesses, or one man and two women so that if one errs the other
-    reminds her; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; A land deed
-    made in a sealed copy and an open copy, witnessed and the silver weighed; A witness who hears a public
-    adjuration and withholds testimony bears guilt.'
+    reminds her; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; The scribe who
+    writes a debt or account must not cheat with his pen; he writes with justice; A land deed made in
+    a sealed copy and an open copy, witnessed and the silver weighed; A transfer of goods (gift, sale,
+    debt) is to be written down and witnessed; Knowing the matter and not speaking: withholding testimony
+    as a sin; A witness who hears a public adjuration and withholds testimony bears guilt.'
   basis: reading
 - text: 'Cities of refuge, boundary stones, false witnesses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

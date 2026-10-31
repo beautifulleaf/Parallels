@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your companion has not erred; he does not speak from desire; it
-    is only revelation revealed (weight 6.7). Pair score 6.7.'
+    is only revelation revealed (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Korah, Dathan and Abiram rebel; the earth swallows them: Rival claimants offer incense
     in fire-pans so God may choose the holy one; Rebels claim all the people are holy and challenge the
@@ -28,10 +28,10 @@ evidence:
     death, YHWH has not sent me''); Fire from God consumes those offering illegitimate incense; God addressed
     as ''God of the spirits of all flesh''; Bystanders of a divine punishment fear it could have struck
     them too; Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him
-    alone?''; What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; Intercessor
-    asks: shall one man sin and you rage at the whole community?; A people is destroyed by an earthquake/tremor
-    (al-rajfa); Leader protests he never took so much as a donkey from anyone; Where Haman and Korah belong
-    in the story of God''s people [divergence between the texts]; and 2 more.'
+    alone?''; What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; A
+    people is destroyed by an earthquake/tremor (al-rajfa); Leader protests he never took so much as a
+    donkey from anyone; Where Haman and Korah belong in the story of God''s people [divergence between
+    the texts]; Intercessor asks: shall one man sin and you rage at the whole community?; and 2 more.'
   basis: reading
 - text: 'Only in Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and
     the Lote-Tree of the Boundary: The heart did not falsify what it saw; the gaze did not swerve nor
@@ -40,10 +40,11 @@ evidence:
     the Boundary (sidrat al-muntaha), near the Garden of Refuge; The heavenly figure came within two bow-lengths
     or nearer (qaba qawsayn aw adna) and revealed to his servant; Leaders see God with a sapphire-like
     pavement under his feet; He saw some of the greatest signs of his Lord; One mighty in power (shadid
-    al-quwa) taught him, stood poised on the highest horizon, then drew near and descended; Whether a
-    prophet speaks from his own heart or desire, or by revelation [contrast between the texts]; What or
-    whom the visionaries saw: God himself or his messenger [divergence between the texts]; No human can
-    see God''s face and live; A tree whose fruit gives eternal life.'
+    al-quwa) taught him, stood poised on the highest horizon, then drew near and descended; Taken up to
+    heaven, the mortal looks from the horizon (base of heaven) to the heights of heaven and sees its awesomeness;
+    Whether a prophet speaks from his own heart or desire, or by revelation [contrast between the texts];
+    A literary work is ''what was revealed to'' a named sage or poet and what he then proclaimed; What
+    or whom the visionaries saw: God himself or his messenger [divergence between the texts]; and 2 more.'
   basis: reading
 - text: 'Korah, Dathan and Abiram rebel; the earth swallows them: tagged by Claude (model), reading the
     Hebrew.'

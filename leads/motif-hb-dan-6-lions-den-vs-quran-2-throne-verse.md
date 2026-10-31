@@ -19,28 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel''s God is called ''the living God, enduring forever, whose
-    kingdom shall never be destroyed'' (weight 6.3). Pair score 6.3.'
+    kingdom shall never be destroyed'' (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Daniel in the lions'' den: The accusers, with their wives and children, are thrown to
-    the lions and crushed before they reach the bottom; God sends his angel and shuts the lions'' mouths
-    so they do not harm the innocent; For thirty days no one may petition any god or man except the king;
-    Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the mouth of the pit and
-    sealed with the king''s signet and those of his nobles; A royal decree written by the law of the Medes
-    and Persians cannot be revoked, even by the king; The king spends a sleepless night fasting, without
-    entertainment, worrying over the hero; The pious kneels on his knees to pray; The faithful prays facing
-    Jerusalem through open windows; Rivals can find no fault in the hero except in the matter of the law
-    of his God; The king appoints 120 satraps over the kingdom with three presidents above them, one of
-    them the hero; The hero is thrown into a pit of lions; and 8 more.'
+    the lions and crushed before they reach the bottom; For thirty days no one may petition any god or
+    man except the king; Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the
+    mouth of the pit and sealed with the king''s signet and those of his nobles; A royal decree written
+    by the law of the Medes and Persians cannot be revoked, even by the king; The king spends a sleepless
+    night fasting, without entertainment, worrying over the hero; The pious kneels on his knees to pray;
+    The faithful prays facing Jerusalem through open windows; Rivals can find no fault in the hero except
+    in the matter of the law of his God; The king appoints 120 satraps over the kingdom with three presidents
+    above them, one of them the hero; The hero is thrown into a pit of lions; God sends his angel and
+    shuts the lions'' mouths so they do not harm the innocent; and 8 more.'
   basis: reading
 - text: 'Only in Ranks of the messengers and the Throne Verse: God''s footstool or seat (kursi) extends
     over the heavens and the earth; No compulsion in religion; Neither slumber nor sleep overtakes God;
-    God''s throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false
-    gods (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber
-    or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day
-    comes with no trade, no friendship and no intercession; The temple as a house of rest for the ark
-    and the footstool of God''s feet; Jesus son of Mary given clear signs and supported with the holy
-    spirit (ruh al-qudus); God ranked some messengers above others; to some God spoke; God the Ever-Living,
-    the Self-Subsisting (al-hayy al-qayyum); and 4 more.'
+    Whether the deity sleeps [divergence between the texts]; Whether the deity sleeps [response between
+    the texts]; A divine object is measured against heaven and earth: the heavens too small for the god''s
+    cup, or his seat (kursī) spanning the heavens and the earth [divergence between the texts]; God''s
+    throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false gods
+    (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber or
+    sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day comes
+    with no trade, no friendship and no intercession; The temple as a house of rest for the ark and the
+    footstool of God''s feet; and 13 more.'
   basis: reading
 - text: 'Daniel in the lions'' den: tagged by Claude (model), reading the Aramaic.'
   basis: reading

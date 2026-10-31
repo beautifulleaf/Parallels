@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The talebearer (rakhil) goes about revealing secrets; the faithful
-    conceal a matter (weight 6.0). Pair score 6.0.'
+    conceal a matter (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Sayings on honest scales, generosity and the fate of the wicked: A city exults at the
     prosperity of the righteous and shouts for joy when the wicked perish; Like a gold ring in a pig''s
     snout is a beautiful woman without discretion; The people curse him who withholds grain, but blessing
-    is on the head of him who sells it; He who troubles his household will inherit the wind; He who trusts
-    in riches falls; the righteous sprout like green leaves; If the righteous is repaid on earth, how
-    much more the wicked and the sinner; The fruit of the righteous is a tree of life and the wise man
-    ''takes souls'' (wins people); Treasures of wickedness do not profit, but righteousness (tsedaqah)
-    delivers from death; The righteous is rescued from trouble and the wicked goes in his place (as his
-    ransom); The rich man thinks his garden will never perish and the Hour will never come; One scatters
-    and yet increases; the generous soul is made fat and who waters will be watered; Pride goes before
-    destruction and a haughty spirit before stumbling; and 6 more.'
+    is on the head of him who sells it; He who troubles his household will inherit the wind; If the righteous
+    is repaid on earth, how much more the wicked and the sinner; The fruit of the righteous is a tree
+    of life and the wise man ''takes souls'' (wins people); He who trusts in riches falls; the righteous
+    sprout like green leaves; Treasures of wickedness do not profit, but righteousness (tsedaqah) delivers
+    from death; The righteous is rescued from trouble and the wicked goes in his place (as his ransom);
+    The rich man thinks his garden will never perish and the Hour will never come; One scatters and yet
+    increases; the generous soul is made fat and who waters will be watered; Without counsel a people
+    falls; in a multitude of counselors there is victory; and 6 more.'
   basis: reading
 - text: 'Only in Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives
     of Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran: If he divorced them, God might give
@@ -48,7 +48,7 @@ evidence:
     secret to one of his wives; she divulged it, and God informed him; The wives of Noah and Lot, married
     to righteous servants, betrayed them and are told to enter the Fire; Father or husband may annul a
     woman''s vow on the day he hears it; A man''s vow or oath must be fulfilled as uttered [contrast between
-    the texts]; and 10 more.'
+    the texts]; and 13 more.'
   basis: reading
 - text: 'Sayings on honest scales, generosity and the fate of the wicked: tagged by Claude (model), reading
     the Hebrew.'

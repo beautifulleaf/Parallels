@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Expiation in steps according to what one can afford [divergence
-    between the texts] (weight 6.7); The offering is reduced for those who cannot afford it (weight 6.3).
-    Pair score 13.0.'
+    between the texts] (weight 7.7); The offering is reduced for those who cannot afford it (weight 7.3).
+    Pair score 15.1.'
   basis: reading
 - text: 'Only in Graduated purification offering and the guilt (asham) offering: The poorest bring a flour
-    sin offering without oil or frankincense; One is guilty even for a sin committed without knowing;
-    Restitution to the wronged person precedes the atonement offering; Sacrilege (me''ilah) against the
-    holy things of YHWH; Touching an unclean carcass or human impurity makes one guilty; Defrauding a
-    neighbor with a false oath is a trespass against God; The priest pinches off the bird''s head with
-    his fingernail (melikah); The guilt offering is a ram assessed in silver shekels; The priest burns
-    a handful as the token or ''memorial'' portion (azkarah); Liability for oaths spoken thoughtlessly
-    [contrast between the texts]; The priest makes atonement and the sinner is forgiven; A rash oath spoken
-    thoughtlessly requires atonement [divergence between the texts]; and 7 more.'
+    sin offering without oil or frankincense; Restitution to the wronged person precedes the atonement
+    offering; Sacrilege (me''ilah) against the holy things of YHWH; Touching an unclean carcass or human
+    impurity makes one guilty; Defrauding a neighbor with a false oath is a trespass against God; The
+    priest pinches off the bird''s head with his fingernail (melikah); The guilt offering is a ram assessed
+    in silver shekels; The priest burns a handful as the token or ''memorial'' portion (azkarah); Liability
+    for oaths spoken thoughtlessly [contrast between the texts]; The priest makes atonement and the sinner
+    is forgiven; A rash oath spoken thoughtlessly requires atonement [divergence between the texts]; How
+    sin committed in ignorance is forgiven [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Only in Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth
     of three; the party of God: Before a private consultation with the prophet give charity (sadaqa);
@@ -45,7 +45,7 @@ evidence:
     poor; There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
     wherever they are; God is well pleased with them and they with him (radiya llahu ''anhum wa-radu ''anhu);
     God will put his law within the people and write it on their hearts; Loyalty to God over one''s own
-    kin [divergence between the texts]; and 9 more.'
+    kin [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'Graduated purification offering and the guilt (asham) offering: tagged by Claude (model), reading
     the Hebrew.'

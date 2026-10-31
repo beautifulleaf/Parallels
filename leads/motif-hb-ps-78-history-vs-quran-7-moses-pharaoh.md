@@ -23,10 +23,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A poetic list of the Egyptian plagues differs in number and order
-    from Exodus (weight 6.0); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
-    (weight 6.0); Nile water is turned to blood (weight 5.8); Locusts brought by an east wind devour all
-    vegetation left after the hail (weight 5.6); The returning waters drown the pursuing army; not one
-    survives (weight 4.5). Pair score 27.9.'
+    from Exodus (weight 7.1); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
+    (weight 7.1); Nile water is turned to blood (weight 6.6); Locusts brought by an east wind devour all
+    vegetation left after the hail (weight 6.5); The returning waters drown the pursuing army; not one
+    survives (weight 5.5). Pair score 32.8.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -46,11 +46,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 20 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 30 more.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

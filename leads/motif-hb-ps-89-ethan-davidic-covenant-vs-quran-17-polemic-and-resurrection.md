@@ -19,20 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If there were other gods they would seek a way to the Lord of the
-    Throne (weight 6.7). Pair score 6.7.'
+    Throne (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 89, Ethan''s hymn of the divine council, Rahab crushed, and the broken Davidic
-    covenant: God is feared in the council (sod) and assembly (qahal) of the holy ones; none among the
-    sons of gods (bene elim) compares; The king calls God ''my father'' and God makes him firstborn, highest
-    of the kings of earth; God sets the king''s hand on the Sea and his right hand on the Rivers; The
-    dynasty will be established like the moon, a faithful witness in the sky; Lament that God has spurned
-    his anointed, defiled his crown and cast his throne to the ground; If the king''s sons sin they will
-    be punished with the rod, but God''s love will not be withdrawn; God created Zaphon (north) and Yamin
-    (south); Tabor and Hermon sing his name; Human life is short and fleeting (heled, a handbreadth, grass,
-    a sigh); God stills the roaring of the seas and the tumult of the peoples; Righteousness and justice
-    are the foundation of God''s throne; love and truth go before him; The king (or his name, dynasty,
-    throne) will endure as long as the sun and moon; What man can live and not see death, or deliver his
-    soul from the hand of Sheol?; and 15 more.'
+    covenant: The king calls God ''my father'' and God makes him firstborn, highest of the kings of earth;
+    God sets the king''s hand on the Sea and his right hand on the Rivers; The dynasty will be established
+    like the moon, a faithful witness in the sky; If the king''s sons sin they will be punished with the
+    rod, but God''s love will not be withdrawn; God created Zaphon (north) and Yamin (south); Tabor and
+    Hermon sing his name; God stills the roaring of the seas and the tumult of the peoples; Righteousness
+    and justice are the foundation of God''s throne; love and truth go before him; The king (or his name,
+    dynasty, throne) will endure as long as the sun and moon; God crushed Rahab like a corpse and scattered
+    his enemies; Lament that God has spurned his anointed, defiled his crown and cast his throne to the
+    ground; God gives strength to his king and exalts the horn of his anointed (messiah); Prophet anoints
+    the chosen king with a horn of oil among his brothers; the spirit comes on him; and 15 more.'
   basis: reading
 - text: 'Only in Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60):
     Answer to the deniers: even if you were stone or iron, the one who made you first will raise you;
@@ -43,9 +42,10 @@ evidence:
     (neshamah) praise Yah''; ''Let everything that has breath (neshamah) praise Yah'' [divergence between
     the texts]; Opponents say the believers follow only a bewitched man (rajul mashur); Satan stirs up
     enmity (nazagha) between brothers or among people; Thamud''s most wretched one rises; the messenger
-    warns ''God''s she-camel and her drinking''; they hamstring her and God crushes them; The seven heavens,
-    the earth and everything in them glorify God, though humans do not understand their praise; God ranked
-    some messengers above others; to some God spoke; and 6 more.'
+    warns ''God''s she-camel and her drinking''; they hamstring her and God crushes them; Heaven, earth
+    and inanimate things have a speech that humans do not understand [divergence between the texts]; The
+    seven heavens, the earth and everything in them glorify God, though humans do not understand their
+    praise; and 8 more.'
   basis: reading
 - text: 'Psalm 89, Ethan''s hymn of the divine council, Rahab crushed, and the broken Davidic covenant:
     tagged by Claude (model), reading the Hebrew.'

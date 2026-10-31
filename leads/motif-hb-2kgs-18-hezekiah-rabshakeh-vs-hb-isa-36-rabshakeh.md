@@ -12,39 +12,39 @@ traditions:
 layers:
 - motif
 motifs:
-- speak-aramaic-not-judean
-- silence-ordered-before-enemy
-- emissaries-dialogue-at-wall
 - promise-of-better-land-in-exile
-- vine-and-fig-tree
+- speak-aramaic-not-judean
 - enemy-claims-divine-mandate
-- broken-reed-egypt
+- vine-and-fig-tree
+- emissaries-dialogue-at-wall
+- silence-ordered-before-enemy
 - besieged-eat-own-excrement
+- broken-reed-egypt
 - where-are-the-gods-taunt
 - assyrian-king-named
 - destroy-pagan-altars-pillars-asherim
 - rend-garments-grief
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Officials ask the envoy to speak Aramaic, not Judean, so the people
-    on the wall will not understand (weight 6.7); The people keep silent and do not answer the enemy at
-    the king''s command (weight 6.7); Enemy envoy addresses the besieged at the city wall to break their
-    morale (weight 6.7); Invader promises deportees a land like their own, of grain, wine, oil and honey
-    (weight 6.7); Each man under his own vine and fig tree, drinking from his own cistern (weight 6.7);
-    Invader claims the defenders'' own god sent him to destroy the land (weight 6.7); Egypt likened to
-    a broken reed staff that pierces the hand of whoever leans on it (weight 6.3); Threat that the besieged
-    will eat their own dung and drink their urine (weight 6.3); Taunt: Where are the gods of the conquered
-    nations? Could they save their lands from my hand? (weight 5.8); An Assyrian king named in the narrative
-    (Pul, Tiglath-pileser, Shalmaneser, Sennacherib, Esarhaddon) (weight 5.6); Command to smash altars,
-    standing stones and Asherah poles and burn idols (weight 5.3); Men tear their garments in grief or
-    dismay (weight 4.9). Pair score 74.3.'
+- text: 'Shared motifs, rarest first: Invader promises deportees a land like their own, of grain, wine,
+    oil and honey (weight 7.7); Officials ask the envoy to speak Aramaic, not Judean, so the people on
+    the wall will not understand (weight 7.7); Invader claims the defenders'' own god sent him to destroy
+    the land (weight 7.7); Each man under his own vine and fig tree, drinking from his own cistern (weight
+    7.7); Enemy envoy addresses the besieged at the city wall to break their morale (weight 7.7); The
+    people keep silent and do not answer the enemy at the king''s command (weight 7.7); Threat that the
+    besieged will eat their own dung and drink their urine (weight 7.3); Egypt likened to a broken reed
+    staff that pierces the hand of whoever leans on it (weight 7.3); Taunt: Where are the gods of the
+    conquered nations? Could they save their lands from my hand? (weight 6.8); An Assyrian king named
+    in the narrative (Pul, Tiglath-pileser, Shalmaneser, Sennacherib, Esarhaddon) (weight 6.6); Command
+    to smash altars, standing stones and Asherah poles and burn idols (weight 6.4); Men tear their garments
+    in grief or dismay (weight 5.7). Pair score 86.7.'
   basis: reading
 - text: 'Only in Hezekiah''s reform; Sennacherib''s invasion and the Rabshakeh''s speech: King smashes
     the bronze serpent made by Moses, called Nehushtan, because people burned incense to it; Image of
-    a serpent on a pole heals those who look at it; Formula: there was none like him among all the kings
-    before or after; A capital city is besieged for three years before it falls; King strips the temple
-    and palace treasuries to buy off an invader; Conquered population deported to Assyria or another distant
-    land.'
+    a serpent on a pole heals those who look at it; A capital city is besieged for three years before
+    it falls; King strips the temple and palace treasuries to buy off an invader; Conquered population
+    deported to Assyria or another distant land; Formula: there was none like him among all the kings
+    before or after.'
   basis: reading
 - text: 'Only in Sennacherib''s invasion; the Rabshakeh''s speech at the conduit: Prophet meets the king
     at the conduit of the upper pool on the highway of the Fuller''s Field; Judah (or allies) put trust
@@ -58,7 +58,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Officials ask the envoy to speak Aramaic, not Judean, so the people on the wall will not understand
+finding: Invader promises deportees a land like their own, of grain, wine, oil and honey
 kinds:
 - shared
 units:
@@ -69,6 +69,22 @@ units:
   title: Sennacherib's invasion; the Rabshakeh's speech at the conduit
   tradition: judaism
 matches:
+- kind: shared
+  label: Invader promises deportees a land like their own, of grain, wine, oil and honey
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 18:32
+      lang: he
+      text: עַד בֹּאִי֩ וְלָקַחְתִּ֨י אֶתְכֶ֜ם אֶל אֶ֣רֶץ כְּאַרְצְכֶ֗ם אֶרֶץ֩ דָּגָ֨ן וְתִיר֜וֹשׁ אֶ֧רֶץ
+        לֶ֣חֶם וּכְרָמִ֗ים אֶ֣רֶץ זֵ֤ית יִצְהָר֙ וּדְבַ֔שׁ וִֽחְי֖וּ וְלֹ֣א תָמֻ֑תוּ וְאַֽל תִּשְׁמְעוּ֙
+        אֶל חִזְקִיָּ֔הוּ כִּֽי יַסִּ֤ית אֶתְכֶם֙ לֵאמֹ֔ר יְהוָ֖ה יַצִּילֵֽנוּ
+  - tradition: judaism
+    passages:
+    - ref: Isa 36:17
+      lang: he
+      text: עַד בֹּאִ֕י וְלָקַחְתִּ֥י אֶתְכֶ֖ם אֶל אֶ֣רֶץ כְּאַרְצְכֶ֑ם אֶ֤רֶץ דָּגָן֙ וְתִיר֔וֹשׁ אֶ֥רֶץ
+        לֶ֖חֶם וּכְרָמִֽים
 - kind: shared
   label: Officials ask the envoy to speak Aramaic, not Judean, so the people on the wall will not understand
   sides:
@@ -87,20 +103,36 @@ matches:
         אֲרָמִ֔ית כִּ֥י שֹׁמְעִ֖ים אֲנָ֑חְנוּ וְאַל תְּדַבֵּ֤ר אֵלֵ֨ינוּ֙ יְהוּדִ֔ית בְּאָזְנֵ֣י הָעָ֔ם
         אֲשֶׁ֖ר עַל הַחוֹמָֽה
 - kind: shared
-  label: The people keep silent and do not answer the enemy at the king's command
+  label: Invader claims the defenders' own god sent him to destroy the land
   sides:
   - tradition: judaism
     passages:
-    - ref: 2Kgs 18:36
+    - ref: 2Kgs 18:25
       lang: he
-      text: וְהֶחֱרִ֣ישׁוּ הָעָ֔ם וְלֹֽא עָנ֥וּ אֹת֖וֹ דָּבָ֑ר כִּי מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר
-        לֹ֥א תַעֲנֻֽהוּ
+      text: עַתָּה֙ הֲמִבַּלְעֲדֵ֣י יְהוָ֔ה עָלִ֛יתִי עַל הַמָּק֥וֹם הַזֶּ֖ה לְהַשְׁחִת֑וֹ יְהוָה֙ אָמַ֣ר
+        אֵלַ֔י עֲלֵ֛ה עַל הָאָ֥רֶץ הַזֹּ֖את וְהַשְׁחִיתָֽהּ
   - tradition: judaism
     passages:
-    - ref: Isa 36:21
+    - ref: Isa 36:10
       lang: he
-      text: וַֽיַּחֲרִ֔ישׁוּ וְלֹֽא עָנ֥וּ אֹת֖וֹ דָּבָ֑ר כִּֽי מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר לֹ֥א
-        תַעֲנֻֽהוּ
+      text: וְעַתָּה֙ הֲמִבַּלְעֲדֵ֣י יְהוָ֔ה עָלִ֛יתִי עַל הָאָ֥רֶץ הַזֹּ֖את לְהַשְׁחִיתָ֑הּ יְהוָה֙
+        אָמַ֣ר אֵלַ֔י עֲלֵ֛ה אֶל הָאָ֥רֶץ הַזֹּ֖את וְהַשְׁחִיתָֽהּ
+- kind: shared
+  label: Each man under his own vine and fig tree, drinking from his own cistern
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 18:31
+      lang: he
+      text: אַֽל תִּשְׁמְע֖וּ אֶל חִזְקִיָּ֑הוּ כִּי֩ כֹ֨ה אָמַ֜ר מֶ֣לֶךְ אַשּׁ֗וּר עֲשֽׂוּ אִתִּ֤י בְרָכָה֙
+        וּצְא֣וּ אֵלַ֔י וְאִכְל֤וּ אִישׁ גַּפְנוֹ֙ וְאִ֣ישׁ תְּאֵֽנָת֔וֹ וּשְׁת֖וּ אִ֥ישׁ מֵֽי בוֹרֽוֹ
+  - tradition: judaism
+    passages:
+    - ref: Isa 36:16
+      lang: he
+      text: אַֽל תִּשְׁמְע֖וּ אֶל חִזְקִיָּ֑הוּ כִּי֩ כֹ֨ה אָמַ֜ר הַמֶּ֣לֶךְ אַשּׁ֗וּר עֲשֽׂוּ אִתִּ֤י
+        בְרָכָה֙ וּצְא֣וּ אֵלַ֔י וְאִכְל֤וּ אִישׁ גַּפְנוֹ֙ וְאִ֣ישׁ תְּאֵנָת֔וֹ וּשְׁת֖וּ אִ֥ישׁ מֵי
+        בוֹרֽוֹ
 - kind: shared
   label: Enemy envoy addresses the besieged at the city wall to break their morale
   sides:
@@ -140,69 +172,20 @@ matches:
         הַגָּד֖וֹל מֶ֥לֶךְ אַשּֽׁוּר
     note: at the conduit of the upper pool on the highway of the Fuller's Field, same spot as Isa 7:3
 - kind: shared
-  label: Invader promises deportees a land like their own, of grain, wine, oil and honey
+  label: The people keep silent and do not answer the enemy at the king's command
   sides:
   - tradition: judaism
     passages:
-    - ref: 2Kgs 18:32
+    - ref: 2Kgs 18:36
       lang: he
-      text: עַד בֹּאִי֩ וְלָקַחְתִּ֨י אֶתְכֶ֜ם אֶל אֶ֣רֶץ כְּאַרְצְכֶ֗ם אֶרֶץ֩ דָּגָ֨ן וְתִיר֜וֹשׁ אֶ֧רֶץ
-        לֶ֣חֶם וּכְרָמִ֗ים אֶ֣רֶץ זֵ֤ית יִצְהָר֙ וּדְבַ֔שׁ וִֽחְי֖וּ וְלֹ֣א תָמֻ֑תוּ וְאַֽל תִּשְׁמְעוּ֙
-        אֶל חִזְקִיָּ֔הוּ כִּֽי יַסִּ֤ית אֶתְכֶם֙ לֵאמֹ֔ר יְהוָ֖ה יַצִּילֵֽנוּ
+      text: וְהֶחֱרִ֣ישׁוּ הָעָ֔ם וְלֹֽא עָנ֥וּ אֹת֖וֹ דָּבָ֑ר כִּי מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר
+        לֹ֥א תַעֲנֻֽהוּ
   - tradition: judaism
     passages:
-    - ref: Isa 36:17
+    - ref: Isa 36:21
       lang: he
-      text: עַד בֹּאִ֕י וְלָקַחְתִּ֥י אֶתְכֶ֖ם אֶל אֶ֣רֶץ כְּאַרְצְכֶ֑ם אֶ֤רֶץ דָּגָן֙ וְתִיר֔וֹשׁ אֶ֥רֶץ
-        לֶ֖חֶם וּכְרָמִֽים
-- kind: shared
-  label: Each man under his own vine and fig tree, drinking from his own cistern
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 18:31
-      lang: he
-      text: אַֽל תִּשְׁמְע֖וּ אֶל חִזְקִיָּ֑הוּ כִּי֩ כֹ֨ה אָמַ֜ר מֶ֣לֶךְ אַשּׁ֗וּר עֲשֽׂוּ אִתִּ֤י בְרָכָה֙
-        וּצְא֣וּ אֵלַ֔י וְאִכְל֤וּ אִישׁ גַּפְנוֹ֙ וְאִ֣ישׁ תְּאֵֽנָת֔וֹ וּשְׁת֖וּ אִ֥ישׁ מֵֽי בוֹרֽוֹ
-  - tradition: judaism
-    passages:
-    - ref: Isa 36:16
-      lang: he
-      text: אַֽל תִּשְׁמְע֖וּ אֶל חִזְקִיָּ֑הוּ כִּי֩ כֹ֨ה אָמַ֜ר הַמֶּ֣לֶךְ אַשּׁ֗וּר עֲשֽׂוּ אִתִּ֤י
-        בְרָכָה֙ וּצְא֣וּ אֵלַ֔י וְאִכְל֤וּ אִישׁ גַּפְנוֹ֙ וְאִ֣ישׁ תְּאֵנָת֔וֹ וּשְׁת֖וּ אִ֥ישׁ מֵי
-        בוֹרֽוֹ
-- kind: shared
-  label: Invader claims the defenders' own god sent him to destroy the land
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 18:25
-      lang: he
-      text: עַתָּה֙ הֲמִבַּלְעֲדֵ֣י יְהוָ֔ה עָלִ֛יתִי עַל הַמָּק֥וֹם הַזֶּ֖ה לְהַשְׁחִת֑וֹ יְהוָה֙ אָמַ֣ר
-        אֵלַ֔י עֲלֵ֛ה עַל הָאָ֥רֶץ הַזֹּ֖את וְהַשְׁחִיתָֽהּ
-  - tradition: judaism
-    passages:
-    - ref: Isa 36:10
-      lang: he
-      text: וְעַתָּה֙ הֲמִבַּלְעֲדֵ֣י יְהוָ֔ה עָלִ֛יתִי עַל הָאָ֥רֶץ הַזֹּ֖את לְהַשְׁחִיתָ֑הּ יְהוָה֙
-        אָמַ֣ר אֵלַ֔י עֲלֵ֛ה אֶל הָאָ֥רֶץ הַזֹּ֖את וְהַשְׁחִיתָֽהּ
-- kind: shared
-  label: Egypt likened to a broken reed staff that pierces the hand of whoever leans on it
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 18:21
-      lang: he
-      text: עַתָּ֡ה הִנֵּ֣ה בָטַ֣חְתָּ לְּךָ֡ עַל מִשְׁעֶנֶת֩ הַקָּנֶ֨ה הָרָצ֤וּץ הַזֶּה֙ עַל מִצְרַ֔יִם
-        אֲשֶׁ֨ר יִסָּמֵ֥ךְ אִישׁ֙ עָלָ֔יו וּבָ֥א בְכַפּ֖וֹ וּנְקָבָ֑הּ כֵּ֚ן פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
-        לְכָֽל הַבֹּטְחִ֖ים עָלָֽיו
-  - tradition: judaism
-    passages:
-    - ref: Isa 36:6
-      lang: he
-      text: הִנֵּ֣ה בָטַ֡חְתָּ עַל מִשְׁעֶנֶת֩ הַקָּנֶ֨ה הָרָצ֤וּץ הַזֶּה֙ עַל מִצְרַ֔יִם אֲשֶׁ֨ר יִסָּמֵ֥ךְ
-        אִישׁ֙ עָלָ֔יו וּבָ֥א בְכַפּ֖וֹ וּנְקָבָ֑הּ כֵּ֚ן פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם לְכָֽל הַבֹּטְחִ֖ים
-        עָלָֽיו
+      text: וַֽיַּחֲרִ֔ישׁוּ וְלֹֽא עָנ֥וּ אֹת֖וֹ דָּבָ֑ר כִּֽי מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר לֹ֥א
+        תַעֲנֻֽהוּ
 - kind: shared
   label: Threat that the besieged will eat their own dung and drink their urine
   sides:
@@ -220,6 +203,23 @@ matches:
       text: וַיֹּ֣אמֶר רַב שָׁקֵ֗ה הַאֶ֨ל אֲדֹנֶ֤יךָ וְאֵלֶ֨יךָ֙ שְׁלָחַ֣נִי אֲדֹנִ֔י לְדַבֵּ֖ר אֶת הַדְּבָרִ֣ים
         הָאֵ֑לֶּה הֲלֹ֣א עַל הָאֲנָשִׁ֗ים הַיֹּֽשְׁבִים֙ עַל הַ֣חוֹמָ֔ה לֶאֱכֹ֣ל אֶת חראיהם צוֹאָתָ֗ם
         וְלִשְׁתּ֛וֹת אֶת שיניהם מֵימֵ֥י רַגְלֵיהֶ֖ם עִמָּכֶֽם
+- kind: shared
+  label: Egypt likened to a broken reed staff that pierces the hand of whoever leans on it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 18:21
+      lang: he
+      text: עַתָּ֡ה הִנֵּ֣ה בָטַ֣חְתָּ לְּךָ֡ עַל מִשְׁעֶנֶת֩ הַקָּנֶ֨ה הָרָצ֤וּץ הַזֶּה֙ עַל מִצְרַ֔יִם
+        אֲשֶׁ֨ר יִסָּמֵ֥ךְ אִישׁ֙ עָלָ֔יו וּבָ֥א בְכַפּ֖וֹ וּנְקָבָ֑הּ כֵּ֚ן פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
+        לְכָֽל הַבֹּטְחִ֖ים עָלָֽיו
+  - tradition: judaism
+    passages:
+    - ref: Isa 36:6
+      lang: he
+      text: הִנֵּ֣ה בָטַ֡חְתָּ עַל מִשְׁעֶנֶת֩ הַקָּנֶ֨ה הָרָצ֤וּץ הַזֶּה֙ עַל מִצְרַ֔יִם אֲשֶׁ֨ר יִסָּמֵ֥ךְ
+        אִישׁ֙ עָלָ֔יו וּבָ֥א בְכַפּ֖וֹ וּנְקָבָ֑הּ כֵּ֚ן פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם לְכָֽל הַבֹּטְחִ֖ים
+        עָלָֽיו
 - kind: shared
   label: 'Taunt: Where are the gods of the conquered nations? Could they save their lands from my hand?'
   sides:

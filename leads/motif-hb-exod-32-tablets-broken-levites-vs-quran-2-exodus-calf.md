@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The killing of Israelites after the golden calf [divergence between
-    the texts] (weight 6.7); The Levites kill idolaters including their own kin and are consecrated for
-    it (weight 5.8). Pair score 12.5.'
+    the texts] (weight 7.7); The Levites kill idolaters including their own kin and are consecrated for
+    it (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision

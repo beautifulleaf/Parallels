@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I set before you life and death, blessing and curse: choose life
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Return from exile; the near commandment; choose life: God himself will circumcise your
-    heart and your offspring''s heart; Blessing and curse set before the people as a choice; Those who
-    break God''s covenant and sever ties have the curse and the evil abode; The commandment is not in
-    heaven or beyond the sea but in your mouth and heart; God tries towns with hardship, then with ease,
-    then seizes them suddenly; God will remove the heart of stone and give a heart of flesh and a new
-    spirit; Heaven and earth called as witnesses against the people; In the end of days, in distress,
-    the people will seek God and return; I set before you life and death, blessing and curse: choose life;
-    God burdens no soul beyond its capacity; God will gather the exiles even from the end of heaven and
-    restore them.'
+    heart and your offspring''s heart; Those who break God''s covenant and sever ties have the curse and
+    the evil abode; The commandment is not in heaven or beyond the sea but in your mouth and heart; God
+    tries towns with hardship, then with ease, then seizes them suddenly; Blessing and curse set before
+    the people as a choice; God will remove the heart of stone and give a heart of flesh and a new spirit;
+    In the end of days, in distress, the people will seek God and return; God burdens no soul beyond its
+    capacity; I set before you life and death, blessing and curse: choose life; Heaven and earth called
+    as witnesses against the people; God will gather the exiles even from the end of heaven and restore
+    them.'
   basis: reading
 - text: 'Only in Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils,
     hell nearly bursting with rage: ''Blessed is he in whose hand is the dominion (al-mulk)''; ''Does
@@ -38,11 +38,11 @@ evidence:
     ask ''Did no warner come to you?'' and they admit it did; God created seven heavens in layers (tibaqan);
     look again and again, you will see no flaw or rift; your sight returns dazzled and weary; God adorned
     the lowest heaven with lamps and made them missiles (rujum) against the devils; God created heaven
-    and earth to test which of you is best in deeds; God, who fashions the hearts of all and observes
-    all their deeds, looks down from his dwelling; When the damned are cast in they hear hell gasping/roaring
-    as it boils, nearly bursting with rage; God built the sky and adorned it, and it has no rifts (furuj);
-    The stars fight from their courses against the enemy; The stars fight from their courses against the
-    enemy [divergence between the texts]; and 3 more.'
+    and earth to test which of you is best in deeds; Kingship over heaven and earth and everything is
+    in the god''s hand or grasp; God, who fashions the hearts of all and observes all their deeds, looks
+    down from his dwelling; Death and life (in that order) are set or created by the divine; When the
+    damned are cast in they hear hell gasping/roaring as it boils, nearly bursting with rage; God built
+    the sky and adorned it, and it has no rifts (furuj); and 6 more.'
   basis: reading
 - text: 'Return from exile; the near commandment; choose life: tagged by Claude (model), reading the Hebrew.'
   basis: reading

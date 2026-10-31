@@ -13,37 +13,38 @@ traditions:
 layers:
 - motif
 motifs:
-- humans-seek-refuge-with-jinn-as-contrast
 - angels-guard-and-bear-up
+- humans-seek-refuge-with-jinn-as-contrast
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Men used to seek refuge with male jinn, who only increased them
-    in burden [contrast between the texts] (weight 6.7); God commands his angels to guard the faithful
-    and bear him on their palms lest he strike his foot on a stone (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: God commands his angels to guard the faithful and bear him on their
+    palms lest he strike his foot on a stone (weight 7.7); Men used to seek refuge with male jinn, who
+    only increased them in burden [contrast between the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
-- text: 'Only in Psalm 91, shelter of the Most High; the noonday demon; angels bear you up: One who dwells
-    in the shelter of Elyon lodges in the shadow of Shaddai; God delivers from the snare of the fowler;
-    A thousand fall at your side, ten thousand at your right, but it does not come near you; The protected
-    one treads on lion and cobra, young lion and dragon (tannin); Protection from the terror of the night,
-    the arrow by day, the pestilence (dever) stalking in darkness and Qeteb that ravages at noon; Psalm
-    used as protection against demons and harm (later amulet and ''song of plagues''); Petitioner takes
-    refuge in the shadow of God''s wings; Resheph and Qeteb (plague deities/demons) sent as God''s arrows;
-    A psalm quotes a first-person oracle of God; God called rock, fortress, refuge, stronghold or tower
-    of strength.'
+- text: 'Only in Psalm 91, shelter of the Most High; the noonday demon; angels bear you up: God delivers
+    from the snare of the fowler; A thousand fall at your side, ten thousand at your right, but it does
+    not come near you; The protected one treads on lion and cobra, young lion and dragon (tannin); One
+    who dwells in the shelter of Elyon lodges in the shadow of Shaddai; Psalm used as protection against
+    demons and harm (later amulet and ''song of plagues''); Protection from the terror of the night, the
+    arrow by day, the pestilence (dever) stalking in darkness and Qeteb that ravages at noon; Petitioner
+    takes refuge in the shadow of God''s wings; Resheph and Qeteb (plague deities/demons) sent as God''s
+    arrows; A psalm quotes a first-person oracle of God; God called rock, fortress, refuge, stronghold
+    or tower of strength.'
   basis: reading
 - text: 'Only in The jinn hear the recitation: Men used to seek refuge with male jinn, who only increased
     them in burden; Among the jinn are the righteous and the unjust, believers (muslimun) and deviators
     (qasitun), of different ways; A band of jinn overhears the recitation of scripture, believes and reports
     it to their kind; The places of prostration (al-masajid) belong to God; call on no one beside him;
     God alone knows the unseen and discloses it only to a messenger he approves, sending watchers before
-    and behind him; God has taken neither consort (sahiba) nor child; Jinn or devils who used to sit listening
+    and behind him; God has taken neither consort (sahiba) nor child; Watchmen or guards are posted in
+    the sky at its making: what they keep in or out [divergence between the texts]; Command not to pray
+    to (call on) any other deity besides the one worshipped; A sanctuary or place of worship belongs to
+    one deity: no other god is to be admitted or invoked there; Jinn or devils who used to sit listening
     at heaven''s gates now find it full of stern guards and shooting stars (shuhub) lying in wait; God
     has counted everything by number and recorded it in a book; On that day man asks ''where to flee?''
-    but there is no refuge; the destination is with God; Seek forgiveness and repent, and God will send
-    the sky down on you in abundant rain; Knowledge of the Hour is with God alone; it will come suddenly;
-    Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing.'
+    but there is no refuge; the destination is with God; and 3 more.'
   basis: reading
 - text: 'Psalm 91, shelter of the Most High; the noonday demon; angels bear you up: tagged by Claude (model),
     reading the Hebrew.'

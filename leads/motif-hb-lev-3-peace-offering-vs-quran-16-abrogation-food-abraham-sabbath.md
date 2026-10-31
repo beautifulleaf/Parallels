@@ -19,7 +19,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Eating blood is forbidden (weight 5.6). Pair score 5.6.'
+- text: 'Shared motifs, rarest first: Eating blood is forbidden (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in The well-being (shelamim) offering and the ban on fat and blood: All the fat belongs
     to YHWH; The sacrifice is called God''s food (lehem); Priests dash the blood against all sides of
@@ -35,12 +35,12 @@ evidence:
     Spirit (ruh al-qudus) brings the revelation down from God; The Sabbath was imposed only on those who
     differed about it; Parable of a secure town supplied from everywhere which was ungrateful and was
     made to taste the garment of hunger and fear; God abrogates or causes to be forgotten a verse and
-    brings a better or similar one (naskh); One forced to disbelieve while his heart is firm in faith
-    is excused; Only four foods are forbidden: carrion, blood, swine and what is offered to other than
-    God; Only four foods are forbidden: carrion, blood, swine and what is offered to other than God [contrast
-    between the texts]; Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing
-    [response between the texts]; If you retaliate, do so in kind; but patience is better; The Sabbath
-    was imposed only on those who differed about it [response between the texts]; and 10 more.'
+    brings a better or similar one (naskh); A punishment (skin disease; hunger and fear) put on the guilty
+    like a garment; One forced to disbelieve while his heart is firm in faith is excused; The excuse that
+    one was forced or powerless is put forward for going over to the other side [contrast between the
+    texts]; Fear (and hunger) covers a town''s people like a garment; Only four foods are forbidden: carrion,
+    blood, swine and what is offered to other than God; Only four foods are forbidden: carrion, blood,
+    swine and what is offered to other than God [contrast between the texts]; and 15 more.'
   basis: reading
 - text: 'The well-being (shelamim) offering and the ban on fat and blood: tagged by Claude (model), reading
     the Hebrew.'

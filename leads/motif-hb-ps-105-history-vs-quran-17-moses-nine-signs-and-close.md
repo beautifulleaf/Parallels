@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses was given nine clear signs [divergence between the texts]
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -41,10 +41,11 @@ evidence:
     scripture is recited; Moses was given nine clear signs; Do not be loud in prayer nor too quiet; seek
     a way between [contrast between the texts]; The scripture is sent down in portions so the prophet
     recites it to people at intervals; Those given knowledge before fall on their chins prostrate and
-    weeping when the scripture is recited [divergence between the texts]; Those who do not prostrate when
-    the scripture is recited to them are rebuked (a prostration verse); The returning waters drown the
-    pursuing army; not one survives [divergence between the texts]; The people weep on hearing the words
-    of the Torah; and 3 more.'
+    weeping when the scripture is recited [divergence between the texts]; Whatever name is pronounced,
+    it belongs to the one god: ''he is our god'' / ''his are the beautiful names''; Whatever name is pronounced,
+    it belongs to the one god: ''he is our god'' / ''his are the beautiful names'' [divergence between
+    the texts]; Those who do not prostrate when the scripture is recited to them are rebuked (a prostration
+    verse); and 6 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'

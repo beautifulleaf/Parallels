@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A king receives a foreign ruler''s envoys and gift [contrast between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Hezekiah''s illness, the shadow on the steps and the Babylonian envoys: The king proudly
     shows foreign envoys all his treasures, prompting a prophecy of their loss; A cake of figs laid on
@@ -27,10 +27,10 @@ evidence:
     Prophet tells the sick king ''Set your house in order, for you shall die''; King accepts doom for
     his descendants, glad there will be peace and truth in his own days; Dying man turns his face to the
     wall and prays, weeping; Prophecy that the king''s descendants will be eunuchs in the palace of the
-    king of Babylon; King makes a pool and conduit to bring water into the city; In answer to prayer God
-    adds fifteen years to the king''s life; In answer to prayer God adds fifteen years to the king''s
-    life [contrast between the texts]; As a sign the shadow goes back ten steps on the stairway (dial)
-    of Ahaz; God defends the city for his own sake and for the sake of David his servant; and 1 more.'
+    king of Babylon; In answer to prayer God adds fifteen years to the king''s life; In answer to prayer
+    God adds fifteen years to the king''s life [contrast between the texts]; As a sign the shadow goes
+    back ten steps on the stairway (dial) of Ahaz; King makes a pool and conduit to bring water into the
+    city; God defends the city for his own sake and for the sake of David his servant; and 1 more.'
   basis: reading
 - text: 'Only in Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba: Entering Solomon''s
     palace, the queen takes its floor of smooth glass for a pool and bares her legs; The hoopoe returns
@@ -44,7 +44,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 22 more.'
+    and 42 more.'
   basis: reading
 - text: 'Hezekiah''s illness, the shadow on the steps and the Babylonian envoys: tagged by Claude (model),
     reading the Hebrew.'

@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The guilty are known by their marks and seized by the forelocks
-    and the feet (weight 6.7). Pair score 6.7.'
+    and the feet (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain:
     God rebukes the beast of the reeds (Egypt as hippopotamus or crocodile) and the herd of bulls; Envoys
-    come from Egypt and Cush (Ethiopia) stretches out its hands to God; Dogs lick the blood of the slain
-    enemies (or of the wicked king); Liturgical procession into the sanctuary with singers, musicians
-    and maidens playing drums; God ascends on high leading captives and receiving gifts among men; God''s
-    chariots are myriads, thousands upon thousands; the Lord among them as at Sinai; God says he will
-    bring back (enemies or people) from Bashan and from the depths of the sea; God rides in the heaven
-    of heavens of old and utters his mighty voice; Many-peaked mountains (Bashan) look with envy at the
-    mountain God chose for his dwelling; A dove''s wings covered with silver and its pinions with yellow-green
-    gold; When Shaddai scattered kings, it snowed on Zalmon; A great host of women heralds (mevasserot)
-    announces the victory and women divide the spoil; and 11 more.'
+    come from Egypt and Cush (Ethiopia) stretches out its hands to God; God ascends on high leading captives
+    and receiving gifts among men; God''s chariots are myriads, thousands upon thousands; the Lord among
+    them as at Sinai; God says he will bring back (enemies or people) from Bashan and from the depths
+    of the sea; God rides in the heaven of heavens of old and utters his mighty voice; Many-peaked mountains
+    (Bashan) look with envy at the mountain God chose for his dwelling; A dove''s wings covered with silver
+    and its pinions with yellow-green gold; When Shaddai scattered kings, it snowed on Zalmon; A great
+    host of women heralds (mevasserot) announces the victory and women divide the spoil; Dogs lick the
+    blood of the slain enemies (or of the wicked king); A prophetess leads the women with drums and dances
+    in a victory song; and 11 more.'
   basis: reading
 - text: 'Only in Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs
     of gardens with secluded maidens: The damned go round between Gehenna and seething boiling water;
@@ -44,8 +44,7 @@ evidence:
     attend to you, O two weighty ones (al-thaqalan)''; Doxology: ''Blessed be the name of your Lord, possessor
     of majesty and honor''; Reclining on couches lined with brocade, with the fruit of the gardens hanging
     near; The text addresses jinn and humans together in the dual (''you two'', al-thaqalan, ''the two
-    weighty ones''); O company of jinn and men, pass beyond the regions of the heavens and earth if you
-    can; you cannot without authority; flames and molten brass will be sent on you; and 5 more.'
+    weighty ones''); Favour is repaid with favour (goodness with goodness); and 8 more.'
   basis: reading
 - text: 'Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain: tagged by
     Claude (model), reading the Hebrew.'

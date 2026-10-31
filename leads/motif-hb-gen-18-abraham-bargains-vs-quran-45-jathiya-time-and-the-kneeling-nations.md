@@ -20,13 +20,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do evildoers think God will make them equal to the righteous in
-    life and in death? (weight 5.6). Pair score 5.6.'
+    life and in death? (weight 6.6). Pair score 6.6.'
   basis: reading
-- text: 'Only in Abraham bargains for Sodom: God decides not to hide his plan from his chosen one; Abraham''s
-    plea when told that the city of Lot will be destroyed [divergence between the texts]; A city''s punishment
-    held back for the righteous within it [divergence between the texts]; God comes down to see what humans
-    are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s fate,
-    and his response [divergence between the texts]; Whether punishment strikes the innocent together
+- text: 'Only in Abraham bargains for Sodom: Abraham''s plea when told that the city of Lot will be destroyed
+    [divergence between the texts]; A city''s punishment held back for the righteous within it [divergence
+    between the texts]; God decides not to hide his plan from his chosen one; God comes down to see what
+    humans are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; Whether punishment strikes the innocent together
     with the guilty [contrast between the texts]; Hero challenges God: shall the judge of all the earth
     not do justice? [divergence between the texts]; Hero challenges God: shall the judge of all the earth
     not do justice? [response between the texts]; How God answers Abraham''s plea for the people of Sodom

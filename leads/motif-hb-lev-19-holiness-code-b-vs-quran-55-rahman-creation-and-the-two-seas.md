@@ -20,14 +20,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Just weights and measures, and the ground given for them [divergence
-    between the texts] (weight 6.7); Honest balances, weights, ephah and hin are commanded (weight 4.7).
-    Pair score 11.4.'
+    between the texts] (weight 7.7); Honest balances, weights, ephah and hin are commanded (weight 5.3).
+    Pair score 13.1.'
   basis: reading
-- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Gashes in the flesh
-    for the dead and tattoo marks are forbidden; Prohibition of cross-breeding animals, sowing mixed seed
-    and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three years, holy in the fourth,
-    eaten in the fifth; Rise before the gray-haired and honor the elderly; Man who lies with a slave woman
-    designated to another man: inquiry and guilt offering, not death, because she is not free; A father
+- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Prohibition of cross-breeding
+    animals, sowing mixed seed and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three
+    years, holy in the fourth, eaten in the fifth; Rise before the gray-haired and honor the elderly;
+    Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
+    because she is not free; Gashes in the flesh for the dead and tattoo marks are forbidden; A father
     must not make his daughter a prostitute; The head of a household must not prostitute a woman under
     his authority [divergence between the texts]; Love the stranger, for you were strangers in Egypt;
     Kindness to the near neighbor, the distant neighbor, the companion at one''s side and the wayfarer;
@@ -38,15 +38,15 @@ evidence:
     fire; the two seas and the barrier: God raised the sky and set the Balance: do not transgress in the
     balance; weigh with justice and do not skimp; Lord of the two easts and the two wests (the solstitial
     sunrises and sunsets); The Merciful (al-Rahman) taught the Quran, created man and taught him clear
-    speech (bayan); From the two seas come pearls and coral (marjan); A creation litany with a refrain
+    speech (bayan); From the two seas come pearls and coral (marjan); The divine balance does not tilt,
+    therefore a human judge may not tilt it [divergence between the texts]; A creation litany with a refrain
     after every line [divergence between the texts]; The text addresses jinn and humans together in the
     dual (''you two'', al-thaqalan, ''the two weighty ones''); All in heaven and earth ask of him; every
-    day he is engaged in some affair (kull yawm huwa fi sha''n); Earth and heavens will perish and wear
-    out like a garment, changed like clothing, but God remains the same; Man created from ringing clay
-    like pottery, the jinn from a smokeless flame of fire (marij min nar); Refrain repeated 31 times:
-    ''Which then of the bounties of your Lord will you two (jinn and humans) deny?''; Ships running on
-    the sea like landmarks/mountains are a sign; God could still the wind and leave them motionless or
-    wreck them; The star (or herb, najm) and the tree prostrate themselves to God; and 8 more.'
+    day he is engaged in some affair (kull yawm huwa fi sha''n); The deity made or presides over the balance;
+    do not tamper with it or make it short; A god sets up or holds the scales so that weighing in trade
+    is just; Earth and heavens will perish and wear out like a garment, changed like clothing, but God
+    remains the same; Man created from ringing clay like pottery, the jinn from a smokeless flame of fire
+    (marij min nar); and 13 more.'
   basis: reading
 - text: 'Mixtures, orlah fruit, mourning cuttings, alien and just weights: tagged by Claude (model), reading
     the Hebrew.'
@@ -114,6 +114,12 @@ matches:
     - ref: Quran 55:9
       lang: ar
       text: وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+    - ref: Quran 55:7
+      lang: ar
+      text: وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ
+    - ref: Quran 55:8
+      lang: ar
+      text: أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ
 ---
 
 ## Questions

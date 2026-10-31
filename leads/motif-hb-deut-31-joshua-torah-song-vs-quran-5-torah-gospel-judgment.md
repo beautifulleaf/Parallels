@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The written Torah is entrusted to custodians who are its witnesses
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Joshua commissioned; Torah written and deposited; the Song commanded: Book of the Torah
     placed beside the ark as a witness; God foretells to the dying prophet that the people will go astray

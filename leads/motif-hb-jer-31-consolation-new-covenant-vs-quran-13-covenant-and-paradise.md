@@ -19,18 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wise keep God''s covenant and join the ties he commanded to
-    be joined (weight 6.7). Pair score 6.7.'
+    be joined (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured
     city: In the new age no one will need to teach his neighbor ''Know YHWH'', for all will know him;
     The blind, the lame and women in labor are among the returning exiles; Ephraim likens himself to an
     untrained calf, chastised, and slaps his thigh in repentance; God has loved his people with an everlasting
     love and drawn them with faithfulness; God creates a new thing on earth: ''a female shall encompass
-    a man''; God declares ''I am a father to Israel''; God will forgive iniquity and remember sin no more;
-    God who stirs up the sea so its waves roar; God''s innards yearn (hamu me''ai) with compassion for
-    his wayward son; The people who survived the sword found grace in the wilderness; If the heavens above
-    could be measured and the earth''s foundations searched out, God would reject Israel; God will make
-    a new covenant with Israel and Judah, unlike the one broken after the exodus; and 22 more.'
+    a man''; God will forgive iniquity and remember sin no more; God who stirs up the sea so its waves
+    roar; God''s innards yearn (hamu me''ai) with compassion for his wayward son; The people who survived
+    the sword found grace in the wilderness; If the heavens above could be measured and the earth''s foundations
+    searched out, God would reject Israel; God will make a new covenant with Israel and Judah, unlike
+    the one broken after the exodus; The prophet awakes from a vision-sleep that was sweet to him; and
+    22 more.'
   basis: reading
 - text: 'Only in Those who keep God''s covenant and the abode of Eden (Surah 13:18-29): Angels enter upon
     the blessed from every gate saying ''Peace be upon you for your patience''; In the remembrance of

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
-    (weight 5.1). Pair score 5.1.'
+    (weight 6.1). Pair score 6.1.'
   basis: reading
 - text: 'Only in No rejoicing for Israel; exile, the mad prophet, Baal-peor: The apostasy at Baal-peor;
     Their sacrifices are like the bread of mourners: all who eat it are defiled; Prayer/curse: ''Give

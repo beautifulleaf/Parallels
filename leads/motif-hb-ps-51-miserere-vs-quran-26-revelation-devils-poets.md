@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s spirit in relation to a person''s heart [divergence between
-    the texts] (weight 6.7); God''s ''holy spirit'' (ruah qodesh) is asked not to be taken away from a
-    person (weight 6.0). Pair score 12.7.'
+    the texts] (weight 7.7); God''s ''holy spirit'' (ruah qodesh) is asked not to be taken away from a
+    person (weight 7.1). Pair score 14.8.'
   basis: reading
-- text: 'Only in Psalm 51, David''s confession after Bathsheba (Miserere): Speaker says he was born in
-    iniquity and conceived by his mother in sin; Prayer that God create a pure heart and renew a steadfast
-    spirit within; Prayer ''Lord, open my lips and my mouth will declare your praise''; Petitioner asks
-    to be purged with hyssop and washed whiter than snow; David realizes he was being tested, asks forgiveness,
-    falls down bowing and turns in repentance; Speaker confesses personal sin and pleads for forgiveness
-    and cleansing; Prayer that God rebuild the walls of Jerusalem/Zion; God desires a broken spirit, thanksgiving
-    or obedience rather than animal sacrifice; Superscription sets the psalm in a specific episode of
-    David''s life.'
+- text: 'Only in Psalm 51, David''s confession after Bathsheba (Miserere): Prayer that God create a pure
+    heart and renew a steadfast spirit within; Prayer ''Lord, open my lips and my mouth will declare your
+    praise''; Speaker says he was born in iniquity and conceived by his mother in sin; David realizes
+    he was being tested, asks forgiveness, falls down bowing and turns in repentance; Petitioner asks
+    to be purged with hyssop and washed whiter than snow; Prayer that God rebuild the walls of Jerusalem/Zion;
+    God desires a broken spirit, thanksgiving or obedience rather than animal sacrifice; Speaker confesses
+    personal sin and pleads for forgiveness and cleansing; Superscription sets the psalm in a specific
+    episode of David''s life.'
   basis: reading
 - text: 'Only in The Trustworthy Spirit, the scriptures of the ancients, devils, kin and poets: Devils
     did not bring down the revelation; they are barred from overhearing heaven; The devils descend upon

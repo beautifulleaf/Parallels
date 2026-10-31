@@ -16,24 +16,23 @@ motifs:
 - bronze-beyond-weighing
 - circumference-ratio-three
 - temple-metal-inventory
-- bronze-sea-on-twelve-oxen
 - table-of-showbread
+- bronze-sea-on-twelve-oxen
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Bronze vessels cast in the clay ground of the Jordan plain between
-    Succoth and Zarethan (weight 6.7); The bronze used for the sanctuary is so abundant its weight was
-    not determined (weight 6.7); A round vessel ten cubits across measures thirty around (pi taken as
-    three) (weight 6.7); An accounting of the gold, silver and bronze used for the sanctuary (weight 6.3);
-    A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing the four directions in threes
-    (weight 6.0); A gold table with the bread of the presence always before God (weight 6.0). Pair score
-    38.4.'
+    Succoth and Zarethan (weight 7.7); The bronze used for the sanctuary is so abundant its weight was
+    not determined (weight 7.7); A round vessel ten cubits across measures thirty around (pi taken as
+    three) (weight 7.7); An accounting of the gold, silver and bronze used for the sanctuary (weight 7.1);
+    A gold table with the bread of the presence always before God (weight 6.8); A great cast-bronze ''sea''
+    basin rests on twelve bronze oxen facing the four directions in threes (weight 6.8). Pair score 43.9.'
   basis: reading
 - text: 'Only in The bronze sea, wheeled stands and temple vessels: Ten golden lampstands stand before
     the inner sanctuary, five on each side; Ten wheeled bronze stands decorated with lions, oxen, cherubim
     and palms carry basins; How Solomon''s great bronze works were produced [divergence between the texts];
-    Exact dimensions in cubits are given for a sacred object of the sanctuary; A bronze laver where priests
-    wash hands and feet before service, lest they die; A small gold-plated altar for burning incense before
-    the veil.'
+    Exact dimensions in cubits are given for a sacred object of the sanctuary; A small gold-plated altar
+    for burning incense before the veil; A bronze laver where priests wash hands and feet before service,
+    lest they die.'
   basis: reading
 - text: 'Only in Bronze altar, the molten sea on twelve oxen, lavers, lampstands and tables: A great bronze
     altar twenty cubits square and ten high; The temple has a court of the priests and a great court;
@@ -148,6 +147,21 @@ matches:
         זָהָ֣ב סָג֑וּר וּפֶ֣תַח הַ֠בַּיִת דַּלְתוֹתָ֨יו הַפְּנִימִיּ֜וֹת לְקֹ֣דֶשׁ הַקֳּדָשִׁ֗ים וְדַלְתֵ֥י
         הַבַּ֛יִת לַהֵיכָ֖ל זָהָֽב
 - kind: shared
+  label: A gold table with the bread of the presence always before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 7:48
+      lang: he
+      text: וַיַּ֣עַשׂ שְׁלֹמֹ֔ה אֵ֚ת כָּל הַכֵּלִ֔ים אֲשֶׁ֖ר בֵּ֣ית יְהוָ֑ה אֵ֚ת מִזְבַּ֣ח הַזָּהָ֔ב
+        וְאֶת הַשֻּׁלְחָ֗ן אֲשֶׁ֥ר עָלָ֛יו לֶ֥חֶם הַפָּנִ֖ים זָהָֽב
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 4:19
+      lang: he
+      text: וַיַּ֣עַשׂ שְׁלֹמֹ֔ה אֵ֚ת כָּל הַכֵּלִ֔ים אֲשֶׁ֖ר בֵּ֣ית הָאֱלֹהִ֑ים וְאֵת֙ מִזְבַּ֣ח הַזָּהָ֔ב
+        וְאֶת הַשֻּׁלְחָנ֔וֹת וַעֲלֵיהֶ֖ם לֶ֥חֶם הַפָּנִֽים
+- kind: shared
   label: A great cast-bronze 'sea' basin rests on twelve bronze oxen facing the four directions in threes
   sides:
   - tradition: judaism
@@ -181,21 +195,6 @@ matches:
         וּשְׁלֹשָׁ֣ה פֹּנִ֣ים נֶ֗גְבָּה וּשְׁלֹשָׁה֙ פֹּנִ֣ים מִזְרָ֔חָה וְהַיָּ֥ם עֲלֵיהֶ֖ם מִלְמָ֑עְלָה
         וְכָל אֲחֹרֵיהֶ֖ם בָּֽיְתָה
     note: oxen facing the four directions in threes; gourds of 1Kgs 7:24 become 'likeness of oxen'
-- kind: shared
-  label: A gold table with the bread of the presence always before God
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 1Kgs 7:48
-      lang: he
-      text: וַיַּ֣עַשׂ שְׁלֹמֹ֔ה אֵ֚ת כָּל הַכֵּלִ֔ים אֲשֶׁ֖ר בֵּ֣ית יְהוָ֑ה אֵ֚ת מִזְבַּ֣ח הַזָּהָ֔ב
-        וְאֶת הַשֻּׁלְחָ֗ן אֲשֶׁ֥ר עָלָ֛יו לֶ֥חֶם הַפָּנִ֖ים זָהָֽב
-  - tradition: judaism
-    passages:
-    - ref: 2Chr 4:19
-      lang: he
-      text: וַיַּ֣עַשׂ שְׁלֹמֹ֔ה אֵ֚ת כָּל הַכֵּלִ֔ים אֲשֶׁ֖ר בֵּ֣ית הָאֱלֹהִ֑ים וְאֵת֙ מִזְבַּ֣ח הַזָּהָ֔ב
-        וְאֶת הַשֻּׁלְחָנ֔וֹת וַעֲלֵיהֶ֖ם לֶ֥חֶם הַפָּנִֽים
 ---
 
 ## Questions

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Distress is a narrow place and God''s rescue gives breadth (tsar
-    / merhav; daqa / rahuba) (weight 6.3). Pair score 6.3.'
+    / merhav; daqa / rahuba) (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 118, festal thanksgiving, the rejected stone and hosanna: ''Blessed is he who comes
     in the name of YHWH; we bless you from the house of YHWH''; ''Bind the festal offering with cords
@@ -27,11 +27,11 @@ evidence:
     the righteous enter through it''; Cry ''Ana YHWH hoshi''a na'' (Please, YHWH, save now = hosanna);
     ''I shall not die but live and declare the works of Yah''; chastened but not given over to death;
     ''The stone the builders rejected has become the head of the corner''; All nations surround the speaker
-    like bees, but in YHWH''s name he cuts them off; ''This is the day YHWH has made; let us rejoice and
-    be glad in it''; It is better to take refuge in YHWH than to trust in man or in princes; Enemy chased
-    them ''as bees do''; A psalm quotes the Song of the Sea: ''Yah is my strength and song and has become
-    my salvation''; Refrain of trust: ''In God I trust; I will not fear; what can flesh/man do to me?'';
-    and 4 more.'
+    like bees, but in YHWH''s name he cuts them off; Enemy chased them ''as bees do''; A psalm quotes
+    the Song of the Sea: ''Yah is my strength and song and has become my salvation''; ''This is the day
+    YHWH has made; let us rejoice and be glad in it''; Refrain of trust: ''In God I trust; I will not
+    fear; what can flesh/man do to me?''; It is better to take refuge in YHWH than to trust in man or
+    in princes; and 4 more.'
   basis: reading
 - text: 'Only in The three who were left behind; every step recorded: The three who stayed behind are
     forgiven after the earth grew narrow for them and they found no refuge but God; Every thirst, fatigue,

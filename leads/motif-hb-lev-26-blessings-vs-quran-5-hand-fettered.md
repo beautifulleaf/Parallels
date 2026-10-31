@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Had they observed the Torah and Gospel they would have eaten from
-    above them and beneath their feet (weight 6.0). Pair score 6.0.'
+    above them and beneath their feet (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Covenant blessings for obedience: God promises to walk about in the midst of the people;
     No idols, carved image, pillar or figured stone set up to bow down on; Blessing: five of you will

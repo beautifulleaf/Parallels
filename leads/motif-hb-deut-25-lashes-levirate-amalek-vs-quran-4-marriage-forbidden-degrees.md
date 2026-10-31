@@ -20,15 +20,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What becomes of a dead man''s widow within his family [contrast
-    between the texts] (weight 6.7); A man must marry his dead brother''s widow to raise seed for the
-    brother (weight 6.3). Pair score 13.0.'
+    between the texts] (weight 7.7); A man must marry his dead brother''s widow to raise seed for the
+    brother (weight 7.1). Pair score 14.8.'
   basis: reading
-- text: 'Only in Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: Do not muzzle the ox
-    while it threshes; Flogging limited to forty stripes so your brother is not degraded; Widow removes
-    the refusing brother-in-law''s sandal and spits in his face; Remember Amalek who attacked the stragglers;
-    blot out his memory; Woman who seizes a man''s genitals in a brawl has her hand cut off; How many
-    lashes a flogging may have [contrast between the texts]; No two kinds of weights or measures; just
-    weights for long life; Honest balances, weights, ephah and hin are commanded.'
+- text: 'Only in Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: Flogging limited to
+    forty stripes so your brother is not degraded; Widow removes the refusing brother-in-law''s sandal
+    and spits in his face; Remember Amalek who attacked the stragglers; blot out his memory; Woman who
+    seizes a man''s genitals in a brawl has her hand cut off; Do not muzzle the ox while it threshes;
+    How many lashes a flogging may have [contrast between the texts]; No two kinds of weights or measures;
+    just weights for long life; Honest balances, weights, ephah and hin are commanded.'
   basis: reading
 - text: 'Only in Inheriting women, the dowry, and the forbidden degrees: A husband exchanging one wife
     for another may not take back anything he gave, even a qinṭār; God wishes to lighten your burden,
@@ -39,9 +39,9 @@ evidence:
     a slave woman designated to another man: inquiry and guilt offering, not death, because she is not
     free; The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit
     part; List of forbidden close-kin unions (''uncovering nakedness'') [divergence between the texts];
-    Married women are forbidden except those one''s right hand possesses (captives); Marrying two sisters
-    [divergence between the texts]; A man may not marry his wife''s sister as a rival while the wife lives;
-    and 3 more.'
+    Married women are forbidden except those one''s right hand possesses (captives); A man marries a slave
+    woman by leave of her owner and with a payment; Marrying two sisters [divergence between the texts];
+    and 5 more.'
   basis: reading
 - text: 'Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: tagged by Claude (model), reading
     the Hebrew.'

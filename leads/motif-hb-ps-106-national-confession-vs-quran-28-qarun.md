@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
-    5.0). Pair score 5.0.'
+    5.9). Pair score 5.9.'
   basis: reading
 - text: 'Only in Psalm 106, national confession of sins from Egypt to exile: Israel ate ''sacrifices of
     the dead'' (zivhei metim) at Baal-peor; God caused the exiles to be pitied by all their captors; God
@@ -28,19 +28,21 @@ evidence:
     reckoned to him as righteousness for all generations''; Israel ''yokes itself'' to Baal of Peor; List
     of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning; The
     people exchanged their Glory for the image of an ox that eats grass; Moses ''stood in the breach''
-    (pérets) before God to turn back his wrath from destroying the people; Speaker confesses personal
-    sin and pleads for forgiveness and cleansing; God turned the sea into dry land and they crossed the
-    river on foot; Shed blood pollutes the land and only the killer''s blood atones for it; and 16 more.'
+    (pérets) before God to turn back his wrath from destroying the people; God turned the sea into dry
+    land and they crossed the river on foot; Shed blood pollutes the land and only the killer''s blood
+    atones for it; A closing doxology and the divine title it uses [divergence between the texts]; and
+    16 more.'
   basis: reading
 - text: 'Only in Qarun''s treasures and his swallowing by the earth; closing: God who imposed the Quran
     will bring the prophet back to a place of return (maʿād); Qārūn says his wealth came to him through
     knowledge he possesses; Qārūn (Korah) of Moses'' people was given treasures whose keys would weigh
     down a band of strong men; Donors confess that everything comes from God and they only give back what
-    is his; Bystanders of a divine punishment fear it could have struck them too; Qārūn goes out in his
-    finery and the worldly wish for his fortune; What Korah''s sin was, and why the earth swallowed him
-    [divergence between the texts]; All on earth perish; there remains the Face of your Lord, possessor
-    of majesty and honor; Warning against saying my power and the might of my hand made this wealth; The
-    rich man''s wealth is his strong city; the poverty of the poor is their ruin.'
+    is his; The earth opens and swallows ill-gotten riches or the wrongful rich man with his house; Bystanders
+    of a divine punishment fear it could have struck them too; Qārūn goes out in his finery and the worldly
+    wish for his fortune; What Korah''s sin was, and why the earth swallowed him [divergence between the
+    texts]; All on earth perish; there remains the Face of your Lord, possessor of majesty and honor;
+    Warning against saying my power and the might of my hand made this wealth; The rich man''s wealth
+    is his strong city; the poverty of the poor is their ruin.'
   basis: reading
 - text: 'Psalm 106, national confession of sins from Egypt to exile: tagged by Claude (model), reading
     the Hebrew.'

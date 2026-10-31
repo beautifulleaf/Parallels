@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s mission and the hearers'' closed ears, eyes and hearts:
-    caused, sealed, or beyond his cure [divergence between the texts] (weight 6.0). Pair score 6.0.'
+    caused, sealed, or beyond his cure [divergence between the texts] (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -27,12 +27,12 @@ evidence:
     terebinth or oak whose stump is the holy seed; At the heavenly voice the doorposts shake and the house
     fills with smoke; Prophet sees the Lord seated on a high and lifted-up throne, his train filling the
     temple; Heavenly beings call ''Holy, holy, holy is YHWH of hosts; the whole earth is full of his glory'';
-    God asks ''Whom shall I send, and who will go for us?'' and the prophet volunteers ''Here am I, send
-    me''; Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The
-    angels say: each of us has a known station; we are ranged in ranks; we glorify; God has not given
-    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
-    Hardening of the heart, ears and eyes of the hearers [divergence between the texts]; God is ''Lord
-    of the mighty Throne'' (rabb al-''arsh al-''azim); and 11 more.'
+    Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The angels
+    say: each of us has a known station; we are ranged in ranks; we glorify; God has not given the people
+    a heart to know, eyes to see, ears to hear until today [divergence between the texts]; Hardening of
+    the heart, ears and eyes of the hearers [divergence between the texts]; God is ''Lord of the mighty
+    Throne'' (rabb al-''arsh al-''azim); The prophet''s word and a people deaf and blind to it [divergence
+    between the texts]; and 11 more.'
   basis: reading
 - text: 'Only in Abraham disowns his father''s worship; the great man of the two towns; silver roofs;
     the devil-companion: The damned wishes that between him and his companion lay ''the distance of the
@@ -40,14 +40,14 @@ evidence:
     roofs, stairways, doors, couches and gold ornament; Abraham declares to his father and people that
     he is free of what they worship, except the one who created him; How Abraham parts from his father
     and his father''s land or gods [divergence between the texts]; The people are told to choose this
-    day whom they will serve; God expands provision (rizq) for whom he wills and restricts it; Lying on
-    ivory beds eating lambs and calves, improvising on the harp like David, drinking wine from bowls and
-    anointing with finest oils; What is given in this life is passing enjoyment (mata''); what is with
-    God is better and more lasting; Opponents ask why the revelation was not sent down to some great man
-    of the two towns; The wealth of the wicked: a scandal to be explained, or worthless enjoyment [divergence
-    between the texts]; Abraham''s confession is left as an enduring word among his descendants (''aqib);
-    Whoever turns from God''s remembrance is assigned a devil as constant companion (qarin), whom he curses
-    at the judgment; and 3 more.'
+    day whom they will serve; An evil spirit attached to a person is wished away to a vast, measured distance
+    [divergence between the texts]; God expands provision (rizq) for whom he wills and restricts it; A
+    dwelling built or roofed with silver and gold [divergence between the texts]; Lying on ivory beds
+    eating lambs and calves, improvising on the harp like David, drinking wine from bowls and anointing
+    with finest oils; What is given in this life is passing enjoyment (mata''); what is with God is better
+    and more lasting; Opponents ask why the revelation was not sent down to some great man of the two
+    towns; The wealth of the wicked: a scandal to be explained, or worthless enjoyment [divergence between
+    the texts]; and 5 more.'
   basis: reading
 - text: 'The throne vision and the call of Isaiah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -13,8 +13,8 @@ traditions:
 layers:
 - motif
 motifs:
-- intercession-for-aaron
 - moses-prays-for-aaron-as-divergence
+- intercession-for-aaron
 - tablets-broken
 - prophet-intercedes-for-people
 - fate-of-the-first-tablets-as-divergence
@@ -23,12 +23,12 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Moses intercedes for Aaron, with whom God was angry enough to destroy
-    him (weight 6.7); Moses prays for Aaron after the calf [divergence between the texts] (weight 6.7);
-    The prophet breaks the tablets in anger at the idolatry (weight 6.3); Prophet intercedes and averts
-    God''s destruction of the people (weight 6.3); What becomes of the first tablets after the calf: broken
-    and replaced, or cast down and taken up again [divergence between the texts] (weight 5.8); People
-    make a molten calf while the leader is on the mountain (weight 4.7). Pair score 36.5.'
+- text: 'Shared motifs, rarest first: Moses prays for Aaron after the calf [divergence between the texts]
+    (weight 7.7); Moses intercedes for Aaron, with whom God was angry enough to destroy him (weight 7.7);
+    The prophet breaks the tablets in anger at the idolatry (weight 7.3); Prophet intercedes and averts
+    God''s destruction of the people (weight 7.3); What becomes of the first tablets after the calf: broken
+    and replaced, or cast down and taken up again [divergence between the texts] (weight 6.8); People
+    make a molten calf while the leader is on the mountain (weight 5.8). Pair score 42.8.'
   basis: reading
 - text: 'Only in Not for your righteousness; the golden calf and Moses'' intercession recalled: Land given
     not for Israel''s righteousness but for the nations'' wickedness; Intercession appeals to what the
@@ -49,7 +49,7 @@ evidence:
     he will be gracious to whom he will be gracious; God''s mercy encompasses all things; Moses includes
     himself with the guilty people in his plea after the calf [divergence between the texts]; Moses ''stood
     in the breach'' (pérets) before God to turn back his wrath from destroying the people; After the calf
-    the people mourn or repent of what they did [divergence between the texts]; and 10 more.'
+    the people mourn or repent of what they did [divergence between the texts]; and 11 more.'
   basis: reading
 - text: 'Not for your righteousness; the golden calf and Moses'' intercession recalled: tagged by Claude
     (model), reading the Hebrew.'

@@ -20,16 +20,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son to a barren couple [divergence
-    between the texts] (weight 6.0); A barren wife is told by a divine messenger that she will bear a
-    son (weight 5.8); The patriarch''s wife is barren (weight 5.2). Pair score 17.0.'
+    between the texts] (weight 7.1); A barren wife is told by a divine messenger that she will bear a
+    son (weight 6.8); The patriarch''s wife is barren (weight 6.0). Pair score 19.9.'
   basis: reading
 - text: 'Only in Annunciation of Samson''s birth to Manoah''s wife: Divine messenger ascends to heaven
-    in the flame of the altar; Divine visitor refuses the meal offered him and redirects it to God as
-    an offering; Pregnant mother told to abstain from wine and unclean food for the child''s sake; Divine
-    being refuses to tell his name, calling it wonderful or secret; God''s spirit appears to a woman in
-    the form of a well-proportioned man; Witness fears he will die because he has seen God or an angel;
-    Child consecrated as a nazirite from the womb, his hair never to be cut; Spirit of God rushes upon
-    a man, giving him strength or ecstasy.'
+    in the flame of the altar; Pregnant mother told to abstain from wine and unclean food for the child''s
+    sake; Divine being refuses to tell his name, calling it wonderful or secret; Divine visitor refuses
+    the meal offered him and redirects it to God as an offering; God''s spirit appears to a woman in the
+    form of a well-proportioned man; Witness fears he will die because he has seen God or an angel; Child
+    consecrated as a nazirite from the womb, his hair never to be cut; Spirit of God rushes upon a man,
+    giving him strength or ecstasy.'
   basis: reading
 - text: 'Only in The family of Imran, Mary and Zechariah: Angels call to Zechariah while he stands praying
     in the sanctuary, announcing John (Yahya); John (Yahya) foretold as noble, chaste (hasur) and a prophet,
@@ -40,8 +40,8 @@ evidence:
     by gestures; Zechariah is made Mary''s guardian; Prophet promises a childless woman with an old husband
     a son ''at this season next year''; God chose Adam, Noah, the family of Abraham and the family of
     Imran over the worlds; Doubt voiced at the promise of a son in old age [divergence between the texts];
-    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; Mother vows her (unborn)
-    child to God''s service [divergence between the texts]; and 11 more.'
+    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; A mother commits her
+    child to her god''s keeping, against sin or against the evil one; and 14 more.'
   basis: reading
 - text: 'Annunciation of Samson''s birth to Manoah''s wife: tagged by Claude (model), reading the Hebrew.'
   basis: reading

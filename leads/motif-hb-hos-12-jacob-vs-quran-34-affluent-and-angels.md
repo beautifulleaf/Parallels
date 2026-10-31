@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every town''s affluent ones (mutrafun) reject the warner, boasting
-    ''we have more wealth and children; we will not be punished'' (weight 6.3). Pair score 6.3.'
+    ''we have more wealth and children; we will not be punished'' (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Jacob''s story as indictment; Canaan''s false scales: God will make Israel dwell in tents
     again, as in the days of the appointed feast; God has spoken through the prophets, multiplied visions

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sage lets the prophet accompany him on condition he asks nothing
-    until told (weight 6.7). Pair score 6.7.'
+    until told (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Elijah taken up in the whirlwind: Disciple asks for a double portion (pi shnayim) of
     the master''s spirit, granted if he sees him taken; Prophet rolls up his mantle, strikes the Jordan,
@@ -41,7 +41,7 @@ evidence:
     until they come of age; Realizing the sign, the travelers retrace their footsteps; The travelers rest
     at a rock where the sign occurs; The sage kills a boy they meet; The sage repairs a wall about to
     collapse in the inhospitable town without payment; The sage holes the boat that carries them; A servant
-    of God given mercy and knowledge from God''s presence (ilm ladunni); and 6 more.'
+    of God given mercy and knowledge from God''s presence (ilm ladunni); and 8 more.'
   basis: reading
 - text: 'Elijah taken up in the whirlwind: tagged by Claude (model), reading the Hebrew.'
   basis: reading

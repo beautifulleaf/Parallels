@@ -19,9 +19,9 @@ motifs:
 - father-serves-idols
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero blames the largest idol for the destruction (weight 6.0); Hero
-    smashes or burns idols (weight 5.6); Hero''s father makes, sells or worships idols (weight 4.8). Pair
-    score 16.4.'
+- text: 'Shared motifs, rarest first: Hero blames the largest idol for the destruction (weight 7.1); Hero
+    smashes or burns idols (weight 6.6); Hero''s father makes, sells or worships idols (weight 5.9). Pair
+    score 19.6.'
   basis: reading
 - text: 'Only in Abraham and the idols in the Quran: The fire does not harm the hero; Hero reasons from
     the stars, moon and sun to the one God; Hero thrown into a fire or furnace by a king or people.'
@@ -32,9 +32,9 @@ evidence:
     bull is sacrificed on wood of the felled Asherah; The townsmen demand the death of the one who destroyed
     their god''s altar; The idolatrous father threatens to stone his son and banishes him [contrast between
     the texts]; If he is a god, let him defend himself [divergence between the texts]; The called one
-    asks for a sign that it is God who speaks [divergence between the texts]; The called one asks for
-    a sign that it is God who speaks; Hero''s father makes, sells or worships idols [divergence between
-    the texts]; Spirit of God rushes upon a man, giving him strength or ecstasy.'
+    asks for a sign that it is God who speaks [divergence between the texts]; Hero''s father makes, sells
+    or worships idols [divergence between the texts]; The called one asks for a sign that it is God who
+    speaks; Spirit of God rushes upon a man, giving him strength or ecstasy.'
   basis: reading
 - text: 'Abraham and the idols in the Quran: tagged by Claude (model), reading the Arabic.'
   basis: reading

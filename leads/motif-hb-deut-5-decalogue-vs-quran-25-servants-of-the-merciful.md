@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness [divergence
-    between the texts] (weight 5.8); Prohibitions of murder, adultery, theft and false witness (weight
-    5.1). Pair score 10.9.'
+    between the texts] (weight 6.8); Prohibitions of murder, adultery, theft and false witness (weight
+    5.7). Pair score 12.5.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -39,10 +39,12 @@ evidence:
     they spend they are neither extravagant nor stingy, but in between; The righteous spend the night
     prostrating and standing before their Lord; The righteous are rewarded with the lofty chamber (al-ghurfa)
     and greeted with peace; The servants of the Merciful walk humbly on the earth and answer the ignorant
-    with ''Peace''; Though sins be like scarlet they shall be white as snow; though red as crimson, like
-    wool; Your wife a fruitful vine in the recesses of your house, your children like olive shoots around
-    your table; Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool
-    according to his folly''; What God requires: to do justice, love hesed and walk humbly with your God.'
+    with ''Peace''; Do not bear false witness (mtr n mdw n ʿḏꜣ / shahādat al-zūr); When the ignorant or
+    weak man disputes with you, do not engage him: leave him; Though sins be like scarlet they shall be
+    white as snow; though red as crimson, like wool; Your wife a fruitful vine in the recesses of your
+    house, your children like olive shoots around your table; What God requires: to do justice, love hesed
+    and walk humbly with your God; Contradictory pair: ''Do not answer a fool according to his folly''
+    / ''Answer a fool according to his folly''.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: List of punishment types for the nations: stone-storm, the Shout,
-    swallowing by the earth, drowning (weight 6.7); The earth opens its mouth and swallows rebels alive
-    into Sheol (weight 5.0). Pair score 11.7.'
+    swallowing by the earth, drowning (weight 7.7); The earth opens its mouth and swallows rebels alive
+    into Sheol (weight 5.9). Pair score 13.6.'
   basis: reading
 - text: 'Only in Psalm 106, national confession of sins from Egypt to exile: Israel ate ''sacrifices of
     the dead'' (zivhei metim) at Baal-peor; God caused the exiles to be pitied by all their captors; God
@@ -29,10 +29,10 @@ evidence:
     Moses spoke rashly with his lips and suffered because of the people; Phinehas''s intervention ''was
     reckoned to him as righteousness for all generations''; Israel ''yokes itself'' to Baal of Peor; The
     people exchanged their Glory for the image of an ox that eats grass; Moses ''stood in the breach''
-    (pérets) before God to turn back his wrath from destroying the people; Speaker confesses personal
-    sin and pleads for forgiveness and cleansing; God turned the sea into dry land and they crossed the
-    river on foot; Shed blood pollutes the land and only the killer''s blood atones for it; A closing
-    doxology and the divine title it uses [divergence between the texts]; and 15 more.'
+    (pérets) before God to turn back his wrath from destroying the people; God turned the sea into dry
+    land and they crossed the river on foot; Shed blood pollutes the land and only the killer''s blood
+    atones for it; A closing doxology and the divine title it uses [divergence between the texts]; Egypt
+    is called ''the tents of Ham'' or ''the land of Ham''; and 15 more.'
   basis: reading
 - text: 'Only in Midian, Ad, Thamud, Korah, Pharaoh and Haman punished: The prophet Shu''ayb is sent to
     his kin, the people of Midian (Madyan); How the people of Midian came to be destroyed [divergence

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Long catalogue of women''s jewelry and garments (anklets, crescents,
-    amulets, nose-rings, perfume boxes, veils) (weight 6.7). Pair score 6.7.'
+    amulets, nose-rings, perfume boxes, veils) (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Removal of stay and staff; children rule; the finery of the daughters of Zion; seven
     women and one man: Amulets, charms or ''houses of the soul'' (bottei ha-nefesh) worn as protection;

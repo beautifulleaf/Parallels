@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Punishment of those who break the Sabbath [divergence between the
-    texts] (weight 6.0). Pair score 6.0.'
+    texts] (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The Sabbath wood-gatherer; the law of tassels: Man gathering wood on the Sabbath is stoned
     by divine ruling; Tassels (tzitzit) with a blue cord on garment corners as reminder; ''Do not go about

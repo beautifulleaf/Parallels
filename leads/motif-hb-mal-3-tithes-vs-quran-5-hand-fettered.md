@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Had they observed the Torah and Gospel they would have eaten from
-    above them and beneath their feet (weight 6.0). Pair score 6.0.'
+    above them and beneath their feet (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Return to me; will a man rob God? Test me with the tithe: ''I YHWH do not change; therefore
     you sons of Jacob are not consumed''; ''Will a man rob God? Yet you rob me'' in tithes and offerings;
-    Locust, worm and cricket devour crops, vines and trees; God opens the windows or gates of heaven,
-    for blessing or for the flood [contrast between the texts]; ''Return to me and I will return to you'',
-    says God; Bring the whole tithe to the storehouse and test God: he will open the windows of heaven
-    and pour out blessing without limit; Disputation form: God states a claim, the people object ''How
-    have you...?'', and God answers; The tithe given to the Levites; Levites give a tithe of the tithe;
-    The way (sunna) of God with those who passed before: you will find no change in God''s way; God opens
-    his good storehouse, the heavens, to give rain.'
+    God opens the windows or gates of heaven, for blessing or for the flood [contrast between the texts];
+    ''Return to me and I will return to you'', says God; Bring the whole tithe to the storehouse and test
+    God: he will open the windows of heaven and pour out blessing without limit; Disputation form: God
+    states a claim, the people object ''How have you...?'', and God answers; The tithe given to the Levites;
+    Levites give a tithe of the tithe; The way (sunna) of God with those who passed before: you will find
+    no change in God''s way; Locust, worm and cricket devour crops, vines and trees; God opens his good
+    storehouse, the heavens, to give rain.'
   basis: reading
 - text: 'Only in ''God''s hand is fettered''; the blessings of observing the Torah: Believers, Jews, Sabians
     and Christians who believe in God and the last day and do good need not fear; Whenever they kindle

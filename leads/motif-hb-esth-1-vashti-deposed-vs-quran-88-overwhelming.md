@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Palace garden decorated with fine hangings, marble columns, gold
-    and silver couches and mosaic pavement (weight 6.7). Pair score 6.7.'
+    and silver couches and mosaic pavement (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ahasuerus''s banquets and Queen Vashti''s refusal: Royal decree that every man shall
     rule in his own house; Merry with wine, the king orders the queen brought in her crown to show her
@@ -33,16 +33,17 @@ evidence:
     own language; and 2 more.'
   basis: reading
 - text: 'Only in The overwhelming event: dari'' and the carpets of paradise: The prophet is only a reminder
-    (mudhakkir), not a controller (musaytir) over people; Hell''s food chokes (dha ghussa) or is dari''
-    (a thorny plant) that neither nourishes nor satisfies hunger; Paradise has named springs: Salsabil,
-    Tasnim (and a spring the servants of God make gush forth); In paradise there is no idle talk (laghw)
-    nor lying; Paradise has raised couches (arā''ik, surur), set goblets, cushions in rows and spread
-    carpets; Rhetorical divine questions: where were you when I founded the earth? Do you know...?; In
-    hell they taste no coolness nor drink except boiling water (hamim) and dark, foul fluid (ghassaq),
-    or drink from a boiling spring; On that day some faces are radiant, laughing and joyful, others scowling,
-    dust-covered and overcast with darkness; God spread out the earth as a carpet, cradle or bed (bisat,
-    mihad, daha, sutihat, tahaha); God set the mountains as pegs or firm anchors (awtad, rawasi) for the
-    earth.'
+    (mudhakkir), not a controller (musaytir) over people; Food that is eaten but does not still hunger;
+    What the dead are given to eat and drink in the other world [divergence between the texts]; Hell''s
+    food chokes (dha ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies hunger;
+    Paradise has named springs: Salsabil, Tasnim (and a spring the servants of God make gush forth); In
+    paradise there is no idle talk (laghw) nor lying; Paradise has raised couches (arā''ik, surur), set
+    goblets, cushions in rows and spread carpets; Rhetorical divine questions: where were you when I founded
+    the earth? Do you know...?; In hell they taste no coolness nor drink except boiling water (hamim)
+    and dark, foul fluid (ghassaq), or drink from a boiling spring; On that day some faces are radiant,
+    laughing and joyful, others scowling, dust-covered and overcast with darkness; God spread out the
+    earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha); God set the mountains as pegs
+    or firm anchors (awtad, rawasi) for the earth.'
   basis: reading
 - text: 'Ahasuerus''s banquets and Queen Vashti''s refusal: tagged by Claude (model), reading the Hebrew.'
   basis: reading

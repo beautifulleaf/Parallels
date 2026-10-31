@@ -20,16 +20,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God Most High (El Elyon), creator/possessor of heaven and earth
-    (weight 5.8). Pair score 5.8.'
+    (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 7 - Shiggayon concerning Cush the Benjaminite: The congregation of peoples surrounds
-    God as he takes his seat on high to judge; Oath of innocence: ''If I have done this... let the enemy
-    pursue and trample me''; God whets his sword and strings his bow, preparing deadly fiery arrows; The
-    wicked conceives mischief, is pregnant with trouble and gives birth to falsehood; They plot a plot,
+    God as he takes his seat on high to judge; God whets his sword and strings his bow, preparing deadly
+    fiery arrows; The wicked conceives mischief, is pregnant with trouble and gives birth to falsehood;
+    Oath of innocence: ''If I have done this... let the enemy pursue and trample me''; They plot a plot,
     and God plots a plot; give the deniers respite a little; The evil plot encompasses only its own authors;
     The enemy is like a lion that tears the speaker''s soul or lurks in ambush; Call to God to arise (qumah
-    YHWH) and save or judge; God tests the hearts and the kidneys (inner self); He who digs a pit or hides
-    a net is caught in it himself; Superscription sets the psalm in a specific episode of David''s life;
+    YHWH) and save or judge; He who digs a pit or hides a net is caught in it himself; God tests the hearts
+    and the kidneys (inner self); Superscription sets the psalm in a specific episode of David''s life;
     Superscription contains an obscure musical or liturgical term (neginot, nehilot, sheminit, gittit,
     alamot, shiggayon, maskil, miktam, shoshannim...); and 1 more.'
   basis: reading
@@ -37,9 +37,10 @@ evidence:
     that he will not forget, except what God wills; ''I YHWH make all things, who alone stretched out
     the heavens, who spread out the earth - who was with me?''; The most wretched burns in the great fire,
     in which he neither dies nor lives; The message is in the former scrolls, the scrolls of Abraham and
-    Moses; God proportioned the soul and inspired it with (knowledge of) its wickedness and its piety;
-    who purifies it prospers; God pours down rain, splits the earth and makes grain, grapes, olives, palms
-    and pasture grow, as provision and sign.'
+    Moses; Some prefer and praise life on earth over the hereafter, and are corrected; A being is ''neither
+    living nor dead'' (formula); God proportioned the soul and inspired it with (knowledge of) its wickedness
+    and its piety; who purifies it prospers; God pours down rain, splits the earth and makes grain, grapes,
+    olives, palms and pasture grow, as provision and sign.'
   basis: reading
 - text: 'Psalm 7 - Shiggayon concerning Cush the Benjaminite: tagged by Claude (model), reading the Hebrew.'
   basis: reading

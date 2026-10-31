@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God forbids the prophet to pray or intercede for the people, for
-    he will not hear (weight 5.4). Pair score 5.4.'
+    he will not hear (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The drought - the doe forsakes her fawn; lying prophets: In drought the doe abandons
     her newborn fawn and wild asses pant for air like jackals, their eyes failing; Lament asks why God
@@ -35,11 +35,13 @@ evidence:
   basis: reading
 - text: 'Only in The broken vow of charity; seventy prayers in vain: Hypocrites mock believers who give
     voluntarily and those who can give only their effort; Men vow to give alms if God enriches them, then
-    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; Hero
+    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; The
+    vow made to the deity is not kept, the deity takes note of the breach and the vower is punished; Hero
     vows that if God protects and provides for him, he will worship and tithe [divergence between the
     texts]; Whether the prophet should intercede for a sinful people [contrast between the texts]; Even
     if the prophet asks forgiveness for them seventy times God will not forgive them; God is near in their
-    mouths but far from their kidneys (hearts); Pay vows without delay; not vowing is no sin.'
+    mouths but far from their kidneys (hearts); Pay vows without delay; not vowing is no sin; The petitioner
+    promises a gift if the deity grants the request: ''if you do this, I will give you ...''.'
   basis: reading
 - text: 'The drought - the doe forsakes her fawn; lying prophets: tagged by Claude (model), reading the
     Hebrew.'

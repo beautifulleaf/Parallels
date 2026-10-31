@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- gatekeepers-bar-the-unclean
 - impure-barred-from-sanctuary-as-divergence
+- gatekeepers-bar-the-unclean
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Gatekeepers stationed so that no one unclean enters the temple (weight
-    6.7); Those counted impure are kept out of the sanctuary [divergence between the texts] (weight 6.7).
-    Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Those counted impure are kept out of the sanctuary [divergence between
+    the texts] (weight 7.7); Gatekeepers stationed so that no one unclean enters the temple (weight 7.7).
+    Pair score 15.5.'
   basis: reading
 - text: 'Only in Jehoiada''s coup with the Levites; Joash crowned, Athaliah killed, Baal temple destroyed:
     After the usurper''s execution the people rejoice and the city is quiet; A priestly coup is timed

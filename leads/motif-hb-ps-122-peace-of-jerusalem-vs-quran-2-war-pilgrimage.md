@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand
-    within Jerusalem''s gates (weight 6.3); Three annual pilgrimage festivals when every male appears
-    before God (weight 5.3). Pair score 11.6.'
+    within Jerusalem''s gates (weight 7.3); Three annual pilgrimage festivals when every male appears
+    before God (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in Psalm 122, pilgrim''s song, pray for the peace of Jerusalem: Jerusalem built ''as a city
     that is joined together'' (shehubberah lah yahdav); ''Pray for the peace of Jerusalem: may those who
@@ -39,7 +39,7 @@ evidence:
     at the Sacred Mosque unless they fight you there; No sexual talk, wickedness or quarreling during
     the pilgrimage; Remember God as you remember your fathers, or more; The sacred month for the sacred
     month; violations are subject to retaliation; Do not shave heads until the sacrificial offering (hady)
-    reaches its place; and 9 more.'
+    reaches its place; and 11 more.'
   basis: reading
 - text: 'Psalm 122, pilgrim''s song, pray for the peace of Jerusalem: tagged by Claude (model), reading
     the Hebrew.'

@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The idols create nothing, are themselves created, and are dead,
-    not living (weight 6.0); Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0).
-    Pair score 11.0.'
+    not living (weight 7.1); Idols of wood and stone that cannot see, hear, eat or smell (weight 6.0).
+    Pair score 13.1.'
   basis: reading
 - text: 'Only in Psalm 135, hymn on God''s power, election and the idols: Whatever YHWH pleases he does,
     in heaven, on earth, in the seas and all the deeps; God struck the firstborn of Egypt, of man and
@@ -39,11 +39,11 @@ evidence:
     food, burden-bearing and the beauty of herds coming and going; God made horses, mules and donkeys
     to ride and for adornment, and creates what you do not know; Man was created from a drop, yet he becomes
     an open adversary; The subjected sea gives fresh meat and ornaments to wear, and ships cleave it;
-    Night, day, sun, moon and stars are subjected by God''s command; If you counted God''s blessings you
-    could never number them; Your God is one God (ilahukum ilahun wahid); God made the stars for guidance
-    in the darknesses of land and sea; God set firm mountains on the earth lest it sway with people; God
-    pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow, as provision
-    and sign.'
+    Night, day, sun, moon and stars are subjected by God''s command; The horse is for riding and display
+    and is not eaten; cattle carry loads (and are eaten); If you counted God''s blessings you could never
+    number them; The creator made plants, cattle, fowl and fish to feed humankind; Your God is one God
+    (ilahukum ilahun wahid); God made the stars for guidance in the darknesses of land and sea; God set
+    firm mountains on the earth lest it sway with people; and 1 more.'
   basis: reading
 - text: 'Psalm 135, hymn on God''s power, election and the idols: tagged by Claude (model), reading the
     Hebrew.'

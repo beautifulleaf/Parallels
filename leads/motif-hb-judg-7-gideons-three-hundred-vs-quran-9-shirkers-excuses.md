@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The fearful are sent home before battle (weight 6.3). Pair score
-    6.3.'
+- text: 'Shared motifs, rarest first: The fearful are sent home before battle (weight 7.3). Pair score
+    7.3.'
   basis: reading
 - text: 'Only in The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns: An enemy
     soldier''s dream, overheard, foretells their defeat; The Hill of Moreh (''teacher'') and the Spring
@@ -36,11 +36,11 @@ evidence:
     shirkers leave before the truthful were clear; Alms given grudgingly by unbelievers will not be accepted;
     Nothing will befall us except what God has written for us; Believers expect one of two good things,
     victory or martyrdom; Who is excused from going out to war [contrast between the texts]; Both evil
-    and good come from the mouth of the Most High; God uses the unbelievers'' wealth and children to punish
-    them in this life; Hypocrites swear excuses and ask permission to stay behind from the campaign; People
-    hide in caves, thickets, rocks and pits from an invading army; A poem lists the tribes, praising those
-    who fought and shaming those who stayed home; The oppressed people hide in caves, dens and mountain
-    strongholds; Prophet tells deniers ''Wait, I too am waiting''.'
+    and good come from the mouth of the Most High; A follower''s loyalty depends on being rewarded; unrewarded,
+    he turns away; God uses the unbelievers'' wealth and children to punish them in this life; Hypocrites
+    swear excuses and ask permission to stay behind from the campaign; People hide in caves, thickets,
+    rocks and pits from an invading army; A poem lists the tribes, praising those who fought and shaming
+    those who stayed home; The oppressed people hide in caves, dens and mountain strongholds; and 1 more.'
   basis: reading
 - text: 'The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns: tagged by Claude
     (model), reading the Hebrew.'

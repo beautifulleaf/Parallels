@@ -20,25 +20,24 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God praised morning and evening [divergence between the texts] (weight
-    6.7); Levites stand every morning and evening to thank and praise YHWH (weight 6.3). Pair score 13.0.'
+    7.7); Levites stand every morning and evening to thank and praise YHWH (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Solomon made king; Levites counted, divided and assigned duties: Aaron and his sons are
     set apart forever to burn incense, minister and bless in God''s name; The aged king makes his son
     king during his own lifetime; Levite service counted from twenty years of age by David''s last words;
     With a fixed temple, Levites no longer need to carry the tabernacle; Brothers with few sons are counted
     together as one ancestral house; Moses'' sons are reckoned among the Levites, not the priests; Daughters
-    who inherit must marry within their father''s tribe so land does not pass away; The king makes the
-    musical instruments used for temple praise; Levites perform sanctuary work from age thirty to fifty;
-    Levites are given wholly to the priest as assistants; Calendar of festivals with prescribed offerings
-    (Passover, Weeks, Trumpets, Atonement, Booths); Numbers of working Levites in each clan are totaled;
-    and 2 more.'
+    who inherit must marry within their father''s tribe so land does not pass away; Levites perform sanctuary
+    work from age thirty to fifty; Levites are given wholly to the priest as assistants; Calendar of festivals
+    with prescribed offerings (Passover, Weeks, Trumpets, Atonement, Booths); The king makes the musical
+    instruments used for temple praise; Numbers of working Levites in each clan are totaled; and 2 more.'
   basis: reading
 - text: 'Only in Forbearance, refuge from Satan, and the prostration of the near ones: When the Quran
     is recited, listen and be silent; A verse at which reciters customarily prostrate (sajda); Those near
     God do not disdain to worship him; they glorify him and prostrate; When an evil prompting from Satan
-    stirs you, seek refuge in God; Contradictory pair: ''Do not answer a fool according to his folly''
-    / ''Answer a fool according to his folly''; Remember God within yourself, humbly, without loud speech,
-    morning and evening; The host of heaven bows down to God.'
+    stirs you, seek refuge in God; Remember God within yourself, humbly, without loud speech, morning
+    and evening; The host of heaven bows down to God; Contradictory pair: ''Do not answer a fool according
+    to his folly'' / ''Answer a fool according to his folly''.'
   basis: reading
 - text: 'Solomon made king; Levites counted, divided and assigned duties: tagged by Claude (model), reading
     the Hebrew.'

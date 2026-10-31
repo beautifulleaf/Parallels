@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The list of fathers in ''God of your fathers'' [divergence between
-    the texts] (weight 6.7); God identifies himself as God of Abraham, Isaac and Jacob (weight 5.6). Pair
-    score 12.3.'
+    the texts] (weight 7.7); God identifies himself as God of Abraham, Isaac and Jacob (weight 6.6). Pair
+    score 14.4.'
   basis: reading
 - text: 'Only in The burning bush and the divine name: God names himself ''I will be what I will be''
-    (ehyeh asher ehyeh); God has seen the affliction, heard the cry and comes down to deliver; God introduced
-    to a foreign king as ''the God of the Hebrews''; God foretells that the king will not let the people
-    go except under compulsion; Hero hides his face, afraid to look at God; The sign confirming the call
-    is that the people will later worship on this mountain; God calls Moses from the fire, from a bush
-    or a tree [divergence between the texts]; God declares his name as his everlasting memorial for all
-    generations; The title of God in whose name Moses goes to Pharaoh; Whose forefathers'' God is proclaimed
+    (ehyeh asher ehyeh); God introduced to a foreign king as ''the God of the Hebrews''; God foretells
+    that the king will not let the people go except under compulsion; Hero hides his face, afraid to look
+    at God; The sign confirming the call is that the people will later worship on this mountain; God calls
+    Moses from the fire, from a bush or a tree [divergence between the texts]; God declares his name as
+    his everlasting memorial for all generations; The title of God in whose name Moses goes to Pharaoh;
+    God has seen the affliction, heard the cry and comes down to deliver; Whose forefathers'' God is proclaimed
     in the Moses story [divergence between the texts]; How God names himself to Moses from the fire [divergence
     between the texts]; Formulaic list of the Canaanite, Hittite, Amorite, Perizzite, Hivite and Jebusite;
     and 16 more.'
@@ -43,7 +43,7 @@ evidence:
     revelation or covenant passed [divergence between the texts]; Whether and how God''s covenant with
     Abraham passes to his offspring [contrast between the texts]; Whether Ishmael is with Abraham or sent
     away [contrast between the texts]; Dying Jacob addresses his sons [divergence between the texts];
-    A nation descended from Ishmael [divergence between the texts]; and 16 more.'
+    Whether one person''s guilt (a parent''s, another''s) comes upon someone else; and 17 more.'
   basis: reading
 - text: 'The burning bush and the divine name: tagged by Claude (model), reading the Hebrew.'
   basis: reading

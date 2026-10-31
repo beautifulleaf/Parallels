@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Enemies roar in the sanctuary, hack its carved work with axes and
-    burn it to the ground (weight 6.0). Pair score 6.0.'
+    burn it to the ground (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Remembering the days of Moses - O that you would rend the heavens: No ear has heard and
     no eye has seen any God besides you who acts for those who wait for him; In all their affliction he
@@ -38,12 +38,13 @@ evidence:
     addressed as descendants of those carried with Noah, who was a grateful servant; Divine warning ''if
     you return (to sin), we will return (to punishment)''; It is decreed in the Book that Israel will
     work corruption on earth twice; God takes his servant on a journey to show him some of his signs;
-    God sends against Israel servants of his of great might who range through their homes; God carried
-    his servant by night from the Sacred Mosque to the Farthest Mosque; After the first punishment God
-    restores Israel''s turn with wealth and sons; The enemy enters the sanctuary (masjid) a second time
-    as the first and destroys all; Enemies roar in the sanctuary, hack its carved work with axes and burn
-    it to the ground [divergence between the texts]; God gave Moses the Book as guidance for the Children
-    of Israel.'
+    The storm or enemy destroys the city a second time; The enemy sent against the city enters its sanctuary
+    and wrecks what it finds; The god himself rouses a mighty foreign enemy against his own land or people;
+    The god himself sends a fierce foreign people against his own city or people; God sends against Israel
+    servants of his of great might who range through their homes; Because of his people''s offence their
+    own god lets a foreign power oppress them for a time, and later gives the land (or the upper hand)
+    back; A swift journey by night ends at a distant sanctuary; God carried his servant by night from
+    the Sacred Mosque to the Farthest Mosque; and 6 more.'
   basis: reading
 - text: 'Remembering the days of Moses - O that you would rend the heavens: tagged by Claude (model),
     reading the Hebrew.'

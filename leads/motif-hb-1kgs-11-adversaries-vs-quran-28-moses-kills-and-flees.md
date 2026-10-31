@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero flees the king''s death sentence to a foreign land (weight
-    5.8). Pair score 5.8.'
+    6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Hadad the Edomite and Rezon of Damascus: Exile at Pharaoh''s court insists ''let me go''
     to return to his land after his enemy''s death; God raises up a human ''satan'' (adversary) against
@@ -29,12 +29,14 @@ evidence:
 - text: 'Only in Moses kills the Egyptian, is warned, and flees toward Midian: Moses calls his killing
     ''the work of Satan'' and asks forgiveness, which is granted; A man comes running from the far end
     of the city to warn the hero that the chiefs plot to kill him; When Moses reached his full strength
-    God gave him judgment and knowledge; Hero kills an oppressor beating a kinsman and hides the body
-    in the sand; How Moses learns that his life is sought [divergence between the texts]; How Moses killed
-    the Egyptian [divergence between the texts]; The retort Moses hears on the day after the killing [divergence
-    between the texts]; Kinsman rebuffs the hero: ''Who made you prince and judge over us?''; Moses killed
-    a man and God delivered him from distress, then tried him with trials; How Moses'' killing of the
-    Egyptian is judged [divergence between the texts].'
+    God gave him judgment and knowledge; What drives a man of the Egyptian court to flee Egypt in fear
+    [neutral] [divergence between the texts]; A man flees his land in fear and sets out into the desert;
+    Hero kills an oppressor beating a kinsman and hides the body in the sand; How Moses learns that his
+    life is sought [divergence between the texts]; How Moses killed the Egyptian [divergence between the
+    texts]; The retort Moses hears on the day after the killing [divergence between the texts]; Someone
+    learns of a plot against the hero and hurries to warn him; Kinsman rebuffs the hero: ''Who made you
+    prince and judge over us?''; Moses killed a man and God delivered him from distress, then tried him
+    with trials; and 1 more.'
   basis: reading
 - text: 'Hadad the Edomite and Rezon of Damascus: tagged by Claude (model), reading the Hebrew.'
   basis: reading

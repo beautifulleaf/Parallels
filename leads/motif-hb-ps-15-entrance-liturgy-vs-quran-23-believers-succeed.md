@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Entrance liturgy: ''Who may dwell on your holy mountain?'' answered
-    by a list of ethical qualifications (weight 5.8). Pair score 5.8.'
+    by a list of ethical qualifications (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 15 - who may dwell on your holy mountain: The righteous keeps his oath even to
     his own hurt and does not change; The righteous does not slander with his tongue or take up reproach

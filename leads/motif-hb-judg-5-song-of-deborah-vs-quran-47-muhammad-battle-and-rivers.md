@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If you help God he will help you and make your feet firm (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Song of Deborah: A woman is called ''most blessed of women''; An angel curses a town
     that did not come to YHWH''s help; The enemy''s mother waits at the window for her son who will not
     return; Those who love God are like the sun rising in its strength; A woman leader is called ''a mother
     in Israel''; Not a shield or spear to be seen among forty thousand in Israel; Nobles described as
-    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; Under oppression the highways
-    are deserted and travelers use byways; A woman leader sings the victory song; The laggard thanks God
-    he was absent when disaster struck, and wishes he had shared the spoil; Asked for water, the woman
-    gives milk; and 10 more.'
+    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; A woman leader sings the
+    victory song; The laggard thanks God he was absent when disaster struck, and wishes he had shared
+    the spoil; Asked for water, the woman gives milk; Under oppression the highways are deserted and travelers
+    use byways; and 10 more.'
   basis: reading
 - text: 'Only in Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of
     the Garden: The damned are given boiling water to drink which tears their bowels apart; The Garden
@@ -38,11 +38,10 @@ evidence:
     and admits them to a Garden he has made known to them; The signs/portents (ashrat) of the Hour have
     already come; The prophet is told to ask forgiveness for his own sin and for the believing men and
     women; In battle, strike the necks of unbelievers; when they are subdued bind them, then free them
-    as favor or for ransom until war lays down its burdens; Four rivers in the Garden [divergence between
-    the texts]; The Hour will come upon them suddenly while they are unaware; Streams and rivers flowing
-    with honey and curds (denied to the wicked); Rivers or streams of honey and milk (curds) [divergence
-    between the texts]; Have they not traveled in the land and seen the end of those before them?; and
-    9 more.'
+    as favor or for ransom until war lays down its burdens; People eat as sheep or cattle eat; Four rivers
+    in the Garden [divergence between the texts]; The Hour will come upon them suddenly while they are
+    unaware; Whether a bound captive is released or killed [contrast between the texts]; The river or
+    rivers of the other world, and whether they give water [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'The Song of Deborah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

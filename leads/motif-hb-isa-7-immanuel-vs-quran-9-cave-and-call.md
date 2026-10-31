@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sign: the young woman (''almah) is pregnant and will bear a son
-    and call his name Immanuel (''God with us'') (weight 6.3). Pair score 6.3.'
+    and call his name Immanuel (''God with us'') (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Ahaz, the Syro-Ephraimite threat and the Immanuel sign: The child will eat curds and
     honey until he knows to refuse evil and choose good; ''If you do not believe (ta''aminu) you will
@@ -37,11 +37,13 @@ evidence:
   basis: reading
 - text: 'Only in The call to go forth; the second of two in the cave: God''s own Presence (face) will
     go with the people; God threatens to destroy a people and put another in its place [divergence between
-    the texts]; A poem lists the tribes, praising those who fought and shaming those who stayed home;
-    The prophet is ''the second of two'' hiding in the cave, telling his companion ''do not grieve, God
-    is with us''; God supports the prophet with hosts (junud) the believers did not see; The oppressed
-    people hide in caves, dens and mountain strongholds; God sends down his sakina (tranquility, cf. shekhinah)
-    on the prophet and believers; If God wills he takes you away and brings another people in your place.'
+    the texts]; Reproaching followers who hang back, the leader recalls how he escaped a crisis without
+    them; The deity is the one more of a company: third of two, fourth of three; A poem lists the tribes,
+    praising those who fought and shaming those who stayed home; The prophet is ''the second of two''
+    hiding in the cave, telling his companion ''do not grieve, God is with us''; God supports the prophet
+    with hosts (junud) the believers did not see; The oppressed people hide in caves, dens and mountain
+    strongholds; God sends down his sakina (tranquility, cf. shekhinah) on the prophet and believers;
+    If God wills he takes you away and brings another people in your place.'
   basis: reading
 - text: 'Ahaz, the Syro-Ephraimite threat and the Immanuel sign: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A revealed surah increases believers in faith and the sick-hearted
-    in filth (weight 6.7); God is ''Lord of the mighty Throne'' (rabb al-''arsh al-''azim) (weight 6.7).
-    Pair score 13.4.'
+    in filth (weight 7.7); God is ''Lord of the mighty Throne'' (rabb al-''arsh al-''azim) (weight 7.7).
+    Pair score 15.5.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -28,12 +28,12 @@ evidence:
     terebinth or oak whose stump is the holy seed; At the heavenly voice the doorposts shake and the house
     fills with smoke; Prophet sees the Lord seated on a high and lifted-up throne, his train filling the
     temple; Heavenly beings call ''Holy, holy, holy is YHWH of hosts; the whole earth is full of his glory'';
-    God asks ''Whom shall I send, and who will go for us?'' and the prophet volunteers ''Here am I, send
-    me''; Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The
-    angels say: each of us has a known station; we are ranged in ranks; we glorify; God has not given
-    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
-    Hardening of the heart, ears and eyes of the hearers [divergence between the texts]; The prophet''s
-    word and a people deaf and blind to it [divergence between the texts]; and 10 more.'
+    Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The angels
+    say: each of us has a known station; we are ranged in ranks; we glorify; God has not given the people
+    a heart to know, eyes to see, ears to hear until today [divergence between the texts]; Hardening of
+    the heart, ears and eyes of the hearers [divergence between the texts]; The prophet''s word and a
+    people deaf and blind to it [divergence between the texts]; Those with God glorify him night and day
+    without tiring; and 10 more.'
   basis: reading
 - text: 'Only in Surahs that increase faith; the compassionate messenger: They did not win the land by
     their sword but by God''s right hand, arm and the light of his face; Messengers are sent to people

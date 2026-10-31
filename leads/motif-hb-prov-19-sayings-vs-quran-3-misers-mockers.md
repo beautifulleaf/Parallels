@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who is gracious to the poor lends to YHWH, and he will repay
-    him (weight 5.8). Pair score 5.8.'
+    him (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Sayings on the poor, the king''s wrath and the sluggard: A man''s folly ruins his way
     and his heart rages against YHWH; A son who ruins his father and chases away his mother brings shame;
     He who finds a wife finds a good thing and obtains favor from YHWH; a prudent wife is from YHWH; Giving
     as a loan to God, repaid by him [divergence between the texts]; The king''s wrath is like the growling
     of a young lion; his favor like dew on the grass; Whatever misfortune strikes people is for what their
-    own hands have earned, though God pardons much; A quarrelsome wife is like a continual dripping (of
-    a leaking roof); The sluggard buries his hand in the dish and will not even bring it back to his mouth;
-    Strike a scoffer and the simple will learn prudence; The poor is hated even by his neighbor, but the
-    rich has many friends; A rod is for the back of the fool (the senseless); The slow to anger is better
-    than a mighty man, and he who rules his spirit than he who takes a city; and 6 more.'
+    own hands have earned, though God pardons much; The sluggard buries his hand in the dish and will
+    not even bring it back to his mouth; Strike a scoffer and the simple will learn prudence; The poor
+    is hated even by his neighbor, but the rich has many friends; A rod is for the back of the fool (the
+    senseless); A quarrelsome wife is like a continual dripping (of a leaking roof); The slow to anger
+    is better than a mighty man, and he who rules his spirit than he who takes a city; and 6 more.'
   basis: reading
 - text: 'Only in Misers, those who called God poor, and the fire-consumed offering: God took the covenant
     of those given the Book to make it clear to people and not conceal it; Those who said ''God is poor
@@ -40,9 +40,10 @@ evidence:
     in sin; Whether God is in need and humans rich [contrast between the texts]; An offering consumed
     by fire as proof of the true God or messenger [response between the texts]; Fire from heaven falls
     and consumes the offering, wood, stones, dust and water; God will not leave believers as they are
-    until he separates the bad from the good; What man can live and not see death, or deliver his soul
-    from the hand of Sheol?; Every soul shall taste death; Fire comes out from before God and consumes
-    the offering on the altar; and 3 more.'
+    until he separates the bad from the good; Wrongdoers take the deity''s delay for indifference; the
+    delay is not a release; What man can live and not see death, or deliver his soul from the hand of
+    Sheol?; A writer reproaches his addressee: the oath I made you swear before the gods you have thrown
+    behind you; and 5 more.'
   basis: reading
 - text: 'Sayings on the poor, the king''s wrath and the sluggard: tagged by Claude (model), reading the
     Hebrew.'

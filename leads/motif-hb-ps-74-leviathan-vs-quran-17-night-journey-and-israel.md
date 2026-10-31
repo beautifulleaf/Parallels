@@ -20,28 +20,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Enemies roar in the sanctuary, hack its carved work with axes and
-    burn it to the ground [divergence between the texts] (weight 6.3); Enemies roar in the sanctuary,
-    hack its carved work with axes and burn it to the ground (weight 6.0). Pair score 12.3.'
+    burn it to the ground [divergence between the texts] (weight 7.3); Enemies roar in the sanctuary,
+    hack its carved work with axes and burn it to the ground (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan: Call ''Arise,
     O God, plead your own cause''; Prayer not to hand the soul of God''s turtledove to the wild beast;
-    God is king from of old (qedem), working salvation in the midst of the earth; God broke the heads
-    of the sea dragons (tanninim) on the waters; Enemies burn all the meeting places (mo''adei El) of
-    God in the land; God crushed the heads (plural) of Leviathan, the many-headed sea serpent; Complaint
-    that there are no signs and no prophet anymore, none who knows how long; God split or shattered the
-    sea (Yam) by his might; God split open springs and torrents and dried up ever-flowing rivers; God
-    fixed all the boundaries of the earth and formed summer and winter; The slain Leviathan is given as
-    food to the desert creatures or people; Lament question ''How long, O God?'' / ''Why have you rejected
-    us forever?''; and 4 more.'
+    God is king from of old (qedem), working salvation in the midst of the earth; Enemies burn all the
+    meeting places (mo''adei El) of God in the land; Complaint that there are no signs and no prophet
+    anymore, none who knows how long; God split or shattered the sea (Yam) by his might; God split open
+    springs and torrents and dried up ever-flowing rivers; God broke the heads of the sea dragons (tanninim)
+    on the waters; God fixed all the boundaries of the earth and formed summer and winter; The slain Leviathan
+    is given as food to the desert creatures or people; God crushed the heads (plural) of Leviathan, the
+    many-headed sea serpent; Communal lament over national disaster, asking why God has rejected his people;
+    and 4 more.'
   basis: reading
 - text: 'Only in The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8): Israel
     addressed as descendants of those carried with Noah, who was a grateful servant; Divine warning ''if
     you return (to sin), we will return (to punishment)''; It is decreed in the Book that Israel will
     work corruption on earth twice; God takes his servant on a journey to show him some of his signs;
-    God sends against Israel servants of his of great might who range through their homes; God carried
-    his servant by night from the Sacred Mosque to the Farthest Mosque; After the first punishment God
-    restores Israel''s turn with wealth and sons; The enemy enters the sanctuary (masjid) a second time
-    as the first and destroys all; God gave Moses the Book as guidance for the Children of Israel.'
+    The storm or enemy destroys the city a second time; The enemy sent against the city enters its sanctuary
+    and wrecks what it finds; The god himself rouses a mighty foreign enemy against his own land or people;
+    The god himself sends a fierce foreign people against his own city or people; God sends against Israel
+    servants of his of great might who range through their homes; Because of his people''s offence their
+    own god lets a foreign power oppress them for a time, and later gives the land (or the upper hand)
+    back; A swift journey by night ends at a distant sanctuary; God carried his servant by night from
+    the Sacred Mosque to the Farthest Mosque; and 5 more.'
   basis: reading
 - text: 'Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan: tagged by Claude (model),
     reading the Hebrew.'

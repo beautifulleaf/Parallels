@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader protests he never took so much as a donkey from anyone (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Samuel''s farewell speech and the sign of thunder: Departing leader challenges the people:
     whose ox or donkey have I taken, from whom a bribe?; Prophet declares it would be a sin to cease praying

@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Opponents accuse the prophet of forging lies against God (weight
-    6.0); God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    (weight 5.2). Pair score 11.2.'
+    7.1); God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+    (weight 6.2). Pair score 13.3.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:

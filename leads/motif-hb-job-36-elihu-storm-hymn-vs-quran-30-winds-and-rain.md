@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends the winds as heralds before his mercy and sends down pure
-    water from the sky (weight 5.4). Pair score 5.4.'
+    water from the sky (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Elihu''s hymn on rain, thunder, snow and the storm: Golden splendor comes out of the
     north as God''s awesome majesty; God''s booth or canopy (sukkah) is made of thunderclouds and darkness;

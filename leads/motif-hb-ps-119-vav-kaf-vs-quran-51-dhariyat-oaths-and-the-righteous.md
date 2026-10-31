@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 6.0). Pair
-    score 6.0.'
+- text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 7.1). Pair
+    score 7.1.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas vav to kaf: ''It is good for me that I was afflicted, so that I might
     learn your statutes''; The arrogant have hearts gross (unfeeling) as fat; Speaker has become like
@@ -30,9 +30,9 @@ evidence:
     fine gold; Psalm in 22 stanzas of eight lines, every line of a stanza beginning with the same letter,
     each line naming the Torah; God is the speaker''s portion (heleq) forever, more than anything in heaven
     or earth; The believers'' sides forsake their beds as they call on their Lord in fear and hope (night
-    vigil); God formed the kidneys and wove (knit) the speaker in his mother''s womb; Lifting the hands
-    (palms) in prayer or blessing; God''s commandments or Torah are the speaker''s delight (sha''ashu''im);
-    and 1 more.'
+    vigil); God''s commandments or Torah are the speaker''s delight (sha''ashu''im); God formed the kidneys
+    and wove (knit) the speaker in his mother''s womb; Those who dig a pit or spread a net for the righteous
+    fall into it themselves; and 1 more.'
   basis: reading
 - text: 'Only in Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful righteous and
     the beggar''s due: God swears by the Lord of heaven and earth that it is as true as the fact that
@@ -41,9 +41,9 @@ evidence:
     for the beggar and the deprived; Oath cluster by the scatterers, the burden-bearers, the easy runners
     and the distributors of command (winds, clouds, ships or angels); The share of the poor in the owner''s
     harvest or wealth [divergence between the texts]; In heaven is your provision and what you are promised;
-    In the earth are signs for the certain, and in yourselves; will you not see?; Corners of the field,
-    gleanings and fallen grapes left for the poor and the stranger; The righteous slept little of the
-    night and sought forgiveness in the hours before dawn (ashar).'
+    In the earth are signs for the certain, and in yourselves; will you not see?; The righteous slept
+    little of the night and sought forgiveness in the hours before dawn (ashar); Corners of the field,
+    gleanings and fallen grapes left for the poor and the stranger.'
   basis: reading
 - text: 'Psalm 119, stanzas vav to kaf: tagged by Claude (model), reading the Hebrew.'
   basis: reading

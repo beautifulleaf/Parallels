@@ -13,18 +13,18 @@ traditions:
 layers:
 - motif
 motifs:
-- youths-like-hidden-pearls
 - reclining-on-ranked-couches
+- youths-like-hidden-pearls
 - fruit-of-paradise
 - houris-wide-eyed
 - effects-of-wine-and-the-cup-as-contrast
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Youths (ghilman) like hidden pearls go round serving them (weight
-    6.7); The blessed recline on couches set in rows (or face to face) (weight 6.7); Abundant fruit in
-    paradise from which the blessed eat (weight 6.0); The blessed are paired with wide-eyed maidens (hur
-    ''in) (weight 6.0); The effects of wine and of the cup: mockery, madness, or none [contrast between
-    the texts] (weight 5.8). Pair score 31.1.'
+- text: 'Shared motifs, rarest first: The blessed recline on couches set in rows (or face to face) (weight
+    7.7); Youths (ghilman) like hidden pearls go round serving them (weight 7.7); Abundant fruit in paradise
+    from which the blessed eat (weight 7.1); The blessed are paired with wide-eyed maidens (hur ''in)
+    (weight 7.1); The effects of wine and of the cup: mockery, madness, or none [contrast between the
+    texts] (weight 6.8). Pair score 36.4.'
   basis: reading
 - text: 'Only in The Garden: offspring joined with parents, the cup without idle talk, youths like pearls;
     the run of ''or...?'' challenges: The blessed question each other and recall that they used to be
@@ -34,11 +34,11 @@ evidence:
     of the stars (dawn); Do they have a ladder (sullam) by which they eavesdrop on heaven? Let their listener
     bring clear proof; ''Be patient for your Lord''s judgment, for you are under our eyes''; Were they
     created from nothing, or are they the creators? Did they create the heavens and earth?; Do they possess
-    the Unseen (al-ghayb) so they write it down?; Dream of a ladder or stairway reaching heaven with angels
-    ascending and descending; ''Eat and drink with relish for what you used to do''; A ladder (sullam
-    / sullām) reaching from earth to heaven [divergence between the texts]; Believers'' offspring who
-    followed them in faith are joined with them in paradise, without loss of reward; each is pledged for
-    what he earned; and 9 more.'
+    the Unseen (al-ghayb) so they write it down?; ''Eat and drink with relish for what you used to do'';
+    A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts]; Messengers
+    go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij) [divergence
+    between the texts]; Believers'' offspring who followed them in faith are joined with them in paradise,
+    without loss of reward; each is pledged for what he earned; and 10 more.'
   basis: reading
 - text: 'Only in Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
     of the Right and their Garden: In paradise they have the flesh of fowl as they desire; Immortal youths
@@ -48,10 +48,10 @@ evidence:
     ''Peace, peace''; The Companions of the Right are among thornless lote trees (sidr makhdud) and layered
     talh (acacia/banana) with extended shade and poured water; Humanity sorted into three classes: Companions
     of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; Bird-meat as desired
-    food: punished or granted [contrast between the texts]; The earth is shaken violently and the mountains
+    food: punished or granted [contrast between the texts]; Young servers go round with a variety of vessels
+    serving a mixed drink [divergence between the texts]; The earth is shaken violently and the mountains
     crumbled into scattered dust (haba''); Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; Into how many
-    groups humankind is sorted at the end [divergence between the texts]; and 7 more.'
+    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; and 8 more.'
   basis: reading
 - text: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
     run of ''or...?'' challenges: tagged by Claude (model), reading the Arabic.'
@@ -61,7 +61,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Youths (ghilman) like hidden pearls go round serving them
+finding: The blessed recline on couches set in rows (or face to face)
 kinds:
 - shared
 units:
@@ -74,20 +74,6 @@ units:
     of the Right and their Garden'
   tradition: islam
 matches:
-- kind: shared
-  label: Youths (ghilman) like hidden pearls go round serving them
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 52:24
-      lang: ar
-      text: وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ
-  - tradition: islam
-    passages:
-    - ref: Quran 56:23
-      lang: ar
-      text: كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ
-    note: here the houris are like hidden pearls
 - kind: shared
   label: The blessed recline on couches set in rows (or face to face)
   sides:
@@ -105,6 +91,20 @@ matches:
       lang: ar
       text: مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ
     note: on jewel-woven couches, facing one another
+- kind: shared
+  label: Youths (ghilman) like hidden pearls go round serving them
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 52:24
+      lang: ar
+      text: وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ
+  - tradition: islam
+    passages:
+    - ref: Quran 56:23
+      lang: ar
+      text: كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ
+    note: here the houris are like hidden pearls
 - kind: shared
   label: Abundant fruit in paradise from which the blessed eat
   sides:

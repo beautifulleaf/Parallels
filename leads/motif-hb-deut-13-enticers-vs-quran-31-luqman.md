@@ -18,30 +18,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How to treat close kin who urge one to worship other gods [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in False prophet, enticing kin, and the apostate city: A city that turns to other gods is
     put under the ban, burned and left a mound forever; Prophet or dreamer whose sign comes true but who
-    urges other gods must be rejected; Relative or friend who secretly entices to other gods must be stoned,
-    your hand first; How to treat close kin who urge one to worship other gods [divergence between the
-    texts]; Do not take fathers or brothers as allies against faith; love of God must outweigh family,
-    wealth, trade and homes; If a corrupt person brings you news, verify it lest you harm a people in
-    ignorance and come to regret it; God uses a false prophet to test whether Israel loves him; The fate
-    of a destroyed town: lasting ruin or revival [contrast between the texts]; Worthless men (bene beliyyaal)
-    lead astray; Command not to add to or subtract from the divine words; Formula: you shall purge the
-    evil from your midst; False prophet put to death; and 1 more.'
+    urges other gods must be rejected; How to treat close kin who urge one to worship other gods [divergence
+    between the texts]; Do not take fathers or brothers as allies against faith; love of God must outweigh
+    family, wealth, trade and homes; If a corrupt person brings you news, verify it lest you harm a people
+    in ignorance and come to regret it; God uses a false prophet to test whether Israel loves him; The
+    fate of a destroyed town: lasting ruin or revival [contrast between the texts]; Relative or friend
+    who secretly entices to other gods must be stoned, your hand first; Worthless men (bene beliyyaal)
+    lead astray; False prophet put to death; Formula: you shall purge the evil from your midst; Command
+    not to add to or subtract from the divine words; and 1 more.'
   basis: reading
 - text: 'Only in Luqman''s advice to his son: Do not turn your cheek away from people in scorn or walk
     proudly on the earth; be modest in your walk; Associating partners with God (shirk) is a tremendous
     wrong; Lower your voice: the most repugnant of voices is the braying of donkeys; Luqman, a sage given
     wisdom by God, instructs his son; The mother carried the child in weakness upon weakness and his weaning
     is in two years; Even a deed the weight of a mustard seed, hidden in a rock or in heaven or earth,
-    God will bring it forth; A community that enjoins the good and forbids the evil (al-amr bil-ma''ruf);
-    How far a child must obey father and mother [divergence between the texts]; Children must treat parents
-    well but must not obey them if they press them to associate partners with God; Whether the heavens
-    rest on pillars [divergence between the texts]; ''Hear, my son, your father''s instruction and do
-    not forsake your mother''s teaching (torah)''; God raised the heavens without pillars that you can
-    see; and 5 more.'
+    God will bring it forth; A father''s advice to his son names the braying donkey; A community that
+    enjoins the good and forbids the evil (al-amr bil-ma''ruf); An instruction framed as a named father
+    speaking to his son ("for his son" / "Luqmān said to his son"); How far a child must obey father and
+    mother [divergence between the texts]; Humility in public: walking modestly, keeping the voice low,
+    not holding the head (cheek) high; How the parents'' word stands to the word of God [divergence between
+    the texts]; and 11 more.'
   basis: reading
 - text: 'False prophet, enticing kin, and the apostate city: tagged by Claude (model), reading the Hebrew.'
   basis: reading

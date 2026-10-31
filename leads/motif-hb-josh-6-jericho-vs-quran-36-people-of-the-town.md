@@ -19,24 +19,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No host from heaven was needed: a single Shout (sayha) and they
-    were extinguished (weight 6.0). Pair score 6.0.'
+    were extinguished (weight 7.1). Pair score 7.1.'
   basis: reading
-- text: 'Only in Fall of Jericho; Rahab spared; curse on the rebuilder: The ark goes before the army in
-    battle or procession; A conquered city is burned with fire; A besieged city is circled once a day
-    for six days and seven times on the seventh; The harlot who hid the spies is spared with her family
-    when the city falls; The army must keep total silence until the leader gives the signal to shout;
-    Captured silver, gold, bronze and iron are holy, for the treasury of YHWH; Seven priests blow seven
-    rams'' horns before the ark; City walls collapse at a trumpet blast and a great shout; Curse that
-    whoever rebuilds the destroyed city will lose his firstborn and youngest sons; The spoils of war (anfal)
-    belong to God and the messenger; Ban (herem): total destruction of a conquered population.'
+- text: 'Only in Fall of Jericho; Rahab spared; curse on the rebuilder: A besieged city is circled once
+    a day for six days and seven times on the seventh; The harlot who hid the spies is spared with her
+    family when the city falls; The army must keep total silence until the leader gives the signal to
+    shout; Captured silver, gold, bronze and iron are holy, for the treasury of YHWH; Seven priests blow
+    seven rams'' horns before the ark; City walls collapse at a trumpet blast and a great shout; The ark
+    goes before the army in battle or procession; Curse that whoever rebuilds the destroyed city will
+    lose his firstborn and youngest sons; The spoils of war (anfal) belong to God and the messenger; A
+    conquered city is burned with fire; Ban (herem): total destruction of a conquered population.'
   basis: reading
 - text: 'Only in The people of the town, the three messengers and the man who came running: A man comes
     running from the farthest part of the city urging his people to follow the messengers; The believer
     is told ''enter the Garden'' and says ''Would that my people knew how my Lord forgave me''; Two messengers
     sent to a town are rejected, so God reinforces them with a third; The townsfolk say ''we augur ill
     of you'' and threaten to stone the messengers; they reply ''your omen is with you''; Offender stoned
-    to death by the community; Travel in the land and see the end of those who denied; Intercession avails
-    only for whom God permits; The Prophet asks no wage for the message.'
+    to death by the community; Augury: a bird''s flight or alighting is an omen bound to a person [divergence
+    between the texts]; The dead cannot go back to the life they left; Travel in the land and see the
+    end of those who denied; Intercession avails only for whom God permits; The Prophet asks no wage for
+    the message.'
   basis: reading
 - text: 'Fall of Jericho; Rahab spared; curse on the rebuilder: tagged by Claude (model), reading the
     Hebrew.'

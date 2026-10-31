@@ -19,28 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Even in laughter the heart may ache, and the end of joy is grief
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sayings on the wise woman, the poor and the king: A tranquil heart is life to the body,
-    but jealousy is rot in the bones; The heart knows its own bitterness and no stranger shares its joy;
-    The king''s favor is toward a wise servant; his wrath toward one who shames; A king''s glory is in
-    a multitude of people; without people a prince is ruined; Where there are no oxen the crib is clean,
-    but much produce comes by the strength of the ox; Righteousness exalts a nation, but sin is a reproach
-    to peoples; The simple believes every word; the prudent considers his steps; The wisest of women builds
-    her house; folly tears it down with her own hands; He who oppresses the poor insults his Maker; he
-    who is gracious to the needy honors him; There is a way that seems right to a man, but its end is
-    the ways of death; The poor is hated even by his neighbor, but the rich has many friends; Wise teaching,
+    but jealousy is rot in the bones; The king''s favor is toward a wise servant; his wrath toward one
+    who shames; A king''s glory is in a multitude of people; without people a prince is ruined; Where
+    there are no oxen the crib is clean, but much produce comes by the strength of the ox; Righteousness
+    exalts a nation, but sin is a reproach to peoples; The simple believes every word; the prudent considers
+    his steps; The heart knows its own bitterness and no stranger shares its joy; He who oppresses the
+    poor insults his Maker; he who is gracious to the needy honors him; There is a way that seems right
+    to a man, but its end is the ways of death; The poor is hated even by his neighbor, but the rich has
+    many friends; The wisest of women builds her house; folly tears it down with her own hands; Wise teaching,
     the righteous mouth or the fear of YHWH is a ''fountain of life'' (meqor hayyim); and 2 more.'
   basis: reading
 - text: 'Only in Those who stayed behind, the exempt, and the Bedouin: The Bedouin (al-a''rab) are harder
     in unbelief and hypocrisy; Shirkers say ''do not go out in the heat''; hell''s fire is hotter; Poor
     volunteers turn away weeping because the prophet has no mounts for them; Who is excused from going
     out to war [divergence between the texts]; Let them laugh a little and weep much; The prophet must
-    never pray over a dead hypocrite or stand at his grave; Catalogue of believers: repenting, worshiping,
-    praising, wandering/fasting (sa''ihun), bowing, prostrating, enjoining right; God uses the unbelievers''
-    wealth and children to punish them in this life; Hypocrites swear excuses and ask permission to stay
-    behind from the campaign; Exemptions from war for a new house, unharvested vineyard, betrothed bride,
-    or faintheartedness; God seals (tab'') the hearts of deniers so they do not hear.'
+    never pray over a dead hypocrite or stand at his grave; The desert nomad does not know the gods''
+    place or God''s limits, and does not pray; Catalogue of believers: repenting, worshiping, praising,
+    wandering/fasting (sa''ihun), bowing, prostrating, enjoining right; God uses the unbelievers'' wealth
+    and children to punish them in this life; Hypocrites swear excuses and ask permission to stay behind
+    from the campaign; Exemptions from war for a new house, unharvested vineyard, betrothed bride, or
+    faintheartedness; God seals (tab'') the hearts of deniers so they do not hear.'
   basis: reading
 - text: 'Sayings on the wise woman, the poor and the king: tagged by Claude (model), reading the Hebrew.'
   basis: reading

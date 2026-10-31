@@ -19,32 +19,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God expels Iblis as accursed (rajim) with a curse until the Day
-    of Judgment (weight 6.0). Pair score 6.0.'
+    of Judgment (weight 7.1). Pair score 7.1.'
   basis: reading
-- text: 'Only in Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn): The
-    proud one plans to ascend to heaven, raise his throne above the stars of El and make himself like
-    Elyon; Reversal: Israel will take captive those who captured them and rule over their oppressors;
-    The would-be god is brought down instead to Sheol, to the recesses of the pit (yarkete bor); Strangers
-    (gerim) will join themselves to Israel and cleave to the house of Jacob; ''How you have fallen from
-    heaven, Helel son of Shahar (Shining One, son of Dawn)!'' - a star-figure cast down to earth; In the
-    underworld maggots are spread beneath the dead king and worms are his covering; The mount of assembly
-    (har mo''ed) in the recesses of the north (yarkete tsafon), seat of the gods; God cuts off from the
-    enemy ''name and remnant, offspring and posterity''; Sheol below is stirred to meet the arriving tyrant;
-    the shades and dead kings rise from their thrones to greet him: ''you too have become weak like us'';
-    God sweeps the city with the broom of destruction, leaving it to hedgehogs and marshes; Mocking dirge
-    (mashal) over a fallen tyrant: ''How the oppressor has ceased!''; The cypresses and cedars of Lebanon
-    rejoice that no woodcutter comes up since the tyrant fell; and 8 more.'
+- text: 'Only in Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn): Reversal:
+    Israel will take captive those who captured them and rule over their oppressors; The would-be god
+    is brought down instead to Sheol, to the recesses of the pit (yarkete bor); Strangers (gerim) will
+    join themselves to Israel and cleave to the house of Jacob; ''How you have fallen from heaven, Helel
+    son of Shahar (Shining One, son of Dawn)!'' - a star-figure cast down to earth; In the underworld
+    maggots are spread beneath the dead king and worms are his covering; God cuts off from the enemy ''name
+    and remnant, offspring and posterity''; God sweeps the city with the broom of destruction, leaving
+    it to hedgehogs and marshes; Mocking dirge (mashal) over a fallen tyrant: ''How the oppressor has
+    ceased!''; The cypresses and cedars of Lebanon rejoice that no woodcutter comes up since the tyrant
+    fell; Abraham disputes with a king, who claims ''I give life and death''; Entering hell, a crowd is
+    greeted by those already there with ''No welcome to them!'' and they retort in kind; The damned man
+    is taunted: ''Taste! You are the mighty, the noble!''; and 8 more.'
   basis: reading
 - text: 'Only in Man from black mud, jinn from scorching fire, and Iblis''s refusal (Surah 15:26-50):
     The pious are in gardens and springs, entering in peace and security; Hell has seven gates, each with
     an assigned portion of the damned; The jinn were created before humans from smokeless or scorching
-    fire; In paradise no fatigue touches them and they are never expelled from it; God removes all rancor
-    from the hearts of those in paradise; Deity breathes the breath of life into the first human''s nostrils
-    [divergence between the texts]; The expelled devil vows to lie in wait on the straight path and mislead
-    humanity; Satan has no authority over God''s sincere servants, only over those who follow him; God
-    commands the angels to prostrate before the first man, and they do; The devil asks for and is granted
-    respite until the day the dead are raised; The devil (Iblis) alone refuses to bow to the first man;
-    Deity breathes the breath of life into the first human''s nostrils; and 1 more.'
+    fire; In paradise no fatigue touches them and they are never expelled from it; A hostile spirit is
+    commanded ''go out'' of the dwelling; Heavenly beings do obeisance when the first human has been made:
+    to the maker or to the man [divergence between the texts]; God removes all rancor from the hearts
+    of those in paradise; The underworld or hell has seven doors or gates; The underworld has seven gates,
+    bolted and opened one at a time [divergence between the texts]; Deity breathes the breath of life
+    into the first human''s nostrils [divergence between the texts]; The expelled devil vows to lie in
+    wait on the straight path and mislead humanity; Satan has no authority over God''s sincere servants,
+    only over those who follow him; and 8 more.'
   basis: reading
 - text: 'Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn): tagged by Claude
     (model), reading the Hebrew.'

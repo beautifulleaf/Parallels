@@ -19,26 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: To whom and how widely the ban on interest applies [divergence between
-    the texts] (weight 6.3); Do not charge interest to the poor of my people (weight 5.8). Pair score
-    12.1.'
+    the texts] (weight 7.3); Do not charge interest to the poor of my people (weight 6.6). Pair score
+    14.0.'
   basis: reading
 - text: 'Only in Covenant Code - sorceress, stranger, widow, loans, firstborn: Lying with an animal is
     a capital crime; Whoever sacrifices to other gods is devoted to destruction; Flesh torn by beasts
     in the field is not eaten but thrown to dogs; Do not revile God or curse a ruler of your people; Flesh
-    of an animal torn by a beast of prey is not to be eaten [divergence between the texts]; God hears
-    the cry of the oppressed widow and orphan and punishes measure for measure; Newborn animal stays seven
-    days with its mother before it may be sacrificed; Do not charge interest to the poor of my people
-    [response between the texts]; Do not oppress the stranger, for you were strangers in Egypt; You shall
-    not let a sorceress live; Firstborn sons and animals belong to God; A cloak taken in pledge must be
-    returned before sunset; and 1 more.'
+    of an animal torn by a beast of prey is not to be eaten [divergence between the texts]; Newborn animal
+    stays seven days with its mother before it may be sacrificed; Do not charge interest to the poor of
+    my people [response between the texts]; You shall not let a sorceress live; Firstborn sons and animals
+    belong to God; Do not oppress the stranger, for you were strangers in Egypt; A cloak taken in pledge
+    must be returned before sunset; God hears the cry of the oppressed widow and orphan and punishes measure
+    for measure; and 1 more.'
   basis: reading
 - text: 'Only in Usury: God blots out usury and makes charity grow; A debtor in hardship is given respite
     until ease; remitting it as charity is better; Trade is like usury, they say; but God permitted trade
     and forbade usury (riba); Those who consume usury rise like one driven mad by Satan''s touch; Those
     who do not give up usury are warned of war from God and his messenger; they keep their principal;
-    Whether obligations differ toward insiders and outsiders [contrast between the texts]; Relief of debtors:
-    release or respite [divergence between the texts]; He who increases wealth by interest and usury gathers
-    it for one who is gracious to the poor; Lending at interest or increase to a poor brother is forbidden.'
+    Whether obligations differ toward insiders and outsiders [contrast between the texts]; What becomes
+    of the usurer''s profit and his principal (kīsu / ruʾūs amwālikum) [divergence between the texts];
+    A creditor facing a debtor in hardship remits all or part of the debt [divergence between the texts];
+    Relief of debtors: release or respite [divergence between the texts]; He who increases wealth by interest
+    and usury gathers it for one who is gracious to the poor; Lending at interest or increase to a poor
+    brother is forbidden.'
   basis: reading
 - text: 'Covenant Code - sorceress, stranger, widow, loans, firstborn: tagged by Claude (model), reading
     the Hebrew.'

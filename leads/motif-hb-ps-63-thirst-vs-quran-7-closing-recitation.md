@@ -19,25 +19,24 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Remember God within yourself, humbly, without loud speech, morning
-    and evening (weight 6.3). Pair score 6.3.'
+    and evening (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Psalm 63, my soul thirsts for you in the wilderness of Judah: Slain enemies become a
-    portion for jackals or food for beasts and birds; Prayer that the king''s days be prolonged for generations
-    and he be enthroned forever before God; The soul thirsts for God like a dry, weary land without water;
-    Enemies will descend to the lowest parts of the earth (tahtiyyot ha-arets); Speaker remembers and
-    meditates on God on his bed through the night watches; Those who remember God standing, sitting and
-    on their sides and reflect on creation; The believers'' sides forsake their beds as they call on their
-    Lord in fear and hope (night vigil); Lifting the hands (palms) in prayer or blessing; Petitioner takes
-    refuge in the shadow of God''s wings; Superscription sets the psalm in a specific episode of David''s
-    life.'
+- text: 'Only in Psalm 63, my soul thirsts for you in the wilderness of Judah: The soul thirsts for God
+    like a dry, weary land without water; Enemies will descend to the lowest parts of the earth (tahtiyyot
+    ha-arets); Speaker remembers and meditates on God on his bed through the night watches; Slain enemies
+    become a portion for jackals or food for beasts and birds; Those who remember God standing, sitting
+    and on their sides and reflect on creation; The believers'' sides forsake their beds as they call
+    on their Lord in fear and hope (night vigil); Petitioner takes refuge in the shadow of God''s wings;
+    Lifting the hands (palms) in prayer or blessing; Superscription sets the psalm in a specific episode
+    of David''s life; Prayer that the king''s days be prolonged for generations and he be enthroned forever
+    before God.'
   basis: reading
 - text: 'Only in Forbearance, refuge from Satan, and the prostration of the near ones: When the Quran
     is recited, listen and be silent; A verse at which reciters customarily prostrate (sajda); Those near
     God do not disdain to worship him; they glorify him and prostrate; God praised morning and evening
-    [divergence between the texts]; When an evil prompting from Satan stirs you, seek refuge in God; Contradictory
-    pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according to his folly'';
-    Levites stand every morning and evening to thank and praise YHWH; The host of heaven bows down to
-    God.'
+    [divergence between the texts]; When an evil prompting from Satan stirs you, seek refuge in God; Levites
+    stand every morning and evening to thank and praise YHWH; The host of heaven bows down to God; Contradictory
+    pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according to his folly''.'
   basis: reading
 - text: 'Psalm 63, my soul thirsts for you in the wilderness of Judah: tagged by Claude (model), reading
     the Hebrew.'

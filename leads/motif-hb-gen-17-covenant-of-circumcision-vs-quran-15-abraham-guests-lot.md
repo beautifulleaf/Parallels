@@ -19,16 +19,16 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Patriarch or matriarch laughs at the promise of a child in old age
-    (weight 5.6); A divine messenger announces a son''s birth and gives his name (weight 5.2). Pair score
-    10.8.'
+    (weight 6.6); A divine messenger announces a son''s birth and gives his name (weight 6.0). Pair score
+    12.7.'
   basis: reading
 - text: 'Only in El Shaddai, new names and the covenant of circumcision: Ishmael circumcised at thirteen,
     Abraham at ninety-nine; Uncircumcised male is cut off from his people; Circumcision commanded as the
     sign of the covenant; Whether and how God''s covenant with Abraham passes to his offspring [contrast
     between the texts]; A nation descended from Ishmael [divergence between the texts]; Circumcision on
     the eighth day after birth; Ishmael promised to father twelve princes and a great nation; Kings promised
-    to come from the patriarch or matriarch; God changes a person''s name to mark a new destiny; God promises
-    to make the patriarch a great nation; God reveals himself by the name El Shaddai; God promises the
+    to come from the patriarch or matriarch; God promises to make the patriarch a great nation; God reveals
+    himself by the name El Shaddai; God changes a person''s name to mark a new destiny; God promises the
     land to the patriarch''s descendants.'
   basis: reading
 - text: 'Only in Abraham''s guests and the destruction of Lot''s people (Surah 15:51-77): The angelic
@@ -40,8 +40,8 @@ evidence:
     and the plain destroyed [divergence between the texts]; The doomed people are seized by the Shout
     (al-sayha) at dawn or sunrise; Do not despair of God''s mercy (rawh / rahma); only unbelievers or
     the astray despair; Command not to look back while fleeing a doomed place [divergence between the
-    texts]; Host offers his virgin daughters to the mob to protect his guests [divergence between the
-    texts]; and 13 more.'
+    texts]; Command: on leaving, do not look behind you (ana arkīka lā tappallas / lā yaltafit minkum
+    aḥad) [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'El Shaddai, new names and the covenant of circumcision: tagged by Claude (model), reading the
     Hebrew.'

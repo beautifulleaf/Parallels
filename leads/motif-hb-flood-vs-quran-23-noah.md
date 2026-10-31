@@ -18,26 +18,26 @@ motifs:
 - family-saved
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Animals taken aboard in pairs (weight 5.8); Hero builds a vessel
-    on divine instruction (weight 5.2); Hero''s family saved with him (weight 4.5). Pair score 15.5.'
+- text: 'Shared motifs, rarest first: Animals taken aboard in pairs (weight 6.5); Hero builds a vessel
+    on divine instruction (weight 6.2); Hero''s family saved with him (weight 5.4). Pair score 18.2.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
-    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero blessed on leaving the
-    vessel; Hero''s life or mission spans 950 years; Deity resolves or promises not to repeat the destruction;
-    Destruction motivated by human wickedness or violence; Waters pour both from the sky and from springs
-    of the earth; Deity or gods smell the offering; Hero offers sacrifice after leaving the vessel; Vessel
-    comes to rest on a named mountain; Vessel sealed with pitch or bitumen; and 4 more.'
+- text: 'Only in The Flood in Genesis: Hero''s life or mission spans 950 years; Destruction motivated
+    by human wickedness or violence; A sign in the sky commemorates the flood (bow, necklace); Birds released
+    to find dry land; Deity resolves or promises not to repeat the destruction; Deity or gods smell the
+    offering; Exact dimensions of the vessel are specified; Vessel comes to rest on a named mountain;
+    Hero blessed on leaving the vessel; Hero singled out as righteous or pious; Hero offers sacrifice
+    after leaving the vessel; Vessel sealed with pitch or bitumen; and 4 more.'
   basis: reading
 - text: 'Only in Noah called a madman; the ark and the boiling oven: God forbids the prophet to address
     him on behalf of those who did wrong: they will be drowned; The flood hero prays to be landed at a
     blessed landing place; What the flood hero does when the vessel comes to rest [divergence between
-    the texts]; When and from where the flood waters come [divergence between the texts]; The prophet''s
-    people object that he is only a human like them; had God willed he would have sent angels; Whether
-    the flood hero speaks to his people before the flood [divergence between the texts]; A specific sign
-    marks the moment to board; The flood waters are hot or boiling; Why God destroyed a generation or
-    a people [divergence between the texts]; A member of the hero''s family is lost; Who is saved with
-    the hero from the destruction, and why [divergence between the texts]; Hero asks the deity to judge
-    or destroy his opponents; and 2 more.'
+    the texts]; The flood hero is told he is only a man like the speaker(s) [divergence between the texts];
+    When and from where the flood waters come [divergence between the texts]; The prophet''s people object
+    that he is only a human like them; had God willed he would have sent angels; Whether the flood hero
+    speaks to his people before the flood [divergence between the texts]; The flood waters are hot or
+    boiling; Why God destroyed a generation or a people [divergence between the texts]; A member of the
+    hero''s family is lost; A specific sign marks the moment to board; Who is saved with the hero from
+    the destruction, and why [divergence between the texts]; and 3 more.'
   basis: reading
 - text: 'The Flood in Genesis: tagged by Claude (model), reading the Hebrew.'
   basis: reading

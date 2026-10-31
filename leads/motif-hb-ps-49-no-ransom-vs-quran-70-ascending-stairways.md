@@ -20,9 +20,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No man can ransom his brother or give God a ransom (kofer) for him;
-    the redemption of life is too costly [divergence between the texts] (weight 6.7); No man can ransom
-    his brother or give God a ransom (kofer) for him; the redemption of life is too costly (weight 5.3).
-    Pair score 12.0.'
+    the redemption of life is too costly [divergence between the texts] (weight 7.7); No man can ransom
+    his brother or give God a ransom (kofer) for him; the redemption of life is too costly (weight 6.4).
+    Pair score 14.1.'
   basis: reading
 - text: 'Only in Psalm 49 - no man can ransom his brother: Like sheep they are appointed for Sheol; Death
     shepherds them; When he dies he takes nothing with him; his glory does not go down after him; God
@@ -32,8 +32,8 @@ evidence:
     wills; Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves;
     On that day no patron (mawla) can avail his client at all; Qārūn goes out in his finery and the worldly
     wish for his fortune; Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging;
-    Wise men die, the fool and the brute perish together and leave their wealth to others; Riches kept
-    by their owner to his hurt, lost in a bad venture, so that his son has nothing in hand; and 3 more.'
+    Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in hand;
+    Wise men die, the fool and the brute perish together and leave their wealth to others; and 3 more.'
   basis: reading
 - text: 'Only in The ascending stairways: the day of fifty thousand years and the steadfast worshippers:
     A day whose measure is fifty thousand years, during which angels and the Spirit ascend to God; The
@@ -43,12 +43,12 @@ evidence:
     (ma''arij); God is ''Lord of the ascending ways''; The faithful guard their private parts except with
     their wives or those their right hands possess; beyond that is transgression; In the wealth of the
     righteous is a known right (haqq ma''lum) for the beggar and the deprived; God is able to replace
-    a people with others better than they, and none can outrun him; On the day no friend asks after friend;
-    a man flees his brother, mother, father, wife and sons, each wholly occupied with himself; On the
-    day the mountains will be like (carded, dyed) wool (''ihn); Catalogue of the righteous man: no eating
-    on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns pledges,
-    feeds the hungry, clothes the naked, no interest; A thousand years in God''s sight are like yesterday
-    when it passes, or a watch in the night [divergence between the texts]; and 4 more.'
+    a people with others better than they, and none can outrun him; Under the coming calamity the bonds
+    of father, son, brother and friend give way [shared matter] [divergence between the texts]; On the
+    day no friend asks after friend; a man flees his brother, mother, father, wife and sons, each wholly
+    occupied with himself; A ladder (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral];
+    Messengers go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij);
+    and 10 more.'
   basis: reading
 - text: 'Psalm 49 - no man can ransom his brother: tagged by Claude (model), reading the Hebrew.'
   basis: reading

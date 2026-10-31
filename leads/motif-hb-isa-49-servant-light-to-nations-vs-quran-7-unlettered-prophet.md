@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The messenger is sent to all humankind (weight 6.7). Pair score
-    6.7.'
+- text: 'Shared motifs, rarest first: The messenger is sent to all humankind (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Second servant song - called from the womb, a light to the nations: Exiles return from
     far lands including the land of Sinim (later read as China); God makes the servant''s mouth a sharp
@@ -27,9 +27,9 @@ evidence:
     out'' and set free; The servant complains he has labored in vain and spent his strength for nothing;
     The servant of God is addressed as ''Israel'', in whom God will be glorified; Kings and princes rise,
     bow or shut their mouths before the once despised servant; The servant or God''s teaching is made
-    a light to the nations, salvation to the end of the earth; God calls, forms, knows or consecrates
-    his servant or prophet from the womb, before birth; God levels mountains and builds a highway in the
-    wilderness for the returning exiles.'
+    a light to the nations, salvation to the end of the earth; God levels mountains and builds a highway
+    in the wilderness for the returning exiles; God calls, forms, knows or consecrates his servant or
+    prophet from the womb, before birth.'
   basis: reading
 - text: 'Only in The unlettered prophet foretold in Torah and Gospel: The new prophet removes the burdens
     and fetters (isr, aghlal) laid on the earlier community; God lifts a yoke or burden from his people

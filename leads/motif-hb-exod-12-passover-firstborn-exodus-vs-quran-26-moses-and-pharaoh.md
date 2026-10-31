@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Israel took from, or inherited of, Egypt [divergence between
-    the texts] (weight 6.7); The departing slaves ask their neighbors for silver, gold and clothing and
-    so plunder their oppressors (weight 5.8). Pair score 12.5.'
+    the texts] (weight 7.7); The departing slaves ask their neighbors for silver, gold and clothing and
+    so plunder their oppressors (weight 6.8). Pair score 14.6.'
   basis: reading
-- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: Sacrificial blood
-    daubed on the doorposts and lintel protects the household; No one may leave the house until morning
-    on the night of the destroyer; The people carry their unleavened dough in kneading-troughs on their
-    shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival days are holy convocations
-    on which no work is done except preparing food; Small households join neighbors to share one sacrificial
-    lamb; Defeated king asks the departing prophet to bless him too; Leaven must be removed from houses;
-    whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites leaves Egypt with Israel;
-    The spring exodus month becomes the first month of the year; No bone of the paschal sacrifice may
-    be broken; No uncircumcised foreigner may eat the Passover; circumcised slaves and converts may; and
-    17 more.'
+- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: No one may leave
+    the house until morning on the night of the destroyer; The people carry their unleavened dough in
+    kneading-troughs on their shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival
+    days are holy convocations on which no work is done except preparing food; Small households join neighbors
+    to share one sacrificial lamb; Defeated king asks the departing prophet to bless him too; Leaven must
+    be removed from houses; whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites
+    leaves Egypt with Israel; The spring exodus month becomes the first month of the year; No bone of
+    the paschal sacrifice may be broken; No uncircumcised foreigner may eat the Passover; circumcised
+    slaves and converts may; An unblemished yearling lamb selected on the tenth and slaughtered at twilight
+    on the fourteenth; and 17 more.'
   basis: reading
 - text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
     the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
@@ -42,9 +42,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 41 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 49 more.'
   basis: reading
 - text: 'Passover law, matzot, the night of the firstborn, departure from Egypt: tagged by Claude (model),
     reading the Hebrew.'

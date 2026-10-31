@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believers do not love those who oppose God, even fathers, sons,
-    brothers or clan; God writes faith on their hearts and supports them with a spirit (weight 6.7). Pair
-    score 6.7.'
+    brothers or clan; God writes faith on their hearts and supports them with a spirit (weight 7.7). Pair
+    score 7.7.'
   basis: reading
 - text: 'Only in The Blessing of Moses on the tribes: Dying patriarch or leader blesses each tribe in
     turn; Underneath are the everlasting arms; A fiery law (esh dat) from God''s right hand; Asher dips
@@ -29,8 +29,8 @@ evidence:
     Israel, who is like you, a people saved by YHWH; Zebulun and Issachar suck the abundance of the seas
     and treasures hidden in the sand; A tribe likened to a lion or lion''s whelp; God described as the
     one who dwells in the bush (seneh); Levi says to father and mother ''I do not see you'' and disregards
-    his brothers and children for God''s covenant; God rides through the heavens (rokhev shamayim) to
-    help; Urim and Thummim placed in the breastpiece for divine decision; and 3 more.'
+    his brothers and children for God''s covenant; Urim and Thummim placed in the breastpiece for divine
+    decision; God shines forth from Sinai, Seir and Mount Paran with holy myriads; and 3 more.'
   basis: reading
 - text: 'Only in Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth
     of three; the party of God: Before a private consultation with the prophet give charity (sadaqa);
@@ -44,7 +44,7 @@ evidence:
     poor; There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
     wherever they are; God is well pleased with them and they with him (radiya llahu ''anhum wa-radu ''anhu);
     Expiation in steps according to what one can afford [divergence between the texts]; God will put his
-    law within the people and write it on their hearts; and 10 more.'
+    law within the people and write it on their hearts; and 14 more.'
   basis: reading
 - text: 'The Blessing of Moses on the tribes: tagged by Claude (model), reading the Hebrew.'
   basis: reading

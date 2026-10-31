@@ -22,20 +22,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Were they created from nothing, or are they the creators? Did they
-    create the heavens and earth? (weight 6.7); Storehouses of snow and hail reserved for the day of battle
-    (weight 6.3). Pair score 13.0.'
+    create the heavens and earth? (weight 7.7); Storehouses of snow and hail reserved for the day of battle
+    (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens:
     Dawn seizes the edges of the earth and shakes the wicked out of it; Light and darkness each have a
     dwelling place and a road to it; Rhetorical question whether rain has a father and from whose womb
-    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The morning stars
-    sing together and the sons of God shout for joy at the founding of the earth; Named constellations
-    (Kimah/Pleiades, Kesil/Orion, Ayish/Bear, Mazzarot) and their bonds; The sea bursts out of a womb
-    at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors for the
-    sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of the deep
-    (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God tips over;
-    God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); God challenges
-    the human: ''Gird your loins like a man; I will question you and you inform me''; and 13 more.'
+    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The sea bursts out
+    of a womb at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors
+    for the sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of
+    the deep (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God
+    tips over; God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); God
+    challenges the human: ''Gird your loins like a man; I will question you and you inform me''; God answers
+    the sufferer out of the storm-wind (se''arah); The ''statutes of the heavens'' (huqqot shamayim) and
+    their rule over the earth; and 13 more.'
   basis: reading
 - text: 'Only in The Garden: offspring joined with parents, the cup without idle talk, youths like pearls;
     the run of ''or...?'' challenges: The blessed question each other and recall that they used to be
@@ -44,11 +44,12 @@ evidence:
     falling they would say ''heaped-up clouds''; Glorify God when you rise, in the night, and at the retreat
     of the stars (dawn); Do they have a ladder (sullam) by which they eavesdrop on heaven? Let their listener
     bring clear proof; ''Be patient for your Lord''s judgment, for you are under our eyes''; Do they possess
-    the Unseen (al-ghayb) so they write it down?; Dream of a ladder or stairway reaching heaven with angels
-    ascending and descending; ''Eat and drink with relish for what you used to do''; A ladder (sullam
-    / sullām) reaching from earth to heaven [divergence between the texts]; Believers'' offspring who
-    followed them in faith are joined with them in paradise, without loss of reward; each is pledged for
-    what he earned; The blessed recline on couches set in rows (or face to face); and 12 more.'
+    the Unseen (al-ghayb) so they write it down?; ''Eat and drink with relish for what you used to do'';
+    A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts]; Messengers
+    go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij) [divergence
+    between the texts]; Believers'' offspring who followed them in faith are joined with them in paradise,
+    without loss of reward; each is pledged for what he earned; The blessed recline on couches set in
+    rows (or face to face); and 13 more.'
   basis: reading
 - text: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens: tagged
     by Claude (model), reading the Hebrew.'

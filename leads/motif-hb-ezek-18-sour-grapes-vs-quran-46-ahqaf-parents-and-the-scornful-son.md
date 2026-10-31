@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever does good does it for his own soul; whoever does evil, it
-    is against it (weight 6.0). Pair score 6.0.'
+    is against it (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Sour grapes - individual responsibility and repentance: Exhortation: cast away your transgressions
     and make yourselves a new heart and a new spirit; why will you die?; Test case of three generations:
@@ -27,27 +27,28 @@ evidence:
     Whether one person can carry another''s sin [divergence between the texts]; No one may excuse himself
     on judgment day because his ancestors associated partners; If the wicked turns from his sins, none
     of his transgressions will be remembered; if the righteous turns away, his righteousness is forgotten;
-    Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual intercourse,
-    no oppression, returns pledges, feeds the hungry, clothes the naked, no interest; Proverb ''The fathers
-    have eaten sour grapes and the children''s teeth are set on edge'', abolished by God; Whether repentance
-    has a time limit [divergence between the texts]; People complain ''the way of the Lord is not fair'';
-    God answers that it is their ways that are unfair; God does not desire the death of the wicked but
-    that he turn from his way and live; A cloak taken in pledge must be returned before sunset; ''The
-    soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father the son''s;
-    and 4 more.'
+    Proverb ''The fathers have eaten sour grapes and the children''s teeth are set on edge'', abolished
+    by God; Whether repentance has a time limit [divergence between the texts]; People complain ''the
+    way of the Lord is not fair''; God answers that it is their ways that are unfair; God does not desire
+    the death of the wicked but that he turn from his way and live; Catalogue of the righteous man: no
+    eating on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns pledges,
+    feeds the hungry, clothes the naked, no interest; ''The soul that sins, it shall die'': the son does
+    not bear the father''s iniquity nor the father the son''s; Intercourse with a menstruating woman is
+    forbidden; and 4 more.'
   basis: reading
 - text: 'Only in Kindness to parents, thirty months of bearing and weaning, the prayer at forty and the
     son who says ''Uff'': God enjoins humans to be good to their parents; On reaching full strength at
     forty, a man prays to be grateful for favor on himself and his parents and for righteous offspring;
     A son says ''Uff!'' to his parents who plead with him, scorning resurrection as ''tales of the ancients'';
     His mother bore him with hardship and delivered him with hardship; bearing and weaning take thirty
-    months; The damned are told: you used up your good things in your worldly life and enjoyed them; today
-    you are repaid with humiliation; The mother''s pain in bearing children: penalty, or ground of gratitude
-    [divergence between the texts]; For all there are degrees (darajat) according to what they did; The
-    ground and the reward of the duty to parents [divergence between the texts]; A son who rejects his
-    parents: the charge and the penalty [divergence between the texts]; Stubborn and rebellious son, glutton
-    and drunkard, stoned by the men of his city; Honor father and mother, with the promise of long life;
-    Unbelievers dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal.'
+    months; A son who rejects his father''s teaching is to be driven away: ''he is not your son, he was
+    not born to you''; The damned are told: you used up your good things in your worldly life and enjoyed
+    them; today you are repaid with humiliation; The mother''s pain in bearing children: penalty, or ground
+    of gratitude [divergence between the texts]; For all there are degrees (darajat) according to what
+    they did; The ground and the reward of the duty to parents [divergence between the texts]; A son who
+    rejects his parents: the charge and the penalty; A son who rejects his parents: the charge and the
+    penalty [divergence between the texts]; Stubborn and rebellious son, glutton and drunkard, stoned
+    by the men of his city; and 2 more.'
   basis: reading
 - text: 'Sour grapes - individual responsibility and repentance: tagged by Claude (model), reading the
     Hebrew.'

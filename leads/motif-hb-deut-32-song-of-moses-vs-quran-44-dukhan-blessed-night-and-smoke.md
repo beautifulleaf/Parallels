@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God kills and makes alive, brings down to Sheol and raises up (weight
-    5.8). Pair score 5.8.'
+    6.0). Pair score 6.0.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 30 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; Whether God, or the gods, eat the offerings [contrast between the texts]; and 30
+    more.'
   basis: reading
 - text: 'Only in Ha-Mim: the blessed night and the day of the smoke: Opponents call the prophet ''one
     taught (by others), a madman'' (mu''allam majnun); God lifts the punishment a little, but they revert;
     then comes ''the greatest assault'' (al-batsha al-kubra); The Book was sent down on a blessed night
     in which every wise matter is decreed/distinguished (cf. the Night of Decree); Oath ''By the clear
     Book!'' opening a surah; A day when the sky brings a visible smoke (dukhan) covering the people as
-    a painful punishment; Smoke rises from the destroyed land like smoke of a kiln; ''There is none like
-    you and no God beside you''; The king breaks his promise to release the people once a plague is lifted;
-    God identifies himself as God of Abraham, Isaac and Jacob; Officers call the visiting prophet ''this
-    madman'' (meshugga''); A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning,
-    e.g. alif-lam-mim.'
+    a painful punishment; Smoke envelops house or people as a calamity [divergence between the texts];
+    Smoke rises from the destroyed land like smoke of a kiln; A set day or night on which the fates or
+    every matter are decided; The king breaks his promise to release the people once a plague is lifted;
+    God identifies himself as God of Abraham, Isaac and Jacob; ''There is none like you and no God beside
+    you''; Officers call the visiting prophet ''this madman'' (meshugga''); and 1 more.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

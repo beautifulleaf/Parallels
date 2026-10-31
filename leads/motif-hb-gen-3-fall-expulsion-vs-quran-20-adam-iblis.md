@@ -13,43 +13,44 @@ traditions:
 layers:
 - motif
 motifs:
+- tree-of-immortality-and-unending-kingdom-as-divergence
 - eyes-opened-nakedness-known-as-divergence
 - adam-receives-words-of-repentance-as-divergence
-- tree-of-immortality-and-unending-kingdom-as-divergence
-- enmity-serpent-and-woman-seed-as-divergence
 - serpent-tempter-as-divergence
+- enmity-serpent-and-woman-seed-as-divergence
 - fig-leaf-coverings
 - enmity-serpent-and-woman-seed
-- eyes-opened-nakedness-known
 - expulsion-from-paradise
 - serpent-tempter
+- eyes-opened-nakedness-known
 - tree-of-life
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Eating opens their eyes and they know they are naked [divergence
-    between the texts] (weight 6.7); Adam receives words from his Lord and God turns to him in forgiveness
-    [divergence between the texts] (weight 6.7); The tempter offers ''the tree of immortality and a kingdom
-    that never decays'' [divergence between the texts] (weight 6.7); Enmity between the serpent''s seed
-    and the woman''s seed: head bruised, heel struck [divergence between the texts] (weight 6.3); A cunning
-    serpent persuades the woman to eat the forbidden fruit [divergence between the texts] (weight 6.3);
-    Fig leaves sewn into coverings (weight 6.3); Enmity between the serpent''s seed and the woman''s seed:
-    head bruised, heel struck (weight 6.3); Eating opens their eyes and they know they are naked (weight
-    6.3); First humans expelled from the garden (weight 6.0); A cunning serpent persuades the woman to
-    eat the forbidden fruit (weight 6.0); A tree whose fruit gives eternal life (weight 5.4). Pair score
-    68.9.'
+- text: 'Shared motifs, rarest first: The tempter offers ''the tree of immortality and a kingdom that
+    never decays'' [divergence between the texts] (weight 7.7); Eating opens their eyes and they know
+    they are naked [divergence between the texts] (weight 7.7); Adam receives words from his Lord and
+    God turns to him in forgiveness [divergence between the texts] (weight 7.7); A cunning serpent persuades
+    the woman to eat the forbidden fruit [divergence between the texts] (weight 7.3); Enmity between the
+    serpent''s seed and the woman''s seed: head bruised, heel struck [divergence between the texts] (weight
+    7.3); Fig leaves sewn into coverings (weight 7.3); Enmity between the serpent''s seed and the woman''s
+    seed: head bruised, heel struck (weight 7.3); First humans expelled from the garden (weight 7.1);
+    A cunning serpent persuades the woman to eat the forbidden fruit (weight 6.8); Eating opens their
+    eyes and they know they are naked (weight 6.6); A tree whose fruit gives eternal life (weight 6.2).
+    Pair score 79.4.'
   basis: reading
-- text: 'Only in The serpent, the eating, the curses and the expulsion: Each accused shifts blame to another
-    (man to woman, woman to serpent); First woman named as mother of all living; God heard walking in
-    the garden in the breeze of the day; Humans gain divine knowledge and God fears they will also gain
-    immortality; Woman punished with pain in childbirth and subordination to husband; The woman eats first
-    and gives the fruit to her husband; Cherubim and a flaming turning sword guard the way to the tree
-    of life; Enmity decreed at the expulsion from the garden [divergence between the texts]; How the first
-    couple answer God after eating: shifting the blame or confessing [divergence between the texts]; The
-    first man''s response after the transgression in the garden (blame or repentance) [divergence between
-    the texts]; God makes garments of skin for the first couple; God makes garments of skin for the first
-    couple [divergence between the texts]; and 16 more.'
+- text: 'Only in The serpent, the eating, the curses and the expulsion: First woman named as mother of
+    all living; God heard walking in the garden in the breeze of the day; Woman punished with pain in
+    childbirth and subordination to husband; The woman eats first and gives the fruit to her husband;
+    Each accused shifts blame to another (man to woman, woman to serpent); Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; How the first couple answer God after eating: shifting
+    the blame or confessing [divergence between the texts]; The first man''s response after the transgression
+    in the garden (blame or repentance) [divergence between the texts]; God makes garments of skin for
+    the first couple [divergence between the texts]; Ground cursed; man must eat by sweat of his brow
+    among thorns and thistles [divergence between the texts]; Sinner hides from God, who calls ''Where
+    are you?'' [divergence between the texts]; The human condition on earth after the expulsion [divergence
+    between the texts]; and 16 more.'
   basis: reading
 - text: 'Only in Adam''s forgetting, Iblis, the tree of immortality and the descent: God made a covenant
     with Adam, but he forgot and lacked resolve; In the garden Adam will not hunger, be naked, thirst
@@ -59,7 +60,10 @@ evidence:
     the texts]; Adam receives words from his Lord and God turns to him in forgiveness; God commands the
     angels to prostrate to Adam; all do except Iblis, who refuses; Satan whispers (waswasa) to tempt humans;
     In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence between
-    the texts]; God plants a garden (Eden) in the east and places the first human there.'
+    the texts]; A human is given an instruction about what not to eat and either holds fast to it or forgets
+    it [divergence between the texts]; After the episode of the forbidden or refused food; Before the
+    offer of a food that gives (or is said to give) eternal life [divergence between the texts]; and 1
+    more.'
   basis: reading
 - text: 'The serpent, the eating, the curses and the expulsion: tagged by Claude (model), reading the
     Hebrew.'

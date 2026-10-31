@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sailors in a storm call on God sincerely, vow thanks, and transgress
-    once saved [divergence between the texts] (weight 6.3). Pair score 6.3.'
+    once saved [divergence between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Jonah flees to Tarshish and is thrown into the sea: The ship''s captain wakes the sleeper
     and urges him to call on his god that they may not perish; Sailors throw the cargo overboard to lighten
@@ -40,9 +40,9 @@ evidence:
     water (hamim); ''He spoke and it came to be; he commanded and it stood firm''; Those who split their
     religion into sects, each party exulting in what it has; God raises a storm that lifts ships to the
     heavens and down to the deeps, then hushes it to a whisper and brings sailors to harbor; Each wrongdoer
-    would ransom himself with all that is on earth, if he could; Deity creates by spoken command (Let
-    there be...); When harm touches people they turn to God; when he gives them relief a party of them
-    associates partners again; The trumpet (ṣūr) is blown and the dead are gathered.'
+    would ransom himself with all that is on earth, if he could; When harm touches people they turn to
+    God; when he gives them relief a party of them associates partners again; Deity creates by spoken
+    command (Let there be...); The trumpet (ṣūr) is blown and the dead are gathered.'
   basis: reading
 - text: 'Jonah flees to Tarshish and is thrown into the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

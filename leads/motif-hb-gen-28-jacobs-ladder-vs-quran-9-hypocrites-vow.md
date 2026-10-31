@@ -18,24 +18,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero vows that if God protects and provides for him, he will worship
-    and tithe [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    and tithe [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jacob''s dream at Bethel: God promises to be with the traveler and bring him back; Hero
     sleeps with a stone under his head at a holy place; The angels and the Spirit (al-ruh) ascend to God
     by stairways (ma''arij); God is ''Lord of the ascending ways''; A standing stone (matsevah) set up
     and anointed with oil; Hero vows that if God protects and provides for him, he will worship and tithe;
-    Dream of a ladder or stairway reaching heaven with angels ascending and descending; A place recognized
-    as the house of God and gate of heaven; A ladder (sullam / sullām) reaching from earth to heaven;
-    A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts]; A tenth of
-    everything given to a priest; Luz renamed Bethel, ''house of God''; All families of the earth will
-    be blessed through the patriarch; and 2 more.'
+    A place recognized as the house of God and gate of heaven; A ladder (sullam / sullām) reaching from
+    earth to heaven [divergence between the texts]; A tenth of everything given to a priest; A ladder
+    (sullam / sullām) reaching from earth to heaven; Luz renamed Bethel, ''house of God''; Dream of a
+    ladder or stairway reaching heaven with angels ascending and descending; All families of the earth
+    will be blessed through the patriarch; and 2 more.'
   basis: reading
 - text: 'Only in The broken vow of charity; seventy prayers in vain: Hypocrites mock believers who give
     voluntarily and those who can give only their effort; Men vow to give alms if God enriches them, then
-    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; Whether
+    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; The
+    vow made to the deity is not kept, the deity takes note of the breach and the vower is punished; Whether
     the prophet should intercede for a sinful people [contrast between the texts]; Even if the prophet
     asks forgiveness for them seventy times God will not forgive them; God is near in their mouths but
-    far from their kidneys (hearts); Pay vows without delay; not vowing is no sin; God forbids the prophet
+    far from their kidneys (hearts); Pay vows without delay; not vowing is no sin; The petitioner promises
+    a gift if the deity grants the request: ''if you do this, I will give you ...''; God forbids the prophet
     to pray or intercede for the people, for he will not hear.'
   basis: reading
 - text: 'Jacob''s dream at Bethel: tagged by Claude (model), reading the Hebrew.'

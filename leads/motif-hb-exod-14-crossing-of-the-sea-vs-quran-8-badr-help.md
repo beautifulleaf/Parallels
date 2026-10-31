@@ -12,15 +12,15 @@ traditions:
 layers:
 - motif
 motifs:
-- victory-credited-to-god-as-divergence
 - people-cry-to-god-before-battle-as-divergence
+- victory-credited-to-god-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The victory is credited to God, not to the fighters [divergence
-    between the texts] (weight 6.7); The threatened people cry to God before the decisive encounter [divergence
-    between the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The threatened people cry to God before the decisive encounter [divergence
+    between the texts] (weight 7.7); The victory is credited to God, not to the fighters [divergence between
+    the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -37,12 +37,13 @@ evidence:
     the fighters, remove Satan''s filth and make their feet firm; Some believers dispute the call to battle
     as if driven to death with their eyes open; God covers the fighters with slumber as a security from
     him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; God
-    reduces the army so that Israel cannot boast its own hand saved it; Fleeing the battle line is forbidden
-    except as a maneuver or to join another unit; Ruling on soldiers who fear battle [contrast between
-    the texts]; ''You did not throw when you threw, but God threw'': the victory is God''s act; Priest
-    addresses the army before battle: do not fear, God fights for you; God cuts off the last remnant (root,
-    dabir) of a people who denied; God''s angels strike the enemy army [divergence between the texts];
-    God reinforces the believers in battle with a thousand (or more) angels; and 2 more.'
+    reduces the army so that Israel cannot boast its own hand saved it; Hard pressed by a superior enemy,
+    a leader or army calls on God and God answers; Fleeing the battle line is forbidden except as a maneuver
+    or to join another unit; Ruling on soldiers who fear battle [contrast between the texts]; Priest addresses
+    the army before battle: do not fear, God fights for you; God cuts off the last remnant (root, dabir)
+    of a people who denied; Whether the human side or the deity is credited with killing the enemy [shared
+    matter] [divergence between the texts]; God''s angels strike the enemy army [divergence between the
+    texts]; and 5 more.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

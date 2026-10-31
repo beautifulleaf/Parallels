@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God records what people sent ahead and their traces (athar), and
-    counts everything in a clear register (imam mubin) (weight 6.3). Pair score 6.3.'
+    counts everything in a clear register (imam mubin) (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The book of remembrance and the sun of righteousness: The day comes burning like an oven;
     the arrogant and evildoers become stubble, left neither root nor branch; Complaint: ''It is vain to
     serve God; what profit that we kept his charge? The arrogant are blessed and the wicked test God and
     escape''; God will spare the faithful as a man spares the son who serves him, on the day he makes
     his treasured possession; The righteous go out leaping like stall-fed calves and tread the wicked
-    like ashes under their feet; For those who fear God the sun of righteousness will rise with healing
-    in its wings (kenafeha); A book of remembrance is written before God for those who fear him and think
-    on his name; God''s choosing of Israel among the peoples [divergence between the texts]; There is
-    no secret conversation of three but God is the fourth, nor of five but he is the sixth, wherever they
-    are; God will not leave believers as they are until he separates the bad from the good; God''s messengers
+    like ashes under their feet; A book of remembrance is written before God for those who fear him and
+    think on his name; God''s choosing of Israel among the peoples [divergence between the texts]; There
+    is no secret conversation of three but God is the fourth, nor of five but he is the sixth, wherever
+    they are; God will not leave believers as they are until he separates the bad from the good; For those
+    who fear God the sun of righteousness will rise with healing in its wings (kenafeha); God''s messengers
     (angels) write down what people plot and do; ''Why do the wicked live, grow old and mighty?'': prosperity
     of the wicked with children, safe houses and fertile cattle; On judgment day people are either wretched
     (shaqi) or blessed (sa''id); and 3 more.'

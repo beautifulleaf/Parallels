@@ -15,15 +15,15 @@ traditions:
 layers:
 - motif
 motifs:
+- doubt-at-promise-of-son-in-old-age
 - identity-of-abrahams-visitors
 - sarahs-laughter-as-divergence
 - whether-the-heavenly-guests-eat-as-divergence
 - fear-at-the-heavenly-visitors-as-divergence
-- doubt-at-promise-of-son-in-old-age
-- calf-prepared-for-guests
 - sarah-laughs-overhearing
-- annunciation-of-son-to-barren-couple-as-divergence
+- calf-prepared-for-guests
 - nothing-too-hard-for-god
+- annunciation-of-son-to-barren-couple-as-divergence
 - three-divine-visitors
 - patriarch-laughs-at-promise
 - hospitality-to-strangers
@@ -31,34 +31,39 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Who Abraham''s visitors are (weight 6.7); When and why Sarah laughs,
-    and how it is answered [divergence between the texts] (weight 6.7); Whether Abraham''s heavenly guests
-    eat the meal he serves [divergence between the texts] (weight 6.7); Who is afraid during the visit
-    of the heavenly guests, and why [divergence between the texts] (weight 6.7); Doubt voiced at the promise
-    of a son in old age (weight 6.7); A tender calf is slaughtered and served to divine guests (weight
-    6.3); The old wife overhears the promise of a son at the tent door and laughs (weight 6.3); A divine
-    messenger announces a son to a barren couple [divergence between the texts] (weight 6.0); ''Is anything
-    too wondrous for the LORD?'' (weight 6.0); God appears as three men who visit the patriarch (weight
-    5.8); Patriarch or matriarch laughs at the promise of a child in old age (weight 5.6); Host runs to
-    welcome strangers, washes their feet and feeds them (weight 5.1). Pair score 74.5.'
+- text: 'Shared motifs, rarest first: Doubt voiced at the promise of a son in old age (weight 7.7); Who
+    Abraham''s visitors are (weight 7.7); When and why Sarah laughs, and how it is answered [divergence
+    between the texts] (weight 7.7); Whether Abraham''s heavenly guests eat the meal he serves [divergence
+    between the texts] (weight 7.7); Who is afraid during the visit of the heavenly guests, and why [divergence
+    between the texts] (weight 7.7); The old wife overhears the promise of a son at the tent door and
+    laughs (weight 7.3); A tender calf is slaughtered and served to divine guests (weight 7.3); ''Is anything
+    too wondrous for the LORD?'' (weight 7.1); A divine messenger announces a son to a barren couple [divergence
+    between the texts] (weight 7.1); God appears as three men who visit the patriarch (weight 6.8); Patriarch
+    or matriarch laughs at the promise of a child in old age (weight 6.6); Host runs to welcome strangers,
+    washes their feet and feeds them (weight 5.8). Pair score 86.8.'
   basis: reading
 - text: 'Only in Three visitors at Mamre and the promise of Isaac: Child promised to a woman past childbearing
-    age; The answer given to the old woman''s doubt [divergence between the texts]; Heavenly visitors
-    eat a human meal; Doubt voiced at the promise of a son in old age [divergence between the texts];
-    The aged father asks how he can have a son when his wife is barren and he is very old [divergence
-    between the texts]; Host runs to welcome strangers, washes their feet and feeds them [divergence between
-    the texts]; Who Abraham''s visitors are [divergence between the texts]; The patriarch tells his unknown
-    guests ''we are afraid of you'' [divergence between the texts]; Patriarch or matriarch laughs at the
-    promise of a child in old age [divergence between the texts]; Sarah''s reaction to the announcement
-    of a son [divergence between the texts]; Whether Abraham''s heavenly guests eat the meal [divergence
-    between the texts]; Sacred oak or terebinth marks a sanctuary site (Moreh, Mamre); and 1 more.'
+    age; The answer given to the old woman''s doubt [divergence between the texts]; Doubt voiced at the
+    promise of a son in old age [divergence between the texts]; The aged father asks how he can have a
+    son when his wife is barren and he is very old [divergence between the texts]; Host runs to welcome
+    strangers, washes their feet and feeds them [divergence between the texts]; Who Abraham''s visitors
+    are [divergence between the texts]; The patriarch tells his unknown guests ''we are afraid of you''
+    [divergence between the texts]; Patriarch or matriarch laughs at the promise of a child in old age
+    [divergence between the texts]; Sarah''s reaction to the announcement of a son [divergence between
+    the texts]; Whether Abraham''s heavenly guests eat the meal [divergence between the texts]; Heavenly
+    visitors eat a human meal; Sacred oak or terebinth marks a sanctuary site (Moreh, Mamre); and 1 more.'
   basis: reading
 - text: 'Only in Abraham''s guests, the roasted calf and the laughing wife: Abraham is forbearing, sighing
-    (awwah) and penitent; Abraham''s angelic guests do not stretch their hands to the food, and he is
-    afraid; The annunciation names Isaac ''and after Isaac, Jacob''; Promised son born to aged parents
-    at the appointed time; How Abraham learns of Sodom''s fate, and his response; How God answers Abraham''s
-    plea for the people of Sodom [divergence between the texts]; When and why Sarah laughs, and how it
-    is answered; Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10).'
+    (awwah) and penitent; The annunciation names Isaac ''and after Isaac, Jacob''; Promised son born to
+    aged parents at the appointed time; Whether the divine guest eats the meal prepared by the host [divergence
+    between the texts]; How Abraham learns of Sodom''s fate, and his response; A host sets meat before
+    an arriving messenger, who does not take the meal, and fear follows [divergence between the texts];
+    How God answers Abraham''s plea for the people of Sodom [divergence between the texts]; An intercessor
+    pleads with the divine to spare a city whose destruction is decreed; the decree is not turned back
+    [divergence between the texts]; When and why Sarah laughs, and how it is answered; Whether Abraham''s
+    heavenly guests eat the meal he serves; Abraham''s angelic guests do not stretch their hands to the
+    food, and he is afraid; A guest refuses to sit on the chair offered, to touch the table or to put
+    his lip to the cup; and 2 more.'
   basis: reading
 - text: 'Three visitors at Mamre and the promise of Isaac: tagged by Claude (model), reading the Hebrew.'
   basis: reading

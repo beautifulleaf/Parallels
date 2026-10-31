@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends the flood of al-''Arim (the dam) and turns the two gardens
-    into bitter fruit, tamarisk and a few lote-trees (weight 6.3). Pair score 6.3.'
+    into bitter fruit, tamarisk and a few lote-trees (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Song of the vineyard; six woes; the nation from afar: Woe to those who rise early for
     strong drink and feast with lyre and harp but ignore God''s work; God raises a banner and whistles
@@ -28,19 +28,21 @@ evidence:
     yielded wild grapes despite all care and is abandoned to briars; The invading army never tires, sleeps
     or loosens belt or sandal; its horses'' hooves like flint, its roar like a lion; Prophetic paronomasia:
     hoped for mishpat (justice) but got mishpah (bloodshed), for tsedaqah but got tse''aqah (outcry);
-    Woe to those who call evil good and good evil, darkness light and bitter sweet; God speaks to the
-    snow ''Fall on the earth'' and commands the downpour; Hypocrite men and women enjoin wrong and forbid
-    right and close their hands; Refrain: ''For all this his anger is not turned back and his hand is
-    stretched out still''; Sheol enlarges its appetite and opens its mouth without limit to swallow the
-    people; Scoffers ask ''Lord, hasten to us our share (qittana) before the Day of Reckoning''; and 8
-    more.'
+    God speaks to the snow ''Fall on the earth'' and commands the downpour; Hypocrite men and women enjoin
+    wrong and forbid right and close their hands; Refrain: ''For all this his anger is not turned back
+    and his hand is stretched out still''; Woe to those who call evil good and good evil, darkness light
+    and bitter sweet; Scoffers ask ''Lord, hasten to us our share (qittana) before the Day of Reckoning'';
+    God asks Gehenna ''Are you full?'' and it answers ''Are there any more?''; and 8 more.'
   basis: reading
 - text: 'Only in Sheba''s two gardens and the bursting of the dam: Iblis found his opinion of humans to
     be true; they followed him except a party of believers; Sheba asks ''Lengthen the distances between
     our journeys'', and God makes them bygone tales and scatters them utterly; Between Sheba and the blessed
     towns God set visible towns and measured stages for safe travel by night and day; Sheba (Saba'') had
-    a sign in their dwelling: two gardens to the right and left, a good land; The Jordan plain before
-    Sodom''s destruction was like the garden of the LORD.'
+    a sign in their dwelling: two gardens to the right and left, a good land; Fine gardens of fruit are
+    turned into a growth of weeds or bitter shrubs [divergence between the texts]; The Jordan plain before
+    Sodom''s destruction was like the garden of the LORD; Road stages are measured out so that travellers
+    go safely by night and by day; Road stages are measured out so that travellers go safely by night
+    and by day [divergence between the texts].'
   basis: reading
 - text: 'Song of the vineyard; six woes; the nation from afar: tagged by Claude (model), reading the Hebrew.'
   basis: reading

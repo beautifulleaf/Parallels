@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day the sky heaves (tamur) and the mountains move away (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Judgment of the nations in the Valley of Jehoshaphat; the fountain from the temple: The
     nations cast lots for God''s people, trading a boy for a harlot and a girl for wine; Put in the sickle,
@@ -29,9 +29,9 @@ evidence:
     your plowshares into swords and pruning hooks into spears (call to war); A spring issues from the
     house of YHWH and waters the Wadi of Shittim (Acacias); Jerusalem will be holy and strangers will
     pass through it no more; God gathers all nations to the Valley of Jehoshaphat (''YHWH judges'') to
-    judge them; YHWH roars from Zion and utters his voice from Jerusalem; heaven and earth shake; In that
-    day the mountains drip sweet wine and the hills flow with milk; A river flows from under the temple
-    threshold, growing ever deeper; and 1 more.'
+    judge them; YHWH roars from Zion and utters his voice from Jerusalem; heaven and earth shake; A river
+    flows from under the temple threshold, growing ever deeper; In that day the mountains drip sweet wine
+    and the hills flow with milk; and 1 more.'
   basis: reading
 - text: 'Only in Al-Tur: the oath by the Mount, the inscribed parchment and the frequented House; the
     sky heaves: The deniers are shoved into the Fire and asked ''Is this sorcery, or do you not see?'';

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Blessing: God removes harmful wild beasts from the land (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Covenant blessings for obedience: God promises to walk about in the midst of the people;
     No idols, carved image, pillar or figured stone set up to bow down on; Blessing: five of you will

@@ -19,7 +19,7 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
-    5.2); God addresses the hero with ''Fear not'' in a vision (weight 5.2). Pair score 10.4.'
+    6.0); God addresses the hero with ''Fear not'' in a vision (weight 5.2). Pair score 11.3.'
   basis: reading
 - text: 'Only in The covenant between the pieces: Birds of prey descend on the sacrifice and the hero
     drives them away; Childless patriarch''s household servant is to be his heir; A great dark dread falls
@@ -29,8 +29,7 @@ evidence:
     Promised land stretches from the river of Egypt to the Euphrates; God takes the patriarch outside
     and tells him to count the stars; God takes the patriarch outside and tells him to count the stars
     [divergence between the texts]; Descendants foretold to be enslaved in a foreign land 400 years and
-    leave with great wealth; Covenant ritual: animals cut in halves and a divine presence passes between
-    them; and 5 more.'
+    leave with great wealth; Patriarch believes God and it is counted to him as righteousness; and 5 more.'
   basis: reading
 - text: 'Only in Abraham''s honored guests, the barren old wife striking her face, the stones of clay
     for Lot''s people; Pharaoh, ''Ad, Thamud and Noah: On ''Ad God sent the barren wind (al-rih al-''aqim),
@@ -40,10 +39,11 @@ evidence:
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
     old woman!''; Angels seize the hesitating family by the hand and lead them out; The answer given to
-    the old woman''s doubt [divergence between the texts]; Heavenly visitors eat a human meal; Host runs
-    to welcome strangers, washes their feet and feeds them [divergence between the texts]; How Abraham
-    learns of Sodom''s fate, and his response [divergence between the texts]; Who Abraham''s visitors
-    are [divergence between the texts]; and 18 more.'
+    the old woman''s doubt [divergence between the texts]; Supernatural envoys who come to seize or destroy
+    do not eat the food offered them [divergence between the texts]; Host runs to welcome strangers, washes
+    their feet and feeds them [divergence between the texts]; The host, seeing the divine visitor, has
+    his household prepare an animal from the herd (lamb, calf) for the guest; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; and 23 more.'
   basis: reading
 - text: 'The covenant between the pieces: tagged by Claude (model), reading the Hebrew.'
   basis: reading

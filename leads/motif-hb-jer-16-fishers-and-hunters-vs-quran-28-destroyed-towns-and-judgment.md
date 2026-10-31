@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nations come from the ends of the earth confessing ''our fathers
-    inherited nothing but lies''; can a man make gods for himself? (weight 6.7); God alone knows the hearts
-    of all humans (weight 5.0). Pair score 11.7.'
+    inherited nothing but lies''; can a man make gods for himself? (weight 7.7); God alone knows the hearts
+    of all humans (weight 6.0). Pair score 13.7.'
   basis: reading
 - text: 'Only in A new exodus from the north; fishers and hunters: God sends many fishers to fish them
     out and then many hunters to hunt them from every mountain and cleft of rock; Appeal to the religion
@@ -34,13 +34,13 @@ evidence:
   basis: reading
 - text: 'Only in Towns destroyed for ingratitude; ''Where are my partners?''; perpetual night and day:
     God does not destroy towns until he sends a messenger to their mother-town; If God made the night
-    or the day perpetual until resurrection, what god could bring the other?; God guarantees seedtime
-    and harvest, cold and heat, day and night will not cease; On judgment day God asks ''Where are my
-    partners for whom you contended?''; God knows the secrets of the heart (ta''alumot lev); On judgment
-    day a witness is brought from every nation, and the Prophet as witness over them; God mocks: where
-    are their gods who ate the fat of their sacrifices? let them rise and help; The listeners walk among
-    the dwellings of generations God destroyed, a sign; At judgment the associated ''partners'' disown
-    their worshipers: ''it was not us you worshiped''.'
+    or the day perpetual until resurrection, what god could bring the other?; The destroyed city stays
+    unsettled: no one dwells there after; God guarantees seedtime and harvest, cold and heat, day and
+    night will not cease; On judgment day God asks ''Where are my partners for whom you contended?'';
+    God knows the secrets of the heart (ta''alumot lev); On judgment day a witness is brought from every
+    nation, and the Prophet as witness over them; God mocks: where are their gods who ate the fat of their
+    sacrifices? let them rise and help; The listeners walk among the dwellings of generations God destroyed,
+    a sign; At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped''.'
   basis: reading
 - text: 'A new exodus from the north; fishers and hunters: tagged by Claude (model), reading the Hebrew.'
   basis: reading

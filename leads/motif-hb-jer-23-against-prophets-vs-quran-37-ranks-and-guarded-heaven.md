@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Have you listened in the council (sod) of God, and limited wisdom
-    to yourself?'' (weight 6.3); God enthroned with the host of heaven standing at his right and left
-    deliberates (weight 5.8). Pair score 12.1.'
+    to yourself?'' (weight 7.3); God enthroned with the host of heaven standing at his right and left
+    deliberates (weight 6.2). Pair score 13.6.'
   basis: reading
 - text: 'Only in Concerning the prophets - who has stood in the council of YHWH?: The prophet''s heart
     is broken and all his bones shake; he is like a drunken man because of God''s holy words; The prophets
@@ -31,22 +31,23 @@ evidence:
     mourns and the heavens above grow dark because of God''s decree; God gives his people poisoned water
     (mei rosh) to drink and wormwood to eat; Prophets and priests heal the wound lightly, saying ''Peace,
     peace'' when there is no peace; Opponents nearly lure the prophet into inventing something else; God
-    makes him firm; The storm of YHWH''s fury goes out and whirls on the head of the wicked; in the latter
-    days you will understand it; The tree of Zaqqum grows from the bottom of hell; its spathes are like
-    the heads of devils; the damned fill their bellies and drink boiling water; God did not send the prophets
-    who promise peace; they prophesy a lying vision, divination and the deceit of their heart.'
+    makes him firm; The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of
+    devils; the damned fill their bellies and drink boiling water; God did not send the prophets who promise
+    peace; they prophesy a lying vision, divination and the deceit of their heart; The storm of YHWH''s
+    fury goes out and whirls on the head of the wicked; in the latter days you will understand it.'
   basis: reading
 - text: 'Only in The ranks, the guarded heaven and the shooting stars: ''This is the Day of Judgment (yawm
     al-din), the Day of Sorting (yawm al-fasl) which you denied''; Devils cannot listen to the Exalted
     Assembly (al-mala'' al-a''la); any who snatch a word are pursued by a piercing flame (shihab); Opening
     oath by those ranged in ranks, those who drive (or rebuke), and those who recite the reminder; The
-    satan or the devils are rebuked and driven off in the heavenly realm; Humans created from sticky clay
-    (tin lazib); Scoffers ridicule the claim that after being torn to pieces utterly they will be created
-    anew; A single cry or rebuke (zajra) and the dead stand looking; The lowest heaven is adorned with
-    stars as a guard against every rebellious devil; Whether the adversary, devils or deceiving spirits
-    have access to God''s council [contrast between the texts]; God called Lord of the east and the west,
-    or of the (many) easts and wests (sunrise and sunset points); First human shaped from dust, clay or
-    soil.'
+    satan or the devils are rebuked and driven off in the heavenly realm; The flash of a star falling
+    from heaven and its relation to demons [shared matter] [divergence between the texts]; Humans created
+    from sticky clay (tin lazib); Scoffers ridicule the claim that after being torn to pieces utterly
+    they will be created anew; A single cry or rebuke (zajra) and the dead stand looking; The lowest heaven
+    is adorned with stars as a guard against every rebellious devil; Whether the adversary, devils or
+    deceiving spirits have access to God''s council [contrast between the texts]; God called Lord of the
+    east and the west, or of the (many) easts and wests (sunrise and sunset points); First human shaped
+    from dust, clay or soil.'
   basis: reading
 - text: 'Concerning the prophets - who has stood in the council of YHWH?: tagged by Claude (model), reading
     the Hebrew.'

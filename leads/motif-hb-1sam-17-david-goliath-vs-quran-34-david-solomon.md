@@ -18,29 +18,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: David and the coat of mail [contrast between the texts] (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in David and Goliath: Champion curses his opponent by his gods and threatens to give his
-    flesh to birds and beasts; Challenge or trial lasting forty days; Giant champion challenges the enemy
-    army to single combat to decide the war; Youth refuses the king''s armor and goes with his own simple
-    weapons; Hero comes ''in the name of YHWH'', not with sword and spear; The king asks ''whose son is
-    this youth?'' about one already in his service; Eldest brother angrily scorns the youngest''s presumption;
-    Shepherd boy rescued his flock from a lion and a bear; Youth kills the giant with a sling-stone to
-    the forehead; Hero beheads the slain enemy with the enemy''s own sword; David kills the Philistine
-    giant [divergence between the texts]; God taught David the craft of making coats of mail [contrast
-    between the texts]; and 4 more.'
+- text: 'Only in David and Goliath: Challenge or trial lasting forty days; Youth refuses the king''s armor
+    and goes with his own simple weapons; Hero comes ''in the name of YHWH'', not with sword and spear;
+    The king asks ''whose son is this youth?'' about one already in his service; Eldest brother angrily
+    scorns the youngest''s presumption; Youth kills the giant with a sling-stone to the forehead; Hero
+    beheads the slain enemy with the enemy''s own sword; Champion curses his opponent by his gods and
+    threatens to give his flesh to birds and beasts; David kills the Philistine giant [divergence between
+    the texts]; God taught David the craft of making coats of mail [contrast between the texts]; Giant
+    champion challenges the enemy army to single combat to decide the war; Whoever slays the enemy champion
+    receives the king''s daughter and riches; and 4 more.'
   basis: reading
 - text: 'Only in David''s mountains and mail; Solomon''s wind, copper, jinn and staff: God made a spring
     of molten copper (or brass) flow for Solomon; The jinn did not know the unseen, else they would not
     have stayed in humiliating labor; Solomon dies leaning on his staff; only a creature of the earth
-    gnawing the staff reveals his death when he falls; How Solomon died and how his death became known
-    [divergence between the texts]; Rivers clap their hands and mountains sing together before YHWH; How
-    Solomon''s great bronze works were produced [divergence between the texts]; God taught David the craft
-    of making coats of mail; Who did Solomon''s building and craft work [divergence between the texts];
-    The stormy wind is subjected to Solomon, blowing at his command; A great cast-bronze ''sea'' basin
-    rests on twelve bronze oxen facing the four directions in threes; Mountains and birds are made to
-    glorify God together with David; Devils (shayāṭīn) and jinn labor for Solomon, diving and building;
-    and 1 more.'
+    gnawing the staff reveals his death when he falls; A superhuman craftsman casts metal vessels and
+    furniture for a lord [divergence between the texts]; A king covers a journey of many stages in a single
+    day [divergence between the texts]; How Solomon died and how his death became known [divergence between
+    the texts]; How Solomon''s great bronze works were produced [divergence between the texts]; God taught
+    David the craft of making coats of mail; Rivers clap their hands and mountains sing together before
+    YHWH; Who did Solomon''s building and craft work [divergence between the texts]; The stormy wind is
+    subjected to Solomon, blowing at his command; Mountains and birds are made to glorify God together
+    with David; and 3 more.'
   basis: reading
 - text: 'David and Goliath: tagged by Claude (model), reading the Hebrew.'
   basis: reading

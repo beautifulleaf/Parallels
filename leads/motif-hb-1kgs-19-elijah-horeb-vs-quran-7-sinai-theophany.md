@@ -19,20 +19,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A mountain is shattered when God passes by or manifests himself
-    [divergence between the texts] (weight 6.7); A prophet spends forty days and forty nights in a set
-    period (weight 5.8). Pair score 12.5.'
+    [divergence between the texts] (weight 7.7); A prophet spends forty days and forty nights in a set
+    period (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Elijah flees to Horeb; the still small voice: An angel touches the sleeping prophet twice
     and gives him a cake baked on hot stones and a jar of water; God passes by: a mountain-splitting wind,
     earthquake and fire, but God is not in them; On the strength of one meal the prophet walks forty days
-    and nights to the mountain of God; Worshipers kiss the image of the god; Despairing prophet sits and
-    sleeps under a broom tree in the wilderness; Queen swears by the gods to make the prophet''s life
-    like the slain prophets'' by this time tomorrow; God keeps a remnant of seven thousand whose knees
-    did not bow and lips did not kiss Baal; After the fire comes ''a sound of thin silence'' (qol demamah
-    daqqah); Whoever escapes the sword of the first avenger, the second will kill, and the third; God
-    twice asks the prophet ''What are you doing here?'' and he twice answers the same complaint; Prophet
-    claims ''I have been very zealous for YHWH... and I alone am left''; Exhausted leader asks God to
-    kill him; and 6 more.'
+    and nights to the mountain of God; Despairing prophet sits and sleeps under a broom tree in the wilderness;
+    Queen swears by the gods to make the prophet''s life like the slain prophets'' by this time tomorrow;
+    God keeps a remnant of seven thousand whose knees did not bow and lips did not kiss Baal; After the
+    fire comes ''a sound of thin silence'' (qol demamah daqqah); Whoever escapes the sword of the first
+    avenger, the second will kill, and the third; God twice asks the prophet ''What are you doing here?''
+    and he twice answers the same complaint; Prophet claims ''I have been very zealous for YHWH... and
+    I alone am left''; Exhausted leader asks God to kill him; Prophet lodges in ''the cave'' on Horeb,
+    the mountain of God; and 6 more.'
   basis: reading
 - text: 'Only in Forty nights, the request to see God and the tablets: When God manifests himself to the
     mountain it is crushed to dust; The prophet falls down unconscious at the theophany and repents on
@@ -43,7 +43,7 @@ evidence:
     between the texts]; Moses asks to see God, his glory or God himself [divergence between the texts];
     Moses'' set period on the mountain is forty (days and nights, or nights) [divergence between the texts];
     The prophet asks to see God''s glory; What happens after God refuses to be seen by Moses [divergence
-    between the texts]; God answers the prophet''s request to see him: ''You will not see me''; and 5
+    between the texts]; God answers the prophet''s request to see him: ''You will not see me''; and 8
     more.'
   basis: reading
 - text: 'Elijah flees to Horeb; the still small voice: tagged by Claude (model), reading the Hebrew.'

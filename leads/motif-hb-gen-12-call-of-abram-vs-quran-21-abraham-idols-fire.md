@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham and Lot are rescued to the land God blessed for all peoples
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The call of Abram and his journey through Canaan: God commands the hero to leave his
     land, kin and father''s house for a land he will be shown; Abraham withdraws from his people and their

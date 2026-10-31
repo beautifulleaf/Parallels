@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How spoil taken from the enemy is distributed [divergence between
-    the texts] (weight 6.7); Spoils divided half to warriors, half to community, with a levy for God (weight
-    6.3). Pair score 13.0.'
+    the texts] (weight 7.7); Spoils divided half to warriors, half to community, with a levy for God (weight
+    7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in War against Midian and division of the spoils: Five named kings slain together; Captured
     gold jewelry offered to atone for the soldiers'' lives; Leader given a final task to complete before
     he is ''gathered to his people''; Commanders report that not one man of the army is missing; Priest
-    accompanies the army with holy vessels and trumpets; Metal spoils purified by passing through fire,
-    others through water; Warriors and captives purified outside camp seven days after battle; Army of
-    a thousand from each tribe (12,000); How the people of Midian came to be destroyed [divergence between
-    the texts]; God punishes the enemy by the believers'' hands and heals the believers'' breasts; God
-    commands war of vengeance against a people; Foreign seer blamed for advising the seduction that led
+    accompanies the army with holy vessels and trumpets; Warriors and captives purified outside camp seven
+    days after battle; Army of a thousand from each tribe (12,000); How the people of Midian came to be
+    destroyed [divergence between the texts]; God punishes the enemy by the believers'' hands and heals
+    the believers'' breasts; God commands war of vengeance against a people; Metal spoils purified by
+    passing through fire, others through water; Foreign seer blamed for advising the seduction that led
     to apostasy; and 5 more.'
   basis: reading
 - text: 'Only in Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law
@@ -39,14 +39,15 @@ evidence:
     the unbelieving People of the Book (the Banu Nadir) from their homes at ''the first gathering'' (li-awwal
     al-hashr); Whatever palm trees (lina) you cut down or left standing on their roots was by God''s leave;
     Later believers pray: forgive us and our brethren who preceded us in faith, and put no rancor in our
-    hearts; Whether the enemy''s trees may be cut down in a siege [contrast between the texts]; Fay''
-    (booty gained without cavalry or camels) goes to God, the messenger, kin, orphans, the poor and the
-    wayfarer, so wealth does not circulate only among the rich; They thought their fortresses would protect
-    them from God, but God came from where they did not expect and cast terror into their hearts; The
-    poor emigrants and the hosts who prefer others over themselves even in need; whoever is saved from
-    his own greed succeeds; Cities ''great and fortified up to heaven''; Do not cut down fruit trees during
-    a siege: is the tree of the field a man?; Opening formula: whatever is in the heavens and the earth
-    glorifies God (sabbaha / yusabbihu lillah); and 1 more.'
+    hearts; Vines or palms of a hostile neighbour are cut down [divergence between the texts]; Whether
+    the enemy''s trees may be cut down in a siege [contrast between the texts]; Fay'' (booty gained without
+    cavalry or camels) goes to God, the messenger, kin, orphans, the poor and the wayfarer, so wealth
+    does not circulate only among the rich; They thought their fortresses would protect them from God,
+    but God came from where they did not expect and cast terror into their hearts; The wealth of a ruined
+    or expelled people passes to others who did not have it [divergence between the texts]; The poor emigrants
+    and the hosts who prefer others over themselves even in need; whoever is saved from his own greed
+    succeeds; What becomes of the spoil taken from the enemy: brought to the god or assigned to God [divergence
+    between the texts]; and 7 more.'
   basis: reading
 - text: 'War against Midian and division of the spoils: tagged by Claude (model), reading the Hebrew.'
   basis: reading

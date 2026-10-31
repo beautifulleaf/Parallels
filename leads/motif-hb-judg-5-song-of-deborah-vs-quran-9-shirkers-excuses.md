@@ -18,26 +18,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A poem lists the tribes, praising those who fought and shaming those
-    who stayed home (weight 6.3). Pair score 6.3.'
+    who stayed home (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The Song of Deborah: A woman is called ''most blessed of women''; An angel curses a town
     that did not come to YHWH''s help; The enemy''s mother waits at the window for her son who will not
     return; Those who love God are like the sun rising in its strength; A woman leader is called ''a mother
     in Israel''; Not a shield or spear to be seen among forty thousand in Israel; Nobles described as
-    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; Under oppression the highways
-    are deserted and travelers use byways; A woman leader sings the victory song; If you help God he will
-    help you and make your feet firm; The laggard thanks God he was absent when disaster struck, and wishes
-    he had shared the spoil; and 10 more.'
+    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; A woman leader sings the
+    victory song; If you help God he will help you and make your feet firm; The laggard thanks God he
+    was absent when disaster struck, and wishes he had shared the spoil; Asked for water, the woman gives
+    milk; and 10 more.'
   basis: reading
 - text: 'Only in The excuses of those who stayed behind: God pardons the prophet, asking why he gave the
     shirkers leave before the truthful were clear; Alms given grudgingly by unbelievers will not be accepted;
     Nothing will befall us except what God has written for us; Believers expect one of two good things,
     victory or martyrdom; Who is excused from going out to war [contrast between the texts]; Both evil
-    and good come from the mouth of the Most High; God uses the unbelievers'' wealth and children to punish
-    them in this life; The fearful are sent home before battle; Hypocrites swear excuses and ask permission
-    to stay behind from the campaign; People hide in caves, thickets, rocks and pits from an invading
-    army; The oppressed people hide in caves, dens and mountain strongholds; Prophet tells deniers ''Wait,
-    I too am waiting''.'
+    and good come from the mouth of the Most High; A follower''s loyalty depends on being rewarded; unrewarded,
+    he turns away; God uses the unbelievers'' wealth and children to punish them in this life; The fearful
+    are sent home before battle; Hypocrites swear excuses and ask permission to stay behind from the campaign;
+    People hide in caves, thickets, rocks and pits from an invading army; The oppressed people hide in
+    caves, dens and mountain strongholds; and 1 more.'
   basis: reading
 - text: 'The Song of Deborah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

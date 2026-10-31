@@ -18,21 +18,21 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Earlier messengers were given wives and offspring (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Earlier messengers were given wives and offspring (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Maher-shalal-hash-baz; waters of Shiloah; the stone of stumbling; ghosts that chirp:
     The land of Zebulun and Naphtali, ''Galilee of the nations'' by the way of the sea, first humbled
     and later glorified; The people reject the gently flowing waters of Shiloah, so God brings the mighty
     River (Assyria) to flood them up to the neck; Refrain ''Immanuel / for God is with us'' against plotting
-    nations; Invading empire likened to a river in flood that overflows its banks and sweeps over the
-    land; The prophet and the children God gave him are signs and portents in Israel; Prophet goes in
-    to ''the prophetess'' (his wife) who bears a sign-child; God becomes a sanctuary and a stone of stumbling
-    and rock of offense, a trap and snare to both houses of Israel; Bind up the testimony, seal the teaching
-    among my disciples; the prophet waits for the God who hides his face; Before a child knows to refuse
-    evil and choose good (or say ''father, mother'') the enemy kings'' lands will be deserted; Ghosts
-    and familiar spirits ''chirp and mutter''; ''should a people consult the dead on behalf of the living?'';
-    Prophet''s child bears a symbolic name that is itself an oracle (Shear-yashuv, Maher-shalal-hash-baz);
+    nations; The prophet and the children God gave him are signs and portents in Israel; Prophet goes
+    in to ''the prophetess'' (his wife) who bears a sign-child; God becomes a sanctuary and a stone of
+    stumbling and rock of offense, a trap and snare to both houses of Israel; Bind up the testimony, seal
+    the teaching among my disciples; the prophet waits for the God who hides his face; Before a child
+    knows to refuse evil and choose good (or say ''father, mother'') the enemy kings'' lands will be deserted;
+    Ghosts and familiar spirits ''chirp and mutter''; ''should a people consult the dead on behalf of
+    the living?''; Invading empire likened to a river in flood that overflows its banks and sweeps over
+    the land; Prophet''s child bears a symbolic name that is itself an oracle (Shear-yashuv, Maher-shalal-hash-baz);
     Prophet commanded to write the oracle on a tablet and in a book as a witness for the last day, forever;
     and 2 more.'
   basis: reading
@@ -47,7 +47,7 @@ evidence:
     God comes to the land, reducing it from its outlying parts; They plotted, and God plotted; God is
     the best of plotters; God erases what he wills and confirms, and with him is the Mother of the Book
     (umm al-kitab); Those with knowledge of the earlier Book are invoked as witnesses to the prophet''s
-    mission [divergence between the texts]; and 3 more.'
+    mission [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Maher-shalal-hash-baz; waters of Shiloah; the stone of stumbling; ghosts that chirp: tagged by
     Claude (model), reading the Hebrew.'

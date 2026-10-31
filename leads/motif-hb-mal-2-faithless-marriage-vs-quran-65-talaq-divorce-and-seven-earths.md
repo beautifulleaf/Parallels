@@ -20,16 +20,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Husband writes a bill of divorcement for ''some indecency'' and
-    sends her away [contrast between the texts] (weight 6.7); Husband writes a bill of divorcement for
-    ''some indecency'' and sends her away (weight 5.8). Pair score 12.5.'
+    sends her away [contrast between the texts] (weight 7.7); Husband writes a bill of divorcement for
+    ''some indecency'' and sends her away (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in One father, one God; foreign wives and the wife of one''s youth: The people cover God''s
     altar with tears, weeping and groaning because he no longer accepts their offering; ''I hate sending
-    away (divorce)'', says YHWH, and covering one''s garment with violence; God is witness between a man
-    and the wife of his youth, his companion and ''wife of your covenant''; One origin (one father, one
+    away (divorce)'', says YHWH, and covering one''s garment with violence; One origin (one father, one
     pair, one God) as ground for conduct toward others [divergence between the texts]; God''s attitude
     to divorce [contrast between the texts]; Whether separation of spouses is allowed or hated by God
-    [contrast between the texts]; ''Have we not all one father? Has not one God created us? Why do we
+    [contrast between the texts]; God is witness between a man and the wife of his youth, his companion
+    and ''wife of your covenant''; ''Have we not all one father? Has not one God created us? Why do we
     deal treacherously with one another?''; Marrying foreign women will lead the sons into idolatry.'
   basis: reading
 - text: 'Only in Al-Talaq: divorce and the waiting period, two witnesses, nursing wages, and the seven
@@ -40,11 +40,11 @@ evidence:
     God created seven heavens and of the earth the like of them, the command descending between them;
     Waiting period of three months for women past menses or not yet menstruating; for the pregnant, until
     delivery; Husband writes a bill of divorcement for ''some indecency'' and sends her away [divergence
-    between the texts]; At the end of the term, retain or part with them honorably, and call two just
-    witnesses [divergence between the texts]; The offering is reduced for those who cannot afford it;
-    God burdens no soul beyond its capacity; God brings believers out of darknesses into light; false
-    gods lead others from light into darkness; Heaven and the heaven of heavens belong to God; Roll call
-    of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned cities.'
+    between the texts]; What one gives is graded by one''s means: the rich much, the poor little; At the
+    end of the term, retain or part with them honorably, and call two just witnesses [divergence between
+    the texts]; The offering is reduced for those who cannot afford it; How many heavens there are [divergence
+    between the texts]; God burdens no soul beyond its capacity; God brings believers out of darknesses
+    into light; false gods lead others from light into darkness; and 2 more.'
   basis: reading
 - text: 'One father, one God; foreign wives and the wife of one''s youth: tagged by Claude (model), reading
     the Hebrew.'

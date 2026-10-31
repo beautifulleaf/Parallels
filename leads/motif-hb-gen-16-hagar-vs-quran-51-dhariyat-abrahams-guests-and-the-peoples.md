@@ -19,14 +19,14 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
-    5.2); The patriarch''s wife is barren (weight 5.2). Pair score 10.4.'
+    6.0); The patriarch''s wife is barren (weight 6.0). Pair score 12.1.'
   basis: reading
 - text: 'Only in Hagar and the birth of Ishmael: An angel meets the outcast woman by a spring or well
     in the wilderness; Woman names God El Roi, ''God who sees'', and the well Beer-lahai-roi; The pregnant
     slave-wife looks down on her barren mistress; A divine messenger announces a son''s birth and gives
-    his name [divergence between the texts]; Ishmael foretold to be a wild ass of a man, his hand against
-    all; Mistreated slave-woman flees or is sent into the wilderness; Barren wife gives her slave-girl
-    to her husband to bear children for her; A spring or stream appears for the mother; Descendants promised
+    his name [divergence between the texts]; Mistreated slave-woman flees or is sent into the wilderness;
+    Barren wife gives her slave-girl to her husband to bear children for her; Ishmael foretold to be a
+    wild ass of a man, his hand against all; A spring or stream appears for the mother; Descendants promised
     to be as countless as the dust, stars or sand.'
   basis: reading
 - text: 'Only in Abraham''s honored guests, the barren old wife striking her face, the stones of clay
@@ -37,10 +37,11 @@ evidence:
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
     old woman!''; Angels seize the hesitating family by the hand and lead them out; The answer given to
-    the old woman''s doubt [divergence between the texts]; Heavenly visitors eat a human meal; Host runs
-    to welcome strangers, washes their feet and feeds them [divergence between the texts]; How Abraham
-    learns of Sodom''s fate, and his response [divergence between the texts]; Who Abraham''s visitors
-    are [divergence between the texts]; and 18 more.'
+    the old woman''s doubt [divergence between the texts]; Supernatural envoys who come to seize or destroy
+    do not eat the food offered them [divergence between the texts]; Host runs to welcome strangers, washes
+    their feet and feeds them [divergence between the texts]; The host, seeing the divine visitor, has
+    his household prepare an animal from the herd (lamb, calf) for the guest; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; and 23 more.'
   basis: reading
 - text: 'Hagar and the birth of Ishmael: tagged by Claude (model), reading the Hebrew.'
   basis: reading

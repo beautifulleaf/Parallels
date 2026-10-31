@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: You will not attain righteousness until you spend from what you
-    love (weight 6.7). Pair score 6.7.'
+    love (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Satan incites the census; plague, the angel over Jerusalem and Ornan''s threshing floor:
     The angel of YHWH is seen standing between earth and heaven; At God''s command the destroying angel

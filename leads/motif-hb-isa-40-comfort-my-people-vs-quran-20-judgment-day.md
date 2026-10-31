@@ -13,38 +13,40 @@ traditions:
 layers:
 - motif
 motifs:
-- valleys-raised-mountains-leveled
 - valleys-raised-mountains-leveled-as-divergence
+- valleys-raised-mountains-leveled
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every valley lifted up, every mountain and hill made low, the crooked
-    made straight for God''s coming (weight 6.7); Every valley lifted up, every mountain and hill made
-    low, the crooked made straight for God''s coming [divergence between the texts] (weight 6.7). Pair
-    score 13.4.'
+    made straight for God''s coming [divergence between the texts] (weight 7.7); Every valley lifted up,
+    every mountain and hill made low, the crooked made straight for God''s coming (weight 7.1). Pair score
+    14.8.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
     God tends his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God
     brings out the starry host by number and calls each by name; none is missing; God sits enthroned above
-    the circle (hug) of the earth; its inhabitants are like grasshoppers; Those who wait for YHWH renew
-    strength, mount up with wings like eagles, run and not be weary; Nations are like a drop from a bucket
-    and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering; A voice
-    cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for our God'';
-    Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed the mountains
-    in scales?; God made everything grow in due weight and sends it down only in known measure; A double
-    portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole earth
-    is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret Tsiyyon)
-    goes up on a high mountain to announce ''Behold your God!''; and 17 more.'
+    the circle (hug) of the earth; its inhabitants are like grasshoppers; Nations are like a drop from
+    a bucket and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering;
+    A voice cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for
+    our God''; Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed
+    the mountains in scales?; God made everything grow in due weight and sends it down only in known measure;
+    A double portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole
+    earth is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret
+    Tsiyyon) goes up on a high mountain to announce ''Behold your God!''; Satire on the making of idols:
+    craftsman casts, goldsmith overlays, the poor choose wood that will not rot so the idol will not totter;
+    and 17 more.'
   basis: reading
 - text: 'Only in The trumpet, the leveled mountains and the hushed judgment: On the last day God scatters
     the mountains as dust and leaves a level, featureless plain; The guilty are gathered on that day blue-eyed
     or bleary (zurq); The prophet is told not to hasten with the recitation before its revelation is complete;
-    On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard; At the
-    resurrection people think they tarried only ten days, or a day, or part of a day; God the Ever-Living,
-    the Self-Subsisting (al-hayy al-qayyum); The revelation is sent down as an Arabic Quran; The trumpet
-    (ṣūr) is blown and the dead are gathered; Intercession avails only for whom God permits.'
+    The heights and the hollows will be levelled; No one encompasses or knows what the deity is; On the
+    day of judgment voices are hushed before the Merciful; only a faint murmur is heard; At the resurrection
+    people think they tarried only ten days, or a day, or part of a day; God the Ever-Living, the Self-Subsisting
+    (al-hayy al-qayyum); The revelation is sent down as an Arabic Quran; The trumpet (ṣūr) is blown and
+    the dead are gathered; Intercession avails only for whom God permits.'
   basis: reading
 - text: 'Comfort my people; a voice in the wilderness; to whom will you liken God: tagged by Claude (model),
     reading the Hebrew.'

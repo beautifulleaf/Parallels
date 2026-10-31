@@ -2,7 +2,7 @@
 id: motif-quran-7-adam-iblis-vs-quran-20-adam-iblis
 title: The prostration to Adam, Iblis' refusal and the fall ↔ Adam's forgetting, Iblis, the tree of immortality
   and the descent
-summary: 9 shared motifs, found by the separate reads; not yet compared side by side.
+summary: 10 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -13,24 +13,26 @@ layers:
 - motif
 motifs:
 - devil-whispers-temptation
-- enmity-serpent-and-woman-seed-as-divergence
 - serpent-tempter-as-divergence
 - enmity-serpent-and-woman-seed
+- enmity-serpent-and-woman-seed-as-divergence
 - fig-leaf-coverings
-- eyes-opened-nakedness-known
 - expulsion-from-paradise
+- counsel-about-the-food-of-immortality-as-divergence
 - serpent-tempter
+- eyes-opened-nakedness-known
 - garden-of-god-in-east
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Satan whispers (waswasa) to tempt humans (weight 6.7); Enmity between
-    the serpent''s seed and the woman''s seed: head bruised, heel struck [divergence between the texts]
-    (weight 6.3); A cunning serpent persuades the woman to eat the forbidden fruit [divergence between
-    the texts] (weight 6.3); Enmity between the serpent''s seed and the woman''s seed: head bruised, heel
-    struck (weight 6.3); Fig leaves sewn into coverings (weight 6.3); Eating opens their eyes and they
-    know they are naked (weight 6.3); First humans expelled from the garden (weight 6.0); A cunning serpent
-    persuades the woman to eat the forbidden fruit (weight 6.0); God plants a garden (Eden) in the east
-    and places the first human there (weight 5.6). Pair score 55.7.'
+- text: 'Shared motifs, rarest first: Satan whispers (waswasa) to tempt humans (weight 7.7); A cunning
+    serpent persuades the woman to eat the forbidden fruit [divergence between the texts] (weight 7.3);
+    Enmity between the serpent''s seed and the woman''s seed: head bruised, heel struck (weight 7.3);
+    Enmity between the serpent''s seed and the woman''s seed: head bruised, heel struck [divergence between
+    the texts] (weight 7.3); Fig leaves sewn into coverings (weight 7.3); First humans expelled from the
+    garden (weight 7.1); Before the offer of a food that gives (or is said to give) eternal life [divergence
+    between the texts] (weight 7.1); A cunning serpent persuades the woman to eat the forbidden fruit
+    (weight 6.8); Eating opens their eyes and they know they are naked (weight 6.6); God plants a garden
+    (Eden) in the east and places the first human there (weight 6.4). Pair score 71.0.'
   basis: reading
 - text: 'Only in The prostration to Adam, Iblis'' refusal and the fall: Man and wife are addressed, tempted
     and eat together; the woman is not singled out; The first humans are sent down to earth to live and
@@ -41,8 +43,8 @@ evidence:
     he is their sincere adviser; God vows to fill hell with the devil and all who follow him; God casts
     the proud being out from the mountain of God and destroys him from among the stones of fire, hurling
     him to earth before kings; How the first couple answer God after eating: shifting the blame or confessing
-    [divergence between the texts]; God gives the adversary (Satan) leave to act against humans; Sinner
-    hides from God, who calls ''Where are you?'' [divergence between the texts]; and 13 more.'
+    [divergence between the texts]; In the divine realm the human is given a garment to put on [divergence
+    between the texts]; God gives the adversary (Satan) leave to act against humans; and 15 more.'
   basis: reading
 - text: 'Only in Adam''s forgetting, Iblis, the tree of immortality and the descent: God made a covenant
     with Adam, but he forgot and lacked resolve; In the garden Adam will not hunger, be naked, thirst
@@ -53,9 +55,9 @@ evidence:
     from his Lord and God turns to him in forgiveness [divergence between the texts]; God commands the
     angels to prostrate to Adam; all do except Iblis, who refuses; Eating opens their eyes and they know
     they are naked [divergence between the texts]; In the garden Adam will not hunger, be naked, thirst
-    or suffer the sun''s heat [divergence between the texts]; The tempter offers ''the tree of immortality
-    and a kingdom that never decays'' [divergence between the texts]; A tree whose fruit gives eternal
-    life.'
+    or suffer the sun''s heat [divergence between the texts]; A human is given an instruction about what
+    not to eat and either holds fast to it or forgets it [divergence between the texts]; After the episode
+    of the forbidden or refused food; and 2 more.'
   basis: reading
 - text: 'The prostration to Adam, Iblis'' refusal and the fall: tagged by Claude (model), reading the
     Arabic.'
@@ -92,30 +94,6 @@ matches:
       lang: ar
       text: فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ
         وَمُلْكٍ لَّا يَبْلَىٰ
-- kind: shared
-  label: 'Enmity between the serpent''s seed and the woman''s seed: head bruised, heel struck'
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 7:24
-      lang: ar
-      text: قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ
-        إِلَىٰ حِينٍ
-    note: 'Gen: wə-ʾêvāh ʾāšît bênkhā û-vên hā-ʾiššāh û-vên zarʿăkhā û-vên zarʿāh, enmity set by God between
-      serpent and woman and their seed. Q: qāla hbiṭū baʿḍukum li-baʿḍin ʿaduwwun, plural, a mutual enmity
-      of those sent down (humans and Satan, 7:22 inna l-shayṭāna lakumā ʿaduww). There are no curses on
-      the woman (childbirth, 3:16) or the ground (3:17-19).'
-  - tradition: islam
-    passages:
-    - ref: Quran 20:123
-      lang: ar
-      text: قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى
-        هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
-    note: wəʾêbâ ʾāšît bênkā ûbên hāʾiššâ ûbên zarʿăkā ûbên zarʿāh ... wayəšalləḥēhû ... waygāreš ʾet-hāʾādām;
-      qāla hbiṭā minhā jamīʿan baʿḍukum li-baʿḍin ʿaduww. Enmity and expulsion. Gen's enmity is between
-      serpent and woman and their seed, and the way back is barred by cherubim. Q's enmity is among those
-      sent down, and Q adds a promise of guidance, fa-immā yaʾtiyannakum minnī hudan fa-mani ttabaʿa hudāya
-      fa-lā yaḍillu wa-lā yashqā.
 - kind: shared
   label: A cunning serpent persuades the woman to eat the forbidden fruit
   sides:
@@ -168,6 +146,30 @@ matches:
         هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
     note: '''some of you enemies to others'''
 - kind: shared
+  label: 'Enmity between the serpent''s seed and the woman''s seed: head bruised, heel struck'
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:24
+      lang: ar
+      text: قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ
+        إِلَىٰ حِينٍ
+    note: 'Gen: wə-ʾêvāh ʾāšît bênkhā û-vên hā-ʾiššāh û-vên zarʿăkhā û-vên zarʿāh, enmity set by God between
+      serpent and woman and their seed. Q: qāla hbiṭū baʿḍukum li-baʿḍin ʿaduwwun, plural, a mutual enmity
+      of those sent down (humans and Satan, 7:22 inna l-shayṭāna lakumā ʿaduww). There are no curses on
+      the woman (childbirth, 3:16) or the ground (3:17-19).'
+  - tradition: islam
+    passages:
+    - ref: Quran 20:123
+      lang: ar
+      text: قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى
+        هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
+    note: wəʾêbâ ʾāšît bênkā ûbên hāʾiššâ ûbên zarʿăkā ûbên zarʿāh ... wayəšalləḥēhû ... waygāreš ʾet-hāʾādām;
+      qāla hbiṭā minhā jamīʿan baʿḍukum li-baʿḍin ʿaduww. Enmity and expulsion. Gen's enmity is between
+      serpent and woman and their seed, and the way back is barred by cherubim. Q's enmity is among those
+      sent down, and Q adds a promise of guidance, fa-immā yaʾtiyannakum minnī hudan fa-mani ttabaʿa hudāya
+      fa-lā yaḍillu wa-lā yashqā.
+- kind: shared
   label: Fig leaves sewn into coverings
   sides:
   - tradition: islam
@@ -185,6 +187,72 @@ matches:
       text: فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ
         ٱلْجَنَّةِ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ
     note: leaves of the garden, species unnamed
+- kind: shared
+  label: First humans expelled from the garden
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:24
+      lang: ar
+      text: قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ
+        إِلَىٰ حِينٍ
+    note: ihbitu, plural
+  - tradition: islam
+    passages:
+    - ref: Quran 20:123
+      lang: ar
+      text: قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى
+        هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
+    note: '''go down from it, both of you'''
+- kind: shared
+  label: Before the offer of a food that gives (or is said to give) eternal life
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:20
+      lang: ar
+      text: فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا
+        وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ
+        تَكُونَا مِنَ ٱلْخَٰلِدِينَ
+    - ref: Quran 7:21
+      lang: ar
+      text: وَقَاسَمَهُمَآ إِنِّى لَكُمَا لَمِنَ ٱلنَّٰصِحِينَ
+    note: 'Both advisers present themselves as the trustworthy counsellor. Ea: ṭēma ša aškunūka lā temekki
+      ''do not neglect the instruction I give you'', ''food of death, do not eat''. Satan swears innī
+      lakumā la-mina n-nāṣiḥīn ''I am a sincere adviser to you'' and says the tree was forbidden only
+      lest they become angels or among al-khālidīn. The advice runs in opposite directions.'
+  - tradition: islam
+    passages:
+    - ref: Quran 20:120
+      lang: ar
+      text: فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ
+        وَمُلْكٍ لَّا يَبْلَىٰ
+    - ref: Quran 20:121
+      lang: ar
+      text: فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ
+        ٱلْجَنَّةِ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ
+    note: 'Ea calls the food Adapa will be offered ''food of death'' (akala ša mūti) and says lā takkal
+      ''do not eat''; Satan calls the forbidden tree shajarat al-khuld, ''the tree of immortality'', and
+      urges eating. Mirror image: in Adapa the life-giving food is misnamed as death by the friendly god;
+      in 20:120 the forbidden tree is misnamed as immortality by the enemy.'
+- kind: shared
+  label: A cunning serpent persuades the woman to eat the forbidden fruit
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:20
+      lang: ar
+      text: فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا
+        وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ
+        تَكُونَا مِنَ ٱلْخَٰلِدِينَ
+    note: the tempter is al-shaytan, no serpent
+  - tradition: islam
+    passages:
+    - ref: Quran 20:120
+      lang: ar
+      text: فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ
+        وَمُلْكٍ لَّا يَبْلَىٰ
+    note: the tempter is al-shayṭān, addressing Adam, not the woman
 - kind: shared
   label: Eating opens their eyes and they know they are naked
   sides:
@@ -207,41 +275,6 @@ matches:
       lang: ar
       text: فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ
         ٱلْجَنَّةِ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ
-- kind: shared
-  label: First humans expelled from the garden
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 7:24
-      lang: ar
-      text: قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ
-        إِلَىٰ حِينٍ
-    note: ihbitu, plural
-  - tradition: islam
-    passages:
-    - ref: Quran 20:123
-      lang: ar
-      text: قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى
-        هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ
-    note: '''go down from it, both of you'''
-- kind: shared
-  label: A cunning serpent persuades the woman to eat the forbidden fruit
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 7:20
-      lang: ar
-      text: فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا
-        وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ
-        تَكُونَا مِنَ ٱلْخَٰلِدِينَ
-    note: the tempter is al-shaytan, no serpent
-  - tradition: islam
-    passages:
-    - ref: Quran 20:120
-      lang: ar
-      text: فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلْ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلْخُلْدِ
-        وَمُلْكٍ لَّا يَبْلَىٰ
-    note: the tempter is al-shayṭān, addressing Adam, not the woman
 - kind: shared
   label: God plants a garden (Eden) in the east and places the first human there
   sides:

@@ -21,15 +21,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No two kinds of weights or measures; just weights for long life
-    (weight 6.3); Honest balances, weights, ephah and hin are commanded (weight 4.7). Pair score 11.0.'
+    (weight 6.5); Honest balances, weights, ephah and hin are commanded (weight 5.3). Pair score 11.8.'
   basis: reading
-- text: 'Only in Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: Do not muzzle the ox
-    while it threshes; Flogging limited to forty stripes so your brother is not degraded; Widow removes
-    the refusing brother-in-law''s sandal and spits in his face; Remember Amalek who attacked the stragglers;
-    blot out his memory; Woman who seizes a man''s genitals in a brawl has her hand cut off; How many
-    lashes a flogging may have [contrast between the texts]; What becomes of a dead man''s widow within
-    his family [contrast between the texts]; A man must marry his dead brother''s widow to raise seed
-    for the brother.'
+- text: 'Only in Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek: Flogging limited to
+    forty stripes so your brother is not degraded; Widow removes the refusing brother-in-law''s sandal
+    and spits in his face; Remember Amalek who attacked the stragglers; blot out his memory; Woman who
+    seizes a man''s genitals in a brawl has her hand cut off; Do not muzzle the ox while it threshes;
+    How many lashes a flogging may have [contrast between the texts]; What becomes of a dead man''s widow
+    within his family [contrast between the texts]; A man must marry his dead brother''s widow to raise
+    seed for the brother.'
   basis: reading
 - text: 'Only in Shuayb and the People of the Thicket; the day of the canopy: Unbelievers challenge the
     prophet to make pieces of the sky fall on them; The People of the Thicket are destroyed by the punishment

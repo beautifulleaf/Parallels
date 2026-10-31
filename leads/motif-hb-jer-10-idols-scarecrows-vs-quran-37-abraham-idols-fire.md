@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Idols like scarecrows in a cucumber field: Do not learn the way of the nations or be
     dismayed by the signs of the heavens, at which the nations are dismayed; Idols are like a scarecrow

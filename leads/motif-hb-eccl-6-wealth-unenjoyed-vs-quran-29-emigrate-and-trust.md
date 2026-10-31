@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: This life is fleeting; whether anything real follows it [divergence
-    between the texts] (weight 6.7); ''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility,
-    transience) (weight 5.3). Pair score 12.0.'
+    between the texts] (weight 7.7); ''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility,
+    transience) (weight 6.0). Pair score 13.8.'
   basis: reading
 - text: 'Only in Wealth unenjoyed, the stillborn better off, desire unfilled: Whatever has come to be
     has already been named; man cannot dispute with one stronger than he; All man''s toil is for his mouth,
@@ -33,15 +33,16 @@ evidence:
     womb or been a hidden stillborn; Human days on earth are a shadow.'
   basis: reading
 - text: 'Only in God''s earth is wide; every soul tastes death; signs and the secure sanctuary: God made
-    a secure sanctuary (haram amin) while people around are snatched away; Seafarers cry to God in a storm;
-    what they do once rescued [contrast between the texts]; Was not God''s earth wide enough for you to
-    emigrate (hijra) in it?; Seafarers cry to God in a storm; what they do once rescued [divergence between
-    the texts]; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved; The life
-    of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter is the true
-    life; Every soul shall taste death; God provides prey for the lion and food for the raven''s young
-    that cry to him; If asked who created heaven and earth and sends rain, the idolaters themselves answer
-    ''God''; Rain from the sky gives life to the earth after its death, a sign of resurrection; Paradise
-    as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever.'
+    a secure sanctuary (haram amin) while people around are snatched away; Life on earth is slight or
+    unreal set against the true life of the hereafter [divergence between the texts]; Seafarers cry to
+    God in a storm; what they do once rescued [contrast between the texts]; Was not God''s earth wide
+    enough for you to emigrate (hijra) in it?; Seafarers cry to God in a storm; what they do once rescued
+    [divergence between the texts]; Sailors in a storm call on God sincerely, vow thanks, and transgress
+    once saved; The life of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter
+    is the true life; God provides prey for the lion and food for the raven''s young that cry to him;
+    Every soul shall taste death; If asked who created heaven and earth and sends rain, the idolaters
+    themselves answer ''God''; Rain from the sky gives life to the earth after its death, a sign of resurrection;
+    Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever.'
   basis: reading
 - text: 'Wealth unenjoyed, the stillborn better off, desire unfilled: tagged by Claude (model), reading
     the Hebrew.'

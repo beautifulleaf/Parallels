@@ -18,11 +18,11 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Amassing war horses, and trust in God [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Psalm 20 - may YHWH answer you in the day of trouble: In the name of our God we raise
-    our banners; May the name of the God of Jacob set you on high; Congregation''s prayer for the king''s
-    victory and acceptance of his offerings; God answers the petitioner from his holy mountain or sanctuary;
+- text: 'Only in Psalm 20 - may YHWH answer you in the day of trouble: May the name of the God of Jacob
+    set you on high; Congregation''s prayer for the king''s victory and acceptance of his offerings; In
+    the name of our God we raise our banners; God answers the petitioner from his holy mountain or sanctuary;
     Some trust in chariots and some in horses, but we in the name of YHWH; The marker selah interrupts
     the psalm; Superscription ''for the leader/choirmaster'' (lamenatseah).'
   basis: reading
@@ -31,9 +31,11 @@ evidence:
     Prepare against the enemy whatever force and tethered war horses you can, to deter them; If a treaty
     partner is feared treacherous, throw the treaty back to them on equal terms; Peace offered or accepted
     in war, and its terms; Peace offered or accepted in war, and its terms [divergence between the texts];
-    Amassing war horses, and trust in God [contrast between the texts]; Most of the peoples were found
-    without fidelity to their covenant; The heedless are like cattle, or even more astray; Messengers
-    offer peace terms before battle.'
+    An enemy bound by oath breaks it, again and again, and scorns the religion or the gods'' words; The
+    vassal is said to have sinned again and again and to have utterly broken the sworn word; Amassing
+    war horses, and trust in God [contrast between the texts]; Most of the peoples were found without
+    fidelity to their covenant; The heedless are like cattle, or even more astray; Messengers offer peace
+    terms before battle.'
   basis: reading
 - text: 'Psalm 20 - may YHWH answer you in the day of trouble: tagged by Claude (model), reading the Hebrew.'
   basis: reading

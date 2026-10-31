@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Peace offered or accepted in war, and its terms [divergence between
-    the texts] (weight 6.7); Messengers offer peace terms before battle (weight 5.8). Pair score 12.5.'
+    the texts] (weight 7.7); Messengers offer peace terms before battle (weight 6.1). Pair score 13.9.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -37,9 +37,11 @@ evidence:
     wealth on earth could not have done; If the enemy inclines to peace, incline to it and trust God;
     Prepare against the enemy whatever force and tethered war horses you can, to deter them; If a treaty
     partner is feared treacherous, throw the treaty back to them on equal terms; Peace offered or accepted
-    in war, and its terms; Amassing war horses, and trust in God [divergence between the texts]; Amassing
-    war horses, and trust in God [contrast between the texts]; Most of the peoples were found without
-    fidelity to their covenant; The heedless are like cattle, or even more astray.'
+    in war, and its terms; Amassing war horses, and trust in God [divergence between the texts]; An enemy
+    bound by oath breaks it, again and again, and scorns the religion or the gods'' words; The vassal
+    is said to have sinned again and again and to have utterly broken the sworn word; Amassing war horses,
+    and trust in God [contrast between the texts]; Most of the peoples were found without fidelity to
+    their covenant; The heedless are like cattle, or even more astray.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

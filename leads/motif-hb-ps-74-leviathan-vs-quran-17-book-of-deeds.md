@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
-    (weight 4.7). Pair score 4.7.'
+    (weight 5.5). Pair score 5.5.'
   basis: reading
 - text: 'Only in Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan: Call ''Arise,
     O God, plead your own cause''; Prayer not to hand the soul of God''s turtledove to the wild beast;
-    God is king from of old (qedem), working salvation in the midst of the earth; God broke the heads
-    of the sea dragons (tanninim) on the waters; Enemies burn all the meeting places (mo''adei El) of
-    God in the land; God crushed the heads (plural) of Leviathan, the many-headed sea serpent; Complaint
-    that there are no signs and no prophet anymore, none who knows how long; God split or shattered the
-    sea (Yam) by his might; God split open springs and torrents and dried up ever-flowing rivers; God
-    fixed all the boundaries of the earth and formed summer and winter; The slain Leviathan is given as
-    food to the desert creatures or people; Enemies roar in the sanctuary, hack its carved work with axes
-    and burn it to the ground [divergence between the texts]; and 5 more.'
+    God is king from of old (qedem), working salvation in the midst of the earth; Enemies burn all the
+    meeting places (mo''adei El) of God in the land; Complaint that there are no signs and no prophet
+    anymore, none who knows how long; God split or shattered the sea (Yam) by his might; God split open
+    springs and torrents and dried up ever-flowing rivers; God broke the heads of the sea dragons (tanninim)
+    on the waters; God fixed all the boundaries of the earth and formed summer and winter; The slain Leviathan
+    is given as food to the desert creatures or people; Enemies roar in the sanctuary, hack its carved
+    work with axes and burn it to the ground [divergence between the texts]; God crushed the heads (plural)
+    of Leviathan, the many-headed sea serpent; and 5 more.'
   basis: reading
 - text: 'Only in The bird on the neck, the open book and individual responsibility (Surah 17:9-21): When
     God would destroy a town he commands its affluent ones; they transgress and it is destroyed; The hereafter
@@ -42,8 +42,9 @@ evidence:
     spread open, leaving nothing small or great unrecorded; On judgment day each receives a book of his
     deeds spread open, leaving nothing small or great unrecorded [divergence between the texts]; Night
     and day are two signs; the sign of night is effaced and that of day made bright for reckoning years;
-    The heavenly court sits in judgment and the books are opened; God does not punish a people before
-    sending a messenger, lest they plead they had none; Each person dies for his own sin.'
+    The heavenly court sits in judgment and the books are opened; Augury: a bird''s flight or alighting
+    is an omen bound to a person [divergence between the texts]; A written record (tablet [divergence
+    between the texts]; and 2 more.'
   basis: reading
 - text: 'Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan: tagged by Claude (model),
     reading the Hebrew.'

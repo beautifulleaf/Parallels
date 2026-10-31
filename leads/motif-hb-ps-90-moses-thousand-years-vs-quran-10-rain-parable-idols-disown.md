@@ -20,26 +20,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans are like grass that flourishes in the morning and withers
-    by evening (weight 5.6). Pair score 5.6.'
+    by evening (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Psalm 90, prayer of Moses; a thousand years as yesterday: Before the mountains were born
     and the earth was brought forth in labor, God existed from everlasting; God turns mortals back to
     dust (dakka), saying ''Return, sons of Adam''; The span of human life is seventy years, or eighty
     with strength; A psalm is ascribed to Moses, ''the man of God''; Prayer ''Teach us to number our days
-    that we may gain a heart of wisdom''; Human life is short and fleeting (heled, a handbreadth, grass,
-    a sigh); Human comes from dust and returns to dust [divergence between the texts]; A thousand years
-    in God''s sight are like yesterday when it passes, or a watch in the night [divergence between the
-    texts]; The resurrected feel they had stayed only an hour of a day; A thousand years in God''s sight
-    are like yesterday when it passes, or a watch in the night; Lament question ''How long, O God?'' /
-    ''Why have you rejected us forever?''; Human comes from dust and returns to dust.'
+    that we may gain a heart of wisdom''; Human comes from dust and returns to dust [divergence between
+    the texts]; A thousand years in God''s sight are like yesterday when it passes, or a watch in the
+    night [divergence between the texts]; The resurrected feel they had stayed only an hour of a day;
+    A thousand years in God''s sight are like yesterday when it passes, or a watch in the night; Human
+    life is short and fleeting (heled, a handbreadth, grass, a sigh); Human comes from dust and returns
+    to dust; Lament question ''How long, O God?'' / ''Why have you rejected us forever?''.'
   basis: reading
 - text: 'Only in Life like a crop, the abode of peace, darkened faces: The doers of good get the best
     reward ''and more'' (ziyada); Paradise as the abode of peace (dār al-salām); The faces of evildoers
-    are covered as with pieces of dark night; All flesh is grass and its loyalty like the flower of the
-    field; grass withers but the word of God stands forever; Parable: worldly life is like vegetation
-    fed by rain, adorned, then cut down overnight as if it never flourished; The destroyed are as if they
-    had never lived in their land; At judgment the associated ''partners'' disown their worshipers: ''it
-    was not us you worshiped''.'
+    are covered as with pieces of dark night; Parable: worldly life is like vegetation fed by rain, adorned,
+    then cut down overnight as if it never flourished; All flesh is grass and its loyalty like the flower
+    of the field; grass withers but the word of God stands forever; The destroyed are as if they had never
+    lived in their land; At judgment the associated ''partners'' disown their worshipers: ''it was not
+    us you worshiped''.'
   basis: reading
 - text: 'Psalm 90, prayer of Moses; a thousand years as yesterday: tagged by Claude (model), reading the
     Hebrew.'

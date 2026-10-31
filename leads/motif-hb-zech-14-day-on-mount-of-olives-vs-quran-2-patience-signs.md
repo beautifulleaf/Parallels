@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score
-    5.4.'
+- text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 6.5). Pair score
+    6.5.'
   basis: reading
 - text: 'Only in The final day on the Mount of Olives; living waters; Sukkot for the nations: A unique
     day known to YHWH, neither day nor night, without light, cold and frost; at evening there will be
@@ -38,14 +38,13 @@ evidence:
 - text: 'Only in Patience, Safa and Marwa, signs of creation: On seeing the punishment, those followed
     disown their followers, who wish for a return to disown them in turn; Safa and Marwa are among God''s
     waymarks; circuit between them permitted on pilgrimage; Formula of the afflicted: ''To God we belong
-    and to him we return''; ''YHWH gave and YHWH has taken; blessed be the name of YHWH''; Those slain
-    in God''s way are not dead but alive, provided for with their Lord; God''s test by loss of goods,
-    lives and children [divergence between the texts]; Those who conceal the revealed signs are cursed
-    by God and by all who curse; God''s covenant with Israel is as sure as the fixed order of sun, moon,
-    stars and sea; Ships go to and fro on the great sea; Catalogue of signs: heavens and earth, alternation
-    of night and day, ships, rain reviving dead earth, beasts, winds, clouds; Declaration that YHWH is
-    God and there is no other besides him; Rain from the sky gives life to the earth after its death,
-    a sign of resurrection.'
+    and to him we return''; In affliction the person declares ''I belong to (the god)''; ''If only (the
+    enemy / the wrongdoers) knew or saw'' the god''s strength (formula); ''YHWH gave and YHWH has taken;
+    blessed be the name of YHWH''; God''s test by loss of goods, lives and children [divergence between
+    the texts]; Those who conceal the revealed signs are cursed by God and by all who curse; God''s covenant
+    with Israel is as sure as the fixed order of sun, moon, stars and sea; Those slain in God''s way are
+    not dead but alive, provided for with their Lord; The dead are declared ''not dead, but alive'' [neutral]
+    [divergence between the texts]; Ships go to and fro on the great sea; and 3 more.'
   basis: reading
 - text: 'The final day on the Mount of Olives; living waters; Sukkot for the nations: tagged by Claude
     (model), reading the Hebrew.'

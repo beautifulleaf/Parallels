@@ -18,15 +18,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The city to which Jonah is sent believes and is spared [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jonah preaches and Nineveh repents down to its animals: By royal decree even the cattle
     and flocks fast, drink no water and are covered in sackcloth; A prophet announces: ''Forty more days
-    and the city will be overturned''; The king rises from his throne, removes his robe, covers himself
-    with sackcloth and sits in ashes; Nineveh is an exceedingly great city of three days'' walk; Each
+    and the city will be overturned''; Nineveh is an exceedingly great city of three days'' walk; Each
     is to turn from his evil way and from the violence (hamas) in his hands; God sees the people''s repentance
     and does not carry out the announced destruction; ''Who knows? God may turn and relent'' as a ground
     for repentance; A period of forty days; The city to which Jonah is sent believes and is spared; The
+    king rises from his throne, removes his robe, covers himself with sackcloth and sits in ashes; The
     word of God comes to the prophet a second time with the same commission; A whole foreign city believes
     the prophet''s warning, proclaims a fast and puts on sackcloth from greatest to least; Cities overturned
     (hafakh) and the plain destroyed; and 1 more.'
@@ -35,13 +35,13 @@ evidence:
     while he is sick; Jonah ran away (abaqa, as a runaway slave) to the laden ship; Had Jonah not been
     among those who glorify God he would have stayed in the fish''s belly until the Day of Resurrection;
     Jonah is sent to a hundred thousand or more; they believe and are granted enjoyment for a while; The
-    hearers pass by the ruins of Lot''s people morning and night; Nineveh has more than 120,000 people
-    who do not know their right hand from their left; The fate of Lot''s wife [divergence between the
-    texts]; Jonah flees by ship [divergence between the texts]; Sailors cast lots to learn on whose account
-    the disaster has come, and the lot falls on the prophet; Sailors cast lots to learn on whose account
-    the disaster has come, and the lot falls on the prophet [divergence between the texts]; God makes
-    a plant (qiqayon, gourd or castor) grow overnight to shade the prophet; God makes a plant (qiqayon,
-    gourd or castor) grow overnight to shade the prophet [divergence between the texts]; and 7 more.'
+    hearers pass by the ruins of Lot''s people morning and night; A man cast up on land from the sea lies
+    under a tree [neutral]; Nineveh has more than 120,000 people who do not know their right hand from
+    their left; Divination or lots decide against a particular man at a ship''s sailing [divergence between
+    the texts]; The fate of Lot''s wife [divergence between the texts]; Jonah flees by ship [divergence
+    between the texts]; Sailors cast lots to learn on whose account the disaster has come, and the lot
+    falls on the prophet; Sailors cast lots to learn on whose account the disaster has come, and the lot
+    falls on the prophet [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Jonah preaches and Nineveh repents down to its animals: tagged by Claude (model), reading the
     Hebrew.'

@@ -18,11 +18,11 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The family of Amram / Imran and Miriam / Maryam [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Census of the second generation on the plains of Moab: A second census counts the new
-    generation by clans; The sons of the rebel did not die with him; Land divided by lot and in proportion
-    to tribal size; Mother of Moses, Aaron and Miriam named (Jochebed, born to Levi in Egypt); Miriam
+    generation by clans; Land divided by lot and in proportion to tribal size; Mother of Moses, Aaron
+    and Miriam named (Jochebed, born to Levi in Egypt); The sons of the rebel did not die with him; Miriam
     / Maryam named as the daughter of Amram / ʿImran; Priests die for offering ''strange fire''; Daughters
     petition and win the right to inherit when there is no son; Whole adult generation condemned to die
     in the desert; only children enter; A lone daughter is named in a male genealogy (Dinah, Serah); The
@@ -37,8 +37,8 @@ evidence:
     by gestures; Zechariah is made Mary''s guardian; Prophet promises a childless woman with an old husband
     a son ''at this season next year''; God chose Adam, Noah, the family of Abraham and the family of
     Imran over the worlds; Doubt voiced at the promise of a son in old age [divergence between the texts];
-    Mother vows her (unborn) child to God''s service [divergence between the texts]; Muteness imposed
-    as a sign [divergence between the texts]; and 13 more.'
+    A mother commits her child to her god''s keeping, against sin or against the evil one; Mother vows
+    her (unborn) child to God''s service [divergence between the texts]; and 16 more.'
   basis: reading
 - text: 'Census of the second generation on the plains of Moab: tagged by Claude (model), reading the
     Hebrew.'

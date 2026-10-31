@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Kings bound with chains and nobles with fetters of iron to execute
-    ''the judgment written'' (weight 6.7). Pair score 6.7.'
+    ''the judgment written'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 149, new song, dance, and the sword of the faithful: The faithful exult in glory
     and sing for joy on their beds; The faithful have God''s praises in their throats and a two-edged
@@ -36,9 +36,10 @@ evidence:
     seized him by the right hand and cut his aorta (watin); ''I swear by what you see and what you do
     not see''; ''Seize him, fetter him, roast him in hellfire, then thread him on a chain seventy cubits
     long''; ''This is the certain truth'' (haqq al-yaqin); Reclining on couches lined with brocade, with
-    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; God
-    keeps a book in which names are written and from which sinners are blotted [divergence between the
-    texts]; It is the word of a noble messenger, not the word of a poet or soothsayer; and 5 more.'
+    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; An offence
+    concerning food is repaid with foul food and drink [divergence between the texts]; God keeps a book
+    in which names are written and from which sinners are blotted [divergence between the texts]; and
+    8 more.'
   basis: reading
 - text: 'Psalm 149, new song, dance, and the sword of the faithful: tagged by Claude (model), reading
     the Hebrew.'

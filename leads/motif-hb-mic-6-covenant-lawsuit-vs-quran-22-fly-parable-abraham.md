@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God requires: to do justice, love hesed and walk humbly with
-    your God (weight 6.0). Pair score 6.0.'
+    your God (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in YHWH''s lawsuit with his people; what YHWH requires: Remember what Balak king of Moab
     plotted and how Balaam son of Beor answered him; God sent Moses, Aaron and Miriam before the people
     (Miriam named as a leader); God''s plea: ''My people, what have I done to you? How have I wearied
     you? Answer me''; Shall I give my firstborn for my transgression? Thousands of rams and rivers of
     oil do not please God; God offered the Trust (amana) to the heavens, earth and mountains; they refused
-    and feared it, but man bore it, unjust and ignorant; God desires a broken spirit, thanksgiving or
-    obedience rather than animal sacrifice; God summons heaven and earth to the judgment of his people
-    in a covenant lawsuit.'
+    and feared it, but man bore it, unjust and ignorant; God summons heaven and earth to the judgment
+    of his people in a covenant lawsuit; God desires a broken spirit, thanksgiving or obedience rather
+    than animal sacrifice.'
   basis: reading
 - text: 'Only in The parable of the fly; messengers from angels and men; the religion of Abraham: Parable:
     those invoked besides God could not create a fly even together, nor recover what a fly snatches from

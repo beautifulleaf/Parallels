@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
-    are blotted (weight 4.6). Pair score 4.5.'
+    are blotted (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition

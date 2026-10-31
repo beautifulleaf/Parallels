@@ -18,24 +18,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one put to death on the testimony of a single witness (weight
-    5.4). Pair score 5.4.'
+    6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Levitical cities, cities of refuge and the law of homicide: Murder distinguished from
     manslaughter by weapon (iron, stone, wood), enmity and intent; Manslayer may leave refuge only at
     the death of the high priest; Shed blood pollutes the land and only the killer''s blood atones for
     it; Forty-eight cities with pasture-lands of measured cubits assigned to the Levites; No ransom (kofer)
     may be taken for a murderer''s life; How many witnesses a charge requires [divergence between the
-    texts]; A place of refuge for one who kills unintentionally [divergence between the texts]; The ''redeemer
-    of blood'' (go''el ha-dam) kills the murderer; Same law for the resident alien and the native; Whether
-    payment may substitute for a life [contrast between the texts]; Six cities of refuge for the unintentional
-    killer, three on each side of the Jordan.'
+    texts]; A place of refuge for one who kills unintentionally [divergence between the texts]; Same law
+    for the resident alien and the native; Whether payment may substitute for a life [contrast between
+    the texts]; Six cities of refuge for the unintentional killer, three on each side of the Jordan; The
+    ''redeemer of blood'' (go''el ha-dam) kills the murderer.'
   basis: reading
 - text: 'Only in The debt verse: A debt for a fixed term must be written by a just scribe, dictated by
     the debtor or his guardian; Two male witnesses, or one man and two women so that if one errs the other
-    reminds her; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; A land deed
-    made in a sealed copy and an open copy, witnessed and the silver weighed; A witness who hears a public
-    adjuration and withholds testimony bears guilt; How many witnesses are required [divergence between
-    the texts].'
+    reminds her; On a journey without a scribe a pledge in hand (rihan maqbuda) is taken; The scribe who
+    writes a debt or account must not cheat with his pen; he writes with justice; A land deed made in
+    a sealed copy and an open copy, witnessed and the silver weighed; A transfer of goods (gift, sale,
+    debt) is to be written down and witnessed; Knowing the matter and not speaking: withholding testimony
+    as a sin; A witness who hears a public adjuration and withholds testimony bears guilt; How many witnesses
+    are required [divergence between the texts].'
   basis: reading
 - text: 'Levitical cities, cities of refuge and the law of homicide: tagged by Claude (model), reading
     the Hebrew.'

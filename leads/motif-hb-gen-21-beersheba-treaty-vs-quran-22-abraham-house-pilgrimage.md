@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God settled Abraham at the site of the House and told him to purify
-    it for those who circle, stand, bow and prostrate (weight 6.7). Pair score 6.7.'
+    it for those who circle, stand, bow and prostrate (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Abraham''s treaty with Abimelech at Beersheba: Patriarch plants a tamarisk and calls
     on El Olam, the Everlasting God; Seven ewe lambs given as witness to a well-ownership oath (Beersheba);
@@ -36,8 +36,9 @@ evidence:
     sin and well-being offerings with unleavened bread when his term ends; Eat of the sacrificial animals
     and feed the wretched poor and the needy; God appointed for every community a rite of sacrifice (mansak);
     What is done with the blood of sacrifices, and whether it reaches God [divergence between the texts];
-    A place recognized as the house of God and gate of heaven; Who chose or founded the single sanctuary
-    of sacrifice, and when [divergence between the texts]; and 6 more.'
+    Whether the deity eats (receives) the food and drink of the offerings [divergence between the texts];
+    The deity shows or assigns to the builder the site (old foundation) of the deity''s house; and 15
+    more.'
   basis: reading
 - text: 'Abraham''s treaty with Abimelech at Beersheba: tagged by Claude (model), reading the Hebrew.'
   basis: reading

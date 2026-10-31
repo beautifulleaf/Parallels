@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- everything-that-breathes-praise
 - everything-that-breathes-praise-as-divergence
+- everything-that-breathes-praise
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: ''Let everything that has breath (neshamah) praise Yah'' (weight
-    6.7); ''Let everything that has breath (neshamah) praise Yah'' [divergence between the texts] (weight
-    6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: ''Let everything that has breath (neshamah) praise Yah'' [divergence
+    between the texts] (weight 7.7); ''Let everything that has breath (neshamah) praise Yah'' (weight
+    7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Psalm 150, everything that breathes, praise Yah: Catalogue of instruments for praise:
     shofar, harp, lyre, timbrel, dance, strings, pipe (ugav), sounding and clashing cymbals; God praised
@@ -39,9 +39,10 @@ evidence:
     would seek a way to the Lord of the Throne; Opponents say the believers follow only a bewitched man
     (rajul mashur); Satan stirs up enmity (nazagha) between brothers or among people; Thamud''s most wretched
     one rises; the messenger warns ''God''s she-camel and her drinking''; they hamstring her and God crushes
-    them; The seven heavens, the earth and everything in them glorify God, though humans do not understand
-    their praise; God ranked some messengers above others; to some God spoke; God gave David the Psalms
-    (Zabur); and 5 more.'
+    them; Heaven, earth and inanimate things have a speech that humans do not understand [divergence between
+    the texts]; The seven heavens, the earth and everything in them glorify God, though humans do not
+    understand their praise; Rhetorical question: who besides (among the gods) can remove the sickness
+    / the harm? None can; and 7 more.'
   basis: reading
 - text: 'Psalm 150, everything that breathes, praise Yah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

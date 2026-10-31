@@ -17,8 +17,8 @@ motifs:
 - hero-beautiful
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Women dazzled by the hero cut their hands (weight 6.3); Hero''s
-    beauty is remarked on (weight 4.9). Pair score 11.2.'
+- text: 'Shared motifs, rarest first: Women dazzled by the hero cut their hands (weight 7.3); Hero''s
+    beauty is remarked on (weight 5.5). Pair score 12.9.'
   basis: reading
 - text: 'Joseph in the Quran (Surah 12): tagged by Claude (model), reading the Arabic.'
   basis: reading

@@ -19,27 +19,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham disputes with a king, who claims ''I give life and death''
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn): The
-    proud one plans to ascend to heaven, raise his throne above the stars of El and make himself like
-    Elyon; Reversal: Israel will take captive those who captured them and rule over their oppressors;
-    The would-be god is brought down instead to Sheol, to the recesses of the pit (yarkete bor); Strangers
-    (gerim) will join themselves to Israel and cleave to the house of Jacob; ''How you have fallen from
-    heaven, Helel son of Shahar (Shining One, son of Dawn)!'' - a star-figure cast down to earth; In the
-    underworld maggots are spread beneath the dead king and worms are his covering; The mount of assembly
-    (har mo''ed) in the recesses of the north (yarkete tsafon), seat of the gods; God cuts off from the
-    enemy ''name and remnant, offspring and posterity''; Sheol below is stirred to meet the arriving tyrant;
-    the shades and dead kings rise from their thrones to greet him: ''you too have become weak like us'';
-    God sweeps the city with the broom of destruction, leaving it to hedgehogs and marshes; Mocking dirge
-    (mashal) over a fallen tyrant: ''How the oppressor has ceased!''; The cypresses and cedars of Lebanon
-    rejoice that no woodcutter comes up since the tyrant fell; and 8 more.'
+- text: 'Only in Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn): Reversal:
+    Israel will take captive those who captured them and rule over their oppressors; The would-be god
+    is brought down instead to Sheol, to the recesses of the pit (yarkete bor); Strangers (gerim) will
+    join themselves to Israel and cleave to the house of Jacob; ''How you have fallen from heaven, Helel
+    son of Shahar (Shining One, son of Dawn)!'' - a star-figure cast down to earth; In the underworld
+    maggots are spread beneath the dead king and worms are his covering; God cuts off from the enemy ''name
+    and remnant, offspring and posterity''; God sweeps the city with the broom of destruction, leaving
+    it to hedgehogs and marshes; Mocking dirge (mashal) over a fallen tyrant: ''How the oppressor has
+    ceased!''; The cypresses and cedars of Lebanon rejoice that no woodcutter comes up since the tyrant
+    fell; Entering hell, a crowd is greeted by those already there with ''No welcome to them!'' and they
+    retort in kind; The damned man is taunted: ''Taste! You are the mighty, the noble!''; The fallen king
+    is cast out of his grave like a loathed branch, unburied among the slain, while other kings lie in
+    honor; and 8 more.'
   basis: reading
 - text: 'Only in Abraham disputes with the king: Abraham challenges the king: God brings the sun from
-    the east, so bring it from the west; the king is confounded; Nations and kings of the earth conspire
-    against YHWH and his anointed (mashiah); Who has power to give life and death [contrast between the
-    texts]; Who has power to give life and death [divergence between the texts]; I kill and I make alive,
-    I wound and I heal; there is no god beside me.'
+    the east, so bring it from the west; the king is confounded; The rising of the sun is tied to a king,
+    in speech addressed to him [neutral] [divergence between the texts]; A king is asked to give life,
+    or claims to give life; Nations and kings of the earth conspire against YHWH and his anointed (mashiah);
+    Who has power to give life and death [contrast between the texts]; Who has power to give life and
+    death [divergence between the texts]; A ruler holds the power to kill and to keep alive, and to bring
+    down the strong and raise the low [divergence between the texts]; Who rules or commands the rising
+    and the setting of the sun, in speech about a king [divergence between the texts]; Who is said to
+    give life and cause death, in speech to or about a king [neutral] [divergence between the texts];
+    I kill and I make alive, I wound and I heal; there is no god beside me.'
   basis: reading
 - text: 'Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn): tagged by Claude
     (model), reading the Hebrew.'

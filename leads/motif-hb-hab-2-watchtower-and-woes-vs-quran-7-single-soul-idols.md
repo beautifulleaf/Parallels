@@ -20,30 +20,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to the one who says to wood ''Awake!'' and to dumb stone ''Arise!'';
-    there is no breath in it (weight 6.7); Idols of wood and stone that cannot see, hear, eat or smell
-    (weight 5.0). Pair score 11.7.'
+    there is no breath in it (weight 7.7); Idols of wood and stone that cannot see, hear, eat or smell
+    (weight 6.0). Pair score 13.8.'
   basis: reading
-- text: 'Only in The vision on tablets; the righteous live by faith; five woes: The arrogant man''s appetite
-    is wide as Sheol and like Death never satisfied, gathering all nations; Woe to one who makes his neighbor
-    drunk in order to gaze on his nakedness; The prophet stations himself on his watchpost to see what
-    God will answer to his complaint; ''The righteous shall live by his faith (emunah)''; A series of
-    ''woe'' (hoy) taunt-sayings against an oppressor; The stone cries out from the wall and the beam answers
-    from the woodwork; The vision is for an appointed time; though it tarry, wait for it, for it will
-    surely come; Write the vision plainly on tablets so that a runner may read it; The earth will be full
-    of the knowledge of YHWH as the waters cover the sea; Peoples labor only for fire and nations weary
-    themselves for nothing; ''Hush (has) before YHWH, all the earth'', for he is in his holy temple or
-    has roused himself; God asks Gehenna ''Are you full?'' and it answers ''Are there any more?''; and
-    6 more.'
+- text: 'Only in The vision on tablets; the righteous live by faith; five woes: Woe to one who makes his
+    neighbor drunk in order to gaze on his nakedness; The prophet stations himself on his watchpost to
+    see what God will answer to his complaint; ''The righteous shall live by his faith (emunah)''; A series
+    of ''woe'' (hoy) taunt-sayings against an oppressor; The stone cries out from the wall and the beam
+    answers from the woodwork; The vision is for an appointed time; though it tarry, wait for it, for
+    it will surely come; Write the vision plainly on tablets so that a runner may read it; The earth will
+    be full of the knowledge of YHWH as the waters cover the sea; The arrogant man''s appetite is wide
+    as Sheol and like Death never satisfied, gathering all nations; Peoples labor only for fire and nations
+    weary themselves for nothing; ''Hush (has) before YHWH, all the earth'', for he is in his holy temple
+    or has roused himself; God asks Gehenna ''Are you full?'' and it answers ''Are there any more?'';
+    and 6 more.'
   basis: reading
 - text: 'Only in The single soul, the couple''s vow, and powerless idols: A couple vow thanks for a sound
     child, then ascribe partners to God in what he gave; Those you call on besides God are servants like
     yourselves; How the first human''s mate is made from the first human [divergence between the texts];
     Parents'' words to God about the child he gave them [divergence between the texts]; Taunt: do the
     idols have feet to walk, hands to grasp, eyes to see, ears to hear?; Likeness between the idols and
-    those who call on them [divergence between the texts]; Prophet challenges the idolaters to call their
-    partners and plot against him without delay; First woman made from the man''s rib or side while he
-    sleeps; Humankind is created from a single soul, from which its mate was made to dwell with it; The
-    made idol cannot move from its place, speak or answer and save those who cry to it.'
+    those who call on them [divergence between the texts]; How God made the human mate, and for what purpose;
+    Prophet challenges the idolaters to call their partners and plot against him without delay; Having
+    eyes that do not see and ears that do not hear, said of idols or of people; First woman made from
+    the man''s rib or side while he sleeps; Humankind is created from a single soul, from which its mate
+    was made to dwell with it; The made idol cannot move from its place, speak or answer and save those
+    who cry to it.'
   basis: reading
 - text: 'The vision on tablets; the righteous live by faith; five woes: tagged by Claude (model), reading
     the Hebrew.'

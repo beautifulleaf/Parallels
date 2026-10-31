@@ -19,12 +19,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humanity created from a male and a female and made into peoples
-    (shu''ub) and tribes to know one another; the noblest is the most pious (weight 6.7). Pair score 6.7.'
+    (shu''ub) and tribes to know one another; the noblest is the most pious (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Table of Nations: First kingdom founded in Babel and Shinar; Founding of Nineveh
     and the Assyrian cities; The world''s nations number about seventy; All nations listed as descendants
-    of the three sons of the flood hero; In the days of Peleg the earth was divided; Nations distinguished
-    by land, language and clan; Nimrod, first mighty man, a mighty hunter before the LORD; Philistines
+    of the three sons of the flood hero; In the days of Peleg the earth was divided; Nimrod, first mighty
+    man, a mighty hunter before the LORD; Nations distinguished by land, language and clan; Philistines
     derived from Casluhim/Caphtorim (Crete).'
   basis: reading
 - text: 'Only in Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and
@@ -36,11 +36,11 @@ evidence:
     rather say ''we have submitted (aslamna)'', for faith has not yet entered your hearts; The believers
     are nothing but brothers, so make peace between your brothers; One origin (one father, one pair, one
     God) as ground for conduct toward others [divergence between the texts]; Believers must not put themselves
-    before God and his messenger, nor raise their voices above the prophet''s or shout to him; ''Have
-    we not all one father? Has not one God created us? Why do we deal treacherously with one another?'';
-    Slander or gossip pictured as eating [divergence between the texts]; If a corrupt person brings you
-    news, verify it lest you harm a people in ignorance and come to regret it; Avoid suspicion, spying
-    and backbiting: would one of you like to eat the flesh of his dead brother?; and 4 more.'
+    before God and his messenger, nor raise their voices above the prophet''s or shout to him; Denial
+    / prohibition of eavesdropping or spying on others; ''Have we not all one father? Has not one God
+    created us? Why do we deal treacherously with one another?''; Slander or backbiting is pictured as
+    eating the slandered person''s flesh; Slander or gossip pictured as eating [divergence between the
+    texts]; and 12 more.'
   basis: reading
 - text: 'The Table of Nations: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer to be guided on the straight path (al-sirat al-mustaqim)
-    (weight 5.8). Pair score 5.8.'
+    (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 27 - YHWH is my light; one thing I ask: Though my father and mother forsake me,
     YHWH will take me in; One thing I ask: to dwell in the house of YHWH all my days and behold his beauty;

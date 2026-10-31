@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gave Moses the Book as guidance for the Children of Israel (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -40,11 +40,10 @@ evidence:
     they may return; The angel of death (malak al-mawt), put in charge of humans, takes their souls; The
     guilty, heads bowed before their Lord, beg to be returned to do good; God''s word: ''I will fill hell
     with jinn and humans all together''; No soul knows what delight of the eyes is hidden in store for
-    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; What God
-    did when the six days of creation were done [divergence between the texts]; God began man''s creation
-    from clay, then made his progeny from an extract of a despised fluid, then shaped him and breathed
-    of his spirit; God made leaders (a''imma) among the Israelites who guided by his command because they
-    were patient; and 10 more.'
+    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; Man described
+    by the lowly bodily substance he is made of [shared matter] [divergence between the texts]; What goes
+    into the place below cannot come out again [divergence between the texts]; Whether one who has stood
+    before the judge of the dead is sent back to the living [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

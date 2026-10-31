@@ -21,22 +21,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God says he is sated with sacrifices and hates festivals and new
-    moons offered by those whose hands are full of blood (weight 6.3); The deniers do not honor the orphan,
-    push him away, and do not urge the feeding of the poor (weight 5.8). Pair score 12.1.'
+    moons offered by those whose hands are full of blood (weight 7.1); The deniers do not honor the orphan,
+    push him away, and do not urge the feeding of the poor (weight 6.8). Pair score 13.9.'
   basis: reading
 - text: 'Only in Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: City or
     people given a new name in the future age (e.g. ''City of Righteousness'', ''Hephzibah''); The faithful
     city has become a harlot; silver turned to dross, wine diluted with water; Worshippers shamed by the
-    sacred oaks (elim) and gardens they chose; God will smelt away the dross of his people as in a furnace
-    to purify them; Daughter Zion left alone like a booth in a vineyard, a hut in a cucumber field, a
-    besieged city; Nation pictured as a body beaten from sole of foot to head, with untended wounds and
-    sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey at the end; Israel likened
-    to a donkey that knows, or does not understand, what it has [divergence between the texts]; Prophet
-    addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; In Lot''s town only one house of
-    submitters (muslimin) was found, and the believers were brought out; Ox knows its owner and the ass
-    its master''s crib, but Israel does not know (animals wiser than God''s people); Book or oracle opens
-    with a heading naming the prophet, his father and the kings in whose days he saw the vision; and 11
-    more.'
+    sacred oaks (elim) and gardens they chose; Daughter Zion left alone like a booth in a vineyard, a
+    hut in a cucumber field, a besieged city; Nation pictured as a body beaten from sole of foot to head,
+    with untended wounds and sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey
+    at the end; Israel likened to a donkey that knows, or does not understand, what it has [divergence
+    between the texts]; Prophet addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; In
+    Lot''s town only one house of submitters (muslimin) was found, and the believers were brought out;
+    Book or oracle opens with a heading naming the prophet, his father and the kings in whose days he
+    saw the vision; God''s people as sons he reared who rebelled against him; Though sins be like scarlet
+    they shall be white as snow; though red as crimson, like wool; and 11 more.'
   basis: reading
 - text: 'Only in Quraysh, small kindnesses and al-Kawthar: The one who hates the prophet is the one cut
     off (al-abtar, without posterity); Woe to those who pray but are heedless of their prayer, make a

@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A nation descended from Ishmael [divergence between the texts] (weight
-    6.7); Whether and how God''s covenant with Abraham passes to his offspring [contrast between the texts]
-    (weight 6.7). Pair score 13.4.'
+    7.7); Whether and how God''s covenant with Abraham passes to his offspring [contrast between the texts]
+    (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in El Shaddai, new names and the covenant of circumcision: Ishmael circumcised at thirteen,
     Abraham at ninety-nine; Uncircumcised male is cut off from his people; Circumcision commanded as the
     sign of the covenant; Circumcision on the eighth day after birth; Ishmael promised to father twelve
-    princes and a great nation; Kings promised to come from the patriarch or matriarch; God changes a
-    person''s name to mark a new destiny; God promises to make the patriarch a great nation; God reveals
-    himself by the name El Shaddai; Patriarch or matriarch laughs at the promise of a child in old age;
-    God promises the land to the patriarch''s descendants; A divine messenger announces a son''s birth
-    and gives his name.'
+    princes and a great nation; Kings promised to come from the patriarch or matriarch; God promises to
+    make the patriarch a great nation; God reveals himself by the name El Shaddai; Patriarch or matriarch
+    laughs at the promise of a child in old age; God changes a person''s name to mark a new destiny; God
+    promises the land to the patriarch''s descendants; A divine messenger announces a son''s birth and
+    gives his name.'
   basis: reading
 - text: 'Only in Abraham, Ishmael and the House: Abraham and Ishmael raise the foundations of the House
     while praying; Abraham told ''Submit'' answers ''I submit to the Lord of the worlds'' (aslamtu); God
@@ -40,8 +40,8 @@ evidence:
     Ishmael pray that a messenger be raised from among their offspring; The chain of patriarchs to whom
     revelation or covenant passed [divergence between the texts]; The list of fathers in ''God of your
     fathers'' [divergence between the texts]; Whether Ishmael is with Abraham or sent away [contrast between
-    the texts]; Dying Jacob addresses his sons [divergence between the texts]; On that day no soul will
-    avail another, no intercession or ransom accepted, no help given; and 16 more.'
+    the texts]; Dying Jacob addresses his sons [divergence between the texts]; Whether one person''s guilt
+    (a parent''s, another''s) comes upon someone else; and 17 more.'
   basis: reading
 - text: 'El Shaddai, new names and the covenant of circumcision: tagged by Claude (model), reading the
     Hebrew.'

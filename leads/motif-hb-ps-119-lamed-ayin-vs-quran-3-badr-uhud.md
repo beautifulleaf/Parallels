@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests his people as silver is refined in the crucible (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas lamed to ayin: ''It is time to act for YHWH; they have made void your
     Torah'' (later read as license for emergency measures); Through Torah the speaker is wiser than his
@@ -38,7 +38,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 17 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 25 more.'
   basis: reading
 - text: 'Psalm 119, stanzas lamed to ayin: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,29 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing
-    the four directions in threes (weight 6.0). Pair score 6.0.'
+    the four directions in threes (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Historical appendix: siege, burning of the temple, bronze spoils, deportation numbers,
-    Jehoiachin''s release: Precise numbers of deportees for each year of exile; A captive king is released
-    after decades, changes his prison clothes and eats at the foreign king''s table; A king ''lifts the
-    head'' of a prisoner, releasing and honoring him; The besiegers build a siege wall (dayeq) around
-    the city; Jerusalem is breached, captured and burned by the Babylonians; Famine becomes severe in
-    the besieged city; there is no bread; The fleeing king is overtaken in the plains of Jericho; The
-    chief priest, second priest and officials are executed by the conqueror at Riblah; The conqueror leaves
-    the poorest people in the land as vinedressers and farmers; The king''s mother is named in his regnal
-    formula; The released captive king is given a throne above the other kings in Babylon; The temple
-    of Jerusalem is burned and the city walls broken down; and 6 more.'
+    Jehoiachin''s release: A captive king is released after decades, changes his prison clothes and eats
+    at the foreign king''s table; A king ''lifts the head'' of a prisoner, releasing and honoring him;
+    The besiegers build a siege wall (dayeq) around the city; Jerusalem is breached, captured and burned
+    by the Babylonians; The fleeing king is overtaken in the plains of Jericho; The chief priest, second
+    priest and officials are executed by the conqueror at Riblah; The conqueror leaves the poorest people
+    in the land as vinedressers and farmers; The king''s mother is named in his regnal formula; The released
+    captive king is given a throne above the other kings in Babylon; The temple of Jerusalem is burned
+    and the city walls broken down; Precise numbers of deportees for each year of exile; Besieged king
+    flees by night through a gate between the walls and is overtaken; and 6 more.'
   basis: reading
 - text: 'Only in David''s mountains and mail; Solomon''s wind, copper, jinn and staff: God made a spring
     of molten copper (or brass) flow for Solomon; The jinn did not know the unseen, else they would not
     have stayed in humiliating labor; Solomon dies leaning on his staff; only a creature of the earth
-    gnawing the staff reveals his death when he falls; David and the coat of mail [contrast between the
-    texts]; How Solomon died and how his death became known [divergence between the texts]; Rivers clap
-    their hands and mountains sing together before YHWH; How Solomon''s great bronze works were produced
-    [divergence between the texts]; God taught David the craft of making coats of mail; Who did Solomon''s
-    building and craft work [divergence between the texts]; The stormy wind is subjected to Solomon, blowing
-    at his command; Mountains and birds are made to glorify God together with David; Devils (shayāṭīn)
-    and jinn labor for Solomon, diving and building; and 1 more.'
+    gnawing the staff reveals his death when he falls; A superhuman craftsman casts metal vessels and
+    furniture for a lord [divergence between the texts]; David and the coat of mail [contrast between
+    the texts]; A king covers a journey of many stages in a single day [divergence between the texts];
+    How Solomon died and how his death became known [divergence between the texts]; How Solomon''s great
+    bronze works were produced [divergence between the texts]; God taught David the craft of making coats
+    of mail; Rivers clap their hands and mountains sing together before YHWH; Who did Solomon''s building
+    and craft work [divergence between the texts]; The stormy wind is subjected to Solomon, blowing at
+    his command; and 3 more.'
   basis: reading
 - text: 'Historical appendix: siege, burning of the temple, bronze spoils, deportation numbers, Jehoiachin''s
     release: tagged by Claude (model), reading the Hebrew.'

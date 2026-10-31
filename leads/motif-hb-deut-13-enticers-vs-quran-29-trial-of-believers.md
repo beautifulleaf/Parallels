@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How to treat close kin who urge one to worship other gods [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in False prophet, enticing kin, and the apostate city: A city that turns to other gods is
     put under the ban, burned and left a mound forever; Prophet or dreamer whose sign comes true but who
-    urges other gods must be rejected; Relative or friend who secretly entices to other gods must be stoned,
-    your hand first; How to treat close kin who urge one to worship other gods [contrast between the texts];
-    Do not take fathers or brothers as allies against faith; love of God must outweigh family, wealth,
-    trade and homes; If a corrupt person brings you news, verify it lest you harm a people in ignorance
-    and come to regret it; God uses a false prophet to test whether Israel loves him; The fate of a destroyed
-    town: lasting ruin or revival [contrast between the texts]; Worthless men (bene beliyyaal) lead astray;
-    Command not to add to or subtract from the divine words; Formula: you shall purge the evil from your
-    midst; False prophet put to death; and 1 more.'
+    urges other gods must be rejected; How to treat close kin who urge one to worship other gods [contrast
+    between the texts]; Do not take fathers or brothers as allies against faith; love of God must outweigh
+    family, wealth, trade and homes; If a corrupt person brings you news, verify it lest you harm a people
+    in ignorance and come to regret it; God uses a false prophet to test whether Israel loves him; The
+    fate of a destroyed town: lasting ruin or revival [contrast between the texts]; Relative or friend
+    who secretly entices to other gods must be stoned, your hand first; Worthless men (bene beliyyaal)
+    lead astray; False prophet put to death; Formula: you shall purge the evil from your midst; Command
+    not to add to or subtract from the divine words; and 1 more.'
   basis: reading
 - text: 'Only in Believers tested; parents and idolatry; the false offer to carry sins: Unbelievers offer
     to carry the believers'' sins if they follow their way; they cannot, and will carry their own loads

@@ -14,17 +14,17 @@ traditions:
 layers:
 - motif
 motifs:
-- offspring-settled-in-barren-valley-at-sacred-house-as-divergence
 - sons-in-old-age-ishmael-and-isaac-as-divergence
+- offspring-settled-in-barren-valley-at-sacred-house-as-divergence
 - abraham-prays-for-secure-city
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Abraham settles some of his offspring in a barren valley by God''s
-    sacred House [divergence between the texts] (weight 6.7); Abraham thanks God for giving him Ishmael
-    and Isaac in old age [divergence between the texts] (weight 6.7); Abraham prays that the town be made
-    secure and its people provided with fruits (weight 6.3). Pair score 19.7.'
+- text: 'Shared motifs, rarest first: Abraham thanks God for giving him Ishmael and Isaac in old age [divergence
+    between the texts] (weight 7.7); Abraham settles some of his offspring in a barren valley by God''s
+    sacred House [divergence between the texts] (weight 7.7); Abraham prays that the town be made secure
+    and its people provided with fruits (weight 7.3). Pair score 22.8.'
   basis: reading
 - text: 'Only in Birth of Isaac and expulsion of Hagar and Ishmael: Mother lays her dying child under
     a bush and sits a bowshot away weeping; Slave-wife and her son expelled at the wife''s demand; The

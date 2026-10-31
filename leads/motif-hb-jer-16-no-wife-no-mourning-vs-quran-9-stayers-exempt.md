@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet must never pray over a dead hypocrite or stand at his
-    grave (weight 6.7). Pair score 6.7.'
+    grave (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Symbolic acts - no wife, no mourning, no feasting: Mourners are given bread broken for
     them and a ''cup of consolation'' for father or mother; The ''house of the marzeah'' (beit marzeah),
@@ -30,18 +30,19 @@ evidence:
     explaining the fall and exile of a nation as punishment for idolatry; To be driven from the land is
     to be made to serve other gods; Prohibition of gashing oneself or shaving the forehead for the dead;
     God will silence the sound of joy and gladness, the voice of the bridegroom and the voice of the bride;
-    The people''s corpses will be food for the birds of the sky and the beasts with no one to frighten
-    them away; A prophet performs a symbolic action that enacts the message.'
+    A prophet performs a symbolic action that enacts the message; The people''s corpses will be food for
+    the birds of the sky and the beasts with no one to frighten them away.'
   basis: reading
 - text: 'Only in Those who stayed behind, the exempt, and the Bedouin: The Bedouin (al-a''rab) are harder
     in unbelief and hypocrisy; Shirkers say ''do not go out in the heat''; hell''s fire is hotter; Poor
     volunteers turn away weeping because the prophet has no mounts for them; Who is excused from going
     out to war [divergence between the texts]; Let them laugh a little and weep much; Even in laughter
-    the heart may ache, and the end of joy is grief; Catalogue of believers: repenting, worshiping, praising,
-    wandering/fasting (sa''ihun), bowing, prostrating, enjoining right; God uses the unbelievers'' wealth
-    and children to punish them in this life; Hypocrites swear excuses and ask permission to stay behind
-    from the campaign; Exemptions from war for a new house, unharvested vineyard, betrothed bride, or
-    faintheartedness; God seals (tab'') the hearts of deniers so they do not hear.'
+    the heart may ache, and the end of joy is grief; The desert nomad does not know the gods'' place or
+    God''s limits, and does not pray; Catalogue of believers: repenting, worshiping, praising, wandering/fasting
+    (sa''ihun), bowing, prostrating, enjoining right; God uses the unbelievers'' wealth and children to
+    punish them in this life; Hypocrites swear excuses and ask permission to stay behind from the campaign;
+    Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness; God
+    seals (tab'') the hearts of deniers so they do not hear.'
   basis: reading
 - text: 'Symbolic acts - no wife, no mourning, no feasting: tagged by Claude (model), reading the Hebrew.'
   basis: reading

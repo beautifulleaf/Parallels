@@ -18,9 +18,9 @@ motifs:
 - hero-preaches-to-people
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The flood waters are hot or boiling (weight 6.0); People mock the
-    hero while he builds the vessel (weight 6.0); Hero warns or preaches to his people before the flood
-    (weight 5.2). Pair score 17.2.'
+- text: 'Shared motifs, rarest first: The flood waters are hot or boiling (weight 7.1); People mock the
+    hero while he builds the vessel (weight 6.6); Hero warns or preaches to his people before the flood
+    (weight 6.2). Pair score 19.9.'
   basis: reading
 - text: 'Noah in the Quran: tagged by Claude (model), reading the Arabic.'
   basis: reading

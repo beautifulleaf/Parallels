@@ -19,29 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one may excuse himself on judgment day because his ancestors
-    associated partners (weight 6.7). Pair score 6.7.'
+    associated partners (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sour grapes - individual responsibility and repentance: Exhortation: cast away your transgressions
     and make yourselves a new heart and a new spirit; why will you die?; Test case of three generations:
     righteous father, violent son, and a grandson who sees his father''s sins and does not imitate them;
     Whether one person can carry another''s sin [divergence between the texts]; If the wicked turns from
     his sins, none of his transgressions will be remembered; if the righteous turns away, his righteousness
-    is forgotten; Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no
-    menstrual intercourse, no oppression, returns pledges, feeds the hungry, clothes the naked, no interest;
-    Proverb ''The fathers have eaten sour grapes and the children''s teeth are set on edge'', abolished
-    by God; Whether repentance has a time limit [divergence between the texts]; People complain ''the
-    way of the Lord is not fair''; God answers that it is their ways that are unfair; God does not desire
-    the death of the wicked but that he turn from his way and live; A cloak taken in pledge must be returned
-    before sunset; ''The soul that sins, it shall die'': the son does not bear the father''s iniquity
-    nor the father the son''s; Whoever does good does it for his own soul; whoever does evil, it is against
-    it; and 4 more.'
+    is forgotten; Proverb ''The fathers have eaten sour grapes and the children''s teeth are set on edge'',
+    abolished by God; Whether repentance has a time limit [divergence between the texts]; People complain
+    ''the way of the Lord is not fair''; God answers that it is their ways that are unfair; God does not
+    desire the death of the wicked but that he turn from his way and live; Catalogue of the righteous
+    man: no eating on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns
+    pledges, feeds the hungry, clothes the naked, no interest; ''The soul that sins, it shall die'': the
+    son does not bear the father''s iniquity nor the father the son''s; Whoever does good does it for
+    his own soul; whoever does evil, it is against it; Intercourse with a menstruating woman is forbidden;
+    and 4 more.'
   basis: reading
 - text: 'Only in The primordial covenant ("Am I not your Lord?"): God takes all Adam''s descendants from
-    their loins and makes them testify ''Am I not your Lord?'' (''Yes''); Covenant made with those present
-    and with those not here today; Covenant made with those present and with those not here today [divergence
-    between the texts]; The covenant is made with those alive today, not only with the fathers; The people
-    are made witnesses against themselves to their choice; Unbelievers defend their practice as what they
-    found their fathers doing.'
+    their loins and makes them testify ''Am I not your Lord?'' (''Yes''); A covenant is framed so that
+    the bound party cannot later say ''I did not know''; Covenant made with those present and with those
+    not here today [divergence between the texts]; The covenant is made with those alive today, not only
+    with the fathers; The people are made witnesses against themselves to their choice; Covenant made
+    with those present and with those not here today; An oath or covenant that binds descendants not yet
+    born [divergence between the texts]; Unbelievers defend their practice as what they found their fathers
+    doing.'
   basis: reading
 - text: 'Sour grapes - individual responsibility and repentance: tagged by Claude (model), reading the
     Hebrew.'

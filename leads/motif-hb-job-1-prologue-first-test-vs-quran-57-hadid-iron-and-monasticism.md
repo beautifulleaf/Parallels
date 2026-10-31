@@ -19,18 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: So that you do not grieve over what escapes you nor exult over what
-    he gives you (weight 6.7). Pair score 6.7.'
+    he gives you (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job''s piety, the heavenly council and the first test: The verb ''bless'' (barekh) used
     as a scribal euphemism for cursing God; Grown sons hold feasts in turn, each on his day, and invite
     their sisters; A great wind from the desert strikes the four corners of the house and it falls on
     the feasting children; God has set a protective hedge around the righteous man, his house and goods;
     ''Fire of God'' falls from heaven and consumes flocks and servants; Messenger after messenger arrives
-    while the last is still speaking, each the sole survivor of a disaster; ''I alone escaped to tell
-    you''; ''Does he fear God for nothing?'': piety suspected of being motivated by reward; The exemplary
-    righteous man is a non-Israelite living in the land of Uz in the east; Father offers burnt offerings
-    in case his children ''blessed'' (cursed) God in their hearts; A blessed man has seven sons and three
-    daughters; Mourner shaves his head and falls to the ground; and 20 more.'
+    while the last is still speaking, each the sole survivor of a disaster; ''Does he fear God for nothing?'':
+    piety suspected of being motivated by reward; The exemplary righteous man is a non-Israelite living
+    in the land of Uz in the east; Father offers burnt offerings in case his children ''blessed'' (cursed)
+    God in their hearts; Mourner shaves his head and falls to the ground; A patriarch''s wealth is listed
+    in precise numbers of sheep, camels, oxen and asses; Humans are presented before God in rows, coming
+    as they were first created; and 20 more.'
   basis: reading
 - text: 'Only in Life like withering plants; the Garden as wide as heaven and earth; every calamity written;
     iron sent down; Jesus'' followers and invented monasticism: The People of the Book should know they
@@ -40,11 +41,11 @@ evidence:
     for people; God gave Jesus son of Mary the Gospel (al-Injil); Worldly life is play, adornment, boasting
     and rivalry in wealth and children, like rain whose growth pleases the sowers, then withers yellow
     and becomes chaff; God sent down the Book with the truth and the Balance (al-mizan); Christians are
-    nearest in affection to the believers because they have priests and monks and are not proud; A double
-    portion (k-p-l) from God [divergence between the texts]; No calamity befalls the earth or yourselves
-    but it is in a Book before God brings it into being; Race to forgiveness and a Garden whose breadth
-    is as the breadth of heaven and earth; Jesus was given the Gospel (Injīl), confirming the Torah before
-    it; and 7 more.'
+    nearest in affection to the believers because they have priests and monks and are not proud; What
+    befalls creatures is written beforehand on a heavenly tablet or in a book [divergence between the
+    texts]; A double portion (k-p-l) from God [divergence between the texts]; No calamity befalls the
+    earth or yourselves but it is in a Book before God brings it into being; Race to forgiveness and a
+    Garden whose breadth is as the breadth of heaven and earth; and 11 more.'
   basis: reading
 - text: 'Job''s piety, the heavenly council and the first test: tagged by Claude (model), reading the
     Hebrew.'

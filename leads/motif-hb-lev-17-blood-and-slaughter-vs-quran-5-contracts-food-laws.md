@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- rite-over-hunted-game-as-divergence
 - carrion-forbidden-or-defiling-as-divergence
+- rite-over-hunted-game-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A rite is required over hunted game before it may be eaten [divergence
-    between the texts] (weight 6.7); Eating carrion or torn flesh is forbidden or defiling [divergence
-    between the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Eating carrion or torn flesh is forbidden or defiling [divergence
+    between the texts] (weight 7.7); A rite is required over hunted game before it may be eaten [divergence
+    between the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Slaughter only at the tent; the blood is the life: God gives blood on the altar to make
     atonement for lives; Eating blood is forbidden because the life (nefesh) of the flesh is in the blood;
@@ -34,15 +34,15 @@ evidence:
     be cut off from his people'' (karet).'
   basis: reading
 - text: 'Only in Contracts, pilgrim sanctity and the forbidden foods: The food of the People of the Book
-    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Sacrificial
-    animals (hady) marked with garlands (qalāʾid) are inviolable; Believers may marry chaste women of
-    the People of the Book; ''Today I have perfected your religion and completed my favor''; The sacred
-    month and God''s rites must not be profaned; Forbidden: the strangled, the beaten to death, the fallen
-    and the gored animal; What trained hunting animals (dogs, birds of prey) catch is lawful, with God''s
-    name pronounced; Divination by shaking or drawing arrows (belomancy); Seeking decisions by divining
-    arrows (azlām) is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten [divergence
-    between the texts]; Eat only what God''s name was pronounced over; what was slaughtered without it
-    is forbidden; and 9 more.'
+    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Believers
+    may marry chaste women of the People of the Book; ''Today I have perfected your religion and completed
+    my favor''; The sacred month and God''s rites must not be profaned; Forbidden: the strangled, the
+    beaten to death, the fallen and the gored animal; What trained hunting animals (dogs, birds of prey)
+    catch is lawful, with God''s name pronounced; Divination by shaking or drawing arrows (belomancy);
+    Seeking decisions by divining arrows (azlām) is forbidden; Flesh of an animal torn by a beast of prey
+    is not to be eaten [divergence between the texts]; Sacrificial animals (hady) marked with garlands
+    (qalāʾid) are inviolable; Eat only what God''s name was pronounced over; what was slaughtered without
+    it is forbidden; and 9 more.'
   basis: reading
 - text: 'Slaughter only at the tent; the blood is the life: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,31 +20,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God gave his servants unlimited provision they would transgress
-    on earth, so he sends down in measure (weight 6.7). Pair score 6.7.'
+    on earth, so he sends down in measure (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 30 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; Whether God, or the gods, eat the offerings [contrast between the texts]; and 30
+    more.'
   basis: reading
 - text: 'Only in Provision in measure, rain, ships like mountains and the ethics of consultation and pardon:
     The believers conduct their affairs by mutual consultation (shura); God has dispersed living creatures
     (dabba) in both the heavens and the earth and can gather them; God accepts repentance from his servants
     and pardons evil deeds; Retaliation in kind is permitted, but whoever pardons and makes peace has
-    his reward with God; God''s control of the wind over ships at sea: raising a storm or stilling it
-    [divergence between the texts]; Whatever misfortune strikes people is for what their own hands have
-    earned, though God pardons much; What is given in this life is passing enjoyment (mata''); what is
-    with God is better and more lasting; God sends down rain after people have despaired and spreads out
-    his mercy; Do not say ''I will do to him as he has done to me; I will pay the man back for his deed'';
-    Whether one may pay back a wrong in kind [divergence between the texts]; Ships running on the sea
-    like landmarks/mountains are a sign; God could still the wind and leave them motionless or wreck them;
-    Eye for an eye, tooth for a tooth (lex talionis) [divergence between the texts]; and 2 more.'
+    his reward with God; A blow is repaid with its like: every deed is interlocked with its consequence;
+    God''s control of the wind over ships at sea: raising a storm or stilling it [divergence between the
+    texts]; Whatever misfortune strikes people is for what their own hands have earned, though God pardons
+    much; What is given in this life is passing enjoyment (mata''); what is with God is better and more
+    lasting; God sends down rain after people have despaired and spreads out his mercy; Do not say ''I
+    will do to him as he has done to me; I will pay the man back for his deed''; Whether one may pay back
+    a wrong in kind [divergence between the texts]; Ships running on the sea like landmarks/mountains
+    are a sign; God could still the wind and leave them motionless or wreck them; and 3 more.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

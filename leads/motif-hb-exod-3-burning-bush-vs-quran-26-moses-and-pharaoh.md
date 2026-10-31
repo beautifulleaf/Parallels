@@ -13,29 +13,29 @@ traditions:
 layers:
 - motif
 motifs:
-- terms-of-the-release-demand-as-divergence
-- god-of-the-forefathers-proclaimed-as-divergence
 - divine-title-sent-to-pharaoh
+- god-of-the-forefathers-proclaimed-as-divergence
+- terms-of-the-release-demand-as-divergence
 - despoiling-the-egyptians
 - god-of-abraham-isaac-jacob
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: What Moses asks Pharaoh to allow [divergence between the texts]
-    (weight 6.7); Whose forefathers'' God is proclaimed in the Moses story [divergence between the texts]
-    (weight 6.7); The title of God in whose name Moses goes to Pharaoh (weight 6.7); The departing slaves
-    ask their neighbors for silver, gold and clothing and so plunder their oppressors (weight 5.8); God
-    identifies himself as God of Abraham, Isaac and Jacob (weight 5.6). Pair score 31.4.'
+- text: 'Shared motifs, rarest first: The title of God in whose name Moses goes to Pharaoh (weight 7.7);
+    Whose forefathers'' God is proclaimed in the Moses story [divergence between the texts] (weight 7.7);
+    What Moses asks Pharaoh to allow [divergence between the texts] (weight 7.7); The departing slaves
+    ask their neighbors for silver, gold and clothing and so plunder their oppressors (weight 6.8); God
+    identifies himself as God of Abraham, Isaac and Jacob (weight 6.6). Pair score 36.7.'
   basis: reading
 - text: 'Only in The burning bush and the divine name: God names himself ''I will be what I will be''
-    (ehyeh asher ehyeh); God has seen the affliction, heard the cry and comes down to deliver; God introduced
-    to a foreign king as ''the God of the Hebrews''; God foretells that the king will not let the people
-    go except under compulsion; Hero hides his face, afraid to look at God; The sign confirming the call
-    is that the people will later worship on this mountain; God calls Moses from the fire, from a bush
-    or a tree [divergence between the texts]; God declares his name as his everlasting memorial for all
-    generations; The list of fathers in ''God of your fathers'' [divergence between the texts]; How God
-    names himself to Moses from the fire [divergence between the texts]; Formulaic list of the Canaanite,
+    (ehyeh asher ehyeh); God introduced to a foreign king as ''the God of the Hebrews''; God foretells
+    that the king will not let the people go except under compulsion; Hero hides his face, afraid to look
+    at God; The sign confirming the call is that the people will later worship on this mountain; God calls
+    Moses from the fire, from a bush or a tree [divergence between the texts]; God declares his name as
+    his everlasting memorial for all generations; God has seen the affliction, heard the cry and comes
+    down to deliver; The list of fathers in ''God of your fathers'' [divergence between the texts]; How
+    God names himself to Moses from the fire [divergence between the texts]; Formulaic list of the Canaanite,
     Hittite, Amorite, Perizzite, Hivite and Jebusite; God called Moses and drew him near in confidential
     converse (najiyy) [divergence between the texts]; and 13 more.'
   basis: reading
@@ -46,10 +46,10 @@ evidence:
     fled out of fear; Pharaoh reproaches Moses: ''Did we not raise you among us as a child, and you did
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
-    magicians in a contest [divergence between the texts]; Egypt reduced the Israelites to slavery; How
-    a public contest between God''s prophet and the king''s religious specialists ends [contrast between
-    the texts]; The king musters his whole force to pursue the departing people; How the sea was split
-    for the crossing [divergence between the texts]; and 38 more.'
+    magicians in a contest [divergence between the texts]; Egypt reduced the Israelites to slavery; The
+    king of Egypt as a god who has no second / no other god [neutral] [divergence between the texts];
+    How a public contest between God''s prophet and the king''s religious specialists ends [contrast between
+    the texts]; The king musters his whole force to pursue the departing people; and 46 more.'
   basis: reading
 - text: 'The burning bush and the divine name: tagged by Claude (model), reading the Hebrew.'
   basis: reading

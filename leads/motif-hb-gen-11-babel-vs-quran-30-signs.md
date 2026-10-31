@@ -18,28 +18,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why humans speak many languages [divergence between the texts] (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Tower of Babel: Babel explained from balal, to confuse; God scatters humanity over
-    the earth; God confuses human language; God comes down to see what humans are doing; Builders seek
-    to make a name for themselves and avoid dispersal; All humanity once spoke one language; Humankind
-    was originally one (in speech or community) and then divided [divergence between the texts]; Mankind
-    once one, then divided [divergence between the texts]; Building with baked bricks and bitumen instead
-    of stone and mortar; Humans build a tower whose top reaches heaven; Humans build a tower whose top
-    reaches heaven [divergence between the texts]; God speaks in the plural (us, our) as if to a divine
-    council.'
+    the earth; God comes down to see what humans are doing; Humankind was originally one (in speech or
+    community) and then divided [divergence between the texts]; Mankind once one, then divided [divergence
+    between the texts]; God confuses human language; All humanity once spoke one language; Building with
+    baked bricks and bitumen instead of stone and mortar; Humans build a tower whose top reaches heaven
+    [divergence between the texts]; God speaks in the plural (us, our) as if to a divine council; Humans
+    build a tower whose top reaches heaven; Builders seek to make a name for themselves and avoid dispersal.'
   basis: reading
 - text: 'Only in The Hour, the times of praise, and the signs of God: Everything in the heavens and the
-    earth is devoutly obedient (qanit) to God; The diversity of human languages and colors is one of God''s
-    signs; God created mates for humans from their own selves so they may find rest in them, with love
-    and mercy between them; God did not wrong them; they wronged themselves (refrain); At night the beasts
-    of the forest prowl and lions roar for prey; at sunrise they withdraw and man goes out to work till
-    evening; Refrain ''among his signs (ayat) is...'' listing natural phenomena as evidence of God; God
-    shows lightning to inspire fear and hope (of rain); Nations distinguished by land, language and clan;
-    How God made the human mate, and for what purpose [divergence between the texts]; God brings the living
-    out of the dead and the dead out of the living; Glorify God in the evening, morning, afternoon and
-    noon (set times of praise or prayer); God originates creation and then repeats it (resurrection as
-    re-creation); and 4 more.'
+    earth is devoutly obedient (qanit) to God; God created mates for humans from their own selves so they
+    may find rest in them, with love and mercy between them; The many languages of mankind and the deity''s
+    part in them [divergence between the texts]; The diversity of human languages and colors is one of
+    God''s signs; God made human tongues different in speech and their skins (colours) distinct; God did
+    not wrong them; they wronged themselves (refrain); Go up on (travel through) the ruins of the ancients
+    and look: what the sight teaches [divergence between the texts]; Refrain ''among his signs (ayat)
+    is...'' listing natural phenomena as evidence of God; God shows lightning to inspire fear and hope
+    (of rain); How God made the human mate, and for what purpose [divergence between the texts]; God brings
+    the living out of the dead and the dead out of the living; Nations distinguished by land, language
+    and clan; and 7 more.'
   basis: reading
 - text: 'The Tower of Babel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

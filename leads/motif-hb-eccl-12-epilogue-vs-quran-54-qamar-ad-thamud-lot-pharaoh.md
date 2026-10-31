@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Everything they did is in the scriptures (zubur); every small and
-    great thing is written down (weight 6.7). Pair score 6.7.'
+    great thing is written down (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Epilogue on Qohelet, many books, and the whole duty of man: Editorial epilogue speaks
     of Qohelet in the third person: a sage who taught the people, weighed and arranged many proverbs;
@@ -36,12 +36,11 @@ evidence:
     faces into the Fire: ''Taste the touch of Saqar''; The God-fearing are in gardens and a river, in
     a seat of truth with an all-powerful King; A single Cry (sayha) is sent and they become like the dry
     stubble of a pen-builder; When they solicited Lot''s guests, God obliterated their eyes; ''The host
-    will be routed and turn their backs'' (applied to Badr); God created everything by measure/decree
-    (bi-qadar); ''Are your unbelievers better than those, or have you an immunity (bara''a) in the scriptures
-    (zubur)?''; Lot''s family is saved at the time before dawn (bi-sahar) while a storm of stones (hasib)
-    destroys the rest; Supernatural being must leave before daybreak; Refrain: ''How then were my punishment
-    and my warnings?'' (fa-kayfa kana ''adhabi wa-nudhur); Refrain: ''We have made the Quran easy to remember;
-    is there anyone who will remember?'' (fa-hal min muddakir); and 12 more.'
+    will be routed and turn their backs'' (applied to Badr); The high god''s command is spoken once only:
+    not twice, not turned back; God created everything by measure/decree (bi-qadar); ''Are your unbelievers
+    better than those, or have you an immunity (bara''a) in the scriptures (zubur)?''; Lot''s family is
+    saved at the time before dawn (bi-sahar) while a storm of stones (hasib) destroys the rest; Supernatural
+    being must leave before daybreak; The destroying wind carries the people away; and 14 more.'
   basis: reading
 - text: 'Epilogue on Qohelet, many books, and the whole duty of man: tagged by Claude (model), reading
     the Hebrew.'

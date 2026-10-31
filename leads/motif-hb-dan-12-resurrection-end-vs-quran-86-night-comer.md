@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
-    awake and sing (weight 4.9). Pair score 4.9.'
+    awake and sing (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition
@@ -38,8 +38,8 @@ evidence:
     (al-tariq), explained as the piercing star (al-najm al-thaqib); Human created from a gushing fluid
     that issues from between the backbone (sulb) and the ribs or breastbones (tara''ib); ''Search me,
     God, and know my heart; test me and know my thoughts; lead me in the everlasting way''; They plot
-    a plot, and God plots a plot; give the deniers respite a little; There is no soul but has a guardian
-    (hafiz) over it; God knows the secrets of the heart (ta''alumot lev); Rhetorical formula ''And what
+    a plot, and God plots a plot; give the deniers respite a little; God knows the secrets of the heart
+    (ta''alumot lev); There is no soul but has a guardian (hafiz) over it; Rhetorical formula ''And what
     will make you know what X is?'' (wa ma adraka ma) introducing an eschatological term; A series of
     oaths by natural phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates
     a passage.'

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hoopoe is named in a list of birds [contrast between the texts]
-    (weight 6.7); The hoopoe is named in a list of birds (weight 6.7). Pair score 13.4.'
+    (weight 7.7); The hoopoe is named in a list of birds (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Clean and unclean animals; carcass impurity: The camel is unclean because it does not
     have a split hoof; Touching or carrying a carcass makes one unclean until evening; Creatures that
@@ -45,7 +45,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 21 more.'
+    and 41 more.'
   basis: reading
 - text: 'Clean and unclean animals; carcass impurity: tagged by Claude (model), reading the Hebrew.'
   basis: reading

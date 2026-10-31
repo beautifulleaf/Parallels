@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Death as final, voiced by a sufferer or by deniers of resurrection
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job - ''man born of woman''; the tree has hope: ''Who can bring a clean thing out of
     an unclean? Not one''; The dead man does not know whether his sons are honored or brought low; As
@@ -30,7 +30,7 @@ evidence:
     not wake until the heavens are no more; ''Man born of woman is of few days and full of trouble'';
     he comes forth like a flower and withers; Human life on earth is hard service (tsava), its days like
     those of a hired laborer; A felled tree sprouts again at the scent of water, but a man dies and does
-    not rise; A felled tree sprouts again at the scent of water, but a man dies and does not rise [contrast
+    not rise [contrast between the texts]; Whether those who die and return to dust rise again [contrast
     between the texts]; and 2 more.'
   basis: reading
 - text: 'Only in Deniers demand their fathers; the people of Tubba''; the tree of Zaqqum; silk, brocade
@@ -43,8 +43,8 @@ evidence:
     is taunted: ''Taste! You are the mighty, the noble!''; In paradise they taste no death except the
     first death; On that day no patron (mawla) can avail his client at all; The people of Tubba'' (the
     Himyarite kings of Yemen) as a destroyed people; A tree whose fruit is food, in Eden or in hell [contrast
-    between the texts]; Neither their silver nor their gold can save them on the day of YHWH''s wrath;
-    and 4 more.'
+    between the texts]; The blessed will not die except their first death and will not be punished; and
+    6 more.'
   basis: reading
 - text: 'Job - ''man born of woman''; the tree has hope: tagged by Claude (model), reading the Hebrew.'
   basis: reading

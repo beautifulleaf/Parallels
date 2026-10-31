@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Forgotten sheaf, olive and grape gleanings left for stranger, orphan
-    and widow (weight 6.3). Pair score 6.3.'
+    and widow (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -44,7 +44,8 @@ evidence:
     to be eaten only by whom they will; Pagans reserve what is in the wombs of cattle for males, forbidden
     to wives unless stillborn; The camel is unclean because it does not have a split hoof [contrast between
     the texts]; List of clean and unclean animals: split hoof and chewing cud [response between the texts];
-    The fat tail of the sheep is offered [divergence between the texts]; and 12 more.'
+    The due from crops and young animals is given at once, at harvest time [divergence between the texts];
+    and 15 more.'
   basis: reading
 - text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

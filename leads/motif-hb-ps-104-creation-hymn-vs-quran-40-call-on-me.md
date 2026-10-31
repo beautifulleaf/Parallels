@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
-    (weight 4.7). Pair score 4.7.'
+    (weight 5.5). Pair score 5.5.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 40 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 40 more.'
   basis: reading
 - text: 'Only in God helps his messengers; call on me; the stages of life: Your Lord said ''Call on me
     and I will answer you''; God shaped you and made your forms good (sawwarakum fa-ahsana suwarakum);
@@ -39,8 +39,9 @@ evidence:
     creation [divergence between the texts]; From dust, then a drop, then a clinging clot (''alaqa), then
     a child, then full strength, then old age; some die before; Rhetorical question: are the blind and
     the seeing equal, or darkness and light?; God made leaders (a''imma) among the Israelites who guided
-    by his command because they were patient; Humanity made in the image or likeness of the deity; Glorify
-    God in the evening, morning, afternoon and noon (set times of praise or prayer); God creates by saying
+    by his command because they were patient; The creator made heaven and earth, light, air and food ''for
+    their sake'' (n-jb =sn), for humankind; Glorify God in the evening, morning, afternoon and noon (set
+    times of praise or prayer); Humanity made in the image or likeness of the deity; God creates by saying
     to a thing ''Be'' and it is (kun fa-yakun).'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),

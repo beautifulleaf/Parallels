@@ -18,16 +18,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests the patriarch''s obedience [divergence between the texts]
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in The binding of Isaac (Aqedah): The son to be sacrificed is called the only, beloved son;
-    Place of sacrifice named ''YHWH will see/provide'' on the mount of the LORD; Son asks his father where
-    the sacrificial lamb is; The son carries the wood for his own sacrifice; Three-day journey to the
-    mountain of sacrifice; An angel calls from heaven to stop the sacrifice at the last moment; Father
-    binds his son on the altar and lifts the knife; God commands a father to sacrifice his son; God commands
-    a father to sacrifice his son [divergence between the texts]; The father lays the son down for the
-    sacrifice [divergence between the texts]; Who the son to be sacrificed is and how he is named [divergence
-    between the texts]; A ram caught in a thicket is sacrificed in place of the son; and 10 more.'
+- text: 'Only in The binding of Isaac (Aqedah): Place of sacrifice named ''YHWH will see/provide'' on
+    the mount of the LORD; Son asks his father where the sacrificial lamb is; The son carries the wood
+    for his own sacrifice; Three-day journey to the mountain of sacrifice; An angel calls from heaven
+    to stop the sacrifice at the last moment; Father binds his son on the altar and lifts the knife; God
+    commands a father to sacrifice his son; God commands a father to sacrifice his son [divergence between
+    the texts]; The father lays the son down for the sacrifice [divergence between the texts]; Who the
+    son to be sacrificed is and how he is named [divergence between the texts]; The son to be sacrificed
+    is called the only, beloved son; A ram caught in a thicket is sacrificed in place of the son; and
+    10 more.'
   basis: reading
 - text: 'Only in Abraham, Ishmael and the House: Abraham and Ishmael raise the foundations of the House
     while praying; Abraham told ''Submit'' answers ''I submit to the Lord of the worlds'' (aslamtu); God
@@ -39,7 +40,7 @@ evidence:
     revelation or covenant passed [divergence between the texts]; Whether and how God''s covenant with
     Abraham passes to his offspring [contrast between the texts]; The list of fathers in ''God of your
     fathers'' [divergence between the texts]; Whether Ishmael is with Abraham or sent away [contrast between
-    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 17 more.'
+    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'The binding of Isaac (Aqedah): tagged by Claude (model), reading the Hebrew.'
   basis: reading

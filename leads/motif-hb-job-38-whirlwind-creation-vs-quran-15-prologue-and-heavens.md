@@ -20,33 +20,33 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: There is nothing whose storehouses are not with God (weight 6.3);
-    God set constellations (buruj) in the sky and adorned it for beholders (weight 6.0); God set the mountains
-    as pegs or firm anchors (awtad, rawasi) for the earth (weight 5.3). Pair score 17.6.'
+- text: 'Shared motifs, rarest first: There is nothing whose storehouses are not with God (weight 7.3);
+    God set constellations (buruj) in the sky and adorned it for beholders (weight 7.1); God set the mountains
+    as pegs or firm anchors (awtad, rawasi) for the earth (weight 6.4). Pair score 20.8.'
   basis: reading
 - text: 'Only in God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens:
     Dawn seizes the edges of the earth and shakes the wicked out of it; Light and darkness each have a
     dwelling place and a road to it; Rhetorical question whether rain has a father and from whose womb
-    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The morning stars
-    sing together and the sons of God shout for joy at the founding of the earth; Named constellations
-    (Kimah/Pleiades, Kesil/Orion, Ayish/Bear, Mazzarot) and their bonds; The sea bursts out of a womb
-    at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors for the
-    sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of the deep
-    (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God tips over;
-    God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were they created
-    from nothing, or are they the creators? Did they create the heavens and earth?; and 12 more.'
+    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The sea bursts out
+    of a womb at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors
+    for the sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of
+    the deep (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God
+    tips over; God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were
+    they created from nothing, or are they the creators? Did they create the heavens and earth?; God challenges
+    the human: ''Gird your loins like a man; I will question you and you inform me''; God answers the
+    sufferer out of the storm-wind (se''arah); and 12 more.'
   basis: reading
 - text: 'Only in The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25): Opponents
     demand that the prophet bring the angels if he is truthful; Even if a door of heaven were opened and
     they ascended, they would say their eyes were bewitched; No town is destroyed without a known written
     decree; no nation outstrips its term; God sends the winds as fertilizers (lawaqih), then rain to drink;
     God declares that he sent down the Reminder and will himself guard it; God made everything grow in
-    due weight and sends it down only in known measure; Jinn or devils who used to sit listening at heaven''s
-    gates now find it full of stern guards and shooting stars (shuhub) lying in wait; God gives life and
-    death and is the inheritor of the earth and all on it; Defense of the prophet: there is no madness
-    (jinna) in your companion; he is only a warner; The people mock God''s messengers, despise his words
-    and scoff at his prophets; A surah opens with isolated letters (huruf muqatta''at) of unexplained
-    meaning, e.g. alif-lam-mim.'
+    due weight and sends it down only in known measure; A mortal climbs into the sky through a gate of
+    heaven; Jinn or devils who used to sit listening at heaven''s gates now find it full of stern guards
+    and shooting stars (shuhub) lying in wait; God gives life and death and is the inheritor of the earth
+    and all on it; Defense of the prophet: there is no madness (jinna) in your companion; he is only a
+    warner; The people mock God''s messengers, despise his words and scoff at his prophets; A surah opens
+    with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
   basis: reading
 - text: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens: tagged
     by Claude (model), reading the Hebrew.'

@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the tablets given at Sinai contain [divergence between the
-    texts] (weight 6.7); A prophet spends forty days and forty nights in a set period (weight 5.8). Pair
-    score 12.5.'
+    texts] (weight 7.7); A prophet spends forty days and forty nights in a set period (weight 6.8). Pair
+    score 14.6.'
   basis: reading
 - text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
     covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
     time; Call to the People of the Book to a common word: worship none but God and take none as lords
     besides him; Israel must tear down the standing stones of the Canaanite gods; A firstborn donkey is
     redeemed with a lamb or its neck is broken; God passes by and proclaims his name and attributes of
-    mercy; A boundary is set round the holy mountain; whoever touches it dies; Whether one person (kin,
-    descendants) bears another''s sin [contrast between the texts]; Make no covenant with the inhabitants
-    or their gods, who would be a snare; Do not offer sacrificial blood with leavened bread; fat not left
-    until morning; No one shall appear before God empty-handed; The prophet intercedes for the people,
-    arguing from God''s reputation; and 20 more.'
+    mercy; Whether one person (kin, descendants) bears another''s sin [contrast between the texts]; Do
+    not offer sacrificial blood with leavened bread; fat not left until morning; No one shall appear before
+    God empty-handed; The prophet intercedes for the people, arguing from God''s reputation; How far God''s
+    mercy and his punishment extend [divergence between the texts]; Moses hews a second pair of tablets
+    to replace the broken ones; and 20 more.'
   basis: reading
 - text: 'Only in Forty nights, the request to see God and the tablets: When God manifests himself to the
     mountain it is crushed to dust; The prophet falls down unconscious at the theophany and repents on
@@ -44,7 +44,7 @@ evidence:
     or nights) [divergence between the texts]; A mountain is shattered when God passes by or manifests
     himself [divergence between the texts]; The prophet asks to see God''s glory; What happens after God
     refuses to be seen by Moses [divergence between the texts]; God answers the prophet''s request to
-    see him: ''You will not see me''; and 5 more.'
+    see him: ''You will not see me''; and 8 more.'
   basis: reading
 - text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
     the Hebrew.'

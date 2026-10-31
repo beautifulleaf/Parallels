@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people wash their garments to prepare for God''s appearance
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Arrival at Sinai, covenant offer and theophany: Israel arrives at Sinai in the third
-    month after leaving Egypt; God carried Israel on eagles'' wings; Moses speaks and God answers him
-    with a voice (thunder); God comes to the prophet in a thick cloud so the people may hear; Priests
-    are mentioned before the Aaronic priesthood is instituted; A ram''s horn blast signals that the people
-    may go up the mountain; Men must not approach a woman before a holy encounter; God descends or reveals
-    himself on the third day; A boundary is set round the holy mountain; whoever touches it dies; A horn
-    blast at which all tremble [divergence between the texts]; Israel stands beneath the mountain when
-    the covenant is given [divergence between the texts]; Israel is to be a kingdom of priests and a holy
-    nation; and 10 more.'
+    month after leaving Egypt; Moses speaks and God answers him with a voice (thunder); God comes to the
+    prophet in a thick cloud so the people may hear; Priests are mentioned before the Aaronic priesthood
+    is instituted; A ram''s horn blast signals that the people may go up the mountain; Men must not approach
+    a woman before a holy encounter; God descends or reveals himself on the third day; God carried Israel
+    on eagles'' wings; A horn blast at which all tremble [divergence between the texts]; Israel stands
+    beneath the mountain when the covenant is given [divergence between the texts]; Israel is to be a
+    kingdom of priests and a holy nation; Israel is to be a kingdom of priests and a holy nation [divergence
+    between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in The cloaked one: the call, the opponent, and the nineteen: The people of paradise ask
     the damned what brought them to hell; they answer: we did not pray, feed the poor, and we denied the
@@ -39,10 +39,10 @@ evidence:
     number is made a test; God created a man alone, gave him extended wealth and sons present at his side;
     yet he wants more and stubbornly opposes the signs; The companions of the right (ashab al-yamin, al-maymana)
     are saved; the companions of the left (al-mash''ama) are damned; The intercession of intercessors
-    will not benefit the damned; no soul has power to help another; Measure for measure: as you have done,
-    so it shall be done to you; your deed returns on your head; You will not will unless God wills; Prophet
-    wraps his face in his mantle on hearing God; An opponent dismisses the revelation as inherited sorcery
-    (sihr yu''thar) or ''only the word of a mortal''; and 6 more.'
+    will not benefit the damned; no soul has power to help another; How many wardens or demons are set
+    over the underworld or hell [shared matter] [divergence between the texts]; You will not will unless
+    God wills; At the judgment the dead state whether they fed the hungry [divergence between the texts];
+    Prophet wraps his face in his mantle on hearing God; and 8 more.'
   basis: reading
 - text: 'Arrival at Sinai, covenant offer and theophany: tagged by Claude (model), reading the Hebrew.'
   basis: reading

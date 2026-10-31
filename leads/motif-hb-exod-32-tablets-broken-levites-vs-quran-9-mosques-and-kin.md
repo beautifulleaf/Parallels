@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Levites kill idolaters including their own kin and are consecrated
-    for it (weight 5.8). Pair score 5.8.'
+    for it (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -38,7 +38,8 @@ evidence:
     children for God''s covenant; Do not take fathers or brothers as allies against faith; love of God
     must outweigh family, wealth, trade and homes; Only those who believe, pray and give alms may maintain
     God''s places of worship; To obey is better than sacrifice; Entrance liturgy: ''Who may dwell on your
-    holy mountain?'' answered by a list of ethical qualifications.'
+    holy mountain?'' answered by a list of ethical qualifications; Loyalty to the lord overrides a listed
+    series of kin: father, mother, son, brother, kinsman.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

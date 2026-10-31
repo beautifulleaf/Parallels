@@ -13,38 +13,38 @@ layers:
 motifs:
 - people-fear-direct-revelation
 - honor-parents-long-life-as-divergence
-- covet-prohibition
-- prohibition-murder-adultery-theft-false-witness-as-divergence
 - prohibition-of-other-gods
-- prohibition-of-images
+- prohibition-murder-adultery-theft-false-witness-as-divergence
 - sabbath-rest
+- prohibition-of-images
 - sins-visited-to-third-fourth-generation
 - ten-commandments
+- covet-prohibition
 - honor-parents-long-life
 - prohibition-murder-adultery-theft-false-witness
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: People fear to hear God directly and ask the prophet to mediate
-    (weight 6.3); Honor father and mother, with the promise of long life [divergence between the texts]
-    (weight 6.0); Prohibition of coveting the neighbor''s wife and property (weight 5.8); Prohibitions
-    of murder, adultery, theft and false witness [divergence between the texts] (weight 5.8); No other
-    gods before YHWH (weight 5.8); Prohibition of carved images or likenesses of anything for worship
-    (weight 5.6); Sabbath rest on the seventh day for all, including servants, animals and strangers (weight
-    5.6); God visits the fathers'' sin on the third and fourth generation, but keeps steadfast love for
-    thousands (weight 5.6); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother, with
-    the promise of long life (weight 5.3); Prohibitions of murder, adultery, theft and false witness (weight
-    5.1). Pair score 62.2.'
+    (weight 7.3); Honor father and mother, with the promise of long life [divergence between the texts]
+    (weight 7.1); No other gods before YHWH (weight 6.8); Prohibitions of murder, adultery, theft and
+    false witness [divergence between the texts] (weight 6.8); Sabbath rest on the seventh day for all,
+    including servants, animals and strangers (weight 6.6); Prohibition of carved images or likenesses
+    of anything for worship (weight 6.6); God visits the fathers'' sin on the third and fourth generation,
+    but keeps steadfast love for thousands (weight 6.5); The Ten Commandments (Decalogue) (weight 6.5);
+    Prohibition of coveting the neighbor''s wife and property (weight 6.2); Honor father and mother, with
+    the promise of long life (weight 5.9); Prohibitions of murder, adultery, theft and false witness (weight
+    5.7). Pair score 72.1.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
-    the texts]; and 3 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch your eyes
+    toward the worldly splendor given to others to test them; and 3 more.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -124,21 +124,21 @@ matches:
       ʿal-hā-ʾădāmāh. Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of
       long life in the land is dropped.'
 - kind: shared
-  label: Prohibition of coveting the neighbor's wife and property
+  label: No other gods before YHWH
   sides:
   - tradition: judaism
     passages:
-    - ref: Exod 20:17
+    - ref: Exod 20:3
       lang: he
-      text: לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ
-        וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
+      text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
   - tradition: judaism
     passages:
-    - ref: Deut 5:21
+    - ref: Deut 5:7
       lang: he
-      text: וְלֹ֥א תַחְמֹ֖ד אֵ֣שֶׁת רֵעֶ֑ךָ וְלֹ֨א תִתְאַוֶּ֜ה בֵּ֣ית רֵעֶ֗ךָ שָׂדֵ֜הוּ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙
-        שׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
-    note: wife listed before house; 'field' added
+      text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+    note: 'Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad ḥarrama llāhu ʿalayhi
+      l-janna. Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself proclaim it (uʿbudū
+      llāha rabbī wa-rabbakum).'
 - kind: shared
   label: Prohibitions of murder, adultery, theft and false witness
   sides:
@@ -175,42 +175,6 @@ matches:
       taqrabū l-fawāḥisha mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum
       fa-ʿdilū wa-law kāna dhā qurbā (just speech even against kin). Theft is absent.'
 - kind: shared
-  label: No other gods before YHWH
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 20:3
-      lang: he
-      text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-  - tradition: judaism
-    passages:
-    - ref: Deut 5:7
-      lang: he
-      text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-    note: 'Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad ḥarrama llāhu ʿalayhi
-      l-janna. Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself proclaim it (uʿbudū
-      llāha rabbī wa-rabbakum).'
-- kind: shared
-  label: Prohibition of carved images or likenesses of anything for worship
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 20:4
-      lang: he
-      text: לֹֽ֣א תַֽעֲשֶׂ֨ה לְךָ֥ פֶ֨סֶל֙ וְכָל תְּמוּנָ֔ה אֲשֶׁ֤ר בַּשָּׁמַ֨יִם֙ מִמַּ֔עַל וַאֲשֶׁ֥ר
-        בָּאָ֖רֶץ מִתָּ֑חַת וַאֲשֶׁ֥ר בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ
-    - ref: Exod 20:5
-      lang: he
-      text: לֹֽא תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תָעָבְדֵ֑ם כִּ֣י אָֽנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֵ֣ל קַנָּ֔א
-        פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל בָּנִ֛ים עַל שִׁלֵּשִׁ֥ים וְעַל רִבֵּעִ֖ים לְשֹׂנְאָֽי
-    note: heaven above, earth below, water under the earth
-  - tradition: judaism
-    passages:
-    - ref: Deut 5:8
-      lang: he
-      text: לֹֽ֣א תַעֲשֶׂ֥ה לְךָ֥ פֶ֨סֶל֙ כָּל תְּמוּנָ֔ה אֲשֶׁ֤ר בַּשָּׁמַ֨יִם֙ מִמַּ֔עַל וַאֲשֶׁ֥ר בָּאָ֖רֶץ
-        מִתָּ֑חַת וַאֲשֶׁ֥ר בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ
-- kind: shared
   label: Sabbath rest on the seventh day for all, including servants, animals and strangers
   sides:
   - tradition: judaism
@@ -238,6 +202,26 @@ matches:
         וּבִתֶּ֣ךָ וְעַבְדְּךָֽ וַ֠אֲמָתֶךָ וְשׁוֹרְךָ֨ וַחֲמֹֽרְךָ֜ וְכָל בְּהֶמְתֶּ֗ךָ וְגֵֽרְךָ֙ אֲשֶׁ֣ר
         בִּשְׁעָרֶ֔יךָ לְמַ֗עַן יָנ֛וּחַ עַבְדְּךָ֥ וַאֲמָתְךָ֖ כָּמֽוֹךָ
     note: so that your slave may rest like you
+- kind: shared
+  label: Prohibition of carved images or likenesses of anything for worship
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:4
+      lang: he
+      text: לֹֽ֣א תַֽעֲשֶׂ֨ה לְךָ֥ פֶ֨סֶל֙ וְכָל תְּמוּנָ֔ה אֲשֶׁ֤ר בַּשָּׁמַ֨יִם֙ מִמַּ֔עַל וַאֲשֶׁ֥ר
+        בָּאָ֖רֶץ מִתָּ֑חַת וַאֲשֶׁ֥ר בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ
+    - ref: Exod 20:5
+      lang: he
+      text: לֹֽא תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תָעָבְדֵ֑ם כִּ֣י אָֽנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֵ֣ל קַנָּ֔א
+        פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל בָּנִ֛ים עַל שִׁלֵּשִׁ֥ים וְעַל רִבֵּעִ֖ים לְשֹׂנְאָֽי
+    note: heaven above, earth below, water under the earth
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:8
+      lang: he
+      text: לֹֽ֣א תַעֲשֶׂ֥ה לְךָ֥ פֶ֨סֶל֙ כָּל תְּמוּנָ֔ה אֲשֶׁ֤ר בַּשָּׁמַ֨יִם֙ מִמַּ֔עַל וַאֲשֶׁ֥ר בָּאָ֖רֶץ
+        מִתָּ֑חַת וַאֲשֶׁ֥ר בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ
 - kind: shared
   label: God visits the fathers' sin on the third and fourth generation, but keeps steadfast love for
     thousands
@@ -281,6 +265,22 @@ matches:
       lang: he
       text: לֹ֥א תִשָּׂ֛א אֶת שֵֽׁם יְהוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהוָ֔ה אֵ֛ת אֲשֶׁר
         יִשָּׂ֥א אֶת שְׁמ֖וֹ לַשָּֽׁוְא
+- kind: shared
+  label: Prohibition of coveting the neighbor's wife and property
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:17
+      lang: he
+      text: לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ
+        וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:21
+      lang: he
+      text: וְלֹ֥א תַחְמֹ֖ד אֵ֣שֶׁת רֵעֶ֑ךָ וְלֹ֨א תִתְאַוֶּ֜ה בֵּ֣ית רֵעֶ֗ךָ שָׂדֵ֜הוּ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙
+        שׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
+    note: wife listed before house; 'field' added
 - kind: shared
   label: Honor father and mother, with the promise of long life
   sides:

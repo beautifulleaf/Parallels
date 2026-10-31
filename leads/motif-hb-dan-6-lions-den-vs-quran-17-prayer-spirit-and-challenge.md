@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer at evening, morning and noon (three fixed times a day) (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Daniel in the lions'' den: The accusers, with their wives and children, are thrown to
-    the lions and crushed before they reach the bottom; God sends his angel and shuts the lions'' mouths
-    so they do not harm the innocent; For thirty days no one may petition any god or man except the king;
-    Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the mouth of the pit and
-    sealed with the king''s signet and those of his nobles; A royal decree written by the law of the Medes
-    and Persians cannot be revoked, even by the king; The king spends a sleepless night fasting, without
-    entertainment, worrying over the hero; The pious kneels on his knees to pray; The faithful prays facing
-    Jerusalem through open windows; Rivals can find no fault in the hero except in the matter of the law
-    of his God; The king appoints 120 satraps over the kingdom with three presidents above them, one of
-    them the hero; The hero is thrown into a pit of lions; and 8 more.'
+    the lions and crushed before they reach the bottom; For thirty days no one may petition any god or
+    man except the king; Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the
+    mouth of the pit and sealed with the king''s signet and those of his nobles; A royal decree written
+    by the law of the Medes and Persians cannot be revoked, even by the king; The king spends a sleepless
+    night fasting, without entertainment, worrying over the hero; The pious kneels on his knees to pray;
+    The faithful prays facing Jerusalem through open windows; Rivals can find no fault in the hero except
+    in the matter of the law of his God; The king appoints 120 satraps over the kingdom with three presidents
+    above them, one of them the hero; The hero is thrown into a pit of lions; God sends his angel and
+    shuts the lions'' mouths so they do not harm the innocent; and 8 more.'
   basis: reading
 - text: 'Only in Near compromise, prayer times, the praised station, the spirit, the challenge and the
     demanded signs (Surah 17:73-100): Were angels walking the earth, God would have sent them an angel
@@ -43,7 +43,7 @@ evidence:
     humans would hold back for fear of spending; Keep vigil (tahajjud) with recitation in part of the
     night as an extra devotion; The prophet may be raised to a ''praised station'' (maqam mahmud), later
     read as intercession; Prayer: ''Lord, make my entrance and my exit true and grant me a helping authority'';
-    Prayer is fixed from the sun''s decline to the dark of night, with the dawn recitation; and 10 more.'
+    Prayer is fixed from the sun''s decline to the dark of night, with the dawn recitation; and 13 more.'
   basis: reading
 - text: 'Daniel in the lions'' den: tagged by Claude (model), reading the Aramaic.'
   basis: reading

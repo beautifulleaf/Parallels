@@ -18,31 +18,33 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God made the sky a protected roof (weight 6.7). Pair score 6.7.'
+- text: 'Shared motifs, rarest first: God made the sky a protected roof (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
     God tends his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God
     brings out the starry host by number and calls each by name; none is missing; God sits enthroned above
-    the circle (hug) of the earth; its inhabitants are like grasshoppers; Those who wait for YHWH renew
-    strength, mount up with wings like eagles, run and not be weary; Nations are like a drop from a bucket
-    and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering; A voice
-    cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for our God'';
-    Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed the mountains
-    in scales?; God made everything grow in due weight and sends it down only in known measure; A double
-    portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole earth
-    is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret Tsiyyon)
-    goes up on a high mountain to announce ''Behold your God!''; and 18 more.'
+    the circle (hug) of the earth; its inhabitants are like grasshoppers; Nations are like a drop from
+    a bucket and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering;
+    A voice cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for
+    our God''; Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed
+    the mountains in scales?; God made everything grow in due weight and sends it down only in known measure;
+    A double portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole
+    earth is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret
+    Tsiyyon) goes up on a high mountain to announce ''Behold your God!''; Satire on the making of idols:
+    craftsman casts, goldsmith overlays, the poor choose wood that will not rot so the idol will not totter;
+    and 18 more.'
   basis: reading
-- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: The heavens and earth
-    were a closed-up mass (ratq) that God split apart (fatq); Man was created of haste; Creation proceeds
-    by dividing (light/darkness, waters above/below); God comes to the land, reducing it from its outlying
-    parts; God made every living thing from water [divergence between the texts]; God gave Moses and Aaron
-    the Criterion (al-furqān), a light and reminder; The heavens and earth were a closed-up mass (ratq)
-    that God split apart (fatq) [divergence between the texts]; ''Let God weigh me in just balances and
-    know my integrity'' [divergence between the texts]; God made every living thing from water; Just scales
-    are set up on the day of resurrection; even a mustard seed''s weight is brought forth; ''Let God weigh
-    me in just balances and know my integrity''; Sun and moon each swim in an orbit (falak); and 4 more.'
+- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: Man was created of
+    haste; A balance set upright / just balances set up for the judgment; God comes to the land, reducing
+    it from its outlying parts; God made every living thing from water [divergence between the texts];
+    Whether a human, such as the flood hero, is granted eternal life; God gave Moses and Aaron the Criterion
+    (al-furqān), a light and reminder; When the gods created mankind they allotted death to them and kept
+    life in their own hands; At the beginning heaven and earth, once together, were separated; The heavens
+    and earth were a closed-up mass (ratq) that God split apart (fatq); The heavens and earth were a closed-up
+    mass (ratq) that God split apart (fatq) [divergence between the texts]; ''Let God weigh me in just
+    balances and know my integrity'' [divergence between the texts]; God made every living thing from
+    water; and 12 more.'
   basis: reading
 - text: 'Comfort my people; a voice in the wilderness; to whom will you liken God: tagged by Claude (model),
     reading the Hebrew.'

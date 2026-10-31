@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God wishes to remove impurity from you, people of the House (ahl
-    al-bayt), and purify you thoroughly (weight 6.7). Pair score 6.7.'
+    al-bayt), and purify you thoroughly (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Fourth vision, the high priest, the satan and the Branch: The high priest''s filthy garments
     are removed and replaced with festal robes and a pure turban, signifying removal of guilt; If faithful,

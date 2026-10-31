@@ -19,18 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The weekly holy day, and whether it rests on God''s rest [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 27 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 27 more.'
   basis: reading
 - text: 'Only in Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for
     death, and the Friday prayer: When they saw trade or amusement they rushed to it and left the prophet
@@ -38,15 +39,15 @@ evidence:
     When the call to prayer is made on Friday (yawm al-jumu''a), hasten to God''s remembrance and leave
     trading; after the prayer disperse and seek God''s bounty; Challenge to the Jews: if you claim to
     be God''s friends apart from others, wish for death, if you are truthful; they never will; The death
-    you flee from will surely meet you; Israel likened to a donkey that knows, or does not understand,
-    what it has [divergence between the texts]; Merchants ask when the new moon and sabbath will be over
-    so they can sell grain with small ephah, big shekel and false scales; God raised among the unlettered
-    (ummiyyun, Gentiles) a messenger from among them, reciting signs, purifying them and teaching the
-    Book and wisdom; Reformer rebukes treading winepresses, loading donkeys and selling fish on the Sabbath;
-    Trade on the weekly holy day [divergence between the texts]; Litany of divine names: King, Holy, Peace,
-    Faithful, Guardian, Mighty, Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful
-    names; Opening formula: whatever is in the heavens and the earth glorifies God (sabbaha / yusabbihu
-    lillah).'
+    or fate a man flees comes after him and meets him [divergence between the texts]; The death you flee
+    from will surely meet you; Israel likened to a donkey that knows, or does not understand, what it
+    has [divergence between the texts]; Merchants ask when the new moon and sabbath will be over so they
+    can sell grain with small ephah, big shekel and false scales; God raised among the unlettered (ummiyyun,
+    Gentiles) a messenger from among them, reciting signs, purifying them and teaching the Book and wisdom;
+    Reformer rebukes treading winepresses, loading donkeys and selling fish on the Sabbath; Trade on the
+    weekly holy day [divergence between the texts]; Litany of divine names: King, Holy, Peace, Faithful,
+    Guardian, Mighty, Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names;
+    and 1 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

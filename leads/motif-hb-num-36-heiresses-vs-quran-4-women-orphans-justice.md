@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The marriage of fatherless girls is tied to their inheritance [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Marriage of heiresses within the tribe; colophon of Numbers: The Jubilee year considered
     in tribal land transfers; Daughters who inherit must marry within their father''s tribe so land does
@@ -31,10 +31,9 @@ evidence:
     may make a settlement with him; settlement is best; Whether separation of spouses is allowed or hated
     by God [contrast between the texts]; Form: ''They ask you for a ruling (yastaftūnaka); say: God gives
     you a ruling''; Do not leave a wife ''suspended'' (kal-muʿallaqa), neither married nor free; Stand
-    firm for justice as witnesses for God even against yourselves, parents and kin, rich or poor; Judge
-    fairly, favoring neither the poor nor the great; Guardians must keep orphans'' property intact and
-    hand it over when they come of age; If God wills he takes you away and brings another people in your
-    place.'
+    firm for justice as witnesses for God even against yourselves, parents and kin, rich or poor; Guardians
+    must keep orphans'' property intact and hand it over when they come of age; Judge fairly, favoring
+    neither the poor nor the great; If God wills he takes you away and brings another people in your place.'
   basis: reading
 - text: 'Marriage of heiresses within the tribe; colophon of Numbers: tagged by Claude (model), reading
     the Hebrew.'

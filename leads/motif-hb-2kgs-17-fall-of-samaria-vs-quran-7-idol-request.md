@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After crossing the sea the people see idol-worshipers and ask the
-    prophet for a god like theirs (weight 6.3); People make a molten calf while the leader is on the mountain
-    (weight 4.7). Pair score 11.0.'
+    prophet for a god like theirs (weight 7.3); People make a molten calf while the leader is on the mountain
+    (weight 5.8). Pair score 13.1.'
   basis: reading
 - text: 'Only in Fall of Samaria and the sermon on Israel''s exile: God warned the people by all his prophets
     and seers, ''Turn from your evil ways'', but they would not listen; Vassal king withholds tribute
-    and seeks help from Egypt, and is imprisoned; Kings or people practice divination (qesem) and augury
-    (nihush); A capital city is besieged for three years before it falls; Theological sermon explaining
+    and seeks help from Egypt, and is imprisoned; A capital city is besieged for three years before it
+    falls; Kings or people practice divination (qesem) and augury (nihush); Theological sermon explaining
     the fall and exile of a nation as punishment for idolatry; Formula: he did not depart from the sins
     of Jeroboam son of Nebat who made Israel sin; God calls Israel a stiff-necked people; King makes his
     son ''pass through the fire'' after the abominations of the nations; Idols called ''elilim'' (''nothings'');
-    People bow down to all the host of heaven; An Assyrian king named in the narrative (Pul, Tiglath-pileser,
-    Shalmaneser, Sennacherib, Esarhaddon); Conquered population deported to Assyria or another distant
-    land; and 1 more.'
+    An Assyrian king named in the narrative (Pul, Tiglath-pileser, Shalmaneser, Sennacherib, Esarhaddon);
+    People bow down to all the host of heaven; Pagan worship on high mountains, hills and under every
+    green tree; and 1 more.'
   basis: reading
 - text: 'Only in Israel asks for a god like the idol-worshipers: Israel asks its leader to make them a
     god [divergence between the texts]; People demand a king ''like all the nations''; Israel chosen as

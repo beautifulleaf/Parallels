@@ -19,18 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God, or the gods, eat the offerings [contrast between the
-    texts] (weight 6.7). Pair score 6.7.'
+    texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 30 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; God nursed Israel with honey from the rock and oil from flint; and 30 more.'
   basis: reading
 - text: 'Only in The sky expanding, all things in pairs, ''flee to God'', and jinn and humans created
     to worship: Of everything God created pairs (zawjayn); ''So flee to God; I am to you a clear warner
@@ -38,10 +37,12 @@ evidence:
     The wrongdoers have a portion (dhanub, a bucketful) of punishment like that of their fellows; Fleeing
     from God, or to God [divergence between the texts]; What God created humans, or his people, for [divergence
     between the texts]; God built the sky with might (bi-aydin) and is expanding it (inna la-musi''un);
+    The deity declines the mortal''s gifts of food or offerings [neutral] [divergence between the texts];
     God made the earth a cradle (mahd) or bed and laid out paths in it; No messenger came to earlier peoples
     without being called ''a sorcerer or a madman'', as if they had bequeathed the charge to one another;
-    God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of bulls
-    or drink the blood of goats?''; God alone stretches out the heavens.'
+    Whether the deity is hungry and thirsty and is fed by worshippers [response between the texts]; God
+    does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of bulls or
+    drink the blood of goats?''; and 2 more.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

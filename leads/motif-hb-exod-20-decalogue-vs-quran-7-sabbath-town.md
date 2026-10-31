@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sabbath rest on the seventh day for all, including servants, animals
-    and strangers (weight 5.6). Pair score 5.6.'
+    and strangers (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
-    the texts]; and 13 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch your eyes
+    toward the worldly splendor given to others to test them; and 13 more.'
   basis: reading
 - text: 'Only in The Sabbath-breaking seaside town turned into apes: Fish come openly to a seaside town
     on the Sabbath but not on other days, as a test; Transgressors are turned into despised apes; God

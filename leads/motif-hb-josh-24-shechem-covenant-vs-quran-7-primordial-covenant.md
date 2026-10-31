@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people are made witnesses against themselves to their choice
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
@@ -35,11 +35,13 @@ evidence:
     Jacob in addition as an extra gift (nāfila) [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in The primordial covenant ("Am I not your Lord?"): God takes all Adam''s descendants from
-    their loins and makes them testify ''Am I not your Lord?'' (''Yes''); Covenant made with those present
-    and with those not here today; Covenant made with those present and with those not here today [divergence
-    between the texts]; The covenant is made with those alive today, not only with the fathers; No one
-    may excuse himself on judgment day because his ancestors associated partners; Unbelievers defend their
-    practice as what they found their fathers doing.'
+    their loins and makes them testify ''Am I not your Lord?'' (''Yes''); A covenant is framed so that
+    the bound party cannot later say ''I did not know''; Covenant made with those present and with those
+    not here today [divergence between the texts]; The covenant is made with those alive today, not only
+    with the fathers; No one may excuse himself on judgment day because his ancestors associated partners;
+    Covenant made with those present and with those not here today; An oath or covenant that binds descendants
+    not yet born [divergence between the texts]; Unbelievers defend their practice as what they found
+    their fathers doing.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged
     by Claude (model), reading the Hebrew.'

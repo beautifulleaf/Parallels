@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sin of Sodom was pride, surfeit of bread and careless ease,
-    not strengthening the hand of the poor and needy (weight 6.3); The men of Sodom are exceedingly wicked
-    (weight 5.2). Pair score 11.5.'
+    not strengthening the hand of the poor and needy (weight 7.3); The men of Sodom are exceedingly wicked
+    (weight 6.2). Pair score 13.6.'
   basis: reading
 - text: 'Only in Like mother like daughter; Sodom and Samaria her sisters; the everlasting covenant: When
     God atones for her she will remember, be ashamed and never again open her mouth; Proverb ''like mother,

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How far a spoken oath or vow binds [contrast between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Vows of men and women: Silence on hearing counts as confirmation; Vows of a widow or
     divorced woman stand on their own; Father or husband may annul a woman''s vow on the day he hears
@@ -34,7 +34,7 @@ evidence:
     during the waiting period but no secret promise or contract until it ends; Oath of abstention from
     wives (ila''): a four-month waiting period; In fear, pray on foot or riding; Divorced women are due
     a provision (mut''a) according to the husband''s means; After a third divorce she may not return to
-    the first husband until she marries another; and 12 more.'
+    the first husband until she marries another; and 14 more.'
   basis: reading
 - text: 'Vows of men and women: tagged by Claude (model), reading the Hebrew.'
   basis: reading

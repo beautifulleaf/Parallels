@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angels and the Spirit (al-ruh) ascend to God by stairways (ma''arij);
-    God is ''Lord of the ascending ways'' (weight 6.7). Pair score 6.7.'
+    God is ''Lord of the ascending ways'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jacob''s dream at Bethel: God promises to be with the traveler and bring him back; Hero
     sleeps with a stone under his head at a holy place; A standing stone (matsevah) set up and anointed
     with oil; Hero vows that if God protects and provides for him, he will worship and tithe; Hero vows
     that if God protects and provides for him, he will worship and tithe [divergence between the texts];
-    Dream of a ladder or stairway reaching heaven with angels ascending and descending; A place recognized
-    as the house of God and gate of heaven; A ladder (sullam / sullām) reaching from earth to heaven;
-    A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts]; A tenth of
-    everything given to a priest; Luz renamed Bethel, ''house of God''; All families of the earth will
-    be blessed through the patriarch; and 2 more.'
+    A place recognized as the house of God and gate of heaven; A ladder (sullam / sullām) reaching from
+    earth to heaven [divergence between the texts]; A tenth of everything given to a priest; A ladder
+    (sullam / sullām) reaching from earth to heaven; Luz renamed Bethel, ''house of God''; Dream of a
+    ladder or stairway reaching heaven with angels ascending and descending; All families of the earth
+    will be blessed through the patriarch; and 2 more.'
   basis: reading
 - text: 'Only in The ascending stairways: the day of fifty thousand years and the steadfast worshippers:
     A day whose measure is fifty thousand years, during which angels and the Spirit ascend to God; The
@@ -38,13 +38,12 @@ evidence:
     be like molten metal or dregs of oil (muhl); The faithful guard their private parts except with their
     wives or those their right hands possess; beyond that is transgression; In the wealth of the righteous
     is a known right (haqq ma''lum) for the beggar and the deprived; God is able to replace a people with
-    others better than they, and none can outrun him; On the day no friend asks after friend; a man flees
-    his brother, mother, father, wife and sons, each wholly occupied with himself; On the day the mountains
-    will be like (carded, dyed) wool (''ihn); No man can ransom his brother or give God a ransom (kofer)
-    for him; the redemption of life is too costly [divergence between the texts]; Catalogue of the righteous
-    man: no eating on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns
-    pledges, feeds the hungry, clothes the naked, no interest; A thousand years in God''s sight are like
-    yesterday when it passes, or a watch in the night [divergence between the texts]; and 5 more.'
+    others better than they, and none can outrun him; Under the coming calamity the bonds of father, son,
+    brother and friend give way [shared matter] [divergence between the texts]; On the day no friend asks
+    after friend; a man flees his brother, mother, father, wife and sons, each wholly occupied with himself;
+    A ladder (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral]; Messengers go up and
+    down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij); On the day the
+    mountains will be like (carded, dyed) wool (''ihn); and 11 more.'
   basis: reading
 - text: 'Jacob''s dream at Bethel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

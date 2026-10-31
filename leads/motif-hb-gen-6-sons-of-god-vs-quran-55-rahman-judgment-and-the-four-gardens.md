@@ -19,12 +19,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Maidens of restrained glance whom no man or jinn has touched before
-    them, like rubies and coral (weight 6.7). Pair score 6.7.'
+    them, like rubies and coral (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Sons of God, daughters of men, and the Nephilim: God limits human lifespan to 120 years;
-    Those called God''s offspring are rather honored servants who do not speak before him [response between
-    the texts]; Giants or heroes (Nephilim) born from divine-human unions; Divine beings take human women
-    as wives; Whether God has, begets or takes sons or other offspring [contrast between the texts].'
+- text: 'Only in Sons of God, daughters of men, and the Nephilim: Those called God''s offspring are rather
+    honored servants who do not speak before him [response between the texts]; God limits human lifespan
+    to 120 years; Divine beings take human women as wives; Giants or heroes (Nephilim) born from divine-human
+    unions; Whether God has, begets or takes sons or other offspring [contrast between the texts].'
   basis: reading
 - text: 'Only in Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs
     of gardens with secluded maidens: The damned go round between Gehenna and seething boiling water;
@@ -36,8 +36,7 @@ evidence:
     attend to you, O two weighty ones (al-thaqalan)''; Doxology: ''Blessed be the name of your Lord, possessor
     of majesty and honor''; Reclining on couches lined with brocade, with the fruit of the gardens hanging
     near; The text addresses jinn and humans together in the dual (''you two'', al-thaqalan, ''the two
-    weighty ones''); The guilty are known by their marks and seized by the forelocks and the feet; and
-    5 more.'
+    weighty ones''); Favour is repaid with favour (goodness with goodness); and 8 more.'
   basis: reading
 - text: 'Sons of God, daughters of men, and the Nephilim: tagged by Claude (model), reading the Hebrew.'
   basis: reading

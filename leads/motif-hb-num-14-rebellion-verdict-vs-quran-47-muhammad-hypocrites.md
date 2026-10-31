@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God wills he takes you away and brings another people in your
-    place (weight 4.9). Pair score 4.9.'
+    place (weight 6.0). Pair score 6.0.'
   basis: reading
-- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Intercessor argues the
-    nations would say God was unable; Those who slandered the land die by plague; People have tested God
-    ''ten times''; Forty years of wandering, a year for each day of scouting [divergence between the texts];
-    God threatens to destroy a people and put another in its place [divergence between the texts]; Two
-    faithful spies dissent from the majority [divergence between the texts]; People ordered to fight complain
-    to God and wish to be spared the battle; People attack without God''s ark or leader and are routed;
-    After the people''s rebellion the prophet intercedes for them or asks to be separated from them [divergence
-    between the texts]; People propose appointing a leader to go back to Egypt; Caleb has ''another spirit''
-    and follows God fully; God offers to destroy the people and make a nation of the hero instead; and
-    10 more.'
+- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Those who slandered the
+    land die by plague; People have tested God ''ten times''; Intercessor argues the nations would say
+    God was unable; Forty years of wandering, a year for each day of scouting [divergence between the
+    texts]; God threatens to destroy a people and put another in its place [divergence between the texts];
+    Two faithful spies dissent from the majority [divergence between the texts]; People ordered to fight
+    complain to God and wish to be spared the battle; People attack without God''s ark or leader and are
+    routed; After the people''s rebellion the prophet intercedes for them or asks to be separated from
+    them [divergence between the texts]; People propose appointing a leader to go back to Egypt; Caleb
+    has ''another spirit'' and follows God fully; God offers to destroy the people and make a nation of
+    the hero instead; and 10 more.'
   basis: reading
 - text: 'Only in The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God
     rich, you poor: Would you, if you turned away, cause corruption on earth and sever your ties of kinship

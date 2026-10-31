@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sky torn open for a descent from heaven [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Remembering the days of Moses - O that you would rend the heavens: No ear has heard and
     no eye has seen any God besides you who acts for those who wait for him; In all their affliction he
@@ -43,8 +43,8 @@ evidence:
     wishing he had not taken so-and-so as a friend; When the damned are cast in they hear hell gasping/roaring
     as it boils, nearly bursting with rage; A request to see God, by the prophet or by the people [contrast
     between the texts]; The sky splits and is frail that day, and the angels are on its borders; Earlier
-    messengers were only men who ate food and were not immortal; The wicked are like chaff driven by the
-    wind; and 1 more.'
+    messengers were only men who ate food and were not immortal; The wrongdoer''s works are carried off
+    by the wind and reckoned as nothing (a breath; and 3 more.'
   basis: reading
 - text: 'Remembering the days of Moses - O that you would rend the heavens: tagged by Claude (model),
     reading the Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Forbidden food is permitted to one compelled by necessity, without
-    desire or transgression (weight 5.8). Pair score 5.8.'
+    desire or transgression (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in David at Nob (showbread and Goliath''s sword) and feigning madness at Gath: Hero feigns
     madness before a foreign king, scratching the gate and drooling on his beard; Priest gives the consecrated

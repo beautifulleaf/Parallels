@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the dead say when they wake from the dust [divergence between
-    the texts] (weight 6.7); Your dead shall live, their corpses rise; dwellers in the dust shall awake
-    and sing (weight 4.9). Pair score 11.6.'
+    the texts] (weight 7.7); Your dead shall live, their corpses rise; dwellers in the dust shall awake
+    and sing (weight 6.0). Pair score 13.7.'
   basis: reading
 - text: 'Only in Song of the strong city; your dead shall live: Other lords ruled us; they are dead, they
     will not live; shades (rephaim) will not rise; their memory is wiped out; God''s dew is a ''dew of
@@ -31,10 +31,10 @@ evidence:
     but gave birth only to wind; we brought no salvation to the earth; God keeps the steadfast mind in
     perfect peace (shalom shalom) because it trusts in him; ''My soul yearns for you in the night; my
     spirit within me seeks you at dawn''; ''We have a strong city... Open the gates that the righteous
-    nation that keeps faith may enter''; In Yah YHWH is an everlasting rock (tsur olamim); On God''s day
-    all that is lofty (cedars of Lebanon, oaks of Bashan, towers, ships of Tarshish) is brought low and
-    God alone exalted; The Gardens of Eden have their gates opened for the righteous; God lets the people
-    discover the sleepers so they know his promise of resurrection is true; and 6 more.'
+    nation that keeps faith may enter''; In Yah YHWH is an everlasting rock (tsur olamim); The Gardens
+    of Eden have their gates opened for the righteous; God lets the people discover the sleepers so they
+    know his promise of resurrection is true; Victim''s blood cries out from the ground to God; and 6
+    more.'
   basis: reading
 - text: 'Only in The trumpet, the sleepers raised, the Garden and the witnessing limbs: The people of
     the Garden recline with their spouses in shade on couches (ara''ik), with fruit and whatever they
@@ -45,9 +45,9 @@ evidence:
     the last day, and whom it gathers [divergence between the texts]; The prophet heard or dismissed as
     a poet or singer [divergence between the texts]; The resurrected cry ''Woe to us, who has raised us
     from our sleeping place (marqad)?''; If God willed he would blot out their eyes or transform them
-    (maskh) in their places so they could neither go on nor return; On judgment day tongues, hands and
-    feet testify against people; No host from heaven was needed: a single Shout (sayha) and they were
-    extinguished; and 1 more.'
+    (maskh) in their places so they could neither go on nor return; The dead wake in their resting place
+    [divergence between the texts]; On judgment day tongues, hands and feet testify against people; and
+    3 more.'
   basis: reading
 - text: 'Song of the strong city; your dead shall live: tagged by Claude (model), reading the Hebrew.'
   basis: reading

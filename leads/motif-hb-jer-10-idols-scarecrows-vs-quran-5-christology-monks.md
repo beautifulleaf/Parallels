@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 5.8).
-    Pair score 5.8.'
+- text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 6.8).
+    Pair score 6.8.'
   basis: reading
 - text: 'Only in Idols like scarecrows in a cucumber field: Do not learn the way of the nations or be
     dismayed by the signs of the heavens, at which the nations are dismayed; Idols are like a scarecrow

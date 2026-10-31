@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No burdened soul bears another''s burden; even a relative will not
-    carry any of it (weight 5.8). Pair score 5.8.'
+    carry any of it (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Sour grapes - individual responsibility and repentance: Exhortation: cast away your transgressions
     and make yourselves a new heart and a new spirit; why will you die?; Test case of three generations:
@@ -28,14 +28,14 @@ evidence:
     Whether one person can carry another''s sin [divergence between the texts]; No one may excuse himself
     on judgment day because his ancestors associated partners; If the wicked turns from his sins, none
     of his transgressions will be remembered; if the righteous turns away, his righteousness is forgotten;
-    Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual intercourse,
-    no oppression, returns pledges, feeds the hungry, clothes the naked, no interest; Proverb ''The fathers
-    have eaten sour grapes and the children''s teeth are set on edge'', abolished by God; Whether repentance
-    has a time limit [divergence between the texts]; People complain ''the way of the Lord is not fair'';
-    God answers that it is their ways that are unfair; God does not desire the death of the wicked but
-    that he turn from his way and live; A cloak taken in pledge must be returned before sunset; ''The
-    soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father the son''s;
-    and 4 more.'
+    Proverb ''The fathers have eaten sour grapes and the children''s teeth are set on edge'', abolished
+    by God; Whether repentance has a time limit [divergence between the texts]; People complain ''the
+    way of the Lord is not fair''; God answers that it is their ways that are unfair; God does not desire
+    the death of the wicked but that he turn from his way and live; Catalogue of the righteous man: no
+    eating on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns pledges,
+    feeds the hungry, clothes the naked, no interest; ''The soul that sins, it shall die'': the son does
+    not bear the father''s iniquity nor the father the son''s; Whoever does good does it for his own soul;
+    whoever does evil, it is against it; and 4 more.'
   basis: reading
 - text: 'Only in Al-Lat, al-''Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses;
     the Lord of Sirius: The three goddesses al-Lat, al-''Uzza and Manat, ''the third, the other'', named
@@ -47,7 +47,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 15 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 19 more.'
   basis: reading
 - text: 'Sour grapes - individual responsibility and repentance: tagged by Claude (model), reading the
     Hebrew.'

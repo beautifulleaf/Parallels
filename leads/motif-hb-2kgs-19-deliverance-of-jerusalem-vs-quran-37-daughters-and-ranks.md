@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When the punishment descends in their courtyard, evil will be the
-    morning of those who were warned (weight 6.7). Pair score 6.7.'
+    morning of those who were warned (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter:
     The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses; The arrogant
@@ -27,21 +27,22 @@ evidence:
     Proverb of crisis: children have come to the birth-stool and there is no strength to deliver; God
     defends the city for his own sake and for the sake of David his servant [divergence between the texts];
     God says the conqueror''s victories were planned by him long ago; the conqueror is only his instrument;
-    The king tears his clothes, puts on sackcloth and goes into the temple in crisis; The enemy is said
-    to reproach (harref) ''the living God''; Royal parricides flee to the land of Ararat; The escaped
-    remnant shall again take root downward and bear fruit upward; a remnant goes out from Zion; God puts
-    a spirit in the invader so that he hears a rumor and returns home; King spreads the enemy''s threatening
-    letter before God in the temple; Sign: this year eat aftergrowth, next year what springs of itself,
-    the third year sow and reap; and 9 more.'
+    The king tears his clothes, puts on sackcloth and goes into the temple in crisis; Royal parricides
+    flee to the land of Ararat; The escaped remnant shall again take root downward and bear fruit upward;
+    a remnant goes out from Zion; God puts a spirit in the invader so that he hears a rumor and returns
+    home; King spreads the enemy''s threatening letter before God in the temple; Sign: this year eat aftergrowth,
+    next year what springs of itself, the third year sow and reap; The ''virgin daughter of Zion'' laughs
+    at and wags her head after the enemy; and 9 more.'
   basis: reading
 - text: 'Only in Daughters of God denied; the angels'' stations; closing doxology: Idolaters claim a kinship
     (nasab) between God and the jinn; the jinn know they will be brought to judgment; The angels say:
     each of us has a known station; we are ranged in ranks; we glorify; Closing doxology: glory to your
     Lord, Lord of might, above what they describe; peace on the messengers; praise to God, Lord of the
-    worlds; A closing doxology and the divine title it uses [divergence between the texts]; Whether God
-    has, begets or takes sons or other offspring [contrast between the texts]; Polemic against assigning
-    daughters to God (the angels as females) while preferring sons for themselves; Scoffers ask the prophet
-    to hasten the punishment; it is held back only by an appointed term and will come suddenly.'
+    worlds; Whether the divine attendants (heralds [divergence between the texts]; A closing doxology
+    and the divine title it uses [divergence between the texts]; Whether God has, begets or takes sons
+    or other offspring [contrast between the texts]; Polemic against assigning daughters to God (the angels
+    as females) while preferring sons for themselves; Scoffers ask the prophet to hasten the punishment;
+    it is held back only by an appointed term and will come suddenly.'
   basis: reading
 - text: 'Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter: tagged by
     Claude (model), reading the Hebrew.'

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not change a favor he gave a people until they change what
-    is in themselves (weight 6.3). Pair score 6.3.'
+    is in themselves (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in At the potter''s house - conditional prophecy: If a nation God threatened turns from
     evil he relents of the evil; if a nation he promised to build does evil he relents of the good; The
@@ -31,9 +31,10 @@ evidence:
     clay and you are our potter; we are all the work of your hand''; God relents from the evil he planned.'
   basis: reading
 - text: 'Only in Angels at the death of unbelievers; the custom of Pharaoh''s people: Unbelievers follow
-    ''the custom of Pharaoh''s people'' and those before them; Angels take the souls of unbelievers striking
-    their faces and backs; ''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays
-    a man according to his deeds; The returning waters drown the pursuing army; not one survives.'
+    ''the custom of Pharaoh''s people'' and those before them; Fierce messengers sent to fetch the evildoers
+    at death [divergence between the texts]; Angels take the souls of unbelievers striking their faces
+    and backs; ''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
+    to his deeds; The returning waters drown the pursuing army; not one survives.'
   basis: reading
 - text: 'At the potter''s house - conditional prophecy: tagged by Claude (model), reading the Hebrew.'
   basis: reading

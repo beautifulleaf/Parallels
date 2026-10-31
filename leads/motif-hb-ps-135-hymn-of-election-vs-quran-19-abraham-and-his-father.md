@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Psalm 135, hymn on God''s power, election and the idols: Whatever YHWH pleases he does,
     in heaven, on earth, in the seas and all the deeps; God struck the firstborn of Egypt, of man and
@@ -40,10 +40,10 @@ evidence:
     a lofty ''tongue of truth'' (lasting renown); Worshipping idols is worshipping Satan, who rebelled
     against the Merciful; Abraham withdraws from his people and their gods and is given descendants [divergence
     between the texts]; The idolatrous father threatens to stone his son and banishes him [contrast between
-    the texts]; Isaac given, and Jacob in addition as an extra gift (nāfila); Isaac given, and Jacob in
-    addition as an extra gift (nāfila) [divergence between the texts]; Refrain ''And mention in the Book
-    ...'' introducing a series of prophet portraits; Abraham prayed for his father''s forgiveness only
-    by a promise, and disowned him when he proved God''s enemy; and 1 more.'
+    the texts]; The good man''s name endures in the mouths of later people; Isaac given, and Jacob in
+    addition as an extra gift (nāfila); Having eyes that do not see and ears that do not hear, said of
+    idols or of people; Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between
+    the texts]; and 3 more.'
   basis: reading
 - text: 'Psalm 135, hymn on God''s power, election and the idols: tagged by Claude (model), reading the
     Hebrew.'

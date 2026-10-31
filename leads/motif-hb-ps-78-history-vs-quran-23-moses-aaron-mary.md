@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness,
-    conquest) as instruction or praise (weight 5.6). Pair score 5.6.'
+    conquest) as instruction or praise (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unbelievers defend their practice as what they found their fathers
-    doing (weight 5.1). Pair score 5.1.'
+    doing (weight 6.1). Pair score 6.1.'
   basis: reading
 - text: 'Only in The Judeans in Egypt defend their cult of the Queen of Heaven: Worshipers argue their
     goddess cult brought plenty and abandoning it brought disaster; Women bake cakes bearing the image
@@ -30,8 +30,8 @@ evidence:
     Hophra will be handed over to those who seek his life; Events will show whose word will stand, God''s
     or the people''s; The wickedness of the kings of Judah and of their wives; Women burn incense to a
     goddess, claiming they did so with their husbands'' knowledge; Opponents refuse the prophet: ''We
-    found our fathers on a way and follow in their footsteps''; Offerings, incense and libations to the
-    ''Queen of Heaven''; and 2 more.'
+    found our fathers on a way and follow in their footsteps''; God sends his messengers ''rising early
+    and sending'' out of compassion; and 2 more.'
   basis: reading
 - text: 'Only in Questions not to ask; the freed camels of the pagans: Do not ask about things which,
     if made plain, would trouble you; a people before you asked and disbelieved; God did not institute

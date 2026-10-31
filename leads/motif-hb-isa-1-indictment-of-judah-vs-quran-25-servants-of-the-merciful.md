@@ -20,32 +20,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Though sins be like scarlet they shall be white as snow; though
-    red as crimson, like wool (weight 6.7). Pair score 6.7.'
+    red as crimson, like wool (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: City or
     people given a new name in the future age (e.g. ''City of Righteousness'', ''Hephzibah''); The faithful
     city has become a harlot; silver turned to dross, wine diluted with water; Worshippers shamed by the
-    sacred oaks (elim) and gardens they chose; God will smelt away the dross of his people as in a furnace
-    to purify them; Daughter Zion left alone like a booth in a vineyard, a hut in a cucumber field, a
-    besieged city; Nation pictured as a body beaten from sole of foot to head, with untended wounds and
-    sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey at the end; Israel likened
-    to a donkey that knows, or does not understand, what it has [divergence between the texts]; Prophet
-    addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; In Lot''s town only one house of
-    submitters (muslimin) was found, and the believers were brought out; Ox knows its owner and the ass
-    its master''s crib, but Israel does not know (animals wiser than God''s people); Book or oracle opens
-    with a heading naming the prophet, his father and the kings in whose days he saw the vision; and 12
-    more.'
+    sacred oaks (elim) and gardens they chose; Daughter Zion left alone like a booth in a vineyard, a
+    hut in a cucumber field, a besieged city; Nation pictured as a body beaten from sole of foot to head,
+    with untended wounds and sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey
+    at the end; Israel likened to a donkey that knows, or does not understand, what it has [divergence
+    between the texts]; Prophet addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; In
+    Lot''s town only one house of submitters (muslimin) was found, and the believers were brought out;
+    Book or oracle opens with a heading naming the prophet, his father and the kings in whose days he
+    saw the vision; God''s people as sons he reared who rebelled against him; God will smelt away the
+    dross of his people as in a furnace to purify them; and 12 more.'
   basis: reading
 - text: 'Only in The virtues of the servants of the Merciful: For the repentant God changes their evil
     deeds into good deeds; Prayer: grant us from our spouses and offspring the comfort of our eyes; When
     they spend they are neither extravagant nor stingy, but in between; The righteous spend the night
     prostrating and standing before their Lord; The righteous are rewarded with the lofty chamber (al-ghurfa)
     and greeted with peace; The servants of the Merciful walk humbly on the earth and answer the ignorant
-    with ''Peace''; Your wife a fruitful vine in the recesses of your house, your children like olive
-    shoots around your table; Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer
-    a fool according to his folly''; What God requires: to do justice, love hesed and walk humbly with
-    your God; Prohibitions of murder, adultery, theft and false witness [divergence between the texts];
-    Prohibitions of murder, adultery, theft and false witness.'
+    with ''Peace''; Do not bear false witness (mtr n mdw n ʿḏꜣ / shahādat al-zūr); When the ignorant or
+    weak man disputes with you, do not engage him: leave him; Your wife a fruitful vine in the recesses
+    of your house, your children like olive shoots around your table; What God requires: to do justice,
+    love hesed and walk humbly with your God; Contradictory pair: ''Do not answer a fool according to
+    his folly'' / ''Answer a fool according to his folly''; Prohibitions of murder, adultery, theft and
+    false witness [divergence between the texts]; and 1 more.'
   basis: reading
 - text: 'Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: tagged by Claude
     (model), reading the Hebrew.'

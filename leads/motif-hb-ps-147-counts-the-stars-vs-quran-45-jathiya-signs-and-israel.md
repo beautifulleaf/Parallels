@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel given God''s law, as a unique gift or followed by a later
-    law [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    law [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 147, builder of Jerusalem, counter of stars, giver of snow: God counts the number
     of the stars and calls them all by name; God heals the brokenhearted and binds up their wounds; God
@@ -27,8 +27,8 @@ evidence:
     statutes to Jacob; he has not done so for any other nation; God''s word runs swiftly; he gives snow
     like wool, scatters frost like ashes, casts his ice like crumbs; his word melts them; God provides
     prey for the lion and food for the raven''s young that cry to him; God visits the earth with rain,
-    softens it with showers, and crowns the year with harvest; God will gather the exiles even from the
-    end of heaven and restore them; The cultic cry ''Hallelu-Yah'' (praise Yah) closes or opens a psalm.'
+    softens it with showers, and crowns the year with harvest; The cultic cry ''Hallelu-Yah'' (praise
+    Yah) closes or opens a psalm; God will gather the exiles even from the end of heaven and restore them.'
   basis: reading
 - text: 'Only in Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a: God
     has subjected (sakhkhara) to humans the sea and all that is in the heavens and on the earth; Believers
@@ -39,8 +39,8 @@ evidence:
     out of rivalry (baghy) among themselves; How much of creation is put under man''s rule or use [divergence
     between the texts]; Woe to every sinful liar who hears God''s signs recited, persists in arrogance
     as if he had not heard, and takes them in mockery; Formula: the sending down of the Book (tanzil al-kitab)
-    is from God, the Mighty, the Wise/Knowing; Vengeance and recompense are mine; Whoever does good does
-    it for his own soul; whoever does evil, it is against it; Humans given rule over animals; Catalogue
+    is from God, the Mighty, the Wise/Knowing; Whoever does good does it for his own soul; whoever does
+    evil, it is against it; Vengeance and recompense are mine; Humans given rule over animals; Catalogue
     of signs: heavens and earth, alternation of night and day, ships, rain reviving dead earth, beasts,
     winds, clouds; and 2 more.'
   basis: reading

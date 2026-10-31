@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Cities overturned (hafakh) and the plain destroyed (weight 5.6).
-    Pair score 5.6.'
+- text: 'Shared motifs, rarest first: Cities overturned (hafakh) and the plain destroyed (weight 6.6).
+    Pair score 6.6.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -44,7 +44,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 15 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 19 more.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

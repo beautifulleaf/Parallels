@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 6.0). Pair
-    score 6.0.'
+- text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 7.1). Pair
+    score 7.1.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas vav to kaf: ''It is good for me that I was afflicted, so that I might
     learn your statutes''; The arrogant have hearts gross (unfeeling) as fat; Speaker has become like
@@ -28,9 +28,9 @@ evidence:
     fine gold; Psalm in 22 stanzas of eight lines, every line of a stanza beginning with the same letter,
     each line naming the Torah; God is the speaker''s portion (heleq) forever, more than anything in heaven
     or earth; The believers'' sides forsake their beds as they call on their Lord in fear and hope (night
-    vigil); God formed the kidneys and wove (knit) the speaker in his mother''s womb; Lifting the hands
-    (palms) in prayer or blessing; God''s commandments or Torah are the speaker''s delight (sha''ashu''im);
-    and 1 more.'
+    vigil); God''s commandments or Torah are the speaker''s delight (sha''ashu''im); God formed the kidneys
+    and wove (knit) the speaker in his mother''s womb; Those who dig a pit or spread a net for the righteous
+    fall into it themselves; and 1 more.'
   basis: reading
 - text: 'Only in Hold fast to the rope of God: ''You are the best community brought forth for mankind'';
     You were on the brink of a pit of fire and God rescued you; When alone they bite their fingertips
@@ -38,10 +38,11 @@ evidence:
     Spending of unbelievers is like an icy wind that destroys the tillage of a wrongdoing people; A community
     that enjoins the good and forbids the evil (al-amr bil-ma''ruf); Humiliation is stamped on them wherever
     found except under a rope from God and a rope from men; God will give his people one heart and one
-    way to fear him always; The wicked sees the righteous exalted, gnashes his teeth and melts away; On
-    the day some faces turn white and some turn black; Hypocrites profess faith before believers and tell
-    their own ''devils'' in private they were only mocking; Among the People of the Book an upright community
-    recites God''s signs through the night and prostrates; and 2 more.'
+    way to fear him always; The wicked sees the righteous exalted, gnashes his teeth and melts away; Hypocrites
+    profess faith before believers and tell their own ''devils'' in private they were only mocking; Among
+    the People of the Book an upright community recites God''s signs through the night and prostrates;
+    On the day of wrath people fling their silver into the streets; silver and gold cannot save them;
+    and 2 more.'
   basis: reading
 - text: 'Psalm 119, stanzas vav to kaf: tagged by Claude (model), reading the Hebrew.'
   basis: reading

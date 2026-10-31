@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God wills he takes you away and brings another people in your
-    place (weight 4.9). Pair score 4.9.'
+    place (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Found by those who did not seek; rebels and servants: As one says of a grape cluster
     with juice ''Do not destroy it, there is blessing in it'', so God spares a remnant for his servants''

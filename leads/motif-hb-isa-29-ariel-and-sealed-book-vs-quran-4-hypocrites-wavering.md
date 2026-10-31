@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hypocrites try to deceive God, but it is he who deceives them
-    (weight 6.3); This people honors God with lips while its heart is far; its fear of him is a commandment
-    of men learned by rote (weight 6.0). Pair score 12.3.'
+    (weight 7.3); This people honors God with lips while its heart is far; its fear of him is a commandment
+    of men learned by rote (weight 7.1). Pair score 14.4.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be

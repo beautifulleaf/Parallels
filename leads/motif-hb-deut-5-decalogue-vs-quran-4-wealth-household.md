@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibition of coveting the neighbor''s wife and property (weight
-    5.8); Prohibitions of murder, adultery, theft and false witness (weight 5.1). Pair score 10.9.'
+    6.2); Prohibitions of murder, adultery, theft and false witness (weight 5.7). Pair score 11.9.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -37,10 +37,12 @@ evidence:
     (or one another); In marital discord an arbiter is sent from his family and one from hers; If the
     major sins (kabāʾir) are avoided, God expiates lesser misdeeds; Men are maintainers (qawwāmūn) of
     women by God''s preference and their spending; A wife whose rebellion (nushūz) is feared is admonished,
-    left alone in bed, then struck; Those bound to you by oath-alliance receive their share; Prohibition
-    of coveting the neighbor''s wife and property [divergence between the texts]; The ground of a husband''s
-    authority over his wife [divergence between the texts]; Do not consume one another''s wealth wrongfully
-    (bil-bāṭil), only by trade with mutual consent.'
+    left alone in bed, then struck; Those bound to you by oath-alliance receive their share; A partner
+    bound by contract or pact, not by blood, inherits a share; Prohibition of coveting the neighbor''s
+    wife and property [divergence between the texts]; The ground of a husband''s authority over his wife
+    [divergence between the texts]; How a man and woman who have become estranged are brought together
+    again [divergence between the texts]; Do not consume one another''s wealth wrongfully (bil-bāṭil),
+    only by trade with mutual consent; Do not covet; each has his own share (in the division among kin).'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

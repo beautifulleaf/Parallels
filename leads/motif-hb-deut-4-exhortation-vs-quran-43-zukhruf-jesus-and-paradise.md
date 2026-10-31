@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: He it is who in heaven is God and on earth is God (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: He it is who in heaven is God and on earth is God (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Exhortation at Horeb''s memory; no image; exile and return: No other nation has a god
     so near whenever they call on him; Keeping the law will make the nations call Israel wise; They forgot
@@ -44,7 +44,7 @@ evidence:
     God to end them, and he answers ''You will remain''; Those invoked besides God have no power of intercession,
     except one who bore witness to the truth; The righteous enter the Garden with their spouses, made
     joyful; The prophet is told to turn away from the scoffers and say ''Peace'' (salam), for they will
-    come to know; and 11 more.'
+    come to know; and 12 more.'
   basis: reading
 - text: 'Exhortation at Horeb''s memory; no image; exile and return: tagged by Claude (model), reading
     the Hebrew.'

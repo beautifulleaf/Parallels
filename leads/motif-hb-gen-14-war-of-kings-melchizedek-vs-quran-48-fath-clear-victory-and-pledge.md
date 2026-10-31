@@ -18,7 +18,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Oath sworn by raising the hand to God (weight 6.7). Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Oath sworn by raising the hand to God (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in War of the four kings, rescue of Lot, Melchizedek: Valley full of bitumen pits into which
     fleeing kings fall; The patriarch''s trained men number 318; Patriarch pursues captors with a small
@@ -37,8 +37,8 @@ evidence:
     divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts [divergence
     between the texts]; Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by
     me''; Whether those who stayed behind share in the spoil [contrast between the texts]; Who is exempted
-    from going out to war [contrast between the texts]; The prophet is sent as witness, bearer of good
-    tidings and warner; and 3 more.'
+    from going out to war [contrast between the texts]; Household, wife or family as a ground for staying
+    behind from a campaign [contrast between the texts]; and 7 more.'
   basis: reading
 - text: 'War of the four kings, rescue of Lot, Melchizedek: tagged by Claude (model), reading the Hebrew.'
   basis: reading

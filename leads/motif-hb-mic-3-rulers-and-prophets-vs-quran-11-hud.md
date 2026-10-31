@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A seer faced with payment or worldly gain [contrast between the
-    texts] (weight 5.8). Pair score 5.8.'
+    texts] (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Cannibal rulers, hireling prophets and Zion plowed as a field: The corrupt leaders say
     ''Is not YHWH among us? No evil will come on us''; False seers will have night without vision; the
@@ -33,14 +33,15 @@ evidence:
     for money; Woe to the one who builds a city (Zion) with bloodshed and injustice; and 1 more.'
   basis: reading
 - text: 'Only in Hud and Ad: There is no creature but God holds it by its forelock; The people say one
-    of their gods has struck the prophet with madness; Prophet challenges the idolaters to call their
-    partners and plot against him without delay; Seek forgiveness and repent, and God will send the sky
-    down on you in abundant rain; Refrain ''away with...'' (bu''dan li-) the destroyed people; Heaven
-    is shut and no rain falls because of the people''s sin; repentance brings rain; God reassures the
-    frightened prophet: ''Do not fear them, for I am with you to deliver you''; Prophet''s refrain to
-    his people: ''Worship God; you have no god other than him''; If God wills he takes you away and brings
-    another people in your place; The Prophet asks no wage for the message; Hero''s family saved with
-    him.'
+    of their gods has struck the prophet with madness; The deity holds all living beings by a hold on
+    the head (nose-rope, forelock), as a herder leads animals [divergence between the texts]; The deity
+    holds a person (or every creature) by the lock of hair on the forehead; Prophet challenges the idolaters
+    to call their partners and plot against him without delay; Seek forgiveness and repent, and God will
+    send the sky down on you in abundant rain; Refrain ''away with...'' (bu''dan li-) the destroyed people;
+    God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you''; Heaven
+    is shut and no rain falls because of the people''s sin; repentance brings rain; Prophet''s refrain
+    to his people: ''Worship God; you have no god other than him''; If God wills he takes you away and
+    brings another people in your place; The Prophet asks no wage for the message; and 1 more.'
   basis: reading
 - text: 'Cannibal rulers, hireling prophets and Zion plowed as a field: tagged by Claude (model), reading
     the Hebrew.'

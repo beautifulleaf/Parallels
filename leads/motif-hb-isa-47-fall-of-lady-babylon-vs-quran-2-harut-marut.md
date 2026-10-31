@@ -18,21 +18,24 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A nation''s sorcerers, enchanters, star-gazers and monthly prognosticators
-    are challenged and cannot save it (weight 6.7). Pair score 6.7.'
+    are challenged and cannot save it (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Taunt over the virgin daughter Babylon: Virgin daughter Babylon is made to come down
     from her throne and sit in the dust; A proud city says in her heart ''I am, and there is none besides
-    me'' and is brought low; The wrongdoer says ''No one sees me'', trusting in secrecy; The proud city
-    personified as a lady is made a slave-girl who grinds meal, removes her veil, bares her legs and wades
-    rivers; The wicked or their helpers become like stubble burned up by fire; The city that said ''I
-    shall not sit as a widow nor know bereavement'' suffers both in one day; A personified city or nation
-    punished by having her nakedness and skirts uncovered.'
+    me'' and is brought low; The wrongdoer says ''No one sees me'', trusting in secrecy; The wicked or
+    their helpers become like stubble burned up by fire; The city that said ''I shall not sit as a widow
+    nor know bereavement'' suffers both in one day; The proud city personified as a lady is made a slave-girl
+    who grinds meal, removes her veil, bares her legs and wades rivers; A personified city or nation punished
+    by having her nakedness and skirts uncovered.'
   basis: reading
 - text: 'Only in Solomon, the devils and Harut and Marut: Devils (shayatin) taught sorcery in Solomon''s
     reign; Solomon himself did not disbelieve; Two angels in Babylon, Harut and Marut, teach magic while
     warning ''we are only a trial''; Magic is learned that separates a man from his wife, harming only
-    by God''s leave; Whether Solomon turned from God [response between the texts]; Divination, soothsaying,
-    mediums (ov) and wizards (yidde''oni) are forbidden; The king''s experts cannot interpret the dream.'
+    by God''s leave; Whether Solomon turned from God [response between the texts]; A named kind of sorcery
+    whose effect is hatred or estrangement between people (hate-magic; what separates a man from his wife);
+    Two heavenly beings come down from heaven in connection with sorcery; Two heavenly beings come down
+    from heaven in connection with sorcery [divergence between the texts]; Divination, soothsaying, mediums
+    (ov) and wizards (yidde''oni) are forbidden; The king''s experts cannot interpret the dream.'
   basis: reading
 - text: 'Taunt over the virgin daughter Babylon: tagged by Claude (model), reading the Hebrew.'
   basis: reading

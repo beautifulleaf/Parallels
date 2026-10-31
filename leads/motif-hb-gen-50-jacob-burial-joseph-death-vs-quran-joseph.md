@@ -18,24 +18,24 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero declares that God turned the brothers'' deed to good (weight
-    5.6); Hero forgives his brothers (weight 5.6). Pair score 11.2.'
+    6.6); Hero forgives his brothers (weight 6.5). Pair score 13.1.'
   basis: reading
 - text: 'Only in Embalming and burial of Jacob; Joseph''s last words and death: Hero refuses to judge
     or avenge, asking ''Am I in the place of God?''; Embalmed hero laid in a coffin (aron) in Egypt; Dying
     hero foretells ''God will surely visit you'' (paqod yifqod) and bring you up; A great funeral procession
-    with royal elders, chariots and horsemen escorts the patriarch''s body; Great-grandchildren born on
-    the hero''s knees; Locals name a place for the great mourning they witness (Abel-Mizraim); After the
-    father''s death the brothers fear revenge; Embalming in the Egyptian manner; Hero forgives his brothers
-    [divergence between the texts]; Seven days of mourning for the dead; Hero makes them swear to carry
-    his bones out of Egypt; Father asks to be buried with his ancestors; and 1 more.'
+    with royal elders, chariots and horsemen escorts the patriarch''s body; Locals name a place for the
+    great mourning they witness (Abel-Mizraim); After the father''s death the brothers fear revenge; Great-grandchildren
+    born on the hero''s knees; Hero forgives his brothers [divergence between the texts]; Hero makes them
+    swear to carry his bones out of Egypt; Embalming in the Egyptian manner; Seven days of mourning for
+    the dead; Father asks to be buried with his ancestors; and 1 more.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 55 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 55 more.'
   basis: reading
 - text: 'Embalming and burial of Jacob; Joseph''s last words and death: tagged by Claude (model), reading
     the Hebrew.'

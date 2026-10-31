@@ -17,15 +17,15 @@ motifs:
 - family-saved
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: A member of the hero''s family is lost (weight 5.8); Hero''s family
-    saved with him (weight 4.5). Pair score 10.3.'
+- text: 'Shared motifs, rarest first: A member of the hero''s family is lost (weight 6.8); Hero''s family
+    saved with him (weight 5.4). Pair score 12.3.'
   basis: reading
 - text: 'Only in Noah in the Quran: Someone seeks refuge on a mountain and is drowned; Vessel described
-    by its planks and fastenings; A specific sign marks the moment to board; Hero blessed on leaving the
-    vessel; The flood waters are hot or boiling; Hero''s life or mission spans 950 years; People mock
-    the hero while he builds the vessel; Waters pour both from the sky and from springs of the earth;
+    by its planks and fastenings; The flood waters are hot or boiling; Hero''s life or mission spans 950
+    years; A specific sign marks the moment to board; People mock the hero while he builds the vessel;
     Animals taken aboard in pairs; Hero asks the deity to judge or destroy his opponents; Vessel comes
-    to rest on a named mountain; Deity decides to destroy humankind; and 6 more.'
+    to rest on a named mountain; Hero blessed on leaving the vessel; Hero builds a vessel on divine instruction;
+    Hero warns or preaches to his people before the flood; and 6 more.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them

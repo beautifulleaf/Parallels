@@ -19,18 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The same religion (din) was enjoined on Noah, Abraham, Moses, Jesus
-    and the Prophet: establish it and do not divide (weight 6.7). Pair score 6.7.'
+    and the Prophet: establish it and do not divide (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Blessing of Noah, blood laws and the covenant of the bow: God requires the life of a
-    human even from an animal that kills; God sees the bow in the cloud and remembers his covenant (the
-    sign reminds the deity); God makes a covenant with humans and all living creatures; Eating animals
-    permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be shed, because
-    humans bear God''s image [divergence between the texts]; The sign left after the flood: the rainbow,
-    or the ark [divergence between the texts]; Whoever sheds human blood, by man shall his blood be shed,
-    because humans bear God''s image; A sign in the sky commemorates the flood (bow, necklace); The sign
-    the flood leaves for later generations [divergence between the texts]; Hero blessed on leaving the
-    vessel; Humans given rule over animals; Deity resolves or promises not to repeat the destruction;
-    and 3 more.'
+    human even from an animal that kills; God makes a covenant with humans and all living creatures; Eating
+    animals permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be
+    shed, because humans bear God''s image [divergence between the texts]; The sign left after the flood:
+    the rainbow, or the ark [divergence between the texts]; Whoever sheds human blood, by man shall his
+    blood be shed, because humans bear God''s image; God sees the bow in the cloud and remembers his covenant
+    (the sign reminds the deity); The sign the flood leaves for later generations [divergence between
+    the texts]; Humans given rule over animals; A sign in the sky commemorates the flood (bow, necklace);
+    Eating blood is forbidden; Deity resolves or promises not to repeat the destruction; and 3 more.'
   basis: reading
 - text: 'Only in Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the
     prophets: Whoever seeks the tillage (harth) of the hereafter has it increased; whoever seeks the tillage

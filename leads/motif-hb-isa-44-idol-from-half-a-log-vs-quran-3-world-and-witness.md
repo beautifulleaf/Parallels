@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who bears witness to God''s oneness [divergence between the texts]
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
     Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the

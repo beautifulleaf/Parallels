@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A land will be overthrown like Sodom and Gomorrah and their neighbors,
-    never inhabited (weight 6.0). Pair score 6.0.'
+    never inhabited (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Oracle against Babylon (I): Bel and Merodach shamed, the hammer of the earth broken:
     Israel a scattered sheep: first Assyria devoured it, last Babylon gnawed its bones; Babylon''s gods
-    Bel and Merodach are put to shame and its idols dismayed; Desert creatures or demons (tsiyyim, iyyim)
-    and ostriches inhabit the ruined city; God opens his armory and brings out the weapons of his indignation;
-    Babylon called the ''hammer of the whole earth'' is broken; Babylon is a land of idols, mad over their
-    terrors; God''s people are lost sheep whose shepherds led them astray on the mountains; Babylon addressed
-    by wordplay names: Merathaim (''double rebellion'') and Pekod (''punishment''); Repay the city according
-    to her deeds: do to her as she has done; Israel''s iniquity will be sought and not found, for God
-    pardons the remnant; Repeated ''A sword upon...'' litany against every class of a city; A day of vengeance
-    belonging to YHWH of hosts against his foes; and 11 more.'
+    Bel and Merodach are put to shame and its idols dismayed; God opens his armory and brings out the
+    weapons of his indignation; Babylon called the ''hammer of the whole earth'' is broken; Babylon is
+    a land of idols, mad over their terrors; God''s people are lost sheep whose shepherds led them astray
+    on the mountains; Babylon addressed by wordplay names: Merathaim (''double rebellion'') and Pekod
+    (''punishment''); Repay the city according to her deeds: do to her as she has done; Israel''s iniquity
+    will be sought and not found, for God pardons the remnant; Repeated ''A sword upon...'' litany against
+    every class of a city; A day of vengeance belonging to YHWH of hosts against his foes; Babylon taken
+    and destroyed; and 11 more.'
   basis: reading
 - text: 'Only in Lot and the destruction of his town: The host is troubled and helpless on account of
     the angelic guests, fearing for them; Lot''s people approach men, cut off the road (highway robbery)

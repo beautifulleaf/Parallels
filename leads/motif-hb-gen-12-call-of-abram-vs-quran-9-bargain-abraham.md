@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Abraham parts from his father and his father''s land or gods
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The call of Abram and his journey through Canaan: God commands the hero to leave his
     land, kin and father''s house for a land he will be shown; Abraham and Lot are rescued to the land

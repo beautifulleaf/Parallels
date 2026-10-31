@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A fifth of all spoils goes to God, the messenger, kin, orphans,
-    the poor and the wayfarer (weight 6.7). Pair score 6.7.'
+    the poor and the wayfarer (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Mourning rites forbidden; clean and unclean food; tithes: Animal that died of itself
     may be given to the resident alien or sold to a foreigner; If the place is far, convert the tithe

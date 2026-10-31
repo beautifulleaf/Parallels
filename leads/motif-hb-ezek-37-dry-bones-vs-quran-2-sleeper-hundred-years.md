@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The question whether God can make the dead live [divergence between
-    the texts] (weight 6.7); At the prophet''s word there is a rattling; bones come together bone to bone,
-    then sinews, flesh and skin cover them, but there is no breath (weight 6.3). Pair score 13.0.'
+    the texts] (weight 7.7); At the prophet''s word there is a rattling; bones come together bone to bone,
+    then sinews, flesh and skin cover them, but there is no breath (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
     graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is
@@ -39,8 +39,10 @@ evidence:
 - text: 'Only in The man who passed a ruined town: The sleeper is shown his donkey''s bones assembled
     and clothed with flesh; After a century the sleeper''s food and drink have not spoiled; A man passing
     a ruined town is made to die for a hundred years, then revived, thinking he slept a day or part of
-    a day; A destroyed city is made a perpetual ruin-mound (tel olam); The fate of a destroyed town: lasting
-    ruin or revival [contrast between the texts].'
+    a day; The sleeper''s food shows how long he slept [divergence between the texts]; A dead (ruined)
+    land or town is brought back to life [divergence between the texts]; The fate of a destroyed town:
+    lasting ruin or revival [contrast between the texts]; A man woken from a long sleep thinks he slept
+    only a moment or a day; A destroyed city is made a perpetual ruin-mound (tel olam).'
   basis: reading
 - text: 'The valley of dry bones: tagged by Claude (model), reading the Hebrew.'
   basis: reading

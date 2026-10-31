@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Four living creatures (hayyot) of human form bear the divine throne
-    [divergence between the texts] (weight 6.7); Four living creatures (hayyot) of human form bear the
-    divine throne (weight 6.3). Pair score 13.0.'
+    [divergence between the texts] (weight 7.7); Four living creatures (hayyot) of human form bear the
+    divine throne (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Ezekiel''s inaugural vision by the Chebar canal: four living creatures, wheels full of
     eyes, the throne and the glory: The heavenly creatures move straight ahead in every direction without
@@ -33,7 +33,7 @@ evidence:
     of the fire gleams like hashmal (amber/electrum); The heavens are opened and the prophet sees visions
     of God; The visionary hedges every description: ''the appearance of the likeness of...''; On the throne
     is ''a likeness as the appearance of a man''; The prophet is himself a priest or of priestly family;
-    The radiance around the enthroned figure is like the rainbow in the cloud; and 13 more.'
+    The creatures'' wings sound like many waters, like the voice of Shaddai; and 13 more.'
   basis: reading
 - text: 'Only in Al-Haqqa: Thamud and ''Ad, the running ship, the single trumpet blast, the sky split
     and eight bearing the Throne: ''Ad were destroyed by a furious wind for seven nights and eight days,
@@ -43,11 +43,12 @@ evidence:
     with a single crushing; Thamud were destroyed by the Overwhelming (al-tagiya, the Blast); Rhetorical
     opening: ''The Reality (al-haqqa)! What is the Reality? And what will make you know what the Reality
     is?''; When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder
-    for retaining ears [divergence between the texts]; The overturned city (al-mu''tafika, Sodom) God
-    hurled down and covered with what covered it; A roaring cold wind (sarsar) on a day of continuous
-    ill omen plucks men away like trunks of uprooted palms; The sky splits and is frail that day, and
-    the angels are on its borders; When the Event (al-waqi''a) befalls, none can deny it: it abases and
-    exalts; Cities overturned (hafakh) and the plain destroyed; and 3 more.'
+    for retaining ears [divergence between the texts]; The count of days and nights a destroying wind
+    or flood-storm blows [divergence between the texts]; A destroying storm rages for seven days and seven
+    (or eight) nights [divergence between the texts]; The overturned city (al-mu''tafika, Sodom) God hurled
+    down and covered with what covered it; A roaring cold wind (sarsar) on a day of continuous ill omen
+    plucks men away like trunks of uprooted palms; A storm wind is paired with a seven/eight count; and
+    7 more.'
   basis: reading
 - text: 'Ezekiel''s inaugural vision by the Chebar canal: four living creatures, wheels full of eyes,
     the throne and the glory: tagged by Claude (model), reading the Hebrew.'

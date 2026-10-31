@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not say ''I will repay evil''; wait for YHWH and he will save
-    you (weight 6.7). Pair score 6.7.'
+    you (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -28,10 +28,10 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 19 more.'
   basis: reading
 - text: 'Only in Angels descend on the steadfast; repel evil with good; signs on the horizons: Angels
     descend on those who say ''Our Lord is God'' and stand firm: ''Fear not, grieve not, rejoice in the
@@ -41,11 +41,11 @@ evidence:
     will come, and if returned to my Lord I will have the best with him''; On the Day God calls ''Where
     are my partners?'', they answer ''We declare to you none of us is a witness''; The Quran is guidance
     and healing (shifa'') for believers; for others deafness and blindness; ''We will show them our signs
-    on the horizons and in themselves until it is clear to them that it is the truth''; Doing good to
-    an enemy, and what it brings [divergence between the texts]; Had it been revealed to a non-Arab (aʿjamī)
-    reciting it, they would still not believe; When an evil prompting from Satan stirs you, seek refuge
-    in God; Disavowal of secretly worshiping the shining sun and moon by kissing the hand to the mouth;
-    and 13 more.'
+    on the horizons and in themselves until it is clear to them that it is the truth''; The adversary
+    is reconciled and becomes a friend; who spoke evil speaks good [divergence between the texts]; Whether
+    to answer an evil word or deed with its like [divergence between the texts]; Doing good to an enemy,
+    and what it brings [divergence between the texts]; Prayer or prostration addressed to the sun [response
+    between the texts]; and 21 more.'
   basis: reading
 - text: 'Sayings on wine, the king''s throne and the lamp of YHWH: tagged by Claude (model), reading the
     Hebrew.'

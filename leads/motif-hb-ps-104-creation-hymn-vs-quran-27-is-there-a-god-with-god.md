@@ -13,39 +13,39 @@ traditions:
 layers:
 - motif
 motifs:
-- earth-on-pillars
 - mountains-stabilize-earth
+- earth-on-pillars
 - winds-herald-mercy-pure-water
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The world set upon pillars belonging to God (weight 5.6); God set
-    firm mountains on the earth lest it sway with people (weight 5.6); God sends the winds as heralds
-    before his mercy and sends down pure water from the sky (weight 5.4). Pair score 16.6.'
+- text: 'Shared motifs, rarest first: God set firm mountains on the earth lest it sway with people (weight
+    6.6); The world set upon pillars belonging to God (weight 6.6); God sends the winds as heralds before
+    his mercy and sends down pure water from the sky (weight 6.5). Pair score 19.8.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 38 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 38 more.'
   basis: reading
 - text: 'Only in The litany ''Is there a god with God?'' and the unseen: As God began the first creation
     he will repeat it; God answers the distressed when he calls and removes the evil; God knows the secret
     and what is even more hidden; God records the peoples in a register, noting where each was born; Litany
-    of signs each ending ''Is there a god with God?''; God sends rain on the desert where no human lives,
-    to make grass sprout; The secret things belong to God; the revealed things to us and our children;
-    God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between them;
-    The listeners walk among the dwellings of generations God destroyed, a sign; Unbelievers dismiss the
-    revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal; Declaration that YHWH
-    is God and there is no other besides him; God keeps a book in which names are written and from which
-    sinners are blotted.'
+    of signs each ending ''Is there a god with God?''; Rhetorical question: who besides (among the gods)
+    can remove the sickness / the harm? None can; God sends rain on the desert where no human lives, to
+    make grass sprout; The secret things belong to God; the revealed things to us and our children; The
+    wind carries good tidings (Akkadian busrātu, Arabic bushrā); God let loose the two seas, one sweet,
+    one salt, with a barrier (barzakh) and partition between them; The listeners walk among the dwellings
+    of generations God destroyed, a sign; Unbelievers dismiss the revelation as ''tales of the ancients''
+    (asatir al-awwalin) they could equal; and 2 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

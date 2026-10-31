@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh''s question about, or claim to know, the god of Moses [divergence
-    between the texts] (weight 6.3). Pair score 6.3.'
+    between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in First audience with Pharaoh; bricks without straw: Slaves must make the same quota of
     bricks while gathering their own straw; The oppressed blame the deliverer for making things worse;
@@ -34,14 +34,17 @@ evidence:
     and 2 more.'
   basis: reading
 - text: 'Only in Pharaoh, ''no god but me'', Haman''s tower of fired brick, and the drowning: Pharaoh''s
-    people are made leaders who call to the Fire and are cursed in this world; The wise counselors of
-    Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son of ancient kings''; Pharaoh
-    tells his chiefs: ''I know of no god for you other than me''; Pharaoh orders Haman to build him a
-    lofty tower (sarh) to reach the ways of heaven and look at Moses'' God; Building with baked bricks
-    and bitumen instead of stone and mortar; Hāmān appears as Pharaoh''s minister and partner; Humans
-    build a tower whose top reaches heaven; Humans build a tower whose top reaches heaven [divergence
-    between the texts]; God gives stone tablets he himself has written; Prophet''s wonders are imitated
-    by the king''s magicians in a contest; The returning waters drown the pursuing army; not one survives.'
+    people are made leaders who call to the Fire and are cursed in this world; A ruler has bricks made
+    for a lofty building that reaches up to heaven [divergence between the texts]; Fire is kindled to
+    make the bricks of a lofty house or tower [divergence between the texts]; The wise counselors of Pharaoh
+    in Zoan and Memphis are fools: ''I am a son of the wise, a son of ancient kings''; Pharaoh tells his
+    chiefs: ''I know of no god for you other than me''; Pharaoh orders Haman to build him a lofty tower
+    (sarh) to reach the ways of heaven and look at Moses'' God; Hāmān appears as Pharaoh''s minister and
+    partner; Building with baked bricks and bitumen instead of stone and mortar; The king of Egypt is
+    called god (by his vassals, or by himself) [divergence between the texts]; A king is called, or calls
+    himself, the god of his people [divergence between the texts]; Humans build a tower whose top reaches
+    heaven [divergence between the texts]; The king of Egypt is (called) the god or lord of those under
+    him; and 4 more.'
   basis: reading
 - text: 'First audience with Pharaoh; bricks without straw: tagged by Claude (model), reading the Hebrew.'
   basis: reading

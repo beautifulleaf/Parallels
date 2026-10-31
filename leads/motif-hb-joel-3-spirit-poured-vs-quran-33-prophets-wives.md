@@ -20,7 +20,7 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: Paired list of male and female believers (muslims, believers, devout,
     truthful, patient, humble, charitable, fasting, chaste, remembering) promised equal reward (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The spirit poured on all flesh and signs before the Day: Everyone who calls on the name
     of YHWH will be delivered; Portents in heaven and earth: blood, fire and columns of smoke; The spirit

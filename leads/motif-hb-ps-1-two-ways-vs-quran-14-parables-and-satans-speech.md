@@ -15,17 +15,18 @@ traditions:
 layers:
 - motif
 motifs:
-- righteous-as-tree-by-water-as-divergence
 - deeds-like-ashes-in-wind
+- righteous-as-tree-by-water-as-divergence
 - righteous-as-tree-by-water
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The righteous man is like a tree planted by streams of water, bearing
-    fruit in season, leaf never withering [divergence between the texts] (weight 6.7); The deeds of unbelievers
-    are like ashes blown by the wind on a stormy day (weight 6.7); The righteous man is like a tree planted
-    by streams of water, bearing fruit in season, leaf never withering (weight 6.3). Pair score 19.7.'
+- text: 'Shared motifs, rarest first: The deeds of unbelievers are like ashes blown by the wind on a stormy
+    day (weight 7.7); The righteous man is like a tree planted by streams of water, bearing fruit in season,
+    leaf never withering [divergence between the texts] (weight 7.7); The righteous man is like a tree
+    planted by streams of water, bearing fruit in season, leaf never withering (weight 6.5). Pair score
+    22.0.'
   basis: reading
 - text: 'Only in Psalm 1 - the two ways: Contrast of the way of the righteous, which God knows, and the
     way of the wicked, which perishes [divergence between the texts]; Do not sit with those who plunge
@@ -40,11 +41,12 @@ evidence:
     is like a good tree, its root firm, its branches in the sky, yielding fruit every season; On judgment
     day Satan disowns his followers: ''I only called you; blame yourselves''; God has subjected ships,
     rivers, sun, moon, night and day to human use; Parable: a bad word is like a bad tree uprooted from
-    the earth, with no stability; If you counted God''s blessings you could never number them; A day comes
-    with no trade, no friendship and no intercession; The blessed in paradise cry ''Glory to you, O God'',
-    greet with ''Peace'' and end with ''Praise be to God, Lord of the worlds''; If God willed he could
-    remove you and bring a new creation; On judgment day the weak followers ask the arrogant leaders to
-    avail them; the leaders cannot.'
+    the earth, with no stability; If you counted God''s blessings you could never number them; Good words
+    and bad words set against each other, with plant imagery; A day comes with no trade, no friendship
+    and no intercession; The blessed in paradise cry ''Glory to you, O God'', greet with ''Peace'' and
+    end with ''Praise be to God, Lord of the worlds''; A spoken word or testimony is like a tree that
+    yields its fruit; The sun (and moon) are made to rise or run for the sake of humankind; A tree whose
+    root reaches deep down and whose top reaches heaven; and 9 more.'
   basis: reading
 - text: 'Psalm 1 - the two ways: tagged by Claude (model), reading the Hebrew.'
   basis: reading

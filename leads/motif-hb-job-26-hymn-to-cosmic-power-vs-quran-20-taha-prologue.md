@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God owns what is in heaven, on earth, between them and beneath the
-    moist soil (al-tharā) (weight 6.7); After creating the heavens and earth God established himself on
-    the Throne (istawa ''ala l-''arsh) (weight 5.2). Pair score 11.9.'
+    moist soil (al-tharā) (weight 7.7); After creating the heavens and earth God established himself on
+    the Throne (istawa ''ala l-''arsh) (weight 6.2). Pair score 14.0.'
   basis: reading
-- text: 'Only in Job - the earth hung on nothing; Rahab smitten: God hangs the earth upon nothing (beli-mah);
-    These are but the fringes of his ways, a whisper of a word; who can understand the thunder of his
-    power?; God''s hand pierced the fleeing serpent (nachash bariach); God stretches out Zaphon (the north)
-    over the void (tohu); The pillars of heaven tremble and are astounded at God''s rebuke; The shades
-    (Rephaim) tremble beneath the waters and their inhabitants; God veils the face of his throne, spreading
-    his cloud over it; By his wind (breath) the heavens are made fair; By his power God stilled (or stirred)
-    the Sea and by his understanding smote Rahab; God raised the heavens without pillars that you can
-    see [divergence between the texts]; God wraps (yukawwir) the night around the day and the day around
-    the night; Whether the heavens rest on pillars [divergence between the texts]; and 5 more.'
+- text: 'Only in Job - the earth hung on nothing; Rahab smitten: These are but the fringes of his ways,
+    a whisper of a word; who can understand the thunder of his power?; God''s hand pierced the fleeing
+    serpent (nachash bariach); God stretches out Zaphon (the north) over the void (tohu); The pillars
+    of heaven tremble and are astounded at God''s rebuke; The shades (Rephaim) tremble beneath the waters
+    and their inhabitants; God veils the face of his throne, spreading his cloud over it; By his wind
+    (breath) the heavens are made fair; God hangs the earth upon nothing (beli-mah); God raised the heavens
+    without pillars that you can see [divergence between the texts]; God wraps (yukawwir) the night around
+    the day and the day around the night; Whether the heavens rest on pillars [divergence between the
+    texts]; Sheol is naked before God and Abaddon has no covering; and 5 more.'
   basis: reading
 - text: 'Only in Ta Ha, the purpose of the revelation and the throne: The revelation was not sent down
     to make the prophet miserable but as a reminder; God knows the secret and what is even more hidden;

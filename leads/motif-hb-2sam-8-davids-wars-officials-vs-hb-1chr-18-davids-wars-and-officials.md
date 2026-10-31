@@ -12,26 +12,26 @@ layers:
 - motif
 motifs:
 - allied-king-sends-son-with-gifts
-- just-king-does-mishpat-tsedaqah
 - valley-of-salt-battle
 - royal-cabinet-list
 - golden-shields-trophies
 - hamstring-horses-burn-chariots
 - spoils-dedicated-to-god
 - vassals-bring-tribute-minchah
+- just-king-does-mishpat-tsedaqah
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A neighboring king sends his son with precious vessels to congratulate
-    the victor (weight 6.7); The king does justice and righteousness for all his people (weight 6.7);
-    A battle in the Valley of Salt (weight 6.7); List of the king''s chief officials: commander, recorder,
-    priests, scribe, guard (weight 6.3); Shields of beaten gold made or captured and displayed (weight
-    6.3); The enemy''s horses are hamstrung and their chariots burned by divine command (weight 6.0);
-    The king dedicates silver and gold from conquered nations to God (weight 6.0); Subject peoples bring
-    tribute (minhah) to the king (weight 5.8). Pair score 50.4.'
+    the victor (weight 7.7); A battle in the Valley of Salt (weight 7.7); List of the king''s chief officials:
+    commander, recorder, priests, scribe, guard (weight 7.3); Shields of beaten gold made or captured
+    and displayed (weight 7.3); The enemy''s horses are hamstrung and their chariots burned by divine
+    command (weight 7.1); The king dedicates silver and gold from conquered nations to God (weight 6.5);
+    Subject peoples bring tribute (minhah) to the king (weight 6.5); The king does justice and righteousness
+    for all his people (weight 5.4). Pair score 55.7.'
   basis: reading
 - text: 'Only in David''s conquests and list of officials: Captives laid on the ground and measured with
-    a cord to decide who is killed; The Euphrates as the limit of the king''s dominion; The king''s sons
-    serve as priests; Obscure term ''Metheg-ammah'' for what David took from the Philistines.'
+    a cord to decide who is killed; The Euphrates as the limit of the king''s dominion; Obscure term ''Metheg-ammah''
+    for what David took from the Philistines; The king''s sons serve as priests.'
   basis: reading
 - text: 'Only in David''s conquests and his officials: The Cherethite and Pelethite royal guard; A king
     goes to ''set up his hand'' (monument) at the Euphrates; Bronze captured in war used for the temple''s
@@ -80,21 +80,6 @@ matches:
         וּֽלְבָרֲכ֗וֹ עַל֩ אֲשֶׁ֨ר נִלְחַ֤ם בַּהֲדַדְעֶ֨זֶר֙ וַיַּכֵּ֔הוּ כִּי אִ֛ישׁ מִלְחֲמ֥וֹת תֹּ֖עוּ
         הָיָ֣ה הֲדַדְעָ֑זֶר וְכֹ֗ל כְּלֵ֛י זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת
     note: Tou of Hamath sends Hadoram (Joram in 2Sam)
-- kind: shared
-  label: The king does justice and righteousness for all his people
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Sam 8:15
-      lang: he
-      text: וַיִּמְלֹ֥ךְ דָּוִ֖ד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֣י דָוִ֗ד עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל
-        עַמּֽוֹ
-    note: mishpat u-tsedaqah
-  - tradition: judaism
-    passages:
-    - ref: 1Chr 18:14
-      lang: he
-      text: וַיִּמְלֹ֥ךְ דָּוִ֖יד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֗י עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל עַמּֽוֹ
 - kind: shared
   label: A battle in the Valley of Salt
   sides:
@@ -216,6 +201,21 @@ matches:
       lang: he
       text: וַיָּ֤שֶׂם דָּוִיד֙ בַּאֲרַ֣ם דַּרְמֶ֔שֶׂק וַיְהִ֤י אֲרָם֙ לְדָוִ֔יד עֲבָדִ֖ים נֹשְׂאֵ֣י מִנְחָ֑ה
         וַיּ֤וֹשַׁע יְהוָה֙ לְדָוִ֔יד בְּכֹ֖ל אֲשֶׁ֥ר הָלָֽךְ
+- kind: shared
+  label: The king does justice and righteousness for all his people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 8:15
+      lang: he
+      text: וַיִּמְלֹ֥ךְ דָּוִ֖ד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֣י דָוִ֗ד עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל
+        עַמּֽוֹ
+    note: mishpat u-tsedaqah
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 18:14
+      lang: he
+      text: וַיִּמְלֹ֥ךְ דָּוִ֖יד עַל כָּל יִשְׂרָאֵ֑ל וַיְהִ֗י עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל עַמּֽוֹ
 ---
 
 ## Questions

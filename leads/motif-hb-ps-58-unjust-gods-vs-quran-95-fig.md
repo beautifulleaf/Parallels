@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero challenges God: shall the judge of all the earth not do justice?
-    (weight 6.0). Pair score 6.0.'
+    (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 58, do you gods truly speak justice?: Prayer that God break the teeth in the mouths
     of the young lions (enemies); The righteous will bathe their feet in the blood of the wicked when
@@ -30,13 +30,13 @@ evidence:
     is sung (e.g. ''Do not destroy'', ''Dove of distant terebinths'', ''Lilies'').'
   basis: reading
 - text: 'Only in The fig and the olive, Mount Sinai and the secure city: Humankind created in the best
-    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; Humankind created
-    in the best of forms (ahsan taqwim), then returned to the lowest of the low, except the believers
-    [divergence between the texts]; Hero challenges God: shall the judge of all the earth not do justice?
-    [divergence between the texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin);
-    Land of wheat, barley, vine, fig, pomegranate, olive and honey; God shines forth from Sinai, Seir
-    and Mount Paran with holy myriads; A series of oaths by natural phenomena (dawn, night, day, sun,
-    moon, sky, earth, stars, winds) opens or punctuates a passage.'
+    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; The fig and
+    the olive named together; Humankind created in the best of forms (ahsan taqwim), then returned to
+    the lowest of the low, except the believers [divergence between the texts]; Hero challenges God: shall
+    the judge of all the earth not do justice? [divergence between the texts]; Oath by ''this city'' (Mecca),
+    the secure city (al-balad al-amin); Land of wheat, barley, vine, fig, pomegranate, olive and honey;
+    God shines forth from Sinai, Seir and Mount Paran with holy myriads; A series of oaths by natural
+    phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates a passage.'
   basis: reading
 - text: 'Psalm 58, do you gods truly speak justice?: tagged by Claude (model), reading the Hebrew.'
   basis: reading

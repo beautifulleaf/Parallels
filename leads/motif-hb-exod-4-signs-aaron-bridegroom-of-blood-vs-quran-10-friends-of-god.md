@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
-    [contrast between the texts] (weight 5.4). Pair score 5.4.'
+    [contrast between the texts] (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
     of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
-    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
-    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
-    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
-    man; The hero carries ''the staff of God'' with which he performs signs; The prophet asks that his
-    brother be made his helper (wazīr) and partner in his mission [divergence between the texts]; What
-    Moses demands of Pharaoh in God''s name [divergence between the texts]; God taught humankind by the
-    pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him
-    [divergence between the texts]; and 18 more.'
+    and seeks to kill him; The people believe the prophet''s signs and bow in worship; Hero may return
+    home because those seeking his life are dead; Wife cuts off her son''s foreskin with a flint and touches
+    it to the threatened man; The hero carries ''the staff of God'' with which he performs signs; The
+    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
+    the texts]; What Moses demands of Pharaoh in God''s name [divergence between the texts]; God claims
+    to make the mouth, the mute, the deaf, the seeing and the blind; God taught humankind by the pen (qalam)
+    what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence
+    between the texts]; and 18 more.'
   basis: reading
 - text: 'Only in Healing for hearts, the atom''s weight, God has no son: God''s friends (awliya'') have
     no fear and will not grieve; God made the night for rest and the day for seeing; There is no darkness

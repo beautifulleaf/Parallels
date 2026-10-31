@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Gog and Magog are let loose and swarm down from every height before
-    the end [divergence between the texts] (weight 6.0); Gog of the land of Magog, chief prince (nesi
-    rosh) of Meshech and Tubal, an eschatological invader (weight 6.0). Pair score 12.0.'
+    the end [divergence between the texts] (weight 7.1); Gog of the land of Magog, chief prince (nesi
+    rosh) of Meshech and Tubal, an eschatological invader (weight 7.1). Pair score 14.1.'
   basis: reading
 - text: 'Only in Gog''s fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast
     of the birds: God strikes the bow from the invader''s left hand and makes the arrows drop from his
@@ -36,8 +36,8 @@ evidence:
     every human bone with a sign (tsiyyun) for the buriers; Gog and his horde are buried in the Valley
     of the Travelers east of the sea, renamed Valley of Hamon-Gog; a city is named Hamonah; Israel''s
     townsfolk burn the enemy weapons (shields, bows, arrows, clubs, spears) as fuel for seven years, cutting
-    no wood from the forest; Strong bulls of Bashan encircle the sufferer; Slain enemies become a portion
-    for jackals or food for beasts and birds; and 6 more.'
+    no wood from the forest; Strong bulls of Bashan encircle the sufferer; The final invader comes from
+    the farthest recesses of the north (yarketei tsafon); and 6 more.'
   basis: reading
 - text: 'Only in Dhul-Qarnayn, the setting and rising sun, and the barrier against Gog and Magog (Surah
     18:83-101): When God''s promise comes the barrier is leveled to the ground; The conqueror is given
@@ -47,10 +47,10 @@ evidence:
     conqueror finds a people with no shelter from it; Between two mountain barriers the conqueror finds
     a people who scarcely understand speech; At the end peoples surge into one another like waves; At
     the place of sunset the conqueror finds the sun setting in a muddy (or hot) spring; The people offer
-    tribute for a barrier; the conqueror declines payment and asks for their labor; Gog and Magog are
-    let loose and swarm down from every height before the end; Gog of the land of Magog, chief prince
-    (nesi rosh) of Meshech and Tubal, an eschatological invader [divergence between the texts]; Dhu l-Qarnayn
-    (''the two-horned'') is given power on earth and a way to everything; and 2 more.'
+    tribute for a barrier; the conqueror declines payment and asks for their labor; A ruler builds a barrier
+    across the gap between two mountains to cut off invading peoples; A ruler builds a barrier across
+    the gap between two mountains to cut off invading peoples [divergence between the texts]; Whether
+    a king''s barrier against invaders holds or is breached [divergence between the texts]; and 15 more.'
   basis: reading
 - text: 'Gog''s fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast of the
     birds: tagged by Claude (model), reading the Hebrew.'

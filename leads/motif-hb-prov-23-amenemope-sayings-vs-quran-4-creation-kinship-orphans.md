@@ -21,30 +21,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not enter the fields of the fatherless, for their redeemer (go''el)
-    is strong and will plead their cause (weight 6.7); Guardians must keep orphans'' property intact and
-    hand it over when they come of age (weight 5.8). Pair score 12.5.'
+    is strong and will plead their cause (weight 7.3); Guardians must keep orphans'' property intact and
+    hand it over when they come of age (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan''s
-    field: Do not speak in the ears of a fool, for he will despise the wisdom of your words; When dining
-    with a ruler put a knife to your throat and do not crave his delicacies, deceptive food; Riches make
-    themselves wings and fly away like an eagle toward heaven; Beat the child with the rod and you will
-    save his soul from Sheol; he will not die; Do not eat the bread of the stingy host who says ''eat
-    and drink'' while his heart is not with you; you will vomit up the morsel; A section of sayings closely
-    paralleling the Egyptian Instruction of Amenemope; The ''good of eye'' (generous) is blessed; the
-    ''evil of eye'' (stingy, envious) is to be shunned; He who spares the rod hates his son; corporal
+    field: Do not speak in the ears of a fool, for he will despise the wisdom of your words; Beat the
+    child with the rod and you will save his soul from Sheol; he will not die; Do not eat the bread of
+    the stingy host who says ''eat and drink'' while his heart is not with you; you will vomit up the
+    morsel; When dining with a ruler put a knife to your throat and do not crave his delicacies, deceptive
+    food; A section of sayings closely paralleling the Egyptian Instruction of Amenemope; Riches make
+    themselves wings and fly away like an eagle toward heaven; The ''good of eye'' (generous) is blessed;
+    the ''evil of eye'' (stingy, envious) is to be shunned; He who spares the rod hates his son; corporal
     discipline of children is commended; Do not move your neighbor''s ancient boundary marker.'
   basis: reading
-- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Those who devour orphans''
-    property devour fire into their bellies; Fear God, by whom you ask of one another, and the wombs (kinship
-    ties, al-arḥām); Kin, orphans and the poor present at the division of an estate are given something
-    from it; Property is not handed to the feeble-minded (sufahāʾ); they are fed and clothed from it;
-    Women as well as men receive a fixed share of what parents and kin leave; The husband gives the bride
-    her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; God hears the cry of the oppressed
-    widow and orphan and punishes measure for measure; How the first woman was made [divergence between
-    the texts]; A man may marry two, three or four wives, or only one if he fears injustice; A man who
-    seduces an unbetrothed virgin must marry her or pay the bride-price; Who receives the marriage payment
-    [divergence between the texts]; First woman made from the man''s rib or side while he sleeps; and
-    3 more.'
+- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Fear God, by whom you ask
+    of one another, and the wombs (kinship ties, al-arḥām); Kin, orphans and the poor present at the division
+    of an estate are given something from it; Property is not handed to the feeble-minded (sufahāʾ); they
+    are fed and clothed from it; Women as well as men receive a fixed share of what parents and kin leave;
+    The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part;
+    Those who devour orphans'' property devour fire into their bellies; How the first woman was made [divergence
+    between the texts]; A man may marry two, three or four wives, or only one if he fears injustice; A
+    man who seduces an unbetrothed virgin must marry her or pay the bride-price; To whom the bride-price
+    is paid and in what (silver and gold to her father; service to her father; the gift to the woman herself)
+    [divergence between the texts]; Do not covet; each has his own share (in the division among kin);
+    Who receives the marriage payment [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan''s field:
     tagged by Claude (model), reading the Hebrew.'

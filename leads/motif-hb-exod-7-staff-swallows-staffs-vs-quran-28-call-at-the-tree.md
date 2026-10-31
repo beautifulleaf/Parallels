@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: An eloquent brother is appointed to speak for the hero, who is ''as
-    God'' to him (weight 5.6); A staff thrown down becomes a serpent and turns back into a staff (weight
-    5.4). Pair score 11.0.'
+    God'' to him (weight 6.6); A staff thrown down becomes a serpent and turns back into a staff (weight
+    6.5). Pair score 13.1.'
   basis: reading
 - text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
     staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet

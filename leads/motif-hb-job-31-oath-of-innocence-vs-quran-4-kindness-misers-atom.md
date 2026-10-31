@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not wrong anyone by an atom''s weight (mithqāl dharra)
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job''s oath of innocence: Adultery is a fire that consumes unto Abaddon and roots out
     all one''s increase; Self-curse: may I sow and another eat, and my offspring be uprooted; Self-curse:
@@ -29,18 +29,19 @@ evidence:
     Self-curse should his land cry out against him and its furrows weep for stolen produce or murdered
     owners; Master respects his slaves'' lawsuits because the one who made him in the womb made them too;
     The righteous did not rejoice at his enemy''s ruin nor curse his life; Disavowal of making gold one''s
-    hope or rejoicing in great wealth; Protagonist clears himself with a series of conditional self-curses
-    (''If I have done X, may Y befall me''); and 10 more.'
+    hope or rejoicing in great wealth; ''Here is my mark (tav); let Shaddai answer me'': the litigant
+    signs his deposition; and 10 more.'
   basis: reading
 - text: 'Only in The circle of kindness, misers, and the atom''s weight: Misers who urge stinginess and
     hide what God gave them of his bounty; On that day the disbelievers wish the earth were leveled over
-    them; Good works (spending, prayer) done to be seen by people (riyāʾ); God multiplies a good deed
-    (tenfold) while an evil deed is requited only by its like; Love your neighbor as yourself; They will
-    say to the mountains ''Cover us'' and to the hills ''Fall on us''; Kindness to the near neighbor,
-    the distant neighbor, the companion at one''s side and the wayfarer; Whoever turns from God''s remembrance
-    is assigned a devil as constant companion (qarin), whom he curses at the judgment; On judgment day
-    a witness is brought from every nation, and the Prophet as witness over them; Honor father and mother,
-    with the promise of long life.'
+    them; Being covered over by a mountain or by the earth: cursed on others or wished for oneself [shared
+    matter] [divergence between the texts]; Good works (spending, prayer) done to be seen by people (riyāʾ);
+    God multiplies a good deed (tenfold) while an evil deed is requited only by its like; Love your neighbor
+    as yourself; Kindness to the near neighbor, the distant neighbor, the companion at one''s side and
+    the wayfarer; Whoever turns from God''s remembrance is assigned a devil as constant companion (qarin),
+    whom he curses at the judgment; They will say to the mountains ''Cover us'' and to the hills ''Fall
+    on us''; On judgment day a witness is brought from every nation, and the Prophet as witness over them;
+    Honor father and mother, with the promise of long life.'
   basis: reading
 - text: 'Job''s oath of innocence: tagged by Claude (model), reading the Hebrew.'
   basis: reading

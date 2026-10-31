@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
-    are blotted (weight 4.6). Pair score 4.5.'
+    are blotted (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition
@@ -37,12 +37,13 @@ evidence:
     who know what they do; The intercession of intercessors will not benefit the damned; no soul has power
     to help another; Then each soul will know what it has brought forward and what it left behind; At
     the end the graves are overturned and their contents scattered out (bu''thirat); At the end the seas
-    are set aflame or burst forth (sujjirat, fujjirat); Stars and constellations (kesilim) give no light,
-    the sun is dark at its rising and the moon does not shine; The people''s deeds are written before
-    God, who will repay them into their bosom; At the end the sky is split, cleft or opened (infatarat,
-    inshaqqat, furijat); God formed the kidneys and wove (knit) the speaker in his mother''s womb; Rhetorical
-    formula ''And what will make you know what X is?'' (wa ma adraka ma) introducing an eschatological
-    term.'
+    are set aflame or burst forth (sujjirat, fujjirat); The seams of heaven come apart, the stars leave
+    their places and the waters break out [divergence between the texts]; The people''s deeds are written
+    before God, who will repay them into their bosom; At the end the sky is split, cleft or opened (infatarat,
+    inshaqqat, furijat); Stars and constellations (kesilim) give no light, the sun is dark at its rising
+    and the moon does not shine; God formed the kidneys and wove (knit) the speaker in his mother''s womb;
+    A written record (tablet [divergence between the texts]; Rhetorical formula ''And what will make you
+    know what X is?'' (wa ma adraka ma) introducing an eschatological term.'
   basis: reading
 - text: 'Michael arises, the resurrection, and the sealed book: tagged by Claude (model), reading the
     Hebrew.'

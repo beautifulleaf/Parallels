@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The righteous did not eat his morsel alone without sharing with
-    the orphan (weight 6.7). Pair score 6.7.'
+    the orphan (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Job''s oath of innocence: Adultery is a fire that consumes unto Abaddon and roots out
     all one''s increase; Self-curse: may I sow and another eat, and my offspring be uprooted; Self-curse:
@@ -30,20 +30,20 @@ evidence:
     Self-curse should his land cry out against him and its furrows weep for stolen produce or murdered
     owners; Master respects his slaves'' lawsuits because the one who made him in the womb made them too;
     The righteous did not rejoice at his enemy''s ruin nor curse his life; Disavowal of making gold one''s
-    hope or rejoicing in great wealth; Protagonist clears himself with a series of conditional self-curses
-    (''If I have done X, may Y befall me''); and 10 more.'
+    hope or rejoicing in great wealth; ''Here is my mark (tav); let Shaddai answer me'': the litigant
+    signs his deposition; and 10 more.'
   basis: reading
 - text: 'Only in The human: the mingled drop and the camphor cup: The blessed wear green garments of fine
     silk (sundus) and brocade (istabraq) and bracelets of silver; Immortal youths (wildan mukhalladun)
     circulate among the blessed, like scattered pearls; The righteous drink from a cup mixed with camphor
     (kafur) or ginger (zanjabil); Vessels of silver and goblets of crystal made of silver, measured exactly,
-    are passed round; God is able to replace a people with others better than they, and none can outrun
-    him; There was a stretch of time when the human was not yet a thing worth mentioning; In paradise
-    the shades are close and the fruit clusters hang low within reach; God as shade: the sun shall not
-    strike you by day nor the moon by night; You will not will unless God wills; The righteous give and
-    feed solely for the face of God, seeking no repayment or thanks; Paradise has named springs: Salsabil,
-    Tasnim (and a spring the servants of God make gush forth); Paradise has raised couches (arā''ik, surur),
-    set goblets, cushions in rows and spread carpets; and 4 more.'
+    are passed round; Young servers go round with a variety of vessels serving a mixed drink; Feeding
+    the one without bread, and the motive given for it [divergence between the texts]; God is able to
+    replace a people with others better than they, and none can outrun him; There was a stretch of time
+    when the human was not yet a thing worth mentioning; In paradise the shades are close and the fruit
+    clusters hang low within reach; The divine name(s) are to be pronounced at morning and at evening;
+    God as shade: the sun shall not strike you by day nor the moon by night; You will not will unless
+    God wills; and 7 more.'
   basis: reading
 - text: 'Job''s oath of innocence: tagged by Claude (model), reading the Hebrew.'
   basis: reading

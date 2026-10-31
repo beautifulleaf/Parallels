@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A day when the sky brings a visible smoke (dukhan) covering the
-    people as a painful punishment (weight 6.7). Pair score 6.7.'
+    people as a painful punishment (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The spirit poured on all flesh and signs before the Day: Everyone who calls on the name
     of YHWH will be delivered; Portents in heaven and earth: blood, fire and columns of smoke; The spirit
@@ -35,11 +35,12 @@ evidence:
     taught (by others), a madman'' (mu''allam majnun); God lifts the punishment a little, but they revert;
     then comes ''the greatest assault'' (al-batsha al-kubra); The Book was sent down on a blessed night
     in which every wise matter is decreed/distinguished (cf. the Night of Decree); Oath ''By the clear
-    Book!'' opening a surah; Smoke rises from the destroyed land like smoke of a kiln; God kills and makes
-    alive, brings down to Sheol and raises up; ''There is none like you and no God beside you''; The king
-    breaks his promise to release the people once a plague is lifted; God identifies himself as God of
-    Abraham, Isaac and Jacob; Officers call the visiting prophet ''this madman'' (meshugga''); A surah
-    opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    Book!'' opening a surah; Smoke envelops house or people as a calamity [divergence between the texts];
+    Smoke rises from the destroyed land like smoke of a kiln; A set day or night on which the fates or
+    every matter are decided; The king breaks his promise to release the people once a plague is lifted;
+    God identifies himself as God of Abraham, Isaac and Jacob; ''There is none like you and no God beside
+    you''; Officers call the visiting prophet ''this madman'' (meshugga''); God kills and makes alive,
+    brings down to Sheol and raises up; and 1 more.'
   basis: reading
 - text: 'The spirit poured on all flesh and signs before the Day: tagged by Claude (model), reading the
     Hebrew.'

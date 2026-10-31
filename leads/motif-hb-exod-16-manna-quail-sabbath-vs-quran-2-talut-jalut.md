@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A jar of manna preserved before the testimony for future generations
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Manna and quail; the first Sabbath: Food is given daily, a day''s portion at a time,
     to test obedience; A double portion of manna falls or is gathered on the sixth day; Manna kept overnight
@@ -26,9 +26,9 @@ evidence:
     manna melts when the sun grows hot; Explanatory gloss defining a measure (an omer is a tenth of an
     ephah); Each gathers an omer per person; the one who gathers much has no excess, the one who gathers
     little no lack; Those who go out to gather on the Sabbath find nothing; Manna kept for the Sabbath
-    does not spoil or breed worms; Seventh-day rest declared holy to God, with no gathering or going out;
-    The people eat manna or wander for forty years in the wilderness; Manna described: like coriander
-    seed, look of bdellium, taste of oil cakes, falls with the dew; and 7 more.'
+    does not spoil or breed worms; The people eat manna or wander for forty years in the wilderness; Manna
+    described: like coriander seed, look of bdellium, taste of oil cakes, falls with the dew; God tests
+    the people through food and the Sabbath [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Only in Talut (Saul), the ark and Jalut (Goliath): The ark (tabut) returns, carried by angels,
     containing tranquility (sakina) and relics left by the family of Moses and Aaron; David kills Jalut
@@ -38,9 +38,10 @@ evidence:
     object that the chosen king has no wealth and they have more right to kingship; Before battle the
     army is tested at a river: whoever drinks is not with the leader, except a handful scooped by hand;
     The ark of the covenant: a gold-plated acacia chest with rings and poles [divergence between the texts];
-    What the ark contains [contrast between the texts]; David kills the Philistine giant [divergence between
-    the texts]; A giant taunts Israel and is killed by a hero; Objection raised against the newly chosen
-    king [divergence between the texts]; and 10 more.'
+    A candidate for kingship is judged by his bodily size or strength (too small for the throne; given
+    increase of body) [divergence between the texts]; A claimant''s body is weighed as fitness for kingship
+    [divergence between the texts]; What the ark contains [contrast between the texts]; David kills the
+    Philistine giant [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'Manna and quail; the first Sabbath: tagged by Claude (model), reading the Hebrew.'
   basis: reading

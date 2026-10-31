@@ -13,27 +13,27 @@ traditions:
 layers:
 - motif
 motifs:
-- garments-of-skin
 - garments-of-skin-as-divergence
+- garments-of-skin
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God makes garments of skin for the first couple (weight 6.7); God
-    makes garments of skin for the first couple [divergence between the texts] (weight 6.7). Pair score
-    13.4.'
+- text: 'Shared motifs, rarest first: God makes garments of skin for the first couple [divergence between
+    the texts] (weight 7.7); God makes garments of skin for the first couple (weight 7.3). Pair score
+    15.1.'
   basis: reading
-- text: 'Only in The serpent, the eating, the curses and the expulsion: Each accused shifts blame to another
-    (man to woman, woman to serpent); First woman named as mother of all living; God heard walking in
-    the garden in the breeze of the day; Humans gain divine knowledge and God fears they will also gain
-    immortality; Woman punished with pain in childbirth and subordination to husband; The woman eats first
-    and gives the fruit to her husband; Adam receives words from his Lord and God turns to him in forgiveness
-    [divergence between the texts]; Cherubim and a flaming turning sword guard the way to the tree of
-    life; Enmity decreed at the expulsion from the garden [divergence between the texts]; Eating opens
-    their eyes and they know they are naked [divergence between the texts]; How the first couple answer
-    God after eating: shifting the blame or confessing [divergence between the texts]; The first man''s
-    response after the transgression in the garden (blame or repentance) [divergence between the texts];
-    and 25 more.'
+- text: 'Only in The serpent, the eating, the curses and the expulsion: First woman named as mother of
+    all living; God heard walking in the garden in the breeze of the day; Woman punished with pain in
+    childbirth and subordination to husband; The woman eats first and gives the fruit to her husband;
+    Adam receives words from his Lord and God turns to him in forgiveness [divergence between the texts];
+    Each accused shifts blame to another (man to woman, woman to serpent); Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; Eating opens their eyes and they know they are naked
+    [divergence between the texts]; How the first couple answer God after eating: shifting the blame or
+    confessing [divergence between the texts]; The first man''s response after the transgression in the
+    garden (blame or repentance) [divergence between the texts]; Ground cursed; man must eat by sweat
+    of his brow among thorns and thistles [divergence between the texts]; Sinner hides from God, who calls
+    ''Where are you?'' [divergence between the texts]; and 25 more.'
   basis: reading
 - text: 'Only in Children of Adam - clothing, Satan''s enmity, what God forbids: Wear your adornment (clothing)
     at every place of prostration; Satan and his tribe see humans from where humans cannot see them; Satan
@@ -42,9 +42,9 @@ evidence:
     adornments and good provisions are not forbidden to believers; Short list of what God truly forbids:
     indecencies open and hidden, sin, oppression, associating partners, false speech about God; Whether
     the first couple were naked or clothed before the fall [contrast between the texts]; Clothing at every
-    altar or place of prostration; Nakedness must be covered at the place of worship; Every nation has
-    a fixed term that cannot be advanced or delayed by an hour; Unbelievers defend their practice as what
-    they found their fathers doing.'
+    altar or place of prostration; Nakedness must be covered at the place of worship; Whether the first
+    humans went naked, and how clothing came to them [divergence between the texts]; A man''s (or nation''s)
+    term is fixed to the hour: nothing is added or advanced; and 2 more.'
   basis: reading
 - text: 'The serpent, the eating, the curses and the expulsion: tagged by Claude (model), reading the
     Hebrew.'

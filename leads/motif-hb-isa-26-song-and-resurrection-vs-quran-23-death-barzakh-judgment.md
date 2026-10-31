@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
-    awake and sing (weight 4.9). Pair score 4.9.'
+    awake and sing (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Song of the strong city; your dead shall live: Other lords ruled us; they are dead, they
     will not live; shades (rephaim) will not rise; their memory is wiped out; God''s dew is a ''dew of
@@ -30,22 +30,22 @@ evidence:
     perfect peace (shalom shalom) because it trusts in him; ''My soul yearns for you in the night; my
     spirit within me seeks you at dawn''; ''We have a strong city... Open the gates that the righteous
     nation that keeps faith may enter''; In Yah YHWH is an everlasting rock (tsur olamim); What the dead
-    say when they wake from the dust [divergence between the texts]; On God''s day all that is lofty (cedars
-    of Lebanon, oaks of Bashan, towers, ships of Tarshish) is brought low and God alone exalted; The Gardens
-    of Eden have their gates opened for the righteous; and 7 more.'
+    say when they wake from the dust [divergence between the texts]; The Gardens of Eden have their gates
+    opened for the righteous; God lets the people discover the sleepers so they know his promise of resurrection
+    is true; and 7 more.'
   basis: reading
 - text: 'Only in Repel evil with good; the deathbed plea, the barzakh and the scales: Behind the dead
     is a barrier (barzakh) until the day they are raised; The damned had taken the believers as a laughingstock;
     now the believers triumph; God tells the damned pleading to leave hell: ''Be driven away into it and
     do not speak to me''; At death the sinner begs ''My Lord, send me back, that I may do good''; it is
     refused; When the trumpet is blown there will be no ties of kinship between them, nor will they ask
-    after one another; Seek refuge in God from the goadings of the devils and from their presence; A dying
-    person''s plea to God for more life, and God''s answer [contrast between the texts]; Whether those
-    who die and return to dust rise again [divergence between the texts]; On that day a great shofar will
-    be blown and the lost in Assyria and outcasts in Egypt will come and worship on the holy mountain;
-    Just scales are set up on the day of resurrection; even a mustard seed''s weight is brought forth;
-    YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes; ''Let God
-    weigh me in just balances and know my integrity''; and 5 more.'
+    after one another; Seek refuge in God from the goadings of the devils and from their presence; The
+    dead cannot come back to life on earth; A dying person''s plea to God for more life, and God''s answer
+    [contrast between the texts]; Whether those who die and return to dust rise again [divergence between
+    the texts]; On that day a great shofar will be blown and the lost in Assyria and outcasts in Egypt
+    will come and worship on the holy mountain; A span of many years is set against a single day [divergence
+    between the texts]; At the judgment after death a whole lifetime is reckoned as an hour or a day;
+    and 10 more.'
   basis: reading
 - text: 'Song of the strong city; your dead shall live: tagged by Claude (model), reading the Hebrew.'
   basis: reading

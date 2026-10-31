@@ -12,21 +12,21 @@ traditions:
 layers:
 - motif
 motifs:
-- seat-above-other-kings
 - leading-priests-executed-at-riblah
-- famine-in-besieged-city
-- king-flees-through-breach-by-night
+- seat-above-other-kings
 - sons-slain-before-fathers-eyes-then-blinded
+- king-flees-through-breach-by-night
+- famine-in-besieged-city
 - babylonian-king-named
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The released captive king is given a throne above the other kings
-    in Babylon (weight 6.7); The chief priest, second priest and officials are executed by the conqueror
-    at Riblah (weight 6.7); Famine becomes severe in the besieged city; there is no bread (weight 6.7);
-    Besieged king flees by night through a gate between the walls and is overtaken (weight 6.3); The captive
-    king''s sons are slaughtered before his eyes, then his eyes are put out (weight 6.3); A Babylonian
-    king named in the narrative (Merodach-baladan, Nebuchadnezzar, Evil-merodach) (weight 5.8). Pair score
-    38.4.'
+- text: 'Shared motifs, rarest first: The chief priest, second priest and officials are executed by the
+    conqueror at Riblah (weight 7.7); The released captive king is given a throne above the other kings
+    in Babylon (weight 7.7); The captive king''s sons are slaughtered before his eyes, then his eyes are
+    put out (weight 7.3); Besieged king flees by night through a gate between the walls and is overtaken
+    (weight 7.3); Famine becomes severe in the besieged city; there is no bread (weight 6.6); A Babylonian
+    king named in the narrative (Merodach-baladan, Nebuchadnezzar, Evil-merodach) (weight 6.6). Pair score
+    43.5.'
   basis: reading
 - text: 'Only in The siege and destruction of Jerusalem; Gedaliah; Jehoiachin released: Exiled king''s
     head is ''lifted up'' from prison; he changes his prison garments and eats at the conqueror''s table;
@@ -39,15 +39,15 @@ evidence:
     out by his captors.'
   basis: reading
 - text: 'Only in Historical appendix: siege, burning of the temple, bronze spoils, deportation numbers,
-    Jehoiachin''s release: Precise numbers of deportees for each year of exile; A captive king is released
-    after decades, changes his prison clothes and eats at the foreign king''s table; A king ''lifts the
-    head'' of a prisoner, releasing and honoring him; The besiegers build a siege wall (dayeq) around
-    the city; Jerusalem is breached, captured and burned by the Babylonians; The fleeing king is overtaken
-    in the plains of Jericho; The conqueror leaves the poorest people in the land as vinedressers and
-    farmers; The king''s mother is named in his regnal formula; The temple of Jerusalem is burned and
-    the city walls broken down; Seven princes or counselors who ''see the king''s face'' advise the king;
-    A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing the four directions in threes;
-    Two named bronze pillars, Jachin and Boaz, before the temple; and 1 more.'
+    Jehoiachin''s release: A captive king is released after decades, changes his prison clothes and eats
+    at the foreign king''s table; A king ''lifts the head'' of a prisoner, releasing and honoring him;
+    The besiegers build a siege wall (dayeq) around the city; Jerusalem is breached, captured and burned
+    by the Babylonians; The fleeing king is overtaken in the plains of Jericho; The conqueror leaves the
+    poorest people in the land as vinedressers and farmers; The king''s mother is named in his regnal
+    formula; The temple of Jerusalem is burned and the city walls broken down; Precise numbers of deportees
+    for each year of exile; Seven princes or counselors who ''see the king''s face'' advise the king;
+    Two named bronze pillars, Jachin and Boaz, before the temple; The temple treasures and gold vessels
+    of Solomon are carried off to Babylon; and 1 more.'
   basis: reading
 - text: 'The siege and destruction of Jerusalem; Gedaliah; Jehoiachin released: tagged by Claude (model),
     reading the Hebrew.'
@@ -57,7 +57,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: The released captive king is given a throne above the other kings in Babylon
+finding: The chief priest, second priest and officials are executed by the conqueror at Riblah
 kinds:
 - shared
 units:
@@ -69,21 +69,6 @@ units:
     release'
   tradition: judaism
 matches:
-- kind: shared
-  label: The released captive king is given a throne above the other kings in Babylon
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 25:28
-      lang: he
-      text: וַיְדַבֵּ֥ר אִתּ֖וֹ טֹב֑וֹת וַיִּתֵּן֙ אֶת כִּסְא֔וֹ מֵעַ֗ל כִּסֵּ֧א הַמְּלָכִ֛ים אֲשֶׁ֥ר
-        אִתּ֖וֹ בְּבָבֶֽל
-  - tradition: judaism
-    passages:
-    - ref: Jer 52:32
-      lang: he
-      text: וַיְדַבֵּ֥ר אִתּ֖וֹ טֹב֑וֹת וַיִּתֵּן֙ אֶת כִּסְא֔וֹ מִמַּ֗עַל לְכִסֵּ֧א מלכים הַמְּלָכִ֛ים
-        אֲשֶׁ֥ר אִתּ֖וֹ בְּבָבֶֽל
 - kind: shared
   label: The chief priest, second priest and officials are executed by the conqueror at Riblah
   sides:
@@ -115,19 +100,37 @@ matches:
         בָּבֶ֧ל וַיְמִתֵ֛ם בְּרִבְלָ֖ה בְּאֶ֣רֶץ חֲמָ֑ת וַיִּ֥גֶל יְהוּדָ֖ה מֵעַ֥ל אַדְמָתֽוֹ
     note: Seraiah the chief priest, Zephaniah the second priest, three threshold keepers
 - kind: shared
-  label: Famine becomes severe in the besieged city; there is no bread
+  label: The released captive king is given a throne above the other kings in Babylon
   sides:
   - tradition: judaism
     passages:
-    - ref: 2Kgs 25:3
+    - ref: 2Kgs 25:28
       lang: he
-      text: בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא הָ֥יָה לֶ֖חֶם לְעַ֥ם הָאָֽרֶץ
+      text: וַיְדַבֵּ֥ר אִתּ֖וֹ טֹב֑וֹת וַיִּתֵּן֙ אֶת כִּסְא֔וֹ מֵעַ֗ל כִּסֵּ֧א הַמְּלָכִ֛ים אֲשֶׁ֥ר
+        אִתּ֖וֹ בְּבָבֶֽל
   - tradition: judaism
     passages:
-    - ref: Jer 52:6
+    - ref: Jer 52:32
       lang: he
-      text: בַּחֹ֤דֶשׁ הָֽרְבִיעִי֙ בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא הָיָ֥ה
-        לֶ֖חֶם לְעַ֥ם הָאָֽרֶץ
+      text: וַיְדַבֵּ֥ר אִתּ֖וֹ טֹב֑וֹת וַיִּתֵּן֙ אֶת כִּסְא֔וֹ מִמַּ֗עַל לְכִסֵּ֧א מלכים הַמְּלָכִ֛ים
+        אֲשֶׁ֥ר אִתּ֖וֹ בְּבָבֶֽל
+- kind: shared
+  label: The captive king's sons are slaughtered before his eyes, then his eyes are put out
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 25:7
+      lang: he
+      text: וְאֶת בְּנֵי֙ צִדְקִיָּ֔הוּ שָׁחֲט֖וּ לְעֵינָ֑יו וְאֶת עֵינֵ֤י צִדְקִיָּ֨הוּ֙ עִוֵּ֔ר וַיַּאַסְרֵ֨הוּ֙
+        בַֽנְחֻשְׁתַּ֔יִם וַיְבִאֵ֖הוּ בָּבֶֽל
+  - tradition: judaism
+    passages:
+    - ref: Jer 52:10-11
+      lang: he
+      text: (52:10) וַיִּשְׁחַ֧ט מֶֽלֶךְ בָּבֶ֛ל אֶת בְּנֵ֥י צִדְקִיָּ֖הוּ לְעֵינָ֑יו וְגַ֛ם אֶת כָּל
+        שָׂרֵ֥י יְהוּדָ֖ה שָׁחַ֥ט בְּרִבְלָֽתָה (52:11) וְאֶת עֵינֵ֥י צִדְקִיָּ֖הוּ עִוֵּ֑ר וַיַּאַסְרֵ֣הוּ
+        בַֽנְחֻשְׁתַּ֗יִם וַיְבִאֵ֤הוּ מֶֽלֶךְ בָּבֶל֙ בָּבֶ֔לָה וַיִּתְּנֵ֥הוּ בבית בֵֽית הַפְּקֻדֹּ֖ת
+        עַד י֥וֹם מוֹתֽוֹ
 - kind: shared
   label: Besieged king flees by night through a gate between the walls and is overtaken
   sides:
@@ -150,22 +153,19 @@ matches:
         דֶּ֜רֶךְ שַׁ֤עַר בֵּין הַחֹמֹתַ֨יִם֙ אֲשֶׁר֙ עַל גַּ֣ן הַמֶּ֔לֶךְ וְכַשְׂדִּ֥ים עַל הָעִ֖יר סָבִ֑יב
         וַיֵּלְכ֖וּ דֶּ֥רֶךְ הָעֲרָבָֽה
 - kind: shared
-  label: The captive king's sons are slaughtered before his eyes, then his eyes are put out
+  label: Famine becomes severe in the besieged city; there is no bread
   sides:
   - tradition: judaism
     passages:
-    - ref: 2Kgs 25:7
+    - ref: 2Kgs 25:3
       lang: he
-      text: וְאֶת בְּנֵי֙ צִדְקִיָּ֔הוּ שָׁחֲט֖וּ לְעֵינָ֑יו וְאֶת עֵינֵ֤י צִדְקִיָּ֨הוּ֙ עִוֵּ֔ר וַיַּאַסְרֵ֨הוּ֙
-        בַֽנְחֻשְׁתַּ֔יִם וַיְבִאֵ֖הוּ בָּבֶֽל
+      text: בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא הָ֥יָה לֶ֖חֶם לְעַ֥ם הָאָֽרֶץ
   - tradition: judaism
     passages:
-    - ref: Jer 52:10-11
+    - ref: Jer 52:6
       lang: he
-      text: (52:10) וַיִּשְׁחַ֧ט מֶֽלֶךְ בָּבֶ֛ל אֶת בְּנֵ֥י צִדְקִיָּ֖הוּ לְעֵינָ֑יו וְגַ֛ם אֶת כָּל
-        שָׂרֵ֥י יְהוּדָ֖ה שָׁחַ֥ט בְּרִבְלָֽתָה (52:11) וְאֶת עֵינֵ֥י צִדְקִיָּ֖הוּ עִוֵּ֑ר וַיַּאַסְרֵ֣הוּ
-        בַֽנְחֻשְׁתַּ֗יִם וַיְבִאֵ֤הוּ מֶֽלֶךְ בָּבֶל֙ בָּבֶ֔לָה וַיִּתְּנֵ֥הוּ בבית בֵֽית הַפְּקֻדֹּ֖ת
-        עַד י֥וֹם מוֹתֽוֹ
+      text: בַּחֹ֤דֶשׁ הָֽרְבִיעִי֙ בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא הָיָ֥ה
+        לֶ֖חֶם לְעַ֥ם הָאָֽרֶץ
 - kind: shared
   label: A Babylonian king named in the narrative (Merodach-baladan, Nebuchadnezzar, Evil-merodach)
   sides:

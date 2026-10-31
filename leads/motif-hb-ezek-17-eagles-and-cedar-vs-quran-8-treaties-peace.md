@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Most of the peoples were found without fidelity to their covenant
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Riddle of the two eagles, the cedar and the vine; the messianic cedar shoot: The vassal
     king who despised his oath and broke his covenant will not escape but die in the overlord''s land;
@@ -27,21 +27,23 @@ evidence:
     turning from Babylon to Egypt); A great eagle with long pinions and many-colored plumage comes to
     Lebanon, plucks the top of the cedar and carries it to a land of merchants; God himself takes a tender
     shoot from the cedar''s top and plants it on Israel''s high mountain, where it becomes a noble cedar;
-    Birds of every wing nest in the branches and shade of a great tree (kingdom); God brings low the high
-    tree and exalts the low tree, dries up the green tree and makes the dry tree flourish; God spreads
-    his net over the king and catches him in his snare; Vassal king rebels against the overlord who made
-    him swear by God; The east wind lifts the wicked man and sweeps him from his place; men clap their
-    hands and hiss at him; Speaker opens his mouth in a parable (mashal) and utters riddles (hidot) from
-    of old; God swears ''As I live''.'
+    God brings low the high tree and exalts the low tree, dries up the green tree and makes the dry tree
+    flourish; God spreads his net over the king and catches him in his snare; Vassal king rebels against
+    the overlord who made him swear by God; The east wind lifts the wicked man and sweeps him from his
+    place; men clap their hands and hiss at him; Speaker opens his mouth in a parable (mashal) and utters
+    riddles (hidot) from of old; Birds of every wing nest in the branches and shade of a great tree (kingdom);
+    God swears ''As I live''.'
   basis: reading
 - text: 'Only in Treaty-breakers, deterrence and peace: God united the believers'' hearts, which all the
     wealth on earth could not have done; If the enemy inclines to peace, incline to it and trust God;
     Prepare against the enemy whatever force and tethered war horses you can, to deter them; If a treaty
     partner is feared treacherous, throw the treaty back to them on equal terms; Peace offered or accepted
     in war, and its terms; Peace offered or accepted in war, and its terms [divergence between the texts];
-    Amassing war horses, and trust in God [divergence between the texts]; Amassing war horses, and trust
-    in God [contrast between the texts]; The heedless are like cattle, or even more astray; Messengers
-    offer peace terms before battle.'
+    Amassing war horses, and trust in God [divergence between the texts]; An enemy bound by oath breaks
+    it, again and again, and scorns the religion or the gods'' words; The vassal is said to have sinned
+    again and again and to have utterly broken the sworn word; Amassing war horses, and trust in God [contrast
+    between the texts]; The heedless are like cattle, or even more astray; Messengers offer peace terms
+    before battle.'
   basis: reading
 - text: 'Riddle of the two eagles, the cedar and the vine; the messianic cedar shoot: tagged by Claude
     (model), reading the Hebrew.'

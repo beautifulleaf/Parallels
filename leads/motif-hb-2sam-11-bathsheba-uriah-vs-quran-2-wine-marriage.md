@@ -18,28 +18,29 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A woman is purifying herself from her menstrual impurity (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in David and Bathsheba; Uriah carries his own death letter: A man carries a sealed letter
-    ordering his own death; The adulterer recalls the husband from war so he will sleep with his wife
-    and cover the pregnancy; A king walking on his roof sees a beautiful woman bathing; The king stays
-    home at the season when kings go to war; Narrator''s verdict: ''the thing was evil in the eyes of
-    YHWH''; A soldier refuses to sleep with his wife while the army and ark are in the field; Saying:
-    ''the sword devours now one, now another''; After the mourning period the king takes the widow as
-    his wife; Sin described as a sequence: I saw, I coveted, I took, I hid; King plots that the hero die
-    by enemy hands by setting a deadly task; A ruler or prophet marries the wife of a man under him [contrast
-    between the texts]; A woman drops an upper millstone from a tower onto the attacker''s head.'
+- text: 'Only in David and Bathsheba; Uriah carries his own death letter: The adulterer recalls the husband
+    from war so he will sleep with his wife and cover the pregnancy; The king stays home at the season
+    when kings go to war; Narrator''s verdict: ''the thing was evil in the eyes of YHWH''; A soldier refuses
+    to sleep with his wife while the army and ark are in the field; Saying: ''the sword devours now one,
+    now another''; After the mourning period the king takes the widow as his wife; A man carries a sealed
+    letter ordering his own death; Sin described as a sequence: I saw, I coveted, I took, I hid; A king
+    walking on his roof sees a beautiful woman bathing; King plots that the hero die by enemy hands by
+    setting a deadly task; A ruler or prophet marries the wife of a man under him [contrast between the
+    texts]; A woman drops an upper millstone from a tower onto the attacker''s head.'
   basis: reading
 - text: 'Only in Wine, gambling, orphans, mixed marriage and menstruation: A believing slave woman (or
     man) is better for marriage than an attractive polytheist; What to spend? ''The surplus'' (al-''afw);
-    Mixing with orphans'' affairs permitted: they are your brothers; Your wives are a tilth for you; come
-    to your tilth as you wish; Intercourse with a menstruating woman is forbidden [divergence between
-    the texts]; Wine and gambling: in both great sin and some benefit, but the sin is greater; Do not
-    look at wine when it is red and sparkles in the cup; at the last it bites like a serpent and stings
-    like a viper; Whether wine is good or harmful [contrast between the texts]; Ban on marrying outside
-    the community and its criterion [divergence between the texts]; Intercourse with a menstruating woman
-    is forbidden; Marrying foreign women will lead the sons into idolatry; Prohibition of intermarriage
-    with the peoples of the land lest they turn sons to other gods.'
+    Mixing with orphans'' affairs permitted: they are your brothers; Intercourse with a menstruating woman
+    is forbidden [divergence between the texts]; Marriage with a man or woman of the hostile outside group
+    is barred or dangerous, because the spouse will lead to betrayal or ruin; Ploughing and sowing a field
+    stand for insemination (the plough impregnates the earth; women are a tilth); Wine and gambling: in
+    both great sin and some benefit, but the sin is greater; Do not look at wine when it is red and sparkles
+    in the cup; at the last it bites like a serpent and stings like a viper; A woman (wife) is likened
+    to a field that is ploughed; Whether wine is good or harmful [contrast between the texts]; Ban on
+    marrying outside the community and its criterion [divergence between the texts]; A woman and a ploughed
+    field are likened to each other; and 5 more.'
   basis: reading
 - text: 'David and Bathsheba; Uriah carries his own death letter: tagged by Claude (model), reading the
     Hebrew.'

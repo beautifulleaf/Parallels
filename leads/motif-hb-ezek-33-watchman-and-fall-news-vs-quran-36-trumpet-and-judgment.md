@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet heard or dismissed as a poet or singer [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     Survivors in the ruins argue ''Abraham was only one and inherited the land; we are many, so the land
@@ -46,9 +46,8 @@ evidence:
     when they wake from the dust [divergence between the texts]; A horn blown on the last day, and whom
     it gathers [divergence between the texts]; The resurrected cry ''Woe to us, who has raised us from
     our sleeping place (marqad)?''; If God willed he would blot out their eyes or transform them (maskh)
-    in their places so they could neither go on nor return; On judgment day tongues, hands and feet testify
-    against people; No host from heaven was needed: a single Shout (sayha) and they were extinguished;
-    and 2 more.'
+    in their places so they could neither go on nor return; The dead wake in their resting place [divergence
+    between the texts]; On judgment day tongues, hands and feet testify against people; and 4 more.'
   basis: reading
 - text: 'The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     tagged by Claude (model), reading the Hebrew.'

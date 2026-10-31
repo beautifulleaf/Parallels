@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will put his hook in the enemy king''s nose and his bit in his
-    lips and lead him back (weight 5.8). Pair score 5.8.'
+    lips and lead him back (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter:
     The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses; The angel
@@ -28,24 +28,24 @@ evidence:
     up rivers with his feet; Proverb of crisis: children have come to the birth-stool and there is no
     strength to deliver; God says the conqueror''s victories were planned by him long ago; the conqueror
     is only his instrument; The king tears his clothes, puts on sackcloth and goes into the temple in
-    crisis; The enemy is said to reproach (harref) ''the living God''; Royal parricides flee to the land
-    of Ararat; The escaped remnant shall again take root downward and bear fruit upward; a remnant goes
-    out from Zion; God puts a spirit in the invader so that he hears a rumor and returns home; King spreads
-    the enemy''s threatening letter before God in the temple; Sign: this year eat aftergrowth, next year
-    what springs of itself, the third year sow and reap; and 9 more.'
+    crisis; Royal parricides flee to the land of Ararat; The escaped remnant shall again take root downward
+    and bear fruit upward; a remnant goes out from Zion; God puts a spirit in the invader so that he hears
+    a rumor and returns home; King spreads the enemy''s threatening letter before God in the temple; Sign:
+    this year eat aftergrowth, next year what springs of itself, the third year sow and reap; The ''virgin
+    daughter of Zion'' laughs at and wags her head after the enemy; and 9 more.'
   basis: reading
 - text: 'Only in Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born
     man branded on the snout: God threatens: ''We shall brand him on the snout (khurtum)''; The deniers
     wish the prophet would compromise (tudhin) so they would compromise; The prophet is not mad; he has
-    an unfailing reward and is of a great moral character (khuluq ''azim); Mamzer excluded from the assembly
-    to the tenth generation; Oath ''Nun. By the pen and what they inscribe''; A mark (tav) is put on the
-    foreheads of those who sigh over the city''s abominations so the destroyers spare them; Do not obey
-    every contemptible swearer, backbiter going about with slander, hinderer of good, coarse and moreover
-    ''zanim'' (base-born, ignoble); The prophet is no soothsayer (kahin), no madman, no poet awaiting
-    the accident of fate; Defense of the prophet: there is no madness (jinna) in your companion; he is
-    only a warner; Do not go about as a talebearer among your people; Unbelievers dismiss the revelation
-    as ''tales of the ancients'' (asatir al-awwalin) they could equal; A surah opens with isolated letters
-    (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    an unfailing reward and is of a great moral character (khuluq ''azim); A string of abusive epithets
+    against an opponent, including a slur on his birth; Mamzer excluded from the assembly to the tenth
+    generation; Oath ''Nun. By the pen and what they inscribe''; The ruler is told not to listen to, or
+    obey, the slanderer; The man who goes about (comes and goes) with words, setting brothers / people
+    against each other; A go-between who carries slander between men; A mark (tav) is put on the foreheads
+    of those who sigh over the city''s abominations so the destroyers spare them; Do not obey every contemptible
+    swearer, backbiter going about with slander, hinderer of good, coarse and moreover ''zanim'' (base-born,
+    ignoble); The prophet is no soothsayer (kahin), no madman, no poet awaiting the accident of fate;
+    and 4 more.'
   basis: reading
 - text: 'Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter: tagged by
     Claude (model), reading the Hebrew.'

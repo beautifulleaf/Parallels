@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God seized Pharaoh and his hosts and cast them into the sea while
-    he was blameworthy (weight 6.7). Pair score 6.7.'
+    he was blameworthy (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Song of the Sea and Miriam''s song: The earth swallows the enemy at God''s outstretched
     right hand; God leads the redeemed people to his holy abode; Neighboring nations and chieftains tremble
@@ -28,9 +28,9 @@ evidence:
     Victory song quotes the enemy''s boastful first-person plan before his destruction; Drowned enemies
     sink like a stone or like lead in mighty waters; Mary is addressed as ''sister of Aaron'' [divergence
     between the texts]; God brings and plants his people on the mountain of his inheritance, his sanctuary;
-    A prophetess leads the women with drums and dances in a victory song; The sea splits and each part
-    is like a great mountain (ṭawd); Leader and people sing a victory song after the enemy''s destruction;
-    Hymn climaxes with ''YHWH will reign forever and ever''; and 4 more.'
+    A prophetess leads the women with drums and dances in a victory song; God''s glorious right hand shatters
+    the enemy; The sea splits and each part is like a great mountain (ṭawd); Leader and people sing a
+    victory song after the enemy''s destruction; and 4 more.'
   basis: reading
 - text: 'Only in Abraham''s honored guests, the barren old wife striking her face, the stones of clay
     for Lot''s people; Pharaoh, ''Ad, Thamud and Noah: On ''Ad God sent the barren wind (al-rih al-''aqim),
@@ -40,10 +40,11 @@ evidence:
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
     old woman!''; Angels seize the hesitating family by the hand and lead them out; The answer given to
-    the old woman''s doubt [divergence between the texts]; Heavenly visitors eat a human meal; Host runs
-    to welcome strangers, washes their feet and feeds them [divergence between the texts]; How Abraham
-    learns of Sodom''s fate, and his response [divergence between the texts]; Who Abraham''s visitors
-    are [divergence between the texts]; and 19 more.'
+    the old woman''s doubt [divergence between the texts]; Supernatural envoys who come to seize or destroy
+    do not eat the food offered them [divergence between the texts]; Host runs to welcome strangers, washes
+    their feet and feeds them [divergence between the texts]; The host, seeing the divine visitor, has
+    his household prepare an animal from the herd (lamb, calf) for the guest; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; and 24 more.'
   basis: reading
 - text: 'The Song of the Sea and Miriam''s song: tagged by Claude (model), reading the Hebrew.'
   basis: reading

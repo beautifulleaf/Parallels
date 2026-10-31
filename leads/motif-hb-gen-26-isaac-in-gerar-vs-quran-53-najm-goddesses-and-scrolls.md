@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Abraham had a written revelation, or kept God''s laws unwritten
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Isaac in Gerar, the wife-sister episode, wells and treaty: God forbids the patriarch
     to go down to Egypt in a famine; King looking through a window sees the couple embracing and learns
@@ -42,7 +42,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 15 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 19 more.'
   basis: reading
 - text: 'Isaac in Gerar, the wife-sister episode, wells and treaty: tagged by Claude (model), reading
     the Hebrew.'

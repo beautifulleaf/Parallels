@@ -20,34 +20,34 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God let loose the two seas, one sweet, one salt, with a barrier
-    (barzakh) and partition between them (weight 5.8); Sun and moon are set to rule day and night and
-    mark signs and seasons (weight 4.7). Pair score 10.5.'
+    (barzakh) and partition between them (weight 6.8); Sun and moon are set to rule day and night and
+    mark signs and seasons (weight 5.5). Pair score 12.3.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 26 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 26 more.'
   basis: reading
 - text: 'Only in Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless
     fire; the two seas and the barrier: God raised the sky and set the Balance: do not transgress in the
     balance; weigh with justice and do not skimp; Lord of the two easts and the two wests (the solstitial
     sunrises and sunsets); The Merciful (al-Rahman) taught the Quran, created man and taught him clear
-    speech (bayan); From the two seas come pearls and coral (marjan); A creation litany with a refrain
+    speech (bayan); From the two seas come pearls and coral (marjan); The divine balance does not tilt,
+    therefore a human judge may not tilt it [divergence between the texts]; A creation litany with a refrain
     after every line [divergence between the texts]; The text addresses jinn and humans together in the
     dual (''you two'', al-thaqalan, ''the two weighty ones''); All in heaven and earth ask of him; every
-    day he is engaged in some affair (kull yawm huwa fi sha''n); Earth and heavens will perish and wear
-    out like a garment, changed like clothing, but God remains the same; Man created from ringing clay
-    like pottery, the jinn from a smokeless flame of fire (marij min nar); Just weights and measures,
-    and the ground given for them [divergence between the texts]; Refrain repeated 31 times: ''Which then
-    of the bounties of your Lord will you two (jinn and humans) deny?''; Ships running on the sea like
-    landmarks/mountains are a sign; God could still the wind and leave them motionless or wreck them;
-    and 8 more.'
+    day he is engaged in some affair (kull yawm huwa fi sha''n); The deity made or presides over the balance;
+    do not tamper with it or make it short; A god sets up or holds the scales so that weighing in trade
+    is just; Earth and heavens will perish and wear out like a garment, changed like clothing, but God
+    remains the same; Man created from ringing clay like pottery, the jinn from a smokeless flame of fire
+    (marij min nar); and 13 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

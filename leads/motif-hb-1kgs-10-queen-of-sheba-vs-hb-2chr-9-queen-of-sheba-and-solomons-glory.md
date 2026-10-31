@@ -12,20 +12,20 @@ traditions:
 layers:
 - motif
 motifs:
-- breathless-at-royal-splendor
-- almug-wood-for-lyres
 - caravan-of-spices-gold-gems
+- almug-wood-for-lyres
+- breathless-at-royal-splendor
 - queen-of-shebas-confession-as-divergence
 - queen-tests-king-with-riddles
 - nations-come-to-hear-wisdom
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: A visitor seeing the king''s court is left breathless (''no more
-    spirit in her'') (weight 6.7); Rare almug wood from Ophir used for temple supports and lyres for singers;
-    never seen again (weight 6.7); A royal visitor arrives with camels carrying spices, gold and precious
-    stones (weight 6.7); What the queen of Sheba says of Solomon''s God [divergence between the texts]
-    (weight 6.3); A foreign queen tests the king with riddles and he answers them all (weight 6.3); Kings
-    of all the earth send to hear the wise king''s wisdom (weight 6.0). Pair score 38.6.'
+- text: 'Shared motifs, rarest first: A royal visitor arrives with camels carrying spices, gold and precious
+    stones (weight 7.7); Rare almug wood from Ophir used for temple supports and lyres for singers; never
+    seen again (weight 7.7); A visitor seeing the king''s court is left breathless (''no more spirit in
+    her'') (weight 7.7); What the queen of Sheba says of Solomon''s God [divergence between the texts]
+    (weight 7.3); A foreign queen tests the king with riddles and he answers them all (weight 7.3); Kings
+    of all the earth send to hear the wise king''s wisdom (weight 7.1). Pair score 45.0.'
   basis: reading
 - text: 'Only in The Queen of Sheba visits Solomon: Visitor confesses that reports did not tell even half
     of the king''s wisdom and wealth; A foreigner declares that YHWH is greater than all gods; Fleets
@@ -33,14 +33,14 @@ evidence:
   basis: reading
 - text: 'Only in The Queen of Sheba tests Solomon; his gold, ivory throne, ships and death: A foreign
     ruler blesses Israel''s God for setting the king on his throne; The king exceeds all the kings of
-    the earth in riches and wisdom; All the kings of Arabia and governors bring gold and silver; An annual
-    income of 666 talents of gold; A visitor says she did not believe the report until she saw: not half
-    was told her; Promised land stretches from the river of Egypt to the Euphrates; The great throne in
-    the Sheba story, and whose it is [divergence between the texts]; Great ivory throne overlaid with
-    gold, with six steps and twelve lions on the steps and two beside the arms; The queen of Sheba visits
-    Solomon; The queen of Sheba''s gifts and Solomon''s response [divergence between the texts]; The queen
-    of Sheba overwhelmed by Solomon''s buildings [divergence between the texts]; Tarshish ships every
-    three years bring gold, silver, ivory, apes and peacocks (or baboons); and 7 more.'
+    the earth in riches and wisdom; An annual income of 666 talents of gold; A visitor says she did not
+    believe the report until she saw: not half was told her; Promised land stretches from the river of
+    Egypt to the Euphrates; The great throne in the Sheba story, and whose it is [divergence between the
+    texts]; All the kings of Arabia and governors bring gold and silver; The queen of Sheba visits Solomon;
+    The queen of Sheba''s gifts and Solomon''s response [divergence between the texts]; The queen of Sheba
+    overwhelmed by Solomon''s buildings [divergence between the texts]; Who tests whom between Solomon
+    and the queen of Sheba [divergence between the texts]; Shields of beaten gold made or captured and
+    displayed; and 7 more.'
   basis: reading
 - text: 'The Queen of Sheba visits Solomon: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -49,7 +49,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: A visitor seeing the king's court is left breathless ('no more spirit in her')
+finding: A royal visitor arrives with camels carrying spices, gold and precious stones
 kinds:
 - shared
 units:
@@ -60,44 +60,6 @@ units:
   title: The Queen of Sheba tests Solomon; his gold, ivory throne, ships and death
   tradition: judaism
 matches:
-- kind: shared
-  label: A visitor seeing the king's court is left breathless ('no more spirit in her')
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 1Kgs 10:4-5
-      lang: he
-      text: (10:4) וַתֵּ֨רֶא֙ מַֽלְכַּת שְׁבָ֔א אֵ֖ת כָּל חָכְמַ֣ת שְׁלֹמֹ֑ה וְהַבַּ֖יִת אֲשֶׁ֥ר בָּנָֽה
-        (10:5) וּמַאֲכַ֣ל שֻׁלְחָנ֡וֹ וּמוֹשַׁ֣ב עֲבָדָיו֩ וּמַעֲמַ֨ד משרתו מְשָׁרְתָ֜יו וּמַלְבֻּֽשֵׁיהֶם֙
-        וּמַשְׁקָ֔יו וְעֹ֣לָת֔וֹ אֲשֶׁ֥ר יַעֲלֶ֖ה בֵּ֣ית יְהוָ֑ה וְלֹא הָ֥יָה בָ֛הּ ע֖וֹד רֽוּחַ
-  - tradition: judaism
-    passages:
-    - ref: 2Chr 9:4
-      lang: he
-      text: וּמַאֲכַ֣ל שֻׁלְחָנ֡וֹ וּמוֹשַׁ֣ב עֲבָדָיו֩ וּמַעֲמַ֨ד מְשָׁרְתָ֜יו וּמַלְבּֽוּשֵׁיהֶ֗ם וּמַשְׁקָיו֙
-        וּמַלְבּ֣וּשֵׁיהֶ֔ם וַעֲלִיָּת֔וֹ אֲשֶׁ֥ר יַעֲלֶ֖ה בֵּ֣ית יְהוָ֑ה וְלֹא הָ֥יָה ע֛וֹד בָּ֖הּ רֽוּחַ
-    note: '''there was no more spirit in her'''
-- kind: shared
-  label: Rare almug wood from Ophir used for temple supports and lyres for singers; never seen again
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 1Kgs 10:11-12
-      lang: he
-      text: (10:11) וְגַם֙ אֳנִ֣י חִירָ֔ם אֲשֶׁר נָשָׂ֥א זָהָ֖ב מֵאוֹפִ֑יר הֵבִ֨יא מֵאֹפִ֜יר עֲצֵ֧י אַלְמֻגִּ֛ים
-        הַרְבֵּ֥ה מְאֹ֖ד וְאֶ֥בֶן יְקָרָֽה (10:12) וַיַּ֣עַשׂ הַ֠מֶּלֶךְ אֶת עֲצֵ֨י הָאַלְמֻגִּ֜ים מִסְעָ֤ד
-        לְבֵית יְהוָה֙ וּלְבֵ֣ית הַמֶּ֔לֶךְ וְכִנֹּר֥וֹת וּנְבָלִ֖ים לַשָּׁרִ֑ים לֹ֣א בָֽא כֵ֞ן עֲצֵ֤י
-        אַלְמֻגִּים֙ וְלֹ֣א נִרְאָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה
-  - tradition: judaism
-    passages:
-    - ref: 2Chr 9:10
-      lang: he
-      text: וְגַם עַבְדֵ֤י חירם חוּרָם֙ וְעַבְדֵ֣י שְׁלֹמֹ֔ה אֲשֶׁר הֵבִ֥יאוּ זָהָ֖ב מֵאוֹפִ֑יר הֵבִ֛יאוּ
-        עֲצֵ֥י אַלְגּוּמִּ֖ים וְאֶ֥בֶן יְקָרָֽה
-    - ref: 2Chr 9:11
-      lang: he
-      text: וַיַּ֣עַשׂ הַ֠מֶּלֶךְ אֶת עֲצֵ֨י הָֽאַלְגּוּמִּ֜ים מְסִלּ֤וֹת לְבֵית יְהוָה֙ וּלְבֵ֣ית הַמֶּ֔לֶךְ
-        וְכִנֹּר֥וֹת וּנְבָלִ֖ים לַשָּׁרִ֑ים וְלֹא נִרְא֥וּ כָהֵ֛ם לְפָנִ֖ים בְּאֶ֥רֶץ יְהוּדָֽה
 - kind: shared
   label: A royal visitor arrives with camels carrying spices, gold and precious stones
   sides:
@@ -120,6 +82,44 @@ matches:
       text: וַתִּתֵּ֨ן לַמֶּ֜לֶךְ מֵאָ֥ה וְעֶשְׂרִ֣ים כִּכַּ֣ר זָהָ֗ב וּבְשָׂמִ֛ים לָרֹ֥ב מְאֹ֖ד וְאֶ֣בֶן
         יְקָרָ֑ה וְלֹ֤א הָיָה֙ כַּבֹּ֣שֶׂם הַה֔וּא אֲשֶׁר נָתְנָ֥ה מַֽלְכַּת שְׁבָ֖א לַמֶּ֥לֶךְ שְׁלֹמֹֽה
     note: no spice like that the queen gave
+- kind: shared
+  label: Rare almug wood from Ophir used for temple supports and lyres for singers; never seen again
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 10:11-12
+      lang: he
+      text: (10:11) וְגַם֙ אֳנִ֣י חִירָ֔ם אֲשֶׁר נָשָׂ֥א זָהָ֖ב מֵאוֹפִ֑יר הֵבִ֨יא מֵאֹפִ֜יר עֲצֵ֧י אַלְמֻגִּ֛ים
+        הַרְבֵּ֥ה מְאֹ֖ד וְאֶ֥בֶן יְקָרָֽה (10:12) וַיַּ֣עַשׂ הַ֠מֶּלֶךְ אֶת עֲצֵ֨י הָאַלְמֻגִּ֜ים מִסְעָ֤ד
+        לְבֵית יְהוָה֙ וּלְבֵ֣ית הַמֶּ֔לֶךְ וְכִנֹּר֥וֹת וּנְבָלִ֖ים לַשָּׁרִ֑ים לֹ֣א בָֽא כֵ֞ן עֲצֵ֤י
+        אַלְמֻגִּים֙ וְלֹ֣א נִרְאָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 9:10
+      lang: he
+      text: וְגַם עַבְדֵ֤י חירם חוּרָם֙ וְעַבְדֵ֣י שְׁלֹמֹ֔ה אֲשֶׁר הֵבִ֥יאוּ זָהָ֖ב מֵאוֹפִ֑יר הֵבִ֛יאוּ
+        עֲצֵ֥י אַלְגּוּמִּ֖ים וְאֶ֥בֶן יְקָרָֽה
+    - ref: 2Chr 9:11
+      lang: he
+      text: וַיַּ֣עַשׂ הַ֠מֶּלֶךְ אֶת עֲצֵ֨י הָֽאַלְגּוּמִּ֜ים מְסִלּ֤וֹת לְבֵית יְהוָה֙ וּלְבֵ֣ית הַמֶּ֔לֶךְ
+        וְכִנֹּר֥וֹת וּנְבָלִ֖ים לַשָּׁרִ֑ים וְלֹא נִרְא֥וּ כָהֵ֛ם לְפָנִ֖ים בְּאֶ֥רֶץ יְהוּדָֽה
+- kind: shared
+  label: A visitor seeing the king's court is left breathless ('no more spirit in her')
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 10:4-5
+      lang: he
+      text: (10:4) וַתֵּ֨רֶא֙ מַֽלְכַּת שְׁבָ֔א אֵ֖ת כָּל חָכְמַ֣ת שְׁלֹמֹ֑ה וְהַבַּ֖יִת אֲשֶׁ֥ר בָּנָֽה
+        (10:5) וּמַאֲכַ֣ל שֻׁלְחָנ֡וֹ וּמוֹשַׁ֣ב עֲבָדָיו֩ וּמַעֲמַ֨ד משרתו מְשָׁרְתָ֜יו וּמַלְבֻּֽשֵׁיהֶם֙
+        וּמַשְׁקָ֔יו וְעֹ֣לָת֔וֹ אֲשֶׁ֥ר יַעֲלֶ֖ה בֵּ֣ית יְהוָ֑ה וְלֹא הָ֥יָה בָ֛הּ ע֖וֹד רֽוּחַ
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 9:4
+      lang: he
+      text: וּמַאֲכַ֣ל שֻׁלְחָנ֡וֹ וּמוֹשַׁ֣ב עֲבָדָיו֩ וּמַעֲמַ֨ד מְשָׁרְתָ֜יו וּמַלְבּֽוּשֵׁיהֶ֗ם וּמַשְׁקָיו֙
+        וּמַלְבּ֣וּשֵׁיהֶ֔ם וַעֲלִיָּת֔וֹ אֲשֶׁ֥ר יַעֲלֶ֖ה בֵּ֣ית יְהוָ֑ה וְלֹא הָ֥יָה ע֛וֹד בָּ֖הּ רֽוּחַ
+    note: '''there was no more spirit in her'''
 - kind: shared
   label: What the queen of Sheba says of Solomon's God
   sides:

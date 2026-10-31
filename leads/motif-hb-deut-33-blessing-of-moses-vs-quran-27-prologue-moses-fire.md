@@ -17,7 +17,7 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God described as the one who dwells in the bush (seneh) (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Blessing of Moses on the tribes: Dying patriarch or leader blesses each tribe in
     turn; Underneath are the everlasting arms; A fiery law (esh dat) from God''s right hand; Asher dips
@@ -26,8 +26,8 @@ evidence:
     and treasures hidden in the sand; A tribe likened to a lion or lion''s whelp; Levi says to father
     and mother ''I do not see you'' and disregards his brothers and children for God''s covenant; Believers
     do not love those who oppose God, even fathers, sons, brothers or clan; God writes faith on their
-    hearts and supports them with a spirit; God rides through the heavens (rokhev shamayim) to help; Urim
-    and Thummim placed in the breastpiece for divine decision; and 3 more.'
+    hearts and supports them with a spirit; Urim and Thummim placed in the breastpiece for divine decision;
+    God shines forth from Sinai, Seir and Mount Paran with holy myriads; and 3 more.'
   basis: reading
 - text: 'Only in Ta Sin; Moses at the fire, the jann-staff and the nine signs: At the fire the voice proclaims
     ''Blessed is he who is in the fire and those around it''; How God names himself to Moses from the

@@ -21,7 +21,7 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: On that day a great earthquake shakes the land; fish, birds, beasts,
     creeping things and all humans quake before God, mountains are thrown down and every wall falls (weight
-    5.3). Pair score 5.3.'
+    6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Gog of Magog invades the land dwelling at the navel of the earth: The invader plots to
     attack a quiet people dwelling securely in unwalled villages without bars or gates, to seize plunder;
@@ -38,13 +38,16 @@ evidence:
     and 10 more.'
   basis: reading
 - text: 'Only in The quake of the Hour and the proofs from embryo and rain: Some are returned to the most
-    abject age so that after knowing they know nothing; The quake of the Hour: every nursing mother forgets
+    abject age so that after knowing they know nothing; In catastrophe mothers abandon their young and
+    pregnancy fails [divergence between the texts]; The quake of the Hour: every nursing mother forgets
     her suckling, every pregnant one miscarries, people seem drunk though not drunk; Humans created from
     dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and
-    unshaped; God poured the embryo out like milk and curdled it like cheese, clothing it with skin and
-    flesh and knitting bones and sinews; Your dead shall live, their corpses rise; dwellers in the dust
-    shall awake and sing; First human shaped from dust, clay or soil; Rain from the sky gives life to
-    the earth after its death, a sign of resurrection.'
+    unshaped; In the catastrophe the father disowns his wife and the mother her child (''This is not my
+    child''); In the catastrophe mothers, cows or she-camels no longer care for their young; God poured
+    the embryo out like milk and curdled it like cheese, clothing it with skin and flesh and knitting
+    bones and sinews; Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing;
+    Rain from the sky gives life to the earth after its death, a sign of resurrection; First human shaped
+    from dust, clay or soil.'
   basis: reading
 - text: 'Gog of Magog invades the land dwelling at the navel of the earth: tagged by Claude (model), reading
     the Hebrew.'

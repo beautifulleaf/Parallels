@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many witnesses are required [divergence between the texts] (weight
-    6.0); No one put to death on the testimony of a single witness (weight 5.4). Pair score 11.4.'
+    7.1); No one put to death on the testimony of a single witness (weight 6.5). Pair score 13.5.'
   basis: reading
 - text: 'Only in Idolater''s trial; witnesses; high court; law of the king: King writes a copy of the
     Torah and reads it all his days; King must be chosen by God from among brothers, not a foreigner;
@@ -29,9 +29,9 @@ evidence:
     [divergence between the texts]; Made attractive to men: women, sons, heaped-up gold and silver, branded
     horses, cattle and tillage; Difficult cases referred to the Levitical priests and judge at the chosen
     place; defiance is capital; Amassing war horses, and trust in God [contrast between the texts]; Blemished
-    animal (lame, blind) may not be sacrificed; Formula: you shall purge the evil from your midst; Prohibition
-    of worshipping sun, moon, stars, the host of heaven; King must not multiply horses, wives or silver
-    and gold, nor return the people to Egypt.'
+    animal (lame, blind) may not be sacrificed; Prohibition of worshipping sun, moon, stars, the host
+    of heaven; Formula: you shall purge the evil from your midst; King must not multiply horses, wives
+    or silver and gold, nor return the people to Egypt.'
   basis: reading
 - text: 'Only in Indecency, four witnesses, and the limits of repentance: Women guilty of indecency are
     confined to houses until death or until God makes a way; Repentance is not accepted from one who repents

@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: You may eat your fill in a neighbor''s vineyard or pluck ears by
-    hand, but not carry away or use a sickle (weight 6.7). Pair score 6.7.'
+    hand, but not carry away or use a sickle (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Admission to the assembly; camp purity; slaves, interest, vows: Edomites (brothers) and
-    Egyptians (hosts) admitted in the third generation; Escaped slave not returned to his master; he may
-    live where he chooses; Harlot''s hire and the price of a dog may not be brought to the temple for
-    a vow; Latrine outside the war camp; dig with a spade and cover excrement because God walks in the
-    camp; Man unclean from a nocturnal emission stays outside the camp until evening and washes; Ammonites
-    and Moabites never admitted, for withholding bread and water and hiring Balaam; Whether obligations
-    differ toward insiders and outsiders [contrast between the texts]; Man with crushed testicles or severed
+    Egyptians (hosts) admitted in the third generation; Harlot''s hire and the price of a dog may not
+    be brought to the temple for a vow; Latrine outside the war camp; dig with a spade and cover excrement
+    because God walks in the camp; Man unclean from a nocturnal emission stays outside the camp until
+    evening and washes; Ammonites and Moabites never admitted, for withholding bread and water and hiring
+    Balaam; Whether obligations differ toward insiders and outsiders [contrast between the texts]; Escaped
+    slave not returned to his master; he may live where he chooses; Man with crushed testicles or severed
     member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation; Protection
     for someone who seeks refuge [divergence between the texts]; God turned Balaam''s curse into a blessing;
     Whether obligations differ toward insiders and outsiders [response between the texts]; and 4 more.'
@@ -38,9 +38,9 @@ evidence:
     blind, lame, sick or anyone eating in the houses of listed relatives or friends, together or apart;
     Slaves and children must ask permission at three times of undress: before dawn prayer, at noon and
     after the night prayer; Whether the blind and the lame may enter the house or share its table [contrast
-    between the texts]; On entering houses greet one another with a blessed greeting from God; Do not
-    curse the deaf or put a stumbling block before the blind; Creditor must wait outside for the pledge
-    and return a poor man''s cloak by sunset.'
+    between the texts]; On entering houses greet one another with a blessed greeting from God; Creditor
+    must wait outside for the pledge and return a poor man''s cloak by sunset; Do not curse the deaf or
+    put a stumbling block before the blind.'
   basis: reading
 - text: 'Admission to the assembly; camp purity; slaves, interest, vows: tagged by Claude (model), reading
     the Hebrew.'

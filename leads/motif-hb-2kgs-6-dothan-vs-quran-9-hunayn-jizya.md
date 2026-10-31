@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God supports the prophet with hosts (junud) the believers did not
-    see (weight 6.3); God reinforces the believers in battle with a thousand (or more) angels (weight
-    6.0). Pair score 12.3.'
+    see (weight 7.3); God reinforces the believers in battle with a thousand (or more) angels (weight
+    7.1). Pair score 14.4.'
   basis: reading
 - text: 'Only in Elisha at Dothan; the blinded Arameans: Captured enemies are given a great feast and
     sent home instead of being killed; Enemy army struck with a blinding confusion (sanwerim) and led

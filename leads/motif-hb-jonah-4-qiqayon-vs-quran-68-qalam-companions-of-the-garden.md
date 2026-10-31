@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God appoints a worm that at dawn attacks the shade plant so it withers
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jonah''s anger, the qiqayon plant and God''s question: God''s compassion extends to the
     many animals of the city; God argues from the prophet''s pity for a plant that grew and perished in
@@ -38,10 +38,12 @@ evidence:
     a harvested/blackened field; The owners of a garden swore to harvest it in the morning without making
     exception (''if God wills''); The most moderate of them (awsatuhum) said ''Did I not tell you to glorify
     God?''; they blame one another, repent and hope for a better garden; The owners set out whispering
-    that no poor man (miskin) should enter the garden that day; Do not boast about tomorrow, for you do
-    not know what a day may bring forth; Forgotten sheaf, olive and grape gleanings left for stranger,
-    orphan and widow; Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast
-    between the texts].'
+    that no poor man (miskin) should enter the garden that day; A prayer or glorification of God is due
+    at the harvest [divergence between the texts]; At the reaping [divergence between the texts]; Do not
+    boast about tomorrow, for you do not know what a day may bring forth; Forgotten sheaf, olive and grape
+    gleanings left for stranger, orphan and widow [contrast between the texts]; What man says he will
+    do is one thing, what God does another; do not say ''I will do it tomorrow'' without God''s will;
+    Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow.'
   basis: reading
 - text: 'Jonah''s anger, the qiqayon plant and God''s question: tagged by Claude (model), reading the
     Hebrew.'

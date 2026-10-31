@@ -21,10 +21,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The defeated magicians fall prostrate and declare faith in the Lord
-    of Moses and Aaron [divergence between the texts] (weight 6.7); Prophet delivers God''s demand ''Let
-    my people go that they may serve me'' (weight 5.4); Prophet''s wonders are imitated by the king''s
-    magicians in a contest (weight 5.1); The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people (weight 4.6). Pair score 21.8.'
+    of Moses and Aaron [divergence between the texts] (weight 7.7); Prophet delivers God''s demand ''Let
+    my people go that they may serve me'' (weight 6.5); Prophet''s wonders are imitated by the king''s
+    magicians in a contest (weight 6.0); The king''s heart is hardened (by himself or by God) so he refuses
+    to release the people (weight 5.7). Pair score 25.9.'
   basis: reading
 - text: 'Only in Plagues 1-3: blood, frogs, lice: The dead frogs are piled in heaps and the land stinks;
     Egyptians dig around the Nile for drinkable water; Prophet lets the king choose when the plague should
@@ -34,21 +34,22 @@ evidence:
     his promise to release the people once a plague is lifted [divergence between the texts]; Prophet
     confronts the king at the river in the morning; The dust of the earth becomes lice on man and beast;
     Why Pharaoh and Egypt refuse despite the signs [divergence between the texts]; Frogs swarm out of
-    the river into houses, beds, ovens and kneading-troughs; Nile water is turned to blood; and 1 more.'
+    the river into houses, beds, ovens and kneading-troughs; King asks the prophet to intercede with God
+    to remove a plague; and 1 more.'
   basis: reading
 - text: 'Only in Moses and Aaron before Pharaoh; the contest with the magicians: The contest with the
     magicians is set for a festival day (yawm al-zīna) at forenoon with the people assembled; From the
     earth humans were created, into it they return, and from it they are brought forth again; Formula:
     ''Peace be on whoever follows the guidance''; Pharaoh asks about the fate of former generations; the
     answer: their knowledge is with God in a book; The prophets are told to speak to the tyrant with gentle
-    words, that he may take heed or fear; The magicians'' ropes and staffs appear by sorcery to be moving
-    like snakes; Condemned believers tell the tyrant ''decree what you will; you can only decree for this
-    worldly life''; Pharaoh threatens the converted magicians with cutting off hands and feet on opposite
-    sides and crucifixion (on palm trunks); King defies the prophet: ''Who is YHWH that I should obey
-    him?'' [divergence between the texts]; God made the earth a cradle (mahd) or bed and laid out paths
-    in it; Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
-    the texts]; The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron;
-    and 7 more.'
+    words, that he may take heed or fear; In a contest of magic each side throws, and one side''s creature
+    seizes or swallows the other''s [divergence between the texts]; ''Fear not'': the deity reassures
+    with ''I see and I hear'' (I hear and I see); Those who rose against the king are impaled (crucified)
+    on stakes or palm trunks [divergence between the texts]; Whether the events of the distant past can
+    be known, and by whom [divergence between the texts]; The magicians'' ropes and staffs appear by sorcery
+    to be moving like snakes; Condemned believers tell the tyrant ''decree what you will; you can only
+    decree for this worldly life''; Pharaoh threatens the converted magicians with cutting off hands and
+    feet on opposite sides and crucifixion (on palm trunks); and 15 more.'
   basis: reading
 - text: 'Plagues 1-3: blood, frogs, lice: tagged by Claude (model), reading the Hebrew.'
   basis: reading

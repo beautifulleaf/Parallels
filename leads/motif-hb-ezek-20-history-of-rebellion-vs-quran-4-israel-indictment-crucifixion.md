@@ -21,7 +21,7 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: God gave the rebellious generation ''statutes that were not good
     and ordinances by which they could not live'', defiling them through offering their firstborn (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Israel''s history of rebellion from Egypt; the second exodus into the wilderness of the
     peoples: The people''s wish ''We will be like the nations, serving wood and stone'' will never come

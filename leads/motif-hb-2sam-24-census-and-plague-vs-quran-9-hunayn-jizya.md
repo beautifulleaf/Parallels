@@ -19,13 +19,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The believers'' pride in their great numbers avails nothing and
-    the earth grows narrow for them (Hunayn) (weight 6.3). Pair score 6.3.'
+    the earth grows narrow for them (Hunayn) (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in David''s census, the plague, and Araunah''s threshing floor: Itinerary of census-takers
-    around the land''s borders; The king''s heart strikes him after a sin; God halts the destroying angel
-    at a specific spot: ''Enough, stay your hand''; The commander objects to the king''s census; Counting
-    the people requires a ransom for each life to avert plague; A prophet offers the king a choice among
-    three punishments; God himself incites a person to an evil act; The king refuses a free gift of land
+    around the land''s borders; The king''s heart strikes him after a sin; The commander objects to the
+    king''s census; Counting the people requires a ransom for each life to avert plague; A prophet offers
+    the king a choice among three punishments; God halts the destroying angel at a specific spot: ''Enough,
+    stay your hand''; God himself incites a person to an evil act; The king refuses a free gift of land
     for an altar and pays its price; King asks that punishment fall on him and his house rather than on
     the innocent ''sheep''; Census totals given tribe by tribe; Exact number of dead in a divine plague
     is given; A threshing floor where the plague was stopped becomes the site of the altar and temple;

@@ -21,16 +21,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tries towns with hardship, then with ease, then seizes them
-    suddenly (weight 6.0); In the end of days, in distress, the people will seek God and return (weight
-    5.8). Pair score 11.8.'
+    suddenly (weight 7.1); In the end of days, in distress, the people will seek God and return (weight
+    6.8). Pair score 13.9.'
   basis: reading
 - text: 'Only in Return from exile; the near commandment; choose life: God himself will circumcise your
-    heart and your offspring''s heart; Blessing and curse set before the people as a choice; I set before
-    you life and death, blessing and curse: choose life [divergence between the texts]; Those who break
-    God''s covenant and sever ties have the curse and the evil abode; The commandment is not in heaven
-    or beyond the sea but in your mouth and heart; God will remove the heart of stone and give a heart
-    of flesh and a new spirit; Heaven and earth called as witnesses against the people; I set before you
-    life and death, blessing and curse: choose life; God burdens no soul beyond its capacity; God will
+    heart and your offspring''s heart; I set before you life and death, blessing and curse: choose life
+    [divergence between the texts]; Those who break God''s covenant and sever ties have the curse and
+    the evil abode; The commandment is not in heaven or beyond the sea but in your mouth and heart; Blessing
+    and curse set before the people as a choice; God will remove the heart of stone and give a heart of
+    flesh and a new spirit; God burdens no soul beyond its capacity; I set before you life and death,
+    blessing and curse: choose life; Heaven and earth called as witnesses against the people; God will
     gather the exiles even from the end of heaven and restore them.'
   basis: reading
 - text: 'Only in The Sabbath-breaking seaside town turned into apes: Fish come openly to a seaside town

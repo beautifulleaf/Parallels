@@ -20,15 +20,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 29 - the voice of YHWH over the waters: In his temple all say ''Glory!''; The voice
-    of YHWH hews out flames of fire (lightning); Sevenfold refrain ''the voice of YHWH'' (qol YHWH) as
-    thunder over waters, cedars, fire, desert; The sons of gods (benei elim) are summoned to ascribe glory
-    and strength to YHWH; The voice of YHWH breaks the cedars of Lebanon and makes Lebanon and Sirion
-    skip like calves and young wild oxen; The voice of YHWH makes the hinds writhe in labor and strips
-    the forests bare; The voice of YHWH shakes the wilderness of Kadesh; The voice of YHWH thunders over
-    the many waters; The thunder glorifies God with his praise, and the angels too in awe of him [divergence
+    of YHWH hews out flames of fire (lightning); The sons of gods (benei elim) are summoned to ascribe
+    glory and strength to YHWH; The voice of YHWH makes the hinds writhe in labor and strips the forests
+    bare; The voice of YHWH shakes the wilderness of Kadesh; The voice of YHWH thunders over the many
+    waters; Sevenfold refrain ''the voice of YHWH'' (qol YHWH) as thunder over waters, cedars, fire, desert;
+    The voice of YHWH breaks the cedars of Lebanon and makes Lebanon and Sirion skip like calves and young
+    wild oxen; The thunder glorifies God with his praise, and the angels too in awe of him [divergence
     between the texts]; God gave David the Psalms (Zabur); Thunder is the roaring voice of God; God''s
     strength for the people like the horns of the wild ox (re''em); and 1 more.'
   basis: reading
@@ -38,12 +38,12 @@ evidence:
     God; Those who want only this life are paid in full here and have nothing in the hereafter but fire;
     God created heaven and earth to test which of you is best in deeds; Deniers demand that a treasure
     be sent down to the prophet or an angel come with him; A divine wind or spirit hovers or moves over
-    the primeval waters; Man calls on God lying, sitting or standing in distress, then passes on as if
-    he had never prayed once relieved; Moses writes the Torah and gives it to the Levitical priests and
-    elders; God lays the beams of his upper chambers on the (heavenly) waters and waters the mountains
-    from them; What is over the waters before or at creation: God''s spirit, his throne or his voice [divergence
-    between the texts]; All creatures look to God to give their food in due season; he opens his hand
-    and they are satisfied; and 10 more.'
+    the primeval waters; God sets each creature in its place, supplies its sustenance and knows (reckons)
+    its term or abode; Man calls on God lying, sitting or standing in distress, then passes on as if he
+    had never prayed once relieved; Moses writes the Torah and gives it to the Levitical priests and elders;
+    God lays the beams of his upper chambers on the (heavenly) waters and waters the mountains from them;
+    What is over the waters before or at creation: God''s spirit, his throne or his voice [divergence
+    between the texts]; and 12 more.'
   basis: reading
 - text: 'Psalm 29 - the voice of YHWH over the waters: tagged by Claude (model), reading the Hebrew.'
   basis: reading

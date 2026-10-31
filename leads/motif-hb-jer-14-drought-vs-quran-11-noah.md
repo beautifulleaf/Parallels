@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God forbids the prophet to pray or intercede for the people, for
-    he will not hear (weight 5.4). Pair score 5.4.'
+    he will not hear (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The drought - the doe forsakes her fawn; lying prophets: In drought the doe abandons
     her newborn fawn and wild asses pant for air like jackals, their eyes failing; Lament asks why God
@@ -38,11 +38,13 @@ evidence:
     subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
     the prophet because only the lowest of them follow him; God answers that the drowned son is not of
     Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
-    unknown to him and his people before; The ark sails through waves like mountains; What the flood hero
-    does when the vessel comes to rest; What God says of later generations after the flood: no repeat,
-    or punishment to come [contrast between the texts]; How the flood waters are stopped and subside [divergence
-    between the texts]; The prophet''s opponents object that only the lowliest follow him; he refuses
-    to drive the believers away; Someone seeks refuge on a mountain and is drowned; and 28 more.'
+    unknown to him and his people before; The ark sails through waves like mountains; The flood hero is
+    blessed after the flood; the content of the blessing [divergence between the texts]; What the flood
+    hero receives when he leaves the vessel [divergence between the texts]; A son who rejects his father''s
+    teaching is to be driven away: ''he is not your son, he was not born to you'' [divergence between
+    the texts]; The earth is addressed in the vocative and bidden to open, receive or swallow something
+    [shared matter] [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; and 41 more.'
   basis: reading
 - text: 'The drought - the doe forsakes her fawn; lying prophets: tagged by Claude (model), reading the
     Hebrew.'

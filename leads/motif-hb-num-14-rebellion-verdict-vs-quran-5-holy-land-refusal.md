@@ -14,8 +14,8 @@ layers:
 - motif
 motifs:
 - prophet-response-to-rebellious-people-as-divergence
-- forty-years-wandering-as-divergence
 - minority-faithful-report-as-divergence
+- forty-years-wandering-as-divergence
 - minority-faithful-report
 - forty-years-wandering
 passages: []
@@ -23,15 +23,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After the people''s rebellion the prophet intercedes for them or
-    asks to be separated from them [divergence between the texts] (weight 6.7); Forty years of wandering,
-    a year for each day of scouting [divergence between the texts] (weight 6.7); Two faithful spies dissent
-    from the majority [divergence between the texts] (weight 6.7); Two faithful spies dissent from the
-    majority (weight 6.3); Forty years of wandering, a year for each day of scouting (weight 5.6). Pair
-    score 31.9.'
+    asks to be separated from them [divergence between the texts] (weight 7.7); Two faithful spies dissent
+    from the majority [divergence between the texts] (weight 7.7); Forty years of wandering, a year for
+    each day of scouting [divergence between the texts] (weight 7.7); Two faithful spies dissent from
+    the majority (weight 7.3); Forty years of wandering, a year for each day of scouting (weight 6.6).
+    Pair score 37.2.'
   basis: reading
-- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Intercessor argues the
-    nations would say God was unable; Those who slandered the land die by plague; People have tested God
-    ''ten times''; God threatens to destroy a people and put another in its place [divergence between
+- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Those who slandered the
+    land die by plague; People have tested God ''ten times''; Intercessor argues the nations would say
+    God was unable; God threatens to destroy a people and put another in its place [divergence between
     the texts]; People ordered to fight complain to God and wish to be spared the battle; People attack
     without God''s ark or leader and are routed; People propose appointing a leader to go back to Egypt;
     Caleb has ''another spirit'' and follows God fully; God offers to destroy the people and make a nation
@@ -43,7 +43,8 @@ evidence:
     leader ''go, you and your Lord, and fight; we will sit here''; Enter the holy land (al-arḍ al-muqaddasa)
     which God has ordained for you; Moses: ''I control only myself and my brother; separate us from the
     rebellious people''; God set prophets among Israel and made them kings, giving them what he gave no
-    other; The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence
+    other; God commands a leader or people to go and take a city or land [shared matter] [divergence between
+    the texts]; The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence
     between the texts]; Israel is to be a kingdom of priests and a holy nation; Israel is to be a kingdom
     of priests and a holy nation [divergence between the texts]; Giant descendants (Anakim / Nephilim)
     inhabit the land.'

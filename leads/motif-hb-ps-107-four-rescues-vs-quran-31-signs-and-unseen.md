@@ -19,34 +19,34 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seafarers cry to God in a storm; what they do once rescued [divergence
-    between the texts] (weight 6.3). Pair score 6.3.'
+    between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): God
     shatters doors of bronze and cuts through bars of iron; Thanksgiving liturgy for four groups rescued
     by God: desert wanderers, prisoners, the sick, seafarers; God ''sent his word and healed them'', the
-    word acting as an agent; God turns rivers into desert and fruitful land into salt waste, and desert
-    into pools of water; Storm-tossed sailors reel and stagger like drunkards and all their skill is swallowed
-    up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction and iron; Refrain:
-    ''Let them thank YHWH for his steadfast love and his wonders to the sons of man''; In distress, at
-    sea or otherwise, people call on God alone, then return to polytheism once rescued [divergence between
-    the texts]; God''s control of the wind over ships at sea: raising a storm or stilling it [divergence
-    between the texts]; God raises a storm that lifts ships to the heavens and down to the deeps, then
-    hushes it to a whisper and brings sailors to harbor [divergence between the texts]; God sends the
-    flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk and a few lote-trees;
-    Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts]; and 8 more.'
+    word acting as an agent; Storm-tossed sailors reel and stagger like drunkards and all their skill
+    is swallowed up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction
+    and iron; Refrain: ''Let them thank YHWH for his steadfast love and his wonders to the sons of man'';
+    In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
+    [divergence between the texts]; God''s control of the wind over ships at sea: raising a storm or stilling
+    it [divergence between the texts]; God turns rivers into desert and fruitful land into salt waste,
+    and desert into pools of water; God raises a storm that lifts ships to the heavens and down to the
+    deeps, then hushes it to a whisper and brings sailors to harbor [divergence between the texts]; God
+    sends the flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk and a
+    few lote-trees; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence
+    between the texts]; and 8 more.'
   basis: reading
 - text: 'Only in God''s signs, the inexhaustible words, and the five things only God knows: Creating and
     resurrecting all of you is for God like a single soul; Waves overwhelm the ship like canopies (zulal);
     If all trees were pens and the sea, replenished by seven more seas, were ink, God''s words would not
     be exhausted; The religion of the fathers invoked, held to or renounced [contrast between the texts];
     Whoever rejects false gods (taghut) and believes in God grasps the firmest handhold that never breaks;
-    On the Day no parent can avail his child, nor child his parent; Only God knows when the mountain goats
-    and hinds give birth and counts their months; God alone knows the Hour, sends rain, knows what is
-    in wombs; no soul knows what it will earn tomorrow or in what land it will die; Sailors in a storm
-    call on God sincerely, vow thanks, and transgress once saved; Rejecters reply ''we follow what we
-    found our fathers upon''; Sun and moon are subjected, each running to an appointed term; God makes
-    the night pass into the day and the day into the night; and 1 more.'
+    On the Day no parent can avail his child, nor child his parent; A great wave at sea; the man brought
+    safe to land and what he then does for the deity [neutral] [divergence between the texts]; No one
+    knows what tomorrow will bring; Only God knows when the mountain goats and hinds give birth and counts
+    their months; God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it
+    will earn tomorrow or in what land it will die; Humans are not told the day or the place of their
+    death; No one knows what will happen when he thinks of tomorrow; and 5 more.'
   basis: reading
 - text: 'Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): tagged by Claude
     (model), reading the Hebrew.'

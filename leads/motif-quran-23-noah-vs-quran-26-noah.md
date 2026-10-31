@@ -19,20 +19,20 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Whether the flood hero speaks to his people before the flood [divergence
-    between the texts] (weight 6.3); Who is saved with the hero from the destruction, and why [divergence
-    between the texts] (weight 5.8); Hero asks the deity to judge or destroy his opponents (weight 5.6);
-    Hero warns or preaches to his people before the flood (weight 5.2); Hero''s family saved with him
-    (weight 4.5). Pair score 27.3.'
+    between the texts] (weight 7.3); Who is saved with the hero from the destruction, and why [divergence
+    between the texts] (weight 6.8); Hero asks the deity to judge or destroy his opponents (weight 6.5);
+    Hero warns or preaches to his people before the flood (weight 6.2); Hero''s family saved with him
+    (weight 5.4). Pair score 32.3.'
   basis: reading
 - text: 'Only in Noah called a madman; the ark and the boiling oven: God forbids the prophet to address
     him on behalf of those who did wrong: they will be drowned; The flood hero prays to be landed at a
     blessed landing place; What the flood hero does when the vessel comes to rest [divergence between
-    the texts]; When and from where the flood waters come [divergence between the texts]; The prophet''s
-    people object that he is only a human like them; had God willed he would have sent angels; A specific
-    sign marks the moment to board; The flood waters are hot or boiling; Why God destroyed a generation
-    or a people [divergence between the texts]; Animals taken aboard in pairs; A member of the hero''s
-    family is lost; Hero builds a vessel on divine instruction; Officers call the visiting prophet ''this
-    madman'' (meshugga'').'
+    the texts]; The flood hero is told he is only a man like the speaker(s) [divergence between the texts];
+    When and from where the flood waters come [divergence between the texts]; The prophet''s people object
+    that he is only a human like them; had God willed he would have sent angels; The flood waters are
+    hot or boiling; Why God destroyed a generation or a people [divergence between the texts]; A member
+    of the hero''s family is lost; A specific sign marks the moment to board; Animals taken aboard in
+    pairs; Hero builds a vessel on divine instruction; and 1 more.'
   basis: reading
 - text: 'Only in Noah, the lowly followers and the laden ark: The people threaten to stone the prophet
     if he does not desist; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn);

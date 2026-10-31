@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Israel comes to accept the covenant at Sinai [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant ratified in blood; the elders see God: Sacrificial blood splashed on altar and
     people seals the covenant (''blood of the covenant''); A meal eaten in God''s presence seals a covenant;

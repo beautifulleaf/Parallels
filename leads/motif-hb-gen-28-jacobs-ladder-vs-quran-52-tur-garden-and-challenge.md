@@ -20,16 +20,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A ladder (sullam / sullām) reaching from earth to heaven [divergence
-    between the texts] (weight 6.7); Dream of a ladder or stairway reaching heaven with angels ascending
-    and descending (weight 6.7). Pair score 13.4.'
+    between the texts] (weight 7.7); Dream of a ladder or stairway reaching heaven with angels ascending
+    and descending (weight 6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Jacob''s dream at Bethel: God promises to be with the traveler and bring him back; Hero
     sleeps with a stone under his head at a holy place; The angels and the Spirit (al-ruh) ascend to God
     by stairways (ma''arij); God is ''Lord of the ascending ways''; A standing stone (matsevah) set up
     and anointed with oil; Hero vows that if God protects and provides for him, he will worship and tithe;
     Hero vows that if God protects and provides for him, he will worship and tithe [divergence between
-    the texts]; A place recognized as the house of God and gate of heaven; A ladder (sullam / sullām)
-    reaching from earth to heaven; A tenth of everything given to a priest; Luz renamed Bethel, ''house
+    the texts]; A place recognized as the house of God and gate of heaven; A tenth of everything given
+    to a priest; A ladder (sullam / sullām) reaching from earth to heaven; Luz renamed Bethel, ''house
     of God''; All families of the earth will be blessed through the patriarch; God promises the land to
     the patriarch''s descendants; and 1 more.'
   basis: reading
@@ -42,9 +42,10 @@ evidence:
     bring clear proof; ''Be patient for your Lord''s judgment, for you are under our eyes''; Were they
     created from nothing, or are they the creators? Did they create the heavens and earth?; Do they possess
     the Unseen (al-ghayb) so they write it down?; ''Eat and drink with relish for what you used to do'';
-    Believers'' offspring who followed them in faith are joined with them in paradise, without loss of
-    reward; each is pledged for what he earned; The blessed recline on couches set in rows (or face to
-    face); Youths (ghilman) like hidden pearls go round serving them; and 12 more.'
+    Messengers go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij)
+    [divergence between the texts]; Believers'' offspring who followed them in faith are joined with them
+    in paradise, without loss of reward; each is pledged for what he earned; The blessed recline on couches
+    set in rows (or face to face); and 13 more.'
   basis: reading
 - text: 'Jacob''s dream at Bethel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

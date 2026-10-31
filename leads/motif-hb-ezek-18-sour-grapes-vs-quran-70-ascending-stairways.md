@@ -21,7 +21,7 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: Catalogue of the righteous man: no eating on the mountains, no idols,
     no adultery, no menstrual intercourse, no oppression, returns pledges, feeds the hungry, clothes the
-    naked, no interest (weight 6.7). Pair score 6.7.'
+    naked, no interest (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Sour grapes - individual responsibility and repentance: Exhortation: cast away your transgressions
     and make yourselves a new heart and a new spirit; why will you die?; Test case of three generations:
@@ -32,10 +32,10 @@ evidence:
     Proverb ''The fathers have eaten sour grapes and the children''s teeth are set on edge'', abolished
     by God; Whether repentance has a time limit [divergence between the texts]; People complain ''the
     way of the Lord is not fair''; God answers that it is their ways that are unfair; God does not desire
-    the death of the wicked but that he turn from his way and live; A cloak taken in pledge must be returned
-    before sunset; ''The soul that sins, it shall die'': the son does not bear the father''s iniquity
-    nor the father the son''s; Whoever does good does it for his own soul; whoever does evil, it is against
-    it; and 4 more.'
+    the death of the wicked but that he turn from his way and live; ''The soul that sins, it shall die'':
+    the son does not bear the father''s iniquity nor the father the son''s; Whoever does good does it
+    for his own soul; whoever does evil, it is against it; Intercourse with a menstruating woman is forbidden;
+    and 4 more.'
   basis: reading
 - text: 'Only in The ascending stairways: the day of fifty thousand years and the steadfast worshippers:
     A day whose measure is fifty thousand years, during which angels and the Spirit ascend to God; The
@@ -45,12 +45,12 @@ evidence:
     (ma''arij); God is ''Lord of the ascending ways''; The faithful guard their private parts except with
     their wives or those their right hands possess; beyond that is transgression; In the wealth of the
     righteous is a known right (haqq ma''lum) for the beggar and the deprived; God is able to replace
-    a people with others better than they, and none can outrun him; On the day no friend asks after friend;
-    a man flees his brother, mother, father, wife and sons, each wholly occupied with himself; On the
-    day the mountains will be like (carded, dyed) wool (''ihn); No man can ransom his brother or give
-    God a ransom (kofer) for him; the redemption of life is too costly [divergence between the texts];
-    A thousand years in God''s sight are like yesterday when it passes, or a watch in the night [divergence
-    between the texts]; and 5 more.'
+    a people with others better than they, and none can outrun him; Under the coming calamity the bonds
+    of father, son, brother and friend give way [shared matter] [divergence between the texts]; On the
+    day no friend asks after friend; a man flees his brother, mother, father, wife and sons, each wholly
+    occupied with himself; A ladder (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral];
+    Messengers go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij);
+    and 11 more.'
   basis: reading
 - text: 'Sour grapes - individual responsibility and repentance: tagged by Claude (model), reading the
     Hebrew.'

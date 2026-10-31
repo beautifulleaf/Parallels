@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: In hell the damned neither die nor live (weight 6.0). Pair score
-    6.0.'
+- text: 'Shared motifs, rarest first: In hell the damned neither die nor live (weight 7.1). Pair score
+    7.1.'
   basis: reading
 - text: 'Only in Judgment by fire, ingathering of nations, the undying worm: From new moon to new moon
     and Sabbath to Sabbath all flesh comes to worship before God; The nations bring all Israel''s brothers
@@ -39,11 +39,12 @@ evidence:
     to be returned to do good; God holds the heavens and the earth lest they cease; if they ceased, no
     one else could hold them; If God took people to task for what they earned he would not leave a creature
     on the earth''s back, but he defers them to a set term; Paradise is the abode of permanence where
-    no toil or weariness touches the blessed and grief is removed; The evil plot encompasses only its
-    own authors; In paradise the righteous are adorned with gold bracelets and pearls and wear silk; The
-    way (sunna) of God with those who passed before: you will find no change in God''s way; Challenge
-    to idolaters: show me what those besides God have created; Travel in the land and see the end of those
-    who denied.'
+    no toil or weariness touches the blessed and grief is removed; The evil plot or sorcery turns back
+    upon its own author; The evil plot or sorcery turns back upon its own author [divergence between the
+    texts]; The evil plot encompasses only its own authors; In paradise the righteous are adorned with
+    gold bracelets and pearls and wear silk; The god (alone) holds the heavens (and earth) in place: the
+    bond or rope of heaven, holding back the sky; The way (sunna) of God with those who passed before:
+    you will find no change in God''s way; and 3 more.'
   basis: reading
 - text: 'Judgment by fire, ingathering of nations, the undying worm: tagged by Claude (model), reading
     the Hebrew.'

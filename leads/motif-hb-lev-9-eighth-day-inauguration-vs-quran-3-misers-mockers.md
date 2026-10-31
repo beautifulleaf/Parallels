@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fire comes out from before God and consumes the offering on the
-    altar (weight 6.0). Pair score 6.0.'
+    altar (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The eighth day - Aaron''s first offerings and the divine fire: High priest''s own sin
     offering is a calf; Cult inaugurated on the eighth day after a seven-day ordination; The glory (kavod)
@@ -37,9 +37,10 @@ evidence:
     in sin; Whether God is in need and humans rich [contrast between the texts]; An offering consumed
     by fire as proof of the true God or messenger [response between the texts]; Fire from heaven falls
     and consumes the offering, wood, stones, dust and water; God will not leave believers as they are
-    until he separates the bad from the good; What man can live and not see death, or deliver his soul
-    from the hand of Sheol?; Every soul shall taste death; God sent his servants the prophets ''rising
-    early and sending'' (hashkem), but they did not listen; and 3 more.'
+    until he separates the bad from the good; Wrongdoers take the deity''s delay for indifference; the
+    delay is not a release; What man can live and not see death, or deliver his soul from the hand of
+    Sheol?; A writer reproaches his addressee: the oath I made you swear before the gods you have thrown
+    behind you; and 5 more.'
   basis: reading
 - text: 'The eighth day - Aaron''s first offerings and the divine fire: tagged by Claude (model), reading
     the Hebrew.'

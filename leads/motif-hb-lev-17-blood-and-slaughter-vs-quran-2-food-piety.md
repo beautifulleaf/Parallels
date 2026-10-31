@@ -23,9 +23,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Forbidden: what has been consecrated (invoked over) to other than
-    God (weight 6.3); Eating an animal that died or was torn requires washing and makes unclean until
-    evening (weight 6.3); Eating blood is forbidden [divergence between the texts] (weight 6.3); Rule
-    on eating an animal that died of itself [contrast between the texts] (weight 6.3). Pair score 25.1.'
+    God (weight 7.3); Eating an animal that died or was torn requires washing and makes unclean until
+    evening (weight 7.3); Eating blood is forbidden [divergence between the texts] (weight 7.3); Rule
+    on eating an animal that died of itself [contrast between the texts] (weight 7.3). Pair score 29.4.'
   basis: reading
 - text: 'Only in Slaughter only at the tent; the blood is the life: God gives blood on the altar to make
     atonement for lives; Eating blood is forbidden because the life (nefesh) of the flesh is in the blood;

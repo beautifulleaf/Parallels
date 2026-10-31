@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Moses wrote the book or was given it [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Joshua commissioned; Torah written and deposited; the Song commanded: Book of the Torah
     placed beside the ark as a witness; God foretells to the dying prophet that the people will go astray
@@ -39,11 +39,11 @@ evidence:
     they may return; The angel of death (malak al-mawt), put in charge of humans, takes their souls; The
     guilty, heads bowed before their Lord, beg to be returned to do good; God''s word: ''I will fill hell
     with jinn and humans all together''; No soul knows what delight of the eyes is hidden in store for
-    the righteous; What God did when the six days of creation were done [divergence between the texts];
-    God began man''s creation from clay, then made his progeny from an extract of a despised fluid, then
-    shaped him and breathed of his spirit; God made leaders (a''imma) among the Israelites who guided
-    by his command because they were patient; God gave Moses the Book as guidance for the Children of
-    Israel; and 10 more.'
+    the righteous; Man described by the lowly bodily substance he is made of [shared matter] [divergence
+    between the texts]; What goes into the place below cannot come out again [divergence between the texts];
+    Whether one who has stood before the judge of the dead is sent back to the living [divergence between
+    the texts]; What God did when the six days of creation were done [divergence between the texts]; and
+    14 more.'
   basis: reading
 - text: 'Joshua commissioned; Torah written and deposited; the Song commanded: tagged by Claude (model),
     reading the Hebrew.'

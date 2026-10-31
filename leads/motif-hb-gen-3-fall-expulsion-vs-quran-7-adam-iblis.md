@@ -16,50 +16,51 @@ layers:
 - motif
 motifs:
 - first-couple-response-to-god-as-divergence
-- who-is-tempted-first-as-divergence
-- tempter-promises-angelhood-or-immortality-as-divergence
 - hiding-from-god-as-divergence
+- tempter-promises-angelhood-or-immortality-as-divergence
+- who-is-tempted-first-as-divergence
 - expulsion-from-paradise-as-divergence
-- hiding-from-god
+- enmity-serpent-and-woman-seed-as-divergence
+- fig-leaf-coverings
 - return-to-the-earth-as-divergence
 - enmity-serpent-and-woman-seed
-- enmity-serpent-and-woman-seed-as-divergence
+- hiding-from-god
 - serpent-tempter-as-divergence
-- fig-leaf-coverings
-- eyes-opened-nakedness-known
 - expulsion-from-paradise
-- serpent-tempter
 - tree-of-knowledge-forbidden
+- serpent-tempter
+- eyes-opened-nakedness-known
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the first couple answer God after eating: shifting the blame
-    or confessing [divergence between the texts] (weight 6.7); Which of the first couple is tempted and
-    eats first [divergence between the texts] (weight 6.7); The tempter claims the tree is forbidden only
-    lest the couple become angels or immortals [divergence between the texts] (weight 6.7); Sinner hides
-    from God, who calls ''Where are you?'' [divergence between the texts] (weight 6.7); First humans expelled
-    from the garden [divergence between the texts] (weight 6.3); Sinner hides from God, who calls ''Where
-    are you?'' (weight 6.3); Humans return to the earth they were taken from (and, in the Quran, are brought
-    out of it again) [divergence between the texts] (weight 6.3); Enmity between the serpent''s seed and
-    the woman''s seed: head bruised, heel struck (weight 6.3); Enmity between the serpent''s seed and
-    the woman''s seed: head bruised, heel struck [divergence between the texts] (weight 6.3); A cunning
-    serpent persuades the woman to eat the forbidden fruit [divergence between the texts] (weight 6.3);
-    Fig leaves sewn into coverings (weight 6.3); Eating opens their eyes and they know they are naked
-    (weight 6.3); First humans expelled from the garden (weight 6.0); A cunning serpent persuades the
-    woman to eat the forbidden fruit (weight 6.0); A tree of knowledge whose fruit is forbidden (weight
-    5.8). Pair score 94.8.'
+    or confessing [divergence between the texts] (weight 7.7); Sinner hides from God, who calls ''Where
+    are you?'' [divergence between the texts] (weight 7.7); The tempter claims the tree is forbidden only
+    lest the couple become angels or immortals [divergence between the texts] (weight 7.7); Which of the
+    first couple is tempted and eats first [divergence between the texts] (weight 7.7); First humans expelled
+    from the garden [divergence between the texts] (weight 7.3); Enmity between the serpent''s seed and
+    the woman''s seed: head bruised, heel struck [divergence between the texts] (weight 7.3); Fig leaves
+    sewn into coverings (weight 7.3); Humans return to the earth they were taken from (and, in the Quran,
+    are brought out of it again) [divergence between the texts] (weight 7.3); Enmity between the serpent''s
+    seed and the woman''s seed: head bruised, heel struck (weight 7.3); Sinner hides from God, who calls
+    ''Where are you?'' (weight 7.3); A cunning serpent persuades the woman to eat the forbidden fruit
+    [divergence between the texts] (weight 7.3); First humans expelled from the garden (weight 7.1); A
+    tree of knowledge whose fruit is forbidden (weight 6.8); A cunning serpent persuades the woman to
+    eat the forbidden fruit (weight 6.8); Eating opens their eyes and they know they are naked (weight
+    6.6). Pair score 109.7.'
   basis: reading
-- text: 'Only in The serpent, the eating, the curses and the expulsion: Each accused shifts blame to another
-    (man to woman, woman to serpent); First woman named as mother of all living; God heard walking in
-    the garden in the breeze of the day; Humans gain divine knowledge and God fears they will also gain
-    immortality; Woman punished with pain in childbirth and subordination to husband; The woman eats first
-    and gives the fruit to her husband; Adam receives words from his Lord and God turns to him in forgiveness
-    [divergence between the texts]; Cherubim and a flaming turning sword guard the way to the tree of
-    life; Enmity decreed at the expulsion from the garden [divergence between the texts]; Eating opens
-    their eyes and they know they are naked [divergence between the texts]; The first man''s response
-    after the transgression in the garden (blame or repentance) [divergence between the texts]; God makes
-    garments of skin for the first couple; and 12 more.'
+- text: 'Only in The serpent, the eating, the curses and the expulsion: First woman named as mother of
+    all living; God heard walking in the garden in the breeze of the day; Woman punished with pain in
+    childbirth and subordination to husband; The woman eats first and gives the fruit to her husband;
+    Adam receives words from his Lord and God turns to him in forgiveness [divergence between the texts];
+    Each accused shifts blame to another (man to woman, woman to serpent); Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; Eating opens their eyes and they know they are naked
+    [divergence between the texts]; The first man''s response after the transgression in the garden (blame
+    or repentance) [divergence between the texts]; God makes garments of skin for the first couple [divergence
+    between the texts]; Ground cursed; man must eat by sweat of his brow among thorns and thistles [divergence
+    between the texts]; The human condition on earth after the expulsion [divergence between the texts];
+    and 12 more.'
   basis: reading
 - text: 'Only in The prostration to Adam, Iblis'' refusal and the fall: Man and wife are addressed, tempted
     and eat together; the woman is not singled out; The first humans are sent down to earth to live and
@@ -69,9 +70,9 @@ evidence:
     only lest the couple become angels or immortals; The tempter swears an oath to the first couple that
     he is their sincere adviser; God vows to fill hell with the devil and all who follow him; Satan whispers
     (waswasa) to tempt humans; God casts the proud being out from the mountain of God and destroys him
-    from among the stones of fire, hurling him to earth before kings; God gives the adversary (Satan)
-    leave to act against humans; A tree of knowledge whose fruit is forbidden [divergence between the
-    texts]; and 7 more.'
+    from among the stones of fire, hurling him to earth before kings; In the divine realm the human is
+    given a garment to put on [divergence between the texts]; God gives the adversary (Satan) leave to
+    act against humans; and 10 more.'
   basis: reading
 - text: 'The serpent, the eating, the curses and the expulsion: tagged by Claude (model), reading the
     Hebrew.'

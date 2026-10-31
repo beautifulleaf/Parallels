@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether those who die and return to dust rise again [contrast between
-    the texts] (weight 6.3). Pair score 6.3.'
+    the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Job - ''man born of woman''; the tree has hope: ''Who can bring a clean thing out of
     an unclean? Not one''; The dead man does not know whether his sons are honored or brought low; As
@@ -30,14 +30,14 @@ evidence:
     not wake until the heavens are no more; ''Man born of woman is of few days and full of trouble'';
     he comes forth like a flower and withers; Death as final, voiced by a sufferer or by deniers of resurrection
     [divergence between the texts]; Human life on earth is hard service (tsava), its days like those of
-    a hired laborer; A felled tree sprouts again at the scent of water, but a man dies and does not rise;
-    and 2 more.'
+    a hired laborer; A felled tree sprouts again at the scent of water, but a man dies and does not rise
+    [contrast between the texts]; and 2 more.'
   basis: reading
 - text: 'Only in A later generation''s messenger, the Cry, and messengers in succession: God sent his
     messengers one after another; each was denied and each nation became a tale; A people is seized by
     the Cry (al-ṣayḥa) and made like flood-scum; Earlier messengers were only men who ate food and were
-    not immortal; Hero asks the deity to judge or destroy his opponents; Human comes from dust and returns
-    to dust; Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing; Destruction
+    not immortal; Hero asks the deity to judge or destroy his opponents; Your dead shall live, their corpses
+    rise; dwellers in the dust shall awake and sing; Human comes from dust and returns to dust; Destruction
     follows the people''s rejection of a messenger.'
   basis: reading
 - text: 'Job - ''man born of woman''; the tree has hope: tagged by Claude (model), reading the Hebrew.'

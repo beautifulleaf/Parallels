@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet neither recited any scripture nor wrote one with his
-    right hand before the revelation (weight 6.7). Pair score 6.7.'
+    right hand before the revelation (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be

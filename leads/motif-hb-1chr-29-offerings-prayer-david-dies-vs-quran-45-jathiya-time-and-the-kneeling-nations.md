@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: To God belongs the grandeur (kibriya'') in the heavens and the earth
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Free-will gifts, David''s doxology, Solomon enthroned again, David''s death: Persian
     darics (adarkonim) are counted among offerings in David''s time; God is addressed as ''our father''
     in prayer; The king is made king and anointed a second time; The king gives his own private treasure
     (segullah) for the temple; ''Our days on earth are like a shadow, and there is no hope''; Princes
     ''give the hand'' under the new king in allegiance; The assembly bows down to YHWH and to the king;
-    Onyx, inlay, antimony, multicolored stones and marble gathered for the temple; The temple is called
-    the birah (fortress/palace), not for man but for God; A thousand bulls, a thousand rams and a thousand
-    lambs offered in a day; Doxology: ''Yours, YHWH, is the greatness, the power, the glory, the victory
-    and the majesty ... and the kingdom''; Donors confess that everything comes from God and they only
-    give back what is his; and 10 more.'
+    The temple is called the birah (fortress/palace), not for man but for God; A thousand bulls, a thousand
+    rams and a thousand lambs offered in a day; Doxology: ''Yours, YHWH, is the greatness, the power,
+    the glory, the victory and the majesty ... and the kingdom''; Donors confess that everything comes
+    from God and they only give back what is his; Enormous sums of gold and silver (up to a million talents)
+    gathered for the temple; and 10 more.'
   basis: reading
 - text: 'Only in Desire as god, ''only Time destroys us'', and every nation kneeling before its book:
     God''s book speaks against them with truth: ''We used to have transcribed (nastansikh) all that you

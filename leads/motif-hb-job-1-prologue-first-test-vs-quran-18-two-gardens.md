@@ -19,18 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans are presented before God in rows, coming as they were first
-    created (weight 6.7). Pair score 6.7.'
+    created (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job''s piety, the heavenly council and the first test: The verb ''bless'' (barekh) used
     as a scribal euphemism for cursing God; Grown sons hold feasts in turn, each on his day, and invite
     their sisters; A great wind from the desert strikes the four corners of the house and it falls on
     the feasting children; God has set a protective hedge around the righteous man, his house and goods;
     ''Fire of God'' falls from heaven and consumes flocks and servants; Messenger after messenger arrives
-    while the last is still speaking, each the sole survivor of a disaster; ''I alone escaped to tell
-    you''; ''Does he fear God for nothing?'': piety suspected of being motivated by reward; The exemplary
-    righteous man is a non-Israelite living in the land of Uz in the east; Father offers burnt offerings
-    in case his children ''blessed'' (cursed) God in their hearts; A blessed man has seven sons and three
-    daughters; Mourner shaves his head and falls to the ground; and 20 more.'
+    while the last is still speaking, each the sole survivor of a disaster; ''Does he fear God for nothing?'':
+    piety suspected of being motivated by reward; The exemplary righteous man is a non-Israelite living
+    in the land of Uz in the east; Father offers burnt offerings in case his children ''blessed'' (cursed)
+    God in their hearts; Mourner shaves his head and falls to the ground; A patriarch''s wealth is listed
+    in precise numbers of sheep, camels, oxen and asses; So that you do not grieve over what escapes you
+    nor exult over what he gives you; and 20 more.'
   basis: reading
 - text: 'Only in The parable of the two gardens; this life as rain-fed plants; the book of deeds (Surah
     18:32-49): On the last day the earth is seen laid bare and all are gathered, none left out; The proud
@@ -38,12 +39,12 @@ evidence:
     that I had associated no one with my Lord''; The rich man boasts of having more wealth and a mightier
     following; On entering one''s garden one should say ''What God wills; there is no power except in
     God''; On judgment day each receives a book of his deeds spread open, leaving nothing small or great
-    unrecorded; Parable of two men: one owns two rich gardens and boasts to his poorer believing companion;
-    Wealth and sons are the adornment of this life; the enduring good deeds are better with God; The wicked
-    fade like grass and green herbs; The rich man thinks his garden will never perish and the Hour will
-    never come; Parable: worldly life is like vegetation fed by rain, adorned, then cut down overnight
-    as if it never flourished; At the end the mountains become a heap of running sand, are blown away,
-    set in motion or turn into a mirage; and 1 more.'
+    unrecorded; If god gives you a rich harvest, do not boast of it before your neighbours; Righteous
+    deeds endure and go with a man beyond death, when other goods do not [divergence between the texts];
+    Parable of two men: one owns two rich gardens and boasts to his poorer believing companion; Wealth
+    and sons are the adornment of this life; the enduring good deeds are better with God; The wicked fade
+    like grass and green herbs; The rich man thinks his garden will never perish and the Hour will never
+    come; and 3 more.'
   basis: reading
 - text: 'Job''s piety, the heavenly council and the first test: tagged by Claude (model), reading the
     Hebrew.'

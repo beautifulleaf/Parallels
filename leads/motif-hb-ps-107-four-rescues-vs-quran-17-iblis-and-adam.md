@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In distress, at sea or otherwise, people call on God alone, then
-    return to polytheism once rescued [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    return to polytheism once rescued [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): God
     shatters doors of bronze and cuts through bars of iron; Thanksgiving liturgy for four groups rescued
     by God: desert wanderers, prisoners, the sick, seafarers; God ''sent his word and healed them'', the
-    word acting as an agent; God turns rivers into desert and fruitful land into salt waste, and desert
-    into pools of water; Storm-tossed sailors reel and stagger like drunkards and all their skill is swallowed
-    up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction and iron; Refrain:
-    ''Let them thank YHWH for his steadfast love and his wonders to the sons of man''; God''s control
-    of the wind over ships at sea: raising a storm or stilling it [divergence between the texts]; God
-    raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a whisper
+    word acting as an agent; Storm-tossed sailors reel and stagger like drunkards and all their skill
+    is swallowed up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction
+    and iron; Refrain: ''Let them thank YHWH for his steadfast love and his wonders to the sons of man'';
+    God''s control of the wind over ships at sea: raising a storm or stilling it [divergence between the
+    texts]; God turns rivers into desert and fruitful land into salt waste, and desert into pools of water;
+    God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a whisper
     and brings sailors to harbor [divergence between the texts]; God sends the flood of al-''Arim (the
     dam) and turns the two gardens into bitter fruit, tamarisk and a few lote-trees; Seafarers cry to
     God in a storm; what they do once rescued [divergence between the texts]; Sailors in a storm call
@@ -44,10 +44,10 @@ evidence:
     otherwise, people call on God alone, then return to polytheism once rescued; In distress, at sea or
     otherwise, people call on God alone, then return to polytheism once rescued [contrast between the
     texts]; God honored the children of Adam, carried them on land and sea and preferred them above much
-    of creation; The expelled devil vows to lie in wait on the straight path and mislead humanity; The
-    devil argues he is better than man because he was made of fire and man of clay; Satan has no authority
-    over God''s sincere servants, only over those who follow him; God commands the angels to prostrate
-    before the first man, and they do; and 4 more.'
+    of creation; Man is clay (and straw) shaped by God, said where a human is scorned; The expelled devil
+    vows to lie in wait on the straight path and mislead humanity; The devil argues he is better than
+    man because he was made of fire and man of clay; Satan has no authority over God''s sincere servants,
+    only over those who follow him; and 5 more.'
   basis: reading
 - text: 'Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): tagged by Claude
     (model), reading the Hebrew.'

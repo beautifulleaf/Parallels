@@ -12,18 +12,18 @@ traditions:
 layers:
 - motif
 motifs:
-- rebellious-house
 - spirit-enters-and-stands-prophet-up
+- rebellious-house
 - glory-of-the-lord-kavod
 - whether-they-hear-or-refuse
 - hand-of-the-lord-on-prophet
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Israel called ''a rebellious house'' (beit meri) (weight 6.7); A
-    spirit enters the prophet and sets him on his feet (weight 6.7); The prophet sees ''the likeness of
-    the glory of YHWH'' as radiant fire enthroned (weight 6.3); The prophet must speak ''whether they
-    hear or refuse'' (weight 6.3); ''The hand of YHWH was upon'' the prophet, bringing a vision or transport
-    (weight 6.3). Pair score 32.2.'
+- text: 'Shared motifs, rarest first: A spirit enters the prophet and sets him on his feet (weight 7.7);
+    Israel called ''a rebellious house'' (beit meri) (weight 7.7); The prophet sees ''the likeness of
+    the glory of YHWH'' as radiant fire enthroned (weight 7.3); The prophet must speak ''whether they
+    hear or refuse'' (weight 7.3); ''The hand of YHWH was upon'' the prophet, bringing a vision or transport
+    (weight 7.3). Pair score 37.5.'
   basis: reading
 - text: 'Only in Ezekiel''s commission as ''son of man'' to the rebellious house; he eats the scroll sweet
     as honey: Heavenly voice cries ''Blessed be the glory of YHWH from his place''; God makes the prophet''s
@@ -53,7 +53,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Israel called 'a rebellious house' (beit meri)
+finding: A spirit enters the prophet and sets him on his feet
 kinds:
 - shared
 units:
@@ -64,6 +64,21 @@ units:
   title: Ezekiel appointed watchman; bound and struck dumb in his house
   tradition: judaism
 matches:
+- kind: shared
+  label: A spirit enters the prophet and sets him on his feet
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 2:2
+      lang: he
+      text: וַתָּ֧בֹא בִ֣י ר֗וּחַ כַּֽאֲשֶׁר֙ דִּבֶּ֣ר אֵלַ֔י וַתַּעֲמִדֵ֖נִי עַל רַגְלָ֑י וָאֶשְׁמַ֕ע
+        אֵ֖ת מִדַּבֵּ֥ר אֵלָֽי
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:24
+      lang: he
+      text: וַתָּבֹא בִ֣י ר֔וּחַ וַתַּעֲמִדֵ֖נִי עַל רַגְלָ֑י וַיְדַבֵּ֤ר אֹתִי֙ וַיֹּ֣אמֶר אֵלַ֔י בֹּ֥א
+        הִסָּגֵ֖ר בְּת֥וֹךְ בֵּיתֶֽךָ
 - kind: shared
   label: Israel called 'a rebellious house' (beit meri)
   sides:
@@ -90,21 +105,6 @@ matches:
         מוֹכִ֑יחַ כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה (3:27) וּֽבְדַבְּרִ֤י אֽוֹתְךָ֙ אֶפְתַּ֣ח אֶת פִּ֔יךָ וְאָמַרְתָּ֣
         אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהֹוִ֑ה הַשֹּׁמֵ֤עַ יִשְׁמָע֙ וְהֶחָדֵ֣ל יֶחְדָּ֔ל כִּ֛י בֵּ֥ית
         מְרִ֖י הֵֽמָּה
-- kind: shared
-  label: A spirit enters the prophet and sets him on his feet
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ezek 2:2
-      lang: he
-      text: וַתָּ֧בֹא בִ֣י ר֗וּחַ כַּֽאֲשֶׁר֙ דִּבֶּ֣ר אֵלַ֔י וַתַּעֲמִדֵ֖נִי עַל רַגְלָ֑י וָאֶשְׁמַ֕ע
-        אֵ֖ת מִדַּבֵּ֥ר אֵלָֽי
-  - tradition: judaism
-    passages:
-    - ref: Ezek 3:24
-      lang: he
-      text: וַתָּבֹא בִ֣י ר֔וּחַ וַתַּעֲמִדֵ֖נִי עַל רַגְלָ֑י וַיְדַבֵּ֤ר אֹתִי֙ וַיֹּ֣אמֶר אֵלַ֔י בֹּ֥א
-        הִסָּגֵ֖ר בְּת֥וֹךְ בֵּיתֶֽךָ
 - kind: shared
   label: The prophet sees 'the likeness of the glory of YHWH' as radiant fire enthroned
   sides:

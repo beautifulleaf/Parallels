@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All the host of heaven rot away and the heavens roll up like a scroll;
-    their host falls like withered leaves from vine and fig (weight 6.0). Pair score 6.0.'
+    their host falls like withered leaves from vine and fig (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins:
     ''Seek in the book of YHWH and read: not one of these is missing''; God has allotted the land to the
@@ -32,10 +32,9 @@ evidence:
     of emptiness (bohu); The damned wear garments of pitch (qatiran), fire covering their faces; All the
     host of heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves
     from vine and fig [divergence between the texts]; God himself devotes the nations (or a nation) to
-    destruction (herem) and gives them to slaughter; Ruined city never reinhabited, even by Arab tents
-    or shepherds; inhabited by desert creatures, ostriches, jackals and dancing goat-demons (se''irim);
-    God''s flashing sword devours flesh and his arrows are drunk with blood; Land made brimstone and salt
-    like Sodom, Gomorrah, Admah and Zeboiim; and 2 more.'
+    destruction (herem) and gives them to slaughter; Land made brimstone and salt like Sodom, Gomorrah,
+    Admah and Zeboiim; On the day the sky heaves (tamur) and the mountains move away; God''s flashing
+    sword devours flesh and his arrows are drunk with blood; and 2 more.'
   basis: reading
 - text: 'Only in Do not despair of mercy; the earth in God''s grip; the throngs to hell and Garden: The
     angels are seen surrounding the Throne, glorifying the praise of their Lord; The blessed praise God
@@ -48,8 +47,8 @@ evidence:
     trumpet blast all in heaven and earth swoon (sa''iqa) except whom God wills; at the second they stand
     looking; On the Day of Resurrection the whole earth is in God''s grip and the heavens folded in his
     right hand; The earth shines (lit up) with God''s glory; The earth shines (lit up) with God''s glory
-    [divergence between the texts]; Who holds the keys that open and shut [divergence between the texts];
-    and 6 more.'
+    [divergence between the texts]; At the gate of the netherworld the gatekeepers question those who
+    arrive [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins: tagged
     by Claude (model), reading the Hebrew.'

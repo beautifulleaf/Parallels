@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The righteous slept little of the night and sought forgiveness in
-    the hours before dawn (ashar) (weight 6.3). Pair score 6.3.'
+    the hours before dawn (ashar) (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas pe to tav: Speaker strays like a lost sheep and asks God to seek his
     servant; Speaker rises before dawn (neshef) and anticipates the night watches to cry out and meditate;
@@ -26,9 +26,9 @@ evidence:
     I praise you''; ''Your word is a lamp to my feet and a light to my path''; Zeal for God''s house consumes
     the speaker; Speaker remembers and meditates on God on his bed through the night watches; Psalm in
     22 stanzas of eight lines, every line of a stanza beginning with the same letter, each line naming
-    the Torah; Blessing: may God make his face shine upon you; Those who hate the speaker without cause
-    (hinnam); God tests his people as silver is refined in the crucible; God''s commandments or Torah
-    are the speaker''s delight (sha''ashu''im).'
+    the Torah; Those who hate the speaker without cause (hinnam); God tests his people as silver is refined
+    in the crucible; God''s commandments or Torah are the speaker''s delight (sha''ashu''im); Blessing:
+    may God make his face shine upon you.'
   basis: reading
 - text: 'Only in The two hosts, worldly lures, God''s witness: God bears witness there is no god but he,
     and so do the angels and those of knowledge; Sign in two hosts that met: one saw the other as twice

@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Abraham parts from his father and his father''s land or gods
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Generations of Shem to Terah; Terah''s family leaves Ur: Lifespans decline generation
-    by generation after the flood; A son dies in his father''s lifetime and presence; How Abraham parts
-    from his father and his father''s land or gods [divergence between the texts]; Family migrates from
-    Ur of the Chaldeans to Harran on the way to Canaan; Ten generations of long-lived patriarchs from
-    the first man to the flood hero; Who leads Abraham''s departure from his homeland, with Lot, and why
-    [divergence between the texts]; The patriarch''s wife is barren.'
+- text: 'Only in Generations of Shem to Terah; Terah''s family leaves Ur: A son dies in his father''s
+    lifetime and presence; How Abraham parts from his father and his father''s land or gods [divergence
+    between the texts]; Family migrates from Ur of the Chaldeans to Harran on the way to Canaan; Who leads
+    Abraham''s departure from his homeland, with Lot, and why [divergence between the texts]; Ten generations
+    of long-lived patriarchs from the first man to the flood hero; Lifespans decline generation by generation
+    after the flood; The patriarch''s wife is barren.'
   basis: reading
 - text: 'Only in The bargain of lives for paradise; Abraham''s prayer for his father: God has bought from
     the believers their lives and wealth for paradise; a promise in Torah, Gospel and Quran; Believers

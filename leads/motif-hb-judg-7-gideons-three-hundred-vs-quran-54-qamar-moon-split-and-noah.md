@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: With downcast eyes they come out of the graves like scattered locusts,
-    hastening to the caller (weight 6.7); Enemies and their camels are as numerous as locusts (weight
-    6.3). Pair score 13.0.'
+    hastening to the caller (weight 7.7); Enemies and their camels are as numerous as locusts (weight
+    7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns: An enemy
     soldier''s dream, overheard, foretells their defeat; The Hill of Moreh (''teacher'') and the Spring
@@ -35,18 +35,17 @@ evidence:
     2 more.'
   basis: reading
 - text: 'Only in Al-Qamar: the moon split, the dead like locusts, and Noah''s ark of planks and fibres:
-    God left the ark (or the event) as a sign: is there anyone who will remember?; Noah carried on a thing
-    of planks and nails/fibres (dhat alwah wa-dusur), running under God''s eyes; God opens the gates of
-    heaven with pouring water and makes the earth burst with springs; the waters meet for a decreed matter;
-    Noah, called a madman and driven off, prays ''I am overcome, so help me!''; Whenever they see a sign
-    they turn away and say ''continuous/passing sorcery'' (sihr mustamirr); What sets the flood in motion:
-    God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts]; How
-    the ark is described [divergence between the texts]; ''The Hour has drawn near and the moon is split''
-    (inshaqqa l-qamar); God opens the windows or gates of heaven, for blessing or for the flood [contrast
-    between the texts]; Refrain: ''How then were my punishment and my warnings?'' (fa-kayfa kana ''adhabi
-    wa-nudhur); Refrain: ''We have made the Quran easy to remember; is there anyone who will remember?''
-    (fa-hal min muddakir); The sign left after the flood: the rainbow, or the ark [divergence between
-    the texts]; and 5 more.'
+    God left the ark (or the event) as a sign: is there anyone who will remember?; God opens the gates
+    of heaven with pouring water and makes the earth burst with springs; the waters meet for a decreed
+    matter; Noah, called a madman and driven off, prays ''I am overcome, so help me!''; Whenever they
+    see a sign they turn away and say ''continuous/passing sorcery'' (sihr mustamirr); What sets the flood
+    in motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the
+    texts]; How the ark is described [divergence between the texts]; Heaven is opened (its udders or its
+    gates) to release water [divergence between the texts]; ''The Hour has drawn near and the moon is
+    split'' (inshaqqa l-qamar); A great multitude spread over the land is likened to locusts (irby / jarād);
+    A multitude rising or pouring out is likened to a swarm of locusts; God opens the windows or gates
+    of heaven, for blessing or for the flood [contrast between the texts]; In the storm the water from
+    heaven meets the water from the earth; and 12 more.'
   basis: reading
 - text: 'The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns: tagged by Claude
     (model), reading the Hebrew.'

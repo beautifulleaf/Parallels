@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Go to the ant, sluggard'': without chief or ruler she stores food
-    in summer and harvest (weight 6.7). Pair score 6.7.'
+    in summer and harvest (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates: The worthless
     man (adam beliyya''al) winks with his eyes, scrapes with his feet and points with his fingers, sowing
-    discord; Six things YHWH hates, seven an abomination: haughty eyes, lying tongue, hands shedding innocent
-    blood, scheming heart, feet running to evil, false witness, sower of discord; Warning against striking
-    hands as surety for a neighbor or stranger; free yourself without sleep like a gazelle from the hunter;
-    ''A little sleep, a little slumber, a little folding of the hands'', and poverty comes like a vagabond,
-    want like an armed man; Do not obey every contemptible swearer, backbiter going about with slander,
-    hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble); Graded numerical saying (''One
-    thing God spoke, two things I heard''; ''three, yes four'').'
+    discord; Warning against striking hands as surety for a neighbor or stranger; free yourself without
+    sleep like a gazelle from the hunter; ''A little sleep, a little slumber, a little folding of the
+    hands'', and poverty comes like a vagabond, want like an armed man; Six things YHWH hates, seven an
+    abomination: haughty eyes, lying tongue, hands shedding innocent blood, scheming heart, feet running
+    to evil, false witness, sower of discord; Do not obey every contemptible swearer, backbiter going
+    about with slander, hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble); Graded numerical
+    saying (''One thing God spoke, two things I heard''; ''three, yes four'').'
   basis: reading
 - text: 'Only in Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba: Entering Solomon''s
     palace, the queen takes its floor of smooth glass for a pool and bares her legs; The hoopoe returns
@@ -43,7 +43,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 22 more.'
+    and 42 more.'
   basis: reading
 - text: 'Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates: tagged by Claude (model),
     reading the Hebrew.'

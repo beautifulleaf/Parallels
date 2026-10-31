@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens his good storehouse, the heavens, to give rain (weight
-    5.3). Pair score 5.3.'
+    6.2). Pair score 6.2.'
   basis: reading
 - text: 'Only in Return to me; will a man rob God? Test me with the tithe: ''I YHWH do not change; therefore
     you sons of Jacob are not consumed''; ''Will a man rob God? Yet you rob me'' in tithes and offerings;
-    Locust, worm and cricket devour crops, vines and trees; God opens the windows or gates of heaven,
-    for blessing or for the flood [contrast between the texts]; ''Return to me and I will return to you'',
-    says God; Bring the whole tithe to the storehouse and test God: he will open the windows of heaven
-    and pour out blessing without limit; Disputation form: God states a claim, the people object ''How
-    have you...?'', and God answers; Had they observed the Torah and Gospel they would have eaten from
-    above them and beneath their feet; The tithe given to the Levites; Levites give a tithe of the tithe;
-    The way (sunna) of God with those who passed before: you will find no change in God''s way.'
+    God opens the windows or gates of heaven, for blessing or for the flood [contrast between the texts];
+    ''Return to me and I will return to you'', says God; Bring the whole tithe to the storehouse and test
+    God: he will open the windows of heaven and pour out blessing without limit; Disputation form: God
+    states a claim, the people object ''How have you...?'', and God answers; Had they observed the Torah
+    and Gospel they would have eaten from above them and beneath their feet; The tithe given to the Levites;
+    Levites give a tithe of the tithe; The way (sunna) of God with those who passed before: you will find
+    no change in God''s way; Locust, worm and cricket devour crops, vines and trees.'
   basis: reading
 - text: 'Only in The Garden: offspring joined with parents, the cup without idle talk, youths like pearls;
     the run of ''or...?'' challenges: The blessed question each other and recall that they used to be
@@ -39,11 +39,11 @@ evidence:
     of the stars (dawn); Do they have a ladder (sullam) by which they eavesdrop on heaven? Let their listener
     bring clear proof; ''Be patient for your Lord''s judgment, for you are under our eyes''; Were they
     created from nothing, or are they the creators? Did they create the heavens and earth?; Do they possess
-    the Unseen (al-ghayb) so they write it down?; Dream of a ladder or stairway reaching heaven with angels
-    ascending and descending; ''Eat and drink with relish for what you used to do''; A ladder (sullam
-    / sullām) reaching from earth to heaven [divergence between the texts]; Believers'' offspring who
-    followed them in faith are joined with them in paradise, without loss of reward; each is pledged for
-    what he earned; and 13 more.'
+    the Unseen (al-ghayb) so they write it down?; ''Eat and drink with relish for what you used to do'';
+    A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts]; Messengers
+    go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij) [divergence
+    between the texts]; Believers'' offspring who followed them in faith are joined with them in paradise,
+    without loss of reward; each is pledged for what he earned; and 14 more.'
   basis: reading
 - text: 'Return to me; will a man rob God? Test me with the tithe: tagged by Claude (model), reading the
     Hebrew.'

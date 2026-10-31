@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believers must not put themselves before God and his messenger,
-    nor raise their voices above the prophet''s or shout to him (weight 6.7). Pair score 6.7.'
+    nor raise their voices above the prophet''s or shout to him (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Miriam and Aaron speak against Moses: Hero called the humblest man on earth; Ordinary
     prophets receive revelation in visions and dreams; Afflicted person shut outside the camp seven days;
-    Prophet''s own siblings challenge his unique authority; Father spitting in a daughter''s face brings
-    seven days'' shame; God speaks to one prophet ''mouth to mouth'', not in dreams or riddles; Prophet
-    criticized over his foreign (Cushite) wife; Moses asks his people: ''Why do you hurt me when you know
-    I am God''s messenger to you?''; when they swerved God made their hearts swerve; Those who hurt Moses:
-    God cleared him of what they said [divergence between the texts]; How God speaks to prophets: face
+    Prophet''s own siblings challenge his unique authority; Prophet criticized over his foreign (Cushite)
+    wife; Moses asks his people: ''Why do you hurt me when you know I am God''s messenger to you?''; when
+    they swerved God made their hearts swerve; Those who hurt Moses: God cleared him of what they said
+    [divergence between the texts]; Father spitting in a daughter''s face brings seven days'' shame; God
+    speaks to one prophet ''mouth to mouth'', not in dreams or riddles; How God speaks to prophets: face
     to face, in vision or dream, from behind a veil, or by a messenger [divergence between the texts];
     God ranked some messengers above others; to some God spoke; Offender struck with skin disease ''white
     as snow''; and 2 more.'
@@ -42,11 +42,10 @@ evidence:
     are nothing but brothers, so make peace between your brothers; One origin (one father, one pair, one
     God) as ground for conduct toward others [divergence between the texts]; Humanity created from a male
     and a female and made into peoples (shu''ub) and tribes to know one another; the noblest is the most
-    pious; ''Have we not all one father? Has not one God created us? Why do we deal treacherously with
-    one another?''; Slander or gossip pictured as eating [divergence between the texts]; If a corrupt
-    person brings you news, verify it lest you harm a people in ignorance and come to regret it; Avoid
-    suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?; and
-    4 more.'
+    pious; Denial / prohibition of eavesdropping or spying on others; ''Have we not all one father? Has
+    not one God created us? Why do we deal treacherously with one another?''; Slander or backbiting is
+    pictured as eating the slandered person''s flesh; Slander or gossip pictured as eating [divergence
+    between the texts]; and 12 more.'
   basis: reading
 - text: 'Miriam and Aaron speak against Moses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

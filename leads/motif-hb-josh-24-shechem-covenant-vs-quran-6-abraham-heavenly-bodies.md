@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero''s father makes, sells or worships idols [divergence between
-    the texts] (weight 5.4); Hero''s father makes, sells or worships idols (weight 4.8). Pair score 10.3.'
+    the texts] (weight 6.5); Hero''s father makes, sells or worships idols (weight 5.9). Pair score 12.4.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
@@ -39,11 +39,11 @@ evidence:
     father is named Āzar; Abraham: ''I do not love things that set'' (lā uḥibbu l-āfilīn); Which of the
     two parties has more right to security? Those who believe without mixing in wrong; God takes the patriarch
     outside and tells him to count the stars; God takes the patriarch outside and tells him to count the
-    stars [divergence between the texts]; If he is a god, let him defend himself [divergence between the
-    texts]; Prohibition of worshipping sun, moon, stars, the host of heaven [divergence between the texts];
-    Patriarch believes God and it is counted to him as righteousness; Follow the religion (milla) of Abraham
-    the ḥanīf, who was no idolater; Prohibition of worshipping sun, moon, stars, the host of heaven; and
-    1 more.'
+    stars [divergence between the texts]; A star, the moon or the sun is identified as the (high) god
+    [divergence between the texts]; If he is a god, let him defend himself [divergence between the texts];
+    What follows when the sun (as deity) goes down [divergence between the texts]; Prohibition of worshipping
+    sun, moon, stars, the host of heaven [divergence between the texts]; Patriarch believes God and it
+    is counted to him as righteousness; and 3 more.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged
     by Claude (model), reading the Hebrew.'

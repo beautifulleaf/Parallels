@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever does good does it for his own soul; whoever does evil, it
-    is against it (weight 6.0). Pair score 6.0.'
+    is against it (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Sour grapes - individual responsibility and repentance: Exhortation: cast away your transgressions
     and make yourselves a new heart and a new spirit; why will you die?; Test case of three generations:
@@ -28,14 +28,14 @@ evidence:
     Whether one person can carry another''s sin [divergence between the texts]; No one may excuse himself
     on judgment day because his ancestors associated partners; If the wicked turns from his sins, none
     of his transgressions will be remembered; if the righteous turns away, his righteousness is forgotten;
-    Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual intercourse,
-    no oppression, returns pledges, feeds the hungry, clothes the naked, no interest; Proverb ''The fathers
-    have eaten sour grapes and the children''s teeth are set on edge'', abolished by God; Whether repentance
-    has a time limit [divergence between the texts]; People complain ''the way of the Lord is not fair'';
-    God answers that it is their ways that are unfair; God does not desire the death of the wicked but
-    that he turn from his way and live; A cloak taken in pledge must be returned before sunset; ''The
-    soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father the son''s;
-    and 4 more.'
+    Proverb ''The fathers have eaten sour grapes and the children''s teeth are set on edge'', abolished
+    by God; Whether repentance has a time limit [divergence between the texts]; People complain ''the
+    way of the Lord is not fair''; God answers that it is their ways that are unfair; God does not desire
+    the death of the wicked but that he turn from his way and live; Catalogue of the righteous man: no
+    eating on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns pledges,
+    feeds the hungry, clothes the naked, no interest; ''The soul that sins, it shall die'': the son does
+    not bear the father''s iniquity nor the father the son''s; Intercourse with a menstruating woman is
+    forbidden; and 4 more.'
   basis: reading
 - text: 'Only in Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a: God
     has subjected (sakhkhara) to humans the sea and all that is in the heavens and on the earth; Believers

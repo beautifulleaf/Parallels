@@ -14,15 +14,15 @@ traditions:
 layers:
 - motif
 motifs:
-- priest-addresses-army
 - fearful-soldiers-in-battle-as-contrast
+- priest-addresses-army
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Priest addresses the army before battle: do not fear, God fights
-    for you (weight 6.7); Ruling on soldiers who fear battle [contrast between the texts] (weight 6.7).
-    Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Ruling on soldiers who fear battle [contrast between the texts]
+    (weight 7.7); Priest addresses the army before battle: do not fear, God fights for you (weight 7.7).
+    Pair score 15.5.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -41,13 +41,13 @@ evidence:
     the fighters, remove Satan''s filth and make their feet firm; Some believers dispute the call to battle
     as if driven to death with their eyes open; God covers the fighters with slumber as a security from
     him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; God
-    reduces the army so that Israel cannot boast its own hand saved it; Fleeing the battle line is forbidden
-    except as a maneuver or to join another unit; ''You did not throw when you threw, but God threw'':
-    the victory is God''s act; The threatened people cry to God before the decisive encounter [divergence
+    reduces the army so that Israel cannot boast its own hand saved it; Hard pressed by a superior enemy,
+    a leader or army calls on God and God answers; Fleeing the battle line is forbidden except as a maneuver
+    or to join another unit; The threatened people cry to God before the decisive encounter [divergence
     between the texts]; God cuts off the last remnant (root, dabir) of a people who denied; The victory
-    is credited to God, not to the fighters [divergence between the texts]; God''s angels strike the enemy
-    army [divergence between the texts]; God reinforces the believers in battle with a thousand (or more)
-    angels; and 2 more.'
+    is credited to God, not to the fighters [divergence between the texts]; Whether the human side or
+    the deity is credited with killing the enemy [shared matter] [divergence between the texts]; God''s
+    angels strike the enemy army [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

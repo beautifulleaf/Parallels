@@ -17,17 +17,17 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: There is no soul but has a guardian (hafiz) over it (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: There is no soul but has a guardian (hafiz) over it (weight 7.1).
+    Pair score 7.1.'
   basis: reading
 - text: 'Only in Psalm 121, the keeper who does not sleep: God will guard your going out and your coming
     in from now and forever; ''I lift my eyes to the mountains: from where will my help come?''; God does
     not slumber or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps;
     Protective formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi) against named
     evils; God as shade: the sun shall not strike you by day nor the moon by night; Psalm used as protection
-    against demons and harm (later amulet and ''song of plagues''); God called ''maker of heaven and earth''
-    (''oseh shamayim va-arets'') in blessing or confession of help; Petitioner takes refuge in the shadow
-    of God''s wings; Superscription ''A song of ascents'' (shir ha-ma''alot), Ps 120-134.'
+    against demons and harm (later amulet and ''song of plagues''); Petitioner takes refuge in the shadow
+    of God''s wings; God called ''maker of heaven and earth'' (''oseh shamayim va-arets'') in blessing
+    or confession of help; Superscription ''A song of ascents'' (shir ha-ma''alot), Ps 120-134.'
   basis: reading
 - text: 'Only in The night-comer: fluid from between backbone and ribs: Oath by the sky and the night-comer
     (al-tariq), explained as the piercing star (al-najm al-thaqib); Human created from a gushing fluid

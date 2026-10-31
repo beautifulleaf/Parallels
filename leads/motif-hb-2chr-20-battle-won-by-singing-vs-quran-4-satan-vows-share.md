@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Abraham is called God''s friend (ohev, ''lover'') (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: Abraham is called God''s friend (ohev, ''lover'') (weight 7.3).
+    Pair score 7.3.'
   basis: reading
 - text: 'Only in Jehoshaphat''s fast and prayer; the Levite oracle; enemies destroy one another as the
     choir sings: Prophetic assurance: ''the battle is not yours but God''s''; The army arrives to find
@@ -30,19 +30,20 @@ evidence:
     The king stands in the temple court before the assembly and prays in a national crisis; ''We do not
     know what to do, but our eyes are on you''; The king proclaims a fast throughout the land in a crisis;
     Ships built in alliance with a wicked king are wrecked, as a prophet foretold; Singers praising God
-    march ahead of the army into battle; The spoil is so great that gathering it takes three days; The
-    army returns in procession with harps, lyres and trumpets to the temple; and 9 more.'
+    march ahead of the army into battle; The spoil is so great that gathering it takes three days; All
+    Judah stands before God with their little ones, wives and children; and 9 more.'
   basis: reading
 - text: 'Only in Female deities, Satan''s vow, slit cattle ears, and Abraham the friend: Satan commands
     people to alter God''s creation; Idolaters invoke only female beings besides God, and only a rebellious
     Satan; Salvation is not by your wishes nor those of the People of the Book: whoever does evil is requited;
     Cursed Satan vows to take an appointed share (naṣīb mafrūḍ) of God''s servants; Satan commands people
     to slit the ears of cattle (a pagan dedication rite); The faithless wife credits her lovers (the Baals)
-    with her bread, water, wool, flax, oil and drink, not knowing God gave them; Offerings, incense and
-    libations to the ''Queen of Heaven''; Whoever does good, male or female, and believes, enters paradise;
-    God does not forgive associating partners with him (shirk) but forgives anything less; Not wronged
-    by a date-stone''s thread (fatīl) or groove (naqīr): proverbial minimal measures; Follow the religion
-    (milla) of Abraham the ḥanīf, who was no idolater.'
+    with her bread, water, wool, flax, oil and drink, not knowing God gave them; A rebel against the high
+    god vows, in a string of first-person ''I will'' clauses, to take and to command [divergence between
+    the texts]; Whoever does good, male or female, and believes, enters paradise; God does not forgive
+    associating partners with him (shirk) but forgives anything less; Not wronged by a date-stone''s thread
+    (fatīl) or groove (naqīr): proverbial minimal measures; Follow the religion (milla) of Abraham the
+    ḥanīf, who was no idolater; Offerings, incense and libations to the ''Queen of Heaven''.'
   basis: reading
 - text: 'Jehoshaphat''s fast and prayer; the Levite oracle; enemies destroy one another as the choir sings:
     tagged by Claude (model), reading the Hebrew.'

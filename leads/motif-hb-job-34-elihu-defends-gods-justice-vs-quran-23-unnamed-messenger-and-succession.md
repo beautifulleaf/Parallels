@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.0). Pair score
-    5.0.'
+- text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.9). Pair score
+    5.9.'
   basis: reading
 - text: 'Only in Elihu - God cannot do wrong: God shows no partiality to princes, nor regards the rich
     above the poor, for all are the work of his hands; God shatters the mighty without inquiry and sets
@@ -28,9 +28,9 @@ evidence:
     people are shaken and pass away, the mighty removed without a hand; ''Does God pervert justice, does
     Shaddai pervert right?''; Man is abominable and corrupt, drinking iniquity like water; ''Does not
     the ear test words as the palate tastes food?''; The sufferer is accused of multiplying words without
-    knowledge; ''Why do you hide your face and count me as your enemy?''; God takes the souls at death
-    and of those not dead in their sleep; he keeps those decreed to die and sends back the others for
-    a set term; and 3 more.'
+    knowledge; God takes the souls at death and of those not dead in their sleep; he keeps those decreed
+    to die and sends back the others for a set term; ''Can a man be of use to God? Is it gain to Shaddai
+    if you are righteous?''; and 3 more.'
   basis: reading
 - text: 'Only in A later generation''s messenger, the Cry, and messengers in succession: God sent his
     messengers one after another; each was denied and each nation became a tale; A people is seized by

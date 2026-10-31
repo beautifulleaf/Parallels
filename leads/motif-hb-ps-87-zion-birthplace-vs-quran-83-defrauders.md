@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
-    are blotted (weight 4.6). Pair score 4.5.'
+    are blotted (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Psalm 87, Zion mother of nations; this one was born there: Singers and dancers declare
     ''All my springs are in you'' (Zion as source of waters); Zion''s foundation is on the holy mountains;
@@ -36,12 +36,12 @@ evidence:
     their couches; What they earned has covered their hearts with rust (rana); Deniers dismiss the recited
     signs as ''tales of the ancients'' (asatir al-awwalin); On that day the wicked are veiled (debarred)
     from their Lord; An elite of ''those brought near'' (al-muqarrabun) witness the righteous register
-    and drink from Tasnim; A merchant (Canaan) with false scales in his hand loves to oppress; The record
-    of the wicked is in Sijjin, that of the righteous in ''Illiyyun, each an inscribed book (kitab marqum)
-    witnessed by those brought near [divergence between the texts]; The righteous drink sealed pure wine
-    (rahiq makhtum) whose seal is musk; Paradise has named springs: Salsabil, Tasnim (and a spring the
-    servants of God make gush forth); Paradise has raised couches (arā''ik, surur), set goblets, cushions
-    in rows and spread carpets; and 4 more.'
+    and drink from Tasnim; Fraud by tampering with a measure [neutral] [divergence between the texts];
+    Not diminishing the measure and not tampering with the weights of the balance, tied to a day of reckoning;
+    A written register in which servants are entered as faithful or unfaithful [divergence between the
+    texts]; The record of the wicked is in Sijjin, that of the righteous in ''Illiyyun, each an inscribed
+    book (kitab marqum) witnessed by those brought near [divergence between the texts]; The righteous
+    drink sealed pure wine (rahiq makhtum) whose seal is musk; and 13 more.'
   basis: reading
 - text: 'Psalm 87, Zion mother of nations; this one was born there: tagged by Claude (model), reading
     the Hebrew.'

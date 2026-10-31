@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fast God chooses is to loose bonds of injustice, free the oppressed,
-    share bread with the hungry and clothe the naked (weight 6.7). Pair score 6.7.'
+    share bread with the hungry and clothe the naked (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The fast that God chooses; the Sabbath a delight: When the righteous call, God answers
     ''Here I am'' (hinneni); The prophet is told to cry aloud and lift his voice like a ram''s horn; The
@@ -30,16 +30,17 @@ evidence:
     kin, orphans, poor, travelers, beggars and captives; Mourner puts on sackcloth and ashes and cries
     aloud in public.'
   basis: reading
-- text: 'Only in The city: the two highways and the steep ascent: The companions of the right (ashab al-yamin,
+- text: 'Only in The city: the two highways and the steep ascent: Giving food to the hungry (water, clothing,
+    a ferry) as the deed that justifies before the judge; The companions of the right (ashab al-yamin,
     al-maymana) are saved; the companions of the left (al-mash''ama) are damned; A fire is closed over
     the damned (mu''sada); The steep ascent (''aqaba) is freeing a neck (slave), feeding an orphan relative
     or a needy man in the dust on a day of hunger; Ground cursed; man must eat by sweat of his brow among
-    thorns and thistles; Ground cursed; man must eat by sweat of his brow among thorns and thistles [divergence
-    between the texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin); Oath introduced
-    by the negated formula ''No! I swear by...'' (la uqsimu / fa-la uqsimu); I set before you life and
-    death, blessing and curse: choose life; Woe to every slanderer and backbiter (humaza lumaza) who amasses
-    and counts wealth, thinking it makes him immortal; Rhetorical formula ''And what will make you know
-    what X is?'' (wa ma adraka ma) introducing an eschatological term.'
+    thorns and thistles [divergence between the texts]; Oath by ''this city'' (Mecca), the secure city
+    (al-balad al-amin); Whether a bound captive is released or killed; Ground cursed; man must eat by
+    sweat of his brow among thorns and thistles; The evil is shut in below under a closed cover; Oath
+    introduced by the negated formula ''No! I swear by...'' (la uqsimu / fa-la uqsimu); Woe to every slanderer
+    and backbiter (humaza lumaza) who amasses and counts wealth, thinking it makes him immortal; I set
+    before you life and death, blessing and curse: choose life; and 1 more.'
   basis: reading
 - text: 'The fast that God chooses; the Sabbath a delight: tagged by Claude (model), reading the Hebrew.'
   basis: reading

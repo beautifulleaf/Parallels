@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Why do you say what you do not do? Most hateful to God is saying
-    what you do not do'' (weight 6.7). Pair score 6.7.'
+    what you do not do'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be
@@ -43,11 +43,11 @@ evidence:
     a clear opening/victory (fath mubin)'' (the Hudaybiya treaty); Opponents wish to put out God''s light
     with their mouths, but God will perfect his light; God loves those who fight in his way in ranks as
     though they were a solid structure (bunyan marsus); God makes his people''s hearts stray or swerve
-    [divergence between the texts]; The lamp of God had not yet gone out; Moses asks his people: ''Why
-    do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their hearts
-    swerve; Moses ill-treated by his own people [divergence between the texts]; The coming prophet is
-    found written in the Torah and the Gospel; Jesus asks ''Who are my helpers to God?'' and the disciples
-    (hawariyyun) answer ''We are God''s helpers''; and 5 more.'
+    [divergence between the texts]; If you have given your word, deliver and do not revoke it; promising
+    and not delivering is abhorrent to the god; The lamp of God had not yet gone out; Moses asks his people:
+    ''Why do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their
+    hearts swerve; Moses ill-treated by his own people [divergence between the texts]; The coming prophet
+    is found written in the Torah and the Gospel; and 7 more.'
   basis: reading
 - text: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay: tagged
     by Claude (model), reading the Hebrew.'

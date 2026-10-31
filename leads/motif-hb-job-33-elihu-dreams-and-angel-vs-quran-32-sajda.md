@@ -21,22 +21,22 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angel of death (malak al-mawt), put in charge of humans, takes
-    their souls (weight 6.7); God began man''s creation from clay, then made his progeny from an extract
-    of a despised fluid, then shaped him and breathed of his spirit (weight 6.3); First human shaped from
-    dust, clay or soil (weight 4.6). Pair score 17.5.'
+    their souls (weight 7.7); God began man''s creation from clay, then made his progeny from an extract
+    of a despised fluid, then shaped him and breathed of his spirit (weight 7.3); First human shaped from
+    dust, clay or soil (weight 5.2). Pair score 20.3.'
   basis: reading
 - text: 'Only in Elihu - warning dreams and the interceding angel: The healed man sings before men, ''I
-    sinned and perverted what was right, and it was not requited to me''; The restored man''s flesh becomes
-    fresher than a child''s and he returns to the days of his youth; God does all these things two or
-    three times with a man, to bring him back from the Pit to the light of life; God speaks once, even
+    sinned and perverted what was right, and it was not requited to me''; God does all these things two
+    or three times with a man, to bring him back from the Pit to the light of life; God speaks once, even
     twice, but people do not perceive it; An angel, an intercessor (malakh melits), one among a thousand,
     declares a man''s uprightness and pleads for him; The sick man''s soul draws near the Pit and his
     life to the ''destroyers'' (memitim, angels of death); ''Deliver him from going down to the Pit; I
-    have found a ransom (kofer)''; God chastens a man with pain on his bed until he loathes food and his
-    bones stick out, as warning; ''The spirit of God has made me, and the breath of Shaddai gives me life'';
-    In dreams during deep sleep God opens people''s ears and seals their warning, to turn them from pride
-    and spare them from the Pit; Angels glorify God and ask forgiveness for those on earth; God puts the
-    sufferer''s feet in the stocks and marks the soles of his feet; and 3 more.'
+    have found a ransom (kofer)''; ''The spirit of God has made me, and the breath of Shaddai gives me
+    life''; In dreams during deep sleep God opens people''s ears and seals their warning, to turn them
+    from pride and spare them from the Pit; Angels glorify God and ask forgiveness for those on earth;
+    The restored man''s flesh becomes fresher than a child''s and he returns to the days of his youth;
+    Humans created from sticky clay (tin lazib); God chastens a man with pain on his bed until he loathes
+    food and his bones stick out, as warning; and 3 more.'
   basis: reading
 - text: 'Only in Al-Sajda: creation, the angel of death, and the two fates: Whenever the damned try to
     get out of the fire they are driven back into it; On the Day of the Opening/Victory (al-fath) the
@@ -45,10 +45,11 @@ evidence:
     they may return; The guilty, heads bowed before their Lord, beg to be returned to do good; God''s
     word: ''I will fill hell with jinn and humans all together''; No soul knows what delight of the eyes
     is hidden in store for the righteous; Whether Moses wrote the book or was given it [divergence between
-    the texts]; What God did when the six days of creation were done [divergence between the texts]; God
-    made leaders (a''imma) among the Israelites who guided by his command because they were patient; God
-    gave Moses the Book as guidance for the Children of Israel; The believers'' sides forsake their beds
-    as they call on their Lord in fear and hope (night vigil); and 8 more.'
+    the texts]; Man described by the lowly bodily substance he is made of [shared matter] [divergence
+    between the texts]; What goes into the place below cannot come out again [divergence between the texts];
+    Whether one who has stood before the judge of the dead is sent back to the living [divergence between
+    the texts]; What God did when the six days of creation were done [divergence between the texts]; and
+    12 more.'
   basis: reading
 - text: 'Elihu - warning dreams and the interceding angel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seafarers cry to God in a storm; what they do once rescued [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jonah flees to Tarshish and is thrown into the sea: The ship''s captain wakes the sleeper
     and urges him to call on his god that they may not perish; Sailors throw the cargo overboard to lighten
@@ -34,16 +34,16 @@ evidence:
     a ship bound for Tarshish; and 11 more.'
   basis: reading
 - text: 'Only in God''s earth is wide; every soul tastes death; signs and the secure sanctuary: God made
-    a secure sanctuary (haram amin) while people around are snatched away; This life is fleeting; whether
-    anything real follows it [divergence between the texts]; Was not God''s earth wide enough for you
-    to emigrate (hijra) in it?; Seafarers cry to God in a storm; what they do once rescued [divergence
+    a secure sanctuary (haram amin) while people around are snatched away; Life on earth is slight or
+    unreal set against the true life of the hereafter [divergence between the texts]; This life is fleeting;
+    whether anything real follows it [divergence between the texts]; Was not God''s earth wide enough
+    for you to emigrate (hijra) in it?; Seafarers cry to God in a storm; what they do once rescued [divergence
     between the texts]; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved;
     The life of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter is
-    the true life; Every soul shall taste death; God provides prey for the lion and food for the raven''s
-    young that cry to him; If asked who created heaven and earth and sends rain, the idolaters themselves
+    the true life; God provides prey for the lion and food for the raven''s young that cry to him; Every
+    soul shall taste death; If asked who created heaven and earth and sends rain, the idolaters themselves
     answer ''God''; ''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience); Rain
-    from the sky gives life to the earth after its death, a sign of resurrection; Paradise as gardens
-    (of ʿAdn) beneath which rivers flow, where the righteous abide forever.'
+    from the sky gives life to the earth after its death, a sign of resurrection; and 1 more.'
   basis: reading
 - text: 'Jonah flees to Tarshish and is thrown into the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who dictated and who wrote down a prophet''s book [contrast between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Baruch reads the scroll; Jehoiakim cuts it with a penknife and burns it; it is rewritten:
     A destroyed sacred book is rewritten from dictation with many words added; The king cuts the prophetic

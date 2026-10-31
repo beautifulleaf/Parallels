@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is bitterly angry that God has spared the sinners [divergence
-    between the texts] (weight 6.7); The prophet is bitterly angry that God has spared the sinners (weight
-    6.7). Pair score 13.4.'
+    between the texts] (weight 7.7); The prophet is bitterly angry that God has spared the sinners (weight
+    7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Jonah''s anger, the qiqayon plant and God''s question: God''s compassion extends to the
     many animals of the city; God argues from the prophet''s pity for a plant that grew and perished in
@@ -44,11 +44,11 @@ evidence:
     is laid bare (yukshafu ''an saq) and they are called to prostrate but cannot; The unbelievers almost
     make the prophet slip with their (evil) eyes when they hear the reminder; Do they possess the Unseen
     (al-ghayb) so they write it down?; At God''s command the fish vomits the prophet onto dry land [divergence
-    between the texts]; ''Are your unbelievers better than those, or have you an immunity (bara''a) in
-    the scriptures (zubur)?''; The word of God comes to the prophet a second time with the same commission;
-    At God''s command the fish vomits the prophet onto dry land; The man of the fish (Dhū l-Nūn) cries
-    from the darknesses ''There is no god but you; I was a wrongdoer'' and is saved; The prophet prays
-    to God from inside the fish; and 5 more.'
+    between the texts]; The eye (gaze) as a harmful force against a person; ''Are your unbelievers better
+    than those, or have you an immunity (bara''a) in the scriptures (zubur)?''; The word of God comes
+    to the prophet a second time with the same commission; At God''s command the fish vomits the prophet
+    onto dry land; The man of the fish (Dhū l-Nūn) cries from the darknesses ''There is no god but you;
+    I was a wrongdoer'' and is saved; and 6 more.'
   basis: reading
 - text: 'Jonah''s anger, the qiqayon plant and God''s question: tagged by Claude (model), reading the
     Hebrew.'

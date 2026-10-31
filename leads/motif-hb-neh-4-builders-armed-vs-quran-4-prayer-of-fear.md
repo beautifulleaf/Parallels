@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In war the congregation prays in shifts, one group standing guard
-    with weapons (weight 6.7). Pair score 6.7.'
+    with weapons (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Conspiracy against Jerusalem; builders work with a weapon in one hand: Neighboring peoples
     conspire together to attack the rebuilding city; Work continues from the rising of dawn until the
-    stars come out; God frustrates the enemies'' plot once it becomes known; A guard is posted day and
-    night against attack; Half the men work while half stand guard with spears, shields, bows and armor;
-    Workers'' rhythmic complaint that the porters'' strength fails and the rubble is too much; Leader
-    and guards never take off their clothes while on watch; ''Our God will fight for us'' - rally at the
-    trumpet call; Defenders posted by families behind the wall with swords, spears and bows; Trumpeter
-    beside the leader: wherever the shofar sounds, rally there; Builders work with one hand and hold a
-    weapon in the other, swords at their sides; Neighbors warn ''ten times'' of attack from every side;
-    and 1 more.'
+    stars come out; God frustrates the enemies'' plot once it becomes known; Half the men work while half
+    stand guard with spears, shields, bows and armor; Workers'' rhythmic complaint that the porters''
+    strength fails and the rubble is too much; Leader and guards never take off their clothes while on
+    watch; ''Our God will fight for us'' - rally at the trumpet call; Defenders posted by families behind
+    the wall with swords, spears and bows; Trumpeter beside the leader: wherever the shofar sounds, rally
+    there; Builders work with one hand and hold a weapon in the other, swords at their sides; Neighbors
+    warn ''ten times'' of attack from every side; God invoked as ''the great and awesome God'' who keeps
+    covenant and steadfast love; and 1 more.'
   basis: reading
 - text: 'Only in Shortened prayer and prayer in shifts under arms: If you suffer, they suffer as you do,
     but you hope from God what they do not; Prayer is prescribed for believers at fixed times (kitāban

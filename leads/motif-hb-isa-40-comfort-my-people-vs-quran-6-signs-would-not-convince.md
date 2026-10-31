@@ -18,21 +18,22 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: None can change the words of God (weight 6.0). Pair score 6.0.'
+- text: 'Shared motifs, rarest first: None can change the words of God (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
     God tends his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God
     brings out the starry host by number and calls each by name; none is missing; God sits enthroned above
-    the circle (hug) of the earth; its inhabitants are like grasshoppers; Those who wait for YHWH renew
-    strength, mount up with wings like eagles, run and not be weary; Nations are like a drop from a bucket
-    and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering; A voice
-    cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for our God'';
-    Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed the mountains
-    in scales?; God made everything grow in due weight and sends it down only in known measure; A double
-    portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole earth
-    is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret Tsiyyon)
-    goes up on a high mountain to announce ''Behold your God!''; and 18 more.'
+    the circle (hug) of the earth; its inhabitants are like grasshoppers; Nations are like a drop from
+    a bucket and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering;
+    A voice cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for
+    our God''; Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed
+    the mountains in scales?; God made everything grow in due weight and sends it down only in known measure;
+    A double portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole
+    earth is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret
+    Tsiyyon) goes up on a high mountain to announce ''Behold your God!''; Satire on the making of idols:
+    craftsman casts, goldsmith overlays, the poor choose wood that will not rot so the idol will not totter;
+    and 18 more.'
   basis: reading
 - text: 'Only in Sworn oaths for a sign; even the dead speaking would not convince: Even if angels came
     down and the dead spoke to them, they would not believe; Most on earth follow only conjecture (ẓann)
@@ -41,7 +42,8 @@ evidence:
     would persuade the living if they spoke [contrast between the texts]; Prophet commissioned to make
     the people''s heart fat, ears heavy and eyes shut lest they understand and be healed [divergence between
     the texts]; Do not spread false reports or follow the majority to do wrong in court; Prophet commissioned
-    to make the people''s heart fat, ears heavy and eyes shut lest they understand and be healed.'
+    to make the people''s heart fat, ears heavy and eyes shut lest they understand and be healed; ''Who
+    can change the word that has gone out?'' / ''none can change his words''.'
   basis: reading
 - text: 'Comfort my people; a voice in the wilderness; to whom will you liken God: tagged by Claude (model),
     reading the Hebrew.'

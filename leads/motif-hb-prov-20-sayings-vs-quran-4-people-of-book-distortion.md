@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who claim to be pure are rebuked: God purifies whom he will
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -27,22 +27,22 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 19 more.'
   basis: reading
 - text: 'Only in Shifted words, ''we hear and disobey'', and the people of the Sabbath: God gave the family
     of Abraham the book, wisdom and a great kingdom; Opponents twist an ambiguous address (''rāʿinā'')
     with their tongues to mock; The blessed enter a deep, lasting shade (ẓill ẓalīl); Threat to obliterate
     faces and turn them backward; In hellfire, whenever the skins are burnt through, they are replaced
     with new skins; Some of the People of the Book believe in al-jibt and al-ṭāghūt (idols, false powers);
-    The people answer as one: all that YHWH has spoken we will do [divergence between the texts]; The
-    people answer as one: all that YHWH has spoken we will do [response between the texts]; Those who
-    violate the Sabbath are punished (executed, cut off, cursed or transformed) [divergence between the
-    texts]; Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna); God does not
-    forgive associating partners with him (shirk) but forgives anything less; Kings promised to come from
-    the patriarch or matriarch; and 6 more.'
+    A thread as the smallest measure: not even a thread is withheld, or wronged; The people answer as
+    one: all that YHWH has spoken we will do [divergence between the texts]; The people answer as one:
+    all that YHWH has spoken we will do [response between the texts]; Those who violate the Sabbath are
+    punished (executed, cut off, cursed or transformed) [divergence between the texts]; Israel at the
+    mountain says ''we hear and we disobey'' (sami''na wa-''asayna); God does not forgive associating
+    partners with him (shirk) but forgives anything less; and 7 more.'
   basis: reading
 - text: 'Sayings on wine, the king''s throne and the lamp of YHWH: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A felled tree sprouts again at the scent of water, but a man dies
-    and does not rise [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    and does not rise [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job - ''man born of woman''; the tree has hope: ''Who can bring a clean thing out of
     an unclean? Not one''; The dead man does not know whether his sons are honored or brought low; As
@@ -30,7 +30,7 @@ evidence:
     not wake until the heavens are no more; ''Man born of woman is of few days and full of trouble'';
     he comes forth like a flower and withers; Death as final, voiced by a sufferer or by deniers of resurrection
     [divergence between the texts]; Human life on earth is hard service (tsava), its days like those of
-    a hired laborer; A felled tree sprouts again at the scent of water, but a man dies and does not rise;
+    a hired laborer; Whether those who die and return to dust rise again [contrast between the texts];
     and 2 more.'
   basis: reading
 - text: 'Only in Six days, the Throne, winds and rain as proof of resurrection: Parable: good land yields

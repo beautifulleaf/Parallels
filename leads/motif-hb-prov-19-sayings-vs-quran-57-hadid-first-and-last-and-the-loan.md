@@ -21,21 +21,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Giving as a loan to God, repaid by him [divergence between the texts]
-    (weight 6.7); He who is gracious to the poor lends to YHWH, and he will repay him (weight 5.8); Who
-    will lend God a goodly loan (qard hasan), that he may multiply it for him? (weight 5.4). Pair score
-    17.9.'
+    (weight 7.7); He who is gracious to the poor lends to YHWH, and he will repay him (weight 6.8); Who
+    will lend God a goodly loan (qard hasan), that he may multiply it for him? (weight 6.5). Pair score
+    21.1.'
   basis: reading
 - text: 'Only in Sayings on the poor, the king''s wrath and the sluggard: A man''s folly ruins his way
     and his heart rages against YHWH; A son who ruins his father and chases away his mother brings shame;
     He who finds a wife finds a good thing and obtains favor from YHWH; a prudent wife is from YHWH; The
     king''s wrath is like the growling of a young lion; his favor like dew on the grass; Whatever misfortune
-    strikes people is for what their own hands have earned, though God pardons much; A quarrelsome wife
-    is like a continual dripping (of a leaking roof); The sluggard buries his hand in the dish and will
-    not even bring it back to his mouth; Strike a scoffer and the simple will learn prudence; The poor
-    is hated even by his neighbor, but the rich has many friends; A rod is for the back of the fool (the
-    senseless); The slow to anger is better than a mighty man, and he who rules his spirit than he who
-    takes a city; Wisdom or the fear of YHWH adds days and years of life; the years of the wicked are
-    shortened; and 4 more.'
+    strikes people is for what their own hands have earned, though God pardons much; The sluggard buries
+    his hand in the dish and will not even bring it back to his mouth; Strike a scoffer and the simple
+    will learn prudence; The poor is hated even by his neighbor, but the rich has many friends; A rod
+    is for the back of the fool (the senseless); A quarrelsome wife is like a continual dripping (of a
+    leaking roof); The slow to anger is better than a mighty man, and he who rules his spirit than he
+    who takes a city; The heart of man plans his way but YHWH directs his steps; only YHWH''s counsel
+    stands; and 4 more.'
   basis: reading
 - text: 'Only in Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan: God
     has taken your covenant (mithaq); Those who spent and fought before the Victory are higher in rank
@@ -43,11 +43,11 @@ evidence:
     (al-batin); Spend of that over which God has made you stewards/successors (mustakhlafin); God knows
     what enters and leaves the earth and what descends from and ascends to heaven, and he is with you
     wherever you are; God declares ''I am the first and I am the last'' (or ''with the last''); Creation
-    is completed in six days [divergence between the texts]; God kills and makes alive, brings down to
-    Sheol and raises up; God makes the night pass into the day and the day into the night; Opening formula:
-    whatever is in the heavens and the earth glorifies God (sabbaha / yusabbihu lillah); God brings believers
-    out of darknesses into light; false gods lead others from light into darkness; Creation is completed
-    in six days; and 2 more.'
+    is completed in six days [divergence between the texts]; God makes the night pass into the day and
+    the day into the night; Opening formula: whatever is in the heavens and the earth glorifies God (sabbaha
+    / yusabbihu lillah); God brings believers out of darknesses into light; false gods lead others from
+    light into darkness; Creation is completed in six days; After creating the heavens and earth God established
+    himself on the Throne (istawa ''ala l-''arsh); and 2 more.'
   basis: reading
 - text: 'Sayings on the poor, the king''s wrath and the sluggard: tagged by Claude (model), reading the
     Hebrew.'

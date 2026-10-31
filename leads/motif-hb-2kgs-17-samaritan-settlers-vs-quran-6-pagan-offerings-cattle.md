@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Settlers fear YHWH yet serve their own gods (syncretism) (weight
-    6.7); Nations burn their sons and daughters in fire to their gods (weight 5.2). Pair score 11.9.'
+    7.7); Nations burn their sons and daughters in fire to their gods (weight 6.2). Pair score 14.0.'
   basis: reading
 - text: 'Only in The resettled peoples, the lions and the syncretistic cult of Samaria: Catalogue of foreign
     gods brought by settler peoples (Succoth-benoth, Nergal, Ashima, Nibhaz, Tartak, Adrammelech, Anammelech);
@@ -40,7 +40,8 @@ evidence:
     to be eaten only by whom they will; Pagans reserve what is in the wombs of cattle for males, forbidden
     to wives unless stillborn; The camel is unclean because it does not have a split hoof [contrast between
     the texts]; List of clean and unclean animals: split hoof and chewing cud [response between the texts];
-    The fat tail of the sheep is offered [divergence between the texts]; and 11 more.'
+    The due from crops and young animals is given at once, at harvest time [divergence between the texts];
+    and 14 more.'
   basis: reading
 - text: 'The resettled peoples, the lions and the syncretistic cult of Samaria: tagged by Claude (model),
     reading the Hebrew.'

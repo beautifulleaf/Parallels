@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The covenant is made with those alive today, not only with the fathers
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: Worship of God alone joined to
     duty to parents [divergence between the texts]; Whether God should speak to the people directly [contrast
@@ -30,14 +30,16 @@ evidence:
     to mediate; The people''s answer to the covenant (''we hear ...'') [response between the texts]; Sabbath
     grounded in the memory of slavery in Egypt; Honor father and mother, with the promise of long life
     [divergence between the texts]; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na);
-    Prohibition of coveting the neighbor''s wife and property; and 10 more.'
+    Prohibitions of murder, adultery, theft and false witness [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in The primordial covenant ("Am I not your Lord?"): God takes all Adam''s descendants from
-    their loins and makes them testify ''Am I not your Lord?'' (''Yes''); Covenant made with those present
-    and with those not here today; Covenant made with those present and with those not here today [divergence
-    between the texts]; No one may excuse himself on judgment day because his ancestors associated partners;
-    The people are made witnesses against themselves to their choice; Unbelievers defend their practice
-    as what they found their fathers doing.'
+    their loins and makes them testify ''Am I not your Lord?'' (''Yes''); A covenant is framed so that
+    the bound party cannot later say ''I did not know''; Covenant made with those present and with those
+    not here today [divergence between the texts]; No one may excuse himself on judgment day because his
+    ancestors associated partners; The people are made witnesses against themselves to their choice; Covenant
+    made with those present and with those not here today; An oath or covenant that binds descendants
+    not yet born [divergence between the texts]; Unbelievers defend their practice as what they found
+    their fathers doing.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

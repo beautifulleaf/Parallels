@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man called al-Sāmirī leads Israel astray and makes the calf (weight
-    6.7); People make a molten calf while the leader is on the mountain (weight 4.7). Pair score 11.4.'
+    7.7); People make a molten calf while the leader is on the mountain (weight 5.8). Pair score 13.5.'
   basis: reading
 - text: 'Only in The heated oven, the silly dove and the calf of Samaria: The calf of Samaria, made by
     a craftsman, is no god and will be broken to pieces; Court conspirators are like a heated oven; they
@@ -34,16 +34,15 @@ evidence:
   basis: reading
 - text: 'Only in Moses hastens to the appointment; the Samiri and the calf: Aaron explains he feared being
     blamed for dividing the children of Israel; Aaron warns the people against the calf; they refuse to
-    stop until Moses returns; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
-    is condemned to say all his life ''No touching!'' (lā misās), an outcast; The calf-maker took a handful
-    (of dust) from the track of the messenger and cast it in; God asks Moses why he hastened ahead of
-    his people to the appointment; In anger Moses seizes his brother by the beard and head; Aaron pleads
-    ''son of my mother''; Calf burned, ground to dust, and the dust thrown into the stream; Calf burned,
-    ground to dust, and the dust thrown into the stream [divergence between the texts]; The calf-maker
+    stop until Moses returns; The calf-maker is condemned to say all his life ''No touching!'' (lā misās),
+    an outcast; The calf-maker took a handful (of dust) from the track of the messenger and cast it in;
+    God asks Moses why he hastened ahead of his people to the appointment; In anger Moses seizes his brother
+    by the beard and head; Aaron pleads ''son of my mother''; Calf burned, ground to dust, and the dust
+    thrown into the stream; Calf burned, ground to dust, and the dust thrown into the stream [divergence
+    between the texts]; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
     is condemned to say all his life ''No touching!'' (lā misās), an outcast [divergence between the texts];
-    The calf is hailed as the god who brought Israel out of Egypt [divergence between the texts]; God
-    asks Moses why he hastened ahead of his people to the appointment [divergence between the texts];
-    and 8 more.'
+    The calf is hailed as the god who brought Israel out of Egypt [divergence between the texts]; A sorcerer
+    takes the dirt of someone''s footprint for a magical act; and 12 more.'
   basis: reading
 - text: 'The heated oven, the silly dove and the calf of Samaria: tagged by Claude (model), reading the
     Hebrew.'

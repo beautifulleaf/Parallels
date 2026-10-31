@@ -20,9 +20,9 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Quail come up in the evening and cover the camp (weight 6.0); God
-    leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1). Pair score
-    11.1.'
+- text: 'Shared motifs, rarest first: Quail come up in the evening and cover the camp (weight 7.1); God
+    leads the people in a pillar of cloud by day and a pillar of fire by night (weight 6.1). Pair score
+    13.2.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his

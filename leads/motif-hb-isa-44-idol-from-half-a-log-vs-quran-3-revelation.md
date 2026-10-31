@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God shapes you in the wombs as he wills (weight 6.7). Pair score
-    6.7.'
+- text: 'Shared motifs, rarest first: God shapes you in the wombs as he wills (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
     Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the
@@ -37,14 +37,15 @@ evidence:
     up like willows by streams; and 15 more.'
   basis: reading
 - text: 'Only in Torah, Gospel and the clear and ambiguous verses: Scripture has decisive verses (muhkamat),
-    the mother of the book, and ambiguous ones (mutashabihat) whose interpretation God knows; God sent
-    down the Torah (al-Tawrat) and the Gospel (al-Injil) before as guidance; Israel''s God is called ''the
-    living God, enduring forever, whose kingdom shall never be destroyed''; God is king or master of the
-    Day of Judgment (yawm al-din); Prayer that God not turn (incline) the petitioner''s heart aside, but
-    toward his way; God the Ever-Living, the Self-Subsisting (al-hayy al-qayyum); The secret things belong
-    to God; the revealed things to us and our children; God formed the kidneys and wove (knit) the speaker
-    in his mother''s womb; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning,
-    e.g. alif-lam-mim.'
+    the mother of the book, and ambiguous ones (mutashabihat) whose interpretation God knows; The god''s
+    holy word is known to those who know it and unknown to those who do not; who can find out his intentions?;
+    God sent down the Torah (al-Tawrat) and the Gospel (al-Injil) before as guidance; Israel''s God is
+    called ''the living God, enduring forever, whose kingdom shall never be destroyed''; God is king or
+    master of the Day of Judgment (yawm al-din); Prayer that God not turn (incline) the petitioner''s
+    heart aside, but toward his way; God the Ever-Living, the Self-Subsisting (al-hayy al-qayyum); The
+    secret things belong to God; the revealed things to us and our children; God formed the kidneys and
+    wove (knit) the speaker in his mother''s womb; A surah opens with isolated letters (huruf muqatta''at)
+    of unexplained meaning, e.g. alif-lam-mim.'
   basis: reading
 - text: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: tagged by Claude
     (model), reading the Hebrew.'

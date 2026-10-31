@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One chases a thousand and two put ten thousand to flight (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Joshua''s farewell warning against intermarriage and foreign gods: As every good word
     came true, so will every threatened evil; The aged leader gathers the people for a farewell exhortation
@@ -35,8 +35,8 @@ evidence:
     later eased to one against two; Only a prior decree from God averted punishment for taking ransom;
     Blessing: five of you will chase a hundred, a hundred ten thousand; A prophet should not take captives
     until he has thoroughly subdued the land; A ratio of the few who defeat (or are routed by) the many
-    [divergence between the texts]; Conqueror spares the enemy king and best livestock against God''s
-    command; Livestock and spoil taken as booty after the ban.'
+    [divergence between the texts]; Livestock and spoil taken as booty after the ban; Conqueror spares
+    the enemy king and best livestock against God''s command.'
   basis: reading
 - text: 'Joshua''s farewell warning against intermarriage and foreign gods: tagged by Claude (model),
     reading the Hebrew.'

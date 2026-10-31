@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When harm touches people they turn to God; when he gives them relief
-    a party of them associates partners again (weight 5.4). Pair score 5.4.'
+    a party of them associates partners again (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -39,11 +39,12 @@ evidence:
     is consoled: messengers before him were denied and patient until help came; We have neglected nothing
     in the Book; God opened the gates of everything to them, and when they rejoiced he seized them suddenly;
     If you could seek a tunnel into the earth or a ladder into the sky to bring them a sign...; A ladder
-    (sullam / sullām) reaching from earth to heaven; The prophet disclaims having God''s treasuries, knowing
-    the unseen, or being an angel; Animals are in God''s care and are gathered before him; The paired
-    extremes of digging into the earth and climbing to the sky; Had God willed he would have made all
-    humanity a single community; None can change the words of God; The unbelievers demand: ''Why does
-    he not bring us a sign from his Lord?''; and 1 more.'
+    (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral] [divergence between the texts];
+    The prophet disclaims having God''s treasuries, knowing the unseen, or being an angel; Animals are
+    in God''s care and are gathered before him; The paired extremes of digging into the earth and climbing
+    to the sky; Had God willed he would have made all humanity a single community; A ladder (sullam /
+    sullām) reaching from earth to heaven; The sovereign''s word cannot be turned back, cast aside, broken
+    or changed; and 4 more.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

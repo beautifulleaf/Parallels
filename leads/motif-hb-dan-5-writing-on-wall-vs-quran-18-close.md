@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The deniers'' works are void; no weight is assigned them on the
-    Day of Resurrection (weight 6.7). Pair score 6.7.'
+    Day of Resurrection (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Belshazzar''s feast and the writing on the wall: A king holds a great feast for a thousand
     nobles and drinks wine before them; Idols listed as gods of gold, silver, bronze, iron, wood and stone

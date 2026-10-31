@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A boy is killed lest he burden his believing parents with rebellion;
-    God will give them a better child [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    God will give them a better child [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: Captive
     wife who is no longer wanted must be freed, not sold; Captive woman shaves her head, pares her nails,
-    mourns her parents a month before marriage; Elders wash their hands over the heifer: our hands did
-    not shed this blood; Body hanged on a tree must be buried the same day; the hanged is a curse of God;
-    Who receives a double share of inheritance [divergence between the texts]; Firstborn of the unloved
-    wife keeps the double portion; A heifer and a killing whose perpetrator is unknown [divergence between
+    mourns her parents a month before marriage; Body hanged on a tree must be buried the same day; the
+    hanged is a curse of God; Who receives a double share of inheritance [divergence between the texts];
+    Firstborn of the unloved wife keeps the double portion; Elders wash their hands over the heifer: our
+    hands did not shed this blood; A heifer and a killing whose perpetrator is unknown [divergence between
     the texts]; Married women are forbidden except those one''s right hand possesses (captives); A man
     may marry two, three or four wives, or only one if he fears injustice; A son who rejects his parents:
-    the charge and the penalty [divergence between the texts]; Stubborn and rebellious son, glutton and
-    drunkard, stoned by the men of his city; Unsolved murder: elders of nearest city break the neck of
-    an unworked heifer in an untilled wadi; and 1 more.'
+    the charge and the penalty [divergence between the texts]; Unsolved murder: elders of nearest city
+    break the neck of an unworked heifer in an untilled wadi; Stubborn and rebellious son, glutton and
+    drunkard, stoned by the men of his city; and 1 more.'
   basis: reading
 - text: 'Only in Moses and the servant of God at the meeting of the two seas (Surah 18:60-82): A boy is
     killed lest he burden his believing parents with rebellion; God will give them a better child; The
@@ -41,7 +41,7 @@ evidence:
     until they come of age; Realizing the sign, the travelers retrace their footsteps; The travelers rest
     at a rock where the sign occurs; The sage kills a boy they meet; The sage repairs a wall about to
     collapse in the inhospitable town without payment; The sage holes the boat that carries them; A servant
-    of God given mercy and knowledge from God''s presence (ilm ladunni); and 6 more.'
+    of God given mercy and knowledge from God''s presence (ilm ladunni); and 8 more.'
   basis: reading
 - text: 'Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: tagged by Claude
     (model), reading the Hebrew.'

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Jesus heals the born-blind and the leper and raises the dead by
-    God''s leave (weight 6.0). Pair score 6.0.'
+    God''s leave (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The Shunammite woman and her son: Child in the harvest field cries ''My head, my head!''
     and dies at noon on his mother''s knees; Woman protests the promise of a son: ''Do not lie to your
@@ -35,14 +35,14 @@ evidence:
 - text: 'Only in The annunciation and the mission of Jesus: Jesus comes confirming the Torah and making
     lawful some of what was forbidden; God says to Jesus ''I will take you (mutawaffika) and raise you
     to myself and purify you''; Jesus tells people what they eat and store in their houses; Jesus announced
-    as a word (kalima) from God, named the Messiah, Jesus son of Mary; Forming a creature from earth and
+    as a word (kalima) from God, named the Messiah, Jesus son of Mary; Something (a reed) born without
+    father or mother, out of the storm [divergence between the texts]; Forming a creature from earth and
     breathing life into it [divergence between the texts]; They plotted, and God plotted; God is the best
-    of plotters; The likeness of Jesus with God is as Adam, created from dust by ''Be''; Jesus will speak
-    to people in the cradle and in maturity; Challenge to mutual imprecation (mubahala): gather sons,
-    women and selves and invoke God''s curse on the liars; God sent down the Torah (al-Tawrat) and the
-    Gospel (al-Injil) before as guidance; Mary asks how she will have a child when no man has touched
-    her; Jesus asks ''Who are my helpers to God?'' and the disciples (hawariyyun) answer ''We are God''s
-    helpers''; and 8 more.'
+    of plotters; To prove the truth, the parties call down destruction or curse on the liar together with
+    wives and children; The likeness of Jesus with God is as Adam, created from dust by ''Be''; Jesus
+    will speak to people in the cradle and in maturity; Challenge to mutual imprecation (mubahala): gather
+    sons, women and selves and invoke God''s curse on the liars; By whose power a healer revives the dead
+    and heals the sick [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'The Shunammite woman and her son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

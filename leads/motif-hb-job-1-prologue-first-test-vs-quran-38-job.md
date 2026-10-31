@@ -19,27 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Satan (the adversary) appears in the heavenly court as an accusing
-    member (weight 6.0); Hero singled out as righteous or pious (weight 5.3). Pair score 11.3.'
+    member (weight 7.1); Hero singled out as righteous or pious (weight 6.2). Pair score 13.3.'
   basis: reading
 - text: 'Only in Job''s piety, the heavenly council and the first test: The verb ''bless'' (barekh) used
     as a scribal euphemism for cursing God; Grown sons hold feasts in turn, each on his day, and invite
     their sisters; A great wind from the desert strikes the four corners of the house and it falls on
     the feasting children; God has set a protective hedge around the righteous man, his house and goods;
     ''Fire of God'' falls from heaven and consumes flocks and servants; Messenger after messenger arrives
-    while the last is still speaking, each the sole survivor of a disaster; ''I alone escaped to tell
-    you''; ''Does he fear God for nothing?'': piety suspected of being motivated by reward; The exemplary
-    righteous man is a non-Israelite living in the land of Uz in the east; Father offers burnt offerings
-    in case his children ''blessed'' (cursed) God in their hearts; A blessed man has seven sons and three
-    daughters; Mourner shaves his head and falls to the ground; and 19 more.'
+    while the last is still speaking, each the sole survivor of a disaster; ''Does he fear God for nothing?'':
+    piety suspected of being motivated by reward; The exemplary righteous man is a non-Israelite living
+    in the land of Uz in the east; Father offers burnt offerings in case his children ''blessed'' (cursed)
+    God in their hearts; Mourner shaves his head and falls to the ground; A patriarch''s wealth is listed
+    in precise numbers of sheep, camels, oxen and asses; Humans are presented before God in rows, coming
+    as they were first created; and 19 more.'
   basis: reading
 - text: 'Only in Job, the spring and the bundle of twigs: Job calls to his Lord: ''Satan has touched me
     with weariness and torment''; God gives Job back his family and as many again with them; Job is told
     to stamp with his foot: a cool spring to wash in and drink appears; Job is told to take a bundle of
     grass or twigs (dighth) in his hand and strike with it, so as not to break his oath; A man''s vow
     or oath must be fulfilled as uttered; Job calls on God, and whether God answers [contrast between
-    the texts]; What God restores to Job at the end [divergence between the texts]; Who struck or ''touched''
-    Job [divergence between the texts]; God restores the righteous sufferer''s fortunes and gives him
-    twice what he had.'
+    the texts]; An innocent sufferer''s affliction is the touch of a demon [divergence between the texts];
+    What God restores to Job at the end [divergence between the texts]; Who struck or ''touched'' Job
+    [divergence between the texts]; God restores the righteous sufferer''s fortunes and gives him twice
+    what he had.'
   basis: reading
 - text: 'Job''s piety, the heavenly council and the first test: tagged by Claude (model), reading the
     Hebrew.'

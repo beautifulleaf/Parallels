@@ -15,28 +15,28 @@ traditions:
 layers:
 - motif
 motifs:
-- prophet-asks-to-see-gods-glory
 - what-moses-is-shown-after-refusal-as-divergence
 - you-shall-not-see-me
+- prophet-asks-to-see-gods-glory
 - moses-asks-to-see-god-as-divergence
 - god-speaks-face-to-face-as-to-a-friend
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The prophet asks to see God''s glory (weight 6.7); What happens
-    after God refuses to be seen by Moses [divergence between the texts] (weight 6.7); God answers the
-    prophet''s request to see him: ''You will not see me'' (weight 6.7); Moses asks to see God, his glory
-    or God himself [divergence between the texts] (weight 6.7); God speaks to the prophet face to face,
-    as a man speaks to his friend (weight 6.0). Pair score 32.8.'
+- text: 'Shared motifs, rarest first: What happens after God refuses to be seen by Moses [divergence between
+    the texts] (weight 7.7); God answers the prophet''s request to see him: ''You will not see me'' (weight
+    7.7); The prophet asks to see God''s glory (weight 7.7); Moses asks to see God, his glory or God himself
+    [divergence between the texts] (weight 7.7); God speaks to the prophet face to face, as a man speaks
+    to his friend (weight 7.1). Pair score 38.0.'
   basis: reading
 - text: 'Only in Mourning, the tent outside the camp, and Moses sees God''s back: God refuses to go among
     the people lest he consume them on the way; Joshua, the young attendant, never leaves the tent; God
-    tells the prophet: I know you by name and you have found favor; The people strip off their ornaments
-    in mourning or penitence; The people stand at their tent doors and bow as the prophet goes to meet
-    God; A tent of meeting pitched outside the camp where all who seek God go; God''s own Presence (face)
-    will go with the people; God declares he will be gracious to whom he will be gracious; God called
-    Moses and drew him near in confidential converse (najiyy); Moses travels with his young servant (fata);
+    tells the prophet: I know you by name and you have found favor; The people stand at their tent doors
+    and bow as the prophet goes to meet God; A tent of meeting pitched outside the camp where all who
+    seek God go; God''s own Presence (face) will go with the people; God declares he will be gracious
+    to whom he will be gracious; God called Moses and drew him near in confidential converse (najiyy);
+    Moses travels with his young servant (fata); The people strip off their ornaments in mourning or penitence;
     After the calf the people mourn or repent of what they did [divergence between the texts]; God hides
     the prophet in a cleft of the rock, covers him with his hand, and lets him see only his back; and
     6 more.'
@@ -49,8 +49,9 @@ evidence:
     Moses leaves a deputy (Aaron, with or without Hur) with the people while he is on the mountain [divergence
     between the texts]; Moses'' set period on the mountain is forty (days and nights, or nights) [divergence
     between the texts]; A mountain is shattered when God passes by or manifests himself [divergence between
-    the texts]; Seeing God or breaking through to him brings death; A prophet spends forty days and forty
-    nights in a set period; God seals (tab'') the hearts of deniers so they do not hear; and 2 more.'
+    the texts]; Seeing God or breaking through to him brings death; A departing ruler appoints a deputy
+    (''in my place'', vizier) over those he leaves [divergence between the texts]; When God shines forth
+    or appears, the mountains are crushed (d-k-k); and 5 more.'
   basis: reading
 - text: 'Mourning, the tent outside the camp, and Moses sees God''s back: tagged by Claude (model), reading
     the Hebrew.'

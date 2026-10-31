@@ -527,7 +527,7 @@ def quran_ref_label(ref):
 
 
 def build_leads(quran, heb, q_conc, q_bridges, bench):
-    covered = {b["lemma"] for b in bench if b.get("lead")}
+    covered = {b["lemma"] for b in bench if b.get("lead") and b.get("lemma")}
     leads = []
     for c in q_conc:
         if c["lemma"] in covered or not (c["synonym_skew"] or c["cross_corpus"]) or c["q"] > 0.01:
@@ -563,7 +563,7 @@ def hebrew_slug(lem):
 
 
 def build_hebrew_leads(heb, h_conc, h_bridges, bench):
-    covered = {b["lemma"] for b in bench if b.get("lead")}
+    covered = {b["lemma"] for b in bench if b.get("lead") and b.get("lemma")}
     picks = [("bridge", b) for b in h_bridges[:10] if b["p"] <= 0.01]
     picks += [("conc", c) for c in h_conc[:12] if c["synonym_skew"] and c["q"] <= 0.01]
     leads, seen = [], set()

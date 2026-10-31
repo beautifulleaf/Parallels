@@ -12,44 +12,49 @@ traditions:
 layers:
 - motif
 motifs:
-- first-murder-fratricide-as-divergence
-- warning-before-the-first-murder-as-divergence
-- murderers-lament-as-divergence
-- earth-and-the-slain-brother-as-divergence
 - offering-accepted-rejected
+- murderers-lament-as-divergence
+- first-murder-fratricide-as-divergence
 - offering-accepted-rejected-as-divergence
+- warning-before-the-first-murder-as-divergence
+- earth-and-the-slain-brother-as-divergence
 - first-murder-fratricide
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A brother kills his brother in the first murder [divergence between
-    the texts] (weight 6.7); Before the first murder the killer is warned (by God or by the victim) [divergence
-    between the texts] (weight 6.7); The first murderer''s lament after the deed [divergence between the
-    texts] (weight 6.7); What the earth does with the murdered brother: takes in his blood, or hides his
-    corpse [divergence between the texts] (weight 6.7); God accepts one brother''s offering and rejects
-    the other''s (weight 6.7); God accepts one brother''s offering and rejects the other''s [divergence
-    between the texts] (weight 6.7); A brother kills his brother in the first murder (weight 6.3). Pair
-    score 46.4.'
+- text: 'Shared motifs, rarest first: God accepts one brother''s offering and rejects the other''s (weight
+    7.7); The first murderer''s lament after the deed [divergence between the texts] (weight 7.7); A brother
+    kills his brother in the first murder [divergence between the texts] (weight 7.7); God accepts one
+    brother''s offering and rejects the other''s [divergence between the texts] (weight 7.7); Before the
+    first murder the killer is warned (by God or by the victim) [divergence between the texts] (weight
+    7.7); What the earth does with the murdered brother: takes in his blood, or hides his corpse [divergence
+    between the texts] (weight 7.7); A brother kills his brother in the first murder (weight 7.3). Pair
+    score 53.8.'
   basis: reading
 - text: 'Only in Cain and Abel: Murderer evades God''s question about his brother''s whereabouts; The
-    earth opens its mouth to receive spilled blood; Rivalry between a farmer brother and a shepherd brother;
-    Firstborn animals and their fat offered to God; Exile dwells in the land of Nod east of Eden; God
-    puts a protective sign on a murderer so no one kills him; Murderer condemned to be a restless wanderer,
-    the ground withholding its yield; Sin personified as a beast crouching at the door, desiring the man;
-    Parents'' words to God about the child he gave them [divergence between the texts]; Victim''s blood
-    cries out from the ground to God; On that day the earth will tell its news, because its Lord inspired
-    it; Vengeance multiplied sevenfold (or seventy-sevenfold); and 2 more.'
+    earth opens its mouth to receive spilled blood; Firstborn animals and their fat offered to God; Exile
+    dwells in the land of Nod east of Eden; God puts a protective sign on a murderer so no one kills him;
+    Murderer condemned to be a restless wanderer, the ground withholding its yield; Sin personified as
+    a beast crouching at the door, desiring the man; Parents'' words to God about the child he gave them
+    [divergence between the texts]; Victim''s blood cries out from the ground to God; On that day the
+    earth will tell its news, because its Lord inspired it; Vengeance multiplied sevenfold (or seventy-sevenfold);
+    God proportioned the soul and inspired it with (knowledge of) its wickedness and its piety; who purifies
+    it prospers; and 2 more.'
   basis: reading
 - text: 'Only in The two sons of Adam, the raven, and whoever saves one life: Whoever kills one soul is
     as if he killed all humanity; whoever saves one, as if he saved all; The victim wishes the murderer
     to bear both the victim''s sin and his own; God sends a raven scratching the earth to show how to
     hide a brother''s corpse; The threatened brother refuses to raise his hand to kill in return, out
-    of fear of God; Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s
-    image [divergence between the texts]; No one repents of his evil, saying ''What have I done?''; each
-    rushes on like a horse charging into battle; No one repents of his evil, saying ''What have I done?'';
-    each rushes on like a horse charging into battle [contrast between the texts]; Whoever sheds human
-    blood, by man shall his blood be shed, because humans bear God''s image.'
+    of fear of God; A bird stands at the burial of a murdered man''s remains (eagles that ate him are
+    opened; a raven shows how to bury him) [divergence between the texts]; Whoever sheds human blood,
+    by man shall his blood be shed, because humans bear God''s image [divergence between the texts]; A
+    prohibition of killing that carves out an exception for the rebel or the corrupter in the land [neutral]
+    [divergence between the texts]; The killer weeps or laments after the murder; No one repents of his
+    evil, saying ''What have I done?''; each rushes on like a horse charging into battle; No one repents
+    of his evil, saying ''What have I done?''; each rushes on like a horse charging into battle [contrast
+    between the texts]; A god sends or instructs a raven, which works the ground as a man would [divergence
+    between the texts]; Stretching out the hand to kill a kinsman or brother; and 3 more.'
   basis: reading
 - text: 'Cain and Abel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

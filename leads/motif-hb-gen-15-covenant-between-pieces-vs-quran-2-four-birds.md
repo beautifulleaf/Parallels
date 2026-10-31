@@ -20,9 +20,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham takes and cuts animals at God''s command [divergence between
-    the texts] (weight 6.7); Covenant ritual: animals cut in halves and a divine presence passes between
-    them (weight 6.3); The called one asks for a sign that it is God who speaks [divergence between the
-    texts] (weight 5.8). Pair score 18.7.'
+    the texts] (weight 7.7); Covenant ritual: animals cut in halves and a divine presence passes between
+    them (weight 7.1); The called one asks for a sign that it is God who speaks [divergence between the
+    texts] (weight 6.8). Pair score 21.6.'
   basis: reading
 - text: 'Only in The covenant between the pieces: Birds of prey descend on the sacrifice and the hero
     drives them away; Childless patriarch''s household servant is to be his heir; A great dark dread falls
@@ -35,8 +35,9 @@ evidence:
     God casts a deep sleep (tardemah) on a man; and 4 more.'
   basis: reading
 - text: 'Only in Abraham and the four birds: Abraham, asking to see how God revives the dead, takes four
-    birds, places parts on each hill, calls them and they come flying; The called one asks for a sign
-    that it is God who speaks.'
+    birds, places parts on each hill, calls them and they come flying; Creatures cut in pieces, the parts
+    set apart, are made whole and alive by a spoken word [neutral] [divergence between the texts]; The
+    called one asks for a sign that it is God who speaks.'
   basis: reading
 - text: 'The covenant between the pieces: tagged by Claude (model), reading the Hebrew.'
   basis: reading

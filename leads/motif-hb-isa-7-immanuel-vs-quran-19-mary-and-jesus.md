@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son to a virgin untouched by any
-    man [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    man [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ahaz, the Syro-Ephraimite threat and the Immanuel sign: The child will eat curds and
     honey until he knows to refuse evil and choose good; ''If you do not believe (ta''aminu) you will
@@ -40,10 +40,11 @@ evidence:
     (yawm al-hasra) when the matter is decided; The infant Jesus declares himself God''s servant, given
     the Book and made a prophet; ''That is Jesus son of Mary, the word of truth about which they dispute'';
     Labor pains drive the mother to the trunk of a palm tree; Mary is addressed as ''sister of Aaron'';
-    Mary withdraws from her family to an eastern place behind a screen; The mother returns with the child
-    and her people accuse her of an enormity; A voice from beneath her consoles the mother: ''do not grieve'';
-    The woman seeks refuge in God from the mysterious visitor; Mother gives birth alone in a remote place;
-    God''s spirit appears to a woman in the form of a well-proportioned man; and 20 more.'
+    Mary withdraws from her family to an eastern place behind a screen; A voice from beneath her consoles
+    the mother: ''do not grieve''; The woman seeks refuge in God from the mysterious visitor; Mother gives
+    birth alone in a remote place; What caused the pregnancy of one who was not expected to bear [divergence
+    between the texts]; A woman in labour cries out in her pains: who answers her, and how it ends [divergence
+    between the texts]; and 26 more.'
   basis: reading
 - text: 'Ahaz, the Syro-Ephraimite threat and the Immanuel sign: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,20 +19,20 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The evil plot encompasses only its own authors (weight 6.3). Pair
-    score 6.3.'
+- text: 'Shared motifs, rarest first: The evil plot encompasses only its own authors (weight 7.3). Pair
+    score 7.3.'
   basis: reading
 - text: 'Only in Sayings on the sluggard, the meddler, the whisperer and the hypocrite: Burning lips with
-    an evil heart are like silver dross glazed over an earthen pot; He who meddles in a quarrel not his
-    own is like one who seizes a passing dog by the ears; Without wood the fire goes out; without a whisperer
-    quarreling ceases; He who rolls a stone, it will come back upon him; When the hater speaks graciously,
-    do not believe him, for seven abominations are in his heart; As a door turns on its hinge, so does
-    the sluggard on his bed; The sluggard is wiser in his own eyes than seven who answer with discretion;
-    Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says ''I
-    was only joking''; The sluggard buries his hand in the dish and will not even bring it back to his
-    mouth; The sluggard says ''There is a lion outside; I shall be killed in the streets''; The words
-    of a whisperer are like delicious morsels that go down into the inner chambers of the belly; He who
-    digs a pit or hides a net is caught in it himself.'
+    an evil heart are like silver dross glazed over an earthen pot; Without wood the fire goes out; without
+    a whisperer quarreling ceases; He who rolls a stone, it will come back upon him; When the hater speaks
+    graciously, do not believe him, for seven abominations are in his heart; As a door turns on its hinge,
+    so does the sluggard on his bed; The sluggard is wiser in his own eyes than seven who answer with
+    discretion; Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor
+    and says ''I was only joking''; He who meddles in a quarrel not his own is like one who seizes a passing
+    dog by the ears; The sluggard buries his hand in the dish and will not even bring it back to his mouth;
+    The sluggard says ''There is a lion outside; I shall be killed in the streets''; The words of a whisperer
+    are like delicious morsels that go down into the inner chambers of the belly; He who digs a pit or
+    hides a net is caught in it himself.'
   basis: reading
 - text: 'Only in The heirs of the Book, the Gardens of Eden and the cries of the damned: God made humans
     successors (khala''if) on the earth; Heirs of the Book are of three kinds: one who wrongs himself,
@@ -40,10 +40,12 @@ evidence:
     to be returned to do good; God holds the heavens and the earth lest they cease; if they ceased, no
     one else could hold them; If God took people to task for what they earned he would not leave a creature
     on the earth''s back, but he defers them to a set term; Paradise is the abode of permanence where
-    no toil or weariness touches the blessed and grief is removed; In paradise the righteous are adorned
-    with gold bracelets and pearls and wear silk; In hell the damned neither die nor live; The way (sunna)
-    of God with those who passed before: you will find no change in God''s way; Challenge to idolaters:
-    show me what those besides God have created; Travel in the land and see the end of those who denied.'
+    no toil or weariness touches the blessed and grief is removed; The evil plot or sorcery turns back
+    upon its own author; The evil plot or sorcery turns back upon its own author [divergence between the
+    texts]; In paradise the righteous are adorned with gold bracelets and pearls and wear silk; The god
+    (alone) holds the heavens (and earth) in place: the bond or rope of heaven, holding back the sky;
+    In hell the damned neither die nor live; The way (sunna) of God with those who passed before: you
+    will find no change in God''s way; and 3 more.'
   basis: reading
 - text: 'Sayings on the sluggard, the meddler, the whisperer and the hypocrite: tagged by Claude (model),
     reading the Hebrew.'

@@ -13,26 +13,26 @@ traditions:
 layers:
 - motif
 motifs:
-- night-departure-from-egypt-as-divergence
 - eaten-in-haste-dressed-for-journey
+- night-departure-from-egypt-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How Israel leaves Egypt by night: expelled, or secretly [divergence
-    between the texts] (weight 6.7); Sacrificial meal eaten in haste, loins girded, sandals on, staff
-    in hand (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Sacrificial meal eaten in haste, loins girded, sandals on, staff
+    in hand (weight 7.7); How Israel leaves Egypt by night: expelled, or secretly [divergence between
+    the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
-- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: Sacrificial blood
-    daubed on the doorposts and lintel protects the household; No one may leave the house until morning
-    on the night of the destroyer; The people carry their unleavened dough in kneading-troughs on their
-    shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival days are holy convocations
-    on which no work is done except preparing food; Small households join neighbors to share one sacrificial
-    lamb; Defeated king asks the departing prophet to bless him too; Leaven must be removed from houses;
-    whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites leaves Egypt with Israel;
-    The spring exodus month becomes the first month of the year; No bone of the paschal sacrifice may
-    be broken; No uncircumcised foreigner may eat the Passover; circumcised slaves and converts may; and
-    17 more.'
+- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: No one may leave
+    the house until morning on the night of the destroyer; The people carry their unleavened dough in
+    kneading-troughs on their shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival
+    days are holy convocations on which no work is done except preparing food; Small households join neighbors
+    to share one sacrificial lamb; Defeated king asks the departing prophet to bless him too; Leaven must
+    be removed from houses; whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites
+    leaves Egypt with Israel; The spring exodus month becomes the first month of the year; No bone of
+    the paschal sacrifice may be broken; No uncircumcised foreigner may eat the Passover; circumcised
+    slaves and converts may; An unblemished yearling lamb selected on the tenth and slaughtered at twilight
+    on the fourteenth; and 17 more.'
   basis: reading
 - text: 'Only in Moses asks Pharaoh to hand over God''s servants; the sea left parted; heaven did not
     weep: The drowned Egyptians left gardens, springs, crops and noble dwellings, which God gave another
@@ -40,11 +40,11 @@ evidence:
     the sea parted and still (rahwan), for Pharaoh''s host will be drowned; What Moses demands of Pharaoh
     in God''s name [divergence between the texts]; Who, if anyone, inherits Egypt''s land after the exodus
     [divergence between the texts]; Why God chose Israel: love, or knowledge and testing [divergence between
-    the texts]; God chose the Children of Israel, knowingly, above the worlds and tested them with signs;
-    What Moses does with the sea after the crossing [divergence between the texts]; The prophet seeks
-    refuge in God from being stoned by his people; Whether heaven and earth mourn a destroyed people [contrast
-    between the texts]; Prophet delivers God''s demand ''Let my people go that they may serve me''; The
-    people walk on dry ground through the sea with the waters as a wall on either side; and 1 more.'
+    the texts]; Whether heaven and earth mourn a destroyed people; God chose the Children of Israel, knowingly,
+    above the worlds and tested them with signs; What Moses does with the sea after the crossing [divergence
+    between the texts]; A city, or heaven and earth, weeps (or does not weep) over a people in disaster
+    [divergence between the texts]; The prophet seeks refuge in God from being stoned by his people; Whether
+    heaven and earth mourn a destroyed people [contrast between the texts]; and 4 more.'
   basis: reading
 - text: 'Passover law, matzot, the night of the firstborn, departure from Egypt: tagged by Claude (model),
     reading the Hebrew.'

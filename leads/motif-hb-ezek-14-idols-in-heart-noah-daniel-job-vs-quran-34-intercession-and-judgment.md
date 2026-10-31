@@ -18,22 +18,22 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Intercession avails only for whom God permits (weight 4.8). Pair
-    score 4.8.'
+- text: 'Shared motifs, rarest first: Intercession avails only for whom God permits (weight 5.9). Pair
+    score 5.9.'
   basis: reading
-- text: 'Only in Idols in the heart; Noah, Daniel and Job could not save the land: God''s ''four evil
-    judgments'': sword, famine, evil beasts and pestilence; God himself will answer the idolater who inquires
-    of a prophet, making him a sign and a byword and cutting him off; If a prophet is enticed to speak,
-    ''I YHWH have enticed that prophet'' and will destroy him; Inquirers have ''set up their idols in
-    their hearts'' and put the stumbling-block of iniquity before their faces; Even if Noah, Daniel (Dan''el)
-    and Job were in the land, their righteousness would save only themselves, not sons or daughters; Survivors
-    from the doomed city will come to the exiles, who will be consoled on seeing their deeds that the
-    punishment was not without cause; God leads deniers step by step to ruin and grants them respite (istidraj);
-    Neither your blood-ties nor your children will benefit you on the Day of Resurrection; On the Day
-    no parent can avail his child, nor child his parent; When a land is destroyed only the righteous few
-    are rescued, by their own righteousness; Whether the righteous among a guilty people shield it from
-    punishment [contrast between the texts]; Who is saved with the hero from the destruction, and why
-    [contrast between the texts]; and 5 more.'
+- text: 'Only in Idols in the heart; Noah, Daniel and Job could not save the land: God himself will answer
+    the idolater who inquires of a prophet, making him a sign and a byword and cutting him off; If a prophet
+    is enticed to speak, ''I YHWH have enticed that prophet'' and will destroy him; Inquirers have ''set
+    up their idols in their hearts'' and put the stumbling-block of iniquity before their faces; Even
+    if Noah, Daniel (Dan''el) and Job were in the land, their righteousness would save only themselves,
+    not sons or daughters; Survivors from the doomed city will come to the exiles, who will be consoled
+    on seeing their deeds that the punishment was not without cause; God leads deniers step by step to
+    ruin and grants them respite (istidraj); Neither your blood-ties nor your children will benefit you
+    on the Day of Resurrection; On the Day no parent can avail his child, nor child his parent; When a
+    land is destroyed only the righteous few are rescued, by their own righteousness; Whether the righteous
+    among a guilty people shield it from punishment [contrast between the texts]; Who is saved with the
+    hero from the destruction, and why [contrast between the texts]; Elders of the people come and sit
+    before the prophet in his house to inquire; and 5 more.'
   basis: reading
 - text: 'Only in Partners own nothing; intercession; the weak and the arrogant at judgment: When terror
     is lifted from their hearts they ask ''what did your Lord say?'' and answer ''The truth''; Iron collars

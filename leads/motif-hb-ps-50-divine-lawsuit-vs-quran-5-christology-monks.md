@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not need sacrifices: ''If I were hungry I would not tell
-    you... Do I eat the flesh of bulls or drink the blood of goats?'' (weight 5.8). Pair score 5.8.'
+    you... Do I eat the flesh of bulls or drink the blood of goats?'' (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: Superscription
     ascribes the psalm to Asaph; Every beast of the forest is mine, the cattle on a thousand hills, and

@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is near in their mouths but far from their kidneys (hearts)
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Why does the way of the wicked prosper? Running with horses: Even the prophet''s brothers
     and father''s house deal treacherously with him; do not trust their fair words; The prophet acknowledges
     God is righteous yet would argue his case with him about justice; ''If you have run with footmen and
     they wearied you, how will you compete with horses?'' and the thickets of the Jordan; The earth mourns
-    and the heavens above grow dark because of God''s decree; Speaker is troubled by the prosperity and
-    ease of the wicked (theodicy); God tests the hearts and the kidneys (inner self); The persecuted prophet
-    asks God to let him see vengeance on his enemies; Jeremiah''s ''confessions'': the prophet''s personal
-    laments and complaints to God about his mission and persecutors.'
+    and the heavens above grow dark because of God''s decree; The persecuted prophet asks God to let him
+    see vengeance on his enemies; Jeremiah''s ''confessions'': the prophet''s personal laments and complaints
+    to God about his mission and persecutors; Speaker is troubled by the prosperity and ease of the wicked
+    (theodicy); God tests the hearts and the kidneys (inner self).'
   basis: reading
 - text: 'Only in Articles of faith; hypocrites wavering between two sides: Belief in God, his angels,
     his books, his messengers and the last day; Those who believe in some messengers and reject others,

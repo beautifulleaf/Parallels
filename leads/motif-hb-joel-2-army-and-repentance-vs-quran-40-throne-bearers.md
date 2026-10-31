@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Formula: ''gracious and merciful, slow to anger, abounding in steadfast
-    love, relenting of evil'' (weight 6.3). Pair score 6.3.'
+    love, relenting of evil'' (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in The locust army of the Day of YHWH; ''rend your hearts''; restoration: Even bridegroom
     and bride must leave the wedding chamber for the public fast; God sends the early and latter rain
-    (moreh and malqosh) and restores abundance; The invaders climb walls and enter houses through windows
-    like a thief; The land is like the Garden of Eden before the invader and a desolate wilderness after;
-    The locusts look like horses and run like cavalry, leaping on mountaintops with a noise like chariots;
-    The northern one (ha-tsefoni) is driven into the desert and seas, and its stench rises; Priests weep
-    between the porch and the altar; ''Rend your hearts and not your garments''; Blow the shofar in Zion,
-    sound the alarm on God''s holy mountain; ''Who knows? He may turn and relent'' (mi yodea); God will
-    repay the years the locust has eaten; Proclaim a fast, call a solemn assembly, gather elders and all
-    the people to the house of God and cry out; and 9 more.'
+    (moreh and malqosh) and restores abundance; The land is like the Garden of Eden before the invader
+    and a desolate wilderness after; The locusts look like horses and run like cavalry, leaping on mountaintops
+    with a noise like chariots; The northern one (ha-tsefoni) is driven into the desert and seas, and
+    its stench rises; Priests weep between the porch and the altar; ''Rend your hearts and not your garments'';
+    Blow the shofar in Zion, sound the alarm on God''s holy mountain; ''Who knows? He may turn and relent''
+    (mi yodea); God will repay the years the locust has eaten; Proclaim a fast, call a solemn assembly,
+    gather elders and all the people to the house of God and cry out; God loves those who fight in his
+    way in ranks as though they were a solid structure (bunyan marsus); and 9 more.'
   basis: reading
 - text: 'Only in Ha-Mim: the Forgiver; the throne-bearers pray for the believers: The damned say ''Lord,
     you caused us to die twice and gave us life twice; we confess our sins; is there a way out?''; The
@@ -39,11 +39,12 @@ evidence:
     casts the Spirit (al-ruh) of his command upon whom he wills of his servants to warn of the Day of
     Meeting; The beings that carry God''s throne, and what they do [divergence between the texts]; God
     knows the treachery of the eyes and what the breasts conceal; In terror eyes swerve and hearts reach
-    the throats; The angels who bear the Throne and those around it glorify God and ask forgiveness for
-    the believers, praying they and their righteous kin enter Eden; Humans were dead, given life, will
-    die and be given life again (two deaths, two lives); On the Day God asks ''Whose is the kingdom today?''
-    and answers ''God''s, the One, the Overpowering''; Four living creatures (hayyot) of human form bear
-    the divine throne; Travel in the land and see the end of those who denied; and 1 more.'
+    the throats; The heavenly host speak for a human before the high god and ask his forgiveness; The
+    angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
+    praying they and their righteous kin enter Eden; Humans were dead, given life, will die and be given
+    life again (two deaths, two lives); On the Day God asks ''Whose is the kingdom today?'' and answers
+    ''God''s, the One, the Overpowering''; Four living creatures (hayyot) of human form bear the divine
+    throne; and 2 more.'
   basis: reading
 - text: 'The locust army of the Day of YHWH; ''rend your hearts''; restoration: tagged by Claude (model),
     reading the Hebrew.'

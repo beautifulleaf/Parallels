@@ -82,7 +82,7 @@ passages:
   text: فَقُلْنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ
     فَتَشْقَىٰٓ
 evidence:
-- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
     longer meet the thresholds after a method change. Kept for review.'
   basis: original
 - text: 'Shared motifs, rarest first: Adam receives words from his Lord and God turns to him in forgiveness

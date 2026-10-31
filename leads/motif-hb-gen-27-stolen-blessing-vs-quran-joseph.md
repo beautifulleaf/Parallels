@@ -17,26 +17,26 @@ motifs:
 - father-eyesight-fails
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Father recognizes his son''s scent (weight 6.0); The father''s eyesight
-    fails (weight 5.8). Pair score 11.8.'
+- text: 'Shared motifs, rarest first: Father recognizes his son''s scent (weight 7.1); The father''s eyesight
+    fails (weight 6.8). Pair score 13.9.'
   basis: reading
 - text: 'Only in Jacob steals Esau''s blessing: Father requests a favorite dish of game before blessing;
-    Blessing of the dew of heaven, fatness of the earth, grain and wine; Aged, blind father prepares to
-    give his deathbed blessing to the firstborn; Wronged brother plans to kill his brother once their
-    father has died; The cheated brother cries a great and bitter cry and weeps for a blessing; Smooth
-    son disguises himself with goatskins and his brother''s garments to deceive a blind father; Hero flees
-    to his mother''s brother in a foreign land; A spoken blessing, once given, cannot be retracted; Elder
-    son told he will live by the sword, serve his brother, then break his yoke; Mother devises a ruse
-    so her favorite younger son gets the blessing; Blind father notes the voice is one son''s but the
-    hands are the other''s; Oracle or blessing that the elder will serve the younger; and 1 more.'
+    Aged, blind father prepares to give his deathbed blessing to the firstborn; Wronged brother plans
+    to kill his brother once their father has died; The cheated brother cries a great and bitter cry and
+    weeps for a blessing; Smooth son disguises himself with goatskins and his brother''s garments to deceive
+    a blind father; Hero flees to his mother''s brother in a foreign land; Elder son told he will live
+    by the sword, serve his brother, then break his yoke; Mother devises a ruse so her favorite younger
+    son gets the blessing; Blind father notes the voice is one son''s but the hands are the other''s;
+    Oracle or blessing that the elder will serve the younger; Blessing of the dew of heaven, fatness of
+    the earth, grain and wine; Second twin born grasping his brother''s heel; and 1 more.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 55 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 55 more.'
   basis: reading
 - text: 'Jacob steals Esau''s blessing: tagged by Claude (model), reading the Hebrew.'
   basis: reading

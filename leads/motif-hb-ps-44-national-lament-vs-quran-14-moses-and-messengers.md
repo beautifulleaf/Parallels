@@ -19,31 +19,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses is told to remind his people of ''the days of God'' (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 44 - national lament; why do you sleep, O Lord: Our fathers told us what you did
     in their days: you dispossessed nations and planted them; God made his people a byword (mashal) among
     nations, a shaking of the head among peoples; God crushed them in the place of jackals (tannim) and
     covered them with deep darkness; For your sake we are killed all day long, counted as sheep for slaughter;
     All this came upon us though we have not forgotten you nor been false to your covenant; God sold his
-    people for no price and scattered them among the nations; ''Awake! Why do you sleep, O Lord?''; Explaining
-    a military defeat of God''s people [contrast between the texts]; The petitioner addresses God as ''my
-    King and my God''; God knows the treachery of the eyes and what the breasts conceal; They did not
-    win the land by their sword but by God''s right hand, arm and the light of his face; The petitioner
-    spreads out his palms toward God; and 8 more.'
+    people for no price and scattered them among the nations; Explaining a military defeat of God''s people
+    [contrast between the texts]; The petitioner addresses God as ''my King and my God''; God knows the
+    treachery of the eyes and what the breasts conceal; They did not win the land by their sword but by
+    God''s right hand, arm and the light of his face; The petitioner spreads out his palms toward God;
+    Those killed for God''s sake [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Only in Messengers in their people''s tongue; Moses and the days of God; the threatened messengers
     (Surah 14:1-17): In hell death comes from every side, yet the damned does not die; If you and all
     on earth disbelieve, God is free of need and praiseworthy; God proclaims: if you are grateful I will
     give you more; if ungrateful, my punishment is severe; The rejecting peoples thrust their hands into
     their mouths at the messengers; Every messenger is sent speaking the language of his own people to
-    make things clear; The people reject their messengers: ''you are only humans like us''; Every messenger
-    is sent speaking the language of his own people to make things clear [divergence between the texts];
+    make things clear; The people reject their messengers: ''you are only humans like us''; Blood and
+    pus as the water of the punished: bathed in, or drunk [divergence between the texts]; Formula on trust:
+    let whoever trusts, trust; we trust in our god / on God let the trusters trust; Every messenger is
+    sent speaking the language of his own people to make things clear [divergence between the texts];
     The elite threaten the prophet and believers: expulsion unless they return to the old religion; In
     hell they taste no coolness nor drink except boiling water (hamim) and dark, foul fluid (ghassaq),
     or drink from a boiling spring; God brings believers out of darknesses into light; false gods lead
-    others from light into darkness; The meek / those who wait for YHWH / the righteous and their seed
-    shall inherit the land (yirshu arets); Ruler orders the killing of male infants; and 2 more.'
+    others from light into darkness; and 4 more.'
   basis: reading
 - text: 'Psalm 44 - national lament; why do you sleep, O Lord: tagged by Claude (model), reading the Hebrew.'
   basis: reading

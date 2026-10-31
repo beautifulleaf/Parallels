@@ -12,8 +12,8 @@ layers:
 - motif
 motifs:
 - lot-condemns-lust-for-males
-- lot-threatened-with-expulsion
 - town-rained-with-evil-rain
+- lot-threatened-with-expulsion
 - fate-of-lots-wife
 - wife-turned-to-pillar-of-salt
 - fire-and-brimstone-from-heaven
@@ -21,10 +21,10 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Lot condemns his people for approaching males and leaving the wives
-    God created for them (weight 6.7); Lot''s people threaten to expel him (weight 6.3); The town that
-    was rained on with an evil rain (Lot''s) is passed by travelers (weight 6.3); The fate of Lot''s wife
-    (weight 5.8); Wife who looks back is turned into a pillar of salt (weight 5.6); God rains sulfur and
-    fire from heaven on cities (weight 4.8); Hero''s family saved with him (weight 4.5). Pair score 39.9.'
+    God created for them (weight 7.7); The town that was rained on with an evil rain (Lot''s) is passed
+    by travelers (weight 7.3); Lot''s people threaten to expel him (weight 7.3); The fate of Lot''s wife
+    (weight 6.8); Wife who looks back is turned into a pillar of salt (weight 6.6); God rains sulfur and
+    fire from heaven on cities (weight 5.9); Hero''s family saved with him (weight 5.4). Pair score 47.2.'
   basis: reading
 - text: 'Only in Lot and his people: Lot''s family is saved except an old woman among those who stayed
     behind; What the sin of Lot''s townsmen was [divergence between the texts]; Who is saved with the
@@ -74,6 +74,19 @@ matches:
       lang: ar
       text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ
 - kind: shared
+  label: The town that was rained on with an evil rain (Lot's) is passed by travelers
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:173
+      lang: ar
+      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:58
+      lang: ar
+      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+- kind: shared
   label: Lot's people threaten to expel him
   sides:
   - tradition: islam
@@ -87,19 +100,6 @@ matches:
       lang: ar
       text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ
         إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
-- kind: shared
-  label: The town that was rained on with an evil rain (Lot's) is passed by travelers
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 26:173
-      lang: ar
-      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
-  - tradition: islam
-    passages:
-    - ref: Quran 27:58
-      lang: ar
-      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
 - kind: shared
   label: The fate of Lot's wife
   sides:

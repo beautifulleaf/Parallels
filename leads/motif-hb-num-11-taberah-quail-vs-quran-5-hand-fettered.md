@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader doubts God can supply; God replies ''Is my hand too short?''
-    [divergence between the texts] (weight 6.7); Leader doubts God can supply; God replies ''Is my hand
-    too short?'' (weight 5.8). Pair score 12.5.'
+    [divergence between the texts] (weight 7.7); Leader doubts God can supply; God replies ''Is my hand
+    too short?'' (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Taberah, the craving, the seventy elders and the quail: Fire from God burns part of the
-    camp for complaint; Spirit rests on people and they prophesy (ecstatically); A ''rabble'' or mixed
-    crowd among the people instigates sin; Leader refuses to silence prophets outside the sanctioned place:
-    ''would all were prophets''; Bird-meat as desired food: punished or granted [contrast between the
-    texts]; Longing for fish, cucumbers, melons, leeks, onions and garlic of Egypt; Longing for fish,
-    cucumbers, melons, leeks, onions and garlic of Egypt [divergence between the texts]; Craved food granted,
-    then plague strikes while meat is still in their mouths; Leader protests he did not conceive or bear
-    the people to carry them like a nurse; Exhausted leader asks God to kill him; Manna described: like
-    coriander seed, look of bdellium, taste of oil cakes, falls with the dew; Wind brings quail in vast
-    quantity to feed the people [divergence between the texts]; and 7 more.'
+    camp for complaint; A ''rabble'' or mixed crowd among the people instigates sin; Leader refuses to
+    silence prophets outside the sanctioned place: ''would all were prophets''; Bird-meat as desired food:
+    punished or granted [contrast between the texts]; Spirit rests on people and they prophesy (ecstatically);
+    Longing for fish, cucumbers, melons, leeks, onions and garlic of Egypt; Longing for fish, cucumbers,
+    melons, leeks, onions and garlic of Egypt [divergence between the texts]; Craved food granted, then
+    plague strikes while meat is still in their mouths; Leader protests he did not conceive or bear the
+    people to carry them like a nurse; Exhausted leader asks God to kill him; Manna described: like coriander
+    seed, look of bdellium, taste of oil cakes, falls with the dew; Wind brings quail in vast quantity
+    to feed the people [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Only in ''God''s hand is fettered''; the blessings of observing the Torah: Believers, Jews, Sabians
     and Christians who believe in God and the last day and do good need not fear; Whenever they kindle

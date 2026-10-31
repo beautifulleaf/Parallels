@@ -18,14 +18,14 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Clothing at every altar or place of prostration (weight 6.7). Pair
-    score 6.7.'
+- text: 'Shared motifs, rarest first: Clothing at every altar or place of prostration (weight 7.7). Pair
+    score 7.7.'
   basis: reading
-- text: 'Only in The oracle against Israel; sandals, pledged garments and silenced prophets: The Amorite
-    was tall as cedars and strong as oaks, yet God destroyed his fruit above and roots below; A man and
+- text: 'Only in The oracle against Israel; sandals, pledged garments and silenced prophets: A man and
     his father go in to the same young woman, profaning God''s name; The people made the Nazirites drink
     wine and commanded the prophets not to prophesy; They lie down beside every altar on garments taken
     in pledge and drink wine of the fined; In that day even the bravest warrior will flee away naked;
+    The Amorite was tall as cedars and strong as oaks, yet God destroyed his fruit above and roots below;
     Oracle formula ''For three transgressions of X, and for four, I will not revoke it''; They sell the
     righteous for silver and the needy for a pair of sandals; A people of great stature is destroyed and
     cut off at the root; Destroyed generations cried out when it was no longer a time for escape (lata
@@ -39,9 +39,9 @@ evidence:
     adornments and good provisions are not forbidden to believers; Short list of what God truly forbids:
     indecencies open and hidden, sin, oppression, associating partners, false speech about God; Whether
     the first couple were naked or clothed before the fall [contrast between the texts]; God makes garments
-    of skin for the first couple; God makes garments of skin for the first couple [divergence between
-    the texts]; Nakedness must be covered at the place of worship; Every nation has a fixed term that
-    cannot be advanced or delayed by an hour; and 1 more.'
+    of skin for the first couple [divergence between the texts]; Nakedness must be covered at the place
+    of worship; Whether the first humans went naked, and how clothing came to them [divergence between
+    the texts]; God makes garments of skin for the first couple; and 3 more.'
   basis: reading
 - text: 'The oracle against Israel; sandals, pledged garments and silenced prophets: tagged by Claude
     (model), reading the Hebrew.'

@@ -19,31 +19,32 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How Abraham learns of Sodom''s fate, and his response (weight 6.7);
-    How God answers Abraham''s plea for the people of Sodom [divergence between the texts] (weight 6.7);
-    Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10) (weight 5.8).
-    Pair score 19.2.'
+- text: 'Shared motifs, rarest first: How Abraham learns of Sodom''s fate, and his response (weight 7.7);
+    How God answers Abraham''s plea for the people of Sodom [divergence between the texts] (weight 7.7);
+    Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10) (weight 6.8).
+    Pair score 22.3.'
   basis: reading
-- text: 'Only in Abraham bargains for Sodom: God decides not to hide his plan from his chosen one; Abraham''s
-    plea when told that the city of Lot will be destroyed [divergence between the texts]; A city''s punishment
-    held back for the righteous within it [divergence between the texts]; God comes down to see what humans
-    are doing; How Abraham learns of Sodom''s fate, and his response [divergence between the texts]; Whether
-    punishment strikes the innocent together with the guilty [contrast between the texts]; Hero challenges
-    God: shall the judge of all the earth not do justice? [divergence between the texts]; Hero challenges
-    God: shall the judge of all the earth not do justice? [response between the texts]; An outcry (tse''aqah)
-    from the wicked city reaches God; Shall God treat believers like those who spread corruption, the
-    godfearing like the wicked?; Abraham''s confession is left as an enduring word among his descendants
-    (''aqib); Petitioner calls himself dust and ashes before God; and 3 more.'
+- text: 'Only in Abraham bargains for Sodom: Abraham''s plea when told that the city of Lot will be destroyed
+    [divergence between the texts]; A city''s punishment held back for the righteous within it [divergence
+    between the texts]; God decides not to hide his plan from his chosen one; God comes down to see what
+    humans are doing; How Abraham learns of Sodom''s fate, and his response [divergence between the texts];
+    Whether punishment strikes the innocent together with the guilty [contrast between the texts]; Hero
+    challenges God: shall the judge of all the earth not do justice? [divergence between the texts]; Hero
+    challenges God: shall the judge of all the earth not do justice? [response between the texts]; An
+    outcry (tse''aqah) from the wicked city reaches God; Shall God treat believers like those who spread
+    corruption, the godfearing like the wicked?; Abraham''s confession is left as an enduring word among
+    his descendants (''aqib); Petitioner calls himself dust and ashes before God; and 3 more.'
   basis: reading
 - text: 'Only in Abraham''s guests, the roasted calf and the laughing wife: Abraham is forbearing, sighing
-    (awwah) and penitent; Abraham''s angelic guests do not stretch their hands to the food, and he is
-    afraid; The annunciation names Isaac ''and after Isaac, Jacob''; Promised son born to aged parents
-    at the appointed time; Doubt voiced at the promise of a son in old age; Who is afraid during the visit
-    of the heavenly guests, and why [divergence between the texts]; Who Abraham''s visitors are; When
-    and why Sarah laughs, and how it is answered; When and why Sarah laughs, and how it is answered [divergence
-    between the texts]; Whether Abraham''s heavenly guests eat the meal he serves [divergence between
-    the texts]; A tender calf is slaughtered and served to divine guests; The old wife overhears the promise
-    of a son at the tent door and laughs; and 5 more.'
+    (awwah) and penitent; The annunciation names Isaac ''and after Isaac, Jacob''; Promised son born to
+    aged parents at the appointed time; Whether the divine guest eats the meal prepared by the host [divergence
+    between the texts]; Doubt voiced at the promise of a son in old age; Who is afraid during the visit
+    of the heavenly guests, and why [divergence between the texts]; Who Abraham''s visitors are; A host
+    sets meat before an arriving messenger, who does not take the meal, and fear follows [divergence between
+    the texts]; An intercessor pleads with the divine to spare a city whose destruction is decreed; the
+    decree is not turned back [divergence between the texts]; When and why Sarah laughs, and how it is
+    answered; When and why Sarah laughs, and how it is answered [divergence between the texts]; Whether
+    Abraham''s heavenly guests eat the meal he serves; and 11 more.'
   basis: reading
 - text: 'Abraham bargains for Sodom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

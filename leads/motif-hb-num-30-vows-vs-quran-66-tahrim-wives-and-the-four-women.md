@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Father or husband may annul a woman''s vow on the day he hears it
-    (weight 6.7); A man''s vow or oath must be fulfilled as uttered [contrast between the texts] (weight
-    6.7). Pair score 13.4.'
+    (weight 7.7); A man''s vow or oath must be fulfilled as uttered [contrast between the texts] (weight
+    7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Vows of men and women: Silence on hearing counts as confirmation; Vows of a widow or
     divorced woman stand on their own; How far a spoken oath or vow binds [contrast between the texts];
@@ -39,9 +39,9 @@ evidence:
     why do you forbid what God made lawful for you, seeking to please your wives?''; God has ordained
     the dissolution of oaths; Turn to God in sincere repentance (tawba nasuh); The prophet confided a
     secret to one of his wives; she divulged it, and God informed him; The wives of Noah and Lot, married
-    to righteous servants, betrayed them and are told to enter the Fire; Mother of Moses, Aaron and Miriam
-    named (Jochebed, born to Levi in Egypt); A daughter of Pharaoh (Bithiah) marries an Israelite; and
-    9 more.'
+    to righteous servants, betrayed them and are told to enter the Fire; A word heard in confidence in
+    a man''s house is repeated outside / disclosed to another; Mother of Moses, Aaron and Miriam named
+    (Jochebed, born to Levi in Egypt); and 12 more.'
   basis: reading
 - text: 'Vows of men and women: tagged by Claude (model), reading the Hebrew.'
   basis: reading

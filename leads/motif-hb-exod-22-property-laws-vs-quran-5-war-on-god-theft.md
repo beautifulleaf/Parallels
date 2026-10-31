@@ -18,15 +18,15 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The penalty prescribed for theft [contrast between the texts] (weight
-    6.3). Pair score 6.3.'
+- text: 'Shared motifs, rarest first: The penalty for theft [neutral] [contrast between the texts] (weight
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Covenant Code - theft, deposits, seduction: Liability for a borrowed animal that dies
     when the owner is absent; A dispute over deposited goods is brought before God (ha-elohim) for decision;
-    A thief pays double; Killing a burglar caught breaking in at night incurs no bloodguilt, but by day
-    it does; An oath by YHWH settles a dispute without witnesses; A thief who cannot pay is sold for his
-    theft; A herdsman brings the remains of a torn animal as evidence and is not liable; Liability for
-    one''s grazing animals or spreading fire damaging another''s field; A man who seduces an unbetrothed
+    A thief pays double; A thief who cannot pay is sold for his theft; A herdsman brings the remains of
+    a torn animal as evidence and is not liable; Liability for one''s grazing animals or spreading fire
+    damaging another''s field; Killing a burglar caught breaking in at night incurs no bloodguilt, but
+    by day it does; An oath by YHWH settles a dispute without witnesses; A man who seduces an unbetrothed
     virgin must marry her or pay the bride-price; Who receives the marriage payment [divergence between
     the texts].'
   basis: reading
@@ -34,10 +34,11 @@ evidence:
     hands of the male and female thief as recompense; Those who repent before they are overpowered are
     pardoned; Seek a means of approach (al-wasīla) to God; Those who wage war on God and spread corruption:
     killed, crucified, hands and feet cut off on opposite sides, or exiled; Executed men''s hands and
-    feet cut off and their bodies hung up publicly; Neither their silver nor their gold can save them
-    on the day of YHWH''s wrath; Each wrongdoer would ransom himself with all that is on earth, if he
-    could; No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life
-    is too costly.'
+    feet cut off and their bodies hung up publicly; Cutting off hands and feet as the punishment of those
+    who sin against (wage war on) the god [divergence between the texts]; Neither their silver nor their
+    gold can save them on the day of YHWH''s wrath; Each wrongdoer would ransom himself with all that
+    is on earth, if he could; No man can ransom his brother or give God a ransom (kofer) for him; the
+    redemption of life is too costly.'
   basis: reading
 - text: 'Covenant Code - theft, deposits, seduction: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -46,7 +47,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: The penalty prescribed for theft
+finding: The penalty for theft [neutral]
 kinds:
 - contrast
 units:
@@ -58,7 +59,7 @@ units:
   tradition: islam
 matches:
 - kind: contrast
-  label: The penalty prescribed for theft
+  label: The penalty for theft [neutral]
   note: 'Opposite penalties for theft. Exod: šallēm yəšallēm ʾim-ʾên lô wə-nimkar bi-gnēvātô; ... ḥayyîm
     šənayim yəšallēm: the thief pays double and is sold if he cannot pay. Q: wa-l-sāriqu wa-l-sāriqatu
     fa-qṭaʿū aydiyahumā jazāʾan bi-mā kasabā nakālan mina llāhi: hand amputation for male and female thief,

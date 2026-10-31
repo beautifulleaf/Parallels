@@ -20,9 +20,9 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Prophet stretches his staff over the sea and God splits it with
-    a strong east wind (weight 6.0); The people walk on dry ground through the sea with the waters as
-    a wall on either side (weight 5.3); The returning waters drown the pursuing army; not one survives
-    (weight 4.5). Pair score 15.8.'
+    a strong east wind (weight 6.8); The people walk on dry ground through the sea with the waters as
+    a wall on either side (weight 6.4); The returning waters drown the pursuing army; not one survives
+    (weight 5.5). Pair score 18.7.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -44,9 +44,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 40 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 48 more.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

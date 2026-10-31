@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''The soul that sins, it shall die'': the son does not bear the
-    father''s iniquity nor the father the son''s (weight 6.3); Fathers not put to death for children nor
-    children for fathers (weight 5.8). Pair score 12.1.'
+    father''s iniquity nor the father the son''s (weight 7.3); Fathers not put to death for children nor
+    children for fathers (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Sour grapes - individual responsibility and repentance: Exhortation: cast away your transgressions
     and make yourselves a new heart and a new spirit; why will you die?; Test case of three generations:
@@ -30,22 +30,25 @@ evidence:
     Whether one person can carry another''s sin [divergence between the texts]; No one may excuse himself
     on judgment day because his ancestors associated partners; If the wicked turns from his sins, none
     of his transgressions will be remembered; if the righteous turns away, his righteousness is forgotten;
-    Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual intercourse,
-    no oppression, returns pledges, feeds the hungry, clothes the naked, no interest; Proverb ''The fathers
-    have eaten sour grapes and the children''s teeth are set on edge'', abolished by God; Whether repentance
-    has a time limit [divergence between the texts]; People complain ''the way of the Lord is not fair'';
-    God answers that it is their ways that are unfair; God does not desire the death of the wicked but
-    that he turn from his way and live; A cloak taken in pledge must be returned before sunset; Whoever
-    does good does it for his own soul; whoever does evil, it is against it; and 3 more.'
+    Proverb ''The fathers have eaten sour grapes and the children''s teeth are set on edge'', abolished
+    by God; Whether repentance has a time limit [divergence between the texts]; People complain ''the
+    way of the Lord is not fair''; God answers that it is their ways that are unfair; God does not desire
+    the death of the wicked but that he turn from his way and live; Catalogue of the righteous man: no
+    eating on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns pledges,
+    feeds the hungry, clothes the naked, no interest; Whoever does good does it for his own soul; whoever
+    does evil, it is against it; Intercourse with a menstruating woman is forbidden; and 3 more.'
   basis: reading
 - text: 'Only in Tenfold reward; my life and death for God; no bearer bears another''s burden: On the
     day some of the signs come, faith not believed before will not avail; My prayer, my rites, my living
     and my dying are for God, Lord of the worlds; God made you successors (khalāʾif) on the earth and
     raised some above others in rank to test you; The Prophet is commanded to be the first of those who
     submit (awwal al-muslimīn); God multiplies a good deed (tenfold) while an evil deed is requited only
-    by its like; Whether guilt passes from parents to their descendants [contrast between the texts];
-    Those who split their religion into sects, each party exulting in what it has; Follow the religion
-    (milla) of Abraham the ḥanīf, who was no idolater; Each person dies for his own sin.'
+    by its like; Whether an offender''s family is punished with him [contrast between the texts]; Whether
+    guilt passes from parents to their descendants [contrast between the texts]; Whether an offender''s
+    household and kin share his punishment [contrast between the texts]; Those who split their religion
+    into sects, each party exulting in what it has; Follow the religion (milla) of Abraham the ḥanīf,
+    who was no idolater; Whether one person''s guilt (a parent''s, another''s) comes upon someone else
+    [contrast between the texts]; Each person dies for his own sin.'
   basis: reading
 - text: 'Sour grapes - individual responsibility and repentance: tagged by Claude (model), reading the
     Hebrew.'

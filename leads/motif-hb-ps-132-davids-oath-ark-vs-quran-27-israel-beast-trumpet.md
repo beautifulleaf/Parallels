@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The city God chose or made sacred [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 132, David''s vow, the ark and the oath to David: ''We heard of it in Ephrathah,
-    we found it in the fields of Ya''ar'' (the ark at Kiriath-jearim); David vowed to the Mighty One of
-    Jacob not to enter his house or sleep until he found a place for YHWH; In Zion God will make a horn
-    sprout for David and has prepared a lamp for his anointed; his crown (nezer) will blossom; God swore
-    to David: ''of the fruit of your body I will set on your throne'', conditional on the sons keeping
-    the covenant; God''s priests are clothed in righteousness or salvation and his faithful shout for
-    joy; God chose Zion and desired it for his seat: ''This is my resting place forever''; ''Arise, YHWH,
-    to your resting place, you and the ark of your might''; Worship at God''s footstool (hadom raglav)
-    or holy mountain; Archaic divine titles: Mighty One of Jacob, Shepherd, Stone of Israel; Superscription
-    ''A song of ascents'' (shir ha-ma''alot), Ps 120-134.'
+    we found it in the fields of Ya''ar'' (the ark at Kiriath-jearim); In Zion God will make a horn sprout
+    for David and has prepared a lamp for his anointed; his crown (nezer) will blossom; God swore to David:
+    ''of the fruit of your body I will set on your throne'', conditional on the sons keeping the covenant;
+    God''s priests are clothed in righteousness or salvation and his faithful shout for joy; God chose
+    Zion and desired it for his seat: ''This is my resting place forever''; ''Arise, YHWH, to your resting
+    place, you and the ark of your might''; Worship at God''s footstool (hadom raglav) or holy mountain;
+    David vowed to the Mighty One of Jacob not to enter his house or sleep until he found a place for
+    YHWH; Archaic divine titles: Mighty One of Jacob, Shepherd, Stone of Israel; Superscription ''A song
+    of ascents'' (shir ha-ma''alot), Ps 120-134.'
   basis: reading
 - text: 'Only in The Quran and Israel''s disputes; the beast of the earth, the trumpet and the sacred
     town: At the end God brings forth a beast from the earth that speaks to people; The prophet worships

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No foreigner uncircumcised in heart and flesh may enter the sanctuary
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The shut east gate, foreigners excluded, Levites and Zadokite priests: The east gate
     stays shut forever because YHWH the God of Israel entered by it; The first of the dough (reshit arisot)

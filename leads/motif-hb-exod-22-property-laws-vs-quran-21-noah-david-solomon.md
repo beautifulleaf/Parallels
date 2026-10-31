@@ -20,26 +20,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Liability for one''s grazing animals or spreading fire damaging
-    another''s field (weight 6.7). Pair score 6.7.'
+    another''s field (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant Code - theft, deposits, seduction: Liability for a borrowed animal that dies
     when the owner is absent; A dispute over deposited goods is brought before God (ha-elohim) for decision;
-    A thief pays double; Killing a burglar caught breaking in at night incurs no bloodguilt, but by day
-    it does; An oath by YHWH settles a dispute without witnesses; A thief who cannot pay is sold for his
-    theft; A herdsman brings the remains of a torn animal as evidence and is not liable; A man who seduces
-    an unbetrothed virgin must marry her or pay the bride-price; Who receives the marriage payment [divergence
-    between the texts]; The penalty prescribed for theft [contrast between the texts].'
+    A thief pays double; A thief who cannot pay is sold for his theft; A herdsman brings the remains of
+    a torn animal as evidence and is not liable; Killing a burglar caught breaking in at night incurs
+    no bloodguilt, but by day it does; An oath by YHWH settles a dispute without witnesses; A man who
+    seduces an unbetrothed virgin must marry her or pay the bride-price; Who receives the marriage payment
+    [divergence between the texts]; The penalty for theft [neutral] [contrast between the texts].'
   basis: reading
 - text: 'Only in Noah answered; David and Solomon''s judgment, the praising mountains, mail and wind:
     David and Solomon judge a case of sheep that strayed by night into a field; Solomon is given the right
     understanding; God taught David the craft of making coats of mail [contrast between the texts]; The
     people see that divine wisdom is in the king to do justice; The people see that divine wisdom is in
     the king to do justice [divergence between the texts]; Mountains and birds are made to glorify God
-    together with David [divergence between the texts]; God taught David the craft of making coats of
-    mail; Hero asks the deity to judge or destroy his opponents [divergence between the texts]; The stormy
-    wind is subjected to Solomon, blowing at his command; Mountains and birds are made to glorify God
-    together with David; Devils (shayāṭīn) and jinn labor for Solomon, diving and building; Hero asks
-    the deity to judge or destroy his opponents; All others perish; and 1 more.'
+    together with David [divergence between the texts]; A herdsman''s sheep graze in a cultivator''s field
+    [divergence between the texts]; God taught David the craft of making coats of mail; Hero asks the
+    deity to judge or destroy his opponents [divergence between the texts]; The stormy wind is subjected
+    to Solomon, blowing at his command; Mountains and birds are made to glorify God together with David;
+    Devils (shayāṭīn) and jinn labor for Solomon, diving and building; Hero asks the deity to judge or
+    destroy his opponents; and 2 more.'
   basis: reading
 - text: 'Covenant Code - theft, deposits, seduction: tagged by Claude (model), reading the Hebrew.'
   basis: reading

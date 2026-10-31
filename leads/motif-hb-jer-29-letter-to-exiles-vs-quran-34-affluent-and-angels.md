@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
-    (weight 5.1). Pair score 5.1.'
+    (weight 6.1). Pair score 6.1.'
   basis: reading
 - text: 'Only in Letter to the exiles; seventy years; Ahab and Zedekiah roasted; Shemaiah''s counter-letter:
     Exiles told to build houses, plant gardens, marry and multiply in the foreign land; A rival prophet
     in exile writes letters demanding that the prophet be silenced; A false prophet''s descendants will
     be cut off and he will not see the coming good; Lying prophets are roasted in fire by a foreign king
-    and become a byword in curses; Lying prophets commit adultery with their neighbors'' wives; God is
-    the one who knows and is witness against secret sins; Exiles told to seek the welfare of the foreign
-    city and pray to God for it; The prophet sends a letter to the exiles in a foreign land; The king
-    is deported with the queen mother, eunuchs, officials and craftsmen; Those remaining are made like
-    rotten figs too bad to eat; You will seek me and find me when you seek me with all your heart; An
-    angry king puts the seer in the stocks; and 5 more.'
+    and become a byword in curses; God is the one who knows and is witness against secret sins; Exiles
+    told to seek the welfare of the foreign city and pray to God for it; The prophet sends a letter to
+    the exiles in a foreign land; The king is deported with the queen mother, eunuchs, officials and craftsmen;
+    Those remaining are made like rotten figs too bad to eat; You will seek me and find me when you seek
+    me with all your heart; Lying prophets commit adultery with their neighbors'' wives; An angry king
+    puts the seer in the stocks; and 5 more.'
   basis: reading
 - text: 'Only in The affluent reject warners; angels disown jinn-worshippers; the prophet is not mad:
     On the Day God asks the angels whether people worshipped them; they disown them: ''they worshipped

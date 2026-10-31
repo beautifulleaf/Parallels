@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seized at the end, they say ''we believe'', but how can they reach
-    it from a far place? (weight 6.0). Pair score 6.0.'
+    it from a far place? (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Proverbs 1:20-33, Lady Wisdom''s speech in the streets: The fools eat the fruit of their
     own way and are sated with their own devices; When disaster comes they will call on Wisdom and she

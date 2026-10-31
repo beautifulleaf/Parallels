@@ -23,31 +23,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God takes life and gives it again [divergence between the texts]
-    (weight 6.7); God stretches out the heavens like a tent curtain (weight 6.3); God visits the earth
-    with rain, softens it with showers, and crowns the year with harvest (weight 5.3). Pair score 18.3.'
+    (weight 7.7); God stretches out the heavens like a tent curtain (weight 7.3); God visits the earth
+    with rain, softens it with showers, and crowns the year with harvest (weight 6.0). Pair score 21.0.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God looks at the earth and it trembles, touches the mountains
-    and they smoke; and 38 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God looks at the earth
+    and it trembles, touches the mountains and they smoke; God built the sky, raised its canopy, darkened
+    its night and brought out its forenoon; after that he spread out the earth; and 38 more.'
   basis: reading
 - text: 'Only in Call to worship the Creator; the challenge; paradise and the gnat: God is not ashamed
     to strike a parable of a gnat or something smaller; Fruits in paradise resemble those of earth: ''this
     is what we were given before''; A challenge to rivals to prove a divine claim [divergence between
-    the texts]; The people break the covenant God made with them; Humans were dead, given life, will die
-    and be given life again (two deaths, two lives); Hell''s fire has men and stones as its fuel; The
-    blessed have purified spouses (azwaj mutahhara) in paradise; God summons the coastlands and nations
-    (and their gods) to a court trial to argue their case; God fashions seven heavens; Inimitability challenge:
-    produce a surah like it, calling on your own witnesses (tahaddi); God opens his good storehouse, the
-    heavens, to give rain; Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous
-    abide forever.'
+    the texts]; In the hereafter the dead eat the like of what they ate on earth; The people break the
+    covenant God made with them; Humans were dead, given life, will die and be given life again (two deaths,
+    two lives); Hell''s fire has men and stones as its fuel; The blessed have purified spouses (azwaj
+    mutahhara) in paradise; God summons the coastlands and nations (and their gods) to a court trial to
+    argue their case; The creator made heaven and earth, light, air and food ''for their sake'' (n-jb
+    =sn), for humankind; God fashions seven heavens; Inimitability challenge: produce a surah like it,
+    calling on your own witnesses (tahaddi); and 2 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

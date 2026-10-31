@@ -22,19 +22,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A tree of knowledge whose fruit is forbidden [divergence between
-    the texts] (weight 6.7); A tree of knowledge whose fruit is forbidden (weight 5.8); God plants a garden
-    (Eden) in the east and places the first human there (weight 5.6); First human shaped from dust, clay
-    or soil (weight 4.6). Pair score 22.6.'
+    the texts] (weight 7.7); A tree of knowledge whose fruit is forbidden (weight 6.8); God plants a garden
+    (Eden) in the east and places the first human there (weight 6.4); First human shaped from dust, clay
+    or soil (weight 5.2). Pair score 26.1.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 18 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence
+    between the texts]; and 18 more.'
   basis: reading
 - text: 'Only in The prostration to Adam, Iblis'' refusal and the fall: Man and wife are addressed, tempted
     and eat together; the woman is not singled out; The first humans are sent down to earth to live and
@@ -45,8 +47,8 @@ evidence:
     he is their sincere adviser; God vows to fill hell with the devil and all who follow him; Satan whispers
     (waswasa) to tempt humans; God casts the proud being out from the mountain of God and destroys him
     from among the stones of fire, hurling him to earth before kings; How the first couple answer God
-    after eating: shifting the blame or confessing [divergence between the texts]; God gives the adversary
-    (Satan) leave to act against humans; and 18 more.'
+    after eating: shifting the blame or confessing [divergence between the texts]; In the divine realm
+    the human is given a garment to put on [divergence between the texts]; and 21 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

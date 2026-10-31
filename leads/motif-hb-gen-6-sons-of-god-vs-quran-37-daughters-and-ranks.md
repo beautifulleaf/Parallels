@@ -19,23 +19,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has, begets or takes sons or other offspring [contrast
-    between the texts] (weight 5.8). Pair score 5.8.'
+    between the texts] (weight 6.8). Pair score 6.8.'
   basis: reading
-- text: 'Only in Sons of God, daughters of men, and the Nephilim: God limits human lifespan to 120 years;
-    Those called God''s offspring are rather honored servants who do not speak before him [response between
-    the texts]; Giants or heroes (Nephilim) born from divine-human unions; Maidens of restrained glance
-    whom no man or jinn has touched before them, like rubies and coral; Divine beings take human women
-    as wives.'
+- text: 'Only in Sons of God, daughters of men, and the Nephilim: Those called God''s offspring are rather
+    honored servants who do not speak before him [response between the texts]; God limits human lifespan
+    to 120 years; Maidens of restrained glance whom no man or jinn has touched before them, like rubies
+    and coral; Divine beings take human women as wives; Giants or heroes (Nephilim) born from divine-human
+    unions.'
   basis: reading
 - text: 'Only in Daughters of God denied; the angels'' stations; closing doxology: Idolaters claim a kinship
     (nasab) between God and the jinn; the jinn know they will be brought to judgment; The angels say:
     each of us has a known station; we are ranged in ranks; we glorify; When the punishment descends in
     their courtyard, evil will be the morning of those who were warned; Closing doxology: glory to your
     Lord, Lord of might, above what they describe; peace on the messengers; praise to God, Lord of the
-    worlds; A closing doxology and the divine title it uses [divergence between the texts]; Polemic against
-    assigning daughters to God (the angels as females) while preferring sons for themselves; Scoffers
-    ask the prophet to hasten the punishment; it is held back only by an appointed term and will come
-    suddenly.'
+    worlds; Whether the divine attendants (heralds [divergence between the texts]; A closing doxology
+    and the divine title it uses [divergence between the texts]; Polemic against assigning daughters to
+    God (the angels as females) while preferring sons for themselves; Scoffers ask the prophet to hasten
+    the punishment; it is held back only by an appointed term and will come suddenly.'
   basis: reading
 - text: 'Sons of God, daughters of men, and the Nephilim: tagged by Claude (model), reading the Hebrew.'
   basis: reading

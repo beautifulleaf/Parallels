@@ -19,31 +19,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Day of YHWH: a coming day of divine judgment, terror and darkness
-    (weight 5.0). Pair score 5.0.'
+    (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in The mountain of the Lord''s house; the Day of YHWH against all that is proud: Stop trusting
     man, who has only breath in his nostrils; On that day people throw their silver and gold idols to
     the moles and bats and flee into clefts of the rocks; Foreign priests and diviners advise how to appease
-    the God of Israel; On God''s day all that is lofty (cedars of Lebanon, oaks of Bashan, towers, ships
-    of Tarshish) is brought low and God alone exalted; In the latter days the mountain of God''s house
-    will be raised above all mountains and all nations will stream to it; When God''s help and the opening
-    (al-fath) come, people enter God''s religion in crowds; the prophet is to glorify and seek forgiveness;
-    Nations will beat swords into plowshares and spears into pruning hooks and learn war no more; ''From
-    Zion shall go forth Torah and the word of YHWH from Jerusalem''; God shatters the ships of Tarshish
-    with an east wind; God the Judge is called to judge between two nations; People hide in caves, thickets,
-    rocks and pits from an invading army; On the day of judgment voices are hushed before the Merciful;
+    the God of Israel; In the latter days the mountain of God''s house will be raised above all mountains
+    and all nations will stream to it; When God''s help and the opening (al-fath) come, people enter God''s
+    religion in crowds; the prophet is to glorify and seek forgiveness; ''From Zion shall go forth Torah
+    and the word of YHWH from Jerusalem''; God shatters the ships of Tarshish with an east wind; God the
+    Judge is called to judge between two nations; On God''s day all that is lofty (cedars of Lebanon,
+    oaks of Bashan, towers, ships of Tarshish) is brought low and God alone exalted; People hide in caves,
+    thickets, rocks and pits from an invading army; Nations will beat swords into plowshares and spears
+    into pruning hooks and learn war no more; On the day of judgment voices are hushed before the Merciful;
     only a faint murmur is heard; and 2 more.'
   basis: reading
 - text: 'Only in Hud and the monument-building people of Ad: The people of ʿĀd build a monument on every
     height and take fortresses (maṣāniʿ) hoping to live forever; Their graves (qirbam = qivram) are their
     houses forever, though they named lands after themselves; The prophet Hūd is sent to the people of
-    ʿĀd; Builders seek to make a name for themselves and avoid dispersal; Building with baked bricks and
-    bitumen instead of stone and mortar; Nimrod, first mighty man, a mighty hunter before the LORD; Woe
-    to the one who builds a city (Zion) with bloodshed and injustice; Formula: ''their brother'' (akhūhum)
-    Noah/Hud/Salih/Lot is a trustworthy messenger sent to his people; Refrain closing each episode: ''In
-    that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''; Unbelievers
-    dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal; Destruction
-    follows the people''s rejection of a messenger; The Prophet asks no wage for the message.'
+    ʿĀd; Monuments built so that their builders may live for ever [neutral]; Men build great structures
+    to endure, but the builders and their buildings pass [divergence between the texts]; Nimrod, first
+    mighty man, a mighty hunter before the LORD; Building with baked bricks and bitumen instead of stone
+    and mortar; Woe to the one who builds a city (Zion) with bloodshed and injustice; Formula: ''their
+    brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to his people; Refrain closing
+    each episode: ''In that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful'';
+    Unbelievers dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal;
+    Builders seek to make a name for themselves and avoid dispersal; and 2 more.'
   basis: reading
 - text: 'The mountain of the Lord''s house; the Day of YHWH against all that is proud: tagged by Claude
     (model), reading the Hebrew.'

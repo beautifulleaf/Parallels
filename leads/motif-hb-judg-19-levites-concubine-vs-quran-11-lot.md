@@ -19,10 +19,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Host offers his virgin daughters to the mob to protect his guests
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
-- text: 'Only in The Levite''s concubine at Gibeah: Father-in-law repeatedly detains his son-in-law with
-    food and drink; Travelers find no hospitality in a city except from a resident alien old man; The
+- text: 'Only in The Levite''s concubine at Gibeah: Travelers find no hospitality in a city except from
+    a resident alien old man; Father-in-law repeatedly detains his son-in-law with food and drink; The
     townspeople refuse the travelers food and hospitality; A body (or animals) cut into twelve pieces
     and sent to the tribes as a summons; Townsmen surround the house and demand the male guest for sexual
     abuse; Refrain: ''In those days there was no king in Israel; each did what was right in his own eyes''.'
@@ -30,12 +30,13 @@ evidence:
 - text: 'Only in Lot, his guests, his daughters and the stones of sijjil: The angels tell Lot the destruction
     is appointed for the morning: ''is not the morning near?''; Lot wishes he had strength or a strong
     support to take refuge in; The angels tell Lot who sent them and what they will do [divergence between
-    the texts]; Only Lot''s household is brought out of the doomed city; What Lot says to the townsmen;
-    How Lot receives the heavenly guests [divergence between the texts]; When Lot leaves the city and
-    when the destruction falls [divergence between the texts]; Lot''s townspeople turn on him; What falls
-    from heaven on Sodom; Command not to look back while fleeing a doomed place; Lot''s wife is among
-    those who stay behind and perish; Stones of baked clay (sijjil), in layers, each marked by the Lord,
-    rain on the town; and 7 more.'
+    the texts]; A dwelling or town is overturned so that its top and bottom are exchanged; Only Lot''s
+    household is brought out of the doomed city; What Lot says to the townsmen; How Lot receives the heavenly
+    guests [divergence between the texts]; A protected person is forbidden to look out or turn round,
+    and one does [divergence between the texts]; The deity rains stones from heaven on those he destroys:
+    what kind of stones [divergence between the texts]; When Lot leaves the city and when the destruction
+    falls [divergence between the texts]; Lot''s townspeople turn on him; What falls from heaven on Sodom;
+    and 11 more.'
   basis: reading
 - text: 'The Levite''s concubine at Gibeah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

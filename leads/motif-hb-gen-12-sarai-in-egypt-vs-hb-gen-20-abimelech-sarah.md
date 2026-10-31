@@ -12,18 +12,18 @@ traditions:
 layers:
 - motif
 motifs:
-- matriarch-taken-into-royal-house
-- king-rebukes-patriarch
-- plagues-on-king-for-taking-wife
 - wife-passed-off-as-sister
+- matriarch-taken-into-royal-house
+- plagues-on-king-for-taking-wife
 - patriarch-enriched-by-foreign-king
+- king-rebukes-patriarch
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The matriarch is taken into a foreign king''s house (weight 6.7);
-    The foreign king rebukes the patriarch for the deception (weight 6.3); God strikes the king''s house
-    with plagues or affliction for taking the patriarch''s wife (weight 6.3); Patriarch passes off his
-    beautiful wife as his sister in a foreign court (weight 6.3); Patriarch leaves enriched with flocks,
-    slaves and silver from the foreign king (weight 6.3). Pair score 31.8.'
+- text: 'Shared motifs, rarest first: Patriarch passes off his beautiful wife as his sister in a foreign
+    court (weight 7.3); The matriarch is taken into a foreign king''s house (weight 7.3); God strikes
+    the king''s house with plagues or affliction for taking the patriarch''s wife (weight 7.3); Patriarch
+    leaves enriched with flocks, slaves and silver from the foreign king (weight 7.3); The foreign king
+    rebukes the patriarch for the deception (weight 7.3). Pair score 36.7.'
   basis: reading
 - text: 'Only in Abram and Sarai in Egypt (first wife-sister episode): Famine forces the family to go
     down to Egypt; Hero''s beauty is remarked on.'
@@ -40,7 +40,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: The matriarch is taken into a foreign king's house
+finding: Patriarch passes off his beautiful wife as his sister in a foreign court
 kinds:
 - shared
 units:
@@ -51,59 +51,6 @@ units:
   title: Abraham and Sarah at Gerar (second wife-sister episode)
   tradition: judaism
 matches:
-- kind: shared
-  label: The matriarch is taken into a foreign king's house
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 12:15
-      lang: he
-      text: וַיִּרְא֤וּ אֹתָהּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַיְהַֽלְל֥וּ אֹתָ֖הּ אֶל פַּרְעֹ֑ה וַתֻּקַּ֥ח הָאִשָּׁ֖ה
-        בֵּ֥ית פַּרְעֹֽה
-  - tradition: judaism
-    passages:
-    - ref: Gen 20:2
-      lang: he
-      text: וַיֹּ֧אמֶר אַבְרָהָ֛ם אֶל שָׂרָ֥ה אִשְׁתּ֖וֹ אֲחֹ֣תִי הִ֑וא וַיִּשְׁלַ֗ח אֲבִימֶ֨לֶךְ֙ מֶ֣לֶךְ
-        גְּרָ֔ר וַיִּקַּ֖ח אֶת שָׂרָֽה
-- kind: shared
-  label: The foreign king rebukes the patriarch for the deception
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 12:18
-      lang: he
-      text: וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה זֹּ֖את עָשִׂ֣יתָ לִּ֑י לָ֚מָּה לֹא הִגַּ֣דְתָּ
-        לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא
-    - ref: Gen 12:19
-      lang: he
-      text: לָמָ֤ה אָמַ֨רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖
-        קַ֥ח וָלֵֽךְ
-  - tradition: judaism
-    passages:
-    - ref: Gen 20:9
-      lang: he
-      text: וַיִּקְרָ֨א אֲבִימֶ֜לֶךְ לְאַבְרָהָ֗ם וַיֹּ֨אמֶר ל֜וֹ מֶֽה עָשִׂ֤יתָ לָּ֨נוּ֙ וּמֶֽה חָטָ֣אתִי
-        לָ֔ךְ כִּֽי הֵבֵ֧אתָ עָלַ֛י וְעַל מַמְלַכְתִּ֖י חֲטָאָ֣ה גְדֹלָ֑ה מַעֲשִׂים֙ אֲשֶׁ֣ר לֹא יֵֽעָשׂ֔וּ
-        עָשִׂ֖יתָ עִמָּדִֽי
-    - ref: Gen 20:10
-      lang: he
-      text: וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל אַבְרָהָ֑ם מָ֣ה רָאִ֔יתָ כִּ֥י עָשִׂ֖יתָ אֶת הַדָּבָ֥ר הַזֶּֽה
-- kind: shared
-  label: God strikes the king's house with plagues or affliction for taking the patriarch's wife
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 12:17
-      lang: he
-      text: וַיְנַגַּ֨ע יְהוָ֧ה אֶת פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת בֵּית֑וֹ עַל דְּבַ֥ר שָׂרַ֖י
-        אֵ֥שֶׁת אַבְרָֽם
-  - tradition: judaism
-    passages:
-    - ref: Gen 20:18
-      lang: he
-      text: כִּֽי עָצֹ֤ר עָצַר֙ יְהוָ֔ה בְּעַ֥ד כָּל רֶ֖חֶם לְבֵ֣ית אֲבִימֶ֑לֶךְ עַל דְּבַ֥ר שָׂרָ֖ה אֵ֥שֶׁת
-        אַבְרָהָֽם
 - kind: shared
   label: Patriarch passes off his beautiful wife as his sister in a foreign court
   sides:
@@ -136,6 +83,36 @@ matches:
         אֲשֶׁ֥ר תַּעֲשִׂ֖י עִמָּדִ֑י אֶ֤ל כָּל הַמָּקוֹם֙ אֲשֶׁ֣ר נָב֣וֹא שָׁ֔מָּה אִמְרִי לִ֖י אָחִ֥י
         הֽוּא
 - kind: shared
+  label: The matriarch is taken into a foreign king's house
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 12:15
+      lang: he
+      text: וַיִּרְא֤וּ אֹתָהּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַיְהַֽלְל֥וּ אֹתָ֖הּ אֶל פַּרְעֹ֑ה וַתֻּקַּ֥ח הָאִשָּׁ֖ה
+        בֵּ֥ית פַּרְעֹֽה
+  - tradition: judaism
+    passages:
+    - ref: Gen 20:2
+      lang: he
+      text: וַיֹּ֧אמֶר אַבְרָהָ֛ם אֶל שָׂרָ֥ה אִשְׁתּ֖וֹ אֲחֹ֣תִי הִ֑וא וַיִּשְׁלַ֗ח אֲבִימֶ֨לֶךְ֙ מֶ֣לֶךְ
+        גְּרָ֔ר וַיִּקַּ֖ח אֶת שָׂרָֽה
+- kind: shared
+  label: God strikes the king's house with plagues or affliction for taking the patriarch's wife
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 12:17
+      lang: he
+      text: וַיְנַגַּ֨ע יְהוָ֧ה אֶת פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת בֵּית֑וֹ עַל דְּבַ֥ר שָׂרַ֖י
+        אֵ֥שֶׁת אַבְרָֽם
+  - tradition: judaism
+    passages:
+    - ref: Gen 20:18
+      lang: he
+      text: כִּֽי עָצֹ֤ר עָצַר֙ יְהוָ֔ה בְּעַ֥ד כָּל רֶ֖חֶם לְבֵ֣ית אֲבִימֶ֑לֶךְ עַל דְּבַ֥ר שָׂרָ֖ה אֵ֥שֶׁת
+        אַבְרָהָֽם
+- kind: shared
   label: Patriarch leaves enriched with flocks, slaves and silver from the foreign king
   sides:
   - tradition: judaism
@@ -155,6 +132,29 @@ matches:
       text: וּלְשָׂרָ֣ה אָמַ֗ר הִנֵּ֨ה נָתַ֜תִּי אֶ֤לֶף כֶּ֨סֶף֙ לְאָחִ֔יךְ הִנֵּ֤ה הוּא לָךְ֙ כְּס֣וּת
         עֵינַ֔יִם לְכֹ֖ל אֲשֶׁ֣ר אִתָּ֑ךְ וְאֵ֥ת כֹּ֖ל וְנֹכָֽחַת
     note: a thousand of silver as 'covering of the eyes'
+- kind: shared
+  label: The foreign king rebukes the patriarch for the deception
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 12:18
+      lang: he
+      text: וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה זֹּ֖את עָשִׂ֣יתָ לִּ֑י לָ֚מָּה לֹא הִגַּ֣דְתָּ
+        לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא
+    - ref: Gen 12:19
+      lang: he
+      text: לָמָ֤ה אָמַ֨רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖
+        קַ֥ח וָלֵֽךְ
+  - tradition: judaism
+    passages:
+    - ref: Gen 20:9
+      lang: he
+      text: וַיִּקְרָ֨א אֲבִימֶ֜לֶךְ לְאַבְרָהָ֗ם וַיֹּ֨אמֶר ל֜וֹ מֶֽה עָשִׂ֤יתָ לָּ֨נוּ֙ וּמֶֽה חָטָ֣אתִי
+        לָ֔ךְ כִּֽי הֵבֵ֧אתָ עָלַ֛י וְעַל מַמְלַכְתִּ֖י חֲטָאָ֣ה גְדֹלָ֑ה מַעֲשִׂים֙ אֲשֶׁ֣ר לֹא יֵֽעָשׂ֔וּ
+        עָשִׂ֖יתָ עִמָּדִֽי
+    - ref: Gen 20:10
+      lang: he
+      text: וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל אַבְרָהָ֑ם מָ֣ה רָאִ֔יתָ כִּ֥י עָשִׂ֖יתָ אֶת הַדָּבָ֥ר הַזֶּֽה
 ---
 
 ## Questions

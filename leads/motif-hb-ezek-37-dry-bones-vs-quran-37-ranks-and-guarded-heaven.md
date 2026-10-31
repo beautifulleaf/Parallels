@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A single cry or rebuke (zajra) and the dead stand looking (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
     graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is
@@ -37,14 +37,14 @@ evidence:
     al-din), the Day of Sorting (yawm al-fasl) which you denied''; Devils cannot listen to the Exalted
     Assembly (al-mala'' al-a''la); any who snatch a word are pursued by a piercing flame (shihab); Opening
     oath by those ranged in ranks, those who drive (or rebuke), and those who recite the reminder; The
-    satan or the devils are rebuked and driven off in the heavenly realm; Humans created from sticky clay
-    (tin lazib); Scoffers ridicule the claim that after being torn to pieces utterly they will be created
-    anew; The lowest heaven is adorned with stars as a guard against every rebellious devil; Whether the
-    adversary, devils or deceiving spirits have access to God''s council [contrast between the texts];
-    ''Have you listened in the council (sod) of God, and limited wisdom to yourself?''; God called Lord
-    of the east and the west, or of the (many) easts and wests (sunrise and sunset points); God enthroned
-    with the host of heaven standing at his right and left deliberates; First human shaped from dust,
-    clay or soil.'
+    satan or the devils are rebuked and driven off in the heavenly realm; The flash of a star falling
+    from heaven and its relation to demons [shared matter] [divergence between the texts]; Humans created
+    from sticky clay (tin lazib); Scoffers ridicule the claim that after being torn to pieces utterly
+    they will be created anew; The lowest heaven is adorned with stars as a guard against every rebellious
+    devil; Whether the adversary, devils or deceiving spirits have access to God''s council [contrast
+    between the texts]; ''Have you listened in the council (sod) of God, and limited wisdom to yourself?'';
+    God called Lord of the east and the west, or of the (many) easts and wests (sunrise and sunset points);
+    God enthroned with the host of heaven standing at his right and left deliberates; and 1 more.'
   basis: reading
 - text: 'The valley of dry bones: tagged by Claude (model), reading the Hebrew.'
   basis: reading

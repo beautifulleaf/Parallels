@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- what-was-seen-in-vision-of-god-as-divergence
 - elders-see-god-sapphire-pavement
+- what-was-seen-in-vision-of-god-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: What or whom the visionaries saw: God himself or his messenger [divergence
-    between the texts] (weight 6.7); Leaders see God with a sapphire-like pavement under his feet (weight
-    6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Leaders see God with a sapphire-like pavement under his feet (weight
+    7.7); What or whom the visionaries saw: God himself or his messenger [divergence between the texts]
+    (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Covenant ratified in blood; the elders see God: Sacrificial blood splashed on altar and
     people seals the covenant (''blood of the covenant''); A meal eaten in God''s presence seals a covenant;
@@ -40,9 +40,11 @@ evidence:
     the Boundary (sidrat al-muntaha), near the Garden of Refuge; The heavenly figure came within two bow-lengths
     or nearer (qaba qawsayn aw adna) and revealed to his servant; He saw some of the greatest signs of
     his Lord; One mighty in power (shadid al-quwa) taught him, stood poised on the highest horizon, then
-    drew near and descended; Your companion has not erred; he does not speak from desire; it is only revelation
-    revealed; Whether a prophet speaks from his own heart or desire, or by revelation [contrast between
-    the texts]; No human can see God''s face and live; A tree whose fruit gives eternal life.'
+    drew near and descended; Taken up to heaven, the mortal looks from the horizon (base of heaven) to
+    the heights of heaven and sees its awesomeness; Your companion has not erred; he does not speak from
+    desire; it is only revelation revealed; Whether a prophet speaks from his own heart or desire, or
+    by revelation [contrast between the texts]; A literary work is ''what was revealed to'' a named sage
+    or poet and what he then proclaimed; No human can see God''s face and live; and 1 more.'
   basis: reading
 - text: 'Covenant ratified in blood; the elders see God: tagged by Claude (model), reading the Hebrew.'
   basis: reading

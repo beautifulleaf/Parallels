@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On judgment day people are either wretched (shaqi) or blessed (sa''id)
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition
@@ -38,8 +38,9 @@ evidence:
 - text: 'Only in The witnessed day; the wretched and the blessed: Hell and paradise last as long as heavens
     and earth endure, except as God wills; On that day no soul speaks except by God''s leave; Moses was
     given the Book and people differed over it; In the fire the damned have sighing and sobbing (zafir
-    wa-shahiq); Every nation has a fixed term that cannot be advanced or delayed by an hour; Unbelievers
-    defend their practice as what they found their fathers doing.'
+    wa-shahiq); The epithet ''he does what he wills'' (Eg. Mrr=f-jrr=f, Ar. faʿʿālun li-mā yurīd) [neutral]
+    [divergence between the texts]; Every nation has a fixed term that cannot be advanced or delayed by
+    an hour; Unbelievers defend their practice as what they found their fathers doing.'
   basis: reading
 - text: 'Michael arises, the resurrection, and the sealed book: tagged by Claude (model), reading the
     Hebrew.'

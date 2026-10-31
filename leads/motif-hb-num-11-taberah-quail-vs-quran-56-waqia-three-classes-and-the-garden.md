@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Bird-meat as desired food: punished or granted [contrast between
-    the texts] (weight 6.7); Wind brings quail in vast quantity to feed the people (weight 5.8). Pair
-    score 12.5.'
+    the texts] (weight 7.7); Wind brings quail in vast quantity to feed the people (weight 6.8). Pair
+    score 14.6.'
   basis: reading
 - text: 'Only in Taberah, the craving, the seventy elders and the quail: Fire from God burns part of the
-    camp for complaint; Spirit rests on people and they prophesy (ecstatically); A ''rabble'' or mixed
-    crowd among the people instigates sin; Leader refuses to silence prophets outside the sanctioned place:
-    ''would all were prophets''; Leader doubts God can supply; God replies ''Is my hand too short?'' [divergence
-    between the texts]; Longing for fish, cucumbers, melons, leeks, onions and garlic of Egypt; Longing
-    for fish, cucumbers, melons, leeks, onions and garlic of Egypt [divergence between the texts]; Craved
-    food granted, then plague strikes while meat is still in their mouths; Leader protests he did not
-    conceive or bear the people to carry them like a nurse; Exhausted leader asks God to kill him; Manna
-    described: like coriander seed, look of bdellium, taste of oil cakes, falls with the dew; Wind brings
-    quail in vast quantity to feed the people [divergence between the texts]; and 7 more.'
+    camp for complaint; A ''rabble'' or mixed crowd among the people instigates sin; Leader refuses to
+    silence prophets outside the sanctioned place: ''would all were prophets''; Leader doubts God can
+    supply; God replies ''Is my hand too short?'' [divergence between the texts]; Spirit rests on people
+    and they prophesy (ecstatically); Longing for fish, cucumbers, melons, leeks, onions and garlic of
+    Egypt; Longing for fish, cucumbers, melons, leeks, onions and garlic of Egypt [divergence between
+    the texts]; Craved food granted, then plague strikes while meat is still in their mouths; Leader protests
+    he did not conceive or bear the people to carry them like a nurse; Exhausted leader asks God to kill
+    him; Manna described: like coriander seed, look of bdellium, taste of oil cakes, falls with the dew;
+    Wind brings quail in vast quantity to feed the people [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Only in Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
     of the Right and their Garden: In paradise they have the flesh of fowl as they desire; Immortal youths
@@ -41,11 +41,12 @@ evidence:
     earlier generations and a few of the later; In paradise they hear no idle talk or sin, only the saying
     ''Peace, peace''; The Companions of the Right are among thornless lote trees (sidr makhdud) and layered
     talh (acacia/banana) with extended shade and poured water; Humanity sorted into three classes: Companions
-    of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; The earth is shaken
-    violently and the mountains crumbled into scattered dust (haba''); Whether any fruit in the Garden
-    is forbidden [contrast between the texts]; Abundant fruit in paradise, neither cut off (seasonless)
+    of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; Young servers go
+    round with a variety of vessels serving a mixed drink [divergence between the texts]; The earth is
+    shaken violently and the mountains crumbled into scattered dust (haba''); Whether any fruit in the
+    Garden is forbidden [contrast between the texts]; Abundant fruit in paradise, neither cut off (seasonless)
     nor forbidden; Into how many groups humankind is sorted at the end [divergence between the texts];
-    Paradise drink from which they suffer no headache nor intoxication; and 10 more.'
+    and 11 more.'
   basis: reading
 - text: 'Taberah, the craving, the seventy elders and the quail: tagged by Claude (model), reading the
     Hebrew.'

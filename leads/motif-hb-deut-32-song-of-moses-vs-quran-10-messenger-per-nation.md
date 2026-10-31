@@ -19,27 +19,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I kill and I make alive, I wound and I heal; there is no god beside
-    me (weight 5.1). Pair score 5.1.'
+    me (weight 6.1). Pair score 6.1.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 30 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; Whether God, or the gods, eat the offerings [contrast between the texts]; and 30
+    more.'
   basis: reading
 - text: 'Only in A messenger for every nation; no ransom: Every nation has a messenger, and it is judged
     justly when he comes; The prophet disclaims knowledge of the unseen and power over benefit or harm;
     Scoffers taunt the prophet: ''Where is the word of YHWH? Let it come!''; When punishment comes the
-    doomed can only confess ''we were wrongdoers'', too late; Every nation has a fixed term that cannot
-    be advanced or delayed by an hour; Each wrongdoer would ransom himself with all that is on earth,
-    if he could; Divine punishment falls on a town by night or while its people take the midday rest;
-    No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too
-    costly; Deniers dare the prophet: ''Bring us what you threaten, if you are truthful''.'
+    doomed can only confess ''we were wrongdoers'', too late; A man''s (or nation''s) term is fixed to
+    the hour: nothing is added or advanced; Every nation has a fixed term that cannot be advanced or delayed
+    by an hour; Each wrongdoer would ransom himself with all that is on earth, if he could; Divine punishment
+    falls on a town by night or while its people take the midday rest; No man can ransom his brother or
+    give God a ransom (kofer) for him; the redemption of life is too costly; Deniers dare the prophet:
+    ''Bring us what you threaten, if you are truthful''.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

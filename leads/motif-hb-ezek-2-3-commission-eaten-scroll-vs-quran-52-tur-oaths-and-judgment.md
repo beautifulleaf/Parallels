@@ -20,7 +20,7 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: Oath cluster: by the Mount (al-Tur), a book inscribed on unrolled
     parchment (raqq manshur), the frequented House, the raised roof and the swelling/kindled sea (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ezekiel''s commission as ''son of man'' to the rebellious house; he eats the scroll sweet
     as honey: Heavenly voice cries ''Blessed be the glory of YHWH from his place''; God makes the prophet''s

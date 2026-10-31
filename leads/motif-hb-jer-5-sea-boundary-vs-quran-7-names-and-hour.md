@@ -20,26 +20,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foolish people who have eyes but do not see and ears but do not
-    hear (weight 5.4). Pair score 5.4.'
+    hear (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The sea''s sand boundary; houses full of deceit: The wicked lie in wait like fowlers
     setting traps; their houses are full of deceit like a cage full of birds; Prophets prophesy falsely,
-    priests rule by their direction, and the people love it so; God sets a boundary the sea may not pass,
-    so it will never again cover the earth; Accusation of oppressing the poor: taking pledges, stripping
-    the naked, denying water and bread, sending widows away empty; Refrain: ''Shall I not punish them
-    for these things? Shall I not avenge myself on such a nation?''; Obedience brings early and late rain;
+    priests rule by their direction, and the people love it so; Accusation of oppressing the poor: taking
+    pledges, stripping the naked, denying water and bread, sending widows away empty; Refrain: ''Shall
+    I not punish them for these things? Shall I not avenge myself on such a nation?''; God sets a boundary
+    the sea may not pass, so it will never again cover the earth; Obedience brings early and late rain;
     idolatry makes God shut up the heavens.'
   basis: reading
 - text: 'Only in Made for hell, the beautiful names, the unknown Hour: God has created many jinn and humans
     for hell; The charge that a prophet is mad; The charge that a prophet is mad [response between the
     texts]; Having eyes that do not see and ears that do not hear, said of idols or of people [divergence
-    between the texts]; God leads deniers step by step to ruin and grants them respite (istidraj); The
-    prophet disclaims knowledge of the unseen and power over benefit or harm; Among Moses'' people is
-    a community that guides by the truth and acts justly by it; To God belong the most beautiful names;
-    call on him by them; The seer is told to shut up and seal the vision/book until the end; Every nation
-    has a fixed term that cannot be advanced or delayed by an hour; The heedless are like cattle, or even
-    more astray; God''s plotting (makr / kayd) outwits the schemers; none is safe from it but the losers;
-    and 2 more.'
+    between the texts]; Those with eyes and ears who neither see nor hear; God leads deniers step by step
+    to ruin and grants them respite (istidraj); The prophet disclaims knowledge of the unseen and power
+    over benefit or harm; Among Moses'' people is a community that guides by the truth and acts justly
+    by it; To God belong the most beautiful names; call on him by them; The seer is told to shut up and
+    seal the vision/book until the end; Every nation has a fixed term that cannot be advanced or delayed
+    by an hour; The heedless are like cattle, or even more astray; and 4 more.'
   basis: reading
 - text: 'The sea''s sand boundary; houses full of deceit: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,13 +20,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A people of great stature is destroyed and cut off at the root (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in The oracle against Israel; sandals, pledged garments and silenced prophets: The Amorite
-    was tall as cedars and strong as oaks, yet God destroyed his fruit above and roots below; A man and
+- text: 'Only in The oracle against Israel; sandals, pledged garments and silenced prophets: A man and
     his father go in to the same young woman, profaning God''s name; The people made the Nazirites drink
     wine and commanded the prophets not to prophesy; They lie down beside every altar on garments taken
     in pledge and drink wine of the fined; In that day even the bravest warrior will flee away naked;
+    The Amorite was tall as cedars and strong as oaks, yet God destroyed his fruit above and roots below;
     Oracle formula ''For three transgressions of X, and for four, I will not revoke it''; Clothing at
     every altar or place of prostration; They sell the righteous for silver and the needy for a pair of
     sandals; Destroyed generations cried out when it was no longer a time for escape (lata hina manas);

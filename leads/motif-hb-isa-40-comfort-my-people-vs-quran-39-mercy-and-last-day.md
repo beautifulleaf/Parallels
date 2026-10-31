@@ -20,22 +20,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the Day of Resurrection the whole earth is in God''s grip and
-    the heavens folded in his right hand (weight 6.7). Pair score 6.7.'
+    the heavens folded in his right hand (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
     God tends his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God
     brings out the starry host by number and calls each by name; none is missing; God sits enthroned above
-    the circle (hug) of the earth; its inhabitants are like grasshoppers; Those who wait for YHWH renew
-    strength, mount up with wings like eagles, run and not be weary; Nations are like a drop from a bucket
-    and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering; A voice
-    cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for our God'';
-    Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed the mountains
-    in scales?; God made everything grow in due weight and sends it down only in known measure; A double
-    portion (k-p-l) from God [divergence between the texts]; A herald of good news (mevasseret Tsiyyon)
-    goes up on a high mountain to announce ''Behold your God!''; Satire on the making of idols: craftsman
-    casts, goldsmith overlays, the poor choose wood that will not rot so the idol will not totter; and
-    18 more.'
+    the circle (hug) of the earth; its inhabitants are like grasshoppers; Nations are like a drop from
+    a bucket and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering;
+    A voice cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for
+    our God''; Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed
+    the mountains in scales?; God made everything grow in due weight and sends it down only in known measure;
+    A double portion (k-p-l) from God [divergence between the texts]; A herald of good news (mevasseret
+    Tsiyyon) goes up on a high mountain to announce ''Behold your God!''; Satire on the making of idols:
+    craftsman casts, goldsmith overlays, the poor choose wood that will not rot so the idol will not totter;
+    Human life like grass or plants that wither [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'Only in Do not despair of mercy; the earth in God''s grip; the throngs to hell and Garden: The
     angels are seen surrounding the Throne, glorifying the praise of their Lord; The blessed praise God
@@ -47,8 +46,9 @@ evidence:
     chance (karra)''; If you associate partners with God your deeds will come to nothing; At the first
     trumpet blast all in heaven and earth swoon (sa''iqa) except whom God wills; at the second they stand
     looking; The earth shines (lit up) with God''s glory; The earth shines (lit up) with God''s glory
-    [divergence between the texts]; Who holds the keys that open and shut [divergence between the texts];
-    The keepers of hell ask ''Did not messengers from among you come to you?''; and 6 more.'
+    [divergence between the texts]; At the gate of the netherworld the gatekeepers question those who
+    arrive [divergence between the texts]; Heaven and earth held in a hand or under the feet [divergence
+    between the texts]; and 14 more.'
   basis: reading
 - text: 'Comfort my people; a voice in the wilderness; to whom will you liken God: tagged by Claude (model),
     reading the Hebrew.'

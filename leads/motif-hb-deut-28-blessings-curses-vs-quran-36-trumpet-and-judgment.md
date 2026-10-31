@@ -19,18 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God willed he would blot out their eyes or transform them (maskh)
-    in their places so they could neither go on nor return (weight 6.7). Pair score 6.7.'
+    in their places so they could neither go on nor return (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Blessings and the great curses: Futility curse: betroth a wife another lies with, build
-    a house and not live in it, plant a vineyard and not enjoy it; Blessed in city and field, in coming
-    in and going out, basket and kneading trough; Smitten with the boils of Egypt, tumors, scab and itch
-    that cannot be healed; Covenant at Moab in addition to the covenant at Horeb; Delicate woman who never
-    set foot on the ground secretly eats her afterbirth and children in the siege; Enemies come out one
-    way and flee seven ways; King and people exiled to an unknown nation to serve gods of wood and stone;
-    As God rejoiced to do you good, so he will rejoice to destroy you; God will make you the head and
-    not the tail; God puts an iron yoke on your neck; In the morning you will say: would it were evening;
-    in the evening: would it were morning; God will send you back to Egypt in ships to be sold as slaves,
-    and no one will buy; and 20 more.'
+- text: 'Only in Blessings and the great curses: Blessed in city and field, in coming in and going out,
+    basket and kneading trough; Covenant at Moab in addition to the covenant at Horeb; Delicate woman
+    who never set foot on the ground secretly eats her afterbirth and children in the siege; Enemies come
+    out one way and flee seven ways; King and people exiled to an unknown nation to serve gods of wood
+    and stone; As God rejoiced to do you good, so he will rejoice to destroy you; God will make you the
+    head and not the tail; God puts an iron yoke on your neck; God will send you back to Egypt in ships
+    to be sold as slaves, and no one will buy; The stranger in your midst rises higher and higher while
+    you sink; Smitten with the boils of Egypt, tumors, scab and itch that cannot be healed; Have you seen
+    what you sow? Do you make it grow, or are we the grower? We could make it chaff; and 20 more.'
   basis: reading
 - text: 'Only in The trumpet, the sleepers raised, the Garden and the witnessing limbs: The people of
     the Garden recline with their spouses in shade on couches (ara''ik), with fruit and whatever they
@@ -41,8 +40,8 @@ evidence:
     when they wake from the dust [divergence between the texts]; A horn blown on the last day, and whom
     it gathers [divergence between the texts]; The prophet heard or dismissed as a poet or singer [divergence
     between the texts]; The resurrected cry ''Woe to us, who has raised us from our sleeping place (marqad)?'';
-    On judgment day tongues, hands and feet testify against people; No host from heaven was needed: a
-    single Shout (sayha) and they were extinguished; and 2 more.'
+    The dead wake in their resting place [divergence between the texts]; On judgment day tongues, hands
+    and feet testify against people; and 4 more.'
   basis: reading
 - text: 'Blessings and the great curses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

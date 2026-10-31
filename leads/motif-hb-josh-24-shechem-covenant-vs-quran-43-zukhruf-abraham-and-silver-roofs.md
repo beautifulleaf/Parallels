@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people are told to choose this day whom they will serve (weight
-    6.7); Hero''s father makes, sells or worships idols (weight 4.8). Pair score 11.5.'
+    7.7); Hero''s father makes, sells or worships idols (weight 5.9). Pair score 13.6.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
@@ -40,15 +40,15 @@ evidence:
     two easts''; But for fear all would become one community, God would give unbelievers houses with silver
     roofs, stairways, doors, couches and gold ornament; Abraham declares to his father and people that
     he is free of what they worship, except the one who created him; How Abraham parts from his father
-    and his father''s land or gods [divergence between the texts]; God expands provision (rizq) for whom
-    he wills and restricts it; Lying on ivory beds eating lambs and calves, improvising on the harp like
-    David, drinking wine from bowls and anointing with finest oils; What is given in this life is passing
-    enjoyment (mata''); what is with God is better and more lasting; Opponents ask why the revelation
-    was not sent down to some great man of the two towns; The wealth of the wicked: a scandal to be explained,
-    or worthless enjoyment [divergence between the texts]; Abraham''s confession is left as an enduring
-    word among his descendants (''aqib); Whoever turns from God''s remembrance is assigned a devil as
-    constant companion (qarin), whom he curses at the judgment; The prophet cannot make the dead or deaf
-    hear, nor guide the blind; and 2 more.'
+    and his father''s land or gods [divergence between the texts]; An evil spirit attached to a person
+    is wished away to a vast, measured distance [divergence between the texts]; God expands provision
+    (rizq) for whom he wills and restricts it; A dwelling built or roofed with silver and gold [divergence
+    between the texts]; Lying on ivory beds eating lambs and calves, improvising on the harp like David,
+    drinking wine from bowls and anointing with finest oils; What is given in this life is passing enjoyment
+    (mata''); what is with God is better and more lasting; Opponents ask why the revelation was not sent
+    down to some great man of the two towns; The wealth of the wicked: a scandal to be explained, or worthless
+    enjoyment [divergence between the texts]; Abraham''s confession is left as an enduring word among
+    his descendants (''aqib); and 4 more.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged
     by Claude (model), reading the Hebrew.'

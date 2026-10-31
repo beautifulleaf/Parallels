@@ -13,25 +13,25 @@ layers:
 - motif
 motifs:
 - middle-bar-end-to-end
+- embroidered-entrance-screen
+- acacia-frames-on-silver-bases
 - eleven-goat-hair-curtains
 - layered-coverings-ram-skin-tahash
-- acacia-frames-on-silver-bases
 - fifty-loops-and-clasps
-- embroidered-entrance-screen
 - veil-separating-holy-of-holies
 - tabernacle-curtains-with-cherubim
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: A middle bar runs through the frames from end to end (weight 6.7);
-    Eleven goat-hair curtains form the tent over the tabernacle (weight 6.7); Outer coverings of red-dyed
-    ram skins and tahash skins (weight 6.7); Tabernacle walls of acacia frames set in silver sockets (weight
-    6.7); Curtains joined by fifty loops and fifty clasps (weight 6.7); An embroidered screen at the entrance
-    of the tent or court (weight 6.7); A veil (parokhet) divides the holy place from the holy of holies
-    (weight 6.3); Tabernacle curtains or veil woven with cherubim (weight 6.3). Pair score 52.7.'
+- text: 'Shared motifs, rarest first: A middle bar runs through the frames from end to end (weight 7.7);
+    An embroidered screen at the entrance of the tent or court (weight 7.7); Tabernacle walls of acacia
+    frames set in silver sockets (weight 7.7); Eleven goat-hair curtains form the tent over the tabernacle
+    (weight 7.7); Outer coverings of red-dyed ram skins and tahash skins (weight 7.7); Curtains joined
+    by fifty loops and fifty clasps (weight 7.7); A veil (parokhet) divides the holy place from the holy
+    of holies (weight 7.3); Tabernacle curtains or veil woven with cherubim (weight 7.3). Pair score 61.2.'
   basis: reading
 - text: 'Only in Tabernacle curtains, frames and veil: The lampstand stands on the south side and the
-    table on the north; The innermost room, the holy of holies, holds the ark; Covering of tahash skins
-    (an unidentified animal); The sanctuary is built after a pattern shown by God on the mountain.'
+    table on the north; Covering of tahash skins (an unidentified animal); The innermost room, the holy
+    of holies, holds the ark; The sanctuary is built after a pattern shown by God on the mountain.'
   basis: reading
 - text: 'Only in Bezalel appointed; too many gifts; making of the curtains and frames: God gives the master
     craftsmen the ability to teach others; The people bring more than enough and must be told to stop
@@ -72,41 +72,28 @@ matches:
       text: וַיַּ֖עַשׂ אֶת הַבְּרִ֣יחַ הַתִּיכֹ֑ן לִבְרֹ֨חַ֙ בְּת֣וֹךְ הַקְּרָשִׁ֔ים מִן הַקָּצֶ֖ה אֶל
         הַקָּצֶֽה
 - kind: shared
-  label: Eleven goat-hair curtains form the tent over the tabernacle
+  label: An embroidered screen at the entrance of the tent or court
   sides:
   - tradition: judaism
     passages:
-    - ref: Exod 26:7
+    - ref: Exod 26:36
       lang: he
-      text: וְעָשִׂ֨יתָ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל הַמִּשְׁכָּ֑ן עַשְׁתֵּי עֶשְׂרֵ֥ה יְרִיעֹ֖ת תַּעֲשֶׂ֥ה
-        אֹתָֽם
-    - ref: Exod 26:8
+      text: וְעָשִׂ֤יתָ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ
+        מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם
+    - ref: Exod 26:37
       lang: he
-      text: אֹ֣רֶךְ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה
-        הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת
+      text: וְעָשִׂ֣יתָ לַמָּסָ֗ךְ חֲמִשָּׁה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֤ אֹתָם֙ זָהָ֔ב וָוֵיהֶ֖ם
+        זָהָ֑ב וְיָצַקְתָּ֣ לָהֶ֔ם חֲמִשָּׁ֖ה אַדְנֵ֥י נְחֹֽשֶׁת
   - tradition: judaism
     passages:
-    - ref: Exod 36:14
+    - ref: Exod 36:37
       lang: he
-      text: וַיַּ֨עַשׂ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל הַמִּשְׁכָּ֑ן עַשְׁתֵּֽי עֶשְׂרֵ֥ה יְרִיעֹ֖ת עָשָׂ֥ה
-        אֹתָֽם
-    - ref: Exod 36:15
+      text: וַיַּ֤עַשׂ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ
+        מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם
+    - ref: Exod 36:38
       lang: he
-      text: אֹ֜רֶךְ הַיְרִיעָ֣ה הָאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְאַרְבַּ֣ע אַמּ֔וֹת רֹ֖חַב הַיְרִיעָ֣ה
-        הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת
-- kind: shared
-  label: Outer coverings of red-dyed ram skins and tahash skins
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 26:14
-      lang: he
-      text: וְעָשִׂ֤יתָ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה
-  - tradition: judaism
-    passages:
-    - ref: Exod 36:19
-      lang: he
-      text: וַיַּ֤עַשׂ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵלִ֖ים מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה
+      text: וְאֶת עַמּוּדָ֤יו חֲמִשָּׁה֙ וְאֶת וָ֣וֵיהֶ֔ם וְצִפָּ֧ה רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם זָהָ֑ב
+        וְאַדְנֵיהֶ֥ם חֲמִשָּׁ֖ה נְחֹֽשֶׁת
 - kind: shared
   label: Tabernacle walls of acacia frames set in silver sockets
   sides:
@@ -149,6 +136,42 @@ matches:
         וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֤י אֲדָנִים֙ שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת
         הַקֶּ֥רֶשׁ הָאֶחָֽד
 - kind: shared
+  label: Eleven goat-hair curtains form the tent over the tabernacle
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 26:7
+      lang: he
+      text: וְעָשִׂ֨יתָ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל הַמִּשְׁכָּ֑ן עַשְׁתֵּי עֶשְׂרֵ֥ה יְרִיעֹ֖ת תַּעֲשֶׂ֥ה
+        אֹתָֽם
+    - ref: Exod 26:8
+      lang: he
+      text: אֹ֣רֶךְ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה
+        הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת
+  - tradition: judaism
+    passages:
+    - ref: Exod 36:14
+      lang: he
+      text: וַיַּ֨עַשׂ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל הַמִּשְׁכָּ֑ן עַשְׁתֵּֽי עֶשְׂרֵ֥ה יְרִיעֹ֖ת עָשָׂ֥ה
+        אֹתָֽם
+    - ref: Exod 36:15
+      lang: he
+      text: אֹ֜רֶךְ הַיְרִיעָ֣ה הָאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְאַרְבַּ֣ע אַמּ֔וֹת רֹ֖חַב הַיְרִיעָ֣ה
+        הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת
+- kind: shared
+  label: Outer coverings of red-dyed ram skins and tahash skins
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 26:14
+      lang: he
+      text: וְעָשִׂ֤יתָ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה
+  - tradition: judaism
+    passages:
+    - ref: Exod 36:19
+      lang: he
+      text: וַיַּ֤עַשׂ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵלִ֖ים מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה
+- kind: shared
   label: Curtains joined by fifty loops and fifty clasps
   sides:
   - tradition: judaism
@@ -181,29 +204,6 @@ matches:
       lang: he
       text: וַיַּ֜עַשׂ לֻֽלָאֹ֣ת חֲמִשִּׁ֗ים עַ֚ל שְׂפַ֣ת הַיְרִיעָ֔ה הַקִּיצֹנָ֖ה בַּמַּחְבָּ֑רֶת וַחֲמִשִּׁ֣ים
         לֻלָאֹ֗ת עָשָׂה֙ עַל שְׂפַ֣ת הַיְרִיעָ֔ה הַחֹבֶ֖רֶת הַשֵּׁנִֽית
-- kind: shared
-  label: An embroidered screen at the entrance of the tent or court
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 26:36
-      lang: he
-      text: וְעָשִׂ֤יתָ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ
-        מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם
-    - ref: Exod 26:37
-      lang: he
-      text: וְעָשִׂ֣יתָ לַמָּסָ֗ךְ חֲמִשָּׁה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֤ אֹתָם֙ זָהָ֔ב וָוֵיהֶ֖ם
-        זָהָ֑ב וְיָצַקְתָּ֣ לָהֶ֔ם חֲמִשָּׁ֖ה אַדְנֵ֥י נְחֹֽשֶׁת
-  - tradition: judaism
-    passages:
-    - ref: Exod 36:37
-      lang: he
-      text: וַיַּ֤עַשׂ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ
-        מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם
-    - ref: Exod 36:38
-      lang: he
-      text: וְאֶת עַמּוּדָ֤יו חֲמִשָּׁה֙ וְאֶת וָ֣וֵיהֶ֔ם וְצִפָּ֧ה רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם זָהָ֑ב
-        וְאַדְנֵיהֶ֥ם חֲמִשָּׁ֖ה נְחֹֽשֶׁת
 - kind: shared
   label: A veil (parokhet) divides the holy place from the holy of holies
   sides:

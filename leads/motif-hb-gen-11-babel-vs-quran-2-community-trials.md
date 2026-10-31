@@ -18,15 +18,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mankind once one, then divided [divergence between the texts] (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Tower of Babel: Babel explained from balal, to confuse; God scatters humanity over
-    the earth; God confuses human language; God comes down to see what humans are doing; Builders seek
-    to make a name for themselves and avoid dispersal; All humanity once spoke one language; Why humans
-    speak many languages [divergence between the texts]; Humankind was originally one (in speech or community)
-    and then divided [divergence between the texts]; Building with baked bricks and bitumen instead of
-    stone and mortar; Humans build a tower whose top reaches heaven; Humans build a tower whose top reaches
-    heaven [divergence between the texts]; God speaks in the plural (us, our) as if to a divine council.'
+    the earth; God comes down to see what humans are doing; Why humans speak many languages [divergence
+    between the texts]; Humankind was originally one (in speech or community) and then divided [divergence
+    between the texts]; God confuses human language; All humanity once spoke one language; Building with
+    baked bricks and bitumen instead of stone and mortar; Humans build a tower whose top reaches heaven
+    [divergence between the texts]; God speaks in the plural (us, our) as if to a divine council; Humans
+    build a tower whose top reaches heaven; Builders seek to make a name for themselves and avoid dispersal.'
   basis: reading
 - text: 'Only in The corrupter, God in clouds, one community, fighting in the sacred month: Who turns
     from his religion and dies an unbeliever, his deeds are void in this world and the next; Fighting
@@ -34,10 +34,11 @@ evidence:
     to them in canopies of cloud with the angels?; Mankind was one community; God sent prophets as bearers
     of good news and warners with the Book; Coming with the clouds of heaven [divergence between the texts];
     YHWH comes and all the holy ones (angels) with him; God coming down from heaven [contrast between
-    the texts]; Persecution (fitna) is worse than killing; A man whose speech pleases, who calls God to
-    witness, but goes forth to destroy tillage and offspring; One like a son of man (kevar enash) comes
-    with the clouds of heaven to the Ancient of Days; Messenger and believers, shaken, cry ''When is God''s
-    help?'' Truly God''s help is near; God provides for whom he wills without reckoning (bi-ghayri hisab).'
+    the texts]; What is good to oneself may be an offense to a god, and what seems abominable to one''s
+    heart may be good to one''s god; Persecution (fitna) is worse than killing; A man whose speech pleases,
+    who calls God to witness, but goes forth to destroy tillage and offspring; One like a son of man (kevar
+    enash) comes with the clouds of heaven to the Ancient of Days; A man whose speech is sweet (pleasing)
+    but who is a quarreller and sows strife; and 2 more.'
   basis: reading
 - text: 'The Tower of Babel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

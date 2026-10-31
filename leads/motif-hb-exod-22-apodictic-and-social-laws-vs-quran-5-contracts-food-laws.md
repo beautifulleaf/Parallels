@@ -19,28 +19,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Flesh of an animal torn by a beast of prey is not to be eaten [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant Code - sorceress, stranger, widow, loans, firstborn: Lying with an animal is
     a capital crime; Whoever sacrifices to other gods is devoted to destruction; Flesh torn by beasts
-    in the field is not eaten but thrown to dogs; Do not revile God or curse a ruler of your people; God
-    hears the cry of the oppressed widow and orphan and punishes measure for measure; Newborn animal stays
-    seven days with its mother before it may be sacrificed; Do not charge interest to the poor of my people
-    [response between the texts]; Do not oppress the stranger, for you were strangers in Egypt; You shall
-    not let a sorceress live; Firstborn sons and animals belong to God; A cloak taken in pledge must be
-    returned before sunset; To whom and how widely the ban on interest applies [divergence between the
-    texts]; and 2 more.'
+    in the field is not eaten but thrown to dogs; Do not revile God or curse a ruler of your people; Newborn
+    animal stays seven days with its mother before it may be sacrificed; Do not charge interest to the
+    poor of my people [response between the texts]; You shall not let a sorceress live; Firstborn sons
+    and animals belong to God; Do not oppress the stranger, for you were strangers in Egypt; To whom and
+    how widely the ban on interest applies [divergence between the texts]; A cloak taken in pledge must
+    be returned before sunset; God hears the cry of the oppressed widow and orphan and punishes measure
+    for measure; and 2 more.'
   basis: reading
 - text: 'Only in Contracts, pilgrim sanctity and the forbidden foods: The food of the People of the Book
-    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Sacrificial
-    animals (hady) marked with garlands (qalāʾid) are inviolable; Believers may marry chaste women of
-    the People of the Book; ''Today I have perfected your religion and completed my favor''; The sacred
-    month and God''s rites must not be profaned; Forbidden: the strangled, the beaten to death, the fallen
-    and the gored animal; What trained hunting animals (dogs, birds of prey) catch is lawful, with God''s
-    name pronounced; Divination by shaking or drawing arrows (belomancy); Eating carrion or torn flesh
-    is forbidden or defiling [divergence between the texts]; Seeking decisions by divining arrows (azlām)
-    is forbidden; Eat only what God''s name was pronounced over; what was slaughtered without it is forbidden;
-    and 10 more.'
+    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Believers
+    may marry chaste women of the People of the Book; ''Today I have perfected your religion and completed
+    my favor''; The sacred month and God''s rites must not be profaned; Forbidden: the strangled, the
+    beaten to death, the fallen and the gored animal; What trained hunting animals (dogs, birds of prey)
+    catch is lawful, with God''s name pronounced; Divination by shaking or drawing arrows (belomancy);
+    Eating carrion or torn flesh is forbidden or defiling [divergence between the texts]; Seeking decisions
+    by divining arrows (azlām) is forbidden; Sacrificial animals (hady) marked with garlands (qalāʾid)
+    are inviolable; Eat only what God''s name was pronounced over; what was slaughtered without it is
+    forbidden; and 10 more.'
   basis: reading
 - text: 'Covenant Code - sorceress, stranger, widow, loans, firstborn: tagged by Claude (model), reading
     the Hebrew.'

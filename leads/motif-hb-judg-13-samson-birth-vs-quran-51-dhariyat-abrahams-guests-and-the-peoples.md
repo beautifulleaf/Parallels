@@ -19,15 +19,15 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A barren wife is told by a divine messenger that she will bear a
-    son (weight 5.8); The patriarch''s wife is barren (weight 5.2). Pair score 11.0.'
+    son (weight 6.8); The patriarch''s wife is barren (weight 6.0). Pair score 12.9.'
   basis: reading
 - text: 'Only in Annunciation of Samson''s birth to Manoah''s wife: Divine messenger ascends to heaven
-    in the flame of the altar; Divine visitor refuses the meal offered him and redirects it to God as
-    an offering; Pregnant mother told to abstain from wine and unclean food for the child''s sake; Divine
-    being refuses to tell his name, calling it wonderful or secret; God''s spirit appears to a woman in
-    the form of a well-proportioned man; Witness fears he will die because he has seen God or an angel;
-    Child consecrated as a nazirite from the womb, his hair never to be cut; A divine messenger announces
-    a son to a barren couple [divergence between the texts]; Spirit of God rushes upon a man, giving him
+    in the flame of the altar; Pregnant mother told to abstain from wine and unclean food for the child''s
+    sake; Divine being refuses to tell his name, calling it wonderful or secret; Divine visitor refuses
+    the meal offered him and redirects it to God as an offering; God''s spirit appears to a woman in the
+    form of a well-proportioned man; Witness fears he will die because he has seen God or an angel; Child
+    consecrated as a nazirite from the womb, his hair never to be cut; A divine messenger announces a
+    son to a barren couple [divergence between the texts]; Spirit of God rushes upon a man, giving him
     strength or ecstasy.'
   basis: reading
 - text: 'Only in Abraham''s honored guests, the barren old wife striking her face, the stones of clay
@@ -38,10 +38,11 @@ evidence:
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
     old woman!''; Angels seize the hesitating family by the hand and lead them out; The answer given to
-    the old woman''s doubt [divergence between the texts]; Heavenly visitors eat a human meal; Host runs
-    to welcome strangers, washes their feet and feeds them [divergence between the texts]; How Abraham
-    learns of Sodom''s fate, and his response [divergence between the texts]; Who Abraham''s visitors
-    are [divergence between the texts]; and 18 more.'
+    the old woman''s doubt [divergence between the texts]; Supernatural envoys who come to seize or destroy
+    do not eat the food offered them [divergence between the texts]; Host runs to welcome strangers, washes
+    their feet and feeds them [divergence between the texts]; The host, seeing the divine visitor, has
+    his household prepare an animal from the herd (lamb, calf) for the guest; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; and 23 more.'
   basis: reading
 - text: 'Annunciation of Samson''s birth to Manoah''s wife: tagged by Claude (model), reading the Hebrew.'
   basis: reading

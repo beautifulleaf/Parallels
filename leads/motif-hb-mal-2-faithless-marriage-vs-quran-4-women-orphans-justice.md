@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether separation of spouses is allowed or hated by God [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in One father, one God; foreign wives and the wife of one''s youth: The people cover God''s
     altar with tears, weeping and groaning because he no longer accepts their offering; ''I hate sending
-    away (divorce)'', says YHWH, and covering one''s garment with violence; God is witness between a man
-    and the wife of his youth, his companion and ''wife of your covenant''; Husband writes a bill of divorcement
+    away (divorce)'', says YHWH, and covering one''s garment with violence; Husband writes a bill of divorcement
     for ''some indecency'' and sends her away [contrast between the texts]; One origin (one father, one
     pair, one God) as ground for conduct toward others [divergence between the texts]; God''s attitude
-    to divorce [contrast between the texts]; ''Have we not all one father? Has not one God created us?
+    to divorce [contrast between the texts]; God is witness between a man and the wife of his youth, his
+    companion and ''wife of your covenant''; ''Have we not all one father? Has not one God created us?
     Why do we deal treacherously with one another?''; Marrying foreign women will lead the sons into idolatry;
     Husband writes a bill of divorcement for ''some indecency'' and sends her away.'
   basis: reading
@@ -37,9 +37,9 @@ evidence:
     inheritance [divergence between the texts]; Form: ''They ask you for a ruling (yastaftūnaka); say:
     God gives you a ruling''; Do not leave a wife ''suspended'' (kal-muʿallaqa), neither married nor free;
     Stand firm for justice as witnesses for God even against yourselves, parents and kin, rich or poor;
-    Judge fairly, favoring neither the poor nor the great; Guardians must keep orphans'' property intact
-    and hand it over when they come of age; If God wills he takes you away and brings another people in
-    your place.'
+    Guardians must keep orphans'' property intact and hand it over when they come of age; Judge fairly,
+    favoring neither the poor nor the great; If God wills he takes you away and brings another people
+    in your place.'
   basis: reading
 - text: 'One father, one God; foreign wives and the wife of one''s youth: tagged by Claude (model), reading
     the Hebrew.'

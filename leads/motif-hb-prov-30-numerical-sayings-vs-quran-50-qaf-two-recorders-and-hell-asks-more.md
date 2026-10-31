@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Four things are never satisfied: Sheol, the barren womb, earth not
-    filled with water, and fire that never says ''Enough'' (weight 6.7). Pair score 6.7.'
+    filled with water, and fire that never says ''Enough'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Agur''s numerical sayings (leech, four wonders, four small wise creatures): The adulteress
     eats, wipes her mouth and says ''I have done no wrong''; Pressing milk produces butter, pressing the
@@ -29,14 +29,13 @@ evidence:
     to his master lest he curse you; Four small but wise creatures: ants storing food in summer, rock-badgers
     housed in rock, locusts with no king marching in ranks, the lizard in kings'' palaces; Four stately
     in stride: the lion mightiest of beasts, the strutting rooster (zarzir), the he-goat, and a king with
-    his army; Under four the earth trembles: a slave who becomes king, a fool sated with food, an unloved
-    woman who marries, a maid who supplants her mistress; Catalogue of a corrupt ''generation'' (dor):
-    cursing parents, self-righteous yet unwashed, haughty, with sword-teeth devouring the poor; If you
-    have been foolish in exalting yourself, put your hand on your mouth; The leech (''aluqah) has two
-    daughters: ''Give, give!''; The locusts have no king yet all go out in ranks; The eye that mocks a
-    father and scorns a mother will be pecked out by ravens of the valley and eaten by young vultures;
-    Four wonders: the way of an eagle in the sky, a serpent on a rock, a ship in the sea, and a man with
-    a young woman (''almah); and 4 more.'
+    his army; Catalogue of a corrupt ''generation'' (dor): cursing parents, self-righteous yet unwashed,
+    haughty, with sword-teeth devouring the poor; If you have been foolish in exalting yourself, put your
+    hand on your mouth; The leech (''aluqah) has two daughters: ''Give, give!''; The locusts have no king
+    yet all go out in ranks; The eye that mocks a father and scorns a mother will be pecked out by ravens
+    of the valley and eaten by young vultures; Four wonders: the way of an eagle in the sky, a serpent
+    on a rock, a ship in the sea, and a man with a young woman (''almah); The ant, a people without strength,
+    prepares its food in summer; and 4 more.'
   basis: reading
 - text: 'Only in Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says ''Is
     there more?''; creation in six days without weariness: On the day the caller calls from a place near
@@ -48,9 +47,9 @@ evidence:
     with a driver (sa''iq) and a witness (shahid); The stupor (sakra) of death comes with the truth: ''this
     is what you tried to avoid''; Two receivers sit on the right and the left recording every word a person
     utters; At judgment the covering is removed from a person and his sight that day is sharp as iron;
-    God''s knowledge of a person''s thoughts and words, from afar or from near [divergence between the
-    texts]; God created man, knows what his soul whispers to him, and is nearer to him than his jugular
-    vein; and 13 more.'
+    Whether the work of creation brings toil and weariness on the divine [divergence between the texts];
+    Whether the work of creation brings toil and weariness on the divine [response between the texts];
+    and 25 more.'
   basis: reading
 - text: 'Agur''s numerical sayings (leech, four wonders, four small wise creatures): tagged by Claude
     (model), reading the Hebrew.'

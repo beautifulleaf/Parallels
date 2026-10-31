@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One forced to disbelieve while his heart is firm in faith is excused
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Naaman healed of leprosy; Gehazi''s greed: Prophet sends word to wash seven times in
     the Jordan; the foreigner is cured; A captive Israelite servant girl tells her foreign mistress that
@@ -40,12 +40,13 @@ evidence:
     Spirit (ruh al-qudus) brings the revelation down from God; The Sabbath was imposed only on those who
     differed about it; Parable of a secure town supplied from everywhere which was ungrateful and was
     made to taste the garment of hunger and fear; God abrogates or causes to be forgotten a verse and
-    brings a better or similar one (naskh); Only four foods are forbidden: carrion, blood, swine and what
-    is offered to other than God; Only four foods are forbidden: carrion, blood, swine and what is offered
-    to other than God [contrast between the texts]; Good foods once lawful were forbidden to the Jews
-    as punishment for their wrongdoing [response between the texts]; If you retaliate, do so in kind;
-    but patience is better; The Sabbath was imposed only on those who differed about it [response between
-    the texts]; Forbidden: what has been consecrated (invoked over) to other than God; and 10 more.'
+    brings a better or similar one (naskh); A punishment (skin disease; hunger and fear) put on the guilty
+    like a garment; The excuse that one was forced or powerless is put forward for going over to the other
+    side [contrast between the texts]; Fear (and hunger) covers a town''s people like a garment; Only
+    four foods are forbidden: carrion, blood, swine and what is offered to other than God; Only four foods
+    are forbidden: carrion, blood, swine and what is offered to other than God [contrast between the texts];
+    Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing [response between
+    the texts]; and 15 more.'
   basis: reading
 - text: 'Naaman healed of leprosy; Gehazi''s greed: tagged by Claude (model), reading the Hebrew.'
   basis: reading

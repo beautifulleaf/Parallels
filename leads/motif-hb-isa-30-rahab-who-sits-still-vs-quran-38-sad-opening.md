@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The chiefs marvel ''Has he made the gods one God?'' and urge each
-    other to stay patient with their gods (weight 6.7). Pair score 6.7.'
+    other to stay patient with their gods (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Woe to the rebellious children going down to Egypt; returning and rest; the Teacher;
     Topheth prepared: Oracle on the beasts of the Negev: a land of lioness, viper and flying seraph through

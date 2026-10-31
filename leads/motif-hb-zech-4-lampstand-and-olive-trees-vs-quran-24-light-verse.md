@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- lamp-fed-by-olive-tree-as-divergence
 - lampstand-fed-by-two-olive-trees
+- lamp-fed-by-olive-tree-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A lamp fed directly by an olive tree [divergence between the texts]
-    (weight 6.7); A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil
-    through golden pipes (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: A golden lampstand with seven lamps is flanked by two olive trees
+    that pour golden oil through golden pipes (weight 7.7); A lamp fed directly by an olive tree [divergence
+    between the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Fifth vision, the lampstand, the two olive trees and Zerubbabel: The headstone is brought
     out with shouts of ''Grace, grace to it''; ''Who has despised the day of small things?'' (small beginnings
@@ -40,10 +40,11 @@ evidence:
     light upon light; God sends down hail from mountains in the sky; the flash of his lightning nearly
     takes away sight; In houses God allowed to be raised, men undistracted by trade glorify him morning
     and evening; God created every beast from water: some go on their bellies, some on two legs, some
-    on four; Birds with outspread wings glorify God; each knows its prayer and praise; With God is the
-    fountain of life; in his light we see light; The mirage and the thirsty traveler [divergence between
-    the texts]; God drives the storm cloud to strike whom he wills or to show favor; God wraps himself
-    in light as in a garment; and 7 more.'
+    on four; Birds in flight, wings spread, praise the deity; With God is the fountain of life; in his
+    light we see light; The god titled ''light of heaven(s) and earth'' (nūr šamāmī u qaqqari / nūru l-samāwāti
+    wa-l-arḍ), and those deprived of light walk in darkness; The title ''light of heaven and earth'' given
+    to the divine [divergence between the texts]; Lightning, thunderbolts or hail sent from heaven at
+    the god''s command strike what he wills; and 11 more.'
   basis: reading
 - text: 'Fifth vision, the lampstand, the two olive trees and Zerubbabel: tagged by Claude (model), reading
     the Hebrew.'

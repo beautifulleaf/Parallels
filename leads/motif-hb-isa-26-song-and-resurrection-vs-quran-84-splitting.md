@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At the end the earth is stretched out, casts out what is in it (its
-    burdens) and empties itself (weight 6.0). Pair score 6.0.'
+    burdens) and empties itself (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Song of the strong city; your dead shall live: Other lords ruled us; they are dead, they
     will not live; shades (rephaim) will not rise; their memory is wiped out; God''s dew is a ''dew of
@@ -29,9 +29,9 @@ evidence:
     perfect peace (shalom shalom) because it trusts in him; ''My soul yearns for you in the night; my
     spirit within me seeks you at dawn''; ''We have a strong city... Open the gates that the righteous
     nation that keeps faith may enter''; In Yah YHWH is an everlasting rock (tsur olamim); What the dead
-    say when they wake from the dust [divergence between the texts]; On God''s day all that is lofty (cedars
-    of Lebanon, oaks of Bashan, towers, ships of Tarshish) is brought low and God alone exalted; The Gardens
-    of Eden have their gates opened for the righteous; and 7 more.'
+    say when they wake from the dust [divergence between the texts]; The Gardens of Eden have their gates
+    opened for the righteous; God lets the people discover the sleepers so they know his promise of resurrection
+    is true; and 7 more.'
   basis: reading
 - text: 'Only in The splitting: the book in the right hand: O man, you are toiling laboriously toward
     your Lord, and you will meet him; ''You will surely ride (pass through) stage upon stage'' (tabaqan

@@ -14,27 +14,28 @@ traditions:
 layers:
 - motif
 motifs:
-- how-noahs-story-ends-as-divergence
 - three-sons-repopulate-world
+- how-noahs-story-ends-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How the story of Noah ends [divergence between the texts] (weight
-    6.7); Three sons of the flood hero repopulate the whole earth (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Three sons of the flood hero repopulate the whole earth (weight
+    7.7); How the story of Noah ends [divergence between the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Noah''s vineyard, Ham''s sin and the curse of Canaan; Noah''s death: Curse falls on Canaan,
-    son of the offender, to be a slave of slaves; First planter of a vineyard becomes drunk; A son sees
-    his father''s nakedness and is cursed for it; Sons cover their father''s nakedness walking backward
-    with averted faces; Noah''s span of 950 years, and what it measures [divergence between the texts];
-    A son of Noah is found unworthy, and what follows [divergence between the texts]; Hero''s life or
-    mission spans 950 years.'
+    son of the offender, to be a slave of slaves; A son sees his father''s nakedness and is cursed for
+    it; Sons cover their father''s nakedness walking backward with averted faces; First planter of a vineyard
+    becomes drunk; Noah''s span of 950 years, and what it measures [divergence between the texts]; A son
+    of Noah is found unworthy, and what follows [divergence between the texts]; Hero''s life or mission
+    spans 950 years.'
   basis: reading
 - text: 'Only in Noah called and was answered: Noah called to God and God answered, saving him and his
     family from the great distress; God made Noah''s descendants the only survivors; Whether and how Noah
     speaks to God [divergence between the texts]; Refrain ''We left for him among later generations: Peace
-    upon X... thus we reward those who do good''; Hero singled out as righteous or pious; The returning
-    waters drown the pursuing army; not one survives.'
+    upon X... thus we reward those who do good''; After the flood the seed of mankind is preserved and
+    humanity rises again; Hero singled out as righteous or pious; The returning waters drown the pursuing
+    army; not one survives.'
   basis: reading
 - text: 'Noah''s vineyard, Ham''s sin and the curse of Canaan; Noah''s death: tagged by Claude (model),
     reading the Hebrew.'

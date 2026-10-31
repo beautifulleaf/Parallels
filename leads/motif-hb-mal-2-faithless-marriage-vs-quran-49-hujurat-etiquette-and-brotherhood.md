@@ -20,16 +20,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One origin (one father, one pair, one God) as ground for conduct
-    toward others [divergence between the texts] (weight 6.7); ''Have we not all one father? Has not one
-    God created us? Why do we deal treacherously with one another?'' (weight 6.7). Pair score 13.4.'
+    toward others [divergence between the texts] (weight 7.7); ''Have we not all one father? Has not one
+    God created us? Why do we deal treacherously with one another?'' (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in One father, one God; foreign wives and the wife of one''s youth: The people cover God''s
     altar with tears, weeping and groaning because he no longer accepts their offering; ''I hate sending
-    away (divorce)'', says YHWH, and covering one''s garment with violence; God is witness between a man
-    and the wife of his youth, his companion and ''wife of your covenant''; Husband writes a bill of divorcement
+    away (divorce)'', says YHWH, and covering one''s garment with violence; Husband writes a bill of divorcement
     for ''some indecency'' and sends her away [contrast between the texts]; God''s attitude to divorce
     [contrast between the texts]; Whether separation of spouses is allowed or hated by God [contrast between
-    the texts]; Marrying foreign women will lead the sons into idolatry; Husband writes a bill of divorcement
+    the texts]; God is witness between a man and the wife of his youth, his companion and ''wife of your
+    covenant''; Marrying foreign women will lead the sons into idolatry; Husband writes a bill of divorcement
     for ''some indecency'' and sends her away.'
   basis: reading
 - text: 'Only in Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and
@@ -42,10 +42,9 @@ evidence:
     are nothing but brothers, so make peace between your brothers; Believers must not put themselves before
     God and his messenger, nor raise their voices above the prophet''s or shout to him; Humanity created
     from a male and a female and made into peoples (shu''ub) and tribes to know one another; the noblest
-    is the most pious; Slander or gossip pictured as eating [divergence between the texts]; If a corrupt
-    person brings you news, verify it lest you harm a people in ignorance and come to regret it; Avoid
-    suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?; God
-    makes the deeds of the unbelievers go astray / come to nothing (ahbata a''malahum); and 3 more.'
+    is the most pious; Denial / prohibition of eavesdropping or spying on others; Slander or backbiting
+    is pictured as eating the slandered person''s flesh; Slander or gossip pictured as eating [divergence
+    between the texts]; Spying or eavesdropping on others is forbidden; and 11 more.'
   basis: reading
 - text: 'One father, one God; foreign wives and the wife of one''s youth: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
-    4.5). Pair score 4.5.'
+    5.5). Pair score 5.5.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -34,15 +34,17 @@ evidence:
     windows) of heaven; and 40 more.'
   basis: reading
 - text: 'Only in Pharaoh, ''no god but me'', Haman''s tower of fired brick, and the drowning: Pharaoh''s
-    people are made leaders who call to the Fire and are cursed in this world; The wise counselors of
-    Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son of ancient kings''; Pharaoh
-    tells his chiefs: ''I know of no god for you other than me''; Pharaoh orders Haman to build him a
-    lofty tower (sarh) to reach the ways of heaven and look at Moses'' God; Building with baked bricks
-    and bitumen instead of stone and mortar; Hāmān appears as Pharaoh''s minister and partner; Pharaoh''s
-    question about, or claim to know, the god of Moses [divergence between the texts]; Humans build a
-    tower whose top reaches heaven; Humans build a tower whose top reaches heaven [divergence between
-    the texts]; God gives stone tablets he himself has written; Prophet''s wonders are imitated by the
-    king''s magicians in a contest.'
+    people are made leaders who call to the Fire and are cursed in this world; A ruler has bricks made
+    for a lofty building that reaches up to heaven [divergence between the texts]; Fire is kindled to
+    make the bricks of a lofty house or tower [divergence between the texts]; The wise counselors of Pharaoh
+    in Zoan and Memphis are fools: ''I am a son of the wise, a son of ancient kings''; Pharaoh tells his
+    chiefs: ''I know of no god for you other than me''; Pharaoh orders Haman to build him a lofty tower
+    (sarh) to reach the ways of heaven and look at Moses'' God; Hāmān appears as Pharaoh''s minister and
+    partner; Pharaoh''s question about, or claim to know, the god of Moses [divergence between the texts];
+    Building with baked bricks and bitumen instead of stone and mortar; The king of Egypt is called god
+    (by his vassals, or by himself) [divergence between the texts]; A king is called, or calls himself,
+    the god of his people [divergence between the texts]; Humans build a tower whose top reaches heaven
+    [divergence between the texts]; and 4 more.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

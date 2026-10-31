@@ -25,11 +25,11 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life [divergence
-    between the texts] (weight 6.0); Prohibitions of murder, adultery, theft and false witness [divergence
-    between the texts] (weight 5.8); Keep the law, turning neither to the right nor to the left (weight
-    5.8); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother, with the promise of
-    long life (weight 5.3); Prohibitions of murder, adultery, theft and false witness (weight 5.1). Pair
-    score 33.4.'
+    between the texts] (weight 7.1); Prohibitions of murder, adultery, theft and false witness [divergence
+    between the texts] (weight 6.8); Keep the law, turning neither to the right nor to the left (weight
+    6.6); The Ten Commandments (Decalogue) (weight 6.5); Honor father and mother, with the promise of
+    long life (weight 5.9); Prohibitions of murder, adultery, theft and false witness (weight 5.7). Pair
+    score 38.6.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -40,7 +40,7 @@ evidence:
     out of fire with no visible form; People fear to hear God directly and ask the prophet to mediate;
     The people''s answer to the covenant (''we hear ...'') [response between the texts]; Sabbath grounded
     in the memory of slavery in Egypt; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na);
-    Prohibition of coveting the neighbor''s wife and property; and 5 more.'
+    No other gods before YHWH; and 5 more.'
   basis: reading
 - text: 'Only in The recited commandments (the Quranic decalogue): List of commandments introduced ''Come,
     I will recite what your Lord has forbidden you''; Lest you say scripture was sent only to two groups
@@ -48,8 +48,8 @@ evidence:
     the book complete and detailing everything; Do not kill your children for fear of poverty; God provides
     for them and you; The Ten Commandments (Decalogue) [divergence between the texts]; Stand firm for
     justice as witnesses for God even against yourselves, parents and kin, rich or poor; Guardians must
-    keep orphans'' property intact and hand it over when they come of age; I set before you life and death,
-    blessing and curse: choose life; God burdens no soul beyond its capacity; Honest balances, weights,
+    keep orphans'' property intact and hand it over when they come of age; God burdens no soul beyond
+    its capacity; I set before you life and death, blessing and curse: choose life; Honest balances, weights,
     ephah and hin are commanded.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the

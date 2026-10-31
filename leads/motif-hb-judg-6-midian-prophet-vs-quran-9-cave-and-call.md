@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The oppressed people hide in caves, dens and mountain strongholds
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Midianite oppression like locusts; an anonymous prophet rebukes Israel: An unnamed prophet
     is sent to rebuke the people with the exodus; Nomad raiders with camels come each harvest and destroy
@@ -28,12 +28,14 @@ evidence:
   basis: reading
 - text: 'Only in The call to go forth; the second of two in the cave: God''s own Presence (face) will
     go with the people; God threatens to destroy a people and put another in its place [divergence between
-    the texts]; Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel
-    (''God with us''); A poem lists the tribes, praising those who fought and shaming those who stayed
-    home; The prophet is ''the second of two'' hiding in the cave, telling his companion ''do not grieve,
-    God is with us''; God supports the prophet with hosts (junud) the believers did not see; God sends
-    down his sakina (tranquility, cf. shekhinah) on the prophet and believers; If God wills he takes you
-    away and brings another people in your place.'
+    the texts]; Reproaching followers who hang back, the leader recalls how he escaped a crisis without
+    them; The deity is the one more of a company: third of two, fourth of three; Sign: the young woman
+    (''almah) is pregnant and will bear a son and call his name Immanuel (''God with us''); A poem lists
+    the tribes, praising those who fought and shaming those who stayed home; The prophet is ''the second
+    of two'' hiding in the cave, telling his companion ''do not grieve, God is with us''; God supports
+    the prophet with hosts (junud) the believers did not see; God sends down his sakina (tranquility,
+    cf. shekhinah) on the prophet and believers; If God wills he takes you away and brings another people
+    in your place.'
   basis: reading
 - text: 'Midianite oppression like locusts; an anonymous prophet rebukes Israel: tagged by Claude (model),
     reading the Hebrew.'

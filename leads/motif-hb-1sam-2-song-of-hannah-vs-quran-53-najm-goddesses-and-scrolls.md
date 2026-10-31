@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God kills and makes alive, brings down to Sheol and raises up (weight
-    5.8). Pair score 5.8.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Song of Hannah: God gives strength to his king and exalts the horn of his anointed (messiah);
     God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom he wills;
@@ -38,7 +38,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 15 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 19 more.'
   basis: reading
 - text: 'Song of Hannah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

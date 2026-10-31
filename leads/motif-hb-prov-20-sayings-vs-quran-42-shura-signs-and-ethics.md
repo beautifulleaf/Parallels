@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Without counsel a people falls; in a multitude of counselors there
-    is victory (weight 5.8). Pair score 5.8.'
+    is victory (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -27,24 +27,23 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 19 more.'
   basis: reading
 - text: 'Only in Provision in measure, rain, ships like mountains and the ethics of consultation and pardon:
     The believers conduct their affairs by mutual consultation (shura); God has dispersed living creatures
     (dabba) in both the heavens and the earth and can gather them; God accepts repentance from his servants
     and pardons evil deeds; Retaliation in kind is permitted, but whoever pardons and makes peace has
-    his reward with God; God''s control of the wind over ships at sea: raising a storm or stilling it
-    [divergence between the texts]; Whatever misfortune strikes people is for what their own hands have
-    earned, though God pardons much; What is given in this life is passing enjoyment (mata''); what is
-    with God is better and more lasting; God sends down rain after people have despaired and spreads out
-    his mercy; Do not say ''I will do to him as he has done to me; I will pay the man back for his deed'';
-    Whether one may pay back a wrong in kind [divergence between the texts]; Ships running on the sea
-    like landmarks/mountains are a sign; God could still the wind and leave them motionless or wreck them;
-    If God gave his servants unlimited provision they would transgress on earth, so he sends down in measure;
-    and 2 more.'
+    his reward with God; A blow is repaid with its like: every deed is interlocked with its consequence;
+    God''s control of the wind over ships at sea: raising a storm or stilling it [divergence between the
+    texts]; Whatever misfortune strikes people is for what their own hands have earned, though God pardons
+    much; What is given in this life is passing enjoyment (mata''); what is with God is better and more
+    lasting; God sends down rain after people have despaired and spreads out his mercy; Do not say ''I
+    will do to him as he has done to me; I will pay the man back for his deed''; Whether one may pay back
+    a wrong in kind [divergence between the texts]; Ships running on the sea like landmarks/mountains
+    are a sign; God could still the wind and leave them motionless or wreck them; and 3 more.'
   basis: reading
 - text: 'Sayings on wine, the king''s throne and the lamp of YHWH: tagged by Claude (model), reading the
     Hebrew.'

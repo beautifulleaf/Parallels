@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The question whether dead bones can live again, and who asks it
-    [divergence between the texts] (weight 6.7); God asks ''Can these bones live?'' and the prophet answers
-    ''Lord God, you know'' (weight 6.7). Pair score 13.4.'
+    [divergence between the texts] (weight 7.7); God asks ''Can these bones live?'' and the prophet answers
+    ''Lord God, you know'' (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
     graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is
@@ -38,8 +38,8 @@ evidence:
 - text: 'Only in Who revives rotten bones? Fire from the green tree; Be and it is: The skeptic asks ''Who
     will give life to bones when they have rotted?''; the answer: he who produced them the first time;
     God created livestock and subjected them to people for riding, food, benefits and drink; God made
-    fire for you from the green tree, from which you kindle; Deity creates by spoken command (Let there
-    be...); God originates creation and then repeats it (resurrection as re-creation); God creates by
+    fire for you from the green tree, from which you kindle; God originates creation and then repeats
+    it (resurrection as re-creation); Deity creates by spoken command (Let there be...); God creates by
     saying to a thing ''Be'' and it is (kun fa-yakun).'
   basis: reading
 - text: 'The valley of dry bones: tagged by Claude (model), reading the Hebrew.'

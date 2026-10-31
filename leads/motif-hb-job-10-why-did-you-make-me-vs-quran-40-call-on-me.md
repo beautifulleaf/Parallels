@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From dust, then a drop, then a clinging clot (''alaqa), then a child,
-    then full strength, then old age; some die before (weight 6.7). Pair score 6.7.'
+    then full strength, then old age; some die before (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job - ''Your hands fashioned me''; land of darkness: The sufferer reminds God that God''s
     hands shaped him yet now destroy him; ''Have you eyes of flesh? Are your days like a mortal''s days?'';
-    God hunts the sufferer like a lion; The underworld as a land of darkness and deep shadow, without
-    order, where light is like darkness; God created Adam ''with my two hands''; God creates you in your
+    God hunts the sufferer like a lion; God created Adam ''with my two hands''; God creates you in your
     mothers'' bellies creation after creation in three darknesses; God''s crafting of the human body,
-    and what is said to follow from it [divergence between the texts]; Like a vanishing cloud, whoever
-    goes down to Sheol does not come up; his place knows him no more; Have you seen what you emit? Do
+    and what is said to follow from it [divergence between the texts]; Have you seen what you emit? Do
     you create it, or are we the creator?; Sufferer wishes he had died in the womb or been a hidden stillborn;
     God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh and
-    knitting bones and sinews; Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa),
+    knitting bones and sinews; The underworld as a land of darkness and deep shadow, without order, where
+    light is like darkness; Like a vanishing cloud, whoever goes down to Sheol does not come up; his place
+    knows him no more; Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa),
     then shaped and proportioned; and 2 more.'
   basis: reading
 - text: 'Only in God helps his messengers; call on me; the stages of life: Your Lord said ''Call on me
@@ -38,8 +38,9 @@ evidence:
     The creation of the heavens is greater than the creation of humankind; The form God gave humans at
     creation [divergence between the texts]; Rhetorical question: are the blind and the seeing equal,
     or darkness and light?; God made leaders (a''imma) among the Israelites who guided by his command
-    because they were patient; Humanity made in the image or likeness of the deity; Glorify God in the
-    evening, morning, afternoon and noon (set times of praise or prayer); God creates by saying to a thing
+    because they were patient; The creator made heaven and earth, light, air and food ''for their sake''
+    (n-jb =sn), for humankind; Glorify God in the evening, morning, afternoon and noon (set times of praise
+    or prayer); Humanity made in the image or likeness of the deity; God creates by saying to a thing
     ''Be'' and it is (kun fa-yakun); Sun and moon are set to rule day and night and mark signs and seasons.'
   basis: reading
 - text: 'Job - ''Your hands fashioned me''; land of darkness: tagged by Claude (model), reading the Hebrew.'

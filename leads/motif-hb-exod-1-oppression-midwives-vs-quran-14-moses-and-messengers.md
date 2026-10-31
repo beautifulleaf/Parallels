@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Ruler orders the killing of male infants (weight 5.1). Pair score
-    5.1.'
+- text: 'Shared motifs, rarest first: Ruler orders the killing of male infants (weight 6.1). Pair score
+    6.1.'
   basis: reading
 - text: 'Only in Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: Midwives observe
     the newborn on the birthstool (ovnayim, ''the two stones''); Oppressed people forced to build store-cities
@@ -38,13 +38,13 @@ evidence:
     on earth disbelieve, God is free of need and praiseworthy; God proclaims: if you are grateful I will
     give you more; if ungrateful, my punishment is severe; The rejecting peoples thrust their hands into
     their mouths at the messengers; Every messenger is sent speaking the language of his own people to
-    make things clear; The people reject their messengers: ''you are only humans like us''; Every messenger
-    is sent speaking the language of his own people to make things clear [divergence between the texts];
+    make things clear; The people reject their messengers: ''you are only humans like us''; Blood and
+    pus as the water of the punished: bathed in, or drunk [divergence between the texts]; Formula on trust:
+    let whoever trusts, trust; we trust in our god / on God let the trusters trust; Every messenger is
+    sent speaking the language of his own people to make things clear [divergence between the texts];
     The elite threaten the prophet and believers: expulsion unless they return to the old religion; Moses
     is told to remind his people of ''the days of God''; In hell they taste no coolness nor drink except
-    boiling water (hamim) and dark, foul fluid (ghassaq), or drink from a boiling spring; God brings believers
-    out of darknesses into light; false gods lead others from light into darkness; The meek / those who
-    wait for YHWH / the righteous and their seed shall inherit the land (yirshu arets); and 2 more.'
+    boiling water (hamim) and dark, foul fluid (ghassaq), or drink from a boiling spring; and 4 more.'
   basis: reading
 - text: 'Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: tagged by Claude (model),
     reading the Hebrew.'

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The satan or the devils are rebuked and driven off in the heavenly
-    realm (weight 6.7); God enthroned with the host of heaven standing at his right and left deliberates
-    (weight 5.8). Pair score 12.5.'
+    realm (weight 7.7); God enthroned with the host of heaven standing at his right and left deliberates
+    (weight 6.2). Pair score 14.0.'
   basis: reading
 - text: 'Only in Fourth vision, the high priest, the satan and the Branch: The high priest''s filthy garments
     are removed and replaced with festal robes and a pure turban, signifying removal of guilt; If faithful,
@@ -36,14 +36,15 @@ evidence:
 - text: 'Only in The ranks, the guarded heaven and the shooting stars: ''This is the Day of Judgment (yawm
     al-din), the Day of Sorting (yawm al-fasl) which you denied''; Devils cannot listen to the Exalted
     Assembly (al-mala'' al-a''la); any who snatch a word are pursued by a piercing flame (shihab); Opening
-    oath by those ranged in ranks, those who drive (or rebuke), and those who recite the reminder; Humans
-    created from sticky clay (tin lazib); Scoffers ridicule the claim that after being torn to pieces
-    utterly they will be created anew; A single cry or rebuke (zajra) and the dead stand looking; The
-    lowest heaven is adorned with stars as a guard against every rebellious devil; Whether the adversary,
-    devils or deceiving spirits have access to God''s council [contrast between the texts]; ''Have you
-    listened in the council (sod) of God, and limited wisdom to yourself?''; God called Lord of the east
-    and the west, or of the (many) easts and wests (sunrise and sunset points); First human shaped from
-    dust, clay or soil.'
+    oath by those ranged in ranks, those who drive (or rebuke), and those who recite the reminder; The
+    flash of a star falling from heaven and its relation to demons [shared matter] [divergence between
+    the texts]; Humans created from sticky clay (tin lazib); Scoffers ridicule the claim that after being
+    torn to pieces utterly they will be created anew; A single cry or rebuke (zajra) and the dead stand
+    looking; The lowest heaven is adorned with stars as a guard against every rebellious devil; Whether
+    the adversary, devils or deceiving spirits have access to God''s council [contrast between the texts];
+    ''Have you listened in the council (sod) of God, and limited wisdom to yourself?''; God called Lord
+    of the east and the west, or of the (many) easts and wests (sunrise and sunset points); First human
+    shaped from dust, clay or soil.'
   basis: reading
 - text: 'Fourth vision, the high priest, the satan and the Branch: tagged by Claude (model), reading the
     Hebrew.'

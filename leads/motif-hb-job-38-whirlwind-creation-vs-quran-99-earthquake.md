@@ -19,25 +19,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At the end the earth is stretched out, casts out what is in it (its
-    burdens) and empties itself (weight 6.0). Pair score 6.0.'
+    burdens) and empties itself (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens:
     Dawn seizes the edges of the earth and shakes the wicked out of it; Light and darkness each have a
     dwelling place and a road to it; Rhetorical question whether rain has a father and from whose womb
-    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The morning stars
-    sing together and the sons of God shout for joy at the founding of the earth; Named constellations
-    (Kimah/Pleiades, Kesil/Orion, Ayish/Bear, Mazzarot) and their bonds; The sea bursts out of a womb
-    at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors for the
-    sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of the deep
-    (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God tips over;
-    God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were they created
-    from nothing, or are they the creators? Did they create the heavens and earth?; and 14 more.'
+    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The sea bursts out
+    of a womb at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors
+    for the sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of
+    the deep (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God
+    tips over; God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were
+    they created from nothing, or are they the creators? Did they create the heavens and earth?; God challenges
+    the human: ''Gird your loins like a man; I will question you and you inform me''; God answers the
+    sufferer out of the storm-wind (se''arah); and 14 more.'
   basis: reading
 - text: 'Only in The earthquake: the earth tells its news: Whoever does an atom''s weight (mithqal dharra)
-    of good will see it, and an atom''s weight of evil will see it; On that day the earth will tell its
-    news, because its Lord inspired it; Heaven and earth called as witnesses against the people; On that
-    day a great earthquake shakes the land; fish, birds, beasts, creeping things and all humans quake
-    before God, mountains are thrown down and every wall falls.'
+    of good will see it, and an atom''s weight of evil will see it; Whether the wrongs a man did on earth
+    are counted against him at the judgment [contrast between the texts]; On that day the earth will tell
+    its news, because its Lord inspired it; On that day a great earthquake shakes the land; fish, birds,
+    beasts, creeping things and all humans quake before God, mountains are thrown down and every wall
+    falls; Heaven and earth called as witnesses against the people.'
   basis: reading
 - text: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens: tagged
     by Claude (model), reading the Hebrew.'

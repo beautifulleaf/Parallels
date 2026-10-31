@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people ask ''Can God spread a table in the wilderness?'' [divergence
-    between the texts] (weight 6.7); The people ask ''Can God spread a table in the wilderness?'' (weight
-    6.7). Pair score 13.4.'
+    between the texts] (weight 7.7); The people ask ''Can God spread a table in the wilderness?'' (weight
+    7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''

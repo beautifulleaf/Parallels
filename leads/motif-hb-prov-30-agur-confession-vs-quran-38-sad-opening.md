@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If they own heaven and earth, let them ascend by the cords or ways
-    (asbab) to heaven (weight 6.3). Pair score 6.3.'
+    (asbab) to heaven (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Words of Agur son of Yakeh, confession of ignorance and prayer: Do not add to his words
     lest he rebuke you and you be found a liar; Every word of God is refined (tested); he is a shield
@@ -27,9 +27,9 @@ evidence:
     what is the name of his son?''; Prayer for two things: keep falsehood far and give neither poverty
     nor riches, only my allotted bread, lest I deny God or steal; The sage declares himself more brutish
     than any man, without human understanding or knowledge of the Holy One; Sayings attributed to Agur
-    son of Yakeh, an oracle (massa) addressed to Ithiel and Ucal; Who has gone up to heaven and come down,
-    gathered the wind in his fists, wrapped the waters in a garment? What is his name and his son''s name?;
-    Opponents nearly lure the prophet into inventing something else; God makes him firm.'
+    son of Yakeh, an oracle (massa) addressed to Ithiel and Ucal; Opponents nearly lure the prophet into
+    inventing something else; God makes him firm; Who has gone up to heaven and come down, gathered the
+    wind in his fists, wrapped the waters in a garment? What is his name and his son''s name?.'
   basis: reading
 - text: 'Only in Sad: the chiefs marvel at one God; the confederates of old: Opponents say ''We did not
     hear of this in the latest religion (al-milla al-akhira); it is a fabrication''; The chiefs marvel

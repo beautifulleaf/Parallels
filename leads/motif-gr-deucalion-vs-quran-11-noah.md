@@ -14,14 +14,14 @@ layers:
 - motif
 motifs:
 - vessel-rests-on-mountain
-- divine-decision-to-destroy
 - build-vessel-on-instruction
+- divine-decision-to-destroy
 - hero-warned-by-deity
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Vessel comes to rest on a named mountain (weight 5.4); Deity decides
-    to destroy humankind (weight 5.3); Hero builds a vessel on divine instruction (weight 5.2); Hero privately
-    warned of the coming flood by a deity (weight 5.1). Pair score 21.0.'
+- text: 'Shared motifs, rarest first: Vessel comes to rest on a named mountain (weight 6.4); Hero builds
+    a vessel on divine instruction (weight 6.2); Deity decides to destroy humankind (weight 6.1); Hero
+    privately warned of the coming flood by a deity (weight 5.8). Pair score 24.5.'
   basis: reading
 - text: 'Deucalion and Pyrrha (Ovid, Apollodorus): tagged by Claude (model), from secondary knowledge.'
   basis: scholarship
@@ -55,18 +55,6 @@ matches:
         وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
     note: al-Judi
 - kind: shared
-  label: Deity decides to destroy humankind
-  sides:
-  - tradition: greco-roman
-    passages:
-    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
-  - tradition: islam
-    passages:
-    - ref: Quran 11:37
-      lang: ar
-      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
-        إِنَّهُم مُّغْرَقُونَ
-- kind: shared
   label: Hero builds a vessel on divine instruction
   sides:
   - tradition: greco-roman
@@ -84,6 +72,18 @@ matches:
       text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ
         إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
     note: '''under our eyes and by our revelation'''
+- kind: shared
+  label: Deity decides to destroy humankind
+  sides:
+  - tradition: greco-roman
+    passages:
+    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
+  - tradition: islam
+    passages:
+    - ref: Quran 11:37
+      lang: ar
+      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
+        إِنَّهُم مُّغْرَقُونَ
 - kind: shared
   label: Hero privately warned of the coming flood by a deity
   sides:

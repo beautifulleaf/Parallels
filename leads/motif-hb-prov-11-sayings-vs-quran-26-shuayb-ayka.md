@@ -18,29 +18,29 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
-    Pair score 4.7.'
+- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 5.3).
+    Pair score 5.3.'
   basis: reading
 - text: 'Only in Sayings on honest scales, generosity and the fate of the wicked: A city exults at the
     prosperity of the righteous and shouts for joy when the wicked perish; Like a gold ring in a pig''s
     snout is a beautiful woman without discretion; The people curse him who withholds grain, but blessing
-    is on the head of him who sells it; He who troubles his household will inherit the wind; He who trusts
-    in riches falls; the righteous sprout like green leaves; If the righteous is repaid on earth, how
-    much more the wicked and the sinner; The fruit of the righteous is a tree of life and the wise man
-    ''takes souls'' (wins people); Treasures of wickedness do not profit, but righteousness (tsedaqah)
-    delivers from death; The righteous is rescued from trouble and the wicked goes in his place (as his
-    ransom); The rich man thinks his garden will never perish and the Hour will never come; One scatters
-    and yet increases; the generous soul is made fat and who waters will be watered; Pride goes before
-    destruction and a haughty spirit before stumbling; and 6 more.'
+    is on the head of him who sells it; He who troubles his household will inherit the wind; If the righteous
+    is repaid on earth, how much more the wicked and the sinner; The fruit of the righteous is a tree
+    of life and the wise man ''takes souls'' (wins people); He who trusts in riches falls; the righteous
+    sprout like green leaves; Treasures of wickedness do not profit, but righteousness (tsedaqah) delivers
+    from death; The righteous is rescued from trouble and the wicked goes in his place (as his ransom);
+    The rich man thinks his garden will never perish and the Hour will never come; One scatters and yet
+    increases; the generous soul is made fat and who waters will be watered; Without counsel a people
+    falls; in a multitude of counselors there is victory; and 6 more.'
   basis: reading
 - text: 'Only in Shuayb and the People of the Thicket; the day of the canopy: Unbelievers challenge the
     prophet to make pieces of the sky fall on them; The People of the Thicket are destroyed by the punishment
     of the Day of the Canopy/Shadow (yawm al-ẓulla); Shuʿayb commands full measure and weighing with the
     straight balance, and not defrauding people; The people say the prophet is one of the bewitched and
-    a mere human like them, and demand a sign; No two kinds of weights or measures; just weights for long
-    life; Shuʿayb is sent to the People of the Thicket (aṣḥāb al-ayka); Refrain closing each episode:
-    ''In that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''; The
-    Prophet asks no wage for the message.'
+    a mere human like them, and demand a sign; Shuʿayb is sent to the People of the Thicket (aṣḥāb al-ayka);
+    No two kinds of weights or measures; just weights for long life; Refrain closing each episode: ''In
+    that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''; The Prophet
+    asks no wage for the message.'
   basis: reading
 - text: 'Sayings on honest scales, generosity and the fate of the wicked: tagged by Claude (model), reading
     the Hebrew.'

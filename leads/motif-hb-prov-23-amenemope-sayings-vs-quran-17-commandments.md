@@ -20,30 +20,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Guardians must keep orphans'' property intact and hand it over when
-    they come of age (weight 5.8). Pair score 5.8.'
+    they come of age (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan''s
-    field: Do not speak in the ears of a fool, for he will despise the wisdom of your words; When dining
-    with a ruler put a knife to your throat and do not crave his delicacies, deceptive food; Riches make
-    themselves wings and fly away like an eagle toward heaven; Beat the child with the rod and you will
-    save his soul from Sheol; he will not die; Do not eat the bread of the stingy host who says ''eat
-    and drink'' while his heart is not with you; you will vomit up the morsel; Do not enter the fields
-    of the fatherless, for their redeemer (go''el) is strong and will plead their cause; A section of
-    sayings closely paralleling the Egyptian Instruction of Amenemope; The ''good of eye'' (generous)
-    is blessed; the ''evil of eye'' (stingy, envious) is to be shunned; He who spares the rod hates his
-    son; corporal discipline of children is commended; Do not move your neighbor''s ancient boundary marker.'
+    field: Do not speak in the ears of a fool, for he will despise the wisdom of your words; Beat the
+    child with the rod and you will save his soul from Sheol; he will not die; Do not eat the bread of
+    the stingy host who says ''eat and drink'' while his heart is not with you; you will vomit up the
+    morsel; When dining with a ruler put a knife to your throat and do not crave his delicacies, deceptive
+    food; A section of sayings closely paralleling the Egyptian Instruction of Amenemope; Do not enter
+    the fields of the fatherless, for their redeemer (go''el) is strong and will plead their cause; Riches
+    make themselves wings and fly away like an eagle toward heaven; The ''good of eye'' (generous) is
+    blessed; the ''evil of eye'' (stingy, envious) is to be shunned; He who spares the rod hates his son;
+    corporal discipline of children is commended; Do not move your neighbor''s ancient boundary marker.'
   basis: reading
 - text: 'Only in The code of commandments (Surah 17:22-39): A Quranic code of commandments resembling
     the Decalogue in content; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently;
     Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height; Do
-    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Do not kill
-    the soul God has made sacred except by right; Lower the wing of humility to parents and pray ''Lord,
-    have mercy on them as they raised me when small''; Squanderers are brothers of the devils; Sexual
-    relations with a neighbor''s wife are forbidden [divergence between the texts]; A Quranic code of
-    commandments resembling the Decalogue in content [divergence between the texts]; Do not pursue what
-    you have no knowledge of; hearing, sight and heart will be questioned; Do not kill your children for
-    fear of poverty; God provides for them and you; Do not kill the soul God has made sacred except by
-    right [divergence between the texts]; and 10 more.'
+    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Lower the
+    wing of humility to parents and pray ''Lord, have mercy on them as they raised me when small''; Squanderers
+    are brothers of the devils; Sexual relations with a neighbor''s wife are forbidden [divergence between
+    the texts]; A Quranic code of commandments resembling the Decalogue in content [divergence between
+    the texts]; Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned;
+    Do not kill your children for fear of poverty; God provides for them and you; Do not speak harshly
+    or arrogantly to your parent; A decreed order includes reverence and humility toward father and mother
+    [divergence between the texts]; and 22 more.'
   basis: reading
 - text: 'Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan''s field:
     tagged by Claude (model), reading the Hebrew.'

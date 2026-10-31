@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to those who write the book with their own hands and say it
-    is from God, for a small price (weight 6.7). Pair score 6.7.'
+    is from God, for a small price (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The stork knows its seasons; the lying pen of the scribes: The stork, turtledove, swift
     and crane know their seasons of migration, but God''s people do not know his law; When God comes to
@@ -34,13 +34,13 @@ evidence:
 - text: 'Only in Polemic with the People of the Book: The love of the calf was made to sink (be drunk)
     into their hearts; If the next world is yours alone, wish for death: they never will; Enmity to Gabriel
     and Michael (Mikal) equated with enmity to God; Gabriel (Jibril) brings down the revelation upon the
-    prophet''s heart; Some wish to be granted a life of a thousand years; Israel made to drink the golden
-    calf [divergence between the texts]; Worship of God alone joined to duty to parents [divergence between
-    the texts]; Claim that the fire will touch them only for a few numbered days, rebutted; The idol is
-    burned, ground to powder, scattered on water and the people made to drink it; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); Hypocrites profess faith before believers
-    and tell their own ''devils'' in private they were only mocking; Jesus son of Mary given clear signs
-    and supported with the holy spirit (ruh al-qudus); and 16 more.'
+    prophet''s heart; Some wish to be granted a life of a thousand years; Whether anyone added words to,
+    or took words from, a sacred or ancient written text [divergence between the texts]; What is drunk
+    at the making of a covenant, and what the drinking does [divergence between the texts]; Israel made
+    to drink the golden calf [divergence between the texts]; Worship of God alone joined to duty to parents
+    [divergence between the texts]; Claim that the fire will touch them only for a few numbered days,
+    rebutted; The idol is burned, ground to powder, scattered on water and the people made to drink it;
+    Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna); and 19 more.'
   basis: reading
 - text: 'The stork knows its seasons; the lying pen of the scribes: tagged by Claude (model), reading
     the Hebrew.'

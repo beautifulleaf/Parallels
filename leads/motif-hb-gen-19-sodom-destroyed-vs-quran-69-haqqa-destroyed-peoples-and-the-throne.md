@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Cities overturned (hafakh) and the plain destroyed (weight 5.6).
-    Pair score 5.6.'
+- text: 'Shared motifs, rarest first: Cities overturned (hafakh) and the plain destroyed (weight 6.6).
+    Pair score 6.6.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -42,12 +42,12 @@ evidence:
     with a single crushing; Thamud were destroyed by the Overwhelming (al-tagiya, the Blast); Rhetorical
     opening: ''The Reality (al-haqqa)! What is the Reality? And what will make you know what the Reality
     is?''; When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder
-    for retaining ears [divergence between the texts]; Four living creatures (hayyot) of human form bear
+    for retaining ears [divergence between the texts]; The count of days and nights a destroying wind
+    or flood-storm blows [divergence between the texts]; A destroying storm rages for seven days and seven
+    (or eight) nights [divergence between the texts]; Four living creatures (hayyot) of human form bear
     the divine throne [divergence between the texts]; The overturned city (al-mu''tafika, Sodom) God hurled
     down and covered with what covered it; A roaring cold wind (sarsar) on a day of continuous ill omen
-    plucks men away like trunks of uprooted palms; The sky splits and is frail that day, and the angels
-    are on its borders; When the Event (al-waqi''a) befalls, none can deny it: it abases and exalts; and
-    4 more.'
+    plucks men away like trunks of uprooted palms; and 8 more.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

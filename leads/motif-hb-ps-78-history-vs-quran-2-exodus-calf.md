@@ -13,18 +13,18 @@ traditions:
 layers:
 - motif
 motifs:
-- sea-split-by-staff-and-east-wind
 - manna
+- sea-split-by-staff-and-east-wind
 - pillar-of-cloud-and-fire
 - pursuers-drowned-in-sea
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Prophet stretches his staff over the sea and God splits it with
-    a strong east wind (weight 6.0); Manna, unknown food from heaven (weight 6.0); God leads the people
-    in a pillar of cloud by day and a pillar of fire by night (weight 5.1); The returning waters drown
-    the pursuing army; not one survives (weight 4.5). Pair score 21.6.'
+- text: 'Shared motifs, rarest first: Manna, unknown food from heaven (weight 7.1); Prophet stretches
+    his staff over the sea and God splits it with a strong east wind (weight 6.8); God leads the people
+    in a pillar of cloud by day and a pillar of fire by night (weight 6.1); The returning waters drown
+    the pursuing army; not one survives (weight 5.5). Pair score 25.6.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''

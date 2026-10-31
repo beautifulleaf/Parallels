@@ -17,33 +17,33 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
-    4.5.'
+- text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 5.2). Pair score
+    5.2.'
   basis: reading
 - text: 'Only in Elihu - warning dreams and the interceding angel: The healed man sings before men, ''I
-    sinned and perverted what was right, and it was not requited to me''; The restored man''s flesh becomes
-    fresher than a child''s and he returns to the days of his youth; God does all these things two or
-    three times with a man, to bring him back from the Pit to the light of life; God speaks once, even
+    sinned and perverted what was right, and it was not requited to me''; God does all these things two
+    or three times with a man, to bring him back from the Pit to the light of life; God speaks once, even
     twice, but people do not perceive it; An angel, an intercessor (malakh melits), one among a thousand,
     declares a man''s uprightness and pleads for him; The sick man''s soul draws near the Pit and his
     life to the ''destroyers'' (memitim, angels of death); ''Deliver him from going down to the Pit; I
-    have found a ransom (kofer)''; God chastens a man with pain on his bed until he loathes food and his
-    bones stick out, as warning; ''The spirit of God has made me, and the breath of Shaddai gives me life'';
-    In dreams during deep sleep God opens people''s ears and seals their warning, to turn them from pride
-    and spare them from the Pit; The angel of death (malak al-mawt), put in charge of humans, takes their
-    souls; Angels glorify God and ask forgiveness for those on earth; and 5 more.'
+    have found a ransom (kofer)''; ''The spirit of God has made me, and the breath of Shaddai gives me
+    life''; In dreams during deep sleep God opens people''s ears and seals their warning, to turn them
+    from pride and spare them from the Pit; The angel of death (malak al-mawt), put in charge of humans,
+    takes their souls; Angels glorify God and ask forgiveness for those on earth; The restored man''s
+    flesh becomes fresher than a child''s and he returns to the days of his youth; Humans created from
+    sticky clay (tin lazib); and 5 more.'
   basis: reading
 - text: 'Only in The annunciation and the mission of Jesus: Jesus comes confirming the Torah and making
     lawful some of what was forbidden; God says to Jesus ''I will take you (mutawaffika) and raise you
     to myself and purify you''; Jesus tells people what they eat and store in their houses; Jesus announced
-    as a word (kalima) from God, named the Messiah, Jesus son of Mary; Forming a creature from earth and
+    as a word (kalima) from God, named the Messiah, Jesus son of Mary; Something (a reed) born without
+    father or mother, out of the storm [divergence between the texts]; Forming a creature from earth and
     breathing life into it [divergence between the texts]; They plotted, and God plotted; God is the best
-    of plotters; The likeness of Jesus with God is as Adam, created from dust by ''Be''; Jesus will speak
-    to people in the cradle and in maturity; Challenge to mutual imprecation (mubahala): gather sons,
-    women and selves and invoke God''s curse on the liars; God sent down the Torah (al-Tawrat) and the
-    Gospel (al-Injil) before as guidance; Mary asks how she will have a child when no man has touched
-    her; Jesus asks ''Who are my helpers to God?'' and the disciples (hawariyyun) answer ''We are God''s
-    helpers''; and 8 more.'
+    of plotters; To prove the truth, the parties call down destruction or curse on the liar together with
+    wives and children; The likeness of Jesus with God is as Adam, created from dust by ''Be''; Jesus
+    will speak to people in the cradle and in maturity; Challenge to mutual imprecation (mubahala): gather
+    sons, women and selves and invoke God''s curse on the liars; By whose power a healer revives the dead
+    and heals the sick [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Elihu - warning dreams and the interceding angel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

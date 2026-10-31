@@ -20,27 +20,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Intercourse with a menstruating woman is forbidden [divergence between
-    the texts] (weight 6.7); Intercourse with a menstruating woman is forbidden (weight 6.0). Pair score
-    12.7.'
+    the texts] (weight 7.7); Intercourse with a menstruating woman is forbidden (weight 7.1). Pair score
+    14.8.'
   basis: reading
 - text: 'Only in Penalties for Molech worship, necromancy and sexual offenses: In bestiality the animal
-    is killed together with the human offender; One who curses father or mother is put to death; God separated
-    Israel from the peoples as clean animals are separated from unclean; Sibling incest is called ''hesed''
-    (normally ''kindness''), here a disgrace; Offender executed by burning; Offenders punished by dying
-    childless; The land, defiled by abominations, vomits out its inhabitants; Lying with a male as with
-    a woman is forbidden; Penalty for adultery or sexual indecency [contrast between the texts]; Adulterer
-    and adulteress both put to death; Giving one''s offspring to Molech is forbidden and punished; Divination,
-    soothsaying, mediums (ov) and wizards (yidde''oni) are forbidden; and 2 more.'
+    is killed together with the human offender; God separated Israel from the peoples as clean animals
+    are separated from unclean; Sibling incest is called ''hesed'' (normally ''kindness''), here a disgrace;
+    Offender executed by burning; Offenders punished by dying childless; One who curses father or mother
+    is put to death; The land, defiled by abominations, vomits out its inhabitants; Lying with a male
+    as with a woman is forbidden; Penalty for adultery or sexual indecency [contrast between the texts];
+    Adulterer and adulteress both put to death; Giving one''s offspring to Molech is forbidden and punished;
+    Divination, soothsaying, mediums (ov) and wizards (yidde''oni) are forbidden; and 2 more.'
   basis: reading
 - text: 'Only in Wine, gambling, orphans, mixed marriage and menstruation: A believing slave woman (or
     man) is better for marriage than an attractive polytheist; What to spend? ''The surplus'' (al-''afw);
-    Mixing with orphans'' affairs permitted: they are your brothers; Your wives are a tilth for you; come
-    to your tilth as you wish; A woman is purifying herself from her menstrual impurity; Wine and gambling:
-    in both great sin and some benefit, but the sin is greater; Do not look at wine when it is red and
-    sparkles in the cup; at the last it bites like a serpent and stings like a viper; Whether wine is
-    good or harmful [contrast between the texts]; Ban on marrying outside the community and its criterion
-    [divergence between the texts]; Marrying foreign women will lead the sons into idolatry; Prohibition
-    of intermarriage with the peoples of the land lest they turn sons to other gods.'
+    Mixing with orphans'' affairs permitted: they are your brothers; Marriage with a man or woman of the
+    hostile outside group is barred or dangerous, because the spouse will lead to betrayal or ruin; Ploughing
+    and sowing a field stand for insemination (the plough impregnates the earth; women are a tilth); A
+    woman is purifying herself from her menstrual impurity; Wine and gambling: in both great sin and some
+    benefit, but the sin is greater; Do not look at wine when it is red and sparkles in the cup; at the
+    last it bites like a serpent and stings like a viper; A woman (wife) is likened to a field that is
+    ploughed; Whether wine is good or harmful [contrast between the texts]; Ban on marrying outside the
+    community and its criterion [divergence between the texts]; A woman and a ploughed field are likened
+    to each other; and 4 more.'
   basis: reading
 - text: 'Penalties for Molech worship, necromancy and sexual offenses: tagged by Claude (model), reading
     the Hebrew.'

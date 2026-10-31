@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Offer to God a sacrifice of thanksgiving (todah) and pay your vows
-    to Elyon (weight 6.7); God does not need sacrifices: ''If I were hungry I would not tell you... Do
-    I eat the flesh of bulls or drink the blood of goats?'' (weight 5.8). Pair score 12.5.'
+    to Elyon (weight 7.7); God does not need sacrifices: ''If I were hungry I would not tell you... Do
+    I eat the flesh of bulls or drink the blood of goats?'' (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: Superscription
     ascribes the psalm to Asaph; Every beast of the forest is mine, the cattle on a thousand hills, and
@@ -46,7 +46,8 @@ evidence:
     Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; Eat
     of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
     a rite of sacrifice (mansak); What is done with the blood of sacrifices, and whether it reaches God
-    [divergence between the texts]; A place recognized as the house of God and gate of heaven; and 5 more.'
+    [divergence between the texts]; Whether the deity eats (receives) the food and drink of the offerings
+    [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: tagged by Claude (model),
     reading the Hebrew.'

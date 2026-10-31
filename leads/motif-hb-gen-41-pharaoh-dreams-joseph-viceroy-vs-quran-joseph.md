@@ -14,37 +14,37 @@ layers:
 - motif
 motifs:
 - king-dream-cows-and-ears
-- famine-grain-storage-plan
 - cupbearer-recalls-hero
+- famine-grain-storage-plan
 - hero-appointed-over-storehouses
-- interpretation-from-god
 - court-experts-fail
+- interpretation-from-god
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: King dreams of seven fat cows eaten by seven lean, and seven green
-    ears and seven dry (weight 6.0); Plan to store grain in the good years for the famine years (weight
-    6.0); The freed prisoner remembers the hero and recommends him (weight 6.0); Hero placed over the
-    land''s storehouses or the kingdom (weight 5.6); Hero attributes his dream interpretation to God (weight
-    5.4); The king''s experts cannot interpret the dream (weight 5.3). Pair score 34.3.'
+    ears and seven dry (weight 7.1); The freed prisoner remembers the hero and recommends him (weight
+    7.1); Plan to store grain in the good years for the famine years (weight 6.6); Hero placed over the
+    land''s storehouses or the kingdom (weight 6.6); The king''s experts cannot interpret the dream (weight
+    6.2); Hero attributes his dream interpretation to God (weight 6.1). Pair score 39.8.'
   basis: reading
-- text: 'Only in Pharaoh''s dreams and Joseph''s elevation: A dream given twice means God has firmly decided
-    and will act soon; Grain stored like the sand of the sea, beyond counting; Hero is thirty when he
-    enters royal service; In a dream the lean devour the fat but remain as lean as before; Prisoner shaved
-    and dressed in new clothes before appearing before the king; Hero names his sons for forgetting his
-    hardship and being fruitful in affliction; A foreign king recognizes ''a man in whom is the spirit
-    of God''; All lands come to Egypt to buy grain from the hero; The king''s experts cannot interpret
-    the dream [divergence between the texts]; The freed prisoner remembers the hero and recommends him
-    [divergence between the texts]; Plan to store grain in the good years for the famine years [divergence
-    between the texts]; Hero placed over the land''s storehouses or the kingdom [divergence between the
-    texts]; and 5 more.'
+- text: 'Only in Pharaoh''s dreams and Joseph''s elevation: Grain stored like the sand of the sea, beyond
+    counting; Hero is thirty when he enters royal service; In a dream the lean devour the fat but remain
+    as lean as before; Hero names his sons for forgetting his hardship and being fruitful in affliction;
+    A foreign king recognizes ''a man in whom is the spirit of God''; All lands come to Egypt to buy grain
+    from the hero; The king''s experts cannot interpret the dream [divergence between the texts]; The
+    freed prisoner remembers the hero and recommends him [divergence between the texts]; Plan to store
+    grain in the good years for the famine years [divergence between the texts]; Hero placed over the
+    land''s storehouses or the kingdom [divergence between the texts]; Hero refuses release until his
+    innocence is established [divergence between the texts]; King gives the foreign hero a new native
+    name; and 5 more.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 51 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 51 more.'
   basis: reading
 - text: 'Pharaoh''s dreams and Joseph''s elevation: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -88,6 +88,27 @@ matches:
         سُنۢبُلَٰتٍ خُضْرٍ وَأُخَرَ يَابِسَٰتٍ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ
         لِلرُّءْيَا تَعْبُرُونَ
 - kind: shared
+  label: The freed prisoner remembers the hero and recommends him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 41:9
+      lang: he
+      text: וַיְדַבֵּר֙ שַׂ֣ר הַמַּשְׁקִ֔ים אֶת פַּרְעֹ֖ה לֵאמֹ֑ר אֶת חֲטָאַ֕י אֲנִ֖י מַזְכִּ֥יר הַיּֽוֹם
+    - ref: Gen 41:10
+      lang: he
+      text: פַּרְעֹ֖ה קָצַ֣ף עַל עֲבָדָ֑יו וַיִּתֵּ֨ן אֹתִ֜י בְּמִשְׁמַ֗ר בֵּ֚ית שַׂ֣ר הַטַּבָּחִ֔ים אֹתִ֕י
+        וְאֵ֖ת שַׂ֥ר הָאֹפִֽים
+    - ref: Gen 41:11
+      lang: he
+      text: וַנַּֽחַלְמָ֥ה חֲל֛וֹם בְּלַ֥יְלָה אֶחָ֖ד אֲנִ֣י וָה֑וּא אִ֛ישׁ כְּפִתְר֥וֹן חֲלֹמ֖וֹ חָלָֽמְנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 12:45
+      lang: ar
+      text: وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ
+        فَأَرْسِلُونِ
+- kind: shared
   label: Plan to store grain in the good years for the famine years
   sides:
   - tradition: judaism
@@ -115,27 +136,6 @@ matches:
       text: ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا
         قَلِيلًا مِّمَّا تُحْصِنُونَ
     note: leave the grain in the ear
-- kind: shared
-  label: The freed prisoner remembers the hero and recommends him
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 41:9
-      lang: he
-      text: וַיְדַבֵּר֙ שַׂ֣ר הַמַּשְׁקִ֔ים אֶת פַּרְעֹ֖ה לֵאמֹ֑ר אֶת חֲטָאַ֕י אֲנִ֖י מַזְכִּ֥יר הַיּֽוֹם
-    - ref: Gen 41:10
-      lang: he
-      text: פַּרְעֹ֖ה קָצַ֣ף עַל עֲבָדָ֑יו וַיִּתֵּ֨ן אֹתִ֜י בְּמִשְׁמַ֗ר בֵּ֚ית שַׂ֣ר הַטַּבָּחִ֔ים אֹתִ֕י
-        וְאֵ֖ת שַׂ֥ר הָאֹפִֽים
-    - ref: Gen 41:11
-      lang: he
-      text: וַנַּֽחַלְמָ֥ה חֲל֛וֹם בְּלַ֥יְלָה אֶחָ֖ד אֲנִ֣י וָה֑וּא אִ֛ישׁ כְּפִתְר֥וֹן חֲלֹמ֖וֹ חָלָֽמְנוּ
-  - tradition: islam
-    passages:
-    - ref: Quran 12:45
-      lang: ar
-      text: وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ
-        فَأَرْسِلُونِ
 - kind: shared
   label: Hero placed over the land's storehouses or the kingdom
   sides:
@@ -167,6 +167,25 @@ matches:
       text: وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ نُصِيبُ
         بِرَحْمَتِنَا مَن نَّشَآءُ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
     note: Joseph asks for the post himself
+- kind: shared
+  label: The king's experts cannot interpret the dream
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 41:8
+      lang: he
+      text: וַיְהִ֤י בַבֹּ֨קֶר֙ וַתִּפָּ֣עֶם רוּח֔וֹ וַיִּשְׁלַ֗ח וַיִּקְרָ֛א אֶת כָּל חַרְטֻמֵּ֥י מִצְרַ֖יִם
+        וְאֶת כָּל חֲכָמֶ֑יהָ וַיְסַפֵּ֨ר פַּרְעֹ֤ה לָהֶם֙ אֶת חֲלֹמ֔וֹ וְאֵין פּוֹתֵ֥ר אוֹתָ֖ם לְפַרְעֹֽה
+    - ref: Gen 41:24
+      lang: he
+      text: וַתִּבְלַ֨עְןָ֙ הָשִׁבֳּלִ֣ים הַדַּקֹּ֔ת אֵ֛ת שֶׁ֥בַע הַֽשִׁבֳּלִ֖ים הַטֹּב֑וֹת וָֽאֹמַר֙
+        אֶל הַֽחַרְטֻמִּ֔ים וְאֵ֥ין מַגִּ֖יד לִֽי
+    note: hartummim
+  - tradition: islam
+    passages:
+    - ref: Quran 12:44
+      lang: ar
+      text: قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
 - kind: shared
   label: Hero attributes his dream interpretation to God
   sides:
@@ -201,25 +220,6 @@ matches:
       text: رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ فَاطِرَ
         ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ تَوَفَّنِى مُسْلِمًا وَأَلْحِقْنِى
         بِٱلصَّٰلِحِينَ
-- kind: shared
-  label: The king's experts cannot interpret the dream
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 41:8
-      lang: he
-      text: וַיְהִ֤י בַבֹּ֨קֶר֙ וַתִּפָּ֣עֶם רוּח֔וֹ וַיִּשְׁלַ֗ח וַיִּקְרָ֛א אֶת כָּל חַרְטֻמֵּ֥י מִצְרַ֖יִם
-        וְאֶת כָּל חֲכָמֶ֑יהָ וַיְסַפֵּ֨ר פַּרְעֹ֤ה לָהֶם֙ אֶת חֲלֹמ֔וֹ וְאֵין פּוֹתֵ֥ר אוֹתָ֖ם לְפַרְעֹֽה
-    - ref: Gen 41:24
-      lang: he
-      text: וַתִּבְלַ֨עְןָ֙ הָשִׁבֳּלִ֣ים הַדַּקֹּ֔ת אֵ֛ת שֶׁ֥בַע הַֽשִׁבֳּלִ֖ים הַטֹּב֑וֹת וָֽאֹמַר֙
-        אֶל הַֽחַרְטֻמִּ֔ים וְאֵ֥ין מַגִּ֖יד לִֽי
-    note: hartummim
-  - tradition: islam
-    passages:
-    - ref: Quran 12:44
-      lang: ar
-      text: قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ
 ---
 
 ## Questions

@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Formula: ''gracious and merciful, slow to anger, abounding in steadfast
-    love, relenting of evil'' (weight 6.3). Pair score 6.3.'
+    love, relenting of evil'' (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
     covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
     time; Call to the People of the Book to a common word: worship none but God and take none as lords
     besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
     down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
-    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
-    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
-    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
-    a snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
-    appear before God empty-handed; and 21 more.'
+    neck is broken; God passes by and proclaims his name and attributes of mercy; Whether one person (kin,
+    descendants) bears another''s sin [contrast between the texts]; Do not offer sacrificial blood with
+    leavened bread; fat not left until morning; No one shall appear before God empty-handed; The prophet
+    intercedes for the people, arguing from God''s reputation; How far God''s mercy and his punishment
+    extend [divergence between the texts]; and 21 more.'
   basis: reading
 - text: 'Only in Ha-Mim: the Forgiver; the throne-bearers pray for the believers: The damned say ''Lord,
     you caused us to die twice and gave us life twice; we confess our sins; is there a way out?''; The
@@ -40,11 +40,12 @@ evidence:
     casts the Spirit (al-ruh) of his command upon whom he wills of his servants to warn of the Day of
     Meeting; The beings that carry God''s throne, and what they do [divergence between the texts]; God
     knows the treachery of the eyes and what the breasts conceal; In terror eyes swerve and hearts reach
-    the throats; The angels who bear the Throne and those around it glorify God and ask forgiveness for
-    the believers, praying they and their righteous kin enter Eden; Humans were dead, given life, will
-    die and be given life again (two deaths, two lives); On the Day God asks ''Whose is the kingdom today?''
-    and answers ''God''s, the One, the Overpowering''; Four living creatures (hayyot) of human form bear
-    the divine throne; Travel in the land and see the end of those who denied; and 1 more.'
+    the throats; The heavenly host speak for a human before the high god and ask his forgiveness; The
+    angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
+    praying they and their righteous kin enter Eden; Humans were dead, given life, will die and be given
+    life again (two deaths, two lives); On the Day God asks ''Whose is the kingdom today?'' and answers
+    ''God''s, the One, the Overpowering''; Four living creatures (hayyot) of human form bear the divine
+    throne; and 2 more.'
   basis: reading
 - text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
     the Hebrew.'

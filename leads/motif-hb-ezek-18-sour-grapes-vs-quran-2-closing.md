@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''The soul that sins, it shall die'': the son does not bear the
-    father''s iniquity nor the father the son''s (weight 6.3). Pair score 6.3.'
+    father''s iniquity nor the father the son''s (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Sour grapes - individual responsibility and repentance: Exhortation: cast away your transgressions
     and make yourselves a new heart and a new spirit; why will you die?; Test case of three generations:
@@ -27,20 +27,22 @@ evidence:
     Whether one person can carry another''s sin [divergence between the texts]; No one may excuse himself
     on judgment day because his ancestors associated partners; If the wicked turns from his sins, none
     of his transgressions will be remembered; if the righteous turns away, his righteousness is forgotten;
-    Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual intercourse,
-    no oppression, returns pledges, feeds the hungry, clothes the naked, no interest; Proverb ''The fathers
-    have eaten sour grapes and the children''s teeth are set on edge'', abolished by God; Whether repentance
-    has a time limit [divergence between the texts]; People complain ''the way of the Lord is not fair'';
-    God answers that it is their ways that are unfair; God does not desire the death of the wicked but
-    that he turn from his way and live; A cloak taken in pledge must be returned before sunset; Whoever
-    does good does it for his own soul; whoever does evil, it is against it; and 4 more.'
+    Proverb ''The fathers have eaten sour grapes and the children''s teeth are set on edge'', abolished
+    by God; Whether repentance has a time limit [divergence between the texts]; People complain ''the
+    way of the Lord is not fair''; God answers that it is their ways that are unfair; God does not desire
+    the death of the wicked but that he turn from his way and live; Catalogue of the righteous man: no
+    eating on the mountains, no idols, no adultery, no menstrual intercourse, no oppression, returns pledges,
+    feeds the hungry, clothes the naked, no interest; Whoever does good does it for his own soul; whoever
+    does evil, it is against it; Intercourse with a menstruating woman is forbidden; and 4 more.'
   basis: reading
 - text: 'Only in Closing confession and prayer: Prayer not to be laid with a burden (isr) like that laid
-    on those before us; Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot); Believers
-    make no distinction between any of the prophets (Abraham, Ishmael, Isaac, Jacob, the Tribes, Moses,
-    Jesus); ''We are the clay and you are our potter; we are all the work of your hand''; Believers''
-    confession ''we hear and we obey'' (sami''na wa-ata''na); God tests the hearts and the kidneys (inner
-    self); God burdens no soul beyond its capacity; God alone knows the hearts of all humans.'
+    on those before us; Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot); Petition
+    not to be held for offences committed unknowingly, forgotten or by mistake; No one is to be burdened
+    with more than he is able to do [divergence between the texts]; Believers make no distinction between
+    any of the prophets (Abraham, Ishmael, Isaac, Jacob, the Tribes, Moses, Jesus); ''We are the clay
+    and you are our potter; we are all the work of your hand''; Believers'' confession ''we hear and we
+    obey'' (sami''na wa-ata''na); God burdens no soul beyond its capacity; God alone knows the hearts
+    of all humans; God tests the hearts and the kidneys (inner self).'
   basis: reading
 - text: 'Sour grapes - individual responsibility and repentance: tagged by Claude (model), reading the
     Hebrew.'

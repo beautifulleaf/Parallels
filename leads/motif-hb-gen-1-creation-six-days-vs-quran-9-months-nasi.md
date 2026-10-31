@@ -20,24 +20,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The number of months with God is twelve, in God''s book since the
-    day he created heaven and earth (weight 6.7); Sun and moon are set to rule day and night and mark
-    signs and seasons (weight 4.7). Pair score 11.4.'
+    day he created heaven and earth (weight 7.3); Sun and moon are set to rule day and night and mark
+    signs and seasons (weight 5.5). Pair score 12.8.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 26 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 26 more.'
   basis: reading
-- text: 'Only in Twelve months and the ban on intercalation: God fixes the reckoning of months [divergence
-    between the texts]; Four of the twelve months are sacred; God fixed all the boundaries of the earth
-    and formed summer and winter; Postponing a sacred month (al-nasi'', intercalation) is an increase
-    in unbelief.'
+- text: 'Only in Twelve months and the ban on intercalation: God fixes the reckoning of months; God fixes
+    the reckoning of months [divergence between the texts]; Four of the twelve months are sacred; Postponing
+    a sacred month (al-nasi'', intercalation) is an increase in unbelief; God fixed all the boundaries
+    of the earth and formed summer and winter; Moving a sacred festival or month out of its fixed time
+    is forbidden.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

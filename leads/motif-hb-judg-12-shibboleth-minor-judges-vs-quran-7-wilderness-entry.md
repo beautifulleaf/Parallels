@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wrongdoers replace the word they were told with another, and
-    a plague falls from heaven (weight 6.7). Pair score 6.7.'
+    a plague falls from heaven (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ephraim slaughtered at the fords by the Shibboleth test; Ibzan, Elon, Abdon: A ''hill
     country of the Amalekite'' inside Ephraim; A taunt calls the other group fugitives; Fugitives are

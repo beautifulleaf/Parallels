@@ -22,8 +22,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The place of humans in the worship offered by all creation [divergence
-    between the texts] (weight 6.7); All in heaven and earth prostrate to God: sun, moon, stars, mountains,
-    trees, beasts and many humans (weight 6.3). Pair score 13.0.'
+    between the texts] (weight 7.7); All in heaven and earth prostrate to God: sun, moon, stars, mountains,
+    trees, beasts and many humans (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Psalm 148, praise from heaven and earth: Kings and peoples, princes and judges, young
     men and maidens, old and young together praise God; God commanded and they were created; he established
@@ -31,11 +31,11 @@ evidence:
     God; Sea monsters (tanninim) and all deeps are summoned to praise God from the earth; ''The waters
     above the heavens'' are summoned to praise; Fire and hail, snow and smoke, stormy wind fulfilling
     his word; God''s angels, mighty ones who do his word, and all his hosts and ministers are summoned
-    to bless him; Those near God do not disdain to worship him; they glorify him and prostrate; Birds
-    with outspread wings glorify God; each knows its prayer and praise; Heaven, earth, seas and all that
-    moves in them praise God; The ''statutes of the heavens'' (huqqot shamayim) and their rule over the
-    earth; Mountains and birds are made to glorify God together with David [divergence between the texts];
-    and 5 more.'
+    to bless him; Those near God do not disdain to worship him; they glorify him and prostrate; Heaven,
+    earth, seas and all that moves in them praise God; The ''statutes of the heavens'' (huqqot shamayim)
+    and their rule over the earth; Mountains and birds are made to glorify God together with David [divergence
+    between the texts]; The seven heavens, the earth and everything in them glorify God, though humans
+    do not understand their praise; and 5 more.'
   basis: reading
 - text: 'Only in Six communities judged; all things prostrate; garments of fire and bracelets of gold:
     Hooked maces of iron (maqāmiʿ) drive back those who try to escape hell; God will judge between believers,

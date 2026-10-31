@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people (weight 4.6). Pair score 4.6.'
+    to release the people (weight 5.7). Pair score 5.7.'
   basis: reading
 - text: 'Only in Plague 7: hail and fire: Narrator dates a plague by the growth stage of named crops (barley
     in ear, flax in bud, wheat late); Some of the king''s servants fear God''s word and bring their slaves
@@ -30,8 +30,8 @@ evidence:
     between the texts]; A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will
     you kill a man for saying my Lord is God?''; The king confesses he has sinned and that God is righteous;
     Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves; Wonder
-    done ''so that you may know that the earth belongs to YHWH''; God sends hail mingled with fire and
-    thunder from heaven; and 4 more.'
+    done ''so that you may know that the earth belongs to YHWH''; The king breaks his promise to release
+    the people once a plague is lifted; and 4 more.'
   basis: reading
 - text: 'Only in Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad;
     the disciples as God''s helpers: A trade (tijara) that saves from punishment: believe and strive in
@@ -40,11 +40,11 @@ evidence:
     a clear opening/victory (fath mubin)'' (the Hudaybiya treaty); Opponents wish to put out God''s light
     with their mouths, but God will perfect his light; God loves those who fight in his way in ranks as
     though they were a solid structure (bunyan marsus); God makes his people''s hearts stray or swerve
-    [divergence between the texts]; The lamp of God had not yet gone out; Moses asks his people: ''Why
-    do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their hearts
-    swerve; Moses ill-treated by his own people [divergence between the texts]; The coming prophet is
-    found written in the Torah and the Gospel; ''Why do you say what you do not do? Most hateful to God
-    is saying what you do not do''; and 5 more.'
+    [divergence between the texts]; If you have given your word, deliver and do not revoke it; promising
+    and not delivering is abhorrent to the god; The lamp of God had not yet gone out; Moses asks his people:
+    ''Why do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their
+    hearts swerve; Moses ill-treated by his own people [divergence between the texts]; The coming prophet
+    is found written in the Torah and the Gospel; and 7 more.'
   basis: reading
 - text: 'Plague 7: hail and fire: tagged by Claude (model), reading the Hebrew.'
   basis: reading

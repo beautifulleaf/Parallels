@@ -18,11 +18,11 @@ motifs:
 - worship-god-no-other-god-formula
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: A people is destroyed by the Shout / Blast (al-sayha) (weight 6.7);
-    Refrain ''away with...'' (bu''dan li-) the destroyed people (weight 6.0); The destroyed are as if
-    they had never lived in their land (weight 5.8); Morning finds the destroyed lying prostrate (jathimin)
-    in their dwellings (weight 5.6); Prophet''s refrain to his people: ''Worship God; you have no god
-    other than him'' (weight 5.2). Pair score 29.2.'
+- text: 'Shared motifs, rarest first: A people is destroyed by the Shout / Blast (al-sayha) (weight 7.7);
+    Refrain ''away with...'' (bu''dan li-) the destroyed people (weight 7.1); The destroyed are as if
+    they had never lived in their land (weight 6.8); Morning finds the destroyed lying prostrate (jathimin)
+    in their dwellings (weight 6.6); Prophet''s refrain to his people: ''Worship God; you have no god
+    other than him'' (weight 6.2). Pair score 34.5.'
   basis: reading
 - text: 'Only in Salih, the she-camel and the Shout: The people tell their prophet he had been their hope
     before this; After the crime the people are given three days'' enjoyment in their homes before destruction;

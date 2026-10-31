@@ -18,31 +18,32 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Divine blessing: be fruitful, multiply, fill the earth (weight 5.8).
-    Pair score 5.8.'
+- text: 'Shared motifs, rarest first: Divine blessing: be fruitful, multiply, fill the earth (weight 6.2).
+    Pair score 6.2.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 27 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 27 more.'
   basis: reading
-- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Those who devour orphans''
-    property devour fire into their bellies; Fear God, by whom you ask of one another, and the wombs (kinship
-    ties, al-arḥām); Kin, orphans and the poor present at the division of an estate are given something
-    from it; Property is not handed to the feeble-minded (sufahāʾ); they are fed and clothed from it;
-    Women as well as men receive a fixed share of what parents and kin leave; The husband gives the bride
-    her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; God hears the cry of the oppressed
-    widow and orphan and punishes measure for measure; How the first woman was made [divergence between
-    the texts]; Do not enter the fields of the fatherless, for their redeemer (go''el) is strong and will
-    plead their cause; A man may marry two, three or four wives, or only one if he fears injustice; A
-    man who seduces an unbetrothed virgin must marry her or pay the bride-price; Who receives the marriage
-    payment [divergence between the texts]; and 4 more.'
+- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Fear God, by whom you ask
+    of one another, and the wombs (kinship ties, al-arḥām); Kin, orphans and the poor present at the division
+    of an estate are given something from it; Property is not handed to the feeble-minded (sufahāʾ); they
+    are fed and clothed from it; Women as well as men receive a fixed share of what parents and kin leave;
+    The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part;
+    Those who devour orphans'' property devour fire into their bellies; How the first woman was made [divergence
+    between the texts]; A man may marry two, three or four wives, or only one if he fears injustice; A
+    man who seduces an unbetrothed virgin must marry her or pay the bride-price; To whom the bride-price
+    is paid and in what (silver and gold to her father; service to her father; the gift to the woman herself)
+    [divergence between the texts]; Do not covet; each has his own share (in the division among kin);
+    Who receives the marriage payment [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

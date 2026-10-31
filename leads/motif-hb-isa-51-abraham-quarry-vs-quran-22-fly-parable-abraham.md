@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The religion of ''your father Abraham'', who named you Muslims before
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Look to the rock you were hewn from: The heavens will vanish like smoke and the earth
     wear out like a garment, but God''s salvation endures forever; The people are told to look to the

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Measure for measure: as you have done, so it shall be done to you;
-    your deed returns on your head (weight 6.3); The Day of YHWH: a coming day of divine judgment, terror
-    and darkness (weight 5.0). Pair score 11.3.'
+    your deed returns on your head (weight 7.1); The Day of YHWH: a coming day of divine judgment, terror
+    and darkness (weight 6.0). Pair score 13.1.'
   basis: reading
 - text: 'Only in Edom''s crimes against Jacob and the Day of YHWH: Edom condemned for violence against
     its brother Jacob in the day of Jerusalem''s fall; Exiles of Jerusalem in Sepharad and of Israel as
@@ -40,10 +40,10 @@ evidence:
     number is made a test; God created a man alone, gave him extended wealth and sons present at his side;
     yet he wants more and stubbornly opposes the signs; The companions of the right (ashab al-yamin, al-maymana)
     are saved; the companions of the left (al-mash''ama) are damned; The intercession of intercessors
-    will not benefit the damned; no soul has power to help another; The people wash their garments to
-    prepare for God''s appearance; You will not will unless God wills; Prophet wraps his face in his mantle
-    on hearing God; An opponent dismisses the revelation as inherited sorcery (sihr yu''thar) or ''only
-    the word of a mortal''; and 5 more.'
+    will not benefit the damned; no soul has power to help another; How many wardens or demons are set
+    over the underworld or hell [shared matter] [divergence between the texts]; The people wash their
+    garments to prepare for God''s appearance; You will not will unless God wills; At the judgment the
+    dead state whether they fed the hungry [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Edom''s crimes against Jacob and the Day of YHWH: tagged by Claude (model), reading the Hebrew.'
   basis: reading

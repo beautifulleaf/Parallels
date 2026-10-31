@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Scoffers dare God or the prophet to hurry the threatened judgment
-    so they may see it (weight 6.3). Pair score 6.3.'
+    so they may see it (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Song of the vineyard; six woes; the nation from afar: Woe to those who rise early for
     strong drink and feast with lyre and harp but ignore God''s work; God raises a banner and whistles
@@ -29,12 +29,12 @@ evidence:
     yielded wild grapes despite all care and is abandoned to briars; The invading army never tires, sleeps
     or loosens belt or sandal; its horses'' hooves like flint, its roar like a lion; Prophetic paronomasia:
     hoped for mishpat (justice) but got mishpah (bloodshed), for tsedaqah but got tse''aqah (outcry);
-    Woe to those who call evil good and good evil, darkness light and bitter sweet; God speaks to the
-    snow ''Fall on the earth'' and commands the downpour; Hypocrite men and women enjoin wrong and forbid
-    right and close their hands; Refrain: ''For all this his anger is not turned back and his hand is
-    stretched out still''; Sheol enlarges its appetite and opens its mouth without limit to swallow the
-    people; God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk
-    and a few lote-trees; and 8 more.'
+    God speaks to the snow ''Fall on the earth'' and commands the downpour; Hypocrite men and women enjoin
+    wrong and forbid right and close their hands; Refrain: ''For all this his anger is not turned back
+    and his hand is stretched out still''; Woe to those who call evil good and good evil, darkness light
+    and bitter sweet; God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter
+    fruit, tamarisk and a few lote-trees; Scoffers ask ''Lord, hasten to us our share (qittana) before
+    the Day of Reckoning''; and 8 more.'
   basis: reading
 - text: 'Only in Hud warns ''Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran:
     A destroyed people see a cloud approaching their valleys and say ''this cloud will give us rain'',
@@ -46,8 +46,8 @@ evidence:
     hearers, which serve as warning; A destroying wind wipes out everything at its Lord''s command; in
     the morning only their dwellings are seen; A cloud seen over a land in drought, bringing rain or destruction
     [contrast between the texts]; Woe to those who desire the Day of YHWH: it is darkness and not light;
-    The prophet Hūd is sent to the people of ʿĀd; God was not wearied by creating the heavens and earth
-    (polemic against divine rest); and 5 more.'
+    The prophet Hūd is sent to the people of ʿĀd; The destroying storm-wind wrecks the land by its god''s
+    command; and 6 more.'
   basis: reading
 - text: 'Song of the vineyard; six woes; the nation from afar: tagged by Claude (model), reading the Hebrew.'
   basis: reading

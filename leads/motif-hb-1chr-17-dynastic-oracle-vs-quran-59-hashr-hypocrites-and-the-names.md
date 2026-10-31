@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: ''There is none like you and no God beside you'' (weight 5.8). Pair
-    score 5.8.'
+- text: 'Shared motifs, rarest first: ''There is none like you and no God beside you'' (weight 6.6). Pair
+    score 6.6.'
   basis: reading
 - text: 'Only in Nathan''s oracle of an eternal house and David''s prayer: Pun on ''house'': the king
     would build God a house; God will build the king a house (dynasty); Revelation described as God ''uncovering
@@ -28,8 +28,8 @@ evidence:
     God has never dwelt in a house but moved from tent to tent; God promises to make the chosen one''s
     name great; Israel is the one nation on earth whom God went to redeem for himself; A prophet approves
     a plan, then is corrected by a revelation that night; God took the ruler from following the sheep;
-    The king''s son, not the king, will build the house for God''s name; Prayer of humility: ''Who am
-    I and what is my house?''; God declares the king his son: ''I will be his father and he my son'';
+    Prayer of humility: ''Who am I and what is my house?''; The king''s son, not the king, will build
+    the house for God''s name; God declares the king his son: ''I will be his father and he my son'';
     God promises David''s house and throne will endure forever; and 1 more.'
   basis: reading
 - text: 'Only in The hypocrites'' false promises, Satan''s disowning, the Quran on a mountain, and the
@@ -40,6 +40,7 @@ evidence:
     humbled and split asunder for fear of God; Like Satan who says to man ''Disbelieve!'' and when he
     disbelieves says ''I am quit of you, I fear God''; A mountain shaken by God''s descent or by his revelation
     [divergence between the texts]; The mountain smokes like a furnace and quakes as God descends in fire;
+    A mountain bows, or fails to bow, before the divine, and is broken [divergence between the texts];
     Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
     Maker, Fashioner; to him belong the most beautiful names; Do evildoers think God will make them equal
     to the righteous in life and in death?; Opening formula: whatever is in the heavens and the earth

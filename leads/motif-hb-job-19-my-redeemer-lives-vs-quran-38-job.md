@@ -18,28 +18,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who struck or ''touched'' Job [divergence between the texts] (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Job - abandoned by all; ''I know my redeemer lives'': Brothers, kin, guests, maidservants
-    and servants all estrange themselves from the sufferer; his breath is strange to his wife; God has
-    stripped the sufferer of his glory and taken the crown from his head; ''I cry out Violence! but I
-    am not answered''; ''I have escaped by the skin of my teeth''; bones cleave to skin; ''Know then that
-    God has wronged me and closed his net about me''; God''s troops come together, cast up siegeworks
-    and encamp around the sufferer''s tent; Even young children despise the sufferer and speak against
-    him; ''I know that my redeemer (go''el) lives, and at the last he will stand upon the dust''; ''Have
-    pity on me, have pity on me, O my friends, for the hand of God has touched me''; ''After my skin is
-    stripped off, from my flesh I shall see God'' with my own eyes, not a stranger''s; ''These ten times
-    you have reproached me''; The sufferer warns his accusers to fear the sword, so they may know there
-    is a judgment; and 5 more.'
+- text: 'Only in Job - abandoned by all; ''I know my redeemer lives'': ''I cry out Violence! but I am
+    not answered''; ''Know then that God has wronged me and closed his net about me''; God''s troops come
+    together, cast up siegeworks and encamp around the sufferer''s tent; Even young children despise the
+    sufferer and speak against him; ''I know that my redeemer (go''el) lives, and at the last he will
+    stand upon the dust''; ''Have pity on me, have pity on me, O my friends, for the hand of God has touched
+    me''; ''After my skin is stripped off, from my flesh I shall see God'' with my own eyes, not a stranger''s;
+    ''These ten times you have reproached me''; The sufferer warns his accusers to fear the sword, so
+    they may know there is a judgment; Wish that his words were written in a book, engraved with an iron
+    pen and lead in the rock forever; ''I have escaped by the skin of my teeth''; bones cleave to skin;
+    God hedges a man in so his way is hidden (inverted image of the protective hedge); and 5 more.'
   basis: reading
 - text: 'Only in Job, the spring and the bundle of twigs: Job calls to his Lord: ''Satan has touched me
     with weariness and torment''; God gives Job back his family and as many again with them; Job is told
     to stamp with his foot: a cool spring to wash in and drink appears; Job is told to take a bundle of
     grass or twigs (dighth) in his hand and strike with it, so as not to break his oath; A man''s vow
     or oath must be fulfilled as uttered; Job calls on God, and whether God answers [contrast between
-    the texts]; What God restores to Job at the end [divergence between the texts]; God restores the righteous
-    sufferer''s fortunes and gives him twice what he had; The Satan (the adversary) appears in the heavenly
-    court as an accusing member; Hero singled out as righteous or pious.'
+    the texts]; An innocent sufferer''s affliction is the touch of a demon [divergence between the texts];
+    What God restores to Job at the end [divergence between the texts]; God restores the righteous sufferer''s
+    fortunes and gives him twice what he had; The Satan (the adversary) appears in the heavenly court
+    as an accusing member; Hero singled out as righteous or pious.'
   basis: reading
 - text: 'Job - abandoned by all; ''I know my redeemer lives'': tagged by Claude (model), reading the Hebrew.'
   basis: reading

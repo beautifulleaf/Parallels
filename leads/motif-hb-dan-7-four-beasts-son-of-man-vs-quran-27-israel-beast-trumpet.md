@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A beast of the end time that speaks [divergence between the texts]
-    (weight 6.7); The heavenly court sits in judgment and the books are opened (weight 6.0). Pair score
-    12.7.'
+    (weight 7.7); The heavenly court sits in judgment and the books are opened (weight 7.1). Pair score
+    14.8.'
   basis: reading
 - text: 'Only in The four beasts, the Ancient of Days and one like a son of man: Thrones are set and the
     Ancient of Days sits, his garment white as snow and his hair like pure wool; The seer asks one of
@@ -31,10 +31,10 @@ evidence:
     over to burning fire; A heavenly figure or the holy ones are given everlasting dominion, glory and
     kingdom which all peoples serve; God''s throne is flames of fire with wheels of burning fire; Four
     great beasts rise from the sea, each different, symbolizing successive kingdoms; A leopard with four
-    wings and four heads is given dominion; The four winds of heaven stir up the great sea, out of which
-    monstrous beasts arise; The holy ones of the Most High (qaddishe ''elyonin) receive and possess the
-    kingdom forever; The horn makes war against the holy ones and prevails until the Ancient of Days comes;
-    A little horn with human eyes and a mouth speaking great things uproots three horns; and 14 more.'
+    wings and four heads is given dominion; The holy ones of the Most High (qaddishe ''elyonin) receive
+    and possess the kingdom forever; The horn makes war against the holy ones and prevails until the Ancient
+    of Days comes; A little horn with human eyes and a mouth speaking great things uproots three horns;
+    Thousands of thousands serve God and myriads of myriads stand before him; and 14 more.'
   basis: reading
 - text: 'Only in The Quran and Israel''s disputes; the beast of the earth, the trumpet and the sacred
     town: At the end God brings forth a beast from the earth that speaks to people; The prophet worships

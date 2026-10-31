@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A closing doxology and the divine title it uses [divergence between
-    the texts] (weight 6.3). Pair score 6.3.'
+    the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 106, national confession of sins from Egypt to exile: Israel ate ''sacrifices of
     the dead'' (zivhei metim) at Baal-peor; God caused the exiles to be pitied by all their captors; God
@@ -28,19 +28,19 @@ evidence:
     reckoned to him as righteousness for all generations''; Israel ''yokes itself'' to Baal of Peor; List
     of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning; The
     people exchanged their Glory for the image of an ox that eats grass; Moses ''stood in the breach''
-    (pérets) before God to turn back his wrath from destroying the people; Speaker confesses personal
-    sin and pleads for forgiveness and cleansing; God turned the sea into dry land and they crossed the
-    river on foot; Shed blood pollutes the land and only the killer''s blood atones for it; and 16 more.'
+    (pérets) before God to turn back his wrath from destroying the people; God turned the sea into dry
+    land and they crossed the river on foot; Shed blood pollutes the land and only the killer''s blood
+    atones for it; Egypt is called ''the tents of Ham'' or ''the land of Ham''; and 16 more.'
   basis: reading
 - text: 'Only in Daughters of God denied; the angels'' stations; closing doxology: Idolaters claim a kinship
     (nasab) between God and the jinn; the jinn know they will be brought to judgment; The angels say:
     each of us has a known station; we are ranged in ranks; we glorify; When the punishment descends in
     their courtyard, evil will be the morning of those who were warned; Closing doxology: glory to your
     Lord, Lord of might, above what they describe; peace on the messengers; praise to God, Lord of the
-    worlds; Whether God has, begets or takes sons or other offspring [contrast between the texts]; Polemic
-    against assigning daughters to God (the angels as females) while preferring sons for themselves; Scoffers
-    ask the prophet to hasten the punishment; it is held back only by an appointed term and will come
-    suddenly.'
+    worlds; Whether the divine attendants (heralds [divergence between the texts]; Whether God has, begets
+    or takes sons or other offspring [contrast between the texts]; Polemic against assigning daughters
+    to God (the angels as females) while preferring sons for themselves; Scoffers ask the prophet to hasten
+    the punishment; it is held back only by an appointed term and will come suddenly.'
   basis: reading
 - text: 'Psalm 106, national confession of sins from Egypt to exile: tagged by Claude (model), reading
     the Hebrew.'

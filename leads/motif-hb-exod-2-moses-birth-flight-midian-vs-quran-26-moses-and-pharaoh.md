@@ -23,8 +23,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses'' upbringing in Pharaoh''s house [divergence between the texts]
-    (weight 6.7); How Moses'' killing of the Egyptian is judged [divergence between the texts] (weight
-    6.3); Hero flees the king''s death sentence to a foreign land (weight 5.8). Pair score 18.7.'
+    (weight 7.7); How Moses'' killing of the Egyptian is judged [divergence between the texts] (weight
+    7.3); Hero flees the king''s death sentence to a foreign land (weight 6.8). Pair score 21.9.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
     The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
@@ -45,9 +45,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 40 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 48 more.'
   basis: reading
 - text: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry: tagged by
     Claude (model), reading the Hebrew.'

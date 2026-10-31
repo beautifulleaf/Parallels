@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s answer to the covenant (''we hear ...'') [divergence
-    between the texts] (weight 6.7); Israel''s position at the mountain when the covenant is made [divergence
-    between the texts] (weight 6.0). Pair score 12.7.'
+    between the texts] (weight 7.7); Israel''s position at the mountain when the covenant is made [divergence
+    between the texts] (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Arrival at Sinai, covenant offer and theophany: Israel arrives at Sinai in the third
-    month after leaving Egypt; God carried Israel on eagles'' wings; Moses speaks and God answers him
-    with a voice (thunder); God comes to the prophet in a thick cloud so the people may hear; Priests
-    are mentioned before the Aaronic priesthood is instituted; A ram''s horn blast signals that the people
-    may go up the mountain; Men must not approach a woman before a holy encounter; God descends or reveals
-    himself on the third day; A boundary is set round the holy mountain; whoever touches it dies; A horn
-    blast at which all tremble [divergence between the texts]; Israel stands beneath the mountain when
-    the covenant is given [divergence between the texts]; Israel is to be a kingdom of priests and a holy
-    nation; and 9 more.'
+    month after leaving Egypt; Moses speaks and God answers him with a voice (thunder); God comes to the
+    prophet in a thick cloud so the people may hear; Priests are mentioned before the Aaronic priesthood
+    is instituted; A ram''s horn blast signals that the people may go up the mountain; Men must not approach
+    a woman before a holy encounter; God descends or reveals himself on the third day; God carried Israel
+    on eagles'' wings; A horn blast at which all tremble [divergence between the texts]; Israel stands
+    beneath the mountain when the covenant is given [divergence between the texts]; Israel is to be a
+    kingdom of priests and a holy nation; Israel is to be a kingdom of priests and a holy nation [divergence
+    between the texts]; and 9 more.'
   basis: reading
 - text: 'Only in Covenant at the mountain and the Sabbath-breakers: The Sabbath is an everlasting sign
     of the covenant between God and Israel; The people of the Sabbath were cursed and (some) made apes

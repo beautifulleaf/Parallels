@@ -27,12 +27,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who throws the staff before Pharaoh and what it becomes [divergence
-    between the texts] (weight 6.7); Prophet''s wonders are imitated by the king''s magicians in a contest
-    [divergence between the texts] (weight 6.7); Why Pharaoh and Egypt refuse despite the signs [divergence
-    between the texts] (weight 6.0); The prophet''s staff-serpent swallows the magicians'' staff-serpents
-    (weight 6.0); An eloquent brother is appointed to speak for the hero, who is ''as God'' to him (weight
-    5.6); A staff thrown down becomes a serpent and turns back into a staff (weight 5.4); Prophet''s wonders
-    are imitated by the king''s magicians in a contest (weight 5.1). Pair score 41.5.'
+    between the texts] (weight 7.7); Prophet''s wonders are imitated by the king''s magicians in a contest
+    [divergence between the texts] (weight 7.7); Why Pharaoh and Egypt refuse despite the signs [divergence
+    between the texts] (weight 7.1); The prophet''s staff-serpent swallows the magicians'' staff-serpents
+    (weight 7.1); An eloquent brother is appointed to speak for the hero, who is ''as God'' to him (weight
+    6.6); A staff thrown down becomes a serpent and turns back into a staff (weight 6.5); Prophet''s wonders
+    are imitated by the king''s magicians in a contest (weight 6.0). Pair score 48.7.'
   basis: reading
 - text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
     staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet
@@ -53,10 +53,10 @@ evidence:
     fled out of fear; Pharaoh reproaches Moses: ''Did we not raise you among us as a child, and you did
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
     the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; Whose forefathers'' God is proclaimed in the Moses story [divergence
-    between the texts]; and 36 more.'
+    to pursue the departing people; and 44 more.'
   basis: reading
 - text: 'Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians'' staffs:
     tagged by Claude (model), reading the Hebrew.'

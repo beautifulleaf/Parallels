@@ -13,21 +13,21 @@ layers:
 motifs:
 - priest-bears-names-as-memorial
 - woven-collar-not-torn
-- names-of-tribes-engraved-on-stones
 - robe-with-bells-and-pomegranates
-- ephod
+- names-of-tribes-engraved-on-stones
 - linen-breeches-cover-nakedness
+- ephod
 - breastpiece-twelve-stones
 - gold-plate-holy-to-yhwh
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The priest carries Israel''s names before God as a memorial (weight
-    6.7); The robe''s neck opening is bound so it will not tear (weight 6.7); The names of the twelve
-    tribes are engraved like seals on gemstones (weight 6.7); The priest''s robe has gold bells and pomegranates
-    on its hem so he does not die (weight 6.7); The ephod, a woven priestly garment with shoulder pieces
-    (weight 6.3); Priests wear linen breeches to cover their nakedness, on pain of death (weight 6.3);
-    The breastpiece of judgment set with twelve gems in four rows (weight 6.3); A gold plate engraved
-    ''Holy to YHWH'' on the priest''s forehead (weight 6.0). Pair score 51.6.'
+    7.7); The robe''s neck opening is bound so it will not tear (weight 7.7); The priest''s robe has gold
+    bells and pomegranates on its hem so he does not die (weight 7.7); The names of the twelve tribes
+    are engraved like seals on gemstones (weight 7.7); Priests wear linen breeches to cover their nakedness,
+    on pain of death (weight 7.3); The ephod, a woven priestly garment with shoulder pieces (weight 7.3);
+    The breastpiece of judgment set with twelve gems in four rows (weight 7.3); A gold plate engraved
+    ''Holy to YHWH'' on the priest''s forehead (weight 7.1). Pair score 60.1.'
   basis: reading
 - text: 'Only in The high priest''s vestments: Aaron and his sons are designated as priests; Priestly
     garments are made for glory and beauty; Priests are installed by anointing and ''filling the hand'';
@@ -92,6 +92,31 @@ matches:
       lang: he
       text: וּפִֽי הַמְּעִ֥יל בְּתוֹכ֖וֹ כְּפִ֣י תַחְרָ֑א שָׂפָ֥ה לְפִ֛יו סָבִ֖יב לֹ֥א יִקָּרֵֽעַ
 - kind: shared
+  label: The priest's robe has gold bells and pomegranates on its hem so he does not die
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 28:31-35
+      lang: he
+      text: (28:31) וְעָשִׂ֛יתָ אֶת מְעִ֥יל הָאֵפ֖וֹד כְּלִ֥יל תְּכֵֽלֶת (28:32) וְהָיָ֥ה פִֽי רֹאשׁ֖וֹ
+        בְּתוֹכ֑וֹ שָׂפָ֡ה יִֽהְיֶה֩ לְפִ֨יו סָבִ֜יב מַעֲשֵׂ֣ה אֹרֵ֗ג כְּפִ֥י תַחְרָ֛א יִֽהְיֶה לּ֖וֹ
+        לֹ֥א יִקָּרֵֽעַ (28:33) וְעָשִׂ֣יתָ עַל שׁוּלָ֗יו רִמֹּנֵי֙ תְּכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת
+        שָׁנִ֔י עַל שׁוּלָ֖יו סָבִ֑יב וּפַעֲמֹנֵ֥י זָהָ֛ב בְּתוֹכָ֖ם סָבִֽיב (28:34) פַּעֲמֹ֤ן זָהָב֙
+        וְרִמּ֔וֹן פַּֽעֲמֹ֥ן זָהָ֖ב וְרִמּ֑וֹן עַל שׁוּלֵ֥י הַמְּעִ֖יל סָבִֽיב (28:35) וְהָיָ֥ה עַֽל
+        אַהֲרֹ֖ן לְשָׁרֵ֑ת וְנִשְׁמַ֣ע ק֠וֹלוֹ בְּבֹא֨וֹ אֶל הַקֹּ֜דֶשׁ לִפְנֵ֧י יְהוָ֛ה וּבְצֵאת֖וֹ וְלֹ֥א
+        יָמֽוּת
+    note: sound heard so he will not die
+  - tradition: judaism
+    passages:
+    - ref: Exod 39:22-26
+      lang: he
+      text: (39:22) וַיַּ֛עַשׂ אֶת מְעִ֥יל הָאֵפֹ֖ד מַעֲשֵׂ֣ה אֹרֵ֑ג כְּלִ֖יל תְּכֵֽלֶת (39:23) וּפִֽי
+        הַמְּעִ֥יל בְּתוֹכ֖וֹ כְּפִ֣י תַחְרָ֑א שָׂפָ֥ה לְפִ֛יו סָבִ֖יב לֹ֥א יִקָּרֵֽעַ (39:24) וַֽיַּעֲשׂוּ֙
+        עַל שׁוּלֵ֣י הַמְּעִ֔יל רִמּוֹנֵ֕י תְּכֵ֥לֶת וְאַרְגָּמָ֖ן וְתוֹלַ֣עַת שָׁנִ֑י מָשְׁזָֽר (39:25)
+        וַיַּעֲשׂ֥וּ פַעֲמֹנֵ֖י זָהָ֣ב טָה֑וֹר וַיִּתְּנ֨וּ אֶת הַפַּֽעֲמֹנִ֜ים בְּת֣וֹךְ הָרִמֹּנִ֗ים
+        עַל שׁוּלֵ֤י הַמְּעִיל֙ סָבִ֔יב בְּת֖וֹךְ הָרִמֹּנִֽים (39:26) פַּעֲמֹ֤ן וְרִמֹּן֙ פַּעֲמֹ֣ן וְרִמֹּ֔ן
+        עַל שׁוּלֵ֥י הַמְּעִ֖יל סָבִ֑יב לְשָׁרֵ֕ת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה
+- kind: shared
   label: The names of the twelve tribes are engraved like seals on gemstones
   sides:
   - tradition: judaism
@@ -119,30 +144,24 @@ matches:
       text: וְ֠הָאֲבָנִים עַל שְׁמֹ֨ת בְּנֵי יִשְׂרָאֵ֥ל הֵ֛נָּה שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל שְׁמֹתָ֑ם פִּתּוּחֵ֤י
         חֹתָם֙ אִ֣ישׁ עַל שְׁמ֔וֹ לִשְׁנֵ֥ים עָשָׂ֖ר שָֽׁבֶט
 - kind: shared
-  label: The priest's robe has gold bells and pomegranates on its hem so he does not die
+  label: Priests wear linen breeches to cover their nakedness, on pain of death
   sides:
   - tradition: judaism
     passages:
-    - ref: Exod 28:31-35
+    - ref: Exod 28:42
       lang: he
-      text: (28:31) וְעָשִׂ֛יתָ אֶת מְעִ֥יל הָאֵפ֖וֹד כְּלִ֥יל תְּכֵֽלֶת (28:32) וְהָיָ֥ה פִֽי רֹאשׁ֖וֹ
-        בְּתוֹכ֑וֹ שָׂפָ֡ה יִֽהְיֶה֩ לְפִ֨יו סָבִ֜יב מַעֲשֵׂ֣ה אֹרֵ֗ג כְּפִ֥י תַחְרָ֛א יִֽהְיֶה לּ֖וֹ
-        לֹ֥א יִקָּרֵֽעַ (28:33) וְעָשִׂ֣יתָ עַל שׁוּלָ֗יו רִמֹּנֵי֙ תְּכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת
-        שָׁנִ֔י עַל שׁוּלָ֖יו סָבִ֑יב וּפַעֲמֹנֵ֥י זָהָ֛ב בְּתוֹכָ֖ם סָבִֽיב (28:34) פַּעֲמֹ֤ן זָהָב֙
-        וְרִמּ֔וֹן פַּֽעֲמֹ֥ן זָהָ֖ב וְרִמּ֑וֹן עַל שׁוּלֵ֥י הַמְּעִ֖יל סָבִֽיב (28:35) וְהָיָ֥ה עַֽל
-        אַהֲרֹ֖ן לְשָׁרֵ֑ת וְנִשְׁמַ֣ע ק֠וֹלוֹ בְּבֹא֨וֹ אֶל הַקֹּ֜דֶשׁ לִפְנֵ֧י יְהוָ֛ה וּבְצֵאת֖וֹ וְלֹ֥א
-        יָמֽוּת
-    note: sound heard so he will not die
+      text: וַעֲשֵׂ֤ה לָהֶם֙ מִכְנְסֵי בָ֔ד לְכַסּ֖וֹת בְּשַׂ֣ר עֶרְוָ֑ה מִמָּתְנַ֥יִם וְעַד יְרֵכַ֖יִם
+        יִהְיֽוּ
+    - ref: Exod 28:43
+      lang: he
+      text: וְהָיוּ֩ עַל אַהֲרֹ֨ן וְעַל בָּנָ֜יו בְּבֹאָ֣ם אֶל אֹ֣הֶל מוֹעֵ֗ד א֣וֹ בְגִשְׁתָּ֤ם אֶל הַמִּזְבֵּ֨חַ֙
+        לְשָׁרֵ֣ת בַּקֹּ֔דֶשׁ וְלֹא יִשְׂא֥וּ עָוֺ֖ן וָמֵ֑תוּ חֻקַּ֥ת עוֹלָ֛ם ל֖וֹ וּלְזַרְע֥וֹ אַחֲרָֽיו
   - tradition: judaism
     passages:
-    - ref: Exod 39:22-26
+    - ref: Exod 39:28
       lang: he
-      text: (39:22) וַיַּ֛עַשׂ אֶת מְעִ֥יל הָאֵפֹ֖ד מַעֲשֵׂ֣ה אֹרֵ֑ג כְּלִ֖יל תְּכֵֽלֶת (39:23) וּפִֽי
-        הַמְּעִ֥יל בְּתוֹכ֖וֹ כְּפִ֣י תַחְרָ֑א שָׂפָ֥ה לְפִ֛יו סָבִ֖יב לֹ֥א יִקָּרֵֽעַ (39:24) וַֽיַּעֲשׂוּ֙
-        עַל שׁוּלֵ֣י הַמְּעִ֔יל רִמּוֹנֵ֕י תְּכֵ֥לֶת וְאַרְגָּמָ֖ן וְתוֹלַ֣עַת שָׁנִ֑י מָשְׁזָֽר (39:25)
-        וַיַּעֲשׂ֥וּ פַעֲמֹנֵ֖י זָהָ֣ב טָה֑וֹר וַיִּתְּנ֨וּ אֶת הַפַּֽעֲמֹנִ֜ים בְּת֣וֹךְ הָרִמֹּנִ֗ים
-        עַל שׁוּלֵ֤י הַמְּעִיל֙ סָבִ֔יב בְּת֖וֹךְ הָרִמֹּנִֽים (39:26) פַּעֲמֹ֤ן וְרִמֹּן֙ פַּעֲמֹ֣ן וְרִמֹּ֔ן
-        עַל שׁוּלֵ֥י הַמְּעִ֖יל סָבִ֑יב לְשָׁרֵ֕ת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה
+      text: וְאֵת֙ הַמִּצְנֶ֣פֶת שֵׁ֔שׁ וְאֶת פַּאֲרֵ֥י הַמִּגְבָּעֹ֖ת שֵׁ֑שׁ וְאֶת מִכְנְסֵ֥י הַבָּ֖ד
+        שֵׁ֥שׁ מָשְׁזָֽר
 - kind: shared
   label: The ephod, a woven priestly garment with shoulder pieces
   sides:
@@ -172,25 +191,6 @@ matches:
         חֹשֵֽׁב (39:4) כְּתֵפֹ֥ת עָֽשׂוּ ל֖וֹ חֹבְרֹ֑ת עַל שְׁנֵ֥י קצוותו קְצוֹתָ֖יו חֻבָּֽר (39:5) וְחֵ֨שֶׁב
         אֲפֻדָּת֜וֹ אֲשֶׁ֣ר עָלָ֗יו מִמֶּ֣נּוּ הוּא֮ כְּמַעֲשֵׂהוּ֒ זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת
         שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה
-- kind: shared
-  label: Priests wear linen breeches to cover their nakedness, on pain of death
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 28:42
-      lang: he
-      text: וַעֲשֵׂ֤ה לָהֶם֙ מִכְנְסֵי בָ֔ד לְכַסּ֖וֹת בְּשַׂ֣ר עֶרְוָ֑ה מִמָּתְנַ֥יִם וְעַד יְרֵכַ֖יִם
-        יִהְיֽוּ
-    - ref: Exod 28:43
-      lang: he
-      text: וְהָיוּ֩ עַל אַהֲרֹ֨ן וְעַל בָּנָ֜יו בְּבֹאָ֣ם אֶל אֹ֣הֶל מוֹעֵ֗ד א֣וֹ בְגִשְׁתָּ֤ם אֶל הַמִּזְבֵּ֨חַ֙
-        לְשָׁרֵ֣ת בַּקֹּ֔דֶשׁ וְלֹא יִשְׂא֥וּ עָוֺ֖ן וָמֵ֑תוּ חֻקַּ֥ת עוֹלָ֛ם ל֖וֹ וּלְזַרְע֥וֹ אַחֲרָֽיו
-  - tradition: judaism
-    passages:
-    - ref: Exod 39:28
-      lang: he
-      text: וְאֵת֙ הַמִּצְנֶ֣פֶת שֵׁ֔שׁ וְאֶת פַּאֲרֵ֥י הַמִּגְבָּעֹ֖ת שֵׁ֑שׁ וְאֶת מִכְנְסֵ֥י הַבָּ֖ד
-        שֵׁ֥שׁ מָשְׁזָֽר
 - kind: shared
   label: The breastpiece of judgment set with twelve gems in four rows
   sides:

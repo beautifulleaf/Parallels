@@ -21,9 +21,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God takes the patriarch outside and tells him to count the stars
-    [divergence between the texts] (weight 6.7); God takes the patriarch outside and tells him to count
-    the stars (weight 6.7); Patriarch believes God and it is counted to him as righteousness (weight 6.3).
-    Pair score 19.7.'
+    [divergence between the texts] (weight 7.7); God takes the patriarch outside and tells him to count
+    the stars (weight 7.7); Patriarch believes God and it is counted to him as righteousness (weight 7.3).
+    Pair score 22.8.'
   basis: reading
 - text: 'Only in The covenant between the pieces: Birds of prey descend on the sacrifice and the hero
     drives them away; Childless patriarch''s household servant is to be his heir; A great dark dread falls
@@ -32,18 +32,19 @@ evidence:
     between the texts]; Abraham takes and cuts animals at God''s command [divergence between the texts];
     Promised land stretches from the river of Egypt to the Euphrates; Descendants foretold to be enslaved
     in a foreign land 400 years and leave with great wealth; Covenant ritual: animals cut in halves and
-    a divine presence passes between them; God casts a deep sleep (tardemah) on a man; The called one
-    asks for a sign that it is God who speaks [divergence between the texts]; and 4 more.'
+    a divine presence passes between them; The called one asks for a sign that it is God who speaks [divergence
+    between the texts]; God casts a deep sleep (tardemah) on a man; and 4 more.'
   basis: reading
 - text: 'Only in Abraham, Azar and the star, moon and sun: Abraham''s people dispute with him; he fears
     none of their gods; God showed Abraham the kingdom (malakūt) of the heavens and the earth; Abraham''s
     father is named Āzar; Abraham: ''I do not love things that set'' (lā uḥibbu l-āfilīn); Which of the
-    two parties has more right to security? Those who believe without mixing in wrong; If he is a god,
-    let him defend himself [divergence between the texts]; Prohibition of worshipping sun, moon, stars,
-    the host of heaven [divergence between the texts]; Follow the religion (milla) of Abraham the ḥanīf,
-    who was no idolater; Prohibition of worshipping sun, moon, stars, the host of heaven; Hero reasons
-    from the stars, moon and sun to the one God; Hero''s father makes, sells or worships idols [divergence
-    between the texts]; Hero''s father makes, sells or worships idols.'
+    two parties has more right to security? Those who believe without mixing in wrong; A star, the moon
+    or the sun is identified as the (high) god [divergence between the texts]; If he is a god, let him
+    defend himself [divergence between the texts]; What follows when the sun (as deity) goes down [divergence
+    between the texts]; Prohibition of worshipping sun, moon, stars, the host of heaven [divergence between
+    the texts]; Follow the religion (milla) of Abraham the ḥanīf, who was no idolater; Prohibition of
+    worshipping sun, moon, stars, the host of heaven; Hero reasons from the stars, moon and sun to the
+    one God; and 2 more.'
   basis: reading
 - text: 'The covenant between the pieces: tagged by Claude (model), reading the Hebrew.'
   basis: reading

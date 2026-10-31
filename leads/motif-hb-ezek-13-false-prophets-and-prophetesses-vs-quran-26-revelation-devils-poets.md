@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: False prophets prophesy ''from their own heart'', following their
-    own spirit, having seen nothing (weight 6.3). Pair score 6.3.'
+    own spirit, having seen nothing (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Against the false prophets and the women who hunt souls: False prophets will not be in
     the council of God''s people nor written in the register of the house of Israel; The prophets of Israel
@@ -27,12 +27,12 @@ evidence:
     False prophets mislead the people saying ''Peace'' when there is no peace; The true prophet''s task
     is to go up into the breaches and build a wall for the people on the day of battle; false prophets
     did not; God tears off the magic bands and lets the trapped souls go free ''like birds'' (leporhot);
-    Women prophetesses sew bands (kesatot) on wrists and make veils (mispahot) for heads to hunt souls,
-    killing and keeping alive by magic; Parable: one who builds on the brink of a crumbling bank falls
-    with it into hell; Kings or people practice divination (qesem) and augury (nihush); None more wrong
+    Parable: one who builds on the brink of a crumbling bank falls with it into hell; None more wrong
     than one who falsely claims revelation or says he can send down the like of God''s; Whether a prophet
     takes payment for his message [contrast between the texts]; False prophets daub a flimsy wall with
-    whitewash (tafel); God''s storm, flood-rain and hailstones bring it down; and 3 more.'
+    whitewash (tafel); God''s storm, flood-rain and hailstones bring it down; Women prophetesses sew bands
+    (kesatot) on wrists and make veils (mispahot) for heads to hunt souls, killing and keeping alive by
+    magic; Kings or people practice divination (qesem) and augury (nihush); and 3 more.'
   basis: reading
 - text: 'Only in The Trustworthy Spirit, the scriptures of the ancients, devils, kin and poets: Devils
     did not bring down the revelation; they are barred from overhearing heaven; The devils descend upon

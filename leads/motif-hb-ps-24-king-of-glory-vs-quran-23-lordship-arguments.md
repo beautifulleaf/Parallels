@@ -20,15 +20,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wonder done ''so that you may know that the earth belongs to YHWH''
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
-- text: 'Only in Psalm 24 - lift up your heads, O gates: Who shall ascend the mountain of YHWH? He who
-    has clean hands and a pure heart and has not sworn deceitfully; God founded the earth upon the seas
-    and established it upon the rivers; Antiphonal question ''Who is the King of Glory?'' answered ''YHWH
-    strong and mighty, YHWH of hosts''; Gates and everlasting doors are told to lift up their heads that
-    the King of Glory may come in; Entrance liturgy: ''Who may dwell on your holy mountain?'' answered
-    by a list of ethical qualifications; God celebrated as a warrior (''YHWH is a man of war''); The marker
-    selah interrupts the psalm; Psalm superscription ascribes the poem to David (le-david).'
+- text: 'Only in Psalm 24 - lift up your heads, O gates: God founded the earth upon the seas and established
+    it upon the rivers; Antiphonal question ''Who is the King of Glory?'' answered ''YHWH strong and mighty,
+    YHWH of hosts''; Gates and everlasting doors are told to lift up their heads that the King of Glory
+    may come in; Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical
+    qualifications; Who shall ascend the mountain of YHWH? He who has clean hands and a pure heart and
+    has not sworn deceitfully; The marker selah interrupts the psalm; God celebrated as a warrior (''YHWH
+    is a man of war''); Psalm superscription ascribes the poem to David (le-david).'
   basis: reading
 - text: 'Only in Who owns the earth? The fables of the ancients and the impossibility of many gods: Sufferer
     imagines suing God but knows God''s might would silence or condemn him; Those called God''s offspring

@@ -19,20 +19,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The effects of wine and of the cup: mockery, madness, or none [contrast
-    between the texts] (weight 5.8). Pair score 5.8.'
+    between the texts] (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Father''s appeal, the harlot as pit, and the drunkard''s woes: Buy truth and do not sell
     it, wisdom, instruction and understanding; The drunkard is like one lying in the heart of the sea
     or on top of a mast; struck and feeling nothing, he seeks more on waking; Riddle-catalogue: ''Who
     has woe? who has sorrow? who has strife, wounds without cause, red eyes?'' Those who linger over wine;
-    ''My son, give me your heart and let your eyes keep my ways''; Do not be among wine-bibbers and gluttonous
-    eaters of meat, for drunkard and glutton come to poverty and rags; The harlot lies in wait like a
-    robber and multiplies the faithless among men; The speaker''s kidneys (kilyot) exult at the son''s
-    upright words; Do not envy sinners or evildoers, for there is a future (aharit) and your hope will
-    not be cut off; The effects of wine on the drinker [contrast between the texts]; The mouth of the
-    strange woman (or harlot) is a deep pit, a narrow well into which the cursed falls; Do not look at
-    wine when it is red and sparkles in the cup; at the last it bites like a serpent and stings like a
-    viper; A wise son gladdens his father; a foolish son grieves his mother.'
+    ''My son, give me your heart and let your eyes keep my ways''; The harlot lies in wait like a robber
+    and multiplies the faithless among men; The speaker''s kidneys (kilyot) exult at the son''s upright
+    words; Do not envy sinners or evildoers, for there is a future (aharit) and your hope will not be
+    cut off; The effects of wine on the drinker [contrast between the texts]; Do not be among wine-bibbers
+    and gluttonous eaters of meat, for drunkard and glutton come to poverty and rags; Do not look at wine
+    when it is red and sparkles in the cup; at the last it bites like a serpent and stings like a viper;
+    The mouth of the strange woman (or harlot) is a deep pit, a narrow well into which the cursed falls;
+    A wise son gladdens his father; a foolish son grieves his mother.'
   basis: reading
 - text: 'Only in Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
     of the Right and their Garden: In paradise they have the flesh of fowl as they desire; Immortal youths
@@ -42,10 +42,10 @@ evidence:
     ''Peace, peace''; The Companions of the Right are among thornless lote trees (sidr makhdud) and layered
     talh (acacia/banana) with extended shade and poured water; Humanity sorted into three classes: Companions
     of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; Bird-meat as desired
-    food: punished or granted [contrast between the texts]; The earth is shaken violently and the mountains
+    food: punished or granted [contrast between the texts]; Young servers go round with a variety of vessels
+    serving a mixed drink [divergence between the texts]; The earth is shaken violently and the mountains
     crumbled into scattered dust (haba''); Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; Into how many
-    groups humankind is sorted at the end [divergence between the texts]; and 11 more.'
+    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; and 12 more.'
   basis: reading
 - text: 'Father''s appeal, the harlot as pit, and the drunkard''s woes: tagged by Claude (model), reading
     the Hebrew.'

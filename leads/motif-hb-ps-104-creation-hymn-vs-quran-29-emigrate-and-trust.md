@@ -20,27 +20,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God provides prey for the lion and food for the raven''s young that
-    cry to him (weight 6.0); Rain from the sky gives life to the earth after its death, a sign of resurrection
-    (weight 4.4). Pair score 10.4.'
+    cry to him (weight 7.1); Rain from the sky gives life to the earth after its death, a sign of resurrection
+    (weight 5.5). Pair score 12.5.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 39 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 39 more.'
   basis: reading
 - text: 'Only in God''s earth is wide; every soul tastes death; signs and the secure sanctuary: God made
-    a secure sanctuary (haram amin) while people around are snatched away; This life is fleeting; whether
-    anything real follows it [divergence between the texts]; Seafarers cry to God in a storm; what they
-    do once rescued [contrast between the texts]; Was not God''s earth wide enough for you to emigrate
-    (hijra) in it?; Seafarers cry to God in a storm; what they do once rescued [divergence between the
-    texts]; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved; The life
+    a secure sanctuary (haram amin) while people around are snatched away; Life on earth is slight or
+    unreal set against the true life of the hereafter [divergence between the texts]; This life is fleeting;
+    whether anything real follows it [divergence between the texts]; Seafarers cry to God in a storm;
+    what they do once rescued [contrast between the texts]; Was not God''s earth wide enough for you to
+    emigrate (hijra) in it?; Seafarers cry to God in a storm; what they do once rescued [divergence between
+    the texts]; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved; The life
     of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter is the true
     life; Every soul shall taste death; If asked who created heaven and earth and sends rain, the idolaters
     themselves answer ''God''; ''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience);

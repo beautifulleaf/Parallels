@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The word of God comes to the prophet a second time with the same
-    commission (weight 6.7). Pair score 6.7.'
+    commission (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jonah preaches and Nineveh repents down to its animals: By royal decree even the cattle
     and flocks fast, drink no water and are covered in sackcloth; A prophet announces: ''Forty more days
-    and the city will be overturned''; The king rises from his throne, removes his robe, covers himself
-    with sackcloth and sits in ashes; Nineveh is an exceedingly great city of three days'' walk; Each
+    and the city will be overturned''; Nineveh is an exceedingly great city of three days'' walk; Each
     is to turn from his evil way and from the violence (hamas) in his hands; God sees the people''s repentance
     and does not carry out the announced destruction; ''Who knows? God may turn and relent'' as a ground
     for repentance; A period of forty days; The city to which Jonah is sent believes and is spared; The
-    city to which Jonah is sent believes and is spared [divergence between the texts]; A whole foreign
+    city to which Jonah is sent believes and is spared [divergence between the texts]; The king rises
+    from his throne, removes his robe, covers himself with sackcloth and sits in ashes; A whole foreign
     city believes the prophet''s warning, proclaims a fast and puts on sackcloth from greatest to least;
     Cities overturned (hafakh) and the plain destroyed; and 1 more.'
   basis: reading
@@ -40,11 +40,11 @@ evidence:
     is laid bare (yukshafu ''an saq) and they are called to prostrate but cannot; The unbelievers almost
     make the prophet slip with their (evil) eyes when they hear the reminder; Do they possess the Unseen
     (al-ghayb) so they write it down?; At God''s command the fish vomits the prophet onto dry land [divergence
-    between the texts]; ''Are your unbelievers better than those, or have you an immunity (bara''a) in
-    the scriptures (zubur)?''; The prophet is bitterly angry that God has spared the sinners; The prophet
-    is bitterly angry that God has spared the sinners [divergence between the texts]; At God''s command
-    the fish vomits the prophet onto dry land; The man of the fish (Dhū l-Nūn) cries from the darknesses
-    ''There is no god but you; I was a wrongdoer'' and is saved; and 6 more.'
+    between the texts]; The eye (gaze) as a harmful force against a person; ''Are your unbelievers better
+    than those, or have you an immunity (bara''a) in the scriptures (zubur)?''; The prophet is bitterly
+    angry that God has spared the sinners; The prophet is bitterly angry that God has spared the sinners
+    [divergence between the texts]; At God''s command the fish vomits the prophet onto dry land; and 7
+    more.'
   basis: reading
 - text: 'Jonah preaches and Nineveh repents down to its animals: tagged by Claude (model), reading the
     Hebrew.'

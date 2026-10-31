@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not forgive associating partners with him (shirk) but forgives
-    anything less (weight 6.3). Pair score 6.3.'
+    anything less (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
@@ -38,12 +38,12 @@ evidence:
     with their tongues to mock; The blessed enter a deep, lasting shade (ẓill ẓalīl); Threat to obliterate
     faces and turn them backward; In hellfire, whenever the skins are burnt through, they are replaced
     with new skins; Some of the People of the Book believe in al-jibt and al-ṭāghūt (idols, false powers);
-    The people answer as one: all that YHWH has spoken we will do [divergence between the texts]; The
-    people answer as one: all that YHWH has spoken we will do [response between the texts]; Those who
-    violate the Sabbath are punished (executed, cut off, cursed or transformed) [divergence between the
-    texts]; Those who claim to be pure are rebuked: God purifies whom he will; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); Kings promised to come from the patriarch
-    or matriarch; and 6 more.'
+    A thread as the smallest measure: not even a thread is withheld, or wronged; The people answer as
+    one: all that YHWH has spoken we will do [divergence between the texts]; The people answer as one:
+    all that YHWH has spoken we will do [response between the texts]; Those who violate the Sabbath are
+    punished (executed, cut off, cursed or transformed) [divergence between the texts]; Those who claim
+    to be pure are rebuked: God purifies whom he will; Israel at the mountain says ''we hear and we disobey''
+    (sami''na wa-''asayna); and 7 more.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged
     by Claude (model), reading the Hebrew.'

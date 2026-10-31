@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One scatters and yet increases; the generous soul is made fat and
-    who waters will be watered (weight 6.0). Pair score 6.0.'
+    who waters will be watered (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Sayings on honest scales, generosity and the fate of the wicked: A city exults at the
     prosperity of the righteous and shouts for joy when the wicked perish; Like a gold ring in a pig''s
     snout is a beautiful woman without discretion; The people curse him who withholds grain, but blessing
-    is on the head of him who sells it; He who troubles his household will inherit the wind; He who trusts
-    in riches falls; the righteous sprout like green leaves; If the righteous is repaid on earth, how
-    much more the wicked and the sinner; The fruit of the righteous is a tree of life and the wise man
-    ''takes souls'' (wins people); Treasures of wickedness do not profit, but righteousness (tsedaqah)
-    delivers from death; The righteous is rescued from trouble and the wicked goes in his place (as his
-    ransom); The rich man thinks his garden will never perish and the Hour will never come; Pride goes
-    before destruction and a haughty spirit before stumbling; The talebearer (rakhil) goes about revealing
-    secrets; the faithful conceal a matter; and 6 more.'
+    is on the head of him who sells it; He who troubles his household will inherit the wind; If the righteous
+    is repaid on earth, how much more the wicked and the sinner; The fruit of the righteous is a tree
+    of life and the wise man ''takes souls'' (wins people); He who trusts in riches falls; the righteous
+    sprout like green leaves; Treasures of wickedness do not profit, but righteousness (tsedaqah) delivers
+    from death; The righteous is rescued from trouble and the wicked goes in his place (as his ransom);
+    The rich man thinks his garden will never perish and the Hour will never come; Without counsel a people
+    falls; in a multitude of counselors there is victory; Warning against standing surety (pledge) for
+    a stranger or a neighbor''s debt; and 6 more.'
   basis: reading
 - text: 'Only in Parables of charity: Charity voided by reminders of generosity and injury, like dust
     on a rock washed bare by rain; Spending for God''s pleasure is like a garden on a height that yields
@@ -40,9 +40,11 @@ evidence:
     for their restraint, known by their mark; Satan threatens you with poverty and commands indecency;
     Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the poor;
     He who gives to the poor will not lack, but he who hides his eyes will get many curses; Patriarch
-    reaps a hundredfold in one year; An old man with weak children loses his garden of palms and vines
-    to a fiery whirlwind; Giving charity openly is good, but giving it secretly to the poor is better
-    and expiates sins; God gives wisdom to whom he wills; whoever is given wisdom is given much good.'
+    reaps a hundredfold in one year; An inferior thing is given in place of the good one owed to God or
+    the god [divergence between the texts]; A single grain given (to the god, in God''s way) returns many
+    times over; An old man with weak children loses his garden of palms and vines to a fiery whirlwind;
+    Giving charity openly is good, but giving it secretly to the poor is better and expiates sins; and
+    2 more.'
   basis: reading
 - text: 'Sayings on honest scales, generosity and the fate of the wicked: tagged by Claude (model), reading
     the Hebrew.'

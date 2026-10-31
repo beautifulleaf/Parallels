@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mothers nurse their children two full years; weaning by mutual consultation;
-    wet-nursing permitted (weight 6.7). Pair score 6.7.'
+    wet-nursing permitted (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Hannah''s vow and Samuel''s birth: Barren favored wife provoked by a fertile rival co-wife;
     Child brought to the sanctuary once weaned, with sacrifices; Child''s name explained as ''asked of
@@ -39,7 +39,7 @@ evidence:
     during the waiting period but no secret promise or contract until it ends; Oath of abstention from
     wives (ila''): a four-month waiting period; In fear, pray on foot or riding; Divorced women are due
     a provision (mut''a) according to the husband''s means; After a third divorce she may not return to
-    the first husband until she marries another; and 12 more.'
+    the first husband until she marries another; and 14 more.'
   basis: reading
 - text: 'Hannah''s vow and Samuel''s birth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

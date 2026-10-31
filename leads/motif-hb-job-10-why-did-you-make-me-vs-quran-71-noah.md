@@ -21,20 +21,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Human created in stages: a drop of sperm (nutfa), a clinging clot
-    (''alaq/''alaqa), then shaped and proportioned (weight 5.4); Human comes from dust and returns to
-    dust (weight 5.0); First human shaped from dust, clay or soil (weight 4.6). Pair score 15.0.'
+    (''alaq/''alaqa), then shaped and proportioned (weight 6.5); Human comes from dust and returns to
+    dust (weight 5.9); First human shaped from dust, clay or soil (weight 5.2). Pair score 17.5.'
   basis: reading
 - text: 'Only in Job - ''Your hands fashioned me''; land of darkness: The sufferer reminds God that God''s
     hands shaped him yet now destroy him; ''Have you eyes of flesh? Are your days like a mortal''s days?'';
-    God hunts the sufferer like a lion; The underworld as a land of darkness and deep shadow, without
-    order, where light is like darkness; God created Adam ''with my two hands''; God creates you in your
+    God hunts the sufferer like a lion; God created Adam ''with my two hands''; God creates you in your
     mothers'' bellies creation after creation in three darknesses; God''s crafting of the human body,
-    and what is said to follow from it [divergence between the texts]; Like a vanishing cloud, whoever
-    goes down to Sheol does not come up; his place knows him no more; From dust, then a drop, then a clinging
-    clot (''alaqa), then a child, then full strength, then old age; some die before; Have you seen what
-    you emit? Do you create it, or are we the creator?; Sufferer wishes he had died in the womb or been
-    a hidden stillborn; God poured the embryo out like milk and curdled it like cheese, clothing it with
-    skin and flesh and knitting bones and sinews.'
+    and what is said to follow from it [divergence between the texts]; From dust, then a drop, then a
+    clinging clot (''alaqa), then a child, then full strength, then old age; some die before; Have you
+    seen what you emit? Do you create it, or are we the creator?; Sufferer wishes he had died in the womb
+    or been a hidden stillborn; God poured the embryo out like milk and curdled it like cheese, clothing
+    it with skin and flesh and knitting bones and sinews; The underworld as a land of darkness and deep
+    shadow, without order, where light is like darkness; Like a vanishing cloud, whoever goes down to
+    Sheol does not come up; his place knows him no more.'
   basis: reading
 - text: 'Only in Noah''s preaching, the five idols and the flood: Because of their sins they were drowned
     and then made to enter a fire; The people put their fingers in their ears and wrap their garments
@@ -42,13 +42,12 @@ evidence:
     Yaghuth, Ya''uq and Nasr; The flood hero prays for forgiveness for himself, his parents, whoever enters
     his house believing, and all believers; God caused humans to grow from the earth like a plant, returns
     them to it and will bring them out again; Prophet summons his people night and day, openly and in
-    secret, yet they only flee further; Human comes from dust and returns to dust [divergence between
-    the texts]; Deity resolves or promises not to repeat the destruction [divergence between the texts];
-    Destruction motivated by human wickedness or violence [divergence between the texts]; Seek forgiveness
-    and repent, and God will send the sky down on you in abundant rain [divergence between the texts];
-    God created seven heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens) above
-    humans; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur) within the heavens;
-    and 11 more.'
+    secret, yet they only flee further; People are put into the earth and brought out of it again [divergence
+    between the texts]; Destroying a people together with their offspring because of their character [neutral]
+    [divergence between the texts]; Human comes from dust and returns to dust [divergence between the
+    texts]; Before the flood the hero tells his city that heaven will rain plenty on them [divergence
+    between the texts]; A wish that no one be left alive by the destruction [divergence between the texts];
+    Deity resolves or promises not to repeat the destruction [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'Job - ''Your hands fashioned me''; land of darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

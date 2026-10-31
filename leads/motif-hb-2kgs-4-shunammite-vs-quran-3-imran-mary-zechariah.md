@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet promises a childless woman with an old husband a son ''at
-    this season next year'' (weight 6.7); A barren wife is told by a divine messenger that she will bear
-    a son (weight 5.8). Pair score 12.5.'
+    this season next year'' (weight 7.7); A barren wife is told by a divine messenger that she will bear
+    a son (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in The Shunammite woman and her son: Child in the harvest field cries ''My head, my head!''
     and dies at noon on his mother''s knees; Woman protests the promise of a son: ''Do not lie to your
@@ -42,9 +42,9 @@ evidence:
     like the female''; Sign given to the doubting father: he will not speak to people for three days except
     by gestures; Zechariah is made Mary''s guardian; God chose Adam, Noah, the family of Abraham and the
     family of Imran over the worlds; Doubt voiced at the promise of a son in old age [divergence between
-    the texts]; The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; Mother
-    vows her (unborn) child to God''s service [divergence between the texts]; Muteness imposed as a sign
-    [divergence between the texts]; and 12 more.'
+    the texts]; The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; A mother
+    commits her child to her god''s keeping, against sin or against the evil one; Mother vows her (unborn)
+    child to God''s service [divergence between the texts]; and 15 more.'
   basis: reading
 - text: 'The Shunammite woman and her son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Neither their silver nor their gold can save them on the day of
-    YHWH''s wrath (weight 6.3). Pair score 6.3.'
+    YHWH''s wrath (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Zephaniah''s Day of YHWH against Judah: Men thickened on their lees who say in their
     hearts ''YHWH will do neither good nor evil''; The Day of YHWH is a sacrifice he has prepared, with
@@ -37,9 +37,11 @@ evidence:
     hands of the male and female thief as recompense; Those who repent before they are overpowered are
     pardoned; Seek a means of approach (al-wasīla) to God; Those who wage war on God and spread corruption:
     killed, crucified, hands and feet cut off on opposite sides, or exiled; Executed men''s hands and
-    feet cut off and their bodies hung up publicly; The penalty prescribed for theft [contrast between
-    the texts]; Each wrongdoer would ransom himself with all that is on earth, if he could; No man can
-    ransom his brother or give God a ransom (kofer) for him; the redemption of life is too costly.'
+    feet cut off and their bodies hung up publicly; Cutting off hands and feet as the punishment of those
+    who sin against (wage war on) the god [divergence between the texts]; Each wrongdoer would ransom
+    himself with all that is on earth, if he could; The penalty for theft [neutral] [contrast between
+    the texts]; No man can ransom his brother or give God a ransom (kofer) for him; the redemption of
+    life is too costly.'
   basis: reading
 - text: 'Zephaniah''s Day of YHWH against Judah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

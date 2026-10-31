@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A bronze laver where priests wash hands and feet before service,
-    lest they die [divergence between the texts] (weight 6.7); A bronze laver where priests wash hands
-    and feet before service, lest they die (weight 6.0). Pair score 12.7.'
+    lest they die [divergence between the texts] (weight 7.7); A bronze laver where priests wash hands
+    and feet before service, lest they die (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Incense altar, half-shekel ransom and bronze laver: Once a year atonement is made on
     the altar''s horns with blood; Atonement money funds the sanctuary as a memorial before God; Incense
@@ -33,10 +33,10 @@ evidence:
 - text: 'Only in Ablution, the covenant ''we hear and obey'', and justice despite hatred: Before prayer
     wash the face, hands to the elbows, wipe the head and wash feet to the ankles; God restrained a people
     who meant to stretch out their hands against the believers; Bathing in water after sexual emission
-    or intercourse; One in major impurity (junub) must bathe before prayer, except a traveller passing
-    through; Without water, purify with clean earth (tayammum), wiping face and hands; Let not hatred
-    of a people move you to injustice; be just; The people answer as one: all that YHWH has spoken we
-    will do.'
+    or intercourse; Hands must be washed before they are raised in prayer or before prayer; One in major
+    impurity (junub) must bathe before prayer, except a traveller passing through; Without water, purify
+    with clean earth (tayammum), wiping face and hands; Let not hatred of a people move you to injustice;
+    be just; The people answer as one: all that YHWH has spoken we will do.'
   basis: reading
 - text: 'Incense altar, half-shekel ransom and bronze laver: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -13,24 +13,24 @@ traditions:
 layers:
 - motif
 motifs:
-- stubborn-rebellious-son-stoned
 - son-who-rejects-his-parents-as-divergence
+- stubborn-rebellious-son-stoned
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Stubborn and rebellious son, glutton and drunkard, stoned by the
-    men of his city (weight 6.7); A son who rejects his parents: the charge and the penalty [divergence
-    between the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: A son who rejects his parents: the charge and the penalty [divergence
+    between the texts] (weight 7.7); Stubborn and rebellious son, glutton and drunkard, stoned by the
+    men of his city (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: Captive
     wife who is no longer wanted must be freed, not sold; Captive woman shaves her head, pares her nails,
-    mourns her parents a month before marriage; Elders wash their hands over the heifer: our hands did
-    not shed this blood; Body hanged on a tree must be buried the same day; the hanged is a curse of God;
-    A boy is killed lest he burden his believing parents with rebellion; God will give them a better child
-    [contrast between the texts]; Who receives a double share of inheritance [divergence between the texts];
-    Firstborn of the unloved wife keeps the double portion; A heifer and a killing whose perpetrator is
-    unknown [divergence between the texts]; Married women are forbidden except those one''s right hand
+    mourns her parents a month before marriage; Body hanged on a tree must be buried the same day; the
+    hanged is a curse of God; A boy is killed lest he burden his believing parents with rebellion; God
+    will give them a better child [contrast between the texts]; Who receives a double share of inheritance
+    [divergence between the texts]; Firstborn of the unloved wife keeps the double portion; Elders wash
+    their hands over the heifer: our hands did not shed this blood; A heifer and a killing whose perpetrator
+    is unknown [divergence between the texts]; Married women are forbidden except those one''s right hand
     possesses (captives); A man may marry two, three or four wives, or only one if he fears injustice;
     Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled wadi;
     Formula: you shall purge the evil from your midst.'
@@ -40,13 +40,14 @@ evidence:
     forty, a man prays to be grateful for favor on himself and his parents and for righteous offspring;
     A son says ''Uff!'' to his parents who plead with him, scorning resurrection as ''tales of the ancients'';
     His mother bore him with hardship and delivered him with hardship; bearing and weaning take thirty
-    months; The damned are told: you used up your good things in your worldly life and enjoyed them; today
-    you are repaid with humiliation; The mother''s pain in bearing children: penalty, or ground of gratitude
-    [divergence between the texts]; For all there are degrees (darajat) according to what they did; The
-    ground and the reward of the duty to parents [divergence between the texts]; Whoever does good does
-    it for his own soul; whoever does evil, it is against it; Honor father and mother, with the promise
-    of long life; Unbelievers dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin)
-    they could equal.'
+    months; A son who rejects his father''s teaching is to be driven away: ''he is not your son, he was
+    not born to you''; The damned are told: you used up your good things in your worldly life and enjoyed
+    them; today you are repaid with humiliation; The mother''s pain in bearing children: penalty, or ground
+    of gratitude [divergence between the texts]; For all there are degrees (darajat) according to what
+    they did; The ground and the reward of the duty to parents [divergence between the texts]; A son who
+    rejects his parents: the charge and the penalty; Whoever does good does it for his own soul; whoever
+    does evil, it is against it; Unbelievers dismiss the revelation as ''tales of the ancients'' (asatir
+    al-awwalin) they could equal; and 1 more.'
   basis: reading
 - text: 'Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: tagged by Claude
     (model), reading the Hebrew.'

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How much of creation is put under man''s rule or use [divergence
-    between the texts] (weight 6.7); Humans given rule over animals (weight 6.0). Pair score 12.7.'
+    between the texts] (weight 7.7); Humans given rule over animals (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Psalm 8 - what is man: The heavens, moon and stars are the work of God''s fingers; Man
     made a little lower than elohim and crowned with glory and honor; Refrain: ''How majestic is your
@@ -43,8 +43,8 @@ evidence:
     out of rivalry (baghy) among themselves; Israel given God''s law, as a unique gift or followed by
     a later law [divergence between the texts]; Woe to every sinful liar who hears God''s signs recited,
     persists in arrogance as if he had not heard, and takes them in mockery; Formula: the sending down
-    of the Book (tanzil al-kitab) is from God, the Mighty, the Wise/Knowing; Vengeance and recompense
-    are mine; Whoever does good does it for his own soul; whoever does evil, it is against it; Catalogue
+    of the Book (tanzil al-kitab) is from God, the Mighty, the Wise/Knowing; Whoever does good does it
+    for his own soul; whoever does evil, it is against it; Vengeance and recompense are mine; Catalogue
     of signs: heavens and earth, alternation of night and day, ships, rain reviving dead earth, beasts,
     winds, clouds; Rain from the sky gives life to the earth after its death, a sign of resurrection;
     and 1 more.'

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The believers'' sides forsake their beds as they call on their Lord
-    in fear and hope (night vigil) (weight 6.0); God formed the kidneys and wove (knit) the speaker in
-    his mother''s womb (weight 5.8). Pair score 11.8.'
+    in fear and hope (night vigil) (weight 7.1); God formed the kidneys and wove (knit) the speaker in
+    his mother''s womb (weight 6.6). Pair score 13.7.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas vav to kaf: ''It is good for me that I was afflicted, so that I might
     learn your statutes''; The arrogant have hearts gross (unfeeling) as fat; Speaker has become like
@@ -30,21 +30,21 @@ evidence:
     night watches; God''s Torah or commandments are better than thousands of gold and silver pieces, above
     fine gold; Psalm in 22 stanzas of eight lines, every line of a stanza beginning with the same letter,
     each line naming the Torah; God is the speaker''s portion (heleq) forever, more than anything in heaven
-    or earth; Speaker rises at midnight to give thanks to God; Lifting the hands (palms) in prayer or
-    blessing; God''s commandments or Torah are the speaker''s delight (sha''ashu''im); Those who dig a
-    pit or spread a net for the righteous fall into it themselves.'
+    or earth; Speaker rises at midnight to give thanks to God; God''s commandments or Torah are the speaker''s
+    delight (sha''ashu''im); Those who dig a pit or spread a net for the righteous fall into it themselves;
+    Lifting the hands (palms) in prayer or blessing.'
   basis: reading
 - text: 'Only in Pure religion; no son for God; creation from one soul in three darknesses: God sent down
     for you eight pairs of livestock; Idolaters say ''we worship them only that they may bring us near
     to God''; Had God wished to take a son he would have chosen from what he creates whatever he willed;
     glory be to him, the One; God creates you in your mothers'' bellies creation after creation in three
-    darknesses; God wraps (yukawwir) the night around the day and the day around the night; Was not God''s
-    earth wide enough for you to emigrate (hijra) in it?; How God made the human mate, and for what purpose
-    [divergence between the texts]; First woman made from the man''s rib or side while he sleeps; Whether
-    God has, begets or takes sons or other offspring [contrast between the texts]; No burdened soul bears
-    another''s burden; even a relative will not carry any of it; Sun and moon are subjected, each running
-    to an appointed term; Humankind is created from a single soul, from which its mate was made to dwell
-    with it; and 1 more.'
+    darknesses; The deity sends sheep or livestock down to humankind; God wraps (yukawwir) the night around
+    the day and the day around the night; How many first humans are made: seven pairs, or one soul and
+    its mate [divergence between the texts]; Was not God''s earth wide enough for you to emigrate (hijra)
+    in it?; Members of the deity''s court speak for a petitioner before the deity [response between the
+    texts]; How God made the human mate, and for what purpose [divergence between the texts]; Whether
+    the creator has offspring though he has no consort [neutral] [divergence between the texts]; First
+    woman made from the man''s rib or side while he sleeps; and 5 more.'
   basis: reading
 - text: 'Psalm 119, stanzas vav to kaf: tagged by Claude (model), reading the Hebrew.'
   basis: reading

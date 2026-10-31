@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I form light and create darkness, make peace and create evil (ra'');
-    I YHWH do all these'' (weight 6.0). Pair score 6.0.'
+    I YHWH do all these'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -43,8 +43,8 @@ evidence:
     were mocked, and what the mockers mocked surrounded them; God decreed a term (ajal) for each person,
     and another term named with him; Deniers demand that a treasure be sent down to the prophet or an
     angel come with him; Whether darkness is made by God or exists before creation [divergence between
-    the texts]; The speaker too was ''pinched off from clay'' (qoratsti), like a figure nipped from a
-    lump of clay; God appears as three men who visit the patriarch; The listeners walk among the dwellings
+    the texts]; God appears as three men who visit the patriarch; The speaker too was ''pinched off from
+    clay'' (qoratsti), like a figure nipped from a lump of clay; The listeners walk among the dwellings
     of generations God destroyed, a sign; First human shaped from dust, clay or soil.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged

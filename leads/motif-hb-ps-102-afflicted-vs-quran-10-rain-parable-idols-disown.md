@@ -19,27 +19,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans are like grass that flourishes in the morning and withers
-    by evening (weight 5.6). Pair score 5.6.'
+    by evening (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Psalm 102, prayer of the afflicted; the heavens wear out like a garment: Sufferer''s
     days vanish like smoke and his bones burn like a hearth; Prayer ''Do not take me away in the midst
-    of my days''; Mourner eats ashes like bread and mingles his drink with tears; God looks down from
-    his holy height to hear the prisoner''s groan and free those doomed to die; Sufferer likened to a
-    desert bird (qa''at), an owl of the ruins, a lonely bird on a roof; Heading ''A prayer of the afflicted
-    when he faints and pours out his complaint before YHWH''; God''s servants cherish Zion''s stones and
-    pity her dust; it is the appointed time to favor her; This is written for a later generation, a people
-    yet to be created, to praise Yah; Speaker''s days are like a lengthening (evening) shadow; Earth and
-    heavens will perish and wear out like a garment, changed like clothing, but God remains the same;
+    of my days''; God looks down from his holy height to hear the prisoner''s groan and free those doomed
+    to die; Heading ''A prayer of the afflicted when he faints and pours out his complaint before YHWH'';
+    God''s servants cherish Zion''s stones and pity her dust; it is the appointed time to favor her; This
+    is written for a later generation, a people yet to be created, to praise Yah; Speaker''s days are
+    like a lengthening (evening) shadow; Mourner eats ashes like bread and mingles his drink with tears;
+    Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
+    the same; Sufferer likened to a desert bird (qa''at), an owl of the ruins, a lonely bird on a roof;
     All on earth perish; there remains the Face of your Lord, possessor of majesty and honor; On the last
     day the earth is changed into another earth, and the heavens too; and 3 more.'
   basis: reading
 - text: 'Only in Life like a crop, the abode of peace, darkened faces: The doers of good get the best
     reward ''and more'' (ziyada); Paradise as the abode of peace (dār al-salām); The faces of evildoers
-    are covered as with pieces of dark night; All flesh is grass and its loyalty like the flower of the
-    field; grass withers but the word of God stands forever; Parable: worldly life is like vegetation
-    fed by rain, adorned, then cut down overnight as if it never flourished; The destroyed are as if they
-    had never lived in their land; At judgment the associated ''partners'' disown their worshipers: ''it
-    was not us you worshiped''.'
+    are covered as with pieces of dark night; Parable: worldly life is like vegetation fed by rain, adorned,
+    then cut down overnight as if it never flourished; All flesh is grass and its loyalty like the flower
+    of the field; grass withers but the word of God stands forever; The destroyed are as if they had never
+    lived in their land; At judgment the associated ''partners'' disown their worshipers: ''it was not
+    us you worshiped''.'
   basis: reading
 - text: 'Psalm 102, prayer of the afflicted; the heavens wear out like a garment: tagged by Claude (model),
     reading the Hebrew.'

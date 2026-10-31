@@ -12,15 +12,15 @@ traditions:
 layers:
 - motif
 motifs:
-- golden-calf-as-divergence
 - forgiveness-after-the-calf-as-divergence
+- golden-calf-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: People make a molten calf while the leader is on the mountain [divergence
-    between the texts] (weight 6.7); God''s pardon after the golden calf [divergence between the texts]
-    (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: God''s pardon after the golden calf [divergence between the texts]
+    (weight 7.7); People make a molten calf while the leader is on the mountain [divergence between the
+    texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in The golden calf: Aaron builds an altar before the calf and proclaims a feast to YHWH;
     Intercessor reminds God of his oath to Abraham, Isaac and Jacob; The people eat, drink and rise up

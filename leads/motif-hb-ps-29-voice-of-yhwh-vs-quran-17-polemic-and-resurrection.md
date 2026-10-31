@@ -18,15 +18,15 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God gave David the Psalms (Zabur) (weight 6.0). Pair score 6.0.'
+- text: 'Shared motifs, rarest first: God gave David the Psalms (Zabur) (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Psalm 29 - the voice of YHWH over the waters: In his temple all say ''Glory!''; The voice
-    of YHWH hews out flames of fire (lightning); Sevenfold refrain ''the voice of YHWH'' (qol YHWH) as
-    thunder over waters, cedars, fire, desert; The sons of gods (benei elim) are summoned to ascribe glory
-    and strength to YHWH; The voice of YHWH breaks the cedars of Lebanon and makes Lebanon and Sirion
-    skip like calves and young wild oxen; The voice of YHWH makes the hinds writhe in labor and strips
-    the forests bare; The voice of YHWH shakes the wilderness of Kadesh; The voice of YHWH thunders over
-    the many waters; YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever; The thunder
+    of YHWH hews out flames of fire (lightning); The sons of gods (benei elim) are summoned to ascribe
+    glory and strength to YHWH; The voice of YHWH makes the hinds writhe in labor and strips the forests
+    bare; The voice of YHWH shakes the wilderness of Kadesh; The voice of YHWH thunders over the many
+    waters; YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever; Sevenfold refrain ''the
+    voice of YHWH'' (qol YHWH) as thunder over waters, cedars, fire, desert; The voice of YHWH breaks
+    the cedars of Lebanon and makes Lebanon and Sirion skip like calves and young wild oxen; The thunder
     glorifies God with his praise, and the angels too in awe of him [divergence between the texts]; Thunder
     is the roaring voice of God; God''s strength for the people like the horns of the wild ox (re''em);
     and 1 more.'
@@ -41,8 +41,8 @@ evidence:
     the texts]; If there were other gods they would seek a way to the Lord of the Throne; Opponents say
     the believers follow only a bewitched man (rajul mashur); Satan stirs up enmity (nazagha) between
     brothers or among people; Thamud''s most wretched one rises; the messenger warns ''God''s she-camel
-    and her drinking''; they hamstring her and God crushes them; The seven heavens, the earth and everything
-    in them glorify God, though humans do not understand their praise; and 6 more.'
+    and her drinking''; they hamstring her and God crushes them; Heaven, earth and inanimate things have
+    a speech that humans do not understand [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Psalm 29 - the voice of YHWH over the waters: tagged by Claude (model), reading the Hebrew.'
   basis: reading

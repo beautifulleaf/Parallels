@@ -18,17 +18,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven is shut and no rain falls because of the people''s sin; repentance
-    brings rain (weight 6.0). Pair score 6.0.'
+    brings rain (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Solomon''s prayer of dedication: Exiles in an enemy land turn back with all their heart
     and pray toward their land, and God grants them mercy before captors; A foreigner from a far land
     who hears of God''s name comes to pray at the temple and is heard; ''There is no man who does not
-    sin''; A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Long
-    catalogue of curses for covenant violation (disease, defeat, famine, exile); Heaven and the heaven
-    of heavens cannot contain God, much less a temple; Egypt called an iron furnace (smelting furnace);
-    The direction faced in prayer [divergence between the texts]; Prayers made toward the temple (or toward
-    the land, city and house when in exile) are heard in heaven; Heaven and the heaven of heavens belong
-    to God; Prophet spreads out his palms to God in prayer; God alone knows the hearts of all humans.'
+    sin''; A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Egypt
+    called an iron furnace (smelting furnace); The direction faced in prayer [divergence between the texts];
+    Heaven and the heaven of heavens cannot contain God, much less a temple; Prayers made toward the temple
+    (or toward the land, city and house when in exile) are heard in heaven; Long catalogue of curses for
+    covenant violation (disease, defeat, famine, exile); Heaven and the heaven of heavens belong to God;
+    Prophet spreads out his palms to God in prayer; God alone knows the hearts of all humans.'
   basis: reading
 - text: 'Only in The pattern of the destroyed towns: If the towns had believed God would have opened blessings
     from heaven and earth; God tries towns with hardship, then with ease, then seizes them suddenly; Most

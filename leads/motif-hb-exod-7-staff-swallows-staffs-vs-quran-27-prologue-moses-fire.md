@@ -22,10 +22,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why Pharaoh and Egypt refuse despite the signs [divergence between
-    the texts] (weight 6.0); A staff thrown down becomes a serpent and turns back into a staff (weight
-    5.4); Prophet''s wonders are imitated by the king''s magicians in a contest (weight 5.1); The king''s
-    heart is hardened (by himself or by God) so he refuses to release the people (weight 4.6). Pair score
-    21.1.'
+    the texts] (weight 7.1); A staff thrown down becomes a serpent and turns back into a staff (weight
+    6.5); Prophet''s wonders are imitated by the king''s magicians in a contest (weight 6.0); The king''s
+    heart is hardened (by himself or by God) so he refuses to release the people (weight 5.7). Pair score
+    25.2.'
   basis: reading
 - text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
     staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet

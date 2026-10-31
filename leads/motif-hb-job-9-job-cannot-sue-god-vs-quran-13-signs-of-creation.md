@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised the heavens without pillars that you can see (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Job - cosmic power of God and the impossible lawsuit: God made the constellations Ash
     (Bear?), Kesil (Orion) and Kimah (Pleiades) and the chambers of the south; Life''s days flee faster
     than a runner, reed boats, or a swooping eagle; The earth is given into the hand of the wicked; God
     covers the faces of its judges; ''He destroys both the blameless and the wicked''; God mocks the calamity
-    of the innocent; God moves mountains in anger and shakes the earth so its pillars tremble; God passes
-    by the speaker and he does not see him; God commands the sun not to rise and seals up the stars; God
-    treads on the back (bamot) of Sea; The helpers of Rahab bow beneath God''s wrath; ''How can a man
-    be in the right with God? He could not answer one in a thousand''; Lament that there is no umpire
-    (mokhiach) to lay his hand on both God and man; Even if washed in snow and lye, God would plunge him
-    into the pit so his clothes abhor him; and 7 more.'
+    of the innocent; God passes by the speaker and he does not see him; God commands the sun not to rise
+    and seals up the stars; God treads on the back (bamot) of Sea; The helpers of Rahab bow beneath God''s
+    wrath; ''How can a man be in the right with God? He could not answer one in a thousand''; Lament that
+    there is no umpire (mokhiach) to lay his hand on both God and man; Even if washed in snow and lye,
+    God would plunge him into the pit so his clothes abhor him; Sufferer imagines suing God but knows
+    God''s might would silence or condemn him; and 7 more.'
   basis: reading
 - text: 'Only in The signs of creation, thunder and the parable of the foam (Surah 13:1-17): To every
     people there is a guide; God knows what every female carries and how wombs shrink or swell; Each person
@@ -39,10 +39,11 @@ evidence:
     watered with one water give different fruits: a sign; Parable: torrents and smelted metal throw up
     foam that vanishes, while what benefits people remains; The thunder glorifies God with his praise,
     and the angels too in awe of him; All in heaven and earth prostrate to God, willingly or unwillingly,
-    even their shadows morning and evening; God raised the heavens without pillars that you can see [divergence
-    between the texts]; Thunder is the roaring voice of God [divergence between the texts]; The thunder
-    glorifies God with his praise, and the angels too in awe of him [divergence between the texts]; God
-    shows lightning in fear and hope and sends thunderbolts on whom he wills; and 13 more.'
+    even their shadows morning and evening; A protector goes (stands) before and behind a man to guard
+    him [divergence between the texts]; God raised the heavens without pillars that you can see [divergence
+    between the texts]; Lightning, thunderbolts or hail sent from heaven at the god''s command strike
+    what he wills [divergence between the texts]; How thunder in the clouds relates to the god: his own
+    roar or a creature praising him [shared matter] [divergence between the texts]; and 20 more.'
   basis: reading
 - text: 'Job - cosmic power of God and the impossible lawsuit: tagged by Claude (model), reading the Hebrew.'
   basis: reading

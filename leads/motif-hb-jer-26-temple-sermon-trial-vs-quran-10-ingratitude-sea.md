@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Command not to add to or subtract from the divine words (weight
-    6.0). Pair score 6.0.'
+    6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Jeremiah tried for prophesying the temple will become like Shiloh; Uriah executed: The
     executed man''s body is thrown into the graves of the common people; Elders cite an earlier prophet''s
@@ -34,16 +34,17 @@ evidence:
   basis: reading
 - text: 'Only in Prayer in distress, a changed Quran, the storm at sea: Deniers ask the prophet to bring
     a different Quran or change it; he may not alter it of himself; The prophet argues he had lived a
-    lifetime among them before receiving revelation; Humankind was originally one community, then they
-    differed; Man calls on God lying, sitting or standing in distress, then passes on as if he had never
-    prayed once relieved; All humanity once spoke one language; Humankind was originally one (in speech
-    or community) and then divided [divergence between the texts]; Sailors in a storm pray and vow to
-    God [divergence between the texts]; God raises a storm that lifts ships to the heavens and down to
-    the deeps, then hushes it to a whisper and brings sailors to harbor [divergence between the texts];
-    A later people (Ad, then Thamud) are made successors on the earth after a destroyed people; God''s
-    messengers (angels) write down what people plot and do; Sailors in a storm call on God sincerely,
-    vow thanks, and transgress once saved; God raises a storm that lifts ships to the heavens and down
-    to the deeps, then hushes it to a whisper and brings sailors to harbor; and 2 more.'
+    lifetime among them before receiving revelation; In peril on a boat, the one who calls on god is brought
+    safely to land [divergence between the texts]; Humankind was originally one community, then they differed;
+    Man calls on God lying, sitting or standing in distress, then passes on as if he had never prayed
+    once relieved; Humankind was originally one (in speech or community) and then divided [divergence
+    between the texts]; Sailors in a storm pray and vow to God [divergence between the texts]; Those surrounded
+    by the waves at sea are saved by the god they call on; what follows the rescue [divergence between
+    the texts]; God raises a storm that lifts ships to the heavens and down to the deeps, then hushes
+    it to a whisper and brings sailors to harbor [divergence between the texts]; A later people (Ad, then
+    Thamud) are made successors on the earth after a destroyed people; God''s messengers (angels) write
+    down what people plot and do; Members of the deity''s court speak for a petitioner before the deity
+    [response between the texts]; and 5 more.'
   basis: reading
 - text: 'Jeremiah tried for prophesying the temple will become like Shiloh; Uriah executed: tagged by
     Claude (model), reading the Hebrew.'

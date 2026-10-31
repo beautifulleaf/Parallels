@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A prophet commissioned by God flees ''from the presence of YHWH''
-    rather than deliver the message [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    rather than deliver the message [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jonah''s anger, the qiqayon plant and God''s question: God''s compassion extends to the
     many animals of the city; God argues from the prophet''s pity for a plant that grew and perished in

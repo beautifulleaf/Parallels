@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made fire for you from the green tree, from which you kindle
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
     Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the
@@ -40,9 +40,9 @@ evidence:
     will give life to bones when they have rotted?''; the answer: he who produced them the first time;
     God asks ''Can these bones live?'' and the prophet answers ''Lord God, you know''; The question whether
     dead bones can live again, and who asks it [divergence between the texts]; God created livestock and
-    subjected them to people for riding, food, benefits and drink; Deity creates by spoken command (Let
-    there be...); God originates creation and then repeats it (resurrection as re-creation); God creates
-    by saying to a thing ''Be'' and it is (kun fa-yakun).'
+    subjected them to people for riding, food, benefits and drink; God originates creation and then repeats
+    it (resurrection as re-creation); Deity creates by spoken command (Let there be...); God creates by
+    saying to a thing ''Be'' and it is (kun fa-yakun).'
   basis: reading
 - text: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: tagged by Claude
     (model), reading the Hebrew.'

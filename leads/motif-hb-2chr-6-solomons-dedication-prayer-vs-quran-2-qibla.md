@@ -12,35 +12,36 @@ traditions:
 layers:
 - motif
 motifs:
-- direction-of-prayer-as-divergence
 - prayer-toward-the-temple
+- direction-of-prayer-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The direction faced in prayer [divergence between the texts] (weight
-    6.0); Prayers made toward the temple (or toward the land, city and house when in exile) are heard
-    in heaven (weight 6.0). Pair score 12.0.'
+- text: 'Shared motifs, rarest first: Prayers made toward the temple (or toward the land, city and house
+    when in exile) are heard in heaven (weight 7.1); The direction faced in prayer [divergence between
+    the texts] (weight 7.1). Pair score 14.1.'
   basis: reading
-- text: 'Only in Solomon''s blessing and dedication prayer on the bronze platform: Prayer lists famine,
-    pestilence, blight, mildew, locust, siege and sickness as occasions for prayer; The king kneels on
-    a bronze platform in the court and spreads his hands to heaven; An oath sworn before God''s altar
-    in the temple, judged by God; People away from Jerusalem or in exile pray in the direction of the
-    land, city and temple; Captives confess in exile ''We have sinned, done wrong and acted wickedly'';
-    ''Arise, YHWH, to your resting place, you and the ark of your might''; A foreigner from a far land
-    who hears of God''s name comes to pray at the temple and is heard; ''There is no man who does not
-    sin''; Temple called a ''house of zebul'' (exalted dwelling), a place for God to dwell forever; ''O
-    my servants who have transgressed against themselves, do not despair of God''s mercy; God forgives
-    all sins''; Heaven and the heaven of heavens cannot contain God, much less a temple; God has said
-    he will dwell in thick darkness (''arafel); and 6 more.'
+- text: 'Only in Solomon''s blessing and dedication prayer on the bronze platform: The king kneels on
+    a bronze platform in the court and spreads his hands to heaven; People away from Jerusalem or in exile
+    pray in the direction of the land, city and temple; Captives confess in exile ''We have sinned, done
+    wrong and acted wickedly''; ''Arise, YHWH, to your resting place, you and the ark of your might'';
+    Prayer lists famine, pestilence, blight, mildew, locust, siege and sickness as occasions for prayer;
+    A foreigner from a far land who hears of God''s name comes to pray at the temple and is heard; ''There
+    is no man who does not sin''; An oath sworn before God''s altar in the temple, judged by God; Temple
+    called a ''house of zebul'' (exalted dwelling), a place for God to dwell forever; ''O my servants
+    who have transgressed against themselves, do not despair of God''s mercy; God forgives all sins'';
+    God has said he will dwell in thick darkness (''arafel); The dynasty''s continuance is conditioned
+    on the heirs'' faithfulness; and 6 more.'
   basis: reading
 - text: 'Only in The change of qibla: The direction of prayer (qibla) is changed toward the Sacred Mosque;
     fools ask why; Believers made a middle community (umma wasat), witnesses over mankind, with the messenger
     a witness over them; God sees the prophet turning his face toward heaven and grants him a qibla he
     is pleased with; To each a direction he faces: so race toward good deeds; Abraham and Ishmael pray
     that a messenger be raised from among their offspring; The People of the Book recognize the truth
-    as they recognize their own sons; Leader prays ''remember me, my God, for good'' for his deeds; Who
-    bears witness to God''s oneness [divergence between the texts].'
+    as they recognize their own sons; Simile: to recognise someone as father and mother recognise their
+    sons; Leader prays ''remember me, my God, for good'' for his deeds; Who bears witness to God''s oneness
+    [divergence between the texts].'
   basis: reading
 - text: 'Solomon''s blessing and dedication prayer on the bronze platform: tagged by Claude (model), reading
     the Hebrew.'

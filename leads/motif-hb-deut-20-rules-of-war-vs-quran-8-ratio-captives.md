@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Livestock and spoil taken as booty after the ban (weight 6.0). Pair
-    score 6.0.'
+- text: 'Shared motifs, rarest first: Livestock and spoil taken as booty after the ban (weight 7.1). Pair
+    score 7.1.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -39,8 +39,8 @@ evidence:
     later eased to one against two; Only a prior decree from God averted punishment for taking ransom;
     Blessing: five of you will chase a hundred, a hundred ten thousand; A prophet should not take captives
     until he has thoroughly subdued the land; A ratio of the few who defeat (or are routed by) the many
-    [divergence between the texts]; Conqueror spares the enemy king and best livestock against God''s
-    command; One chases a thousand and two put ten thousand to flight.'
+    [divergence between the texts]; One chases a thousand and two put ten thousand to flight; Conqueror
+    spares the enemy king and best livestock against God''s command.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

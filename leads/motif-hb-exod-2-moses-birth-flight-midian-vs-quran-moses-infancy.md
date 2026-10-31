@@ -14,18 +14,18 @@ traditions:
 layers:
 - motif
 motifs:
-- sister-watches
 - adopted-by-royal-woman
-- sister-offers-nurse
+- sister-watches
 - returned-to-own-mother
+- sister-offers-nurse
 - found-by-royal-household
 - infant-set-adrift
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Infant''s sister watches over him (weight 6.0); Infant adopted by
-    a royal woman (weight 6.0); Sister offers to find a nurse (weight 5.8); Infant returned to his own
-    mother to nurse (weight 5.8); Infant found by members of a royal household (weight 5.6); Infant placed
-    in a container and set on the water (weight 5.6). Pair score 34.7.'
+- text: 'Shared motifs, rarest first: Infant adopted by a royal woman (weight 7.1); Infant''s sister watches
+    over him (weight 7.1); Infant returned to his own mother to nurse (weight 6.8); Sister offers to find
+    a nurse (weight 6.8); Infant found by members of a royal household (weight 6.6); Infant placed in
+    a container and set on the water (weight 6.6). Pair score 41.1.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
     The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
@@ -49,7 +49,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Infant's sister watches over him
+finding: Infant adopted by a royal woman
 kinds:
 - shared
 units:
@@ -60,19 +60,6 @@ units:
   title: The infant Moses in the Quran
   tradition: islam
 matches:
-- kind: shared
-  label: Infant's sister watches over him
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 2:4
-      lang: he
-      text: וַתֵּתַצַּ֥ב אֲחֹת֖וֹ מֵרָחֹ֑ק לְדֵעָ֕ה מַה יֵּעָשֶׂ֖ה לֽוֹ
-  - tradition: islam
-    passages:
-    - ref: Quran 28:11
-      lang: ar
-      text: وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ
 - kind: shared
   label: Infant adopted by a royal woman
   sides:
@@ -89,6 +76,43 @@ matches:
       text: وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّى وَلَكَ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ
         أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ
     note: Pharaoh's wife (imraʾat Firʿawn), not his daughter
+- kind: shared
+  label: Infant's sister watches over him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 2:4
+      lang: he
+      text: וַתֵּתַצַּ֥ב אֲחֹת֖וֹ מֵרָחֹ֑ק לְדֵעָ֕ה מַה יֵּעָשֶׂ֖ה לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:11
+      lang: ar
+      text: وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ
+- kind: shared
+  label: Infant returned to his own mother to nurse
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 2:8
+      lang: he
+      text: וַתֹּֽאמֶר לָ֥הּ בַּת פַּרְעֹ֖ה לֵ֑כִי וַתֵּ֨לֶךְ֙ הָֽעַלְמָ֔ה וַתִּקְרָ֖א אֶת אֵ֥ם הַיָּֽלֶד
+    - ref: Exod 2:9
+      lang: he
+      text: וַתֹּ֧אמֶר לָ֣הּ בַּת פַּרְעֹ֗ה הֵילִ֜יכִי אֶת הַיֶּ֤לֶד הַזֶּה֙ וְהֵינִקִ֣הוּ לִ֔י וַאֲנִ֖י
+        אֶתֵּ֣ן אֶת שְׂכָרֵ֑ךְ וַתִּקַּ֧ח הָאִשָּׁ֛ה הַיֶּ֖לֶד וַתְּנִיקֵֽהוּ
+    note: mother paid wages to nurse her own son
+  - tradition: islam
+    passages:
+    - ref: Quran 20:40
+      lang: ar
+      text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
+        أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
+        وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
+    - ref: Quran 28:13
+      lang: ar
+      text: فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ
+        ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 - kind: shared
   label: Sister offers to find a nurse
   sides:
@@ -115,30 +139,6 @@ matches:
       lang: ar
       text: وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ
         يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
-- kind: shared
-  label: Infant returned to his own mother to nurse
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 2:8
-      lang: he
-      text: וַתֹּֽאמֶר לָ֥הּ בַּת פַּרְעֹ֖ה לֵ֑כִי וַתֵּ֨לֶךְ֙ הָֽעַלְמָ֔ה וַתִּקְרָ֖א אֶת אֵ֥ם הַיָּֽלֶד
-    - ref: Exod 2:9
-      lang: he
-      text: וַתֹּ֧אמֶר לָ֣הּ בַּת פַּרְעֹ֗ה הֵילִ֜יכִי אֶת הַיֶּ֤לֶד הַזֶּה֙ וְהֵינִקִ֣הוּ לִ֔י וַאֲנִ֖י
-        אֶתֵּ֣ן אֶת שְׂכָרֵ֑ךְ וַתִּקַּ֧ח הָאִשָּׁ֛ה הַיֶּ֖לֶד וַתְּנִיקֵֽהוּ
-    note: mother paid wages to nurse her own son
-  - tradition: islam
-    passages:
-    - ref: Quran 20:40
-      lang: ar
-      text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
-        أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
-        وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
-    - ref: Quran 28:13
-      lang: ar
-      text: فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ
-        ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 - kind: shared
   label: Infant found by members of a royal household
   sides:

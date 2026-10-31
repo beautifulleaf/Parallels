@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Argument: He who planted the ear, does he not hear? He who formed
-    the eye, does he not see? (weight 6.3). Pair score 6.3.'
+    the eye, does he not see? (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 94, God of vengeance; he who planted the ear: Invocation ''God of vengeance, shine
-    forth; rise up, judge of the earth''; The wicked kill the widow, the stranger and the orphan; Happy
-    is the man whom God disciplines and teaches from his Torah; The wicked ask ''How does God know? Is
-    there knowledge in the Most High?''; The underworld called Dumah, the land of silence; God made human
+    forth; rise up, judge of the earth''; Happy is the man whom God disciplines and teaches from his Torah;
+    The wicked ask ''How does God know? Is there knowledge in the Most High?''; The underworld called
+    Dumah, the land of silence; The wicked kill the widow, the stranger and the orphan; God made human
     hearing and sight: so God sees and hears, or the senses themselves testify [divergence between the
-    texts]; Vengeance and recompense are mine; Lament question ''How long, O God?'' / ''Why have you rejected
-    us forever?''; Those who dig a pit or spread a net for the righteous fall into it themselves; God
-    called rock, fortress, refuge, stronghold or tower of strength.'
+    texts]; Vengeance and recompense are mine; God called rock, fortress, refuge, stronghold or tower
+    of strength; Those who dig a pit or spread a net for the righteous fall into it themselves; Lament
+    question ''How long, O God?'' / ''Why have you rejected us forever?''.'
   basis: reading
 - text: 'Only in Who provides and who restores creation; the challenge of the surah: The resurrected feel
     they had stayed only an hour of a day; The gods are challenged to declare the former things or the

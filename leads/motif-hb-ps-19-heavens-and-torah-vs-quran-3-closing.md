@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The heavens recount God''s glory; day to day pours out speech without
-    words or voice (weight 6.7). Pair score 6.7.'
+    words or voice (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 19 - the heavens declare; the Torah is perfect: God has set a tent for the sun
     in the heavens; The Torah of YHWH is perfect, restoring the soul; its precepts make wise, gladden
     the heart, enlighten the eyes; ''May the words of my mouth and the meditation of my heart be acceptable
     before you, my Rock and Redeemer''; Prayer to be cleansed of hidden and unwitting faults (shegi''ot,
-    nistarot); The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to
-    run his course; God''s judgments are more desirable than gold and sweeter than honey and the honeycomb;
+    nistarot); God''s judgments are more desirable than gold and sweeter than honey and the honeycomb;
     The seven heavens, the earth and everything in them glorify God, though humans do not understand their
-    praise; Sun and moon each swim in an orbit (falak); God called the Rock (tsur); A solid firmament
+    praise; The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run
+    his course; Sun and moon each swim in an orbit (falak); God called the Rock (tsur); A solid firmament
     (raqia) separates upper waters from lower waters; Superscription ''for the leader/choirmaster'' (lamenatseah).'
   basis: reading
 - text: 'Only in Signs for people of understanding; closing prayer: ''We heard a caller calling to faith:

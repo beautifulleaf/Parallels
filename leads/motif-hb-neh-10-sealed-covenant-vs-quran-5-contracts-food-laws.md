@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibition of intermarriage with the peoples of the land lest they
-    turn sons to other gods [contrast between the texts] (weight 6.3); Prohibition of intermarriage with
-    the peoples of the land lest they turn sons to other gods (weight 5.4). Pair score 11.7.'
+    turn sons to other gods [contrast between the texts] (weight 7.3); Prohibition of intermarriage with
+    the peoples of the land lest they turn sons to other gods (weight 6.5). Pair score 13.8.'
   basis: reading
 - text: 'Only in The sealed pledge (amanah) and its stipulations: Community pledges an annual third of
     a shekel for the temple service; The people enter into a curse and an oath to walk in God''s Torah;
@@ -34,15 +34,15 @@ evidence:
     Ban on marrying outside the community and its criterion [divergence between the texts]; and 2 more.'
   basis: reading
 - text: 'Only in Contracts, pilgrim sanctity and the forbidden foods: The food of the People of the Book
-    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Sacrificial
-    animals (hady) marked with garlands (qalāʾid) are inviolable; Believers may marry chaste women of
-    the People of the Book; ''Today I have perfected your religion and completed my favor''; The sacred
-    month and God''s rites must not be profaned; Forbidden: the strangled, the beaten to death, the fallen
-    and the gored animal; What trained hunting animals (dogs, birds of prey) catch is lawful, with God''s
-    name pronounced; Divination by shaking or drawing arrows (belomancy); Eating carrion or torn flesh
-    is forbidden or defiling [divergence between the texts]; Seeking decisions by divining arrows (azlām)
-    is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten [divergence between the
-    texts]; and 9 more.'
+    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Believers
+    may marry chaste women of the People of the Book; ''Today I have perfected your religion and completed
+    my favor''; The sacred month and God''s rites must not be profaned; Forbidden: the strangled, the
+    beaten to death, the fallen and the gored animal; What trained hunting animals (dogs, birds of prey)
+    catch is lawful, with God''s name pronounced; Divination by shaking or drawing arrows (belomancy);
+    Eating carrion or torn flesh is forbidden or defiling [divergence between the texts]; Seeking decisions
+    by divining arrows (azlām) is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten
+    [divergence between the texts]; Sacrificial animals (hady) marked with garlands (qalāʾid) are inviolable;
+    and 9 more.'
   basis: reading
 - text: 'The sealed pledge (amanah) and its stipulations: tagged by Claude (model), reading the Hebrew.'
   basis: reading

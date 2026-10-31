@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The beings that carry God''s throne, and what they do [divergence
-    between the texts] (weight 6.7); Four living creatures (hayyot) of human form bear the divine throne
-    (weight 6.3). Pair score 13.0.'
+    between the texts] (weight 7.7); Four living creatures (hayyot) of human form bear the divine throne
+    (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Ezekiel''s inaugural vision by the Chebar canal: four living creatures, wheels full of
     eyes, the throne and the glory: The heavenly creatures move straight ahead in every direction without
@@ -32,7 +32,7 @@ evidence:
     of the fire gleams like hashmal (amber/electrum); The heavens are opened and the prophet sees visions
     of God; The visionary hedges every description: ''the appearance of the likeness of...''; On the throne
     is ''a likeness as the appearance of a man''; The prophet is himself a priest or of priestly family;
-    The radiance around the enthroned figure is like the rainbow in the cloud; and 13 more.'
+    The creatures'' wings sound like many waters, like the voice of Shaddai; and 13 more.'
   basis: reading
 - text: 'Only in Ha-Mim: the Forgiver; the throne-bearers pray for the believers: The damned say ''Lord,
     you caused us to die twice and gave us life twice; we confess our sins; is there a way out?''; The
@@ -40,13 +40,13 @@ evidence:
     Accepter of repentance, Severe in punishment, Possessor of bounty (string of divine epithets); God
     casts the Spirit (al-ruh) of his command upon whom he wills of his servants to warn of the Day of
     Meeting; God knows the treachery of the eyes and what the breasts conceal; In terror eyes swerve and
-    hearts reach the throats; The angels who bear the Throne and those around it glorify God and ask forgiveness
-    for the believers, praying they and their righteous kin enter Eden; Humans were dead, given life,
-    will die and be given life again (two deaths, two lives); On the Day God asks ''Whose is the kingdom
-    today?'' and answers ''God''s, the One, the Overpowering''; Formula: ''gracious and merciful, slow
-    to anger, abounding in steadfast love, relenting of evil''; Travel in the land and see the end of
-    those who denied; A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning,
-    e.g. alif-lam-mim.'
+    hearts reach the throats; The heavenly host speak for a human before the high god and ask his forgiveness;
+    The angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
+    praying they and their righteous kin enter Eden; Humans were dead, given life, will die and be given
+    life again (two deaths, two lives); On the Day God asks ''Whose is the kingdom today?'' and answers
+    ''God''s, the One, the Overpowering''; Formula: ''gracious and merciful, slow to anger, abounding
+    in steadfast love, relenting of evil''; Travel in the land and see the end of those who denied; and
+    1 more.'
   basis: reading
 - text: 'Ezekiel''s inaugural vision by the Chebar canal: four living creatures, wheels full of eyes,
     the throne and the glory: tagged by Claude (model), reading the Hebrew.'

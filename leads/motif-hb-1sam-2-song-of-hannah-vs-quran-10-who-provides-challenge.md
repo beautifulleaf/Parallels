@@ -18,13 +18,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God brings the living out of the dead and the dead out of the living
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Song of Hannah: God gives strength to his king and exalts the horn of his anointed (messiah);
     God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom he wills;
     Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap;
-    God kills and makes alive, brings down to Sheol and raises up; The world set upon pillars belonging
-    to God; I kill and I make alive, I wound and I heal; there is no god beside me.'
+    The world set upon pillars belonging to God; I kill and I make alive, I wound and I heal; there is
+    no god beside me; God kills and makes alive, brings down to Sheol and raises up.'
   basis: reading
 - text: 'Only in Who provides and who restores creation; the challenge of the surah: The resurrected feel
     they had stayed only an hour of a day; The gods are challenged to declare the former things or the

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Divorced wife who remarried may not return to her first husband
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Can a divorced wife return? Faithless Israel, treacherous Judah: In the future the ark
     of the covenant will no longer be spoken of, remembered, missed or made again; The apostate people
@@ -30,7 +30,8 @@ evidence:
     people; God will give shepherds after his own heart who feed the people with knowledge; A name containing
     Baal replaced by boshet (''shame''); God calls ''Return, faithless children (shuvu banim shovavim),
     I will heal your faithlessness''; Husband writes a bill of divorcement for ''some indecency'' and
-    sends her away; Exiles confess their own iniquity and that of their fathers; and 3 more.'
+    sends her away; Obedience brings early and late rain; idolatry makes God shut up the heavens; and
+    3 more.'
   basis: reading
 - text: 'Only in Oaths, divorce, nursing and widowhood: Divorce is twice; then retain honorably or release
     with kindness; Divorced women wait three menstrual periods (quru'') and may not conceal what is in
@@ -41,7 +42,7 @@ evidence:
     during the waiting period but no secret promise or contract until it ends; Oath of abstention from
     wives (ila''): a four-month waiting period; In fear, pray on foot or riding; Divorced women are due
     a provision (mut''a) according to the husband''s means; After a third divorce she may not return to
-    the first husband until she marries another; and 12 more.'
+    the first husband until she marries another; and 14 more.'
   basis: reading
 - text: 'Can a divorced wife return? Faithless Israel, treacherous Judah: tagged by Claude (model), reading
     the Hebrew.'

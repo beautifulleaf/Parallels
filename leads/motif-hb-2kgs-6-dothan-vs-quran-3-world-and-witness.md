@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Do not fear, for those with us are more than those with them''
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Elisha at Dothan; the blinded Arameans: Captured enemies are given a great feast and
     sent home instead of being killed; Enemy army struck with a blinding confusion (sanwerim) and led

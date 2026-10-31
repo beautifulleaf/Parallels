@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people answer as one: all that YHWH has spoken we will do (weight
-    5.8). Pair score 5.8.'
+    6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Covenant ratified in blood; the elders see God: Sacrificial blood splashed on altar and
     people seals the covenant (''blood of the covenant''); A meal eaten in God''s presence seals a covenant;
@@ -36,10 +36,10 @@ evidence:
     wash the face, hands to the elbows, wipe the head and wash feet to the ankles; God restrained a people
     who meant to stretch out their hands against the believers; Bathing in water after sexual emission
     or intercourse; A bronze laver where priests wash hands and feet before service, lest they die [divergence
-    between the texts]; One in major impurity (junub) must bathe before prayer, except a traveller passing
-    through; Without water, purify with clean earth (tayammum), wiping face and hands; Let not hatred
-    of a people move you to injustice; be just; A bronze laver where priests wash hands and feet before
-    service, lest they die.'
+    between the texts]; Hands must be washed before they are raised in prayer or before prayer; One in
+    major impurity (junub) must bathe before prayer, except a traveller passing through; Without water,
+    purify with clean earth (tayammum), wiping face and hands; Let not hatred of a people move you to
+    injustice; be just; A bronze laver where priests wash hands and feet before service, lest they die.'
   basis: reading
 - text: 'Covenant ratified in blood; the elders see God: tagged by Claude (model), reading the Hebrew.'
   basis: reading

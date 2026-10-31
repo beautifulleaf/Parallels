@@ -18,17 +18,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A merchant (Canaan) with false scales in his hand loves to oppress
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Jacob''s story as indictment; Canaan''s false scales: God will make Israel dwell in tents
     again, as in the days of the appointed feast; God has spoken through the prophets, multiplied visions
     and given parables by them; Jacob strove with the angel, prevailed, wept and sought his favor; found
     God at Bethel; By a prophet God brought Israel up from Egypt, and by a prophet it was guarded; Oil
     carried to Egypt as tribute while a covenant is made with Assyria; YHWH brings a lawsuit (riv) against
-    his people; God declares his name as his everlasting memorial for all generations; Hero wrestles all
-    night with a mysterious man/god at a river crossing; Every town''s affluent ones (mutrafun) reject
-    the warner, boasting ''we have more wealth and children; we will not be punished''; Suitor serves
-    the bride''s father seven years for her hand; Second twin born grasping his brother''s heel.'
+    his people; God declares his name as his everlasting memorial for all generations; Every town''s affluent
+    ones (mutrafun) reject the warner, boasting ''we have more wealth and children; we will not be punished'';
+    Hero wrestles all night with a mysterious man/god at a river crossing; Suitor serves the bride''s
+    father seven years for her hand; Second twin born grasping his brother''s heel.'
   basis: reading
 - text: 'Only in The defrauders: Sijjin and ''Illiyyun: Woe to the defrauders (mutaffifin) who exact full
     measure from others but give short measure or weight; The record of the wicked is in Sijjin, that
@@ -37,12 +37,12 @@ evidence:
     their couches; What they earned has covered their hearts with rust (rana); Deniers dismiss the recited
     signs as ''tales of the ancients'' (asatir al-awwalin); On that day the wicked are veiled (debarred)
     from their Lord; An elite of ''those brought near'' (al-muqarrabun) witness the righteous register
-    and drink from Tasnim; The record of the wicked is in Sijjin, that of the righteous in ''Illiyyun,
-    each an inscribed book (kitab marqum) witnessed by those brought near [divergence between the texts];
-    The righteous drink sealed pure wine (rahiq makhtum) whose seal is musk; Paradise has named springs:
-    Salsabil, Tasnim (and a spring the servants of God make gush forth); Paradise has raised couches (arā''ik,
-    surur), set goblets, cushions in rows and spread carpets; Refrain ''Woe that day to the deniers''
-    (waylun yawma''idhin lil-mukadhdhibin) repeated through a surah; and 4 more.'
+    and drink from Tasnim; Fraud by tampering with a measure [neutral] [divergence between the texts];
+    Not diminishing the measure and not tampering with the weights of the balance, tied to a day of reckoning;
+    A written register in which servants are entered as faithful or unfaithful [divergence between the
+    texts]; The record of the wicked is in Sijjin, that of the righteous in ''Illiyyun, each an inscribed
+    book (kitab marqum) witnessed by those brought near [divergence between the texts]; The righteous
+    drink sealed pure wine (rahiq makhtum) whose seal is musk; and 13 more.'
   basis: reading
 - text: 'Jacob''s story as indictment; Canaan''s false scales: tagged by Claude (model), reading the Hebrew.'
   basis: reading

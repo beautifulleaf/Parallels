@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not make Satan and his offspring witnesses of the creation
-    of the heavens and earth, nor of their own (weight 6.7). Pair score 6.7.'
+    of the heavens and earth, nor of their own (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens:
     Dawn seizes the edges of the earth and shakes the wicked out of it; Light and darkness each have a
     dwelling place and a road to it; Rhetorical question whether rain has a father and from whose womb
-    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The morning stars
-    sing together and the sons of God shout for joy at the founding of the earth; Named constellations
-    (Kimah/Pleiades, Kesil/Orion, Ayish/Bear, Mazzarot) and their bonds; The sea bursts out of a womb
-    at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors for the
-    sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of the deep
-    (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God tips over;
-    God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were they created
-    from nothing, or are they the creators? Did they create the heavens and earth?; and 14 more.'
+    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The sea bursts out
+    of a womb at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors
+    for the sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of
+    the deep (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God
+    tips over; God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were
+    they created from nothing, or are they the creators? Did they create the heavens and earth?; God challenges
+    the human: ''Gird your loins like a man; I will question you and you inform me''; God answers the
+    sufferer out of the storm-wind (se''arah); and 14 more.'
   basis: reading
 - text: 'Only in Iblis was of the jinn; the partners do not answer (Surah 18:50-59): Iblis has offspring
     (dhurriyya) whom people take as protectors; Iblis was one of the jinn and transgressed his Lord''s

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God spread out the earth as a carpet, cradle or bed (bisat, mihad,
-    daha, sutihat, tahaha) (weight 5.6); The returning waters drown the pursuing army; not one survives
-    (weight 4.5). Pair score 10.1.'
+    daha, sutihat, tahaha) (weight 6.6); The returning waters drown the pursuing army; not one survives
+    (weight 5.5). Pair score 12.2.'
   basis: reading
 - text: 'Only in Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel): God spread out
     (roqa'') the earth upon the waters; God gives bread to all flesh; God cut the Sea of Reeds into parts
@@ -40,12 +40,12 @@ evidence:
     will have the garden as refuge; The first quaking blast (al-rajifa) is followed by a second (al-radifa);
     a single shout (zajra) and they are on the open plain (al-sahira); God built the sky, raised its canopy,
     darkened its night and brought out its forenoon; after that he spread out the earth; The call comes
-    in the holy valley named Ṭuwā; Pharaoh gathers the people and proclaims ''I am your Lord most high'';
-    Pharaoh gathers the people and proclaims ''I am your Lord most high'' [divergence between the texts];
-    Narrative of a prophet''s commissioning by God [divergence between the texts]; The call comes in the
-    holy valley named Ṭuwā [divergence between the texts]; On that day hell is brought forth, exposed
-    or kindled for whoever sees, and paradise brought near; The king''s heart is hardened (by himself
-    or by God) so he refuses to release the people [divergence between the texts]; and 8 more.'
+    in the holy valley named Ṭuwā; The king of Egypt is called, or calls himself, god or lord [divergence
+    between the texts]; Pharaoh gathers the people and proclaims ''I am your Lord most high''; Pharaoh
+    gathers the people and proclaims ''I am your Lord most high'' [divergence between the texts]; Narrative
+    of a prophet''s commissioning by God [divergence between the texts]; The call comes in the holy valley
+    named Ṭuwā [divergence between the texts]; The king of Egypt is called god (by his vassals, or by
+    himself) [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel): tagged by Claude (model),
     reading the Hebrew.'

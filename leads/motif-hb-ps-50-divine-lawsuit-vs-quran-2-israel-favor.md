@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God rebukes the wicked who recites his statutes and covenant yet
-    consorts with thieves and adulterers (weight 6.7); People of the Book cast God''s book behind their
-    backs (weight 5.8). Pair score 12.5.'
+    consorts with thieves and adulterers (weight 7.7); People of the Book cast God''s book behind their
+    backs (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: Superscription
     ascribes the psalm to Asaph; Every beast of the forest is mine, the cattle on a thousand hills, and
@@ -39,9 +39,9 @@ evidence:
     covenant with them; God''s choosing of Israel among the peoples [divergence between the texts]; On
     that day no soul will avail another, no intercession or ransom accepted, no help given; Refrain to
     the Children of Israel: ''remember my favor which I bestowed on you''; Whether payment may substitute
-    for a life [contrast between the texts]; Israel chosen as God''s treasured people (am segullah) out
-    of all peoples; No man can ransom his brother or give God a ransom (kofer) for him; the redemption
-    of life is too costly; Each person dies for his own sin.'
+    for a life [contrast between the texts]; No man can ransom his brother or give God a ransom (kofer)
+    for him; the redemption of life is too costly; Israel chosen as God''s treasured people (am segullah)
+    out of all peoples; Each person dies for his own sin.'
   basis: reading
 - text: 'Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: tagged by Claude (model),
     reading the Hebrew.'

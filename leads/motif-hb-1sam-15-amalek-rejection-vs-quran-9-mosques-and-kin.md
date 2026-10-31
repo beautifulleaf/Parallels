@@ -17,7 +17,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: To obey is better than sacrifice (weight 6.0). Pair score 6.0.'
+- text: 'Shared motifs, rarest first: To obey is better than sacrifice (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in War on Amalek, Agag spared, and Saul''s rejection: A friendly people living among the
     enemy is warned to leave before the attack (the Kenites); The Eternal of Israel does not lie or repent,
@@ -33,7 +33,7 @@ evidence:
     must outweigh family, wealth, trade and homes; Only those who believe, pray and give alms may maintain
     God''s places of worship; Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a
     list of ethical qualifications; The Levites kill idolaters including their own kin and are consecrated
-    for it.'
+    for it; Loyalty to the lord overrides a listed series of kin: father, mother, son, brother, kinsman.'
   basis: reading
 - text: 'War on Amalek, Agag spared, and Saul''s rejection: tagged by Claude (model), reading the Hebrew.'
   basis: reading

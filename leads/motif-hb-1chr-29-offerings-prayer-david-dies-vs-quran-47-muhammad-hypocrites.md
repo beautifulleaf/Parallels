@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is the Rich (al-ghani) and you are the poor; the miser is miserly
-    only against himself (weight 5.8). Pair score 5.8.'
+    only against himself (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Free-will gifts, David''s doxology, Solomon enthroned again, David''s death: Persian
     darics (adarkonim) are counted among offerings in David''s time; God is addressed as ''our father''
     in prayer; The king is made king and anointed a second time; The king gives his own private treasure
     (segullah) for the temple; ''Our days on earth are like a shadow, and there is no hope''; Princes
     ''give the hand'' under the new king in allegiance; The assembly bows down to YHWH and to the king;
-    Onyx, inlay, antimony, multicolored stones and marble gathered for the temple; The temple is called
-    the birah (fortress/palace), not for man but for God; A thousand bulls, a thousand rams and a thousand
-    lambs offered in a day; Doxology: ''Yours, YHWH, is the greatness, the power, the glory, the victory
-    and the majesty ... and the kingdom''; Donors confess that everything comes from God and they only
-    give back what is his; and 10 more.'
+    The temple is called the birah (fortress/palace), not for man but for God; A thousand bulls, a thousand
+    rams and a thousand lambs offered in a day; Doxology: ''Yours, YHWH, is the greatness, the power,
+    the glory, the victory and the majesty ... and the kingdom''; Donors confess that everything comes
+    from God and they only give back what is his; To God belongs the grandeur (kibriya'') in the heavens
+    and the earth; and 10 more.'
   basis: reading
 - text: 'Only in The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God
     rich, you poor: Would you, if you turned away, cause corruption on earth and sever your ties of kinship

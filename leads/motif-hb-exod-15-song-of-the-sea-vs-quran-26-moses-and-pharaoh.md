@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sea splits and each part is like a great mountain (ṭawd) (weight
-    6.7). Pair score 6.7.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The Song of the Sea and Miriam''s song: The earth swallows the enemy at God''s outstretched
     right hand; God leads the redeemed people to his holy abode; Neighboring nations and chieftains tremble
@@ -29,8 +29,8 @@ evidence:
     sink like a stone or like lead in mighty waters; Mary is addressed as ''sister of Aaron'' [divergence
     between the texts]; God seized Pharaoh and his hosts and cast them into the sea while he was blameworthy;
     God brings and plants his people on the mountain of his inheritance, his sanctuary; A prophetess leads
-    the women with drums and dances in a victory song; Leader and people sing a victory song after the
-    enemy''s destruction; Hymn climaxes with ''YHWH will reign forever and ever''; and 4 more.'
+    the women with drums and dances in a victory song; God''s glorious right hand shatters the enemy;
+    Leader and people sing a victory song after the enemy''s destruction; and 4 more.'
   basis: reading
 - text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
     the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
@@ -40,9 +40,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 42 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 50 more.'
   basis: reading
 - text: 'The Song of the Sea and Miriam''s song: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After the first punishment God restores Israel''s turn with wealth
-    and sons (weight 6.7). Pair score 6.7.'
+    and sons (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Gog''s fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast
     of the birds: God strikes the bow from the invader''s left hand and makes the arrows drop from his
@@ -35,19 +35,20 @@ evidence:
     every human bone with a sign (tsiyyun) for the buriers; Gog and his horde are buried in the Valley
     of the Travelers east of the sea, renamed Valley of Hamon-Gog; a city is named Hamonah; Israel''s
     townsfolk burn the enemy weapons (shields, bows, arrows, clubs, spears) as fuel for seven years, cutting
-    no wood from the forest; Strong bulls of Bashan encircle the sufferer; Slain enemies become a portion
-    for jackals or food for beasts and birds; and 7 more.'
+    no wood from the forest; Strong bulls of Bashan encircle the sufferer; The final invader comes from
+    the farthest recesses of the north (yarketei tsafon); and 7 more.'
   basis: reading
 - text: 'Only in The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8): Israel
     addressed as descendants of those carried with Noah, who was a grateful servant; Divine warning ''if
     you return (to sin), we will return (to punishment)''; It is decreed in the Book that Israel will
     work corruption on earth twice; God takes his servant on a journey to show him some of his signs;
-    God sends against Israel servants of his of great might who range through their homes; God carried
-    his servant by night from the Sacred Mosque to the Farthest Mosque; The enemy enters the sanctuary
-    (masjid) a second time as the first and destroys all; Enemies roar in the sanctuary, hack its carved
-    work with axes and burn it to the ground [divergence between the texts]; God gave Moses the Book as
-    guidance for the Children of Israel; Enemies roar in the sanctuary, hack its carved work with axes
-    and burn it to the ground.'
+    The storm or enemy destroys the city a second time; The enemy sent against the city enters its sanctuary
+    and wrecks what it finds; The god himself rouses a mighty foreign enemy against his own land or people;
+    The god himself sends a fierce foreign people against his own city or people; God sends against Israel
+    servants of his of great might who range through their homes; Because of his people''s offence their
+    own god lets a foreign power oppress them for a time, and later gives the land (or the upper hand)
+    back; A swift journey by night ends at a distant sanctuary; God carried his servant by night from
+    the Sacred Mosque to the Farthest Mosque; and 6 more.'
   basis: reading
 - text: 'Gog''s fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast of the
     birds: tagged by Claude (model), reading the Hebrew.'

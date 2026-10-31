@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will remove the heart of stone and give a heart of flesh and
-    a new spirit (weight 5.8). Pair score 5.8.'
+    a new spirit (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in The cauldron saying, death of Pelatiah, God as little sanctuary, the new heart, the glory
     on the Mount of Olives: A man dies suddenly while the prophet is still prophesying against him; Proverb

@@ -18,27 +18,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who conceal the revealed signs are cursed by God and by all
-    who curse (weight 6.3). Pair score 6.3.'
+    who curse (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Inscribed stones and altar on Ebal; the twelve curses: Curses on lying with father''s
     wife, a beast, a sister, a mother-in-law; Cursed is he who misleads a blind man on the road; Levites
     pronounce twelve curses on secret crimes and all the people answer Amen; Six tribes stand on one mountain
     to bless, six on the other to curse; Large stones plastered with lime and inscribed with the whole
     Torah after crossing; Blessing pronounced on Mount Gerizim and curse on Mount Ebal; Altar of whole
-    stones on which no iron tool is lifted; Do not move your neighbor''s ancient boundary marker; Prohibition
-    of carved images or likenesses of anything for worship; Promised land described as flowing with milk
-    and honey.'
+    stones on which no iron tool is lifted; Prohibition of carved images or likenesses of anything for
+    worship; Do not move your neighbor''s ancient boundary marker; Promised land described as flowing
+    with milk and honey.'
   basis: reading
 - text: 'Only in Patience, Safa and Marwa, signs of creation: On seeing the punishment, those followed
     disown their followers, who wish for a return to disown them in turn; Safa and Marwa are among God''s
     waymarks; circuit between them permitted on pilgrimage; Formula of the afflicted: ''To God we belong
-    and to him we return''; ''YHWH gave and YHWH has taken; blessed be the name of YHWH''; Those slain
-    in God''s way are not dead but alive, provided for with their Lord; God''s test by loss of goods,
-    lives and children [divergence between the texts]; God''s covenant with Israel is as sure as the fixed
-    order of sun, moon, stars and sea; Ships go to and fro on the great sea; Catalogue of signs: heavens
-    and earth, alternation of night and day, ships, rain reviving dead earth, beasts, winds, clouds; Hear
-    O Israel: YHWH our God, YHWH is one; Declaration that YHWH is God and there is no other besides him;
-    Rain from the sky gives life to the earth after its death, a sign of resurrection.'
+    and to him we return''; In affliction the person declares ''I belong to (the god)''; ''If only (the
+    enemy / the wrongdoers) knew or saw'' the god''s strength (formula); ''YHWH gave and YHWH has taken;
+    blessed be the name of YHWH''; God''s test by loss of goods, lives and children [divergence between
+    the texts]; God''s covenant with Israel is as sure as the fixed order of sun, moon, stars and sea;
+    Those slain in God''s way are not dead but alive, provided for with their Lord; The dead are declared
+    ''not dead, but alive'' [neutral] [divergence between the texts]; Ships go to and fro on the great
+    sea; Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
+    earth, beasts, winds, clouds; and 3 more.'
   basis: reading
 - text: 'Inscribed stones and altar on Ebal; the twelve curses: tagged by Claude (model), reading the
     Hebrew.'

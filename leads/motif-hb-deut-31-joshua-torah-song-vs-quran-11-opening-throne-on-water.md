@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses writes the Torah and gives it to the Levitical priests and
-    elders (weight 6.7). Pair score 6.7.'
+    elders (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Joshua commissioned; Torah written and deposited; the Song commanded: Book of the Torah
     placed beside the ark as a witness; God foretells to the dying prophet that the people will go astray
@@ -38,12 +38,12 @@ evidence:
     God; Those who want only this life are paid in full here and have nothing in the hereafter but fire;
     God created heaven and earth to test which of you is best in deeds; Deniers demand that a treasure
     be sent down to the prophet or an angel come with him; A divine wind or spirit hovers or moves over
-    the primeval waters; YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever; Man calls
+    the primeval waters; YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever; God sets
+    each creature in its place, supplies its sustenance and knows (reckons) its term or abode; Man calls
     on God lying, sitting or standing in distress, then passes on as if he had never prayed once relieved;
     God lays the beams of his upper chambers on the (heavenly) waters and waters the mountains from them;
     What is over the waters before or at creation: God''s spirit, his throne or his voice [divergence
-    between the texts]; All creatures look to God to give their food in due season; he opens his hand
-    and they are satisfied; and 10 more.'
+    between the texts]; and 12 more.'
   basis: reading
 - text: 'Joshua commissioned; Torah written and deposited; the Song commanded: tagged by Claude (model),
     reading the Hebrew.'

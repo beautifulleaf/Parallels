@@ -19,23 +19,24 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sign the flood leaves for later generations [divergence between
-    the texts] (weight 6.3). Pair score 6.3.'
+    the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Blessing of Noah, blood laws and the covenant of the bow: God requires the life of a
-    human even from an animal that kills; God sees the bow in the cloud and remembers his covenant (the
-    sign reminds the deity); God makes a covenant with humans and all living creatures; Eating animals
-    permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be shed, because
-    humans bear God''s image [divergence between the texts]; The same religion (din) was enjoined on Noah,
-    Abraham, Moses, Jesus and the Prophet: establish it and do not divide; The sign left after the flood:
-    the rainbow, or the ark [divergence between the texts]; Whoever sheds human blood, by man shall his
-    blood be shed, because humans bear God''s image; A sign in the sky commemorates the flood (bow, necklace);
-    Hero blessed on leaving the vessel; Humans given rule over animals; Deity resolves or promises not
-    to repeat the destruction; and 3 more.'
+    human even from an animal that kills; God makes a covenant with humans and all living creatures; Eating
+    animals permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be
+    shed, because humans bear God''s image [divergence between the texts]; The same religion (din) was
+    enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish it and do not divide; The sign
+    left after the flood: the rainbow, or the ark [divergence between the texts]; Whoever sheds human
+    blood, by man shall his blood be shed, because humans bear God''s image; God sees the bow in the cloud
+    and remembers his covenant (the sign reminds the deity); Humans given rule over animals; A sign in
+    the sky commemorates the flood (bow, necklace); Eating blood is forbidden; Deity resolves or promises
+    not to repeat the destruction; and 3 more.'
   basis: reading
 - text: 'Only in Noah remains a thousand years less fifty among his people: God made the flood ship (or
     its survivors) a sign for all the worlds; Noah''s span of 950 years, and what it measures [divergence
-    between the texts]; Why God destroyed a generation or a people [divergence between the texts]; Hero''s
-    life or mission spans 950 years; Hero warns or preaches to his people before the flood.'
+    between the texts]; A span of years counted up to the flood, then ''the flood swept over / took them''
+    [divergence between the texts]; Why God destroyed a generation or a people [divergence between the
+    texts]; Hero''s life or mission spans 950 years; Hero warns or preaches to his people before the flood.'
   basis: reading
 - text: 'Blessing of Noah, blood laws and the covenant of the bow: tagged by Claude (model), reading the
     Hebrew.'

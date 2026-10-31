@@ -18,15 +18,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who remember God standing, sitting and on their sides and
-    reflect on creation (weight 6.0). Pair score 6.0.'
+    reflect on creation (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The Shema and the instruction to teach: When your son asks what the laws mean, recite
-    the exodus story; Swear only by God''s name; Teach the words to your children when sitting, walking,
-    lying down and rising; Words bound as a sign on the hand and between the eyes (phylacteries); Do not
-    put God to the test as at Massah; When you eat and are full, beware lest you forget God; Words written
-    on doorposts and gates (mezuzah); Israel will inherit cities, houses, cisterns, vineyards and olives
-    they did not build or plant; Love God with all your heart, soul and might; Hear O Israel: YHWH our
-    God, YHWH is one; Promised land described as flowing with milk and honey.'
+    the exodus story; Words bound as a sign on the hand and between the eyes (phylacteries); Do not put
+    God to the test as at Massah; Swear only by God''s name; When you eat and are full, beware lest you
+    forget God; Words written on doorposts and gates (mezuzah); Israel will inherit cities, houses, cisterns,
+    vineyards and olives they did not build or plant; Teach the words to your children when sitting, walking,
+    lying down and rising; Hear O Israel: YHWH our God, YHWH is one; Love God with all your heart, soul
+    and might; Promised land described as flowing with milk and honey.'
   basis: reading
 - text: 'Only in Shortened prayer and prayer in shifts under arms: If you suffer, they suffer as you do,
     but you hope from God what they do not; Prayer is prescribed for believers at fixed times (kitāban

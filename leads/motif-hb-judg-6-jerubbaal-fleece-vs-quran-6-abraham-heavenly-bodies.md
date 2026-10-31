@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If he is a god, let him defend himself [divergence between the texts]
-    (weight 6.7); Hero''s father makes, sells or worships idols [divergence between the texts] (weight
-    5.4); Hero''s father makes, sells or worships idols (weight 4.8). Pair score 16.9.'
+    (weight 7.7); Hero''s father makes, sells or worships idols [divergence between the texts] (weight
+    6.5); Hero''s father makes, sells or worships idols (weight 5.9). Pair score 20.1.'
   basis: reading
 - text: 'Only in Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: A fleece is
     left on the threshing floor as a sign: wet when the ground is dry, then dry when it is wet; If he
@@ -38,10 +38,11 @@ evidence:
     father is named Āzar; Abraham: ''I do not love things that set'' (lā uḥibbu l-āfilīn); Which of the
     two parties has more right to security? Those who believe without mixing in wrong; God takes the patriarch
     outside and tells him to count the stars; God takes the patriarch outside and tells him to count the
-    stars [divergence between the texts]; Prohibition of worshipping sun, moon, stars, the host of heaven
-    [divergence between the texts]; Patriarch believes God and it is counted to him as righteousness;
-    Follow the religion (milla) of Abraham the ḥanīf, who was no idolater; Prohibition of worshipping
-    sun, moon, stars, the host of heaven; Hero reasons from the stars, moon and sun to the one God.'
+    stars [divergence between the texts]; A star, the moon or the sun is identified as the (high) god
+    [divergence between the texts]; What follows when the sun (as deity) goes down [divergence between
+    the texts]; Prohibition of worshipping sun, moon, stars, the host of heaven [divergence between the
+    texts]; Patriarch believes God and it is counted to him as righteousness; Follow the religion (milla)
+    of Abraham the ḥanīf, who was no idolater; and 2 more.'
   basis: reading
 - text: 'Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: tagged by Claude (model),
     reading the Hebrew.'

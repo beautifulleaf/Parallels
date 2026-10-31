@@ -20,8 +20,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1); People
-    make a molten calf while the leader is on the mountain (weight 4.7). Pair score 9.8.'
+- text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 6.1); People
+    make a molten calf while the leader is on the mountain (weight 5.8). Pair score 11.9.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The calf is hailed as the god who brought Israel out of Egypt (weight
-    6.3); People make a molten calf while the leader is on the mountain (weight 4.7). Pair score 11.0.'
+    7.3); People make a molten calf while the leader is on the mountain (weight 5.8). Pair score 13.1.'
   basis: reading
 - text: 'Only in Jeroboam''s golden calves and rival cult: King invents a rival pilgrimage festival on
     the fifteenth of the eighth month, a month ''he devised from his own heart''; Postponing a sacred
@@ -30,16 +30,15 @@ evidence:
   basis: reading
 - text: 'Only in Moses hastens to the appointment; the Samiri and the calf: Aaron explains he feared being
     blamed for dividing the children of Israel; Aaron warns the people against the calf; they refuse to
-    stop until Moses returns; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
-    is condemned to say all his life ''No touching!'' (lā misās), an outcast; The calf-maker took a handful
-    (of dust) from the track of the messenger and cast it in; God asks Moses why he hastened ahead of
-    his people to the appointment; In anger Moses seizes his brother by the beard and head; Aaron pleads
-    ''son of my mother''; Calf burned, ground to dust, and the dust thrown into the stream; Calf burned,
-    ground to dust, and the dust thrown into the stream [divergence between the texts]; The calf-maker
+    stop until Moses returns; The calf-maker is condemned to say all his life ''No touching!'' (lā misās),
+    an outcast; The calf-maker took a handful (of dust) from the track of the messenger and cast it in;
+    God asks Moses why he hastened ahead of his people to the appointment; In anger Moses seizes his brother
+    by the beard and head; Aaron pleads ''son of my mother''; Calf burned, ground to dust, and the dust
+    thrown into the stream; Calf burned, ground to dust, and the dust thrown into the stream [divergence
+    between the texts]; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
     is condemned to say all his life ''No touching!'' (lā misās), an outcast [divergence between the texts];
-    The calf is hailed as the god who brought Israel out of Egypt [divergence between the texts]; God
-    asks Moses why he hastened ahead of his people to the appointment [divergence between the texts];
-    and 8 more.'
+    The calf is hailed as the god who brought Israel out of Egypt [divergence between the texts]; A sorcerer
+    takes the dirt of someone''s footprint for a magical act; and 12 more.'
   basis: reading
 - text: 'Jeroboam''s golden calves and rival cult: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -13,8 +13,8 @@ layers:
 - motif
 motifs:
 - egyptian-foods-remembered-as-divergence
-- egyptian-foods-remembered
 - quail-miracle-as-divergence
+- egyptian-foods-remembered
 - quail-miracle
 - murmuring-in-wilderness
 passages: []
@@ -22,21 +22,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Longing for fish, cucumbers, melons, leeks, onions and garlic of
-    Egypt [divergence between the texts] (weight 6.7); Longing for fish, cucumbers, melons, leeks, onions
-    and garlic of Egypt (weight 6.7); Wind brings quail in vast quantity to feed the people [divergence
-    between the texts] (weight 6.7); Wind brings quail in vast quantity to feed the people (weight 5.8);
-    The people grumble against their leaders about food or water (weight 5.1). Pair score 30.9.'
+    Egypt [divergence between the texts] (weight 7.7); Wind brings quail in vast quantity to feed the
+    people [divergence between the texts] (weight 7.7); Longing for fish, cucumbers, melons, leeks, onions
+    and garlic of Egypt (weight 7.7); Wind brings quail in vast quantity to feed the people (weight 6.8);
+    The people grumble against their leaders about food or water (weight 6.1). Pair score 36.2.'
   basis: reading
 - text: 'Only in Taberah, the craving, the seventy elders and the quail: Fire from God burns part of the
-    camp for complaint; Spirit rests on people and they prophesy (ecstatically); A ''rabble'' or mixed
-    crowd among the people instigates sin; Leader refuses to silence prophets outside the sanctioned place:
-    ''would all were prophets''; Bird-meat as desired food: punished or granted [contrast between the
-    texts]; Leader doubts God can supply; God replies ''Is my hand too short?'' [divergence between the
-    texts]; Craved food granted, then plague strikes while meat is still in their mouths; Leader protests
-    he did not conceive or bear the people to carry them like a nurse; Exhausted leader asks God to kill
-    him; Manna described: like coriander seed, look of bdellium, taste of oil cakes, falls with the dew;
-    Seventy elders of Israel accompany or assist the prophet [divergence between the texts]; Some of the
-    spirit on the leader is taken and placed on others; and 4 more.'
+    camp for complaint; A ''rabble'' or mixed crowd among the people instigates sin; Leader refuses to
+    silence prophets outside the sanctioned place: ''would all were prophets''; Bird-meat as desired food:
+    punished or granted [contrast between the texts]; Leader doubts God can supply; God replies ''Is my
+    hand too short?'' [divergence between the texts]; Spirit rests on people and they prophesy (ecstatically);
+    Craved food granted, then plague strikes while meat is still in their mouths; Leader protests he did
+    not conceive or bear the people to carry them like a nurse; Exhausted leader asks God to kill him;
+    Manna described: like coriander seed, look of bdellium, taste of oil cakes, falls with the dew; Seventy
+    elders of Israel accompany or assist the prophet [divergence between the texts]; Some of the spirit
+    on the leader is taken and placed on others; and 4 more.'
   basis: reading
 - text: 'Only in Exodus, the calf and the wilderness: Israelites who demanded to see God are struck by
     a thunderbolt and then raised after their death; Who or what parts the sea [divergence between the

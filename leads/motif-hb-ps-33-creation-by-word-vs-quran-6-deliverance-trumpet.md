@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''He spoke and it came to be; he commanded and it stood firm'' (weight
-    6.3); Deity creates by spoken command (Let there be...) (weight 5.8). Pair score 12.1.'
+    7.3); Deity creates by spoken command (Let there be...) (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in Psalm 33 - by the word of YHWH the heavens were made: God frustrates the counsel of the
     nations; his own counsel stands forever; By the word of YHWH the heavens were made and all their host

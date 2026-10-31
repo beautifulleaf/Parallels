@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hypocrites'' bodies impress and their speech is heard, but they
-    are like propped-up timbers, thinking every cry is against them (weight 6.7). Pair score 6.7.'
+    are like propped-up timbers, thinking every cry is against them (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Idols like scarecrows in a cucumber field: Do not learn the way of the nations or be
     dismayed by the signs of the heavens, at which the nations are dismayed; Idols are like a scarecrow

@@ -20,18 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Springs and fruit of the promised land or of the Garden [divergence
-    between the texts] (weight 6.7); Land of wheat, barley, vine, fig, pomegranate, olive and honey (weight
-    5.8). Pair score 12.5.'
+    between the texts] (weight 7.7); Land of wheat, barley, vine, fig, pomegranate, olive and honey (weight
+    6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Lessons of the wilderness; the good land; beware of pride: Wilderness of fiery serpents
-    and scorpions; When you eat and are satisfied, bless God for the land; Land whose stones are iron
-    and from whose hills copper is dug; Man does not live by bread alone but by every word from God''s
-    mouth; God tests the community ''until we know'' who strive and are patient; Given a blessing, man
+    and scorpions; When you eat and are satisfied, bless God for the land; Man does not live by bread
+    alone but by every word from God''s mouth; God tests the community ''until we know'' who strive and
+    are patient; Land whose stones are iron and from whose hills copper is dug; Given a blessing, man
     says ''I was given it only because of my knowledge''; it is a trial; The wilderness journey was to
-    humble and test Israel; Clothes did not wear out and feet did not swell for forty years; God disciplines
-    Israel as a man disciplines his son; Warning against saying my power and the might of my hand made
-    this wealth; When you eat and are full, beware lest you forget God; Water brought out of the rock;
-    and 5 more.'
+    humble and test Israel; Warning against saying my power and the might of my hand made this wealth;
+    When you eat and are full, beware lest you forget God; Water brought out of the rock; Wealth and children
+    are a trial (fitna); Clothes did not wear out and feet did not swell for forty years; and 5 more.'
   basis: reading
 - text: 'Only in Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs
     of gardens with secluded maidens: The damned go round between Gehenna and seething boiling water;
@@ -43,8 +42,7 @@ evidence:
     attend to you, O two weighty ones (al-thaqalan)''; Doxology: ''Blessed be the name of your Lord, possessor
     of majesty and honor''; Reclining on couches lined with brocade, with the fruit of the gardens hanging
     near; The text addresses jinn and humans together in the dual (''you two'', al-thaqalan, ''the two
-    weighty ones''); The guilty are known by their marks and seized by the forelocks and the feet; and
-    4 more.'
+    weighty ones''); Favour is repaid with favour (goodness with goodness); and 7 more.'
   basis: reading
 - text: 'Lessons of the wilderness; the good land; beware of pride: tagged by Claude (model), reading
     the Hebrew.'

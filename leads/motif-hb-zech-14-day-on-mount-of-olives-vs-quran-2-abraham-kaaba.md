@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A sanctuary to which all peoples come [divergence between the texts]
-    (weight 6.7); Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score 12.1.'
+    (weight 7.7); Hear O Israel: YHWH our God, YHWH is one (weight 6.5). Pair score 14.2.'
   basis: reading
 - text: 'Only in The final day on the Mount of Olives; living waters; Sukkot for the nations: A unique
     day known to YHWH, neither day nor night, without light, cold and frost; at evening there will be
@@ -47,7 +47,7 @@ evidence:
     revelation or covenant passed [divergence between the texts]; Whether and how God''s covenant with
     Abraham passes to his offspring [contrast between the texts]; The list of fathers in ''God of your
     fathers'' [divergence between the texts]; Whether Ishmael is with Abraham or sent away [contrast between
-    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 16 more.'
+    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'The final day on the Mount of Olives; living waters; Sukkot for the nations: tagged by Claude
     (model), reading the Hebrew.'

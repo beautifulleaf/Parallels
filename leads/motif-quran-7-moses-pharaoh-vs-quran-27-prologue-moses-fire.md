@@ -20,10 +20,10 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A poetic list of the Egyptian plagues differs in number and order
-    from Exodus (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign
-    (weight 5.6); A staff thrown down becomes a serpent and turns back into a staff (weight 5.4); Prophet''s
-    wonders are imitated by the king''s magicians in a contest (weight 5.1); The king''s heart is hardened
-    (by himself or by God) so he refuses to release the people (weight 4.6). Pair score 26.7.'
+    from Exodus (weight 7.1); Prophet''s hand turns leprous, white as snow, and is restored as a sign
+    (weight 6.6); A staff thrown down becomes a serpent and turns back into a staff (weight 6.5); Prophet''s
+    wonders are imitated by the king''s magicians in a contest (weight 6.0); The king''s heart is hardened
+    (by himself or by God) so he refuses to release the people (weight 5.7). Pair score 31.8.'
   basis: reading
 - text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
     years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
@@ -31,11 +31,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 20 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 30 more.'
   basis: reading
 - text: 'Only in Ta Sin; Moses at the fire, the jann-staff and the nine signs: At the fire the voice proclaims
     ''Blessed is he who is in the fire and those around it''; God described as the one who dwells in the

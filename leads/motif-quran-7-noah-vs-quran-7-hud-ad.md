@@ -19,10 +19,10 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: People marvel that a reminder came through a man from among them
-    (weight 6.3); Prophet calls himself his people''s sincere and trustworthy adviser (nasih amin) (weight
-    6.3); The chiefs (al-mala'') of the prophet''s people accuse him of error or folly and reject him
-    (weight 6.0); Prophet''s refrain to his people: ''Worship God; you have no god other than him'' (weight
-    5.2); Destruction follows the people''s rejection of a messenger (weight 4.8). Pair score 28.6.'
+    (weight 7.3); Prophet calls himself his people''s sincere and trustworthy adviser (nasih amin) (weight
+    7.3); The chiefs (al-mala'') of the prophet''s people accuse him of error or folly and reject him
+    (weight 7.1); Prophet''s refrain to his people: ''Worship God; you have no god other than him'' (weight
+    6.2); Destruction follows the people''s rejection of a messenger (weight 5.9). Pair score 33.8.'
   basis: reading
 - text: 'Only in Noah warns his people: The drowned/destroyed were a blind people; Destruction follows
     the people''s rejection of a messenger [divergence between the texts]; Hero warns or preaches to his

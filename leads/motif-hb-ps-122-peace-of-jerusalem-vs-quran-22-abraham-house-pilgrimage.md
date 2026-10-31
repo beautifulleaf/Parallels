@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand
-    within Jerusalem''s gates (weight 6.3); Three annual pilgrimage festivals when every male appears
-    before God (weight 5.3). Pair score 11.6.'
+    within Jerusalem''s gates (weight 7.3); Three annual pilgrimage festivals when every male appears
+    before God (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in Psalm 122, pilgrim''s song, pray for the peace of Jerusalem: Jerusalem built ''as a city
     that is joined together'' (shehubberah lah yahdav); ''Pray for the peace of Jerusalem: may those who
@@ -41,7 +41,8 @@ evidence:
     Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; Eat
     of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
     a rite of sacrifice (mansak); What is done with the blood of sacrifices, and whether it reaches God
-    [divergence between the texts]; A place recognized as the house of God and gate of heaven; and 5 more.'
+    [divergence between the texts]; Whether the deity eats (receives) the food and drink of the offerings
+    [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Psalm 122, pilgrim''s song, pray for the peace of Jerusalem: tagged by Claude (model), reading
     the Hebrew.'

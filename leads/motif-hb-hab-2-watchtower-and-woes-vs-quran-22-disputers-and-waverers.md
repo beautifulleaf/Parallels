@@ -19,20 +19,20 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 5.8);
-    Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0). Pair score 10.8.'
+- text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 6.8);
+    Idols of wood and stone that cannot see, hear, eat or smell (weight 6.0). Pair score 12.9.'
   basis: reading
-- text: 'Only in The vision on tablets; the righteous live by faith; five woes: The arrogant man''s appetite
-    is wide as Sheol and like Death never satisfied, gathering all nations; Woe to one who makes his neighbor
-    drunk in order to gaze on his nakedness; The prophet stations himself on his watchpost to see what
-    God will answer to his complaint; ''The righteous shall live by his faith (emunah)''; A series of
-    ''woe'' (hoy) taunt-sayings against an oppressor; The stone cries out from the wall and the beam answers
-    from the woodwork; The vision is for an appointed time; though it tarry, wait for it, for it will
-    surely come; Write the vision plainly on tablets so that a runner may read it; Woe to the one who
-    says to wood ''Awake!'' and to dumb stone ''Arise!''; there is no breath in it; The earth will be
-    full of the knowledge of YHWH as the waters cover the sea; Peoples labor only for fire and nations
-    weary themselves for nothing; ''Hush (has) before YHWH, all the earth'', for he is in his holy temple
-    or has roused himself; and 6 more.'
+- text: 'Only in The vision on tablets; the righteous live by faith; five woes: Woe to one who makes his
+    neighbor drunk in order to gaze on his nakedness; The prophet stations himself on his watchpost to
+    see what God will answer to his complaint; ''The righteous shall live by his faith (emunah)''; A series
+    of ''woe'' (hoy) taunt-sayings against an oppressor; The stone cries out from the wall and the beam
+    answers from the woodwork; The vision is for an appointed time; though it tarry, wait for it, for
+    it will surely come; Write the vision plainly on tablets so that a runner may read it; Woe to the
+    one who says to wood ''Awake!'' and to dumb stone ''Arise!''; there is no breath in it; The earth
+    will be full of the knowledge of YHWH as the waters cover the sea; The arrogant man''s appetite is
+    wide as Sheol and like Death never satisfied, gathering all nations; Peoples labor only for fire and
+    nations weary themselves for nothing; ''Hush (has) before YHWH, all the earth'', for he is in his
+    holy temple or has roused himself; and 6 more.'
   basis: reading
 - text: 'Only in Those who dispute about God and those who worship on an edge: Taunt: whoever thinks God
     will not help him, let him stretch a rope to the sky, then cut it, and see if his rage is removed;

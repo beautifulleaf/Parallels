@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Psalm 115, not to us, polemic against idols: ''The heavens are YHWH''s heavens, but the
     earth he has given to the sons of man''; ''Not to us, YHWH, not to us, but to your name give glory'';
@@ -30,8 +30,8 @@ evidence:
     to grasp, eyes to see, ears to hear?; Likeness between the idols and those who call on them [divergence
     between the texts]; Liturgical triad (or tetrad) addressing Israel, the house of Aaron, (the house
     of Levi) and those who fear YHWH; In death there is no remembrance of God; in Sheol who will praise
-    him?; God called ''maker of heaven and earth'' (''oseh shamayim va-arets'') in blessing or confession
-    of help; Nations taunt ''Where is their God?''; and 1 more.'
+    him?; Nations taunt ''Where is their God?''; God called ''maker of heaven and earth'' (''oseh shamayim
+    va-arets'') in blessing or confession of help; and 1 more.'
   basis: reading
 - text: 'Only in Abraham, the stars, the smashed idols and the fire: Abraham glances at the stars and
     says ''I am sick'', so his people leave him behind; Abraham asks the idols ''Will you not eat? Why

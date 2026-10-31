@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Qārūn goes out in his finery and the worldly wish for his fortune
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 49 - no man can ransom his brother: Like sheep they are appointed for Sheol; Death
     shepherds them; When he dies he takes nothing with him; his glory does not go down after him; God
@@ -29,19 +29,20 @@ evidence:
     wills; Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves;
     No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too
     costly [divergence between the texts]; On that day no patron (mawla) can avail his client at all;
-    Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging; Wise men die, the fool
-    and the brute perish together and leave their wealth to others; Riches kept by their owner to his
-    hurt, lost in a bad venture, so that his son has nothing in hand; and 4 more.'
+    Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging; Riches kept by their
+    owner to his hurt, lost in a bad venture, so that his son has nothing in hand; Wise men die, the fool
+    and the brute perish together and leave their wealth to others; and 4 more.'
   basis: reading
 - text: 'Only in Qarun''s treasures and his swallowing by the earth; closing: God who imposed the Quran
     will bring the prophet back to a place of return (maʿād); Qārūn says his wealth came to him through
     knowledge he possesses; Qārūn (Korah) of Moses'' people was given treasures whose keys would weigh
     down a band of strong men; Donors confess that everything comes from God and they only give back what
-    is his; Bystanders of a divine punishment fear it could have struck them too; What Korah''s sin was,
-    and why the earth swallowed him [divergence between the texts]; All on earth perish; there remains
-    the Face of your Lord, possessor of majesty and honor; Warning against saying my power and the might
-    of my hand made this wealth; The rich man''s wealth is his strong city; the poverty of the poor is
-    their ruin; The earth opens its mouth and swallows rebels alive into Sheol.'
+    is his; The earth opens and swallows ill-gotten riches or the wrongful rich man with his house; Bystanders
+    of a divine punishment fear it could have struck them too; What Korah''s sin was, and why the earth
+    swallowed him [divergence between the texts]; All on earth perish; there remains the Face of your
+    Lord, possessor of majesty and honor; Warning against saying my power and the might of my hand made
+    this wealth; The rich man''s wealth is his strong city; the poverty of the poor is their ruin; The
+    earth opens its mouth and swallows rebels alive into Sheol.'
   basis: reading
 - text: 'Psalm 49 - no man can ransom his brother: tagged by Claude (model), reading the Hebrew.'
   basis: reading

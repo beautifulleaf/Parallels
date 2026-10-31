@@ -18,32 +18,32 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Bride covers herself with a veil on seeing the groom (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Bride covers herself with a veil on seeing the groom (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Abraham''s servant finds Rebekah for Isaac: God sends his angel ahead to guide the journey;
-    Departing bride blessed to become thousands of myriads; The bride is asked and consents to go (''I
-    will go''); Son brings bride into his dead mother''s tent and is comforted; Patriarch goes out to
-    meditate (or pray) in the field at evening; A trusted servant is sent abroad to find a bride for the
-    master''s son; Hero asks God for a specific sign to identify the right person (who will offer water);
-    Bride given a gold nose-ring and bracelets; Father insists his son''s wife come from his own kin,
-    not the local women; On entering houses greet one another with a blessed greeting from God; Oath sworn
-    by placing the hand under the thigh of the one demanding it; Descendants will possess the gate of
-    their enemies; and 5 more.'
+    The bride is asked and consents to go (''I will go''); Son brings bride into his dead mother''s tent
+    and is comforted; Patriarch goes out to meditate (or pray) in the field at evening; Hero asks God
+    for a specific sign to identify the right person (who will offer water); Departing bride blessed to
+    become thousands of myriads; Father insists his son''s wife come from his own kin, not the local women;
+    On entering houses greet one another with a blessed greeting from God; Oath sworn by placing the hand
+    under the thigh of the one demanding it; Descendants will possess the gate of their enemies; A trusted
+    servant is sent abroad to find a bride for the master''s son; Believing women are to draw their outer
+    cloaks (jalabib) over themselves so they are recognized and not harmed; and 5 more.'
   basis: reading
 - text: 'Only in Entering houses, lowering the gaze, head-coverings, marriage and manumission: Do not
     enter others'' houses until you have asked leave and greeted the household; if told to go back, go
     back; Believing men and women are told to lower their gaze and guard their private parts; Grant slaves
     who ask a written manumission contract (kitāba) and give them of God''s wealth; Marry off the unmarried
     among you and your righteous slaves; God will enrich the poor; Believing women draw their head-coverings
-    (khumur) over their bosoms and do not show adornment except to listed kin; ''I made a covenant with
-    my eyes; how then could I look upon a virgin?''; A father must not make his daughter a prostitute;
+    (khumur) over their bosoms and do not show adornment except to listed kin; A man''s look at a woman,
+    and what is required or done about it [neutral] [divergence between the texts]; ''I made a covenant
+    with my eyes; how then could I look upon a virgin?''; A father must not make his daughter a prostitute;
     Women should not strike their feet to make known their hidden ornaments (anklets); Freed slave must
     not be sent away empty-handed but furnished from flock, threshing floor and winepress; The head of
     a household must not prostitute a woman under his authority [divergence between the texts]; Catalogue
     of bridal finery: embroidered cloth, tahash sandals, linen, silk, bracelets, necklace, nose-ring,
-    earrings and a crown; Creditor must wait outside for the pledge and return a poor man''s cloak by
-    sunset.'
+    earrings and a crown; and 2 more.'
   basis: reading
 - text: 'Abraham''s servant finds Rebekah for Isaac: tagged by Claude (model), reading the Hebrew.'
   basis: reading

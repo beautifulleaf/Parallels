@@ -21,19 +21,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness [divergence
-    between the texts] (weight 5.8); The Ten Commandments (Decalogue) (weight 5.4); Prohibitions of murder,
-    adultery, theft and false witness (weight 5.1). Pair score 16.3.'
+    between the texts] (weight 6.8); The Ten Commandments (Decalogue) (weight 6.5); Prohibitions of murder,
+    adultery, theft and false witness (weight 5.7). Pair score 19.0.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
-    the texts]; and 11 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch your eyes
+    toward the worldly splendor given to others to test them; and 11 more.'
   basis: reading
 - text: 'Only in Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining
     emigrant women, and the women''s pledge: Abraham and those with him are an excellent example: they
@@ -49,7 +49,7 @@ evidence:
     what they worship, except the one who created him; Dissolving marriages with women outside the community
     [divergence between the texts]; God does not forbid kindness and justice toward those who did not
     fight you over religion or expel you; Neither your blood-ties nor your children will benefit you on
-    the Day of Resurrection; and 1 more.'
+    the Day of Resurrection; and 8 more.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

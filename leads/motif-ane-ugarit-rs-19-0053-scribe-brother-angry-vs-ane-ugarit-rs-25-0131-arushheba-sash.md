@@ -1,0 +1,99 @@
+---
+id: motif-ane-ugarit-rs-19-0053-scribe-brother-angry-vs-ane-ugarit-rs-25-0131-arushheba-sash
+title: 'The scribe Matkali-Nabû to the scribe Naheši-šalmu: why are you angry with your brother? write
+  my sin on a tablet; send peas and lentils; the wax tablet and the sandals (RS 19.0053) ↔ Lady Aruš-Heba
+  to the prefect, ''my son'': while my husband lived you were his good friend; whatever you asked he gave;
+  a sash sent; give bronze for the godhead I make (RS 25.0131)'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
+finding: 'Officials or kings exchange gifts and requests by letter: horses, mules, iron dagger, linen,
+  gold, glass, bronze cauldrons'
+kinds:
+- shared
+units:
+- id: ane-ugarit-rs-19-0053-scribe-brother-angry
+  title: 'The scribe Matkali-Nabû to the scribe Naheši-šalmu: why are you angry with your brother? write
+    my sin on a tablet; send peas and lentils; the wax tablet and the sandals (RS 19.0053)'
+  tradition: ane-akkadian
+- id: ane-ugarit-rs-25-0131-arushheba-sash
+  title: 'Lady Aruš-Heba to the prefect, ''my son'': while my husband lived you were his good friend;
+    whatever you asked he gave; a sash sent; give bronze for the godhead I make (RS 25.0131)'
+  tradition: ane-ugaritic
+matches:
+- kind: shared
+  label: 'Officials or kings exchange gifts and requests by letter: horses, mules, iron dagger, linen,
+    gold, glass, bronze cauldrons'
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: Ugarit RS 19.0053 o:14-18
+      lang: ''
+      text: (o:14) e-ne₂-na e-nu-ma GU₂.GAL hu-ul-lu-ru (o:15) GU₂.TUR ka-ak-ku-u₂ i-na (o:16) E₂ ŠEŠ-ka
+        ia-aʾ-nu (o:17) me-ri-il-ta an-ni-ta (o:18) la-a ta-kal₂-la-an-ni
+    note: 'No peas (ḫallūru) or lentils (kakkû) in your brother''s house: do not withhold this wish'
+  - tradition: ane-ugaritic
+    passages:
+    - ref: Ugarit RS 25.0131 r:4-7
+      lang: ''
+      text: (r:4) u₃ at-tu₃-ka (r:5) mi-ri-il-ta-a-ka (r:6) mi-nu-um-me-e (r:7) muh-hi-ia lu-u₂ tal-ta-nap-par
+    note: attūka mēreštaka mīnummê ... lū taltanappar
+- kind: shared
+  label: 'Letter greeting: ''may the gods (the thousand gods, the gods of Ugarit) guard you in well-being''
+    (ilānū ana šulmāni liṣṣurūka; Ugaritic ilm tġrk tšlmk)'
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: Ugarit RS 19.0053 o:5-7
+      lang: ''
+      text: (o:5) lu-u₂ šul-mu a-na muh-hi-ka (o:6) DINGIR-MEŠ a-na šul-ma-ni (o:7) PAP{+ru}-ka
+  - tradition: ane-ugaritic
+    passages:
+    - ref: Ugarit RS 25.0131 o:4
+      lang: ''
+      text: DUMU-ia DINGIR-MEŠ PAP{+ru}-ka
+status: new
+relations:
+- transmission
+- convergence
+standing: proposed
+traditions:
+- ane-akkadian
+- ane-ugaritic
+layers:
+- motif
+motifs:
+- gift-request-luxury-goods-between-officials
+- letter-greeting-gods-guard-you
+passages: []
+evidence:
+- text: 'Shared motifs, rarest first: Officials or kings exchange gifts and requests by letter: horses,
+    mules, iron dagger, linen, gold, glass, bronze cauldrons (weight 5.1); Letter greeting: ''may the
+    gods (the thousand gods, the gods of Ugarit) guard you in well-being'' (ilānū ana šulmāni liṣṣurūka;
+    Ugaritic ilm tġrk tšlmk) (weight 3.9). Pair score 9.0.'
+  basis: reading
+- text: 'Only in The scribe Matkali-Nabû to the scribe Naheši-šalmu: why are you angry with your brother?
+    write my sin on a tablet; send peas and lentils; the wax tablet and the sandals (RS 19.0053): A wax-covered
+    writing board (ṭuppu ša iškūri) is requested or sent in a letter; A letter asks ''why are you angry
+    with your brother? you are not as before toward me; if I have sinned, write my sin on a tablet and
+    send it''.'
+  basis: reading
+- text: 'Only in Lady Aruš-Heba to the prefect, ''my son'': while my husband lived you were his good friend;
+    whatever you asked he gave; a sash sent; give bronze for the godhead I make (RS 25.0131): A woman
+    asks for bronze because she is making a divine image (godhead); A widow reminds her late husband''s
+    friend that while her husband lived they were friends and he gave whatever was asked, and asks the
+    same favour of him; Metal is gathered or requested to make a god [divergence between the texts].'
+  basis: reading
+- text: 'The scribe Matkali-Nabû to the scribe Naheši-šalmu: why are you angry with your brother? write
+    my sin on a tablet; send peas and lentils; the wax tablet and the sandals (RS 19.0053): tagged by
+    Claude Opus 5.5, reading the Akkadian.'
+  basis: reading
+- text: 'Lady Aruš-Heba to the prefect, ''my son'': while my husband lived you were his good friend; whatever
+    you asked he gave; a sash sent; give bronze for the godhead I make (RS 25.0131): tagged by Claude
+    Opus 5.5, reading the Akkadian.'
+  basis: reading
+origin: pipeline
+added: '2026-10-31'
+---
+
+## Questions
+
+## Notes

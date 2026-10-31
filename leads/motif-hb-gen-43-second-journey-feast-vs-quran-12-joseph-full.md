@@ -15,18 +15,18 @@ layers:
 motifs:
 - early-reveal-to-youngest-as-divergence
 - pledge-to-father-as-divergence
-- parents-honored-dream-fulfilled
 - pledge-to-father
+- parents-honored-dream-fulfilled
 - father-reluctant-youngest
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero reveals himself to the youngest brother first [divergence between
-    the texts] (weight 6.7); A brother or the brothers give the father a pledge for the youngest [divergence
-    between the texts] (weight 6.7); Family prostrates before the hero, fulfilling the dream (weight 5.8);
-    A brother or the brothers give the father a pledge for the youngest (weight 5.8); Father refuses at
-    first to send the youngest (weight 5.6). Pair score 30.5.'
+    the texts] (weight 7.7); A brother or the brothers give the father a pledge for the youngest [divergence
+    between the texts] (weight 7.7); A brother or the brothers give the father a pledge for the youngest
+    (weight 6.8); Family prostrates before the hero, fulfilling the dream (weight 6.8); Father refuses
+    at first to send the youngest (weight 6.6). Pair score 35.8.'
   basis: reading
 - text: 'Only in Second journey with Benjamin and the feast in Joseph''s house: Brothers bring double
     money to return the silver found in their sacks; Egyptians will not eat with Hebrews, for it is an
@@ -46,7 +46,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 104 more.'
+    brings back the missing royal cup, with a guarantor; and 142 more.'
   basis: reading
 - text: 'Second journey with Benjamin and the feast in Joseph''s house: tagged by Claude (model), reading
     the Hebrew.'

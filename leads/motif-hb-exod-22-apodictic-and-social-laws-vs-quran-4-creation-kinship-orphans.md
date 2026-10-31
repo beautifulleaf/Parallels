@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God hears the cry of the oppressed widow and orphan and punishes
-    measure for measure (weight 6.7). Pair score 6.7.'
+    measure for measure (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Covenant Code - sorceress, stranger, widow, loans, firstborn: Lying with an animal is
     a capital crime; Whoever sacrifices to other gods is devoted to destruction; Flesh torn by beasts
     in the field is not eaten but thrown to dogs; Do not revile God or curse a ruler of your people; Flesh
     of an animal torn by a beast of prey is not to be eaten [divergence between the texts]; Newborn animal
     stays seven days with its mother before it may be sacrificed; Do not charge interest to the poor of
-    my people [response between the texts]; Do not oppress the stranger, for you were strangers in Egypt;
-    You shall not let a sorceress live; Firstborn sons and animals belong to God; A cloak taken in pledge
-    must be returned before sunset; To whom and how widely the ban on interest applies [divergence between
-    the texts]; and 2 more.'
+    my people [response between the texts]; You shall not let a sorceress live; Firstborn sons and animals
+    belong to God; Do not oppress the stranger, for you were strangers in Egypt; To whom and how widely
+    the ban on interest applies [divergence between the texts]; A cloak taken in pledge must be returned
+    before sunset; and 2 more.'
   basis: reading
-- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Those who devour orphans''
-    property devour fire into their bellies; Fear God, by whom you ask of one another, and the wombs (kinship
-    ties, al-arḥām); Kin, orphans and the poor present at the division of an estate are given something
-    from it; Property is not handed to the feeble-minded (sufahāʾ); they are fed and clothed from it;
-    Women as well as men receive a fixed share of what parents and kin leave; The husband gives the bride
-    her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; How the first woman was made
-    [divergence between the texts]; Do not enter the fields of the fatherless, for their redeemer (go''el)
-    is strong and will plead their cause; A man may marry two, three or four wives, or only one if he
-    fears injustice; A man who seduces an unbetrothed virgin must marry her or pay the bride-price; Who
-    receives the marriage payment [divergence between the texts]; First woman made from the man''s rib
-    or side while he sleeps; and 4 more.'
+- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Fear God, by whom you ask
+    of one another, and the wombs (kinship ties, al-arḥām); Kin, orphans and the poor present at the division
+    of an estate are given something from it; Property is not handed to the feeble-minded (sufahāʾ); they
+    are fed and clothed from it; Women as well as men receive a fixed share of what parents and kin leave;
+    The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part;
+    Those who devour orphans'' property devour fire into their bellies; How the first woman was made [divergence
+    between the texts]; A man may marry two, three or four wives, or only one if he fears injustice; A
+    man who seduces an unbetrothed virgin must marry her or pay the bride-price; To whom the bride-price
+    is paid and in what (silver and gold to her father; service to her father; the gift to the woman herself)
+    [divergence between the texts]; Do not covet; each has his own share (in the division among kin);
+    Who receives the marriage payment [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Covenant Code - sorceress, stranger, widow, loans, firstborn: tagged by Claude (model), reading
     the Hebrew.'

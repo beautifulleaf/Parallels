@@ -12,51 +12,53 @@ traditions:
 layers:
 - motif
 motifs:
-- binding-of-son-on-altar
-- what-the-son-knows-and-says-as-divergence
-- reward-after-the-sacrifice-as-divergence
-- command-to-sacrifice-son-as-divergence
-- who-stops-the-sacrifice-as-divergence
-- identity-of-the-son-to-be-sacrificed-as-divergence
-- substitute-for-the-son-as-divergence
-- command-to-sacrifice-son
 - angel-stops-sacrifice
-- father-lays-the-son-down-as-divergence
 - ram-substitute
+- binding-of-son-on-altar
+- father-lays-the-son-down-as-divergence
+- what-the-son-knows-and-says-as-divergence
+- who-stops-the-sacrifice-as-divergence
+- reward-after-the-sacrifice-as-divergence
+- substitute-for-the-son-as-divergence
+- command-to-sacrifice-son-as-divergence
+- command-to-sacrifice-son
+- identity-of-the-son-to-be-sacrificed-as-divergence
 - god-tests-patriarch
 - god-tests-patriarch-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Father binds his son on the altar and lifts the knife (weight 6.7);
-    What the son to be sacrificed knows and says [divergence between the texts] (weight 6.7); The reward
-    and blessing after the averted sacrifice [divergence between the texts] (weight 6.7); God commands
-    a father to sacrifice his son [divergence between the texts] (weight 6.7); Who stops the sacrifice
-    of the son, and why [divergence between the texts] (weight 6.7); Who the son to be sacrificed is and
-    how he is named [divergence between the texts] (weight 6.7); What is offered in place of the son,
-    and who provides it [divergence between the texts] (weight 6.7); God commands a father to sacrifice
-    his son (weight 6.7); An angel calls from heaven to stop the sacrifice at the last moment (weight
-    6.7); The father lays the son down for the sacrifice [divergence between the texts] (weight 6.7);
-    A ram caught in a thicket is sacrificed in place of the son (weight 6.7); God tests the patriarch''s
-    obedience (weight 6.3); God tests the patriarch''s obedience [divergence between the texts] (weight
-    6.3). Pair score 86.2.'
+- text: 'Shared motifs, rarest first: An angel calls from heaven to stop the sacrifice at the last moment
+    (weight 7.7); A ram caught in a thicket is sacrificed in place of the son (weight 7.7); Father binds
+    his son on the altar and lifts the knife (weight 7.7); The father lays the son down for the sacrifice
+    [divergence between the texts] (weight 7.7); What the son to be sacrificed knows and says [divergence
+    between the texts] (weight 7.7); Who stops the sacrifice of the son, and why [divergence between the
+    texts] (weight 7.7); The reward and blessing after the averted sacrifice [divergence between the texts]
+    (weight 7.7); What is offered in place of the son, and who provides it [divergence between the texts]
+    (weight 7.7); God commands a father to sacrifice his son [divergence between the texts] (weight 7.7);
+    God commands a father to sacrifice his son (weight 7.7); Who the son to be sacrificed is and how he
+    is named [divergence between the texts] (weight 7.7); God tests the patriarch''s obedience (weight
+    7.3); God tests the patriarch''s obedience [divergence between the texts] (weight 7.3). Pair score
+    99.9.'
   basis: reading
-- text: 'Only in The binding of Isaac (Aqedah): The son to be sacrificed is called the only, beloved son;
-    Place of sacrifice named ''YHWH will see/provide'' on the mount of the LORD; Son asks his father where
-    the sacrificial lamb is; The son carries the wood for his own sacrifice; Three-day journey to the
-    mountain of sacrifice; Descendants will possess the gate of their enemies; Called by name, the hero
-    answers ''Here I am'' (hineni); All families of the earth will be blessed through the patriarch; God
-    swears by himself; Descendants promised to be as countless as the dust, stars or sand.'
+- text: 'Only in The binding of Isaac (Aqedah): Place of sacrifice named ''YHWH will see/provide'' on
+    the mount of the LORD; Son asks his father where the sacrificial lamb is; The son carries the wood
+    for his own sacrifice; Three-day journey to the mountain of sacrifice; The son to be sacrificed is
+    called the only, beloved son; Descendants will possess the gate of their enemies; Called by name,
+    the hero answers ''Here I am'' (hineni); All families of the earth will be blessed through the patriarch;
+    God swears by himself; Descendants promised to be as countless as the dust, stars or sand.'
   basis: reading
 - text: 'Only in Abraham''s dream and the near-sacrifice of his son: God ransomed the son with a great
     sacrifice (dhibh ''azim); When both had submitted he laid him on his forehead (talla-hu li-l-jabin);
     The father sees in a dream that he is sacrificing his son; The son of the sacrifice is not named;
     Isaac''s birth is announced only after the episode (read as Ishmael by many exegetes); Lot believes
-    in Abraham, who declares ''I am emigrating to my Lord''; The son, consulted by his father, consents:
-    ''Father, do what you are commanded; you will find me patient''; Refrain ''We left for him among later
-    generations: Peace upon X... thus we reward those who do good''; A barren wife is told by a divine
-    messenger that she will bear a son; A divine messenger announces a son''s birth and gives his name.'
+    in Abraham, who declares ''I am emigrating to my Lord''; A sacrifice is commanded in a dream and carried
+    out on waking [divergence between the texts]; The son, consulted by his father, consents: ''Father,
+    do what you are commanded; you will find me patient''; Refrain ''We left for him among later generations:
+    Peace upon X... thus we reward those who do good''; A substitute (animal or person) is given to the
+    deity in place of a human life [divergence between the texts]; A barren wife is told by a divine messenger
+    that she will bear a son; A divine messenger announces a son''s birth and gives his name.'
   basis: reading
 - text: 'The binding of Isaac (Aqedah): tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -268,25 +270,6 @@ matches:
       text: وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ
         مُبِينٌ
 - kind: shared
-  label: Father binds his son on the altar and lifts the knife
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 22:9
-      lang: he
-      text: וַיָּבֹ֗אוּ אֶֽל הַמָּקוֹם֮ אֲשֶׁ֣ר אָֽמַר ל֣וֹ הָאֱלֹהִים֒ וַיִּ֨בֶן שָׁ֤ם אַבְרָהָם֙ אֶת
-        הַמִּזְבֵּ֔חַ וַֽיַּעֲרֹ֖ךְ אֶת הָעֵצִ֑ים וַֽיַּעֲקֹד֙ אֶת יִצְחָ֣ק בְּנ֔וֹ וַיָּ֤שֶׂם אֹתוֹ֙
-        עַל הַמִּזְבֵּ֔חַ מִמַּ֖עַל לָעֵצִֽים
-    - ref: Gen 22:10
-      lang: he
-      text: וַיִּשְׁלַ֤ח אַבְרָהָם֙ אֶת יָד֔וֹ וַיִּקַּ֖ח אֶת הַֽמַּאֲכֶ֑לֶת לִשְׁחֹ֖ט אֶת בְּנֽוֹ
-  - tradition: islam
-    passages:
-    - ref: Quran 37:103
-      lang: ar
-      text: فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ
-    note: no altar or binding; he lays him on his forehead
-- kind: shared
   label: An angel calls from heaven to stop the sacrifice at the last moment
   sides:
   - tradition: judaism
@@ -323,6 +306,25 @@ matches:
       lang: ar
       text: وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ
     note: '''a great sacrifice'', animal unspecified'
+- kind: shared
+  label: Father binds his son on the altar and lifts the knife
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 22:9
+      lang: he
+      text: וַיָּבֹ֗אוּ אֶֽל הַמָּקוֹם֮ אֲשֶׁ֣ר אָֽמַר ל֣וֹ הָאֱלֹהִים֒ וַיִּ֨בֶן שָׁ֤ם אַבְרָהָם֙ אֶת
+        הַמִּזְבֵּ֔חַ וַֽיַּעֲרֹ֖ךְ אֶת הָעֵצִ֑ים וַֽיַּעֲקֹד֙ אֶת יִצְחָ֣ק בְּנ֔וֹ וַיָּ֤שֶׂם אֹתוֹ֙
+        עַל הַמִּזְבֵּ֔חַ מִמַּ֖עַל לָעֵצִֽים
+    - ref: Gen 22:10
+      lang: he
+      text: וַיִּשְׁלַ֤ח אַבְרָהָם֙ אֶת יָד֔וֹ וַיִּקַּ֖ח אֶת הַֽמַּאֲכֶ֑לֶת לִשְׁחֹ֖ט אֶת בְּנֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:103
+      lang: ar
+      text: فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ
+    note: no altar or binding; he lays him on his forehead
 ---
 
 ## Questions

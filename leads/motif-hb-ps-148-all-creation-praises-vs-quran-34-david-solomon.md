@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mountains and birds are made to glorify God together with David
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Psalm 148, praise from heaven and earth: Kings and peoples, princes and judges, young
     men and maidens, old and young together praise God; God commanded and they were created; he established
@@ -27,22 +27,23 @@ evidence:
     God; Sea monsters (tanninim) and all deeps are summoned to praise God from the earth; ''The waters
     above the heavens'' are summoned to praise; Fire and hail, snow and smoke, stormy wind fulfilling
     his word; God''s angels, mighty ones who do his word, and all his hosts and ministers are summoned
-    to bless him; Those near God do not disdain to worship him; they glorify him and prostrate; Birds
-    with outspread wings glorify God; each knows its prayer and praise; Heaven, earth, seas and all that
-    moves in them praise God; The place of humans in the worship offered by all creation [divergence between
-    the texts]; The ''statutes of the heavens'' (huqqot shamayim) and their rule over the earth; and 6
-    more.'
+    to bless him; Those near God do not disdain to worship him; they glorify him and prostrate; Heaven,
+    earth, seas and all that moves in them praise God; The place of humans in the worship offered by all
+    creation [divergence between the texts]; The ''statutes of the heavens'' (huqqot shamayim) and their
+    rule over the earth; Mountains and birds are made to glorify God together with David [divergence between
+    the texts]; and 6 more.'
   basis: reading
 - text: 'Only in David''s mountains and mail; Solomon''s wind, copper, jinn and staff: God made a spring
     of molten copper (or brass) flow for Solomon; The jinn did not know the unseen, else they would not
     have stayed in humiliating labor; Solomon dies leaning on his staff; only a creature of the earth
-    gnawing the staff reveals his death when he falls; David and the coat of mail [contrast between the
-    texts]; How Solomon died and how his death became known [divergence between the texts]; Rivers clap
-    their hands and mountains sing together before YHWH; How Solomon''s great bronze works were produced
-    [divergence between the texts]; God taught David the craft of making coats of mail; Who did Solomon''s
-    building and craft work [divergence between the texts]; The stormy wind is subjected to Solomon, blowing
-    at his command; A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing the four directions
-    in threes; Devils (shayāṭīn) and jinn labor for Solomon, diving and building; and 1 more.'
+    gnawing the staff reveals his death when he falls; A superhuman craftsman casts metal vessels and
+    furniture for a lord [divergence between the texts]; David and the coat of mail [contrast between
+    the texts]; A king covers a journey of many stages in a single day [divergence between the texts];
+    How Solomon died and how his death became known [divergence between the texts]; How Solomon''s great
+    bronze works were produced [divergence between the texts]; God taught David the craft of making coats
+    of mail; Rivers clap their hands and mountains sing together before YHWH; Who did Solomon''s building
+    and craft work [divergence between the texts]; The stormy wind is subjected to Solomon, blowing at
+    his command; and 3 more.'
   basis: reading
 - text: 'Psalm 148, praise from heaven and earth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

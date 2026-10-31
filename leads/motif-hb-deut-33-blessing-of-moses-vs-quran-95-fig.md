@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shines forth from Sinai, Seir and Mount Paran with holy myriads
-    (weight 5.6). Pair score 5.6.'
+    (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The Blessing of Moses on the tribes: Dying patriarch or leader blesses each tribe in
     turn; Underneath are the everlasting arms; A fiery law (esh dat) from God''s right hand; Asher dips
@@ -27,17 +27,17 @@ evidence:
     and treasures hidden in the sand; A tribe likened to a lion or lion''s whelp; God described as the
     one who dwells in the bush (seneh); Levi says to father and mother ''I do not see you'' and disregards
     his brothers and children for God''s covenant; Believers do not love those who oppose God, even fathers,
-    sons, brothers or clan; God writes faith on their hearts and supports them with a spirit; God rides
-    through the heavens (rokhev shamayim) to help; and 3 more.'
+    sons, brothers or clan; God writes faith on their hearts and supports them with a spirit; Urim and
+    Thummim placed in the breastpiece for divine decision; and 3 more.'
   basis: reading
 - text: 'Only in The fig and the olive, Mount Sinai and the secure city: Humankind created in the best
-    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; Humankind created
-    in the best of forms (ahsan taqwim), then returned to the lowest of the low, except the believers
-    [divergence between the texts]; Hero challenges God: shall the judge of all the earth not do justice?
-    [divergence between the texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin);
-    Hero challenges God: shall the judge of all the earth not do justice?; Land of wheat, barley, vine,
-    fig, pomegranate, olive and honey; A series of oaths by natural phenomena (dawn, night, day, sun,
-    moon, sky, earth, stars, winds) opens or punctuates a passage.'
+    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; The fig and
+    the olive named together; Humankind created in the best of forms (ahsan taqwim), then returned to
+    the lowest of the low, except the believers [divergence between the texts]; Hero challenges God: shall
+    the judge of all the earth not do justice? [divergence between the texts]; Oath by ''this city'' (Mecca),
+    the secure city (al-balad al-amin); Hero challenges God: shall the judge of all the earth not do justice?;
+    Land of wheat, barley, vine, fig, pomegranate, olive and honey; A series of oaths by natural phenomena
+    (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates a passage.'
   basis: reading
 - text: 'The Blessing of Moses on the tribes: tagged by Claude (model), reading the Hebrew.'
   basis: reading

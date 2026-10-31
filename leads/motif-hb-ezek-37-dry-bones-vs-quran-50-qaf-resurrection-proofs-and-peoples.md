@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers ask ''When we are bones and fragments, shall we be raised
-    as a new creation?'' (weight 5.4). Pair score 5.4.'
+    as a new creation?'' (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
     graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is

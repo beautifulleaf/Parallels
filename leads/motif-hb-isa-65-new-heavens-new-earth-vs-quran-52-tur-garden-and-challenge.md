@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believers'' offspring who followed them in faith are joined with
-    them in paradise, without loss of reward; each is pledged for what he earned (weight 6.7). Pair score
-    6.7.'
+    them in paradise, without loss of reward; each is pledged for what he earned (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in New heavens and a new earth: Before they call God will answer; while they are still speaking
     he will hear; People will build houses and live in them, plant vineyards and eat their fruit, and
     not labor for others; In the new age no infant dies in days and one who dies at a hundred is counted
     a youth; God creates Jerusalem a joy; the sound of weeping and crying will no longer be heard in her;
     God creates new heavens and a new earth; the former things will not be remembered; Paradise is the
-    abode of permanence where no toil or weariness touches the blessed and grief is removed; Wolf dwells
-    with lamb, leopard with kid, lion eats straw like the ox, and a little child leads them; Serpent cursed
+    abode of permanence where no toil or weariness touches the blessed and grief is removed; Serpent cursed
     to crawl on its belly and eat dust; On the last day the earth is changed into another earth, and the
-    heavens too.'
+    heavens too; Wolf dwells with lamb, leopard with kid, lion eats straw like the ox, and a little child
+    leads them.'
   basis: reading
 - text: 'Only in The Garden: offspring joined with parents, the cup without idle talk, youths like pearls;
     the run of ''or...?'' challenges: The blessed question each other and recall that they used to be
@@ -40,10 +40,10 @@ evidence:
     of the stars (dawn); Do they have a ladder (sullam) by which they eavesdrop on heaven? Let their listener
     bring clear proof; ''Be patient for your Lord''s judgment, for you are under our eyes''; Were they
     created from nothing, or are they the creators? Did they create the heavens and earth?; Do they possess
-    the Unseen (al-ghayb) so they write it down?; Dream of a ladder or stairway reaching heaven with angels
-    ascending and descending; ''Eat and drink with relish for what you used to do''; A ladder (sullam
-    / sullām) reaching from earth to heaven [divergence between the texts]; The blessed recline on couches
-    set in rows (or face to face); and 13 more.'
+    the Unseen (al-ghayb) so they write it down?; ''Eat and drink with relish for what you used to do'';
+    A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts]; Messengers
+    go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij) [divergence
+    between the texts]; The blessed recline on couches set in rows (or face to face); and 14 more.'
   basis: reading
 - text: 'New heavens and a new earth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

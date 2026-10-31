@@ -18,8 +18,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humankind created in the best of forms (ahsan taqwim), then returned
-    to the lowest of the low, except the believers [divergence between the texts] (weight 6.7). Pair score
-    6.7.'
+    to the lowest of the low, except the believers [divergence between the texts] (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Psalm 8 - what is man: The heavens, moon and stars are the work of God''s fingers; Man
     made a little lower than elohim and crowned with glory and honor; Refrain: ''How majestic is your
@@ -34,12 +34,13 @@ evidence:
     and 1 more.'
   basis: reading
 - text: 'Only in The fig and the olive, Mount Sinai and the secure city: Humankind created in the best
-    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; Hero challenges
-    God: shall the judge of all the earth not do justice? [divergence between the texts]; Oath by ''this
-    city'' (Mecca), the secure city (al-balad al-amin); Hero challenges God: shall the judge of all the
-    earth not do justice?; Land of wheat, barley, vine, fig, pomegranate, olive and honey; God shines
-    forth from Sinai, Seir and Mount Paran with holy myriads; A series of oaths by natural phenomena (dawn,
-    night, day, sun, moon, sky, earth, stars, winds) opens or punctuates a passage.'
+    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; The fig and
+    the olive named together; Hero challenges God: shall the judge of all the earth not do justice? [divergence
+    between the texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin); Hero challenges
+    God: shall the judge of all the earth not do justice?; Land of wheat, barley, vine, fig, pomegranate,
+    olive and honey; God shines forth from Sinai, Seir and Mount Paran with holy myriads; A series of
+    oaths by natural phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates
+    a passage.'
   basis: reading
 - text: 'Psalm 8 - what is man: tagged by Claude (model), reading the Hebrew.'
   basis: reading

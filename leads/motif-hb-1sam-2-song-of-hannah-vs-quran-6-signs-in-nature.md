@@ -18,14 +18,14 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God brings the living out of the dead and the dead out of the living
-    (weight 6.0); I kill and I make alive, I wound and I heal; there is no god beside me (weight 5.1).
-    Pair score 11.1.'
+    (weight 7.1); I kill and I make alive, I wound and I heal; there is no god beside me (weight 6.1).
+    Pair score 13.2.'
   basis: reading
 - text: 'Only in Song of Hannah: God gives strength to his king and exalts the horn of his anointed (messiah);
     God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom he wills;
     Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap;
-    God kills and makes alive, brings down to Sheol and raises up; The world set upon pillars belonging
-    to God.'
+    The world set upon pillars belonging to God; God kills and makes alive, brings down to Sheol and raises
+    up.'
   basis: reading
 - text: 'Only in Splitter of seed and dawn; stars for navigation; do not revile their gods: Do not revile
     those they invoke besides God, lest they revile God in ignorance; They made the jinn partners of God,
@@ -34,8 +34,8 @@ evidence:
     hanging date clusters, vineyards, olives and pomegranates; God is the splitter of the dawn (fāliq
     al-iṣbāḥ); night for rest; God splits the grain and the date-stone; Vision does not grasp him, but
     he grasps all vision; Do not revile God or curse a ruler of your people; God has taken neither consort
-    (sahiba) nor child; God made the stars for guidance in the darknesses of land and sea; No human can
-    see God''s face and live; and 4 more.'
+    (sahiba) nor child; God made the stars for guidance in the darknesses of land and sea; Whether the
+    creator has offspring though he has no consort [neutral] [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'Song of Hannah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

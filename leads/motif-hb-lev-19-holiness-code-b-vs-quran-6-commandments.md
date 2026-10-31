@@ -19,14 +19,14 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
-    Pair score 4.7.'
+- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 5.3).
+    Pair score 5.3.'
   basis: reading
-- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Gashes in the flesh
-    for the dead and tattoo marks are forbidden; Prohibition of cross-breeding animals, sowing mixed seed
-    and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three years, holy in the fourth,
-    eaten in the fifth; Rise before the gray-haired and honor the elderly; Man who lies with a slave woman
-    designated to another man: inquiry and guilt offering, not death, because she is not free; A father
+- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Prohibition of cross-breeding
+    animals, sowing mixed seed and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three
+    years, holy in the fourth, eaten in the fifth; Rise before the gray-haired and honor the elderly;
+    Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
+    because she is not free; Gashes in the flesh for the dead and tattoo marks are forbidden; A father
     must not make his daughter a prostitute; The head of a household must not prostitute a woman under
     his authority [divergence between the texts]; Just weights and measures, and the ground given for
     them [divergence between the texts]; Love the stranger, for you were strangers in Egypt; Kindness
@@ -42,8 +42,8 @@ evidence:
     justice as witnesses for God even against yourselves, parents and kin, rich or poor; Honor father
     and mother, with the promise of long life [divergence between the texts]; Guardians must keep orphans''
     property intact and hand it over when they come of age; Prohibitions of murder, adultery, theft and
-    false witness [divergence between the texts]; Keep the law, turning neither to the right nor to the
-    left; I set before you life and death, blessing and curse: choose life; and 4 more.'
+    false witness [divergence between the texts]; God burdens no soul beyond its capacity; Keep the law,
+    turning neither to the right nor to the left; and 4 more.'
   basis: reading
 - text: 'Mixtures, orlah fruit, mourning cuttings, alien and just weights: tagged by Claude (model), reading
     the Hebrew.'

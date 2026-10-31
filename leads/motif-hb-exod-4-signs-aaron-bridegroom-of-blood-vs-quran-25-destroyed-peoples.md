@@ -19,30 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Aaron''s role beside Moses and how he is appointed [divergence between
-    the texts] (weight 6.0). Pair score 6.0.'
+    the texts] (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
     of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
-    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
-    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
-    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
-    man; The hero carries ''the staff of God'' with which he performs signs; The prophet asks that his
-    brother be made his helper (wazīr) and partner in his mission [divergence between the texts]; What
-    Moses demands of Pharaoh in God''s name [divergence between the texts]; God taught humankind by the
-    pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him
-    [divergence between the texts]; and 18 more.'
+    and seeks to kill him; The people believe the prophet''s signs and bow in worship; Hero may return
+    home because those seeking his life are dead; Wife cuts off her son''s foreskin with a flint and touches
+    it to the threatened man; The hero carries ''the staff of God'' with which he performs signs; The
+    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
+    the texts]; What Moses demands of Pharaoh in God''s name [divergence between the texts]; God claims
+    to make the mouth, the mute, the deaf, the seeing and the blind; God taught humankind by the pen (qalam)
+    what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence
+    between the texts]; and 18 more.'
   basis: reading
 - text: 'Only in Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town: The
     ''People of the Rass'' (aṣḥāb al-rass, the well) named among destroyed peoples; Most unbelievers are
     like cattle, or even further astray; The prophet asks that his brother be made his helper (wazīr)
     and partner in his mission; God rains destruction on Lot''s town [divergence between the texts]; ''Do
-    not go about after your heart and your eyes''; Ox knows its owner and the ass its master''s crib,
-    but Israel does not know (animals wiser than God''s people); The sign the flood leaves for later generations
-    [divergence between the texts]; The town that was rained on with an evil rain (Lot''s) is passed by
-    travelers; Why God destroyed a generation or a people [divergence between the texts]; Whoever takes
-    his own desire (hawā) as his god; The people mock God''s messengers, despise his words and scoff at
-    his prophets; All others perish; and 2 more.'
+    not go about after your heart and your eyes''; The sign the flood leaves for later generations [divergence
+    between the texts]; The town that was rained on with an evil rain (Lot''s) is passed by travelers;
+    Why God destroyed a generation or a people [divergence between the texts]; Whoever takes his own desire
+    (hawā) as his god; Ox knows its owner and the ass its master''s crib, but Israel does not know (animals
+    wiser than God''s people); The people mock God''s messengers, despise his words and scoff at his prophets;
+    God rains sulfur and fire from heaven on cities; and 2 more.'
   basis: reading
 - text: 'Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: tagged by Claude
     (model), reading the Hebrew.'

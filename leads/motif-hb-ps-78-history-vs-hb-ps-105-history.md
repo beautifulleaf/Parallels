@@ -12,34 +12,34 @@ traditions:
 layers:
 - motif
 motifs:
+- egypt-called-ham
 - plague-of-swarms-arov
 - nine-signs-of-moses-as-divergence
-- egypt-called-ham
-- variant-plague-list
-- plague-of-frogs
-- water-from-rock
 - death-of-firstborn
-- bread-rained-from-heaven
 - quail-cover-the-camp
-- hail-and-fire-from-heaven
+- variant-plague-list
+- water-from-rock
+- plague-of-frogs
 - nile-water-turned-to-blood
+- bread-rained-from-heaven
 - historical-recital-psalm
 - plague-of-locusts
+- hail-and-fire-from-heaven
 - pillar-of-cloud-and-fire
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Swarms (arov) of insects or wild beasts fill the houses of Egypt
-    (weight 6.3); Moses was given nine clear signs [divergence between the texts] (weight 6.3); Egypt
-    is called ''the tents of Ham'' or ''the land of Ham'' (weight 6.3); A poetic list of the Egyptian
-    plagues differs in number and order from Exodus (weight 6.0); Frogs swarm out of the river into houses,
-    beds, ovens and kneading-troughs (weight 6.0); Water brought out of a rock by the leader''s rod (weight
-    6.0); God kills every firstborn of the land, from the king''s heir to the lowest servant and cattle
-    (weight 6.0); God rains bread from heaven to feed the people in the desert (weight 6.0); Quail come
-    up in the evening and cover the camp (weight 6.0); God sends hail mingled with fire and thunder from
-    heaven (weight 5.8); Nile water is turned to blood (weight 5.8); Psalm retells Israel''s sacred history
-    (patriarchs, Egypt, wilderness, conquest) as instruction or praise (weight 5.6); Locusts brought by
-    an east wind devour all vegetation left after the hail (weight 5.6); God leads the people in a pillar
-    of cloud by day and a pillar of fire by night (weight 5.1). Pair score 82.6.'
+- text: 'Shared motifs, rarest first: Egypt is called ''the tents of Ham'' or ''the land of Ham'' (weight
+    7.3); Swarms (arov) of insects or wild beasts fill the houses of Egypt (weight 7.3); Moses was given
+    nine clear signs [divergence between the texts] (weight 7.3); God kills every firstborn of the land,
+    from the king''s heir to the lowest servant and cattle (weight 7.1); Quail come up in the evening
+    and cover the camp (weight 7.1); A poetic list of the Egyptian plagues differs in number and order
+    from Exodus (weight 7.1); Water brought out of a rock by the leader''s rod (weight 7.1); Frogs swarm
+    out of the river into houses, beds, ovens and kneading-troughs (weight 7.1); Nile water is turned
+    to blood (weight 6.6); God rains bread from heaven to feed the people in the desert (weight 6.6);
+    Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness, conquest) as instruction or
+    praise (weight 6.6); Locusts brought by an east wind devour all vegetation left after the hail (weight
+    6.5); God sends hail mingled with fire and thunder from heaven (weight 6.4); God leads the people
+    in a pillar of cloud by day and a pillar of fire by night (weight 6.1). Pair score 96.2.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -73,7 +73,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Swarms (arov) of insects or wild beasts fill the houses of Egypt
+finding: Egypt is called 'the tents of Ham' or 'the land of Ham'
 kinds:
 - shared
 units:
@@ -84,6 +84,22 @@ units:
   title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
   tradition: judaism
 matches:
+- kind: shared
+  label: Egypt is called 'the tents of Ham' or 'the land of Ham'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:51
+      lang: he
+      text: וַיַּ֣ךְ כָּל בְּכ֣וֹר בְּמִצְרָ֑יִם רֵאשִׁ֥ית א֝וֹנִ֗ים בְּאָהֳלֵי חָֽם
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:23
+      lang: he
+      text: וַיָּבֹ֣א יִשְׂרָאֵ֣ל מִצְרָ֑יִם וְ֝יַעֲקֹ֗ב גָּ֣ר בְּאֶֽרֶץ חָֽם
+    - ref: Ps 105:27
+      lang: he
+      text: שָֽׂמוּ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם
 - kind: shared
   label: Swarms (arov) of insects or wild beasts fill the houses of Egypt
   sides:
@@ -129,21 +145,38 @@ matches:
     note: 'dibrê ʾōtôtāyw ûmōptîm, starting with darkness (šālaḥ ḥōšek) and then blood, frogs, ʿārōb and
       kinnîm, hail, locust, firstborn: another count and order. Q''s tisʿa āyāt is a third count.'
 - kind: shared
-  label: Egypt is called 'the tents of Ham' or 'the land of Ham'
+  label: God kills every firstborn of the land, from the king's heir to the lowest servant and cattle
   sides:
   - tradition: judaism
     passages:
     - ref: Ps 78:51
       lang: he
       text: וַיַּ֣ךְ כָּל בְּכ֣וֹר בְּמִצְרָ֑יִם רֵאשִׁ֥ית א֝וֹנִ֗ים בְּאָהֳלֵי חָֽם
+    note: reshit onim be-oholei Ham
   - tradition: judaism
     passages:
-    - ref: Ps 105:23
+    - ref: Ps 105:36
       lang: he
-      text: וַיָּבֹ֣א יִשְׂרָאֵ֣ל מִצְרָ֑יִם וְ֝יַעֲקֹ֗ב גָּ֣ר בְּאֶֽרֶץ חָֽם
-    - ref: Ps 105:27
+      text: וַיַּ֣ךְ כָּל בְּכ֣וֹר בְּאַרְצָ֑ם רֵ֝אשִׁ֗ית לְכָל אוֹנָֽם
+- kind: shared
+  label: Quail come up in the evening and cover the camp
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:26-28
       lang: he
-      text: שָֽׂמוּ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם
+      text: (78:26) יַסַּ֣ע קָ֭דִים בַּשָּׁמָ֑יִם וַיְנַהֵ֖ג בְּעֻזּ֣וֹ תֵימָֽן (78:27) וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם
+        כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף (78:28) וַ֭יַּפֵּל בְּקֶ֣רֶב מַחֲנֵ֑הוּ סָ֝בִ֗יב
+        לְמִשְׁכְּנֹתָֽיו
+    note: east wind and south wind; winged birds like the sand of the seas
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:40
+      lang: he
+      text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
+    - ref: Ps 105:41
+      lang: he
+      text: פָּ֣תַח צ֭וּר וַיָּז֣וּבוּ מָ֑יִם הָ֝לְכ֗וּ בַּצִּיּ֥וֹת נָהָֽר
 - kind: shared
   label: A poetic list of the Egyptian plagues differs in number and order from Exodus
   sides:
@@ -180,20 +213,6 @@ matches:
     note: 'eight plagues beginning with darkness: darkness, blood, frogs, swarms and lice, hail and fire,
       trees struck, locusts, firstborn; no pestilence or boils'
 - kind: shared
-  label: Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 78:45
-      lang: he
-      text: יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם
-  - tradition: judaism
-    passages:
-    - ref: Ps 105:30
-      lang: he
-      text: שָׁרַ֣ץ אַרְצָ֣ם צְפַרְדְּעִ֑ים בְּ֝חַדְרֵ֗י מַלְכֵיהֶֽם
-    note: even in the chambers of their kings
-- kind: shared
   label: Water brought out of a rock by the leader's rod
   sides:
   - tradition: judaism
@@ -213,19 +232,33 @@ matches:
       lang: he
       text: פָּ֣תַח צ֭וּר וַיָּז֣וּבוּ מָ֑יִם הָ֝לְכ֗וּ בַּצִּיּ֥וֹת נָהָֽר
 - kind: shared
-  label: God kills every firstborn of the land, from the king's heir to the lowest servant and cattle
+  label: Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
   sides:
   - tradition: judaism
     passages:
-    - ref: Ps 78:51
+    - ref: Ps 78:45
       lang: he
-      text: וַיַּ֣ךְ כָּל בְּכ֣וֹר בְּמִצְרָ֑יִם רֵאשִׁ֥ית א֝וֹנִ֗ים בְּאָהֳלֵי חָֽם
-    note: reshit onim be-oholei Ham
+      text: יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם
   - tradition: judaism
     passages:
-    - ref: Ps 105:36
+    - ref: Ps 105:30
       lang: he
-      text: וַיַּ֣ךְ כָּל בְּכ֣וֹר בְּאַרְצָ֑ם רֵ֝אשִׁ֗ית לְכָל אוֹנָֽם
+      text: שָׁרַ֣ץ אַרְצָ֣ם צְפַרְדְּעִ֑ים בְּ֝חַדְרֵ֗י מַלְכֵיהֶֽם
+    note: even in the chambers of their kings
+- kind: shared
+  label: Nile water is turned to blood
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:44
+      lang: he
+      text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:29
+      lang: he
+      text: הָפַ֣ךְ אֶת מֵימֵיהֶ֣ם לְדָ֑ם וַ֝יָּ֗מֶת אֶת דְּגָתָֽם
+    note: and killed their fish
 - kind: shared
   label: God rains bread from heaven to feed the people in the desert
   sides:
@@ -241,56 +274,6 @@ matches:
       lang: he
       text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
     note: lehem shamayim
-- kind: shared
-  label: Quail come up in the evening and cover the camp
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 78:26-28
-      lang: he
-      text: (78:26) יַסַּ֣ע קָ֭דִים בַּשָּׁמָ֑יִם וַיְנַהֵ֖ג בְּעֻזּ֣וֹ תֵימָֽן (78:27) וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם
-        כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף (78:28) וַ֭יַּפֵּל בְּקֶ֣רֶב מַחֲנֵ֑הוּ סָ֝בִ֗יב
-        לְמִשְׁכְּנֹתָֽיו
-    note: east wind and south wind; winged birds like the sand of the seas
-  - tradition: judaism
-    passages:
-    - ref: Ps 105:40
-      lang: he
-      text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
-    - ref: Ps 105:41
-      lang: he
-      text: פָּ֣תַח צ֭וּר וַיָּז֣וּבוּ מָ֑יִם הָ֝לְכ֗וּ בַּצִּיּ֥וֹת נָהָֽר
-- kind: shared
-  label: God sends hail mingled with fire and thunder from heaven
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 78:47-48
-      lang: he
-      text: (78:47) יַהֲרֹ֣ג בַּבָּרָ֣ד גַּפְנָ֑ם וְ֝שִׁקְמוֹתָ֗ם בַּֽחֲנָמַֽל (78:48) וַיַּסְגֵּ֣ר לַבָּרָ֣ד
-        בְּעִירָ֑ם וּ֝מִקְנֵיהֶ֗ם לָרְשָׁפִֽים
-    note: vines killed by hail, sycamores by hanamal (frost?)
-  - tradition: judaism
-    passages:
-    - ref: Ps 105:32-33
-      lang: he
-      text: (105:32) נָתַ֣ן גִּשְׁמֵיהֶ֣ם בָּרָ֑ד אֵ֖שׁ לֶהָב֣וֹת בְּאַרְצָֽם (105:33) וַיַּ֣ךְ גַּ֭פְנָם
-        וּתְאֵנָתָ֑ם וַ֝יְשַׁבֵּ֗ר עֵ֣ץ גְּבוּלָֽם
-    note: struck vines and fig trees
-- kind: shared
-  label: Nile water is turned to blood
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 78:44
-      lang: he
-      text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
-  - tradition: judaism
-    passages:
-    - ref: Ps 105:29
-      lang: he
-      text: הָפַ֣ךְ אֶת מֵימֵיהֶ֣ם לְדָ֑ם וַ֝יָּ֗מֶת אֶת דְּגָתָֽם
-    note: and killed their fish
 - kind: shared
   label: Psalm retells Israel's sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
     or praise
@@ -311,6 +294,22 @@ matches:
     - ref: Ps 105:1-45
       lang: he
       text_omitted: longer than 12 verses; read it in the source
+- kind: shared
+  label: Locusts brought by an east wind devour all vegetation left after the hail
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:46
+      lang: he
+      text: וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִֽ֝יגִיעָ֗ם לָאַרְבֶּֽה
+    note: hasil and arbeh
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:34-35
+      lang: he
+      text: (105:34) אָ֭מַר וַיָּבֹ֣א אַרְבֶּ֑ה וְ֝יֶ֗לֶק וְאֵ֣ין מִסְפָּֽר (105:35) וַיֹּ֣אכַל כָּל עֵ֣שֶׂב
+        בְּאַרְצָ֑ם וַ֝יֹּ֗אכַל פְּרִ֣י אַדְמָתָֽם
+    note: arbeh and yeleq without number
 ---
 
 ## Questions

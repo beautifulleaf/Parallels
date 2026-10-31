@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An earthful of gold would not be accepted as ransom from one who
-    dies unbelieving (weight 5.8); No man can ransom his brother or give God a ransom (kofer) for him;
-    the redemption of life is too costly (weight 5.3). Pair score 11.1.'
+    dies unbelieving (weight 6.8); No man can ransom his brother or give God a ransom (kofer) for him;
+    the redemption of life is too costly (weight 6.4). Pair score 13.2.'
   basis: reading
 - text: 'Only in Psalm 49 - no man can ransom his brother: Like sheep they are appointed for Sheol; Death
     shepherds them; When he dies he takes nothing with him; his glory does not go down after him; God
@@ -32,8 +32,8 @@ evidence:
     No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too
     costly [divergence between the texts]; On that day no patron (mawla) can avail his client at all;
     Qārūn goes out in his finery and the worldly wish for his fortune; Unbelievers enjoy themselves and
-    eat as cattle eat; the Fire is their lodging; Wise men die, the fool and the brute perish together
-    and leave their wealth to others; and 3 more.'
+    eat as cattle eat; the Fire is their lodging; Riches kept by their owner to his hurt, lost in a bad
+    venture, so that his son has nothing in hand; and 3 more.'
   basis: reading
 - text: 'Only in The covenant of the prophets and the apostates: God took the covenant of the prophets
     to believe in and help a later confirming messenger; All in heavens and earth submit to God willingly
@@ -41,7 +41,7 @@ evidence:
     with God is Islam (submission); Those who conceal the revealed signs are cursed by God and by all
     who curse; Believers make no distinction between any of the prophets (Abraham, Ishmael, Isaac, Jacob,
     the Tribes, Moses, Jesus); On the day of wrath people fling their silver into the streets; silver
-    and gold cannot save them.'
+    and gold cannot save them; Whether payment may substitute for a life.'
   basis: reading
 - text: 'Psalm 49 - no man can ransom his brother: tagged by Claude (model), reading the Hebrew.'
   basis: reading

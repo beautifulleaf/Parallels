@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hypocrite men and women enjoin wrong and forbid right and close
-    their hands (weight 6.7). Pair score 6.7.'
+    their hands (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Song of the vineyard; six woes; the nation from afar: Woe to those who rise early for
     strong drink and feast with lyre and harp but ignore God''s work; God raises a banner and whistles
@@ -27,12 +27,12 @@ evidence:
     yielded wild grapes despite all care and is abandoned to briars; The invading army never tires, sleeps
     or loosens belt or sandal; its horses'' hooves like flint, its roar like a lion; Prophetic paronomasia:
     hoped for mishpat (justice) but got mishpah (bloodshed), for tsedaqah but got tse''aqah (outcry);
-    Woe to those who call evil good and good evil, darkness light and bitter sweet; God speaks to the
-    snow ''Fall on the earth'' and commands the downpour; Refrain: ''For all this his anger is not turned
-    back and his hand is stretched out still''; Sheol enlarges its appetite and opens its mouth without
-    limit to swallow the people; God sends the flood of al-''Arim (the dam) and turns the two gardens
-    into bitter fruit, tamarisk and a few lote-trees; Scoffers ask ''Lord, hasten to us our share (qittana)
-    before the Day of Reckoning''; and 8 more.'
+    God speaks to the snow ''Fall on the earth'' and commands the downpour; Refrain: ''For all this his
+    anger is not turned back and his hand is stretched out still''; Woe to those who call evil good and
+    good evil, darkness light and bitter sweet; God sends the flood of al-''Arim (the dam) and turns the
+    two gardens into bitter fruit, tamarisk and a few lote-trees; Scoffers ask ''Lord, hasten to us our
+    share (qittana) before the Day of Reckoning''; God asks Gehenna ''Are you full?'' and it answers ''Are
+    there any more?''; and 8 more.'
   basis: reading
 - text: 'Only in Hypocrites who mock and the destroyed peoples: Hypocrites fear a surah will be revealed
     exposing what is in their hearts; Hypocrites mock the prophet as ''all ear'' (udhun), credulous; Like

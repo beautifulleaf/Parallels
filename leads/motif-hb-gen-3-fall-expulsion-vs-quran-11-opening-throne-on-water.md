@@ -18,20 +18,20 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Sinner hides from God, who calls ''Where are you?'' (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: Sinner hides from God, who calls ''Where are you?'' (weight 7.3).
+    Pair score 7.3.'
   basis: reading
-- text: 'Only in The serpent, the eating, the curses and the expulsion: Each accused shifts blame to another
-    (man to woman, woman to serpent); First woman named as mother of all living; God heard walking in
-    the garden in the breeze of the day; Humans gain divine knowledge and God fears they will also gain
-    immortality; Woman punished with pain in childbirth and subordination to husband; The woman eats first
-    and gives the fruit to her husband; Adam receives words from his Lord and God turns to him in forgiveness
-    [divergence between the texts]; Cherubim and a flaming turning sword guard the way to the tree of
-    life; Enmity decreed at the expulsion from the garden [divergence between the texts]; Eating opens
-    their eyes and they know they are naked [divergence between the texts]; How the first couple answer
-    God after eating: shifting the blame or confessing [divergence between the texts]; The first man''s
-    response after the transgression in the garden (blame or repentance) [divergence between the texts];
-    and 26 more.'
+- text: 'Only in The serpent, the eating, the curses and the expulsion: First woman named as mother of
+    all living; God heard walking in the garden in the breeze of the day; Woman punished with pain in
+    childbirth and subordination to husband; The woman eats first and gives the fruit to her husband;
+    Adam receives words from his Lord and God turns to him in forgiveness [divergence between the texts];
+    Each accused shifts blame to another (man to woman, woman to serpent); Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; Eating opens their eyes and they know they are naked
+    [divergence between the texts]; How the first couple answer God after eating: shifting the blame or
+    confessing [divergence between the texts]; The first man''s response after the transgression in the
+    garden (blame or repentance) [divergence between the texts]; God makes garments of skin for the first
+    couple [divergence between the texts]; Ground cursed; man must eat by sweat of his brow among thorns
+    and thistles [divergence between the texts]; and 26 more.'
   basis: reading
 - text: 'Only in The Book made firm, the Throne on the water, the challenge of ten surahs: Every creature
     on earth has its provision from God, who knows its resting place and depository; Before creation God''s
@@ -39,12 +39,11 @@ evidence:
     God; Those who want only this life are paid in full here and have nothing in the hereafter but fire;
     God created heaven and earth to test which of you is best in deeds; Deniers demand that a treasure
     be sent down to the prophet or an angel come with him; A divine wind or spirit hovers or moves over
-    the primeval waters; YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever; Man calls
+    the primeval waters; YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever; God sets
+    each creature in its place, supplies its sustenance and knows (reckons) its term or abode; Man calls
     on God lying, sitting or standing in distress, then passes on as if he had never prayed once relieved;
     Moses writes the Torah and gives it to the Levitical priests and elders; God lays the beams of his
-    upper chambers on the (heavenly) waters and waters the mountains from them; What is over the waters
-    before or at creation: God''s spirit, his throne or his voice [divergence between the texts]; and
-    10 more.'
+    upper chambers on the (heavenly) waters and waters the mountains from them; and 12 more.'
   basis: reading
 - text: 'The serpent, the eating, the curses and the expulsion: tagged by Claude (model), reading the
     Hebrew.'

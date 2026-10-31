@@ -13,32 +13,33 @@ traditions:
 layers:
 - motif
 motifs:
-- kingdom-of-priests
 - kingdom-of-priests-as-divergence
+- kingdom-of-priests
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel is to be a kingdom of priests and a holy nation (weight 6.7);
-    Israel is to be a kingdom of priests and a holy nation [divergence between the texts] (weight 6.7).
-    Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Israel is to be a kingdom of priests and a holy nation [divergence
+    between the texts] (weight 7.7); Israel is to be a kingdom of priests and a holy nation (weight 7.7).
+    Pair score 15.5.'
   basis: reading
 - text: 'Only in Arrival at Sinai, covenant offer and theophany: Israel arrives at Sinai in the third
-    month after leaving Egypt; God carried Israel on eagles'' wings; Moses speaks and God answers him
-    with a voice (thunder); God comes to the prophet in a thick cloud so the people may hear; Priests
-    are mentioned before the Aaronic priesthood is instituted; A ram''s horn blast signals that the people
-    may go up the mountain; Men must not approach a woman before a holy encounter; God descends or reveals
-    himself on the third day; A boundary is set round the holy mountain; whoever touches it dies; A horn
-    blast at which all tremble [divergence between the texts]; Israel stands beneath the mountain when
-    the covenant is given [divergence between the texts]; A mountain shaken by God''s descent or by his
-    revelation [divergence between the texts]; and 9 more.'
+    month after leaving Egypt; Moses speaks and God answers him with a voice (thunder); God comes to the
+    prophet in a thick cloud so the people may hear; Priests are mentioned before the Aaronic priesthood
+    is instituted; A ram''s horn blast signals that the people may go up the mountain; Men must not approach
+    a woman before a holy encounter; God descends or reveals himself on the third day; God carried Israel
+    on eagles'' wings; A horn blast at which all tremble [divergence between the texts]; Israel stands
+    beneath the mountain when the covenant is given [divergence between the texts]; A mountain shaken
+    by God''s descent or by his revelation [divergence between the texts]; God raises the mountain (al-Tur)
+    over Israel while taking their covenant [divergence between the texts]; and 9 more.'
   basis: reading
 - text: 'Only in The refusal to enter the holy land and forty years of wandering: The people tell the
     leader ''go, you and your Lord, and fight; we will sit here''; Enter the holy land (al-arḍ al-muqaddasa)
     which God has ordained for you; Moses: ''I control only myself and my brother; separate us from the
     rebellious people''; God set prophets among Israel and made them kings, giving them what he gave no
-    other; Forty years of wandering, a year for each day of scouting [divergence between the texts]; The
-    people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence between
+    other; God commands a leader or people to go and take a city or land [shared matter] [divergence between
+    the texts]; Forty years of wandering, a year for each day of scouting [divergence between the texts];
+    The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence between
     the texts]; Two faithful spies dissent from the majority [divergence between the texts]; After the
     people''s rebellion the prophet intercedes for them or asks to be separated from them [divergence
     between the texts]; Two faithful spies dissent from the majority; Forty years of wandering, a year

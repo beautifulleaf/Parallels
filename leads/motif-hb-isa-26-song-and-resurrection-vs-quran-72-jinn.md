@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
-    awake and sing (weight 4.9). Pair score 4.9.'
+    awake and sing (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Song of the strong city; your dead shall live: Other lords ruled us; they are dead, they
     will not live; shades (rephaim) will not rise; their memory is wiped out; God''s dew is a ''dew of
@@ -29,9 +29,9 @@ evidence:
     perfect peace (shalom shalom) because it trusts in him; ''My soul yearns for you in the night; my
     spirit within me seeks you at dawn''; ''We have a strong city... Open the gates that the righteous
     nation that keeps faith may enter''; In Yah YHWH is an everlasting rock (tsur olamim); What the dead
-    say when they wake from the dust [divergence between the texts]; On God''s day all that is lofty (cedars
-    of Lebanon, oaks of Bashan, towers, ships of Tarshish) is brought low and God alone exalted; The Gardens
-    of Eden have their gates opened for the righteous; and 7 more.'
+    say when they wake from the dust [divergence between the texts]; The Gardens of Eden have their gates
+    opened for the righteous; God lets the people discover the sleepers so they know his promise of resurrection
+    is true; and 7 more.'
   basis: reading
 - text: 'Only in The jinn hear the recitation: Men used to seek refuge with male jinn, who only increased
     them in burden; Among the jinn are the righteous and the unjust, believers (muslimun) and deviators
@@ -39,12 +39,13 @@ evidence:
     it to their kind; The places of prostration (al-masajid) belong to God; call on no one beside him;
     God alone knows the unseen and discloses it only to a messenger he approves, sending watchers before
     and behind him; God commands his angels to guard the faithful and bear him on their palms lest he
-    strike his foot on a stone; God has taken neither consort (sahiba) nor child; Men used to seek refuge
-    with male jinn, who only increased them in burden [contrast between the texts]; Jinn or devils who
-    used to sit listening at heaven''s gates now find it full of stern guards and shooting stars (shuhub)
-    lying in wait; God has counted everything by number and recorded it in a book; On that day man asks
-    ''where to flee?'' but there is no refuge; the destination is with God; Seek forgiveness and repent,
-    and God will send the sky down on you in abundant rain; and 1 more.'
+    strike his foot on a stone; God has taken neither consort (sahiba) nor child; Watchmen or guards are
+    posted in the sky at its making: what they keep in or out [divergence between the texts]; Men used
+    to seek refuge with male jinn, who only increased them in burden [contrast between the texts]; Command
+    not to pray to (call on) any other deity besides the one worshipped; A sanctuary or place of worship
+    belongs to one deity: no other god is to be admitted or invoked there; Jinn or devils who used to
+    sit listening at heaven''s gates now find it full of stern guards and shooting stars (shuhub) lying
+    in wait; and 4 more.'
   basis: reading
 - text: 'Song of the strong city; your dead shall live: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,29 +19,31 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Pay vows without delay; not vowing is no sin (weight 6.3). Pair
-    score 6.3.'
+- text: 'Shared motifs, rarest first: Pay vows without delay; not vowing is no sin (weight 7.3). Pair
+    score 7.3.'
   basis: reading
 - text: 'Only in Admission to the assembly; camp purity; slaves, interest, vows: Edomites (brothers) and
-    Egyptians (hosts) admitted in the third generation; Escaped slave not returned to his master; he may
-    live where he chooses; Harlot''s hire and the price of a dog may not be brought to the temple for
-    a vow; Latrine outside the war camp; dig with a spade and cover excrement because God walks in the
-    camp; Man unclean from a nocturnal emission stays outside the camp until evening and washes; Ammonites
-    and Moabites never admitted, for withholding bread and water and hiring Balaam; Whether obligations
-    differ toward insiders and outsiders [contrast between the texts]; You may eat your fill in a neighbor''s
-    vineyard or pluck ears by hand, but not carry away or use a sickle; Man with crushed testicles or
-    severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation;
+    Egyptians (hosts) admitted in the third generation; Harlot''s hire and the price of a dog may not
+    be brought to the temple for a vow; Latrine outside the war camp; dig with a spade and cover excrement
+    because God walks in the camp; Man unclean from a nocturnal emission stays outside the camp until
+    evening and washes; Ammonites and Moabites never admitted, for withholding bread and water and hiring
+    Balaam; Whether obligations differ toward insiders and outsiders [contrast between the texts]; You
+    may eat your fill in a neighbor''s vineyard or pluck ears by hand, but not carry away or use a sickle;
+    Escaped slave not returned to his master; he may live where he chooses; Man with crushed testicles
+    or severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation;
     Protection for someone who seeks refuge [divergence between the texts]; God turned Balaam''s curse
     into a blessing; and 4 more.'
   basis: reading
 - text: 'Only in The broken vow of charity; seventy prayers in vain: Hypocrites mock believers who give
     voluntarily and those who can give only their effort; Men vow to give alms if God enriches them, then
-    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; Hero
+    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; The
+    vow made to the deity is not kept, the deity takes note of the breach and the vower is punished; Hero
     vows that if God protects and provides for him, he will worship and tithe [divergence between the
     texts]; Whether the prophet should intercede for a sinful people [contrast between the texts]; Even
     if the prophet asks forgiveness for them seventy times God will not forgive them; God is near in their
-    mouths but far from their kidneys (hearts); God forbids the prophet to pray or intercede for the people,
-    for he will not hear.'
+    mouths but far from their kidneys (hearts); The petitioner promises a gift if the deity grants the
+    request: ''if you do this, I will give you ...''; God forbids the prophet to pray or intercede for
+    the people, for he will not hear.'
   basis: reading
 - text: 'Admission to the assembly; camp purity; slaves, interest, vows: tagged by Claude (model), reading
     the Hebrew.'

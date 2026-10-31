@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Conditions under which war is waged or stopped [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Whether the enemy''s trees may be cut down in a siege [contrast
@@ -41,7 +41,7 @@ evidence:
     at the Sacred Mosque unless they fight you there; No sexual talk, wickedness or quarreling during
     the pilgrimage; Remember God as you remember your fathers, or more; The sacred month for the sacred
     month; violations are subject to retaliation; Do not shave heads until the sacrificial offering (hady)
-    reaches its place; and 10 more.'
+    reaches its place; and 12 more.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

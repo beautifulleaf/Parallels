@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.0). Pair score
-    5.0.'
+- text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.9). Pair score
+    5.9.'
   basis: reading
 - text: 'Only in Psalm 146, do not trust in princes: YHWH frees the prisoners, opens the eyes of the blind,
     raises the bowed, loves the righteous; When man''s breath departs he returns to his earth; on that

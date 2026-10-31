@@ -18,7 +18,7 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Judges must not show partiality, ''for the judgment is God''s''
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Setting of Moses'' speech; appointment of judges: Eleven days'' journey from Horeb to
     Kadesh-barnea (yet it took forty years); People multiplied ''like the stars of heaven''; Moses ''expounds

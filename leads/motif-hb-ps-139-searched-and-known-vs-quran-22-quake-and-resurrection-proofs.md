@@ -21,30 +21,33 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans created from dust, then a drop (nuṭfa), then a clinging clot
-    (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped (weight 6.3); God poured the embryo out
+    (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped (weight 7.3); God poured the embryo out
     like milk and curdled it like cheese, clothing it with skin and flesh and knitting bones and sinews
-    (weight 5.8). Pair score 12.1.'
+    (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Psalm 139, God''s all-knowing presence and the embryo: Darkness is not dark to God; night
     shines like day, darkness and light are alike; ''YHWH, you have searched me and known me'': God knows
-    sitting and rising, thoughts from afar, every word before it is spoken; Nowhere to flee God''s spirit:
-    if I ascend to heaven you are there, if I make my bed in Sheol you are there; ''Do I not hate those
-    who hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar)
-    and dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s
-    leave at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti)
-    in the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before
-    God brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
+    sitting and rising, thoughts from afar, every word before it is spoken; ''Do I not hate those who
+    hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar) and
+    dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s leave
+    at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti) in
+    the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before God
+    brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
     between the texts]; God''s knowledge of a person''s thoughts and words, from afar or from near [divergence
     between the texts]; God knows what the earth diminishes of the dead bodies, and with him is a preserving
-    record; and 14 more.'
+    record; Nowhere to flee God''s spirit: if I ascend to heaven you are there, if I make my bed in Sheol
+    you are there; and 14 more.'
   basis: reading
 - text: 'Only in The quake of the Hour and the proofs from embryo and rain: Some are returned to the most
-    abject age so that after knowing they know nothing; The quake of the Hour: every nursing mother forgets
-    her suckling, every pregnant one miscarries, people seem drunk though not drunk; On that day a great
-    earthquake shakes the land; fish, birds, beasts, creeping things and all humans quake before God,
-    mountains are thrown down and every wall falls; Your dead shall live, their corpses rise; dwellers
-    in the dust shall awake and sing; First human shaped from dust, clay or soil; Rain from the sky gives
-    life to the earth after its death, a sign of resurrection.'
+    abject age so that after knowing they know nothing; In catastrophe mothers abandon their young and
+    pregnancy fails [divergence between the texts]; The quake of the Hour: every nursing mother forgets
+    her suckling, every pregnant one miscarries, people seem drunk though not drunk; In the catastrophe
+    the father disowns his wife and the mother her child (''This is not my child''); In the catastrophe
+    mothers, cows or she-camels no longer care for their young; On that day a great earthquake shakes
+    the land; fish, birds, beasts, creeping things and all humans quake before God, mountains are thrown
+    down and every wall falls; Your dead shall live, their corpses rise; dwellers in the dust shall awake
+    and sing; Rain from the sky gives life to the earth after its death, a sign of resurrection; First
+    human shaped from dust, clay or soil.'
   basis: reading
 - text: 'Psalm 139, God''s all-knowing presence and the embryo: tagged by Claude (model), reading the
     Hebrew.'

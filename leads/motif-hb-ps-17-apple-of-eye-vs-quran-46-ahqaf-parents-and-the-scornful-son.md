@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The damned are told: you used up your good things in your worldly
-    life and enjoyed them; today you are repaid with humiliation (weight 6.7). Pair score 6.7.'
+    life and enjoyed them; today you are repaid with humiliation (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 17 - prayer of the innocent; shadow of your wings: On waking the speaker will be
     satisfied with seeing God''s form (temunah); God has tried the speaker''s heart, visited him by night
@@ -34,13 +34,13 @@ evidence:
     forty, a man prays to be grateful for favor on himself and his parents and for righteous offspring;
     A son says ''Uff!'' to his parents who plead with him, scorning resurrection as ''tales of the ancients'';
     His mother bore him with hardship and delivered him with hardship; bearing and weaning take thirty
-    months; The mother''s pain in bearing children: penalty, or ground of gratitude [divergence between
-    the texts]; For all there are degrees (darajat) according to what they did; The ground and the reward
-    of the duty to parents [divergence between the texts]; A son who rejects his parents: the charge and
-    the penalty [divergence between the texts]; Stubborn and rebellious son, glutton and drunkard, stoned
-    by the men of his city; Whoever does good does it for his own soul; whoever does evil, it is against
-    it; Honor father and mother, with the promise of long life; Unbelievers dismiss the revelation as
-    ''tales of the ancients'' (asatir al-awwalin) they could equal.'
+    months; A son who rejects his father''s teaching is to be driven away: ''he is not your son, he was
+    not born to you''; The mother''s pain in bearing children: penalty, or ground of gratitude [divergence
+    between the texts]; For all there are degrees (darajat) according to what they did; The ground and
+    the reward of the duty to parents [divergence between the texts]; A son who rejects his parents: the
+    charge and the penalty; A son who rejects his parents: the charge and the penalty [divergence between
+    the texts]; Whoever does good does it for his own soul; whoever does evil, it is against it; Stubborn
+    and rebellious son, glutton and drunkard, stoned by the men of his city; and 2 more.'
   basis: reading
 - text: 'Psalm 17 - prayer of the innocent; shadow of your wings: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are darkened and the stars withdraw their shining (weight
-    5.8). Pair score 5.8.'
+    6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The locust army of the Day of YHWH; ''rend your hearts''; restoration: Even bridegroom
     and bride must leave the wedding chamber for the public fast; God sends the early and latter rain
-    (moreh and malqosh) and restores abundance; The invaders climb walls and enter houses through windows
-    like a thief; The land is like the Garden of Eden before the invader and a desolate wilderness after;
-    The locusts look like horses and run like cavalry, leaping on mountaintops with a noise like chariots;
-    The northern one (ha-tsefoni) is driven into the desert and seas, and its stench rises; Priests weep
-    between the porch and the altar; ''Rend your hearts and not your garments''; Blow the shofar in Zion,
-    sound the alarm on God''s holy mountain; ''Who knows? He may turn and relent'' (mi yodea); God will
-    repay the years the locust has eaten; Proclaim a fast, call a solemn assembly, gather elders and all
-    the people to the house of God and cry out; and 9 more.'
+    (moreh and malqosh) and restores abundance; The land is like the Garden of Eden before the invader
+    and a desolate wilderness after; The locusts look like horses and run like cavalry, leaping on mountaintops
+    with a noise like chariots; The northern one (ha-tsefoni) is driven into the desert and seas, and
+    its stench rises; Priests weep between the porch and the altar; ''Rend your hearts and not your garments'';
+    Blow the shofar in Zion, sound the alarm on God''s holy mountain; ''Who knows? He may turn and relent''
+    (mi yodea); God will repay the years the locust has eaten; Proclaim a fast, call a solemn assembly,
+    gather elders and all the people to the house of God and cry out; God loves those who fight in his
+    way in ranks as though they were a solid structure (bunyan marsus); and 9 more.'
   basis: reading
 - text: 'Only in The folding up: twelve signs of the end and the messenger on the horizon: The revelation
     is the word of a noble messenger, powerful, secure with the Lord of the Throne, obeyed and trustworthy;
@@ -40,9 +40,9 @@ evidence:
     horizon; At the end the souls are paired (with bodies or their like); At the end the wild beasts are
     gathered together; At the judgment the girl buried alive (al-maw''uda) is asked for what sin she was
     killed; All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig [divergence between the texts]; Victim''s blood cries out from the
-    ground to God; You will not will unless God wills; Then each soul will know what it has brought forward
-    and what it left behind; and 7 more.'
+    withered leaves from vine and fig [divergence between the texts]; The sun is covered (wrapped) and
+    gives no light; Victim''s blood cries out from the ground to God; You will not will unless God wills;
+    and 10 more.'
   basis: reading
 - text: 'The locust army of the Day of YHWH; ''rend your hearts''; restoration: tagged by Claude (model),
     reading the Hebrew.'

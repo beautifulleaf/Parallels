@@ -20,18 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Naked I came from my mother''s womb and naked I shall return there''
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Job''s piety, the heavenly council and the first test: The verb ''bless'' (barekh) used
     as a scribal euphemism for cursing God; Grown sons hold feasts in turn, each on his day, and invite
     their sisters; A great wind from the desert strikes the four corners of the house and it falls on
     the feasting children; God has set a protective hedge around the righteous man, his house and goods;
     ''Fire of God'' falls from heaven and consumes flocks and servants; Messenger after messenger arrives
-    while the last is still speaking, each the sole survivor of a disaster; ''I alone escaped to tell
-    you''; ''Does he fear God for nothing?'': piety suspected of being motivated by reward; The exemplary
-    righteous man is a non-Israelite living in the land of Uz in the east; Father offers burnt offerings
-    in case his children ''blessed'' (cursed) God in their hearts; A blessed man has seven sons and three
-    daughters; Mourner shaves his head and falls to the ground; and 20 more.'
+    while the last is still speaking, each the sole survivor of a disaster; ''Does he fear God for nothing?'':
+    piety suspected of being motivated by reward; The exemplary righteous man is a non-Israelite living
+    in the land of Uz in the east; Father offers burnt offerings in case his children ''blessed'' (cursed)
+    God in their hearts; Mourner shaves his head and falls to the ground; A patriarch''s wealth is listed
+    in precise numbers of sheep, camels, oxen and asses; Humans are presented before God in rows, coming
+    as they were first created; and 20 more.'
   basis: reading
 - text: 'Only in Abraham''s line of eighteen prophets; Torah in sheets; the false claimant: Opponents
     say ''God has sent down nothing to any human''; The intercessors they claimed as partners are not
@@ -41,8 +42,8 @@ evidence:
     wise, and the Torah of YHWH is with us?'' The lying pen of the scribes has made it a lie; The prophet
     is sent to warn ''the mother of towns'' (umm al-qura, Mecca) and those around it; False prophet put
     to death [divergence between the texts]; The Torah contains guidance and light; Angels (God''s messengers)
-    take the souls of the dying; False prophet put to death; If God wills he takes you away and brings
-    another people in your place; and 1 more.'
+    take the souls of the dying; False prophet put to death; No one can take his goods with him into death;
+    what he owned falls to others; and 2 more.'
   basis: reading
 - text: 'Job''s piety, the heavenly council and the first test: tagged by Claude (model), reading the
     Hebrew.'

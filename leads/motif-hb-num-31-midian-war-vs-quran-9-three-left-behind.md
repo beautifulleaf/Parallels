@@ -18,17 +18,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Not all should go out; a party from each group should stay to gain
-    understanding of religion and warn (weight 6.7). Pair score 6.7.'
+    understanding of religion and warn (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in War against Midian and division of the spoils: Five named kings slain together; Captured
     gold jewelry offered to atone for the soldiers'' lives; Leader given a final task to complete before
     he is ''gathered to his people''; Commanders report that not one man of the army is missing; Priest
-    accompanies the army with holy vessels and trumpets; Metal spoils purified by passing through fire,
-    others through water; Warriors and captives purified outside camp seven days after battle; Army of
-    a thousand from each tribe (12,000); How the people of Midian came to be destroyed [divergence between
-    the texts]; How spoil taken from the enemy is distributed [divergence between the texts]; God punishes
-    the enemy by the believers'' hands and heals the believers'' breasts; God commands war of vengeance
-    against a people; and 6 more.'
+    accompanies the army with holy vessels and trumpets; Warriors and captives purified outside camp seven
+    days after battle; Army of a thousand from each tribe (12,000); How the people of Midian came to be
+    destroyed [divergence between the texts]; How spoil taken from the enemy is distributed [divergence
+    between the texts]; God punishes the enemy by the believers'' hands and heals the believers'' breasts;
+    God commands war of vengeance against a people; Metal spoils purified by passing through fire, others
+    through water; and 6 more.'
   basis: reading
 - text: 'Only in The three who were left behind; every step recorded: The three who stayed behind are
     forgiven after the earth grew narrow for them and they found no refuge but God; Every thirst, fatigue,

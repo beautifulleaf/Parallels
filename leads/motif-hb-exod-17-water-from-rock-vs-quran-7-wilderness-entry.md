@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet strikes a rock and water flows out for the people [divergence
-    between the texts] (weight 6.7); Prophet strikes a rock and water flows out for the people (weight
-    6.3). Pair score 13.0.'
+    between the texts] (weight 7.7); Prophet strikes a rock and water flows out for the people (weight
+    7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Water from the rock at Massah and Meribah: God stands upon a rock before the prophet;
     The people put God to the test; Moses ill-treated by his own people [divergence between the texts];

@@ -18,18 +18,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An old man with weak children loses his garden of palms and vines
-    to a fiery whirlwind (weight 6.7). Pair score 6.7.'
+    to a fiery whirlwind (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job''s piety, the heavenly council and the first test: The verb ''bless'' (barekh) used
     as a scribal euphemism for cursing God; Grown sons hold feasts in turn, each on his day, and invite
     their sisters; A great wind from the desert strikes the four corners of the house and it falls on
     the feasting children; God has set a protective hedge around the righteous man, his house and goods;
     ''Fire of God'' falls from heaven and consumes flocks and servants; Messenger after messenger arrives
-    while the last is still speaking, each the sole survivor of a disaster; ''I alone escaped to tell
-    you''; ''Does he fear God for nothing?'': piety suspected of being motivated by reward; The exemplary
-    righteous man is a non-Israelite living in the land of Uz in the east; Father offers burnt offerings
-    in case his children ''blessed'' (cursed) God in their hearts; A blessed man has seven sons and three
-    daughters; Mourner shaves his head and falls to the ground; and 20 more.'
+    while the last is still speaking, each the sole survivor of a disaster; ''Does he fear God for nothing?'':
+    piety suspected of being motivated by reward; The exemplary righteous man is a non-Israelite living
+    in the land of Uz in the east; Father offers burnt offerings in case his children ''blessed'' (cursed)
+    God in their hearts; Mourner shaves his head and falls to the ground; A patriarch''s wealth is listed
+    in precise numbers of sheep, camels, oxen and asses; Humans are presented before God in rows, coming
+    as they were first created; and 20 more.'
   basis: reading
 - text: 'Only in Parables of charity: Charity voided by reminders of generosity and injury, like dust
     on a rock washed bare by rain; Spending for God''s pleasure is like a garden on a height that yields
@@ -38,9 +39,10 @@ evidence:
     for their restraint, known by their mark; Satan threatens you with poverty and commands indecency;
     Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the poor;
     He who gives to the poor will not lack, but he who hides his eyes will get many curses; Patriarch
-    reaps a hundredfold in one year; Giving charity openly is good, but giving it secretly to the poor
-    is better and expiates sins; God gives wisdom to whom he wills; whoever is given wisdom is given much
-    good; One scatters and yet increases; the generous soul is made fat and who waters will be watered.'
+    reaps a hundredfold in one year; An inferior thing is given in place of the good one owed to God or
+    the god [divergence between the texts]; A single grain given (to the god, in God''s way) returns many
+    times over; Giving charity openly is good, but giving it secretly to the poor is better and expiates
+    sins; God gives wisdom to whom he wills; whoever is given wisdom is given much good; and 2 more.'
   basis: reading
 - text: 'Job''s piety, the heavenly council and the first test: tagged by Claude (model), reading the
     Hebrew.'

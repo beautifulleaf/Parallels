@@ -20,12 +20,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The meek / those who wait for YHWH / the righteous and their seed
-    shall inherit the land (yirshu arets) (weight 5.4). Pair score 5.4.'
+    shall inherit the land (yirshu arets) (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Psalm 25 - acrostic prayer for guidance and forgiveness: Plea for forgiveness of iniquity
-    ''for your name''s sake''; ''Remember not the sins of my youth and my transgressions''; The secret
-    counsel (sod) of YHWH is with those who fear him; Acrostic ends with an extra closing line beginning
-    with pe (pedeh, ''redeem'') outside the alphabet; God brings the speaker''s feet out of the net; The
+    ''for your name''s sake''; The secret counsel (sod) of YHWH is with those who fear him; Acrostic ends
+    with an extra closing line beginning with pe (pedeh, ''redeem'') outside the alphabet; God brings
+    the speaker''s feet out of the net; ''Remember not the sins of my youth and my transgressions''; The
     poem is an alphabetic acrostic (lines or stanzas begin with successive letters); Psalm superscription
     ascribes the poem to David (le-david).'
   basis: reading
@@ -34,13 +34,13 @@ evidence:
     on earth disbelieve, God is free of need and praiseworthy; God proclaims: if you are grateful I will
     give you more; if ungrateful, my punishment is severe; The rejecting peoples thrust their hands into
     their mouths at the messengers; Every messenger is sent speaking the language of his own people to
-    make things clear; The people reject their messengers: ''you are only humans like us''; Every messenger
-    is sent speaking the language of his own people to make things clear [divergence between the texts];
+    make things clear; The people reject their messengers: ''you are only humans like us''; Blood and
+    pus as the water of the punished: bathed in, or drunk [divergence between the texts]; Formula on trust:
+    let whoever trusts, trust; we trust in our god / on God let the trusters trust; Every messenger is
+    sent speaking the language of his own people to make things clear [divergence between the texts];
     The elite threaten the prophet and believers: expulsion unless they return to the old religion; Moses
     is told to remind his people of ''the days of God''; In hell they taste no coolness nor drink except
-    boiling water (hamim) and dark, foul fluid (ghassaq), or drink from a boiling spring; God brings believers
-    out of darknesses into light; false gods lead others from light into darkness; Ruler orders the killing
-    of male infants; and 2 more.'
+    boiling water (hamim) and dark, foul fluid (ghassaq), or drink from a boiling spring; and 4 more.'
   basis: reading
 - text: 'Psalm 25 - acrostic prayer for guidance and forgiveness: tagged by Claude (model), reading the
     Hebrew.'

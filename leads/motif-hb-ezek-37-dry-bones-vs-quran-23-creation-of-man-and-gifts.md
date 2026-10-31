@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In the womb God makes the lump into bones and clothes the bones
-    with flesh, then makes it another creation (weight 6.7). Pair score 6.7.'
+    with flesh, then makes it another creation (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
     graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is
@@ -37,13 +37,15 @@ evidence:
     and ships: God called ''the best of creators'' (aḥsan al-khāliqīn); Cattle are a lesson: God gives
     drink from what is in their bellies; A tree springing from Mount Sinai (Ṭūr Saynāʾ) yields oil and
     a relish for eaters; God''s crafting of the human body, and what is said to follow from it [divergence
-    between the texts]; At creation God fixed the weight of the wind, the measure of the waters, a decree
-    for the rain and a way for the thunderbolt; Humans created from dust, then a drop (nuṭfa), then a
-    clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped; God''s eyes saw the speaker''s
-    unformed substance (golem); all his days were written in God''s book before one of them existed; The
-    speaker too was ''pinched off from clay'' (qoratsti), like a figure nipped from a lump of clay; God
-    poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh and knitting
-    bones and sinews; God fashions seven heavens; First human shaped from dust, clay or soil.'
+    between the texts]; Man is made from compacted (clotted) blood and then bones; God makes the fluid
+    (seed) in women into a human and forms the child in its mother''s belly; At creation God fixed the
+    weight of the wind, the measure of the waters, a decree for the rain and a way for the thunderbolt;
+    Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump (muḍgha),
+    shaped and unshaped; God''s eyes saw the speaker''s unformed substance (golem); all his days were
+    written in God''s book before one of them existed; God poured the embryo out like milk and curdled
+    it like cheese, clothing it with skin and flesh and knitting bones and sinews; God fashions seven
+    heavens; The speaker too was ''pinched off from clay'' (qoratsti), like a figure nipped from a lump
+    of clay; and 1 more.'
   basis: reading
 - text: 'The valley of dry bones: tagged by Claude (model), reading the Hebrew.'
   basis: reading

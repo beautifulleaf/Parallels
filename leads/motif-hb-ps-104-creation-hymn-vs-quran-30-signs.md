@@ -20,31 +20,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At night the beasts of the forest prowl and lions roar for prey;
-    at sunrise they withdraw and man goes out to work till evening (weight 6.7); Rain from the sky gives
-    life to the earth after its death, a sign of resurrection (weight 4.4). Pair score 11.1.'
+    at sunrise they withdraw and man goes out to work till evening (weight 6.8); Rain from the sky gives
+    life to the earth after its death, a sign of resurrection (weight 5.5). Pair score 12.3.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 39 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 39 more.'
   basis: reading
 - text: 'Only in The Hour, the times of praise, and the signs of God: Everything in the heavens and the
-    earth is devoutly obedient (qanit) to God; The diversity of human languages and colors is one of God''s
-    signs; God created mates for humans from their own selves so they may find rest in them, with love
-    and mercy between them; God did not wrong them; they wronged themselves (refrain); Why humans speak
-    many languages [divergence between the texts]; Refrain ''among his signs (ayat) is...'' listing natural
-    phenomena as evidence of God; God shows lightning to inspire fear and hope (of rain); Nations distinguished
-    by land, language and clan; How God made the human mate, and for what purpose [divergence between
-    the texts]; God brings the living out of the dead and the dead out of the living; Glorify God in the
-    evening, morning, afternoon and noon (set times of praise or prayer); God originates creation and
-    then repeats it (resurrection as re-creation); and 3 more.'
+    earth is devoutly obedient (qanit) to God; God created mates for humans from their own selves so they
+    may find rest in them, with love and mercy between them; The many languages of mankind and the deity''s
+    part in them [divergence between the texts]; The diversity of human languages and colors is one of
+    God''s signs; God made human tongues different in speech and their skins (colours) distinct; God did
+    not wrong them; they wronged themselves (refrain); Go up on (travel through) the ruins of the ancients
+    and look: what the sight teaches [divergence between the texts]; Why humans speak many languages [divergence
+    between the texts]; Refrain ''among his signs (ayat) is...'' listing natural phenomena as evidence
+    of God; God shows lightning to inspire fear and hope (of rain); How God made the human mate, and for
+    what purpose [divergence between the texts]; God brings the living out of the dead and the dead out
+    of the living; and 6 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

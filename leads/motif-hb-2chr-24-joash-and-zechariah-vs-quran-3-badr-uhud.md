@@ -17,6 +17,9 @@ motifs:
 - small-army-defeats-large-as-punishment
 passages: []
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: A small enemy force defeats a very great army because the people
     forsook God (weight 6.7). Pair score 6.7.'
   basis: reading

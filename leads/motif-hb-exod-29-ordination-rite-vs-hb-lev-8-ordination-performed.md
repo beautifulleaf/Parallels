@@ -13,31 +13,31 @@ layers:
 motifs:
 - seven-day-ordination
 - sprinkling-blood-and-oil-on-garments
-- anointing-oil-poured-on-head
-- wave-offering
-- leftover-sacred-meat-burned-by-morning
-- blood-on-right-ear-thumb-toe
 - priests-washed-at-tent-entrance
-- blood-on-altar-horns
-- sin-offering-burned-outside-camp
+- anointing-oil-poured-on-head
+- blood-on-right-ear-thumb-toe
+- leftover-sacred-meat-burned-by-morning
+- wave-offering
 - laying-hands-on-victim
+- sin-offering-burned-outside-camp
+- blood-on-altar-horns
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Ordination of priests lasts seven days (weight 6.7); Blood and anointing
-    oil are sprinkled on the priests and their garments (weight 6.7); Anointing oil is poured on the head
-    of the priest (weight 6.7); Portions are waved before God as a wave offering (weight 6.3); Sacred
-    meat left over until morning is burned (weight 6.3); Blood is daubed on the right earlobe, thumb and
-    big toe (weight 6.3); Priests are washed with water at the entrance before ordination (weight 6.3);
-    Blood is put on the horns of the altar with the finger and poured at its base (weight 5.8); The flesh,
-    skin and dung of the sin offering are burned outside the camp (weight 5.8); The offerer lays his hand
-    on the head of the animal (weight 5.8). Pair score 62.5.'
+- text: 'Shared motifs, rarest first: Ordination of priests lasts seven days (weight 7.7); Blood and anointing
+    oil are sprinkled on the priests and their garments (weight 7.7); Priests are washed with water at
+    the entrance before ordination (weight 7.3); Anointing oil is poured on the head of the priest (weight
+    7.3); Blood is daubed on the right earlobe, thumb and big toe (weight 7.3); Sacred meat left over
+    until morning is burned (weight 7.3); Portions are waved before God as a wave offering (weight 7.3);
+    The offerer lays his hand on the head of the animal (weight 6.8); The flesh, skin and dung of the
+    sin offering are burned outside the camp (weight 6.8); Blood is put on the horns of the altar with
+    the finger and poured at its base (weight 6.8). Pair score 72.7.'
   basis: reading
 - text: 'Only in Ordination of the priests: A basket of unleavened bread, oiled cakes and wafers is offered;
     An outsider may not eat holy food; The high priest''s vestments pass to his successor, who wears them
-    seven days; The breast and the right thigh are the priests'' portion; Sacrificial animals must be
-    without blemish; Whatever touches the most holy altar or holy things becomes holy; An offering by
-    fire is a pleasing odor to God; The fat, the two kidneys and the lobe of the liver are burned on the
-    altar; The fat tail of the sheep is offered.'
+    seven days; The breast and the right thigh are the priests'' portion; Whatever touches the most holy
+    altar or holy things becomes holy; Sacrificial animals must be without blemish; The fat, the two kidneys
+    and the lobe of the liver are burned on the altar; The fat tail of the sheep is offered; An offering
+    by fire is a pleasing odor to God.'
   basis: reading
 - text: 'Only in Moses ordains Aaron and his sons: Moses himself performs the priestly rites at the ordination;
     The whole congregation is assembled at the tent entrance to witness a rite; Anointing makes the tent
@@ -106,6 +106,19 @@ matches:
         עַֽל אַהֲרֹן֙ עַל בְּגָדָ֔יו וְעַל בָּנָ֛יו וְעַל בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וַיְקַדֵּ֤שׁ אֶֽת
         אַהֲרֹן֙ אֶת בְּגָדָ֔יו וְאֶת בָּנָ֛יו וְאֶת בִּגְדֵ֥י בָנָ֖יו אִתּֽוֹ
 - kind: shared
+  label: Priests are washed with water at the entrance before ordination
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 29:4
+      lang: he
+      text: וְאֶת אַהֲרֹ֤ן וְאֶת בָּנָיו֙ תַּקְרִ֔יב אֶל פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם
+  - tradition: judaism
+    passages:
+    - ref: Lev 8:6
+      lang: he
+      text: וַיַּקְרֵ֣ב מֹשֶׁ֔ה אֶֽת אַהֲרֹ֖ן וְאֶת בָּנָ֑יו וַיִּרְחַ֥ץ אֹתָ֖ם בַּמָּֽיִם
+- kind: shared
   label: Anointing oil is poured on the head of the priest
   sides:
   - tradition: judaism
@@ -118,6 +131,41 @@ matches:
     - ref: Lev 8:12
       lang: he
       text: וַיִּצֹק֙ מִשֶּׁ֣מֶן הַמִּשְׁחָ֔ה עַ֖ל רֹ֣אשׁ אַהֲרֹ֑ן וַיִּמְשַׁ֥ח אֹת֖וֹ לְקַדְּשֽׁוֹ
+- kind: shared
+  label: Blood is daubed on the right earlobe, thumb and big toe
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 29:20
+      lang: he
+      text: וְשָׁחַטְתָּ֣ אֶת הָאַ֗יִל וְלָקַחְתָּ֤ מִדָּמוֹ֙ וְנָֽתַתָּ֡ה עַל תְּנוּךְ֩ אֹ֨זֶן אַהֲרֹ֜ן
+        וְעַל תְּנ֨וּךְ אֹ֤זֶן בָּנָיו֙ הַיְמָנִ֔ית וְעַל בֹּ֤הֶן יָדָם֙ הַיְמָנִ֔ית וְעַל בֹּ֥הֶן רַגְלָ֖ם
+        הַיְמָנִ֑ית וְזָרַקְתָּ֧ אֶת הַדָּ֛ם עַל הַמִּזְבֵּ֖חַ סָבִֽיב
+  - tradition: judaism
+    passages:
+    - ref: Lev 8:23
+      lang: he
+      text: וַיִּשְׁחָ֓ט וַיִּקַּ֤ח מֹשֶׁה֙ מִדָּמ֔וֹ וַיִּתֵּ֛ן עַל תְּנ֥וּךְ אֹֽזֶן אַהֲרֹ֖ן הַיְמָנִ֑ית
+        וְעַל בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית
+    - ref: Lev 8:24
+      lang: he
+      text: וַיַּקְרֵ֞ב אֶת בְּנֵ֣י אַהֲרֹ֗ן וַיִּתֵּ֨ן מֹשֶׁ֤ה מִן הַדָּם֙ עַל תְּנ֤וּךְ אָזְנָם֙ הַיְמָנִ֔ית
+        וְעַל בֹּ֤הֶן יָדָם֙ הַיְמָנִ֔ית וְעַל בֹּ֥הֶן רַגְלָ֖ם הַיְמָנִ֑ית וַיִּזְרֹ֨ק מֹשֶׁ֧ה אֶת הַדָּ֛ם
+        עַל הַֽמִּזְבֵּ֖חַ סָבִֽיב
+- kind: shared
+  label: Sacred meat left over until morning is burned
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 29:34
+      lang: he
+      text: וְֽאִם יִוָּתֵ֞ר מִבְּשַׂ֧ר הַמִּלֻּאִ֛ים וּמִן הַלֶּ֖חֶם עַד הַבֹּ֑קֶר וְשָׂרַפְתָּ֤ אֶת
+        הַנּוֹתָר֙ בָּאֵ֔שׁ לֹ֥א יֵאָכֵ֖ל כִּי קֹ֥דֶשׁ הֽוּא
+  - tradition: judaism
+    passages:
+    - ref: Lev 8:32
+      lang: he
+      text: וְהַנּוֹתָ֥ר בַּבָּשָׂ֖ר וּבַלָּ֑חֶם בָּאֵ֖שׁ תִּשְׂרֹֽפוּ
 - kind: shared
   label: Portions are waved before God as a wave offering
   sides:
@@ -145,85 +193,6 @@ matches:
       lang: he
       text: וַיִּקַּ֤ח מֹשֶׁה֙ אֶת הֶ֣חָזֶ֔ה וַיְנִיפֵ֥הוּ תְנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה מֵאֵ֣יל הַמִּלֻּאִ֗ים
         לְמֹשֶׁ֤ה הָיָה֙ לְמָנָ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה
-- kind: shared
-  label: Sacred meat left over until morning is burned
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 29:34
-      lang: he
-      text: וְֽאִם יִוָּתֵ֞ר מִבְּשַׂ֧ר הַמִּלֻּאִ֛ים וּמִן הַלֶּ֖חֶם עַד הַבֹּ֑קֶר וְשָׂרַפְתָּ֤ אֶת
-        הַנּוֹתָר֙ בָּאֵ֔שׁ לֹ֥א יֵאָכֵ֖ל כִּי קֹ֥דֶשׁ הֽוּא
-  - tradition: judaism
-    passages:
-    - ref: Lev 8:32
-      lang: he
-      text: וְהַנּוֹתָ֥ר בַּבָּשָׂ֖ר וּבַלָּ֑חֶם בָּאֵ֖שׁ תִּשְׂרֹֽפוּ
-- kind: shared
-  label: Blood is daubed on the right earlobe, thumb and big toe
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 29:20
-      lang: he
-      text: וְשָׁחַטְתָּ֣ אֶת הָאַ֗יִל וְלָקַחְתָּ֤ מִדָּמוֹ֙ וְנָֽתַתָּ֡ה עַל תְּנוּךְ֩ אֹ֨זֶן אַהֲרֹ֜ן
-        וְעַל תְּנ֨וּךְ אֹ֤זֶן בָּנָיו֙ הַיְמָנִ֔ית וְעַל בֹּ֤הֶן יָדָם֙ הַיְמָנִ֔ית וְעַל בֹּ֥הֶן רַגְלָ֖ם
-        הַיְמָנִ֑ית וְזָרַקְתָּ֧ אֶת הַדָּ֛ם עַל הַמִּזְבֵּ֖חַ סָבִֽיב
-  - tradition: judaism
-    passages:
-    - ref: Lev 8:23
-      lang: he
-      text: וַיִּשְׁחָ֓ט וַיִּקַּ֤ח מֹשֶׁה֙ מִדָּמ֔וֹ וַיִּתֵּ֛ן עַל תְּנ֥וּךְ אֹֽזֶן אַהֲרֹ֖ן הַיְמָנִ֑ית
-        וְעַל בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית
-    - ref: Lev 8:24
-      lang: he
-      text: וַיַּקְרֵ֞ב אֶת בְּנֵ֣י אַהֲרֹ֗ן וַיִּתֵּ֨ן מֹשֶׁ֤ה מִן הַדָּם֙ עַל תְּנ֤וּךְ אָזְנָם֙ הַיְמָנִ֔ית
-        וְעַל בֹּ֤הֶן יָדָם֙ הַיְמָנִ֔ית וְעַל בֹּ֥הֶן רַגְלָ֖ם הַיְמָנִ֑ית וַיִּזְרֹ֨ק מֹשֶׁ֧ה אֶת הַדָּ֛ם
-        עַל הַֽמִּזְבֵּ֖חַ סָבִֽיב
-- kind: shared
-  label: Priests are washed with water at the entrance before ordination
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 29:4
-      lang: he
-      text: וְאֶת אַהֲרֹ֤ן וְאֶת בָּנָיו֙ תַּקְרִ֔יב אֶל פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם
-  - tradition: judaism
-    passages:
-    - ref: Lev 8:6
-      lang: he
-      text: וַיַּקְרֵ֣ב מֹשֶׁ֔ה אֶֽת אַהֲרֹ֖ן וְאֶת בָּנָ֑יו וַיִּרְחַ֥ץ אֹתָ֖ם בַּמָּֽיִם
-- kind: shared
-  label: Blood is put on the horns of the altar with the finger and poured at its base
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 29:12
-      lang: he
-      text: וְלָֽקַחְתָּ֙ מִדַּ֣ם הַפָּ֔ר וְנָתַתָּ֛ה עַל קַרְנֹ֥ת הַמִּזְבֵּ֖חַ בְּאֶצְבָּעֶ֑ךָ וְאֶת
-        כָּל הַדָּ֣ם תִּשְׁפֹּ֔ךְ אֶל יְס֖וֹד הַמִּזְבֵּֽחַ
-  - tradition: judaism
-    passages:
-    - ref: Lev 8:15
-      lang: he
-      text: וַיִּשְׁחָ֗ט וַיִּקַּ֨ח מֹשֶׁ֤ה אֶת הַדָּם֙ וַ֠יִּתֵּן עַל קַרְנ֨וֹת הַמִּזְבֵּ֤חַ סָבִיב֙
-        בְּאֶצְבָּע֔וֹ וַיְחַטֵּ֖א אֶת הַמִּזְבֵּ֑חַ וְאֶת הַדָּ֗ם יָצַק֙ אֶל יְס֣וֹד הַמִּזְבֵּ֔חַ וַֽיְקַדְּשֵׁ֖הוּ
-        לְכַפֵּ֥ר עָלָֽיו
-- kind: shared
-  label: The flesh, skin and dung of the sin offering are burned outside the camp
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 29:14
-      lang: he
-      text: וְאֶת בְּשַׂ֤ר הַפָּר֙ וְאֶת עֹר֣וֹ וְאֶת פִּרְשׁ֔וֹ תִּשְׂרֹ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה
-        חַטָּ֖את הֽוּא
-  - tradition: judaism
-    passages:
-    - ref: Lev 8:17
-      lang: he
-      text: וְאֶת הַפָּ֤ר וְאֶת עֹרוֹ֙ וְאֶת בְּשָׂר֣וֹ וְאֶת פִּרְשׁ֔וֹ שָׂרַ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה
-        כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה
 - kind: shared
   label: The offerer lays his hand on the head of the animal
   sides:
@@ -254,6 +223,37 @@ matches:
       lang: he
       text: וַיַּקְרֵב֙ אֶת הָאַ֣יִל הַשֵּׁנִ֔י אֵ֖יל הַמִּלֻּאִ֑ים וַֽיִּסְמְכ֞וּ אַהֲרֹ֧ן וּבָנָ֛יו
         אֶת יְדֵיהֶ֖ם עַל רֹ֥אשׁ הָאָֽיִל
+- kind: shared
+  label: The flesh, skin and dung of the sin offering are burned outside the camp
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 29:14
+      lang: he
+      text: וְאֶת בְּשַׂ֤ר הַפָּר֙ וְאֶת עֹר֣וֹ וְאֶת פִּרְשׁ֔וֹ תִּשְׂרֹ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה
+        חַטָּ֖את הֽוּא
+  - tradition: judaism
+    passages:
+    - ref: Lev 8:17
+      lang: he
+      text: וְאֶת הַפָּ֤ר וְאֶת עֹרוֹ֙ וְאֶת בְּשָׂר֣וֹ וְאֶת פִּרְשׁ֔וֹ שָׂרַ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה
+        כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶֽׁה
+- kind: shared
+  label: Blood is put on the horns of the altar with the finger and poured at its base
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 29:12
+      lang: he
+      text: וְלָֽקַחְתָּ֙ מִדַּ֣ם הַפָּ֔ר וְנָתַתָּ֛ה עַל קַרְנֹ֥ת הַמִּזְבֵּ֖חַ בְּאֶצְבָּעֶ֑ךָ וְאֶת
+        כָּל הַדָּ֣ם תִּשְׁפֹּ֔ךְ אֶל יְס֖וֹד הַמִּזְבֵּֽחַ
+  - tradition: judaism
+    passages:
+    - ref: Lev 8:15
+      lang: he
+      text: וַיִּשְׁחָ֗ט וַיִּקַּ֨ח מֹשֶׁ֤ה אֶת הַדָּם֙ וַ֠יִּתֵּן עַל קַרְנ֨וֹת הַמִּזְבֵּ֤חַ סָבִיב֙
+        בְּאֶצְבָּע֔וֹ וַיְחַטֵּ֖א אֶת הַמִּזְבֵּ֑חַ וְאֶת הַדָּ֗ם יָצַק֙ אֶל יְס֣וֹד הַמִּזְבֵּ֔חַ וַֽיְקַדְּשֵׁ֖הוּ
+        לְכַפֵּ֥ר עָלָֽיו
 ---
 
 ## Questions

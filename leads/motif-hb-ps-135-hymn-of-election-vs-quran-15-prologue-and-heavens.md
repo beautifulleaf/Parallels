@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: There is nothing whose storehouses are not with God (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: There is nothing whose storehouses are not with God (weight 7.3).
+    Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 135, hymn on God''s power, election and the idols: Whatever YHWH pleases he does,
     in heaven, on earth, in the seas and all the deeps; God struck the firstborn of Egypt, of man and
@@ -38,12 +38,12 @@ evidence:
     they ascended, they would say their eyes were bewitched; No town is destroyed without a known written
     decree; no nation outstrips its term; God sends the winds as fertilizers (lawaqih), then rain to drink;
     God declares that he sent down the Reminder and will himself guard it; God made everything grow in
-    due weight and sends it down only in known measure; Jinn or devils who used to sit listening at heaven''s
-    gates now find it full of stern guards and shooting stars (shuhub) lying in wait; God gives life and
-    death and is the inheritor of the earth and all on it; God set constellations (buruj) in the sky and
-    adorned it for beholders; Defense of the prophet: there is no madness (jinna) in your companion; he
-    is only a warner; The people mock God''s messengers, despise his words and scoff at his prophets;
-    God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth; and 1 more.'
+    due weight and sends it down only in known measure; A mortal climbs into the sky through a gate of
+    heaven; Jinn or devils who used to sit listening at heaven''s gates now find it full of stern guards
+    and shooting stars (shuhub) lying in wait; God gives life and death and is the inheritor of the earth
+    and all on it; God set constellations (buruj) in the sky and adorned it for beholders; Defense of
+    the prophet: there is no madness (jinna) in your companion; he is only a warner; The people mock God''s
+    messengers, despise his words and scoff at his prophets; and 2 more.'
   basis: reading
 - text: 'Psalm 135, hymn on God''s power, election and the idols: tagged by Claude (model), reading the
     Hebrew.'

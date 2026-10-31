@@ -25,12 +25,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God rains sulfur and fire from heaven on cities [divergence between
-    the texts] (weight 6.7); Lot''s people come to men with desire instead of women [divergence between
-    the texts] (weight 6.7); Wife who looks back is turned into a pillar of salt [divergence between the
-    texts] (weight 6.3); A member of the hero''s family is lost (weight 5.8); Hero''s family saved with
-    him [divergence between the texts] (weight 5.4); The men of Sodom are exceedingly wicked (weight 5.2);
-    God rains sulfur and fire from heaven on cities (weight 4.8); Hero''s family saved with him (weight
-    4.5). Pair score 45.4.'
+    the texts] (weight 7.7); Lot''s people come to men with desire instead of women [divergence between
+    the texts] (weight 7.7); Wife who looks back is turned into a pillar of salt [divergence between the
+    texts] (weight 7.3); A member of the hero''s family is lost (weight 6.8); Hero''s family saved with
+    him [divergence between the texts] (weight 6.5); The men of Sodom are exceedingly wicked (weight 6.2);
+    God rains sulfur and fire from heaven on cities (weight 5.9); Hero''s family saved with him (weight
+    5.4). Pair score 53.7.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -46,7 +46,9 @@ evidence:
   basis: reading
 - text: 'Only in Lot and his people: The townspeople resolve to expel the righteous family because ''they
     keep themselves pure''; Lot''s people come to men with desire instead of women; A people commit an
-    indecency no one in the world did before them; Lot''s wife is among those who stay behind and perish.'
+    indecency no one in the world did before them; An outrage is denounced as a deed never done before
+    (from of old, or by anyone in the worlds); Lot''s wife is among those who stay behind and perish;
+    The writer protests that a deed has been done that was never done since time immemorial.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

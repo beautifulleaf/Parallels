@@ -20,16 +20,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God rested, or could tire, after creating heaven and earth
-    [response between the texts] (weight 6.3); God rested and was refreshed on the seventh day (weight
-    6.3). Pair score 12.6.'
+    [response between the texts] (weight 7.3); God rested and was refreshed on the seventh day (weight
+    7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in Bezalel and Oholiab; Sabbath as sign; the tablets: God calls a master craftsman by name
     for the sacred work; Whoever works on the Sabbath shall be put to death; The Sabbath is justified
     by God''s resting on the seventh day of creation; Those who violate the Sabbath are punished (executed,
     cut off, cursed or transformed) [divergence between the texts]; Tablets written by the finger of God;
     A second craftsman from the tribe of Dan assists the master craftsman; The Sabbath is an everlasting
-    sign of the covenant between God and Israel; God fills craftsmen with a spirit of wisdom for sacred
-    work; Punishment of those who break the Sabbath [divergence between the texts]; God gives stone tablets
+    sign of the covenant between God and Israel; Punishment of those who break the Sabbath [divergence
+    between the texts]; God fills craftsmen with a spirit of wisdom for sacred work; God gives stone tablets
     he himself has written.'
   basis: reading
 - text: 'Only in Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says ''Is
@@ -42,9 +42,9 @@ evidence:
     with a driver (sa''iq) and a witness (shahid); The stupor (sakra) of death comes with the truth: ''this
     is what you tried to avoid''; Two receivers sit on the right and the left recording every word a person
     utters; At judgment the covering is removed from a person and his sight that day is sharp as iron;
-    Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire that
-    never says ''Enough''; God''s knowledge of a person''s thoughts and words, from afar or from near
-    [divergence between the texts]; and 12 more.'
+    Whether the work of creation brings toil and weariness on the divine [divergence between the texts];
+    Whether the work of creation brings toil and weariness on the divine [response between the texts];
+    and 24 more.'
   basis: reading
 - text: 'Bezalel and Oholiab; Sabbath as sign; the tablets: tagged by Claude (model), reading the Hebrew.'
   basis: reading

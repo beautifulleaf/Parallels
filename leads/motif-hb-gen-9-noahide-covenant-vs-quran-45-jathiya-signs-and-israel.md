@@ -18,18 +18,18 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Humans given rule over animals (weight 6.0). Pair score 6.0.'
+- text: 'Shared motifs, rarest first: Humans given rule over animals (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Blessing of Noah, blood laws and the covenant of the bow: God requires the life of a
-    human even from an animal that kills; God sees the bow in the cloud and remembers his covenant (the
-    sign reminds the deity); God makes a covenant with humans and all living creatures; Eating animals
-    permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be shed, because
-    humans bear God''s image [divergence between the texts]; The same religion (din) was enjoined on Noah,
-    Abraham, Moses, Jesus and the Prophet: establish it and do not divide; The sign left after the flood:
-    the rainbow, or the ark [divergence between the texts]; Whoever sheds human blood, by man shall his
-    blood be shed, because humans bear God''s image; A sign in the sky commemorates the flood (bow, necklace);
-    The sign the flood leaves for later generations [divergence between the texts]; Hero blessed on leaving
-    the vessel; Deity resolves or promises not to repeat the destruction; and 3 more.'
+    human even from an animal that kills; God makes a covenant with humans and all living creatures; Eating
+    animals permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be
+    shed, because humans bear God''s image [divergence between the texts]; The same religion (din) was
+    enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish it and do not divide; The sign
+    left after the flood: the rainbow, or the ark [divergence between the texts]; Whoever sheds human
+    blood, by man shall his blood be shed, because humans bear God''s image; God sees the bow in the cloud
+    and remembers his covenant (the sign reminds the deity); The sign the flood leaves for later generations
+    [divergence between the texts]; A sign in the sky commemorates the flood (bow, necklace); Eating blood
+    is forbidden; Deity resolves or promises not to repeat the destruction; and 3 more.'
   basis: reading
 - text: 'Only in Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a: God
     has subjected (sakhkhara) to humans the sea and all that is in the heavens and on the earth; Believers
@@ -41,9 +41,9 @@ evidence:
     between the texts]; Israel given God''s law, as a unique gift or followed by a later law [divergence
     between the texts]; Woe to every sinful liar who hears God''s signs recited, persists in arrogance
     as if he had not heard, and takes them in mockery; Formula: the sending down of the Book (tanzil al-kitab)
-    is from God, the Mighty, the Wise/Knowing; Vengeance and recompense are mine; Whoever does good does
-    it for his own soul; whoever does evil, it is against it; Catalogue of signs: heavens and earth, alternation
-    of night and day, ships, rain reviving dead earth, beasts, winds, clouds; and 2 more.'
+    is from God, the Mighty, the Wise/Knowing; Whoever does good does it for his own soul; whoever does
+    evil, it is against it; Vengeance and recompense are mine; Catalogue of signs: heavens and earth,
+    alternation of night and day, ships, rain reviving dead earth, beasts, winds, clouds; and 2 more.'
   basis: reading
 - text: 'Blessing of Noah, blood laws and the covenant of the bow: tagged by Claude (model), reading the
     Hebrew.'

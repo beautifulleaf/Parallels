@@ -20,21 +20,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A horn blown on the last day, and whom it gathers [divergence between
-    the texts] (weight 6.7); The trumpet (ṣūr) is blown and the dead are gathered (weight 5.0). Pair score
-    11.7.'
+    the texts] (weight 7.7); The trumpet (ṣūr) is blown and the dead are gathered (weight 6.0). Pair score
+    13.8.'
   basis: reading
 - text: 'Only in Leviathan slain; the vineyard of delight; the great shofar: Jacob''s guilt is atoned
     by making all altar stones like crushed chalk, no Asherim or incense-stands standing; Jacob will take
-    root, Israel blossom and bud and fill the face of the world with fruit; YHWH with his hard, great,
-    strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and slay the
-    dragon (tannin) in the sea; God threshes from the Euphrates to the Wadi of Egypt and the Israelites
-    are gathered one by one; Song of the pleasant vineyard that YHWH guards, waters every moment and keeps
-    night and day; he has no wrath, but would burn its briars; On that day a great shofar will be blown
-    and the lost in Assyria and outcasts in Egypt will come and worship on the holy mountain; Leviathan,
-    the great sea monster, named; Israel is a vine brought out of Egypt and planted, whose hedges God
-    has broken down; Hammanim (incense altars or sun pillars) removed from the cities; Sea, deep or sea
-    monster subdued or defeated by God; God will gather the exiles even from the end of heaven and restore
-    them.'
+    root, Israel blossom and bud and fill the face of the world with fruit; God threshes from the Euphrates
+    to the Wadi of Egypt and the Israelites are gathered one by one; Song of the pleasant vineyard that
+    YHWH guards, waters every moment and keeps night and day; he has no wrath, but would burn its briars;
+    On that day a great shofar will be blown and the lost in Assyria and outcasts in Egypt will come and
+    worship on the holy mountain; Israel is a vine brought out of Egypt and planted, whose hedges God
+    has broken down; Leviathan, the great sea monster, named; YHWH with his hard, great, strong sword
+    will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and slay the dragon (tannin)
+    in the sea; Hammanim (incense altars or sun pillars) removed from the cities; God will gather the
+    exiles even from the end of heaven and restore them; Sea, deep or sea monster subdued or defeated
+    by God.'
   basis: reading
 - text: 'Only in The trumpet, the sleepers raised, the Garden and the witnessing limbs: The people of
     the Garden recline with their spouses in shade on couches (ara''ik), with fruit and whatever they
@@ -45,9 +45,8 @@ evidence:
     when they wake from the dust [divergence between the texts]; The prophet heard or dismissed as a poet
     or singer [divergence between the texts]; The resurrected cry ''Woe to us, who has raised us from
     our sleeping place (marqad)?''; If God willed he would blot out their eyes or transform them (maskh)
-    in their places so they could neither go on nor return; On judgment day tongues, hands and feet testify
-    against people; No host from heaven was needed: a single Shout (sayha) and they were extinguished;
-    and 1 more.'
+    in their places so they could neither go on nor return; The dead wake in their resting place [divergence
+    between the texts]; On judgment day tongues, hands and feet testify against people; and 3 more.'
   basis: reading
 - text: 'Leviathan slain; the vineyard of delight; the great shofar: tagged by Claude (model), reading
     the Hebrew.'

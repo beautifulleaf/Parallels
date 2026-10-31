@@ -19,31 +19,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God brings believers out of darknesses into light; false gods lead
-    others from light into darkness (weight 5.4). Pair score 5.4.'
+    others from light into darkness (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in First servant song; light to the nations; a new song; God as warrior and as woman in
     labor; the blind servant: ''A bruised reed he will not break and a dimly burning wick he will not
-    quench''; God''s servant given as a covenant for the people and a light to the nations, to open blind
-    eyes and free prisoners from the dungeon; The former things have come to pass and God now declares
-    new things before they spring forth; God, silent long, now cries out like a woman in labor, gasping
-    and panting; ''I am YHWH, that is my name; my glory I will not give to another nor my praise to idols'';
-    Who gave Jacob to plunder? Was it not YHWH against whom we sinned? Yet they did not take it to heart;
-    First servant song: God''s chosen servant with his spirit brings justice to the nations without crying
-    out; a bruised reed he will not break; Who is blind but my servant, deaf like my messenger? Israel
-    sees much but does not observe; Who is called blind and deaf toward God''s word [divergence between
-    the texts]; On that day the deaf will hear the words of a book and the eyes of the blind will see
-    out of darkness; Call to sing a new song (shir hadash) to God; God alone stretches out the heavens;
+    quench''; The former things have come to pass and God now declares new things before they spring forth;
+    ''I am YHWH, that is my name; my glory I will not give to another nor my praise to idols''; Who gave
+    Jacob to plunder? Was it not YHWH against whom we sinned? Yet they did not take it to heart; God''s
+    servant given as a covenant for the people and a light to the nations, to open blind eyes and free
+    prisoners from the dungeon; First servant song: God''s chosen servant with his spirit brings justice
+    to the nations without crying out; a bruised reed he will not break; Who is blind but my servant,
+    deaf like my messenger? Israel sees much but does not observe; God, silent long, now cries out like
+    a woman in labor, gasping and panting; Who is called blind and deaf toward God''s word [divergence
+    between the texts]; On that day the deaf will hear the words of a book and the eyes of the blind will
+    see out of darkness; Call to sing a new song (shir hadash) to God; God alone stretches out the heavens;
     and 1 more.'
   basis: reading
 - text: 'Only in Ranks of the messengers and the Throne Verse: God''s footstool or seat (kursi) extends
     over the heavens and the earth; No compulsion in religion; Neither slumber nor sleep overtakes God;
-    God''s throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false
-    gods (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber
-    or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day
-    comes with no trade, no friendship and no intercession; The temple as a house of rest for the ark
-    and the footstool of God''s feet; Jesus son of Mary given clear signs and supported with the holy
-    spirit (ruh al-qudus); Israel''s God is called ''the living God, enduring forever, whose kingdom shall
-    never be destroyed''; God ranked some messengers above others; to some God spoke; and 4 more.'
+    Whether the deity sleeps [divergence between the texts]; Whether the deity sleeps [response between
+    the texts]; A divine object is measured against heaven and earth: the heavens too small for the god''s
+    cup, or his seat (kursī) spanning the heavens and the earth [divergence between the texts]; God''s
+    throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false gods
+    (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber or
+    sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day comes
+    with no trade, no friendship and no intercession; The temple as a house of rest for the ark and the
+    footstool of God''s feet; and 13 more.'
   basis: reading
 - text: 'First servant song; light to the nations; a new song; God as warrior and as woman in labor; the
     blind servant: tagged by Claude (model), reading the Hebrew.'

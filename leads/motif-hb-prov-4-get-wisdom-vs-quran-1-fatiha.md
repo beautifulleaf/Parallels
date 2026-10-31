@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Contrast of the way of the righteous, which God knows, and the way
-    of the wicked, which perishes (weight 6.0); Prayer to be guided on the straight path (al-sirat al-mustaqim)
-    (weight 5.8). Pair score 11.8.'
+    of the wicked, which perishes (weight 7.1); Prayer to be guided on the straight path (al-sirat al-mustaqim)
+    (weight 6.8). Pair score 13.9.'
   basis: reading
 - text: 'Only in Proverbs 4, a father''s father''s teaching; the two paths: ''The beginning of wisdom:
     acquire wisdom; with all you have acquired, acquire understanding''; The wicked cannot sleep unless

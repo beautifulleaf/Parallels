@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader doubts God can supply; God replies ''Is my hand too short?''
-    (weight 5.8). Pair score 5.8.'
+    (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in No bill of divorce; third servant song: The servant sets his face like flint, knowing
     he will not be shamed; At God''s rebuke the sea dries up and rivers become desert so the fish stink

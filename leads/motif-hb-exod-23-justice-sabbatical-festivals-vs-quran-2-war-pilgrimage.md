@@ -20,18 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How often and when pilgrimage is made [divergence between the texts]
-    (weight 6.3); Three annual pilgrimage festivals when every male appears before God (weight 5.3). Pair
-    score 11.6.'
+    (weight 7.3); Three annual pilgrimage festivals when every male appears before God (weight 6.4). Pair
+    score 13.7.'
   basis: reading
 - text: 'Only in Covenant Code - justice, enemy''s animal, sabbatical year, festivals: Return your enemy''s
     stray animal and help his overloaded donkey; Neither favor nor pervert justice for the poor in his
     lawsuit; Whoever commits a sin and casts it on an innocent bears slander and manifest sin; God does
     not forbid kindness and justice toward those who did not fight you over religion or expel you; Do
     not offer sacrificial blood with leavened bread; fat not left until morning; No one shall appear before
-    God empty-handed; Do not oppress the stranger, for you were strangers in Egypt; The land lies fallow
-    in the seventh year for the poor and wild animals; Do not invoke the names of other gods; Let not
-    hatred of a people move you to injustice; be just; Prohibition of boiling a kid in its mother''s milk;
-    Do not spread false reports or follow the majority to do wrong in court; and 5 more.'
+    God empty-handed; The land lies fallow in the seventh year for the poor and wild animals; Do not invoke
+    the names of other gods; Let not hatred of a people move you to injustice; be just; Do not spread
+    false reports or follow the majority to do wrong in court; Who must make pilgrimage to the sanctuary,
+    and how often [divergence between the texts]; Do not oppress the stranger, for you were strangers
+    in Egypt; and 5 more.'
   basis: reading
 - text: 'Only in New moons, fighting and the pilgrimage rites: When you pour down from Arafat, remember
     God at the Sacred Monument (al-Mash''ar al-Haram); Take provision, but the best provision is God-consciousness
@@ -42,7 +43,7 @@ evidence:
     at the Sacred Mosque unless they fight you there; No sexual talk, wickedness or quarreling during
     the pilgrimage; Remember God as you remember your fathers, or more; The sacred month for the sacred
     month; violations are subject to retaliation; Do not shave heads until the sacrificial offering (hady)
-    reaches its place; and 9 more.'
+    reaches its place; and 11 more.'
   basis: reading
 - text: 'Covenant Code - justice, enemy''s animal, sabbatical year, festivals: tagged by Claude (model),
     reading the Hebrew.'

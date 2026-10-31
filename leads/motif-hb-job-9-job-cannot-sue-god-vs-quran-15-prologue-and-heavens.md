@@ -20,30 +20,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God set constellations (buruj) in the sky and adorned it for beholders
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Job - cosmic power of God and the impossible lawsuit: God made the constellations Ash
     (Bear?), Kesil (Orion) and Kimah (Pleiades) and the chambers of the south; Life''s days flee faster
     than a runner, reed boats, or a swooping eagle; The earth is given into the hand of the wicked; God
     covers the faces of its judges; ''He destroys both the blameless and the wicked''; God mocks the calamity
-    of the innocent; God moves mountains in anger and shakes the earth so its pillars tremble; God passes
-    by the speaker and he does not see him; God commands the sun not to rise and seals up the stars; God
-    treads on the back (bamot) of Sea; The helpers of Rahab bow beneath God''s wrath; ''How can a man
-    be in the right with God? He could not answer one in a thousand''; Lament that there is no umpire
-    (mokhiach) to lay his hand on both God and man; Even if washed in snow and lye, God would plunge him
-    into the pit so his clothes abhor him; and 7 more.'
+    of the innocent; God passes by the speaker and he does not see him; God commands the sun not to rise
+    and seals up the stars; God treads on the back (bamot) of Sea; The helpers of Rahab bow beneath God''s
+    wrath; ''How can a man be in the right with God? He could not answer one in a thousand''; Lament that
+    there is no umpire (mokhiach) to lay his hand on both God and man; Even if washed in snow and lye,
+    God would plunge him into the pit so his clothes abhor him; Sufferer imagines suing God but knows
+    God''s might would silence or condemn him; and 7 more.'
   basis: reading
 - text: 'Only in The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25): Opponents
     demand that the prophet bring the angels if he is truthful; Even if a door of heaven were opened and
     they ascended, they would say their eyes were bewitched; No town is destroyed without a known written
     decree; no nation outstrips its term; God sends the winds as fertilizers (lawaqih), then rain to drink;
     God declares that he sent down the Reminder and will himself guard it; God made everything grow in
-    due weight and sends it down only in known measure; Jinn or devils who used to sit listening at heaven''s
-    gates now find it full of stern guards and shooting stars (shuhub) lying in wait; There is nothing
-    whose storehouses are not with God; God gives life and death and is the inheritor of the earth and
-    all on it; Defense of the prophet: there is no madness (jinna) in your companion; he is only a warner;
-    The people mock God''s messengers, despise his words and scoff at his prophets; God set the mountains
-    as pegs or firm anchors (awtad, rawasi) for the earth; and 1 more.'
+    due weight and sends it down only in known measure; A mortal climbs into the sky through a gate of
+    heaven; Jinn or devils who used to sit listening at heaven''s gates now find it full of stern guards
+    and shooting stars (shuhub) lying in wait; There is nothing whose storehouses are not with God; God
+    gives life and death and is the inheritor of the earth and all on it; Defense of the prophet: there
+    is no madness (jinna) in your companion; he is only a warner; The people mock God''s messengers, despise
+    his words and scoff at his prophets; and 2 more.'
   basis: reading
 - text: 'Job - cosmic power of God and the impossible lawsuit: tagged by Claude (model), reading the Hebrew.'
   basis: reading

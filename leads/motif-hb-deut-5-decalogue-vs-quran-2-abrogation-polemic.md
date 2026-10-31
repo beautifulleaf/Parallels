@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God should speak to the people directly [contrast between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Worship of God alone joined to duty to parents [divergence
@@ -30,19 +30,20 @@ evidence:
     to mediate; The people''s answer to the covenant (''we hear ...'') [response between the texts]; Sabbath
     grounded in the memory of slavery in Egypt; Honor father and mother, with the promise of long life
     [divergence between the texts]; Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na);
-    Prohibition of coveting the neighbor''s wife and property; and 10 more.'
+    Prohibitions of murder, adultery, theft and false witness [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Ra''ina, abrogation, rival claims and the face of God: Jews say the Christians stand
     on nothing, Christians say the same of the Jews; Claim that none enters paradise unless Jew or Christian,
     rebutted by surrender of the face to God; Believers told not to say ''ra''ina'' (a word twisted by
     opponents) but ''unzurna''; God abrogates or causes to be forgotten a verse and brings a better or
     similar one (naskh); God swears by himself: to me every knee shall bow and every tongue swear; Whether
-    God has or begets a son [contrast between the texts]; From sunrise to sunset God''s name is great
-    among the nations and in every place incense and a pure offering are brought to his name; East and
-    west belong to God; wherever you turn, there is the face of God; ''He spoke and it came to be; he
-    commanded and it stood firm''; Deity creates by spoken command (Let there be...); The called one asks
-    for a sign that it is God who speaks [divergence between the texts]; The called one asks for a sign
-    that it is God who speaks; and 2 more.'
+    God has or begets a son [contrast between the texts]; A good deed done for one''s land is laid up
+    in the god''s basket (credited by the god); From sunrise to sunset God''s name is great among the
+    nations and in every place incense and a pure offering are brought to his name; The god''s whereabouts
+    named as the sunrise and the sunset (east and west) [divergence between the texts]; East and west
+    belong to God; wherever you turn, there is the face of God; ''He spoke and it came to be; he commanded
+    and it stood firm''; The called one asks for a sign that it is God who speaks [divergence between
+    the texts]; and 4 more.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,30 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How far a child must obey father and mother [divergence between
-    the texts] (weight 6.7); ''Hear, my son, your father''s instruction and do not forsake your mother''s
-    teaching (torah)'' (weight 6.3). Pair score 13.0.'
+    the texts] (weight 7.7); ''Hear, my son, your father''s instruction and do not forsake your mother''s
+    teaching (torah)'' (weight 6.4). Pair score 14.1.'
   basis: reading
 - text: 'Only in Proverbs 6:20-35, commandment as lamp; adultery as fire in the bosom: ''The commandment
     is a lamp and the teaching (torah) is light; reproofs of discipline are the way of life''; Can a man
     carry fire in his bosom and his clothes not burn, or walk on coals and his feet not be scorched? So
-    is adultery; A prostitute costs a loaf of bread, but another man''s wife hunts the precious life;
-    The jealous husband shows no mercy on the day of vengeance and will accept no ransom (kofer) or bribe
-    for adultery; When you walk it will lead you, when you lie down it will watch over you, when you wake
-    it will talk with you; A starving thief is not despised, yet when caught he repays sevenfold, giving
-    all the wealth of his house; Sexual relations with a neighbor''s wife are forbidden; The Torah contains
-    guidance and light; Bind the teachings around your neck (or fingers) and write them on the tablet
-    of your heart; Warning against the ''strange woman'' (ishah zarah / nokhriyyah) with smooth words.'
+    is adultery; The jealous husband shows no mercy on the day of vengeance and will accept no ransom
+    (kofer) or bribe for adultery; When you walk it will lead you, when you lie down it will watch over
+    you, when you wake it will talk with you; A starving thief is not despised, yet when caught he repays
+    sevenfold, giving all the wealth of his house; A prostitute costs a loaf of bread, but another man''s
+    wife hunts the precious life; The Torah contains guidance and light; Bind the teachings around your
+    neck (or fingers) and write them on the tablet of your heart; Warning against the ''strange woman''
+    (ishah zarah / nokhriyyah) with smooth words; Sexual relations with a neighbor''s wife are forbidden.'
   basis: reading
 - text: 'Only in Luqman''s advice to his son: Do not turn your cheek away from people in scorn or walk
     proudly on the earth; be modest in your walk; Associating partners with God (shirk) is a tremendous
     wrong; Lower your voice: the most repugnant of voices is the braying of donkeys; Luqman, a sage given
     wisdom by God, instructs his son; The mother carried the child in weakness upon weakness and his weaning
     is in two years; Even a deed the weight of a mustard seed, hidden in a rock or in heaven or earth,
-    God will bring it forth; A community that enjoins the good and forbids the evil (al-amr bil-ma''ruf);
-    How to treat close kin who urge one to worship other gods [contrast between the texts]; Children must
-    treat parents well but must not obey them if they press them to associate partners with God; Whether
-    the heavens rest on pillars [divergence between the texts]; God raised the heavens without pillars
-    that you can see; God set firm mountains on the earth lest it sway with people; and 4 more.'
+    God will bring it forth; A father''s advice to his son names the braying donkey; A community that
+    enjoins the good and forbids the evil (al-amr bil-ma''ruf); An instruction framed as a named father
+    speaking to his son ("for his son" / "Luqmān said to his son"); How to treat close kin who urge one
+    to worship other gods [contrast between the texts]; Humility in public: walking modestly, keeping
+    the voice low, not holding the head (cheek) high; How the parents'' word stands to the word of God
+    [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Proverbs 6:20-35, commandment as lamp; adultery as fire in the bosom: tagged by Claude (model),
     reading the Hebrew.'

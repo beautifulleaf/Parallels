@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Call to the People of the Book to a common word: worship none but
-    God and take none as lords besides him (weight 6.7). Pair score 6.7.'
+    God and take none as lords besides him (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
     covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
     time; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear down
     the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its neck
-    is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round the
-    holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s sin
-    [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be a
-    snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
-    appear before God empty-handed; The prophet intercedes for the people, arguing from God''s reputation;
+    is broken; God passes by and proclaims his name and attributes of mercy; Whether one person (kin,
+    descendants) bears another''s sin [contrast between the texts]; Do not offer sacrificial blood with
+    leavened bread; fat not left until morning; No one shall appear before God empty-handed; The prophet
+    intercedes for the people, arguing from God''s reputation; How far God''s mercy and his punishment
+    extend [divergence between the texts]; Moses hews a second pair of tablets to replace the broken ones;
     and 21 more.'
   basis: reading
 - text: 'Only in The common word; Abraham neither Jew nor Christian: Some People of the Book plot to believe
@@ -39,8 +39,10 @@ evidence:
     or Christian; Some People of the Book return a heap of gold entrusted; others not even a dinar; Some
     twist their tongues with the book so you think it is from the book; Abraham''s relation to the law
     given later at Sinai [response between the texts]; Debts of a foreigner may still be exacted though
-    a brother''s are released; Whether obligations differ toward insiders and outsiders [response between
-    the texts]; Abraham was a hanif, neither Jew nor Christian nor polytheist.'
+    a brother''s are released; A word of the root ḥ-n-p (Canaanite ḥanpa ''impious deed'', Arabic ḥanīf)
+    applied to a deed or a person [neutral] [divergence between the texts]; Whether obligations differ
+    toward insiders and outsiders [response between the texts]; Abraham was a hanif, neither Jew nor Christian
+    nor polytheist.'
   basis: reading
 - text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
     the Hebrew.'

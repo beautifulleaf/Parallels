@@ -22,9 +22,9 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero blames the largest idol for the destruction (weight 6.0); Hero
-    smashes or burns idols (weight 5.6); Hero''s father makes, sells or worships idols [divergence between
-    the texts] (weight 5.4); Hero''s father makes, sells or worships idols (weight 4.8). Pair score 21.8.'
+- text: 'Shared motifs, rarest first: Hero blames the largest idol for the destruction (weight 7.1); Hero
+    smashes or burns idols (weight 6.6); Hero''s father makes, sells or worships idols [divergence between
+    the texts] (weight 6.5); Hero''s father makes, sells or worships idols (weight 5.9). Pair score 26.1.'
   basis: reading
 - text: 'Only in Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: A fleece is
     left on the threshing floor as a sign: wet when the ground is dry, then dry when it is wet; If he

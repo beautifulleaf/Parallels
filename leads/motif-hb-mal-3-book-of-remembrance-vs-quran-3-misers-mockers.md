@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will not leave believers as they are until he separates the
-    bad from the good (weight 6.7). Pair score 6.7.'
+    bad from the good (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The book of remembrance and the sun of righteousness: The day comes burning like an oven;
     the arrogant and evildoers become stubble, left neither root nor branch; Complaint: ''It is vain to
     serve God; what profit that we kept his charge? The arrogant are blessed and the wicked test God and
     escape''; God will spare the faithful as a man spares the son who serves him, on the day he makes
     his treasured possession; The righteous go out leaping like stall-fed calves and tread the wicked
-    like ashes under their feet; For those who fear God the sun of righteousness will rise with healing
-    in its wings (kenafeha); A book of remembrance is written before God for those who fear him and think
-    on his name; God''s choosing of Israel among the peoples [divergence between the texts]; There is
-    no secret conversation of three but God is the fourth, nor of five but he is the sixth, wherever they
-    are; God''s messengers (angels) write down what people plot and do; God records what people sent ahead
+    like ashes under their feet; A book of remembrance is written before God for those who fear him and
+    think on his name; God''s choosing of Israel among the peoples [divergence between the texts]; There
+    is no secret conversation of three but God is the fourth, nor of five but he is the sixth, wherever
+    they are; For those who fear God the sun of righteousness will rise with healing in its wings (kenafeha);
+    God''s messengers (angels) write down what people plot and do; God records what people sent ahead
     and their traces (athar), and counts everything in a clear register (imam mubin); ''Why do the wicked
     live, grow old and mighty?'': prosperity of the wicked with children, safe houses and fertile cattle;
     On judgment day people are either wretched (shaqi) or blessed (sa''id); and 3 more.'
@@ -42,10 +42,10 @@ evidence:
     consumed by fire as his credential; God grants the unbelievers respite only that they may increase
     in sin; Whether God is in need and humans rich [contrast between the texts]; An offering consumed
     by fire as proof of the true God or messenger [response between the texts]; Fire from heaven falls
-    and consumes the offering, wood, stones, dust and water; What man can live and not see death, or deliver
-    his soul from the hand of Sheol?; Every soul shall taste death; Fire comes out from before God and
-    consumes the offering on the altar; God sent his servants the prophets ''rising early and sending''
-    (hashkem), but they did not listen; and 3 more.'
+    and consumes the offering, wood, stones, dust and water; Wrongdoers take the deity''s delay for indifference;
+    the delay is not a release; What man can live and not see death, or deliver his soul from the hand
+    of Sheol?; A writer reproaches his addressee: the oath I made you swear before the gods you have thrown
+    behind you; Fire comes out from before God and consumes the offering on the altar; and 5 more.'
   basis: reading
 - text: 'The book of remembrance and the sun of righteousness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

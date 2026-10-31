@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Produce and wealth of every land brought to a sacred city [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Arise, shine - the nations come to Zion''s light: Zion told ''Arise, shine, for your
     light has come'': darkness covers the earth but God''s glory rises on her; In the restoration God
@@ -41,8 +41,8 @@ evidence:
     not seek the ignorant''; Opponents call the Torah and the Quran ''two sorceries supporting each other'';
     Who was present at the revelation on the mountain, and who knows it only by report [contrast between
     the texts]; Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts]; Whoever takes his own desire (hawā) as his god; Repel evil with what is better;
-    God does not punish a people before sending a messenger, lest they plead they had none; and 1 more.'
+    between the texts]; The produce (tribute, fruits) of all lands is brought into a sacred city; Whoever
+    takes his own desire (hawā) as his god; Repel evil with what is better; and 2 more.'
   basis: reading
 - text: 'Arise, shine - the nations come to Zion''s light: tagged by Claude (model), reading the Hebrew.'
   basis: reading

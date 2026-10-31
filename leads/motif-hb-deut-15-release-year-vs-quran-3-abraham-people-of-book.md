@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Debts of a foreigner may still be exacted though a brother''s are
-    released (weight 6.7); Whether obligations differ toward insiders and outsiders [response between
-    the texts] (weight 6.3). Pair score 13.0.'
+    released (weight 7.7); Whether obligations differ toward insiders and outsiders [response between
+    the texts] (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Release of debts, release of Hebrew slaves, firstlings: Base thought refusing a loan
     as the release year nears; the poor man cries to God against you; There will be no poor among you,
@@ -42,8 +42,9 @@ evidence:
     or Christian; Some People of the Book return a heap of gold entrusted; others not even a dinar; Some
     twist their tongues with the book so you think it is from the book; Abraham''s relation to the law
     given later at Sinai [response between the texts]; Call to the People of the Book to a common word:
-    worship none but God and take none as lords besides him; Abraham was a hanif, neither Jew nor Christian
-    nor polytheist.'
+    worship none but God and take none as lords besides him; A word of the root ḥ-n-p (Canaanite ḥanpa
+    ''impious deed'', Arabic ḥanīf) applied to a deed or a person [neutral] [divergence between the texts];
+    Abraham was a hanif, neither Jew nor Christian nor polytheist.'
   basis: reading
 - text: 'Release of debts, release of Hebrew slaves, firstlings: tagged by Claude (model), reading the
     Hebrew.'

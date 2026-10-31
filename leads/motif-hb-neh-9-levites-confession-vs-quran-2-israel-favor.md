@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 5.8).
-    Pair score 5.8.'
+- text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 6.8).
+    Pair score 6.8.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -36,9 +36,9 @@ evidence:
     that day no soul will avail another, no intercession or ransom accepted, no help given; Refrain to
     the Children of Israel: ''remember my favor which I bestowed on you''; God rebukes the wicked who
     recites his statutes and covenant yet consorts with thieves and adulterers; Whether payment may substitute
-    for a life [contrast between the texts]; Israel chosen as God''s treasured people (am segullah) out
-    of all peoples; No man can ransom his brother or give God a ransom (kofer) for him; the redemption
-    of life is too costly; Each person dies for his own sin.'
+    for a life [contrast between the texts]; No man can ransom his brother or give God a ransom (kofer)
+    for him; the redemption of life is too costly; Israel chosen as God''s treasured people (am segullah)
+    out of all peoples; Each person dies for his own sin.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

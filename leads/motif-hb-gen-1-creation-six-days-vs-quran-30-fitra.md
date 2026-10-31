@@ -19,30 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God set in human nature at creation [divergence between the
-    texts] (weight 6.7). Pair score 6.7.'
+    texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 27 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 27 more.'
   basis: reading
 - text: 'Only in The slave-partner parable, the fitra, and the social duties: Corruption has appeared
     on land and sea because of what people''s hands have earned; The fitra: God''s original pattern on
     which he created humankind, the upright (hanif) religion; no change to God''s creation; Parable: you
     would not make your slaves equal partners in your wealth; how then make God''s creatures his partners?;
     Usury (riba) given to increase people''s wealth does not increase with God, but alms (zakat) seeking
-    his face are multiplied; Give the kinsman, the poor and the wayfarer their due; Because of sin the
-    land mourns and beasts, birds and even fish of the sea perish; Those who split their religion into
-    sects, each party exulting in what it has; He who increases wealth by interest and usury gathers it
-    for one who is gracious to the poor; When harm touches people they turn to God; when he gives them
-    relief a party of them associates partners again; Travel in the land and see the end of those who
-    denied.'
+    his face are multiplied; Give the kinsman, the poor and the wayfarer their due; An argument drawn
+    from a human master and his slaves is applied to the god; Those who split their religion into sects,
+    each party exulting in what it has; He who increases wealth by interest and usury gathers it for one
+    who is gracious to the poor; Because of sin the land mourns and beasts, birds and even fish of the
+    sea perish; When harm touches people they turn to God; when he gives them relief a party of them associates
+    partners again; Travel in the land and see the end of those who denied.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

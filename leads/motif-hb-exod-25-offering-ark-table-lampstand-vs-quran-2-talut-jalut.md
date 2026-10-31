@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ark of the covenant: a gold-plated acacia chest with rings and
-    poles [divergence between the texts] (weight 6.7); The ark of the covenant: a gold-plated acacia chest
-    with rings and poles (weight 5.6). Pair score 12.3.'
+    poles [divergence between the texts] (weight 7.7); The ark of the covenant: a gold-plated acacia chest
+    with rings and poles (weight 6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Contribution for the sanctuary; ark, cover, table and lampstand: A cult object is hammered
     from a single piece of gold; A golden cover (kapporet, mercy seat) on top of the ark; List of precious
@@ -30,8 +30,8 @@ evidence:
     never be removed; God will dwell in the midst of the people in a sanctuary; Exact dimensions in cubits
     are given for a sacred object of the sanctuary; Covering of tahash skins (an unidentified animal);
     Materials for the sanctuary come from the free-will gifts of all whose heart moves them; A golden
-    seven-lamp lampstand with almond-blossom cups; A gold table with the bread of the presence always
-    before God; The tablets of the testimony are placed inside the ark; and 2 more.'
+    seven-lamp lampstand with almond-blossom cups; The tablets of the testimony are placed inside the
+    ark; A gold table with the bread of the presence always before God; and 2 more.'
   basis: reading
 - text: 'Only in Talut (Saul), the ark and Jalut (Goliath): The ark (tabut) returns, carried by angels,
     containing tranquility (sakina) and relics left by the family of Moses and Aaron; David kills Jalut
@@ -40,10 +40,11 @@ evidence:
     God chose the king and increased him in knowledge and stature, though he lacked wealth; The people
     object that the chosen king has no wealth and they have more right to kingship; Before battle the
     army is tested at a river: whoever drinks is not with the leader, except a handful scooped by hand;
-    What the ark contains [contrast between the texts]; David kills the Philistine giant [divergence between
-    the texts]; A giant taunts Israel and is killed by a hero; A jar of manna preserved before the testimony
-    for future generations; Objection raised against the newly chosen king [divergence between the texts];
-    and 9 more.'
+    A candidate for kingship is judged by his bodily size or strength (too small for the throne; given
+    increase of body) [divergence between the texts]; A claimant''s body is weighed as fitness for kingship
+    [divergence between the texts]; What the ark contains [contrast between the texts]; David kills the
+    Philistine giant [divergence between the texts]; A champion whom everyone fears is killed by one unlikely
+    man; and 16 more.'
   basis: reading
 - text: 'Contribution for the sanctuary; ark, cover, table and lampstand: tagged by Claude (model), reading
     the Hebrew.'

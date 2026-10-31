@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The camel is unclean because it does not have a split hoof [contrast
-    between the texts] (weight 6.7); List of clean and unclean animals: split hoof and chewing cud (weight
-    6.3); The pig is unclean and forbidden (weight 5.3). Pair score 18.3.'
+    between the texts] (weight 7.7); List of clean and unclean animals: split hoof and chewing cud (weight
+    7.3); The pig is unclean and forbidden (weight 6.4). Pair score 21.4.'
   basis: reading
 - text: 'Only in Clean and unclean animals; carcass impurity: The camel is unclean because it does not
     have a split hoof; Touching or carrying a carcass makes one unclean until evening; Creatures that
@@ -44,8 +44,8 @@ evidence:
     cattle to God and a portion to their partners; Pagans declare certain cattle and crops taboo (ḥijr),
     to be eaten only by whom they will; Pagans reserve what is in the wombs of cattle for males, forbidden
     to wives unless stillborn; List of clean and unclean animals: split hoof and chewing cud [response
-    between the texts]; The fat tail of the sheep is offered [divergence between the texts]; Firstborn
-    male of herd and flock consecrated to God, not worked or shorn; and 10 more.'
+    between the texts]; The due from crops and young animals is given at once, at harvest time [divergence
+    between the texts]; The fat tail of the sheep is offered [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'Clean and unclean animals; carcass impurity: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seized at the end, they say ''we believe'', but how can they reach
-    it from a far place? (weight 6.0). Pair score 6.0.'
+    it from a far place? (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Found by those who did not seek; rebels and servants: As one says of a grape cluster
     with juice ''Do not destroy it, there is blessing in it'', so God spares a remnant for his servants''

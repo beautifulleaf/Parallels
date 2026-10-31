@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Host runs to welcome strangers, washes their feet and feeds them
-    (weight 5.1). Pair score 5.1.'
+    (weight 5.8). Pair score 5.8.'
   basis: reading
 - text: 'Only in Job''s oath of innocence: Adultery is a fire that consumes unto Abaddon and roots out
     all one''s increase; Self-curse: may I sow and another eat, and my offspring be uprooted; Self-curse:
@@ -29,18 +29,19 @@ evidence:
     Self-curse should his land cry out against him and its furrows weep for stolen produce or murdered
     owners; Master respects his slaves'' lawsuits because the one who made him in the womb made them too;
     The righteous did not rejoice at his enemy''s ruin nor curse his life; Disavowal of making gold one''s
-    hope or rejoicing in great wealth; Protagonist clears himself with a series of conditional self-curses
-    (''If I have done X, may Y befall me''); and 10 more.'
+    hope or rejoicing in great wealth; ''Here is my mark (tav); let Shaddai answer me'': the litigant
+    signs his deposition; and 10 more.'
   basis: reading
 - text: 'Only in Abraham''s guests, the roasted calf and the laughing wife: Abraham is forbearing, sighing
-    (awwah) and penitent; Abraham''s angelic guests do not stretch their hands to the food, and he is
-    afraid; The annunciation names Isaac ''and after Isaac, Jacob''; Promised son born to aged parents
-    at the appointed time; Doubt voiced at the promise of a son in old age; Who is afraid during the visit
+    (awwah) and penitent; The annunciation names Isaac ''and after Isaac, Jacob''; Promised son born to
+    aged parents at the appointed time; Whether the divine guest eats the meal prepared by the host [divergence
+    between the texts]; Doubt voiced at the promise of a son in old age; Who is afraid during the visit
     of the heavenly guests, and why [divergence between the texts]; How Abraham learns of Sodom''s fate,
-    and his response; Who Abraham''s visitors are; How God answers Abraham''s plea for the people of Sodom
-    [divergence between the texts]; When and why Sarah laughs, and how it is answered; When and why Sarah
-    laughs, and how it is answered [divergence between the texts]; Whether Abraham''s heavenly guests
-    eat the meal he serves [divergence between the texts]; and 7 more.'
+    and his response; Who Abraham''s visitors are; A host sets meat before an arriving messenger, who
+    does not take the meal, and fear follows [divergence between the texts]; How God answers Abraham''s
+    plea for the people of Sodom [divergence between the texts]; An intercessor pleads with the divine
+    to spare a city whose destruction is decreed; the decree is not turned back [divergence between the
+    texts]; When and why Sarah laughs, and how it is answered; and 13 more.'
   basis: reading
 - text: 'Job''s oath of innocence: tagged by Claude (model), reading the Hebrew.'
   basis: reading

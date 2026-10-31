@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet protests he is heavy of mouth and tongue or ''uncircumcised
-    of lips'' (weight 5.6). Pair score 5.6.'
+    of lips'' (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in ''I am YHWH'': the name not known to the patriarchs; genealogy of Moses and Aaron: God''s
     promise of redemption phrased in four verbs (bring out, deliver, redeem, take); A genealogy interrupts
@@ -28,9 +28,9 @@ evidence:
     to the prophet because of their broken spirit and hard labor; The groaning of the oppressed rises
     to God, who hears and remembers his covenant; The hero''s previously unnamed mother is named in a
     genealogy; Miriam / Maryam named as the daughter of Amram / ʿImran; How Moses'' own people in Egypt
-    respond to his message [divergence between the texts]; A precise long lifespan is recorded for a patriarch
-    or ancestor (110-180 years); Priestly genealogy from Aaron to Phinehas with named wives; God reveals
-    himself by the name El Shaddai; and 3 more.'
+    respond to his message [divergence between the texts]; Priestly genealogy from Aaron to Phinehas with
+    named wives; God reveals himself by the name El Shaddai; God redeems ''with an outstretched arm''
+    and great judgments; and 3 more.'
   basis: reading
 - text: 'Only in Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning:
     Each sign shown to Pharaoh''s people was greater than the one before it; Pharaoh scorns Moses as contemptible,
@@ -40,11 +40,11 @@ evidence:
     himself or thrown at him [divergence between the texts]; Pharaoh is the great tannin (crocodile/dragon)
     lying in the midst of his Nile channels; Pharaoh boasts to his people: is not the kingdom of Egypt
     mine, and these rivers flowing beneath me?; The king breaks his promise to release the people once
-    a plague is lifted [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
+    a plague is lifted [divergence between the texts]; The water of the river of Egypt is said to be at
+    its king''s disposal [neutral] [divergence between the texts]; A man brought before Pharaoh is afraid
+    and cannot speak [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
     heart, or Pharaoh and his people themselves [divergence between the texts]; The returning waters drown
-    the pursuing army; not one survives [divergence between the texts]; King invests the hero with ring,
-    linen and chariot; The king breaks his promise to release the people once a plague is lifted; and
-    2 more.'
+    the pursuing army; not one survives [divergence between the texts]; and 4 more.'
   basis: reading
 - text: '''I am YHWH'': the name not known to the patriarchs; genealogy of Moses and Aaron: tagged by
     Claude (model), reading the Hebrew.'

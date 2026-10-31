@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens his good storehouse, the heavens, to give rain (weight
-    5.3). Pair score 5.3.'
+    6.2). Pair score 6.2.'
   basis: reading
 - text: 'Only in Psalm 135, hymn on God''s power, election and the idols: Whatever YHWH pleases he does,
     in heaven, on earth, in the seas and all the deeps; God struck the firstborn of Egypt, of man and
@@ -35,12 +35,13 @@ evidence:
 - text: 'Only in Call to worship the Creator; the challenge; paradise and the gnat: God is not ashamed
     to strike a parable of a gnat or something smaller; Fruits in paradise resemble those of earth: ''this
     is what we were given before''; A challenge to rivals to prove a divine claim [divergence between
-    the texts]; God takes life and gives it again [divergence between the texts]; The people break the
-    covenant God made with them; Humans were dead, given life, will die and be given life again (two deaths,
-    two lives); God stretches out the heavens like a tent curtain; Hell''s fire has men and stones as
-    its fuel; The blessed have purified spouses (azwaj mutahhara) in paradise; God summons the coastlands
-    and nations (and their gods) to a court trial to argue their case; God fashions seven heavens; Inimitability
-    challenge: produce a surah like it, calling on your own witnesses (tahaddi); and 2 more.'
+    the texts]; In the hereafter the dead eat the like of what they ate on earth; God takes life and gives
+    it again [divergence between the texts]; The people break the covenant God made with them; Humans
+    were dead, given life, will die and be given life again (two deaths, two lives); God stretches out
+    the heavens like a tent curtain; Hell''s fire has men and stones as its fuel; The blessed have purified
+    spouses (azwaj mutahhara) in paradise; God summons the coastlands and nations (and their gods) to
+    a court trial to argue their case; The creator made heaven and earth, light, air and food ''for their
+    sake'' (n-jb =sn), for humankind; and 4 more.'
   basis: reading
 - text: 'Psalm 135, hymn on God''s power, election and the idols: tagged by Claude (model), reading the
     Hebrew.'

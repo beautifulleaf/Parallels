@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No burdened soul bears another''s burden; even a relative will not
-    carry any of it (weight 5.8); Each person dies for his own sin (weight 5.0). Pair score 10.8.'
+    carry any of it (weight 6.8); Each person dies for his own sin (weight 5.8). Pair score 12.6.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -32,17 +32,20 @@ evidence:
     husband divorces his wife [divergence between the texts]; At the end of the term, retain or part with
     them honorably, and call two just witnesses [divergence between the texts]; Whether a divorced wife
     may return to her first husband after another marriage [contrast between the texts]; Forgotten sheaf,
-    olive and grape gleanings left for stranger, orphan and widow; Forgotten sheaf, olive and grape gleanings
-    left for stranger, orphan and widow [contrast between the texts]; and 6 more.'
+    olive and grape gleanings left for stranger, orphan and widow [contrast between the texts]; Divorced
+    wife who remarried may not return to her first husband; and 6 more.'
   basis: reading
 - text: 'Only in No soul bears another''s burden; the blind and the seeing; the colors of creation: God
     brings forth fruits of varied colors, streaks in the mountains white, red and raven-black, and varied
     colors in people and beasts; There was no community but a warner passed among it; Only those of his
     servants who have knowledge truly fear God; Whether the seeing and the blind, light and darkness,
     end alike [divergence between the texts]; Whether one person (kin, descendants) bears another''s sin
-    [contrast between the texts]; Rhetorical question: are the blind and the seeing equal, or darkness
-    and light?; How the fear of God and knowledge are related [divergence between the texts]; The prophet
-    cannot make the dead or deaf hear, nor guide the blind.'
+    [contrast between the texts]; No burdened soul bears another''s burden; even a relative will not carry
+    any of it [divergence between the texts]; Rhetorical question: are the blind and the seeing equal,
+    or darkness and light?; How the fear of God and knowledge are related [divergence between the texts];
+    Whether a man can hear (obey) is given or withheld by the deity; The prophet cannot make the dead
+    or deaf hear, nor guide the blind; Whether one person''s guilt (a parent''s, another''s) comes upon
+    someone else [contrast between the texts].'
   basis: reading
 - text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

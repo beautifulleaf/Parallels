@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The trust of the godless is a spider''s house that will not stand
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Your sins have separated you; God arms himself: God''s covenant: his spirit and the words
     in the mouth will not depart from the mouth of the offspring forever; God puts on righteousness as
@@ -30,11 +30,11 @@ evidence:
     sins separate them from God and hide his face; Truth stumbles in the public square and uprightness
     cannot enter; whoever turns from evil is plundered; God sees that there is no man and no intercessor,
     so his own arm brings salvation; Do not be like the woman who unravels her yarn into strands after
-    spinning it strong; Madness, blindness and confusion; groping at noon like the blind in darkness;
-    and 2 more.'
+    spinning it strong; Leader doubts God can supply; God replies ''Is my hand too short?''; and 2 more.'
   basis: reading
 - text: 'Only in Parable of the spider''s house: Refrain ''among his signs (ayat) is...'' listing natural
-    phenomena as evidence of God.'
+    phenomena as evidence of God; The spider and its strength: it boasts it is the strongest, or its house
+    is the weakest of houses [divergence between the texts].'
   basis: reading
 - text: 'Your sins have separated you; God arms himself: tagged by Claude (model), reading the Hebrew.'
   basis: reading

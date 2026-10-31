@@ -22,8 +22,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence
-    between the texts] (weight 6.3); Hero''s father makes, sells or worships idols (weight 4.8). Pair
-    score 11.1.'
+    between the texts] (weight 7.3); Hero''s father makes, sells or worships idols (weight 5.9). Pair
+    score 13.2.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
@@ -44,10 +44,10 @@ evidence:
     a lofty ''tongue of truth'' (lasting renown); Worshipping idols is worshipping Satan, who rebelled
     against the Merciful; Abraham withdraws from his people and their gods and is given descendants [divergence
     between the texts]; The idolatrous father threatens to stone his son and banishes him [contrast between
-    the texts]; Isaac given, and Jacob in addition as an extra gift (nāfila); Refrain ''And mention in
-    the Book ...'' introducing a series of prophet portraits; Abraham prayed for his father''s forgiveness
-    only by a promise, and disowned him when he proved God''s enemy; Idols of wood and stone that cannot
-    see, hear, eat or smell.'
+    the texts]; The good man''s name endures in the mouths of later people; Isaac given, and Jacob in
+    addition as an extra gift (nāfila); Having eyes that do not see and ears that do not hear, said of
+    idols or of people; Refrain ''And mention in the Book ...'' introducing a series of prophet portraits;
+    and 2 more.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged
     by Claude (model), reading the Hebrew.'

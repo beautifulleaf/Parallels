@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A perpetual lamp fed with pure beaten olive oil (weight 6.3). Pair
-    score 6.3.'
+- text: 'Shared motifs, rarest first: A perpetual lamp fed with pure beaten olive oil (weight 7.3). Pair
+    score 7.3.'
   basis: reading
 - text: 'Only in Bronze altar, courtyard and lamp oil: Bronze-plated altar of burnt offering with a bronze
     grating; The altar is hollow, made of boards and carried with poles; The tabernacle court measures
@@ -36,10 +36,11 @@ evidence:
     light upon light; God sends down hail from mountains in the sky; the flash of his lightning nearly
     takes away sight; In houses God allowed to be raised, men undistracted by trade glorify him morning
     and evening; God created every beast from water: some go on their bellies, some on two legs, some
-    on four; Birds with outspread wings glorify God; each knows its prayer and praise; With God is the
-    fountain of life; in his light we see light; A lamp fed directly by an olive tree [divergence between
-    the texts]; A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil
-    through golden pipes; The mirage and the thirsty traveler [divergence between the texts]; and 8 more.'
+    on four; Birds in flight, wings spread, praise the deity; With God is the fountain of life; in his
+    light we see light; A lamp fed directly by an olive tree [divergence between the texts]; A golden
+    lampstand with seven lamps is flanked by two olive trees that pour golden oil through golden pipes;
+    The god titled ''light of heaven(s) and earth'' (nūr šamāmī u qaqqari / nūru l-samāwāti wa-l-arḍ),
+    and those deprived of light walk in darkness; and 12 more.'
   basis: reading
 - text: 'Bronze altar, courtyard and lamp oil: tagged by Claude (model), reading the Hebrew.'
   basis: reading

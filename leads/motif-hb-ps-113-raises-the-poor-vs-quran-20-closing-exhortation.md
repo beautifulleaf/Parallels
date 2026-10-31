@@ -14,22 +14,22 @@ layers:
 - motif
 motifs:
 - praised-from-sunrise-to-sunset-as-divergence
-- praised-from-sunrise-to-sunset
 - glorify-before-sunrise-and-sunset
+- praised-from-sunrise-to-sunset
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s name is praised from the rising of the sun to its setting
-    [divergence between the texts] (weight 6.7); God''s name is praised from the rising of the sun to
-    its setting (weight 6.7); Glorify your Lord before the rising of the sun and before its setting, in
-    the night and after prostrations (weight 6.3). Pair score 19.7.'
+    [divergence between the texts] (weight 7.7); Glorify your Lord before the rising of the sun and before
+    its setting, in the night and after prostrations (weight 7.3); God''s name is praised from the rising
+    of the sun to its setting (weight 6.8). Pair score 21.9.'
   basis: reading
 - text: 'Only in Psalm 113, God on high raises the poor and the barren: God settles the barren woman in
-    her home as a joyful mother of children; God raises the poor from the dust and the needy from the
-    dunghill to sit with princes; God sits enthroned on high yet stoops down to look on heaven and earth
-    and regards the lowly; ''Who is like you among the gods, YHWH?''; The cultic cry ''Hallelu-Yah'' (praise
-    Yah) closes or opens a psalm.'
+    her home as a joyful mother of children; God sits enthroned on high yet stoops down to look on heaven
+    and earth and regards the lowly; God raises the poor from the dust and the needy from the dunghill
+    to sit with princes; The cultic cry ''Hallelu-Yah'' (praise Yah) closes or opens a psalm; ''Who is
+    like you among the gods, YHWH?''.'
   basis: reading
 - text: 'Only in Destroyed generations, patience, prayer times and waiting: Appeal to ''the former scrolls''
     (al-ṣuḥuf al-ūlā) as evidence; Do not stretch your eyes toward the worldly splendor given to others

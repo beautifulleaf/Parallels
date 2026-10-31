@@ -20,8 +20,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Husband prays for his barren wife and she conceives (weight 6.3);
-    The patriarch''s wife is barren (weight 5.2). Pair score 11.5.'
+- text: 'Shared motifs, rarest first: Husband prays for his barren wife and she conceives (weight 7.3);
+    The patriarch''s wife is barren (weight 6.0). Pair score 13.4.'
   basis: reading
 - text: 'Only in Birth of Esau and Jacob; the sale of the birthright: Hungry elder brother sells his birthright
     for a dish of red lentil stew; Edom etymologized from the red (adom) stew; Firstborn twin born red
@@ -30,17 +30,17 @@ evidence:
     Twins struggle with each other in the womb; Oracle or blessing that the elder will serve the younger;
     Second twin born grasping his brother''s heel.'
   basis: reading
-- text: 'Only in Zechariah''s secret prayer and the birth of John (Surah 19:1-15): Old man''s prayer:
-    ''my bones have weakened and my head is aflame with gray''; The child is given judgment and wisdom
-    while still a boy; The aged father asks how he can have a son when his wife is barren and he is very
-    old; As a sign of the promised son the father cannot speak to people for three days or nights; The
-    announced son receives a name never given to anyone before; A petitioner calls to God in a hidden,
-    secret voice; The mute priest comes out of the sanctuary and signals to the people to glorify God;
-    The childless priest fears for his kinsmen after him and asks for an heir to the family of Jacob;
-    A divine messenger announces a son''s birth and gives his name [divergence between the texts]; The
-    prophet child is dutiful to his parent(s), not an arrogant tyrant; The aged father asks how he can
-    have a son when his wife is barren and he is very old [divergence between the texts]; ''Peace on him
-    the day he was born, the day he dies and the day he is raised alive''; and 6 more.'
+- text: 'Only in Zechariah''s secret prayer and the birth of John (Surah 19:1-15): The child is given
+    judgment and wisdom while still a boy; The aged father asks how he can have a son when his wife is
+    barren and he is very old; As a sign of the promised son the father cannot speak to people for three
+    days or nights; The announced son receives a name never given to anyone before; A petitioner calls
+    to God in a hidden, secret voice; The mute priest comes out of the sanctuary and signals to the people
+    to glorify God; The childless priest fears for his kinsmen after him and asks for an heir to the family
+    of Jacob; A divine messenger announces a son''s birth and gives his name [divergence between the texts];
+    Formula: ''from when you did not exist'' / ''when you were nothing''; Old man''s prayer: ''my bones
+    have weakened and my head is aflame with gray''; A childless man pleads with the deity for a son to
+    inherit from him and stand in his house, and is granted one; A childless man prays to his god for
+    an heir, recalling his past devotion; and 15 more.'
   basis: reading
 - text: 'Birth of Esau and Jacob; the sale of the birthright: tagged by Claude (model), reading the Hebrew.'
   basis: reading

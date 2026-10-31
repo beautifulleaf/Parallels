@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Nations distinguished by land, language and clan (weight 6.3). Pair
-    score 6.3.'
+- text: 'Shared motifs, rarest first: Nations distinguished by land, language and clan (weight 7.1). Pair
+    score 7.1.'
   basis: reading
 - text: 'Only in The Table of Nations: First kingdom founded in Babel and Shinar; Founding of Nineveh
     and the Assyrian cities; The world''s nations number about seventy; All nations listed as descendants
@@ -28,16 +28,16 @@ evidence:
     from Casluhim/Caphtorim (Crete).'
   basis: reading
 - text: 'Only in The Hour, the times of praise, and the signs of God: Everything in the heavens and the
-    earth is devoutly obedient (qanit) to God; The diversity of human languages and colors is one of God''s
-    signs; God created mates for humans from their own selves so they may find rest in them, with love
-    and mercy between them; God did not wrong them; they wronged themselves (refrain); At night the beasts
-    of the forest prowl and lions roar for prey; at sunrise they withdraw and man goes out to work till
-    evening; Why humans speak many languages [divergence between the texts]; Refrain ''among his signs
-    (ayat) is...'' listing natural phenomena as evidence of God; God shows lightning to inspire fear and
-    hope (of rain); How God made the human mate, and for what purpose [divergence between the texts];
-    God brings the living out of the dead and the dead out of the living; Glorify God in the evening,
-    morning, afternoon and noon (set times of praise or prayer); God originates creation and then repeats
-    it (resurrection as re-creation); and 4 more.'
+    earth is devoutly obedient (qanit) to God; God created mates for humans from their own selves so they
+    may find rest in them, with love and mercy between them; The many languages of mankind and the deity''s
+    part in them [divergence between the texts]; The diversity of human languages and colors is one of
+    God''s signs; God made human tongues different in speech and their skins (colours) distinct; God did
+    not wrong them; they wronged themselves (refrain); Go up on (travel through) the ruins of the ancients
+    and look: what the sight teaches [divergence between the texts]; Why humans speak many languages [divergence
+    between the texts]; Refrain ''among his signs (ayat) is...'' listing natural phenomena as evidence
+    of God; God shows lightning to inspire fear and hope (of rain); How God made the human mate, and for
+    what purpose [divergence between the texts]; God brings the living out of the dead and the dead out
+    of the living; and 7 more.'
   basis: reading
 - text: 'The Table of Nations: tagged by Claude (model), reading the Hebrew.'
   basis: reading

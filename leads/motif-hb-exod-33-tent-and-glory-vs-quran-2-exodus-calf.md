@@ -18,16 +18,16 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: No human can see God''s face and live (weight 5.8). Pair score 5.8.'
+- text: 'Shared motifs, rarest first: No human can see God''s face and live (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Mourning, the tent outside the camp, and Moses sees God''s back: God refuses to go among
     the people lest he consume them on the way; Joshua, the young attendant, never leaves the tent; God
-    tells the prophet: I know you by name and you have found favor; The people strip off their ornaments
-    in mourning or penitence; The people stand at their tent doors and bow as the prophet goes to meet
-    God; A tent of meeting pitched outside the camp where all who seek God go; God''s own Presence (face)
-    will go with the people; God declares he will be gracious to whom he will be gracious; Moses asks
-    to see God, his glory or God himself [divergence between the texts]; God called Moses and drew him
-    near in confidential converse (najiyy); Moses travels with his young servant (fata); After the calf
+    tells the prophet: I know you by name and you have found favor; The people stand at their tent doors
+    and bow as the prophet goes to meet God; A tent of meeting pitched outside the camp where all who
+    seek God go; God''s own Presence (face) will go with the people; God declares he will be gracious
+    to whom he will be gracious; Moses asks to see God, his glory or God himself [divergence between the
+    texts]; God called Moses and drew him near in confidential converse (najiyy); Moses travels with his
+    young servant (fata); The people strip off their ornaments in mourning or penitence; After the calf
     the people mourn or repent of what they did [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Exodus, the calf and the wilderness: Israelites who demanded to see God are struck by

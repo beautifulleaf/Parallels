@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foolish people who have eyes but do not see and ears but do not
-    hear (weight 5.4). Pair score 5.4.'
+    hear (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The sea''s sand boundary; houses full of deceit: The wicked lie in wait like fowlers
     setting traps; their houses are full of deceit like a cage full of birds; Prophets prophesy falsely,
-    priests rule by their direction, and the people love it so; God sets a boundary the sea may not pass,
-    so it will never again cover the earth; Accusation of oppressing the poor: taking pledges, stripping
-    the naked, denying water and bread, sending widows away empty; Refrain: ''Shall I not punish them
-    for these things? Shall I not avenge myself on such a nation?''; Obedience brings early and late rain;
+    priests rule by their direction, and the people love it so; Accusation of oppressing the poor: taking
+    pledges, stripping the naked, denying water and bread, sending widows away empty; Refrain: ''Shall
+    I not punish them for these things? Shall I not avenge myself on such a nation?''; God sets a boundary
+    the sea may not pass, so it will never again cover the earth; Obedience brings early and late rain;
     idolatry makes God shut up the heavens.'
   basis: reading
 - text: 'Only in Who provides and who restores creation; the challenge of the surah: The resurrected feel

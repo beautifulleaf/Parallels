@@ -21,30 +21,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A Quranic code of commandments resembling the Decalogue in content
-    [divergence between the texts] (weight 6.7); Give the kinsman, the poor and the wayfarer their due
-    (weight 6.3). Pair score 13.0.'
+    [divergence between the texts] (weight 7.7); Give the kinsman, the poor and the wayfarer their due
+    (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Be holy - ethical laws and love of neighbor: Do not stand idly by the blood of your neighbor;
-    Do not take vengeance or bear a grudge against your people; Do not hate your brother in your heart;
-    rebuke your neighbor instead; Each person must revere mother and father; Command ''You shall be holy,
-    for I am holy''; Fulfill God''s covenant and do not break oaths after confirming them or use them
-    for deceit; Love your neighbor as yourself; Do not curse the deaf or put a stumbling block before
-    the blind; Sacrificial meat eaten on the third day is abhorrent (piggul) and the offering is invalid;
-    The share of the poor in the owner''s harvest or wealth [divergence between the texts]; If you retaliate,
-    do so in kind; but patience is better; Corners of the field, gleanings and fallen grapes left for
-    the poor and the stranger; and 5 more.'
+    Do not hate your brother in your heart; rebuke your neighbor instead; Each person must revere mother
+    and father; Command ''You shall be holy, for I am holy''; Fulfill God''s covenant and do not break
+    oaths after confirming them or use them for deceit; Love your neighbor as yourself; Do not take vengeance
+    or bear a grudge against your people; Sacrificial meat eaten on the third day is abhorrent (piggul)
+    and the offering is invalid; The share of the poor in the owner''s harvest or wealth [divergence between
+    the texts]; If you retaliate, do so in kind; but patience is better; Forgotten sheaf, olive and grape
+    gleanings left for stranger, orphan and widow [contrast between the texts]; Pay the poor hired worker
+    before sunset; and 5 more.'
   basis: reading
 - text: 'Only in The code of commandments (Surah 17:22-39): A Quranic code of commandments resembling
     the Decalogue in content; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently;
     Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height; Do
-    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Do not kill
-    the soul God has made sacred except by right; Lower the wing of humility to parents and pray ''Lord,
-    have mercy on them as they raised me when small''; Squanderers are brothers of the devils; Sexual
-    relations with a neighbor''s wife are forbidden [divergence between the texts]; Do not pursue what
-    you have no knowledge of; hearing, sight and heart will be questioned; Do not kill your children for
-    fear of poverty; God provides for them and you; Do not kill the soul God has made sacred except by
-    right [divergence between the texts]; No other gods before YHWH [divergence between the texts]; and
-    9 more.'
+    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Lower the
+    wing of humility to parents and pray ''Lord, have mercy on them as they raised me when small''; Squanderers
+    are brothers of the devils; Sexual relations with a neighbor''s wife are forbidden [divergence between
+    the texts]; Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned;
+    Do not kill your children for fear of poverty; God provides for them and you; Do not speak harshly
+    or arrogantly to your parent; A decreed order includes reverence and humility toward father and mother
+    [divergence between the texts]; Not to speak against or complain of one''s father or parents; and
+    21 more.'
   basis: reading
 - text: 'Be holy - ethical laws and love of neighbor: tagged by Claude (model), reading the Hebrew.'
   basis: reading

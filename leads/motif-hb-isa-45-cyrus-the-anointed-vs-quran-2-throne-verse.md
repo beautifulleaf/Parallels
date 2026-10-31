@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Declaration that YHWH is God and there is no other besides him (weight
-    5.1). Pair score 5.1.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -38,13 +38,14 @@ evidence:
   basis: reading
 - text: 'Only in Ranks of the messengers and the Throne Verse: God''s footstool or seat (kursi) extends
     over the heavens and the earth; No compulsion in religion; Neither slumber nor sleep overtakes God;
-    God''s throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false
-    gods (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber
-    or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day
-    comes with no trade, no friendship and no intercession; The temple as a house of rest for the ark
-    and the footstool of God''s feet; Jesus son of Mary given clear signs and supported with the holy
-    spirit (ruh al-qudus); Israel''s God is called ''the living God, enduring forever, whose kingdom shall
-    never be destroyed''; God ranked some messengers above others; to some God spoke; and 4 more.'
+    Whether the deity sleeps [divergence between the texts]; Whether the deity sleeps [response between
+    the texts]; A divine object is measured against heaven and earth: the heavens too small for the god''s
+    cup, or his seat (kursī) spanning the heavens and the earth [divergence between the texts]; God''s
+    throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false gods
+    (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber or
+    sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day comes
+    with no trade, no friendship and no intercession; The temple as a house of rest for the ark and the
+    footstool of God''s feet; and 13 more.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

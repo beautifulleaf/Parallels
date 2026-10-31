@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who has power to give life and death [contrast between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Naaman healed of leprosy; Gehazi''s greed: Prophet sends word to wash seven times in
     the Jordan; the foreigner is cured; A captive Israelite servant girl tells her foreign mistress that
@@ -34,9 +34,14 @@ evidence:
   basis: reading
 - text: 'Only in Abraham disputes with the king: Abraham challenges the king: God brings the sun from
     the east, so bring it from the west; the king is confounded; Abraham disputes with a king, who claims
-    ''I give life and death''; Nations and kings of the earth conspire against YHWH and his anointed (mashiah);
-    Who has power to give life and death [divergence between the texts]; I kill and I make alive, I wound
-    and I heal; there is no god beside me.'
+    ''I give life and death''; The rising of the sun is tied to a king, in speech addressed to him [neutral]
+    [divergence between the texts]; A king is asked to give life, or claims to give life; Nations and
+    kings of the earth conspire against YHWH and his anointed (mashiah); Who has power to give life and
+    death [divergence between the texts]; A ruler holds the power to kill and to keep alive, and to bring
+    down the strong and raise the low [divergence between the texts]; Who rules or commands the rising
+    and the setting of the sun, in speech about a king [divergence between the texts]; Who is said to
+    give life and cause death, in speech to or about a king [neutral] [divergence between the texts];
+    I kill and I make alive, I wound and I heal; there is no god beside me.'
   basis: reading
 - text: 'Naaman healed of leprosy; Gehazi''s greed: tagged by Claude (model), reading the Hebrew.'
   basis: reading

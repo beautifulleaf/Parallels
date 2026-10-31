@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A seer who receives divine revelation (Balaam in the exegesis of
-    Q 7:175) [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    Q 7:175) [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Balaam''s third and fourth oracles; the Star from Jacob; oracles against nations: Israel
     likened to gardens by a river, aloes planted by YHWH, cedars by water; ''How goodly are your tents,
@@ -33,9 +33,10 @@ evidence:
   basis: reading
 - text: 'Only in The man who sloughed off God''s signs (the panting dog): A man given God''s signs sloughs
     them off, clings to the earth and follows his desire; Parable: like a dog that pants whether you chase
-    it or leave it; A ''satan'' on the seer''s way: God''s adversary-angel or the tempter [divergence
-    between the texts]; Foreign seer blamed for advising the seduction that led to apostasy; A seer faced
-    with payment or worldly gain [contrast between the texts].'
+    it or leave it; A dog that is driven off and behaves the same again, as a parable of the incorrigible
+    [divergence between the texts]; A ''satan'' on the seer''s way: God''s adversary-angel or the tempter
+    [divergence between the texts]; Foreign seer blamed for advising the seduction that led to apostasy;
+    A seer faced with payment or worldly gain [contrast between the texts].'
   basis: reading
 - text: 'Balaam''s third and fourth oracles; the Star from Jacob; oracles against nations: tagged by Claude
     (model), reading the Hebrew.'

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has not given the people a heart to know, eyes to see, ears
-    to hear until today [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    to hear until today [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -26,20 +26,21 @@ evidence:
     terebinth or oak whose stump is the holy seed; At the heavenly voice the doorposts shake and the house
     fills with smoke; Prophet sees the Lord seated on a high and lifted-up throne, his train filling the
     temple; Heavenly beings call ''Holy, holy, holy is YHWH of hosts; the whole earth is full of his glory'';
-    God asks ''Whom shall I send, and who will go for us?'' and the prophet volunteers ''Here am I, send
-    me''; Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The
-    angels say: each of us has a known station; we are ranged in ranks; we glorify; Hardening of the heart,
-    ears and eyes of the hearers [divergence between the texts]; God is ''Lord of the mighty Throne''
-    (rabb al-''arsh al-''azim); The prophet''s word and a people deaf and blind to it [divergence between
-    the texts]; and 11 more.'
+    Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The angels
+    say: each of us has a known station; we are ranged in ranks; we glorify; Hardening of the heart, ears
+    and eyes of the hearers [divergence between the texts]; God is ''Lord of the mighty Throne'' (rabb
+    al-''arsh al-''azim); The prophet''s word and a people deaf and blind to it [divergence between the
+    texts]; A revealed surah increases believers in faith and the sick-hearted in filth; and 11 more.'
   basis: reading
 - text: 'Only in Deaf and dumb beasts, heart and trial: God gives the God-fearing a furqan (criterion
     / deliverance); God comes between a man and his heart; The arrogant elite confront the weak (mustad''afun)
-    who believed the prophet; God has not given the people a heart to know, eyes to see, ears to hear
-    until today; Whether punishment strikes the innocent together with the guilty [contrast between the
-    texts]; The king''s heart is like channels of water in YHWH''s hand; he turns it wherever he wishes;
-    Wealth and children are a trial (fitna); The heedless are like cattle, or even more astray; A foolish
-    people who have eyes but do not see and ears but do not hear.'
+    who believed the prophet; A destroying calamity does not single out the wrongdoers but strikes all;
+    A destroying calamity does not single out the wrongdoers but strikes all [divergence between the texts];
+    God has not given the people a heart to know, eyes to see, ears to hear until today; Whether punishment
+    strikes the innocent together with the guilty [contrast between the texts]; The king''s heart is like
+    channels of water in YHWH''s hand; he turns it wherever he wishes; Whether a man can hear (obey) is
+    given or withheld by the deity; Wealth and children are a trial (fitna); The heedless are like cattle,
+    or even more astray; A foolish people who have eyes but do not see and ears but do not hear.'
   basis: reading
 - text: 'The throne vision and the call of Isaiah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -32,7 +32,7 @@ passages:
     أَوْ نَتَّخِذَهُۥ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ
     ٱلْأَحَادِيثِ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 evidence:
-- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
     longer meet the thresholds after a method change. Kept for review.'
   basis: original
 - text: 'Shared motifs, rarest first: Foster parent says: perhaps he will benefit us, or we will take

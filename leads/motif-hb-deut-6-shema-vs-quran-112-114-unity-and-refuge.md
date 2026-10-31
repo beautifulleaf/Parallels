@@ -19,30 +19,29 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score
-    5.4.'
+- text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 6.5). Pair score
+    6.5.'
   basis: reading
 - text: 'Only in The Shema and the instruction to teach: When your son asks what the laws mean, recite
-    the exodus story; Swear only by God''s name; Teach the words to your children when sitting, walking,
-    lying down and rising; Words bound as a sign on the hand and between the eyes (phylacteries); Do not
-    put God to the test as at Massah; When you eat and are full, beware lest you forget God; Words written
-    on doorposts and gates (mezuzah); Israel will inherit cities, houses, cisterns, vineyards and olives
-    they did not build or plant; Love God with all your heart, soul and might; Those who remember God
-    standing, sitting and on their sides and reflect on creation; Promised land described as flowing with
-    milk and honey.'
+    the exodus story; Words bound as a sign on the hand and between the eyes (phylacteries); Do not put
+    God to the test as at Massah; Swear only by God''s name; When you eat and are full, beware lest you
+    forget God; Words written on doorposts and gates (mezuzah); Israel will inherit cities, houses, cisterns,
+    vineyards and olives they did not build or plant; Those who remember God standing, sitting and on
+    their sides and reflect on creation; Teach the words to your children when sitting, walking, lying
+    down and rising; Love God with all your heart, soul and might; Promised land described as flowing
+    with milk and honey.'
   basis: reading
 - text: 'Only in Sincerity, daybreak and mankind: God''s unity and the two refuges: Refuge from the evil
     of darkness (or the moon) when it settles (ghasiq idha waqab); Refuge from the evil of an envier when
     he envies (evil eye); God is al-Samad (the Eternal Refuge, the solid one who needs nothing); Triple
     title: Lord of mankind, King of mankind, God of mankind; Refuge from the evil of the slinking whisperer
-    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; God does not beget
-    and was not begotten; God does not beget and was not begotten [contrast between the texts]; Protection
-    from the terror of the night, the arrow by day, the pestilence (dever) stalking in darkness and Qeteb
-    that ravages at noon; Protective formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi)
-    against named evils; Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-''uqad),
-    i.e. knot-tying sorcery; Psalm used as protection against demons and harm (later amulet and ''song
-    of plagues''); Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the
-    Throne, the Glorious, doer of what he wills; or Lord, King, God of mankind); and 2 more.'
+    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; Calling on a divine
+    name or seeking refuge with God protects a person in the dark of night; God does not beget and was
+    not begotten [contrast between the texts]; A deity is called king of (all) mankind; Protection against
+    beings or evil of the night, invoked with the coming of dawn; Protective formula ''Say: I seek refuge
+    with the Lord of...'' (qul a''udhu bi-rabbi) against named evils; Sorcery is done by binding or knotting;
+    Witchcraft worked by a (female) witch through knots or bonds, from which release or refuge is sought;
+    and 10 more.'
   basis: reading
 - text: 'The Shema and the instruction to teach: tagged by Claude (model), reading the Hebrew.'
   basis: reading

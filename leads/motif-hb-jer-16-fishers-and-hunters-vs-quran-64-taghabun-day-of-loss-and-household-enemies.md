@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 5.0). Pair score
-    5.0.'
+- text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 6.0). Pair score
+    6.0.'
   basis: reading
 - text: 'Only in A new exodus from the north; fishers and hunters: God sends many fishers to fish them
     out and then many hunters to hunt them from every mountain and cleft of rock; Appeal to the religion
@@ -38,12 +38,11 @@ evidence:
     except by God''s leave; whoever believes, God guides his heart; Unbelievers rejected their messengers
     saying ''Shall mere humans guide us?''; God created you, and among you are unbelievers and believers;
     Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a man''s
-    enemies are his own household; Son dishonors father, daughter rises against mother, daughter-in-law
-    against mother-in-law; a man''s enemies are his own household [divergence between the texts]; God
-    shaped you and made your forms good (sawwarakum fa-ahsana suwarakum); The poor emigrants and the hosts
-    who prefer others over themselves even in need; whoever is saved from his own greed succeeds; The
-    Day of Gathering (yawm al-jam'') when all humanity is assembled; one party to the Garden, one to the
-    Blaze; Wealth and children are a trial (fitna); and 6 more.'
+    enemies are his own household [divergence between the texts]; God shaped you and made your forms good
+    (sawwarakum fa-ahsana suwarakum); Human beings as the creator''s images or as forms he fashioned [neutral]
+    [divergence between the texts]; The poor emigrants and the hosts who prefer others over themselves
+    even in need; whoever is saved from his own greed succeeds; A man''s own child is his enemy; One''s
+    wife or child can be one''s worst affliction or enemy; and 10 more.'
   basis: reading
 - text: 'A new exodus from the north; fishers and hunters: tagged by Claude (model), reading the Hebrew.'
   basis: reading

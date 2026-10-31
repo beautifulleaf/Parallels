@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God speaks to the prophet face to face, as a man speaks to his friend
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Death and burial of Moses: Moses dies ''by the mouth of YHWH'' (al pi YHWH); At death
-    his eye was not dim nor his vigor abated; God (he) buries the prophet; no one knows his grave to this
-    day; Successor filled with spirit of wisdom through laying on of hands; No prophet arose again like
-    Moses whom God knew face to face; From Nebo/Pisgah God shows Moses the whole land from Gilead to Dan
-    to the western sea; Moses is 120 years old; Thirty days of mourning for a leader; Leader shown the
-    whole land from a mountaintop but may not enter.'
+    his eye was not dim nor his vigor abated; Successor filled with spirit of wisdom through laying on
+    of hands; No prophet arose again like Moses whom God knew face to face; From Nebo/Pisgah God shows
+    Moses the whole land from Gilead to Dan to the western sea; God (he) buries the prophet; no one knows
+    his grave to this day; Moses is 120 years old; Thirty days of mourning for a leader; Leader shown
+    the whole land from a mountaintop but may not enter.'
   basis: reading
 - text: 'Only in The chain of revelation; Jesus, word and spirit; ''say not three'': The angels brought
     near (al-muqarrabūn) to God; God spoke to Moses directly (kallama taklīman); Jesus is God''s word

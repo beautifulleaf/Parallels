@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A believing man of Pharaoh''s family who concealed his faith defends
-    Moses: ''Will you kill a man for saying my Lord is God?'' (weight 6.3). Pair score 6.3.'
+    Moses: ''Will you kill a man for saying my Lord is God?'' (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Plague 7: hail and fire: Narrator dates a plague by the growth stage of named crops (barley
     in ear, flax in bud, wheat late); Some of the king''s servants fear God''s word and bring their slaves
@@ -28,8 +28,8 @@ evidence:
     that strikes Egypt; Pharaoh acknowledges Israel''s God or his own sin, and what follows [divergence
     between the texts]; The king confesses he has sinned and that God is righteous; Who causes Pharaoh''s
     refusal: God hardening his heart, or Pharaoh and his people themselves; Wonder done ''so that you
-    may know that the earth belongs to YHWH''; God sends hail mingled with fire and thunder from heaven;
-    The king breaks his promise to release the people once a plague is lifted; and 4 more.'
+    may know that the earth belongs to YHWH''; The king breaks his promise to release the people once
+    a plague is lifted; King asks the prophet to intercede with God to remove a plague; and 4 more.'
   basis: reading
 - text: 'Only in Moses, Pharaoh, Haman and the believer of Pharaoh''s family: The damned ask the keepers
     of hell to pray their Lord to lighten the punishment by a day; they are told ''then pray yourselves'';

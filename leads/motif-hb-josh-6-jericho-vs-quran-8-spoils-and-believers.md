@@ -20,22 +20,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The spoils of war (anfal) belong to God and the messenger (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Fall of Jericho; Rahab spared; curse on the rebuilder: The ark goes before the army in
-    battle or procession; A conquered city is burned with fire; A besieged city is circled once a day
-    for six days and seven times on the seventh; The harlot who hid the spies is spared with her family
-    when the city falls; The army must keep total silence until the leader gives the signal to shout;
-    Captured silver, gold, bronze and iron are holy, for the treasury of YHWH; Seven priests blow seven
-    rams'' horns before the ark; City walls collapse at a trumpet blast and a great shout; Curse that
-    whoever rebuilds the destroyed city will lose his firstborn and youngest sons; No host from heaven
-    was needed: a single Shout (sayha) and they were extinguished; Ban (herem): total destruction of a
-    conquered population.'
+- text: 'Only in Fall of Jericho; Rahab spared; curse on the rebuilder: A besieged city is circled once
+    a day for six days and seven times on the seventh; The harlot who hid the spies is spared with her
+    family when the city falls; The army must keep total silence until the leader gives the signal to
+    shout; Captured silver, gold, bronze and iron are holy, for the treasury of YHWH; Seven priests blow
+    seven rams'' horns before the ark; City walls collapse at a trumpet blast and a great shout; The ark
+    goes before the army in battle or procession; Curse that whoever rebuilds the destroyed city will
+    lose his firstborn and youngest sons; No host from heaven was needed: a single Shout (sayha) and they
+    were extinguished; A conquered city is burned with fire; Ban (herem): total destruction of a conquered
+    population.'
   basis: reading
 - text: 'Only in The question of spoils and the marks of true believers: True believers'' hearts tremble
-    when God is mentioned and their faith grows when his verses are recited; God''s share of the spoils
-    of war [divergence between the texts]; Returning warriors divide the spoil with their brothers at
-    home; Those who tremble at God''s word (haredim) gather to the leader.'
+    when God is mentioned and their faith grows when his verses are recited; Who owns the booty taken
+    in battle [contrast between the texts]; God''s share of the spoils of war [divergence between the
+    texts]; Returning warriors divide the spoil with their brothers at home; Those who tremble at God''s
+    word (haredim) gather to the leader.'
   basis: reading
 - text: 'Fall of Jericho; Rahab spared; curse on the rebuilder: tagged by Claude (model), reading the
     Hebrew.'

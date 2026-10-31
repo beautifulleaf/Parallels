@@ -13,16 +13,16 @@ traditions:
 layers:
 - motif
 motifs:
-- no-one-repents-what-have-i-done-as-contrast
 - no-one-repents-what-have-i-done
+- no-one-repents-what-have-i-done-as-contrast
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one repents of his evil, saying ''What have I done?''; each rushes
-    on like a horse charging into battle [contrast between the texts] (weight 6.7); No one repents of
-    his evil, saying ''What have I done?''; each rushes on like a horse charging into battle (weight 6.7).
-    Pair score 13.4.'
+    on like a horse charging into battle (weight 7.7); No one repents of his evil, saying ''What have
+    I done?''; each rushes on like a horse charging into battle [contrast between the texts] (weight 7.7).
+    Pair score 15.5.'
   basis: reading
 - text: 'Only in The stork knows its seasons; the lying pen of the scribes: The stork, turtledove, swift
     and crane know their seasons of migration, but God''s people do not know his law; When God comes to
@@ -36,14 +36,15 @@ evidence:
     as if he killed all humanity; whoever saves one, as if he saved all; The victim wishes the murderer
     to bear both the victim''s sin and his own; God sends a raven scratching the earth to show how to
     hide a brother''s corpse; The threatened brother refuses to raise his hand to kill in return, out
-    of fear of God; Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s
-    image [divergence between the texts]; What the earth does with the murdered brother: takes in his
-    blood, or hides his corpse [divergence between the texts]; A brother kills his brother in the first
-    murder [divergence between the texts]; The first murderer''s lament after the deed [divergence between
-    the texts]; God accepts one brother''s offering and rejects the other''s; God accepts one brother''s
-    offering and rejects the other''s [divergence between the texts]; Before the first murder the killer
-    is warned (by God or by the victim) [divergence between the texts]; Whoever sheds human blood, by
-    man shall his blood be shed, because humans bear God''s image; and 1 more.'
+    of fear of God; A bird stands at the burial of a murdered man''s remains (eagles that ate him are
+    opened; a raven shows how to bury him) [divergence between the texts]; Whoever sheds human blood,
+    by man shall his blood be shed, because humans bear God''s image [divergence between the texts]; What
+    the earth does with the murdered brother: takes in his blood, or hides his corpse [divergence between
+    the texts]; A prohibition of killing that carves out an exception for the rebel or the corrupter in
+    the land [neutral] [divergence between the texts]; A brother kills his brother in the first murder
+    [divergence between the texts]; The killer weeps or laments after the murder; The first murderer''s
+    lament after the deed [divergence between the texts]; God accepts one brother''s offering and rejects
+    the other''s; and 8 more.'
   basis: reading
 - text: 'The stork knows its seasons; the lying pen of the scribes: tagged by Claude (model), reading
     the Hebrew.'

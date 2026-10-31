@@ -23,9 +23,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eat of the sacrificial animals and feed the wretched poor and the
-    needy (weight 6.7); Who must make pilgrimage to the sanctuary, and how often [divergence between the
-    texts] (weight 6.3); Three annual pilgrimage festivals when every male appears before God (weight
-    5.3). Pair score 18.3.'
+    needy (weight 7.7); Who must make pilgrimage to the sanctuary, and how often [divergence between the
+    texts] (weight 7.3); Three annual pilgrimage festivals when every male appears before God (weight
+    6.4). Pair score 21.4.'
   basis: reading
 - text: 'Only in Passover, Weeks, Booths; judges; no Asherah: Unleavened bread, bread of affliction, because
     you left Egypt in haste; Justice, justice shall you pursue; No Asherah tree planted beside God''s
@@ -48,9 +48,9 @@ evidence:
     at the site of the House and told him to purify it for those who circle, stand, bow and prostrate;
     Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; God
     appointed for every community a rite of sacrifice (mansak); What is done with the blood of sacrifices,
-    and whether it reaches God [divergence between the texts]; A place recognized as the house of God
-    and gate of heaven; Who chose or founded the single sanctuary of sacrifice, and when [divergence between
-    the texts]; and 4 more.'
+    and whether it reaches God [divergence between the texts]; Whether the deity eats (receives) the food
+    and drink of the offerings [divergence between the texts]; The deity shows or assigns to the builder
+    the site (old foundation) of the deity''s house; and 13 more.'
   basis: reading
 - text: 'Passover, Weeks, Booths; judges; no Asherah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

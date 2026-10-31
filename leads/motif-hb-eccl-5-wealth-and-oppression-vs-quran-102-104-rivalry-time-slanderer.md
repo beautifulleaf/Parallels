@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Riches kept by their owner to his hurt, lost in a bad venture, so
-    that his son has nothing in hand (weight 6.3). Pair score 6.3.'
+    that his son has nothing in hand (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Bureaucratic oppression, the love of money and wealth that perishes: He will not much
     remember the days of his life because God keeps him occupied with the joy of his heart; When goods
@@ -37,10 +37,11 @@ evidence:
     closed over them in extended columns; Oath by time or the afternoon (al-''asr): humankind is in loss;
     Rivalry in piling up (al-takathur) distracts people until they visit the graves; they will be asked
     about the pleasures; A fire is closed over the damned (mu''sada); Hell given proper names: Laza (scalp-stripper),
-    Saqar (scorcher, leaves nothing), al-Hutama (the crusher), Hawiya (the abyss); Do not go about as
-    a talebearer among your people; Woe to every slanderer and backbiter (humaza lumaza) who amasses and
-    counts wealth, thinking it makes him immortal; Rhetorical formula ''And what will make you know what
-    X is?'' (wa ma adraka ma) introducing an eschatological term.'
+    Saqar (scorcher, leaves nothing), al-Hutama (the crusher), Hawiya (the abyss); The evil is shut in
+    below under a closed cover; Do not go about as a talebearer among your people; Woe to every slanderer
+    and backbiter (humaza lumaza) who amasses and counts wealth, thinking it makes him immortal; Wealth
+    does not profit on the day of wrath; Rhetorical formula ''And what will make you know what X is?''
+    (wa ma adraka ma) introducing an eschatological term.'
   basis: reading
 - text: 'Bureaucratic oppression, the love of money and wealth that perishes: tagged by Claude (model),
     reading the Hebrew.'

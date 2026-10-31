@@ -18,16 +18,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God musters his consecrated ones and mighty men; a host from the
-    end of heaven, the weapons of his wrath (weight 6.7). Pair score 6.7.'
+    end of heaven, the weapons of his wrath (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Oracle against Babylon; the Day of YHWH darkens the heavens: Babylon, glory of kingdoms,
     will be overthrown like Sodom and Gomorrah; Wordplay: the Day comes ''like destruction (shod) from
     Shaddai''; God makes the heavens tremble and the earth shake from its place on the day of his wrath;
     God makes mortals rarer than fine gold, humans than the gold of Ophir; God stirs up the Medes, who
-    care nothing for silver or gold; Ruined city never reinhabited, even by Arab tents or shepherds; inhabited
-    by desert creatures, ostriches, jackals and dancing goat-demons (se''irim); The quake of the Hour:
-    every nursing mother forgets her suckling, every pregnant one miscarries, people seem drunk though
-    not drunk; Stars and constellations (kesilim) give no light, the sun is dark at its rising and the
+    care nothing for silver or gold; The quake of the Hour: every nursing mother forgets her suckling,
+    every pregnant one miscarries, people seem drunk though not drunk; Ruined city never reinhabited,
+    even by Arab tents or shepherds; inhabited by desert creatures, ostriches, jackals and dancing goat-demons
+    (se''irim); Stars and constellations (kesilim) give no light, the sun is dark at its rising and the
     moon does not shine; The people''s terror is like the pangs of a woman in labor with her first child;
     Oracle headed ''massa'' (burden) against a named nation or place; The Day of YHWH: a coming day of
     divine judgment, terror and darkness; Brief oracles against neighboring nations (Amalek, Kenite, Asshur,
@@ -41,7 +41,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 17 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 25 more.'
   basis: reading
 - text: 'Oracle against Babylon; the Day of YHWH darkens the heavens: tagged by Claude (model), reading
     the Hebrew.'

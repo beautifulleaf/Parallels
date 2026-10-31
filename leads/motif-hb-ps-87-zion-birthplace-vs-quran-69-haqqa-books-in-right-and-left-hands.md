@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
-    are blotted (weight 4.6). Pair score 4.5.'
+    are blotted (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Psalm 87, Zion mother of nations; this one was born there: Singers and dancers declare
     ''All my springs are in you'' (Zion as source of waters); Zion''s foundation is on the holy mountains;
@@ -39,10 +39,10 @@ evidence:
     seized him by the right hand and cut his aorta (watin); ''I swear by what you see and what you do
     not see''; ''Seize him, fetter him, roast him in hellfire, then thread him on a chain seventy cubits
     long''; ''This is the certain truth'' (haqq al-yaqin); Reclining on couches lined with brocade, with
-    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; God
-    keeps a book in which names are written and from which sinners are blotted [divergence between the
-    texts]; Kings bound with chains and nobles with fetters of iron to execute ''the judgment written'';
-    and 5 more.'
+    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; An offence
+    concerning food is repaid with foul food and drink [divergence between the texts]; God keeps a book
+    in which names are written and from which sinners are blotted [divergence between the texts]; and
+    8 more.'
   basis: reading
 - text: 'Psalm 87, Zion mother of nations; this one was born there: tagged by Claude (model), reading
     the Hebrew.'

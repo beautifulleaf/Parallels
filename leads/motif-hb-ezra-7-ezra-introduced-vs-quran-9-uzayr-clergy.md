@@ -19,22 +19,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The standing of Ezra (ʿUzayr): scribe or son of God [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ezra''s priestly lineage and journey to Jerusalem: The journey from Babylon to Jerusalem
-    takes four months, first to fifth month; The king grants the hero everything he asks; A priest''s
-    genealogy traced back to Aaron the chief priest; The scribe set his heart to seek (study) the Torah,
-    to do it and to teach it; Hero called a skilled scribe (sofer mahir) in the Torah of Moses; Success
-    attributed to ''the good hand of my God upon me''.'
+    takes four months, first to fifth month; A priest''s genealogy traced back to Aaron the chief priest;
+    The scribe set his heart to seek (study) the Torah, to do it and to teach it; Hero called a skilled
+    scribe (sofer mahir) in the Torah of Moses; Success attributed to ''the good hand of my God upon me'';
+    The king grants the hero everything he asks.'
   basis: reading
 - text: 'Only in ''Uzayr and the Messiah called sons of God; rabbis and monks as lords: Polemic: the Jews
     are said to call ''Uzayr (Ezra?) son of God; People of the Book took their rabbis (ahbar) and monks
-    as lords besides God; Many rabbis and monks devour people''s wealth wrongfully; Whether God has a
-    son, or calls his anointed king his begotten son [response between the texts]; Opponents wish to put
-    out God''s light with their mouths, but God will perfect his light; Hoarded gold and silver are heated
-    in hell and used to brand the hoarders'' foreheads, sides and backs; Polemic against calling the Messiah
-    son of God; God sent his messenger with guidance and the religion of truth to make it prevail over
-    all religion; A bribe blinds the clear-sighted and perverts the words of the righteous.'
+    as lords besides God; Religious personnel eat up goods that are not theirs (the god''s offerings,
+    people''s wealth) [divergence between the texts]; Many rabbis and monks devour people''s wealth wrongfully;
+    Whether God has a son, or calls his anointed king his begotten son [response between the texts]; Opponents
+    wish to put out God''s light with their mouths, but God will perfect his light; Hoarded gold and silver
+    are heated in hell and used to brand the hoarders'' foreheads, sides and backs; Silver is hidden away:
+    wrapped in rags, sealed in jars and boxes and buried in a hole in the cattle-pen or a dark corner
+    of the house; Polemic against calling the Messiah son of God; God sent his messenger with guidance
+    and the religion of truth to make it prevail over all religion; A bribe blinds the clear-sighted and
+    perverts the words of the righteous.'
   basis: reading
 - text: 'Ezra''s priestly lineage and journey to Jerusalem: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -13,41 +13,43 @@ traditions:
 layers:
 - motif
 motifs:
-- creation-by-separation
 - every-living-thing-from-water-as-divergence
 - heaven-earth-joined-then-parted-as-divergence
 - every-living-thing-from-water
+- creation-by-separation
 - luminaries-rule-day-night
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Creation proceeds by dividing (light/darkness, waters above/below)
-    (weight 6.7); God made every living thing from water [divergence between the texts] (weight 6.7);
-    The heavens and earth were a closed-up mass (ratq) that God split apart (fatq) [divergence between
-    the texts] (weight 6.7); God made every living thing from water (weight 6.3); Sun and moon are set
-    to rule day and night and mark signs and seasons (weight 4.7). Pair score 31.1.'
+- text: 'Shared motifs, rarest first: God made every living thing from water [divergence between the texts]
+    (weight 7.7); The heavens and earth were a closed-up mass (ratq) that God split apart (fatq) [divergence
+    between the texts] (weight 7.7); God made every living thing from water (weight 7.3); Creation proceeds
+    by dividing (light/darkness, waters above/below) (weight 7.1); Sun and moon are set to rule day and
+    night and mark signs and seasons (weight 5.5). Pair score 35.4.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Deity rests on the seventh day
-    after creating, and sanctifies it [divergence between the texts]; A divine wind or spirit hovers or
-    moves over the primeval waters; God speaks to heavenly beings about making man [divergence between
-    the texts]; The form God gave humans at creation [divergence between the texts]; Whether humans bear
-    God''s likeness, or nothing is like him [contrast between the texts]; Sun and moon are set to rule
-    day and night and mark signs and seasons [divergence between the texts]; Night and day are two signs;
-    the sign of night is effaced and that of day made bright for reckoning years; and 23 more.'
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
+    between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God speaks to
+    heavenly beings about making man [divergence between the texts]; The form God gave humans at creation
+    [divergence between the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast
+    between the texts]; Sun and moon are set to rule day and night and mark signs and seasons [divergence
+    between the texts]; Night and day are two signs; the sign of night is effaced and that of day made
+    bright for reckoning years; The office given to humans on earth at creation [divergence between the
+    texts]; The order of creating heaven and earth and the days allotted to each [divergence between the
+    texts]; and 23 more.'
   basis: reading
-- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: The heavens and earth
-    were a closed-up mass (ratq) that God split apart (fatq); Man was created of haste; God comes to the
-    land, reducing it from its outlying parts; God gave Moses and Aaron the Criterion (al-furqān), a light
-    and reminder; God made the sky a protected roof; ''Let God weigh me in just balances and know my integrity''
-    [divergence between the texts]; Just scales are set up on the day of resurrection; even a mustard
-    seed''s weight is brought forth; ''Let God weigh me in just balances and know my integrity''; Sun
-    and moon each swim in an orbit (falak); Every soul shall taste death; God set firm mountains on the
-    earth lest it sway with people; The people mock God''s messengers, despise his words and scoff at
-    his prophets.'
+- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: Man was created of
+    haste; A balance set upright / just balances set up for the judgment; God comes to the land, reducing
+    it from its outlying parts; Whether a human, such as the flood hero, is granted eternal life; God
+    gave Moses and Aaron the Criterion (al-furqān), a light and reminder; When the gods created mankind
+    they allotted death to them and kept life in their own hands; At the beginning heaven and earth, once
+    together, were separated; The heavens and earth were a closed-up mass (ratq) that God split apart
+    (fatq); God made the sky a protected roof; ''Let God weigh me in just balances and know my integrity''
+    [divergence between the texts]; Whether a human, such as the flood hero, is granted eternal life [divergence
+    between the texts]; Heaven (and earth) made by splitting one primeval mass or body in two [divergence
+    between the texts]; and 8 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

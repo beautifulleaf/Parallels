@@ -19,18 +19,18 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
-    Pair score 4.7.'
+- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 5.3).
+    Pair score 5.3.'
   basis: reading
 - text: 'Only in The basket of summer fruit; cheating merchants; famine of the word: Vision of a basket
     of summer fruit (qayits) means ''the end (qets) has come''; A famine not of bread or thirst for water,
     but of hearing the words of YHWH; they wander from sea to sea seeking it; Those who swear by the Ashimah
-    of Samaria, ''As your god lives, O Dan'', and ''As the way of Beersheba lives''; God will make the
-    sun go down at noon and darken the earth in broad daylight; The whole land heaves and sinks like the
-    Nile of Egypt; Merchants ask when the new moon and sabbath will be over so they can sell grain with
-    small ephah, big shekel and false scales; God will make it like the mourning for an only son, with
-    sackcloth and baldness; They sell the righteous for silver and the needy for a pair of sandals; God
-    asks the prophet ''What do you see?'' and interprets the ordinary object he names.'
+    of Samaria, ''As your god lives, O Dan'', and ''As the way of Beersheba lives''; The whole land heaves
+    and sinks like the Nile of Egypt; Merchants ask when the new moon and sabbath will be over so they
+    can sell grain with small ephah, big shekel and false scales; God will make it like the mourning for
+    an only son, with sackcloth and baldness; They sell the righteous for silver and the needy for a pair
+    of sandals; God will make the sun go down at noon and darken the earth in broad daylight; God asks
+    the prophet ''What do you see?'' and interprets the ordinary object he names.'
   basis: reading
 - text: 'Only in Shu''ayb - measures, the prayer that commands, the clan: The people mock: ''Does your
     prayer command you that we abandon our fathers'' gods or our way with our wealth?''; The prophet does

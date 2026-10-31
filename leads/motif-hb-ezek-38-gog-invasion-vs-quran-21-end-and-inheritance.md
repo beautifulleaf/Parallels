@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Gog and Magog are let loose and swarm down from every height before
-    the end [divergence between the texts] (weight 6.0); Gog of the land of Magog, chief prince (nesi
-    rosh) of Meshech and Tubal, an eschatological invader (weight 6.0). Pair score 12.0.'
+    the end [divergence between the texts] (weight 7.1); Gog of the land of Magog, chief prince (nesi
+    rosh) of Meshech and Tubal, an eschatological invader (weight 7.1). Pair score 14.1.'
   basis: reading
 - text: 'Only in Gog of Magog invades the land dwelling at the navel of the earth: The invader plots to
     attack a quiet people dwelling securely in unwalled villages without bars or gates, to seize plunder;
@@ -42,9 +42,11 @@ evidence:
     idolaters and what they worship are fuel (ḥaṣab) for hell; The prophet was sent only as a mercy to
     the worlds; As God began the first creation he will repeat it; Gog and Magog are let loose and swarm
     down from every height before the end; Humanity was one community (umma) but split its affair into
-    sects; All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig; The meek / those who wait for YHWH / the righteous and their seed
-    shall inherit the land (yirshu arets).'
+    sects; A savage people is let loose and pours down from the mountains or heights [divergence between
+    the texts]; The heavens are folded like cloth or a scroll before or by the deity; All the host of
+    heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves from
+    vine and fig; The meek / those who wait for YHWH / the righteous and their seed shall inherit the
+    land (yirshu arets).'
   basis: reading
 - text: 'Gog of Magog invades the land dwelling at the navel of the earth: tagged by Claude (model), reading
     the Hebrew.'

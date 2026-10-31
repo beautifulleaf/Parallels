@@ -18,25 +18,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fate of a destroyed town: lasting ruin or revival [contrast
-    between the texts] (weight 6.3). Pair score 6.3.'
+    between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in False prophet, enticing kin, and the apostate city: A city that turns to other gods is
     put under the ban, burned and left a mound forever; Prophet or dreamer whose sign comes true but who
-    urges other gods must be rejected; Relative or friend who secretly entices to other gods must be stoned,
-    your hand first; How to treat close kin who urge one to worship other gods [contrast between the texts];
-    How to treat close kin who urge one to worship other gods [divergence between the texts]; Do not take
-    fathers or brothers as allies against faith; love of God must outweigh family, wealth, trade and homes;
-    If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to regret
-    it; God uses a false prophet to test whether Israel loves him; Worthless men (bene beliyyaal) lead
-    astray; Command not to add to or subtract from the divine words; Formula: you shall purge the evil
-    from your midst; False prophet put to death; and 1 more.'
+    urges other gods must be rejected; How to treat close kin who urge one to worship other gods [contrast
+    between the texts]; How to treat close kin who urge one to worship other gods [divergence between
+    the texts]; Do not take fathers or brothers as allies against faith; love of God must outweigh family,
+    wealth, trade and homes; If a corrupt person brings you news, verify it lest you harm a people in
+    ignorance and come to regret it; God uses a false prophet to test whether Israel loves him; Relative
+    or friend who secretly entices to other gods must be stoned, your hand first; Worthless men (bene
+    beliyyaal) lead astray; False prophet put to death; Formula: you shall purge the evil from your midst;
+    Command not to add to or subtract from the divine words; and 1 more.'
   basis: reading
 - text: 'Only in The man who passed a ruined town: The sleeper is shown his donkey''s bones assembled
     and clothed with flesh; After a century the sleeper''s food and drink have not spoiled; A man passing
     a ruined town is made to die for a hundred years, then revived, thinking he slept a day or part of
-    a day; A destroyed city is made a perpetual ruin-mound (tel olam); The question whether God can make
-    the dead live [divergence between the texts]; At the prophet''s word there is a rattling; bones come
-    together bone to bone, then sinews, flesh and skin cover them, but there is no breath.'
+    a day; The sleeper''s food shows how long he slept [divergence between the texts]; The question whether
+    God can make the dead live [divergence between the texts]; A dead (ruined) land or town is brought
+    back to life [divergence between the texts]; At the prophet''s word there is a rattling; bones come
+    together bone to bone, then sinews, flesh and skin cover them, but there is no breath; A man woken
+    from a long sleep thinks he slept only a moment or a day; A destroyed city is made a perpetual ruin-mound
+    (tel olam).'
   basis: reading
 - text: 'False prophet, enticing kin, and the apostate city: tagged by Claude (model), reading the Hebrew.'
   basis: reading

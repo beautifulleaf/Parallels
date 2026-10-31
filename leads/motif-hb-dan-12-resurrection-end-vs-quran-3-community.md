@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: On the day some faces turn white and some turn black (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: On the day some faces turn white and some turn black (weight 6.8).
+    Pair score 6.8.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition

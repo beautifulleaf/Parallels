@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If a corrupt person brings you news, verify it lest you harm a people
-    in ignorance and come to regret it (weight 6.7). Pair score 6.7.'
+    in ignorance and come to regret it (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in False prophet, enticing kin, and the apostate city: A city that turns to other gods is
     put under the ban, burned and left a mound forever; Prophet or dreamer whose sign comes true but who
-    urges other gods must be rejected; Relative or friend who secretly entices to other gods must be stoned,
-    your hand first; How to treat close kin who urge one to worship other gods [contrast between the texts];
-    How to treat close kin who urge one to worship other gods [divergence between the texts]; Do not take
-    fathers or brothers as allies against faith; love of God must outweigh family, wealth, trade and homes;
-    God uses a false prophet to test whether Israel loves him; The fate of a destroyed town: lasting ruin
-    or revival [contrast between the texts]; Worthless men (bene beliyyaal) lead astray; Command not to
-    add to or subtract from the divine words; Formula: you shall purge the evil from your midst; False
-    prophet put to death; and 1 more.'
+    urges other gods must be rejected; How to treat close kin who urge one to worship other gods [contrast
+    between the texts]; How to treat close kin who urge one to worship other gods [divergence between
+    the texts]; Do not take fathers or brothers as allies against faith; love of God must outweigh family,
+    wealth, trade and homes; God uses a false prophet to test whether Israel loves him; The fate of a
+    destroyed town: lasting ruin or revival [contrast between the texts]; Relative or friend who secretly
+    entices to other gods must be stoned, your hand first; Worthless men (bene beliyyaal) lead astray;
+    False prophet put to death; Formula: you shall purge the evil from your midst; Command not to add
+    to or subtract from the divine words; and 1 more.'
   basis: reading
 - text: 'Only in Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and
     the peoples and tribes: Those who call the prophet from outside his private chambers (hujurat) lack
@@ -44,10 +44,9 @@ evidence:
     God) as ground for conduct toward others [divergence between the texts]; Believers must not put themselves
     before God and his messenger, nor raise their voices above the prophet''s or shout to him; Humanity
     created from a male and a female and made into peoples (shu''ub) and tribes to know one another; the
-    noblest is the most pious; ''Have we not all one father? Has not one God created us? Why do we deal
-    treacherously with one another?''; Slander or gossip pictured as eating [divergence between the texts];
-    Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?;
-    and 4 more.'
+    noblest is the most pious; Denial / prohibition of eavesdropping or spying on others; ''Have we not
+    all one father? Has not one God created us? Why do we deal treacherously with one another?''; Slander
+    or backbiting is pictured as eating the slandered person''s flesh; and 12 more.'
   basis: reading
 - text: 'False prophet, enticing kin, and the apostate city: tagged by Claude (model), reading the Hebrew.'
   basis: reading

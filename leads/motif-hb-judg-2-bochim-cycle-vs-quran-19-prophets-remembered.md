@@ -20,27 +20,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After the prophets came a generation that neglected prayer and followed
-    lusts (weight 6.7). Pair score 6.7.'
+    lusts (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Angel at Bochim; death of Joshua; the cycle of apostasy and deliverance: The angel of
     YHWH rebukes the people for making covenants and not destroying altars; A new generation arises that
     did not know YHWH or his deeds; Joshua buried at Timnath-serah/heres north of Mount Gaash; Nations
-    are left in the land to test Israel and teach war; Hero dies at 110; Inhabitants not driven out will
-    be thorns in your eyes and pricks in your sides; God relents from the evil he planned; Israel serves
-    the Baals and the Ashtaroth/Asherahs; Recital of history as cycle of sin, oppression, outcry and deliverance;
-    Worship of other gods described as ''whoring after'' them; A place is named after an event that happened
-    there, ''to this day''.'
+    are left in the land to test Israel and teach war; Inhabitants not driven out will be thorns in your
+    eyes and pricks in your sides; Hero dies at 110; Israel serves the Baals and the Ashtaroth/Asherahs;
+    Recital of history as cycle of sin, oppression, outcry and deliverance; God relents from the evil
+    he planned; Worship of other gods described as ''whoring after'' them; A place is named after an event
+    that happened there, ''to this day''.'
   basis: reading
 - text: 'Only in Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah
     19:51-65): The angels say ''We descend only by your Lord''s command''; God has no namesake or equal
     (samiyy); Ishmael was true to his promise and enjoined prayer and alms on his family; When the Merciful''s
     verses are recited the prophets fall prostrate and weeping; In paradise the blessed receive their
-    provision morning and evening; God chose Adam, Noah, the family of Abraham and the family of Imran
-    over the worlds; A prophet named Idrīs is mentioned among the righteous; God raised Idris to a high
-    place; God called Moses and drew him near in confidential converse (najiyy); God called Moses and
-    drew him near in confidential converse (najiyy) [divergence between the texts]; The covenant appointment
-    is at the right (ayman) side of the Mount (al-Ṭūr); An eloquent brother is appointed to speak for
-    the hero, who is ''as God'' to him [divergence between the texts]; and 5 more.'
+    provision morning and evening; One of a list of ancient sages or prophets ascends, or is raised, to
+    heaven or a high place; God chose Adam, Noah, the family of Abraham and the family of Imran over the
+    worlds; A prophet named Idrīs is mentioned among the righteous; God raised Idris to a high place;
+    God called Moses and drew him near in confidential converse (najiyy); God called Moses and drew him
+    near in confidential converse (najiyy) [divergence between the texts]; The covenant appointment is
+    at the right (ayman) side of the Mount (al-Ṭūr); and 6 more.'
   basis: reading
 - text: 'Angel at Bochim; death of Joshua; the cycle of apostasy and deliverance: tagged by Claude (model),
     reading the Hebrew.'

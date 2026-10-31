@@ -28,12 +28,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who strikes the Sodom mob''s eyes [divergence between the texts]
-    (weight 6.7); Lot''s family is saved at the time before dawn (bi-sahar) while a storm of stones (hasib)
-    destroys the rest (weight 6.7); The righteous man''s warning is taken as a joke by his own relatives
-    (weight 6.3); Attackers struck with blindness and cannot find the door (weight 6.3); What falls from
-    heaven on Sodom [divergence between the texts] (weight 6.3); Townsmen surround the house and demand
-    the male guest for sexual abuse (weight 6.0); Hero''s family saved with him [divergence between the
-    texts] (weight 5.4); God rains sulfur and fire from heaven on cities (weight 4.8). Pair score 48.5.'
+    (weight 7.7); Lot''s family is saved at the time before dawn (bi-sahar) while a storm of stones (hasib)
+    destroys the rest (weight 7.7); The righteous man''s warning is taken as a joke by his own relatives
+    (weight 7.3); Attackers struck with blindness and cannot find the door (weight 7.3); What falls from
+    heaven on Sodom [divergence between the texts] (weight 7.3); Townsmen surround the house and demand
+    the male guest for sexual abuse (weight 7.1); Hero''s family saved with him [divergence between the
+    texts] (weight 6.5); God rains sulfur and fire from heaven on cities (weight 5.9). Pair score 56.9.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -52,12 +52,11 @@ evidence:
     faces into the Fire: ''Taste the touch of Saqar''; The God-fearing are in gardens and a river, in
     a seat of truth with an all-powerful King; A single Cry (sayha) is sent and they become like the dry
     stubble of a pen-builder; When they solicited Lot''s guests, God obliterated their eyes; ''The host
-    will be routed and turn their backs'' (applied to Badr); Everything they did is in the scriptures
-    (zubur); every small and great thing is written down; God created everything by measure/decree (bi-qadar);
-    ''Are your unbelievers better than those, or have you an immunity (bara''a) in the scriptures (zubur)?'';
-    Supernatural being must leave before daybreak; Refrain: ''How then were my punishment and my warnings?''
-    (fa-kayfa kana ''adhabi wa-nudhur); Refrain: ''We have made the Quran easy to remember; is there anyone
-    who will remember?'' (fa-hal min muddakir); and 5 more.'
+    will be routed and turn their backs'' (applied to Badr); The high god''s command is spoken once only:
+    not twice, not turned back; Everything they did is in the scriptures (zubur); every small and great
+    thing is written down; God created everything by measure/decree (bi-qadar); ''Are your unbelievers
+    better than those, or have you an immunity (bara''a) in the scriptures (zubur)?''; Supernatural being
+    must leave before daybreak; The destroying wind carries the people away; and 7 more.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

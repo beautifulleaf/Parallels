@@ -21,9 +21,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fire does not harm the hero [divergence between the texts] (weight
-    6.7); The fire does not harm the hero (weight 5.8); Hero''s father makes, sells or worships idols
-    [divergence between the texts] (weight 5.4); Hero thrown into a fire or furnace by a king or people
-    (weight 5.3). Pair score 23.2.'
+    7.7); The fire does not harm the hero (weight 6.8); Hero''s father makes, sells or worships idols
+    [divergence between the texts] (weight 6.5); Hero thrown into a fire or furnace by a king or people
+    (weight 6.2). Pair score 27.3.'
   basis: reading
 - text: 'Only in The golden image and the fiery furnace: God sends his angel to rescue his servants from
     death; All are commanded to bow to the king''s image on pain of being thrown into a blazing furnace;

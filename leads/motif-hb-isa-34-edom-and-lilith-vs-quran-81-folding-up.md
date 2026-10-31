@@ -20,9 +20,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All the host of heaven rot away and the heavens roll up like a scroll;
-    their host falls like withered leaves from vine and fig [divergence between the texts] (weight 6.7);
+    their host falls like withered leaves from vine and fig [divergence between the texts] (weight 7.7);
     All the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered
-    leaves from vine and fig (weight 6.0). Pair score 12.7.'
+    leaves from vine and fig (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins:
     ''Seek in the book of YHWH and read: not one of these is missing''; God has allotted the land to the
@@ -32,11 +32,11 @@ evidence:
     and day unquenched; In the ruins goat-demons call to each other and Lilith (lilit) settles and finds
     herself a resting place; God stretches over the land the measuring line of chaos (tohu) and the plummet
     of emptiness (bohu); The damned wear garments of pitch (qatiran), fire covering their faces; God himself
-    devotes the nations (or a nation) to destruction (herem) and gives them to slaughter; Ruined city
-    never reinhabited, even by Arab tents or shepherds; inhabited by desert creatures, ostriches, jackals
-    and dancing goat-demons (se''irim); God''s flashing sword devours flesh and his arrows are drunk with
-    blood; Land made brimstone and salt like Sodom, Gomorrah, Admah and Zeboiim; On the day the sky heaves
-    (tamur) and the mountains move away; and 1 more.'
+    devotes the nations (or a nation) to destruction (herem) and gives them to slaughter; Land made brimstone
+    and salt like Sodom, Gomorrah, Admah and Zeboiim; On the day the sky heaves (tamur) and the mountains
+    move away; God''s flashing sword devours flesh and his arrows are drunk with blood; Ruined city never
+    reinhabited, even by Arab tents or shepherds; inhabited by desert creatures, ostriches, jackals and
+    dancing goat-demons (se''irim); and 1 more.'
   basis: reading
 - text: 'Only in The folding up: twelve signs of the end and the messenger on the horizon: The revelation
     is the word of a noble messenger, powerful, secure with the Lord of the Throne, obeyed and trustworthy;
@@ -45,9 +45,9 @@ evidence:
     mad (majnun) or possessed; scripture denies it; The prophet saw the heavenly messenger on the clear
     horizon; At the end the souls are paired (with bodies or their like); At the end the wild beasts are
     gathered together; At the judgment the girl buried alive (al-maw''uda) is asked for what sin she was
-    killed; Victim''s blood cries out from the ground to God; You will not will unless God wills; Then
-    each soul will know what it has brought forward and what it left behind; At the end the seas are set
-    aflame or burst forth (sujjirat, fujjirat); and 6 more.'
+    killed; The sun is covered (wrapped) and gives no light; Victim''s blood cries out from the ground
+    to God; You will not will unless God wills; Then each soul will know what it has brought forward and
+    what it left behind; and 9 more.'
   basis: reading
 - text: 'Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins: tagged
     by Claude (model), reading the Hebrew.'

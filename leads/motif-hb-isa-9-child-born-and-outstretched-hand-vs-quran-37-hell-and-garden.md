@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In the punishment the misled and their misleaders turn on each other
-    in recrimination and share the punishment (weight 6.7). Pair score 6.7.'
+    in recrimination and share the punishment (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Great light; a child is born to us; the outstretched hand against Ephraim: Every trampling
     soldier''s boot and garment rolled in blood will be burned as fuel for fire; Proud boast: ''Bricks
@@ -35,17 +35,16 @@ evidence:
     this''; Hell''s fire has men and stones as its fuel; and 2 more.'
   basis: reading
 - text: 'Only in The damned questioned; the blessed on facing couches; the tree of Zaqqum: Beside them
-    are wide-eyed maidens of restrained glance, as if they were sheltered eggs; The blessed will not die
-    except their first death and will not be punished; The blessed sit on couches facing one another;
-    Gather the wrongdoers, their mates and what they worshipped and lead them to the path of hell; stop
-    them, they will be questioned; One of the blessed recalls a companion who denied the resurrection,
-    looks down and sees him in the midst of hell; The effects of wine on the drinker [contrast between
-    the texts]; Paradise drink from which they suffer no headache nor intoxication; Idolaters ask ''shall
-    we abandon our gods for a mad poet?''; Reclining on couches and drinking wine, and how it is judged
-    [contrast between the texts]; Opponents call the revelation jumbled dreams, a forgery, or the work
-    of a poet; Rejecters reply ''we follow what we found our fathers upon''; The tree of Zaqqum grows
-    from the bottom of hell; its spathes are like the heads of devils; the damned fill their bellies and
-    drink boiling water; and 3 more.'
+    are wide-eyed maidens of restrained glance, as if they were sheltered eggs; The blessed sit on couches
+    facing one another; Gather the wrongdoers, their mates and what they worshipped and lead them to the
+    path of hell; stop them, they will be questioned; One of the blessed recalls a companion who denied
+    the resurrection, looks down and sees him in the midst of hell; The effects of wine on the drinker
+    [contrast between the texts]; ''Had it not been that the lord released me, I would have gone down
+    to the netherworld'' as a refrain of thanksgiving; Paradise drink from which they suffer no headache
+    nor intoxication; Idolaters ask ''shall we abandon our gods for a mad poet?''; Reclining on couches
+    and drinking wine, and how it is judged [contrast between the texts]; The blessed will not die except
+    their first death and will not be punished; Opponents call the revelation jumbled dreams, a forgery,
+    or the work of a poet; Rejecters reply ''we follow what we found our fathers upon''; and 4 more.'
   basis: reading
 - text: 'Great light; a child is born to us; the outstretched hand against Ephraim: tagged by Claude (model),
     reading the Hebrew.'

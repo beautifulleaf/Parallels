@@ -14,9 +14,9 @@ layers:
 - motif
 motifs:
 - moses-at-the-well-of-midian-as-divergence
+- hero-waters-flock-for-women
 - midianite-daughters-role-as-divergence
 - moses-father-in-law-as-divergence
-- hero-waters-flock-for-women
 - terms-of-moses-marriage-as-divergence
 - meeting-future-wife-at-well
 passages: []
@@ -24,11 +24,11 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses helps the women at the water of Midian [divergence between
-    the texts] (weight 6.7); What the Midianite daughters do after Moses helps them [divergence between
-    the texts] (weight 6.7); Moses'' father-in-law in Midian [divergence between the texts] (weight 6.7);
-    Hero drives off shepherds and waters the flock of women at a well (weight 6.7); The terms of Moses''
-    marriage in Midian [divergence between the texts] (weight 6.7); Hero meets his future wife at a well
-    (weight 6.3). Pair score 39.7.'
+    the texts] (weight 7.7); Hero drives off shepherds and waters the flock of women at a well (weight
+    7.7); What the Midianite daughters do after Moses helps them [divergence between the texts] (weight
+    7.7); Moses'' father-in-law in Midian [divergence between the texts] (weight 7.7); The terms of Moses''
+    marriage in Midian [divergence between the texts] (weight 7.7); Hero meets his future wife at a well
+    (weight 7.3). Pair score 46.1.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
     The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
@@ -44,9 +44,16 @@ evidence:
 - text: 'Only in At the water of Midian; the two women, their old father and the marriage contract: The
     father offers one of his two daughters in marriage for eight years'' service, ten if the groom wishes;
     One of the women comes walking shyly to invite the hero to her father, who will reward him; The daughter
-    advises: ''The best one to hire is the strong and trustworthy''; The prophet''s father-in-law is a
-    foreign priest; Years of service given for a bride [divergence between the texts]; Future bride or
-    groom met at a well, leading to betrothal; Suitor serves the bride''s father seven years for her hand.'
+    advises: ''The best one to hire is the strong and trustworthy''; A foreign ruler or father is asked
+    to give his daughter to a fugitive come from Egypt [divergence between the texts]; The prophet''s
+    father-in-law is a foreign priest; A fugitive in the desert at the water: given water, or giving it
+    [neutral] [divergence between the texts]; The foreign host gives the fugitive from Egypt his daughter
+    in marriage, and on what terms [neutral] [divergence between the texts]; A foreign host hears the
+    fugitive''s account and reassures him [neutral] [divergence between the texts]; A foreign host marries
+    the fugitive to his daughter [neutral] [divergence between the texts]; A strong stranger is offered
+    a reward by the girl''s father and marries the daughter [divergence between the texts]; Years of service
+    given for a bride [divergence between the texts]; The fugitive arriving from Egypt is received at
+    the water by an old chief of a herding people [neutral] [divergence between the texts]; and 4 more.'
   basis: reading
 - text: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry: tagged by
     Claude (model), reading the Hebrew.'

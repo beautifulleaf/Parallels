@@ -20,8 +20,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 5.8);
-    Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0). Pair score 10.8.'
+- text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 6.8);
+    Idols of wood and stone that cannot see, hear, eat or smell (weight 6.0). Pair score 12.9.'
   basis: reading
 - text: 'Only in Idols like scarecrows in a cucumber field: Do not learn the way of the nations or be
     dismayed by the signs of the heavens, at which the nations are dismayed; Idols are like a scarecrow

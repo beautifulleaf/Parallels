@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The rich man thinks his garden will never perish and the Hour will
-    never come (weight 6.3). Pair score 6.3.'
+    never come (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart: Cursed is
     the man who trusts in man and makes flesh his arm; he is like a juniper in the desert, in a salt land;
@@ -39,12 +39,12 @@ evidence:
     that I had associated no one with my Lord''; The rich man boasts of having more wealth and a mightier
     following; On entering one''s garden one should say ''What God wills; there is no power except in
     God''; Humans are presented before God in rows, coming as they were first created; On judgment day
-    each receives a book of his deeds spread open, leaving nothing small or great unrecorded; Parable
-    of two men: one owns two rich gardens and boasts to his poorer believing companion; Wealth and sons
-    are the adornment of this life; the enduring good deeds are better with God; The wicked fade like
-    grass and green herbs; Parable: worldly life is like vegetation fed by rain, adorned, then cut down
-    overnight as if it never flourished; At the end the mountains become a heap of running sand, are blown
-    away, set in motion or turn into a mirage; and 1 more.'
+    each receives a book of his deeds spread open, leaving nothing small or great unrecorded; If god gives
+    you a rich harvest, do not boast of it before your neighbours; Righteous deeds endure and go with
+    a man beyond death, when other goods do not [divergence between the texts]; Parable of two men: one
+    owns two rich gardens and boasts to his poorer believing companion; Wealth and sons are the adornment
+    of this life; the enduring good deeds are better with God; The wicked fade like grass and green herbs;
+    and 3 more.'
   basis: reading
 - text: 'Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart: tagged by Claude (model),
     reading the Hebrew.'

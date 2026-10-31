@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero''s father makes, sells or worships idols (weight 4.8). Pair
-    score 4.8.'
+- text: 'Shared motifs, rarest first: Hero''s father makes, sells or worships idols (weight 5.9). Pair
+    score 5.9.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging

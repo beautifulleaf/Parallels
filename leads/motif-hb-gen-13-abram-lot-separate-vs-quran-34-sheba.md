@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Jordan plain before Sodom''s destruction was like the garden
-    of the LORD (weight 6.7). Pair score 6.7.'
+    of the LORD (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Abram and Lot separate; the land promise renewed: Quarrel between herdsmen leads kinsmen
     to separate; Patriarch told to look in all directions and walk the land he is given; Patriarch leaves
@@ -32,8 +32,11 @@ evidence:
     be true; they followed him except a party of believers; Sheba asks ''Lengthen the distances between
     our journeys'', and God makes them bygone tales and scatters them utterly; Between Sheba and the blessed
     towns God set visible towns and measured stages for safe travel by night and day; Sheba (Saba'') had
-    a sign in their dwelling: two gardens to the right and left, a good land; God sends the flood of al-''Arim
-    (the dam) and turns the two gardens into bitter fruit, tamarisk and a few lote-trees.'
+    a sign in their dwelling: two gardens to the right and left, a good land; Fine gardens of fruit are
+    turned into a growth of weeds or bitter shrubs [divergence between the texts]; Road stages are measured
+    out so that travellers go safely by night and by day; Road stages are measured out so that travellers
+    go safely by night and by day [divergence between the texts]; God sends the flood of al-''Arim (the
+    dam) and turns the two gardens into bitter fruit, tamarisk and a few lote-trees.'
   basis: reading
 - text: 'Abram and Lot separate; the land promise renewed: tagged by Claude (model), reading the Hebrew.'
   basis: reading

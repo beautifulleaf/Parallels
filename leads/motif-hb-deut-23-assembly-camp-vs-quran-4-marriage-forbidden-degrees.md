@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man must not take his father''s wife (uncover his father''s skirt)
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Admission to the assembly; camp purity; slaves, interest, vows: Edomites (brothers) and
-    Egyptians (hosts) admitted in the third generation; Escaped slave not returned to his master; he may
-    live where he chooses; Harlot''s hire and the price of a dog may not be brought to the temple for
-    a vow; Latrine outside the war camp; dig with a spade and cover excrement because God walks in the
-    camp; Man unclean from a nocturnal emission stays outside the camp until evening and washes; Ammonites
-    and Moabites never admitted, for withholding bread and water and hiring Balaam; Whether obligations
-    differ toward insiders and outsiders [contrast between the texts]; You may eat your fill in a neighbor''s
-    vineyard or pluck ears by hand, but not carry away or use a sickle; Man with crushed testicles or
-    severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation;
+    Egyptians (hosts) admitted in the third generation; Harlot''s hire and the price of a dog may not
+    be brought to the temple for a vow; Latrine outside the war camp; dig with a spade and cover excrement
+    because God walks in the camp; Man unclean from a nocturnal emission stays outside the camp until
+    evening and washes; Ammonites and Moabites never admitted, for withholding bread and water and hiring
+    Balaam; Whether obligations differ toward insiders and outsiders [contrast between the texts]; You
+    may eat your fill in a neighbor''s vineyard or pluck ears by hand, but not carry away or use a sickle;
+    Escaped slave not returned to his master; he may live where he chooses; Man with crushed testicles
+    or severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation;
     Protection for someone who seeks refuge [divergence between the texts]; God turned Balaam''s curse
     into a blessing; and 4 more.'
   basis: reading
@@ -43,9 +43,9 @@ evidence:
     a slave woman designated to another man: inquiry and guilt offering, not death, because she is not
     free; The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit
     part; List of forbidden close-kin unions (''uncovering nakedness'') [divergence between the texts];
-    Married women are forbidden except those one''s right hand possesses (captives); Marrying two sisters
-    [divergence between the texts]; A man may not marry his wife''s sister as a rival while the wife lives;
-    and 4 more.'
+    Married women are forbidden except those one''s right hand possesses (captives); A man marries a slave
+    woman by leave of her owner and with a payment; Marrying two sisters [divergence between the texts];
+    and 6 more.'
   basis: reading
 - text: 'Admission to the assembly; camp purity; slaves, interest, vows: tagged by Claude (model), reading
     the Hebrew.'

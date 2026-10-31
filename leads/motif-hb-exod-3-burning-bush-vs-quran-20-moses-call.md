@@ -15,29 +15,29 @@ layers:
 - motif
 motifs:
 - prophet-sees-fire-goes-to-fetch-brand-as-divergence
+- shepherd-called-at-mountain-of-god
 - holy-valley-tuwa-as-divergence
 - remove-sandals-holy-ground
-- shepherd-called-at-mountain-of-god
 - burning-bush-not-consumed
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Traveling with his family, the prophet sees a fire and goes to bring
-    back a brand or find guidance there [divergence between the texts] (weight 6.7); The call comes in
-    the holy valley named Ṭuwā [divergence between the texts] (weight 6.3); Hero told to remove his sandals
-    because the place is holy ground (weight 6.3); A shepherd tending flocks comes to the mountain of
-    God and is called (weight 6.3); God appears in a bush that burns without being consumed (weight 6.0).
-    Pair score 31.5.'
+    back a brand or find guidance there [divergence between the texts] (weight 7.7); A shepherd tending
+    flocks comes to the mountain of God and is called (weight 7.3); The call comes in the holy valley
+    named Ṭuwā [divergence between the texts] (weight 7.3); Hero told to remove his sandals because the
+    place is holy ground (weight 7.3); God appears in a bush that burns without being consumed (weight
+    7.1). Pair score 36.8.'
   basis: reading
 - text: 'Only in The burning bush and the divine name: God names himself ''I will be what I will be''
-    (ehyeh asher ehyeh); God has seen the affliction, heard the cry and comes down to deliver; God introduced
-    to a foreign king as ''the God of the Hebrews''; God foretells that the king will not let the people
-    go except under compulsion; Hero hides his face, afraid to look at God; The sign confirming the call
-    is that the people will later worship on this mountain; God calls Moses from the fire, from a bush
-    or a tree [divergence between the texts]; God declares his name as his everlasting memorial for all
-    generations; The title of God in whose name Moses goes to Pharaoh; The list of fathers in ''God of
-    your fathers'' [divergence between the texts]; Whose forefathers'' God is proclaimed in the Moses
+    (ehyeh asher ehyeh); God introduced to a foreign king as ''the God of the Hebrews''; God foretells
+    that the king will not let the people go except under compulsion; Hero hides his face, afraid to look
+    at God; The sign confirming the call is that the people will later worship on this mountain; God calls
+    Moses from the fire, from a bush or a tree [divergence between the texts]; God declares his name as
+    his everlasting memorial for all generations; The title of God in whose name Moses goes to Pharaoh;
+    God has seen the affliction, heard the cry and comes down to deliver; The list of fathers in ''God
+    of your fathers'' [divergence between the texts]; Whose forefathers'' God is proclaimed in the Moses
     story [divergence between the texts]; How God names himself to Moses from the fire [divergence between
     the texts]; and 13 more.'
   basis: reading
@@ -46,14 +46,14 @@ evidence:
     his tongue untied; Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating
     down leaves for sheep, other needs; The prophet asks that his brother be made his helper (wazīr) and
     partner in his mission; The prophet asks that his brother be made his helper (wazīr) and partner in
-    his mission [divergence between the texts]; The call comes in the holy valley named Ṭuwā; Asked what
-    is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves for sheep, other
-    needs [divergence between the texts]; Prophet protests he is heavy of mouth and tongue or ''uncircumcised
-    of lips'' [divergence between the texts]; Prophet''s hand turns leprous, white as snow, and is restored
-    as a sign [divergence between the texts]; Traveling with his family, the prophet sees a fire and goes
-    to bring back a brand or find guidance there; An eloquent brother is appointed to speak for the hero,
-    who is ''as God'' to him; Prophet''s hand turns leprous, white as snow, and is restored as a sign;
-    and 3 more.'
+    his mission [divergence between the texts]; The call comes in the holy valley named Ṭuwā; A messenger''s
+    heavy or knotted tongue and its remedy [divergence between the texts]; Asked what is in his hand,
+    the prophet lists his staff''s uses: leaning, beating down leaves for sheep, other needs [divergence
+    between the texts]; Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''
+    [divergence between the texts]; A serpent appears and the trembling man is told ''do not fear'' [neutral]
+    [divergence between the texts]; The deity gives the one he commissions a sign on his arm or hand [divergence
+    between the texts]; An object thrown down becomes a live beast and, taken in the hand, returns to
+    what it was [neutral] [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'The burning bush and the divine name: tagged by Claude (model), reading the Hebrew.'
   basis: reading

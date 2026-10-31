@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A prophet should not take captives until he has thoroughly subdued
-    the land (weight 6.7); Conqueror spares the enemy king and best livestock against God''s command (weight
-    6.0). Pair score 12.7.'
+    the land (weight 7.7); Conqueror spares the enemy king and best livestock against God''s command (weight
+    6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in The wounded prophet''s parable against Ahab: Wounded prophet, disguised with a bandage
     over his eyes, tells the king a case and the king condemns himself; Man who refuses a prophet''s command

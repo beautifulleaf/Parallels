@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Divination, soothsaying, mediums (ov) and wizards (yidde''oni) are
-    forbidden (weight 5.8). Pair score 5.8.'
+    forbidden (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:
@@ -37,7 +37,10 @@ evidence:
     reign; Solomon himself did not disbelieve; Two angels in Babylon, Harut and Marut, teach magic while
     warning ''we are only a trial''; Magic is learned that separates a man from his wife, harming only
     by God''s leave; Whether Solomon turned from God [response between the texts]; A nation''s sorcerers,
-    enchanters, star-gazers and monthly prognosticators are challenged and cannot save it; The king''s
+    enchanters, star-gazers and monthly prognosticators are challenged and cannot save it; A named kind
+    of sorcery whose effect is hatred or estrangement between people (hate-magic; what separates a man
+    from his wife); Two heavenly beings come down from heaven in connection with sorcery; Two heavenly
+    beings come down from heaven in connection with sorcery [divergence between the texts]; The king''s
     experts cannot interpret the dream.'
   basis: reading
 - text: 'Levitical dues; forbidden divination; the prophet like Moses: tagged by Claude (model), reading

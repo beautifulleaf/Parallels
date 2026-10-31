@@ -18,32 +18,32 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Repel evil with what is better (weight 5.8). Pair score 5.8.'
+- text: 'Shared motifs, rarest first: Repel evil with what is better (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies): A word fitly spoken
     is like apples of gold in settings of silver; A man without self-restraint is like a city broken into,
     without walls; Clouds and wind without rain is a man who boasts of a gift he does not give; If you
     find honey eat only enough, lest you be sated and vomit it; Like the cold of snow in harvest time
-    is a faithful messenger to those who send him; If your enemy is hungry give him bread and if thirsty
-    water, for you will heap coals of fire on his head and YHWH will reward you; It is the glory of God
-    to conceal a matter and the glory of kings to search it out; Like cold water to a weary soul is good
-    news from a far country; Proverbs of Solomon ''copied out'' (he''tiqu) by the men of Hezekiah king
-    of Judah; As heaven for height and earth for depth, so the heart of kings is unsearchable; The north
-    wind brings forth rain, and a backbiting tongue angry looks; A righteous man who gives way before
-    the wicked is like a muddied spring or polluted fountain; and 13 more.'
+    is a faithful messenger to those who send him; It is the glory of God to conceal a matter and the
+    glory of kings to search it out; Like cold water to a weary soul is good news from a far country;
+    Proverbs of Solomon ''copied out'' (he''tiqu) by the men of Hezekiah king of Judah; As heaven for
+    height and earth for depth, so the heart of kings is unsearchable; The north wind brings forth rain,
+    and a backbiting tongue angry looks; A righteous man who gives way before the wicked is like a muddied
+    spring or polluted fountain; Let your foot be seldom in your neighbor''s house, lest he grow weary
+    of you and hate you; and 13 more.'
   basis: reading
 - text: 'Only in Repel evil with good; the deathbed plea, the barzakh and the scales: Behind the dead
     is a barrier (barzakh) until the day they are raised; The damned had taken the believers as a laughingstock;
     now the believers triumph; God tells the damned pleading to leave hell: ''Be driven away into it and
     do not speak to me''; At death the sinner begs ''My Lord, send me back, that I may do good''; it is
     refused; When the trumpet is blown there will be no ties of kinship between them, nor will they ask
-    after one another; Seek refuge in God from the goadings of the devils and from their presence; A dying
-    person''s plea to God for more life, and God''s answer [contrast between the texts]; Whether those
-    who die and return to dust rise again [divergence between the texts]; On that day a great shofar will
-    be blown and the lost in Assyria and outcasts in Egypt will come and worship on the holy mountain;
-    Just scales are set up on the day of resurrection; even a mustard seed''s weight is brought forth;
-    YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes; ''Let God
-    weigh me in just balances and know my integrity''; and 5 more.'
+    after one another; Seek refuge in God from the goadings of the devils and from their presence; The
+    dead cannot come back to life on earth; A dying person''s plea to God for more life, and God''s answer
+    [contrast between the texts]; Whether those who die and return to dust rise again [divergence between
+    the texts]; On that day a great shofar will be blown and the lost in Assyria and outcasts in Egypt
+    will come and worship on the holy mountain; A span of many years is set against a single day [divergence
+    between the texts]; At the judgment after death a whole lifetime is reckoned as an hour or a day;
+    and 10 more.'
   basis: reading
 - text: 'Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies): tagged by Claude (model),
     reading the Hebrew.'

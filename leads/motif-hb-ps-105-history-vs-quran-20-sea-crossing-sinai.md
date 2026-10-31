@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 5.8).
-    Pair score 5.8.'
+- text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 6.8).
+    Pair score 6.8.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -37,8 +37,8 @@ evidence:
 - text: 'Only in The night departure, the dry road through the sea, the mount and manna: The covenant
     appointment is at the right (ayman) side of the Mount (al-Ṭūr); The people walk on dry ground through
     the sea with the waters as a wall on either side [divergence between the texts]; King regrets releasing
-    the slaves and pursues them with chariots; A mountain called the mountain of God; Manna named from
-    the people''s question ''What is it?'' (man hu); The people walk on dry ground through the sea with
+    the slaves and pursues them with chariots; Manna named from the people''s question ''What is it?''
+    (man hu); A mountain called the mountain of God; The people walk on dry ground through the sea with
     the waters as a wall on either side; The returning waters drown the pursuing army; not one survives.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude

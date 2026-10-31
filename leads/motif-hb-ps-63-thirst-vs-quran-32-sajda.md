@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The believers'' sides forsake their beds as they call on their Lord
-    in fear and hope (night vigil) (weight 6.0). Pair score 6.0.'
+    in fear and hope (night vigil) (weight 7.1). Pair score 7.1.'
   basis: reading
-- text: 'Only in Psalm 63, my soul thirsts for you in the wilderness of Judah: Slain enemies become a
-    portion for jackals or food for beasts and birds; Prayer that the king''s days be prolonged for generations
-    and he be enthroned forever before God; The soul thirsts for God like a dry, weary land without water;
-    Enemies will descend to the lowest parts of the earth (tahtiyyot ha-arets); Speaker remembers and
-    meditates on God on his bed through the night watches; Remember God within yourself, humbly, without
-    loud speech, morning and evening; Those who remember God standing, sitting and on their sides and
-    reflect on creation; Lifting the hands (palms) in prayer or blessing; Petitioner takes refuge in the
-    shadow of God''s wings; Superscription sets the psalm in a specific episode of David''s life.'
+- text: 'Only in Psalm 63, my soul thirsts for you in the wilderness of Judah: The soul thirsts for God
+    like a dry, weary land without water; Enemies will descend to the lowest parts of the earth (tahtiyyot
+    ha-arets); Speaker remembers and meditates on God on his bed through the night watches; Remember God
+    within yourself, humbly, without loud speech, morning and evening; Slain enemies become a portion
+    for jackals or food for beasts and birds; Those who remember God standing, sitting and on their sides
+    and reflect on creation; Petitioner takes refuge in the shadow of God''s wings; Lifting the hands
+    (palms) in prayer or blessing; Superscription sets the psalm in a specific episode of David''s life;
+    Prayer that the king''s days be prolonged for generations and he be enthroned forever before God.'
   basis: reading
 - text: 'Only in Al-Sajda: creation, the angel of death, and the two fates: Whenever the damned try to
     get out of the fire they are driven back into it; On the Day of the Opening/Victory (al-fath) the
@@ -37,11 +37,10 @@ evidence:
     they may return; The angel of death (malak al-mawt), put in charge of humans, takes their souls; The
     guilty, heads bowed before their Lord, beg to be returned to do good; God''s word: ''I will fill hell
     with jinn and humans all together''; No soul knows what delight of the eyes is hidden in store for
-    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; What God
-    did when the six days of creation were done [divergence between the texts]; God began man''s creation
-    from clay, then made his progeny from an extract of a despised fluid, then shaped him and breathed
-    of his spirit; God made leaders (a''imma) among the Israelites who guided by his command because they
-    were patient; and 10 more.'
+    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; Man described
+    by the lowly bodily substance he is made of [shared matter] [divergence between the texts]; What goes
+    into the place below cannot come out again [divergence between the texts]; Whether one who has stood
+    before the judge of the dead is sent back to the living [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Psalm 63, my soul thirsts for you in the wilderness of Judah: tagged by Claude (model), reading
     the Hebrew.'

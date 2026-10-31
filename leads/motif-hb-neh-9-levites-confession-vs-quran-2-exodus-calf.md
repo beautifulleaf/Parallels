@@ -14,17 +14,17 @@ layers:
 - motif
 motifs:
 - appoint-head-return-egypt
-- pillar-of-cloud-and-fire
 - prophets-killed-by-israel
+- pillar-of-cloud-and-fire
 - golden-calf
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: People propose appointing a leader to go back to Egypt (weight 6.3);
-    God leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1); Israel
-    killed the prophets who warned them (weight 5.1); People make a molten calf while the leader is on
-    the mountain (weight 4.7). Pair score 21.2.'
+- text: 'Shared motifs, rarest first: People propose appointing a leader to go back to Egypt (weight 7.3);
+    Israel killed the prophets who warned them (weight 6.1); God leads the people in a pillar of cloud
+    by day and a pillar of fire by night (weight 6.1); People make a molten calf while the leader is on
+    the mountain (weight 5.8). Pair score 25.4.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and

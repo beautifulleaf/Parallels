@@ -18,24 +18,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether payment may substitute for a life [contrast between the
-    texts] (weight 5.8). Pair score 5.8.'
+    texts] (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Levitical cities, cities of refuge and the law of homicide: Murder distinguished from
     manslaughter by weapon (iron, stone, wood), enmity and intent; Manslayer may leave refuge only at
     the death of the high priest; Shed blood pollutes the land and only the killer''s blood atones for
     it; Forty-eight cities with pasture-lands of measured cubits assigned to the Levites; No ransom (kofer)
     may be taken for a murderer''s life; How many witnesses a charge requires [divergence between the
-    texts]; A place of refuge for one who kills unintentionally [divergence between the texts]; The ''redeemer
-    of blood'' (go''el ha-dam) kills the murderer; Same law for the resident alien and the native; Six
-    cities of refuge for the unintentional killer, three on each side of the Jordan; No one put to death
-    on the testimony of a single witness.'
+    texts]; A place of refuge for one who kills unintentionally [divergence between the texts]; Same law
+    for the resident alien and the native; Six cities of refuge for the unintentional killer, three on
+    each side of the Jordan; No one put to death on the testimony of a single witness; The ''redeemer
+    of blood'' (go''el ha-dam) kills the murderer.'
   basis: reading
 - text: 'Only in Retaliation and bequests: Kin of the slain may pardon and accept compensation (diya)
     instead of retaliation, a lightening from God; ''In retaliation there is life for you''; Retaliation
-    (qisas) for the slain: free for free, slave for slave, female for female; Bequest (wasiyya) to parents
-    and kin prescribed for one who leaves wealth; altering it is a sin; A negligent owner may pay a ransom
-    for his life; Retaliation (talion) for killing or injury [divergence between the texts]; Eye for an
-    eye, tooth for a tooth (lex talionis).'
+    (qisas) for the slain: free for free, slave for slave, female for female; What person is matched to
+    a man who was killed [neutral] [divergence between the texts]; Clause on whoever alters a sealed grant
+    or a bequest [divergence between the texts]; Bequest (wasiyya) to parents and kin prescribed for one
+    who leaves wealth; altering it is a sin; Whoever alters the wording of a fixed text (tablet, bequest)
+    after it is set bears the penalty; A negligent owner may pay a ransom for his life; Retaliation (talion)
+    for killing or injury [divergence between the texts]; In a homicide, the ''lord of the blood'' decides:
+    if he says ''let him die'' the killer dies, if ''let him pay'' he pays; the king has no part; Eye
+    for an eye, tooth for a tooth (lex talionis); Whether payment may substitute for a life.'
   basis: reading
 - text: 'Levitical cities, cities of refuge and the law of homicide: tagged by Claude (model), reading
     the Hebrew.'

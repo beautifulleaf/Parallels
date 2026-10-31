@@ -15,15 +15,15 @@ layers:
 - motif
 motifs:
 - theft-from-devoted-things
-- defeat-because-of-hidden-sin
 - theft-from-devoted-things-as-divergence
+- defeat-because-of-hidden-sin
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man secretly takes from the goods devoted to God (herem) (weight
-    6.7); The army is defeated because of one member''s hidden sin (weight 6.7); A man secretly takes
-    from the goods devoted to God (herem) [divergence between the texts] (weight 6.7). Pair score 20.1.'
+    7.7); A man secretly takes from the goods devoted to God (herem) [divergence between the texts] (weight
+    7.7); The army is defeated because of one member''s hidden sin (weight 7.7). Pair score 23.2.'
   basis: reading
 - text: 'Only in Defeat at Ai and the trespass of Achan: The culprit is urged to ''give glory to God''
     by confessing; The sinner''s children, animals and property are destroyed with him; Leader complains
@@ -41,7 +41,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 15 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 23 more.'
   basis: reading
 - text: 'Defeat at Ai and the trespass of Achan: tagged by Claude (model), reading the Hebrew.'
   basis: reading

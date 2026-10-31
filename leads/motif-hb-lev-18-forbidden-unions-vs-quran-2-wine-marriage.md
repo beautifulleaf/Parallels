@@ -19,30 +19,31 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Intercourse with a menstruating woman is forbidden (weight 6.0).
-    Pair score 6.0.'
+- text: 'Shared motifs, rarest first: Intercourse with a menstruating woman is forbidden (weight 7.1).
+    Pair score 7.1.'
   basis: reading
 - text: 'Only in Forbidden sexual unions; the land vomits out its inhabitants: Sexual relations of a man
-    or a woman with an animal are forbidden; Marrying or lying with a brother''s wife is forbidden; Do
-    not follow the practices of Egypt where you lived or of Canaan where you are going; List of forbidden
-    close-kin unions (''uncovering nakedness'') [divergence between the texts]; The land, defiled by abominations,
-    vomits out its inhabitants; The person who does God''s statutes shall live by them; Lying with a male
-    as with a woman is forbidden; Whether a man may marry his son''s (or adopted son''s) wife [divergence
-    between the texts]; Marrying two sisters [divergence between the texts]; A man may not marry his wife''s
-    sister as a rival while the wife lives; Sexual relations with a neighbor''s wife are forbidden; Zihar:
-    a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying is false
-    and abhorrent; and 3 more.'
+    or a woman with an animal are forbidden; Do not follow the practices of Egypt where you lived or of
+    Canaan where you are going; List of forbidden close-kin unions (''uncovering nakedness'') [divergence
+    between the texts]; The land, defiled by abominations, vomits out its inhabitants; The person who
+    does God''s statutes shall live by them; Lying with a male as with a woman is forbidden; Whether a
+    man may marry his son''s (or adopted son''s) wife [divergence between the texts]; Marrying two sisters
+    [divergence between the texts]; A man may not marry his wife''s sister as a rival while the wife lives;
+    Marrying or lying with a brother''s wife is forbidden; Zihar: a husband declaring his wife ''like
+    my mother''s back''; she is not his mother, the saying is false and abhorrent; Giving one''s offspring
+    to Molech is forbidden and punished; and 3 more.'
   basis: reading
 - text: 'Only in Wine, gambling, orphans, mixed marriage and menstruation: A believing slave woman (or
     man) is better for marriage than an attractive polytheist; What to spend? ''The surplus'' (al-''afw);
-    Mixing with orphans'' affairs permitted: they are your brothers; Your wives are a tilth for you; come
-    to your tilth as you wish; Intercourse with a menstruating woman is forbidden [divergence between
-    the texts]; A woman is purifying herself from her menstrual impurity; Wine and gambling: in both great
-    sin and some benefit, but the sin is greater; Do not look at wine when it is red and sparkles in the
-    cup; at the last it bites like a serpent and stings like a viper; Whether wine is good or harmful
-    [contrast between the texts]; Ban on marrying outside the community and its criterion [divergence
-    between the texts]; Marrying foreign women will lead the sons into idolatry; Prohibition of intermarriage
-    with the peoples of the land lest they turn sons to other gods.'
+    Mixing with orphans'' affairs permitted: they are your brothers; Intercourse with a menstruating woman
+    is forbidden [divergence between the texts]; Marriage with a man or woman of the hostile outside group
+    is barred or dangerous, because the spouse will lead to betrayal or ruin; Ploughing and sowing a field
+    stand for insemination (the plough impregnates the earth; women are a tilth); A woman is purifying
+    herself from her menstrual impurity; Wine and gambling: in both great sin and some benefit, but the
+    sin is greater; Do not look at wine when it is red and sparkles in the cup; at the last it bites like
+    a serpent and stings like a viper; A woman (wife) is likened to a field that is ploughed; Whether
+    wine is good or harmful [contrast between the texts]; Ban on marrying outside the community and its
+    criterion [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'Forbidden sexual unions; the land vomits out its inhabitants: tagged by Claude (model), reading
     the Hebrew.'

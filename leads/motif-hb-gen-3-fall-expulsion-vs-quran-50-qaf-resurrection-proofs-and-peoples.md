@@ -20,20 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans return to the earth they were taken from (and, in the Quran,
-    are brought out of it again) [divergence between the texts] (weight 6.3); Human comes from dust and
-    returns to dust (weight 5.0). Pair score 11.3.'
+    are brought out of it again) [divergence between the texts] (weight 7.3); Human comes from dust and
+    returns to dust (weight 5.9). Pair score 13.2.'
   basis: reading
-- text: 'Only in The serpent, the eating, the curses and the expulsion: Each accused shifts blame to another
-    (man to woman, woman to serpent); First woman named as mother of all living; God heard walking in
-    the garden in the breeze of the day; Humans gain divine knowledge and God fears they will also gain
-    immortality; Woman punished with pain in childbirth and subordination to husband; The woman eats first
-    and gives the fruit to her husband; Adam receives words from his Lord and God turns to him in forgiveness
-    [divergence between the texts]; Cherubim and a flaming turning sword guard the way to the tree of
-    life; Enmity decreed at the expulsion from the garden [divergence between the texts]; Eating opens
-    their eyes and they know they are naked [divergence between the texts]; How the first couple answer
-    God after eating: shifting the blame or confessing [divergence between the texts]; The first man''s
-    response after the transgression in the garden (blame or repentance) [divergence between the texts];
-    and 25 more.'
+- text: 'Only in The serpent, the eating, the curses and the expulsion: First woman named as mother of
+    all living; God heard walking in the garden in the breeze of the day; Woman punished with pain in
+    childbirth and subordination to husband; The woman eats first and gives the fruit to her husband;
+    Adam receives words from his Lord and God turns to him in forgiveness [divergence between the texts];
+    Each accused shifts blame to another (man to woman, woman to serpent); Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; Eating opens their eyes and they know they are naked
+    [divergence between the texts]; How the first couple answer God after eating: shifting the blame or
+    confessing [divergence between the texts]; The first man''s response after the transgression in the
+    garden (blame or repentance) [divergence between the texts]; God makes garments of skin for the first
+    couple [divergence between the texts]; Ground cursed; man must eat by sweat of his brow among thorns
+    and thistles [divergence between the texts]; and 25 more.'
   basis: reading
 - text: 'Only in Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and
     the destroyed peoples: The companions of al-Rass (the well/pit), a destroyed people; Tall palm trees

@@ -18,27 +18,29 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God''s own Presence (face) will go with the people (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: God''s own Presence (face) will go with the people (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Mourning, the tent outside the camp, and Moses sees God''s back: God refuses to go among
     the people lest he consume them on the way; Joshua, the young attendant, never leaves the tent; God
-    tells the prophet: I know you by name and you have found favor; The people strip off their ornaments
-    in mourning or penitence; The people stand at their tent doors and bow as the prophet goes to meet
-    God; A tent of meeting pitched outside the camp where all who seek God go; God declares he will be
-    gracious to whom he will be gracious; Moses asks to see God, his glory or God himself [divergence
-    between the texts]; God called Moses and drew him near in confidential converse (najiyy); Moses travels
-    with his young servant (fata); After the calf the people mourn or repent of what they did [divergence
-    between the texts]; The prophet asks to see God''s glory; and 10 more.'
+    tells the prophet: I know you by name and you have found favor; The people stand at their tent doors
+    and bow as the prophet goes to meet God; A tent of meeting pitched outside the camp where all who
+    seek God go; God declares he will be gracious to whom he will be gracious; Moses asks to see God,
+    his glory or God himself [divergence between the texts]; God called Moses and drew him near in confidential
+    converse (najiyy); Moses travels with his young servant (fata); The people strip off their ornaments
+    in mourning or penitence; After the calf the people mourn or repent of what they did [divergence between
+    the texts]; The prophet asks to see God''s glory; and 10 more.'
   basis: reading
 - text: 'Only in The call to go forth; the second of two in the cave: God threatens to destroy a people
-    and put another in its place [divergence between the texts]; Sign: the young woman (''almah) is pregnant
-    and will bear a son and call his name Immanuel (''God with us''); A poem lists the tribes, praising
-    those who fought and shaming those who stayed home; The prophet is ''the second of two'' hiding in
-    the cave, telling his companion ''do not grieve, God is with us''; God supports the prophet with hosts
-    (junud) the believers did not see; The oppressed people hide in caves, dens and mountain strongholds;
-    God sends down his sakina (tranquility, cf. shekhinah) on the prophet and believers; If God wills
-    he takes you away and brings another people in your place.'
+    and put another in its place [divergence between the texts]; Reproaching followers who hang back,
+    the leader recalls how he escaped a crisis without them; The deity is the one more of a company: third
+    of two, fourth of three; Sign: the young woman (''almah) is pregnant and will bear a son and call
+    his name Immanuel (''God with us''); A poem lists the tribes, praising those who fought and shaming
+    those who stayed home; The prophet is ''the second of two'' hiding in the cave, telling his companion
+    ''do not grieve, God is with us''; God supports the prophet with hosts (junud) the believers did not
+    see; The oppressed people hide in caves, dens and mountain strongholds; God sends down his sakina
+    (tranquility, cf. shekhinah) on the prophet and believers; If God wills he takes you away and brings
+    another people in your place.'
   basis: reading
 - text: 'Mourning, the tent outside the camp, and Moses sees God''s back: tagged by Claude (model), reading
     the Hebrew.'

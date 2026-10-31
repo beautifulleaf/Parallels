@@ -20,9 +20,9 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 5.8);
-    The made idol cannot move from its place, speak or answer and save those who cry to it (weight 5.4).
-    Pair score 11.2.'
+- text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 6.8);
+    The made idol cannot move from its place, speak or answer and save those who cry to it (weight 6.5).
+    Pair score 13.3.'
   basis: reading
 - text: 'Only in Idols like scarecrows in a cucumber field: Do not learn the way of the nations or be
     dismayed by the signs of the heavens, at which the nations are dismayed; Idols are like a scarecrow

@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At God''s coming the earth quakes, heavens drip and mountains flow
-    (weight 5.2). Pair score 5.2.'
+    (weight 5.6). Pair score 5.6.'
   basis: reading
 - text: 'Only in Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain:
     God rebukes the beast of the reeds (Egypt as hippopotamus or crocodile) and the herd of bulls; Envoys
-    come from Egypt and Cush (Ethiopia) stretches out its hands to God; Dogs lick the blood of the slain
-    enemies (or of the wicked king); Liturgical procession into the sanctuary with singers, musicians
-    and maidens playing drums; God ascends on high leading captives and receiving gifts among men; God''s
-    chariots are myriads, thousands upon thousands; the Lord among them as at Sinai; God says he will
-    bring back (enemies or people) from Bashan and from the depths of the sea; God rides in the heaven
-    of heavens of old and utters his mighty voice; Many-peaked mountains (Bashan) look with envy at the
-    mountain God chose for his dwelling; A dove''s wings covered with silver and its pinions with yellow-green
-    gold; When Shaddai scattered kings, it snowed on Zalmon; A great host of women heralds (mevasserot)
-    announces the victory and women divide the spoil; and 11 more.'
+    come from Egypt and Cush (Ethiopia) stretches out its hands to God; God ascends on high leading captives
+    and receiving gifts among men; God''s chariots are myriads, thousands upon thousands; the Lord among
+    them as at Sinai; God says he will bring back (enemies or people) from Bashan and from the depths
+    of the sea; God rides in the heaven of heavens of old and utters his mighty voice; Many-peaked mountains
+    (Bashan) look with envy at the mountain God chose for his dwelling; A dove''s wings covered with silver
+    and its pinions with yellow-green gold; When Shaddai scattered kings, it snowed on Zalmon; A great
+    host of women heralds (mevasserot) announces the victory and women divide the spoil; Dogs lick the
+    blood of the slain enemies (or of the wicked king); The guilty are known by their marks and seized
+    by the forelocks and the feet; and 11 more.'
   basis: reading
 - text: 'Only in Forty nights, the request to see God and the tablets: When God manifests himself to the
     mountain it is crushed to dust; The prophet falls down unconscious at the theophany and repents on
@@ -43,7 +43,7 @@ evidence:
     Moses'' set period on the mountain is forty (days and nights, or nights) [divergence between the texts];
     A mountain is shattered when God passes by or manifests himself [divergence between the texts]; The
     prophet asks to see God''s glory; What happens after God refuses to be seen by Moses [divergence between
-    the texts]; and 6 more.'
+    the texts]; and 9 more.'
   basis: reading
 - text: 'Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain: tagged by
     Claude (model), reading the Hebrew.'

@@ -20,9 +20,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet commissioned to make the people''s heart fat, ears heavy
-    and eyes shut lest they understand and be healed [divergence between the texts] (weight 6.3); Prophet
+    and eyes shut lest they understand and be healed [divergence between the texts] (weight 7.3); Prophet
     commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand and be
-    healed (weight 5.0). Pair score 11.3.'
+    healed (weight 6.0). Pair score 13.4.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -30,19 +30,20 @@ evidence:
     terebinth or oak whose stump is the holy seed; At the heavenly voice the doorposts shake and the house
     fills with smoke; Prophet sees the Lord seated on a high and lifted-up throne, his train filling the
     temple; Heavenly beings call ''Holy, holy, holy is YHWH of hosts; the whole earth is full of his glory'';
-    God asks ''Whom shall I send, and who will go for us?'' and the prophet volunteers ''Here am I, send
-    me''; Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The
-    angels say: each of us has a known station; we are ranged in ranks; we glorify; God has not given
-    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
-    Hardening of the heart, ears and eyes of the hearers [divergence between the texts]; God is ''Lord
-    of the mighty Throne'' (rabb al-''arsh al-''azim); and 10 more.'
+    Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The angels
+    say: each of us has a known station; we are ranged in ranks; we glorify; God has not given the people
+    a heart to know, eyes to see, ears to hear until today [divergence between the texts]; Hardening of
+    the heart, ears and eyes of the hearers [divergence between the texts]; God is ''Lord of the mighty
+    Throne'' (rabb al-''arsh al-''azim); The prophet''s word and a people deaf and blind to it [divergence
+    between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Sworn oaths for a sign; even the dead speaking would not convince: Even if angels came
     down and the dead spoke to them, they would not believe; Most on earth follow only conjecture (ẓann)
     and guess; They swear solemnly they would believe if a sign came; Every prophet has enemies: devils
     of humans and jinn inspiring one another with gilded speech; Whether the dead may be consulted, or
     would persuade the living if they spoke [contrast between the texts]; Do not spread false reports
-    or follow the majority to do wrong in court; None can change the words of God.'
+    or follow the majority to do wrong in court; None can change the words of God; ''Who can change the
+    word that has gone out?'' / ''none can change his words''.'
   basis: reading
 - text: 'The throne vision and the call of Isaiah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

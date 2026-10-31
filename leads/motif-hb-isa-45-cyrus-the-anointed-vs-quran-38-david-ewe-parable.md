@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not create the heavens and earth and what is between them
-    in play (la''ibin) but in truth (weight 5.3). Pair score 5.3.'
+    in play (la''ibin) but in truth (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -40,15 +40,15 @@ evidence:
 - text: 'Only in David''s mountains, the two litigants and the ninety-nine ewes: Two litigants scale the
     wall of David''s prayer-chamber (mihrab) and frighten him; A man with ninety-nine ewes demands his
     brother''s single ewe and overpowers him in argument; A case about a ewe is brought to David for judgment
+    [divergence between the texts]; A case is put to a judge as real, and his verdict on it turns on himself
     [divergence between the texts]; ''O David, we made you a vicegerent (khalifa) on earth; judge between
     people with truth and do not follow desire''; David realizes he was being tested, asks forgiveness,
     falls down bowing and turns in repentance; God strengthened David''s kingdom and gave him wisdom and
     decisive judgment (fasl al-khitab); David''s repentance and what follows it [divergence between the
-    texts]; A man with many sheep takes another''s only ewe [divergence between the texts]; Shall God
-    treat believers like those who spread corruption, the godfearing like the wicked?; The king confesses
-    ''I have sinned'' and the prophet announces forgiveness with a remaining penalty; A prophet tells
-    a case as if real; the king condemns the offender and is told ''You are the man''; Mountains and birds
-    are made to glorify God together with David.'
+    texts]; A named ''day of reckoning'' on which accounts are settled; A man with many sheep takes another''s
+    only ewe [divergence between the texts]; Shall God treat believers like those who spread corruption,
+    the godfearing like the wicked?; The king confesses ''I have sinned'' and the prophet announces forgiveness
+    with a remaining penalty; and 4 more.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

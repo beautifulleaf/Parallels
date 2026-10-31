@@ -18,16 +18,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the people of Midian came to be destroyed [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in War against Midian and division of the spoils: Five named kings slain together; Captured
     gold jewelry offered to atone for the soldiers'' lives; Leader given a final task to complete before
     he is ''gathered to his people''; Commanders report that not one man of the army is missing; Priest
-    accompanies the army with holy vessels and trumpets; Metal spoils purified by passing through fire,
-    others through water; Warriors and captives purified outside camp seven days after battle; Army of
-    a thousand from each tribe (12,000); How spoil taken from the enemy is distributed [divergence between
-    the texts]; God punishes the enemy by the believers'' hands and heals the believers'' breasts; God
-    commands war of vengeance against a people; Foreign seer blamed for advising the seduction that led
+    accompanies the army with holy vessels and trumpets; Warriors and captives purified outside camp seven
+    days after battle; Army of a thousand from each tribe (12,000); How spoil taken from the enemy is
+    distributed [divergence between the texts]; God punishes the enemy by the believers'' hands and heals
+    the believers'' breasts; God commands war of vengeance against a people; Metal spoils purified by
+    passing through fire, others through water; Foreign seer blamed for advising the seduction that led
     to apostasy; and 6 more.'
   basis: reading
 - text: 'Only in Midian, Ad, Thamud, Korah, Pharaoh and Haman punished: The prophet Shu''ayb is sent to

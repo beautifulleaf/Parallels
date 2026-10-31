@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet stakes his authority: ''If you return in peace, YHWH has
-    not spoken by me'' (weight 6.7). Pair score 6.7.'
+    not spoken by me'' (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Micaiah son of Imlah and the lying spirit: God asks the heavenly council ''who will entice
-    the king?''; a spirit volunteers; Prophet imprisoned on short rations of bread and water until the
-    king returns in peace; Four hundred court prophets unanimously promise victory; Court prophet makes
-    iron horns: ''with these you will gore Aram''; A spirit volunteers in the divine council to be a lying
-    spirit in the prophets'' mouths; A single true prophet, hated by the king because he never prophesies
-    good for him; Prophet first sarcastically repeats the favorable oracle, then under oath tells the
-    true one; A false prophet strikes the true prophet on the cheek; Where false words in a prophet''s
-    message come from, and what becomes of them [divergence between the texts]; Prophet sees God seated
-    on his throne with all the host of heaven standing to his right and left; Whether the adversary, devils
-    or deceiving spirits have access to God''s council [contrast between the texts]; God uses a false
-    prophet to test whether Israel loves him; and 1 more.'
+- text: 'Only in Micaiah son of Imlah and the lying spirit: Prophet imprisoned on short rations of bread
+    and water until the king returns in peace; God asks the heavenly council ''who will entice the king?'';
+    a spirit volunteers; Four hundred court prophets unanimously promise victory; Court prophet makes
+    iron horns: ''with these you will gore Aram''; A single true prophet, hated by the king because he
+    never prophesies good for him; Prophet first sarcastically repeats the favorable oracle, then under
+    oath tells the true one; A false prophet strikes the true prophet on the cheek; Where false words
+    in a prophet''s message come from, and what becomes of them [divergence between the texts]; Prophet
+    sees God seated on his throne with all the host of heaven standing to his right and left; Whether
+    the adversary, devils or deceiving spirits have access to God''s council [contrast between the texts];
+    God uses a false prophet to test whether Israel loves him; A spirit volunteers in the divine council
+    to be a lying spirit in the prophets'' mouths; and 1 more.'
   basis: reading
 - text: 'Only in Al-Fath: the clear opening, the sakina, the hand of God over their hands and the bedouin
     who stayed behind: The bedouin who stayed behind plead that wealth and families kept them busy and
@@ -43,7 +43,8 @@ evidence:
     divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts [divergence
     between the texts]; Oath sworn by raising the hand to God; Whether those who stayed behind share in
     the spoil [contrast between the texts]; Who is exempted from going out to war [contrast between the
-    texts]; The prophet is sent as witness, bearer of good tidings and warner; and 3 more.'
+    texts]; Household, wife or family as a ground for staying behind from a campaign [contrast between
+    the texts]; and 7 more.'
   basis: reading
 - text: 'Micaiah son of Imlah and the lying spirit: tagged by Claude (model), reading the Hebrew.'
   basis: reading

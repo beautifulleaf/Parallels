@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Which foods God permits and which he forbids [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Clean and unclean animals; carcass impurity: The camel is unclean because it does not
     have a split hoof; Touching or carrying a carcass makes one unclean until evening; Creatures that

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet reminds a disobedient people that he delivered God''s
-    message (weight 6.7). Pair score 6.7.'
+    message (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The remnant asks for an oracle, rejects it and drags Jeremiah to Tahpanhes; stones hidden
     in the pavement: The conqueror will burn the temples of a foreign land''s gods; The remnant seeks

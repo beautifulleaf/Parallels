@@ -19,6 +19,9 @@ motifs:
 - rain-revives-dead-earth
 passages: []
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: God sends the winds as heralds before his mercy and sends down pure
     water from the sky (weight 5.4); After creating the heavens and earth God established himself on the
     Throne (istawa ''ala l-''arsh) (weight 5.2); Creation is completed in six days (weight 5.2); Sun and

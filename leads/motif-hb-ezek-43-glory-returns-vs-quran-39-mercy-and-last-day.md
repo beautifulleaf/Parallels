@@ -20,17 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth shines (lit up) with God''s glory [divergence between
-    the texts] (weight 6.7); The earth shines (lit up) with God''s glory (weight 6.7). Pair score 13.4.'
+    the texts] (weight 7.7); The earth shines (lit up) with God''s glory (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in The glory of God returns to the temple: God''s voice (or the sound of his coming) is
-    like the sound of many waters; The divine glory returns to the temple from the east through the east
-    gate; Kings'' corpses or memorials (pigre malkehem) beside the temple defile God''s holy name; The
-    temple stands on the top of a (very high) mountain whose whole territory is most holy; The temple
-    is called the place of God''s throne and the soles of his feet, where he will dwell forever; The prophet
-    is to describe the temple''s plan so that Israel will be ashamed of its sins; Fear that the spirit
-    of YHWH will carry the prophet off to an unknown place; The cloud and glory fill the sanctuary so
-    that even the leader cannot enter; The sanctuary is built after a pattern shown by God on the mountain;
-    The prophet falls on his face at the sight of the divine glory.'
+    like the sound of many waters; Kings'' corpses or memorials (pigre malkehem) beside the temple defile
+    God''s holy name; The temple stands on the top of a (very high) mountain whose whole territory is
+    most holy; The prophet is to describe the temple''s plan so that Israel will be ashamed of its sins;
+    The divine glory returns to the temple from the east through the east gate; The temple is called the
+    place of God''s throne and the soles of his feet, where he will dwell forever; Fear that the spirit
+    of YHWH will carry the prophet off to an unknown place; The prophet falls on his face at the sight
+    of the divine glory; The cloud and glory fill the sanctuary so that even the leader cannot enter;
+    The sanctuary is built after a pattern shown by God on the mountain.'
   basis: reading
 - text: 'Only in Do not despair of mercy; the earth in God''s grip; the throngs to hell and Garden: The
     angels are seen surrounding the Throne, glorifying the praise of their Lord; The blessed praise God
@@ -42,9 +42,9 @@ evidence:
     chance (karra)''; If you associate partners with God your deeds will come to nothing; At the first
     trumpet blast all in heaven and earth swoon (sa''iqa) except whom God wills; at the second they stand
     looking; On the Day of Resurrection the whole earth is in God''s grip and the heavens folded in his
-    right hand; Who holds the keys that open and shut [divergence between the texts]; The keepers of hell
-    ask ''Did not messengers from among you come to you?''; To God belong the keys (maqalid) of the heavens
-    and the earth; and 5 more.'
+    right hand; At the gate of the netherworld the gatekeepers question those who arrive [divergence between
+    the texts]; Heaven and earth held in a hand or under the feet [divergence between the texts]; Who
+    holds the keys that open and shut [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'The glory of God returns to the temple: tagged by Claude (model), reading the Hebrew.'
   basis: reading

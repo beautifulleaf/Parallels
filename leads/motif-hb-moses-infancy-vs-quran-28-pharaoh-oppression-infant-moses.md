@@ -13,20 +13,20 @@ traditions:
 layers:
 - motif
 motifs:
-- sister-watches
 - adopted-by-royal-woman
-- sister-offers-nurse
+- sister-watches
 - returned-to-own-mother
+- sister-offers-nurse
 - found-by-royal-household
 - infant-set-adrift
 - king-kills-male-infants
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Infant''s sister watches over him (weight 6.0); Infant adopted by
-    a royal woman (weight 6.0); Sister offers to find a nurse (weight 5.8); Infant returned to his own
-    mother to nurse (weight 5.8); Infant found by members of a royal household (weight 5.6); Infant placed
-    in a container and set on the water (weight 5.6); Ruler orders the killing of male infants (weight
-    5.1). Pair score 39.8.'
+- text: 'Shared motifs, rarest first: Infant adopted by a royal woman (weight 7.1); Infant''s sister watches
+    over him (weight 7.1); Infant returned to his own mother to nurse (weight 6.8); Sister offers to find
+    a nurse (weight 6.8); Infant found by members of a royal household (weight 6.6); Infant placed in
+    a container and set on the water (weight 6.6); Ruler orders the killing of male infants (weight 6.1).
+    Pair score 47.2.'
   basis: reading
 - text: 'Only in The infant Moses in Exodus: Mother hides the infant; Name explained by being drawn from
     water; The container is made of reeds or papyrus; Vessel sealed with pitch or bitumen.'
@@ -35,12 +35,13 @@ evidence:
     empty and she nearly discloses him, but God steadies her heart; God wills to favor the oppressed and
     make them leaders (aʾimma) and inheritors; Pharaoh exalted himself and divided the land''s people
     into factions, oppressing one group; Infant adopted by a royal woman [divergence between the texts];
-    The oppressor slaughters the sons and lets the women live; Who decides that Moses be put on the water
-    [divergence between the texts]; Why Pharaoh oppresses Israel [divergence between the texts]; Infant
-    returned to his own mother to nurse [divergence between the texts]; Sister offers to find a nurse
-    [divergence between the texts]; Hāmān appears as Pharaoh''s minister and partner; Infant refuses other
-    wet nurses; Infant placed in a container and set on the water [divergence between the texts]; and
-    4 more.'
+    A foundling not born of her is taken in and adopted as a son by a royal or divine woman; A newborn
+    destined to bring down a ruler is hidden so that the ruler does not see and kill it [divergence between
+    the texts]; The oppressor slaughters the sons and lets the women live; Who decides that Moses be put
+    on the water [divergence between the texts]; Why Pharaoh oppresses Israel [divergence between the
+    texts]; Infant returned to his own mother to nurse [divergence between the texts]; A royal house takes
+    a foreign youth whose life is threatened as its son; Sister offers to find a nurse [divergence between
+    the texts]; and 8 more.'
   basis: reading
 - text: 'The infant Moses in Exodus: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -49,7 +50,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Infant's sister watches over him
+finding: Infant adopted by a royal woman
 kinds:
 - shared
 units:
@@ -60,20 +61,6 @@ units:
   title: Pharaoh's oppression and the infant Moses on the water
   tradition: islam
 matches:
-- kind: shared
-  label: Infant's sister watches over him
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 2:4
-      lang: he
-      text: וַתֵּתַצַּ֥ב אֲחֹת֖וֹ מֵרָחֹ֑ק לְדֵעָ֕ה מַה יֵּעָשֶׂ֖ה לֽוֹ
-  - tradition: islam
-    passages:
-    - ref: Quran 28:11
-      lang: ar
-      text: وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ
-    note: '''follow him''; she watched from afar unnoticed'
 - kind: shared
   label: Infant adopted by a royal woman
   sides:
@@ -92,20 +79,19 @@ matches:
         أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ
     note: 'Pharaoh''s wife: ''a comfort of the eye (qurrat ʿayn) for me and you'''
 - kind: shared
-  label: Sister offers to find a nurse
+  label: Infant's sister watches over him
   sides:
   - tradition: judaism
     passages:
-    - ref: Exod 2:7
+    - ref: Exod 2:4
       lang: he
-      text: וַתֹּ֣אמֶר אֲחֹתוֹ֮ אֶל בַּת פַּרְעֹה֒ הַאֵלֵ֗ךְ וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן
-        הָעִבְרִיֹּ֑ת וְתֵינִ֥ק לָ֖ךְ אֶת הַיָּֽלֶד
+      text: וַתֵּתַצַּ֥ב אֲחֹת֖וֹ מֵרָחֹ֑ק לְדֵעָ֕ה מַה יֵּעָשֶׂ֖ה לֽוֹ
   - tradition: islam
     passages:
-    - ref: Quran 28:12
+    - ref: Quran 28:11
       lang: ar
-      text: وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ
-        يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
+      text: وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ
+    note: '''follow him''; she watched from afar unnoticed'
 - kind: shared
   label: Infant returned to his own mother to nurse
   sides:
@@ -124,6 +110,21 @@ matches:
       lang: ar
       text: فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ
         ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+- kind: shared
+  label: Sister offers to find a nurse
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 2:7
+      lang: he
+      text: וַתֹּ֣אמֶר אֲחֹתוֹ֮ אֶל בַּת פַּרְעֹה֒ הַאֵלֵ֗ךְ וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן
+        הָעִבְרִיֹּ֑ת וְתֵינִ֥ק לָ֖ךְ אֶת הַיָּֽלֶד
+  - tradition: islam
+    passages:
+    - ref: Quran 28:12
+      lang: ar
+      text: وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ
+        يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ
 - kind: shared
   label: Infant found by members of a royal household
   sides:

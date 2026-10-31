@@ -23,20 +23,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Thunder is the roaring voice of God [divergence between the texts]
-    (weight 6.7); God makes the night cover the day (weight 6.3); Sun and moon are subjected, each running
-    to an appointed term (weight 5.8). Pair score 18.7.'
+    (weight 7.7); God makes the night cover the day (weight 7.3); Sun and moon are subjected, each running
+    to an appointed term (weight 6.8). Pair score 21.9.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 38 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 38 more.'
   basis: reading
 - text: 'Only in The signs of creation, thunder and the parable of the foam (Surah 13:1-17): To every
     people there is a guide; God knows what every female carries and how wombs shrink or swell; Each person
@@ -45,10 +45,11 @@ evidence:
     watered with one water give different fruits: a sign; Parable: torrents and smelted metal throw up
     foam that vanishes, while what benefits people remains; The thunder glorifies God with his praise,
     and the angels too in awe of him; All in heaven and earth prostrate to God, willingly or unwillingly,
-    even their shadows morning and evening; God raised the heavens without pillars that you can see [divergence
-    between the texts]; The thunder glorifies God with his praise, and the angels too in awe of him [divergence
-    between the texts]; God shows lightning in fear and hope and sends thunderbolts on whom he wills;
-    Rhetorical question: are the blind and the seeing equal, or darkness and light?; and 11 more.'
+    even their shadows morning and evening; A protector goes (stands) before and behind a man to guard
+    him [divergence between the texts]; God raised the heavens without pillars that you can see [divergence
+    between the texts]; Lightning, thunderbolts or hail sent from heaven at the god''s command strike
+    what he wills [divergence between the texts]; How thunder in the clouds relates to the god: his own
+    roar or a creature praising him [shared matter] [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God rains destruction on Lot''s town [divergence between the texts]
-    (weight 6.7); God rains sulfur and fire from heaven on cities (weight 4.8). Pair score 11.5.'
+    (weight 7.7); God rains sulfur and fire from heaven on cities (weight 5.9). Pair score 13.6.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -37,13 +37,13 @@ evidence:
 - text: 'Only in Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town: The
     ''People of the Rass'' (aṣḥāb al-rass, the well) named among destroyed peoples; Most unbelievers are
     like cattle, or even further astray; The prophet asks that his brother be made his helper (wazīr)
-    and partner in his mission; ''Do not go about after your heart and your eyes''; Ox knows its owner
-    and the ass its master''s crib, but Israel does not know (animals wiser than God''s people); The sign
-    the flood leaves for later generations [divergence between the texts]; The town that was rained on
-    with an evil rain (Lot''s) is passed by travelers; Aaron''s role beside Moses and how he is appointed
-    [divergence between the texts]; Why God destroyed a generation or a people [divergence between the
-    texts]; Whoever takes his own desire (hawā) as his god; The people mock God''s messengers, despise
-    his words and scoff at his prophets; All others perish; and 1 more.'
+    and partner in his mission; ''Do not go about after your heart and your eyes''; The sign the flood
+    leaves for later generations [divergence between the texts]; The town that was rained on with an evil
+    rain (Lot''s) is passed by travelers; Aaron''s role beside Moses and how he is appointed [divergence
+    between the texts]; Why God destroyed a generation or a people [divergence between the texts]; Whoever
+    takes his own desire (hawā) as his god; Ox knows its owner and the ass its master''s crib, but Israel
+    does not know (animals wiser than God''s people); The people mock God''s messengers, despise his words
+    and scoff at his prophets; Destruction follows the people''s rejection of a messenger; and 1 more.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Conqueror spares the enemy king and best livestock against God''s
-    command (weight 6.0). Pair score 6.0.'
+    command (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in War on Amalek, Agag spared, and Saul''s rejection: A friendly people living among the
     enemy is warned to leave before the attack (the Kenites); The Eternal of Israel does not lie or repent,

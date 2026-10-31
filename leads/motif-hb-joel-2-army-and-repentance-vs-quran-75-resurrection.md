@@ -14,39 +14,39 @@ traditions:
 layers:
 - motif
 motifs:
-- sun-moon-darkened-stars-withdraw
 - radiant-and-darkened-faces
+- sun-moon-darkened-stars-withdraw
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Sun and moon are darkened and the stars withdraw their shining (weight
-    5.8); On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
-    with darkness (weight 5.8). Pair score 11.5.'
+- text: 'Shared motifs, rarest first: On that day some faces are radiant, laughing and joyful, others
+    scowling, dust-covered and overcast with darkness (weight 6.8); Sun and moon are darkened and the
+    stars withdraw their shining (weight 6.5). Pair score 13.3.'
   basis: reading
 - text: 'Only in The locust army of the Day of YHWH; ''rend your hearts''; restoration: Even bridegroom
     and bride must leave the wedding chamber for the public fast; God sends the early and latter rain
-    (moreh and malqosh) and restores abundance; The invaders climb walls and enter houses through windows
-    like a thief; The land is like the Garden of Eden before the invader and a desolate wilderness after;
-    The locusts look like horses and run like cavalry, leaping on mountaintops with a noise like chariots;
-    The northern one (ha-tsefoni) is driven into the desert and seas, and its stench rises; Priests weep
-    between the porch and the altar; ''Rend your hearts and not your garments''; Blow the shofar in Zion,
-    sound the alarm on God''s holy mountain; ''Who knows? He may turn and relent'' (mi yodea); God will
-    repay the years the locust has eaten; Proclaim a fast, call a solemn assembly, gather elders and all
-    the people to the house of God and cry out; and 8 more.'
+    (moreh and malqosh) and restores abundance; The land is like the Garden of Eden before the invader
+    and a desolate wilderness after; The locusts look like horses and run like cavalry, leaping on mountaintops
+    with a noise like chariots; The northern one (ha-tsefoni) is driven into the desert and seas, and
+    its stench rises; Priests weep between the porch and the altar; ''Rend your hearts and not your garments'';
+    Blow the shofar in Zion, sound the alarm on God''s holy mountain; ''Who knows? He may turn and relent''
+    (mi yodea); God will repay the years the locust has eaten; Proclaim a fast, call a solemn assembly,
+    gather elders and all the people to the house of God and cry out; God loves those who fight in his
+    way in ranks as though they were a solid structure (bunyan marsus); and 8 more.'
   basis: reading
 - text: 'Only in The resurrection: bones, fingertips and the collarbone: On that day radiant faces look
     upon their Lord (beatific vision); Does man think he will be left aimless (suda), without purpose
     or accountability?; Oath by the self-reproaching soul (al-nafs al-lawwama); At death the soul reaches
     the collarbones, someone asks ''who is a healer (or charmer, raq)?'', leg is wrapped with leg and
     the drive is to the Lord; The prophet is told not to hasten with the recitation before its revelation
-    is complete; Man will be evidence against himself, even if he offers his excuses; At the prophet''s
-    word there is a rattling; bones come together bone to bone, then sinews, flesh and skin cover them,
-    but there is no breath; Then each soul will know what it has brought forward and what it left behind;
-    On that day man asks ''where to flee?'' but there is no refuge; the destination is with God; God created
-    humans (and things) in pairs, male and female; God poured the embryo out like milk and curdled it
-    like cheese, clothing it with skin and flesh and knitting bones and sinews; Oath introduced by the
-    negated formula ''No! I swear by...'' (la uqsimu / fa-la uqsimu); and 3 more.'
+    is complete; The body of the dead is made whole again, all its limbs complete [divergence between
+    the texts]; An eclipse of the moon as a portent of disaster before which people seek escape or protection
+    [divergence between the texts]; Man will be evidence against himself, even if he offers his excuses;
+    At the prophet''s word there is a rattling; bones come together bone to bone, then sinews, flesh and
+    skin cover them, but there is no breath; Then each soul will know what it has brought forward and
+    what it left behind; On that day man asks ''where to flee?'' but there is no refuge; the destination
+    is with God; God created humans (and things) in pairs, male and female; and 5 more.'
   basis: reading
 - text: 'The locust army of the Day of YHWH; ''rend your hearts''; restoration: tagged by Claude (model),
     reading the Hebrew.'

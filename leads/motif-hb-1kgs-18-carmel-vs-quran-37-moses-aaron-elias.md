@@ -12,30 +12,30 @@ traditions:
 layers:
 - motif
 motifs:
-- outcome-of-the-challenge-to-baal-as-divergence
 - lone-prophet-against-hundreds
 - prophets-challenge-to-baal-worshippers-as-divergence
+- outcome-of-the-challenge-to-baal-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How the people respond to the prophet''s challenge over Baal [divergence
-    between the texts] (weight 6.7); A single prophet of YHWH stands against 450 prophets of Baal and
-    400 of Asherah (weight 6.7); A prophet challenges the people who worship Baal [divergence between
-    the texts] (weight 6.7). Pair score 20.1.'
+- text: 'Shared motifs, rarest first: A single prophet of YHWH stands against 450 prophets of Baal and
+    400 of Asherah (weight 7.7); A prophet challenges the people who worship Baal [divergence between
+    the texts] (weight 7.7); How the people respond to the prophet''s challenge over Baal [divergence
+    between the texts] (weight 7.7). Pair score 23.2.'
   basis: reading
 - text: 'Only in Contest on Mount Carmel: Prophet repairs the ruined altar with twelve stones for the
     tribes of Jacob; Contest of gods: the god who answers by fire on an unlit sacrifice is God; The prophets
-    of Baal are seized and slaughtered at the brook Kishon; Prophets of Baal limp-dance around the altar
-    and gash themselves with swords and lances till blood flows; Prophet mocks the silent god: perhaps
-    he is musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched
-    with four jars of water three times, filling a trench, before the miracle; The people fall on their
-    faces crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; An offering consumed by fire
-    as proof of the true God or messenger [response between the texts]; Fire from heaven falls and consumes
-    the offering, wood, stones, dust and water; ''How long will you hop between two branches? If YHWH
-    is God, follow him; if Baal, follow him''; Parable: a slave owned by quarreling partners versus a
-    slave belonging wholly to one man; and 8 more.'
+    of Baal are seized and slaughtered at the brook Kishon; Prophet mocks the silent god: perhaps he is
+    musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched with
+    four jars of water three times, filling a trench, before the miracle; The people fall on their faces
+    crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and the
+    king''s religious specialists ends [contrast between the texts]; An offering consumed by fire as proof
+    of the true God or messenger [response between the texts]; Fire from heaven falls and consumes the
+    offering, wood, stones, dust and water; ''How long will you hop between two branches? If YHWH is God,
+    follow him; if Baal, follow him''; Parable: a slave owned by quarreling partners versus a slave belonging
+    wholly to one man; Prophets of Baal limp-dance around the altar and gash themselves with swords and
+    lances till blood flows; and 8 more.'
   basis: reading
 - text: 'Only in Moses and Aaron; Elias against Ba''l: The prophet''s name appears in variant form (''Il
     Yasin'') for rhyme; Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake the best

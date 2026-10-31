@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to those who call evil good and good evil, darkness light and
-    bitter sweet (weight 6.7). Pair score 6.7.'
+    bitter sweet (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Song of the vineyard; six woes; the nation from afar: Woe to those who rise early for
     strong drink and feast with lyre and harp but ignore God''s work; God raises a banner and whistles
@@ -29,10 +29,10 @@ evidence:
     hoped for mishpat (justice) but got mishpah (bloodshed), for tsedaqah but got tse''aqah (outcry);
     God speaks to the snow ''Fall on the earth'' and commands the downpour; Hypocrite men and women enjoin
     wrong and forbid right and close their hands; Refrain: ''For all this his anger is not turned back
-    and his hand is stretched out still''; Sheol enlarges its appetite and opens its mouth without limit
-    to swallow the people; God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter
-    fruit, tamarisk and a few lote-trees; Scoffers ask ''Lord, hasten to us our share (qittana) before
-    the Day of Reckoning''; and 8 more.'
+    and his hand is stretched out still''; God sends the flood of al-''Arim (the dam) and turns the two
+    gardens into bitter fruit, tamarisk and a few lote-trees; Scoffers ask ''Lord, hasten to us our share
+    (qittana) before the Day of Reckoning''; God asks Gehenna ''Are you full?'' and it answers ''Are there
+    any more?''; and 8 more.'
   basis: reading
 - text: 'Only in Believers, unbelievers and hypocrites: The faithful defined as those who believe in the
     unseen (al-ghayb); The scripture announces itself as ''the Book'' in which there is no doubt, guidance
@@ -44,7 +44,7 @@ evidence:
     between the texts]; Who is blind but my servant, deaf like my messenger? Israel sees much but does
     not observe; The hypocrites try to deceive God, but it is he who deceives them; Hypocrites profess
     faith before believers and tell their own ''devils'' in private they were only mocking; Who is called
-    blind and deaf toward God''s word [divergence between the texts]; and 5 more.'
+    blind and deaf toward God''s word [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Song of the vineyard; six woes; the nation from afar: tagged by Claude (model), reading the Hebrew.'
   basis: reading

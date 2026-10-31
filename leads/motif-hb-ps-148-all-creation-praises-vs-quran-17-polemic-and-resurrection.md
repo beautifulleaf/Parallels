@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The seven heavens, the earth and everything in them glorify God,
-    though humans do not understand their praise (weight 6.3). Pair score 6.3.'
+    though humans do not understand their praise (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 148, praise from heaven and earth: Kings and peoples, princes and judges, young
     men and maidens, old and young together praise God; God commanded and they were created; he established
@@ -28,11 +28,11 @@ evidence:
     God; Sea monsters (tanninim) and all deeps are summoned to praise God from the earth; ''The waters
     above the heavens'' are summoned to praise; Fire and hail, snow and smoke, stormy wind fulfilling
     his word; God''s angels, mighty ones who do his word, and all his hosts and ministers are summoned
-    to bless him; Those near God do not disdain to worship him; they glorify him and prostrate; Birds
-    with outspread wings glorify God; each knows its prayer and praise; Heaven, earth, seas and all that
-    moves in them praise God; The place of humans in the worship offered by all creation [divergence between
-    the texts]; The ''statutes of the heavens'' (huqqot shamayim) and their rule over the earth; and 6
-    more.'
+    to bless him; Those near God do not disdain to worship him; they glorify him and prostrate; Heaven,
+    earth, seas and all that moves in them praise God; The place of humans in the worship offered by all
+    creation [divergence between the texts]; The ''statutes of the heavens'' (huqqot shamayim) and their
+    rule over the earth; Mountains and birds are made to glorify God together with David [divergence between
+    the texts]; and 6 more.'
   basis: reading
 - text: 'Only in Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60):
     Answer to the deniers: even if you were stone or iron, the one who made you first will raise you;
@@ -44,8 +44,8 @@ evidence:
     the texts]; If there were other gods they would seek a way to the Lord of the Throne; Opponents say
     the believers follow only a bewitched man (rajul mashur); Satan stirs up enmity (nazagha) between
     brothers or among people; Thamud''s most wretched one rises; the messenger warns ''God''s she-camel
-    and her drinking''; they hamstring her and God crushes them; God ranked some messengers above others;
-    to some God spoke; and 6 more.'
+    and her drinking''; they hamstring her and God crushes them; Heaven, earth and inanimate things have
+    a speech that humans do not understand [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Psalm 148, praise from heaven and earth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,29 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Marrying foreign women will lead the sons into idolatry (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in One father, one God; foreign wives and the wife of one''s youth: The people cover God''s
     altar with tears, weeping and groaning because he no longer accepts their offering; ''I hate sending
-    away (divorce)'', says YHWH, and covering one''s garment with violence; God is witness between a man
-    and the wife of his youth, his companion and ''wife of your covenant''; Husband writes a bill of divorcement
+    away (divorce)'', says YHWH, and covering one''s garment with violence; Husband writes a bill of divorcement
     for ''some indecency'' and sends her away [contrast between the texts]; One origin (one father, one
     pair, one God) as ground for conduct toward others [divergence between the texts]; God''s attitude
     to divorce [contrast between the texts]; Whether separation of spouses is allowed or hated by God
-    [contrast between the texts]; ''Have we not all one father? Has not one God created us? Why do we
+    [contrast between the texts]; God is witness between a man and the wife of his youth, his companion
+    and ''wife of your covenant''; ''Have we not all one father? Has not one God created us? Why do we
     deal treacherously with one another?''; Husband writes a bill of divorcement for ''some indecency''
     and sends her away.'
   basis: reading
 - text: 'Only in Wine, gambling, orphans, mixed marriage and menstruation: A believing slave woman (or
     man) is better for marriage than an attractive polytheist; What to spend? ''The surplus'' (al-''afw);
-    Mixing with orphans'' affairs permitted: they are your brothers; Your wives are a tilth for you; come
-    to your tilth as you wish; Intercourse with a menstruating woman is forbidden [divergence between
-    the texts]; A woman is purifying herself from her menstrual impurity; Wine and gambling: in both great
-    sin and some benefit, but the sin is greater; Do not look at wine when it is red and sparkles in the
-    cup; at the last it bites like a serpent and stings like a viper; Whether wine is good or harmful
-    [contrast between the texts]; Ban on marrying outside the community and its criterion [divergence
-    between the texts]; Intercourse with a menstruating woman is forbidden; Prohibition of intermarriage
-    with the peoples of the land lest they turn sons to other gods.'
+    Mixing with orphans'' affairs permitted: they are your brothers; Intercourse with a menstruating woman
+    is forbidden [divergence between the texts]; Marriage with a man or woman of the hostile outside group
+    is barred or dangerous, because the spouse will lead to betrayal or ruin; Ploughing and sowing a field
+    stand for insemination (the plough impregnates the earth; women are a tilth); A woman is purifying
+    herself from her menstrual impurity; Wine and gambling: in both great sin and some benefit, but the
+    sin is greater; Do not look at wine when it is red and sparkles in the cup; at the last it bites like
+    a serpent and stings like a viper; A woman (wife) is likened to a field that is ploughed; Whether
+    wine is good or harmful [contrast between the texts]; Ban on marrying outside the community and its
+    criterion [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'One father, one God; foreign wives and the wife of one''s youth: tagged by Claude (model), reading
     the Hebrew.'

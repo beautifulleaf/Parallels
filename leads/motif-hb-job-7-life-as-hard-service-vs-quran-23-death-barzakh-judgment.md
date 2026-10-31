@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether those who die and return to dust rise again [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job - human life as hard service; ''Am I Sea or Dragon?'': Life''s days are swifter than
     a weaver''s shuttle; The sufferer''s flesh is clothed with worms and clods of dust; his skin cracks
-    and festers; ''Am I Sea, or the Dragon (tannin), that you set a guard over me?''; God terrifies the
-    sufferer with dreams and visions at night; God called ''watcher of humankind'' (notser ha''adam) who
-    targets the sufferer; ''What is man that you make so much of him?'' turned into a complaint against
-    divine scrutiny (cf. Ps 8); Sufferer says God will seek him in the morning and he will be no more;
-    Human life on earth is hard service (tsava), its days like those of a hired laborer; Like a vanishing
+    and festers; God called ''watcher of humankind'' (notser ha''adam) who targets the sufferer; ''What
+    is man that you make so much of him?'' turned into a complaint against divine scrutiny (cf. Ps 8);
+    Sufferer says God will seek him in the morning and he will be no more; Human life on earth is hard
+    service (tsava), its days like those of a hired laborer; ''Am I Sea, or the Dragon (tannin), that
+    you set a guard over me?''; God terrifies the sufferer with dreams and visions at night; Like a vanishing
     cloud, whoever goes down to Sheol does not come up; his place knows him no more; Sea, deep or sea
     monster subdued or defeated by God.'
   basis: reading
@@ -36,13 +36,13 @@ evidence:
     now the believers triumph; God tells the damned pleading to leave hell: ''Be driven away into it and
     do not speak to me''; At death the sinner begs ''My Lord, send me back, that I may do good''; it is
     refused; When the trumpet is blown there will be no ties of kinship between them, nor will they ask
-    after one another; Seek refuge in God from the goadings of the devils and from their presence; A dying
-    person''s plea to God for more life, and God''s answer [contrast between the texts]; On that day a
-    great shofar will be blown and the lost in Assyria and outcasts in Egypt will come and worship on
-    the holy mountain; Just scales are set up on the day of resurrection; even a mustard seed''s weight
-    is brought forth; YHWH is the true God, the living God and everlasting King at whose wrath the earth
-    quakes; ''Let God weigh me in just balances and know my integrity''; At the resurrection people think
-    they tarried only ten days, or a day, or part of a day; and 5 more.'
+    after one another; Seek refuge in God from the goadings of the devils and from their presence; The
+    dead cannot come back to life on earth; A dying person''s plea to God for more life, and God''s answer
+    [contrast between the texts]; On that day a great shofar will be blown and the lost in Assyria and
+    outcasts in Egypt will come and worship on the holy mountain; A span of many years is set against
+    a single day [divergence between the texts]; At the judgment after death a whole lifetime is reckoned
+    as an hour or a day; The dead cannot go back to the life they left [divergence between the texts];
+    and 10 more.'
   basis: reading
 - text: 'Job - human life as hard service; ''Am I Sea or Dragon?'': tagged by Claude (model), reading
     the Hebrew.'

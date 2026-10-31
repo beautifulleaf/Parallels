@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Emission of semen makes a man (and his partner) unclean until evening
-    (weight 6.7); Purification after seminal emission or intercourse [divergence between the texts] (weight
-    6.7). Pair score 13.4.'
+    (weight 7.7); Purification after seminal emission or intercourse [divergence between the texts] (weight
+    7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Impurity of bodily discharges, semen and menstruation: Human impurity defiles God''s
     dwelling in their midst and endangers them; Impurity passes to the bed, seat or saddle of the unclean
@@ -35,9 +35,9 @@ evidence:
   basis: reading
 - text: 'Only in Prayer not while drunk; bathing and dry ablution: Do not approach prayer while intoxicated,
     until you know what you say; One in major impurity (junub) must bathe before prayer, except a traveller
-    passing through; No wine before approaching God [divergence between the texts]; Without water, purify
-    with clean earth (tayammum), wiping face and hands; Priests may not drink wine or strong drink when
-    entering the tent.'
+    passing through; No wine before approaching God [divergence between the texts]; One who has had intercourse
+    must wash before approaching the deity''s service or prayer; Without water, purify with clean earth
+    (tayammum), wiping face and hands; Priests may not drink wine or strong drink when entering the tent.'
   basis: reading
 - text: 'Impurity of bodily discharges, semen and menstruation: tagged by Claude (model), reading the
     Hebrew.'

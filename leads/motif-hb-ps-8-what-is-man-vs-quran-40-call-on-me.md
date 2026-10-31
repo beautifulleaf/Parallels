@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The creation of the heavens is greater than the creation of humankind
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 8 - what is man: The heavens, moon and stars are the work of God''s fingers; Man
     made a little lower than elohim and crowned with glory and honor; Refrain: ''How majestic is your
@@ -38,10 +38,11 @@ evidence:
     The form God gave humans at creation [divergence between the texts]; From dust, then a drop, then
     a clinging clot (''alaqa), then a child, then full strength, then old age; some die before; Rhetorical
     question: are the blind and the seeing equal, or darkness and light?; God made leaders (a''imma) among
-    the Israelites who guided by his command because they were patient; Humanity made in the image or
-    likeness of the deity; Glorify God in the evening, morning, afternoon and noon (set times of praise
-    or prayer); God creates by saying to a thing ''Be'' and it is (kun fa-yakun); Sun and moon are set
-    to rule day and night and mark signs and seasons.'
+    the Israelites who guided by his command because they were patient; The creator made heaven and earth,
+    light, air and food ''for their sake'' (n-jb =sn), for humankind; Glorify God in the evening, morning,
+    afternoon and noon (set times of praise or prayer); Humanity made in the image or likeness of the
+    deity; God creates by saying to a thing ''Be'' and it is (kun fa-yakun); Sun and moon are set to rule
+    day and night and mark signs and seasons.'
   basis: reading
 - text: 'Psalm 8 - what is man: tagged by Claude (model), reading the Hebrew.'
   basis: reading

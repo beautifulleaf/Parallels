@@ -18,7 +18,7 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero placed over the land''s storehouses or the kingdom (weight
-    5.6); Hero attributes his dream interpretation to God (weight 5.4). Pair score 11.0.'
+    6.6); Hero attributes his dream interpretation to God (weight 6.1). Pair score 12.8.'
   basis: reading
 - text: 'Only in The statue of four metals and the stone cut without hands: Destroyed kingdoms become
     like chaff from the summer threshing floors carried away by the wind; There is a God in heaven who
@@ -33,12 +33,12 @@ evidence:
     ''king of kings''; ''Your kingdom is a kingdom of all ages and your dominion through all generations''.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 55 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 55 more.'
   basis: reading
 - text: 'The statue of four metals and the stone cut without hands: tagged by Claude (model), reading
     the Aramaic.'

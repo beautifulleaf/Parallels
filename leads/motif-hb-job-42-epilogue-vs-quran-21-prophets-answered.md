@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God restores the righteous sufferer''s fortunes and gives him twice
-    what he had [divergence between the texts] (weight 6.7); God restores the righteous sufferer''s fortunes
-    and gives him twice what he had (weight 6.3). Pair score 13.0.'
+    what he had [divergence between the texts] (weight 7.7); God restores the righteous sufferer''s fortunes
+    and gives him twice what he had (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Epilogue - the friends rebuked, Job''s intercession and restoration: A burnt offering
     of seven bulls and seven rams is commanded to avert divine anger; God declares his anger at the sufferer''s
     friends for not speaking rightly of him as his servant did; Kin and acquaintances console him and
     each gives a qesitah (coin) and a gold ring; The restored sufferer has again seven sons and three
-    daughters (children not doubled); The patriarch lives to see his descendants to the fourth generation;
-    The vindicated sufferer prays for the friends who wronged him and is restored as he prays; Three named
-    daughters (Jemimah, Keziah, Keren-happuch), the most beautiful in the land, inherit among their brothers;
-    What God restores to Job at the end [divergence between the texts]; Patriarch dies in good old age,
-    full of days, and is gathered to his people.'
+    daughters (children not doubled); The vindicated sufferer prays for the friends who wronged him and
+    is restored as he prays; Three named daughters (Jemimah, Keziah, Keren-happuch), the most beautiful
+    in the land, inherit among their brothers; The patriarch lives to see his descendants to the fourth
+    generation; What God restores to Job at the end [divergence between the texts]; Patriarch dies in
+    good old age, full of days, and is gathered to his people.'
   basis: reading
 - text: 'Only in Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun, Zechariah and Mary: A prophet called Dhū l-Kifl
     is listed among the patient; A prophet named Idrīs is mentioned among the righteous; The man of the

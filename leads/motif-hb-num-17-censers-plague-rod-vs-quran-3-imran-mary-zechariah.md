@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Lots, rods or reeds decide who will be the child''s guardian (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Censers as altar plating, Aaron stops the plague, Aaron''s rod blossoms: Chosen leader''s
     rod sprouts, blossoms and bears almonds overnight; Rebels'' censers beaten into altar plating as a
@@ -37,8 +37,8 @@ evidence:
     by gestures; Zechariah is made Mary''s guardian; Prophet promises a childless woman with an old husband
     a son ''at this season next year''; God chose Adam, Noah, the family of Abraham and the family of
     Imran over the worlds; Doubt voiced at the promise of a son in old age [divergence between the texts];
-    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; Mother vows her (unborn)
-    child to God''s service [divergence between the texts]; and 13 more.'
+    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; A mother commits her
+    child to her god''s keeping, against sin or against the evil one; and 16 more.'
   basis: reading
 - text: 'Censers as altar plating, Aaron stops the plague, Aaron''s rod blossoms: tagged by Claude (model),
     reading the Hebrew.'

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Freed slave must not be sent away empty-handed but furnished from
-    flock, threshing floor and winepress (weight 6.7). Pair score 6.7.'
+    flock, threshing floor and winepress (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Release of debts, release of Hebrew slaves, firstlings: Base thought refusing a loan
     as the release year nears; the poor man cries to God against you; There will be no poor among you,
@@ -39,13 +39,13 @@ evidence:
     back; Believing men and women are told to lower their gaze and guard their private parts; Grant slaves
     who ask a written manumission contract (kitāba) and give them of God''s wealth; Marry off the unmarried
     among you and your righteous slaves; God will enrich the poor; Believing women draw their head-coverings
-    (khumur) over their bosoms and do not show adornment except to listed kin; Bride covers herself with
-    a veil on seeing the groom; ''I made a covenant with my eyes; how then could I look upon a virgin?'';
+    (khumur) over their bosoms and do not show adornment except to listed kin; A man''s look at a woman,
+    and what is required or done about it [neutral] [divergence between the texts]; Bride covers herself
+    with a veil on seeing the groom; ''I made a covenant with my eyes; how then could I look upon a virgin?'';
     A father must not make his daughter a prostitute; Women should not strike their feet to make known
     their hidden ornaments (anklets); The head of a household must not prostitute a woman under his authority
     [divergence between the texts]; Catalogue of bridal finery: embroidered cloth, tahash sandals, linen,
-    silk, bracelets, necklace, nose-ring, earrings and a crown; Creditor must wait outside for the pledge
-    and return a poor man''s cloak by sunset.'
+    silk, bracelets, necklace, nose-ring, earrings and a crown; and 2 more.'
   basis: reading
 - text: 'Release of debts, release of Hebrew slaves, firstlings: tagged by Claude (model), reading the
     Hebrew.'

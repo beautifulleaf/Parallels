@@ -17,7 +17,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God gave David the Psalms (Zabur) (weight 6.0). Pair score 6.0.'
+- text: 'Shared motifs, rarest first: God gave David the Psalms (Zabur) (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in The last words of David: A just ruler is like the morning sun on a cloudless day; Poem
     opening with ''Oracle (ne''um) of the man...'' formula; The spirit of God speaks through the king''s

@@ -15,19 +15,19 @@ layers:
 motifs:
 - reason-human-wickedness
 - vessel-rests-on-mountain
-- sacrifice-after-flood
 - hero-righteous
-- divine-decision-to-destroy
+- sacrifice-after-flood
 - build-vessel-on-instruction
-- hero-warned-by-deity
+- divine-decision-to-destroy
 - universal-destruction
+- hero-warned-by-deity
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Destruction motivated by human wickedness or violence (weight 6.0);
-    Vessel comes to rest on a named mountain (weight 5.4); Hero offers sacrifice after leaving the vessel
-    (weight 5.4); Hero singled out as righteous or pious (weight 5.3); Deity decides to destroy humankind
-    (weight 5.3); Hero builds a vessel on divine instruction (weight 5.2); Hero privately warned of the
-    coming flood by a deity (weight 5.1); All others perish (weight 5.0). Pair score 42.7.'
+- text: 'Shared motifs, rarest first: Destruction motivated by human wickedness or violence (weight 7.1);
+    Vessel comes to rest on a named mountain (weight 6.4); Hero singled out as righteous or pious (weight
+    6.2); Hero offers sacrifice after leaving the vessel (weight 6.2); Hero builds a vessel on divine
+    instruction (weight 6.2); Deity decides to destroy humankind (weight 6.1); All others perish (weight
+    5.9); Hero privately warned of the coming flood by a deity (weight 5.8). Pair score 49.9.'
   basis: reading
 - text: 'Deucalion and Pyrrha (Ovid, Apollodorus): tagged by Claude (model), from secondary knowledge.'
   basis: scholarship
@@ -81,18 +81,6 @@ matches:
         אֲרָרָֽט
     note: mountains of Ararat, 7th month 17th day
 - kind: shared
-  label: Hero offers sacrifice after leaving the vessel
-  sides:
-  - tradition: greco-roman
-    passages:
-    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Apollodorus 1.7.2'
-  - tradition: judaism
-    passages:
-    - ref: Gen 8:20
-      lang: he
-      text: וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה וּמִכֹּל֙
-        הָע֣וֹף הַטָּהֹ֔ר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ
-- kind: shared
   label: Hero singled out as righteous or pious
   sides:
   - tradition: greco-roman
@@ -113,25 +101,17 @@ matches:
         צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
     note: tsaddiq tamim, 'walked with God' like Enoch
 - kind: shared
-  label: Deity decides to destroy humankind
+  label: Hero offers sacrifice after leaving the vessel
   sides:
   - tradition: greco-roman
     passages:
-    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
+    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Apollodorus 1.7.2'
   - tradition: judaism
     passages:
-    - ref: Gen 6:7
+    - ref: Gen 8:20
       lang: he
-      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
-        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
-    - ref: Gen 6:13
-      lang: he
-      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-    - ref: Gen 6:17
-      lang: he
-      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
-        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+      text: וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה וּמִכֹּל֙
+        הָע֣וֹף הַטָּהֹ֔ר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ
 - kind: shared
   label: Hero builds a vessel on divine instruction
   sides:
@@ -150,14 +130,17 @@ matches:
       text: וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה
     note: tevah of gopher wood with qinnim (rooms/reeds)
 - kind: shared
-  label: Hero privately warned of the coming flood by a deity
+  label: Deity decides to destroy humankind
   sides:
   - tradition: greco-roman
     passages:
-    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Apollodorus 1.7.2'
-    note: Prometheus
+    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Ovid, Metamorphoses I'
   - tradition: judaism
     passages:
+    - ref: Gen 6:7
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
+        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
     - ref: Gen 6:13
       lang: he
       text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
@@ -186,6 +169,23 @@ matches:
       text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
         וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
         בַּתֵּבָֽה
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: greco-roman
+    passages:
+    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Apollodorus 1.7.2'
+    note: Prometheus
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
 ---
 
 ## Questions

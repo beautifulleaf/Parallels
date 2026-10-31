@@ -14,24 +14,24 @@ layers:
 - motif
 motifs:
 - hero-forgives-brothers-as-divergence
-- hero-forgives-brothers
 - hero-sees-divine-plan
+- hero-forgives-brothers
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero forgives his brothers [divergence between the texts] (weight
-    6.3); Hero forgives his brothers (weight 5.6); Hero declares that God turned the brothers'' deed to
-    good (weight 5.6). Pair score 17.5.'
+    7.3); Hero declares that God turned the brothers'' deed to good (weight 6.6); Hero forgives his brothers
+    (weight 6.5). Pair score 20.5.'
   basis: reading
 - text: 'Only in Embalming and burial of Jacob; Joseph''s last words and death: Hero refuses to judge
     or avenge, asking ''Am I in the place of God?''; Embalmed hero laid in a coffin (aron) in Egypt; Dying
     hero foretells ''God will surely visit you'' (paqod yifqod) and bring you up; A great funeral procession
-    with royal elders, chariots and horsemen escorts the patriarch''s body; Great-grandchildren born on
-    the hero''s knees; Locals name a place for the great mourning they witness (Abel-Mizraim); After the
-    father''s death the brothers fear revenge; Embalming in the Egyptian manner; Seven days of mourning
-    for the dead; Hero makes them swear to carry his bones out of Egypt; Father asks to be buried with
-    his ancestors; Hero dies at 110.'
+    with royal elders, chariots and horsemen escorts the patriarch''s body; Locals name a place for the
+    great mourning they witness (Abel-Mizraim); After the father''s death the brothers fear revenge; Great-grandchildren
+    born on the hero''s knees; Hero makes them swear to carry his bones out of Egypt; Embalming in the
+    Egyptian manner; Seven days of mourning for the dead; Father asks to be buried with his ancestors;
+    Hero dies at 110.'
   basis: reading
 - text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
     town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
@@ -43,7 +43,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 106 more.'
+    brings back the missing royal cup, with a guarantor; and 144 more.'
   basis: reading
 - text: 'Embalming and burial of Jacob; Joseph''s last words and death: tagged by Claude (model), reading
     the Hebrew.'

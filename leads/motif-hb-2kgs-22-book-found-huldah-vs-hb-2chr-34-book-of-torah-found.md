@@ -19,6 +19,9 @@ motifs:
 - rend-garments-grief
 passages: []
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: Royal officials consult a woman prophet on behalf of the king (weight
     6.7); A lost book of the law is found in the temple during repairs (weight 6.7); Because the king
     humbled himself, he will die in peace and not see the coming disaster (weight 6.7); Workmen handling

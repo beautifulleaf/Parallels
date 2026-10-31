@@ -19,7 +19,7 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Who is saved with the hero from the destruction, and why [divergence
-    between the texts] (weight 5.8); Hero''s family saved with him (weight 4.5). Pair score 10.3.'
+    between the texts] (weight 6.8); Hero''s family saved with him (weight 5.4). Pair score 12.3.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -38,8 +38,8 @@ evidence:
     The prophet''s opponents object that only the lowliest follow him; he refuses to drive the believers
     away; Who is saved with the hero from the destruction, and why [contrast between the texts]; Whether
     the flood hero speaks to his people before the flood [divergence between the texts]; The people are
-    about to stone their leader; Hero asks the deity to judge or destroy his opponents; Formula: ''their
-    brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to his people; Refrain closing
+    about to stone their leader; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy
+    messenger sent to his people; Hero asks the deity to judge or destroy his opponents; Refrain closing
     each episode: ''In that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful'';
     Hero warns or preaches to his people before the flood; All others perish; The Prophet asks no wage
     for the message.'

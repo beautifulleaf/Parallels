@@ -19,20 +19,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Solomon asks of God and the gift none after him will match
-    [divergence between the texts] (weight 6.3). Pair score 6.3.'
+    [divergence between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Solomon''s dream at Gibeon; he asks for a listening heart: The king holds a feast for
-    his servants after a revelation; God appears to the king in a dream at night at a sanctuary after
-    sacrifice; God also grants the riches and honor that were not asked for; The new king calls himself
-    a little child who does not know how to go out or come in; Offered any gift, the king asks for wisdom
-    to judge rather than long life, riches or victory; God tells a person: ''Ask what I shall give you'';
-    Long life is promised if the king walks in God''s ways; A king offers a thousand burnt offerings.'
+    his servants after a revelation; God also grants the riches and honor that were not asked for; The
+    new king calls himself a little child who does not know how to go out or come in; Offered any gift,
+    the king asks for wisdom to judge rather than long life, riches or victory; God tells a person: ''Ask
+    what I shall give you''; Long life is promised if the king walks in God''s ways; A king offers a thousand
+    burnt offerings; God appears to the king in a dream at night at a sanctuary after sacrifice.'
   basis: reading
 - text: 'Only in Solomon''s steeds, the body on his throne, and the unmatched kingdom: God tested Solomon
     by placing a body (jasad) on his throne; then he repented; Devils serve Solomon as builders and divers,
     and others are bound together in fetters; Solomon asks for a kingdom such as no one after him should
     have; Fine steeds shown to Solomon in the evening distract him from remembrance of God until the sun
-    hides; he has them brought back and strokes (or slashes) their legs and necks; Solomon''s horses [divergence
+    hides; he has them brought back and strokes (or slashes) their legs and necks; No king after the speaker
+    will equal (or be given) what he has [divergence between the texts]; Solomon''s horses [divergence
     between the texts]; King keeps tens of thousands of chariot horses and horsemen; The stormy wind is
     subjected to Solomon, blowing at his command; The enemy''s horses are hamstrung and their chariots
     burned by divine command; Devils (shayāṭīn) and jinn labor for Solomon, diving and building; King

@@ -13,38 +13,40 @@ traditions:
 layers:
 - motif
 motifs:
-- blessing-on-descent
 - animals-in-pairs
 - vessel-rests-on-mountain
-- divine-decision-to-destroy
+- blessing-on-descent
 - build-vessel-on-instruction
+- divine-decision-to-destroy
 - hero-warned-by-deity
 - family-saved
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero blessed on leaving the vessel (weight 6.0); Animals taken aboard
-    in pairs (weight 5.8); Vessel comes to rest on a named mountain (weight 5.4); Deity decides to destroy
-    humankind (weight 5.3); Hero builds a vessel on divine instruction (weight 5.2); Hero privately warned
-    of the coming flood by a deity (weight 5.1); Hero''s family saved with him (weight 4.5). Pair score
-    37.3.'
+- text: 'Shared motifs, rarest first: Animals taken aboard in pairs (weight 6.5); Vessel comes to rest
+    on a named mountain (weight 6.4); Hero blessed on leaving the vessel (weight 6.2); Hero builds a vessel
+    on divine instruction (weight 6.2); Deity decides to destroy humankind (weight 6.1); Hero privately
+    warned of the coming flood by a deity (weight 5.8); Hero''s family saved with him (weight 5.4). Pair
+    score 42.7.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
-    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero''s life or mission spans
-    950 years; Deity resolves or promises not to repeat the destruction; Destruction motivated by human
-    wickedness or violence; Waters pour both from the sky and from springs of the earth; Deity or gods
-    smell the offering; Hero offers sacrifice after leaving the vessel; Vessel sealed with pitch or bitumen;
-    Hero singled out as righteous or pious; All others perish.'
+- text: 'Only in The Flood in Genesis: Hero''s life or mission spans 950 years; Destruction motivated
+    by human wickedness or violence; A sign in the sky commemorates the flood (bow, necklace); Birds released
+    to find dry land; Deity resolves or promises not to repeat the destruction; Deity or gods smell the
+    offering; Exact dimensions of the vessel are specified; Hero singled out as righteous or pious; Hero
+    offers sacrifice after leaving the vessel; Vessel sealed with pitch or bitumen; Waters pour both from
+    the sky and from springs of the earth; All others perish.'
   basis: reading
 - text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Embark: ''in the name of God be its
     sailing and its mooring''; God commands: ''Earth, swallow your water; sky, withhold!'' and the water
     subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
     the prophet because only the lowest of them follow him; God answers that the drowned son is not of
     Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
-    unknown to him and his people before; The ark sails through waves like mountains; What the flood hero
-    does when the vessel comes to rest; What God says of later generations after the flood: no repeat,
-    or punishment to come [contrast between the texts]; How the flood waters are stopped and subside [divergence
-    between the texts]; The prophet''s opponents object that only the lowliest follow him; he refuses
-    to drive the believers away; Someone seeks refuge on a mountain and is drowned; and 22 more.'
+    unknown to him and his people before; The ark sails through waves like mountains; The flood hero is
+    blessed after the flood; the content of the blessing [divergence between the texts]; What the flood
+    hero receives when he leaves the vessel [divergence between the texts]; A son who rejects his father''s
+    teaching is to be driven away: ''he is not your son, he was not born to you'' [divergence between
+    the texts]; The earth is addressed in the vocative and bidden to open, receive or swallow something
+    [shared matter] [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; and 35 more.'
   basis: reading
 - text: 'The Flood in Genesis: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -52,7 +54,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Hero blessed on leaving the vessel
+finding: Animals taken aboard in pairs
 kinds:
 - shared
 units:
@@ -63,21 +65,6 @@ units:
   title: Noah, the boiling oven, the lost son and al-Judi
   tradition: islam
 matches:
-- kind: shared
-  label: Hero blessed on leaving the vessel
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 9:1
-      lang: he
-      text: וַיְבָ֣רֶךְ אֱלֹהִ֔ים אֶת נֹ֖חַ וְאֶת בָּנָ֑יו וַיֹּ֧אמֶר לָהֶ֛ם פְּר֥וּ וּרְב֖וּ וּמִלְא֥וּ
-        אֶת הָאָֽרֶץ
-  - tradition: islam
-    passages:
-    - ref: Quran 11:48
-      lang: ar
-      text: قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ
-        وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ
 - kind: shared
   label: Animals taken aboard in pairs
   sides:
@@ -116,24 +103,20 @@ matches:
         وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
     note: al-Judi
 - kind: shared
-  label: Deity decides to destroy humankind
+  label: Hero blessed on leaving the vessel
   sides:
   - tradition: judaism
     passages:
-    - ref: Gen 6:7
+    - ref: Gen 9:1
       lang: he
-      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
-        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
-    - ref: Gen 6:13
-      lang: he
-      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+      text: וַיְבָ֣רֶךְ אֱלֹהִ֔ים אֶת נֹ֖חַ וְאֶת בָּנָ֑יו וַיֹּ֧אמֶר לָהֶ֛ם פְּר֥וּ וּרְב֖וּ וּמִלְא֥וּ
+        אֶת הָאָֽרֶץ
   - tradition: islam
     passages:
-    - ref: Quran 11:37
+    - ref: Quran 11:48
       lang: ar
-      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
-        إِنَّهُم مُّغْرَقُونَ
+      text: قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ
+        وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ
 - kind: shared
   label: Hero builds a vessel on divine instruction
   sides:
@@ -154,6 +137,25 @@ matches:
       text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ
         إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
     note: '''under our eyes and by our revelation'''
+- kind: shared
+  label: Deity decides to destroy humankind
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:7
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
+        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:37
+      lang: ar
+      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
+        إِنَّهُم مُّغْرَقُونَ
 - kind: shared
   label: Hero privately warned of the coming flood by a deity
   sides:

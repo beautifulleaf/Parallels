@@ -20,8 +20,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero smashes or burns idols (weight 5.6); Hero''s father makes,
-    sells or worships idols (weight 4.8). Pair score 10.4.'
+- text: 'Shared motifs, rarest first: Hero smashes or burns idols (weight 6.6); Hero''s father makes,
+    sells or worships idols (weight 5.9). Pair score 12.5.'
   basis: reading
 - text: 'Only in Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: A fleece is
     left on the threshing floor as a sign: wet when the ground is dry, then dry when it is wet; If he
@@ -30,9 +30,9 @@ evidence:
     their god''s altar; The idolatrous father threatens to stone his son and banishes him [contrast between
     the texts]; If he is a god, let him defend himself [divergence between the texts]; Hero blames the
     largest idol for the destruction; The called one asks for a sign that it is God who speaks [divergence
-    between the texts]; The called one asks for a sign that it is God who speaks; Hero''s father makes,
-    sells or worships idols [divergence between the texts]; Spirit of God rushes upon a man, giving him
-    strength or ecstasy.'
+    between the texts]; Hero''s father makes, sells or worships idols [divergence between the texts];
+    The called one asks for a sign that it is God who speaks; Spirit of God rushes upon a man, giving
+    him strength or ecstasy.'
   basis: reading
 - text: 'Only in Abraham, the stars, the smashed idols and the fire: Abraham glances at the stars and
     says ''I am sick'', so his people leave him behind; Abraham asks the idols ''Will you not eat? Why

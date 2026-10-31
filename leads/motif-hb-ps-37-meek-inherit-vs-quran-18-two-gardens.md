@@ -14,26 +14,26 @@ traditions:
 layers:
 - motif
 motifs:
-- parable-of-proud-garden-owner
 - wicked-wither-like-grass
+- parable-of-proud-garden-owner
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Parable of two men: one owns two rich gardens and boasts to his
-    poorer believing companion (weight 6.7); The wicked fade like grass and green herbs (weight 6.7).
-    Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The wicked fade like grass and green herbs (weight 7.7); Parable
+    of two men: one owns two rich gardens and boasts to his poorer believing companion (weight 7.7). Pair
+    score 15.5.'
   basis: reading
-- text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Commit your way to
-    YHWH, trust in him, and he will act; Do not fret over evildoers nor envy the wrongdoers; they wither
-    quickly like grass; There is a future (aharit) for the man of peace; the future of the wicked is cut
-    off; Better the little of the righteous than the abundance of many wicked; ''I have been young and
-    now am old, yet I have not seen the righteous forsaken nor his seed begging bread''; The wicked borrows
-    and does not repay; the righteous is generous and gives; The wicked spreads like a luxuriant native
-    tree, then passes away and cannot be found; The enemies of God vanish like the glory of the pastures,
-    like smoke; The land the righteous inherit [divergence between the texts]; Because their father was
-    righteous, God protects the orphans'' inheritance; The law of his God is in his heart; his steps do
-    not slip; What the righteous are promised as their inheritance [divergence between the texts]; and
+- text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Do not fret over evildoers
+    nor envy the wrongdoers; they wither quickly like grass; There is a future (aharit) for the man of
+    peace; the future of the wicked is cut off; ''I have been young and now am old, yet I have not seen
+    the righteous forsaken nor his seed begging bread''; The wicked spreads like a luxuriant native tree,
+    then passes away and cannot be found; Commit your way to YHWH, trust in him, and he will act; The
+    land the righteous inherit [divergence between the texts]; Because their father was righteous, God
+    protects the orphans'' inheritance; The law of his God is in his heart; his steps do not slip; What
+    the righteous are promised as their inheritance [divergence between the texts]; The wicked borrows
+    and does not repay; the righteous is generous and gives; Better the little of the righteous than the
+    abundance of many wicked; The enemies of God vanish like the glory of the pastures, like smoke; and
     5 more.'
   basis: reading
 - text: 'Only in The parable of the two gardens; this life as rain-fed plants; the book of deeds (Surah
@@ -42,12 +42,12 @@ evidence:
     that I had associated no one with my Lord''; The rich man boasts of having more wealth and a mightier
     following; On entering one''s garden one should say ''What God wills; there is no power except in
     God''; Humans are presented before God in rows, coming as they were first created; On judgment day
-    each receives a book of his deeds spread open, leaving nothing small or great unrecorded; Wealth and
-    sons are the adornment of this life; the enduring good deeds are better with God; The rich man thinks
-    his garden will never perish and the Hour will never come; Parable: worldly life is like vegetation
-    fed by rain, adorned, then cut down overnight as if it never flourished; At the end the mountains
-    become a heap of running sand, are blown away, set in motion or turn into a mirage; Human created
-    in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped and proportioned.'
+    each receives a book of his deeds spread open, leaving nothing small or great unrecorded; If god gives
+    you a rich harvest, do not boast of it before your neighbours; Righteous deeds endure and go with
+    a man beyond death, when other goods do not [divergence between the texts]; Wealth and sons are the
+    adornment of this life; the enduring good deeds are better with God; The rich man thinks his garden
+    will never perish and the Hour will never come; Parable: worldly life is like vegetation fed by rain,
+    adorned, then cut down overnight as if it never flourished; and 2 more.'
   basis: reading
 - text: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land: tagged by Claude (model),
     reading the Hebrew.'

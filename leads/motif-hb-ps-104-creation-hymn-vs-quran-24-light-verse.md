@@ -18,20 +18,20 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God wraps himself in light as in a garment (weight 6.7). Pair score
-    6.7.'
+- text: 'Shared motifs, rarest first: God wraps himself in light as in a garment (weight 7.7). Pair score
+    7.7.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 40 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 40 more.'
   basis: reading
 - text: 'Only in The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures:
     Or like darkness in a deep sea, covered by wave upon wave and cloud above, darkness upon darkness,
@@ -42,10 +42,11 @@ evidence:
     light upon light; God sends down hail from mountains in the sky; the flash of his lightning nearly
     takes away sight; In houses God allowed to be raised, men undistracted by trade glorify him morning
     and evening; God created every beast from water: some go on their bellies, some on two legs, some
-    on four; Birds with outspread wings glorify God; each knows its prayer and praise; With God is the
-    fountain of life; in his light we see light; A lamp fed directly by an olive tree [divergence between
-    the texts]; A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil
-    through golden pipes; The mirage and the thirsty traveler [divergence between the texts]; and 8 more.'
+    on four; Birds in flight, wings spread, praise the deity; With God is the fountain of life; in his
+    light we see light; A lamp fed directly by an olive tree [divergence between the texts]; A golden
+    lampstand with seven lamps is flanked by two olive trees that pour golden oil through golden pipes;
+    The god titled ''light of heaven(s) and earth'' (nūr šamāmī u qaqqari / nūru l-samāwāti wa-l-arḍ),
+    and those deprived of light walk in darkness; and 12 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

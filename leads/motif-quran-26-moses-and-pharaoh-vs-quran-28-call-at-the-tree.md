@@ -13,8 +13,8 @@ layers:
 - motif
 motifs:
 - moses-fear-of-blood-vengeance-as-divergence
-- aarons-role-beside-moses-as-divergence
 - moses-white-hand-sign-as-divergence
+- aarons-role-beside-moses-as-divergence
 - hand-turned-leprous-white-as-snow
 - prophet-slow-of-speech
 - brother-as-spokesman
@@ -22,12 +22,12 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Moses'' fear of being killed, on returning, for the Egyptian''s
-    death [divergence between the texts] (weight 6.3); Aaron''s role beside Moses and how he is appointed
-    [divergence between the texts] (weight 6.0); Moses'' hand turned white as a sign [divergence between
-    the texts] (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight
-    5.6); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' (weight 5.6);
-    An eloquent brother is appointed to speak for the hero, who is ''as God'' to him (weight 5.6); A staff
-    thrown down becomes a serpent and turns back into a staff (weight 5.4). Pair score 40.5.'
+    death [divergence between the texts] (weight 7.3); Moses'' hand turned white as a sign [divergence
+    between the texts] (weight 7.1); Aaron''s role beside Moses and how he is appointed [divergence between
+    the texts] (weight 7.1); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight
+    6.6); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' (weight 6.6);
+    An eloquent brother is appointed to speak for the hero, who is ''as God'' to him (weight 6.6); A staff
+    thrown down becomes a serpent and turns back into a staff (weight 6.5). Pair score 47.9.'
   basis: reading
 - text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
     the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
@@ -37,9 +37,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 36 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 44 more.'
   basis: reading
 - text: 'Only in The fire on the side of the Mount; the call from the tree; Aaron as helper: Moses says
     his brother Aaron is more eloquent of tongue and asks for him as a helper to confirm him; Moses is
@@ -94,6 +94,30 @@ matches:
       ʾet nafšekā: the old killing as an obstacle to going back. In Exodus God removes it unasked, in
       the Quran Moses raises it at the call.'
 - kind: shared
+  label: Moses' hand turned white as a sign
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:33
+      lang: ar
+      text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
+    note: 'wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-n-nāẓirīna ~ wə-hinnēh yādô məṣōraʿat ka-ššāleg: the
+      white hand. In Exodus it is leprous (məṣōraʿat), shown to Moses at the bush and meant for the Israelites
+      (4:8-9, 4:30); in the Quran it is simply ''white for the beholders'', shown to Pharaoh and his court,
+      with no disease.'
+  - tradition: islam
+    passages:
+    - ref: Quran 28:32
+      lang: ar
+      text: ٱسْلُكْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ وَٱضْمُمْ إِلَيْكَ جَنَاحَكَ
+        مِنَ ٱلرَّهْبِ فَذَٰنِكَ بُرْهَٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦٓ إِنَّهُمْ
+        كَانُوا۟ قَوْمًا فَٰسِقِينَ
+    note: 'Two signs, not three, and no leprosy: Exodus gives staff, leprous hand (məṣōraʿat ka-ššāleg),
+      and a third sign held in reserve, Nile water turned to blood (wə-hāyû lə-dām bay-yabbāšet), meant
+      for doubting Israelites; the Quran has fa-dhānika burhānāni min rabbika ilā Firʿawna wa-malaʾihi,
+      two proofs aimed at Pharaoh, the hand white ''without evil'' (min ghayri sūʾ), and adds ''draw your
+      arm to your side against fear''.'
+- kind: shared
   label: Aaron's role beside Moses and how he is appointed
   sides:
   - tradition: islam
@@ -123,30 +147,6 @@ matches:
       bə-fîw. In the Quran Moses proposes him, wa-akhī Hārūnu huwa afṣaḥu minnī lisānan fa-arsilhu maʿiya
       ridʾan yuṣaddiqunī, and God agrees without anger: sa-nashuddu ʿaḍudaka bi-akhīka. Aaron is a supporting
       witness (ridʾ, yuṣaddiqunī), not a mouth for Moses as God.'
-- kind: shared
-  label: Moses' hand turned white as a sign
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 26:33
-      lang: ar
-      text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
-    note: 'wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-n-nāẓirīna ~ wə-hinnēh yādô məṣōraʿat ka-ššāleg: the
-      white hand. In Exodus it is leprous (məṣōraʿat), shown to Moses at the bush and meant for the Israelites
-      (4:8-9, 4:30); in the Quran it is simply ''white for the beholders'', shown to Pharaoh and his court,
-      with no disease.'
-  - tradition: islam
-    passages:
-    - ref: Quran 28:32
-      lang: ar
-      text: ٱسْلُكْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ وَٱضْمُمْ إِلَيْكَ جَنَاحَكَ
-        مِنَ ٱلرَّهْبِ فَذَٰنِكَ بُرْهَٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦٓ إِنَّهُمْ
-        كَانُوا۟ قَوْمًا فَٰسِقِينَ
-    note: 'Two signs, not three, and no leprosy: Exodus gives staff, leprous hand (məṣōraʿat ka-ššāleg),
-      and a third sign held in reserve, Nile water turned to blood (wə-hāyû lə-dām bay-yabbāšet), meant
-      for doubting Israelites; the Quran has fa-dhānika burhānāni min rabbika ilā Firʿawna wa-malaʾihi,
-      two proofs aimed at Pharaoh, the hand white ''without evil'' (min ghayri sūʾ), and adds ''draw your
-      arm to your side against fear''.'
 - kind: shared
   label: Prophet's hand turns leprous, white as snow, and is restored as a sign
   sides:

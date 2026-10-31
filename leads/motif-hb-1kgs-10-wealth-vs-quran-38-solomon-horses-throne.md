@@ -19,22 +19,23 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: King keeps tens of thousands of chariot horses and horsemen (weight
-    6.3); King must not multiply horses, wives or silver and gold, nor return the people to Egypt (weight
-    5.3). Pair score 11.6.'
+    7.3); King must not multiply horses, wives or silver and gold, nor return the people to Egypt (weight
+    6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in Solomon''s gold, ivory throne, fleet and horse trade: Gold coming to the king each year
     weighs 666 talents; King makes hundreds of shields of beaten gold and hangs them in the palace; King''s
     merchants import horses from Egypt and Kue and export chariots to Hittite and Aramean kings at fixed
     prices; Great ivory throne overlaid with gold, with six steps and twelve lions on the steps and two
-    beside the arms; Tarshish ships every three years bring gold, silver, ivory, apes and peacocks (or
-    baboons); The king makes silver and gold as common as stones and cedar as sycamores; Kings of all
-    the earth send to hear the wise king''s wisdom.'
+    beside the arms; The king makes silver and gold as common as stones and cedar as sycamores; Kings
+    of all the earth send to hear the wise king''s wisdom; Tarshish ships every three years bring gold,
+    silver, ivory, apes and peacocks (or baboons).'
   basis: reading
 - text: 'Only in Solomon''s steeds, the body on his throne, and the unmatched kingdom: God tested Solomon
     by placing a body (jasad) on his throne; then he repented; Devils serve Solomon as builders and divers,
     and others are bound together in fetters; Solomon asks for a kingdom such as no one after him should
     have; Fine steeds shown to Solomon in the evening distract him from remembrance of God until the sun
-    hides; he has them brought back and strokes (or slashes) their legs and necks; Solomon''s horses [divergence
+    hides; he has them brought back and strokes (or slashes) their legs and necks; No king after the speaker
+    will equal (or be given) what he has [divergence between the texts]; Solomon''s horses [divergence
     between the texts]; What Solomon asks of God and the gift none after him will match [divergence between
     the texts]; The stormy wind is subjected to Solomon, blowing at his command; The enemy''s horses are
     hamstrung and their chariots burned by divine command; Devils (shayāṭīn) and jinn labor for Solomon,

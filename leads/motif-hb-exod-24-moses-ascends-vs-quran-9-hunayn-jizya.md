@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends down his sakina (tranquility, cf. shekhinah) on the prophet
-    and believers (weight 5.8). Pair score 5.8.'
+    and believers (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Moses ascends into the cloud for forty days: The cloud covers the mountain six days and
     God calls on the seventh; God''s glory appears as a devouring fire; Joshua serves as Moses'' attendant;

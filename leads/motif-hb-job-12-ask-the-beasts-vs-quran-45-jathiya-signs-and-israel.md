@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Catalogue of signs: heavens and earth, alternation of night and
-    day, ships, rain reviving dead earth, beasts, winds, clouds (weight 5.6). Pair score 5.6.'
+    day, ships, rain reviving dead earth, beasts, winds, clouds (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Job - ask the beasts; God''s sovereign overturnings: Ask the beasts, birds, earth and
     fish and they will teach you that God''s hand made this; In God''s hand is the life of every living
@@ -43,8 +43,8 @@ evidence:
     between the texts]; Israel given God''s law, as a unique gift or followed by a later law [divergence
     between the texts]; Woe to every sinful liar who hears God''s signs recited, persists in arrogance
     as if he had not heard, and takes them in mockery; Formula: the sending down of the Book (tanzil al-kitab)
-    is from God, the Mighty, the Wise/Knowing; Vengeance and recompense are mine; Whoever does good does
-    it for his own soul; whoever does evil, it is against it; Humans given rule over animals; and 2 more.'
+    is from God, the Mighty, the Wise/Knowing; Whoever does good does it for his own soul; whoever does
+    evil, it is against it; Vengeance and recompense are mine; Humans given rule over animals; and 2 more.'
   basis: reading
 - text: 'Job - ask the beasts; God''s sovereign overturnings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

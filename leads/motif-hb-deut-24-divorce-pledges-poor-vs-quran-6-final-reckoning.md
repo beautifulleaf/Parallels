@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fathers not put to death for children nor children for fathers (weight
-    5.8); Each person dies for his own sin (weight 5.0). Pair score 10.8.'
+    6.8); Each person dies for his own sin (weight 5.8). Pair score 12.6.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -32,18 +32,21 @@ evidence:
     husband divorces his wife [divergence between the texts]; At the end of the term, retain or part with
     them honorably, and call two just witnesses [divergence between the texts]; Whether a divorced wife
     may return to her first husband after another marriage [contrast between the texts]; Forgotten sheaf,
-    olive and grape gleanings left for stranger, orphan and widow; Forgotten sheaf, olive and grape gleanings
-    left for stranger, orphan and widow [contrast between the texts]; and 6 more.'
+    olive and grape gleanings left for stranger, orphan and widow [contrast between the texts]; Divorced
+    wife who remarried may not return to her first husband; and 6 more.'
   basis: reading
 - text: 'Only in Tenfold reward; my life and death for God; no bearer bears another''s burden: On the
     day some of the signs come, faith not believed before will not avail; My prayer, my rites, my living
     and my dying are for God, Lord of the worlds; God made you successors (khalāʾif) on the earth and
     raised some above others in rank to test you; The Prophet is commanded to be the first of those who
     submit (awwal al-muslimīn); God multiplies a good deed (tenfold) while an evil deed is requited only
-    by its like; Whether guilt passes from parents to their descendants [contrast between the texts];
-    Those who split their religion into sects, each party exulting in what it has; ''The soul that sins,
-    it shall die'': the son does not bear the father''s iniquity nor the father the son''s; Follow the
-    religion (milla) of Abraham the ḥanīf, who was no idolater.'
+    by its like; Whether an offender''s family is punished with him [contrast between the texts]; Whether
+    guilt passes from parents to their descendants [contrast between the texts]; Whether an offender''s
+    household and kin share his punishment [contrast between the texts]; Those who split their religion
+    into sects, each party exulting in what it has; ''The soul that sins, it shall die'': the son does
+    not bear the father''s iniquity nor the father the son''s; Follow the religion (milla) of Abraham
+    the ḥanīf, who was no idolater; Whether one person''s guilt (a parent''s, another''s) comes upon someone
+    else [contrast between the texts].'
   basis: reading
 - text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

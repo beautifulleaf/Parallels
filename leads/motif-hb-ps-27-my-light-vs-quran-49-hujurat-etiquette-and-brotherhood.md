@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Avoid suspicion, spying and backbiting: would one of you like to
-    eat the flesh of his dead brother? (weight 6.3). Pair score 6.3.'
+    eat the flesh of his dead brother? (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 27 - YHWH is my light; one thing I ask: Though my father and mother forsake me,
     YHWH will take me in; One thing I ask: to dwell in the house of YHWH all my days and behold his beauty;
@@ -42,10 +42,9 @@ evidence:
     God) as ground for conduct toward others [divergence between the texts]; Believers must not put themselves
     before God and his messenger, nor raise their voices above the prophet''s or shout to him; Humanity
     created from a male and a female and made into peoples (shu''ub) and tribes to know one another; the
-    noblest is the most pious; ''Have we not all one father? Has not one God created us? Why do we deal
-    treacherously with one another?''; Slander or gossip pictured as eating [divergence between the texts];
-    If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to regret
-    it; and 4 more.'
+    noblest is the most pious; Denial / prohibition of eavesdropping or spying on others; ''Have we not
+    all one father? Has not one God created us? Why do we deal treacherously with one another?''; Slander
+    or backbiting is pictured as eating the slandered person''s flesh; and 12 more.'
   basis: reading
 - text: 'Psalm 27 - YHWH is my light; one thing I ask: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They did not win the land by their sword but by God''s right hand,
-    arm and the light of his face (weight 6.7). Pair score 6.7.'
+    arm and the light of his face (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 44 - national lament; why do you sleep, O Lord: Our fathers told us what you did
     in their days: you dispossessed nations and planted them; God made his people a byword (mashal) among
     nations, a shaking of the head among peoples; God crushed them in the place of jackals (tannim) and
     covered them with deep darkness; For your sake we are killed all day long, counted as sheep for slaughter;
     All this came upon us though we have not forgotten you nor been false to your covenant; God sold his
-    people for no price and scattered them among the nations; ''Awake! Why do you sleep, O Lord?''; Explaining
-    a military defeat of God''s people [contrast between the texts]; The petitioner addresses God as ''my
-    King and my God''; God knows the treachery of the eyes and what the breasts conceal; The petitioner
-    spreads out his palms toward God; Those killed for God''s sake [divergence between the texts]; and
-    8 more.'
+    people for no price and scattered them among the nations; Explaining a military defeat of God''s people
+    [contrast between the texts]; The petitioner addresses God as ''my King and my God''; God knows the
+    treachery of the eyes and what the breasts conceal; The petitioner spreads out his palms toward God;
+    Those killed for God''s sake [divergence between the texts]; ''Awake! Why do you sleep, O Lord?'';
+    and 8 more.'
   basis: reading
 - text: 'Only in Surahs that increase faith; the compassionate messenger: God is ''Lord of the mighty
     Throne'' (rabb al-''arsh al-''azim); A revealed surah increases believers in faith and the sick-hearted

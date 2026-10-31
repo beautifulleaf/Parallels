@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Opponents nearly lure the prophet into inventing something else;
-    God makes him firm (weight 6.3). Pair score 6.3.'
+    God makes him firm (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Concerning the prophets - who has stood in the council of YHWH?: The prophet''s heart
     is broken and all his bones shake; he is like a drunken man because of God''s holy words; The prophets
@@ -29,11 +29,11 @@ evidence:
     mourns and the heavens above grow dark because of God''s decree; God gives his people poisoned water
     (mei rosh) to drink and wormwood to eat; ''Have you listened in the council (sod) of God, and limited
     wisdom to yourself?''; Prophets and priests heal the wound lightly, saying ''Peace, peace'' when there
-    is no peace; The storm of YHWH''s fury goes out and whirls on the head of the wicked; in the latter
-    days you will understand it; God enthroned with the host of heaven standing at his right and left
-    deliberates; The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils;
+    is no peace; The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils;
     the damned fill their bellies and drink boiling water; God did not send the prophets who promise peace;
-    they prophesy a lying vision, divination and the deceit of their heart.'
+    they prophesy a lying vision, divination and the deceit of their heart; The storm of YHWH''s fury
+    goes out and whirls on the head of the wicked; in the latter days you will understand it; God enthroned
+    with the host of heaven standing at his right and left deliberates.'
   basis: reading
 - text: 'Only in Near compromise, prayer times, the praised station, the spirit, the challenge and the
     demanded signs (Surah 17:73-100): Were angels walking the earth, God would have sent them an angel
@@ -45,7 +45,7 @@ evidence:
     humans would hold back for fear of spending; Keep vigil (tahajjud) with recitation in part of the
     night as an extra devotion; The prophet may be raised to a ''praised station'' (maqam mahmud), later
     read as intercession; Prayer: ''Lord, make my entrance and my exit true and grant me a helping authority'';
-    Prayer is fixed from the sun''s decline to the dark of night, with the dawn recitation; and 10 more.'
+    Prayer is fixed from the sun''s decline to the dark of night, with the dawn recitation; and 13 more.'
   basis: reading
 - text: 'Concerning the prophets - who has stood in the council of YHWH?: tagged by Claude (model), reading
     the Hebrew.'

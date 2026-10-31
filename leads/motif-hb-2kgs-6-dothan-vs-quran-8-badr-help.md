@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God reinforces the believers in battle with a thousand (or more)
-    angels (weight 6.0). Pair score 6.0.'
+    angels (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Elisha at Dothan; the blinded Arameans: Captured enemies are given a great feast and
     sent home instead of being killed; Enemy army struck with a blinding confusion (sanwerim) and led
@@ -32,13 +32,13 @@ evidence:
     the fighters, remove Satan''s filth and make their feet firm; Some believers dispute the call to battle
     as if driven to death with their eyes open; God covers the fighters with slumber as a security from
     him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; God
-    reduces the army so that Israel cannot boast its own hand saved it; Fleeing the battle line is forbidden
-    except as a maneuver or to join another unit; Ruling on soldiers who fear battle [contrast between
-    the texts]; ''You did not throw when you threw, but God threw'': the victory is God''s act; The threatened
+    reduces the army so that Israel cannot boast its own hand saved it; Hard pressed by a superior enemy,
+    a leader or army calls on God and God answers; Fleeing the battle line is forbidden except as a maneuver
+    or to join another unit; Ruling on soldiers who fear battle [contrast between the texts]; The threatened
     people cry to God before the decisive encounter [divergence between the texts]; Priest addresses the
     army before battle: do not fear, God fights for you; God cuts off the last remnant (root, dabir) of
     a people who denied; The victory is credited to God, not to the fighters [divergence between the texts];
-    and 3 more.'
+    and 6 more.'
   basis: reading
 - text: 'Elisha at Dothan; the blinded Arameans: tagged by Claude (model), reading the Hebrew.'
   basis: reading

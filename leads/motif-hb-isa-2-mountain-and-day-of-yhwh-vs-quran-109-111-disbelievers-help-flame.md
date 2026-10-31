@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When God''s help and the opening (al-fath) come, people enter God''s
-    religion in crowds; the prophet is to glorify and seek forgiveness (weight 6.7). Pair score 6.7.'
+    religion in crowds; the prophet is to glorify and seek forgiveness (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The mountain of the Lord''s house; the Day of YHWH against all that is proud: Stop trusting
     man, who has only breath in his nostrils; On that day people throw their silver and gold idols to
     the moles and bats and flee into clefts of the rocks; Foreign priests and diviners advise how to appease
-    the God of Israel; On God''s day all that is lofty (cedars of Lebanon, oaks of Bashan, towers, ships
-    of Tarshish) is brought low and God alone exalted; In the latter days the mountain of God''s house
-    will be raised above all mountains and all nations will stream to it; Nations will beat swords into
-    plowshares and spears into pruning hooks and learn war no more; ''From Zion shall go forth Torah and
-    the word of YHWH from Jerusalem''; God shatters the ships of Tarshish with an east wind; God the Judge
-    is called to judge between two nations; People hide in caves, thickets, rocks and pits from an invading
-    army; On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard;
-    Prophecy concerning ''the end of days''; and 2 more.'
+    the God of Israel; In the latter days the mountain of God''s house will be raised above all mountains
+    and all nations will stream to it; ''From Zion shall go forth Torah and the word of YHWH from Jerusalem'';
+    God shatters the ships of Tarshish with an east wind; God the Judge is called to judge between two
+    nations; On God''s day all that is lofty (cedars of Lebanon, oaks of Bashan, towers, ships of Tarshish)
+    is brought low and God alone exalted; People hide in caves, thickets, rocks and pits from an invading
+    army; Nations will beat swords into plowshares and spears into pruning hooks and learn war no more;
+    On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard; Prophecy
+    concerning ''the end of days''; and 2 more.'
   basis: reading
 - text: 'Only in The disbelievers, the help, and the flame: Curse on Abu Lahab (''father of flame''):
     his hands perish, he will burn in a fire of flame, and his wife carries firewood with a rope of palm

@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Whoever takes his own desire (hawā) as his god (weight 6.0). Pair
-    score 6.0.'
+- text: 'Shared motifs, rarest first: Whoever takes his own desire (hawā) as his god (weight 7.1). Pair
+    score 7.1.'
   basis: reading
 - text: 'Only in The Sabbath wood-gatherer; the law of tassels: Man gathering wood on the Sabbath is stoned
     by divine ruling; Tassels (tzitzit) with a blue cord on garment corners as reminder; ''Do not go about

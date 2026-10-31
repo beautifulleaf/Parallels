@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: ''There is none like you and no God beside you'' (weight 5.8). Pair
-    score 5.8.'
+- text: 'Shared motifs, rarest first: ''There is none like you and no God beside you'' (weight 6.6). Pair
+    score 6.6.'
   basis: reading
 - text: 'Only in Bel and Nebo carried off; God who carries Israel: Babylon''s gods Bel and Nebo bow and
     stoop, their images loaded as burdens on weary beasts; God summons a bird of prey from the east, the
@@ -39,6 +39,7 @@ evidence:
     humbled and split asunder for fear of God; Like Satan who says to man ''Disbelieve!'' and when he
     disbelieves says ''I am quit of you, I fear God''; A mountain shaken by God''s descent or by his revelation
     [divergence between the texts]; The mountain smokes like a furnace and quakes as God descends in fire;
+    A mountain bows, or fails to bow, before the divine, and is broken [divergence between the texts];
     Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
     Maker, Fashioner; to him belong the most beautiful names; Do evildoers think God will make them equal
     to the righteous in life and in death?; Opening formula: whatever is in the heavens and the earth

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Psalm 115, not to us, polemic against idols: ''The heavens are YHWH''s heavens, but the
     earth he has given to the sons of man''; ''Not to us, YHWH, not to us, but to your name give glory'';
@@ -30,20 +30,21 @@ evidence:
     to grasp, eyes to see, ears to hear?; Likeness between the idols and those who call on them [divergence
     between the texts]; Liturgical triad (or tetrad) addressing Israel, the house of Aaron, (the house
     of Levi) and those who fear YHWH; In death there is no remembrance of God; in Sheol who will praise
-    him?; God called ''maker of heaven and earth'' (''oseh shamayim va-arets'') in blessing or confession
-    of help; Nations taunt ''Where is their God?''; and 1 more.'
+    him?; Nations taunt ''Where is their God?''; God called ''maker of heaven and earth'' (''oseh shamayim
+    va-arets'') in blessing or confession of help; and 1 more.'
   basis: reading
 - text: 'Only in Abraham''s argument against idols and his prayer: Abraham prays for ''a tongue of truthfulness''
     (good repute) among later generations; Abraham''s creed: the God who created and guides me, feeds
     and gives drink, heals me when sick, causes me to die and revives me, and will forgive me; In hell
     the damned dispute with the gods they equated with God and wish for another chance; The deluded and
-    all the hosts of Iblis are hurled headlong into hell; God wounds and binds up, strikes and his hands
-    heal; On that day neither wealth nor sons avail, only one who comes to God with a sound heart; Who
-    sends sickness and who heals [divergence between the texts]; A good name is to be chosen rather than
-    great riches, favor rather than silver and gold; Abraham prayed for his father''s forgiveness only
-    by a promise, and disowned him when he proved God''s enemy; Hero''s father makes, sells or worships
-    idols [divergence between the texts]; Wealth does not profit on the day of wrath; No man can ransom
-    his brother or give God a ransom (kofer) for him; the redemption of life is too costly; and 3 more.'
+    all the hosts of Iblis are hurled headlong into hell; The god who made humans also teaches or guides
+    them and gives them food and drink; Petition that the petitioner''s good name (praise, ''a tongue
+    of truth'') be set in the mouths of people, or of later generations; On that day neither wealth nor
+    sons avail, only one who comes to God with a sound heart; Who sends sickness and who heals [divergence
+    between the texts]; Whether a man''s sons (and wealth) help him after death [divergence between the
+    texts]; The petitioner asks the deity to set truth on his tongue so that he is well spoken of; A good
+    name is to be chosen rather than great riches, favor rather than silver and gold; Abraham prayed for
+    his father''s forgiveness only by a promise, and disowned him when he proved God''s enemy; and 7 more.'
   basis: reading
 - text: 'Psalm 115, not to us, polemic against idols: tagged by Claude (model), reading the Hebrew.'
   basis: reading

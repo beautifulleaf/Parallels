@@ -15,34 +15,34 @@ traditions:
 layers:
 - motif
 motifs:
+- lots-reception-of-the-guests-as-divergence
+- lots-household-alone-rescued
+- timing-of-lots-escape-and-the-destruction-as-divergence
+- lots-protest-to-the-townsmen
 - what-falls-on-sodom
 - townspeople-turn-on-lot
 - angels-reveal-their-mission-to-lot-as-divergence
-- lots-reception-of-the-guests-as-divergence
-- timing-of-lots-escape-and-the-destruction-as-divergence
-- lots-household-alone-rescued
-- lots-protest-to-the-townsmen
-- do-not-look-back
-- angels-lodge-with-lot
 - host-offers-daughters
+- angels-lodge-with-lot
 - fate-of-lots-wife
 - cities-overturned
+- do-not-look-back
 - wicked-sodom
 - fire-and-brimstone-from-heaven
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: What falls from heaven on Sodom (weight 6.7); Lot''s townspeople
-    turn on him (weight 6.7); The angels tell Lot who sent them and what they will do [divergence between
-    the texts] (weight 6.7); How Lot receives the heavenly guests [divergence between the texts] (weight
-    6.7); When Lot leaves the city and when the destruction falls [divergence between the texts] (weight
-    6.7); Only Lot''s household is brought out of the doomed city (weight 6.7); What Lot says to the townsmen
-    (weight 6.7); Command not to look back while fleeing a doomed place (weight 6.3); Two angels are received
-    as guests by Lot in Sodom (weight 6.0); Host offers his virgin daughters to the mob to protect his
-    guests (weight 6.0); The fate of Lot''s wife (weight 5.8); Cities overturned (hafakh) and the plain
-    destroyed (weight 5.6); The men of Sodom are exceedingly wicked (weight 5.2); God rains sulfur and
-    fire from heaven on cities (weight 4.8). Pair score 86.5.'
+- text: 'Shared motifs, rarest first: How Lot receives the heavenly guests [divergence between the texts]
+    (weight 7.7); Only Lot''s household is brought out of the doomed city (weight 7.7); When Lot leaves
+    the city and when the destruction falls [divergence between the texts] (weight 7.7); What Lot says
+    to the townsmen (weight 7.7); What falls from heaven on Sodom (weight 7.7); Lot''s townspeople turn
+    on him (weight 7.7); The angels tell Lot who sent them and what they will do [divergence between the
+    texts] (weight 7.7); Host offers his virgin daughters to the mob to protect his guests (weight 7.1);
+    Two angels are received as guests by Lot in Sodom (weight 7.1); The fate of Lot''s wife (weight 6.8);
+    Cities overturned (hafakh) and the plain destroyed (weight 6.6); Command not to look back while fleeing
+    a doomed place (weight 6.6); The men of Sodom are exceedingly wicked (weight 6.2); God rains sulfur
+    and fire from heaven on cities (weight 5.9). Pair score 100.6.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -58,10 +58,14 @@ evidence:
   basis: reading
 - text: 'Only in Lot, his guests, his daughters and the stones of sijjil: The angels tell Lot the destruction
     is appointed for the morning: ''is not the morning near?''; Lot wishes he had strength or a strong
-    support to take refuge in; Lot''s wife is among those who stay behind and perish; Stones of baked
-    clay (sijjil), in layers, each marked by the Lord, rain on the town; A land will be overthrown like
-    Sodom and Gomorrah and their neighbors, never inhabited; God casts great hailstones from heaven, killing
-    more than the sword.'
+    support to take refuge in; A dwelling or town is overturned so that its top and bottom are exchanged;
+    A protected person is forbidden to look out or turn round, and one does [divergence between the texts];
+    The deity rains stones from heaven on those he destroys: what kind of stones [divergence between the
+    texts]; Not looking back when leaving behind the doomed place or the banished evil [divergence between
+    the texts]; Lot''s wife is among those who stay behind and perish; Stones of baked clay (sijjil),
+    in layers, each marked by the Lord, rain on the town; A land will be overthrown like Sodom and Gomorrah
+    and their neighbors, never inhabited; God casts great hailstones from heaven, killing more than the
+    sword.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'
@@ -322,6 +326,27 @@ matches:
       text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً
         مِّن سِجِّيلٍ مَّنضُودٍ
 - kind: shared
+  label: Host offers his virgin daughters to the mob to protect his guests
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:8
+      lang: he
+      text: הִנֵּה נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹֽא יָדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם
+        וַעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל תַּעֲשׂ֣וּ דָבָ֔ר כִּֽי
+        עַל כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹרָתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 11:78
+      lang: ar
+      text: وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ
+        قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
+        فِى ضَيْفِىٓ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
+    - ref: Quran 11:79
+      lang: ar
+      text: قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ
+    note: '''they are purer for you'''
+- kind: shared
   label: Two angels are received as guests by Lot in Sodom
   sides:
   - tradition: judaism
@@ -345,27 +370,6 @@ matches:
       lang: ar
       text: وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ
         عَصِيبٌ
-- kind: shared
-  label: Host offers his virgin daughters to the mob to protect his guests
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 19:8
-      lang: he
-      text: הִנֵּה נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹֽא יָדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם
-        וַעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל תַּעֲשׂ֣וּ דָבָ֔ר כִּֽי
-        עַל כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹרָתִֽי
-  - tradition: islam
-    passages:
-    - ref: Quran 11:78
-      lang: ar
-      text: وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ
-        قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
-        فِى ضَيْفِىٓ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
-    - ref: Quran 11:79
-      lang: ar
-      text: قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ
-    note: '''they are purer for you'''
 ---
 
 ## Questions

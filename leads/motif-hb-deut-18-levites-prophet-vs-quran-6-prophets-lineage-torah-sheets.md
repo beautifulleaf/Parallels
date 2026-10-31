@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: False prophet put to death [divergence between the texts] (weight
-    6.3); False prophet put to death (weight 5.8). Pair score 12.1.'
+    7.3); False prophet put to death (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:
@@ -41,8 +41,9 @@ evidence:
     wise, and the Torah of YHWH is with us?'' The lying pen of the scribes has made it a lie; The prophet
     is sent to warn ''the mother of towns'' (umm al-qura, Mecca) and those around it; ''Naked I came from
     my mother''s womb and naked I shall return there''; The Torah contains guidance and light; Angels
-    (God''s messengers) take the souls of the dying; If God wills he takes you away and brings another
-    people in your place; The Prophet asks no wage for the message.'
+    (God''s messengers) take the souls of the dying; No one can take his goods with him into death; what
+    he owned falls to others; If God wills he takes you away and brings another people in your place;
+    and 1 more.'
   basis: reading
 - text: 'Levitical dues; forbidden divination; the prophet like Moses: tagged by Claude (model), reading
     the Hebrew.'

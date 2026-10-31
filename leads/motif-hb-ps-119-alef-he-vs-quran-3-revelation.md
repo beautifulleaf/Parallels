@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer that God not turn (incline) the petitioner''s heart aside,
-    but toward his way (weight 6.3). Pair score 6.3.'
+    but toward his way (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas alef to he: Prayer ''Open my eyes that I may behold wonders out of
     your Torah''; Speaker calls himself a stranger (ger) on the earth; Torah praised under a fixed set
@@ -33,12 +33,13 @@ evidence:
   basis: reading
 - text: 'Only in Torah, Gospel and the clear and ambiguous verses: Scripture has decisive verses (muhkamat),
     the mother of the book, and ambiguous ones (mutashabihat) whose interpretation God knows; God shapes
-    you in the wombs as he wills; God sent down the Torah (al-Tawrat) and the Gospel (al-Injil) before
-    as guidance; Israel''s God is called ''the living God, enduring forever, whose kingdom shall never
-    be destroyed''; God is king or master of the Day of Judgment (yawm al-din); God the Ever-Living, the
-    Self-Subsisting (al-hayy al-qayyum); The secret things belong to God; the revealed things to us and
-    our children; God formed the kidneys and wove (knit) the speaker in his mother''s womb; A surah opens
-    with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    you in the wombs as he wills; The god''s holy word is known to those who know it and unknown to those
+    who do not; who can find out his intentions?; God sent down the Torah (al-Tawrat) and the Gospel (al-Injil)
+    before as guidance; Israel''s God is called ''the living God, enduring forever, whose kingdom shall
+    never be destroyed''; God is king or master of the Day of Judgment (yawm al-din); God the Ever-Living,
+    the Self-Subsisting (al-hayy al-qayyum); The secret things belong to God; the revealed things to us
+    and our children; God formed the kidneys and wove (knit) the speaker in his mother''s womb; A surah
+    opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
   basis: reading
 - text: 'Psalm 119, stanzas alef to he: tagged by Claude (model), reading the Hebrew.'
   basis: reading

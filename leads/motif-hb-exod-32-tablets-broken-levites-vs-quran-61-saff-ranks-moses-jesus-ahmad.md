@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Jesus asks ''Who are my helpers to God?'' and the disciples (hawariyyun)
-    answer ''We are God''s helpers'' (weight 6.3). Pair score 6.3.'
+    answer ''We are God''s helpers'' (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -39,11 +39,11 @@ evidence:
     a clear opening/victory (fath mubin)'' (the Hudaybiya treaty); Opponents wish to put out God''s light
     with their mouths, but God will perfect his light; God loves those who fight in his way in ranks as
     though they were a solid structure (bunyan marsus); God makes his people''s hearts stray or swerve
-    [divergence between the texts]; The lamp of God had not yet gone out; Moses asks his people: ''Why
-    do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their hearts
-    swerve; Moses ill-treated by his own people [divergence between the texts]; The coming prophet is
-    found written in the Torah and the Gospel; ''Why do you say what you do not do? Most hateful to God
-    is saying what you do not do''; and 5 more.'
+    [divergence between the texts]; If you have given your word, deliver and do not revoke it; promising
+    and not delivering is abhorrent to the god; The lamp of God had not yet gone out; Moses asks his people:
+    ''Why do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their
+    hearts swerve; Moses ill-treated by his own people [divergence between the texts]; The coming prophet
+    is found written in the Torah and the Gospel; and 7 more.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sailors in a storm pray and vow to God [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jonah flees to Tarshish and is thrown into the sea: The ship''s captain wakes the sleeper
     and urges him to call on his god that they may not perish; Sailors throw the cargo overboard to lighten
@@ -35,16 +35,17 @@ evidence:
   basis: reading
 - text: 'Only in Prayer in distress, a changed Quran, the storm at sea: Deniers ask the prophet to bring
     a different Quran or change it; he may not alter it of himself; The prophet argues he had lived a
-    lifetime among them before receiving revelation; Humankind was originally one community, then they
-    differed; Man calls on God lying, sitting or standing in distress, then passes on as if he had never
-    prayed once relieved; All humanity once spoke one language; Humankind was originally one (in speech
-    or community) and then divided [divergence between the texts]; God raises a storm that lifts ships
-    to the heavens and down to the deeps, then hushes it to a whisper and brings sailors to harbor [divergence
-    between the texts]; A later people (Ad, then Thamud) are made successors on the earth after a destroyed
-    people; God''s messengers (angels) write down what people plot and do; Sailors in a storm call on
-    God sincerely, vow thanks, and transgress once saved; God raises a storm that lifts ships to the heavens
-    and down to the deeps, then hushes it to a whisper and brings sailors to harbor; Command not to add
-    to or subtract from the divine words; and 2 more.'
+    lifetime among them before receiving revelation; In peril on a boat, the one who calls on god is brought
+    safely to land [divergence between the texts]; Humankind was originally one community, then they differed;
+    Man calls on God lying, sitting or standing in distress, then passes on as if he had never prayed
+    once relieved; Humankind was originally one (in speech or community) and then divided [divergence
+    between the texts]; Those surrounded by the waves at sea are saved by the god they call on; what follows
+    the rescue [divergence between the texts]; God raises a storm that lifts ships to the heavens and
+    down to the deeps, then hushes it to a whisper and brings sailors to harbor [divergence between the
+    texts]; A later people (Ad, then Thamud) are made successors on the earth after a destroyed people;
+    God''s messengers (angels) write down what people plot and do; Members of the deity''s court speak
+    for a petitioner before the deity [response between the texts]; All humanity once spoke one language;
+    and 5 more.'
   basis: reading
 - text: 'Jonah flees to Tarshish and is thrown into the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

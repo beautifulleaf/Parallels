@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A great stone set up as a witness because it has heard all God''s
-    words (weight 6.7). Pair score 6.7.'
+    words (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
@@ -42,8 +42,9 @@ evidence:
     and sight: so God sees and hears, or the senses themselves testify [divergence between the texts];
     Woe to those who hide their plans deep from God and say ''Who sees us? Who knows us?''; Sinners say
     ''YHWH does not see us; YHWH has forsaken the land''; The hearing ear and the seeing eye, YHWH made
-    them both; On judgment day tongues, hands and feet testify against people; The damned blame their
-    chiefs and great ones who misled them and ask God to double their punishment.'
+    them both; On judgment day tongues, hands and feet testify against people; Who witnesses against the
+    dead at the judgment (no witness against me / their own limbs and skins) [divergence between the texts];
+    The damned blame their chiefs and great ones who misled them and ask God to double their punishment.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged
     by Claude (model), reading the Hebrew.'

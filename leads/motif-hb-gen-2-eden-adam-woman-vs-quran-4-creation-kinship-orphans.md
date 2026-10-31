@@ -21,30 +21,33 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the first woman was made [divergence between the texts] (weight
-    6.7); First woman made from the man''s rib or side while he sleeps (weight 6.0); Humankind is created
-    from a single soul, from which its mate was made to dwell with it (weight 5.6). Pair score 18.3.'
+    7.7); First woman made from the man''s rib or side while he sleeps (weight 7.1); Humankind is created
+    from a single soul, from which its mate was made to dwell with it (weight 6.6). Pair score 21.4.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 19 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence
+    between the texts]; and 19 more.'
   basis: reading
-- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Those who devour orphans''
-    property devour fire into their bellies; Fear God, by whom you ask of one another, and the wombs (kinship
-    ties, al-arḥām); Kin, orphans and the poor present at the division of an estate are given something
-    from it; Property is not handed to the feeble-minded (sufahāʾ); they are fed and clothed from it;
-    Women as well as men receive a fixed share of what parents and kin leave; The husband gives the bride
-    her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; God hears the cry of the oppressed
-    widow and orphan and punishes measure for measure; Do not enter the fields of the fatherless, for
-    their redeemer (go''el) is strong and will plead their cause; A man may marry two, three or four wives,
-    or only one if he fears injustice; A man who seduces an unbetrothed virgin must marry her or pay the
-    bride-price; Who receives the marriage payment [divergence between the texts]; Divine blessing: be
-    fruitful, multiply, fill the earth; and 2 more.'
+- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Fear God, by whom you ask
+    of one another, and the wombs (kinship ties, al-arḥām); Kin, orphans and the poor present at the division
+    of an estate are given something from it; Property is not handed to the feeble-minded (sufahāʾ); they
+    are fed and clothed from it; Women as well as men receive a fixed share of what parents and kin leave;
+    The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part;
+    Those who devour orphans'' property devour fire into their bellies; A man may marry two, three or
+    four wives, or only one if he fears injustice; A man who seduces an unbetrothed virgin must marry
+    her or pay the bride-price; To whom the bride-price is paid and in what (silver and gold to her father;
+    service to her father; the gift to the woman herself) [divergence between the texts]; Do not covet;
+    each has his own share (in the division among kin); Who receives the marriage payment [divergence
+    between the texts]; Do not enter the fields of the fatherless, for their redeemer (go''el) is strong
+    and will plead their cause; and 4 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,14 +19,14 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The sinner must confess the sin he committed (weight 5.8). Pair
-    score 5.8.'
+- text: 'Shared motifs, rarest first: The sinner must confess the sin he committed (weight 6.8). Pair
+    score 6.8.'
   basis: reading
 - text: 'Only in Psalm 32 - happy is he whose sin is forgiven: When the great waters overflow they will
-    not reach the faithful one; Happy is he whose transgression is lifted and whose sin is covered; Be
-    not like horse or mule without understanding, curbed with bit and bridle; Keeping silent about sin
-    wastes the body like summer drought; confessing brings forgiveness; Beatitude formula ''Happy (ashrei)
-    is the man who...''; Superscription contains an obscure musical or liturgical term (neginot, nehilot,
+    not reach the faithful one; Be not like horse or mule without understanding, curbed with bit and bridle;
+    Keeping silent about sin wastes the body like summer drought; confessing brings forgiveness; Happy
+    is he whose transgression is lifted and whose sin is covered; Beatitude formula ''Happy (ashrei) is
+    the man who...''; Superscription contains an obscure musical or liturgical term (neginot, nehilot,
     sheminit, gittit, alamot, shiggayon, maskil, miktam, shoshannim...); The marker selah interrupts the
     psalm; Psalm superscription ascribes the poem to David (le-david).'
   basis: reading

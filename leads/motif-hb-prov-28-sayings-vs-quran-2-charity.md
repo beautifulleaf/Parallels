@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who gives to the poor will not lack, but he who hides his eyes
-    will get many curses (weight 6.7). Pair score 6.7.'
+    will get many curses (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sayings on torah, rulers, usury and confession: A man burdened with the blood of a life
     will flee to the pit; let no one support him; He who conceals his transgressions will not prosper,
@@ -39,10 +39,11 @@ evidence:
     with a hundred grains each; Deserving poor, restrained in God''s way, thought rich by the ignorant
     for their restraint, known by their mark; Satan threatens you with poverty and commands indecency;
     Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the poor;
-    Patriarch reaps a hundredfold in one year; An old man with weak children loses his garden of palms
-    and vines to a fiery whirlwind; Giving charity openly is good, but giving it secretly to the poor
-    is better and expiates sins; God gives wisdom to whom he wills; whoever is given wisdom is given much
-    good; One scatters and yet increases; the generous soul is made fat and who waters will be watered.'
+    Patriarch reaps a hundredfold in one year; An inferior thing is given in place of the good one owed
+    to God or the god [divergence between the texts]; A single grain given (to the god, in God''s way)
+    returns many times over; An old man with weak children loses his garden of palms and vines to a fiery
+    whirlwind; Giving charity openly is good, but giving it secretly to the poor is better and expiates
+    sins; God gives wisdom to whom he wills; whoever is given wisdom is given much good; and 2 more.'
   basis: reading
 - text: 'Sayings on torah, rulers, usury and confession: tagged by Claude (model), reading the Hebrew.'
   basis: reading

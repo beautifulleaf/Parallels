@@ -14,16 +14,16 @@ traditions:
 layers:
 - motif
 motifs:
-- hero-imprisoned-as-divergence
-- false-accusation-by-wife-as-divergence
-- garment-evidence-in-seduction-as-divergence
 - hero-nearly-yields-sign-intervenes-as-divergence
-- divine-favor-in-servitude
-- hero-refuses-citing-master-and-god
+- hero-imprisoned-as-divergence
+- garment-evidence-in-seduction-as-divergence
+- false-accusation-by-wife-as-divergence
 - garment-evidence-in-seduction
+- bought-by-egyptian-official
 - hero-imprisoned
 - false-accusation-by-wife
-- bought-by-egyptian-official
+- hero-refuses-citing-master-and-god
+- divine-favor-in-servitude
 - alone-in-house
 - masters-wife-seduces
 - hero-beautiful
@@ -31,16 +31,16 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero thrown into prison [divergence between the texts] (weight 6.7);
-    The woman falsely accuses the hero of assault [divergence between the texts] (weight 6.7); Hero''s
-    garment becomes evidence in the seduction episode [divergence between the texts] (weight 6.7); Hero
-    nearly yields but a sign from God stops him [divergence between the texts] (weight 6.7); God''s favor
-    rests on the hero while he is a slave or prisoner (weight 6.0); Hero refuses, citing loyalty to his
-    master and to God (weight 6.0); Hero''s garment becomes evidence in the seduction episode (weight
-    6.0); Hero thrown into prison (weight 5.8); The woman falsely accuses the hero of assault (weight
-    5.8); Hero bought by an Egyptian official (weight 5.8); Seduction attempt when the two are alone in
-    the house (weight 5.8); The master''s wife tries to seduce the hero (weight 5.8); Hero''s beauty is
-    remarked on (weight 4.9). Pair score 78.5.'
+- text: 'Shared motifs, rarest first: Hero nearly yields but a sign from God stops him [divergence between
+    the texts] (weight 7.7); Hero thrown into prison [divergence between the texts] (weight 7.7); Hero''s
+    garment becomes evidence in the seduction episode [divergence between the texts] (weight 7.7); The
+    woman falsely accuses the hero of assault [divergence between the texts] (weight 7.7); Hero''s garment
+    becomes evidence in the seduction episode (weight 7.1); Hero bought by an Egyptian official (weight
+    6.8); Hero thrown into prison (weight 6.8); The woman falsely accuses the hero of assault (weight
+    6.6); Hero refuses, citing loyalty to his master and to God (weight 6.6); God''s favor rests on the
+    hero while he is a slave or prisoner (weight 6.6); Seduction attempt when the two are alone in the
+    house (weight 6.4); The master''s wife tries to seduce the hero (weight 6.1); Hero''s beauty is remarked
+    on (weight 5.5). Pair score 89.7.'
   basis: reading
 - text: 'Only in Joseph in Potiphar''s house and in prison: The jailer puts all the prisoners in the hero''s
     charge; God blesses a foreigner''s house for the sake of the righteous slave; Master entrusts his
@@ -56,7 +56,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 96 more.'
+    brings back the missing royal cup, with a guarantor; and 134 more.'
   basis: reading
 - text: 'Joseph in Potiphar''s house and in prison: tagged by Claude (model), reading the Hebrew.'
   basis: reading

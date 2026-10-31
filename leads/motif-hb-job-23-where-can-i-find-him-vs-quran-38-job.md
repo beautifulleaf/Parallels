@@ -18,22 +18,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Job calls on God, and whether God answers [contrast between the
-    texts] (weight 6.7). Pair score 6.7.'
+    texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job - ''Oh that I knew where I might find him'': Going east, west, north and south, the
-    seeker cannot find God; ''He is one (be''echad); who can turn him? What he desires, that he does'';
-    ''Oh that I knew where I might find him, that I might come to his seat'' and argue my case; ''When
-    he has tried me, I shall come out as gold''; The righteous has treasured God''s words more than his
-    daily bread; The sufferer has prepared his case (arakhti mishpat) and knows he will be vindicated.'
+    seeker cannot find God; ''Oh that I knew where I might find him, that I might come to his seat'' and
+    argue my case; ''When he has tried me, I shall come out as gold''; The righteous has treasured God''s
+    words more than his daily bread; ''He is one (be''echad); who can turn him? What he desires, that
+    he does''; The sufferer has prepared his case (arakhti mishpat) and knows he will be vindicated.'
   basis: reading
 - text: 'Only in Job, the spring and the bundle of twigs: Job calls to his Lord: ''Satan has touched me
     with weariness and torment''; God gives Job back his family and as many again with them; Job is told
     to stamp with his foot: a cool spring to wash in and drink appears; Job is told to take a bundle of
     grass or twigs (dighth) in his hand and strike with it, so as not to break his oath; A man''s vow
-    or oath must be fulfilled as uttered; What God restores to Job at the end [divergence between the
-    texts]; Who struck or ''touched'' Job [divergence between the texts]; God restores the righteous sufferer''s
-    fortunes and gives him twice what he had; The Satan (the adversary) appears in the heavenly court
-    as an accusing member; Hero singled out as righteous or pious.'
+    or oath must be fulfilled as uttered; An innocent sufferer''s affliction is the touch of a demon [divergence
+    between the texts]; What God restores to Job at the end [divergence between the texts]; Who struck
+    or ''touched'' Job [divergence between the texts]; God restores the righteous sufferer''s fortunes
+    and gives him twice what he had; The Satan (the adversary) appears in the heavenly court as an accusing
+    member; Hero singled out as righteous or pious.'
   basis: reading
 - text: 'Job - ''Oh that I knew where I might find him'': tagged by Claude (model), reading the Hebrew.'
   basis: reading

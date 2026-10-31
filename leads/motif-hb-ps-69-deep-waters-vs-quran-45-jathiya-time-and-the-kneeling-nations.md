@@ -20,20 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God''s heavenly book records: names or deeds [divergence between
-    the texts] (weight 6.7); God keeps a book in which names are written and from which sinners are blotted
-    (weight 4.6). Pair score 11.2.'
+    the texts] (weight 7.7); God keeps a book in which names are written and from which sinners are blotted
+    (weight 5.4). Pair score 13.2.'
   basis: reading
-- text: 'Only in Psalm 69, the waters have come up to my neck; gall and vinegar: Sufferer has become a
-    stranger to his brothers and an alien to his mother''s sons; Enemies give the sufferer poison (rosh,
-    gall) for food and vinegar to drink; Curse that the enemy''s encampment be desolate with no one dwelling
-    in his tents; Curse that the enemies'' table become a trap and snare; Prayer that the pit (be''er)
-    not close its mouth over the sufferer; Heaven, earth, seas and all that moves in them praise God;
-    Sufferer sinks in deep mire and floodwaters up to the neck, the underworld deep; God keeps a book
-    in which names are written and from which sinners are blotted [divergence between the texts]; Speaker
-    fasts and wears sackcloth and becomes a byword and the song of drunkards; The record of the wicked
-    is in Sijjin, that of the righteous in ''Illiyyun, each an inscribed book (kitab marqum) witnessed
-    by those brought near [divergence between the texts]; Zeal for God''s house consumes the speaker;
-    Prayer that God rebuild the walls of Jerusalem/Zion; and 4 more.'
+- text: 'Only in Psalm 69, the waters have come up to my neck; gall and vinegar: Enemies give the sufferer
+    poison (rosh, gall) for food and vinegar to drink; Curse that the enemy''s encampment be desolate
+    with no one dwelling in his tents; Curse that the enemies'' table become a trap and snare; Prayer
+    that the pit (be''er) not close its mouth over the sufferer; Heaven, earth, seas and all that moves
+    in them praise God; God keeps a book in which names are written and from which sinners are blotted
+    [divergence between the texts]; Speaker fasts and wears sackcloth and becomes a byword and the song
+    of drunkards; The record of the wicked is in Sijjin, that of the righteous in ''Illiyyun, each an
+    inscribed book (kitab marqum) witnessed by those brought near [divergence between the texts]; Zeal
+    for God''s house consumes the speaker; Sufferer sinks in deep mire and floodwaters up to the neck,
+    the underworld deep; Prayer that God rebuild the walls of Jerusalem/Zion; Those who hate the speaker
+    without cause (hinnam); and 4 more.'
   basis: reading
 - text: 'Only in Desire as god, ''only Time destroys us'', and every nation kneeling before its book:
     God''s book speaks against them with truth: ''We used to have transcribed (nastansikh) all that you

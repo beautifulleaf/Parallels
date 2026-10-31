@@ -12,16 +12,16 @@ traditions:
 layers:
 - motif
 motifs:
-- penalty-for-deliberate-murder-as-divergence
 - city-of-refuge-accidental-killer
+- penalty-for-deliberate-murder-as-divergence
 - city-of-refuge-accidental-killer-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The penalty for deliberate murder [divergence between the texts]
-    (weight 6.7); A place of refuge for one who kills unintentionally (weight 6.7); A place of refuge
-    for one who kills unintentionally [divergence between the texts] (weight 6.0). Pair score 19.4.'
+- text: 'Shared motifs, rarest first: A place of refuge for one who kills unintentionally (weight 7.7);
+    The penalty for deliberate murder [divergence between the texts] (weight 7.7); A place of refuge for
+    one who kills unintentionally [divergence between the texts] (weight 7.1). Pair score 22.5.'
   basis: reading
 - text: 'Only in Covenant Code - homicide, injury and the goring ox: An animal that kills a person is
     stoned and its flesh not eaten; Men fighting strike a pregnant woman and she miscarries; One who injures
@@ -30,15 +30,17 @@ evidence:
     Laws of the goring ox and the warned owner; A slave whose eye or tooth the master destroys goes free;
     Striking or cursing father or mother is a capital crime; The owner of an uncovered pit pays for an
     animal that falls in; A deliberate murderer is taken even from God''s altar; Whether one who takes
-    refuge at the sanctuary is safe [contrast between the texts]; Five oxen for a stolen ox and four sheep
-    for a stolen sheep; and 7 more.'
+    refuge at the sanctuary is safe [contrast between the texts]; Kidnapping and selling a person is a
+    capital crime; and 7 more.'
   basis: reading
 - text: 'Only in Accidental and deliberate killing of a believer: Deliberate killing of a believer is
     punished by hell forever, God''s wrath and curse; Do not tell one who greets you with peace ''you
     are not a believer'' to seize booty; Whoever cannot pay the expiation fasts two consecutive months;
     Accidental killing of a believer: free a believing slave and pay blood money (diya) to the family
-    unless they remit it; Murder distinguished from manslaughter by weapon (iron, stone, wood), enmity
-    and intent; Whether payment may substitute for a life [contrast between the texts].'
+    unless they remit it; Blood compensation paid to the kin of a man killed who belongs to a people bound
+    by treaty; Murder distinguished from manslaughter by weapon (iron, stone, wood), enmity and intent;
+    Whether payment may substitute for a life [contrast between the texts]; Whether payment may substitute
+    for a life.'
   basis: reading
 - text: 'Covenant Code - homicide, injury and the goring ox: tagged by Claude (model), reading the Hebrew.'
   basis: reading

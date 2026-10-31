@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God mocks: where are their gods who ate the fat of their sacrifices?
-    let them rise and help (weight 5.8). Pair score 5.8.'
+    let them rise and help (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Minor judges Tola and Jair; apostasy to seven gods; God refuses, then is moved: God''s
     soul grows impatient (grieved) at Israel''s misery; Leadership is offered to whoever will begin the
@@ -33,12 +33,12 @@ evidence:
     be sent back; were they sent back they would return to sin; Unbelievers say there is only this worldly
     life and no raising; God feeds and is not fed; The idolaters swear ''by God our Lord, we were not
     idolaters''; The Prophet is commanded to be the first of those who submit (awwal al-muslimīn); The
-    People of the Book recognize the truth as they recognize their own sons; Prophet commissioned to make
-    the people''s heart fat, ears heavy and eyes shut lest they understand and be healed [divergence between
-    the texts]; God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma); On judgment day God
-    asks ''Where are my partners for whom you contended?''; The life of this world is only play and diversion;
-    the last abode is better; God does not need sacrifices: ''If I were hungry I would not tell you...
-    Do I eat the flesh of bulls or drink the blood of goats?''; and 2 more.'
+    People of the Book recognize the truth as they recognize their own sons; Whether the deity eats the
+    food that humans give it [response between the texts]; The sole sovereign god is the one who feeds
+    (gods, men, all) [divergence between the texts]; Prophet commissioned to make the people''s heart
+    fat, ears heavy and eyes shut lest they understand and be healed [divergence between the texts]; God
+    has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma); On judgment day God asks ''Where are
+    my partners for whom you contended?''; and 5 more.'
   basis: reading
 - text: 'Minor judges Tola and Jair; apostasy to seven gods; God refuses, then is moved: tagged by Claude
     (model), reading the Hebrew.'

@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God grants daughters to whom he wills, sons to whom he wills, or
-    both, and makes barren whom he wills (weight 6.3). Pair score 6.3.'
+    both, and makes barren whom he wills (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Births of Jacob''s children; the mandrakes: Slave-wife gives birth ''upon the knees''
     of her mistress as adoption; Rival wives name sons with speeches reflecting their rivalry; Barren
     wife demands children from her husband or she will die; God remembers the barren woman and opens her
     womb; Jacob''s sons born to four mothers, plus one daughter Dinah; God opens the womb of the unloved
-    wife while the beloved is barren; One wife buys a night with the husband from the other; Mandrakes
-    (duda''im) sought as a fertility charm; Barren wife gives her slave-girl to her husband to bear children
-    for her; The patriarch''s wife is barren.'
+    wife while the beloved is barren; One wife buys a night with the husband from the other; Barren wife
+    gives her slave-girl to her husband to bear children for her; Mandrakes (duda''im) sought as a fertility
+    charm; The patriarch''s wife is barren.'
   basis: reading
 - text: 'Only in The damned seek a way back; God gives children as he wills; three ways God speaks to
     man: The damned, seeing the punishment, ask whether there is any way of return (to the world); The
@@ -35,10 +35,12 @@ evidence:
     he exults; when evil strikes him for his deeds he is ungrateful; Before revelation the prophet did
     not know what the Book or faith was; The revelation is a spirit (ruh) from God''s command and a light
     by which he guides; God speaks to a human only by inspiration (wahy), from behind a veil (hijab),
-    or by sending a messenger; God speaks to one prophet ''mouth to mouth'', not in dreams or riddles;
-    How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
-    [divergence between the texts]; The prophet is not a guardian over people; his duty is only to deliver
-    the message (al-balagh); No human can see God''s face and live.'
+    or by sending a messenger; Children come from the divine, as a gift; A deity deliberately makes a
+    human barren [divergence between the texts]; The modes in which a deity speaks with a human: dream,
+    waking speech, revelation, veil, messenger [divergence between the texts]; God speaks to one prophet
+    ''mouth to mouth'', not in dreams or riddles; How God speaks to prophets: face to face, in vision
+    or dream, from behind a veil, or by a messenger [divergence between the texts]; The prophet is not
+    a guardian over people; his duty is only to deliver the message (al-balagh); and 1 more.'
   basis: reading
 - text: 'Births of Jacob''s children; the mandrakes: tagged by Claude (model), reading the Hebrew.'
   basis: reading

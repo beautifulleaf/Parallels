@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Remember God within yourself, humbly, without loud speech, morning
-    and evening (weight 6.3). Pair score 6.3.'
+    and evening (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Hannah''s vow and Samuel''s birth: Barren favored wife provoked by a fertile rival co-wife;
     Child brought to the sanctuary once weaned, with sacrifices; Child''s name explained as ''asked of
@@ -34,10 +34,9 @@ evidence:
 - text: 'Only in Forbearance, refuge from Satan, and the prostration of the near ones: When the Quran
     is recited, listen and be silent; A verse at which reciters customarily prostrate (sajda); Those near
     God do not disdain to worship him; they glorify him and prostrate; God praised morning and evening
-    [divergence between the texts]; When an evil prompting from Satan stirs you, seek refuge in God; Contradictory
-    pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according to his folly'';
-    Levites stand every morning and evening to thank and praise YHWH; The host of heaven bows down to
-    God.'
+    [divergence between the texts]; When an evil prompting from Satan stirs you, seek refuge in God; Levites
+    stand every morning and evening to thank and praise YHWH; The host of heaven bows down to God; Contradictory
+    pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according to his folly''.'
   basis: reading
 - text: 'Hannah''s vow and Samuel''s birth: tagged by Claude (model), reading the Hebrew.'
   basis: reading

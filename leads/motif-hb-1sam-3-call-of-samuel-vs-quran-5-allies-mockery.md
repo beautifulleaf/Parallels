@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rabbis and scholars (or the community) do not forbid one another
-    the wrong they do (weight 6.3). Pair score 6.3.'
+    the wrong they do (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The call of Samuel in the temple at Shiloh: Divine call repeated three times before it
     is recognized; Child sleeping in the sanctuary hears God call his name at night, mistaking it for

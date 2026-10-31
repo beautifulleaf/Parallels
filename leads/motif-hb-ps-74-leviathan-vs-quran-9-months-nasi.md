@@ -20,24 +20,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God fixed all the boundaries of the earth and formed summer and
-    winter (weight 6.7); Sun and moon are set to rule day and night and mark signs and seasons (weight
-    4.7). Pair score 11.4.'
+    winter (weight 7.3); Sun and moon are set to rule day and night and mark signs and seasons (weight
+    5.5). Pair score 12.8.'
   basis: reading
 - text: 'Only in Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan: Call ''Arise,
     O God, plead your own cause''; Prayer not to hand the soul of God''s turtledove to the wild beast;
-    God is king from of old (qedem), working salvation in the midst of the earth; God broke the heads
-    of the sea dragons (tanninim) on the waters; Enemies burn all the meeting places (mo''adei El) of
-    God in the land; God crushed the heads (plural) of Leviathan, the many-headed sea serpent; Complaint
-    that there are no signs and no prophet anymore, none who knows how long; God split or shattered the
-    sea (Yam) by his might; God split open springs and torrents and dried up ever-flowing rivers; The
-    slain Leviathan is given as food to the desert creatures or people; Enemies roar in the sanctuary,
-    hack its carved work with axes and burn it to the ground [divergence between the texts]; Enemies roar
-    in the sanctuary, hack its carved work with axes and burn it to the ground; and 4 more.'
+    God is king from of old (qedem), working salvation in the midst of the earth; Enemies burn all the
+    meeting places (mo''adei El) of God in the land; Complaint that there are no signs and no prophet
+    anymore, none who knows how long; God split or shattered the sea (Yam) by his might; God split open
+    springs and torrents and dried up ever-flowing rivers; God broke the heads of the sea dragons (tanninim)
+    on the waters; The slain Leviathan is given as food to the desert creatures or people; Enemies roar
+    in the sanctuary, hack its carved work with axes and burn it to the ground [divergence between the
+    texts]; God crushed the heads (plural) of Leviathan, the many-headed sea serpent; Enemies roar in
+    the sanctuary, hack its carved work with axes and burn it to the ground; and 4 more.'
   basis: reading
-- text: 'Only in Twelve months and the ban on intercalation: God fixes the reckoning of months [divergence
-    between the texts]; Four of the twelve months are sacred; Postponing a sacred month (al-nasi'', intercalation)
-    is an increase in unbelief; The number of months with God is twelve, in God''s book since the day
-    he created heaven and earth.'
+- text: 'Only in Twelve months and the ban on intercalation: God fixes the reckoning of months; God fixes
+    the reckoning of months [divergence between the texts]; Four of the twelve months are sacred; Postponing
+    a sacred month (al-nasi'', intercalation) is an increase in unbelief; Moving a sacred festival or
+    month out of its fixed time is forbidden; The number of months with God is twelve, in God''s book
+    since the day he created heaven and earth.'
   basis: reading
 - text: 'Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan: tagged by Claude (model),
     reading the Hebrew.'

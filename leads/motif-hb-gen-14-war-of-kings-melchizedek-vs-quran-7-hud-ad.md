@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites)
-    defeated (weight 5.1). Pair score 5.1.'
+    defeated (weight 6.1). Pair score 6.1.'
   basis: reading
 - text: 'Only in War of the four kings, rescue of Lot, Melchizedek: Valley full of bitumen pits into which
     fleeing kings fall; The patriarch''s trained men number 318; Patriarch pursues captors with a small

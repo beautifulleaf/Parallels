@@ -13,12 +13,12 @@ traditions:
 layers:
 - motif
 motifs:
-- hero-warned-by-deity
 - universal-destruction
+- hero-warned-by-deity
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero privately warned of the coming flood by a deity (weight 5.1);
-    All others perish (weight 5.0). Pair score 10.1.'
+- text: 'Shared motifs, rarest first: All others perish (weight 5.9); Hero privately warned of the coming
+    flood by a deity (weight 5.8). Pair score 11.7.'
   basis: reading
 - text: 'Deucalion and Pyrrha (Ovid, Apollodorus): tagged by Claude (model), from secondary knowledge.'
   basis: scholarship
@@ -26,7 +26,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Hero privately warned of the coming flood by a deity
+finding: All others perish
 kinds:
 - shared
 units:
@@ -37,20 +37,6 @@ units:
   title: Noah's preaching, the five idols and the flood
   tradition: islam
 matches:
-- kind: shared
-  label: Hero privately warned of the coming flood by a deity
-  sides:
-  - tradition: greco-roman
-    passages:
-    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Apollodorus 1.7.2'
-    note: Prometheus
-  - tradition: islam
-    passages:
-    - ref: Quran 71:1
-      lang: ar
-      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
-        عَذَابٌ أَلِيمٌ
-    note: Noah is sent to warn before a painful punishment
 - kind: shared
   label: All others perish
   sides:
@@ -66,6 +52,20 @@ matches:
     - ref: Quran 71:26
       lang: ar
       text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: greco-roman
+    passages:
+    - ref: 'Deucalion and Pyrrha (Ovid, Apollodorus): Apollodorus 1.7.2'
+    note: Prometheus
+  - tradition: islam
+    passages:
+    - ref: Quran 71:1
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
+        عَذَابٌ أَلِيمٌ
+    note: Noah is sent to warn before a painful punishment
 ---
 
 ## Questions

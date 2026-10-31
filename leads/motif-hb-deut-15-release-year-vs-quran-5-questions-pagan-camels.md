@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Firstborn male of herd and flock consecrated to God, not worked
-    or shorn [contrast between the texts] (weight 6.3). Pair score 6.3.'
+    or shorn [contrast between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Release of debts, release of Hebrew slaves, firstlings: Base thought refusing a loan
     as the release year nears; the poor man cries to God against you; There will be no poor among you,

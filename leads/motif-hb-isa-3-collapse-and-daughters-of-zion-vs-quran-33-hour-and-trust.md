@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The damned blame their chiefs and great ones who misled them and
-    ask God to double their punishment (weight 5.6). Pair score 5.6.'
+    ask God to double their punishment (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Removal of stay and staff; children rule; the finery of the daughters of Zion; seven
     women and one man: Amulets, charms or ''houses of the soul'' (bottei ha-nefesh) worn as protection;
@@ -34,12 +34,14 @@ evidence:
     God summons heaven and earth to the judgment of his people in a covenant lawsuit.'
   basis: reading
 - text: 'Only in The Hour, the blaming of leaders, Moses cleared, and the Trust: In hell the faces of
-    the damned are turned over in the fire; Those who hurt Moses: God cleared him of what they said; Prophet
-    criticized over his foreign (Cushite) wife; Those who hurt Moses: God cleared him of what they said
-    [divergence between the texts]; The damned followers ask double punishment for those who misled them;
-    all get double; God offered the Trust (amana) to the heavens, earth and mountains; they refused and
-    feared it, but man bore it, unjust and ignorant; Knowledge of the Hour is with God alone; it will
-    come suddenly.'
+    the damned are turned over in the fire; Those who hurt Moses: God cleared him of what they said; A
+    burden that higher beings refuse or throw off is laid on, or taken up by, humankind [divergence between
+    the texts]; Prophet criticized over his foreign (Cushite) wife; A heavy charge is offered to three
+    who refuse it in fear, and a fourth takes it on [divergence between the texts]; Those who hurt Moses:
+    God cleared him of what they said [divergence between the texts]; The damned followers ask double
+    punishment for those who misled them; all get double; God offered the Trust (amana) to the heavens,
+    earth and mountains; they refused and feared it, but man bore it, unjust and ignorant; Knowledge of
+    the Hour is with God alone; it will come suddenly.'
   basis: reading
 - text: 'Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
     one man: tagged by Claude (model), reading the Hebrew.'

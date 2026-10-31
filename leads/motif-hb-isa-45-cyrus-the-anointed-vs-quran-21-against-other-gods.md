@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is not questioned about what he does, but they are questioned
-    (weight 6.3); God did not create the heavens and earth and what is between them in play (la''ibin)
-    but in truth (weight 5.3). Pair score 11.6.'
+    (weight 7.3); God did not create the heavens and earth and what is between them in play (la''ibin)
+    but in truth (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -41,11 +41,11 @@ evidence:
   basis: reading
 - text: 'Only in Creation not in jest; the unceasing angels and the argument from one God: Those called
     God''s offspring are rather honored servants who do not speak before him [response between the texts];
-    Divine beings take human women as wives; God hurls the truth against falsehood and it shatters its
-    skull, and falsehood vanishes; Those called God''s offspring are rather honored servants who do not
-    speak before him; Those with God glorify him night and day without tiring; Were there gods besides
-    God in heaven and earth, both would have been ruined; In hell the damned neither die nor live; The
-    host of heaven bows down to God; Intercession avails only for whom God permits.'
+    God hurls the truth against falsehood and it shatters its skull, and falsehood vanishes; Those called
+    God''s offspring are rather honored servants who do not speak before him; Those with God glorify him
+    night and day without tiring; Were there gods besides God in heaven and earth, both would have been
+    ruined; Divine beings take human women as wives; In hell the damned neither die nor live; The host
+    of heaven bows down to God; Intercession avails only for whom God permits.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

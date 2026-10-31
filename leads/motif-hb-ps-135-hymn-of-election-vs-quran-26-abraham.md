@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Psalm 135, hymn on God''s power, election and the idols: Whatever YHWH pleases he does,
     in heaven, on earth, in the seas and all the deeps; God struck the firstborn of Egypt, of man and
@@ -36,13 +36,14 @@ evidence:
     (good repute) among later generations; Abraham''s creed: the God who created and guides me, feeds
     and gives drink, heals me when sick, causes me to die and revives me, and will forgive me; In hell
     the damned dispute with the gods they equated with God and wish for another chance; The deluded and
-    all the hosts of Iblis are hurled headlong into hell; God wounds and binds up, strikes and his hands
-    heal; On that day neither wealth nor sons avail, only one who comes to God with a sound heart; Who
-    sends sickness and who heals [divergence between the texts]; A good name is to be chosen rather than
-    great riches, favor rather than silver and gold; Abraham prayed for his father''s forgiveness only
-    by a promise, and disowned him when he proved God''s enemy; Hero''s father makes, sells or worships
-    idols [divergence between the texts]; Wealth does not profit on the day of wrath; No man can ransom
-    his brother or give God a ransom (kofer) for him; the redemption of life is too costly; and 3 more.'
+    all the hosts of Iblis are hurled headlong into hell; The god who made humans also teaches or guides
+    them and gives them food and drink; Petition that the petitioner''s good name (praise, ''a tongue
+    of truth'') be set in the mouths of people, or of later generations; On that day neither wealth nor
+    sons avail, only one who comes to God with a sound heart; Who sends sickness and who heals [divergence
+    between the texts]; Whether a man''s sons (and wealth) help him after death [divergence between the
+    texts]; The petitioner asks the deity to set truth on his tongue so that he is well spoken of; A good
+    name is to be chosen rather than great riches, favor rather than silver and gold; Abraham prayed for
+    his father''s forgiveness only by a promise, and disowned him when he proved God''s enemy; and 7 more.'
   basis: reading
 - text: 'Psalm 135, hymn on God''s power, election and the idols: tagged by Claude (model), reading the
     Hebrew.'

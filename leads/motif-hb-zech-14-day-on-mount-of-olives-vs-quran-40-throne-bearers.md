@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the Day God asks ''Whose is the kingdom today?'' and answers
-    ''God''s, the One, the Overpowering'' (weight 6.7). Pair score 6.7.'
+    ''God''s, the One, the Overpowering'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The final day on the Mount of Olives; living waters; Sukkot for the nations: A unique
     day known to YHWH, neither day nor night, without light, cold and frost; at evening there will be
@@ -43,11 +43,12 @@ evidence:
     casts the Spirit (al-ruh) of his command upon whom he wills of his servants to warn of the Day of
     Meeting; The beings that carry God''s throne, and what they do [divergence between the texts]; God
     knows the treachery of the eyes and what the breasts conceal; In terror eyes swerve and hearts reach
-    the throats; The angels who bear the Throne and those around it glorify God and ask forgiveness for
-    the believers, praying they and their righteous kin enter Eden; Humans were dead, given life, will
-    die and be given life again (two deaths, two lives); Four living creatures (hayyot) of human form
-    bear the divine throne; Formula: ''gracious and merciful, slow to anger, abounding in steadfast love,
-    relenting of evil''; Travel in the land and see the end of those who denied; and 1 more.'
+    the throats; The heavenly host speak for a human before the high god and ask his forgiveness; The
+    angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
+    praying they and their righteous kin enter Eden; Humans were dead, given life, will die and be given
+    life again (two deaths, two lives); Four living creatures (hayyot) of human form bear the divine throne;
+    Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil'';
+    and 2 more.'
   basis: reading
 - text: 'The final day on the Mount of Olives; living waters; Sukkot for the nations: tagged by Claude
     (model), reading the Hebrew.'

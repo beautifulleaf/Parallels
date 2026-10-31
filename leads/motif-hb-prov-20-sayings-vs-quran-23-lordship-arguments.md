@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hearing ear and the seeing eye, YHWH made them both (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -28,10 +28,10 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 19 more.'
   basis: reading
 - text: 'Only in Who owns the earth? The fables of the ancients and the impossibility of many gods: Sufferer
     imagines suing God but knows God''s might would silence or condemn him; Those called God''s offspring

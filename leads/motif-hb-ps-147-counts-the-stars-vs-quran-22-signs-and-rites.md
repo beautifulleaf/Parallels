@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God visits the earth with rain, softens it with showers, and crowns
-    the year with harvest (weight 5.3). Pair score 5.3.'
+    the year with harvest (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Psalm 147, builder of Jerusalem, counter of stars, giver of snow: God counts the number
     of the stars and calls them all by name; God heals the brokenhearted and binds up their wounds; God
@@ -27,18 +27,21 @@ evidence:
     statutes to Jacob; he has not done so for any other nation; God''s word runs swiftly; he gives snow
     like wool, scatters frost like ashes, casts his ice like crumbs; his word melts them; Israel given
     God''s law, as a unique gift or followed by a later law [divergence between the texts]; God provides
-    prey for the lion and food for the raven''s young that cry to him; God will gather the exiles even
-    from the end of heaven and restore them; The cultic cry ''Hallelu-Yah'' (praise Yah) closes or opens
-    a psalm.'
+    prey for the lion and food for the raven''s young that cry to him; The cultic cry ''Hallelu-Yah''
+    (praise Yah) closes or opens a psalm; God will gather the exiles even from the end of heaven and restore
+    them.'
   basis: reading
 - text: 'Only in Migrants provided for; the night and day, the held sky, a rite for every nation: God
     holds back the sky from falling onto the earth except by his leave; Those who emigrated for God and
     were killed or died will receive a fine provision; God appointed for every community a rite of sacrifice
-    (mansak); God''s eyes saw the speaker''s unformed substance (golem); all his days were written in
-    God''s book before one of them existed; They sacrificed to shedim (demons), no-gods, new gods their
-    fathers did not know; God makes the night pass into the day and the day into the night; Eye for an
-    eye, tooth for a tooth (lex talionis); I kill and I make alive, I wound and I heal; there is no god
-    beside me; God keeps a book in which names are written and from which sinners are blotted.'
+    (mansak); He holds up the sky (so that it does not fall on the earth); The sky falls, or is kept from
+    falling, on the earth [divergence between the texts]; God''s eyes saw the speaker''s unformed substance
+    (golem); all his days were written in God''s book before one of them existed; They sacrificed to shedim
+    (demons), no-gods, new gods their fathers did not know; The god (alone) holds the heavens (and earth)
+    in place: the bond or rope of heaven, holding back the sky; God makes the night pass into the day
+    and the day into the night; Eye for an eye, tooth for a tooth (lex talionis); I kill and I make alive,
+    I wound and I heal; there is no god beside me; God keeps a book in which names are written and from
+    which sinners are blotted.'
   basis: reading
 - text: 'Psalm 147, builder of Jerusalem, counter of stars, giver of snow: tagged by Claude (model), reading
     the Hebrew.'

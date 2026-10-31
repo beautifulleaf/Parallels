@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: False prophet put to death [divergence between the texts] (weight
-    6.3); The prophet is no soothsayer (kahin), no madman, no poet awaiting the accident of fate (weight
-    6.0). Pair score 12.3.'
+    7.3); The prophet is no soothsayer (kahin), no madman, no poet awaiting the accident of fate (weight
+    7.1). Pair score 14.4.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:
@@ -43,10 +43,10 @@ evidence:
     seized him by the right hand and cut his aorta (watin); ''I swear by what you see and what you do
     not see''; ''Seize him, fetter him, roast him in hellfire, then thread him on a chain seventy cubits
     long''; ''This is the certain truth'' (haqq al-yaqin); Reclining on couches lined with brocade, with
-    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; God
-    keeps a book in which names are written and from which sinners are blotted [divergence between the
-    texts]; Kings bound with chains and nobles with fetters of iron to execute ''the judgment written'';
-    and 4 more.'
+    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; An offence
+    concerning food is repaid with foul food and drink [divergence between the texts]; God keeps a book
+    in which names are written and from which sinners are blotted [divergence between the texts]; and
+    7 more.'
   basis: reading
 - text: 'Levitical dues; forbidden divination; the prophet like Moses: tagged by Claude (model), reading
     the Hebrew.'

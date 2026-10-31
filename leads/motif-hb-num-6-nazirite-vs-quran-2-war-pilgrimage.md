@@ -13,17 +13,17 @@ traditions:
 layers:
 - motif
 motifs:
+- head-ailment-ransom-fast-alms-sacrifice
 - shaving-of-consecrated-head-as-divergence
 - uncut-hair-consecrated
-- head-ailment-ransom-fast-alms-sacrifice
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: When a consecrated person shaves the head [divergence between the
-    texts] (weight 6.7); The consecrated person lets his hair grow uncut as the sign of his vow (weight
-    6.7); One with an ailment of the head pays ransom by fasting, alms or sacrifice (weight 6.7). Pair
-    score 20.1.'
+- text: 'Shared motifs, rarest first: One with an ailment of the head pays ransom by fasting, alms or
+    sacrifice (weight 7.7); When a consecrated person shaves the head [divergence between the texts] (weight
+    7.7); The consecrated person lets his hair grow uncut as the sign of his vow (weight 7.7). Pair score
+    23.2.'
   basis: reading
 - text: 'Only in The Nazirite vow: Priest places the boiled shoulder and cakes in the hands of the shaved
     Nazirite and waves them; Nazirite may not become unclean even for the corpse of father, mother, brother
@@ -44,7 +44,7 @@ evidence:
     at the Sacred Mosque unless they fight you there; No sexual talk, wickedness or quarreling during
     the pilgrimage; Remember God as you remember your fathers, or more; The sacred month for the sacred
     month; violations are subject to retaliation; Do not shave heads until the sacrificial offering (hady)
-    reaches its place; and 8 more.'
+    reaches its place; and 10 more.'
   basis: reading
 - text: 'The Nazirite vow: tagged by Claude (model), reading the Hebrew.'
   basis: reading

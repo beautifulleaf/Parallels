@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Have you seen what you sow? Do you make it grow, or are we the grower?
-    We could make it chaff (weight 6.7). Pair score 6.7.'
+    We could make it chaff (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Blessings and the great curses: Futility curse: betroth a wife another lies with, build
-    a house and not live in it, plant a vineyard and not enjoy it; Blessed in city and field, in coming
-    in and going out, basket and kneading trough; Smitten with the boils of Egypt, tumors, scab and itch
-    that cannot be healed; Covenant at Moab in addition to the covenant at Horeb; Delicate woman who never
-    set foot on the ground secretly eats her afterbirth and children in the siege; Enemies come out one
-    way and flee seven ways; King and people exiled to an unknown nation to serve gods of wood and stone;
-    As God rejoiced to do you good, so he will rejoice to destroy you; God will make you the head and
-    not the tail; God puts an iron yoke on your neck; In the morning you will say: would it were evening;
-    in the evening: would it were morning; God will send you back to Egypt in ships to be sold as slaves,
-    and no one will buy; and 20 more.'
+- text: 'Only in Blessings and the great curses: Blessed in city and field, in coming in and going out,
+    basket and kneading trough; Covenant at Moab in addition to the covenant at Horeb; Delicate woman
+    who never set foot on the ground secretly eats her afterbirth and children in the siege; Enemies come
+    out one way and flee seven ways; King and people exiled to an unknown nation to serve gods of wood
+    and stone; As God rejoiced to do you good, so he will rejoice to destroy you; God will make you the
+    head and not the tail; God puts an iron yoke on your neck; God will send you back to Egypt in ships
+    to be sold as slaves, and no one will buy; The stranger in your midst rises higher and higher while
+    you sink; Smitten with the boils of Egypt, tumors, scab and itch that cannot be healed; They thought
+    their fortresses would protect them from God, but God came from where they did not expect and cast
+    terror into their hearts; and 20 more.'
   basis: reading
 - text: 'Only in The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?;
     the hidden Book; the soul at the throat: The damned eat of Zaqqum to fill their bellies and drink
@@ -43,8 +43,8 @@ evidence:
     wind (samum), boiling water and the shade of black smoke (yahmum), neither cool nor kind; ''This is
     the certain truth'' (haqq al-yaqin); Fire kindled from a tree that God made grow [divergence between
     the texts]; The scripture exists with God in the ''Mother of the Book'' (umm al-kitab), a heavenly
-    archetype; When the soul reaches the throat at death and you look on, God is nearer than you; if you
-    are not to be judged, bring it back!; and 8 more.'
+    archetype; Purity is required of whoever recites or touches the sacred text [divergence between the
+    texts]; and 10 more.'
   basis: reading
 - text: 'Blessings and the great curses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Statutory order of inheritance: son, daughter, brothers, father''s
-    brothers, nearest kin [divergence between the texts] (weight 6.7); Leader defers an unprecedented
-    legal case to a divine oracle (weight 6.0). Pair score 12.7.'
+    brothers, nearest kin [divergence between the texts] (weight 7.7); Leader defers an unprecedented
+    legal case to a divine oracle (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Daughters of Zelophehad; Moses views the land; Joshua commissioned: Petition so that
     a dead man''s name not be lost from his clan; Leader ordains his successor by laying hands and sharing
@@ -34,9 +34,10 @@ evidence:
     Daughters petition and win the right to inherit when there is no son; Prayer that the people not be
     ''like sheep without a shepherd''; The great leader is denied entry into the promised land for a lapse.'
   basis: reading
-- text: 'Only in The final ruling on kalāla: One who dies without parent or child (kalāla): brothers and
-    sisters inherit fixed shares; A son (or brother) inherits the share of two daughters (or sisters);
-    Form: ''They ask you for a ruling (yastaftūnaka); say: God gives you a ruling''.'
+- text: 'Only in The final ruling on kalāla: Who inherits the estate of a man who dies without a son [divergence
+    between the texts]; One who dies without parent or child (kalāla): brothers and sisters inherit fixed
+    shares; A son (or brother) inherits the share of two daughters (or sisters); Form: ''They ask you
+    for a ruling (yastaftūnaka); say: God gives you a ruling''.'
   basis: reading
 - text: 'Daughters of Zelophehad; Moses views the land; Joshua commissioned: tagged by Claude (model),
     reading the Hebrew.'

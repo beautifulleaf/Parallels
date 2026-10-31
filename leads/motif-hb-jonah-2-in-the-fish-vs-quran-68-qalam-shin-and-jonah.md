@@ -15,27 +15,27 @@ layers:
 motifs:
 - fish-vomits-prophet-onto-land-as-divergence
 - prayer-from-belly-of-fish-as-divergence
-- prayer-from-belly-of-fish
 - fish-vomits-prophet-onto-land
+- prayer-from-belly-of-fish
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At God''s command the fish vomits the prophet onto dry land [divergence
-    between the texts] (weight 6.7); The prophet prays to God from inside the fish [divergence between
-    the texts] (weight 6.3); The prophet prays to God from inside the fish (weight 6.3); At God''s command
-    the fish vomits the prophet onto dry land (weight 6.3). Pair score 25.5.'
+    between the texts] (weight 7.7); The prophet prays to God from inside the fish [divergence between
+    the texts] (weight 7.3); At God''s command the fish vomits the prophet onto dry land (weight 7.3);
+    The prophet prays to God from inside the fish (weight 7.3). Pair score 29.8.'
   basis: reading
 - text: 'Only in Jonah swallowed by the great fish and his psalm: The speaker goes down to the roots (or
     cut-offs) of the mountains where the earth''s bars close behind him forever; The speaker cries from
     ''the belly of Sheol'' (beten sheol); The speaker is cast into the deep, the heart of the seas, with
     the current around him; The dying man remembers God and his prayer reaches God''s holy temple; he
     looks again toward the temple; Declaration ''Salvation belongs to YHWH''; Reeds or seaweed (suf) are
-    wrapped round the drowning man''s head; Hero stays three days and three nights in the belly of a fish
-    or in the underworld; Deep calls to deep at the roar of your water-spouts (tsinnorot); all your breakers
-    pass over me; God ''appoints'' (wayeman) a series of natural agents: fish, plant, worm, wind; The
-    man of the fish (Dhū l-Nūn) cries from the darknesses ''There is no god but you; I was a wrongdoer''
-    and is saved [divergence between the texts]; God appoints a great fish to swallow the prophet; God
+    wrapped round the drowning man''s head; Deep calls to deep at the roar of your water-spouts (tsinnorot);
+    all your breakers pass over me; God ''appoints'' (wayeman) a series of natural agents: fish, plant,
+    worm, wind; The man of the fish (Dhū l-Nūn) cries from the darknesses ''There is no god but you; I
+    was a wrongdoer'' and is saved [divergence between the texts]; God appoints a great fish to swallow
+    the prophet; Hero stays three days and three nights in the belly of a fish or in the underworld; God
     brought the speaker up from Sheol and kept him alive from going down to the pit (healing as resurrection);
     and 3 more.'
   basis: reading
@@ -46,13 +46,12 @@ evidence:
     the barren shore blameworthy; but his Lord chose him and made him righteous; On the day when the shin
     is laid bare (yukshafu ''an saq) and they are called to prostrate but cannot; The unbelievers almost
     make the prophet slip with their (evil) eyes when they hear the reminder; Do they possess the Unseen
-    (al-ghayb) so they write it down?; ''Are your unbelievers better than those, or have you an immunity
-    (bara''a) in the scriptures (zubur)?''; The prophet is bitterly angry that God has spared the sinners;
-    The prophet is bitterly angry that God has spared the sinners [divergence between the texts]; The
-    word of God comes to the prophet a second time with the same commission; The man of the fish (Dhū
-    l-Nūn) cries from the darknesses ''There is no god but you; I was a wrongdoer'' and is saved; No messenger
-    came to earlier peoples without being called ''a sorcerer or a madman'', as if they had bequeathed
-    the charge to one another; and 3 more.'
+    (al-ghayb) so they write it down?; The eye (gaze) as a harmful force against a person; ''Are your
+    unbelievers better than those, or have you an immunity (bara''a) in the scriptures (zubur)?''; The
+    prophet is bitterly angry that God has spared the sinners; The prophet is bitterly angry that God
+    has spared the sinners [divergence between the texts]; The word of God comes to the prophet a second
+    time with the same commission; The man of the fish (Dhū l-Nūn) cries from the darknesses ''There is
+    no god but you; I was a wrongdoer'' and is saved; and 4 more.'
   basis: reading
 - text: 'Jonah swallowed by the great fish and his psalm: tagged by Claude (model), reading the Hebrew.'
   basis: reading

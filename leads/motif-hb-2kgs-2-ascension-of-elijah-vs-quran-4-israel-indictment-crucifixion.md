@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Prophet is taken up alive to heaven in a whirlwind (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: Prophet is taken up alive to heaven in a whirlwind (weight 7.3).
+    Pair score 7.3.'
   basis: reading
 - text: 'Only in Elijah taken up in the whirlwind: Disciple asks for a double portion (pi shnayim) of
     the master''s spirit, granted if he sees him taken; Prophet rolls up his mantle, strikes the Jordan,

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A people is destroyed by an earthquake/tremor (al-rajfa) (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Korah, Dathan and Abiram rebel; the earth swallows them: Rival claimants offer incense
     in fire-pans so God may choose the holy one; Rebels claim all the people are holy and challenge the
@@ -27,10 +27,10 @@ evidence:
     as ''God of the spirits of all flesh''; Bystanders of a divine punishment fear it could have struck
     them too; Your companion has not erred; he does not speak from desire; it is only revelation revealed;
     Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?'';
-    What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; Intercessor
-    asks: shall one man sin and you rage at the whole community?; Leader protests he never took so much
-    as a donkey from anyone; Where Haman and Korah belong in the story of God''s people [divergence between
-    the texts]; and 2 more.'
+    What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; Leader protests
+    he never took so much as a donkey from anyone; Where Haman and Korah belong in the story of God''s
+    people [divergence between the texts]; Intercessor asks: shall one man sin and you rage at the whole
+    community?; and 2 more.'
   basis: reading
 - text: 'Only in Salih, Thamud and the she-camel: The arrogant elite confront the weak (mustad''afun)
     who believed the prophet; The prophet reminds a disobedient people that he delivered God''s message;

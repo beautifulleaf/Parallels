@@ -15,24 +15,24 @@ traditions:
 layers:
 - motif
 motifs:
-- manner-of-moses-killing-as-divergence
-- retort-on-the-second-day-as-divergence
 - hero-kills-oppressor-and-hides-body
-- how-moses-learns-of-the-threat-as-divergence
 - who-made-you-judge-over-us
+- manner-of-moses-killing-as-divergence
+- how-moses-learns-of-the-threat-as-divergence
+- retort-on-the-second-day-as-divergence
 - verdict-on-moses-killing-as-divergence
 - hero-flees-to-foreign-land
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How Moses killed the Egyptian [divergence between the texts] (weight
-    6.7); The retort Moses hears on the day after the killing [divergence between the texts] (weight 6.7);
-    Hero kills an oppressor beating a kinsman and hides the body in the sand (weight 6.7); How Moses learns
-    that his life is sought [divergence between the texts] (weight 6.7); Kinsman rebuffs the hero: ''Who
-    made you prince and judge over us?'' (weight 6.7); How Moses'' killing of the Egyptian is judged [divergence
-    between the texts] (weight 6.3); Hero flees the king''s death sentence to a foreign land (weight 5.8).
-    Pair score 45.5.'
+- text: 'Shared motifs, rarest first: Hero kills an oppressor beating a kinsman and hides the body in
+    the sand (weight 7.7); Kinsman rebuffs the hero: ''Who made you prince and judge over us?'' (weight
+    7.7); How Moses killed the Egyptian [divergence between the texts] (weight 7.7); How Moses learns
+    that his life is sought [divergence between the texts] (weight 7.7); The retort Moses hears on the
+    day after the killing [divergence between the texts] (weight 7.7); How Moses'' killing of the Egyptian
+    is judged [divergence between the texts] (weight 7.3); Hero flees the king''s death sentence to a
+    foreign land (weight 6.8). Pair score 52.9.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
     The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
@@ -48,8 +48,10 @@ evidence:
 - text: 'Only in Moses kills the Egyptian, is warned, and flees toward Midian: Moses calls his killing
     ''the work of Satan'' and asks forgiveness, which is granted; A man comes running from the far end
     of the city to warn the hero that the chiefs plot to kill him; When Moses reached his full strength
-    God gave him judgment and knowledge; Moses killed a man and God delivered him from distress, then
-    tried him with trials.'
+    God gave him judgment and knowledge; What drives a man of the Egyptian court to flee Egypt in fear
+    [neutral] [divergence between the texts]; A man flees his land in fear and sets out into the desert;
+    Someone learns of a plot against the hero and hurries to warn him; Moses killed a man and God delivered
+    him from distress, then tried him with trials.'
   basis: reading
 - text: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry: tagged by
     Claude (model), reading the Hebrew.'

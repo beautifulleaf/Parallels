@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
-    is lifted (weight 5.8). Pair score 5.8.'
+    is lifted (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Plagues 4-6: swarms, pestilence of livestock, boils: Soot from a kiln thrown skyward
     becomes boils on men and beasts; Pestilence kills the oppressors'' livestock while sparing the oppressed''s;
@@ -38,10 +38,11 @@ evidence:
     then comes ''the greatest assault'' (al-batsha al-kubra); The Book was sent down on a blessed night
     in which every wise matter is decreed/distinguished (cf. the Night of Decree); Oath ''By the clear
     Book!'' opening a surah; A day when the sky brings a visible smoke (dukhan) covering the people as
-    a painful punishment; Smoke rises from the destroyed land like smoke of a kiln; God kills and makes
-    alive, brings down to Sheol and raises up; ''There is none like you and no God beside you''; God identifies
-    himself as God of Abraham, Isaac and Jacob; Officers call the visiting prophet ''this madman'' (meshugga'');
-    A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    a painful punishment; Smoke envelops house or people as a calamity [divergence between the texts];
+    Smoke rises from the destroyed land like smoke of a kiln; A set day or night on which the fates or
+    every matter are decided; God identifies himself as God of Abraham, Isaac and Jacob; ''There is none
+    like you and no God beside you''; Officers call the visiting prophet ''this madman'' (meshugga'');
+    God kills and makes alive, brings down to Sheol and raises up; and 1 more.'
   basis: reading
 - text: 'Plagues 4-6: swarms, pestilence of livestock, boils: tagged by Claude (model), reading the Hebrew.'
   basis: reading

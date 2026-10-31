@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eye for an eye, tooth for a tooth (lex talionis) [divergence between
-    the texts] (weight 6.0); Eye for an eye, tooth for a tooth (lex talionis) (weight 5.4). Pair score
-    11.4.'
+    the texts] (weight 7.1); Eye for an eye, tooth for a tooth (lex talionis) (weight 6.5). Pair score
+    13.5.'
   basis: reading
 - text: 'Only in Covenant Code - homicide, injury and the goring ox: An animal that kills a person is
     stoned and its flesh not eaten; Men fighting strike a pregnant woman and she miscarries; One who injures

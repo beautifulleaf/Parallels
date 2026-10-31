@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not create the heavens and earth and what is between them
-    in play (la''ibin) but in truth (weight 5.3). Pair score 5.3.'
+    in play (la''ibin) but in truth (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -44,12 +44,11 @@ evidence:
     except by God''s leave; whoever believes, God guides his heart; Unbelievers rejected their messengers
     saying ''Shall mere humans guide us?''; God created you, and among you are unbelievers and believers;
     Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a man''s
-    enemies are his own household; Son dishonors father, daughter rises against mother, daughter-in-law
-    against mother-in-law; a man''s enemies are his own household [divergence between the texts]; God
-    shaped you and made your forms good (sawwarakum fa-ahsana suwarakum); The poor emigrants and the hosts
-    who prefer others over themselves even in need; whoever is saved from his own greed succeeds; The
-    Day of Gathering (yawm al-jam'') when all humanity is assembled; one party to the Garden, one to the
-    Blaze; Wealth and children are a trial (fitna); and 6 more.'
+    enemies are his own household [divergence between the texts]; God shaped you and made your forms good
+    (sawwarakum fa-ahsana suwarakum); Human beings as the creator''s images or as forms he fashioned [neutral]
+    [divergence between the texts]; The poor emigrants and the hosts who prefer others over themselves
+    even in need; whoever is saved from his own greed succeeds; A man''s own child is his enemy; One''s
+    wife or child can be one''s worst affliction or enemy; and 10 more.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

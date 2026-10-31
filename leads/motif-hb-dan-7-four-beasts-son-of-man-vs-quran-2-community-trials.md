@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Coming with the clouds of heaven [divergence between the texts]
-    (weight 6.7); One like a son of man (kevar enash) comes with the clouds of heaven to the Ancient of
-    Days (weight 6.7). Pair score 13.4.'
+    (weight 7.7); One like a son of man (kevar enash) comes with the clouds of heaven to the Ancient of
+    Days (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in The four beasts, the Ancient of Days and one like a son of man: Thrones are set and the
     Ancient of Days sits, his garment white as snow and his hair like pure wool; The seer asks one of
@@ -30,21 +30,22 @@ evidence:
     over to burning fire; A heavenly figure or the holy ones are given everlasting dominion, glory and
     kingdom which all peoples serve; God''s throne is flames of fire with wheels of burning fire; Four
     great beasts rise from the sea, each different, symbolizing successive kingdoms; A leopard with four
-    wings and four heads is given dominion; The four winds of heaven stir up the great sea, out of which
-    monstrous beasts arise; The holy ones of the Most High (qaddishe ''elyonin) receive and possess the
-    kingdom forever; The horn makes war against the holy ones and prevails until the Ancient of Days comes;
-    A little horn with human eyes and a mouth speaking great things uproots three horns; and 14 more.'
+    wings and four heads is given dominion; The holy ones of the Most High (qaddishe ''elyonin) receive
+    and possess the kingdom forever; The horn makes war against the holy ones and prevails until the Ancient
+    of Days comes; A little horn with human eyes and a mouth speaking great things uproots three horns;
+    Thousands of thousands serve God and myriads of myriads stand before him; and 14 more.'
   basis: reading
 - text: 'Only in The corrupter, God in clouds, one community, fighting in the sacred month: Who turns
     from his religion and dies an unbeliever, his deeds are void in this world and the next; Fighting
     is prescribed though you hate it; you may hate what is good for you; Will they wait until God comes
     to them in canopies of cloud with the angels?; Mankind was one community; God sent prophets as bearers
     of good news and warners with the Book; YHWH comes and all the holy ones (angels) with him; God coming
-    down from heaven [contrast between the texts]; Mankind once one, then divided [divergence between
-    the texts]; Persecution (fitna) is worse than killing; A man whose speech pleases, who calls God to
-    witness, but goes forth to destroy tillage and offspring; Messenger and believers, shaken, cry ''When
-    is God''s help?'' Truly God''s help is near; God provides for whom he wills without reckoning (bi-ghayri
-    hisab).'
+    down from heaven [contrast between the texts]; What is good to oneself may be an offense to a god,
+    and what seems abominable to one''s heart may be good to one''s god; Mankind once one, then divided
+    [divergence between the texts]; Persecution (fitna) is worse than killing; A man whose speech pleases,
+    who calls God to witness, but goes forth to destroy tillage and offspring; A man whose speech is sweet
+    (pleasing) but who is a quarreller and sows strife; Messenger and believers, shaken, cry ''When is
+    God''s help?'' Truly God''s help is near; and 1 more.'
   basis: reading
 - text: 'The four beasts, the Ancient of Days and one like a son of man: tagged by Claude (model), reading
     the Aramaic.'

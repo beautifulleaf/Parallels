@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All in heavens and earth submit to God willingly or unwillingly
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -42,8 +42,8 @@ evidence:
     revealed signs are cursed by God and by all who curse; Believers make no distinction between any of
     the prophets (Abraham, Ishmael, Isaac, Jacob, the Tribes, Moses, Jesus); On the day of wrath people
     fling their silver into the streets; silver and gold cannot save them; An earthful of gold would not
-    be accepted as ransom from one who dies unbelieving; No man can ransom his brother or give God a ransom
-    (kofer) for him; the redemption of life is too costly.'
+    be accepted as ransom from one who dies unbelieving; Whether payment may substitute for a life; No
+    man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too costly.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

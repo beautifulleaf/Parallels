@@ -19,26 +19,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Perform prayer at the two ends of the day and in the near hours
-    of the night (weight 6.3). Pair score 6.3.'
+    of the night (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Daniel in the lions'' den: The accusers, with their wives and children, are thrown to
-    the lions and crushed before they reach the bottom; God sends his angel and shuts the lions'' mouths
-    so they do not harm the innocent; For thirty days no one may petition any god or man except the king;
-    Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the mouth of the pit and
-    sealed with the king''s signet and those of his nobles; A royal decree written by the law of the Medes
-    and Persians cannot be revoked, even by the king; The king spends a sleepless night fasting, without
-    entertainment, worrying over the hero; The pious kneels on his knees to pray; The faithful prays facing
-    Jerusalem through open windows; Rivals can find no fault in the hero except in the matter of the law
-    of his God; The king appoints 120 satraps over the kingdom with three presidents above them, one of
-    them the hero; The hero is thrown into a pit of lions; and 8 more.'
+    the lions and crushed before they reach the bottom; For thirty days no one may petition any god or
+    man except the king; Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the
+    mouth of the pit and sealed with the king''s signet and those of his nobles; A royal decree written
+    by the law of the Medes and Persians cannot be revoked, even by the king; The king spends a sleepless
+    night fasting, without entertainment, worrying over the hero; The pious kneels on his knees to pray;
+    The faithful prays facing Jerusalem through open windows; Rivals can find no fault in the hero except
+    in the matter of the law of his God; The king appoints 120 satraps over the kingdom with three presidents
+    above them, one of them the hero; The hero is thrown into a pit of lions; God sends his angel and
+    shuts the lions'' mouths so they do not harm the innocent; and 8 more.'
   basis: reading
 - text: 'Only in Stand firm; prayer times; good deeds remove bad: Only a few in past generations forbade
     corruption, and they were saved; The stories of the messengers are told to make the prophet''s heart
     firm; God vows to fill hell with the devil and all who follow him; Humankind was originally one community,
     then they differed; Hero challenges God: shall the judge of all the earth not do justice? [response
     between the texts]; When a land is destroyed only the righteous few are rescued, by their own righteousness;
-    Good deeds remove evil deeds; Hero bargains with God to spare a city for the sake of a few righteous
-    (50 down to 10); Prophet tells deniers ''Wait, I too am waiting''.'
+    Whether the god destroys a city whose people do right [divergence between the texts]; Good deeds remove
+    evil deeds; Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10);
+    Prophet tells deniers ''Wait, I too am waiting''.'
   basis: reading
 - text: 'Daniel in the lions'' den: tagged by Claude (model), reading the Aramaic.'
   basis: reading

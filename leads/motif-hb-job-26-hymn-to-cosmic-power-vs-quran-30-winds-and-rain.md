@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God binds up the waters in his thick clouds and the cloud does not
-    burst under them (weight 6.7). Pair score 6.7.'
+    burst under them (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Job - the earth hung on nothing; Rahab smitten: God hangs the earth upon nothing (beli-mah);
-    These are but the fringes of his ways, a whisper of a word; who can understand the thunder of his
-    power?; God''s hand pierced the fleeing serpent (nachash bariach); God stretches out Zaphon (the north)
-    over the void (tohu); The pillars of heaven tremble and are astounded at God''s rebuke; The shades
-    (Rephaim) tremble beneath the waters and their inhabitants; God veils the face of his throne, spreading
-    his cloud over it; By his wind (breath) the heavens are made fair; God owns what is in heaven, on
-    earth, between them and beneath the moist soil (al-tharā); By his power God stilled (or stirred) the
-    Sea and by his understanding smote Rahab; God raised the heavens without pillars that you can see
-    [divergence between the texts]; God wraps (yukawwir) the night around the day and the day around the
-    night; and 6 more.'
+- text: 'Only in Job - the earth hung on nothing; Rahab smitten: These are but the fringes of his ways,
+    a whisper of a word; who can understand the thunder of his power?; God''s hand pierced the fleeing
+    serpent (nachash bariach); God stretches out Zaphon (the north) over the void (tohu); The pillars
+    of heaven tremble and are astounded at God''s rebuke; The shades (Rephaim) tremble beneath the waters
+    and their inhabitants; God veils the face of his throne, spreading his cloud over it; By his wind
+    (breath) the heavens are made fair; God hangs the earth upon nothing (beli-mah); God owns what is
+    in heaven, on earth, between them and beneath the moist soil (al-tharā); God raised the heavens without
+    pillars that you can see [divergence between the texts]; God wraps (yukawwir) the night around the
+    day and the day around the night; Whether the heavens rest on pillars [divergence between the texts];
+    and 6 more.'
   basis: reading
 - text: 'Only in Winds and rain; the dead who cannot hear; the ages of man: God created humans in weakness,
     then gave strength, then after strength weakness and grey hair; The resurrected feel they had stayed

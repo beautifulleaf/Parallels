@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believing women are to draw their outer cloaks (jalabib) over themselves
-    so they are recognized and not harmed (weight 6.7). Pair score 6.7.'
+    so they are recognized and not harmed (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Abraham''s servant finds Rebekah for Isaac: God sends his angel ahead to guide the journey;
-    Departing bride blessed to become thousands of myriads; The bride is asked and consents to go (''I
-    will go''); Son brings bride into his dead mother''s tent and is comforted; Patriarch goes out to
-    meditate (or pray) in the field at evening; A trusted servant is sent abroad to find a bride for the
-    master''s son; Hero asks God for a specific sign to identify the right person (who will offer water);
-    Bride given a gold nose-ring and bracelets; Father insists his son''s wife come from his own kin,
-    not the local women; Bride covers herself with a veil on seeing the groom; On entering houses greet
-    one another with a blessed greeting from God; Oath sworn by placing the hand under the thigh of the
-    one demanding it; and 5 more.'
+    The bride is asked and consents to go (''I will go''); Son brings bride into his dead mother''s tent
+    and is comforted; Patriarch goes out to meditate (or pray) in the field at evening; Hero asks God
+    for a specific sign to identify the right person (who will offer water); Departing bride blessed to
+    become thousands of myriads; Father insists his son''s wife come from his own kin, not the local women;
+    Bride covers herself with a veil on seeing the groom; On entering houses greet one another with a
+    blessed greeting from God; Oath sworn by placing the hand under the thigh of the one demanding it;
+    Descendants will possess the gate of their enemies; A trusted servant is sent abroad to find a bride
+    for the master''s son; and 5 more.'
   basis: reading
 - text: 'Only in Divorce before consummation; the prophet''s marriages; the curtain and the cloaks: A
     wife divorced before consummation owes no waiting period (''idda); give her a gift and release her

@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Do not charge interest to the poor of my people (weight 5.8). Pair
-    score 5.8.'
+- text: 'Shared motifs, rarest first: Do not charge interest to the poor of my people (weight 6.6). Pair
+    score 6.6.'
   basis: reading
 - text: 'Only in Psalm 15 - who may dwell on your holy mountain: The righteous keeps his oath even to
     his own hurt and does not change; The righteous does not slander with his tongue or take up reproach
@@ -30,10 +30,13 @@ evidence:
     until ease; remitting it as charity is better; Trade is like usury, they say; but God permitted trade
     and forbade usury (riba); Those who consume usury rise like one driven mad by Satan''s touch; Those
     who do not give up usury are warned of war from God and his messenger; they keep their principal;
-    Whether obligations differ toward insiders and outsiders [contrast between the texts]; Relief of debtors:
-    release or respite [divergence between the texts]; To whom and how widely the ban on interest applies
-    [divergence between the texts]; He who increases wealth by interest and usury gathers it for one who
-    is gracious to the poor; Lending at interest or increase to a poor brother is forbidden.'
+    Whether obligations differ toward insiders and outsiders [contrast between the texts]; What becomes
+    of the usurer''s profit and his principal (kīsu / ruʾūs amwālikum) [divergence between the texts];
+    A creditor facing a debtor in hardship remits all or part of the debt [divergence between the texts];
+    Relief of debtors: release or respite [divergence between the texts]; To whom and how widely the ban
+    on interest applies [divergence between the texts]; He who increases wealth by interest and usury
+    gathers it for one who is gracious to the poor; Lending at interest or increase to a poor brother
+    is forbidden.'
   basis: reading
 - text: 'Psalm 15 - who may dwell on your holy mountain: tagged by Claude (model), reading the Hebrew.'
   basis: reading

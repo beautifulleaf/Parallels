@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No burdened soul bears another''s burden; even a relative will not
-    carry any of it (weight 5.8); Each person dies for his own sin (weight 5.0). Pair score 10.8.'
+    carry any of it (weight 6.8); Each person dies for his own sin (weight 5.8). Pair score 12.6.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -32,8 +32,8 @@ evidence:
     husband divorces his wife [divergence between the texts]; At the end of the term, retain or part with
     them honorably, and call two just witnesses [divergence between the texts]; Whether a divorced wife
     may return to her first husband after another marriage [contrast between the texts]; Forgotten sheaf,
-    olive and grape gleanings left for stranger, orphan and widow; Forgotten sheaf, olive and grape gleanings
-    left for stranger, orphan and widow [contrast between the texts]; and 6 more.'
+    olive and grape gleanings left for stranger, orphan and widow [contrast between the texts]; Divorced
+    wife who remarried may not return to her first husband; and 6 more.'
   basis: reading
 - text: 'Only in Al-Lat, al-''Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses;
     the Lord of Sirius: The three goddesses al-Lat, al-''Uzza and Manat, ''the third, the other'', named
@@ -45,7 +45,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 14 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 18 more.'
   basis: reading
 - text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -100,12 +100,13 @@ matches:
     - ref: Quran 53:38
       lang: ar
       text: أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
+    - ref: Quran 53:38-39
+      lang: ar
+      text: (53:38) أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ (53:39) وَأَن لَّيْسَ لِلْإِنسَٰنِ إِلَّا
+        مَا سَعَىٰ
     - ref: Quran 53:39
       lang: ar
       text: وَأَن لَّيْسَ لِلْإِنسَٰنِ إِلَّا مَا سَعَىٰ
-    - ref: Quran 53:40
-      lang: ar
-      text: وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ
 ---
 
 ## Questions

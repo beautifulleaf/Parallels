@@ -19,24 +19,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who did Solomon''s building and craft work [divergence between the
-    texts] (weight 6.3). Pair score 6.3.'
+    texts] (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Treaty with Hiram of Tyre; cedars and forced labor: Foreign king (Hiram of Tyre) supplies
-    cedar and cypress from Lebanon for the temple in exchange for food; Logs are floated as rafts by sea
+- text: 'Only in Treaty with Hiram of Tyre; cedars and forced labor: Logs are floated as rafts by sea
     to the building site; Forced labor sent in monthly relays: one month abroad, two at home; Father could
-    not build the temple because of his wars; the son at rest builds it; Great costly hewn stones are
-    quarried for the temple foundation; A foreigner declares that YHWH is greater than all gods.'
+    not build the temple because of his wars; the son at rest builds it; A foreigner declares that YHWH
+    is greater than all gods; Foreign king (Hiram of Tyre) supplies cedar and cypress from Lebanon for
+    the temple in exchange for food; Great costly hewn stones are quarried for the temple foundation.'
   basis: reading
 - text: 'Only in David''s mountains and mail; Solomon''s wind, copper, jinn and staff: God made a spring
     of molten copper (or brass) flow for Solomon; The jinn did not know the unseen, else they would not
     have stayed in humiliating labor; Solomon dies leaning on his staff; only a creature of the earth
-    gnawing the staff reveals his death when he falls; David and the coat of mail [contrast between the
-    texts]; How Solomon died and how his death became known [divergence between the texts]; Rivers clap
-    their hands and mountains sing together before YHWH; How Solomon''s great bronze works were produced
-    [divergence between the texts]; God taught David the craft of making coats of mail; The stormy wind
-    is subjected to Solomon, blowing at his command; A great cast-bronze ''sea'' basin rests on twelve
-    bronze oxen facing the four directions in threes; Mountains and birds are made to glorify God together
-    with David; Devils (shayāṭīn) and jinn labor for Solomon, diving and building; and 1 more.'
+    gnawing the staff reveals his death when he falls; A superhuman craftsman casts metal vessels and
+    furniture for a lord [divergence between the texts]; David and the coat of mail [contrast between
+    the texts]; A king covers a journey of many stages in a single day [divergence between the texts];
+    How Solomon died and how his death became known [divergence between the texts]; How Solomon''s great
+    bronze works were produced [divergence between the texts]; God taught David the craft of making coats
+    of mail; Rivers clap their hands and mountains sing together before YHWH; The stormy wind is subjected
+    to Solomon, blowing at his command; Mountains and birds are made to glorify God together with David;
+    and 3 more.'
   basis: reading
 - text: 'Treaty with Hiram of Tyre; cedars and forced labor: tagged by Claude (model), reading the Hebrew.'
   basis: reading

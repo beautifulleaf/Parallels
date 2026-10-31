@@ -20,20 +20,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The men of the prophet''s hometown seek his life: ''Do not prophesy
-    in YHWH''s name or you will die by our hand'' (weight 6.7). Pair score 6.7.'
+    in YHWH''s name or you will die by our hand'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in First confession - a gentle lamb led to slaughter; the men of Anathoth: The prophet was
     like a gentle lamb led to slaughter, not knowing they plotted ''Let us destroy the tree with its fruit'';
-    Unbelievers plot to confine, kill or expel the prophet, but God plots too; God tests the hearts and
-    the kidneys (inner self); The persecuted prophet asks God to let him see vengeance on his enemies;
-    Jeremiah''s ''confessions'': the prophet''s personal laments and complaints to God about his mission
-    and persecutors.'
+    Unbelievers plot to confine, kill or expel the prophet, but God plots too; The persecuted prophet
+    asks God to let him see vengeance on his enemies; Jeremiah''s ''confessions'': the prophet''s personal
+    laments and complaints to God about his mission and persecutors; God tests the hearts and the kidneys
+    (inner self).'
   basis: reading
 - text: 'Only in Salih, the evil omen and the nine plotters of Thamud: The people say they augur ill (iṭṭayyarnā)
     of the prophet; he answers that their omen (ṭāʾir) is with God; Nine men of the city swear by God
     to attack the prophet and his family by night and deny it to his avenger; The prophet Ṣāliḥ is sent
     to the people of Thamūd; King calls the prophet ''troubler of Israel'' (okher Yisra''el); prophet
-    returns the charge; They plot a plot, and God plots a plot; give the deniers respite a little; Formula:
+    returns the charge; They plot a plot, and God plots a plot; give the deniers respite a little; Augury:
+    a bird''s flight or alighting is an omen bound to a person [divergence between the texts]; Formula:
     ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to his people; The
     listeners walk among the dwellings of generations God destroyed, a sign.'
   basis: reading

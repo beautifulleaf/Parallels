@@ -21,31 +21,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the sun a radiance and the moon a light with measured stations,
-    to count years and reckoning (weight 6.3); Sun and moon are set to rule day and night and mark signs
-    and seasons (weight 4.7). Pair score 11.0.'
+    to count years and reckoning (weight 7.3); Sun and moon are set to rule day and night and mark signs
+    and seasons (weight 5.5). Pair score 12.8.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 39 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 39 more.'
   basis: reading
 - text: 'Only in The wise Book, creation, sun and moon, the prayer of paradise: Sun and moon are set to
     rule day and night and mark signs and seasons [divergence between the texts]; The blessed in paradise
     cry ''Glory to you, O God'', greet with ''Peace'' and end with ''Praise be to God, Lord of the worlds'';
     The damned are given a drink of boiling water (hamim); People marvel that a reminder came through
-    a man from among them; Creation is completed in six days [divergence between the texts]; God originates
-    creation and then repeats it (resurrection as re-creation); Opponents call the prophet or his message
-    ''manifest sorcery''; Creation is completed in six days; After creating the heavens and earth God
-    established himself on the Throne (istawa ''ala l-''arsh); Intercession avails only for whom God permits;
-    Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever; A surah
-    opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    a man from among them; Creation is completed in six days [divergence between the texts]; Months (or
+    the moon) are set in their houses or stations so that the years can be counted; God originates creation
+    and then repeats it (resurrection as re-creation); Opponents call the prophet or his message ''manifest
+    sorcery''; Creation is completed in six days; After creating the heavens and earth God established
+    himself on the Throne (istawa ''ala l-''arsh); Intercession avails only for whom God permits; Paradise
+    as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever; and 1 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

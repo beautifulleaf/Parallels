@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The king''s experts cannot interpret the dream (weight 5.3). Pair
-    score 5.3.'
+- text: 'Shared motifs, rarest first: The king''s experts cannot interpret the dream (weight 6.2). Pair
+    score 6.2.'
   basis: reading
 - text: 'Only in Nebuchadnezzar demands his dream be told; the mystery revealed to Daniel: The magicians
     say only the gods, whose dwelling is not with flesh, could reveal such a thing; The king demands that
@@ -33,7 +33,10 @@ evidence:
     reign; Solomon himself did not disbelieve; Two angels in Babylon, Harut and Marut, teach magic while
     warning ''we are only a trial''; Magic is learned that separates a man from his wife, harming only
     by God''s leave; Whether Solomon turned from God [response between the texts]; A nation''s sorcerers,
-    enchanters, star-gazers and monthly prognosticators are challenged and cannot save it; Divination,
+    enchanters, star-gazers and monthly prognosticators are challenged and cannot save it; A named kind
+    of sorcery whose effect is hatred or estrangement between people (hate-magic; what separates a man
+    from his wife); Two heavenly beings come down from heaven in connection with sorcery; Two heavenly
+    beings come down from heaven in connection with sorcery [divergence between the texts]; Divination,
     soothsaying, mediums (ov) and wizards (yidde''oni) are forbidden.'
   basis: reading
 - text: 'Nebuchadnezzar demands his dream be told; the mystery revealed to Daniel: tagged by Claude (model),

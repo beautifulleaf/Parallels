@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At the prophet''s word there is a rattling; bones come together
-    bone to bone, then sinews, flesh and skin cover them, but there is no breath (weight 6.3). Pair score
-    6.3.'
+    bone to bone, then sinews, flesh and skin cover them, but there is no breath (weight 7.3). Pair score
+    7.3.'
   basis: reading
 - text: 'Only in The valley of dry bones: God will open his people''s graves, bring them up from their
     graves and bring them to the land of Israel; The exiles say ''Our bones are dried up, our hope is
@@ -39,13 +39,13 @@ evidence:
     or accountability?; Oath by the self-reproaching soul (al-nafs al-lawwama); At death the soul reaches
     the collarbones, someone asks ''who is a healer (or charmer, raq)?'', leg is wrapped with leg and
     the drive is to the Lord; The prophet is told not to hasten with the recitation before its revelation
-    is complete; Man will be evidence against himself, even if he offers his excuses; Then each soul will
-    know what it has brought forward and what it left behind; On that day man asks ''where to flee?''
-    but there is no refuge; the destination is with God; God created humans (and things) in pairs, male
-    and female; God poured the embryo out like milk and curdled it like cheese, clothing it with skin
-    and flesh and knitting bones and sinews; Oath introduced by the negated formula ''No! I swear by...''
-    (la uqsimu / fa-la uqsimu); On that day some faces are radiant, laughing and joyful, others scowling,
-    dust-covered and overcast with darkness; and 4 more.'
+    is complete; The body of the dead is made whole again, all its limbs complete [divergence between
+    the texts]; An eclipse of the moon as a portent of disaster before which people seek escape or protection
+    [divergence between the texts]; Man will be evidence against himself, even if he offers his excuses;
+    Then each soul will know what it has brought forward and what it left behind; On that day man asks
+    ''where to flee?'' but there is no refuge; the destination is with God; God created humans (and things)
+    in pairs, male and female; God poured the embryo out like milk and curdled it like cheese, clothing
+    it with skin and flesh and knitting bones and sinews; and 6 more.'
   basis: reading
 - text: 'The valley of dry bones: tagged by Claude (model), reading the Hebrew.'
   basis: reading

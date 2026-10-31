@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers say there is only this life; we die and live, and only Time
-    (al-dahr) destroys us (weight 6.3). Pair score 6.3.'
+    (al-dahr) destroys us (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Time and chance; the poor wise man who saved the city: Man does not know his time; like
-    fish caught in a net and birds in a snare, people are trapped in an evil time; A great king besieges
-    a small city; a poor wise man delivers it by his wisdom, yet no one remembers him; The race is not
-    to the swift nor the battle to the strong, nor bread to the wise; time and chance (pega'') happen
-    to all; Wisdom is better than might and weapons of war, but one sinner destroys much good; A wise
-    man scales the city of the mighty and brings down its trusted stronghold; ''Better is X than Y'' comparative
+- text: 'Only in Time and chance; the poor wise man who saved the city: A great king besieges a small
+    city; a poor wise man delivers it by his wisdom, yet no one remembers him; Wisdom is better than might
+    and weapons of war, but one sinner destroys much good; A wise man scales the city of the mighty and
+    brings down its trusted stronghold; The race is not to the swift nor the battle to the strong, nor
+    bread to the wise; time and chance (pega'') happen to all; Man does not know his time; like fish caught
+    in a net and birds in a snare, people are trapped in an evil time; ''Better is X than Y'' comparative
     saying (tov ... min).'
   basis: reading
 - text: 'Only in Desire as god, ''only Time destroys us'', and every nation kneeling before its book:

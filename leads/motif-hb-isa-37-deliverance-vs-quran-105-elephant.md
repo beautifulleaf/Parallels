@@ -20,21 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angel of YHWH strikes 185,000 in the enemy camp in one night;
-    at dawn all are corpses [divergence between the texts] (weight 6.7); God defends the city for his
-    own sake and for the sake of David his servant (weight 6.0). Pair score 12.7.'
+    at dawn all are corpses [divergence between the texts] (weight 7.7); God defends the city for his
+    own sake and for the sake of David his servant (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter:
     The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses; The arrogant
     king boasts of climbing the heights of Lebanon and cutting its cedars, drying up rivers with his feet;
     Proverb of crisis: children have come to the birth-stool and there is no strength to deliver; God
     says the conqueror''s victories were planned by him long ago; the conqueror is only his instrument;
-    The king tears his clothes, puts on sackcloth and goes into the temple in crisis; The enemy is said
-    to reproach (harref) ''the living God''; Royal parricides flee to the land of Ararat; The escaped
-    remnant shall again take root downward and bear fruit upward; a remnant goes out from Zion; God puts
-    a spirit in the invader so that he hears a rumor and returns home; King spreads the enemy''s threatening
-    letter before God in the temple; Sign: this year eat aftergrowth, next year what springs of itself,
-    the third year sow and reap; The ''virgin daughter of Zion'' laughs at and wags her head after the
-    enemy; and 8 more.'
+    The king tears his clothes, puts on sackcloth and goes into the temple in crisis; Royal parricides
+    flee to the land of Ararat; The escaped remnant shall again take root downward and bear fruit upward;
+    a remnant goes out from Zion; God puts a spirit in the invader so that he hears a rumor and returns
+    home; King spreads the enemy''s threatening letter before God in the temple; Sign: this year eat aftergrowth,
+    next year what springs of itself, the third year sow and reap; The ''virgin daughter of Zion'' laughs
+    at and wags her head after the enemy; ''The zeal of YHWH of hosts will accomplish this''; and 8 more.'
   basis: reading
 - text: 'Only in The companions of the elephant: God sends birds in flocks (tayran ababil) that pelt an
     army with stones of baked clay (sijjil), leaving them like devoured straw; God''s action against the

@@ -21,7 +21,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised twelve chieftains (nuqabāʾ) from Israel when taking their
-    covenant (weight 6.7); Twelve men sent to scout the promised land (weight 5.8). Pair score 12.5.'
+    covenant (weight 7.7); Twelve men sent to scout the promised land (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in The twelve spies and their report: Single grape cluster so large two men carry it on
     a pole; Founding of a city dated relative to an Egyptian city (Hebron seven years before Zoan); Leader

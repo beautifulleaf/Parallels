@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Levi says to father and mother ''I do not see you'' and disregards
-    his brothers and children for God''s covenant (weight 6.7). Pair score 6.7.'
+    his brothers and children for God''s covenant (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Blessing of Moses on the tribes: Dying patriarch or leader blesses each tribe in
     turn; Underneath are the everlasting arms; A fiery law (esh dat) from God''s right hand; Asher dips
@@ -27,9 +27,9 @@ evidence:
     Israel, who is like you, a people saved by YHWH; Zebulun and Issachar suck the abundance of the seas
     and treasures hidden in the sand; A tribe likened to a lion or lion''s whelp; God described as the
     one who dwells in the bush (seneh); Believers do not love those who oppose God, even fathers, sons,
-    brothers or clan; God writes faith on their hearts and supports them with a spirit; God rides through
-    the heavens (rokhev shamayim) to help; Urim and Thummim placed in the breastpiece for divine decision;
-    and 3 more.'
+    brothers or clan; God writes faith on their hearts and supports them with a spirit; Urim and Thummim
+    placed in the breastpiece for divine decision; God shines forth from Sinai, Seir and Mount Paran with
+    holy myriads; and 3 more.'
   basis: reading
 - text: 'Only in Who maintains the mosques; God above family: Giving water to pilgrims and tending the
     Sacred Mosque are not equal to faith and striving; God''s good pleasure (ridwan) is greater than the
@@ -37,7 +37,8 @@ evidence:
     family, wealth, trade and homes; Only those who believe, pray and give alms may maintain God''s places
     of worship; To obey is better than sacrifice; Entrance liturgy: ''Who may dwell on your holy mountain?''
     answered by a list of ethical qualifications; The Levites kill idolaters including their own kin and
-    are consecrated for it.'
+    are consecrated for it; Loyalty to the lord overrides a listed series of kin: father, mother, son,
+    brother, kinsman.'
   basis: reading
 - text: 'The Blessing of Moses on the tribes: tagged by Claude (model), reading the Hebrew.'
   basis: reading

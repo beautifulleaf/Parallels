@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God formed the kidneys and wove (knit) the speaker in his mother''s
-    womb (weight 5.8). Pair score 5.8.'
+    womb (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas vav to kaf: ''It is good for me that I was afflicted, so that I might
     learn your statutes''; The arrogant have hearts gross (unfeeling) as fat; Speaker has become like
@@ -28,19 +28,21 @@ evidence:
     fine gold; Psalm in 22 stanzas of eight lines, every line of a stanza beginning with the same letter,
     each line naming the Torah; God is the speaker''s portion (heleq) forever, more than anything in heaven
     or earth; Speaker rises at midnight to give thanks to God; The believers'' sides forsake their beds
-    as they call on their Lord in fear and hope (night vigil); Lifting the hands (palms) in prayer or
-    blessing; God''s commandments or Torah are the speaker''s delight (sha''ashu''im); and 1 more.'
+    as they call on their Lord in fear and hope (night vigil); God''s commandments or Torah are the speaker''s
+    delight (sha''ashu''im); Those who dig a pit or spread a net for the righteous fall into it themselves;
+    and 1 more.'
   basis: reading
 - text: 'Only in The cleaving: the noble scribes: Over humans are guardians, noble scribes (kiraman katibin),
     who know what they do; The intercession of intercessors will not benefit the damned; no soul has power
     to help another; Then each soul will know what it has brought forward and what it left behind; At
     the end the graves are overturned and their contents scattered out (bu''thirat); At the end the seas
-    are set aflame or burst forth (sujjirat, fujjirat); Stars and constellations (kesilim) give no light,
-    the sun is dark at its rising and the moon does not shine; The people''s deeds are written before
-    God, who will repay them into their bosom; At the end the sky is split, cleft or opened (infatarat,
-    inshaqqat, furijat); Rhetorical formula ''And what will make you know what X is?'' (wa ma adraka ma)
-    introducing an eschatological term; God keeps a book in which names are written and from which sinners
-    are blotted.'
+    are set aflame or burst forth (sujjirat, fujjirat); The seams of heaven come apart, the stars leave
+    their places and the waters break out [divergence between the texts]; The people''s deeds are written
+    before God, who will repay them into their bosom; At the end the sky is split, cleft or opened (infatarat,
+    inshaqqat, furijat); Stars and constellations (kesilim) give no light, the sun is dark at its rising
+    and the moon does not shine; A written record (tablet [divergence between the texts]; Rhetorical formula
+    ''And what will make you know what X is?'' (wa ma adraka ma) introducing an eschatological term; God
+    keeps a book in which names are written and from which sinners are blotted.'
   basis: reading
 - text: 'Psalm 119, stanzas vav to kaf: tagged by Claude (model), reading the Hebrew.'
   basis: reading

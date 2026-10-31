@@ -19,19 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The land the righteous inherit [divergence between the texts] (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Commit your way to
-    YHWH, trust in him, and he will act; Do not fret over evildoers nor envy the wrongdoers; they wither
-    quickly like grass; There is a future (aharit) for the man of peace; the future of the wicked is cut
-    off; Better the little of the righteous than the abundance of many wicked; ''I have been young and
-    now am old, yet I have not seen the righteous forsaken nor his seed begging bread''; The wicked borrows
-    and does not repay; the righteous is generous and gives; The wicked spreads like a luxuriant native
-    tree, then passes away and cannot be found; The enemies of God vanish like the glory of the pastures,
-    like smoke; Because their father was righteous, God protects the orphans'' inheritance; Parable of
-    two men: one owns two rich gardens and boasts to his poorer believing companion; The law of his God
-    is in his heart; his steps do not slip; What the righteous are promised as their inheritance [divergence
-    between the texts]; and 6 more.'
+- text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Do not fret over evildoers
+    nor envy the wrongdoers; they wither quickly like grass; There is a future (aharit) for the man of
+    peace; the future of the wicked is cut off; ''I have been young and now am old, yet I have not seen
+    the righteous forsaken nor his seed begging bread''; The wicked spreads like a luxuriant native tree,
+    then passes away and cannot be found; Commit your way to YHWH, trust in him, and he will act; Because
+    their father was righteous, God protects the orphans'' inheritance; Parable of two men: one owns two
+    rich gardens and boasts to his poorer believing companion; The law of his God is in his heart; his
+    steps do not slip; What the righteous are promised as their inheritance [divergence between the texts];
+    The wicked borrows and does not repay; the righteous is generous and gives; The wicked fade like grass
+    and green herbs; Better the little of the righteous than the abundance of many wicked; and 6 more.'
   basis: reading
 - text: 'Only in Do not despair of mercy; the earth in God''s grip; the throngs to hell and Garden: The
     angels are seen surrounding the Throne, glorifying the praise of their Lord; The blessed praise God
@@ -44,8 +43,8 @@ evidence:
     trumpet blast all in heaven and earth swoon (sa''iqa) except whom God wills; at the second they stand
     looking; On the Day of Resurrection the whole earth is in God''s grip and the heavens folded in his
     right hand; The earth shines (lit up) with God''s glory; The earth shines (lit up) with God''s glory
-    [divergence between the texts]; Who holds the keys that open and shut [divergence between the texts];
-    and 6 more.'
+    [divergence between the texts]; At the gate of the netherworld the gatekeepers question those who
+    arrive [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land: tagged by Claude (model),
     reading the Hebrew.'

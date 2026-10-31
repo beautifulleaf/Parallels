@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.6). Pair
-    score 5.6.'
+- text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.9). Pair
+    score 5.9.'
   basis: reading
 - text: 'Only in Psalm 35 - contend, YHWH, with those who contend with me: The angel of YHWH drives the
     enemies like chaff and pursues them on a slippery dark path; Petitioner asks God to take shield, buckler
@@ -27,8 +27,8 @@ evidence:
     Enemies gnash their teeth, wink with the eye and cry ''Aha, aha, our eye has seen it!''; The speaker
     fasted in sackcloth for his enemies when they were sick; they repay evil for good; Those who hate
     the speaker without cause (hinnam); The enemy is like a lion that tears the speaker''s soul or lurks
-    in ambush; He who digs a pit or hides a net is caught in it himself; ''Who is like you among the gods,
-    YHWH?''; Psalm superscription ascribes the poem to David (le-david).'
+    in ambush; He who digs a pit or hides a net is caught in it himself; Psalm superscription ascribes
+    the poem to David (le-david); ''Who is like you among the gods, YHWH?''.'
   basis: reading
 - text: 'Only in The companions of the elephant: God sends birds in flocks (tayran ababil) that pelt an
     army with stones of baked clay (sijjil), leaving them like devoured straw; God''s action against the

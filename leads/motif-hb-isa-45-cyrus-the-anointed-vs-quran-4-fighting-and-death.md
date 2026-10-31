@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I form light and create darkness, make peace and create evil (ra'');
-    I YHWH do all these'' [divergence between the texts] (weight 6.7); ''I form light and create darkness,
-    make peace and create evil (ra''); I YHWH do all these'' (weight 6.0). Pair score 12.7.'
+    I YHWH do all these'' [divergence between the texts] (weight 7.7); ''I form light and create darkness,
+    make peace and create evil (ra''); I YHWH do all these'' (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -38,17 +38,17 @@ evidence:
     him who says to a father ''What are you begetting?'' or to a woman ''With what are you in labor?'';
     and 15 more.'
   basis: reading
-- text: 'Only in Fighting for the oppressed; death in lofty towers: Death will reach you wherever you
-    are, even in lofty towers; Fight for the oppressed men, women and children who cry ''take us out of
-    this town of wrongdoers''; Whoever intercedes for good shares in it; whoever intercedes for evil bears
-    a part of it; All comes from God; yet good befalling you is from God and evil from yourself; Were
-    the Quran from other than God they would find much contradiction in it; When greeted, return a better
-    greeting or the same; The plot of Satan is weak; The laggard thanks God he was absent when disaster
-    struck, and wishes he had shared the spoil; Though they dig into Sheol or climb to heaven, hide on
-    Carmel or at the bottom of the sea, God''s hand will take them; People ordered to fight complain to
-    God and wish to be spared the battle; The proud one who builds his nest high as the eagle or among
-    the stars is brought down by God; Not wronged by a date-stone''s thread (fatīl) or groove (naqīr):
-    proverbial minimal measures.'
+- text: 'Only in Fighting for the oppressed; death in lofty towers: Fight for the oppressed men, women
+    and children who cry ''take us out of this town of wrongdoers''; Whoever intercedes for good shares
+    in it; whoever intercedes for evil bears a part of it; All comes from God; yet good befalling you
+    is from God and evil from yourself; Were the Quran from other than God they would find much contradiction
+    in it; When greeted, return a better greeting or the same; The plot of Satan is weak; Death will reach
+    you wherever you are, even in lofty towers; A secure building (stone house, lofty towers) cannot keep
+    out a death that is fated [divergence between the texts]; The laggard thanks God he was absent when
+    disaster struck, and wishes he had shared the spoil; Though they dig into Sheol or climb to heaven,
+    hide on Carmel or at the bottom of the sea, God''s hand will take them; People ordered to fight complain
+    to God and wish to be spared the battle; Whatever word or news one hears is to be referred to the
+    ruler (and those in authority), not concealed or spread [divergence between the texts]; and 3 more.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

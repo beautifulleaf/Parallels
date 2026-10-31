@@ -19,19 +19,19 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God created Adam ''with my two hands'' (weight 6.7); First human
-    shaped from dust, clay or soil (weight 4.6). Pair score 11.2.'
+- text: 'Shared motifs, rarest first: God created Adam ''with my two hands'' (weight 7.7); First human
+    shaped from dust, clay or soil (weight 5.2). Pair score 12.9.'
   basis: reading
 - text: 'Only in Job - ''Your hands fashioned me''; land of darkness: The sufferer reminds God that God''s
     hands shaped him yet now destroy him; ''Have you eyes of flesh? Are your days like a mortal''s days?'';
-    God hunts the sufferer like a lion; The underworld as a land of darkness and deep shadow, without
-    order, where light is like darkness; God creates you in your mothers'' bellies creation after creation
+    God hunts the sufferer like a lion; God creates you in your mothers'' bellies creation after creation
     in three darknesses; God''s crafting of the human body, and what is said to follow from it [divergence
-    between the texts]; Like a vanishing cloud, whoever goes down to Sheol does not come up; his place
-    knows him no more; From dust, then a drop, then a clinging clot (''alaqa), then a child, then full
+    between the texts]; From dust, then a drop, then a clinging clot (''alaqa), then a child, then full
     strength, then old age; some die before; Have you seen what you emit? Do you create it, or are we
     the creator?; Sufferer wishes he had died in the womb or been a hidden stillborn; God poured the embryo
     out like milk and curdled it like cheese, clothing it with skin and flesh and knitting bones and sinews;
+    The underworld as a land of darkness and deep shadow, without order, where light is like darkness;
+    Like a vanishing cloud, whoever goes down to Sheol does not come up; his place knows him no more;
     Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped and
     proportioned; and 1 more.'
   basis: reading
@@ -39,11 +39,13 @@ evidence:
     to lead all humans astray except God''s sincere servants; The prophet asks no wage and is not one
     of the pretenders (mutakallifin); God commands the angels to prostrate to Adam; all do except Iblis,
     who refuses; God''s word: ''I will fill hell with jinn and humans all together''; The rank of the
-    first human relative to the heavenly beings [contrast between the texts]; Deity breathes the breath
-    of life into the first human''s nostrils [divergence between the texts]; The devil argues he is better
-    than man because he was made of fire and man of clay; God expels Iblis as accursed (rajim) with a
-    curse until the Day of Judgment; The devil asks for and is granted respite until the day the dead
-    are raised; Deity breathes the breath of life into the first human''s nostrils.'
+    first human relative to the heavenly beings [contrast between the texts]; In the divine assembly some
+    withhold the obeisance the others perform [divergence between the texts]; Deity breathes the breath
+    of life into the first human''s nostrils [divergence between the texts]; The creator declares ''I
+    am the one who created, my hands have made it''; The devil argues he is better than man because he
+    was made of fire and man of clay; God expels Iblis as accursed (rajim) with a curse until the Day
+    of Judgment; The devil asks for and is granted respite until the day the dead are raised; Deity breathes
+    the breath of life into the first human''s nostrils.'
   basis: reading
 - text: 'Job - ''Your hands fashioned me''; land of darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

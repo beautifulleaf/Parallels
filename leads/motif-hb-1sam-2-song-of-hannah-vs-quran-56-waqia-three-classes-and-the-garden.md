@@ -19,13 +19,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hymn of reversals: the barren bears seven, the mighty broken, the
-    poor raised from the dung-heap (weight 6.0). Pair score 6.0.'
+    poor raised from the dung-heap (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Song of Hannah: God gives strength to his king and exalts the horn of his anointed (messiah);
     God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom he wills;
-    God brings the living out of the dead and the dead out of the living; God kills and makes alive, brings
-    down to Sheol and raises up; The world set upon pillars belonging to God; I kill and I make alive,
-    I wound and I heal; there is no god beside me.'
+    God brings the living out of the dead and the dead out of the living; The world set upon pillars belonging
+    to God; I kill and I make alive, I wound and I heal; there is no god beside me; God kills and makes
+    alive, brings down to Sheol and raises up.'
   basis: reading
 - text: 'Only in Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
     of the Right and their Garden: In paradise they have the flesh of fowl as they desire; Immortal youths
@@ -35,10 +35,10 @@ evidence:
     ''Peace, peace''; The Companions of the Right are among thornless lote trees (sidr makhdud) and layered
     talh (acacia/banana) with extended shade and poured water; Humanity sorted into three classes: Companions
     of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; Bird-meat as desired
-    food: punished or granted [contrast between the texts]; The earth is shaken violently and the mountains
+    food: punished or granted [contrast between the texts]; Young servers go round with a variety of vessels
+    serving a mixed drink [divergence between the texts]; The earth is shaken violently and the mountains
     crumbled into scattered dust (haba''); Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; Into how many
-    groups humankind is sorted at the end [divergence between the texts]; and 11 more.'
+    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; and 12 more.'
   basis: reading
 - text: 'Song of Hannah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

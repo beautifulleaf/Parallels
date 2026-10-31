@@ -14,56 +14,57 @@ traditions:
 layers:
 - motif
 motifs:
-- sold-for-paltry-price-as-divergence
-- one-brother-dissuades-killing-as-divergence
-- wild-animal-blamed-as-divergence
-- father-rebukes-dream-as-divergence
-- brothers-plot-death-as-divergence
-- father-believes-and-mourns-as-divergence
 - father-favors-son-as-divergence
-- father-sends-son-to-brothers-as-divergence
-- parents-honored-dream-fulfilled-as-divergence
 - bought-by-egyptian-official-as-divergence
+- brothers-plot-death-as-divergence
+- parents-honored-dream-fulfilled-as-divergence
+- sold-for-paltry-price-as-divergence
+- father-sends-son-to-brothers-as-divergence
+- father-rebukes-dream-as-divergence
 - cast-into-pit-as-divergence
-- wild-animal-blamed
-- bloodied-garment-deception
-- rescued-by-caravan
-- one-brother-dissuades-killing
-- father-favors-son
+- wild-animal-blamed-as-divergence
+- father-believes-and-mourns-as-divergence
+- one-brother-dissuades-killing-as-divergence
 - sold-for-paltry-price
-- dream-heavenly-bodies-bow
+- bloodied-garment-deception
+- one-brother-dissuades-killing
+- rescued-by-caravan
+- father-favors-son
+- bought-by-egyptian-official
+- wild-animal-blamed
 - brothers-plot-death
 - cast-into-pit
-- bought-by-egyptian-official
+- dream-heavenly-bodies-bow
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero sold for a small sum of silver [divergence between the texts]
-    (weight 6.7); One brother talks the others out of killing him [divergence between the texts] (weight
-    6.7); A wild animal is blamed for the hero''s death [divergence between the texts] (weight 6.7); Father
-    rebukes the hero for his dream but keeps it in mind [divergence between the texts] (weight 6.7); Brothers,
-    out of envy, plot to kill the hero [divergence between the texts] (weight 6.7); Father believes the
-    hero is dead and refuses comfort [divergence between the texts] (weight 6.7); Father loves the hero
-    more than his brothers [divergence between the texts] (weight 6.7); Father himself sends the hero
-    to his brothers [divergence between the texts] (weight 6.7); Family prostrates before the hero, fulfilling
-    the dream [divergence between the texts] (weight 6.7); Hero bought by an Egyptian official [divergence
-    between the texts] (weight 6.7); Hero cast into a pit or well [divergence between the texts] (weight
-    6.7); A wild animal is blamed for the hero''s death (weight 6.0); Brothers bring the hero''s garment
-    with false blood (weight 6.0); A passing caravan takes the hero from the pit (weight 6.0); One brother
-    talks the others out of killing him (weight 6.0); Father loves the hero more than his brothers (weight
-    6.0); Hero sold for a small sum of silver (weight 6.0); Dream of sun, moon and eleven stars bowing
-    to the hero (weight 6.0); Brothers, out of envy, plot to kill the hero (weight 6.0); Hero cast into
-    a pit or well (weight 5.8); Hero bought by an Egyptian official (weight 5.8). Pair score 133.1.'
+- text: 'Shared motifs, rarest first: Father loves the hero more than his brothers [divergence between
+    the texts] (weight 7.7); Hero bought by an Egyptian official [divergence between the texts] (weight
+    7.7); Brothers, out of envy, plot to kill the hero [divergence between the texts] (weight 7.7); Family
+    prostrates before the hero, fulfilling the dream [divergence between the texts] (weight 7.7); Hero
+    sold for a small sum of silver [divergence between the texts] (weight 7.7); Father himself sends the
+    hero to his brothers [divergence between the texts] (weight 7.7); Father rebukes the hero for his
+    dream but keeps it in mind [divergence between the texts] (weight 7.7); Hero cast into a pit or well
+    [divergence between the texts] (weight 7.7); A wild animal is blamed for the hero''s death [divergence
+    between the texts] (weight 7.7); Father believes the hero is dead and refuses comfort [divergence
+    between the texts] (weight 7.7); One brother talks the others out of killing him [divergence between
+    the texts] (weight 7.7); Hero sold for a small sum of silver (weight 7.1); Brothers bring the hero''s
+    garment with false blood (weight 7.1); One brother talks the others out of killing him (weight 7.1);
+    A passing caravan takes the hero from the pit (weight 7.1); Father loves the hero more than his brothers
+    (weight 6.8); Hero bought by an Egyptian official (weight 6.8); A wild animal is blamed for the hero''s
+    death (weight 6.8); Brothers, out of envy, plot to kill the hero (weight 6.6); Hero cast into a pit
+    or well (weight 6.4); Dream of sun, moon and eleven stars bowing to the hero (weight 6.4). Pair score
+    153.3.'
   basis: reading
 - text: 'Only in Joseph''s dreams, the pit and the sale to Egypt: Brothers sit down to eat bread after
     casting their brother into the pit; Hero''s story begins when he is seventeen; Young hero brings bad
     reports of his brothers to their father; An anonymous man finds the wandering hero in the field and
-    directs him; Dream of the brothers'' sheaves bowing to the hero''s sheaf; Father believes the hero
-    is dead and refuses comfort; Father rebukes the hero for his dream but keeps it in mind; Father himself
-    sends the hero to his brothers; Evidence presented with the formula ''Please recognize (haker na)''
-    whose is this; Father gives the hero a special garment; Called by name, the hero answers ''Here I
-    am'' (hineni).'
+    directs him; Father believes the hero is dead and refuses comfort; Father rebukes the hero for his
+    dream but keeps it in mind; Father himself sends the hero to his brothers; Evidence presented with
+    the formula ''Please recognize (haker na)'' whose is this; Father gives the hero a special garment;
+    Dream of the brothers'' sheaves bowing to the hero''s sheaf; Called by name, the hero answers ''Here
+    I am'' (hineni).'
   basis: reading
 - text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
     town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
@@ -75,7 +76,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 88 more.'
+    brings back the missing royal cup, with a guarantor; and 126 more.'
   basis: reading
 - text: 'Joseph''s dreams, the pit and the sale to Egypt: tagged by Claude (model), reading the Hebrew.'
   basis: reading

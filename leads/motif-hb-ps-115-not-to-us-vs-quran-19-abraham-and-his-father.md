@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Psalm 115, not to us, polemic against idols: ''The heavens are YHWH''s heavens, but the
     earth he has given to the sons of man''; ''Not to us, YHWH, not to us, but to your name give glory'';
@@ -30,8 +30,8 @@ evidence:
     to grasp, eyes to see, ears to hear?; Likeness between the idols and those who call on them [divergence
     between the texts]; Liturgical triad (or tetrad) addressing Israel, the house of Aaron, (the house
     of Levi) and those who fear YHWH; In death there is no remembrance of God; in Sheol who will praise
-    him?; God called ''maker of heaven and earth'' (''oseh shamayim va-arets'') in blessing or confession
-    of help; Nations taunt ''Where is their God?''; and 1 more.'
+    him?; Nations taunt ''Where is their God?''; God called ''maker of heaven and earth'' (''oseh shamayim
+    va-arets'') in blessing or confession of help; and 1 more.'
   basis: reading
 - text: 'Only in Abraham pleads with his father (Surah 19:41-50): Abraham withdraws from his people and
     their gods and is given descendants; The idolatrous father threatens to stone his son and banishes
@@ -40,10 +40,10 @@ evidence:
     a lofty ''tongue of truth'' (lasting renown); Worshipping idols is worshipping Satan, who rebelled
     against the Merciful; Abraham withdraws from his people and their gods and is given descendants [divergence
     between the texts]; The idolatrous father threatens to stone his son and banishes him [contrast between
-    the texts]; Isaac given, and Jacob in addition as an extra gift (nāfila); Isaac given, and Jacob in
-    addition as an extra gift (nāfila) [divergence between the texts]; Refrain ''And mention in the Book
-    ...'' introducing a series of prophet portraits; Abraham prayed for his father''s forgiveness only
-    by a promise, and disowned him when he proved God''s enemy; and 1 more.'
+    the texts]; The good man''s name endures in the mouths of later people; Isaac given, and Jacob in
+    addition as an extra gift (nāfila); Having eyes that do not see and ears that do not hear, said of
+    idols or of people; Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between
+    the texts]; and 3 more.'
   basis: reading
 - text: 'Psalm 115, not to us, polemic against idols: tagged by Claude (model), reading the Hebrew.'
   basis: reading

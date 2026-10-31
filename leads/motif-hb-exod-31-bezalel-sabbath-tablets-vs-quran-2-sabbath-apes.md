@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Sabbath is an everlasting sign of the covenant between God and
-    Israel (weight 6.3); Punishment of those who break the Sabbath [divergence between the texts] (weight
-    6.0). Pair score 12.3.'
+    Israel (weight 7.3); Punishment of those who break the Sabbath [divergence between the texts] (weight
+    7.1). Pair score 14.4.'
   basis: reading
 - text: 'Only in Bezalel and Oholiab; Sabbath as sign; the tablets: God calls a master craftsman by name
     for the sacred work; Whoever works on the Sabbath shall be put to death; The Sabbath is justified

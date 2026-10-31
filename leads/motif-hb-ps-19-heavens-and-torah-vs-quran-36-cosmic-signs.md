@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sun comes forth like a bridegroom from his chamber and rejoices
-    like a strong man to run his course (weight 6.7); Sun and moon each swim in an orbit (falak) (weight
-    6.0). Pair score 12.7.'
+    like a strong man to run his course (weight 7.3); Sun and moon each swim in an orbit (falak) (weight
+    7.1). Pair score 14.4.'
   basis: reading
 - text: 'Only in Psalm 19 - the heavens declare; the Torah is perfect: God has set a tent for the sun
     in the heavens; The Torah of YHWH is perfect, restoring the soul; its precepts make wise, gladden
@@ -39,12 +39,12 @@ evidence:
     the laden ship, and made for them similar things to ride; God measured stations (manazil) for the
     moon until it returns like an old dried palm-stalk; Asked to spend, unbelievers retort ''shall we
     feed one whom God could feed if he willed?''; God made the flood ship (or its survivors) a sign for
-    all the worlds; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn); The sun
-    runs to its resting place (mustaqarr); God made the sun a radiance and the moon a light with measured
-    stations, to count years and reckoning; God created humans (and things) in pairs, male and female;
-    Scoffers ask the prophet to hasten the punishment; it is held back only by an appointed term and will
-    come suddenly; Sun and moon are set to rule day and night and mark signs and seasons; Rain from the
-    sky gives life to the earth after its death, a sign of resurrection.'
+    all the worlds; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn); The moon
+    travels across the sky as a vessel floats or swims; The sun runs to its resting place (mustaqarr);
+    The sun ends its daily course at a resting place (the bedchamber where it is told ''Rest!'', or its
+    mustaqarr) [divergence between the texts]; God made the sun a radiance and the moon a light with measured
+    stations, to count years and reckoning; The crescent moon fixes the months and the reckoning of time;
+    God created humans (and things) in pairs, male and female; and 4 more.'
   basis: reading
 - text: 'Psalm 19 - the heavens declare; the Torah is perfect: tagged by Claude (model), reading the Hebrew.'
   basis: reading

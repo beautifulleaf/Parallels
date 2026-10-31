@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the great lights: the sun to rule the day, the moon and
-    stars to rule the night (weight 6.3); God spread out the earth as a carpet, cradle or bed (bisat,
-    mihad, daha, sutihat, tahaha) (weight 5.6). Pair score 11.9.'
+    stars to rule the night (weight 7.3); God spread out the earth as a carpet, cradle or bed (bisat,
+    mihad, daha, sutihat, tahaha) (weight 6.6). Pair score 14.0.'
   basis: reading
 - text: 'Only in Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel): God spread out
     (roqa'') the earth upon the waters; God gives bread to all flesh; God cut the Sea of Reeds into parts
@@ -39,13 +39,12 @@ evidence:
     Yaghuth, Ya''uq and Nasr; The flood hero prays for forgiveness for himself, his parents, whoever enters
     his house believing, and all believers; God caused humans to grow from the earth like a plant, returns
     them to it and will bring them out again; Prophet summons his people night and day, openly and in
-    secret, yet they only flee further; Human comes from dust and returns to dust [divergence between
-    the texts]; Deity resolves or promises not to repeat the destruction [divergence between the texts];
-    Destruction motivated by human wickedness or violence [divergence between the texts]; Seek forgiveness
-    and repent, and God will send the sky down on you in abundant rain [divergence between the texts];
-    God created seven heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens) above
-    humans; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur) within the heavens;
-    and 12 more.'
+    secret, yet they only flee further; People are put into the earth and brought out of it again [divergence
+    between the texts]; Destroying a people together with their offspring because of their character [neutral]
+    [divergence between the texts]; Human comes from dust and returns to dust [divergence between the
+    texts]; Before the flood the hero tells his city that heaven will rain plenty on them [divergence
+    between the texts]; A wish that no one be left alive by the destruction [divergence between the texts];
+    Deity resolves or promises not to repeat the destruction [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel): tagged by Claude (model),
     reading the Hebrew.'

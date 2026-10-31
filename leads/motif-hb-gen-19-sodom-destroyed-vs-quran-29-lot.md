@@ -26,10 +26,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Lot receives the divine messengers [divergence between the texts]
-    (weight 6.7); God''s messengers announce that they are sent to destroy the city (weight 6.7); Two
-    angels are received as guests by Lot in Sodom (weight 6.0); The fate of Lot''s wife (weight 5.8);
-    Wife who looks back is turned into a pillar of salt (weight 5.6); The men of Sodom are exceedingly
-    wicked (weight 5.2); God rains sulfur and fire from heaven on cities (weight 4.8). Pair score 40.7.'
+    (weight 7.7); God''s messengers announce that they are sent to destroy the city (weight 7.7); Two
+    angels are received as guests by Lot in Sodom (weight 7.1); The fate of Lot''s wife (weight 6.8);
+    Wife who looks back is turned into a pillar of salt (weight 6.6); The men of Sodom are exceedingly
+    wicked (weight 6.2); God rains sulfur and fire from heaven on cities (weight 5.9). Pair score 48.1.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them

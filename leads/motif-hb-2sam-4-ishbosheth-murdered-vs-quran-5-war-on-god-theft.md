@@ -20,20 +20,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Executed men''s hands and feet cut off and their bodies hung up
-    publicly (weight 6.7). Pair score 6.7.'
+    publicly (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ishbosheth murdered in his bed; Mephibosheth''s lameness: A severed head is buried in
     another man''s tomb; A king is murdered on his bed during the noonday rest; A royal child is lamed
-    when his nurse drops him while fleeing; Assassins bring the severed head of a king to his rival hoping
-    for reward; A man who brings ''good news'' of the enemy king''s death and claims credit is executed.'
+    when his nurse drops him while fleeing; A man who brings ''good news'' of the enemy king''s death
+    and claims credit is executed; Assassins bring the severed head of a king to his rival hoping for
+    reward.'
   basis: reading
 - text: 'Only in Penalty for waging war on God; the ransom of the earth; the thief''s hand: Cut off the
     hands of the male and female thief as recompense; Those who repent before they are overpowered are
     pardoned; Seek a means of approach (al-wasīla) to God; Those who wage war on God and spread corruption:
-    killed, crucified, hands and feet cut off on opposite sides, or exiled; The penalty prescribed for
-    theft [contrast between the texts]; Neither their silver nor their gold can save them on the day of
-    YHWH''s wrath; Each wrongdoer would ransom himself with all that is on earth, if he could; No man
-    can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too costly.'
+    killed, crucified, hands and feet cut off on opposite sides, or exiled; Cutting off hands and feet
+    as the punishment of those who sin against (wage war on) the god [divergence between the texts]; Neither
+    their silver nor their gold can save them on the day of YHWH''s wrath; Each wrongdoer would ransom
+    himself with all that is on earth, if he could; The penalty for theft [neutral] [contrast between
+    the texts]; No man can ransom his brother or give God a ransom (kofer) for him; the redemption of
+    life is too costly.'
   basis: reading
 - text: 'Ishbosheth murdered in his bed; Mephibosheth''s lameness: tagged by Claude (model), reading the
     Hebrew.'

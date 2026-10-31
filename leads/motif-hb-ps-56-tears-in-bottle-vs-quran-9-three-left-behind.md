@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every thirst, fatigue, hunger, step and valley crossed in God''s
-    cause is written as a good deed (weight 6.7). Pair score 6.7.'
+    cause is written as a good deed (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 56, when the Philistines seized David in Gath: God counts the sufferer''s wanderings
     and keeps his tears in his flask and book; Delivered from death to walk before God in the light of

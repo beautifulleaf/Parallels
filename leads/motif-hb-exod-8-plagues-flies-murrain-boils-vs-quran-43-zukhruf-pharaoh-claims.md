@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh
-    and his people themselves [divergence between the texts] (weight 6.7); The king breaks his promise
-    to release the people once a plague is lifted (weight 5.8). Pair score 12.5.'
+    and his people themselves [divergence between the texts] (weight 7.7); The king breaks his promise
+    to release the people once a plague is lifted (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Plagues 4-6: swarms, pestilence of livestock, boils: Soot from a kiln thrown skyward
     becomes boils on men and beasts; Pestilence kills the oppressors'' livestock while sparing the oppressed''s;
@@ -42,10 +42,11 @@ evidence:
     himself or thrown at him [divergence between the texts]; Pharaoh is the great tannin (crocodile/dragon)
     lying in the midst of his Nile channels; Pharaoh boasts to his people: is not the kingdom of Egypt
     mine, and these rivers flowing beneath me?; The king breaks his promise to release the people once
-    a plague is lifted [divergence between the texts]; The returning waters drown the pursuing army; not
-    one survives [divergence between the texts]; King invests the hero with ring, linen and chariot; Prophet
-    protests he is heavy of mouth and tongue or ''uncircumcised of lips''; Prophet''s wonders are imitated
-    by the king''s magicians in a contest; and 1 more.'
+    a plague is lifted [divergence between the texts]; The water of the river of Egypt is said to be at
+    its king''s disposal [neutral] [divergence between the texts]; A man brought before Pharaoh is afraid
+    and cannot speak [divergence between the texts]; The returning waters drown the pursuing army; not
+    one survives [divergence between the texts]; King invests the hero with ring, linen and chariot; and
+    3 more.'
   basis: reading
 - text: 'Plagues 4-6: swarms, pestilence of livestock, boils: tagged by Claude (model), reading the Hebrew.'
   basis: reading

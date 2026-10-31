@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israelites do not eat the sciatic sinew (gid ha-nasheh) because
-    of the wrestling (weight 6.7); A food taboo of Israel (Jacob) before the Torah [divergence between
-    the texts] (weight 6.7). Pair score 13.4.'
+    of the wrestling (weight 7.7); A food taboo of Israel (Jacob) before the Torah [divergence between
+    the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Jacob wrestles at the Jabbok and becomes Israel: Hero refuses to release his divine opponent
     until blessed; Hero''s hip or thigh is struck and he limps afterward; Jacob renamed Israel, ''for

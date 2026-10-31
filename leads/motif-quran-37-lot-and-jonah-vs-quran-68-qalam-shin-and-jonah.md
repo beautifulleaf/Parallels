@@ -18,6 +18,9 @@ motifs:
 - fish-vomits-prophet-onto-land
 passages: []
 evidence:
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
+    longer meet the thresholds after a method change. Kept for review.'
+  basis: original
 - text: 'Shared motifs, rarest first: The man of the fish (Dhū l-Nūn) cries from the darknesses ''There
     is no god but you; I was a wrongdoer'' and is saved (weight 6.3); The prophet prays to God from inside
     the fish [divergence between the texts] (weight 6.3); The prophet prays to God from inside the fish

@@ -13,12 +13,12 @@ traditions:
 layers:
 - motif
 motifs:
-- theft-accusation-pursuit
 - search-eldest-to-youngest
+- theft-accusation-pursuit
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Brothers pursued and accused of theft (weight 5.8); Search proceeds
-    through the others'' bags before the youngest''s (weight 5.8). Pair score 11.5.'
+- text: 'Shared motifs, rarest first: Search proceeds through the others'' bags before the youngest''s
+    (weight 6.8); Brothers pursued and accused of theft (weight 6.8). Pair score 13.7.'
   basis: reading
 - text: 'Only in Jacob''s flight from Laban and the theft of the teraphim: In a dream an angel shows the
     hero the striped and speckled he-goats mounting the flock; God commands the exile to return to the
@@ -32,12 +32,12 @@ evidence:
     stone (matsevah) set up and anointed with oil; and 2 more.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 55 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 55 more.'
   basis: reading
 - text: 'Jacob''s flight from Laban and the theft of the teraphim: tagged by Claude (model), reading the
     Hebrew.'
@@ -46,7 +46,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Brothers pursued and accused of theft
+finding: Search proceeds through the others' bags before the youngest's
 kinds:
 - shared
 units:
@@ -57,6 +57,31 @@ units:
   title: Joseph in the Quran (Surah 12)
   tradition: islam
 matches:
+- kind: shared
+  label: Search proceeds through the others' bags before the youngest's
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 31:33
+      lang: he
+      text: וַיָּבֹ֨א לָבָ֜ן בְּאֹ֥הֶל יַעֲקֹ֣ב וּבְאֹ֣הֶל לֵאָ֗ה וּבְאֹ֛הֶל שְׁתֵּ֥י הָאֲמָהֹ֖ת וְלֹ֣א
+        מָצָ֑א וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל
+    - ref: Gen 31:32
+      lang: he
+      text: עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת אֱלֹהֶיךָ֮ לֹ֣א יִֽחְיֶה֒ נֶ֣גֶד אַחֵ֧ינוּ הַֽכֶּר לְךָ֛ מָ֥ה עִמָּדִ֖י
+        וְקַֽח לָ֑ךְ וְלֹֽא יָדַ֣ע יַעֲקֹ֔ב כִּ֥י רָחֵ֖ל גְּנָבָֽתַם
+    - ref: Gen 31:35
+      lang: he
+      text: וַתֹּ֣אמֶר אֶל אָבִ֗יהָ אַל יִ֨חַר֙ בְּעֵינֵ֣י אֲדֹנִ֔י כִּ֣י ל֤וֹא אוּכַל֙ לָק֣וּם מִפָּנֶ֔יךָ
+        כִּי דֶ֥רֶךְ נָשִׁ֖ים לִ֑י וַיְחַפֵּ֕שׂ וְלֹ֥א מָצָ֖א אֶת הַתְּרָפִֽים
+    note: Jacob's, Leah's, the handmaids', then Rachel's tent
+  - tradition: islam
+    passages:
+    - ref: Quran 12:76
+      lang: ar
+      text: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ
+        كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ
+        ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
 - kind: shared
   label: Brothers pursued and accused of theft
   sides:
@@ -87,31 +112,6 @@ matches:
     - ref: Quran 12:73
       lang: ar
       text: قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ
-- kind: shared
-  label: Search proceeds through the others' bags before the youngest's
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 31:33
-      lang: he
-      text: וַיָּבֹ֨א לָבָ֜ן בְּאֹ֥הֶל יַעֲקֹ֣ב וּבְאֹ֣הֶל לֵאָ֗ה וּבְאֹ֛הֶל שְׁתֵּ֥י הָאֲמָהֹ֖ת וְלֹ֣א
-        מָצָ֑א וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל
-    - ref: Gen 31:32
-      lang: he
-      text: עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת אֱלֹהֶיךָ֮ לֹ֣א יִֽחְיֶה֒ נֶ֣גֶד אַחֵ֧ינוּ הַֽכֶּר לְךָ֛ מָ֥ה עִמָּדִ֖י
-        וְקַֽח לָ֑ךְ וְלֹֽא יָדַ֣ע יַעֲקֹ֔ב כִּ֥י רָחֵ֖ל גְּנָבָֽתַם
-    - ref: Gen 31:35
-      lang: he
-      text: וַתֹּ֣אמֶר אֶל אָבִ֗יהָ אַל יִ֨חַר֙ בְּעֵינֵ֣י אֲדֹנִ֔י כִּ֣י ל֤וֹא אוּכַל֙ לָק֣וּם מִפָּנֶ֔יךָ
-        כִּי דֶ֥רֶךְ נָשִׁ֖ים לִ֑י וַיְחַפֵּ֕שׂ וְלֹ֥א מָצָ֖א אֶת הַתְּרָפִֽים
-    note: Jacob's, Leah's, the handmaids', then Rachel's tent
-  - tradition: islam
-    passages:
-    - ref: Quran 12:76
-      lang: ar
-      text: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ
-        كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ
-        ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
 ---
 
 ## Questions

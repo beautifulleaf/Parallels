@@ -21,21 +21,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In Lot''s town only one house of submitters (muslimin) was found,
-    and the believers were brought out (weight 6.7); Roll call of destroyed peoples: Noah''s, Ad, Thamud,
-    Abraham''s people, Midian and the overturned cities (weight 5.0). Pair score 11.7.'
+    and the believers were brought out (weight 7.7); Roll call of destroyed peoples: Noah''s, Ad, Thamud,
+    Abraham''s people, Midian and the overturned cities (weight 6.0). Pair score 13.8.'
   basis: reading
 - text: 'Only in Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: City or
     people given a new name in the future age (e.g. ''City of Righteousness'', ''Hephzibah''); The faithful
     city has become a harlot; silver turned to dross, wine diluted with water; Worshippers shamed by the
-    sacred oaks (elim) and gardens they chose; God will smelt away the dross of his people as in a furnace
-    to purify them; Daughter Zion left alone like a booth in a vineyard, a hut in a cucumber field, a
-    besieged city; Nation pictured as a body beaten from sole of foot to head, with untended wounds and
-    sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey at the end; Israel likened
-    to a donkey that knows, or does not understand, what it has [divergence between the texts]; Prophet
-    addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; Ox knows its owner and the ass
-    its master''s crib, but Israel does not know (animals wiser than God''s people); Book or oracle opens
-    with a heading naming the prophet, his father and the kings in whose days he saw the vision; God''s
-    people as sons he reared who rebelled against him; and 11 more.'
+    sacred oaks (elim) and gardens they chose; Daughter Zion left alone like a booth in a vineyard, a
+    hut in a cucumber field, a besieged city; Nation pictured as a body beaten from sole of foot to head,
+    with untended wounds and sores; Sky and earth ''listen to their Lord'' (adhinat) and are made to obey
+    at the end; Israel likened to a donkey that knows, or does not understand, what it has [divergence
+    between the texts]; Prophet addresses his own rulers and people as ''Sodom'' and ''Gomorrah''; Book
+    or oracle opens with a heading naming the prophet, his father and the kings in whose days he saw the
+    vision; God''s people as sons he reared who rebelled against him; Though sins be like scarlet they
+    shall be white as snow; though red as crimson, like wool; God will smelt away the dross of his people
+    as in a furnace to purify them; and 11 more.'
   basis: reading
 - text: 'Only in Abraham''s honored guests, the barren old wife striking her face, the stones of clay
     for Lot''s people; Pharaoh, ''Ad, Thamud and Noah: On ''Ad God sent the barren wind (al-rih al-''aqim),
@@ -45,10 +45,11 @@ evidence:
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
     old woman!''; Angels seize the hesitating family by the hand and lead them out; The answer given to
-    the old woman''s doubt [divergence between the texts]; Heavenly visitors eat a human meal; Host runs
-    to welcome strangers, washes their feet and feeds them [divergence between the texts]; How Abraham
-    learns of Sodom''s fate, and his response [divergence between the texts]; Who Abraham''s visitors
-    are [divergence between the texts]; and 18 more.'
+    the old woman''s doubt [divergence between the texts]; Supernatural envoys who come to seize or destroy
+    do not eat the food offered them [divergence between the texts]; Host runs to welcome strangers, washes
+    their feet and feeds them [divergence between the texts]; The host, seeing the divine visitor, has
+    his household prepare an animal from the herd (lamb, calf) for the guest; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; and 23 more.'
   basis: reading
 - text: 'Hear, O heavens; the great indictment, sacrifice rejected, the faithful city: tagged by Claude
     (model), reading the Hebrew.'

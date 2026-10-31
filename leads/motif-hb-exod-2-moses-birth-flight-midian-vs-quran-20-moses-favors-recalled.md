@@ -16,11 +16,11 @@ layers:
 - motif
 motifs:
 - moses-kills-man-delivered-from-grief-as-divergence
-- infant-set-adrift-as-divergence
 - found-by-royal-household-as-divergence
-- sister-offers-nurse
+- infant-set-adrift-as-divergence
 - hero-flees-to-foreign-land
 - returned-to-own-mother
+- sister-offers-nurse
 - found-by-royal-household
 - infant-set-adrift
 passages: []
@@ -28,12 +28,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses killed a man and God delivered him from distress, then tried
-    him with trials [divergence between the texts] (weight 6.7); Infant placed in a container and set
-    on the water [divergence between the texts] (weight 6.3); Infant found by members of a royal household
-    [divergence between the texts] (weight 6.3); Sister offers to find a nurse (weight 5.8); Hero flees
-    the king''s death sentence to a foreign land (weight 5.8); Infant returned to his own mother to nurse
-    (weight 5.8); Infant found by members of a royal household (weight 5.6); Infant placed in a container
-    and set on the water (weight 5.6). Pair score 47.8.'
+    him with trials [divergence between the texts] (weight 7.7); Infant found by members of a royal household
+    [divergence between the texts] (weight 7.3); Infant placed in a container and set on the water [divergence
+    between the texts] (weight 7.3); Hero flees the king''s death sentence to a foreign land (weight 6.8);
+    Infant returned to his own mother to nurse (weight 6.8); Sister offers to find a nurse (weight 6.8);
+    Infant found by members of a royal household (weight 6.6); Infant placed in a container and set on
+    the water (weight 6.6). Pair score 56.2.'
   basis: reading
 - text: 'Only in Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry:
     The foundling''s weeping moves the finder to compassion; The hero''s parents are introduced anonymously
@@ -47,9 +47,9 @@ evidence:
     [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'Only in God recalls his favors to Moses from infancy to Midian: Moses stays years among the people
-    of Midian before his call; God calls, forms, knows or consecrates his servant or prophet from the
-    womb, before birth; Moses killed a man and God delivered him from distress, then tried him with trials;
-    Mother receives divine instruction about the infant; Hero''s beauty is remarked on.'
+    of Midian before his call; Moses killed a man and God delivered him from distress, then tried him
+    with trials; Mother receives divine instruction about the infant; God calls, forms, knows or consecrates
+    his servant or prophet from the womb, before birth; Hero''s beauty is remarked on.'
   basis: reading
 - text: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry: tagged by
     Claude (model), reading the Hebrew.'

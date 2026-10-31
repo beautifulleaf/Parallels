@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The religion inherited from the fathers, defended or confessed as
-    lies [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    lies [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in A new exodus from the north; fishers and hunters: God sends many fishers to fish them
     out and then many hunters to hunt them from every mountain and cleft of rock; Appeal to the religion

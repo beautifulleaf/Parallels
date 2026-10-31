@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Let God weigh me in just balances and know my integrity'' (weight
-    6.3). Pair score 6.3.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Job''s oath of innocence: Adultery is a fire that consumes unto Abaddon and roots out
     all one''s increase; Self-curse: may I sow and another eat, and my offspring be uprooted; Self-curse:
@@ -29,21 +29,21 @@ evidence:
     Self-curse should his land cry out against him and its furrows weep for stolen produce or murdered
     owners; Master respects his slaves'' lawsuits because the one who made him in the womb made them too;
     The righteous did not rejoice at his enemy''s ruin nor curse his life; Disavowal of making gold one''s
-    hope or rejoicing in great wealth; Protagonist clears himself with a series of conditional self-curses
-    (''If I have done X, may Y befall me''); and 10 more.'
+    hope or rejoicing in great wealth; ''Here is my mark (tav); let Shaddai answer me'': the litigant
+    signs his deposition; and 10 more.'
   basis: reading
 - text: 'Only in Repel evil with good; the deathbed plea, the barzakh and the scales: Behind the dead
     is a barrier (barzakh) until the day they are raised; The damned had taken the believers as a laughingstock;
     now the believers triumph; God tells the damned pleading to leave hell: ''Be driven away into it and
     do not speak to me''; At death the sinner begs ''My Lord, send me back, that I may do good''; it is
     refused; When the trumpet is blown there will be no ties of kinship between them, nor will they ask
-    after one another; Seek refuge in God from the goadings of the devils and from their presence; A dying
-    person''s plea to God for more life, and God''s answer [contrast between the texts]; Whether those
-    who die and return to dust rise again [divergence between the texts]; On that day a great shofar will
-    be blown and the lost in Assyria and outcasts in Egypt will come and worship on the holy mountain;
-    Just scales are set up on the day of resurrection; even a mustard seed''s weight is brought forth;
-    YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes; At the
-    resurrection people think they tarried only ten days, or a day, or part of a day; and 5 more.'
+    after one another; Seek refuge in God from the goadings of the devils and from their presence; The
+    dead cannot come back to life on earth; A dying person''s plea to God for more life, and God''s answer
+    [contrast between the texts]; Whether those who die and return to dust rise again [divergence between
+    the texts]; On that day a great shofar will be blown and the lost in Assyria and outcasts in Egypt
+    will come and worship on the holy mountain; A span of many years is set against a single day [divergence
+    between the texts]; At the judgment after death a whole lifetime is reckoned as an hour or a day;
+    and 10 more.'
   basis: reading
 - text: 'Job''s oath of innocence: tagged by Claude (model), reading the Hebrew.'
   basis: reading

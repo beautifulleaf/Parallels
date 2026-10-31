@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I kill and I make alive, I wound and I heal; there is no god beside
-    me (weight 5.1). Pair score 5.1.'
+    me (weight 6.1). Pair score 6.1.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 30 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; Whether God, or the gods, eat the offerings [contrast between the texts]; and 30
+    more.'
   basis: reading
 - text: 'Only in Splitter of seed and dawn; stars for navigation; do not revile their gods: Do not revile
     those they invoke besides God, lest they revile God in ignorance; They made the jinn partners of God,
@@ -39,8 +39,8 @@ evidence:
     hanging date clusters, vineyards, olives and pomegranates; God is the splitter of the dawn (fāliq
     al-iṣbāḥ); night for rest; God splits the grain and the date-stone; Vision does not grasp him, but
     he grasps all vision; Do not revile God or curse a ruler of your people; God has taken neither consort
-    (sahiba) nor child; God made the stars for guidance in the darknesses of land and sea; God brings
-    the living out of the dead and the dead out of the living; and 5 more.'
+    (sahiba) nor child; God made the stars for guidance in the darknesses of land and sea; Whether the
+    creator has offspring though he has no consort [neutral] [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

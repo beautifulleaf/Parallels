@@ -21,17 +21,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deity breathes the breath of life into the first human''s nostrils
-    (weight 5.3); First human shaped from dust, clay or soil (weight 4.6). Pair score 9.9.'
+    (weight 6.1); First human shaped from dust, clay or soil (weight 5.2). Pair score 11.3.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 20 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence
+    between the texts]; and 20 more.'
   basis: reading
 - text: 'Only in Al-Sajda: creation, the angel of death, and the two fates: Whenever the damned try to
     get out of the fire they are driven back into it; On the Day of the Opening/Victory (al-fath) the
@@ -40,11 +42,10 @@ evidence:
     they may return; The angel of death (malak al-mawt), put in charge of humans, takes their souls; The
     guilty, heads bowed before their Lord, beg to be returned to do good; God''s word: ''I will fill hell
     with jinn and humans all together''; No soul knows what delight of the eyes is hidden in store for
-    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; What God
-    did when the six days of creation were done [divergence between the texts]; God began man''s creation
-    from clay, then made his progeny from an extract of a despised fluid, then shaped him and breathed
-    of his spirit; God made leaders (a''imma) among the Israelites who guided by his command because they
-    were patient; and 9 more.'
+    the righteous; Whether Moses wrote the book or was given it [divergence between the texts]; Man described
+    by the lowly bodily substance he is made of [shared matter] [divergence between the texts]; What goes
+    into the place below cannot come out again [divergence between the texts]; Whether one who has stood
+    before the judge of the dead is sent back to the living [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

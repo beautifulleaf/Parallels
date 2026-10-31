@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: It is God who makes to laugh and to weep, who gives death and life
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in A time for everything; eternity in the heart: God has put ''olam (eternity, or the world)
     in the human heart, yet man cannot find out the work of God from beginning to end; God has made everything
     beautiful in its time; God seeks what has been driven away (et nirdaf); what is has already been;
-    Whatever God does endures forever; nothing can be added to it nor taken from it, so that people fear
-    him; A time to cast away stones and a time to gather stones; What has been is what will be; there
-    is nothing new under the sun; For everything there is a season and a time for every matter under heaven
-    (birth and death, planting and uprooting, etc.); God has given humans an evil task (''inyan ra'')
-    to be busy with; Deniers say there is only this life; we die and live, and only Time (al-dahr) destroys
-    us; What profit (yitron) has a man from all his toil under the sun?; There is nothing better than
+    A time to cast away stones and a time to gather stones; Whatever God does endures forever; nothing
+    can be added to it nor taken from it, so that people fear him; What has been is what will be; there
+    is nothing new under the sun; God has given humans an evil task (''inyan ra'') to be busy with; Deniers
+    say there is only this life; we die and live, and only Time (al-dahr) destroys us; For everything
+    there is a season and a time for every matter under heaven (birth and death, planting and uprooting,
+    etc.); What profit (yitron) has a man from all his toil under the sun?; There is nothing better than
     to eat, drink and find enjoyment in one''s toil; this is from the hand of God.'
   basis: reading
 - text: 'Only in Al-Lat, al-''Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses;
@@ -42,7 +42,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 15 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 19 more.'
   basis: reading
 - text: 'A time for everything; eternity in the heart: tagged by Claude (model), reading the Hebrew.'
   basis: reading

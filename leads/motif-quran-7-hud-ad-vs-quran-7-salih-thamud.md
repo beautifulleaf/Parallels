@@ -79,7 +79,7 @@ passages:
     غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا
     تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌ
 evidence:
-- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
     longer meet the thresholds after a method change. Kept for review.'
   basis: original
 - text: 'Shared motifs, rarest first: A later people (Ad, then Thamud) are made successors on the earth

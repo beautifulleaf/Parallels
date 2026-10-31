@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A thousand years in God''s sight are like yesterday when it passes,
-    or a watch in the night [divergence between the texts] (weight 6.7); A thousand years in God''s sight
-    are like yesterday when it passes, or a watch in the night (weight 6.0). Pair score 12.7.'
+    or a watch in the night [divergence between the texts] (weight 7.7); A thousand years in God''s sight
+    are like yesterday when it passes, or a watch in the night (weight 7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Psalm 90, prayer of Moses; a thousand years as yesterday: Before the mountains were born
     and the earth was brought forth in labor, God existed from everlasting; God turns mortals back to
     dust (dakka), saying ''Return, sons of Adam''; The span of human life is seventy years, or eighty
     with strength; A psalm is ascribed to Moses, ''the man of God''; Prayer ''Teach us to number our days
-    that we may gain a heart of wisdom''; Human life is short and fleeting (heled, a handbreadth, grass,
-    a sigh); Human comes from dust and returns to dust [divergence between the texts]; The resurrected
-    feel they had stayed only an hour of a day; Lament question ''How long, O God?'' / ''Why have you
-    rejected us forever?''; Humans are like grass that flourishes in the morning and withers by evening;
-    Human comes from dust and returns to dust.'
+    that we may gain a heart of wisdom''; Human comes from dust and returns to dust [divergence between
+    the texts]; The resurrected feel they had stayed only an hour of a day; Humans are like grass that
+    flourishes in the morning and withers by evening; Human life is short and fleeting (heled, a handbreadth,
+    grass, a sigh); Human comes from dust and returns to dust; Lament question ''How long, O God?'' /
+    ''Why have you rejected us forever?''.'
   basis: reading
 - text: 'Only in The ascending stairways: the day of fifty thousand years and the steadfast worshippers:
     A day whose measure is fifty thousand years, during which angels and the Spirit ascend to God; The
@@ -41,12 +41,12 @@ evidence:
     (ma''arij); God is ''Lord of the ascending ways''; The faithful guard their private parts except with
     their wives or those their right hands possess; beyond that is transgression; In the wealth of the
     righteous is a known right (haqq ma''lum) for the beggar and the deprived; God is able to replace
-    a people with others better than they, and none can outrun him; On the day no friend asks after friend;
-    a man flees his brother, mother, father, wife and sons, each wholly occupied with himself; On the
-    day the mountains will be like (carded, dyed) wool (''ihn); No man can ransom his brother or give
-    God a ransom (kofer) for him; the redemption of life is too costly [divergence between the texts];
-    Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual intercourse,
-    no oppression, returns pledges, feeds the hungry, clothes the naked, no interest; and 4 more.'
+    a people with others better than they, and none can outrun him; Under the coming calamity the bonds
+    of father, son, brother and friend give way [shared matter] [divergence between the texts]; On the
+    day no friend asks after friend; a man flees his brother, mother, father, wife and sons, each wholly
+    occupied with himself; A ladder (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral];
+    Messengers go up and down between realms by a stairway or ladder of heaven (simmiltu / sullam / maʿārij);
+    and 10 more.'
   basis: reading
 - text: 'Psalm 90, prayer of Moses; a thousand years as yesterday: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Family prostrates before the hero, fulfilling the dream (weight
-    5.8); A brother or the brothers give the father a pledge for the youngest (weight 5.8); Father refuses
-    at first to send the youngest (weight 5.6). Pair score 17.1.'
+    6.8); A brother or the brothers give the father a pledge for the youngest (weight 6.8); Father refuses
+    at first to send the youngest (weight 6.6). Pair score 20.3.'
   basis: reading
 - text: 'Only in Second journey with Benjamin and the feast in Joseph''s house: Brothers bring double
     money to return the silver found in their sacks; Egyptians will not eat with Hebrews, for it is an
@@ -28,17 +28,17 @@ evidence:
     foreign ruler; Steward says their God placed hidden treasure in their sacks; Hero seats his brothers
     in order of birth, and they look at one another in amazement; The youngest brother is served five
     times as much as the others; Hero reveals himself to the youngest brother first [divergence between
-    the texts]; Hero turns aside or withdraws to weep unseen before his brothers; A brother or the brothers
-    give the father a pledge for the youngest [divergence between the texts]; Host runs to welcome strangers,
-    washes their feet and feeds them.'
+    the texts]; A brother or the brothers give the father a pledge for the youngest [divergence between
+    the texts]; Hero turns aside or withdraws to weep unseen before his brothers; Host runs to welcome
+    strangers, washes their feet and feeds them.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 54 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 54 more.'
   basis: reading
 - text: 'Second journey with Benjamin and the feast in Joseph''s house: tagged by Claude (model), reading
     the Hebrew.'

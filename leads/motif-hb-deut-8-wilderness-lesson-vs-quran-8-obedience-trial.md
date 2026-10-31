@@ -17,27 +17,29 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Wealth and children are a trial (fitna) (weight 6.3). Pair score
-    6.3.'
+- text: 'Shared motifs, rarest first: Wealth and children are a trial (fitna) (weight 7.3). Pair score
+    7.3.'
   basis: reading
 - text: 'Only in Lessons of the wilderness; the good land; beware of pride: Wilderness of fiery serpents
-    and scorpions; When you eat and are satisfied, bless God for the land; Land whose stones are iron
-    and from whose hills copper is dug; Man does not live by bread alone but by every word from God''s
-    mouth; God tests the community ''until we know'' who strive and are patient; Springs and fruit of
-    the promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I
-    was given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and
-    test Israel; Clothes did not wear out and feet did not swell for forty years; God disciplines Israel
-    as a man disciplines his son; Warning against saying my power and the might of my hand made this wealth;
-    When you eat and are full, beware lest you forget God; and 6 more.'
+    and scorpions; When you eat and are satisfied, bless God for the land; Man does not live by bread
+    alone but by every word from God''s mouth; God tests the community ''until we know'' who strive and
+    are patient; Land whose stones are iron and from whose hills copper is dug; Springs and fruit of the
+    promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I was
+    given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and test
+    Israel; Warning against saying my power and the might of my hand made this wealth; When you eat and
+    are full, beware lest you forget God; Water brought out of the rock; Clothes did not wear out and
+    feet did not swell for forty years; and 6 more.'
   basis: reading
 - text: 'Only in Deaf and dumb beasts, heart and trial: God gives the God-fearing a furqan (criterion
     / deliverance); God comes between a man and his heart; The arrogant elite confront the weak (mustad''afun)
-    who believed the prophet; God has not given the people a heart to know, eyes to see, ears to hear
-    until today; God has not given the people a heart to know, eyes to see, ears to hear until today [divergence
-    between the texts]; Whether punishment strikes the innocent together with the guilty [contrast between
-    the texts]; The king''s heart is like channels of water in YHWH''s hand; he turns it wherever he wishes;
-    The heedless are like cattle, or even more astray; A foolish people who have eyes but do not see and
-    ears but do not hear.'
+    who believed the prophet; A destroying calamity does not single out the wrongdoers but strikes all;
+    A destroying calamity does not single out the wrongdoers but strikes all [divergence between the texts];
+    God has not given the people a heart to know, eyes to see, ears to hear until today; God has not given
+    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
+    Whether punishment strikes the innocent together with the guilty [contrast between the texts]; The
+    king''s heart is like channels of water in YHWH''s hand; he turns it wherever he wishes; Whether a
+    man can hear (obey) is given or withheld by the deity; The heedless are like cattle, or even more
+    astray; A foolish people who have eyes but do not see and ears but do not hear.'
   basis: reading
 - text: 'Lessons of the wilderness; the good land; beware of pride: tagged by Claude (model), reading
     the Hebrew.'

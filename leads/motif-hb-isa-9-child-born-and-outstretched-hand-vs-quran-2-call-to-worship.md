@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hell''s fire has men and stones as its fuel (weight 6.3). Pair score
-    6.3.'
+- text: 'Shared motifs, rarest first: Hell''s fire has men and stones as its fuel (weight 7.3). Pair score
+    7.3.'
   basis: reading
 - text: 'Only in Great light; a child is born to us; the outstretched hand against Ephraim: Every trampling
     soldier''s boot and garment rolled in blood will be burned as fuel for fire; Proud boast: ''Bricks
@@ -38,13 +38,13 @@ evidence:
 - text: 'Only in Call to worship the Creator; the challenge; paradise and the gnat: God is not ashamed
     to strike a parable of a gnat or something smaller; Fruits in paradise resemble those of earth: ''this
     is what we were given before''; A challenge to rivals to prove a divine claim [divergence between
-    the texts]; God takes life and gives it again [divergence between the texts]; The people break the
-    covenant God made with them; Humans were dead, given life, will die and be given life again (two deaths,
-    two lives); God stretches out the heavens like a tent curtain; The blessed have purified spouses (azwaj
-    mutahhara) in paradise; God summons the coastlands and nations (and their gods) to a court trial to
-    argue their case; God fashions seven heavens; Inimitability challenge: produce a surah like it, calling
-    on your own witnesses (tahaddi); God visits the earth with rain, softens it with showers, and crowns
-    the year with harvest; and 2 more.'
+    the texts]; In the hereafter the dead eat the like of what they ate on earth; God takes life and gives
+    it again [divergence between the texts]; The people break the covenant God made with them; Humans
+    were dead, given life, will die and be given life again (two deaths, two lives); God stretches out
+    the heavens like a tent curtain; The blessed have purified spouses (azwaj mutahhara) in paradise;
+    God summons the coastlands and nations (and their gods) to a court trial to argue their case; The
+    creator made heaven and earth, light, air and food ''for their sake'' (n-jb =sn), for humankind; God
+    fashions seven heavens; and 4 more.'
   basis: reading
 - text: 'Great light; a child is born to us; the outstretched hand against Ephraim: tagged by Claude (model),
     reading the Hebrew.'

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Satan promises the army ''no one will defeat you, I am your protector'',
-    then turns on his heels when he sees what they cannot (weight 6.7). Pair score 6.7.'
+    then turns on his heels when he sees what they cannot (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,

@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: An eloquent brother is appointed to speak for the hero, who is ''as
-    God'' to him (weight 5.6); A staff thrown down becomes a serpent and turns back into a staff (weight
-    5.4). Pair score 11.0.'
+    God'' to him (weight 6.6); A staff thrown down becomes a serpent and turns back into a staff (weight
+    6.5). Pair score 13.1.'
   basis: reading
 - text: 'Only in Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians''
     staffs: Hero is eighty (and his brother eighty-three) when they confront the king; God makes the prophet
@@ -39,14 +39,14 @@ evidence:
     his tongue untied; Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating
     down leaves for sheep, other needs; The prophet asks that his brother be made his helper (wazīr) and
     partner in his mission; The prophet asks that his brother be made his helper (wazīr) and partner in
-    his mission [divergence between the texts]; The call comes in the holy valley named Ṭuwā; Asked what
-    is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves for sheep, other
-    needs [divergence between the texts]; Traveling with his family, the prophet sees a fire and goes
-    to bring back a brand or find guidance there [divergence between the texts]; Prophet protests he is
-    heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between the texts]; Prophet''s
-    hand turns leprous, white as snow, and is restored as a sign [divergence between the texts]; The call
-    comes in the holy valley named Ṭuwā [divergence between the texts]; Traveling with his family, the
-    prophet sees a fire and goes to bring back a brand or find guidance there; and 6 more.'
+    his mission [divergence between the texts]; The call comes in the holy valley named Ṭuwā; A messenger''s
+    heavy or knotted tongue and its remedy [divergence between the texts]; Asked what is in his hand,
+    the prophet lists his staff''s uses: leaning, beating down leaves for sheep, other needs [divergence
+    between the texts]; Traveling with his family, the prophet sees a fire and goes to bring back a brand
+    or find guidance there [divergence between the texts]; Prophet protests he is heavy of mouth and tongue
+    or ''uncircumcised of lips'' [divergence between the texts]; A serpent appears and the trembling man
+    is told ''do not fear'' [neutral] [divergence between the texts]; The deity gives the one he commissions
+    a sign on his arm or hand [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians'' staffs:
     tagged by Claude (model), reading the Hebrew.'

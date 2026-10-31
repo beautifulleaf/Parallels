@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Book in paired repetitions (mathani) makes the skins of the
-    godfearing shiver, then their skins and hearts soften (weight 6.3). Pair score 6.3.'
+    godfearing shiver, then their skins and hearts soften (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas lamed to ayin: ''It is time to act for YHWH; they have made void your
     Torah'' (later read as license for emergency measures); Through Torah the speaker is wiser than his

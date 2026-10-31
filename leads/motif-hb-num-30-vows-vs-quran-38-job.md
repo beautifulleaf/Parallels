@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A man''s vow or oath must be fulfilled as uttered (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: A man''s vow or oath must be fulfilled as uttered (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Vows of men and women: Silence on hearing counts as confirmation; Vows of a widow or
     divorced woman stand on their own; Father or husband may annul a woman''s vow on the day he hears
@@ -30,10 +30,11 @@ evidence:
     with weariness and torment''; God gives Job back his family and as many again with them; Job is told
     to stamp with his foot: a cool spring to wash in and drink appears; Job is told to take a bundle of
     grass or twigs (dighth) in his hand and strike with it, so as not to break his oath; Job calls on
-    God, and whether God answers [contrast between the texts]; What God restores to Job at the end [divergence
-    between the texts]; Who struck or ''touched'' Job [divergence between the texts]; God restores the
-    righteous sufferer''s fortunes and gives him twice what he had; The Satan (the adversary) appears
-    in the heavenly court as an accusing member; Hero singled out as righteous or pious.'
+    God, and whether God answers [contrast between the texts]; An innocent sufferer''s affliction is the
+    touch of a demon [divergence between the texts]; What God restores to Job at the end [divergence between
+    the texts]; Who struck or ''touched'' Job [divergence between the texts]; God restores the righteous
+    sufferer''s fortunes and gives him twice what he had; The Satan (the adversary) appears in the heavenly
+    court as an accusing member; Hero singled out as righteous or pious.'
   basis: reading
 - text: 'Vows of men and women: tagged by Claude (model), reading the Hebrew.'
   basis: reading

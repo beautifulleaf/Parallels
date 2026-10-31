@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God has not put two hearts inside any man (weight 6.7). Pair score
-    6.7.'
+- text: 'Shared motifs, rarest first: God has not put two hearts inside any man (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Psalm 12 - flattering lips and God''s pure words: The godly man is gone; the faithful
     have vanished from among humankind; Embedded divine oracle: ''Because the poor are plundered, now
@@ -35,7 +35,8 @@ evidence:
     Blood relatives are nearer to one another (in inheritance) in God''s book; The prophet''s wives are
     the mothers of the believers and may not be married after him; Whether an adopted or fostered child
     counts as one''s own child [contrast between the texts]; Zihar: a husband declaring his wife ''like
-    my mother''s back''; she is not his mother, the saying is false and abhorrent.'
+    my mother''s back''; she is not his mother, the saying is false and abhorrent; The ruler (crown prince,
+    prophet) is to be loved as, or to be closer than, one''s own self [divergence between the texts].'
   basis: reading
 - text: 'Psalm 12 - flattering lips and God''s pure words: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet intercedes and averts God''s destruction of the people (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Not for your righteousness; the golden calf and Moses'' intercession recalled: Land given
     not for Israel''s righteousness but for the nations'' wickedness; Intercession appeals to what the
@@ -37,10 +37,10 @@ evidence:
     ''kill yourselves or leave your homes'', few would have done it; Obey God, obey the Messenger and
     those in authority; refer disputes to God and the Messenger; Some of the People of the Book believe
     in al-jibt and al-ṭāghūt (idols, false powers); The Levites kill idolaters including their own kin
-    and are consecrated for it [divergence between the texts]; Return trusts (amānāt) to their owners
-    and judge between people with justice; Difficult cases referred to the Levitical priests and judge
-    at the chosen place; defiance is capital; The Levites kill idolaters including their own kin and are
-    consecrated for it.'
+    and are consecrated for it [divergence between the texts]; Command to hand over possessions / trusts
+    to their owners, in a context of just judgment; Return trusts (amānāt) to their owners and judge between
+    people with justice; Difficult cases referred to the Levitical priests and judge at the chosen place;
+    defiance is capital; The Levites kill idolaters including their own kin and are consecrated for it.'
   basis: reading
 - text: 'Not for your righteousness; the golden calf and Moses'' intercession recalled: tagged by Claude
     (model), reading the Hebrew.'

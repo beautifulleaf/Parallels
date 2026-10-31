@@ -19,13 +19,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A cloud seen over a land in drought, bringing rain or destruction
-    [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Elijah prays for rain and runs before Ahab: Prophet on the mountaintop bows to the ground
     with his face between his knees praying for rain; Hand of YHWH upon him, the prophet girds his loins
     and runs ahead of the king''s chariot; Servant sent seven times to look toward the sea sees a cloud
-    as small as a man''s hand; A ritual action is performed seven times; Obedience brings early and late
-    rain; idolatry makes God shut up the heavens.'
+    as small as a man''s hand; Obedience brings early and late rain; idolatry makes God shut up the heavens;
+    A ritual action is performed seven times.'
   basis: reading
 - text: 'Only in Hud warns ''Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran:
     A destroyed people see a cloud approaching their valleys and say ''this cloud will give us rain'',
@@ -36,8 +36,9 @@ evidence:
     to be patient like ''the messengers of resolve'' (ulu l-''azm); God destroyed the towns around the
     hearers, which serve as warning; A destroying wind wipes out everything at its Lord''s command; in
     the morning only their dwellings are seen; Woe to those who desire the Day of YHWH: it is darkness
-    and not light; The prophet Hūd is sent to the people of ʿĀd; God was not wearied by creating the heavens
-    and earth (polemic against divine rest); God rested and was refreshed on the seventh day; and 5 more.'
+    and not light; The prophet Hūd is sent to the people of ʿĀd; The destroying storm-wind wrecks the
+    land by its god''s command; God was not wearied by creating the heavens and earth (polemic against
+    divine rest); and 6 more.'
   basis: reading
 - text: 'Elijah prays for rain and runs before Ahab: tagged by Claude (model), reading the Hebrew.'
   basis: reading

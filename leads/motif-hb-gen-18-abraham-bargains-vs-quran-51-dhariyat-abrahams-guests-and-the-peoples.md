@@ -19,18 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Abraham learns of Sodom''s fate, and his response [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Abraham bargains for Sodom: God decides not to hide his plan from his chosen one; Abraham''s
-    plea when told that the city of Lot will be destroyed [divergence between the texts]; A city''s punishment
-    held back for the righteous within it [divergence between the texts]; God comes down to see what humans
-    are doing; How Abraham learns of Sodom''s fate, and his response; Whether punishment strikes the innocent
-    together with the guilty [contrast between the texts]; Hero challenges God: shall the judge of all
-    the earth not do justice? [divergence between the texts]; Hero challenges God: shall the judge of
-    all the earth not do justice? [response between the texts]; How God answers Abraham''s plea for the
-    people of Sodom [divergence between the texts]; An outcry (tse''aqah) from the wicked city reaches
-    God; Shall God treat believers like those who spread corruption, the godfearing like the wicked?;
-    Abraham''s confession is left as an enduring word among his descendants (''aqib); and 5 more.'
+- text: 'Only in Abraham bargains for Sodom: Abraham''s plea when told that the city of Lot will be destroyed
+    [divergence between the texts]; A city''s punishment held back for the righteous within it [divergence
+    between the texts]; God decides not to hide his plan from his chosen one; God comes down to see what
+    humans are doing; How Abraham learns of Sodom''s fate, and his response; Whether punishment strikes
+    the innocent together with the guilty [contrast between the texts]; Hero challenges God: shall the
+    judge of all the earth not do justice? [divergence between the texts]; Hero challenges God: shall
+    the judge of all the earth not do justice? [response between the texts]; How God answers Abraham''s
+    plea for the people of Sodom [divergence between the texts]; An outcry (tse''aqah) from the wicked
+    city reaches God; Shall God treat believers like those who spread corruption, the godfearing like
+    the wicked?; Abraham''s confession is left as an enduring word among his descendants (''aqib); and
+    5 more.'
   basis: reading
 - text: 'Only in Abraham''s honored guests, the barren old wife striking her face, the stones of clay
     for Lot''s people; Pharaoh, ''Ad, Thamud and Noah: On ''Ad God sent the barren wind (al-rih al-''aqim),
@@ -40,10 +41,11 @@ evidence:
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
     old woman!''; Angels seize the hesitating family by the hand and lead them out; The answer given to
-    the old woman''s doubt [divergence between the texts]; Heavenly visitors eat a human meal; Host runs
-    to welcome strangers, washes their feet and feeds them [divergence between the texts]; Who Abraham''s
-    visitors are [divergence between the texts]; Only Lot''s household is brought out of the doomed city
-    [divergence between the texts]; and 19 more.'
+    the old woman''s doubt [divergence between the texts]; Supernatural envoys who come to seize or destroy
+    do not eat the food offered them [divergence between the texts]; Host runs to welcome strangers, washes
+    their feet and feeds them [divergence between the texts]; The host, seeing the divine visitor, has
+    his household prepare an animal from the herd (lamb, calf) for the guest; Who Abraham''s visitors
+    are [divergence between the texts]; and 24 more.'
   basis: reading
 - text: 'Abraham bargains for Sodom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

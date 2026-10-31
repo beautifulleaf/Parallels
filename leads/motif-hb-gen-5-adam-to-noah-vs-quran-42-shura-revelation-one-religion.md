@@ -18,15 +18,15 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Humanity created male and female in one act (weight 6.0). Pair score
-    6.0.'
+- text: 'Shared motifs, rarest first: Humanity created male and female in one act (weight 6.5). Pair score
+    6.5.'
   basis: reading
-- text: 'Only in The book of the generations of Adam, Adam to Noah: Pre-flood ancestors live many centuries;
-    A lifespan of 365 years, a solar-year number; One ancestor is the longest-lived human (969 years);
-    Child named as one who will bring relief from the cursed ground; Son begotten in the father''s likeness
-    and image, as man in God''s; God raised Idris to a high place; Ten generations of long-lived patriarchs
-    from the first man to the flood hero; Seventh ancestor walks with God and is taken without dying;
-    Humanity made in the image or likeness of the deity.'
+- text: 'Only in The book of the generations of Adam, Adam to Noah: A lifespan of 365 years, a solar-year
+    number; One ancestor is the longest-lived human (969 years); Child named as one who will bring relief
+    from the cursed ground; Pre-flood ancestors live many centuries; God raised Idris to a high place;
+    Son begotten in the father''s likeness and image, as man in God''s; Ten generations of long-lived
+    patriarchs from the first man to the flood hero; Humanity made in the image or likeness of the deity;
+    Seventh ancestor walks with God and is taken without dying.'
   basis: reading
 - text: 'Only in Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the
     prophets: Whoever seeks the tillage (harth) of the hereafter has it increased; whoever seeks the tillage

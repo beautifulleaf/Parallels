@@ -18,24 +18,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God proportioned the soul and inspired it with (knowledge of) its
-    wickedness and its piety; who purifies it prospers (weight 6.3). Pair score 6.3.'
+    wickedness and its piety; who purifies it prospers (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Cain and Abel: Murderer evades God''s question about his brother''s whereabouts; The
-    earth opens its mouth to receive spilled blood; Rivalry between a farmer brother and a shepherd brother;
-    Firstborn animals and their fat offered to God; Exile dwells in the land of Nod east of Eden; God
-    puts a protective sign on a murderer so no one kills him; Murderer condemned to be a restless wanderer,
-    the ground withholding its yield; Sin personified as a beast crouching at the door, desiring the man;
-    What the earth does with the murdered brother: takes in his blood, or hides his corpse [divergence
-    between the texts]; A brother kills his brother in the first murder [divergence between the texts];
-    Parents'' words to God about the child he gave them [divergence between the texts]; The first murderer''s
-    lament after the deed [divergence between the texts]; and 8 more.'
+    earth opens its mouth to receive spilled blood; Firstborn animals and their fat offered to God; Exile
+    dwells in the land of Nod east of Eden; God puts a protective sign on a murderer so no one kills him;
+    Murderer condemned to be a restless wanderer, the ground withholding its yield; Sin personified as
+    a beast crouching at the door, desiring the man; What the earth does with the murdered brother: takes
+    in his blood, or hides his corpse [divergence between the texts]; A brother kills his brother in the
+    first murder [divergence between the texts]; Parents'' words to God about the child he gave them [divergence
+    between the texts]; The first murderer''s lament after the deed [divergence between the texts]; God
+    accepts one brother''s offering and rejects the other''s; and 8 more.'
   basis: reading
-- text: 'Only in The sun: the soul''s two inspirations and the she-camel of God: Thamud''s most wretched
-    one rises; the messenger warns ''God''s she-camel and her drinking''; they hamstring her and God crushes
-    them; God spread out the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha); List
-    of destroyed peoples or hosts (e.g. ''Ad, Thamud, Pharaoh) recalled as warning; A series of oaths
-    by natural phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates a
-    passage; Destruction follows the people''s rejection of a messenger.'
+- text: 'Only in The sun: the soul''s two inspirations and the she-camel of God: The makers of humankind
+    themselves gave it lying speech, or the shaper of the soul inspired it with its wickedness and its
+    piety [divergence between the texts]; Thamud''s most wretched one rises; the messenger warns ''God''s
+    she-camel and her drinking''; they hamstring her and God crushes them; God spread out the earth as
+    a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha); List of destroyed peoples or hosts
+    (e.g. ''Ad, Thamud, Pharaoh) recalled as warning; A series of oaths by natural phenomena (dawn, night,
+    day, sun, moon, sky, earth, stars, winds) opens or punctuates a passage; Destruction follows the people''s
+    rejection of a messenger.'
   basis: reading
 - text: 'Cain and Abel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -23,9 +23,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Taunt: do the idols have feet to walk, hands to grasp, eyes to see,
-    ears to hear? (weight 6.7); Likeness between the idols and those who call on them [divergence between
-    the texts] (weight 6.7); Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0).
-    Pair score 18.4.'
+    ears to hear? (weight 7.7); Likeness between the idols and those who call on them [divergence between
+    the texts] (weight 7.7); Idols of wood and stone that cannot see, hear, eat or smell (weight 6.0).
+    Pair score 21.5.'
   basis: reading
 - text: 'Only in Psalm 115, not to us, polemic against idols: ''The heavens are YHWH''s heavens, but the
     earth he has given to the sons of man''; ''Not to us, YHWH, not to us, but to your name give glory'';
@@ -34,18 +34,20 @@ evidence:
     thin skin of a date-stone (qitmir); they cannot hear prayer and will disown it at the Resurrection;
     Those who make idols and trust in them become like them; Liturgical triad (or tetrad) addressing Israel,
     the house of Aaron, (the house of Levi) and those who fear YHWH; In death there is no remembrance
-    of God; in Sheol who will praise him?; God called ''maker of heaven and earth'' (''oseh shamayim va-arets'')
-    in blessing or confession of help; Nations taunt ''Where is their God?''; The cultic cry ''Hallelu-Yah''
-    (praise Yah) closes or opens a psalm.'
+    of God; in Sheol who will praise him?; Nations taunt ''Where is their God?''; God called ''maker of
+    heaven and earth'' (''oseh shamayim va-arets'') in blessing or confession of help; The cultic cry
+    ''Hallelu-Yah'' (praise Yah) closes or opens a psalm.'
   basis: reading
 - text: 'Only in The single soul, the couple''s vow, and powerless idols: A couple vow thanks for a sound
     child, then ascribe partners to God in what he gave; Those you call on besides God are servants like
     yourselves; Woe to the one who says to wood ''Awake!'' and to dumb stone ''Arise!''; there is no breath
     in it; How the first human''s mate is made from the first human [divergence between the texts]; Parents''
-    words to God about the child he gave them [divergence between the texts]; Prophet challenges the idolaters
-    to call their partners and plot against him without delay; First woman made from the man''s rib or
-    side while he sleeps; Humankind is created from a single soul, from which its mate was made to dwell
-    with it; The made idol cannot move from its place, speak or answer and save those who cry to it.'
+    words to God about the child he gave them [divergence between the texts]; How God made the human mate,
+    and for what purpose; Prophet challenges the idolaters to call their partners and plot against him
+    without delay; Having eyes that do not see and ears that do not hear, said of idols or of people;
+    First woman made from the man''s rib or side while he sleeps; Humankind is created from a single soul,
+    from which its mate was made to dwell with it; The made idol cannot move from its place, speak or
+    answer and save those who cry to it.'
   basis: reading
 - text: 'Psalm 115, not to us, polemic against idols: tagged by Claude (model), reading the Hebrew.'
   basis: reading

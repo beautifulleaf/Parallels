@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The rich man''s wealth is his strong city; the poverty of the poor
-    is their ruin (weight 6.3). Pair score 6.3.'
+    is their ruin (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Sayings on the tongue, the strong tower and the lot: He who answers before he hears,
     it is folly and shame to him; Death and life are in the hand of the tongue; There is a friend who
@@ -36,11 +36,12 @@ evidence:
     will bring the prophet back to a place of return (maʿād); Qārūn says his wealth came to him through
     knowledge he possesses; Qārūn (Korah) of Moses'' people was given treasures whose keys would weigh
     down a band of strong men; Donors confess that everything comes from God and they only give back what
-    is his; Bystanders of a divine punishment fear it could have struck them too; Qārūn goes out in his
-    finery and the worldly wish for his fortune; What Korah''s sin was, and why the earth swallowed him
-    [divergence between the texts]; All on earth perish; there remains the Face of your Lord, possessor
-    of majesty and honor; Warning against saying my power and the might of my hand made this wealth; The
-    earth opens its mouth and swallows rebels alive into Sheol.'
+    is his; The earth opens and swallows ill-gotten riches or the wrongful rich man with his house; Bystanders
+    of a divine punishment fear it could have struck them too; Qārūn goes out in his finery and the worldly
+    wish for his fortune; What Korah''s sin was, and why the earth swallowed him [divergence between the
+    texts]; All on earth perish; there remains the Face of your Lord, possessor of majesty and honor;
+    Warning against saying my power and the might of my hand made this wealth; The earth opens its mouth
+    and swallows rebels alive into Sheol.'
   basis: reading
 - text: 'Sayings on the tongue, the strong tower and the lot: tagged by Claude (model), reading the Hebrew.'
   basis: reading

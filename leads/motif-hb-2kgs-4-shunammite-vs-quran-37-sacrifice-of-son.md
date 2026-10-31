@@ -18,8 +18,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A barren wife is told by a divine messenger that she will bear a
-    son (weight 5.8); A divine messenger announces a son''s birth and gives his name (weight 5.2). Pair
-    score 11.0.'
+    son (weight 6.8); A divine messenger announces a son''s birth and gives his name (weight 6.0). Pair
+    score 12.9.'
   basis: reading
 - text: 'Only in The Shunammite woman and her son: Child in the harvest field cries ''My head, my head!''
     and dies at noon on his mother''s knees; Woman protests the promise of a son: ''Do not lie to your
@@ -42,7 +42,7 @@ evidence:
     [divergence between the texts]; The father lays the son down for the sacrifice [divergence between
     the texts]; Who the son to be sacrificed is and how he is named [divergence between the texts]; Lot
     believes in Abraham, who declares ''I am emigrating to my Lord''; A ram caught in a thicket is sacrificed
-    in place of the son; and 8 more.'
+    in place of the son; and 10 more.'
   basis: reading
 - text: 'The Shunammite woman and her son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

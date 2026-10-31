@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has, begets or takes sons or other offspring [contrast
-    between the texts] (weight 5.8). Pair score 5.8.'
+    between the texts] (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Nathan''s oracle of the eternal house of David and David''s prayer: God''s steadfast
-    love will not be withdrawn from the heir as it was from the previous king; The king, living in a cedar
-    palace, proposes to build a house for God; Obscure phrase ''this is the torah of man (adam)''; Wordplay
-    on ''house'' as temple and as dynasty; God has never dwelt in a house but moved from tent to tent;
-    God promises to make the chosen one''s name great; Israel is the one nation on earth whom God went
-    to redeem for himself; A prophet approves a plan, then is corrected by a revelation that night; God
-    took the ruler from following the sheep; The king''s son, not the king, will build the house for God''s
-    name; Prayer of humility: ''Who am I and what is my house?''; God disciplines Israel as a man disciplines
-    his son; and 4 more.'
+    love will not be withdrawn from the heir as it was from the previous king; Obscure phrase ''this is
+    the torah of man (adam)''; Wordplay on ''house'' as temple and as dynasty; God has never dwelt in
+    a house but moved from tent to tent; God promises to make the chosen one''s name great; Israel is
+    the one nation on earth whom God went to redeem for himself; A prophet approves a plan, then is corrected
+    by a revelation that night; God took the ruler from following the sheep; Prayer of humility: ''Who
+    am I and what is my house?''; The king''s son, not the king, will build the house for God''s name;
+    God declares the king his son: ''I will be his father and he my son''; God disciplines Israel as a
+    man disciplines his son; and 4 more.'
   basis: reading
 - text: 'Only in Pure religion; no son for God; creation from one soul in three darknesses: God sent down
     for you eight pairs of livestock; Idolaters say ''we worship them only that they may bring us near
     to God''; Had God wished to take a son he would have chosen from what he creates whatever he willed;
     glory be to him, the One; God creates you in your mothers'' bellies creation after creation in three
-    darknesses; God wraps (yukawwir) the night around the day and the day around the night; Was not God''s
-    earth wide enough for you to emigrate (hijra) in it?; How God made the human mate, and for what purpose
-    [divergence between the texts]; The believers'' sides forsake their beds as they call on their Lord
-    in fear and hope (night vigil); First woman made from the man''s rib or side while he sleeps; God
-    formed the kidneys and wove (knit) the speaker in his mother''s womb; No burdened soul bears another''s
-    burden; even a relative will not carry any of it; Sun and moon are subjected, each running to an appointed
-    term; and 2 more.'
+    darknesses; The deity sends sheep or livestock down to humankind; God wraps (yukawwir) the night around
+    the day and the day around the night; How many first humans are made: seven pairs, or one soul and
+    its mate [divergence between the texts]; Was not God''s earth wide enough for you to emigrate (hijra)
+    in it?; Members of the deity''s court speak for a petitioner before the deity [response between the
+    texts]; How God made the human mate, and for what purpose [divergence between the texts]; Whether
+    the creator has offspring though he has no consort [neutral] [divergence between the texts]; The believers''
+    sides forsake their beds as they call on their Lord in fear and hope (night vigil); and 6 more.'
   basis: reading
 - text: 'Nathan''s oracle of the eternal house of David and David''s prayer: tagged by Claude (model),
     reading the Hebrew.'

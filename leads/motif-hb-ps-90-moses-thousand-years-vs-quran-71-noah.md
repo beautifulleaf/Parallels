@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Human comes from dust and returns to dust [divergence between the
-    texts] (weight 6.7); Human comes from dust and returns to dust (weight 5.0). Pair score 11.7.'
+    texts] (weight 7.7); Human comes from dust and returns to dust (weight 5.9). Pair score 13.6.'
   basis: reading
 - text: 'Only in Psalm 90, prayer of Moses; a thousand years as yesterday: Before the mountains were born
     and the earth was brought forth in labor, God existed from everlasting; God turns mortals back to
     dust (dakka), saying ''Return, sons of Adam''; The span of human life is seventy years, or eighty
     with strength; A psalm is ascribed to Moses, ''the man of God''; Prayer ''Teach us to number our days
-    that we may gain a heart of wisdom''; Human life is short and fleeting (heled, a handbreadth, grass,
-    a sigh); A thousand years in God''s sight are like yesterday when it passes, or a watch in the night
-    [divergence between the texts]; The resurrected feel they had stayed only an hour of a day; A thousand
-    years in God''s sight are like yesterday when it passes, or a watch in the night; Lament question
-    ''How long, O God?'' / ''Why have you rejected us forever?''; Humans are like grass that flourishes
-    in the morning and withers by evening.'
+    that we may gain a heart of wisdom''; A thousand years in God''s sight are like yesterday when it
+    passes, or a watch in the night [divergence between the texts]; The resurrected feel they had stayed
+    only an hour of a day; A thousand years in God''s sight are like yesterday when it passes, or a watch
+    in the night; Humans are like grass that flourishes in the morning and withers by evening; Human life
+    is short and fleeting (heled, a handbreadth, grass, a sigh); Lament question ''How long, O God?''
+    / ''Why have you rejected us forever?''.'
   basis: reading
 - text: 'Only in Noah''s preaching, the five idols and the flood: Because of their sins they were drowned
     and then made to enter a fire; The people put their fingers in their ears and wrap their garments
@@ -39,13 +39,13 @@ evidence:
     Yaghuth, Ya''uq and Nasr; The flood hero prays for forgiveness for himself, his parents, whoever enters
     his house believing, and all believers; God caused humans to grow from the earth like a plant, returns
     them to it and will bring them out again; Prophet summons his people night and day, openly and in
-    secret, yet they only flee further; Deity resolves or promises not to repeat the destruction [divergence
-    between the texts]; Destruction motivated by human wickedness or violence [divergence between the
-    texts]; Seek forgiveness and repent, and God will send the sky down on you in abundant rain [divergence
-    between the texts]; God created seven heavens in layers (sab'' samawat tibaqan) or built seven strong
-    (heavens) above humans; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur)
-    within the heavens; God made the great lights: the sun to rule the day, the moon and stars to rule
-    the night; and 12 more.'
+    secret, yet they only flee further; People are put into the earth and brought out of it again [divergence
+    between the texts]; Destroying a people together with their offspring because of their character [neutral]
+    [divergence between the texts]; Before the flood the hero tells his city that heaven will rain plenty
+    on them [divergence between the texts]; A wish that no one be left alive by the destruction [divergence
+    between the texts]; Deity resolves or promises not to repeat the destruction [divergence between the
+    texts]; Destruction motivated by human wickedness or violence [divergence between the texts]; and
+    18 more.'
   basis: reading
 - text: 'Psalm 90, prayer of Moses; a thousand years as yesterday: tagged by Claude (model), reading the
     Hebrew.'

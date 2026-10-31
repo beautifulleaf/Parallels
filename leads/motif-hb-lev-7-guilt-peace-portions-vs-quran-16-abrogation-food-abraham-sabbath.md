@@ -22,8 +22,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Good foods once lawful were forbidden to the Jews as punishment
-    for their wrongdoing [response between the texts] (weight 6.7); Eating blood is forbidden (weight
-    5.6). Pair score 12.3.'
+    for their wrongdoing [response between the texts] (weight 7.7); Eating blood is forbidden (weight
+    6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Guilt and well-being offerings; priests'' portions; fat and blood bans: Fat of a carcass
     or torn animal may be used for work but not eaten; An impure person who eats sacred meat is cut off;
@@ -41,12 +41,12 @@ evidence:
     Spirit (ruh al-qudus) brings the revelation down from God; The Sabbath was imposed only on those who
     differed about it; Parable of a secure town supplied from everywhere which was ungrateful and was
     made to taste the garment of hunger and fear; God abrogates or causes to be forgotten a verse and
-    brings a better or similar one (naskh); One forced to disbelieve while his heart is firm in faith
-    is excused; Only four foods are forbidden: carrion, blood, swine and what is offered to other than
-    God; Only four foods are forbidden: carrion, blood, swine and what is offered to other than God [contrast
-    between the texts]; If you retaliate, do so in kind; but patience is better; The Sabbath was imposed
-    only on those who differed about it [response between the texts]; Forbidden: what has been consecrated
-    (invoked over) to other than God; and 9 more.'
+    brings a better or similar one (naskh); A punishment (skin disease; hunger and fear) put on the guilty
+    like a garment; One forced to disbelieve while his heart is firm in faith is excused; The excuse that
+    one was forced or powerless is put forward for going over to the other side [contrast between the
+    texts]; Fear (and hunger) covers a town''s people like a garment; Only four foods are forbidden: carrion,
+    blood, swine and what is offered to other than God; Only four foods are forbidden: carrion, blood,
+    swine and what is offered to other than God [contrast between the texts]; and 14 more.'
   basis: reading
 - text: 'Guilt and well-being offerings; priests'' portions; fat and blood bans: tagged by Claude (model),
     reading the Hebrew.'

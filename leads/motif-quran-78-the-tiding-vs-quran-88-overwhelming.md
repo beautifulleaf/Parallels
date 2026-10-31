@@ -86,7 +86,7 @@ passages:
   source: Quranic Arabic Corpus (Uthmani script)
   text: وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ
 evidence:
-- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
     longer meet the thresholds after a method change. Kept for review.'
   basis: original
 - text: 'Shared motifs, rarest first: In paradise there is no idle talk (laghw) nor lying (weight 6.3);

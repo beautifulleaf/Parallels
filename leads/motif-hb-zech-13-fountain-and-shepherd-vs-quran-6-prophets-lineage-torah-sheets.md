@@ -18,19 +18,19 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: False prophet put to death (weight 5.8). Pair score 5.8.'
+- text: 'Shared motifs, rarest first: False prophet put to death (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in A cleansing fountain, the end of prophecy, and the struck shepherd: A fountain is opened
-    for the house of David and Jerusalem to cleanse sin and menstrual impurity (niddah); Prophets wear
-    a hairy mantle (adderet se''ar) as a mark of office, here to deceive; Disclaimer: ''I am no prophet;
-    I am a tiller of the soil''; If anyone still prophesies, his own father and mother will pierce him
-    through for speaking falsely in God''s name; In that day God cuts off the names of idols and removes
-    the prophets and the spirit of impurity from the land; ''Awake, sword, against my shepherd, the man
-    who is my fellow; strike the shepherd and the sheep will scatter''; Two-thirds perish and one third
-    is brought through fire, refined like silver and tested like gold; Asked about the wounds ''between
-    your hands'', the man says ''I was struck in the house of my friends (lovers)''; Command to destroy
-    figured stones, molten images and high places of the land; Mutual declaration: Israel avows YHWH as
-    God, YHWH avows Israel as his treasured people.'
+    for the house of David and Jerusalem to cleanse sin and menstrual impurity (niddah); Disclaimer: ''I
+    am no prophet; I am a tiller of the soil''; If anyone still prophesies, his own father and mother
+    will pierce him through for speaking falsely in God''s name; In that day God cuts off the names of
+    idols and removes the prophets and the spirit of impurity from the land; ''Awake, sword, against my
+    shepherd, the man who is my fellow; strike the shepherd and the sheep will scatter''; Two-thirds perish
+    and one third is brought through fire, refined like silver and tested like gold; Asked about the wounds
+    ''between your hands'', the man says ''I was struck in the house of my friends (lovers)''; Prophets
+    wear a hairy mantle (adderet se''ar) as a mark of office, here to deceive; Command to destroy figured
+    stones, molten images and high places of the land; Mutual declaration: Israel avows YHWH as God, YHWH
+    avows Israel as his treasured people.'
   basis: reading
 - text: 'Only in Abraham''s line of eighteen prophets; Torah in sheets; the false claimant: Opponents
     say ''God has sent down nothing to any human''; The intercessors they claimed as partners are not
@@ -41,7 +41,7 @@ evidence:
     is sent to warn ''the mother of towns'' (umm al-qura, Mecca) and those around it; False prophet put
     to death [divergence between the texts]; ''Naked I came from my mother''s womb and naked I shall return
     there''; The Torah contains guidance and light; Angels (God''s messengers) take the souls of the dying;
-    If God wills he takes you away and brings another people in your place; and 1 more.'
+    No one can take his goods with him into death; what he owned falls to others; and 2 more.'
   basis: reading
 - text: 'A cleansing fountain, the end of prophecy, and the struck shepherd: tagged by Claude (model),
     reading the Hebrew.'

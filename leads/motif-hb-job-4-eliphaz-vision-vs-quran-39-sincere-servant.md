@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Book in paired repetitions (mathani) makes the skins of the
-    godfearing shiver, then their skins and hearts soften (weight 6.3). Pair score 6.3.'
+    godfearing shiver, then their skins and hearts soften (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Eliphaz''s first speech, the night vision: God puts no trust in his servants and charges
     his angels with folly; Humans are dwellers in houses of clay founded in dust, crushed like a moth;
-    The roaring lion''s teeth are broken and its cubs scattered (image of the wicked''s end); In a night
-    vision a spirit glides past the seer''s face and his hair bristles with terror; Revelation comes as
-    ''a silence, and a voice'' (demamah vaqol); ''Can a mortal be righteous before God, a man pure before
-    his maker?''; God casts a deep sleep (tardemah) on a man; Friend''s doctrine: no innocent man ever
-    perished; those who plow iniquity reap it.'
+    The roaring lion''s teeth are broken and its cubs scattered (image of the wicked''s end); Revelation
+    comes as ''a silence, and a voice'' (demamah vaqol); In a night vision a spirit glides past the seer''s
+    face and his hair bristles with terror; ''Can a mortal be righteous before God, a man pure before
+    his maker?''; Friend''s doctrine: no innocent man ever perished; those who plow iniquity reap it;
+    God casts a deep sleep (tardemah) on a man.'
   basis: reading
 - text: 'Only in The first of those who submit; canopies of fire; chambers above chambers: An Arabic Quran
     without any crookedness; The damned have canopies (zulal) of fire above them and below them; For the

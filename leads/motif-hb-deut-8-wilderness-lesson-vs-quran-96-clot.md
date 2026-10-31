@@ -19,23 +19,24 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to every slanderer and backbiter (humaza lumaza) who amasses
-    and counts wealth, thinking it makes him immortal (weight 5.6). Pair score 5.6.'
+    and counts wealth, thinking it makes him immortal (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Lessons of the wilderness; the good land; beware of pride: Wilderness of fiery serpents
-    and scorpions; When you eat and are satisfied, bless God for the land; Land whose stones are iron
-    and from whose hills copper is dug; Man does not live by bread alone but by every word from God''s
-    mouth; God tests the community ''until we know'' who strive and are patient; Springs and fruit of
-    the promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I
-    was given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and
-    test Israel; Clothes did not wear out and feet did not swell for forty years; God disciplines Israel
-    as a man disciplines his son; Warning against saying my power and the might of my hand made this wealth;
-    When you eat and are full, beware lest you forget God; and 6 more.'
+    and scorpions; When you eat and are satisfied, bless God for the land; Man does not live by bread
+    alone but by every word from God''s mouth; God tests the community ''until we know'' who strive and
+    are patient; Land whose stones are iron and from whose hills copper is dug; Springs and fruit of the
+    promised land or of the Garden [divergence between the texts]; Given a blessing, man says ''I was
+    given it only because of my knowledge''; it is a trial; The wilderness journey was to humble and test
+    Israel; Warning against saying my power and the might of my hand made this wealth; When you eat and
+    are full, beware lest you forget God; Water brought out of the rock; Wealth and children are a trial
+    (fitna); and 6 more.'
   basis: reading
 - text: 'Only in The clot: recite! and the forelock: Let the opponent call his council (nadi); God will
     call the guards of hell (al-zabaniya); A man who forbids a servant of God to pray is threatened: he
     will be dragged by his lying, sinful forelock; God taught humankind by the pen (qalam) what it did
-    not know; Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then
-    shaped and proportioned; Narrative of a prophet''s commissioning by God.'
+    not know; A man in plenty neglects his god and calls on him only when affliction comes; Human created
+    in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped and proportioned;
+    Narrative of a prophet''s commissioning by God.'
   basis: reading
 - text: 'Lessons of the wilderness; the good land; beware of pride: tagged by Claude (model), reading
     the Hebrew.'

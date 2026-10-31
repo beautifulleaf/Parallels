@@ -18,15 +18,15 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A spring or stream appears for the mother (weight 5.6). Pair score
-    5.6.'
+- text: 'Shared motifs, rarest first: A spring or stream appears for the mother (weight 6.6). Pair score
+    6.6.'
   basis: reading
 - text: 'Only in Hagar and the birth of Ishmael: An angel meets the outcast woman by a spring or well
     in the wilderness; Woman names God El Roi, ''God who sees'', and the well Beer-lahai-roi; The pregnant
     slave-wife looks down on her barren mistress; A divine messenger announces a son''s birth and gives
-    his name [divergence between the texts]; Ishmael foretold to be a wild ass of a man, his hand against
-    all; Mistreated slave-woman flees or is sent into the wilderness; Barren wife gives her slave-girl
-    to her husband to bear children for her; A divine messenger announces a son''s birth and gives his
+    his name [divergence between the texts]; Mistreated slave-woman flees or is sent into the wilderness;
+    Barren wife gives her slave-girl to her husband to bear children for her; Ishmael foretold to be a
+    wild ass of a man, his hand against all; A divine messenger announces a son''s birth and gives his
     name; The patriarch''s wife is barren; Descendants promised to be as countless as the dust, stars
     or sand.'
   basis: reading
@@ -35,11 +35,11 @@ evidence:
     (yawm al-hasra) when the matter is decided; The infant Jesus declares himself God''s servant, given
     the Book and made a prophet; ''That is Jesus son of Mary, the word of truth about which they dispute'';
     Labor pains drive the mother to the trunk of a palm tree; Mary is addressed as ''sister of Aaron'';
-    Mary withdraws from her family to an eastern place behind a screen; The mother returns with the child
-    and her people accuse her of an enormity; A voice from beneath her consoles the mother: ''do not grieve'';
-    The woman seeks refuge in God from the mysterious visitor; A divine messenger announces a son to a
-    virgin untouched by any man [divergence between the texts]; Mother gives birth alone in a remote place;
-    and 20 more.'
+    Mary withdraws from her family to an eastern place behind a screen; A voice from beneath her consoles
+    the mother: ''do not grieve''; The woman seeks refuge in God from the mysterious visitor; A divine
+    messenger announces a son to a virgin untouched by any man [divergence between the texts]; Mother
+    gives birth alone in a remote place; What caused the pregnancy of one who was not expected to bear
+    [divergence between the texts]; and 26 more.'
   basis: reading
 - text: 'Hagar and the birth of Ishmael: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -22,9 +22,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Manna named from the people''s question ''What is it?'' (man hu)
-    (weight 6.3); The people walk on dry ground through the sea with the waters as a wall on either side
-    (weight 5.3); The returning waters drown the pursuing army; not one survives (weight 4.5). Pair score
-    16.1.'
+    (weight 7.3); The people walk on dry ground through the sea with the waters as a wall on either side
+    (weight 6.4); The returning waters drown the pursuing army; not one survives (weight 5.5). Pair score
+    19.2.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''

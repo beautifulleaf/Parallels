@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Making some of God''s provision unlawful and some lawful on your
-    own authority is condemned (weight 6.3); God sets a seal on the unbelievers'' hearts and hearing and
-    a covering over their eyes (weight 5.3). Pair score 11.6.'
+    own authority is condemned (weight 7.3); God sets a seal on the unbelievers'' hearts and hearing and
+    a covering over their eyes (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be
@@ -42,12 +42,12 @@ evidence:
     Spirit (ruh al-qudus) brings the revelation down from God; The Sabbath was imposed only on those who
     differed about it; Parable of a secure town supplied from everywhere which was ungrateful and was
     made to taste the garment of hunger and fear; God abrogates or causes to be forgotten a verse and
-    brings a better or similar one (naskh); One forced to disbelieve while his heart is firm in faith
-    is excused; Only four foods are forbidden: carrion, blood, swine and what is offered to other than
-    God; Only four foods are forbidden: carrion, blood, swine and what is offered to other than God [contrast
-    between the texts]; Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing
-    [response between the texts]; If you retaliate, do so in kind; but patience is better; The Sabbath
-    was imposed only on those who differed about it [response between the texts]; and 9 more.'
+    brings a better or similar one (naskh); A punishment (skin disease; hunger and fear) put on the guilty
+    like a garment; One forced to disbelieve while his heart is firm in faith is excused; The excuse that
+    one was forced or powerless is put forward for going over to the other side [contrast between the
+    texts]; Fear (and hunger) covers a town''s people like a garment; Only four foods are forbidden: carrion,
+    blood, swine and what is offered to other than God; Only four foods are forbidden: carrion, blood,
+    swine and what is offered to other than God [contrast between the texts]; and 14 more.'
   basis: reading
 - text: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay: tagged
     by Claude (model), reading the Hebrew.'

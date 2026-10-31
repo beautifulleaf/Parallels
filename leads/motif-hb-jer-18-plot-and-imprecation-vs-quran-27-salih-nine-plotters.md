@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nine men of the city swear by God to attack the prophet and his
-    family by night and deny it to his avenger (weight 6.7). Pair score 6.7.'
+    family by night and deny it to his avenger (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Fourth confession - let us smite him with the tongue: Enemies dig a pit and hide snares
     for the righteous one who once interceded for them; ''Torah shall not perish from the priest, nor
@@ -33,6 +33,7 @@ evidence:
     seek his life: ''Do not prophesy in YHWH''s name or you will die by our hand''; The prophet Ṣāliḥ
     is sent to the people of Thamūd; King calls the prophet ''troubler of Israel'' (okher Yisra''el);
     prophet returns the charge; They plot a plot, and God plots a plot; give the deniers respite a little;
+    Augury: a bird''s flight or alighting is an omen bound to a person [divergence between the texts];
     Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to his people;
     The listeners walk among the dwellings of generations God destroyed, a sign.'
   basis: reading

@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses strikes the rock for water [divergence between the texts]
-    (weight 6.3); The people grumble against their leaders about food or water (weight 5.1). Pair score
-    11.4.'
+    (weight 7.3); The people grumble against their leaders about food or water (weight 6.1). Pair score
+    13.5.'
   basis: reading
 - text: 'Only in Miriam''s death; water from the rock at Meribah: Death and burial of the hero''s sister;
     Leader strikes the rock (twice) instead of speaking to it; Water brought out of a rock by the leader''s

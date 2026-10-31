@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Married women are forbidden except those one''s right hand possesses
-    (captives) (weight 6.7). Pair score 6.7.'
+    (captives) (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: Captive
     wife who is no longer wanted must be freed, not sold; Captive woman shaves her head, pares her nails,
-    mourns her parents a month before marriage; Elders wash their hands over the heifer: our hands did
-    not shed this blood; Body hanged on a tree must be buried the same day; the hanged is a curse of God;
-    A boy is killed lest he burden his believing parents with rebellion; God will give them a better child
-    [contrast between the texts]; Who receives a double share of inheritance [divergence between the texts];
-    Firstborn of the unloved wife keeps the double portion; A heifer and a killing whose perpetrator is
-    unknown [divergence between the texts]; A man may marry two, three or four wives, or only one if he
-    fears injustice; A son who rejects his parents: the charge and the penalty [divergence between the
-    texts]; Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city; Unsolved
-    murder: elders of nearest city break the neck of an unworked heifer in an untilled wadi; and 1 more.'
+    mourns her parents a month before marriage; Body hanged on a tree must be buried the same day; the
+    hanged is a curse of God; A boy is killed lest he burden his believing parents with rebellion; God
+    will give them a better child [contrast between the texts]; Who receives a double share of inheritance
+    [divergence between the texts]; Firstborn of the unloved wife keeps the double portion; Elders wash
+    their hands over the heifer: our hands did not shed this blood; A heifer and a killing whose perpetrator
+    is unknown [divergence between the texts]; A man may marry two, three or four wives, or only one if
+    he fears injustice; A son who rejects his parents: the charge and the penalty [divergence between
+    the texts]; Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled
+    wadi; Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city; and 1 more.'
   basis: reading
 - text: 'Only in Inheriting women, the dowry, and the forbidden degrees: A husband exchanging one wife
     for another may not take back anything he gave, even a qinṭār; God wishes to lighten your burden,
@@ -42,9 +42,9 @@ evidence:
     a slave woman designated to another man: inquiry and guilt offering, not death, because she is not
     free; The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit
     part; List of forbidden close-kin unions (''uncovering nakedness'') [divergence between the texts];
-    Marrying two sisters [divergence between the texts]; A man may not marry his wife''s sister as a rival
-    while the wife lives; What becomes of a dead man''s widow within his family [contrast between the
-    texts]; and 4 more.'
+    A man marries a slave woman by leave of her owner and with a payment; Marrying two sisters [divergence
+    between the texts]; A man may not marry his wife''s sister as a rival while the wife lives; and 6
+    more.'
   basis: reading
 - text: 'Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body: tagged by Claude
     (model), reading the Hebrew.'

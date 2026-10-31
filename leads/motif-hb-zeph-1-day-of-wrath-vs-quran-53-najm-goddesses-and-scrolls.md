@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''The imminent (al-azifa) has drawn near''; none but God can remove
-    it (weight 6.7). Pair score 6.7.'
+    it (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Zephaniah''s Day of YHWH against Judah: Men thickened on their lees who say in their
     hearts ''YHWH will do neither good nor evil''; The Day of YHWH is a sacrifice he has prepared, with
@@ -44,7 +44,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 15 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 19 more.'
   basis: reading
 - text: 'Zephaniah''s Day of YHWH against Judah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

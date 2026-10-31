@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is excused from going out to war [divergence between the texts]
-    (weight 6.7); Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-    (weight 5.8). Pair score 12.5.'
+    (weight 7.7); Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
+    (weight 6.5). Pair score 14.2.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -40,10 +40,11 @@ evidence:
     in unbelief and hypocrisy; Shirkers say ''do not go out in the heat''; hell''s fire is hotter; Poor
     volunteers turn away weeping because the prophet has no mounts for them; Let them laugh a little and
     weep much; Even in laughter the heart may ache, and the end of joy is grief; The prophet must never
-    pray over a dead hypocrite or stand at his grave; Catalogue of believers: repenting, worshiping, praising,
-    wandering/fasting (sa''ihun), bowing, prostrating, enjoining right; God uses the unbelievers'' wealth
-    and children to punish them in this life; Hypocrites swear excuses and ask permission to stay behind
-    from the campaign; God seals (tab'') the hearts of deniers so they do not hear.'
+    pray over a dead hypocrite or stand at his grave; The desert nomad does not know the gods'' place
+    or God''s limits, and does not pray; Catalogue of believers: repenting, worshiping, praising, wandering/fasting
+    (sa''ihun), bowing, prostrating, enjoining right; God uses the unbelievers'' wealth and children to
+    punish them in this life; Hypocrites swear excuses and ask permission to stay behind from the campaign;
+    God seals (tab'') the hearts of deniers so they do not hear.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

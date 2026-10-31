@@ -18,25 +18,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God reassures the frightened prophet: ''Do not fear them, for I
-    am with you to deliver you'' (weight 6.0). Pair score 6.0.'
+    am with you to deliver you'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Second confession - woe that my mother bore me; your words I ate: The prophet accuses
     God of being to him like a deceitful brook, waters that fail; If the prophet returns and brings out
     the precious from the worthless, he will be as God''s mouth; The prophet found God''s words and ate
     them, and they became his joy; The prophet did not sit in the company of merrymakers but sat alone
-    because of God''s hand; God makes the prophet a fortified city, an iron pillar and bronze walls against
-    the whole land; The sufferer curses the day of his birth and the night of his conception; The persecuted
-    prophet asks God to let him see vengeance on his enemies; Jeremiah''s ''confessions'': the prophet''s
-    personal laments and complaints to God about his mission and persecutors.'
+    because of God''s hand; The sufferer curses the day of his birth and the night of his conception;
+    God makes the prophet a fortified city, an iron pillar and bronze walls against the whole land; The
+    persecuted prophet asks God to let him see vengeance on his enemies; Jeremiah''s ''confessions'':
+    the prophet''s personal laments and complaints to God about his mission and persecutors.'
   basis: reading
 - text: 'Only in Hud and Ad: There is no creature but God holds it by its forelock; The people say one
-    of their gods has struck the prophet with madness; Prophet challenges the idolaters to call their
-    partners and plot against him without delay; Seek forgiveness and repent, and God will send the sky
-    down on you in abundant rain; Refrain ''away with...'' (bu''dan li-) the destroyed people; Heaven
-    is shut and no rain falls because of the people''s sin; repentance brings rain; A seer faced with
-    payment or worldly gain [contrast between the texts]; Prophet''s refrain to his people: ''Worship
+    of their gods has struck the prophet with madness; The deity holds all living beings by a hold on
+    the head (nose-rope, forelock), as a herder leads animals [divergence between the texts]; The deity
+    holds a person (or every creature) by the lock of hair on the forehead; Prophet challenges the idolaters
+    to call their partners and plot against him without delay; Seek forgiveness and repent, and God will
+    send the sky down on you in abundant rain; Refrain ''away with...'' (bu''dan li-) the destroyed people;
+    A seer faced with payment or worldly gain [contrast between the texts]; Heaven is shut and no rain
+    falls because of the people''s sin; repentance brings rain; Prophet''s refrain to his people: ''Worship
     God; you have no god other than him''; If God wills he takes you away and brings another people in
-    your place; The Prophet asks no wage for the message; Hero''s family saved with him.'
+    your place; The Prophet asks no wage for the message; and 1 more.'
   basis: reading
 - text: 'Second confession - woe that my mother bore me; your words I ate: tagged by Claude (model), reading
     the Hebrew.'

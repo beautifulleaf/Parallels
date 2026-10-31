@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shows the path of life; fullness of joy in his presence, pleasures
-    at his right hand forever (weight 6.7). Pair score 6.7.'
+    at his right hand forever (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 16 - YHWH my portion; not abandoned to Sheol: I have set YHWH always before me;
     he is at my right hand; Obscure reference to ''the holy ones who are in the land'' and ''the mighty
@@ -38,10 +38,10 @@ evidence:
     ''Peace, peace''; The Companions of the Right are among thornless lote trees (sidr makhdud) and layered
     talh (acacia/banana) with extended shade and poured water; Humanity sorted into three classes: Companions
     of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; Bird-meat as desired
-    food: punished or granted [contrast between the texts]; The earth is shaken violently and the mountains
+    food: punished or granted [contrast between the texts]; Young servers go round with a variety of vessels
+    serving a mixed drink [divergence between the texts]; The earth is shaken violently and the mountains
     crumbled into scattered dust (haba''); Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; Into how many
-    groups humankind is sorted at the end [divergence between the texts]; and 11 more.'
+    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; and 12 more.'
   basis: reading
 - text: 'Psalm 16 - YHWH my portion; not abandoned to Sheol: tagged by Claude (model), reading the Hebrew.'
   basis: reading

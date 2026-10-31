@@ -23,9 +23,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Moses does with the sea after the crossing [divergence between
-    the texts] (weight 6.7); The people walk on dry ground through the sea with the waters as a wall on
-    either side (weight 5.3); The returning waters drown the pursuing army; not one survives (weight 4.5).
-    Pair score 16.5.'
+    the texts] (weight 7.7); The people walk on dry ground through the sea with the waters as a wall on
+    either side (weight 6.4); The returning waters drown the pursuing army; not one survives (weight 5.5).
+    Pair score 19.7.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -44,11 +44,12 @@ evidence:
     the sea parted and still (rahwan), for Pharaoh''s host will be drowned; What Moses demands of Pharaoh
     in God''s name [divergence between the texts]; Sacrificial meal eaten in haste, loins girded, sandals
     on, staff in hand; Who, if anyone, inherits Egypt''s land after the exodus [divergence between the
-    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; God chose
-    the Children of Israel, knowingly, above the worlds and tested them with signs; How Israel leaves
-    Egypt by night: expelled, or secretly [divergence between the texts]; The prophet seeks refuge in
-    God from being stoned by his people; Whether heaven and earth mourn a destroyed people [contrast between
-    the texts]; Prophet delivers God''s demand ''Let my people go that they may serve me''.'
+    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; Whether
+    heaven and earth mourn a destroyed people; God chose the Children of Israel, knowingly, above the
+    worlds and tested them with signs; How Israel leaves Egypt by night: expelled, or secretly [divergence
+    between the texts]; A city, or heaven and earth, weeps (or does not weep) over a people in disaster
+    [divergence between the texts]; The prophet seeks refuge in God from being stoned by his people; and
+    3 more.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

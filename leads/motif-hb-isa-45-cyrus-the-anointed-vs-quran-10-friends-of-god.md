@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I form light and create darkness, make peace and create evil (ra'');
-    I YHWH do all these'' (weight 6.0). Pair score 6.0.'
+    I YHWH do all these'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls

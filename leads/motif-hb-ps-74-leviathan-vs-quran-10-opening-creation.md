@@ -19,30 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
-    (weight 4.7). Pair score 4.7.'
+    (weight 5.5). Pair score 5.5.'
   basis: reading
 - text: 'Only in Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan: Call ''Arise,
     O God, plead your own cause''; Prayer not to hand the soul of God''s turtledove to the wild beast;
-    God is king from of old (qedem), working salvation in the midst of the earth; God broke the heads
-    of the sea dragons (tanninim) on the waters; Enemies burn all the meeting places (mo''adei El) of
-    God in the land; God crushed the heads (plural) of Leviathan, the many-headed sea serpent; Complaint
-    that there are no signs and no prophet anymore, none who knows how long; God split or shattered the
-    sea (Yam) by his might; God split open springs and torrents and dried up ever-flowing rivers; God
-    fixed all the boundaries of the earth and formed summer and winter; The slain Leviathan is given as
-    food to the desert creatures or people; Enemies roar in the sanctuary, hack its carved work with axes
-    and burn it to the ground [divergence between the texts]; and 5 more.'
+    God is king from of old (qedem), working salvation in the midst of the earth; Enemies burn all the
+    meeting places (mo''adei El) of God in the land; Complaint that there are no signs and no prophet
+    anymore, none who knows how long; God split or shattered the sea (Yam) by his might; God split open
+    springs and torrents and dried up ever-flowing rivers; God broke the heads of the sea dragons (tanninim)
+    on the waters; God fixed all the boundaries of the earth and formed summer and winter; The slain Leviathan
+    is given as food to the desert creatures or people; Enemies roar in the sanctuary, hack its carved
+    work with axes and burn it to the ground [divergence between the texts]; God crushed the heads (plural)
+    of Leviathan, the many-headed sea serpent; and 5 more.'
   basis: reading
 - text: 'Only in The wise Book, creation, sun and moon, the prayer of paradise: Sun and moon are set to
     rule day and night and mark signs and seasons [divergence between the texts]; The blessed in paradise
     cry ''Glory to you, O God'', greet with ''Peace'' and end with ''Praise be to God, Lord of the worlds'';
     The damned are given a drink of boiling water (hamim); God made the sun a radiance and the moon a
     light with measured stations, to count years and reckoning; People marvel that a reminder came through
-    a man from among them; Creation is completed in six days [divergence between the texts]; God originates
-    creation and then repeats it (resurrection as re-creation); Opponents call the prophet or his message
-    ''manifest sorcery''; Creation is completed in six days; After creating the heavens and earth God
-    established himself on the Throne (istawa ''ala l-''arsh); Intercession avails only for whom God permits;
-    Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever; and 1
-    more.'
+    a man from among them; Creation is completed in six days [divergence between the texts]; Months (or
+    the moon) are set in their houses or stations so that the years can be counted; God originates creation
+    and then repeats it (resurrection as re-creation); Opponents call the prophet or his message ''manifest
+    sorcery''; Creation is completed in six days; After creating the heavens and earth God established
+    himself on the Throne (istawa ''ala l-''arsh); Intercession avails only for whom God permits; and
+    2 more.'
   basis: reading
 - text: 'Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan: tagged by Claude (model),
     reading the Hebrew.'

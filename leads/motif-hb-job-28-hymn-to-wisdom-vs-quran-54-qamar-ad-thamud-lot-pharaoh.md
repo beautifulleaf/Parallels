@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God created everything by measure/decree (bi-qadar) (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: God created everything by measure/decree (bi-qadar) (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in The hymn to hidden wisdom: Abaddon and Death say ''We have heard a rumor of it with our
     ears''; The Deep (tehom) says ''It is not in me'' and the Sea says ''It is not with me''; From the
@@ -30,21 +30,20 @@ evidence:
     wisdom be found, and where is the place of understanding?'' (refrain); At creation God fixed the weight
     of the wind, the measure of the waters, a decree for the rain and a way for the thunderbolt; Wisdom
     cannot be bought with gold of Ophir, onyx, sapphire, glass, coral, crystal, pearls or topaz of Cush;
-    Land near paradise rich in gold and precious stones; ''The fear of the Lord, that is wisdom; and to
-    depart from evil is understanding''.'
+    ''The fear of the Lord, that is wisdom; and to depart from evil is understanding''; Land near paradise
+    rich in gold and precious stones.'
   basis: reading
 - text: 'Only in Refrains over ''Ad, Thamud''s she-camel, Lot''s guests and Pharaoh; everything by measure;
     the seat of truth: God''s command is but one, like a blink of the eye; The guilty are dragged on their
     faces into the Fire: ''Taste the touch of Saqar''; The God-fearing are in gardens and a river, in
     a seat of truth with an all-powerful King; A single Cry (sayha) is sent and they become like the dry
     stubble of a pen-builder; When they solicited Lot''s guests, God obliterated their eyes; ''The host
-    will be routed and turn their backs'' (applied to Badr); Everything they did is in the scriptures
-    (zubur); every small and great thing is written down; ''Are your unbelievers better than those, or
-    have you an immunity (bara''a) in the scriptures (zubur)?''; Lot''s family is saved at the time before
-    dawn (bi-sahar) while a storm of stones (hasib) destroys the rest; Supernatural being must leave before
-    daybreak; Refrain: ''How then were my punishment and my warnings?'' (fa-kayfa kana ''adhabi wa-nudhur);
-    Refrain: ''We have made the Quran easy to remember; is there anyone who will remember?'' (fa-hal min
-    muddakir); and 12 more.'
+    will be routed and turn their backs'' (applied to Badr); The high god''s command is spoken once only:
+    not twice, not turned back; Everything they did is in the scriptures (zubur); every small and great
+    thing is written down; ''Are your unbelievers better than those, or have you an immunity (bara''a)
+    in the scriptures (zubur)?''; Lot''s family is saved at the time before dawn (bi-sahar) while a storm
+    of stones (hasib) destroys the rest; Supernatural being must leave before daybreak; The destroying
+    wind carries the people away; and 14 more.'
   basis: reading
 - text: 'The hymn to hidden wisdom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

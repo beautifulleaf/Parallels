@@ -12,18 +12,18 @@ traditions:
 layers:
 - motif
 motifs:
-- eagle-spreads-wings-over-nation
-- warriors-hearts-like-woman-in-labor
 - god-of-nation-goes-into-exile
+- eagle-spreads-wings-over-nation
 - restoration-of-foreign-nation-in-latter-days
+- warriors-hearts-like-woman-in-labor
 - oracles-against-nations
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The enemy swoops like an eagle and spreads its wings over a land
-    (weight 6.7); The heart of warriors on that day is like the heart of a woman in labor (weight 6.7);
-    A conquered nation''s god goes into exile with his priests and princes (weight 6.7); God will restore
-    the fortunes of a foreign nation in the latter days (weight 6.7); Brief oracles against neighboring
-    nations (Amalek, Kenite, Asshur, Kittim) (weight 4.6). Pair score 31.4.'
+- text: 'Shared motifs, rarest first: A conquered nation''s god goes into exile with his priests and princes
+    (weight 7.7); The enemy swoops like an eagle and spreads its wings over a land (weight 7.7); God will
+    restore the fortunes of a foreign nation in the latter days (weight 7.7); The heart of warriors on
+    that day is like the heart of a woman in labor (weight 7.7); Brief oracles against neighboring nations
+    (Amalek, Kenite, Asshur, Kittim) (weight 5.7). Pair score 36.6.'
   basis: reading
 - text: 'Only in Oracle against Moab: wine settled on its lees, Chemosh into exile: Lament: how the mighty
     staff, the glorious rod, is broken; The nation is broken like a vessel no one wants; Long list of
@@ -36,15 +36,15 @@ evidence:
     at ease like wine settled on its lees, never poured from vessel to vessel; and 6 more.'
   basis: reading
 - text: 'Only in Oracles against Ammon, Edom, Damascus, Kedar and Hazor, and Elam: Desert peoples described
-    as those with the corners of their hair clipped; God breaks the bow of Elam, the chief of their might;
-    A people at ease that dwells alone with neither gates nor bars; The cry at a nation''s fall is heard
-    as far as the Red Sea; God brings the four winds from the four ends of heaven to scatter a people;
-    God sets his own throne in a conquered foreign land; Milcom (their ''king'') dispossessed the tribe
-    of Gad and will go into exile; Though you make your nest as high as the eagle''s, God will bring you
-    down; Fire kindled in the wall of Damascus devours the palaces of Ben-hadad; A ruined city becomes
-    a haunt of jackals, desolate forever; An envoy is sent among the nations to summon them to battle;
-    Grape-gatherers would leave gleanings and thieves take only enough, but God strips the nation bare;
-    and 7 more.'
+    as those with the corners of their hair clipped; A people at ease that dwells alone with neither gates
+    nor bars; The cry at a nation''s fall is heard as far as the Red Sea; God brings the four winds from
+    the four ends of heaven to scatter a people; God sets his own throne in a conquered foreign land;
+    Milcom (their ''king'') dispossessed the tribe of Gad and will go into exile; Though you make your
+    nest as high as the eagle''s, God will bring you down; Fire kindled in the wall of Damascus devours
+    the palaces of Ben-hadad; God breaks the bow of Elam, the chief of their might; An envoy is sent among
+    the nations to summon them to battle; Grape-gatherers would leave gleanings and thieves take only
+    enough, but God strips the nation bare; The conqueror comes up like a lion from the jungle of the
+    Jordan; and 7 more.'
   basis: reading
 - text: 'Oracle against Moab: wine settled on its lees, Chemosh into exile: tagged by Claude (model),
     reading the Hebrew.'
@@ -54,7 +54,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: The enemy swoops like an eagle and spreads its wings over a land
+finding: A conquered nation's god goes into exile with his priests and princes
 kinds:
 - shared
 units:
@@ -65,39 +65,6 @@ units:
   title: Oracles against Ammon, Edom, Damascus, Kedar and Hazor, and Elam
   tradition: judaism
 matches:
-- kind: shared
-  label: The enemy swoops like an eagle and spreads its wings over a land
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Jer 48:40
-      lang: he
-      text: כִּי כֹה֙ אָמַ֣ר יְהוָ֔ה הִנֵּ֥ה כַנֶּ֖שֶׁר יִדְאֶ֑ה וּפָרַ֥שׂ כְּנָפָ֖יו אֶל מוֹאָֽב
-  - tradition: judaism
-    passages:
-    - ref: Jer 49:22
-      lang: he
-      text: הִנֵּ֤ה כַנֶּ֨שֶׁר֙ יַעֲלֶ֣ה וְיִדְאֶ֔ה וְיִפְרֹ֥שׂ כְּנָפָ֖יו עַל בָּצְרָ֑ה וְֽ֠הָיָה לֵ֞ב
-        גִּבּוֹרֵ֤י אֱדוֹם֙ בַּיּ֣וֹם הַה֔וּא כְּלֵ֖ב אִשָּׁ֥ה מְצֵרָֽה
-- kind: shared
-  label: The heart of warriors on that day is like the heart of a woman in labor
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Jer 48:41
-      lang: he
-      text: נִלְכְּדָה֙ הַקְּרִיּ֔וֹת וְהַמְּצָד֖וֹת נִתְפָּ֑שָׂה וְֽ֠הָיָה לֵ֞ב גִּבּוֹרֵ֤י מוֹאָב֙ בַּיּ֣וֹם
-        הַה֔וּא כְּלֵ֖ב אִשָּׁ֥ה מְצֵרָֽה
-  - tradition: judaism
-    passages:
-    - ref: Jer 49:22
-      lang: he
-      text: הִנֵּ֤ה כַנֶּ֨שֶׁר֙ יַעֲלֶ֣ה וְיִדְאֶ֔ה וְיִפְרֹ֥שׂ כְּנָפָ֖יו עַל בָּצְרָ֑ה וְֽ֠הָיָה לֵ֞ב
-        גִּבּוֹרֵ֤י אֱדוֹם֙ בַּיּ֣וֹם הַה֔וּא כְּלֵ֖ב אִשָּׁ֥ה מְצֵרָֽה
-    - ref: Jer 49:24
-      lang: he
-      text: רָפְתָ֥ה דַמֶּ֛שֶׂק הִפְנְתָ֥ה לָנ֖וּס וְרֶ֣טֶט הֶחֱזִ֑יקָה צָרָ֧ה וַחֲבָלִ֛ים אֲחָזַ֖תָּה
-        כַּיּוֹלֵדָֽה
 - kind: shared
   label: A conquered nation's god goes into exile with his priests and princes
   sides:
@@ -119,6 +86,20 @@ matches:
         סְפֹ֕דְנָה וְהִתְשׁוֹטַ֖טְנָה בַּגְּדֵר֑וֹת כִּ֤י מַלְכָּם֙ בַּגּוֹלָ֣ה יֵלֵ֔ךְ כֹּהֲנָ֥יו וְשָׂרָ֖יו
         יַחְדָּֽיו
 - kind: shared
+  label: The enemy swoops like an eagle and spreads its wings over a land
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 48:40
+      lang: he
+      text: כִּי כֹה֙ אָמַ֣ר יְהוָ֔ה הִנֵּ֥ה כַנֶּ֖שֶׁר יִדְאֶ֑ה וּפָרַ֥שׂ כְּנָפָ֖יו אֶל מוֹאָֽב
+  - tradition: judaism
+    passages:
+    - ref: Jer 49:22
+      lang: he
+      text: הִנֵּ֤ה כַנֶּ֨שֶׁר֙ יַעֲלֶ֣ה וְיִדְאֶ֔ה וְיִפְרֹ֥שׂ כְּנָפָ֖יו עַל בָּצְרָ֑ה וְֽ֠הָיָה לֵ֞ב
+        גִּבּוֹרֵ֤י אֱדוֹם֙ בַּיּ֣וֹם הַה֔וּא כְּלֵ֖ב אִשָּׁ֥ה מְצֵרָֽה
+- kind: shared
   label: God will restore the fortunes of a foreign nation in the latter days
   sides:
   - tradition: judaism
@@ -135,6 +116,25 @@ matches:
     - ref: Jer 49:39
       lang: he
       text: וְהָיָ֣ה בְּאַחֲרִ֣ית הַיָּמִ֗ים אשוב אָשִׁ֛יב אֶת שבית שְׁב֥וּת עֵילָ֖ם נְאֻם יְהוָֽה
+- kind: shared
+  label: The heart of warriors on that day is like the heart of a woman in labor
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 48:41
+      lang: he
+      text: נִלְכְּדָה֙ הַקְּרִיּ֔וֹת וְהַמְּצָד֖וֹת נִתְפָּ֑שָׂה וְֽ֠הָיָה לֵ֞ב גִּבּוֹרֵ֤י מוֹאָב֙ בַּיּ֣וֹם
+        הַה֔וּא כְּלֵ֖ב אִשָּׁ֥ה מְצֵרָֽה
+  - tradition: judaism
+    passages:
+    - ref: Jer 49:22
+      lang: he
+      text: הִנֵּ֤ה כַנֶּ֨שֶׁר֙ יַעֲלֶ֣ה וְיִדְאֶ֔ה וְיִפְרֹ֥שׂ כְּנָפָ֖יו עַל בָּצְרָ֑ה וְֽ֠הָיָה לֵ֞ב
+        גִּבּוֹרֵ֤י אֱדוֹם֙ בַּיּ֣וֹם הַה֔וּא כְּלֵ֖ב אִשָּׁ֥ה מְצֵרָֽה
+    - ref: Jer 49:24
+      lang: he
+      text: רָפְתָ֥ה דַמֶּ֛שֶׂק הִפְנְתָ֥ה לָנ֖וּס וְרֶ֣טֶט הֶחֱזִ֑יקָה צָרָ֧ה וַחֲבָלִ֛ים אֲחָזַ֖תָּה
+        כַּיּוֹלֵדָֽה
 - kind: shared
   label: Brief oracles against neighboring nations (Amalek, Kenite, Asshur, Kittim)
   sides:

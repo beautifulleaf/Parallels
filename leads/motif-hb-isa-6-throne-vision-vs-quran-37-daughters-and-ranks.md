@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angels say: each of us has a known station; we are ranged in
-    ranks; we glorify (weight 6.7). Pair score 6.7.'
+    ranks; we glorify (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -28,22 +28,22 @@ evidence:
     terebinth or oak whose stump is the holy seed; At the heavenly voice the doorposts shake and the house
     fills with smoke; Prophet sees the Lord seated on a high and lifted-up throne, his train filling the
     temple; Heavenly beings call ''Holy, holy, holy is YHWH of hosts; the whole earth is full of his glory'';
-    God asks ''Whom shall I send, and who will go for us?'' and the prophet volunteers ''Here am I, send
-    me''; Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; God
-    has not given the people a heart to know, eyes to see, ears to hear until today [divergence between
-    the texts]; Hardening of the heart, ears and eyes of the hearers [divergence between the texts]; God
-    is ''Lord of the mighty Throne'' (rabb al-''arsh al-''azim); The prophet''s word and a people deaf
-    and blind to it [divergence between the texts]; and 11 more.'
+    Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; God has
+    not given the people a heart to know, eyes to see, ears to hear until today [divergence between the
+    texts]; Hardening of the heart, ears and eyes of the hearers [divergence between the texts]; God is
+    ''Lord of the mighty Throne'' (rabb al-''arsh al-''azim); The prophet''s word and a people deaf and
+    blind to it [divergence between the texts]; A revealed surah increases believers in faith and the
+    sick-hearted in filth; and 11 more.'
   basis: reading
 - text: 'Only in Daughters of God denied; the angels'' stations; closing doxology: Idolaters claim a kinship
     (nasab) between God and the jinn; the jinn know they will be brought to judgment; When the punishment
     descends in their courtyard, evil will be the morning of those who were warned; Closing doxology:
     glory to your Lord, Lord of might, above what they describe; peace on the messengers; praise to God,
-    Lord of the worlds; A closing doxology and the divine title it uses [divergence between the texts];
-    Whether God has, begets or takes sons or other offspring [contrast between the texts]; Polemic against
-    assigning daughters to God (the angels as females) while preferring sons for themselves; Scoffers
-    ask the prophet to hasten the punishment; it is held back only by an appointed term and will come
-    suddenly.'
+    Lord of the worlds; Whether the divine attendants (heralds [divergence between the texts]; A closing
+    doxology and the divine title it uses [divergence between the texts]; Whether God has, begets or takes
+    sons or other offspring [contrast between the texts]; Polemic against assigning daughters to God (the
+    angels as females) while preferring sons for themselves; Scoffers ask the prophet to hasten the punishment;
+    it is held back only by an appointed term and will come suddenly.'
   basis: reading
 - text: 'The throne vision and the call of Isaiah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -18,30 +18,31 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The people break the covenant God made with them (weight 6.7). Pair
-    score 6.7.'
+- text: 'Shared motifs, rarest first: The people break the covenant God made with them (weight 7.7). Pair
+    score 7.7.'
   basis: reading
 - text: 'Only in Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured
     city: In the new age no one will need to teach his neighbor ''Know YHWH'', for all will know him;
     The blind, the lame and women in labor are among the returning exiles; Ephraim likens himself to an
     untrained calf, chastised, and slaps his thigh in repentance; God has loved his people with an everlasting
     love and drawn them with faithfulness; God creates a new thing on earth: ''a female shall encompass
-    a man''; God declares ''I am a father to Israel''; God will forgive iniquity and remember sin no more;
-    God who stirs up the sea so its waves roar; God''s innards yearn (hamu me''ai) with compassion for
-    his wayward son; The people who survived the sword found grace in the wilderness; If the heavens above
-    could be measured and the earth''s foundations searched out, God would reject Israel; God will make
-    a new covenant with Israel and Judah, unlike the one broken after the exodus; and 22 more.'
+    a man''; God will forgive iniquity and remember sin no more; God who stirs up the sea so its waves
+    roar; God''s innards yearn (hamu me''ai) with compassion for his wayward son; The people who survived
+    the sword found grace in the wilderness; If the heavens above could be measured and the earth''s foundations
+    searched out, God would reject Israel; God will make a new covenant with Israel and Judah, unlike
+    the one broken after the exodus; The prophet awakes from a vision-sleep that was sweet to him; and
+    22 more.'
   basis: reading
 - text: 'Only in Call to worship the Creator; the challenge; paradise and the gnat: God is not ashamed
     to strike a parable of a gnat or something smaller; Fruits in paradise resemble those of earth: ''this
     is what we were given before''; A challenge to rivals to prove a divine claim [divergence between
-    the texts]; God takes life and gives it again [divergence between the texts]; Humans were dead, given
-    life, will die and be given life again (two deaths, two lives); God stretches out the heavens like
-    a tent curtain; Hell''s fire has men and stones as its fuel; The blessed have purified spouses (azwaj
-    mutahhara) in paradise; God summons the coastlands and nations (and their gods) to a court trial to
-    argue their case; God fashions seven heavens; Inimitability challenge: produce a surah like it, calling
-    on your own witnesses (tahaddi); God visits the earth with rain, softens it with showers, and crowns
-    the year with harvest; and 2 more.'
+    the texts]; In the hereafter the dead eat the like of what they ate on earth; God takes life and gives
+    it again [divergence between the texts]; Humans were dead, given life, will die and be given life
+    again (two deaths, two lives); God stretches out the heavens like a tent curtain; Hell''s fire has
+    men and stones as its fuel; The blessed have purified spouses (azwaj mutahhara) in paradise; God summons
+    the coastlands and nations (and their gods) to a court trial to argue their case; The creator made
+    heaven and earth, light, air and food ''for their sake'' (n-jb =sn), for humankind; God fashions seven
+    heavens; and 4 more.'
   basis: reading
 - text: 'Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city:
     tagged by Claude (model), reading the Hebrew.'

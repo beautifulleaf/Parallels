@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A believing man of Pharaoh''s family who concealed his faith defends
-    Moses: ''Will you kill a man for saying my Lord is God?'' (weight 6.3). Pair score 6.3.'
+    Moses: ''Will you kill a man for saying my Lord is God?'' (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Plagues 8-9: locusts and darkness: The king''s own servants urge him to let the people
     go; King tells the prophet never to see his face again or he will die; During the plague of darkness

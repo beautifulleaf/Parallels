@@ -19,18 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the great lights: the sun to rule the day, the moon and
-    stars to rule the night (weight 6.3). Pair score 6.3.'
+    stars to rule the night (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); Deity rests on the seventh day after creating, and sanctifies it [divergence
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; Deity rests on the seventh day after creating, and sanctifies it [divergence
     between the texts]; A divine wind or spirit hovers or moves over the primeval waters; God made every
     living thing from water [divergence between the texts]; God speaks to heavenly beings about making
     man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
     apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; and 27 more.'
+    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+    Sun and moon are set to rule day and night and mark signs and seasons [divergence between the texts];
+    Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years; and 27 more.'
   basis: reading
 - text: 'Only in Noah''s preaching, the five idols and the flood: Because of their sins they were drowned
     and then made to enter a fire; The people put their fingers in their ears and wrap their garments
@@ -38,13 +39,12 @@ evidence:
     Yaghuth, Ya''uq and Nasr; The flood hero prays for forgiveness for himself, his parents, whoever enters
     his house believing, and all believers; God caused humans to grow from the earth like a plant, returns
     them to it and will bring them out again; Prophet summons his people night and day, openly and in
-    secret, yet they only flee further; Human comes from dust and returns to dust [divergence between
-    the texts]; Deity resolves or promises not to repeat the destruction [divergence between the texts];
-    Destruction motivated by human wickedness or violence [divergence between the texts]; Seek forgiveness
-    and repent, and God will send the sky down on you in abundant rain [divergence between the texts];
-    God created seven heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens) above
-    humans; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur) within the heavens;
-    and 13 more.'
+    secret, yet they only flee further; People are put into the earth and brought out of it again [divergence
+    between the texts]; Destroying a people together with their offspring because of their character [neutral]
+    [divergence between the texts]; Human comes from dust and returns to dust [divergence between the
+    texts]; Before the flood the hero tells his city that heaven will rain plenty on them [divergence
+    between the texts]; A wish that no one be left alive by the destruction [divergence between the texts];
+    Deity resolves or promises not to repeat the destruction [divergence between the texts]; and 19 more.'
   basis: reading
 - text: 'Creation in six days and the seventh-day rest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

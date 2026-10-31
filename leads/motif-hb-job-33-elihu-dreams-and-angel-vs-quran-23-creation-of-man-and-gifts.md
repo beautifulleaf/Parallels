@@ -20,33 +20,35 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The speaker too was ''pinched off from clay'' (qoratsti), like a
-    figure nipped from a lump of clay (weight 6.3); First human shaped from dust, clay or soil (weight
-    4.6). Pair score 10.8.'
+    figure nipped from a lump of clay (weight 6.6); First human shaped from dust, clay or soil (weight
+    5.2). Pair score 11.8.'
   basis: reading
 - text: 'Only in Elihu - warning dreams and the interceding angel: The healed man sings before men, ''I
-    sinned and perverted what was right, and it was not requited to me''; The restored man''s flesh becomes
-    fresher than a child''s and he returns to the days of his youth; God does all these things two or
-    three times with a man, to bring him back from the Pit to the light of life; God speaks once, even
+    sinned and perverted what was right, and it was not requited to me''; God does all these things two
+    or three times with a man, to bring him back from the Pit to the light of life; God speaks once, even
     twice, but people do not perceive it; An angel, an intercessor (malakh melits), one among a thousand,
     declares a man''s uprightness and pleads for him; The sick man''s soul draws near the Pit and his
     life to the ''destroyers'' (memitim, angels of death); ''Deliver him from going down to the Pit; I
-    have found a ransom (kofer)''; God chastens a man with pain on his bed until he loathes food and his
-    bones stick out, as warning; ''The spirit of God has made me, and the breath of Shaddai gives me life'';
-    In dreams during deep sleep God opens people''s ears and seals their warning, to turn them from pride
-    and spare them from the Pit; The angel of death (malak al-mawt), put in charge of humans, takes their
-    souls; Angels glorify God and ask forgiveness for those on earth; and 4 more.'
+    have found a ransom (kofer)''; ''The spirit of God has made me, and the breath of Shaddai gives me
+    life''; In dreams during deep sleep God opens people''s ears and seals their warning, to turn them
+    from pride and spare them from the Pit; The angel of death (malak al-mawt), put in charge of humans,
+    takes their souls; Angels glorify God and ask forgiveness for those on earth; The restored man''s
+    flesh becomes fresher than a child''s and he returns to the days of his youth; Humans created from
+    sticky clay (tin lazib); and 4 more.'
   basis: reading
 - text: 'Only in Man from clay through the stages of the womb; seven paths, water, Sinai''s tree, cattle
     and ships: God called ''the best of creators'' (aḥsan al-khāliqīn); Cattle are a lesson: God gives
     drink from what is in their bellies; A tree springing from Mount Sinai (Ṭūr Saynāʾ) yields oil and
     a relish for eaters; In the womb God makes the lump into bones and clothes the bones with flesh, then
     makes it another creation; God''s crafting of the human body, and what is said to follow from it [divergence
-    between the texts]; At creation God fixed the weight of the wind, the measure of the waters, a decree
-    for the rain and a way for the thunderbolt; Humans created from dust, then a drop (nuṭfa), then a
-    clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped; God''s eyes saw the speaker''s
-    unformed substance (golem); all his days were written in God''s book before one of them existed; God
-    poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh and knitting
-    bones and sinews; God fashions seven heavens.'
+    between the texts]; Man is made from compacted (clotted) blood and then bones; God makes the fluid
+    (seed) in women into a human and forms the child in its mother''s belly; At creation God fixed the
+    weight of the wind, the measure of the waters, a decree for the rain and a way for the thunderbolt;
+    Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump (muḍgha),
+    shaped and unshaped; God''s eyes saw the speaker''s unformed substance (golem); all his days were
+    written in God''s book before one of them existed; God poured the embryo out like milk and curdled
+    it like cheese, clothing it with skin and flesh and knitting bones and sinews; God fashions seven
+    heavens.'
   basis: reading
 - text: 'Elihu - warning dreams and the interceding angel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

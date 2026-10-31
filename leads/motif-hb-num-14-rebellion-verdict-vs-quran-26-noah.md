@@ -18,28 +18,28 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The people are about to stone their leader (weight 6.0). Pair score
-    6.0.'
+- text: 'Shared motifs, rarest first: The people are about to stone their leader (weight 7.1). Pair score
+    7.1.'
   basis: reading
-- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Intercessor argues the
-    nations would say God was unable; Those who slandered the land die by plague; People have tested God
-    ''ten times''; Forty years of wandering, a year for each day of scouting [divergence between the texts];
-    God threatens to destroy a people and put another in its place [divergence between the texts]; Two
-    faithful spies dissent from the majority [divergence between the texts]; People ordered to fight complain
-    to God and wish to be spared the battle; People attack without God''s ark or leader and are routed;
-    After the people''s rebellion the prophet intercedes for them or asks to be separated from them [divergence
-    between the texts]; People propose appointing a leader to go back to Egypt; Caleb has ''another spirit''
-    and follows God fully; God offers to destroy the people and make a nation of the hero instead; and
-    10 more.'
+- text: 'Only in Rebellion after the spies'' report and the forty-year sentence: Those who slandered the
+    land die by plague; People have tested God ''ten times''; Intercessor argues the nations would say
+    God was unable; Forty years of wandering, a year for each day of scouting [divergence between the
+    texts]; God threatens to destroy a people and put another in its place [divergence between the texts];
+    Two faithful spies dissent from the majority [divergence between the texts]; People ordered to fight
+    complain to God and wish to be spared the battle; People attack without God''s ark or leader and are
+    routed; After the people''s rebellion the prophet intercedes for them or asks to be separated from
+    them [divergence between the texts]; People propose appointing a leader to go back to Egypt; Caleb
+    has ''another spirit'' and follows God fully; God offers to destroy the people and make a nation of
+    the hero instead; and 10 more.'
   basis: reading
 - text: 'Only in Noah, the lowly followers and the laden ark: The people threaten to stone the prophet
     if he does not desist; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn);
     The prophet''s opponents object that only the lowliest follow him; he refuses to drive the believers
     away; Who is saved with the hero from the destruction, and why [contrast between the texts]; Whether
     the flood hero speaks to his people before the flood [divergence between the texts]; Who is saved
-    with the hero from the destruction, and why [divergence between the texts]; Hero asks the deity to
-    judge or destroy his opponents; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy
-    messenger sent to his people; Refrain closing each episode: ''In that is a sign, yet most of them
+    with the hero from the destruction, and why [divergence between the texts]; Formula: ''their brother''
+    (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to his people; Hero asks the deity to
+    judge or destroy his opponents; Refrain closing each episode: ''In that is a sign, yet most of them
     do not believe; your Lord is the Mighty, the Merciful''; Hero warns or preaches to his people before
     the flood; All others perish; The Prophet asks no wage for the message; and 1 more.'
   basis: reading

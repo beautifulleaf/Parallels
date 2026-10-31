@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether guilt passes from parents to their descendants [contrast
-    between the texts] (weight 6.3). Pair score 6.3.'
+    between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
-    the texts]; and 13 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch your eyes
+    toward the worldly splendor given to others to test them; and 13 more.'
   basis: reading
 - text: 'Only in Al-Lat, al-''Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses;
     the Lord of Sirius: The three goddesses al-Lat, al-''Uzza and Manat, ''the third, the other'', named
@@ -42,7 +42,7 @@ evidence:
     down no authority; God is ''the Lord of Sirius'' (al-shi''ra), a star worshipped by some Arabs; Those
     who avoid the great sins and indecencies, except minor slips (al-lamam), find God''s forgiveness wide;
     To your Lord is the final end (al-muntaha); ''Is the male for you and the female for him? That is
-    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 15 more.'
+    an unfair division''; ''Which of your Lord''s bounties (ala'') will you dispute/deny?''; and 19 more.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Disavowal of secretly worshiping the shining sun and moon by kissing
-    the hand to the mouth (weight 6.7). Pair score 6.7.'
+    the hand to the mouth (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Job''s oath of innocence: Adultery is a fire that consumes unto Abaddon and roots out
     all one''s increase; Self-curse: may I sow and another eat, and my offspring be uprooted; Self-curse:
@@ -30,8 +30,8 @@ evidence:
     Self-curse should his land cry out against him and its furrows weep for stolen produce or murdered
     owners; Master respects his slaves'' lawsuits because the one who made him in the womb made them too;
     The righteous did not rejoice at his enemy''s ruin nor curse his life; Disavowal of making gold one''s
-    hope or rejoicing in great wealth; Protagonist clears himself with a series of conditional self-curses
-    (''If I have done X, may Y befall me''); and 10 more.'
+    hope or rejoicing in great wealth; ''Here is my mark (tav); let Shaddai answer me'': the litigant
+    signs his deposition; and 10 more.'
   basis: reading
 - text: 'Only in Angels descend on the steadfast; repel evil with good; signs on the horizons: Angels
     descend on those who say ''Our Lord is God'' and stand firm: ''Fear not, grieve not, rejoice in the
@@ -41,10 +41,11 @@ evidence:
     will come, and if returned to my Lord I will have the best with him''; On the Day God calls ''Where
     are my partners?'', they answer ''We declare to you none of us is a witness''; The Quran is guidance
     and healing (shifa'') for believers; for others deafness and blindness; ''We will show them our signs
-    on the horizons and in themselves until it is clear to them that it is the truth''; Do not say ''I
-    will repay evil''; wait for YHWH and he will save you; Doing good to an enemy, and what it brings
-    [divergence between the texts]; Had it been revealed to a non-Arab (aʿjamī) reciting it, they would
-    still not believe; When an evil prompting from Satan stirs you, seek refuge in God; and 13 more.'
+    on the horizons and in themselves until it is clear to them that it is the truth''; The adversary
+    is reconciled and becomes a friend; who spoke evil speaks good [divergence between the texts]; Whether
+    to answer an evil word or deed with its like [divergence between the texts]; Doing good to an enemy,
+    and what it brings [divergence between the texts]; Prayer or prostration addressed to the sun [response
+    between the texts]; and 21 more.'
   basis: reading
 - text: 'Job''s oath of innocence: tagged by Claude (model), reading the Hebrew.'
   basis: reading

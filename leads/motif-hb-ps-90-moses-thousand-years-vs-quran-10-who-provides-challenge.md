@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The resurrected feel they had stayed only an hour of a day (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 90, prayer of Moses; a thousand years as yesterday: Before the mountains were born
     and the earth was brought forth in labor, God existed from everlasting; God turns mortals back to
     dust (dakka), saying ''Return, sons of Adam''; The span of human life is seventy years, or eighty
     with strength; A psalm is ascribed to Moses, ''the man of God''; Prayer ''Teach us to number our days
-    that we may gain a heart of wisdom''; Human life is short and fleeting (heled, a handbreadth, grass,
-    a sigh); Human comes from dust and returns to dust [divergence between the texts]; A thousand years
-    in God''s sight are like yesterday when it passes, or a watch in the night [divergence between the
-    texts]; A thousand years in God''s sight are like yesterday when it passes, or a watch in the night;
-    Lament question ''How long, O God?'' / ''Why have you rejected us forever?''; Humans are like grass
-    that flourishes in the morning and withers by evening; Human comes from dust and returns to dust.'
+    that we may gain a heart of wisdom''; Human comes from dust and returns to dust [divergence between
+    the texts]; A thousand years in God''s sight are like yesterday when it passes, or a watch in the
+    night [divergence between the texts]; A thousand years in God''s sight are like yesterday when it
+    passes, or a watch in the night; Humans are like grass that flourishes in the morning and withers
+    by evening; Human life is short and fleeting (heled, a handbreadth, grass, a sigh); Human comes from
+    dust and returns to dust; Lament question ''How long, O God?'' / ''Why have you rejected us forever?''.'
   basis: reading
 - text: 'Only in Who provides and who restores creation; the challenge of the surah: The gods are challenged
     to declare the former things or the things to come so that we may know they are gods; they are nothing;

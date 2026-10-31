@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not send the prophets who promise peace; they prophesy a
-    lying vision, divination and the deceit of their heart (weight 5.6). Pair score 5.6.'
+    lying vision, divination and the deceit of their heart (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Concerning the prophets - who has stood in the council of YHWH?: The prophet''s heart
     is broken and all his bones shake; he is like a drunken man because of God''s holy words; The prophets
@@ -30,21 +30,21 @@ evidence:
     (mei rosh) to drink and wormwood to eat; ''Have you listened in the council (sod) of God, and limited
     wisdom to yourself?''; Prophets and priests heal the wound lightly, saying ''Peace, peace'' when there
     is no peace; Opponents nearly lure the prophet into inventing something else; God makes him firm;
-    The storm of YHWH''s fury goes out and whirls on the head of the wicked; in the latter days you will
-    understand it; God enthroned with the host of heaven standing at his right and left deliberates; The
-    tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the damned
-    fill their bellies and drink boiling water.'
+    The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the damned
+    fill their bellies and drink boiling water; The storm of YHWH''s fury goes out and whirls on the head
+    of the wicked; in the latter days you will understand it; God enthroned with the host of heaven standing
+    at his right and left deliberates.'
   basis: reading
 - text: 'Only in One community split into sects; the heedless rich and the God-fearing: Nation pictured
     as a body beaten from sole of foot to head, with untended wounds and sores; Humanity was one community
     (umma) but split its affair into sects; Whether a prophet takes payment for his message [contrast
     between the texts]; Were there gods besides God in heaven and earth, both would have been ruined;
     False prophets prophesy ''from their own heart'', following their own spirit, having seen nothing;
-    Speaker is troubled by the prosperity and ease of the wicked (theodicy); Refrain listing plagues (famine,
-    drought, blight, locust, pestilence, war, overthrow): ''yet you did not return to me''; God burdens
-    no soul beyond its capacity; Officers call the visiting prophet ''this madman'' (meshugga''); The
-    Prophet asks no wage for the message; God keeps a book in which names are written and from which sinners
-    are blotted.'
+    Refrain listing plagues (famine, drought, blight, locust, pestilence, war, overthrow): ''yet you did
+    not return to me''; God burdens no soul beyond its capacity; Speaker is troubled by the prosperity
+    and ease of the wicked (theodicy); Officers call the visiting prophet ''this madman'' (meshugga'');
+    The Prophet asks no wage for the message; God keeps a book in which names are written and from which
+    sinners are blotted.'
   basis: reading
 - text: 'Concerning the prophets - who has stood in the council of YHWH?: tagged by Claude (model), reading
     the Hebrew.'

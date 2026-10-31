@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God swears by himself: to me every knee shall bow and every tongue
-    swear (weight 6.7). Pair score 6.7.'
+    swear (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -41,12 +41,13 @@ evidence:
     rebutted by surrender of the face to God; Believers told not to say ''ra''ina'' (a word twisted by
     opponents) but ''unzurna''; God abrogates or causes to be forgotten a verse and brings a better or
     similar one (naskh); Whether God has or begets a son [contrast between the texts]; Whether God should
-    speak to the people directly [contrast between the texts]; From sunrise to sunset God''s name is great
-    among the nations and in every place incense and a pure offering are brought to his name; East and
-    west belong to God; wherever you turn, there is the face of God; ''He spoke and it came to be; he
-    commanded and it stood firm''; Deity creates by spoken command (Let there be...); The called one asks
-    for a sign that it is God who speaks [divergence between the texts]; The called one asks for a sign
-    that it is God who speaks; and 2 more.'
+    speak to the people directly [contrast between the texts]; A good deed done for one''s land is laid
+    up in the god''s basket (credited by the god); From sunrise to sunset God''s name is great among the
+    nations and in every place incense and a pure offering are brought to his name; The god''s whereabouts
+    named as the sunrise and the sunset (east and west) [divergence between the texts]; East and west
+    belong to God; wherever you turn, there is the face of God; ''He spoke and it came to be; he commanded
+    and it stood firm''; The called one asks for a sign that it is God who speaks [divergence between
+    the texts]; and 4 more.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

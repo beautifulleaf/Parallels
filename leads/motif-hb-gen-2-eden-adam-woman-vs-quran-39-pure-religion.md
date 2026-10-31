@@ -21,31 +21,34 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How God made the human mate, and for what purpose [divergence between
-    the texts] (weight 6.3); First woman made from the man''s rib or side while he sleeps (weight 6.0);
-    Humankind is created from a single soul, from which its mate was made to dwell with it (weight 5.6).
-    Pair score 17.9.'
+    the texts] (weight 7.3); First woman made from the man''s rib or side while he sleeps (weight 7.1);
+    Humankind is created from a single soul, from which its mate was made to dwell with it (weight 6.6).
+    Pair score 21.0.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; The tree forbidden to the first humans [divergence between the texts]; and 19 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; Whether any fruit in the Garden is forbidden [contrast between the
+    texts]; The tree forbidden to the first humans [divergence between the texts]; Forming a creature
+    from earth and breathing life into it [divergence between the texts]; Four rivers in the Garden [divergence
+    between the texts]; The garden given to the first humans to live and eat in [divergence between the
+    texts]; In the garden Adam will not hunger, be naked, thirst or suffer the sun''s heat [divergence
+    between the texts]; and 19 more.'
   basis: reading
 - text: 'Only in Pure religion; no son for God; creation from one soul in three darknesses: God sent down
     for you eight pairs of livestock; Idolaters say ''we worship them only that they may bring us near
     to God''; Had God wished to take a son he would have chosen from what he creates whatever he willed;
     glory be to him, the One; God creates you in your mothers'' bellies creation after creation in three
-    darknesses; God wraps (yukawwir) the night around the day and the day around the night; Was not God''s
-    earth wide enough for you to emigrate (hijra) in it?; The believers'' sides forsake their beds as
-    they call on their Lord in fear and hope (night vigil); Whether God has, begets or takes sons or other
-    offspring [contrast between the texts]; God formed the kidneys and wove (knit) the speaker in his
-    mother''s womb; No burdened soul bears another''s burden; even a relative will not carry any of it;
-    Sun and moon are subjected, each running to an appointed term; When harm touches people they turn
-    to God; when he gives them relief a party of them associates partners again.'
+    darknesses; The deity sends sheep or livestock down to humankind; God wraps (yukawwir) the night around
+    the day and the day around the night; How many first humans are made: seven pairs, or one soul and
+    its mate [divergence between the texts]; Was not God''s earth wide enough for you to emigrate (hijra)
+    in it?; Members of the deity''s court speak for a petitioner before the deity [response between the
+    texts]; Whether the creator has offspring though he has no consort [neutral] [divergence between the
+    texts]; The believers'' sides forsake their beds as they call on their Lord in fear and hope (night
+    vigil); Whether God has, begets or takes sons or other offspring [contrast between the texts]; and
+    4 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: YHWH comes and all the holy ones (angels) with him (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: YHWH comes and all the holy ones (angels) with him (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in The final day on the Mount of Olives; living waters; Sukkot for the nations: A unique
     day known to YHWH, neither day nor night, without light, cold and frost; at evening there will be
@@ -42,12 +42,12 @@ evidence:
     is prescribed though you hate it; you may hate what is good for you; Will they wait until God comes
     to them in canopies of cloud with the angels?; Mankind was one community; God sent prophets as bearers
     of good news and warners with the Book; Coming with the clouds of heaven [divergence between the texts];
-    God coming down from heaven [contrast between the texts]; Mankind once one, then divided [divergence
-    between the texts]; Persecution (fitna) is worse than killing; A man whose speech pleases, who calls
-    God to witness, but goes forth to destroy tillage and offspring; One like a son of man (kevar enash)
-    comes with the clouds of heaven to the Ancient of Days; Messenger and believers, shaken, cry ''When
-    is God''s help?'' Truly God''s help is near; God provides for whom he wills without reckoning (bi-ghayri
-    hisab).'
+    God coming down from heaven [contrast between the texts]; What is good to oneself may be an offense
+    to a god, and what seems abominable to one''s heart may be good to one''s god; Mankind once one, then
+    divided [divergence between the texts]; Persecution (fitna) is worse than killing; A man whose speech
+    pleases, who calls God to witness, but goes forth to destroy tillage and offspring; One like a son
+    of man (kevar enash) comes with the clouds of heaven to the Ancient of Days; A man whose speech is
+    sweet (pleasing) but who is a quarreller and sows strife; and 2 more.'
   basis: reading
 - text: 'The final day on the Mount of Olives; living waters; Sukkot for the nations: tagged by Claude
     (model), reading the Hebrew.'

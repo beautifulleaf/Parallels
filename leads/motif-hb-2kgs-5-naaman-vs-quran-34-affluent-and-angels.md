@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The Prophet asks no wage for the message (weight 4.6). Pair score
-    4.6.'
+- text: 'Shared motifs, rarest first: The Prophet asks no wage for the message (weight 5.7). Pair score
+    5.7.'
   basis: reading
 - text: 'Only in Naaman healed of leprosy; Gehazi''s greed: Prophet sends word to wash seven times in
     the Jordan; the foreigner is cured; A captive Israelite servant girl tells her foreign mistress that

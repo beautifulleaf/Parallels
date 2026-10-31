@@ -17,17 +17,17 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A place recognized as the house of God and gate of heaven (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jacob''s dream at Bethel: God promises to be with the traveler and bring him back; Hero
     sleeps with a stone under his head at a holy place; The angels and the Spirit (al-ruh) ascend to God
     by stairways (ma''arij); God is ''Lord of the ascending ways''; A standing stone (matsevah) set up
     and anointed with oil; Hero vows that if God protects and provides for him, he will worship and tithe;
     Hero vows that if God protects and provides for him, he will worship and tithe [divergence between
-    the texts]; Dream of a ladder or stairway reaching heaven with angels ascending and descending; A
-    ladder (sullam / sullām) reaching from earth to heaven; A ladder (sullam / sullām) reaching from earth
-    to heaven [divergence between the texts]; A tenth of everything given to a priest; Luz renamed Bethel,
-    ''house of God''; All families of the earth will be blessed through the patriarch; and 2 more.'
+    the texts]; A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts];
+    A tenth of everything given to a priest; A ladder (sullam / sullām) reaching from earth to heaven;
+    Luz renamed Bethel, ''house of God''; Dream of a ladder or stairway reaching heaven with angels ascending
+    and descending; All families of the earth will be blessed through the patriarch; and 2 more.'
   basis: reading
 - text: 'Only in Abraham, the Ancient House and the rites of pilgrimage and sacrifice: Abraham is told
     to proclaim the pilgrimage; people come on foot and on lean camels from every deep ravine; Pilgrims
@@ -40,8 +40,8 @@ evidence:
     Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; Eat
     of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
     a rite of sacrifice (mansak); What is done with the blood of sacrifices, and whether it reaches God
-    [divergence between the texts]; Who chose or founded the single sanctuary of sacrifice, and when [divergence
-    between the texts]; and 6 more.'
+    [divergence between the texts]; Whether the deity eats (receives) the food and drink of the offerings
+    [divergence between the texts]; and 15 more.'
   basis: reading
 - text: 'Jacob''s dream at Bethel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

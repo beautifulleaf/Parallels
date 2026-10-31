@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A ruler or prophet marries the wife of a man under him [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in David and Bathsheba; Uriah carries his own death letter: A man carries a sealed letter
-    ordering his own death; The adulterer recalls the husband from war so he will sleep with his wife
-    and cover the pregnancy; A king walking on his roof sees a beautiful woman bathing; The king stays
-    home at the season when kings go to war; Narrator''s verdict: ''the thing was evil in the eyes of
-    YHWH''; A soldier refuses to sleep with his wife while the army and ark are in the field; Saying:
-    ''the sword devours now one, now another''; After the mourning period the king takes the widow as
-    his wife; Sin described as a sequence: I saw, I coveted, I took, I hid; King plots that the hero die
-    by enemy hands by setting a deadly task; A woman is purifying herself from her menstrual impurity;
-    A woman drops an upper millstone from a tower onto the attacker''s head.'
+- text: 'Only in David and Bathsheba; Uriah carries his own death letter: The adulterer recalls the husband
+    from war so he will sleep with his wife and cover the pregnancy; The king stays home at the season
+    when kings go to war; Narrator''s verdict: ''the thing was evil in the eyes of YHWH''; A soldier refuses
+    to sleep with his wife while the army and ark are in the field; Saying: ''the sword devours now one,
+    now another''; After the mourning period the king takes the widow as his wife; A man carries a sealed
+    letter ordering his own death; Sin described as a sequence: I saw, I coveted, I took, I hid; A king
+    walking on his roof sees a beautiful woman bathing; King plots that the hero die by enemy hands by
+    setting a deadly task; A woman is purifying herself from her menstrual impurity; A woman drops an
+    upper millstone from a tower onto the attacker''s head.'
   basis: reading
 - text: 'Only in Zayd''s wife, the seal of the prophets, and the prophet as a lamp: The greeting of the
     righteous in the hereafter is ''Peace'' (salam); Adopted sons are not one''s sons; call them by their

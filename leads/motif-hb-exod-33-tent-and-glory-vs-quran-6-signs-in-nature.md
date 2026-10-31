@@ -19,16 +19,16 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: No human can see God''s face and live (weight 5.8). Pair score 5.8.'
+- text: 'Shared motifs, rarest first: No human can see God''s face and live (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Mourning, the tent outside the camp, and Moses sees God''s back: God refuses to go among
     the people lest he consume them on the way; Joshua, the young attendant, never leaves the tent; God
-    tells the prophet: I know you by name and you have found favor; The people strip off their ornaments
-    in mourning or penitence; The people stand at their tent doors and bow as the prophet goes to meet
-    God; A tent of meeting pitched outside the camp where all who seek God go; God''s own Presence (face)
-    will go with the people; God declares he will be gracious to whom he will be gracious; Moses asks
-    to see God, his glory or God himself [divergence between the texts]; God called Moses and drew him
-    near in confidential converse (najiyy); Moses travels with his young servant (fata); After the calf
+    tells the prophet: I know you by name and you have found favor; The people stand at their tent doors
+    and bow as the prophet goes to meet God; A tent of meeting pitched outside the camp where all who
+    seek God go; God''s own Presence (face) will go with the people; God declares he will be gracious
+    to whom he will be gracious; Moses asks to see God, his glory or God himself [divergence between the
+    texts]; God called Moses and drew him near in confidential converse (najiyy); Moses travels with his
+    young servant (fata); The people strip off their ornaments in mourning or penitence; After the calf
     the people mourn or repent of what they did [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Splitter of seed and dawn; stars for navigation; do not revile their gods: Do not revile
@@ -38,8 +38,8 @@ evidence:
     hanging date clusters, vineyards, olives and pomegranates; God is the splitter of the dawn (fāliq
     al-iṣbāḥ); night for rest; God splits the grain and the date-stone; Vision does not grasp him, but
     he grasps all vision; Do not revile God or curse a ruler of your people; God has taken neither consort
-    (sahiba) nor child; God made the stars for guidance in the darknesses of land and sea; God brings
-    the living out of the dead and the dead out of the living; and 5 more.'
+    (sahiba) nor child; God made the stars for guidance in the darknesses of land and sea; Whether the
+    creator has offspring though he has no consort [neutral] [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Mourning, the tent outside the camp, and Moses sees God''s back: tagged by Claude (model), reading
     the Hebrew.'

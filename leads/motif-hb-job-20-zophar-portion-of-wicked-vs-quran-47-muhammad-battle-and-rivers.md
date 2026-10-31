@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rivers or streams of honey and milk (curds) [divergence between
-    the texts] (weight 6.7); Streams and rivers flowing with honey and curds (denied to the wicked) (weight
-    6.7); Promised land described as flowing with milk and honey (weight 4.6). Pair score 18.0.'
+    the texts] (weight 7.7); Streams and rivers flowing with honey and curds (denied to the wicked) (weight
+    7.7); Promised land described as flowing with milk and honey (weight 5.5). Pair score 21.0.'
   basis: reading
 - text: 'Only in Zophar''s second speech - the portion of the wicked: Fleeing an iron weapon, the wicked
     is pierced by a bronze bow; the glittering arrow comes out of his gall; Evil held sweet under the
@@ -41,11 +41,10 @@ evidence:
     and admits them to a Garden he has made known to them; The signs/portents (ashrat) of the Hour have
     already come; The prophet is told to ask forgiveness for his own sin and for the believing men and
     women; In battle, strike the necks of unbelievers; when they are subdued bind them, then free them
-    as favor or for ransom until war lays down its burdens; Four rivers in the Garden [divergence between
-    the texts]; If you help God he will help you and make your feet firm; The Hour will come upon them
-    suddenly while they are unaware; Have they not traveled in the land and seen the end of those before
-    them?; What is done with the enemy''s men after battle: killed, or bound and released [contrast between
-    the texts]; and 7 more.'
+    as favor or for ransom until war lays down its burdens; People eat as sheep or cattle eat; Four rivers
+    in the Garden [divergence between the texts]; If you help God he will help you and make your feet
+    firm; The Hour will come upon them suddenly while they are unaware; Whether a bound captive is released
+    or killed [contrast between the texts]; and 12 more.'
   basis: reading
 - text: 'Zophar''s second speech - the portion of the wicked: tagged by Claude (model), reading the Hebrew.'
   basis: reading

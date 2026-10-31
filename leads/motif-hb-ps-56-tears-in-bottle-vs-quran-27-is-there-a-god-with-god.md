@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
-    are blotted (weight 4.6). Pair score 4.5.'
+    are blotted (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Psalm 56, when the Philistines seized David in Gath: Every thirst, fatigue, hunger, step
     and valley crossed in God''s cause is written as a good deed; God counts the sufferer''s wanderings
@@ -32,12 +32,12 @@ evidence:
 - text: 'Only in The litany ''Is there a god with God?'' and the unseen: As God began the first creation
     he will repeat it; God answers the distressed when he calls and removes the evil; God knows the secret
     and what is even more hidden; God records the peoples in a register, noting where each was born; Litany
-    of signs each ending ''Is there a god with God?''; God sends rain on the desert where no human lives,
-    to make grass sprout; The secret things belong to God; the revealed things to us and our children;
-    God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between them;
-    The world set upon pillars belonging to God; God set firm mountains on the earth lest it sway with
-    people; The listeners walk among the dwellings of generations God destroyed, a sign; God sends the
-    winds as heralds before his mercy and sends down pure water from the sky; and 2 more.'
+    of signs each ending ''Is there a god with God?''; Rhetorical question: who besides (among the gods)
+    can remove the sickness / the harm? None can; God sends rain on the desert where no human lives, to
+    make grass sprout; The secret things belong to God; the revealed things to us and our children; The
+    wind carries good tidings (Akkadian busrātu, Arabic bushrā); God let loose the two seas, one sweet,
+    one salt, with a barrier (barzakh) and partition between them; The world set upon pillars belonging
+    to God; God set firm mountains on the earth lest it sway with people; and 4 more.'
   basis: reading
 - text: 'Psalm 56, when the Philistines seized David in Gath: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers pray: ''If this is the truth from you, rain stones on us
-    from the sky'' (weight 6.7); God will not punish a people while the prophet is among them or while
-    they seek forgiveness (weight 6.7). Pair score 13.4.'
+    from the sky'' (weight 7.7); God will not punish a people while the prophet is among them or while
+    they seek forgiveness (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -38,14 +38,15 @@ evidence:
   basis: reading
 - text: 'Only in The plot against the prophet and the worship of the pagans: Fight them until there is
     no persecution (fitna) and religion is wholly God''s; If unbelievers desist, what is past is forgiven;
-    God separates the bad from the good, heaps the bad on one another and casts them into hell; The pagans''
-    prayer at the House was only whistling and clapping; People dismiss the prophet: ''Is he not just
-    a maker of parables (memashel meshalim)?''; Whether the righteous among a guilty people shield it
-    from punishment [contrast between the texts]; Hero bargains with God to spare a city for the sake
-    of a few righteous (50 down to 10); God''s plotting (makr / kayd) outwits the schemers; none is safe
-    from it but the losers; Unbelievers plot to confine, kill or expel the prophet, but God plots too;
-    Deniers dare the prophet: ''Bring us what you threaten, if you are truthful''; Unbelievers dismiss
-    the revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal.'
+    God separates the bad from the good, heaps the bad on one another and casts them into hell; Human
+    scheming fails; the god''s plan or command prevails [neutral]; The pagans'' prayer at the House was
+    only whistling and clapping; People dismiss the prophet: ''Is he not just a maker of parables (memashel
+    meshalim)?''; Whether the righteous among a guilty people shield it from punishment [contrast between
+    the texts]; Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10);
+    God''s plotting (makr / kayd) outwits the schemers; none is safe from it but the losers; Unbelievers
+    plot to confine, kill or expel the prophet, but God plots too; Deniers dare the prophet: ''Bring us
+    what you threaten, if you are truthful''; Unbelievers dismiss the revelation as ''tales of the ancients''
+    (asatir al-awwalin) they could equal.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

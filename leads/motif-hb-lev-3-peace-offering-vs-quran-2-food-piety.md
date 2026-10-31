@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eating blood is forbidden [divergence between the texts] (weight
-    6.3); Eating blood is forbidden (weight 5.6). Pair score 11.9.'
+    7.3); Eating blood is forbidden (weight 6.6). Pair score 14.0.'
   basis: reading
 - text: 'Only in The well-being (shelamim) offering and the ban on fat and blood: All the fat belongs
     to YHWH; The sacrifice is called God''s food (lehem); Priests dash the blood against all sides of

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether those who stayed behind share in the spoil [contrast between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Amalekites burn Ziklag; David recovers all and makes the spoil law: A sick slave abandoned
     by the raiders is revived with food and guides the hero to them; The hero recovers every captive and
@@ -40,7 +40,8 @@ evidence:
     divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts [divergence
     between the texts]; Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by
     me''; Oath sworn by raising the hand to God; Who is exempted from going out to war [contrast between
-    the texts]; The prophet is sent as witness, bearer of good tidings and warner; and 3 more.'
+    the texts]; Household, wife or family as a ground for staying behind from a campaign [contrast between
+    the texts]; and 7 more.'
   basis: reading
 - text: 'Amalekites burn Ziklag; David recovers all and makes the spoil law: tagged by Claude (model),
     reading the Hebrew.'

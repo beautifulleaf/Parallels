@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans are like grass that flourishes in the morning and withers
-    by evening (weight 5.6). Pair score 5.6.'
+    by evening (weight 6.6). Pair score 6.6.'
   basis: reading
-- text: 'Only in Psalm 103, bless YHWH, O my soul; youth renewed like the eagle: As a father has compassion
-    on his children, so God pities those who fear him; God knows our frame (yetser) and remembers that
-    we are dust; When the wind passes over man he is gone and his place knows him no more; As far as east
-    is from west, so far God removes our transgressions; God renews one''s youth like the eagle''s; God''s
-    angels, mighty ones who do his word, and all his hosts and ministers are summoned to bless him; Self-exhortation
-    ''Bless YHWH, O my soul''; God declares ''I am YHWH your healer'' and withholds the diseases of Egypt;
-    There was a stretch of time when the human was not yet a thing worth mentioning; The wicked are brought
-    down to the pit (be''er shahat / bor), the underworld; The destroyed are as if they had never lived
-    in their land; After creating the heavens and earth God established himself on the Throne (istawa
-    ''ala l-''arsh); and 1 more.'
+- text: 'Only in Psalm 103, bless YHWH, O my soul; youth renewed like the eagle: God knows our frame (yetser)
+    and remembers that we are dust; When the wind passes over man he is gone and his place knows him no
+    more; God renews one''s youth like the eagle''s; God''s angels, mighty ones who do his word, and all
+    his hosts and ministers are summoned to bless him; Self-exhortation ''Bless YHWH, O my soul''; There
+    was a stretch of time when the human was not yet a thing worth mentioning; As far as east is from
+    west, so far God removes our transgressions; As a father has compassion on his children, so God pities
+    those who fear him; God declares ''I am YHWH your healer'' and withholds the diseases of Egypt; The
+    wicked are brought down to the pit (be''er shahat / bor), the underworld; The destroyed are as if
+    they had never lived in their land; After creating the heavens and earth God established himself on
+    the Throne (istawa ''ala l-''arsh); and 1 more.'
   basis: reading
 - text: 'Only in The first of those who submit; canopies of fire; chambers above chambers: An Arabic Quran
     without any crookedness; The damned have canopies (zulal) of fire above them and below them; For the

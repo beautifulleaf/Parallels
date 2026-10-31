@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Into how many groups humankind is sorted at the end [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition
@@ -42,10 +42,10 @@ evidence:
     ''Peace, peace''; The Companions of the Right are among thornless lote trees (sidr makhdud) and layered
     talh (acacia/banana) with extended shade and poured water; Humanity sorted into three classes: Companions
     of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; Bird-meat as desired
-    food: punished or granted [contrast between the texts]; The earth is shaken violently and the mountains
+    food: punished or granted [contrast between the texts]; Young servers go round with a variety of vessels
+    serving a mixed drink [divergence between the texts]; The earth is shaken violently and the mountains
     crumbled into scattered dust (haba''); Whether any fruit in the Garden is forbidden [contrast between
-    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; Paradise drink
-    from which they suffer no headache nor intoxication; and 11 more.'
+    the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden; and 12 more.'
   basis: reading
 - text: 'Michael arises, the resurrection, and the sealed book: tagged by Claude (model), reading the
     Hebrew.'

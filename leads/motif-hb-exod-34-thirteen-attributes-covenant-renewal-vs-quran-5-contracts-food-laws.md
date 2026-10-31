@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibition of intermarriage with the peoples of the land lest they
-    turn sons to other gods [contrast between the texts] (weight 6.3). Pair score 6.3.'
+    turn sons to other gods [contrast between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
     covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
     time; Call to the People of the Book to a common word: worship none but God and take none as lords
     besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
     down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
-    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
-    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
-    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
-    a snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
-    appear before God empty-handed; and 21 more.'
+    neck is broken; God passes by and proclaims his name and attributes of mercy; Whether one person (kin,
+    descendants) bears another''s sin [contrast between the texts]; Do not offer sacrificial blood with
+    leavened bread; fat not left until morning; No one shall appear before God empty-handed; The prophet
+    intercedes for the people, arguing from God''s reputation; How far God''s mercy and his punishment
+    extend [divergence between the texts]; and 21 more.'
   basis: reading
 - text: 'Only in Contracts, pilgrim sanctity and the forbidden foods: The food of the People of the Book
-    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Sacrificial
-    animals (hady) marked with garlands (qalāʾid) are inviolable; Believers may marry chaste women of
-    the People of the Book; ''Today I have perfected your religion and completed my favor''; The sacred
-    month and God''s rites must not be profaned; Forbidden: the strangled, the beaten to death, the fallen
-    and the gored animal; What trained hunting animals (dogs, birds of prey) catch is lawful, with God''s
-    name pronounced; Divination by shaking or drawing arrows (belomancy); Eating carrion or torn flesh
-    is forbidden or defiling [divergence between the texts]; Seeking decisions by divining arrows (azlām)
-    is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten [divergence between the
-    texts]; and 10 more.'
+    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Believers
+    may marry chaste women of the People of the Book; ''Today I have perfected your religion and completed
+    my favor''; The sacred month and God''s rites must not be profaned; Forbidden: the strangled, the
+    beaten to death, the fallen and the gored animal; What trained hunting animals (dogs, birds of prey)
+    catch is lawful, with God''s name pronounced; Divination by shaking or drawing arrows (belomancy);
+    Eating carrion or torn flesh is forbidden or defiling [divergence between the texts]; Seeking decisions
+    by divining arrows (azlām) is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten
+    [divergence between the texts]; Sacrificial animals (hady) marked with garlands (qalāʾid) are inviolable;
+    and 10 more.'
   basis: reading
 - text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
     the Hebrew.'

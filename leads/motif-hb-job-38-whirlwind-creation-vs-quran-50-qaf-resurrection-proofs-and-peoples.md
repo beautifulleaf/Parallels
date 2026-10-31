@@ -20,20 +20,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Earth built like a structure with measurements, measuring line,
-    sunk bases and a cornerstone (weight 6.3); God set the mountains as pegs or firm anchors (awtad, rawasi)
-    for the earth (weight 5.3). Pair score 11.6.'
+    sunk bases and a cornerstone (weight 7.3); God set the mountains as pegs or firm anchors (awtad, rawasi)
+    for the earth (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens:
     Dawn seizes the edges of the earth and shakes the wicked out of it; Light and darkness each have a
     dwelling place and a road to it; Rhetorical question whether rain has a father and from whose womb
-    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The morning stars
-    sing together and the sons of God shout for joy at the founding of the earth; Named constellations
-    (Kimah/Pleiades, Kesil/Orion, Ayish/Bear, Mazzarot) and their bonds; The sea bursts out of a womb
-    at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors for the
-    sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of the deep
-    (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God tips over;
-    God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were they created
-    from nothing, or are they the creators? Did they create the heavens and earth?; and 13 more.'
+    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The sea bursts out
+    of a womb at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors
+    for the sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of
+    the deep (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God
+    tips over; God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were
+    they created from nothing, or are they the creators? Did they create the heavens and earth?; God challenges
+    the human: ''Gird your loins like a man; I will question you and you inform me''; God answers the
+    sufferer out of the storm-wind (se''arah); and 13 more.'
   basis: reading
 - text: 'Only in Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and
     the destroyed peoples: The companions of al-Rass (the well/pit), a destroyed people; Tall palm trees
@@ -44,8 +44,8 @@ evidence:
     heavens and earth (polemic against divine rest); Oath by the Quran itself (''By the wise Quran'');
     Humans return to the earth they were taken from (and, in the Quran, are brought out of it again) [divergence
     between the texts]; Shuʿayb is sent to the People of the Thicket (aṣḥāb al-ayka); Deniers ask ''When
-    we are bones and fragments, shall we be raised as a new creation?''; Human comes from dust and returns
-    to dust; and 4 more.'
+    we are bones and fragments, shall we be raised as a new creation?''; Roll call of destroyed peoples:
+    Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned cities; and 4 more.'
   basis: reading
 - text: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens: tagged
     by Claude (model), reading the Hebrew.'

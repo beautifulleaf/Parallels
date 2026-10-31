@@ -13,16 +13,16 @@ traditions:
 layers:
 - motif
 motifs:
-- who-ascended-to-heaven-and-came-down
 - prophet-nearly-compromises
+- who-ascended-to-heaven-and-came-down
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Who has gone up to heaven and come down, gathered the wind in his
-    fists, wrapped the waters in a garment? What is his name and his son''s name? (weight 6.7); Opponents
-    nearly lure the prophet into inventing something else; God makes him firm (weight 6.3). Pair score
-    13.0.'
+- text: 'Shared motifs, rarest first: Opponents nearly lure the prophet into inventing something else;
+    God makes him firm (weight 7.3); Who has gone up to heaven and come down, gathered the wind in his
+    fists, wrapped the waters in a garment? What is his name and his son''s name? (weight 7.1). Pair score
+    14.4.'
   basis: reading
 - text: 'Only in Words of Agur son of Yakeh, confession of ignorance and prayer: Do not add to his words
     lest he rebuke you and you be found a liar; Every word of God is refined (tested); he is a shield
@@ -43,7 +43,7 @@ evidence:
     humans would hold back for fear of spending; Keep vigil (tahajjud) with recitation in part of the
     night as an extra devotion; The prophet may be raised to a ''praised station'' (maqam mahmud), later
     read as intercession; Prayer: ''Lord, make my entrance and my exit true and grant me a helping authority'';
-    Prayer is fixed from the sun''s decline to the dark of night, with the dawn recitation; and 9 more.'
+    Prayer is fixed from the sun''s decline to the dark of night, with the dawn recitation; and 12 more.'
   basis: reading
 - text: 'Words of Agur son of Yakeh, confession of ignorance and prayer: tagged by Claude (model), reading
     the Hebrew.'

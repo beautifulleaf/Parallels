@@ -20,21 +20,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Neither your blood-ties nor your children will benefit you on the
-    Day of Resurrection (weight 6.7). Pair score 6.7.'
+    Day of Resurrection (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Idols in the heart; Noah, Daniel and Job could not save the land: God''s ''four evil
-    judgments'': sword, famine, evil beasts and pestilence; God himself will answer the idolater who inquires
-    of a prophet, making him a sign and a byword and cutting him off; If a prophet is enticed to speak,
-    ''I YHWH have enticed that prophet'' and will destroy him; Inquirers have ''set up their idols in
-    their hearts'' and put the stumbling-block of iniquity before their faces; Even if Noah, Daniel (Dan''el)
-    and Job were in the land, their righteousness would save only themselves, not sons or daughters; Survivors
-    from the doomed city will come to the exiles, who will be consoled on seeing their deeds that the
-    punishment was not without cause; God leads deniers step by step to ruin and grants them respite (istidraj);
-    On the Day no parent can avail his child, nor child his parent; When a land is destroyed only the
-    righteous few are rescued, by their own righteousness; Whether the righteous among a guilty people
-    shield it from punishment [contrast between the texts]; Who is saved with the hero from the destruction,
-    and why [contrast between the texts]; Elders of the people come and sit before the prophet in his
-    house to inquire; and 5 more.'
+- text: 'Only in Idols in the heart; Noah, Daniel and Job could not save the land: God himself will answer
+    the idolater who inquires of a prophet, making him a sign and a byword and cutting him off; If a prophet
+    is enticed to speak, ''I YHWH have enticed that prophet'' and will destroy him; Inquirers have ''set
+    up their idols in their hearts'' and put the stumbling-block of iniquity before their faces; Even
+    if Noah, Daniel (Dan''el) and Job were in the land, their righteousness would save only themselves,
+    not sons or daughters; Survivors from the doomed city will come to the exiles, who will be consoled
+    on seeing their deeds that the punishment was not without cause; God leads deniers step by step to
+    ruin and grants them respite (istidraj); On the Day no parent can avail his child, nor child his parent;
+    When a land is destroyed only the righteous few are rescued, by their own righteousness; Whether the
+    righteous among a guilty people shield it from punishment [contrast between the texts]; Who is saved
+    with the hero from the destruction, and why [contrast between the texts]; Elders of the people come
+    and sit before the prophet in his house to inquire; God''s ''four evil judgments'': sword, famine,
+    evil beasts and pestilence; and 5 more.'
   basis: reading
 - text: 'Only in Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining
     emigrant women, and the women''s pledge: Abraham and those with him are an excellent example: they
@@ -49,8 +49,8 @@ evidence:
     slander, or disobey in what is right; Abraham declares to his father and people that he is free of
     what they worship, except the one who created him; Dissolving marriages with women outside the community
     [divergence between the texts]; God does not forbid kindness and justice toward those who did not
-    fight you over religion or expel you; Mightier towns than the one that drove the prophet out were
-    destroyed; and 3 more.'
+    fight you over religion or expel you; The sovereign party of a bond requires the other to treat ''my
+    enemy'' as an enemy, not as a friend; and 10 more.'
   basis: reading
 - text: 'Idols in the heart; Noah, Daniel and Job could not save the land: tagged by Claude (model), reading
     the Hebrew.'

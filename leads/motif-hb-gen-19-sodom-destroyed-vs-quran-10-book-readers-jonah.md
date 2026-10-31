@@ -18,7 +18,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Hero''s family saved with him (weight 4.5). Pair score 4.5.'
+- text: 'Shared motifs, rarest first: Hero''s family saved with him (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them

@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Protection for someone who seeks refuge [divergence between the
-    texts] (weight 6.7). Pair score 6.7.'
+    texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Admission to the assembly; camp purity; slaves, interest, vows: Edomites (brothers) and
-    Egyptians (hosts) admitted in the third generation; Escaped slave not returned to his master; he may
-    live where he chooses; Harlot''s hire and the price of a dog may not be brought to the temple for
-    a vow; Latrine outside the war camp; dig with a spade and cover excrement because God walks in the
-    camp; Man unclean from a nocturnal emission stays outside the camp until evening and washes; Ammonites
-    and Moabites never admitted, for withholding bread and water and hiring Balaam; Whether obligations
-    differ toward insiders and outsiders [contrast between the texts]; You may eat your fill in a neighbor''s
-    vineyard or pluck ears by hand, but not carry away or use a sickle; Man with crushed testicles or
-    severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation;
+    Egyptians (hosts) admitted in the third generation; Harlot''s hire and the price of a dog may not
+    be brought to the temple for a vow; Latrine outside the war camp; dig with a spade and cover excrement
+    because God walks in the camp; Man unclean from a nocturnal emission stays outside the camp until
+    evening and washes; Ammonites and Moabites never admitted, for withholding bread and water and hiring
+    Balaam; Whether obligations differ toward insiders and outsiders [contrast between the texts]; You
+    may eat your fill in a neighbor''s vineyard or pluck ears by hand, but not carry away or use a sickle;
+    Escaped slave not returned to his master; he may live where he chooses; Man with crushed testicles
+    or severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation;
     God turned Balaam''s curse into a blessing; Whether obligations differ toward insiders and outsiders
     [response between the texts]; and 4 more.'
   basis: reading
@@ -41,9 +41,9 @@ evidence:
     the Merciful, the Compassionate''; Four of the twelve months are sacred; God punishes the enemy by
     the believers'' hands and heals the believers'' breasts; Treaties with those who kept them are honored
     until their term; Treaties with idolatrous peoples [contrast between the texts]; War on the idolatrous
-    inhabitants: total destruction or a way out [contrast between the texts]; Most of the peoples were
-    found without fidelity to their covenant; Unbelievers plot to confine, kill or expel the prophet,
-    but God plots too; and 1 more.'
+    inhabitants: total destruction or a way out [contrast between the texts]; An enemy bound by oath breaks
+    it, again and again, and scorns the religion or the gods'' words; Most of the peoples were found without
+    fidelity to their covenant; and 2 more.'
   basis: reading
 - text: 'Admission to the assembly; camp purity; slaves, interest, vows: tagged by Claude (model), reading
     the Hebrew.'

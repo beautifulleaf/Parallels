@@ -18,23 +18,24 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On that day the earth will tell its news, because its Lord inspired
-    it (weight 6.3). Pair score 6.3.'
+    it (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Cain and Abel: Murderer evades God''s question about his brother''s whereabouts; The
-    earth opens its mouth to receive spilled blood; Rivalry between a farmer brother and a shepherd brother;
-    Firstborn animals and their fat offered to God; Exile dwells in the land of Nod east of Eden; God
-    puts a protective sign on a murderer so no one kills him; Murderer condemned to be a restless wanderer,
-    the ground withholding its yield; Sin personified as a beast crouching at the door, desiring the man;
-    What the earth does with the murdered brother: takes in his blood, or hides his corpse [divergence
-    between the texts]; A brother kills his brother in the first murder [divergence between the texts];
-    Parents'' words to God about the child he gave them [divergence between the texts]; The first murderer''s
-    lament after the deed [divergence between the texts]; and 8 more.'
+    earth opens its mouth to receive spilled blood; Firstborn animals and their fat offered to God; Exile
+    dwells in the land of Nod east of Eden; God puts a protective sign on a murderer so no one kills him;
+    Murderer condemned to be a restless wanderer, the ground withholding its yield; Sin personified as
+    a beast crouching at the door, desiring the man; What the earth does with the murdered brother: takes
+    in his blood, or hides his corpse [divergence between the texts]; A brother kills his brother in the
+    first murder [divergence between the texts]; Parents'' words to God about the child he gave them [divergence
+    between the texts]; The first murderer''s lament after the deed [divergence between the texts]; God
+    accepts one brother''s offering and rejects the other''s; and 8 more.'
   basis: reading
 - text: 'Only in The earthquake: the earth tells its news: Whoever does an atom''s weight (mithqal dharra)
-    of good will see it, and an atom''s weight of evil will see it; At the end the earth is stretched
-    out, casts out what is in it (its burdens) and empties itself; Heaven and earth called as witnesses
-    against the people; On that day a great earthquake shakes the land; fish, birds, beasts, creeping
-    things and all humans quake before God, mountains are thrown down and every wall falls.'
+    of good will see it, and an atom''s weight of evil will see it; Whether the wrongs a man did on earth
+    are counted against him at the judgment [contrast between the texts]; At the end the earth is stretched
+    out, casts out what is in it (its burdens) and empties itself; On that day a great earthquake shakes
+    the land; fish, birds, beasts, creeping things and all humans quake before God, mountains are thrown
+    down and every wall falls; Heaven and earth called as witnesses against the people.'
   basis: reading
 - text: 'Cain and Abel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

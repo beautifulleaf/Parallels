@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day of the Hour every community is seen kneeling (jathiya),
-    each called to its book of deeds (weight 6.3); God keeps a book in which names are written and from
-    which sinners are blotted (weight 4.6). Pair score 10.8.'
+    each called to its book of deeds (weight 7.3); God keeps a book in which names are written and from
+    which sinners are blotted (weight 5.4). Pair score 12.8.'
   basis: reading
 - text: 'Only in Psalm 87, Zion mother of nations; this one was born there: Singers and dancers declare
     ''All my springs are in you'' (Zion as source of waters); Zion''s foundation is on the holy mountains;

@@ -21,7 +21,7 @@ evidence:
   basis: reading
 - text: 'Shared motifs, rarest first: On that day a great earthquake shakes the land; fish, birds, beasts,
     creeping things and all humans quake before God, mountains are thrown down and every wall falls (weight
-    5.3). Pair score 5.3.'
+    6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Gog of Magog invades the land dwelling at the navel of the earth: The invader plots to
     attack a quiet people dwelling securely in unwalled villages without bars or gates, to seize plunder;
@@ -38,9 +38,10 @@ evidence:
     and 10 more.'
   basis: reading
 - text: 'Only in The earthquake: the earth tells its news: Whoever does an atom''s weight (mithqal dharra)
-    of good will see it, and an atom''s weight of evil will see it; On that day the earth will tell its
-    news, because its Lord inspired it; At the end the earth is stretched out, casts out what is in it
-    (its burdens) and empties itself; Heaven and earth called as witnesses against the people.'
+    of good will see it, and an atom''s weight of evil will see it; Whether the wrongs a man did on earth
+    are counted against him at the judgment [contrast between the texts]; On that day the earth will tell
+    its news, because its Lord inspired it; At the end the earth is stretched out, casts out what is in
+    it (its burdens) and empties itself; Heaven and earth called as witnesses against the people.'
   basis: reading
 - text: 'Gog of Magog invades the land dwelling at the navel of the earth: tagged by Claude (model), reading
     the Hebrew.'

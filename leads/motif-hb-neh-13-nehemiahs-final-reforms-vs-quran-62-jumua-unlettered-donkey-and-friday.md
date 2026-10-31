@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Trade on the weekly holy day [divergence between the texts] (weight
-    6.7); Reformer rebukes treading winepresses, loading donkeys and selling fish on the Sabbath (weight
-    6.7). Pair score 13.4.'
+    7.7); Reformer rebukes treading winepresses, loading donkeys and selling fish on the Sabbath (weight
+    7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites'' portions,
     Sabbath and mixed marriages: The Persian king is called ''king of Babylon''; Temple chambers defiled
@@ -42,14 +42,15 @@ evidence:
     When the call to prayer is made on Friday (yawm al-jumu''a), hasten to God''s remembrance and leave
     trading; after the prayer disperse and seek God''s bounty; Challenge to the Jews: if you claim to
     be God''s friends apart from others, wish for death, if you are truthful; they never will; The death
-    you flee from will surely meet you; Israel likened to a donkey that knows, or does not understand,
-    what it has [divergence between the texts]; Merchants ask when the new moon and sabbath will be over
-    so they can sell grain with small ephah, big shekel and false scales; God raised among the unlettered
-    (ummiyyun, Gentiles) a messenger from among them, reciting signs, purifying them and teaching the
-    Book and wisdom; The weekly holy day, and whether it rests on God''s rest [divergence between the
-    texts]; Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
-    Maker, Fashioner; to him belong the most beautiful names; Opening formula: whatever is in the heavens
-    and the earth glorifies God (sabbaha / yusabbihu lillah).'
+    or fate a man flees comes after him and meets him [divergence between the texts]; The death you flee
+    from will surely meet you; Israel likened to a donkey that knows, or does not understand, what it
+    has [divergence between the texts]; Merchants ask when the new moon and sabbath will be over so they
+    can sell grain with small ephah, big shekel and false scales; God raised among the unlettered (ummiyyun,
+    Gentiles) a messenger from among them, reciting signs, purifying them and teaching the Book and wisdom;
+    The weekly holy day, and whether it rests on God''s rest [divergence between the texts]; Litany of
+    divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator, Maker, Fashioner;
+    to him belong the most beautiful names; Opening formula: whatever is in the heavens and the earth
+    glorifies God (sabbaha / yusabbihu lillah).'
   basis: reading
 - text: 'Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites'' portions, Sabbath
     and mixed marriages: tagged by Claude (model), reading the Hebrew.'

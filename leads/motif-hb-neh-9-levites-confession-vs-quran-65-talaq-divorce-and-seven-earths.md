@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Heaven and the heaven of heavens belong to God (weight 5.4). Pair
-    score 5.4.'
+- text: 'Shared motifs, rarest first: Heaven and the heaven of heavens belong to God (weight 6.5). Pair
+    score 6.5.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -41,11 +41,11 @@ evidence:
     Waiting period of three months for women past menses or not yet menstruating; for the pregnant, until
     delivery; Husband writes a bill of divorcement for ''some indecency'' and sends her away [contrast
     between the texts]; Husband writes a bill of divorcement for ''some indecency'' and sends her away
-    [divergence between the texts]; At the end of the term, retain or part with them honorably, and call
-    two just witnesses [divergence between the texts]; The offering is reduced for those who cannot afford
-    it; Husband writes a bill of divorcement for ''some indecency'' and sends her away; God burdens no
-    soul beyond its capacity; God brings believers out of darknesses into light; false gods lead others
-    from light into darkness; and 1 more.'
+    [divergence between the texts]; What one gives is graded by one''s means: the rich much, the poor
+    little; At the end of the term, retain or part with them honorably, and call two just witnesses [divergence
+    between the texts]; The offering is reduced for those who cannot afford it; How many heavens there
+    are [divergence between the texts]; Husband writes a bill of divorcement for ''some indecency'' and
+    sends her away; and 3 more.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

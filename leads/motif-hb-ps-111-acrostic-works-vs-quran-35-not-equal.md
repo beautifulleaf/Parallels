@@ -19,22 +19,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the fear of God and knowledge are related [divergence between
-    the texts] (weight 6.3). Pair score 6.3.'
+    the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 111, acrostic hymn on God''s works: God ''made a memorial (zekher) for his wonders''
     and gave food to those who fear him; ''The fear of YHWH is the beginning (reshit) of wisdom/knowledge'';
     Formula of divine attributes: slow to anger, abundant in mercy, visits iniquity to fourth generation;
-    The poem is an alphabetic acrostic (lines or stanzas begin with successive letters); The cultic cry
-    ''Hallelu-Yah'' (praise Yah) closes or opens a psalm.'
+    The cultic cry ''Hallelu-Yah'' (praise Yah) closes or opens a psalm; The poem is an alphabetic acrostic
+    (lines or stanzas begin with successive letters).'
   basis: reading
 - text: 'Only in No soul bears another''s burden; the blind and the seeing; the colors of creation: God
     brings forth fruits of varied colors, streaks in the mountains white, red and raven-black, and varied
     colors in people and beasts; There was no community but a warner passed among it; Only those of his
     servants who have knowledge truly fear God; Whether the seeing and the blind, light and darkness,
     end alike [divergence between the texts]; Whether one person (kin, descendants) bears another''s sin
-    [contrast between the texts]; Rhetorical question: are the blind and the seeing equal, or darkness
-    and light?; The prophet cannot make the dead or deaf hear, nor guide the blind; No burdened soul bears
-    another''s burden; even a relative will not carry any of it; Each person dies for his own sin.'
+    [contrast between the texts]; No burdened soul bears another''s burden; even a relative will not carry
+    any of it [divergence between the texts]; Rhetorical question: are the blind and the seeing equal,
+    or darkness and light?; Whether a man can hear (obey) is given or withheld by the deity; The prophet
+    cannot make the dead or deaf hear, nor guide the blind; No burdened soul bears another''s burden;
+    even a relative will not carry any of it; Whether one person''s guilt (a parent''s, another''s) comes
+    upon someone else [contrast between the texts]; Each person dies for his own sin.'
   basis: reading
 - text: 'Psalm 111, acrostic hymn on God''s works: tagged by Claude (model), reading the Hebrew.'
   basis: reading

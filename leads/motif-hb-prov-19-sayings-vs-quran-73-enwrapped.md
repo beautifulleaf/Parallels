@@ -19,31 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who will lend God a goodly loan (qard hasan), that he may multiply
-    it for him? (weight 5.4). Pair score 5.4.'
+    it for him? (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Sayings on the poor, the king''s wrath and the sluggard: A man''s folly ruins his way
     and his heart rages against YHWH; A son who ruins his father and chases away his mother brings shame;
     He who finds a wife finds a good thing and obtains favor from YHWH; a prudent wife is from YHWH; Giving
     as a loan to God, repaid by him [divergence between the texts]; The king''s wrath is like the growling
     of a young lion; his favor like dew on the grass; Whatever misfortune strikes people is for what their
-    own hands have earned, though God pardons much; A quarrelsome wife is like a continual dripping (of
-    a leaking roof); The sluggard buries his hand in the dish and will not even bring it back to his mouth;
-    Strike a scoffer and the simple will learn prudence; The poor is hated even by his neighbor, but the
-    rich has many friends; A rod is for the back of the fool (the senseless); The slow to anger is better
-    than a mighty man, and he who rules his spirit than he who takes a city; and 6 more.'
+    own hands have earned, though God pardons much; The sluggard buries his hand in the dish and will
+    not even bring it back to his mouth; Strike a scoffer and the simple will learn prudence; The poor
+    is hated even by his neighbor, but the rich has many friends; A rod is for the back of the fool (the
+    senseless); A quarrelsome wife is like a continual dripping (of a leaking roof); The slow to anger
+    is better than a mighty man, and he who rules his spirit than he who takes a city; and 6 more.'
   basis: reading
 - text: 'Only in The enwrapped one: the night vigil: A day so terrible it turns children grey-haired;
     Command to recite the scripture in slow measured chant (tartil); Night vigil prescribed in measured
     portions (half the night, less or more, two-thirds or a third), later lightened for the sick, travelers
     and fighters; God will cast upon the prophet a heavy word (qawlan thaqilan); Hell''s food chokes (dha
-    ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies hunger; God called Lord
-    of the east and the west, or of the (many) easts and wests (sunrise and sunset points); Prophet wraps
-    his face in his mantle on hearing God; God has prepared chains, iron collars and fetters (ankal) for
-    the unbelievers; Speaker rises at midnight to give thanks to God; At the end the sky is split, cleft
-    or opened (infatarat, inshaqqat, furijat); At the end the mountains become a heap of running sand,
-    are blown away, set in motion or turn into a mirage; On that day a great earthquake shakes the land;
-    fish, birds, beasts, creeping things and all humans quake before God, mountains are thrown down and
-    every wall falls; and 1 more.'
+    ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies hunger; Sacred words recited
+    at dead of night, and what is done by day [divergence between the texts]; God called Lord of the east
+    and the west, or of the (many) easts and wests (sunrise and sunset points); Prophet wraps his face
+    in his mantle on hearing God; God has prepared chains, iron collars and fetters (ankal) for the unbelievers;
+    Speaker rises at midnight to give thanks to God; Lordship that reaches from the rising to the setting
+    of the sun; At the end the sky is split, cleft or opened (infatarat, inshaqqat, furijat); and 3 more.'
   basis: reading
 - text: 'Sayings on the poor, the king''s wrath and the sluggard: tagged by Claude (model), reading the
     Hebrew.'

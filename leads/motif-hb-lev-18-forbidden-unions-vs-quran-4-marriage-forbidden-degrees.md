@@ -15,30 +15,30 @@ traditions:
 layers:
 - motif
 motifs:
-- two-sisters-forbidden-as-rival-wives
-- incest-prohibitions-list-as-divergence
 - marrying-two-sisters-as-divergence
+- incest-prohibitions-list-as-divergence
+- two-sisters-forbidden-as-rival-wives
 - no-marrying-fathers-wife
 - incest-prohibitions-list
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A man may not marry his wife''s sister as a rival while the wife
-    lives (weight 6.7); List of forbidden close-kin unions (''uncovering nakedness'') [divergence between
-    the texts] (weight 6.7); Marrying two sisters [divergence between the texts] (weight 6.7); A man must
-    not take his father''s wife (uncover his father''s skirt) (weight 6.0); List of forbidden close-kin
-    unions (''uncovering nakedness'') (weight 6.0). Pair score 32.1.'
+- text: 'Shared motifs, rarest first: Marrying two sisters [divergence between the texts] (weight 7.7);
+    List of forbidden close-kin unions (''uncovering nakedness'') [divergence between the texts] (weight
+    7.7); A man may not marry his wife''s sister as a rival while the wife lives (weight 7.7); A man must
+    not take his father''s wife (uncover his father''s skirt) (weight 7.1); List of forbidden close-kin
+    unions (''uncovering nakedness'') (weight 6.8). Pair score 37.1.'
   basis: reading
 - text: 'Only in Forbidden sexual unions; the land vomits out its inhabitants: Sexual relations of a man
-    or a woman with an animal are forbidden; Marrying or lying with a brother''s wife is forbidden; Do
-    not follow the practices of Egypt where you lived or of Canaan where you are going; The land, defiled
-    by abominations, vomits out its inhabitants; The person who does God''s statutes shall live by them;
-    Lying with a male as with a woman is forbidden; Whether a man may marry his son''s (or adopted son''s)
-    wife [divergence between the texts]; Sexual relations with a neighbor''s wife are forbidden; Zihar:
-    a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying is false
-    and abhorrent; Giving one''s offspring to Molech is forbidden and punished; Intercourse with a menstruating
-    woman is forbidden.'
+    or a woman with an animal are forbidden; Do not follow the practices of Egypt where you lived or of
+    Canaan where you are going; The land, defiled by abominations, vomits out its inhabitants; The person
+    who does God''s statutes shall live by them; Lying with a male as with a woman is forbidden; Whether
+    a man may marry his son''s (or adopted son''s) wife [divergence between the texts]; Marrying or lying
+    with a brother''s wife is forbidden; Zihar: a husband declaring his wife ''like my mother''s back'';
+    she is not his mother, the saying is false and abhorrent; Giving one''s offspring to Molech is forbidden
+    and punished; Intercourse with a menstruating woman is forbidden; Sexual relations with a neighbor''s
+    wife are forbidden.'
   basis: reading
 - text: 'Only in Inheriting women, the dowry, and the forbidden degrees: A husband exchanging one wife
     for another may not take back anything he gave, even a qinṭār; God wishes to lighten your burden,
@@ -48,9 +48,10 @@ evidence:
     slave woman who commits indecency receives half the punishment of a free woman; Man who lies with
     a slave woman designated to another man: inquiry and guilt offering, not death, because she is not
     free; The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit
-    part; Married women are forbidden except those one''s right hand possesses (captives); What becomes
-    of a dead man''s widow within his family [contrast between the texts]; A man must marry his dead brother''s
-    widow to raise seed for the brother; Hero marries two sisters.'
+    part; Married women are forbidden except those one''s right hand possesses (captives); A man marries
+    a slave woman by leave of her owner and with a payment; What becomes of a dead man''s widow within
+    his family [contrast between the texts]; Whether a man may take his wife''s sister [neutral] [divergence
+    between the texts]; and 2 more.'
   basis: reading
 - text: 'Forbidden sexual unions; the land vomits out its inhabitants: tagged by Claude (model), reading
     the Hebrew.'

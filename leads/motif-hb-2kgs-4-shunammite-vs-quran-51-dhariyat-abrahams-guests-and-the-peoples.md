@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A barren wife is told by a divine messenger that she will bear a
-    son (weight 5.8); A divine messenger announces a son''s birth and gives his name (weight 5.2); Host
-    runs to welcome strangers, washes their feet and feeds them (weight 5.1). Pair score 16.0.'
+    son (weight 6.8); A divine messenger announces a son''s birth and gives his name (weight 6.0); Host
+    runs to welcome strangers, washes their feet and feeds them (weight 5.8). Pair score 18.7.'
   basis: reading
 - text: 'Only in The Shunammite woman and her son: Child in the harvest field cries ''My head, my head!''
     and dies at noon on his mother''s knees; Woman protests the promise of a son: ''Do not lie to your
@@ -44,10 +44,11 @@ evidence:
     were told ''Enjoy yourselves for a while'', defied the command and were seized by the thunderbolt
     while they looked on; Abraham''s wife comes forward crying out, strikes her face and says ''A barren
     old woman!''; Angels seize the hesitating family by the hand and lead them out; The answer given to
-    the old woman''s doubt [divergence between the texts]; Heavenly visitors eat a human meal; Host runs
-    to welcome strangers, washes their feet and feeds them [divergence between the texts]; How Abraham
-    learns of Sodom''s fate, and his response [divergence between the texts]; Who Abraham''s visitors
-    are [divergence between the texts]; and 17 more.'
+    the old woman''s doubt [divergence between the texts]; Supernatural envoys who come to seize or destroy
+    do not eat the food offered them [divergence between the texts]; Host runs to welcome strangers, washes
+    their feet and feeds them [divergence between the texts]; The host, seeing the divine visitor, has
+    his household prepare an animal from the herd (lamb, calf) for the guest; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; and 22 more.'
   basis: reading
 - text: 'The Shunammite woman and her son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

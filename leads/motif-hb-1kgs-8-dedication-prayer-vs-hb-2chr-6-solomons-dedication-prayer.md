@@ -11,8 +11,8 @@ traditions:
 layers:
 - motif
 motifs:
-- no-man-who-does-not-sin
 - foreigner-prays-at-temple
+- no-man-who-does-not-sin
 - god-cannot-be-contained-by-temple
 - direction-of-prayer-as-divergence
 - prayer-toward-the-temple
@@ -20,30 +20,30 @@ motifs:
 - heaven-of-heavens
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: ''There is no man who does not sin'' (weight 6.7); A foreigner from
-    a far land who hears of God''s name comes to pray at the temple and is heard (weight 6.7); Heaven
-    and the heaven of heavens cannot contain God, much less a temple (weight 6.3); The direction faced
-    in prayer [divergence between the texts] (weight 6.0); Prayers made toward the temple (or toward the
-    land, city and house when in exile) are heard in heaven (weight 6.0); Prophet spreads out his palms
-    to God in prayer (weight 5.4); Heaven and the heaven of heavens belong to God (weight 5.4). Pair score
-    42.5.'
+- text: 'Shared motifs, rarest first: A foreigner from a far land who hears of God''s name comes to pray
+    at the temple and is heard (weight 7.7); ''There is no man who does not sin'' (weight 7.7); Heaven
+    and the heaven of heavens cannot contain God, much less a temple (weight 7.1); The direction faced
+    in prayer [divergence between the texts] (weight 7.1); Prayers made toward the temple (or toward the
+    land, city and house when in exile) are heard in heaven (weight 7.1); Prophet spreads out his palms
+    to God in prayer (weight 6.5); Heaven and the heaven of heavens belong to God (weight 6.5). Pair score
+    49.6.'
   basis: reading
 - text: 'Only in Solomon''s prayer of dedication: Exiles in an enemy land turn back with all their heart
     and pray toward their land, and God grants them mercy before captors; A man accused swears a curse-oath
-    before the altar, and God judges guilty and innocent; Long catalogue of curses for covenant violation
-    (disease, defeat, famine, exile); Egypt called an iron furnace (smelting furnace); Heaven is shut
-    and no rain falls because of the people''s sin; repentance brings rain; God alone knows the hearts
-    of all humans.'
+    before the altar, and God judges guilty and innocent; Egypt called an iron furnace (smelting furnace);
+    Heaven is shut and no rain falls because of the people''s sin; repentance brings rain; Long catalogue
+    of curses for covenant violation (disease, defeat, famine, exile); God alone knows the hearts of all
+    humans.'
   basis: reading
-- text: 'Only in Solomon''s blessing and dedication prayer on the bronze platform: Prayer lists famine,
-    pestilence, blight, mildew, locust, siege and sickness as occasions for prayer; The king kneels on
-    a bronze platform in the court and spreads his hands to heaven; An oath sworn before God''s altar
-    in the temple, judged by God; People away from Jerusalem or in exile pray in the direction of the
-    land, city and temple; Captives confess in exile ''We have sinned, done wrong and acted wickedly'';
-    ''Arise, YHWH, to your resting place, you and the ark of your might''; Temple called a ''house of
-    zebul'' (exalted dwelling), a place for God to dwell forever; ''O my servants who have transgressed
-    against themselves, do not despair of God''s mercy; God forgives all sins''; God has said he will
-    dwell in thick darkness (''arafel); The dynasty''s continuance is conditioned on the heirs'' faithfulness;
+- text: 'Only in Solomon''s blessing and dedication prayer on the bronze platform: The king kneels on
+    a bronze platform in the court and spreads his hands to heaven; People away from Jerusalem or in exile
+    pray in the direction of the land, city and temple; Captives confess in exile ''We have sinned, done
+    wrong and acted wickedly''; ''Arise, YHWH, to your resting place, you and the ark of your might'';
+    Prayer lists famine, pestilence, blight, mildew, locust, siege and sickness as occasions for prayer;
+    An oath sworn before God''s altar in the temple, judged by God; Temple called a ''house of zebul''
+    (exalted dwelling), a place for God to dwell forever; ''O my servants who have transgressed against
+    themselves, do not despair of God''s mercy; God forgives all sins''; God has said he will dwell in
+    thick darkness (''arafel); The dynasty''s continuance is conditioned on the heirs'' faithfulness;
     God looks on the heart, not on appearance or height; Sacrifice only at the place God will choose to
     make his name dwell; and 1 more.'
   basis: reading
@@ -54,7 +54,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: '''There is no man who does not sin'''
+finding: A foreigner from a far land who hears of God's name comes to pray at the temple and is heard
 kinds:
 - shared
 units:
@@ -65,21 +65,6 @@ units:
   title: Solomon's blessing and dedication prayer on the bronze platform
   tradition: judaism
 matches:
-- kind: shared
-  label: '''There is no man who does not sin'''
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 1Kgs 8:46
-      lang: he
-      text: כִּ֣י יֶֽחֶטְאוּ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם
-        לִפְנֵ֣י אוֹיֵ֑ב וְשָׁב֤וּם שֹֽׁבֵיהֶם֙ אֶל אֶ֣רֶץ הָאוֹיֵ֔ב רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה
-  - tradition: judaism
-    passages:
-    - ref: 2Chr 6:36
-      lang: he
-      text: כִּ֣י יֶחֶטְאוּ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם
-        לִפְנֵ֣י אוֹיֵ֑ב וְשָׁב֧וּם שׁוֹבֵיהֶ֛ם אֶל אֶ֥רֶץ רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה
 - kind: shared
   label: A foreigner from a far land who hears of God's name comes to pray at the temple and is heard
   sides:
@@ -105,6 +90,21 @@ matches:
       text: וְאַתָּ֞ה תִּשְׁמַ֤ע מִן הַשָּׁמַ֨יִם֙ מִמְּכ֣וֹן שִׁבְתֶּ֔ךָ וְעָשִׂ֕יתָ כְּכֹ֛ל אֲשֶׁר יִקְרָ֥א
         אֵלֶ֖יךָ הַנָּכְרִ֑י לְמַ֣עַן יֵדְעוּ֩ כָל עַמֵּ֨י הָאָ֜רֶץ אֶת שְׁמֶ֗ךָ וּלְיִרְאָ֤ה אֹֽתְךָ֙
         כְּעַמְּךָ֣ יִשְׂרָאֵ֔ל וְלָדַ֕עַת כִּֽי שִׁמְךָ֣ נִקְרָ֔א עַל הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי
+- kind: shared
+  label: '''There is no man who does not sin'''
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:46
+      lang: he
+      text: כִּ֣י יֶֽחֶטְאוּ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם
+        לִפְנֵ֣י אוֹיֵ֑ב וְשָׁב֤וּם שֹֽׁבֵיהֶם֙ אֶל אֶ֣רֶץ הָאוֹיֵ֔ב רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 6:36
+      lang: he
+      text: כִּ֣י יֶחֶטְאוּ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם
+        לִפְנֵ֣י אוֹיֵ֑ב וְשָׁב֧וּם שׁוֹבֵיהֶ֛ם אֶל אֶ֥רֶץ רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה
 - kind: shared
   label: Heaven and the heaven of heavens cannot contain God, much less a temple
   sides:

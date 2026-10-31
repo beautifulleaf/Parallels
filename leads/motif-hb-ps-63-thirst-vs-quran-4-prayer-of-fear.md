@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who remember God standing, sitting and on their sides and
-    reflect on creation (weight 6.0). Pair score 6.0.'
+    reflect on creation (weight 7.1). Pair score 7.1.'
   basis: reading
-- text: 'Only in Psalm 63, my soul thirsts for you in the wilderness of Judah: Slain enemies become a
-    portion for jackals or food for beasts and birds; Prayer that the king''s days be prolonged for generations
-    and he be enthroned forever before God; The soul thirsts for God like a dry, weary land without water;
-    Enemies will descend to the lowest parts of the earth (tahtiyyot ha-arets); Speaker remembers and
-    meditates on God on his bed through the night watches; Remember God within yourself, humbly, without
-    loud speech, morning and evening; The believers'' sides forsake their beds as they call on their Lord
-    in fear and hope (night vigil); Lifting the hands (palms) in prayer or blessing; Petitioner takes
-    refuge in the shadow of God''s wings; Superscription sets the psalm in a specific episode of David''s
-    life.'
+- text: 'Only in Psalm 63, my soul thirsts for you in the wilderness of Judah: The soul thirsts for God
+    like a dry, weary land without water; Enemies will descend to the lowest parts of the earth (tahtiyyot
+    ha-arets); Speaker remembers and meditates on God on his bed through the night watches; Remember God
+    within yourself, humbly, without loud speech, morning and evening; Slain enemies become a portion
+    for jackals or food for beasts and birds; The believers'' sides forsake their beds as they call on
+    their Lord in fear and hope (night vigil); Petitioner takes refuge in the shadow of God''s wings;
+    Lifting the hands (palms) in prayer or blessing; Superscription sets the psalm in a specific episode
+    of David''s life; Prayer that the king''s days be prolonged for generations and he be enthroned forever
+    before God.'
   basis: reading
 - text: 'Only in Shortened prayer and prayer in shifts under arms: If you suffer, they suffer as you do,
     but you hope from God what they do not; Prayer is prescribed for believers at fixed times (kitāban

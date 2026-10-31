@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rain from the sky gives life to the earth after its death, a sign
-    of resurrection (weight 4.4). Pair score 4.4.'
+    of resurrection (weight 5.5). Pair score 5.5.'
   basis: reading
 - text: 'Only in Judgment on priests and kings; ''on the third day he will raise us'': God is like a moth
     (or pus) to Ephraim and like rot to Judah; God returns to his place until the people acknowledge guilt

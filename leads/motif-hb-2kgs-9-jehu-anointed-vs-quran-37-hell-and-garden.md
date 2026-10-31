@@ -19,27 +19,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idolaters ask ''shall we abandon our gods for a mad poet?'' (weight
-    6.7); Officers call the visiting prophet ''this madman'' (meshugga'') (weight 5.1). Pair score 11.8.'
+    7.7); Officers call the visiting prophet ''this madman'' (meshugga'') (weight 6.1). Pair score 13.9.'
   basis: reading
 - text: 'Only in Jehu anointed king: Officers spread their garments under the new king on the steps, blow
     the shofar and proclaim ''Jehu is king!''; A young prophet anoints the army commander king in an inner
     room with a flask of oil, then opens the door and flees; The charge that a prophet is mad; Prophet
-    commissioned to anoint a foreign king, a native king and his own prophetic successor; Dogs will eat
-    the wicked queen by the wall (or plot) of Jezreel; Prophet anoints a future king privately with oil
-    from a flask; Every male cut off, idiom ''one who pisses against the wall'', ''bond and free''.'
+    commissioned to anoint a foreign king, a native king and his own prophetic successor; Prophet anoints
+    a future king privately with oil from a flask; Dogs will eat the wicked queen by the wall (or plot)
+    of Jezreel; Every male cut off, idiom ''one who pisses against the wall'', ''bond and free''.'
   basis: reading
 - text: 'Only in The damned questioned; the blessed on facing couches; the tree of Zaqqum: Beside them
-    are wide-eyed maidens of restrained glance, as if they were sheltered eggs; The blessed will not die
-    except their first death and will not be punished; The blessed sit on couches facing one another;
-    Gather the wrongdoers, their mates and what they worshipped and lead them to the path of hell; stop
-    them, they will be questioned; One of the blessed recalls a companion who denied the resurrection,
-    looks down and sees him in the midst of hell; The effects of wine on the drinker [contrast between
-    the texts]; In the punishment the misled and their misleaders turn on each other in recrimination
-    and share the punishment; Paradise drink from which they suffer no headache nor intoxication; Reclining
-    on couches and drinking wine, and how it is judged [contrast between the texts]; Opponents call the
-    revelation jumbled dreams, a forgery, or the work of a poet; Rejecters reply ''we follow what we found
-    our fathers upon''; The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads
-    of devils; the damned fill their bellies and drink boiling water; and 2 more.'
+    are wide-eyed maidens of restrained glance, as if they were sheltered eggs; The blessed sit on couches
+    facing one another; Gather the wrongdoers, their mates and what they worshipped and lead them to the
+    path of hell; stop them, they will be questioned; One of the blessed recalls a companion who denied
+    the resurrection, looks down and sees him in the midst of hell; The effects of wine on the drinker
+    [contrast between the texts]; ''Had it not been that the lord released me, I would have gone down
+    to the netherworld'' as a refrain of thanksgiving; In the punishment the misled and their misleaders
+    turn on each other in recrimination and share the punishment; Paradise drink from which they suffer
+    no headache nor intoxication; Reclining on couches and drinking wine, and how it is judged [contrast
+    between the texts]; The blessed will not die except their first death and will not be punished; Opponents
+    call the revelation jumbled dreams, a forgery, or the work of a poet; Rejecters reply ''we follow
+    what we found our fathers upon''; and 3 more.'
   basis: reading
 - text: 'Jehu anointed king: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -16,17 +16,17 @@ layers:
 - motif
 motifs:
 - no-pity-in-punishment
-- number-of-witnesses-required-as-divergence
 - false-witness-suffers-intended-penalty
+- number-of-witnesses-required-as-divergence
 - two-witnesses-for-capital-case
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Judges told to let no pity hold them back from carrying out a fixed
-    punishment (weight 6.7); How many witnesses a charge requires [divergence between the texts] (weight
-    6.3); False witness receives the punishment he plotted for his brother (weight 6.3); No one put to
-    death on the testimony of a single witness (weight 5.4). Pair score 24.7.'
+    punishment (weight 7.7); False witness receives the punishment he plotted for his brother (weight
+    7.3); How many witnesses a charge requires [divergence between the texts] (weight 7.3); No one put
+    to death on the testimony of a single witness (weight 6.5). Pair score 28.9.'
   basis: reading
 - text: 'Only in Cities of refuge, boundary stones, false witnesses: Axe head slips off the handle while
     cutting wood and kills a companion (accidental homicide); Deliberate murderer who flees to refuge
@@ -34,23 +34,23 @@ evidence:
     between the texts]; False witness receives the punishment he plotted for his brother [divergence between
     the texts]; A place of refuge for one who kills unintentionally [divergence between the texts]; How
     many witnesses are required [divergence between the texts]; Retaliation (talion) for killing or injury
-    [divergence between the texts]; The ''redeemer of blood'' (go''el ha-dam) kills the murderer; Six
-    cities of refuge for the unintentional killer, three on each side of the Jordan; Do not move your
-    neighbor''s ancient boundary marker; Eye for an eye, tooth for a tooth (lex talionis).'
+    [divergence between the texts]; Six cities of refuge for the unintentional killer, three on each side
+    of the Jordan; Eye for an eye, tooth for a tooth (lex talionis); The ''redeemer of blood'' (go''el
+    ha-dam) kills the murderer; Do not move your neighbor''s ancient boundary marker.'
   basis: reading
 - text: 'Only in Lashes for fornication, four witnesses and the mutual cursing oath: The fornicating woman
     and man each receive a hundred lashes, witnessed by a party of believers; A fornicator may marry only
     a fornicator or an idolater; such marriage is forbidden to believers; A husband accusing his wife
     without witnesses swears four times by God and a fifth time invokes God''s curse on himself if lying;
     she averts punishment by four counter-oaths and a fifth invoking God''s wrath; Whether the husband
-    who accuses his wife bears any liability [contrast between the texts]; Wife suspected of adultery
-    drinks ''water of bitterness'' as an ordeal; Whoever accuses a chaste woman without four witnesses
-    is flogged eighty lashes and his testimony is never accepted; Who is barred from marrying an unchaste
-    woman [divergence between the texts]; How many lashes a flogging may have [contrast between the texts];
-    A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Who swears,
-    and how, when a husband suspects his wife of adultery without witnesses [divergence between the texts];
-    The penalty for adultery or fornication [contrast between the texts]; The penalty for falsely accusing
-    a woman of unchastity [divergence between the texts]; and 4 more.'
+    who accuses his wife bears any liability [contrast between the texts]; The adulterer is excluded from
+    the company of the just [divergence between the texts]; Wife suspected of adultery drinks ''water
+    of bitterness'' as an ordeal; Whoever accuses a chaste woman without four witnesses is flogged eighty
+    lashes and his testimony is never accepted; Who is barred from marrying an unchaste woman [divergence
+    between the texts]; How many lashes a flogging may have [contrast between the texts]; A man accused
+    swears a curse-oath before the altar, and God judges guilty and innocent; Who swears, and how, when
+    a husband suspects his wife of adultery without witnesses [divergence between the texts]; The penalty
+    for adultery or fornication [contrast between the texts]; and 5 more.'
   basis: reading
 - text: 'Cities of refuge, boundary stones, false witnesses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

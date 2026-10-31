@@ -20,14 +20,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
-    (weight 5.1). Pair score 5.1.'
+    (weight 6.1). Pair score 6.1.'
   basis: reading
 - text: 'Only in Jehu anointed king: Officers spread their garments under the new king on the steps, blow
     the shofar and proclaim ''Jehu is king!''; A young prophet anoints the army commander king in an inner
     room with a flask of oil, then opens the door and flees; The charge that a prophet is mad; Idolaters
     ask ''shall we abandon our gods for a mad poet?''; Prophet commissioned to anoint a foreign king,
-    a native king and his own prophetic successor; Dogs will eat the wicked queen by the wall (or plot)
-    of Jezreel; Prophet anoints a future king privately with oil from a flask; Every male cut off, idiom
+    a native king and his own prophetic successor; Prophet anoints a future king privately with oil from
+    a flask; Dogs will eat the wicked queen by the wall (or plot) of Jezreel; Every male cut off, idiom
     ''one who pisses against the wall'', ''bond and free''.'
   basis: reading
 - text: 'Only in The affluent reject warners; angels disown jinn-worshippers; the prophet is not mad:

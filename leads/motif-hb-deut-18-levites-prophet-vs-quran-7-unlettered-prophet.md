@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A future prophet promised in the earlier scripture [response between
-    the texts] (weight 6.7); God will raise up a prophet like Moses from among the brothers and put his
-    words in his mouth (weight 5.2). Pair score 11.9.'
+    the texts] (weight 7.7); God will raise up a prophet like Moses from among the brothers and put his
+    words in his mouth (weight 6.2). Pair score 14.0.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:

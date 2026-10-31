@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel called sons of God [response between the texts] (weight 6.7);
-    Israel called sons of God (weight 6.3). Pair score 13.0.'
+- text: 'Shared motifs, rarest first: Israel called sons of God [response between the texts] (weight 7.7);
+    Israel called sons of God (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Mourning rites forbidden; clean and unclean food; tithes: Animal that died of itself
     may be given to the resident alien or sold to a foreigner; If the place is far, convert the tithe

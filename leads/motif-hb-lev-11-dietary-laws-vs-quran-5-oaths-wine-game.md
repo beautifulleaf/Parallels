@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Water creatures are permitted only if they have fins and scales
-    [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Clean and unclean animals; carcass impurity: The camel is unclean because it does not
     have a split hoof; Touching or carrying a carcass makes one unclean until evening; Creatures that
@@ -40,9 +40,9 @@ evidence:
     gambling, stone altars and divining arrows are abomination of Satan''s work; Abstinence from wine,
     by vow or by general law [divergence between the texts]; The people consult their piece of wood and
     their staff (rhabdomancy) gives them oracles; Seeking decisions by divining arrows (azlām) is forbidden;
-    Hunting land game is forbidden while in pilgrim sanctity (iḥrām); A rash oath spoken thoughtlessly
-    requires atonement [divergence between the texts]; A rash oath spoken thoughtlessly requires atonement;
-    and 2 more.'
+    Drunkenness produces quarrels that disrupt worship; Hunting land game is forbidden while in pilgrim
+    sanctity (iḥrām); A little honestly gained is better than much by wrong, even if the abundance of
+    the bad impresses; and 4 more.'
   basis: reading
 - text: 'Clean and unclean animals; carcass impurity: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,32 +19,33 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The mother''s pain in bearing children: penalty, or ground of gratitude
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in The serpent, the eating, the curses and the expulsion: Each accused shifts blame to another
-    (man to woman, woman to serpent); First woman named as mother of all living; God heard walking in
-    the garden in the breeze of the day; Humans gain divine knowledge and God fears they will also gain
-    immortality; Woman punished with pain in childbirth and subordination to husband; The woman eats first
-    and gives the fruit to her husband; Adam receives words from his Lord and God turns to him in forgiveness
-    [divergence between the texts]; Cherubim and a flaming turning sword guard the way to the tree of
-    life; Enmity decreed at the expulsion from the garden [divergence between the texts]; Eating opens
-    their eyes and they know they are naked [divergence between the texts]; How the first couple answer
-    God after eating: shifting the blame or confessing [divergence between the texts]; The first man''s
-    response after the transgression in the garden (blame or repentance) [divergence between the texts];
-    and 26 more.'
+- text: 'Only in The serpent, the eating, the curses and the expulsion: First woman named as mother of
+    all living; God heard walking in the garden in the breeze of the day; Woman punished with pain in
+    childbirth and subordination to husband; The woman eats first and gives the fruit to her husband;
+    Adam receives words from his Lord and God turns to him in forgiveness [divergence between the texts];
+    Each accused shifts blame to another (man to woman, woman to serpent); Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; Eating opens their eyes and they know they are naked
+    [divergence between the texts]; How the first couple answer God after eating: shifting the blame or
+    confessing [divergence between the texts]; The first man''s response after the transgression in the
+    garden (blame or repentance) [divergence between the texts]; God makes garments of skin for the first
+    couple [divergence between the texts]; Ground cursed; man must eat by sweat of his brow among thorns
+    and thistles [divergence between the texts]; and 26 more.'
   basis: reading
 - text: 'Only in Kindness to parents, thirty months of bearing and weaning, the prayer at forty and the
     son who says ''Uff'': God enjoins humans to be good to their parents; On reaching full strength at
     forty, a man prays to be grateful for favor on himself and his parents and for righteous offspring;
     A son says ''Uff!'' to his parents who plead with him, scorning resurrection as ''tales of the ancients'';
     His mother bore him with hardship and delivered him with hardship; bearing and weaning take thirty
-    months; The damned are told: you used up your good things in your worldly life and enjoyed them; today
-    you are repaid with humiliation; For all there are degrees (darajat) according to what they did; The
-    ground and the reward of the duty to parents [divergence between the texts]; A son who rejects his
-    parents: the charge and the penalty [divergence between the texts]; Stubborn and rebellious son, glutton
-    and drunkard, stoned by the men of his city; Whoever does good does it for his own soul; whoever does
-    evil, it is against it; Honor father and mother, with the promise of long life; Unbelievers dismiss
-    the revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal.'
+    months; A son who rejects his father''s teaching is to be driven away: ''he is not your son, he was
+    not born to you''; The damned are told: you used up your good things in your worldly life and enjoyed
+    them; today you are repaid with humiliation; For all there are degrees (darajat) according to what
+    they did; The ground and the reward of the duty to parents [divergence between the texts]; A son who
+    rejects his parents: the charge and the penalty; A son who rejects his parents: the charge and the
+    penalty [divergence between the texts]; Whoever does good does it for his own soul; whoever does evil,
+    it is against it; Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city;
+    and 2 more.'
   basis: reading
 - text: 'The serpent, the eating, the curses and the expulsion: tagged by Claude (model), reading the
     Hebrew.'

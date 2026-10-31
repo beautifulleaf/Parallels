@@ -18,8 +18,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The called one asks for a sign that it is God who speaks [divergence
-    between the texts] (weight 5.8); The called one asks for a sign that it is God who speaks (weight
-    5.6). Pair score 11.4.'
+    between the texts] (weight 6.8); The called one asks for a sign that it is God who speaks (weight
+    6.5). Pair score 13.3.'
   basis: reading
 - text: 'Only in Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom: The angel of YHWH
     sits under a sacred tree before calling the hero; The one called asks where God''s wonders are if
@@ -33,8 +33,9 @@ evidence:
   basis: reading
 - text: 'Only in Abraham and the four birds: Abraham, asking to see how God revives the dead, takes four
     birds, places parts on each hill, calls them and they come flying; Abraham takes and cuts animals
-    at God''s command [divergence between the texts]; Covenant ritual: animals cut in halves and a divine
-    presence passes between them.'
+    at God''s command [divergence between the texts]; Creatures cut in pieces, the parts set apart, are
+    made whole and alive by a spoken word [neutral] [divergence between the texts]; Covenant ritual: animals
+    cut in halves and a divine presence passes between them.'
   basis: reading
 - text: 'Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom: tagged by Claude (model),
     reading the Hebrew.'

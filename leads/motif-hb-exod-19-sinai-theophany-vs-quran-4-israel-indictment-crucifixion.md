@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raises the mountain (al-Tur) over Israel while taking their
-    covenant [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    covenant [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Arrival at Sinai, covenant offer and theophany: Israel arrives at Sinai in the third
-    month after leaving Egypt; God carried Israel on eagles'' wings; Moses speaks and God answers him
-    with a voice (thunder); God comes to the prophet in a thick cloud so the people may hear; Priests
-    are mentioned before the Aaronic priesthood is instituted; A ram''s horn blast signals that the people
-    may go up the mountain; Men must not approach a woman before a holy encounter; God descends or reveals
-    himself on the third day; A boundary is set round the holy mountain; whoever touches it dies; A horn
-    blast at which all tremble [divergence between the texts]; Israel stands beneath the mountain when
-    the covenant is given [divergence between the texts]; Israel is to be a kingdom of priests and a holy
-    nation; and 10 more.'
+    month after leaving Egypt; Moses speaks and God answers him with a voice (thunder); God comes to the
+    prophet in a thick cloud so the people may hear; Priests are mentioned before the Aaronic priesthood
+    is instituted; A ram''s horn blast signals that the people may go up the mountain; Men must not approach
+    a woman before a holy encounter; God descends or reveals himself on the third day; God carried Israel
+    on eagles'' wings; A horn blast at which all tremble [divergence between the texts]; Israel stands
+    beneath the mountain when the covenant is given [divergence between the texts]; Israel is to be a
+    kingdom of priests and a holy nation; Israel is to be a kingdom of priests and a holy nation [divergence
+    between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in The indictment of Israel; the Messiah not crucified but raised: Every one of the People
     of the Book will believe in him before his (or their) death; They did not kill the Messiah Jesus nor

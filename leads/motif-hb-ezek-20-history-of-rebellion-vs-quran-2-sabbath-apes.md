@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Sabbath is an everlasting sign of the covenant between God and
-    Israel (weight 6.3). Pair score 6.3.'
+    Israel (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Israel''s history of rebellion from Egypt; the second exodus into the wilderness of the
     peoples: The people''s wish ''We will be like the nations, serving wood and stone'' will never come

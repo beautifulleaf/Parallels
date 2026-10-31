@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero challenges God: shall the judge of all the earth not do justice?
-    [response between the texts] (weight 6.7); Hero bargains with God to spare a city for the sake of
-    a few righteous (50 down to 10) (weight 5.8). Pair score 12.5.'
+    [response between the texts] (weight 7.7); Hero bargains with God to spare a city for the sake of
+    a few righteous (50 down to 10) (weight 6.8). Pair score 14.6.'
   basis: reading
-- text: 'Only in Abraham bargains for Sodom: God decides not to hide his plan from his chosen one; Abraham''s
-    plea when told that the city of Lot will be destroyed [divergence between the texts]; A city''s punishment
-    held back for the righteous within it [divergence between the texts]; God comes down to see what humans
-    are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s fate,
-    and his response [divergence between the texts]; Whether punishment strikes the innocent together
+- text: 'Only in Abraham bargains for Sodom: Abraham''s plea when told that the city of Lot will be destroyed
+    [divergence between the texts]; A city''s punishment held back for the righteous within it [divergence
+    between the texts]; God decides not to hide his plan from his chosen one; God comes down to see what
+    humans are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; Whether punishment strikes the innocent together
     with the guilty [contrast between the texts]; Hero challenges God: shall the judge of all the earth
     not do justice? [divergence between the texts]; How God answers Abraham''s plea for the people of
     Sodom [divergence between the texts]; An outcry (tse''aqah) from the wicked city reaches God; Shall
@@ -37,8 +37,9 @@ evidence:
     corruption, and they were saved; The stories of the messengers are told to make the prophet''s heart
     firm; God vows to fill hell with the devil and all who follow him; Humankind was originally one community,
     then they differed; When a land is destroyed only the righteous few are rescued, by their own righteousness;
-    Good deeds remove evil deeds; Perform prayer at the two ends of the day and in the near hours of the
-    night; Prophet tells deniers ''Wait, I too am waiting''.'
+    Whether the god destroys a city whose people do right [divergence between the texts]; Good deeds remove
+    evil deeds; Perform prayer at the two ends of the day and in the near hours of the night; Prophet
+    tells deniers ''Wait, I too am waiting''.'
   basis: reading
 - text: 'Abraham bargains for Sodom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

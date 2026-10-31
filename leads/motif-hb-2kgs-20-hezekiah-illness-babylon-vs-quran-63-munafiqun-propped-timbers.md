@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- life-extended-fifteen-years
 - life-extended-fifteen-years-as-contrast
+- life-extended-fifteen-years
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: In answer to prayer God adds fifteen years to the king''s life (weight
-    6.3); In answer to prayer God adds fifteen years to the king''s life [contrast between the texts]
-    (weight 6.3). Pair score 12.6.'
+- text: 'Shared motifs, rarest first: In answer to prayer God adds fifteen years to the king''s life [contrast
+    between the texts] (weight 7.3); In answer to prayer God adds fifteen years to the king''s life (weight
+    7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in Hezekiah''s illness, the shadow on the steps and the Babylonian envoys: The king proudly
     shows foreign envoys all his treasures, prompting a prophecy of their loss; A cake of figs laid on
@@ -29,10 +29,10 @@ evidence:
     A king receives a foreign ruler''s envoys and gift [contrast between the texts]; Prophet tells the
     sick king ''Set your house in order, for you shall die''; King accepts doom for his descendants, glad
     there will be peace and truth in his own days; Dying man turns his face to the wall and prays, weeping;
-    Prophecy that the king''s descendants will be eunuchs in the palace of the king of Babylon; King makes
-    a pool and conduit to bring water into the city; As a sign the shadow goes back ten steps on the stairway
-    (dial) of Ahaz; God defends the city for his own sake and for the sake of David his servant; At a
-    leader''s command the sun and moon stand still until the battle is won.'
+    Prophecy that the king''s descendants will be eunuchs in the palace of the king of Babylon; As a sign
+    the shadow goes back ten steps on the stairway (dial) of Ahaz; King makes a pool and conduit to bring
+    water into the city; God defends the city for his own sake and for the sake of David his servant;
+    At a leader''s command the sun and moon stand still until the battle is won.'
   basis: reading
 - text: 'Only in Al-Munafiqun: false testimony, propped-up timbers, ''the mightier will expel the meaner'',
     and the deathbed plea for delay: Spend before death comes and one says ''My Lord, if only you would

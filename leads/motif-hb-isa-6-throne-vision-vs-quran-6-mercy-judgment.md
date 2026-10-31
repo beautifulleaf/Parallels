@@ -20,9 +20,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet commissioned to make the people''s heart fat, ears heavy
-    and eyes shut lest they understand and be healed [divergence between the texts] (weight 6.3); Prophet
+    and eyes shut lest they understand and be healed [divergence between the texts] (weight 7.3); Prophet
     commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand and be
-    healed (weight 5.0). Pair score 11.3.'
+    healed (weight 6.0). Pair score 13.4.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -30,24 +30,23 @@ evidence:
     terebinth or oak whose stump is the holy seed; At the heavenly voice the doorposts shake and the house
     fills with smoke; Prophet sees the Lord seated on a high and lifted-up throne, his train filling the
     temple; Heavenly beings call ''Holy, holy, holy is YHWH of hosts; the whole earth is full of his glory'';
-    God asks ''Whom shall I send, and who will go for us?'' and the prophet volunteers ''Here am I, send
-    me''; Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The
-    angels say: each of us has a known station; we are ranged in ranks; we glorify; God has not given
-    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
-    Hardening of the heart, ears and eyes of the hearers [divergence between the texts]; God is ''Lord
-    of the mighty Throne'' (rabb al-''arsh al-''azim); and 10 more.'
+    Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The angels
+    say: each of us has a known station; we are ranged in ranks; we glorify; God has not given the people
+    a heart to know, eyes to see, ears to hear until today [divergence between the texts]; Hardening of
+    the heart, ears and eyes of the hearers [divergence between the texts]; God is ''Lord of the mighty
+    Throne'' (rabb al-''arsh al-''azim); The prophet''s word and a people deaf and blind to it [divergence
+    between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Mercy written on himself; the idolaters'' denial at the gathering: On the day of the
     Hour they carry their burdens (awzār) on their backs; Standing before the fire the damned wish to
     be sent back; were they sent back they would return to sin; Unbelievers say there is only this worldly
     life and no raising; God feeds and is not fed; The idolaters swear ''by God our Lord, we were not
     idolaters''; The Prophet is commanded to be the first of those who submit (awwal al-muslimīn); The
-    People of the Book recognize the truth as they recognize their own sons; God has prescribed mercy
-    for himself (kataba ʿalā nafsihi l-raḥma); On judgment day God asks ''Where are my partners for whom
-    you contended?''; The life of this world is only play and diversion; the last abode is better; God
-    does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of bulls or
-    drink the blood of goats?''; God mocks: where are their gods who ate the fat of their sacrifices?
-    let them rise and help; and 1 more.'
+    People of the Book recognize the truth as they recognize their own sons; Whether the deity eats the
+    food that humans give it [response between the texts]; The sole sovereign god is the one who feeds
+    (gods, men, all) [divergence between the texts]; God has prescribed mercy for himself (kataba ʿalā
+    nafsihi l-raḥma); On judgment day God asks ''Where are my partners for whom you contended?''; Whether
+    the deity is hungry and thirsty and is fed by worshippers [response between the texts]; and 4 more.'
   basis: reading
 - text: 'The throne vision and the call of Isaiah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

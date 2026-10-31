@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives [divergence
-    between the texts] (weight 6.3); The returning waters drown the pursuing army; not one survives (weight
-    4.5). Pair score 10.8.'
+    between the texts] (weight 7.3); The returning waters drown the pursuing army; not one survives (weight
+    5.5). Pair score 12.9.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -42,10 +42,11 @@ evidence:
     himself or thrown at him [divergence between the texts]; Pharaoh is the great tannin (crocodile/dragon)
     lying in the midst of his Nile channels; Pharaoh boasts to his people: is not the kingdom of Egypt
     mine, and these rivers flowing beneath me?; The king breaks his promise to release the people once
-    a plague is lifted [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
+    a plague is lifted [divergence between the texts]; The water of the river of Egypt is said to be at
+    its king''s disposal [neutral] [divergence between the texts]; A man brought before Pharaoh is afraid
+    and cannot speak [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
     heart, or Pharaoh and his people themselves [divergence between the texts]; King invests the hero
-    with ring, linen and chariot; The king breaks his promise to release the people once a plague is lifted;
-    Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''; and 1 more.'
+    with ring, linen and chariot; and 3 more.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

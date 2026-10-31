@@ -20,20 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the righteous are promised as their inheritance [divergence
-    between the texts] (weight 6.7); The meek / those who wait for YHWH / the righteous and their seed
-    shall inherit the land (yirshu arets) (weight 5.4). Pair score 12.1.'
+    between the texts] (weight 7.7); The meek / those who wait for YHWH / the righteous and their seed
+    shall inherit the land (yirshu arets) (weight 6.5). Pair score 14.2.'
   basis: reading
-- text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Commit your way to
-    YHWH, trust in him, and he will act; Do not fret over evildoers nor envy the wrongdoers; they wither
-    quickly like grass; There is a future (aharit) for the man of peace; the future of the wicked is cut
-    off; Better the little of the righteous than the abundance of many wicked; ''I have been young and
-    now am old, yet I have not seen the righteous forsaken nor his seed begging bread''; The wicked borrows
-    and does not repay; the righteous is generous and gives; The wicked spreads like a luxuriant native
-    tree, then passes away and cannot be found; The enemies of God vanish like the glory of the pastures,
-    like smoke; The land the righteous inherit [divergence between the texts]; Because their father was
-    righteous, God protects the orphans'' inheritance; Parable of two men: one owns two rich gardens and
-    boasts to his poorer believing companion; The law of his God is in his heart; his steps do not slip;
-    and 5 more.'
+- text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Do not fret over evildoers
+    nor envy the wrongdoers; they wither quickly like grass; There is a future (aharit) for the man of
+    peace; the future of the wicked is cut off; ''I have been young and now am old, yet I have not seen
+    the righteous forsaken nor his seed begging bread''; The wicked spreads like a luxuriant native tree,
+    then passes away and cannot be found; Commit your way to YHWH, trust in him, and he will act; The
+    land the righteous inherit [divergence between the texts]; Because their father was righteous, God
+    protects the orphans'' inheritance; Parable of two men: one owns two rich gardens and boasts to his
+    poorer believing companion; The law of his God is in his heart; his steps do not slip; The wicked
+    borrows and does not repay; the righteous is generous and gives; The wicked fade like grass and green
+    herbs; Better the little of the righteous than the abundance of many wicked; and 5 more.'
   basis: reading
 - text: 'Only in The successful believers who inherit Firdaws: The righteous inherit al-Firdaws (paradise,
     from Persian pairidaēza) forever; The faithful guard their private parts except with their wives or

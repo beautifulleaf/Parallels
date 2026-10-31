@@ -19,25 +19,25 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 5.8).
-    Pair score 5.8.'
+- text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 6.8).
+    Pair score 6.8.'
   basis: reading
 - text: 'Only in Taberah, the craving, the seventy elders and the quail: Fire from God burns part of the
-    camp for complaint; Spirit rests on people and they prophesy (ecstatically); A ''rabble'' or mixed
-    crowd among the people instigates sin; Leader refuses to silence prophets outside the sanctioned place:
-    ''would all were prophets''; Bird-meat as desired food: punished or granted [contrast between the
-    texts]; Leader doubts God can supply; God replies ''Is my hand too short?'' [divergence between the
-    texts]; Longing for fish, cucumbers, melons, leeks, onions and garlic of Egypt; Longing for fish,
-    cucumbers, melons, leeks, onions and garlic of Egypt [divergence between the texts]; Craved food granted,
-    then plague strikes while meat is still in their mouths; Leader protests he did not conceive or bear
-    the people to carry them like a nurse; Exhausted leader asks God to kill him; Manna described: like
-    coriander seed, look of bdellium, taste of oil cakes, falls with the dew; and 8 more.'
+    camp for complaint; A ''rabble'' or mixed crowd among the people instigates sin; Leader refuses to
+    silence prophets outside the sanctioned place: ''would all were prophets''; Bird-meat as desired food:
+    punished or granted [contrast between the texts]; Leader doubts God can supply; God replies ''Is my
+    hand too short?'' [divergence between the texts]; Spirit rests on people and they prophesy (ecstatically);
+    Longing for fish, cucumbers, melons, leeks, onions and garlic of Egypt; Longing for fish, cucumbers,
+    melons, leeks, onions and garlic of Egypt [divergence between the texts]; Craved food granted, then
+    plague strikes while meat is still in their mouths; Leader protests he did not conceive or bear the
+    people to carry them like a nurse; Exhausted leader asks God to kill him; Manna described: like coriander
+    seed, look of bdellium, taste of oil cakes, falls with the dew; and 8 more.'
   basis: reading
 - text: 'Only in The night departure, the dry road through the sea, the mount and manna: The covenant
     appointment is at the right (ayman) side of the Mount (al-Ṭūr); The people walk on dry ground through
     the sea with the waters as a wall on either side [divergence between the texts]; King regrets releasing
-    the slaves and pursues them with chariots; A mountain called the mountain of God; Manna named from
-    the people''s question ''What is it?'' (man hu); The people walk on dry ground through the sea with
+    the slaves and pursues them with chariots; Manna named from the people''s question ''What is it?''
+    (man hu); A mountain called the mountain of God; The people walk on dry ground through the sea with
     the waters as a wall on either side; The returning waters drown the pursuing army; not one survives.'
   basis: reading
 - text: 'Taberah, the craving, the seventy elders and the quail: tagged by Claude (model), reading the

@@ -20,18 +20,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people mock God''s messengers, despise his words and scoff at
-    his prophets (weight 5.4). Pair score 5.4.'
+    his prophets (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Last kings of Judah, burning of the temple, exile and seventy years: God''s wrath rises
     until there is no remedy; The enemy kills the young men by the sword in the sanctuary; Overlord imposes
     a fine of 100 talents of silver and a talent of gold; While the people are in exile, the desolate
     land makes up its missed sabbath years; The temple of Jerusalem is burned and the city walls broken
     down; The enemy enters the sanctuary (masjid) a second time as the first and destroys all; Vassal
-    king rebels against the overlord who made him swear by God; Foreign overlord deposes a king and renames
-    his replacement; The ''people of the land'' kill the conspirators or choose and enthrone a king; God
-    sends his messengers ''rising early and sending'' out of compassion; The temple treasures and gold
-    vessels of Solomon are carried off to Babylon; A child of eight to twelve years becomes king; and
-    1 more.'
+    king rebels against the overlord who made him swear by God; The ''people of the land'' kill the conspirators
+    or choose and enthrone a king; God sends his messengers ''rising early and sending'' out of compassion;
+    Foreign overlord deposes a king and renames his replacement; The temple treasures and gold vessels
+    of Solomon are carried off to Babylon; A child of eight to twelve years becomes king; and 1 more.'
   basis: reading
 - text: 'Only in Ha-Mim: the Mother of the Book, the riding prayer and the ''daughters'' of God: When
     one of them is told of a daughter''s birth, his face darkens and he chokes with grief; A formula of

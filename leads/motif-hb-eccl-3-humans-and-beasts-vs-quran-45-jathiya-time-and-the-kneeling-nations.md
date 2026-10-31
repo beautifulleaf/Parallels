@@ -21,17 +21,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether death is the end: asked, held by sceptics, or answered by
-    resurrection [response between the texts] (weight 6.7); Do evildoers think God will make them equal
-    to the righteous in life and in death? (weight 5.6). Pair score 12.3.'
+    resurrection [response between the texts] (weight 7.7); Do evildoers think God will make them equal
+    to the righteous in life and in death? (weight 6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Injustice, divine judgment, and humans no better than beasts: God tests humans to show
     them that they are but beasts; man has no advantage over the beast; Who knows whether the spirit of
-    man goes upward and the spirit of the beast goes down to the earth?; In the place of justice there
-    is wickedness and in the place of righteousness wickedness; God will judge the righteous and the wicked,
-    for there is a time for every matter; Whether those who die and return to dust rise again [contrast
-    between the texts]; One fate (miqreh) befalls the wise and the fool, man and beast alike; Who will
-    bring him to see what will be after him?; There is nothing better than to eat, drink and find enjoyment
-    in one''s toil; this is from the hand of God; Human comes from dust and returns to dust.'
+    man goes upward and the spirit of the beast goes down to the earth?; God will judge the righteous
+    and the wicked, for there is a time for every matter; In the place of justice there is wickedness
+    and in the place of righteousness wickedness; Whether those who die and return to dust rise again
+    [contrast between the texts]; Who will bring him to see what will be after him?; One fate (miqreh)
+    befalls the wise and the fool, man and beast alike; There is nothing better than to eat, drink and
+    find enjoyment in one''s toil; this is from the hand of God; Human comes from dust and returns to
+    dust.'
   basis: reading
 - text: 'Only in Desire as god, ''only Time destroys us'', and every nation kneeling before its book:
     God''s book speaks against them with truth: ''We used to have transcribed (nastansikh) all that you

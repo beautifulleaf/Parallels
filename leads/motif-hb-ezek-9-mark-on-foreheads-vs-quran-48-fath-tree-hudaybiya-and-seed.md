@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A mark on the faces or foreheads of the faithful [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The six executioners and the man in linen who marks the foreheads: The angelic agent
     returns and reports ''I have done as you commanded me''; Divine slaughter is to begin at God''s sanctuary,

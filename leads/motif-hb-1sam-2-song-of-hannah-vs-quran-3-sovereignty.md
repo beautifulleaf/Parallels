@@ -19,22 +19,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hymn of reversals: the barren bears seven, the mighty broken, the
-    poor raised from the dung-heap (weight 6.0). Pair score 6.0.'
+    poor raised from the dung-heap (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Song of Hannah: God gives strength to his king and exalts the horn of his anointed (messiah);
     God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom he wills;
-    God brings the living out of the dead and the dead out of the living; God kills and makes alive, brings
-    down to Sheol and raises up; The world set upon pillars belonging to God; I kill and I make alive,
-    I wound and I heal; there is no god beside me.'
+    God brings the living out of the dead and the dead out of the living; The world set upon pillars belonging
+    to God; I kill and I make alive, I wound and I heal; there is no god beside me; God kills and makes
+    alive, brings down to Sheol and raises up.'
   basis: reading
 - text: 'Only in Owner of sovereignty: On the day each soul finds what good and evil it did present before
     it, wishing a far distance from its evil; Believers may not take unbelievers as allies, unless guarding
     against them (tuqat); God warns you of himself (yuhadhdhirukum allahu nafsahu); God makes night enter
     day and day night, brings the living from the dead and the dead from the living; O God, owner of sovereignty,
-    you give it to whom you will and take it from whom you will; you exalt and abase; God changes times
-    and seasons, deposes kings and sets up kings; God gives justice to the poor and seats kings (or the
-    lowly) on the throne; The Most High rules the kingdom of men, gives it to whom he wills and sets over
-    it the lowliest of men; God provides for whom he wills without reckoning (bi-ghayri hisab).'
+    you give it to whom you will and take it from whom you will; you exalt and abase; A deity holds paired
+    powers of reversal: raising some and lowering others, turning light and darkness into each other;
+    A deity holds paired powers of reversal: raising some and lowering others, turning light and darkness
+    into each other [divergence between the texts]; The deity turns day into night (darkness into light)
+    [divergence between the texts]; God changes times and seasons, deposes kings and sets up kings; God
+    gives justice to the poor and seats kings (or the lowly) on the throne; The god changes the length
+    of day and night (shortens days, lengthens nights; makes night enter into day); The deity gives the
+    crown and kingship and raises one and lowers another (litany addressed to the deity); and 5 more.'
   basis: reading
 - text: 'Song of Hannah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

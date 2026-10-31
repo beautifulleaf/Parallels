@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Asked where their partners are, the damned say ''they have strayed
-    from us; we called on nothing before'' (weight 6.3). Pair score 6.3.'
+    from us; we called on nothing before'' (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Degenerate vine, she-camel in heat, gods of wood and stone: ''Can a virgin forget her
     ornaments or a bride her sash?'' yet my people have forgotten me; God planted a choice vine of pure

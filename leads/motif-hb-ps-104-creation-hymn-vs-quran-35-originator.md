@@ -22,21 +22,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are subjected, each running to an appointed term (weight
-    5.8); God makes winds his messengers (angels) and flaming fire his ministers (weight 5.8); God sends
-    the winds as heralds before his mercy and sends down pure water from the sky (weight 5.4); Rain from
-    the sky gives life to the earth after its death, a sign of resurrection (weight 4.4). Pair score 21.4.'
+    6.8); God makes winds his messengers (angels) and flaming fire his ministers (weight 6.6); God sends
+    the winds as heralds before his mercy and sends down pure water from the sky (weight 6.5); Rain from
+    the sky gives life to the earth after its death, a sign of resurrection (weight 5.5). Pair score 25.5.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 37 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 37 more.'
   basis: reading
 - text: 'Only in The Originator, winged angels, and the two seas: God made the angels messengers with
     wings in twos, threes and fours, adding to creation what he wills; To God ascends the good word, and
@@ -45,11 +45,12 @@ evidence:
     prayer and will disown it at the Resurrection; The form, faces and number of wings of heavenly beings
     [divergence between the texts]; Each cherub or living creature has four faces (human, lion, ox/cherub,
     eagle), four wings and human hands under the wings; What God opens no one can shut, and what he withholds
-    no one can release; What happens where fresh and salt water meet [divergence between the texts]; If
+    no one can release; What happens where fresh and salt water meet [divergence between the texts]; A
+    god''s act sets fresh (sweet) water against salt (bitter) water [divergence between the texts]; If
     God willed he could remove you and bring a new creation; God began man''s creation from clay, then
     made his progeny from an extract of a despised fluid, then shaped him and breathed of his spirit;
-    No one is granted long life or has his life shortened except it is in a Book; The life of this world
-    is only amusement and play (lahw wa-la''ib); the abode of the hereafter is the true life; and 3 more.'
+    The life of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter is
+    the true life; and 4 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

@@ -20,31 +20,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rhetorical divine questions: where were you when I founded the earth?
-    Do you know...? (weight 6.3); God set the mountains as pegs or firm anchors (awtad, rawasi) for the
-    earth (weight 5.3). Pair score 11.6.'
+    Do you know...? (weight 7.3); God set the mountains as pegs or firm anchors (awtad, rawasi) for the
+    earth (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens:
     Dawn seizes the edges of the earth and shakes the wicked out of it; Light and darkness each have a
     dwelling place and a road to it; Rhetorical question whether rain has a father and from whose womb
-    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The morning stars
-    sing together and the sons of God shout for joy at the founding of the earth; Named constellations
-    (Kimah/Pleiades, Kesil/Orion, Ayish/Bear, Mazzarot) and their bonds; The sea bursts out of a womb
-    at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors for the
-    sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of the deep
-    (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God tips over;
-    God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were they created
-    from nothing, or are they the creators? Did they create the heavens and earth?; and 13 more.'
+    ice and hoarfrost are born; Lightnings sent by God report back ''Here we are''; The sea bursts out
+    of a womb at creation and is swaddled in cloud and thick darkness; God fixes a limit, bars and doors
+    for the sea: ''Thus far you shall come and no farther''; The springs of the sea and the recesses of
+    the deep (tehom) as unexplored regions; The clouds are the water-skins (bottles) of heaven which God
+    tips over; God has put wisdom in the tuhot and given understanding to the sekhvi (ibis/cock); Were
+    they created from nothing, or are they the creators? Did they create the heavens and earth?; God challenges
+    the human: ''Gird your loins like a man; I will question you and you inform me''; God answers the
+    sufferer out of the storm-wind (se''arah); and 13 more.'
   basis: reading
 - text: 'Only in The overwhelming event: dari'' and the carpets of paradise: The prophet is only a reminder
-    (mudhakkir), not a controller (musaytir) over people; Hell''s food chokes (dha ghussa) or is dari''
-    (a thorny plant) that neither nourishes nor satisfies hunger; Palace garden decorated with fine hangings,
-    marble columns, gold and silver couches and mosaic pavement; Paradise has named springs: Salsabil,
-    Tasnim (and a spring the servants of God make gush forth); In paradise there is no idle talk (laghw)
-    nor lying; Paradise has raised couches (arā''ik, surur), set goblets, cushions in rows and spread
-    carpets; In hell they taste no coolness nor drink except boiling water (hamim) and dark, foul fluid
-    (ghassaq), or drink from a boiling spring; On that day some faces are radiant, laughing and joyful,
-    others scowling, dust-covered and overcast with darkness; God spread out the earth as a carpet, cradle
-    or bed (bisat, mihad, daha, sutihat, tahaha).'
+    (mudhakkir), not a controller (musaytir) over people; Food that is eaten but does not still hunger;
+    What the dead are given to eat and drink in the other world [divergence between the texts]; Hell''s
+    food chokes (dha ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies hunger;
+    Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic pavement;
+    Paradise has named springs: Salsabil, Tasnim (and a spring the servants of God make gush forth); In
+    paradise there is no idle talk (laghw) nor lying; Paradise has raised couches (arā''ik, surur), set
+    goblets, cushions in rows and spread carpets; In hell they taste no coolness nor drink except boiling
+    water (hamim) and dark, foul fluid (ghassaq), or drink from a boiling spring; On that day some faces
+    are radiant, laughing and joyful, others scowling, dust-covered and overcast with darkness; God spread
+    out the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha).'
   basis: reading
 - text: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens: tagged
     by Claude (model), reading the Hebrew.'

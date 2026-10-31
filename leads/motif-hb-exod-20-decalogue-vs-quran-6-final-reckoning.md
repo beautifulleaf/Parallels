@@ -19,28 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether guilt passes from parents to their descendants [contrast
-    between the texts] (weight 6.3). Pair score 6.3.'
+    between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
-    the texts]; and 13 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch your eyes
+    toward the worldly splendor given to others to test them; and 13 more.'
   basis: reading
 - text: 'Only in Tenfold reward; my life and death for God; no bearer bears another''s burden: On the
     day some of the signs come, faith not believed before will not avail; My prayer, my rites, my living
     and my dying are for God, Lord of the worlds; God made you successors (khalāʾif) on the earth and
     raised some above others in rank to test you; The Prophet is commanded to be the first of those who
     submit (awwal al-muslimīn); God multiplies a good deed (tenfold) while an evil deed is requited only
-    by its like; Those who split their religion into sects, each party exulting in what it has; ''The
-    soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father the son''s;
-    Follow the religion (milla) of Abraham the ḥanīf, who was no idolater; Fathers not put to death for
-    children nor children for fathers; Each person dies for his own sin.'
+    by its like; Whether an offender''s family is punished with him [contrast between the texts]; Whether
+    an offender''s household and kin share his punishment [contrast between the texts]; Those who split
+    their religion into sects, each party exulting in what it has; ''The soul that sins, it shall die'':
+    the son does not bear the father''s iniquity nor the father the son''s; Follow the religion (milla)
+    of Abraham the ḥanīf, who was no idolater; Fathers not put to death for children nor children for
+    fathers; Whether one person''s guilt (a parent''s, another''s) comes upon someone else [contrast between
+    the texts]; and 1 more.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

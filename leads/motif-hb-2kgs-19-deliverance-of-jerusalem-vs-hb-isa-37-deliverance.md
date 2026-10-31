@@ -13,18 +13,18 @@ layers:
 - motif
 motifs:
 - king-in-sackcloth-enters-temple
-- remnant-takes-root-downward
-- arrogant-king-boasts-cedars-of-lebanon
-- three-year-sign-aftergrowth
-- virgin-daughter-zion-mocks
-- mocking-the-living-god
-- threatening-letter-spread-before-god
-- god-planned-it-long-ago
-- angel-slays-army-overnight
+- children-at-birthstool-no-strength
 - murderers-flee-to-ararat
 - rumor-sends-invader-home
-- children-at-birthstool-no-strength
+- angel-slays-army-overnight
+- arrogant-king-boasts-cedars-of-lebanon
+- virgin-daughter-zion-mocks
+- three-year-sign-aftergrowth
+- god-planned-it-long-ago
+- remnant-takes-root-downward
+- threatening-letter-spread-before-god
 - angels-strike-the-enemy-as-divergence
+- mocking-the-living-god
 - king-killed-by-sons-in-temple
 - city-defended-for-davids-sake
 - hook-in-nose-bridle-in-lips
@@ -34,24 +34,24 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king tears his clothes, puts on sackcloth and goes into the
-    temple in crisis (weight 6.7); The escaped remnant shall again take root downward and bear fruit upward;
-    a remnant goes out from Zion (weight 6.7); The arrogant king boasts of climbing the heights of Lebanon
-    and cutting its cedars, drying up rivers with his feet (weight 6.7); Sign: this year eat aftergrowth,
-    next year what springs of itself, the third year sow and reap (weight 6.7); The ''virgin daughter
-    of Zion'' laughs at and wags her head after the enemy (weight 6.7); The enemy is said to reproach
-    (harref) ''the living God'' (weight 6.7); King spreads the enemy''s threatening letter before God
-    in the temple (weight 6.7); God says the conqueror''s victories were planned by him long ago; the
-    conqueror is only his instrument (weight 6.7); The angel of YHWH strikes 185,000 in the enemy camp
-    in one night; at dawn all are corpses (weight 6.7); Royal parricides flee to the land of Ararat (weight
-    6.7); God puts a spirit in the invader so that he hears a rumor and returns home (weight 6.7); Proverb
-    of crisis: children have come to the birth-stool and there is no strength to deliver (weight 6.7);
-    God''s angels strike the enemy army [divergence between the texts] (weight 6.3); Enemy king is murdered
-    by his own sons while worshipping in his god''s temple (weight 6.3); God defends the city for his
-    own sake and for the sake of David his servant (weight 6.0); God will put his hook in the enemy king''s
-    nose and his bit in his lips and lead him back (weight 5.8); Conquered nations'' gods were burned
-    because they were no gods, only wood and stone made by hands (weight 5.8); Taunt: Where are the gods
-    of the conquered nations? Could they save their lands from my hand? (weight 5.8); God addressed as
-    enthroned (yoshev) on the cherubim (weight 5.4). Pair score 121.6.'
+    temple in crisis (weight 7.7); Proverb of crisis: children have come to the birth-stool and there
+    is no strength to deliver (weight 7.7); Royal parricides flee to the land of Ararat (weight 7.7);
+    God puts a spirit in the invader so that he hears a rumor and returns home (weight 7.7); The angel
+    of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses (weight 7.7); The
+    arrogant king boasts of climbing the heights of Lebanon and cutting its cedars, drying up rivers with
+    his feet (weight 7.7); The ''virgin daughter of Zion'' laughs at and wags her head after the enemy
+    (weight 7.7); Sign: this year eat aftergrowth, next year what springs of itself, the third year sow
+    and reap (weight 7.7); God says the conqueror''s victories were planned by him long ago; the conqueror
+    is only his instrument (weight 7.7); The escaped remnant shall again take root downward and bear fruit
+    upward; a remnant goes out from Zion (weight 7.7); King spreads the enemy''s threatening letter before
+    God in the temple (weight 7.7); God''s angels strike the enemy army [divergence between the texts]
+    (weight 7.3); The enemy is said to reproach (harref) ''the living God'' (weight 7.3); Enemy king is
+    murdered by his own sons while worshipping in his god''s temple (weight 7.1); God defends the city
+    for his own sake and for the sake of David his servant (weight 7.1); God will put his hook in the
+    enemy king''s nose and his bit in his lips and lead him back (weight 6.8); Conquered nations'' gods
+    were burned because they were no gods, only wood and stone made by hands (weight 6.8); Taunt: Where
+    are the gods of the conquered nations? Could they save their lands from my hand? (weight 6.8); God
+    addressed as enthroned (yoshev) on the cherubim (weight 6.5). Pair score 141.0.'
   basis: reading
 - text: 'Only in Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter:
     God defends the city for his own sake and for the sake of David his servant [divergence between the
@@ -104,162 +104,20 @@ matches:
         שֶׁבְנָ֣א הַסּוֹפֵ֗ר וְאֵת֙ זִקְנֵ֣י הַכֹּהֲנִ֔ים מִתְכַּסִּ֖ים בַּשַּׂקִּ֑ים אֶל יְשַֽׁעְיָ֥הוּ
         בֶן אָמ֖וֹץ הַנָּבִֽיא
 - kind: shared
-  label: The escaped remnant shall again take root downward and bear fruit upward; a remnant goes out
-    from Zion
+  label: 'Proverb of crisis: children have come to the birth-stool and there is no strength to deliver'
   sides:
   - tradition: judaism
     passages:
-    - ref: 2Kgs 19:30
+    - ref: 2Kgs 19:3
       lang: he
-      text: וְיָ֨סְפָ֜ה פְּלֵיטַ֧ת בֵּית יְהוּדָ֛ה הַנִּשְׁאָרָ֖ה שֹׁ֣רֶשׁ לְמָ֑טָּה וְעָשָׂ֥ה פְרִ֖י
-        לְמָֽעְלָה
-    - ref: 2Kgs 19:31
-      lang: he
-      text: כִּ֤י מִירוּשָׁלִַ֨ם֙ תֵּצֵ֣א שְׁאֵרִ֔ית וּפְלֵיטָ֖ה מֵהַ֣ר צִיּ֑וֹן קִנְאַ֛ת יְהוָ֥ה צְבָא֖וֹת
-        תַּֽעֲשֶׂה זֹּֽאת
+      text: וַיֹּאמְר֣וּ אֵלָ֗יו כֹּ֚ה אָמַ֣ר חִזְקִיָּ֔הוּ יוֹם צָרָ֧ה וְתוֹכֵחָ֛ה וּנְאָצָ֖ה הַיּ֣וֹם
+        הַזֶּ֑ה כִּ֣י בָ֤אוּ בָנִים֙ עַד מַשְׁבֵּ֔ר וְכֹ֥חַ אַ֖יִן לְלֵדָֽה
   - tradition: judaism
     passages:
-    - ref: Isa 37:31
+    - ref: Isa 37:3
       lang: he
-      text: וְיָ֨סְפָ֜ה פְּלֵיטַ֧ת בֵּית יְהוּדָ֛ה הַנִּשְׁאָרָ֖ה שֹׁ֣רֶשׁ לְמָ֑טָּה וְעָשָׂ֥ה פְרִ֖י
-        לְמָֽעְלָה
-- kind: shared
-  label: The arrogant king boasts of climbing the heights of Lebanon and cutting its cedars, drying up
-    rivers with his feet
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 19:23
-      lang: he
-      text: בְּיַ֣ד מַלְאָכֶיךָ֮ חֵרַ֣פְתָּ אֲדֹנָי֒ וַתֹּ֗אמֶר ברכב בְּרֹ֥ב רִכְבִּ֛י אֲנִ֥י עָלִ֛יתִי
-        מְר֥וֹם הָרִ֖ים יַרְכְּתֵ֣י לְבָנ֑וֹן וְאֶכְרֹ֞ת קוֹמַ֤ת אֲרָזָיו֙ מִבְח֣וֹר בְּרֹשָׁ֔יו וְאָב֨וֹאָה֙
-        מְל֣וֹן קִצֹּ֔ה יַ֖עַר כַּרְמִלּֽוֹ
-    - ref: 2Kgs 19:24
-      lang: he
-      text: אֲנִ֣י קַ֔רְתִּי וְשָׁתִ֖יתִי מַ֣יִם זָרִ֑ים וְאַחְרִב֙ בְּכַף פְּעָמַ֔י כֹּ֖ל יְאֹרֵ֥י מָצֽוֹר
-  - tradition: judaism
-    passages:
-    - ref: Isa 37:24-25
-      lang: he
-      text: (37:24) בְּיַ֣ד עֲבָדֶיךָ֮ חֵרַ֣פְתָּ אֲדֹנָי֒ וַתֹּ֗אמֶר בְּרֹ֥ב רִכְבִּ֛י אֲנִ֥י עָלִ֛יתִי
-        מְר֥וֹם הָרִ֖ים יַרְכְּתֵ֣י לְבָנ֑וֹן וְאֶכְרֹ֞ת קוֹמַ֤ת אֲרָזָיו֙ מִבְחַ֣ר בְּרֹשָׁ֔יו וְאָבוֹא֙
-        מְר֣וֹם קִצּ֔וֹ יַ֖עַר כַּרְמִלּֽוֹ (37:25) אֲנִ֥י קַ֖רְתִּי וְשָׁתִ֣יתִי מָ֑יִם וְאַחְרִב֙ בְּכַף
-        פְּעָמַ֔י כֹּ֖ל יְאֹרֵ֥י מָצֽוֹר
-    note: '''I dried up all the streams of Egypt with the sole of my feet'''
-- kind: shared
-  label: 'Sign: this year eat aftergrowth, next year what springs of itself, the third year sow and reap'
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 19:29
-      lang: he
-      text: וְזֶה לְּךָ֣ הָא֔וֹת אָכ֤וֹל הַשָּׁנָה֙ סָפִ֔יחַ וּבַשָּׁנָ֥ה הַשֵּׁנִ֖ית סָחִ֑ישׁ וּבַשָּׁנָ֣ה
-        הַשְּׁלִישִׁ֗ית זִרְע֧וּ וְקִצְר֛וּ וְנִטְע֥וּ כְרָמִ֖ים וְאִכְל֥וּ פִרְיָֽם
-  - tradition: judaism
-    passages:
-    - ref: Isa 37:30
-      lang: he
-      text: וְזֶה לְּךָ֣ הָא֔וֹת אָכ֤וֹל הַשָּׁנָה֙ סָפִ֔יחַ וּבַשָּׁנָ֥ה הַשֵּׁנִ֖ית שָׁחִ֑יס וּבַשָּׁנָ֣ה
-        הַשְּׁלִישִׁ֗ית זִרְע֧וּ וְקִצְר֛וּ וְנִטְע֥וּ כְרָמִ֖ים ואכול וְאִכְל֥וּ פִרְיָֽם
-- kind: shared
-  label: The 'virgin daughter of Zion' laughs at and wags her head after the enemy
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 19:21
-      lang: he
-      text: זֶ֣ה הַדָּבָ֔ר אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה עָלָ֑יו בָּזָ֨ה לְךָ֜ לָעֲגָ֣ה לְךָ֗ בְּתוּלַת֙ בַּת
-        צִיּ֔וֹן אַחֲרֶ֨יךָ֙ רֹ֣אשׁ הֵנִ֔יעָה בַּ֖ת יְרוּשָׁלִָֽם
-  - tradition: judaism
-    passages:
-    - ref: Isa 37:22
-      lang: he
-      text: זֶ֣ה הַדָּבָ֔ר אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה עָלָ֑יו בָּזָ֨ה לְךָ֜ לָעֲגָ֣ה לְךָ֗ בְּתוּלַת֙ בַּת
-        צִיּ֔וֹן אַחֲרֶ֨יךָ֙ רֹ֣אשׁ הֵנִ֔יעָה בַּ֖ת יְרוּשָׁלִָֽם
-    note: she shakes her head behind you
-- kind: shared
-  label: The enemy is said to reproach (harref) 'the living God'
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 19:4
-      lang: he
-      text: אוּלַ֡י יִשְׁמַע֩ יְהוָ֨ה אֱלֹהֶ֜יךָ אֵ֣ת כָּל דִּבְרֵ֣י רַב שָׁקֵ֗ה אֲשֶׁר֩ שְׁלָח֨וֹ מֶֽלֶךְ
-        אַשּׁ֤וּר אֲדֹנָיו֙ לְחָרֵף֙ אֱלֹהִ֣ים חַ֔י וְהוֹכִ֨יחַ֙ בַּדְּבָרִ֔ים אֲשֶׁ֥ר שָׁמַ֖ע יְהוָ֣ה
-        אֱלֹהֶ֑יךָ וְנָשָׂ֣אתָ תְפִלָּ֔ה בְּעַ֥ד הַשְּׁאֵרִ֖ית הַנִּמְצָאָֽה
-    - ref: 2Kgs 19:16
-      lang: he
-      text: הַטֵּ֨ה יְהוָ֤ה אָזְנְךָ֙ וּֽשֲׁמָ֔ע פְּקַ֧ח יְהוָ֛ה עֵינֶ֖יךָ וּרְאֵ֑ה וּשְׁמַ֗ע אֵ֚ת דִּבְרֵ֣י
-        סַנְחֵרִ֔יב אֲשֶׁ֣ר שְׁלָח֔וֹ לְחָרֵ֖ף אֱלֹהִ֥ים חָֽי
-  - tradition: judaism
-    passages:
-    - ref: Isa 37:4
-      lang: he
-      text: אוּלַ֡י יִשְׁמַע֩ יְהוָ֨ה אֱלֹהֶ֜יךָ אֵ֣ת דִּבְרֵ֣י רַב שָׁקֵ֗ה אֲשֶׁר֩ שְׁלָח֨וֹ מֶֽלֶךְ
-        אַשּׁ֤וּר אֲדֹנָיו֙ לְחָרֵף֙ אֱלֹהִ֣ים חַ֔י וְהוֹכִ֨יחַ֙ בַּדְּבָרִ֔ים אֲשֶׁ֥ר שָׁמַ֖ע יְהוָ֣ה
-        אֱלֹהֶ֑יךָ וְנָשָׂ֣אתָ תְפִלָּ֔ה בְּעַ֥ד הַשְּׁאֵרִ֖ית הַנִּמְצָאָֽה
-    - ref: Isa 37:17
-      lang: he
-      text: הַטֵּ֨ה יְהוָ֤ה אָזְנְךָ֙ וּֽשְׁמָ֔ע פְּקַ֧ח יְהוָ֛ה עֵינֶ֖ךָ וּרְאֵ֑ה וּשְׁמַ֗ע אֵ֚ת כָּל
-        דִּבְרֵ֣י סַנְחֵרִ֔יב אֲשֶׁ֣ר שָׁלַ֔ח לְחָרֵ֖ף אֱלֹהִ֥ים חָֽי
-    - ref: Isa 37:23-24
-      lang: he
-      text: (37:23) אֶת מִ֤י חֵרַ֨פְתָּ֙ וְגִדַּ֔פְתָּ וְעַל מִ֖י הֲרִימ֣וֹתָה קּ֑וֹל וַתִּשָּׂ֥א מָר֛וֹם
-        עֵינֶ֖יךָ אֶל קְד֥וֹשׁ יִשְׂרָאֵֽל (37:24) בְּיַ֣ד עֲבָדֶיךָ֮ חֵרַ֣פְתָּ אֲדֹנָי֒ וַתֹּ֗אמֶר בְּרֹ֥ב
-        רִכְבִּ֛י אֲנִ֥י עָלִ֛יתִי מְר֥וֹם הָרִ֖ים יַרְכְּתֵ֣י לְבָנ֑וֹן וְאֶכְרֹ֞ת קוֹמַ֤ת אֲרָזָיו֙
-        מִבְחַ֣ר בְּרֹשָׁ֔יו וְאָבוֹא֙ מְר֣וֹם קִצּ֔וֹ יַ֖עַר כַּרְמִלּֽוֹ
-- kind: shared
-  label: King spreads the enemy's threatening letter before God in the temple
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 19:14
-      lang: he
-      text: וַיִּקַּ֨ח חִזְקִיָּ֧הוּ אֶת הַסְּפָרִ֛ים מִיַּ֥ד הַמַּלְאָכִ֖ים וַיִּקְרָאֵ֑ם וַיַּ֨עַל֙
-        בֵּ֣ית יְהוָ֔ה וַיִּפְרְשֵׂ֥הוּ חִזְקִיָּ֖הוּ לִפְנֵ֥י יְהוָֽה
-  - tradition: judaism
-    passages:
-    - ref: Isa 37:14
-      lang: he
-      text: וַיִּקַּ֨ח חִזְקִיָּ֧הוּ אֶת הַסְּפָרִ֛ים מִיַּ֥ד הַמַּלְאָכִ֖ים וַיִּקְרָאֵ֑הוּ וַיַּ֨עַל֙
-        בֵּ֣ית יְהוָ֔ה וַיִּפְרְשֵׂ֥הוּ חִזְקִיָּ֖הוּ לִפְנֵ֥י יְהוָֽה
-- kind: shared
-  label: God says the conqueror's victories were planned by him long ago; the conqueror is only his instrument
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 19:25
-      lang: he
-      text: הֲלֹֽא שָׁמַ֤עְתָּ לְמֵֽרָחוֹק֙ אֹתָ֣הּ עָשִׂ֔יתִי לְמִ֥ימֵי קֶ֖דֶם וִֽיצַרְתִּ֑יהָ עַתָּ֣ה
-        הֲבֵיאתִ֗יהָ וּתְהִ֗י לַהְשׁ֛וֹת גַּלִּ֥ים נִצִּ֖ים עָרִ֥ים בְּצֻרֽוֹת
-    - ref: 2Kgs 19:26
-      lang: he
-      text: וְיֹֽשְׁבֵיהֶן֙ קִצְרֵי יָ֔ד חַ֖תּוּ וַיֵּבֹ֑שׁוּ הָי֞וּ עֵ֤שֶׂב שָׂדֶה֙ וִ֣ירַק דֶּ֔שֶׁא
-        חֲצִ֣יר גַּגּ֔וֹת וּשְׁדֵפָ֖ה לִפְנֵ֥י קָמָֽה
-  - tradition: judaism
-    passages:
-    - ref: Isa 37:26-27
-      lang: he
-      text: (37:26) הֲלֽוֹא שָׁמַ֤עְתָּ לְמֵֽרָחוֹק֙ אוֹתָ֣הּ עָשִׂ֔יתִי מִ֥ימֵי קֶ֖דֶם וִיצַרְתִּ֑יהָ
-        עַתָּ֣ה הֲבֵאתִ֔יהָ וּתְהִ֗י לְהַשְׁא֛וֹת גַּלִּ֥ים נִצִּ֖ים עָרִ֥ים בְּצֻרֽוֹת (37:27) וְיֹֽשְׁבֵיהֶן֙
-        קִצְרֵי יָ֔ד חַ֖תּוּ וָבֹ֑שׁוּ הָי֞וּ עֵ֤שֶׂב שָׂדֶה֙ וִ֣ירַק דֶּ֔שֶׁא חֲצִ֣יר גַּגּ֔וֹת וּשְׁדֵמָ֖ה
-        לִפְנֵ֥י קָמָֽה
-- kind: shared
-  label: The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 19:35
-      lang: he
-      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
-        שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
-  - tradition: judaism
-    passages:
-    - ref: Isa 37:36
-      lang: he
-      text: וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּכֶּה֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה וּשְׁמֹנִ֥ים וַחֲמִשָּׁ֖ה
-        אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
-    note: 185,000
+      text: וַיֹּאמְר֣וּ אֵלָ֗יו כֹּ֚ה אָמַ֣ר חִזְקִיָּ֔הוּ יוֹם צָרָ֧ה וְתוֹכֵחָ֛ה וּנְאָצָ֖ה הַיּ֣וֹם
+        הַזֶּ֑ה כִּ֣י בָ֤אוּ בָנִים֙ עַד מַשְׁבֵּ֔ר וְכֹ֥חַ אַ֖יִן לְלֵדָֽה
 - kind: shared
   label: Royal parricides flee to the land of Ararat
   sides:
@@ -303,20 +161,152 @@ matches:
         וַיִּשְׁלַ֣ח מַלְאָכִ֔ים אֶל חִזְקִיָּ֖הוּ לֵאמֹֽר
     note: Tirhakah king of Cush
 - kind: shared
-  label: 'Proverb of crisis: children have come to the birth-stool and there is no strength to deliver'
+  label: The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses
   sides:
   - tradition: judaism
     passages:
-    - ref: 2Kgs 19:3
+    - ref: 2Kgs 19:35
       lang: he
-      text: וַיֹּאמְר֣וּ אֵלָ֗יו כֹּ֚ה אָמַ֣ר חִזְקִיָּ֔הוּ יוֹם צָרָ֧ה וְתוֹכֵחָ֛ה וּנְאָצָ֖ה הַיּ֣וֹם
-        הַזֶּ֑ה כִּ֣י בָ֤אוּ בָנִים֙ עַד מַשְׁבֵּ֔ר וְכֹ֥חַ אַ֖יִן לְלֵדָֽה
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
+        שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
   - tradition: judaism
     passages:
-    - ref: Isa 37:3
+    - ref: Isa 37:36
       lang: he
-      text: וַיֹּאמְר֣וּ אֵלָ֗יו כֹּ֚ה אָמַ֣ר חִזְקִיָּ֔הוּ יוֹם צָרָ֧ה וְתוֹכֵחָ֛ה וּנְאָצָ֖ה הַיּ֣וֹם
-        הַזֶּ֑ה כִּ֣י בָ֤אוּ בָנִים֙ עַד מַשְׁבֵּ֔ר וְכֹ֥חַ אַ֖יִן לְלֵדָֽה
+      text: וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּכֶּה֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה וּשְׁמֹנִ֥ים וַחֲמִשָּׁ֖ה
+        אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
+    note: 185,000
+- kind: shared
+  label: The arrogant king boasts of climbing the heights of Lebanon and cutting its cedars, drying up
+    rivers with his feet
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:23
+      lang: he
+      text: בְּיַ֣ד מַלְאָכֶיךָ֮ חֵרַ֣פְתָּ אֲדֹנָי֒ וַתֹּ֗אמֶר ברכב בְּרֹ֥ב רִכְבִּ֛י אֲנִ֥י עָלִ֛יתִי
+        מְר֥וֹם הָרִ֖ים יַרְכְּתֵ֣י לְבָנ֑וֹן וְאֶכְרֹ֞ת קוֹמַ֤ת אֲרָזָיו֙ מִבְח֣וֹר בְּרֹשָׁ֔יו וְאָב֨וֹאָה֙
+        מְל֣וֹן קִצֹּ֔ה יַ֖עַר כַּרְמִלּֽוֹ
+    - ref: 2Kgs 19:24
+      lang: he
+      text: אֲנִ֣י קַ֔רְתִּי וְשָׁתִ֖יתִי מַ֣יִם זָרִ֑ים וְאַחְרִב֙ בְּכַף פְּעָמַ֔י כֹּ֖ל יְאֹרֵ֥י מָצֽוֹר
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:24-25
+      lang: he
+      text: (37:24) בְּיַ֣ד עֲבָדֶיךָ֮ חֵרַ֣פְתָּ אֲדֹנָי֒ וַתֹּ֗אמֶר בְּרֹ֥ב רִכְבִּ֛י אֲנִ֥י עָלִ֛יתִי
+        מְר֥וֹם הָרִ֖ים יַרְכְּתֵ֣י לְבָנ֑וֹן וְאֶכְרֹ֞ת קוֹמַ֤ת אֲרָזָיו֙ מִבְחַ֣ר בְּרֹשָׁ֔יו וְאָבוֹא֙
+        מְר֣וֹם קִצּ֔וֹ יַ֖עַר כַּרְמִלּֽוֹ (37:25) אֲנִ֥י קַ֖רְתִּי וְשָׁתִ֣יתִי מָ֑יִם וְאַחְרִב֙ בְּכַף
+        פְּעָמַ֔י כֹּ֖ל יְאֹרֵ֥י מָצֽוֹר
+    note: '''I dried up all the streams of Egypt with the sole of my feet'''
+- kind: shared
+  label: The 'virgin daughter of Zion' laughs at and wags her head after the enemy
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:21
+      lang: he
+      text: זֶ֣ה הַדָּבָ֔ר אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה עָלָ֑יו בָּזָ֨ה לְךָ֜ לָעֲגָ֣ה לְךָ֗ בְּתוּלַת֙ בַּת
+        צִיּ֔וֹן אַחֲרֶ֨יךָ֙ רֹ֣אשׁ הֵנִ֔יעָה בַּ֖ת יְרוּשָׁלִָֽם
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:22
+      lang: he
+      text: זֶ֣ה הַדָּבָ֔ר אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה עָלָ֑יו בָּזָ֨ה לְךָ֜ לָעֲגָ֣ה לְךָ֗ בְּתוּלַת֙ בַּת
+        צִיּ֔וֹן אַחֲרֶ֨יךָ֙ רֹ֣אשׁ הֵנִ֔יעָה בַּ֖ת יְרוּשָׁלִָֽם
+    note: she shakes her head behind you
+- kind: shared
+  label: 'Sign: this year eat aftergrowth, next year what springs of itself, the third year sow and reap'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:29
+      lang: he
+      text: וְזֶה לְּךָ֣ הָא֔וֹת אָכ֤וֹל הַשָּׁנָה֙ סָפִ֔יחַ וּבַשָּׁנָ֥ה הַשֵּׁנִ֖ית סָחִ֑ישׁ וּבַשָּׁנָ֣ה
+        הַשְּׁלִישִׁ֗ית זִרְע֧וּ וְקִצְר֛וּ וְנִטְע֥וּ כְרָמִ֖ים וְאִכְל֥וּ פִרְיָֽם
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:30
+      lang: he
+      text: וְזֶה לְּךָ֣ הָא֔וֹת אָכ֤וֹל הַשָּׁנָה֙ סָפִ֔יחַ וּבַשָּׁנָ֥ה הַשֵּׁנִ֖ית שָׁחִ֑יס וּבַשָּׁנָ֣ה
+        הַשְּׁלִישִׁ֗ית זִרְע֧וּ וְקִצְר֛וּ וְנִטְע֥וּ כְרָמִ֖ים ואכול וְאִכְל֥וּ פִרְיָֽם
+- kind: shared
+  label: God says the conqueror's victories were planned by him long ago; the conqueror is only his instrument
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:25
+      lang: he
+      text: הֲלֹֽא שָׁמַ֤עְתָּ לְמֵֽרָחוֹק֙ אֹתָ֣הּ עָשִׂ֔יתִי לְמִ֥ימֵי קֶ֖דֶם וִֽיצַרְתִּ֑יהָ עַתָּ֣ה
+        הֲבֵיאתִ֗יהָ וּתְהִ֗י לַהְשׁ֛וֹת גַּלִּ֥ים נִצִּ֖ים עָרִ֥ים בְּצֻרֽוֹת
+    - ref: 2Kgs 19:26
+      lang: he
+      text: וְיֹֽשְׁבֵיהֶן֙ קִצְרֵי יָ֔ד חַ֖תּוּ וַיֵּבֹ֑שׁוּ הָי֞וּ עֵ֤שֶׂב שָׂדֶה֙ וִ֣ירַק דֶּ֔שֶׁא
+        חֲצִ֣יר גַּגּ֔וֹת וּשְׁדֵפָ֖ה לִפְנֵ֥י קָמָֽה
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:26-27
+      lang: he
+      text: (37:26) הֲלֽוֹא שָׁמַ֤עְתָּ לְמֵֽרָחוֹק֙ אוֹתָ֣הּ עָשִׂ֔יתִי מִ֥ימֵי קֶ֖דֶם וִיצַרְתִּ֑יהָ
+        עַתָּ֣ה הֲבֵאתִ֔יהָ וּתְהִ֗י לְהַשְׁא֛וֹת גַּלִּ֥ים נִצִּ֖ים עָרִ֥ים בְּצֻרֽוֹת (37:27) וְיֹֽשְׁבֵיהֶן֙
+        קִצְרֵי יָ֔ד חַ֖תּוּ וָבֹ֑שׁוּ הָי֞וּ עֵ֤שֶׂב שָׂדֶה֙ וִ֣ירַק דֶּ֔שֶׁא חֲצִ֣יר גַּגּ֔וֹת וּשְׁדֵמָ֖ה
+        לִפְנֵ֥י קָמָֽה
+- kind: shared
+  label: The escaped remnant shall again take root downward and bear fruit upward; a remnant goes out
+    from Zion
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:30
+      lang: he
+      text: וְיָ֨סְפָ֜ה פְּלֵיטַ֧ת בֵּית יְהוּדָ֛ה הַנִּשְׁאָרָ֖ה שֹׁ֣רֶשׁ לְמָ֑טָּה וְעָשָׂ֥ה פְרִ֖י
+        לְמָֽעְלָה
+    - ref: 2Kgs 19:31
+      lang: he
+      text: כִּ֤י מִירוּשָׁלִַ֨ם֙ תֵּצֵ֣א שְׁאֵרִ֔ית וּפְלֵיטָ֖ה מֵהַ֣ר צִיּ֑וֹן קִנְאַ֛ת יְהוָ֥ה צְבָא֖וֹת
+        תַּֽעֲשֶׂה זֹּֽאת
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:31
+      lang: he
+      text: וְיָ֨סְפָ֜ה פְּלֵיטַ֧ת בֵּית יְהוּדָ֛ה הַנִּשְׁאָרָ֖ה שֹׁ֣רֶשׁ לְמָ֑טָּה וְעָשָׂ֥ה פְרִ֖י
+        לְמָֽעְלָה
+- kind: shared
+  label: King spreads the enemy's threatening letter before God in the temple
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:14
+      lang: he
+      text: וַיִּקַּ֨ח חִזְקִיָּ֧הוּ אֶת הַסְּפָרִ֛ים מִיַּ֥ד הַמַּלְאָכִ֖ים וַיִּקְרָאֵ֑ם וַיַּ֨עַל֙
+        בֵּ֣ית יְהוָ֔ה וַיִּפְרְשֵׂ֥הוּ חִזְקִיָּ֖הוּ לִפְנֵ֥י יְהוָֽה
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:14
+      lang: he
+      text: וַיִּקַּ֨ח חִזְקִיָּ֧הוּ אֶת הַסְּפָרִ֛ים מִיַּ֥ד הַמַּלְאָכִ֖ים וַיִּקְרָאֵ֑הוּ וַיַּ֨עַל֙
+        בֵּ֣ית יְהוָ֔ה וַיִּפְרְשֵׂ֥הוּ חִזְקִיָּ֖הוּ לִפְנֵ֥י יְהוָֽה
+- kind: shared
+  label: God's angels strike the enemy army
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:35
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
+        שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
+    note: 'Angels kill the enemy: fa-ḍribū fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ malʾak
+      YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm waḥămiššāh ʾālep. In Kings one angel acts alone at night
+      while Judah does nothing; in Q a thousand angels strike together with the believers in open battle.'
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:36
+      lang: he
+      text: וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּכֶּה֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה וּשְׁמֹנִ֥ים וַחֲמִשָּׁ֖ה
+        אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
+    note: 'Same contrast as with 2Kgs 19:35: Isaiah''s single malʾak YHWH strikes the camp unaided; Q''s
+      angels are reinforcements told to strike alongside the believers (fa-thabbitū lladhīna āmanū ...
+      fa-ḍribū).'
 ---
 
 ## Questions

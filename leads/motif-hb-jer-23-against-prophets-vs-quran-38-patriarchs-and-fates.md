@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a prophet has first-hand knowledge of the heavenly council
-    [contrast between the texts] (weight 6.7); God enthroned with the host of heaven standing at his right
-    and left deliberates (weight 5.8). Pair score 12.5.'
+    [contrast between the texts] (weight 7.7); God enthroned with the host of heaven standing at his right
+    and left deliberates (weight 6.2). Pair score 14.0.'
   basis: reading
 - text: 'Only in Concerning the prophets - who has stood in the council of YHWH?: The prophet''s heart
     is broken and all his bones shake; he is like a drunken man because of God''s holy words; The prophets
@@ -31,10 +31,10 @@ evidence:
     water (mei rosh) to drink and wormwood to eat; ''Have you listened in the council (sod) of God, and
     limited wisdom to yourself?''; Prophets and priests heal the wound lightly, saying ''Peace, peace''
     when there is no peace; Opponents nearly lure the prophet into inventing something else; God makes
-    him firm; The storm of YHWH''s fury goes out and whirls on the head of the wicked; in the latter days
-    you will understand it; The tree of Zaqqum grows from the bottom of hell; its spathes are like the
-    heads of devils; the damned fill their bellies and drink boiling water; God did not send the prophets
-    who promise peace; they prophesy a lying vision, divination and the deceit of their heart.'
+    him firm; The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils;
+    the damned fill their bellies and drink boiling water; God did not send the prophets who promise peace;
+    they prophesy a lying vision, divination and the deceit of their heart; The storm of YHWH''s fury
+    goes out and whirls on the head of the wicked; in the latter days you will understand it.'
   basis: reading
 - text: 'Only in The chosen patriarchs; the Gardens of Eden and the quarrel of the damned: The damned
     ask ''Why do we not see men we counted among the wicked, whom we mocked?''; The prophet had no knowledge

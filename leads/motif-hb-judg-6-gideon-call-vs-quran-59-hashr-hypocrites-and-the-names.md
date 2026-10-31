@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty,
-    Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names (weight 5.6).
-    Pair score 5.6.'
+    Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names (weight 6.6).
+    Pair score 6.6.'
   basis: reading
 - text: 'Only in Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom: The angel of YHWH
     sits under a sacred tree before calling the hero; The one called asks where God''s wonders are if
@@ -40,6 +40,7 @@ evidence:
     humbled and split asunder for fear of God; Like Satan who says to man ''Disbelieve!'' and when he
     disbelieves says ''I am quit of you, I fear God''; A mountain shaken by God''s descent or by his revelation
     [divergence between the texts]; The mountain smokes like a furnace and quakes as God descends in fire;
+    A mountain bows, or fails to bow, before the divine, and is broken [divergence between the texts];
     ''There is none like you and no God beside you''; Do evildoers think God will make them equal to the
     righteous in life and in death?; Opening formula: whatever is in the heavens and the earth glorifies
     God (sabbaha / yusabbihu lillah).'

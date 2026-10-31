@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The commandment is not in heaven or beyond the sea but in your mouth
-    and heart (weight 6.7). Pair score 6.7.'
+    and heart (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Return from exile; the near commandment; choose life: God himself will circumcise your
-    heart and your offspring''s heart; Blessing and curse set before the people as a choice; I set before
-    you life and death, blessing and curse: choose life [divergence between the texts]; Those who break
-    God''s covenant and sever ties have the curse and the evil abode; God tries towns with hardship, then
-    with ease, then seizes them suddenly; God will remove the heart of stone and give a heart of flesh
-    and a new spirit; Heaven and earth called as witnesses against the people; In the end of days, in
-    distress, the people will seek God and return; I set before you life and death, blessing and curse:
-    choose life; God burdens no soul beyond its capacity; God will gather the exiles even from the end
-    of heaven and restore them.'
+    heart and your offspring''s heart; I set before you life and death, blessing and curse: choose life
+    [divergence between the texts]; Those who break God''s covenant and sever ties have the curse and
+    the evil abode; God tries towns with hardship, then with ease, then seizes them suddenly; Blessing
+    and curse set before the people as a choice; God will remove the heart of stone and give a heart of
+    flesh and a new spirit; In the end of days, in distress, the people will seek God and return; God
+    burdens no soul beyond its capacity; I set before you life and death, blessing and curse: choose life;
+    Heaven and earth called as witnesses against the people; God will gather the exiles even from the
+    end of heaven and restore them.'
   basis: reading
 - text: 'Only in The parable of the fly; messengers from angels and men; the religion of Abraham: Parable:
     those invoked besides God could not create a fly even together, nor recover what a fly snatches from

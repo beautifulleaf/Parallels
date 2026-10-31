@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The mirage and the thirsty traveler [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The desert blossoms; the blind see and the lame leap; the Way of Holiness: The wilderness
     and dry land rejoice and blossom like the crocus, given the glory of Lebanon, Carmel and Sharon; A
     highway called ''the Way of Holiness'': no unclean one, lion or ravenous beast on it; only the redeemed
-    walk there; Then the eyes of the blind will open, the deaf hear, the lame leap like a deer and the
-    mute tongue sing; ''Strengthen the weak hands and make firm the feeble knees; say to the anxious:
-    be strong, fear not, your God comes''; A highway (mesillah) for the remnant returning from Assyria
-    or exile; The ransomed of YHWH return to Zion with singing, everlasting joy upon their heads; sorrow
-    and sighing flee away; Waters break out in the wilderness and streams in the desert; burning sand
-    becomes a pool; On that day the deaf will hear the words of a book and the eyes of the blind will
-    see out of darkness.'
+    walk there; ''Strengthen the weak hands and make firm the feeble knees; say to the anxious: be strong,
+    fear not, your God comes''; A highway (mesillah) for the remnant returning from Assyria or exile;
+    Then the eyes of the blind will open, the deaf hear, the lame leap like a deer and the mute tongue
+    sing; The ransomed of YHWH return to Zion with singing, everlasting joy upon their heads; sorrow and
+    sighing flee away; Waters break out in the wilderness and streams in the desert; burning sand becomes
+    a pool; On that day the deaf will hear the words of a book and the eyes of the blind will see out
+    of darkness.'
   basis: reading
 - text: 'Only in The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures:
     Or like darkness in a deep sea, covered by wave upon wave and cloud above, darkness upon darkness,
@@ -41,10 +41,11 @@ evidence:
     light upon light; God sends down hail from mountains in the sky; the flash of his lightning nearly
     takes away sight; In houses God allowed to be raised, men undistracted by trade glorify him morning
     and evening; God created every beast from water: some go on their bellies, some on two legs, some
-    on four; Birds with outspread wings glorify God; each knows its prayer and praise; With God is the
-    fountain of life; in his light we see light; A lamp fed directly by an olive tree [divergence between
-    the texts]; A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil
-    through golden pipes; God drives the storm cloud to strike whom he wills or to show favor; and 8 more.'
+    on four; Birds in flight, wings spread, praise the deity; With God is the fountain of life; in his
+    light we see light; A lamp fed directly by an olive tree [divergence between the texts]; A golden
+    lampstand with seven lamps is flanked by two olive trees that pour golden oil through golden pipes;
+    The god titled ''light of heaven(s) and earth'' (nūr šamāmī u qaqqari / nūru l-samāwāti wa-l-arḍ),
+    and those deprived of light walk in darkness; and 12 more.'
   basis: reading
 - text: 'The desert blossoms; the blind see and the lame leap; the Way of Holiness: tagged by Claude (model),
     reading the Hebrew.'

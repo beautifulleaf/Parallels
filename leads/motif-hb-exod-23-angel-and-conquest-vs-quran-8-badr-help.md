@@ -18,27 +18,27 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God sends terror ahead to panic the enemies (weight 6.0). Pair score
-    6.0.'
+- text: 'Shared motifs, rarest first: God sends terror ahead to panic the enemies (weight 6.8). Pair score
+    6.8.'
   basis: reading
 - text: 'Only in The angel sent ahead and promises of conquest: The promised borders run from the Red
     Sea to the Sea of the Philistines and to the River; Obedience is rewarded with health, fertility and
     full lifespan; Enemies driven out little by little lest wild beasts multiply; Israel must tear down
     the standing stones of the Canaanite gods; God sends an angel ahead of Israel who bears God''s name;
-    Make no covenant with the inhabitants or their gods, who would be a snare; God sends the hornet to
-    drive out the inhabitants; God casts terror (ru''b) into the hearts of the unbelievers.'
+    God sends the hornet to drive out the inhabitants; Make no covenant with the inhabitants or their
+    gods, who would be a snare; God casts terror (ru''b) into the hearts of the unbelievers.'
   basis: reading
 - text: 'Only in Badr - angels, slumber, rain and God''s throw: Rain is sent down before battle to purify
     the fighters, remove Satan''s filth and make their feet firm; Some believers dispute the call to battle
     as if driven to death with their eyes open; God covers the fighters with slumber as a security from
     him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; God
-    reduces the army so that Israel cannot boast its own hand saved it; Fleeing the battle line is forbidden
-    except as a maneuver or to join another unit; Ruling on soldiers who fear battle [contrast between
-    the texts]; ''You did not throw when you threw, but God threw'': the victory is God''s act; The threatened
+    reduces the army so that Israel cannot boast its own hand saved it; Hard pressed by a superior enemy,
+    a leader or army calls on God and God answers; Fleeing the battle line is forbidden except as a maneuver
+    or to join another unit; Ruling on soldiers who fear battle [contrast between the texts]; The threatened
     people cry to God before the decisive encounter [divergence between the texts]; Priest addresses the
     army before battle: do not fear, God fights for you; God cuts off the last remnant (root, dabir) of
     a people who denied; The victory is credited to God, not to the fighters [divergence between the texts];
-    and 3 more.'
+    and 6 more.'
   basis: reading
 - text: 'The angel sent ahead and promises of conquest: tagged by Claude (model), reading the Hebrew.'
   basis: reading

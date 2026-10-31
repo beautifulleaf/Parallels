@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the fear of God and knowledge are related [divergence between
-    the texts] (weight 6.3). Pair score 6.3.'
+    the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Proverbs 1:1-7, title and purpose; fear of YHWH: Prologue states a book''s purpose: to
     give the simple shrewdness, the young knowledge, and the wise more learning, to understand proverbs
@@ -32,9 +32,12 @@ evidence:
     colors in people and beasts; There was no community but a warner passed among it; Only those of his
     servants who have knowledge truly fear God; Whether the seeing and the blind, light and darkness,
     end alike [divergence between the texts]; Whether one person (kin, descendants) bears another''s sin
-    [contrast between the texts]; Rhetorical question: are the blind and the seeing equal, or darkness
-    and light?; The prophet cannot make the dead or deaf hear, nor guide the blind; No burdened soul bears
-    another''s burden; even a relative will not carry any of it; Each person dies for his own sin.'
+    [contrast between the texts]; No burdened soul bears another''s burden; even a relative will not carry
+    any of it [divergence between the texts]; Rhetorical question: are the blind and the seeing equal,
+    or darkness and light?; Whether a man can hear (obey) is given or withheld by the deity; The prophet
+    cannot make the dead or deaf hear, nor guide the blind; No burdened soul bears another''s burden;
+    even a relative will not carry any of it; Whether one person''s guilt (a parent''s, another''s) comes
+    upon someone else [contrast between the texts]; Each person dies for his own sin.'
   basis: reading
 - text: 'Proverbs 1:1-7, title and purpose; fear of YHWH: tagged by Claude (model), reading the Hebrew.'
   basis: reading

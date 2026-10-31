@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
-    Pair score 4.7.'
+- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 5.3).
+    Pair score 5.3.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -26,18 +26,19 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 19 more.'
   basis: reading
 - text: 'Only in Shu''ayb and Midian: The prophet forbids his people to lie in wait on every road, threatening
     and turning people from God''s way; The prophet turns from his destroyed people: ''I conveyed the
     message and advised you''; The elite threaten the prophet and believers: expulsion unless they return
     to the old religion; A people is destroyed by an earthquake/tremor (al-rajfa); The chiefs (al-mala'')
     of the prophet''s people accuse him of error or folly and reject him; The destroyed are as if they
-    had never lived in their land; Morning finds the destroyed lying prostrate (jathimin) in their dwellings;
-    Prophet''s refrain to his people: ''Worship God; you have no god other than him''.'
+    had never lived in their land; Giving with the small measure and taking with the large: short weight
+    to others, full weight for oneself; Morning finds the destroyed lying prostrate (jathimin) in their
+    dwellings; Prophet''s refrain to his people: ''Worship God; you have no god other than him''.'
   basis: reading
 - text: 'Sayings on wine, the king''s throne and the lamp of YHWH: tagged by Claude (model), reading the
     Hebrew.'

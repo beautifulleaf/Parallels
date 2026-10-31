@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has put collars up to their chins so their heads are forced
-    up, and a barrier before and behind them, covering them so they do not see (weight 6.3). Pair score
-    6.3.'
+    up, and a barrier before and behind them, covering them so they do not see (weight 7.3). Pair score
+    7.3.'
   basis: reading
 - text: 'Only in Lamentations 3: ''I am the man who has seen affliction''; mercies new every morning:
-    Enemies cast the sufferer into a pit and throw stones on him; waters close over his head; God makes
-    the sufferer dwell in darkness like those long dead; The mourner''s eyes run down with streams of
-    water ceaselessly; God sates the sufferer with bitterness and makes him drunk with wormwood; God pleads
-    the sufferer''s cause and redeems his life; God like a bear or lion lying in wait, bending his bow
-    and shooting arrows into the sufferer; God does not willingly afflict or grieve human beings; It is
-    good for a man to bear the yoke in his youth; Enemies hunted the sufferer like a bird without cause;
-    Let us lift up our hearts with our hands to God in heaven; God''s mercies are not ended; they are
-    new every morning; great is your faithfulness; The sufferer becomes the laughing-stock and mocking
-    song of all his people; and 17 more.'
+    Enemies cast the sufferer into a pit and throw stones on him; waters close over his head; The mourner''s
+    eyes run down with streams of water ceaselessly; God sates the sufferer with bitterness and makes
+    him drunk with wormwood; God pleads the sufferer''s cause and redeems his life; God like a bear or
+    lion lying in wait, bending his bow and shooting arrows into the sufferer; God does not willingly
+    afflict or grieve human beings; It is good for a man to bear the yoke in his youth; Enemies hunted
+    the sufferer like a bird without cause; Let us lift up our hearts with our hands to God in heaven;
+    God''s mercies are not ended; they are new every morning; great is your faithfulness; The sufferer
+    becomes the laughing-stock and mocking song of all his people; Let him put his mouth in the dust;
+    perhaps there is hope; and 17 more.'
   basis: reading
 - text: 'Only in Ya-Sin; the collars and the barrier; deeds recorded: God records what people sent ahead
     and their traces (athar), and counts everything in a clear register (imam mubin); Oath by the Quran

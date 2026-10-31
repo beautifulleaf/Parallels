@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s wives are the mothers of the believers and may not
-    be married after him (weight 6.3). Pair score 6.3.'
+    be married after him (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Sheba''s revolt, Joab''s murder of Amasa, and the wise woman of Abel: A city proverbially
     famed as the place to ask counsel, ''a mother in Israel''; A corpse wallowing in blood on the road

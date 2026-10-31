@@ -20,32 +20,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God summons the coastlands and nations (and their gods) to a court
-    trial to argue their case (weight 6.3); Inimitability challenge: produce a surah like it, calling
-    on your own witnesses (tahaddi) (weight 5.6). Pair score 11.9.'
+    trial to argue their case (weight 7.3); Inimitability challenge: produce a surah like it, calling
+    on your own witnesses (tahaddi) (weight 6.6). Pair score 14.0.'
   basis: reading
-- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Fear not,
-    for I have redeemed you; I have called you by name, you are mine''; ''Your first father sinned and
-    your interpreters (melitsim) transgressed against me''; God says to north ''Give up'' and to south
-    ''Do not withhold'': bring my sons from afar and my daughters from the end of the earth; The wild
-    beasts, jackals and ostriches honor God for the water he gives in the desert; God gives Egypt, Cush
-    and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I, I am YHWH, and besides
-    me there is no savior''; ''Do not remember the former things... Behold I am doing a new thing; now
-    it springs forth'': a way in the wilderness, rivers in the desert; When you pass through waters God
-    is with you and rivers will not overwhelm you; through fire you will not be burned; Israel did not
-    weary itself with offerings for God but wearied him with its sins; he blots out transgressions for
-    his own sake; Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen,
-    fallen is Babylon!'' and all her idols shattered on the ground; Oracle of salvation: ''Fear not, for
-    I am with you; I will strengthen and help you''; and 15 more.'
+- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Your first
+    father sinned and your interpreters (melitsim) transgressed against me''; God says to north ''Give
+    up'' and to south ''Do not withhold'': bring my sons from afar and my daughters from the end of the
+    earth; The wild beasts, jackals and ostriches honor God for the water he gives in the desert; God
+    gives Egypt, Cush and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I,
+    I am YHWH, and besides me there is no savior''; ''Do not remember the former things... Behold I am
+    doing a new thing; now it springs forth'': a way in the wilderness, rivers in the desert; Israel did
+    not weary itself with offerings for God but wearied him with its sins; he blots out transgressions
+    for his own sake; ''Fear not, for I have redeemed you; I have called you by name, you are mine'';
+    Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen, fallen is
+    Babylon!'' and all her idols shattered on the ground; God himself devotes the nations (or a nation)
+    to destruction (herem) and gives them to slaughter; What God created humans, or his people, for [divergence
+    between the texts]; and 15 more.'
   basis: reading
 - text: 'Only in Call to worship the Creator; the challenge; paradise and the gnat: God is not ashamed
     to strike a parable of a gnat or something smaller; Fruits in paradise resemble those of earth: ''this
     is what we were given before''; A challenge to rivals to prove a divine claim [divergence between
-    the texts]; God takes life and gives it again [divergence between the texts]; The people break the
-    covenant God made with them; Humans were dead, given life, will die and be given life again (two deaths,
-    two lives); God stretches out the heavens like a tent curtain; Hell''s fire has men and stones as
-    its fuel; The blessed have purified spouses (azwaj mutahhara) in paradise; God fashions seven heavens;
-    God visits the earth with rain, softens it with showers, and crowns the year with harvest; God opens
-    his good storehouse, the heavens, to give rain; and 1 more.'
+    the texts]; In the hereafter the dead eat the like of what they ate on earth; God takes life and gives
+    it again [divergence between the texts]; The people break the covenant God made with them; Humans
+    were dead, given life, will die and be given life again (two deaths, two lives); God stretches out
+    the heavens like a tent curtain; Hell''s fire has men and stones as its fuel; The blessed have purified
+    spouses (azwaj mutahhara) in paradise; The creator made heaven and earth, light, air and food ''for
+    their sake'' (n-jb =sn), for humankind; God fashions seven heavens; and 3 more.'
   basis: reading
 - text: 'I have called you by name; you are my witnesses; behold I do a new thing: tagged by Claude (model),
     reading the Hebrew.'

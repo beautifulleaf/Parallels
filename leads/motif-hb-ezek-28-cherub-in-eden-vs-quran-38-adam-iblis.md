@@ -19,31 +19,34 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God expels Iblis as accursed (rajim) with a curse until the Day
-    of Judgment (weight 6.0). Pair score 6.0.'
+    of Judgment (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Lament over the king of Tyre - the gem-covered cherub in Eden cast from God''s mountain:
-    ''You were an anointed guardian cherub; I placed you on the holy mountain of God''; The being was
-    blameless from the day he was created until iniquity was found in him; God brings out a fire from
-    within the sinner that consumes him and turns him to ashes on the ground; A primal figure was in Eden,
-    the garden of God, covered with every precious stone (sardius, topaz, diamond, beryl, onyx, jasper,
-    sapphire, turquoise, emerald) and gold settings prepared on the day of his creation; The king of Tyre
-    is called ''the seal of perfection (hotem toknit), full of wisdom and perfect in beauty''; The primal
-    being walked among the ''stones of fire'' on God''s mountain; Cherubim and a flaming turning sword
-    guard the way to the tree of life; God casts the proud being out from the mountain of God and destroys
-    him from among the stones of fire, hurling him to earth before kings; A city or king claims or is
-    called ''perfect in beauty'' (kelilat yofi); By wisdom and trade the ruler amasses gold and silver
-    and his heart grows proud because of his wealth; The breastpiece of judgment set with twelve gems
-    in four rows; A mountain called the mountain of God; and 4 more.'
+    The being was blameless from the day he was created until iniquity was found in him; God brings out
+    a fire from within the sinner that consumes him and turns him to ashes on the ground; The king of
+    Tyre is called ''the seal of perfection (hotem toknit), full of wisdom and perfect in beauty''; The
+    primal being walked among the ''stones of fire'' on God''s mountain; ''You were an anointed guardian
+    cherub; I placed you on the holy mountain of God''; God casts the proud being out from the mountain
+    of God and destroys him from among the stones of fire, hurling him to earth before kings; A city or
+    king claims or is called ''perfect in beauty'' (kelilat yofi); A primal figure was in Eden, the garden
+    of God, covered with every precious stone (sardius, topaz, diamond, beryl, onyx, jasper, sapphire,
+    turquoise, emerald) and gold settings prepared on the day of his creation; By wisdom and trade the
+    ruler amasses gold and silver and his heart grows proud because of his wealth; The breastpiece of
+    judgment set with twelve gems in four rows; Cherubim and a flaming turning sword guard the way to
+    the tree of life; The destroyed one will be sought but never found again; ''I will make you terrors
+    and you shall be no more''; and 4 more.'
   basis: reading
 - text: 'Only in Adam made from clay; Iblis refuses and is granted respite: Iblis swears by God''s might
     to lead all humans astray except God''s sincere servants; The prophet asks no wage and is not one
     of the pretenders (mutakallifin); God created Adam ''with my two hands''; God commands the angels
     to prostrate to Adam; all do except Iblis, who refuses; God''s word: ''I will fill hell with jinn
     and humans all together''; The rank of the first human relative to the heavenly beings [contrast between
+    the texts]; In the divine assembly some withhold the obeisance the others perform [divergence between
     the texts]; Deity breathes the breath of life into the first human''s nostrils [divergence between
-    the texts]; The devil argues he is better than man because he was made of fire and man of clay; The
-    devil asks for and is granted respite until the day the dead are raised; Deity breathes the breath
-    of life into the first human''s nostrils; First human shaped from dust, clay or soil.'
+    the texts]; The creator declares ''I am the one who created, my hands have made it''; The devil argues
+    he is better than man because he was made of fire and man of clay; The devil asks for and is granted
+    respite until the day the dead are raised; Deity breathes the breath of life into the first human''s
+    nostrils; and 1 more.'
   basis: reading
 - text: 'Lament over the king of Tyre - the gem-covered cherub in Eden cast from God''s mountain: tagged
     by Claude (model), reading the Hebrew.'

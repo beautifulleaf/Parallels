@@ -12,20 +12,20 @@ traditions:
 layers:
 - motif
 motifs:
-- kings-before-israel-had-a-king
 - bela-son-of-beor-king
+- kings-before-israel-had-a-king
 - water-of-gold-name
 - chiefs-alluf-lists
 - non-dynastic-king-list
 - primeval-giant-peoples
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: List of kings who reigned ''before any king reigned over the Israelites''
-    (weight 6.7); First king of Edom is Bela son of Beor (name recalling Balaam son of Beor) (weight 6.7);
-    A queen''s ancestry includes a figure named ''Waters of Gold'' (Me-Zahav) (weight 6.7); Lists of tribal
-    chiefs (allufim) of Edom and the Horites (weight 6.7); King list in which each successor comes from
-    a different city, not the son of his predecessor (weight 6.7); Ancient giant or Rephaite peoples (Rephaim,
-    Zuzim, Emim, Horites) defeated (weight 5.1). Pair score 38.5.'
+- text: 'Shared motifs, rarest first: First king of Edom is Bela son of Beor (name recalling Balaam son
+    of Beor) (weight 7.7); List of kings who reigned ''before any king reigned over the Israelites'' (weight
+    7.7); A queen''s ancestry includes a figure named ''Waters of Gold'' (Me-Zahav) (weight 7.7); Lists
+    of tribal chiefs (allufim) of Edom and the Horites (weight 7.7); King list in which each successor
+    comes from a different city, not the son of his predecessor (weight 7.7); Ancient giant or Rephaite
+    peoples (Rephaim, Zuzim, Emim, Horites) defeated (weight 6.1). Pair score 44.9.'
   basis: reading
 - text: 'Only in Generations of Esau, Horite chiefs, kings of Edom: Amalek''s ancestor is born to a concubine
     in Esau''s line; Brothers separate because the land cannot support both their herds; While herding
@@ -43,7 +43,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: List of kings who reigned 'before any king reigned over the Israelites'
+finding: First king of Edom is Bela son of Beor (name recalling Balaam son of Beor)
 kinds:
 - shared
 units:
@@ -55,6 +55,21 @@ units:
   tradition: judaism
 matches:
 - kind: shared
+  label: First king of Edom is Bela son of Beor (name recalling Balaam son of Beor)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 36:32
+      lang: he
+      text: וַיִּמְלֹ֣ךְ בֶּאֱד֔וֹם בֶּ֖לַע בֶּן בְּע֑וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה
+    note: name echoes Balaam son of Beor
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 1:43
+      lang: he
+      text: וְאֵ֣לֶּה הַמְּלָכִ֗ים אֲשֶׁ֤ר מָלְכוּ֙ בְּאֶ֣רֶץ אֱד֔וֹם לִפְנֵ֥י מְלָךְ מֶ֖לֶךְ לִבְנֵ֣י
+        יִשְׂרָאֵ֑ל בֶּ֚לַע בֶּן בְּע֔וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה
+- kind: shared
   label: List of kings who reigned 'before any king reigned over the Israelites'
   sides:
   - tradition: judaism
@@ -64,21 +79,6 @@ matches:
       text: וְאֵ֨לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלָךְ מֶ֖לֶךְ לִבְנֵ֥י
         יִשְׂרָאֵֽל
     note: anachronism formula
-  - tradition: judaism
-    passages:
-    - ref: 1Chr 1:43
-      lang: he
-      text: וְאֵ֣לֶּה הַמְּלָכִ֗ים אֲשֶׁ֤ר מָלְכוּ֙ בְּאֶ֣רֶץ אֱד֔וֹם לִפְנֵ֥י מְלָךְ מֶ֖לֶךְ לִבְנֵ֣י
-        יִשְׂרָאֵ֑ל בֶּ֚לַע בֶּן בְּע֔וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה
-- kind: shared
-  label: First king of Edom is Bela son of Beor (name recalling Balaam son of Beor)
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 36:32
-      lang: he
-      text: וַיִּמְלֹ֣ךְ בֶּאֱד֔וֹם בֶּ֖לַע בֶּן בְּע֑וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה
-    note: name echoes Balaam son of Beor
   - tradition: judaism
     passages:
     - ref: 1Chr 1:43

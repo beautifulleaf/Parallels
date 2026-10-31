@@ -11,27 +11,28 @@ traditions:
 layers:
 - motif
 motifs:
-- angels-lodge-with-lot
 - overthrow-of-sodom-and-gomorrah-as-paradigm
+- angels-lodge-with-lot
 - fate-of-lots-wife
 - wicked-sodom
 - fire-and-brimstone-from-heaven
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Two angels are received as guests by Lot in Sodom (weight 6.0);
-    A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited (weight 6.0);
-    The fate of Lot''s wife (weight 5.8); The men of Sodom are exceedingly wicked (weight 5.2); God rains
-    sulfur and fire from heaven on cities (weight 4.8). Pair score 27.8.'
+- text: 'Shared motifs, rarest first: A land will be overthrown like Sodom and Gomorrah and their neighbors,
+    never inhabited (weight 7.1); Two angels are received as guests by Lot in Sodom (weight 7.1); The
+    fate of Lot''s wife (weight 6.8); The men of Sodom are exceedingly wicked (weight 6.2); God rains
+    sulfur and fire from heaven on cities (weight 5.9). Pair score 33.1.'
   basis: reading
 - text: 'Only in Lot, his guests, his daughters and the stones of sijjil: The angels tell Lot the destruction
     is appointed for the morning: ''is not the morning near?''; Lot wishes he had strength or a strong
     support to take refuge in; The angels tell Lot who sent them and what they will do [divergence between
-    the texts]; Only Lot''s household is brought out of the doomed city; What Lot says to the townsmen;
-    How Lot receives the heavenly guests [divergence between the texts]; When Lot leaves the city and
-    when the destruction falls [divergence between the texts]; Lot''s townspeople turn on him; What falls
-    from heaven on Sodom; Command not to look back while fleeing a doomed place; Lot''s wife is among
-    those who stay behind and perish; Stones of baked clay (sijjil), in layers, each marked by the Lord,
-    rain on the town; and 3 more.'
+    the texts]; A dwelling or town is overturned so that its top and bottom are exchanged; Only Lot''s
+    household is brought out of the doomed city; What Lot says to the townsmen; How Lot receives the heavenly
+    guests [divergence between the texts]; A protected person is forbidden to look out or turn round,
+    and one does [divergence between the texts]; The deity rains stones from heaven on those he destroys:
+    what kind of stones [divergence between the texts]; When Lot leaves the city and when the destruction
+    falls [divergence between the texts]; Lot''s townspeople turn on him; What falls from heaven on Sodom;
+    and 7 more.'
   basis: reading
 - text: 'Only in Lot and the destruction of his town: The host is troubled and helpless on account of
     the angelic guests, fearing for them; Lot''s people approach men, cut off the road (highway robbery)
@@ -50,7 +51,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Two angels are received as guests by Lot in Sodom
+finding: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited
 kinds:
 - shared
 units:
@@ -61,21 +62,6 @@ units:
   title: Lot and the destruction of his town
   tradition: islam
 matches:
-- kind: shared
-  label: Two angels are received as guests by Lot in Sodom
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 11:77
-      lang: ar
-      text: وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ
-        عَصِيبٌ
-  - tradition: islam
-    passages:
-    - ref: Quran 29:33
-      lang: ar
-      text: وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا
-        تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
 - kind: shared
   label: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited
   sides:
@@ -92,6 +78,21 @@ matches:
       lang: ar
       text: وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةًۢ بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ
     note: a clear sign left of it for people who reason
+- kind: shared
+  label: Two angels are received as guests by Lot in Sodom
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:77
+      lang: ar
+      text: وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ
+        عَصِيبٌ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:33
+      lang: ar
+      text: وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا
+        تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
 - kind: shared
   label: The fate of Lot's wife
   sides:

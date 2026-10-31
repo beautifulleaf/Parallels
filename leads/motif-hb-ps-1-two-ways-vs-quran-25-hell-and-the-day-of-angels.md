@@ -18,18 +18,18 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.6). Pair
-    score 5.6.'
+- text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.9). Pair
+    score 5.9.'
   basis: reading
 - text: 'Only in Psalm 1 - the two ways: The deeds of unbelievers are like ashes blown by the wind on
     a stormy day; The righteous man is like a tree planted by streams of water, bearing fruit in season,
     leaf never withering [divergence between the texts]; Contrast of the way of the righteous, which God
     knows, and the way of the wicked, which perishes [divergence between the texts]; Do not sit with those
-    who plunge into mockery of God''s signs until they change the subject; The righteous man is like a
-    tree planted by streams of water, bearing fruit in season, leaf never withering; Meditate on the book
-    of the Torah day and night; it shall not depart from your mouth; Contrast of the way of the righteous,
-    which God knows, and the way of the wicked, which perishes; Beatitude formula ''Happy (ashrei) is
-    the man who...''; I set before you life and death, blessing and curse: choose life.'
+    who plunge into mockery of God''s signs until they change the subject; Meditate on the book of the
+    Torah day and night; it shall not depart from your mouth; Contrast of the way of the righteous, which
+    God knows, and the way of the wicked, which perishes; Beatitude formula ''Happy (ashrei) is the man
+    who...''; I set before you life and death, blessing and curse: choose life; The righteous man is like
+    a tree planted by streams of water, bearing fruit in season, leaf never withering.'
   basis: reading
 - text: 'Only in Raging hell, the disowning of false gods, the split sky and the regretful wrongdoer:
     Thrown chained into a narrow place of hell, the damned cry for annihilation (thubūr); God turns the
@@ -41,7 +41,7 @@ evidence:
     between the texts]; When the damned are cast in they hear hell gasping/roaring as it boils, nearly
     bursting with rage; A request to see God, by the prophet or by the people [contrast between the texts];
     The sky splits and is frail that day, and the angels are on its borders; Earlier messengers were only
-    men who ate food and were not immortal; and 1 more.'
+    men who ate food and were not immortal; and 3 more.'
   basis: reading
 - text: 'Psalm 1 - the two ways: tagged by Claude (model), reading the Hebrew.'
   basis: reading

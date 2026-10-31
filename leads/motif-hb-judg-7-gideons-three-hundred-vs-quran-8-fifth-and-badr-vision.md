@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A dream before battle gives the leader courage [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns: An enemy
     soldier''s dream, overheard, foretells their defeat; The Hill of Moreh (''teacher'') and the Spring

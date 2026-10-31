@@ -23,8 +23,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Years of service given for a bride [divergence between the texts]
-    (weight 6.7); Suitor serves the bride''s father seven years for her hand (weight 6.3); Future bride
-    or groom met at a well, leading to betrothal (weight 6.3). Pair score 19.3.'
+    (weight 7.7); Suitor serves the bride''s father seven years for her hand (weight 7.3); Future bride
+    or groom met at a well, leading to betrothal (weight 7.3). Pair score 22.4.'
   basis: reading
 - text: 'Only in Jacob meets Rachel; Laban''s substitution of Leah: Custom that the younger daughter is
     not given before the elder; Each bride receives a handmaid from her father; Hero single-handedly rolls
@@ -37,12 +37,16 @@ evidence:
 - text: 'Only in At the water of Midian; the two women, their old father and the marriage contract: The
     father offers one of his two daughters in marriage for eight years'' service, ten if the groom wishes;
     One of the women comes walking shyly to invite the hero to her father, who will reward him; The daughter
-    advises: ''The best one to hire is the strong and trustworthy''; The prophet''s father-in-law is a
-    foreign priest; Hero drives off shepherds and waters the flock of women at a well; What the Midianite
-    daughters do after Moses helps them [divergence between the texts]; Moses helps the women at the water
-    of Midian [divergence between the texts]; Moses'' father-in-law in Midian [divergence between the
-    texts]; The terms of Moses'' marriage in Midian [divergence between the texts]; Hero meets his future
-    wife at a well.'
+    advises: ''The best one to hire is the strong and trustworthy''; A foreign ruler or father is asked
+    to give his daughter to a fugitive come from Egypt [divergence between the texts]; The prophet''s
+    father-in-law is a foreign priest; A fugitive in the desert at the water: given water, or giving it
+    [neutral] [divergence between the texts]; Hero drives off shepherds and waters the flock of women
+    at a well; The foreign host gives the fugitive from Egypt his daughter in marriage, and on what terms
+    [neutral] [divergence between the texts]; A foreign host hears the fugitive''s account and reassures
+    him [neutral] [divergence between the texts]; A foreign host marries the fugitive to his daughter
+    [neutral] [divergence between the texts]; What the Midianite daughters do after Moses helps them [divergence
+    between the texts]; Moses helps the women at the water of Midian [divergence between the texts]; and
+    7 more.'
   basis: reading
 - text: 'Jacob meets Rachel; Laban''s substitution of Leah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

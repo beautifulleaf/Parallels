@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What is slaughtered on stone altars (nuṣub/anṣāb) is forbidden;
-    the stones are abomination (weight 6.3). Pair score 6.3.'
+    the stones are abomination (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Passover, Weeks, Booths; judges; no Asherah: Unleavened bread, bread of affliction, because
     you left Egypt in haste; Justice, justice shall you pursue; No Asherah tree planted beside God''s
@@ -32,15 +32,15 @@ evidence:
     and 5 more.'
   basis: reading
 - text: 'Only in Contracts, pilgrim sanctity and the forbidden foods: The food of the People of the Book
-    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Sacrificial
-    animals (hady) marked with garlands (qalāʾid) are inviolable; Believers may marry chaste women of
-    the People of the Book; ''Today I have perfected your religion and completed my favor''; The sacred
-    month and God''s rites must not be profaned; Forbidden: the strangled, the beaten to death, the fallen
-    and the gored animal; What trained hunting animals (dogs, birds of prey) catch is lawful, with God''s
-    name pronounced; Divination by shaking or drawing arrows (belomancy); Eating carrion or torn flesh
-    is forbidden or defiling [divergence between the texts]; Seeking decisions by divining arrows (azlām)
-    is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten [divergence between the
-    texts]; and 10 more.'
+    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Believers
+    may marry chaste women of the People of the Book; ''Today I have perfected your religion and completed
+    my favor''; The sacred month and God''s rites must not be profaned; Forbidden: the strangled, the
+    beaten to death, the fallen and the gored animal; What trained hunting animals (dogs, birds of prey)
+    catch is lawful, with God''s name pronounced; Divination by shaking or drawing arrows (belomancy);
+    Eating carrion or torn flesh is forbidden or defiling [divergence between the texts]; Seeking decisions
+    by divining arrows (azlām) is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten
+    [divergence between the texts]; Sacrificial animals (hady) marked with garlands (qalāʾid) are inviolable;
+    and 10 more.'
   basis: reading
 - text: 'Passover, Weeks, Booths; judges; no Asherah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -17,8 +17,8 @@ motifs:
 - child-raised-in-sanctuary
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 5.8); Child
-    raised in the sanctuary or temple (weight 5.4). Pair score 11.2.'
+- text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service (weight 6.8); Child
+    raised in the sanctuary or temple (weight 6.5). Pair score 13.3.'
   basis: reading
 - text: 'Hannah''s vow and Samuel at Shiloh: tagged by Claude (model), reading the Hebrew.'
   basis: reading

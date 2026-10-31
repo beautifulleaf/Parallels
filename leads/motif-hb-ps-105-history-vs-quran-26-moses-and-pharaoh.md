@@ -20,9 +20,9 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Israel will inherit cities, houses, cisterns, vineyards and olives
-    they did not build or plant (weight 6.0); The departing slaves ask their neighbors for silver, gold
-    and clothing and so plunder their oppressors (weight 5.8); God identifies himself as God of Abraham,
-    Isaac and Jacob (weight 5.6). Pair score 17.4.'
+    they did not build or plant (weight 7.1); The departing slaves ask their neighbors for silver, gold
+    and clothing and so plunder their oppressors (weight 6.8); God identifies himself as God of Abraham,
+    Isaac and Jacob (weight 6.6). Pair score 20.5.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -44,9 +44,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 40 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 48 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'

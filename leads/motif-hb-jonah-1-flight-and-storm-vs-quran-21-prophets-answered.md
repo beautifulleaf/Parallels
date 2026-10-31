@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A prophet commissioned by God flees ''from the presence of YHWH''
-    rather than deliver the message (weight 6.7). Pair score 6.7.'
+    rather than deliver the message (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jonah flees to Tarshish and is thrown into the sea: The ship''s captain wakes the sleeper
     and urges him to call on his god that they may not perish; Sailors throw the cargo overboard to lighten

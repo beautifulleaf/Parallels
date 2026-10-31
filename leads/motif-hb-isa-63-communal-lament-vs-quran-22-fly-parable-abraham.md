@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Abraham is the father of the community addressed [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Remembering the days of Moses - O that you would rend the heavens: No ear has heard and
     no eye has seen any God besides you who acts for those who wait for him; In all their affliction he

@@ -19,12 +19,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham''s plea when told that the city of Lot will be destroyed
-    [divergence between the texts] (weight 6.7); Hero bargains with God to spare a city for the sake of
-    a few righteous (50 down to 10) (weight 5.8). Pair score 12.5.'
+    [divergence between the texts] (weight 7.7); Hero bargains with God to spare a city for the sake of
+    a few righteous (50 down to 10) (weight 6.8). Pair score 14.6.'
   basis: reading
-- text: 'Only in Abraham bargains for Sodom: God decides not to hide his plan from his chosen one; A city''s
-    punishment held back for the righteous within it [divergence between the texts]; God comes down to
-    see what humans are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns
+- text: 'Only in Abraham bargains for Sodom: A city''s punishment held back for the righteous within it
+    [divergence between the texts]; God decides not to hide his plan from his chosen one; God comes down
+    to see what humans are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns
     of Sodom''s fate, and his response [divergence between the texts]; Whether punishment strikes the
     innocent together with the guilty [contrast between the texts]; Hero challenges God: shall the judge
     of all the earth not do justice? [divergence between the texts]; Hero challenges God: shall the judge

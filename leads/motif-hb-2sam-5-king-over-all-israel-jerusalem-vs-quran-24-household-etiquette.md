@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the blind and the lame may enter the house or share its
-    table [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    table [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in David king over all Israel; capture of Jebusite Zion: Defenders boast that even the blind
     and lame could repel the attacker; A city is entered through its water shaft or conduit; A conquered
     fortress is renamed after the conquering king; A foreign king sends cedar wood and craftsmen to build
     the king''s house or temple; The hero adds wives to his household; The people (or tribe) themselves
     anoint a king; A claimant appeals: remember that I am your bone and your flesh; A king''s age at accession
-    and length of reign are given; The king is called to ''shepherd'' God''s people; List of the king''s
-    sons, daughters, wife and commander.'
+    and length of reign are given; List of the king''s sons, daughters, wife and commander; The king is
+    called to ''shepherd'' God''s people.'
   basis: reading
 - text: 'Only in Times of privacy, elderly women, eating in kin houses, leave from the messenger: Do not
     address the messenger as you address one another, nor slip away without his leave; Elderly women past
@@ -36,8 +36,8 @@ evidence:
     Slaves and children must ask permission at three times of undress: before dawn prayer, at noon and
     after the night prayer; You may eat your fill in a neighbor''s vineyard or pluck ears by hand, but
     not carry away or use a sickle; On entering houses greet one another with a blessed greeting from
-    God; Do not curse the deaf or put a stumbling block before the blind; Creditor must wait outside for
-    the pledge and return a poor man''s cloak by sunset.'
+    God; Creditor must wait outside for the pledge and return a poor man''s cloak by sunset; Do not curse
+    the deaf or put a stumbling block before the blind.'
   basis: reading
 - text: 'David king over all Israel; capture of Jebusite Zion: tagged by Claude (model), reading the Hebrew.'
   basis: reading

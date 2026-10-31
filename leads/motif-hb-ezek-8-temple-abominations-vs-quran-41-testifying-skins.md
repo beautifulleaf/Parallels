@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sinners say ''YHWH does not see us; YHWH has forsaken the land''
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun
     worship: Idolaters ''put the branch (zemorah) to their nose'', an obscure cultic gesture; Seventy
@@ -28,12 +28,13 @@ evidence:
     figure of fire from the waist down and gleaming like hashmal (amber/electrum) from the waist up; Though
     they cry in God''s ears with a loud voice, he will not listen; An idol called ''the image (semel)
     of jealousy that provokes jealousy'' stands at the north gate of the temple; Prophet is told to dig
-    through a wall and enters through the opening; A hand seizes the prophet by a lock of his hair and
-    the spirit carries him between earth and heaven to a distant place; Hidden temple chamber whose walls
-    are engraved all around with creeping things, loathsome beasts and idols; Women sit at the north gate
-    of the temple weeping for Tammuz; God carried his servant by night from the Sacred Mosque to the Farthest
-    Mosque; About twenty-five men with their backs to the temple bow eastward to the sun between the porch
-    and the altar; Prophet in exile is brought ''in visions of God'' to the Jerusalem temple; and 5 more.'
+    through a wall and enters through the opening; Hidden temple chamber whose walls are engraved all
+    around with creeping things, loathsome beasts and idols; God carried his servant by night from the
+    Sacred Mosque to the Farthest Mosque; A hand seizes the prophet by a lock of his hair and the spirit
+    carries him between earth and heaven to a distant place; About twenty-five men with their backs to
+    the temple bow eastward to the sun between the porch and the altar; Prophet in exile is brought ''in
+    visions of God'' to the Jerusalem temple; Elders of the people come and sit before the prophet in
+    his house to inquire; and 5 more.'
   basis: reading
 - text: 'Only in Skins testify; evil companions; the misled ask to trample their misleaders: The damned
     ask to be shown the jinn and humans who misled them so they may put them beneath their feet; God assigned
@@ -44,8 +45,9 @@ evidence:
     and sight: so God sees and hears, or the senses themselves testify [divergence between the texts];
     Woe to those who hide their plans deep from God and say ''Who sees us? Who knows us?''; A great stone
     set up as a witness because it has heard all God''s words; The hearing ear and the seeing eye, YHWH
-    made them both; On judgment day tongues, hands and feet testify against people; The damned blame their
-    chiefs and great ones who misled them and ask God to double their punishment.'
+    made them both; On judgment day tongues, hands and feet testify against people; Who witnesses against
+    the dead at the judgment (no witness against me / their own limbs and skins) [divergence between the
+    texts]; The damned blame their chiefs and great ones who misled them and ask God to double their punishment.'
   basis: reading
 - text: 'Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship:
     tagged by Claude (model), reading the Hebrew.'

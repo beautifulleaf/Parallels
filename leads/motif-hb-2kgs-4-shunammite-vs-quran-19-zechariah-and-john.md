@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
-    5.2). Pair score 5.2.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in The Shunammite woman and her son: Child in the harvest field cries ''My head, my head!''
     and dies at noon on his mother''s knees; Woman protests the promise of a son: ''Do not lie to your
@@ -32,17 +32,17 @@ evidence:
     in haste must greet no one and answer no greeting on the road; Bereaved woman grasps the prophet''s
     feet; the servant tries to push her away; and 7 more.'
   basis: reading
-- text: 'Only in Zechariah''s secret prayer and the birth of John (Surah 19:1-15): Old man''s prayer:
-    ''my bones have weakened and my head is aflame with gray''; The child is given judgment and wisdom
-    while still a boy; The aged father asks how he can have a son when his wife is barren and he is very
-    old; As a sign of the promised son the father cannot speak to people for three days or nights; The
-    announced son receives a name never given to anyone before; A petitioner calls to God in a hidden,
-    secret voice; The mute priest comes out of the sanctuary and signals to the people to glorify God;
-    The childless priest fears for his kinsmen after him and asks for an heir to the family of Jacob;
-    A divine messenger announces a son''s birth and gives his name [divergence between the texts]; The
-    prophet child is dutiful to his parent(s), not an arrogant tyrant; The aged father asks how he can
-    have a son when his wife is barren and he is very old [divergence between the texts]; ''Peace on him
-    the day he was born, the day he dies and the day he is raised alive''; and 7 more.'
+- text: 'Only in Zechariah''s secret prayer and the birth of John (Surah 19:1-15): The child is given
+    judgment and wisdom while still a boy; The aged father asks how he can have a son when his wife is
+    barren and he is very old; As a sign of the promised son the father cannot speak to people for three
+    days or nights; The announced son receives a name never given to anyone before; A petitioner calls
+    to God in a hidden, secret voice; The mute priest comes out of the sanctuary and signals to the people
+    to glorify God; The childless priest fears for his kinsmen after him and asks for an heir to the family
+    of Jacob; A divine messenger announces a son''s birth and gives his name [divergence between the texts];
+    Formula: ''from when you did not exist'' / ''when you were nothing''; Old man''s prayer: ''my bones
+    have weakened and my head is aflame with gray''; A childless man pleads with the deity for a son to
+    inherit from him and stand in his house, and is granted one; A childless man prays to his god for
+    an heir, recalling his past devotion; and 16 more.'
   basis: reading
 - text: 'The Shunammite woman and her son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

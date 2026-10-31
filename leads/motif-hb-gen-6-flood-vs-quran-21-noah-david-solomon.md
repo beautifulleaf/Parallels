@@ -21,18 +21,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero asks the deity to judge or destroy his opponents [divergence
-    between the texts] (weight 6.3); All others perish (weight 5.0); Hero''s family saved with him (weight
-    4.5). Pair score 15.8.'
+    between the texts] (weight 7.3); All others perish (weight 5.9); Hero''s family saved with him (weight
+    5.4). Pair score 18.7.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 43 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What sets the flood in
+    motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts];
+    How the ark is described [divergence between the texts]; What the flood hero does when the vessel
+    comes to rest [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; How the flood waters are stopped and
+    subside [divergence between the texts]; and 43 more.'
   basis: reading
 - text: 'Only in Noah answered; David and Solomon''s judgment, the praising mountains, mail and wind:
     David and Solomon judge a case of sheep that strayed by night into a field; Solomon is given the right
@@ -40,10 +42,10 @@ evidence:
     people see that divine wisdom is in the king to do justice; The people see that divine wisdom is in
     the king to do justice [divergence between the texts]; Liability for one''s grazing animals or spreading
     fire damaging another''s field; Mountains and birds are made to glorify God together with David [divergence
-    between the texts]; God taught David the craft of making coats of mail; The stormy wind is subjected
-    to Solomon, blowing at his command; Mountains and birds are made to glorify God together with David;
-    Devils (shayāṭīn) and jinn labor for Solomon, diving and building; Hero asks the deity to judge or
-    destroy his opponents.'
+    between the texts]; A herdsman''s sheep graze in a cultivator''s field [divergence between the texts];
+    God taught David the craft of making coats of mail; The stormy wind is subjected to Solomon, blowing
+    at his command; Mountains and birds are made to glorify God together with David; Devils (shayāṭīn)
+    and jinn labor for Solomon, diving and building; Hero asks the deity to judge or destroy his opponents.'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading

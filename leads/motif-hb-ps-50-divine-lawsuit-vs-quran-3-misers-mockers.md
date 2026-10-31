@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God is in need and humans rich [contrast between the texts]
-    (weight 6.7); People of the Book cast God''s book behind their backs (weight 5.8). Pair score 12.5.'
+    (weight 7.7); People of the Book cast God''s book behind their backs (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: Superscription
     ascribes the psalm to Asaph; Every beast of the forest is mine, the cattle on a thousand hills, and
@@ -40,10 +40,11 @@ evidence:
     consumed by fire as his credential; God grants the unbelievers respite only that they may increase
     in sin; An offering consumed by fire as proof of the true God or messenger [response between the texts];
     Fire from heaven falls and consumes the offering, wood, stones, dust and water; God will not leave
-    believers as they are until he separates the bad from the good; What man can live and not see death,
-    or deliver his soul from the hand of Sheol?; Every soul shall taste death; Fire comes out from before
-    God and consumes the offering on the altar; God sent his servants the prophets ''rising early and
-    sending'' (hashkem), but they did not listen; and 2 more.'
+    believers as they are until he separates the bad from the good; Wrongdoers take the deity''s delay
+    for indifference; the delay is not a release; What man can live and not see death, or deliver his
+    soul from the hand of Sheol?; A writer reproaches his addressee: the oath I made you swear before
+    the gods you have thrown behind you; Fire comes out from before God and consumes the offering on the
+    altar; and 4 more.'
   basis: reading
 - text: 'Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls: tagged by Claude (model),
     reading the Hebrew.'

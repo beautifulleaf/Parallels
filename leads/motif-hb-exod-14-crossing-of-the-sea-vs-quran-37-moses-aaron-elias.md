@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is named as saved and credited at the deliverance from Egypt
-    [divergence between the texts] (weight 6.7); The returning waters drown the pursuing army; not one
-    survives (weight 4.5). Pair score 11.2.'
+    [divergence between the texts] (weight 7.7); The returning waters drown the pursuing army; not one
+    survives (weight 5.5). Pair score 13.3.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,

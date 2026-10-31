@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How a husband sends away a divorced wife (document, gift, waiting
-    period) [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    period) [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -29,9 +29,9 @@ evidence:
     divorces his wife [divergence between the texts]; At the end of the term, retain or part with them
     honorably, and call two just witnesses [divergence between the texts]; Whether a divorced wife may
     return to her first husband after another marriage [contrast between the texts]; Forgotten sheaf,
-    olive and grape gleanings left for stranger, orphan and widow; Forgotten sheaf, olive and grape gleanings
-    left for stranger, orphan and widow [contrast between the texts]; Divorced wife who remarried may
-    not return to her first husband; and 7 more.'
+    olive and grape gleanings left for stranger, orphan and widow [contrast between the texts]; Divorced
+    wife who remarried may not return to her first husband; Creditor must wait outside for the pledge
+    and return a poor man''s cloak by sunset; and 7 more.'
   basis: reading
 - text: 'Only in Divorce before consummation; the prophet''s marriages; the curtain and the cloaks: A
     wife divorced before consummation owes no waiting period (''idda); give her a gift and release her

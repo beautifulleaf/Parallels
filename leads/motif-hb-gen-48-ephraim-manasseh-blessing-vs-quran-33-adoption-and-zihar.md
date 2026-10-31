@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether an adopted or fostered child counts as one''s own child
-    [contrast between the texts] (weight 6.3). Pair score 6.3.'
+    [contrast between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Jacob adopts and blesses Ephraim and Manasseh: Blessing formula ''May God make you like
     X and Y'' coined by a patriarch; Children placed on or taken from the knees of a patriarch as an adoption
     gesture; Grandfather adopts two grandsons as his own sons, equal to his firstborn; Blessing that descendants
     teem like fish; The angel who redeemed the patriarch from all evil is invoked to bless; Patriarch
-    bequeaths a portion (shekhem) he took from the Amorites with sword and bow; The younger son is preferred
-    over the elder in blessing or destiny; Grandfather crosses his hands to bless the younger first; The
-    father''s eyesight fails [divergence between the texts]; A dying father gathers his sons to bless
-    them and foretell their destinies; The father''s eyesight fails; God called the patriarch''s shepherd
-    all his life.'
+    bequeaths a portion (shekhem) he took from the Amorites with sword and bow; Grandfather crosses his
+    hands to bless the younger first; The father''s eyesight fails [divergence between the texts]; The
+    younger son is preferred over the elder in blessing or destiny; A dying father gathers his sons to
+    bless them and foretell their destinies; The father''s eyesight fails; God called the patriarch''s
+    shepherd all his life.'
   basis: reading
 - text: 'Only in Two hearts, zihar, adopted sons, and the prophet''s wives as mothers: God took a solemn
     covenant (mithaq) from the prophets: Muhammad, Noah, Abraham, Moses and Jesus son of Mary; Adopted
@@ -37,7 +37,8 @@ evidence:
     God has not put two hearts inside any man; Blood relatives are nearer to one another (in inheritance)
     in God''s book; The prophet''s wives are the mothers of the believers and may not be married after
     him; Zihar: a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying
-    is false and abhorrent.'
+    is false and abhorrent; The ruler (crown prince, prophet) is to be loved as, or to be closer than,
+    one''s own self [divergence between the texts].'
   basis: reading
 - text: 'Jacob adopts and blesses Ephraim and Manasseh: tagged by Claude (model), reading the Hebrew.'
   basis: reading

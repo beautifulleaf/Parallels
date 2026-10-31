@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The queen consults her chiefs, who defer to her; she observes that
-    kings who enter a town ruin it and humble its nobles (weight 6.7). Pair score 6.7.'
+    kings who enter a town ruin it and humble its nobles (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Ahasuerus''s banquets and Queen Vashti''s refusal: Royal decree that every man shall
     rule in his own house; Merry with wine, the king orders the queen brought in her crown to show her
@@ -43,7 +43,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 22 more.'
+    and 42 more.'
   basis: reading
 - text: 'Ahasuerus''s banquets and Queen Vashti''s refusal: tagged by Claude (model), reading the Hebrew.'
   basis: reading

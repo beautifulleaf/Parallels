@@ -20,31 +20,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever sheds human blood, by man shall his blood be shed, because
-    humans bear God''s image [divergence between the texts] (weight 6.7); Whoever sheds human blood, by
-    man shall his blood be shed, because humans bear God''s image (weight 6.3). Pair score 13.0.'
+    humans bear God''s image [divergence between the texts] (weight 7.7); Whoever sheds human blood, by
+    man shall his blood be shed, because humans bear God''s image (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Blessing of Noah, blood laws and the covenant of the bow: God requires the life of a
-    human even from an animal that kills; God sees the bow in the cloud and remembers his covenant (the
-    sign reminds the deity); God makes a covenant with humans and all living creatures; Eating animals
-    permitted to humans after the flood; The same religion (din) was enjoined on Noah, Abraham, Moses,
-    Jesus and the Prophet: establish it and do not divide; The sign left after the flood: the rainbow,
-    or the ark [divergence between the texts]; A sign in the sky commemorates the flood (bow, necklace);
-    The sign the flood leaves for later generations [divergence between the texts]; Hero blessed on leaving
-    the vessel; Humans given rule over animals; Deity resolves or promises not to repeat the destruction;
-    Divine blessing: be fruitful, multiply, fill the earth; and 2 more.'
+    human even from an animal that kills; God makes a covenant with humans and all living creatures; Eating
+    animals permitted to humans after the flood; The same religion (din) was enjoined on Noah, Abraham,
+    Moses, Jesus and the Prophet: establish it and do not divide; The sign left after the flood: the rainbow,
+    or the ark [divergence between the texts]; God sees the bow in the cloud and remembers his covenant
+    (the sign reminds the deity); The sign the flood leaves for later generations [divergence between
+    the texts]; Humans given rule over animals; A sign in the sky commemorates the flood (bow, necklace);
+    Eating blood is forbidden; Deity resolves or promises not to repeat the destruction; Humanity made
+    in the image or likeness of the deity; and 2 more.'
   basis: reading
 - text: 'Only in The two sons of Adam, the raven, and whoever saves one life: Whoever kills one soul is
     as if he killed all humanity; whoever saves one, as if he saved all; The victim wishes the murderer
     to bear both the victim''s sin and his own; God sends a raven scratching the earth to show how to
     hide a brother''s corpse; The threatened brother refuses to raise his hand to kill in return, out
-    of fear of God; What the earth does with the murdered brother: takes in his blood, or hides his corpse
-    [divergence between the texts]; A brother kills his brother in the first murder [divergence between
-    the texts]; The first murderer''s lament after the deed [divergence between the texts]; No one repents
-    of his evil, saying ''What have I done?''; each rushes on like a horse charging into battle; No one
-    repents of his evil, saying ''What have I done?''; each rushes on like a horse charging into battle
-    [contrast between the texts]; God accepts one brother''s offering and rejects the other''s; God accepts
-    one brother''s offering and rejects the other''s [divergence between the texts]; Before the first
-    murder the killer is warned (by God or by the victim) [divergence between the texts]; and 1 more.'
+    of fear of God; A bird stands at the burial of a murdered man''s remains (eagles that ate him are
+    opened; a raven shows how to bury him) [divergence between the texts]; What the earth does with the
+    murdered brother: takes in his blood, or hides his corpse [divergence between the texts]; A prohibition
+    of killing that carves out an exception for the rebel or the corrupter in the land [neutral] [divergence
+    between the texts]; A brother kills his brother in the first murder [divergence between the texts];
+    The killer weeps or laments after the murder; The first murderer''s lament after the deed [divergence
+    between the texts]; No one repents of his evil, saying ''What have I done?''; each rushes on like
+    a horse charging into battle; No one repents of his evil, saying ''What have I done?''; each rushes
+    on like a horse charging into battle [contrast between the texts]; and 8 more.'
   basis: reading
 - text: 'Blessing of Noah, blood laws and the covenant of the bow: tagged by Claude (model), reading the
     Hebrew.'

@@ -18,7 +18,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Each person dies for his own sin (weight 5.0). Pair score 5.0.'
+- text: 'Shared motifs, rarest first: Each person dies for his own sin (weight 5.8). Pair score 5.8.'
   basis: reading
 - text: 'Only in Ezekiel appointed watchman; bound and struck dumb in his house: The glory seen by the
     river appears again to the prophet in a valley/plain; The prophet is told to shut himself in his house;

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sent a wind and invisible hosts against the confederate armies
-    besieging the believers (weight 6.3). Pair score 6.3.'
+    besieging the believers (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The four lepers and the end of the siege: Finders of plunder say ''this is a day of good
     tidings (besorah); if we keep silent, punishment will find us''; God makes the enemy hear the sound
@@ -36,12 +36,14 @@ evidence:
     from death or killing; you would enjoy life only a little; Hypocrites ask leave to quit the battle
     line saying ''our houses are exposed'', wanting only to flee; Among the believers are men who fulfilled
     their covenant with God; some have met their end (qada nahbah) and some still wait; In the messenger
-    of God you have an excellent example (uswa hasana); Those who say ''we believe'' will not be left
-    untested; God tries them as he tried those before to know the truthful from the liars; In terror eyes
-    swerve and hearts reach the throats; Men leave the battle line to go home, and how that is judged
-    [contrast between the texts]; Book-people who aided the enemy are brought down from their fortresses,
-    terror cast in their hearts; some killed, some captured, their land inherited; God casts terror (ru''b)
-    into the hearts of the unbelievers; God sends terror ahead to panic the enemies.'
+    of God you have an excellent example (uswa hasana); An excuse of guarding one''s own place to avoid
+    the city''s defence when an enemy threatens [divergence between the texts]; Those who say ''we believe''
+    will not be left untested; God tries them as he tried those before to know the truthful from the liars;
+    In terror eyes swerve and hearts reach the throats; Men leave the battle line to go home, and how
+    that is judged [contrast between the texts]; Book-people who aided the enemy are brought down from
+    their fortresses, terror cast in their hearts; some killed, some captured, their land inherited; The
+    Arabian oasis Yathrib (Akkadian Iatribu) is named; God casts terror (ru''b) into the hearts of the
+    unbelievers; God sends terror ahead to panic the enemies.'
   basis: reading
 - text: 'The four lepers and the end of the siege: tagged by Claude (model), reading the Hebrew.'
   basis: reading

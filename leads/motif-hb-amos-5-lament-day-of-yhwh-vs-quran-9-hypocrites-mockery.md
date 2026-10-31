@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Hate evil, love good, establish justice in the gate; perhaps God
-    will be gracious to the remnant of Joseph'' (weight 6.7). Pair score 6.7.'
+    will be gracious to the remnant of Joseph'' (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: Futility curse:
     you built houses of hewn stone but will not live in them, planted vineyards but will not drink their
     wine; The city that marched out a thousand will have a hundred left, and the hundred ten; Dirge: ''Fallen,
-    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; As if a man fled from
-    a lion and met a bear, entered the house, leaned on the wall and was bitten by a snake; ''I hate,
-    I despise your feasts''; God rejects offerings and the noise of their songs and harps; They hate the
-    one who reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like
-    waters and righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices
-    in the wilderness forty years?; Farmers and professional wailers are summoned to lamentation in every
-    street and vineyard; The prudent will keep silent in such a time, for it is an evil time; Israel carried
-    Sakkuth their king and Kaiwan their images, the star of their god; and 11 more.'
+    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; ''I hate, I despise
+    your feasts''; God rejects offerings and the noise of their songs and harps; They hate the one who
+    reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like waters and
+    righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices in the
+    wilderness forty years?; The prudent will keep silent in such a time, for it is an evil time; Israel
+    carried Sakkuth their king and Kaiwan their images, the star of their god; ''Seek me and live''; do
+    not seek Bethel, Gilgal or Beersheba; Woe to those who desire the Day of YHWH: it is darkness and
+    not light; and 11 more.'
   basis: reading
 - text: 'Only in Hypocrites who mock and the destroyed peoples: Hypocrites fear a surah will be revealed
     exposing what is in their hearts; Hypocrites mock the prophet as ''all ear'' (udhun), credulous; Like

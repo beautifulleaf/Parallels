@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Piety (birr) is not turning faces east or west but faith, giving
-    wealth to kin, orphans, poor, travelers, beggars and captives (weight 6.7). Pair score 6.7.'
+    wealth to kin, orphans, poor, travelers, beggars and captives (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The fast that God chooses; the Sabbath a delight: When the righteous call, God answers
     ''Here I am'' (hinneni); The prophet is told to cry aloud and lift his voice like a ram''s horn; The

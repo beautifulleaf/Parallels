@@ -19,26 +19,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven is shut and no rain falls because of the people''s sin; repentance
-    brings rain (weight 6.0). Pair score 6.0.'
+    brings rain (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Solomon''s prayer of dedication: Exiles in an enemy land turn back with all their heart
     and pray toward their land, and God grants them mercy before captors; A foreigner from a far land
     who hears of God''s name comes to pray at the temple and is heard; ''There is no man who does not
-    sin''; A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Long
-    catalogue of curses for covenant violation (disease, defeat, famine, exile); Heaven and the heaven
-    of heavens cannot contain God, much less a temple; Egypt called an iron furnace (smelting furnace);
-    The direction faced in prayer [divergence between the texts]; Prayers made toward the temple (or toward
-    the land, city and house when in exile) are heard in heaven; Heaven and the heaven of heavens belong
-    to God; Prophet spreads out his palms to God in prayer; God alone knows the hearts of all humans.'
+    sin''; A man accused swears a curse-oath before the altar, and God judges guilty and innocent; Egypt
+    called an iron furnace (smelting furnace); The direction faced in prayer [divergence between the texts];
+    Heaven and the heaven of heavens cannot contain God, much less a temple; Prayers made toward the temple
+    (or toward the land, city and house when in exile) are heard in heaven; Long catalogue of curses for
+    covenant violation (disease, defeat, famine, exile); Heaven and the heaven of heavens belong to God;
+    Prophet spreads out his palms to God in prayer; God alone knows the hearts of all humans.'
   basis: reading
 - text: 'Only in Hud and Ad: There is no creature but God holds it by its forelock; The people say one
-    of their gods has struck the prophet with madness; Prophet challenges the idolaters to call their
-    partners and plot against him without delay; Seek forgiveness and repent, and God will send the sky
-    down on you in abundant rain; Refrain ''away with...'' (bu''dan li-) the destroyed people; God reassures
-    the frightened prophet: ''Do not fear them, for I am with you to deliver you''; A seer faced with
-    payment or worldly gain [contrast between the texts]; Prophet''s refrain to his people: ''Worship
-    God; you have no god other than him''; If God wills he takes you away and brings another people in
-    your place; The Prophet asks no wage for the message; Hero''s family saved with him.'
+    of their gods has struck the prophet with madness; The deity holds all living beings by a hold on
+    the head (nose-rope, forelock), as a herder leads animals [divergence between the texts]; The deity
+    holds a person (or every creature) by the lock of hair on the forehead; Prophet challenges the idolaters
+    to call their partners and plot against him without delay; Seek forgiveness and repent, and God will
+    send the sky down on you in abundant rain; Refrain ''away with...'' (bu''dan li-) the destroyed people;
+    God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you''; A seer
+    faced with payment or worldly gain [contrast between the texts]; Prophet''s refrain to his people:
+    ''Worship God; you have no god other than him''; If God wills he takes you away and brings another
+    people in your place; The Prophet asks no wage for the message; and 1 more.'
   basis: reading
 - text: 'Solomon''s prayer of dedication: tagged by Claude (model), reading the Hebrew.'
   basis: reading

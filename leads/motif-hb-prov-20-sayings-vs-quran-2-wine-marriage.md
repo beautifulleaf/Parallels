@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wine and gambling: in both great sin and some benefit, but the sin
-    is greater (weight 6.7). Pair score 6.7.'
+    is greater (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -27,21 +27,22 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 19 more.'
   basis: reading
 - text: 'Only in Wine, gambling, orphans, mixed marriage and menstruation: A believing slave woman (or
     man) is better for marriage than an attractive polytheist; What to spend? ''The surplus'' (al-''afw);
-    Mixing with orphans'' affairs permitted: they are your brothers; Your wives are a tilth for you; come
-    to your tilth as you wish; Intercourse with a menstruating woman is forbidden [divergence between
-    the texts]; A woman is purifying herself from her menstrual impurity; Do not look at wine when it
-    is red and sparkles in the cup; at the last it bites like a serpent and stings like a viper; Whether
-    wine is good or harmful [contrast between the texts]; Ban on marrying outside the community and its
-    criterion [divergence between the texts]; Intercourse with a menstruating woman is forbidden; Marrying
-    foreign women will lead the sons into idolatry; Prohibition of intermarriage with the peoples of the
-    land lest they turn sons to other gods.'
+    Mixing with orphans'' affairs permitted: they are your brothers; Intercourse with a menstruating woman
+    is forbidden [divergence between the texts]; Marriage with a man or woman of the hostile outside group
+    is barred or dangerous, because the spouse will lead to betrayal or ruin; Ploughing and sowing a field
+    stand for insemination (the plough impregnates the earth; women are a tilth); A woman is purifying
+    herself from her menstrual impurity; Do not look at wine when it is red and sparkles in the cup; at
+    the last it bites like a serpent and stings like a viper; A woman (wife) is likened to a field that
+    is ploughed; Whether wine is good or harmful [contrast between the texts]; Ban on marrying outside
+    the community and its criterion [divergence between the texts]; A woman and a ploughed field are likened
+    to each other; and 5 more.'
   basis: reading
 - text: 'Sayings on wine, the king''s throne and the lamp of YHWH: tagged by Claude (model), reading the
     Hebrew.'

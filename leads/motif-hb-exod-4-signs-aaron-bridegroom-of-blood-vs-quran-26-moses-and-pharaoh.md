@@ -16,8 +16,8 @@ layers:
 - motif
 motifs:
 - moses-fear-of-blood-vengeance-as-divergence
-- aarons-role-beside-moses-as-divergence
 - moses-white-hand-sign-as-divergence
+- aarons-role-beside-moses-as-divergence
 - hand-turned-leprous-white-as-snow
 - prophet-slow-of-speech
 - brother-as-spokesman
@@ -27,24 +27,24 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses'' fear of being killed, on returning, for the Egyptian''s
-    death [divergence between the texts] (weight 6.3); Aaron''s role beside Moses and how he is appointed
-    [divergence between the texts] (weight 6.0); Moses'' hand turned white as a sign [divergence between
-    the texts] (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight
-    5.6); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' (weight 5.6);
-    An eloquent brother is appointed to speak for the hero, who is ''as God'' to him (weight 5.6); A staff
-    thrown down becomes a serpent and turns back into a staff (weight 5.4). Pair score 40.5.'
+    death [divergence between the texts] (weight 7.3); Moses'' hand turned white as a sign [divergence
+    between the texts] (weight 7.1); Aaron''s role beside Moses and how he is appointed [divergence between
+    the texts] (weight 7.1); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight
+    6.6); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' (weight 6.6);
+    An eloquent brother is appointed to speak for the hero, who is ''as God'' to him (weight 6.6); A staff
+    thrown down becomes a serpent and turns back into a staff (weight 6.5). Pair score 47.9.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
     of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
-    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
-    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
-    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
-    man; The hero carries ''the staff of God'' with which he performs signs; The prophet asks that his
-    brother be made his helper (wazīr) and partner in his mission [divergence between the texts]; What
-    Moses demands of Pharaoh in God''s name [divergence between the texts]; God taught humankind by the
-    pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him
-    [divergence between the texts]; and 12 more.'
+    and seeks to kill him; The people believe the prophet''s signs and bow in worship; Hero may return
+    home because those seeking his life are dead; Wife cuts off her son''s foreskin with a flint and touches
+    it to the threatened man; The hero carries ''the staff of God'' with which he performs signs; The
+    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
+    the texts]; What Moses demands of Pharaoh in God''s name [divergence between the texts]; God claims
+    to make the mouth, the mute, the deaf, the seeing and the blind; God taught humankind by the pen (qalam)
+    what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence
+    between the texts]; and 12 more.'
   basis: reading
 - text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
     the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
@@ -54,9 +54,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 36 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 44 more.'
   basis: reading
 - text: 'Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: tagged by Claude
     (model), reading the Hebrew.'

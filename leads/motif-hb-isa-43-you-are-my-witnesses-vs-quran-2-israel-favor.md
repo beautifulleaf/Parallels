@@ -19,30 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether payment may substitute for a life [contrast between the
-    texts] (weight 5.8). Pair score 5.8.'
+    texts] (weight 6.8). Pair score 6.8.'
   basis: reading
-- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Fear not,
-    for I have redeemed you; I have called you by name, you are mine''; ''Your first father sinned and
-    your interpreters (melitsim) transgressed against me''; God says to north ''Give up'' and to south
-    ''Do not withhold'': bring my sons from afar and my daughters from the end of the earth; The wild
-    beasts, jackals and ostriches honor God for the water he gives in the desert; God gives Egypt, Cush
-    and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I, I am YHWH, and besides
-    me there is no savior''; ''Do not remember the former things... Behold I am doing a new thing; now
-    it springs forth'': a way in the wilderness, rivers in the desert; When you pass through waters God
-    is with you and rivers will not overwhelm you; through fire you will not be burned; Israel did not
-    weary itself with offerings for God but wearied him with its sins; he blots out transgressions for
-    his own sake; Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen,
-    fallen is Babylon!'' and all her idols shattered on the ground; Oracle of salvation: ''Fear not, for
-    I am with you; I will strengthen and help you''; and 16 more.'
+- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Your first
+    father sinned and your interpreters (melitsim) transgressed against me''; God says to north ''Give
+    up'' and to south ''Do not withhold'': bring my sons from afar and my daughters from the end of the
+    earth; The wild beasts, jackals and ostriches honor God for the water he gives in the desert; God
+    gives Egypt, Cush and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I,
+    I am YHWH, and besides me there is no savior''; ''Do not remember the former things... Behold I am
+    doing a new thing; now it springs forth'': a way in the wilderness, rivers in the desert; Israel did
+    not weary itself with offerings for God but wearied him with its sins; he blots out transgressions
+    for his own sake; ''Fear not, for I have redeemed you; I have called you by name, you are mine'';
+    Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen, fallen is
+    Babylon!'' and all her idols shattered on the ground; God himself devotes the nations (or a nation)
+    to destruction (herem) and gives them to slaughter; What God created humans, or his people, for [divergence
+    between the texts]; and 16 more.'
   basis: reading
 - text: 'Only in Address to the Children of Israel: If the people keep God''s covenant, God keeps his
     covenant with them; God''s choosing of Israel among the peoples [divergence between the texts]; On
     that day no soul will avail another, no intercession or ransom accepted, no help given; Refrain to
     the Children of Israel: ''remember my favor which I bestowed on you''; God rebukes the wicked who
     recites his statutes and covenant yet consorts with thieves and adulterers; People of the Book cast
-    God''s book behind their backs; Israel chosen as God''s treasured people (am segullah) out of all
-    peoples; No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life
-    is too costly; Each person dies for his own sin.'
+    God''s book behind their backs; No man can ransom his brother or give God a ransom (kofer) for him;
+    the redemption of life is too costly; Israel chosen as God''s treasured people (am segullah) out of
+    all peoples; Each person dies for his own sin.'
   basis: reading
 - text: 'I have called you by name; you are my witnesses; behold I do a new thing: tagged by Claude (model),
     reading the Hebrew.'

@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Ruler orders the killing of male infants (weight 5.1). Pair score
-    5.1.'
+- text: 'Shared motifs, rarest first: Ruler orders the killing of male infants (weight 6.1). Pair score
+    6.1.'
   basis: reading
 - text: 'Only in Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: Midwives observe
     the newborn on the birthstool (ovnayim, ''the two stones''); Oppressed people forced to build store-cities

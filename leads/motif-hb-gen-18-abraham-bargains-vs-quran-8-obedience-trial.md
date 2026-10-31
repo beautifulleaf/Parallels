@@ -18,26 +18,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether punishment strikes the innocent together with the guilty
-    [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Abraham bargains for Sodom: God decides not to hide his plan from his chosen one; Abraham''s
-    plea when told that the city of Lot will be destroyed [divergence between the texts]; A city''s punishment
-    held back for the righteous within it [divergence between the texts]; God comes down to see what humans
-    are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s fate,
-    and his response [divergence between the texts]; Hero challenges God: shall the judge of all the earth
-    not do justice? [divergence between the texts]; Hero challenges God: shall the judge of all the earth
-    not do justice? [response between the texts]; How God answers Abraham''s plea for the people of Sodom
-    [divergence between the texts]; An outcry (tse''aqah) from the wicked city reaches God; Shall God
-    treat believers like those who spread corruption, the godfearing like the wicked?; Abraham''s confession
-    is left as an enduring word among his descendants (''aqib); and 5 more.'
+- text: 'Only in Abraham bargains for Sodom: Abraham''s plea when told that the city of Lot will be destroyed
+    [divergence between the texts]; A city''s punishment held back for the righteous within it [divergence
+    between the texts]; God decides not to hide his plan from his chosen one; God comes down to see what
+    humans are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; Hero challenges God: shall the judge of all
+    the earth not do justice? [divergence between the texts]; Hero challenges God: shall the judge of
+    all the earth not do justice? [response between the texts]; How God answers Abraham''s plea for the
+    people of Sodom [divergence between the texts]; An outcry (tse''aqah) from the wicked city reaches
+    God; Shall God treat believers like those who spread corruption, the godfearing like the wicked?;
+    Abraham''s confession is left as an enduring word among his descendants (''aqib); and 5 more.'
   basis: reading
 - text: 'Only in Deaf and dumb beasts, heart and trial: God gives the God-fearing a furqan (criterion
     / deliverance); God comes between a man and his heart; The arrogant elite confront the weak (mustad''afun)
-    who believed the prophet; God has not given the people a heart to know, eyes to see, ears to hear
-    until today; God has not given the people a heart to know, eyes to see, ears to hear until today [divergence
-    between the texts]; The king''s heart is like channels of water in YHWH''s hand; he turns it wherever
-    he wishes; Wealth and children are a trial (fitna); The heedless are like cattle, or even more astray;
-    A foolish people who have eyes but do not see and ears but do not hear.'
+    who believed the prophet; A destroying calamity does not single out the wrongdoers but strikes all;
+    A destroying calamity does not single out the wrongdoers but strikes all [divergence between the texts];
+    God has not given the people a heart to know, eyes to see, ears to hear until today; God has not given
+    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
+    The king''s heart is like channels of water in YHWH''s hand; he turns it wherever he wishes; Whether
+    a man can hear (obey) is given or withheld by the deity; Wealth and children are a trial (fitna);
+    The heedless are like cattle, or even more astray; A foolish people who have eyes but do not see and
+    ears but do not hear.'
   basis: reading
 - text: 'Abraham bargains for Sodom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

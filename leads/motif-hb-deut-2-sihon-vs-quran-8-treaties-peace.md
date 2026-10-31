@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Peace offered or accepted in war, and its terms (weight 6.7); Messengers
-    offer peace terms before battle (weight 5.8). Pair score 12.5.'
+- text: 'Shared motifs, rarest first: Peace offered or accepted in war, and its terms (weight 7.7); Messengers
+    offer peace terms before battle (weight 6.1). Pair score 13.9.'
   basis: reading
 - text: 'Only in Defeat of Sihon king of Heshbon: God hardens an enemy king''s heart so he can be defeated;
     God forbids Israel to take land he allotted to kin nations (Edom, Moab, Ammon); Travellers offer to
@@ -32,9 +32,10 @@ evidence:
     Prepare against the enemy whatever force and tethered war horses you can, to deter them; If a treaty
     partner is feared treacherous, throw the treaty back to them on equal terms; Peace offered or accepted
     in war, and its terms [divergence between the texts]; Amassing war horses, and trust in God [divergence
-    between the texts]; Amassing war horses, and trust in God [contrast between the texts]; Most of the
-    peoples were found without fidelity to their covenant; The heedless are like cattle, or even more
-    astray.'
+    between the texts]; An enemy bound by oath breaks it, again and again, and scorns the religion or
+    the gods'' words; The vassal is said to have sinned again and again and to have utterly broken the
+    sworn word; Amassing war horses, and trust in God [contrast between the texts]; Most of the peoples
+    were found without fidelity to their covenant; The heedless are like cattle, or even more astray.'
   basis: reading
 - text: 'Defeat of Sihon king of Heshbon: tagged by Claude (model), reading the Hebrew.'
   basis: reading

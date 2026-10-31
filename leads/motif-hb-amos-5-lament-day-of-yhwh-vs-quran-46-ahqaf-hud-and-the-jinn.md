@@ -20,19 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to those who desire the Day of YHWH: it is darkness and not
-    light (weight 6.7). Pair score 6.7.'
+    light (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: Futility curse:
     you built houses of hewn stone but will not live in them, planted vineyards but will not drink their
     wine; The city that marched out a thousand will have a hundred left, and the hundred ten; Dirge: ''Fallen,
-    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; As if a man fled from
-    a lion and met a bear, entered the house, leaned on the wall and was bitten by a snake; ''I hate,
-    I despise your feasts''; God rejects offerings and the noise of their songs and harps; They hate the
-    one who reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like
-    waters and righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices
-    in the wilderness forty years?; Farmers and professional wailers are summoned to lamentation in every
-    street and vineyard; The prudent will keep silent in such a time, for it is an evil time; Israel carried
-    Sakkuth their king and Kaiwan their images, the star of their god; and 11 more.'
+    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; ''I hate, I despise
+    your feasts''; God rejects offerings and the noise of their songs and harps; They hate the one who
+    reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like waters and
+    righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices in the
+    wilderness forty years?; The prudent will keep silent in such a time, for it is an evil time; Israel
+    carried Sakkuth their king and Kaiwan their images, the star of their god; ''Seek me and live''; do
+    not seek Bethel, Gilgal or Beersheba; The death you flee from will surely meet you; and 11 more.'
   basis: reading
 - text: 'Only in Hud warns ''Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran:
     A destroyed people see a cloud approaching their valleys and say ''this cloud will give us rain'',
@@ -43,9 +42,9 @@ evidence:
     to be patient like ''the messengers of resolve'' (ulu l-''azm); God destroyed the towns around the
     hearers, which serve as warning; A destroying wind wipes out everything at its Lord''s command; in
     the morning only their dwellings are seen; A cloud seen over a land in drought, bringing rain or destruction
-    [contrast between the texts]; The prophet Hūd is sent to the people of ʿĀd; God was not wearied by
-    creating the heavens and earth (polemic against divine rest); God rested and was refreshed on the
-    seventh day; and 5 more.'
+    [contrast between the texts]; The prophet Hūd is sent to the people of ʿĀd; The destroying storm-wind
+    wrecks the land by its god''s command; God was not wearied by creating the heavens and earth (polemic
+    against divine rest); and 6 more.'
   basis: reading
 - text: 'Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: tagged by Claude (model),
     reading the Hebrew.'

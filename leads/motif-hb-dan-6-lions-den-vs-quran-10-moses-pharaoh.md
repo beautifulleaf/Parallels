@@ -18,30 +18,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses and Aaron are told to make their people''s houses in Egypt
-    a qibla (place/direction of prayer) (weight 6.7). Pair score 6.7.'
+    a qibla (place/direction of prayer) (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Daniel in the lions'' den: The accusers, with their wives and children, are thrown to
-    the lions and crushed before they reach the bottom; God sends his angel and shuts the lions'' mouths
-    so they do not harm the innocent; For thirty days no one may petition any god or man except the king;
-    Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the mouth of the pit and
-    sealed with the king''s signet and those of his nobles; A royal decree written by the law of the Medes
-    and Persians cannot be revoked, even by the king; The king spends a sleepless night fasting, without
-    entertainment, worrying over the hero; The pious kneels on his knees to pray; The faithful prays facing
-    Jerusalem through open windows; Rivals can find no fault in the hero except in the matter of the law
-    of his God; The king appoints 120 satraps over the kingdom with three presidents above them, one of
-    them the hero; The hero is thrown into a pit of lions; and 8 more.'
+    the lions and crushed before they reach the bottom; For thirty days no one may petition any god or
+    man except the king; Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the
+    mouth of the pit and sealed with the king''s signet and those of his nobles; A royal decree written
+    by the law of the Medes and Persians cannot be revoked, even by the king; The king spends a sleepless
+    night fasting, without entertainment, worrying over the hero; The pious kneels on his knees to pray;
+    The faithful prays facing Jerusalem through open windows; Rivals can find no fault in the hero except
+    in the matter of the law of his God; The king appoints 120 satraps over the kingdom with three presidents
+    above them, one of them the hero; The hero is thrown into a pit of lions; God sends his angel and
+    shuts the lions'' mouths so they do not harm the innocent; and 8 more.'
   basis: reading
 - text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Only some youths (dhurriyya)
     of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
     the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
-    the texts]; God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
-    between the texts]; Threatened believers say ''to our Lord we return'' and pray for patience and to
-    die as muslims; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God or
-    his own sin, and what follows; Pharaoh acknowledges Israel''s God or his own sin, and what follows
-    [divergence between the texts]; Who throws the staff before Pharaoh and what it becomes; How Moses''
-    own people in Egypt respond to his message [divergence between the texts]; and 10 more.'
+    they see punishment; The defeated enemy''s form (image or body) is kept as a sign (Akk. ittu, Ar.
+    āya) for those who come after [divergence between the texts]; What becomes of the drowned Pharaoh
+    and his army after the sea [divergence between the texts]; God''s instruction about the Israelites''
+    houses in Egypt before the exodus [divergence between the texts]; Threatened believers say ''to our
+    Lord we return'' and pray for patience and to die as muslims; Why Pharaoh pursues the departing Israelites;
+    Pharaoh acknowledges Israel''s God or his own sin, and what follows; Pharaoh acknowledges Israel''s
+    God or his own sin, and what follows [divergence between the texts]; Who throws the staff before Pharaoh
+    and what it becomes; and 12 more.'
   basis: reading
 - text: 'Daniel in the lions'' den: tagged by Claude (model), reading the Aramaic.'
   basis: reading

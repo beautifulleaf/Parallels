@@ -13,14 +13,14 @@ traditions:
 layers:
 - motif
 motifs:
-- theft-accusation-pursuit
 - search-eldest-to-youngest
+- theft-accusation-pursuit
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Brothers pursued and accused of theft (weight 5.8); Search proceeds
-    through the others'' bags before the youngest''s (weight 5.8). Pair score 11.5.'
+- text: 'Shared motifs, rarest first: Search proceeds through the others'' bags before the youngest''s
+    (weight 6.8); Brothers pursued and accused of theft (weight 6.8). Pair score 13.7.'
   basis: reading
 - text: 'Only in Jacob''s flight from Laban and the theft of the teraphim: In a dream an angel shows the
     hero the striped and speckled he-goats mounting the flock; God commands the exile to return to the
@@ -43,7 +43,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 107 more.'
+    brings back the missing royal cup, with a guarantor; and 145 more.'
   basis: reading
 - text: 'Jacob''s flight from Laban and the theft of the teraphim: tagged by Claude (model), reading the
     Hebrew.'

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 5.0.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Psalm 115, not to us, polemic against idols: ''The heavens are YHWH''s heavens, but the
     earth he has given to the sons of man''; ''Not to us, YHWH, not to us, but to your name give glory'';
@@ -31,19 +31,19 @@ evidence:
     to grasp, eyes to see, ears to hear?; Likeness between the idols and those who call on them [divergence
     between the texts]; Liturgical triad (or tetrad) addressing Israel, the house of Aaron, (the house
     of Levi) and those who fear YHWH; In death there is no remembrance of God; in Sheol who will praise
-    him?; God called ''maker of heaven and earth'' (''oseh shamayim va-arets'') in blessing or confession
-    of help; Nations taunt ''Where is their God?''; and 1 more.'
+    him?; Nations taunt ''Where is their God?''; God called ''maker of heaven and earth'' (''oseh shamayim
+    va-arets'') in blessing or confession of help; and 1 more.'
   basis: reading
 - text: 'Only in The command has come; cattle, rain, sea and stars as blessings (Surah 16:1-23): God sends
     down the angels with the spirit of his command upon whom he wills; Cattle were created for human warmth,
     food, burden-bearing and the beauty of herds coming and going; God made horses, mules and donkeys
     to ride and for adornment, and creates what you do not know; Man was created from a drop, yet he becomes
     an open adversary; The subjected sea gives fresh meat and ornaments to wear, and ships cleave it;
-    Night, day, sun, moon and stars are subjected by God''s command; If you counted God''s blessings you
-    could never number them; Your God is one God (ilahukum ilahun wahid); God made the stars for guidance
-    in the darknesses of land and sea; The idols create nothing, are themselves created, and are dead,
-    not living; God set firm mountains on the earth lest it sway with people; God pours down rain, splits
-    the earth and makes grain, grapes, olives, palms and pasture grow, as provision and sign.'
+    Night, day, sun, moon and stars are subjected by God''s command; The horse is for riding and display
+    and is not eaten; cattle carry loads (and are eaten); If you counted God''s blessings you could never
+    number them; The creator made plants, cattle, fowl and fish to feed humankind; Your God is one God
+    (ilahukum ilahun wahid); God made the stars for guidance in the darknesses of land and sea; The idols
+    create nothing, are themselves created, and are dead, not living; and 2 more.'
   basis: reading
 - text: 'Psalm 115, not to us, polemic against idols: tagged by Claude (model), reading the Hebrew.'
   basis: reading

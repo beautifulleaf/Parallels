@@ -18,13 +18,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Distress is a narrow place and God''s rescue gives breadth (tsar
-    / merhav; daqa / rahuba) (weight 6.3). Pair score 6.3.'
+    / merhav; daqa / rahuba) (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 4 - evening prayer of trust: Speak in your heart upon your bed and be still; God''s
     gift of joy exceeds the joy of abundant grain and new wine; Prayer that God lift up the light of his
-    face on the petitioner; The trusting speaker lies down and sleeps in peace and wakes, for God sustains
-    him; Truly with hardship comes ease (repeated twice); Superscription contains an obscure musical or
-    liturgical term (neginot, nehilot, sheminit, gittit, alamot, shiggayon, maskil, miktam, shoshannim...);
+    face on the petitioner; Truly with hardship comes ease (repeated twice); The trusting speaker lies
+    down and sleeps in peace and wakes, for God sustains him; Superscription contains an obscure musical
+    or liturgical term (neginot, nehilot, sheminit, gittit, alamot, shiggayon, maskil, miktam, shoshannim...);
     The marker selah interrupts the psalm; Superscription ''for the leader/choirmaster'' (lamenatseah);
     Psalm superscription ascribes the poem to David (le-david).'
   basis: reading

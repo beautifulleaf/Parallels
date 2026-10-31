@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers say there is only this life; we die and live, and only Time
-    (al-dahr) destroys us (weight 6.3). Pair score 6.3.'
+    (al-dahr) destroys us (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in A time for everything; eternity in the heart: God has put ''olam (eternity, or the world)
     in the human heart, yet man cannot find out the work of God from beginning to end; God has made everything
     beautiful in its time; God seeks what has been driven away (et nirdaf); what is has already been;
-    Whatever God does endures forever; nothing can be added to it nor taken from it, so that people fear
-    him; A time to cast away stones and a time to gather stones; It is God who makes to laugh and to weep,
-    who gives death and life; What has been is what will be; there is nothing new under the sun; For everything
-    there is a season and a time for every matter under heaven (birth and death, planting and uprooting,
-    etc.); God has given humans an evil task (''inyan ra'') to be busy with; What profit (yitron) has
-    a man from all his toil under the sun?; There is nothing better than to eat, drink and find enjoyment
-    in one''s toil; this is from the hand of God.'
+    A time to cast away stones and a time to gather stones; It is God who makes to laugh and to weep,
+    who gives death and life; Whatever God does endures forever; nothing can be added to it nor taken
+    from it, so that people fear him; What has been is what will be; there is nothing new under the sun;
+    God has given humans an evil task (''inyan ra'') to be busy with; For everything there is a season
+    and a time for every matter under heaven (birth and death, planting and uprooting, etc.); What profit
+    (yitron) has a man from all his toil under the sun?; There is nothing better than to eat, drink and
+    find enjoyment in one''s toil; this is from the hand of God.'
   basis: reading
 - text: 'Only in Desire as god, ''only Time destroys us'', and every nation kneeling before its book:
     God''s book speaks against them with truth: ''We used to have transcribed (nastansikh) all that you

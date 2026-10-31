@@ -27,30 +27,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When and from where the flood waters come [divergence between the
-    texts] (weight 6.7); What the flood hero does when the vessel comes to rest [divergence between the
-    texts] (weight 6.7); Whether the flood hero speaks to his people before the flood [divergence between
-    the texts] (weight 6.3); Why God destroyed a generation or a people [divergence between the texts]
-    (weight 6.0); Who is saved with the hero from the destruction, and why [divergence between the texts]
-    (weight 5.8); Animals taken aboard in pairs (weight 5.8); Hero builds a vessel on divine instruction
-    (weight 5.2); Hero''s family saved with him (weight 4.5). Pair score 46.9.'
+    texts] (weight 7.7); What the flood hero does when the vessel comes to rest [divergence between the
+    texts] (weight 7.7); Whether the flood hero speaks to his people before the flood [divergence between
+    the texts] (weight 7.3); Why God destroyed a generation or a people [divergence between the texts]
+    (weight 7.1); Who is saved with the hero from the destruction, and why [divergence between the texts]
+    (weight 6.8); Animals taken aboard in pairs (weight 6.5); Hero builds a vessel on divine instruction
+    (weight 6.2); Hero''s family saved with him (weight 5.4). Pair score 54.9.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 38 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What sets the flood in
+    motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts];
+    How the ark is described [divergence between the texts]; What God says of later generations after
+    the flood: no repeat, or punishment to come [contrast between the texts]; How the flood waters are
+    stopped and subside [divergence between the texts]; God made Noah''s descendants the only survivors;
+    and 38 more.'
   basis: reading
 - text: 'Only in Noah called a madman; the ark and the boiling oven: God forbids the prophet to address
     him on behalf of those who did wrong: they will be drowned; The flood hero prays to be landed at a
-    blessed landing place; The prophet''s people object that he is only a human like them; had God willed
-    he would have sent angels; A specific sign marks the moment to board; The flood waters are hot or
-    boiling; A member of the hero''s family is lost; Hero asks the deity to judge or destroy his opponents;
-    Hero warns or preaches to his people before the flood; Officers call the visiting prophet ''this madman''
-    (meshugga'').'
+    blessed landing place; The flood hero is told he is only a man like the speaker(s) [divergence between
+    the texts]; The prophet''s people object that he is only a human like them; had God willed he would
+    have sent angels; The flood waters are hot or boiling; A member of the hero''s family is lost; A specific
+    sign marks the moment to board; Hero asks the deity to judge or destroy his opponents; Hero warns
+    or preaches to his people before the flood; Officers call the visiting prophet ''this madman'' (meshugga'').'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading

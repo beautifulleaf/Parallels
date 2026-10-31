@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On a journey without a scribe a pledge in hand (rihan maqbuda) is
-    taken (weight 6.7). Pair score 6.7.'
+    taken (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -28,15 +28,18 @@ evidence:
     is a capital crime; How a husband divorces his wife [divergence between the texts]; At the end of
     the term, retain or part with them honorably, and call two just witnesses [divergence between the
     texts]; Whether a divorced wife may return to her first husband after another marriage [contrast between
-    the texts]; Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow; Forgotten
-    sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between the texts];
-    Divorced wife who remarried may not return to her first husband; and 7 more.'
+    the texts]; Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast
+    between the texts]; Divorced wife who remarried may not return to her first husband; Creditor must
+    wait outside for the pledge and return a poor man''s cloak by sunset; and 7 more.'
   basis: reading
 - text: 'Only in The debt verse: A debt for a fixed term must be written by a just scribe, dictated by
     the debtor or his guardian; Two male witnesses, or one man and two women so that if one errs the other
-    reminds her; A land deed made in a sealed copy and an open copy, witnessed and the silver weighed;
-    A witness who hears a public adjuration and withholds testimony bears guilt; How many witnesses are
-    required [divergence between the texts]; No one put to death on the testimony of a single witness.'
+    reminds her; The scribe who writes a debt or account must not cheat with his pen; he writes with justice;
+    A land deed made in a sealed copy and an open copy, witnessed and the silver weighed; A transfer of
+    goods (gift, sale, debt) is to be written down and witnessed; Knowing the matter and not speaking:
+    withholding testimony as a sin; A witness who hears a public adjuration and withholds testimony bears
+    guilt; How many witnesses are required [divergence between the texts]; No one put to death on the
+    testimony of a single witness.'
   basis: reading
 - text: 'Divorce, newlyweds, pledges, wages, gleanings: tagged by Claude (model), reading the Hebrew.'
   basis: reading

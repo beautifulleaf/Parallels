@@ -13,27 +13,27 @@ traditions:
 layers:
 - motif
 motifs:
-- setting-of-moses-call-as-divergence
 - call-from-the-fire-as-divergence
+- setting-of-moses-call-as-divergence
 - shepherd-called-at-mountain-of-god
 - burning-bush-not-consumed
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Where and how Moses comes to the place of his call [divergence between
-    the texts] (weight 6.7); God calls Moses from the fire, from a bush or a tree [divergence between
-    the texts] (weight 6.7); A shepherd tending flocks comes to the mountain of God and is called (weight
-    6.3); God appears in a bush that burns without being consumed (weight 6.0). Pair score 25.7.'
+- text: 'Shared motifs, rarest first: God calls Moses from the fire, from a bush or a tree [divergence
+    between the texts] (weight 7.7); Where and how Moses comes to the place of his call [divergence between
+    the texts] (weight 7.7); A shepherd tending flocks comes to the mountain of God and is called (weight
+    7.3); God appears in a bush that burns without being consumed (weight 7.1). Pair score 29.9.'
   basis: reading
 - text: 'Only in The burning bush and the divine name: God names himself ''I will be what I will be''
-    (ehyeh asher ehyeh); God has seen the affliction, heard the cry and comes down to deliver; God introduced
-    to a foreign king as ''the God of the Hebrews''; God foretells that the king will not let the people
-    go except under compulsion; Hero hides his face, afraid to look at God; The sign confirming the call
-    is that the people will later worship on this mountain; God declares his name as his everlasting memorial
-    for all generations; The title of God in whose name Moses goes to Pharaoh; The list of fathers in
-    ''God of your fathers'' [divergence between the texts]; Whose forefathers'' God is proclaimed in the
-    Moses story [divergence between the texts]; How God names himself to Moses from the fire [divergence
+    (ehyeh asher ehyeh); God introduced to a foreign king as ''the God of the Hebrews''; God foretells
+    that the king will not let the people go except under compulsion; Hero hides his face, afraid to look
+    at God; The sign confirming the call is that the people will later worship on this mountain; God declares
+    his name as his everlasting memorial for all generations; The title of God in whose name Moses goes
+    to Pharaoh; God has seen the affliction, heard the cry and comes down to deliver; The list of fathers
+    in ''God of your fathers'' [divergence between the texts]; Whose forefathers'' God is proclaimed in
+    the Moses story [divergence between the texts]; How God names himself to Moses from the fire [divergence
     between the texts]; Formulaic list of the Canaanite, Hittite, Amorite, Perizzite, Hivite and Jebusite;
     and 14 more.'
   basis: reading

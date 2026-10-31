@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The form, faces and number of wings of heavenly beings [divergence
-    between the texts] (weight 6.7); Each cherub or living creature has four faces (human, lion, ox/cherub,
-    eagle), four wings and human hands under the wings (weight 6.7). Pair score 13.4.'
+    between the texts] (weight 7.7); Each cherub or living creature has four faces (human, lion, ox/cherub,
+    eagle), four wings and human hands under the wings (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Coals from between the cherubim; the wheels full of eyes; the glory leaves the temple:
     Burning coals are taken from between the cherubim / wheels and scattered over the city; Above the
@@ -40,13 +40,13 @@ evidence:
     righteous deeds raise it up; Satan is an enemy to you, so take him as an enemy; he calls his party
     to the blaze; The false gods do not own even the thin skin of a date-stone (qitmir); they cannot hear
     prayer and will disown it at the Resurrection; What God opens no one can shut, and what he withholds
-    no one can release; What happens where fresh and salt water meet [divergence between the texts]; If
+    no one can release; What happens where fresh and salt water meet [divergence between the texts]; A
+    god''s act sets fresh (sweet) water against salt (bitter) water [divergence between the texts]; If
     God willed he could remove you and bring a new creation; God began man''s creation from clay, then
     made his progeny from an extract of a despised fluid, then shaped him and breathed of his spirit;
-    No one is granted long life or has his life shortened except it is in a Book; The life of this world
-    is only amusement and play (lahw wa-la''ib); the abode of the hereafter is the true life; Sun and
-    moon are subjected, each running to an appointed term; God let loose the two seas, one sweet, one
-    salt, with a barrier (barzakh) and partition between them; and 5 more.'
+    The life of this world is only amusement and play (lahw wa-la''ib); the abode of the hereafter is
+    the true life; No one is granted long life or has his life shortened except it is in a Book; Sun and
+    moon are subjected, each running to an appointed term; and 6 more.'
   basis: reading
 - text: 'Coals from between the cherubim; the wheels full of eyes; the glory leaves the temple: tagged
     by Claude (model), reading the Hebrew.'

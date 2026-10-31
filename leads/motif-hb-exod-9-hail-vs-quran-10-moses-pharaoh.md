@@ -21,10 +21,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh acknowledges Israel''s God or his own sin, and what follows
-    [divergence between the texts] (weight 6.7); Who causes Pharaoh''s refusal: God hardening his heart,
-    or Pharaoh and his people themselves (weight 6.3); The king confesses he has sinned and that God is
-    righteous (weight 6.3); The king''s heart is hardened (by himself or by God) so he refuses to release
-    the people (weight 4.6). Pair score 23.9.'
+    [divergence between the texts] (weight 7.7); Who causes Pharaoh''s refusal: God hardening his heart,
+    or Pharaoh and his people themselves (weight 7.3); The king confesses he has sinned and that God is
+    righteous (weight 7.3); The king''s heart is hardened (by himself or by God) so he refuses to release
+    the people (weight 5.7). Pair score 28.1.'
   basis: reading
 - text: 'Only in Plague 7: hail and fire: Narrator dates a plague by the growth stage of named crops (barley
     in ear, flax in bud, wheat late); Some of the king''s servants fear God''s word and bring their slaves
@@ -33,21 +33,22 @@ evidence:
     any since the nation was founded, or ever again; God''s people in Goshen are exempted from a plague
     that strikes Egypt; A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will
     you kill a man for saying my Lord is God?''; Wonder done ''so that you may know that the earth belongs
-    to YHWH''; God sends hail mingled with fire and thunder from heaven; The king breaks his promise to
-    release the people once a plague is lifted; King asks the prophet to intercede with God to remove
-    a plague; Prophet delivers God''s demand ''Let my people go that they may serve me''; and 1 more.'
+    to YHWH''; The king breaks his promise to release the people once a plague is lifted; King asks the
+    prophet to intercede with God to remove a plague; Prophet delivers God''s demand ''Let my people go
+    that they may serve me''; Prophet spreads out his palms to God in prayer; and 1 more.'
   basis: reading
 - text: 'Only in Moses, the houses as qibla, and Pharaoh''s drowning faith: Only some youths (dhurriyya)
     of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
     the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
-    the texts]; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
-    of prayer); God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
-    between the texts]; Threatened believers say ''to our Lord we return'' and pray for patience and to
-    die as muslims; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God or
-    his own sin, and what follows; Who throws the staff before Pharaoh and what it becomes; How Moses''
-    own people in Egypt respond to his message [divergence between the texts]; and 7 more.'
+    they see punishment; The defeated enemy''s form (image or body) is kept as a sign (Akk. ittu, Ar.
+    āya) for those who come after [divergence between the texts]; What becomes of the drowned Pharaoh
+    and his army after the sea [divergence between the texts]; Moses and Aaron are told to make their
+    people''s houses in Egypt a qibla (place/direction of prayer); God''s instruction about the Israelites''
+    houses in Egypt before the exodus [divergence between the texts]; Threatened believers say ''to our
+    Lord we return'' and pray for patience and to die as muslims; Why Pharaoh pursues the departing Israelites;
+    Pharaoh acknowledges Israel''s God or his own sin, and what follows; Who throws the staff before Pharaoh
+    and what it becomes; and 9 more.'
   basis: reading
 - text: 'Plague 7: hail and fire: tagged by Claude (model), reading the Hebrew.'
   basis: reading

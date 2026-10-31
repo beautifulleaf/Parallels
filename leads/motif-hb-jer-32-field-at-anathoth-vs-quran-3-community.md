@@ -18,16 +18,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will give his people one heart and one way to fear him always
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jeremiah buys his cousin''s field at Anathoth during the siege: Sons and daughters passed
     through fire to Molech at the high places in the Valley of Ben-Hinnom; Deeds are put in an earthenware
     jar so they may last many days; God''s eyes are open on all the ways of humanity to repay each by
     his deeds; Incense offered to Baal and libations to other gods on the roofs of houses; A field bought
     for seventeen shekels of silver; The prophet buys a family field during siege as a sign that land
-    will again be bought; Siege ramps are raised against the city; The king will see the conquering king
-    eye to eye and speak with him mouth to mouth; A land deed made in a sealed copy and an open copy,
-    witnessed and the silver weighed; The prophet is confined in the court of the guard in the palace;
+    will again be bought; The king will see the conquering king eye to eye and speak with him mouth to
+    mouth; A land deed made in a sealed copy and an open copy, witnessed and the silver weighed; Siege
+    ramps are raised against the city; The prophet is confined in the court of the guard in the palace;
     Baruch son of Neriah, the prophet''s scribe; God promises an everlasting covenant (berit olam) with
     his people; and 5 more.'
   basis: reading
@@ -37,11 +37,10 @@ evidence:
     Spending of unbelievers is like an icy wind that destroys the tillage of a wrongdoing people; A community
     that enjoins the good and forbids the evil (al-amr bil-ma''ruf); Humiliation is stamped on them wherever
     found except under a rope from God and a rope from men; The wicked sees the righteous exalted, gnashes
-    his teeth and melts away; On the day some faces turn white and some turn black; Hypocrites profess
-    faith before believers and tell their own ''devils'' in private they were only mocking; Among the
-    People of the Book an upright community recites God''s signs through the night and prostrates; On
-    the day of wrath people fling their silver into the streets; silver and gold cannot save them; and
-    2 more.'
+    his teeth and melts away; Hypocrites profess faith before believers and tell their own ''devils''
+    in private they were only mocking; Among the People of the Book an upright community recites God''s
+    signs through the night and prostrates; On the day of wrath people fling their silver into the streets;
+    silver and gold cannot save them; Speaker rises at midnight to give thanks to God; and 2 more.'
   basis: reading
 - text: 'Jeremiah buys his cousin''s field at Anathoth during the siege: tagged by Claude (model), reading
     the Hebrew.'

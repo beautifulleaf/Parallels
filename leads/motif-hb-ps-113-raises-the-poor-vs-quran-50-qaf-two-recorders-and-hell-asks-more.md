@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Glorify your Lord before the rising of the sun and before its setting,
-    in the night and after prostrations (weight 6.3). Pair score 6.3.'
+    in the night and after prostrations (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 113, God on high raises the poor and the barren: God settles the barren woman in
-    her home as a joyful mother of children; God raises the poor from the dust and the needy from the
-    dunghill to sit with princes; God sits enthroned on high yet stoops down to look on heaven and earth
-    and regards the lowly; God''s name is praised from the rising of the sun to its setting; God''s name
-    is praised from the rising of the sun to its setting [divergence between the texts]; ''Who is like
-    you among the gods, YHWH?''; The cultic cry ''Hallelu-Yah'' (praise Yah) closes or opens a psalm.'
+    her home as a joyful mother of children; God sits enthroned on high yet stoops down to look on heaven
+    and earth and regards the lowly; God raises the poor from the dust and the needy from the dunghill
+    to sit with princes; God''s name is praised from the rising of the sun to its setting [divergence
+    between the texts]; God''s name is praised from the rising of the sun to its setting; The cultic cry
+    ''Hallelu-Yah'' (praise Yah) closes or opens a psalm; ''Who is like you among the gods, YHWH?''.'
   basis: reading
 - text: 'Only in Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says ''Is
     there more?''; creation in six days without weariness: On the day the caller calls from a place near
@@ -38,9 +38,9 @@ evidence:
     with a driver (sa''iq) and a witness (shahid); The stupor (sakra) of death comes with the truth: ''this
     is what you tried to avoid''; Two receivers sit on the right and the left recording every word a person
     utters; At judgment the covering is removed from a person and his sight that day is sharp as iron;
-    Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire that
-    never says ''Enough''; God''s knowledge of a person''s thoughts and words, from afar or from near
-    [divergence between the texts]; and 13 more.'
+    Whether the work of creation brings toil and weariness on the divine [divergence between the texts];
+    Whether the work of creation brings toil and weariness on the divine [response between the texts];
+    and 25 more.'
   basis: reading
 - text: 'Psalm 113, God on high raises the poor and the barren: tagged by Claude (model), reading the
     Hebrew.'

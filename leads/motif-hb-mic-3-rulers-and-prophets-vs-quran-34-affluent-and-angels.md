@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a prophet takes payment for his message [contrast between
-    the texts] (weight 6.7); Every town''s affluent ones (mutrafun) reject the warner, boasting ''we have
-    more wealth and children; we will not be punished'' (weight 6.3). Pair score 13.0.'
+    the texts] (weight 7.7); Every town''s affluent ones (mutrafun) reject the warner, boasting ''we have
+    more wealth and children; we will not be punished'' (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Cannibal rulers, hireling prophets and Zion plowed as a field: The corrupt leaders say
     ''Is not YHWH among us? No evil will come on us''; False seers will have night without vision; the

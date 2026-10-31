@@ -12,9 +12,9 @@ traditions:
 layers:
 - motif
 motifs:
-- prohibition-of-other-gods-as-divergence
 - killing-forbidden-except-by-right-as-divergence
 - adultery-prohibited-as-divergence
+- prohibition-of-other-gods-as-divergence
 - honor-parents-long-life-as-divergence
 - prohibition-of-other-gods
 - ten-commandments
@@ -23,34 +23,35 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: No other gods before YHWH [divergence between the texts] (weight
-    6.7); Do not kill the soul God has made sacred except by right [divergence between the texts] (weight
-    6.7); Sexual relations with a neighbor''s wife are forbidden [divergence between the texts] (weight
-    6.7); Honor father and mother, with the promise of long life [divergence between the texts] (weight
-    6.0); No other gods before YHWH (weight 5.8); The Ten Commandments (Decalogue) (weight 5.4); Honor
-    father and mother, with the promise of long life (weight 5.3). Pair score 42.6.'
+- text: 'Shared motifs, rarest first: Do not kill the soul God has made sacred except by right [divergence
+    between the texts] (weight 7.7); Sexual relations with a neighbor''s wife are forbidden [divergence
+    between the texts] (weight 7.7); No other gods before YHWH [divergence between the texts] (weight
+    7.7); Honor father and mother, with the promise of long life [divergence between the texts] (weight
+    7.1); No other gods before YHWH (weight 6.8); The Ten Commandments (Decalogue) (weight 6.5); Honor
+    father and mother, with the promise of long life (weight 5.9). Pair score 49.5.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Prohibition
-    of coveting the neighbor''s wife and property [divergence between the texts]; The ground and the reward
-    of the duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting
-    on the seventh day of creation; The Sabbath was imposed only on those who differed about it [response
-    between the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch
-    your eyes toward the worldly splendor given to others to test them; Whether guilt passes from parents
-    to their descendants [contrast between the texts]; People fear to hear God directly and ask the prophet
-    to mediate; and 7 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Prohibition of coveting the neighbor''s wife and
+    property [divergence between the texts]; The ground and the reward of the duty to parents [divergence
+    between the texts]; The Sabbath is justified by God''s resting on the seventh day of creation; The
+    Sabbath was imposed only on those who differed about it [response between the texts]; The Ten Commandments
+    (Decalogue) [divergence between the texts]; Do not stretch your eyes toward the worldly splendor given
+    to others to test them; Whether guilt passes from parents to their descendants [contrast between the
+    texts]; People fear to hear God directly and ask the prophet to mediate; Do not take God''s name in
+    vain; and 7 more.'
   basis: reading
 - text: 'Only in The code of commandments (Surah 17:22-39): A Quranic code of commandments resembling
     the Decalogue in content; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently;
     Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height; Do
-    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Do not kill
-    the soul God has made sacred except by right; Lower the wing of humility to parents and pray ''Lord,
-    have mercy on them as they raised me when small''; Squanderers are brothers of the devils; A Quranic
-    code of commandments resembling the Decalogue in content [divergence between the texts]; Do not pursue
-    what you have no knowledge of; hearing, sight and heart will be questioned; Do not kill your children
-    for fear of poverty; God provides for them and you; Sexual relations with a neighbor''s wife are forbidden;
-    Give the kinsman, the poor and the wayfarer their due; and 4 more.'
+    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Lower the
+    wing of humility to parents and pray ''Lord, have mercy on them as they raised me when small''; Squanderers
+    are brothers of the devils; A Quranic code of commandments resembling the Decalogue in content [divergence
+    between the texts]; Do not pursue what you have no knowledge of; hearing, sight and heart will be
+    questioned; Do not kill your children for fear of poverty; God provides for them and you; Do not speak
+    harshly or arrogantly to your parent; A decreed order includes reverence and humility toward father
+    and mother [divergence between the texts]; Not to speak against or complain of one''s father or parents;
+    and 16 more.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,30 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: There was a stretch of time when the human was not yet a thing worth
-    mentioning (weight 6.7). Pair score 6.7.'
+    mentioning (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Psalm 103, bless YHWH, O my soul; youth renewed like the eagle: As a father has compassion
-    on his children, so God pities those who fear him; God knows our frame (yetser) and remembers that
-    we are dust; When the wind passes over man he is gone and his place knows him no more; As far as east
-    is from west, so far God removes our transgressions; God renews one''s youth like the eagle''s; God''s
-    angels, mighty ones who do his word, and all his hosts and ministers are summoned to bless him; Self-exhortation
-    ''Bless YHWH, O my soul''; God declares ''I am YHWH your healer'' and withholds the diseases of Egypt;
-    The wicked are brought down to the pit (be''er shahat / bor), the underworld; The destroyed are as
-    if they had never lived in their land; Humans are like grass that flourishes in the morning and withers
-    by evening; After creating the heavens and earth God established himself on the Throne (istawa ''ala
-    l-''arsh); and 1 more.'
+- text: 'Only in Psalm 103, bless YHWH, O my soul; youth renewed like the eagle: God knows our frame (yetser)
+    and remembers that we are dust; When the wind passes over man he is gone and his place knows him no
+    more; God renews one''s youth like the eagle''s; God''s angels, mighty ones who do his word, and all
+    his hosts and ministers are summoned to bless him; Self-exhortation ''Bless YHWH, O my soul''; As
+    far as east is from west, so far God removes our transgressions; As a father has compassion on his
+    children, so God pities those who fear him; God declares ''I am YHWH your healer'' and withholds the
+    diseases of Egypt; The wicked are brought down to the pit (be''er shahat / bor), the underworld; The
+    destroyed are as if they had never lived in their land; Humans are like grass that flourishes in the
+    morning and withers by evening; After creating the heavens and earth God established himself on the
+    Throne (istawa ''ala l-''arsh); and 1 more.'
   basis: reading
 - text: 'Only in The human: the mingled drop and the camphor cup: The blessed wear green garments of fine
     silk (sundus) and brocade (istabraq) and bracelets of silver; Immortal youths (wildan mukhalladun)
     circulate among the blessed, like scattered pearls; The righteous drink from a cup mixed with camphor
     (kafur) or ginger (zanjabil); Vessels of silver and goblets of crystal made of silver, measured exactly,
-    are passed round; The righteous did not eat his morsel alone without sharing with the orphan; God
-    is able to replace a people with others better than they, and none can outrun him; In paradise the
-    shades are close and the fruit clusters hang low within reach; God as shade: the sun shall not strike
-    you by day nor the moon by night; You will not will unless God wills; The righteous give and feed
-    solely for the face of God, seeking no repayment or thanks; Paradise has named springs: Salsabil,
-    Tasnim (and a spring the servants of God make gush forth); Paradise has raised couches (arā''ik, surur),
-    set goblets, cushions in rows and spread carpets; and 4 more.'
+    are passed round; Young servers go round with a variety of vessels serving a mixed drink; Feeding
+    the one without bread, and the motive given for it [divergence between the texts]; God is able to
+    replace a people with others better than they, and none can outrun him; In paradise the shades are
+    close and the fruit clusters hang low within reach; The divine name(s) are to be pronounced at morning
+    and at evening; God as shade: the sun shall not strike you by day nor the moon by night; The righteous
+    did not eat his morsel alone without sharing with the orphan; You will not will unless God wills;
+    and 7 more.'
   basis: reading
 - text: 'Psalm 103, bless YHWH, O my soul; youth renewed like the eagle: tagged by Claude (model), reading
     the Hebrew.'

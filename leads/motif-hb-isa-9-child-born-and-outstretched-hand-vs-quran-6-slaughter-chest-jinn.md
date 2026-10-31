@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people walking in darkness have seen a great light; on those
-    in the land of deathly shadow light has shone (weight 6.7). Pair score 6.7.'
+    in the land of deathly shadow light has shone (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Great light; a child is born to us; the outstretched hand against Ephraim: Every trampling
     soldier''s boot and garment rolled in blood will be burned as fuel for fire; Proud boast: ''Bricks
@@ -40,10 +40,11 @@ evidence:
     their human allies say ''we profited from one another''; Messengers came to both jinn and humans ''from
     among you''; Paradise as the abode of peace (dār al-salām); God opens the breast of the guided to
     Islam; the astray''s breast is tight, as if climbing into the sky; Every prophet has enemies: devils
-    of humans and jinn inspiring one another with gilded speech; Eat only what God''s name was pronounced
-    over; what was slaughtered without it is forbidden; Forbidden food is permitted to one compelled by
-    necessity, without desire or transgression; God does not punish a people before sending a messenger,
-    lest they plead they had none; If God wills he takes you away and brings another people in your place.'
+    of humans and jinn inspiring one another with gilded speech; The fool who will not listen takes knowledge
+    for ignorance and lives on what kills; the officials call him ''a living dead man every day''; Eat
+    only what God''s name was pronounced over; what was slaughtered without it is forbidden; A living
+    man is called a dead man whom his benefactor has brought back to life; Forbidden food is permitted
+    to one compelled by necessity, without desire or transgression; and 2 more.'
   basis: reading
 - text: 'Great light; a child is born to us; the outstretched hand against Ephraim: tagged by Claude (model),
     reading the Hebrew.'

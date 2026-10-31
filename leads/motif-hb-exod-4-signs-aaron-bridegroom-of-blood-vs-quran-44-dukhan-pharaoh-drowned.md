@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Moses demands of Pharaoh in God''s name [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
     of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
-    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
-    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
-    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
-    man; The hero carries ''the staff of God'' with which he performs signs; The prophet asks that his
-    brother be made his helper (wazīr) and partner in his mission [divergence between the texts]; God
-    taught humankind by the pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by
-    himself or thrown at him [divergence between the texts]; Asked what is in his hand, the prophet lists
-    his staff''s uses: leaning, beating down leaves for sheep, other needs [divergence between the texts];
+    and seeks to kill him; The people believe the prophet''s signs and bow in worship; Hero may return
+    home because those seeking his life are dead; Wife cuts off her son''s foreskin with a flint and touches
+    it to the threatened man; The hero carries ''the staff of God'' with which he performs signs; The
+    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
+    the texts]; God claims to make the mouth, the mute, the deaf, the seeing and the blind; God taught
+    humankind by the pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by himself
+    or thrown at him [divergence between the texts]; Asked what is in his hand, the prophet lists his
+    staff''s uses: leaning, beating down leaves for sheep, other needs [divergence between the texts];
     and 18 more.'
   basis: reading
 - text: 'Only in Moses asks Pharaoh to hand over God''s servants; the sea left parted; heaven did not
@@ -40,11 +40,11 @@ evidence:
     the sea parted and still (rahwan), for Pharaoh''s host will be drowned; Sacrificial meal eaten in
     haste, loins girded, sandals on, staff in hand; Who, if anyone, inherits Egypt''s land after the exodus
     [divergence between the texts]; Why God chose Israel: love, or knowledge and testing [divergence between
-    the texts]; God chose the Children of Israel, knowingly, above the worlds and tested them with signs;
-    What Moses does with the sea after the crossing [divergence between the texts]; How Israel leaves
-    Egypt by night: expelled, or secretly [divergence between the texts]; The prophet seeks refuge in
-    God from being stoned by his people; Whether heaven and earth mourn a destroyed people [contrast between
-    the texts]; Prophet delivers God''s demand ''Let my people go that they may serve me''; and 2 more.'
+    the texts]; Whether heaven and earth mourn a destroyed people; God chose the Children of Israel, knowingly,
+    above the worlds and tested them with signs; What Moses does with the sea after the crossing [divergence
+    between the texts]; How Israel leaves Egypt by night: expelled, or secretly [divergence between the
+    texts]; A city, or heaven and earth, weeps (or does not weep) over a people in disaster [divergence
+    between the texts]; The prophet seeks refuge in God from being stoned by his people; and 5 more.'
   basis: reading
 - text: 'Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: tagged by Claude
     (model), reading the Hebrew.'

@@ -19,9 +19,9 @@ motifs:
 - vessel-sealed-with-pitch
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The container is made of reeds or papyrus (weight 6.3); Infant placed
-    in a container and set on the water (weight 5.6); Vessel sealed with pitch or bitumen (weight 5.4).
-    Pair score 17.3.'
+- text: 'Shared motifs, rarest first: The container is made of reeds or papyrus (weight 7.3); Infant placed
+    in a container and set on the water (weight 6.6); Vessel sealed with pitch or bitumen (weight 6.2).
+    Pair score 20.2.'
   basis: reading
 - text: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry: tagged by
     Claude (model), reading the Hebrew.'

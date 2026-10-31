@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people tell the leader ''go, you and your Lord, and fight; we
-    will sit here'' [divergence between the texts] (weight 6.7); Giant descendants (Anakim / Nephilim)
-    inhabit the land (weight 5.3). Pair score 12.0.'
+    will sit here'' [divergence between the texts] (weight 7.7); Giant descendants (Anakim / Nephilim)
+    inhabit the land (weight 6.4). Pair score 14.1.'
   basis: reading
 - text: 'Only in The spies episode retold: Children ''who do not yet know good and evil'' will inherit;
     God carried Israel in the wilderness as a man carries his son; People attack without God''s ark or
@@ -34,12 +34,13 @@ evidence:
     leader ''go, you and your Lord, and fight; we will sit here''; Enter the holy land (al-arḍ al-muqaddasa)
     which God has ordained for you; Moses: ''I control only myself and my brother; separate us from the
     rebellious people''; God set prophets among Israel and made them kings, giving them what he gave no
-    other; Forty years of wandering, a year for each day of scouting [divergence between the texts]; Israel
-    is to be a kingdom of priests and a holy nation; Israel is to be a kingdom of priests and a holy nation
-    [divergence between the texts]; Two faithful spies dissent from the majority [divergence between the
-    texts]; After the people''s rebellion the prophet intercedes for them or asks to be separated from
-    them [divergence between the texts]; Two faithful spies dissent from the majority; Forty years of
-    wandering, a year for each day of scouting.'
+    other; God commands a leader or people to go and take a city or land [shared matter] [divergence between
+    the texts]; Forty years of wandering, a year for each day of scouting [divergence between the texts];
+    Israel is to be a kingdom of priests and a holy nation; Israel is to be a kingdom of priests and a
+    holy nation [divergence between the texts]; Two faithful spies dissent from the majority [divergence
+    between the texts]; After the people''s rebellion the prophet intercedes for them or asks to be separated
+    from them [divergence between the texts]; Two faithful spies dissent from the majority; Forty years
+    of wandering, a year for each day of scouting.'
   basis: reading
 - text: 'The spies episode retold: tagged by Claude (model), reading the Hebrew.'
   basis: reading

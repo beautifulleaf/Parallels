@@ -20,9 +20,9 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A negligent owner may pay a ransom for his life (weight 6.3); Retaliation
-    (talion) for killing or injury [divergence between the texts] (weight 6.0); Eye for an eye, tooth
-    for a tooth (lex talionis) (weight 5.4). Pair score 17.7.'
+- text: 'Shared motifs, rarest first: A negligent owner may pay a ransom for his life (weight 7.3); Retaliation
+    (talion) for killing or injury [divergence between the texts] (weight 7.1); Eye for an eye, tooth
+    for a tooth (lex talionis) (weight 6.5). Pair score 20.9.'
   basis: reading
 - text: 'Only in Covenant Code - homicide, injury and the goring ox: An animal that kills a person is
     stoned and its flesh not eaten; Men fighting strike a pregnant woman and she miscarries; One who injures
@@ -36,9 +36,13 @@ evidence:
   basis: reading
 - text: 'Only in Retaliation and bequests: Kin of the slain may pardon and accept compensation (diya)
     instead of retaliation, a lightening from God; ''In retaliation there is life for you''; Retaliation
-    (qisas) for the slain: free for free, slave for slave, female for female; Bequest (wasiyya) to parents
-    and kin prescribed for one who leaves wealth; altering it is a sin; Whether payment may substitute
-    for a life [contrast between the texts].'
+    (qisas) for the slain: free for free, slave for slave, female for female; What person is matched to
+    a man who was killed [neutral] [divergence between the texts]; Clause on whoever alters a sealed grant
+    or a bequest [divergence between the texts]; Bequest (wasiyya) to parents and kin prescribed for one
+    who leaves wealth; altering it is a sin; Whoever alters the wording of a fixed text (tablet, bequest)
+    after it is set bears the penalty; In a homicide, the ''lord of the blood'' decides: if he says ''let
+    him die'' the killer dies, if ''let him pay'' he pays; the king has no part; Whether payment may substitute
+    for a life [contrast between the texts]; Whether payment may substitute for a life.'
   basis: reading
 - text: 'Covenant Code - homicide, injury and the goring ox: tagged by Claude (model), reading the Hebrew.'
   basis: reading

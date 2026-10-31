@@ -18,8 +18,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The made idol cannot move from its place, speak or answer and save
-    those who cry to it (weight 5.4); Idols of wood and stone that cannot see, hear, eat or smell (weight
-    5.0). Pair score 10.4.'
+    those who cry to it (weight 6.5); Idols of wood and stone that cannot see, hear, eat or smell (weight
+    6.0). Pair score 12.5.'
   basis: reading
 - text: 'Only in Idols like scarecrows in a cucumber field: Do not learn the way of the nations or be
     dismayed by the signs of the heavens, at which the nations are dismayed; Idols are like a scarecrow
@@ -37,9 +37,11 @@ evidence:
     in it; How the first human''s mate is made from the first human [divergence between the texts]; Parents''
     words to God about the child he gave them [divergence between the texts]; Taunt: do the idols have
     feet to walk, hands to grasp, eyes to see, ears to hear?; Likeness between the idols and those who
-    call on them [divergence between the texts]; Prophet challenges the idolaters to call their partners
-    and plot against him without delay; First woman made from the man''s rib or side while he sleeps;
-    Humankind is created from a single soul, from which its mate was made to dwell with it.'
+    call on them [divergence between the texts]; How God made the human mate, and for what purpose; Prophet
+    challenges the idolaters to call their partners and plot against him without delay; Having eyes that
+    do not see and ears that do not hear, said of idols or of people; First woman made from the man''s
+    rib or side while he sleeps; Humankind is created from a single soul, from which its mate was made
+    to dwell with it.'
   basis: reading
 - text: 'Idols like scarecrows in a cucumber field: tagged by Claude (model), reading the Hebrew.'
   basis: reading

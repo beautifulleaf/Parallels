@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On entering houses greet one another with a blessed greeting from
-    God (weight 6.7). Pair score 6.7.'
+    God (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Abraham''s servant finds Rebekah for Isaac: God sends his angel ahead to guide the journey;
-    Departing bride blessed to become thousands of myriads; The bride is asked and consents to go (''I
-    will go''); Son brings bride into his dead mother''s tent and is comforted; Patriarch goes out to
-    meditate (or pray) in the field at evening; A trusted servant is sent abroad to find a bride for the
-    master''s son; Hero asks God for a specific sign to identify the right person (who will offer water);
-    Bride given a gold nose-ring and bracelets; Father insists his son''s wife come from his own kin,
-    not the local women; Bride covers herself with a veil on seeing the groom; Oath sworn by placing the
-    hand under the thigh of the one demanding it; Descendants will possess the gate of their enemies;
-    and 5 more.'
+    The bride is asked and consents to go (''I will go''); Son brings bride into his dead mother''s tent
+    and is comforted; Patriarch goes out to meditate (or pray) in the field at evening; Hero asks God
+    for a specific sign to identify the right person (who will offer water); Departing bride blessed to
+    become thousands of myriads; Father insists his son''s wife come from his own kin, not the local women;
+    Bride covers herself with a veil on seeing the groom; Oath sworn by placing the hand under the thigh
+    of the one demanding it; Descendants will possess the gate of their enemies; A trusted servant is
+    sent abroad to find a bride for the master''s son; Believing women are to draw their outer cloaks
+    (jalabib) over themselves so they are recognized and not harmed; and 5 more.'
   basis: reading
 - text: 'Only in Times of privacy, elderly women, eating in kin houses, leave from the messenger: Do not
     address the messenger as you address one another, nor slip away without his leave; Elderly women past
@@ -38,8 +38,8 @@ evidence:
     Slaves and children must ask permission at three times of undress: before dawn prayer, at noon and
     after the night prayer; Whether the blind and the lame may enter the house or share its table [contrast
     between the texts]; You may eat your fill in a neighbor''s vineyard or pluck ears by hand, but not
-    carry away or use a sickle; Do not curse the deaf or put a stumbling block before the blind; Creditor
-    must wait outside for the pledge and return a poor man''s cloak by sunset.'
+    carry away or use a sickle; Creditor must wait outside for the pledge and return a poor man''s cloak
+    by sunset; Do not curse the deaf or put a stumbling block before the blind.'
   basis: reading
 - text: 'Abraham''s servant finds Rebekah for Isaac: tagged by Claude (model), reading the Hebrew.'
   basis: reading

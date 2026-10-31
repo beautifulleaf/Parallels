@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people answer as one: all that YHWH has spoken we will do (weight
-    5.8). Pair score 5.8.'
+    6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Arrival at Sinai, covenant offer and theophany: Israel arrives at Sinai in the third
-    month after leaving Egypt; God carried Israel on eagles'' wings; Moses speaks and God answers him
-    with a voice (thunder); God comes to the prophet in a thick cloud so the people may hear; Priests
-    are mentioned before the Aaronic priesthood is instituted; A ram''s horn blast signals that the people
-    may go up the mountain; Men must not approach a woman before a holy encounter; God descends or reveals
-    himself on the third day; A boundary is set round the holy mountain; whoever touches it dies; A horn
-    blast at which all tremble [divergence between the texts]; Israel stands beneath the mountain when
-    the covenant is given [divergence between the texts]; Israel is to be a kingdom of priests and a holy
-    nation; and 10 more.'
+    month after leaving Egypt; Moses speaks and God answers him with a voice (thunder); God comes to the
+    prophet in a thick cloud so the people may hear; Priests are mentioned before the Aaronic priesthood
+    is instituted; A ram''s horn blast signals that the people may go up the mountain; Men must not approach
+    a woman before a holy encounter; God descends or reveals himself on the third day; God carried Israel
+    on eagles'' wings; A horn blast at which all tremble [divergence between the texts]; Israel stands
+    beneath the mountain when the covenant is given [divergence between the texts]; Israel is to be a
+    kingdom of priests and a holy nation; Israel is to be a kingdom of priests and a holy nation [divergence
+    between the texts]; and 10 more.'
   basis: reading
 - text: 'Only in Shifted words, ''we hear and disobey'', and the people of the Sabbath: God gave the family
     of Abraham the book, wisdom and a great kingdom; Opponents twist an ambiguous address (''rāʿinā'')
     with their tongues to mock; The blessed enter a deep, lasting shade (ẓill ẓalīl); Threat to obliterate
     faces and turn them backward; In hellfire, whenever the skins are burnt through, they are replaced
     with new skins; Some of the People of the Book believe in al-jibt and al-ṭāghūt (idols, false powers);
-    The people answer as one: all that YHWH has spoken we will do [divergence between the texts]; The
-    people answer as one: all that YHWH has spoken we will do [response between the texts]; Those who
-    violate the Sabbath are punished (executed, cut off, cursed or transformed) [divergence between the
-    texts]; Those who claim to be pure are rebuked: God purifies whom he will; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); God does not forgive associating partners
-    with him (shirk) but forgives anything less; and 6 more.'
+    A thread as the smallest measure: not even a thread is withheld, or wronged; The people answer as
+    one: all that YHWH has spoken we will do [divergence between the texts]; The people answer as one:
+    all that YHWH has spoken we will do [response between the texts]; Those who violate the Sabbath are
+    punished (executed, cut off, cursed or transformed) [divergence between the texts]; Those who claim
+    to be pure are rebuked: God purifies whom he will; Israel at the mountain says ''we hear and we disobey''
+    (sami''na wa-''asayna); and 7 more.'
   basis: reading
 - text: 'Arrival at Sinai, covenant offer and theophany: tagged by Claude (model), reading the Hebrew.'
   basis: reading

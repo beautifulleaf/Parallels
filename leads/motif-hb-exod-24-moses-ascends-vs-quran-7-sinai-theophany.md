@@ -24,11 +24,11 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses'' set period on the mountain is forty (days and nights, or
-    nights) [divergence between the texts] (weight 6.7); Moses leaves a deputy (Aaron, with or without
-    Hur) with the people while he is on the mountain [divergence between the texts] (weight 6.7); Aaron
-    and Hur left in charge while Moses is on the mountain (weight 6.7); A prophet spends forty days and
-    forty nights in a set period (weight 5.8); God gives stone tablets he himself has written (weight
-    5.3). Pair score 31.1.'
+    nights) [divergence between the texts] (weight 7.7); Moses leaves a deputy (Aaron, with or without
+    Hur) with the people while he is on the mountain [divergence between the texts] (weight 7.7); Aaron
+    and Hur left in charge while Moses is on the mountain (weight 7.7); A prophet spends forty days and
+    forty nights in a set period (weight 6.8); God gives stone tablets he himself has written (weight
+    6.4). Pair score 36.4.'
   basis: reading
 - text: 'Only in Moses ascends into the cloud for forty days: The cloud covers the mountain six days and
     God calls on the seventh; God''s glory appears as a devouring fire; Joshua serves as Moses'' attendant;
@@ -42,8 +42,8 @@ evidence:
     between the texts]; A mountain is shattered when God passes by or manifests himself [divergence between
     the texts]; The prophet asks to see God''s glory; What happens after God refuses to be seen by Moses
     [divergence between the texts]; God answers the prophet''s request to see him: ''You will not see
-    me''; Seeing God or breaking through to him brings death; God speaks to the prophet face to face,
-    as a man speaks to his friend; and 2 more.'
+    me''; Seeing God or breaking through to him brings death; A departing ruler appoints a deputy (''in
+    my place'', vizier) over those he leaves [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'Moses ascends into the cloud for forty days: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,28 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether obligations differ toward insiders and outsiders [contrast
-    between the texts] (weight 6.7); Lending at interest or increase to a poor brother is forbidden (weight
-    5.6). Pair score 12.3.'
+    between the texts] (weight 7.7); Lending at interest or increase to a poor brother is forbidden (weight
+    6.6). Pair score 14.4.'
   basis: reading
 - text: 'Only in Admission to the assembly; camp purity; slaves, interest, vows: Edomites (brothers) and
-    Egyptians (hosts) admitted in the third generation; Escaped slave not returned to his master; he may
-    live where he chooses; Harlot''s hire and the price of a dog may not be brought to the temple for
-    a vow; Latrine outside the war camp; dig with a spade and cover excrement because God walks in the
-    camp; Man unclean from a nocturnal emission stays outside the camp until evening and washes; Ammonites
-    and Moabites never admitted, for withholding bread and water and hiring Balaam; You may eat your fill
-    in a neighbor''s vineyard or pluck ears by hand, but not carry away or use a sickle; Man with crushed
-    testicles or severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth
-    generation; Protection for someone who seeks refuge [divergence between the texts]; God turned Balaam''s
-    curse into a blessing; Whether obligations differ toward insiders and outsiders [response between
-    the texts]; and 3 more.'
+    Egyptians (hosts) admitted in the third generation; Harlot''s hire and the price of a dog may not
+    be brought to the temple for a vow; Latrine outside the war camp; dig with a spade and cover excrement
+    because God walks in the camp; Man unclean from a nocturnal emission stays outside the camp until
+    evening and washes; Ammonites and Moabites never admitted, for withholding bread and water and hiring
+    Balaam; You may eat your fill in a neighbor''s vineyard or pluck ears by hand, but not carry away
+    or use a sickle; Escaped slave not returned to his master; he may live where he chooses; Man with
+    crushed testicles or severed member excluded from the assembly; Mamzer excluded from the assembly
+    to the tenth generation; Protection for someone who seeks refuge [divergence between the texts]; God
+    turned Balaam''s curse into a blessing; Whether obligations differ toward insiders and outsiders [response
+    between the texts]; and 3 more.'
   basis: reading
 - text: 'Only in Usury: God blots out usury and makes charity grow; A debtor in hardship is given respite
     until ease; remitting it as charity is better; Trade is like usury, they say; but God permitted trade
     and forbade usury (riba); Those who consume usury rise like one driven mad by Satan''s touch; Those
     who do not give up usury are warned of war from God and his messenger; they keep their principal;
-    Relief of debtors: release or respite [divergence between the texts]; To whom and how widely the ban
-    on interest applies [divergence between the texts]; He who increases wealth by interest and usury
-    gathers it for one who is gracious to the poor; Do not charge interest to the poor of my people.'
+    What becomes of the usurer''s profit and his principal (kīsu / ruʾūs amwālikum) [divergence between
+    the texts]; A creditor facing a debtor in hardship remits all or part of the debt [divergence between
+    the texts]; Relief of debtors: release or respite [divergence between the texts]; To whom and how
+    widely the ban on interest applies [divergence between the texts]; He who increases wealth by interest
+    and usury gathers it for one who is gracious to the poor; Do not charge interest to the poor of my
+    people.'
   basis: reading
 - text: 'Admission to the assembly; camp purity; slaves, interest, vows: tagged by Claude (model), reading
     the Hebrew.'

@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- wise-king-speaks-of-plants-and-animals
 - solomon-and-the-animals-as-divergence
+- wise-king-speaks-of-plants-and-animals
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Wise king discourses on trees from cedar to hyssop, and on beasts,
-    birds, creeping things and fish (weight 6.7); Solomon''s wisdom concerning animals [divergence between
-    the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Solomon''s wisdom concerning animals [divergence between the texts]
+    (weight 7.7); Wise king discourses on trees from cedar to hyssop, and on beasts, birds, creeping things
+    and fish (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Solomon''s dominion, provisions and wisdom: King rules all kingdoms from the Euphrates
     to the border of Egypt, who bring him tribute; King speaks three thousand proverbs and a thousand
@@ -44,7 +44,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 21 more.'
+    and 41 more.'
   basis: reading
 - text: 'Solomon''s dominion, provisions and wisdom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

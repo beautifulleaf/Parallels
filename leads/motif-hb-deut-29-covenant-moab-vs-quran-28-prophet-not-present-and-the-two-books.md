@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who was present at the revelation on the mountain, and who knows
-    it only by report [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    it only by report [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant at Moab; the secret apostate; the land like Sodom: All ranks stand before God,
     from the hewer of wood to the drawer of water; A root bearing poison and wormwood among you (secret
-    apostate); Covenant made with those present and with those not here today; Covenant made with those
-    present and with those not here today [divergence between the texts]; God has not given the people
-    a heart to know, eyes to see, ears to hear until today; God allotted the heavenly bodies (or gods)
-    to the other nations; Nations ask why God did this to the land and are answered: they forsook the
-    covenant; Man who hears the curse but blesses himself in his heart: ''I shall have peace''; In forty
-    years of wandering the people lacked nothing (clothes did not wear out, feet did not swell); Clothes
-    did not wear out and feet did not swell for forty years; Land made brimstone and salt like Sodom,
-    Gomorrah, Admah and Zeboiim; The ''overturned cities'' (al-mu''tafikat), Lot''s towns; and 2 more.'
+    apostate); Covenant made with those present and with those not here today [divergence between the
+    texts]; God has not given the people a heart to know, eyes to see, ears to hear until today; God allotted
+    the heavenly bodies (or gods) to the other nations; Nations ask why God did this to the land and are
+    answered: they forsook the covenant; Man who hears the curse but blesses himself in his heart: ''I
+    shall have peace''; Covenant made with those present and with those not here today; Land made brimstone
+    and salt like Sodom, Gomorrah, Admah and Zeboiim; In forty years of wandering the people lacked nothing
+    (clothes did not wear out, feet did not swell); Clothes did not wear out and feet did not swell for
+    forty years; The ''overturned cities'' (al-mu''tafikat), Lot''s towns; and 2 more.'
   basis: reading
 - text: 'Only in The prophet was not there; the two books; believing People of the Book: Challenge: bring
     a book from God more guiding than these two and I will follow it; The prophet cannot guide whom he
@@ -40,9 +40,9 @@ evidence:
     already, receive their reward twice; ''To us our deeds and to you yours; peace be upon you; we do
     not seek the ignorant''; Opponents call the Torah and the Quran ''two sorceries supporting each other'';
     Who was present at the revelation on the mountain, and who knows it only by report [contrast between
-    the texts]; Produce and wealth of every land brought to a sacred city [divergence between the texts];
-    Whoever takes his own desire (hawā) as his god; Repel evil with what is better; God does not punish
-    a people before sending a messenger, lest they plead they had none; and 1 more.'
+    the texts]; The produce (tribute, fruits) of all lands is brought into a sacred city; Produce and
+    wealth of every land brought to a sacred city [divergence between the texts]; Whoever takes his own
+    desire (hawā) as his god; Repel evil with what is better; and 2 more.'
   basis: reading
 - text: 'Covenant at Moab; the secret apostate; the land like Sodom: tagged by Claude (model), reading
     the Hebrew.'

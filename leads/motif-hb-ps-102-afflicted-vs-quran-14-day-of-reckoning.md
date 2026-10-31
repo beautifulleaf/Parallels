@@ -20,27 +20,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the last day the earth is changed into another earth, and the
-    heavens too (weight 6.3). Pair score 6.3.'
+    heavens too (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 102, prayer of the afflicted; the heavens wear out like a garment: Sufferer''s
     days vanish like smoke and his bones burn like a hearth; Prayer ''Do not take me away in the midst
-    of my days''; Mourner eats ashes like bread and mingles his drink with tears; God looks down from
-    his holy height to hear the prisoner''s groan and free those doomed to die; Sufferer likened to a
-    desert bird (qa''at), an owl of the ruins, a lonely bird on a roof; Heading ''A prayer of the afflicted
-    when he faints and pours out his complaint before YHWH''; God''s servants cherish Zion''s stones and
-    pity her dust; it is the appointed time to favor her; This is written for a later generation, a people
-    yet to be created, to praise Yah; Speaker''s days are like a lengthening (evening) shadow; Earth and
-    heavens will perish and wear out like a garment, changed like clothing, but God remains the same;
-    All on earth perish; there remains the Face of your Lord, possessor of majesty and honor; Foreign
-    kings bring gifts or tribute to God''s temple in Jerusalem; and 3 more.'
+    of my days''; God looks down from his holy height to hear the prisoner''s groan and free those doomed
+    to die; Heading ''A prayer of the afflicted when he faints and pours out his complaint before YHWH'';
+    God''s servants cherish Zion''s stones and pity her dust; it is the appointed time to favor her; This
+    is written for a later generation, a people yet to be created, to praise Yah; Speaker''s days are
+    like a lengthening (evening) shadow; Mourner eats ashes like bread and mingles his drink with tears;
+    Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
+    the same; Sufferer likened to a desert bird (qa''at), an owl of the ruins, a lonely bird on a roof;
+    All on earth perish; there remains the Face of your Lord, possessor of majesty and honor; Prayer that
+    God rebuild the walls of Jerusalem/Zion; and 3 more.'
   basis: reading
 - text: 'Only in The day eyes stare and the earth is changed (Surah 14:42-52): The wrongdoers beg for
     a short respite to answer the call and follow the messengers; They lived in the dwellings of those
     who wronged themselves and saw what God did to them; On that day eyes stare fixed, heads upraised,
     hearts empty as air; God is not heedless; he only delays the wrongdoers to a day when eyes stare;
     God is swift in reckoning; The opponents'' scheme was such that mountains might be moved by it; The
-    damned wear garments of pitch (qatiran), fire covering their faces; God has prepared chains, iron
-    collars and fetters (ankal) for the unbelievers.'
+    damned wear garments of pitch (qatiran), fire covering their faces; The god is not idle (heedless)
+    toward what the wicked do; Wrongdoers take the deity''s delay to mean he does nothing; he defers,
+    then seizes; Pitch, bitumen or naphtha as the bodily covering (ointment, garment) of the cursed or
+    damned, with a foul drink [divergence between the texts]; God has prepared chains, iron collars and
+    fetters (ankal) for the unbelievers.'
   basis: reading
 - text: 'Psalm 102, prayer of the afflicted; the heavens wear out like a garment: tagged by Claude (model),
     reading the Hebrew.'

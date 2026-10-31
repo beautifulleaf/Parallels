@@ -20,29 +20,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Protective formula ''Say: I seek refuge with the Lord of...'' (qul
-    a''udhu bi-rabbi) against named evils (weight 6.7); Psalm used as protection against demons and harm
-    (later amulet and ''song of plagues'') (weight 6.3). Pair score 13.0.'
+    a''udhu bi-rabbi) against named evils (weight 7.7); Psalm used as protection against demons and harm
+    (later amulet and ''song of plagues'') (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Psalm 121, the keeper who does not sleep: God will guard your going out and your coming
     in from now and forever; ''I lift my eyes to the mountains: from where will my help come?''; God does
     not slumber or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps;
     God as shade: the sun shall not strike you by day nor the moon by night; There is no soul but has
-    a guardian (hafiz) over it; God called ''maker of heaven and earth'' (''oseh shamayim va-arets'')
-    in blessing or confession of help; Petitioner takes refuge in the shadow of God''s wings; Superscription
+    a guardian (hafiz) over it; Petitioner takes refuge in the shadow of God''s wings; God called ''maker
+    of heaven and earth'' (''oseh shamayim va-arets'') in blessing or confession of help; Superscription
     ''A song of ascents'' (shir ha-ma''alot), Ps 120-134.'
   basis: reading
 - text: 'Only in Sincerity, daybreak and mankind: God''s unity and the two refuges: Refuge from the evil
     of darkness (or the moon) when it settles (ghasiq idha waqab); Refuge from the evil of an envier when
     he envies (evil eye); God is al-Samad (the Eternal Refuge, the solid one who needs nothing); Triple
     title: Lord of mankind, King of mankind, God of mankind; Refuge from the evil of the slinking whisperer
-    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; God does not beget
-    and was not begotten; God does not beget and was not begotten [contrast between the texts]; Protection
-    from the terror of the night, the arrow by day, the pestilence (dever) stalking in darkness and Qeteb
-    that ravages at noon; Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-''uqad),
-    i.e. knot-tying sorcery; Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord
-    of the Throne, the Glorious, doer of what he wills; or Lord, King, God of mankind); ''To whom will
-    you liken God, what likeness compare to him?''; ''There is none like you and no God beside you'';
-    and 1 more.'
+    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; Calling on a divine
+    name or seeking refuge with God protects a person in the dark of night; God does not beget and was
+    not begotten [contrast between the texts]; A deity is called king of (all) mankind; Protection against
+    beings or evil of the night, invoked with the coming of dawn; Sorcery is done by binding or knotting;
+    Witchcraft worked by a (female) witch through knots or bonds, from which release or refuge is sought;
+    God does not beget and was not begotten; and 9 more.'
   basis: reading
 - text: 'Psalm 121, the keeper who does not sleep: tagged by Claude (model), reading the Hebrew.'
   basis: reading

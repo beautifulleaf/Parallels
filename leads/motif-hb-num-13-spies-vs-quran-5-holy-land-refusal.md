@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Two faithful spies dissent from the majority (weight 6.3); Giant
-    descendants (Anakim / Nephilim) inhabit the land (weight 5.3). Pair score 11.6.'
+- text: 'Shared motifs, rarest first: Two faithful spies dissent from the majority (weight 7.3); Giant
+    descendants (Anakim / Nephilim) inhabit the land (weight 6.4). Pair score 13.7.'
   basis: reading
 - text: 'Only in The twelve spies and their report: Single grape cluster so large two men carry it on
     a pole; Founding of a city dated relative to an Egyptian city (Hebron seven years before Zoan); Leader
@@ -34,8 +34,9 @@ evidence:
     leader ''go, you and your Lord, and fight; we will sit here''; Enter the holy land (al-arḍ al-muqaddasa)
     which God has ordained for you; Moses: ''I control only myself and my brother; separate us from the
     rebellious people''; God set prophets among Israel and made them kings, giving them what he gave no
-    other; Forty years of wandering, a year for each day of scouting [divergence between the texts]; The
-    people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence between
+    other; God commands a leader or people to go and take a city or land [shared matter] [divergence between
+    the texts]; Forty years of wandering, a year for each day of scouting [divergence between the texts];
+    The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence between
     the texts]; Israel is to be a kingdom of priests and a holy nation; Israel is to be a kingdom of priests
     and a holy nation [divergence between the texts]; Two faithful spies dissent from the majority [divergence
     between the texts]; After the people''s rebellion the prophet intercedes for them or asks to be separated

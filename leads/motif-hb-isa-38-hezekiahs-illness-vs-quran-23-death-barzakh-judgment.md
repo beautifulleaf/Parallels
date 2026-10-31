@@ -19,33 +19,33 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A dying person''s plea to God for more life, and God''s answer [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Hezekiah''s illness, the shadow on the steps of Ahaz, and Hezekiah''s psalm: Speaker
     laments that in the noon of his days he must go to the gates of Sheol, deprived of the rest of his
     years; A psalm-like ''writing'' (mikhtav) of the king composed when he was sick and recovered; My
     dwelling is pulled up like a shepherd''s tent; I have rolled up my life like a weaver, he cuts me
-    off from the loom; In distress the sufferer chirps like a swift or crane and moans like a dove; God
-    has cast all the speaker''s sins behind his back and held back his soul from the pit of destruction;
-    The dead cannot praise God: no wonders for the dead, no hesed in the grave, no faithfulness in Abaddon;
-    A cake of figs laid on a boil heals the king; Given a choice of signs, the king picks the harder (shadow
-    going backward); Prophet tells the sick king ''Set your house in order, for you shall die''; Dying
-    man turns his face to the wall and prays, weeping; On that day neither wealth nor sons avail, only
-    one who comes to God with a sound heart; Bequest (wasiyya) to parents and kin prescribed for one who
-    leaves wealth; altering it is a sin; and 5 more.'
+    off from the loom; God has cast all the speaker''s sins behind his back and held back his soul from
+    the pit of destruction; The dead cannot praise God: no wonders for the dead, no hesed in the grave,
+    no faithfulness in Abaddon; A cake of figs laid on a boil heals the king; Given a choice of signs,
+    the king picks the harder (shadow going backward); Prophet tells the sick king ''Set your house in
+    order, for you shall die''; Dying man turns his face to the wall and prays, weeping; On that day neither
+    wealth nor sons avail, only one who comes to God with a sound heart; Bequest (wasiyya) to parents
+    and kin prescribed for one who leaves wealth; altering it is a sin; In answer to prayer God adds fifteen
+    years to the king''s life; and 5 more.'
   basis: reading
 - text: 'Only in Repel evil with good; the deathbed plea, the barzakh and the scales: Behind the dead
     is a barrier (barzakh) until the day they are raised; The damned had taken the believers as a laughingstock;
     now the believers triumph; God tells the damned pleading to leave hell: ''Be driven away into it and
     do not speak to me''; At death the sinner begs ''My Lord, send me back, that I may do good''; it is
     refused; When the trumpet is blown there will be no ties of kinship between them, nor will they ask
-    after one another; Seek refuge in God from the goadings of the devils and from their presence; Whether
-    those who die and return to dust rise again [divergence between the texts]; On that day a great shofar
-    will be blown and the lost in Assyria and outcasts in Egypt will come and worship on the holy mountain;
-    Just scales are set up on the day of resurrection; even a mustard seed''s weight is brought forth;
-    YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes; ''Let God
-    weigh me in just balances and know my integrity''; At the resurrection people think they tarried only
-    ten days, or a day, or part of a day; and 5 more.'
+    after one another; Seek refuge in God from the goadings of the devils and from their presence; The
+    dead cannot come back to life on earth; Whether those who die and return to dust rise again [divergence
+    between the texts]; On that day a great shofar will be blown and the lost in Assyria and outcasts
+    in Egypt will come and worship on the holy mountain; A span of many years is set against a single
+    day [divergence between the texts]; At the judgment after death a whole lifetime is reckoned as an
+    hour or a day; The dead cannot go back to the life they left [divergence between the texts]; and 10
+    more.'
   basis: reading
 - text: 'Hezekiah''s illness, the shadow on the steps of Ahaz, and Hezekiah''s psalm: tagged by Claude
     (model), reading the Hebrew.'

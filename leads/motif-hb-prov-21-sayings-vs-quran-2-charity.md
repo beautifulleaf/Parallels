@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Giving charity openly is good, but giving it secretly to the poor
-    is better and expiates sins (weight 6.7). Pair score 6.7.'
+    is better and expiates sins (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sayings on the king''s heart, justice over sacrifice, and the contentious wife: Whoever
     stops his ear at the cry of the poor will himself cry and not be answered; He who loves pleasure,
@@ -27,10 +27,10 @@ evidence:
     are a driven vapor (hevel), a snare of death; The horse is made ready for the day of battle, but victory
     belongs to YHWH; no wisdom avails against him; The king''s heart is like channels of water in YHWH''s
     hand; he turns it wherever he wishes; Better to live in a corner of the roof or in the desert than
-    with a contentious woman; The sacrifice of the wicked is an abomination to YHWH, but the prayer of
-    the upright is his delight; Strike a scoffer and the simple will learn prudence; The righteous is
-    rescued from trouble and the wicked goes in his place (as his ransom); A wise man scales the city
-    of the mighty and brings down its trusted stronghold; and 8 more.'
+    with a contentious woman; Strike a scoffer and the simple will learn prudence; The righteous is rescued
+    from trouble and the wicked goes in his place (as his ransom); A wise man scales the city of the mighty
+    and brings down its trusted stronghold; All a man''s ways seem pure in his eyes, but YHWH weighs the
+    spirits (hearts); and 8 more.'
   basis: reading
 - text: 'Only in Parables of charity: Charity voided by reminders of generosity and injury, like dust
     on a rock washed bare by rain; Spending for God''s pleasure is like a garden on a height that yields
@@ -39,9 +39,10 @@ evidence:
     for their restraint, known by their mark; Satan threatens you with poverty and commands indecency;
     Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the poor;
     He who gives to the poor will not lack, but he who hides his eyes will get many curses; Patriarch
-    reaps a hundredfold in one year; An old man with weak children loses his garden of palms and vines
-    to a fiery whirlwind; God gives wisdom to whom he wills; whoever is given wisdom is given much good;
-    One scatters and yet increases; the generous soul is made fat and who waters will be watered.'
+    reaps a hundredfold in one year; An inferior thing is given in place of the good one owed to God or
+    the god [divergence between the texts]; A single grain given (to the god, in God''s way) returns many
+    times over; An old man with weak children loses his garden of palms and vines to a fiery whirlwind;
+    God gives wisdom to whom he wills; whoever is given wisdom is given much good; and 2 more.'
   basis: reading
 - text: 'Sayings on the king''s heart, justice over sacrifice, and the contentious wife: tagged by Claude
     (model), reading the Hebrew.'

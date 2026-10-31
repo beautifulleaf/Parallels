@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unbelievers enjoy themselves and eat as cattle eat; the Fire is
-    their lodging (weight 6.7). Pair score 6.7.'
+    their lodging (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 49 - no man can ransom his brother: Like sheep they are appointed for Sheol; Death
     shepherds them; When he dies he takes nothing with him; his glory does not go down after him; God
@@ -29,9 +29,9 @@ evidence:
     wills; Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves;
     No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too
     costly [divergence between the texts]; On that day no patron (mawla) can avail his client at all;
-    Qārūn goes out in his finery and the worldly wish for his fortune; Wise men die, the fool and the
-    brute perish together and leave their wealth to others; Riches kept by their owner to his hurt, lost
-    in a bad venture, so that his son has nothing in hand; and 4 more.'
+    Qārūn goes out in his finery and the worldly wish for his fortune; Riches kept by their owner to his
+    hurt, lost in a bad venture, so that his son has nothing in hand; Wise men die, the fool and the brute
+    perish together and leave their wealth to others; and 4 more.'
   basis: reading
 - text: 'Only in Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of
     the Garden: The damned are given boiling water to drink which tears their bowels apart; The Garden
@@ -41,10 +41,10 @@ evidence:
     and admits them to a Garden he has made known to them; The signs/portents (ashrat) of the Hour have
     already come; The prophet is told to ask forgiveness for his own sin and for the believing men and
     women; In battle, strike the necks of unbelievers; when they are subdued bind them, then free them
-    as favor or for ransom until war lays down its burdens; Four rivers in the Garden [divergence between
-    the texts]; If you help God he will help you and make your feet firm; The Hour will come upon them
-    suddenly while they are unaware; Streams and rivers flowing with honey and curds (denied to the wicked);
-    Rivers or streams of honey and milk (curds) [divergence between the texts]; and 9 more.'
+    as favor or for ransom until war lays down its burdens; People eat as sheep or cattle eat; Four rivers
+    in the Garden [divergence between the texts]; If you help God he will help you and make your feet
+    firm; The Hour will come upon them suddenly while they are unaware; Whether a bound captive is released
+    or killed [contrast between the texts]; and 14 more.'
   basis: reading
 - text: 'Psalm 49 - no man can ransom his brother: tagged by Claude (model), reading the Hebrew.'
   basis: reading

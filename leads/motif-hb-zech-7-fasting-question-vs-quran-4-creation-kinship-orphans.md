@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God executes justice for orphan and widow and loves the stranger
-    (weight 5.2). Pair score 5.2.'
+    (weight 5.9). Pair score 5.9.'
   basis: reading
 - text: 'Only in The Bethel delegation''s question about fasting: ''When you fasted and mourned these
     seventy years, was it for me that you fasted?''; The people made their hearts like shamir (adamant
@@ -30,17 +30,17 @@ evidence:
     and year of the Persian king Darius; The exile lasts seventy years as Jeremiah prophesied; Curse:
     God will scatter the people among the nations.'
   basis: reading
-- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Those who devour orphans''
-    property devour fire into their bellies; Fear God, by whom you ask of one another, and the wombs (kinship
-    ties, al-arḥām); Kin, orphans and the poor present at the division of an estate are given something
-    from it; Property is not handed to the feeble-minded (sufahāʾ); they are fed and clothed from it;
-    Women as well as men receive a fixed share of what parents and kin leave; The husband gives the bride
-    her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; God hears the cry of the oppressed
-    widow and orphan and punishes measure for measure; How the first woman was made [divergence between
-    the texts]; Do not enter the fields of the fatherless, for their redeemer (go''el) is strong and will
-    plead their cause; A man may marry two, three or four wives, or only one if he fears injustice; A
-    man who seduces an unbetrothed virgin must marry her or pay the bride-price; Who receives the marriage
-    payment [divergence between the texts]; and 4 more.'
+- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Fear God, by whom you ask
+    of one another, and the wombs (kinship ties, al-arḥām); Kin, orphans and the poor present at the division
+    of an estate are given something from it; Property is not handed to the feeble-minded (sufahāʾ); they
+    are fed and clothed from it; Women as well as men receive a fixed share of what parents and kin leave;
+    The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part;
+    Those who devour orphans'' property devour fire into their bellies; How the first woman was made [divergence
+    between the texts]; A man may marry two, three or four wives, or only one if he fears injustice; A
+    man who seduces an unbetrothed virgin must marry her or pay the bride-price; To whom the bride-price
+    is paid and in what (silver and gold to her father; service to her father; the gift to the woman herself)
+    [divergence between the texts]; Do not covet; each has his own share (in the division among kin);
+    Who receives the marriage payment [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'The Bethel delegation''s question about fasting: tagged by Claude (model), reading the Hebrew.'
   basis: reading

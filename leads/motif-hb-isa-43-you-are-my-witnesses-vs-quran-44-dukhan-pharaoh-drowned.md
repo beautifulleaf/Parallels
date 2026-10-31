@@ -19,21 +19,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people walk on dry ground through the sea with the waters as
-    a wall on either side (weight 5.3). Pair score 5.3.'
+    a wall on either side (weight 6.4). Pair score 6.4.'
   basis: reading
-- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Fear not,
-    for I have redeemed you; I have called you by name, you are mine''; ''Your first father sinned and
-    your interpreters (melitsim) transgressed against me''; God says to north ''Give up'' and to south
-    ''Do not withhold'': bring my sons from afar and my daughters from the end of the earth; The wild
-    beasts, jackals and ostriches honor God for the water he gives in the desert; God gives Egypt, Cush
-    and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I, I am YHWH, and besides
-    me there is no savior''; ''Do not remember the former things... Behold I am doing a new thing; now
-    it springs forth'': a way in the wilderness, rivers in the desert; When you pass through waters God
-    is with you and rivers will not overwhelm you; through fire you will not be burned; Israel did not
-    weary itself with offerings for God but wearied him with its sins; he blots out transgressions for
-    his own sake; Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen,
-    fallen is Babylon!'' and all her idols shattered on the ground; Oracle of salvation: ''Fear not, for
-    I am with you; I will strengthen and help you''; and 16 more.'
+- text: 'Only in I have called you by name; you are my witnesses; behold I do a new thing: ''Your first
+    father sinned and your interpreters (melitsim) transgressed against me''; God says to north ''Give
+    up'' and to south ''Do not withhold'': bring my sons from afar and my daughters from the end of the
+    earth; The wild beasts, jackals and ostriches honor God for the water he gives in the desert; God
+    gives Egypt, Cush and Seba as Israel''s ransom (kofer) and peoples in exchange for her life; ''I,
+    I am YHWH, and besides me there is no savior''; ''Do not remember the former things... Behold I am
+    doing a new thing; now it springs forth'': a way in the wilderness, rivers in the desert; Israel did
+    not weary itself with offerings for God but wearied him with its sins; he blots out transgressions
+    for his own sake; ''Fear not, for I have redeemed you; I have called you by name, you are mine'';
+    Every one of you will come to (pass by) hell; then the pious are rescued; Cry ''Fallen, fallen is
+    Babylon!'' and all her idols shattered on the ground; God himself devotes the nations (or a nation)
+    to destruction (herem) and gives them to slaughter; What God created humans, or his people, for [divergence
+    between the texts]; and 16 more.'
   basis: reading
 - text: 'Only in Moses asks Pharaoh to hand over God''s servants; the sea left parted; heaven did not
     weep: The drowned Egyptians left gardens, springs, crops and noble dwellings, which God gave another
@@ -41,11 +41,12 @@ evidence:
     the sea parted and still (rahwan), for Pharaoh''s host will be drowned; What Moses demands of Pharaoh
     in God''s name [divergence between the texts]; Sacrificial meal eaten in haste, loins girded, sandals
     on, staff in hand; Who, if anyone, inherits Egypt''s land after the exodus [divergence between the
-    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; God chose
-    the Children of Israel, knowingly, above the worlds and tested them with signs; What Moses does with
-    the sea after the crossing [divergence between the texts]; How Israel leaves Egypt by night: expelled,
-    or secretly [divergence between the texts]; The prophet seeks refuge in God from being stoned by his
-    people; Whether heaven and earth mourn a destroyed people [contrast between the texts]; and 2 more.'
+    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; Whether
+    heaven and earth mourn a destroyed people; God chose the Children of Israel, knowingly, above the
+    worlds and tested them with signs; What Moses does with the sea after the crossing [divergence between
+    the texts]; How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts];
+    A city, or heaven and earth, weeps (or does not weep) over a people in disaster [divergence between
+    the texts]; and 5 more.'
   basis: reading
 - text: 'I have called you by name; you are my witnesses; behold I do a new thing: tagged by Claude (model),
     reading the Hebrew.'

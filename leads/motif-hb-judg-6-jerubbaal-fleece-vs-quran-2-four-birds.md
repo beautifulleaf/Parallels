@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The called one asks for a sign that it is God who speaks [divergence
-    between the texts] (weight 5.8); The called one asks for a sign that it is God who speaks (weight
-    5.6). Pair score 11.4.'
+    between the texts] (weight 6.8); The called one asks for a sign that it is God who speaks (weight
+    6.5). Pair score 13.3.'
   basis: reading
 - text: 'Only in Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: A fleece is
     left on the threshing floor as a sign: wet when the ground is dry, then dry when it is wet; If he
@@ -34,8 +34,9 @@ evidence:
   basis: reading
 - text: 'Only in Abraham and the four birds: Abraham, asking to see how God revives the dead, takes four
     birds, places parts on each hill, calls them and they come flying; Abraham takes and cuts animals
-    at God''s command [divergence between the texts]; Covenant ritual: animals cut in halves and a divine
-    presence passes between them.'
+    at God''s command [divergence between the texts]; Creatures cut in pieces, the parts set apart, are
+    made whole and alive by a spoken word [neutral] [divergence between the texts]; Covenant ritual: animals
+    cut in halves and a divine presence passes between them.'
   basis: reading
 - text: 'Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: tagged by Claude (model),
     reading the Hebrew.'

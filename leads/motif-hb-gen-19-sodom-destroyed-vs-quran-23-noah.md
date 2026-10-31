@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is saved with the hero from the destruction, and why [divergence
-    between the texts] (weight 5.8); A member of the hero''s family is lost (weight 5.8); Hero''s family
-    saved with him (weight 4.5). Pair score 16.0.'
+    between the texts] (weight 6.8); A member of the hero''s family is lost (weight 6.8); Hero''s family
+    saved with him (weight 5.4). Pair score 19.1.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -39,12 +39,13 @@ evidence:
 - text: 'Only in Noah called a madman; the ark and the boiling oven: God forbids the prophet to address
     him on behalf of those who did wrong: they will be drowned; The flood hero prays to be landed at a
     blessed landing place; What the flood hero does when the vessel comes to rest [divergence between
-    the texts]; When and from where the flood waters come [divergence between the texts]; The prophet''s
-    people object that he is only a human like them; had God willed he would have sent angels; Whether
-    the flood hero speaks to his people before the flood [divergence between the texts]; A specific sign
-    marks the moment to board; The flood waters are hot or boiling; Why God destroyed a generation or
-    a people [divergence between the texts]; Animals taken aboard in pairs; Hero asks the deity to judge
-    or destroy his opponents; Hero builds a vessel on divine instruction; and 2 more.'
+    the texts]; The flood hero is told he is only a man like the speaker(s) [divergence between the texts];
+    When and from where the flood waters come [divergence between the texts]; The prophet''s people object
+    that he is only a human like them; had God willed he would have sent angels; Whether the flood hero
+    speaks to his people before the flood [divergence between the texts]; The flood waters are hot or
+    boiling; Why God destroyed a generation or a people [divergence between the texts]; A specific sign
+    marks the moment to board; Animals taken aboard in pairs; Hero asks the deity to judge or destroy
+    his opponents; and 3 more.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

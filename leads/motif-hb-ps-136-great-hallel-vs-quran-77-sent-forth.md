@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every verse ends with the same response (''for his steadfast love
-    is forever''), an antiphonal litany (weight 6.7). Pair score 6.7.'
+    is forever''), an antiphonal litany (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel): God spread out
     (roqa'') the earth upon the waters; God gives bread to all flesh; God cut the Sea of Reeds into parts
@@ -36,13 +36,12 @@ evidence:
     to offer excuses; The earth is made a receptacle (kifat) that holds the living and the dead; Hell
     throws sparks as huge as castles, like yellow (or black) camels; The damned are led to a shadow of
     three branches that gives no shade nor protects from the flame; In paradise the shades are close and
-    the fruit clusters hang low within reach; Stars and constellations (kesilim) give no light, the sun
-    is dark at its rising and the moon does not shine; Refrain ''Woe that day to the deniers'' (waylun
-    yawma''idhin lil-mukadhdhibin) repeated through a surah; At the end the sky is split, cleft or opened
-    (infatarat, inshaqqat, furijat); At the end the mountains become a heap of running sand, are blown
-    away, set in motion or turn into a mirage; God makes winds his messengers (angels) and flaming fire
-    his ministers; God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth; and 2
-    more.'
+    the fruit clusters hang low within reach; Refrain ''Woe that day to the deniers'' (waylun yawma''idhin
+    lil-mukadhdhibin) repeated through a surah; At the end the sky is split, cleft or opened (infatarat,
+    inshaqqat, furijat); At the end the mountains become a heap of running sand, are blown away, set in
+    motion or turn into a mirage; Stars and constellations (kesilim) give no light, the sun is dark at
+    its rising and the moon does not shine; God makes winds his messengers (angels) and flaming fire his
+    ministers; God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth; and 2 more.'
   basis: reading
 - text: 'Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel): tagged by Claude (model),
     reading the Hebrew.'

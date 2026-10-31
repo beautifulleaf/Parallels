@@ -14,15 +14,15 @@ traditions:
 layers:
 - motif
 motifs:
-- sheol-opens-its-throat
 - hell-asks-for-more
+- sheol-opens-its-throat
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Sheol enlarges its appetite and opens its mouth without limit to
-    swallow the people (weight 6.7); God asks Gehenna ''Are you full?'' and it answers ''Are there any
-    more?'' (weight 6.3). Pair score 13.0.'
+- text: 'Shared motifs, rarest first: God asks Gehenna ''Are you full?'' and it answers ''Are there any
+    more?'' (weight 7.3); Sheol enlarges its appetite and opens its mouth without limit to swallow the
+    people (weight 7.1). Pair score 14.4.'
   basis: reading
 - text: 'Only in Song of the vineyard; six woes; the nation from afar: Woe to those who rise early for
     strong drink and feast with lyre and harp but ignore God''s work; God raises a banner and whistles
@@ -31,10 +31,10 @@ evidence:
     yielded wild grapes despite all care and is abandoned to briars; The invading army never tires, sleeps
     or loosens belt or sandal; its horses'' hooves like flint, its roar like a lion; Prophetic paronomasia:
     hoped for mishpat (justice) but got mishpah (bloodshed), for tsedaqah but got tse''aqah (outcry);
-    Woe to those who call evil good and good evil, darkness light and bitter sweet; God speaks to the
-    snow ''Fall on the earth'' and commands the downpour; Hypocrite men and women enjoin wrong and forbid
-    right and close their hands; Refrain: ''For all this his anger is not turned back and his hand is
-    stretched out still''; God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter
+    God speaks to the snow ''Fall on the earth'' and commands the downpour; Hypocrite men and women enjoin
+    wrong and forbid right and close their hands; Refrain: ''For all this his anger is not turned back
+    and his hand is stretched out still''; Woe to those who call evil good and good evil, darkness light
+    and bitter sweet; God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter
     fruit, tamarisk and a few lote-trees; Scoffers ask ''Lord, hasten to us our share (qittana) before
     the Day of Reckoning''; and 7 more.'
   basis: reading
@@ -48,9 +48,9 @@ evidence:
     with a driver (sa''iq) and a witness (shahid); The stupor (sakra) of death comes with the truth: ''this
     is what you tried to avoid''; Two receivers sit on the right and the left recording every word a person
     utters; At judgment the covering is removed from a person and his sight that day is sharp as iron;
-    Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire that
-    never says ''Enough''; God''s knowledge of a person''s thoughts and words, from afar or from near
-    [divergence between the texts]; and 12 more.'
+    Whether the work of creation brings toil and weariness on the divine [divergence between the texts];
+    Whether the work of creation brings toil and weariness on the divine [response between the texts];
+    and 24 more.'
   basis: reading
 - text: 'Song of the vineyard; six woes; the nation from afar: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God lifts a yoke or burden from his people [divergence between the
-    texts] (weight 6.7). Pair score 6.7.'
+    texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Covenant blessings for obedience: God promises to walk about in the midst of the people;
     No idols, carved image, pillar or figured stone set up to bow down on; Blessing: five of you will

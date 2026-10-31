@@ -21,18 +21,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deity rests on the seventh day after creating, and sanctifies it
-    [divergence between the texts] (weight 6.7); Creation is completed in six days (weight 5.2); Sun and
-    moon are set to rule day and night and mark signs and seasons (weight 4.7). Pair score 16.6.'
+    [divergence between the texts] (weight 7.7); Creation is completed in six days (weight 6.2); Sun and
+    moon are set to rule day and night and mark signs and seasons (weight 5.5). Pair score 19.5.'
   basis: reading
-- text: 'Only in Creation in six days and the seventh-day rest: Deity gives names to the elements it creates
-    (day, night, heaven, earth, seas); Deity rests on the seventh day after creating, and sanctifies it;
-    The earth itself is commanded to bring forth plants or animals; Light exists before the sun and moon
-    are made; Humans and animals originally given only plants as food; Creation proceeds by dividing (light/darkness,
-    waters above/below); A divine wind or spirit hovers or moves over the primeval waters; God made every
-    living thing from water [divergence between the texts]; God speaks to heavenly beings about making
-    man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that God split
-    apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence between
-    the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between the texts];
+- text: 'Only in Creation in six days and the seventh-day rest: Light exists before the sun and moon are
+    made; Humans and animals originally given only plants as food; Deity rests on the seventh day after
+    creating, and sanctifies it; A divine wind or spirit hovers or moves over the primeval waters; God
+    made every living thing from water [divergence between the texts]; God speaks to heavenly beings about
+    making man [divergence between the texts]; The heavens and earth were a closed-up mass (ratq) that
+    God split apart (fatq) [divergence between the texts]; The form God gave humans at creation [divergence
+    between the texts]; Whether humans bear God''s likeness, or nothing is like him [contrast between
+    the texts]; Sun and moon are set to rule day and night and mark signs and seasons [divergence between
+    the texts]; Night and day are two signs; the sign of night is effaced and that of day made bright
+    for reckoning years; The office given to humans on earth at creation [divergence between the texts];
     and 25 more.'
   basis: reading
 - text: 'Only in Six days, the Throne, winds and rain as proof of resurrection: Parable: good land yields

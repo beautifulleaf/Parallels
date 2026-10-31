@@ -23,22 +23,22 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Ten Commandments (Decalogue) [divergence between the texts]
-    (weight 6.7); Honor father and mother, with the promise of long life [divergence between the texts]
-    (weight 6.0); Prohibitions of murder, adultery, theft and false witness [divergence between the texts]
-    (weight 5.8); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother, with the promise
-    of long life (weight 5.3); Prohibitions of murder, adultery, theft and false witness (weight 5.1).
-    Pair score 34.3.'
+    (weight 7.7); Honor father and mother, with the promise of long life [divergence between the texts]
+    (weight 7.1); Prohibitions of murder, adultery, theft and false witness [divergence between the texts]
+    (weight 6.8); The Ten Commandments (Decalogue) (weight 6.5); Honor father and mother, with the promise
+    of long life (weight 5.9); Prohibitions of murder, adultery, theft and false witness (weight 5.7).
+    Pair score 39.7.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; Do not stretch your eyes toward the worldly splendor
-    given to others to test them; and 8 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; Do not stretch your eyes toward the worldly splendor given to others to test them; Whether
+    guilt passes from parents to their descendants [contrast between the texts]; and 8 more.'
   basis: reading
 - text: 'Only in The recited commandments (the Quranic decalogue): List of commandments introduced ''Come,
     I will recite what your Lord has forbidden you''; Lest you say scripture was sent only to two groups
@@ -46,8 +46,8 @@ evidence:
     the book complete and detailing everything; Do not kill your children for fear of poverty; God provides
     for them and you; Stand firm for justice as witnesses for God even against yourselves, parents and
     kin, rich or poor; Guardians must keep orphans'' property intact and hand it over when they come of
-    age; Keep the law, turning neither to the right nor to the left; I set before you life and death,
-    blessing and curse: choose life; God burdens no soul beyond its capacity; Honest balances, weights,
+    age; God burdens no soul beyond its capacity; Keep the law, turning neither to the right nor to the
+    left; I set before you life and death, blessing and curse: choose life; Honest balances, weights,
     ephah and hin are commanded.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'

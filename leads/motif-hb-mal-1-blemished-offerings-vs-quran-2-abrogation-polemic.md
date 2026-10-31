@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From sunrise to sunset God''s name is great among the nations and
-    in every place incense and a pure offering are brought to his name (weight 6.7). Pair score 6.7.'
+    in every place incense and a pure offering are brought to his name (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Priests who despise God''s name with blemished offerings: The altar is called ''the table
     of YHWH'' and the offering ''bread'' (lehem); God wishes someone would shut the temple doors rather
@@ -35,10 +35,11 @@ evidence:
     opponents) but ''unzurna''; God abrogates or causes to be forgotten a verse and brings a better or
     similar one (naskh); God swears by himself: to me every knee shall bow and every tongue swear; Whether
     God has or begets a son [contrast between the texts]; Whether God should speak to the people directly
-    [contrast between the texts]; East and west belong to God; wherever you turn, there is the face of
-    God; ''He spoke and it came to be; he commanded and it stood firm''; Deity creates by spoken command
-    (Let there be...); The called one asks for a sign that it is God who speaks [divergence between the
-    texts]; The called one asks for a sign that it is God who speaks; and 2 more.'
+    [contrast between the texts]; A good deed done for one''s land is laid up in the god''s basket (credited
+    by the god); The god''s whereabouts named as the sunrise and the sunset (east and west) [divergence
+    between the texts]; East and west belong to God; wherever you turn, there is the face of God; ''He
+    spoke and it came to be; he commanded and it stood firm''; The called one asks for a sign that it
+    is God who speaks [divergence between the texts]; and 4 more.'
   basis: reading
 - text: 'Priests who despise God''s name with blemished offerings: tagged by Claude (model), reading the
     Hebrew.'

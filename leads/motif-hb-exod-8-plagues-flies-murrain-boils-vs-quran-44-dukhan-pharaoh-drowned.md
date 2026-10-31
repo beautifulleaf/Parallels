@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet seeks refuge in God from being stoned by his people
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Plagues 4-6: swarms, pestilence of livestock, boils: Soot from a kiln thrown skyward
     becomes boils on men and beasts; Pestilence kills the oppressors'' livestock while sparing the oppressed''s;
@@ -39,12 +39,12 @@ evidence:
     the sea parted and still (rahwan), for Pharaoh''s host will be drowned; What Moses demands of Pharaoh
     in God''s name [divergence between the texts]; Sacrificial meal eaten in haste, loins girded, sandals
     on, staff in hand; Who, if anyone, inherits Egypt''s land after the exodus [divergence between the
-    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; God chose
-    the Children of Israel, knowingly, above the worlds and tested them with signs; What Moses does with
-    the sea after the crossing [divergence between the texts]; How Israel leaves Egypt by night: expelled,
-    or secretly [divergence between the texts]; Whether heaven and earth mourn a destroyed people [contrast
-    between the texts]; Prophet delivers God''s demand ''Let my people go that they may serve me''; and
-    2 more.'
+    texts]; Why God chose Israel: love, or knowledge and testing [divergence between the texts]; Whether
+    heaven and earth mourn a destroyed people; God chose the Children of Israel, knowingly, above the
+    worlds and tested them with signs; What Moses does with the sea after the crossing [divergence between
+    the texts]; How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts];
+    A city, or heaven and earth, weeps (or does not weep) over a people in disaster [divergence between
+    the texts]; and 5 more.'
   basis: reading
 - text: 'Plagues 4-6: swarms, pestilence of livestock, boils: tagged by Claude (model), reading the Hebrew.'
   basis: reading

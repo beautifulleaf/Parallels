@@ -19,29 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness [divergence
-    between the texts] (weight 5.8); Prohibitions of murder, adultery, theft and false witness (weight
-    5.1). Pair score 10.9.'
+    between the texts] (weight 6.8); Prohibitions of murder, adultery, theft and false witness (weight
+    5.7). Pair score 12.5.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
-    the texts]; and 12 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch your eyes
+    toward the worldly splendor given to others to test them; and 12 more.'
   basis: reading
 - text: 'Only in The virtues of the servants of the Merciful: For the repentant God changes their evil
     deeds into good deeds; Prayer: grant us from our spouses and offspring the comfort of our eyes; When
     they spend they are neither extravagant nor stingy, but in between; The righteous spend the night
     prostrating and standing before their Lord; The righteous are rewarded with the lofty chamber (al-ghurfa)
     and greeted with peace; The servants of the Merciful walk humbly on the earth and answer the ignorant
-    with ''Peace''; Though sins be like scarlet they shall be white as snow; though red as crimson, like
-    wool; Your wife a fruitful vine in the recesses of your house, your children like olive shoots around
-    your table; Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool
-    according to his folly''; What God requires: to do justice, love hesed and walk humbly with your God.'
+    with ''Peace''; Do not bear false witness (mtr n mdw n ʿḏꜣ / shahādat al-zūr); When the ignorant or
+    weak man disputes with you, do not engage him: leave him; Though sins be like scarlet they shall be
+    white as snow; though red as crimson, like wool; Your wife a fruitful vine in the recesses of your
+    house, your children like olive shoots around your table; What God requires: to do justice, love hesed
+    and walk humbly with your God; Contradictory pair: ''Do not answer a fool according to his folly''
+    / ''Answer a fool according to his folly''.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -23,9 +23,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Korah''s sin was, and why the earth swallowed him [divergence
-    between the texts] (weight 6.7); Bystanders of a divine punishment fear it could have struck them
-    too (weight 6.7); The earth opens its mouth and swallows rebels alive into Sheol (weight 5.0). Pair
-    score 18.4.'
+    between the texts] (weight 7.7); Bystanders of a divine punishment fear it could have struck them
+    too (weight 7.7); The earth opens its mouth and swallows rebels alive into Sheol (weight 5.9). Pair
+    score 21.4.'
   basis: reading
 - text: 'Only in Korah, Dathan and Abiram rebel; the earth swallows them: Rival claimants offer incense
     in fire-pans so God may choose the holy one; Rebels claim all the people are holy and challenge the
@@ -33,19 +33,20 @@ evidence:
     death, YHWH has not sent me''); Fire from God consumes those offering illegitimate incense; God addressed
     as ''God of the spirits of all flesh''; Your companion has not erred; he does not speak from desire;
     it is only revelation revealed; Thamud say: ''Shall we follow a single human from among us? Was the
-    reminder cast on him alone?''; Intercessor asks: shall one man sin and you rage at the whole community?;
-    A people is destroyed by an earthquake/tremor (al-rajfa); Leader protests he never took so much as
-    a donkey from anyone; Where Haman and Korah belong in the story of God''s people [divergence between
-    the texts]; The people grumble against their leaders about food or water.'
+    reminder cast on him alone?''; A people is destroyed by an earthquake/tremor (al-rajfa); Leader protests
+    he never took so much as a donkey from anyone; Where Haman and Korah belong in the story of God''s
+    people [divergence between the texts]; Intercessor asks: shall one man sin and you rage at the whole
+    community?; The people grumble against their leaders about food or water.'
   basis: reading
 - text: 'Only in Qarun''s treasures and his swallowing by the earth; closing: God who imposed the Quran
     will bring the prophet back to a place of return (maʿād); Qārūn says his wealth came to him through
     knowledge he possesses; Qārūn (Korah) of Moses'' people was given treasures whose keys would weigh
     down a band of strong men; Donors confess that everything comes from God and they only give back what
-    is his; Qārūn goes out in his finery and the worldly wish for his fortune; All on earth perish; there
-    remains the Face of your Lord, possessor of majesty and honor; Warning against saying my power and
-    the might of my hand made this wealth; The rich man''s wealth is his strong city; the poverty of the
-    poor is their ruin.'
+    is his; The earth opens and swallows ill-gotten riches or the wrongful rich man with his house; Qārūn
+    goes out in his finery and the worldly wish for his fortune; All on earth perish; there remains the
+    Face of your Lord, possessor of majesty and honor; Warning against saying my power and the might of
+    my hand made this wealth; The rich man''s wealth is his strong city; the poverty of the poor is their
+    ruin.'
   basis: reading
 - text: 'Korah, Dathan and Abiram rebel; the earth swallows them: tagged by Claude (model), reading the
     Hebrew.'

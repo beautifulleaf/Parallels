@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Challenge to idolaters: show me what those besides God have created
-    (weight 5.3). Pair score 5.3.'
+    (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in The Aramaic verse - gods who did not make heaven and earth: Aramaic declaration: the
     gods who did not make heaven and earth shall perish from the earth and from under the heavens; Conquered

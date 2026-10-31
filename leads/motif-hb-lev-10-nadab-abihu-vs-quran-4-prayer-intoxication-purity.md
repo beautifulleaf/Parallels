@@ -20,22 +20,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No wine before approaching God [divergence between the texts] (weight
-    6.7); Priests may not drink wine or strong drink when entering the tent (weight 6.3). Pair score 13.0.'
+    7.7); Priests may not drink wine or strong drink when entering the tent (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Strange fire - death of Nadab and Abihu; priestly rules: The bereaved priest declines
     to eat the sin offering on the day of his sons'' death, and Moses accepts this; Bodies of priests
     struck by God carried out of the camp in their tunics by relatives; Father remains silent on the death
     of his sons; God says he is sanctified through those who are near him, after a fatal cultic error;
     Moses is angry that the priests burned the sin offering instead of eating it; Fire from God consumes
-    those offering illegitimate incense; Priests may not dishevel hair, tear garments, shave or gash themselves
-    in mourning; Priests must distinguish holy from profane and clean from unclean and teach the people;
-    Priests eat the most holy portions in a holy place; Priests die for offering ''strange fire''.'
+    those offering illegitimate incense; Priests must distinguish holy from profane and clean from unclean
+    and teach the people; Priests eat the most holy portions in a holy place; Priests die for offering
+    ''strange fire''; Priests may not dishevel hair, tear garments, shave or gash themselves in mourning.'
   basis: reading
 - text: 'Only in Prayer not while drunk; bathing and dry ablution: Do not approach prayer while intoxicated,
     until you know what you say; One in major impurity (junub) must bathe before prayer, except a traveller
     passing through; Purification after seminal emission or intercourse [divergence between the texts];
-    Emission of semen makes a man (and his partner) unclean until evening; Without water, purify with
-    clean earth (tayammum), wiping face and hands.'
+    Emission of semen makes a man (and his partner) unclean until evening; One who has had intercourse
+    must wash before approaching the deity''s service or prayer; Without water, purify with clean earth
+    (tayammum), wiping face and hands.'
   basis: reading
 - text: 'Strange fire - death of Nadab and Abihu; priestly rules: tagged by Claude (model), reading the
     Hebrew.'

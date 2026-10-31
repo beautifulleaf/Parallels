@@ -18,8 +18,8 @@ motifs:
 - family-migrates-to-egypt
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero meets and embraces his father (weight 6.0); The whole family
-    moves to Egypt (weight 5.8). Pair score 11.8.'
+- text: 'Shared motifs, rarest first: Hero meets and embraces his father (weight 7.1); The whole family
+    moves to Egypt (weight 6.8). Pair score 13.9.'
   basis: reading
 - text: 'Only in Vision at Beersheba, the seventy who went down, reunion in Goshen: God promises to go
     down to a foreign land with the patriarch and bring him back up; Aged father says he may die now that
@@ -30,12 +30,12 @@ evidence:
     is named in a male genealogy (Dinah, Serah).'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 55 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 55 more.'
   basis: reading
 - text: 'Vision at Beersheba, the seventy who went down, reunion in Goshen: tagged by Claude (model),
     reading the Hebrew.'

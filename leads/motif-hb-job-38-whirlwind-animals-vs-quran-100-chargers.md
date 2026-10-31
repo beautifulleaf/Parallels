@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The warhorse with thundering mane paws the valley, laughs at fear
-    and says ''Aha!'' at the trumpet (weight 6.7). Pair score 6.7.'
+    and says ''Aha!'' at the trumpet (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in God''s first speech from the whirlwind - the wild animals: Catalogue of wild animals
-    (mountain goat, wild ass, wild ox, ostrich, horse, hawk, eagle) beyond human control; The eagle nests
-    on the crag; where the slain are, there it is, and its young drink blood; The ostrich leaves her eggs
-    in the dust, forgetting a foot may crush them, for God deprived her of wisdom; The wild ass, set free
-    by God, laughs at the city''s tumult and hears no driver''s shout; The wild ox (re''em) will not serve
-    man, plow the furrow or spend the night at his crib; By God''s wisdom the hawk soars and spreads its
-    wings toward the south; Only God knows when the mountain goats and hinds give birth and counts their
-    months; The birds above them spreading and folding their wings: none holds them up but the Merciful;
+- text: 'Only in God''s first speech from the whirlwind - the wild animals: The eagle nests on the crag;
+    where the slain are, there it is, and its young drink blood; The wild ass, set free by God, laughs
+    at the city''s tumult and hears no driver''s shout; The wild ox (re''em) will not serve man, plow
+    the furrow or spend the night at his crib; Catalogue of wild animals (mountain goat, wild ass, wild
+    ox, ostrich, horse, hawk, eagle) beyond human control; By God''s wisdom the hawk soars and spreads
+    its wings toward the south; The ostrich leaves her eggs in the dust, forgetting a foot may crush them,
+    for God deprived her of wisdom; Only God knows when the mountain goats and hinds give birth and counts
+    their months; The birds above them spreading and folding their wings: none holds them up but the Merciful;
     God provides prey for the lion and food for the raven''s young that cry to him.'
   basis: reading
 - text: 'Only in The chargers: Oath by charging war-horses that pant, strike sparks with their hooves,

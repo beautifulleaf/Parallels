@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People make a molten calf while the leader is on the mountain (weight
-    4.7). Pair score 4.7.'
+    5.8). Pair score 5.8.'
   basis: reading
 - text: 'Only in Psalm 106, national confession of sins from Egypt to exile: Israel ate ''sacrifices of
     the dead'' (zivhei metim) at Baal-peor; God caused the exiles to be pitied by all their captors; God
@@ -28,9 +28,10 @@ evidence:
     reckoned to him as righteousness for all generations''; Israel ''yokes itself'' to Baal of Peor; List
     of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning; The
     people exchanged their Glory for the image of an ox that eats grass; Moses ''stood in the breach''
-    (pérets) before God to turn back his wrath from destroying the people; Speaker confesses personal
-    sin and pleads for forgiveness and cleansing; God turned the sea into dry land and they crossed the
-    river on foot; Shed blood pollutes the land and only the killer''s blood atones for it; and 16 more.'
+    (pérets) before God to turn back his wrath from destroying the people; God turned the sea into dry
+    land and they crossed the river on foot; Shed blood pollutes the land and only the killer''s blood
+    atones for it; A closing doxology and the divine title it uses [divergence between the texts]; and
+    16 more.'
   basis: reading
 - text: 'Only in The indictment of Israel; the Messiah not crucified but raised: Every one of the People
     of the Book will believe in him before his (or their) death; They did not kill the Messiah Jesus nor

@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake
-    the best of creators?'' (weight 6.7). Pair score 6.7.'
+    the best of creators?'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 86, a prayer of David; there is none like you among the gods: God delivered the
-    speaker''s soul from the lowest Sheol (she''ol tahtiyyah); Petitioner asks God for a sign of favor
-    so his enemies may see and be ashamed; Prayer ''Unite my heart to fear your name''; Petitioner calls
-    himself ''the son of your handmaid''; All flesh, or all nations, come to God to pray or worship; God
-    called al-Rahman and al-Rahim (the Merciful, the Compassionate), paired names from the root r-h-m
-    (womb, mercy); Prayer to be guided on the straight path (al-sirat al-mustaqim); Individual lament:
-    a sufferer complains of enemies or distress, petitions God and vows praise; Formula of divine attributes:
-    slow to anger, abundant in mercy, visits iniquity to fourth generation; ''Who is like you among the
-    gods, YHWH?''.'
+    speaker''s soul from the lowest Sheol (she''ol tahtiyyah); Prayer ''Unite my heart to fear your name'';
+    Petitioner asks God for a sign of favor so his enemies may see and be ashamed; Petitioner calls himself
+    ''the son of your handmaid''; All flesh, or all nations, come to God to pray or worship; God called
+    al-Rahman and al-Rahim (the Merciful, the Compassionate), paired names from the root r-h-m (womb,
+    mercy); Prayer to be guided on the straight path (al-sirat al-mustaqim); Individual lament: a sufferer
+    complains of enemies or distress, petitions God and vows praise; Formula of divine attributes: slow
+    to anger, abundant in mercy, visits iniquity to fourth generation; ''Who is like you among the gods,
+    YHWH?''.'
   basis: reading
 - text: 'Only in Moses and Aaron; Elias against Ba''l: The prophet''s name appears in variant form (''Il
     Yasin'') for rhyme; A single prophet of YHWH stands against 450 prophets of Baal and 400 of Asherah;

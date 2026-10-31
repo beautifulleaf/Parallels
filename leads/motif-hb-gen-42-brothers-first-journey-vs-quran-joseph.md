@@ -13,38 +13,38 @@ traditions:
 layers:
 - motif
 motifs:
-- one-brother-left-in-egypt
-- brothers-come-unrecognizing
 - money-returned-in-sacks
 - demand-youngest-brother
-- parents-honored-dream-fulfilled
+- brothers-come-unrecognizing
+- one-brother-left-in-egypt
 - pledge-to-father
+- parents-honored-dream-fulfilled
 - father-reluctant-youngest
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: One brother stays behind in Egypt (weight 6.0); Brothers come for
-    grain and do not recognize the hero (weight 6.0); Their payment is secretly returned in their bags
-    (weight 6.0); Hero demands they bring their youngest brother (weight 6.0); Family prostrates before
-    the hero, fulfilling the dream (weight 5.8); A brother or the brothers give the father a pledge for
-    the youngest (weight 5.8); Father refuses at first to send the youngest (weight 5.6). Pair score 41.1.'
+- text: 'Shared motifs, rarest first: Their payment is secretly returned in their bags (weight 7.1); Hero
+    demands they bring their youngest brother (weight 7.1); Brothers come for grain and do not recognize
+    the hero (weight 7.1); One brother stays behind in Egypt (weight 7.1); A brother or the brothers give
+    the father a pledge for the youngest (weight 6.8); Family prostrates before the hero, fulfilling the
+    dream (weight 6.8); Father refuses at first to send the youngest (weight 6.6). Pair score 48.5.'
   basis: reading
 - text: 'Only in The brothers'' first journey to Egypt: Hero speaks through an interpreter so the others
-    do not know he understands them; Hero swears ''by the life of Pharaoh''; Brothers held in custody
-    for three days; Brothers confess their old crime in front of the victim without knowing he hears them;
-    Father refuses at first to send the youngest [divergence between the texts]; Hero turns aside or withdraws
-    to weep unseen before his brothers; Their payment is secretly returned in their bags [divergence between
-    the texts]; One brother stays behind in Egypt [divergence between the texts]; Hero accuses his brothers
-    of being spies; Hero accuses his brothers of being spies [divergence between the texts]; Father says
-    losing his son will bring his grey hairs down to Sheol in sorrow; Famine forces the family to go down
-    to Egypt.'
+    do not know he understands them; Brothers held in custody for three days; Brothers confess their old
+    crime in front of the victim without knowing he hears them; Father refuses at first to send the youngest
+    [divergence between the texts]; Their payment is secretly returned in their bags [divergence between
+    the texts]; Hero swears ''by the life of Pharaoh''; One brother stays behind in Egypt [divergence
+    between the texts]; Hero accuses his brothers of being spies; Hero accuses his brothers of being spies
+    [divergence between the texts]; Father says losing his son will bring his grey hairs down to Sheol
+    in sorrow; Hero turns aside or withdraws to weep unseen before his brothers; Famine forces the family
+    to go down to Egypt.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 50 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 50 more.'
   basis: reading
 - text: 'The brothers'' first journey to Egypt: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -52,7 +52,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: One brother stays behind in Egypt
+finding: Their payment is secretly returned in their bags
 kinds:
 - shared
 units:
@@ -63,46 +63,6 @@ units:
   title: Joseph in the Quran (Surah 12)
   tradition: islam
 matches:
-- kind: shared
-  label: One brother stays behind in Egypt
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 42:24
-      lang: he
-      text: וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שָׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַיִּקַּ֤ח מֵֽאִתָּם֙
-        אֶת שִׁמְע֔וֹן וַיֶּאֱסֹ֥ר אֹת֖וֹ לְעֵינֵיהֶֽם
-    note: Simeon bound before their eyes
-  - tradition: islam
-    passages:
-    - ref: Quran 12:80
-      lang: ar
-      text: فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ
-        أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ
-        فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ
-        ٱلْحَٰكِمِينَ
-    note: the eldest stays of his own accord
-- kind: shared
-  label: Brothers come for grain and do not recognize the hero
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 42:6
-      lang: he
-      text: וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙
-        אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ ל֥וֹ אַפַּ֖יִם אָֽרְצָה
-    - ref: Gen 42:7
-      lang: he
-      text: וַיַּ֥רְא יוֹסֵ֛ף אֶת אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת
-        וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבָּר אֹֽכֶל
-    - ref: Gen 42:8
-      lang: he
-      text: וַיַּכֵּ֥ר יוֹסֵ֖ף אֶת אֶחָ֑יו וְהֵ֖ם לֹ֥א הִכִּרֻֽהוּ
-  - tradition: islam
-    passages:
-    - ref: Quran 12:58
-      lang: ar
-      text: وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
 - kind: shared
   label: Their payment is secretly returned in their bags
   sides:
@@ -158,6 +118,62 @@ matches:
       lang: ar
       text: فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
 - kind: shared
+  label: Brothers come for grain and do not recognize the hero
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 42:6
+      lang: he
+      text: וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙
+        אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ ל֥וֹ אַפַּ֖יִם אָֽרְצָה
+    - ref: Gen 42:7
+      lang: he
+      text: וַיַּ֥רְא יוֹסֵ֛ף אֶת אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת
+        וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבָּר אֹֽכֶל
+    - ref: Gen 42:8
+      lang: he
+      text: וַיַּכֵּ֥ר יוֹסֵ֖ף אֶת אֶחָ֑יו וְהֵ֖ם לֹ֥א הִכִּרֻֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 12:58
+      lang: ar
+      text: وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
+- kind: shared
+  label: One brother stays behind in Egypt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 42:24
+      lang: he
+      text: וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שָׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַיִּקַּ֤ח מֵֽאִתָּם֙
+        אֶת שִׁמְע֔וֹן וַיֶּאֱסֹ֥ר אֹת֖וֹ לְעֵינֵיהֶֽם
+    note: Simeon bound before their eyes
+  - tradition: islam
+    passages:
+    - ref: Quran 12:80
+      lang: ar
+      text: فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ
+        أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ
+        فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ
+        ٱلْحَٰكِمِينَ
+    note: the eldest stays of his own accord
+- kind: shared
+  label: A brother or the brothers give the father a pledge for the youngest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 42:37
+      lang: he
+      text: וַיֹּ֤אמֶר רְאוּבֵן֙ אֶל אָבִ֣יו לֵאמֹ֔ר אֶת שְׁנֵ֤י בָנַי֙ תָּמִ֔ית אִם לֹ֥א אֲבִיאֶ֖נּוּ
+        אֵלֶ֑יךָ תְּנָ֤ה אֹתוֹ֙ עַל יָדִ֔י וַאֲנִ֖י אֲשִׁיבֶ֥נּוּ אֵלֶֽיךָ
+    note: 'Reuben: ''kill my two sons'''
+  - tradition: islam
+    passages:
+    - ref: Quran 12:66
+      lang: ar
+      text: قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ
+        إِلَّآ أَن يُحَاطَ بِكُمْ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ
+- kind: shared
   label: Family prostrates before the hero, fulfilling the dream
   sides:
   - tradition: judaism
@@ -179,22 +195,6 @@ matches:
         رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
         وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ
         إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
-- kind: shared
-  label: A brother or the brothers give the father a pledge for the youngest
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 42:37
-      lang: he
-      text: וַיֹּ֤אמֶר רְאוּבֵן֙ אֶל אָבִ֣יו לֵאמֹ֔ר אֶת שְׁנֵ֤י בָנַי֙ תָּמִ֔ית אִם לֹ֥א אֲבִיאֶ֖נּוּ
-        אֵלֶ֑יךָ תְּנָ֤ה אֹתוֹ֙ עַל יָדִ֔י וַאֲנִ֖י אֲשִׁיבֶ֥נּוּ אֵלֶֽיךָ
-    note: 'Reuben: ''kill my two sons'''
-  - tradition: islam
-    passages:
-    - ref: Quran 12:66
-      lang: ar
-      text: قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ
-        إِلَّآ أَن يُحَاطَ بِكُمْ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ
 - kind: shared
   label: Father refuses at first to send the youngest
   sides:

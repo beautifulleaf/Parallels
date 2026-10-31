@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The seer is told to shut up and seal the vision/book until the end
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition
@@ -37,13 +37,12 @@ evidence:
 - text: 'Only in Made for hell, the beautiful names, the unknown Hour: God has created many jinn and humans
     for hell; The charge that a prophet is mad; The charge that a prophet is mad [response between the
     texts]; Having eyes that do not see and ears that do not hear, said of idols or of people [divergence
-    between the texts]; God leads deniers step by step to ruin and grants them respite (istidraj); The
-    prophet disclaims knowledge of the unseen and power over benefit or harm; Among Moses'' people is
-    a community that guides by the truth and acts justly by it; To God belong the most beautiful names;
-    call on him by them; Every nation has a fixed term that cannot be advanced or delayed by an hour;
-    The heedless are like cattle, or even more astray; God''s plotting (makr / kayd) outwits the schemers;
-    none is safe from it but the losers; Defense of the prophet: there is no madness (jinna) in your companion;
-    he is only a warner; and 2 more.'
+    between the texts]; Those with eyes and ears who neither see nor hear; God leads deniers step by step
+    to ruin and grants them respite (istidraj); The prophet disclaims knowledge of the unseen and power
+    over benefit or harm; Among Moses'' people is a community that guides by the truth and acts justly
+    by it; To God belong the most beautiful names; call on him by them; Every nation has a fixed term
+    that cannot be advanced or delayed by an hour; The heedless are like cattle, or even more astray;
+    God''s plotting (makr / kayd) outwits the schemers; none is safe from it but the losers; and 4 more.'
   basis: reading
 - text: 'Michael arises, the resurrection, and the sealed book: tagged by Claude (model), reading the
     Hebrew.'

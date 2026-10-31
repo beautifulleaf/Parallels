@@ -19,17 +19,17 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel serves the Baals and the Ashtaroth/Asherahs (weight 5.4).
-    Pair score 5.4.'
+- text: 'Shared motifs, rarest first: Israel serves the Baals and the Ashtaroth/Asherahs (weight 6.5).
+    Pair score 6.5.'
   basis: reading
 - text: 'Only in Angel at Bochim; death of Joshua; the cycle of apostasy and deliverance: The angel of
     YHWH rebukes the people for making covenants and not destroying altars; A new generation arises that
     did not know YHWH or his deeds; Joshua buried at Timnath-serah/heres north of Mount Gaash; After the
     prophets came a generation that neglected prayer and followed lusts; Nations are left in the land
-    to test Israel and teach war; Hero dies at 110; Inhabitants not driven out will be thorns in your
-    eyes and pricks in your sides; God relents from the evil he planned; Recital of history as cycle of
-    sin, oppression, outcry and deliverance; Worship of other gods described as ''whoring after'' them;
-    A place is named after an event that happened there, ''to this day''.'
+    to test Israel and teach war; Inhabitants not driven out will be thorns in your eyes and pricks in
+    your sides; Hero dies at 110; Recital of history as cycle of sin, oppression, outcry and deliverance;
+    God relents from the evil he planned; Worship of other gods described as ''whoring after'' them; A
+    place is named after an event that happened there, ''to this day''.'
   basis: reading
 - text: 'Only in Moses and Aaron; Elias against Ba''l: The prophet''s name appears in variant form (''Il
     Yasin'') for rhyme; Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake the best

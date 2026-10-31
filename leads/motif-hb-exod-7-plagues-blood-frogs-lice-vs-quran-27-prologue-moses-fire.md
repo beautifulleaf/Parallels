@@ -20,9 +20,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why Pharaoh and Egypt refuse despite the signs [divergence between
-    the texts] (weight 6.0); Prophet''s wonders are imitated by the king''s magicians in a contest (weight
-    5.1); The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight
-    4.6). Pair score 15.7.'
+    the texts] (weight 7.1); Prophet''s wonders are imitated by the king''s magicians in a contest (weight
+    6.0); The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight
+    5.7). Pair score 18.7.'
   basis: reading
 - text: 'Only in Plagues 1-3: blood, frogs, lice: The dead frogs are piled in heaps and the land stinks;
     Egyptians dig around the Nile for drinkable water; Prophet lets the king choose when the plague should
@@ -32,8 +32,8 @@ evidence:
     [divergence between the texts]; How the defeated court magicians respond [divergence between the texts];
     The king breaks his promise to release the people once a plague is lifted [divergence between the
     texts]; Prophet confronts the king at the river in the morning; The dust of the earth becomes lice
-    on man and beast; Frogs swarm out of the river into houses, beds, ovens and kneading-troughs; Nile
-    water is turned to blood; and 2 more.'
+    on man and beast; Frogs swarm out of the river into houses, beds, ovens and kneading-troughs; King
+    asks the prophet to intercede with God to remove a plague; and 2 more.'
   basis: reading
 - text: 'Only in Ta Sin; Moses at the fire, the jann-staff and the nine signs: At the fire the voice proclaims
     ''Blessed is he who is in the fire and those around it''; God described as the one who dwells in the

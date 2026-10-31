@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God carried his servant by night from the Sacred Mosque to the Farthest
-    Mosque (weight 6.7). Pair score 6.7.'
+    Mosque (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun
     worship: Idolaters ''put the branch (zemorah) to their nose'', an obscure cultic gesture; Seventy
@@ -27,24 +27,24 @@ evidence:
     figure of fire from the waist down and gleaming like hashmal (amber/electrum) from the waist up; Though
     they cry in God''s ears with a loud voice, he will not listen; An idol called ''the image (semel)
     of jealousy that provokes jealousy'' stands at the north gate of the temple; Prophet is told to dig
-    through a wall and enters through the opening; A hand seizes the prophet by a lock of his hair and
-    the spirit carries him between earth and heaven to a distant place; Hidden temple chamber whose walls
-    are engraved all around with creeping things, loathsome beasts and idols; Women sit at the north gate
-    of the temple weeping for Tammuz; About twenty-five men with their backs to the temple bow eastward
-    to the sun between the porch and the altar; Prophet in exile is brought ''in visions of God'' to the
-    Jerusalem temple; Elders of the people come and sit before the prophet in his house to inquire; and
-    5 more.'
+    through a wall and enters through the opening; Hidden temple chamber whose walls are engraved all
+    around with creeping things, loathsome beasts and idols; A hand seizes the prophet by a lock of his
+    hair and the spirit carries him between earth and heaven to a distant place; About twenty-five men
+    with their backs to the temple bow eastward to the sun between the porch and the altar; Prophet in
+    exile is brought ''in visions of God'' to the Jerusalem temple; Elders of the people come and sit
+    before the prophet in his house to inquire; The glory of YHWH appears in the cloud; and 5 more.'
   basis: reading
 - text: 'Only in The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8): Israel
     addressed as descendants of those carried with Noah, who was a grateful servant; Divine warning ''if
     you return (to sin), we will return (to punishment)''; It is decreed in the Book that Israel will
     work corruption on earth twice; God takes his servant on a journey to show him some of his signs;
-    God sends against Israel servants of his of great might who range through their homes; After the first
-    punishment God restores Israel''s turn with wealth and sons; The enemy enters the sanctuary (masjid)
-    a second time as the first and destroys all; Enemies roar in the sanctuary, hack its carved work with
-    axes and burn it to the ground [divergence between the texts]; God gave Moses the Book as guidance
-    for the Children of Israel; Enemies roar in the sanctuary, hack its carved work with axes and burn
-    it to the ground.'
+    The storm or enemy destroys the city a second time; The enemy sent against the city enters its sanctuary
+    and wrecks what it finds; The god himself rouses a mighty foreign enemy against his own land or people;
+    The god himself sends a fierce foreign people against his own city or people; God sends against Israel
+    servants of his of great might who range through their homes; Because of his people''s offence their
+    own god lets a foreign power oppress them for a time, and later gives the land (or the upper hand)
+    back; A swift journey by night ends at a distant sanctuary; After the first punishment God restores
+    Israel''s turn with wealth and sons; and 6 more.'
   basis: reading
 - text: 'Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship:
     tagged by Claude (model), reading the Hebrew.'

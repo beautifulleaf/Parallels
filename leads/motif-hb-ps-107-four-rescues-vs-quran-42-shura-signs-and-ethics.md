@@ -19,35 +19,35 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s control of the wind over ships at sea: raising a storm or
-    stilling it [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    stilling it [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): God
     shatters doors of bronze and cuts through bars of iron; Thanksgiving liturgy for four groups rescued
     by God: desert wanderers, prisoners, the sick, seafarers; God ''sent his word and healed them'', the
-    word acting as an agent; God turns rivers into desert and fruitful land into salt waste, and desert
-    into pools of water; Storm-tossed sailors reel and stagger like drunkards and all their skill is swallowed
-    up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction and iron; Refrain:
-    ''Let them thank YHWH for his steadfast love and his wonders to the sons of man''; In distress, at
-    sea or otherwise, people call on God alone, then return to polytheism once rescued [divergence between
-    the texts]; God raises a storm that lifts ships to the heavens and down to the deeps, then hushes
-    it to a whisper and brings sailors to harbor [divergence between the texts]; God sends the flood of
-    al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk and a few lote-trees; Seafarers
-    cry to God in a storm; what they do once rescued [divergence between the texts]; Sailors in a storm
-    call on God sincerely, vow thanks, and transgress once saved [divergence between the texts]; and 8
-    more.'
+    word acting as an agent; Storm-tossed sailors reel and stagger like drunkards and all their skill
+    is swallowed up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction
+    and iron; Refrain: ''Let them thank YHWH for his steadfast love and his wonders to the sons of man'';
+    In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
+    [divergence between the texts]; God turns rivers into desert and fruitful land into salt waste, and
+    desert into pools of water; God raises a storm that lifts ships to the heavens and down to the deeps,
+    then hushes it to a whisper and brings sailors to harbor [divergence between the texts]; God sends
+    the flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk and a few lote-trees;
+    Seafarers cry to God in a storm; what they do once rescued [divergence between the texts]; Sailors
+    in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between the texts];
+    and 8 more.'
   basis: reading
 - text: 'Only in Provision in measure, rain, ships like mountains and the ethics of consultation and pardon:
     The believers conduct their affairs by mutual consultation (shura); God has dispersed living creatures
     (dabba) in both the heavens and the earth and can gather them; God accepts repentance from his servants
     and pardons evil deeds; Retaliation in kind is permitted, but whoever pardons and makes peace has
-    his reward with God; Whatever misfortune strikes people is for what their own hands have earned, though
-    God pardons much; What is given in this life is passing enjoyment (mata''); what is with God is better
-    and more lasting; God sends down rain after people have despaired and spreads out his mercy; Do not
-    say ''I will do to him as he has done to me; I will pay the man back for his deed''; Whether one may
-    pay back a wrong in kind [divergence between the texts]; Ships running on the sea like landmarks/mountains
-    are a sign; God could still the wind and leave them motionless or wreck them; If God gave his servants
-    unlimited provision they would transgress on earth, so he sends down in measure; Eye for an eye, tooth
-    for a tooth (lex talionis) [divergence between the texts]; and 2 more.'
+    his reward with God; A blow is repaid with its like: every deed is interlocked with its consequence;
+    Whatever misfortune strikes people is for what their own hands have earned, though God pardons much;
+    What is given in this life is passing enjoyment (mata''); what is with God is better and more lasting;
+    God sends down rain after people have despaired and spreads out his mercy; Do not say ''I will do
+    to him as he has done to me; I will pay the man back for his deed''; Whether one may pay back a wrong
+    in kind [divergence between the texts]; Ships running on the sea like landmarks/mountains are a sign;
+    God could still the wind and leave them motionless or wreck them; If God gave his servants unlimited
+    provision they would transgress on earth, so he sends down in measure; and 3 more.'
   basis: reading
 - text: 'Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): tagged by Claude
     (model), reading the Hebrew.'

@@ -19,15 +19,15 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans build a tower whose top reaches heaven [divergence between
-    the texts] (weight 6.3); Humans build a tower whose top reaches heaven (weight 6.3). Pair score 12.6.'
+    the texts] (weight 7.1); Humans build a tower whose top reaches heaven (weight 6.4). Pair score 13.4.'
   basis: reading
 - text: 'Only in The Tower of Babel: Babel explained from balal, to confuse; God scatters humanity over
-    the earth; God confuses human language; God comes down to see what humans are doing; Builders seek
-    to make a name for themselves and avoid dispersal; All humanity once spoke one language; Why humans
-    speak many languages [divergence between the texts]; Humankind was originally one (in speech or community)
-    and then divided [divergence between the texts]; Mankind once one, then divided [divergence between
-    the texts]; Building with baked bricks and bitumen instead of stone and mortar; God speaks in the
-    plural (us, our) as if to a divine council.'
+    the earth; God comes down to see what humans are doing; Why humans speak many languages [divergence
+    between the texts]; Humankind was originally one (in speech or community) and then divided [divergence
+    between the texts]; Mankind once one, then divided [divergence between the texts]; God confuses human
+    language; All humanity once spoke one language; Building with baked bricks and bitumen instead of
+    stone and mortar; God speaks in the plural (us, our) as if to a divine council; Builders seek to make
+    a name for themselves and avoid dispersal.'
   basis: reading
 - text: 'Only in Moses, Pharaoh, Haman and the believer of Pharaoh''s family: The damned ask the keepers
     of hell to pray their Lord to lighten the punishment by a day; they are told ''then pray yourselves'';

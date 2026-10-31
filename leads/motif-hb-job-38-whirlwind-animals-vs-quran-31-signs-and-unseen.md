@@ -19,29 +19,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Only God knows when the mountain goats and hinds give birth and
-    counts their months (weight 6.3). Pair score 6.3.'
+    counts their months (weight 7.3). Pair score 7.3.'
   basis: reading
-- text: 'Only in God''s first speech from the whirlwind - the wild animals: Catalogue of wild animals
-    (mountain goat, wild ass, wild ox, ostrich, horse, hawk, eagle) beyond human control; The eagle nests
-    on the crag; where the slain are, there it is, and its young drink blood; The ostrich leaves her eggs
-    in the dust, forgetting a foot may crush them, for God deprived her of wisdom; The wild ass, set free
-    by God, laughs at the city''s tumult and hears no driver''s shout; The wild ox (re''em) will not serve
-    man, plow the furrow or spend the night at his crib; By God''s wisdom the hawk soars and spreads its
-    wings toward the south; The warhorse with thundering mane paws the valley, laughs at fear and says
-    ''Aha!'' at the trumpet; The birds above them spreading and folding their wings: none holds them up
-    but the Merciful; God provides prey for the lion and food for the raven''s young that cry to him.'
+- text: 'Only in God''s first speech from the whirlwind - the wild animals: The eagle nests on the crag;
+    where the slain are, there it is, and its young drink blood; The wild ass, set free by God, laughs
+    at the city''s tumult and hears no driver''s shout; The wild ox (re''em) will not serve man, plow
+    the furrow or spend the night at his crib; Catalogue of wild animals (mountain goat, wild ass, wild
+    ox, ostrich, horse, hawk, eagle) beyond human control; By God''s wisdom the hawk soars and spreads
+    its wings toward the south; The ostrich leaves her eggs in the dust, forgetting a foot may crush them,
+    for God deprived her of wisdom; The warhorse with thundering mane paws the valley, laughs at fear
+    and says ''Aha!'' at the trumpet; The birds above them spreading and folding their wings: none holds
+    them up but the Merciful; God provides prey for the lion and food for the raven''s young that cry
+    to him.'
   basis: reading
 - text: 'Only in God''s signs, the inexhaustible words, and the five things only God knows: Creating and
     resurrecting all of you is for God like a single soul; Waves overwhelm the ship like canopies (zulal);
     If all trees were pens and the sea, replenished by seven more seas, were ink, God''s words would not
     be exhausted; The religion of the fathers invoked, held to or renounced [contrast between the texts];
     Whoever rejects false gods (taghut) and believes in God grasps the firmest handhold that never breaks;
-    On the Day no parent can avail his child, nor child his parent; God alone knows the Hour, sends rain,
-    knows what is in wombs; no soul knows what it will earn tomorrow or in what land it will die; Seafarers
-    cry to God in a storm; what they do once rescued [divergence between the texts]; Sailors in a storm
-    call on God sincerely, vow thanks, and transgress once saved; Rejecters reply ''we follow what we
-    found our fathers upon''; Sun and moon are subjected, each running to an appointed term; God makes
-    the night pass into the day and the day into the night; and 1 more.'
+    On the Day no parent can avail his child, nor child his parent; A great wave at sea; the man brought
+    safe to land and what he then does for the deity [neutral] [divergence between the texts]; No one
+    knows what tomorrow will bring; God alone knows the Hour, sends rain, knows what is in wombs; no soul
+    knows what it will earn tomorrow or in what land it will die; Humans are not told the day or the place
+    of their death; No one knows what will happen when he thinks of tomorrow; Seafarers cry to God in
+    a storm; what they do once rescued [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'God''s first speech from the whirlwind - the wild animals: tagged by Claude (model), reading
     the Hebrew.'

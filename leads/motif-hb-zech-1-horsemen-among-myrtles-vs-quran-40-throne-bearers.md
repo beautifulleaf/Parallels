@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angels who bear the Throne and those around it glorify God and
-    ask forgiveness for the believers, praying they and their righteous kin enter Eden (weight 6.7). Pair
-    score 6.7.'
+    ask forgiveness for the believers, praying they and their righteous kin enter Eden (weight 7.7). Pair
+    score 7.7.'
   basis: reading
-- text: 'Only in First night vision, the horsemen among the myrtles: The angel of YHWH intercedes: ''How
-    long will you not have mercy on Jerusalem?''; A man on a red horse stands among the myrtles in the
-    deep (metsulah), with horses behind him; A prophet sees a series of night visions, each explained
-    by an angel; Months are dated by their Babylonian names (Shevat, Kislev); Horses of different colors
-    (red, sorrel, white, black, dappled) are sent out by God through the earth; A measuring line will
-    be stretched over Jerusalem for rebuilding; ''The angel who talked with me'' (ha-malakh ha-dover bi)
-    explains the visions to the prophet; A heavenly being reports he has been roaming to and fro on the
-    earth; Lament cry ''How long, YHWH?'' (ad matai / ad anah); God is a jealous God; The exile lasts
-    seventy years as Jeremiah prophesied.'
+- text: 'Only in First night vision, the horsemen among the myrtles: A man on a red horse stands among
+    the myrtles in the deep (metsulah), with horses behind him; A prophet sees a series of night visions,
+    each explained by an angel; The angel of YHWH intercedes: ''How long will you not have mercy on Jerusalem?'';
+    Months are dated by their Babylonian names (Shevat, Kislev); Horses of different colors (red, sorrel,
+    white, black, dappled) are sent out by God through the earth; ''The angel who talked with me'' (ha-malakh
+    ha-dover bi) explains the visions to the prophet; A measuring line will be stretched over Jerusalem
+    for rebuilding; A heavenly being reports he has been roaming to and fro on the earth; God is a jealous
+    God; The exile lasts seventy years as Jeremiah prophesied; Lament cry ''How long, YHWH?'' (ad matai
+    / ad anah).'
   basis: reading
 - text: 'Only in Ha-Mim: the Forgiver; the throne-bearers pray for the believers: The damned say ''Lord,
     you caused us to die twice and gave us life twice; we confess our sins; is there a way out?''; The
@@ -40,11 +40,11 @@ evidence:
     casts the Spirit (al-ruh) of his command upon whom he wills of his servants to warn of the Day of
     Meeting; The beings that carry God''s throne, and what they do [divergence between the texts]; God
     knows the treachery of the eyes and what the breasts conceal; In terror eyes swerve and hearts reach
-    the throats; Humans were dead, given life, will die and be given life again (two deaths, two lives);
-    On the Day God asks ''Whose is the kingdom today?'' and answers ''God''s, the One, the Overpowering'';
-    Four living creatures (hayyot) of human form bear the divine throne; Formula: ''gracious and merciful,
-    slow to anger, abounding in steadfast love, relenting of evil''; Travel in the land and see the end
-    of those who denied; and 1 more.'
+    the throats; The heavenly host speak for a human before the high god and ask his forgiveness; Humans
+    were dead, given life, will die and be given life again (two deaths, two lives); On the Day God asks
+    ''Whose is the kingdom today?'' and answers ''God''s, the One, the Overpowering''; Four living creatures
+    (hayyot) of human form bear the divine throne; Formula: ''gracious and merciful, slow to anger, abounding
+    in steadfast love, relenting of evil''; and 2 more.'
   basis: reading
 - text: 'First night vision, the horsemen among the myrtles: tagged by Claude (model), reading the Hebrew.'
   basis: reading

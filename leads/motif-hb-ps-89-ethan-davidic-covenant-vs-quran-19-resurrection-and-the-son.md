@@ -19,20 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They say ''al-Rahman has taken a son''; it is not fitting for the
-    Merciful [response between the texts] (weight 6.3). Pair score 6.3.'
+    Merciful [response between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 89, Ethan''s hymn of the divine council, Rahab crushed, and the broken Davidic
-    covenant: God is feared in the council (sod) and assembly (qahal) of the holy ones; none among the
-    sons of gods (bene elim) compares; The king calls God ''my father'' and God makes him firstborn, highest
-    of the kings of earth; God sets the king''s hand on the Sea and his right hand on the Rivers; The
-    dynasty will be established like the moon, a faithful witness in the sky; Lament that God has spurned
-    his anointed, defiled his crown and cast his throne to the ground; If the king''s sons sin they will
-    be punished with the rod, but God''s love will not be withdrawn; God created Zaphon (north) and Yamin
-    (south); Tabor and Hermon sing his name; Human life is short and fleeting (heled, a handbreadth, grass,
-    a sigh); God stills the roaring of the seas and the tumult of the peoples; Righteousness and justice
-    are the foundation of God''s throne; love and truth go before him; The king (or his name, dynasty,
-    throne) will endure as long as the sun and moon; What man can live and not see death, or deliver his
-    soul from the hand of Sheol?; and 15 more.'
+    covenant: The king calls God ''my father'' and God makes him firstborn, highest of the kings of earth;
+    God sets the king''s hand on the Sea and his right hand on the Rivers; The dynasty will be established
+    like the moon, a faithful witness in the sky; If the king''s sons sin they will be punished with the
+    rod, but God''s love will not be withdrawn; God created Zaphon (north) and Yamin (south); Tabor and
+    Hermon sing his name; God stills the roaring of the seas and the tumult of the peoples; Righteousness
+    and justice are the foundation of God''s throne; love and truth go before him; The king (or his name,
+    dynasty, throne) will endure as long as the sun and moon; If there were other gods they would seek
+    a way to the Lord of the Throne; God crushed Rahab like a corpse and scattered his enemies; Lament
+    that God has spurned his anointed, defiled his crown and cast his throne to the ground; God gives
+    strength to his king and exalts the horn of his anointed (messiah); and 15 more.'
   basis: reading
 - text: 'Only in Kneeling around hell, all will come to it; ''al-Rahman has taken a son'' (Surah 19:66-98):
     Everyone in the heavens and earth comes to the Merciful only as a servant; A denier boasts he will
@@ -44,7 +43,7 @@ evidence:
     out the one most insolent against the Merciful; Of the destroyed generations not one can be perceived
     nor a whisper heard; The pious are gathered to the Merciful as an honored delegation while the guilty
     are driven to hell like thirsty herds; God made the scripture easy in the prophet''s own tongue to
-    give good news and warn; and 11 more.'
+    give good news and warn; and 14 more.'
   basis: reading
 - text: 'Psalm 89, Ethan''s hymn of the divine council, Rahab crushed, and the broken Davidic covenant:
     tagged by Claude (model), reading the Hebrew.'

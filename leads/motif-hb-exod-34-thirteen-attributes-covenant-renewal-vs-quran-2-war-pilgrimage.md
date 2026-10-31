@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How often and when pilgrimage is made [divergence between the texts]
-    (weight 6.3); Three annual pilgrimage festivals when every male appears before God (weight 5.3). Pair
-    score 11.6.'
+    (weight 7.3); Three annual pilgrimage festivals when every male appears before God (weight 6.4). Pair
+    score 13.7.'
   basis: reading
 - text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
     covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
     time; Call to the People of the Book to a common word: worship none but God and take none as lords
     besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
     down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
-    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
-    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
-    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
-    a snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
-    appear before God empty-handed; and 20 more.'
+    neck is broken; God passes by and proclaims his name and attributes of mercy; Whether one person (kin,
+    descendants) bears another''s sin [contrast between the texts]; Do not offer sacrificial blood with
+    leavened bread; fat not left until morning; No one shall appear before God empty-handed; The prophet
+    intercedes for the people, arguing from God''s reputation; How far God''s mercy and his punishment
+    extend [divergence between the texts]; and 20 more.'
   basis: reading
 - text: 'Only in New moons, fighting and the pilgrimage rites: When you pour down from Arafat, remember
     God at the Sacred Monument (al-Mash''ar al-Haram); Take provision, but the best provision is God-consciousness
@@ -43,7 +43,7 @@ evidence:
     at the Sacred Mosque unless they fight you there; No sexual talk, wickedness or quarreling during
     the pilgrimage; Remember God as you remember your fathers, or more; The sacred month for the sacred
     month; violations are subject to retaliation; Do not shave heads until the sacrificial offering (hady)
-    reaches its place; and 9 more.'
+    reaches its place; and 11 more.'
   basis: reading
 - text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
     the Hebrew.'

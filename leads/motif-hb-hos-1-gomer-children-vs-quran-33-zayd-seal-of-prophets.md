@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After Zayd ends his marriage, God marries his former wife to the
-    prophet so believers may marry the ex-wives of adopted sons (weight 6.7). Pair score 6.7.'
+    prophet so believers may marry the ex-wives of adopted sons (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Hosea marries Gomer; the children Jezreel, Lo-ruhamah, Lo-ammi: God will avenge the blood
     of Jezreel on the house of Jehu; The prophet''s children receive symbolic names announcing judgment

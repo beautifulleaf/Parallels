@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idolaters assign to unknown gods a share of what God provided them
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Found by those who did not seek; rebels and servants: As one says of a grape cluster
     with juice ''Do not destroy it, there is blessing in it'', so God spares a remnant for his servants''
@@ -41,12 +41,12 @@ evidence:
     and he hides from people in shame; Burying a newborn daughter in the dust is condemned; Pure milk
     issues from cattle''s bellies from between dung and blood: a sign; Some are returned to the feeblest
     age (ardhal al-''umur), knowing nothing after knowledge; God reveals (awha) to the bee to build in
-    mountains, trees and trellises and follow his paths; At the judgment the girl buried alive (al-maw''uda)
+    mountains, trees and trellises and follow his paths; The bee, sent or inspired by the deity, goes
+    through the mountains [divergence between the texts]; At the judgment the girl buried alive (al-maw''uda)
     is asked for what sin she was killed; In distress, at sea or otherwise, people call on God alone,
-    then return to polytheism once rescued; From palms and vines people take an intoxicant (sakar) and
-    good provision; From the bee''s belly comes a drink of many colors in which is healing for people;
-    Punishment is delayed only because of a word that went before from God and an appointed term; and
-    1 more.'
+    then return to polytheism once rescued; A deity gives the bee an order: where to go and what to do
+    [divergence between the texts]; A drink said to contain healing for the sick: wine or honey [shared
+    matter] [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Found by those who did not seek; rebels and servants: tagged by Claude (model), reading the Hebrew.'
   basis: reading

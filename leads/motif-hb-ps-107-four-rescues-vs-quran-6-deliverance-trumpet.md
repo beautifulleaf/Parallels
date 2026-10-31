@@ -13,30 +13,31 @@ traditions:
 layers:
 - motif
 motifs:
-- sea-peril-sincere-prayer-then-ingratitude-as-divergence
 - storm-at-sea-stilled
+- sea-peril-sincere-prayer-then-ingratitude-as-divergence
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Sailors in a storm call on God sincerely, vow thanks, and transgress
-    once saved [divergence between the texts] (weight 6.3); God raises a storm that lifts ships to the
-    heavens and down to the deeps, then hushes it to a whisper and brings sailors to harbor (weight 6.3).
-    Pair score 12.6.'
+- text: 'Shared motifs, rarest first: God raises a storm that lifts ships to the heavens and down to the
+    deeps, then hushes it to a whisper and brings sailors to harbor (weight 7.3); Sailors in a storm call
+    on God sincerely, vow thanks, and transgress once saved [divergence between the texts] (weight 7.3).
+    Pair score 14.7.'
   basis: reading
 - text: 'Only in Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): God
     shatters doors of bronze and cuts through bars of iron; Thanksgiving liturgy for four groups rescued
     by God: desert wanderers, prisoners, the sick, seafarers; God ''sent his word and healed them'', the
-    word acting as an agent; God turns rivers into desert and fruitful land into salt waste, and desert
-    into pools of water; Storm-tossed sailors reel and stagger like drunkards and all their skill is swallowed
-    up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction and iron; Refrain:
-    ''Let them thank YHWH for his steadfast love and his wonders to the sons of man''; In distress, at
-    sea or otherwise, people call on God alone, then return to polytheism once rescued [divergence between
-    the texts]; God''s control of the wind over ships at sea: raising a storm or stilling it [divergence
-    between the texts]; God raises a storm that lifts ships to the heavens and down to the deeps, then
-    hushes it to a whisper and brings sailors to harbor [divergence between the texts]; God sends the
-    flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk and a few lote-trees;
-    Seafarers cry to God in a storm; what they do once rescued [divergence between the texts]; and 7 more.'
+    word acting as an agent; Storm-tossed sailors reel and stagger like drunkards and all their skill
+    is swallowed up; Prisoners sit in darkness and the shadow of death (tsalmavet), bound in affliction
+    and iron; Refrain: ''Let them thank YHWH for his steadfast love and his wonders to the sons of man'';
+    In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
+    [divergence between the texts]; God''s control of the wind over ships at sea: raising a storm or stilling
+    it [divergence between the texts]; God turns rivers into desert and fruitful land into salt waste,
+    and desert into pools of water; God raises a storm that lifts ships to the heavens and down to the
+    deeps, then hushes it to a whisper and brings sailors to harbor [divergence between the texts]; God
+    sends the flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk and a
+    few lote-trees; Seafarers cry to God in a storm; what they do once rescued [divergence between the
+    texts]; and 7 more.'
   basis: reading
 - text: 'Only in Rescue in the darkness of land and sea; the bewildered man; the trumpet: Parable: one
     lured by devils, bewildered in the land, while companions call him to guidance; God can send punishment
@@ -44,8 +45,8 @@ evidence:
     into mockery of God''s signs until they change the subject; The damned are given a drink of boiling
     water (hamim); ''He spoke and it came to be; he commanded and it stood firm''; Those who split their
     religion into sects, each party exulting in what it has; Each wrongdoer would ransom himself with
-    all that is on earth, if he could; Deity creates by spoken command (Let there be...); When harm touches
-    people they turn to God; when he gives them relief a party of them associates partners again; The
+    all that is on earth, if he could; When harm touches people they turn to God; when he gives them relief
+    a party of them associates partners again; Deity creates by spoken command (Let there be...); The
     trumpet (ṣūr) is blown and the dead are gathered.'
   basis: reading
 - text: 'Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): tagged by Claude

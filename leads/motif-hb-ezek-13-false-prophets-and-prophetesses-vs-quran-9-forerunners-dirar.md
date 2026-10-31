@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Parable: one who builds on the brink of a crumbling bank falls with
-    it into hell (weight 6.7). Pair score 6.7.'
+    it into hell (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Against the false prophets and the women who hunt souls: False prophets will not be in
     the council of God''s people nor written in the register of the house of Israel; The prophets of Israel
@@ -27,13 +27,13 @@ evidence:
     False prophets mislead the people saying ''Peace'' when there is no peace; The true prophet''s task
     is to go up into the breaches and build a wall for the people on the day of battle; false prophets
     did not; God tears off the magic bands and lets the trapped souls go free ''like birds'' (leporhot);
-    Women prophetesses sew bands (kesatot) on wrists and make veils (mispahot) for heads to hunt souls,
-    killing and keeping alive by magic; Kings or people practice divination (qesem) and augury (nihush);
     None more wrong than one who falsely claims revelation or says he can send down the like of God''s;
     Whether a prophet takes payment for his message [contrast between the texts]; False prophets daub
-    a flimsy wall with whitewash (tafel); God''s storm, flood-rain and hailstones bring it down; Refuge
-    from the evil of those (women) who blow on knots (al-naffathat fi al-''uqad), i.e. knot-tying sorcery;
-    and 3 more.'
+    a flimsy wall with whitewash (tafel); God''s storm, flood-rain and hailstones bring it down; Women
+    prophetesses sew bands (kesatot) on wrists and make veils (mispahot) for heads to hunt souls, killing
+    and keeping alive by magic; Kings or people practice divination (qesem) and augury (nihush); False
+    prophets prophesy ''from their own heart'', following their own spirit, having seen nothing; and 3
+    more.'
   basis: reading
 - text: 'Only in The forerunners, alms that purify, and the mosque of harm: The first forerunners (al-sabiqun
     al-awwalun) among emigrants and helpers: God is pleased with them and they with him; Hardened hypocrites

@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The father''s eyesight fails [divergence between the texts] (weight
-    6.7); The father''s eyesight fails (weight 5.8). Pair score 12.5.'
+    7.7); The father''s eyesight fails (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Jacob adopts and blesses Ephraim and Manasseh: Blessing formula ''May God make you like
     X and Y'' coined by a patriarch; Children placed on or taken from the knees of a patriarch as an adoption
     gesture; Grandfather adopts two grandsons as his own sons, equal to his firstborn; Blessing that descendants
     teem like fish; The angel who redeemed the patriarch from all evil is invoked to bless; Patriarch
-    bequeaths a portion (shekhem) he took from the Amorites with sword and bow; The younger son is preferred
-    over the elder in blessing or destiny; Grandfather crosses his hands to bless the younger first; A
-    dying father gathers his sons to bless them and foretell their destinies; Whether an adopted or fostered
-    child counts as one''s own child [contrast between the texts]; God called the patriarch''s shepherd
-    all his life.'
+    bequeaths a portion (shekhem) he took from the Amorites with sword and bow; Grandfather crosses his
+    hands to bless the younger first; The younger son is preferred over the elder in blessing or destiny;
+    A dying father gathers his sons to bless them and foretell their destinies; Whether an adopted or
+    fostered child counts as one''s own child [contrast between the texts]; God called the patriarch''s
+    shepherd all his life.'
   basis: reading
 - text: 'Only in Joseph and his brothers (Surah 12, full read): Brothers tell their father to ask the
     town and the caravan to confirm their story; Brothers claim the accused youth''s absent brother (the
@@ -41,7 +41,7 @@ evidence:
     door; The bereaved father answers with ''beautiful patience'' (sabr jamil) and reliance on God; The
     hero could not have kept his brother under the king''s law, so a stratagem is needed; The hero declares
     he follows the religion of his fathers Abraham, Isaac and Jacob; A camel-load is promised to whoever
-    brings back the missing royal cup, with a guarantor; and 107 more.'
+    brings back the missing royal cup, with a guarantor; and 145 more.'
   basis: reading
 - text: 'Jacob adopts and blesses Ephraim and Manasseh: tagged by Claude (model), reading the Hebrew.'
   basis: reading

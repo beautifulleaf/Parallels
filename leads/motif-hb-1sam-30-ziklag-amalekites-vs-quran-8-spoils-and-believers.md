@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Returning warriors divide the spoil with their brothers at home
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Amalekites burn Ziklag; David recovers all and makes the spoil law: A sick slave abandoned
     by the raiders is revived with food and guides the hero to them; The hero recovers every captive and
@@ -32,8 +32,9 @@ evidence:
   basis: reading
 - text: 'Only in The question of spoils and the marks of true believers: True believers'' hearts tremble
     when God is mentioned and their faith grows when his verses are recited; The spoils of war (anfal)
-    belong to God and the messenger; God''s share of the spoils of war [divergence between the texts];
-    Those who tremble at God''s word (haredim) gather to the leader.'
+    belong to God and the messenger; Who owns the booty taken in battle [contrast between the texts];
+    God''s share of the spoils of war [divergence between the texts]; Those who tremble at God''s word
+    (haredim) gather to the leader.'
   basis: reading
 - text: 'Amalekites burn Ziklag; David recovers all and makes the spoil law: tagged by Claude (model),
     reading the Hebrew.'

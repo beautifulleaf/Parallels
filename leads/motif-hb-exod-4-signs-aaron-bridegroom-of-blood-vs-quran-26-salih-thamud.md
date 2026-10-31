@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How a people responds to a sign given to prove the messenger [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
     of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
-    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
-    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
-    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
-    man; The hero carries ''the staff of God'' with which he performs signs; The prophet asks that his
-    brother be made his helper (wazīr) and partner in his mission [divergence between the texts]; What
-    Moses demands of Pharaoh in God''s name [divergence between the texts]; God taught humankind by the
-    pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him
-    [divergence between the texts]; and 18 more.'
+    and seeks to kill him; The people believe the prophet''s signs and bow in worship; Hero may return
+    home because those seeking his life are dead; Wife cuts off her son''s foreskin with a flint and touches
+    it to the threatened man; The hero carries ''the staff of God'' with which he performs signs; The
+    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
+    the texts]; What Moses demands of Pharaoh in God''s name [divergence between the texts]; God claims
+    to make the mouth, the mute, the deaf, the seeing and the blind; God taught humankind by the pen (qalam)
+    what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence
+    between the texts]; and 18 more.'
   basis: reading
 - text: 'Only in Salih, the rock-hewn houses of Thamud and the she-camel: The people say the prophet is
     one of the bewitched and a mere human like them, and demand a sign; The prophet Ṣāliḥ is sent to the

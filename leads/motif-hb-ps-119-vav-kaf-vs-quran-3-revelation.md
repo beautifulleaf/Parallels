@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God formed the kidneys and wove (knit) the speaker in his mother''s
-    womb (weight 5.8). Pair score 5.8.'
+    womb (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas vav to kaf: ''It is good for me that I was afflicted, so that I might
     learn your statutes''; The arrogant have hearts gross (unfeeling) as fat; Speaker has become like
@@ -28,15 +28,17 @@ evidence:
     fine gold; Psalm in 22 stanzas of eight lines, every line of a stanza beginning with the same letter,
     each line naming the Torah; God is the speaker''s portion (heleq) forever, more than anything in heaven
     or earth; Speaker rises at midnight to give thanks to God; The believers'' sides forsake their beds
-    as they call on their Lord in fear and hope (night vigil); Lifting the hands (palms) in prayer or
-    blessing; God''s commandments or Torah are the speaker''s delight (sha''ashu''im); and 1 more.'
+    as they call on their Lord in fear and hope (night vigil); God''s commandments or Torah are the speaker''s
+    delight (sha''ashu''im); Those who dig a pit or spread a net for the righteous fall into it themselves;
+    and 1 more.'
   basis: reading
 - text: 'Only in Torah, Gospel and the clear and ambiguous verses: Scripture has decisive verses (muhkamat),
     the mother of the book, and ambiguous ones (mutashabihat) whose interpretation God knows; God shapes
-    you in the wombs as he wills; God sent down the Torah (al-Tawrat) and the Gospel (al-Injil) before
-    as guidance; Israel''s God is called ''the living God, enduring forever, whose kingdom shall never
-    be destroyed''; God is king or master of the Day of Judgment (yawm al-din); Prayer that God not turn
-    (incline) the petitioner''s heart aside, but toward his way; God the Ever-Living, the Self-Subsisting
+    you in the wombs as he wills; The god''s holy word is known to those who know it and unknown to those
+    who do not; who can find out his intentions?; God sent down the Torah (al-Tawrat) and the Gospel (al-Injil)
+    before as guidance; Israel''s God is called ''the living God, enduring forever, whose kingdom shall
+    never be destroyed''; God is king or master of the Day of Judgment (yawm al-din); Prayer that God
+    not turn (incline) the petitioner''s heart aside, but toward his way; God the Ever-Living, the Self-Subsisting
     (al-hayy al-qayyum); The secret things belong to God; the revealed things to us and our children;
     A surah opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
   basis: reading

@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why God chose Israel: love, or knowledge and testing [divergence
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Dispossession of the seven nations; Israel the treasured people: God chose Israel not
     for their numbers, being the fewest of peoples, but from love; Silver and gold on idols must not be
-    taken; it is abomination and herem; Obedience brings fertility: none barren among people or cattle;
-    Enemies driven out little by little lest wild beasts multiply; If the people keep God''s covenant,
-    God keeps his covenant with them; The evil diseases of Egypt removed from the obedient or brought
-    on the disobedient; God sends the hornet to drive out the inhabitants; Ban on marrying outside the
-    community and its criterion [divergence between the texts]; List of the seven nations of Canaan to
-    be dispossessed; God visits the fathers'' sin on the third and fourth generation, but keeps steadfast
-    love for thousands; Prohibition of intermarriage with the peoples of the land lest they turn sons
-    to other gods; Israel chosen as God''s treasured people (am segullah) out of all peoples; and 2 more.'
+    taken; it is abomination and herem; Enemies driven out little by little lest wild beasts multiply;
+    If the people keep God''s covenant, God keeps his covenant with them; Obedience brings fertility:
+    none barren among people or cattle; God sends the hornet to drive out the inhabitants; Ban on marrying
+    outside the community and its criterion [divergence between the texts]; List of the seven nations
+    of Canaan to be dispossessed; The evil diseases of Egypt removed from the obedient or brought on the
+    disobedient; Prohibition of intermarriage with the peoples of the land lest they turn sons to other
+    gods; God visits the fathers'' sin on the third and fourth generation, but keeps steadfast love for
+    thousands; Command to smash altars, standing stones and Asherah poles and burn idols; and 2 more.'
   basis: reading
 - text: 'Only in Moses asks Pharaoh to hand over God''s servants; the sea left parted; heaven did not
     weep: The drowned Egyptians left gardens, springs, crops and noble dwellings, which God gave another
@@ -38,11 +38,11 @@ evidence:
     the sea parted and still (rahwan), for Pharaoh''s host will be drowned; What Moses demands of Pharaoh
     in God''s name [divergence between the texts]; Sacrificial meal eaten in haste, loins girded, sandals
     on, staff in hand; Who, if anyone, inherits Egypt''s land after the exodus [divergence between the
-    texts]; God chose the Children of Israel, knowingly, above the worlds and tested them with signs;
-    What Moses does with the sea after the crossing [divergence between the texts]; How Israel leaves
-    Egypt by night: expelled, or secretly [divergence between the texts]; The prophet seeks refuge in
-    God from being stoned by his people; Whether heaven and earth mourn a destroyed people [contrast between
-    the texts]; Prophet delivers God''s demand ''Let my people go that they may serve me''; and 2 more.'
+    texts]; Whether heaven and earth mourn a destroyed people; God chose the Children of Israel, knowingly,
+    above the worlds and tested them with signs; What Moses does with the sea after the crossing [divergence
+    between the texts]; How Israel leaves Egypt by night: expelled, or secretly [divergence between the
+    texts]; A city, or heaven and earth, weeps (or does not weep) over a people in disaster [divergence
+    between the texts]; The prophet seeks refuge in God from being stoned by his people; and 5 more.'
   basis: reading
 - text: 'Dispossession of the seven nations; Israel the treasured people: tagged by Claude (model), reading
     the Hebrew.'

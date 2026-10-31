@@ -22,9 +22,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth is shaken violently and the mountains crumbled into scattered
-    dust (haba'') (weight 6.7); Hymn of reversals: the barren bears seven, the mighty broken, the poor
-    raised from the dung-heap (weight 6.0); God is judge: he puts down one and lifts up another (weight
-    5.8). Pair score 18.5.'
+    dust (haba'') (weight 7.7); Hymn of reversals: the barren bears seven, the mighty broken, the poor
+    raised from the dung-heap (weight 7.1); God is judge: he puts down one and lifts up another (weight
+    6.1). Pair score 20.9.'
   basis: reading
 - text: 'Only in Psalm 75, I set firm its pillars; the cup in YHWH''s hand: God declares ''When I seize
     the appointed time (mo''ed) I will judge with equity''; God is king or master of the Day of Judgment
@@ -41,10 +41,10 @@ evidence:
     ''Peace, peace''; The Companions of the Right are among thornless lote trees (sidr makhdud) and layered
     talh (acacia/banana) with extended shade and poured water; Humanity sorted into three classes: Companions
     of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; Bird-meat as desired
-    food: punished or granted [contrast between the texts]; Whether any fruit in the Garden is forbidden
+    food: punished or granted [contrast between the texts]; Young servers go round with a variety of vessels
+    serving a mixed drink [divergence between the texts]; Whether any fruit in the Garden is forbidden
     [contrast between the texts]; Abundant fruit in paradise, neither cut off (seasonless) nor forbidden;
-    Into how many groups humankind is sorted at the end [divergence between the texts]; Paradise drink
-    from which they suffer no headache nor intoxication; and 9 more.'
+    Into how many groups humankind is sorted at the end [divergence between the texts]; and 10 more.'
   basis: reading
 - text: 'Psalm 75, I set firm its pillars; the cup in YHWH''s hand: tagged by Claude (model), reading
     the Hebrew.'

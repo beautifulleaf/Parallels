@@ -12,18 +12,18 @@ traditions:
 layers:
 - motif
 motifs:
-- davids-weapons-in-temple
 - crown-and-testimony-coronation
-- priest-led-coup
+- davids-weapons-in-temple
 - baal-temple-destroyed-priest-killed
+- priest-led-coup
 - long-live-the-king-acclamation
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: King David''s spears and shields kept in the temple are issued to
-    the guards (weight 6.7); Coronation in which the king receives the crown (nezer) and the ''testimony''
-    (edut) (weight 6.7); A priest organizes the guards to overthrow a ruler and enthrone the hidden heir
-    (weight 6.7); The temple of Baal is torn down and its priest slain before the altars (weight 6.7);
-    People acclaim ''Long live the king!'' (weight 5.8). Pair score 32.5.'
+- text: 'Shared motifs, rarest first: Coronation in which the king receives the crown (nezer) and the
+    ''testimony'' (edut) (weight 7.7); King David''s spears and shields kept in the temple are issued
+    to the guards (weight 7.7); The temple of Baal is torn down and its priest slain before the altars
+    (weight 7.7); A priest organizes the guards to overthrow a ruler and enthrone the hidden heir (weight
+    7.7); People acclaim ''Long live the king!'' (weight 6.6). Pair score 37.6.'
   basis: reading
 - text: 'Only in Athaliah''s usurpation and the hidden prince Joash: Deposed ruler tears her/his garments
     crying ''Conspiracy, conspiracy!'' or ''Treason!''; A condemned person is taken out so as not to be
@@ -48,7 +48,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: King David's spears and shields kept in the temple are issued to the guards
+finding: Coronation in which the king receives the crown (nezer) and the 'testimony' (edut)
 kinds:
 - shared
 units:
@@ -59,21 +59,6 @@ units:
   title: Jehoiada's coup with the Levites; Joash crowned, Athaliah killed, Baal temple destroyed
   tradition: judaism
 matches:
-- kind: shared
-  label: King David's spears and shields kept in the temple are issued to the guards
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 11:10
-      lang: he
-      text: וַיִּתֵּ֨ן הַכֹּהֵ֜ן לְשָׂרֵ֣י המאיות הַמֵּא֗וֹת אֶֽת הַחֲנִית֙ וְאֶת הַשְּׁלָטִ֔ים אֲשֶׁ֖ר
-        לַמֶּ֣לֶךְ דָּוִ֑ד אֲשֶׁ֖ר בְּבֵ֥ית יְהוָֽה
-  - tradition: judaism
-    passages:
-    - ref: 2Chr 23:9
-      lang: he
-      text: וַיִּתֵּן֩ יְהוֹיָדָ֨ע הַכֹּהֵ֜ן לְשָׂרֵ֣י הַמֵּא֗וֹת אֶת הַֽחֲנִיתִים֙ וְאֶת הַמָּגִנּוֹת֙
-        וְאֶת הַשְּׁלָטִ֔ים אֲשֶׁ֖ר לַמֶּ֣לֶךְ דָּוִ֑יד אֲשֶׁ֖ר בֵּ֥ית הָאֱלֹהִֽים
 - kind: shared
   label: Coronation in which the king receives the crown (nezer) and the 'testimony' (edut)
   sides:
@@ -90,6 +75,39 @@ matches:
       text: וַיּוֹצִ֣יאוּ אֶת בֶּן הַמֶּ֗לֶךְ וַיִּתְּנ֤וּ עָלָיו֙ אֶת הַנֵּ֨זֶר֙ וְאֶת הָ֣עֵד֔וּת וַיַּמְלִ֖יכוּ
         אֹת֑וֹ וַיִּמְשָׁחֻ֨הוּ֙ יְהוֹיָדָ֣ע וּבָנָ֔יו וַיֹּאמְר֖וּ יְחִ֥י הַמֶּֽלֶךְ
     note: 'ha-nezer ve-ha-edut: crown and the ''testimony'' (document) placed on the boy'
+- kind: shared
+  label: King David's spears and shields kept in the temple are issued to the guards
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 11:10
+      lang: he
+      text: וַיִּתֵּ֨ן הַכֹּהֵ֜ן לְשָׂרֵ֣י המאיות הַמֵּא֗וֹת אֶֽת הַחֲנִית֙ וְאֶת הַשְּׁלָטִ֔ים אֲשֶׁ֖ר
+        לַמֶּ֣לֶךְ דָּוִ֑ד אֲשֶׁ֖ר בְּבֵ֥ית יְהוָֽה
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 23:9
+      lang: he
+      text: וַיִּתֵּן֩ יְהוֹיָדָ֨ע הַכֹּהֵ֜ן לְשָׂרֵ֣י הַמֵּא֗וֹת אֶת הַֽחֲנִיתִים֙ וְאֶת הַמָּגִנּוֹת֙
+        וְאֶת הַשְּׁלָטִ֔ים אֲשֶׁ֖ר לַמֶּ֣לֶךְ דָּוִ֑יד אֲשֶׁ֖ר בֵּ֥ית הָאֱלֹהִֽים
+- kind: shared
+  label: The temple of Baal is torn down and its priest slain before the altars
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 11:18
+      lang: he
+      text: וַיָּבֹ֣אוּ כָל עַם֩ הָאָ֨רֶץ בֵּית הַבַּ֜עַל וַֽיִּתְּצֻ֗הוּ אֶת מזבחתו מִזְבְּחֹתָ֤יו וְאֶת
+        צְלָמָיו֙ שִׁבְּר֣וּ הֵיטֵ֔ב וְאֵ֗ת מַתָּן֙ כֹּהֵ֣ן הַבַּ֔עַל הָרְג֖וּ לִפְנֵ֣י הַֽמִּזְבְּח֑וֹת
+        וַיָּ֧שֶׂם הַכֹּהֵ֛ן פְּקֻדּ֖וֹת עַל בֵּ֥ית יְהוָֽה
+    note: Mattan priest of Baal
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 23:17
+      lang: he
+      text: וַיָּבֹ֨אוּ כָל הָעָ֤ם בֵּית הַבַּ֨עַל֙ וַֽיִּתְּצֻ֔הוּ וְאֶת מִזְבְּחֹתָ֥יו וְאֶת צְלָמָ֖יו
+        שִׁבֵּ֑רוּ וְאֵ֗ת מַתָּן֙ כֹּהֵ֣ן הַבַּ֔עַל הָרְג֖וּ לִפְנֵ֥י הַֽמִּזְבְּחֽוֹת
+    note: Mattan priest of Baal killed before the altars
 - kind: shared
   label: A priest organizes the guards to overthrow a ruler and enthrone the hidden heir
   sides:
@@ -121,24 +139,6 @@ matches:
       lang: he
       text: וַיִּכְרֹ֨ת כָּל הַקָּהָ֥ל בְּרִ֛ית בְּבֵ֥ית הָאֱלֹהִ֖ים עִם הַמֶּ֑לֶךְ וַיֹּ֣אמֶר לָהֶ֗ם
         הִנֵּ֤ה בֶן הַמֶּ֨לֶךְ֙ יִמְלֹ֔ךְ כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה עַל בְּנֵ֥י דָוִֽיד
-- kind: shared
-  label: The temple of Baal is torn down and its priest slain before the altars
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: 2Kgs 11:18
-      lang: he
-      text: וַיָּבֹ֣אוּ כָל עַם֩ הָאָ֨רֶץ בֵּית הַבַּ֜עַל וַֽיִּתְּצֻ֗הוּ אֶת מזבחתו מִזְבְּחֹתָ֤יו וְאֶת
-        צְלָמָיו֙ שִׁבְּר֣וּ הֵיטֵ֔ב וְאֵ֗ת מַתָּן֙ כֹּהֵ֣ן הַבַּ֔עַל הָרְג֖וּ לִפְנֵ֣י הַֽמִּזְבְּח֑וֹת
-        וַיָּ֧שֶׂם הַכֹּהֵ֛ן פְּקֻדּ֖וֹת עַל בֵּ֥ית יְהוָֽה
-    note: Mattan priest of Baal
-  - tradition: judaism
-    passages:
-    - ref: 2Chr 23:17
-      lang: he
-      text: וַיָּבֹ֨אוּ כָל הָעָ֤ם בֵּית הַבַּ֨עַל֙ וַֽיִּתְּצֻ֔הוּ וְאֶת מִזְבְּחֹתָ֥יו וְאֶת צְלָמָ֖יו
-        שִׁבֵּ֑רוּ וְאֵ֗ת מַתָּן֙ כֹּהֵ֣ן הַבַּ֔עַל הָרְג֖וּ לִפְנֵ֥י הַֽמִּזְבְּחֽוֹת
-    note: Mattan priest of Baal killed before the altars
 - kind: shared
   label: People acclaim 'Long live the king!'
   sides:

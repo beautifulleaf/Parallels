@@ -19,21 +19,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Entering hell, a crowd is greeted by those already there with ''No
-    welcome to them!'' and they retort in kind (weight 6.7). Pair score 6.7.'
+    welcome to them!'' and they retort in kind (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn): The
-    proud one plans to ascend to heaven, raise his throne above the stars of El and make himself like
-    Elyon; Reversal: Israel will take captive those who captured them and rule over their oppressors;
-    The would-be god is brought down instead to Sheol, to the recesses of the pit (yarkete bor); Strangers
-    (gerim) will join themselves to Israel and cleave to the house of Jacob; ''How you have fallen from
-    heaven, Helel son of Shahar (Shining One, son of Dawn)!'' - a star-figure cast down to earth; In the
-    underworld maggots are spread beneath the dead king and worms are his covering; The mount of assembly
-    (har mo''ed) in the recesses of the north (yarkete tsafon), seat of the gods; God cuts off from the
-    enemy ''name and remnant, offspring and posterity''; Sheol below is stirred to meet the arriving tyrant;
-    the shades and dead kings rise from their thrones to greet him: ''you too have become weak like us'';
-    God sweeps the city with the broom of destruction, leaving it to hedgehogs and marshes; Mocking dirge
-    (mashal) over a fallen tyrant: ''How the oppressor has ceased!''; The cypresses and cedars of Lebanon
-    rejoice that no woodcutter comes up since the tyrant fell; and 8 more.'
+- text: 'Only in Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn): Reversal:
+    Israel will take captive those who captured them and rule over their oppressors; The would-be god
+    is brought down instead to Sheol, to the recesses of the pit (yarkete bor); Strangers (gerim) will
+    join themselves to Israel and cleave to the house of Jacob; ''How you have fallen from heaven, Helel
+    son of Shahar (Shining One, son of Dawn)!'' - a star-figure cast down to earth; In the underworld
+    maggots are spread beneath the dead king and worms are his covering; God cuts off from the enemy ''name
+    and remnant, offspring and posterity''; God sweeps the city with the broom of destruction, leaving
+    it to hedgehogs and marshes; Mocking dirge (mashal) over a fallen tyrant: ''How the oppressor has
+    ceased!''; The cypresses and cedars of Lebanon rejoice that no woodcutter comes up since the tyrant
+    fell; Abraham disputes with a king, who claims ''I give life and death''; The damned man is taunted:
+    ''Taste! You are the mighty, the noble!''; The fallen king is cast out of his grave like a loathed
+    branch, unburied among the slain, while other kings lie in honor; and 8 more.'
   basis: reading
 - text: 'Only in The chosen patriarchs; the Gardens of Eden and the quarrel of the damned: The damned
     ask ''Why do we not see men we counted among the wicked, whom we mocked?''; The prophet had no knowledge

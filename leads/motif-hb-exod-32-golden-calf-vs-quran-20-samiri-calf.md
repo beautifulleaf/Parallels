@@ -16,19 +16,19 @@ motifs:
 - calf-proclaimed-as-god-of-exodus-as-divergence
 - moses-hastens-ahead-of-people-as-divergence
 - aaron-opposes-calf-as-divergence
-- calf-proclaimed-as-god-of-exodus
 - golden-calf-made-from-earrings
+- calf-proclaimed-as-god-of-exodus
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man called al-Sāmirī leads Israel astray and makes the calf [divergence
-    between the texts] (weight 6.7); The calf is hailed as the god who brought Israel out of Egypt [divergence
-    between the texts] (weight 6.7); God asks Moses why he hastened ahead of his people to the appointment
-    [divergence between the texts] (weight 6.7); Aaron warns the people against the calf; they refuse
-    to stop until Moses returns [divergence between the texts] (weight 6.3); The calf is hailed as the
-    god who brought Israel out of Egypt (weight 6.3); A golden calf is made from the people''s gold earrings
-    (weight 6.3). Pair score 38.9.'
+    between the texts] (weight 7.7); The calf is hailed as the god who brought Israel out of Egypt [divergence
+    between the texts] (weight 7.7); God asks Moses why he hastened ahead of his people to the appointment
+    [divergence between the texts] (weight 7.7); Aaron warns the people against the calf; they refuse
+    to stop until Moses returns [divergence between the texts] (weight 7.3); A golden calf is made from
+    the people''s gold earrings (weight 7.3); The calf is hailed as the god who brought Israel out of
+    Egypt (weight 7.3). Pair score 45.3.'
   basis: reading
 - text: 'Only in The golden calf: Aaron builds an altar before the calf and proclaims a feast to YHWH;
     Intercessor reminds God of his oath to Abraham, Isaac and Jacob; The people eat, drink and rise up
@@ -42,15 +42,15 @@ evidence:
   basis: reading
 - text: 'Only in Moses hastens to the appointment; the Samiri and the calf: Aaron explains he feared being
     blamed for dividing the children of Israel; Aaron warns the people against the calf; they refuse to
-    stop until Moses returns; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
-    is condemned to say all his life ''No touching!'' (lā misās), an outcast; The calf-maker took a handful
-    (of dust) from the track of the messenger and cast it in; God asks Moses why he hastened ahead of
-    his people to the appointment; In anger Moses seizes his brother by the beard and head; Aaron pleads
-    ''son of my mother''; Calf burned, ground to dust, and the dust thrown into the stream; Calf burned,
-    ground to dust, and the dust thrown into the stream [divergence between the texts]; The calf-maker
+    stop until Moses returns; The calf-maker is condemned to say all his life ''No touching!'' (lā misās),
+    an outcast; The calf-maker took a handful (of dust) from the track of the messenger and cast it in;
+    God asks Moses why he hastened ahead of his people to the appointment; In anger Moses seizes his brother
+    by the beard and head; Aaron pleads ''son of my mother''; Calf burned, ground to dust, and the dust
+    thrown into the stream; Calf burned, ground to dust, and the dust thrown into the stream [divergence
+    between the texts]; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
     is condemned to say all his life ''No touching!'' (lā misās), an outcast [divergence between the texts];
-    In anger Moses seizes his brother by the beard and head; Aaron pleads ''son of my mother'' [divergence
-    between the texts]; A man called al-Sāmirī leads Israel astray and makes the calf; and 4 more.'
+    A sorcerer takes the dirt of someone''s footprint for a magical act; A sorcerer takes the dirt of
+    someone''s footprint for a magical act [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'The golden calf: tagged by Claude (model), reading the Hebrew.'
   basis: reading

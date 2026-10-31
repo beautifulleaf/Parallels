@@ -13,28 +13,28 @@ traditions:
 layers:
 - motif
 motifs:
-- life-extended-fifteen-years
 - life-extended-fifteen-years-as-contrast
+- life-extended-fifteen-years
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: In answer to prayer God adds fifteen years to the king''s life (weight
-    6.3); In answer to prayer God adds fifteen years to the king''s life [contrast between the texts]
-    (weight 6.3). Pair score 12.6.'
+- text: 'Shared motifs, rarest first: In answer to prayer God adds fifteen years to the king''s life [contrast
+    between the texts] (weight 7.3); In answer to prayer God adds fifteen years to the king''s life (weight
+    7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in Hezekiah''s illness, the shadow on the steps of Ahaz, and Hezekiah''s psalm: Speaker
     laments that in the noon of his days he must go to the gates of Sheol, deprived of the rest of his
     years; A psalm-like ''writing'' (mikhtav) of the king composed when he was sick and recovered; My
     dwelling is pulled up like a shepherd''s tent; I have rolled up my life like a weaver, he cuts me
-    off from the loom; In distress the sufferer chirps like a swift or crane and moans like a dove; God
-    has cast all the speaker''s sins behind his back and held back his soul from the pit of destruction;
-    The dead cannot praise God: no wonders for the dead, no hesed in the grave, no faithfulness in Abaddon;
-    A dying person''s plea to God for more life, and God''s answer [contrast between the texts]; A cake
-    of figs laid on a boil heals the king; Given a choice of signs, the king picks the harder (shadow
-    going backward); Prophet tells the sick king ''Set your house in order, for you shall die''; Dying
-    man turns his face to the wall and prays, weeping; On that day neither wealth nor sons avail, only
-    one who comes to God with a sound heart; and 4 more.'
+    off from the loom; God has cast all the speaker''s sins behind his back and held back his soul from
+    the pit of destruction; The dead cannot praise God: no wonders for the dead, no hesed in the grave,
+    no faithfulness in Abaddon; A dying person''s plea to God for more life, and God''s answer [contrast
+    between the texts]; A cake of figs laid on a boil heals the king; Given a choice of signs, the king
+    picks the harder (shadow going backward); Prophet tells the sick king ''Set your house in order, for
+    you shall die''; Dying man turns his face to the wall and prays, weeping; On that day neither wealth
+    nor sons avail, only one who comes to God with a sound heart; Bequest (wasiyya) to parents and kin
+    prescribed for one who leaves wealth; altering it is a sin; and 4 more.'
   basis: reading
 - text: 'Only in Al-Munafiqun: false testimony, propped-up timbers, ''the mightier will expel the meaner'',
     and the deathbed plea for delay: Spend before death comes and one says ''My Lord, if only you would

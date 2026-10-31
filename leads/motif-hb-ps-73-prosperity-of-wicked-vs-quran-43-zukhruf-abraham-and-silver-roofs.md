@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wealth of the wicked: a scandal to be explained, or worthless
-    enjoyment [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    enjoyment [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 73, Asaph on the prosperity of the wicked; afterward you will take me to glory:
     God will take (laqah) the righteous afterward into glory, beyond death; Speaker''s perplexity is resolved
@@ -27,10 +27,10 @@ evidence:
     heaven while their tongue struts through the earth; The wicked have no pangs at death; their bodies
     are sound and fat; The wicked vanish like a dream on waking; God despises their image (tselem); The
     wicked ask ''How does God know? Is there knowledge in the Most High?''; The speaker washes his hands
-    in innocence and processes around the altar; Speaker is troubled by the prosperity and ease of the
-    wicked (theodicy); God is the speaker''s portion (heleq) forever, more than anything in heaven or
-    earth; Seventh ancestor walks with God and is taken without dying; Heading assigns the psalm to a
-    Levitical singer or guild (Jeduthun, Asaph, sons of Korah, Heman, Ethan).'
+    in innocence and processes around the altar; God is the speaker''s portion (heleq) forever, more than
+    anything in heaven or earth; Speaker is troubled by the prosperity and ease of the wicked (theodicy);
+    Seventh ancestor walks with God and is taken without dying; Heading assigns the psalm to a Levitical
+    singer or guild (Jeduthun, Asaph, sons of Korah, Heman, Ethan).'
   basis: reading
 - text: 'Only in Abraham disowns his father''s worship; the great man of the two towns; silver roofs;
     the devil-companion: The damned wishes that between him and his companion lay ''the distance of the
@@ -38,13 +38,13 @@ evidence:
     roofs, stairways, doors, couches and gold ornament; Abraham declares to his father and people that
     he is free of what they worship, except the one who created him; How Abraham parts from his father
     and his father''s land or gods [divergence between the texts]; The people are told to choose this
-    day whom they will serve; God expands provision (rizq) for whom he wills and restricts it; Lying on
-    ivory beds eating lambs and calves, improvising on the harp like David, drinking wine from bowls and
-    anointing with finest oils; What is given in this life is passing enjoyment (mata''); what is with
-    God is better and more lasting; Opponents ask why the revelation was not sent down to some great man
-    of the two towns; Abraham''s confession is left as an enduring word among his descendants (''aqib);
-    Whoever turns from God''s remembrance is assigned a devil as constant companion (qarin), whom he curses
-    at the judgment; The prophet cannot make the dead or deaf hear, nor guide the blind; and 3 more.'
+    day whom they will serve; An evil spirit attached to a person is wished away to a vast, measured distance
+    [divergence between the texts]; God expands provision (rizq) for whom he wills and restricts it; A
+    dwelling built or roofed with silver and gold [divergence between the texts]; Lying on ivory beds
+    eating lambs and calves, improvising on the harp like David, drinking wine from bowls and anointing
+    with finest oils; What is given in this life is passing enjoyment (mata''); what is with God is better
+    and more lasting; Opponents ask why the revelation was not sent down to some great man of the two
+    towns; Abraham''s confession is left as an enduring word among his descendants (''aqib); and 5 more.'
   basis: reading
 - text: 'Psalm 73, Asaph on the prosperity of the wicked; afterward you will take me to glory: tagged
     by Claude (model), reading the Hebrew.'

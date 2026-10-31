@@ -18,24 +18,26 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Prohibition of coveting the neighbor''s wife and property (weight
-    5.8); Prohibitions of murder, adultery, theft and false witness (weight 5.1). Pair score 10.9.'
+    6.2); Prohibitions of murder, adultery, theft and false witness (weight 5.7). Pair score 11.9.'
   basis: reading
 - text: 'Only in Naboth''s vineyard: Commoner refuses to sell or trade his ancestral vineyard to the king:
-    ''God forbid I give you my fathers'' inheritance''; Thwarted king lies on his bed, turns his face
-    to the wall and refuses to eat; Queen writes letters in the king''s name, sealed with his seal, ordering
-    a judicial murder; A fast is proclaimed and two worthless men falsely testify that the victim ''blessed
-    (cursed) God and king''; Innocent victim is taken outside the city and stoned to death; King goes
-    home ''sullen and angry'' (sar ve-za''ef) after a prophet''s rebuke; Offender stoned to death by the
+    ''God forbid I give you my fathers'' inheritance''; Queen writes letters in the king''s name, sealed
+    with his seal, ordering a judicial murder; A fast is proclaimed and two worthless men falsely testify
+    that the victim ''blessed (cursed) God and king''; Innocent victim is taken outside the city and stoned
+    to death; King goes home ''sullen and angry'' (sar ve-za''ef) after a prophet''s rebuke; Thwarted
+    king lies on his bed, turns his face to the wall and refuses to eat; Offender stoned to death by the
     community.'
   basis: reading
 - text: 'Only in Wealth by consent, major sins, and discord in marriage: Command: do not kill yourselves
     (or one another); In marital discord an arbiter is sent from his family and one from hers; If the
     major sins (kabāʾir) are avoided, God expiates lesser misdeeds; Men are maintainers (qawwāmūn) of
     women by God''s preference and their spending; A wife whose rebellion (nushūz) is feared is admonished,
-    left alone in bed, then struck; Those bound to you by oath-alliance receive their share; Prohibition
-    of coveting the neighbor''s wife and property [divergence between the texts]; The ground of a husband''s
-    authority over his wife [divergence between the texts]; Do not consume one another''s wealth wrongfully
-    (bil-bāṭil), only by trade with mutual consent.'
+    left alone in bed, then struck; Those bound to you by oath-alliance receive their share; A partner
+    bound by contract or pact, not by blood, inherits a share; Prohibition of coveting the neighbor''s
+    wife and property [divergence between the texts]; The ground of a husband''s authority over his wife
+    [divergence between the texts]; How a man and woman who have become estranged are brought together
+    again [divergence between the texts]; Do not consume one another''s wealth wrongfully (bil-bāṭil),
+    only by trade with mutual consent; Do not covet; each has his own share (in the division among kin).'
   basis: reading
 - text: 'Naboth''s vineyard: tagged by Claude (model), reading the Hebrew.'
   basis: reading

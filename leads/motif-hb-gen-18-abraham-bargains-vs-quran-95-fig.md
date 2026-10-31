@@ -19,14 +19,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero challenges God: shall the judge of all the earth not do justice?
-    [divergence between the texts] (weight 6.7); Hero challenges God: shall the judge of all the earth
-    not do justice? (weight 6.0). Pair score 12.7.'
+    [divergence between the texts] (weight 7.7); Hero challenges God: shall the judge of all the earth
+    not do justice? (weight 6.8). Pair score 14.6.'
   basis: reading
-- text: 'Only in Abraham bargains for Sodom: God decides not to hide his plan from his chosen one; Abraham''s
-    plea when told that the city of Lot will be destroyed [divergence between the texts]; A city''s punishment
-    held back for the righteous within it [divergence between the texts]; God comes down to see what humans
-    are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s fate,
-    and his response [divergence between the texts]; Whether punishment strikes the innocent together
+- text: 'Only in Abraham bargains for Sodom: Abraham''s plea when told that the city of Lot will be destroyed
+    [divergence between the texts]; A city''s punishment held back for the righteous within it [divergence
+    between the texts]; God decides not to hide his plan from his chosen one; God comes down to see what
+    humans are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; Whether punishment strikes the innocent together
     with the guilty [contrast between the texts]; Hero challenges God: shall the judge of all the earth
     not do justice? [response between the texts]; How God answers Abraham''s plea for the people of Sodom
     [divergence between the texts]; An outcry (tse''aqah) from the wicked city reaches God; Shall God
@@ -34,12 +34,13 @@ evidence:
     is left as an enduring word among his descendants (''aqib); and 4 more.'
   basis: reading
 - text: 'Only in The fig and the olive, Mount Sinai and the secure city: Humankind created in the best
-    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; Humankind created
-    in the best of forms (ahsan taqwim), then returned to the lowest of the low, except the believers
-    [divergence between the texts]; Oath by ''this city'' (Mecca), the secure city (al-balad al-amin);
-    Land of wheat, barley, vine, fig, pomegranate, olive and honey; God shines forth from Sinai, Seir
-    and Mount Paran with holy myriads; A series of oaths by natural phenomena (dawn, night, day, sun,
-    moon, sky, earth, stars, winds) opens or punctuates a passage.'
+    of forms (ahsan taqwim), then returned to the lowest of the low, except the believers; The fig and
+    the olive named together; Humankind created in the best of forms (ahsan taqwim), then returned to
+    the lowest of the low, except the believers [divergence between the texts]; Oath by ''this city''
+    (Mecca), the secure city (al-balad al-amin); Land of wheat, barley, vine, fig, pomegranate, olive
+    and honey; God shines forth from Sinai, Seir and Mount Paran with holy myriads; A series of oaths
+    by natural phenomena (dawn, night, day, sun, moon, sky, earth, stars, winds) opens or punctuates a
+    passage.'
   basis: reading
 - text: 'Abraham bargains for Sodom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

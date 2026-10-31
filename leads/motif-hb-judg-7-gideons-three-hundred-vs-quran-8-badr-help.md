@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God reduces the army so that Israel cannot boast its own hand saved
-    it (weight 6.7). Pair score 6.7.'
+    it (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns: An enemy
     soldier''s dream, overheard, foretells their defeat; The Hill of Moreh (''teacher'') and the Spring
@@ -35,14 +35,14 @@ evidence:
 - text: 'Only in Badr - angels, slumber, rain and God''s throw: Rain is sent down before battle to purify
     the fighters, remove Satan''s filth and make their feet firm; Some believers dispute the call to battle
     as if driven to death with their eyes open; God covers the fighters with slumber as a security from
-    him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; Fleeing
-    the battle line is forbidden except as a maneuver or to join another unit; Ruling on soldiers who
-    fear battle [contrast between the texts]; ''You did not throw when you threw, but God threw'': the
-    victory is God''s act; The threatened people cry to God before the decisive encounter [divergence
-    between the texts]; Priest addresses the army before battle: do not fear, God fights for you; God
-    cuts off the last remnant (root, dabir) of a people who denied; The victory is credited to God, not
-    to the fighters [divergence between the texts]; God''s angels strike the enemy army [divergence between
-    the texts]; and 3 more.'
+    him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; Hard
+    pressed by a superior enemy, a leader or army calls on God and God answers; Fleeing the battle line
+    is forbidden except as a maneuver or to join another unit; Ruling on soldiers who fear battle [contrast
+    between the texts]; The threatened people cry to God before the decisive encounter [divergence between
+    the texts]; Priest addresses the army before battle: do not fear, God fights for you; God cuts off
+    the last remnant (root, dabir) of a people who denied; The victory is credited to God, not to the
+    fighters [divergence between the texts]; Whether the human side or the deity is credited with killing
+    the enemy [shared matter] [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns: tagged by Claude
     (model), reading the Hebrew.'

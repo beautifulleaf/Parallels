@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wise counselors of Pharaoh in Zoan and Memphis are fools: ''I
-    am a son of the wise, a son of ancient kings'' (weight 6.7). Pair score 6.7.'
+    am a son of the wise, a son of ancient kings'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Oracle on Egypt; the drying Nile; an altar to YHWH in Egypt; ''Blessed be Egypt my people'':
     An altar to YHWH in the midst of Egypt and a standing stone (matsevah) at its border; God stirs up
@@ -28,21 +28,23 @@ evidence:
     cries out because of oppressors God sends them a savior; Egypt knows YHWH and offers sacrifice; Egypt
     consults its idols, the ''ittim (mutterers), ghosts and familiar spirits; Five cities in Egypt will
     speak the language of Canaan and swear to YHWH; one called ''City of the Sun/Destruction'' (ir ha-heres);
-    YHWH rides on a swift cloud and comes to Egypt; Egypt''s idols tremble before him; The Nile dries
-    up, reeds wither, fishermen mourn and flax-workers and weavers despair; God mixes a spirit of distortion
-    in Egypt so it staggers like a drunkard in his vomit; God makes the clouds his chariot and walks on
-    the wings of the wind; God cuts off head and tail, palm-branch and reed: the elder is the head, the
-    lying prophet the tail; Oracle headed ''massa'' (burden) against a named nation or place.'
+    God mixes a spirit of distortion in Egypt so it staggers like a drunkard in his vomit; YHWH rides
+    on a swift cloud and comes to Egypt; Egypt''s idols tremble before him; God cuts off head and tail,
+    palm-branch and reed: the elder is the head, the lying prophet the tail; The Nile dries up, reeds
+    wither, fishermen mourn and flax-workers and weavers despair; God makes the clouds his chariot and
+    walks on the wings of the wind; Oracle headed ''massa'' (burden) against a named nation or place.'
   basis: reading
 - text: 'Only in Pharaoh, ''no god but me'', Haman''s tower of fired brick, and the drowning: Pharaoh''s
-    people are made leaders who call to the Fire and are cursed in this world; Pharaoh tells his chiefs:
+    people are made leaders who call to the Fire and are cursed in this world; A ruler has bricks made
+    for a lofty building that reaches up to heaven [divergence between the texts]; Fire is kindled to
+    make the bricks of a lofty house or tower [divergence between the texts]; Pharaoh tells his chiefs:
     ''I know of no god for you other than me''; Pharaoh orders Haman to build him a lofty tower (sarh)
-    to reach the ways of heaven and look at Moses'' God; Building with baked bricks and bitumen instead
-    of stone and mortar; Hāmān appears as Pharaoh''s minister and partner; Pharaoh''s question about,
-    or claim to know, the god of Moses [divergence between the texts]; Humans build a tower whose top
-    reaches heaven; Humans build a tower whose top reaches heaven [divergence between the texts]; God
-    gives stone tablets he himself has written; Prophet''s wonders are imitated by the king''s magicians
-    in a contest; The returning waters drown the pursuing army; not one survives.'
+    to reach the ways of heaven and look at Moses'' God; Hāmān appears as Pharaoh''s minister and partner;
+    Pharaoh''s question about, or claim to know, the god of Moses [divergence between the texts]; Building
+    with baked bricks and bitumen instead of stone and mortar; The king of Egypt is called god (by his
+    vassals, or by himself) [divergence between the texts]; A king is called, or calls himself, the god
+    of his people [divergence between the texts]; Humans build a tower whose top reaches heaven [divergence
+    between the texts]; The king of Egypt is (called) the god or lord of those under him; and 4 more.'
   basis: reading
 - text: 'Oracle on Egypt; the drying Nile; an altar to YHWH in Egypt; ''Blessed be Egypt my people'':
     tagged by Claude (model), reading the Hebrew.'

@@ -19,19 +19,19 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The tree of Zaqqum grows from the bottom of hell; its spathes are
-    like the heads of devils; the damned fill their bellies and drink boiling water (weight 5.8); If God
-    wills he takes you away and brings another people in your place (weight 4.9). Pair score 10.7.'
+    like the heads of devils; the damned fill their bellies and drink boiling water (weight 6.8); If God
+    wills he takes you away and brings another people in your place (weight 6.0). Pair score 12.8.'
   basis: reading
-- text: 'Only in The Song of Moses (Ha''azinu): Fire kindled in God''s anger burns to the depths of Sheol
-    and the foundations of the mountains; God like an eagle stirring its nest and bearing its young on
-    its pinions; God refrains from annihilating Israel lest the enemy boast it was their own hand; God
-    nursed Israel with honey from the rock and oil from flint; God will provoke Israel to jealousy with
-    a no-people, a foolish nation; Jeshurun grew fat and kicked, forsaking the God who made him; Nations
-    called to rejoice as God avenges his servants'' blood and atones for his land; God as the Rock that
-    bore you and the God who writhed in labor with you; Teaching falls like rain and distils like dew;
-    Their vine is from the vine of Sodom; grapes of poison, wine of serpents'' venom; God is the father
-    who acquired, made and established his people; God as purchaser of his people [divergence between
-    the texts]; and 29 more.'
+- text: 'Only in The Song of Moses (Ha''azinu): God refrains from annihilating Israel lest the enemy boast
+    it was their own hand; God will provoke Israel to jealousy with a no-people, a foolish nation; Jeshurun
+    grew fat and kicked, forsaking the God who made him; Nations called to rejoice as God avenges his
+    servants'' blood and atones for his land; God as the Rock that bore you and the God who writhed in
+    labor with you; Teaching falls like rain and distils like dew; Their vine is from the vine of Sodom;
+    grapes of poison, wine of serpents'' venom; Fire kindled in God''s anger burns to the depths of Sheol
+    and the foundations of the mountains; God is the father who acquired, made and established his people;
+    God as purchaser of his people [divergence between the texts]; God raises his hand to heaven and swears:
+    as I live forever; Whether God, or the gods, eat the offerings [contrast between the texts]; and 29
+    more.'
   basis: reading
 - text: 'Only in The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?;
     the hidden Book; the soul at the throat: The damned eat of Zaqqum to fill their bellies and drink
@@ -45,7 +45,7 @@ evidence:
     the certain truth'' (haqq al-yaqin); Have you seen what you sow? Do you make it grow, or are we the
     grower? We could make it chaff; Fire kindled from a tree that God made grow [divergence between the
     texts]; The scripture exists with God in the ''Mother of the Book'' (umm al-kitab), a heavenly archetype;
-    and 7 more.'
+    and 9 more.'
   basis: reading
 - text: 'The Song of Moses (Ha''azinu): tagged by Claude (model), reading the Hebrew.'
   basis: reading

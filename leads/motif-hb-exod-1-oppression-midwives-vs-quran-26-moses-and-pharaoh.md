@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Egypt reduced the Israelites to slavery (weight 6.7). Pair score
-    6.7.'
+- text: 'Shared motifs, rarest first: Egypt reduced the Israelites to slavery (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: Midwives observe
     the newborn on the birthstool (ovnayim, ''the two stones''); Oppressed people forced to build store-cities
@@ -41,9 +41,10 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; How a public contest between God''s prophet and the king''s religious specialists ends [contrast
-    between the texts]; The king musters his whole force to pursue the departing people; Whose forefathers''
-    God is proclaimed in the Moses story [divergence between the texts]; and 42 more.'
+    Pharaoh; The king of Egypt as a god who has no second / no other god [neutral] [divergence between
+    the texts]; How a public contest between God''s prophet and the king''s religious specialists ends
+    [contrast between the texts]; The king musters his whole force to pursue the departing people; and
+    50 more.'
   basis: reading
 - text: 'Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: tagged by Claude (model),
     reading the Hebrew.'

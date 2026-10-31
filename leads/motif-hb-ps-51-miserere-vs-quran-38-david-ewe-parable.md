@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: David realizes he was being tested, asks forgiveness, falls down
-    bowing and turns in repentance (weight 6.7). Pair score 6.7.'
+    bowing and turns in repentance (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Psalm 51, David''s confession after Bathsheba (Miserere): Speaker says he was born in
-    iniquity and conceived by his mother in sin; Prayer that God create a pure heart and renew a steadfast
-    spirit within; Prayer ''Lord, open my lips and my mouth will declare your praise''; Petitioner asks
-    to be purged with hyssop and washed whiter than snow; Speaker confesses personal sin and pleads for
-    forgiveness and cleansing; God''s spirit in relation to a person''s heart [divergence between the
-    texts]; Prayer that God rebuild the walls of Jerusalem/Zion; God''s ''holy spirit'' (ruah qodesh)
-    is asked not to be taken away from a person; God desires a broken spirit, thanksgiving or obedience
-    rather than animal sacrifice; Superscription sets the psalm in a specific episode of David''s life.'
+- text: 'Only in Psalm 51, David''s confession after Bathsheba (Miserere): Prayer that God create a pure
+    heart and renew a steadfast spirit within; Prayer ''Lord, open my lips and my mouth will declare your
+    praise''; Speaker says he was born in iniquity and conceived by his mother in sin; Petitioner asks
+    to be purged with hyssop and washed whiter than snow; God''s spirit in relation to a person''s heart
+    [divergence between the texts]; Prayer that God rebuild the walls of Jerusalem/Zion; God''s ''holy
+    spirit'' (ruah qodesh) is asked not to be taken away from a person; God desires a broken spirit, thanksgiving
+    or obedience rather than animal sacrifice; Speaker confesses personal sin and pleads for forgiveness
+    and cleansing; Superscription sets the psalm in a specific episode of David''s life.'
   basis: reading
 - text: 'Only in David''s mountains, the two litigants and the ninety-nine ewes: Two litigants scale the
     wall of David''s prayer-chamber (mihrab) and frighten him; A man with ninety-nine ewes demands his
     brother''s single ewe and overpowers him in argument; A case about a ewe is brought to David for judgment
+    [divergence between the texts]; A case is put to a judge as real, and his verdict on it turns on himself
     [divergence between the texts]; ''O David, we made you a vicegerent (khalifa) on earth; judge between
     people with truth and do not follow desire''; God strengthened David''s kingdom and gave him wisdom
     and decisive judgment (fasl al-khitab); David''s repentance and what follows it [divergence between
-    the texts]; A man with many sheep takes another''s only ewe [divergence between the texts]; Shall
-    God treat believers like those who spread corruption, the godfearing like the wicked?; The king confesses
-    ''I have sinned'' and the prophet announces forgiveness with a remaining penalty; A prophet tells
-    a case as if real; the king condemns the offender and is told ''You are the man''; Mountains and birds
-    are made to glorify God together with David; God did not create the heavens and earth and what is
-    between them in play (la''ibin) but in truth.'
+    the texts]; A named ''day of reckoning'' on which accounts are settled; A man with many sheep takes
+    another''s only ewe [divergence between the texts]; Shall God treat believers like those who spread
+    corruption, the godfearing like the wicked?; The king confesses ''I have sinned'' and the prophet
+    announces forgiveness with a remaining penalty; Sheep are divided so that one party takes nine (ninety-nine)
+    and the other one [divergence between the texts]; and 4 more.'
   basis: reading
 - text: 'Psalm 51, David''s confession after Bathsheba (Miserere): tagged by Claude (model), reading the
     Hebrew.'

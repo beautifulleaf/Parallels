@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero''s father makes, sells or worships idols [divergence between
-    the texts] (weight 5.4); Hero''s father makes, sells or worships idols (weight 4.8). Pair score 10.3.'
+    the texts] (weight 6.5); Hero''s father makes, sells or worships idols (weight 5.9). Pair score 12.4.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging
@@ -38,14 +38,14 @@ evidence:
     (good repute) among later generations; Abraham''s creed: the God who created and guides me, feeds
     and gives drink, heals me when sick, causes me to die and revives me, and will forgive me; In hell
     the damned dispute with the gods they equated with God and wish for another chance; The deluded and
-    all the hosts of Iblis are hurled headlong into hell; God wounds and binds up, strikes and his hands
-    heal; On that day neither wealth nor sons avail, only one who comes to God with a sound heart; Who
-    sends sickness and who heals [divergence between the texts]; A good name is to be chosen rather than
-    great riches, favor rather than silver and gold; Abraham prayed for his father''s forgiveness only
-    by a promise, and disowned him when he proved God''s enemy; Wealth does not profit on the day of wrath;
-    No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is too
-    costly; Refrain closing each episode: ''In that is a sign, yet most of them do not believe; your Lord
-    is the Mighty, the Merciful''; and 2 more.'
+    all the hosts of Iblis are hurled headlong into hell; The god who made humans also teaches or guides
+    them and gives them food and drink; Petition that the petitioner''s good name (praise, ''a tongue
+    of truth'') be set in the mouths of people, or of later generations; On that day neither wealth nor
+    sons avail, only one who comes to God with a sound heart; Who sends sickness and who heals [divergence
+    between the texts]; Whether a man''s sons (and wealth) help him after death [divergence between the
+    texts]; The petitioner asks the deity to set truth on his tongue so that he is well spoken of; A good
+    name is to be chosen rather than great riches, favor rather than silver and gold; Abraham prayed for
+    his father''s forgiveness only by a promise, and disowned him when he proved God''s enemy; and 6 more.'
   basis: reading
 - text: 'Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar: tagged
     by Claude (model), reading the Hebrew.'

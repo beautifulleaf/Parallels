@@ -21,32 +21,33 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the sun a radiance and the moon a light with measured stations,
-    to count years and reckoning (weight 6.3); Sun and moon are set to rule day and night and mark signs
-    and seasons (weight 4.7); Rain from the sky gives life to the earth after its death, a sign of resurrection
-    (weight 4.4). Pair score 15.5.'
+    to count years and reckoning (weight 7.3); Sun and moon are set to rule day and night and mark signs
+    and seasons (weight 5.5); Rain from the sky gives life to the earth after its death, a sign of resurrection
+    (weight 5.5). Pair score 18.3.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 38 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 38 more.'
   basis: reading
 - text: 'Only in Signs of the dead earth, night, sun, moon and the laden ship: The night is a sign: God
     strips (naslakh) the day from it and they are in darkness; A sign: God carried their offspring in
     the laden ship, and made for them similar things to ride; God measured stations (manazil) for the
     moon until it returns like an old dried palm-stalk; Asked to spend, unbelievers retort ''shall we
     feed one whom God could feed if he willed?''; God made the flood ship (or its survivors) a sign for
-    all the worlds; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn); The sun
-    comes forth like a bridegroom from his chamber and rejoices like a strong man to run his course; The
-    sun runs to its resting place (mustaqarr); Sun and moon each swim in an orbit (falak); God created
-    humans (and things) in pairs, male and female; Scoffers ask the prophet to hasten the punishment;
-    it is held back only by an appointed term and will come suddenly.'
+    all the worlds; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn); The moon
+    travels across the sky as a vessel floats or swims; The sun runs to its resting place (mustaqarr);
+    The sun ends its daily course at a resting place (the bedchamber where it is told ''Rest!'', or its
+    mustaqarr) [divergence between the texts]; The sun comes forth like a bridegroom from his chamber
+    and rejoices like a strong man to run his course; Sun and moon each swim in an orbit (falak); The
+    crescent moon fixes the months and the reckoning of time; and 3 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

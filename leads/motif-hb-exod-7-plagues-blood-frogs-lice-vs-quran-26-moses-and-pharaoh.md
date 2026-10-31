@@ -22,9 +22,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the defeated court magicians respond [divergence between the
-    texts] (weight 6.7); Why Pharaoh and Egypt refuse despite the signs [divergence between the texts]
-    (weight 6.0); Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 5.4);
-    Prophet''s wonders are imitated by the king''s magicians in a contest (weight 5.1). Pair score 23.2.'
+    texts] (weight 7.7); Why Pharaoh and Egypt refuse despite the signs [divergence between the texts]
+    (weight 7.1); Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 6.5);
+    Prophet''s wonders are imitated by the king''s magicians in a contest (weight 6.0). Pair score 27.2.'
   basis: reading
 - text: 'Only in Plagues 1-3: blood, frogs, lice: The dead frogs are piled in heaps and the land stinks;
     Egyptians dig around the Nile for drinkable water; Prophet lets the king choose when the plague should
@@ -34,8 +34,8 @@ evidence:
     [divergence between the texts]; The king breaks his promise to release the people once a plague is
     lifted [divergence between the texts]; Prophet confronts the king at the river in the morning; The
     dust of the earth becomes lice on man and beast; Frogs swarm out of the river into houses, beds, ovens
-    and kneading-troughs; Nile water is turned to blood; King asks the prophet to intercede with God to
-    remove a plague; and 1 more.'
+    and kneading-troughs; King asks the prophet to intercede with God to remove a plague; Nile water is
+    turned to blood; and 1 more.'
   basis: reading
 - text: 'Only in Moses and Pharaoh disputing; the magicians; the sea split like mountains: Pharaoh calls
     the Israelites ''a small band'' who enrage him; God expelled the Egyptians from gardens, springs,
@@ -45,9 +45,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; The king musters his whole force
-    to pursue the departing people; and 39 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 47 more.'
   basis: reading
 - text: 'Plagues 1-3: blood, frogs, lice: tagged by Claude (model), reading the Hebrew.'
   basis: reading

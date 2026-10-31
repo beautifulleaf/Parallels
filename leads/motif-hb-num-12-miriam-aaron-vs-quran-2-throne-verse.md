@@ -19,28 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God ranked some messengers above others; to some God spoke (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Miriam and Aaron speak against Moses: Hero called the humblest man on earth; Ordinary
     prophets receive revelation in visions and dreams; Afflicted person shut outside the camp seven days;
-    Prophet''s own siblings challenge his unique authority; Father spitting in a daughter''s face brings
-    seven days'' shame; Believers must not put themselves before God and his messenger, nor raise their
-    voices above the prophet''s or shout to him; God speaks to one prophet ''mouth to mouth'', not in
-    dreams or riddles; Prophet criticized over his foreign (Cushite) wife; Moses asks his people: ''Why
-    do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their hearts
-    swerve; Those who hurt Moses: God cleared him of what they said [divergence between the texts]; How
-    God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger [divergence
+    Prophet''s own siblings challenge his unique authority; Believers must not put themselves before God
+    and his messenger, nor raise their voices above the prophet''s or shout to him; Prophet criticized
+    over his foreign (Cushite) wife; Moses asks his people: ''Why do you hurt me when you know I am God''s
+    messenger to you?''; when they swerved God made their hearts swerve; Those who hurt Moses: God cleared
+    him of what they said [divergence between the texts]; Father spitting in a daughter''s face brings
+    seven days'' shame; God speaks to one prophet ''mouth to mouth'', not in dreams or riddles; How God
+    speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger [divergence
     between the texts]; Offender struck with skin disease ''white as snow''; and 2 more.'
   basis: reading
 - text: 'Only in Ranks of the messengers and the Throne Verse: God''s footstool or seat (kursi) extends
     over the heavens and the earth; No compulsion in religion; Neither slumber nor sleep overtakes God;
-    God''s throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false
-    gods (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber
-    or sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day
-    comes with no trade, no friendship and no intercession; The temple as a house of rest for the ark
-    and the footstool of God''s feet; Jesus son of Mary given clear signs and supported with the holy
-    spirit (ruh al-qudus); Israel''s God is called ''the living God, enduring forever, whose kingdom shall
-    never be destroyed''; God the Ever-Living, the Self-Subsisting (al-hayy al-qayyum); and 4 more.'
+    Whether the deity sleeps [divergence between the texts]; Whether the deity sleeps [response between
+    the texts]; A divine object is measured against heaven and earth: the heavens too small for the god''s
+    cup, or his seat (kursī) spanning the heavens and the earth [divergence between the texts]; God''s
+    throne in relation to heaven and earth [divergence between the texts]; Whoever rejects false gods
+    (taghut) and believes in God grasps the firmest handhold that never breaks; God does not slumber or
+    sleep [divergence between the texts]; The guardian of Israel neither slumbers nor sleeps; A day comes
+    with no trade, no friendship and no intercession; The temple as a house of rest for the ark and the
+    footstool of God''s feet; and 13 more.'
   basis: reading
 - text: 'Miriam and Aaron speak against Moses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

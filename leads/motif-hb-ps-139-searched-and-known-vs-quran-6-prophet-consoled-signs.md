@@ -19,31 +19,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The paired extremes of digging into the earth and climbing to the
-    sky (weight 6.3). Pair score 6.3.'
+    sky (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 139, God''s all-knowing presence and the embryo: Darkness is not dark to God; night
     shines like day, darkness and light are alike; ''YHWH, you have searched me and known me'': God knows
-    sitting and rising, thoughts from afar, every word before it is spoken; Nowhere to flee God''s spirit:
-    if I ascend to heaven you are there, if I make my bed in Sheol you are there; ''Do I not hate those
-    who hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar)
-    and dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s
-    leave at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti)
-    in the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before
-    God brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
+    sitting and rising, thoughts from afar, every word before it is spoken; ''Do I not hate those who
+    hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar) and
+    dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s leave
+    at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti) in
+    the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before God
+    brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
     between the texts]; God''s knowledge of a person''s thoughts and words, from afar or from near [divergence
     between the texts]; God knows what the earth diminishes of the dead bodies, and with him is a preserving
-    record; and 15 more.'
+    record; Nowhere to flee God''s spirit: if I ascend to heaven you are there, if I make my bed in Sheol
+    you are there; and 15 more.'
   basis: reading
 - text: 'Only in The Prophet consoled; a ladder to the sky; animals as communities: Every beast on earth
     and bird flying with its wings are communities (umam) like you, gathered to their Lord; The Prophet
     is consoled: messengers before him were denied and patient until help came; We have neglected nothing
     in the Book; God opened the gates of everything to them, and when they rejoiced he seized them suddenly;
     If you could seek a tunnel into the earth or a ladder into the sky to bring them a sign...; A ladder
-    (sullam / sullām) reaching from earth to heaven; The prophet disclaims having God''s treasuries, knowing
-    the unseen, or being an angel; Animals are in God''s care and are gathered before him; Had God willed
-    he would have made all humanity a single community; None can change the words of God; The unbelievers
-    demand: ''Why does he not bring us a sign from his Lord?''; When harm touches people they turn to
-    God; when he gives them relief a party of them associates partners again; and 1 more.'
+    (mꜣq.t / sullam, maʿārij) by which one climbs to the sky [neutral] [divergence between the texts];
+    The prophet disclaims having God''s treasuries, knowing the unseen, or being an angel; Animals are
+    in God''s care and are gathered before him; Had God willed he would have made all humanity a single
+    community; A ladder (sullam / sullām) reaching from earth to heaven; The sovereign''s word cannot
+    be turned back, cast aside, broken or changed; Animals, even those that cannot speak, have their case
+    judged or are gathered before the deity; and 4 more.'
   basis: reading
 - text: 'Psalm 139, God''s all-knowing presence and the embryo: tagged by Claude (model), reading the
     Hebrew.'

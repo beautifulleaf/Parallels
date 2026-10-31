@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How God''s word reaches the prophet [divergence between the texts]
-    (weight 6.7); Divination, soothsaying, mediums (ov) and wizards (yidde''oni) are forbidden (weight
-    5.8). Pair score 12.5.'
+    (weight 7.7); Divination, soothsaying, mediums (ov) and wizards (yidde''oni) are forbidden (weight
+    6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:

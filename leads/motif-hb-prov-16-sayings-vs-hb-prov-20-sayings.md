@@ -21,22 +21,22 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Grey hair is a crown of glory, found in the way of righteousness
-    (weight 6.7); The throne is established by righteousness (and loyalty) (weight 6.0); Getting wisdom
-    is better than gold, understanding than silver or jewels (weight 6.0); The heart of man plans his
-    way but YHWH directs his steps; only YHWH''s counsel stands (weight 5.8); Saying of the type ''X is
-    an abomination (to''evah) to YHWH but Y is his delight'' (weight 5.6); Honest balances, weights, ephah
-    and hin are commanded (weight 4.7). Pair score 34.8.'
+    (weight 7.1); The throne is established by righteousness (and loyalty) (weight 7.1); Getting wisdom
+    is better than gold, understanding than silver or jewels (weight 6.8); The heart of man plans his
+    way but YHWH directs his steps; only YHWH''s counsel stands (weight 6.6); Saying of the type ''X is
+    an abomination (to''evah) to YHWH but Y is his delight'' (weight 6.4); Honest balances, weights, ephah
+    and hin are commanded (weight 5.3). Pair score 39.3.'
   basis: reading
 - text: 'Only in YHWH sayings and royal sayings (man plans, God disposes): By loyalty and faithfulness
     (hesed we-emet) iniquity is atoned for; When a man''s ways please YHWH he makes even his enemies to
     be at peace with him; YHWH has made everything for its purpose, even the wicked for the day of evil;
-    The worker''s appetite works for him, for his mouth urges him on; In the light of the king''s face
-    is life; his favor is like a cloud of the latter rain; The wrath of a king is messengers of death,
-    but a wise man will pacify it; The lot is cast into the lap, but its every decision is from YHWH;
-    Divination (qesem) is on the lips of the king; his mouth does not err in judgment; Pleasant words
-    are a honeycomb, sweet to the soul and healing to the bones; Roll (commit) your works to YHWH and
-    your plans will be established; The worthless man (ish beliyya''al) digs up evil and on his lips is
-    a scorching fire; A whisperer separates close friends; and 8 more.'
+    The worker''s appetite works for him, for his mouth urges him on; The wrath of a king is messengers
+    of death, but a wise man will pacify it; The lot is cast into the lap, but its every decision is from
+    YHWH; Divination (qesem) is on the lips of the king; his mouth does not err in judgment; Pleasant
+    words are a honeycomb, sweet to the soul and healing to the bones; Roll (commit) your works to YHWH
+    and your plans will be established; The worthless man (ish beliyya''al) digs up evil and on his lips
+    is a scorching fire; A whisperer separates close friends; In the light of the king''s face is life;
+    his favor is like a cloud of the latter rain; and 8 more.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -44,10 +44,10 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 14 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 14 more.'
   basis: reading
 - text: 'YHWH sayings and royal sayings (man plans, God disposes): tagged by Claude (model), reading the
     Hebrew.'

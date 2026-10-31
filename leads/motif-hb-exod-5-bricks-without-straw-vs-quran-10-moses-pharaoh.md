@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unbelievers defend their practice as what they found their fathers
-    doing (weight 5.1). Pair score 5.1.'
+    doing (weight 6.1). Pair score 6.1.'
   basis: reading
 - text: 'Only in First audience with Pharaoh; bricks without straw: Slaves must make the same quota of
     bricks while gathering their own straw; The oppressed blame the deliverer for making things worse;
@@ -37,13 +37,14 @@ evidence:
     of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
     the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
-    the texts]; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
-    of prayer); God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
-    between the texts]; Threatened believers say ''to our Lord we return'' and pray for patience and to
-    die as muslims; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God or
-    his own sin, and what follows; Pharaoh acknowledges Israel''s God or his own sin, and what follows
-    [divergence between the texts]; Who throws the staff before Pharaoh and what it becomes; and 10 more.'
+    they see punishment; The defeated enemy''s form (image or body) is kept as a sign (Akk. ittu, Ar.
+    āya) for those who come after [divergence between the texts]; What becomes of the drowned Pharaoh
+    and his army after the sea [divergence between the texts]; Moses and Aaron are told to make their
+    people''s houses in Egypt a qibla (place/direction of prayer); God''s instruction about the Israelites''
+    houses in Egypt before the exodus [divergence between the texts]; Threatened believers say ''to our
+    Lord we return'' and pray for patience and to die as muslims; Why Pharaoh pursues the departing Israelites;
+    Pharaoh acknowledges Israel''s God or his own sin, and what follows; Pharaoh acknowledges Israel''s
+    God or his own sin, and what follows [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'First audience with Pharaoh; bricks without straw: tagged by Claude (model), reading the Hebrew.'
   basis: reading

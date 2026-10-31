@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Treaties with those who kept them are honored until their term (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Gibeonites trick Israel into a treaty: A people is cursed to perpetual slavery; Locals
     disguise themselves with worn clothes and old provisions to pass as travelers from a far country;
     Leaders make a decision without asking the oracle of YHWH; A subject people made perpetual woodcutters
     and water-drawers for the sanctuary; Dry, crumbled bread shown as proof of a long journey; The congregation
-    grumbles against its chiefs over a decision; The kings of the land form a coalition against Israel;
-    Foreigners have heard the fame of Israel''s God and what he did in Egypt; Those allied by treaty or
-    who withdraw and offer peace may not be attacked; An oath sworn by God stays binding even though obtained
-    by deceit; Sacrifice only at the place God will choose to make his name dwell.'
+    grumbles against its chiefs over a decision; Foreigners have heard the fame of Israel''s God and what
+    he did in Egypt; Those allied by treaty or who withdraw and offer peace may not be attacked; An oath
+    sworn by God stays binding even though obtained by deceit; The kings of the land form a coalition
+    against Israel; Sacrifice only at the place God will choose to make his name dwell.'
   basis: reading
 - text: 'Only in The disavowal - treaties, sacred months and asylum: A polytheist who seeks protection
     is given asylum to hear God''s word, then escorted to safety; God and his messenger proclaim their
@@ -38,9 +38,9 @@ evidence:
     the Merciful, the Compassionate''; Four of the twelve months are sacred; God punishes the enemy by
     the believers'' hands and heals the believers'' breasts; Protection for someone who seeks refuge [divergence
     between the texts]; Treaties with idolatrous peoples [contrast between the texts]; War on the idolatrous
-    inhabitants: total destruction or a way out [contrast between the texts]; Most of the peoples were
-    found without fidelity to their covenant; Unbelievers plot to confine, kill or expel the prophet,
-    but God plots too; and 1 more.'
+    inhabitants: total destruction or a way out [contrast between the texts]; An enemy bound by oath breaks
+    it, again and again, and scorns the religion or the gods'' words; Most of the peoples were found without
+    fidelity to their covenant; and 2 more.'
   basis: reading
 - text: 'The Gibeonites trick Israel into a treaty: tagged by Claude (model), reading the Hebrew.'
   basis: reading

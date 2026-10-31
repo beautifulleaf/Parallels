@@ -18,25 +18,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A poem lists the tribes, praising those who fought and shaming those
-    who stayed home (weight 6.3). Pair score 6.3.'
+    who stayed home (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The Song of Deborah: A woman is called ''most blessed of women''; An angel curses a town
     that did not come to YHWH''s help; The enemy''s mother waits at the window for her son who will not
     return; Those who love God are like the sun rising in its strength; A woman leader is called ''a mother
     in Israel''; Not a shield or spear to be seen among forty thousand in Israel; Nobles described as
-    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; Under oppression the highways
-    are deserted and travelers use byways; A woman leader sings the victory song; If you help God he will
-    help you and make your feet firm; The laggard thanks God he was absent when disaster struck, and wishes
-    he had shared the spoil; and 10 more.'
+    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; A woman leader sings the
+    victory song; If you help God he will help you and make your feet firm; The laggard thanks God he
+    was absent when disaster struck, and wishes he had shared the spoil; Asked for water, the woman gives
+    milk; and 10 more.'
   basis: reading
 - text: 'Only in The call to go forth; the second of two in the cave: God''s own Presence (face) will
     go with the people; God threatens to destroy a people and put another in its place [divergence between
-    the texts]; Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel
-    (''God with us''); The prophet is ''the second of two'' hiding in the cave, telling his companion
-    ''do not grieve, God is with us''; God supports the prophet with hosts (junud) the believers did not
-    see; The oppressed people hide in caves, dens and mountain strongholds; God sends down his sakina
-    (tranquility, cf. shekhinah) on the prophet and believers; If God wills he takes you away and brings
-    another people in your place.'
+    the texts]; Reproaching followers who hang back, the leader recalls how he escaped a crisis without
+    them; The deity is the one more of a company: third of two, fourth of three; Sign: the young woman
+    (''almah) is pregnant and will bear a son and call his name Immanuel (''God with us''); The prophet
+    is ''the second of two'' hiding in the cave, telling his companion ''do not grieve, God is with us'';
+    God supports the prophet with hosts (junud) the believers did not see; The oppressed people hide in
+    caves, dens and mountain strongholds; God sends down his sakina (tranquility, cf. shekhinah) on the
+    prophet and believers; If God wills he takes you away and brings another people in your place.'
   basis: reading
 - text: 'The Song of Deborah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

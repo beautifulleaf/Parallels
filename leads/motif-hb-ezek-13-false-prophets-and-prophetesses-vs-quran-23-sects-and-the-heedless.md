@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a prophet takes payment for his message [contrast between
-    the texts] (weight 6.7); False prophets prophesy ''from their own heart'', following their own spirit,
-    having seen nothing (weight 6.3). Pair score 13.0.'
+    the texts] (weight 7.7); False prophets prophesy ''from their own heart'', following their own spirit,
+    having seen nothing (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Against the false prophets and the women who hunt souls: False prophets will not be in
     the council of God''s people nor written in the register of the house of Israel; The prophets of Israel
@@ -30,23 +30,22 @@ evidence:
     False prophets mislead the people saying ''Peace'' when there is no peace; The true prophet''s task
     is to go up into the breaches and build a wall for the people on the day of battle; false prophets
     did not; God tears off the magic bands and lets the trapped souls go free ''like birds'' (leporhot);
-    Women prophetesses sew bands (kesatot) on wrists and make veils (mispahot) for heads to hunt souls,
-    killing and keeping alive by magic; Parable: one who builds on the brink of a crumbling bank falls
-    with it into hell; Kings or people practice divination (qesem) and augury (nihush); None more wrong
+    Parable: one who builds on the brink of a crumbling bank falls with it into hell; None more wrong
     than one who falsely claims revelation or says he can send down the like of God''s; False prophets
     daub a flimsy wall with whitewash (tafel); God''s storm, flood-rain and hailstones bring it down;
-    Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-''uqad), i.e. knot-tying
-    sorcery; and 2 more.'
+    Women prophetesses sew bands (kesatot) on wrists and make veils (mispahot) for heads to hunt souls,
+    killing and keeping alive by magic; Kings or people practice divination (qesem) and augury (nihush);
+    God casts great hailstones from heaven, killing more than the sword; and 2 more.'
   basis: reading
 - text: 'Only in One community split into sects; the heedless rich and the God-fearing: Nation pictured
     as a body beaten from sole of foot to head, with untended wounds and sores; Humanity was one community
     (umma) but split its affair into sects; Were there gods besides God in heaven and earth, both would
-    have been ruined; Speaker is troubled by the prosperity and ease of the wicked (theodicy); Refrain
-    listing plagues (famine, drought, blight, locust, pestilence, war, overthrow): ''yet you did not return
-    to me''; God did not send the prophets who promise peace; they prophesy a lying vision, divination
-    and the deceit of their heart; God burdens no soul beyond its capacity; Officers call the visiting
-    prophet ''this madman'' (meshugga''); The Prophet asks no wage for the message; God keeps a book in
-    which names are written and from which sinners are blotted.'
+    have been ruined; Refrain listing plagues (famine, drought, blight, locust, pestilence, war, overthrow):
+    ''yet you did not return to me''; God did not send the prophets who promise peace; they prophesy a
+    lying vision, divination and the deceit of their heart; God burdens no soul beyond its capacity; Speaker
+    is troubled by the prosperity and ease of the wicked (theodicy); Officers call the visiting prophet
+    ''this madman'' (meshugga''); The Prophet asks no wage for the message; God keeps a book in which
+    names are written and from which sinners are blotted.'
   basis: reading
 - text: 'Against the false prophets and the women who hunt souls: tagged by Claude (model), reading the
     Hebrew.'

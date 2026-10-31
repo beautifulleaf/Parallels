@@ -20,18 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether any fruit in the Garden is forbidden [contrast between the
-    texts] (weight 6.7); A tree of knowledge whose fruit is forbidden (weight 5.8). Pair score 12.5.'
+    texts] (weight 7.7); A tree of knowledge whose fruit is forbidden (weight 6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Second creation account, Eden, and the making of woman: Eating the forbidden fruit is
-    threatened with death; The first human is put in the garden to work and guard it; Man leaves father
-    and mother and cleaves to his wife; they become one flesh; A mist or spring rises from the earth to
-    water the ground; First couple naked and not ashamed; God made a covenant with Adam, but he forgot
-    and lacked resolve [divergence between the texts]; The first man names the animals; Whether the first
-    couple were naked or clothed before the fall [contrast between the texts]; The first man and the names
-    of the creatures [divergence between the texts]; How the first human''s mate is made from the first
-    human [divergence between the texts]; The tree forbidden to the first humans [divergence between the
-    texts]; Forming a creature from earth and breathing life into it [divergence between the texts]; and
-    20 more.'
+    threatened with death; The first human is put in the garden to work and guard it; God made a covenant
+    with Adam, but he forgot and lacked resolve [divergence between the texts]; Whether the first couple
+    were naked or clothed before the fall [contrast between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; How the first human''s mate is made from the first human
+    [divergence between the texts]; The tree forbidden to the first humans [divergence between the texts];
+    Forming a creature from earth and breathing life into it [divergence between the texts]; Four rivers
+    in the Garden [divergence between the texts]; The garden given to the first humans to live and eat
+    in [divergence between the texts]; In the garden Adam will not hunger, be naked, thirst or suffer
+    the sun''s heat [divergence between the texts]; The likeness of Jesus with God is as Adam, created
+    from dust by ''Be''; and 20 more.'
   basis: reading
 - text: 'Only in Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
     of the Right and their Garden: In paradise they have the flesh of fowl as they desire; Immortal youths
@@ -41,10 +42,11 @@ evidence:
     ''Peace, peace''; The Companions of the Right are among thornless lote trees (sidr makhdud) and layered
     talh (acacia/banana) with extended shade and poured water; Humanity sorted into three classes: Companions
     of the Right, Companions of the Left, and the Foremost (al-sabiqun) brought near; Bird-meat as desired
-    food: punished or granted [contrast between the texts]; The earth is shaken violently and the mountains
+    food: punished or granted [contrast between the texts]; Young servers go round with a variety of vessels
+    serving a mixed drink [divergence between the texts]; The earth is shaken violently and the mountains
     crumbled into scattered dust (haba''); Abundant fruit in paradise, neither cut off (seasonless) nor
-    forbidden; Into how many groups humankind is sorted at the end [divergence between the texts]; Paradise
-    drink from which they suffer no headache nor intoxication; and 10 more.'
+    forbidden; Into how many groups humankind is sorted at the end [divergence between the texts]; and
+    11 more.'
   basis: reading
 - text: 'Second creation account, Eden, and the making of woman: tagged by Claude (model), reading the
     Hebrew.'

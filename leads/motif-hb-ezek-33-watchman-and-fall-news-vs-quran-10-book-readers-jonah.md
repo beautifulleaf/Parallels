@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not desire the death of the wicked but that he turn from
-    his way and live (weight 6.3). Pair score 6.3.'
+    his way and live (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     Survivors in the ruins argue ''Abraham was only one and inherited the land; we are many, so the land

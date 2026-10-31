@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not be like the woman who unravels her yarn into strands after
-    spinning it strong (weight 6.7). Pair score 6.7.'
+    spinning it strong (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Your sins have separated you; God arms himself: God''s covenant: his spirit and the words
     in the mouth will not depart from the mouth of the offspring forever; God puts on righteousness as
@@ -30,8 +30,8 @@ evidence:
     will come to Zion, to those in Jacob who turn from transgression; Not God''s weakness but the people''s
     sins separate them from God and hide his face; Truth stumbles in the public square and uprightness
     cannot enter; whoever turns from evil is plundered; God sees that there is no man and no intercessor,
-    so his own arm brings salvation; Madness, blindness and confusion; groping at noon like the blind
-    in darkness; The trust of the godless is a spider''s house that will not stand; and 2 more.'
+    so his own arm brings salvation; The trust of the godless is a spider''s house that will not stand;
+    Leader doubts God can supply; God replies ''Is my hand too short?''; and 2 more.'
   basis: reading
 - text: 'Only in The slave and the free, the mute man, the woman who unravels her yarn (Surah 16:71-100):
     God brought you from your mothers'' wombs knowing nothing and gave you hearing, sight and hearts;
@@ -44,7 +44,7 @@ evidence:
     gave tents of hides light for travel, wool for furnishings, shade, mountain shelters and garments
     against heat and violence; What you have runs out; what is with God remains; Fulfill God''s covenant
     and do not break oaths after confirming them or use them for deceit; Whoever does good, male or female,
-    and believes, enters paradise; and 5 more.'
+    and believes, enters paradise; and 6 more.'
   basis: reading
 - text: 'Your sins have separated you; God arms himself: tagged by Claude (model), reading the Hebrew.'
   basis: reading

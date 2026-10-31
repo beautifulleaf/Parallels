@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The talebearer (rakhil) goes about revealing secrets; the faithful
-    conceal a matter (weight 6.0). Pair score 6.0.'
+    conceal a matter (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Sayings on wine, the king''s throne and the lamp of YHWH: Bruising wounds scour away
     evil; blows cleanse the inner chambers; Bread gained by deceit is sweet, but afterwards the mouth
@@ -28,10 +28,10 @@ evidence:
     heart is deep water; a man of understanding draws it out; He who curses father or mother, his lamp
     is put out in the pupil of darkness; Many proclaim their loyalty, but a faithful man who can find?;
     The breath (nishmat) of man is the lamp of YHWH, searching all the inner chambers of the belly; A
-    king seated on the throne of judgment winnows all evil with his eyes; A wise king winnows the wicked
-    and drives the threshing wheel over them; It is a snare to say rashly ''Holy!'' and only afterwards
-    to reflect on vows; The sluggard does not plow in autumn; he asks at harvest and has nothing; The
-    glory of young men is their strength, the splendor of the old their grey hair; and 19 more.'
+    wise king winnows the wicked and drives the threshing wheel over them; It is a snare to say rashly
+    ''Holy!'' and only afterwards to reflect on vows; The glory of young men is their strength, the splendor
+    of the old their grey hair; Wine is a mocker and strong drink a brawler; whoever is led astray by
+    it is not wise; A king seated on the throne of judgment winnows all evil with his eyes; and 19 more.'
   basis: reading
 - text: 'Only in Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives
     of Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran: If he divorced them, God might give
@@ -47,7 +47,7 @@ evidence:
     secret to one of his wives; she divulged it, and God informed him; The wives of Noah and Lot, married
     to righteous servants, betrayed them and are told to enter the Fire; Father or husband may annul a
     woman''s vow on the day he hears it; A man''s vow or oath must be fulfilled as uttered [contrast between
-    the texts]; and 10 more.'
+    the texts]; and 13 more.'
   basis: reading
 - text: 'Sayings on wine, the king''s throne and the lamp of YHWH: tagged by Claude (model), reading the
     Hebrew.'

@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel serves the Baals and the Ashtaroth/Asherahs (weight 5.4).
-    Pair score 5.4.'
+- text: 'Shared motifs, rarest first: Israel serves the Baals and the Ashtaroth/Asherahs (weight 6.5).
+    Pair score 6.5.'
   basis: reading
 - text: 'Only in Nations left to teach war; Othniel defeats Cushan-rishathaim: An oppressor bears a mocking
     name (Cushan of Double Wickedness); The five lords (seranim) of the Philistine cities; Nations are

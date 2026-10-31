@@ -18,16 +18,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At God''s coming the earth quakes, heavens drip and mountains flow
-    (weight 5.2). Pair score 5.2.'
+    (weight 5.6). Pair score 5.6.'
   basis: reading
 - text: 'Only in The Song of Deborah: A woman is called ''most blessed of women''; An angel curses a town
     that did not come to YHWH''s help; The enemy''s mother waits at the window for her son who will not
     return; Those who love God are like the sun rising in its strength; A woman leader is called ''a mother
     in Israel''; Not a shield or spear to be seen among forty thousand in Israel; Nobles described as
-    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; Under oppression the highways
-    are deserted and travelers use byways; A woman leader sings the victory song; If you help God he will
-    help you and make your feet firm; The laggard thanks God he was absent when disaster struck, and wishes
-    he had shared the spoil; and 10 more.'
+    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; A woman leader sings the
+    victory song; If you help God he will help you and make your feet firm; The laggard thanks God he
+    was absent when disaster struck, and wishes he had shared the spoil; Asked for water, the woman gives
+    milk; and 10 more.'
   basis: reading
 - text: 'Only in Forty nights, the request to see God and the tablets: When God manifests himself to the
     mountain it is crushed to dust; The prophet falls down unconscious at the theophany and repents on
@@ -39,7 +39,7 @@ evidence:
     Moses'' set period on the mountain is forty (days and nights, or nights) [divergence between the texts];
     A mountain is shattered when God passes by or manifests himself [divergence between the texts]; The
     prophet asks to see God''s glory; What happens after God refuses to be seen by Moses [divergence between
-    the texts]; and 6 more.'
+    the texts]; and 9 more.'
   basis: reading
 - text: 'The Song of Deborah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

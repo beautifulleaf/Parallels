@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The quake of the Hour: every nursing mother forgets her suckling,
-    every pregnant one miscarries, people seem drunk though not drunk (weight 6.3). Pair score 6.3.'
+    every pregnant one miscarries, people seem drunk though not drunk (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Oracle against Babylon; the Day of YHWH darkens the heavens: Babylon, glory of kingdoms,
     will be overthrown like Sodom and Gomorrah; Wordplay: the Day comes ''like destruction (shod) from
@@ -34,13 +34,16 @@ evidence:
     Brief oracles against neighboring nations (Amalek, Kenite, Asshur, Kittim).'
   basis: reading
 - text: 'Only in The quake of the Hour and the proofs from embryo and rain: Some are returned to the most
-    abject age so that after knowing they know nothing; Humans created from dust, then a drop (nuṭfa),
-    then a clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped; God poured the embryo
-    out like milk and curdled it like cheese, clothing it with skin and flesh and knitting bones and sinews;
-    On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all humans
-    quake before God, mountains are thrown down and every wall falls; Your dead shall live, their corpses
-    rise; dwellers in the dust shall awake and sing; First human shaped from dust, clay or soil; Rain
-    from the sky gives life to the earth after its death, a sign of resurrection.'
+    abject age so that after knowing they know nothing; In catastrophe mothers abandon their young and
+    pregnancy fails [divergence between the texts]; Humans created from dust, then a drop (nuṭfa), then
+    a clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped; In the catastrophe the
+    father disowns his wife and the mother her child (''This is not my child''); In the catastrophe mothers,
+    cows or she-camels no longer care for their young; God poured the embryo out like milk and curdled
+    it like cheese, clothing it with skin and flesh and knitting bones and sinews; On that day a great
+    earthquake shakes the land; fish, birds, beasts, creeping things and all humans quake before God,
+    mountains are thrown down and every wall falls; Your dead shall live, their corpses rise; dwellers
+    in the dust shall awake and sing; Rain from the sky gives life to the earth after its death, a sign
+    of resurrection; First human shaped from dust, clay or soil.'
   basis: reading
 - text: 'Oracle against Babylon; the Day of YHWH darkens the heavens: tagged by Claude (model), reading
     the Hebrew.'

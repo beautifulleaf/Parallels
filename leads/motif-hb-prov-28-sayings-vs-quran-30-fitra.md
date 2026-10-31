@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who increases wealth by interest and usury gathers it for one
-    who is gracious to the poor (weight 6.3). Pair score 6.3.'
+    who is gracious to the poor (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Sayings on torah, rulers, usury and confession: A man burdened with the blood of a life
     will flee to the pit; let no one support him; He who conceals his transgressions will not prosper,
@@ -41,10 +41,11 @@ evidence:
     would not make your slaves equal partners in your wealth; how then make God''s creatures his partners?;
     Usury (riba) given to increase people''s wealth does not increase with God, but alms (zakat) seeking
     his face are multiplied; What God set in human nature at creation [divergence between the texts];
-    Give the kinsman, the poor and the wayfarer their due; Because of sin the land mourns and beasts,
-    birds and even fish of the sea perish; Those who split their religion into sects, each party exulting
-    in what it has; When harm touches people they turn to God; when he gives them relief a party of them
-    associates partners again; Travel in the land and see the end of those who denied.'
+    Give the kinsman, the poor and the wayfarer their due; An argument drawn from a human master and his
+    slaves is applied to the god; Those who split their religion into sects, each party exulting in what
+    it has; Because of sin the land mourns and beasts, birds and even fish of the sea perish; When harm
+    touches people they turn to God; when he gives them relief a party of them associates partners again;
+    Travel in the land and see the end of those who denied.'
   basis: reading
 - text: 'Sayings on torah, rulers, usury and confession: tagged by Claude (model), reading the Hebrew.'
   basis: reading

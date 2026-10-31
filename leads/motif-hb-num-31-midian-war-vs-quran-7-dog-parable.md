@@ -19,23 +19,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Foreign seer blamed for advising the seduction that led to apostasy
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in War against Midian and division of the spoils: Five named kings slain together; Captured
     gold jewelry offered to atone for the soldiers'' lives; Leader given a final task to complete before
     he is ''gathered to his people''; Commanders report that not one man of the army is missing; Priest
-    accompanies the army with holy vessels and trumpets; Metal spoils purified by passing through fire,
-    others through water; Warriors and captives purified outside camp seven days after battle; Army of
-    a thousand from each tribe (12,000); How the people of Midian came to be destroyed [divergence between
-    the texts]; How spoil taken from the enemy is distributed [divergence between the texts]; God punishes
-    the enemy by the believers'' hands and heals the believers'' breasts; God commands war of vengeance
-    against a people; and 6 more.'
+    accompanies the army with holy vessels and trumpets; Warriors and captives purified outside camp seven
+    days after battle; Army of a thousand from each tribe (12,000); How the people of Midian came to be
+    destroyed [divergence between the texts]; How spoil taken from the enemy is distributed [divergence
+    between the texts]; God punishes the enemy by the believers'' hands and heals the believers'' breasts;
+    God commands war of vengeance against a people; Metal spoils purified by passing through fire, others
+    through water; and 6 more.'
   basis: reading
 - text: 'Only in The man who sloughed off God''s signs (the panting dog): A man given God''s signs sloughs
     them off, clings to the earth and follows his desire; Parable: like a dog that pants whether you chase
-    it or leave it; A ''satan'' on the seer''s way: God''s adversary-angel or the tempter [divergence
-    between the texts]; A seer who receives divine revelation (Balaam in the exegesis of Q 7:175) [divergence
-    between the texts]; A seer faced with payment or worldly gain [contrast between the texts].'
+    it or leave it; A dog that is driven off and behaves the same again, as a parable of the incorrigible
+    [divergence between the texts]; A ''satan'' on the seer''s way: God''s adversary-angel or the tempter
+    [divergence between the texts]; A seer who receives divine revelation (Balaam in the exegesis of Q
+    7:175) [divergence between the texts]; A seer faced with payment or worldly gain [contrast between
+    the texts].'
   basis: reading
 - text: 'War against Midian and division of the spoils: tagged by Claude (model), reading the Hebrew.'
   basis: reading

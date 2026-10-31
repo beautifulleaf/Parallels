@@ -13,15 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- oath-by-the-pen-and-what-they-write
 - tav-mark-on-foreheads-of-mourners
+- oath-by-the-pen-and-what-they-write
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Oath ''Nun. By the pen and what they inscribe'' (weight 6.7); A
-    mark (tav) is put on the foreheads of those who sigh over the city''s abominations so the destroyers
-    spare them (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: A mark (tav) is put on the foreheads of those who sigh over the
+    city''s abominations so the destroyers spare them (weight 7.7); Oath ''Nun. By the pen and what they
+    inscribe'' (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in The six executioners and the man in linen who marks the foreheads: The angelic agent
     returns and reports ''I have done as you commanded me''; Divine slaughter is to begin at God''s sanctuary,
@@ -37,14 +37,15 @@ evidence:
 - text: 'Only in Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born
     man branded on the snout: God threatens: ''We shall brand him on the snout (khurtum)''; The deniers
     wish the prophet would compromise (tudhin) so they would compromise; The prophet is not mad; he has
-    an unfailing reward and is of a great moral character (khuluq ''azim); Mamzer excluded from the assembly
-    to the tenth generation; Do not obey every contemptible swearer, backbiter going about with slander,
-    hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble); The prophet is no soothsayer
-    (kahin), no madman, no poet awaiting the accident of fate; God will put his hook in the enemy king''s
-    nose and his bit in his lips and lead him back; Defense of the prophet: there is no madness (jinna)
-    in your companion; he is only a warner; Do not go about as a talebearer among your people; Unbelievers
-    dismiss the revelation as ''tales of the ancients'' (asatir al-awwalin) they could equal; A surah
-    opens with isolated letters (huruf muqatta''at) of unexplained meaning, e.g. alif-lam-mim.'
+    an unfailing reward and is of a great moral character (khuluq ''azim); A string of abusive epithets
+    against an opponent, including a slur on his birth; Mamzer excluded from the assembly to the tenth
+    generation; The ruler is told not to listen to, or obey, the slanderer; The man who goes about (comes
+    and goes) with words, setting brothers / people against each other; A go-between who carries slander
+    between men; Do not obey every contemptible swearer, backbiter going about with slander, hinderer
+    of good, coarse and moreover ''zanim'' (base-born, ignoble); The prophet is no soothsayer (kahin),
+    no madman, no poet awaiting the accident of fate; God will put his hook in the enemy king''s nose
+    and his bit in his lips and lead him back; Defense of the prophet: there is no madness (jinna) in
+    your companion; he is only a warner; and 3 more.'
   basis: reading
 - text: 'The six executioners and the man in linen who marks the foreheads: tagged by Claude (model),
     reading the Hebrew.'

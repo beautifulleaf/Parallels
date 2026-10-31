@@ -18,17 +18,17 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: YHWH is near to all who call on him in truth (weight 6.3). Pair
-    score 6.3.'
+- text: 'Shared motifs, rarest first: YHWH is near to all who call on him in truth (weight 7.3). Pair
+    score 7.3.'
   basis: reading
 - text: 'Only in Psalm 145, acrostic praise of the King (Ashrei): YHWH upholds all who fall and raises
     up all who are bowed down; An alphabetic acrostic lacks one letter of the alphabet; God''s mercy encompasses
     all things; Praise (hamd) belongs to God, Lord of the worlds (rabb al-alamin); What the fathers told
-    is to be passed on so that coming generations will tell their children; All creatures look to God
-    to give their food in due season; he opens his hand and they are satisfied; All flesh, or all nations,
+    is to be passed on so that coming generations will tell their children; All flesh, or all nations,
     come to God to pray or worship; God called al-Rahman and al-Rahim (the Merciful, the Compassionate),
     paired names from the root r-h-m (womb, mercy); ''Your kingdom is a kingdom of all ages and your dominion
-    through all generations''; Formula of divine attributes: slow to anger, abundant in mercy, visits
+    through all generations''; All creatures look to God to give their food in due season; he opens his
+    hand and they are satisfied; Formula of divine attributes: slow to anger, abundant in mercy, visits
     iniquity to fourth generation; The poem is an alphabetic acrostic (lines or stanzas begin with successive
     letters).'
   basis: reading
@@ -37,10 +37,10 @@ evidence:
     only with hardship may ransom fast days by feeding a poor person (fidya); Spouses not approached while
     in retreat (i''tikaf) in the mosques; Marital relations permitted on fast nights; spouses are garments
     for one another; Ramadan, the month in which the Quran was sent down; The sick and the traveler may
-    make up missed fast days later; The wicked takes a bribe from the bosom to pervert the ways of justice;
-    Marital relations during a fast [contrast between the texts]; What the annual fast is tied to [divergence
-    between the texts]; Length, hours and exemptions of a prescribed fast [divergence between the texts];
-    ''These are the bounds (hudud) of God; do not approach (or transgress) them''; and 1 more.'
+    make up missed fast days later; A gift (bribe) from or to the powerful in court, to deprive another
+    of his right; Making the judge take a bribe to win a case [divergence between the texts]; Marital
+    relations during a fast [contrast between the texts]; The deity is near to the one who prays and hears
+    (answers) him; What the annual fast is tied to [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Psalm 145, acrostic praise of the King (Ashrei): tagged by Claude (model), reading the Hebrew.'
   basis: reading

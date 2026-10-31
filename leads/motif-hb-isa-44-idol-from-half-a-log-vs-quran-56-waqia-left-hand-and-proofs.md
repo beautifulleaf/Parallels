@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fire kindled from a tree that God made grow [divergence between
-    the texts] (weight 6.7); God made fire for you from the green tree, from which you kindle (weight
-    6.0). Pair score 12.7.'
+    the texts] (weight 7.7); God made fire for you from the green tree, from which you kindle (weight
+    7.1). Pair score 14.8.'
   basis: reading
 - text: 'Only in Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: God calls
     Cyrus ''my shepherd'' who fulfils his will, saying of Jerusalem ''she shall be rebuilt'' and of the
@@ -50,8 +50,8 @@ evidence:
     wind (samum), boiling water and the shade of black smoke (yahmum), neither cool nor kind; ''This is
     the certain truth'' (haqq al-yaqin); Have you seen what you sow? Do you make it grow, or are we the
     grower? We could make it chaff; The scripture exists with God in the ''Mother of the Book'' (umm al-kitab),
-    a heavenly archetype; When the soul reaches the throat at death and you look on, God is nearer than
-    you; if you are not to be judged, bring it back!; and 7 more.'
+    a heavenly archetype; Purity is required of whoever recites or touches the sacred text [divergence
+    between the texts]; and 9 more.'
   basis: reading
 - text: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd: tagged by Claude
     (model), reading the Hebrew.'

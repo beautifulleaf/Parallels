@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Refrain listing plagues (famine, drought, blight, locust, pestilence,
-    war, overthrow): ''yet you did not return to me'' (weight 6.0). Pair score 6.0.'
+    war, overthrow): ''yet you did not return to me'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Cows of Bashan; ''yet you did not return''; prepare to meet your God: The wealthy women
     of Samaria are called ''cows of Bashan'' who oppress the poor and say to their husbands ''Bring, let
@@ -28,8 +28,8 @@ evidence:
     treads the heights; YHWH of hosts is his name; Captives will be dragged away with hooks and fishhooks;
     Ironic summons: ''Come to Bethel and transgress, to Gilgal and multiply transgression''; ''Prepare
     to meet your God, O Israel''; God makes it rain on one city and not on another, one field and not
-    another; Israel was like a brand plucked from the burning; The evil diseases of Egypt removed from
-    the obedient or brought on the disobedient; The ''overturned cities'' (al-mu''tafikat), Lot''s towns;
+    another; Israel was like a brand plucked from the burning; The ''overturned cities'' (al-mu''tafikat),
+    Lot''s towns; The evil diseases of Egypt removed from the obedient or brought on the disobedient;
     Locusts brought by an east wind devour all vegetation left after the hail; God swears by himself;
     God rains sulfur and fire from heaven on cities.'
   basis: reading
@@ -38,11 +38,11 @@ evidence:
     (umma) but split its affair into sects; Whether a prophet takes payment for his message [contrast
     between the texts]; Were there gods besides God in heaven and earth, both would have been ruined;
     False prophets prophesy ''from their own heart'', following their own spirit, having seen nothing;
-    Speaker is troubled by the prosperity and ease of the wicked (theodicy); God did not send the prophets
-    who promise peace; they prophesy a lying vision, divination and the deceit of their heart; God burdens
-    no soul beyond its capacity; Officers call the visiting prophet ''this madman'' (meshugga''); The
-    Prophet asks no wage for the message; God keeps a book in which names are written and from which sinners
-    are blotted.'
+    God did not send the prophets who promise peace; they prophesy a lying vision, divination and the
+    deceit of their heart; God burdens no soul beyond its capacity; Speaker is troubled by the prosperity
+    and ease of the wicked (theodicy); Officers call the visiting prophet ''this madman'' (meshugga'');
+    The Prophet asks no wage for the message; God keeps a book in which names are written and from which
+    sinners are blotted.'
   basis: reading
 - text: 'Cows of Bashan; ''yet you did not return''; prepare to meet your God: tagged by Claude (model),
     reading the Hebrew.'

@@ -20,14 +20,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Like a madman shooting firebrands and deadly arrows is a man who
-    deceives his neighbor and says ''I was only joking'' (weight 6.7). Pair score 6.7.'
+    deceives his neighbor and says ''I was only joking'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sayings on the sluggard, the meddler, the whisperer and the hypocrite: Burning lips with
-    an evil heart are like silver dross glazed over an earthen pot; He who meddles in a quarrel not his
-    own is like one who seizes a passing dog by the ears; Without wood the fire goes out; without a whisperer
-    quarreling ceases; He who rolls a stone, it will come back upon him; When the hater speaks graciously,
-    do not believe him, for seven abominations are in his heart; As a door turns on its hinge, so does
-    the sluggard on his bed; The sluggard is wiser in his own eyes than seven who answer with discretion;
+    an evil heart are like silver dross glazed over an earthen pot; Without wood the fire goes out; without
+    a whisperer quarreling ceases; He who rolls a stone, it will come back upon him; When the hater speaks
+    graciously, do not believe him, for seven abominations are in his heart; As a door turns on its hinge,
+    so does the sluggard on his bed; The sluggard is wiser in his own eyes than seven who answer with
+    discretion; He who meddles in a quarrel not his own is like one who seizes a passing dog by the ears;
     The sluggard buries his hand in the dish and will not even bring it back to his mouth; The sluggard
     says ''There is a lion outside; I shall be killed in the streets''; The evil plot encompasses only
     its own authors; The words of a whisperer are like delicious morsels that go down into the inner chambers
@@ -35,9 +35,9 @@ evidence:
   basis: reading
 - text: 'Only in Hypocrites who mock and the destroyed peoples: Hypocrites fear a surah will be revealed
     exposing what is in their hearts; Hypocrites mock the prophet as ''all ear'' (udhun), credulous; God''s
-    good pleasure (ridwan) is greater than the gardens of Eden; ''Hate evil, love good, establish justice
-    in the gate; perhaps God will be gracious to the remnant of Joseph''; Hypocrite men and women enjoin
-    wrong and forbid right and close their hands; Open your hand wide to the poor brother; do not harden
+    good pleasure (ridwan) is greater than the gardens of Eden; Hypocrite men and women enjoin wrong and
+    forbid right and close their hands; ''Hate evil, love good, establish justice in the gate; perhaps
+    God will be gracious to the remnant of Joseph''; Open your hand wide to the poor brother; do not harden
     your heart or shut your hand; The ''overturned cities'' (al-mu''tafikat), Lot''s towns; God forgets
     the damned today as they forgot the meeting of this day; Roll call of destroyed peoples: Noah''s,
     Ad, Thamud, Abraham''s people, Midian and the overturned cities; Paradise as gardens (of ʿAdn) beneath

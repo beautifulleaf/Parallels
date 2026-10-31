@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether an adopted or fostered child counts as one''s own child
-    [contrast between the texts] (weight 6.3). Pair score 6.3.'
+    [contrast between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The search for virgins, Esther made queen, and Mordecai foils the eunuchs'' plot: King
     grants the provinces a remission and gives gifts at the new queen''s feast; Virgins gathered from
     all provinces so the king may choose a new queen; Hero''s genealogy runs back to Kish the Benjaminite
     (Saul''s father); Heroine at the foreign court hides her people and kindred on her guardian''s orders;
-    Convicted plotters against the king are hanged (impaled) on a tree; A courtier''s service is recorded
-    in the royal book of chronicles before the king; Heroine has a Hebrew name (Hadassah) and a foreign
-    one (Esther); Two eunuch doorkeepers plot to kill the king; the hero learns of it and reports it;
-    A royal eunuch keeps the harem and supplies the women''s cosmetics; Hero''s family was deported from
-    Jerusalem with King Jeconiah; Heroine wins the favor of her guardian official, who gives her special
-    treatment; Heroine asks for nothing beyond what the eunuch advises when she goes to the king; and
-    5 more.'
+    A courtier''s service is recorded in the royal book of chronicles before the king; Heroine has a Hebrew
+    name (Hadassah) and a foreign one (Esther); Two eunuch doorkeepers plot to kill the king; the hero
+    learns of it and reports it; A royal eunuch keeps the harem and supplies the women''s cosmetics; Hero''s
+    family was deported from Jerusalem with King Jeconiah; Heroine wins the favor of her guardian official,
+    who gives her special treatment; Heroine asks for nothing beyond what the eunuch advises when she
+    goes to the king; Each maiden goes to the king for one night and passes to the concubines'' house;
+    and 5 more.'
   basis: reading
 - text: 'Only in Two hearts, zihar, adopted sons, and the prophet''s wives as mothers: God took a solemn
     covenant (mithaq) from the prophets: Muhammad, Noah, Abraham, Moses and Jesus son of Mary; Adopted
@@ -39,7 +39,8 @@ evidence:
     God has not put two hearts inside any man; Blood relatives are nearer to one another (in inheritance)
     in God''s book; The prophet''s wives are the mothers of the believers and may not be married after
     him; Zihar: a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying
-    is false and abhorrent.'
+    is false and abhorrent; The ruler (crown prince, prophet) is to be loved as, or to be closer than,
+    one''s own self [divergence between the texts].'
   basis: reading
 - text: 'The search for virgins, Esther made queen, and Mordecai foils the eunuchs'' plot: tagged by Claude
     (model), reading the Hebrew.'

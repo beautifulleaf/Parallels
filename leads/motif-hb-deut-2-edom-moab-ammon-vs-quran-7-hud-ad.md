@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Other nations displaced earlier peoples just as Israel will (Horites,
-    Avvim by Caphtorim) (weight 6.7); Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites)
-    defeated (weight 5.1). Pair score 11.8.'
+    Avvim by Caphtorim) (weight 7.7); Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites)
+    defeated (weight 6.1). Pair score 13.9.'
   basis: reading
 - text: 'Only in Passing Edom, Moab and Ammon; the giant aboriginal peoples: The rebellious generation
     dies out before entering the land; Narrator notes what another people calls a place or people; God

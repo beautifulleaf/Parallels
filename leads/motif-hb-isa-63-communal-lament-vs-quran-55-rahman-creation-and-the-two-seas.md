@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''We are the clay and you are our potter; we are all the work of
-    your hand'' (weight 6.0). Pair score 6.0.'
+    your hand'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Remembering the days of Moses - O that you would rend the heavens: No ear has heard and
     no eye has seen any God besides you who acts for those who wait for him; In all their affliction he
@@ -38,16 +38,15 @@ evidence:
     fire; the two seas and the barrier: God raised the sky and set the Balance: do not transgress in the
     balance; weigh with justice and do not skimp; Lord of the two easts and the two wests (the solstitial
     sunrises and sunsets); The Merciful (al-Rahman) taught the Quran, created man and taught him clear
-    speech (bayan); From the two seas come pearls and coral (marjan); A creation litany with a refrain
+    speech (bayan); From the two seas come pearls and coral (marjan); The divine balance does not tilt,
+    therefore a human judge may not tilt it [divergence between the texts]; A creation litany with a refrain
     after every line [divergence between the texts]; The text addresses jinn and humans together in the
     dual (''you two'', al-thaqalan, ''the two weighty ones''); All in heaven and earth ask of him; every
-    day he is engaged in some affair (kull yawm huwa fi sha''n); Earth and heavens will perish and wear
-    out like a garment, changed like clothing, but God remains the same; Man created from ringing clay
-    like pottery, the jinn from a smokeless flame of fire (marij min nar); Just weights and measures,
-    and the ground given for them [divergence between the texts]; Refrain repeated 31 times: ''Which then
-    of the bounties of your Lord will you two (jinn and humans) deny?''; Ships running on the sea like
-    landmarks/mountains are a sign; God could still the wind and leave them motionless or wreck them;
-    and 9 more.'
+    day he is engaged in some affair (kull yawm huwa fi sha''n); The deity made or presides over the balance;
+    do not tamper with it or make it short; A god sets up or holds the scales so that weighing in trade
+    is just; Earth and heavens will perish and wear out like a garment, changed like clothing, but God
+    remains the same; Man created from ringing clay like pottery, the jinn from a smokeless flame of fire
+    (marij min nar); and 14 more.'
   basis: reading
 - text: 'Remembering the days of Moses - O that you would rend the heavens: tagged by Claude (model),
     reading the Hebrew.'

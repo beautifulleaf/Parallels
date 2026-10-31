@@ -19,29 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s covenant with Israel is as sure as the fixed order of sun,
-    moon, stars and sea (weight 6.3). Pair score 6.3.'
+    moon, stars and sea (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured
     city: In the new age no one will need to teach his neighbor ''Know YHWH'', for all will know him;
     The blind, the lame and women in labor are among the returning exiles; Ephraim likens himself to an
     untrained calf, chastised, and slaps his thigh in repentance; God has loved his people with an everlasting
     love and drawn them with faithfulness; God creates a new thing on earth: ''a female shall encompass
-    a man''; God declares ''I am a father to Israel''; God will forgive iniquity and remember sin no more;
-    God who stirs up the sea so its waves roar; God''s innards yearn (hamu me''ai) with compassion for
-    his wayward son; The people who survived the sword found grace in the wilderness; If the heavens above
-    could be measured and the earth''s foundations searched out, God would reject Israel; God will make
-    a new covenant with Israel and Judah, unlike the one broken after the exodus; and 22 more.'
+    a man''; God will forgive iniquity and remember sin no more; God who stirs up the sea so its waves
+    roar; God''s innards yearn (hamu me''ai) with compassion for his wayward son; The people who survived
+    the sword found grace in the wilderness; If the heavens above could be measured and the earth''s foundations
+    searched out, God would reject Israel; God will make a new covenant with Israel and Judah, unlike
+    the one broken after the exodus; The prophet awakes from a vision-sleep that was sweet to him; and
+    22 more.'
   basis: reading
 - text: 'Only in Patience, Safa and Marwa, signs of creation: On seeing the punishment, those followed
     disown their followers, who wish for a return to disown them in turn; Safa and Marwa are among God''s
     waymarks; circuit between them permitted on pilgrimage; Formula of the afflicted: ''To God we belong
-    and to him we return''; ''YHWH gave and YHWH has taken; blessed be the name of YHWH''; Those slain
-    in God''s way are not dead but alive, provided for with their Lord; God''s test by loss of goods,
-    lives and children [divergence between the texts]; Those who conceal the revealed signs are cursed
-    by God and by all who curse; Ships go to and fro on the great sea; Catalogue of signs: heavens and
-    earth, alternation of night and day, ships, rain reviving dead earth, beasts, winds, clouds; Hear
-    O Israel: YHWH our God, YHWH is one; Declaration that YHWH is God and there is no other besides him;
-    Rain from the sky gives life to the earth after its death, a sign of resurrection.'
+    and to him we return''; In affliction the person declares ''I belong to (the god)''; ''If only (the
+    enemy / the wrongdoers) knew or saw'' the god''s strength (formula); ''YHWH gave and YHWH has taken;
+    blessed be the name of YHWH''; God''s test by loss of goods, lives and children [divergence between
+    the texts]; Those who conceal the revealed signs are cursed by God and by all who curse; Those slain
+    in God''s way are not dead but alive, provided for with their Lord; The dead are declared ''not dead,
+    but alive'' [neutral] [divergence between the texts]; Ships go to and fro on the great sea; Catalogue
+    of signs: heavens and earth, alternation of night and day, ships, rain reviving dead earth, beasts,
+    winds, clouds; and 3 more.'
   basis: reading
 - text: 'Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city:
     tagged by Claude (model), reading the Hebrew.'

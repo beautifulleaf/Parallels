@@ -19,31 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not beget and was not begotten [contrast between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 2 - the nations rage; the king as God''s son: God gives the king the nations as
-    inheritance and the ends of the earth as possession; God tells the king ''You are my son; today I
-    have begotten you''; God installs his king on Zion, his holy mountain; Rulers told to serve God with
-    trembling and ''kiss the son'' (nashqu bar); Happy are all who take refuge (hosim) in God; The king
-    will break the nations with a rod of iron and shatter them like a potter''s vessel; Whether God has
-    a son, or calls his anointed king his begotten son [response between the texts]; Whether God has or
-    begets a son [contrast between the texts]; Nations and kings of the earth conspire against YHWH and
-    his anointed (mashiah); They say ''al-Rahman has taken a son''; it is not fitting for the Merciful
-    [response between the texts]; Whether God has, begets or takes sons or other offspring [contrast between
-    the texts]; God in heaven laughs at and mocks those who plot against him or the righteous; and 1 more.'
+    inheritance and the ends of the earth as possession; God installs his king on Zion, his holy mountain;
+    Rulers told to serve God with trembling and ''kiss the son'' (nashqu bar); Happy are all who take
+    refuge (hosim) in God; The king will break the nations with a rod of iron and shatter them like a
+    potter''s vessel; Whether God has a son, or calls his anointed king his begotten son [response between
+    the texts]; Whether God has or begets a son [contrast between the texts]; Nations and kings of the
+    earth conspire against YHWH and his anointed (mashiah); They say ''al-Rahman has taken a son''; it
+    is not fitting for the Merciful [response between the texts]; Whether God has, begets or takes sons
+    or other offspring [contrast between the texts]; God in heaven laughs at and mocks those who plot
+    against him or the righteous; Whether God has a son, or calls his anointed king his begotten son [contrast
+    between the texts]; and 1 more.'
   basis: reading
 - text: 'Only in Sincerity, daybreak and mankind: God''s unity and the two refuges: Refuge from the evil
     of darkness (or the moon) when it settles (ghasiq idha waqab); Refuge from the evil of an envier when
     he envies (evil eye); God is al-Samad (the Eternal Refuge, the solid one who needs nothing); Triple
     title: Lord of mankind, King of mankind, God of mankind; Refuge from the evil of the slinking whisperer
-    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; God does not beget
-    and was not begotten; Protection from the terror of the night, the arrow by day, the pestilence (dever)
-    stalking in darkness and Qeteb that ravages at noon; Protective formula ''Say: I seek refuge with
-    the Lord of...'' (qul a''udhu bi-rabbi) against named evils; Refuge from the evil of those (women)
-    who blow on knots (al-naffathat fi al-''uqad), i.e. knot-tying sorcery; Psalm used as protection against
-    demons and harm (later amulet and ''song of plagues''); Cluster of divine epithets in sequence (e.g.
-    the Forgiving, the Loving, Lord of the Throne, the Glorious, doer of what he wills; or Lord, King,
-    God of mankind); ''To whom will you liken God, what likeness compare to him?''; and 2 more.'
+    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; Calling on a divine
+    name or seeking refuge with God protects a person in the dark of night; A deity is called king of
+    (all) mankind; Protection against beings or evil of the night, invoked with the coming of dawn; Protective
+    formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi) against named evils; Sorcery
+    is done by binding or knotting; Witchcraft worked by a (female) witch through knots or bonds, from
+    which release or refuge is sought; Psalm used as protection against demons and harm (later amulet
+    and ''song of plagues''); and 10 more.'
   basis: reading
 - text: 'Psalm 2 - the nations rage; the king as God''s son: tagged by Claude (model), reading the Hebrew.'
   basis: reading

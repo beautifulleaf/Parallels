@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are darkened and the stars withdraw their shining (weight
-    5.8). Pair score 5.8.'
+    6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Judgment of the nations in the Valley of Jehoshaphat; the fountain from the temple: The
     nations cast lots for God''s people, trading a boy for a harlot and a girl for wine; Put in the sickle,
@@ -29,9 +29,9 @@ evidence:
     your plowshares into swords and pruning hooks into spears (call to war); A spring issues from the
     house of YHWH and waters the Wadi of Shittim (Acacias); Jerusalem will be holy and strangers will
     pass through it no more; God gathers all nations to the Valley of Jehoshaphat (''YHWH judges'') to
-    judge them; YHWH roars from Zion and utters his voice from Jerusalem; heaven and earth shake; In that
-    day the mountains drip sweet wine and the hills flow with milk; A river flows from under the temple
-    threshold, growing ever deeper; and 1 more.'
+    judge them; YHWH roars from Zion and utters his voice from Jerusalem; heaven and earth shake; A river
+    flows from under the temple threshold, growing ever deeper; On the day the sky heaves (tamur) and
+    the mountains move away; and 1 more.'
   basis: reading
 - text: 'Only in The folding up: twelve signs of the end and the messenger on the horizon: The revelation
     is the word of a noble messenger, powerful, secure with the Lord of the Throne, obeyed and trustworthy;
@@ -41,9 +41,9 @@ evidence:
     horizon; At the end the souls are paired (with bodies or their like); At the end the wild beasts are
     gathered together; At the judgment the girl buried alive (al-maw''uda) is asked for what sin she was
     killed; All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig [divergence between the texts]; Victim''s blood cries out from the
-    ground to God; You will not will unless God wills; Then each soul will know what it has brought forward
-    and what it left behind; and 7 more.'
+    withered leaves from vine and fig [divergence between the texts]; The sun is covered (wrapped) and
+    gives no light; Victim''s blood cries out from the ground to God; You will not will unless God wills;
+    and 10 more.'
   basis: reading
 - text: 'Judgment of the nations in the Valley of Jehoshaphat; the fountain from the temple: tagged by
     Claude (model), reading the Hebrew.'

@@ -20,12 +20,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The meek / those who wait for YHWH / the righteous and their seed
-    shall inherit the land (yirshu arets) (weight 5.4). Pair score 5.4.'
+    shall inherit the land (yirshu arets) (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Psalm 25 - acrostic prayer for guidance and forgiveness: Plea for forgiveness of iniquity
-    ''for your name''s sake''; ''Remember not the sins of my youth and my transgressions''; The secret
-    counsel (sod) of YHWH is with those who fear him; Acrostic ends with an extra closing line beginning
-    with pe (pedeh, ''redeem'') outside the alphabet; God brings the speaker''s feet out of the net; The
+    ''for your name''s sake''; The secret counsel (sod) of YHWH is with those who fear him; Acrostic ends
+    with an extra closing line beginning with pe (pedeh, ''redeem'') outside the alphabet; God brings
+    the speaker''s feet out of the net; ''Remember not the sins of my youth and my transgressions''; The
     poem is an alphabetic acrostic (lines or stanzas begin with successive letters); Psalm superscription
     ascribes the poem to David (le-david).'
   basis: reading
@@ -34,10 +34,12 @@ evidence:
     idolaters and what they worship are fuel (ḥaṣab) for hell; The prophet was sent only as a mercy to
     the worlds; As God began the first creation he will repeat it; Gog and Magog are let loose and swarm
     down from every height before the end; Humanity was one community (umma) but split its affair into
-    sects; Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts]; Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological
-    invader; All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig.'
+    sects; A savage people is let loose and pours down from the mountains or heights [divergence between
+    the texts]; The heavens are folded like cloth or a scroll before or by the deity; Gog and Magog are
+    let loose and swarm down from every height before the end [divergence between the texts]; Gog of the
+    land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader; All the host
+    of heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves from
+    vine and fig.'
   basis: reading
 - text: 'Psalm 25 - acrostic prayer for guidance and forgiveness: tagged by Claude (model), reading the
     Hebrew.'

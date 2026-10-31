@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A person''s name declared to match his character: ''as his name
-    is, so is he'' (weight 6.7). Pair score 6.7.'
+    is, so is he'' (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Nabal the fool, Abigail the wise and David''s averted vengeance: The soul bound in ''the
     bundle of the living'' with God; A rich man insultingly refuses food to the hero''s men at a feast;

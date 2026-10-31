@@ -17,8 +17,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Messengers offer peace terms before battle (weight 5.8). Pair score
-    5.8.'
+- text: 'Shared motifs, rarest first: Messengers offer peace terms before battle (weight 6.1). Pair score
+    6.1.'
   basis: reading
 - text: 'Only in Defeat of Sihon king of Heshbon: God hardens an enemy king''s heart so he can be defeated;
     God forbids Israel to take land he allotted to kin nations (Edom, Moab, Ammon); Peace offered or accepted

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rejecters reply ''we follow what we found our fathers upon'' (weight
-    5.8). Pair score 5.8.'
+    6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in The Judeans in Egypt defend their cult of the Queen of Heaven: Worshipers argue their
     goddess cult brought plenty and abandoning it brought disaster; Women bake cakes bearing the image
@@ -30,20 +30,20 @@ evidence:
     Hophra will be handed over to those who seek his life; Events will show whose word will stand, God''s
     or the people''s; The wickedness of the kings of Judah and of their wives; Women burn incense to a
     goddess, claiming they did so with their husbands'' knowledge; Opponents refuse the prophet: ''We
-    found our fathers on a way and follow in their footsteps''; Offerings, incense and libations to the
-    ''Queen of Heaven''; and 2 more.'
+    found our fathers on a way and follow in their footsteps''; God sends his messengers ''rising early
+    and sending'' out of compassion; and 2 more.'
   basis: reading
 - text: 'Only in God''s signs, the inexhaustible words, and the five things only God knows: Creating and
     resurrecting all of you is for God like a single soul; Waves overwhelm the ship like canopies (zulal);
     If all trees were pens and the sea, replenished by seven more seas, were ink, God''s words would not
     be exhausted; The religion of the fathers invoked, held to or renounced [contrast between the texts];
     Whoever rejects false gods (taghut) and believes in God grasps the firmest handhold that never breaks;
-    On the Day no parent can avail his child, nor child his parent; Only God knows when the mountain goats
-    and hinds give birth and counts their months; God alone knows the Hour, sends rain, knows what is
-    in wombs; no soul knows what it will earn tomorrow or in what land it will die; Seafarers cry to God
-    in a storm; what they do once rescued [divergence between the texts]; Sailors in a storm call on God
-    sincerely, vow thanks, and transgress once saved; Sun and moon are subjected, each running to an appointed
-    term; God makes the night pass into the day and the day into the night; and 1 more.'
+    On the Day no parent can avail his child, nor child his parent; A great wave at sea; the man brought
+    safe to land and what he then does for the deity [neutral] [divergence between the texts]; No one
+    knows what tomorrow will bring; Only God knows when the mountain goats and hinds give birth and counts
+    their months; God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it
+    will earn tomorrow or in what land it will die; Humans are not told the day or the place of their
+    death; No one knows what will happen when he thinks of tomorrow; and 5 more.'
   basis: reading
 - text: 'The Judeans in Egypt defend their cult of the Queen of Heaven: tagged by Claude (model), reading
     the Hebrew.'

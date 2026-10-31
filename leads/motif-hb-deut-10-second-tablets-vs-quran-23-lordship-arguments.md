@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Heaven and the heaven of heavens belong to God (weight 5.4). Pair
-    score 5.4.'
+- text: 'Shared motifs, rarest first: Heaven and the heaven of heavens belong to God (weight 6.5). Pair
+    score 6.5.'
   basis: reading
 - text: 'Only in Second tablets and ark; Levites set apart; what God requires: Aaron dies and his son
     Eleazar becomes priest in his place; Wooden ark made to hold the stone tablets; God''s choice of Abraham,

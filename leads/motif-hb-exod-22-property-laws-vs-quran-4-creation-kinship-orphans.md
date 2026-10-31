@@ -19,28 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man who seduces an unbetrothed virgin must marry her or pay the
-    bride-price (weight 6.7); Who receives the marriage payment [divergence between the texts] (weight
-    6.3). Pair score 13.0.'
+    bride-price (weight 7.7); Who receives the marriage payment [divergence between the texts] (weight
+    7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Covenant Code - theft, deposits, seduction: Liability for a borrowed animal that dies
     when the owner is absent; A dispute over deposited goods is brought before God (ha-elohim) for decision;
-    A thief pays double; Killing a burglar caught breaking in at night incurs no bloodguilt, but by day
-    it does; An oath by YHWH settles a dispute without witnesses; A thief who cannot pay is sold for his
-    theft; A herdsman brings the remains of a torn animal as evidence and is not liable; Liability for
-    one''s grazing animals or spreading fire damaging another''s field; The penalty prescribed for theft
+    A thief pays double; A thief who cannot pay is sold for his theft; A herdsman brings the remains of
+    a torn animal as evidence and is not liable; Liability for one''s grazing animals or spreading fire
+    damaging another''s field; Killing a burglar caught breaking in at night incurs no bloodguilt, but
+    by day it does; An oath by YHWH settles a dispute without witnesses; The penalty for theft [neutral]
     [contrast between the texts].'
   basis: reading
-- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Those who devour orphans''
-    property devour fire into their bellies; Fear God, by whom you ask of one another, and the wombs (kinship
-    ties, al-arḥām); Kin, orphans and the poor present at the division of an estate are given something
-    from it; Property is not handed to the feeble-minded (sufahāʾ); they are fed and clothed from it;
-    Women as well as men receive a fixed share of what parents and kin leave; The husband gives the bride
-    her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part; God hears the cry of the oppressed
-    widow and orphan and punishes measure for measure; How the first woman was made [divergence between
-    the texts]; Do not enter the fields of the fatherless, for their redeemer (go''el) is strong and will
-    plead their cause; A man may marry two, three or four wives, or only one if he fears injustice; First
-    woman made from the man''s rib or side while he sleeps; Divine blessing: be fruitful, multiply, fill
-    the earth; and 3 more.'
+- text: 'Only in One soul, the wombs, orphans'' property and the bride-gift: Fear God, by whom you ask
+    of one another, and the wombs (kinship ties, al-arḥām); Kin, orphans and the poor present at the division
+    of an estate are given something from it; Property is not handed to the feeble-minded (sufahāʾ); they
+    are fed and clothed from it; Women as well as men receive a fixed share of what parents and kin leave;
+    The husband gives the bride her marriage gift (ṣaduqa, ajr) as her own; she may freely remit part;
+    Those who devour orphans'' property devour fire into their bellies; How the first woman was made [divergence
+    between the texts]; A man may marry two, three or four wives, or only one if he fears injustice; To
+    whom the bride-price is paid and in what (silver and gold to her father; service to her father; the
+    gift to the woman herself) [divergence between the texts]; Do not covet; each has his own share (in
+    the division among kin); Do not enter the fields of the fatherless, for their redeemer (go''el) is
+    strong and will plead their cause; First woman made from the man''s rib or side while he sleeps; and
+    5 more.'
   basis: reading
 - text: 'Covenant Code - theft, deposits, seduction: tagged by Claude (model), reading the Hebrew.'
   basis: reading

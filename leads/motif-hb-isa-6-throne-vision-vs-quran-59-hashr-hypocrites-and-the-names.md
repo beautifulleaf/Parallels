@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty,
-    Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names (weight 5.6).
-    Pair score 5.6.'
+    Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names (weight 6.6).
+    Pair score 6.6.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -29,12 +29,12 @@ evidence:
     terebinth or oak whose stump is the holy seed; At the heavenly voice the doorposts shake and the house
     fills with smoke; Prophet sees the Lord seated on a high and lifted-up throne, his train filling the
     temple; Heavenly beings call ''Holy, holy, holy is YHWH of hosts; the whole earth is full of his glory'';
-    God asks ''Whom shall I send, and who will go for us?'' and the prophet volunteers ''Here am I, send
-    me''; Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The
-    angels say: each of us has a known station; we are ranged in ranks; we glorify; God has not given
-    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
-    Hardening of the heart, ears and eyes of the hearers [divergence between the texts]; God is ''Lord
-    of the mighty Throne'' (rabb al-''arsh al-''azim); and 11 more.'
+    Prophet cries ''Woe is me, I am undone, a man of unclean lips'' for having seen the King; The angels
+    say: each of us has a known station; we are ranged in ranks; we glorify; God has not given the people
+    a heart to know, eyes to see, ears to hear until today [divergence between the texts]; Hardening of
+    the heart, ears and eyes of the hearers [divergence between the texts]; God is ''Lord of the mighty
+    Throne'' (rabb al-''arsh al-''azim); The prophet''s word and a people deaf and blind to it [divergence
+    between the texts]; and 11 more.'
   basis: reading
 - text: 'Only in The hypocrites'' false promises, Satan''s disowning, the Quran on a mountain, and the
     litany of beautiful names: They fight only from fortified towns or behind walls; you think them united
@@ -44,6 +44,7 @@ evidence:
     humbled and split asunder for fear of God; Like Satan who says to man ''Disbelieve!'' and when he
     disbelieves says ''I am quit of you, I fear God''; A mountain shaken by God''s descent or by his revelation
     [divergence between the texts]; The mountain smokes like a furnace and quakes as God descends in fire;
+    A mountain bows, or fails to bow, before the divine, and is broken [divergence between the texts];
     ''There is none like you and no God beside you''; Do evildoers think God will make them equal to the
     righteous in life and in death?; Opening formula: whatever is in the heavens and the earth glorifies
     God (sabbaha / yusabbihu lillah).'

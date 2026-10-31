@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Doxology: ''Blessed be the name of your Lord, possessor of majesty
-    and honor'' (weight 6.7). Pair score 6.7.'
+    and honor'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 72, for Solomon; the ideal king; end of Book II: The king''s dominion extends from
     sea to sea and from the River to the ends of the earth; The king descends like rain on mown grass,
     showers watering the earth; The king''s name will flourish (yinnon) as long as the sun; later read
     as a name of the Messiah; All nations will bless themselves by the king and call him happy; Colophon:
-    ''The prayers of David son of Jesse are ended''; Enemies bow down and lick the dust before the king
-    or God; The king (or his name, dynasty, throne) will endure as long as the sun and moon; Kings of
-    Tarshish, the islands, Sheba and Seba bring tribute and gold; The earth has yielded its produce as
-    a sign of God''s blessing; The ideal king judges the poor with righteousness, saves the needy and
-    crushes the oppressor; A doxology (''Blessed be YHWH ... Amen and amen'') closes one of the five books
-    of Psalms; All families of the earth will be blessed through the patriarch.'
+    ''The prayers of David son of Jesse are ended''; The king (or his name, dynasty, throne) will endure
+    as long as the sun and moon; Kings of Tarshish, the islands, Sheba and Seba bring tribute and gold;
+    The earth has yielded its produce as a sign of God''s blessing; A doxology (''Blessed be YHWH ...
+    Amen and amen'') closes one of the five books of Psalms; All families of the earth will be blessed
+    through the patriarch; Enemies bow down and lick the dust before the king or God; The ideal king judges
+    the poor with righteousness, saves the needy and crushes the oppressor.'
   basis: reading
 - text: 'Only in Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs
     of gardens with secluded maidens: The damned go round between Gehenna and seething boiling water;
@@ -42,9 +42,8 @@ evidence:
     gardens, dark green (mudhammatan), with gushing springs, fruit, palms and pomegranates; ''We shall
     attend to you, O two weighty ones (al-thaqalan)''; Reclining on couches lined with brocade, with the
     fruit of the gardens hanging near; The text addresses jinn and humans together in the dual (''you
-    two'', al-thaqalan, ''the two weighty ones''); The guilty are known by their marks and seized by the
-    forelocks and the feet; O company of jinn and men, pass beyond the regions of the heavens and earth
-    if you can; you cannot without authority; flames and molten brass will be sent on you; and 5 more.'
+    two'', al-thaqalan, ''the two weighty ones''); Favour is repaid with favour (goodness with goodness);
+    The guilty are known by their marks and seized by the forelocks and the feet; and 8 more.'
   basis: reading
 - text: 'Psalm 72, for Solomon; the ideal king; end of Book II: tagged by Claude (model), reading the
     Hebrew.'

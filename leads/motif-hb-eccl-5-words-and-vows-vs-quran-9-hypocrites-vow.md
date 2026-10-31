@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Better not to vow than to vow and not pay (weight 6.7); Pay vows
-    without delay; not vowing is no sin (weight 6.3). Pair score 13.0.'
+- text: 'Shared motifs, rarest first: Better not to vow than to vow and not pay (weight 7.7); Pay vows
+    without delay; not vowing is no sin (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in Few words before God and paying vows: Do not say before the messenger (mal''akh) ''it
     was a mistake (shegagah)'' lest God be angry at your voice; Dreams come with much business and a fool''s
@@ -30,11 +30,13 @@ evidence:
   basis: reading
 - text: 'Only in The broken vow of charity; seventy prayers in vain: Hypocrites mock believers who give
     voluntarily and those who can give only their effort; Men vow to give alms if God enriches them, then
-    turn miserly, and God sets hypocrisy in their hearts; Hero vows that if God protects and provides
-    for him, he will worship and tithe [divergence between the texts]; Whether the prophet should intercede
+    turn miserly, and God sets hypocrisy in their hearts; The vow made to the deity is not kept, the deity
+    takes note of the breach and the vower is punished; Hero vows that if God protects and provides for
+    him, he will worship and tithe [divergence between the texts]; Whether the prophet should intercede
     for a sinful people [contrast between the texts]; Even if the prophet asks forgiveness for them seventy
     times God will not forgive them; God is near in their mouths but far from their kidneys (hearts);
-    God forbids the prophet to pray or intercede for the people, for he will not hear.'
+    The petitioner promises a gift if the deity grants the request: ''if you do this, I will give you
+    ...''; God forbids the prophet to pray or intercede for the people, for he will not hear.'
   basis: reading
 - text: 'Few words before God and paying vows: tagged by Claude (model), reading the Hebrew.'
   basis: reading

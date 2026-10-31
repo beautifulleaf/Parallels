@@ -22,8 +22,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is exempted from going out to war [contrast between the texts]
-    (weight 6.3); Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-    (weight 5.8); Messengers offer peace terms before battle (weight 5.8). Pair score 17.8.'
+    (weight 7.3); Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
+    (weight 6.5); Messengers offer peace terms before battle (weight 6.1). Pair score 20.0.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -47,7 +47,8 @@ evidence:
     divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts [divergence
     between the texts]; Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by
     me''; Oath sworn by raising the hand to God; Whether those who stayed behind share in the spoil [contrast
-    between the texts]; The prophet is sent as witness, bearer of good tidings and warner; and 1 more.'
+    between the texts]; Household, wife or family as a ground for staying behind from a campaign [contrast
+    between the texts]; and 5 more.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

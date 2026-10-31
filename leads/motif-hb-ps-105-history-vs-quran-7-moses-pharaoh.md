@@ -18,21 +18,21 @@ motifs:
 - variant-plague-list
 - plague-of-frogs
 - nile-water-turned-to-blood
-- plague-of-locusts
 - hardening-of-pharaohs-heart-as-divergence
+- plague-of-locusts
 - hardening-of-pharaohs-heart
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A poetic list of the Egyptian plagues differs in number and order
-    from Exodus [divergence between the texts] (weight 6.7); The dust of the earth becomes lice on man
-    and beast (weight 6.3); A poetic list of the Egyptian plagues differs in number and order from Exodus
-    (weight 6.0); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs (weight 6.0);
-    Nile water is turned to blood (weight 5.8); Locusts brought by an east wind devour all vegetation
-    left after the hail (weight 5.6); The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people [divergence between the texts] (weight 5.6); The king''s heart is hardened (by
-    himself or by God) so he refuses to release the people (weight 4.6). Pair score 46.5.'
+    from Exodus [divergence between the texts] (weight 7.7); The dust of the earth becomes lice on man
+    and beast (weight 7.3); A poetic list of the Egyptian plagues differs in number and order from Exodus
+    (weight 7.1); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs (weight 7.1);
+    Nile water is turned to blood (weight 6.6); The king''s heart is hardened (by himself or by God) so
+    he refuses to release the people [divergence between the texts] (weight 6.6); Locusts brought by an
+    east wind devour all vegetation left after the hail (weight 6.5); The king''s heart is hardened (by
+    himself or by God) so he refuses to release the people (weight 5.7). Pair score 54.6.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -52,11 +52,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 17 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 27 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'
@@ -150,22 +150,6 @@ matches:
         مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
     note: only 'blood'
 - kind: shared
-  label: Locusts brought by an east wind devour all vegetation left after the hail
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 105:34-35
-      lang: he
-      text: (105:34) אָ֭מַר וַיָּבֹ֣א אַרְבֶּ֑ה וְ֝יֶ֗לֶק וְאֵ֣ין מִסְפָּֽר (105:35) וַיֹּ֣אכַל כָּל עֵ֣שֶׂב
-        בְּאַרְצָ֑ם וַ֝יֹּ֗אכַל פְּרִ֣י אַדְמָתָֽם
-    note: arbeh and yeleq without number
-  - tradition: islam
-    passages:
-    - ref: Quran 7:133
-      lang: ar
-      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- kind: shared
   label: The king's heart is hardened (by himself or by God) so he refuses to release the people
   sides:
   - tradition: judaism
@@ -191,6 +175,22 @@ matches:
       then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā bihā
       fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
       and break their word (yankuthūna). God never hardens them in this unit.'
+- kind: shared
+  label: Locusts brought by an east wind devour all vegetation left after the hail
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:34-35
+      lang: he
+      text: (105:34) אָ֭מַר וַיָּבֹ֣א אַרְבֶּ֑ה וְ֝יֶ֗לֶק וְאֵ֣ין מִסְפָּֽר (105:35) וַיֹּ֣אכַל כָּל עֵ֣שֶׂב
+        בְּאַרְצָ֑ם וַ֝יֹּ֗אכַל פְּרִ֣י אַדְמָתָֽם
+    note: arbeh and yeleq without number
+  - tradition: islam
+    passages:
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
 - kind: shared
   label: The king's heart is hardened (by himself or by God) so he refuses to release the people
   sides:

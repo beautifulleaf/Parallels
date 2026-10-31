@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Muhammad is not the father of any of your men but the messenger
-    of God and the seal of the prophets (khatam al-nabiyyin) (weight 6.7). Pair score 6.7.'
+    of God and the seal of the prophets (khatam al-nabiyyin) (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Daniel''s penitential prayer and the seventy weeks: The angel arrives in swift flight
     at the time of the evening offering, while the seer is still praying; An anointed one (mashiah) is

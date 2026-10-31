@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Quraysh''s security pact (ilaf) and caravan journeys of winter and
-    summer; they should worship the Lord of this House who fed and secured them (weight 6.7). Pair score
-    6.7.'
+    summer; they should worship the Lord of this House who fed and secured them (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Covenant at Shechem; ''choose this day whom you will serve''; deaths of Joshua and Eleazar:
     God set darkness between Israel and the pursuing Egyptians; A priest is buried on the hill belonging

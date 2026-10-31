@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 5.4). Pair score
-    5.4.'
+- text: 'Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 6.5). Pair score
+    6.5.'
   basis: reading
 - text: 'Only in Sins of Eli''s sons and the oracle against Eli''s house: Sons of the priest abuse the
     sacrifices and lie with women at the sanctuary; Mother makes a small robe for her son each year at
@@ -35,8 +35,8 @@ evidence:
     by gestures; Zechariah is made Mary''s guardian; Prophet promises a childless woman with an old husband
     a son ''at this season next year''; God chose Adam, Noah, the family of Abraham and the family of
     Imran over the worlds; Doubt voiced at the promise of a son in old age [divergence between the texts];
-    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; Mother vows her (unborn)
-    child to God''s service [divergence between the texts]; and 13 more.'
+    The family of Amram / Imran and Miriam / Maryam [divergence between the texts]; A mother commits her
+    child to her god''s keeping, against sin or against the evil one; and 16 more.'
   basis: reading
 - text: 'Sins of Eli''s sons and the oracle against Eli''s house: tagged by Claude (model), reading the
     Hebrew.'

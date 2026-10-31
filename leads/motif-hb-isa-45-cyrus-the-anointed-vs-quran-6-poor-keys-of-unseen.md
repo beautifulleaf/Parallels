@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: With God are the keys of the unseen (mafātiḥ al-ghayb); none knows
-    them but he (weight 6.7). Pair score 6.7.'
+    them but he (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -39,10 +39,11 @@ evidence:
 - text: 'Only in Do not drive away the poor; the keys of the unseen and the falling leaf: Do not drive
     away those who call on their Lord morning and evening seeking his face; God sends guardians (ḥafaẓa)
     over people; Not a leaf falls but he knows it, nor a grain in the darkness of the earth; God takes
-    your souls by night (sleep) and raises you by day until the appointed term; Nothing wet or dry but
-    is in a clear book; God accepts repentance from those who do evil in ignorance and soon repent; God
-    has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma); Angels (God''s messengers) take the
-    souls of the dying; Intercession avails only for whom God permits.'
+    your souls by night (sleep) and raises you by day until the appointed term; Every single thing or
+    assignment is counted and kept in a written record; Nothing wet or dry but is in a clear book; God
+    accepts repentance from those who do evil in ignorance and soon repent; God has prescribed mercy for
+    himself (kataba ʿalā nafsihi l-raḥma); Angels (God''s messengers) take the souls of the dying; Intercession
+    avails only for whom God permits.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

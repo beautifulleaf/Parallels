@@ -18,22 +18,23 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Without water, purify with clean earth (tayammum), wiping face and
-    hands (weight 6.3). Pair score 6.3.'
+    hands (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The red heifer and corpse impurity: Ash mixed with running (''living'') water sprinkled
     to cleanse; Those who prepare the purifying agent are themselves rendered impure; A corpse defiles
-    everyone and every open vessel in the tent; Cedar wood, hyssop and scarlet thread used in a purification
-    rite; What contact with a corpse does [contrast between the texts]; Description of the cow required
-    by God [divergence between the texts]; Unblemished red cow never yoked is burned whole for purifying
-    ash; Purification by sprinkling on the third and seventh days; Contact with a human corpse makes one
-    ritually impure; Blood or water sprinkled seven times; The offender ''shall be cut off from his people''
-    (karet).'
+    everyone and every open vessel in the tent; What contact with a corpse does [contrast between the
+    texts]; Description of the cow required by God [divergence between the texts]; Purification by sprinkling
+    on the third and seventh days; Cedar wood, hyssop and scarlet thread used in a purification rite;
+    Contact with a human corpse makes one ritually impure; Unblemished red cow never yoked is burned whole
+    for purifying ash; Blood or water sprinkled seven times; The offender ''shall be cut off from his
+    people'' (karet).'
   basis: reading
 - text: 'Only in Prayer not while drunk; bathing and dry ablution: Do not approach prayer while intoxicated,
     until you know what you say; One in major impurity (junub) must bathe before prayer, except a traveller
     passing through; Purification after seminal emission or intercourse [divergence between the texts];
     Emission of semen makes a man (and his partner) unclean until evening; No wine before approaching
-    God [divergence between the texts]; Priests may not drink wine or strong drink when entering the tent.'
+    God [divergence between the texts]; One who has had intercourse must wash before approaching the deity''s
+    service or prayer; Priests may not drink wine or strong drink when entering the tent.'
   basis: reading
 - text: 'The red heifer and corpse impurity: tagged by Claude (model), reading the Hebrew.'
   basis: reading

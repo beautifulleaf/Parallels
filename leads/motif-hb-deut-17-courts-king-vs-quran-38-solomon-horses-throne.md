@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: King must not multiply horses, wives or silver and gold, nor return
-    the people to Egypt (weight 5.3). Pair score 5.3.'
+    the people to Egypt (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Idolater''s trial; witnesses; high court; law of the king: King writes a copy of the
     Torah and reads it all his days; King must be chosen by God from among brothers, not a foreigner;
@@ -29,14 +29,15 @@ evidence:
     horses, cattle and tillage; Difficult cases referred to the Levitical priests and judge at the chosen
     place; defiance is capital; Amassing war horses, and trust in God [contrast between the texts]; Blemished
     animal (lame, blind) may not be sacrificed; How many witnesses are required [divergence between the
-    texts]; Formula: you shall purge the evil from your midst; Prohibition of worshipping sun, moon, stars,
-    the host of heaven; and 1 more.'
+    texts]; Prohibition of worshipping sun, moon, stars, the host of heaven; Formula: you shall purge
+    the evil from your midst; and 1 more.'
   basis: reading
 - text: 'Only in Solomon''s steeds, the body on his throne, and the unmatched kingdom: God tested Solomon
     by placing a body (jasad) on his throne; then he repented; Devils serve Solomon as builders and divers,
     and others are bound together in fetters; Solomon asks for a kingdom such as no one after him should
     have; Fine steeds shown to Solomon in the evening distract him from remembrance of God until the sun
-    hides; he has them brought back and strokes (or slashes) their legs and necks; Solomon''s horses [divergence
+    hides; he has them brought back and strokes (or slashes) their legs and necks; No king after the speaker
+    will equal (or be given) what he has [divergence between the texts]; Solomon''s horses [divergence
     between the texts]; King keeps tens of thousands of chariot horses and horsemen; What Solomon asks
     of God and the gift none after him will match [divergence between the texts]; The stormy wind is subjected
     to Solomon, blowing at his command; The enemy''s horses are hamstrung and their chariots burned by

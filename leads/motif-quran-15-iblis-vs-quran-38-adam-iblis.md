@@ -20,26 +20,31 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Deity breathes the breath of life into the first human''s nostrils
-    [divergence between the texts] (weight 6.3); God expels Iblis as accursed (rajim) with a curse until
-    the Day of Judgment (weight 6.0); The devil asks for and is granted respite until the day the dead
-    are raised (weight 5.8); Deity breathes the breath of life into the first human''s nostrils (weight
-    5.3); First human shaped from dust, clay or soil (weight 4.6). Pair score 27.9.'
+    [divergence between the texts] (weight 7.3); God expels Iblis as accursed (rajim) with a curse until
+    the Day of Judgment (weight 7.1); The devil asks for and is granted respite until the day the dead
+    are raised (weight 6.8); Deity breathes the breath of life into the first human''s nostrils (weight
+    6.1); First human shaped from dust, clay or soil (weight 5.2). Pair score 32.5.'
   basis: reading
 - text: 'Only in Man from black mud, jinn from scorching fire, and Iblis''s refusal (Surah 15:26-50):
     The pious are in gardens and springs, entering in peace and security; Hell has seven gates, each with
     an assigned portion of the damned; The jinn were created before humans from smokeless or scorching
-    fire; In paradise no fatigue touches them and they are never expelled from it; God removes all rancor
-    from the hearts of those in paradise; The expelled devil vows to lie in wait on the straight path
-    and mislead humanity; Satan has no authority over God''s sincere servants, only over those who follow
-    him; God commands the angels to prostrate before the first man, and they do; The devil (Iblis) alone
-    refuses to bow to the first man.'
+    fire; In paradise no fatigue touches them and they are never expelled from it; A hostile spirit is
+    commanded ''go out'' of the dwelling; Heavenly beings do obeisance when the first human has been made:
+    to the maker or to the man [divergence between the texts]; God removes all rancor from the hearts
+    of those in paradise; The underworld or hell has seven doors or gates; The underworld has seven gates,
+    bolted and opened one at a time [divergence between the texts]; The expelled devil vows to lie in
+    wait on the straight path and mislead humanity; Satan has no authority over God''s sincere servants,
+    only over those who follow him; What divine element is put into the clay of the first human: a slain
+    god''s flesh, blood and spirit, or God''s breath [divergence between the texts]; and 4 more.'
   basis: reading
 - text: 'Only in Adam made from clay; Iblis refuses and is granted respite: Iblis swears by God''s might
     to lead all humans astray except God''s sincere servants; The prophet asks no wage and is not one
     of the pretenders (mutakallifin); God created Adam ''with my two hands''; God commands the angels
     to prostrate to Adam; all do except Iblis, who refuses; God''s word: ''I will fill hell with jinn
     and humans all together''; The rank of the first human relative to the heavenly beings [contrast between
-    the texts]; The devil argues he is better than man because he was made of fire and man of clay.'
+    the texts]; In the divine assembly some withhold the obeisance the others perform [divergence between
+    the texts]; The creator declares ''I am the one who created, my hands have made it''; The devil argues
+    he is better than man because he was made of fire and man of clay.'
   basis: reading
 - text: 'Man from black mud, jinn from scorching fire, and Iblis''s refusal (Surah 15:26-50): tagged by
     Claude (model), reading the Arabic.'

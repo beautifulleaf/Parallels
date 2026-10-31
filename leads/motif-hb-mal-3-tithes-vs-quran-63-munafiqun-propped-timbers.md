@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens his good storehouse, the heavens, to give rain (weight
-    5.3). Pair score 5.3.'
+    6.2). Pair score 6.2.'
   basis: reading
 - text: 'Only in Return to me; will a man rob God? Test me with the tithe: ''I YHWH do not change; therefore
     you sons of Jacob are not consumed''; ''Will a man rob God? Yet you rob me'' in tithes and offerings;
-    Locust, worm and cricket devour crops, vines and trees; God opens the windows or gates of heaven,
-    for blessing or for the flood [contrast between the texts]; ''Return to me and I will return to you'',
-    says God; Bring the whole tithe to the storehouse and test God: he will open the windows of heaven
-    and pour out blessing without limit; Disputation form: God states a claim, the people object ''How
-    have you...?'', and God answers; Had they observed the Torah and Gospel they would have eaten from
-    above them and beneath their feet; The tithe given to the Levites; Levites give a tithe of the tithe;
-    The way (sunna) of God with those who passed before: you will find no change in God''s way.'
+    God opens the windows or gates of heaven, for blessing or for the flood [contrast between the texts];
+    ''Return to me and I will return to you'', says God; Bring the whole tithe to the storehouse and test
+    God: he will open the windows of heaven and pour out blessing without limit; Disputation form: God
+    states a claim, the people object ''How have you...?'', and God answers; Had they observed the Torah
+    and Gospel they would have eaten from above them and beneath their feet; The tithe given to the Levites;
+    Levites give a tithe of the tithe; The way (sunna) of God with those who passed before: you will find
+    no change in God''s way; Locust, worm and cricket devour crops, vines and trees.'
   basis: reading
 - text: 'Only in Al-Munafiqun: false testimony, propped-up timbers, ''the mightier will expel the meaner'',
     and the deathbed plea for delay: Spend before death comes and one says ''My Lord, if only you would

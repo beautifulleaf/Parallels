@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever does an atom''s weight (mithqal dharra) of good will see
-    it, and an atom''s weight of evil will see it (weight 6.7). Pair score 6.7.'
+    it, and an atom''s weight of evil will see it (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Epilogue on Qohelet, many books, and the whole duty of man: Editorial epilogue speaks
     of Qohelet in the third person: a sage who taught the people, weighed and arranged many proverbs;
@@ -31,11 +31,12 @@ evidence:
     thing is written down; God will judge the righteous and the wicked, for there is a time for every
     matter.'
   basis: reading
-- text: 'Only in The earthquake: the earth tells its news: On that day the earth will tell its news, because
-    its Lord inspired it; At the end the earth is stretched out, casts out what is in it (its burdens)
-    and empties itself; Heaven and earth called as witnesses against the people; On that day a great earthquake
-    shakes the land; fish, birds, beasts, creeping things and all humans quake before God, mountains are
-    thrown down and every wall falls.'
+- text: 'Only in The earthquake: the earth tells its news: Whether the wrongs a man did on earth are counted
+    against him at the judgment [contrast between the texts]; On that day the earth will tell its news,
+    because its Lord inspired it; At the end the earth is stretched out, casts out what is in it (its
+    burdens) and empties itself; On that day a great earthquake shakes the land; fish, birds, beasts,
+    creeping things and all humans quake before God, mountains are thrown down and every wall falls; Heaven
+    and earth called as witnesses against the people.'
   basis: reading
 - text: 'Epilogue on Qohelet, many books, and the whole duty of man: tagged by Claude (model), reading
     the Hebrew.'

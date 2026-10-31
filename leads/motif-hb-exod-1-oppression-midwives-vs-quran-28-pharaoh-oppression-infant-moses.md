@@ -15,16 +15,16 @@ traditions:
 layers:
 - motif
 motifs:
-- kill-sons-spare-women
 - pharaohs-motive-for-oppression-as-divergence
+- kill-sons-spare-women
 - king-kills-male-infants
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The oppressor slaughters the sons and lets the women live (weight
-    6.7); Why Pharaoh oppresses Israel [divergence between the texts] (weight 6.7); Ruler orders the killing
-    of male infants (weight 5.1). Pair score 18.5.'
+- text: 'Shared motifs, rarest first: Why Pharaoh oppresses Israel [divergence between the texts] (weight
+    7.7); The oppressor slaughters the sons and lets the women live (weight 7.7); Ruler orders the killing
+    of male infants (weight 6.1). Pair score 21.6.'
   basis: reading
 - text: 'Only in Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: Midwives observe
     the newborn on the birthstool (ovnayim, ''the two stones''); Oppressed people forced to build store-cities
@@ -41,12 +41,13 @@ evidence:
     empty and she nearly discloses him, but God steadies her heart; God wills to favor the oppressed and
     make them leaders (aʾimma) and inheritors; Pharaoh exalted himself and divided the land''s people
     into factions, oppressing one group; Infant adopted by a royal woman [divergence between the texts];
-    Who decides that Moses be put on the water [divergence between the texts]; Infant returned to his
-    own mother to nurse [divergence between the texts]; Sister offers to find a nurse [divergence between
-    the texts]; Hāmān appears as Pharaoh''s minister and partner; Infant refuses other wet nurses; Infant
-    placed in a container and set on the water [divergence between the texts]; Mother receives divine
-    instruction about the infant; Foster parent says: perhaps he will benefit us, or we will take him
-    as a son; and 8 more.'
+    A foundling not born of her is taken in and adopted as a son by a royal or divine woman; A newborn
+    destined to bring down a ruler is hidden so that the ruler does not see and kill it [divergence between
+    the texts]; Who decides that Moses be put on the water [divergence between the texts]; Infant returned
+    to his own mother to nurse [divergence between the texts]; A royal house takes a foreign youth whose
+    life is threatened as its son; Sister offers to find a nurse [divergence between the texts]; A child
+    found or acquired is taken by the finder, with his wife, as their own son [divergence between the
+    texts]; Hāmān appears as Pharaoh''s minister and partner; and 12 more.'
   basis: reading
 - text: 'Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: tagged by Claude (model),
     reading the Hebrew.'

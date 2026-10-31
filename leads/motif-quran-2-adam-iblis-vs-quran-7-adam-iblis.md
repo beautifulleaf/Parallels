@@ -13,31 +13,31 @@ layers:
 motifs:
 - expulsion-from-paradise-as-divergence
 - expulsion-from-paradise
-- serpent-tempter
 - devil-refuses-to-bow-to-adam
 - tree-of-knowledge-forbidden
 - angels-commanded-to-prostrate-to-adam
+- serpent-tempter
 - garden-of-god-in-east
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: First humans expelled from the garden [divergence between the texts]
-    (weight 6.3); First humans expelled from the garden (weight 6.0); A cunning serpent persuades the
-    woman to eat the forbidden fruit (weight 6.0); The devil (Iblis) alone refuses to bow to the first
-    man (weight 5.8); A tree of knowledge whose fruit is forbidden (weight 5.8); God commands the angels
-    to prostrate before the first man, and they do (weight 5.8); God plants a garden (Eden) in the east
-    and places the first human there (weight 5.6). Pair score 41.2.'
+    (weight 7.3); First humans expelled from the garden (weight 7.1); The devil (Iblis) alone refuses
+    to bow to the first man (weight 6.8); A tree of knowledge whose fruit is forbidden (weight 6.8); God
+    commands the angels to prostrate before the first man, and they do (weight 6.8); A cunning serpent
+    persuades the woman to eat the forbidden fruit (weight 6.8); God plants a garden (Eden) in the east
+    and places the first human there (weight 6.4). Pair score 48.1.'
   basis: reading
 - text: 'Only in Adam, the angels and Iblis: God teaches Adam all the names and he recites them to the
     angels, who cannot; The expelled are told ''Go down, enemies to one another'' with a dwelling and
     provision on earth for a time; God announces to the angels he will place a vicegerent (khalifa) on
-    earth; The first man names the animals; Adam receives words from his Lord and God turns to him in
-    forgiveness; Angels object that the new human will corrupt the earth and shed blood while they praise
-    God; Enmity decreed at the expulsion from the garden [divergence between the texts]; The first man''s
-    response after the transgression in the garden (blame or repentance) [divergence between the texts];
-    The first man and the names of the creatures [divergence between the texts]; The tree forbidden to
-    the first humans [divergence between the texts]; The garden given to the first humans to live and
-    eat in [divergence between the texts]; God speaks to heavenly beings about making man [divergence
-    between the texts]; and 6 more.'
+    earth; Adam receives words from his Lord and God turns to him in forgiveness; Angels object that the
+    new human will corrupt the earth and shed blood while they praise God; Enmity decreed at the expulsion
+    from the garden [divergence between the texts]; The first man''s response after the transgression
+    in the garden (blame or repentance) [divergence between the texts]; The first man and the names of
+    the creatures [divergence between the texts]; The tree forbidden to the first humans [divergence between
+    the texts]; The garden given to the first humans to live and eat in [divergence between the texts];
+    God speaks to heavenly beings about making man [divergence between the texts]; The human condition
+    on earth after the expulsion [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'Only in The prostration to Adam, Iblis'' refusal and the fall: Man and wife are addressed, tempted
     and eat together; the woman is not singled out; The first humans are sent down to earth to live and
@@ -48,8 +48,8 @@ evidence:
     he is their sincere adviser; God vows to fill hell with the devil and all who follow him; Satan whispers
     (waswasa) to tempt humans; God casts the proud being out from the mountain of God and destroys him
     from among the stones of fire, hurling him to earth before kings; How the first couple answer God
-    after eating: shifting the blame or confessing [divergence between the texts]; God gives the adversary
-    (Satan) leave to act against humans; and 15 more.'
+    after eating: shifting the blame or confessing [divergence between the texts]; In the divine realm
+    the human is given a garment to put on [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'Adam, the angels and Iblis: tagged by Claude (model), reading the Arabic.'
   basis: reading
@@ -116,24 +116,6 @@ matches:
         إِلَىٰ حِينٍ
     note: ihbitu, plural
 - kind: shared
-  label: A cunning serpent persuades the woman to eat the forbidden fruit
-  sides:
-  - tradition: islam
-    passages:
-    - ref: Quran 2:36
-      lang: ar
-      text: فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟
-        بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ
-    note: the tempter is al-shaytan, not a serpent
-  - tradition: islam
-    passages:
-    - ref: Quran 7:20
-      lang: ar
-      text: فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا
-        وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ
-        تَكُونَا مِنَ ٱلْخَٰلِدِينَ
-    note: the tempter is al-shaytan, no serpent
-- kind: shared
   label: The devil (Iblis) alone refuses to bow to the first man
   sides:
   - tradition: islam
@@ -189,6 +171,24 @@ matches:
       lang: ar
       text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
         فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
+- kind: shared
+  label: A cunning serpent persuades the woman to eat the forbidden fruit
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:36
+      lang: ar
+      text: فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟
+        بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ
+    note: the tempter is al-shaytan, not a serpent
+  - tradition: islam
+    passages:
+    - ref: Quran 7:20
+      lang: ar
+      text: فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا
+        وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ
+        تَكُونَا مِنَ ٱلْخَٰلِدِينَ
+    note: the tempter is al-shaytan, no serpent
 - kind: shared
   label: God plants a garden (Eden) in the east and places the first human there
   sides:

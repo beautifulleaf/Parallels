@@ -14,18 +14,18 @@ layers:
 - motif
 motifs:
 - who-is-yhwh-defiance-as-divergence
-- let-my-people-go-demand-as-divergence
 - who-is-yhwh-defiance
+- let-my-people-go-demand-as-divergence
 - let-my-people-go-demand
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: King defies the prophet: ''Who is YHWH that I should obey him?''
-    [divergence between the texts] (weight 6.7); Prophet delivers God''s demand ''Let my people go that
-    they may serve me'' [divergence between the texts] (weight 6.3); King defies the prophet: ''Who is
-    YHWH that I should obey him?'' (weight 6.3); Prophet delivers God''s demand ''Let my people go that
-    they may serve me'' (weight 5.4). Pair score 24.7.'
+    [divergence between the texts] (weight 7.7); King defies the prophet: ''Who is YHWH that I should
+    obey him?'' (weight 7.3); Prophet delivers God''s demand ''Let my people go that they may serve me''
+    [divergence between the texts] (weight 7.3); Prophet delivers God''s demand ''Let my people go that
+    they may serve me'' (weight 6.5). Pair score 28.9.'
   basis: reading
 - text: 'Only in First audience with Pharaoh; bricks without straw: Slaves must make the same quota of
     bricks while gathering their own straw; The oppressed blame the deliverer for making things worse;
@@ -42,14 +42,14 @@ evidence:
     earth humans were created, into it they return, and from it they are brought forth again; Formula:
     ''Peace be on whoever follows the guidance''; Pharaoh asks about the fate of former generations; the
     answer: their knowledge is with God in a book; The prophets are told to speak to the tyrant with gentle
-    words, that he may take heed or fear; The defeated magicians fall prostrate and declare faith in the
-    Lord of Moses and Aaron [divergence between the texts]; The magicians'' ropes and staffs appear by
-    sorcery to be moving like snakes; Condemned believers tell the tyrant ''decree what you will; you
-    can only decree for this worldly life''; Pharaoh threatens the converted magicians with cutting off
-    hands and feet on opposite sides and crucifixion (on palm trunks); God made the earth a cradle (mahd)
-    or bed and laid out paths in it; The defeated magicians fall prostrate and declare faith in the Lord
-    of Moses and Aaron; The prophet''s staff-serpent swallows the magicians'' staff-serpents [divergence
-    between the texts]; and 7 more.'
+    words, that he may take heed or fear; In a contest of magic each side throws, and one side''s creature
+    seizes or swallows the other''s [divergence between the texts]; ''Fear not'': the deity reassures
+    with ''I see and I hear'' (I hear and I see); Those who rose against the king are impaled (crucified)
+    on stakes or palm trunks [divergence between the texts]; Whether the events of the distant past can
+    be known, and by whom [divergence between the texts]; The defeated magicians fall prostrate and declare
+    faith in the Lord of Moses and Aaron [divergence between the texts]; The magicians'' ropes and staffs
+    appear by sorcery to be moving like snakes; Condemned believers tell the tyrant ''decree what you
+    will; you can only decree for this worldly life''; and 15 more.'
   basis: reading
 - text: 'First audience with Pharaoh; bricks without straw: tagged by Claude (model), reading the Hebrew.'
   basis: reading

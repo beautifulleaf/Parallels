@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God honored the children of Adam, carried them on land and sea and
-    preferred them above much of creation (weight 6.7). Pair score 6.7.'
+    preferred them above much of creation (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 8 - what is man: The heavens, moon and stars are the work of God''s fingers; Man
     made a little lower than elohim and crowned with glory and honor; Refrain: ''How majestic is your
@@ -43,10 +43,10 @@ evidence:
     otherwise, people call on God alone, then return to polytheism once rescued; In distress, at sea or
     otherwise, people call on God alone, then return to polytheism once rescued [contrast between the
     texts]; In distress, at sea or otherwise, people call on God alone, then return to polytheism once
-    rescued [divergence between the texts]; The expelled devil vows to lie in wait on the straight path
-    and mislead humanity; The devil argues he is better than man because he was made of fire and man of
-    clay; Satan has no authority over God''s sincere servants, only over those who follow him; God commands
-    the angels to prostrate before the first man, and they do; and 4 more.'
+    rescued [divergence between the texts]; Man is clay (and straw) shaped by God, said where a human
+    is scorned; The expelled devil vows to lie in wait on the straight path and mislead humanity; The
+    devil argues he is better than man because he was made of fire and man of clay; Satan has no authority
+    over God''s sincere servants, only over those who follow him; and 5 more.'
   basis: reading
 - text: 'Psalm 8 - what is man: tagged by Claude (model), reading the Hebrew.'
   basis: reading

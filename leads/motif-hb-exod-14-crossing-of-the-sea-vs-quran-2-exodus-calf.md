@@ -23,9 +23,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel''s belief or disbelief in Moses after the sea [divergence
-    between the texts] (weight 6.7); Who or what parts the sea [divergence between the texts] (weight
-    6.7); Prophet stretches his staff over the sea and God splits it with a strong east wind (weight 6.0);
-    The returning waters drown the pursuing army; not one survives (weight 4.5). Pair score 23.9.'
+    between the texts] (weight 7.7); Who or what parts the sea [divergence between the texts] (weight
+    7.7); Prophet stretches his staff over the sea and God splits it with a strong east wind (weight 6.8);
+    The returning waters drown the pursuing army; not one survives (weight 5.5). Pair score 27.9.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,

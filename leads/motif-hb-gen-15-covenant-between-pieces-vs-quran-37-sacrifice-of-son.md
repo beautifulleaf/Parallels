@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
-    5.2). Pair score 5.2.'
+    6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in The covenant between the pieces: Birds of prey descend on the sacrifice and the hero
     drives them away; Childless patriarch''s household servant is to be his heir; A great dark dread falls
@@ -28,8 +28,7 @@ evidence:
     Promised land stretches from the river of Egypt to the Euphrates; God takes the patriarch outside
     and tells him to count the stars; God takes the patriarch outside and tells him to count the stars
     [divergence between the texts]; Descendants foretold to be enslaved in a foreign land 400 years and
-    leave with great wealth; Covenant ritual: animals cut in halves and a divine presence passes between
-    them; and 6 more.'
+    leave with great wealth; Patriarch believes God and it is counted to him as righteousness; and 6 more.'
   basis: reading
 - text: 'Only in Abraham''s dream and the near-sacrifice of his son: God ransomed the son with a great
     sacrifice (dhibh ''azim); When both had submitted he laid him on his forehead (talla-hu li-l-jabin);
@@ -40,7 +39,7 @@ evidence:
     [divergence between the texts]; The father lays the son down for the sacrifice [divergence between
     the texts]; Who the son to be sacrificed is and how he is named [divergence between the texts]; Lot
     believes in Abraham, who declares ''I am emigrating to my Lord''; A ram caught in a thicket is sacrificed
-    in place of the son; and 9 more.'
+    in place of the son; and 11 more.'
   basis: reading
 - text: 'The covenant between the pieces: tagged by Claude (model), reading the Hebrew.'
   basis: reading

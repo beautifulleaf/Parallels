@@ -18,17 +18,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What a woman''s veil or cloak signals to men who see her [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Judah and Tamar: A woman accused of harlotry is sentenced to be burned; Man spills his
-    seed on the ground to avoid raising offspring for his dead brother and is struck dead; God kills a
-    man for unspecified wickedness; A kid of the goats promised as a harlot''s hire; Seal, cord and staff
-    left as a pledge, later used as proof of paternity; A roadside harlot referred to as a qedeshah (''consecrated
-    woman''); Midwife ties a scarlet thread on the hand of the twin who emerges first; Man acknowledges
-    the wronged woman: ''She is more righteous than I''; Twins contend at birth over who emerges first;
-    A widow veils herself, sits by the road and is taken for a harlot by her father-in-law; Father-in-law
-    withholds his youngest son from the widow, fearing he too will die; Evidence presented with the formula
-    ''Please recognize (haker na)'' whose is this; and 2 more.'
+- text: 'Only in Judah and Tamar: Man spills his seed on the ground to avoid raising offspring for his
+    dead brother and is struck dead; God kills a man for unspecified wickedness; A kid of the goats promised
+    as a harlot''s hire; Seal, cord and staff left as a pledge, later used as proof of paternity; Midwife
+    ties a scarlet thread on the hand of the twin who emerges first; Man acknowledges the wronged woman:
+    ''She is more righteous than I''; Twins contend at birth over who emerges first; A widow veils herself,
+    sits by the road and is taken for a harlot by her father-in-law; Father-in-law withholds his youngest
+    son from the widow, fearing he too will die; A woman accused of harlotry is sentenced to be burned;
+    Evidence presented with the formula ''Please recognize (haker na)'' whose is this; Sheep-shearing
+    as an occasion for travel and festivity; and 2 more.'
   basis: reading
 - text: 'Only in Divorce before consummation; the prophet''s marriages; the curtain and the cloaks: A
     wife divorced before consummation owes no waiting period (''idda); give her a gift and release her

@@ -19,24 +19,25 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God fixes the reckoning of months [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: Sacrificial blood
-    daubed on the doorposts and lintel protects the household; No one may leave the house until morning
-    on the night of the destroyer; The people carry their unleavened dough in kneading-troughs on their
-    shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival days are holy convocations
-    on which no work is done except preparing food; Small households join neighbors to share one sacrificial
-    lamb; Defeated king asks the departing prophet to bless him too; Leaven must be removed from houses;
-    whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites leaves Egypt with Israel;
-    The spring exodus month becomes the first month of the year; No bone of the paschal sacrifice may
-    be broken; No uncircumcised foreigner may eat the Passover; circumcised slaves and converts may; and
-    18 more.'
+- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: No one may leave
+    the house until morning on the night of the destroyer; The people carry their unleavened dough in
+    kneading-troughs on their shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival
+    days are holy convocations on which no work is done except preparing food; Small households join neighbors
+    to share one sacrificial lamb; Defeated king asks the departing prophet to bless him too; Leaven must
+    be removed from houses; whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites
+    leaves Egypt with Israel; The spring exodus month becomes the first month of the year; No bone of
+    the paschal sacrifice may be broken; No uncircumcised foreigner may eat the Passover; circumcised
+    slaves and converts may; An unblemished yearling lamb selected on the tenth and slaughtered at twilight
+    on the fourteenth; and 18 more.'
   basis: reading
-- text: 'Only in Twelve months and the ban on intercalation: Four of the twelve months are sacred; God
-    fixed all the boundaries of the earth and formed summer and winter; Postponing a sacred month (al-nasi'',
-    intercalation) is an increase in unbelief; The number of months with God is twelve, in God''s book
-    since the day he created heaven and earth; Sun and moon are set to rule day and night and mark signs
-    and seasons.'
+- text: 'Only in Twelve months and the ban on intercalation: God fixes the reckoning of months; Four of
+    the twelve months are sacred; Postponing a sacred month (al-nasi'', intercalation) is an increase
+    in unbelief; God fixed all the boundaries of the earth and formed summer and winter; Moving a sacred
+    festival or month out of its fixed time is forbidden; The number of months with God is twelve, in
+    God''s book since the day he created heaven and earth; Sun and moon are set to rule day and night
+    and mark signs and seasons.'
   basis: reading
 - text: 'Passover law, matzot, the night of the firstborn, departure from Egypt: tagged by Claude (model),
     reading the Hebrew.'

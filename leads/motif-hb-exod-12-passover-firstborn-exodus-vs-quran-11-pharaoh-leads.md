@@ -18,27 +18,27 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The gods of a people judged by God cannot help them (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: The gods of a people judged by God cannot help them (weight 7.3).
+    Pair score 7.3.'
   basis: reading
-- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: Sacrificial blood
-    daubed on the doorposts and lintel protects the household; No one may leave the house until morning
-    on the night of the destroyer; The people carry their unleavened dough in kneading-troughs on their
-    shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival days are holy convocations
-    on which no work is done except preparing food; Small households join neighbors to share one sacrificial
-    lamb; Defeated king asks the departing prophet to bless him too; Leaven must be removed from houses;
-    whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites leaves Egypt with Israel;
-    The spring exodus month becomes the first month of the year; No bone of the paschal sacrifice may
-    be broken; No uncircumcised foreigner may eat the Passover; circumcised slaves and converts may; and
-    18 more.'
+- text: 'Only in Passover law, matzot, the night of the firstborn, departure from Egypt: No one may leave
+    the house until morning on the night of the destroyer; The people carry their unleavened dough in
+    kneading-troughs on their shoulders; Israel''s stay in Egypt lasts 430 years to the very day; Festival
+    days are holy convocations on which no work is done except preparing food; Small households join neighbors
+    to share one sacrificial lamb; Defeated king asks the departing prophet to bless him too; Leaven must
+    be removed from houses; whoever eats it is cut off; A mixed multitude (erev rav) of non-Israelites
+    leaves Egypt with Israel; The spring exodus month becomes the first month of the year; No bone of
+    the paschal sacrifice may be broken; No uncircumcised foreigner may eat the Passover; circumcised
+    slaves and converts may; An unblemished yearling lamb selected on the tenth and slaughtered at twilight
+    on the fourteenth; and 18 more.'
   basis: reading
 - text: 'Only in Pharaoh leads his people into the fire; the towns standing and mown: Of the destroyed
     towns some still stand, some are mown down; On judgment day Pharaoh will lead his people down into
-    the fire, an evil watering place; Pharaoh goes at the head of his people to their destruction [divergence
-    between the texts]; ''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a
-    man according to his deeds; Divine punishment falls on a town by night or while its people take the
-    midday rest; At judgment the associated ''partners'' disown their worshipers: ''it was not us you
-    worshiped''.'
+    the fire, an evil watering place; The deity''s seizing (of the guilty) is slow to come but severe
+    and final once it falls; Pharaoh goes at the head of his people to their destruction [divergence between
+    the texts]; ''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
+    to his deeds; Divine punishment falls on a town by night or while its people take the midday rest;
+    At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped''.'
   basis: reading
 - text: 'Passover law, matzot, the night of the firstborn, departure from Egypt: tagged by Claude (model),
     reading the Hebrew.'

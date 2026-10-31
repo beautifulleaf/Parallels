@@ -14,41 +14,41 @@ layers:
 - motif
 motifs:
 - penalty-for-false-accusation-of-unchastity-as-divergence
-- penalty-for-adultery-as-contrast
 - slandered-bride-fine-100
+- penalty-for-adultery-as-contrast
 - adultery-both-die
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The penalty for falsely accusing a woman of unchastity [divergence
-    between the texts] (weight 6.7); The penalty for adultery or fornication [contrast between the texts]
-    (weight 6.7); Husband who falsely accuses his bride is flogged, fined 100 silver, and may never divorce
-    her (weight 6.7); Adulterer and adulteress both put to death (weight 6.3). Pair score 26.4.'
+    between the texts] (weight 7.7); Husband who falsely accuses his bride is flogged, fined 100 silver,
+    and may never divorce her (weight 7.7); The penalty for adultery or fornication [contrast between
+    the texts] (weight 7.7); Adulterer and adulteress both put to death (weight 7.1). Pair score 30.3.'
   basis: reading
 - text: 'Only in Lost property, bird''s nest, mixtures, tassels, virginity and sexual offences: Betrothed
-    girl lain with in the city dies for not crying out; in the field only the man dies; Woman must not
-    wear man''s gear, nor man a woman''s garment; Help lift a brother''s fallen ox or donkey; Prohibition
-    of mixed seeds in a vineyard; Bride found not a virgin stoned at the door of her father''s house;
-    Do not plough with an ox and a donkey together; Build a parapet on a new roof so no one falls; Return
-    a brother''s lost animal or property; you may not hide yourself; Man who lies with an unbetrothed
-    virgin pays her father fifty silver and must marry her without divorce; Send away the mother bird
-    before taking the young, for long life; Tassels (gedilim) on the four corners of the garment; Parents
-    display the bride''s virginity cloth before the elders; and 2 more.'
+    girl lain with in the city dies for not crying out; in the field only the man dies; Help lift a brother''s
+    fallen ox or donkey; Prohibition of mixed seeds in a vineyard; Bride found not a virgin stoned at
+    the door of her father''s house; Do not plough with an ox and a donkey together; Build a parapet on
+    a new roof so no one falls; Return a brother''s lost animal or property; you may not hide yourself;
+    Man who lies with an unbetrothed virgin pays her father fifty silver and must marry her without divorce;
+    Send away the mother bird before taking the young, for long life; Tassels (gedilim) on the four corners
+    of the garment; Parents display the bride''s virginity cloth before the elders; Woman must not wear
+    man''s gear, nor man a woman''s garment; and 2 more.'
   basis: reading
 - text: 'Only in Lashes for fornication, four witnesses and the mutual cursing oath: The fornicating woman
     and man each receive a hundred lashes, witnessed by a party of believers; A fornicator may marry only
     a fornicator or an idolater; such marriage is forbidden to believers; A husband accusing his wife
     without witnesses swears four times by God and a fifth time invokes God''s curse on himself if lying;
     she averts punishment by four counter-oaths and a fifth invoking God''s wrath; Whether the husband
-    who accuses his wife bears any liability [contrast between the texts]; Wife suspected of adultery
-    drinks ''water of bitterness'' as an ordeal; Whoever accuses a chaste woman without four witnesses
-    is flogged eighty lashes and his testimony is never accepted; Who is barred from marrying an unchaste
-    woman [divergence between the texts]; Judges told to let no pity hold them back from carrying out
-    a fixed punishment; How many lashes a flogging may have [contrast between the texts]; A man accused
-    swears a curse-oath before the altar, and God judges guilty and innocent; Who swears, and how, when
-    a husband suspects his wife of adultery without witnesses [divergence between the texts]; Adultery
-    done in secret with no witness and not caught in the act; and 4 more.'
+    who accuses his wife bears any liability [contrast between the texts]; The adulterer is excluded from
+    the company of the just [divergence between the texts]; Wife suspected of adultery drinks ''water
+    of bitterness'' as an ordeal; Whoever accuses a chaste woman without four witnesses is flogged eighty
+    lashes and his testimony is never accepted; Who is barred from marrying an unchaste woman [divergence
+    between the texts]; Judges told to let no pity hold them back from carrying out a fixed punishment;
+    How many lashes a flogging may have [contrast between the texts]; A man accused swears a curse-oath
+    before the altar, and God judges guilty and innocent; Who swears, and how, when a husband suspects
+    his wife of adultery without witnesses [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'Lost property, bird''s nest, mixtures, tassels, virginity and sexual offences: tagged by Claude
     (model), reading the Hebrew.'

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Duty to accept a prophet God will send later [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Levitical dues; forbidden divination; the prophet like Moses: Be wholehearted (tamim)
     with God; A prophecy that does not come true shows the prophet spoke presumptuously; Priest''s due:
@@ -38,8 +38,8 @@ evidence:
     are cursed by God and by all who curse; Believers make no distinction between any of the prophets
     (Abraham, Ishmael, Isaac, Jacob, the Tribes, Moses, Jesus); On the day of wrath people fling their
     silver into the streets; silver and gold cannot save them; An earthful of gold would not be accepted
-    as ransom from one who dies unbelieving; No man can ransom his brother or give God a ransom (kofer)
-    for him; the redemption of life is too costly.'
+    as ransom from one who dies unbelieving; Whether payment may substitute for a life; No man can ransom
+    his brother or give God a ransom (kofer) for him; the redemption of life is too costly.'
   basis: reading
 - text: 'Levitical dues; forbidden divination; the prophet like Moses: tagged by Claude (model), reading
     the Hebrew.'

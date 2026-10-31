@@ -20,9 +20,9 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 5.8);
-    God leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1). Pair
-    score 10.9.'
+- text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 6.8);
+    God leads the people in a pillar of cloud by day and a pillar of fire by night (weight 6.1). Pair
+    score 13.0.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his

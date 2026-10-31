@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hypocrites swear excuses and ask permission to stay behind from
-    the campaign (weight 6.3). Pair score 6.3.'
+    the campaign (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Reuben, Gad and half-Manasseh settle east of the Jordan: Tribes pledge to fight in the
     vanguard before returning home; ''Know that your sin will find you''; Those who strive with wealth
@@ -32,11 +32,11 @@ evidence:
     shirkers leave before the truthful were clear; Alms given grudgingly by unbelievers will not be accepted;
     Nothing will befall us except what God has written for us; Believers expect one of two good things,
     victory or martyrdom; Who is excused from going out to war [contrast between the texts]; Both evil
-    and good come from the mouth of the Most High; God uses the unbelievers'' wealth and children to punish
-    them in this life; The fearful are sent home before battle; People hide in caves, thickets, rocks
-    and pits from an invading army; A poem lists the tribes, praising those who fought and shaming those
-    who stayed home; The oppressed people hide in caves, dens and mountain strongholds; Prophet tells
-    deniers ''Wait, I too am waiting''.'
+    and good come from the mouth of the Most High; A follower''s loyalty depends on being rewarded; unrewarded,
+    he turns away; God uses the unbelievers'' wealth and children to punish them in this life; The fearful
+    are sent home before battle; People hide in caves, thickets, rocks and pits from an invading army;
+    A poem lists the tribes, praising those who fought and shaming those who stayed home; The oppressed
+    people hide in caves, dens and mountain strongholds; and 1 more.'
   basis: reading
 - text: 'Reuben, Gad and half-Manasseh settle east of the Jordan: tagged by Claude (model), reading the
     Hebrew.'

@@ -17,26 +17,28 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God burdens no soul beyond its capacity (weight 5.6). Pair score
-    5.6.'
+- text: 'Shared motifs, rarest first: God burdens no soul beyond its capacity (weight 6.6). Pair score
+    6.6.'
   basis: reading
 - text: 'Only in Return from exile; the near commandment; choose life: God himself will circumcise your
-    heart and your offspring''s heart; Blessing and curse set before the people as a choice; I set before
-    you life and death, blessing and curse: choose life [divergence between the texts]; Those who break
-    God''s covenant and sever ties have the curse and the evil abode; The commandment is not in heaven
-    or beyond the sea but in your mouth and heart; God tries towns with hardship, then with ease, then
-    seizes them suddenly; God will remove the heart of stone and give a heart of flesh and a new spirit;
-    Heaven and earth called as witnesses against the people; In the end of days, in distress, the people
-    will seek God and return; I set before you life and death, blessing and curse: choose life; God will
+    heart and your offspring''s heart; I set before you life and death, blessing and curse: choose life
+    [divergence between the texts]; Those who break God''s covenant and sever ties have the curse and
+    the evil abode; The commandment is not in heaven or beyond the sea but in your mouth and heart; God
+    tries towns with hardship, then with ease, then seizes them suddenly; Blessing and curse set before
+    the people as a choice; God will remove the heart of stone and give a heart of flesh and a new spirit;
+    In the end of days, in distress, the people will seek God and return; I set before you life and death,
+    blessing and curse: choose life; Heaven and earth called as witnesses against the people; God will
     gather the exiles even from the end of heaven and restore them.'
   basis: reading
 - text: 'Only in Closing confession and prayer: Prayer not to be laid with a burden (isr) like that laid
-    on those before us; Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot); Believers
-    make no distinction between any of the prophets (Abraham, Ishmael, Isaac, Jacob, the Tribes, Moses,
-    Jesus); ''The soul that sins, it shall die'': the son does not bear the father''s iniquity nor the
-    father the son''s; ''We are the clay and you are our potter; we are all the work of your hand''; Believers''
-    confession ''we hear and we obey'' (sami''na wa-ata''na); God tests the hearts and the kidneys (inner
-    self); God alone knows the hearts of all humans.'
+    on those before us; Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot); Petition
+    not to be held for offences committed unknowingly, forgotten or by mistake; No one is to be burdened
+    with more than he is able to do [divergence between the texts]; Believers make no distinction between
+    any of the prophets (Abraham, Ishmael, Isaac, Jacob, the Tribes, Moses, Jesus); ''The soul that sins,
+    it shall die'': the son does not bear the father''s iniquity nor the father the son''s; ''We are the
+    clay and you are our potter; we are all the work of your hand''; Believers'' confession ''we hear
+    and we obey'' (sami''na wa-ata''na); God alone knows the hearts of all humans; God tests the hearts
+    and the kidneys (inner self).'
   basis: reading
 - text: 'Return from exile; the near commandment; choose life: tagged by Claude (model), reading the Hebrew.'
   basis: reading

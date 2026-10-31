@@ -15,41 +15,41 @@ traditions:
 layers:
 - motif
 motifs:
-- description-of-the-ark-as-divergence
 - cause-of-the-flood-as-divergence
+- description-of-the-ark-as-divergence
 - waters-from-above-and-below
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How the ark is described [divergence between the texts] (weight
-    6.7); What sets the flood in motion: God''s decision on violence, or the rejected prophet''s prayer
-    [divergence between the texts] (weight 6.7); Waters pour both from the sky and from springs of the
-    earth (weight 6.0). Pair score 19.4.'
+- text: 'Shared motifs, rarest first: What sets the flood in motion: God''s decision on violence, or the
+    rejected prophet''s prayer [divergence between the texts] (weight 7.7); How the ark is described [divergence
+    between the texts] (weight 7.7); Waters pour both from the sky and from springs of the earth (weight
+    6.2). Pair score 21.7.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 43 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What the flood hero does
+    when the vessel comes to rest [divergence between the texts]; What God says of later generations after
+    the flood: no repeat, or punishment to come [contrast between the texts]; How the flood waters are
+    stopped and subside [divergence between the texts]; God made Noah''s descendants the only survivors;
+    Whether and how Noah speaks to God; and 43 more.'
   basis: reading
 - text: 'Only in Al-Qamar: the moon split, the dead like locusts, and Noah''s ark of planks and fibres:
-    God left the ark (or the event) as a sign: is there anyone who will remember?; Noah carried on a thing
-    of planks and nails/fibres (dhat alwah wa-dusur), running under God''s eyes; God opens the gates of
-    heaven with pouring water and makes the earth burst with springs; the waters meet for a decreed matter;
-    Noah, called a madman and driven off, prays ''I am overcome, so help me!''; Whenever they see a sign
-    they turn away and say ''continuous/passing sorcery'' (sihr mustamirr); With downcast eyes they come
-    out of the graves like scattered locusts, hastening to the caller; ''The Hour has drawn near and the
-    moon is split'' (inshaqqa l-qamar); God opens the windows or gates of heaven, for blessing or for
-    the flood [contrast between the texts]; Refrain: ''How then were my punishment and my warnings?''
-    (fa-kayfa kana ''adhabi wa-nudhur); Refrain: ''We have made the Quran easy to remember; is there anyone
-    who will remember?'' (fa-hal min muddakir); The sign left after the flood: the rainbow, or the ark
-    [divergence between the texts]; Bring the whole tithe to the storehouse and test God: he will open
-    the windows of heaven and pour out blessing without limit; and 4 more.'
+    God left the ark (or the event) as a sign: is there anyone who will remember?; God opens the gates
+    of heaven with pouring water and makes the earth burst with springs; the waters meet for a decreed
+    matter; Noah, called a madman and driven off, prays ''I am overcome, so help me!''; Whenever they
+    see a sign they turn away and say ''continuous/passing sorcery'' (sihr mustamirr); With downcast eyes
+    they come out of the graves like scattered locusts, hastening to the caller; Heaven is opened (its
+    udders or its gates) to release water [divergence between the texts]; ''The Hour has drawn near and
+    the moon is split'' (inshaqqa l-qamar); A great multitude spread over the land is likened to locusts
+    (irby / jarād); A multitude rising or pouring out is likened to a swarm of locusts; God opens the
+    windows or gates of heaven, for blessing or for the flood [contrast between the texts]; In the storm
+    the water from heaven meets the water from the earth; Refrain: ''How then were my punishment and my
+    warnings?'' (fa-kayfa kana ''adhabi wa-nudhur); and 11 more.'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Foreign daughter-in-law swears to follow her mother-in-law: your
-    people my people, your God my God [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    people my people, your God my God [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Naomi''s losses in Moab and Ruth''s vow of loyalty: Foreign daughter-in-law swears to
     follow her mother-in-law: your people my people, your God my God; A person asks to be renamed to reflect
@@ -29,10 +29,10 @@ evidence:
 - text: 'Only in The disbelievers, the help, and the flame: Curse on Abu Lahab (''father of flame''):
     his hands perish, he will burn in a fire of flame, and his wife carries firewood with a rope of palm
     fiber (masad) on her neck; Repeated mutual disavowal: ''I do not worship what you worship, nor do
-    you worship what I worship''; ''to you your religion and to me mine''; A person''s name declared to
-    match his character: ''as his name is, so is he''; When God''s help and the opening (al-fath) come,
-    people enter God''s religion in crowds; the prophet is to glorify and seek forgiveness; Wealth does
-    not profit on the day of wrath.'
+    you worship what I worship''; ''to you your religion and to me mine''; When God''s help and the opening
+    (al-fath) come, people enter God''s religion in crowds; the prophet is to glorify and seek forgiveness;
+    A person''s name declared to match his character: ''as his name is, so is he''; Wealth does not profit
+    on the day of wrath.'
   basis: reading
 - text: 'Naomi''s losses in Moab and Ruth''s vow of loyalty: tagged by Claude (model), reading the Hebrew.'
   basis: reading

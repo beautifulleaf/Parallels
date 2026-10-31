@@ -15,35 +15,35 @@ traditions:
 layers:
 - motif
 motifs:
-- queen-overwhelmed-by-solomons-palace-as-divergence
-- great-throne-in-sheba-story-as-divergence
-- queen-of-sheba-visit
 - test-between-solomon-and-the-queen-as-divergence
+- queen-of-sheba-visit
 - queen-of-shebas-gifts-as-divergence
+- great-throne-in-sheba-story-as-divergence
+- queen-overwhelmed-by-solomons-palace-as-divergence
 - queen-of-shebas-confession-as-divergence
 - queen-tests-king-with-riddles
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The queen of Sheba overwhelmed by Solomon''s buildings [divergence
-    between the texts] (weight 6.7); The great throne in the Sheba story, and whose it is [divergence
-    between the texts] (weight 6.7); The queen of Sheba visits Solomon (weight 6.7); Who tests whom between
-    Solomon and the queen of Sheba [divergence between the texts] (weight 6.7); The queen of Sheba''s
-    gifts and Solomon''s response [divergence between the texts] (weight 6.7); What the queen of Sheba
-    says of Solomon''s God [divergence between the texts] (weight 6.3); A foreign queen tests the king
-    with riddles and he answers them all (weight 6.3). Pair score 46.0.'
+- text: 'Shared motifs, rarest first: Who tests whom between Solomon and the queen of Sheba [divergence
+    between the texts] (weight 7.7); The queen of Sheba visits Solomon (weight 7.7); The queen of Sheba''s
+    gifts and Solomon''s response [divergence between the texts] (weight 7.7); The great throne in the
+    Sheba story, and whose it is [divergence between the texts] (weight 7.7); The queen of Sheba overwhelmed
+    by Solomon''s buildings [divergence between the texts] (weight 7.7); What the queen of Sheba says
+    of Solomon''s God [divergence between the texts] (weight 7.3); A foreign queen tests the king with
+    riddles and he answers them all (weight 7.3). Pair score 53.4.'
   basis: reading
 - text: 'Only in The Queen of Sheba tests Solomon; his gold, ivory throne, ships and death: A foreign
     ruler blesses Israel''s God for setting the king on his throne; The king exceeds all the kings of
-    the earth in riches and wisdom; All the kings of Arabia and governors bring gold and silver; An annual
-    income of 666 talents of gold; A visitor says she did not believe the report until she saw: not half
-    was told her; Rare almug wood from Ophir used for temple supports and lyres for singers; never seen
-    again; Promised land stretches from the river of Egypt to the Euphrates; A visitor seeing the king''s
-    court is left breathless (''no more spirit in her''); A royal visitor arrives with camels carrying
-    spices, gold and precious stones; Great ivory throne overlaid with gold, with six steps and twelve
-    lions on the steps and two beside the arms; Tarshish ships every three years bring gold, silver, ivory,
-    apes and peacocks (or baboons); Shields of beaten gold made or captured and displayed; and 6 more.'
+    the earth in riches and wisdom; An annual income of 666 talents of gold; A visitor says she did not
+    believe the report until she saw: not half was told her; Rare almug wood from Ophir used for temple
+    supports and lyres for singers; never seen again; Promised land stretches from the river of Egypt
+    to the Euphrates; A visitor seeing the king''s court is left breathless (''no more spirit in her'');
+    A royal visitor arrives with camels carrying spices, gold and precious stones; All the kings of Arabia
+    and governors bring gold and silver; Shields of beaten gold made or captured and displayed; Great
+    ivory throne overlaid with gold, with six steps and twelve lions on the steps and two beside the arms;
+    The king reigns forty years; and 6 more.'
   basis: reading
 - text: 'Only in Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba: Entering Solomon''s
     palace, the queen takes its floor of smooth glass for a pool and bares her legs; The hoopoe returns
@@ -57,7 +57,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 16 more.'
+    and 36 more.'
   basis: reading
 - text: 'The Queen of Sheba tests Solomon; his gold, ivory throne, ships and death: tagged by Claude (model),
     reading the Hebrew.'

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people answer as one: all that YHWH has spoken we will do [divergence
-    between the texts] (weight 6.7); The people answer as one: all that YHWH has spoken we will do (weight
-    5.8). Pair score 12.5.'
+    between the texts] (weight 7.7); The people answer as one: all that YHWH has spoken we will do (weight
+    6.8). Pair score 14.6.'
   basis: reading
 - text: 'Only in Covenant ratified in blood; the elders see God: Sacrificial blood splashed on altar and
     people seals the covenant (''blood of the covenant''); A meal eaten in God''s presence seals a covenant;
@@ -38,12 +38,12 @@ evidence:
     with their tongues to mock; The blessed enter a deep, lasting shade (ẓill ẓalīl); Threat to obliterate
     faces and turn them backward; In hellfire, whenever the skins are burnt through, they are replaced
     with new skins; Some of the People of the Book believe in al-jibt and al-ṭāghūt (idols, false powers);
-    The people answer as one: all that YHWH has spoken we will do [response between the texts]; Those
-    who violate the Sabbath are punished (executed, cut off, cursed or transformed) [divergence between
-    the texts]; Those who claim to be pure are rebuked: God purifies whom he will; Israel at the mountain
-    says ''we hear and we disobey'' (sami''na wa-''asayna); God does not forgive associating partners
-    with him (shirk) but forgives anything less; Kings promised to come from the patriarch or matriarch;
-    and 5 more.'
+    A thread as the smallest measure: not even a thread is withheld, or wronged; The people answer as
+    one: all that YHWH has spoken we will do [response between the texts]; Those who violate the Sabbath
+    are punished (executed, cut off, cursed or transformed) [divergence between the texts]; Those who
+    claim to be pure are rebuked: God purifies whom he will; Israel at the mountain says ''we hear and
+    we disobey'' (sami''na wa-''asayna); God does not forgive associating partners with him (shirk) but
+    forgives anything less; and 6 more.'
   basis: reading
 - text: 'Covenant ratified in blood; the elders see God: tagged by Claude (model), reading the Hebrew.'
   basis: reading

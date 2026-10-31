@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God executes justice for orphan and widow and loves the stranger
-    (weight 5.2). Pair score 5.2.'
+    (weight 5.9). Pair score 5.9.'
   basis: reading
 - text: 'Only in Psalm 146, do not trust in princes: YHWH frees the prisoners, opens the eyes of the blind,
     raises the bowed, loves the righteous; When man''s breath departs he returns to his earth; on that
@@ -34,14 +34,15 @@ evidence:
     the unbelieving People of the Book (the Banu Nadir) from their homes at ''the first gathering'' (li-awwal
     al-hashr); Whatever palm trees (lina) you cut down or left standing on their roots was by God''s leave;
     Later believers pray: forgive us and our brethren who preceded us in faith, and put no rancor in our
-    hearts; Whether the enemy''s trees may be cut down in a siege [contrast between the texts]; How spoil
-    taken from the enemy is distributed [divergence between the texts]; Fay'' (booty gained without cavalry
-    or camels) goes to God, the messenger, kin, orphans, the poor and the wayfarer, so wealth does not
-    circulate only among the rich; They thought their fortresses would protect them from God, but God
-    came from where they did not expect and cast terror into their hearts; The poor emigrants and the
-    hosts who prefer others over themselves even in need; whoever is saved from his own greed succeeds;
-    Cities ''great and fortified up to heaven''; Spoils divided half to warriors, half to community, with
-    a levy for God; and 2 more.'
+    hearts; Vines or palms of a hostile neighbour are cut down [divergence between the texts]; Whether
+    the enemy''s trees may be cut down in a siege [contrast between the texts]; How spoil taken from the
+    enemy is distributed [divergence between the texts]; Fay'' (booty gained without cavalry or camels)
+    goes to God, the messenger, kin, orphans, the poor and the wayfarer, so wealth does not circulate
+    only among the rich; They thought their fortresses would protect them from God, but God came from
+    where they did not expect and cast terror into their hearts; The wealth of a ruined or expelled people
+    passes to others who did not have it [divergence between the texts]; The poor emigrants and the hosts
+    who prefer others over themselves even in need; whoever is saved from his own greed succeeds; and
+    8 more.'
   basis: reading
 - text: 'Psalm 146, do not trust in princes: tagged by Claude (model), reading the Hebrew.'
   basis: reading

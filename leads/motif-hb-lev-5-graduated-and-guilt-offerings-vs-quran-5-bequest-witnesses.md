@@ -20,17 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A witness who hears a public adjuration and withholds testimony
-    bears guilt (weight 6.3). Pair score 6.3.'
+    bears guilt (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Graduated purification offering and the guilt (asham) offering: The poorest bring a flour
-    sin offering without oil or frankincense; One is guilty even for a sin committed without knowing;
-    Restitution to the wronged person precedes the atonement offering; Sacrilege (me''ilah) against the
-    holy things of YHWH; Touching an unclean carcass or human impurity makes one guilty; Defrauding a
-    neighbor with a false oath is a trespass against God; The priest pinches off the bird''s head with
-    his fingernail (melikah); Expiation in steps according to what one can afford [divergence between
-    the texts]; The guilt offering is a ram assessed in silver shekels; The priest burns a handful as
-    the token or ''memorial'' portion (azkarah); Liability for oaths spoken thoughtlessly [contrast between
-    the texts]; The priest makes atonement and the sinner is forgiven; and 8 more.'
+    sin offering without oil or frankincense; Restitution to the wronged person precedes the atonement
+    offering; Sacrilege (me''ilah) against the holy things of YHWH; Touching an unclean carcass or human
+    impurity makes one guilty; Defrauding a neighbor with a false oath is a trespass against God; The
+    priest pinches off the bird''s head with his fingernail (melikah); Expiation in steps according to
+    what one can afford [divergence between the texts]; The guilt offering is a ram assessed in silver
+    shekels; The priest burns a handful as the token or ''memorial'' portion (azkarah); Liability for
+    oaths spoken thoughtlessly [contrast between the texts]; The priest makes atonement and the sinner
+    is forgiven; A rash oath spoken thoughtlessly requires atonement [divergence between the texts]; and
+    8 more.'
   basis: reading
 - text: 'Only in Witnesses to a bequest made far from home: Two just witnesses attend a bequest at death;
     on a journey two outsiders may serve; If the witnesses are found guilty, two of the wronged heirs

@@ -14,18 +14,17 @@ layers:
 motifs:
 - hammered-from-single-piece
 - mercy-seat-kapporet
-- table-of-showbread
 - seven-branched-lampstand
+- table-of-showbread
 - ark-of-the-covenant
 - two-cherubim-facing-with-spread-wings
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: A cult object is hammered from a single piece of gold (weight 6.7);
-    A golden cover (kapporet, mercy seat) on top of the ark (weight 6.7); A gold table with the bread
-    of the presence always before God (weight 6.0); A golden seven-lamp lampstand with almond-blossom
-    cups (weight 6.0); The ark of the covenant: a gold-plated acacia chest with rings and poles (weight
-    5.6); Two golden cherubim face each other with wings spread over the ark (weight 5.4). Pair score
-    36.4.'
+- text: 'Shared motifs, rarest first: A cult object is hammered from a single piece of gold (weight 7.7);
+    A golden cover (kapporet, mercy seat) on top of the ark (weight 7.7); A golden seven-lamp lampstand
+    with almond-blossom cups (weight 7.1); A gold table with the bread of the presence always before God
+    (weight 6.8); The ark of the covenant: a gold-plated acacia chest with rings and poles (weight 6.6);
+    Two golden cherubim face each other with wings spread over the ark (weight 6.5). Pair score 42.5.'
   basis: reading
 - text: 'Only in Contribution for the sanctuary; ark, cover, table and lampstand: The ark of the covenant:
     a gold-plated acacia chest with rings and poles [divergence between the texts]; List of precious materials
@@ -36,9 +35,9 @@ evidence:
     for the sanctuary come from the free-will gifts of all whose heart moves them; The tablets of the
     testimony are placed inside the ark; The sanctuary is built after a pattern shown by God on the mountain.'
   basis: reading
-- text: 'Only in Bezalel makes the ark, table, lampstand and incense altar: Recipe of the holy anointing
-    oil of myrrh, cinnamon, cane, cassia and olive oil; Execution of a divine command is narrated by repeating
-    the command almost verbatim; A small gold-plated altar for burning incense before the veil.'
+- text: 'Only in Bezalel makes the ark, table, lampstand and incense altar: Execution of a divine command
+    is narrated by repeating the command almost verbatim; A small gold-plated altar for burning incense
+    before the veil; Recipe of the holy anointing oil of myrrh, cinnamon, cane, cassia and olive oil.'
   basis: reading
 - text: 'Contribution for the sanctuary; ark, cover, table and lampstand: tagged by Claude (model), reading
     the Hebrew.'
@@ -105,36 +104,6 @@ matches:
       lang: he
       text: וַיַּ֥עַשׂ כַּפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֨צִי֙ אָרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רָחְבָּֽהּ
 - kind: shared
-  label: A gold table with the bread of the presence always before God
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Exod 25:23-30
-      lang: he
-      text: (25:23) וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ וְאַמָּ֥ה
-        וָחֵ֖צִי קֹמָתֽוֹ (25:24) וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב
-        (25:25) וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וְעָשִׂ֧יתָ זֵר זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב
-        (25:26) וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וְנָתַתָּ֙ אֶת הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע
-        הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו (25:27) לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת
-        לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (25:28) וְעָשִׂ֤יתָ אֶת הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים
-        וְצִפִּיתָ֥ אֹתָ֖ם זָהָ֑ב וְנִשָּׂא בָ֖ם אֶת הַשֻּׁלְחָֽן (25:29) וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו
-        וּקְשׂוֹתָיו֙ וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם (25:30)
-        וְנָתַתָּ֧ עַֽל הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד
-    note: lehem panim 'bread of the face' always before me
-  - tradition: judaism
-    passages:
-    - ref: Exod 37:10-16
-      lang: he
-      text: (37:10) וַיַּ֥עַשׂ אֶת הַשֻּׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ
-        וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ (37:11) וַיְצַ֥ף אֹת֖וֹ זָהָ֣ב טָה֑וֹר וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב
-        סָבִֽיב (37:12) וַיַּ֨עַשׂ ל֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וַיַּ֧עַשׂ זֵר זָהָ֛ב לְמִסְגַּרְתּ֖וֹ
-        סָבִֽיב (37:13) וַיִּצֹ֣ק ל֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וַיִּתֵּן֙ אֶת הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע
-        הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו (37:14) לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת הָי֖וּ הַטַּבָּעֹ֑ת בָּתִּים֙
-        לַבַּדִּ֔ים לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (37:15) וַיַּ֤עַשׂ אֶת הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וַיְצַ֥ף
-        אֹתָ֖ם זָהָ֑ב לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (37:16) וַיַּ֜עַשׂ אֶֽת הַכֵּלִ֣ים אֲשֶׁ֣ר עַל הַשֻּׁלְחָ֗ן
-        אֶת קְעָרֹתָ֤יו וְאֶת כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶת הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן
-        זָהָ֖ב טָהֽוֹר
-- kind: shared
   label: A golden seven-lamp lampstand with almond-blossom cups
   sides:
   - tradition: judaism
@@ -169,6 +138,36 @@ matches:
         הַקָּנִ֔ים הַיֹּצְאִ֖ים מִמֶּֽנָּה (37:22) כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה הָי֑וּ כֻּלָּ֛הּ
         מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר (37:23) וַיַּ֥עַשׂ אֶת נֵרֹתֶ֖יהָ שִׁבְעָ֑ה וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ
         זָהָ֥ב טָהֽוֹר (37:24) כִּכָּ֛ר זָהָ֥ב טָה֖וֹר עָשָׂ֣ה אֹתָ֑הּ וְאֵ֖ת כָּל כֵּלֶֽיהָ
+- kind: shared
+  label: A gold table with the bread of the presence always before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 25:23-30
+      lang: he
+      text: (25:23) וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ וְאַמָּ֥ה
+        וָחֵ֖צִי קֹמָתֽוֹ (25:24) וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב
+        (25:25) וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וְעָשִׂ֧יתָ זֵר זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב
+        (25:26) וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וְנָתַתָּ֙ אֶת הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע
+        הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו (25:27) לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת
+        לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (25:28) וְעָשִׂ֤יתָ אֶת הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים
+        וְצִפִּיתָ֥ אֹתָ֖ם זָהָ֑ב וְנִשָּׂא בָ֖ם אֶת הַשֻּׁלְחָֽן (25:29) וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו
+        וּקְשׂוֹתָיו֙ וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם (25:30)
+        וְנָתַתָּ֧ עַֽל הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד
+    note: lehem panim 'bread of the face' always before me
+  - tradition: judaism
+    passages:
+    - ref: Exod 37:10-16
+      lang: he
+      text: (37:10) וַיַּ֥עַשׂ אֶת הַשֻּׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ
+        וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ (37:11) וַיְצַ֥ף אֹת֖וֹ זָהָ֣ב טָה֑וֹר וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב
+        סָבִֽיב (37:12) וַיַּ֨עַשׂ ל֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וַיַּ֧עַשׂ זֵר זָהָ֛ב לְמִסְגַּרְתּ֖וֹ
+        סָבִֽיב (37:13) וַיִּצֹ֣ק ל֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וַיִּתֵּן֙ אֶת הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע
+        הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו (37:14) לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת הָי֖וּ הַטַּבָּעֹ֑ת בָּתִּים֙
+        לַבַּדִּ֔ים לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (37:15) וַיַּ֤עַשׂ אֶת הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וַיְצַ֥ף
+        אֹתָ֖ם זָהָ֑ב לָשֵׂ֖את אֶת הַשֻּׁלְחָֽן (37:16) וַיַּ֜עַשׂ אֶֽת הַכֵּלִ֣ים אֲשֶׁ֣ר עַל הַשֻּׁלְחָ֗ן
+        אֶת קְעָרֹתָ֤יו וְאֶת כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶת הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן
+        זָהָ֖ב טָהֽוֹר
 - kind: shared
   label: 'The ark of the covenant: a gold-plated acacia chest with rings and poles'
   sides:

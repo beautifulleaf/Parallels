@@ -13,10 +13,10 @@ traditions:
 layers:
 - motif
 motifs:
-- moses-flees-from-staff-serpent-as-divergence
 - moses-fear-of-blood-vengeance-as-divergence
-- aarons-role-beside-moses-as-divergence
+- moses-flees-from-staff-serpent-as-divergence
 - moses-white-hand-sign-as-divergence
+- aarons-role-beside-moses-as-divergence
 - hand-turned-leprous-white-as-snow
 - prophet-slow-of-speech
 - brother-as-spokesman
@@ -25,26 +25,26 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Moses flees from his staff turned serpent, and God''s response [divergence
-    between the texts] (weight 6.3); Moses'' fear of being killed, on returning, for the Egyptian''s death
-    [divergence between the texts] (weight 6.3); Aaron''s role beside Moses and how he is appointed [divergence
-    between the texts] (weight 6.0); Moses'' hand turned white as a sign [divergence between the texts]
-    (weight 6.0); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight 5.6);
-    Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' (weight 5.6); An eloquent
-    brother is appointed to speak for the hero, who is ''as God'' to him (weight 5.6); A staff thrown
-    down becomes a serpent and turns back into a staff (weight 5.4). Pair score 46.8.'
+- text: 'Shared motifs, rarest first: Moses'' fear of being killed, on returning, for the Egyptian''s
+    death [divergence between the texts] (weight 7.3); Moses flees from his staff turned serpent, and
+    God''s response [divergence between the texts] (weight 7.3); Moses'' hand turned white as a sign [divergence
+    between the texts] (weight 7.1); Aaron''s role beside Moses and how he is appointed [divergence between
+    the texts] (weight 7.1); Prophet''s hand turns leprous, white as snow, and is restored as a sign (weight
+    6.6); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' (weight 6.6);
+    An eloquent brother is appointed to speak for the hero, who is ''as God'' to him (weight 6.6); A staff
+    thrown down becomes a serpent and turns back into a staff (weight 6.5). Pair score 55.2.'
   basis: reading
 - text: 'Only in Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood: Wife
     saves her husband from a divine attack with her son''s circumcision blood, calling him ''bridegroom
     of blood''; Two brothers meet and kiss at the mountain of God; God attacks the hero at a night lodging
-    and seeks to kill him; God claims to make the mouth, the mute, the deaf, the seeing and the blind;
-    The people believe the prophet''s signs and bow in worship; Hero may return home because those seeking
-    his life are dead; Wife cuts off her son''s foreskin with a flint and touches it to the threatened
-    man; The hero carries ''the staff of God'' with which he performs signs; The prophet asks that his
-    brother be made his helper (wazīr) and partner in his mission [divergence between the texts]; What
-    Moses demands of Pharaoh in God''s name [divergence between the texts]; God taught humankind by the
-    pen (qalam) what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him
-    [divergence between the texts]; and 11 more.'
+    and seeks to kill him; The people believe the prophet''s signs and bow in worship; Hero may return
+    home because those seeking his life are dead; Wife cuts off her son''s foreskin with a flint and touches
+    it to the threatened man; The hero carries ''the staff of God'' with which he performs signs; The
+    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
+    the texts]; What Moses demands of Pharaoh in God''s name [divergence between the texts]; God claims
+    to make the mouth, the mute, the deaf, the seeing and the blind; God taught humankind by the pen (qalam)
+    what it did not know; Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence
+    between the texts]; and 11 more.'
   basis: reading
 - text: 'Only in The fire on the side of the Mount; the call from the tree; Aaron as helper: Moses says
     his brother Aaron is more eloquent of tongue and asks for him as a helper to confirm him; Moses is

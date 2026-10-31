@@ -14,8 +14,8 @@ traditions:
 layers:
 - motif
 motifs:
-- magicians-fail-finger-of-god-as-divergence
 - magicians-fail-finger-of-god
+- magicians-fail-finger-of-god-as-divergence
 - plague-of-lice-from-dust
 - plague-of-frogs
 - nile-water-turned-to-blood
@@ -28,13 +28,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Magicians fail to imitate a wonder and confess ''This is the finger
-    of God'' [divergence between the texts] (weight 6.7); Magicians fail to imitate a wonder and confess
-    ''This is the finger of God'' (weight 6.7); The dust of the earth becomes lice on man and beast (weight
-    6.3); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs (weight 6.0); Nile
-    water is turned to blood (weight 5.8); King asks the prophet to intercede with God to remove a plague
-    (weight 5.6); Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 5.4);
-    Prophet''s wonders are imitated by the king''s magicians in a contest (weight 5.1); The king''s heart
-    is hardened (by himself or by God) so he refuses to release the people (weight 4.6). Pair score 52.2.'
+    of God'' (weight 7.7); Magicians fail to imitate a wonder and confess ''This is the finger of God''
+    [divergence between the texts] (weight 7.7); The dust of the earth becomes lice on man and beast (weight
+    7.3); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs (weight 7.1); Nile
+    water is turned to blood (weight 6.6); King asks the prophet to intercede with God to remove a plague
+    (weight 6.6); Prophet delivers God''s demand ''Let my people go that they may serve me'' (weight 6.5);
+    Prophet''s wonders are imitated by the king''s magicians in a contest (weight 6.0); The king''s heart
+    is hardened (by himself or by God) so he refuses to release the people (weight 5.7). Pair score 61.3.'
   basis: reading
 - text: 'Only in Plagues 1-3: blood, frogs, lice: The dead frogs are piled in heaps and the land stinks;
     Egyptians dig around the Nile for drinkable water; Prophet lets the king choose when the plague should
@@ -50,11 +50,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Threatened believers say ''to our Lord we return'' and pray for patience and to die as muslims; Pharaoh
-    executes or threatens offenders by hanging, impaling or crucifixion; and 16 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 26 more.'
   basis: reading
 - text: 'Plagues 1-3: blood, frogs, lice: tagged by Claude (model), reading the Hebrew.'
   basis: reading

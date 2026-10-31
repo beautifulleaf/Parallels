@@ -13,24 +13,24 @@ traditions:
 layers:
 - motif
 motifs:
-- stars-fight-from-heaven
 - stars-fight-from-heaven-as-divergence
+- stars-fight-from-heaven
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The stars fight from their courses against the enemy (weight 6.7);
-    The stars fight from their courses against the enemy [divergence between the texts] (weight 6.7).
-    Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The stars fight from their courses against the enemy [divergence
+    between the texts] (weight 7.7); The stars fight from their courses against the enemy (weight 7.7).
+    Pair score 15.5.'
   basis: reading
 - text: 'Only in The Song of Deborah: A woman is called ''most blessed of women''; An angel curses a town
     that did not come to YHWH''s help; The enemy''s mother waits at the window for her son who will not
     return; Those who love God are like the sun rising in its strength; A woman leader is called ''a mother
     in Israel''; Not a shield or spear to be seen among forty thousand in Israel; Nobles described as
-    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; Under oppression the highways
-    are deserted and travelers use byways; A woman leader sings the victory song; If you help God he will
-    help you and make your feet firm; The laggard thanks God he was absent when disaster struck, and wishes
-    he had shared the spoil; and 9 more.'
+    riders on white (tawny) she-donkeys; A torrent sweeps away the enemy army; A woman leader sings the
+    victory song; If you help God he will help you and make your feet firm; The laggard thanks God he
+    was absent when disaster struck, and wishes he had shared the spoil; Asked for water, the woman gives
+    milk; and 9 more.'
   basis: reading
 - text: 'Only in Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils,
     hell nearly bursting with rage: ''Blessed is he in whose hand is the dominion (al-mulk)''; ''Does
@@ -40,11 +40,10 @@ evidence:
     look again and again, you will see no flaw or rift; your sight returns dazzled and weary; God adorned
     the lowest heaven with lamps and made them missiles (rujum) against the devils; I set before you life
     and death, blessing and curse: choose life [divergence between the texts]; God created heaven and
-    earth to test which of you is best in deeds; God, who fashions the hearts of all and observes all
-    their deeds, looks down from his dwelling; When the damned are cast in they hear hell gasping/roaring
-    as it boils, nearly bursting with rage; God built the sky and adorned it, and it has no rifts (furuj);
-    Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?; and 2
-    more.'
+    earth to test which of you is best in deeds; Kingship over heaven and earth and everything is in the
+    god''s hand or grasp; God, who fashions the hearts of all and observes all their deeds, looks down
+    from his dwelling; Death and life (in that order) are set or created by the divine; When the damned
+    are cast in they hear hell gasping/roaring as it boils, nearly bursting with rage; and 5 more.'
   basis: reading
 - text: 'The Song of Deborah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who chose or founded the single sanctuary of sacrifice, and when
-    [divergence between the texts] (weight 6.7); What is done with the blood of sacrifices, and whether
-    it reaches God [divergence between the texts] (weight 6.7). Pair score 13.4.'
+    [divergence between the texts] (weight 7.7); What is done with the blood of sacrifices, and whether
+    it reaches God [divergence between the texts] (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in The chosen place; profane slaughter; blood prohibition: Do not inquire how the nations
     served their gods in order to imitate them; Every man doing what is right in his own eyes; Meat may
@@ -43,8 +43,9 @@ evidence:
     at the site of the House and told him to purify it for those who circle, stand, bow and prostrate;
     Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; Eat
     of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
-    a rite of sacrifice (mansak); A place recognized as the house of God and gate of heaven; Offer to
-    God a sacrifice of thanksgiving (todah) and pay your vows to Elyon; and 5 more.'
+    a rite of sacrifice (mansak); Whether the deity eats (receives) the food and drink of the offerings
+    [divergence between the texts]; The deity shows or assigns to the builder the site (old foundation)
+    of the deity''s house; and 14 more.'
   basis: reading
 - text: 'The chosen place; profane slaughter; blood prohibition: tagged by Claude (model), reading the
     Hebrew.'

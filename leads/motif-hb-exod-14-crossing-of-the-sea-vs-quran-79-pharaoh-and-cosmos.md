@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people (weight 4.6); The returning waters drown the pursuing army; not one survives
-    (weight 4.5). Pair score 9.1.'
+    to release the people (weight 5.7); The returning waters drown the pursuing army; not one survives
+    (weight 5.5). Pair score 11.2.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -40,12 +40,12 @@ evidence:
     will have the garden as refuge; The first quaking blast (al-rajifa) is followed by a second (al-radifa);
     a single shout (zajra) and they are on the open plain (al-sahira); God built the sky, raised its canopy,
     darkened its night and brought out its forenoon; after that he spread out the earth; The call comes
-    in the holy valley named Ṭuwā; Pharaoh gathers the people and proclaims ''I am your Lord most high'';
-    Pharaoh gathers the people and proclaims ''I am your Lord most high'' [divergence between the texts];
-    Narrative of a prophet''s commissioning by God [divergence between the texts]; The call comes in the
-    holy valley named Ṭuwā [divergence between the texts]; On that day hell is brought forth, exposed
-    or kindled for whoever sees, and paradise brought near; God spread out the earth as a carpet, cradle
-    or bed (bisat, mihad, daha, sutihat, tahaha); and 8 more.'
+    in the holy valley named Ṭuwā; The king of Egypt is called, or calls himself, god or lord [divergence
+    between the texts]; Pharaoh gathers the people and proclaims ''I am your Lord most high''; Pharaoh
+    gathers the people and proclaims ''I am your Lord most high'' [divergence between the texts]; Narrative
+    of a prophet''s commissioning by God [divergence between the texts]; The call comes in the holy valley
+    named Ṭuwā [divergence between the texts]; The king of Egypt is called god (by his vassals, or by
+    himself) [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

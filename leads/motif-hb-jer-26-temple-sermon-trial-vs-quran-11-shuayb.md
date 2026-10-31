@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Only the prophet''s clan keeps the people from stoning him (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Jeremiah tried for prophesying the temple will become like Shiloh; Uriah executed: The
     executed man''s body is thrown into the graves of the common people; Elders cite an earlier prophet''s

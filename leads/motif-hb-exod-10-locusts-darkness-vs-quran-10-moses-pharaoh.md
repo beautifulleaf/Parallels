@@ -18,8 +18,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king confesses he has sinned and that God is righteous (weight
-    6.3); The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight
-    4.6). Pair score 10.9.'
+    7.3); The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight
+    5.7). Pair score 13.0.'
   basis: reading
 - text: 'Only in Plagues 8-9: locusts and darkness: The king''s own servants urge him to let the people
     go; King tells the prophet never to see his face again or he will die; During the plague of darkness
@@ -36,13 +36,14 @@ evidence:
     of Moses'' people believed him, fearing Pharaoh; As he drowns Pharaoh declares faith in the God of
     the Israelites, too late; Pharaoh''s body is saved from the sea to be a sign for those after him;
     Moses prays God to obliterate Pharaoh''s wealth and harden their hearts so they do not believe until
-    they see punishment; What becomes of the drowned Pharaoh and his army after the sea [divergence between
-    the texts]; Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction
-    of prayer); God''s instruction about the Israelites'' houses in Egypt before the exodus [divergence
-    between the texts]; Threatened believers say ''to our Lord we return'' and pray for patience and to
-    die as muslims; Why Pharaoh pursues the departing Israelites; Pharaoh acknowledges Israel''s God or
-    his own sin, and what follows; Pharaoh acknowledges Israel''s God or his own sin, and what follows
-    [divergence between the texts]; Who throws the staff before Pharaoh and what it becomes; and 9 more.'
+    they see punishment; The defeated enemy''s form (image or body) is kept as a sign (Akk. ittu, Ar.
+    āya) for those who come after [divergence between the texts]; What becomes of the drowned Pharaoh
+    and his army after the sea [divergence between the texts]; Moses and Aaron are told to make their
+    people''s houses in Egypt a qibla (place/direction of prayer); God''s instruction about the Israelites''
+    houses in Egypt before the exodus [divergence between the texts]; Threatened believers say ''to our
+    Lord we return'' and pray for patience and to die as muslims; Why Pharaoh pursues the departing Israelites;
+    Pharaoh acknowledges Israel''s God or his own sin, and what follows; Pharaoh acknowledges Israel''s
+    God or his own sin, and what follows [divergence between the texts]; and 11 more.'
   basis: reading
 - text: 'Plagues 8-9: locusts and darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

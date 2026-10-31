@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people (weight 4.6). Pair score 4.6.'
+    to release the people (weight 5.7). Pair score 5.7.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -40,11 +40,11 @@ evidence:
     a clear opening/victory (fath mubin)'' (the Hudaybiya treaty); Opponents wish to put out God''s light
     with their mouths, but God will perfect his light; God loves those who fight in his way in ranks as
     though they were a solid structure (bunyan marsus); God makes his people''s hearts stray or swerve
-    [divergence between the texts]; The lamp of God had not yet gone out; Moses asks his people: ''Why
-    do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their hearts
-    swerve; Moses ill-treated by his own people [divergence between the texts]; The coming prophet is
-    found written in the Torah and the Gospel; ''Why do you say what you do not do? Most hateful to God
-    is saying what you do not do''; and 5 more.'
+    [divergence between the texts]; If you have given your word, deliver and do not revoke it; promising
+    and not delivering is abhorrent to the god; The lamp of God had not yet gone out; Moses asks his people:
+    ''Why do you hurt me when you know I am God''s messenger to you?''; when they swerved God made their
+    hearts swerve; Moses ill-treated by his own people [divergence between the texts]; The coming prophet
+    is found written in the Torah and the Gospel; and 7 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'

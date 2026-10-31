@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses asks his people: ''Why do you hurt me when you know I am God''s
-    messenger to you?''; when they swerved God made their hearts swerve (weight 6.7). Pair score 6.7.'
+    messenger to you?''; when they swerved God made their hearts swerve (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Miriam and Aaron speak against Moses: Hero called the humblest man on earth; Ordinary
     prophets receive revelation in visions and dreams; Afflicted person shut outside the camp seven days;
-    Prophet''s own siblings challenge his unique authority; Father spitting in a daughter''s face brings
-    seven days'' shame; Believers must not put themselves before God and his messenger, nor raise their
-    voices above the prophet''s or shout to him; God speaks to one prophet ''mouth to mouth'', not in
-    dreams or riddles; Prophet criticized over his foreign (Cushite) wife; Those who hurt Moses: God cleared
-    him of what they said [divergence between the texts]; How God speaks to prophets: face to face, in
-    vision or dream, from behind a veil, or by a messenger [divergence between the texts]; God ranked
+    Prophet''s own siblings challenge his unique authority; Believers must not put themselves before God
+    and his messenger, nor raise their voices above the prophet''s or shout to him; Prophet criticized
+    over his foreign (Cushite) wife; Those who hurt Moses: God cleared him of what they said [divergence
+    between the texts]; Father spitting in a daughter''s face brings seven days'' shame; God speaks to
+    one prophet ''mouth to mouth'', not in dreams or riddles; How God speaks to prophets: face to face,
+    in vision or dream, from behind a veil, or by a messenger [divergence between the texts]; God ranked
     some messengers above others; to some God spoke; Offender struck with skin disease ''white as snow'';
     and 2 more.'
   basis: reading
@@ -39,11 +39,11 @@ evidence:
     a clear opening/victory (fath mubin)'' (the Hudaybiya treaty); Opponents wish to put out God''s light
     with their mouths, but God will perfect his light; God loves those who fight in his way in ranks as
     though they were a solid structure (bunyan marsus); God makes his people''s hearts stray or swerve
-    [divergence between the texts]; The lamp of God had not yet gone out; Moses ill-treated by his own
-    people [divergence between the texts]; The coming prophet is found written in the Torah and the Gospel;
-    ''Why do you say what you do not do? Most hateful to God is saying what you do not do''; Jesus asks
-    ''Who are my helpers to God?'' and the disciples (hawariyyun) answer ''We are God''s helpers''; and
-    5 more.'
+    [divergence between the texts]; If you have given your word, deliver and do not revoke it; promising
+    and not delivering is abhorrent to the god; The lamp of God had not yet gone out; Moses ill-treated
+    by his own people [divergence between the texts]; The coming prophet is found written in the Torah
+    and the Gospel; ''Why do you say what you do not do? Most hateful to God is saying what you do not
+    do''; and 7 more.'
   basis: reading
 - text: 'Miriam and Aaron speak against Moses: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,18 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Contrast of the way of the righteous, which God knows, and the way
-    of the wicked, which perishes [divergence between the texts] (weight 6.7); Contrast of the way of
-    the righteous, which God knows, and the way of the wicked, which perishes (weight 6.0). Pair score
-    12.7.'
+    of the wicked, which perishes [divergence between the texts] (weight 7.7); Contrast of the way of
+    the righteous, which God knows, and the way of the wicked, which perishes (weight 7.1). Pair score
+    14.8.'
   basis: reading
 - text: 'Only in Psalm 1 - the two ways: The deeds of unbelievers are like ashes blown by the wind on
     a stormy day; The righteous man is like a tree planted by streams of water, bearing fruit in season,
     leaf never withering [divergence between the texts]; Do not sit with those who plunge into mockery
-    of God''s signs until they change the subject; The righteous man is like a tree planted by streams
-    of water, bearing fruit in season, leaf never withering; Meditate on the book of the Torah day and
-    night; it shall not depart from your mouth; Beatitude formula ''Happy (ashrei) is the man who...'';
-    I set before you life and death, blessing and curse: choose life; The wicked are like chaff driven
-    by the wind.'
+    of God''s signs until they change the subject; Meditate on the book of the Torah day and night; it
+    shall not depart from your mouth; Beatitude formula ''Happy (ashrei) is the man who...''; I set before
+    you life and death, blessing and curse: choose life; The righteous man is like a tree planted by streams
+    of water, bearing fruit in season, leaf never withering; The wicked are like chaff driven by the wind.'
   basis: reading
 - text: 'Only in The Opening (al-Fatiha): Text or act opened with the formula ''In the name of God, the
     Merciful, the Compassionate''; Three ways contrasted: those God favored, those under wrath, and those

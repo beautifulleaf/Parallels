@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
-    4.5). Pair score 4.5.'
+    5.5). Pair score 5.5.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -42,11 +42,11 @@ evidence:
     himself or thrown at him [divergence between the texts]; Pharaoh is the great tannin (crocodile/dragon)
     lying in the midst of his Nile channels; Pharaoh boasts to his people: is not the kingdom of Egypt
     mine, and these rivers flowing beneath me?; The king breaks his promise to release the people once
-    a plague is lifted [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
+    a plague is lifted [divergence between the texts]; The water of the river of Egypt is said to be at
+    its king''s disposal [neutral] [divergence between the texts]; A man brought before Pharaoh is afraid
+    and cannot speak [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
     heart, or Pharaoh and his people themselves [divergence between the texts]; The returning waters drown
-    the pursuing army; not one survives [divergence between the texts]; King invests the hero with ring,
-    linen and chariot; The king breaks his promise to release the people once a plague is lifted; and
-    2 more.'
+    the pursuing army; not one survives [divergence between the texts]; and 4 more.'
   basis: reading
 - text: 'Psalm 78, Asaph''s historical recital from Egypt to David: tagged by Claude (model), reading
     the Hebrew.'

@@ -19,16 +19,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hymn recalls God''s covenant with Abraham, oath to Isaac and statute
-    to Jacob for a thousand generations (weight 6.7). Pair score 6.7.'
+    to Jacob for a thousand generations (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in David''s thanksgiving psalm (composite of Pss 105, 96, 106): A psalm sung in the narrative
     is stitched from passages found in the Psalter; Prayer: ''save us, gather us and deliver us from the
-    nations''; Heavens, earth, sea, fields and trees rejoice and sing before the coming God; The patriarchs
-    few in number wander from nation to nation, protected by God; All the people say ''Amen'' and praise
-    YHWH; ''Touch not my anointed ones, do my prophets no harm''; The world is firmly established and
-    cannot be moved; Proclamation among the nations: ''YHWH is king'' (YHWH malakh); God comes to judge
-    the earth with righteousness, and all creation rejoices; Idols called ''elilim'' (''nothings''); YHWH
-    is great and to be feared above all gods; Refrain ''Give thanks to YHWH for he is good, for his steadfast
+    nations''; The patriarchs few in number wander from nation to nation, protected by God; All the people
+    say ''Amen'' and praise YHWH; ''Touch not my anointed ones, do my prophets no harm''; The world is
+    firmly established and cannot be moved; Heavens, earth, sea, fields and trees rejoice and sing before
+    the coming God; God comes to judge the earth with righteousness, and all creation rejoices; Proclamation
+    among the nations: ''YHWH is king'' (YHWH malakh); Idols called ''elilim'' (''nothings''); YHWH is
+    great and to be feared above all gods; Refrain ''Give thanks to YHWH for he is good, for his steadfast
     love is forever''.'
   basis: reading
 - text: 'Only in Hypocrites and the call to judgment; ''we hear and obey''; the promise of succession:

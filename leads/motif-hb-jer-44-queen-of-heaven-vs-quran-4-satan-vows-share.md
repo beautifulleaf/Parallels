@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Offerings, incense and libations to the ''Queen of Heaven'' (weight
-    6.7). Pair score 6.7.'
+    6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in The Judeans in Egypt defend their cult of the Queen of Heaven: Worshipers argue their
     goddess cult brought plenty and abandoning it brought disaster; Women bake cakes bearing the image
@@ -37,11 +37,12 @@ evidence:
     Satan; Salvation is not by your wishes nor those of the People of the Book: whoever does evil is requited;
     Cursed Satan vows to take an appointed share (naṣīb mafrūḍ) of God''s servants; Satan commands people
     to slit the ears of cattle (a pagan dedication rite); The faithless wife credits her lovers (the Baals)
-    with her bread, water, wool, flax, oil and drink, not knowing God gave them; Whoever does good, male
-    or female, and believes, enters paradise; Abraham is called God''s friend (ohev, ''lover''); God does
-    not forgive associating partners with him (shirk) but forgives anything less; Not wronged by a date-stone''s
-    thread (fatīl) or groove (naqīr): proverbial minimal measures; Follow the religion (milla) of Abraham
-    the ḥanīf, who was no idolater.'
+    with her bread, water, wool, flax, oil and drink, not knowing God gave them; A rebel against the high
+    god vows, in a string of first-person ''I will'' clauses, to take and to command [divergence between
+    the texts]; Whoever does good, male or female, and believes, enters paradise; Abraham is called God''s
+    friend (ohev, ''lover''); God does not forgive associating partners with him (shirk) but forgives
+    anything less; Not wronged by a date-stone''s thread (fatīl) or groove (naqīr): proverbial minimal
+    measures; Follow the religion (milla) of Abraham the ḥanīf, who was no idolater.'
   basis: reading
 - text: 'The Judeans in Egypt defend their cult of the Queen of Heaven: tagged by Claude (model), reading
     the Hebrew.'

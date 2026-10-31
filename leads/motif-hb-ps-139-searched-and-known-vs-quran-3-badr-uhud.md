@@ -18,20 +18,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No soul dies except by God''s leave at a term written (kitaban mu''ajjalan)
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 139, God''s all-knowing presence and the embryo: Darkness is not dark to God; night
     shines like day, darkness and light are alike; ''YHWH, you have searched me and known me'': God knows
-    sitting and rising, thoughts from afar, every word before it is spoken; Nowhere to flee God''s spirit:
-    if I ascend to heaven you are there, if I make my bed in Sheol you are there; ''Do I not hate those
-    who hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar)
-    and dwell at the far end of the sea, even there your hand leads me''; Speaker was made in secret and
-    embroidered (ruqqamti) in the depths of the earth; No calamity befalls the earth or yourselves but
-    it is in a Book before God brings it into being; Nothing wet or dry but is in a clear book; Fleeing
-    from God, or to God [divergence between the texts]; God''s knowledge of a person''s thoughts and words,
-    from afar or from near [divergence between the texts]; God knows what the earth diminishes of the
-    dead bodies, and with him is a preserving record; If the sea were ink for God''s words it would run
-    dry before they ran out, even with another sea; and 15 more.'
+    sitting and rising, thoughts from afar, every word before it is spoken; ''Do I not hate those who
+    hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar) and
+    dwell at the far end of the sea, even there your hand leads me''; Speaker was made in secret and embroidered
+    (ruqqamti) in the depths of the earth; No calamity befalls the earth or yourselves but it is in a
+    Book before God brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God,
+    or to God [divergence between the texts]; God''s knowledge of a person''s thoughts and words, from
+    afar or from near [divergence between the texts]; God knows what the earth diminishes of the dead
+    bodies, and with him is a preserving record; Nowhere to flee God''s spirit: if I ascend to heaven
+    you are there, if I make my bed in Sheol you are there; If the sea were ink for God''s words it would
+    run dry before they ran out, even with another sea; and 15 more.'
   basis: reading
 - text: 'Only in Badr and Uhud: God helped you at Badr when you were weak; The prophet told to be gentle,
     pardon them and consult them (shawirhum) in the matter; Such days God alternates among people; Defeat
@@ -41,7 +41,7 @@ evidence:
     destined to be killed would have gone out to their death-beds; Many a prophet fought alongside many
     godly men (ribbiyyun) who did not weaken; The slain rejoice with their Lord and are glad for those
     who have not yet joined them; Those who restrain anger and pardon people; It is Satan who frightens
-    you of his allies; fear me; Do not consume usury doubled and redoubled; and 17 more.'
+    you of his allies; fear me; Do not consume usury doubled and redoubled; and 25 more.'
   basis: reading
 - text: 'Psalm 139, God''s all-knowing presence and the embryo: tagged by Claude (model), reading the
     Hebrew.'

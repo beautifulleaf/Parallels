@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The called one asks for a sign that it is God who speaks [divergence
-    between the texts] (weight 5.8); The called one asks for a sign that it is God who speaks (weight
-    5.6). Pair score 11.4.'
+    between the texts] (weight 6.8); The called one asks for a sign that it is God who speaks (weight
+    6.5). Pair score 13.3.'
   basis: reading
 - text: 'Only in Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom: The angel of YHWH
     sits under a sacred tree before calling the hero; The one called asks where God''s wonders are if
@@ -39,11 +39,11 @@ evidence:
     opponents) but ''unzurna''; God abrogates or causes to be forgotten a verse and brings a better or
     similar one (naskh); God swears by himself: to me every knee shall bow and every tongue swear; Whether
     God has or begets a son [contrast between the texts]; Whether God should speak to the people directly
-    [contrast between the texts]; From sunrise to sunset God''s name is great among the nations and in
-    every place incense and a pure offering are brought to his name; East and west belong to God; wherever
-    you turn, there is the face of God; ''He spoke and it came to be; he commanded and it stood firm'';
-    Deity creates by spoken command (Let there be...); Denial that God has taken a son (walad); and 1
-    more.'
+    [contrast between the texts]; A good deed done for one''s land is laid up in the god''s basket (credited
+    by the god); From sunrise to sunset God''s name is great among the nations and in every place incense
+    and a pure offering are brought to his name; The god''s whereabouts named as the sunrise and the sunset
+    (east and west) [divergence between the texts]; East and west belong to God; wherever you turn, there
+    is the face of God; ''He spoke and it came to be; he commanded and it stood firm''; and 3 more.'
   basis: reading
 - text: 'Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom: tagged by Claude (model),
     reading the Hebrew.'

@@ -17,15 +17,15 @@ motifs:
 - family-saved
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: All others perish (weight 5.0); Hero''s family saved with him (weight
-    4.5). Pair score 9.5.'
+- text: 'Shared motifs, rarest first: All others perish (weight 5.9); Hero''s family saved with him (weight
+    5.4). Pair score 11.3.'
   basis: reading
-- text: 'Only in The Flood in Genesis: Birds released to find dry land; A sign in the sky commemorates
-    the flood (bow, necklace); Exact dimensions of the vessel are specified; Hero blessed on leaving the
-    vessel; Hero''s life or mission spans 950 years; Deity resolves or promises not to repeat the destruction;
-    Destruction motivated by human wickedness or violence; Waters pour both from the sky and from springs
-    of the earth; Animals taken aboard in pairs; Deity or gods smell the offering; Hero offers sacrifice
-    after leaving the vessel; Vessel comes to rest on a named mountain; and 5 more.'
+- text: 'Only in The Flood in Genesis: Hero''s life or mission spans 950 years; Destruction motivated
+    by human wickedness or violence; A sign in the sky commemorates the flood (bow, necklace); Birds released
+    to find dry land; Deity resolves or promises not to repeat the destruction; Animals taken aboard in
+    pairs; Deity or gods smell the offering; Exact dimensions of the vessel are specified; Vessel comes
+    to rest on a named mountain; Hero blessed on leaving the vessel; Hero builds a vessel on divine instruction;
+    Hero singled out as righteous or pious; and 5 more.'
   basis: reading
 - text: 'Only in Noah, the lowly followers and the laden ark: The people threaten to stone the prophet
     if he does not desist; The hero is saved with those with him in the laden ark (al-fulk al-mashḥūn);
@@ -33,8 +33,8 @@ evidence:
     away; Who is saved with the hero from the destruction, and why [contrast between the texts]; Whether
     the flood hero speaks to his people before the flood [divergence between the texts]; The people are
     about to stone their leader; Who is saved with the hero from the destruction, and why [divergence
-    between the texts]; Hero asks the deity to judge or destroy his opponents; Formula: ''their brother''
-    (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger sent to his people; Refrain closing each episode:
+    between the texts]; Formula: ''their brother'' (akhūhum) Noah/Hud/Salih/Lot is a trustworthy messenger
+    sent to his people; Hero asks the deity to judge or destroy his opponents; Refrain closing each episode:
     ''In that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''; Hero
     warns or preaches to his people before the flood; The Prophet asks no wage for the message.'
   basis: reading

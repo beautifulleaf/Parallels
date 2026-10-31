@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Messengers offer peace terms before battle [divergence between the
-    texts] (weight 6.7); Messengers offer peace terms before battle (weight 5.8). Pair score 12.5.'
+    texts] (weight 7.7); Messengers offer peace terms before battle (weight 6.1). Pair score 13.9.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence

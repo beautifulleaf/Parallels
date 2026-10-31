@@ -180,10 +180,10 @@
      "lang": "he"
     },
     {
-     "lemma": "H7835",
-     "form": "שָׁחַר",
-     "translit": "shâchar",
-     "gloss": "to be dim or dark (in color)",
+     "lemma": "H5507",
+     "form": "סֹחֵרָה",
+     "translit": "çôchêrâh",
+     "gloss": "something surrounding the person, i.e. a shield",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
@@ -2710,31 +2710,6 @@
    "translit": "jāwaza"
   },
   {
-   "lemma": "طَلَعَت",
-   "n": 2,
-   "narratives": [
-    "cave",
-    "dhul-qarnayn"
-   ],
-   "counts": [
-    1,
-    1
-   ],
-   "p": 2.885694107142157e-05,
-   "refs": [
-    "18:17",
-    "18:90"
-   ],
-   "cognates": [],
-   "cross_corpus": [],
-   "cross_bridge": [],
-   "form": "طَلَعَت",
-   "gloss": "rose",
-   "root": "طلع",
-   "pos": "V",
-   "translit": "ṭalaʿat"
-  },
-  {
    "lemma": "غَرَبَت",
    "n": 2,
    "narratives": [
@@ -2804,6 +2779,31 @@
    "root": "غرب",
    "pos": "V",
    "translit": "gharabat"
+  },
+  {
+   "lemma": "طَلَعَت",
+   "n": 2,
+   "narratives": [
+    "cave",
+    "dhul-qarnayn"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 2.885694107142157e-05,
+   "refs": [
+    "18:17",
+    "18:90"
+   ],
+   "cognates": [],
+   "cross_corpus": [],
+   "cross_bridge": [],
+   "form": "طَلَعَت",
+   "gloss": "rose",
+   "root": "طلع",
+   "pos": "V",
+   "translit": "ṭalaʿat"
   },
   {
    "lemma": "مُغْرَق",
@@ -3064,10 +3064,10 @@
      "lang": "he"
     },
     {
-     "lemma": "H7835",
-     "form": "שָׁחַר",
-     "translit": "shâchar",
-     "gloss": "to be dim or dark (in color)",
+     "lemma": "H5507",
+     "form": "סֹחֵרָה",
+     "translit": "çôchêrâh",
+     "gloss": "something surrounding the person, i.e. a shield",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
@@ -3483,19 +3483,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H5604",
-     "form": "סִפֻּן",
-     "translit": "çippun",
-     "gloss": "a wainscot",
+     "lemma": "H8226",
+     "form": "שָׂפַן",
+     "translit": "sâphan",
+     "gloss": "to conceal (as a valuable)",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H8226",
-     "form": "שָׂפַן",
-     "translit": "sâphan",
-     "gloss": "to conceal (as a valuable)",
+     "lemma": "H5604",
+     "form": "סִפֻּן",
+     "translit": "çippun",
+     "gloss": "a wainscot",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"

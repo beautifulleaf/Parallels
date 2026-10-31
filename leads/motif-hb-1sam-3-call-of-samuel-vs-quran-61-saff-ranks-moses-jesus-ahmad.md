@@ -18,7 +18,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The lamp of God had not yet gone out (weight 6.7). Pair score 6.7.'
+- text: 'Shared motifs, rarest first: The lamp of God had not yet gone out (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The call of Samuel in the temple at Shiloh: Divine call repeated three times before it
     is recognized; Child sleeping in the sanctuary hears God call his name at night, mistaking it for
@@ -34,12 +34,12 @@ evidence:
     a clear opening/victory (fath mubin)'' (the Hudaybiya treaty); Opponents wish to put out God''s light
     with their mouths, but God will perfect his light; God loves those who fight in his way in ranks as
     though they were a solid structure (bunyan marsus); God makes his people''s hearts stray or swerve
-    [divergence between the texts]; Moses asks his people: ''Why do you hurt me when you know I am God''s
-    messenger to you?''; when they swerved God made their hearts swerve; Moses ill-treated by his own
-    people [divergence between the texts]; The coming prophet is found written in the Torah and the Gospel;
-    ''Why do you say what you do not do? Most hateful to God is saying what you do not do''; Jesus asks
-    ''Who are my helpers to God?'' and the disciples (hawariyyun) answer ''We are God''s helpers''; and
-    5 more.'
+    [divergence between the texts]; If you have given your word, deliver and do not revoke it; promising
+    and not delivering is abhorrent to the god; Moses asks his people: ''Why do you hurt me when you know
+    I am God''s messenger to you?''; when they swerved God made their hearts swerve; Moses ill-treated
+    by his own people [divergence between the texts]; The coming prophet is found written in the Torah
+    and the Gospel; ''Why do you say what you do not do? Most hateful to God is saying what you do not
+    do''; and 7 more.'
   basis: reading
 - text: 'The call of Samuel in the temple at Shiloh: tagged by Claude (model), reading the Hebrew.'
   basis: reading

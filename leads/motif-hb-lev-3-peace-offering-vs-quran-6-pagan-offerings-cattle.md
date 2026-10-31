@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fat tail of the sheep is offered [divergence between the texts]
-    (weight 6.7); Eating the fat (helev) of sacrificial animals is forbidden (weight 6.3). Pair score
-    13.0.'
+    (weight 7.7); Eating the fat (helev) of sacrificial animals is forbidden (weight 7.3). Pair score
+    15.1.'
   basis: reading
 - text: 'Only in The well-being (shelamim) offering and the ban on fat and blood: All the fat belongs
     to YHWH; The sacrifice is called God''s food (lehem); Priests dash the blood against all sides of
@@ -40,7 +40,8 @@ evidence:
     to be eaten only by whom they will; Pagans reserve what is in the wombs of cattle for males, forbidden
     to wives unless stillborn; The camel is unclean because it does not have a split hoof [contrast between
     the texts]; List of clean and unclean animals: split hoof and chewing cud [response between the texts];
-    Firstborn male of herd and flock consecrated to God, not worked or shorn; and 11 more.'
+    The due from crops and young animals is given at once, at harvest time [divergence between the texts];
+    and 14 more.'
   basis: reading
 - text: 'The well-being (shelamim) offering and the ban on fat and blood: tagged by Claude (model), reading
     the Hebrew.'

@@ -20,11 +20,11 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Do not kill your children for fear of poverty; God provides for
-    them and you (weight 6.7); Honor father and mother, with the promise of long life [divergence between
-    the texts] (weight 6.0); Guardians must keep orphans'' property intact and hand it over when they
-    come of age (weight 5.8); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother,
-    with the promise of long life (weight 5.3); Honest balances, weights, ephah and hin are commanded
-    (weight 4.7). Pair score 33.9.'
+    them and you (weight 7.7); Honor father and mother, with the promise of long life [divergence between
+    the texts] (weight 7.1); Guardians must keep orphans'' property intact and hand it over when they
+    come of age (weight 6.8); The Ten Commandments (Decalogue) (weight 6.5); Honor father and mother,
+    with the promise of long life (weight 5.9); Honest balances, weights, ephah and hin are commanded
+    (weight 5.3). Pair score 39.3.'
   basis: reading
 - text: 'Only in The recited commandments (the Quranic decalogue): List of commandments introduced ''Come,
     I will recite what your Lord has forbidden you''; Lest you say scripture was sent only to two groups
@@ -32,21 +32,21 @@ evidence:
     the book complete and detailing everything; The Ten Commandments (Decalogue) [divergence between the
     texts]; Stand firm for justice as witnesses for God even against yourselves, parents and kin, rich
     or poor; Prohibitions of murder, adultery, theft and false witness [divergence between the texts];
-    Keep the law, turning neither to the right nor to the left; I set before you life and death, blessing
-    and curse: choose life; God burdens no soul beyond its capacity; Prohibitions of murder, adultery,
+    God burdens no soul beyond its capacity; Keep the law, turning neither to the right nor to the left;
+    I set before you life and death, blessing and curse: choose life; Prohibitions of murder, adultery,
     theft and false witness.'
   basis: reading
 - text: 'Only in The code of commandments (Surah 17:22-39): A Quranic code of commandments resembling
     the Decalogue in content; Do not say even ''uff'' to aged parents nor rebuke them; speak to them gently;
     Do not walk the earth exultantly: you cannot split the earth nor reach the mountains in height; Do
-    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Do not kill
-    the soul God has made sacred except by right; Lower the wing of humility to parents and pray ''Lord,
-    have mercy on them as they raised me when small''; Squanderers are brothers of the devils; Sexual
-    relations with a neighbor''s wife are forbidden [divergence between the texts]; A Quranic code of
-    commandments resembling the Decalogue in content [divergence between the texts]; Do not pursue what
-    you have no knowledge of; hearing, sight and heart will be questioned; Do not kill the soul God has
-    made sacred except by right [divergence between the texts]; No other gods before YHWH [divergence
-    between the texts]; and 5 more.'
+    not keep your hand chained to your neck nor stretch it out fully: moderation in spending; Lower the
+    wing of humility to parents and pray ''Lord, have mercy on them as they raised me when small''; Squanderers
+    are brothers of the devils; Sexual relations with a neighbor''s wife are forbidden [divergence between
+    the texts]; A Quranic code of commandments resembling the Decalogue in content [divergence between
+    the texts]; Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned;
+    Do not speak harshly or arrogantly to your parent; A decreed order includes reverence and humility
+    toward father and mother [divergence between the texts]; Not to speak against or complain of one''s
+    father or parents; and 17 more.'
   basis: reading
 - text: 'The recited commandments (the Quranic decalogue): tagged by Claude (model), reading the Arabic.'
   basis: reading

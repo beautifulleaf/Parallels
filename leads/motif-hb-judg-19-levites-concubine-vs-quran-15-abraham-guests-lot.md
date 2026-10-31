@@ -21,11 +21,11 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Townsmen surround the house and demand the male guest for sexual
-    abuse (weight 6.0); Host offers his virgin daughters to the mob to protect his guests (weight 6.0).
-    Pair score 12.0.'
+    abuse (weight 7.1); Host offers his virgin daughters to the mob to protect his guests (weight 7.1).
+    Pair score 14.1.'
   basis: reading
-- text: 'Only in The Levite''s concubine at Gibeah: Father-in-law repeatedly detains his son-in-law with
-    food and drink; Travelers find no hospitality in a city except from a resident alien old man; The
+- text: 'Only in The Levite''s concubine at Gibeah: Travelers find no hospitality in a city except from
+    a resident alien old man; Father-in-law repeatedly detains his son-in-law with food and drink; The
     townspeople refuse the travelers food and hospitality; A body (or animals) cut into twelve pieces
     and sent to the tribes as a summons; Refrain: ''In those days there was no king in Israel; each did
     what was right in his own eyes''.'
@@ -39,8 +39,8 @@ evidence:
     and the plain destroyed [divergence between the texts]; The doomed people are seized by the Shout
     (al-sayha) at dawn or sunrise; Do not despair of God''s mercy (rawh / rahma); only unbelievers or
     the astray despair; Command not to look back while fleeing a doomed place [divergence between the
-    texts]; Host offers his virgin daughters to the mob to protect his guests [divergence between the
-    texts]; and 13 more.'
+    texts]; Command: on leaving, do not look behind you (ana arkīka lā tappallas / lā yaltafit minkum
+    aḥad) [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'The Levite''s concubine at Gibeah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

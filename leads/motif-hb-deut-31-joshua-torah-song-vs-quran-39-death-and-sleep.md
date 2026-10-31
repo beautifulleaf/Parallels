@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''You will die and they will die'', said to the prophet (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Joshua commissioned; Torah written and deposited; the Song commanded: Book of the Torah
     placed beside the ark as a witness; God foretells to the dying prophet that the people will go astray
@@ -34,13 +34,13 @@ evidence:
   basis: reading
 - text: 'Only in The prophet''s mortality; souls taken in sleep; intercession belongs to God: When God
     alone is mentioned the hearts of unbelievers shrink with aversion; at mention of others they rejoice;
-    All intercession belongs to God; Death described as sleep: ''lest I sleep the sleep of death''; Given
-    a blessing, man says ''I was given it only because of my knowledge''; it is a trial; God takes the
-    souls at death and of those not dead in their sleep; he keeps those decreed to die and sends back
-    the others for a set term; An earthful of gold would not be accepted as ransom from one who dies unbelieving;
-    If asked who created heaven and earth and sends rain, the idolaters themselves answer ''God''; When
-    harm touches people they turn to God; when he gives them relief a party of them associates partners
-    again.'
+    All intercession belongs to God; Given a blessing, man says ''I was given it only because of my knowledge'';
+    it is a trial; He whom the gods guide cannot go astray; he whom they leave boatless cannot find a
+    crossing; God takes the souls at death and of those not dead in their sleep; he keeps those decreed
+    to die and sends back the others for a set term; An earthful of gold would not be accepted as ransom
+    from one who dies unbelieving; Death described as sleep: ''lest I sleep the sleep of death''; If asked
+    who created heaven and earth and sends rain, the idolaters themselves answer ''God''; When harm touches
+    people they turn to God; when he gives them relief a party of them associates partners again.'
   basis: reading
 - text: 'Joshua commissioned; Torah written and deposited; the Song commanded: tagged by Claude (model),
     reading the Hebrew.'

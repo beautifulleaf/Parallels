@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not create the heavens and earth and what is between them
-    in play (la''ibin) but in truth (weight 5.3). Pair score 5.3.'
+    in play (la''ibin) but in truth (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow:
     God names and girds the foreign king though he does not know God, for the sake of Israel; God calls
@@ -48,7 +48,7 @@ evidence:
     taunted: ''Taste! You are the mighty, the noble!''; In paradise they taste no death except the first
     death; On that day no patron (mawla) can avail his client at all; The people of Tubba'' (the Himyarite
     kings of Yemen) as a destroyed people; A tree whose fruit is food, in Eden or in hell [contrast between
-    the texts]; and 4 more.'
+    the texts]; and 6 more.'
   basis: reading
 - text: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow: tagged
     by Claude (model), reading the Hebrew.'

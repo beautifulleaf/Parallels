@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Laws stated to have been given at Mount Sinai (weight 6.7). Pair
-    score 6.7.'
+- text: 'Shared motifs, rarest first: Laws stated to have been given at Mount Sinai (weight 7.7). Pair
+    score 7.7.'
   basis: reading
 - text: 'Only in Sabbatical year and the jubilee; the land is mine: Spontaneous growth of the fallow year
     is food for owner, slaves, hired men, aliens, livestock and wild animals; Fiftieth year after seven

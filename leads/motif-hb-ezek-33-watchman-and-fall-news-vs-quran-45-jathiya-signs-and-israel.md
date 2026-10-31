@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to every sinful liar who hears God''s signs recited, persists
-    in arrogance as if he had not heard, and takes them in mockery (weight 6.7). Pair score 6.7.'
+    in arrogance as if he had not heard, and takes them in mockery (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     Survivors in the ruins argue ''Abraham was only one and inherited the land; we are many, so the land
@@ -45,9 +45,10 @@ evidence:
     out of rivalry (baghy) among themselves; How much of creation is put under man''s rule or use [divergence
     between the texts]; Israel given God''s law, as a unique gift or followed by a later law [divergence
     between the texts]; Formula: the sending down of the Book (tanzil al-kitab) is from God, the Mighty,
-    the Wise/Knowing; Vengeance and recompense are mine; Whoever does good does it for his own soul; whoever
-    does evil, it is against it; Humans given rule over animals; Catalogue of signs: heavens and earth,
-    alternation of night and day, ships, rain reviving dead earth, beasts, winds, clouds; and 2 more.'
+    the Wise/Knowing; Whoever does good does it for his own soul; whoever does evil, it is against it;
+    Vengeance and recompense are mine; Humans given rule over animals; Catalogue of signs: heavens and
+    earth, alternation of night and day, ships, rain reviving dead earth, beasts, winds, clouds; and 2
+    more.'
   basis: reading
 - text: 'The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer:
     tagged by Claude (model), reading the Hebrew.'

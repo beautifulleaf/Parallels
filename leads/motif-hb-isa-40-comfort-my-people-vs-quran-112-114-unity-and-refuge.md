@@ -20,34 +20,34 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''To whom will you liken God, what likeness compare to him?'' (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
     God tends his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God
     brings out the starry host by number and calls each by name; none is missing; God sits enthroned above
-    the circle (hug) of the earth; its inhabitants are like grasshoppers; Those who wait for YHWH renew
-    strength, mount up with wings like eagles, run and not be weary; Nations are like a drop from a bucket
-    and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering; A voice
-    cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for our God'';
-    Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed the mountains
-    in scales?; God made everything grow in due weight and sends it down only in known measure; A double
-    portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole earth
-    is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret Tsiyyon)
-    goes up on a high mountain to announce ''Behold your God!''; and 18 more.'
+    the circle (hug) of the earth; its inhabitants are like grasshoppers; Nations are like a drop from
+    a bucket and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering;
+    A voice cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for
+    our God''; Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed
+    the mountains in scales?; God made everything grow in due weight and sends it down only in known measure;
+    A double portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole
+    earth is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret
+    Tsiyyon) goes up on a high mountain to announce ''Behold your God!''; Satire on the making of idols:
+    craftsman casts, goldsmith overlays, the poor choose wood that will not rot so the idol will not totter;
+    and 18 more.'
   basis: reading
 - text: 'Only in Sincerity, daybreak and mankind: God''s unity and the two refuges: Refuge from the evil
     of darkness (or the moon) when it settles (ghasiq idha waqab); Refuge from the evil of an envier when
     he envies (evil eye); God is al-Samad (the Eternal Refuge, the solid one who needs nothing); Triple
     title: Lord of mankind, King of mankind, God of mankind; Refuge from the evil of the slinking whisperer
-    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; God does not beget
-    and was not begotten; God does not beget and was not begotten [contrast between the texts]; Protection
-    from the terror of the night, the arrow by day, the pestilence (dever) stalking in darkness and Qeteb
-    that ravages at noon; Protective formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi)
-    against named evils; Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-''uqad),
-    i.e. knot-tying sorcery; Psalm used as protection against demons and harm (later amulet and ''song
-    of plagues''); Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the
-    Throne, the Glorious, doer of what he wills; or Lord, King, God of mankind); and 2 more.'
+    (al-waswas al-khannas) who whispers in people''s breasts, from jinn and humans; Calling on a divine
+    name or seeking refuge with God protects a person in the dark of night; God does not beget and was
+    not begotten [contrast between the texts]; A deity is called king of (all) mankind; Protection against
+    beings or evil of the night, invoked with the coming of dawn; Protective formula ''Say: I seek refuge
+    with the Lord of...'' (qul a''udhu bi-rabbi) against named evils; Sorcery is done by binding or knotting;
+    Witchcraft worked by a (female) witch through knots or bonds, from which release or refuge is sought;
+    and 10 more.'
   basis: reading
 - text: 'Comfort my people; a voice in the wilderness; to whom will you liken God: tagged by Claude (model),
     reading the Hebrew.'

@@ -20,21 +20,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God built the sky, raised its canopy, darkened its night and brought
-    out its forenoon; after that he spread out the earth (weight 6.7); God pours down rain, splits the
-    earth and makes grain, grapes, olives, palms and pasture grow, as provision and sign (weight 5.6).
-    Pair score 12.3.'
+    out its forenoon; after that he spread out the earth (weight 7.7); God pours down rain, splits the
+    earth and makes grain, grapes, olives, palms and pasture grow, as provision and sign (weight 6.6).
+    Pair score 14.4.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 39 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 39 more.'
   basis: reading
 - text: 'Only in Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth:
     Oath by those who draw out (souls) violently, those who release gently, who glide, outstrip and direct
@@ -42,13 +42,13 @@ evidence:
     or its forenoon; One who feared standing before his Lord and restrained the soul from desire (hawa)
     will have the garden as refuge; The first quaking blast (al-rajifa) is followed by a second (al-radifa);
     a single shout (zajra) and they are on the open plain (al-sahira); The call comes in the holy valley
-    named Ṭuwā; Pharaoh gathers the people and proclaims ''I am your Lord most high''; Pharaoh gathers
-    the people and proclaims ''I am your Lord most high'' [divergence between the texts]; Narrative of
-    a prophet''s commissioning by God [divergence between the texts]; The call comes in the holy valley
-    named Ṭuwā [divergence between the texts]; On that day hell is brought forth, exposed or kindled for
-    whoever sees, and paradise brought near; God spread out the earth as a carpet, cradle or bed (bisat,
-    mihad, daha, sutihat, tahaha); The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people [divergence between the texts]; and 8 more.'
+    named Ṭuwā; The king of Egypt is called, or calls himself, god or lord [divergence between the texts];
+    Pharaoh gathers the people and proclaims ''I am your Lord most high''; Pharaoh gathers the people
+    and proclaims ''I am your Lord most high'' [divergence between the texts]; Narrative of a prophet''s
+    commissioning by God [divergence between the texts]; The call comes in the holy valley named Ṭuwā
+    [divergence between the texts]; The king of Egypt is called god (by his vassals, or by himself) [divergence
+    between the texts]; On that day hell is brought forth, exposed or kindled for whoever sees, and paradise
+    brought near; and 12 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

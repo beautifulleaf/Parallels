@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Having eyes that do not see and ears that do not hear, said of idols
-    or of people [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    or of people [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 115, not to us, polemic against idols: ''The heavens are YHWH''s heavens, but the
     earth he has given to the sons of man''; ''Not to us, YHWH, not to us, but to your name give glory'';
@@ -27,20 +27,20 @@ evidence:
     idols and trust in them become like them; Taunt: do the idols have feet to walk, hands to grasp, eyes
     to see, ears to hear?; Likeness between the idols and those who call on them [divergence between the
     texts]; Liturgical triad (or tetrad) addressing Israel, the house of Aaron, (the house of Levi) and
-    those who fear YHWH; In death there is no remembrance of God; in Sheol who will praise him?; God called
-    ''maker of heaven and earth'' (''oseh shamayim va-arets'') in blessing or confession of help; Nations
-    taunt ''Where is their God?''; Idols of wood and stone that cannot see, hear, eat or smell; and 1
-    more.'
+    those who fear YHWH; In death there is no remembrance of God; in Sheol who will praise him?; Nations
+    taunt ''Where is their God?''; God called ''maker of heaven and earth'' (''oseh shamayim va-arets'')
+    in blessing or confession of help; Idols of wood and stone that cannot see, hear, eat or smell; and
+    1 more.'
   basis: reading
 - text: 'Only in Made for hell, the beautiful names, the unknown Hour: God has created many jinn and humans
     for hell; The charge that a prophet is mad; The charge that a prophet is mad [response between the
-    texts]; God leads deniers step by step to ruin and grants them respite (istidraj); The prophet disclaims
-    knowledge of the unseen and power over benefit or harm; Among Moses'' people is a community that guides
-    by the truth and acts justly by it; To God belong the most beautiful names; call on him by them; The
-    seer is told to shut up and seal the vision/book until the end; Every nation has a fixed term that
-    cannot be advanced or delayed by an hour; The heedless are like cattle, or even more astray; God''s
-    plotting (makr / kayd) outwits the schemers; none is safe from it but the losers; Defense of the prophet:
-    there is no madness (jinna) in your companion; he is only a warner; and 2 more.'
+    texts]; Those with eyes and ears who neither see nor hear; God leads deniers step by step to ruin
+    and grants them respite (istidraj); The prophet disclaims knowledge of the unseen and power over benefit
+    or harm; Among Moses'' people is a community that guides by the truth and acts justly by it; To God
+    belong the most beautiful names; call on him by them; The seer is told to shut up and seal the vision/book
+    until the end; Every nation has a fixed term that cannot be advanced or delayed by an hour; The heedless
+    are like cattle, or even more astray; God''s plotting (makr / kayd) outwits the schemers; none is
+    safe from it but the losers; and 4 more.'
   basis: reading
 - text: 'Psalm 115, not to us, polemic against idols: tagged by Claude (model), reading the Hebrew.'
   basis: reading

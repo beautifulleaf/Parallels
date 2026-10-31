@@ -20,18 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Three annual pilgrimage festivals when every male appears before
-    God (weight 5.3). Pair score 5.3.'
+    God (weight 6.4). Pair score 6.4.'
   basis: reading
 - text: 'Only in New tablets, the attributes of mercy and the ritual decalogue: God promises no one will
     covet the land while the men go up on pilgrimage; The Sabbath must be kept even in plowing and harvest
     time; Call to the People of the Book to a common word: worship none but God and take none as lords
     besides him; What the tablets given at Sinai contain [divergence between the texts]; Israel must tear
     down the standing stones of the Canaanite gods; A firstborn donkey is redeemed with a lamb or its
-    neck is broken; God passes by and proclaims his name and attributes of mercy; A boundary is set round
-    the holy mountain; whoever touches it dies; Whether one person (kin, descendants) bears another''s
-    sin [contrast between the texts]; Make no covenant with the inhabitants or their gods, who would be
-    a snare; Do not offer sacrificial blood with leavened bread; fat not left until morning; No one shall
-    appear before God empty-handed; and 21 more.'
+    neck is broken; God passes by and proclaims his name and attributes of mercy; Whether one person (kin,
+    descendants) bears another''s sin [contrast between the texts]; Do not offer sacrificial blood with
+    leavened bread; fat not left until morning; No one shall appear before God empty-handed; The prophet
+    intercedes for the people, arguing from God''s reputation; How far God''s mercy and his punishment
+    extend [divergence between the texts]; and 21 more.'
   basis: reading
 - text: 'Only in Abraham, the Ancient House and the rites of pilgrimage and sacrifice: Abraham is told
     to proclaim the pilgrimage; people come on foot and on lean camels from every deep ravine; Pilgrims
@@ -44,7 +44,8 @@ evidence:
     Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; Eat
     of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
     a rite of sacrifice (mansak); What is done with the blood of sacrifices, and whether it reaches God
-    [divergence between the texts]; A place recognized as the house of God and gate of heaven; and 6 more.'
+    [divergence between the texts]; Whether the deity eats (receives) the food and drink of the offerings
+    [divergence between the texts]; and 15 more.'
   basis: reading
 - text: 'New tablets, the attributes of mercy and the ritual decalogue: tagged by Claude (model), reading
     the Hebrew.'

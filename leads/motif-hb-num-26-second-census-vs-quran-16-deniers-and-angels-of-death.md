@@ -20,12 +20,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
-    5.0). Pair score 5.0.'
+    5.9). Pair score 5.9.'
   basis: reading
 - text: 'Only in Census of the second generation on the plains of Moab: A second census counts the new
-    generation by clans; The sons of the rebel did not die with him; The family of Amram / Imran and Miriam
-    / Maryam [divergence between the texts]; Land divided by lot and in proportion to tribal size; Mother
-    of Moses, Aaron and Miriam named (Jochebed, born to Levi in Egypt); Miriam / Maryam named as the daughter
+    generation by clans; The family of Amram / Imran and Miriam / Maryam [divergence between the texts];
+    Land divided by lot and in proportion to tribal size; Mother of Moses, Aaron and Miriam named (Jochebed,
+    born to Levi in Egypt); The sons of the rebel did not die with him; Miriam / Maryam named as the daughter
     of Amram / ʿImran; Priests die for offering ''strange fire''; Daughters petition and win the right
     to inherit when there is no son; Whole adult generation condemned to die in the desert; only children
     enter; A lone daughter is named in a male genealogy (Dinah, Serah).'
@@ -38,10 +38,10 @@ evidence:
     are told to enter the gates of hell to abide in it; Those who mislead bear their own full burdens
     and some of the burdens of those they misled; Deniers swear their strongest oaths that God will not
     raise the dead; All in heaven and earth prostrate to God, willingly or unwillingly, even their shadows
-    morning and evening; Every nation has a messenger, and it is judged justly when he comes; Travel in
+    morning and evening; Those who receive the dead greet him with ''peace'' on his arrival [divergence
+    between the texts]; Every nation has a messenger, and it is judged justly when he comes; Travel in
     the land and see the end of those before you; ''Ask the people of the Reminder (ahl al-dhikr) if you
-    do not know'': appeal to earlier scripture-holders; God sent before only men, inspired, from the people
-    of the towns; and 5 more.'
+    do not know'': appeal to earlier scripture-holders; and 6 more.'
   basis: reading
 - text: 'Census of the second generation on the plains of Moab: tagged by Claude (model), reading the
     Hebrew.'

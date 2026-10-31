@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the prophet should intercede for a sinful people [contrast
-    between the texts] (weight 6.7). Pair score 6.7.'
+    between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Samuel''s farewell speech and the sign of thunder: Departing leader challenges the people:
     whose ox or donkey have I taken, from whom a bribe?; Prophet declares it would be a sin to cease praying
@@ -30,11 +30,13 @@ evidence:
   basis: reading
 - text: 'Only in The broken vow of charity; seventy prayers in vain: Hypocrites mock believers who give
     voluntarily and those who can give only their effort; Men vow to give alms if God enriches them, then
-    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; Hero
+    turn miserly, and God sets hypocrisy in their hearts; Better not to vow than to vow and not pay; The
+    vow made to the deity is not kept, the deity takes note of the breach and the vower is punished; Hero
     vows that if God protects and provides for him, he will worship and tithe [divergence between the
     texts]; Even if the prophet asks forgiveness for them seventy times God will not forgive them; God
     is near in their mouths but far from their kidneys (hearts); Pay vows without delay; not vowing is
-    no sin; God forbids the prophet to pray or intercede for the people, for he will not hear.'
+    no sin; The petitioner promises a gift if the deity grants the request: ''if you do this, I will give
+    you ...''; God forbids the prophet to pray or intercede for the people, for he will not hear.'
   basis: reading
 - text: 'Samuel''s farewell speech and the sign of thunder: tagged by Claude (model), reading the Hebrew.'
   basis: reading

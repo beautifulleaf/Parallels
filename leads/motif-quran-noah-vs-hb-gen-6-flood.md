@@ -13,40 +13,42 @@ traditions:
 layers:
 - motif
 motifs:
-- waters-from-above-and-below
 - animals-in-pairs
 - vessel-rests-on-mountain
 - hero-righteous
-- divine-decision-to-destroy
+- waters-from-above-and-below
 - build-vessel-on-instruction
-- hero-warned-by-deity
+- divine-decision-to-destroy
 - universal-destruction
+- hero-warned-by-deity
 - family-saved
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Waters pour both from the sky and from springs of the earth (weight
-    6.0); Animals taken aboard in pairs (weight 5.8); Vessel comes to rest on a named mountain (weight
-    5.4); Hero singled out as righteous or pious (weight 5.3); Deity decides to destroy humankind (weight
-    5.3); Hero builds a vessel on divine instruction (weight 5.2); Hero privately warned of the coming
-    flood by a deity (weight 5.1); All others perish (weight 5.0); Hero''s family saved with him (weight
-    4.5). Pair score 47.6.'
+- text: 'Shared motifs, rarest first: Animals taken aboard in pairs (weight 6.5); Vessel comes to rest
+    on a named mountain (weight 6.4); Hero singled out as righteous or pious (weight 6.2); Waters pour
+    both from the sky and from springs of the earth (weight 6.2); Hero builds a vessel on divine instruction
+    (weight 6.2); Deity decides to destroy humankind (weight 6.1); All others perish (weight 5.9); Hero
+    privately warned of the coming flood by a deity (weight 5.8); Hero''s family saved with him (weight
+    5.4). Pair score 54.8.'
   basis: reading
 - text: 'Only in Noah in the Quran: Someone seeks refuge on a mountain and is drowned; Vessel described
-    by its planks and fastenings; A specific sign marks the moment to board; Hero blessed on leaving the
-    vessel; The flood waters are hot or boiling; Hero''s life or mission spans 950 years; People mock
-    the hero while he builds the vessel; A member of the hero''s family is lost; Hero asks the deity to
-    judge or destroy his opponents; Hero warns or preaches to his people before the flood; Destruction
-    follows the people''s rejection of a messenger.'
+    by its planks and fastenings; The flood waters are hot or boiling; Hero''s life or mission spans 950
+    years; A member of the hero''s family is lost; A specific sign marks the moment to board; People mock
+    the hero while he builds the vessel; Hero asks the deity to judge or destroy his opponents; Hero blessed
+    on leaving the vessel; Hero warns or preaches to his people before the flood; Destruction follows
+    the people''s rejection of a messenger.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 37 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What sets the flood in
+    motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts];
+    How the ark is described [divergence between the texts]; What the flood hero does when the vessel
+    comes to rest [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; How the flood waters are stopped and
+    subside [divergence between the texts]; and 37 more.'
   basis: reading
 - text: 'Noah in the Quran: tagged by Claude (model), reading the Arabic.'
   basis: reading
@@ -54,7 +56,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Waters pour both from the sky and from springs of the earth
+finding: Animals taken aboard in pairs
 kinds:
 - shared
 units:
@@ -65,29 +67,6 @@ units:
   title: Noah in the Quran
   tradition: islam
 matches:
-- kind: shared
-  label: Waters pour both from the sky and from springs of the earth
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 7:11
-      lang: he
-      text: בִּשְׁנַ֨ת שֵׁשׁ מֵא֤וֹת שָׁנָה֙ לְחַיֵּי נֹ֔חַ בַּחֹ֨דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה עָשָׂ֥ר
-        י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כָּֽל מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם
-        נִפְתָּֽחוּ
-    - ref: Gen 8:2
-      lang: he
-      text: וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן
-        הַשָּׁמָֽיִם
-    note: springs of the great deep burst; windows of heaven opened
-  - tradition: islam
-    passages:
-    - ref: Quran 54:11
-      lang: ar
-      text: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
-    - ref: Quran 54:12
-      lang: ar
-      text: وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ
 - kind: shared
   label: Animals taken aboard in pairs
   sides:
@@ -157,33 +136,28 @@ matches:
       lang: ar
       text: إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
 - kind: shared
-  label: Deity decides to destroy humankind
+  label: Waters pour both from the sky and from springs of the earth
   sides:
   - tradition: judaism
     passages:
-    - ref: Gen 6:7
+    - ref: Gen 7:11
       lang: he
-      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
-        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
-    - ref: Gen 6:13
+      text: בִּשְׁנַ֨ת שֵׁשׁ מֵא֤וֹת שָׁנָה֙ לְחַיֵּי נֹ֔חַ בַּחֹ֨דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה עָשָׂ֥ר
+        י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כָּֽל מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם
+        נִפְתָּֽחוּ
+    - ref: Gen 8:2
       lang: he
-      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-    - ref: Gen 6:17
-      lang: he
-      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
-        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+      text: וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן
+        הַשָּׁמָֽיִם
+    note: springs of the great deep burst; windows of heaven opened
   - tradition: islam
     passages:
-    - ref: Quran 11:37
+    - ref: Quran 54:11
       lang: ar
-      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
-        إِنَّهُم مُّغْرَقُونَ
-    - ref: Quran 23:27
+      text: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
+    - ref: Quran 54:12
       lang: ar
-      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
-        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+      text: وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ
 - kind: shared
   label: Hero builds a vessel on divine instruction
   sides:
@@ -209,10 +183,14 @@ matches:
         وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
         عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
 - kind: shared
-  label: Hero privately warned of the coming flood by a deity
+  label: Deity decides to destroy humankind
   sides:
   - tradition: judaism
     passages:
+    - ref: Gen 6:7
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
+        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
     - ref: Gen 6:13
       lang: he
       text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
@@ -223,10 +201,10 @@ matches:
         בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
   - tradition: islam
     passages:
-    - ref: Quran 11:36
+    - ref: Quran 11:37
       lang: ar
-      text: وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ
-        بِمَا كَانُوا۟ يَفْعَلُونَ
+      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
+        إِنَّهُم مُّغْرَقُونَ
     - ref: Quran 23:27
       lang: ar
       text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
@@ -258,6 +236,30 @@ matches:
       lang: ar
       text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ
         ٱللَّهِ أَنصَارًا
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 11:36
+      lang: ar
+      text: وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ
+        بِمَا كَانُوا۟ يَفْعَلُونَ
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
 - kind: shared
   label: Hero's family saved with him
   sides:

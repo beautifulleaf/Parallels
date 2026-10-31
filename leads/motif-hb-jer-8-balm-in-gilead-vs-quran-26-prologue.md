@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s grief over his people [contrast between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Is there no balm in Gilead? The prophet''s tears: ''The harvest is past, the summer is
     ended, and we are not saved''; The exiled people cry ''Is YHWH not in Zion? Is her King not in her?'';

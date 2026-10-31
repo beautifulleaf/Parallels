@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A patriarch builds an altar or house of worship [divergence between
-    the texts] (weight 6.7); Patriarch builds an altar where God appeared to him (weight 6.0). Pair score
-    12.7.'
+    the texts] (weight 7.7); Patriarch builds an altar where God appeared to him (weight 7.1). Pair score
+    14.8.'
   basis: reading
 - text: 'Only in The call of Abram and his journey through Canaan: God commands the hero to leave his
     land, kin and father''s house for a land he will be shown; Abraham and Lot are rescued to the land
@@ -42,7 +42,7 @@ evidence:
     revelation or covenant passed [divergence between the texts]; Whether and how God''s covenant with
     Abraham passes to his offspring [contrast between the texts]; The list of fathers in ''God of your
     fathers'' [divergence between the texts]; Whether Ishmael is with Abraham or sent away [contrast between
-    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 16 more.'
+    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 17 more.'
   basis: reading
 - text: 'The call of Abram and his journey through Canaan: tagged by Claude (model), reading the Hebrew.'
   basis: reading

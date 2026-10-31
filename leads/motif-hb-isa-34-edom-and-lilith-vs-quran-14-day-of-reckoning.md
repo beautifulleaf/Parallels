@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The damned wear garments of pitch (qatiran), fire covering their
-    faces (weight 6.7). Pair score 6.7.'
+    faces (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins:
     ''Seek in the book of YHWH and read: not one of these is missing''; God has allotted the land to the
@@ -30,19 +30,22 @@ evidence:
     herself a resting place; God stretches over the land the measuring line of chaos (tohu) and the plummet
     of emptiness (bohu); All the host of heaven rot away and the heavens roll up like a scroll; their
     host falls like withered leaves from vine and fig [divergence between the texts]; God himself devotes
-    the nations (or a nation) to destruction (herem) and gives them to slaughter; Ruined city never reinhabited,
-    even by Arab tents or shepherds; inhabited by desert creatures, ostriches, jackals and dancing goat-demons
-    (se''irim); God''s flashing sword devours flesh and his arrows are drunk with blood; Land made brimstone
+    the nations (or a nation) to destruction (herem) and gives them to slaughter; Land made brimstone
     and salt like Sodom, Gomorrah, Admah and Zeboiim; On the day the sky heaves (tamur) and the mountains
-    move away; and 2 more.'
+    move away; God''s flashing sword devours flesh and his arrows are drunk with blood; All the host of
+    heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves from
+    vine and fig; and 2 more.'
   basis: reading
 - text: 'Only in The day eyes stare and the earth is changed (Surah 14:42-52): The wrongdoers beg for
     a short respite to answer the call and follow the messengers; They lived in the dwellings of those
     who wronged themselves and saw what God did to them; On that day eyes stare fixed, heads upraised,
     hearts empty as air; God is not heedless; he only delays the wrongdoers to a day when eyes stare;
-    God is swift in reckoning; The opponents'' scheme was such that mountains might be moved by it; On
-    the last day the earth is changed into another earth, and the heavens too; God has prepared chains,
-    iron collars and fetters (ankal) for the unbelievers.'
+    God is swift in reckoning; The opponents'' scheme was such that mountains might be moved by it; The
+    god is not idle (heedless) toward what the wicked do; Wrongdoers take the deity''s delay to mean he
+    does nothing; he defers, then seizes; On the last day the earth is changed into another earth, and
+    the heavens too; Pitch, bitumen or naphtha as the bodily covering (ointment, garment) of the cursed
+    or damned, with a foul drink [divergence between the texts]; God has prepared chains, iron collars
+    and fetters (ankal) for the unbelievers.'
   basis: reading
 - text: 'Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins: tagged
     by Claude (model), reading the Hebrew.'

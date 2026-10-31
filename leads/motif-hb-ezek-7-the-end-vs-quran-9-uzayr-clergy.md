@@ -19,28 +19,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hoarded gold and silver are heated in hell and used to brand the
-    hoarders'' foreheads, sides and backs (weight 6.7). Pair score 6.7.'
+    hoarders'' foreheads, sides and backs (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The end has come upon the four corners of the land: God''s ''treasured place'' (tsefuni)
     is profaned by robbers when he turns his face away; Survivors on the mountains moan like doves of
     the valleys, each for his iniquity; Proclamation ''An end has come, the end has come'' upon the land
     (qets ba); In disaster people seek a vision from the prophet, but instruction perishes from the priest
-    and counsel from the elders; God gathers the dispersed from the four corners (kanfot, ''wings'') of
-    the earth; In terror all hands go slack and all knees run with water; The people assemble in fasting,
-    sackcloth and earth on their heads; The gods of a people judged by God cannot help them; On the day
-    of wrath people fling their silver into the streets; silver and gold cannot save them; ''Far be it
-    from God to do wickedness, from Shaddai to do wrong''; he repays a man according to his deeds; Prophecy
+    and counsel from the elders; In terror all hands go slack and all knees run with water; The people
+    assemble in fasting, sackcloth and earth on their heads; The gods of a people judged by God cannot
+    help them; On the day of wrath people fling their silver into the streets; silver and gold cannot
+    save them; ''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
+    to his deeds; God gathers the dispersed from the four corners (kanfot, ''wings'') of the earth; Prophecy
     concerning ''the end of days''; Formula ''and you/they shall know that I am YHWH'' closing a judgment
     or salvation oracle; and 2 more.'
   basis: reading
 - text: 'Only in ''Uzayr and the Messiah called sons of God; rabbis and monks as lords: Polemic: the Jews
     are said to call ''Uzayr (Ezra?) son of God; People of the Book took their rabbis (ahbar) and monks
-    as lords besides God; Many rabbis and monks devour people''s wealth wrongfully; Whether God has a
-    son, or calls his anointed king his begotten son [response between the texts]; Opponents wish to put
-    out God''s light with their mouths, but God will perfect his light; The standing of Ezra (ʿUzayr):
-    scribe or son of God [divergence between the texts]; Polemic against calling the Messiah son of God;
-    God sent his messenger with guidance and the religion of truth to make it prevail over all religion;
-    A bribe blinds the clear-sighted and perverts the words of the righteous.'
+    as lords besides God; Religious personnel eat up goods that are not theirs (the god''s offerings,
+    people''s wealth) [divergence between the texts]; Many rabbis and monks devour people''s wealth wrongfully;
+    Whether God has a son, or calls his anointed king his begotten son [response between the texts]; Opponents
+    wish to put out God''s light with their mouths, but God will perfect his light; Silver is hidden away:
+    wrapped in rags, sealed in jars and boxes and buried in a hole in the cattle-pen or a dark corner
+    of the house; The standing of Ezra (ʿUzayr): scribe or son of God [divergence between the texts];
+    Polemic against calling the Messiah son of God; God sent his messenger with guidance and the religion
+    of truth to make it prevail over all religion; A bribe blinds the clear-sighted and perverts the words
+    of the righteous.'
   basis: reading
 - text: 'The end has come upon the four corners of the land: tagged by Claude (model), reading the Hebrew.'
   basis: reading

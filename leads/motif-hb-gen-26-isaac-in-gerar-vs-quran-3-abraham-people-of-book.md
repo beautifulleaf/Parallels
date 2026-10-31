@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham''s relation to the law given later at Sinai [response between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Isaac in Gerar, the wife-sister episode, wells and treaty: God forbids the patriarch
     to go down to Egypt in a famine; King looking through a window sees the couple embracing and learns
@@ -39,8 +39,10 @@ evidence:
     or Christian; Some People of the Book return a heap of gold entrusted; others not even a dinar; Some
     twist their tongues with the book so you think it is from the book; Call to the People of the Book
     to a common word: worship none but God and take none as lords besides him; Debts of a foreigner may
-    still be exacted though a brother''s are released; Whether obligations differ toward insiders and
-    outsiders [response between the texts]; Abraham was a hanif, neither Jew nor Christian nor polytheist.'
+    still be exacted though a brother''s are released; A word of the root ḥ-n-p (Canaanite ḥanpa ''impious
+    deed'', Arabic ḥanīf) applied to a deed or a person [neutral] [divergence between the texts]; Whether
+    obligations differ toward insiders and outsiders [response between the texts]; Abraham was a hanif,
+    neither Jew nor Christian nor polytheist.'
   basis: reading
 - text: 'Isaac in Gerar, the wife-sister episode, wells and treaty: tagged by Claude (model), reading
     the Hebrew.'

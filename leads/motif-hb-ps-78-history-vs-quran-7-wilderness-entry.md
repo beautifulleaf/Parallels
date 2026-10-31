@@ -21,9 +21,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Manna and quail are followed by a punishment from God [divergence
-    between the texts] (weight 6.7); Quail come up in the evening and cover the camp (weight 6.0); God
-    leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1). Pair score
-    17.8.'
+    between the texts] (weight 7.7); Quail come up in the evening and cover the camp (weight 7.1); God
+    leads the people in a pillar of cloud by day and a pillar of fire by night (weight 6.1). Pair score
+    20.9.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''

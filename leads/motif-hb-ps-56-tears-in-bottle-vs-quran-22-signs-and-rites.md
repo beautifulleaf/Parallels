@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
-    are blotted (weight 4.6). Pair score 4.5.'
+    are blotted (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Psalm 56, when the Philistines seized David in Gath: Every thirst, fatigue, hunger, step
     and valley crossed in God''s cause is written as a good deed; God counts the sufferer''s wanderings
@@ -32,12 +32,14 @@ evidence:
 - text: 'Only in Migrants provided for; the night and day, the held sky, a rite for every nation: God
     holds back the sky from falling onto the earth except by his leave; Those who emigrated for God and
     were killed or died will receive a fine provision; God appointed for every community a rite of sacrifice
-    (mansak); God''s eyes saw the speaker''s unformed substance (golem); all his days were written in
-    God''s book before one of them existed; They sacrificed to shedim (demons), no-gods, new gods their
-    fathers did not know; God makes the night pass into the day and the day into the night; Eye for an
-    eye, tooth for a tooth (lex talionis); God visits the earth with rain, softens it with showers, and
-    crowns the year with harvest; I kill and I make alive, I wound and I heal; there is no god beside
-    me.'
+    (mansak); He holds up the sky (so that it does not fall on the earth); The sky falls, or is kept from
+    falling, on the earth [divergence between the texts]; God''s eyes saw the speaker''s unformed substance
+    (golem); all his days were written in God''s book before one of them existed; They sacrificed to shedim
+    (demons), no-gods, new gods their fathers did not know; The god (alone) holds the heavens (and earth)
+    in place: the bond or rope of heaven, holding back the sky; God makes the night pass into the day
+    and the day into the night; Eye for an eye, tooth for a tooth (lex talionis); I kill and I make alive,
+    I wound and I heal; there is no god beside me; God visits the earth with rain, softens it with showers,
+    and crowns the year with harvest.'
   basis: reading
 - text: 'Psalm 56, when the Philistines seized David in Gath: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man whose speech pleases, who calls God to witness, but goes forth
-    to destroy tillage and offspring (weight 6.7). Pair score 6.7.'
+    to destroy tillage and offspring (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Psalm 55, wings of a dove and the treacherous friend: Speaker betrayed not by an enemy
-    but by an intimate companion with whom he shared counsel in God''s house; Men of blood and deceit
-    will not live out half their days; Cast your burden on YHWH and he will sustain you; Wish for wings
-    like a dove to fly away and rest in the wilderness; God confuses human language; Wish that the enemies
-    go down alive into Sheol; Guard the prayers and the middle prayer (al-salat al-wusta); Perform prayer
-    at the two ends of the day and in the near hours of the night; Enemy''s words are smoother than butter
-    or oil but are drawn swords; The wicked are brought down to the pit (be''er shahat / bor), the underworld;
-    Prayer at evening, morning and noon (three fixed times a day); Glorify God in the evening, morning,
-    afternoon and noon (set times of praise or prayer); and 1 more.'
+- text: 'Only in Psalm 55, wings of a dove and the treacherous friend: Men of blood and deceit will not
+    live out half their days; Cast your burden on YHWH and he will sustain you; Wish for wings like a
+    dove to fly away and rest in the wilderness; Wish that the enemies go down alive into Sheol; Guard
+    the prayers and the middle prayer (al-salat al-wusta); Speaker betrayed not by an enemy but by an
+    intimate companion with whom he shared counsel in God''s house; God confuses human language; Perform
+    prayer at the two ends of the day and in the near hours of the night; Enemy''s words are smoother
+    than butter or oil but are drawn swords; The wicked are brought down to the pit (be''er shahat / bor),
+    the underworld; Prayer at evening, morning and noon (three fixed times a day); Glorify God in the
+    evening, morning, afternoon and noon (set times of praise or prayer); and 1 more.'
   basis: reading
 - text: 'Only in The corrupter, God in clouds, one community, fighting in the sacred month: Who turns
     from his religion and dies an unbeliever, his deeds are void in this world and the next; Fighting
@@ -37,10 +37,11 @@ evidence:
     to them in canopies of cloud with the angels?; Mankind was one community; God sent prophets as bearers
     of good news and warners with the Book; Coming with the clouds of heaven [divergence between the texts];
     YHWH comes and all the holy ones (angels) with him; God coming down from heaven [contrast between
-    the texts]; Mankind once one, then divided [divergence between the texts]; Persecution (fitna) is
-    worse than killing; One like a son of man (kevar enash) comes with the clouds of heaven to the Ancient
-    of Days; Messenger and believers, shaken, cry ''When is God''s help?'' Truly God''s help is near;
-    God provides for whom he wills without reckoning (bi-ghayri hisab).'
+    the texts]; What is good to oneself may be an offense to a god, and what seems abominable to one''s
+    heart may be good to one''s god; Mankind once one, then divided [divergence between the texts]; Persecution
+    (fitna) is worse than killing; One like a son of man (kevar enash) comes with the clouds of heaven
+    to the Ancient of Days; A man whose speech is sweet (pleasing) but who is a quarreller and sows strife;
+    and 2 more.'
   basis: reading
 - text: 'Psalm 55, wings of a dove and the treacherous friend: tagged by Claude (model), reading the Hebrew.'
   basis: reading

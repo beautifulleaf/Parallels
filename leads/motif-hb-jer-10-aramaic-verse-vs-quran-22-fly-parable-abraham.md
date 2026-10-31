@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Aramaic declaration: the gods who did not make heaven and earth
-    shall perish from the earth and from under the heavens (weight 6.7). Pair score 6.7.'
+    shall perish from the earth and from under the heavens (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Aramaic verse - gods who did not make heaven and earth: Conquered nations'' gods
     were burned because they were no gods, only wood and stone made by hands; Challenge to idolaters:

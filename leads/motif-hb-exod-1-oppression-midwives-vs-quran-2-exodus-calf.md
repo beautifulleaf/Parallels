@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ruler orders the killing of male infants [divergence between the
-    texts] (weight 6.3); Ruler orders the killing of male infants (weight 5.1). Pair score 11.4.'
+    texts] (weight 7.3); Ruler orders the killing of male infants (weight 6.1). Pair score 13.5.'
   basis: reading
 - text: 'Only in Israel multiplies; oppression; the Hebrew midwives; decree to drown sons: Midwives observe
     the newborn on the birthstool (ovnayim, ''the two stones''); Oppressed people forced to build store-cities

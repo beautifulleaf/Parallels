@@ -18,18 +18,18 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: No ransom (kofer) may be taken for a murderer''s life (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: No ransom (kofer) may be taken for a murderer''s life (weight 7.3).
+    Pair score 7.3.'
   basis: reading
 - text: 'Only in Levitical cities, cities of refuge and the law of homicide: Murder distinguished from
     manslaughter by weapon (iron, stone, wood), enmity and intent; Manslayer may leave refuge only at
     the death of the high priest; Shed blood pollutes the land and only the killer''s blood atones for
     it; Forty-eight cities with pasture-lands of measured cubits assigned to the Levites; How many witnesses
     a charge requires [divergence between the texts]; A place of refuge for one who kills unintentionally
-    [divergence between the texts]; The ''redeemer of blood'' (go''el ha-dam) kills the murderer; Same
-    law for the resident alien and the native; Whether payment may substitute for a life [contrast between
-    the texts]; Six cities of refuge for the unintentional killer, three on each side of the Jordan; No
-    one put to death on the testimony of a single witness.'
+    [divergence between the texts]; Same law for the resident alien and the native; Whether payment may
+    substitute for a life [contrast between the texts]; Six cities of refuge for the unintentional killer,
+    three on each side of the Jordan; No one put to death on the testimony of a single witness; The ''redeemer
+    of blood'' (go''el ha-dam) kills the murderer.'
   basis: reading
 - text: 'Only in The believers'' light, the hypocrites who would borrow it, and the wall with a gate;
     hearts hardened by long time: Believers must not be like those given the Book before, whose term grew

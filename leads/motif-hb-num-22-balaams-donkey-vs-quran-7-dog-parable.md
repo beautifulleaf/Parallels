@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A ''satan'' on the seer''s way: God''s adversary-angel or the tempter
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Balaam''s donkey and the angel: The angel stands in the road ''as a satan'' (adversary)
     against the traveler; An animal sees an angel that its human rider cannot; God uncovers a man''s eyes
@@ -28,9 +28,10 @@ evidence:
   basis: reading
 - text: 'Only in The man who sloughed off God''s signs (the panting dog): A man given God''s signs sloughs
     them off, clings to the earth and follows his desire; Parable: like a dog that pants whether you chase
-    it or leave it; Foreign seer blamed for advising the seduction that led to apostasy; A seer who receives
-    divine revelation (Balaam in the exegesis of Q 7:175) [divergence between the texts]; A seer faced
-    with payment or worldly gain [contrast between the texts].'
+    it or leave it; A dog that is driven off and behaves the same again, as a parable of the incorrigible
+    [divergence between the texts]; Foreign seer blamed for advising the seduction that led to apostasy;
+    A seer who receives divine revelation (Balaam in the exegesis of Q 7:175) [divergence between the
+    texts]; A seer faced with payment or worldly gain [contrast between the texts].'
   basis: reading
 - text: 'Balaam''s donkey and the angel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh is the great tannin (crocodile/dragon) lying in the midst
-    of his Nile channels (weight 6.7); Pharaoh boasts to his people: is not the kingdom of Egypt mine,
-    and these rivers flowing beneath me? (weight 6.7). Pair score 13.4.'
+    of his Nile channels (weight 7.7); Pharaoh boasts to his people: is not the kingdom of Egypt mine,
+    and these rivers flowing beneath me? (weight 7.7). Pair score 15.5.'
   basis: reading
 - text: 'Only in Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar''s
     wages: Nebuchadnezzar''s army labored at Tyre till every head was bald and shoulder rubbed, without
@@ -31,12 +31,11 @@ evidence:
     for the house of Israel; Pharaoh boasts ''My Nile is my own; I made it (or made myself)''; God gives
     the prophet ''an opening of the mouth'' among the people; Egypt will be desolate forty years, uninhabited
     from Migdol to Syene and the border of Cush, then restored to Pathros as a lowly kingdom; Egypt''s
-    extent ''from Migdol to Syene (Aswan) and the border of Cush''; Can you draw out Leviathan with a
-    hook, put a cord in his nose, make him a pet or a slave forever?; The hauled-out monster is flung
-    into the wilderness on the open field as food for beasts and birds, unburied; Pharaoh tells his chiefs:
+    extent ''from Migdol to Syene (Aswan) and the border of Cush''; The hauled-out monster is flung into
+    the wilderness on the open field as food for beasts and birds, unburied; Pharaoh tells his chiefs:
     ''I know of no god for you other than me''; Pharaoh gathers the people and proclaims ''I am your Lord
-    most high''; Egypt likened to a broken reed staff that pierces the hand of whoever leans on it; and
-    3 more.'
+    most high''; Egypt likened to a broken reed staff that pierces the hand of whoever leans on it; The
+    slain Leviathan is given as food to the desert creatures or people; and 3 more.'
   basis: reading
 - text: 'Only in Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning:
     Each sign shown to Pharaoh''s people was greater than the one before it; Pharaoh scorns Moses as contemptible,
@@ -44,12 +43,13 @@ evidence:
     how to deal with the prophet and his people [divergence between the texts]; The title of God in whose
     name Moses goes to Pharaoh [divergence between the texts]; Moses'' difficulty of speech, pleaded by
     himself or thrown at him [divergence between the texts]; The king breaks his promise to release the
-    people once a plague is lifted [divergence between the texts]; Who causes Pharaoh''s refusal: God
-    hardening his heart, or Pharaoh and his people themselves [divergence between the texts]; The returning
-    waters drown the pursuing army; not one survives [divergence between the texts]; King invests the
-    hero with ring, linen and chariot; The king breaks his promise to release the people once a plague
-    is lifted; Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''; Prophet''s
-    wonders are imitated by the king''s magicians in a contest; and 1 more.'
+    people once a plague is lifted [divergence between the texts]; The water of the river of Egypt is
+    said to be at its king''s disposal [neutral] [divergence between the texts]; A man brought before
+    Pharaoh is afraid and cannot speak [divergence between the texts]; Who causes Pharaoh''s refusal:
+    God hardening his heart, or Pharaoh and his people themselves [divergence between the texts]; The
+    returning waters drown the pursuing army; not one survives [divergence between the texts]; King invests
+    the hero with ring, linen and chariot; The king breaks his promise to release the people once a plague
+    is lifted; and 3 more.'
   basis: reading
 - text: 'Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar''s wages:
     tagged by Claude (model), reading the Hebrew.'

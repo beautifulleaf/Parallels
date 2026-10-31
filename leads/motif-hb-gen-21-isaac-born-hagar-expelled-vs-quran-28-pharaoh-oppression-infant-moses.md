@@ -36,12 +36,13 @@ evidence:
     empty and she nearly discloses him, but God steadies her heart; God wills to favor the oppressed and
     make them leaders (aʾimma) and inheritors; Pharaoh exalted himself and divided the land''s people
     into factions, oppressing one group; Infant adopted by a royal woman [divergence between the texts];
-    The oppressor slaughters the sons and lets the women live; Who decides that Moses be put on the water
-    [divergence between the texts]; Why Pharaoh oppresses Israel [divergence between the texts]; Infant
-    returned to his own mother to nurse [divergence between the texts]; Sister offers to find a nurse
-    [divergence between the texts]; Hāmān appears as Pharaoh''s minister and partner; Infant refuses other
-    wet nurses; Infant placed in a container and set on the water [divergence between the texts]; and
-    10 more.'
+    A foundling not born of her is taken in and adopted as a son by a royal or divine woman; A newborn
+    destined to bring down a ruler is hidden so that the ruler does not see and kill it [divergence between
+    the texts]; The oppressor slaughters the sons and lets the women live; Who decides that Moses be put
+    on the water [divergence between the texts]; Why Pharaoh oppresses Israel [divergence between the
+    texts]; Infant returned to his own mother to nurse [divergence between the texts]; A royal house takes
+    a foreign youth whose life is threatened as its son; Sister offers to find a nurse [divergence between
+    the texts]; and 14 more.'
   basis: reading
 - text: 'Birth of Isaac and expulsion of Hagar and Ishmael: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s ''uncircumcised heart'' must be humbled [divergence
-    between the texts] (weight 6.7); The people''s ''uncircumcised heart'' must be humbled (weight 5.6).
-    Pair score 12.3.'
+    between the texts] (weight 7.7); The people''s ''uncircumcised heart'' must be humbled (weight 6.6).
+    Pair score 14.4.'
   basis: reading
 - text: 'Only in Covenant curses, exile, and remembered covenant: Curse: your corpses will be heaped on
     the corpses of your idols; Punishments escalate sevenfold each time the people do not listen; Curse
@@ -30,9 +30,9 @@ evidence:
     God answers the people''s ''walking contrary'' (qeri) by walking contrary to them; Curse: the sky
     like iron and the earth like bronze; Curse: ten women bake bread in one oven and it is doled out by
     weight; Humiliation is stamped on them wherever found except under a rope from God and a rope from
-    men; While the people are in exile, the desolate land makes up its missed sabbath years; Curse: you
-    will eat the flesh of your sons and daughters; Long catalogue of curses for covenant violation (disease,
-    defeat, famine, exile); and 5 more.'
+    men; While the people are in exile, the desolate land makes up its missed sabbath years; God remembers
+    his covenant with Jacob, Isaac and Abraham even in exile; The ''uncircumcised'' or covered heart [divergence
+    between the texts]; and 5 more.'
   basis: reading
 - text: 'Only in The indictment of Israel; the Messiah not crucified but raised: Every one of the People
     of the Book will believe in him before his (or their) death; They did not kill the Messiah Jesus nor

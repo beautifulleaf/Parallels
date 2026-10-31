@@ -19,8 +19,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Closing doxology: glory to your Lord, Lord of might, above what
-    they describe; peace on the messengers; praise to God, Lord of the worlds (weight 6.7). Pair score
-    6.7.'
+    they describe; peace on the messengers; praise to God, Lord of the worlds (weight 7.7). Pair score
+    7.7.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -35,11 +35,12 @@ evidence:
 - text: 'Only in Daughters of God denied; the angels'' stations; closing doxology: Idolaters claim a kinship
     (nasab) between God and the jinn; the jinn know they will be brought to judgment; The angels say:
     each of us has a known station; we are ranged in ranks; we glorify; When the punishment descends in
-    their courtyard, evil will be the morning of those who were warned; A closing doxology and the divine
-    title it uses [divergence between the texts]; Whether God has, begets or takes sons or other offspring
-    [contrast between the texts]; Polemic against assigning daughters to God (the angels as females) while
-    preferring sons for themselves; Scoffers ask the prophet to hasten the punishment; it is held back
-    only by an appointed term and will come suddenly.'
+    their courtyard, evil will be the morning of those who were warned; Whether the divine attendants
+    (heralds [divergence between the texts]; A closing doxology and the divine title it uses [divergence
+    between the texts]; Whether God has, begets or takes sons or other offspring [contrast between the
+    texts]; Polemic against assigning daughters to God (the angels as females) while preferring sons for
+    themselves; Scoffers ask the prophet to hasten the punishment; it is held back only by an appointed
+    term and will come suddenly.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

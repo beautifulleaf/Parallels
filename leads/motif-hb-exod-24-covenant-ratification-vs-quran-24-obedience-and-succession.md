@@ -21,8 +21,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na)
-    (weight 6.0); The people answer as one: all that YHWH has spoken we will do (weight 5.8). Pair score
-    11.8.'
+    (weight 7.1); The people answer as one: all that YHWH has spoken we will do (weight 6.8). Pair score
+    13.9.'
   basis: reading
 - text: 'Only in Covenant ratified in blood; the elders see God: Sacrificial blood splashed on altar and
     people seals the covenant (''blood of the covenant''); A meal eaten in God''s presence seals a covenant;

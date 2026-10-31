@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created every beast from water: some go on their bellies, some
-    on two legs, some on four (weight 6.7). Pair score 6.7.'
+    on two legs, some on four (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Clean and unclean animals; carcass impurity: The camel is unclean because it does not
     have a split hoof; Touching or carrying a carcass makes one unclean until evening; Creatures that
@@ -40,11 +40,12 @@ evidence:
     lit from a blessed olive tree neither of east nor west, whose oil almost glows untouched by fire:
     light upon light; God sends down hail from mountains in the sky; the flash of his lightning nearly
     takes away sight; In houses God allowed to be raised, men undistracted by trade glorify him morning
-    and evening; Birds with outspread wings glorify God; each knows its prayer and praise; With God is
-    the fountain of life; in his light we see light; A lamp fed directly by an olive tree [divergence
-    between the texts]; A golden lampstand with seven lamps is flanked by two olive trees that pour golden
-    oil through golden pipes; The mirage and the thirsty traveler [divergence between the texts]; God
-    drives the storm cloud to strike whom he wills or to show favor; and 8 more.'
+    and evening; Birds in flight, wings spread, praise the deity; With God is the fountain of life; in
+    his light we see light; A lamp fed directly by an olive tree [divergence between the texts]; A golden
+    lampstand with seven lamps is flanked by two olive trees that pour golden oil through golden pipes;
+    The god titled ''light of heaven(s) and earth'' (nūr šamāmī u qaqqari / nūru l-samāwāti wa-l-arḍ),
+    and those deprived of light walk in darkness; The title ''light of heaven and earth'' given to the
+    divine [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'Clean and unclean animals; carcass impurity: tagged by Claude (model), reading the Hebrew.'
   basis: reading

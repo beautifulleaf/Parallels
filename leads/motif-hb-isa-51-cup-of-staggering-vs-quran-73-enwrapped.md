@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will raise up a prophet like Moses from among the brothers and
-    put his words in his mouth (weight 5.2). Pair score 5.2.'
+    put his words in his mouth (weight 6.2). Pair score 6.2.'
   basis: reading
 - text: 'Only in I am your comforter; the cup of staggering: Tormentors told the captive ''Bow down that
     we may pass over'', and she made her back like the ground for them to walk on; God takes the cup of
@@ -31,13 +31,12 @@ evidence:
     Command to recite the scripture in slow measured chant (tartil); Night vigil prescribed in measured
     portions (half the night, less or more, two-thirds or a third), later lightened for the sick, travelers
     and fighters; God will cast upon the prophet a heavy word (qawlan thaqilan); Hell''s food chokes (dha
-    ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies hunger; God called Lord
-    of the east and the west, or of the (many) easts and wests (sunrise and sunset points); Prophet wraps
-    his face in his mantle on hearing God; God has prepared chains, iron collars and fetters (ankal) for
-    the unbelievers; Speaker rises at midnight to give thanks to God; At the end the sky is split, cleft
-    or opened (infatarat, inshaqqat, furijat); At the end the mountains become a heap of running sand,
-    are blown away, set in motion or turn into a mirage; Who will lend God a goodly loan (qard hasan),
-    that he may multiply it for him?; and 1 more.'
+    ghussa) or is dari'' (a thorny plant) that neither nourishes nor satisfies hunger; Sacred words recited
+    at dead of night, and what is done by day [divergence between the texts]; God called Lord of the east
+    and the west, or of the (many) easts and wests (sunrise and sunset points); Prophet wraps his face
+    in his mantle on hearing God; God has prepared chains, iron collars and fetters (ankal) for the unbelievers;
+    Speaker rises at midnight to give thanks to God; Lordship that reaches from the rising to the setting
+    of the sun; At the end the sky is split, cleft or opened (infatarat, inshaqqat, furijat); and 3 more.'
   basis: reading
 - text: 'I am your comforter; the cup of staggering: tagged by Claude (model), reading the Hebrew.'
   basis: reading

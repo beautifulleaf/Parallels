@@ -23,31 +23,32 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s crafting of the human body, and what is said to follow from
-    it [divergence between the texts] (weight 6.7); God poured the embryo out like milk and curdled it
-    like cheese, clothing it with skin and flesh and knitting bones and sinews (weight 5.8); First human
-    shaped from dust, clay or soil (weight 4.6). Pair score 17.0.'
+    it [divergence between the texts] (weight 7.7); God poured the embryo out like milk and curdled it
+    like cheese, clothing it with skin and flesh and knitting bones and sinews (weight 6.8); First human
+    shaped from dust, clay or soil (weight 5.2). Pair score 19.8.'
   basis: reading
 - text: 'Only in Job - ''Your hands fashioned me''; land of darkness: The sufferer reminds God that God''s
     hands shaped him yet now destroy him; ''Have you eyes of flesh? Are your days like a mortal''s days?'';
-    God hunts the sufferer like a lion; The underworld as a land of darkness and deep shadow, without
-    order, where light is like darkness; God created Adam ''with my two hands''; God creates you in your
-    mothers'' bellies creation after creation in three darknesses; Like a vanishing cloud, whoever goes
-    down to Sheol does not come up; his place knows him no more; From dust, then a drop, then a clinging
+    God hunts the sufferer like a lion; God created Adam ''with my two hands''; God creates you in your
+    mothers'' bellies creation after creation in three darknesses; From dust, then a drop, then a clinging
     clot (''alaqa), then a child, then full strength, then old age; some die before; Have you seen what
     you emit? Do you create it, or are we the creator?; Sufferer wishes he had died in the womb or been
-    a hidden stillborn; Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa),
-    then shaped and proportioned; Human comes from dust and returns to dust.'
+    a hidden stillborn; The underworld as a land of darkness and deep shadow, without order, where light
+    is like darkness; Like a vanishing cloud, whoever goes down to Sheol does not come up; his place knows
+    him no more; Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then
+    shaped and proportioned; Human comes from dust and returns to dust.'
   basis: reading
 - text: 'Only in Man from clay through the stages of the womb; seven paths, water, Sinai''s tree, cattle
     and ships: God called ''the best of creators'' (aḥsan al-khāliqīn); Cattle are a lesson: God gives
     drink from what is in their bellies; A tree springing from Mount Sinai (Ṭūr Saynāʾ) yields oil and
     a relish for eaters; In the womb God makes the lump into bones and clothes the bones with flesh, then
-    makes it another creation; At creation God fixed the weight of the wind, the measure of the waters,
-    a decree for the rain and a way for the thunderbolt; Humans created from dust, then a drop (nuṭfa),
-    then a clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped; God''s eyes saw the
-    speaker''s unformed substance (golem); all his days were written in God''s book before one of them
-    existed; The speaker too was ''pinched off from clay'' (qoratsti), like a figure nipped from a lump
-    of clay; God fashions seven heavens.'
+    makes it another creation; Man is made from compacted (clotted) blood and then bones; God makes the
+    fluid (seed) in women into a human and forms the child in its mother''s belly; At creation God fixed
+    the weight of the wind, the measure of the waters, a decree for the rain and a way for the thunderbolt;
+    Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump (muḍgha),
+    shaped and unshaped; God''s eyes saw the speaker''s unformed substance (golem); all his days were
+    written in God''s book before one of them existed; God fashions seven heavens; The speaker too was
+    ''pinched off from clay'' (qoratsti), like a figure nipped from a lump of clay.'
   basis: reading
 - text: 'Job - ''Your hands fashioned me''; land of darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

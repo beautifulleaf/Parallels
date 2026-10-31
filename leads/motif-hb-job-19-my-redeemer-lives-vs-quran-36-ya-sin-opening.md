@@ -19,20 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has put collars up to their chins so their heads are forced
-    up, and a barrier before and behind them, covering them so they do not see (weight 6.3). Pair score
-    6.3.'
+    up, and a barrier before and behind them, covering them so they do not see (weight 7.3). Pair score
+    7.3.'
   basis: reading
-- text: 'Only in Job - abandoned by all; ''I know my redeemer lives'': Brothers, kin, guests, maidservants
-    and servants all estrange themselves from the sufferer; his breath is strange to his wife; God has
-    stripped the sufferer of his glory and taken the crown from his head; ''I cry out Violence! but I
-    am not answered''; ''I have escaped by the skin of my teeth''; bones cleave to skin; ''Know then that
-    God has wronged me and closed his net about me''; God''s troops come together, cast up siegeworks
-    and encamp around the sufferer''s tent; Even young children despise the sufferer and speak against
-    him; ''I know that my redeemer (go''el) lives, and at the last he will stand upon the dust''; ''Have
-    pity on me, have pity on me, O my friends, for the hand of God has touched me''; ''After my skin is
-    stripped off, from my flesh I shall see God'' with my own eyes, not a stranger''s; ''These ten times
-    you have reproached me''; The sufferer warns his accusers to fear the sword, so they may know there
-    is a judgment; and 5 more.'
+- text: 'Only in Job - abandoned by all; ''I know my redeemer lives'': ''I cry out Violence! but I am
+    not answered''; ''Know then that God has wronged me and closed his net about me''; God''s troops come
+    together, cast up siegeworks and encamp around the sufferer''s tent; Even young children despise the
+    sufferer and speak against him; ''I know that my redeemer (go''el) lives, and at the last he will
+    stand upon the dust''; ''Have pity on me, have pity on me, O my friends, for the hand of God has touched
+    me''; ''After my skin is stripped off, from my flesh I shall see God'' with my own eyes, not a stranger''s;
+    ''These ten times you have reproached me''; The sufferer warns his accusers to fear the sword, so
+    they may know there is a judgment; Wish that his words were written in a book, engraved with an iron
+    pen and lead in the rock forever; ''I have escaped by the skin of my teeth''; bones cleave to skin;
+    God hedges a man in so his way is hidden (inverted image of the protective hedge); and 5 more.'
   basis: reading
 - text: 'Only in Ya-Sin; the collars and the barrier; deeds recorded: God records what people sent ahead
     and their traces (athar), and counts everything in a clear register (imam mubin); Oath by the Quran

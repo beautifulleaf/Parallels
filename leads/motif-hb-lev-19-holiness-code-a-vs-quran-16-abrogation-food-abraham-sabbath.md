@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If you retaliate, do so in kind; but patience is better (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Be holy - ethical laws and love of neighbor: Do not stand idly by the blood of your neighbor;
-    Do not take vengeance or bear a grudge against your people; Do not hate your brother in your heart;
-    rebuke your neighbor instead; Each person must revere mother and father; Command ''You shall be holy,
-    for I am holy''; A Quranic code of commandments resembling the Decalogue in content [divergence between
-    the texts]; Fulfill God''s covenant and do not break oaths after confirming them or use them for deceit;
-    Love your neighbor as yourself; Do not curse the deaf or put a stumbling block before the blind; Sacrificial
-    meat eaten on the third day is abhorrent (piggul) and the offering is invalid; The share of the poor
-    in the owner''s harvest or wealth [divergence between the texts]; Give the kinsman, the poor and the
-    wayfarer their due; and 6 more.'
+    Do not hate your brother in your heart; rebuke your neighbor instead; Each person must revere mother
+    and father; Command ''You shall be holy, for I am holy''; A Quranic code of commandments resembling
+    the Decalogue in content [divergence between the texts]; Fulfill God''s covenant and do not break
+    oaths after confirming them or use them for deceit; Love your neighbor as yourself; Do not take vengeance
+    or bear a grudge against your people; Sacrificial meat eaten on the third day is abhorrent (piggul)
+    and the offering is invalid; The share of the poor in the owner''s harvest or wealth [divergence between
+    the texts]; Give the kinsman, the poor and the wayfarer their due; Forgotten sheaf, olive and grape
+    gleanings left for stranger, orphan and widow [contrast between the texts]; and 6 more.'
   basis: reading
 - text: 'Only in Abrogation, the foreign teacher, coerced unbelief, food law, Abraham the hanif and the
     Sabbath (Surah 16:101-128): Opponents claim a foreign-tongued man teaches the prophet; answer: this
@@ -37,13 +37,12 @@ evidence:
     Spirit (ruh al-qudus) brings the revelation down from God; The Sabbath was imposed only on those who
     differed about it; Parable of a secure town supplied from everywhere which was ungrateful and was
     made to taste the garment of hunger and fear; God abrogates or causes to be forgotten a verse and
-    brings a better or similar one (naskh); One forced to disbelieve while his heart is firm in faith
-    is excused; Only four foods are forbidden: carrion, blood, swine and what is offered to other than
-    God; Only four foods are forbidden: carrion, blood, swine and what is offered to other than God [contrast
-    between the texts]; Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing
-    [response between the texts]; The Sabbath was imposed only on those who differed about it [response
-    between the texts]; Forbidden: what has been consecrated (invoked over) to other than God; and 10
-    more.'
+    brings a better or similar one (naskh); A punishment (skin disease; hunger and fear) put on the guilty
+    like a garment; One forced to disbelieve while his heart is firm in faith is excused; The excuse that
+    one was forced or powerless is put forward for going over to the other side [contrast between the
+    texts]; Fear (and hunger) covers a town''s people like a garment; Only four foods are forbidden: carrion,
+    blood, swine and what is offered to other than God; Only four foods are forbidden: carrion, blood,
+    swine and what is offered to other than God [contrast between the texts]; and 15 more.'
   basis: reading
 - text: 'Be holy - ethical laws and love of neighbor: tagged by Claude (model), reading the Hebrew.'
   basis: reading

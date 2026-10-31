@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who tremble at God''s word (haredim) gather to the leader
-    (weight 6.3). Pair score 6.3.'
+    (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Heaven is my throne; sacrifice as abomination: The faithful are hated and cast out by
     their own brothers for God''s name''s sake; God looks to the poor and contrite in spirit who trembles
@@ -30,8 +30,9 @@ evidence:
   basis: reading
 - text: 'Only in The question of spoils and the marks of true believers: True believers'' hearts tremble
     when God is mentioned and their faith grows when his verses are recited; The spoils of war (anfal)
-    belong to God and the messenger; God''s share of the spoils of war [divergence between the texts];
-    Returning warriors divide the spoil with their brothers at home.'
+    belong to God and the messenger; Who owns the booty taken in battle [contrast between the texts];
+    God''s share of the spoils of war [divergence between the texts]; Returning warriors divide the spoil
+    with their brothers at home.'
   basis: reading
 - text: 'Heaven is my throne; sacrifice as abomination: tagged by Claude (model), reading the Hebrew.'
   basis: reading

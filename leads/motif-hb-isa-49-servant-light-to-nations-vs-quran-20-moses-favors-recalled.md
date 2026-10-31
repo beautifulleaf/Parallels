@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God calls, forms, knows or consecrates his servant or prophet from
-    the womb, before birth (weight 6.3). Pair score 6.3.'
+    the womb, before birth (weight 6.2). Pair score 6.2.'
   basis: reading
 - text: 'Only in Second servant song - called from the womb, a light to the nations: Exiles return from
     far lands including the land of Sinim (later read as China); God makes the servant''s mouth a sharp

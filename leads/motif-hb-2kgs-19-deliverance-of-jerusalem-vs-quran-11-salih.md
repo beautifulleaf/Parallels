@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Morning finds the destroyed lying prostrate (jathimin) in their
-    dwellings (weight 5.6). Pair score 5.6.'
+    dwellings (weight 6.6). Pair score 6.6.'
   basis: reading
 - text: 'Only in Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter:
     The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses; The arrogant
@@ -28,11 +28,11 @@ evidence:
     defends the city for his own sake and for the sake of David his servant [divergence between the texts];
     When the punishment descends in their courtyard, evil will be the morning of those who were warned;
     God says the conqueror''s victories were planned by him long ago; the conqueror is only his instrument;
-    The king tears his clothes, puts on sackcloth and goes into the temple in crisis; The enemy is said
-    to reproach (harref) ''the living God''; Royal parricides flee to the land of Ararat; The escaped
-    remnant shall again take root downward and bear fruit upward; a remnant goes out from Zion; God puts
-    a spirit in the invader so that he hears a rumor and returns home; King spreads the enemy''s threatening
-    letter before God in the temple; and 9 more.'
+    The king tears his clothes, puts on sackcloth and goes into the temple in crisis; Royal parricides
+    flee to the land of Ararat; The escaped remnant shall again take root downward and bear fruit upward;
+    a remnant goes out from Zion; God puts a spirit in the invader so that he hears a rumor and returns
+    home; King spreads the enemy''s threatening letter before God in the temple; Sign: this year eat aftergrowth,
+    next year what springs of itself, the third year sow and reap; and 9 more.'
   basis: reading
 - text: 'Only in Salih, the she-camel and the Shout: The people tell their prophet he had been their hope
     before this; After the crime the people are given three days'' enjoyment in their homes before destruction;

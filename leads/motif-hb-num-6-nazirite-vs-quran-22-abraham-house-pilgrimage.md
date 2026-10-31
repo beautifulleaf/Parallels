@@ -17,7 +17,7 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Nazirite brings burnt, sin and well-being offerings with unleavened
-    bread when his term ends (weight 6.7). Pair score 6.7.'
+    bread when his term ends (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Nazirite vow: Priest places the boiled shoulder and cakes in the hands of the shaved
     Nazirite and waves them; Nazirite may not become unclean even for the corpse of father, mother, brother
@@ -40,8 +40,9 @@ evidence:
     at the site of the House and told him to purify it for those who circle, stand, bow and prostrate;
     Eat of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
     a rite of sacrifice (mansak); What is done with the blood of sacrifices, and whether it reaches God
-    [divergence between the texts]; A place recognized as the house of God and gate of heaven; Who chose
-    or founded the single sanctuary of sacrifice, and when [divergence between the texts]; and 6 more.'
+    [divergence between the texts]; Whether the deity eats (receives) the food and drink of the offerings
+    [divergence between the texts]; The deity shows or assigns to the builder the site (old foundation)
+    of the deity''s house; and 15 more.'
   basis: reading
 - text: 'The Nazirite vow: tagged by Claude (model), reading the Hebrew.'
   basis: reading

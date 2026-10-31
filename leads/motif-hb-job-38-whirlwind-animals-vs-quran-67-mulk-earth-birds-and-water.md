@@ -21,18 +21,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: By God''s wisdom the hawk soars and spreads its wings toward the
-    south (weight 6.7); The birds above them spreading and folding their wings: none holds them up but
-    the Merciful (weight 6.0). Pair score 12.7.'
+    south (weight 7.7); The birds above them spreading and folding their wings: none holds them up but
+    the Merciful (weight 7.1). Pair score 14.8.'
   basis: reading
-- text: 'Only in God''s first speech from the whirlwind - the wild animals: Catalogue of wild animals
-    (mountain goat, wild ass, wild ox, ostrich, horse, hawk, eagle) beyond human control; The eagle nests
-    on the crag; where the slain are, there it is, and its young drink blood; The ostrich leaves her eggs
-    in the dust, forgetting a foot may crush them, for God deprived her of wisdom; The wild ass, set free
-    by God, laughs at the city''s tumult and hears no driver''s shout; The wild ox (re''em) will not serve
-    man, plow the furrow or spend the night at his crib; The warhorse with thundering mane paws the valley,
-    laughs at fear and says ''Aha!'' at the trumpet; Only God knows when the mountain goats and hinds
-    give birth and counts their months; God provides prey for the lion and food for the raven''s young
-    that cry to him.'
+- text: 'Only in God''s first speech from the whirlwind - the wild animals: The eagle nests on the crag;
+    where the slain are, there it is, and its young drink blood; The wild ass, set free by God, laughs
+    at the city''s tumult and hears no driver''s shout; The wild ox (re''em) will not serve man, plow
+    the furrow or spend the night at his crib; Catalogue of wild animals (mountain goat, wild ass, wild
+    ox, ostrich, horse, hawk, eagle) beyond human control; The ostrich leaves her eggs in the dust, forgetting
+    a foot may crush them, for God deprived her of wisdom; The warhorse with thundering mane paws the
+    valley, laughs at fear and says ''Aha!'' at the trumpet; Only God knows when the mountain goats and
+    hinds give birth and counts their months; God provides prey for the lion and food for the raven''s
+    young that cry to him.'
   basis: reading
 - text: 'Only in The tractable earth, the one in heaven who could make it swallow you, the birds held
     up, and the water that could sink away: God made the earth tractable (dhalul) for you: walk its shoulders
@@ -40,8 +40,8 @@ evidence:
     swallow you as it quakes, or send a stone-storm?; Is one who walks prone on his face better guided
     than one who walks upright on a straight path?; If your water were to sink deep into the earth, who
     would bring you flowing water?; The people mock God''s messengers, despise his words and scoff at
-    his prophets; The earth opens its mouth and swallows rebels alive into Sheol; Knowledge of the Hour
-    is with God alone; it will come suddenly.'
+    his prophets; Knowledge of the Hour is with God alone; it will come suddenly; The earth opens its
+    mouth and swallows rebels alive into Sheol.'
   basis: reading
 - text: 'God''s first speech from the whirlwind - the wild animals: tagged by Claude (model), reading
     the Hebrew.'

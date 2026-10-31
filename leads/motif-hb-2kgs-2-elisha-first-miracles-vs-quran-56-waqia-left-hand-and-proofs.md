@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s power to make water sweet or bitter [contrast between the
-    texts] (weight 6.3); Bitter water made drinkable by throwing in a piece of wood God shows the leader
-    (weight 6.0). Pair score 12.3.'
+    texts] (weight 7.3); Bitter water made drinkable by throwing in a piece of wood God shows the leader
+    (weight 7.1). Pair score 14.4.'
   basis: reading
 - text: 'Only in Elisha heals Jericho''s water; the bears of Bethel: Small boys jeer ''Go up, baldhead!'';
     the prophet curses them and two she-bears maul forty-two of them; Prophet throws salt from a new bowl
@@ -39,7 +39,7 @@ evidence:
     the certain truth'' (haqq al-yaqin); Have you seen what you sow? Do you make it grow, or are we the
     grower? We could make it chaff; Fire kindled from a tree that God made grow [divergence between the
     texts]; The scripture exists with God in the ''Mother of the Book'' (umm al-kitab), a heavenly archetype;
-    and 7 more.'
+    and 9 more.'
   basis: reading
 - text: 'Elisha heals Jericho''s water; the bears of Bethel: tagged by Claude (model), reading the Hebrew.'
   basis: reading

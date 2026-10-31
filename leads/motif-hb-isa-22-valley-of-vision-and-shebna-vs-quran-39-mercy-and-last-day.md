@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who holds the keys that open and shut [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Valley of vision; let us eat and drink; Shebna deposed, Eliakim given the key of David:
     Revelers say ''Let us eat and drink, for tomorrow we die'' when called to mourning; God will wind
@@ -47,8 +47,8 @@ evidence:
     trumpet blast all in heaven and earth swoon (sa''iqa) except whom God wills; at the second they stand
     looking; On the Day of Resurrection the whole earth is in God''s grip and the heavens folded in his
     right hand; The earth shines (lit up) with God''s glory; The earth shines (lit up) with God''s glory
-    [divergence between the texts]; The keepers of hell ask ''Did not messengers from among you come to
-    you?''; and 6 more.'
+    [divergence between the texts]; At the gate of the netherworld the gatekeepers question those who
+    arrive [divergence between the texts]; and 14 more.'
   basis: reading
 - text: 'Valley of vision; let us eat and drink; Shebna deposed, Eliakim given the key of David: tagged
     by Claude (model), reading the Hebrew.'

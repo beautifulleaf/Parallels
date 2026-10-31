@@ -15,15 +15,15 @@ layers:
 - motif
 motifs:
 - he-spoke-and-it-was
-- creation-by-word
 - kun-fa-yakun
+- creation-by-word
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''He spoke and it came to be; he commanded and it stood firm'' (weight
-    6.3); Deity creates by spoken command (Let there be...) (weight 5.8); God creates by saying to a thing
-    ''Be'' and it is (kun fa-yakun) (weight 5.3). Pair score 17.4.'
+    7.3); God creates by saying to a thing ''Be'' and it is (kun fa-yakun) (weight 6.4); Deity creates
+    by spoken command (Let there be...) (weight 6.4). Pair score 20.1.'
   basis: reading
 - text: 'Only in Psalm 33 - by the word of YHWH the heavens were made: God frustrates the counsel of the
     nations; his own counsel stands forever; By the word of YHWH the heavens were made and all their host
@@ -40,11 +40,12 @@ evidence:
     opponents) but ''unzurna''; God abrogates or causes to be forgotten a verse and brings a better or
     similar one (naskh); God swears by himself: to me every knee shall bow and every tongue swear; Whether
     God has or begets a son [contrast between the texts]; Whether God should speak to the people directly
-    [contrast between the texts]; From sunrise to sunset God''s name is great among the nations and in
-    every place incense and a pure offering are brought to his name; East and west belong to God; wherever
-    you turn, there is the face of God; The called one asks for a sign that it is God who speaks [divergence
-    between the texts]; The called one asks for a sign that it is God who speaks; Denial that God has
-    taken a son (walad).'
+    [contrast between the texts]; A good deed done for one''s land is laid up in the god''s basket (credited
+    by the god); From sunrise to sunset God''s name is great among the nations and in every place incense
+    and a pure offering are brought to his name; The god''s whereabouts named as the sunrise and the sunset
+    (east and west) [divergence between the texts]; East and west belong to God; wherever you turn, there
+    is the face of God; The called one asks for a sign that it is God who speaks [divergence between the
+    texts]; and 2 more.'
   basis: reading
 - text: 'Psalm 33 - by the word of YHWH the heavens were made: tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -85,22 +86,6 @@ matches:
       lang: ar
       text: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 - kind: shared
-  label: Deity creates by spoken command (Let there be...)
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Ps 33:6
-      lang: he
-      text: בִּדְבַ֣ר יְ֭הוָה שָׁמַ֣יִם נַעֲשׂ֑וּ וּבְר֥וּחַ פִּ֝֗יו כָּל צְבָאָֽם
-    - ref: Ps 33:9
-      lang: he
-      text: כִּ֤י ה֣וּא אָמַ֣ר וַיֶּ֑הִי הֽוּא צִ֝וָּ֗ה וַֽיַּעֲמֹֽד
-  - tradition: islam
-    passages:
-    - ref: Quran 2:117
-      lang: ar
-      text: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
-- kind: shared
   label: God creates by saying to a thing 'Be' and it is (kun fa-yakun)
   sides:
   - tradition: judaism
@@ -113,6 +98,22 @@ matches:
       text: כִּ֤י ה֣וּא אָמַ֣ר וַיֶּ֑הִי הֽוּא צִ֝וָּ֗ה וַֽיַּעֲמֹֽד
     note: 'kî hûʾ ʾāmar wa-yyehî hûʾ ṣiwwâ wa-yyaʿămōḏ vs. innamā amruhu idhā arāda shayʾan an yaqūla
       lahu kun fa-yakūn: he spoke and it was. The Quran''s amr matches ṣiwwâ (command).'
+  - tradition: islam
+    passages:
+    - ref: Quran 2:117
+      lang: ar
+      text: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+- kind: shared
+  label: Deity creates by spoken command (Let there be...)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 33:6
+      lang: he
+      text: בִּדְבַ֣ר יְ֭הוָה שָׁמַ֣יִם נַעֲשׂ֑וּ וּבְר֥וּחַ פִּ֝֗יו כָּל צְבָאָֽם
+    - ref: Ps 33:9
+      lang: he
+      text: כִּ֤י ה֣וּא אָמַ֣ר וַיֶּ֑הִי הֽוּא צִ֝וָּ֗ה וַֽיַּעֲמֹֽד
   - tradition: islam
     passages:
     - ref: Quran 2:117

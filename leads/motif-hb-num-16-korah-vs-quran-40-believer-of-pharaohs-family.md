@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Where Haman and Korah belong in the story of God''s people [divergence
-    between the texts] (weight 6.3). Pair score 6.3.'
+    between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Korah, Dathan and Abiram rebel; the earth swallows them: Rival claimants offer incense
     in fire-pans so God may choose the holy one; Rebels claim all the people are holy and challenge the
@@ -28,9 +28,9 @@ evidence:
     as ''God of the spirits of all flesh''; Bystanders of a divine punishment fear it could have struck
     them too; Your companion has not erred; he does not speak from desire; it is only revelation revealed;
     Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?'';
-    What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; Intercessor
-    asks: shall one man sin and you rage at the whole community?; A people is destroyed by an earthquake/tremor
-    (al-rajfa); Leader protests he never took so much as a donkey from anyone; and 2 more.'
+    What Korah''s sin was, and why the earth swallowed him [divergence between the texts]; A people is
+    destroyed by an earthquake/tremor (al-rajfa); Leader protests he never took so much as a donkey from
+    anyone; Intercessor asks: shall one man sin and you rage at the whole community?; and 2 more.'
   basis: reading
 - text: 'Only in Moses, Pharaoh, Haman and the believer of Pharaoh''s family: The damned ask the keepers
     of hell to pray their Lord to lighten the punishment by a day; they are told ''then pray yourselves'';

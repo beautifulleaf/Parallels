@@ -19,19 +19,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The secret things belong to God; the revealed things to us and our
-    children (weight 6.0). Pair score 6.0.'
+    children (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Covenant at Moab; the secret apostate; the land like Sodom: All ranks stand before God,
     from the hewer of wood to the drawer of water; A root bearing poison and wormwood among you (secret
-    apostate); Covenant made with those present and with those not here today; Covenant made with those
-    present and with those not here today [divergence between the texts]; God has not given the people
-    a heart to know, eyes to see, ears to hear until today; God allotted the heavenly bodies (or gods)
-    to the other nations; Nations ask why God did this to the land and are answered: they forsook the
-    covenant; Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts]; Man who hears the curse but blesses himself in his heart: ''I shall have peace'';
-    In forty years of wandering the people lacked nothing (clothes did not wear out, feet did not swell);
-    Clothes did not wear out and feet did not swell for forty years; Land made brimstone and salt like
-    Sodom, Gomorrah, Admah and Zeboiim; and 2 more.'
+    apostate); Covenant made with those present and with those not here today [divergence between the
+    texts]; God has not given the people a heart to know, eyes to see, ears to hear until today; God allotted
+    the heavenly bodies (or gods) to the other nations; Nations ask why God did this to the land and are
+    answered: they forsook the covenant; Who was present at the revelation on the mountain, and who knows
+    it only by report [divergence between the texts]; Man who hears the curse but blesses himself in his
+    heart: ''I shall have peace''; Covenant made with those present and with those not here today; Land
+    made brimstone and salt like Sodom, Gomorrah, Admah and Zeboiim; In forty years of wandering the people
+    lacked nothing (clothes did not wear out, feet did not swell); Clothes did not wear out and feet did
+    not swell for forty years; and 2 more.'
   basis: reading
 - text: 'Only in Questions not to ask; the freed camels of the pagans: Do not ask about things which,
     if made plain, would trouble you; a people before you asked and disbelieved; God did not institute

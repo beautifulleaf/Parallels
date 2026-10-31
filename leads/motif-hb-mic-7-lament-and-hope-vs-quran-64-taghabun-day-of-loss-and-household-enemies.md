@@ -13,24 +13,24 @@ traditions:
 layers:
 - motif
 motifs:
-- family-members-become-enemies
 - family-members-become-enemies-as-divergence
+- family-members-become-enemies
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Son dishonors father, daughter rises against mother, daughter-in-law
-    against mother-in-law; a man''s enemies are his own household (weight 6.7); Son dishonors father,
-    daughter rises against mother, daughter-in-law against mother-in-law; a man''s enemies are his own
-    household [divergence between the texts] (weight 6.7). Pair score 13.4.'
+    against mother-in-law; a man''s enemies are his own household [divergence between the texts] (weight
+    7.7); Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law;
+    a man''s enemies are his own household (weight 7.3). Pair score 15.1.'
   basis: reading
 - text: 'Only in No godly man left; who is a God like you?: ''Do not rejoice over me, my enemy: though
     I fall I shall rise; though I sit in darkness YHWH is my light''; The godly have vanished from the
     land like a vineyard after gleaning with no cluster to eat; God will cast all their sins into the
     depths of the sea; Trust no neighbor or friend; guard your mouth even from the wife in your bosom;
-    God will show truth to Jacob and steadfast love to Abraham as he swore to the fathers; Enemies bow
-    down and lick the dust before the king or God; ''Lay your hand upon your mouth'': gesture of appalled
-    silence; Nations taunt ''Where is their God?''; God called the patriarch''s shepherd all his life;
+    God will show truth to Jacob and steadfast love to Abraham as he swore to the fathers; ''Lay your
+    hand upon your mouth'': gesture of appalled silence; Nations taunt ''Where is their God?''; Enemies
+    bow down and lick the dust before the king or God; God called the patriarch''s shepherd all his life;
     ''Who is like you among the gods, YHWH?''.'
   basis: reading
 - text: 'Only in Al-Taghabun: forms made beautiful, the Day of Mutual Loss, enemies among wives and children,
@@ -39,12 +39,11 @@ evidence:
     and forgive, God is forgiving; Fear God as much as you are able (ma stata''tum); No calamity strikes
     except by God''s leave; whoever believes, God guides his heart; Unbelievers rejected their messengers
     saying ''Shall mere humans guide us?''; God created you, and among you are unbelievers and believers;
-    God shaped you and made your forms good (sawwarakum fa-ahsana suwarakum); The poor emigrants and the
+    God shaped you and made your forms good (sawwarakum fa-ahsana suwarakum); Human beings as the creator''s
+    images or as forms he fashioned [neutral] [divergence between the texts]; The poor emigrants and the
     hosts who prefer others over themselves even in need; whoever is saved from his own greed succeeds;
-    The Day of Gathering (yawm al-jam'') when all humanity is assembled; one party to the Garden, one
-    to the Blaze; Wealth and children are a trial (fitna); The prophet is not a guardian over people;
-    his duty is only to deliver the message (al-balagh); God is the Rich (al-ghani) and you are the poor;
-    the miser is miserly only against himself; and 5 more.'
+    A man''s own child is his enemy; One''s wife or child can be one''s worst affliction or enemy; A man''s
+    wife draws him away from what he owes to the deity; and 9 more.'
   basis: reading
 - text: 'No godly man left; who is a God like you?: tagged by Claude (model), reading the Hebrew.'
   basis: reading

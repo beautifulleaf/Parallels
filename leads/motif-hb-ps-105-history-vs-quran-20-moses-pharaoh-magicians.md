@@ -19,8 +19,8 @@ motifs:
 passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
-    to release the people [divergence between the texts] (weight 5.6); The king''s heart is hardened (by
-    himself or by God) so he refuses to release the people (weight 4.6). Pair score 10.2.'
+    to release the people [divergence between the texts] (weight 6.6); The king''s heart is hardened (by
+    himself or by God) so he refuses to release the people (weight 5.7). Pair score 12.3.'
   basis: reading
 - text: 'Only in Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: Egypt rejoiced
     when Israel left, for dread of them had fallen on it; God turned the Egyptians'' hearts to hate his
@@ -39,14 +39,14 @@ evidence:
     earth humans were created, into it they return, and from it they are brought forth again; Formula:
     ''Peace be on whoever follows the guidance''; Pharaoh asks about the fate of former generations; the
     answer: their knowledge is with God in a book; The prophets are told to speak to the tyrant with gentle
-    words, that he may take heed or fear; The defeated magicians fall prostrate and declare faith in the
-    Lord of Moses and Aaron [divergence between the texts]; The magicians'' ropes and staffs appear by
-    sorcery to be moving like snakes; Condemned believers tell the tyrant ''decree what you will; you
-    can only decree for this worldly life''; Pharaoh threatens the converted magicians with cutting off
-    hands and feet on opposite sides and crucifixion (on palm trunks); King defies the prophet: ''Who
-    is YHWH that I should obey him?'' [divergence between the texts]; God made the earth a cradle (mahd)
-    or bed and laid out paths in it; Prophet delivers God''s demand ''Let my people go that they may serve
-    me'' [divergence between the texts]; and 9 more.'
+    words, that he may take heed or fear; In a contest of magic each side throws, and one side''s creature
+    seizes or swallows the other''s [divergence between the texts]; ''Fear not'': the deity reassures
+    with ''I see and I hear'' (I hear and I see); Those who rose against the king are impaled (crucified)
+    on stakes or palm trunks [divergence between the texts]; Whether the events of the distant past can
+    be known, and by whom [divergence between the texts]; The defeated magicians fall prostrate and declare
+    faith in the Lord of Moses and Aaron [divergence between the texts]; The magicians'' ropes and staffs
+    appear by sorcery to be moving like snakes; Condemned believers tell the tyrant ''decree what you
+    will; you can only decree for this worldly life''; and 17 more.'
   basis: reading
 - text: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus: tagged by Claude
     (model), reading the Hebrew.'

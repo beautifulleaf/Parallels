@@ -20,19 +20,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The meek / those who wait for YHWH / the righteous and their seed
-    shall inherit the land (yirshu arets) (weight 5.4). Pair score 5.4.'
+    shall inherit the land (yirshu arets) (weight 6.5). Pair score 6.5.'
   basis: reading
-- text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Commit your way to
-    YHWH, trust in him, and he will act; Do not fret over evildoers nor envy the wrongdoers; they wither
-    quickly like grass; There is a future (aharit) for the man of peace; the future of the wicked is cut
-    off; Better the little of the righteous than the abundance of many wicked; ''I have been young and
-    now am old, yet I have not seen the righteous forsaken nor his seed begging bread''; The wicked borrows
-    and does not repay; the righteous is generous and gives; The wicked spreads like a luxuriant native
-    tree, then passes away and cannot be found; The enemies of God vanish like the glory of the pastures,
-    like smoke; The land the righteous inherit [divergence between the texts]; Because their father was
-    righteous, God protects the orphans'' inheritance; Parable of two men: one owns two rich gardens and
-    boasts to his poorer believing companion; The law of his God is in his heart; his steps do not slip;
-    and 6 more.'
+- text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Do not fret over evildoers
+    nor envy the wrongdoers; they wither quickly like grass; There is a future (aharit) for the man of
+    peace; the future of the wicked is cut off; ''I have been young and now am old, yet I have not seen
+    the righteous forsaken nor his seed begging bread''; The wicked spreads like a luxuriant native tree,
+    then passes away and cannot be found; Commit your way to YHWH, trust in him, and he will act; The
+    land the righteous inherit [divergence between the texts]; Because their father was righteous, God
+    protects the orphans'' inheritance; Parable of two men: one owns two rich gardens and boasts to his
+    poorer believing companion; The law of his God is in his heart; his steps do not slip; What the righteous
+    are promised as their inheritance [divergence between the texts]; The wicked borrows and does not
+    repay; the righteous is generous and gives; The wicked fade like grass and green herbs; and 6 more.'
   basis: reading
 - text: 'Only in Moses before Pharaoh, the magicians and the plagues: Pharaoh''s people are struck with
     years of drought and lack of fruits before the plagues; Enemies attribute their misfortune to the
@@ -40,11 +39,11 @@ evidence:
     eyes and terrifies them; The magicians offer the prophet to throw first; he tells them to throw; Pharaoh
     is said to have his own gods, whom Moses would make him abandon; One of the Egyptian plagues is a
     flood (tufan); The tyrant threatens to cut off hands and feet on opposite sides and crucify the converts;
-    The king''s courtiers advise him how to deal with the prophet and his people [contrast between the
-    texts]; Rulers fear that a people will leave the land, or drive them out of it [divergence between
-    the texts]; The court magicians ask the king for a reward if they win and are promised closeness;
-    Magicians fail to imitate a wonder and confess ''This is the finger of God''; Magicians fail to imitate
-    a wonder and confess ''This is the finger of God'' [divergence between the texts]; and 24 more.'
+    Taking or reading an omen from birds is set aside; Blood comes upon Egypt as a calamity [divergence
+    between the texts]; The king''s courtiers advise him how to deal with the prophet and his people [contrast
+    between the texts]; An Egyptian ruler moves to kill the children (sons) of one who stirs up the land
+    [neutral] [divergence between the texts]; What the defeated magician says and what is done to him
+    [divergence between the texts]; and 34 more.'
   basis: reading
 - text: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land: tagged by Claude (model),
     reading the Hebrew.'

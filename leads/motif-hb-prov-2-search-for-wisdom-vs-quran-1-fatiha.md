@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Contrast of the way of the righteous, which God knows, and the way
-    of the wicked, which perishes (weight 6.0). Pair score 6.0.'
+    of the wicked, which perishes (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Proverbs 2, seeking wisdom as treasure; the strange woman: YHWH gives wisdom; from his
     mouth come knowledge and understanding; None who go to the strange woman return or regain the paths

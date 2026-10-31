@@ -12,32 +12,36 @@ traditions:
 layers:
 - motif
 motifs:
-- red-heifer
 - description-of-the-sacred-cow-as-divergence
 - contact-with-the-dead-as-contrast
+- red-heifer
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Unblemished red cow never yoked is burned whole for purifying ash
-    (weight 6.7); Description of the cow required by God [divergence between the texts] (weight 6.7);
-    What contact with a corpse does [contrast between the texts] (weight 6.7). Pair score 20.1.'
+- text: 'Shared motifs, rarest first: Description of the cow required by God [divergence between the texts]
+    (weight 7.7); What contact with a corpse does [contrast between the texts] (weight 7.7); Unblemished
+    red cow never yoked is burned whole for purifying ash (weight 7.3). Pair score 22.8.'
   basis: reading
 - text: 'Only in The red heifer and corpse impurity: Ash mixed with running (''living'') water sprinkled
     to cleanse; Those who prepare the purifying agent are themselves rendered impure; A corpse defiles
-    everyone and every open vessel in the tent; Cedar wood, hyssop and scarlet thread used in a purification
-    rite; Purification by sprinkling on the third and seventh days; Contact with a human corpse makes
+    everyone and every open vessel in the tent; Purification by sprinkling on the third and seventh days;
+    Cedar wood, hyssop and scarlet thread used in a purification rite; Contact with a human corpse makes
     one ritually impure; Without water, purify with clean earth (tayammum), wiping face and hands; Blood
     or water sprinkled seven times; The offender ''shall be cut off from his people'' (karet).'
   basis: reading
 - text: 'Only in The cow and the slain man: Moses commands a cow be slaughtered; the people repeatedly
     ask its age, color and nature before complying; Hearts harder than stones, yet some stones gush rivers,
     split for water or fall down in fear of God; A slain man is struck with part of the slaughtered cow
-    and revived to reveal his killer; The sacrificial cow is bright yellow, pleasing to beholders; Unyoked
-    milk cows pull a new cart unguided, separated from their calves, as a divine test; A heifer and a
-    killing whose perpetrator is unknown [divergence between the texts]; Unsolved murder: elders of nearest
-    city break the neck of an unworked heifer in an untilled wadi; Hearts of stone [divergence between
-    the texts]; God will remove the heart of stone and give a heart of flesh and a new spirit.'
+    and revived to reveal his killer; The sacrificial cow is bright yellow, pleasing to beholders; A bovine
+    chosen for a rite has never been put to work (never struck with stick or whip, never yoked to plough
+    or water); Unyoked milk cows pull a new cart unguided, separated from their calves, as a divine test;
+    A heifer and a killing whose perpetrator is unknown [divergence between the texts]; A man is killed
+    within a community and the killer is unknown [divergence between the texts]; A man is found killed
+    and the killer is unknown: how the case is settled [divergence between the texts]; A bovine for a
+    rite must be of one colour with no spot of another colour, sound in body [divergence between the texts];
+    Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled wadi;
+    Hearts of stone [divergence between the texts]; and 1 more.'
   basis: reading
 - text: 'The red heifer and corpse impurity: tagged by Claude (model), reading the Hebrew.'
   basis: reading

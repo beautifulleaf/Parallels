@@ -19,12 +19,12 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is sent as witness, bearer of good tidings and warner
-    (weight 6.0). Pair score 6.0.'
+    (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Four descendants of the Rapha slain: A variant tradition attributes the killing of Goliath
-    to another hero; The king called ''the lamp of Israel'' that must not be quenched; Giant''s bronze
-    armor and weaver''s-beam spear described with weights; A giant with six fingers on each hand and six
-    toes on each foot; The army forbids the king to go into battle because he is worth ten thousand; Ancient
+    to another hero; The king called ''the lamp of Israel'' that must not be quenched; A giant with six
+    fingers on each hand and six toes on each foot; The army forbids the king to go into battle because
+    he is worth ten thousand; Giant''s bronze armor and weaver''s-beam spear described with weights; Ancient
     giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated.'
   basis: reading
 - text: 'Only in Zayd''s wife, the seal of the prophets, and the prophet as a lamp: The greeting of the

@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God, who fashions the hearts of all and observes all their deeds,
-    looks down from his dwelling (weight 6.7). Pair score 6.7.'
+    looks down from his dwelling (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Psalm 33 - by the word of YHWH the heavens were made: God frustrates the counsel of the
     nations; his own counsel stands forever; By the word of YHWH the heavens were made and all their host
@@ -28,9 +28,9 @@ evidence:
     God gathers the waters of the sea as a heap and puts the deeps in storehouses; Psalm in Book I lacking
     any superscription; God looks down from heaven on humankind to see if any seek him; ''He spoke and
     it came to be; he commanded and it stood firm''; Praise with lyre and ten-stringed harp (nevel asor);
-    Beatitude formula ''Happy (ashrei) is the man who...''; Deity creates by spoken command (Let there
-    be...); Call to sing a new song (shir hadash) to God; God creates by saying to a thing ''Be'' and
-    it is (kun fa-yakun).'
+    Beatitude formula ''Happy (ashrei) is the man who...''; Call to sing a new song (shir hadash) to God;
+    Deity creates by spoken command (Let there be...); God creates by saying to a thing ''Be'' and it
+    is (kun fa-yakun).'
   basis: reading
 - text: 'Only in Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils,
     hell nearly bursting with rage: ''Blessed is he in whose hand is the dominion (al-mulk)''; ''Does
@@ -40,10 +40,10 @@ evidence:
     look again and again, you will see no flaw or rift; your sight returns dazzled and weary; God adorned
     the lowest heaven with lamps and made them missiles (rujum) against the devils; I set before you life
     and death, blessing and curse: choose life [divergence between the texts]; God created heaven and
-    earth to test which of you is best in deeds; When the damned are cast in they hear hell gasping/roaring
-    as it boils, nearly bursting with rage; God built the sky and adorned it, and it has no rifts (furuj);
-    The stars fight from their courses against the enemy; The stars fight from their courses against the
-    enemy [divergence between the texts]; and 3 more.'
+    earth to test which of you is best in deeds; Kingship over heaven and earth and everything is in the
+    god''s hand or grasp; Death and life (in that order) are set or created by the divine; When the damned
+    are cast in they hear hell gasping/roaring as it boils, nearly bursting with rage; God built the sky
+    and adorned it, and it has no rifts (furuj); and 6 more.'
   basis: reading
 - text: 'Psalm 33 - by the word of YHWH the heavens were made: tagged by Claude (model), reading the Hebrew.'
   basis: reading

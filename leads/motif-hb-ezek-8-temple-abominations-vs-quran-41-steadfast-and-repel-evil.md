@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: About twenty-five men with their backs to the temple bow eastward
-    to the sun between the porch and the altar (weight 6.7). Pair score 6.7.'
+    to the sun between the porch and the altar (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun
     worship: Idolaters ''put the branch (zemorah) to their nose'', an obscure cultic gesture; Seventy
@@ -27,12 +27,12 @@ evidence:
     figure of fire from the waist down and gleaming like hashmal (amber/electrum) from the waist up; Though
     they cry in God''s ears with a loud voice, he will not listen; An idol called ''the image (semel)
     of jealousy that provokes jealousy'' stands at the north gate of the temple; Prophet is told to dig
-    through a wall and enters through the opening; A hand seizes the prophet by a lock of his hair and
-    the spirit carries him between earth and heaven to a distant place; Hidden temple chamber whose walls
-    are engraved all around with creeping things, loathsome beasts and idols; Women sit at the north gate
-    of the temple weeping for Tammuz; God carried his servant by night from the Sacred Mosque to the Farthest
-    Mosque; Prophet in exile is brought ''in visions of God'' to the Jerusalem temple; Elders of the people
-    come and sit before the prophet in his house to inquire; and 5 more.'
+    through a wall and enters through the opening; Hidden temple chamber whose walls are engraved all
+    around with creeping things, loathsome beasts and idols; God carried his servant by night from the
+    Sacred Mosque to the Farthest Mosque; A hand seizes the prophet by a lock of his hair and the spirit
+    carries him between earth and heaven to a distant place; Prophet in exile is brought ''in visions
+    of God'' to the Jerusalem temple; Elders of the people come and sit before the prophet in his house
+    to inquire; The glory of YHWH appears in the cloud; and 5 more.'
   basis: reading
 - text: 'Only in Angels descend on the steadfast; repel evil with good; signs on the horizons: Angels
     descend on those who say ''Our Lord is God'' and stand firm: ''Fear not, grieve not, rejoice in the
@@ -42,10 +42,11 @@ evidence:
     will come, and if returned to my Lord I will have the best with him''; On the Day God calls ''Where
     are my partners?'', they answer ''We declare to you none of us is a witness''; The Quran is guidance
     and healing (shifa'') for believers; for others deafness and blindness; ''We will show them our signs
-    on the horizons and in themselves until it is clear to them that it is the truth''; Do not say ''I
-    will repay evil''; wait for YHWH and he will save you; Doing good to an enemy, and what it brings
-    [divergence between the texts]; Had it been revealed to a non-Arab (aʿjamī) reciting it, they would
-    still not believe; When an evil prompting from Satan stirs you, seek refuge in God; and 13 more.'
+    on the horizons and in themselves until it is clear to them that it is the truth''; The adversary
+    is reconciled and becomes a friend; who spoke evil speaks good [divergence between the texts]; Whether
+    to answer an evil word or deed with its like [divergence between the texts]; Doing good to an enemy,
+    and what it brings [divergence between the texts]; Prayer or prostration addressed to the sun [response
+    between the texts]; and 21 more.'
   basis: reading
 - text: 'Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship:
     tagged by Claude (model), reading the Hebrew.'

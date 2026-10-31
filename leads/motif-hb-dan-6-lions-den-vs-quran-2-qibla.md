@@ -18,27 +18,28 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The direction faced in prayer [divergence between the texts] (weight
-    6.0). Pair score 6.0.'
+    7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Daniel in the lions'' den: The accusers, with their wives and children, are thrown to
-    the lions and crushed before they reach the bottom; God sends his angel and shuts the lions'' mouths
-    so they do not harm the innocent; For thirty days no one may petition any god or man except the king;
-    Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the mouth of the pit and
-    sealed with the king''s signet and those of his nobles; A royal decree written by the law of the Medes
-    and Persians cannot be revoked, even by the king; The king spends a sleepless night fasting, without
-    entertainment, worrying over the hero; The pious kneels on his knees to pray; The faithful prays facing
-    Jerusalem through open windows; Rivals can find no fault in the hero except in the matter of the law
-    of his God; The king appoints 120 satraps over the kingdom with three presidents above them, one of
-    them the hero; The hero is thrown into a pit of lions; and 8 more.'
+    the lions and crushed before they reach the bottom; For thirty days no one may petition any god or
+    man except the king; Darius the Mede receives the kingdom at age sixty-two; A stone is placed on the
+    mouth of the pit and sealed with the king''s signet and those of his nobles; A royal decree written
+    by the law of the Medes and Persians cannot be revoked, even by the king; The king spends a sleepless
+    night fasting, without entertainment, worrying over the hero; The pious kneels on his knees to pray;
+    The faithful prays facing Jerusalem through open windows; Rivals can find no fault in the hero except
+    in the matter of the law of his God; The king appoints 120 satraps over the kingdom with three presidents
+    above them, one of them the hero; The hero is thrown into a pit of lions; God sends his angel and
+    shuts the lions'' mouths so they do not harm the innocent; and 8 more.'
   basis: reading
 - text: 'Only in The change of qibla: The direction of prayer (qibla) is changed toward the Sacred Mosque;
     fools ask why; Believers made a middle community (umma wasat), witnesses over mankind, with the messenger
     a witness over them; God sees the prophet turning his face toward heaven and grants him a qibla he
     is pleased with; To each a direction he faces: so race toward good deeds; Abraham and Ishmael pray
     that a messenger be raised from among their offspring; The People of the Book recognize the truth
-    as they recognize their own sons; Leader prays ''remember me, my God, for good'' for his deeds; Prayers
-    made toward the temple (or toward the land, city and house when in exile) are heard in heaven; Who
-    bears witness to God''s oneness [divergence between the texts].'
+    as they recognize their own sons; Simile: to recognise someone as father and mother recognise their
+    sons; Prayers made toward the temple (or toward the land, city and house when in exile) are heard
+    in heaven; Leader prays ''remember me, my God, for good'' for his deeds; Who bears witness to God''s
+    oneness [divergence between the texts].'
   basis: reading
 - text: 'Daniel in the lions'' den: tagged by Claude (model), reading the Aramaic.'
   basis: reading

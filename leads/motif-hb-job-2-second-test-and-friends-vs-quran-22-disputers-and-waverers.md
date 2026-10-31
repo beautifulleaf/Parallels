@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How a worshipper responds to good fortune and to misfortune sent
-    by God [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    by God [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The second test; Job''s wife; the three friends: ''Shall we accept the good from God
     and not accept the evil?''; The sufferer is struck with sore boils from the sole of his foot to the
     crown of his head; Mourners throw dust on their heads toward the sky; The sufferer sits among the
     ashes scraping himself with a potsherd; Comforters sit on the ground with the sufferer seven days
     and nights without speaking; Adversary''s proverb ''skin for skin'': a man gives all he has for his
-    life; Friends see the sufferer from afar and do not recognize him; Three friends from distant places
-    arrange to come together to console the sufferer; The sufferer''s wife urges him ''Curse God and die'';
-    The sons of God present themselves before YHWH in a heavenly assembly; God points out his servant
-    as unmatched on earth for piety; God permits the adversary to afflict a righteous man, within set
-    limits, to test his loyalty; and 4 more.'
+    life; Three friends from distant places arrange to come together to console the sufferer; The sufferer''s
+    wife urges him ''Curse God and die''; God points out his servant as unmatched on earth for piety;
+    God permits the adversary to afflict a righteous man, within set limits, to test his loyalty; Friends
+    see the sufferer from afar and do not recognize him; The sons of God present themselves before YHWH
+    in a heavenly assembly; and 4 more.'
   basis: reading
 - text: 'Only in Those who dispute about God and those who worship on an edge: Taunt: whoever thinks God
     will not help him, let him stretch a rope to the sky, then cut it, and see if his rage is removed;

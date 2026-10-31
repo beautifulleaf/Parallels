@@ -21,33 +21,33 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God poured the embryo out like milk and curdled it like cheese,
-    clothing it with skin and flesh and knitting bones and sinews (weight 5.8); Human created in stages:
-    a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped and proportioned (weight 5.4).
-    Pair score 11.2.'
+    clothing it with skin and flesh and knitting bones and sinews (weight 6.8); Human created in stages:
+    a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped and proportioned (weight 6.5).
+    Pair score 13.3.'
   basis: reading
 - text: 'Only in Job - ''Your hands fashioned me''; land of darkness: The sufferer reminds God that God''s
     hands shaped him yet now destroy him; ''Have you eyes of flesh? Are your days like a mortal''s days?'';
-    God hunts the sufferer like a lion; The underworld as a land of darkness and deep shadow, without
-    order, where light is like darkness; God created Adam ''with my two hands''; God creates you in your
+    God hunts the sufferer like a lion; God created Adam ''with my two hands''; God creates you in your
     mothers'' bellies creation after creation in three darknesses; God''s crafting of the human body,
-    and what is said to follow from it [divergence between the texts]; Like a vanishing cloud, whoever
-    goes down to Sheol does not come up; his place knows him no more; From dust, then a drop, then a clinging
-    clot (''alaqa), then a child, then full strength, then old age; some die before; Have you seen what
-    you emit? Do you create it, or are we the creator?; Sufferer wishes he had died in the womb or been
-    a hidden stillborn; Human comes from dust and returns to dust; and 1 more.'
+    and what is said to follow from it [divergence between the texts]; From dust, then a drop, then a
+    clinging clot (''alaqa), then a child, then full strength, then old age; some die before; Have you
+    seen what you emit? Do you create it, or are we the creator?; Sufferer wishes he had died in the womb
+    or been a hidden stillborn; The underworld as a land of darkness and deep shadow, without order, where
+    light is like darkness; Like a vanishing cloud, whoever goes down to Sheol does not come up; his place
+    knows him no more; Human comes from dust and returns to dust; and 1 more.'
   basis: reading
 - text: 'Only in The resurrection: bones, fingertips and the collarbone: On that day radiant faces look
     upon their Lord (beatific vision); Does man think he will be left aimless (suda), without purpose
     or accountability?; Oath by the self-reproaching soul (al-nafs al-lawwama); At death the soul reaches
     the collarbones, someone asks ''who is a healer (or charmer, raq)?'', leg is wrapped with leg and
     the drive is to the Lord; The prophet is told not to hasten with the recitation before its revelation
-    is complete; Man will be evidence against himself, even if he offers his excuses; At the prophet''s
-    word there is a rattling; bones come together bone to bone, then sinews, flesh and skin cover them,
-    but there is no breath; Then each soul will know what it has brought forward and what it left behind;
-    On that day man asks ''where to flee?'' but there is no refuge; the destination is with God; God created
-    humans (and things) in pairs, male and female; Oath introduced by the negated formula ''No! I swear
-    by...'' (la uqsimu / fa-la uqsimu); On that day some faces are radiant, laughing and joyful, others
-    scowling, dust-covered and overcast with darkness; and 3 more.'
+    is complete; The body of the dead is made whole again, all its limbs complete [divergence between
+    the texts]; An eclipse of the moon as a portent of disaster before which people seek escape or protection
+    [divergence between the texts]; Man will be evidence against himself, even if he offers his excuses;
+    At the prophet''s word there is a rattling; bones come together bone to bone, then sinews, flesh and
+    skin cover them, but there is no breath; Then each soul will know what it has brought forward and
+    what it left behind; On that day man asks ''where to flee?'' but there is no refuge; the destination
+    is with God; God created humans (and things) in pairs, male and female; and 5 more.'
   basis: reading
 - text: 'Job - ''Your hands fashioned me''; land of darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

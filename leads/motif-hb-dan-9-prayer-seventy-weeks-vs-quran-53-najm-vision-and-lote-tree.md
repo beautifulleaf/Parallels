@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One mighty in power (shadid al-quwa) taught him, stood poised on
-    the highest horizon, then drew near and descended (weight 6.7). Pair score 6.7.'
+    the highest horizon, then drew near and descended (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Daniel''s penitential prayer and the seventy weeks: The angel arrives in swift flight
     at the time of the evening offering, while the seer is still praying; An anointed one (mashiah) is
@@ -39,11 +39,12 @@ evidence:
     ''By the star when it sets/falls (idha hawa)''; He saw him at a second descent by the Lote-Tree of
     the Boundary (sidrat al-muntaha), near the Garden of Refuge; The heavenly figure came within two bow-lengths
     or nearer (qaba qawsayn aw adna) and revealed to his servant; Leaders see God with a sapphire-like
-    pavement under his feet; He saw some of the greatest signs of his Lord; Your companion has not erred;
-    he does not speak from desire; it is only revelation revealed; Whether a prophet speaks from his own
-    heart or desire, or by revelation [contrast between the texts]; What or whom the visionaries saw:
-    God himself or his messenger [divergence between the texts]; No human can see God''s face and live;
-    A tree whose fruit gives eternal life.'
+    pavement under his feet; He saw some of the greatest signs of his Lord; Taken up to heaven, the mortal
+    looks from the horizon (base of heaven) to the heights of heaven and sees its awesomeness; Your companion
+    has not erred; he does not speak from desire; it is only revelation revealed; Whether a prophet speaks
+    from his own heart or desire, or by revelation [contrast between the texts]; A literary work is ''what
+    was revealed to'' a named sage or poet and what he then proclaimed; What or whom the visionaries saw:
+    God himself or his messenger [divergence between the texts]; and 2 more.'
   basis: reading
 - text: 'Daniel''s penitential prayer and the seventy weeks: tagged by Claude (model), reading the Hebrew.'
   basis: reading

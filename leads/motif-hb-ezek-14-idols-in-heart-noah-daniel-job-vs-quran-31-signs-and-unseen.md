@@ -20,33 +20,33 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the Day no parent can avail his child, nor child his parent (weight
-    6.7). Pair score 6.7.'
+    7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Idols in the heart; Noah, Daniel and Job could not save the land: God''s ''four evil
-    judgments'': sword, famine, evil beasts and pestilence; God himself will answer the idolater who inquires
-    of a prophet, making him a sign and a byword and cutting him off; If a prophet is enticed to speak,
-    ''I YHWH have enticed that prophet'' and will destroy him; Inquirers have ''set up their idols in
-    their hearts'' and put the stumbling-block of iniquity before their faces; Even if Noah, Daniel (Dan''el)
-    and Job were in the land, their righteousness would save only themselves, not sons or daughters; Survivors
-    from the doomed city will come to the exiles, who will be consoled on seeing their deeds that the
-    punishment was not without cause; God leads deniers step by step to ruin and grants them respite (istidraj);
-    Neither your blood-ties nor your children will benefit you on the Day of Resurrection; When a land
-    is destroyed only the righteous few are rescued, by their own righteousness; Whether the righteous
-    among a guilty people shield it from punishment [contrast between the texts]; Who is saved with the
-    hero from the destruction, and why [contrast between the texts]; Elders of the people come and sit
-    before the prophet in his house to inquire; and 5 more.'
+- text: 'Only in Idols in the heart; Noah, Daniel and Job could not save the land: God himself will answer
+    the idolater who inquires of a prophet, making him a sign and a byword and cutting him off; If a prophet
+    is enticed to speak, ''I YHWH have enticed that prophet'' and will destroy him; Inquirers have ''set
+    up their idols in their hearts'' and put the stumbling-block of iniquity before their faces; Even
+    if Noah, Daniel (Dan''el) and Job were in the land, their righteousness would save only themselves,
+    not sons or daughters; Survivors from the doomed city will come to the exiles, who will be consoled
+    on seeing their deeds that the punishment was not without cause; God leads deniers step by step to
+    ruin and grants them respite (istidraj); Neither your blood-ties nor your children will benefit you
+    on the Day of Resurrection; When a land is destroyed only the righteous few are rescued, by their
+    own righteousness; Whether the righteous among a guilty people shield it from punishment [contrast
+    between the texts]; Who is saved with the hero from the destruction, and why [contrast between the
+    texts]; Elders of the people come and sit before the prophet in his house to inquire; God''s ''four
+    evil judgments'': sword, famine, evil beasts and pestilence; and 5 more.'
   basis: reading
 - text: 'Only in God''s signs, the inexhaustible words, and the five things only God knows: Creating and
     resurrecting all of you is for God like a single soul; Waves overwhelm the ship like canopies (zulal);
     If all trees were pens and the sea, replenished by seven more seas, were ink, God''s words would not
     be exhausted; The religion of the fathers invoked, held to or renounced [contrast between the texts];
     Whoever rejects false gods (taghut) and believes in God grasps the firmest handhold that never breaks;
-    Only God knows when the mountain goats and hinds give birth and counts their months; God alone knows
-    the Hour, sends rain, knows what is in wombs; no soul knows what it will earn tomorrow or in what
-    land it will die; Seafarers cry to God in a storm; what they do once rescued [divergence between the
-    texts]; Sailors in a storm call on God sincerely, vow thanks, and transgress once saved; Rejecters
-    reply ''we follow what we found our fathers upon''; Sun and moon are subjected, each running to an
-    appointed term; God makes the night pass into the day and the day into the night; and 1 more.'
+    A great wave at sea; the man brought safe to land and what he then does for the deity [neutral] [divergence
+    between the texts]; No one knows what tomorrow will bring; Only God knows when the mountain goats
+    and hinds give birth and counts their months; God alone knows the Hour, sends rain, knows what is
+    in wombs; no soul knows what it will earn tomorrow or in what land it will die; Humans are not told
+    the day or the place of their death; No one knows what will happen when he thinks of tomorrow; Seafarers
+    cry to God in a storm; what they do once rescued [divergence between the texts]; and 5 more.'
   basis: reading
 - text: 'Idols in the heart; Noah, Daniel and Job could not save the land: tagged by Claude (model), reading
     the Hebrew.'

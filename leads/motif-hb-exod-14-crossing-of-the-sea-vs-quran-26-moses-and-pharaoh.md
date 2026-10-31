@@ -29,14 +29,14 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why Pharaoh pursues the departing Israelites [divergence between
-    the texts] (weight 6.7); How the sea was split for the crossing [divergence between the texts] (weight
-    6.7); The king musters his whole force to pursue the departing people (weight 6.7); Whether those
-    who saw the sea miracle believed [divergence between the texts] (weight 6.7); King regrets releasing
-    the slaves and pursues them with chariots (weight 6.3); ''Stand still and see the salvation of YHWH;
-    YHWH will fight for you'' (weight 6.3); Prophet stretches his staff over the sea and God splits it
-    with a strong east wind (weight 6.0); The people walk on dry ground through the sea with the waters
-    as a wall on either side (weight 5.3); The returning waters drown the pursuing army; not one survives
-    (weight 4.5). Pair score 55.1.'
+    the texts] (weight 7.7); How the sea was split for the crossing [divergence between the texts] (weight
+    7.7); The king musters his whole force to pursue the departing people (weight 7.7); Whether those
+    who saw the sea miracle believed [divergence between the texts] (weight 7.7); King regrets releasing
+    the slaves and pursues them with chariots (weight 7.3); ''Stand still and see the salvation of YHWH;
+    YHWH will fight for you'' (weight 7.3); Prophet stretches his staff over the sea and God splits it
+    with a strong east wind (weight 6.8); The people walk on dry ground through the sea with the waters
+    as a wall on either side (weight 6.4); The returning waters drown the pursuing army; not one survives
+    (weight 5.5). Pair score 64.4.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -57,9 +57,9 @@ evidence:
     your deed?''; Pharaoh threatens to imprison Moses if he takes a god other than Pharaoh; Before Pharaoh
     the staff becomes a manifest great serpent (thuʿbān); Prophet''s wonders are imitated by the king''s
     magicians in a contest [divergence between the texts]; The title of God in whose name Moses goes to
-    Pharaoh; Egypt reduced the Israelites to slavery; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; Whose forefathers'' God is proclaimed
-    in the Moses story [divergence between the texts]; and 34 more.'
+    Pharaoh; Egypt reduced the Israelites to slavery; The king of Egypt as a god who has no second / no
+    other god [neutral] [divergence between the texts]; How a public contest between God''s prophet and
+    the king''s religious specialists ends [contrast between the texts]; and 42 more.'
   basis: reading
 - text: 'The pursuit and the parting of the sea: tagged by Claude (model), reading the Hebrew.'
   basis: reading

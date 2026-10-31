@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
-    awake and sing (weight 4.9). Pair score 4.9.'
+    awake and sing (weight 6.0). Pair score 6.0.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
     of the river, with a linen-clad figure above the waters; Secret reckonings: 1,290 days from the abolition
@@ -35,14 +35,19 @@ evidence:
     periods); and 8 more.'
   basis: reading
 - text: 'Only in He frowned: the blind man and the honored scrolls: The prophet frowns and turns away
-    from a blind man who came seeking, while attending to a self-sufficient notable, and is rebuked; The
-    reminder is in honored, exalted, purified scrolls in the hands of noble, righteous scribes (safara);
-    On the day no friend asks after friend; a man flees his brother, mother, father, wife and sons, each
-    wholly occupied with himself; Judge fairly, favoring neither the poor nor the great; On that day some
-    faces are radiant, laughing and joyful, others scowling, dust-covered and overcast with darkness;
-    Land of wheat, barley, vine, fig, pomegranate, olive and honey; God pours down rain, splits the earth
-    and makes grain, grapes, olives, palms and pasture grow, as provision and sign; Human created in stages:
-    a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped and proportioned.'
+    from a blind man who came seeking, while attending to a self-sufficient notable, and is rebuked; Do
+    not rebuff (turn away) the one who comes asking [divergence between the texts]; In the catastrophe
+    a man turns away from wife, parents and children; Attending to the noble (self-sufficient) over the
+    poor man is rebuked; God loves him who honours the poor; The reminder is in honored, exalted, purified
+    scrolls in the hands of noble, righteous scribes (safara); In the catastrophe a man turns against
+    or flees from his own brother and kin [divergence between the texts]; On the day no friend asks after
+    friend; a man flees his brother, mother, father, wife and sons, each wholly occupied with himself;
+    Who made the grain grow, to feed which beings [divergence between the texts]; At the judgment friends
+    no longer speak to or recognise each other and brother neglects brother; The day of catastrophe is
+    described by the list of kin it overrides: mother, father, wife, child, brother [divergence between
+    the texts]; A man flees from his brother, each concerned only with himself; On that day some faces
+    are radiant, laughing and joyful, others scowling, dust-covered and overcast with darkness; and 4
+    more.'
   basis: reading
 - text: 'Michael arises, the resurrection, and the sealed book: tagged by Claude (model), reading the
     Hebrew.'

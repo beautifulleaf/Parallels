@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Have they not traveled in the land and seen the end of those before
-    them? (weight 6.7). Pair score 6.7.'
+    them? (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The temple sermon - a den of robbers; remember Shiloh: God''s house has become ''a den
     of robbers'' in the people''s eyes; Do not trust deceptive words: ''The temple of YHWH, the temple
@@ -38,10 +38,10 @@ evidence:
     and admits them to a Garden he has made known to them; The signs/portents (ashrat) of the Hour have
     already come; The prophet is told to ask forgiveness for his own sin and for the believing men and
     women; In battle, strike the necks of unbelievers; when they are subdued bind them, then free them
-    as favor or for ransom until war lays down its burdens; Four rivers in the Garden [divergence between
-    the texts]; If you help God he will help you and make your feet firm; The Hour will come upon them
-    suddenly while they are unaware; Streams and rivers flowing with honey and curds (denied to the wicked);
-    Rivers or streams of honey and milk (curds) [divergence between the texts]; and 9 more.'
+    as favor or for ransom until war lays down its burdens; People eat as sheep or cattle eat; Four rivers
+    in the Garden [divergence between the texts]; If you help God he will help you and make your feet
+    firm; The Hour will come upon them suddenly while they are unaware; Whether a bound captive is released
+    or killed [contrast between the texts]; and 14 more.'
   basis: reading
 - text: 'The temple sermon - a den of robbers; remember Shiloh: tagged by Claude (model), reading the
     Hebrew.'

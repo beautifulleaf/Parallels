@@ -13,19 +13,20 @@ traditions:
 layers:
 - motif
 motifs:
+- calf-maker-cursed-untouchable-as-divergence
 - calf-burned-ground-dust-in-stream-as-divergence
 - moses-seizes-aarons-beard-as-divergence
-- calf-maker-cursed-untouchable-as-divergence
 - calf-lows
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Calf burned, ground to dust, and the dust thrown into the stream
-    [divergence between the texts] (weight 6.7); In anger Moses seizes his brother by the beard and head;
-    Aaron pleads ''son of my mother'' [divergence between the texts] (weight 6.7); The calf-maker is condemned
-    to say all his life ''No touching!'' (lā misās), an outcast [divergence between the texts] (weight
-    6.7); The idol calf is a body that makes a lowing sound (khuwar) (weight 6.3). Pair score 26.4.'
+- text: 'Shared motifs, rarest first: The calf-maker is condemned to say all his life ''No touching!''
+    (lā misās), an outcast [divergence between the texts] (weight 7.7); Calf burned, ground to dust, and
+    the dust thrown into the stream [divergence between the texts] (weight 7.7); In anger Moses seizes
+    his brother by the beard and head; Aaron pleads ''son of my mother'' [divergence between the texts]
+    (weight 7.7); The idol calf is a body that makes a lowing sound (khuwar) (weight 7.3). Pair score
+    30.6.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -40,15 +41,15 @@ evidence:
   basis: reading
 - text: 'Only in Moses hastens to the appointment; the Samiri and the calf: Aaron explains he feared being
     blamed for dividing the children of Israel; Aaron warns the people against the calf; they refuse to
-    stop until Moses returns; The calf is burned and its remains scattered in the sea (yamm); The calf-maker
-    is condemned to say all his life ''No touching!'' (lā misās), an outcast; The calf-maker took a handful
-    (of dust) from the track of the messenger and cast it in; God asks Moses why he hastened ahead of
-    his people to the appointment; In anger Moses seizes his brother by the beard and head; Aaron pleads
-    ''son of my mother''; Calf burned, ground to dust, and the dust thrown into the stream; The calf is
-    hailed as the god who brought Israel out of Egypt [divergence between the texts]; God asks Moses why
-    he hastened ahead of his people to the appointment [divergence between the texts]; A man called al-Sāmirī
-    leads Israel astray and makes the calf; A man called al-Sāmirī leads Israel astray and makes the calf
-    [divergence between the texts]; and 6 more.'
+    stop until Moses returns; The calf-maker is condemned to say all his life ''No touching!'' (lā misās),
+    an outcast; The calf-maker took a handful (of dust) from the track of the messenger and cast it in;
+    God asks Moses why he hastened ahead of his people to the appointment; In anger Moses seizes his brother
+    by the beard and head; Aaron pleads ''son of my mother''; Calf burned, ground to dust, and the dust
+    thrown into the stream; The calf is burned and its remains scattered in the sea (yamm); The calf is
+    hailed as the god who brought Israel out of Egypt [divergence between the texts]; A sorcerer takes
+    the dirt of someone''s footprint for a magical act; A sorcerer takes the dirt of someone''s footprint
+    for a magical act [divergence between the texts]; Metal is gathered or requested to make a god [divergence
+    between the texts]; and 10 more.'
   basis: reading
 - text: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: tagged by Claude (model), reading
     the Hebrew.'

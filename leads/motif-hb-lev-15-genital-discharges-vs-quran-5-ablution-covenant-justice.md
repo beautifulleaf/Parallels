@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Bathing in water after sexual emission or intercourse (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Bathing in water after sexual emission or intercourse (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Impurity of bodily discharges, semen and menstruation: Human impurity defiles God''s
     dwelling in their midst and endangers them; Impurity passes to the bed, seat or saddle of the unclean
@@ -36,11 +36,12 @@ evidence:
 - text: 'Only in Ablution, the covenant ''we hear and obey'', and justice despite hatred: Before prayer
     wash the face, hands to the elbows, wipe the head and wash feet to the ankles; God restrained a people
     who meant to stretch out their hands against the believers; A bronze laver where priests wash hands
-    and feet before service, lest they die [divergence between the texts]; One in major impurity (junub)
-    must bathe before prayer, except a traveller passing through; Without water, purify with clean earth
-    (tayammum), wiping face and hands; Let not hatred of a people move you to injustice; be just; A bronze
-    laver where priests wash hands and feet before service, lest they die; The people answer as one: all
-    that YHWH has spoken we will do.'
+    and feet before service, lest they die [divergence between the texts]; Hands must be washed before
+    they are raised in prayer or before prayer; One in major impurity (junub) must bathe before prayer,
+    except a traveller passing through; Without water, purify with clean earth (tayammum), wiping face
+    and hands; Let not hatred of a people move you to injustice; be just; A bronze laver where priests
+    wash hands and feet before service, lest they die; The people answer as one: all that YHWH has spoken
+    we will do.'
   basis: reading
 - text: 'Impurity of bodily discharges, semen and menstruation: tagged by Claude (model), reading the
     Hebrew.'

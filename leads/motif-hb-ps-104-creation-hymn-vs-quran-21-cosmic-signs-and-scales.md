@@ -20,30 +20,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God set firm mountains on the earth lest it sway with people (weight
-    5.6); Sun and moon are set to rule day and night and mark signs and seasons (weight 4.7). Pair score
-    10.3.'
+    6.6); Sun and moon are set to rule day and night and mark signs and seasons (weight 5.5). Pair score
+    12.1.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 39 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 39 more.'
   basis: reading
-- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: The heavens and earth
-    were a closed-up mass (ratq) that God split apart (fatq); Man was created of haste; Creation proceeds
-    by dividing (light/darkness, waters above/below); God comes to the land, reducing it from its outlying
-    parts; God made every living thing from water [divergence between the texts]; God gave Moses and Aaron
-    the Criterion (al-furqān), a light and reminder; The heavens and earth were a closed-up mass (ratq)
-    that God split apart (fatq) [divergence between the texts]; God made the sky a protected roof; ''Let
-    God weigh me in just balances and know my integrity'' [divergence between the texts]; God made every
-    living thing from water; Just scales are set up on the day of resurrection; even a mustard seed''s
-    weight is brought forth; ''Let God weigh me in just balances and know my integrity''; and 3 more.'
+- text: 'Only in The split heavens, water of life, orbits, mortality and the scales: Man was created of
+    haste; A balance set upright / just balances set up for the judgment; God comes to the land, reducing
+    it from its outlying parts; God made every living thing from water [divergence between the texts];
+    Whether a human, such as the flood hero, is granted eternal life; God gave Moses and Aaron the Criterion
+    (al-furqān), a light and reminder; When the gods created mankind they allotted death to them and kept
+    life in their own hands; At the beginning heaven and earth, once together, were separated; The heavens
+    and earth were a closed-up mass (ratq) that God split apart (fatq); The heavens and earth were a closed-up
+    mass (ratq) that God split apart (fatq) [divergence between the texts]; God made the sky a protected
+    roof; ''Let God weigh me in just balances and know my integrity'' [divergence between the texts];
+    and 11 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

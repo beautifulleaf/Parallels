@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
-    are blotted (weight 4.6). Pair score 4.5.'
+    are blotted (weight 5.4). Pair score 5.4.'
   basis: reading
 - text: 'Only in Psalm 56, when the Philistines seized David in Gath: Every thirst, fatigue, hunger, step
     and valley crossed in God''s cause is written as a good deed; God counts the sufferer''s wanderings

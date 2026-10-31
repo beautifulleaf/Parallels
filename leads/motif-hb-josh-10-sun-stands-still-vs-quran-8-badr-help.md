@@ -21,29 +21,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''You did not throw when you threw, but God threw'': the victory
-    is God''s act (weight 6.7); God sends terror ahead to panic the enemies (weight 6.0). Pair score 12.7.'
+    is God''s act (weight 7.3); God sends terror ahead to panic the enemies (weight 6.8). Pair score 14.2.'
   basis: reading
 - text: 'Only in Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern
-    campaign: Summary of a sweeping conquest of the whole south from Kadesh-barnea to Gaza; Captains put
-    their feet on the necks of captured kings; Five kings form an alliance and are defeated together;
-    God heeds the command of a man, a unique event; A king of Jerusalem bears a name with ''tsedeq'' (Adoni-zedek,
-    Melchizedek); Defeated kings hide in a cave, which is sealed with great stones; The army marches all
-    night and attacks the enemy by surprise; Idiom: no one ''sharpened his tongue'' against Israel; A
-    lost source book is cited (the Book of Jashar); A captured enemy king is killed and hanged on a tree
-    until sunset, then buried under stones; God throws the enemy into confusion and panic before Israel;
-    At a leader''s command the sun and moon stand still until the battle is won; and 3 more.'
+    campaign: Summary of a sweeping conquest of the whole south from Kadesh-barnea to Gaza; Five kings
+    form an alliance and are defeated together; God heeds the command of a man, a unique event; A king
+    of Jerusalem bears a name with ''tsedeq'' (Adoni-zedek, Melchizedek); Defeated kings hide in a cave,
+    which is sealed with great stones; The army marches all night and attacks the enemy by surprise; Idiom:
+    no one ''sharpened his tongue'' against Israel; A lost source book is cited (the Book of Jashar);
+    A captured enemy king is killed and hanged on a tree until sunset, then buried under stones; God throws
+    the enemy into confusion and panic before Israel; At a leader''s command the sun and moon stand still
+    until the battle is won; God casts great hailstones from heaven, killing more than the sword; and
+    3 more.'
   basis: reading
 - text: 'Only in Badr - angels, slumber, rain and God''s throw: Rain is sent down before battle to purify
     the fighters, remove Satan''s filth and make their feet firm; Some believers dispute the call to battle
     as if driven to death with their eyes open; God covers the fighters with slumber as a security from
     him before battle; Angels are told to strike the enemy above the necks and on every finger-tip; God
-    reduces the army so that Israel cannot boast its own hand saved it; Fleeing the battle line is forbidden
-    except as a maneuver or to join another unit; Ruling on soldiers who fear battle [contrast between
-    the texts]; The threatened people cry to God before the decisive encounter [divergence between the
-    texts]; Priest addresses the army before battle: do not fear, God fights for you; God cuts off the
-    last remnant (root, dabir) of a people who denied; The victory is credited to God, not to the fighters
-    [divergence between the texts]; God''s angels strike the enemy army [divergence between the texts];
-    and 2 more.'
+    reduces the army so that Israel cannot boast its own hand saved it; Hard pressed by a superior enemy,
+    a leader or army calls on God and God answers; Fleeing the battle line is forbidden except as a maneuver
+    or to join another unit; Ruling on soldiers who fear battle [contrast between the texts]; The threatened
+    people cry to God before the decisive encounter [divergence between the texts]; Priest addresses the
+    army before battle: do not fear, God fights for you; God cuts off the last remnant (root, dabir) of
+    a people who denied; The victory is credited to God, not to the fighters [divergence between the texts];
+    and 5 more.'
   basis: reading
 - text: 'Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern campaign:
     tagged by Claude (model), reading the Hebrew.'

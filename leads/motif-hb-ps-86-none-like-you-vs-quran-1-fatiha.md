@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God called al-Rahman and al-Rahim (the Merciful, the Compassionate),
-    paired names from the root r-h-m (womb, mercy) (weight 6.0); Prayer to be guided on the straight path
-    (al-sirat al-mustaqim) (weight 5.8). Pair score 11.8.'
+    paired names from the root r-h-m (womb, mercy) (weight 7.1); Prayer to be guided on the straight path
+    (al-sirat al-mustaqim) (weight 6.8). Pair score 13.9.'
   basis: reading
 - text: 'Only in Psalm 86, a prayer of David; there is none like you among the gods: God delivered the
-    speaker''s soul from the lowest Sheol (she''ol tahtiyyah); Petitioner asks God for a sign of favor
-    so his enemies may see and be ashamed; Prayer ''Unite my heart to fear your name''; Elias (Ilyas)
-    rebukes his people: ''Will you call on Ba''l and forsake the best of creators?''; Petitioner calls
-    himself ''the son of your handmaid''; All flesh, or all nations, come to God to pray or worship; Individual
-    lament: a sufferer complains of enemies or distress, petitions God and vows praise; Formula of divine
-    attributes: slow to anger, abundant in mercy, visits iniquity to fourth generation; ''Who is like
-    you among the gods, YHWH?''.'
+    speaker''s soul from the lowest Sheol (she''ol tahtiyyah); Prayer ''Unite my heart to fear your name'';
+    Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake the best of creators?''; Petitioner
+    asks God for a sign of favor so his enemies may see and be ashamed; Petitioner calls himself ''the
+    son of your handmaid''; All flesh, or all nations, come to God to pray or worship; Individual lament:
+    a sufferer complains of enemies or distress, petitions God and vows praise; Formula of divine attributes:
+    slow to anger, abundant in mercy, visits iniquity to fourth generation; ''Who is like you among the
+    gods, YHWH?''.'
   basis: reading
 - text: 'Only in The Opening (al-Fatiha): Text or act opened with the formula ''In the name of God, the
     Merciful, the Compassionate''; Three ways contrasted: those God favored, those under wrath, and those

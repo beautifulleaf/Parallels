@@ -19,25 +19,27 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A son of Noah is found unworthy, and what follows [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Noah''s vineyard, Ham''s sin and the curse of Canaan; Noah''s death: Curse falls on Canaan,
-    son of the offender, to be a slave of slaves; First planter of a vineyard becomes drunk; A son sees
-    his father''s nakedness and is cursed for it; Sons cover their father''s nakedness walking backward
-    with averted faces; How the story of Noah ends [divergence between the texts]; Noah''s span of 950
-    years, and what it measures [divergence between the texts]; Three sons of the flood hero repopulate
-    the whole earth; Hero''s life or mission spans 950 years.'
+    son of the offender, to be a slave of slaves; A son sees his father''s nakedness and is cursed for
+    it; Sons cover their father''s nakedness walking backward with averted faces; First planter of a vineyard
+    becomes drunk; How the story of Noah ends [divergence between the texts]; Noah''s span of 950 years,
+    and what it measures [divergence between the texts]; Three sons of the flood hero repopulate the whole
+    earth; Hero''s life or mission spans 950 years.'
   basis: reading
 - text: 'Only in Noah, the boiling oven, the lost son and al-Judi: Embark: ''in the name of God be its
     sailing and its mooring''; God commands: ''Earth, swallow your water; sky, withhold!'' and the water
     subsides; Noah reminds God that his son is of his family and God''s promise is true; The elite scorn
     the prophet because only the lowest of them follow him; God answers that the drowned son is not of
     Noah''s family: ''he is a deed not righteous''; The prophet''s stories are ''tidings of the unseen''
-    unknown to him and his people before; The ark sails through waves like mountains; What the flood hero
-    does when the vessel comes to rest; What God says of later generations after the flood: no repeat,
-    or punishment to come [contrast between the texts]; How the flood waters are stopped and subside [divergence
-    between the texts]; The prophet''s opponents object that only the lowliest follow him; he refuses
-    to drive the believers away; Someone seeks refuge on a mountain and is drowned; and 28 more.'
+    unknown to him and his people before; The ark sails through waves like mountains; The flood hero is
+    blessed after the flood; the content of the blessing [divergence between the texts]; What the flood
+    hero receives when he leaves the vessel [divergence between the texts]; A son who rejects his father''s
+    teaching is to be driven away: ''he is not your son, he was not born to you'' [divergence between
+    the texts]; The earth is addressed in the vocative and bidden to open, receive or swallow something
+    [shared matter] [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; and 41 more.'
   basis: reading
 - text: 'Noah''s vineyard, Ham''s sin and the curse of Canaan; Noah''s death: tagged by Claude (model),
     reading the Hebrew.'

@@ -19,28 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Let not hatred of a people move you to injustice; be just (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Covenant Code - justice, enemy''s animal, sabbatical year, festivals: Return your enemy''s
     stray animal and help his overloaded donkey; Neither favor nor pervert justice for the poor in his
     lawsuit; Whoever commits a sin and casts it on an innocent bears slander and manifest sin; God does
     not forbid kindness and justice toward those who did not fight you over religion or expel you; Do
     not offer sacrificial blood with leavened bread; fat not left until morning; No one shall appear before
-    God empty-handed; Do not oppress the stranger, for you were strangers in Egypt; The land lies fallow
-    in the seventh year for the poor and wild animals; Do not invoke the names of other gods; Prohibition
-    of boiling a kid in its mother''s milk; Do not spread false reports or follow the majority to do wrong
-    in court; How often and when pilgrimage is made [divergence between the texts]; and 6 more.'
+    God empty-handed; The land lies fallow in the seventh year for the poor and wild animals; Do not invoke
+    the names of other gods; Do not spread false reports or follow the majority to do wrong in court;
+    How often and when pilgrimage is made [divergence between the texts]; Who must make pilgrimage to
+    the sanctuary, and how often [divergence between the texts]; Do not oppress the stranger, for you
+    were strangers in Egypt; and 6 more.'
   basis: reading
 - text: 'Only in Contracts, pilgrim sanctity and the forbidden foods: The food of the People of the Book
-    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Sacrificial
-    animals (hady) marked with garlands (qalāʾid) are inviolable; Believers may marry chaste women of
-    the People of the Book; ''Today I have perfected your religion and completed my favor''; The sacred
-    month and God''s rites must not be profaned; Forbidden: the strangled, the beaten to death, the fallen
-    and the gored animal; What trained hunting animals (dogs, birds of prey) catch is lawful, with God''s
-    name pronounced; Divination by shaking or drawing arrows (belomancy); Eating carrion or torn flesh
-    is forbidden or defiling [divergence between the texts]; Seeking decisions by divining arrows (azlām)
-    is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten [divergence between the
-    texts]; and 10 more.'
+    is lawful to believers and theirs to them; Fulfil your contracts and covenants (ʿuqūd); Believers
+    may marry chaste women of the People of the Book; ''Today I have perfected your religion and completed
+    my favor''; The sacred month and God''s rites must not be profaned; Forbidden: the strangled, the
+    beaten to death, the fallen and the gored animal; What trained hunting animals (dogs, birds of prey)
+    catch is lawful, with God''s name pronounced; Divination by shaking or drawing arrows (belomancy);
+    Eating carrion or torn flesh is forbidden or defiling [divergence between the texts]; Seeking decisions
+    by divining arrows (azlām) is forbidden; Flesh of an animal torn by a beast of prey is not to be eaten
+    [divergence between the texts]; Sacrificial animals (hady) marked with garlands (qalāʾid) are inviolable;
+    and 10 more.'
   basis: reading
 - text: 'Covenant Code - justice, enemy''s animal, sabbatical year, festivals: tagged by Claude (model),
     reading the Hebrew.'

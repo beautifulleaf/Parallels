@@ -15,35 +15,35 @@ traditions:
 layers:
 - motif
 motifs:
-- lot-forbidden-to-host-strangers
 - host-offers-daughters-as-divergence
-- lots-wife-among-those-left-behind-as-divergence
-- angels-sent-against-criminal-people-as-divergence
-- angels-lodge-with-lot-as-divergence
-- cities-overturned-as-divergence
+- lot-forbidden-to-host-strangers
 - do-not-look-back-as-divergence
-- do-not-look-back
-- angels-lodge-with-lot
-- mob-demands-guest
+- angels-lodge-with-lot-as-divergence
+- lots-wife-among-those-left-behind-as-divergence
+- cities-overturned-as-divergence
+- angels-sent-against-criminal-people-as-divergence
 - host-offers-daughters
+- mob-demands-guest
+- angels-lodge-with-lot
 - cities-overturned
+- do-not-look-back
 - family-saved
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The townsmen remind Lot they had forbidden him to receive outsiders
-    (weight 6.7); Host offers his virgin daughters to the mob to protect his guests [divergence between
-    the texts] (weight 6.7); Lot''s wife is among those who stay behind and perish [divergence between
-    the texts] (weight 6.7); The angelic guests reveal they are sent against a criminal people [divergence
-    between the texts] (weight 6.7); Two angels are received as guests by Lot in Sodom [divergence between
-    the texts] (weight 6.7); Cities overturned (hafakh) and the plain destroyed [divergence between the
-    texts] (weight 6.7); Command not to look back while fleeing a doomed place [divergence between the
-    texts] (weight 6.7); Command not to look back while fleeing a doomed place (weight 6.3); Two angels
-    are received as guests by Lot in Sodom (weight 6.0); Townsmen surround the house and demand the male
-    guest for sexual abuse (weight 6.0); Host offers his virgin daughters to the mob to protect his guests
-    (weight 6.0); Cities overturned (hafakh) and the plain destroyed (weight 5.6); Hero''s family saved
-    with him (weight 4.5). Pair score 81.2.'
+- text: 'Shared motifs, rarest first: Host offers his virgin daughters to the mob to protect his guests
+    [divergence between the texts] (weight 7.7); The townsmen remind Lot they had forbidden him to receive
+    outsiders (weight 7.7); Command not to look back while fleeing a doomed place [divergence between
+    the texts] (weight 7.7); Two angels are received as guests by Lot in Sodom [divergence between the
+    texts] (weight 7.7); Lot''s wife is among those who stay behind and perish [divergence between the
+    texts] (weight 7.7); Cities overturned (hafakh) and the plain destroyed [divergence between the texts]
+    (weight 7.7); The angelic guests reveal they are sent against a criminal people [divergence between
+    the texts] (weight 7.7); Host offers his virgin daughters to the mob to protect his guests (weight
+    7.1); Townsmen surround the house and demand the male guest for sexual abuse (weight 7.1); Two angels
+    are received as guests by Lot in Sodom (weight 7.1); Cities overturned (hafakh) and the plain destroyed
+    (weight 6.6); Command not to look back while fleeing a doomed place (weight 6.6); Hero''s family saved
+    with him (weight 5.4). Pair score 94.1.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -61,11 +61,12 @@ evidence:
     following behind them; God swears by the prophet''s life (la-''amruka); The patriarch tells his unknown
     guests ''we are afraid of you''; The ruins of the destroyed towns lie on a road still traveled; The
     doomed people are seized by the Shout (al-sayha) at dawn or sunrise; Do not despair of God''s mercy
-    (rawh / rahma); only unbelievers or the astray despair; The patriarch tells his unknown guests ''we
-    are afraid of you'' [divergence between the texts]; Patriarch or matriarch laughs at the promise of
-    a child in old age [divergence between the texts]; Lot''s wife is among those who stay behind and
-    perish; Stones of baked clay (sijjil), in layers, each marked by the Lord, rain on the town; God appears
-    as three men who visit the patriarch; and 2 more.'
+    (rawh / rahma); only unbelievers or the astray despair; Command: on leaving, do not look behind you
+    (ana arkīka lā tappallas / lā yaltafit minkum aḥad) [divergence between the texts]; An oath sworn
+    by the life of a person (''as X lives'', ''by your life''); The patriarch tells his unknown guests
+    ''we are afraid of you'' [divergence between the texts]; Patriarch or matriarch laughs at the promise
+    of a child in old age [divergence between the texts]; Not looking back when leaving behind the doomed
+    place or the banished evil [divergence between the texts]; and 6 more.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

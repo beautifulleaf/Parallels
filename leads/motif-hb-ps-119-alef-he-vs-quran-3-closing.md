@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Meditate on the book of the Torah day and night; it shall not depart
-    from your mouth (weight 6.0). Pair score 6.0.'
+    from your mouth (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Psalm 119, stanzas alef to he: Prayer ''Open my eyes that I may behold wonders out of
     your Torah''; Speaker calls himself a stranger (ger) on the earth; Torah praised under a fixed set

@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
-    [contrast between the texts] (weight 5.4). Pair score 5.4.'
+    [contrast between the texts] (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Nathan''s oracle of the eternal house of David and David''s prayer: God''s steadfast
-    love will not be withdrawn from the heir as it was from the previous king; The king, living in a cedar
-    palace, proposes to build a house for God; Obscure phrase ''this is the torah of man (adam)''; Wordplay
-    on ''house'' as temple and as dynasty; God has never dwelt in a house but moved from tent to tent;
-    God promises to make the chosen one''s name great; Israel is the one nation on earth whom God went
-    to redeem for himself; A prophet approves a plan, then is corrected by a revelation that night; God
-    took the ruler from following the sheep; The king''s son, not the king, will build the house for God''s
-    name; Prayer of humility: ''Who am I and what is my house?''; God disciplines Israel as a man disciplines
-    his son; and 4 more.'
+    love will not be withdrawn from the heir as it was from the previous king; Obscure phrase ''this is
+    the torah of man (adam)''; Wordplay on ''house'' as temple and as dynasty; God has never dwelt in
+    a house but moved from tent to tent; God promises to make the chosen one''s name great; Israel is
+    the one nation on earth whom God went to redeem for himself; A prophet approves a plan, then is corrected
+    by a revelation that night; God took the ruler from following the sheep; Prayer of humility: ''Who
+    am I and what is my house?''; The king''s son, not the king, will build the house for God''s name;
+    God declares the king his son: ''I will be his father and he my son''; Whether God has, begets or
+    takes sons or other offspring [contrast between the texts]; and 4 more.'
   basis: reading
 - text: 'Only in The son of Mary as an example and sign of the Hour; the Garden with golden dishes; Malik
     of hell: The guilty remain in the punishment of Gehenna forever; it is not lightened for them and
@@ -43,7 +43,7 @@ evidence:
     God to end them, and he answers ''You will remain''; Those invoked besides God have no power of intercession,
     except one who bore witness to the truth; The righteous enter the Garden with their spouses, made
     joyful; The prophet is told to turn away from the scoffers and say ''Peace'' (salam), for they will
-    come to know; and 11 more.'
+    come to know; and 12 more.'
   basis: reading
 - text: 'Nathan''s oracle of the eternal house of David and David''s prayer: tagged by Claude (model),
     reading the Hebrew.'

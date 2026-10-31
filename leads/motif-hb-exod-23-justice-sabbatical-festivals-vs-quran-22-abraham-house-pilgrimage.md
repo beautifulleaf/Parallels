@@ -15,27 +15,27 @@ traditions:
 layers:
 - motif
 motifs:
-- pilgrimage-festival-calendar-as-divergence
 - do-not-mention-other-gods-names
+- pilgrimage-festival-calendar-as-divergence
 - three-pilgrimage-festivals
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Who must make pilgrimage to the sanctuary, and how often [divergence
-    between the texts] (weight 6.3); Do not invoke the names of other gods (weight 6.3); Three annual
-    pilgrimage festivals when every male appears before God (weight 5.3). Pair score 17.9.'
+- text: 'Shared motifs, rarest first: Do not invoke the names of other gods (weight 7.3); Who must make
+    pilgrimage to the sanctuary, and how often [divergence between the texts] (weight 7.3); Three annual
+    pilgrimage festivals when every male appears before God (weight 6.4). Pair score 21.0.'
   basis: reading
 - text: 'Only in Covenant Code - justice, enemy''s animal, sabbatical year, festivals: Return your enemy''s
     stray animal and help his overloaded donkey; Neither favor nor pervert justice for the poor in his
     lawsuit; Whoever commits a sin and casts it on an innocent bears slander and manifest sin; God does
     not forbid kindness and justice toward those who did not fight you over religion or expel you; Do
     not offer sacrificial blood with leavened bread; fat not left until morning; No one shall appear before
-    God empty-handed; Do not oppress the stranger, for you were strangers in Egypt; The land lies fallow
-    in the seventh year for the poor and wild animals; Let not hatred of a people move you to injustice;
-    be just; Prohibition of boiling a kid in its mother''s milk; Do not spread false reports or follow
-    the majority to do wrong in court; How often and when pilgrimage is made [divergence between the texts];
-    and 4 more.'
+    God empty-handed; The land lies fallow in the seventh year for the poor and wild animals; Let not
+    hatred of a people move you to injustice; be just; Do not spread false reports or follow the majority
+    to do wrong in court; How often and when pilgrimage is made [divergence between the texts]; Do not
+    oppress the stranger, for you were strangers in Egypt; Prohibition of boiling a kid in its mother''s
+    milk; and 4 more.'
   basis: reading
 - text: 'Only in Abraham, the Ancient House and the rites of pilgrimage and sacrifice: Abraham is told
     to proclaim the pilgrimage; people come on foot and on lean camels from every deep ravine; Pilgrims
@@ -48,7 +48,8 @@ evidence:
     Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends; Eat
     of the sacrificial animals and feed the wretched poor and the needy; God appointed for every community
     a rite of sacrifice (mansak); What is done with the blood of sacrifices, and whether it reaches God
-    [divergence between the texts]; A place recognized as the house of God and gate of heaven; and 4 more.'
+    [divergence between the texts]; Whether the deity eats (receives) the food and drink of the offerings
+    [divergence between the texts]; and 13 more.'
   basis: reading
 - text: 'Covenant Code - justice, enemy''s animal, sabbatical year, festivals: tagged by Claude (model),
     reading the Hebrew.'

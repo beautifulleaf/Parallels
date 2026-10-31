@@ -18,29 +18,30 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life (weight 5.3).
-    Pair score 5.3.'
+- text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life (weight 5.9).
+    Pair score 5.9.'
   basis: reading
 - text: 'Only in The Ten Words and the people''s fear: God identifies himself as the one who brought Israel
-    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; Do
-    not take God''s name in vain; The prophet approaches the thick darkness where God is; Sexual relations
-    with a neighbor''s wife are forbidden [divergence between the texts]; Prohibition of coveting the
-    neighbor''s wife and property [divergence between the texts]; Do not kill the soul God has made sacred
-    except by right [divergence between the texts]; No other gods before YHWH [divergence between the
-    texts]; The ground and the reward of the duty to parents [divergence between the texts]; The Sabbath
-    is justified by God''s resting on the seventh day of creation; The Sabbath was imposed only on those
-    who differed about it [response between the texts]; The Ten Commandments (Decalogue) [divergence between
-    the texts]; and 13 more.'
+    out of Egypt, the house of slaves; The people ''see'' the voices or thunder at the revelation; The
+    prophet approaches the thick darkness where God is; Sexual relations with a neighbor''s wife are forbidden
+    [divergence between the texts]; Prohibition of coveting the neighbor''s wife and property [divergence
+    between the texts]; Do not kill the soul God has made sacred except by right [divergence between the
+    texts]; No other gods before YHWH [divergence between the texts]; The ground and the reward of the
+    duty to parents [divergence between the texts]; The Sabbath is justified by God''s resting on the
+    seventh day of creation; The Sabbath was imposed only on those who differed about it [response between
+    the texts]; The Ten Commandments (Decalogue) [divergence between the texts]; Do not stretch your eyes
+    toward the worldly splendor given to others to test them; and 13 more.'
   basis: reading
 - text: 'Only in The circle of kindness, misers, and the atom''s weight: Misers who urge stinginess and
     hide what God gave them of his bounty; On that day the disbelievers wish the earth were leveled over
-    them; God does not wrong anyone by an atom''s weight (mithqāl dharra); Good works (spending, prayer)
-    done to be seen by people (riyāʾ); God multiplies a good deed (tenfold) while an evil deed is requited
-    only by its like; Love your neighbor as yourself; They will say to the mountains ''Cover us'' and
-    to the hills ''Fall on us''; Kindness to the near neighbor, the distant neighbor, the companion at
-    one''s side and the wayfarer; Whoever turns from God''s remembrance is assigned a devil as constant
-    companion (qarin), whom he curses at the judgment; On judgment day a witness is brought from every
-    nation, and the Prophet as witness over them.'
+    them; God does not wrong anyone by an atom''s weight (mithqāl dharra); Being covered over by a mountain
+    or by the earth: cursed on others or wished for oneself [shared matter] [divergence between the texts];
+    Good works (spending, prayer) done to be seen by people (riyāʾ); God multiplies a good deed (tenfold)
+    while an evil deed is requited only by its like; Love your neighbor as yourself; Kindness to the near
+    neighbor, the distant neighbor, the companion at one''s side and the wayfarer; Whoever turns from
+    God''s remembrance is assigned a devil as constant companion (qarin), whom he curses at the judgment;
+    They will say to the mountains ''Cover us'' and to the hills ''Fall on us''; On judgment day a witness
+    is brought from every nation, and the Prophet as witness over them.'
   basis: reading
 - text: 'The Ten Words and the people''s fear: tagged by Claude (model), reading the Hebrew.'
   basis: reading

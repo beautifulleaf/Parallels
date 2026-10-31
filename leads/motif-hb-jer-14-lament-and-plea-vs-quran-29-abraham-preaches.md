@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Can any of the nations'' vanities bring rain, or can the heavens
-    give showers? Only YHWH (weight 6.7). Pair score 6.7.'
+    give showers? Only YHWH (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Let my eyes run with tears; do not spurn us: God sends down rain after people have despaired
     and spreads out his mercy; The prophet wishes his head were waters and his eyes a fountain of tears

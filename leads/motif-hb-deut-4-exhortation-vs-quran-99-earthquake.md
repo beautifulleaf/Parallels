@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven and earth called as witnesses against the people (weight
-    5.8). Pair score 5.8.'
+    5.7). Pair score 5.7.'
   basis: reading
 - text: 'Only in Exhortation at Horeb''s memory; no image; exile and return: No other nation has a god
     so near whenever they call on him; Keeping the law will make the nations call Israel wise; They forgot
@@ -33,10 +33,12 @@ evidence:
     and 11 more.'
   basis: reading
 - text: 'Only in The earthquake: the earth tells its news: Whoever does an atom''s weight (mithqal dharra)
-    of good will see it, and an atom''s weight of evil will see it; On that day the earth will tell its
-    news, because its Lord inspired it; At the end the earth is stretched out, casts out what is in it
-    (its burdens) and empties itself; On that day a great earthquake shakes the land; fish, birds, beasts,
-    creeping things and all humans quake before God, mountains are thrown down and every wall falls.'
+    of good will see it, and an atom''s weight of evil will see it; Whether the wrongs a man did on earth
+    are counted against him at the judgment [contrast between the texts]; On that day the earth will tell
+    its news, because its Lord inspired it; At the end the earth is stretched out, casts out what is in
+    it (its burdens) and empties itself; On that day a great earthquake shakes the land; fish, birds,
+    beasts, creeping things and all humans quake before God, mountains are thrown down and every wall
+    falls.'
   basis: reading
 - text: 'Exhortation at Horeb''s memory; no image; exile and return: tagged by Claude (model), reading
     the Hebrew.'

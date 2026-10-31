@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The quake of the Hour: every nursing mother forgets her suckling,
-    every pregnant one miscarries, people seem drunk though not drunk (weight 6.3). Pair score 6.3.'
+    every pregnant one miscarries, people seem drunk though not drunk (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in The earth laid waste; the host of heaven imprisoned; YHWH reigns on Zion: The ''city
     of chaos'' (qiryat tohu) is broken; every house shut, joy banished; The earth is polluted under its
@@ -30,20 +30,23 @@ evidence:
     and the kings of the earth, gathering them as prisoners in a pit, shut up and punished after many
     days; Prophet cries ''razi li, razi li'' (''my leanness/my secret is mine''), woe to me, the treacherous
     deal treacherously; The moon is abashed and the sun ashamed, for YHWH reigns on Mount Zion with glory
-    before his elders; The windows on high are opened and the foundations of the earth shake (flood imagery);
-    Remnant left like gleanings at the olive-beating: two or three berries at the top of the bough; Shed
-    blood pollutes the land and only the killer''s blood atones for it; Whether heaven and earth mourn
-    a destroyed people [contrast between the texts]; ''Terror, pit and snare'': who flees the terror falls
-    into the pit, who climbs out is caught in the snare; and 1 more.'
+    before his elders; Remnant left like gleanings at the olive-beating: two or three berries at the top
+    of the bough; The windows on high are opened and the foundations of the earth shake (flood imagery);
+    Shed blood pollutes the land and only the killer''s blood atones for it; Whether heaven and earth
+    mourn a destroyed people [contrast between the texts]; ''Terror, pit and snare'': who flees the terror
+    falls into the pit, who climbs out is caught in the snare; and 1 more.'
   basis: reading
 - text: 'Only in The quake of the Hour and the proofs from embryo and rain: Some are returned to the most
-    abject age so that after knowing they know nothing; Humans created from dust, then a drop (nuṭfa),
-    then a clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped; God poured the embryo
-    out like milk and curdled it like cheese, clothing it with skin and flesh and knitting bones and sinews;
-    On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all humans
-    quake before God, mountains are thrown down and every wall falls; Your dead shall live, their corpses
-    rise; dwellers in the dust shall awake and sing; First human shaped from dust, clay or soil; Rain
-    from the sky gives life to the earth after its death, a sign of resurrection.'
+    abject age so that after knowing they know nothing; In catastrophe mothers abandon their young and
+    pregnancy fails [divergence between the texts]; Humans created from dust, then a drop (nuṭfa), then
+    a clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped; In the catastrophe the
+    father disowns his wife and the mother her child (''This is not my child''); In the catastrophe mothers,
+    cows or she-camels no longer care for their young; God poured the embryo out like milk and curdled
+    it like cheese, clothing it with skin and flesh and knitting bones and sinews; On that day a great
+    earthquake shakes the land; fish, birds, beasts, creeping things and all humans quake before God,
+    mountains are thrown down and every wall falls; Your dead shall live, their corpses rise; dwellers
+    in the dust shall awake and sing; Rain from the sky gives life to the earth after its death, a sign
+    of resurrection; First human shaped from dust, clay or soil.'
   basis: reading
 - text: 'The earth laid waste; the host of heaven imprisoned; YHWH reigns on Zion: tagged by Claude (model),
     reading the Hebrew.'

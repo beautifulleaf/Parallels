@@ -19,20 +19,20 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''How long will you hop between two branches? If YHWH is God, follow
-    him; if Baal, follow him'' (weight 6.7). Pair score 6.7.'
+    him; if Baal, follow him'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Contest on Mount Carmel: Prophet repairs the ruined altar with twelve stones for the
     tribes of Jacob; Contest of gods: the god who answers by fire on an unlit sacrifice is God; The prophets
-    of Baal are seized and slaughtered at the brook Kishon; Prophets of Baal limp-dance around the altar
-    and gash themselves with swords and lances till blood flows; Prophet mocks the silent god: perhaps
-    he is musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched
-    with four jars of water three times, filling a trench, before the miracle; The people fall on their
-    faces crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and
-    the king''s religious specialists ends [contrast between the texts]; An offering consumed by fire
-    as proof of the true God or messenger [response between the texts]; Fire from heaven falls and consumes
-    the offering, wood, stones, dust and water; A single prophet of YHWH stands against 450 prophets of
-    Baal and 400 of Asherah; How the people respond to the prophet''s challenge over Baal [divergence
-    between the texts]; and 10 more.'
+    of Baal are seized and slaughtered at the brook Kishon; Prophet mocks the silent god: perhaps he is
+    musing, relieving himself, travelling, or asleep and must be woken; Sacrifice and altar drenched with
+    four jars of water three times, filling a trench, before the miracle; The people fall on their faces
+    crying ''YHWH, he is God! YHWH, he is God!''; How a public contest between God''s prophet and the
+    king''s religious specialists ends [contrast between the texts]; An offering consumed by fire as proof
+    of the true God or messenger [response between the texts]; Fire from heaven falls and consumes the
+    offering, wood, stones, dust and water; A single prophet of YHWH stands against 450 prophets of Baal
+    and 400 of Asherah; How the people respond to the prophet''s challenge over Baal [divergence between
+    the texts]; Parable: a slave owned by quarreling partners versus a slave belonging wholly to one man;
+    and 10 more.'
   basis: reading
 - text: 'Only in Articles of faith; hypocrites wavering between two sides: Belief in God, his angels,
     his books, his messengers and the last day; Those who believe in some messengers and reject others,

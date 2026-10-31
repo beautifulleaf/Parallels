@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
-    (weight 4.7). Pair score 4.7.'
+    (weight 5.5). Pair score 5.5.'
   basis: reading
-- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): When God takes away
-    their breath creatures die and return to dust; when he sends his spirit they are created; Hymn praising
-    God as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
+- text: 'Only in Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): Hymn praising God
+    as creator, describing the ordering of the cosmos and its creatures; Each creature has its God-given
     habitat: birds in cedars, stork in junipers, ibex in mountains, hyrax in rocks; God rejoices in his
     works; Leviathan was formed to sport in the sea, or for God to play with; God sends forth his spirit
     and renews the face of the earth; At God''s rebuke and thunder the primeval waters flee from the mountains
     to their appointed place; God gives wine to gladden the heart of man, oil to make his face shine and
-    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; God makes the clouds his chariot
-    and walks on the wings of the wind; All in heaven and earth ask of him; every day he is engaged in
-    some affair (kull yawm huwa fi sha''n); God takes life and gives it again [divergence between the
-    texts]; and 40 more.'
+    bread to sustain him; Self-exhortation ''Bless YHWH, O my soul''; When God takes away their breath
+    creatures die and return to dust; when he sends his spirit they are created; All in heaven and earth
+    ask of him; every day he is engaged in some affair (kull yawm huwa fi sha''n); God takes life and
+    gives it again [divergence between the texts]; God looks at the earth and it trembles, touches the
+    mountains and they smoke; and 40 more.'
   basis: reading
 - text: 'Only in The bird on the neck, the open book and individual responsibility (Surah 17:9-21): When
     God would destroy a town he commands its affluent ones; they transgress and it is destroyed; The hereafter
@@ -43,8 +43,9 @@ evidence:
     spread open, leaving nothing small or great unrecorded; On judgment day each receives a book of his
     deeds spread open, leaving nothing small or great unrecorded [divergence between the texts]; Night
     and day are two signs; the sign of night is effaced and that of day made bright for reckoning years;
-    The heavenly court sits in judgment and the books are opened; God does not punish a people before
-    sending a messenger, lest they plead they had none; Each person dies for his own sin.'
+    The heavenly court sits in judgment and the books are opened; Augury: a bird''s flight or alighting
+    is an omen bound to a person [divergence between the texts]; A written record (tablet [divergence
+    between the texts]; and 2 more.'
   basis: reading
 - text: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten): tagged by Claude (model),
     reading the Hebrew.'

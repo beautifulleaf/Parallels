@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They were commanded only to serve God sincerely, as hunafa'' (pure
-    monotheists), pray and give alms: the upright religion (weight 6.7). Pair score 6.7.'
+    monotheists), pray and give alms: the upright religion (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Second tablets and ark; Levites set apart; what God requires: Aaron dies and his son
     Eleazar becomes priest in his place; Wooden ark made to hold the stone tablets; God''s choice of Abraham,
@@ -27,8 +27,8 @@ evidence:
     your heart; God of gods and Lord of lords; Love the stranger, for you were strangers in Egypt; Moses
     hews a second pair of tablets to replace the broken ones; The prophet neither eats nor drinks for
     forty days; The family that went down to Egypt numbers seventy persons; The ''uncircumcised'' or covered
-    heart [divergence between the texts]; Descendants as numerous as the stars of heaven; Love God with
-    all your heart, soul and might; and 6 more.'
+    heart [divergence between the texts]; Descendants as numerous as the stars of heaven; The tablets
+    of the testimony are placed inside the ark; and 6 more.'
   basis: reading
 - text: 'Only in The clear proof: God is pleased with the saved and they are pleased with him; The People
     of the Book split only after the clear proof (al-bayyina) came to them; A messenger from God recites

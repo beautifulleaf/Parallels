@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The idolatrous father threatens to stone his son and banishes him
-    [contrast between the texts] (weight 6.7); Hero''s father makes, sells or worships idols (weight 4.8).
-    Pair score 11.5.'
+    [contrast between the texts] (weight 7.7); Hero''s father makes, sells or worships idols (weight 5.9).
+    Pair score 13.6.'
   basis: reading
 - text: 'Only in Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: A fleece is
     left on the threshing floor as a sign: wet when the ground is dry, then dry when it is wet; If he
@@ -29,9 +29,9 @@ evidence:
     bull is sacrificed on wood of the felled Asherah; The townsmen demand the death of the one who destroyed
     their god''s altar; If he is a god, let him defend himself [divergence between the texts]; Hero blames
     the largest idol for the destruction; The called one asks for a sign that it is God who speaks [divergence
-    between the texts]; Hero smashes or burns idols; The called one asks for a sign that it is God who
-    speaks; Hero''s father makes, sells or worships idols [divergence between the texts]; Spirit of God
-    rushes upon a man, giving him strength or ecstasy.'
+    between the texts]; Hero smashes or burns idols; Hero''s father makes, sells or worships idols [divergence
+    between the texts]; The called one asks for a sign that it is God who speaks; Spirit of God rushes
+    upon a man, giving him strength or ecstasy.'
   basis: reading
 - text: 'Only in Abraham pleads with his father (Surah 19:41-50): Abraham withdraws from his people and
     their gods and is given descendants; The idolatrous father threatens to stone his son and banishes
@@ -39,11 +39,11 @@ evidence:
     son repeatedly and tenderly pleads with his idolatrous father (''O my father''); God grants the patriarchs
     a lofty ''tongue of truth'' (lasting renown); Worshipping idols is worshipping Satan, who rebelled
     against the Merciful; Abraham withdraws from his people and their gods and is given descendants [divergence
-    between the texts]; Isaac given, and Jacob in addition as an extra gift (nāfila); Isaac given, and
-    Jacob in addition as an extra gift (nāfila) [divergence between the texts]; Refrain ''And mention
-    in the Book ...'' introducing a series of prophet portraits; Abraham prayed for his father''s forgiveness
-    only by a promise, and disowned him when he proved God''s enemy; Idols of wood and stone that cannot
-    see, hear, eat or smell.'
+    between the texts]; The good man''s name endures in the mouths of later people; Isaac given, and Jacob
+    in addition as an extra gift (nāfila); Having eyes that do not see and ears that do not hear, said
+    of idols or of people; Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between
+    the texts]; Refrain ''And mention in the Book ...'' introducing a series of prophet portraits; and
+    2 more.'
   basis: reading
 - text: 'Gideon pulls down his father''s Baal altar; Jerubbaal; the fleece signs: tagged by Claude (model),
     reading the Hebrew.'

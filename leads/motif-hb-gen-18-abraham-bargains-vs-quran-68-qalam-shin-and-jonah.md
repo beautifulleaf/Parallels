@@ -20,13 +20,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do evildoers think God will make them equal to the righteous in
-    life and in death? (weight 5.6). Pair score 5.6.'
+    life and in death? (weight 6.6). Pair score 6.6.'
   basis: reading
-- text: 'Only in Abraham bargains for Sodom: God decides not to hide his plan from his chosen one; Abraham''s
-    plea when told that the city of Lot will be destroyed [divergence between the texts]; A city''s punishment
-    held back for the righteous within it [divergence between the texts]; God comes down to see what humans
-    are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s fate,
-    and his response [divergence between the texts]; Whether punishment strikes the innocent together
+- text: 'Only in Abraham bargains for Sodom: Abraham''s plea when told that the city of Lot will be destroyed
+    [divergence between the texts]; A city''s punishment held back for the righteous within it [divergence
+    between the texts]; God decides not to hide his plan from his chosen one; God comes down to see what
+    humans are doing; How Abraham learns of Sodom''s fate, and his response; How Abraham learns of Sodom''s
+    fate, and his response [divergence between the texts]; Whether punishment strikes the innocent together
     with the guilty [contrast between the texts]; Hero challenges God: shall the judge of all the earth
     not do justice? [divergence between the texts]; Hero challenges God: shall the judge of all the earth
     not do justice? [response between the texts]; How God answers Abraham''s plea for the people of Sodom
@@ -41,11 +41,11 @@ evidence:
     is laid bare (yukshafu ''an saq) and they are called to prostrate but cannot; The unbelievers almost
     make the prophet slip with their (evil) eyes when they hear the reminder; Do they possess the Unseen
     (al-ghayb) so they write it down?; At God''s command the fish vomits the prophet onto dry land [divergence
-    between the texts]; ''Are your unbelievers better than those, or have you an immunity (bara''a) in
-    the scriptures (zubur)?''; The prophet is bitterly angry that God has spared the sinners; The prophet
-    is bitterly angry that God has spared the sinners [divergence between the texts]; The word of God
-    comes to the prophet a second time with the same commission; At God''s command the fish vomits the
-    prophet onto dry land; and 6 more.'
+    between the texts]; The eye (gaze) as a harmful force against a person; ''Are your unbelievers better
+    than those, or have you an immunity (bara''a) in the scriptures (zubur)?''; The prophet is bitterly
+    angry that God has spared the sinners; The prophet is bitterly angry that God has spared the sinners
+    [divergence between the texts]; The word of God comes to the prophet a second time with the same commission;
+    and 7 more.'
   basis: reading
 - text: 'Abraham bargains for Sodom: tagged by Claude (model), reading the Hebrew.'
   basis: reading

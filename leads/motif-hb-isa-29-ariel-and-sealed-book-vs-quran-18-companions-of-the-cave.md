@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God seals the sleepers'' ears (puts them to sleep) in the cave for
-    many years (weight 6.7). Pair score 6.7.'
+    many years (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be
@@ -45,7 +45,7 @@ evidence:
     terror; The sleepers stayed in their cave three hundred years and nine more; One sleeper is sent to
     town with their silver coin to buy food discreetly; The sleepers seem awake though asleep, and God
     turns them from side to side; Woken after centuries, the sleepers think they slept a day or part of
-    a day; and 9 more.'
+    a day; and 17 more.'
   basis: reading
 - text: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay: tagged
     by Claude (model), reading the Hebrew.'

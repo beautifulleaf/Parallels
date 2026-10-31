@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh tells his chiefs: ''I know of no god for you other than
-    me'' (weight 6.7). Pair score 6.7.'
+    me'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar''s
     wages: Nebuchadnezzar''s army labored at Tyre till every head was bald and shoulder rubbed, without
@@ -29,23 +29,25 @@ evidence:
     for the house of Israel; Pharaoh boasts ''My Nile is my own; I made it (or made myself)''; God gives
     the prophet ''an opening of the mouth'' among the people; Egypt will be desolate forty years, uninhabited
     from Migdol to Syene and the border of Cush, then restored to Pathros as a lowly kingdom; Egypt''s
-    extent ''from Migdol to Syene (Aswan) and the border of Cush''; Can you draw out Leviathan with a
-    hook, put a cord in his nose, make him a pet or a slave forever?; The hauled-out monster is flung
-    into the wilderness on the open field as food for beasts and birds, unburied; Pharaoh is the great
-    tannin (crocodile/dragon) lying in the midst of his Nile channels; Pharaoh boasts to his people: is
-    not the kingdom of Egypt mine, and these rivers flowing beneath me?; Pharaoh gathers the people and
-    proclaims ''I am your Lord most high''; and 4 more.'
+    extent ''from Migdol to Syene (Aswan) and the border of Cush''; The hauled-out monster is flung into
+    the wilderness on the open field as food for beasts and birds, unburied; Pharaoh is the great tannin
+    (crocodile/dragon) lying in the midst of his Nile channels; Pharaoh boasts to his people: is not the
+    kingdom of Egypt mine, and these rivers flowing beneath me?; Pharaoh gathers the people and proclaims
+    ''I am your Lord most high''; Egypt likened to a broken reed staff that pierces the hand of whoever
+    leans on it; and 4 more.'
   basis: reading
 - text: 'Only in Pharaoh, ''no god but me'', Haman''s tower of fired brick, and the drowning: Pharaoh''s
-    people are made leaders who call to the Fire and are cursed in this world; The wise counselors of
-    Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son of ancient kings''; Pharaoh
-    orders Haman to build him a lofty tower (sarh) to reach the ways of heaven and look at Moses'' God;
-    Building with baked bricks and bitumen instead of stone and mortar; Hāmān appears as Pharaoh''s minister
-    and partner; Pharaoh''s question about, or claim to know, the god of Moses [divergence between the
-    texts]; Humans build a tower whose top reaches heaven; Humans build a tower whose top reaches heaven
-    [divergence between the texts]; God gives stone tablets he himself has written; Prophet''s wonders
-    are imitated by the king''s magicians in a contest; The returning waters drown the pursuing army;
-    not one survives.'
+    people are made leaders who call to the Fire and are cursed in this world; A ruler has bricks made
+    for a lofty building that reaches up to heaven [divergence between the texts]; Fire is kindled to
+    make the bricks of a lofty house or tower [divergence between the texts]; The wise counselors of Pharaoh
+    in Zoan and Memphis are fools: ''I am a son of the wise, a son of ancient kings''; Pharaoh orders
+    Haman to build him a lofty tower (sarh) to reach the ways of heaven and look at Moses'' God; Hāmān
+    appears as Pharaoh''s minister and partner; Pharaoh''s question about, or claim to know, the god of
+    Moses [divergence between the texts]; Building with baked bricks and bitumen instead of stone and
+    mortar; The king of Egypt is called god (by his vassals, or by himself) [divergence between the texts];
+    A king is called, or calls himself, the god of his people [divergence between the texts]; Humans build
+    a tower whose top reaches heaven [divergence between the texts]; The king of Egypt is (called) the
+    god or lord of those under him; and 4 more.'
   basis: reading
 - text: 'Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar''s wages:
     tagged by Claude (model), reading the Hebrew.'

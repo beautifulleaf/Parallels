@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Two messengers sent to a town are rejected, so God reinforces them
-    with a third (weight 6.7). Pair score 6.7.'
+    with a third (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -38,8 +38,10 @@ evidence:
     is told ''enter the Garden'' and says ''Would that my people knew how my Lord forgave me''; The townsfolk
     say ''we augur ill of you'' and threaten to stone the messengers; they reply ''your omen is with you'';
     No host from heaven was needed: a single Shout (sayha) and they were extinguished; Offender stoned
-    to death by the community; Travel in the land and see the end of those who denied; Intercession avails
-    only for whom God permits; The Prophet asks no wage for the message.'
+    to death by the community; Augury: a bird''s flight or alighting is an omen bound to a person [divergence
+    between the texts]; The dead cannot go back to the life they left; Travel in the land and see the
+    end of those who denied; Intercession avails only for whom God permits; The Prophet asks no wage for
+    the message.'
   basis: reading
 - text: 'Lot''s guests and the destruction of Sodom and Gomorrah: tagged by Claude (model), reading the
     Hebrew.'

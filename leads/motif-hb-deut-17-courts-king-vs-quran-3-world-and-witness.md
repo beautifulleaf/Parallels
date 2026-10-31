@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Made attractive to men: women, sons, heaped-up gold and silver,
-    branded horses, cattle and tillage (weight 6.7). Pair score 6.7.'
+    branded horses, cattle and tillage (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Idolater''s trial; witnesses; high court; law of the king: King writes a copy of the
     Torah and reads it all his days; King must be chosen by God from among brothers, not a foreigner;
@@ -28,8 +28,8 @@ evidence:
     [divergence between the texts]; Difficult cases referred to the Levitical priests and judge at the
     chosen place; defiance is capital; Amassing war horses, and trust in God [contrast between the texts];
     Blemished animal (lame, blind) may not be sacrificed; How many witnesses are required [divergence
-    between the texts]; Formula: you shall purge the evil from your midst; Prohibition of worshipping
-    sun, moon, stars, the host of heaven; No one put to death on the testimony of a single witness; and
+    between the texts]; Prohibition of worshipping sun, moon, stars, the host of heaven; Formula: you
+    shall purge the evil from your midst; No one put to death on the testimony of a single witness; and
     1 more.'
   basis: reading
 - text: 'Only in The two hosts, worldly lures, God''s witness: God bears witness there is no god but he,

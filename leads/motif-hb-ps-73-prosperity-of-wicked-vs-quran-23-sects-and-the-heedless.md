@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Speaker is troubled by the prosperity and ease of the wicked (theodicy)
-    (weight 6.3). Pair score 6.3.'
+    (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in Psalm 73, Asaph on the prosperity of the wicked; afterward you will take me to glory:
     God will take (laqah) the righteous afterward into glory, beyond death; Speaker''s perplexity is resolved

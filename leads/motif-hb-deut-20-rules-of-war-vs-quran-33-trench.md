@@ -22,9 +22,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Book-people who aided the enemy are brought down from their fortresses,
-    terror cast in their hearts; some killed, some captured, their land inherited (weight 6.7); Men leave
-    the battle line to go home, and how that is judged [contrast between the texts] (weight 6.7). Pair
-    score 13.4.'
+    terror cast in their hearts; some killed, some captured, their land inherited (weight 7.7); Men leave
+    the battle line to go home, and how that is judged [contrast between the texts] (weight 7.7). Pair
+    score 15.5.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -42,11 +42,13 @@ evidence:
     from death or killing; you would enjoy life only a little; Hypocrites ask leave to quit the battle
     line saying ''our houses are exposed'', wanting only to flee; Among the believers are men who fulfilled
     their covenant with God; some have met their end (qada nahbah) and some still wait; In the messenger
-    of God you have an excellent example (uswa hasana); Those who say ''we believe'' will not be left
-    untested; God tries them as he tried those before to know the truthful from the liars; In terror eyes
-    swerve and hearts reach the throats; God casts terror (ru''b) into the hearts of the unbelievers;
-    God sent a wind and invisible hosts against the confederate armies besieging the believers; God sends
-    terror ahead to panic the enemies.'
+    of God you have an excellent example (uswa hasana); An excuse of guarding one''s own place to avoid
+    the city''s defence when an enemy threatens [divergence between the texts]; Those who say ''we believe''
+    will not be left untested; God tries them as he tried those before to know the truthful from the liars;
+    In terror eyes swerve and hearts reach the throats; The Arabian oasis Yathrib (Akkadian Iatribu) is
+    named; God casts terror (ru''b) into the hearts of the unbelievers; God sent a wind and invisible
+    hosts against the confederate armies besieging the believers; God sends terror ahead to panic the
+    enemies.'
   basis: reading
 - text: 'Rules of war: exemptions, peace terms, fruit trees: tagged by Claude (model), reading the Hebrew.'
   basis: reading

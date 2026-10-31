@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s choice of Abraham, Isaac and Jacob, and what it passes on
-    [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Second tablets and ark; Levites set apart; what God requires: Aaron dies and his son
     Eleazar becomes priest in his place; Wooden ark made to hold the stone tablets; Circumcise the foreskin
@@ -28,7 +28,7 @@ evidence:
     the upright religion; Moses hews a second pair of tablets to replace the broken ones; The prophet
     neither eats nor drinks for forty days; The family that went down to Egypt numbers seventy persons;
     The ''uncircumcised'' or covered heart [divergence between the texts]; Descendants as numerous as
-    the stars of heaven; Love God with all your heart, soul and might; and 6 more.'
+    the stars of heaven; The tablets of the testimony are placed inside the ark; and 6 more.'
   basis: reading
 - text: 'Only in The chosen patriarchs; the Gardens of Eden and the quarrel of the damned: The damned
     ask ''Why do we not see men we counted among the wicked, whom we mocked?''; The prophet had no knowledge

@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet strikes a rock and water flows out for the people (weight
-    6.3); Moses strikes the rock for water [divergence between the texts] (weight 6.3); The people grumble
-    against their leaders about food or water (weight 5.1). Pair score 17.6.'
+    7.3); Moses strikes the rock for water [divergence between the texts] (weight 7.3); The people grumble
+    against their leaders about food or water (weight 6.1). Pair score 20.8.'
   basis: reading
 - text: 'Only in Water from the rock at Massah and Meribah: God stands upon a rock before the prophet;
     The people put God to the test; Moses ill-treated by his own people [divergence between the texts];

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foreigner confesses that Israel''s God is God in heaven above
-    and earth below (weight 5.8). Pair score 5.8.'
+    and earth below (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Rahab hides the spies in Jericho: Whoever goes out of the door, his blood is on his own
     head; A prostitute (Rahab) shelters the spies in her house; Spies hidden under stalks of flax on the
@@ -41,7 +41,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 22 more.'
+    and 42 more.'
   basis: reading
 - text: 'Rahab hides the spies in Jericho: tagged by Claude (model), reading the Hebrew.'
   basis: reading

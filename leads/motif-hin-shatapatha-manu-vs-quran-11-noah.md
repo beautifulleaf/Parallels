@@ -18,9 +18,9 @@ motifs:
 - hero-warned-by-deity
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Vessel comes to rest on a named mountain (weight 5.4); Hero builds
-    a vessel on divine instruction (weight 5.2); Hero privately warned of the coming flood by a deity
-    (weight 5.1). Pair score 15.7.'
+- text: 'Shared motifs, rarest first: Vessel comes to rest on a named mountain (weight 6.4); Hero builds
+    a vessel on divine instruction (weight 6.2); Hero privately warned of the coming flood by a deity
+    (weight 5.8). Pair score 18.4.'
   basis: reading
 - text: 'Manu and the fish (Śatapatha Brāhmaṇa 1.8.1): tagged by Claude (model), from secondary knowledge.'
   basis: scholarship

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s courtiers advise him how to deal with the prophet and
-    his people [divergence between the texts] (weight 6.7). Pair score 6.7.'
+    his people [divergence between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Plagues 8-9: locusts and darkness: The king''s own servants urge him to let the people
     go; King tells the prophet never to see his face again or he will die; During the plague of darkness
@@ -39,11 +39,12 @@ evidence:
     thrown at him [divergence between the texts]; Pharaoh is the great tannin (crocodile/dragon) lying
     in the midst of his Nile channels; Pharaoh boasts to his people: is not the kingdom of Egypt mine,
     and these rivers flowing beneath me?; The king breaks his promise to release the people once a plague
-    is lifted [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his heart,
-    or Pharaoh and his people themselves [divergence between the texts]; The returning waters drown the
-    pursuing army; not one survives [divergence between the texts]; King invests the hero with ring, linen
-    and chariot; The king breaks his promise to release the people once a plague is lifted; Prophet protests
-    he is heavy of mouth and tongue or ''uncircumcised of lips''; and 2 more.'
+    is lifted [divergence between the texts]; The water of the river of Egypt is said to be at its king''s
+    disposal [neutral] [divergence between the texts]; A man brought before Pharaoh is afraid and cannot
+    speak [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh
+    and his people themselves [divergence between the texts]; The returning waters drown the pursuing
+    army; not one survives [divergence between the texts]; King invests the hero with ring, linen and
+    chariot; and 4 more.'
   basis: reading
 - text: 'Plagues 8-9: locusts and darkness: tagged by Claude (model), reading the Hebrew.'
   basis: reading

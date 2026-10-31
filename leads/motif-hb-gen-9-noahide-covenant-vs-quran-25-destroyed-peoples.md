@@ -19,29 +19,29 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sign the flood leaves for later generations [divergence between
-    the texts] (weight 6.3). Pair score 6.3.'
+    the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Blessing of Noah, blood laws and the covenant of the bow: God requires the life of a
-    human even from an animal that kills; God sees the bow in the cloud and remembers his covenant (the
-    sign reminds the deity); God makes a covenant with humans and all living creatures; Eating animals
-    permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be shed, because
-    humans bear God''s image [divergence between the texts]; The same religion (din) was enjoined on Noah,
-    Abraham, Moses, Jesus and the Prophet: establish it and do not divide; The sign left after the flood:
-    the rainbow, or the ark [divergence between the texts]; Whoever sheds human blood, by man shall his
-    blood be shed, because humans bear God''s image; A sign in the sky commemorates the flood (bow, necklace);
-    Hero blessed on leaving the vessel; Humans given rule over animals; Deity resolves or promises not
-    to repeat the destruction; and 3 more.'
+    human even from an animal that kills; God makes a covenant with humans and all living creatures; Eating
+    animals permitted to humans after the flood; Whoever sheds human blood, by man shall his blood be
+    shed, because humans bear God''s image [divergence between the texts]; The same religion (din) was
+    enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish it and do not divide; The sign
+    left after the flood: the rainbow, or the ark [divergence between the texts]; Whoever sheds human
+    blood, by man shall his blood be shed, because humans bear God''s image; God sees the bow in the cloud
+    and remembers his covenant (the sign reminds the deity); Humans given rule over animals; A sign in
+    the sky commemorates the flood (bow, necklace); Eating blood is forbidden; Deity resolves or promises
+    not to repeat the destruction; and 3 more.'
   basis: reading
 - text: 'Only in Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town: The
     ''People of the Rass'' (aṣḥāb al-rass, the well) named among destroyed peoples; Most unbelievers are
     like cattle, or even further astray; The prophet asks that his brother be made his helper (wazīr)
     and partner in his mission; God rains destruction on Lot''s town [divergence between the texts]; ''Do
-    not go about after your heart and your eyes''; Ox knows its owner and the ass its master''s crib,
-    but Israel does not know (animals wiser than God''s people); The town that was rained on with an evil
-    rain (Lot''s) is passed by travelers; Aaron''s role beside Moses and how he is appointed [divergence
-    between the texts]; Why God destroyed a generation or a people [divergence between the texts]; Whoever
-    takes his own desire (hawā) as his god; The people mock God''s messengers, despise his words and scoff
-    at his prophets; All others perish; and 2 more.'
+    not go about after your heart and your eyes''; The town that was rained on with an evil rain (Lot''s)
+    is passed by travelers; Aaron''s role beside Moses and how he is appointed [divergence between the
+    texts]; Why God destroyed a generation or a people [divergence between the texts]; Whoever takes his
+    own desire (hawā) as his god; Ox knows its owner and the ass its master''s crib, but Israel does not
+    know (animals wiser than God''s people); The people mock God''s messengers, despise his words and
+    scoff at his prophets; God rains sulfur and fire from heaven on cities; and 2 more.'
   basis: reading
 - text: 'Blessing of Noah, blood laws and the covenant of the bow: tagged by Claude (model), reading the
     Hebrew.'

@@ -19,7 +19,7 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 6.0). Pair score 6.0.'
+- text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Fast of the twenty-fourth and the Levites'' historical confession: God found Abraham''s
     heart faithful (ne''eman) before him; God chose Abram, brought him out of Ur of the Chaldeans and
@@ -35,10 +35,10 @@ evidence:
 - text: 'Only in Forbearance, refuge from Satan, and the prostration of the near ones: When the Quran
     is recited, listen and be silent; A verse at which reciters customarily prostrate (sajda); Those near
     God do not disdain to worship him; they glorify him and prostrate; God praised morning and evening
-    [divergence between the texts]; When an evil prompting from Satan stirs you, seek refuge in God; Contradictory
-    pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according to his folly'';
-    Levites stand every morning and evening to thank and praise YHWH; Remember God within yourself, humbly,
-    without loud speech, morning and evening.'
+    [divergence between the texts]; When an evil prompting from Satan stirs you, seek refuge in God; Levites
+    stand every morning and evening to thank and praise YHWH; Remember God within yourself, humbly, without
+    loud speech, morning and evening; Contradictory pair: ''Do not answer a fool according to his folly''
+    / ''Answer a fool according to his folly''.'
   basis: reading
 - text: 'Fast of the twenty-fourth and the Levites'' historical confession: tagged by Claude (model),
     reading the Hebrew.'

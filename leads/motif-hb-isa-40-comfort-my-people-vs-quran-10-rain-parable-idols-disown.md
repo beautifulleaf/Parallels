@@ -14,29 +14,31 @@ traditions:
 layers:
 - motif
 motifs:
-- all-flesh-is-grass
 - worldly-life-like-rain-fed-crop
+- all-flesh-is-grass
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: All flesh is grass and its loyalty like the flower of the field;
-    grass withers but the word of God stands forever (weight 6.3); Parable: worldly life is like vegetation
-    fed by rain, adorned, then cut down overnight as if it never flourished (weight 6.3). Pair score 12.6.'
+- text: 'Shared motifs, rarest first: Parable: worldly life is like vegetation fed by rain, adorned, then
+    cut down overnight as if it never flourished (weight 7.3); All flesh is grass and its loyalty like
+    the flower of the field; grass withers but the word of God stands forever (weight 7.1). Pair score
+    14.4.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
     God tends his flock like a shepherd, gathers the lambs in his arm and carries them in his bosom; God
     brings out the starry host by number and calls each by name; none is missing; God sits enthroned above
-    the circle (hug) of the earth; its inhabitants are like grasshoppers; Those who wait for YHWH renew
-    strength, mount up with wings like eagles, run and not be weary; Nations are like a drop from a bucket
-    and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering; A voice
-    cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for our God'';
-    Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed the mountains
-    in scales?; God made everything grow in due weight and sends it down only in known measure; A double
-    portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole earth
-    is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret Tsiyyon)
-    goes up on a high mountain to announce ''Behold your God!''; and 17 more.'
+    the circle (hug) of the earth; its inhabitants are like grasshoppers; Nations are like a drop from
+    a bucket and dust on the scales; Lebanon is not enough fuel nor its beasts enough for a burnt offering;
+    A voice cries: ''In the wilderness clear the way of YHWH, make straight in the desert a highway for
+    our God''; Who measured the waters in the hollow of his hand, marked off heaven with a span and weighed
+    the mountains in scales?; God made everything grow in due weight and sends it down only in known measure;
+    A double portion (k-p-l) from God [divergence between the texts]; On the Day of Resurrection the whole
+    earth is in God''s grip and the heavens folded in his right hand; A herald of good news (mevasseret
+    Tsiyyon) goes up on a high mountain to announce ''Behold your God!''; Satire on the making of idols:
+    craftsman casts, goldsmith overlays, the poor choose wood that will not rot so the idol will not totter;
+    and 17 more.'
   basis: reading
 - text: 'Only in Life like a crop, the abode of peace, darkened faces: The doers of good get the best
     reward ''and more'' (ziyada); Paradise as the abode of peace (dār al-salām); The faces of evildoers

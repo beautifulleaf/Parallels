@@ -18,23 +18,26 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foolish people who have eyes but do not see and ears but do not
-    hear (weight 5.4). Pair score 5.4.'
+    hear (weight 6.5). Pair score 6.5.'
   basis: reading
 - text: 'Only in The sea''s sand boundary; houses full of deceit: The wicked lie in wait like fowlers
     setting traps; their houses are full of deceit like a cage full of birds; Prophets prophesy falsely,
-    priests rule by their direction, and the people love it so; God sets a boundary the sea may not pass,
-    so it will never again cover the earth; Accusation of oppressing the poor: taking pledges, stripping
-    the naked, denying water and bread, sending widows away empty; Refrain: ''Shall I not punish them
-    for these things? Shall I not avenge myself on such a nation?''; Obedience brings early and late rain;
+    priests rule by their direction, and the people love it so; Accusation of oppressing the poor: taking
+    pledges, stripping the naked, denying water and bread, sending widows away empty; Refrain: ''Shall
+    I not punish them for these things? Shall I not avenge myself on such a nation?''; God sets a boundary
+    the sea may not pass, so it will never again cover the earth; Obedience brings early and late rain;
     idolatry makes God shut up the heavens.'
   basis: reading
 - text: 'Only in Deaf and dumb beasts, heart and trial: God gives the God-fearing a furqan (criterion
     / deliverance); God comes between a man and his heart; The arrogant elite confront the weak (mustad''afun)
-    who believed the prophet; God has not given the people a heart to know, eyes to see, ears to hear
-    until today; God has not given the people a heart to know, eyes to see, ears to hear until today [divergence
-    between the texts]; Whether punishment strikes the innocent together with the guilty [contrast between
-    the texts]; The king''s heart is like channels of water in YHWH''s hand; he turns it wherever he wishes;
-    Wealth and children are a trial (fitna); The heedless are like cattle, or even more astray.'
+    who believed the prophet; A destroying calamity does not single out the wrongdoers but strikes all;
+    A destroying calamity does not single out the wrongdoers but strikes all [divergence between the texts];
+    God has not given the people a heart to know, eyes to see, ears to hear until today; God has not given
+    the people a heart to know, eyes to see, ears to hear until today [divergence between the texts];
+    Whether punishment strikes the innocent together with the guilty [contrast between the texts]; The
+    king''s heart is like channels of water in YHWH''s hand; he turns it wherever he wishes; Whether a
+    man can hear (obey) is given or withheld by the deity; Wealth and children are a trial (fitna); The
+    heedless are like cattle, or even more astray.'
   basis: reading
 - text: 'The sea''s sand boundary; houses full of deceit: tagged by Claude (model), reading the Hebrew.'
   basis: reading

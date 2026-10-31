@@ -18,8 +18,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Narrative of a prophet''s commissioning by God (weight 5.4). Pair
-    score 5.4.'
+- text: 'Shared motifs, rarest first: Narrative of a prophet''s commissioning by God (weight 6.5). Pair
+    score 6.5.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be
@@ -38,9 +38,10 @@ evidence:
 - text: 'Only in The clot: recite! and the forelock: Let the opponent call his council (nadi); God will
     call the guards of hell (al-zabaniya); A man who forbids a servant of God to pray is threatened: he
     will be dragged by his lying, sinful forelock; God taught humankind by the pen (qalam) what it did
-    not know; Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
-    it makes him immortal; Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa),
-    then shaped and proportioned.'
+    not know; A man in plenty neglects his god and calls on him only when affliction comes; Woe to every
+    slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking it makes him immortal;
+    Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped and
+    proportioned.'
   basis: reading
 - text: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay: tagged
     by Claude (model), reading the Hebrew.'

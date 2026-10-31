@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
-    is lifted (weight 5.8). Pair score 5.8.'
+    is lifted (weight 6.8). Pair score 6.8.'
   basis: reading
 - text: 'Only in Plague 7: hail and fire: Narrator dates a plague by the growth stage of named crops (barley
     in ear, flax in bud, wheat late); Some of the king''s servants fear God''s word and bring their slaves
@@ -31,8 +31,8 @@ evidence:
     between the texts]; A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will
     you kill a man for saying my Lord is God?''; The king confesses he has sinned and that God is righteous;
     Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves; Wonder
-    done ''so that you may know that the earth belongs to YHWH''; God sends hail mingled with fire and
-    thunder from heaven; and 4 more.'
+    done ''so that you may know that the earth belongs to YHWH''; King asks the prophet to intercede with
+    God to remove a plague; and 4 more.'
   basis: reading
 - text: 'Only in Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning:
     Each sign shown to Pharaoh''s people was greater than the one before it; Pharaoh scorns Moses as contemptible,
@@ -42,11 +42,11 @@ evidence:
     himself or thrown at him [divergence between the texts]; Pharaoh is the great tannin (crocodile/dragon)
     lying in the midst of his Nile channels; Pharaoh boasts to his people: is not the kingdom of Egypt
     mine, and these rivers flowing beneath me?; The king breaks his promise to release the people once
-    a plague is lifted [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
+    a plague is lifted [divergence between the texts]; The water of the river of Egypt is said to be at
+    its king''s disposal [neutral] [divergence between the texts]; A man brought before Pharaoh is afraid
+    and cannot speak [divergence between the texts]; Who causes Pharaoh''s refusal: God hardening his
     heart, or Pharaoh and his people themselves [divergence between the texts]; The returning waters drown
-    the pursuing army; not one survives [divergence between the texts]; King invests the hero with ring,
-    linen and chariot; Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'';
-    and 2 more.'
+    the pursuing army; not one survives [divergence between the texts]; and 4 more.'
   basis: reading
 - text: 'Plague 7: hail and fire: tagged by Claude (model), reading the Hebrew.'
   basis: reading

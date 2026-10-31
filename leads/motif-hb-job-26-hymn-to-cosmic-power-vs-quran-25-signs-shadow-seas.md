@@ -20,30 +20,31 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has inscribed a circle on the face of the waters at the boundary
-    between light and darkness (weight 6.3); After creating the heavens and earth God established himself
-    on the Throne (istawa ''ala l-''arsh) (weight 5.2). Pair score 11.5.'
+    between light and darkness (weight 7.3); After creating the heavens and earth God established himself
+    on the Throne (istawa ''ala l-''arsh) (weight 6.2). Pair score 13.6.'
   basis: reading
-- text: 'Only in Job - the earth hung on nothing; Rahab smitten: God hangs the earth upon nothing (beli-mah);
-    These are but the fringes of his ways, a whisper of a word; who can understand the thunder of his
-    power?; God''s hand pierced the fleeing serpent (nachash bariach); God stretches out Zaphon (the north)
-    over the void (tohu); The pillars of heaven tremble and are astounded at God''s rebuke; The shades
-    (Rephaim) tremble beneath the waters and their inhabitants; God veils the face of his throne, spreading
-    his cloud over it; By his wind (breath) the heavens are made fair; God owns what is in heaven, on
-    earth, between them and beneath the moist soil (al-tharā); By his power God stilled (or stirred) the
-    Sea and by his understanding smote Rahab; God raised the heavens without pillars that you can see
-    [divergence between the texts]; God wraps (yukawwir) the night around the day and the day around the
-    night; and 5 more.'
+- text: 'Only in Job - the earth hung on nothing; Rahab smitten: These are but the fringes of his ways,
+    a whisper of a word; who can understand the thunder of his power?; God''s hand pierced the fleeing
+    serpent (nachash bariach); God stretches out Zaphon (the north) over the void (tohu); The pillars
+    of heaven tremble and are astounded at God''s rebuke; The shades (Rephaim) tremble beneath the waters
+    and their inhabitants; God veils the face of his throne, spreading his cloud over it; By his wind
+    (breath) the heavens are made fair; God hangs the earth upon nothing (beli-mah); God owns what is
+    in heaven, on earth, between them and beneath the moist soil (al-tharā); God raised the heavens without
+    pillars that you can see [divergence between the texts]; God wraps (yukawwir) the night around the
+    day and the day around the night; Whether the heavens rest on pillars [divergence between the texts];
+    and 5 more.'
   basis: reading
 - text: 'Only in The moving shadow, the night garment, the two seas and the constellations: God extends
     the shadow, makes the sun its guide, then draws it back gently; God created humans from water and
     gave them kinship by blood and by marriage; Told to prostrate to the Merciful, the pagans ask ''What
-    is al-Raḥmān?''; What God does after creating in six days [divergence between the texts]; Worship
-    of the constellations or zodiac signs (mazzalot); God made the night a garment, sleep a rest, and
-    the day a rising (nushūr); As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz;
-    God set constellations (buruj) in the sky and adorned it for beholders; God the Ever-Living, the Self-Subsisting
-    (al-hayy al-qayyum); God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and
-    partition between them; God makes winds his messengers (angels) and flaming fire his ministers; A
-    solid firmament (raqia) separates upper waters from lower waters; and 5 more.'
+    is al-Raḥmān?''; Night covers the sleepers as a garment, the land as in death; the day is a rising
+    (waking); Two waters, the sweet and the salt sea, meet or mingle [divergence between the texts]; What
+    God does after creating in six days [divergence between the texts]; What sets the daily sleeping and
+    rising of people [divergence between the texts]; Worship of the constellations or zodiac signs (mazzalot);
+    A god''s act sets fresh (sweet) water against salt (bitter) water [divergence between the texts];
+    God made the night a garment, sleep a rest, and the day a rising (nushūr); As a sign the shadow goes
+    back ten steps on the stairway (dial) of Ahaz; The wind carries good news (Akk. bussurtu, Ar. bushr,
+    mubashshirāt) [divergence between the texts]; and 11 more.'
   basis: reading
 - text: 'Job - the earth hung on nothing; Rahab smitten: tagged by Claude (model), reading the Hebrew.'
   basis: reading

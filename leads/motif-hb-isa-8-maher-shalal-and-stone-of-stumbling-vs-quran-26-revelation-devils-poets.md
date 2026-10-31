@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ghosts and familiar spirits ''chirp and mutter''; ''should a people
-    consult the dead on behalf of the living?'' (weight 6.7). Pair score 6.7.'
+    consult the dead on behalf of the living?'' (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Maher-shalal-hash-baz; waters of Shiloah; the stone of stumbling; ghosts that chirp:
     The land of Zebulun and Naphtali, ''Galilee of the nations'' by the way of the sea, first humbled
     and later glorified; The people reject the gently flowing waters of Shiloah, so God brings the mighty
     River (Assyria) to flood them up to the neck; Refrain ''Immanuel / for God is with us'' against plotting
-    nations; Invading empire likened to a river in flood that overflows its banks and sweeps over the
-    land; The prophet and the children God gave him are signs and portents in Israel; Prophet goes in
-    to ''the prophetess'' (his wife) who bears a sign-child; God becomes a sanctuary and a stone of stumbling
-    and rock of offense, a trap and snare to both houses of Israel; Bind up the testimony, seal the teaching
-    among my disciples; the prophet waits for the God who hides his face; Before a child knows to refuse
-    evil and choose good (or say ''father, mother'') the enemy kings'' lands will be deserted; Earlier
+    nations; The prophet and the children God gave him are signs and portents in Israel; Prophet goes
+    in to ''the prophetess'' (his wife) who bears a sign-child; God becomes a sanctuary and a stone of
+    stumbling and rock of offense, a trap and snare to both houses of Israel; Bind up the testimony, seal
+    the teaching among my disciples; the prophet waits for the God who hides his face; Before a child
+    knows to refuse evil and choose good (or say ''father, mother'') the enemy kings'' lands will be deserted;
+    Invading empire likened to a river in flood that overflows its banks and sweeps over the land; Earlier
     messengers were given wives and offspring; Prophet''s child bears a symbolic name that is itself an
     oracle (Shear-yashuv, Maher-shalal-hash-baz); Prophet commanded to write the oracle on a tablet and
     in a book as a witness for the last day, forever; and 2 more.'

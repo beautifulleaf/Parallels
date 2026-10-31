@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day of judgment voices are hushed before the Merciful; only
-    a faint murmur is heard (weight 6.3). Pair score 6.3.'
+    a faint murmur is heard (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the
     clay: Jerusalem called ''Ariel'' (altar-hearth / lion of God), the city where David camped, to be
@@ -38,12 +38,13 @@ evidence:
 - text: 'Only in The trumpet, the leveled mountains and the hushed judgment: On the last day God scatters
     the mountains as dust and leaves a level, featureless plain; The guilty are gathered on that day blue-eyed
     or bleary (zurq); The prophet is told not to hasten with the recitation before its revelation is complete;
-    Every valley lifted up, every mountain and hill made low, the crooked made straight for God''s coming;
-    Every valley lifted up, every mountain and hill made low, the crooked made straight for God''s coming
-    [divergence between the texts]; At the resurrection people think they tarried only ten days, or a
-    day, or part of a day; God the Ever-Living, the Self-Subsisting (al-hayy al-qayyum); The revelation
-    is sent down as an Arabic Quran; The trumpet (ṣūr) is blown and the dead are gathered; Intercession
-    avails only for whom God permits.'
+    The heights and the hollows will be levelled; No one encompasses or knows what the deity is; Every
+    valley lifted up, every mountain and hill made low, the crooked made straight for God''s coming [divergence
+    between the texts]; At the resurrection people think they tarried only ten days, or a day, or part
+    of a day; God the Ever-Living, the Self-Subsisting (al-hayy al-qayyum); Every valley lifted up, every
+    mountain and hill made low, the crooked made straight for God''s coming; The revelation is sent down
+    as an Arabic Quran; The trumpet (ṣūr) is blown and the dead are gathered; Intercession avails only
+    for whom God permits.'
   basis: reading
 - text: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay: tagged
     by Claude (model), reading the Hebrew.'

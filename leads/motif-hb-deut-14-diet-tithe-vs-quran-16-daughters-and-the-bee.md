@@ -20,7 +20,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From palms and vines people take an intoxicant (sakar) and good
-    provision (weight 6.7). Pair score 6.7.'
+    provision (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Mourning rites forbidden; clean and unclean food; tithes: Animal that died of itself
     may be given to the resident alien or sold to a foreigner; If the place is far, convert the tithe
@@ -41,11 +41,12 @@ evidence:
     and he hides from people in shame; Burying a newborn daughter in the dust is condemned; Pure milk
     issues from cattle''s bellies from between dung and blood: a sign; Some are returned to the feeblest
     age (ardhal al-''umur), knowing nothing after knowledge; God reveals (awha) to the bee to build in
-    mountains, trees and trellises and follow his paths; At the judgment the girl buried alive (al-maw''uda)
+    mountains, trees and trellises and follow his paths; The bee, sent or inspired by the deity, goes
+    through the mountains [divergence between the texts]; At the judgment the girl buried alive (al-maw''uda)
     is asked for what sin she was killed; In distress, at sea or otherwise, people call on God alone,
-    then return to polytheism once rescued; Idolaters assign to unknown gods a share of what God provided
-    them; From the bee''s belly comes a drink of many colors in which is healing for people; Punishment
-    is delayed only because of a word that went before from God and an appointed term; and 1 more.'
+    then return to polytheism once rescued; A deity gives the bee an order: where to go and what to do
+    [divergence between the texts]; A drink said to contain healing for the sick: wine or honey [shared
+    matter] [divergence between the texts]; and 8 more.'
   basis: reading
 - text: 'Mourning rites forbidden; clean and unclean food; tithes: tagged by Claude (model), reading the
     Hebrew.'

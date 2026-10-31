@@ -19,14 +19,14 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
-    Pair score 4.7.'
+- text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 5.3).
+    Pair score 5.3.'
   basis: reading
-- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Gashes in the flesh
-    for the dead and tattoo marks are forbidden; Prohibition of cross-breeding animals, sowing mixed seed
-    and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three years, holy in the fourth,
-    eaten in the fifth; Rise before the gray-haired and honor the elderly; Man who lies with a slave woman
-    designated to another man: inquiry and guilt offering, not death, because she is not free; A father
+- text: 'Only in Mixtures, orlah fruit, mourning cuttings, alien and just weights: Prohibition of cross-breeding
+    animals, sowing mixed seed and wearing mixed cloth; Fruit of a new tree is ''uncircumcised'' for three
+    years, holy in the fourth, eaten in the fifth; Rise before the gray-haired and honor the elderly;
+    Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
+    because she is not free; Gashes in the flesh for the dead and tattoo marks are forbidden; A father
     must not make his daughter a prostitute; The head of a household must not prostitute a woman under
     his authority [divergence between the texts]; Just weights and measures, and the ground given for
     them [divergence between the texts]; Love the stranger, for you were strangers in Egypt; Kindness
@@ -38,10 +38,10 @@ evidence:
     prophet to make pieces of the sky fall on them; The People of the Thicket are destroyed by the punishment
     of the Day of the Canopy/Shadow (yawm al-ẓulla); Shuʿayb commands full measure and weighing with the
     straight balance, and not defrauding people; The people say the prophet is one of the bewitched and
-    a mere human like them, and demand a sign; No two kinds of weights or measures; just weights for long
-    life; Shuʿayb is sent to the People of the Thicket (aṣḥāb al-ayka); Refrain closing each episode:
-    ''In that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''; The
-    Prophet asks no wage for the message.'
+    a mere human like them, and demand a sign; Shuʿayb is sent to the People of the Thicket (aṣḥāb al-ayka);
+    No two kinds of weights or measures; just weights for long life; Refrain closing each episode: ''In
+    that is a sign, yet most of them do not believe; your Lord is the Mighty, the Merciful''; The Prophet
+    asks no wage for the message.'
   basis: reading
 - text: 'Mixtures, orlah fruit, mourning cuttings, alien and just weights: tagged by Claude (model), reading
     the Hebrew.'

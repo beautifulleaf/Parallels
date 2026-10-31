@@ -19,10 +19,10 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Townsmen surround the house and demand the male guest for sexual
-    abuse (weight 6.0). Pair score 6.0.'
+    abuse (weight 7.1). Pair score 7.1.'
   basis: reading
-- text: 'Only in The Levite''s concubine at Gibeah: Father-in-law repeatedly detains his son-in-law with
-    food and drink; Travelers find no hospitality in a city except from a resident alien old man; The
+- text: 'Only in The Levite''s concubine at Gibeah: Travelers find no hospitality in a city except from
+    a resident alien old man; Father-in-law repeatedly detains his son-in-law with food and drink; The
     townspeople refuse the travelers food and hospitality; A body (or animals) cut into twelve pieces
     and sent to the tribes as a summons; Host offers his virgin daughters to the mob to protect his guests;
     Refrain: ''In those days there was no king in Israel; each did what was right in his own eyes''.'
@@ -32,12 +32,12 @@ evidence:
     faces into the Fire: ''Taste the touch of Saqar''; The God-fearing are in gardens and a river, in
     a seat of truth with an all-powerful King; A single Cry (sayha) is sent and they become like the dry
     stubble of a pen-builder; When they solicited Lot''s guests, God obliterated their eyes; ''The host
-    will be routed and turn their backs'' (applied to Badr); Everything they did is in the scriptures
-    (zubur); every small and great thing is written down; God created everything by measure/decree (bi-qadar);
-    ''Are your unbelievers better than those, or have you an immunity (bara''a) in the scriptures (zubur)?'';
-    Lot''s family is saved at the time before dawn (bi-sahar) while a storm of stones (hasib) destroys
-    the rest; Supernatural being must leave before daybreak; Refrain: ''How then were my punishment and
-    my warnings?'' (fa-kayfa kana ''adhabi wa-nudhur); and 12 more.'
+    will be routed and turn their backs'' (applied to Badr); The high god''s command is spoken once only:
+    not twice, not turned back; Everything they did is in the scriptures (zubur); every small and great
+    thing is written down; God created everything by measure/decree (bi-qadar); ''Are your unbelievers
+    better than those, or have you an immunity (bara''a) in the scriptures (zubur)?''; Lot''s family is
+    saved at the time before dawn (bi-sahar) while a storm of stones (hasib) destroys the rest; Supernatural
+    being must leave before daybreak; and 14 more.'
   basis: reading
 - text: 'The Levite''s concubine at Gibeah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

@@ -13,32 +13,32 @@ traditions:
 layers:
 - motif
 motifs:
-- hero-reveals-identity
 - father-revived-by-news
+- hero-reveals-identity
 - hero-sees-divine-plan
 - hero-forgives-brothers
 passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero reveals his identity to his brothers (weight 6.0); Father revives
-    on hearing the hero lives (weight 6.0); Hero declares that God turned the brothers'' deed to good
-    (weight 5.6); Hero forgives his brothers (weight 5.6). Pair score 23.2.'
+- text: 'Shared motifs, rarest first: Father revives on hearing the hero lives (weight 7.1); Hero reveals
+    his identity to his brothers (weight 6.8); Hero declares that God turned the brothers'' deed to good
+    (weight 6.6); Hero forgives his brothers (weight 6.5). Pair score 27.0.'
   basis: reading
 - text: 'Only in Joseph makes himself known; the wagons sent for Jacob: Hero warns his brothers not to
     quarrel on the journey home; Hero gives his brothers changes of clothing, with a larger gift to the
     favorite; Hero made ''father'' (chief adviser) to the king; Wagons sent from Egypt to carry the father
-    and families; Hero weeps so loudly that the Egyptians and the king''s house hear; Brothers or father
-    and son fall on each other''s necks and weep; Father revives on hearing the hero lives [divergence
-    between the texts]; Hero reveals his identity to his brothers [divergence between the texts]; Hero
-    declares that God turned the brothers'' deed to good [divergence between the texts]; The family is
-    settled apart in the land of Goshen; Hero forgives his brothers [divergence between the texts].'
+    and families; Hero weeps so loudly that the Egyptians and the king''s house hear; Father revives on
+    hearing the hero lives [divergence between the texts]; Hero declares that God turned the brothers''
+    deed to good [divergence between the texts]; The family is settled apart in the land of Goshen; Hero
+    forgives his brothers [divergence between the texts]; Hero reveals his identity to his brothers [divergence
+    between the texts]; Brothers or father and son fall on each other''s necks and weep.'
   basis: reading
 - text: 'Only in Joseph in the Quran (Surah 12): Brothers persuade the reluctant father to send the hero
-    with them; Brothers come to their father at night, weeping; God reassures the hero in the pit; Hero
-    reveals himself to the youngest brother first; Father does not believe the brothers'' story; Father
-    warns the hero not to tell his dream to his brothers; Hero''s garment restores the father''s sight;
-    Hero refuses release until his innocence is established; Hero prays to die in submission and join
+    with them; Brothers come to their father at night, weeping; Hero reveals himself to the youngest brother
+    first; Father does not believe the brothers'' story; Father warns the hero not to tell his dream to
+    his brothers; Hero''s garment restores the father''s sight; Hero prays to die in submission and join
     the righteous; Hero preaches monotheism to his fellow prisoners; Hero prays that prison is preferable
-    to sin; The husband recognizes his wife''s guilt; and 53 more.'
+    to sin; The wife confesses the hero''s innocence; A witness proposes judging by where the shirt is
+    torn; Women of the city gossip about the wife''s passion; and 53 more.'
   basis: reading
 - text: 'Joseph makes himself known; the wagons sent for Jacob: tagged by Claude (model), reading the
     Hebrew.'
@@ -47,7 +47,7 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
-finding: Hero reveals his identity to his brothers
+finding: Father revives on hearing the hero lives
 kinds:
 - shared
 units:
@@ -58,6 +58,29 @@ units:
   title: Joseph in the Quran (Surah 12)
   tradition: islam
 matches:
+- kind: shared
+  label: Father revives on hearing the hero lives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 45:26
+      lang: he
+      text: וַיַּגִּ֨דוּ ל֜וֹ לֵאמֹ֗ר ע֚וֹד יוֹסֵ֣ף חַ֔י וְכִֽי ה֥וּא מֹשֵׁ֖ל בְּכָל אֶ֣רֶץ מִצְרָ֑יִם
+        וַיָּ֣פָג לִבּ֔וֹ כִּ֥י לֹא הֶאֱמִ֖ין לָהֶֽם
+    - ref: Gen 45:27
+      lang: he
+      text: וַיְדַבְּר֣וּ אֵלָ֗יו אֵ֣ת כָּל דִּבְרֵ֤י יוֹסֵף֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֲלֵהֶ֔ם וַיַּרְא֙ אֶת
+        הָ֣עֲגָל֔וֹת אֲשֶׁר שָׁלַ֥ח יוֹסֵ֖ף לָשֵׂ֣את אֹת֑וֹ וַתְּחִ֕י ר֖וּחַ יַעֲקֹ֥ב אֲבִיהֶֽם
+    - ref: Gen 45:28
+      lang: he
+      text: וַיֹּ֨אמֶר֙ יִשְׂרָאֵ֔ל רַ֛ב עוֹד יוֹסֵ֥ף בְּנִ֖י חָ֑י אֵֽלְכָ֥ה וְאֶרְאֶ֖נּוּ בְּטֶ֥רֶם אָמֽוּת
+    note: his heart went numb; his spirit revived on seeing the wagons
+  - tradition: islam
+    passages:
+    - ref: Quran 12:96
+      lang: ar
+      text: فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًا قَالَ أَلَمْ
+        أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 - kind: shared
   label: Hero reveals his identity to his brothers
   sides:
@@ -85,29 +108,6 @@ matches:
       lang: ar
       text: قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى قَدْ مَنَّ ٱللَّهُ
         عَلَيْنَآ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
-- kind: shared
-  label: Father revives on hearing the hero lives
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 45:26
-      lang: he
-      text: וַיַּגִּ֨דוּ ל֜וֹ לֵאמֹ֗ר ע֚וֹד יוֹסֵ֣ף חַ֔י וְכִֽי ה֥וּא מֹשֵׁ֖ל בְּכָל אֶ֣רֶץ מִצְרָ֑יִם
-        וַיָּ֣פָג לִבּ֔וֹ כִּ֥י לֹא הֶאֱמִ֖ין לָהֶֽם
-    - ref: Gen 45:27
-      lang: he
-      text: וַיְדַבְּר֣וּ אֵלָ֗יו אֵ֣ת כָּל דִּבְרֵ֤י יוֹסֵף֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֲלֵהֶ֔ם וַיַּרְא֙ אֶת
-        הָ֣עֲגָל֔וֹת אֲשֶׁר שָׁלַ֥ח יוֹסֵ֖ף לָשֵׂ֣את אֹת֑וֹ וַתְּחִ֕י ר֖וּחַ יַעֲקֹ֥ב אֲבִיהֶֽם
-    - ref: Gen 45:28
-      lang: he
-      text: וַיֹּ֨אמֶר֙ יִשְׂרָאֵ֔ל רַ֛ב עוֹד יוֹסֵ֥ף בְּנִ֖י חָ֑י אֵֽלְכָ֥ה וְאֶרְאֶ֖נּוּ בְּטֶ֥רֶם אָמֽוּת
-    note: his heart went numb; his spirit revived on seeing the wagons
-  - tradition: islam
-    passages:
-    - ref: Quran 12:96
-      lang: ar
-      text: فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًا قَالَ أَلَمْ
-        أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
 - kind: shared
   label: Hero declares that God turned the brothers' deed to good
   sides:

@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: He saw some of the greatest signs of his Lord (weight 6.7). Pair
-    score 6.7.'
+- text: 'Shared motifs, rarest first: He saw some of the greatest signs of his Lord (weight 7.7). Pair
+    score 7.7.'
   basis: reading
 - text: 'Only in Ezekiel''s inaugural vision by the Chebar canal: four living creatures, wheels full of
     eyes, the throne and the glory: The heavenly creatures move straight ahead in every direction without
@@ -31,7 +31,7 @@ evidence:
     of the fire gleams like hashmal (amber/electrum); The heavens are opened and the prophet sees visions
     of God; The visionary hedges every description: ''the appearance of the likeness of...''; On the throne
     is ''a likeness as the appearance of a man''; The prophet is himself a priest or of priestly family;
-    The radiance around the enthroned figure is like the rainbow in the cloud; and 14 more.'
+    The creatures'' wings sound like many waters, like the voice of Shaddai; and 14 more.'
   basis: reading
 - text: 'Only in Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and
     the Lote-Tree of the Boundary: The heart did not falsify what it saw; the gaze did not swerve nor
@@ -40,10 +40,12 @@ evidence:
     the Boundary (sidrat al-muntaha), near the Garden of Refuge; The heavenly figure came within two bow-lengths
     or nearer (qaba qawsayn aw adna) and revealed to his servant; Leaders see God with a sapphire-like
     pavement under his feet; One mighty in power (shadid al-quwa) taught him, stood poised on the highest
-    horizon, then drew near and descended; Your companion has not erred; he does not speak from desire;
-    it is only revelation revealed; Whether a prophet speaks from his own heart or desire, or by revelation
-    [contrast between the texts]; What or whom the visionaries saw: God himself or his messenger [divergence
-    between the texts]; No human can see God''s face and live; A tree whose fruit gives eternal life.'
+    horizon, then drew near and descended; Taken up to heaven, the mortal looks from the horizon (base
+    of heaven) to the heights of heaven and sees its awesomeness; Your companion has not erred; he does
+    not speak from desire; it is only revelation revealed; Whether a prophet speaks from his own heart
+    or desire, or by revelation [contrast between the texts]; A literary work is ''what was revealed to''
+    a named sage or poet and what he then proclaimed; What or whom the visionaries saw: God himself or
+    his messenger [divergence between the texts]; and 2 more.'
   basis: reading
 - text: 'Ezekiel''s inaugural vision by the Chebar canal: four living creatures, wheels full of eyes,
     the throne and the glory: tagged by Claude (model), reading the Hebrew.'

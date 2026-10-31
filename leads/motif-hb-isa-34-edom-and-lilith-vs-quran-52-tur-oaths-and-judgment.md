@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day the sky heaves (tamur) and the mountains move away (weight
-    6.3). Pair score 6.3.'
+    7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins:
     ''Seek in the book of YHWH and read: not one of these is missing''; God has allotted the land to the
@@ -31,10 +31,10 @@ evidence:
     of emptiness (bohu); The damned wear garments of pitch (qatiran), fire covering their faces; All the
     host of heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves
     from vine and fig [divergence between the texts]; God himself devotes the nations (or a nation) to
-    destruction (herem) and gives them to slaughter; Ruined city never reinhabited, even by Arab tents
-    or shepherds; inhabited by desert creatures, ostriches, jackals and dancing goat-demons (se''irim);
-    God''s flashing sword devours flesh and his arrows are drunk with blood; Land made brimstone and salt
-    like Sodom, Gomorrah, Admah and Zeboiim; and 2 more.'
+    destruction (herem) and gives them to slaughter; Land made brimstone and salt like Sodom, Gomorrah,
+    Admah and Zeboiim; God''s flashing sword devours flesh and his arrows are drunk with blood; All the
+    host of heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves
+    from vine and fig; and 2 more.'
   basis: reading
 - text: 'Only in Al-Tur: the oath by the Mount, the inscribed parchment and the frequented House; the
     sky heaves: The deniers are shoved into the Fire and asked ''Is this sorcery, or do you not see?'';

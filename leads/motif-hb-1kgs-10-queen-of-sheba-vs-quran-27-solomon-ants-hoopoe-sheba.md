@@ -20,8 +20,8 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the queen of Sheba says of Solomon''s God [divergence between
-    the texts] (weight 6.3); A foreign queen tests the king with riddles and he answers them all (weight
-    6.3). Pair score 12.6.'
+    the texts] (weight 7.3); A foreign queen tests the king with riddles and he answers them all (weight
+    7.3). Pair score 14.7.'
   basis: reading
 - text: 'Only in The Queen of Sheba visits Solomon: Visitor confesses that reports did not tell even half
     of the king''s wisdom and wealth; Rare almug wood from Ophir used for temple supports and lyres for
@@ -42,7 +42,7 @@ evidence:
     test whether she recognizes it; she says ''It is as though it were it''; The queen and her people
     prostrate to the sun instead of God; Solomon inherits from David (knowledge and kingship); Solomon
     prays to be inspired to thank God for favor to him and his parents and to be admitted among the righteous;
-    and 21 more.'
+    and 41 more.'
   basis: reading
 - text: 'The Queen of Sheba visits Solomon: tagged by Claude (model), reading the Hebrew.'
   basis: reading

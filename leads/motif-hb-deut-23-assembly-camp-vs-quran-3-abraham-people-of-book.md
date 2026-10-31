@@ -19,17 +19,17 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether obligations differ toward insiders and outsiders [response
-    between the texts] (weight 6.3). Pair score 6.3.'
+    between the texts] (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Admission to the assembly; camp purity; slaves, interest, vows: Edomites (brothers) and
-    Egyptians (hosts) admitted in the third generation; Escaped slave not returned to his master; he may
-    live where he chooses; Harlot''s hire and the price of a dog may not be brought to the temple for
-    a vow; Latrine outside the war camp; dig with a spade and cover excrement because God walks in the
-    camp; Man unclean from a nocturnal emission stays outside the camp until evening and washes; Ammonites
-    and Moabites never admitted, for withholding bread and water and hiring Balaam; Whether obligations
-    differ toward insiders and outsiders [contrast between the texts]; You may eat your fill in a neighbor''s
-    vineyard or pluck ears by hand, but not carry away or use a sickle; Man with crushed testicles or
-    severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation;
+    Egyptians (hosts) admitted in the third generation; Harlot''s hire and the price of a dog may not
+    be brought to the temple for a vow; Latrine outside the war camp; dig with a spade and cover excrement
+    because God walks in the camp; Man unclean from a nocturnal emission stays outside the camp until
+    evening and washes; Ammonites and Moabites never admitted, for withholding bread and water and hiring
+    Balaam; Whether obligations differ toward insiders and outsiders [contrast between the texts]; You
+    may eat your fill in a neighbor''s vineyard or pluck ears by hand, but not carry away or use a sickle;
+    Escaped slave not returned to his master; he may live where he chooses; Man with crushed testicles
+    or severed member excluded from the assembly; Mamzer excluded from the assembly to the tenth generation;
     Protection for someone who seeks refuge [divergence between the texts]; God turned Balaam''s curse
     into a blessing; and 4 more.'
   basis: reading
@@ -41,7 +41,9 @@ evidence:
     twist their tongues with the book so you think it is from the book; Abraham''s relation to the law
     given later at Sinai [response between the texts]; Call to the People of the Book to a common word:
     worship none but God and take none as lords besides him; Debts of a foreigner may still be exacted
-    though a brother''s are released; Abraham was a hanif, neither Jew nor Christian nor polytheist.'
+    though a brother''s are released; A word of the root ḥ-n-p (Canaanite ḥanpa ''impious deed'', Arabic
+    ḥanīf) applied to a deed or a person [neutral] [divergence between the texts]; Abraham was a hanif,
+    neither Jew nor Christian nor polytheist.'
   basis: reading
 - text: 'Admission to the assembly; camp purity; slaves, interest, vows: tagged by Claude (model), reading
     the Hebrew.'

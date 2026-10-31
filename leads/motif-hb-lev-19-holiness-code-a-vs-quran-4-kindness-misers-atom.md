@@ -18,27 +18,29 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Love your neighbor as yourself (weight 6.7). Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Love your neighbor as yourself (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Be holy - ethical laws and love of neighbor: Do not stand idly by the blood of your neighbor;
-    Do not take vengeance or bear a grudge against your people; Do not hate your brother in your heart;
-    rebuke your neighbor instead; Each person must revere mother and father; Command ''You shall be holy,
-    for I am holy''; A Quranic code of commandments resembling the Decalogue in content [divergence between
-    the texts]; Fulfill God''s covenant and do not break oaths after confirming them or use them for deceit;
-    Do not curse the deaf or put a stumbling block before the blind; Sacrificial meat eaten on the third
-    day is abhorrent (piggul) and the offering is invalid; The share of the poor in the owner''s harvest
-    or wealth [divergence between the texts]; If you retaliate, do so in kind; but patience is better;
-    Give the kinsman, the poor and the wayfarer their due; and 6 more.'
+    Do not hate your brother in your heart; rebuke your neighbor instead; Each person must revere mother
+    and father; Command ''You shall be holy, for I am holy''; A Quranic code of commandments resembling
+    the Decalogue in content [divergence between the texts]; Fulfill God''s covenant and do not break
+    oaths after confirming them or use them for deceit; Do not take vengeance or bear a grudge against
+    your people; Sacrificial meat eaten on the third day is abhorrent (piggul) and the offering is invalid;
+    The share of the poor in the owner''s harvest or wealth [divergence between the texts]; If you retaliate,
+    do so in kind; but patience is better; Give the kinsman, the poor and the wayfarer their due; Forgotten
+    sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between the texts];
+    and 6 more.'
   basis: reading
 - text: 'Only in The circle of kindness, misers, and the atom''s weight: Misers who urge stinginess and
     hide what God gave them of his bounty; On that day the disbelievers wish the earth were leveled over
-    them; God does not wrong anyone by an atom''s weight (mithqāl dharra); Good works (spending, prayer)
-    done to be seen by people (riyāʾ); God multiplies a good deed (tenfold) while an evil deed is requited
-    only by its like; They will say to the mountains ''Cover us'' and to the hills ''Fall on us''; Kindness
-    to the near neighbor, the distant neighbor, the companion at one''s side and the wayfarer; Whoever
-    turns from God''s remembrance is assigned a devil as constant companion (qarin), whom he curses at
-    the judgment; On judgment day a witness is brought from every nation, and the Prophet as witness over
-    them; Honor father and mother, with the promise of long life.'
+    them; God does not wrong anyone by an atom''s weight (mithqāl dharra); Being covered over by a mountain
+    or by the earth: cursed on others or wished for oneself [shared matter] [divergence between the texts];
+    Good works (spending, prayer) done to be seen by people (riyāʾ); God multiplies a good deed (tenfold)
+    while an evil deed is requited only by its like; Kindness to the near neighbor, the distant neighbor,
+    the companion at one''s side and the wayfarer; Whoever turns from God''s remembrance is assigned a
+    devil as constant companion (qarin), whom he curses at the judgment; They will say to the mountains
+    ''Cover us'' and to the hills ''Fall on us''; On judgment day a witness is brought from every nation,
+    and the Prophet as witness over them; Honor father and mother, with the promise of long life.'
   basis: reading
 - text: 'Be holy - ethical laws and love of neighbor: tagged by Claude (model), reading the Hebrew.'
   basis: reading

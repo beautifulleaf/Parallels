@@ -14,41 +14,42 @@ traditions:
 layers:
 - motif
 motifs:
-- embryo-stages-dust-drop-clot-lump
 - golem-seen-days-written-in-book
+- embryo-stages-dust-drop-clot-lump
 - embryo-curdled-like-cheese
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Humans created from dust, then a drop (nuṭfa), then a clinging clot
-    (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped (weight 6.3); God''s eyes saw the speaker''s
-    unformed substance (golem); all his days were written in God''s book before one of them existed (weight
-    6.3); God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (weight 5.8). Pair score 18.3.'
+- text: 'Shared motifs, rarest first: God''s eyes saw the speaker''s unformed substance (golem); all his
+    days were written in God''s book before one of them existed (weight 7.3); Humans created from dust,
+    then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped
+    (weight 7.3); God poured the embryo out like milk and curdled it like cheese, clothing it with skin
+    and flesh and knitting bones and sinews (weight 6.8). Pair score 21.5.'
   basis: reading
 - text: 'Only in Psalm 139, God''s all-knowing presence and the embryo: Darkness is not dark to God; night
     shines like day, darkness and light are alike; ''YHWH, you have searched me and known me'': God knows
-    sitting and rising, thoughts from afar, every word before it is spoken; Nowhere to flee God''s spirit:
-    if I ascend to heaven you are there, if I make my bed in Sheol you are there; ''Do I not hate those
-    who hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar)
-    and dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s
-    leave at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti)
-    in the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before
-    God brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
+    sitting and rising, thoughts from afar, every word before it is spoken; ''Do I not hate those who
+    hate you, YHWH? I hate them with perfect hatred''; ''If I take the wings of the dawn (shahar) and
+    dwell at the far end of the sea, even there your hand leads me''; No soul dies except by God''s leave
+    at a term written (kitaban mu''ajjalan); Speaker was made in secret and embroidered (ruqqamti) in
+    the depths of the earth; No calamity befalls the earth or yourselves but it is in a Book before God
+    brings it into being; Nothing wet or dry but is in a clear book; Fleeing from God, or to God [divergence
     between the texts]; God''s knowledge of a person''s thoughts and words, from afar or from near [divergence
     between the texts]; God knows what the earth diminishes of the dead bodies, and with him is a preserving
-    record; and 13 more.'
+    record; Nowhere to flee God''s spirit: if I ascend to heaven you are there, if I make my bed in Sheol
+    you are there; and 13 more.'
   basis: reading
 - text: 'Only in Man from clay through the stages of the womb; seven paths, water, Sinai''s tree, cattle
     and ships: God called ''the best of creators'' (aḥsan al-khāliqīn); Cattle are a lesson: God gives
     drink from what is in their bellies; A tree springing from Mount Sinai (Ṭūr Saynāʾ) yields oil and
     a relish for eaters; In the womb God makes the lump into bones and clothes the bones with flesh, then
     makes it another creation; God''s crafting of the human body, and what is said to follow from it [divergence
-    between the texts]; At creation God fixed the weight of the wind, the measure of the waters, a decree
-    for the rain and a way for the thunderbolt; The speaker too was ''pinched off from clay'' (qoratsti),
-    like a figure nipped from a lump of clay; God fashions seven heavens; First human shaped from dust,
-    clay or soil.'
+    between the texts]; Man is made from compacted (clotted) blood and then bones; God makes the fluid
+    (seed) in women into a human and forms the child in its mother''s belly; At creation God fixed the
+    weight of the wind, the measure of the waters, a decree for the rain and a way for the thunderbolt;
+    God fashions seven heavens; The speaker too was ''pinched off from clay'' (qoratsti), like a figure
+    nipped from a lump of clay; First human shaped from dust, clay or soil.'
   basis: reading
 - text: 'Psalm 139, God''s all-knowing presence and the embryo: tagged by Claude (model), reading the
     Hebrew.'

@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created livestock and subjected them to people for riding, food,
-    benefits and drink (weight 6.3). Pair score 6.3.'
+    benefits and drink (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Psalm 8 - what is man: The heavens, moon and stars are the work of God''s fingers; Man
     made a little lower than elohim and crowned with glory and honor; Refrain: ''How majestic is your
@@ -36,9 +36,9 @@ evidence:
     will give life to bones when they have rotted?''; the answer: he who produced them the first time;
     God asks ''Can these bones live?'' and the prophet answers ''Lord God, you know''; The question whether
     dead bones can live again, and who asks it [divergence between the texts]; God made fire for you from
-    the green tree, from which you kindle; Deity creates by spoken command (Let there be...); God originates
-    creation and then repeats it (resurrection as re-creation); God creates by saying to a thing ''Be''
-    and it is (kun fa-yakun).'
+    the green tree, from which you kindle; God originates creation and then repeats it (resurrection as
+    re-creation); Deity creates by spoken command (Let there be...); God creates by saying to a thing
+    ''Be'' and it is (kun fa-yakun).'
   basis: reading
 - text: 'Psalm 8 - what is man: tagged by Claude (model), reading the Hebrew.'
   basis: reading

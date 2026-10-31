@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a prophet speaks from his own heart or desire, or by revelation
-    [contrast between the texts] (weight 6.7). Pair score 6.7.'
+    [contrast between the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Concerning the prophets - who has stood in the council of YHWH?: The prophet''s heart
     is broken and all his bones shake; he is like a drunken man because of God''s holy words; The prophets
@@ -29,11 +29,11 @@ evidence:
     (mei rosh) to drink and wormwood to eat; ''Have you listened in the council (sod) of God, and limited
     wisdom to yourself?''; Prophets and priests heal the wound lightly, saying ''Peace, peace'' when there
     is no peace; Opponents nearly lure the prophet into inventing something else; God makes him firm;
-    The storm of YHWH''s fury goes out and whirls on the head of the wicked; in the latter days you will
-    understand it; God enthroned with the host of heaven standing at his right and left deliberates; The
-    tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the damned
+    The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the damned
     fill their bellies and drink boiling water; God did not send the prophets who promise peace; they
-    prophesy a lying vision, divination and the deceit of their heart.'
+    prophesy a lying vision, divination and the deceit of their heart; The storm of YHWH''s fury goes
+    out and whirls on the head of the wicked; in the latter days you will understand it; God enthroned
+    with the host of heaven standing at his right and left deliberates.'
   basis: reading
 - text: 'Only in Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and
     the Lote-Tree of the Boundary: The heart did not falsify what it saw; the gaze did not swerve nor
@@ -42,10 +42,11 @@ evidence:
     the Boundary (sidrat al-muntaha), near the Garden of Refuge; The heavenly figure came within two bow-lengths
     or nearer (qaba qawsayn aw adna) and revealed to his servant; Leaders see God with a sapphire-like
     pavement under his feet; He saw some of the greatest signs of his Lord; One mighty in power (shadid
-    al-quwa) taught him, stood poised on the highest horizon, then drew near and descended; Your companion
-    has not erred; he does not speak from desire; it is only revelation revealed; What or whom the visionaries
-    saw: God himself or his messenger [divergence between the texts]; No human can see God''s face and
-    live; A tree whose fruit gives eternal life.'
+    al-quwa) taught him, stood poised on the highest horizon, then drew near and descended; Taken up to
+    heaven, the mortal looks from the horizon (base of heaven) to the heights of heaven and sees its awesomeness;
+    Your companion has not erred; he does not speak from desire; it is only revelation revealed; A literary
+    work is ''what was revealed to'' a named sage or poet and what he then proclaimed; What or whom the
+    visionaries saw: God himself or his messenger [divergence between the texts]; and 2 more.'
   basis: reading
 - text: 'Concerning the prophets - who has stood in the council of YHWH?: tagged by Claude (model), reading
     the Hebrew.'

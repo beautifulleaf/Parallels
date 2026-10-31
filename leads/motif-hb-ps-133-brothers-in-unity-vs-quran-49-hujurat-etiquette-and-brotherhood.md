@@ -19,12 +19,13 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The believers are nothing but brothers, so make peace between your
-    brothers (weight 6.7). Pair score 6.7.'
+    brothers (weight 7.7). Pair score 7.7.'
   basis: reading
-- text: 'Only in Psalm 133, brothers dwelling together, oil and dew: ''How good and pleasant when brothers
-    dwell together in unity''; Like the dew of Hermon descending on the mountains of Zion, where God commanded
-    blessing, life forever; Unity likened to the fine oil on the head running down the beard of Aaron
-    onto the collar of his robes; Superscription ''A song of ascents'' (shir ha-ma''alot), Ps 120-134.'
+- text: 'Only in Psalm 133, brothers dwelling together, oil and dew: Like the dew of Hermon descending
+    on the mountains of Zion, where God commanded blessing, life forever; Unity likened to the fine oil
+    on the head running down the beard of Aaron onto the collar of his robes; ''How good and pleasant
+    when brothers dwell together in unity''; Superscription ''A song of ascents'' (shir ha-ma''alot),
+    Ps 120-134.'
   basis: reading
 - text: 'Only in Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and
     the peoples and tribes: Those who call the prophet from outside his private chambers (hujurat) lack
@@ -36,11 +37,10 @@ evidence:
     (one father, one pair, one God) as ground for conduct toward others [divergence between the texts];
     Believers must not put themselves before God and his messenger, nor raise their voices above the prophet''s
     or shout to him; Humanity created from a male and a female and made into peoples (shu''ub) and tribes
-    to know one another; the noblest is the most pious; ''Have we not all one father? Has not one God
-    created us? Why do we deal treacherously with one another?''; Slander or gossip pictured as eating
-    [divergence between the texts]; If a corrupt person brings you news, verify it lest you harm a people
-    in ignorance and come to regret it; Avoid suspicion, spying and backbiting: would one of you like
-    to eat the flesh of his dead brother?; and 4 more.'
+    to know one another; the noblest is the most pious; Denial / prohibition of eavesdropping or spying
+    on others; ''Have we not all one father? Has not one God created us? Why do we deal treacherously
+    with one another?''; Slander or backbiting is pictured as eating the slandered person''s flesh; Slander
+    or gossip pictured as eating [divergence between the texts]; and 12 more.'
   basis: reading
 - text: 'Psalm 133, brothers dwelling together, oil and dew: tagged by Claude (model), reading the Hebrew.'
   basis: reading

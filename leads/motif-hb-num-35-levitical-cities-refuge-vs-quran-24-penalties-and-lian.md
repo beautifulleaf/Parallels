@@ -20,30 +20,30 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many witnesses a charge requires [divergence between the texts]
-    (weight 6.3); No one put to death on the testimony of a single witness (weight 5.4). Pair score 11.7.'
+    (weight 7.3); No one put to death on the testimony of a single witness (weight 6.5). Pair score 13.8.'
   basis: reading
 - text: 'Only in Levitical cities, cities of refuge and the law of homicide: Murder distinguished from
     manslaughter by weapon (iron, stone, wood), enmity and intent; Manslayer may leave refuge only at
     the death of the high priest; Shed blood pollutes the land and only the killer''s blood atones for
     it; Forty-eight cities with pasture-lands of measured cubits assigned to the Levites; No ransom (kofer)
     may be taken for a murderer''s life; A place of refuge for one who kills unintentionally [divergence
-    between the texts]; The ''redeemer of blood'' (go''el ha-dam) kills the murderer; Same law for the
-    resident alien and the native; Whether payment may substitute for a life [contrast between the texts];
-    Six cities of refuge for the unintentional killer, three on each side of the Jordan.'
+    between the texts]; Same law for the resident alien and the native; Whether payment may substitute
+    for a life [contrast between the texts]; Six cities of refuge for the unintentional killer, three
+    on each side of the Jordan; The ''redeemer of blood'' (go''el ha-dam) kills the murderer.'
   basis: reading
 - text: 'Only in Lashes for fornication, four witnesses and the mutual cursing oath: The fornicating woman
     and man each receive a hundred lashes, witnessed by a party of believers; A fornicator may marry only
     a fornicator or an idolater; such marriage is forbidden to believers; A husband accusing his wife
     without witnesses swears four times by God and a fifth time invokes God''s curse on himself if lying;
     she averts punishment by four counter-oaths and a fifth invoking God''s wrath; Whether the husband
-    who accuses his wife bears any liability [contrast between the texts]; Wife suspected of adultery
-    drinks ''water of bitterness'' as an ordeal; Whoever accuses a chaste woman without four witnesses
-    is flogged eighty lashes and his testimony is never accepted; Who is barred from marrying an unchaste
-    woman [divergence between the texts]; Judges told to let no pity hold them back from carrying out
-    a fixed punishment; How many lashes a flogging may have [contrast between the texts]; A man accused
-    swears a curse-oath before the altar, and God judges guilty and innocent; Who swears, and how, when
-    a husband suspects his wife of adultery without witnesses [divergence between the texts]; The penalty
-    for adultery or fornication [contrast between the texts]; and 6 more.'
+    who accuses his wife bears any liability [contrast between the texts]; The adulterer is excluded from
+    the company of the just [divergence between the texts]; Wife suspected of adultery drinks ''water
+    of bitterness'' as an ordeal; Whoever accuses a chaste woman without four witnesses is flogged eighty
+    lashes and his testimony is never accepted; Who is barred from marrying an unchaste woman [divergence
+    between the texts]; Judges told to let no pity hold them back from carrying out a fixed punishment;
+    How many lashes a flogging may have [contrast between the texts]; A man accused swears a curse-oath
+    before the altar, and God judges guilty and innocent; Who swears, and how, when a husband suspects
+    his wife of adultery without witnesses [divergence between the texts]; and 7 more.'
   basis: reading
 - text: 'Levitical cities, cities of refuge and the law of homicide: tagged by Claude (model), reading
     the Hebrew.'

@@ -20,20 +20,21 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: It is the word of a noble messenger, not the word of a poet or soothsayer
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Fire in the southern forest; the song of the sword; Babylon''s divination at the crossroads;
     against Ammon: God kindles an unquenchable fire in the forest of the south that devours every green
-    tree and every dry tree; Divination by inspecting the liver (hepatoscopy); At the fork of two roads
-    the king of Babylon divines: he shakes arrows, consults teraphim and inspects the liver; Prophet commanded
-    to groan with breaking loins before the people; when asked why, he announces coming news; ''A ruin,
-    a ruin, a ruin I will make it ... until he comes to whom judgment belongs, and I will give it to him'';
-    Incantatory song of the sharpened and polished sword, flashing like lightning, given to the slayer;
-    God draws his sword from its sheath against righteous and wicked alike, and it will not return; The
-    sword is returned to its sheath and Ammon is judged in the land of its origin and forgotten; Remove
-    the turban and take off the crown: the low exalted, the high brought low; Divination by shaking or
-    drawing arrows (belomancy); In terror all hands go slack and all knees run with water; People dismiss
-    the prophet: ''Is he not just a maker of parables (memashel meshalim)?''; and 4 more.'
+    tree and every dry tree; At the fork of two roads the king of Babylon divines: he shakes arrows, consults
+    teraphim and inspects the liver; Prophet commanded to groan with breaking loins before the people;
+    when asked why, he announces coming news; ''A ruin, a ruin, a ruin I will make it ... until he comes
+    to whom judgment belongs, and I will give it to him''; Incantatory song of the sharpened and polished
+    sword, flashing like lightning, given to the slayer; God draws his sword from its sheath against righteous
+    and wicked alike, and it will not return; The sword is returned to its sheath and Ammon is judged
+    in the land of its origin and forgotten; Remove the turban and take off the crown: the low exalted,
+    the high brought low; Divination by shaking or drawing arrows (belomancy); In terror all hands go
+    slack and all knees run with water; People dismiss the prophet: ''Is he not just a maker of parables
+    (memashel meshalim)?''; Scepter shall not depart from Judah until Shiloh comes and peoples obey him;
+    and 4 more.'
   basis: reading
 - text: 'Only in The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the
     aorta of a forger: Whoever is given his book in his left hand wishes he had never been given it and
@@ -44,10 +45,10 @@ evidence:
     seized him by the right hand and cut his aorta (watin); ''I swear by what you see and what you do
     not see''; ''Seize him, fetter him, roast him in hellfire, then thread him on a chain seventy cubits
     long''; ''This is the certain truth'' (haqq al-yaqin); Reclining on couches lined with brocade, with
-    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; God
-    keeps a book in which names are written and from which sinners are blotted [divergence between the
-    texts]; Kings bound with chains and nobles with fetters of iron to execute ''the judgment written'';
-    and 5 more.'
+    the fruit of the gardens hanging near; ''Eat and drink with relish for what you used to do''; An offence
+    concerning food is repaid with foul food and drink [divergence between the texts]; God keeps a book
+    in which names are written and from which sinners are blotted [divergence between the texts]; and
+    8 more.'
   basis: reading
 - text: 'Fire in the southern forest; the song of the sword; Babylon''s divination at the crossroads;
     against Ammon: tagged by Claude (model), reading the Hebrew.'

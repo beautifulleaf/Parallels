@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Your Lord said ''Call on me and I will answer you'' (weight 6.7).
-    Pair score 6.7.'
+- text: 'Shared motifs, rarest first: Your Lord said ''Call on me and I will answer you'' (weight 7.7).
+    Pair score 7.7.'
   basis: reading
 - text: 'Only in Healing of the city, the Righteous Branch and the covenant with day and night: God invites
     the prophet to call so he will reveal great and hidden things; God has a ''covenant with day and night''
@@ -38,10 +38,11 @@ evidence:
     of humankind; The form God gave humans at creation [divergence between the texts]; From dust, then
     a drop, then a clinging clot (''alaqa), then a child, then full strength, then old age; some die before;
     Rhetorical question: are the blind and the seeing equal, or darkness and light?; God made leaders
-    (a''imma) among the Israelites who guided by his command because they were patient; Humanity made
-    in the image or likeness of the deity; Glorify God in the evening, morning, afternoon and noon (set
-    times of praise or prayer); God creates by saying to a thing ''Be'' and it is (kun fa-yakun); Sun
-    and moon are set to rule day and night and mark signs and seasons.'
+    (a''imma) among the Israelites who guided by his command because they were patient; The creator made
+    heaven and earth, light, air and food ''for their sake'' (n-jb =sn), for humankind; Glorify God in
+    the evening, morning, afternoon and noon (set times of praise or prayer); Humanity made in the image
+    or likeness of the deity; God creates by saying to a thing ''Be'' and it is (kun fa-yakun); Sun and
+    moon are set to rule day and night and mark signs and seasons.'
   basis: reading
 - text: 'Healing of the city, the Righteous Branch and the covenant with day and night: tagged by Claude
     (model), reading the Hebrew.'

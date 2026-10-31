@@ -19,8 +19,8 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The people weep on hearing the words of the Torah (weight 6.3).
-    Pair score 6.3.'
+- text: 'Shared motifs, rarest first: The people weep on hearing the words of the Torah (weight 7.3).
+    Pair score 7.3.'
   basis: reading
 - text: 'Only in Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored: Assembly
     answers the blessing ''Amen, Amen'' with uplifted hands and prostrates; Festival booths built on rooftops,
@@ -28,10 +28,10 @@ evidence:
     ''The joy of the LORD is your strength''; Studying the Torah, the leaders find a forgotten commandment
     written in it; Levites explain the Torah reading so the people understand it; When the reader opens
     the scroll all the people stand up; On the holy day the people eat, drink and send portions to those
-    who have nothing; Reader stands on a wooden tower made for the purpose, flanked by named men; The
-    people gather ''as one man'' to Jerusalem; An eighth day of solemn assembly (''atseret) closes the
-    seven-day festival; Fruit of a goodly tree, palm fronds, leafy boughs and brook willows taken for
-    the festival; and 5 more.'
+    who have nothing; Reader stands on a wooden tower made for the purpose, flanked by named men; An eighth
+    day of solemn assembly (''atseret) closes the seven-day festival; Fruit of a goodly tree, palm fronds,
+    leafy boughs and brook willows taken for the festival; Those who do not prostrate when the scripture
+    is recited to them are rebuked (a prostration verse) [contrast between the texts]; and 5 more.'
   basis: reading
 - text: 'Only in Against the deification of Jesus; the weeping Christians: Hearing the revelation, their
     eyes overflow with tears at the truth they recognize; The unbelievers of Israel were cursed by the

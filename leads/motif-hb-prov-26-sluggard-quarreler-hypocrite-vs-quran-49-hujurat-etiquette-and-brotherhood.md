@@ -19,18 +19,18 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The words of a whisperer are like delicious morsels that go down
-    into the inner chambers of the belly (weight 6.3). Pair score 6.3.'
+    into the inner chambers of the belly (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Sayings on the sluggard, the meddler, the whisperer and the hypocrite: Burning lips with
-    an evil heart are like silver dross glazed over an earthen pot; He who meddles in a quarrel not his
-    own is like one who seizes a passing dog by the ears; Without wood the fire goes out; without a whisperer
-    quarreling ceases; He who rolls a stone, it will come back upon him; When the hater speaks graciously,
-    do not believe him, for seven abominations are in his heart; As a door turns on its hinge, so does
-    the sluggard on his bed; The sluggard is wiser in his own eyes than seven who answer with discretion;
-    Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says ''I
-    was only joking''; The sluggard buries his hand in the dish and will not even bring it back to his
-    mouth; The sluggard says ''There is a lion outside; I shall be killed in the streets''; The evil plot
-    encompasses only its own authors; He who digs a pit or hides a net is caught in it himself.'
+    an evil heart are like silver dross glazed over an earthen pot; Without wood the fire goes out; without
+    a whisperer quarreling ceases; He who rolls a stone, it will come back upon him; When the hater speaks
+    graciously, do not believe him, for seven abominations are in his heart; As a door turns on its hinge,
+    so does the sluggard on his bed; The sluggard is wiser in his own eyes than seven who answer with
+    discretion; Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor
+    and says ''I was only joking''; He who meddles in a quarrel not his own is like one who seizes a passing
+    dog by the ears; The sluggard buries his hand in the dish and will not even bring it back to his mouth;
+    The sluggard says ''There is a lion outside; I shall be killed in the streets''; The evil plot encompasses
+    only its own authors; He who digs a pit or hides a net is caught in it himself.'
   basis: reading
 - text: 'Only in Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and
     the peoples and tribes: Those who call the prophet from outside his private chambers (hujurat) lack
@@ -43,10 +43,9 @@ evidence:
     God) as ground for conduct toward others [divergence between the texts]; Believers must not put themselves
     before God and his messenger, nor raise their voices above the prophet''s or shout to him; Humanity
     created from a male and a female and made into peoples (shu''ub) and tribes to know one another; the
-    noblest is the most pious; ''Have we not all one father? Has not one God created us? Why do we deal
-    treacherously with one another?''; Slander or gossip pictured as eating [divergence between the texts];
-    If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to regret
-    it; and 4 more.'
+    noblest is the most pious; Denial / prohibition of eavesdropping or spying on others; ''Have we not
+    all one father? Has not one God created us? Why do we deal treacherously with one another?''; Slander
+    or backbiting is pictured as eating the slandered person''s flesh; and 12 more.'
   basis: reading
 - text: 'Sayings on the sluggard, the meddler, the whisperer and the hypocrite: tagged by Claude (model),
     reading the Hebrew.'

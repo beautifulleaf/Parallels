@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nazirite''s shaved hair is put on the fire under the well-being
-    offering (weight 6.7). Pair score 6.7.'
+    offering (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in The Nazirite vow: Priest places the boiled shoulder and cakes in the hands of the shaved
     Nazirite and waves them; Nazirite may not become unclean even for the corpse of father, mother, brother

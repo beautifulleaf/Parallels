@@ -12,36 +12,38 @@ traditions:
 layers:
 - motif
 motifs:
-- repentance-brings-abundant-rain-as-divergence
 - promise-never-again-as-divergence
+- repentance-brings-abundant-rain-as-divergence
 - reason-human-wickedness-as-divergence
 - hero-prays-for-judgment-as-divergence
 - hero-preaches-to-people-as-divergence
 - family-saved-as-divergence
-- hero-warned-by-deity
 - universal-destruction
+- hero-warned-by-deity
 passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Seek forgiveness and repent, and God will send the sky down on you
-    in abundant rain [divergence between the texts] (weight 6.7); Deity resolves or promises not to repeat
-    the destruction [divergence between the texts] (weight 6.7); Destruction motivated by human wickedness
-    or violence [divergence between the texts] (weight 6.7); Hero asks the deity to judge or destroy his
-    opponents [divergence between the texts] (weight 6.3); Hero warns or preaches to his people before
-    the flood [divergence between the texts] (weight 6.3); Hero''s family saved with him [divergence between
-    the texts] (weight 5.4); Hero privately warned of the coming flood by a deity (weight 5.1); All others
-    perish (weight 5.0). Pair score 48.1.'
+- text: 'Shared motifs, rarest first: Deity resolves or promises not to repeat the destruction [divergence
+    between the texts] (weight 7.7); Seek forgiveness and repent, and God will send the sky down on you
+    in abundant rain [divergence between the texts] (weight 7.7); Destruction motivated by human wickedness
+    or violence [divergence between the texts] (weight 7.7); Hero asks the deity to judge or destroy his
+    opponents [divergence between the texts] (weight 7.3); Hero warns or preaches to his people before
+    the flood [divergence between the texts] (weight 7.3); Hero''s family saved with him [divergence between
+    the texts] (weight 6.5); All others perish (weight 5.9); Hero privately warned of the coming flood
+    by a deity (weight 5.8). Pair score 56.1.'
   basis: reading
 - text: 'Only in The Flood (full read): Clean animals taken aboard by sevens, unclean by pairs; Flood
     events given exact calendar dates (year of hero''s life, month, day); Rain or flood lasts forty days
-    and forty nights; God regrets having made humankind and is grieved in his heart; God himself shuts
-    the vessel''s door behind the hero; A dove returns with an olive leaf in its beak; A raven is sent
-    out and does not return (goes to and fro); Seven days pass between the warning or boarding and the
-    onset of the flood; Vessel has several decks, a side door and a roof opening or window; God sends
-    a wind (ruah) over the earth to make the waters subside; Angels object that the new human will corrupt
-    the earth and shed blood while they praise God; When the water overflowed God carried ''you'' in the
-    running ship (al-jariya) as a reminder for retaining ears [divergence between the texts]; and 38 more.'
+    and forty nights; A dove returns with an olive leaf in its beak; Seven days pass between the warning
+    or boarding and the onset of the flood; Angels object that the new human will corrupt the earth and
+    shed blood while they praise God; When the water overflowed God carried ''you'' in the running ship
+    (al-jariya) as a reminder for retaining ears [divergence between the texts]; What sets the flood in
+    motion: God''s decision on violence, or the rejected prophet''s prayer [divergence between the texts];
+    How the ark is described [divergence between the texts]; What the flood hero does when the vessel
+    comes to rest [divergence between the texts]; What God says of later generations after the flood:
+    no repeat, or punishment to come [contrast between the texts]; How the flood waters are stopped and
+    subside [divergence between the texts]; and 38 more.'
   basis: reading
 - text: 'Only in Noah''s preaching, the five idols and the flood: Because of their sins they were drowned
     and then made to enter a fire; The people put their fingers in their ears and wrap their garments
@@ -49,12 +51,13 @@ evidence:
     Yaghuth, Ya''uq and Nasr; The flood hero prays for forgiveness for himself, his parents, whoever enters
     his house believing, and all believers; God caused humans to grow from the earth like a plant, returns
     them to it and will bring them out again; Prophet summons his people night and day, openly and in
-    secret, yet they only flee further; Human comes from dust and returns to dust [divergence between
-    the texts]; God created seven heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens)
-    above humans; The sun is made a lamp (siraj), a blazing lamp, and the moon a light (nur) within the
-    heavens; God made the great lights: the sun to rule the day, the moon and stars to rule the night;
-    Seek forgiveness and repent, and God will send the sky down on you in abundant rain; God spread out
-    the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha); and 6 more.'
+    secret, yet they only flee further; People are put into the earth and brought out of it again [divergence
+    between the texts]; Destroying a people together with their offspring because of their character [neutral]
+    [divergence between the texts]; Human comes from dust and returns to dust [divergence between the
+    texts]; Before the flood the hero tells his city that heaven will rain plenty on them [divergence
+    between the texts]; A wish that no one be left alive by the destruction [divergence between the texts];
+    God created seven heavens in layers (sab'' samawat tibaqan) or built seven strong (heavens) above
+    humans; and 12 more.'
   basis: reading
 - text: 'The Flood (full read): tagged by Claude (model), reading the Hebrew.'
   basis: reading
@@ -236,26 +239,6 @@ matches:
       text: رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ
         وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارًۢا
 - kind: shared
-  label: Hero privately warned of the coming flood by a deity
-  sides:
-  - tradition: judaism
-    passages:
-    - ref: Gen 6:13
-      lang: he
-      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-    - ref: Gen 6:17
-      lang: he
-      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
-        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
-  - tradition: islam
-    passages:
-    - ref: Quran 71:1
-      lang: ar
-      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
-        عَذَابٌ أَلِيمٌ
-    note: Noah is sent to warn before a painful punishment
-- kind: shared
   label: All others perish
   sides:
   - tradition: judaism
@@ -281,6 +264,26 @@ matches:
     - ref: Quran 71:26
       lang: ar
       text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 71:1
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
+        عَذَابٌ أَلِيمٌ
+    note: Noah is sent to warn before a painful punishment
 ---
 
 ## Questions

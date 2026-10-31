@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Spend of that over which God has made you stewards/successors (mustakhlafin)
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Sabbatical year and the jubilee; the land is mine: Spontaneous growth of the fallow year
     is food for owner, slaves, hired men, aliens, livestock and wild animals; Fiftieth year after seven
@@ -36,11 +36,11 @@ evidence:
     (al-batin); Giving as a loan to God, repaid by him [divergence between the texts]; God knows what
     enters and leaves the earth and what descends from and ascends to heaven, and he is with you wherever
     you are; God declares ''I am the first and I am the last'' (or ''with the last''); Creation is completed
-    in six days [divergence between the texts]; God kills and makes alive, brings down to Sheol and raises
-    up; He who is gracious to the poor lends to YHWH, and he will repay him; God makes the night pass
-    into the day and the day into the night; Opening formula: whatever is in the heavens and the earth
-    glorifies God (sabbaha / yusabbihu lillah); God brings believers out of darknesses into light; false
-    gods lead others from light into darkness; and 4 more.'
+    in six days [divergence between the texts]; He who is gracious to the poor lends to YHWH, and he will
+    repay him; God makes the night pass into the day and the day into the night; Opening formula: whatever
+    is in the heavens and the earth glorifies God (sabbaha / yusabbihu lillah); God brings believers out
+    of darknesses into light; false gods lead others from light into darkness; Who will lend God a goodly
+    loan (qard hasan), that he may multiply it for him?; and 4 more.'
   basis: reading
 - text: 'Sabbatical year and the jubilee; the land is mine: tagged by Claude (model), reading the Hebrew.'
   basis: reading

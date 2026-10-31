@@ -23,9 +23,9 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Worship of God alone joined to duty to parents [divergence between
-    the texts] (weight 6.7); The people''s answer to the covenant (''we hear ...'') [response between
-    the texts] (weight 6.3); Honor father and mother, with the promise of long life (weight 5.3); Prohibitions
-    of murder, adultery, theft and false witness (weight 5.1). Pair score 23.4.'
+    the texts] (weight 7.7); The people''s answer to the covenant (''we hear ...'') [response between
+    the texts] (weight 7.3); Honor father and mother, with the promise of long life (weight 5.9); Prohibitions
+    of murder, adultery, theft and false witness (weight 5.7). Pair score 26.6.'
   basis: reading
 - text: 'Only in The Decalogue restated and the people''s fear at Horeb: The covenant is made with those
     alive today, not only with the fathers; Whether God should speak to the people directly [contrast
@@ -35,19 +35,20 @@ evidence:
     heard as a voice out of fire with no visible form; People fear to hear God directly and ask the prophet
     to mediate; Sabbath grounded in the memory of slavery in Egypt; Honor father and mother, with the
     promise of long life [divergence between the texts]; Believers'' confession ''we hear and we obey''
-    (sami''na wa-ata''na); Prohibition of coveting the neighbor''s wife and property; Prohibitions of
-    murder, adultery, theft and false witness [divergence between the texts]; and 7 more.'
+    (sami''na wa-ata''na); Prohibitions of murder, adultery, theft and false witness [divergence between
+    the texts]; No other gods before YHWH; and 7 more.'
   basis: reading
 - text: 'Only in Polemic with the People of the Book: The love of the calf was made to sink (be drunk)
     into their hearts; If the next world is yours alone, wish for death: they never will; Enmity to Gabriel
     and Michael (Mikal) equated with enmity to God; Gabriel (Jibril) brings down the revelation upon the
-    prophet''s heart; Some wish to be granted a life of a thousand years; Israel made to drink the golden
-    calf [divergence between the texts]; Claim that the fire will touch them only for a few numbered days,
-    rebutted; The idol is burned, ground to powder, scattered on water and the people made to drink it;
-    Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna); Woe to those who write
-    the book with their own hands and say it is from God, for a small price; Hypocrites profess faith
-    before believers and tell their own ''devils'' in private they were only mocking; Jesus son of Mary
-    given clear signs and supported with the holy spirit (ruh al-qudus); and 13 more.'
+    prophet''s heart; Some wish to be granted a life of a thousand years; Whether anyone added words to,
+    or took words from, a sacred or ancient written text [divergence between the texts]; What is drunk
+    at the making of a covenant, and what the drinking does [divergence between the texts]; Israel made
+    to drink the golden calf [divergence between the texts]; Claim that the fire will touch them only
+    for a few numbered days, rebutted; The idol is burned, ground to powder, scattered on water and the
+    people made to drink it; Israel at the mountain says ''we hear and we disobey'' (sami''na wa-''asayna);
+    Woe to those who write the book with their own hands and say it is from God, for a small price; and
+    16 more.'
   basis: reading
 - text: 'The Decalogue restated and the people''s fear at Horeb: tagged by Claude (model), reading the
     Hebrew.'

@@ -20,19 +20,19 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God says he is sated with sacrifices and hates festivals and new
-    moons offered by those whose hands are full of blood (weight 6.3). Pair score 6.3.'
+    moons offered by those whose hands are full of blood (weight 7.1). Pair score 7.1.'
   basis: reading
 - text: 'Only in Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: Futility curse:
     you built houses of hewn stone but will not live in them, planted vineyards but will not drink their
     wine; The city that marched out a thousand will have a hundred left, and the hundred ten; Dirge: ''Fallen,
-    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; As if a man fled from
-    a lion and met a bear, entered the house, leaned on the wall and was bitten by a snake; ''I hate,
-    I despise your feasts''; God rejects offerings and the noise of their songs and harps; They hate the
-    one who reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like
-    waters and righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices
-    in the wilderness forty years?; Farmers and professional wailers are summoned to lamentation in every
-    street and vineyard; The prudent will keep silent in such a time, for it is an evil time; Israel carried
-    Sakkuth their king and Kaiwan their images, the star of their god; and 11 more.'
+    no more to rise, is the virgin Israel''; God will exile them beyond Damascus; ''I hate, I despise
+    your feasts''; God rejects offerings and the noise of their songs and harps; They hate the one who
+    reproves in the gate and abhor the one who speaks the truth; ''Let justice roll down like waters and
+    righteousness like an ever-flowing stream''; Rhetorical question: did you bring me sacrifices in the
+    wilderness forty years?; The prudent will keep silent in such a time, for it is an evil time; Israel
+    carried Sakkuth their king and Kaiwan their images, the star of their god; ''Seek me and live''; do
+    not seek Bethel, Gilgal or Beersheba; Woe to those who desire the Day of YHWH: it is darkness and
+    not light; and 11 more.'
   basis: reading
 - text: 'Only in Quraysh, small kindnesses and al-Kawthar: The one who hates the prophet is the one cut
     off (al-abtar, without posterity); Woe to those who pray but are heedless of their prayer, make a

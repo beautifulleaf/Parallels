@@ -18,7 +18,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Freeing or buying back the enslaved [divergence between the texts]
-    (weight 6.7). Pair score 6.7.'
+    (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Redemption of land, interest-free loans, and Israelite bondmen: An impoverished Israelite
     sold to a brother serves as a hired worker, not a slave, until the jubilee; Houses in Levite cities

@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A rival place of worship suspected of division [divergence between
-    the texts] (weight 6.7). Pair score 6.7.'
+    the texts] (weight 7.7). Pair score 7.7.'
   basis: reading
 - text: 'Only in Eastern tribes dismissed; the altar ''Ed'' by the Jordan nearly causes civil war: Fear
     that future generations will say a group has no portion in YHWH; Command to love God, walk in his
@@ -27,9 +27,9 @@ evidence:
     to investigate; A replica of the altar built not for sacrifice but as a witness; The sin of Peor recalled
     as guilt not yet cleansed; Land outside YHWH''s possession east of the Jordan is suggested to be unclean;
     An oath invoking God by a repeated triple title (El, Elohim, YHWH); An altar built outside the central
-    sanctuary almost leads to civil war; Intercessor asks: shall one man sin and you rage at the whole
-    community?; Returning warriors divide the spoil with their brothers at home; Tribes settled east of
-    the Jordan must lead the armed vanguard for their brothers; A place is named after an event that happened
+    sanctuary almost leads to civil war; Returning warriors divide the spoil with their brothers at home;
+    Tribes settled east of the Jordan must lead the armed vanguard for their brothers; Intercessor asks:
+    shall one man sin and you rage at the whole community?; A place is named after an event that happened
     there, ''to this day''.'
   basis: reading
 - text: 'Only in The forerunners, alms that purify, and the mosque of harm: The first forerunners (al-sabiqun

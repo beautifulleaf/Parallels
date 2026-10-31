@@ -18,15 +18,16 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will raise up a prophet like Moses from among the brothers and
-    put his words in his mouth (weight 5.2). Pair score 5.2.'
+    put his words in his mouth (weight 6.2). Pair score 6.2.'
   basis: reading
 - text: 'Only in Jeremiah''s call - known before the womb, words in his mouth: God (or a seraph) touches
     the prophet''s mouth or lips to commission him; God will cast upon the prophet a heavy word (qawlan
     thaqilan); Book or oracle opens with a heading naming the prophet, his father and the kings in whose
-    days he saw the vision; God calls, forms, knows or consecrates his servant or prophet from the womb,
-    before birth; God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver
-    you''; The called prophet raises objections (who am I, they won''t believe, I can''t speak, send someone
-    else); Prophet appointed over nations to uproot and tear down, destroy and overthrow, build and plant.'
+    days he saw the vision; God reassures the frightened prophet: ''Do not fear them, for I am with you
+    to deliver you''; The called prophet raises objections (who am I, they won''t believe, I can''t speak,
+    send someone else); Prophet appointed over nations to uproot and tear down, destroy and overthrow,
+    build and plant; God calls, forms, knows or consecrates his servant or prophet from the womb, before
+    birth.'
   basis: reading
 - text: 'Only in Abraham, Ishmael and the House: Abraham and Ishmael raise the foundations of the House
     while praying; Abraham told ''Submit'' answers ''I submit to the Lord of the worlds'' (aslamtu); God
@@ -38,7 +39,7 @@ evidence:
     revelation or covenant passed [divergence between the texts]; Whether and how God''s covenant with
     Abraham passes to his offspring [contrast between the texts]; The list of fathers in ''God of your
     fathers'' [divergence between the texts]; Whether Ishmael is with Abraham or sent away [contrast between
-    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 17 more.'
+    the texts]; Dying Jacob addresses his sons [divergence between the texts]; and 18 more.'
   basis: reading
 - text: 'Jeremiah''s call - known before the womb, words in his mouth: tagged by Claude (model), reading
     the Hebrew.'

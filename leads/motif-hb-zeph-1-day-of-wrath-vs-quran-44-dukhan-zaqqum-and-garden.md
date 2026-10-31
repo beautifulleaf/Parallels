@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Neither their silver nor their gold can save them on the day of
-    YHWH''s wrath (weight 6.3). Pair score 6.3.'
+    YHWH''s wrath (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Zephaniah''s Day of YHWH against Judah: Men thickened on their lees who say in their
     hearts ''YHWH will do neither good nor evil''; The Day of YHWH is a sacrifice he has prepared, with
@@ -44,7 +44,7 @@ evidence:
     taunted: ''Taste! You are the mighty, the noble!''; In paradise they taste no death except the first
     death; On that day no patron (mawla) can avail his client at all; The people of Tubba'' (the Himyarite
     kings of Yemen) as a destroyed people; A tree whose fruit is food, in Eden or in hell [contrast between
-    the texts]; and 4 more.'
+    the texts]; and 6 more.'
   basis: reading
 - text: 'Zephaniah''s Day of YHWH against Judah: tagged by Claude (model), reading the Hebrew.'
   basis: reading

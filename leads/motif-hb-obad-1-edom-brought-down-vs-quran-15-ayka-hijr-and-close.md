@@ -19,7 +19,7 @@ evidence:
 - text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A people carve houses out of the mountains and build palaces on
-    the plains (weight 6.3). Pair score 6.3.'
+    the plains (weight 7.3). Pair score 7.3.'
   basis: reading
 - text: 'Only in Obadiah''s vision against Edom''s pride: A nation''s treaty partners and table companions
     deceive and overpower it; An envoy is sent among the nations to summon them to battle; Grape-gatherers

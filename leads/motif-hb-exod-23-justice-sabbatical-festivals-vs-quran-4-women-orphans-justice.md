@@ -18,18 +18,19 @@ passages: []
 evidence:
 - text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Judge fairly, favoring neither the poor nor the great (weight 6.0).
-    Pair score 6.0.'
+- text: 'Shared motifs, rarest first: Judge fairly, favoring neither the poor nor the great (weight 6.5).
+    Pair score 6.5.'
   basis: reading
 - text: 'Only in Covenant Code - justice, enemy''s animal, sabbatical year, festivals: Return your enemy''s
     stray animal and help his overloaded donkey; Neither favor nor pervert justice for the poor in his
     lawsuit; Whoever commits a sin and casts it on an innocent bears slander and manifest sin; God does
     not forbid kindness and justice toward those who did not fight you over religion or expel you; Do
     not offer sacrificial blood with leavened bread; fat not left until morning; No one shall appear before
-    God empty-handed; Do not oppress the stranger, for you were strangers in Egypt; The land lies fallow
-    in the seventh year for the poor and wild animals; Do not invoke the names of other gods; Let not
-    hatred of a people move you to injustice; be just; Prohibition of boiling a kid in its mother''s milk;
-    Do not spread false reports or follow the majority to do wrong in court; and 6 more.'
+    God empty-handed; The land lies fallow in the seventh year for the poor and wild animals; Do not invoke
+    the names of other gods; Let not hatred of a people move you to injustice; be just; Do not spread
+    false reports or follow the majority to do wrong in court; How often and when pilgrimage is made [divergence
+    between the texts]; Who must make pilgrimage to the sanctuary, and how often [divergence between the
+    texts]; and 6 more.'
   basis: reading
 - text: 'Only in Orphan girls, reconciliation, the suspended wife, and justice against oneself: You will
     never be able to be equally just among wives, however eager; A wife who fears her husband''s aversion
