@@ -65,6 +65,84 @@ new_motifs:
   small-bird-appeals-to-sun-god-against-eagle: {label: "A small weak bird (the wren) appeals to the sun god as just judge against the predatory eagle, and the god binds the eagle", cluster: fable}
   lofty-humbled-lowly-raised-by-god: {label: "Moral: let the lofty no longer boast of their height nor the lowly lament their lowliness, for whoever has the god with him builds his nest and raises his young", cluster: wisdom}
   wise-friend-heart-deep-as-ocean: {label: "The wise man's heart is a deep wellspring, the swell of the ocean that never diminishes", cluster: wisdom}
+  loyalty-oath-imposed-by-assyrian-king: {label: "A loyalty oath (adê) is imposed by the Assyrian king (or queen mother) on vassals or subjects, binding them to him and his heir 'from this day as long as we live'", cluster: treaty}
+  treaty-report-sedition-even-from-kin: {label: "The sworn party must report any seditious or evil word heard against the king, whether from a brother, the king's own seed, an official, a friend or anyone, and must not conceal it", cluster: treaty}
+  treaty-seize-and-deliver-instigators: {label: "Those who incite rebellion must be seized, put in fetters and delivered to the king, or killed", cluster: treaty}
+  treaty-love-king-hate-his-enemy: {label: "The vassal must love the king and his friends and hate his enemy", cluster: treaty}
+  treaty-no-other-king-or-lord: {label: "The vassal must not set another king or another lord over himself", cluster: treaty}
+  treaty-forward-enemy-messages-to-king: {label: "Any letter or messenger arriving from the enemy or a foreign land must be seized and sent on to the king", cluster: treaty}
+  treaty-fight-kings-enemy: {label: "The vassal must take up the bow, stand with the king and fight his enemy wholeheartedly", cluster: treaty}
+  treaty-return-fugitives: {label: "Fugitives who flee from one realm to the other must be handed back", cluster: treaty}
+  treaty-gods-and-stars-as-witnesses: {label: "The treaty is sworn before a list of gods (including the vassal's own gods) or before the planets and stars, who guarantee it", cluster: treaty}
+  treaty-ritual-animal-identified-with-vassal: {label: "Treaty enactment: an animal brought not for sacrifice but for the oath is dismembered with the words 'this head is not the lamb's head, it is the head of X'; as it is cut, so may the oath-breaker be", cluster: treaty}
+  curse-ghost-deprived-of-water: {label: "Curse: may the god uproot the oath-breaker above among the living and deprive his ghost of water below in the earth", cluster: treaty}
+  curse-made-to-kneel-at-enemys-feet: {label: "Curse: may the war goddess make the oath-breaker kneel or sit bound at the feet of his enemy", cluster: treaty}
+  curse-skin-disease-as-garment: {label: "Curse: may the moon god clothe the oath-breaker in skin disease (saharšubbû) like a garment, so that he roams the open country", cluster: treaty}
+  curse-dust-for-food-pitch-for-oil-urine-for-drink: {label: "Curse: may dust be their food, pitch their ointment, donkey's urine their drink, papyrus their clothing, a hole their bed", cluster: treaty}
+  curse-soldiers-become-women-and-prostitutes: {label: "Curse: may the oath-breaker's soldiers become women and take payment like prostitutes in the city square; may the war goddess take away their bow", cluster: treaty}
+  curse-sterility-like-mule: {label: "Curse: may the oath-breaker's life be like a mule's (sterile) and his wife reach extreme old age (childless)", cluster: treaty}
+  curse-city-of-thousand-houses-left-one: {label: "Curse: may a city of a thousand houses be reduced to one house, a thousand tents to one, one man left in the city", cluster: treaty}
+  curse-livestock-cease-no-dung: {label: "Curse: may the dung of oxen, donkeys, sheep and horses not be found in the land (livestock wiped out)", cluster: treaty}
+  curse-reign-of-sighing-few-days: {label: "Curse: may the high god decree for the oath-breaker a reign of sighing, few days and years of want", cluster: treaty}
+  curse-sceptre-broken-kingship-overthrown: {label: "Curse: may the gods break the oath-breaker's sceptre and overthrow his kingship", cluster: treaty}
+  curse-rivers-dammed-rain-withheld: {label: "Curse: may the storm god withhold rain from heaven and flood from the deep, and the wise god dam the rivers at their source", cluster: treaty}
+  curse-seed-burned-torch-quenched: {label: "Curse: may the oath-breakers' seed and images be burned in fire and their torch extinguished in water", cluster: treaty}
+  curse-bow-broken-by-war-goddess: {label: "Curse: may the war goddess break the oath-breaker's bow in fierce battle", cluster: treaty}
+  curse-life-poured-out-like-water: {label: "Curse: may the god pour out the oath-breaker's life like water", cluster: treaty}
+  curse-land-to-flood-ruin-mound: {label: "Curse: may the god turn the oath-breaker's land into a flood-ruin mound and his cities into tells", cluster: treaty}
+  queen-mother-imposes-loyalty-oath: {label: "The queen mother herself imposes a loyalty oath on the royal family and the whole land in favour of her grandson the king", cluster: treaty}
+  conspiracy-to-kill-king-must-be-reported: {label: "If the sworn party hears of a plot to kill the king, or of men inciting revolt among courtiers, kin or the people, he must report it and seize and kill the plotters", cluster: treaty}
+  curse-plague-ends-people: {label: "Curse: may the plague god finish off the oath-breaker's people with blows and pestilence", cluster: treaty}
+  treaty-royal-deputy-oversees-vassal: {label: "An Assyrian royal deputy (qēpu) is set over the vassal: the vassal must heed him and may not open the king's letters without him", cluster: treaty}
+  treaty-shipwreck-salvage-rule: {label: "If a vassal's ship is wrecked on the overlord's coast, its cargo belongs to the overlord but the people aboard are not harmed and are sent home", cluster: treaty}
+  treaty-ports-and-routes-entrusted-to-vassal: {label: "The overlord entrusts named ports and trade routes along the coast (Akko, Dor, Philistia, Byblos, Lebanon) to the vassal", cluster: treaty}
+  curse-wound-bathe-in-blood-and-pus: {label: "Curse: may the healing goddess put unhealing illness and a lasting wound in the oath-breaker's body; may he bathe in blood and pus as in water", cluster: treaty}
+  curse-handed-to-devouring-lion: {label: "Curse: may the gods (Bethel and Anat-Bethel) hand the oath-breaker over to a man-eating lion", cluster: treaty}
+  curse-storm-wind-wrecks-ships: {label: "Curse: may the storm gods (the Baals) raise an evil wind against the oath-breaker's ships, loosen their moorings, tear out their masts and sink them in the sea", cluster: treaty}
+  curse-land-destroyed-people-deported-food-clothes-oil-lost: {label: "Curse: may the gods hand the land to destruction and the people to deportation, and take away food from the mouth, clothing from the body and oil for anointing", cluster: treaty}
+  curse-enemy-divides-your-possessions: {label: "Curse: may a foreign enemy divide the oath-breaker's possessions", cluster: treaty}
+  overlord-anoints-vassal-with-oil: {label: "The overlord 'put oil on' (anointed) the vassal as a sign of favour and covenant", cluster: treaty}
+  secret-message-by-bird-or-fish-forbidden: {label: "The sworn party must not send messages secretly, 'whether by the hand of a fish of the sea or a bird of the sky'", cluster: treaty}
+  treaty-no-peace-with-kings-enemy: {label: "The vassal must not make peace or come to terms ('put his mouth') with the overlord's enemy", cluster: treaty}
+  succession-oath-for-two-princes: {label: "The king makes all the lands swear by the great gods to accept his two sons, one as crown prince of Assyria and one of Babylon, and protect their thrones", cluster: kingship}
+  planets-bound-by-royal-oath: {label: "The seven planets (bibbu) of heaven are themselves bound by, or cursed for, the king's oath", cluster: treaty}
+  treaty-fear-and-serve-overlord: {label: "The vassal is bound to fear the overlord and do what is good for him", cluster: treaty}
+  treaty-binds-future-generations: {label: "The oath binds not only those present but their sons and grandsons and all who will exist in days to come", cluster: treaty}
+  treaty-tablet-sealed-and-guarded-like-god: {label: "The treaty tablet, sealed with the god's own seal, is set before the sworn, who must guard it like their god and not alter, erase, burn, drown or bury it", cluster: treaty}
+  oath-with-whole-heart-not-lips-only: {label: "The sworn must take the oath with their whole heart, not with the lips only, and teach it to their sons who come after", cluster: treaty}
+  love-overlord-as-own-life: {label: "The sworn must love the crown prince or overlord as their own lives", cluster: treaty}
+  treaty-no-poisoning-or-sorcery-against-prince: {label: "The sworn must not give the crown prince a deadly plant to eat or drink, anoint him with it, work sorcery on him or make the gods angry with him", cluster: treaty}
+  ritual-to-annul-oath-forbidden: {label: "The sworn must not perform a rite to undo the oath (anointing with tallow from the gods, binding something on the thigh, 'turning back' or 'releasing' the oath)", cluster: treaty}
+  protect-brothers-of-crown-prince: {label: "The sworn must protect the crown prince's brothers, not slander them before him, nor change the positions their father assigned them", cluster: treaty}
+  your-god-and-your-lord-forever: {label: "Formula: in future days the national god is 'your god' and the crown prince 'your lord'; your sons and grandsons shall fear him", cluster: treaty}
+  simile-curse-just-as-so-may: {label: "Simile curse: 'just as this (object, animal, wax figure, ewe, water-skin) is treated, so may it be done to you'", cluster: treaty}
+  curse-birth-cut-off-no-childs-cry: {label: "Curse: may the birth goddess cut off birth in the land, and the nurse be deprived of the cry of a baby in the street", cluster: treaty}
+  curse-no-sound-of-mill-and-oven: {label: "Curse: may there be no sound of the grindstone or the oven in your houses", cluster: treaty}
+  curse-mother-bars-door-against-daughter: {label: "Curse: in famine the mother bars her door against her own daughter; you eat the flesh of your sons, grind their bones instead of grain; man eats man and wears his skin", cluster: treaty}
+  curse-unburied-corpse-eaten-by-dogs-and-pigs: {label: "Curse: may your corpses find no burial; may dogs and pigs (or eagle and jackal) eat your flesh, their bellies your grave", cluster: treaty}
+  curse-days-dark-years-of-darkness: {label: "Curse: may your days be dark and your years years of darkness that never brightens", cluster: treaty}
+  curse-like-tin-before-fire-cannot-stand-before-enemy: {label: "Simile curse: as tin cannot stand before fire, so may you not stand before your enemy", cluster: treaty}
+  curse-city-ploughed-with-iron-plough: {label: "Curse: may the sun god overturn your city, land and district with an iron plough", cluster: treaty}
+  curse-oath-enters-body-like-food-or-oil: {label: "Simile curse: as bread and wine enter the intestines, or oil penetrates flesh, so may this oath enter your body and your children's", cluster: treaty}
+  curse-rivers-and-springs-flow-backward: {label: "Curse: may your rivers and springs make their water flow backward", cluster: treaty}
+  curse-bread-for-price-of-gold: {label: "Curse: may bread be bought for its weight in gold in your land", cluster: treaty}
+  curse-worms-eat-living-flesh: {label: "Curse: as the worm eats stored food, may worms eat your flesh while you are alive; may a goddess make a worm come out of your belly", cluster: treaty}
+  curse-not-return-to-wife-and-house: {label: "Simile curse: as the caterpillar does not return to its cocoon, so may you not return to your wives and houses", cluster: treaty}
+  curse-kin-hunt-and-kill-each-other: {label: "Curse: may your brothers and sons chase and kill you like a stag; may you be bitter to each other like gall; may they strangle you", cluster: treaty}
+  curse-flesh-black-as-pitch: {label: "Curse: may your flesh and your family's be blackened like pitch, bitumen and naphtha", cluster: treaty}
+  curse-breath-stinks-before-gods-and-men: {label: "Simile curse: as this bug stinks, may your breath stink before god, king and mankind", cluster: treaty}
+  curse-melt-like-wax-dissolve-like-clay-figure: {label: "Simile curse: as a wax figure burns in fire and a clay figure dissolves in water, so may your form be burned and sink", cluster: treaty}
+  curse-move-backward-like-crab: {label: "Curse: may your chariots and your sons move backward like a crab", cluster: treaty}
+  curse-turn-right-or-left-sword-devours: {label: "Curse: whoever abandons the king and goes to the right or to the left, may the sword devour him", cluster: treaty}
+  curse-no-rest-no-sleep-bones-apart: {label: "Simile curse: as the dove moans, may you, your wives and children find no rest and no sleep, and your bones not come together", cluster: treaty}
+  curse-no-balm-for-wound: {label: "Curse: when the enemy pierces you, may honey, oil, ginger and cedar resin to dress the wound be lacking", cluster: treaty}
+  curse-sun-gods-net-no-escape: {label: "Curse: may the sun god cast his bronze bird-snare and inescapable net over you and not let you out", cluster: treaty}
+  curse-waterskin-split-die-of-thirst: {label: "Simile curse: as this water-skin is split and its water spilled, may your water-skin break in a thirsty land and you die of thirst", cluster: treaty}
+  curse-crawl-on-belly: {label: "Simile curse: as this sandal is cut, may your sandals be torn in thorny ground and you crawl on your belly", cluster: treaty}
+  curse-name-erased-from-tablet-of-fates: {label: "Curse: may the scribe god who bears the tablet of fates erase your name and destroy your seed from the land", cluster: treaty}
+  curse-demons-choose-your-houses: {label: "Curse: may evil demons (šēdu, utukku, rābiṣu) choose your houses as their dwelling", cluster: treaty}
+  curse-hands-feet-cut-eyes-blinded: {label: "Curse: as the curser who sinned against Bēl had hands and feet cut off and eyes blinded, so may you be finished off", cluster: treaty}
+  treaty-dated-by-eponym: {label: "The treaty is dated by month, day and the eponym of the year", cluster: treaty}
 units:
   - id: ane-shuila-istar-1-valiant-ishtar
     tradition: ane-akkadian
@@ -553,3 +631,418 @@ units:
       - {motif: restored-sufferer-proclaims-gods-praise-in-street, refs: ["Wren SB –:33-37"], note: "adapted: the wren calls on the birds of mountain and plain to glorify Šamaš's name"}
     hints:
       - "Eagle's lofty nest brought down: Obad 1:4, Jer 49:16; the sparrow finds a nest by God's altar Ps 84:4; God cares for small birds Matt 10:29; lowly exalted Luke 1:52, Ezek 17:24 (high tree brought low, low tree raised)."
+  - id: ane-saa-02-009-ashurbanipal-babylonian-allies
+    tradition: ane-akkadian
+    title: "SAA 2 9: Loyalty oath of Babylonian allies to Ashurbanipal after Šamaš-šuma-ukīn's revolt"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 009"]
+    tags:
+      - {motif: loyalty-oath-imposed-by-assyrian-king, refs: ["SAA 02 009 o:3'-4'", "SAA 02 009 o:17'", "SAA 02 009 o:32'-33'", "SAA 02 009 r:3'"], note: "ultu ūmi annî adi ūmi mala balṭāni: the sworn speak in the first person plural"}
+      - {motif: treaty-forward-enemy-messages-to-king, refs: ["SAA 02 009 o:5'-10'", "SAA 02 009 o:35'-38'"], note: "messages or messengers from Šamaš-šuma-ukīn or from another land: 'we will seize them and send them to the king'"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 009 o:12'-15'"], note: "mušamhiṣu mušadbibu ša amāt lā ṭābti ... iqabbû ... nilteme"}
+      - {motif: treaty-seize-and-deliver-instigators, refs: ["SAA 02 009 o:15'-16'", "SAA 02 009 o:31'"], note: "ina iṣqāti semerē ninamdušina ... nišappar: we put them in fetters and rings"}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["SAA 02 009 o:20'-21'", "SAA 02 009 o:32'"], note: "nirâmu u nakaršu nizêru"}
+      - {motif: treaty-no-other-king-or-lord, refs: ["SAA 02 009 o:33'-34'"], note: "šūtu-ma šarru šanamma bēlu šanamma ana muhhīni (lā) niltakan"}
+      - {motif: servant-ready-to-do-all-lord-says, refs: ["SAA 02 009 o:21'-22'"], note: "mimma mala ... iqabbannâšu akī pîšu nippušu"}
+      - {motif: treaty-fight-kings-enemy, refs: ["SAA 02 009 o:23'-25'"]}
+      - {motif: curse-reign-of-sighing-few-days, refs: ["SAA 02 009 r:5'"], note: "Aššur ... šīmat lemutti lā ṭābti lišīmannâši"}
+      - {motif: madness-blindness-groping-at-noon, refs: ["SAA 02 009 r:8'-10'"], note: "Šamaš ... niṭlu īnīni liššī ina ekleti nittallaka: may he take away our eyesight, may we walk in darkness"}
+      - {motif: curse-ghost-deprived-of-water, refs: ["SAA 02 009 r:13'-14'"], note: "Ea ... eliš ina balṭūti lissuhannâšu šapliš ina erṣeti eṭemmānu mê lizammê"}
+      - {motif: curse-made-to-kneel-at-enemys-feet, refs: ["SAA 02 009 r:24'-25'"], note: "Ištar of Arbela, goddess of battle: ina šapal šēpē ša nakrīni lišakmisannâši"}
+      - {motif: woman-prays-goddess-for-child, refs: ["SAA 02 009 r:21'"], note: "inverted in the curse list: Zarpanītu nādinat šumi u zēri (giver of name and seed), the curse itself lost"}
+    hints:
+      - "No other king/lord and love of the overlord: Exod 20:3, Deut 6:4-5 (love YHWH), Deut 17:15; reporting inciters Deut 13:7-12; walking in darkness Deut 28:28-29; kneeling before the enemy Deut 28:25, Lev 26:17."
+  - id: ane-saa-02-001-shamshi-adad-marduk-zakir-shumi
+    tradition: ane-akkadian
+    title: "SAA 2 1: Treaty of Šamšī-Adad V with Marduk-zākir-šumi of Babylon (clauses and curses)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 001"]
+    tags:
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 001 o:8'-10'"], note: "šumma Šamšī-Adad amāt lemutti ša Marduk-rēmanni ... umma dūku nuppil ṣubbit: 'kill, blind, seize' (fragmentary)"}
+      - {motif: treaty-return-fugitives, refs: ["SAA 02 001 o:13'-14'"], note: "munnabtu ... innabtūni"}
+      - {motif: curse-life-poured-out-like-water, refs: ["SAA 02 001 b.e:16'-19'"], note: "Marduk ... sapāh nišīšu ... napištašu kīma mê litbuk: scatter his people, pour out his life like water, destroy his land by hunger and want"}
+      - {motif: exile-and-dispersion-threatened, refs: ["SAA 02 001 b.e:17'"]}
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["SAA 02 001 r:3", "SAA 02 001 r:8-9"], note: "Anu haṭṭašu lišbir; Šamaš šarrūssu liskip dīnšu ay idīn"}
+      - {motif: curse-reign-of-sighing-few-days, refs: ["SAA 02 001 r:3-5", "SAA 02 001 r:10-12"], note: "Enlil ... palê tānēhi ūmī īṣūti šanāt hušahhi; Sin ... ūmī arhī šanāti palêšu ina tānēhi u dimmati lišaqti"}
+      - {motif: curse-rivers-dammed-rain-withheld, refs: ["SAA 02 001 r:7-8", "SAA 02 001 r:13-14"], note: "Ea nārātišu ina nagbi liskir; Adad zunnu ina šamê mīlu ina nagbi liṭeršu"}
+      - {motif: sky-bronze-earth-iron, refs: ["SAA 02 001 r:13"], note: "rain from heaven withheld (no bronze/iron image)"}
+      - {motif: curse-land-to-flood-ruin-mound, refs: ["SAA 02 001 r:15-16"], note: "māssu ana tīl abūbi litīr"}
+      - {motif: curse-skin-disease-as-garment, refs: ["SAA 02 001 r:10-11"], note: "Sin's great punishment (šērtu rabītu) 'that does not leave his body': skin disease implied, not named"}
+    hints:
+      - "Deut 28:20-24 (curse, confusion, rain turned to dust, sky bronze), Deut 28:64 (scattered among peoples); life poured out like water Ps 22:15, 2Sam 14:14."
+  - id: ane-saa-02-011-sin-sharru-ishkun
+    tradition: ane-akkadian
+    title: "SAA 2 11: Treaty of Sîn-šarru-iškun with Babylonian allies; curse section"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 011"]
+    tags:
+      - {motif: loyalty-oath-imposed-by-assyrian-king, refs: ["SAA 02 011 o:1-5"]}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["SAA 02 011 o:6"], note: "ina mahar Sagmegar Dilbat: before Jupiter and Venus"}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["SAA 02 011 r:3'-4'"], note: "rāʾimānu ša kēnūti ša šarru irʾamuni zayyārānšu uhalliqūni"}
+      - {motif: no-adding-or-subtracting, refs: ["SAA 02 011 r:5'"], note: "mannu ša dabāb ṭuppi annê enûni: whoever changes the wording of this tablet"}
+      - {motif: curse-ghost-deprived-of-water, refs: ["SAA 02 011 r:7'-10'"], note: "arrat lā napšuri ... eliš ina balṭūti lissuhšunu šapliš ina erṣeti eṭemmašunu mê luzammê"}
+      - {motif: curse-skin-disease-as-garment, refs: ["SAA 02 011 r:10'-11'"], note: "Sin saharšubbû kīma nahlapti luhallipšunu"}
+      - {motif: curse-seed-burned-torch-quenched, refs: ["SAA 02 011 r:12'-14'"], note: "zērīšunu ṣalmānīšunu ina išāti ikarrurū dipārašunu ina mê uballû"}
+    hints:
+      - "Not altering the tablet: Deut 4:2, Deut 13:1, Rev 22:18-19; skin disease Deut 28:27,35, 2Kgs 5:27; torch quenched 2Sam 14:7, 2Sam 21:17."
+  - id: ane-saa-02-004-esarhaddon-oath-first-person
+    tradition: ane-akkadian
+    title: "SAA 2 4: First-person loyalty oath to Esarhaddon; curses"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 004"]
+    tags:
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 004 r:4'-7'"], note: "šumma anāku abassu lā deiqtu issu pî zērīšu ... issu pî ištēn issu libbi rabûti pāhāti ... ša-ziqni ... ša-rēši ašammûni u ana Aššur-ahu-iddina lā aqabbûni"}
+      - {motif: vassal-your-servant-and-son, refs: ["SAA 02 004 r:8'-9'"], note: "šumma lā ardašu anākūni ... šumma ēnīšu lā adaggalūni pāni ša Aššur-ahu-iddina: if I am not his servant, do not look to his face"}
+      - {motif: curse-bow-broken-by-war-goddess, refs: ["SAA 02 004 r:20'-21'"], note: "Ištar ... qaštašu lišbir ina šapal nakrišu lišēšibšu kamîš"}
+      - {motif: curse-made-to-kneel-at-enemys-feet, refs: ["SAA 02 004 r:21'"]}
+      - {motif: curse-reign-of-sighing-few-days, refs: ["SAA 02 004 r:16'-19'"], note: "Aššur šēressu kabtu limissu ... ina mahar ili u šarri erēbšu ay iqbi; Mullissu ... ṭēmšu lišanni"}
+      - {motif: curse-plague-ends-people, refs: ["SAA 02 004 r:26'-27'"], note: "Nergal ... ina šibṭi u mūtāni ... liqattâ nišīšu"}
+    hints:
+      - "Plague curses Deut 28:21; bow broken Hos 1:5, Jer 49:35; false scales (r:22' zibānītu lā kitti) Deut 25:13-16, Amos 8:5."
+  - id: ane-saa-02-008-zakutu-treaty
+    tradition: ane-akkadian
+    title: "SAA 2 8: Zakūtu (Naqiʾa), queen mother, imposes a loyalty oath for her grandson Ashurbanipal"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 008"]
+    tags:
+      - {motif: queen-mother-imposes-loyalty-oath, refs: ["SAA 02 008 o:1-11"], note: "adê ša Zakūtu sinniš ēkalli ša Sîn-ahhē-erība ... umma Aššur-ahu-iddina ... issi Šamaš-šuma-ukīn ahi talīmīšu ... issi zēr šarri ... qallu dannu"}
+      - {motif: loyalty-oath-imposed-by-assyrian-king, refs: ["SAA 02 008 o:9-12"]}
+      - {motif: conspiracy-to-kill-king-must-be-reported, refs: ["SAA 02 008 o:12-24", "SAA 02 008 r:2-17"], note: "abutu lā deiqtu ... sīhi bārti ... ina muhhi dâki ša Aššur-bāni-apli ... tašammâni lā tallakāninni uzni ša Zakūte ... lā tupattâni"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 008 r:18-23"], note: "ṣābē mušamhiṣṣūte mušadbibūte ... lū ina ša-ziqni lū ina ša-rēši lū ina ahhēšu lū ina zēr šarri lū ahhēkunu lū bēl ṭābātēkunu lū ina nišē māti gabbu"}
+      - {motif: treaty-seize-and-deliver-instigators, refs: ["SAA 02 008 r:24-r.e:27"], note: "lā taṣabbatāninni lā tadūkāni ... lā tubalāninni"}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["SAA 02 008 o:25-b.e:27"], note: "Aššur, Sîn, Šamaš, Jupiter, Venus, Saturn, Mercury, Mars, Sirius"}
+    hints:
+      - "Deut 13:7-10: 'if your brother, son, daughter, wife or friend entices you secretly ... do not conceal him, your hand shall be first upon him'. A queen mother's power: 1Kgs 15:13, 2Kgs 11:1 (Athaliah), Jer 13:18."
+  - id: ane-saa-02-002-a-lamb-ritual
+    tradition: ane-akkadian
+    title: "SAA 2 2 i: Aššur-nērārī V and Matiʾ-il of Arpad: the spring lamb identified with the vassal"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 002 o.i"]
+    tags:
+      - {motif: treaty-ritual-animal-identified-with-vassal, refs: ["SAA 02 002 o.i:10'-35'"], note: "hurāpu annû ... lā ana nīqi šēlua ... ana adê ša Aššur-nērārī ... šakāni šēlua; qaqqadu annû lā qaqqadu ša hurāpi šūtu qaqqadu ša Matiʾ-il šūtu"}
+      - {motif: exile-and-dispersion-threatened, refs: ["SAA 02 002 o.i:16'-20'"], note: "as the lamb taken from its fold does not return: a-hu-la Matiʾ-il ... issu libbi mātīšu lihliq ana mātīšu lā itūra"}
+      - {motif: curse-land-to-flood-ruin-mound, refs: ["SAA 02 002 o.i:2'-9'"], note: "people dissolved like limestone/gypsum (kīma gaṣṣi lipparrir), land reduced to as much ground as a brick stands on"}
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["SAA 02 002 o.i:24'-28'"], note: "as the lamb's head is plucked (with its hock in its mouth?), so Matiʾ-il's head; his sons cast down in the house"}
+    hints:
+      - "Cutting animals at covenant-making: Gen 15:9-18 and Jer 34:18-20 (passing between the parts of the calf); 1Sam 11:7 (oxen cut up: 'so shall it be done to his oxen'); never returning to his land Jer 22:10-12."
+  - id: ane-saa-02-002-b-clauses-curses-witnesses
+    tradition: ane-akkadian
+    title: "SAA 2 2 iii-vi: Matiʾ-il's obligations, curses (famine, cannibalism, prostitutes, mule) and the divine witnesses"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 002 o.iii", "SAA 02 002 r.iv", "SAA 02 002 r.v", "SAA 02 002 r.vi"]
+    tags:
+      - {motif: treaty-return-fugitives, refs: ["SAA 02 002 o.iii:21'-23'"], note: "šummu tupazzarūni tahaṣṣinūni šummu ana māti šanīte tušebalni: hiding or sheltering a charioteer or rider, sending him to another land"}
+      - {motif: single-hearted-loyalty, refs: ["SAA 02 002 o.iii:24'-25'"], note: "šummu ... lā kēnūni šummu libbaka issi Aššur-nērārī lā šakinūni"}
+      - {motif: treaty-fight-kings-enemy, refs: ["SAA 02 002 r.iv:1'-3'"], note: "Matiʾ-il ... ana gammurti libbīšu lā uṣṣûni: does not go out wholeheartedly at the king's command"}
+      - {motif: curse-skin-disease-as-garment, refs: ["SAA 02 002 r.iv:4'-6'"], note: "Sîn of Harran ... saharšubbâ kīma nahlapti lihallip ṣēra lirpudū ay iršûšunu rēmu"}
+      - {motif: curse-livestock-cease-no-dung, refs: ["SAA 02 002 r.iv:7'"]}
+      - {motif: cannibalism-in-siege, refs: ["SAA 02 002 r.iv:8'-11'"], note: "Adad ... ina sunqi bubūti hušahhi ... šīr mārīšunu mārātīšunu lēkulū-ma kīma šīr hurāpi hurāpte ina muhhīšunu liṭīb: may it taste as sweet as lamb"}
+      - {motif: sky-bronze-earth-iron, refs: ["SAA 02 002 r.iv:12'-13'"], note: "ikkil Adad lizammû-ma zunnu ana ikkibīšunu liššakin: deprived of Adad's thunder, rain become taboo for them"}
+      - {motif: curse-dust-for-food-pitch-for-oil-urine-for-drink, refs: ["SAA 02 002 r.iv:14'-16'"], note: "eperu ana akālīšunu qīru ana pašāšīšunu šīnāt imēri ana šatêšunu niāru ana lubuštīšunu ... ina tubqinni lū mayyālšunu"}
+      - {motif: nature-reversal-curse, refs: ["SAA 02 002 r.iv:19'-21'"], note: "ikkaršu ina ṣēri ay ilsâ alāla / urqīt ṣēri lū lā uṣṣâ Šamaš lū lā immar / hābiti mê ay ihbâ mê nagbi"}
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["SAA 02 002 r.v:5-7"], note: "Aššur nādin šarrūti mātka ana tūšari nišēka ana rihṣi ālānīka ana tīlāni bītka ana harbāti lutīr"}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["SAA 02 002 r.v:1-4"], note: "if you do not seek the life of Aššur-nērārī as you seek your own life and that of your sons"}
+      - {motif: curse-soldiers-become-women-and-prostitutes, refs: ["SAA 02 002 r.v:8-13"], note: "Matiʾ-il lū harimtu ṣābēšu lū sinnišāti kīma harimti ina rebīt ālīšunu nidnu limhurū ... Ištar bēlet zikarī bēlet sinnišāti qaštašunu likkim"}
+      - {motif: curse-sterility-like-mule, refs: ["SAA 02 002 r.v:11-12"], note: "balāṭ Matiʾ-il lū ša kūdani aššatušu littūtu"}
+      - {motif: curse-made-to-kneel-at-enemys-feet, refs: ["SAA 02 002 r.v:14-15"], note: "limrur bikīssunu mā ahula mā ina adê ... nihtiṭi: their bitter lament 'Woe, we have sinned against the treaty'"}
+      - {motif: locust-worm-cricket-devour, refs: ["SAA 02 002 r.vi:1"], note: "erbû litbâm-ma māssu likul"}
+      - {motif: madness-blindness-groping-at-noon, refs: ["SAA 02 002 r.vi:2"], note: "īnīšunu lunappil: may their eyes be gouged out (agent broken)"}
+      - {motif: curse-city-of-thousand-houses-left-one, refs: ["SAA 02 002 r.vi:3-5"], note: "āl ša lim bītāti ana ištēn bīti litūr ... ina libbi āli ištēn amēlu ana dalīli linnezib"}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["SAA 02 002 r.vi:6-26"], note: "tummâtunu: adjured by Aššur, Anu, Enlil, Ea ... Ištar of Nineveh and Arbela, Adad of Aleppo, Dagan, Melqart, Eshmun, Kubaba, Hadad-Ramman of Damascus: West Semitic gods of the vassal included"}
+    hints:
+      - "Deut 28:53-57 and Lev 26:29 (eating sons and daughters), 2Kgs 6:28-29, Lam 4:10; Deut 28:38,42 (locust); Deut 28:23-24 (no rain); Amos 5:3 ('the city that went out a thousand shall have a hundred left'), Isa 30:17; soldiers become women Nah 3:13, Jer 50:37, Jer 51:30; eyes gouged 2Kgs 25:7, 1Sam 11:2; 'Woe, we have sinned' Lam 5:16, Jer 3:25; dung and urine 2Kgs 18:27."
+  - id: ane-saa-02-012-nergal-blood-in-channel
+    tradition: ane-akkadian
+    title: "SAA 2 12: Sîn-šarru-iškun treaty fragment: Nergal's curse"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 012"]
+    tags:
+      - {motif: loyalty-oath-imposed-by-assyrian-king, refs: ["SAA 02 012 o:1-5"], note: "loyalty extends to his sons, grandsons, great-grandsons"}
+      - {motif: blood-poured-like-water, refs: ["SAA 02 012 o:6-7"], note: "Nergal ... dāmēkunu ina harri natbāki: your blood in the drainage channel"}
+    hints:
+      - "Blood poured on the ground like water: Deut 12:16 (inverted), Ps 79:3; loyalty to the dynasty's sons and grandsons Exod 20:5-6, Deut 5:9."
+  - id: ane-saa-02-005-esarhaddon-baal-of-tyre
+    tradition: ane-akkadian
+    title: "SAA 2 5: Esarhaddon's treaty with Baal, king of Tyre: deputy, shipwreck, ports, and curses by the gods of the West"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 005"]
+    tags:
+      - {motif: loyalty-oath-imposed-by-assyrian-king, refs: ["SAA 02 005 o.i:1-3"], note: "adê ša Aššur-ahu-iddina ... issi Baʾalu šar Ṣurri ... issi Ṣurri gabbišu ṣehri rabî"}
+      - {motif: treaty-royal-deputy-oversees-vassal, refs: ["SAA 02 005 r.iii:6'-14'"], note: "qēpu ša ina muhhika aškunūni ... egirtu ša ašapparkanni balāt qēpi lā tapatti"}
+      - {motif: treaty-shipwreck-salvage-rule, refs: ["SAA 02 005 r.iii:15'-17'"], note: "šumma eleppu ša Baʾalu ... ina Pilisti lū tahūme ... tamahhaṣūni ammar ša ina libbi eleppi ša Aššur-ahu-iddina u nišē ... lā ihaṭṭiu ina mātišunu usahhurū"}
+      - {motif: treaty-ports-and-routes-entrusted-to-vassal, refs: ["SAA 02 005 r.iii:18'-30'"], note: "kārāni hūlāni ... ana Akku Duʾri ina nagê Pilisti gabbu ... Gubla Labnāna ... kī ša labīri Ṣidunaya"}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["SAA 02 005 r.iv:8'-10'"], note: "ilāni māt Aššur ilāni māt Akkadi ilāni eber nāri: gods of Assyria, Akkad and Across-the-River"}
+      - {motif: curse-wound-bathe-in-blood-and-pus, refs: ["SAA 02 005 r.iv:3'-4'"], note: "Gula azugallatu ... simmu lazzu ina zumrikunu liškun dāmu u šarku kīma mê runkā"}
+      - {motif: curse-handed-to-devouring-lion, refs: ["SAA 02 005 r.iv:6'-7'"], note: "Bayti-ili Anat-Bayti-ili ina qātē nēši ākili limnûkunu"}
+      - {motif: curse-storm-wind-wrecks-ships, refs: ["SAA 02 005 r.iv:10'-13'"], note: "Baʾal-šamêm Baʾal-malagê Baʾal-ṣapūnu šāru lemnu ina eleppātikunu lušatbâ ... edû dannu ina tâmti liṭabbiši"}
+      - {motif: curse-land-destroyed-people-deported-food-clothes-oil-lost, refs: ["SAA 02 005 r.iv:14'-r.e:17"], note: "Milqartu Yasumunu ... kurummāti ina pîkunu kuzippī ina lānikunu šamna ina pašāšikunu luhalliqū"}
+      - {motif: exile-and-dispersion-threatened, refs: ["SAA 02 005 r.iv:15'"]}
+      - {motif: curse-bow-broken-by-war-goddess, refs: ["SAA 02 005 r.e:18"], note: "Astartu ina tāhāzi danni qaštakunu lišbir"}
+      - {motif: curse-made-to-kneel-at-enemys-feet, refs: ["SAA 02 005 r.e:18-19"]}
+      - {motif: curse-enemy-divides-your-possessions, refs: ["SAA 02 005 r.e:19"], note: "nakru ahû lizaʾiza mimmûkunu"}
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["SAA 02 005 r.iv:1'-2'"], note: "Mullissu ... patru hanṭu ittikunu lirkusu / Ištar ... rēmu gimlu lū lā išakkan"}
+    hints:
+      - "Deut 28:27,35 (boils from sole to crown); lions sent on those who do not fear God at Bethel: 1Kgs 13:24, 2Kgs 17:25; ships broken by the east wind Ps 48:8, Ezek 27:26, Jonah 1:4; Deut 28:30-33,48,51 (stranger eats your produce; without food, clothing; oil withheld 28:40); Tyre's ports Ezek 27; Bethel as a god Jer 48:13."
+  - id: ane-saa-02-014-succession-treaty-literary
+    tradition: ane-akkadian
+    title: "SAA 2 14: Literary account of Esarhaddon's succession oath for Ashurbanipal and Šamaš-šuma-ukīn"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 014"]
+    tags:
+      - {motif: succession-oath-for-two-princes, refs: ["SAA 02 014 o.i:8-14", "SAA 02 014 o.i:21'-30'"], note: "qāt Aššur-bāni-apli mār šarri ša bēt rēdûti ... qāt Šamaš-šuma-ukīn ... ša Bābili ... kūn uššē kussîšunu ... ina nīš ilāni rabûti māmīt ušaṣbissunūti"}
+      - {motif: adjured-by-life-of-gods, refs: ["SAA 02 014 o.i:26'-o.ii:4'"], note: "ina nīš Aššur u Šeruʾa ... Anu u Antu ... Enlil u Mullissu ... Bēl u Bēltiya ... 7 bibbī šamê"}
+      - {motif: planets-bound-by-royal-oath, refs: ["SAA 02 014 o.i:4-5", "SAA 02 014 o.ii:2'"], note: "7 bibbī šamê ša ana māmīt šarri ... irurū-ma lā itūrū ahīšun (broken)"}
+      - {motif: moaning-like-a-dove, refs: ["SAA 02 014 o.ii:6'-7'"], note: "ša ana mūti ... unassisu summiš: context broken"}
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["SAA 02 014 o.ii:8'-18'"], note: "Aššur agâ ... ana qāt šarrišu lū šakniššu ... patarašu likšudsu"}
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["SAA 02 014 o.i:9-10", "SAA 02 014 r.ii:3'-4'"], note: "Marduk ... ana Aššur itruṣ būnīšu; yâši šarru ša bēlu rabû Marduk kīniš umaʾʾiranni"}
+    hints:
+      - "Succession arranged and sworn by the people: 1Kgs 1:30-40 (Solomon), 1Chr 29:22-24 (all officials pledge themselves to Solomon); the stars fight from their courses Judg 5:20."
+  - id: ane-saa-02-010-yauta-of-qedar
+    tradition: ane-akkadian
+    title: "SAA 2 10: Ashurbanipal's treaty with Qedarite Arabs against Yautaʿ"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 010"]
+    tags:
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["SAA 02 010 o:2'-3'", "SAA 02 010 r:8'-10'"], note: "ina pān ilāni māt Aššur ilāni Qidri gabbišunu: Assyrian gods and all the gods of Qedar"}
+      - {motif: ingratitude-to-benefactor, refs: ["SAA 02 010 o:4'-7'"], note: "Yautaʾ lā ṭābtānu ... Arubu gabbu ana pî patri idd(in)ūni: the ungrateful one gave all Arabia to the sword"}
+      - {motif: overlord-anoints-vassal-with-oil, refs: ["SAA 02 010 o:8'-11'"], note: "Aššur-bāni-apli ... šamna iškunakkanūni pānišu damqūte ina muhhikunu iškunūni"}
+      - {motif: treaty-no-peace-with-kings-enemy, refs: ["SAA 02 010 o:12'-14'"], note: "šumma attunu issi Yautaʾ ana ṭābti taqarribāni: not even through brothers or uncles"}
+      - {motif: conspiracy-to-kill-king-must-be-reported, refs: ["SAA 02 010 r:3'-7'"], note: "inverted: the sworn must plot to kill the rebel Yautaʾ (ina muhhi dâkišu lā takappudāni lā taṣarrimāni)"}
+    hints:
+      - "Oil as a covenant token: Hos 12:2 ('they make a covenant with Assyria and oil is carried to Egypt'); Qedar Isa 21:16-17, Jer 49:28-33, Ps 120:5; anointed vassal 1Sam 10:1."
+  - id: ane-saa-02-007-esarhaddon-fragment
+    tradition: ane-akkadian
+    title: "SAA 2 7: Fragment of an Esarhaddon treaty (offerings and incense)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 007"]
+    tags:
+      - {motif: incense-and-juniper-offered, refs: ["SAA 02 007 8'-9'"], note: "iqqûkunūni ... qutāri: libations and incense mentioned, context lost"}
+      - {motif: loyalty-oath-imposed-by-assyrian-king, refs: ["SAA 02 007 3'-6'"], note: "ana Aššur-ahu-iddina ... zēršu u nišēšu: his seed and people (broken)"}
+  - id: ane-saa-02-013-arab-treaty-messages
+    tradition: ane-akkadian
+    title: "SAA 2 13: Treaty with an Arab ruler: no peace with the enemy, no secret messages, report every hostile word"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 013"]
+    tags:
+      - {motif: treaty-no-peace-with-kings-enemy, refs: ["SAA 02 013 o.ii:3'-4'"], note: "issišu lā tasallim pî issišu lā tašakkan"}
+      - {motif: treaty-fear-and-serve-overlord, refs: ["SAA 02 013 o.ii:5'-7'"], note: "tapallahanni damqīya teppaš: you shall fear me and do my good"}
+      - {motif: secret-message-by-bird-or-fish-forbidden, refs: ["SAA 02 013 r.iii:1-3"], note: "lū ina qāt nūni ša tâmti lū ina qāt iṣṣūri ša šamê lā tašappar"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 013 r.iii:4-17"], note: "abutu ammar tašammûni lū issu pî ištēn šarrāni lū issu pān ištēt mātāti ... issu pānīya lā tupazzar ana yâši tašappara tušašmanni"}
+    hints:
+      - "'A bird of the air will carry the voice, and a winged creature tell the matter': Eccl 10:20; Deut 13:9 ('you shall not conceal him')."
+  - id: ane-saa-02-003-sennacherib-succession
+    tradition: ane-akkadian
+    title: "SAA 2 3: Sennacherib's succession treaty in favour of Esarhaddon"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 003"]
+    tags:
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 003 o:1'-3'"], note: "abutu lā deiqtu tašammâni lā taqabbâni ana Sîn-ahhē-erība"}
+      - {motif: single-hearted-loyalty, refs: ["SAA 02 003 o:4'"], note: "libbakunu ana šarri bēlikunu lā gammurūni"}
+      - {motif: succession-oath-for-two-princes, refs: ["SAA 02 003 o:5'-6'"], note: "Aššur-ahu-iddina mār šarri rabû ša bēt rēdûti u rēhti mārē šarri ... ukallimukanūni lā tanaṣṣaršanūni: the crown prince Sennacherib showed you"}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["SAA 02 003 o:7'-11'", "SAA 02 003 r:2'-5'"], note: "Aššur, Mullissu, Šeruʾa, Sîn, Nikkal, Šamaš, Aya, Anu, Antu, Enlil, Adad, Šala ... the Ištars of heaven, Nineveh, Arbela and Assur ... gods of the akītu-house"}
+      - {motif: covenant-curses-catalogue, refs: ["SAA 02 003 o:11'-12'", "SAA 02 003 r:6'"], note: "arrat lā napšuri maruštu lī/rurūkunu: an evil curse that cannot be loosed"}
+    hints:
+      - "Deut 28:15-20 (all these curses shall come upon you), Deut 29:19-20 (every curse written in this book); the chosen younger son: 1Kgs 1:17, 1Chr 28:5."
+  - id: ane-saa-02-015-a-preamble-witnesses
+    tradition: ane-akkadian
+    title: "SAA 2 15 (Esarhaddon's Succession Treaty, Tayinat copy) i: seals of Aššur, parties, future generations, divine witnesses"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 015 o:i_T_1-?_T_i_52'"]
+    tags:
+      - {motif: treaty-tablet-sealed-and-guarded-like-god, refs: ["SAA 02 015 o:i_T_1", "SAA 02 015 o:iii_T_3"], note: "kunuk Aššur šar ilāni bēl mātāti ša lā šunnê / kunuk rubê rabê abi ilāni ša lā paqāri: the tablet bears the seal of the god"}
+      - {motif: loyalty-oath-imposed-by-assyrian-king, refs: ["SAA 02 015 o:1_T_i_1", "SAA 02 015 o:3_T_i_3", "SAA 02 015 o:5_T_i_12"], note: "adê ša Aššur-ahu-iddina ... issi bēl pīhāti Kunalia ... ṣehru u rabû mala bašû: the governor of Kullania/Calneh (Tayinat) and all his men"}
+      - {motif: treaty-binds-future-generations, refs: ["SAA 02 015 o:9_T_i_13", "SAA 02 015 o:10_and_6_T_i_14"], note: "ša arki adê ina ūmē ṣâti ibbaššûni"}
+      - {motif: succession-oath-for-two-princes, refs: ["SAA 02 015 o:8_and_11_T_i_17", "SAA 02 015 o:12_T_i_19"], note: "ina muhhi Aššur-bāni-apli mār šarri rabû ša bēt rēdûti"}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["SAA 02 015 o:13–14_T_i_20", "SAA 02 015 o:14–15_T_i_21", "SAA 02 015 o:16_T_i_22", "SAA 02 015 o:23_T_i_27", "SAA 02 015 o:25_T_i_29", "SAA 02 015 o:41_T_i_46'"], note: "before Jupiter, Venus, Saturn, Mercury, Mars, Sirius; Aššur, Anu, Enlil, Ea ... 'gods dwelling in heaven and earth, gods of Assyria, Sumer and Akkad, gods of all lands'; titammâ: swear!"}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["SAA 02 015 o:19_T_i_24", "SAA 02 015 o:21–22_T_i_25"], note: "ilāni āšibūti šamê erṣeti"}
+    hints:
+      - "Deut 29:13-14 (not with you alone but with whoever is not here with us today); heaven and earth as witnesses Deut 4:26, 30:19, 32:1, Isa 1:2. Kunalia = Calneh/Kalno: Amos 6:2, Isa 10:9."
+  - id: ane-saa-02-015-b-no-other-king-kin-reports
+    tradition: ane-akkadian
+    title: "SAA 2 15 i-iii: no other king, no oath to another lord, report evil words even from the prince's kin"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 015 o:58_T_i_62'-_T_iii_12"]
+    tags:
+      - {motif: no-adding-or-subtracting, refs: ["SAA 02 015 o:58_T_i_62'"], note: "tenâni tušannâni: if you alter or change (it)"}
+      - {motif: treaty-no-other-king-or-lord, refs: ["SAA 02 015 o:60_T_i_65'-61_T_i_67'", "SAA 02 015 o:69–70_T_i_76'-72_T_i_79'"], note: "issu libbi ahhēšu ... ina kūmišu kussâ ... tušaṣbatāni šarru šanumma bēlu šanumma ina muhhikunu tašakkanāni ana šarri šanimma bēli šanimma māmītu tatammâni"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 015 o:73_T_i_80'-78–79?_T_ii_5"], note: "abutu lā ... lā banītu ... lū ina pî ahhēšu ahhē abbēšu mār ahhē abbēšu qinnišu zēr bēt abišu lū ina pî rabûti pāhāti ša-ziqni ša-rēši"}
+      - {motif: kin-enticer-to-idolatry-stoned, refs: ["SAA 02 015 o:76–77_T_ii_3"], note: "the inciter may be the prince's own brother, uncle, cousin, family, 'seed of his father's house'"}
+      - {motif: treaty-fight-kings-enemy, refs: ["SAA 02 015 o:178?_T_iii_5"], note: "ina muhhi Aššur-bāni-apli ... lā tallakāninni: if you do not go (to his side); col. iii otherwise lost"}
+    hints:
+      - "Deut 13:7-12 (brother, son, daughter, wife, friend who entices you: do not conceal, report and execute); Exod 20:3 (no other gods before me); Deut 17:15 (set over you a king whom YHWH chooses, not a foreigner)."
+  - id: ane-saa-02-015-c-poison-love-as-yourselves
+    tradition: ane-akkadian
+    title: "SAA 2 15 iv: no poison or sorcery against the crown prince; love him as your own lives"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 015 o:257_T_iv_1-268_T_iv_11"]
+    tags:
+      - {motif: treaty-no-poisoning-or-sorcery-against-prince, refs: ["SAA 02 015 o:261–262_T_iv_4-264–265_T_iv_7"], note: "šammu ša mûtišu tušakkalāšūni tašaqqiāšūni tapaššašāšūni kišpī tepaššanniššūni ilāni u ištar issišu tušaznâni"}
+      - {motif: love-overlord-as-own-life, refs: ["SAA 02 015 o:266_T_iv_8-268_T_iv_11"], note: "kī napšātekunu lā tarʾamāni"}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["SAA 02 015 o:268_T_iv_11"]}
+    hints:
+      - "Love as one's own life: Deut 6:5 (love YHWH with all your heart and soul), Lev 19:18, 1Sam 18:1-3 and 20:17 (Jonathan loved David as his own soul, covenant). Poisoning a king: compare 2Kgs 9:22 (sorceries of Jezebel)."
+  - id: ane-saa-02-015-d-brothers-oath-tablet
+    tradition: ane-akkadian
+    title: "SAA 2 15 v: the prince's brothers, succession at the king's death, no annulment rites, whole-hearted oath taught to sons, the sealed tablet"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 015 o:344_T_v_1-413_T_v_77"]
+    tags:
+      - {motif: protect-brothers-of-crown-prince, refs: ["SAA 02 015 o:344_T_v_1-346–347_T_v_3", "SAA 02 015 o:353_T_v_9-358–359_T_v_15", "SAA 02 015 o:363_T_v_28-372_T_v_36"], note: "the sworn must fight the brothers who do not fear and submit to the crown prince 'as if for yourselves' (kī ramānikunu), yet not slander them or change their positions"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 015 o:347–348_T_v_4-351–352_T_v_8"], note: "šumma qābiānūti ša abutu annītu iqbakanūni turammâšūni: if you let the speakers go and do not report"}
+      - {motif: succession-oath-for-two-princes, refs: ["SAA 02 015 o:360_T_v_24-362_T_v_27"], note: "kīma Aššur-ahu-iddina ... ana šīmti ittalak Aššur-bāni-apli ... ina kussî šarrūti ittūšib"}
+      - {motif: ritual-to-annul-oath-forbidden, refs: ["SAA 02 015 o:373_T_v_37-379_T_v_43"], note: "sarbu ša ina muhhi ilāni ša puhri ... tapaššašāni ina sīqikunu tarakkasāni ša māmīt pašāri teppašāni ... tūrtu tutarrāni"}
+      - {motif: treaty-binds-future-generations, refs: ["SAA 02 015 o:381–382_T_v_46-384_T_v_48"], note: "attunu mārēkunu ša ana ūmē ṣâti ibbaššûni taʾʾakunu"}
+      - {motif: oath-with-whole-heart-not-lips-only, refs: ["SAA 02 015 o:385_T_v_49-388–389_T_v_54"], note: "tamītu ša dababti šapti tatammâni ina gummurti libbikunu lā tatammâni ana mārēkunu ... lā tušalmadāni"}
+      - {motif: your-god-and-your-lord-forever, refs: ["SAA 02 015 o:393_T_v_58-395–396_T_v_60"], note: "ana arkât ūmē ana ūmē ṣâti Aššur ilkunu Aššur-bāni-apli ... bēlkunu mārēkunu mār mārēkunu ana mārēšu lipluhū"}
+      - {motif: treaty-tablet-sealed-and-guarded-like-god, refs: ["SAA 02 015 o:397_T_v_61-413_T_v_77"], note: "kunuk rubê rabê ... ina kunukki ša Aššur ... kaniku ina pānikunu šakinūni kī ilkunu lā tanaṣṣarāni ... ina Girra tapaqqidāni ana mê tanaddâni ina epri takattamāni"}
+      - {motif: no-adding-or-subtracting, refs: ["SAA 02 015 o:397_T_v_61-398–399_T_v_62"], note: "ša māmīt ṭuppi annê enû egû ihaṭṭu ipasasu"}
+    hints:
+      - "Deut 6:6-7 and 11:18-19 (these words on your heart, teach them to your sons); Isa 29:13 (honour me with their lips, their heart far); Deut 29:13-14 (future generations); Deut 31:26 (book placed beside the ark as witness), Exod 25:16; destroying a written covenant: Jer 36:23 (scroll burned), Jer 51:63 (book sunk in the river); 'YHWH your God' formula Deut 6:2, 6:13."
+  - id: ane-saa-02-015-e-curses-by-the-gods
+    tradition: ane-akkadian
+    title: "SAA 2 15 v-vi: curses god by god (Aššur to Kubaba): disease, leprosy, famine and cannibalism, unburied corpses, darkness"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 015 o:414_T_v_78-493_T_vi_76"]
+    tags:
+      - {motif: curse-reign-of-sighing-few-days, refs: ["SAA 02 015 o:414_T_v_78-418_T_v_82"], note: "Aššur ... šīmat lemutti lā ṭābti lišīmkunu; Mullissu ... amātikunu lilammin"}
+      - {motif: diseases-of-egypt, refs: ["SAA 02 015 o:418A_T_v_83-418B–C_T_v_85"], note: "Anu ... murṣu tānēhu diʾu diliptu nissatu lā ṭūb šīri eli naphar bītātikunu lišaznin: illness, headache, sleeplessness rained on all your houses"}
+      - {motif: curse-skin-disease-as-garment, refs: ["SAA 02 015 o:419_T_v_86-421_T_v_89"], note: "Sîn ... ina saharšubbê lihallipkunu ina pān ilāni u šarri erēbkunu ay iqbi kīma serrēme ṣabīti ṣēra rupdā"}
+      - {motif: curse-flesh-to-dogs-name-and-seed-destroyed, refs: ["SAA 02 015 o:435_T_vi_7-435–436_T_vi_8", "SAA 02 015 o:451_T_vi_29-451–452_T_vi_30"], note: "Zarpanītu nādinat šumi u zēri šumkunu zērakunu ina māti lihalliq; šīrīkunu kalbū šahû lēkulū"}
+      - {motif: curse-birth-cut-off-no-childs-cry, refs: ["SAA 02 015 o:437_T_vi_9-439_T_vi_12"], note: "Bēlet-ilī ... talittu ina mātikunu liprus ikkil šerri u lakê ina sūqi rebīti lizzammâ tārītkun"}
+      - {motif: sky-bronze-earth-iron, refs: ["SAA 02 015 o:440_T_vi_13-441_T_vi_15"], note: "Adad ... zunnu šamūtu ina mātikunu liprus"}
+      - {motif: curse-land-to-flood-ruin-mound, refs: ["SAA 02 015 o:442_T_vi_16"], note: "ina rihṣi danni mātkunu lirhiṣ"}
+      - {motif: locust-worm-cricket-devour, refs: ["SAA 02 015 o:442–43_T_vi_17"], note: "erbû muṣahhir māti ebūrkunu lēkul"}
+      - {motif: curse-no-sound-of-mill-and-oven, refs: ["SAA 02 015 o:443–444_T_vi_18"], note: "ikkil erî u tinūri ina bītātikunu ay ibši"}
+      - {motif: curse-mother-bars-door-against-daughter, refs: ["SAA 02 015 o:445–446_T_vi_20-450_T_vi_28"], note: "kūm uṭṭeti eṣmātekunu mārēkunu mārātekunu liṭēnū ... ummu eli mārtiša bābša lēdil ina būrikunu šīr mārēkunu akla ... amēlu šīr amēli lēkul amēlu mašak amēli lilabbiš"}
+      - {motif: cannibalism-in-siege, refs: ["SAA 02 015 o:448–449_T_vi_26-449–450_T_vi_27"]}
+      - {motif: curse-ghost-deprived-of-water, refs: ["SAA 02 015 o:451–452_T_vi_30-452_T_vi_31", "SAA 02 015 o:476–477_T_vi_57-477–478_T_vi_58"], note: "eṭemmakunu pāqidu nāq mê ay irši; šapliš ina erṣeti eṭemmakunu mê lizammû"}
+      - {motif: curse-bow-broken-by-war-goddess, refs: ["SAA 02 015 o:453_T_vi_32-454_T_vi_34"], note: "Ištar ... qaštakunu lišbir idīkunu liksi ina šapal nakrikunu lušēšibkunu"}
+      - {motif: curse-made-to-kneel-at-enemys-feet, refs: ["SAA 02 015 o:454_T_vi_34"]}
+      - {motif: curse-plague-ends-people, refs: ["SAA 02 015 o:455_T_vi_35-456_T_vi_37"], note: "Nergal ... ina patrišu lā gāmili napšatkunu liballi šaggaštu mūtānu"}
+      - {motif: curse-wound-bathe-in-blood-and-pus, refs: ["SAA 02 015 o:461_T_vi_41-463_T_vi_43"]}
+      - {motif: curse-worms-eat-living-flesh, refs: ["SAA 02 015 o:466B_T_vi_47"], note: "Šarrat-Amqarrūna (Lady of Ekron) ištu libbikunu lišahiha tûltu"}
+      - {motif: curse-handed-to-devouring-lion, refs: ["SAA 02 015 o:467_T_vi_48-468_T_vi_49"], note: "Bayti-ili Anat-Bayti-ili"}
+      - {motif: blood-poured-like-water, refs: ["SAA 02 015 o:469–470_T_vi_50-470–471_T_vi_51"], note: "Kubaba Karhuha of Carchemish: dāmēkunu kīma tīki ina qaqqari littuttuk"}
+      - {motif: curse-unburied-corpse-eaten-by-dogs-and-pigs, refs: ["SAA 02 015 o:481–482_T_vi_62-484–485_T_vi_66"], note: "sīsī ša ardātikunu matnāt ša eṭlūtikunu ina niṭil īnēkunu kalbū šahû ... lindašširū pagrīkunu qaqqaru ay imhur ina karši kalbē šahî lū naqbarkunu"}
+      - {motif: corpse-food-for-birds-no-one-scares, refs: ["SAA 02 015 o:483–484_T_vi_65"]}
+      - {motif: curse-days-dark-years-of-darkness, refs: ["SAA 02 015 o:484–485_T_vi_66-486_T_vi_68"], note: "ūmēkunu lū eṭû šanātikunu lū eklā ekleti lā namāri"}
+      - {motif: morning-wish-evening-evening-wish-morning, refs: ["SAA 02 015 o:487_T_vi_69"], note: "ina tānēhi dilipti napištikunu liqti: life ends in sighing and sleeplessness (no morning/evening wish)"}
+      - {motif: curse-land-to-flood-ruin-mound, refs: ["SAA 02 015 o:488_T_vi_70-489_T_vi_71"], note: "bibbulu abūbu lā mahru ultu erṣeti līlâm-ma"}
+      - {motif: curse-dust-for-food-pitch-for-oil-urine-for-drink, refs: ["SAA 02 015 o:490_T_vi_73-492_T_vi_75"], note: "qīru kupru lū mākalākunu šīnāt imēri lū mašqītkunu napṭu lū piššatkunu elapû ša nāri lū taktīmkunu"}
+      - {motif: curse-demons-choose-your-houses, refs: ["SAA 02 015 o:493_T_vi_76"]}
+      - {motif: covenant-curses-catalogue, refs: ["SAA 02 015 o:472_T_vi_52-475–476_T_vi_56"], note: "ilāni rabûti ... mala ina ṭuppi annê šumšunu zakru limhaṣūkunu ... arratu maruštu aggiš līrurūkunu"}
+    hints:
+      - "Deut 28 point by point: 28:22 and 28:65-67 (consumption, fever; no rest, sleeplessness), 28:27,35 (boils, itch, incurable), 28:18 (fruit of the womb), 28:23-24 (no rain), 28:38,42 (locust), 28:53-57 (eat sons and daughters; the tender mother's eye evil against her daughter), 28:26 (corpse food for birds and beasts, none to frighten), 28:25 (smitten before enemies), 28:29 (grope at noon), 28:21 (pestilence). Jer 25:10 (sound of millstones ceases); Jer 16:4 and 22:19 (no burial); 2Kgs 1:2 (Baal-zebub god of Ekron); Lev 26:26 (bread by weight)."
+  - id: ane-saa-02-015-f-we-swear-first-person
+    tradition: ane-akkadian
+    title: "SAA 2 15 vi: the sworn speak: 'if we rebel, make terms with his enemy, or conceal sedition'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 015 o:494_T_vi_77-517_T_vii_6"]
+    tags:
+      - {motif: conspiracy-to-kill-king-must-be-reported, refs: ["SAA 02 015 o:494_T_vi_77-497–498_T_vi_82"], note: "ilāni annûti lidgulū šumma anīni ina muhhi ... sīhu bārtu neppašūni"}
+      - {motif: treaty-no-peace-with-kings-enemy, refs: ["SAA 02 015 o:498–499_T_vi_83"], note: "pîni issi nakrišu nišakkanūni"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 015 o:499–500_T_vi_84-506–507_T_vi_91"], note: "mušamhiṣūte mušadbibūti lihšu ša amāt lemutti ... dabāb surrāte lā kēnāte ... nišammûni nupazzarūni ... lā niqabbûni"}
+      - {motif: treaty-binds-future-generations, refs: ["SAA 02 015 o:507–508_T_vi_92-508_T_vi_93"], note: "ūmu ammar anīni mārēni mār mārēni balṭānini"}
+      - {motif: succession-oath-for-two-princes, refs: ["SAA 02 015 o:513_T_vii_1-517_T_vii_6"]}
+    hints:
+      - "Self-curse in the first person: compare Deut 27:15-26 (the people answer Amen), Neh 10:30 (they enter into a curse and an oath); concealment Deut 13:9."
+  - id: ane-saa-02-015-g-simile-curses-1
+    tradition: ane-akkadian
+    title: "SAA 2 15 vii: further curses and simile curses (bronze sky, mule's seed, iron plough, ewe and lambs, oath entering the body)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 015 o:517–518_T_vii_7-605_T_vii_91"]
+    tags:
+      - {motif: curse-unburied-corpse-eaten-by-dogs-and-pigs, refs: ["SAA 02 015 o:519_T_vii_9-520_T_vii_10"], note: "Palil ... šīrīkunu erû zību lišākil: eagle and jackal"}
+      - {motif: diseases-of-egypt, refs: ["SAA 02 015 o:521–522_T_vii_11-522_T_vii_12"], note: "Ea ... mê lā balāṭi lišeširkunu aganutillâ limallikunu: waters of death, dropsy"}
+      - {motif: curse-name-erased-from-tablet-of-fates, refs: ["SAA 02 015 o:525_T_vii_16"], note: "Girra ... šumkunu zērkunu ina Girra liqmû"}
+      - {motif: sky-bronze-earth-iron, refs: ["SAA 02 015 o:527–528_T_vii_19-533_T_vii_25"], note: "qaqqarkunu kī parzilli lēpušu ... kī ša ištu libbi šamê ša siparri zunnu lā izannunanni ... kūm zunni pēnāti ina mātikunu lizannunā: earth like iron, sky of bronze, charcoal rains instead of rain"}
+      - {motif: simile-curse-just-as-so-may, refs: ["SAA 02 015 o:530_T_vii_21", "SAA 02 015 o:534–535_T_vii_26", "SAA 02 015 o:537–538_T_vii_29", "SAA 02 015 o:547_T_vii_40", "SAA 02 015 o:555_T_vii_48", "SAA 02 015 o:560–561_T_vii_54", "SAA 02 015 o:603_T_vii_88"]}
+      - {motif: curse-like-tin-before-fire-cannot-stand-before-enemy, refs: ["SAA 02 015 o:534–535_T_vii_26-536_T_vii_28"]}
+      - {motif: curse-sterility-like-mule, refs: ["SAA 02 015 o:537–538_T_vii_29-539_T_vii_31"], note: "kī ša zēru ša kūdini laššūni šumkunu zērkunu ... lihliq"}
+      - {motif: curse-city-ploughed-with-iron-plough, refs: ["SAA 02 015 o:545_T_vii_38-545–546_T_vii_39"]}
+      - {motif: curse-mother-bars-door-against-daughter, refs: ["SAA 02 015 o:547_T_vii_40-549–550_T_vii_43", "SAA 02 015 o:568_T_vii_60-569_T_vii_61"], note: "kī ša gurrutu annītu šalqatūni šīr ša mūrīša ina pîša šakinūni ... šīrī ša mārēkunu mārātekunu ina būrikunu lišākilkunu; dām ... ina pîkunu limtiq"}
+      - {motif: treaty-ritual-animal-identified-with-vassal, refs: ["SAA 02 015 o:547_T_vii_40-553–554_T_vii_47"], note: "the ewe cut open and the lambs whose entrails are rolled at their feet: 'this ewe' (annīti) = an animal present at the oath ceremony"}
+      - {motif: curse-oath-enters-body-like-food-or-oil, refs: ["SAA 02 015 o:560–561_T_vii_54-561–562_T_vii_55"], note: "kī ša akalu karānu ina libbi errīkunu erabūni tamītu annītu ina libbi errīkunu ... lušēribū"}
+      - {motif: curse-rivers-and-springs-flow-backward, refs: ["SAA 02 015 o:565–566_T_vii_58"]}
+      - {motif: curse-bread-for-price-of-gold, refs: ["SAA 02 015 o:567_T_vii_59"], note: "akalu ina pitti hurāṣi ina mātikunu lilqû"}
+      - {motif: curse-worms-eat-living-flesh, refs: ["SAA 02 015 o:570_T_vii_62-572_T_vii_64"]}
+      - {motif: curse-bow-broken-by-war-goddess, refs: ["SAA 02 015 o:573–574_T_vii_65-574–575_T_vii_66"], note: "chariots driven backward"}
+      - {motif: curse-kin-hunt-and-kill-each-other, refs: ["SAA 02 015 o:576–577_T_vii_67-577–578_T_vii_68", "SAA 02 015 o:555_T_vii_48-559_T_vii_53"], note: "kī ša ayyalu kaššudūni ... ahhēkunu mārēkunu lukaššidū lidūkūkunu; snake and mongoose: you and your wives shall not enter one house or lie on one bed"}
+      - {motif: curse-not-return-to-wife-and-house, refs: ["SAA 02 015 o:579–580_T_vii_69-581_T_vii_71"], note: "kī ša būrtī-šahi lā tadaggalūni ina biškānīša lā tasaharūni"}
+      - {motif: curse-sun-gods-net-no-escape, refs: ["SAA 02 015 o:582_T_vii_72-583–584_T_vii_74", "SAA 02 015 o:588–589_T_vii_77-589–590_T_vii_78"], note: "kī ša iṣṣūru ina tubāqi isappakūni ... ina qāt nakrikunu liškunūkunu"}
+      - {motif: curse-flesh-black-as-pitch, refs: ["SAA 02 015 o:585–586_T_vii_75-586–587_T_vii_76"]}
+      - {motif: curse-worms-eat-living-flesh, refs: ["SAA 02 015 o:594–595_T_vii_81-597–598_T_vii_83"], note: "as a honeycomb is pierced with holes, so may your flesh be pierced with holes while you live"}
+      - {motif: locust-worm-cricket-devour, refs: ["SAA 02 015 o:599_T_vii_84-(599)–600_T_vii_85"], note: "erbû zēru barmu kalmatu mūnu ākilu ālānīkunu ... lušākilū"}
+      - {motif: curse-breath-stinks-before-gods-and-men, refs: ["SAA 02 015 o:603_T_vii_88-605_T_vii_91"]}
+    hints:
+      - "Deut 28:23-24 (heaven over you bronze, earth iron; the rain of your land powder and dust); Lev 26:19; Mic 3:12 and Jer 26:18 (Zion ploughed as a field); Ps 109:18 (curse entered his body like water, like oil into his bones) and Num 5:22,27 (the cursing water enters the bowels); 2Kgs 6:25, Ezek 4:16 (bread by weight); Deut 28:30 (betroth a wife, another lies with her; build a house, not dwell in it); Deut 28:39,42 (worm, locust); Isa 66:24 (their worm shall not die); Lam 4:8 (visage blacker than soot); Isa 19:5-6 (rivers dry, turned back); Isa 3:24 (stench instead of perfume)."
+  - id: ane-saa-02-015-h-simile-curses-2-colophon
+    tradition: ane-akkadian
+    title: "SAA 2 15 viii: last simile curses (wax figure, crab, right or left, dove, water-skin, sandal, tablet of fates) and date"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 015 o:606_T_viii_1-670_T_viii_71"]
+    tags:
+      - {motif: curse-kin-hunt-and-kill-each-other, refs: ["SAA 02 015 o:606_T_viii_1-606–607_T_viii_2", "SAA 02 015 o:646–647_T_viii_45-648_T_viii_47"], note: "sinnišātekunu ahhēkunu mārēkunu ina pitilti lihnuqūkunu; kī ša martu marratūni ... ina muhhi ahāiš lū marrākunu"}
+      - {motif: curse-melt-like-wax-dissolve-like-clay-figure, refs: ["SAA 02 015 o:608_T_viii_3-611_T_viii_6"], note: "kī ša ṣalam ša iškūri ina išāti iššarrapūni ša ṭīdi ina mê immahhūni"}
+      - {motif: blood-poured-like-water, refs: ["SAA 02 015 o:612–613_T_viii_7-614–615_T_viii_9"], note: "chariot drenched to its floorboards in blood: may your chariots be drenched in your own blood"}
+      - {motif: curse-soldiers-become-women-and-prostitutes, refs: ["SAA 02 015 o:616_T_viii_10-617_T_viii_11"], note: "kī pilaqqi lušaṣbirkunu kī sinništi ina pān nakrikunu lēpušūkunu"}
+      - {motif: curse-move-backward-like-crab, refs: ["SAA 02 015 o:618_T_viii_12-619–620_T_viii_14"]}
+      - {motif: curse-oath-enters-body-like-food-or-oil, refs: ["SAA 02 015 o:622_T_viii_16-624–625_T_viii_18"], note: "kī ša šamnu ina libbi šīri erabūni tamītu annītu ina libbi šīrīkunu ... lušēribū"}
+      - {motif: curse-hands-feet-cut-eyes-blinded, refs: ["SAA 02 015 o:626_T_viii_19-629–630_T_viii_23"], note: "kī ša arrāru ana Bēl ihṭûni kappī ša ahīšunu šēpēšunu ubattiqūni ēnēšunu ugallilūni"}
+      - {motif: curse-turn-right-or-left-sword-devours, refs: ["SAA 02 015 o:632_T_viii_26-636_T_viii_32"], note: "turammâni ana imitti šumēli tallakāni ša ana imitti illakūni patrū lēkulāšu ša ana šumēli illakūni patrū lēkulāšu"}
+      - {motif: curse-no-rest-no-sleep-bones-apart, refs: ["SAA 02 015 o:637_T_viii_35-640_T_viii_39"], note: "kī ša ikkillu ša summē annûte ihallalūni ... lā tanūhā lā taṣallalā eṣmātekunu ana ahāiš lū lā iqarribā"}
+      - {motif: moaning-like-a-dove, refs: ["SAA 02 015 o:637_T_viii_35"]}
+      - {motif: curse-no-balm-for-wound, refs: ["SAA 02 015 o:643_T_viii_42-645_T_viii_44"], note: "dišpu šamnu zinzaruʾu dām erēni ana šakān pithikunu lihliq"}
+      - {motif: curse-sun-gods-net-no-escape, refs: ["SAA 02 015 o:649_T_viii_48-651_T_viii_51"], note: "Šamaš huhāru ša siparri ... ina gišparri lā naparšudi lidīkunu"}
+      - {motif: curse-waterskin-split-die-of-thirst, refs: ["SAA 02 015 o:652_T_viii_52-654–655_T_viii_54"]}
+      - {motif: curse-crawl-on-belly, refs: ["SAA 02 015 o:656_T_viii_55-658_T_viii_57"], note: "kī ša mešēnu annītu batqatūni ina qaqqar puqutti ... ina muhhi libbikunu pišlā"}
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["SAA 02 015 o:659_T_viii_58"], note: "Enlil bēl kussê kussâkunu lušabbalkit"}
+      - {motif: curse-name-erased-from-tablet-of-fates, refs: ["SAA 02 015 o:660–661_T_viii_59-661_T_viii_60"], note: "Nabû nāši ṭuppi šīmāt ilāni šumkunu lipšiṭ zērakunu ina māti lihalliq"}
+      - {motif: treaty-dated-by-eponym, refs: ["SAA 02 015 o:664_T_viii_63-665_T_viii_65"], note: "Ayyāru 16, eponymy of Nabû-bēlu-uṣur governor of Dūr-Šarrukku (672 BC)"}
+      - {motif: succession-oath-for-two-princes, refs: ["SAA 02 015 o:666_T_viii_66-670_T_viii_71"]}
+    hints:
+      - "Deut 28:14 and 5:32, 17:11,20, Josh 1:7, 23:6 (turn not aside to the right or the left); Deut 28:65 (no rest for the sole of your foot); Jer 8:22 (no balm in Gilead); Ezek 12:13, 17:20, Hos 7:12 (God spreads his net); Gen 3:14 (on your belly you shall go); Exod 32:32-33, Ps 69:29, Deut 29:19 (name blotted out); Ps 68:3 (as wax melts before fire); Nah 3:13 (troops become women); Judg 1:6-7 (thumbs and big toes cut off)."
