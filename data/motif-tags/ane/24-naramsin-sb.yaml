@@ -34,6 +34,11 @@ new_motifs:
   dead-clothed-like-birds-eat-dust: {label: "In the underworld the dead are clothed like birds in garments of feathers, and dust and clay are their food", cluster: underworld}
   underworld-queen-orders-offender-brought-to-die: {label: "The underworld queen orders the god who slighted her envoy brought before her (to die)", cluster: underworld}
   water-and-household-purified-after-sex: {label: "After the union the house and attendants are sprinkled with water to purify them", cluster: underworld}
+  god-body-made-of-all-gods: {label: "Hymn in which each limb of one supreme god (face, eyes, ears, lips, neck, arms, feet) is another god, so that he gathers all the gods in himself", cluster: theology}
+  god-bears-all-divine-powers-of-other-gods: {label: "The gods' powers and functions are taken up by and entrusted to one god, who is called simply 'the Lord'", cluster: theology}
+  divine-weapon-hears-no-prayer: {label: "The god's weapon is merciless: it accepts no supplication and hears no prayer", cluster: war}
+  divine-weapon-drinks-sea-melts-mountains: {label: "The god's weapon swallows the sea like gruel, melts mountains like tallow, and turns stone mountains to ashes", cluster: war}
+  bow-shakes-heaven-and-netherworld: {label: "The divine bow's upper limb shakes heaven and its lower limb rouses the netherworld; its arrow is a star", cluster: war}
 units:
   - id: ane-naramsin-sb-1-prologue-enmerkar
     tradition: ane-akkadian
@@ -263,3 +268,42 @@ units:
       - {motif: god-becomes-consort-of-underworld-queen-forever, refs: ["NergEresh SB –:e+43-e+49"], note: "restored: [ilu šâš]u ša ašpurakki [lišib ittīki ana ū]mī dārûti; f+1 broken"}
     hints:
       - "Compare Death as king and consort of the underworld in Job 18:13-14 ('king of terrors')."
+  - id: ane-ninurtamacr-sb-1-body-of-gods
+    tradition: ane-akkadian
+    title: "Ninurta's body as the pantheon (Macranthropic Hymn to Ninurta)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NinurtaMacr SB –:1-33"]
+    tags:
+      - {motif: god-bears-all-divine-powers-of-other-gods, refs: ["NinurtaMacr SB –:2b-6", "NinurtaMacr SB –:33"], note: "hamim kiššūssunu, talqī-ma parṣīšunu, šarrūt bēlī qātukka; tahmum kala ilī zikir šumīka bēlu"}
+      - {motif: god-body-made-of-all-gods, refs: ["NinurtaMacr SB –:9-32"], note: "pānūka šamaš, īnāka enlil u ninlil, uznāka ea u damkīna, šaptāka ānu u āntu, kišādka marūtuk, iratka nabû, šinnātūka sebettu, lubšūka nusku"}
+      - {motif: body-parts-identified-with-gods, refs: ["NinurtaMacr SB –:9-31"]}
+      - {motif: divine-warrior-as-deluge, refs: ["NinurtaMacr SB –:7"], note: "bēlu rûbtaka abūbu"}
+      - {motif: god-declares-himself-sole-holder-of-powers, refs: ["NinurtaMacr SB –:16"], note: "qibītka ul innenni 'your command cannot be changed'"}
+    hints:
+      - "Compare the tendency to one God bearing all divine names: Deut 6:4; Isa 44:6; Q 7:180; 59:22-24 (the most beautiful names)."
+      - "Compare the cosmic body imagery of the divine glory, Ezek 1:26-28, and Ps 104:1-4 (clothed with light)."
+  - id: ane-ninurtamacr-sb-2-weapons
+    tradition: ane-akkadian
+    title: "Ninurta's weapons and bow (Macranthropic Hymn to Ninurta)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NinurtaMacr SB –:34-68"]
+    tags:
+      - {motif: catalogue-of-slain-monsters, refs: ["NinurtaMacr SB –:34", "NinurtaMacr SB –:52"], note: "asakka ina kašādīšu ana anzî lā māgirīšu īsihu tuqutta; asakka ... kīma šurīpi ušharmiṭu"}
+      - {motif: named-weapons-of-divine-warrior, refs: ["NinurtaMacr SB –:35", "NinurtaMacr SB –:42"], note: "šarur u šargaz; nēr-ē-tagmil 'Kill, spare not'"}
+      - {motif: divine-weapon-drinks-sea-melts-mountains, refs: ["NinurtaMacr SB –:38-41", "NinurtaMacr SB –:47-48"], note: "tâmta gallata kīma mê pappāsi tusarrip; hursānī šaqûti kīma lipî ulaʾʾitu"}
+      - {motif: divine-weapon-hears-no-prayer, refs: ["NinurtaMacr SB –:42-43"], note: "ša teslīta lā imahharu unninna lā ileqqû"}
+      - {motif: god-piles-up-skulls, refs: ["NinurtaMacr SB –:46"], note: "gulgullāt lā māgirī kīma tīl baṣṣi ušappiku"}
+      - {motif: bow-shakes-heaven-and-netherworld, refs: ["NinurtaMacr SB –:49-58"], note: "sikdu elû šamê ušnarraṭ, sikdu šaplû arallâ idekki; šiltāhka šukudu"}
+      - {motif: warrior-god-deploys-four-winds, refs: ["NinurtaMacr SB –:62"], note: "gappu šār erbetti: the arrow's fletching is the four winds"}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["NinurtaMacr SB –:59-60"], note: "ilū iparrurū šadû itarrurū ... ilū ina puhrīšunu kīma qan mehê"}
+      - {motif: wicked-melt-like-wax-before-fire, refs: ["NinurtaMacr SB –:47"], note: "mountains melted kīma lipî 'like tallow'"}
+    hints:
+      - "Compare God's bow and arrows, Hab 3:9-11; Ps 7:13-14; Lam 2:4; 3:12-13; and the bow in the cloud, Gen 9:13."
+      - "Compare mountains melting like wax, Ps 97:5; Mic 1:4; and reed shaken by wind, 1 Kgs 14:15."
+      - "Compare 'I will not pity nor spare', Ezek 5:11; 7:4; Lam 3:44 (a cloud so that no prayer passes)."

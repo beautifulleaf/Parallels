@@ -135,6 +135,15 @@ new_motifs:
   statue-of-dead-friend-in-gold-and-lapis: {label: "Craftsmen are summoned to make a statue of the dead friend with lapis eyebrows and a golden chest", cluster: death}
   grave-goods-for-netherworld-gods: {label: "Treasures from the king's treasury are displayed to the sun god as gifts for each netherworld deity, that they welcome the dead friend and walk at his side", cluster: underworld}
   funeral-sacrifice-of-oxen-and-sheep: {label: "Fat oxen and sheep are slaughtered and heaped up for the dead, their meat carried to the princes of the netherworld", cluster: death}
+  scapegoat-of-netherworld: {label: "A netherworld deity is titled 'the scapegoat' (mašhaltappû), the substitute who carries evil away", cluster: underworld}
+  honey-and-ghee-offering: {label: "Honey (syrup) and ghee are set out in precious bowls as an offering to a god", cluster: cult}
+  friends-death-brings-fear-of-own-death: {label: "Seeing his friend dead, the hero realises 'I too shall die' and, afraid of death, roams the wild", cluster: death}
+  hero-seeks-immortal-ancestor-for-secret-of-life: {label: "The hero sets out to find his immortal ancestor, who stood in the gods' assembly and found life, to learn the secret of death and life", cluster: immortality}
+  night-prayer-to-moon-god-for-safety: {label: "In danger at night the traveller lifts his head and prays to the moon god to keep him safe", cluster: cult}
+  twin-mountains-of-sunrise: {label: "Twin cosmic mountains (Māšu) guard the sun's rising and setting, their peaks touching heaven and their roots reaching the netherworld", cluster: cosmology}
+  scorpion-people-guard-gate-of-sun: {label: "A scorpion-man and his wife, whose glance is death, guard the gate of the mountain of the sun", cluster: cosmology}
+  journey-through-darkness-twelve-hours: {label: "The hero travels the sun's path inside the mountain for twelve double-hours of total darkness, unable to see behind him, emerging before the sun", cluster: cosmology}
+  garden-of-jewel-trees: {label: "Beyond the darkness lies a garden of the gods whose trees bear fruit and foliage of carnelian, lapis lazuli and other gems", cluster: paradise}
 units:
   - id: ane-gilg-sb-i-prologue
     tradition: ane-akkadian
@@ -923,3 +932,64 @@ units:
       - {motif: honey-and-ghee-offering, refs: ["Gilg SB VIII:216-217"], note: "dišpu and himētu in carnelian and lapis bowls"}
     hints:
       - "Honey forbidden on the altar: Lev 2:11; 'butter and honey' Isa 7:15; burial in a hidden place: Deut 34:6 (Moses' unknown grave)."
+
+  - id: ane-gilg-sb-ix-fear-of-death
+    tradition: ane-akkadian
+    title: "'I shall die, and shall I not be like Enkidu?': Gilgameš sets out; lions at night (Gilgameš SB IX)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB IX:1-29"]
+    tags:
+      - {motif: friends-death-brings-fear-of-own-death, refs: ["Gilg SB IX:1-5"], note: "anāku amât-ma ul kī enkīdū-mâ ... mūta aplah-ma arappud ṣēra"}
+      - {motif: grief-drives-hero-to-seek-life, refs: ["Gilg SB IX:3-7"]}
+      - {motif: hero-visits-flood-survivor, refs: ["Gilg SB IX:6-7"], note: "ana lēt ūta-napišti mār ubār-tutu urha ṣabtākū-ma"}
+      - {motif: mourner-wears-lion-skin-roams-wild, refs: ["Gilg SB IX:2"], note: "ṣarpiš ibakkī-ma irappud ṣēra"}
+      - {motif: night-prayer-to-moon-god-for-safety, refs: ["Gilg SB IX:8-12", "Gilg SB IX:24-26"], note: "nēšī āmur aptalah anāku, ašši rēšīya ana sîn akarrab ... šullimāʾinni yâti"}
+      - {motif: dream-of-companion-on-expedition, refs: ["Gilg SB IX:13-14"], note: "iggeltū-ma šuttu ... ihtedu balāṭu"}
+      - {motif: hero-kills-lion-barehanded, refs: ["Gilg SB IX:15-18"], note: "with axe and dirk: kīma šiltāhi ana birīšunu imqut, imhaṣ labbī idûk uparrir"}
+    hints:
+      - "Fear of death: Ps 55:5, Heb 2:15; 'I shall go to him, he will not return to me' (2Sam 12:23); Eccl 2:14-16, 3:19-20 (the same fate befalls all)."
+      - "Killing lions: Judg 14:5-6 (Samson), 1Sam 17:34-36 (David), 2Sam 23:20 (Benaiah)."
+
+  - id: ane-gilg-sb-ix-scorpion-people
+    tradition: ane-akkadian
+    title: "The twin mountains of Māšu and the scorpion-man and his wife (Gilgameš SB IX)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB IX:37-93"]
+    tags:
+      - {motif: twin-mountains-of-sunrise, refs: ["Gilg SB IX:37-41", "Gilg SB IX:45"], note: "šad māši ... ša ūmišam-ma inaṣṣarū aṣê šamši, elūšunu šupuk šamê endū, šapliš arallê irassunu kašdat"}
+      - {motif: scorpion-people-guard-gate-of-sun, refs: ["Gilg SB IX:42-53"], note: "girtablilū inaṣṣarū bābšu ša rašbat pulhassunū-ma imrassunu mūtu"}
+      - {motif: deadly-gaze-of-monster, refs: ["Gilg SB IX:43"], note: "imrassunu mūtu"}
+      - {motif: cherubim-guard-paradise, refs: ["Gilg SB IX:42-45"], note: "loose: composite guardians at the gate leading to the garden of the gods"}
+      - {motif: hero-two-thirds-god, refs: ["Gilg SB IX:49-51"], note: "šīr ilī zumuršu ... šittāšu ilum-ma šullultašu amēlūtu"}
+      - {motif: hero-seeks-immortal-ancestor-for-secret-of-life, refs: ["Gilg SB IX:75-77"], note: "harrān ūta-napišti abīya ... ša izzizū-ma ina puhur ilī [balāṭa išʾû], mūta u balāṭa [...]"}
+      - {motif: journey-through-darkness-twelve-hours, refs: ["Gilg SB IX:80-83"], note: "ana šinšeret bērī libbašu ... šapât ekletum-ma ul ibbašši nūru"}
+      - {motif: travellers-ford-perilous-rivers, refs: ["Gilg SB IX:56"], note: "[kīkī nārāti tētebbira] ša ebēršina pašqu (partly restored)"}
+    hints:
+      - "Cherubim with a flaming sword guarding the way to the tree of life: Gen 3:24; mountains as pillars between heaven and the deep: Job 26:7-11, Ps 104:5-8."
+      - "Dhū l-Qarnayn travels to the setting and rising of the sun: Q 18:86-90."
+
+  - id: ane-gilg-sb-ix-path-of-sun-and-jewel-garden
+    tradition: ane-akkadian
+    title: "Twelve double-hours of darkness on the path of the sun; the garden of jewel-trees (Gilgameš SB IX)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB IX:125-196"]
+    tags:
+      - {motif: weathered-face-of-wanderer, refs: ["Gilg SB IX:125-127"], note: "ina nissati ...; ina šarbi u ṣēti [qummû pānūa] (restored from X)"}
+      - {motif: journey-through-darkness-twelve-hours, refs: ["Gilg SB IX:138-170"], note: "harrān šamaš iṣbat; ištēn bēr ... šapât ekletum-ma ul ibašši nūru, ul inaddinšum-ma ana palāsi arkassu ... šinšeret bērī ittaṣi lām šamši"}
+      - {motif: threefold-repeated-episode, refs: ["Gilg SB IX:139-166"], note: "the refrain repeated for each double-hour, one to nine"}
+      - {motif: garden-of-jewel-trees, refs: ["Gilg SB IX:171-194"], note: "iṣṣī ša ilī ... sāmtu našât inibša, ishunnata ullulat ... uqnû naši hashalta ... kīma balti u ašāgi [ibšû] AN.ZA.GUL.ME"}
+      - {motif: paradise-gold-and-gems, refs: ["Gilg SB IX:173-192"]}
+      - {motif: garden-of-god-in-east, refs: ["Gilg SB IX:170-176"], note: "the garden of the gods reached at the sun's rising"}
+      - {motif: tree-pleasant-to-sight, refs: ["Gilg SB IX:174", "Gilg SB IX:176"], note: "ana dagāli hīpat ... ana amāri ṣayyah"}
+    hints:
+      - "The garden of God with every precious stone, walking among stones of fire: Ezek 28:13-14; trees 'pleasant to the sight and good for food' Gen 2:9, 3:6; the gold and onyx of Havilah Gen 2:11-12."
+      - "Thorns and briars replaced by crystal: compare the curse 'thorns and thistles' (Gen 3:18) reversed; the jewelled city Rev 21:18-21, Isa 54:11-12."
