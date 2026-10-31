@@ -1,0 +1,2539 @@
+# ANE x Quran side-by-side pass, chunk 23 (Book of the Dead 125 in ten witnesses; Doomed Prince; Eloquent Peasant; Harper's Songs; Book of the Heavenly Cow; Contendings of Horus and Seth; Admonitions of Ipuwer). Judged blind, from the Egyptian and the Arabic.
+new_motifs:
+  keepers-admit-or-question-arrivals-at-gate-of-hereafter:
+    label: Keepers at the gate of the abode of the dead question the arrivals, and those found good or pure are told to enter
+    cluster: judgment-of-dead
+  written-book-carried-by-dead-at-judgment:
+    label: A written book in the dead man's possession decides his passage at the judgment
+    cluster: judgment-of-dead
+  tampering-with-measure-and-balance:
+    label: Giving short in the grain measure or tampering with the weights of the balance
+    cluster: law
+  measure-neither-exceeded-nor-diminished:
+    label: The measure or balance is to be kept exact, neither overstepped nor made short
+    cluster: law
+  series-of-negative-vows-theft-adultery-killing-lying:
+    label: A series of 'I/they shall not' clauses covering theft, adultery, killing and lying, spoken before an authority
+    cluster: law
+  feeding-the-poor-declared-at-judgment:
+    label: At the judgment the dead state whether they fed the hungry
+    cluster: judgment-of-dead
+  seat-of-the-highest-over-the-waters:
+    label: The dwelling or throne of the highest god rests on (primeval) water
+    cluster: cosmos
+  day-of-reckoning-named:
+    label: A named 'day of reckoning' on which accounts are settled
+    cluster: judgment-of-dead
+  workload-within-capacity:
+    label: No one is to be burdened with more than he is able to do
+    cluster: law
+  killing-forbidden-except-by-right:
+    label: Killing a person is forbidden unless it is rightful (not 'falsely', 'except by right')
+    cluster: law
+  harsh-words-against-ones-father-or-parents:
+    label: Not to speak against or complain of one's father or parents
+    cluster: law
+  spying-forbidden:
+    label: Spying or eavesdropping on others is forbidden
+    cluster: law
+  balance-at-judgment-of-the-dead:
+    label: A balance on which the dead are weighed at the judgment, and what is put on it
+    cluster: judgment-of-dead
+  witness-against-the-dead-at-judgment:
+    label: Whether any witness testifies against the dead at the judgment
+    cluster: judgment-of-dead
+  fortified-dwelling-against-death:
+    label: A secure building (stone house, lofty towers) cannot keep out a death that is fated
+    cluster: death
+  fated-death-draws-a-man-out-of-his-house:
+    label: One whose death is decreed goes out of his house to meet it
+    cluster: death
+  death-meets-the-one-who-flees-it:
+    label: The death or fate a man flees comes after him and meets him
+    cluster: death
+  daughter-given-or-refused-to-fugitive-from-egypt:
+    label: A foreign ruler or father is asked to give his daughter to a fugitive come from Egypt
+    cluster: marriage
+  powerful-man-seizes-poor-mans-animal:
+    label: A man of means covets and seizes a poorer man's animal, and the case goes before a judge
+    cluster: justice
+  protector-of-the-orphan:
+    label: Who acts as father and shelter of the orphan
+    cluster: justice
+  provision-given-in-secret:
+    label: Provision is given to the needy so that the giver stays hidden
+    cluster: charity
+  eyes-that-do-not-see-ears-that-do-not-hear:
+    label: Those with eyes and ears who neither see nor hear
+    cluster: wisdom
+  rhetorical-question-of-a-mortals-eternity:
+    label: Rhetorical question whether a mortal will be one who lasts for ever
+    cluster: death
+  cosmic-balance-binds-the-judge:
+    label: The divine balance does not tilt, therefore a human judge may not tilt it
+    cluster: justice
+  bribing-the-judge:
+    label: Gifts brought to the judge to win a case and take others' property
+    cluster: justice
+  tomorrow-unknown:
+    label: No one knows what tomorrow will bring
+    cluster: wisdom
+  grief-and-exultation-over-fortune:
+    label: Not to grieve or exult over what fortune brings or withholds
+    cluster: wisdom
+  good-deeds-endure-beyond-death:
+    label: Righteous deeds endure and go with a man beyond death, when other goods do not
+    cluster: death
+  the-one-who-asks-not-repelled:
+    label: The one who asks or petitions is not to be driven away
+    cluster: justice
+  builders-seek-permanence-through-buildings:
+    label: Men build great structures to endure, but the builders and their buildings pass
+    cluster: death
+  feeding-the-needy-and-its-motive:
+    label: Feeding the one without bread, and the motive given for it
+    cluster: charity
+  appointed-term-to-the-hour:
+    label: 'A man''s (or nation''s) term is fixed to the hour: nothing is added or advanced'
+    cluster: death
+  vanished-generations-leave-no-trace:
+    label: Of past generations no trace remains to be found or heard
+    cluster: death
+  earthly-life-preferred-over-the-hereafter:
+    label: Some prefer and praise life on earth over the hereafter, and are corrected
+    cluster: death
+  earthly-life-slight-against-the-hereafter:
+    label: Life on earth is slight or unreal set against the true life of the hereafter
+    cluster: death
+  sun-and-the-cave-of-the-sleeping:
+    label: The sun at the cave or tomb-cavern where the dead or sleepers lie
+    cluster: death
+  limbs-of-the-dead-made-whole:
+    label: The body of the dead is made whole again, all its limbs complete
+    cluster: death
+  turned-on-right-and-left-side:
+    label: One lying in the tomb or cave is turned on his right side and on his left
+    cluster: death
+  food-of-the-hereafter-like-that-of-earth:
+    label: In the hereafter the dead eat the like of what they ate on earth
+    cluster: paradise
+  dead-greeted-with-peace-on-arrival:
+    label: Those who receive the dead greet him with 'peace' on his arrival
+    cluster: death
+  good-name-endures-among-later-people:
+    label: The good man's name endures in the mouths of later people
+    cluster: death
+  waking-of-the-dead-in-the-grave:
+    label: The dead wake in their resting place
+    cluster: death
+  who-remains-when-all-pass-away:
+    label: All beings pass away; what remains
+    cluster: death
+  creators-weariness:
+    label: Whether the creator grows weary
+    cluster: deity
+  what-holds-up-the-sky:
+    label: What holds up the sky above the earth
+    cluster: cosmos
+  upholding-heaven-without-tiring:
+    label: The one who upholds the heavens does not tire of it
+    cluster: cosmos
+  deputy-in-the-place-of-the-withdrawing-ruler:
+    label: A departing ruler appoints a deputy ('in my place', vizier) over those he leaves
+    cluster: kingship
+  purity-required-for-the-sacred-text:
+    label: Purity is required of whoever recites or touches the sacred text
+    cluster: ritual
+  deeds-on-earth-counted-at-judgment:
+    label: Whether the wrongs a man did on earth are counted against him at the judgment
+    cluster: judgment-of-dead
+  sky-falling-on-the-earth:
+    label: The sky falls, or is kept from falling, on the earth
+    cluster: cosmos
+  body-as-qualification-for-kingship:
+    label: A claimant's body is weighed as fitness for kingship
+    cluster: kingship
+  case-put-to-a-judge-who-condemns-in-it:
+    label: A case is put to a judge as real, and his verdict on it turns on himself
+    cluster: justice
+  sight-restored-by-something-on-face-or-eyes:
+    label: A blinded one's sight is restored by something placed on the eyes or face
+    cluster: healing
+  physical-trace-decides-sexual-accusation:
+    label: In a sexual accusation, where the physical trace is found shows who lies
+    cluster: justice
+  messengers-fetch-the-evildoers-at-death:
+    label: Fierce messengers sent to fetch the evildoers at death
+    cluster: death
+  who-made-grain-to-feed-whom:
+    label: Who made the grain grow, to feed which beings
+    cluster: nature
+  thunder-in-the-sky-and-fear:
+    label: Thunder in the sky and the fear it brings, and whose voice it is
+    cluster: nature
+  ones-own-child-as-enemy:
+    label: A man's own child is his enemy
+    cluster: family
+  blood-as-calamity-on-egypt:
+    label: Blood comes upon Egypt as a calamity
+    cluster: plagues
+  wish-to-have-died:
+    label: A sufferer says 'would that I could die / had died'
+    cluster: death
+  kin-against-kin-in-catastrophe:
+    label: In the catastrophe a man turns against or flees from his own brother and kin
+    cluster: family
+reviewed:
+- unit: ane-bd125-w1-d-gate-names-thoth-osiris
+  checked:
+  - quran-39-mercy-and-last-day
+  - quran-7-paradise-hell-araf
+  - quran-3-sovereignty
+  - quran-67-mulk-heavens-lamps-and-hell
+  matches:
+  - with: quran-39-mercy-and-last-day
+    motif: keepers-admit-or-question-arrivals-at-gate-of-hereafter
+    refs:
+    - BD125 W1:89/4
+    - BD125 W1:96/2
+    - BD125 W1:98
+    with_refs:
+    - 39:71
+    - 39:73
+    relation: divergence
+    record:
+      agent:
+      - the gate-parts and doorkeeper of the Hall of the Two Maat
+      - the keepers of the gates (khazanatuhā)
+      action:
+      - refuse entry and question the dead
+      - question or greet the throngs at the opened gates
+      quoted:
+      - jw =j wꜥb.kw ... ꜥq jr =k ḥr =n
+      - salāmun ʿalaykum ṭibtum fa-dkhulūhā khālidīn
+      outcome:
+      - the dead who says he is pure and knows the names may enter
+      - those who were good (ṭibtum) enter for ever; the others are asked 'a-lam yaʾtikum rusulun'
+    note: 'Keepers of the gate of the hereafter stop and question the arriving dead, then admit him. Egyptian: each gate-part says nn ḏi̯ =n ꜥq =k ... n-js ḏd.n =k rn =n ''we will not let you enter unless you say our name''; the dead answers jw =j wꜥb.kw ''I am pure'', and is told ꜥq jr =k ḥr =n ''enter then''. Arabic: khazanatuhā ask the damned a-lam yaʾtikum rusulun minkum (39:71) and tell the God-fearing salāmun ʿalaykum ṭibtum fa-dkhulūhā (39:73). The test changes: secret names and a claim of purity, against whether the messengers were heeded; ''pure'' is claimed by the dead in BD and pronounced by the keepers in Q.'
+- unit: ane-bd125-w1-e-rubric
+  checked:
+  - quran-2-food-piety
+  - quran-5-contracts-food-laws
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-100-chargers
+  matches:
+  - with: quran-69-haqqa-books-in-right-and-left-hands
+    motif: written-book-carried-by-dead-at-judgment
+    refs:
+    - BD125 W1:112
+    - BD125 W1:114
+    with_refs:
+    - '69:19'
+    - '69:20'
+    relation: divergence
+    record:
+      object:
+      - this book-roll (mḏꜣ,t tn) made for the dead
+      - his book (kitābiyah) given into his right hand
+      action:
+      - is made for the dead man
+      - is given to the dead man
+      quoted:
+      - jr jrr mḏꜣ,t tn ḥr =f ... n šnꜥ.tw =f ḥr sbꜣ nb n jmn,t
+      - fa-ammā man ūtiya kitābahu bi-yamīnihi fa-yaqūlu hāʾumu qraʾū kitābiyah
+      outcome:
+      - he is turned back at no gate of the West
+      - he says 'take, read my book' and enters a pleasing life
+    note: 'A written book in the dead man''s possession decides his passage. BD 125 rubric: jr jrr mḏꜣ,t tn ḥr =f ''whoever has this book-roll made for him'' ... n šnꜥ.tw =f ḥr sbꜣ nb n jmn,t ''he will be turned back at no gate of the West''. 69:19 fa-ammā man ūtiya kitābahu bi-yamīnihi fa-yaqūlu hāʾumu qraʾū kitābiyah. In Egypt it is a spell-roll that is commissioned and works by itself; in the Quran it is the record of the man''s own deeds, handed to him by God.'
+- unit: ane-bd125-w2-a-introduction-first-confession
+  checked:
+  - quran-83-defrauders
+  - quran-17-commandments
+  - quran-23-death-barzakh-judgment
+  - quran-36-trumpet-and-judgment
+  matches:
+  - with: quran-83-defrauders
+    motif: tampering-with-measure-and-balance
+    refs:
+    - BD125 W2:698/4
+    - BD125 W2:699
+    - BD125 W2:699/2
+    with_refs:
+    - '83:1'
+    - '83:2'
+    - '83:3'
+    relation: parallel
+    record:
+      action:
+      - gives short in measure and weight
+      - gives short in measure and weight
+      object:
+      - the grain measure and the balance (jws,w, mḫꜣ,t)
+      - the measure (kayl) and the weight (wazn)
+      quoted:
+      - n ḫbi̯ =j dbḥ ... n snmḥ =j m tḫ n mḫꜣ,t
+      - idhā kālūhum aw wazanūhum yukhsirūn
+      outcome:
+      - denied by the dead before the judges of the dead
+      - woe (wayl) to the defrauders, who will be raised on a great day
+    note: 'The same two offences, measure and balance, judged in the hereafter. BD 125: n ḫbi̯ =j dbḥ ''I have not diminished the measure'', n ski̯ =j ḥr mw,t n.t jwsw / n wꜣḥ =j ḥr mw,t n.t jws,w ''I have not taken from / added to the weight of the hand-balance'', n snmḥ =j m tḫ n mḫꜣ,t ''I have not tampered with the plummet of the balance''. 83:1-3 waylun li-l-muṭaffifīn ... idhā kālūhum aw wazanūhum yukhsirūn, followed by a-lā yaẓunnu ulāʾika annahum mabʿūthūn (83:4). In BD the dead denies the fraud; in Q the fraud is denounced.'
+- unit: ane-bd125-w2-b-forty-two-addresses
+  checked:
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-6-commandments
+  - quran-4-wealth-household
+  - quran-24-ifk-slander
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: series-of-negative-vows-theft-adultery-killing-lying
+    refs:
+    - BD125 W2:712
+    - BD125 W2:713
+    - BD125 W2:717
+    - BD125 W2:740
+    with_refs:
+    - '60:12'
+    relation: divergence
+    record:
+      agent:
+      - the dead man
+      - the believing women
+      action:
+      - declares he has not stolen, killed, lied or lain with a married woman
+      - pledge not to steal, fornicate, kill their children or bring a forged slander
+      recipient:
+      - the 42 judges, one named judge per clause
+      - the Prophet
+      time:
+      - after death, of past conduct
+      - at the pledge, of future conduct
+      quoted:
+      - n ṯꜣy =j ... n smꜣ =j r(m)ṯ ... n ḏd =j grg ... n nk =j ḥm,t-ṯꜣy
+      - lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna bi-buhtānin
+    note: 'A chain of negated clauses covering the same four matters: theft, sexual wrong, killing and lying. BD 125: n ṯꜣy =j ''I have not stolen'', n smꜣ =j r(m)ṯ ''I have not killed a man'', n ḏd =j grg ''I have not told lies'', n nk =j ḥm,t-ṯꜣy ''I have not lain with a married woman''. 60:12 yubāyiʿnaka ʿalā an lā yushrikna ... wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna bi-buhtānin yaftarīnahu. Past innocence declared to the judges of the dead, against a pledge for the future made to the Prophet; killing ''a man'' against killing ''their children''.'
+- unit: ane-bd125-w2-c-address-gate-rubric
+  checked:
+  - quran-2-closing
+  - quran-40-throne-bearers
+  - quran-74-cloaked
+  - quran-11-opening-throne-on-water
+  matches:
+  - with: quran-74-cloaked
+    motif: feeding-the-poor-declared-at-judgment
+    refs:
+    - BD125 W2:759/2
+    with_refs:
+    - '74:43'
+    - '74:44'
+    relation: divergence
+    record:
+      agent:
+      - the dead man ('I gave')
+      - the damned in Saqar
+      action:
+      - declares he gave bread to the hungry
+      - confess they did not feed the poor
+      recipient:
+      - the hungry, the thirsty, the naked
+      - the poor (miskīn)
+      quoted:
+      - rḏi̯.n =j tʾ n ḥqr mw n jbi̯ ḥbs n ḥꜣw
+      - wa-lam naku nuṭʿimu l-miskīn
+      outcome:
+      - he is justified and passes the gate
+      - they are in Saqar
+    note: 'At the judgment the dead state whether they fed the hungry. BD 125: rḏi̯.n =j tʾ n ḥqr mw n jbi̯ ḥbs n ḥꜣw ''I gave bread to the hungry, water to the thirsty, clothes to the naked'', as a claim that justifies. 74:42-44 mā salakakum fī saqar, qālū lam naku mina l-muṣallīn wa-lam naku nuṭʿimu l-miskīn: the same item as the confession of the damned.'
+  - with: quran-11-opening-throne-on-water
+    motif: seat-of-the-highest-over-the-waters
+    refs:
+    - BD125 W2:795/3
+    with_refs:
+    - '11:7'
+    relation: echo
+    record:
+      object:
+      - the dwelling of Osiris
+      - God's throne ('arsh)
+      place:
+      - its floor is primeval flood-water (nwy)
+      - on the water
+      quoted:
+      - zꜣt,w =f m nwy
+      - wa-kāna ʿarshuhu ʿalā l-māʾ
+    note: 'The seat of the highest rests on water. BD 125: the one to be announced to is he ''whose roof is fire, whose walls are living uraei, zꜣt,w =f m nwy, whose floor is the flood-water'': Osiris. 11:7 wa-huwa lladhī khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin wa-kāna ʿarshuhu ʿalā l-māʾ. A hall of the judge of the dead against the throne of the creator before creation.'
+- unit: ane-bd125-w3-a-introduction-first-confession
+  checked:
+  - quran-23-death-barzakh-judgment
+  - quran-10-who-provides-challenge
+  - quran-36-trumpet-and-judgment
+  - quran-83-defrauders
+  - quran-38-david-ewe-parable
+  matches:
+  - with: quran-83-defrauders
+    motif: tampering-with-measure-and-balance
+    refs:
+    - BD125 W3:396/2
+    - BD125 W3:396/3
+    with_refs:
+    - '83:1'
+    - '83:2'
+    - '83:3'
+    relation: parallel
+    record:
+      action:
+      - gives short in measure and weight
+      - gives short in measure and weight
+      object:
+      - the grain measure and the balance (jws,w, mḫꜣ,t)
+      - the measure (kayl) and the weight (wazn)
+      quoted:
+      - n ḫbi̯ =j dbḥ ... n snmḥ =j m tḫ n mḫꜣ,t
+      - idhā kālūhum aw wazanūhum yukhsirūn
+      outcome:
+      - denied by the dead before the judges of the dead
+      - woe (wayl) to the defrauders, who will be raised on a great day
+    note: 'The same two offences, measure and balance, judged in the hereafter. BD 125: n ḫbi̯ =j dbḥ ''I have not diminished the measure'', n ski̯ =j ḥr mw,t n.t jwsw / n wꜣḥ =j ḥr mw,t n.t jws,w ''I have not taken from / added to the weight of the hand-balance'', n snmḥ =j m tḫ n mḫꜣ,t ''I have not tampered with the plummet of the balance''. 83:1-3 waylun li-l-muṭaffifīn ... idhā kālūhum aw wazanūhum yukhsirūn, followed by a-lā yaẓunnu ulāʾika annahum mabʿūthūn (83:4). In BD the dead denies the fraud; in Q the fraud is denounced.'
+  - with: quran-38-david-ewe-parable
+    motif: day-of-reckoning-named
+    refs:
+    - BD125 W3:385
+    with_refs:
+    - '38:26'
+    relation: echo
+    record:
+      time:
+      - that day of reckoning (hrw pwy n ḥsb)
+      - the day of reckoning (yawm al-ḥisāb)
+      quoted:
+      - hrw pwy n ḥsb md.w,t m-bꜣḥ Wnn-nfr,w
+      - bi-mā nasū yawma l-ḥisāb
+    note: 'The same name for the day: hrw pwy n ḥsb md.w,t m-bꜣḥ Wnn-nfr,w ''that day of reckoning the matters before Wennefer'' (pMaiherperi), 38:26 lahum ʿadhābun shadīdun bi-mā nasū yawma l-ḥisāb. Reckoning before Osiris against reckoning by God.'
+- unit: ane-bd125-w3-b-forty-two-addresses
+  checked:
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-6-commandments
+  - quran-4-wealth-household
+  - quran-24-ifk-slander
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: series-of-negative-vows-theft-adultery-killing-lying
+    refs:
+    - BD125 W3:412
+    - BD125 W3:413
+    - BD125 W3:417
+    - BD125 W3:427
+    with_refs:
+    - '60:12'
+    relation: divergence
+    record:
+      agent:
+      - the dead man
+      - the believing women
+      action:
+      - declares he has not stolen, killed, lied or lain with a married woman
+      - pledge not to steal, fornicate, kill their children or bring a forged slander
+      recipient:
+      - the 42 judges, one named judge per clause
+      - the Prophet
+      time:
+      - after death, of past conduct
+      - at the pledge, of future conduct
+      quoted:
+      - n ṯꜣy =j ... n smꜣ =j r(m)ṯ ... n ḏd =j grg ... n nk =j ḥm,t-ṯꜣy
+      - lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna bi-buhtānin
+    note: 'A chain of negated clauses covering the same four matters: theft, sexual wrong, killing and lying. BD 125: n ṯꜣy =j ''I have not stolen'', n smꜣ =j r(m)ṯ ''I have not killed a man'', n ḏd =j grg ''I have not told lies'', n nk =j ḥm,t-ṯꜣy ''I have not lain with a married woman''. 60:12 yubāyiʿnaka ʿalā an lā yushrikna ... wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna bi-buhtānin yaftarīnahu. Past innocence declared to the judges of the dead, against a pledge for the future made to the Prophet; killing ''a man'' against killing ''their children''.'
+- unit: ane-bd125-w3-c-address-gate-rubric
+  checked:
+  - quran-2-closing
+  - quran-40-throne-bearers
+  - quran-11-opening-throne-on-water
+  - quran-74-cloaked
+  matches:
+  - with: quran-11-opening-throne-on-water
+    motif: seat-of-the-highest-over-the-waters
+    refs:
+    - BD125 W3:465
+    with_refs:
+    - '11:7'
+    relation: echo
+    record:
+      object:
+      - the dwelling of Osiris
+      - God's throne ('arsh)
+      place:
+      - its floor is primeval flood-water (nwy)
+      - on the water
+      quoted:
+      - zꜣt,w =f m nwy
+      - wa-kāna ʿarshuhu ʿalā l-māʾ
+    note: 'The seat of the highest rests on water. BD 125: the one to be announced to is he ''whose roof is fire, whose walls are living uraei, zꜣt,w =f m nwy, whose floor is the flood-water'': Osiris. 11:7 wa-huwa lladhī khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin wa-kāna ʿarshuhu ʿalā l-māʾ. A hall of the judge of the dead against the throne of the creator before creation.'
+- unit: ane-bd125-w4-version-c
+  checked:
+  - quran-2-closing
+  - quran-40-throne-bearers
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-23-death-barzakh-judgment
+  matches: []
+- unit: ane-bd125-w5-rubric
+  checked:
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-100-chargers
+  - quran-83-defrauders
+  matches:
+  - with: quran-69-haqqa-books-in-right-and-left-hands
+    motif: written-book-carried-by-dead-at-judgment
+    refs:
+    - BD125 W5:32_12
+    - BD125 W5:32_14
+    with_refs:
+    - '69:19'
+    - '69:20'
+    relation: divergence
+    record:
+      object:
+      - this book-roll (mḏꜣ,t tn) made for the dead
+      - his book (kitābiyah) given into his right hand
+      action:
+      - is made for the dead man
+      - is given to the dead man
+      quoted:
+      - jr jrr mḏꜣ,t tn ḥr =f ... n šnꜥ.tw =f ḥr sbꜣ nb n jmn,t
+      - fa-ammā man ūtiya kitābahu bi-yamīnihi fa-yaqūlu hāʾumu qraʾū kitābiyah
+      outcome:
+      - he is turned back at no gate of the West
+      - he says 'take, read my book' and enters a pleasing life
+    note: 'A written book in the dead man''s possession decides his passage. BD 125 rubric: jr jrr mḏꜣ,t tn ḥr =f ''whoever has this book-roll made for him'' ... n šnꜥ.tw =f ḥr sbꜣ nb n jmn,t ''he will be turned back at no gate of the West''. 69:19 fa-ammā man ūtiya kitābahu bi-yamīnihi fa-yaqūlu hāʾumu qraʾū kitābiyah. In Egypt it is a spell-roll that is commissioned and works by itself; in the Quran it is the record of the man''s own deeds, handed to him by God.'
+- unit: ane-bd125-w6-first-confession-late
+  checked:
+  - quran-10-who-provides-challenge
+  - quran-36-trumpet-and-judgment
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-55-rahman-creation-and-the-two-seas
+  - quran-2-closing
+  matches:
+  - with: quran-55-rahman-creation-and-the-two-seas
+    motif: measure-neither-exceeded-nor-diminished
+    refs:
+    - BD125 W6:8/4
+    - BD125 W6:9
+    with_refs:
+    - '55:8'
+    - '55:9'
+    relation: parallel
+    record:
+      action:
+      - neither added to nor diminished the measure
+      - neither transgress in the balance nor make it short
+      object:
+      - the measure (dbḥ.w) and the plummet of the balance
+      - the balance (mīzān)
+      quoted:
+      - nn wꜣḥ =j nn ḫbi̯ =j dbḥ.w
+      - allā taṭghaw fī l-mīzān ... wa-lā tukhsirū l-mīzān
+    note: 'Both forbid erring in either direction: the late witness nn wꜣḥ =j nn ḫbi̯ =j dbḥ.w ''I have neither added to nor diminished the measure'' and nn snmḥ =j m tḫ,w n mḫꜣ,t; 55:8-9 allā taṭghaw fī l-mīzān wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān, ''do not overstep in the balance ... and do not make the balance short''. A denial by the dead against a command to the living.'
+  - with: quran-2-closing
+    motif: workload-within-capacity
+    refs:
+    - BD125 W6:4/5
+    with_refs:
+    - 2:286
+    relation: divergence
+    record:
+      agent:
+      - the dead man (as overseer)
+      - God
+      action:
+      - imposed no work beyond what a man could do
+      - burdens no soul beyond its capacity
+      recipient:
+      - any man, on any day
+      - any soul
+      quoted:
+      - nn jri̯ =j tp r(m)ṯ nb hrw nb bꜣk m-ḥr =f jri̯.n =f
+      - lā yukallifu llāhu nafsan illā wusʿahā
+    note: 'The same rule, a load not beyond capacity. Late BD: nn jri̯ =j tp r(m)ṯ nb hrw nb bꜣk m-ḥr =f jri̯.n =f ''I have not imposed on any man on any day work beyond what he could do''. 2:286 lā yukallifu llāhu nafsan illā wusʿahā, and the prayer wa-lā tuḥammilnā mā lā ṭāqata lanā bihi. The one who sets the load changes: a human overseer clearing himself, against God.'
+- unit: ane-bd125-w7-forty-two-late
+  checked:
+  - quran-17-commandments
+  - quran-2-closing
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-6-commandments
+  - quran-49-hujurat-etiquette-and-brotherhood
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: series-of-negative-vows-theft-adultery-killing-lying
+    refs:
+    - BD125 W7:14_2
+    - BD125 W7:17_1
+    - BD125 W7:18_1
+    - BD125 W7:22_1
+    with_refs:
+    - '60:12'
+    relation: divergence
+    record:
+      agent:
+      - the dead man
+      - the believing women
+      action:
+      - declares he has not stolen, killed, lied or lain with a married woman
+      - pledge not to steal, fornicate, kill their children or bring a forged slander
+      recipient:
+      - the 42 judges, one named judge per clause
+      - the Prophet
+      time:
+      - after death, of past conduct
+      - at the pledge, of future conduct
+      quoted:
+      - n ṯꜣy =j ... n smꜣ =j r(m)ṯ ... n ḏd =j grg ... n nk =j ḥm,t-ṯꜣy
+      - lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna bi-buhtānin
+    note: 'A chain of negated clauses covering the same four matters: theft, sexual wrong, killing and lying. BD 125: n ṯꜣy =j ''I have not stolen'', n smꜣ =j r(m)ṯ ''I have not killed a man'', n ḏd =j grg ''I have not told lies'', n nk =j ḥm,t-ṯꜣy ''I have not lain with a married woman''. 60:12 yubāyiʿnaka ʿalā an lā yushrikna ... wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna bi-buhtānin yaftarīnahu. Past innocence declared to the judges of the dead, against a pledge for the future made to the Prophet; killing ''a man'' against killing ''their children''.'
+  - with: quran-17-commandments
+    motif: killing-forbidden-except-by-right
+    refs:
+    - BD125 W7:18_1
+    with_refs:
+    - '17:33'
+    relation: parallel
+    record:
+      action:
+      - kills men
+      - kills the soul
+      quoted:
+      - nn smꜣ =j r(m)ṯ.pl m-grg
+      - wa-lā taqtulū n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqq
+      outcome:
+      - only unjust killing is denied
+      - only killing by right is allowed
+    note: 'The late witness qualifies the denial of killing exactly as the Quran qualifies the ban: nn smꜣ =j r(m)ṯ.pl m-grg ''I have not killed men unjustly (falsely)'', where the older pYuya has only n smꜣ =j r(m)ṯ; 17:33 wa-lā taqtulū n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqq.'
+  - with: quran-17-commandments
+    motif: harsh-words-against-ones-father-or-parents
+    refs:
+    - BD125 W7:27_2/2
+    with_refs:
+    - '17:23'
+    relation: parallel
+    record:
+      action:
+      - does not complain against his father
+      - does not say 'uff' to or rebuke his parents
+      recipient:
+      - his father
+      - his parents in old age
+      quoted:
+      - nn šnṯ =j ḥr jti̯ =j
+      - fa-lā taqul lahumā uffin wa-lā tanharhumā
+    note: 'Added in this late witness after the denial about the king: nn šnṯ =j ḥr jti̯ =j ''I have not complained against (reviled) my father''. 17:23 immā yablughanna ʿindaka l-kibara aḥaduhumā aw kilāhumā fa-lā taqul lahumā uffin wa-lā tanharhumā. The father alone against both parents in old age.'
+  - with: quran-49-hujurat-etiquette-and-brotherhood
+    motif: spying-forbidden
+    refs:
+    - BD125 W7:32_1
+    with_refs:
+    - '49:12'
+    relation: parallel
+    record:
+      action:
+      - has not spied
+      - do not spy
+      quoted:
+      - nn smtj =j
+      - wa-lā tajassasū wa-lā yaghtab baʿḍukum baʿḍā
+    note: Among the faults of speech, nn smtj =j 'I have not spied / eavesdropped' (with lying and chattering nearby, W7:22_1, W7:33_1); 49:12 wa-lā tajassasū wa-lā yaghtab baʿḍukum baʿḍā, among suspicion and backbiting.
+- unit: ane-bd125-w8-address-gate-late
+  checked:
+  - quran-82-cleaving
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-2-closing
+  - quran-40-throne-bearers
+  - quran-74-cloaked
+  matches:
+  - with: quran-74-cloaked
+    motif: feeding-the-poor-declared-at-judgment
+    refs:
+    - BD125 W8:38/2
+    with_refs:
+    - '74:43'
+    - '74:44'
+    relation: divergence
+    record:
+      agent:
+      - the dead man ('he gave')
+      - the damned in Saqar
+      action:
+      - declares he gave bread to the hungry
+      - confess they did not feed the poor
+      recipient:
+      - the hungry, the thirsty, the naked
+      - the poor (miskīn)
+      quoted:
+      - rḏi̯.n =j tʾ n ḥqr mw n jbi̯ ḥbs n ḥꜣw
+      - wa-lam naku nuṭʿimu l-miskīn
+      outcome:
+      - he is justified and passes the gate
+      - they are in Saqar
+    note: 'At the judgment the dead state whether they fed the hungry. BD 125: rḏi̯.n =j tʾ n ḥqr mw n jbi̯ ḥbs n ḥꜣw ''I gave bread to the hungry, water to the thirsty, clothes to the naked'', as a claim that justifies. 74:42-44 mā salakakum fī saqar, qālū lam naku mina l-muṣallīn wa-lam naku nuṭʿimu l-miskīn: the same item as the confession of the damned.'
+- unit: ane-bd125-w9-rubric-late
+  checked:
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-100-chargers
+  - quran-83-defrauders
+  matches:
+  - with: quran-69-haqqa-books-in-right-and-left-hands
+    motif: written-book-carried-by-dead-at-judgment
+    refs:
+    - BD125 W9:67/2
+    - BD125 W9:69
+    with_refs:
+    - '69:19'
+    - '69:20'
+    relation: divergence
+    record:
+      object:
+      - this book-roll (mḏꜣ,t tn) made for the dead
+      - his book (kitābiyah) given into his right hand
+      action:
+      - is made for the dead man
+      - is given to the dead man
+      quoted:
+      - jr jrr mḏꜣ,t tn ḥr =f ... n šnꜥ.tw =f ḥr sbꜣ nb n jmn,t
+      - fa-ammā man ūtiya kitābahu bi-yamīnihi fa-yaqūlu hāʾumu qraʾū kitābiyah
+      outcome:
+      - he is turned back at no gate of the West
+      - he says 'take, read my book' and enters a pleasing life
+    note: 'A written book in the dead man''s possession decides his passage. BD 125 rubric: jr jrr mḏꜣ,t tn ḥr =f ''whoever has this book-roll made for him'' ... n šnꜥ.tw =f ḥr sbꜣ nb n jmn,t ''he will be turned back at no gate of the West''. 69:19 fa-ammā man ūtiya kitābahu bi-yamīnihi fa-yaqūlu hāʾumu qraʾū kitābiyah. In Egypt it is a spell-roll that is commissioned and works by itself; in the Quran it is the record of the man''s own deeds, handed to him by God.'
+- unit: ane-bd125-w10-vignette-weighing-of-heart
+  checked:
+  - quran-7-opening-scales
+  - quran-21-cosmic-signs-and-scales
+  - quran-23-death-barzakh-judgment
+  - quran-101-striking
+  - quran-36-trumpet-and-judgment
+  matches:
+  - with: quran-7-opening-scales
+    motif: balance-at-judgment-of-the-dead
+    refs:
+    - BD125 W10:über_der_linken_Seite_der_Waage/2
+    - BD125 W10:über_der_linken_Seite_der_Waage/3
+    with_refs:
+    - '7:8'
+    - '7:9'
+    relation: divergence
+    record:
+      instrument:
+      - a standing balance with plummet (mḫꜣ,t)
+      - balances (mawāzīn)
+      object:
+      - the heart (jb) against Maat
+      - each man's deeds
+      quoted:
+      - jb ꜥqꜣ r ꜥḥꜥ =f mḫꜣ,t mḥ.tj m Wsjr mꜣꜥ-ḫrw
+      - wa-l-waznu yawmaʾidhini l-ḥaqq fa-man thaqulat mawāzīnuhu
+      outcome:
+      - the heart is exact and the dead is justified
+      - heavy scales succeed, light scales have lost themselves
+    note: 'A balance at the judgment of the dead. Anubis over the scale: jb ꜥqꜣ r ꜥḥꜥ =f mḫꜣ,t mḥ.tj m Wsjr ''the heart is exact by its plumb; the balance is filled with the Osiris NN, justified''. 7:8-9 wa-l-waznu yawmaʾidhini l-ḥaqq fa-man thaqulat mawāzīnuhu fa-ulāʾika humu l-mufliḥūn, wa-man khaffat mawāzīnuhu. What is weighed changes: the heart, which must balance exactly, against deeds, where heaviness saves.'
+  - with: quran-36-trumpet-and-judgment
+    motif: witness-against-the-dead-at-judgment
+    refs:
+    - BD125 W10:Beischrift_zum_Verstorbenen/4
+    with_refs:
+    - 36:65
+    relation: divergence
+    record:
+      agent:
+      - the dead man
+      - God
+      action:
+      - declares there is no witness against him
+      - seals their mouths; their hands speak and their feet bear witness
+      quoted:
+      - nn mtr =j
+      - wa-tukallimunā aydīhim wa-tashhadu arjuluhum
+      outcome:
+      - no witness, he is justified
+      - the body itself testifies to what they earned
+    note: 'Whether any witness testifies against the dead. Caption of the dead before Osiris: nn ḏw =j nn mtr =j ''I am without evil, without a witness (against me)''. 36:65 al-yawma nakhtimu ʿalā afwāhihim wa-tukallimunā aydīhim wa-tashhadu arjuluhum bi-mā kānū yaksibūn: witnesses are found in the man''s own limbs.'
+- unit: ane-doomedprince-birth-fate-secluded
+  checked:
+  - quran-3-imran-mary-zechariah
+  - quran-19-zechariah-and-john
+  - quran-17-book-of-deeds
+  - quran-57-hadid-iron-and-monasticism
+  - quran-4-fighting-and-death
+  - quran-3-badr-uhud
+  matches:
+  - with: quran-4-fighting-and-death
+    motif: fortified-dwelling-against-death
+    refs:
+    - DoomedPrince 4_5/2
+    with_refs:
+    - 4:78
+    relation: divergence
+    record:
+      agent:
+      - the king, for his son
+      - those addressed
+      instrument:
+      - a stone house (pr n jnr) in the desert
+      - lofty towers (burūj mushayyada)
+      quoted:
+      - pr n jnr ḥr ḫꜣs,t ... jw nn pri̯ pꜣ ẖrd,w r-bw-n-rʾ
+      - aynamā takūnū yudrikkumu l-mawtu wa-law kuntum fī burūjin mushayyada
+      outcome:
+      - the prince grows up, goes out and his fates follow him
+      - death overtakes them wherever they are
+    note: A strong building cannot keep out a fated death. The king, told his son will die by crocodile, snake or dog, has a pr n jnr 'house of stone' built in the desert so that the boy need not go out. 4:78 aynamā takūnū yudrikkumu l-mawtu wa-law kuntum fī burūjin mushayyada. In the tale it is a father's attempt that the story then defeats; in Q it is stated as a rule.
+  - with: quran-3-badr-uhud
+    motif: fated-death-draws-a-man-out-of-his-house
+    refs:
+    - DoomedPrince 4_12/2
+    - DoomedPrince 4_12/3
+    with_refs:
+    - 3:154
+    relation: divergence
+    record:
+      agent:
+      - the prince
+      - those for whom death was written
+      action:
+      - asks to leave the house, being assigned to his fate
+      - would have gone out to their places of death
+      quoted:
+      - tw≡j wḏ.kwj n pꜣ šꜣ,y ... j:jri̯.tw pꜣ nṯr jri̯.t pꜣ n,tj m jb =f
+      - law kuntum fī buyūtikum la-baraza lladhīna kutiba ʿalayhimu l-qatlu ilā maḍājiʿihim
+    note: 'Staying at home does not keep back a decreed death. The prince: ''what comes of my sitting here? tw≡j wḏ.kwj n pꜣ šꜣ,y I am assigned to the fate; let me act as I wish until the god does what is in his heart'', and goes out. 3:154 law kuntum fī buyūtikum la-baraza lladhīna kutiba ʿalayhimu l-qatlu ilā maḍājiʿihim. The fate (šꜣ,y) against killing ''written'' (kutiba) by God.'
+- unit: ane-doomedprince-naharina-window-marriage
+  checked:
+  - quran-28-moses-kills-and-flees
+  - quran-28-moses-in-midian
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-11-abraham-guests
+  matches:
+  - with: quran-28-moses-in-midian
+    motif: daughter-given-or-refused-to-fugitive-from-egypt
+    refs:
+    - DoomedPrince 6_9/2
+    - DoomedPrince 6_10/2
+    - DoomedPrince 6_14
+    with_refs:
+    - '28:25'
+    - '28:27'
+    relation: divergence
+    record:
+      agent:
+      - the prince of Naharina
+      - the old father in Midian
+      recipient:
+      - the fugitive from Egypt (pꜣ wꜥr n Km,t)
+      - Moses, who fled the wrongdoing people
+      action:
+      - refuses him his daughter
+      - offers him one of his two daughters
+      quoted:
+      - jn-jw j:ḏi̯ =j tꜣy =j šrj,t n pꜣ wꜥr n Km,t
+      - innī urīdu an unkiḥaka iḥdā bnatayya hātayn
+      outcome:
+      - sends men to kill him, then yields
+      - marriage for eight or ten years' service
+    note: 'A foreign father and a young man come from Egypt who has passed a test at a distance from home (the leap to the high window; the watering of the flocks). The prince of Naharina: jn-jw j:ḏi̯ =j tꜣy =j šrj,t n pꜣ wꜥr n Km,t ''shall I give my daughter to the fugitive from Egypt?'', and sends men to kill him. 28:25 lā takhaf najawta mina l-qawmi ẓ-ẓālimīn; 28:27 innī urīdu an unkiḥaka iḥdā bnatayya hātayn ʿalā an taʾjuranī thamāniya ḥijaj. Refusal and threat against a ready offer with a bride-service.'
+- unit: ane-doomedprince-snake-dog-crocodile
+  checked:
+  - quran-8-badr-help
+  - quran-4-fighting-and-death
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-12-joseph-full
+  matches:
+  - with: quran-62-jumua-unlettered-donkey-and-friday
+    motif: death-meets-the-one-who-flees-it
+    refs:
+    - DoomedPrince 8_11
+    with_refs:
+    - '62:8'
+    relation: divergence
+    record:
+      agent:
+      - the crocodile, his fate
+      - death
+      action:
+      - has come after him
+      - will meet you
+      quoted:
+      - jnk pꜣy =k šꜣ,y jri̯ jwi̯ m-sꜣ =k
+      - inna l-mawta lladhī tafirrūna minhu fa-innahu mulāqīkum
+      outcome:
+      - papyrus breaks off
+      - then you are returned to the Knower of the unseen
+    note: 'The fate a man runs from comes after him. The crocodile seizes the prince: j jnk pꜣy =k šꜣ,y jri̯ jwi̯ m-sꜣ =k ''I am your fate that has come after you''. 62:8 qul inna l-mawta lladhī tafirrūna minhu fa-innahu mulāqīkum. The fated agent speaks for itself in the tale; in Q it is said of death.'
+- unit: ane-eloquentpeasant-w1-robbery
+  checked:
+  - quran-38-david-ewe-parable
+  - quran-26-lot
+  - quran-8-ratio-captives
+  - quran-10-noah
+  matches:
+  - with: quran-38-david-ewe-parable
+    motif: powerful-man-seizes-poor-mans-animal
+    refs:
+    - EloquentPeasant W1:6_7/alt_41
+    - EloquentPeasant W1:7_2/alt_43
+    with_refs:
+    - '38:23'
+    - '38:24'
+    relation: divergence
+    record:
+      agent:
+      - Nemtinakht, a steward's man of property
+      - the brother with 99 ewes
+      object:
+      - the peasant's donkeys and goods
+      - his brother's single ewe
+      action:
+      - schemes to steal them by a trick
+      - demands it and overpowers him in speech
+      quoted:
+      - ḥꜣ n =j šzp nb ꜥwꜣi̯ =j ḥn,w.pl n sḫ,tj pn jm =f
+      - akfilnīhā wa-ʿazzanī fī l-khiṭāb
+      outcome:
+      - the peasant pleads nine times before the high steward
+      - 'David judges at once: la-qad ẓalamaka bi-suʾāli naʿjatika'
+    note: A man of means covets a poorer man's animals and the wrong goes before a judge. Nemtinakht sees the donkeys 'pleasing to his heart' and says ḥꜣ n =j šzp nb ꜥwꜣi̯ =j ḥn,w.pl n sḫ,tj pn jm =f 'would that I had some image by which I could steal this peasant's goods'. 38:23 inna hādhā akhī lahu tisʿun wa-tisʿūna naʿjatan wa-liya naʿjatun wāḥidatun fa-qāla akfilnīhā wa-ʿazzanī fī l-khiṭāb. Donkeys taken by a trap, a ewe by demand; a verdict delayed through nine petitions, a verdict at once (which turns out to be a test of David).
+- unit: ane-eloquentpeasant-w1-first-petition
+  checked:
+  - quran-93-94-forenoon-and-expansion
+  - quran-4-women-orphans-justice
+  - quran-58-mujadila-zihar-and-secret-counsel
+  matches:
+  - with: quran-93-94-forenoon-and-expansion
+    motif: protector-of-the-orphan
+    refs:
+    - EloquentPeasant W1:15_2/alt_104
+    with_refs:
+    - '93:6'
+    - '93:9'
+    relation: divergence
+    record:
+      agent:
+      - the high steward Rensi
+      - God; then the Prophet
+      action:
+      - is praised as father of the orphan
+      - found the orphan and sheltered him; the orphan is not to be oppressed
+      quoted:
+      - ntk jt n nmḥ hj n ḫꜣr,t
+      - a-lam yajidka yatīman fa-āwā ... fa-ammā l-yatīma fa-lā taqhar
+    note: 'Who is father and shelter of the orphan. The peasant to Rensi: ntk jt n nmḥ hj n ḫꜣr,t sn n wḏꜥ,t ''you are father to the orphan, husband to the widow, brother to the divorced'' (W1 partly restored, W2 intact). 93:6 a-lam yajidka yatīman fa-āwā, 93:9 fa-ammā l-yatīma fa-lā taqhar. A human official praised to win his help, against God who sheltered the orphan Prophet and a command not to oppress orphans.'
+- unit: ane-eloquentpeasant-w1-king-orders
+  checked:
+  - quran-2-charity
+  - quran-4-kalala-ruling
+  - quran-3-abraham-people-of-book
+  - quran-19-zechariah-and-john
+  matches:
+  - with: quran-2-charity
+    motif: provision-given-in-secret
+    refs:
+    - EloquentPeasant W1:18_4/alt_128
+    - EloquentPeasant W1:18_7/alt_131
+    with_refs:
+    - 2:271
+    relation: divergence
+    record:
+      agent:
+      - the high steward, on the king's order
+      - the giver of alms
+      action:
+      - feeds the peasant through his friends
+      - gives alms hidden to the poor
+      recipient:
+      - the peasant and his family
+      - the poor (fuqarāʾ)
+      quoted:
+      - nn rḫ =f n,tt ntk ḏḏ n =f st
+      - wa-in tukhfūhā wa-tuʾtūhā l-fuqarāʾa fa-huwa khayrun lakum
+    note: 'Provision given so that the giver is hidden. The king: feed this peasant, nn rḫ =f n,tt ntk ḏḏ n =f st ''without his knowing that it is you who give it to him'', so it goes through his ''friends''. 2:271 in tubdū ṣ-ṣadaqāti fa-niʿimmā hiya wa-in tukhfūhā wa-tuʾtūhā l-fuqarāʾa fa-huwa khayrun lakum. The motive changes: to keep the eloquent man petitioning, against the merit of secret alms.'
+- unit: ane-eloquentpeasant-w1-second-third-petitions
+  checked:
+  - quran-7-opening-scales
+  - quran-24-ifk-slander
+  - quran-42-shura-signs-and-ethics
+  matches: []
+- unit: ane-eloquentpeasant-w2-robbery
+  checked:
+  - quran-38-david-ewe-parable
+  - quran-10-noah
+  - quran-8-ratio-captives
+  - quran-2-charity
+  matches:
+  - with: quran-38-david-ewe-parable
+    motif: powerful-man-seizes-poor-mans-animal
+    refs:
+    - EloquentPeasant W2:20/alt_Amherst_I_B_1/2
+    - EloquentPeasant W2:22/alt_Amherst_I_B_3
+    with_refs:
+    - '38:23'
+    - '38:24'
+    relation: divergence
+    record:
+      agent:
+      - Nemtinakht, a steward's man of property
+      - the brother with 99 ewes
+      object:
+      - the peasant's donkeys and goods
+      - his brother's single ewe
+      action:
+      - schemes to steal them by a trick
+      - demands it and overpowers him in speech
+      quoted:
+      - ḥꜣ n =j šzp nb ꜥwꜣi̯ =j ḥn,w.pl n sḫ,tj pn jm =f
+      - akfilnīhā wa-ʿazzanī fī l-khiṭāb
+      outcome:
+      - the peasant pleads nine times before the high steward
+      - 'David judges at once: la-qad ẓalamaka bi-suʾāli naʿjatika'
+    note: A man of means covets a poorer man's animals and the wrong goes before a judge. Nemtinakht sees the donkeys 'pleasing to his heart' and says ḥꜣ n =j šzp nb ꜥwꜣi̯ =j ḥn,w.pl n sḫ,tj pn jm =f 'would that I had some image by which I could steal this peasant's goods'. 38:23 inna hādhā akhī lahu tisʿun wa-tisʿūna naʿjatan wa-liya naʿjatun wāḥidatun fa-qāla akfilnīhā wa-ʿazzanī fī l-khiṭāb. Donkeys taken by a trap, a ewe by demand; a verdict delayed through nine petitions, a verdict at once (which turns out to be a test of David).
+- unit: ane-eloquentpeasant-w2-first-petition
+  checked:
+  - quran-93-94-forenoon-and-expansion
+  - quran-106-108-quraysh-kindness-kawthar
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-4-women-orphans-justice
+  matches:
+  - with: quran-93-94-forenoon-and-expansion
+    motif: protector-of-the-orphan
+    refs:
+    - EloquentPeasant W2:91/alt_60/2
+    with_refs:
+    - '93:6'
+    - '93:9'
+    relation: divergence
+    record:
+      agent:
+      - the high steward Rensi
+      - God; then the Prophet
+      action:
+      - is praised as father of the orphan
+      - found the orphan and sheltered him; the orphan is not to be oppressed
+      quoted:
+      - ntk jt n nmḥ hj n ḫꜣr,t
+      - a-lam yajidka yatīman fa-āwā ... fa-ammā l-yatīma fa-lā taqhar
+    note: 'Who is father and shelter of the orphan. The peasant to Rensi: ntk jt n nmḥ hj n ḫꜣr,t sn n wḏꜥ,t ''you are father to the orphan, husband to the widow, brother to the divorced'' (W1 partly restored, W2 intact). 93:6 a-lam yajidka yatīman fa-āwā, 93:9 fa-ammā l-yatīma fa-lā taqhar. A human official praised to win his help, against God who sheltered the orphan Prophet and a command not to oppress orphans.'
+- unit: ane-eloquentpeasant-w2-king-orders
+  checked:
+  - quran-76-the-human
+  - quran-4-kalala-ruling
+  - quran-3-abraham-people-of-book
+  - quran-19-zechariah-and-john
+  - quran-2-charity
+  matches:
+  - with: quran-2-charity
+    motif: provision-given-in-secret
+    refs:
+    - EloquentPeasant W2:116/alt_85
+    - EloquentPeasant W2:116/alt_85/2
+    with_refs:
+    - 2:271
+    relation: divergence
+    record:
+      agent:
+      - the high steward, on the king's order
+      - the giver of alms
+      action:
+      - feeds the peasant through his friends
+      - gives alms hidden to the poor
+      recipient:
+      - the peasant and his family
+      - the poor (fuqarāʾ)
+      quoted:
+      - nn rḫ =f n,tt ntk ḏḏ n =f st
+      - wa-in tukhfūhā wa-tuʾtūhā l-fuqarāʾa fa-huwa khayrun lakum
+    note: 'Provision given so that the giver is hidden. The king: feed this peasant, nn rḫ =f n,tt ntk ḏḏ n =f st ''without his knowing that it is you who give it to him'', so it goes through his ''friends''. 2:271 in tubdū ṣ-ṣadaqāti fa-niʿimmā hiya wa-in tukhfūhā wa-tuʾtūhā l-fuqarāʾa fa-huwa khayrun lakum. The motive changes: to keep the eloquent man petitioning, against the merit of secret alms.'
+- unit: ane-eloquentpeasant-w2-second-petition
+  checked:
+  - quran-4-women-orphans-justice
+  - quran-5-ablution-covenant-justice
+  - quran-7-names-and-hour
+  - quran-2-three-groups
+  - quran-21-cosmic-signs-and-scales
+  matches:
+  - with: quran-7-names-and-hour
+    motif: eyes-that-do-not-see-ears-that-do-not-hear
+    refs:
+    - EloquentPeasant W2:144/alt_113
+    with_refs:
+    - 7:179
+    relation: echo
+    record:
+      agent:
+      - the officials, who should see and hear
+      - many jinn and men made for hell
+      quoted:
+      - mꜣ.w šp.w sḏm.w sḫ.w sšm.w ḫpr m stnm.w
+      - lahum aʿyunun lā yubṣirūna bihā wa-lahum ādhānun lā yasmaʿūna bihā
+    note: 'The seeing who are blind and the hearing who are deaf: mꜣ.w šp.w sḏm.w sḫ.w sšm.w ḫpr m stnm.w ''the one who sees is blind, the one who hears deaf, the guide has become one who leads astray''; 7:179 lahum qulūbun lā yafqahūna bihā wa-lahum aʿyunun lā yubṣirūna bihā wa-lahum ādhānun lā yasmaʿūna bihā. Corrupt officials against those made for hell.'
+  - with: quran-21-cosmic-signs-and-scales
+    motif: rhetorical-question-of-a-mortals-eternity
+    refs:
+    - EloquentPeasant W2:126/alt_95
+    - EloquentPeasant W2:126/alt_95/2
+    with_refs:
+    - '21:34'
+    relation: echo
+    record:
+      recipient:
+      - the high steward
+      - the Prophet's opponents
+      quoted:
+      - jn m(w)t m(w)t ḥnꜥ ẖr.pl =f jn jw =k r z n nḥḥ
+      - wa-mā jaʿalnā li-basharin min qablika l-khuld a-fa-in mitta fa-humu l-khālidūn
+    note: 'A mortal is asked whether he will last for ever. The peasant: jn m(w)t m(w)t ḥnꜥ ẖr.pl =f, jn jw =k r z n nḥḥ ''a mortal dies with his underlings; will you be a man of eternity?''; 21:34 wa-mā jaʿalnā li-basharin min qablika l-khuld, a-fa-in mitta fa-humu l-khālidūn.'
+- unit: ane-eloquentpeasant-w2-third-petition
+  checked:
+  - quran-2-fasting
+  - quran-55-rahman-creation-and-the-two-seas
+  - quran-57-hadid-iron-and-monasticism
+  - quran-31-signs-and-unseen
+  matches:
+  - with: quran-55-rahman-creation-and-the-two-seas
+    motif: cosmic-balance-binds-the-judge
+    refs:
+    - EloquentPeasant W2:179/alt_148
+    - EloquentPeasant W2:180/alt_149
+    - EloquentPeasant W2:181/alt_150
+    with_refs:
+    - '55:7'
+    - '55:8'
+    relation: divergence
+    record:
+      instrument:
+      - the hand-balance and Thoth
+      - the balance (mīzān) God set
+      action:
+      - does not tilt, so the judge may do no wrong
+      - was set, so that you do not overstep in the balance
+      quoted:
+      - jn jw jws,w nnm =f ... jn jw r =f Ḏḥwtj sfn =f ... jḫ jri̯ =k jy,t
+      - wa-waḍaʿa l-mīzān allā taṭghaw fī l-mīzān
+    note: 'The same argument: because the divine balance is true, the human one must be. The peasant: jn jw jws,w nnm =f ''does the balance swerve?'', jn jw r =f Ḏḥwtj sfn =f ''is Thoth lenient?'' only then might you do wrong. 55:7-8 wa-s-samāʾa rafaʿahā wa-waḍaʿa l-mīzān, allā taṭghaw fī l-mīzān. The balance belongs to Thoth in Egypt and is set by God with the raised sky in Q.'
+  - with: quran-2-fasting
+    motif: bribing-the-judge
+    refs:
+    - EloquentPeasant W2:202/alt_171
+    - EloquentPeasant W2:202/alt_171/2
+    with_refs:
+    - 2:188
+    relation: divergence
+    record:
+      agent:
+      - the corrupt judge
+      - those who bribe
+      action:
+      - favours whoever brings him a gift
+      - offer wealth to the judges
+      recipient:
+      - the judge
+      - the judges (ḥukkām)
+      quoted:
+      - sn =f pw jyi̯.y jni̯ n =f ... mẖn,tj ḏꜣi̯ nb hm,t
+      - wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli n-nās
+    note: 'Gifts brought to the judge to win property: sn =f pw jyi̯.y jni̯ n =f ''his brother is he who comes bringing (a gift)'', a ferryman who carries only the one with the fare; 2:188 wa-lā taʾkulū amwālakum baynakum bi-l-bāṭili wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithm. Blame of the bribed judge against a ban on those who bribe.'
+  - with: quran-31-signs-and-unseen
+    motif: tomorrow-unknown
+    refs:
+    - EloquentPeasant W2:214/alt_183
+    - EloquentPeasant W2:214/alt_183/2
+    with_refs:
+    - '31:34'
+    relation: parallel
+    record:
+      time:
+      - tomorrow (dwꜣ)
+      - tomorrow (ghadan)
+      quoted:
+      - m grg dwꜣ n jyi̯.t =f n rḫ.n.tw jy,t jm =f
+      - wa-mā tadrī nafsun mādhā taksibu ghadā
+    note: 'No one knows what tomorrow holds: m grg dwꜣ n jyi̯.t =f, n rḫ.n.tw jy,t jm =f ''do not prepare for tomorrow before it has come; one does not know the trouble in it''; 31:34 wa-mā tadrī nafsun mādhā taksibu ghadā, among the five things only God knows.'
+- unit: ane-eloquentpeasant-w2-fourth-petition
+  checked:
+  - quran-7-opening-scales
+  - quran-37-hell-and-garden
+  - quran-42-shura-signs-and-ethics
+  matches: []
+- unit: ane-eloquentpeasant-w2-fifth-petition
+  checked:
+  - quran-4-creation-kinship-orphans
+  - quran-5-war-on-god-theft
+  - quran-7-opening-scales
+  - quran-24-ifk-slander
+  matches: []
+- unit: ane-eloquentpeasant-w2-sixth-petition
+  checked:
+  - quran-6-commandments
+  - quran-83-defrauders
+  - quran-17-commandments
+  - quran-26-shuayb-ayka
+  - quran-55-rahman-creation-and-the-two-seas
+  matches:
+  - with: quran-55-rahman-creation-and-the-two-seas
+    motif: measure-neither-exceeded-nor-diminished
+    refs:
+    - EloquentPeasant W2:282/alt_251
+    with_refs:
+    - '55:8'
+    - '55:9'
+    relation: parallel
+    record:
+      action:
+      - fill the measure exactly
+      - keep the balance exactly
+      quoted:
+      - mḥ nfr n hqs n wbn mꜣꜥ,t
+      - allā taṭghaw fī l-mīzān ... wa-lā tukhsirū l-mīzān
+    note: 'The measure kept true on both sides: mḥ nfr n hqs n wbn mꜣꜥ,t ''fill (the measure) right, Maat neither shorted nor overflowing'', after jw sjꜣt sšrr =f mꜣꜥ,t ''cheating diminishes Maat''; 55:8-9 allā taṭghaw fī l-mīzān wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān, overstepping and shortening both forbidden.'
+- unit: ane-eloquentpeasant-w2-seventh-petition
+  checked:
+  - quran-5-jesus-miracles-table
+  - quran-31-signs-and-unseen
+  - quran-10-closing
+  - quran-74-cloaked
+  - quran-57-hadid-iron-and-monasticism
+  matches:
+  - with: quran-57-hadid-iron-and-monasticism
+    motif: grief-and-exultation-over-fortune
+    refs:
+    - EloquentPeasant W2:302/alt_271
+    - EloquentPeasant W2:303/alt_272
+    with_refs:
+    - '57:23'
+    relation: divergence
+    record:
+      action:
+      - do not brood, do not rejoice
+      - do not grieve, do not exult
+      object:
+      - what has not yet come or happened
+      - what escaped you and what He gave you
+      quoted:
+      - m wꜣ n n,tt n jyi̯.t m ḥꜥ.w n n,tt n ḫpr.t
+      - li-kay-lā taʾsaw ʿalā mā fātakum wa-lā tafraḥū bi-mā ātākum
+    note: 'A paired ban on grief and on joy over fortune: m wꜣ n n,tt n jyi̯.t, m ḥꜥ.w n n,tt n ḫpr.t ''do not brood over what has not come, do not rejoice over what has not happened''; 57:23 li-kay-lā taʾsaw ʿalā mā fātakum wa-lā tafraḥū bi-mā ātākum. The future in Egypt, what has already passed or been given in Q, where it follows from every calamity being written beforehand (57:22).'
+- unit: ane-eloquentpeasant-w2-eighth-petition
+  checked:
+  - quran-18-two-gardens
+  - quran-36-ya-sin-opening
+  - quran-102-104-rivalry-time-slanderer
+  - quran-68-qalam-the-pen-and-the-slanderer
+  matches:
+  - with: quran-18-two-gardens
+    motif: good-deeds-endure-beyond-death
+    refs:
+    - EloquentPeasant W2:338/alt_307
+    - EloquentPeasant W2:338/alt_307/2
+    with_refs:
+    - '18:46'
+    relation: divergence
+    record:
+      object:
+      - Maat (right action)
+      - the enduring good deeds (al-bāqiyāt aṣ-ṣāliḥāt)
+      quoted:
+      - jw swt mꜣꜥ,t r nḥḥ hꜣꜣ =s m-ꜥ jrr s(j) r ẖr,t-nṯr
+      - wa-l-bāqiyātu ṣ-ṣāliḥātu khayrun ʿinda rabbika thawāban
+      outcome:
+      - his name is not effaced on earth
+      - better as reward and as hope with your Lord
+    note: 'What a man does rightly is what lasts past death: jw swt mꜣꜥ,t r nḥḥ, hꜣꜣ =s m-ꜥ jrr s(j) r ẖr,t-nṯr ''Maat is for eternity; it goes down with him who does it into the necropolis''. 18:46 al-mālu wa-l-banūna zīnatu l-ḥayāti d-dunyā wa-l-bāqiyātu ṣ-ṣāliḥātu khayrun ʿinda rabbika thawāban. The reward changes: a name remembered on earth against reward with God; Q sets the deeds against wealth and sons.'
+- unit: ane-eloquentpeasant-w3-fifth-to-eighth-petitions
+  checked:
+  - quran-83-defrauders
+  - quran-55-rahman-creation-and-the-two-seas
+  - quran-7-shuayb-midian
+  - quran-6-commandments
+  matches:
+  - with: quran-55-rahman-creation-and-the-two-seas
+    motif: measure-neither-exceeded-nor-diminished
+    refs:
+    - EloquentPeasant W3:4
+    with_refs:
+    - '55:8'
+    - '55:9'
+    relation: parallel
+    record:
+      action:
+      - fill the measure exactly
+      - keep the balance exactly
+      quoted:
+      - mḥ nfr n hqs n wbn mꜣꜥ,t
+      - allā taṭghaw fī l-mīzān ... wa-lā tukhsirū l-mīzān
+    note: 'The measure kept true on both sides: mḥ nfr n hqs n wbn mꜣꜥ,t ''fill (the measure) right, Maat neither shorted nor overflowing'', after jw sjꜣt sšrr =f mꜣꜥ,t ''cheating diminishes Maat''; 55:8-9 allā taṭghaw fī l-mīzān wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān, overstepping and shortening both forbidden.'
+- unit: ane-eloquentpeasant-w3-ninth-petition-verdict
+  checked:
+  - quran-93-94-forenoon-and-expansion
+  - quran-4-homicide-law
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-7-opening-scales
+  matches:
+  - with: quran-93-94-forenoon-and-expansion
+    motif: the-one-who-asks-not-repelled
+    refs:
+    - EloquentPeasant W3:106
+    with_refs:
+    - '93:10'
+    relation: parallel
+    record:
+      recipient:
+      - the one who appeals to you
+      - the one who asks (as-sāʾil)
+      action:
+      - do not turn away
+      - do not drive away
+      quoted:
+      - m nj twꜣ tw
+      - wa-ammā s-sāʾila fa-lā tanhar
+    note: 'The ban on driving away a petitioner: m nj twꜣ tw ''do not repel the one who appeals to you'', the peasant''s last plea; 93:10 wa-ammā s-sāʾila fa-lā tanhar, beside the orphan (93:9).'
+- unit: ane-harperssongs-w1-antef-song
+  checked:
+  - quran-23-death-barzakh-judgment
+  - quran-36-people-of-the-town
+  - quran-26-hud-ad
+  - quran-89-dawn
+  matches:
+  - with: quran-36-people-of-the-town
+    motif: the-dead-cannot-return
+    refs:
+    - HarpersSongs W1:6_8
+    - HarpersSongs W1:7_2/4
+    with_refs:
+    - '36:31'
+    relation: parallel
+    record:
+      agent:
+      - those who have gone
+      - the generations destroyed before them
+      action:
+      - no one comes back
+      - they do not return to them
+      quoted:
+      - nn-wn šmi̯ jwi̯ ꜥnw
+      - annahum ilayhim lā yarjiʿūn
+    note: 'The departed do not come back: bw jy =tw jm sḏd =f qd =sn ''none comes from there to tell of their state'', nn-wn šmi̯ jwi̯ ꜥnw ''there is none who went and came back''; 36:31 a-lam yaraw kam ahlaknā qablahum mina l-qurūni annahum ilayhim lā yarjiʿūn. In the song it urges enjoyment; in Q it is a warning from the destroyed.'
+  - with: quran-26-hud-ad
+    motif: builders-seek-permanence-through-buildings
+    refs:
+    - HarpersSongs W1:6_5
+    - HarpersSongs W1:6_7/2
+    with_refs:
+    - 26:128
+    - 26:129
+    relation: divergence
+    record:
+      agent:
+      - those who built (tomb-)houses
+      - the people of 'Ad
+      action:
+      - built houses whose places are gone
+      - build monuments and fortresses as if to live for ever
+      quoted:
+      - qd ḥw,wt.pl nn-wn s,t.pl =sn ... mj n,tj n ḫpr =sn
+      - wa-tattakhidhūna maṣāniʿa laʿallakum takhludūn
+    note: 'Builders who hope their buildings will make them last: qd ḥw,wt.pl nn-wn s,t.pl =sn ''those who built houses, their places are no more'', mj n,tj n ḫpr =sn ''as though they had never been''; 26:128-129 a-tabnūna bi-kulli rīʿin āyatan taʿbathūn wa-tattakhidhūna maṣāniʿa laʿallakum takhludūn. The song draws the lesson ''enjoy the day''; Hud rebukes the hope.'
+- unit: ane-harperssongs-w2-paatenemheb
+  checked:
+  - quran-23-death-barzakh-judgment
+  - quran-36-trumpet-and-judgment
+  - quran-18-companions-of-the-cave
+  matches:
+  - with: quran-23-death-barzakh-judgment
+    motif: the-dead-cannot-return
+    refs:
+    - HarpersSongs W2:5/2
+    with_refs:
+    - 23:99
+    - 23:100
+    relation: parallel
+    record:
+      agent:
+      - the dead
+      - the dying man
+      action:
+      - none will come back from there
+      - asks to be sent back and is refused
+      quoted:
+      - bn jy =tw jm sḏd =f
+      - rabbi rjiʿūni ... kallā ... wa-min warāʾihim barzakhun
+    note: 'No return from the dead: bn [jy] =[tw] [jm] ''none will come from there'' to tell and comfort us (future negation in this copy); 23:99-100 rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan ... kallā ... wa-min warāʾihim barzakhun ilā yawmi yubʿathūn. Q adds the plea to return and the barrier.'
+- unit: ane-harperssongs-w3-neferhotep-1
+  checked:
+  - quran-2-charity
+  - quran-76-the-human
+  - quran-7-children-of-adam
+  - quran-16-daughters-and-the-bee
+  matches:
+  - with: quran-76-the-human
+    motif: feeding-the-needy-and-its-motive
+    refs:
+    - HarpersSongs W3:13
+    with_refs:
+    - '76:8'
+    - '76:9'
+    relation: divergence
+    record:
+      action:
+      - give bread to him who has no field
+      - feed the poor, the orphan and the captive
+      quoted:
+      - jmm tʾ.pl n jw,tj šꜣ =f ḫpr n =k rn nfr n m-ḫt nḥḥ
+      - innamā nuṭʿimukum li-wajhi llāhi lā nurīdu minkum jazāʾan wa-lā shukūrā
+      outcome:
+      - a good name for ever
+      - no reward or thanks wanted, only God's face
+    note: 'Feeding the destitute, with the motive stated: jmm tʾ.pl n jw,tj šꜣ =f ḫpr n =k rn nfr n m-ḫt nḥḥ ''give bread to him who has no field, that you gain a good name for ever''; 76:8-9 wa-yuṭʿimūna ṭ-ṭaʿāma ʿalā ḥubbihi miskīnan wa-yatīman wa-asīrā, innamā nuṭʿimukum li-wajhi llāhi lā nurīdu minkum jazāʾan wa-lā shukūrā. The motive is reversed: lasting fame against refusal of any return.'
+- unit: ane-harperssongs-w4-paser
+  checked:
+  - quran-7-children-of-adam
+  - quran-35-originator
+  - quran-63-munafiqun-propped-timbers
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches:
+  - with: quran-7-children-of-adam
+    motif: appointed-term-to-the-hour
+    refs:
+    - HarpersSongs W4:11/2
+    - HarpersSongs W4:11/3
+    with_refs:
+    - '7:34'
+    relation: parallel
+    record:
+      agent:
+      - Shai (fate)
+      - God (implied)
+      object:
+      - a man's days and hours
+      - each nation's term (ajal)
+      quoted:
+      - dmḏ.yt r wnw,t =s n rḏi̯ ḥr =s
+      - fa-idhā jāʾa ajaluhum lā yastaʾkhirūna sāʿatan wa-lā yastaqdimūn
+    note: 'A life''s span counted to the hour, with nothing added: bw wꜣḥ.n šꜣ,y ḥsb sw.w =f ''Shai does not cease counting his days'', dmḏ.yt r wnw,t =s n rḏi̯ ḥr =s ''to the sum of its hours nothing is added''; 7:34 wa-li-kulli ummatin ajalun fa-idhā jāʾa ajaluhum lā yastaʾkhirūna sāʿatan wa-lā yastaqdimūn. A man''s days under the fate-god against a nation''s term.'
+- unit: ane-harperssongs-w5-inherkhau
+  checked:
+  - quran-7-children-of-adam
+  - quran-10-messenger-per-nation
+  - quran-26-hud-ad
+  - quran-23-death-barzakh-judgment
+  matches:
+  - with: quran-26-hud-ad
+    motif: builders-seek-permanence-through-buildings
+    refs:
+    - HarpersSongs W5:5
+    with_refs:
+    - 26:129
+    relation: divergence
+    record:
+      action:
+      - build yourself a house in the necropolis
+      - you take fortresses (maṣāniʿ)
+      quoted:
+      - jri̯ n =k ḥw,t m tꜣ-ḏsr,t mn rn =k jm =s
+      - wa-tattakhidhūna maṣāniʿa laʿallakum takhludūn
+      outcome:
+      - so that your name endures in it
+      - as if you would live for ever; rebuked
+    note: 'Building for permanence: jri̯ n =k ḥw,t m tꜣ-ḏsr,t mn rn =k jm =s ''build yourself a house in the necropolis so that your name endures in it''; 26:129 wa-tattakhidhūna maṣāniʿa laʿallakum takhludūn. Advice in the song, rebuke by Hud.'
+  - with: quran-10-messenger-per-nation
+    motif: appointed-term-to-the-hour
+    refs:
+    - HarpersSongs W5:7
+    with_refs:
+    - '10:49'
+    relation: parallel
+    record:
+      object:
+      - each man
+      - each nation
+      time:
+      - at his hour (r wnw,t =f)
+      - not an hour (sāʿa) late or early
+      quoted:
+      - z nb r wnw,t =f
+      - li-kulli ummatin ajalun idhā jāʾa ajaluhum fa-lā yastaʾkhirūna sāʿatan wa-lā yastaqdimūn
+    note: 'Each goes at his hour: nnw ḫdi̯ mḥ,yw ḫnty z nb r wnw,t =f ''the Nile flows north, the north wind blows south: every man (goes) at his hour''; 10:49 li-kulli ummatin ajalun idhā jāʾa ajaluhum fa-lā yastaʾkhirūna sāʿatan wa-lā yastaqdimūn.'
+- unit: ane-harperssongs-w6-amunpahapi
+  checked:
+  - quran-26-hud-ad
+  - quran-2-sleeper-hundred-years
+  - quran-11-salih
+  matches: []
+- unit: ane-harperssongs-w7-amenemheb
+  checked:
+  - quran-6-prophets-lineage-torah-sheets
+  - quran-35-heirs-of-book
+  - quran-18-two-gardens
+  - quran-70-ascending-stairways
+  matches:
+  - with: quran-6-prophets-lineage-torah-sheets
+    motif: wealth-cannot-be-taken-along
+    refs:
+    - HarpersSongs W7:6/3
+    with_refs:
+    - 6:94
+    relation: parallel
+    record:
+      object:
+      - their goods
+      - what We bestowed on you
+      action:
+      - have fallen to others
+      - you have left behind your backs
+      quoted:
+      - (j)ḫ,t =w ḫꜣꜥ.w n nꜣ ktḫ
+      - wa-taraktum mā khawwalnākum warāʾa ẓuhūrikum
+    note: 'Possessions stay behind at death: (j)ḫ,t =w ḫꜣꜥ.w n nꜣ ktḫ ''their goods have fallen to others''; 6:94 wa-laqad jiʾtumūnā furādā kamā khalaqnākum awwala marratin wa-taraktum mā khawwalnākum warāʾa ẓuhūrikum.'
+- unit: ane-harperssongs-w8-thothemheb
+  checked:
+  - quran-19-resurrection-and-the-son
+  - quran-35-heirs-of-book
+  - quran-18-two-gardens
+  - quran-29-emigrate-and-trust
+  matches:
+  - with: quran-19-resurrection-and-the-son
+    motif: vanished-generations-leave-no-trace
+    refs:
+    - HarpersSongs W8:6
+    - HarpersSongs W8:6/2
+    with_refs:
+    - 19:98
+    relation: echo
+    record:
+      object:
+      - those gone since the god's time
+      - the generations destroyed before them
+      action:
+      - one asks after their names; not a brick of their houses remains
+      - can you perceive one of them or hear a whisper of them?
+      quoted:
+      - wḫꜣ =tw rn.pl =sn m nḏnḏ nn db,t n pr.pl =sn
+      - hal tuḥissu minhum min aḥadin aw tasmaʿu lahum rikzā
+    note: 'Searching for a trace of the vanished generations and finding none: wḫꜣ =tw rn.pl =sn m nḏnḏ ''one seeks their names by asking'', nn db,t n pr.pl =sn ''there is not a brick of their houses''; 19:98 wa-kam ahlaknā qablahum min qarnin hal tuḥissu minhum min aḥadin aw tasmaʿu lahum rikzā.'
+  - with: quran-19-resurrection-and-the-son
+    motif: wealth-cannot-be-taken-along
+    refs:
+    - HarpersSongs W8:8
+    with_refs:
+    - 19:80
+    relation: parallel
+    record:
+      object:
+      - their goods
+      - what he speaks of (his wealth and children)
+      action:
+      - have fallen to others
+      - We inherit it; he comes to Us alone
+      quoted:
+      - (j)ḫ,t =w ḫꜣꜥ n ktḫ
+      - wa-narithuhu mā yaqūlu wa-yaʾtīnā fardā
+    note: 'The dead man''s goods pass from him: (j)ḫ,t =w ḫꜣꜥ n ktḫ ''their goods have fallen to others''; 19:80 wa-narithuhu mā yaqūlu wa-yaʾtīnā fardā, said of the man who boasted ''I will be given wealth and children'' (19:77). Others inherit in the song, God inherits in Q.'
+- unit: ane-harperssongs-w9-tjanefer-1
+  checked:
+  - quran-29-emigrate-and-trust
+  - quran-23-death-barzakh-judgment
+  - quran-22-signs-and-rites
+  matches: []
+- unit: ane-harperssongs-w10-tjay
+  checked:
+  - quran-4-fighting-and-death
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-35-heirs-of-book
+  - quran-29-emigrate-and-trust
+  matches: []
+- unit: ane-harperssongs-w11-neferhotep-2
+  checked:
+  - quran-87-most-high
+  - quran-29-emigrate-and-trust
+  - quran-93-94-forenoon-and-expansion
+  - quran-23-death-barzakh-judgment
+  matches:
+  - with: quran-87-most-high
+    motif: earthly-life-preferred-over-the-hereafter
+    refs:
+    - HarpersSongs W11:3
+    - HarpersSongs W11:4
+    with_refs:
+    - '87:16'
+    - '87:17'
+    relation: parallel
+    record:
+      agent:
+      - the old tomb songs
+      - you (the audience)
+      action:
+      - exalt life on earth and belittle the beyond
+      - prefer the life of this world
+      quoted:
+      - sꜥꜣi̯ tp-tꜣ m sꜥnd ẖr,t-nṯr
+      - bal tuʾthirūna l-ḥayāta d-dunyā wa-l-ākhiratu khayrun wa-abqā
+      outcome:
+      - the land of eternity is just and without terror
+      - the hereafter is better and more lasting
+    note: 'A correction of those who rank earthly life above the hereafter. The song: jw sḏm.n =j nn-n ḥs.pl ... sḏd.t =sn m sꜥꜣi̯ tp-tꜣ m sꜥnd ẖr,t-nṯr ''I have heard these songs ... their exalting of life on earth and belittling of the necropolis; why do so against the land of eternity?''; 87:16-17 bal tuʾthirūna l-ḥayāta d-dunyā wa-l-ākhiratu khayrun wa-abqā. The Egyptian text even answers the older Harper''s songs (Antef) inside the same genre.'
+  - with: quran-29-emigrate-and-trust
+    motif: earthly-life-slight-against-the-hereafter
+    refs:
+    - HarpersSongs W11:6/3
+    with_refs:
+    - 29:64
+    relation: divergence
+    record:
+      object:
+      - the time spent on earth
+      - this worldly life
+      name:
+      - a dream (rs,wt)
+      - diversion and play (lahw wa-laʿib)
+      quoted:
+      - jr ꜥḥꜥ jrr.t.pl tp tꜣ sp pw n rs,wt
+      - wa-mā hādhihi l-ḥayātu d-dunyā illā lahwun wa-laʿib wa-inna d-dāra l-ākhirata la-hiya l-ḥayawān
+    note: 'Earthly life slight beside the true life beyond: jr ꜥḥꜥ jrr.t.pl tp tꜣ sp pw n rs,wt ''the time of what is done on earth is a thing of dreams''; 29:64 wa-mā hādhihi l-ḥayātu d-dunyā illā lahwun wa-laʿib wa-inna d-dāra l-ākhirata la-hiya l-ḥayawān. A dream against play; the land of eternity against the abode that is life itself.'
+- unit: ane-harperssongs-w12-amenmose
+  checked:
+  - quran-40-call-on-me
+  - quran-2-fasting
+  - quran-23-death-barzakh-judgment
+  - quran-75-resurrection
+  - quran-18-companions-of-the-cave
+  matches:
+  - with: quran-18-companions-of-the-cave
+    motif: sun-and-the-cave-of-the-sleeping
+    refs:
+    - HarpersSongs W12:5
+    - HarpersSongs W12:6
+    with_refs:
+    - '18:17'
+    relation: divergence
+    record:
+      agent:
+      - the sun disk (jtn)
+      - the sun
+      place:
+      - the dead man's tomb-cavern (qrr,t)
+      - the sleepers' cave (kahf)
+      action:
+      - shines on his breast and lights up his cavern
+      - turns aside from their cave at rising and passes them at setting
+      quoted:
+      - psd jtn ḥr šnb,t =k ḥꜣy =f qrr,t =k
+      - tazāwaru ʿan kahfihim dhāta l-yamīni wa-idhā gharabat taqriḍuhum dhāta sh-shimāl
+    note: 'The sun at the cave where the dead or sleepers lie. Blessing: psd jtn ḥr šnb,t =k, ḥꜣy =f qrr,t =k ''may the sun disk shine on your breast and light up your cavern''; 18:17 wa-tarā sh-shamsa idhā ṭalaʿat tazāwaru ʿan kahfihim dhāta l-yamīni wa-idhā gharabat taqriḍuhum dhāta sh-shimāli wa-hum fī fajwatin minhu. The sun''s act is reversed: it enters the tomb as a blessing, it keeps away from the cave as God''s sign.'
+  - with: quran-75-resurrection
+    motif: limbs-of-the-dead-made-whole
+    refs:
+    - HarpersSongs W12:13
+    with_refs:
+    - '75:3'
+    - '75:4'
+    relation: divergence
+    record:
+      object:
+      - all the dead man's limbs
+      - his bones and fingertips
+      quoted:
+      - ꜥ,t.pl =k nb tm
+      - a-yaḥsabu l-insānu allan najmaʿa ʿiẓāmahu balā qādirīna ʿalā an nusawwiya banānahu
+      outcome:
+      - he is justified before Re
+      - 'the doubter is answered: God can restore even the fingertips'
+    note: 'The dead body made whole: ꜥ,t.pl =k nb tm ''all your limbs are complete'' (with ''arise, your body lives''); 75:3-4 a-yaḥsabu l-insānu allan najmaʿa ʿiẓāmahu, balā qādirīna ʿalā an nusawwiya banānahu. A blessing on one dead man in his tomb, against a reply to doubt of resurrection.'
+- unit: ane-harperssongs-w13-neferrenpet
+  checked:
+  - quran-3-closing
+  - quran-75-resurrection
+  - quran-74-cloaked
+  - quran-18-companions-of-the-cave
+  matches:
+  - with: quran-18-companions-of-the-cave
+    motif: turned-on-right-and-left-side
+    refs:
+    - HarpersSongs W13:5–6
+    - HarpersSongs W13:6
+    with_refs:
+    - '18:18'
+    relation: divergence
+    record:
+      agent:
+      - the dead man himself
+      - God
+      action:
+      - turns himself on his right side and his left
+      - turns them to the right side and the left
+      place:
+      - his tomb
+      - the cave
+      quoted:
+      - pnꜥ =k tw ḥr wnm,j =k ḏi̯ =k tw ḥr jꜣb,j =k
+      - wa-nuqallibuhum dhāta l-yamīni wa-dhāta sh-shimāl
+    note: 'One lying in the tomb or cave turned on right and left: pnꜥ =k tw ḥr wnm,j =k, ḏi̯ =k tw ḥr jꜣb,j =k ''may you turn on your right side, may you put yourself on your left side'' and be at ease in your place; 18:18 wa-taḥsabuhum ayqāẓan wa-hum ruqūdun wa-nuqallibuhum dhāta l-yamīni wa-dhāta sh-shimāl. The dead turns himself, as a wish, against God turning the sleepers.'
+- unit: ane-harperssongs-w14-raya
+  checked:
+  - quran-36-trumpet-and-judgment
+  - quran-23-death-barzakh-judgment
+  - quran-74-cloaked
+  matches: []
+- unit: ane-harperssongs-w15-tjanefer-2
+  checked:
+  - quran-2-call-to-worship
+  - quran-52-tur-garden-and-challenge
+  - quran-23-death-barzakh-judgment
+  - quran-44-dukhan-zaqqum-and-garden
+  matches:
+  - with: quran-2-call-to-worship
+    motif: food-of-the-hereafter-like-that-of-earth
+    refs:
+    - HarpersSongs W15:10
+    with_refs:
+    - '2:25'
+    relation: echo
+    record:
+      agent:
+      - the dead man
+      - the people of the Garden
+      action:
+      - eats the like of what he ate on earth
+      - are given fruit like what they were given before
+      quoted:
+      - wnm =k mj,tt tp tꜣ
+      - hādhā lladhī ruziqnā min qablu wa-utū bihi mutashābihā
+    note: 'Food beyond death resembling earthly food: šzp ḥtp,t.pl ... wnm =k mj,tt tp tꜣ ''receive offerings, that you eat the like as on earth''; 2:25 kullamā ruziqū minhā min thamaratin rizqan qālū hādhā lladhī ruziqnā min qablu wa-utū bihi mutashābihā. Tomb offerings against the fruit of the Garden.'
+- unit: ane-harperssongs-w16-panniut
+  checked:
+  - quran-23-death-barzakh-judgment
+  - quran-39-mercy-and-last-day
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches: []
+- unit: ane-harperssongs-w17-neferhotep-3
+  checked:
+  - quran-19-abraham-and-his-father
+  - quran-37-noah
+  - quran-39-mercy-and-last-day
+  - quran-16-deniers-and-angels-of-death
+  matches:
+  - with: quran-16-deniers-and-angels-of-death
+    motif: dead-greeted-with-peace-on-arrival
+    refs:
+    - HarpersSongs W17:3/3
+    - HarpersSongs W17:5
+    with_refs:
+    - '16:32'
+    relation: divergence
+    record:
+      agent:
+      - the gods, lords of eternity
+      - the angels who take the souls
+      recipient:
+      - the dead man's ba
+      - those taken while good (ṭayyibīn)
+      quoted:
+      - st grg r šzp bꜣ =k ... jy.wj m-ḥtp
+      - salāmun ʿalaykumu dkhulū l-jannata bi-mā kuntum taʿmalūn
+    note: 'At death those who receive the dead greet him with peace: the gods are ready to receive your ba and say jy.wj m-ḥtp ''welcome in peace''; 16:32 alladhīna tatawaffāhumu l-malāʾikatu ṭayyibīna yaqūlūna salāmun ʿalaykumu dkhulū l-janna. Gods of the necropolis against angels of death; Q adds ''for what you used to do''.'
+  - with: quran-19-abraham-and-his-father
+    motif: good-name-endures-among-later-people
+    refs:
+    - HarpersSongs W17:14
+    with_refs:
+    - '19:50'
+    relation: echo
+    record:
+      object:
+      - your name
+      - a tongue of truth (lisān ṣidq)
+      quoted:
+      - nn smḫ.tw rn =k mj ntk mꜣꜥ
+      - wa-jaʿalnā lahum lisāna ṣidqin ʿaliyyā
+    note: 'A good repute that lasts: nn smḫ.tw rn =k mj ntk mꜣꜥ ''your name will not be forgotten, for you are true''; 19:50 wa-wahabnā lahum min raḥmatinā wa-jaʿalnā lahum lisāna ṣidqin ʿaliyyā, said of Abraham, Isaac and Jacob. Earned by the dead man''s truth, against given by God.'
+- unit: ane-harperssongs-w18-piay
+  checked:
+  - quran-23-death-barzakh-judgment
+  - quran-36-trumpet-and-judgment
+  - quran-39-mercy-and-last-day
+  matches:
+  - with: quran-36-trumpet-and-judgment
+    motif: waking-of-the-dead-in-the-grave
+    refs:
+    - HarpersSongs W18:2
+    with_refs:
+    - '36:52'
+    relation: divergence
+    record:
+      agent:
+      - the dead man
+      - the raised dead
+      place:
+      - his rock tomb (js)
+      - their sleeping place (marqad)
+      quoted:
+      - rs.ṯ m-ḥtp m js,j =k
+      - yā waylanā man baʿathanā min marqadinā
+      outcome:
+      - wakes in peace
+      - wakes in dismay
+    note: 'The dead wake where they lie: rs.ṯ m-ḥtp m js,j =k ''may you wake in peace in your tomb''; 36:52 qālū yā waylanā man baʿathanā min marqadinā hādhā mā waʿada r-raḥmān. Peace against woe; a daily waking in the tomb against the one raising at the trumpet.'
+- unit: ane-harperssongs-w19-amenemhet
+  checked:
+  - quran-75-resurrection
+  - quran-23-death-barzakh-judgment
+  - quran-45-jathiya-time-and-the-kneeling-nations
+  - quran-39-death-and-sleep
+  matches: []
+- unit: ane-harperssongs-w20-kyky
+  checked:
+  - quran-36-trumpet-and-judgment
+  - quran-2-war-pilgrimage
+  - quran-23-death-barzakh-judgment
+  matches: []
+- unit: ane-harperssongs-w21-sul
+  checked:
+  - quran-23-death-barzakh-judgment
+  - quran-39-mercy-and-last-day
+  - quran-36-trumpet-and-judgment
+  matches: []
+- unit: ane-harperssongs-w22-djehutimes
+  checked:
+  - quran-87-most-high
+  - quran-23-death-barzakh-judgment
+  - quran-45-jathiya-time-and-the-kneeling-nations
+  - quran-32-sajda
+  matches:
+  - with: quran-87-most-high
+    motif: earthly-life-preferred-over-the-hereafter
+    refs:
+    - HarpersSongs W22:11
+    - HarpersSongs W22:12
+    with_refs:
+    - '87:16'
+    - '87:17'
+    relation: parallel
+    record:
+      agent:
+      - the old tomb songs
+      - you (the audience)
+      action:
+      - exalt life on earth and belittle the beyond
+      - prefer the life of this world
+      quoted:
+      - sꜥꜣi̯ tp-tꜣ m sꜥnd ẖr,t-nṯr
+      - bal tuʾthirūna l-ḥayāta d-dunyā wa-l-ākhiratu khayrun wa-abqā
+      outcome:
+      - the land of eternity is just and without terror
+      - the hereafter is better and more lasting
+    note: 'A correction of those who rank earthly life above the hereafter. The song: jw sḏm.n =j nn-n ḥs.pl ... sḏd.t =sn m sꜥꜣi̯ tp-tꜣ m sꜥnd ẖr,t-nṯr ''I have heard these songs ... their exalting of life on earth and belittling of the necropolis; why do so against the land of eternity?''; 87:16-17 bal tuʾthirūna l-ḥayāta d-dunyā wa-l-ākhiratu khayrun wa-abqā. The Egyptian text even answers the older Harper''s songs (Antef) inside the same genre.'
+- unit: ane-harperssongs-w23-nefersekheru
+  checked:
+  - quran-21-cosmic-signs-and-scales
+  - quran-55-rahman-creation-and-the-two-seas
+  - quran-23-death-barzakh-judgment
+  - quran-36-trumpet-and-judgment
+  matches:
+  - with: quran-55-rahman-creation-and-the-two-seas
+    motif: who-remains-when-all-pass-away
+    refs:
+    - HarpersSongs W23:8
+    - HarpersSongs W23:8/2
+    with_refs:
+    - '55:26'
+    - '55:27'
+    relation: divergence
+    record:
+      agent:
+      - every man, and the gods who were before
+      - all who are on the earth
+      action:
+      - go; the gods rest in their houses, their names forgotten
+      - pass away
+      quoted:
+      - nṯr.pl ḫpr.pl r-ḥꜣ,t ḥtp m ḥw,t.pl-kꜣ =sn smḫ rn.pl =sn
+      - kullu man ʿalayhā fānin wa-yabqā wajhu rabbika
+      outcome:
+      - nothing remains but enjoyment of the day
+      - the face of your Lord remains
+    note: 'All pass away, and what remains. The song: every man will go, ''and the gods who came into being before rest in their ka-houses, smḫ rn.pl =sn their names forgotten''; 55:26-27 kullu man ʿalayhā fānin wa-yabqā wajhu rabbika dhū l-jalāli wa-l-ikrām. Even gods are forgotten in Egypt; in Q only God''s face remains.'
+  - with: quran-21-cosmic-signs-and-scales
+    motif: rhetorical-question-of-a-mortals-eternity
+    refs:
+    - HarpersSongs W23:13/2
+    with_refs:
+    - '21:34'
+    relation: echo
+    record:
+      quoted:
+      - nm ꜥꜣ n-(n)ḥḥ
+      - a-fa-in mitta fa-humu l-khālidūn
+    note: Who here lasts for ever? nm ꜥꜣ n-nḥḥ 'who is here for eternity?', after 'you belong to old age'; 21:34 wa-mā jaʿalnā li-basharin min qablika l-khuld a-fa-in mitta fa-humu l-khālidūn.
+- unit: ane-harperssongs-w24-raja
+  checked:
+  - quran-22-quake-and-resurrection-proofs
+  - quran-7-creation-signs
+  - quran-10-rain-parable-idols-disown
+  matches: []
+- unit: ane-harperssongs-w25-roy
+  checked:
+  - quran-2-war-pilgrimage
+  - quran-29-emigrate-and-trust
+  - quran-3-closing
+  matches: []
+- unit: ane-harperssongs-w26-unknown
+  checked:
+  - quran-23-death-barzakh-judgment
+  - quran-44-dukhan-zaqqum-and-garden
+  - quran-39-mercy-and-last-day
+  matches: []
+- unit: ane-heavenlycow-w1-council-and-eye-sent
+  checked:
+  - quran-11-noah
+  - quran-71-noah
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-22-signs-and-rites
+  matches: []
+- unit: ane-heavenlycow-w1-beer-saves-mankind
+  checked:
+  - quran-11-noah
+  - quran-16-daughters-and-the-bee
+  - quran-35-originator
+  - quran-91-sun
+  matches: []
+- unit: ane-heavenlycow-w1-re-withdraws-to-sky
+  checked:
+  - quran-2-adam-iblis
+  - quran-47-muhammad-battle-and-rivers
+  - quran-25-signs-shadow-seas
+  - quran-35-originator
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-13-signs-of-creation
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: creators-weariness
+    refs:
+    - HeavenlyCow W1:27/2
+    - HeavenlyCow W1:29
+    with_refs:
+    - '50:38'
+    relation: divergence
+    record:
+      agent:
+      - Re, the creator
+      - God
+      action:
+      - is weary of being among men; his body is exhausted
+      - created heavens and earth in six days
+      quoted:
+      - jb =j wrd.w wr r wnn ḥnꜥ =sn ... ḥꜥ,pl =j ꜣhd.w m sp dp,j
+      - wa-mā massanā min lughūb
+      outcome:
+      - he withdraws to the sky on the cow
+      - no weariness touched him
+    note: 'Whether the creator tires. Re: jb =j wrd.w wr r wnn ḥnꜥ =sn ''my heart is too weary to be with them'', ḥꜥ,pl =j ꜣhd.w m sp dp,j ''my body is exhausted for the first time'', and he leaves the earth; the gods beg ''do not withdraw in your weariness'' (m wrd,pl =k). 50:38 wa-laqad khalaqnā s-samāwāti wa-l-arḍa wa-mā baynahumā fī sittati ayyāmin wa-mā massanā min lughūb.'
+  - with: quran-13-signs-of-creation
+    motif: what-holds-up-the-sky
+    refs:
+    - HeavenlyCow W1:40/4
+    - HeavenlyCow W1:41/2
+    - HeavenlyCow W1:42
+    with_refs:
+    - '13:2'
+    relation: divergence
+    record:
+      agent:
+      - Re
+      - God
+      instrument:
+      - the Heh-gods and Shu set beneath Nut
+      - no pillars that you see
+      quoted:
+      - ḥwj ꜣ n =j ḥḥ.pl ḥr twꜣ =s ... zꜣ =j Šw jmm tw ẖr zꜣ,t =j Nw,t
+      - rafaʿa s-samāwāti bi-ghayri ʿamadin tarawnahā
+    note: 'What holds the sky up. Nut trembles at the height; Re: ḥwj ꜣ n =j ḥḥ.pl ḥr twꜣ =s ''would that I had millions (Heh-gods) to support her'', and ''my son Shu, place yourself beneath my granddaughter Nut''. 13:2 allāhu lladhī rafaʿa s-samāwāti bi-ghayri ʿamadin tarawnahā. Divine supporters set under the sky against a sky raised without visible pillars.'
+- unit: ane-heavenlycow-w1-cow-image-captions
+  checked:
+  - quran-2-throne-verse
+  - quran-20-moses-call
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-46-ahqaf-hud-and-the-jinn
+  matches:
+  - with: quran-2-throne-verse
+    motif: upholding-heaven-without-tiring
+    refs:
+    - HeavenlyCow W1:45/4
+    - HeavenlyCow W1:49/5
+    - HeavenlyCow W1:51/2
+    with_refs:
+    - 2:255
+    relation: divergence
+    record:
+      agent:
+      - Shu and the gods beneath the sky-cow
+      - God
+      action:
+      - bear the sky and are told they will not tire
+      - holds heavens and earth; guarding them does not tire him
+      quoted:
+      - Šw ẖr ẖ,t =st ... n wrd =k zꜣ =j ... zꜣw sn
+      - wasiʿa kursiyyuhu s-samāwāti wa-l-arḍa wa-lā yaʾūduhu ḥifẓuhumā
+    note: 'The one who upholds the heavens is not wearied by it. Drawing instructions: Šw ẖr ẖ,t =st ''Shu is under her belly'', his arms bearing the stars; captions n wrd =k zꜣ =j ''you will not grow weary, my son'' and zꜣw sn ''guard them''. 2:255 wasiʿa kursiyyuhu s-samāwāti wa-l-arḍa wa-lā yaʾūduhu ḥifẓuhumā. A wish spoken to the supporting gods against a statement about God, with the same pair: guarding (zꜣw / ḥifẓ) and not tiring.'
+- unit: ane-heavenlycow-w1-geb-serpents
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-7-moses-pharaoh
+  - quran-11-opening-throne-on-water
+  matches: []
+- unit: ane-heavenlycow-w1-thoth-deputy
+  checked:
+  - quran-10-opening-creation
+  - quran-36-cosmic-signs
+  - quran-9-months-nasi
+  - quran-7-creation-signs
+  - quran-7-sinai-theophany
+  - quran-20-moses-call
+  matches:
+  - with: quran-7-sinai-theophany
+    motif: deputy-in-the-place-of-the-withdrawing-ruler
+    refs:
+    - HeavenlyCow W1:71
+    - HeavenlyCow W1:71/2
+    with_refs:
+    - 7:142
+    relation: divergence
+    record:
+      agent:
+      - Re, withdrawn to the sky
+      - Moses, going up to the appointment
+      recipient:
+      - Thoth
+      - his brother Aaron
+      action:
+      - appoints him to his place as deputy
+      - appoints him to take his place among his people
+      quoted:
+      - jw =k m s,t =j m s,tj ... Ḏḥw,tj s,tj Rꜥ
+      - wa-qāla mūsā li-akhīhi hārūna khlufnī fī qawmī
+    note: 'A ruler who withdraws leaves a deputy ''in my place''. Re, gone up to heaven: jw =k m s,t =j m s,tj ''you are in my place, my deputy'', ''let one call you Thoth, deputy of Re''. 7:142 wa-qāla mūsā li-akhīhi hārūna khlufnī fī qawmī wa-aṣliḥ, as Moses goes to his forty nights. A god deputising the moon god, against a prophet his brother.'
+  - with: quran-20-moses-call
+    motif: deputy-in-the-place-of-the-withdrawing-ruler
+    refs:
+    - HeavenlyCow W1:73/4
+    with_refs:
+    - '20:29'
+    - '20:30'
+    - '20:31'
+    - '20:32'
+    relation: divergence
+    record:
+      name:
+      - vizier (ṯꜣ,tj)
+      - vizier (wazīr)
+      agent:
+      - Re
+      - Moses (asking God)
+      recipient:
+      - Thoth
+      - Aaron, his brother
+      quoted:
+      - ḫpr r =f pw m ṯꜣ,tj wnn =k gr m s,tj =j
+      - wa-jʿal lī wazīran min ahlī hārūna akhī
+    note: 'The title vizier for the deputy: ḫpr r =f pw m ṯꜣ,tj wnn =k gr m s,tj =j ''you who have become vizier, you shall also be my deputy''; 20:29-32 wa-jʿal lī wazīran min ahlī, hārūna akhī, ushdud bihi azrī, wa-ashrikhu fī amrī. The high god appoints his own vizier; Moses asks God for one.'
+- unit: ane-heavenlycow-w1-purity-and-benefits
+  checked:
+  - quran-56-waqia-left-hand-and-proofs
+  - quran-83-defrauders
+  - quran-84-splitting
+  - quran-69-haqqa-books-in-right-and-left-hands
+  matches:
+  - with: quran-56-waqia-left-hand-and-proofs
+    motif: purity-required-for-the-sacred-text
+    refs:
+    - HeavenlyCow W1:74/3
+    - HeavenlyCow W1:76/2
+    - HeavenlyCow W1:77
+    with_refs:
+    - 56:77
+    - 56:78
+    - 56:79
+    relation: divergence
+    record:
+      agent:
+      - the man who recites this book
+      - those who touch the hidden book
+      action:
+      - recites it anointed, with natron in his mouth, washed in flood-water
+      - touch it
+      quoted:
+      - ḏd s md,t pn ... bd dp rʾ =f ... wꜥb =f sw m mw mḥw,yw
+      - lā yamassuhu illā l-muṭahharūn
+    note: 'Purity demanded of whoever handles the sacred text: the reciter is to be anointed, bd dp rʾ =f ''natron in his mouth'', in new linen, wꜥb =f sw m mw mḥw,yw ''purified with flood-water''; 56:77-79 innahu la-qurʾānun karīm, fī kitābin maknūn, lā yamassuhu illā l-muṭahharūn. Recital of a spell-book by a purified man, against the touching of the Quran''s hidden book by the purified.'
+- unit: ane-heavenlycow-w1-spells-ba-catalogue
+  checked:
+  - quran-57-hadid-first-and-last-and-the-loan
+  - quran-79-pharaoh-and-cosmos
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-85-constellations
+  matches: []
+- unit: ane-heavenlycow-w2-spells
+  checked:
+  - quran-15-prologue-and-heavens
+  - quran-112-114-unity-and-refuge
+  - quran-11-opening-throne-on-water
+  - quran-2-abrogation-polemic
+  - quran-79-pharaoh-and-cosmos
+  matches:
+  - with: quran-79-pharaoh-and-cosmos
+    motif: egyptian-king-as-god-of-his-subjects
+    refs:
+    - HeavenlyCow W2:11
+    - HeavenlyCow W2:13
+    with_refs:
+    - '79:24'
+    relation: echo
+    record:
+      agent:
+      - King Ramesses VI
+      - Pharaoh
+      name:
+      - Re the shining (Rꜥ ꜣḫ,w)
+      - your lord most high (rabbukumu l-aʿlā)
+      quoted:
+      - zꜣ-Rꜥ ... Rꜥ-mss ... mn Rꜥ ꜣḫ,w
+      - anā rabbukumu l-aʿlā
+      outcome:
+      - the claim protects the king
+      - Pharaoh is seized with the punishment of the last and the first
+    note: 'The Egyptian king named as the god: in this copy the king''s name replaces ''I'', ''the son of Re, lord of appearances, Ramesses ... is Re the shining'' and the pure magician in Re''s mouth. 79:24 fa-qāla anā rabbukumu l-aʿlā. Spoken as a protective formula in the tomb, against Pharaoh''s claim that brings his punishment (79:25).'
+- unit: ane-heavenlycow-w3-tutankhamun-frame
+  checked:
+  - quran-23-death-barzakh-judgment
+  - quran-79-pharaoh-and-cosmos
+  - quran-16-daughters-and-the-bee
+  matches: []
+- unit: ane-heavenlycow-w4-tutankhamun-cow
+  checked:
+  - quran-44-dukhan-zaqqum-and-garden
+  - quran-99-earthquake
+  - quran-37-hell-and-garden
+  - quran-45-jathiya-time-and-the-kneeling-nations
+  matches:
+  - with: quran-44-dukhan-zaqqum-and-garden
+    motif: no-second-death-for-blessed
+    refs:
+    - HeavenlyCow W4:3/2
+    with_refs:
+    - '44:56'
+    relation: parallel
+    record:
+      agent:
+      - the Osiris king Tutankhamun
+      - the God-fearing in the Garden
+      quoted:
+      - nn mt =f m wḥm m ẖr,t-nṯr
+      - lā yadhūqūna fīhā l-mawta illā l-mawtata l-ūlā
+    note: 'The blessed die no second time: nn mt =f m wḥm m ẖr,t-nṯr ''he will not die again in the necropolis''; 44:56 lā yadhūqūna fīhā l-mawta illā l-mawtata l-ūlā wa-waqāhum ʿadhāba l-jaḥīm. The same idea of a possible second death after the first, denied for the blessed.'
+  - with: quran-99-earthquake
+    motif: deeds-on-earth-counted-at-judgment
+    refs:
+    - HeavenlyCow W4:35/2
+    - HeavenlyCow W4:37
+    with_refs:
+    - '99:7'
+    - '99:8'
+    relation: contrast
+    record:
+      agent:
+      - the learned scribe who knows the spells
+      - whoever does an atom's weight of evil
+      action:
+      - no wrong he did on earth is counted
+      - sees it
+      quoted:
+      - n ḥsb.n =tw ꜥwꜣ,t nb jri̯.t.n =f dp tꜣ
+      - wa-man yaʿmal mithqāla dharratin sharran yarah
+    note: Opposite answers on whether earthly wrongs are counted at the judgment. The scribe who knows the sacred writings 'does not bow at the tribunal', and n ḥsb.n =tw ꜥwꜣ,t nb jri̯.t.n =f dp tꜣ 'one cannot reckon (against him) any wrong he did on earth'. 99:7-8 fa-man yaʿmal mithqāla dharratin khayran yarah, wa-man yaʿmal mithqāla dharratin sharran yarah.
+- unit: ane-heavenlycow-w5-tutankhamun-atum
+  checked:
+  - quran-2-abraham-king
+  - quran-3-sovereignty
+  - quran-2-throne-verse
+  matches: []
+- unit: ane-horusseth-1-tribunal-opens
+  checked:
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-9-bargain-abraham
+  matches: []
+- unit: ane-horusseth-3-neith-answers-re-insulted
+  checked:
+  - quran-22-signs-and-rites
+  - quran-11-pharaoh-leads
+  - quran-17-polemic-and-resurrection
+  - quran-3-sovereignty
+  - quran-2-talut-jalut
+  matches:
+  - with: quran-22-signs-and-rites
+    motif: sky-falling-on-the-earth
+    refs:
+    - HorusSeth 3_2/2
+    with_refs:
+    - 22:65
+    relation: divergence
+    record:
+      agent:
+      - Neith
+      - God
+      action:
+      - threatens to make the sky fall on the earth
+      - holds back the sky from falling on the earth
+      quoted:
+      - jw =j r qnd.t mtw tꜣ p,t ṯḥn pꜣ jwtn
+      - wa-yumsiku s-samāʾa an taqaʿa ʿalā l-arḍi illā bi-idhnihi
+    note: 'The sky falling on the earth. Neith''s letter: ''do not do these great wrongs, or jw =j r qnd.t mtw tꜣ p,t ṯḥn pꜣ jwtn I will rage and the sky will touch the earth''. 22:65 wa-yumsiku s-samāʾa an taqaʿa ʿalā l-arḍi illā bi-idhnihi inna llāha bi-n-nāsi la-raʾūfun raḥīm. A goddess''s threat against God''s merciful restraint.'
+  - with: quran-2-talut-jalut
+    motif: body-as-qualification-for-kingship
+    refs:
+    - HorusSeth 3_7/5
+    - HorusSeth 3_8
+    with_refs:
+    - 2:247
+    relation: divergence
+    record:
+      agent:
+      - the Lord of All
+      - the elders of Israel; then their prophet
+      recipient:
+      - Horus, the claimant
+      - Talut, the appointed king
+      action:
+      - mocks him as weak in body and too small for the office
+      - object that he is unfit; God has increased him in body
+      quoted:
+      - tw≡k ḥwr.ṱ m ḥꜥ,t =k ... tꜣj jꜣw,t ꜥꜣi̯.ṱ r =k
+      - annā yakūnu lahu l-mulku ʿalaynā ... wa-zādahu basṭatan fī l-ʿilmi wa-l-jism
+    note: 'The claimant''s body weighed as fitness to rule. Re to Horus: tw≡k ḥwr.ṱ m ḥꜥ,t =k ''you are weak in your body'', tꜣj jꜣw,t ꜥꜣi̯.ṱ r =k ''this office is too great for you''. 2:247 qālū annā yakūnu lahu l-mulku ʿalaynā wa-naḥnu aḥaqqu bi-l-mulki minhu ... qāla inna llāha ṣṭafāhu ʿalaykum wa-zādahu basṭatan fī l-ʿilmi wa-l-jism. The body is held against Horus by the high god; it is God''s answer for Talut.'
+- unit: ane-horusseth-4-claims-and-oaths
+  checked:
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-5-jesus-miracles-table
+  - quran-2-throne-verse
+  matches: []
+- unit: ane-horusseth-5-isis-tricks-seth
+  checked:
+  - quran-38-david-ewe-parable
+  - quran-16-daughters-and-the-bee
+  - quran-12-joseph-full
+  - quran-18-moses-and-the-servant
+  matches:
+  - with: quran-38-david-ewe-parable
+    motif: case-put-to-a-judge-who-condemns-in-it
+    refs:
+    - HorusSeth 6_8/2
+    - HorusSeth 6_11
+    - HorusSeth 6_12/2
+    - HorusSeth 7_11/2
+    with_refs:
+    - '38:22'
+    - '38:23'
+    - '38:24'
+    relation: divergence
+    record:
+      agent:
+      - Isis, disguised as a herdsman's widow
+      - two litigants who climb into the sanctuary
+      recipient:
+      - Seth
+      - David
+      object:
+      - the dead father's cattle, threatened by a stranger
+      - the single ewe claimed by the brother with ninety-nine
+      quoted:
+      - j:jri̯ =tw ḏi̯.t nꜣ jꜣw,t n pꜣ r(m)ṯ ḏrjḏr jw pꜣ šrj n pꜣ ꜥḥꜣ,wtj ꜥḥꜥ ... mntk j:wpw tw ḏs =k
+      - la-qad ẓalamaka bi-suʾāli naʿjatika ilā niʿājihi ... wa-ẓanna dāwūdu annamā fatannāhu
+      outcome:
+      - Seth has condemned himself and is shamed
+      - David realises he was tested, asks forgiveness and bows
+    note: 'A made-up case about animals is put to a judge, and his verdict turns on himself. Isis: her husband the herdsman died, a stranger threatens the son, ''I will take your father''s cattle''; Seth: ''shall the cattle be given to the stranger while the man''s son stands by?''; Re: mntk j:wpw tw ḏs =k ''you have judged yourself''. 38:23-24 inna hādhā akhī lahu tisʿun wa-tisʿūna naʿjatan wa-liya naʿjatun wāḥidah ... qāla la-qad ẓalamaka bi-suʾāli naʿjatika ... wa-ẓanna dāwūdu annamā fatannāhu fa-staghfara rabbahu. A trap that shames the usurper, against a trial that leads the king to repent.'
+- unit: ane-horusseth-8-crowning-and-hippopotami
+  checked:
+  - quran-19-zechariah-and-john
+  - quran-19-mary-and-jesus
+  - quran-20-moses-favors-recalled
+  matches: []
+- unit: ane-horusseth-10-eyes-of-horus
+  checked:
+  - quran-12-joseph-full
+  - quran-22-signs-and-rites
+  - quran-16-daughters-and-the-bee
+  - quran-3-badr-uhud
+  matches:
+  - with: quran-12-joseph-full
+    motif: sight-restored-by-something-on-face-or-eyes
+    refs:
+    - HorusSeth 10_6/2
+    - HorusSeth 10_8/4
+    - HorusSeth 10_9/5
+    with_refs:
+    - 12:84
+    - 12:93
+    - 12:96
+    relation: divergence
+    record:
+      agent:
+      - Hathor
+      - the bearer of good news, sent by Joseph
+      recipient:
+      - Horus, weeping, his eyes torn out by Seth
+      - Jacob, his eyes white with grief
+      instrument:
+      - gazelle's milk put in each eye
+      - Joseph's shirt cast on his face
+      quoted:
+      - j:wn jr,t =k ... gmi̯ =st sw mnq.w
+      - alqāhu ʿalā wajhihi fa-rtadda baṣīrā
+      outcome:
+      - she finds him healed
+      - he became seeing again
+    note: A blinded one's sight restored by something laid on the eyes or face. Hathor finds Horus weeping, milks a gazelle, 'open your eyes', puts the milk in the right and left eye and finds him healed. 12:84 wa-byaḍḍat ʿaynāhu mina l-ḥuzn; 12:93 idhhabū bi-qamīṣī hādhā fa-alqūhu ʿalā wajhi abī yaʾti baṣīrā; 12:96 alqāhu ʿalā wajhihi fa-rtadda baṣīrā. Eyes torn out by a rival against eyes lost to grief; milk against the shirt.
+- unit: ane-horusseth-10-semen-episode
+  checked:
+  - quran-7-lot
+  - quran-19-zechariah-and-john
+  - quran-19-mary-and-jesus
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-12-joseph-full
+  matches:
+  - with: quran-12-joseph-full
+    motif: physical-trace-decides-sexual-accusation
+    refs:
+    - HorusSeth 12_5
+    - HorusSeth 12_5/2
+    - HorusSeth 12_11/3
+    with_refs:
+    - '12:26'
+    - '12:27'
+    - '12:28'
+    relation: divergence
+    record:
+      agent:
+      - Horus asks; Thoth calls the semen
+      - a witness of her household
+      object:
+      - the semen of each, called to answer from where it is
+      - Joseph's shirt and where it is torn
+      quoted:
+      - ꜥḏꜣ pꜣ ḏd nb Stẖ ... ptrj =nn pꜣ n,tj jw =st r wšb.t jm
+      - in kāna qamīṣuhu qudda min qubulin fa-ṣadaqat ... wa-in kāna qamīṣuhu qudda min duburin fa-kadhabat
+      outcome:
+      - 'Seth''s semen answers from the water, Horus''s comes from Seth''s head: Seth lied'
+      - 'the shirt is torn from behind: she lied'
+    note: 'In a sexual accusation the place where the bodily trace is found shows who lies. Horus: ꜥḏꜣ pꜣ ḏd nb Stẖ ''all Seth has said is false; let the semen of Seth be called, and we shall see from where it answers''; Thoth calls, and Horus''s semen comes out on Seth''s head as a golden disk. 12:26-28 wa-shahida shāhidun min ahlihā in kāna qamīṣuhu qudda min qubulin fa-ṣadaqat ... wa-in kāna qamīṣuhu qudda min duburin fa-kadhabat ... fa-lammā raʾā qamīṣahu qudda min duburin. Semen summoned in a divine court against a shirt examined in a household.'
+- unit: ane-horusseth-13-stone-ships
+  checked:
+  - quran-5-bequest-witnesses
+  - quran-24-penalties-and-lian
+  - quran-24-ifk-slander
+  matches: []
+- unit: ane-horusseth-14-letters-to-osiris
+  checked:
+  - quran-80-frowned
+  - quran-32-sajda
+  - quran-6-prophets-lineage-torah-sheets
+  - quran-8-death-angels-custom
+  matches:
+  - with: quran-8-death-angels-custom
+    motif: messengers-fetch-the-evildoers-at-death
+    refs:
+    - HorusSeth 15_4/2
+    - HorusSeth 15_5
+    with_refs:
+    - '8:50'
+    relation: divergence
+    record:
+      agent:
+      - Osiris's fierce-faced messengers
+      - the angels
+      recipient:
+      - every evildoer
+      - those who disbelieved
+      action:
+      - fetch the heart of every evildoer
+      - take them, striking their faces and backs
+      quoted:
+      - wpw,tj.pl ḥsꜣ ḥr.pl jw bn st snd n nṯr nb ... jni̯ ḥꜣ,tj n pꜣ n,tj nb ḥr jri̯.t sp.w.pl bjn.pl
+      - yatawaffā lladhīna kafarū l-malāʾikatu yaḍribūna wujūhahum wa-adbārahum
+    note: 'Fierce messengers sent to fetch the wicked at death. Osiris: his land ''is full of fierce-faced messengers who fear no god or goddess'', he will send them out ''and they will fetch the heart of everyone who does evil deeds''. 8:50 wa-law tarā idh yatawaffā lladhīna kafarū l-malāʾikatu yaḍribūna wujūhahum wa-adbārahum. The messengers serve the god of the dead as a threat to the gods; in Q they take the disbelievers'' souls.'
+  - with: quran-80-frowned
+    motif: who-made-grain-to-feed-whom
+    refs:
+    - HorusSeth 14_11
+    - HorusSeth 15_2/3
+    with_refs:
+    - '80:24'
+    - '80:27'
+    - '80:32'
+    relation: divergence
+    record:
+      agent:
+      - Osiris (Re denies it)
+      - God
+      object:
+      - barley and emmer
+      - grain (ḥabb) and pasture
+      recipient:
+      - the gods and the 'small cattle' (humans) after them
+      - you and your cattle
+      quoted:
+      - jnk jri̯ jt bd,tj r sꜥnḫ nṯr.pl mjnꜣ jꜣw,t.pl ḥr-sꜣ nṯr.pl
+      - fa-anbatnā fīhā ḥabban ... matāʿan lakum wa-li-anʿāmikum
+    note: 'Who made the grain grow, and to feed whom. Osiris: jnk jri̯ jt bd,tj r sꜥnḫ nṯr.pl mjnꜣ jꜣw,t.pl ḥr-sꜣ nṯr.pl ''it is I who made barley and emmer to keep the gods alive, and the cattle after the gods''; Re replies ''if you had never been born, barley and emmer would exist anyway''. 80:24-32 fa-l-yanẓuri l-insānu ilā ṭaʿāmihi, annā ṣababnā l-māʾa ṣabbā ... fa-anbatnā fīhā ḥabbā ... matāʿan lakum wa-li-anʿāmikum. Gods and humans-as-cattle, against humans and their cattle.'
+- unit: ane-horusseth-15-final-verdict
+  checked:
+  - quran-13-signs-of-creation
+  - quran-39-mercy-and-last-day
+  - quran-3-badr-uhud
+  - quran-53-najm-goddesses-and-scrolls
+  matches:
+  - with: quran-13-signs-of-creation
+    motif: thunder-in-the-sky-and-fear
+    refs:
+    - HorusSeth 16_4/2
+    with_refs:
+    - '13:12'
+    - '13:13'
+    relation: divergence
+    record:
+      agent:
+      - Seth, taken by Re as a son
+      - the thunder (ar-raʿd)
+      action:
+      - thunders in the sky and is feared
+      - glorifies God; the angels are in fear of him
+      quoted:
+      - mtw =f ḫrw m tꜣ p,t mtw =tw snd n =f
+      - wa-yusabbiḥu r-raʿdu bi-ḥamdihi wa-l-malāʾikatu min khīfatihi
+    note: 'Thunder in the sky and fear. Re: let Seth sit with me as a son, mtw =f ḫrw m tꜣ p,t mtw =tw snd n =f ''and let him thunder in the sky and be feared''. 13:12-13 yurīkumu l-barqa khawfan wa-ṭamaʿan ... wa-yusabbiḥu r-raʿdu bi-ḥamdihi wa-l-malāʾikatu min khīfatihi. The thunderer is a defeated god feared by all; in Q the thunder itself praises and the fear is of God.'
+- unit: ane-ipuwer-1-opening-fragments
+  checked:
+  - quran-11-salih
+  - quran-23-unnamed-messenger-and-succession
+  - quran-30-fitra
+  - quran-64-taghabun-day-of-loss-and-household-enemies
+  matches:
+  - with: quran-64-taghabun-day-of-loss-and-household-enemies
+    motif: ones-own-child-as-enemy
+    refs:
+    - Ipuwer 1:5/2
+    with_refs:
+    - '64:14'
+    relation: echo
+    record:
+      object:
+      - his son
+      - your wives and children
+      quoted:
+      - mꜣꜣ z zꜣ =f m ḫrw,y =f
+      - inna min azwājikum wa-awlādikum ʿaduwwan lakum
+      outcome:
+      - a sign of the land's ruin
+      - beware of them; but pardon and forgive
+    note: 'One''s own child as enemy: mꜣꜣ z zꜣ =f m ḫrw,y =f ''a man sees his son as his enemy''; 64:14 inna min azwājikum wa-awlādikum ʿaduwwan lakum fa-ḥdharūhum wa-in taʿfū wa-taṣfaḥū. A symptom of collapse in Ipuwer, an ordinary warning with a call to forgive in Q.'
+- unit: ane-ipuwer-2-o-yet-blood-and-death
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-47-muhammad-battle-and-rivers
+  - quran-22-quake-and-resurrection-proofs
+  - quran-2-exodus-calf
+  matches:
+  - with: quran-7-moses-pharaoh
+    motif: blood-as-calamity-on-egypt
+    refs:
+    - Ipuwer 2:10
+    - Ipuwer 2:10/2
+    with_refs:
+    - 7:133
+    relation: divergence
+    record:
+      object:
+      - the river
+      - blood (ad-dam)
+      agent:
+      - null
+      - God
+      quoted:
+      - jw ms jtr,w m snf swrj =tw jm =f
+      - fa-arsalnā ʿalayhimu ṭ-ṭūfāna wa-l-jarāda wa-l-qummala wa-ḍ-ḍafādiʿa wa-d-dama
+      outcome:
+      - one drinks of it, men thirst for water
+      - Pharaoh's people grew arrogant
+    note: 'Blood as a calamity on Egypt. Ipuwer: jw ms jtr,w m snf swrj =tw jm =f ''yet the river is blood, and one drinks of it; one pushes people aside, thirsting for water'' (likely the corpses in the river, cf. 2:6/4). 7:133 fa-arsalnā ʿalayhimu ṭ-ṭūfāna wa-l-jarāda wa-l-qummala wa-ḍ-ḍafādiʿa wa-d-dama āyātin mufaṣṣalāt. A lament with no sender, against a sign sent by God; Q names no river.'
+- unit: ane-ipuwer-3-desert-and-trade
+  checked:
+  - quran-80-frowned
+  - quran-89-dawn
+  - quran-18-two-gardens
+  matches: []
+- unit: ane-ipuwer-4-i-wish-i-could-die
+  checked:
+  - quran-19-mary-and-jesus
+  - quran-18-moses-and-the-servant
+  - quran-80-frowned
+  - quran-18-two-gardens
+  matches:
+  - with: quran-19-mary-and-jesus
+    motif: wish-to-have-died
+    refs:
+    - Ipuwer 4:2/3
+    - Ipuwer 4:2/4
+    with_refs:
+    - '19:23'
+    relation: echo
+    record:
+      agent:
+      - great and small
+      - Mary, in labour
+      quoted:
+      - mri̯ =j mwt =j
+      - yā laytanī mittu qabla hādhā wa-kuntu nasyan mansiyyā
+    note: 'The cry ''would that I were dead'': jw ms wr šrj ḥr mri̯ =j mwt =j ''yet great and small say: I wish I could die''; 19:23 qālat yā laytanī mittu qabla hādhā wa-kuntu nasyan mansiyyā. The whole land in collapse, against one woman at childbirth under the palm.'
+- unit: ane-ipuwer-5-where-is-god
+  checked:
+  - quran-80-frowned
+  - quran-10-rain-parable-idols-disown
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  matches:
+  - with: quran-80-frowned
+    motif: kin-against-kin-in-catastrophe
+    refs:
+    - Ipuwer 5:10/2
+    with_refs:
+    - '80:34'
+    - '80:35'
+    - '80:36'
+    relation: divergence
+    record:
+      agent:
+      - a man
+      - a man (al-marʾ)
+      action:
+      - strikes his brother
+      - flees from his brother, mother, father, wife and sons
+      recipient:
+      - his brother, son of his mother
+      - his brother, mother, father, wife and sons
+      time:
+      - in the ruin of the land
+      - on the day of the deafening blast
+      quoted:
+      - ḥwi̯ z sn =f n mw,t =f
+      - yawma yafirru l-marʾu min akhīhi wa-ummihi wa-abīhi
+    note: 'A man turns from his own brother, the mother''s son, in the catastrophe: ḥwi̯ z sn =f n mw,t =f ''a man strikes his brother of the same mother''; 80:34-36 yawma yafirru l-marʾu min akhīhi wa-ummihi wa-abīhi wa-ṣāḥibatihi wa-banīh. Violence in a social collapse against flight on the Last Day; the brother heads both lists.'
+- unit: ane-ipuwer-6-hunger-and-records-destroyed
+  checked:
+  - quran-89-dawn
+  - quran-80-frowned
+  - quran-59-hashr-banu-nadir-and-fay
+  matches: []
+- unit: ane-ipuwer-7-look-the-king-removed
+  checked:
+  - quran-28-qarun
+  - quran-89-dawn
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  matches: []
