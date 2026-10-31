@@ -296,9 +296,8 @@ units:
       - {motif: god-instructs-in-dream, refs: ["KTU 1.14 I:35-37"], note: "wbḥlmh il yrd bḏhrth ab adm: in his dream El came down, in his vision the Father of Mankind"}
       - {motif: father-of-mankind-el, refs: ["KTU 1.14 I:36-37", "KTU 1.14 I:43"], note: "ab adm"}
       - {motif: god-asks-why-petitioner-weeps, refs: ["KTU 1.14 I:37-43"], note: "mat krt kybky: what ails Kirta that he weeps? Does he desire the kingship of the Bull his father?"}
-      - {motif: king-called-gracious-lad-of-el, refs: ["KTU 1.14 I:40-41", "KTU 1.14 II:8"], note: "nˁmn ġlm il"}
+      - {motif: king-called-gracious-lad-of-el, refs: ["KTU 1.14 I:40-41"], note: "nˁmn ġlm il"}
       - {motif: hero-refuses-wealth-asks-for-offspring, refs: ["KTU 1.14 I:51-52", "KTU 1.14 II:1-5"], note: "restored [lm ank ksp wyrq] ... [x x x]ṯnm aqny, [x x x]šrm amid: why should I want silver and gold ...? let me acquire [sons], multiply [offspring]; the opening of the request is restored from III:33-37; I:44-50 are lost"}
-      - {motif: bull-el-father-epithets, refs: ["KTU 1.14 II:6"], note: "ṯr abh il"}
     hints:
       - "Compare 1Kgs 3:5-13 (God appears to Solomon in a dream: 'Ask what I shall give you'; he does not ask riches); Gen 15:1-3 ('what will you give me, seeing I go childless?')."
       - "God asks the weeping: Gen 21:17 ('What troubles you, Hagar?'); 1Sam 1:8."
@@ -326,7 +325,8 @@ units:
       - {motif: hero-demands-princess-not-treasure, refs: ["KTU 1.14 III:33-40"], note: "lm ank ksp ... pd in bbty ttn tn ly mṯt ḥry: why should I take silver ...? give what is lacking in my house, give me the girl Hurriya"}
       - {motif: bride-beautiful-as-anat-and-athtart, refs: ["KTU 1.14 III:40-45"], note: "dk nˁm ˁnt nˁmh km tsm ˁṯtrt tsmh, dˁqh ib iqni ˁpˁph sp ṯrml: whose grace is like Anat's, beauty like Athtart's, eyeballs lapis lazuli, eyelids alabaster bowls"}
       - {motif: bride-promised-in-dream-by-god, refs: ["KTU 1.14 III:46-49"], note: "dbḥlmy il ytn ... wld špḥ lkrt: whom El gave in my dream, to bear Kirta offspring"}
-      - {motif: king-called-gracious-lad-of-el, refs: ["KTU 1.14 III:49"], note: "ˁbd il: the servant of El"}
+      - {motif: king-called-gracious-lad-of-el, refs: ["KTU 1.14 II:8", "KTU 1.14 III:49"], note: "nˁmn ġlm il; ˁbd il: the servant of El"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.14 II:6"], note: "ṯr abh il"}
     hints:
       - "Rooftop sacrifice and raised hands: 2Kgs 23:12; Jer 19:13; 32:29; Zeph 1:5; 1Kgs 8:22, 54."
       - "Total levy with the newlywed: contrast Deut 20:5-7 and 24:5 (the new husband is exempt for a year); Joel 2:16 ('let the bridegroom leave his chamber')."
@@ -717,7 +717,7 @@ units:
     tagger: "Claude (model), reading the Ugaritic"
     read: ["KTU 1.19 II"]
     tags:
-      - {motif: dew-collected-from-fleece, refs: ["KTU 1.19 II:1-2", "KTU 1.19 II:6", "KTU 1.19 IV:37-38"], note: "ṯkmt my ḥspt lšˁr ṭl ydˁt hlk kbkbm: she who carries water on her shoulder, scoops the dew from the fleece, knows the course of the stars"}
+      - {motif: dew-collected-from-fleece, refs: ["KTU 1.19 II:1-2", "KTU 1.19 II:6"], note: "ṯkmt my ḥspt lšˁr ṭl ydˁt hlk kbkbm: she who carries water on her shoulder, scoops the dew from the fleece, knows the course of the stars"}
       - {motif: daughter-saddles-donkey-for-father, refs: ["KTU 1.19 II:3-11"], note: "mdl ˁr ṣmd pḥl ... tšu abh tštnn lbmt ˁr: harness the donkey, yoke the jack ... she lifts her father and sets him on the donkey's back"}
       - {motif: father-kisses-surviving-stalk, refs: ["KTU 1.19 II:12-25"], note: "yph bṣql ... yḥbq wynšq ... ur tispk yd aqht ġzr tštk bqrbm asm: he sees a sprout in the parched field, embraces and kisses it: may the hand of Aqhat the hero gather you, put you in the granary"}
       - {motif: word-not-yet-out-of-mouth-when, refs: ["KTU 1.19 II:26-27"], note: "bph rgm lyṣa bšpth [hwth]: the word had not left his mouth, the speech his lips, when ..."}
@@ -827,7 +827,7 @@ units:
     tags:
       - {motif: high-god-walks-shore-of-sea, refs: ["KTU 1.23 I:(U.R.)_30"], note: "gp ym wyṣġd gp thm: [El went] to the shore of the sea, strode to the shore of the deep"}
       - {motif: high-god-takes-two-women-as-wives, refs: ["KTU 1.23 I:31-49"], note: "il mštˁltm ... yqḥ yš bbth: El sees two women 'raising themselves' at the basin, takes them into his house; if they cry 'husband!' they become El's wives for ever, if 'father!' his daughters; they cry 'husband'"}
-      - {motif: el-offers-food-and-love, refs: ["KTU 1.23 I:33-35"], note: "tirkm yd il kym wyd il kmdb: El's 'hand' (penis) grows long as the sea, El's 'hand' as the flood"}
+      - {motif: el-offers-food-and-love, refs: ["KTU 1.23 I:33-(Rs.)_35"], note: "tirkm yd il kym wyd il kmdb: El's 'hand' (penis) grows long as the sea, El's 'hand' as the flood"}
       - {motif: high-god-shoots-and-roasts-a-bird, refs: ["KTU 1.23 I:37-41"], note: "yr šmmh yr bšmm ˁṣr yḫrṭ yšt lpḥm: he shoots into the sky, shoots a bird, plucks it, puts it on the coals; hl ˁṣr tḥrr lišt"}
       - {motif: lips-sweet-as-honey, refs: ["KTU 1.23 I:49-50", "KTU 1.23 I:55"], note: "špthm mtqtm mtqtm klrmnm: their lips sweet, sweet as pomegranates"}
       - {motif: kiss-and-embrace-bring-conception, refs: ["KTU 1.23 I:51", "KTU 1.23 I:56"], note: "bm nšq whr bḥbq ḥmḥmt"}
@@ -852,18 +852,18 @@ units:
     tagger: "Claude (model), reading the Ugaritic"
     read: ["KTU 1.24"]
     tags:
-      - {motif: epic-opens-i-will-sing-the-hero, refs: ["KTU 1.24 I:(Vs.)_1", "KTU 1.24 I:(Rs.)_37-38", "KTU 1.24 I:(Rs.)_40"], note: "ašr nkl wib ... ašr ilht kṯrt: I sing of Nikkal-wa-Ib ... I sing of the Kotharat"}
-      - {motif: kotharat-swallow-birth-goddesses, refs: ["KTU 1.24 I:(Vs.)_5-6", "KTU 1.24 I:(Vs.)_11", "KTU 1.24 I:(Vs.)_14-15", "KTU 1.24 I:(Rs.)_40-42"], note: "bnt hll snnt; hll bˁl gml: daughters of Hilal, lord of the crescent"}
-      - {motif: moon-god-desires-maiden, refs: ["KTU 1.24 I:(Vs.)_3-9"], note: "šbˁ? ... špš yrḫ yṯkḥ yḥbq: at sunset Yarikh burns, embraces ...; hl ġlmt tld b[n]: behold, the maiden will bear a son (sense disputed)"}
-      - {motif: suitor-sends-bride-price-to-brides-father, refs: ["KTU 1.24 I:(Vs.)_16-23"], note: "tn nkl yrḫ ytrḫ ... watn mhrh lab h alp ksp wrbt ḫrṣ išlḥ ẓhrm iqnim atn šdh krmm šd ddh ḥrnqm: give Nikkal, that Yarikh may marry her ... I will give her bride-price (mhr) to her father: a thousand of silver, ten thousand of gold, I will send pure lapis; I will make her field vineyards, the field of her love orchards"}
-      - {motif: bridegroom-offers-herds-as-bride-price, refs: ["KTU 1.24 I:(Vs.)_19-21"], note: "here silver, gold and lapis, not herds"}
-      - {motif: father-offers-another-bride, refs: ["KTU 1.24 I:(Vs.)_23-29"], note: "ḫrḫb: trḫ pdry b[t ar] ... aqrbk abh bˁl ... ybrdmy: marry Pidray daughter of light, I will bring you to her father Baal; or Ybrdmy"}
-      - {motif: storm-gods-daughters-dew-light-earth, refs: ["KTU 1.24 I:(Vs.)_26-27"], note: "pdry bt[ar] restored"}
-      - {motif: suitor-insists-on-chosen-bride, refs: ["KTU 1.24 I:(Rs.)_30-33"], note: "ˁm nkl ḫtny: with Nikkal is my marriage; aḫr nkl yrḫ ytrḫ"}
-      - {motif: bride-price-weighed-by-brides-family, refs: ["KTU 1.24 I:(Rs.)_33-37"], note: "adnh yšt mṣb mznm umh kp mznm iḫh yṯˁr mšrrm aḫth labn mznm: her father sets up the beam of the scales, her mother the pans, her brother arranges the balance arms, her sister the weights"}
-      - {motif: moon-god-lamp-of-heaven, refs: ["KTU 1.24 I:(Vs.)_16", "KTU 1.24 I:(Rs.)_31", "KTU 1.24 I:(Rs.)_38-39"], note: "yrḫ nyr šmm; ar yrḫ wyrḫ yark: shine on Yarikh and may Yarikh shine on you"}
-      - {motif: bull-el-father-epithets, refs: ["KTU 1.24 I:(Rs.)_44-45"], note: "ˁm lẓpn il ḏpid: with the Kindly One, El the Merciful"}
-      - {motif: catalogue-of-goddess-names-recited, refs: ["KTU 1.24 I:(Rs.)_45-50"], note: "hn bpy sprhn bšpty mnthn: in my mouth is their number, on my lips their count; the names in Rs. 47-50 are untranslated in the source"}
+      - {motif: epic-opens-i-will-sing-the-hero, refs: ["KTU 1.24 I:(Vs.)_1", "KTU 1.24 I:(Rs.)_37-(Rs.)_38", "KTU 1.24 I:(Rs.)_40"], note: "ašr nkl wib ... ašr ilht kṯrt: I sing of Nikkal-wa-Ib ... I sing of the Kotharat"}
+      - {motif: kotharat-swallow-birth-goddesses, refs: ["KTU 1.24 I:(Vs.)_5-(Vs.)_6", "KTU 1.24 I:(Vs.)_11", "KTU 1.24 I:(Vs.)_14-(Vs.)_15", "KTU 1.24 I:(Rs.)_40-(Rs.)_42"], note: "bnt hll snnt; hll bˁl gml: daughters of Hilal, lord of the crescent"}
+      - {motif: moon-god-desires-maiden, refs: ["KTU 1.24 I:(Vs.)_3-(Vs.)_9"], note: "šbˁ? ... špš yrḫ yṯkḥ yḥbq: at sunset Yarikh burns, embraces ...; hl ġlmt tld b[n]: behold, the maiden will bear a son (sense disputed)"}
+      - {motif: suitor-sends-bride-price-to-brides-father, refs: ["KTU 1.24 I:(Vs.)_16-(Vs.)_23"], note: "tn nkl yrḫ ytrḫ ... watn mhrh lab h alp ksp wrbt ḫrṣ išlḥ ẓhrm iqnim atn šdh krmm šd ddh ḥrnqm: give Nikkal, that Yarikh may marry her ... I will give her bride-price (mhr) to her father: a thousand of silver, ten thousand of gold, I will send pure lapis; I will make her field vineyards, the field of her love orchards"}
+      - {motif: bridegroom-offers-herds-as-bride-price, refs: ["KTU 1.24 I:(Vs.)_19-(Vs.)_21"], note: "here silver, gold and lapis, not herds"}
+      - {motif: father-offers-another-bride, refs: ["KTU 1.24 I:(Vs.)_23-(Rs.)_29"], note: "ḫrḫb: trḫ pdry b[t ar] ... aqrbk abh bˁl ... ybrdmy: marry Pidray daughter of light, I will bring you to her father Baal; or Ybrdmy"}
+      - {motif: storm-gods-daughters-dew-light-earth, refs: ["KTU 1.24 I:(Vs.)_26-(Vs.)_27"], note: "pdry bt[ar] restored"}
+      - {motif: suitor-insists-on-chosen-bride, refs: ["KTU 1.24 I:(Rs.)_30-(Rs.)_33"], note: "ˁm nkl ḫtny: with Nikkal is my marriage; aḫr nkl yrḫ ytrḫ"}
+      - {motif: bride-price-weighed-by-brides-family, refs: ["KTU 1.24 I:(Rs.)_33-(Rs.)_37"], note: "adnh yšt mṣb mznm umh kp mznm iḫh yṯˁr mšrrm aḫth labn mznm: her father sets up the beam of the scales, her mother the pans, her brother arranges the balance arms, her sister the weights"}
+      - {motif: moon-god-lamp-of-heaven, refs: ["KTU 1.24 I:(Vs.)_16", "KTU 1.24 I:(Rs.)_31", "KTU 1.24 I:(Rs.)_38-(Rs.)_39"], note: "yrḫ nyr šmm; ar yrḫ wyrḫ yark: shine on Yarikh and may Yarikh shine on you"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.24 I:(Rs.)_44-(Rs.)_45"], note: "ˁm lẓpn il ḏpid: with the Kindly One, El the Merciful"}
+      - {motif: catalogue-of-goddess-names-recited, refs: ["KTU 1.24 I:(Rs.)_45-(Rs.)_50"], note: "hn bpy sprhn bšpty mnthn: in my mouth is their number, on my lips their count; the names in Rs. 47-50 are untranslated in the source"}
     hints:
       - "Bride-price to the father: Gen 24:53; 29:18; 34:12 ('ask of me ever so great a mohar'); Exod 22:15-16; 1Sam 18:25. Silver weighed on scales: Gen 23:16; Jer 32:9-10."
       - "Brother and mother negotiate the marriage: Gen 24:50-55. Substitute bride offered: Gen 29:23-26 (Leah for Rachel); compare substituted-bride."
@@ -882,7 +882,7 @@ units:
       - {motif: snakebite-incantation-expels-venom, refs: ["KTU 1.100 I:4-6", "KTU 1.100 I:9-12"], note: "mnt nṯk nḥš šmrr nḥš ˁqšr lnh mlḫš abd lnh ydy ḥmt hlm yṯq nḥš yšlḥm: the spell for the bite of the snake, the venom of the sloughing serpent; from it let the charmer destroy, from it let him remove the venom; let him bind the snake, let him ... the serpent"}
       - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.100 I:2-3"], note: "ˁm il mbk nhrm bˁdt thmtm"}
       - {motif: hymn-repeats-each-stanza-with-name, refs: ["KTU 1.100 I:8-60"], note: "the same stanza is repeated eleven times with each god's name and city"}
-      - {motif: gods-sit-on-thrones-and-do-nothing, refs: ["KTU 1.100 I:7", "KTU 1.100 I:12-13", "KTU 1.100 I:18", "KTU 1.100 I:23-24", "KTU 1.100 I:29", "KTU 1.100 I:34", "KTU 1.100 I:39", "KTU 1.100 I:44", "KTU 1.100 I:49-50", "KTU 1.100 I:55-56"], note: "yˁdb ksa wyṯb: he sets out a chair and sits - interpretive: each god sits down without effect, until Horon"}
+      - {motif: gods-sit-on-thrones-and-do-nothing, refs: ["KTU 1.100 I:7", "KTU 1.100 I:12-13", "KTU 1.100 I:18", "KTU 1.100 I:23-24", "KTU 1.100 I:29", "KTU 1.100 I:34", "KTU 1.100 I:39", "KTU 1.100 I:(Rs.)_44", "KTU 1.100 I:49-50", "KTU 1.100 I:55-56"], note: "yˁdb ksa wyṯb: he sets out a chair and sits - interpretive: each god sits down without effect, until Horon"}
       - {motif: craftsman-god-from-caphtor-and-memphis, refs: ["KTU 1.100 I:46"], note: "kṯr wḫss kptrh"}
       - {motif: resheph-qeteb-plague-demons, refs: ["KTU 1.100 I:31"], note: "ršp bbth: Rashap in Bibitta"}
     hints:
@@ -952,7 +952,7 @@ units:
       - {motif: honour-the-aged-and-great, refs: ["Amenemope W1:4.6"], note: "do not stretch out your hand to touch an old man, nor snatch the word from the elder"}
       - {motif: evildoer-swept-away-by-flood-and-storm, refs: ["Amenemope W1:4.12-4.19"], note: "the bank abandons him, its mud carries him off, the north wind ends his hour, the storm is loud, the crocodiles are evil; the moon god (Jꜥḥ) establishes his crime"}
       - {motif: do-not-repay-evil-wait-for-yhwh, refs: ["Amenemope W1:4.10", "Amenemope W1:5.4"], note: "ḫꜣꜥ sw ḥr ꜥ.wj pꜣ nṯr: leave him in the hands of the god"}
-      - {motif: feed-enemy-heap-coals, refs: ["Amenemope W1:5.3-5.6"], note: "ṯs sw jmm n =f ḏr,t =k ... mḥ ẖ,t =f m tʾ m-ḏi̯w =k sꜣwj =f mtw =f ṯm: lift him up, give him your hand ... fill his belly with your bread so that he is sated and ashamed"}
+      - {motif: feed-enemy-heap-coals, refs: ["Amenemope W1:5.3-5.5"], note: "ṯs sw jmm n =f ḏr,t =k ... mḥ ẖ,t =f m tʾ m-ḏi̯w =k sꜣwj =f mtw =f ṯm: lift him up, give him your hand ... fill his belly with your bread so that he is sated and ashamed"}
       - {motif: pause-before-speaking, refs: ["Amenemope W1:5.7"], note: "wsfꜣ (r)-ḥꜣ,t mdwi̯"}
     hints:
       - "Prov 22:22 ('Do not rob the poor because he is poor, nor crush the afflicted at the gate'); Prov 25:21-22 (feed your enemy, heap coals); Prov 20:22 ('wait for YHWH'); Prov 24:29; Rom 12:19-20."
@@ -995,7 +995,7 @@ units:
     version: "pBM EA 10474"
     read: ["Amenemope W1:6.13-7.9"]
     tags:
-      - {motif: do-not-embezzle-temple-share, refs: ["Amenemope W1:6.14-6.17"], note: "m-jri̯ ꜥšgꜣjw dnj,t n ḥw,t-nṯr: do not take for yourself the share of the temple"}
+      - {motif: do-not-embezzle-temple-share, refs: ["Amenemope W1:6.14-6.16"], note: "m-jri̯ ꜥšgꜣjw dnj,t n ḥw,t-nṯr: do not take for yourself the share of the temple"}
       - {motif: carousers-say-tomorrow-like-today, refs: ["Amenemope W1:6.18-7.1"], note: "m-jri̯ ḏd pꜣ-hrw mj dwꜣ,w: do not say 'today is like tomorrow'; tomorrow has come, today has gone"}
       - {motif: fortunes-reversed-when-flood-recedes, refs: ["Amenemope W1:7.2-7.6"], note: "the flood becomes a sandbank, the crocodiles are exposed, the hippopotami on dry land, the fish gasping, the jackals sated, the birds in festival, the nets empty"}
       - {motif: truly-silent-man-ideal, refs: ["Amenemope W1:7.7-7.9"], note: "jr gr nb n ḥw,t-nṯr st ḥr ḏd wr ḥs(,wt) Rꜥ: every silent one of the temple says 'great is the favour of Re'"}
@@ -1016,7 +1016,7 @@ units:
       - {motif: moon-god-lassoes-perjurer, refs: ["Amenemope W1:7.18"], note: "jw =f spḥ n-m bꜣ,w n Jꜥḥ: he is lassoed by the might of the Moon"}
       - {motif: land-grabbers-house-destroyed, refs: ["Amenemope W1:8.1"], note: "his house is an enemy of the town, his granaries destroyed, his goods taken from his children and given to another"}
       - {motif: little-from-god-better-than-much-by-wrong, refs: ["Amenemope W1:8.19-9.7"], note: "ꜣḫ jp,t jw ḏi̯ s(j) n =k pꜣ nṯr r 5000 m-gꜣnjsꜣ ... ꜣḫ pꜣ nmḥ m-ḏr,t pꜣ nṯr r wsr m wḏꜣ ... ꜣḫ pꜣw,t jw ḥꜣ,tj nḏm r wsr ẖr šnn: better a bushel God gives you than 5000 by wrong ... better poverty in the hand of God than riches in the storehouse; better bread with a happy heart than riches with sorrow"}
-      - {motif: little-of-righteous-better, refs: ["Amenemope W1:8.19-9.8"]}
+      - {motif: little-of-righteous-better, refs: ["Amenemope W1:8.19-9.7"]}
       - {motif: dry-morsel-in-peace, refs: ["Amenemope W1:9.7"]}
       - {motif: beware-of-the-lord-of-all, refs: ["Amenemope W1:8.9-8.14"], note: "zꜣw tw r Nb-r-ḏr: beware of the Lord of All; lest the terror (of God) carry you off"}
     hints:
@@ -1113,7 +1113,7 @@ units:
     version: "pBM EA 10474"
     read: ["Amenemope W1:15.8-15.17"]
     tags:
-      - {motif: steward-must-not-covet-masters-treasure, refs: ["Amenemope W1:15.9-15.12"]}
+      - {motif: steward-must-not-covet-masters-treasure, refs: ["Amenemope W1:15.9-15.11"]}
       - {motif: do-not-befriend-hothead, refs: ["Amenemope W1:15.13"], note: "do not steal with the heated man, do not befriend a rebel"}
       - {motif: dishonest-messenger-not-sent-again, refs: ["Amenemope W1:15.17"]}
     hints:
@@ -1203,7 +1203,7 @@ units:
     read: ["Amenemope W1:19.10-20.6"]
     tags:
       - {motif: do-not-boast-of-tomorrow, refs: ["Amenemope W1:19.11-19.13"], note: "man does not know what tomorrow is like"}
-      - {motif: man-plans-god-disposes, refs: ["Amenemope W1:19.14-19.17", "Amenemope W1:20.5-20.6"], note: "kt pꜣ ḏd nꜣ rmṯ kt pꜣ jri̯ pꜣ nṯr: one thing is what men say, another what God does; the tongue of man is the steering oar of the boat, the Lord of All is its pilot"}
+      - {motif: man-plans-god-disposes, refs: ["Amenemope W1:19.14-19.16", "Amenemope W1:20.5-20.6"], note: "kt pꜣ ḏd nꜣ rmṯ kt pꜣ jri̯ pꜣ nṯr: one thing is what men say, another what God does; the tongue of man is the steering oar of the boat, the Lord of All is its pilot"}
       - {motif: who-can-say-heart-is-pure, refs: ["Amenemope W1:19.18-19.23"], note: "do not say 'I have no sin'; sin belongs to God, sealed with his finger; there is no perfection in the hand of God"}
       - {motif: tongue-is-rudder-god-is-pilot, refs: ["Amenemope W1:20.4-20.6"]}
     hints:
@@ -1232,11 +1232,11 @@ units:
     version: "pBM EA 10474"
     read: ["Amenemope W1:20.20-21.19"]
     tags:
-      - {motif: corrupt-judge-punished-just-judge-rewarded, refs: ["Amenemope W1:20.21-21.4"], note: "do not confound a man in the law court nor push aside the just; do not attend to the bright garment, nor despise the ragged; take no gift from the strong"}
+      - {motif: corrupt-judge-punished-just-judge-rewarded, refs: ["Amenemope W1:20.21-21.3"], note: "do not confound a man in the law court nor push aside the just; do not attend to the bright garment, nor despise the ragged; take no gift from the strong"}
       - {motif: bribe-blinds-the-wise, refs: ["Amenemope W1:21.3"]}
-      - {motif: no-partiality-to-rich-or-poor, refs: ["Amenemope W1:21.1-21.4"]}
+      - {motif: no-partiality-to-rich-or-poor, refs: ["Amenemope W1:21.1-21.3"]}
       - {motif: truth-a-great-gift-of-god, refs: ["Amenemope W1:21.5-21.6"], note: "mꜣꜥ,t bꜣk ꜥꜣ n nṯr ḏi̯ =f s(j) n mr =f: Maat is a great gift of God; he gives it to whom he loves"}
-      - {motif: do-not-forge-oracles, refs: ["Amenemope W1:21.13-21.16"], note: "do not falsify an oracle on the scroll, do not disturb the plans of God; do not invent for yourself the might of God as though there were no Fate and Fortune"}
+      - {motif: do-not-forge-oracles, refs: ["Amenemope W1:21.13-21.15"], note: "do not falsify an oracle on the scroll, do not disturb the plans of God; do not invent for yourself the might of God as though there were no Fate and Fortune"}
       - {motif: return-goods-to-owners, refs: ["Amenemope W1:21.17-21.19"]}
     hints:
       - "Exod 23:2-3, 6-8; Lev 19:15; Deut 16:19 ('a bribe blinds the eyes of the wise'); Jas 2:1-4 (fine clothes vs. shabby); Prov 2:6 (YHWH gives wisdom)."
@@ -1253,7 +1253,7 @@ units:
       - {motif: trust-god-not-human-protector, refs: ["Amenemope W1:22.1-22.8"], note: "do not say 'find me a strong superior' ... ḥms tw r ꜥ.wj pꜣ nṯr: set yourself in the arms of God; your silence will overthrow them"}
       - {motif: you-know-not-gods-plans, refs: ["Amenemope W1:22.5"], note: "bw rḫ =k nꜣ sḫr.w pꜣ nṯr"}
       - {motif: do-not-repay-evil-wait-for-yhwh, refs: ["Amenemope W1:22.1-22.8"]}
-      - {motif: talebearer-reveals-secrets, refs: ["Amenemope W1:22.11-22.16"], note: "do not empty your belly to everyone ... better a man who keeps his report in his belly"}
+      - {motif: talebearer-reveals-secrets, refs: ["Amenemope W1:22.11-22.15"], note: "do not empty your belly to everyone ... better a man who keeps his report in his belly"}
     hints:
       - "Prov 20:22 ('do not say, I will repay evil; wait for YHWH'); Ps 118:8-9; 146:3; Isa 30:15 ('in quietness and trust'); Exod 14:14 ('you shall be silent'); Deut 33:27 ('underneath are the everlasting arms')."
       - "Prov 11:13; 20:19; 29:11. God's ways unknown: Isa 55:8-9; Eccl 11:5."
@@ -1306,7 +1306,7 @@ units:
     version: "pBM EA 10474"
     read: ["Amenemope W1:24.8-24.19"]
     tags:
-      - {motif: no-stumbling-block-before-blind, refs: ["Amenemope W1:24.9-24.12"], note: "m-jri̯ sbi̯ r bl,ꜣ ... do not laugh at a blind man, nor tease a dwarf, nor injure the lame; do not tease a man in the hand of God"}
+      - {motif: no-stumbling-block-before-blind, refs: ["Amenemope W1:24.9-24.11"], note: "m-jri̯ sbi̯ r bl,ꜣ ... do not laugh at a blind man, nor tease a dwarf, nor injure the lame; do not tease a man in the hand of God"}
       - {motif: mocking-poor-insults-maker, refs: ["Amenemope W1:24.9-24.14"]}
       - {motif: man-is-clay-and-straw-god-the-builder, refs: ["Amenemope W1:24.13-24.14"], note: "jr pꜣ rmṯ ꜥmꜥ ḏꜣjs pꜣ nṯr pꜣ jqd =f: man is clay and straw, God is his builder"}
       - {motif: god-tears-down-and-builds-daily, refs: ["Amenemope W1:24.15-24.17"], note: "he tears down and builds every day; he makes a thousand poor as he wishes, a thousand men overseers"}
