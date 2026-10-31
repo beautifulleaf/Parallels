@@ -328,7 +328,7 @@ reviewed:
     relation: divergence
     record:
       action: [offers the Sun god gold and stones for the patron's life, would offer an earthful of gold as ransom]
-      object: [gold, lapis, carnelian, all seeds, an earthful of gold]
+      object: ['gold, lapis, carnelian, all seeds', an earthful of gold]
       recipient: [the Sun god, God]
       quoted: ['GUŠKIN dā, EN SISKUR=ma=mu EGIR-pa pāi', fa-lan yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-lawi ftadā bihi]
       outcome: [the man is to be given back, not accepted]
