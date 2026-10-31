@@ -166,6 +166,71 @@ new_motifs:
   mayfly-on-the-river: {label: "Image of human life: the mayfly floating on the flood gazes at the sun and is suddenly gone", cluster: death}
   at-some-time-litany: {label: "Litany 'at some time we build a house, at some time we start a family, at some time brothers divide, at some time the river floods' on the transience of all things", cluster: wisdom}
   gods-fix-death-and-life-hide-the-day: {label: "The great gods and the mother of destinies established death and life, but did not reveal the day of death", cluster: death}
+  immortal-looks-like-ordinary-man: {label: "The seeker finds that the immortal looks no different from himself, an ordinary man", cluster: immortality}
+  flood-story-told-as-secret-of-gods: {label: "The flood hero tells his story as a secret (niṣirtu) and mystery of the gods revealed to the questioner", cluster: flood}
+  flood-hero-city-shuruppak: {label: "The flood hero lives in the old city of Šuruppak on the Euphrates, where the gods dwell", cluster: flood}
+  abandon-wealth-save-life: {label: "The divine warning commands: abandon riches, spurn property and save life", cluster: flood}
+  seed-of-all-life-loaded: {label: "The hero is told to put on board 'the seed of all living creatures'", cluster: flood}
+  vessel-roofed-like-apsu: {label: "The boat is to be roofed over like the Apsû, the subterranean waters", cluster: flood}
+  hero-agrees-asks-what-to-tell-people: {label: "The hero accepts the god's command and asks how he should explain himself to the city, people and elders", cluster: flood}
+  deceptive-cover-story-to-citizens: {label: "The god gives the hero a cover story: Enlil hates me, I am going down to the Apsû, and he will rain abundance on you (bread-cakes in the morning, a torrent of wheat in the evening) - an ambiguous promise of the coming flood", cluster: flood}
+  whole-city-helps-build-vessel: {label: "The whole population gathers at the hero's gate to build the boat: carpenter, reed-worker, young and old, rich man bringing bitumen, poor man the tackle", cluster: flood}
+  vessel-is-a-cube: {label: "The boat is cube-shaped: an acre in area, its walls and roof each ten rods", cluster: flood}
+  vessel-six-decks-nine-compartments: {label: "The boat has six decks (seven levels) and its interior is divided into nine compartments, with water-plugs struck in its belly", cluster: flood}
+  bitumen-measured-in-myriads: {label: "Huge measured quantities of bitumen, pitch and oil are poured into the kiln and the hull", cluster: flood}
+  builders-feasted-like-new-year: {label: "The hero slaughters oxen and sheep and gives the workers beer, oil and wine like river water, so they feast as at the New Year festival", cluster: flood}
+  vessel-launched-on-slipway: {label: "The finished boat is launched with difficulty along poles on a slipway until two-thirds is in the water", cluster: flood}
+  silver-and-gold-loaded: {label: "The hero loads all his silver and gold aboard along with the living seed", cluster: flood}
+  craftsmen-saved-in-vessel: {label: "Besides kin and animals, craftsmen of every skill are taken aboard", cluster: flood}
+  god-sets-deadline-for-boarding: {label: "The sun god sets the hero an appointed time: when the bread-cakes and wheat rain down, enter the boat and seal the door", cluster: flood}
+  hero-seals-hatch-himself: {label: "The hero enters the boat and seals the hatch himself, then gives his palace to the man who caulks the boat", cluster: flood}
+  storm-gods-march-before-flood: {label: "Storm gods advance in the black cloud: Adad thunders, Šullat and Haniš go before, Errakal tears out mooring-posts, Ninurta makes the weirs overflow, the Anunnaki raise torches", cluster: flood}
+  storm-darkens-all-light: {label: "The storm turns all that was bright to darkness, so that no one can see another", cluster: flood}
+  gods-frightened-by-flood: {label: "The gods themselves take fright at the deluge they caused and flee up to the heaven of Anu", cluster: flood}
+  gods-cower-like-dogs: {label: "The gods curl up like dogs, crouching in the open", cluster: flood}
+  mother-goddess-laments-her-people: {label: "The mother goddess screams like a woman in labour, lamenting that she spoke evil in the gods' assembly against the people she bore, who now fill the sea like fish", cluster: flood}
+  gods-weep-with-mother-goddess: {label: "The gods weep with the mother goddess, their lips parched with fever", cluster: flood}
+  humans-fill-sea-like-fish: {label: "The drowned people fill the sea like spawn of fish", cluster: flood}
+  flood-ends-on-seventh-day: {label: "On the seventh day the storm abates and the sea grows calm", cluster: flood}
+  all-humanity-turned-to-clay: {label: "After the flood all humankind has returned to clay; the plain is flat as a roof", cluster: flood}
+  hero-opens-window-sees-light: {label: "The flood hero opens a vent or window and light falls on his face", cluster: flood}
+  flood-hero-weeps-at-destruction: {label: "The flood hero kneels and weeps at the sight of the drowned world", cluster: flood}
+  land-emerges-in-fourteen-places: {label: "Looking out, the hero sees land emerge in fourteen places", cluster: flood}
+  mountain-holds-vessel-six-days: {label: "The mountain holds the boat fast day after day for six days", cluster: flood}
+  dove-sent-returns-no-resting-place: {label: "A dove is sent out and returns because it found no resting place", cluster: flood}
+  swallow-sent-returns: {label: "A swallow is sent out and returns for lack of a perch", cluster: flood}
+  raven-does-not-return-waters-receded: {label: "A raven is sent out last; it finds the waters receding, eats, and does not return - the sign that the land is dry", cluster: flood}
+  sacrifice-to-four-winds-on-mountain-peak: {label: "The flood hero sacrifices to the four winds and scatters incense on the mountain top, with sevenfold vessels over reed, cedar and myrtle", cluster: flood}
+  gods-gather-like-flies: {label: "The gods crowd round the sacrifice like flies", cluster: flood}
+  goddess-necklace-of-flies-remember-forever: {label: "The mother goddess raises her lapis necklace (the great flies Anu made) and swears by it to remember the flood days forever", cluster: flood}
+  author-of-flood-excluded-from-offering: {label: "The mother goddess bars the god who caused the flood from the offering, for he acted without counsel", cluster: flood}
+  chief-god-angry-at-survivor: {label: "The chief god sees the boat and is enraged that a living being escaped: 'no man should survive!'", cluster: flood}
+  wise-god-rebukes-flood-god: {label: "The wise god rebukes the chief god for causing the flood without counsel: punish the sinner for his sin, not all; a lion, a wolf, a famine or plague would have sufficed", cluster: flood}
+  alternatives-to-flood-lion-wolf-famine-plague: {label: "Instead of the flood, a lion, a wolf, famine or plague should have diminished the people", cluster: flood}
+  secret-revealed-through-dream: {label: "The wise god claims he did not reveal the gods' secret directly but let the hero see a dream", cluster: flood}
+  flood-hero-and-wife-blessed-made-like-gods: {label: "The chief god enters the boat, leads out the hero and his wife, touches their foreheads and blesses them: they shall be like gods", cluster: flood}
+  flood-hero-settled-at-mouth-of-rivers: {label: "The immortal couple are settled far away at the mouth of the rivers", cluster: flood}
+  no-assembly-of-gods-for-you: {label: "The immortal asks the seeker: who will now assemble the gods for you, that you may find life?", cluster: immortality}
+  sleep-test-for-immortality: {label: "The seeker is challenged to stay awake six days and seven nights, but sleep falls on him at once like a fog", cluster: immortality}
+  loaves-mark-days-asleep: {label: "The immortal's wife bakes a loaf each day the sleeper sleeps and places it by his head, the loaves showing successive staleness as proof of seven days", cluster: immortality}
+  mankind-is-deceitful: {label: "Saying: mankind is deceitful and will deceive you", cluster: wisdom}
+  death-dwells-in-bedchamber: {label: "Death sits in the bedchamber; wherever I turn, there is death", cluster: death}
+  ferryman-banished: {label: "The ferryman who brought the seeker is cursed and banished from the quay", cluster: immortality}
+  hero-washed-and-reclothed-for-return: {label: "The seeker's matted hair is washed, his skins thrown to the sea and he is clothed in a royal robe that will stay new until he reaches home", cluster: purity}
+  wife-urges-parting-gift: {label: "The immortal's wife urges her husband to give the toiling hero something to take home", cluster: immortality}
+  plant-of-rejuvenation-at-bottom-of-sea: {label: "A secret plant like a thorn-bush, found in the Apsû, restores youth: 'the old man becomes young'", cluster: immortality}
+  hero-dives-with-stones-tied-to-feet: {label: "The hero ties heavy stones to his feet, sinks to the depths and plucks the plant, then cuts the stones loose and is cast ashore", cluster: immortality}
+  plan-to-test-plant-on-old-man: {label: "The hero plans to test the plant on an old man in his city before eating it himself", cluster: immortality}
+  snake-steals-plant-of-life: {label: "While the hero bathes in a pool, a snake smells the plant's fragrance, carries it off and sheds its skin", cluster: immortality}
+  snake-sheds-skin-renewal: {label: "The snake sloughs its skin, gaining the renewal the man lost", cluster: immortality}
+  hero-weeps-over-lost-plant: {label: "The hero sits down and weeps: for whom did I toil? I have done a favour to the 'lion of the earth'", cluster: immortality}
+  hero-appeals-to-gods-in-turn-unanswered: {label: "The grieving hero goes alone to the temples of the great gods one after another; the first ones answer him not a word, until the wise god helps", cluster: underworld}
+  ghost-raised-through-chink-like-phantom: {label: "The sun god opens a chink in the earth and brings the dead friend's ghost up like a phantom (zaqīqu)", cluster: underworld}
+  friends-embrace-ghost-and-question-it: {label: "The living hero embraces and kisses the ghost of his friend and begs: 'tell me the order of the netherworld'", cluster: underworld}
+  if-i-tell-you-sit-and-weep: {label: "The ghost hesitates: 'I cannot tell you; if I tell you, sit down and weep'", cluster: underworld}
+  genitals-eaten-by-grubs-filled-with-dust: {label: "The body once delighted in is devoured by grubs like an old beam and filled with dust like a crack in the ground", cluster: underworld}
+  unburied-ghost-finds-no-rest: {label: "The ghost of one whose corpse lies in the open country finds no rest in the netherworld", cluster: underworld}
+  mourning-in-dust: {label: "Mourners cry 'woe' and throw themselves prostrate in the dust", cluster: death}
 units:
   - id: ane-gilg-sb-i-prologue
     tradition: ane-akkadian
@@ -1125,3 +1190,342 @@ units:
       - "A time for everything: Eccl 3:1-8; transience Eccl 1:4, 9:11-12; Ps 90:5-6, 103:15-16, Isa 40:6-8, Job 14:1-2 (man flees like a shadow)."
       - "The hidden hour of death: Eccl 8:8, 9:12; Q 31:34 (no soul knows in what land it will die), 7:34 and 16:61 (an appointed term, ajal, neither delayed nor advanced)."
       - "Folly honoured: Prov 26:1 (honour is not fitting for a fool), Eccl 10:5-7."
+
+  - id: ane-gilg-sb-xi-how-did-you-find-life
+    tradition: ane-akkadian
+    title: "'You are just like me': how did Ūta-napišti find life? (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:1-7"]
+    tags:
+      - {motif: immortal-looks-like-ordinary-man, refs: ["Gilg SB XI:2-4"], note: "minâtūka ul šanâ kī yâtī-ma attā"}
+      - {motif: hero-seeks-immortal-ancestor-for-secret-of-life, refs: ["Gilg SB XI:7"], note: "kīkī tazziz-ma ina puhur ilī balāṭa tešʾû"}
+      - {motif: hero-visits-flood-survivor, refs: ["Gilg SB XI:1"]}
+    hints:
+      - "Enoch and Elijah taken alive (Gen 5:24, 2Kgs 2:11); Q 19:56-57 (Idrīs raised to a high place)."
+
+  - id: ane-gilg-sb-xi-flood-decision-and-warning
+    tradition: ane-akkadian
+    title: "The gods decide on the Deluge; Ea warns through the reed wall: 'demolish the house, build a boat' (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:8-47"]
+    tags:
+      - {motif: flood-story-told-as-secret-of-gods, refs: ["Gilg SB XI:9-10"], note: "luptēka gilgāmeš amāt niṣirti u pirišta ša ilī luqbīka"}
+      - {motif: flood-hero-city-shuruppak, refs: ["Gilg SB XI:11-13"], note: "šurippak ālu ... ina kišād puratti šaknu, ālu šū labir-ma ilū qerbuššu"}
+      - {motif: antediluvian-cities-assigned-to-gods, refs: ["Gilg SB XI:11-13"]}
+      - {motif: divine-decision-to-destroy, refs: ["Gilg SB XI:14"], note: "ana šakān abūbi ubla libbašunu ilū rabûtu"}
+      - {motif: cause-of-the-flood, refs: ["Gilg SB XI:14"], note: "no reason is given in SB XI; Ea later implies a 'sinner' (XI:185-186). Contrast Atrahasis (noise) and Gen 6:5-13 (violence)"}
+      - {motif: divine-council, refs: ["Gilg SB XI:14-19"], note: "Anu, Enlil, Ninurta, Ennugi, Ea"}
+      - {motif: gods-bound-by-oath-to-destroy, refs: ["Gilg SB XI:15-19"], note: "itmā-ma abūšunu ānu ... niššīku ēa ittīšunu tamī-ma"}
+      - {motif: hero-warned-by-deity, refs: ["Gilg SB XI:19-31"], note: "Ea"}
+      - {motif: warning-through-wall, refs: ["Gilg SB XI:20-22"], note: "amāssunu ušannâ ana kikkiši: kikkiš kikkiš igār igār, kikkišu šimē-ma igāru hissas"}
+      - {motif: build-vessel-on-instruction, refs: ["Gilg SB XI:24", "Gilg SB XI:28-31"], note: "uqur bīta bini eleppa"}
+      - {motif: abandon-wealth-save-life, refs: ["Gilg SB XI:25-26"], note: "muššir mešrâmma šeʾi napšāti, makkūra zēr-ma napišta bulliṭ"}
+      - {motif: seed-of-all-life-loaded, refs: ["Gilg SB XI:27"], note: "šūlī-ma zēr napšāti kalāma ana libbi eleppi"}
+      - {motif: animals-aboard, refs: ["Gilg SB XI:27"]}
+      - {motif: vessel-dimensions-given, refs: ["Gilg SB XI:29-30"], note: "lū mindudā minâtūša, lū mithur rupussa u mūrakša"}
+      - {motif: vessel-roofed-like-apsu, refs: ["Gilg SB XI:31"], note: "kīma apsî šâši ṣullilši"}
+      - {motif: hero-agrees-asks-what-to-tell-people, refs: ["Gilg SB XI:32-35"], note: "attaʾid anāku eppuš; kī-mi lūpul āla ummāna u šībūti"}
+      - {motif: flood-hero-speaks-before-flood, refs: ["Gilg SB XI:35-47"], note: "he speaks to the city, but with a cover story, not a warning"}
+      - {motif: deceptive-cover-story-to-citizens, refs: ["Gilg SB XI:38-47"], note: "ellil izērannī-ma ... urrad-ma ana apsî ... ušaznanakkunūši nuhšam-ma ... ina šēr kukkī ina līlâti ušaznanakkunūši šamût kibāti"}
+      - {motif: bread-rained-from-heaven, refs: ["Gilg SB XI:46-47"], note: "ironic: rain of bread-cakes (kukkū) and wheat (kibātu), punning on the coming downpour"}
+    hints:
+      - "Gen 6:13-14 (God tells Noah the end of all flesh; make an ark), 6:18-21 (bring in your family and two of every kind), Gen 7:1-4; Q 11:36-37 and 23:27 (make the ark under our eyes and by our revelation)."
+      - "Contrast: Noah warns/preaches to his people (Q 11:25-26, 71:1-20; 2Pet 2:5 'herald of righteousness'), while Ūta-napišti is told to deceive them."
+      - "Gen 6:15-16: 300 x 50 x 30 cubits, roof (tsohar), three decks; the SB boat is a cube."
+      - "Abandon possessions to save life: compare Lot's flight (Gen 19:17), Matt 16:25-26."
+
+  - id: ane-gilg-sb-xi-boat-built-and-loaded
+    tradition: ane-akkadian
+    title: "The boat built: a cube of six decks, bitumen by the myriad, the builders feasted; loading and sealing the hatch (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:48-96"]
+    tags:
+      - {motif: whole-city-helps-build-vessel, refs: ["Gilg SB XI:48-56"], note: "ina bāb atar-hasīs ipahhur mātu; naggāru naši pāssu ... šībūtu izabbilū pitilta, šarrû naši kupra, lapnu ... hišihta ubla"}
+      - {motif: people-mock-builder, refs: ["Gilg SB XI:48-56"], note: "contrast: here the people help rather than mock"}
+      - {motif: ark-of-planks-and-palm-fibre, refs: ["Gilg SB XI:54"], note: "šībūtu izabbilū pitilta: rope of palm-fibre"}
+      - {motif: vessel-dimensions-given, refs: ["Gilg SB XI:57-59"], note: "ikû kippassa ešer nindanā šaqqâ igārātūša, ešer nindanā imtahir kibir muhhīša"}
+      - {motif: vessel-is-a-cube, refs: ["Gilg SB XI:58-59"]}
+      - {motif: vessel-multiple-decks-door-window, refs: ["Gilg SB XI:61-63", "Gilg SB XI:94"], note: "urtaggibši ana šeššīšu, aptarassi ana sebêšu, qerbīssa aptaras ana tišêšu"}
+      - {motif: vessel-six-decks-nine-compartments, refs: ["Gilg SB XI:61-64"], note: "sikkāt mê ina qablīša amhaṣ"}
+      - {motif: vessel-sealed-with-pitch, refs: ["Gilg SB XI:55", "Gilg SB XI:66-67"], note: "šalāš šār kupra attabak ana kīri, šalšat šār iṭṭâ attadi ana libbi"}
+      - {motif: bitumen-measured-in-myriads, refs: ["Gilg SB XI:66-70"]}
+      - {motif: builders-feasted-like-new-year, refs: ["Gilg SB XI:71-75"], note: "ana lā mīni uṭṭabbih alpī ... isinna ippušū kī ūmī akītim-ma"}
+      - {motif: vessel-launched-on-slipway, refs: ["Gilg SB XI:76-80"], note: "lām šamši rabê eleppu gamrat; girimadê nittabbalu ... šinipâssu"}
+      - {motif: silver-and-gold-loaded, refs: ["Gilg SB XI:81-83"], note: "mimma īšû eṣēnši kaspa ... hurāṣa"}
+      - {motif: seed-of-all-life-loaded, refs: ["Gilg SB XI:84"], note: "zēr napšāti kalāma"}
+      - {motif: family-saved, refs: ["Gilg SB XI:85"], note: "kala kimtīya u sallatīya"}
+      - {motif: animals-aboard, refs: ["Gilg SB XI:86"], note: "būl ṣēri umām ṣēri: no pairing specified"}
+      - {motif: craftsmen-saved-in-vessel, refs: ["Gilg SB XI:86"], note: "mārī ummânī kalīšunu"}
+      - {motif: contents-of-the-ark, refs: ["Gilg SB XI:81-86"]}
+      - {motif: description-of-the-ark, refs: ["Gilg SB XI:57-70"]}
+      - {motif: god-sets-deadline-for-boarding, refs: ["Gilg SB XI:87-91"], note: "adanna šamaš iškunam-ma ... erub-ma ana libbi eleppim-ma pihe bābka"}
+      - {motif: sign-to-board, refs: ["Gilg SB XI:87-93"], note: "the rain of bread-cakes and wheat; 'the weather was frightening to behold'"}
+      - {motif: hero-seals-hatch-himself, refs: ["Gilg SB XI:94-96"], note: "ērub ana libbi eleppim-ma aptehe bābī; ana puzur-ellil malāhi ēkalla attadin"}
+      - {motif: god-shuts-the-door, refs: ["Gilg SB XI:89", "Gilg SB XI:94"], note: "contrast: here the hero seals the door at the god's command"}
+    hints:
+      - "Gen 6:14-16 (gopher wood, qinnim, pitch inside and out, three decks, door, tsohar), 6:22 and 7:5 (Noah did all as commanded); Gen 7:1-3, 7:7-9, 7:13-16 (family and animals enter, 'YHWH shut him in'); Q 11:40 (load two of every kind and your family), 11:38 (the people mock), 54:13 (planks and nails/fibres), 23:27 (the oven boils as signal)."
+      - "Seven-day wait and the signal: Gen 7:4, 7:10; the boiling oven (fāra l-tannūr) Q 11:40, 23:27."
+
+  - id: ane-gilg-sb-xi-the-deluge
+    tradition: ane-akkadian
+    title: "The Deluge: the black cloud, the gods cower like dogs, Bēlet-ilī's lament; seven days; the vent opened (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:97-139"]
+    tags:
+      - {motif: storm-gods-march-before-flood, refs: ["Gilg SB XI:97-105"], note: "urpatu ṣalimtu, addu ina libbīša irtammam-ma ... tarkullī errakal unassah, illak ninurta mihrī ušardi, anunnakkū iššû dipārāti"}
+      - {motif: deity-preceded-and-followed-by-storm-attendants, refs: ["Gilg SB XI:100-101"], note: "šullat u haniš illakū ina mahri"}
+      - {motif: waters-from-above-and-below, refs: ["Gilg SB XI:98-103"], note: "rain-storm from the sky and weirs (mihrū) overflowing below"}
+      - {motif: storm-darkens-all-light, refs: ["Gilg SB XI:106-107", "Gilg SB XI:112-113"], note: "mimma namru ana daʾummati utterru ... ul immar ahu ahāšu"}
+      - {motif: universal-destruction, refs: ["Gilg SB XI:108-113", "Gilg SB XI:135"], note: "kīma qabli eli nišī ubâʾu [kašūšu]"}
+      - {motif: gods-frightened-by-flood, refs: ["Gilg SB XI:114-115"], note: "ilū iptalhū abūbam-ma, ittahsū ītelû ana šamê ša ānu"}
+      - {motif: gods-cower-like-dogs, refs: ["Gilg SB XI:116"], note: "ilū kīma kalbī kunnunū ina kamâti rabṣū"}
+      - {motif: gods-flee-in-terror, refs: ["Gilg SB XI:114-116"]}
+      - {motif: mother-goddess-laments-her-people, refs: ["Gilg SB XI:117-124"], note: "išassi ištar kīma ālitti, unambi bēlet-ilī ... aššu anāku ina puhur ilī aqbû lemutta ... anākum-ma ullada nišūʾā-ma"}
+      - {motif: goddess-laments-destruction-of-humans, refs: ["Gilg SB XI:117-124"]}
+      - {motif: god-regrets-creating, refs: ["Gilg SB XI:119-123"], note: "the goddess regrets her own vote for destruction, not the creation itself; ūmu ullû ana ṭiṭṭi lū itūr-ma"}
+      - {motif: god-as-woman-in-labor, refs: ["Gilg SB XI:117", "Gilg SB XI:130-133b"], note: "kīma ālitti; the sea that fought kīma hayyalti"}
+      - {motif: humans-fill-sea-like-fish, refs: ["Gilg SB XI:124"], note: "kī mārī nūnī umallâ tâmtam-ma"}
+      - {motif: gods-weep-with-mother-goddess, refs: ["Gilg SB XI:125-127"], note: "šabbā šaptāšunu leqâ buhrēti"}
+      - {motif: flood-lasts-seven-days-and-nights, refs: ["Gilg SB XI:128-129"], note: "šeššet urrī u sebe mušâti illak šāru abūbu mehû"}
+      - {motif: flood-ends-on-seventh-day, refs: ["Gilg SB XI:130-133b"], note: "sebû ūmu ina kašādi ... inūh tâmtu, ušharrir imhullu abūbu ikla"}
+      - {motif: how-the-flood-waters-end, refs: ["Gilg SB XI:130-134"], note: "the gale relents and the sea grows quiet"}
+      - {motif: all-humanity-turned-to-clay, refs: ["Gilg SB XI:135-136"], note: "kullat tenēšēti itūrā ana ṭiṭṭi, kīma ūri mithurat ušallu"}
+      - {motif: hero-opens-window-sees-light, refs: ["Gilg SB XI:137"], note: "apte nappašam-ma ṣētu imtaqut eli dūr appīya"}
+      - {motif: sun-god-enters-ark, refs: ["Gilg SB XI:137"], note: "ṣētu, sunlight, falls on his face through the vent"}
+      - {motif: vessel-multiple-decks-door-window, refs: ["Gilg SB XI:137"]}
+      - {motif: flood-hero-weeps-at-destruction, refs: ["Gilg SB XI:138-139"], note: "uktammis-ma attašab abakki"}
+    hints:
+      - "Gen 7:11-12 (fountains of the deep and windows of heaven), 7:17-24 (all flesh died, waters prevailed 150 days), 8:1 (God remembered Noah, wind), 8:6 (Noah opened the window, ḥallon); Q 54:11-12 (gates of heaven opened with pouring water, earth burst with springs), 11:42 (waves like mountains), 11:44 (earth swallow your water; sky withhold)."
+      - "Genesis has forty days of rain (Gen 7:12, 7:17) against six days and seven nights here; God's regret Gen 6:6-7 versus the goddess's regret; the 'like a woman in labour' image Isa 42:14."
+      - "No grief of a deity over the drowned in Genesis or Quran: contrast Q 11:37 ('do not address me about the wrongdoers'), 11:45-47 (Noah's plea for his son)."
+
+  - id: ane-gilg-sb-xi-landing-birds-sacrifice
+    tradition: ane-akkadian
+    title: "Mount Nimuš; dove, swallow and raven; the sacrifice; the gods gather like flies (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:140-163"]
+    tags:
+      - {motif: land-emerges-in-fourteen-places, refs: ["Gilg SB XI:140-141"], note: "ana erbēšerâ ītelâ nagû"}
+      - {motif: vessel-rests-on-mountain, refs: ["Gilg SB XI:142-146"], note: "ana šadî nimuš ītemid eleppu (formerly read Niṣir)"}
+      - {motif: mountain-holds-vessel-six-days, refs: ["Gilg SB XI:143-146"], note: "šadû nimuš eleppa iṣbat-ma ana nâši ul iddin, one day ... a sixth day"}
+      - {motif: end-of-the-flood-voyage, refs: ["Gilg SB XI:142-160"]}
+      - {motif: bird-release, refs: ["Gilg SB XI:147-156"], note: "on the seventh day: summatu, sinuntu, arēbu"}
+      - {motif: dove-sent-returns-no-resting-place, refs: ["Gilg SB XI:148-150"], note: "ušēṣī-ma summata umaššar ... manzāzu ul īpâššim-ma issahra"}
+      - {motif: swallow-sent-returns, refs: ["Gilg SB XI:151-153"], note: "sinunta"}
+      - {motif: raven-does-not-return-waters-receded, refs: ["Gilg SB XI:154-156"], note: "illik arēbum-ma qarūra ša mê īmur-ma ikkal išahhi itarri ul issahra"}
+      - {motif: raven-sent-first, refs: ["Gilg SB XI:154-156"], note: "contrast: in SB XI the raven is sent last and its not returning is the good sign"}
+      - {motif: wind-abates-waters, refs: ["Gilg SB XI:155"], note: "loose: the waters seen receding (qarūra ša mê)"}
+      - {motif: sacrifice-after-flood, refs: ["Gilg SB XI:157-160"], note: "ušēṣī-ma ana erbet šārī attaqi niqâ"}
+      - {motif: blessing-on-descent, refs: ["Gilg SB XI:157"], note: "ušēṣī: he brings out (the offering) on leaving the boat"}
+      - {motif: sacrifice-to-four-winds-on-mountain-peak, refs: ["Gilg SB XI:157-160"], note: "aškun surqinna ina muhhi ziqqurrat šadî, sebet u sebet adagurra uktīn ... qanâ erēna u asa"}
+      - {motif: incense-and-juniper-offered, refs: ["Gilg SB XI:158-160"]}
+      - {motif: deity-smells-offering, refs: ["Gilg SB XI:161-162"], note: "ilū īṣinū irīša, ilū īṣinū irīša ṭāba"}
+      - {motif: gods-gather-like-flies, refs: ["Gilg SB XI:163"], note: "ilū kīma zumbē eli bēl niqî iptahrū"}
+    hints:
+      - "Gen 8:4 (the ark rests on the mountains of Ararat), 8:5 (mountain tops seen), 8:6-12 (raven sent out goes to and fro; dove finds no resting place, returns; then olive leaf; then does not return); Q 11:44 (the ark settled on al-Jūdī)."
+      - "Gen 8:20-21: Noah's altar, burnt offerings of every clean animal and bird, 'YHWH smelled the pleasing odour' (reaḥ ha-niḥoaḥ) - compare irīša ṭāba; the gods as flies has no biblical counterpart."
+      - "Seven days of waiting: Gen 8:10, 8:12 (seven more days)."
+
+  - id: ane-gilg-sb-xi-necklace-enlil-ea-immortality
+    tradition: ane-akkadian
+    title: "The lapis necklace; Enlil's rage; Ea's rebuke; Ūta-napišti and his wife made like gods (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:164-206"]
+    tags:
+      - {motif: goddess-necklace-of-flies-remember-forever, refs: ["Gilg SB XI:164-167"], note: "išši zumbē rabûti ša ānu īpušu kī ṣūhīšu: ilū annûtu lū uqnî kišādīya, ūmī annûti luhsusam-ma ana dāriš ay amši"}
+      - {motif: sign-in-sky, refs: ["Gilg SB XI:165-167"], note: "the necklace is a token of remembrance, not stated to be in the sky; the identification with the rainbow is a modern proposal"}
+      - {motif: bow-in-cloud-reminds-god, refs: ["Gilg SB XI:166-167"], note: "loose: a divine token by which the deity will remember the flood forever"}
+      - {motif: promise-never-again, refs: ["Gilg SB XI:167"], note: "implicit only: luhsusam-ma ana dāriš ay amši"}
+      - {motif: author-of-flood-excluded-from-offering, refs: ["Gilg SB XI:168-171"], note: "ellil ai illika ana surqinni aššu lā imtalkū-ma iškunu abūbi"}
+      - {motif: chief-god-angry-at-survivor, refs: ["Gilg SB XI:172-176"], note: "īmur eleppam-ma īteziz ellil ... ayyānum-ma uṣi napištu, ay ibluṭ mamman ina karāši"}
+      - {motif: wise-god-rebukes-flood-god, refs: ["Gilg SB XI:179-187"], note: "attā apkal ilī qurādu, kīkī lā tamtalik-ma abūba taškun; bēl arni emid hīṭāšu, bēl gillati emid gillassu; rummi ay ibbatiq šudud ay irmu"}
+      - {motif: individual-responsibility-for-sin, refs: ["Gilg SB XI:185-186"], note: "on him who sins lay his sin"}
+      - {motif: alternatives-to-flood-lion-wolf-famine-plague, refs: ["Gilg SB XI:188-195"], note: "ammaku taškunu abūba nēšu litbâm-ma ... barbaru ... hušahhu ... erra litbâm-ma"}
+      - {motif: four-evil-judgments, refs: ["Gilg SB XI:188-195"], note: "lion, wolf, famine and Erra (plague) as lesser punishments"}
+      - {motif: future-of-humankind-after-the-flood, refs: ["Gilg SB XI:185-195"]}
+      - {motif: secret-revealed-through-dream, refs: ["Gilg SB XI:196-197"], note: "anāku ul aptâ pirišti ilī rabûti, atra-hasīs šunata ušabrīšumma pirišti ilī išme"}
+      - {motif: flood-hero-and-wife-blessed-made-like-gods, refs: ["Gilg SB XI:199-204"], note: "iṣbat qātīyā-ma uštēlânni ... ilput pūtnī-ma ... ikarrabannâši: ina pāna ūta-napišti amēlūtum-ma, eninnā-ma ... lū emû kīma ilī nâšim-ma"}
+      - {motif: blessing-on-descent, refs: ["Gilg SB XI:202"]}
+      - {motif: flood-hero-granted-eternal-life, refs: ["Gilg SB XI:204"]}
+      - {motif: flood-hero-settled-at-mouth-of-rivers, refs: ["Gilg SB XI:205-206"], note: "lū ašib-ma ūta-napišti ina rūqi ina pî nārāti"}
+      - {motif: flood-hero-settled-in-dilmun, refs: ["Gilg SB XI:205-206"], note: "here 'at the mouth of the rivers', far away"}
+      - {motif: seventh-patriarch-taken-by-god, refs: ["Gilg SB XI:204-206"], note: "loose analogue: a man removed from humankind to divine life"}
+      - {motif: how-noahs-story-ends, refs: ["Gilg SB XI:199-206"]}
+    hints:
+      - "Gen 8:21-22 and 9:8-17: God's promise never again to curse the ground or flood the earth, the covenant and the bow in the cloud 'that I may remember' (9:15-16) - compare the necklace 'that I may remember these days and never forget'."
+      - "Gen 9:1 (God blessed Noah and his sons); Q 11:48 ('descend with peace from us and blessings on you')."
+      - "Each punished for his own sin: Deut 24:16, Ezek 18:4, 18:20, Jer 31:29-30; Abraham's plea Gen 18:23-25 ('will you sweep away the righteous with the wicked?'); Q 6:164, 17:15, 35:18 (no bearer bears another's burden)."
+      - "Lesser punishments - sword, famine, wild beasts, plague: Ezek 14:12-21 (with Noah named, 14:14), Lev 26:22-26, 2Sam 24:13."
+      - "Revelation through a dream: Num 12:6; Job 33:15-16."
+
+  - id: ane-gilg-sb-xi-sleep-test
+    tradition: ane-akkadian
+    title: "The sleep test: seven loaves mark seven days asleep (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:207-246"]
+    tags:
+      - {motif: no-assembly-of-gods-for-you, refs: ["Gilg SB XI:207-208"], note: "mannu ilī upahharakkum-ma balāṭa ša tubaʾʾû tuttâ attā"}
+      - {motif: sleep-test-for-immortality, refs: ["Gilg SB XI:209-214"], note: "ē tattīl šeššet urrī u sebe mušâti ... šittu kīma imbari inappuš elīšu"}
+      - {motif: hero-overcome-by-supernatural-sleep, refs: ["Gilg SB XI:210-214"]}
+      - {motif: mankind-is-deceitful, refs: ["Gilg SB XI:220"], note: "raggat amelūtu iraggigki"}
+      - {motif: loaves-mark-days-asleep, refs: ["Gilg SB XI:221-241"], note: "ištât šābulat kurummassu, šanītu muššukat, šaluštu raṭbat, rebūtu ipteṣi, hamuštu šīpa ittadi, šeduštu bašlat, sebūtu ina pēttim-ma"}
+      - {motif: wife-urges-parting-gift, refs: ["Gilg SB XI:215-218"], note: "lupussū-ma liggeltâ amēlu, harrān illika litūr ina šulmi"}
+      - {motif: death-dwells-in-bedchamber, refs: ["Gilg SB XI:243-246"], note: "ekkēmu; ina bīt mayyālīya ašib mūtu, u ašar pānīya luškun šū mūtum-ma"}
+      - {motif: death-reaches-even-lofty-towers, refs: ["Gilg SB XI:245-246"], note: "wherever I turn, there is death"}
+      - {motif: sleep-of-death, refs: ["Gilg SB XI:209-232"], note: "interpretive: sleep, death's brother, defeats the seeker of life"}
+    hints:
+      - "Q 2:259 (the man made to die a hundred years, whose food and drink had not spoiled, and his donkey) and Q 18:19, 18:25 (the sleepers of the cave: 'we stayed a day or part of a day'); compare 1Kgs 19:5-8 (bread-cake by Elijah's head)."
+      - "Death comes up into our windows: Jer 9:20; 'wherever you are, death will find you': Q 4:78, 62:8."
+
+  - id: ane-gilg-sb-xi-washing-and-plant
+    tradition: ane-akkadian
+    title: "Ur-šanabi banished; Gilgameš washed and robed; the secret plant of rejuvenation (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:247-300"]
+    tags:
+      - {motif: ferryman-banished, refs: ["Gilg SB XI:247-249"], note: "ur-šanābi kāru liddīka nēberu lizērka"}
+      - {motif: hero-washed-and-reclothed-for-return, refs: ["Gilg SB XI:250-270"], note: "malêšu ina mê kīma elli limsi, liddi maškīšū-ma libil tâmtu ... tēdīqa lū labiš ... edēšu līdiš"}
+      - {motif: hero-washes-and-dons-clean-garments, refs: ["Gilg SB XI:262-267"]}
+      - {motif: clothes-did-not-wear-out, refs: ["Gilg SB XI:259-261", "Gilg SB XI:268-270"], note: "tēdīqu šīpa ay iddī-ma edēšu līdiš: the robe will stay new until he reaches home"}
+      - {motif: wife-urges-parting-gift, refs: ["Gilg SB XI:273-275"], note: "mīnâ tattannaššum-ma itâr ana mātīšu"}
+      - {motif: flood-story-told-as-secret-of-gods, refs: ["Gilg SB XI:281-282"], note: "the same formula introduces the plant"}
+      - {motif: plant-of-rejuvenation-at-bottom-of-sea, refs: ["Gilg SB XI:283-286", "Gilg SB XI:295-296"], note: "šammu šū kīma eddetti ... sihilšu kīma amurdinnim-ma; šammu nikitti ša amēli ina libbīšu ikaššadu napšassu; XI:286 broken, translation restores 'you'll be again as in your youth'"}
+      - {motif: plant-and-water-of-life, refs: ["Gilg SB XI:283-300"]}
+      - {motif: tree-of-life, refs: ["Gilg SB XI:283-300"], note: "loose: a plant giving renewed life rather than eternal life"}
+      - {motif: hero-dives-with-stones-tied-to-feet, refs: ["Gilg SB XI:288-293"], note: "urakkis abnī kabtūti ... ildudūšū-ma ana apsî ... tâmtu issukaššu ana kibrīša"}
+      - {motif: plan-to-test-plant-on-old-man, refs: ["Gilg SB XI:297-300"], note: "lūšakil šībam-ma šamma lultuk, šumma šību iṣṣahir amēlu anāku lūkul-ma lutūr ana ša ṣuhrīyā-ma"}
+    hints:
+      - "The tree of life guarded so that man may not 'eat and live forever' (Gen 3:22-24); 'your youth renewed like the eagle's' Ps 103:5; Job 33:25."
+      - "Garments that did not wear out on the long journey: Deut 8:4, 29:4; Neh 9:21."
+      - "Q 18:60-82: Moses and his servant at the meeting of the two seas lose a fish that 'took its way into the sea' - often compared with the plant and the snake, and the waters of life of the Alexander romance."
+
+  - id: ane-gilg-sb-xi-snake-and-return
+    tradition: ane-akkadian
+    title: "The snake steals the plant and sheds its skin; return to Uruk and its wall (Gilgameš SB XI)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB XI:301-328"]
+    tags:
+      - {motif: journey-stages-formula, refs: ["Gilg SB XI:301-302", "Gilg SB XI:319-320"]}
+      - {motif: snake-steals-plant-of-life, refs: ["Gilg SB XI:303-306"], note: "īmur-ma būra ... urid ana libbim-ma mê irammuk; ṣerru īteṣin nipiš šammi, [šaqumm]iš īlâm-ma šamma išši"}
+      - {motif: snake-sheds-skin-renewal, refs: ["Gilg SB XI:307"], note: "ina târīšu ittadi qulipta"}
+      - {motif: serpent-tempter, refs: ["Gilg SB XI:305-307"], note: "loose: a serpent robs man of life-giving vegetation; it does not speak or tempt"}
+      - {motif: hero-weeps-over-lost-plant, refs: ["Gilg SB XI:308-318"], note: "ana mannīya ināhā idāya ... ul aškun dumqa ana ramnīya, ana nēši ša qaqqari dumqa ētepuš"}
+      - {motif: sleepless-toil-brings-nothing, refs: ["Gilg SB XI:311-313"]}
+      - {motif: walk-around-city-wall-and-inspect, refs: ["Gilg SB XI:323-326"], note: "repeats I:18-21: elī-ma ur-šanabi ina muhhi dūri ša uruk itallak"}
+      - {motif: seven-sages-laid-foundations, refs: ["Gilg SB XI:326"]}
+      - {motif: city-area-measured, refs: ["Gilg SB XI:327-328"]}
+    hints:
+      - "The serpent and lost immortality: Gen 3:1-5, 3:22-24 (the way to the tree of life barred); the serpent's renewal by skin-shedding, compare Isa 65:25 (dust the serpent's food)."
+      - "Return to the city wall framing the epic: Ps 48:13-14; Neh 12:27-43 (procession on the walls)."
+
+  - id: ane-gilg-sb-xii-ball-falls-instructions
+    tradition: ane-akkadian
+    title: "The ball and mallet fall into the Netherworld; Gilgameš's instructions to Enkidu (Gilgameš SB XII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Standard Babylonian (Akkadian rendering of the Sumerian Bilgames and the Netherworld)"
+    read: ["Gilg SB XII:1-30"]
+    tags:
+      - {motif: precious-object-falls-into-netherworld, refs: ["Gilg SB XII:1-5"], note: "ūma pukku ana erṣeti imqutanni, mikkêʾa ana erṣeti imqutanni"}
+      - {motif: who-will-bring-up-from-netherworld, refs: ["Gilg SB XII:1-5"]}
+      - {motif: servant-volunteers-for-perilous-descent, refs: ["Gilg SB XII:6-9"], note: "bēlī ... ūma pukka ultu erṣeti anāku ušellâkka"}
+      - {motif: netherworld-taboos-instructed, refs: ["Gilg SB XII:11-27"], note: "ṣubāta zakâ lā taltabbiš ... šaman pūri ṭāba lā tappašiš ... tilpāna ... šabbiṭa ... šēnī ... rigma ... aššatka ša tarammu lā tanaššiq ..."}
+      - {motif: dead-recognize-living-stranger, refs: ["Gilg SB XII:13-16"], note: "kīma ubārātā-ma uʾaddûka; ana irīšīšu ipahhurūka"}
+      - {motif: outcry-detains-in-netherworld, refs: ["Gilg SB XII:27"], note: "tazzimti erṣeti iṣabbatka"}
+      - {motif: naked-mother-goddess-of-underworld-lies, refs: ["Gilg SB XII:28-30"], note: "ša ṣallat ummi ninazu, būdāša ellētu ṣubāta ul kuttumā, irassa kī pūr šappati"}
+    hints:
+      - "Sheol as silence: Ps 94:17, 115:17; the dead do not praise: Isa 38:18."
+
+  - id: ane-gilg-sb-xii-enkidu-seized
+    tradition: ane-akkadian
+    title: "Enkidu breaks every taboo and the Netherworld seizes him (Gilgameš SB XII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Standard Babylonian (Akkadian rendering of the Sumerian Bilgames and the Netherworld)"
+    read: ["Gilg SB XII:31-54"]
+    tags:
+      - {motif: netherworld-taboos-instructed, refs: ["Gilg SB XII:31-46"], note: "ana aširti gilgāmeš ul išdud: each prohibition broken in turn"}
+      - {motif: dead-recognize-living-stranger, refs: ["Gilg SB XII:33-38"]}
+      - {motif: outcry-detains-in-netherworld, refs: ["Gilg SB XII:47"]}
+      - {motif: naked-mother-goddess-of-underworld-lies, refs: ["Gilg SB XII:48-50"]}
+      - {motif: dead-seize-the-living, refs: ["Gilg SB XII:51-54"], note: "erṣetu iṣbassu"}
+      - {motif: death-not-by-demon-or-battle-but-netherworld, refs: ["Gilg SB XII:52-54"], note: "namtar ul iṣbassu asakku ul iṣbassu ... ašar tāhāz zikarī ul imqut erṣetu iṣbassu"}
+      - {motif: earth-swallows-rebels, refs: ["Gilg SB XII:51-54"], note: "loose: a living man held fast by the earth"}
+    hints:
+      - "Korah swallowed alive into Sheol (Num 16:30-33); 'Sheol has enlarged its throat' Isa 5:14."
+
+  - id: ane-gilg-sb-xii-appeal-and-ghost-raised
+    tradition: ane-akkadian
+    title: "Gilgameš appeals to Enlil, Sîn and Ea; Šamaš raises Enkidu's ghost (Gilgameš SB XII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Standard Babylonian (Akkadian rendering of the Sumerian Bilgames and the Netherworld)"
+    read: ["Gilg SB XII:55-87"]
+    tags:
+      - {motif: hero-appeals-to-gods-in-turn-unanswered, refs: ["Gilg SB XII:55-79"], note: "ana ēkur bīt ellil ēdiššīšu ittalak ... abu ellil amāta ul īpulšu ... abu sîn [amāta ul īpulšu] ... abu ēa ..."}
+      - {motif: wise-god-helps-where-chief-god-refuses, refs: ["Gilg SB XII:79-83"]}
+      - {motif: death-not-by-demon-or-battle-but-netherworld, refs: ["Gilg SB XII:59-62", "Gilg SB XII:67-70", "Gilg SB XII:75-78"]}
+      - {motif: hole-opened-to-netherworld, refs: ["Gilg SB XII:82-87"], note: "takkap erṣeti iptē-ma"}
+      - {motif: ghost-raised-through-chink-like-phantom, refs: ["Gilg SB XII:83", "Gilg SB XII:86-87"], note: "utukka ša enkīdu kī zaqīqi ultu erṣeti uštēlâ"}
+      - {motif: necromancy-practiced-by-king, refs: ["Gilg SB XII:82-87"], note: "loose: the king obtains a dead man's ghost to question it, by divine help"}
+      - {motif: threefold-repeated-episode, refs: ["Gilg SB XII:57-78"]}
+    hints:
+      - "Saul and the medium of En-dor: 1Sam 28:7-19 (Samuel's ghost brought up 'from the earth', 28:13-15: 'why have you disturbed me?')."
+      - "God answered him not: 1Sam 28:6 (neither by dreams, Urim nor prophets)."
+
+  - id: ane-gilg-sb-xii-order-of-netherworld
+    tradition: ane-akkadian
+    title: "'Tell me the order of the Netherworld': the fates of the dead (Gilgameš SB XII)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: "Standard Babylonian (Akkadian rendering of the Sumerian Bilgames and the Netherworld)"
+    read: ["Gilg SB XII:88-153"]
+    tags:
+      - {motif: friends-embrace-ghost-and-question-it, refs: ["Gilg SB XII:88-91"], note: "innedrū-ma uttaššaqū ... qibâ ibrī ûrti erṣeti ša tāmuru qibâ"}
+      - {motif: order-of-the-netherworld-revealed, refs: ["Gilg SB XII:90-153"]}
+      - {motif: if-i-tell-you-sit-and-weep, refs: ["Gilg SB XII:92-95"], note: "ul aqabbâkkum ibrī ... attā tišab biki"}
+      - {motif: genitals-eaten-by-grubs-filled-with-dust, refs: ["Gilg SB XII:96-99"], note: "išara ša talputū ... kī gušūri labīri kalmatu ikkal; ūra ... kī nigiṣ erṣeti epera mali"}
+      - {motif: body-eaten-by-worms-in-grave, refs: ["Gilg SB XII:96-99"]}
+      - {motif: mourning-in-dust, refs: ["Gilg SB XII:100-101"], note: "ūʾa iqbīma ina epri ittapalsih"}
+      - {motif: fate-of-dead-graded-by-number-of-sons, refs: ["Gilg SB XII:102-116"], note: "one son: a peg in his wall, he weeps; two: sits on two bricks eating bread; ... five: like a fine scribe enters the palace; seven: sits on a throne among the gods (largely restored)"}
+      - {motif: eunuch-childless-and-unmarried-dead-wretched, refs: ["Gilg SB XII:117-118"], note: "kī šurinni damqi tubqa ahiz (the subject, palace eunuch, restored)"}
+      - {motif: death-by-lion-or-fall-in-afterlife, refs: ["Gilg SB XII:144-145"], note: "ša ina tarkulli mahṣu: struck by a mooring-pole"}
+      - {motif: dead-on-bed-of-gods, refs: ["Gilg SB XII:146-147"], note: "ša mūt ilīšu imūtu ina mayyāl ilī ṣalil-ma mê zakûti išatti"}
+      - {motif: fallen-in-battle-head-unheld, refs: ["Gilg SB XII:148-149"], note: "SB: abūšu u ummašu rēssu našû aššassu ina muhhīšu ibakkâšu - his parents honour him (the reverse of the Sumerian)"}
+      - {motif: unburied-ghost-finds-no-rest, refs: ["Gilg SB XII:150-151"], note: "ša šalamtašu ina ṣēri nadât ... eṭemmašu ina erṣeti ul ṣalil"}
+      - {motif: ghost-without-funerary-offerings-eats-scraps, refs: ["Gilg SB XII:152-153"], note: "ša eṭemmašu pāqida lā īšû ... šukkulāt diqāri kusīpāt akali ša ina sūqi nadâ ikkal"}
+    hints:
+      - "The unburied and their fate: 1Kgs 14:11, Jer 22:19, Isa 14:19-20; 'blessed is the man whose quiver is full' Ps 127:3-5; the eunuch's consolation Isa 56:3-5 ('a name better than sons and daughters')."
+      - "Dust on the head in grief: Josh 7:6, Job 2:12; grubs and worms Isa 14:11, 66:24."
+      - "The rich man and Lazarus (Luke 16:19-31): a report of the fates of the dead."
