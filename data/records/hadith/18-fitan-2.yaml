@@ -1,0 +1,1650 @@
+# Observation records, hadith chunk 18 (al-Jāmiʿ al-Kāmil book 65, the signs of the Hour, pp. 8415-8525).
+records:
+- id: h-8415.1-bowl
+  ref: Jāmiʿ 65:8415.1
+  unit: hadith-65-nations-call-to-the-bowl
+  agent: the nations
+  action: call one another against the believers
+  instrument: like eaters to their bowl
+  quoted: tadāʿā l-akalatu ilā qaṣʿatihā; ghuthāʾ ka-ghuthāʾ al-sayl
+  outcome: believers many but froth of the torrent
+- id: h-8415.1-wahn
+  ref: Jāmiʿ 65:8415.1
+  unit: hadith-65-nations-call-to-the-bowl
+  object: weakness (al-wahn) cast in hearts
+  quoted: ḥubb al-ḥayāt wa-karāhiyat al-mawt
+  outcome: defined as love of life and dislike of death
+- id: h-8415.2-salah
+  ref: Jāmiʿ 65:8415.2
+  unit: hadith-65-medina-besieged-to-salah
+  agent: the Muslims
+  action: are driven back to Medina
+  place:
+  - Medina
+  - Salāḥ near Khaybar
+  quoted: ḥattā yakūna abʿadu masāliḥihim Salāḥ
+  outcome: farthest outpost at Salāḥ
+- id: h-8416.1-mawali
+  ref: Jāmiʿ 65:8416.1
+  unit: hadith-65-mawali-army
+  agent: God
+  action: raises an army
+  object: freedmen (mawālī)
+  time: when the great wars come
+  quoted: baʿathā mina l-mawālī hum akramu l-ʿarabi farasan
+- id: h-8416.2-all
+  ref: Jāmiʿ 65:8416.2
+  unit: hadith-65-punishment-strikes-all
+  agent: God
+  action: sends punishment on a people
+  quoted: aṣāba l-ʿadhābu man kāna fīhim thumma buʿithū ʿalā aʿmālihim
+  outcome: strikes all among them; raised according to their deeds
+- id: h-8416.4-jamra
+  ref: Jāmiʿ 65:8416.4
+  unit: hadith-65-word-of-truth-before-tyrant
+  agent: a man
+  action: asks which jihad is best
+  recipient: the prophet
+  place:
+  - first jamra
+  - second jamra
+  - jamrat al-ʿaqaba
+  number: 3
+  quoted: kalimat ḥaqq ʿinda sulṭān jāʾir
+  outcome: answered after the third, foot in the stirrup
+- id: h-8418.1-error
+  ref: Jāmiʿ 65:8418.1
+  unit: hadith-65-community-not-on-error
+  agent: the community
+  action: will not agree on error
+  quoted: fa-inna yada llāhi ʿalā l-jamāʿa
+- id: h-8420.1-renewer
+  ref: Jāmiʿ 65:8420.1
+  unit: hadith-65-renewer-each-century
+  agent: God
+  action: sends one who renews religion
+  time: head of every hundred years
+  number: 100
+  quoted: ʿalā raʾsi kulli miʾati sana man yujaddidu lahā dīnahā
+- id: h-8422.1-gabriel
+  ref: Jāmiʿ 65:8422.1
+  unit: hadith-65-when-is-the-hour
+  agent: a man (Gabriel)
+  action: asks when the Hour is
+  recipient: the prophet
+  name: Jibrīl
+  quoted: mā l-masʾūlu ʿanhā bi-aʿlama mina l-sāʾil; hādhā Jibrīl
+  outcome: leaves and is not found
+- id: h-8422.1-slavegirl
+  ref: Jāmiʿ 65:8422.1
+  unit: hadith-65-when-is-the-hour
+  agent: the slave-woman
+  action: gives birth to her lord
+  quoted: idhā waladati l-amatu rabbahā
+- id: h-8422.1-shepherds
+  ref: Jāmiʿ 65:8422.1
+  unit: hadith-65-when-is-the-hour
+  agent: barefoot naked herders of small livestock
+  action: compete in tall buildings
+  quoted: taṭāwala ruʿāʾu l-bahm fī l-bunyān
+- id: h-8422.2-youngest
+  ref: Jāmiʿ 65:8422.2
+  unit: hadith-65-when-is-the-hour
+  agent: the prophet
+  action: looks at the youngest bedouin
+  quoted: lā yudrikuhu l-haramu ḥattā taqūma ʿalaykum sāʿatukum
+  outcome: old age will not reach him before 'your Hour' (their death)
+- id: h-8423.1-love
+  ref: Jāmiʿ 65:8423.1
+  unit: hadith-65-when-is-the-hour
+  agent: a bedouin
+  action: has prepared only love of God and his messenger
+  quoted: innaka maʿa man aḥbabta
+  outcome: '''you are with whom you love'''
+- id: h-8423.2-century
+  ref: Jāmiʿ 65:8423.2
+  unit: hadith-65-when-is-the-hour
+  agent: the prophet
+  action: swears no soul on earth now will see a hundred years
+  time: a month before his death
+  number: 100
+  quoted: mā ʿalā l-arḍi min nafsin manfūsa taʾtī ʿalayhā miʾatu sana
+- id: h-8423.4-six
+  ref: Jāmiʿ 65:8423.4
+  unit: hadith-65-hasten-deeds-before-six
+  action: hasten good deeds
+  object:
+  - the Dajjal
+  - the smoke
+  - the Beast of the earth
+  - sun rising from the west
+  - the general affair
+  - one's own affair
+  number: 6
+  quoted: bādirū bi-l-aʿmāli sittan
+- id: h-8424.2-trade
+  ref: Jāmiʿ 65:8424.2
+  unit: hadith-65-catalogue-of-signs
+  agent: the Hour
+  action: strikes
+  object:
+  - two men with a cloth spread unsold
+  - a man with his camel's milk
+  - a man plastering his trough
+  - a man lifting a morsel
+  quoted: wa-qad rafaʿa uklatahu ilā fīhi fa-lā yaṭʿamuhā
+  outcome: none completes his act
+- id: h-8424.3-six
+  ref: Jāmiʿ 65:8424.3
+  unit: hadith-65-count-six-before-the-hour
+  agent: the prophet
+  action: counts six before the Hour
+  object:
+  - my death
+  - conquest of Jerusalem
+  - a mass death like sheep murrain
+  - wealth until a hundred dinars displease
+  - a trial entering every Arab house
+  - a truce with the Banū l-Aṣfar
+  place: leather tent at Tabūk
+  number: 6
+  quoted: uʿdud sittan bayna yaday al-sāʿa
+- id: h-8424.3-banners
+  ref: Jāmiʿ 65:8424.3
+  unit: hadith-65-count-six-before-the-hour
+  agent: the Banū l-Aṣfar (Romans)
+  action: betray the truce and come
+  number:
+  - 80 banners
+  - 12000 under each
+  quoted: taḥta thamānīna ghāya taḥta kulli ghāya ithnā ʿashara alfan
+- id: h-8425.1-fingers
+  ref: Jāmiʿ 65:8425.1
+  unit: hadith-65-sent-with-the-hour-two-fingers
+  agent: the prophet
+  action: joins index and middle fingers
+  object: himself and the Hour
+  quoted: buʿithtu ana wa-l-sāʿatu ka-hātayn
+- id: h-8425.2-scout
+  ref: Jāmiʿ 65:8425.2
+  unit: hadith-65-sent-with-the-hour-two-fingers
+  agent: a scout sent by his people
+  action: waves his garment
+  quoted: alāḥa bi-thawbihi utītum utītum; ana dhālika
+  outcome: cries 'you are attacked'
+- id: h-8427.2-sunset
+  ref: Jāmiʿ 65:8427.2
+  unit: hadith-65-rest-of-the-day
+  agent: the prophet
+  action: compares what remains of the world
+  object: what remains of the day
+  time: as the sun is about to set
+  quoted: illā ka-mā baqiya min yawmikum hādhā
+- id: h-8427.1-asr
+  ref: Jāmiʿ 65:8427.1
+  unit: hadith-65-rest-of-the-day
+  object: the community's term
+  time: between the afternoon prayer and sunset
+  quoted: mā bayna ṣalāti l-ʿaṣri ilā maghribi l-shams
+- id: h-8428.2-night
+  ref: Jāmiʿ 65:8428.2
+  unit: hadith-65-six-repeat-and-dark-trials
+  object: trials
+  instrument: like pieces of the dark night
+  quoted: fitanan ka-qiṭaʿi l-layli l-muẓlim
+  outcome: a believer at morning, unbeliever by evening
+- id: h-8429.3-blister
+  ref: Jāmiʿ 65:8429.3
+  unit: hadith-65-trust-lost
+  agent: a man
+  action: sleeps and trust is taken from his heart
+  instrument: an ember rolled on the foot
+  quoted: ka-jamrin dahrajtahu ʿalā rijlika fa-nafiṭa
+  outcome: a blister swollen with nothing inside
+- id: h-8429.3-root
+  ref: Jāmiʿ 65:8429.3
+  unit: hadith-65-trust-lost
+  action: came down into the root of men's hearts
+  object: trust (al-amāna)
+  quoted: nazalat fī jadhri qulūbi l-rijāl
+  outcome: then the Quran came down
+- id: h-8429.2-camels
+  ref: Jāmiʿ 65:8429.2
+  unit: hadith-65-trust-lost
+  object: people
+  instrument: like a hundred camels
+  number: 100
+  quoted: ka-l-ibili l-miʾa lā takādu tajidu fīhā rāḥila
+  outcome: hardly one fit to ride
+- id: h-8430.1-harj
+  ref: Jāmiʿ 65:8430.1
+  unit: hadith-65-harj-and-knowledge-lifted
+  object: al-harj
+  quoted: al-qatl al-qatl
+  outcome: explained as killing
+- id: h-8430.3-why
+  ref: Jāmiʿ 65:8430.3
+  unit: hadith-65-harj-and-knowledge-lifted
+  agent: the killer
+  action: kills without knowing why
+  recipient: the killed
+  quoted: al-qātilu wa-l-maqtūlu fī l-nār
+  outcome: both in the fire
+- id: h-8431.1-meadows
+  ref: Jāmiʿ 65:8431.1
+  unit: hadith-65-harj-and-knowledge-lifted
+  object: the land of the Arabs
+  place:
+  - Iraq
+  - Mecca
+  quoted: murūjan wa-anhāran
+  outcome: returns to meadows and rivers; rider between Iraq and Mecca fears only losing the way
+- id: h-8431.2-apes
+  ref: Jāmiʿ 65:8431.2
+  unit: hadith-65-silk-wine-music-transformation
+  agent: people of the community
+  action: make lawful
+  object:
+  - fornication
+  - silk
+  - wine
+  - musical instruments
+  quoted: wa-yamsakhu ākharīna qiradatan wa-khanāzīr
+  outcome: some destroyed by night, others transformed into apes and swine
+- id: h-8431.2-poor
+  ref: Jāmiʿ 65:8431.2
+  unit: hadith-65-silk-wine-music-transformation
+  agent: people camped by a hill
+  action: put off a poor man
+  recipient: the poor man
+  quoted: irjiʿ ilaynā ghadan
+- id: h-8431.3-fifty
+  ref: Jāmiʿ 65:8431.3
+  unit: hadith-65-fifty-women-one-man
+  object: women
+  number: 50
+  quoted: li-khamsīna mraʾatan qayyimun wāḥid
+  outcome: one guardian for fifty women
+- id: h-8432.1-neighbour
+  ref: Jāmiʿ 65:8432.1
+  unit: hadith-65-harj-kill-neighbour
+  agent: believers
+  action: kill one another
+  recipient:
+  - neighbour
+  - cousin
+  - kinsman
+  quoted: habāʾun mina l-nās lā ʿuqūla lahum
+  outcome: most minds removed; a dust of people left
+- id: h-8432.2-road
+  ref: Jāmiʿ 65:8432.2
+  unit: hadith-65-mating-in-the-road
+  agent: people
+  action: copulate in the road
+  instrument: like donkeys
+  quoted: tasāfud al-ḥamīr
+- id: h-8433.1-wall
+  ref: Jāmiʿ 65:8433.1
+  unit: hadith-65-mating-in-the-road
+  agent: the best of them
+  action: says only
+  object: hide her behind this wall
+  quoted: law wārītahā warāʾa hādhā l-ḥāʾiṭ
+- id: h-8434.1-time
+  ref: Jāmiʿ 65:8434.1
+  unit: hadith-65-time-contracts
+  object: time
+  quoted: ka-ḥtirāqi l-saʿafa
+  outcome: year like a month, month like a week, week like a day, day like an hour, hour like the burning of a palm frond
+- id: h-8435.1-greet
+  ref: Jāmiʿ 65:8435.1
+  unit: hadith-65-greeting-trade-and-pen
+  agent: a man
+  action: greets Ibn Masʿūd by name while passing in a hurry
+  place: the mosque
+  quoted: taslīm al-khāṣṣa
+  outcome: Ibn Masʿūd recalls the sign of greeting only acquaintances
+- id: h-8435.1-wife
+  ref: Jāmiʿ 65:8435.1
+  unit: hadith-65-greeting-trade-and-pen
+  agent: the wife
+  action: helps her husband in trade
+  object:
+  - trade spread
+  - kinship cut
+  - pen spread
+  - false witness
+  - true witness hidden
+  quoted: ḥattā tuʿīna l-marʾatu zawjahā ʿalā l-tijāra; fushuww al-qalam
+- id: h-8435.2-scribe
+  ref: Jāmiʿ 65:8435.2
+  unit: hadith-65-greeting-trade-and-pen
+  agent: a man
+  action: will not sell without consulting the clan's merchant
+  quoted: yultamasu fī l-ḥayyi l-ʿaẓīmi l-kātibu fa-lā yūjad
+  outcome: a scribe is sought in a great quarter and not found
+- id: h-8436.1-ruwaybida
+  ref: Jāmiʿ 65:8436.1
+  unit: hadith-65-deceptive-years
+  agent: al-ruwaybiḍa
+  action: speaks on public affairs
+  time: deceptive years before the Hour
+  quoted: sinūn khaddāʿa; wa-yanṭiqu fīhā l-ruwaybiḍa
+- id: h-8437.2-forty
+  ref: Jāmiʿ 65:8437.2
+  unit: hadith-65-women-many-men-few
+  agent: forty women
+  action: follow one man and take refuge with him
+  number: 40
+  quoted: yatbaʿuhu arbaʿūna mraʾatan yaludhna bihi
+- id: h-8437.2-gold
+  ref: Jāmiʿ 65:8437.2
+  unit: hadith-65-women-many-men-few
+  agent: a man
+  action: goes round with alms of gold
+  quoted: yaṭūfu l-rajulu fīhi bi-l-ṣadaqati mina l-dhahab
+  outcome: finds no one to take it
+- id: h-8438.1-houses
+  ref: Jāmiʿ 65:8438.1
+  unit: hadith-65-mosques-and-houses
+  agent: people
+  action: build and adorn houses
+  instrument: like striped cloaks (marāḥil)
+  quoted: yushabbihūnahā bi-l-marāḥil
+- id: h-8439.1-daws
+  ref: Jāmiʿ 65:8439.1
+  unit: hadith-65-tribes-join-idolaters
+  agent: women of Daws
+  action: sway their hips around an idol
+  place: Dhū l-Khalaṣa
+  name: Dhū l-Khalaṣa
+  quoted: taḍṭariba alyātu nisāʾi Daws ʿalā Dhī l-Khalaṣa
+- id: h-8440.1-liars
+  ref: Jāmiʿ 65:8440.1
+  unit: hadith-65-thirty-liars
+  agent: liars and dajjāls
+  action: arise in the community
+  number:
+  - 27
+  - 4 of them women
+  quoted: sabʿatun wa-ʿishrūn minhum arbaʿu niswa
+- id: h-8440.2-yamama
+  ref: Jāmiʿ 65:8440.2
+  unit: hadith-65-thirty-liars
+  agent: liars before the Hour
+  number: about 30
+  name:
+  - ṣāḥib al-Yamāma
+  - ṣāḥib Ṣanʿāʾ al-ʿAnsī
+  - ṣāḥib Ḥimyar
+  - al-Dajjāl
+  quoted: wa-huwa aʿẓamuhum fitna
+- id: h-8441.1-white
+  ref: Jāmiʿ 65:8441.1
+  unit: hadith-65-gabriel-signs-repeat
+  agent: a man with very white clothes and very black hair
+  action: asks about the Hour and its signs
+  name: Jibrīl
+  quoted: shadīdu bayāḍi l-thiyāb shadīdu sawādi l-shaʿr
+  outcome: '''it was Gabriel'''
+- id: h-8442.1-lukaa
+  ref: Jāmiʿ 65:8442.1
+  unit: hadith-65-lukaa-son-of-lukaa
+  agent: lukaʿ son of lukaʿ son of lukaʿ
+  action: prevails over the world
+  quoted: lukaʿ bnu lukaʿ bnu lukaʿ
+- id: h-8442.2-yesterday
+  ref: Jāmiʿ 65:8442.2
+  unit: hadith-65-wealth-without-takers
+  agent: a man
+  action: walks with his alms
+  recipient: one in need yesterday
+  quoted: law jiʾtanā bihā l-amsi qabiltuhā
+  outcome: refused
+- id: h-8443.2-pillars
+  ref: Jāmiʿ 65:8443.2
+  unit: hadith-65-wealth-without-takers
+  agent: the earth
+  action: vomits up its liver-pieces
+  object: pillars of gold and silver
+  quoted: taqīʾu l-arḍu aflādha kabidihā amthāla l-usṭuwān
+  outcome: the killer, the kin-breaker and the thief leave it untouched
+- id: h-8444.1-euphrates
+  ref: Jāmiʿ 65:8444.1
+  unit: hadith-65-euphrates-gold
+  agent: the Euphrates
+  action: uncovers a mountain of gold
+  place: the Euphrates
+  number:
+  - 99
+  - 100
+  quoted: laʿallī akūnu ana lladhī anjū
+  outcome: people fight; ninety-nine of every hundred killed
+- id: h-8444.3-wolf
+  ref: Jāmiʿ 65:8444.3
+  unit: hadith-65-wolf-speaks
+  agent: a wolf
+  action: speaks sitting on its tail
+  recipient: the shepherd who took back the sheep
+  quoted: tanziʿu minnī rizqan sāqahu llāhu ilayya
+  outcome: shepherd goes to Medina and the prophet confirms
+- id: h-8444.3-whip
+  ref: Jāmiʿ 65:8444.3
+  unit: hadith-65-wolf-speaks
+  agent:
+  - beasts of prey
+  - whip-tip
+  - sandal-strap
+  - thigh
+  action: speak to a man
+  object: what his family did after him
+  quoted: ʿadhabat sawṭihi wa-shirāka naʿlihi
+- id: h-8445.1-jew
+  ref: Jāmiʿ 65:8445.1
+  unit: hadith-65-wolf-speaks
+  agent: a wolf on a hill
+  action: speaks to a Jewish shepherd
+  place: between the two lava fields
+  quoted: rajulun fī l-nakhalāt bayna l-ḥarratayn
+  outcome: the shepherd becomes Muslim
+- id: h-8445.2-cow
+  ref: Jāmiʿ 65:8445.2
+  unit: hadith-65-cow-and-wolf
+  agent: a cow
+  action: turns and speaks to her driver
+  object: the load put on her
+  quoted: innī lam ukhlaq li-hādhā wa-lākinnī innamā khuliqtu li-l-ḥarth
+  outcome: says she was created for ploughing
+- id: h-8445.2-wolfday
+  ref: Jāmiʿ 65:8445.2
+  unit: hadith-65-cow-and-wolf
+  agent: a wolf
+  action: speaks to the shepherd
+  time: the day of the beast
+  quoted: man lahā yawma l-sabuʿ
+- id: h-8446.1-fire
+  ref: Jāmiʿ 65:8446.1
+  unit: hadith-65-fire-of-hijaz
+  agent: a fire
+  action: comes out of the land of the Hijaz
+  place:
+  - Hijaz
+  - Buṣrā
+  quoted: tuḍīʾu aʿnāqa l-ibili bi-Buṣrā
+  outcome: lights the necks of camels at Buṣrā
+- id: h-8446.2-bellows
+  ref: Jāmiʿ 65:8446.2
+  unit: hadith-65-medina-expels-its-worst
+  agent: Medina
+  action: expels its worst
+  instrument: as the bellows expels iron's dross
+  quoted: ka-mā yanfī l-kīru khabatha l-ḥadīd
+- id: h-8446.3-sal
+  ref: Jāmiʿ 65:8446.3
+  unit: hadith-65-building-over-sal
+  agent: the prophet
+  action: tells Abū Dharr to leave
+  recipient: Abū Dharr
+  place:
+  - Salʿ
+  - the land of Quḍāʿa
+  time: when building rises over Salʿ
+  quoted: idhā raʾayta l-bināʾa ʿalā Salʿ
+- id: h-8447.2-shepherds
+  ref: Jāmiʿ 65:8447.2
+  unit: hadith-65-medina-extends-then-abandoned
+  agent: two shepherds of Muzayna
+  action: call their flocks heading to Medina
+  place: Thaniyyat al-Wadāʿ
+  number: 2
+  quoted: ākhiru man yuḥsharu rāʿiyāni min Muzayna
+  outcome: find it wild; fall on their faces
+- id: h-8447.3-dates
+  ref: Jāmiʿ 65:8447.3
+  unit: hadith-65-medina-extends-then-abandoned
+  agent: the prophet
+  action: pokes a cluster of bad dates hung as alms
+  instrument: his staff
+  place: the mosque
+  quoted: la-yaʾkulu l-ḥashafa yawma l-qiyāma
+  outcome: the owner will eat bad dates on resurrection day
+- id: h-8447.3-forty
+  ref: Jāmiʿ 65:8447.3
+  unit: hadith-65-medina-extends-then-abandoned
+  agent: the people of Medina
+  action: leave it to the scavengers
+  time: forty years
+  number: 40
+  quoted: arbaʿīna ʿāman li-l-ʿawāfī
+- id: h-8448.2-turks
+  ref: Jāmiʿ 65:8448.2
+  unit: hadith-65-fighting-the-turks
+  agent: the Muslims
+  action: fight the Turks
+  object: small-eyed, red-faced, flat-nosed people with faces like hammered shields and sandals of hair
+  name: al-Turk
+  quoted: ka-anna wujūhahumu l-majānnu l-muṭraqa
+- id: h-8449.3-locust
+  ref: Jāmiʿ 65:8449.3
+  unit: hadith-65-fighting-the-turks
+  object: a people with eyes like locusts' eyes
+  quoted: ka-anna aʿyunahum ḥadaqu l-jarād
+  outcome: they tie their horses to the palms
+- id: h-8450.1-qahtan
+  ref: Jāmiʿ 65:8450.1
+  unit: hadith-65-qahtani-and-jahjah
+  agent: a man of Qaḥṭān
+  action: drives people
+  instrument: his staff
+  quoted: yasūqu l-nāsa bi-ʿaṣāh
+- id: h-8450.2-jahjah
+  ref: Jāmiʿ 65:8450.2
+  unit: hadith-65-qahtani-and-jahjah
+  agent: a man of the freedmen
+  action: rules
+  name: al-Jahjāh
+  quoted: rajulun yuqālu lahu l-Jahjāh
+- id: h-8451.1-four
+  ref: Jāmiʿ 65:8451.1
+  unit: hadith-65-conquests-and-romans
+  agent: Nāfiʿ b. ʿUtba
+  action: memorises four words counting on his hand
+  object:
+  - Arabia
+  - Persia
+  - Rome
+  - the Dajjal
+  number: 4
+  quoted: aʿudduhunna fī yadī
+- id: h-8451.2-romans
+  ref: Jāmiʿ 65:8451.2
+  unit: hadith-65-conquests-and-romans
+  agent: al-Mustawrid
+  action: reports the Romans most numerous at the Hour
+  recipient: ʿAmr b. al-ʿĀṣ
+  number: 5
+  quoted: wa-amnaʿuhum min ẓulmi l-mulūk
+  outcome: ʿAmr lists the Romans' five virtues
+- id: h-8452.2-redwind
+  ref: Jāmiʿ 65:8452.2
+  unit: hadith-65-great-battle-with-rome
+  agent: a man
+  action: cries that the Hour has come
+  recipient: Ibn Masʿūd
+  place: Kufa
+  time: when a red wind rises
+  quoted: rīḥ ḥamrāʾ bi-l-Kūfa
+- id: h-8452.2-shurta
+  ref: Jāmiʿ 65:8452.2
+  unit: hadith-65-great-battle-with-rome
+  agent: the Muslims
+  action: put forward a death-pledged band
+  number:
+  - 3 days
+  - 4th day
+  quoted: shurṭatan li-l-mawti lā tarjiʿu illā ghāliba
+  outcome: each band perishes; on the fourth day the rest advance and win
+- id: h-8452.2-bird
+  ref: Jāmiʿ 65:8452.2
+  unit: hadith-65-great-battle-with-rome
+  agent: a bird
+  action: passes over the slain
+  quoted: ḥattā yakhirra mayyitan
+  outcome: falls dead before clearing them
+- id: h-8452.2-hundred
+  ref: Jāmiʿ 65:8452.2
+  unit: hadith-65-great-battle-with-rome
+  agent: sons of one father
+  action: count themselves
+  number:
+  - 100
+  - 1
+  quoted: kānū miʾatan fa-lā yajidūnahu baqiya minhum illā l-rajulu l-wāḥid
+  outcome: one man left
+- id: h-8452.2-ten
+  ref: Jāmiʿ 65:8452.2
+  unit: hadith-65-great-battle-with-rome
+  agent: the Muslims
+  action: send ten horsemen as scouts against the Dajjal
+  number: 10
+  quoted: ʿasharata fawāris ṭalīʿa
+  outcome: the prophet knows their names, fathers' names and horses' colours
+- id: h-8453.1-dabiq
+  ref: Jāmiʿ 65:8453.1
+  unit: hadith-65-rome-at-dabiq
+  agent: the Romans
+  action: camp
+  place:
+  - al-Aʿmāq
+  - Dābiq
+  quoted: bi-l-Aʿmāq aw bi-Dābiq
+  outcome: a third flees, a third killed, a third conquers Constantinople
+- id: h-8453.1-olives
+  ref: Jāmiʿ 65:8453.1
+  unit: hadith-65-rome-at-dabiq
+  agent: the conquerors
+  action: hang their swords on the olive trees
+  time: while dividing the booty
+  quoted: ʿallaqū suyūfahum bi-l-zaytūn
+  outcome: Satan cries the Messiah is among their families; it is false
+- id: h-8453.1-salt
+  ref: Jāmiʿ 65:8453.1
+  unit: hadith-65-rome-at-dabiq
+  agent: Jesus son of Mary
+  action: descends and leads them in prayer
+  recipient: the Dajjal
+  instrument: a spear (ḥarba)
+  quoted: dhāba ka-mā yadhūbu l-milḥu fī l-māʾ; fa-yurīhim damahu fī ḥarbatih
+  outcome: the Dajjal melts like salt; killed by Jesus's hand, blood shown on his spear
+- id: h-8453.2-cross
+  ref: Jāmiʿ 65:8453.2
+  unit: hadith-65-truce-with-rome
+  agent: a Muslim
+  action: breaks the cross
+  recipient: the Romans
+  place: a meadow of hills (marj dhī tulūl)
+  quoted: ghalaba l-ṣalīb; bal Allāhu ghalab
+  outcome: the Romans kill him; the great battle follows
+- id: h-8454.1-ghuta
+  ref: Jāmiʿ 65:8454.1
+  unit: hadith-65-truce-with-rome
+  object: the Muslims' camp (fusṭāṭ)
+  place:
+  - al-Ghūṭa
+  - Damascus
+  time: the day of the great battle
+  quoted: bi-l-Ghūṭa ilā jānibi madīna yuqālu lahā Dimashq
+- id: h-8454.2-takbir
+  ref: Jāmiʿ 65:8454.2
+  unit: hadith-65-city-falls-to-takbir
+  agent: seventy thousand of the sons of Isaac
+  action: say 'no god but God, God is greatest'
+  object: a city half on land and half on sea
+  number:
+  - 70000
+  - 3 cries
+  quoted: lam yuqātilū bi-silāḥ wa-lam yarmū bi-sahm
+  outcome: one side falls, then the other, then it opens
+- id: h-8456.1-gharqad
+  ref: Jāmiʿ 65:8456.1
+  unit: hadith-65-stones-and-trees-speak
+  agent: stone and tree
+  action: call out a hidden Jew
+  recipient: the Muslim
+  name: al-gharqad
+  quoted: illā l-gharqad fa-innahu min shajari l-yahūd
+  outcome: the gharqad alone keeps silent
+- id: h-8457.1-rain
+  ref: Jāmiʿ 65:8457.1
+  unit: hadith-65-rain-without-growth
+  agent: the sky
+  action: rains again and again
+  quoted: an tumṭarū wa-tumṭarū wa-lā tunbitu l-arḍu shayʾan
+  outcome: the earth grows nothing
+- id: h-8457.3-bolt
+  ref: Jāmiʿ 65:8457.3
+  unit: hadith-65-thunderbolts-and-quakes
+  agent: thunderbolts
+  action: multiply
+  quoted: man ṣuʿiqa tilkumu l-ghadāt
+  outcome: men ask each morning who was struck
+- id: h-8459.2-greeting
+  ref: Jāmiʿ 65:8459.2
+  unit: hadith-65-sinking-transformation-pelting
+  agent: Ibn ʿUmar
+  action: refuses to return a greeting
+  recipient: a man said to have innovated
+  quoted: fa-lā tuqriʾhu minnī l-salām
+  outcome: cites sinking, transformation and pelting among the people of qadar
+- id: h-8462.1-army
+  ref: Jāmiʿ 65:8462.1
+  unit: hadith-65-army-swallowed-at-baida
+  agent: an army
+  action: raids the Kaaba
+  place: al-Baydāʾ
+  quoted: yukhsafu bi-awwalihim wa-ākhirihim thumma yubʿathūna ʿalā niyyātihim
+  outcome: swallowed first to last; raised on their intentions
+- id: h-8462.1-sleep
+  ref: Jāmiʿ 65:8462.1
+  unit: hadith-65-army-swallowed-at-baida
+  agent: the prophet
+  action: stirs in his sleep
+  quoted: ʿabatha rasūlu llāhi fī manāmihi
+  outcome: 'says ''a wonder'': men making for the House after a Qurashi refugee'
+- id: h-8462.2-survivor
+  ref: Jāmiʿ 65:8462.2
+  unit: hadith-65-army-swallowed-at-baida
+  agent: the earth
+  action: swallows the army's middle, then all
+  number: 1
+  quoted: fa-lā yabqā illā l-sharīdu lladhī yukhbiru ʿanhum
+  outcome: only a fugitive survives to tell
+- id: h-8465.1-rawha
+  ref: Jāmiʿ 65:8465.1
+  unit: hadith-65-pilgrimage-at-the-end
+  agent: the son of Mary
+  action: raises the pilgrim's cry
+  object:
+  - hajj
+  - ʿumra
+  - both
+  place: Fajj al-Rawḥāʾ
+  quoted: la-yuhillanna bnu Maryama bi-Fajji l-Rawḥāʾ
+- id: h-8465.2-kaaba
+  ref: Jāmiʿ 65:8465.2
+  unit: hadith-65-kaaba-destroyed
+  agent: the one with two thin shanks from Abyssinia
+  action: wrecks the Kaaba
+  name: dhū l-suwayqatayn
+  quoted: yukharribu l-Kaʿbata dhū l-suwayqatayn mina l-Ḥabasha
+- id: h-8465.3-stones
+  ref: Jāmiʿ 65:8465.3
+  unit: hadith-65-kaaba-destroyed
+  agent: a black bandy-legged man
+  action: pulls out the Kaaba stone by stone
+  quoted: aswadu afḥaju yaqlaʿuhā ḥajaran ḥajaran
+- id: h-8465.4-treasure
+  ref: Jāmiʿ 65:8465.4
+  unit: hadith-65-kaaba-destroyed
+  agent: the Abyssinians
+  action: ruin the House and take out its treasure
+  place: between the Corner and the Station
+  quoted: wa-hum alladhīna yastakhrijūna kanzah
+  outcome: never rebuilt
+- id: h-8466.1-twice
+  ref: Jāmiʿ 65:8466.1
+  unit: hadith-65-kaaba-destroyed
+  action: demolished twice
+  object: the House
+  number:
+  - 2
+  - 3
+  quoted: yuhdamu marratayn wa-yurfaʿu fī l-thālitha
+  outcome: lifted up at the third
+- id: h-8467.1-grave
+  ref: Jāmiʿ 65:8467.1
+  unit: hadith-65-wishing-for-the-grave
+  agent: a man
+  action: rolls on a grave
+  quoted: fa-yatamarraghu ʿalayhi
+  outcome: wishes to be its occupant, for affliction not religion
+- id: h-8467.2-wish
+  ref: Jāmiʿ 65:8467.2
+  unit: hadith-65-wishing-for-the-grave
+  agent: people of the community
+  action: wish for the Dajjal
+  quoted: yatamannawna fīhi l-dajjāl
+  outcome: from the hardship they suffer
+- id: h-8467.3-wind
+  ref: Jāmiʿ 65:8467.3
+  unit: hadith-65-wind-and-the-worst
+  agent: a pleasant wind
+  action: takes every believer
+  instrument: under their armpits
+  quoted: fa-taʾkhudhuhum taḥta ābāṭihim
+  outcome: the worst remain and copulate like donkeys; the Hour comes on them
+- id: h-8468.1-musk
+  ref: Jāmiʿ 65:8468.1
+  unit: hadith-65-wind-and-the-worst
+  agent: a wind like musk
+  action: takes every soul with a grain of faith
+  instrument: touch of silk
+  quoted: rīḥan ka-rīḥi l-misk massuhā massu l-ḥarīr
+- id: h-8468.2-lat
+  ref: Jāmiʿ 65:8468.2
+  unit: hadith-65-wind-and-the-worst
+  agent: people left after the wind
+  action: worship again
+  object:
+  - al-Lāt
+  - al-ʿUzzā
+  name:
+  - al-Lāt
+  - al-ʿUzzā
+  quoted: ḥattā tuʿbada l-Lātu wa-l-ʿUzzā
+  outcome: return to the religion of their fathers
+- id: h-8468.3-forty
+  ref: Jāmiʿ 65:8468.3
+  unit: hadith-65-wind-and-the-worst
+  agent: the Dajjal
+  action: stays forty (days, months or years)
+  number:
+  - 40
+  - 7
+  quoted: lā adrī arbaʿīna yawman aw arbaʿīna shahran aw arbaʿīna ʿāman
+  outcome: Jesus, like ʿUrwa b. Masʿūd, destroys him; seven years without enmity; a cold wind from Syria
+- id: h-8469.1-yemen
+  ref: Jāmiʿ 65:8469.1
+  unit: hadith-65-wind-and-the-worst
+  agent: a wind from Yemen
+  action: takes every soul with faith
+  instrument: softer than silk
+  place: Yemen
+  quoted: rīḥan mina l-Yaman alyana mina l-ḥarīr
+- id: h-8470.2-dates
+  ref: Jāmiʿ 65:8470.2
+  unit: hadith-65-wind-and-the-worst
+  agent: the community
+  action: is picked over
+  instrument: as dates are sorted from their refuse
+  quoted: fa-mūtū ini staṭaʿtum
+  outcome: the best go, the worst remain
+- id: h-8471.1-allah
+  ref: Jāmiʿ 65:8471.1
+  unit: hadith-65-wind-and-the-worst
+  object: the cry Allāh Allāh
+  quoted: ḥattā lā yuqāla fī l-arḍi Allāh Allāh
+  outcome: no one on earth says it when the Hour comes
+- id: h-8472.1-ten
+  ref: Jāmiʿ 65:8472.1
+  unit: hadith-65-ten-major-signs
+  agent: the prophet
+  action: lists ten signs before the Hour
+  object:
+  - smoke
+  - Dajjal
+  - Beast
+  - sun from the west
+  - descent of Jesus
+  - Gog and Magog
+  - sinking in the east
+  - sinking in the west
+  - sinking in Arabia
+  - a fire from Yemen
+  number: 10
+  quoted: ʿashru āyāt
+- id: h-8472.2-beads
+  ref: Jāmiʿ 65:8472.2
+  unit: hadith-65-ten-major-signs
+  object: the signs
+  instrument: beads on a string
+  quoted: kharazātun manẓūmātun bi-silk
+  outcome: when the string breaks they follow one another
+- id: h-8473.2-kfr
+  ref: Jāmiʿ 65:8473.2
+  unit: hadith-65-dajjal-one-eyed
+  agent: the Dajjal
+  object: the letters k-f-r between his eyes
+  quoted: maktūbun bayna ʿaynayhi k f r
+  outcome: read by every believer
+- id: h-8473.4-noah
+  ref: Jāmiʿ 65:8473.4
+  unit: hadith-65-dajjal-one-eyed
+  agent: the prophet
+  action: warns of the Dajjal
+  name: Nūḥ
+  quoted: ka-mā andhara bihi Nūḥun qawmah
+  outcome: as Noah warned his people
+- id: h-8474.2-water
+  ref: Jāmiʿ 65:8474.2
+  unit: hadith-65-dajjal-one-eyed
+  agent: the Dajjal
+  object:
+  - water that is fire
+  - fire that is cool sweet water
+  quoted: fa-l-yaqaʿ fī lladhī yarāhu nāran
+  outcome: fall into what you see as fire
+- id: h-8474.3-rivers
+  ref: Jāmiʿ 65:8474.3
+  unit: hadith-65-dajjal-one-eyed
+  agent: one who meets the Dajjal
+  action: closes his eyes, lowers his head and drinks
+  object: the river that looks like fire
+  number: 2 rivers
+  quoted: wa-l-yughmiḍ thumma l-yuṭaʾṭiʾ raʾsahu
+  outcome: it is cold water
+- id: h-8474.1-mountains
+  ref: Jāmiʿ 65:8474.1
+  unit: hadith-65-dajjal-one-eyed
+  agent: people
+  action: flee the Dajjal
+  place: the mountains
+  name: Umm Sharīk
+  quoted: la-yafirranna l-nāsu mina l-dajjāli fī l-jibāl
+  outcome: the Arabs then are few
+- id: h-8475.3-kaaba
+  ref: Jāmiʿ 65:8475.3
+  unit: hadith-65-jesus-and-dajjal-at-the-kaaba
+  agent:
+  - Jesus
+  - the Dajjal
+  action: circle the House, hands on two men's shoulders
+  place: the Kaaba
+  time: in a dream at night
+  name:
+  - al-Masīḥ ibn Maryam
+  - al-Masīḥ al-Dajjāl
+  - Ibn Qaṭan
+  quoted: wāḍiʿan yadayhi ʿalā mankibay rajulayn
+  outcome: Jesus brown with dripping hair; Dajjal curly, blind in right eye, like Ibn Qaṭan
+- id: h-8476.1-red
+  ref: Jāmiʿ 65:8476.1
+  unit: hadith-65-jesus-and-dajjal-at-the-kaaba
+  agent: Ibn ʿUmar
+  action: swears the prophet did not call Jesus red
+  quoted: mā qāla l-nabiyyu li-ʿĪsā aḥmar
+  outcome: Jesus brown and lank-haired; the red, heavy, curly one is the Dajjal
+- id: h-8477.1-qadr
+  ref: Jāmiʿ 65:8477.1
+  unit: hadith-65-dajjal-features
+  agent: two men
+  action: quarrel
+  recipient: the prophet who parts them
+  quoted: fa-unsītuhā fa-ṭlubūhā fī l-ʿashri l-awākhiri witran
+  outcome: he forgets the Night of Decree; seek it in the last ten on the odd nights
+- id: h-8477.2-bread
+  ref: Jāmiʿ 65:8477.2
+  unit: hadith-65-dajjal-features
+  agent: al-Mughīra b. Shuʿba
+  action: asks the prophet often about the Dajjal
+  object: rivers of water and mountains of bread
+  quoted: huwa ahwanu ʿalā llāhi min dhālik
+  outcome: '''he is too slight before God for that'''
+- id: h-8478.1-short
+  ref: Jāmiʿ 65:8478.1
+  unit: hadith-65-dajjal-features
+  agent: the Messiah Dajjal
+  object: short, bandy-legged, curly, eye wiped out neither protruding nor sunken
+  quoted: rajulun qaṣīrun afḥaju jaʿd
+- id: h-8478.3-forty
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: the Dajjal
+  action: stays on earth
+  time: forty days, a day like a year, a day like a month, a day like a week
+  number: 40
+  quoted: yawmun ka-sana wa-yawmun ka-shahr wa-yawmun ka-jumuʿa; uqdurū lahu qadrah
+  outcome: prayers estimated by measure
+- id: h-8478.3-youth
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: the Dajjal
+  action: strikes a youth with the sword into two pieces
+  instrument: sword
+  quoted: jazlatayn ramyata l-gharaḍ
+  outcome: calls him and he comes laughing
+- id: h-8478.3-minaret
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: Jesus son of Mary
+  action: descends
+  object: two dyed garments
+  instrument: hands on the wings of two angels
+  place: the white minaret east of Damascus
+  quoted: ʿinda l-manārati l-bayḍāʾi sharqiyya Dimashq
+  outcome: head drips when lowered, pearls when raised
+- id: h-8478.3-breath
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: Jesus
+  recipient: every unbeliever
+  instrument: his breath
+  quoted: wa-nafasuhu yantahī ḥaythu yantahī ṭarfuh
+  outcome: dies; the breath reaches as far as his sight
+- id: h-8478.3-lydda
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: Jesus
+  action: overtakes and kills the Dajjal
+  recipient: the Dajjal
+  place: the gate of Lydda
+  quoted: ḥattā yudrikahu bi-bābi Ludd
+- id: h-8478.3-tur
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: God
+  action: tells Jesus to take his servants up to al-Ṭūr
+  place: al-Ṭūr
+  quoted: fa-ḥarriz ʿibādī ilā l-Ṭūr
+  outcome: Gog and Magog none can fight
+- id: h-8478.3-tiberias
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: Gog and Magog
+  action: drink the lake dry
+  place: Lake Tiberias
+  quoted: la-qad kāna bi-hādhihi marratan māʾ
+  outcome: the last say there was water here once
+- id: h-8478.3-worms
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: God
+  action: sends worms (naghaf) on their necks
+  recipient: Gog and Magog
+  quoted: fa-yuṣbiḥūna farsā ka-mawti nafsin wāḥida
+  outcome: die as one soul; birds like Bactrian camels' necks carry them off; rain washes the earth like a mirror
+- id: h-8478.3-pomegranate
+  ref: Jāmiʿ 65:8478.3
+  unit: hadith-65-nawwas-dajjal-jesus-gog
+  agent: a company of people
+  action: eat from one pomegranate and shade under its rind
+  quoted: taʾkulu l-ʿiṣābatu mina l-rummāna wa-yastaẓillūna bi-qiḥfihā
+  outcome: one milch-camel suffices a crowd
+- id: h-8481.1-donkey
+  ref: Jāmiʿ 65:8481.1
+  unit: hadith-65-jabir-dajjal-donkey
+  agent: the Dajjal
+  action: rides a donkey
+  number: forty cubits between its ears
+  quoted: ʿarḍu mā bayna udhunayhi arbaʿūna dhirāʿan
+- id: h-8481.1-smoke
+  ref: Jāmiʿ 65:8481.1
+  unit: hadith-65-jabir-dajjal-donkey
+  agent: the Muslims
+  action: flee and are besieged
+  place: the Mountain of Smoke in Syria
+  quoted: jabal al-dukhān bi-l-Shām; yanmāthu ka-mā yanmāthu l-milḥ
+  outcome: Jesus calls at dawn; the imam leads; the Dajjal dissolves like salt
+- id: h-8482.2-saw
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  agent: the Dajjal
+  action: kills a man and saws him in two
+  instrument: a saw
+  quoted: wa-yanshuruhā bi-l-minshār ḥattā yulqā shiqqatayn
+  outcome: raised, the man says 'my Lord is God, you are the Dajjal'
+- id: h-8482.2-parents
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  agent: two devils
+  action: take the shape of a bedouin's father and mother
+  quoted: fa-yatamaththalu lahu shayṭānāni fī ṣūrati abīhi wa-ummih
+  outcome: '''my son, follow him, he is your Lord'''
+- id: h-8482.2-kahf
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  agent: one tried by the Dajjal's fire
+  action: recites the opening of al-Kahf
+  name: Ibrāhīm
+  quoted: bardan wa-salāman ka-mā kānati l-nāru ʿalā Ibrāhīm
+  outcome: the fire becomes cool and safe as for Abraham
+- id: h-8482.2-quake
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  agent: Medina
+  action: shakes with its people
+  place: the red hillock at the end of the salt-flat
+  number: 3
+  quoted: thalātha rajafāt; yawm al-khalāṣ
+  outcome: 'every hypocrite goes out to the Dajjal: the Day of Deliverance'
+- id: h-8482.2-imam
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  agent: the imam
+  action: steps back for Jesus
+  place: Jerusalem (Bayt al-Maqdis)
+  time: the dawn prayer
+  quoted: taqaddam fa-ṣalli fa-innahā laka uqīmat
+  outcome: Jesus puts his hand between his shoulders and has him lead
+- id: h-8482.2-seventy
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  agent: the Dajjal
+  action: stands behind the door
+  instrument: adorned swords and green shawls
+  number: 70000 Jews
+  quoted: maʿahu sabʿūna alfa yahūdī kulluhum dhū sayfin muḥallā wa-sāj
+- id: h-8482.2-peace
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  agent: Jesus as just judge
+  action: removes sting and enmity
+  quoted: yakūnu l-dhiʾbu fī l-ghanami ka-annahu kalbuhā
+  outcome: the child's hand in the snake unharmed, the girl drives off the lion, the wolf among sheep like their dog
+- id: h-8482.2-ox
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  object:
+  - the ox
+  - the horse
+  quoted: lā yurkabu li-ḥarbin abadan; taḥruthu l-arḍa kullahā
+  outcome: the ox dear because it ploughs the whole earth; the horse a few dirhams because never ridden to war
+- id: h-8482.2-drought
+  ref: Jāmiʿ 65:8482.2
+  unit: hadith-65-abu-umama-dajjal-sermon
+  agent: God
+  action: commands the sky to withhold rain
+  time: three years before the Dajjal
+  number:
+  - 1/3
+  - 2/3
+  - all
+  quoted: thalāthu sanawātin shidād
+  outcome: every hoofed beast dies; people live on praise as on food
+- id: h-8485.1-dough
+  ref: Jāmiʿ 65:8485.1
+  unit: hadith-65-asma-dajjal-famine
+  agent: Asmāʾ bt. Yazīd
+  action: asks how believers will eat
+  object: dough kneaded before hunger
+  quoted: innā la-naʿjinu ʿajīnatanā fa-mā nakhbizuhā ḥattā najūʿ
+  outcome: tasbīḥ and taqdīs suffice them as the people of heaven
+- id: h-8487.1-angels
+  ref: Jāmiʿ 65:8487.1
+  unit: hadith-65-dajjal-features-2
+  agent: two angels like two prophets
+  action: answer the Dajjal's claim
+  number: 2
+  quoted: kadhabta; ṣadaqta
+  outcome: '''you lie'' heard by one; ''you speak truly'' heard by all'
+- id: h-8487.1-afiq
+  ref: Jāmiʿ 65:8487.1
+  unit: hadith-65-dajjal-features-2
+  agent: the Dajjal
+  action: is refused leave to enter Medina
+  place:
+  - Medina
+  - the pass of Afīq in Syria
+  quoted: hādhihi qaryatu dhālika l-rajul
+  outcome: God destroys him at the pass of Afīq
+- id: h-8487.2-isfahan
+  ref: Jāmiʿ 65:8487.2
+  unit: hadith-65-dajjal-from-the-east
+  agent: the Dajjal
+  action: comes out
+  place:
+  - the Jewish quarter of Isfahan
+  - Medina
+  - the gate of Lydda
+  number:
+  - 7 gates
+  - 2 angels each
+  - 40 years
+  quoted: fī yahūdiyyati Aṣbahān
+  outcome: Jesus kills him and remains forty years
+- id: h-8488.1-khurasan
+  ref: Jāmiʿ 65:8488.1
+  unit: hadith-65-dajjal-from-the-east
+  agent: the Dajjal
+  action: comes out
+  place: Khurāsān
+  quoted: yuqālu lahā Khurāsān
+  outcome: followed by peoples with faces like hammered shields
+- id: h-8489.3-dyer
+  ref: Jāmiʿ 65:8489.3
+  unit: hadith-65-dajjal-hubuk-and-abu-tufayl
+  agent: a crier
+  action: announces the Dajjal has come out
+  place: Kufa
+  quoted: kidhbatu ṣabbāgh
+  outcome: proclaimed a dyer's lie
+- id: h-8489.3-donkey
+  ref: Jāmiʿ 65:8489.3
+  unit: hadith-65-dajjal-hubuk-and-abu-tufayl
+  agent: the Dajjal
+  object: the donkey
+  quoted: rijsun ʿalā rijs; ṭayya farwati l-kabsh
+  outcome: 'only mount made to serve him: filth on filth; the earth folded for him like a ram''s fleece'
+- id: h-8490.1-heals
+  ref: Jāmiʿ 65:8490.1
+  unit: hadith-65-samura-dajjal-heals
+  agent: the Dajjal
+  action: heals and revives
+  object:
+  - the born-blind
+  - the leper
+  - the dead
+  quoted: yubriʾu l-akmaha wa-l-abraṣa wa-yuḥyī l-mawtā
+  outcome: claims to be their Lord
+- id: h-8490.1-west
+  ref: Jāmiʿ 65:8490.1
+  unit: hadith-65-samura-dajjal-heals
+  agent: Jesus son of Mary
+  action: comes and kills the Dajjal
+  place: from the west
+  quoted: min qibali l-maghrib muṣaddiqan bi-Muḥammad
+  outcome: then the Hour
+- id: h-8492.1-isfahan
+  ref: Jāmiʿ 65:8492.1
+  unit: hadith-65-isfahan-jews
+  agent: Jews of Isfahan
+  action: follow the Dajjal
+  instrument: ṭayālisa
+  number: 70000
+  quoted: sabʿūna alfan ʿalayhimu l-ṭayālisa
+- id: h-8493.3-gates
+  ref: Jāmiʿ 65:8493.3
+  unit: hadith-65-dajjal-barred-from-mecca-medina
+  agent: angels
+  action: guard Medina
+  number:
+  - 7 gates
+  - 2 angels each
+  quoted: lahā yawmaʾidhin sabʿatu abwāb ʿalā kulli bābin malakān
+  outcome: not even fear of the Dajjal enters
+- id: h-8494.1-copper
+  ref: Jāmiʿ 65:8494.1
+  unit: hadith-65-dajjal-barred-from-mecca-medina
+  agent: the Dajjal
+  action: saws a believer from his parting to his feet, walks between the pieces and raises him
+  instrument: a saw
+  quoted: naḥāsan fa-lā yastaṭīʿu ilayhi sabīlan
+  outcome: cannot slaughter him (neck turned to copper); throws him into what seems fire but is paradise
+- id: h-8494.2-uhud
+  ref: Jāmiʿ 65:8494.2
+  unit: hadith-65-dajjal-barred-from-mecca-medina
+  agent: the Messiah
+  action: comes from the east aiming at Medina
+  place:
+  - behind Uhud
+  - Syria
+  quoted: ḥattā yanzila dubura Uḥud
+  outcome: angels turn his face to Syria and there he perishes
+- id: h-8495.1-mosques
+  ref: Jāmiʿ 65:8495.1
+  unit: hadith-65-dajjal-barred-from-mecca-medina
+  agent: the Dajjal
+  action: does not approach
+  object:
+  - the Sacred Mosque
+  - Medina's mosque
+  - the mosque of al-Ṭūr
+  - al-Aqṣā
+  number:
+  - 4
+  - 40 mornings
+  quoted: lā yaqrabu arbaʿata masājid
+- id: h-8495.2-kahf
+  ref: Jāmiʿ 65:8495.2
+  unit: hadith-65-protection-from-dajjal
+  agent: whoever
+  action: memorises ten verses
+  object: the beginning (or end) of al-Kahf
+  number: 10
+  quoted: man ḥafiẓa ʿashra āyātin min awwali sūrati l-Kahf
+  outcome: protected from the Dajjal
+- id: h-8496.2-island
+  ref: Jāmiʿ 65:8496.2
+  unit: hadith-65-jassasa
+  agent: Tamīm al-Dārī with thirty men of Lakhm and Judhām
+  action: are tossed at sea and land on an island
+  number:
+  - 30 men
+  - a month
+  name: Tamīm al-Dārī
+  quoted: fa-laʿiba bihimu l-mawju shahran fī l-baḥr
+  outcome: meet the Jassāsa and the chained man
+- id: h-8496.2-jassasa
+  ref: Jāmiʿ 65:8496.2
+  unit: hadith-65-jassasa
+  agent: a hairy beast
+  action: sends them to the man in the monastery
+  name: al-Jassāsa
+  quoted: lā yadrūna mā qubuluhu min duburihi; ana l-jassāsa
+  outcome: they fear it is a she-devil
+- id: h-8496.2-chained
+  ref: Jāmiʿ 65:8496.2
+  unit: hadith-65-jassasa
+  agent: the greatest man they ever saw
+  instrument: iron fetters from knees to ankles, hands bound to neck
+  place: a monastery (dayr) on the island
+  quoted: innī ana l-masīḥ wa-innī ūshiku an yuʾdhana lī fī l-khurūj
+  outcome: says 'I am the Messiah' soon to be let out
+- id: h-8496.2-questions
+  ref: Jāmiʿ 65:8496.2
+  unit: hadith-65-jassasa
+  agent: the chained man
+  action: asks about
+  object:
+  - the palms of Baysān
+  - Lake Tiberias
+  - the spring of Zughar
+  - the prophet of the unlettered
+  place:
+  - Baysān
+  - Tiberias
+  - Zughar
+  quoted: ʿan nakhli Baysān ... buḥayrati l-Ṭabariyya ... ʿayni Zughar
+  outcome: all three waters and fruit will fail
+- id: h-8496.2-tayba
+  ref: Jāmiʿ 65:8496.2
+  unit: hadith-65-jassasa
+  agent: the prophet
+  action: strikes the pulpit with his staff
+  instrument: his staff (mikhṣara)
+  number: 3
+  quoted: hādhihi Ṭayba hādhihi Ṭayba hādhihi Ṭayba
+  outcome: '''this is Ṭayba'' three times'
+- id: h-8496.2-move
+  ref: Jāmiʿ 65:8496.2
+  unit: hadith-65-jassasa
+  agent: the prophet
+  action: tells a divorcee to move
+  recipient: Fāṭima bt. Qays
+  place:
+  - Umm Sharīk's house
+  - Ibn Umm Maktūm's house
+  quoted: fa-innī akrahu an yasquṭa ʿanki khimāruki
+  outcome: sent to the blind cousin, not to the house full of guests
+- id: h-8498.1-test
+  ref: Jāmiʿ 65:8498.1
+  unit: hadith-65-ibn-sayyad
+  agent: the prophet
+  action: hides a word for Ibn Ṣayyād
+  recipient: Ibn Ṣayyād
+  place: the fort of Banū Maghāla
+  name: Ibn Ṣayyād
+  quoted: huwa l-dukh; ikhsaʾ fa-lan taʿduwa qadrak
+  outcome: he says 'al-dukh'; 'begone'
+- id: h-8498.1-palms
+  ref: Jāmiʿ 65:8498.1
+  unit: hadith-65-ibn-sayyad
+  agent: the prophet
+  action: creeps behind palm trunks to overhear
+  recipient: Ibn Ṣayyād lying in a velvet wrap
+  name: Ṣāf
+  quoted: yā Ṣāf hādhā Muḥammad
+  outcome: his mother warns him; 'had she left him he would have made it clear'
+- id: h-8499.2-throne
+  ref: Jāmiʿ 65:8499.2
+  unit: hadith-65-ibn-sayyad
+  agent: Ibn Ṣayyād
+  action: sees a throne on the water
+  name: Iblīs
+  quoted: arā ʿarshan ʿalā l-māʾ
+  outcome: told it is the throne of Iblīs on the sea
+- id: h-8500.1-soil
+  ref: Jāmiʿ 65:8500.1
+  unit: hadith-65-ibn-sayyad
+  agent: Ibn Ṣayyād
+  action: asks about the soil of paradise
+  recipient: the prophet
+  quoted: darmakatun bayḍāʾ miskun khāliṣ
+  outcome: white fine flour, pure musk
+- id: h-8500.2-protest
+  ref: Jāmiʿ 65:8500.2
+  unit: hadith-65-ibn-sayyad
+  agent: Ibn Ṣayyād
+  action: protests he is not the Dajjal
+  object:
+  - a Muslim
+  - has a son
+  - came from Medina toward Mecca
+  recipient: Abū Saʿīd al-Khudrī
+  place: a halt on pilgrimage
+  quoted: huwa ʿaqīmun lā yūladu lah
+  outcome: then says he knows the Dajjal's birth and place
+- id: h-8501.2-thrice
+  ref: Jāmiʿ 65:8501.2
+  unit: hadith-65-ibn-sayyad
+  agent: the prophet
+  action: visits Ibn Ṣayyād
+  number: 3 or 4 visits
+  quoted: innamā ṣāḥibuhu ʿĪsā bnu Maryam
+  outcome: '''if it is he, only Jesus is his slayer'''
+- id: h-8503.1-swell
+  ref: Jāmiʿ 65:8503.1
+  unit: hadith-65-ibn-sayyad
+  agent: Ibn Ṣayyād
+  action: swells with anger
+  place: a street of Medina
+  quoted: fa-ntafakha ḥattā malaʾa l-sikka
+  outcome: fills the street; Ḥafṣa recalls the Dajjal comes out from an anger
+- id: h-8503.1-snort
+  ref: Jāmiʿ 65:8503.1
+  unit: hadith-65-ibn-sayyad
+  agent: Ibn Ṣayyād
+  action: snorts like a donkey
+  recipient: Ibn ʿUmar
+  instrument: Ibn ʿUmar's staff broken on him
+  quoted: fa-nakhara ka-ashaddi nakhīri ḥimār
+- id: h-8504.1-dukh
+  ref: Jāmiʿ 65:8504.1
+  unit: hadith-65-ibn-sayyad
+  agent: the companions
+  action: differ over Ibn Ṣayyād's word
+  object:
+  - dukh
+  - dīkh
+  quoted: qad ikhtalaftum wa-ana bayna aẓhurikum
+  outcome: '''you differ while I am among you; after me more'''
+- id: h-8505.3-brand
+  ref: Jāmiʿ 65:8505.3
+  unit: hadith-65-beast-of-the-earth
+  agent: the Beast
+  action: brands people on their snouts
+  quoted: fa-tasimu l-nāsa ʿalā kharāṭīmihim; min aḥadi l-mukhaṭṭamīn
+  outcome: a camel is bought 'from one of the branded'
+- id: h-8506.1-mosque
+  ref: Jāmiʿ 65:8506.1
+  unit: hadith-65-beast-of-the-earth
+  agent: the Beast
+  action: comes out
+  place: the most sacred of mosques
+  quoted: min aʿẓami l-masājidi ḥurma
+  outcome: the earth shakes then splits
+- id: h-8507.2-sun
+  ref: Jāmiʿ 65:8507.2
+  unit: hadith-65-sun-from-the-west
+  agent: the sun
+  action: runs to its resting place under the Throne and falls prostrate
+  place: under the Throne
+  quoted: taḥta l-ʿarsh fa-takhirru sājida
+  outcome: one day told to rise from its setting place
+- id: h-8508.1-sun
+  ref: Jāmiʿ 65:8508.1
+  unit: hadith-65-sun-from-the-west
+  agent: the sun
+  action: greets, prostrates and asks leave
+  quoted: ay rabbi inna l-masīra baʿīd
+  outcome: refused; says 'Lord, the way is far'; told to rise where it set
+- id: h-8508.1-gog
+  ref: Jāmiʿ 65:8508.1
+  unit: hadith-65-sun-from-the-west
+  agent: each of Gog and Magog
+  action: does not die until a thousand are born of him
+  number:
+  - 1000
+  - 3 nations
+  name:
+  - Mansak
+  - Tāwīl
+  - Tāwīs
+  quoted: mansak wa-tāwīl wa-tāwīs
+- id: h-8509.1-gate
+  ref: Jāmiʿ 65:8509.1
+  unit: hadith-65-sun-from-the-west
+  object: a gate for repentance
+  place: toward the sun's setting
+  number: seventy years wide
+  quoted: bāban maftūḥan ʿarḍuhu sabʿūna sana
+  outcome: open until the sun rises from its direction
+- id: h-8509.2-cross
+  ref: Jāmiʿ 65:8509.2
+  unit: hadith-65-descent-of-jesus
+  agent: the son of Mary
+  action: descends as just judge
+  object:
+  - breaks the cross
+  - kills the swine
+  - abolishes the jizya
+  quoted: fa-yaksiru l-ṣalīb wa-yaqtulu l-khinzīr wa-yaḍaʿu l-jizya
+  outcome: wealth overflows; one prostration better than the world
+- id: h-8509.3-qilas
+  ref: Jāmiʿ 65:8509.3
+  unit: hadith-65-descent-of-jesus
+  object: young she-camels (qilāṣ)
+  quoted: wa-la-tutrakanna l-qilāṣ fa-lā yusʿā ʿalayhā
+  outcome: left with none going after them; rancour, hatred, envy gone
+- id: h-8510.2-trumpet
+  ref: Jāmiʿ 65:8510.2
+  unit: hadith-65-descent-of-jesus
+  agent: the first to hear the trumpet
+  action: plasters his camels' trough
+  quoted: rajulun yalūṭu ḥawḍa ibilih
+  outcome: falls stunned; then a dew-like rain grows bodies; a second blast and they stand
+- id: h-8510.2-thousand
+  ref: Jāmiʿ 65:8510.2
+  unit: hadith-65-descent-of-jesus
+  object: the contingent of the fire
+  number: 999 of every 1000
+  quoted: min kulli alfin tisʿumiʾatin wa-tisʿatan wa-tisʿīn
+  outcome: the day that makes children grey
+- id: h-8511.2-jesus
+  ref: Jāmiʿ 65:8511.2
+  unit: hadith-65-descent-of-jesus
+  agent: Jesus
+  action: fights people for Islam, stays forty years and dies
+  number: 40
+  quoted: thumma yutawaffā fa-yuṣallī ʿalayhi l-muslimūn
+  outcome: the Muslims pray over him
+- id: h-8512.2-mahdi
+  ref: Jāmiʿ 65:8512.2
+  unit: hadith-65-mahdi
+  agent: al-Mahdī
+  action: fills the earth with equity and justice
+  number: 7 years
+  name: al-Mahdī
+  quoted: ajlā l-jabha aqnā l-anf
+- id: h-8514.1-name
+  ref: Jāmiʿ 65:8514.1
+  unit: hadith-65-mahdi
+  agent: God
+  action: lengthens the last day
+  quoted: yuwāṭiʾu smuhu smī wa-smu abīhi sma abī
+  outcome: sends a man of the prophet's house whose name and father's name match the prophet's
+- id: h-8516.1-lead
+  ref: Jāmiʿ 65:8516.1
+  unit: hadith-65-mahdi
+  agent: Jesus son of Mary
+  action: declines to lead the prayer
+  recipient: their commander the Mahdī
+  quoted: taʿāla ṣalli binā; lā
+  outcome: '''some of you are commanders over others'''
+- id: h-8518.3-tribute
+  ref: Jāmiʿ 65:8518.3
+  unit: hadith-65-mahdi
+  agent:
+  - the Persians
+  - the Romans
+  action: stop the tribute
+  object:
+  - qafīz
+  - dirham
+  - dinar
+  - mudy
+  recipient:
+  - Iraq
+  - Syria
+  quoted: yaḥthī l-māla ḥathyan lā yaʿudduhu ʿadadan
+  outcome: then a caliph scoops wealth without counting
+- id: h-8519.1-arrows
+  ref: Jāmiʿ 65:8519.1
+  unit: hadith-65-gog-and-magog
+  agent: Gog and Magog
+  action: shoot arrows at the sky
+  place: Jabal al-Khamr, the mountain of Jerusalem
+  quoted: fa-yaruddu llāhu ʿalayhim nushshābahum makhḍūbatan daman
+  outcome: arrows come back stained with blood
+- id: h-8519.2-weapons
+  ref: Jāmiʿ 65:8519.2
+  unit: hadith-65-gog-and-magog
+  agent: the Muslims
+  action: kindle fires
+  object: Gog and Magog's bows, arrows and shields
+  time: seven years
+  number: 7
+  quoted: sayūqidu l-muslimūna min qisiyyi Yaʾjūja wa-Maʾjūj
+- id: h-8520.1-volunteer
+  ref: Jāmiʿ 65:8520.1
+  unit: hadith-65-gog-and-magog
+  agent: a volunteer
+  action: goes down from the fort expecting death
+  quoted: alā rajulun yashrī nafsah
+  outcome: finds Gog and Magog dead on one another; the flocks fatten on their flesh
+- id: h-8521.1-dig
+  ref: Jāmiʿ 65:8521.1
+  unit: hadith-65-gog-and-magog
+  agent: Gog and Magog
+  action: dig the barrier daily
+  quoted: fa-sataḥfirūnahu ghadan in shāʾa llāh
+  outcome: it is restored overnight until their chief says 'if God wills'
+- id: h-8521.3-ring
+  ref: Jāmiʿ 65:8521.3
+  unit: hadith-65-gog-and-magog
+  agent: the prophet
+  action: wakes red-faced
+  object: the barrier of Gog and Magog opened this much
+  instrument: a ring of finger and thumb
+  number:
+  - 90
+  - 100
+  - 10
+  name: Zaynab bt. Jaḥsh
+  quoted: waylun li-l-ʿarab min sharrin qadi qtarab
+- id: h-8522.3-east
+  ref: Jāmiʿ 65:8522.3
+  unit: hadith-65-three-sinkings
+  agent: the earth
+  action: swallows a land in the east
+  quoted: idhā kāna aktharu ahlihā l-khabath
+  outcome: even with Muslims in it when most are filth
+- id: h-8522.4-fire
+  ref: Jāmiʿ 65:8522.4
+  unit: hadith-65-fire-that-gathers
+  agent: a fire
+  action: drives people to their gathering
+  place:
+  - Yemen
+  - the depth of Aden
+  quoted: tanzilu maʿahum idhā nazalū wa-taqīlu maʿahum idhā qālū
+  outcome: halts when they halt, rests at noon when they rest; a wind casts people into the sea
+- id: h-8523.1-salam
+  ref: Jāmiʿ 65:8523.1
+  unit: hadith-65-fire-that-gathers
+  agent: ʿAbd Allāh b. Salām
+  action: asks three questions
+  object:
+  - first sign of the Hour
+  - first food of paradise
+  - a child's resemblance
+  recipient: the prophet
+  name: ʿAbd Allāh b. Salām
+  quoted: lā yaʿlamuhunna illā nabiyy
+  outcome: becomes Muslim; the Jews turn from praise to reviling
+- id: h-8523.1-liver
+  ref: Jāmiʿ 65:8523.1
+  unit: hadith-65-fire-that-gathers
+  object: first food of paradise
+  quoted: ziyādatu kabidi ḥūt
+  outcome: the lobe of a fish's liver
+- id: h-8524.2-camel
+  ref: Jāmiʿ 65:8524.2
+  unit: hadith-65-fire-that-gathers
+  agent: people gathered
+  action: ride
+  number:
+  - 2
+  - 3
+  - 4
+  - 10 on a camel
+  quoted: wa-ʿasharatun ʿalā baʿīr
+  outcome: the fire drives the rest, staying night and noon with them
+- id: h-8524.3-orchard
+  ref: Jāmiʿ 65:8524.3
+  unit: hadith-65-fire-that-gathers
+  agent: a man
+  action: gives his fine orchard for an old she-camel with a saddle
+  quoted: fa-yuʿṭīhā bi-l-shārifi dhāti l-qatab
+  outcome: cannot obtain it
+- id: h-8525.2-wife
+  ref: Jāmiʿ 65:8525.2
+  unit: hadith-65-fire-that-gathers
+  agent: the husband
+  action: owes his wife
+  object:
+  - feed her when he eats
+  - clothe her when he dresses
+  - no blow to the face
+  - no reviling
+  - shun only within the house
+  quoted: wa-lā taḍribi l-wajh wa-lā tuqabbiḥ
+- id: h-8525.2-thigh
+  ref: Jāmiʿ 65:8525.2
+  unit: hadith-65-fire-that-gathers
+  agent: the thigh
+  action: is the first to speak for a man
+  time: resurrection day
+  number: 70
+  quoted: awwalu mā yuʿribu ʿalā aḥadikum fakhidhuh
+  outcome: mouths bridled; seventy nations completed
