@@ -8327,7 +8327,7 @@
      "shared": [
       "cucumber"
      ],
-     "skeleton": "qnS",
+     "skeleton": "qrS",
      "dissimilation": true
     },
     {
@@ -12999,8 +12999,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "bq",
-     "dissimilation": true
+     "skeleton": "brq",
+     "dissimilation": false
     },
     {
      "from": "berqu I",
@@ -13008,8 +13008,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "bq",
-     "dissimilation": true
+     "skeleton": "brq",
+     "dissimilation": false
     },
     {
      "from": "berqu I",
@@ -13017,8 +13017,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "bq",
-     "dissimilation": true
+     "skeleton": "brq",
+     "dissimilation": false
     },
     {
      "from": "he:H1300",
@@ -13026,8 +13026,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "bq",
-     "dissimilation": true
+     "skeleton": "brq",
+     "dissimilation": false
     },
     {
      "from": "he:H1299",
@@ -13035,8 +13035,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "bq",
-     "dissimilation": true
+     "skeleton": "brq",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -17537,34 +17537,25 @@
    ],
    "sux": [],
    "links": [
-    "he:H4751",
-    "ar:أَمَرّ",
     "he:H4843",
+    "ar:أَمَرّ",
     "he:H4844",
+    "he:H4815",
+    "he:H4846",
+    "he:H4751",
     "he:H4753",
     "he:H3992",
     "he:H4805",
-    "he:H4784",
-    "he:H4815",
-    "he:H4846"
+    "he:H4784"
    ],
    "edges": [
-    {
-     "from": "marru I",
-     "to": "he:H4751",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": false
-    },
     {
      "from": "marru I",
      "to": "he:H4843",
      "shared": [
       "bitter"
      ],
-     "skeleton": "mr",
+     "skeleton": "mrr",
      "dissimilation": true
     },
     {
@@ -17573,8 +17564,35 @@
      "shared": [
       "bitter"
      ],
-     "skeleton": "mr",
+     "skeleton": "mrr",
      "dissimilation": true
+    },
+    {
+     "from": "marru I",
+     "to": "he:H4815",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mrr",
+     "dissimilation": true
+    },
+    {
+     "from": "marru I",
+     "to": "he:H4846",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mrr",
+     "dissimilation": true
+    },
+    {
+     "from": "marru I",
+     "to": "he:H4751",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": false
     },
     {
      "from": "marru I",
@@ -17614,33 +17632,6 @@
     },
     {
      "from": "marru I",
-     "to": "he:H4815",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "marru I",
-     "to": "he:H4846",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "marru I",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": false
-    },
-    {
-     "from": "he:H4751",
      "to": "ar:أَمَرّ",
      "shared": [
       "bitter"
@@ -17665,6 +17656,33 @@
      ],
      "skeleton": "mr",
      "dissimilation": true
+    },
+    {
+     "from": "he:H4815",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "he:H4846",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "he:H4751",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": false
     },
     {
      "from": "he:H4753",
@@ -17701,24 +17719,6 @@
      ],
      "skeleton": "mr",
      "dissimilation": false
-    },
-    {
-     "from": "he:H4815",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "he:H4846",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
     }
    ],
    "langs": [
@@ -17728,11 +17728,11 @@
    ],
    "targets": [
     {
-     "key": "he:H4751",
-     "form": "מַר",
-     "gloss": "bitter (literally or figuratively)",
-     "translit": "mar",
-     "n": 36
+     "key": "he:H4843",
+     "form": "מָרַר",
+     "gloss": "to be (causatively, make) bitter (literally or figuratively)",
+     "translit": "mârar",
+     "n": 13
     },
     {
      "key": "ar:أَمَرّ",
@@ -17742,18 +17742,32 @@
      "n": 1
     },
     {
-     "key": "he:H4843",
-     "form": "מָרַר",
-     "gloss": "to be (causatively, make) bitter (literally or figuratively)",
-     "translit": "mârar",
-     "n": 13
-    },
-    {
      "key": "he:H4844",
      "form": "מְרֹר",
      "gloss": "a bitter herb",
      "translit": "mᵉrôr",
      "n": 3
+    },
+    {
+     "key": "he:H4815",
+     "form": "מְרִירִי",
+     "gloss": "bitter, i.e. poisonous",
+     "translit": "mᵉrîyrîy",
+     "n": 1
+    },
+    {
+     "key": "he:H4846",
+     "form": "מְרֹרָה",
+     "gloss": "properly, bitterness",
+     "translit": "mᵉrôrâh",
+     "n": 4
+    },
+    {
+     "key": "he:H4751",
+     "form": "מַר",
+     "gloss": "bitter (literally or figuratively)",
+     "translit": "mar",
+     "n": 36
     },
     {
      "key": "he:H4753",
@@ -17782,20 +17796,6 @@
      "gloss": "to be (causatively, make) bitter (or unpleasant)",
      "translit": "mârâh",
      "n": 44
-    },
-    {
-     "key": "he:H4815",
-     "form": "מְרִירִי",
-     "gloss": "bitter, i.e. poisonous",
-     "translit": "mᵉrîyrîy",
-     "n": 1
-    },
-    {
-     "key": "he:H4846",
-     "form": "מְרֹרָה",
-     "gloss": "properly, bitterness",
-     "translit": "mᵉrôrâh",
-     "n": 4
     }
    ],
    "kind": "chain",
@@ -27085,8 +27085,8 @@
      "shared": [
       "chain"
      ],
-     "skeleton": "SrSr",
-     "dissimilation": false
+     "skeleton": "SSr",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -32814,7 +32814,7 @@
      "shared": [
       "oak"
      ],
-     "skeleton": "nln",
+     "skeleton": "rln",
      "dissimilation": true
     },
     {
@@ -32848,7 +32848,7 @@
     }
    ],
    "kind": "cognate",
-   "class": "inherited"
+   "class": "loan"
   },
   {
    "akk": "alālu I",
@@ -33283,7 +33283,7 @@
      "shared": [
       "preciou"
      ],
-     "skeleton": "rqr",
+     "skeleton": "nqr",
      "dissimilation": true
     },
     {
@@ -34625,8 +34625,8 @@
      "shared": [
       "variegated"
      ],
-     "skeleton": "bm",
-     "dissimilation": true
+     "skeleton": "brm",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -34666,8 +34666,8 @@
      "shared": [
       "variegated"
      ],
-     "skeleton": "bm",
-     "dissimilation": true
+     "skeleton": "brm",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -34710,8 +34710,8 @@
      "shared": [
       "lighten"
      ],
-     "skeleton": "bq",
-     "dissimilation": true
+     "skeleton": "brq",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -38313,8 +38313,8 @@
      "shared": [
       "barber"
      ],
-     "skeleton": "glb",
-     "dissimilation": false
+     "skeleton": "grlb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -38331,7 +38331,7 @@
     }
    ],
    "kind": "cognate",
-   "class": "inherited"
+   "class": "loan"
   },
   {
    "akk": "galtu I",
@@ -39434,8 +39434,8 @@
       "farmer",
       "ploughman"
      ],
-     "skeleton": "kr",
-     "dissimilation": false
+     "skeleton": "nkr",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -40417,8 +40417,8 @@
       "loaf",
       "round"
      ],
-     "skeleton": "kkr",
-     "dissimilation": false
+     "skeleton": "knkr",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -40587,7 +40587,7 @@
      "shared": [
       "wing"
      ],
-     "skeleton": "kp",
+     "skeleton": "knp",
      "dissimilation": true
     }
    ],
@@ -41634,8 +41634,8 @@
      "shared": [
       "heart"
      ],
-     "skeleton": "lb",
-     "dissimilation": false
+     "skeleton": "lrb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -41652,7 +41652,7 @@
     }
    ],
    "kind": "cognate",
-   "class": "inherited"
+   "class": "loan"
   },
   {
    "akk": "lubuštu I",
@@ -42413,8 +42413,8 @@
      "shared": [
       "ill"
      ],
-     "skeleton": "mC",
-     "dissimilation": true
+     "skeleton": "mrC",
+     "dissimilation": false
     },
     {
      "from": "marāṣu I",
@@ -42422,8 +42422,8 @@
      "shared": [
       "ill"
      ],
-     "skeleton": "mC",
-     "dissimilation": true
+     "skeleton": "mrC",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -42461,35 +42461,35 @@
    ],
    "sux": [],
    "links": [
-    "he:H4639",
     "he:H4181",
-    "he:H4180"
+    "he:H4180",
+    "he:H4639"
    ],
    "edges": [
-    {
-     "from": "maršītu I",
-     "to": "he:H4639",
-     "shared": [
-      "possession",
-      "property"
-     ],
-     "skeleton": "mS",
-     "dissimilation": true
-    },
     {
      "from": "maršītu I",
      "to": "he:H4181",
      "shared": [
       "possession"
      ],
-     "skeleton": "mS",
-     "dissimilation": true
+     "skeleton": "mrS",
+     "dissimilation": false
     },
     {
      "from": "maršītu I",
      "to": "he:H4180",
      "shared": [
       "possession"
+     ],
+     "skeleton": "mrS",
+     "dissimilation": false
+    },
+    {
+     "from": "maršītu I",
+     "to": "he:H4639",
+     "shared": [
+      "possession",
+      "property"
      ],
      "skeleton": "mS",
      "dissimilation": true
@@ -42500,13 +42500,6 @@
     "he"
    ],
    "targets": [
-    {
-     "key": "he:H4639",
-     "form": "מַעֲשֶׂה",
-     "gloss": "an action (good or bad)",
-     "translit": "maʻăseh",
-     "n": 221
-    },
     {
      "key": "he:H4181",
      "form": "מוֹרָשָׁה",
@@ -42520,6 +42513,13 @@
      "gloss": "a possession",
      "translit": "môwrâsh",
      "n": 3
+    },
+    {
+     "key": "he:H4639",
+     "form": "מַעֲשֶׂה",
+     "gloss": "an action (good or bad)",
+     "translit": "maʻăseh",
+     "n": 221
     }
    ],
    "kind": "cognate",
@@ -42549,8 +42549,8 @@
      "shared": [
       "sick"
      ],
-     "skeleton": "mC",
-     "dissimilation": true
+     "skeleton": "mrC",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -43334,13 +43334,31 @@
    ],
    "sux": [],
    "links": [
+    "he:H4787",
+    "he:H4846",
     "he:H4786",
     "he:H4751",
-    "he:H4805",
-    "he:H4846",
-    "he:H4787"
+    "he:H4805"
    ],
    "edges": [
+    {
+     "from": "murru I",
+     "to": "he:H4787",
+     "shared": [
+      "bitterness"
+     ],
+     "skeleton": "mnr",
+     "dissimilation": true
+    },
+    {
+     "from": "murru I",
+     "to": "he:H4846",
+     "shared": [
+      "bitterness"
+     ],
+     "skeleton": "mrr",
+     "dissimilation": true
+    },
     {
      "from": "murru I",
      "to": "he:H4786",
@@ -43367,24 +43385,6 @@
      ],
      "skeleton": "mr",
      "dissimilation": false
-    },
-    {
-     "from": "murru I",
-     "to": "he:H4846",
-     "shared": [
-      "bitterness"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "murru I",
-     "to": "he:H4787",
-     "shared": [
-      "bitterness"
-     ],
-     "skeleton": "mr",
-     "dissimilation": false
     }
    ],
    "langs": [
@@ -43392,6 +43392,20 @@
     "he"
    ],
    "targets": [
+    {
+     "key": "he:H4787",
+     "form": "מׇרָּה",
+     "gloss": "trouble",
+     "translit": "morrâh",
+     "n": 1
+    },
+    {
+     "key": "he:H4846",
+     "form": "מְרֹרָה",
+     "gloss": "properly, bitterness",
+     "translit": "mᵉrôrâh",
+     "n": 4
+    },
     {
      "key": "he:H4786",
      "form": "מֹרָה",
@@ -43412,20 +43426,6 @@
      "gloss": "bitterness, i.e. (figuratively) rebellion",
      "translit": "mᵉrîy",
      "n": 21
-    },
-    {
-     "key": "he:H4846",
-     "form": "מְרֹרָה",
-     "gloss": "properly, bitterness",
-     "translit": "mᵉrôrâh",
-     "n": 4
-    },
-    {
-     "key": "he:H4787",
-     "form": "מׇרָּה",
-     "gloss": "trouble",
-     "translit": "morrâh",
-     "n": 1
     }
    ],
    "kind": "cognate",
@@ -43455,8 +43455,8 @@
      "shared": [
       "disease"
      ],
-     "skeleton": "mC",
-     "dissimilation": true
+     "skeleton": "mrC",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -45902,7 +45902,7 @@
      "shared": [
       "pastry"
      ],
-     "skeleton": "pnng",
+     "skeleton": "pg",
      "dissimilation": true
     }
    ],
@@ -46222,8 +46222,8 @@
      "shared": [
       "breach"
      ],
-     "skeleton": "prC",
-     "dissimilation": false
+     "skeleton": "pC",
+     "dissimilation": true
     },
     {
      "from": "parāṣu I",
@@ -46231,8 +46231,8 @@
      "shared": [
       "breach"
      ],
-     "skeleton": "prC",
-     "dissimilation": false
+     "skeleton": "pC",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -47077,8 +47077,8 @@
      "shared": [
       "nest"
      ],
-     "skeleton": "qn",
-     "dissimilation": true
+     "skeleton": "qnn",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -47122,8 +47122,8 @@
      "shared": [
       "horn"
      ],
-     "skeleton": "qn",
-     "dissimilation": true
+     "skeleton": "qrn",
+     "dissimilation": false
     },
     {
      "from": "qarnu I",
@@ -47131,8 +47131,8 @@
      "shared": [
       "horn"
      ],
-     "skeleton": "qn",
-     "dissimilation": true
+     "skeleton": "qrn",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -50700,8 +50700,8 @@
      "shared": [
       "dust"
      ],
-     "skeleton": "tb",
-     "dissimilation": true
+     "skeleton": "trb",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -50741,8 +50741,8 @@
      "shared": [
       "dust"
      ],
-     "skeleton": "tb",
-     "dissimilation": true
+     "skeleton": "trb",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -52774,8 +52774,8 @@
       "sprinkle",
       "strew"
      ],
-     "skeleton": "Zq",
-     "dissimilation": true
+     "skeleton": "Zrq",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -53437,8 +53437,8 @@
      "shared": [
       "eunuch"
      ],
-     "skeleton": "SS",
-     "dissimilation": true
+     "skeleton": "SrS",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -55990,7 +55990,7 @@
      "shared": [
       "sixth"
      ],
-     "skeleton": "SnS",
+     "skeleton": "SrS",
      "dissimilation": true
     },
     {
@@ -56040,7 +56040,7 @@
     }
    ],
    "kind": "cognate",
-   "class": "inherited"
+   "class": "loan"
   },
   {
    "akk": "šeṭû II",
@@ -57091,8 +57091,8 @@
      "shared": [
       "root"
      ],
-     "skeleton": "SS",
-     "dissimilation": true
+     "skeleton": "SrS",
+     "dissimilation": false
     },
     {
      "from": "šuršu I",
@@ -57188,7 +57188,7 @@
      "shared": [
       "sixth"
      ],
-     "skeleton": "SnS",
+     "skeleton": "SrS",
      "dissimilation": true
     },
     {
@@ -57238,7 +57238,7 @@
     }
    ],
    "kind": "cognate",
-   "class": "inherited"
+   "class": "loan"
   },
   {
    "akk": "šênu I",
@@ -59838,16 +59838,6 @@
   },
   {
    "from": "uga:ʿšrm",
-   "to": "he:H6242",
-   "shared": [
-    "twenty"
-   ],
-   "skeleton": "Srm",
-   "dissimilation": false,
-   "to_form": "עֶשְׂרִים"
-  },
-  {
-   "from": "uga:ʿšrm",
    "to": "he:H8147",
    "shared": [
     "twenty"
@@ -59857,13 +59847,23 @@
    "to_form": "שְׁנַיִם"
   },
   {
+   "from": "uga:ʿšrm",
+   "to": "he:H6242",
+   "shared": [
+    "twenty"
+   ],
+   "skeleton": "Sm",
+   "dissimilation": true,
+   "to_form": "עֶשְׂרִים"
+  },
+  {
    "from": "uga:qrt",
    "to": "he:H7176",
    "shared": [
     "city"
    ],
-   "skeleton": "qrt",
-   "dissimilation": false,
+   "skeleton": "qt",
+   "dissimilation": true,
    "to_form": "קֶרֶת"
   },
   {
@@ -60086,6 +60086,6 @@
   "heb_ar_edges": 1232,
   "uga_edges": 58,
   "chains": 774,
-  "loan_like": 35
+  "loan_like": 40
  }
 }

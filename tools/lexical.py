@@ -675,6 +675,8 @@ def build_chain_leads(bench):
         later = {t["key"].split(":")[0] for t in c["targets"]}
         if not (c["sux"] and c["akk_n"]) and not (c["akk_n"] >= 3 and later & {"he", "arc"} and "ar" in later):
             continue
+        if c.get("class") != "loan":
+            continue        # inherited Semitic vocabulary (bītu ~ bayt) is background, not a lead (anelex.run)
         lid = "chain-" + re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFD", c["akk_cf"]).encode("ascii", "ignore").decode().lower()).strip("-")
         lexical = [{"lang": "sux", "form": s["sux"], "translit": s["sux"], "gloss": s["sux_gloss"] or "",
                     "note": f"written {s['logogram']} in Akkadian"} for s in c["sux"][:1]]

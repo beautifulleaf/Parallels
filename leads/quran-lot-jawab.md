@@ -61,7 +61,7 @@ passages:
   text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ
     ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
 evidence:
-- text: 'No longer produced by the current pipeline (2026-10-29): its statistics or cognate checks no
+- text: 'No longer produced by the current pipeline (2026-10-31): its statistics or cognate checks no
     longer meet the thresholds after a method change. Kept for review.'
   basis: original
 - text: p = 1.1e-05 (hypergeometric, verse level), q = 6.2e-05. Counted from the original text with the

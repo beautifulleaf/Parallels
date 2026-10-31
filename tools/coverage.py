@@ -55,8 +55,13 @@ def main():
     taxonomy = yaml.safe_load((ROOT / "data" / "traditions.yaml").read_text(encoding="utf-8"))
 
     read = defaultdict(set)
+    ane = originals.ane()
+    ane_read = set()      # counted per text below: a unit's tradition can differ from its text's
     for u in units:
-        if u.get("original"):
+        if u.get("original") and u.get("corpus") == "ane":
+            for r in u.get("read") or []:
+                ane_read |= set(originals.ane_refs(r, ane) or [])
+        elif u.get("original"):
             read[u["corpus"]] |= expand_read(u, quran_text, hebrew_text)
     aramaic = aramaic_only_verses()
 
@@ -72,6 +77,23 @@ def main():
                  f"{pct(q_lab, len(quran.verses))} | {pct(len(read['quran']), len(quran.verses))} |")
     lines.append(f"| Hebrew Bible (WLC/OSHB) | {len(heb.verses):,} | {pct(len(heb.verses) - len(aramaic), len(heb.verses))} "
                  f"(Aramaic sections excluded) | {pct(h_lab, len(heb.verses))} | {pct(len(read['hebrew-bible']), len(heb.verses))} |")
+    # ancient Near East: lines of the texts in scope (data/ane/texts.yaml), per tradition
+    spec = yaml.safe_load((ROOT / "data" / "ane" / "texts.yaml").read_text(encoding="utf-8"))["texts"]
+    trad_of = {t["siglum"]: t["tradition"] for t in spec}
+    in_scope, lemmatized = defaultdict(set), defaultdict(set)
+    for sig, keys in ane.keys.items():
+        trad = trad_of.get(sig)
+        for key in keys if trad else ():
+            in_scope[trad].add(key)
+            if (ane.lines.get(key) or {}).get("lemmas"):
+                lemmatized[trad].add(key)
+    names0 = {t["id"]: t["name"] for t in taxonomy["traditions"]}
+    lines += ["", "| Ancient Near East (`data/ane/SCOPE.md`) | Lines | With lemmas (lexical and linguistic layers) | "
+              "Read in full for motif tagging | Compared with the Quran |", "|---|---|---|---|---|"]
+    for trad in sorted(in_scope):
+        n = len(in_scope[trad])
+        lines.append(f"| {names0.get(trad, trad)} | {n:,} | {pct(len(lemmatized[trad]), n)} | "
+                     f"{pct(len(ane_read & in_scope[trad]), n)} | every unit (`data/alignments/ane-quran/`) |")
     lines += ["", "Concentration and bridge detection only see verses inside narrative labels. Synonym "
               "and cognate checks see every scanned verse.", ""]
 
@@ -99,7 +121,7 @@ def main():
               "- The hand-written benchmark leads were drafted from secondary knowledge. Only their Quran and "
               "Hebrew passages show original text.", "",
               "## Traditions with no original text in the repo yet", ""]
-    have = {"islam", "judaism"}
+    have = {"islam", "judaism"} | set(in_scope)
     for t in taxonomy["traditions"]:
         if t["id"] not in have:
             lines.append(f"- {t['name']}")

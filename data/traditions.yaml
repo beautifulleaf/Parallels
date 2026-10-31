@@ -20,7 +20,7 @@ traditions:
   - {id: ane-ugaritic, name: Ugaritic / Canaanite, group: western, family: Ancient Near East}
   - {id: ane-egyptian, name: Egyptian, group: western, family: Ancient Near East}
   - {id: ane-hittite, name: Hittite / Hurrian, group: western, family: Ancient Near East}
-  - {id: ane-levantine, name: Northwest Semitic inscriptions (Moabite, Phoenician, Aramaic, epigraphic Hebrew), group: western, family: Ancient Near East}
+  - {id: ane-levantine, name: "Northwest Semitic inscriptions (Moabite, Phoenician, Aramaic, epigraphic Hebrew)", group: western, family: Ancient Near East}
 
   - {id: greco-roman, name: Greco-Roman, group: western, family: Greco-Roman}
 

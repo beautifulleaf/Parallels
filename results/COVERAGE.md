@@ -1,6 +1,6 @@
 # Coverage
 
-Generated 2026-10-29 by `tools/coverage.py`.
+Generated 2026-10-31 by `tools/coverage.py`.
 
 A parallel can only surface from text that the pipeline has scanned or a reader has read. This page lists both, so the blind spots are explicit.
 
@@ -10,6 +10,15 @@ A parallel can only surface from text that the pipeline has scanned or a reader 
 |---|---|---|---|---|
 | Quran (QAC) | 6,236 | 6,236 / 6,236 (100.0%) | 1,308 / 6,236 (21.0%) | 6,236 / 6,236 (100.0%) |
 | Hebrew Bible (WLC/OSHB) | 23,213 | 22,946 / 23,213 (98.8%) (Aramaic sections excluded) | 7,765 / 23,213 (33.5%) | 23,213 / 23,213 (100.0%) |
+
+| Ancient Near East (`data/ane/SCOPE.md`) | Lines | With lemmas (lexical and linguistic layers) | Read in full for motif tagging | Compared with the Quran |
+|---|---|---|---|---|
+| Akkadian | 46,057 | 41,459 / 46,057 (90.0%) | 46,057 / 46,057 (100.0%) | every unit (`data/alignments/ane-quran/`) |
+| Egyptian | 8,979 | 8,920 / 8,979 (99.3%) | 8,979 / 8,979 (100.0%) | every unit (`data/alignments/ane-quran/`) |
+| Hittite / Hurrian | 21,555 | 8,320 / 21,555 (38.6%) | 21,555 / 21,555 (100.0%) | every unit (`data/alignments/ane-quran/`) |
+| Northwest Semitic inscriptions (Moabite, Phoenician, Aramaic, epigraphic Hebrew) | 818 | 0 / 818 (0.0%) | 818 / 818 (100.0%) | every unit (`data/alignments/ane-quran/`) |
+| Sumerian | 35,798 | 35,317 / 35,798 (98.7%) | 35,798 / 35,798 (100.0%) | every unit (`data/alignments/ane-quran/`) |
+| Ugaritic / Canaanite | 4,071 | 3,680 / 4,071 (90.4%) | 4,071 / 4,071 (100.0%) | every unit (`data/alignments/ane-quran/`) |
 
 Concentration and bridge detection only see verses inside narrative labels. Synonym and cognate checks see every scanned verse.
 
@@ -72,9 +81,6 @@ These were tagged from what is known about the text, not from the text itself, w
 | Abraham in Terah's idol shop (Genesis Rabbah 38:13) | Judaism | 6 |
 | Abraham burns the house of idols (Jubilees 12) | Judaism | 4 |
 | Abraham's argument from the heavens (Josephus, Antiquities 1.155–156) | Judaism | 1 |
-| Utnapishtim's flood (Gilgamesh, Tablet XI) | Akkadian | 14 |
-| Atrahasis | Akkadian | 10 |
-| Ziusudra (Eridu Genesis) | Sumerian | 6 |
 | Manu and the fish (Śatapatha Brāhmaṇa 1.8.1) | Hinduism | 7 |
 | Deucalion and Pyrrha (Ovid, Apollodorus) | Greco-Roman | 9 |
 | The generation of the Flood (Babylonian Talmud, Sanhedrin 108b) | Judaism | 3 |
@@ -85,7 +91,6 @@ These were tagged from what is known about the text, not from the text itself, w
 | Gospel of Pseudo-Matthew | Early Christianity & Gnostics | 2 |
 | Arabic (Syriac) Infancy Gospel | Eastern Christianity | 1 |
 | Infancy Gospel of Thomas | Early Christianity & Gnostics | 1 |
-| Tale of Two Brothers (Papyrus d'Orbiney) | Egyptian | 3 |
 | Joseph sees his father's image (Babylonian Talmud, Sotah 36b) | Judaism | 2 |
 | The Egyptian women and Joseph (Midrash Tanhuma, Vayeshev) | Judaism | 2 |
 | Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5) | Judaism | 2 |
@@ -93,16 +98,11 @@ These were tagged from what is known about the text, not from the text itself, w
 
 ## Leads
 
-- 2573 leads in total; 26 written by hand (the benchmark set) and 2547 by the pipeline.
+- 4853 leads in total; 26 written by hand (the benchmark set) and 4827 by the pipeline.
 - The hand-written benchmark leads were drafted from secondary knowledge. Only their Quran and Hebrew passages show original text.
 
 ## Traditions with no original text in the repo yet
 
-- Sumerian
-- Akkadian
-- Ugaritic / Canaanite
-- Egyptian
-- Hittite / Hurrian
 - Greco-Roman
 - Zoroastrianism
 - Manichaeism

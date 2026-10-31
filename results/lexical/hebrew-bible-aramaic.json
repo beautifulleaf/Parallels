@@ -1041,6 +1041,41 @@
    "translit": "ʼâthâh"
   },
   {
+   "lemma": "H5957",
+   "n": 15,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    13,
+    2
+   ],
+   "p": 0.9440298507464928,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.4.19",
+    "Dan.2.4",
+    "Dan.2.20",
+    "Dan.2.44",
+    "Dan.3.9",
+    "Dan.3.33",
+    "Dan.4.31",
+    "Dan.5.10",
+    "Dan.6.7",
+    "Dan.6.22",
+    "Dan.6.27",
+    "Dan.7.14",
+    "Dan.7.18",
+    "Dan.7.27"
+   ],
+   "form": "עָלַם",
+   "gloss": "remote time, i.e. the future or past indefinitely",
+   "root": "",
+   "pos": "Nc",
+   "translit": "ʻâlam"
+  },
+  {
    "lemma": "H3118",
    "n": 15,
    "narratives": [
@@ -1109,41 +1144,6 @@
    "root": "",
    "pos": "V",
    "translit": "shᵉkach"
-  },
-  {
-   "lemma": "H5957",
-   "n": 15,
-   "narratives": [
-    "daniel",
-    "ezra-letters"
-   ],
-   "counts": [
-    13,
-    2
-   ],
-   "p": 0.9440298507464928,
-   "refs": [
-    "Ezra.4.15",
-    "Ezra.4.19",
-    "Dan.2.4",
-    "Dan.2.20",
-    "Dan.2.44",
-    "Dan.3.9",
-    "Dan.3.33",
-    "Dan.4.31",
-    "Dan.5.10",
-    "Dan.6.7",
-    "Dan.6.22",
-    "Dan.6.27",
-    "Dan.7.14",
-    "Dan.7.18",
-    "Dan.7.27"
-   ],
-   "form": "עָלַם",
-   "gloss": "remote time, i.e. the future or past indefinitely",
-   "root": "",
-   "pos": "Nc",
-   "translit": "ʻâlam"
   },
   {
    "lemma": "H2298",
@@ -2545,29 +2545,6 @@
    "translit": "nᵉsâʼ"
   },
   {
-   "lemma": "H2257",
-   "n": 3,
-   "narratives": [
-    "daniel",
-    "ezra-letters"
-   ],
-   "counts": [
-    2,
-    1
-   ],
-   "p": 0.9888059701494847,
-   "refs": [
-    "Ezra.4.22",
-    "Dan.3.25",
-    "Dan.6.24"
-   ],
-   "form": "חֲבַל",
-   "gloss": "harm (personal or pecuniary)",
-   "root": "",
-   "pos": "Nc",
-   "translit": "chăbal"
-  },
-  {
    "lemma": "H7680",
    "n": 3,
    "narratives": [
@@ -2589,6 +2566,29 @@
    "root": "",
    "pos": "V",
    "translit": "sᵉgâʼ"
+  },
+  {
+   "lemma": "H2257",
+   "n": 3,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    2,
+    1
+   ],
+   "p": 0.9888059701494847,
+   "refs": [
+    "Ezra.4.22",
+    "Dan.3.25",
+    "Dan.6.24"
+   ],
+   "form": "חֲבַל",
+   "gloss": "harm (personal or pecuniary)",
+   "root": "",
+   "pos": "Nc",
+   "translit": "chăbal"
   },
   {
    "lemma": "H8000",
@@ -2816,28 +2816,6 @@
    "translit": "chăshach"
   },
   {
-   "lemma": "H6739",
-   "n": 2,
-   "narratives": [
-    "daniel",
-    "ezra-letters"
-   ],
-   "counts": [
-    1,
-    1
-   ],
-   "p": 0.9925373134328915,
-   "refs": [
-    "Ezra.6.10",
-    "Dan.6.11"
-   ],
-   "form": "צְלָא",
-   "gloss": "pray",
-   "root": "",
-   "pos": "V",
-   "translit": "tsᵉlâʼ"
-  },
-  {
    "lemma": "H5208",
    "n": 2,
    "narratives": [
@@ -2858,6 +2836,28 @@
    "root": "",
    "pos": "Nc",
    "translit": "nîychôwach"
+  },
+  {
+   "lemma": "H6739",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.10",
+    "Dan.6.11"
+   ],
+   "form": "צְלָא",
+   "gloss": "pray",
+   "root": "",
+   "pos": "V",
+   "translit": "tsᵉlâʼ"
   },
   {
    "lemma": "H7932",
