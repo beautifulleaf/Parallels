@@ -1,0 +1,603 @@
+# ANE x Quran side-by-side pass, chunk 10 (Etana SB II-III, Gilgames MB, NA, OB and SB I-IX). Judged blind, from the originals.
+new_motifs:
+  childless-man-prays-for-heir:
+    label: A childless man prays to his god for an heir, recalling his past devotion
+    cluster: family
+  word-from-god-in-the-pit:
+    label: One cast into a pit receives a word from God there, and a man sent by chance or by God draws him out
+    cluster: joseph
+  foundling-adopted-as-son:
+    label: A foundling not born of her is taken in and adopted as a son by a royal or divine woman
+    cluster: infancy
+  hidden-knowledge-of-the-flood-age:
+    label: Knowledge of the flood age, hidden from people, is brought to them
+    cluster: flood
+  hero-reaches-the-sunrise:
+    label: A far-travelling hero reaches the place where the sun rises
+    cluster: kingship
+  city-whose-like-was-never-made:
+    label: An ancient city or its wall is one whose like was never made
+    cluster: kingship
+  death-and-its-appointed-term:
+    label: Whether people can die before their fixed, written term
+    cluster: death
+  deeds-blown-away-as-wind:
+    label: Human deeds are nothing but wind, or are blown away by the wind
+    cluster: wisdom
+  mortal-climbs-through-gate-of-heaven:
+    label: A mortal climbs into the sky through a gate of heaven
+    cluster: creation
+reviewed:
+- unit: ane-etana-sb-2-serpent-revenge
+  checked: [quran-12-joseph-full, quran-71-noah, quran-11-noah, quran-17-iblis-and-adam]
+  matches:
+  - with: quran-12-joseph-full
+    motif: word-from-god-in-the-pit
+    refs: ['Etana SB II:120', 'Etana SB II:123-132']
+    with_refs: ['12:15', '12:19']
+    relation: divergence
+    record:
+      agent: [the serpent, Joseph's brothers]
+      object: [the eagle, Joseph]
+      action: [casts him into a pit, cast him into the depths of the well]
+      quoted: [iddīšu ana šuttati ... alik amēlu ša ašapparakku qātka liṣbat, wa-ajmaʿū an yajʿalūhu fī ghayābati l-jubbi wa-awḥaynā ilayhi la-tunabbiʾannahum bi-amrihim hādhā]
+      outcome: [a man Šamaš will send takes his hand, a caravan's water-drawer lets down his bucket and draws him out]
+    note: 'The one cast into the pit (šuttatu; ghayābat al-jubb) is spoken to by God there, and a passer-by is the means of rescue: Šamaš ''a man I will send you will take your hand'' (alik amēlu ša ašapparakku qātka liṣbat), and Etana is sent to the pit (II:144-152); 12:15 awḥaynā ilayhi, then 12:19 a caravan''s wārid lets down his bucket. Changed: the eagle is guilty and the god''s word is a rebuke (''you are wicked ... were you not under oath? I will not come near you'', lemnētā-ma ... tamâtā-ma lā asanniqakka), while Joseph is innocent and the word is a promise that he will tell his brothers of their deed.'
+- unit: ane-etana-sb-2-etana-prays
+  checked: [quran-3-imran-mary-zechariah, quran-21-prophets-answered, quran-19-zechariah-and-john, quran-51-dhariyat-abrahams-guests-and-the-peoples]
+  matches:
+  - with: quran-19-zechariah-and-john
+    motif: childless-man-prays-for-heir
+    refs: ['Etana SB II:133-142']
+    with_refs: ['19:3', '19:4', '19:5', '19:6']
+    relation: parallel
+    record:
+      agent: [Etana, Zechariah]
+      recipient: [Šamaš, his Lord]
+      action: [prays for an heir, prays for an heir]
+      object: [the plant of birth and an heir (šumu), an heir (walī)]
+      quoted: [ilī ukabbit eṭemmī aplah ... idnam-ma šamma ša alādi ... piltī usuh-ma šuma šuknanni, wa-lam akun bi-duʿāʾika rabbi shaqiyyan ... fa-hab lī min ladunka waliyyan yarithunī]
+    note: 'A childless man asks his god for an heir and grounds the plea in his past relation to the god: Etana in his sacrifices (''you have dined on my fattest sheep ... I have honoured the gods''), Zechariah in having never been disappointed in prayer (lam akun bi-duʿāʾika rabbi shaqiyyan). The request: ''give me'' (idnam; hab lī). Etana''s ''remove my disgrace, grant me a name'' (šumu, heir) against Zechariah''s fear for his kinsmen (mawālī) after him. Etana asks for a magic plant; Zechariah for the child directly, and his wife''s barrenness is stated (ʿāqir), where Etana''s wife is not mentioned here.'
+- unit: ane-etana-sb-3-first-ascent
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-67-mulk-earth-birds-and-water, quran-13-signs-of-creation, quran-35-originator]
+  matches:
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: solomon-taught-speech-of-birds
+    refs: ['Etana SB III:3-8']
+    with_refs: ['27:16', '27:22']
+    relation: parallel
+    record:
+      agent: [Šamaš, God]
+      recipient: [Etana, Solomon]
+      action: [grants a man the speech of birds, teaches a man the speech of birds]
+      quoted: [atmī iṣṣūrī ... ina pī šamaš, ʿullimnā manṭiqa ṭ-ṭayr]
+      outcome: [the man and the eagle converse, the king and the hoopoe converse]
+    note: A man is given the 'speech of birds' (atmī iṣṣūrī, III:3 and III:8; manṭiq al-ṭayr) by divine gift, 'at the command of Šamaš' / ʿullimnā 'we have been taught', and then holds a conversation with one bird (the eagle; the hoopoe, 27:20-28). III:3-6 is broken; the phrase atmī iṣṣūrī itself is preserved twice. Etana is a petitioner who needs the bird's help; Solomon is a king inspecting his birds.
+- unit: ane-etana-sb-3-home-and-salve
+  checked: [quran-4-creation-kinship-orphans, quran-3-imran-mary-zechariah, quran-19-zechariah-and-john]
+  matches: []
+- unit: ane-etana-sb-3-ishtar-dream-ascent
+  checked: [quran-17-night-journey-and-israel, quran-13-signs-of-creation, quran-40-throne-bearers, quran-25-signs-shadow-seas, quran-15-prologue-and-heavens]
+  matches:
+  - with: quran-15-prologue-and-heavens
+    motif: mortal-climbs-through-gate-of-heaven
+    refs: ['Etana SB III:b+39', 'Etana SB III:b+40', 'Etana SB III:b+42']
+    with_refs: ['15:14', '15:15']
+    relation: echo
+    record:
+      agent: [Etana and the eagle, the deniers]
+      action: [ascend and pass through the gates of heaven, would keep ascending through a gate of heaven]
+      place: ['the gates of Anu, Enlil and Ea', a gate of the sky]
+      quoted: [ištu elû ana šamê ša āni ina bāb āni enlil u ea ibāʾū, wa-law fataḥnā ʿalayhim bāban mina s-samāʾi fa-ẓallū fīhi yaʿrujūn]
+      outcome: [they prostrate at each gate, 'they would say: our eyes are dazzled, we are bewitched']
+    note: A mortal going up through a gate (bābu; bāb) of heaven. In Etana it happens, gate after gate, with prostration (uškēnū); in 15:14-15 it is a counterfactual ('even if we opened to them a gate of the sky and they kept ascending'), and the climbers would call it sorcery (sukkirat abṣārunā). Recorded as a shared image only.
+- unit: ane-gilg-mb-nippur-rival-created
+  checked: [quran-71-noah, quran-7-adam-iblis, quran-6-creation-rejecters, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-gilg-mb-ur-enkidu-curses
+  checked: [quran-93-94-forenoon-and-expansion, quran-54-qamar-ad-thamud-lot-pharaoh, quran-7-adam-iblis]
+  matches: []
+- unit: ane-gilg-mb-ur-shamash-rebukes
+  checked: [quran-52-tur-garden-and-challenge, quran-37-hell-and-garden, quran-92-night]
+  matches: []
+- unit: ane-gilg-mb-ur-enkidu-death-dream
+  checked: [quran-32-sajda, quran-40-throne-bearers, quran-53-najm-vision-and-lote-tree, quran-67-mulk-heavens-lamps-and-hell]
+  matches: []
+- unit: ane-gilg-mb-bog1-harlot-leads-enkidu
+  checked: [quran-7-adam-iblis, quran-6-pagan-offerings-cattle, quran-2-adam-iblis]
+  matches: []
+- unit: ane-gilg-mb-bog1-fragments-meeting
+  checked: [quran-68-qalam-the-pen-and-the-slanderer, quran-21-abraham-idols-fire, quran-10-noah]
+  matches: []
+- unit: ane-gilg-mb-bog1-forest-resolve
+  checked: [quran-26-hud-ad, quran-11-noah, quran-12-joseph-full]
+  matches: []
+- unit: ane-gilg-mb-bog1-fragments-judgement
+  checked: [quran-12-joseph-full, quran-11-pharaoh-leads, quran-26-lot]
+  matches: []
+- unit: ane-gilg-mb-bog2-mountain-dream
+  checked: [quran-12-joseph-full, quran-18-companions-of-the-cave, quran-53-najm-vision-and-lote-tree]
+  matches: []
+- unit: ane-gilg-mb-bog2-ishtar-bull
+  checked: [quran-71-noah, quran-16-daughters-and-the-bee, quran-21-abraham-idols-fire]
+  matches: []
+- unit: ane-gilg-mb-bog3-fragment
+  checked: [quran-12-joseph-full, quran-8-fifth-and-badr-vision, quran-18-companions-of-the-cave]
+  matches: []
+- unit: ane-gilg-mb-emar1-what-shall-we-do
+  checked: [quran-8-obedience-trial, quran-3-sovereignty, quran-46-ahqaf-hud-and-the-jinn]
+  matches: []
+- unit: ane-gilg-mb-emar2-ishtar-rejected
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-54-qamar-ad-thamud-lot-pharaoh, quran-4-satan-vows-share]
+  matches: []
+- unit: ane-gilg-mb-emar2-anu-gives-bull
+  checked: [quran-2-the-cow, quran-47-muhammad-battle-and-rivers, quran-59-hashr-banu-nadir-and-fay]
+  matches: []
+- unit: ane-gilg-mb-megiddo-dream
+  checked: [quran-23-noah, quran-11-noah, quran-71-noah]
+  matches: []
+- unit: ane-gilg-mb-megiddo-enkidu-sickness
+  checked: [quran-12-joseph-full, quran-19-zechariah-and-john, quran-5-two-sons-of-adam]
+  matches: []
+- unit: ane-gilg-mb-priv1-dreams-recounted
+  checked: [quran-7-single-soul-idols, quran-71-noah, quran-39-pure-religion, quran-12-joseph-full]
+  matches:
+  - with: quran-12-joseph-full
+    motif: dream-heavenly-bodies-bow
+    refs: ['Gilg MB Priv1:6', 'Gilg MB Priv1:7', 'Gilg MB Priv1:8', 'Gilg MB Priv1:9', 'Gilg MB Priv1:16', 'Gilg MB Priv1:22', 'Gilg MB Priv1:23']
+    with_refs: ['12:4', '12:5', '12:6']
+    relation: parallel
+    record:
+      agent: [Gilgameš, Joseph]
+      recipient: [his mother, his father]
+      action: [tells a night dream to his parent, tells a dream to his parent]
+      object: [the stars of the sky and a sky-rock fallen from them, 'eleven stars, the sun and the moon']
+      number: [null, 11]
+      quoted: [ītammâ ana ummīšu ibbīšū-ma kakkabū šamāʾī kiṣru ša āni imquta ana ṣērīya ... eṭlūtu unaššaqū šâtu, yā abati innī raʾaytu aḥada ʿashara kawkaban wa-sh-shamsa wa-l-qamara raʾaytuhum lī sājidīn]
+      outcome: [the mother reads it as a mighty companion who will come, the father foretells that God will choose him and warns him of his brothers]
+    note: 'A son reports to his parent a night dream of the stars of heaven (kakkabū šamāʾī; kawkab), with homage in it, and the parent interprets: Ninsun ''who knows everything'' (mūdât kalāma) and Jacob, who sees in it God''s choosing (yajtabīka rabbuka) and the teaching of interpretation. Changed: the homage. In Gilgameš the young men of the land kiss the feet of the fallen star-rock (eṭlūtum unaššaqū šēpīšu), which stands for the coming friend; in 12:4 the stars, sun and moon prostrate to the dreamer himself (lī sājidīn), fulfilled when his family falls down before him (12:100). The meaning: a companion to be loved like a wife, against a destiny to be kept from jealous brothers.'
+- unit: ane-gilg-mb-priv1-enkidu-clothed
+  checked: [quran-6-pagan-offerings-cattle, quran-4-creation-kinship-orphans, quran-16-parables-and-justice]
+  matches: []
+- unit: ane-gilg-mb-ug1-prologue
+  checked: [quran-26-noah, quran-23-noah, quran-11-noah, quran-18-dhul-qarnayn]
+  matches:
+  - with: quran-11-noah
+    motif: hidden-knowledge-of-the-flood-age
+    refs: ['Gilg MB Ug1:7', 'Gilg MB Ug1:9']
+    with_refs: ['11:49']
+    relation: divergence
+    record:
+      agent: [Gilgameš, God]
+      action: [brings back a report from before the Deluge, reveals the tidings of the flood]
+      instrument: [his own far journey to the flood hero, revelation (waḥy)]
+      recipient: ['the land, on a stele of his labours', the Prophet and his people]
+      quoted: [ālik harrān uttur-napušti rūqti ... ubla ṭēma ša lām abūbi, tilka min anbāʾi l-ghaybi nūḥīhā ilayka mā kunta taʿlamuhā anta wa-lā qawmuka min qabli hādhā]
+    note: 'The flood story is framed as hidden knowledge brought to people who did not have it: the hero ''saw the secret and uncovered the hidden, brought back a report (ṭēmu) from before the Deluge''; 11:49, closing Noah''s story, ''these are tidings of the unseen (anbāʾ al-ghayb) that we reveal to you; you did not know them, nor your people, before this''. Changed: who brings it and how. Gilgameš fetches it by travelling to Ūta-napišti and sets it on a stele; the Prophet receives it by revelation.'
+  - with: quran-18-dhul-qarnayn
+    motif: hero-reaches-the-sunrise
+    refs: ['Gilg MB Ug1:7', 'Gilg MB Ug1:8']
+    with_refs: ['18:90']
+    relation: parallel
+    record:
+      agent: [Gilgameš, Dhū l-Qarnayn]
+      action: [travels to where the sun rises, travels to where the sun rises]
+      place: [as far as the sunrise (ṣīt šamši), the rising-place of the sun (maṭliʿ al-shams)]
+      quoted: [ēbir ayyaba tâmata rapašta adi ṣīt šamsi, ḥattā idhā balagha maṭliʿa sh-shamsi]
+      outcome: [reaches Ūta-napišti the Far-Away, finds a people with no shelter from the sun]
+    note: A far-travelling king reaches 'the going-out of the sun' (ṣīt šamši) / 'the rising-place of the sun' (maṭliʿ al-shams), the edge of the world. Gilgameš crosses the wide sea to get there and finds the flood hero; Dhū l-Qarnayn also reaches the sunset (18:86), and at the sunrise finds a people 'for whom we made no cover against it'.
+- unit: ane-gilg-mb-ug1-oppression-stature
+  checked: [quran-21-abraham-idols-fire, quran-26-noah, quran-85-constellations]
+  matches: []
+- unit: ane-gilg-mb-ug2-battle
+  checked: [quran-26-noah, quran-33-trench, quran-12-joseph-full]
+  matches: []
+- unit: ane-gilg-mb-ug2-humbaba-pleads
+  checked: [quran-3-badr-uhud, quran-71-noah, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-gilg-na-x-fragment
+  checked: [quran-12-joseph-full, quran-26-noah, quran-33-trench]
+  matches: []
+- unit: ane-gilg-na-y-weakling
+  checked: [quran-26-hud-ad, quran-71-noah, quran-18-two-gardens, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches: []
+- unit: ane-gilg-na-y-advisers-resolve
+  checked: [quran-26-hud-ad, quran-26-noah, quran-11-noah, quran-12-joseph-full]
+  matches: []
+- unit: ane-gilg-ob-ii-dreams
+  checked: [quran-12-joseph-full, quran-37-abraham-idols-fire, quran-36-cosmic-signs, quran-71-noah]
+  matches:
+  - with: quran-12-joseph-full
+    motif: dream-heavenly-bodies-bow
+    refs: ['Gilg OB II:1', 'Gilg OB II:2', 'Gilg OB II:3', 'Gilg OB II:6', 'Gilg OB II:7', 'Gilg OB II:10', 'Gilg OB II:11', 'Gilg OB II:15', 'Gilg OB II:17', 'Gilg OB II:20', 'Gilg OB II:21']
+    with_refs: ['12:4', '12:5', '12:6']
+    relation: parallel
+    record:
+      agent: [Gilgameš, Joseph]
+      recipient: [his mother, his father]
+      action: [tells a night dream to his parent, tells a dream to his parent]
+      object: [the stars of the sky and a sky-rock fallen from them, 'eleven stars, the sun and the moon']
+      number: [null, 11]
+      quoted: [issaqqaram ana ummīšu ummī ina šāt mušītīya ... ibbīšūnim-ma kakkabū šamāʾī ... eṭlūtum unaššaqū šēpīšu, yā abati innī raʾaytu aḥada ʿashara kawkaban wa-sh-shamsa wa-l-qamara raʾaytuhum lī sājidīn]
+      outcome: [the mother reads it as a mighty companion who will come, the father foretells that God will choose him and warns him of his brothers]
+    note: 'A son reports to his parent a night dream of the stars of heaven (kakkabū šamāʾī; kawkab), with homage in it, and the parent interprets: Ninsun ''who knows everything'' (mūdât kalāma) and Jacob, who sees in it God''s choosing (yajtabīka rabbuka) and the teaching of interpretation. Changed: the homage. In Gilgameš the young men of the land kiss the feet of the fallen star-rock (eṭlūtum unaššaqū šēpīšu), which stands for the coming friend; in 12:4 the stars, sun and moon prostrate to the dreamer himself (lī sājidīn), fulfilled when his family falls down before him (12:100). The meaning: a companion to be loved like a wife, against a destiny to be kept from jealous brothers.'
+- unit: ane-gilg-ob-ii-enkidu-humanized
+  checked: [quran-7-adam-iblis, quran-20-adam-iblis, quran-6-pagan-offerings-cattle, quran-12-joseph-full]
+  matches:
+  - with: quran-12-joseph-full
+    motif: hero-beautiful
+    refs: ['Gilg OB II:53']
+    with_refs: ['12:31']
+    relation: echo
+    record:
+      agent: [the harlot Šamḫat, the women of the city]
+      recipient: [Enkidu, Joseph]
+      action: [declares the handsome man more than human, declare the handsome man more than human]
+      quoted: [anaṭṭalka enkīdu kīma ilim tabašši, fa-lammā raʾaynahu akbarnahu ... wa-qulna ḥāsha li-llāhi mā hādhā basharan in hādhā illā malakun karīm]
+    note: 'Women looking at a beautiful young man say he is beyond human: ''you are (handsome,) like a god'' (kīma ili tabašši) and ''this is no mortal, this is nothing but a noble angel'' (malakun karīm). The Quran''s women say ḥāsha li-llāh and make him an angel, not a god; Šamḫat speaks to tempt Enkidu to the city, the women are dazzled and cut their hands.'
+- unit: ane-gilg-ob-ii-wedding-guest
+  checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-79-pharaoh-and-cosmos, quran-19-zechariah-and-john]
+  matches: []
+- unit: ane-gilg-ob-ii-wrestling
+  checked: [quran-20-moses-pharaoh-magicians, quran-85-constellations, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-gilg-ob-iii-friendship
+  checked: [quran-26-hud-ad, quran-12-joseph-full, quran-33-trench, quran-10-noah]
+  matches: []
+- unit: ane-gilg-ob-iii-enkidu-weeps
+  checked: [quran-3-badr-uhud, quran-3-sovereignty, quran-39-pure-religion]
+  matches: []
+- unit: ane-gilg-ob-iii-debate-forest
+  checked: [quran-21-cosmic-signs-and-scales, quran-26-hud-ad, quran-79-pharaoh-and-cosmos, quran-71-noah, quran-14-parables-and-satans-speech]
+  matches:
+  - with: quran-14-parables-and-satans-speech
+    motif: deeds-blown-away-as-wind
+    refs: ['Gilg OB III:142', 'Gilg OB III:143']
+    with_refs: ['14:18']
+    relation: echo
+    record:
+      agent: [mankind, those who disbelieve in their Lord]
+      object: [whatever man does, their deeds]
+      action: [is but wind, are like ashes the wind blows on]
+      quoted: [awīlūtum-ma manû ūmūša mimma ša īteneppušu šārum-ma, aʿmāluhum ka-ramādin ishtaddat bihi r-rīḥu fī yawmin ʿāṣif]
+      outcome: [null, they have power over nothing they earned]
+    note: 'Human works reduced to wind: ''whatever (man) may do, it is but wind'' (šārum-ma); 14:18 the deeds of unbelievers are ''like ashes on which the wind blows hard on a stormy day''. Changed: Gilgameš says it of all mankind as a reason to win a name now; the Quran says it of the deeds of those who disbelieve.'
+- unit: ane-gilg-ob-iii-assembly-elders
+  checked: [quran-26-hud-ad, quran-26-noah, quran-12-joseph-full, quran-10-noah]
+  matches: []
+- unit: ane-gilg-ob-iii-prayer-departure
+  checked: [quran-26-noah, quran-23-noah, quran-43-zukhruf-abraham-and-silver-roofs]
+  matches: []
+- unit: ane-gilg-ob-iii-elders-advice
+  checked: [quran-26-noah, quran-72-jinn, quran-93-94-forenoon-and-expansion]
+  matches: []
+- unit: ane-gilg-ob-um-enkidu-tears
+  checked: [quran-53-najm-vision-and-lote-tree, quran-33-trench, quran-12-joseph-full]
+  matches: []
+- unit: ane-gilg-ob-schoyen1-friend
+  checked: [quran-13-covenant-and-paradise, quran-2-polemic-israel, quran-26-abraham]
+  matches: []
+- unit: ane-gilg-ob-schoyen2-first-dream
+  checked: [quran-26-hud-ad, quran-79-pharaoh-and-cosmos, quran-53-najm-vision-and-lote-tree, quran-18-companions-of-the-cave]
+  matches: []
+- unit: ane-gilg-ob-schoyen2-storm-dream
+  checked: [quran-77-sent-forth, quran-79-pharaoh-and-cosmos, quran-18-companions-of-the-cave]
+  matches: []
+- unit: ane-gilg-ob-schoyen2-cedar-terror
+  checked: [quran-33-trench, quran-53-najm-vision-and-lote-tree, quran-40-throne-bearers]
+  matches: []
+- unit: ane-gilg-ob-schoyen3-third-dream
+  checked: [quran-86-night-comer, quran-53-najm-vision-and-lote-tree, quran-33-trench]
+  matches: []
+- unit: ane-gilg-ob-nippur-anzu-dream
+  checked: [quran-53-najm-vision-and-lote-tree, quran-40-throne-bearers, quran-27-prologue-moses-fire]
+  matches: []
+- unit: ane-gilg-ob-harmal1-bull-dream
+  checked: [quran-26-hud-ad, quran-79-pharaoh-and-cosmos, quran-11-noah, quran-23-noah]
+  matches: []
+- unit: ane-gilg-ob-harmal2-huwawa-pleads
+  checked: [quran-26-noah, quran-71-noah, quran-11-noah]
+  matches: []
+- unit: ane-gilg-ob-ishchali-huwawa-killed
+  checked: [quran-59-hashr-banu-nadir-and-fay, quran-12-joseph-full, quran-105-elephant]
+  matches: []
+- unit: ane-gilg-ob-im-cedar-door
+  checked: [quran-11-noah, quran-23-noah, quran-12-joseph-full]
+  matches: []
+- unit: ane-gilg-ob-vabm-shamash
+  checked: [quran-70-ascending-stairways, quran-71-noah, quran-6-poor-keys-of-unseen]
+  matches: []
+- unit: ane-gilg-ob-vabm-alewife
+  checked: [quran-21-cosmic-signs-and-scales, quran-71-noah, quran-29-emigrate-and-trust, quran-18-moses-and-the-servant]
+  matches:
+  - with: quran-21-cosmic-signs-and-scales
+    motif: gods-allotted-death-to-mankind
+    refs: ['Gilg OB VA+BM:a+17', 'Gilg OB VA+BM:a+18', 'Gilg OB VA+BM:a+19', 'Gilg OB VA+BM:a+20']
+    with_refs: ['21:34', '21:35']
+    relation: parallel
+    record:
+      agent: [the gods, God]
+      recipient: [mankind (awīlūtu), any mortal (bashar)]
+      action: [allot death and withhold lasting life, allot death and withhold lasting life]
+      quoted: [balāṭam ša tasahhuru lā tutta inūma ilū ibnû awīlūtam mūtam iškunū ana awīlūtim balāṭam ina qātīšunu iṣṣabtū, wa-mā jaʿalnā li-basharin min qablika l-khulda ... kullu nafsin dhāʾiqatu l-mawt]
+    note: 'The divine creator ''set'' (iškunū; jaʿalnā) death for humans and gave none of them lasting life: ''when the gods created mankind they set death for mankind, life they kept in their own hands''; ''we have not given any mortal before you everlasting life (al-khuld); every soul will taste death''. The ale-wife says it to a man seeking life; 21:34 to the Prophet, against those who would outlive him. The gods keep life ''in their hands'' for themselves; the Quran says nothing of that.'
+- unit: ane-gilg-ob-vabm-sursunabu
+  checked: [quran-23-noah, quran-11-noah, quran-29-noah-950]
+  matches: []
+- unit: ane-gilg-ob-cunes-led-to-uruk
+  checked: [quran-7-adam-iblis, quran-20-adam-iblis, quran-2-the-cow, quran-6-pagan-offerings-cattle]
+  matches: []
+- unit: ane-gilg-ob-sm-dreams-retold
+  checked: [quran-79-pharaoh-and-cosmos, quran-12-joseph-full, quran-37-abraham-idols-fire]
+  matches: []
+- unit: ane-gilg-sb-i-prologue
+  checked: [quran-18-companions-of-the-cave, quran-26-noah, quran-23-noah, quran-21-noah-david-solomon, quran-89-dawn, quran-11-noah]
+  matches:
+  - with: quran-89-dawn
+    motif: city-whose-like-was-never-made
+    refs: ['Gilg SB I:13', 'Gilg SB I:14', 'Gilg SB I:16', 'Gilg SB I:17']
+    with_refs: ['89:7', '89:8']
+    relation: echo
+    record:
+      name: [Uruk, Iram]
+      object: ['the wall, parapet and Eanna of Uruk', Iram of the pillars]
+      quoted: [itaplas samītašu ša lā umaššalu mamma ... ša šarru arkû lā umaššalu mamma, irama dhāti l-ʿimādi llatī lam yukhlaq mithluhā fī l-bilād]
+      outcome: [stands to be inspected, its people destroyed]
+    note: 'An ancient city described by the incomparability of its building: Uruk''s parapet ''which nobody can replicate'' and Eanna ''which no later king can replicate'' (lā umaššalu mamma); Iram ''of the pillars, the like of which was never created in the lands'' (lam yukhlaq mithluhā). Changed: the reader is invited to climb and admire Uruk''s wall, while Iram is recalled as a warning of what God did to ʿĀd.'
+  - with: quran-11-noah
+    motif: hidden-knowledge-of-the-flood-age
+    refs: ['Gilg SB I:7', 'Gilg SB I:8']
+    with_refs: ['11:49']
+    relation: divergence
+    record:
+      agent: [Gilgameš, God]
+      action: [brings back a report from before the Deluge, reveals the tidings of the flood]
+      instrument: [his own far journey to the flood hero, revelation (waḥy)]
+      recipient: ['the land, on a stele of his labours', the Prophet and his people]
+      quoted: [niṣirta īmur-ma katimta ipte ubla ṭēma ša lām abūbi, tilka min anbāʾi l-ghaybi nūḥīhā ilayka mā kunta taʿlamuhā anta wa-lā qawmuka min qabli hādhā]
+    note: 'The flood story is framed as hidden knowledge brought to people who did not have it: the hero ''saw the secret and uncovered the hidden, brought back a report (ṭēmu) from before the Deluge''; 11:49, closing Noah''s story, ''these are tidings of the unseen (anbāʾ al-ghayb) that we reveal to you; you did not know them, nor your people, before this''. Changed: who brings it and how. Gilgameš fetches it by travelling to Ūta-napišti and sets it on a stele; the Prophet receives it by revelation.'
+- unit: ane-gilg-sb-i-gilgamesh-praised
+  checked: [quran-23-noah, quran-21-abraham-idols-fire, quran-11-noah, quran-18-dhul-qarnayn]
+  matches:
+  - with: quran-18-dhul-qarnayn
+    motif: hero-reaches-the-sunrise
+    refs: ['Gilg SB I:40', 'Gilg SB I:42']
+    with_refs: ['18:90']
+    relation: parallel
+    record:
+      agent: [Gilgameš, Dhū l-Qarnayn]
+      action: [travels to where the sun rises, travels to where the sun rises]
+      place: [as far as the sunrise (ṣīt šamši), the rising-place of the sun (maṭliʿ al-shams)]
+      quoted: [ēbir ayyabi tâmati rapašti adi ṣīt šamsi, ḥattā idhā balagha maṭliʿa sh-shamsi]
+      outcome: [reaches Ūta-napišti the Far-Away, finds a people with no shelter from the sun]
+    note: A far-travelling king reaches 'the going-out of the sun' (ṣīt šamši) / 'the rising-place of the sun' (maṭliʿ al-shams), the edge of the world. Gilgameš crosses the wide sea to get there and finds the flood hero; Dhū l-Qarnayn also reaches the sunset (18:86), and at the sunrise finds a people 'for whom we made no cover against it'.
+- unit: ane-gilg-sb-i-oppression-and-enkidu-created
+  checked: [quran-15-iblis, quran-6-creation-rejecters, quran-23-creation-of-man-and-gifts, quran-71-noah]
+  matches: []
+- unit: ane-gilg-sb-i-hunter-and-shamhat
+  checked: [quran-47-muhammad-battle-and-rivers, quran-11-noah, quran-7-adam-iblis]
+  matches: []
+- unit: ane-gilg-sb-i-enkidu-humanised
+  checked: [quran-7-adam-iblis, quran-20-adam-iblis, quran-7-lot, quran-12-joseph-full]
+  matches:
+  - with: quran-12-joseph-full
+    motif: hero-beautiful
+    refs: ['Gilg SB I:205']
+    with_refs: ['12:31']
+    relation: echo
+    record:
+      agent: [the harlot Šamḫat, the women of the city]
+      recipient: [Enkidu, Joseph]
+      action: [declares the handsome man more than human, declare the handsome man more than human]
+      quoted: [damqāta enkīdu kīma ili tabašši, fa-lammā raʾaynahu akbarnahu ... wa-qulna ḥāsha li-llāhi mā hādhā basharan in hādhā illā malakun karīm]
+    note: 'Women looking at a beautiful young man say he is beyond human: ''you are (handsome,) like a god'' (kīma ili tabašši) and ''this is no mortal, this is nothing but a noble angel'' (malakun karīm). The Quran''s women say ḥāsha li-llāh and make him an angel, not a god; Šamḫat speaks to tempt Enkidu to the city, the women are dazzled and cut their hands.'
+- unit: ane-gilg-sb-i-invitation-and-dreams
+  checked: [quran-12-joseph-full, quran-71-noah, quran-21-abraham-idols-fire]
+  matches:
+  - with: quran-12-joseph-full
+    motif: dream-heavenly-bodies-bow
+    refs: ['Gilg SB I:243-253', 'Gilg SB I:257-270']
+    with_refs: ['12:4', '12:5', '12:6']
+    relation: parallel
+    record:
+      agent: [Gilgameš, Joseph]
+      recipient: [his mother, his father]
+      action: [tells a night dream to his parent, tells a dream to his parent]
+      object: [the stars of the sky and a sky-rock fallen from them, 'eleven stars, the sun and the moon']
+      number: [null, 11]
+      quoted: [izakkara ana ummīšu ummī šunat aṭṭulu mušītīya ibšûnim-ma kakkabū šamê ... unaššaqū šēpīšu, yā abati innī raʾaytu aḥada ʿashara kawkaban wa-sh-shamsa wa-l-qamara raʾaytuhum lī sājidīn]
+      outcome: [the mother reads it as a mighty companion who will come, the father foretells that God will choose him and warns him of his brothers]
+    note: 'A son reports to his parent a night dream of the stars of heaven (kakkabū šamāʾī; kawkab), with homage in it, and the parent interprets: Ninsun ''who knows everything'' (mūdât kalāma) and Jacob, who sees in it God''s choosing (yajtabīka rabbuka) and the teaching of interpretation. Changed: the homage. In Gilgameš the young men of the land kiss the feet of the fallen star-rock (eṭlūtum unaššaqū šēpīšu), which stands for the coming friend; in 12:4 the stars, sun and moon prostrate to the dreamer himself (lī sājidīn), fulfilled when his family falls down before him (12:100). The meaning: a companion to be loved like a wife, against a destiny to be kept from jealous brothers.'
+- unit: ane-gilg-sb-ii-enkidu-civilised
+  checked: [quran-90-city, quran-7-children-of-adam, quran-7-adam-iblis, quran-6-pagan-offerings-cattle]
+  matches: []
+- unit: ane-gilg-sb-ii-wedding-house-fight
+  checked: [quran-12-joseph-full, quran-26-noah, quran-2-talut-jalut]
+  matches: []
+- unit: ane-gilg-sb-ii-friendship-and-humbaba
+  checked: [quran-12-joseph-full, quran-26-noah, quran-23-noah]
+  matches: []
+- unit: ane-gilg-sb-ii-cedar-forest-debate
+  checked: [quran-57-hadid-iron-and-monasticism, quran-3-badr-uhud, quran-79-pharaoh-and-cosmos, quran-33-trench]
+  matches: []
+- unit: ane-gilg-sb-iii-elders-counsel
+  checked: [quran-18-two-gardens, quran-12-joseph-full, quran-26-noah, quran-18-moses-and-the-servant]
+  matches: []
+- unit: ane-gilg-sb-iii-ninsun-prays-to-shamash
+  checked: [quran-13-signs-of-creation, quran-25-signs-shadow-seas, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-gilg-sb-iii-enkidu-adopted
+  checked: [quran-3-imran-mary-zechariah, quran-19-mary-and-jesus, quran-19-zechariah-and-john, quran-28-pharaoh-oppression-infant-moses]
+  matches:
+  - with: quran-28-pharaoh-oppression-infant-moses
+    motif: foundling-adopted-as-son
+    refs: ['Gilg SB III:121', 'Gilg SB III:125', 'Gilg SB III:127']
+    with_refs: ['28:8', '28:9']
+    relation: parallel
+    record:
+      agent: [Ninsun, Pharaoh's wife]
+      object: ['Enkidu, a foundling', 'the infant Moses, picked up from the river']
+      action: [adopts the foundling as a son, proposes taking the foundling as a son]
+      quoted: [ul ṣīt ūrīya atta ... ugbakkātu ilqâ liqûta ... anāku enkīdu ilteqi ana mārūti, fa-ltaqaṭahu ālu firʿawna ... qurratu ʿaynin lī wa-laka ... aw nattakhidhahu waladan]
+    note: 'A woman of the royal or divine house takes a child not born of her into sonship: Ninsun ''you are not the offspring of my womb ... the priestesses took in the foundling (liqûtu) ... I adopt Enkidu as a son (ana mārūti)''; Pharaoh''s household ''picked him up'' (iltaqaṭa, whence laqīṭ ''foundling'') and his wife says ''perhaps we will take him as a son'' (nattakhidhahu waladan). Ninsun''s adoption is formal, with a token on his neck; the Quran''s is a hope, and the child is to be their enemy (28:8).'
+- unit: ane-gilg-sb-iii-departure
+  checked: [quran-3-badr-uhud, quran-26-noah, quran-18-moses-and-the-servant]
+  matches: []
+- unit: ane-gilg-sb-iv-journey-first-dream
+  checked: [quran-18-companions-of-the-cave, quran-79-pharaoh-and-cosmos, quran-73-enwrapped]
+  matches: []
+- unit: ane-gilg-sb-iv-second-third-dreams
+  checked: [quran-41-ad-and-thamud, quran-18-companions-of-the-cave, quran-79-pharaoh-and-cosmos, quran-73-enwrapped]
+  matches: []
+- unit: ane-gilg-sb-iv-fourth-fifth-dreams
+  checked: [quran-8-fifth-and-badr-vision, quran-18-companions-of-the-cave, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-gilg-sb-v-cedar-forest
+  checked: [quran-7-adam-iblis, quran-20-adam-iblis, quran-2-adam-iblis, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-gilg-sb-v-courage-speeches
+  checked: [quran-90-city, quran-76-the-human, quran-6-commandments, quran-47-muhammad-hypocrites]
+  matches: []
+- unit: ane-gilg-sb-v-humbaba-confronted
+  checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-41-steadfast-and-repel-evil, quran-28-pharaoh-oppression-infant-moses, quran-71-noah]
+  matches: []
+- unit: ane-gilg-sb-v-humbaba-defeated
+  checked: [quran-25-signs-shadow-seas, quran-24-light-verse, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-gilg-sb-v-humbaba-pleads
+  checked: [quran-12-joseph-full, quran-71-noah, quran-26-noah]
+  matches: []
+- unit: ane-gilg-sb-v-humbaba-slain-cedars-felled
+  checked: [quran-40-believer-of-pharaohs-family, quran-28-pharaohs-tower-and-end, quran-59-hashr-banu-nadir-and-fay, quran-69-haqqa-destroyed-peoples-and-the-throne]
+  matches: []
+- unit: ane-gilg-sb-vi-ishtar-proposes
+  checked: [quran-12-joseph-full, quran-28-moses-in-midian, quran-66-tahrim-wives-and-the-four-women, quran-33-marriage-rules]
+  matches:
+  - with: quran-12-joseph-full
+    motif: masters-wife-seduces
+    refs: ['Gilg SB VI:6-9', 'Gilg SB VI:13-15']
+    with_refs: ['12:23']
+    relation: parallel
+    record:
+      agent: [Ištar, the woman in whose house he lived]
+      recipient: [Gilgameš, Joseph]
+      action: [invites the hero to her bed, invites the hero to her bed]
+      place: [her house (bītni), 'her house, doors locked']
+      quoted: [ana dumqi ša gilgāmeš īnī ittaši rubūtu ištar alkam-ma gilgāmeš lū hāʾer attā, wa-rāwadathu llatī huwa fī baytihā ʿan nafsihi wa-ghallaqati l-abwāba wa-qālat hayta laka]
+    note: 'A powerful woman, taken by the young man''s beauty (ana dumqi ša gilgāmeš īnī ittaši), calls him to her: ''Come!'' (alkam-ma; hayta laka, ''come here''), into ''our house'' (ana bītīni erba) or in her house with the doors locked. Changed: the goddess offers marriage openly with a dowry of chariot, tribute and flocks (VI:10-21); the master''s wife acts in secret and offers nothing.'
+- unit: ane-gilg-sb-vi-ishtar-rejected
+  checked: [quran-12-joseph-full, quran-7-adam-iblis, quran-4-satan-vows-share, quran-20-adam-iblis]
+  matches:
+  - with: quran-12-joseph-full
+    motif: refusal-of-seduction
+    refs: ['Gilg SB VI:22-32']
+    with_refs: ['12:23', '12:32', '12:33']
+    relation: parallel
+    record:
+      agent: [Gilgameš, Joseph]
+      recipient: [Ištar, the master's wife]
+      action: [refuses the woman, refuses the woman]
+      quoted: ['[ana kâši] ahhazki', qāla maʿādha llāhi innahu rabbī aḥsana mathwāya ... rabbi s-sijnu aḥabbu ilayya mimmā yadʿūnanī ilayhi]
+    note: 'The hero refuses the powerful woman''s advance, and the refusal brings her revenge (the Bull of Heaven, VI:80-114; prison, 12:32-35). Changed: the reason. Gilgameš answers with her record, the catalogue of ruined lovers and insulting similes (VI:33-79); Joseph with loyalty to his master and refuge in God (maʿādha llāh), and he chooses prison over yielding (12:33).'
+- unit: ane-gilg-sb-vi-ishtar-and-anu
+  checked: [quran-12-joseph-full, quran-16-daughters-and-the-bee, quran-17-polemic-and-resurrection, quran-43-zukhruf-book-and-daughters]
+  matches:
+  - with: quran-12-joseph-full
+    motif: famine-grain-storage-plan
+    refs: ['Gilg SB VI:103-111']
+    with_refs: ['12:47', '12:48']
+    relation: parallel
+    record:
+      agent: [the widow and the farmer of Uruk, the people of Egypt]
+      action: [gather chaff and grow hay for seven years, sow for seven years and leave the harvest in the ear]
+      number: [7 years, 7 years]
+      quoted: [almatti uruk sebe šanāti pî lipahhir ikkar uruk lirabbi šammī, tazraʿūna sabʿa sinīna daʾaban fa-mā ḥaṣadtum fa-dharūhu fī sunbulihi]
+      outcome: [stores laid up against the Bull of Heaven's ravage, stores eaten in the seven hard years]
+    note: 'Seven years of provision laid up beforehand against a coming devastation: Anu demands ''seven years'' (sebe šanāti) of chaff and hay before he releases the Bull, and Ištar says it is already stored (VI:108-111); Joseph''s plan stores seven years of grain in the ear for the seven hard years (sabʿun shidādun yaʾkulna mā qaddamtum lahunna). Changed: the devastation is a god''s beast sent in anger, against a famine foretold in a dream; fodder for the herds against grain for people.'
+- unit: ane-gilg-sb-vi-bull-of-heaven
+  checked: [quran-67-mulk-earth-birds-and-water, quran-34-gods-knowledge, quran-29-destroyed-nations, quran-44-dukhan-zaqqum-and-garden]
+  matches: []
+- unit: ane-gilg-sb-vi-triumph-and-dream
+  checked: [quran-2-the-cow, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-7-calf]
+  matches: []
+- unit: ane-gilg-sb-vii-gods-decree-and-door
+  checked: [quran-22-signs-and-rites, quran-43-zukhruf-abraham-and-silver-roofs, quran-15-prologue-and-heavens]
+  matches: []
+- unit: ane-gilg-sb-vii-gilgamesh-grieves
+  checked: [quran-3-covenant-of-prophets, quran-39-death-and-sleep, quran-35-heirs-of-book, quran-29-trial-of-believers, quran-50-qaf-two-recorders-and-hell-asks-more, quran-3-badr-uhud]
+  matches:
+  - with: quran-3-covenant-of-prophets
+    motif: payment-for-a-life
+    refs: ['Gilg SB VII:84', 'Gilg SB VII:85']
+    with_refs: ['3:91']
+    relation: parallel
+    record:
+      object: [silver and gold, an earthful of gold]
+      action: [offered to turn aside a divine decree, offered as ransom from punishment]
+      quoted: [kaspa lā tanaddin hurāṣa lā ... ša enlil iqbû ul kī ša ilī, fa-lan yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-law iftadā bihi]
+      outcome: ['useless: Enlil''s word cannot be rescinded', not accepted]
+    note: 'Gold cannot buy off a divine sentence. Gilgameš vows gold without limit (hurāṣa lā mīni, VII:82); the dying Enkidu tells him ''do not give silver, do not give gold'', for Enlil''s word stands. 3:91: an earthful of gold (milʾu l-arḍi dhahaban) would not be accepted even as ransom (iftadā). The sentence: death for killing Ḫumbaba and the Bull, against punishment after an unbelieving death.'
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: immutable-divine-word
+    refs: ['Gilg SB VII:85', 'Gilg SB VII:86', 'Gilg SB VII:87']
+    with_refs: ['50:29']
+    relation: echo
+    record:
+      agent: [Enlil, God]
+      object: [what he commanded, the word]
+      action: [declares the god's word unalterable, declares the god's word unalterable]
+      quoted: [ša iqbû ul itūr ul ipšiṭ ša dešša iddû ul itūr ul ipšiṭ, mā yubaddalu l-qawlu ladayya]
+    note: 'Said of a sentence of death: ''what he commanded will not turn back, will not be erased; the wedge he set down will not be erased'' (ul itūr ul ipšiṭ); 50:29 at the judgement, ''the word is not changed with me'' (mā yubaddalu l-qawlu ladayya). The Akkadian adds the image of a written wedge.'
+  - with: quran-3-badr-uhud
+    motif: death-and-its-appointed-term
+    refs: ['Gilg SB VII:87', 'Gilg SB VII:88', 'Gilg SB VII:89']
+    with_refs: ['3:145']
+    relation: divergence
+    record:
+      action: [people go to their death, a soul dies]
+      object: [a fate drawn and a wedge written, a term written down]
+      time: [before their time (ina lā šīmātīšina), only by God's leave at its written term]
+      quoted: [ša dešša iddû ... ibrī uṣṣurā ... ina lā šīmātīšina nišū illakā, wa-mā kāna li-nafsin an tamūta illā bi-idhni llāhi kitāban muʾajjalan]
+    note: Both tie death to a written decree (the wedge Enlil sets down, dešša iddû; kitāban muʾajjalan), but Enkidu ends with 'people do go to their fate before their time' (ina lā šīmātīšina nišū illakā), while 3:145 says no soul can die except by God's leave at the written term.
+- unit: ane-gilg-sb-vii-enkidu-curses
+  checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-7-adam-iblis, quran-93-94-forenoon-and-expansion]
+  matches: []
+- unit: ane-gilg-sb-vii-shamash-rebukes
+  checked: [quran-2-qibla, quran-54-qamar-ad-thamud-lot-pharaoh, quran-17-polemic-and-resurrection, quran-3-misers-mockers]
+  matches: []
+- unit: ane-gilg-sb-vii-dream-of-netherworld
+  checked: [quran-17-book-of-deeds, quran-2-four-birds, quran-71-noah, quran-50-qaf-resurrection-proofs-and-peoples]
+  matches: []
+- unit: ane-gilg-sb-vii-enkidu-sickens
+  checked: [quran-2-qibla, quran-3-badr-uhud, quran-44-dukhan-blessed-night-and-smoke, quran-105-elephant]
+  matches: []
+- unit: ane-gilg-sb-viii-let-all-mourn
+  checked: [quran-44-dukhan-pharaoh-drowned, quran-30-fitra, quran-6-pagan-offerings-cattle, quran-89-dawn]
+  matches:
+  - with: quran-44-dukhan-pharaoh-drowned
+    motif: heaven-and-earth-mourning-the-destroyed
+    refs: ['Gilg SB VIII:7', 'Gilg SB VIII:11', 'Gilg SB VIII:13', 'Gilg SB VIII:14', 'Gilg SB VIII:16', 'Gilg SB VIII:19']
+    with_refs: ['44:29']
+    relation: divergence
+    record:
+      agent: ['paths, mountains, pastures, trees, beasts and rivers', heaven and earth]
+      action: [are bidden to weep, did not weep]
+      recipient: [Enkidu, Pharaoh's drowned people]
+      quoted: [libkīka ... ša šadî hursānī ... libkīka taskarinnu šurmēnu erēnu ... libkīku elletu purattu, fa-mā bakat ʿalayhimu s-samāʾu wa-l-arḍu wa-mā kānū munẓarīn]
+      outcome: [all creation mourns the dead hero, no mourning for the destroyed]
+    note: 'Weeping (bakû; bakā) by the natural world for the dead: Gilgameš calls on the mountains, cedars, wild beasts and the Euphrates to weep (libkīka) for Enkidu; 44:29 says of Pharaoh''s people, after they left their gardens and springs, that ''the sky and the earth did not weep for them''. The same verb, used for the honoured dead and denied to the destroyed.'
+- unit: ane-gilg-sb-viii-death-of-enkidu
+  checked: [quran-39-death-and-sleep, quran-12-joseph-full, quran-93-94-forenoon-and-expansion, quran-5-two-sons-of-adam]
+  matches: []
+- unit: ane-gilg-sb-viii-statue-and-mourning
+  checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-20-moses-call, quran-3-badr-uhud]
+  matches: []
+- unit: ane-gilg-sb-viii-grave-goods
+  checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-gilg-sb-viii-river-dammed-offering
+  checked: [quran-47-muhammad-battle-and-rivers, quran-76-the-human, quran-6-poor-keys-of-unseen]
+  matches: []
+- unit: ane-gilg-sb-ix-fear-of-death
+  checked: [quran-12-joseph-full, quran-23-noah, quran-71-noah]
+  matches: []
