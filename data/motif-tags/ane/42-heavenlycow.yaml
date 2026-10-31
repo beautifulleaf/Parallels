@@ -143,7 +143,7 @@ units:
     version: "W1, KV 17 (tomb of Seti I)"
     read: ["HeavenlyCow W1:15/3-26/3"]
     tags:
-      - {motif: wrath-then-mercy, refs: ["HeavenlyCow W1:20/3"], note: "after saying earlier 'I shall protect men from her' (jw =j r mki̯.t r(m)ṯ.pl ḥr =s)"}
+      - {motif: wrath-then-mercy, refs: ["HeavenlyCow W1:20/3"], note: "having said 'do not diminish their number' (m sꜥnd.w st, W1:15), Re now says 'I shall protect men from her' (jw =j r mki̯.t r(m)ṯ.pl ḥr =s)"}
       - {motif: beer-dyed-red-to-deceive-destroyer, refs: ["HeavenlyCow W1:16-19", "HeavenlyCow W1:21/2-21/3"], note: "swift messengers fetch red ocher (ddj,t) from Elephantine; slave women grind barley for beer; 7000 jars (ḥ(n)q,t hbn,t 7000) 'like human blood'"}
       - {motif: destroyer-drunk-humanity-spared, refs: ["HeavenlyCow W1:22-23/5"], note: "the fields are flooded three palms deep; she sees her face in it, drinks, comes drunk (tḫj.tj) and 'did not recognise men' (nn sjꜣ.n =s r(m)ṯ.pl)"}
       - {motif: festival-of-intoxicating-drink-etiology, refs: ["HeavenlyCow W1:24/4-25"], note: "sḏr,t 'sleeping draught' prepared at the year's festivals by maidservants, 'from the first day'"}
