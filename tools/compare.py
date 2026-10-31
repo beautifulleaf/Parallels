@@ -14,6 +14,7 @@ Usage:
   python3 tools/compare.py [<pair>] find <words...>       # units of the other text with a motif whose id or label has all words
   python3 tools/compare.py [<pair>] validate <file>       # check a comparison file
   python3 tools/compare.py [<pair>] flags                 # matches whose records differ in exactly one slot
+  python3 tools/compare.py [<pair>] dump <chunk> <dir>    # every unit and candidate of a chunk, tags and text, one file each
 
 <pair> is hb-quran (the default), ane-hb or ane-quran. The first name is the
 folder; the reviewed side is the Quran for hb-quran and the ANE for the
@@ -214,7 +215,8 @@ def flags():
         for r in (yaml.safe_load(path.read_text(encoding="utf-8")) or {}).get("reviewed") or []:
             for x in r.get("matches") or []:
                 rec = x.get("record") or {}
-                both = {k: v for k, v in rec.items() if isinstance(v, list) and len(v) == 2 and all(v)}
+                # `quoted` is in two languages and always differs: evidence, not a slot to compare
+                both = {k: v for k, v in rec.items() if k != "quoted" and isinstance(v, list) and len(v) == 2 and all(v)}
                 diff = [k for k, (a, b) in both.items() if str(a).strip().lower() != str(b).strip().lower()]
                 if len(both) >= 3 and len(diff) == 1:
                     k = diff[0]
@@ -291,9 +293,10 @@ def validate(path):
             rec = x.get("record")
             if rec is not None:
                 bad = [k for k in rec if k not in SLOTS]
-                if bad or not isinstance(rec, dict) or any(not (isinstance(v, list) and len(v) == 2) for v in rec.values()):
+                if bad or not isinstance(rec, dict) or any(not (isinstance(v, list) and len(v) == 2) or any(
+                        not (w is None or isinstance(w, (str, int, float))) for w in v) for v in rec.values()):
                     errors.append(f"{rel}: {r['unit']} ~ {x.get('with')}: record slots must be among {', '.join(SLOTS)}, "
-                                  "each a pair [this side, other side] (use null for an empty side)")
+                                  "each a pair [this side, other side] of plain values (null for an empty side; quote values with commas)")
             elif PAIR in BLIND:
                 errors.append(f"{rel}: {r['unit']} ~ {x.get('with')}: a record is required (data/records/README.md)")
             w = by_id.get(x.get("with"))
@@ -335,6 +338,24 @@ def main():
                 for c in o["candidates"]:
                     why = "" if PAIR in BLIND else f"  ({', '.join(c['why'])})"
                     print(f"    {c['with']}: {by_id[c['with']]['title']}{why}")
+    elif cmd == "dump":
+        # one load for the whole chunk: the per-unit commands reload everything each call
+        import contextlib
+        import io
+        out = pathlib.Path(args[2])
+        out.mkdir(parents=True, exist_ok=True)
+        ids = []
+        for o in plan_units():
+            if o["chunk"] == int(args[1]):
+                ids += [o["unit"]] + [c["with"] for c in o["candidates"]]
+        for uid in dict.fromkeys(ids):
+            buf = io.StringIO()
+            with contextlib.redirect_stdout(buf):
+                show_unit(uid, vocab, by_id)
+                print()
+                show_text(by_id[uid])
+            (out / f"{uid}.txt").write_text(buf.getvalue(), encoding="utf-8")
+        print(f"{len(set(ids))} units written to {out}")
     elif cmd == "unit":
         show_unit(args[1], vocab, by_id)
     elif cmd == "text":
