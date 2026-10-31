@@ -6,7 +6,6 @@ new_motifs:
   god-revealed-be-humble-none-boast-over-another: {label: "God revealed to the prophet: be humble, so that none boasts over another and none wrongs another", cluster: ethics}
   atom-of-pride-bars-paradise-god-beautiful: {label: "No one with an atom's weight of pride enters paradise; a man liking fine clothes and sandals is told God is beautiful and loves beauty; pride is spurning truth and despising people", cluster: ethics}
   return-to-a-place-is-mecca: {label: "'He will bring you back to a place of return' (ma'ad) glossed by Ibn Abbas: to Mecca", cluster: revelation}
-  mother-hunger-strike-against-sons-faith: {label: "A mother swears not to speak to her son, eat or drink until he renounces his religion; after three days she faints and is given drink; verses on parents come down", cluster: sira}
   bequest-capped-at-one-third: {label: "A sick man asks to bequeath all, then half, then a third; the prophet refuses, refuses, then falls silent; a third became the permitted limit", cluster: law}
   camel-jaw-strikes-nose-at-wine-party: {label: "At a wine party in a garden before wine was banned, a man strikes a boasting guest with the jawbone of a roast camel's head and splits his nose; the wine verse comes down", cluster: sira}
   spoils-sword-returned-to-pile: {label: "A man asks the prophet for a sword from the spoils; told 'put it back where you took it' twice; the verse on spoils comes down", cluster: sira}
@@ -17,14 +16,12 @@ new_motifs:
   wronged-paid-from-good-deeds-at-judgment: {label: "On judgment day a man with good deeds like mountains is called; all with claims against him come; 'pay from his good deeds' until none remain, then 'take of their sins and load them on him'", cluster: eschatology}
   belief-in-decree-condition-of-accepted-spending: {label: "Were you to spend gold like Uhud in God's path he would not accept it until you believe in the decree: what struck you could not have missed you", cluster: theology}
   night-prayer-will-stop-the-thief: {label: "Told a man prays by night and steals by morning, the prophet says: what you say (his prayer) will stop him", cluster: ethics}
-  neither-believe-nor-deny-people-of-the-book: {label: "When the People of the Book read the Torah in Hebrew and explain it in Arabic: neither believe nor disbelieve them; say 'we believe in God and what was sent down'", cluster: polemic}
   does-the-bier-speak: {label: "A Jew asks whether a passing bier speaks; the prophet says God knows; the Jew says it speaks; the prophet: do not believe or deny what the People of the Book tell you", cluster: polemic}
   book-not-washed-away-by-water-read-asleep-and-awake: {label: "God says: I sent down on you a book that water does not wash away, which you recite asleep and awake", cluster: revelation}
   each-prophet-given-signs-mine-is-revelation: {label: "Every prophet was given signs at which people believed; what I was given is revelation, so I hope to have the most followers on the day of resurrection", cluster: revelation}
   paradise-chamber-seen-through-from-inside-and-out: {label: "In paradise is a chamber whose outside is seen from its inside and inside from its outside, for him who feeds, speaks gently, fasts in succession and prays while people sleep", cluster: eschatology}
   rome-persia-wager-on-bid-years: {label: "Abu Bakr makes a wager with the Meccans on the Romans defeating the Persians; a term of years is fixed too short (five or six) and lost; 'bid' is under ten; the Romans win later", cluster: sira}
   abu-bakr-cries-the-verse-through-mecca: {label: "When 'the Romans have been defeated' comes down, Abu Bakr goes out shouting it through the quarters of Mecca", cluster: sira}
-  five-signs-already-past: {label: "Ibn Masud: five have passed: the smoke, the lizam, the Romans, the great seizure and the moon", cluster: eschatology}
   say-god-knows-is-part-of-knowledge: {label: "Ibn Masud angered by a storyteller: whoever knows let him speak, whoever does not say 'God knows'; that is part of knowledge", cluster: ethics}
   subhan-allah-wa-bihamdihi-hundred-times: {label: "Saying 'glory to God and his praise' a hundred times a day erases sins though like the foam of the sea; morning and evening none brings better", cluster: ritual}
   son-of-adam-belies-and-reviles-god: {label: "God says: the son of Adam belied me (saying I will not restore him as I began him) and reviled me (saying God took a son); I am the One, the Samad", cluster: theology}
@@ -106,7 +103,6 @@ new_motifs:
   fingers-touch-umar-wishes-wives-unseen: {label: "Eating hays with Aisha, Umar's finger touches hers: 'were I obeyed concerning you, no eye would see you'; the hijab came down", cluster: sira}
   accept-invitation-even-to-a-trotter: {label: "Answer an invitation, wedding or other; 'were I invited to a foreleg or a trotter I would answer, and accept it if given'", cluster: law}
   milk-uncle-may-enter-after-hijab: {label: "Aflah, brother of Abu al-Qu'ays, asks to see Aisha after the hijab; she refuses since his brother's wife nursed her; 'admit him, he is your uncle'; forbid by nursing what is forbidden by birth", cluster: law}
-  blessing-on-muhammad-as-on-family-of-abraham: {label: "The form of blessing: 'O God bless Muhammad and his family as you blessed the family of Abraham ... and grant blessing as you blessed the family of Abraham; you are praised, glorious'", cluster: ritual}
   miser-is-one-who-hears-name-without-blessing: {label: "The miser is he before whom I am mentioned and who does not bless me", cluster: ritual}
   one-blessing-returned-tenfold: {label: "Whoever blesses me once, God blesses him ten times (ten good deeds, ten sins erased, ten degrees raised)", cluster: ritual}
   backbiting-and-slander-defined: {label: "Backbiting is mentioning your brother with what he dislikes; if it is in him you have backbitten him, if not you have slandered him", cluster: ethics}
@@ -124,7 +120,6 @@ new_motifs:
   alarm-with-cloth-im-attacked: {label: "My likeness and yours is a people fearing an enemy who send a lookout; seeing it he fears to be overtaken and waves his garment: 'people, you are attacked!' three times", cluster: sira}
   lower-your-voices-you-call-one-near: {label: "Travellers shout 'God is greatest'; 'go easy on yourselves; you call not on one deaf or absent but on one hearing and near, and he is with you'", cluster: ritual}
   gabriel-six-hundred-wings: {label: "The prophet saw Gabriel with six hundred wings", cluster: angelology}
-  none-withholds-what-god-gives: {label: "After each prayer: 'O God none withholds what you give, none gives what you withhold, and the fortune of the fortunate avails him nothing against you'", cluster: ritual}
   creation-in-darkness-light-sprinkled: {label: "God created his creation in darkness and cast on them of his light; whoever it struck was guided, whoever it missed went astray", cluster: theology}
   praises-circle-throne-humming-like-bees: {label: "Glorifying, declaring unity and praising God circle round the throne with a humming like bees, reminding of the one who said them", cluster: angelology}
   ten-angels-race-to-write-praise: {label: "Ten angels race to write a man's new formula of praise, unsure how to write it, until they raise it to the Mighty, who says: write it as my servant said", cluster: angelology}
@@ -141,7 +136,6 @@ new_motifs:
   mouth-sealed-thigh-speaks: {label: "The hypocrite's mouth is sealed and his thigh, flesh and bones are told to speak; they tell his deeds", cluster: eschatology}
   servant-asks-witness-from-himself-limbs-speak: {label: "The servant asks God not to admit any witness against him but one from himself; his mouth is sealed and his limbs speak; then he says to them 'away with you, for you I was fighting'", cluster: eschatology}
   mouths-gagged-thigh-first-to-speak: {label: "You will be called with your mouths gagged with a filter (fidam); the first to speak for one of you will be his thigh and palm", cluster: eschatology}
-  i-am-the-prophet-no-lie-son-of-abd-al-muttalib: {label: "At Hunayn on his white mule: 'I am the prophet, no lie; I am the son of Abd al-Muttalib'", cluster: sira}
   bleeding-finger-verse: {label: "His finger bleeding in a battle, the prophet says: 'are you but a finger that bled? and in God's path is what you met'", cluster: sira}
   bone-crumbled-will-he-revive-this: {label: "Al-As b. Wa'il crumbles a bone and asks: will God revive this? 'Yes, God will make you die, revive you and put you in Jahannam'", cluster: sira}
   spittle-in-palm-whence-do-you-defy-me: {label: "Spitting in his palm the prophet says: God says: son of Adam, how can you defy me when I made you from the like of this? You walked in two cloaks, the earth groaning under you, gathered and withheld, and at the collarbones said 'I will give alms'", cluster: ethics}
@@ -163,7 +157,6 @@ new_motifs:
   aishas-doll-horse-with-wings: {label: "Aisha's dolls include a horse with two cloth wings: 'have you not heard Solomon had horses with wings?' The prophet laughs until his molars show", cluster: prophets}
   confession-of-unity-opens-eight-gates: {label: "Whoever bears witness to God's unity, Muhammad as servant and messenger, Jesus as God's servant, son of his handmaid, his word and a spirit from him, and paradise and hell as true, God admits by whichever of the eight gates he wishes", cluster: eschatology}
   ablution-and-witness-open-eight-gates: {label: "Whoever performs ablution well and says the double witness has the eight gates of paradise opened for him to enter by any", cluster: eschatology}
-  angels-of-light-jinn-of-fire-adam-as-described: {label: "Angels were created of light, the jinn of smokeless fire (marij), and Adam of what you have been told", cluster: cosmology}
   zumar-and-bani-israil-before-sleep: {label: "The prophet would not sleep until he had read al-Zumar and Bani Isra'il", cluster: ritual}
   o-my-servants-i-forbade-wrong-to-myself: {label: "God: O my servants, I forbade wrong to myself; all are astray, hungry, naked except whom I guide, feed, clothe; all jinn and men asking at once would lessen what I have only as a needle dipped in the sea", cluster: theology}
   ten-hundred-thousand-verses-of-night-prayer: {label: "Standing with ten verses one is not written among the heedless, with a hundred among the devout (qanitin), with a thousand among the muqantirin", cluster: ritual}
@@ -193,7 +186,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: World given to all, faith only to whom God loves; be humble, none boasts; an atom of pride; return to Mecca (Q 28:82-85)
+    title: "World given to all, faith only to whom God loves; be humble, none boasts; an atom of pride; return to Mecca (Q 28:82-85)"
     read: ["Jāmiʿ 60:7300.1-7301.1"]
     quran: ["28:82", "28:83", "28:85"]
     tags:
@@ -207,7 +200,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Sa'd's mother's oath of hunger; the sword from the spoils; the third of a bequest; the camel-jaw at a wine party (Q 29:8; 31:15; 8:1; 5:90)
+    title: "Sa'd's mother's oath of hunger; the sword from the spoils; the third of a bequest; the camel-jaw at a wine party (Q 29:8; 31:15; 8:1; 5:90)"
     read: ["Jāmiʿ 60:7302.1"]
     quran: ["29:8", "31:15", "8:1", "5:90"]
     tags:
@@ -220,7 +213,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Meccan converts taken to Badr and killed; letters to those left behind; they give in under trial, then emigrate and fight (Q 29:10; 4:97; 16:110)
+    title: "Meccan converts taken to Badr and killed; letters to those left behind; they give in under trial, then emigrate and fight (Q 29:10; 4:97; 16:110)"
     read: ["Jāmiʿ 60:7303.1"]
     quran: ["29:10", "4:97", "16:110"]
     tags:
@@ -230,7 +223,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Burdens upon burdens - the caller to error, the first son of Adam, the bankrupt, the wronged paid from good deeds (Q 29:13)
+    title: "Burdens upon burdens - the caller to error, the first son of Adam, the bankrupt, the wronged paid from good deeds (Q 29:13)"
     read: ["Jāmiʿ 60:7304.1-7305.2"]
     quran: ["29:13"]
     tags:
@@ -246,7 +239,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Spending like Uhud accepted only with belief in the decree; night prayer will stop the thief (Q 29:21, 29:45)
+    title: "Spending like Uhud accepted only with belief in the decree; night prayer will stop the thief (Q 29:21, 29:45)"
     read: ["Jāmiʿ 60:7306.1-7308.1"]
     quran: ["29:21", "29:45"]
     tags:
@@ -257,7 +250,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Torah read in Hebrew and explained in Arabic - neither believe nor deny; does a bier speak? (Q 29:46)
+    title: "Torah read in Hebrew and explained in Arabic - neither believe nor deny; does a bier speak? (Q 29:46)"
     read: ["Jāmiʿ 60:7308.2-7309.1"]
     quran: ["29:46", "2:136"]
     tags:
@@ -268,7 +261,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: A book water cannot wash away; each prophet's signs and his revelation; the transparent chamber (Q 29:49, 29:51, 29:58)
+    title: "A book water cannot wash away; each prophet's signs and his revelation; the transparent chamber (Q 29:49, 29:51, 29:58)"
     read: ["Jāmiʿ 60:7309.2-7310.2"]
     quran: ["29:49", "29:51", "29:58"]
     tags:
@@ -281,7 +274,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Abu Bakr's wager on the Romans against Persia; 'bid' years (Q 30:1-6)
+    title: "Abu Bakr's wager on the Romans against Persia; 'bid' years (Q 30:1-6)"
     read: ["Jāmiʿ 60:7311.1-7312.1"]
     quran: ["30:1-6"]
     tags:
@@ -292,7 +285,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Ibn Masud on the smoke - Quraysh's famine 'seven like Joseph's'; five signs already past (Q 30:1-6; 44:10-16)
+    title: "Ibn Masud on the smoke - Quraysh's famine 'seven like Joseph's'; five signs already past (Q 30:1-6; 44:10-16)"
     read: ["Jāmiʿ 60:7313.1-7313.2"]
     quran: ["30:1-6", "44:10-15", "44:16", "25:77", "38:86"]
     tags:
@@ -306,7 +299,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: 'Glory to God and his praise' a hundred times; the son of Adam belies and reviles God (Q 30:17-18, 30:27)
+    title: "'Glory to God and his praise' a hundred times; the son of Adam belies and reviles God (Q 30:17-18, 30:27)"
     read: ["Jāmiʿ 60:7314.1-7314.3"]
     quran: ["30:17-18", "30:27"]
     tags:
@@ -317,7 +310,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Every child born on the fitra; servants created hanif and led off by devils (Q 30:30)
+    title: "Every child born on the fitra; servants created hanif and led off by devils (Q 30:30)"
     read: ["Jāmiʿ 60:7314.4-7315.1"]
     quran: ["30:30"]
     tags:
@@ -329,7 +322,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The believer's affair is all good; alms raised like a foal (Q 30:33, 30:39)
+    title: "The believer's affair is all good; alms raised like a foal (Q 30:33, 30:39)"
     read: ["Jāmiʿ 60:7315.2-7316.1"]
     quran: ["30:33", "30:39"]
     tags:
@@ -341,7 +334,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Luqman's saying on what is entrusted to God; the greatest sins; 'wrong' is association as Luqman said (Q 31:12-13; 6:82)
+    title: "Luqman's saying on what is entrusted to God; the greatest sins; 'wrong' is association as Luqman said (Q 31:12-13; 6:82)"
     read: ["Jāmiʿ 60:7318.1-7318.3"]
     quran: ["31:12-13", "6:82"]
     tags:
@@ -356,7 +349,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Parents in old age; false witness; prophets tried hardest; pride and the dishevelled whose oath God fulfils (Q 31:14-19)
+    title: "Parents in old age; false witness; prophets tried hardest; pride and the dishevelled whose oath God fulfils (Q 31:14-19)"
     read: ["Jāmiʿ 60:7319.1-7320.3"]
     quran: ["31:14-15", "31:17", "31:18-19"]
     tags:
@@ -370,7 +363,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Gabriel's questions and the signs of the Hour; the five keys of the unseen; asking leave to enter (Q 31:34)
+    title: "Gabriel's questions and the signs of the Hour; the five keys of the unseen; asking leave to enter (Q 31:34)"
     read: ["Jāmiʿ 60:7321.1-7322.2"]
     quran: ["31:34"]
     tags:
@@ -383,7 +376,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: No soul knows in what land it dies - God gives it a need there; the earth returns the deposit (Q 31:34)
+    title: "No soul knows in what land it dies - God gives it a need there; the earth returns the deposit (Q 31:34)"
     read: ["Jāmiʿ 60:7323.1-7323.4"]
     quran: ["31:34"]
     tags:
@@ -396,7 +389,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Al-Sajda and al-Mulk read at Friday dawn and before sleep (Q 32; 67)
+    title: "Al-Sajda and al-Mulk read at Friday dawn and before sleep (Q 32; 67)"
     read: ["Jāmiʿ 60:7324.1-7324.2"]
     quran: ["32:1-30", "67:1-30"]
     tags:
@@ -406,7 +399,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Sides forsaking beds - prayer in the depth of the night; God marvels at two men; the night prayer in congregation (Q 32:16)
+    title: "Sides forsaking beds - prayer in the depth of the night; God marvels at two men; the night prayer in congregation (Q 32:16)"
     read: ["Jāmiʿ 60:7325.1-7326.1"]
     quran: ["32:16"]
     tags:
@@ -421,7 +414,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: What no eye has seen; Moses asks about the lowest and highest in paradise (Q 32:17)
+    title: "What no eye has seen; Moses asks about the lowest and highest in paradise (Q 32:17)"
     read: ["Jāmiʿ 60:7326.2-7327.2"]
     quran: ["32:16", "32:17"]
     tags:
@@ -434,7 +427,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The nearer punishment - afflictions, the Romans, the seizure or the smoke (Q 32:21)
+    title: "The nearer punishment - afflictions, the Romans, the seizure or the smoke (Q 32:21)"
     read: ["Jāmiʿ 60:7328.1"]
     quran: ["32:21"]
     tags:
@@ -445,7 +438,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Zayd son of Muhammad no more; Salim returned; lineage customs of the Jahiliyya; 'my little son' (Q 33:5)
+    title: "Zayd son of Muhammad no more; Salim returned; lineage customs of the Jahiliyya; 'my little son' (Q 33:5)"
     read: ["Jāmiʿ 60:7329.1-7330.4"]
     quran: ["33:5"]
     tags:
@@ -459,7 +452,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The prophet nearer the believers than themselves - he pays their debts; inheritance by sworn brotherhood abrogated (Q 33:6)
+    title: "The prophet nearer the believers than themselves - he pays their debts; inheritance by sworn brotherhood abrogated (Q 33:6)"
     read: ["Jāmiʿ 60:7331.1-7332.4"]
     quran: ["33:6", "4:33", "8:75"]
     tags:
@@ -470,7 +463,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The Trench - above and below; the prayer for cover; the east wind; Hudhayfa sent into the enemy camp (Q 33:9-10)
+    title: "The Trench - above and below; the prayer for cover; the east wind; Hudhayfa sent into the enemy camp (Q 33:9-10)"
     read: ["Jāmiʿ 60:7333.1-7333.4"]
     quran: ["33:9-10"]
     tags:
@@ -484,7 +477,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Men true to their covenant - the verse found with Khuzayma; Anas b. al-Nadr at Uhud; Talha who fulfilled his vow (Q 33:23)
+    title: "Men true to their covenant - the verse found with Khuzayma; Anas b. al-Nadr at Uhud; Talha who fulfilled his vow (Q 33:23)"
     read: ["Jāmiʿ 60:7334.1-7335.2"]
     quran: ["33:23"]
     tags:
@@ -496,7 +489,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The Confederates routed - the prophet's prayer; four prayers made up; 'now we raid them' (Q 33:25)
+    title: "The Confederates routed - the prophet's prayer; four prayers made up; 'now we raid them' (Q 33:25)"
     read: ["Jāmiʿ 60:7336.1-7336.4"]
     quran: ["33:25", "2:239"]
     tags:
@@ -509,7 +502,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Qurayza - Gabriel has not laid down arms; Sa'd's judgment; the Jews of Medina expelled (Q 33:26)
+    title: "Qurayza - Gabriel has not laid down arms; Sa'd's judgment; the Jews of Medina expelled (Q 33:26)"
     read: ["Jāmiʿ 60:7337.1-7337.2"]
     quran: ["33:26"]
     tags:
@@ -521,7 +514,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The wives given the choice - Aisha first; Umar's long account of the withdrawal; the month of twenty-nine (Q 33:28-29; 66:4)
+    title: "The wives given the choice - Aisha first; Umar's long account of the withdrawal; the month of twenty-nine (Q 33:28-29; 66:4)"
     read: ["Jāmiʿ 60:7338.1-7341.1"]
     quran: ["33:28-29", "66:4"]
     tags:
@@ -539,7 +532,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: People of the house - the wives (Ibn Abbas); the cloak over Ali, Fatima, Hasan and Husayn; Umm Salama and Wathila (Q 33:33; 3:61)
+    title: "People of the house - the wives (Ibn Abbas); the cloak over Ali, Fatima, Hasan and Husayn; Umm Salama and Wathila (Q 33:33; 3:61)"
     read: ["Jāmiʿ 60:7341.2-7342.2"]
     quran: ["33:33", "3:61"]
     tags:
@@ -553,7 +546,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Why are women not mentioned? - the verse of Muslim men and women (Q 33:35)
+    title: "Why are women not mentioned? - the verse of Muslim men and women (Q 33:35)"
     read: ["Jāmiʿ 60:7343.1-7344.2"]
     quran: ["33:35"]
     tags:
@@ -564,7 +557,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Julaybib's marriage - the girl overrules her parents; Julaybib beside seven slain, buried on the prophet's forearms (Q 33:36)
+    title: "Julaybib's marriage - the girl overrules her parents; Julaybib beside seven slain, buried on the prophet's forearms (Q 33:36)"
     read: ["Jāmiʿ 60:7344.3-7345.1"]
     quran: ["33:36"]
     tags:
@@ -575,7 +568,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The one God and the prophet favoured - Usama; 'keep your wife'; Zaynab married from above seven heavens; the verse he would have concealed (Q 33:37)
+    title: "The one God and the prophet favoured - Usama; 'keep your wife'; Zaynab married from above seven heavens; the verse he would have concealed (Q 33:37)"
     read: ["Jāmiʿ 60:7346.1-7347.2"]
     quran: ["33:37"]
     tags:
@@ -588,7 +581,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Awe of people no bar to truth; the missing corner brick; preferred in six; seal of the prophets (Q 33:39-40)
+    title: "Awe of people no bar to truth; the missing corner brick; preferred in six; seal of the prophets (Q 33:39-40)"
     read: ["Jāmiʿ 60:7347.3-7348.3"]
     quran: ["33:39", "33:40"]
     tags:
@@ -603,7 +596,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The mufarridun; remembrance above gold and jihad; God more merciful than a mother (Q 33:41, 33:43)
+    title: "The mufarridun; remembrance above gold and jihad; God more merciful than a mother (Q 33:41, 33:43)"
     read: ["Jāmiʿ 60:7348.4-7349.3"]
     quran: ["33:41", "33:43"]
     tags:
@@ -618,7 +611,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The prophet's description in the Torah - witness, bearer of tidings, warner, al-Mutawakkil, not loud in the markets (Q 33:45-46)
+    title: "The prophet's description in the Torah - witness, bearer of tidings, warner, al-Mutawakkil, not loud in the markets (Q 33:45-46)"
     read: ["Jāmiʿ 60:7350.1"]
     quran: ["33:45-46"]
     tags:
@@ -631,7 +624,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Divorce before consummation (al-Jawniyya); the woman who gave herself, married for the Quran he knew; a daughter offered (Q 33:49-50)
+    title: "Divorce before consummation (al-Jawniyya); the woman who gave herself, married for the Quran he knew; a daughter offered (Q 33:49-50)"
     read: ["Jāmiʿ 60:7351.1-7352.3"]
     quran: ["33:49", "33:50"]
     tags:
@@ -644,7 +637,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: 'Your Lord hastens your wish'; Khawla among the women who gave themselves; asking leave on a wife's day; women made lawful before his death (Q 33:51-52)
+    title: "'Your Lord hastens your wish'; Khawla among the women who gave themselves; asking leave on a wife's day; women made lawful before his death (Q 33:51-52)"
     read: ["Jāmiʿ 60:7353.1-7354.1"]
     quran: ["33:51", "33:52"]
     tags:
@@ -657,7 +650,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The hijab verse - Sawda seen at night; Umar's three agreements; Zaynab's wedding and the lingering guests; the pot of hays; Umar's finger (Q 33:53)
+    title: "The hijab verse - Sawda seen at night; Umar's three agreements; Zaynab's wedding and the lingering guests; the pot of hays; Umar's finger (Q 33:53)"
     read: ["Jāmiʿ 60:7354.2-7357.1"]
     quran: ["33:53"]
     tags:
@@ -674,7 +667,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Answer an invitation, even to a trotter; Aflah, the uncle by nursing (Q 33:53, 33:55)
+    title: "Answer an invitation, even to a trotter; Aflah, the uncle by nursing (Q 33:53, 33:55)"
     read: ["Jāmiʿ 60:7358.1-7358.3"]
     quran: ["33:53", "33:55"]
     tags:
@@ -686,7 +679,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: How to bless the prophet - as on the family of Abraham; the miser; one blessing returned tenfold (Q 33:56)
+    title: "How to bless the prophet - as on the family of Abraham; the miser; one blessing returned tenfold (Q 33:56)"
     read: ["Jāmiʿ 60:7359.1-7360.3"]
     quran: ["33:56"]
     tags:
@@ -698,7 +691,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Backbiting and slander; Moses harmed more and patient; the stone that ran off with Moses' clothes (Q 33:58, 33:69)
+    title: "Backbiting and slander; Moses harmed more and patient; the stone that ran off with Moses' clothes (Q 33:58, 33:69)"
     read: ["Jāmiʿ 60:7361.1-7362.2"]
     quran: ["33:58", "33:69"]
     tags:
@@ -714,7 +707,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Saba' a man with ten sons - six in Yemen, four in Syria; Farwa allowed to fight Saba' (Q 34:15)
+    title: "Saba' a man with ten sons - six in Yemen, four in Syria; Farwa allowed to fight Saba' (Q 34:15)"
     read: ["Jāmiʿ 60:7369.1-7370.1"]
     quran: ["34:15"]
     tags:
@@ -726,7 +719,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The believer's affair; angels beat wings at a decree; eavesdroppers stacked; the stolen word and a hundred lies (Q 34:18-19, 34:23)
+    title: "The believer's affair; angels beat wings at a decree; eavesdroppers stacked; the stolen word and a hundred lies (Q 34:18-19, 34:23)"
     read: ["Jāmiʿ 60:7371.1-7372.2"]
     quran: ["34:18-19", "34:23"]
     tags:
@@ -743,7 +736,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Five things given - sent to red and black; sufficiency and contentment; God looks at hearts; the upper chambers like stars (Q 34:28, 34:36-37)
+    title: "Five things given - sent to red and black; sufficiency and contentment; God looks at hearts; the upper chambers like stars (Q 34:28, 34:36-37)"
     read: ["Jāmiʿ 60:7372.3-7373.3"]
     quran: ["34:28", "34:36", "34:37"]
     tags:
@@ -760,7 +753,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Spend and I will spend on you; the two angels; the warner on Safa and the lookout's alarm; the idols jabbed; 'go easy' (Q 34:39, 34:46, 34:49-50)
+    title: "Spend and I will spend on you; the two angels; the warner on Safa and the lookout's alarm; the idols jabbed; 'go easy' (Q 34:39, 34:46, 34:49-50)"
     read: ["Jāmiʿ 60:7374.1-7375.2"]
     quran: ["34:39", "34:46", "34:49", "34:50", "111:1", "17:81", "21:18"]
     tags:
@@ -777,7 +770,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Gabriel with six hundred wings; none withholds what God gives (Q 35:1-2)
+    title: "Gabriel with six hundred wings; none withholds what God gives (Q 35:1-2)"
     read: ["Jāmiʿ 60:7377.1-7377.3"]
     quran: ["35:1", "35:2"]
     tags:
@@ -790,7 +783,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Creation in darkness and light cast on it; praises humming round the throne; ten angels race to write a new praise (Q 35:8, 35:10)
+    title: "Creation in darkness and light cast on it; praises humming round the throne; ten angels race to write a new praise (Q 35:8, 35:10)"
     read: ["Jāmiʿ 60:7378.1-7378.3"]
     quran: ["35:8", "35:10"]
     tags:
@@ -804,7 +797,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Ancestors are charcoal of hell, Adam was from dust; keys of the unseen; kinship lengthens life (Q 35:11)
+    title: "Ancestors are charcoal of hell, Adam was from dust; keys of the unseen; kinship lengthens life (Q 35:11)"
     read: ["Jāmiʿ 60:7379.1-7380.1"]
     quran: ["35:11"]
     tags:
@@ -816,7 +809,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The ornament reaches where ablution reaches; silk and gold vessels theirs here, ours hereafter; none enters by his deeds (Q 35:33, 35:35)
+    title: "The ornament reaches where ablution reaches; silk and gold vessels theirs here, ours hereafter; none enters by his deeds (Q 35:33, 35:35)"
     read: ["Jāmiʿ 60:7380.2-7381.2"]
     quran: ["35:33", "35:35"]
     tags:
@@ -828,7 +821,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The fire's own neither die nor live; sinners burned to charcoal sprout by the river; sixty years leave no excuse (Q 35:36-37)
+    title: "The fire's own neither die nor live; sinners burned to charcoal sprout by the river; sixty years leave no excuse (Q 35:36-37)"
     read: ["Jāmiʿ 60:7382.1-7382.3"]
     quran: ["35:36", "35:37"]
     tags:
@@ -843,7 +836,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Your traces are written - Banu Salima stay; whoever founds a good or bad practice (Q 36:12)
+    title: "Your traces are written - Banu Salima stay; whoever founds a good or bad practice (Q 36:12)"
     read: ["Jāmiʿ 60:7384.1-7384.3"]
     quran: ["36:12", "4:1", "59:18"]
     tags:
@@ -854,7 +847,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The sun's resting place under the throne; it prostrates, asks leave and one day rises from its setting place (Q 36:38; 6:158)
+    title: "The sun's resting place under the throne; it prostrates, asks leave and one day rises from its setting place (Q 36:38; 6:158)"
     read: ["Jāmiʿ 60:7385.1-7386.1"]
     quran: ["36:38", "6:158"]
     tags:
@@ -866,7 +859,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Mouths sealed, limbs speak - the hypocrite's thigh; 'away with you'; mouths gagged, thigh and palm first (Q 36:65)
+    title: "Mouths sealed, limbs speak - the hypocrite's thigh; 'away with you'; mouths gagged, thigh and palm first (Q 36:65)"
     read: ["Jāmiʿ 60:7386.2-7387.2"]
     quran: ["36:65"]
     tags:
@@ -881,7 +874,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Not taught poetry - verses on his tongue at Hunayn, a bleeding finger, rajaz at the Trench (Q 36:69)
+    title: "Not taught poetry - verses on his tongue at Hunayn, a bleeding finger, rajaz at the Trench (Q 36:69)"
     read: ["Jāmiʿ 60:7388.1-7388.3"]
     quran: ["36:69"]
     tags:
@@ -894,7 +887,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Who revives crumbled bones? - al-As b. Wa'il; the spittle in the palm; the man who had himself burned and scattered; glory to the possessor of dominion (Q 36:77-83)
+    title: "Who revives crumbled bones? - al-As b. Wa'il; the spittle in the palm; the man who had himself burned and scattered; glory to the possessor of dominion (Q 36:77-83)"
     read: ["Jāmiʿ 60:7389.1-7390.2"]
     quran: ["36:77-83"]
     tags:
@@ -908,7 +901,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Rows like the angels' rows; jinn add nine to each word; Iblis' troops find the prophet praying (Q 37:1, 37:6-10)
+    title: "Rows like the angels' rows; jinn add nine to each word; Iblis' troops find the prophet praying (Q 37:1, 37:6-10)"
     read: ["Jāmiʿ 60:7391.1-7391.3"]
     quran: ["37:1", "37:6-10"]
     tags:
@@ -921,7 +914,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Fight until 'no god but God'; a drop of zaqqum (Q 37:35, 37:62-66; 3:102)
+    title: "Fight until 'no god but God'; a drop of zaqqum (Q 37:35, 37:62-66; 3:102)"
     read: ["Jāmiʿ 60:7392.1-7392.2"]
     quran: ["37:35", "37:62-66", "3:102"]
     tags:
@@ -932,7 +925,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Abraham's three lies - 'I am sick', 'the biggest did it', and Sarah before the tyrant; Hagar given (Q 37:88-90; 21:63)
+    title: "Abraham's three lies - 'I am sick', 'the biggest did it', and Sarah before the tyrant; Hagar given (Q 37:88-90; 21:63)"
     read: ["Jāmiʿ 60:7393.1"]
     quran: ["37:88-90", "21:63"]
     tags:
@@ -948,7 +941,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The sacrifice - prophets' dreams are revelation; Satan stoned at the pillars; Ishmael's white shirt; the ram's horns in the Kaaba (Q 37:99-114)
+    title: "The sacrifice - prophets' dreams are revelation; Satan stoned at the pillars; Ishmael's white shirt; the ram's horns in the Kaaba (Q 37:99-114)"
     read: ["Jāmiʿ 60:7397.1-7398.2"]
     quran: ["37:99-114"]
     tags:
@@ -963,7 +956,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Do not prefer among prophets - Moses at the throne; none better than Jonah (Q 37:139-148)
+    title: "Do not prefer among prophets - Moses at the throne; none better than Jonah (Q 37:139-148)"
     read: ["Jāmiʿ 60:7399.1-7400.2"]
     quran: ["37:139-148"]
     tags:
@@ -974,7 +967,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Best speech chosen for the angels; evil the morning of the warned - Khaybar (Q 37:166, 37:177)
+    title: "Best speech chosen for the angels; evil the morning of the warned - Khaybar (Q 37:166, 37:177)"
     read: ["Jāmiʿ 60:7401.1-7401.2"]
     quran: ["37:166", "37:177"]
     tags:
@@ -986,7 +979,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Sad revealed at Abu Talib's gathering; the prostration of Sad - David's repentance, our thanks (Q 38:1-7, 38:24-25; 6:84-90)
+    title: "Sad revealed at Abu Talib's gathering; the prostration of Sad - David's repentance, our thanks (Q 38:1-7, 38:24-25; 6:84-90)"
     read: ["Jāmiʿ 60:7402.1-7404.1"]
     quran: ["38:1-7", "38:24-25", "6:84", "6:90"]
     tags:
@@ -1002,7 +995,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Solomon - winged horses among Aisha's dolls; three requests at the temple; the 'ifrit spared and Iblis' firebrand for Solomon's prayer (Q 38:30-35)
+    title: "Solomon - winged horses among Aisha's dolls; three requests at the temple; the 'ifrit spared and Iblis' firebrand for Solomon's prayer (Q 38:30-35)"
     read: ["Jāmiʿ 60:7404.2-7406.2"]
     quran: ["38:30-33", "38:35"]
     tags:
@@ -1017,7 +1010,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The eight gates opened to the confessor; angels of light, jinn of fire; 'say God knows' (Q 38:50, 38:76, 38:86-87)
+    title: "The eight gates opened to the confessor; angels of light, jinn of fire; 'say God knows' (Q 38:50, 38:76, 38:86-87)"
     read: ["Jāmiʿ 60:7406.3-7407.3"]
     quran: ["38:50", "38:76", "38:86-87"]
     tags:
@@ -1031,7 +1024,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Al-Zumar and Bani Isra'il before sleep; 'O my servants' - God's self-sufficiency (Q 39; 17; 39:7)
+    title: "Al-Zumar and Bani Isra'il before sleep; 'O my servants' - God's self-sufficiency (Q 39; 17; 39:7)"
     read: ["Jāmiʿ 60:7408.1-7408.2"]
     quran: ["39:1-75", "17:1-111", "39:7"]
     tags:
@@ -1042,7 +1035,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Ten, a hundred, a thousand verses by night; hope and fear meeting at death (Q 39:9)
+    title: "Ten, a hundred, a thousand verses by night; hope and fear meeting at death (Q 39:9)"
     read: ["Jāmiʿ 60:7409.1-7409.2"]
     quran: ["39:9"]
     tags:
@@ -1053,7 +1046,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The chambers seen like stars; paradise built of gold and silver brick, musk mortar, saffron soil (Q 39:20)
+    title: "The chambers seen like stars; paradise built of gold and silver brick, musk mortar, saffron soil (Q 39:20)"
     read: ["Jāmiʿ 60:7410.1-7410.3"]
     quran: ["39:20"]
     tags:
@@ -1066,7 +1059,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: 'You will die and they will die' - Abu Bakr at the prophet's death; disputes repeated at judgment; first disputants neighbours (Q 39:30-31; 3:144)
+    title: "'You will die and they will die' - Abu Bakr at the prophet's death; disputes repeated at judgment; first disputants neighbours (Q 39:30-31; 3:144)"
     read: ["Jāmiʿ 60:7410.4-7411.2"]
     quran: ["39:30-31", "3:144"]
     tags:
@@ -1078,7 +1071,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Guard God and he guards you; the bedtime rite - souls taken in sleep (Q 39:38, 39:42)
+    title: "Guard God and he guards you; the bedtime rite - souls taken in sleep (Q 39:38, 39:42)"
     read: ["Jāmiʿ 60:7412.1-7412.2"]
     quran: ["39:38", "39:42"]
     tags:
@@ -1089,7 +1082,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: 'Do not despair of God's mercy' - polytheists ask expiation; Ayyash lured back; the killer of a hundred; were you not to sin (Q 39:53; 25:68)
+    title: "'Do not despair of God's mercy' - polytheists ask expiation; Ayyash lured back; the killer of a hundred; were you not to sin (Q 39:53; 25:68)"
     read: ["Jāmiʿ 60:7413.1-7415.2"]
     quran: ["39:53", "39:53-55", "25:68"]
     tags:
@@ -1102,7 +1095,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Each sees his seat in the other abode; the proud as ants in the prison Bulas (Q 39:56-57, 39:60)
+    title: "Each sees his seat in the other abode; the proud as ants in the prison Bulas (Q 39:56-57, 39:60)"
     read: ["Jāmiʿ 60:7415.3-7416.1"]
     quran: ["39:56-57", "39:60"]
     tags:
@@ -1115,7 +1108,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The earth in his grip, heavens folded in his right hand - the rabbi's fingers; 'I am the King'; the pulpit shakes (Q 39:67)
+    title: "The earth in his grip, heavens folded in his right hand - the rabbi's fingers; 'I am the King'; the pulpit shakes (Q 39:67)"
     read: ["Jāmiʿ 60:7416.2-7416.4"]
     quran: ["39:67"]
     tags:
@@ -1130,7 +1123,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: Forty between the two blasts; rain and sprouting like herbs; the tailbone (Q 39:68)
+    title: "Forty between the two blasts; rain and sprouting like herbs; the tailbone (Q 39:68)"
     read: ["Jāmiʿ 60:7417.1"]
     quran: ["39:68"]
     tags:
@@ -1143,7 +1136,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The gates opened - eight gates for ablution and witness; called from the gate of one's deed; al-Rayyan for the fasters (Q 39:73)
+    title: "The gates opened - eight gates for ablution and witness; called from the gate of one's deed; al-Rayyan for the fasters (Q 39:73)"
     read: ["Jāmiʿ 60:7418.1-7418.3"]
     quran: ["39:73"]
     tags:
@@ -1156,7 +1149,7 @@ units:
     corpus: hadith
     original: true
     tagger: "Claude Opus 5.5, reading the Arabic"
-    title: The angel's 'and for you the like'; the tahlil after prayer, 'devoting religion to him' (Q 40:7, 40:14)
+    title: "The angel's 'and for you the like'; the tahlil after prayer, 'devoting religion to him' (Q 40:7, 40:14)"
     read: ["Jāmiʿ 60:7419.1-7419.2"]
     quran: ["40:7", "40:14"]
     tags:
