@@ -1,0 +1,908 @@
+# Hadith chunk 22: al-Jāmiʿ al-Kāmil book 2 (kitāb al-īmān), pp. 318-437 (printed 1/319-438): the last
+# bābs on God's attributes (laughter, wonder, joy at repentance, modesty, jealousy, speech heard with a voice,
+# the unseen, nearness, no likeness, time, patience), the vision of God (Aisha and Ibn Abbas on Q 53, the
+# vision in sleep, the veil of light, seeing the Lord on the day of resurrection), three bābs on wording that
+# associates (what God wills and Muhammad wills), then the bābs of the throne and the bābs of belief in the
+# angels. Read in full from the Arabic (176 hadith). Repeated hadith are read where they stand and joined to
+# the unit of their first occurrence.
+new_motifs:
+  nations-called-with-their-idols-first-and-first: {label: 'On the day of resurrection the nations are called with their idols and what they worshipped, the first and then the first', cluster: eschatology}
+  lord-comes-laughing-to-community-awaiting-him: {label: 'The Lord comes to the community that waits for him: ''whom do you await?'' - ''our Lord'' - ''I am your Lord'' - ''until we look at you''; he discloses himself laughing', cluster: eschatology}
+  clouds-speak-best-speech-laugh-best-laughter: {label: God brings forth the clouds and they speak the finest speech and laugh the finest laughter, cluster: cosmology}
+  martyrs-not-turning-faces-lord-laughs-no-reckoning: {label: 'The best martyrs do not turn their faces in the rank till killed; they roll in the upper rooms of paradise; your Lord laughs to them, and one he laughs to in this world has no reckoning', cluster: eschatology}
+  lord-laughs-at-despair-and-near-change: {label: Our Lord laughs at his servants' despair (qunut) and the nearness of their change (ghiyar); 'we will not lack good from a Lord who laughs', cluster: theology}
+  laughter-passed-down-lord-wonders-only-he-forgives: {label: 'Riding a companion pillion, he raises his head to the sky, recites ''no god but you, glory to you, I was of the wrongdoers'', asks forgiveness and laughs: the Lord laughs and marvels that his servant knows none but he forgives sins; the act is repeated down the chain', cluster: theology}
+  god-marvels-at-shepherd-calling-prayer-on-peak: {label: 'Your Lord marvels at a shepherd on a mountain crag who gives the call to prayer and prays: ''look at my servant ... I have forgiven him and brought him into paradise''', cluster: ritual}
+  god-marvels-at-youth-without-passion: {label: God marvels at a young man who has no youthful passion (ṣabwa), cluster: ethics}
+  god-marvels-at-fleeing-fighter-who-returns: {label: 'Our Lord marvels at a man who fled in battle, knew what was due from him, went back until his blood was shed: ''look at my servant''', cluster: warfare}
+  god-marvels-at-man-leaving-bed-and-wife-for-prayer: {label: 'Our Lord marvels at a man who rises from his bedding and cover, from beside his beloved and family, to his prayer', cluster: ritual}
+  believer-sees-sins-as-mountain-sinner-as-fly: {label: 'The believer sees his sins as if he sat under a mountain afraid it would fall on him; the sinner sees his sins as a fly passing over his nose, waved off with the hand', cluster: ethics}
+  god-rejoices-at-repentance-more-than-man-finding-mount: {label: God rejoices at his servant's repentance more than a man in a waterless land who loses his mount with his food and drink and finds it again, cluster: theology}
+  lost-camel-sought-three-times-eastward: {label: 'The man whose camel slipped away runs east (sharqan) three times, sees nothing, comes back to where he rested, and the camel walks up and lays its halter in his hand', cluster: theology}
+  lost-camel-halter-caught-on-tree-stump: {label: 'The runaway mount, trailing its rein in a barren land, is found with its halter caught on the stump (jidhl) of a tree', cluster: theology}
+  three-at-the-circle-shelter-shyness-turning-away: {label: 'Of three men coming to the Prophet''s circle, one finds a gap and sits (sheltered, God shelters him), one sits behind out of shyness (God is shy of him), one turns away (God turns from him)', cluster: ethics}
+  god-shy-to-return-raised-hands-empty: {label: 'Your Lord is shy and generous: he is ashamed, when his servant raises his hands to him, to send them back empty (ṣifr)', cluster: ritual}
+  none-loves-excuse-more-than-god-sent-messengers: {label: 'None loves excuse (al-ʿudhr) more than God: for that he sent down the book and sent the messengers, bearers of good news and warners', cluster: theology}
+  sad-would-strike-adulterer-with-sword-edge: {label: 'Saʿd b. ʿUbāda: if I saw a man with my wife I would strike him with the sword, not with its flat (ghayr muṣfaḥ)', cluster: law}
+  adam-called-by-voice-to-send-out-party-for-fire: {label: 'God calls ''O Adam'' - ''at your service'' - and it is proclaimed with a voice: God commands you to bring out of your offspring a contingent (baʿth) for the fire', cluster: eschatology}
+  heavens-swoon-at-revelation-until-gabriel-comes: {label: 'When God speaks revelation the people of heaven hear a clanging like a chain dragged on stone and swoon until Gabriel comes; their hearts are relieved and they ask ''what did your Lord say?'' - ''the truth'' - ''the truth, the truth''', cluster: revelation}
+  each-letter-ten-rewards-alif-lam-mim-three-letters: {label: 'Whoever recites a letter of God''s book has a good deed, and the good deed is tenfold: ''I do not say alif-lam-mim is a letter, but alif is a letter, lam a letter, mim a letter''', cluster: revelation}
+  today-i-forget-you-as-you-forgot-me: {label: 'God to the servant brought before him: did I not give you hearing, sight, wealth, children, subject cattle and tilth, leave you to lead and take the chief''s quarter? Did you think you would meet this day? - No - Today I forget you as you forgot me', cluster: eschatology}
+  hypocrites-thigh-flesh-bones-made-to-speak: {label: 'When the hypocrite claims faith, prayer, fasting and alms, his mouth is sealed and his thigh, flesh and bones are told ''speak'', so that he is left without excuse', cluster: eschatology}
+  i-am-the-king-the-requiter-voice-heard-far-as-near: {label: 'God calls the gathered with a voice heard by the far as by the near: ''I am the King, I am the Requiter (al-dayyān)''', cluster: eschatology}
+  no-entry-to-paradise-or-fire-till-wrongs-settled-even-a-slap: {label: 'No one of the people of hell enters it, nor of paradise enters it, while another has a claim against him, until God settles it, even a slap; payment is in good and bad deeds', cluster: eschatology}
+  three-unaddressed-water-withholder-worldly-pledge-false-oath-after-asr: {label: 'Three God will not look at nor purify: a man with surplus water on the road who withholds it from the traveller, a man who pledges to an imam only for worldly gain, a man who swears falsely over his goods after the afternoon prayer', cluster: law}
+  three-unaddressed-old-adulterer-lying-king-proud-pauper: {label: 'Three God will not speak to nor purify: an old adulterer, a lying king and a proud pauper', cluster: ethics}
+  three-unaddressed-trailing-garment-reminder-of-gifts-false-oath: {label: 'Three God will not speak to, look at nor purify, said three times: the one who trails his garment, the one who reminds of his gifts (al-mannān), the one who sells his goods by false oath', cluster: ethics}
+  god-spoke-to-fallen-father-face-to-face: {label: 'God never spoke to anyone except from behind a veil, but he spoke to Jabir''s father (slain at Uhud) face to face (kifāḥan)', cluster: eschatology}
+  abu-bakr-recites-rum-to-mecca-not-my-companions-but-gods-word: {label: 'When al-Rum 1-3 came down the Prophet recited it; Meccan chiefs asked Abu Bakr ''is this what your companion brought?'' - ''No, by God, but it is God''s speech and word''', cluster: revelation}
+  second-descent-seen-was-gabriel: {label: '''He saw him at a second descent'' (Q 53:13): he saw Gabriel', cluster: angelology}
+  god-screens-believer-confesses-sins-forgiven-in-private: {label: 'In the private talk (najwā) God brings the believer near, puts his side (kanaf) over him and screens him, makes him own each sin (''do you know sin such-and-such?'') until he thinks he is lost, then: ''I covered them for you in the world and I forgive them today''; he is given the record of his good deeds, while unbelievers and hypocrites are proclaimed before all', cluster: eschatology}
+  best-faith-knowing-god-is-with-you-wherever: {label: Among the best of a man's faith is to know that God is with him wherever he is, cluster: theology}
+  polytheists-ask-gods-lineage-born-dies-dies-inherited: {label: 'Asked for their Lord''s lineage, al-Ikhlas came down: nothing is born but dies and nothing dies but is inherited; God neither dies nor is inherited, and has no likeness or equal', cluster: theology}
+  none-sees-his-lord-until-he-dies: {label: Know that none of you will see his Lord until he dies (said in warning against the Dajjal), cluster: eschatology}
+  gabriel-in-robe-of-rafraf-filling-heaven-and-earth: {label: The Prophet saw Gabriel in a robe (ḥulla) of rafraf filling what is between heaven and earth, cluster: angelology}
+  light-how-could-i-see-him: {label: 'Asked ''did you see your Lord?'' the Prophet answers ''light: how could I see him?'' (nūrun annā arāhu); in another wording ''I saw light''', cluster: theology}
+  saw-his-lord-with-heart-not-eye: {label: 'He saw him with his heart (fuʾād), not with his eye, twice (Abu Dharr, Ibn Abbas on Q 53:11-13)', cluster: theology}
+  friendship-for-abraham-speech-for-moses-vision-for-muhammad: {label: '''Do you wonder that friendship (al-khulla) should be Abraham''s, speech Moses'' and vision Muhammad''s?''', cluster: theology}
+  lord-unseen-when-he-manifests-in-his-own-light: {label: 'Answering ''vision cannot reach him'' (Q 6:103): that is when he manifests himself in the light that is his light', cluster: theology}
+  lord-in-best-form-asks-what-highest-assembly-disputes: {label: 'In sleep the Prophet sees his Lord in the best form, who asks three times ''over what does the highest assembly (al-malaʾ al-aʿlā) dispute?''; he does not know', cluster: theology}
+  divine-palm-between-shoulders-coolness-between-breasts: {label: 'God puts his palm between the Prophet''s shoulders until he feels the coolness of its fingertips between his breasts, and everything is disclosed to him and he knows', cluster: theology}
+  highest-assembly-disputes-expiations-and-degrees: {label: 'The highest assembly disputes over the expiations (walking to prayers, sitting in mosques after prayer, full ablution in hardships) and the degrees (feeding, gentle speech or greeting, prayer at night while people sleep)', cluster: ritual}
+  prayer-take-me-unseduced-when-you-will-trial: {label: 'Prayer taught in the vision: ''I ask you to do good deeds, leave the reprehensible, love the poor ... and when you will a trial for a people, take me to you unseduced (ghayra maftūn)''', cluster: ritual}
+  i-saw-my-lord-short-report: {label: 'Ibn Abbas''s short report ''I saw my Lord, mighty and majestic'', given as an abridgement of the dream report', cluster: theology}
+  god-does-not-sleep-lowers-and-raises-the-scale: {label: God does not sleep and it befits him not to sleep; he lowers the scale (al-qisṭ) and raises it; the night's work is raised to him before the day's and the day's before the night's, cluster: theology}
+  veil-of-light-if-lifted-glories-of-face-burn-all: {label: His veil is light; if he removed it the glories (subuḥāt) of his face would burn all of his creation that his sight reaches, cluster: theology}
+  two-gardens-of-silver-two-of-gold-cloak-of-majesty: {label: 'Two gardens of silver, their vessels and contents, two of gold; between the people and seeing their Lord is only the cloak of majesty (ridāʾ al-kibriyāʾ) on his face, in the garden of Eden', cluster: paradise}
+  veil-lifted-sight-of-lord-dearest-gift: {label: 'When the people of paradise enter, God asks ''do you want anything more?''; they say he whitened their faces and saved them; he lifts the veil, and nothing they were given is dearer than looking at their Lord (the ''increase'' of Q 10:26)', cluster: paradise}
+  prayer-for-delight-of-looking-at-gods-face: {label: 'The Prophet''s prayer: ''I ask you the delight of looking at your face''', cluster: ritual}
+  each-sees-the-moon-alone-god-greater: {label: 'Abu Razin asks how all will see God: does not each of them see the moon alone with it (mukhliyan bihi)? God is greater, and that is a sign in his creation', cluster: theology}
+  each-follows-what-it-worshipped-devil-of-jesus-devil-of-uzayr: {label: 'At the gathering everyone follows what he worshipped, sun, moon or stone idols; to those who worshipped Jesus the devil of Jesus is made to appear, to those who worshipped Uzayr the devil of Uzayr; Muhammad and his community remain', cluster: eschatology}
+  forty-years-standing-gazing-skyward: {label: 'God gathers the first and last for the appointed day, standing forty years with eyes fixed on the sky, awaiting the judgment', cluster: eschatology}
+  god-descends-in-cloud-shades-from-throne-to-footstool: {label: God descends in shades of cloud (ẓulal min al-ghamām) from the throne to the footstool (kursī), cluster: eschatology}
+  light-given-by-deeds-mountain-to-big-toe: {label: 'Light is given by deeds: one''s like a great mountain, one''s like a palm tree in his right hand, down to a man whose light is on the big toe of his foot, flaring and dying: when it shines he steps, when it dies he stands', cluster: eschatology}
+  crossing-like-eye-blink-lightning-cloud-star-wind-horse-man: {label: 'They cross by their light: as the blink of an eye, as lightning, as cloud, as a falling star, as wind, as a running horse, as a running man; the last crawls on face, hands and feet, a hand falling and a hand clinging', cluster: eschatology}
+  lord-passes-through-fire-leaving-sword-edge-track: {label: 'The Lord goes before them until he passes through the fire, leaving a track like a sword''s edge, slippery (daḥḍ mazilla)', cluster: eschatology}
+  last-saved-asks-mansion-after-mansion-do-you-mock-me: {label: 'The last man out of the fire washes at a pool by paradise''s gate, asks a veil from the fire, then one mansion after another, swearing to ask no more, falls silent from shame, and is offered the world''s like ten times: ''do you mock me, you the Lord of might?'' and the Lord laughs', cluster: eschatology}
+  narrator-laughs-at-the-place-where-prophet-laughed: {label: 'Ibn Masʿūd laughs every time he reaches this point of the story, because the Prophet laughed there till his molars showed', cluster: transmission}
+  prostrates-to-pearl-palace-and-to-steward-thinking-them-god-or-angel: {label: 'Running in paradise the man sees a palace of pearl and falls prostrate (''I saw my Lord''); told it is one of his dwellings; he meets a man and makes to prostrate, but he is a steward with a thousand stewards under him', cluster: paradise}
+  houri-seventy-robes-marrow-seen-each-mirror-of-other: {label: The least of his maidens is a houri with seventy robes through which the marrow of her shin is seen; her liver his mirror and his hers; each time one turns away the other grows seventyfold in his or her eyes, cluster: paradise}
+  house-no-creature-saw-hell-sigh-abraham-my-self: {label: 'Kaʿb tells Umar: God made a house with spouses, fruits and drinks, sealed it, and no creature saw it, not Gabriel; and on resurrection day hell sighs so that every angel and prophet falls to his knees and Abraham says ''my self, my self''', cluster: eschatology}
+  bad-preacher-told-say-whoever-disobeys-god-and-his-messenger: {label: 'A preacher says ''whoever disobeys the two of them goes astray''; the Prophet: ''what a bad preacher you are; say: whoever disobeys God and his messenger''', cluster: ritual}
+  god-becomes-hearing-sight-hand-foot-of-beloved: {label: 'When God loves the servant who draws near by extra works, he becomes his hearing with which he hears, his sight with which he sees, his hand with which he grips and his foot with which he walks', cluster: theology}
+  god-hesitates-over-believers-soul: {label: '''I have not hesitated over anything I do as I hesitate over the soul of the believer: he dislikes death and I dislike to hurt him''', cluster: theology}
+  god-was-and-nothing-besides-throne-on-water: {label: '''God was, and nothing was other than he; his throne was on the water; he wrote everything in the Record (al-dhikr) and created the heavens and the earth''', cluster: creation}
+  narrator-leaves-hadith-for-straying-camel: {label: 'While the Prophet speaks of the beginning of creation a caller cries ''your camel has gone, Ibn Ḥuṣayn''; he runs after it, the mirage cutting it off, and later wishes he had let it go', cluster: transmission}
+  god-in-ama-before-creation-air-above-and-below: {label: 'Asked where our Lord was before he created his creation: ''in a cloud (ʿamāʾ), with no air above it and no air below it; then he created his throne on the water''', cluster: creation}
+  throne-bearer-earlobe-to-shoulder-seven-hundred-years: {label: '''I was permitted to tell of an angel of the bearers of the throne: between the lobe of his ear and his shoulder is a journey of seven hundred years''', cluster: angelology}
+  angel-feet-through-seventh-earth-throne-on-shoulder-where-were-you: {label: 'An angel whose feet have pierced the seventh earth, the throne on his shoulder, says ''Glory to you, where were you and where will you be''', cluster: angelology}
+  praise-ascends-from-throne-bearers-heaven-by-heaven: {label: 'When God decrees, the bearers of the throne glorify, then the people of each heaven below, until the glorification reaches the lowest heaven; the ones next to the bearers ask ''what did your Lord say?'' and the news passes down', cluster: angelology}
+  four-phrases-thrice-outweigh-a-morning-of-dhikr: {label: 'Four phrases said three times outweigh all Juwayriya said since dawn: glory to God and praise, as many as his creatures, as his own pleasure, the weight of his throne, the ink of his words', cluster: ritual}
+  throne-of-merciful-shook-at-death-of-sad: {label: The throne of the Merciful shook (ihtazza) at the death of Saʿd b. Muʿādh, cluster: angelology}
+  grave-pressed-on-righteous-man-then-relieved: {label: 'The righteous man for whom the throne moved and heaven''s gates opened was squeezed by his grave, then God relieved him; at his burial the Prophet glorified at length, then said ''God is greatest''', cluster: eschatology}
+  bier-light-because-angels-carried-it: {label: 'Hypocrites mock the lightness of Saʿd''s bier; the Prophet: ''the angels were carrying him with them''', cluster: angelology}
+  seventy-thousand-angels-attend-burial: {label: Seventy thousand angels attended the burial of Saʿd, cluster: angelology}
+  gabriel-asks-who-is-this-righteous-dead: {label: 'Gabriel comes and asks ''who is this righteous servant who has died, for whom heaven''s gates were opened and the throne moved?''; the Prophet goes out and finds Saʿd dead', cluster: angelology}
+  close-enough-to-kiss-the-seal-between-shoulders: {label: A woman narrator was so close she could have kissed the seal (khātam) between the Prophet's shoulders, cluster: transmission}
+  lovers-for-gods-majesty-in-his-shade: {label: 'On the day of resurrection God says: ''where are those who love one another for my majesty? today I shade them in my shade (of my throne) on the day there is no shade but mine''', cluster: eschatology}
+  respite-to-debtor-shade-of-throne: {label: 'Whoever gives respite to one in hardship or remits his debt, God shades him under the shade of his throne on the day of resurrection', cluster: law}
+  debtor-hides-boy-betrays-creditor-weeps: {label: 'A creditor comes again and again; the debtor hides; a boy tells him the man is inside eating khazīra; made to swear he is in hardship, the creditor weeps and recalls the reward for remitting', cluster: law}
+  community-preferred-by-three-earth-rows-baqara-verses: {label: 'This community was preferred over others by three: the earth made pure and a mosque, its rows made like the rows of angels, and the last verses of al-Baqara given from a treasure beneath the throne, given to no prophet before', cluster: ritual}
+  end-of-baqara-from-treasure-beneath-throne: {label: The two closing verses of al-Baqara were given from a treasure (a treasure-house) beneath the throne; given to no prophet before, cluster: revelation}
+  heaven-creaks-and-may-not-be-blamed-angel-on-every-span: {label: '''Do you hear what I hear? I hear heaven creak (aṭīṭ), and it is not to be blamed for creaking: there is no span in it but an angel prostrating or standing on it''', cluster: angelology}
+  night-and-day-angels-meet-at-dawn-and-afternoon-prayers: {label: 'Angels of the night and angels of the day take turns among you and meet at the afternoon and dawn prayers; those who spent the night ascend and God asks ''how did you leave my servants?'' - ''we left them praying and came to them praying''', cluster: ritual}
+  angels-in-the-anan-cloud-speak-of-decree-devils-steal: {label: 'The angels come down in the ʿanān, the clouds, and speak of what was decreed in heaven; the devils steal the hearing and convey it to the soothsayers, who lie a hundred lies with it', cluster: angelology}
+  angels-at-mosque-doors-record-friday-arrivals-fold-scrolls: {label: On Friday angels stand at each door of the mosque writing the first and then the next; when the imam sits they fold the scrolls and come to listen to the reminder, cluster: ritual}
+  creation-keeps-diminishing-since-adam: {label: 'All who enter paradise are in Adam''s form, sixty cubits; created things have kept diminishing in stature since, until now', cluster: creation}
+  angels-like-canopy-with-lamps-come-near-for-reciter: {label: 'A man reciting al-Baqara at night: his tethered horse circles, he stops and it stops; looking up he sees something like a canopy (ẓulla) with lamps rising till out of sight: angels drawn near by his voice, whom people would have seen by morning', cluster: angelology}
+  cloud-of-sakina-descends-on-kahf-reciter: {label: 'A man reciting al-Kahf with a beast in the house: it shies, a mist or cloud covers him: ''it is the sakīna, come down for the Quran''', cluster: angelology}
+  skilled-reciter-with-noble-scribes-stammerer-two-rewards: {label: 'One skilled in the Quran is with the noble, pious scribes (al-safara); one who recites it stammering, with difficulty, has two rewards', cluster: ritual}
+  hanzala-has-turned-hypocrite-angels-would-shake-hands: {label: 'Ḥanẓala: ''Ḥanẓala has turned hypocrite'': with the Prophet they see paradise and fire as with the eye, at home with wives, children and estates they forget; if you stayed as you are with me the angels would shake your hands on your beds and in your roads; but an hour and an hour', cluster: ethics}
+  picture-makers-told-give-life-to-what-you-made: {label: 'The makers of these pictures are punished on the day of resurrection: they are told ''bring to life what you created''', cluster: law}
+  gabriel-kept-away-by-puppy-under-bed: {label: 'Gabriel misses his appointment; a puppy is found under the bed (or tent); taken out and its place sprinkled, Gabriel comes: ''we do not enter a house with a dog or a picture''', cluster: angelology}
+  dogs-killed-small-garden-dog-killed-large-spared: {label: 'Next morning the Prophet orders dogs killed, even the dog of the small garden, sparing the dog of the large garden', cluster: law}
+  statue-head-cut-to-tree-curtain-to-two-cushions: {label: 'Gabriel orders the head of the statue at the door cut off to look like a tree, the curtain with images cut into two cushions to be trodden on, and the dog put out', cluster: law}
+  bell-is-the-devils-pipes: {label: The bell is the devil's flutes (mazāmīr al-shayṭān), cluster: law}
+  angels-do-not-accompany-company-with-dog-or-bell: {label: Angels do not accompany a travelling company (rufqa) in which there is a dog or a bell, cluster: law}
+  angels-pray-for-one-sitting-where-he-prayed: {label: 'The angels pray for one of you while he stays in the place where he prayed, so long as he does not break his ablution: ''O God forgive him, O God have mercy on him''', cluster: ritual}
+  god-draws-near-on-arafa-boasts-of-dishevelled-pilgrims: {label: 'On no day does God free more servants from the fire than on the day of ʿArafa; he draws near (descends to the lowest heaven) and boasts of them to the angels: ''look at my servants, come to me dishevelled and dusty from every deep ravine''', cluster: ritual}
+  angel-waylays-man-visiting-brother-for-god: {label: 'A man visits a brother in another village; God posts an angel on his road who asks ''have you a favour from him you are tending?'' - ''no, I love him for God'' - ''I am God''s messenger to you: God loves you as you loved him''', cluster: angelology}
+  amen-agreeing-with-angels-forgives-past-sins: {label: 'When the imam says amen, say amen: whoever''s amen coincides with the angels'' amen is forgiven his past sins', cluster: ritual}
+  angels-say-amen-at-sickbed-and-deathbed: {label: 'When you attend the sick or the dead say good, for the angels say amen to what you say', cluster: ritual}
+  angel-at-head-says-and-for-you-likewise: {label: 'A Muslim''s prayer for his brother in his absence is answered: an angel set at his head says ''amen, and for you the like''', cluster: ritual}
+  angel-shapes-embryo-at-forty-two-nights-asks-male-or-female: {label: 'When forty-two nights have passed over the drop, God sends an angel who shapes it, makes its hearing, sight, skin, flesh and bones, then asks ''Lord, male or female?'', its term, its provision, and goes out with the scroll in his hand, adding and taking away nothing', cluster: creation}
+  angel-of-womb-announces-drop-clot-lump: {label: 'God has put an angel in charge of the womb who says ''Lord, a drop; Lord, a clot; Lord, a lump'', then asks male or female, wretched or blessed, provision and term, and it is written in its mother''s belly', cluster: creation}
+  deeds-of-paradise-till-a-cubit-then-book-overtakes: {label: 'One does the deeds of the people of paradise until only a cubit is between him and it, then the book overtakes him and he does the deeds of the people of the fire, and the reverse', cluster: theology}
+  angels-roam-roads-seeking-gatherings-of-remembrance: {label: 'God has angels roaming the roads seeking people of remembrance; finding them they call ''come to what you seek'', wrap them with their wings up to the lowest heaven, and are questioned: they glorify you; have they seen me? they ask paradise; seen it? they seek refuge from the fire; seen it? ''I forgive them''; even one who came for a need: ''they are the sitters whose companion is not wretched''', cluster: angelology}
+  roaming-angels-convey-communitys-greeting-to-prophet: {label: God has angels roaming the earth who convey to the Prophet the greeting of peace from his community, cluster: angelology}
+  angels-lower-wings-for-seeker-of-knowledge: {label: No one goes out of his house seeking knowledge but the angels lower their wings for him in approval of what he does, cluster: angelology}
+  medina-shakes-three-times-expels-unbelievers-and-hypocrites: {label: Then Medina shakes with its people three times (three tremors) and God brings out every unbeliever and hypocrite to the Dajjal, cluster: eschatology}
+  ibn-sayyad-argues-he-is-not-the-dajjal: {label: 'Ibn Ṣāʾid, on the road to Mecca, complains people call him the Dajjal: ''did the Prophet not say he will have no child? I have children; that he will not enter Medina or Mecca? I was born in Medina and am going to Mecca''', cluster: eschatology}
+  dajjal-forty-nights-every-town-but-mecca-and-tayba: {label: 'The Dajjal (in Tamim''s report): ''I will go through the earth and leave no town I do not descend on in forty nights except Mecca and Ṭayba, both forbidden me''', cluster: eschatology}
+units:
+  - id: hadith-2-lord-laughs-at-the-gathering
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Nations called with their idols; the Lord comes to the waiting community and discloses himself laughing (given twice)
+    read: ['Jāmiʿ 2:318.1', 'Jāmiʿ 2:366.1']
+    quran: ['75:22-23', '83:15-17', '10:26']
+    tags:
+      - {motif: nations-called-with-their-idols-first-and-first, refs: ['Jāmiʿ 2:318.1', 'Jāmiʿ 2:366.1'], note: فتُدعى الأمم بأوثانها وما كانت تعبد، الأوّل فالأوّل}
+      - {motif: lord-comes-laughing-to-community-awaiting-him, refs: ['Jāmiʿ 2:318.1', 'Jāmiʿ 2:366.1'], note: 'فيقول: من تنتظرون؟ فيقولون: ننتظر ربَّنا. فيقول: أنا ربّكم، فيقولون: حتى ننظر إليك، فيتجلّى لهم يضحك'}
+  - id: hadith-2-clouds-speak-and-laugh
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The clouds speak the finest speech and laugh the finest laughter (an old man of Ghifar)
+    read: ['Jāmiʿ 2:318.2']
+    tags:
+      - {motif: clouds-speak-best-speech-laugh-best-laughter, refs: ['Jāmiʿ 2:318.2'], note: إنّ اللَّه يُنْشِئُ السِّحابَ، فيَنطِقُ أَحسنَ المَنطِقِ، ويضحكُ أَحسنَ الضَّحِكِ}
+  - id: hadith-2-lord-laughs-to-martyrs
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Martyrs who do not turn their faces; the Lord laughs to them and they have no reckoning
+    read: ['Jāmiʿ 2:319.1']
+    tags:
+      - {motif: martyrs-not-turning-faces-lord-laughs-no-reckoning, refs: ['Jāmiʿ 2:319.1'], note: إن يُلْقَوا في الصّف لا يلفتون وجوهَهُم حتى يُقْتَلوا; وإذا ضحك ربُّك إلى عبد في الدنيا فلا حساب عليه}
+  - id: hadith-2-lord-laughs-at-despair
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The Lord laughs at his servants' despair and the nearness of change (Abu Razin)
+    read: ['Jāmiʿ 2:320.1']
+    tags:
+      - {motif: lord-laughs-at-despair-and-near-change, refs: ['Jāmiʿ 2:320.1'], note: ضحِك ربُّنا ﷿ من قنوط عباده، وقرب غِيَرِه; لن نعدم من ربٍّ يضحكُ خيرًا}
+  - id: hadith-2-laughter-down-the-chain
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Ali, riding with a companion behind him, recites Q 21:87, asks forgiveness and laughs, as the Prophet did with him
+    read: ['Jāmiʿ 2:320.2']
+    quran: ['21:87']
+    tags:
+      - {motif: laughter-passed-down-lord-wonders-only-he-forgives, refs: ['Jāmiʿ 2:320.2'], note: ضحكتُ من ضَحِك ربّي وتعجُّبه من عبده؛ أنه يعلمُ أنّه لا يغفر الذّنوب غيره}
+  - id: hadith-2-god-marvels
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'God marvels: at people led into paradise in chains, at the Ansari host, at a shepherd''s call to prayer on a crag, at a youth without passion, at the fighter who turns back'
+    read: ['Jāmiʿ 2:322.1-323.1']
+    quran: ['59:9']
+    tags:
+      - {motif: brought-to-paradise-in-chains, refs: ['Jāmiʿ 2:322.1'], note: عجب اللَّه من قوم يدخلون الجنّة في السّلاسل}
+      - {motif: lamp-put-out-guest-eats-children-sleep, refs: ['Jāmiʿ 2:322.2'], note: فإذا أراد الصِّبية العشاء فنوِّميهم وتعالَيْ فأطفيءِ السّراج، ونطوي بطوننا اللّيلة}
+      - {motif: muhajirun-and-ansar-preference, refs: ['Jāmiʿ 2:322.2'], note: لقد عجب اللَّهُ ﷿ أو ضحك من فلان وفلانة}
+      - {motif: god-marvels-at-shepherd-calling-prayer-on-peak, refs: ['Jāmiʿ 2:322.3'], note: من راعي غنم في رأس شظيئة بجبل يؤذّن للصلاة ويصلي}
+      - {motif: god-marvels-at-youth-without-passion, refs: ['Jāmiʿ 2:322.4'], note: إنّ اللَّه ليعجبُ من الشّاب ليست له صبْوَة}
+      - {motif: god-marvels-at-fleeing-fighter-who-returns, refs: ['Jāmiʿ 2:323.1'], note: من رجل غزا في سبيل اللَّه فانهزم، فعلم ما عليه فرجع حتى أهريق دمُه}
+      - {motif: god-marvels-at-man-leaving-bed-and-wife-for-prayer, refs: ['Jāmiʿ 2:323.1'], note: رجل ثار على وطائه ولحافه من بين حبِّه وأهله إلى صلاته}
+  - id: hadith-2-god-rejoices-at-repentance
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: God's joy at repentance and the lost mount in the desert, in five versions
+    read: ['Jāmiʿ 2:324.1-326.1']
+    tags:
+      - {motif: believer-sees-sins-as-mountain-sinner-as-fly, refs: ['Jāmiʿ 2:324.1'], note: إنّ المؤمن يري ذنوبه كأنه قاعد تحت جبل يخاف أن يقع عليه، وإنّ الفاجر يرى ذنوبه كذباب مرّ على أنفه}
+      - {motif: god-rejoices-at-repentance-more-than-man-finding-mount, refs: ['Jāmiʿ 2:324.1', 'Jāmiʿ 2:325.1', 'Jāmiʿ 2:325.2', 'Jāmiʿ 2:325.3', 'Jāmiʿ 2:325.4', 'Jāmiʿ 2:326.1'], note: للَّهُ أفرحُ بتوبة عبده المؤمن من رجل نزل منزلًا وبه مَهْلكةٌ; مرت بجذْل شجرة فتعلّق زمامُها}
+      - {motif: lost-camel-found-man-misspeaks-in-joy, refs: ['Jāmiʿ 2:325.2'], note: اللهم أنت عبدي وأنا ربّك! أخطأ من شدّة الفرح}
+      - {motif: lost-camel-sought-three-times-eastward, refs: ['Jāmiʿ 2:325.4'], note: ثم سعى شرقًا ثالثًا فلم يرَ شيئًا; حتى وضع خطامه في يده}
+      - {motif: lost-camel-halter-caught-on-tree-stump, refs: ['Jāmiʿ 2:326.1'], note: مرت بجذْل شجرة فتعلّق زمامُها فوجدها متعلقةً به}
+    hints:
+      - 'The lost animal found and the owner''s joy over it: Luke 15:4-7, where heaven rejoices over one sinner who repents more than over ninety-nine; here the image is the owner''s own deliverance in the desert'
+  - id: hadith-2-god-is-shy
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Three men at the circle; God shy to return raised hands empty
+    read: ['Jāmiʿ 2:326.2-327.1']
+    quran: ['2:26']
+    tags:
+      - {motif: three-at-the-circle-shelter-shyness-turning-away, refs: ['Jāmiʿ 2:326.2'], note: أمّا أحدهم فأَوى إلى اللَّه فآواه اللَّه، وأمّا الآخر فاستحيا فاستحيا اللَّه منه، وأما الآخر فأعرض فأعرض اللَّه عنه}
+      - {motif: god-shy-to-return-raised-hands-empty, refs: ['Jāmiʿ 2:326.3', 'Jāmiʿ 2:327.1'], note: يستحيي من عبده إذا رفع يديه إليه أن يردّهما صِفْرًا; ثم لا يضع فيهما خيرًا}
+  - id: hadith-2-god-is-jealous
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'None more jealous than God: he forbade indecencies; none loves praise or excuse more; Sa''d''s jealousy'
+    read: ['Jāmiʿ 2:328.1-330.1']
+    tags:
+      - {motif: none-more-jealous-than-god-forbade-indecencies, refs: ['Jāmiʿ 2:328.1', 'Jāmiʿ 2:329.1', 'Jāmiʿ 2:329.4'], note: لا أحد أغير من اللَّه، ولذلك حرّم الفواحش ما ظهر منها وما بطن}
+      - {motif: none-loves-excuse-more-than-god-sent-messengers, refs: ['Jāmiʿ 2:329.1', 'Jāmiʿ 2:329.5'], note: وليس أحد أحبّ إليه العذرُ من اللَّه، من أجل ذلك أنزل الكتاب وأرسل الرّسل}
+      - {motif: gods-jealousy-is-believer-doing-forbidden, refs: ['Jāmiʿ 2:329.2', 'Jāmiʿ 2:329.3'], note: إنّ اللَّه يغارُ، وغيرة اللَّه أن يأتي المؤمن ما حرّم اللَّه; المؤمن يغار، واللَّه أشدُّ غيرًا}
+      - {motif: god-more-jealous-than-any, refs: ['Jāmiʿ 2:329.5'], note: واللَّهِ الأنا أغير منه، واللَّهُ أغيرُ مني}
+      - {motif: sad-would-strike-adulterer-with-sword-edge, refs: ['Jāmiʿ 2:329.5'], note: لو رأيتُ رجلًا مع امرأتي لضربته بالسّيف غير مصفح}
+      - {motif: eclipse-not-for-death-god-most-jealous, refs: ['Jāmiʿ 2:330.1'], note: ما من أحد أغيرَ من اللَّه أن يزني عبدُه، أو تزني أمتُه; لو تعلمون ما أعلم لضحكتم قليلًا ولبكيتم كثيرًا}
+  - id: hadith-2-adam-called-with-a-voice
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: God calls Adam with a voice to bring out a contingent of his offspring for the fire
+    read: ['Jāmiʿ 2:330.2']
+    quran: ['9:6', '4:164', '7:144']
+    tags:
+      - {motif: adam-called-by-voice-to-send-out-party-for-fire, refs: ['Jāmiʿ 2:330.2'], note: 'فيُنادى بصوت: إنّ اللَّه يأمرك أن تُخرج من ذريتك بعثًا إلى النار'}
+  - id: hadith-2-angels-at-gods-decree
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: At God's decree the angels beat their wings, a sound like a chain on smooth rock; the heavens swoon until Gabriel comes (Q 34:23)
+    read: ['Jāmiʿ 2:331.1', 'Jāmiʿ 2:332.1']
+    quran: ['9:6', '4:164', '7:144', '34:23']
+    tags:
+      - {motif: angels-beat-wings-sound-like-chain-on-rock, refs: ['Jāmiʿ 2:331.1', 'Jāmiʿ 2:332.1'], note: ضربتِ الملائكةُ بأجنحتها خضعانًا لقوله كأنّه سلسلة على صفوان; صلْصلَةً كجرّ السلسلة على الصّفا}
+      - {motif: heavens-swoon-at-revelation-until-gabriel-comes, refs: ['Jāmiʿ 2:332.1'], note: 'فيصعقون، فلا يزالون كذلك حتى يأتيهم جبريل; فيقول: الحق. فيقولون: الحقّ، الحقّ'}
+  - id: hadith-2-door-of-heaven-two-lights
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'A door of heaven opened for the first time: an angel brings the Fatiha and the end of al-Baqara'
+    read: ['Jāmiʿ 2:331.2']
+    quran: ['9:6', '4:164', '7:144', '1:1-7', '2:285-286']
+    tags:
+      - {motif: door-of-heaven-opened-angel-brings-two-lights, refs: ['Jāmiʿ 2:331.2'], note: 'هذا باب من السّماء فتح اليوم، لم يفتح قط إلّا اليوم; أبشر بنورين أوتيتهما، لم يؤتهما نبي قبلك: فاتحة الكتاب وخواتيم سورة البقرة'}
+  - id: hadith-2-letters-of-the-book
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Each letter of the Quran recited is a good deed worth ten: alif, lam, mim are three letters'
+    read: ['Jāmiʿ 2:331.3']
+    quran: ['9:6', '4:164', '7:144']
+    tags:
+      - {motif: each-letter-ten-rewards-alif-lam-mim-three-letters, refs: ['Jāmiʿ 2:331.3'], note: 'لا أقول: آلم حرف، ولكن ألف حرف، ولام حرف، وميم حرف'}
+  - id: hadith-2-god-speaks-at-the-judgment
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'God addresses each servant at the judgment: no interpreter or veil; ''today I forget you as you forgot me''; the hypocrite''s limbs speak'
+    read: ['Jāmiʿ 2:332.2-334.3']
+    quran: ['9:6', '4:164', '7:144', '7:51']
+    tags:
+      - {motif: today-i-forget-you-as-you-forgot-me, refs: ['Jāmiʿ 2:332.2', 'Jāmiʿ 2:334.3'], note: وتركتك ترأس وتَرْبع; اليوم أنساك كما نسيتني}
+      - {motif: resurrected-barefoot-naked-uncircumcised, refs: ['Jāmiʿ 2:333.1'], note: عراةٌ غرْلًا بُهْمًا}
+      - {motif: i-am-the-king-the-requiter-voice-heard-far-as-near, refs: ['Jāmiʿ 2:333.1'], note: 'ثم يناديهم بصوت يسمعه مَنْ بَعُدَ كما يسمعه مَنْ قَرُبَ: أنا الملك، أنا الدّيّان'}
+      - {motif: no-entry-to-paradise-or-fire-till-wrongs-settled-even-a-slap, refs: ['Jāmiʿ 2:333.1'], note: حتى أُقصَّه منه حتّى اللّطمة; بالحسنات والسّيئات}
+      - {motif: no-interpreter-between-man-and-god, refs: ['Jāmiʿ 2:334.1', 'Jāmiʿ 2:334.2'], note: ليس بينه وبينه ترجمان ولا حجاب يحجبه}
+      - {motif: hypocrites-thigh-flesh-bones-made-to-speak, refs: ['Jāmiʿ 2:334.3'], note: 'فيُختم على فيه، ويقال لفخذه ولحمه وعظامه: انْطِقي'}
+    hints:
+      - 'Gathered with nothing (buhm), God calls ''I am the King, I am the Requiter (al-dayyān)'': compare the divine title ''judge of all the earth'' (Gen 18:25) and the rabbinic dayyan ha-emet, ''the true Judge'', of the mourner''s blessing (m. Ber 9:2)'
+  - id: hadith-2-three-god-will-not-speak-to
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Three whom God will not speak to nor look at: three lists of three (Q 3:77)'
+    read: ['Jāmiʿ 2:335.1-336.1']
+    quran: ['3:77']
+    tags:
+      - {motif: three-unaddressed-water-withholder-worldly-pledge-false-oath-after-asr, refs: ['Jāmiʿ 2:335.1'], note: رجل كان له فضل ماء بالطّريق فمنعه من ابن السّبيل; ورجل أقام سلعته بعد العصر}
+      - {motif: three-unaddressed-old-adulterer-lying-king-proud-pauper, refs: ['Jāmiʿ 2:335.2'], note: شيخ زان، وملِك كذّاب، وعائل مستكبر}
+      - {motif: three-unaddressed-trailing-garment-reminder-of-gifts-false-oath, refs: ['Jāmiʿ 2:336.1'], note: فقرأها رسولُ اللَّه ﷺ ثلاث مرّات; المسيل، والمنّان، والمنفق سِلعته بالحلْفِ الكاذب}
+  - id: hadith-2-face-to-face-with-jabirs-father
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: God speaks to none but from behind a veil, yet spoke face to face to Jabir's slain father (bab on Q 42:51)
+    read: ['Jāmiʿ 2:337.1']
+    quran: ['42:51']
+    tags:
+      - {motif: god-spoke-to-fallen-father-face-to-face, refs: ['Jāmiʿ 2:337.1'], note: ما كلّم اللَّه أحدًا إلّا من وراء حجاب، وإنّه كلّم أباك كفاحًا}
+      - {motif: three-modes-of-divine-speech, refs: ['Jāmiʿ 2:337.1'], note: 'bab head: Q 42:51 إِلَّا وَحْيًا أَوْ مِنْ وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا; the hadith states the exception'}
+    hints:
+      - 'God speaking face to face as the exception: Num 12:8 ''mouth to mouth'' and Deut 34:10 ''face to face'' of Moses; here the exception is a martyr after death'
+  - id: hadith-2-quran-gods-speech
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The opening of al-Rum recited; Abu Bakr: not my companion''s words but God''s speech'
+    read: ['Jāmiʿ 2:338.1']
+    quran: ['30:1-3']
+    tags:
+      - {motif: abu-bakr-recites-rum-to-mecca-not-my-companions-but-gods-word, refs: ['Jāmiʿ 2:338.1'], note: يا ابن أبي قحافة، هذا مما أتى به صاحبك; لا واللَّهِ، ولكنّه كلام اللَّه وقولُه}
+  - id: hadith-2-jews-ask-about-the-spirit
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Jews ask about the spirit; the Prophet, leaning on a palm stick, falls silent under revelation (Q 17:85)
+    read: ['Jāmiʿ 2:338.2']
+    quran: ['17:85']
+    tags:
+      - {motif: jews-ask-about-spirit-prophet-silent, refs: ['Jāmiʿ 2:338.2'], note: سلوه عن الرّوح; وهو يتوكأ على عسيب معه}
+  - id: hadith-2-keys-of-the-unseen
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The five keys of the unseen that only God knows
+    read: ['Jāmiʿ 2:339.1']
+    quran: ['72:26', '31:34', '4:166', '35:11', '41:47']
+    tags:
+      - {motif: five-keys-of-the-unseen, refs: ['Jāmiʿ 2:339.1'], note: مفتاح الغيب خمس لا يعلمها إلّا اللَّه}
+  - id: hadith-2-aisha-no-one-saw-his-lord
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Aisha: whoever says Muhammad saw his Lord lies; it was Gabriel in his true form, twice'
+    read: ['Jāmiʿ 2:339.2', 'Jāmiʿ 2:346.1-347.2']
+    quran: ['72:26', '31:34', '4:166', '35:11', '41:47', '6:103', '81:23', '53:13', '42:51', '5:67', '27:60', '53:8-9']
+    tags:
+      - {motif: three-fabrications-whoever-says-he-saw-his-lord, refs: ['Jāmiʿ 2:339.2', 'Jāmiʿ 2:346.1'], note: من حدّثك أنّ محمدا رأى ربَّه فقد كذب; ثلاث من تكلّم بواحدة منهنَّ فقد أعظم على اللَّه الفريةَ}
+      - {motif: gabriel-seen-in-true-form-twice, refs: ['Jāmiʿ 2:346.1', 'Jāmiʿ 2:347.1'], note: لم أرَهُ على صورته التي خُلِقَ عليها غير هاتين المرّتين; كان يأتيه في صورة الرّجل، وإنّه أتاه هذه المرّة في صورته التي هي صورته، فسدّ الأفق}
+      - {motif: second-descent-seen-was-gabriel, refs: ['Jāmiʿ 2:347.2'], note: 'قال: رأى جبريل'}
+  - id: hadith-2-najwa-god-screens-the-believer
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The private reckoning: God covers the believer with his side, makes him confess, and forgives; unbelievers named before the witnesses (Q 11:18)'
+    read: ['Jāmiʿ 2:340.1-340.2', 'Jāmiʿ 2:365.3']
+    quran: ['57:4', '58:7', '20:46', '11:18', '9:40', '75:22-23', '83:15-17', '10:26']
+    tags:
+      - {motif: god-screens-believer-confesses-sins-forgiven-in-private, refs: ['Jāmiʿ 2:340.1', 'Jāmiʿ 2:365.3'], note: إنّ اللَّه يُدني المؤمن فيضع عليه كنفَه ويستره; سترتها عليك في الدُّنيا، وأنا أغفرها لك اليوم}
+      - {motif: best-faith-knowing-god-is-with-you-wherever, refs: ['Jāmiʿ 2:340.2'], note: إنّ من أفضل إيمان المرء أن يعلم أن اللَّه ﷿ معه حيث كان}
+  - id: hadith-2-no-likeness-to-god
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The son of Adam insults and belies God; the polytheists ask God's lineage and al-Ikhlas is sent down
+    read: ['Jāmiʿ 2:342.1-342.3']
+    quran: ['42:11', '19:65', '16:74', '112:1-4']
+    tags:
+      - {motif: son-of-adam-belies-and-insults-god, refs: ['Jāmiʿ 2:342.1', 'Jāmiʿ 2:342.2'], note: 'أما شتُمه فقوله: إنّ لي ولدًا. وأمّا تكذيبه فقوله: ليس يعيدني كما بدأني; وأنا الصّمد الذي لم ألد، ولم أُولد'}
+      - {motif: polytheists-ask-gods-lineage, refs: ['Jāmiʿ 2:342.3'], note: يا محمد انسُب لنا ربَّك}
+      - {motif: polytheists-ask-gods-lineage-born-dies-dies-inherited, refs: ['Jāmiʿ 2:342.3'], note: لأنه ليس شيءٌ يولد إِلَّا سيموت، وليس شيء يموت إِلَّا سيورث، وإنَّ اللَّه لا يموت ولا يورث}
+  - id: hadith-2-god-is-time
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The son of Adam hurts God by cursing time: ''I am Time'''
+    read: ['Jāmiʿ 2:345.1']
+    tags:
+      - {motif: do-not-curse-time-god-is-time, refs: ['Jāmiʿ 2:345.1'], note: يؤذيني ابنُ آدم، يسبُّ الدّهر وأنا الدّهر، بيدي الأمر أقلّب اللَّيل والنَّهار}
+  - id: hadith-2-none-more-patient-than-god
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'None more patient at an insult than God: they ascribe a son to him, yet he keeps them well and feeds them'
+    read: ['Jāmiʿ 2:345.2']
+    tags:
+      - {motif: none-more-patient-at-insult-than-god, refs: ['Jāmiʿ 2:345.2'], note: ما أحدٌ أصبرَ على أذى سمعه من اللَّه، يدّعون له الولد، ثم يعافيهم ويرزقهم}
+  - id: hadith-2-none-sees-god-before-death
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Warning against the Dajjal: ''kafir'' between his eyes; he is one-eyed and your Lord is not; none sees his Lord until he dies'
+    read: ['Jāmiʿ 2:345.3-345.4', 'Jāmiʿ 2:365.2', 'Jāmiʿ 2:366.2']
+    quran: ['75:22-23', '83:15-17', '10:26']
+    tags:
+      - {motif: dajjal-has-kafir-written-between-eyes, refs: ['Jāmiʿ 2:345.3', 'Jāmiʿ 2:365.2'], note: إنّه مكتوب بين عينيه كافر، يقرؤه من كره عملَه، أو يقرؤه كلُّ مؤمن}
+      - {motif: none-sees-his-lord-until-he-dies, refs: ['Jāmiʿ 2:345.3', 'Jāmiʿ 2:345.4', 'Jāmiʿ 2:365.2', 'Jāmiʿ 2:366.2'], note: تعلَّموا أنّه لن يرى أحدٌ منكم ربَّه ﷿ حتى يموت; وأنَّكم لن ترون ربَّكم حتى تموتوا}
+      - {motif: dajjal-short-bandy-legged-curly, refs: ['Jāmiʿ 2:345.4', 'Jāmiʿ 2:366.2'], note: رجل قصير أفحج، جعد، أعور مطموس العين، ليس بناتئة ولا حجْراء}
+      - {motif: dajjal-one-eyed-god-not, refs: ['Jāmiʿ 2:345.4', 'Jāmiʿ 2:366.2'], note: فاعلموا أنّ ربَّكم ليس بأعور}
+  - id: hadith-2-gabriel-six-hundred-wings
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Ibn Mas''ud on Q 53:9-18: Gabriel with six hundred wings; a green rafraf filling the horizon; Gabriel in a robe of rafraf'
+    read: ['Jāmiʿ 2:347.3-348.2']
+    quran: ['53:9-10', '53:18', '53:11']
+    tags:
+      - {motif: gabriel-six-hundred-wings, refs: ['Jāmiʿ 2:347.3'], note: أنه رأى جبريل له ست مائة جناح}
+      - {motif: green-rafraf-filling-horizon, refs: ['Jāmiʿ 2:348.1'], note: رأي رفْرَفًا أخضر سدَّ أفق السّماء}
+      - {motif: gabriel-in-robe-of-rafraf-filling-heaven-and-earth, refs: ['Jāmiʿ 2:348.2'], note: رأى رسولُ اللَّه ﷺ جبريل في حُلّة من رفرفٍ، قد ملأ ما بين السّماء والأرض}
+    hints:
+      - Gabriel with six hundred wings against the six-winged seraphim of Isa 6:2
+  - id: hadith-2-light-how-could-i-see-him
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: '''Did you see your Lord?'' - ''Light: how could I see him?'''
+    read: ['Jāmiʿ 2:350.1']
+    tags:
+      - {motif: light-how-could-i-see-him, refs: ['Jāmiʿ 2:350.1'], note: 'هل رأيتَ ربَّك؟ قال: "نورٌ أنّى أراه"'}
+  - id: hadith-2-seen-with-the-heart
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Abu Dharr and Ibn Abbas: he saw him with his heart, twice; friendship for Abraham, speech for Moses, vision for Muhammad'
+    read: ['Jāmiʿ 2:350.2-352.2']
+    quran: ['6:103']
+    tags:
+      - {motif: saw-his-lord-with-heart-not-eye, refs: ['Jāmiʿ 2:350.2', 'Jāmiʿ 2:351.1', 'Jāmiʿ 2:351.2', 'Jāmiʿ 2:352.2'], note: رآه بقلبه ولم يَره بعينه; رآه بفؤاده مرّتين}
+      - {motif: friendship-for-abraham-speech-for-moses-vision-for-muhammad, refs: ['Jāmiʿ 2:351.3'], note: أتعجبون أن تكون الخلّة لإبراهيم، والكلام لموسى، والرّؤية لمحمّد}
+      - {motif: lord-unseen-when-he-manifests-in-his-own-light, refs: ['Jāmiʿ 2:351.4'], note: ذاك إذا تجلّى بنوره الذي هو نوره، وقد رأى محمّدٌ ربَّه مرَّتين}
+    hints:
+      - 'Three prophets each given one mode of nearness (Abraham friendship, Moses speech, Muhammad vision): compare Isa 41:8 ''Abraham my friend'' and Exod 33:11 / Num 12:8 for Moses'' speech ''mouth to mouth'', with Exod 33:20 ''no man shall see me and live'' on the side of vision'
+  - id: hadith-2-lord-in-the-best-form
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The Prophet, late for dawn prayer, tells of seeing his Lord in the best form in sleep: the dispute of the highest assembly, the cool hand between his shoulders'
+    read: ['Jāmiʿ 2:354.1-359.1']
+    tags:
+      - {motif: lord-in-best-form-asks-what-highest-assembly-disputes, refs: ['Jāmiʿ 2:354.1', 'Jāmiʿ 2:357.1', 'Jāmiʿ 2:358.1', 'Jāmiʿ 2:359.1'], note: 'فإذا أنا بربي ﵎ في أحسن صُورة; فيم يختص الملأ الأعلى؟ قلت: لا أدري، قالها ثلاثا'}
+      - {motif: divine-palm-between-shoulders-coolness-between-breasts, refs: ['Jāmiʿ 2:354.1', 'Jāmiʿ 2:357.1', 'Jāmiʿ 2:358.1', 'Jāmiʿ 2:359.1'], note: وضع كفَّه بين كتفيَّ حتى وجتُ بَرْد أنامله بين ثدييَّ، فتجلّى لي كلُّ شيءٍ وعرفتُ; أو وضعهما بين ثديي حتى وجدت بردها بين كتفي}
+      - {motif: highest-assembly-disputes-expiations-and-degrees, refs: ['Jāmiʿ 2:354.1', 'Jāmiʿ 2:357.1', 'Jāmiʿ 2:358.1'], note: 'مشيُ الأقدام إلى الحسنات، والجلوس في المساجد بعد الصّلوات، وإسباغُ الوضوء حين الكَرِيهات; والدّرجات: إطعام الطّعام، وبذلُ السّلام، والقيام باللّيل والنّاس نيام'}
+      - {motif: prayer-take-me-unseduced-when-you-will-trial, refs: ['Jāmiʿ 2:354.1', 'Jāmiʿ 2:357.1', 'Jāmiʿ 2:358.1'], note: وإذا أردت فتنة قوم فتوفني غير مفتون}
+      - {motif: i-saw-my-lord-short-report, refs: ['Jāmiʿ 2:356.1'], note: رأيتُ ربّي ﷿}
+    hints:
+      - 'The ''highest assembly'' (al-malaʾ al-aʿlā) disputing before God: the heavenly council of 1 Kgs 22:19-22 and Ps 82:1, and the rabbinic ''academy on high'' (yeshiva shel maʿala) that disputes a ruling, b. BM 86a'
+  - id: hadith-2-veil-of-light
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Five words: God does not sleep, lowers and raises the scale; his veil is light that would burn creation'
+    read: ['Jāmiʿ 2:360.1']
+    tags:
+      - {motif: god-does-not-sleep-lowers-and-raises-the-scale, refs: ['Jāmiʿ 2:360.1'], note: إنّ اللَّه ﷿ لا ينام ولا ينبغي له أن ينام، يخفض القسط ويرفعه، يُرفع إليه عملُ اللّيل قبل عمل النّهار}
+      - {motif: veil-of-light-if-lifted-glories-of-face-burn-all, refs: ['Jāmiʿ 2:360.1'], note: حجابه النّور، لو كشفه لأحْرقتْ سُبُحاتُ وجهه ما انتهى إليه بصرُه من خلقه}
+    hints:
+      - God who neither slumbers nor sleeps, Ps 121:4; light as God's garment, Ps 104:2, and the face that cannot be seen and lived, Exod 33:20
+  - id: hadith-2-seeing-the-lord
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The believers will see their Lord as the full moon and the cloudless sun; only the cloak of majesty between; the veil lifted in paradise
+    read: ['Jāmiʿ 2:363.1-365.1', 'Jāmiʿ 2:366.3', 'Jāmiʿ 2:370.1']
+    quran: ['75:22-23', '83:15-17', '10:26', '20:130']
+    tags:
+      - {motif: see-your-lord-like-full-moon, refs: ['Jāmiʿ 2:363.1'], note: أما إنّكم سترون ربَّكم كما ترون هذا القمر، لا تُضامّون في رؤيته; أن لا تُغلبوا على صلاة قبل طلوع الشّمس، وصلاة قبل غروب الشمس}
+      - {motif: lord-seen-like-full-moon, refs: ['Jāmiʿ 2:364.1', 'Jāmiʿ 2:364.2'], note: هل تضّارُّون في القمر ليلة البدر; هل تضارُّون في رؤية الشّمس بالظّهيرة، ضوء ليس فيها سحاب}
+      - {motif: two-gardens-of-silver-two-of-gold-cloak-of-majesty, refs: ['Jāmiʿ 2:364.3'], note: جنّتان من فضّة، آنيتُهما وما فيهما، وجنّتان من ذهب; إلا رداء الكِبرياء على وجهه في جنّة عدن}
+      - {motif: veil-lifted-sight-of-lord-dearest-gift, refs: ['Jāmiʿ 2:365.1'], note: تريدون شيئًا أزيدكم; فيكشف الحجاب. فما أُعطوا شيئًا أحبَّ إليهم من النّظر إلى ربّهم}
+      - {motif: prayer-for-delight-of-looking-at-gods-face, refs: ['Jāmiʿ 2:366.3'], note: وأسألك لذّةَ النّظرِ إلى وجهك}
+      - {motif: each-sees-the-moon-alone-god-greater, refs: ['Jāmiʿ 2:370.1'], note: أليس كلّهم يرى القمر مُخْليًا به; فاللَّه أعظم وذلك آية في خلقه}
+  - id: hadith-2-the-long-report-of-ibn-masud
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Ibn Mas''ud''s long report: forty years standing; each follows its object of worship; the shin uncovered; light by deeds; the crossing; the last man out of the fire; then Umar and Ka''b'
+    read: ['Jāmiʿ 2:367.1']
+    quran: ['75:22-23', '83:15-17', '10:26']
+    tags:
+      - {motif: forty-years-standing-gazing-skyward, refs: ['Jāmiʿ 2:367.1'], note: قيامًا أربعين سنة شاخصة أبصارهم إلى السماء ينتظرون فصل القضاء}
+      - {motif: god-descends-in-cloud-shades-from-throne-to-footstool, refs: ['Jāmiʿ 2:367.1'], note: وينزل اللَّه ﷿ في ظلل من الغمام من العرش إلى الكرسيّ}
+      - {motif: each-follows-what-it-worshipped-devil-of-jesus-devil-of-uzayr, refs: ['Jāmiʿ 2:367.1'], note: ويُمثَّل لمن كان يعبد عيسى شيطان عيسى، ويُمثّل لمن كان يعبد عزيرًا شيطان عزير}
+      - {motif: shin-uncovered-back-becomes-one-plate, refs: ['Jāmiʿ 2:367.1'], note: يكشف عن ساقه; ويبقى قوم ظهورهم كصياصي البقر يريدون السُّجود فلا يستطيعون}
+      - {motif: light-given-by-deeds-mountain-to-big-toe, refs: ['Jāmiʿ 2:367.1'], note: حتى يكون آخرهم رجلا يعطى نوره على إبهام قدمه يضيء مرة ويطفئ مرة}
+      - {motif: lord-passes-through-fire-leaving-sword-edge-track, refs: ['Jāmiʿ 2:367.1'], note: حتى يمر في النار فيبقى أثره كحد السيف دحض مزلّة}
+      - {motif: crossing-like-eye-blink-lightning-cloud-star-wind-horse-man, refs: ['Jāmiʿ 2:367.1'], note: منهم من يمر كطرف العين، ومنهم من يمر كالبرق، ومنهم من يمر كالسحاب}
+      - {motif: last-saved-asks-mansion-after-mansion-do-you-mock-me, refs: ['Jāmiʿ 2:367.1'], note: ربّ اجعل بيني وبينها حجابا; أتستهزئ بي وأنت ربُّ العِزّة}
+      - {motif: narrator-laughs-at-the-place-where-prophet-laughed, refs: ['Jāmiʿ 2:367.1'], note: كلّما بلغ هذا المكان من هذا الحديث ضَحِك حتى تبدو أضراسه}
+      - {motif: prostrates-to-pearl-palace-and-to-steward-thinking-them-god-or-angel, refs: ['Jāmiʿ 2:367.1'], note: رفع له قصر من درّة فيخر ساجدًا; إنما أنا خازن من خزّانك، عبد من عبيدك تحت يدي ألف قهرمان}
+      - {motif: houri-seventy-robes-marrow-seen-each-mirror-of-other, refs: ['Jāmiʿ 2:367.1'], note: عليها سبعون حلة، يُرى مخُّ ساقها من وراء حللها، كبدها مرآته وكبده مرآتها}
+      - {motif: what-no-eye-has-seen-no-ear-heard, refs: ['Jāmiʿ 2:367.1'], note: ما لا عين رأت ولا أذن سمعت}
+      - {motif: house-no-creature-saw-hell-sigh-abraham-my-self, refs: ['Jāmiʿ 2:367.1'], note: 'ثم أطبقها ثم لم يرها أحد من خلقه لا جبريل; حتى إنّ إبراهيم خليل اللَّه ليقول: ربّ نفسي نفسي'}
+    hints:
+      - The last part (Umar and Kaʿb) is Kaʿb al-Aḥbār's speech, not the Prophet's; 'what no eye has seen nor ear heard' against Isa 64:3 (4) and 1 Cor 2:9
+  - id: hadith-2-bad-preacher
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: '''Whoever disobeys the two of them'': the preacher rebuked'
+    read: ['Jāmiʿ 2:377.1']
+    tags:
+      - {motif: bad-preacher-told-say-whoever-disobeys-god-and-his-messenger, refs: ['Jāmiʿ 2:377.1'], note: 'بئس الخطيب أنتَ! قل: ومن يعصِ اللَّه ورسوله'}
+  - id: hadith-2-what-god-wills-then-you-will
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: A Muslim dreams the people of the book reproach 'what God wills and Muhammad wills'; swear by the Lord of the Ka'ba; 'then you will'
+    read: ['Jāmiʿ 2:378.1-380.1']
+    tags:
+      - {motif: dream-forbids-what-god-wills-and-muhammad-wills, refs: ['Jāmiʿ 2:378.1'], note: 'نعم القومُ أنتم لولا أنّكم تشركون، تقولون: ما شاء اللَّه وشاء محمّد'}
+      - {motif: what-god-wills-then-you-will, refs: ['Jāmiʿ 2:378.1', 'Jāmiʿ 2:379.1', 'Jāmiʿ 2:380.1'], note: 'وربِّ الكعبة; ولكن ليقلْ: ما شاء اللَّه ثم شئت'}
+    hints:
+      - 'The rebuke comes from ''a man of the people of the book'' (in a dream) and from a Jew: an outside voice correcting the believers'' formula of association'
+  - id: hadith-2-war-on-gods-friend
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Whoever is hostile to my friend, I have declared war on him; I become his hearing and sight; I hesitate over the believer's soul
+    read: ['Jāmiʿ 2:380.2']
+    tags:
+      - {motif: whoever-harms-my-friend-war-declared, refs: ['Jāmiʿ 2:380.2'], note: من عادى لي وليا فقد آذنته بالحرب}
+      - {motif: god-becomes-hearing-sight-hand-foot-of-beloved, refs: ['Jāmiʿ 2:380.2'], note: كنتُ سمعَه الذي يسمعُ به، وبصرَه الذي يبصر به، ويده التي يبطشُ بها، ورجلَه التي يمشي بها}
+      - {motif: god-hesitates-over-believers-soul, refs: ['Jāmiʿ 2:380.2'], note: وما ترددتُ عن شيء أنا فاعله تردّدي عن نفس المؤمن، يكره الموت، وأنا أكره مساءته}
+  - id: hadith-2-throne-on-the-water
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Before creation: God and nothing else, his throne on the water; his full right hand; the ''ama (bab on Q 11:7)'
+    read: ['Jāmiʿ 2:383.1-384.1']
+    quran: ['9:129', '11:7']
+    tags:
+      - {motif: god-was-and-nothing-besides-throne-on-water, refs: ['Jāmiʿ 2:383.1'], note: كان اللَّه ولم يكن شيءٌ غيره، وكان عرشه على الماء}
+      - {motif: all-things-written-in-the-dhikr, refs: ['Jāmiʿ 2:383.1'], note: وكتب في الذِّكر كلَّ شيءٍ}
+      - {motif: narrator-leaves-hadith-for-straying-camel, refs: ['Jāmiʿ 2:383.1'], note: ذهبتْ ناقتُك يا ابن الحصين، فانطلقتُ فإذا هي يقطع دونها السرابُ فواللَّه لوددتُ أنّي كنت تركتها}
+      - {motif: spend-and-i-will-spend-on-you, refs: ['Jāmiʿ 2:383.2'], note: يا ابنَ آدم، أنْفقْ أُنفِق عليك}
+      - {motif: gods-right-hand-full-unspent, refs: ['Jāmiʿ 2:383.2'], note: يمين اللَّه ملآي; وعرشه على الماء، وبيده الأخرى القبض يرفع ويخفض}
+      - {motif: god-in-ama-before-creation-air-above-and-below, refs: ['Jāmiʿ 2:384.1'], note: كان في عَماءٍ، ما تحته هواء، وما فوقه هواء، ثم خلق عرشَه على الماء}
+    hints:
+      - The throne on the water before the creation of heaven and earth against Gen 1:2, 'the spirit of God hovering over the face of the waters', and Ps 29:10, YHWH enthroned over the flood
+  - id: hadith-2-firdaws-under-the-throne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: A hundred degrees for the strivers; ask for al-Firdaws, above it the throne, from it the rivers; Haritha's mother told of many gardens
+    read: ['Jāmiʿ 2:384.2-385.2']
+    tags:
+      - {motif: hundred-degrees-firdaws-under-throne, refs: ['Jāmiʿ 2:384.2', 'Jāmiʿ 2:385.2'], note: إنّ في الجنة مائةَ درجة أعدّها اللَّه للمجاهدين في سبيل اللَّه; أُراه فوقه عرش الرّحمن}
+      - {motif: four-rivers-of-paradise-from-firdaws, refs: ['Jāmiʿ 2:385.2'], note: ومنها تفجّر أنهار الجنة الأربعة، ومن فوقها يكون العرش}
+      - {motif: many-gardens-highest-firdaws, refs: ['Jāmiʿ 2:385.1'], note: إنّها جنان في الجنّة، وإنّ ابنك أصاب الفردوس الأعلى}
+    hints:
+      - 'Four rivers flowing from the highest garden, under the throne: the four heads of the river out of Eden, Gen 2:10-14'
+  - id: hadith-2-bearers-of-the-throne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Bearers of the throne: earlobe to shoulder seven hundred years; an angel with feet through the seventh earth and the throne on his shoulder'
+    read: ['Jāmiʿ 2:386.1', 'Jāmiʿ 2:431.2-432.1']
+    quran: ['9:129', '69:17', '40:7']
+    tags:
+      - {motif: throne-bearer-earlobe-to-shoulder-seven-hundred-years, refs: ['Jāmiʿ 2:386.1', 'Jāmiʿ 2:431.2'], note: إنّ ما بين شحمة أذنه إلى عاتقه مسيرة سبعمائة عام}
+      - {motif: angel-feet-through-seventh-earth-throne-on-shoulder-where-were-you, refs: ['Jāmiʿ 2:432.1'], note: 'قد مرقَتْ رجلاه الأرض السّابعة، والعرش على منكبه وهو يقول: سبحانك أين كنت، وأين تكون'}
+    hints:
+      - The bearers of the throne against the living creatures who bear the firmament and throne in Ezek 1:22-26; the sizes of angels in rabbinic lore (Sandalphon taller than his fellows by a 500-year journey, b. Ḥag 13b)
+  - id: hadith-2-meteors-and-the-throne-bearers
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'A shooting star: not for a birth or death; when God decrees the throne-bearers glorify and the news passes heaven by heaven, and the jinn snatch it'
+    read: ['Jāmiʿ 2:392.1', 'Jāmiʿ 2:417.1', 'Jāmiʿ 2:433.1']
+    quran: ['40:7']
+    tags:
+      - {motif: stars-not-shot-for-a-birth-or-death, refs: ['Jāmiʿ 2:392.1', 'Jāmiʿ 2:417.1', 'Jāmiʿ 2:433.1'], note: وُلد الليلة رجلٌ عظيم، ومات رجلٌ عظيم; فإنها لا يُرْمي بها لموت أحد ولا لحياته}
+      - {motif: praise-ascends-from-throne-bearers-heaven-by-heaven, refs: ['Jāmiʿ 2:392.1', 'Jāmiʿ 2:417.1', 'Jāmiʿ 2:433.1'], note: إذا قضى أمرًا سبَّح حملةُ العرش، ثم سبَّح أهل السماء الذين يلونهم}
+      - {motif: devils-eavesdrop-pelted-with-shooting-stars, refs: ['Jāmiʿ 2:417.1', 'Jāmiʿ 2:433.1'], note: فتخطف الجنُّ السّمع فيقذفون إلى أوليائهم. ويُرْمَوْن به; ولكنَّهم يَقْرِفون فيه ويزيدون}
+  - id: hadith-2-weight-of-the-throne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Juwayriya in her place since dawn; four phrases said three times outweigh it: ''the weight of his throne'''
+    read: ['Jāmiʿ 2:393.1']
+    quran: ['18:109']
+    tags:
+      - {motif: four-phrases-thrice-outweigh-a-morning-of-dhikr, refs: ['Jāmiʿ 2:393.1'], note: لقد قلتُ بعدكِ أربعَ كلماتٍ ثلاث مرّات; سبحان اللَّه وبحمده عدد خلقه، ورضا نفسه، وزِنَةَ عرشه، ومداد كلماته}
+  - id: hadith-2-moses-at-the-throne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Do not prefer among prophets: at the swoon the Prophet first to wake finds Moses gripping a leg of the throne'
+    read: ['Jāmiʿ 2:393.2-394.1']
+    tags:
+      - {motif: moses-holding-throne-leg-at-resurrection, refs: ['Jāmiʿ 2:393.2'], note: فإذا أنا بموسى آخذ بقائمة من قوائم العرش}
+      - {motif: moses-holding-throne-at-resurrection-swoon, refs: ['Jāmiʿ 2:394.1'], note: فإذا موسى باطش جانب العرش; أو كان ممن استثنى اللَّه}
+  - id: hadith-2-throne-shook-for-sad
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The throne shook at the death of Sa''d b. Mu''adh: the grave squeezed him, angels carried his bier, seventy thousand attended'
+    read: ['Jāmiʿ 2:394.2-397.2']
+    tags:
+      - {motif: throne-of-merciful-shook-at-death-of-sad, refs: ['Jāmiʿ 2:394.2', 'Jāmiʿ 2:395.1', 'Jāmiʿ 2:395.2', 'Jāmiʿ 2:396.1', 'Jāmiʿ 2:396.2', 'Jāmiʿ 2:396.3', 'Jāmiʿ 2:397.1', 'Jāmiʿ 2:397.2'], note: اهتزَّ العرشُ لموت سعد ابن معاذ; اهتزّ لها عرشُ الرّحمن}
+      - {motif: gabriel-asks-who-is-this-righteous-dead, refs: ['Jāmiʿ 2:395.2'], note: من هذا العبد الصّالحُ الذي مات، فُتحتْ له أبواب السّماء، وتحرَّك له العرش}
+      - {motif: grave-pressed-on-righteous-man-then-relieved, refs: ['Jāmiʿ 2:395.1', 'Jāmiʿ 2:397.2'], note: شُدِّد عليه، ففرَّج اللَّه عنه; لقد ضُمَّ ضمّةً ثم أُفرج عنه}
+      - {motif: bier-light-because-angels-carried-it, refs: ['Jāmiʿ 2:396.2'], note: 'فطعن المنافقون في جنازته وقالوا: ما أخفّها; إّنما كانت تحمله الملائكةُ معهم'}
+      - {motif: seventy-thousand-angels-attend-burial, refs: ['Jāmiʿ 2:397.2'], note: وشهده سبعون ألفًا من الملائكة}
+      - {motif: close-enough-to-kiss-the-seal-between-shoulders, refs: ['Jāmiʿ 2:397.1'], note: ولو أشاء أن أُقَبِّلَ الخاتم الذي بين كتفيه من قُربي منه لفعلتُ}
+  - id: hadith-2-shade-of-the-throne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The seven shaded; those who love one another for God's majesty; one who grants respite to a debtor, in the shade of the throne
+    read: ['Jāmiʿ 2:400.1-402.3']
+    tags:
+      - {motif: seven-shaded-on-day-without-shade, refs: ['Jāmiʿ 2:400.1'], note: سبعةٌ يظلّهم اللَّه في ظلِّه يوم لا ظلَّ إلا ظلُّه}
+      - {motif: lovers-for-gods-majesty-in-his-shade, refs: ['Jāmiʿ 2:401.1', 'Jāmiʿ 2:401.2', 'Jāmiʿ 2:401.3'], note: أين المتحابون بجلالي، اليوم أظلُّهم في ظلّي; المتحابون بجلالي في ظل عرشي}
+      - {motif: respite-to-debtor-shade-of-throne, refs: ['Jāmiʿ 2:402.1', 'Jāmiʿ 2:402.2', 'Jāmiʿ 2:402.3'], note: من أنظر معسرًا، أو وضع له، أظله اللَّه يوم القيامة تحت ظلِّ عرشه; من نفّس عن غريمه أو محا عنه، كان في ظلّ العرش}
+      - {motif: debtor-hides-boy-betrays-creditor-weeps, refs: ['Jāmiʿ 2:402.3'], note: يأكلُ خزيرةً; فبكى أبو قتادة}
+  - id: hadith-2-mercy-prevails-over-wrath
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'When God completed creation he wrote in his book above the throne: my mercy prevails over my wrath; written with his hand'
+    read: ['Jāmiʿ 2:404.1-404.2']
+    quran: ['6:12']
+    tags:
+      - {motif: written-above-the-throne-mercy-prevails, refs: ['Jāmiʿ 2:404.1', 'Jāmiʿ 2:404.2'], note: 'كتب في كتابه فهو عنده فوق العرش: إنّ رحمتي غلبتْ غضبي; كتب بيده على نفسه'}
+  - id: hadith-2-treasure-beneath-the-throne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The end of al-Baqara from a treasure beneath the throne; three things by which the community was preferred
+    read: ['Jāmiʿ 2:405.1-406.2']
+    quran: ['2:285-286']
+    tags:
+      - {motif: community-preferred-by-three-earth-rows-baqara-verses, refs: ['Jāmiʿ 2:405.1'], note: 'فُضِّلتْ هذه الأمّة على سائر الأمم بثلاث: جعلتْ لها الأرضُ طهورًا ومسجدًا، وجُعلت صفوفها على صفوف الملائكة'}
+      - {motif: end-of-baqara-from-treasure-beneath-throne, refs: ['Jāmiʿ 2:405.1', 'Jāmiʿ 2:406.1', 'Jāmiʿ 2:406.2'], note: من كنز تحت العرش; من بيت كنز من تحت العرش، لم يعطهنَّ نبيٌّ قبلي}
+  - id: hadith-2-praises-around-the-throne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Glorification, tahlil and praise circle the throne humming like bees, reminding of their sayer
+    read: ['Jāmiʿ 2:408.1']
+    tags:
+      - {motif: praises-circle-throne-humming-like-bees, refs: ['Jāmiʿ 2:408.1'], note: التسبيح، والتهليل، والتحميد ينعطفن حول العرش، لهنّ دويٌّ كدويّ النّحل، تُذكِّر صاحبها}
+  - id: hadith-2-angels-of-light
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Angels created from light, jinn from smokeless fire, Adam from what you were told
+    read: ['Jāmiʿ 2:412.1']
+    tags:
+      - {motif: angels-of-light-jinn-of-fire-adam-as-described, refs: ['Jāmiʿ 2:412.1'], note: خُلقتِ الملائكة من نور، وخلق الجان من مارج من نار، وخلق آدم مما وُصف لكم}
+  - id: hadith-2-seventy-thousand-angels
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The frequented house: seventy thousand angels a day, never returning; hell brought with seventy thousand reins, each with seventy thousand angels'
+    read: ['Jāmiʿ 2:412.2-413.2']
+    quran: ['74:31']
+    tags:
+      - {motif: seventy-thousand-angels-daily-never-returning, refs: ['Jāmiʿ 2:412.2', 'Jāmiʿ 2:413.2'], note: هذا البيتُ المعمور يصلي فيه كلّ يوم سبعون ألف ملك، إذا خرجوا لم يعودوا إليه آخر ما عليهم}
+      - {motif: hell-dragged-by-seventy-thousand-reins, refs: ['Jāmiʿ 2:413.1'], note: يُؤتي بجهنّم يومئذ لها سبعون ألف زمام، مع كلِّ زمام سبعون ألف ملك يجرونها}
+    hints:
+      - 'A heavenly temple above the earthly one: the heavenly sanctuary (zevul) where Michael offers, b. Ḥag 12b, and the heavenly Jerusalem built opposite the earthly, b. Taʿan 5a'
+  - id: hadith-2-heaven-creaks
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The Prophet hears heaven creak: no span without an angel prostrate or standing'
+    read: ['Jāmiʿ 2:413.3']
+    tags:
+      - {motif: heaven-creaks-and-may-not-be-blamed-angel-on-every-span, refs: ['Jāmiʿ 2:413.3'], note: إنّي لأسمعُ أطيطَ السّماء وما تُلامُ أن تثطّ، وما فيها موضع شبر إلّا وعليه ملك ساجد أو قائم}
+  - id: hadith-2-angels-take-turns
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Night angels and day angels meet at the dawn and afternoon prayers and report: we left them praying'
+    read: ['Jāmiʿ 2:415.1']
+    tags:
+      - {motif: night-and-day-angels-meet-at-dawn-and-afternoon-prayers, refs: ['Jāmiʿ 2:415.1'], note: ويجتمعون في صلاة العصر، وصلاة الفجر; تركناهم وهم يصلّون، وأتيناهم وهم يُصلّون}
+  - id: hadith-2-stolen-hearing
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Angels in the clouds speak of the decree; the stealers of hearing pass it down, one above another; a hundred lies on the soothsayer's lips (Q 34:23)
+    read: ['Jāmiʿ 2:416.1-416.2']
+    quran: ['34:23']
+    tags:
+      - {motif: angels-in-the-anan-cloud-speak-of-decree-devils-steal, refs: ['Jāmiʿ 2:416.1'], note: إنّ الملائكةَ تنزلُ في العنان -وهو السّحاب- فتذكر الأمرَ قُضي في السّماء، فتسترق الشّياطينُ السّمعَ}
+      - {motif: one-stolen-word-mixed-with-hundred-lies, refs: ['Jāmiʿ 2:416.1', 'Jāmiʿ 2:416.2'], note: فيكذبون منها مائة كذبة من عند أنفسهم; فتُلقى على فَم السّاحر فيكذبُ معها مائةَ كَذْبةٍ}
+      - {motif: eavesdroppers-stacked-one-above-another, refs: ['Jāmiʿ 2:416.2'], note: ومسترقو السّمع هكذا واحدٌ فوق آخر}
+      - {motif: angels-beat-wings-sound-like-chain-on-rock, refs: ['Jāmiʿ 2:416.2'], note: ضربت الملائكةُ بأجنحتها خُضعانًا لقوله كالسِّلسلةِ على صفوان}
+  - id: hadith-2-friday-angels
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Angels at the mosque doors on Friday write the arrivals, first and then next, and fold their scrolls when the imam sits
+    read: ['Jāmiʿ 2:417.2']
+    tags:
+      - {motif: angels-at-mosque-doors-record-friday-arrivals-fold-scrolls, refs: ['Jāmiʿ 2:417.2'], note: كان على كلّ باب من أبواب المسجد الملائكة يكتبون الأوّل فالأوّل، فإذا جلس الإمامُ طووا الصُّحفَ}
+  - id: hadith-2-greeting-of-adam
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Adam, sixty cubits, sent to greet the angels: their answer is the greeting of his offspring; creation diminishing since'
+    read: ['Jāmiʿ 2:418.1']
+    tags:
+      - {motif: adam-sixty-cubits-tall, refs: ['Jāmiʿ 2:418.1'], note: طوله ستون ذراعًا}
+      - {motif: adam-sent-to-greet-angels-greeting-of-descendants, refs: ['Jāmiʿ 2:418.1'], note: 'فاستمع ما يحيّونك فإنّها تحيّة ذريّتك; فقالوا: السلام عليك ورحمة اللَّه، فزادوا: ورحمة اللَّه'}
+      - {motif: creation-keeps-diminishing-since-adam, refs: ['Jāmiʿ 2:418.1'], note: فكلّ من يدخل الجنة على صورة آدم، فلم يزل الخلق ينقص بعدُ حتى الآن}
+    hints:
+      - 'Adam''s original stature since reduced: the rabbinic Adam who filled the world from end to end and was reduced (b. Ḥag 12a, b. Sanh 38b)'
+  - id: hadith-2-angels-come-for-the-reciter
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Usayd''s horse shies as he recites al-Baqara: a canopy with lamps, angels drawn to his voice; the sakina over the reciter of al-Kahf'
+    read: ['Jāmiʿ 2:418.2-418.3']
+    quran: ['18:1-110']
+    tags:
+      - {motif: angels-like-canopy-with-lamps-come-near-for-reciter, refs: ['Jāmiʿ 2:418.2'], note: فإذا مثل الظُّلة فيها أمثال المصايح; تلك الملائكةُ دَنتْ لصوتِك، ولو قرأتَ لأصبحتْ ينظرُ النّاسُ إليها}
+      - {motif: cloud-of-sakina-descends-on-kahf-reciter, refs: ['Jāmiʿ 2:418.3'], note: فإذا ضبابة أو سحابة غشيتْه; فإنّها السكينة نزلت للقرآن}
+    hints:
+      - 'The sakīna as a cloud descending (Arabic cognate of Shekhinah): the cloud of glory filling the tabernacle, Exod 40:34-35, and the rabbinic Shekhinah resting on those who study Torah, m. Avot 3:6'
+  - id: hadith-2-reciter-with-the-scribes
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The skilled reciter is with the noble scribes; the stammerer has two rewards
+    read: ['Jāmiʿ 2:419.1']
+    tags:
+      - {motif: skilled-reciter-with-noble-scribes-stammerer-two-rewards, refs: ['Jāmiʿ 2:419.1'], note: الماهرُ بالقرآن مع السّفرة الكرام البررة، والذي يقرأ القرآن ويتتعتع فيه، وهو عليه شاق له أجران}
+  - id: hadith-2-hour-and-hour
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Hanzala''s fear of hypocrisy: angels would shake your hands; but, Hanzala, an hour and an hour'
+    read: ['Jāmiʿ 2:419.2']
+    tags:
+      - {motif: hanzala-has-turned-hypocrite-angels-would-shake-hands, refs: ['Jāmiʿ 2:419.2'], note: نافق حنظلة; لصافحتْكُم الملائكةُ على فُرشكم، وفي طُرقِكم. ولكنْ يا حنظلةُ، ساعة وساعة}
+  - id: hadith-2-angels-do-not-enter
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Angels do not enter a house with a picture, statue or dog: the cushion Aisha bought, Gabriel''s missed appointment, the pictures of Abraham in the Ka''ba'
+    read: ['Jāmiʿ 2:420.1-423.1']
+    tags:
+      - {motif: angels-do-not-enter-house-with-picture, refs: ['Jāmiʿ 2:420.1', 'Jāmiʿ 2:420.2', 'Jāmiʿ 2:421.1', 'Jāmiʿ 2:421.2', 'Jāmiʿ 2:421.3', 'Jāmiʿ 2:422.1'], note: إنّ الملائكةَ لا تدخلُ بيتًا فيه صورة; إنّا لا ندخلُ بيتًا فيه صورة ولا كلب}
+      - {motif: angels-do-not-enter-house-with-image, refs: ['Jāmiʿ 2:422.2', 'Jāmiʿ 2:423.1'], note: لا تدخل الملائكة بيتًا فيه تماثيل أو تصاوير}
+      - {motif: picture-makers-told-give-life-to-what-you-made, refs: ['Jāmiʿ 2:420.2'], note: 'إنّ أصحاب هذه الصُّور يعذّبون يوم القيامة. يقالُ لهم: أحيوا ما خلقتم'}
+      - {motif: abraham-image-with-divining-arrows, refs: ['Jāmiʿ 2:421.2'], note: وجد فيه صورة إبراهيم وصورة مريم; هذا إبراهيم مصور، فما له يسْتَقْسِمُ}
+      - {motif: gabriel-kept-away-by-puppy-under-bed, refs: ['Jāmiʿ 2:421.3', 'Jāmiʿ 2:422.1'], note: ثم وقع في نفسه جرو كلب تحت فُسطاط لنا; فإذا جرو كلبٍ تحت سريره}
+      - {motif: dogs-killed-small-garden-dog-killed-large-spared, refs: ['Jāmiʿ 2:421.3'], note: حتى إنّه ليأمر بقتل كلب الحائط الصّغير، ويترك كلب الحائط الكبير}
+    hints:
+      - 'The ban on images made into a punishment of the makers (''give life to what you created''): Exod 20:4 and Deut 4:16-18 forbid the image; Isa 44:9-20 mocks the maker who cannot give it breath (Jer 10:14 ''no breath in them'')'
+  - id: hadith-2-bell-and-dog-on-the-road
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The bell is the devil's pipes; angels do not travel with a company that has a dog or a bell
+    read: ['Jāmiʿ 2:424.1-424.4']
+    tags:
+      - {motif: bell-is-the-devils-pipes, refs: ['Jāmiʿ 2:424.1'], note: الجرسُ مزامير الشيطان}
+      - {motif: angels-do-not-accompany-company-with-dog-or-bell, refs: ['Jāmiʿ 2:424.2', 'Jāmiʿ 2:424.3', 'Jāmiʿ 2:424.4'], note: لا تصحبُ الملائكةُ رفقةً فيها كلب ولا جرس}
+  - id: hadith-2-angels-pray-for-the-sitter
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Angels pray for one who stays in his place of prayer
+    read: ['Jāmiʿ 2:425.1']
+    tags:
+      - {motif: angels-pray-for-one-sitting-where-he-prayed, refs: ['Jāmiʿ 2:425.1'], note: الملائكةُ تصلي على أحدكم ما دام في مصلاه الذي صلّى فيه، ما لم يحدث، اللهم اغفرْ له، اللهمّ ارْحمه}
+  - id: hadith-2-god-boasts-of-arafa
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: On the day of 'Arafa God draws near and boasts to the angels of the dishevelled, dusty pilgrims
+    read: ['Jāmiʿ 2:426.1-427.1']
+    tags:
+      - {motif: god-draws-near-on-arafa-boasts-of-dishevelled-pilgrims, refs: ['Jāmiʿ 2:426.1', 'Jāmiʿ 2:426.2', 'Jāmiʿ 2:426.3', 'Jāmiʿ 2:427.1'], note: 'وإنّه ليدنو ثم يباهي بهم الملائكة فيقول: ما أراد هؤلاء; إنّ اللَّه ينزل إلى السّماء الدّنيا يباهي بأهل عرفة الملائكة; انظُروا إلى عبادي شُعْثًا غُبْرًا'}
+  - id: hadith-2-angels-in-human-form
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Angels take a man''s form: the leper, bald and blind man tested; the angel on the road of one who visits a brother for God'
+    read: ['Jāmiʿ 2:428.1-428.2']
+    tags:
+      - {motif: angel-heals-and-enriches-three-to-test-them, refs: ['Jāmiʿ 2:428.1'], note: أبرص وأقرع وأعمى بدا للَّه أن يبتليهم، فبعث إليهم ملكًا}
+      - {motif: angel-waylays-man-visiting-brother-for-god, refs: ['Jāmiʿ 2:428.2'], note: فأرْصد اللَّه له على مدرجته ملكًا; فإنّي رسولُ اللَّه إليك، بأنّ اللَّه قد أحبَّك كما أحببته}
+    hints:
+      - 'An angel waiting on the road to question a traveller: the angel in the road before Balaam, Num 22:22-35, and Raphael on Tobias'' road (Tob 5); here the angel brings a blessing'
+  - id: hadith-2-angels-say-amen
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The angels'' amen: at prayer, at the sickbed, and over a prayer for an absent brother'
+    read: ['Jāmiʿ 2:428.3-429.3']
+    tags:
+      - {motif: amen-agreeing-with-angels-forgives-past-sins, refs: ['Jāmiʿ 2:428.3'], note: فإنّه من وافق تأمينُه تأمين الملائكة غفر له ما تقدّم من ذنبه}
+      - {motif: angels-say-amen-at-sickbed-and-deathbed, refs: ['Jāmiʿ 2:429.1'], note: إذا حضرتُم المريض أو الميت فقولوا خيرًا، فإن الملائكة يؤمِّنون على ما تقولون}
+      - {motif: angel-at-head-says-and-for-you-likewise, refs: ['Jāmiʿ 2:429.2', 'Jāmiʿ 2:429.3'], note: 'إلّا قال الملك: ولك بمثل; عند رأسه ملك موكَّل'}
+  - id: hadith-2-angel-of-the-mountains
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'After Ta''if: the angel of the mountains offers to bring the two Akhshabs down on Mecca; the Prophet hopes for believers from their loins'
+    read: ['Jāmiʿ 2:429.4']
+    tags:
+      - {motif: angel-of-mountains-offers-to-crush-the-town, refs: ['Jāmiʿ 2:429.4'], note: إن شئتَ أن أطبِّق عليهم الأخشبين; بل أرجو أن يخرجَ اللَّهُ من أصلابهم من يعبد اللَّه وحدَه}
+    hints:
+      - 'A prophet offered destruction of a rejecting town and declining it: against 2 Kgs 1:10-12 (Elijah calls fire on the soldiers) and Luke 9:54-55, where Jesus rebukes the disciples who would call down fire on a Samaritan village'
+  - id: hadith-2-angel-of-the-womb-forty-days
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The angel of the womb: forty days drop, clot, lump; the four things written; at forty-two nights the angel shapes the embryo'
+    read: ['Jāmiʿ 2:430.1-431.1']
+    tags:
+      - {motif: embryo-forty-days-each-as-drop-clot-lump, refs: ['Jāmiʿ 2:430.1'], note: إنّ خلق أحدكم يُجمع في بطن أمه أربعين يومًا وأربعين ليلةً، ثم يكون علقة مثله، ثم يكون مضغة مثله}
+      - {motif: angel-writes-four-things-for-the-embryo, refs: ['Jāmiʿ 2:430.1'], note: 'فيؤذن بأربع كلمات فيكتب: رزقه، وأجله، وعمله، وشقي أم سعيد'}
+      - {motif: spirit-breathed-in-after-embryo-stages, refs: ['Jāmiʿ 2:430.1'], note: ثم ينفخ فيه الرّوح}
+      - {motif: deeds-of-paradise-till-a-cubit-then-book-overtakes, refs: ['Jāmiʿ 2:430.1'], note: حتى لا يكون بينها وبينه إلّا ذراع فيسبق عليه الكتاب}
+      - {motif: angel-shapes-embryo-at-forty-two-nights-asks-male-or-female, refs: ['Jāmiʿ 2:430.2'], note: إذا مرَّ بالنّطفة ثنتان وأربعون ليلة، بعث اللَّه إليها ملكًا فصوَّرها; ثم يخرج الملك بالصّحيفة في يده فلا يزيد ما أمر ولا ينقص}
+      - {motif: angel-of-womb-announces-drop-clot-lump, refs: ['Jāmiʿ 2:431.1'], note: يا ربّ نطفة، با ربّ عَلَقة، يا ربّ مُضغة}
+    hints:
+      - 'Forty days before the embryo is formed and an angel over conception: the rabbinic forty days of formation (m. Nid 3:7; b. Men 99b ''water'' for forty days) and the angel Laylah who takes the drop before God and asks ''strong or weak, wise or foolish, rich or poor'' (b. Nid 16b)'
+  - id: hadith-2-angels-seek-remembrance
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Roving angels seek gatherings of remembrance; God''s questions: have they seen me, paradise, the fire? ''Their companion is not wretched'''
+    read: ['Jāmiʿ 2:434.1']
+    tags:
+      - {motif: angels-roam-roads-seeking-gatherings-of-remembrance, refs: ['Jāmiʿ 2:434.1'], note: إن للَّه ملائكة يطوفون في الطُّرق يلتمسون أهلَ الذِّكْرِ; هُمُ الجلساء لا يشقى بهم جليسُهم}
+  - id: hadith-2-angels-convey-greeting-lower-wings
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Roaming angels convey the community's greeting; angels lower their wings for the seeker of knowledge
+    read: ['Jāmiʿ 2:434.2-436.1']
+    tags:
+      - {motif: roaming-angels-convey-communitys-greeting-to-prophet, refs: ['Jāmiʿ 2:434.2'], note: إنّ للَّه ملائكةً سياحين في الأرض يبلّغون من أمتي السّلامَ}
+      - {motif: angels-lower-wings-for-seeker-of-knowledge, refs: ['Jāmiʿ 2:436.1'], note: ما من خارج خرج من بيته في طلب العلم إلا وضعتِ الملائكةُ أجنحتها رضا بما يصنع}
+  - id: hadith-2-angels-guard-medina
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Angels on the passes of Medina keep out the plague and the Dajjal; seven gates, two angels each; the Dajjal turned at Uhud; Ibn Sayyad's protest
+    read: ['Jāmiʿ 2:436.2-437.4']
+    tags:
+      - {motif: plague-and-dajjal-kept-from-medina, refs: ['Jāmiʿ 2:436.2'], note: على أنقاب المدينة ملائكة، لا يدخلُها الطّاعون والدّجال}
+      - {motif: angels-guard-gates-of-mecca-and-medina, refs: ['Jāmiʿ 2:436.3'], note: ليس من بلد إلا سيطؤُه الدّجَّال إلّا مكّة والمدينة، ليس له من نقابها نَقْب إلّا عليه الملائكة صافّين يحرسونها}
+      - {motif: medina-shakes-three-times-expels-unbelievers-and-hypocrites, refs: ['Jāmiʿ 2:436.3'], note: ثم ترجفُ المدينة بأهلها ثلاث رجَفات، فيخرجُ اللَّه كلَّ كافرٍ ومنافقٍ}
+      - {motif: medina-seven-gates-two-angels-each, refs: ['Jāmiʿ 2:437.1'], note: لها يومئذ سبعة أبواب، على كلّ باب ملكان}
+      - {motif: dajjal-turned-at-uhud-perishes-in-syria, refs: ['Jāmiʿ 2:437.2'], note: حتى ينزل دُبر أحد، ثم تَصْرفُ الملائكةُ وجهه قِبل الشام، وهنالك يُهْلِكُ}
+      - {motif: angels-with-drawn-swords-at-passes, refs: ['Jāmiʿ 2:437.3'], note: استقبلني ملك بيده السّيف صَلْتًا يَصُدّني عنها}
+      - {motif: dajjal-forty-nights-every-town-but-mecca-and-tayba, refs: ['Jāmiʿ 2:437.3'], note: فلا أدع قرية إلا هبطتُها في أربعين ليلةً غير مكة وطيبة}
+      - {motif: ibn-sayyad-argues-he-is-not-the-dajjal, refs: ['Jāmiʿ 2:437.4'], note: 'ألستَ سمعتَ رسول اللَّه ﷺ يقول: "إنّه لا يولد له"؟ قال: قلت: بلى. قال: فقد وُلد لي'}
+    hints:
+      - 'An angel with a drawn sword barring the way (437.3): the angel with drawn sword in the road against Balaam, Num 22:23, and the cherubim with the flaming sword guarding the way, Gen 3:24'

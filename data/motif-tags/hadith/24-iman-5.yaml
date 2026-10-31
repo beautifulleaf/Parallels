@@ -1,0 +1,2448 @@
+# Hadith chunk 24: al-Jāmiʿ al-Kāmil book 2 (kitāb al-īmān), pp. 558-677 (printed 1/559-678): the end of the bābs on
+# prophethood (the glad tidings, the night ascent, his humanity, his preferences), al-Kawthar and the Basin (bābs 23-27), the
+# bābs of intercession (1-20), and the first bābs of belief in the Last Day (the trumpet, the gathering, the reckoning, the bridge).
+# Read in full from the Arabic (193 hadith). Reports the book repeats under several bābs are read again where they stand.
+new_motifs:
+  asks-companions-their-dreams-after-dawn-prayer:
+    label: Turning from the dawn prayer, the prophet asks 'did any of you see a dream last night?'
+    cluster: dreams
+  good-dream-seen-by-a-man-or-shown-for-him:
+    label: The glad tidings that remain are the good dream a man sees or that is seen for him (yarāhā aw turā lahu)
+    cluster: dreams
+  all-between-heaven-and-earth-know-him-but-rebel-jinn-and-men:
+    label: Nothing between heaven and earth but knows he is God's messenger, except the rebels of jinn and men
+    cluster: prophethood
+  savage-camel-lays-its-lip-on-the-ground-and-kneels:
+    label: A camel that charges everyone entering a garden comes when called, its lip (mishfar) to the ground, kneels, and is haltered and handed to its owner
+    cluster: animals
+  gatekeeper-of-heaven-asks-has-he-been-sent-for:
+    label: At each heaven Gabriel says 'open'; the keeper asks 'who is it? is anyone with you? has he been sent for?' and opens
+    cluster: ascension
+  lote-tree-veiled-in-colours-unknown:
+    label: At the Lote-Tree of the Boundary colours cover it 'I do not know what they are'
+    cluster: ascension
+  warner-before-severe-punishment:
+    label: '''I am a warner to you before a severe punishment'''
+    cluster: prophethood
+  abu-lahab-tabban-laka:
+    label: 'Abū Lahab answers the summons: ''perish you (tabban laka) the rest of the day, is it for this you gathered us?''; the sura ''perish the hands of Abū Lahab'' comes'
+    cluster: sira
+  prophets-curse-made-purification-for-the-cursed:
+    label: 'The prophet''s condition with his Lord: any Muslim he curses, reviles or flogs undeservedly, let it be purification, alms and nearness for him'
+    cluster: prophethood
+  orphan-girl-told-may-your-age-not-grow:
+    label: He tells Umm Sulaym's orphan girl 'you have grown, may your age not grow'; she weeps, and he explains his condition with his Lord
+    cluster: sira
+  pleased-and-angry-as-humans-are:
+    label: '''I am human: I am pleased as humans are pleased and angry as humans are angry'''
+    cluster: prophethood
+  the-master-is-god:
+    label: Called 'our master' (sayyid) by a delegation, he answers 'the master is God'; 'say your word, and let not Satan draw you on'
+    cluster: theology
+  not-raised-above-the-station-god-gave:
+    label: '''I am Muhammad, servant of God and his messenger; I do not like you to raise me above the station God gave me'''
+    cluster: prophethood
+  walking-among-us-a-man-of-paradise:
+    label: '''We used to see him walking among us, a man of the people of paradise'''
+    cluster: sira
+  hadith-given-free-once-travelled-for:
+    label: A transmitter hands on a report 'for nothing', though men used to ride to Medina for less
+    cluster: transmission
+  ranks-like-the-ranks-of-angels:
+    label: '''We were preferred over people by three: our ranks made like the ranks of the angels, all the earth a mosque, its soil a purifier when water is lacking'''
+    cluster: ritual
+  earlier-peoples-burned-spoils-and-prayed-only-in-churches:
+    label: Those before him held eating spoils too grave and burned them, and held praying anywhere too grave, praying only in their churches and synagogues (kanāʾis, biyaʿ)
+    cluster: law
+  each-prophet-asked-his-request-mine-delayed:
+    label: '''Ask, for every prophet has asked''; he delays his request to the Day of Resurrection for whoever bears witness there is no god but God'
+    cluster: eschatology
+  sent-to-the-red-and-the-black:
+    label: '''I was sent to the red and the black'' (all people)'
+    cluster: prophethood
+  paradise-keeper-commanded-to-open-for-him-first:
+    label: At paradise's gate the keeper asks 'who are you?' - 'Muhammad' - 'for you I was commanded; I open to none before you'
+    cluster: eschatology
+  you-are-digging-them-out:
+    label: 'Abū Hurayra: the prophet is gone and you are drawing them out (the treasures)'
+    cluster: sira
+  kawthar-river-not-dug-in-a-trench:
+    label: Al-Kawthar is a river that flows without having been dug (lam yushaqq shaqqan); its pebbles pearl, its soil musk
+    cluster: paradise
+  kawthar-banks-of-gold-bed-of-pearl-and-ruby:
+    label: Al-Kawthar's two banks are of gold, its course runs over pearl and ruby, its soil better than musk, its water sweeter than honey and whiter than snow
+    cluster: paradise
+  prophet-smiles-waking-from-a-doze-new-sura:
+    label: 'Dozing among them he raises his head smiling: ''a sura was sent down on me just now'' and recites al-Kawthar'
+    cluster: revelation
+  basin-as-wide-as-ayla-to-sana:
+    label: 'The basin''s extent is given as between two named places: Ayla and Ṣanʿāʾ, Ṣanʿāʾ and Medina, Medina and ʿAmmān, Ayla and ʿAdan, ʿAdan and ʿAmmān, Ayla and Mecca, Ṣanʿāʾ and Buṣrā, Jarbāʾ and Adhruḥ'
+    cluster: eschatology
+  basin-a-months-journey-square:
+    label: The basin is a month's journey, its corners equal (its breadth as its length)
+    cluster: eschatology
+  basin-whiter-than-milk-sweeter-than-honey-never-thirst:
+    label: The basin's water is whiter than milk (or snow), sweeter than honey, more fragrant than musk; who drinks once never thirsts again
+    cluster: eschatology
+  companions-turned-back-on-their-heels-at-basin:
+    label: 'Men of his companions are driven from the basin: ''they turned back on their heels (irtaddū ʿalā adbārihim al-qahqarā) after you''; ''away, away (suḥqan suḥqan) with whoever changed after me'''
+    cluster: eschatology
+  driven-from-basin-as-strange-camels-from-a-trough:
+    label: He will drive men from his basin as stray (gharība) camels are driven from a trough
+    cluster: eschatology
+  dream-herdsman-leads-group-to-the-fire:
+    label: In sleep he sees a group; a man comes between them and says 'come' - 'where?' - 'to the fire'; hardly any escape but like stray cattle (hamal al-naʿam)
+    cluster: eschatology
+  greets-graveyard-as-abode-of-believers:
+    label: 'At the cemetery: ''peace on you, abode of a believing people; we shall join you, if God wills'''
+    cluster: ritual
+  brothers-are-those-not-yet-come:
+    label: '''I wished we had seen our brothers'' - ''are we not your brothers?'' - ''you are my companions; our brothers are those who have not yet come'''
+    cluster: eschatology
+  own-horses-known-by-blazes-among-black-ones:
+    label: As a man knows his blazed white-footed horses among wholly black ones, he will know his community by ablution's blazes
+    cluster: eschatology
+  prays-over-uhud-dead-after-eight-years-as-farewell:
+    label: 'Eight years after Uḥud he prays over its dead like one bidding farewell to the living and the dead, then from the pulpit: ''I fear for you not idolatry but the world, that you vie for it'''
+    cluster: sira
+  prophet-forerunner-at-the-basin:
+    label: '''I am your forerunner (faraṭ) at the basin'': he goes ahead to the water as the one who prepares the trough'
+    cluster: eschatology
+  woman-hears-ayyuha-al-nas-i-am-of-the-people:
+    label: 'Umm Salama, her hair being combed, hears ''O people!''; the maid says he called the men; she: ''I am of the people'' and goes to hear of the basin'
+    cluster: sira
+  two-spouts-of-gold-and-silver-from-paradise-into-basin:
+    label: Two spouts (mīzābān, mathʿabān) from paradise pour into the basin, one of gold, one of silver
+    cluster: eschatology
+  strikes-with-staff-at-basin-for-people-of-yemen:
+    label: At the basin's edge ('uqr) he drives people back for the people of Yemen, striking with his staff until it flows over them
+    cluster: eschatology
+  vessels-more-than-stars-on-a-clear-dark-night:
+    label: The basin's vessels outnumber the stars and planets 'on the dark cloudless night', vessels of paradise
+    cluster: eschatology
+  i-will-boast-of-your-numbers-do-not-fight-after-me:
+    label: '''I am your forerunner at the basin and will vie with the nations by your number; do not fight one another after me'''
+    cluster: eschatology
+  people-come-with-vessels-and-skins-and-taste-nothing:
+    label: Men and women will come with vessels and waterskins and taste nothing of it
+    cluster: eschatology
+  letter-written-on-question-from-companion:
+    label: A Successor writes to a Companion by his slave asking for something he heard from the prophet; the Companion writes back the saying
+    cluster: transmission
+  seek-me-at-bridge-scale-or-basin:
+    label: '''Seek me first at the bridge (ṣirāṭ), then at the scale (mīzān), then at the basin: I will not miss these three places'''
+    cluster: eschatology
+  each-thousand-with-seventy-thousand-and-three-handfuls:
+    label: Seventy thousand without reckoning, with every thousand seventy thousand more, and three handfuls (ḥathayāt) of his Lord besides
+    cluster: eschatology
+  drinker-at-basin-never-darkens-in-face:
+    label: Who drinks from the basin never thirsts again nor does his face ever darken
+    cluster: eschatology
+  god-extends-basin-with-a-stream-of-unknown-ends:
+    label: God extends the basin for him with a kurāʿ (a tongue of water from paradise) whose two ends no created man knows
+    cluster: eschatology
+  poor-emigrants-crowd-the-basin:
+    label: The poor emigrants, who fight and die in God's path, crowd to the basin first
+    cluster: eschatology
+  hiss-on-burning-fingers-son-of-adam-says-hiss:
+    label: 'His fingers burned in a hot pot, he says ''ḥass'': the son of Adam says ''ḥass'' when cold strikes him and ''ḥass'' when heat strikes him'
+    cluster: sira
+  seventy-thousand-like-a-yellow-fly-among-flies:
+    label: 'A companion: the seventy thousand are among your community only like a reddish fly among flies'
+    cluster: eschatology
+  dearest-that-your-people-drink-from-it:
+    label: 'To the Anṣārī woman: ''the dearest of people to me are that your people drink their fill from it'''
+    cluster: eschatology
+  prophet-holds-your-waist-wraps-from-the-fire-moths:
+    label: '''I hold you by your waist-wraps (ḥujaz) from the fire, and you overpower me, plunging into it as moths and locusts plunge'''
+    cluster: eschatology
+  my-kinship-benefits-in-both-worlds-but-you-changed:
+    label: '''My kinship (raḥim) is joined in this world and the next''; at the basin men give their lineage: ''the lineage I know, but you innovated after me'''
+    cluster: eschatology
+  arrive-together-and-in-scattered-groups:
+    label: '''You will come down to me (at the basin) together and in scattered groups'''
+    cluster: eschatology
+  governor-doubts-basin-and-sends-for-companions:
+    label: ʿUbayd Allāh b. Ziyād doubts the basin and sends for Companions one after another to ask of it
+    cluster: sira
+  companionship-held-a-disgrace-dahdah:
+    label: 'The governor mocks the old Companion Abū Barza as ''this Muḥammadī of yours, the dumpy one (al-daḥdāḥ)''; he: ''I never thought to live among people who count the companionship of Muḥammad a shame'''
+    cluster: sira
+  who-denies-basin-god-not-give-him-drink:
+    label: '''Whoever denies it (the basin), may God not give him to drink from it'''
+    cluster: eschatology
+  dictated-sheet-from-companion-ridden-for:
+    label: A written sheet the Companion ʿAbd Allāh b. ʿAmr dictated is fetched at a gallop till the horse sweats; the governor believes and keeps the sheet
+    cluster: transmission
+  believer-like-gold-blown-on-and-bee:
+    label: The believer is like a piece of gold its owner blows on and it neither changes nor lessens; like the bee that eats good, lays good, and alights without breaking or spoiling
+    cluster: wisdom
+  old-women-pray-after-every-prayer-for-the-basin:
+    label: Old women of Medina never prayed a prayer without asking God to bring them to the basin of Muḥammad
+    cluster: ritual
+  you-are-not-a-hundred-thousandth-part:
+    label: 'At a halt: ''you are not one part in a hundred thousand of those who will come to me at the basin''; they were seven or eight hundred'
+    cluster: eschatology
+  signs-of-hour-obscenity-bad-neighbourliness-trust-reversed:
+    label: The Hour will not come until obscenity, bad neighbourliness and cutting of kin appear, the trustworthy is called traitor and the traitor trusted
+    cluster: eschatology
+  companion-called-senile-cites-lying-hadith:
+    label: Told 'you lie, you are an old man gone senile', the Companion answers with 'whoever lies about me deliberately, let him take his seat in hell'
+    cluster: transmission
+  who-abets-lying-rulers-not-at-basin:
+    label: Rulers will come after him; whoever enters on them, confirms their lies and helps their wrong 'is not of me nor I of him' and will not come to the basin
+    cluster: ethics
+  ka-ab-told-fasting-a-shield-flesh-of-unlawful-gain:
+    label: 'To Kaʿb b. ʿUjra: fasting is a shield, alms put out sin, prayer is an offering (or proof); flesh grown from unlawful gain (suḥt) does not enter paradise; people go out at morning, selling themselves, freeing or ruining them'
+    cluster: ethics
+  nine-men-five-and-four-arabs-and-non-arabs:
+    label: He comes out to nine men, five and four, one number Arabs and the other non-Arabs (ʿajam)
+    cluster: sira
+  between-house-and-pulpit-a-garden-pulpit-on-basin:
+    label: '''Between my house and my pulpit is a garden of the gardens of paradise, and my pulpit is on my basin'''
+    cluster: sacred-space
+  every-people-has-a-forerunner:
+    label: '''Every people has a forerunner (faraṭ), and I am your forerunner at the basin; who does not thirst enters paradise'''
+    cluster: eschatology
+  most-followed-of-prophets-one-believed-by-one-man:
+    label: '''I am the prophet with most followers; there is a prophet whom only one man of his community believed'''
+    cluster: prophethood
+  first-to-knock-at-paradise-gate:
+    label: '''I am the first to knock (yaqraʿ) at the gate of paradise'''
+    cluster: eschatology
+  imam-and-spokesman-of-the-prophets:
+    label: '''On the Day of Resurrection I will be the imam of the prophets, their spokesman (khaṭīb), and the holder of their intercession, without boast'''
+    cluster: eschatology
+  abu-hurayra-and-kaab-trade-prophet-and-books:
+    label: 'Abū Hurayra and Kaʿb meet: Abū Hurayra tells from the prophet, Kaʿb from the books; Kaʿb asks ''did you hear this from God''s messenger?'''
+    cluster: transmission
+  intercession-reaches-who-died-associating-nothing:
+    label: His intercession reaches whoever of his community died associating nothing with God
+    cluster: eschatology
+  quran-on-seven-letters-after-three-requests:
+    label: 'Sent word to recite on one letter (ḥarf), he asks ease for his community; then two, then seven, with a request for each return: two prayers for forgiveness and the third kept for the day all creation, even Abraham, seek him'
+    cluster: revelation
+  struck-on-chest-sweats-as-if-seeing-god-in-fear:
+    label: 'Doubt seizes Ubayy; the prophet strikes his chest: ''I poured with sweat, as if looking at God in fear'''
+    cluster: revelation
+  prophets-request-spent-on-world-or-against-people:
+    label: 'God gave every prophet a request: some took it as worldly goods, some used it against their people who disobeyed and were destroyed; he hid his as intercession'
+    cluster: prophethood
+  hated-entering-then-loved:
+    label: A delegation arrives hating no one more than whoever enters on him, and leaves loving no one more
+    cluster: sira
+  shoulder-of-meat-bites-then-tells-of-the-day:
+    label: Brought meat, the foreleg he liked is lifted to him; he bites from it and says 'I am the master of people on the Day of Resurrection'
+    cluster: sira
+  gathered-on-one-plain-caller-heard-sight-penetrates:
+    label: 'God gathers first and last on one plain (ṣaʿīd): the caller makes them hear, sight penetrates them, the sun draws near'
+    cluster: eschatology
+  praises-taught-him-under-the-throne:
+    label: Under the Throne he falls prostrate and God opens to him praises he never opened to anyone before
+    cluster: eschatology
+  raise-your-head-ask-and-be-given:
+    label: '''Muhammad, raise your head; ask and you will be given; intercede and your intercession will be accepted'''
+    cluster: eschatology
+  faith-weighed-barley-then-mustard-then-least:
+    label: He is sent to bring out whoever has in his heart faith the weight of a barley grain (or wheat), then a mustard seed, then 'less, less, less than a mustard seed'
+    cluster: eschatology
+  fourth-return-god-keeps-those-who-said-no-god-but-god:
+    label: 'At the fourth return he asks leave for whoever said ''no god but God''; God: ''that is not for you; by my might, pride, greatness and majesty, I will bring them out'''
+    cluster: eschatology
+  anas-held-back-the-end-lest-they-rely-on-it:
+    label: Al-Ḥasan says Anas told them it twenty years before, when sound of memory, and now left out the end, forgot it or feared they would rely on it
+    cluster: transmission
+  none-left-in-fire-but-those-the-quran-holds:
+    label: 'At the fourth return: ''none remains in the fire but whom the Quran has held and for whom eternity is due'''
+    cluster: eschatology
+  intercedes-within-a-set-limit:
+    label: Each time he intercedes 'a limit is set for me' and he brings that number into paradise
+    cluster: eschatology
+  jesus-sealed-vessel-parable:
+    label: 'Jesus sends them to Muhammad, ''seal of the prophets'': ''if goods were in a vessel sealed shut, could one get at them before the seal is broken?'''
+    cluster: eschatology
+  takes-ring-of-paradise-gate-and-asks-to-open:
+    label: 'He comes to the gate of paradise, takes its door-ring and asks it opened: ''who are you?'' - ''Muhammad'''
+    cluster: eschatology
+  adam-intercedes-for-ten-million:
+    label: After the prophet's intercessions Adam is given leave and intercedes for ten thousand thousand; then angels and prophets, and a believer for more than Rabīʿa and Muḍar
+    cluster: eschatology
+  adams-offspring-not-to-be-burned-today:
+    label: 'The plea throughout: ''the offspring of Adam, let them not be burned in the fire today'''
+    cluster: eschatology
+  prophets-each-say-and-i-am-with-you:
+    label: Each prophet sends them on with 'I will guide you ... and I am with you'
+    cluster: eschatology
+  faith-weighed-dinar-then-qirat-then-atom:
+    label: Bring out whoever has in his heart the weight of a dinar of faith, then a qīrāṭ, then an atom
+    cluster: eschatology
+  lord-of-mankind-banner-of-praise-adam-under-it:
+    label: '''I am the lord of people on the Day of Resurrection, without boast; in my hand the banner of praise (liwāʾ al-ḥamd), under it Adam and those after him'''
+    cluster: eschatology
+  jesus-brings-prophets-to-him-at-the-bridge:
+    label: 'As he waits for his community to cross the bridge, Jesus comes: ''these are the prophets come to you asking you to pray God to part the gathered nations'''
+    cluster: eschatology
+  people-bridled-in-sweat-believer-as-a-cold:
+    label: 'Creation is bridled in sweat: for the believer it is like a head-cold, the unbeliever death overwhelms'
+    cluster: eschatology
+  one-of-every-ninety-nine-brought-out:
+    label: He is granted to bring out of his community one person of every ninety-nine
+    cluster: eschatology
+  one-day-sincere-witness-enters:
+    label: 'God grants: bring in whoever bore witness there is no god but God sincerely for one day and died so'
+    cluster: eschatology
+  sweat-nearly-bridles-them:
+    label: Gathered on one plain, the sweat almost bridles them (yukād yuljimuhum) as they go to Adam
+    cluster: eschatology
+  silent-from-forenoon-to-night-after-a-laugh:
+    label: He laughs at forenoon and sits through noon, afternoon, sunset and night prayers without speaking; asked, he says all that will be of this world and the next was shown him
+    cluster: sira
+  prostrate-the-length-of-a-week:
+    label: He falls prostrate the measure of a week (qadr jumuʿa), and again a week, until Gabriel takes him by the upper arms
+    cluster: eschatology
+  truthful-then-prophets-then-martyrs-intercede:
+    label: '''Call the truthful (ṣiddīqūn)'' and they intercede; then the prophets, one with a band, one with five or six, one with none; then the martyrs'
+    cluster: eschatology
+  forgiven-for-leniency-in-buying-and-selling:
+    label: 'One found in the fire who did no good but was lenient (asāmiḥ) with people in buying and selling: ''be lenient with my servant as he was with my servants'''
+    cluster: eschatology
+  burned-mans-reward-world-and-ten-times:
+    label: 'The man who had himself burned from fear is told to look at the greatest king''s kingdom: he has its like and ten times more; ''do you mock me, and you the King?'' - this is what made the prophet laugh'
+    cluster: eschatology
+  weeps-my-community-gabriel-sent-to-ask:
+    label: 'Reciting Abraham''s ''whoever follows me is of me'' and Jesus''s ''if you punish them'', he raises his hands, weeps ''my community, my community''; God sends Gabriel to ask why, ''and your Lord knows best'': ''we will please you in your community and not grieve you'''
+    cluster: eschatology
+  beggar-comes-with-no-flesh-on-face:
+    label: The man who keeps begging comes on the Day of Resurrection without a scrap of flesh on his face
+    cluster: ethics
+  sweat-reaches-half-the-ear:
+    label: The sun draws near until sweat reaches half the ear; they seek help of Adam, then Moses, then Muhammad
+    cluster: eschatology
+  clothed-in-green-robe-on-a-hill:
+    label: 'He and his community stand on a hill; his Lord clothes him in a green robe, then gives him leave to say what God wills: that is the praised station'
+    cluster: eschatology
+  gabriel-at-right-of-the-merciful-confirmed:
+    label: 'Earth stretched for God''s majesty, each man only room for his feet; called first, he says ''Lord, this one (Gabriel, at the right of the Merciful, never seen there before) told me you sent him to me''; God: ''he spoke truly'''
+    cluster: eschatology
+  earth-stretched-each-has-room-for-his-feet:
+    label: On the Day of Resurrection the earth is stretched out for the Merciful's majesty; no human has more than the room for his two feet
+    cluster: eschatology
+  your-servants-worshipped-you-in-the-ends-of-earth:
+    label: 'His intercession: ''Lord, your servants worshipped you in the far ends of the earth'''
+    cluster: eschatology
+  happiest-with-intercession-who-said-it-sincerely:
+    label: 'Asked who is happiest with his intercession, he tells Abū Hurayra he thought none would ask before him, for his eagerness: whoever said ''no god but God'' sincerely from his heart'
+    cluster: eschatology
+  jahannamiyyun-named-by-paradise:
+    label: Some come out of the fire after it scorched them and enter paradise; its people call them 'the Jahannamīs'
+    cluster: eschatology
+  brought-out-like-thaarir:
+    label: Brought out of the fire by intercession 'like thaʿārīr' (small cucumbers, ḍaghābīs)
+    cluster: eschatology
+  kharijite-band-turned-back-by-jabir:
+    label: Yazīd al-Faqīr, taken by a Khārijī view, sets out with a band; Jābir, by a pillar, tells of the praised station and of those brought out; they return, all but one man
+    cluster: sira
+  brought-out-like-sesame-sticks-washed-white-as-paper:
+    label: They come out like sesame stalks, enter a river of paradise, wash, and come out like sheets of paper (qarāṭīs)
+    cluster: eschatology
+  intercession-for-grave-sinners:
+    label: '''My intercession is for the people of the grave sins (kabāʾir) of my community'''
+    cluster: eschatology
+  as-if-he-had-lived-in-the-desert:
+    label: At the image of seeds sprouting in flood-silt a hearer says 'it is as if God's messenger had been in the desert (bādiya)'
+    cluster: sira
+  choice-half-of-community-or-intercession:
+    label: 'A visitor from his Lord offers him the choice: half (or a third) of his community enter paradise, or the intercession; he chooses intercession, ''more embracing for them'''
+    cluster: eschatology
+  sound-like-a-mill-in-upper-valley:
+    label: At night, the prophet missing from camp, his companions hear at the top of the valley a sound like the whirr of a mill (hazīz al-raḥā) or the humming of bees
+    cluster: revelation
+  prophet-guarded-in-enemy-land:
+    label: 'Companions find him gone from camp at night in enemy land and rebuke the risk: ''a prophet in enemy land has a guard'''
+    cluster: sira
+  companions-press-to-be-of-his-intercession:
+    label: His companions adjure him 'by God and the companionship' to be of those he intercedes for; as more crowd him he declares it for all who associate nothing
+    cluster: eschatology
+  intercession-prayer-for-every-muslim-who-believes-in-me:
+    label: 'His intercession: ''O God, forgive every Muslim servant who meets you believing in me, associating nothing with you'''
+    cluster: eschatology
+  god-faces-him-inside-paradise:
+    label: He enters paradise's gate and 'the Compeller is facing me'; he prostrates and is told to raise his head
+    cluster: eschatology
+  fire-dwellers-taunt-worshippers-god-frees-them:
+    label: 'Those of his community left in the fire are taunted: ''what good did your worship of God avail you?''; the Compeller: ''by my might I will free them''; written between their eyes ''freedmen of God'''
+    cluster: eschatology
+  freedmen-of-the-compeller-not-jahannamis:
+    label: 'Paradise''s people call them ''the Jahannamīs''; the Compeller: ''no, these are the freedmen (''utaqāʾ) of the Compeller'''
+    cluster: eschatology
+  shown-his-community-shedding-blood-asks-intercession:
+    label: Shown what his community will meet after him, shedding one another's blood as decreed for nations before, he asks to be given intercession for them
+    cluster: eschatology
+  companions-held-back-forgiveness-prayers-for-grave-sinners:
+    label: 'Ibn ʿUmar: we held back from asking forgiveness for people of grave sins until we heard ''God does not forgive association ... I have kept my intercession for the people of grave sins'''
+    cluster: eschatology
+  prayer-at-the-call-earns-intercession:
+    label: Who says at the call to prayer 'O God, Lord of this complete call and the established prayer, give Muhammad the means (wasīla) and excellence and raise him to the praised station you promised him' has his intercession
+    cluster: ritual
+  who-can-should-die-in-medina:
+    label: '''Whoever can die in Medina, let him die there, for I will intercede for (and witness for) whoever dies there'''
+    cluster: medina
+  intercessor-or-witness-for-who-endures-medinas-hardship:
+    label: None endures Medina's hardship (laʾwāʾ) and distress but he is his intercessor or witness on the Day of Resurrection
+    cluster: medina
+  abu-talib-in-shallow-fire-to-ankles-brain-boils:
+    label: Abū Ṭālib is set in a shallow (ḍaḥḍāḥ) of fire reaching his ankles, from which his brain boils; but for the prophet he would be in the lowest depth
+    cluster: eschatology
+  uncle-who-guarded-him:
+    label: 'Al-ʿAbbās: what did you avail your uncle, who used to guard you and be angry for you?'
+    cluster: sira
+  unjust-ruler-and-zealot-beyond-intercession:
+    label: 'Two kinds of his community his intercession will not reach: an unjust, oppressive ruler (imām ẓalūm ghashūm) and every extremist (ghālin) who passes out of the religion'
+    cluster: eschatology
+  cursers-neither-witnesses-nor-intercessors:
+    label: Those who curse much will be neither witnesses nor intercessors on the Day of Resurrection
+    cluster: ethics
+  servant-asks-his-company-in-paradise-help-by-prostration:
+    label: 'His servant, asked what he wants, asks his company in paradise (or his intercession to be freed from the fire): ''help me against yourself by much prostration'''
+    cluster: ritual
+  world-passes-ask-for-the-hereafter:
+    label: 'Given time to think, the servant reasons the world will end and asks for the hereafter: to be freed from the fire'
+    cluster: ethics
+  hundred-praying-over-dead-are-granted-intercession:
+    label: No dead man is prayed over by a company of Muslims reaching a hundred, all interceding for him, but their intercession is accepted
+    cluster: ritual
+  forty-at-a-funeral-intercession-granted:
+    label: No Muslim dies and forty men who associate nothing stand at his bier but God accepts their intercession; Ibn ʿAbbās waits for forty at his son's funeral
+    cluster: ritual
+  believers-plead-for-brothers-who-fasted-prayed-with-them:
+    label: 'Believers plead with God for their brothers in the fire: ''they fasted, prayed and made pilgrimage with us''; told to bring out those they know, whose faces the fire may not touch'
+    cluster: eschatology
+  god-takes-a-handful-of-who-never-did-good:
+    label: '''Angels, prophets and believers have interceded; there remains only the Most Merciful'': he takes a handful from the fire of people who never did good, charred, and casts them in the river of life'
+    cluster: eschatology
+  seed-in-flood-silt-yellow-green-in-sun-white-in-shade:
+    label: 'They sprout like a seed in flood-silt: what is toward the sun yellowish and greenish, what is in shade white'
+    cluster: eschatology
+  freed-ones-with-seals-on-necks:
+    label: 'They come out like pearls with seals (khawātim) on their necks, which paradise''s people know: freedmen of God admitted without deed'
+    cluster: eschatology
+  gods-pleasure-greater-than-paradise:
+    label: '''I have for you better than this: my pleasure (riḍwān), I will never be angry with you after it'''
+    cluster: eschatology
+  man-intercedes-for-a-crowd-a-tribe-or-one-man:
+    label: A man of his community intercedes for a crowd (fiʾām), another for a tribe, a band, three, two, one
+    cluster: eschatology
+  more-than-banu-tamim-by-one-mans-intercession:
+    label: More than Banū Tamīm enter paradise by the intercession of one man of his community, 'other than me'
+    cluster: eschatology
+  jahannamiyyun-stinking-brought-out:
+    label: God brings out a stinking (muntinīn) people the fire has burned by the intercessors' intercession; they are called the Jahannamīs
+    cluster: eschatology
+  tuba-tree-like-syrian-walnut:
+    label: In paradise the tree Ṭūbā, like the walnut tree of Syria on a single trunk spreading at the top; a young camel would die of age before circling its root
+    cluster: paradise
+  grape-cluster-a-months-crow-flight:
+    label: A grape cluster of paradise is a month's flight for the piebald crow without pause; one grape as a great he-goat's skin, enough for a household and its clan
+    cluster: paradise
+  angels-prophets-martyrs-intercede-thrice:
+    label: Angels, prophets and martyrs are given leave and intercede and bring out, three (or four) times, down to whoever has an atom's weight of faith
+    cluster: eschatology
+  abraham-says-you-burned-my-sons:
+    label: On the Day of Resurrection Abraham calls 'O my Lord!' - 'Here am I (yā labbaykāh)' - 'Lord, you have burned my sons'; whoever has an atom or barley-grain of faith is brought out
+    cluster: eschatology
+  martyr-six-traits-crown-seventy-two-wives-seventy-kin:
+    label: 'The martyr has six traits: forgiven at the first spurt, sees his seat in paradise, saved from the grave''s punishment, safe from the great terror, a crown of dignity whose ruby is better than the world, married to seventy-two of the ḥūr, and intercedes for seventy of his kin'
+    cluster: eschatology
+  quran-comes-as-intercessor-for-its-people:
+    label: '''Read the Quran, for it comes on the Day of Resurrection as an intercessor for its companions''; al-Baqara cannot be borne by the idle (baṭala)'
+    cluster: eschatology
+  rain-like-dew-and-bodies-grow:
+    label: After the first blast God sends a rain like dew (or shade) and from it people's bodies grow; then the second blast
+    cluster: eschatology
+  worst-left-light-as-birds-minds-of-beasts-satan-bids-idols:
+    label: The worst people remain, light as birds with the minds of beasts of prey; Satan appears and bids them worship idols, while their provision flows and life is good
+    cluster: eschatology
+  trumpeter-has-put-horn-to-mouth-brow-bent:
+    label: '''How can I be at ease when the trumpeter has taken the horn in his mouth and bent his brow, waiting for the order to blow?'''
+    cluster: eschatology
+  no-one-enters-fire-while-owed-a-right-even-a-slap:
+    label: 'God calls in a voice heard far as near, ''I am the King, I am the Judge (al-dayyān)'': none of the fire enters it while one of paradise owes him a right, nor the reverse, till I settle it, even a slap - paid in good and bad deeds'
+    cluster: eschatology
+  gathered-buhm-with-nothing:
+    label: 'People are gathered naked, uncircumcised and buhm: ''having nothing with them'''
+    cluster: eschatology
+  walks-on-his-face-who-walked-on-feet:
+    label: 'Asked how the unbeliever is gathered on his face: ''is not he who made him walk on two feet in this world able to make him walk on his face?'''
+    cluster: eschatology
+  adam-first-called-sees-his-offspring:
+    label: 'The first called on the Day of Resurrection is Adam; his offspring see him: ''this is your father Adam''; he answers ''labbayka wa-saʿdayka'' and is told to bring out the contingent of hell, ninety-nine of every hundred'
+    cluster: eschatology
+  ninety-nine-of-every-hundred-to-hell:
+    label: 'The contingent of hell from Adam''s offspring: ninety-nine of every hundred'
+    cluster: eschatology
+  aisha-questions-what-she-does-not-know:
+    label: ʿĀʾisha never heard a thing she did not understand without going back over it until she understood
+    cluster: transmission
+  each-follows-what-he-worshipped-sun-moon-tawaghit:
+    label: '''Whoever worshipped a thing, let him follow it'': sun-worshippers follow the sun, moon-worshippers the moon, those of the ṭawāghīt the ṭawāghīt; this community remains with its hypocrites'
+    cluster: eschatology
+  god-comes-in-a-form-not-known-then-known:
+    label: 'God comes to them in a form other than the one they know: ''I am your Lord'' - ''we seek refuge in God from you''; then in the form they know, and they follow him'
+    cluster: eschatology
+  fire-eats-all-but-trace-of-prostration:
+    label: The fire eats all of the son of Adam but the trace of prostration; God forbade the fire to eat it; by it the angels know whom to bring out
+    cluster: eschatology
+  last-man-promises-to-ask-no-more:
+    label: 'The last to enter paradise asks his face turned from the fire, swearing to ask nothing else; then to be brought to the gate, then in: ''woe to you, son of Adam, how faithless you are!'''
+    cluster: eschatology
+  god-laughs-at-the-last-man:
+    label: He keeps praying until God laughs at him; when God laughs, he says 'enter paradise'
+    cluster: eschatology
+  last-man-given-wish-and-its-like-or-tenfold:
+    label: 'Told to wish till his wishes are spent, the last man is given: ''that is yours and its like with it'''
+    cluster: eschatology
+units:
+- id: hadith-2-mubashshirat-remain
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Of prophecy only the glad tidings, the good dream, remain after him; he asks his companions their dreams after the dawn prayer
+  read:
+  - Jāmiʿ 2:558.1-559.1
+  tags:
+  - motif: only-good-dreams-left-of-prophecy
+    refs:
+    - Jāmiʿ 2:558.1
+    - Jāmiʿ 2:558.2
+    - Jāmiʿ 2:558.3
+    - Jāmiʿ 2:559.1
+    note: ليس يبقى بعدي من النّبوة، إلّا الرّؤيا الصّالحة; ذهبتِ النّبوةُ، وبقيت المبشِّراتُ; لا يبقى بعدي من النبوة شيء إلّا المبشرات
+  - motif: asks-companions-their-dreams-after-dawn-prayer
+    refs:
+    - Jāmiʿ 2:558.1
+    note: 'كان إذا انصرف من صلاة الغداة يقول: "هل رأى أحدٌ منكم اللّيلة رؤيا"'
+  - motif: good-dream-seen-by-a-man-or-shown-for-him
+    refs:
+    - Jāmiʿ 2:558.3
+    - Jāmiʿ 2:559.1
+    note: الرّؤيا الصّالحة يراها الرجلُ، أو ترى له
+- id: hadith-2-camel-of-bani-najjar
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The savage camel in a garden of Banū l-Najjār kneels before him: all between heaven and earth know he is God''s messenger but rebel jinn and men'
+  read:
+  - Jāmiʿ 2:559.2
+  tags:
+  - motif: savage-camel-kneels-before-the-prophet
+    refs:
+    - Jāmiʿ 2:559.2
+    note: إذا فيه جملٌ لا يدخل الحائط أحدٌ إلّا شدّ عليه
+  - motif: savage-camel-lays-its-lip-on-the-ground-and-kneels
+    refs:
+    - Jāmiʿ 2:559.2
+    note: فجاء واضعًا مشْفَرَه إلى الأرض، حتى برك بين يديه ... "هاتُوا خطامه" فخطمه ودفعه إلى صاحبه
+  - motif: all-between-heaven-and-earth-know-him-but-rebel-jinn-and-men
+    refs:
+    - Jāmiʿ 2:559.2
+    note: إنّه ليس شيءٌ بين السّماء والأرض، إلّا يعلمُ أنّي رسولُ اللَّه، إلّا عاصيَ الجنّ والإنس
+- id: hadith-2-stone-greeted-him
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A stone in Mecca greeted him before he was sent; he knows it still
+  read:
+  - Jāmiʿ 2:560.1
+  tags:
+  - motif: stone-in-mecca-greeted-me
+    refs:
+    - Jāmiʿ 2:560.1
+    note: إنّي لأعرفُ حجرًا بمكة كان يُسلّم عليَّ قبل أن أُبعث، إنّي لأعرفه الآن
+- id: hadith-2-night-journey-ascent
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The roof split, the breast washed with Zamzam, the ascent: Adam between the souls of his offspring, the prophets'' welcomes, the scratching of pens, fifty prayers reduced to five, the lote-tree, paradise of pearl domes and musk soil'
+  read:
+  - Jāmiʿ 2:560.2
+  quran:
+  - '17:1'
+  tags:
+  - motif: prophets-breast-split-washed-with-zamzam
+    refs:
+    - Jāmiʿ 2:560.2
+    note: فُرِجَ سقفُ بيتي وأنا بمكة فنزل جبريلُ ﷺ، فَفَرَجَ صَدْري. ثم غَسَلَهُ من ماء زمزم
+  - motif: gold-basin-of-wisdom-and-faith-emptied-into-breast
+    refs:
+    - Jāmiʿ 2:560.2
+    note: جاء بِطَسْتٍ من ذهب ممتلئ حكمة وإيمانًا فأفرغَها في صدري ثم أطبقه
+  - motif: gatekeeper-of-heaven-asks-has-he-been-sent-for
+    refs:
+    - Jāmiʿ 2:560.2
+    note: 'قال جبريلُ ﵇ لخازن السّماء الدّنيا: افتح. قال: مَنْ هذا؟ قال: هذا جبريل. قال: هل معك أحد؟ قال: نعم معي محمد ﷺ، قال: فأُرسل إليه؟'
+  - motif: adam-laughs-right-weeps-left-at-offspring
+    refs:
+    - Jāmiʿ 2:560.2
+    note: فإذا نظر قبل يمينه ضحك، وإذا نظر قبل شماله بكي ... نَسَمُ بنيه
+  - motif: welcome-as-righteous-brother-or-son
+    refs:
+    - Jāmiʿ 2:560.2
+    note: مرحبًا بالنّبي الصّالح والابن الصّالح; مرحبًا بالنّبيّ الصّالح، والأخ الصّالح
+  - motif: scratching-of-the-pens-heard
+    refs:
+    - Jāmiʿ 2:560.2
+    note: ثم عرج بي حتى ظهرْتُ لمستوًى أسمعُ فيه صريفَ الأقلام
+  - motif: fifty-prayers-reduced-at-moses-urging
+    refs:
+    - Jāmiʿ 2:560.2
+    note: ففرض اللَّه على أمّتي خمسين صلاة ... هي خمس وهي خمسون لا يبدل القول لدي ... قد استحييت من ربي
+  - motif: lote-tree-veiled-in-colours-unknown
+    refs:
+    - Jāmiʿ 2:560.2
+    note: حتى نأتي سدرةَ المنتهى فغشيها ألوانٌ لا أدري ما هي
+  - motif: paradise-domes-of-pearl-soil-of-musk
+    refs:
+    - Jāmiʿ 2:560.2
+    note: فإذا فيها جَنابذُ اللؤلؤ وإذا ترابُها المسك
+  hints:
+  - Fifty prayers bargained down to five as the prophet goes back and forth between God and Moses (Jāmiʿ 2:560.2), against Gen 18:23-32, Abraham bargaining God down from fifty righteous to ten
+- id: hadith-2-warner-on-safa
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'On ''warn your nearest kin'' he calls the clans of Quraysh from Safa: horsemen in the valley; Abū Lahab''s ''perish'' and the sura on him'
+  read:
+  - Jāmiʿ 2:562.1
+  quran:
+  - 26:214
+  - 111:1-2
+  tags:
+  - motif: ya-sabahah-from-safa
+    refs:
+    - Jāmiʿ 2:562.1
+    note: 'صعد النّبيُّ ﷺ على الصّفا، فجعل ينادي: "يا بني فِهْر، يا بني عدي" ... أنّ خيلًا بالوادي تريد أن تغير عليكم أكنتم مُصدّقيَّ؟'
+  - motif: warner-before-severe-punishment
+    refs:
+    - Jāmiʿ 2:562.1
+    note: فإنّي نذيرٌ لكم بين يدي عذاب شديد
+  - motif: abu-lahab-tabban-laka
+    refs:
+    - Jāmiʿ 2:562.1
+    note: 'فقال أبو لهب: تبًّا لك سائر اليوم ألهذا جمعتنا؟'
+- id: hadith-2-only-a-human
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''I am only a human'': he forgets, may misjudge a litigant, and his curses become purification for the cursed'
+  read:
+  - Jāmiʿ 2:563.1-564.1
+  quran:
+  - 18:110
+  - '21:34'
+  - '25:7'
+  tags:
+  - motif: prophet-forgets-as-you-forget
+    refs:
+    - Jāmiʿ 2:563.1
+    note: إنّما أنا بشر مثلكم، أنسى كما تنسون، فإذا نسيتُ فذكّروني
+  - motif: judge-human-piece-of-fire
+    refs:
+    - Jāmiʿ 2:563.2
+    note: فمن قضيتُ له بحقّ مسلم فإنّما هي قطعة من النّار، فليأخذها أو فليتركها
+  - motif: prophets-curse-made-purification-for-the-cursed
+    refs:
+    - Jāmiʿ 2:563.3
+    - Jāmiʿ 2:563.4
+    - Jāmiʿ 2:563.5
+    - Jāmiʿ 2:564.1
+    note: فأيّما رجل من المسلمين سببتُه، أو لعنتُه، أو جلدته فاجعلها له زكاة ورحمة; أو ما علمت ما شارطتُ عليه ربّي؟; اشترطت على ربيّ ﷿
+  - motif: orphan-girl-told-may-your-age-not-grow
+    refs:
+    - Jāmiʿ 2:564.1
+    note: آنتِ هِيَهْ؟ لقدْ كبِرْتِ، لا كبرَ سِنُّكِ ... فخرجتْ أمُّ سُليم مُستعجلةً تلوثُ خِمارها
+  - motif: pleased-and-angry-as-humans-are
+    refs:
+    - Jāmiʿ 2:564.1
+    note: إنّما أنا بشر. أرْضي كما يرْضى البشرُ، وأَغْضبُ كما يغضبُ البشر
+- id: hadith-2-not-above-his-station
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Feet swollen in prayer though forgiven; 'do not extol me as the Christians extolled the son of Mary'; 'the master is God'
+  read:
+  - Jāmiʿ 2:564.2-565.3
+  quran:
+  - '48:2'
+  tags:
+  - motif: prays-until-feet-swell
+    refs:
+    - Jāmiʿ 2:564.2
+    note: صَلَّى حتى انتفختْ قدماه
+  - motif: shall-i-not-be-a-grateful-servant
+    refs:
+    - Jāmiʿ 2:564.2
+    note: 'أتُكلّف هذا، وقد غفر اللَّه لك ما تقدّم من ذنبك وما تأخّر؟ فقال: "أفلا أكونُ عبدًا شكورًا"'
+  - motif: do-not-extol-me-as-son-of-mary
+    refs:
+    - Jāmiʿ 2:564.3
+    - Jāmiʿ 2:565.1
+    note: 'لا تطْروني كما أَطْرتِ النّصارى ابنَ مريم، فإنّما أنا عبده، فقولوا: عبد اللَّه ورسوله'
+  - motif: not-raised-above-the-station-god-gave
+    refs:
+    - Jāmiʿ 2:565.2
+    note: أنا محمد، عبد اللَّه ورسوله، ما أحبُّ أن ترفعوني فوق منزلتي التي أنزلني اللَّه
+  - motif: the-master-is-god
+    refs:
+    - Jāmiʿ 2:565.3
+    note: 'فقلنا: أنت سيدنا، فقال: "السيد اللَّه ﵎" ... "قولوا بقولكم أو بعض قولكم، ولا يستجرنّكم الشّيطان"'
+  hints:
+  - '''Do not extol me as the Christians extolled the son of Mary; say servant of God'' (Jāmiʿ 2:564.3) against Mark 10:18, ''why do you call me good? none is good but God alone'''
+- id: hadith-2-thabit-raised-voice
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Thābit b. Qays, who raised his voice above the prophet's, sits at home thinking himself of the fire; told he is of paradise
+  read:
+  - Jāmiʿ 2:565.4-566.1
+  quran:
+  - '49:2'
+  tags:
+  - motif: loud-voiced-man-thinks-himself-damned
+    refs:
+    - Jāmiʿ 2:565.4
+    - Jāmiʿ 2:566.1
+    note: 'كان يرفع صوته فوق صوت النّبيّ ﷺ فقد حبط عملُه، وهو من أهل النّار; "اذهب إليه فقل له: إنّك لست من أهل النّار، ولكن من أهل الجنّة"'
+  - motif: walking-among-us-a-man-of-paradise
+    refs:
+    - Jāmiʿ 2:566.1
+    note: فكنا نراه يمشي بين أظهرنا رجل من أهل الجنّة
+- id: hadith-2-double-reward
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The scriptuary believer''s double reward: the letter to Heraclius, and the three who receive their reward twice'
+  read:
+  - Jāmiʿ 2:567.1-567.2
+  quran:
+  - 28:52-54
+  - 3:64
+  tags:
+  - motif: letter-to-heraclius-quotes-common-word
+    refs:
+    - Jāmiʿ 2:567.1
+    note: من محمد رسول اللَّه إلى هرقل عظيم الرّوم. سلامٌ على من اتّبع الهدى
+  - motif: submit-and-be-safe-reward-twice
+    refs:
+    - Jāmiʿ 2:567.1
+    note: أسْلم تَسْلم، وأسْلم يؤتكَ اللَّه أجرك مرّتين، وإنْ تولّيتَ فإنّ عليك إثم الأريسيين
+  - motif: three-get-double-reward
+    refs:
+    - Jāmiʿ 2:567.2
+    note: 'ثلاثة يؤتون أجرهم مرّتين: الرّجل تكون له الأمة فيعلّمها ... ثم يعتقها فيتزوّجها ... ومؤمن أهل الكتاب ... والعبد يؤدي حقّ اللَّه وينصح لسيّده'
+  - motif: hadith-given-free-once-travelled-for
+    refs:
+    - Jāmiʿ 2:567.2
+    note: 'ثم قال الشّعبيّ: وأعطيتُكها بغير شيء، وقد كان الرّجلُ يرحل في أهون منها إلى المدينة'
+- id: hadith-2-five-things-given
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Five (or six, or three) things given him that no prophet before had
+  read:
+  - Jāmiʿ 2:568.1-569.2
+  tags:
+  - motif: given-five-things-none-before
+    refs:
+    - Jāmiʿ 2:568.1
+    - Jāmiʿ 2:568.3
+    - Jāmiʿ 2:569.2
+    note: 'أُعطيتُ خمسًا لم يُعطهنّ أحدٌ من الأنبياء قبلي: نُصرتُ بالرُّعب مسيرة شهر، وجعلتْ لي الأرض مسجدًا وطهورًا'
+  - motif: preferred-over-prophets-by-six
+    refs:
+    - Jāmiʿ 2:568.2
+    note: 'فُضِّلْتُ على الأنبياء بست: أُعطيت جوامع الكلم ... وخُتم بي النبيّون'
+  - motif: sent-to-the-red-and-the-black
+    refs:
+    - Jāmiʿ 2:568.3
+    note: وبُعثتُ إلى الأحمر والأسود
+  - motif: ranks-like-the-ranks-of-angels
+    refs:
+    - Jāmiʿ 2:569.1
+    note: فُضّلنا على النّاس بثلاثٍ، جعلتْ صفوفنا كصفوف الملائكة
+  - motif: earlier-peoples-burned-spoils-and-prayed-only-in-churches
+    refs:
+    - Jāmiʿ 2:569.2
+    note: وكان مَنْ قبلي يُعَظِّمون أَكْلَها كانوا يحرقُونَها ... إنّما كانوا يُصلُّون في كَنائِسهم وبِيَعِهم
+  - motif: each-prophet-asked-his-request-mine-delayed
+    refs:
+    - Jāmiʿ 2:569.2
+    note: 'قيل لي: سَلْ فإنَّ كلَّ نبيٍّ قد سأل، فأخَّرْتُ مسألتي إلى يوم القيامة'
+  hints:
+  - 'Earlier prophets'' spoils burned (Jāmiʿ 2:569.2), against Deut 13:16 and Josh 6:24, the herem: the spoil burned whole to the LORD'
+- id: hadith-2-first-at-paradise-gate
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The keeper of paradise opens to none before him
+  read:
+  - Jāmiʿ 2:570.1
+  tags:
+  - motif: paradise-keeper-commanded-to-open-for-him-first
+    refs:
+    - Jāmiʿ 2:570.1
+    note: 'فيقول الخازن: من أنت؟ فأقول: محمد، فيقول: بكَ أُمرتُ، لا أفتح لأحد قبلك'
+- id: hadith-2-keys-of-the-treasures
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sent with comprehensive words and terror; in sleep the keys of earth's treasures put in his hand
+  read:
+  - Jāmiʿ 2:570.2
+  tags:
+  - motif: keys-of-earths-treasures-placed-in-hand
+    refs:
+    - Jāmiʿ 2:570.2
+    note: فبينا أنا نائم أُتيتُ بمفاتيح خزائن الأرض فوضعتْ في يدي
+  - motif: you-are-digging-them-out
+    refs:
+    - Jāmiʿ 2:570.2
+    note: 'قال أبو هريرة: وقد ذهب رسول اللَّه ﷺ، وأنتم تنتثلونها'
+- id: hadith-2-al-kawthar
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Al-Kawthar: a river with banks of hollow pearl domes, mud of musk, vessels as the stars, birds with camel necks; a sura sent down in a doze'
+  read:
+  - Jāmiʿ 2:570.3-573.2
+  quran:
+  - '108:1'
+  - 108:1-3
+  tags:
+  - motif: prophet-given-al-kawthar
+    refs:
+    - Jāmiʿ 2:570.3
+    - Jāmiʿ 2:571.4
+    - Jāmiʿ 2:572.1
+    - Jāmiʿ 2:573.2
+    note: نهر أعطيه نبيّكم ﷺ; "فإنّه نهر وعدنيه ربّي ﷿، عليه خير كثير"
+  - motif: kawthar-banks-domes-of-hollow-pearl
+    refs:
+    - Jāmiʿ 2:570.3
+    - Jāmiʿ 2:571.1
+    - Jāmiʿ 2:571.2
+    - Jāmiʿ 2:572.1
+    - Jāmiʿ 2:572.2
+    note: شاطئاه عليه دُرّ مجوّف; حافتاه قِباب اللؤلؤ مجوفًا; حافتاه خيامُ اللؤلؤ
+  - motif: basin-vessels-numbered-as-the-stars
+    refs:
+    - Jāmiʿ 2:570.3
+    - Jāmiʿ 2:571.4
+    note: آنيته كعدد النّجوم; آنيته عدد النّجوم
+  - motif: kawthar-river-with-pearl-palace-and-musk
+    refs:
+    - Jāmiʿ 2:571.2
+    - Jāmiʿ 2:571.3
+    - Jāmiʿ 2:572.2
+    note: فإذا طينُه أو طيبُه مسك أذفر; فإذا هو بنهر آخر عليه قصر من لؤلؤ وزبرجد فضرب يده، فإذا هو مسك أذفر
+  - motif: nile-and-euphrates-flow-in-lowest-heaven
+    refs:
+    - Jāmiʿ 2:571.3
+    note: فإذا هو في السّماء الدّنيا بنهرين بَطَّرِدان ... هذا النِّيل والفرات عنصرهما
+  - motif: prophet-smiles-waking-from-a-doze-new-sura
+    refs:
+    - Jāmiʿ 2:571.4
+    note: إذ أغْفى إغفاءةً، ثم رفع رأسه مبتسمًا ... "أنزلت عليّ آنفًا سورة"
+  - motif: man-pulled-away-from-basin-you-know-not-what-he-innovated
+    refs:
+    - Jāmiʿ 2:571.4
+    note: 'فيختلج العبد منهم. فأقول: ربّ إنّه من أمّتي. فيقول: ما تدري ما أحدثت بعدك'
+  - motif: kawthar-river-not-dug-in-a-trench
+    refs:
+    - Jāmiʿ 2:572.1
+    note: فإذا هو نهر يجري، ولم يشق شقا، فإذا حافتاه قباب اللؤلؤ ... وإذا حصاه اللؤلؤ
+  - motif: kawthar-birds-necks-like-camels
+    refs:
+    - Jāmiʿ 2:572.3
+    note: فيها طيرٌ أعناقُها كأعناق الجزر
+  - motif: kawthar-banks-of-gold-bed-of-pearl-and-ruby
+    refs:
+    - Jāmiʿ 2:573.1
+    - Jāmiʿ 2:573.2
+    note: حافتاه من ذهب، ومجراه على الدّر والياقوت، تربته أطيب من المسك; يجري على جنادل الدُّرّ والياقوت
+  hints:
+  - The Nile and the Euphrates flowing in the lowest heaven at their source (Jāmiʿ 2:571.3), against Gen 2:10-14, the four rivers going out of Eden, Perath (Euphrates) and Gihon among them
+- id: hadith-2-basin-distance-and-the-driven-away
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The basin as from Ayla to Ṣanʿāʾ with vessels like the stars; companions recognised and pulled away; the dream of the herdsman to the fire
+  read:
+  - Jāmiʿ 2:575.1-576.2
+  tags:
+  - motif: companions-turned-back-on-their-heels-at-basin
+    refs:
+    - Jāmiʿ 2:575.1
+    - Jāmiʿ 2:576.1
+    note: 'حتى إذا عرفتهم اختلجوا دُوني فأقول: أصحابي؟ فيقول: لا تدري ما أحدثوا بعدك; إنّهم ارتدّوا على أدبارهم القَهْقرى'
+  - motif: basin-as-wide-as-ayla-to-sana
+    refs:
+    - Jāmiʿ 2:575.2
+    - Jāmiʿ 2:575.3
+    note: إنّ قدر حوضي كما بين أيلة وصنعاءَ من اليمن; ما بين ناحيتي حوضي كما بين صنعاء والمدينة
+  - motif: basin-vessels-numbered-as-the-stars
+    refs:
+    - Jāmiʿ 2:575.2
+    - Jāmiʿ 2:575.4
+    note: وإنّ فيه من الأباريق كعدد نجوم السّماء; تُرى فيه أباريق الذّهب والفضّة كعدد نجوم السّماء
+  - motif: driven-from-basin-as-strange-camels-from-a-trough
+    refs:
+    - Jāmiʿ 2:575.5
+    note: لأذودنَّ رجالًا عن حوضي كما تُذاد الغريبة من الإبل عن الحوض
+  - motif: dream-herdsman-leads-group-to-the-fire
+    refs:
+    - Jāmiʿ 2:576.2
+    note: 'بينا أنا نائم إذا زُمرة ... فقال: هلّمَ، فقلتُ: أينْ؟ قال: إلى النّار واللَّهِ ... فلا أُراهُ يخلُصُ منهم إلّا مثل همَل النَّعَم'
+- id: hadith-2-brothers-and-the-blazes
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: At the graveyard he longs for his brothers yet to come; known at the basin by blazes of ablution, as one knows his blazed horses
+  read:
+  - Jāmiʿ 2:577.1-577.2
+  tags:
+  - motif: greets-graveyard-as-abode-of-believers
+    refs:
+    - Jāmiʿ 2:577.1
+    note: السّلامُ عليكم دار قوم مؤمنين، وإنّا إن شاء اللَّه بكم لاحقون
+  - motif: brothers-are-those-not-yet-come
+    refs:
+    - Jāmiʿ 2:577.1
+    note: وددتُ أنّا قد رأينا إخواننا ... "أنتم أصحابي، وإخواننا الذين لم يأتوا بعد"
+  - motif: own-horses-known-by-blazes-among-black-ones
+    refs:
+    - Jāmiʿ 2:577.1
+    note: أرأيت لو أنّ رجلا له خيل غرّ محجّلة بين ظهري خيل دُهْم بُهْم ألا يعرفُ خيلَه
+  - motif: community-known-by-white-blazes-of-ablution
+    refs:
+    - Jāmiʿ 2:577.1
+    - Jāmiʿ 2:577.2
+    note: فإنّهم يأتون غرًّا محجّلين من الوُضوء; لكم سيما ليست لأحد من الأمم، تردون عليَّ غرًّا محجلين من أثر الوضوء
+  - motif: driven-from-basin-as-strange-camels-from-a-trough
+    refs:
+    - Jāmiʿ 2:577.1
+    - Jāmiʿ 2:577.2
+    note: ألا لَيُذادنَّ رجالٌ عن حوضي كما يُذاد البعير الضّال; وإني لأصد النّاس عنه كما يصدّ الرّجل إبل النّاس عن حوضه
+  - motif: companions-turned-back-on-their-heels-at-basin
+    refs:
+    - Jāmiʿ 2:577.1
+    - Jāmiʿ 2:577.2
+    note: 'إنّهم قد بدّلوا بعدك فأقول سُحْقًا سُحْقًا; فيجيبني ملكٌ فيقول: وهل تدري ما أحدثوا بعدك؟'
+  - motif: basin-as-wide-as-ayla-to-sana
+    refs:
+    - Jāmiʿ 2:577.2
+    note: إنّ حوضي أبعد من أيلة من عدن
+- id: hadith-2-basin-measures-and-forerunner
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The basin from Jarbāʾ to Adhruḥ, a month's journey, vessels like stars; 'I am your forerunner at the basin'; Uḥud's dead prayed over after eight years
+  read:
+  - Jāmiʿ 2:577.3-580.1
+  tags:
+  - motif: basin-as-wide-as-ayla-to-sana
+    refs:
+    - Jāmiʿ 2:577.3
+    - Jāmiʿ 2:578.1
+    - Jāmiʿ 2:578.2
+    note: إنّ أمامكم حوضًا كما بين جَرْبًا وأَذْرُحَ; حوضُه ما بين صنعاء والمدينة
+  - motif: basin-vessels-numbered-as-the-stars
+    refs:
+    - Jāmiʿ 2:578.1
+    - Jāmiʿ 2:578.2
+    - Jāmiʿ 2:579.3
+    - Jāmiʿ 2:580.1
+    note: فيه أباريق كنجوم السّماء; تُرى فيه الآنية مثلُ الكواكب; وكِيزانه كنجوم السماء
+  - motif: basin-whiter-than-milk-sweeter-than-honey-never-thirst
+    refs:
+    - Jāmiʿ 2:578.1
+    - Jāmiʿ 2:579.3
+    - Jāmiʿ 2:580.1
+    note: من ورده فشرب منه، لم يظمأ بعدها أبدًا; ماؤه أبيض من اللّبن، وريحه أطيب من المسك
+  - motif: prophet-forerunner-at-the-basin
+    refs:
+    - Jāmiʿ 2:579.1
+    - Jāmiʿ 2:579.2
+    note: أنا فرطكم على الحوض; إنّي بين أيديكم فَرط، وأنا عليكم شهيد، وإنّ موعدكم الحوض
+  - motif: companions-turned-back-on-their-heels-at-basin
+    refs:
+    - Jāmiʿ 2:579.1
+    note: 'وليرفعنّ رجال منكم ثم ليُخْتلَجُنَّ دوني، فأقول: يا ربّ أصحابي؟'
+  - motif: sees-the-basin-from-the-pulpit
+    refs:
+    - Jāmiʿ 2:579.2
+    note: وإني لأنظر إليه من مقامي هذا
+  - motif: prays-over-uhud-dead-after-eight-years-as-farewell
+    refs:
+    - Jāmiʿ 2:579.2
+    note: صلّى رسولُ اللَّه ﷺ على قتلى أُحد بعد ثماني سنين كالمودِّع للأحياء والأموات ... وإنّي لستُ أخشى عليكم أن تشركوا، ولكني أخشى عليكم الدّنيا أن تنافسوها
+  - motif: basin-a-months-journey-square
+    refs:
+    - Jāmiʿ 2:579.3
+    - Jāmiʿ 2:580.1
+    note: حوضي مسيرة شهر; حوضي مسيرة شهر زواياه سواء
+- id: hadith-2-forerunner-and-those-who-changed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'At the basin men are taken from him: ''they kept turning back on their heels''; Umm Salama ''of the people''; ''away with whoever changed after me'''
+  read:
+  - Jāmiʿ 2:580.2-582.2
+  tags:
+  - motif: prophet-forerunner-at-the-basin
+    refs:
+    - Jāmiʿ 2:580.3
+    - Jāmiʿ 2:581.2
+    - Jāmiʿ 2:582.1
+    - Jāmiʿ 2:582.2
+    note: أنا فرطكم على الحوض، من ورد شرب منه، ومَنْ شرب منه لم يظمأ بعده أبدًا; إنّي لكم فرَطٌ على الحوْض
+  - motif: companions-turned-back-on-their-heels-at-basin
+    refs:
+    - Jāmiʿ 2:580.2
+    - Jāmiʿ 2:580.3
+    - Jāmiʿ 2:581.1
+    - Jāmiʿ 2:581.3
+    - Jāmiʿ 2:582.1
+    - Jāmiʿ 2:582.2
+    note: واللَّهِ ما برحوا يرجعون على أعقابهم; سحقًا سحقًا لمن بدّل بعدي; ما زالوا يرجعون على أعقابهم; ولأُنازِعَنَّ أقوامًا ثُم لأُغلبنَّ عليهم
+  - motif: woman-hears-ayyuha-al-nas-i-am-of-the-people
+    refs:
+    - Jāmiʿ 2:582.1
+    note: 'والجاريةُ تَمْشُطُني ... قالتْ: إنّما دعا الرّجال ولم يدعُ النِّساء. فقلتُ: إنّي من النّاس'
+  - motif: driven-from-basin-as-strange-camels-from-a-trough
+    refs:
+    - Jāmiʿ 2:582.1
+    note: لا يأتينَّ أحدُكم فيُذبُّ عنّي كما يُذَبُّ البعيرُ الضَّالُ
+- id: hadith-2-basin-spouts-and-the-yemenis
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The basin: two spouts of gold and silver from paradise, vessels beyond the stars, his staff for the people of Yemen; some come with vessels and taste nothing'
+  read:
+  - Jāmiʿ 2:582.3-585.1
+  tags:
+  - motif: community-known-by-white-blazes-of-ablution
+    refs:
+    - Jāmiʿ 2:582.3
+    note: تردون عليَّ غرًّا محجّلين من آثار الوضوء ليست لأحدٍ غيركم
+  - motif: driven-from-basin-as-strange-camels-from-a-trough
+    refs:
+    - Jāmiʿ 2:582.3
+    note: إنّي لأذود عنه الرّجال كما يذود الرجل الإبل الغريبة عن حوضه
+  - motif: basin-as-wide-as-ayla-to-sana
+    refs:
+    - Jāmiʿ 2:582.3
+    - Jāmiʿ 2:583.1
+    - Jāmiʿ 2:583.2
+    - Jāmiʿ 2:583.4
+    - Jāmiʿ 2:584.2
+    note: إنّ حوضي لأبعدُ من أيلة من عدن; بين حوضي كما بين أيلة ومضر; ما بين عمان إلى أيلة; كما بين صنعاء وأبلة; ما بين أيلة إلى مكة
+  - motif: basin-whiter-than-milk-sweeter-than-honey-never-thirst
+    refs:
+    - Jāmiʿ 2:583.1
+    - Jāmiʿ 2:583.2
+    - Jāmiʿ 2:583.3
+    note: ماؤه أحلى من العسل، وأشد بياضًا من اللَّبن، وأبردُ من الثّلج، وأطيبُ ريحًا من المسك
+  - motif: vessels-more-than-stars-on-a-clear-dark-night
+    refs:
+    - Jāmiʿ 2:583.2
+    note: لآنيته أكثر من عدد نجوم السّماء وكواكبها، ألا في الليلة المظلمة المصحية، آنية الجنة
+  - motif: two-spouts-of-gold-and-silver-from-paradise-into-basin
+    refs:
+    - Jāmiʿ 2:583.2
+    - Jāmiʿ 2:583.3
+    note: يشخُب فيه ميزابان من الجنة; يغتُّ فيه ميزابان يُمدَّانِه من الجنّة، أحدهما من ذهب، والآخر من ورق
+  - motif: strikes-with-staff-at-basin-for-people-of-yemen
+    refs:
+    - Jāmiʿ 2:583.3
+    note: إنّي لَبِعُقْر حوضي أذودُ النّاس لأهل اليمن، أضرب بعصاي حتى يرفضَّ عليهم
+  - motif: prophet-forerunner-at-the-basin
+    refs:
+    - Jāmiʿ 2:583.4
+    - Jāmiʿ 2:584.1
+    - Jāmiʿ 2:584.2
+    - Jāmiʿ 2:585.1
+    note: ألا إنّي فرط لكم على الحوض; أنا الفَرَط على الحَوْض
+  - motif: people-come-with-vessels-and-skins-and-taste-nothing
+    refs:
+    - Jāmiʿ 2:584.2
+    note: وسيأتي رجال ونساء بآنيةٍ وقِرَبٍ ثم لا يذوقون منه شيئًا
+  - motif: i-will-boast-of-your-numbers-do-not-fight-after-me
+    refs:
+    - Jāmiʿ 2:585.1
+    note: وإنّي مكاثرٌ بكم الأمم، فلا تَقْتَتِلُنَّ بعدي
+  - motif: letter-written-on-question-from-companion
+    refs:
+    - Jāmiʿ 2:584.1
+    note: 'كتبتُ إلى جابر بن سمرة مع غلامي نافع: أخبرني بشيء سمعتَ من رسول اللَّه ﷺ'
+- id: hadith-2-basin-questions
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Asked where to find him: the bridge, the scale, the basin; the seventy thousand with seventy thousand per thousand; the basin''s stream of unknown ends; Khawla''s pot'
+  read:
+  - Jāmiʿ 2:586.1-588.1
+  tags:
+  - motif: first-whose-grave-splits-first-intercessor
+    refs:
+    - Jāmiʿ 2:586.1
+    note: أَيْ رَبِّ خلقتني سيّدَ ولد آدم ولا فخر، وأوّل من تنشق عنه الأرض يوم القيامة ولا فخر
+  - motif: seek-me-at-bridge-scale-or-basin
+    refs:
+    - Jāmiʿ 2:586.2
+    note: اطلبني أوّل ما تطلبني على الصّراط ... فاطلبني عند الميزان ... فاطلبني عند الحوض، فإنّي لا أخطئ هذه الثلاث المواطن
+  - motif: each-thousand-with-seventy-thousand-and-three-handfuls
+    refs:
+    - Jāmiʿ 2:586.3
+    note: فإنّ ربِّي قد وَعَدني سبعين ألفًا، مع كلِّ ألفٍ سبعون ألفًا، وزادني ثلاثَ حَثَياتٍ
+  - motif: seventy-thousand-like-a-yellow-fly-among-flies
+    refs:
+    - Jāmiʿ 2:586.3
+    note: واللَّه ما أولئك في أمَّتك إِلَّا كالذُّباب الأَصْهب في الذِّبَّان
+  - motif: two-spouts-of-gold-and-silver-from-paradise-into-basin
+    refs:
+    - Jāmiʿ 2:586.3
+    note: فيه مَثْعَبان من ذهب وفضة
+  - motif: drinker-at-basin-never-darkens-in-face
+    refs:
+    - Jāmiʿ 2:586.3
+    note: مَن شرب منه لم يظْمأ بعدها، ولم يَسْودَّ وجهُه أبدًا
+  - motif: god-extends-basin-with-a-stream-of-unknown-ends
+    refs:
+    - Jāmiʿ 2:587.1
+    note: هو كما بين صنعاء إلى بُصْرى، ثم يمدّني اللَّه فيه بكُراعٍ لا يدري بشر ممن خُلق أي طرفيه
+  - motif: poor-emigrants-crowd-the-basin
+    refs:
+    - Jāmiʿ 2:587.1
+    note: فيزدحم عليه فقراء المهاجرين الذين يُقْتتلون في سبيل اللَّه ويموتون في سبيل اللَّه
+  - motif: hiss-on-burning-fingers-son-of-adam-says-hiss
+    refs:
+    - Jāmiʿ 2:588.1
+    note: 'فاحترقتْ أصابعه، فقال: "حَسِّ". ثم قال: "ابنُ آدم إن أصابه البرد قال: حسّ، وإن أصابه الحرُّ قال: حسّ"'
+  - motif: dearest-that-your-people-drink-from-it
+    refs:
+    - Jāmiʿ 2:588.1
+    note: أَجَلْ، وأَحبُّ النّاس إليَّ أن يروي منه قومُكِ
+- id: hadith-2-basin-kinship-and-the-moths
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abū l-Dardāʾ 'you are not of them'; holding them from the fire like moths; 'the lineage I know, but you innovated'
+  read:
+  - Jāmiʿ 2:589.1-590.1
+  tags:
+  - motif: prophet-forerunner-at-the-basin
+    refs:
+    - Jāmiʿ 2:589.1
+    - Jāmiʿ 2:589.2
+    - Jāmiʿ 2:590.1
+    note: أنا فرطكم على الحوض; وأفرط لكم على الحوض; وإنّي أيّها النّاس فرط لكم على الحوض
+  - motif: companions-turned-back-on-their-heels-at-basin
+    refs:
+    - Jāmiʿ 2:589.1
+    note: 'فيقال: إنّك لا تدري ما أحدثوا بعدك. قال أبو الدّرداء: يا رسول اللَّه، ادع اللَّه أن لا يجعلني منهم قال: "لستَ منهم"'
+  - motif: prophet-holds-your-waist-wraps-from-the-fire-moths
+    refs:
+    - Jāmiʿ 2:589.2
+    note: أنا ممسك بحجزكم عن النّار، وتغلبون تقاحمون فيها تفاحم الفراش والجنادب
+  - motif: my-kinship-benefits-in-both-worlds-but-you-changed
+    refs:
+    - Jāmiʿ 2:590.1
+    note: بلى واللَّهِ إِنَّ رحمي موصولةٌ في الدّنيا والآخرة ... أما النَّسبُ فقد عرفتُه، ولكنكم أحدثتم بعدي وارتدتُم القهقرى
+  - motif: arrive-together-and-in-scattered-groups
+    refs:
+    - Jāmiʿ 2:589.2
+    note: وتردون علي معًا وأشتاتًا
+- id: hadith-2-ibn-ziyad-and-the-basin
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'ʿUbayd Allāh b. Ziyād''s doubt: Abū Barza mocked, the sheet of ʿAbd Allāh b. ʿAmr fetched at a gallop, Anas''s old women, Zayd b. Arqam called senile'
+  read:
+  - Jāmiʿ 2:590.2-595.1
+  tags:
+  - motif: two-spouts-of-gold-and-silver-from-paradise-into-basin
+    refs:
+    - Jāmiʿ 2:590.2
+    note: فيه ميزابان يَنْثَعِبان من الجنة، من وَرِق، والآخر من ذهب
+  - motif: basin-as-wide-as-ayla-to-sana
+    refs:
+    - Jāmiʿ 2:590.2
+    - Jāmiʿ 2:591.1
+    note: إنّ لي حوضًا ما بين أيلة إلى صنعاء، عرضُه كطوله; كما بين أيلة إلى مكة -أو قال صنعاء إلى المدينة-
+  - motif: governor-doubts-basin-and-sends-for-companions
+    refs:
+    - Jāmiʿ 2:591.1
+    - Jāmiʿ 2:594.1
+    - Jāmiʿ 2:594.2
+    note: شكّ عبيد اللَّه بن زياد في الحوض ... أرأيتم الحوض الذي يُذكر ما أُراه شيئًا!; فأنكر ذلك
+  - motif: companionship-held-a-disgrace-dahdah
+    refs:
+    - Jāmiʿ 2:591.1
+    - Jāmiʿ 2:593.1
+    - Jāmiʿ 2:593.2
+    note: إن مُحمّديَّكم هذا الدحداح ... ألا أَراني في قومي يعدُّون صحابة محمّد ﷺ عارًا
+  - motif: who-denies-basin-god-not-give-him-drink
+    refs:
+    - Jāmiʿ 2:591.1
+    - Jāmiʿ 2:593.1
+    - Jāmiʿ 2:593.2
+    note: فمن كذَّب به فلا سقاه اللَّه منه
+  - motif: dictated-sheet-from-companion-ridden-for
+    refs:
+    - Jāmiʿ 2:591.1
+    note: 'فإنّي أقسمتُ عليك لما أَعْرقَتَ هذا البِرْذون حتى تأتيني بالكتاب. قال: فركبت البرذون فركضته حتى عَرِقَ'
+  - motif: believer-like-gold-blown-on-and-bee
+    refs:
+    - Jāmiʿ 2:591.1
+    note: إنَّ مثل المؤمن كمثل القطعة من الذهب نفخ عليها صاحبها فلم تتغير ولم تنقص ... كمثل النّحلة أكلت طيبًا ووضعت طيبًا ووقعت فلم تكسر ولم تفسد
+  - motif: signs-of-hour-obscenity-bad-neighbourliness-trust-reversed
+    refs:
+    - Jāmiʿ 2:591.1
+    note: لا تقوم السّاعة حتى يظهر الفحش والتّفحش، وسوء الجوار، وقطيعة الأرحام، وحتى يخون الأمين، ويؤتمن الخائن
+  - motif: old-women-pray-after-every-prayer-for-the-basin
+    refs:
+    - Jāmiʿ 2:594.1
+    note: ولقد أدركت عجائز بالمدينة لا يصلين صلاة إلا سألن اللَّه تعالى أن يوردهن حوض محمد ﷺ
+  - motif: companion-called-senile-cites-lying-hadith
+    refs:
+    - Jāmiʿ 2:594.2
+    note: 'قال: كذبتَ، ولكنّك شيخٌ قد خَرِفْتَ! . قال: إنّي قد سَمِعَتْه أذناي، ورعاه قلبي ... "من كذب عليَّ متعمِّدًا، فليتبوأ مقعده من جهنّم"'
+  - motif: you-are-not-a-hundred-thousandth-part
+    refs:
+    - Jāmiʿ 2:595.1
+    note: 'ما أنتم جزء من مائة ألف جزء ممن يرد عليَّ الحوض ... قال: سبعمائة أو ثمانمائة'
+- id: hadith-2-rulers-who-lie
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Those who confirm lying rulers will not come to the basin; the counsels to Kaʿb b. ʿUjra
+  read:
+  - Jāmiʿ 2:600.1-601.1
+  tags:
+  - motif: who-abets-lying-rulers-not-at-basin
+    refs:
+    - Jāmiʿ 2:600.1
+    - Jāmiʿ 2:600.2
+    - Jāmiʿ 2:601.1
+    note: فمن دخل عليهم فصدّقهم بكذبهم، وأعانهم على ظلمهم فليس مني ولستُ منه، وليس بوارد عليّ الحوض
+  - motif: nine-men-five-and-four-arabs-and-non-arabs
+    refs:
+    - Jāmiʿ 2:600.1
+    note: ونحن تسعة، خمسة، وأربعة، أحد العددين من العرب، والآخر من العجم
+  - motif: ka-ab-told-fasting-a-shield-flesh-of-unlawful-gain
+    refs:
+    - Jāmiʿ 2:600.2
+    note: الصَّوْمُ جُنَّةٌ، والصَّدقة تُطفئُ الخطيئة، والصّلاةُ قُربان ... إنّه لا يدخُلُ الجنَّةَ لَحْمٌ نبت من سُحتٍ ... فمُبتاع نفسّه فمُعْتِقُها، وبائعٌ نفسه فمُوبقها
+- id: hadith-2-ansar-meet-at-basin
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The Anṣār will meet selfishness after him: be patient until you meet me at the basin'
+  read:
+  - Jāmiʿ 2:603.1-603.4
+  tags:
+  - motif: meet-me-at-the-basin
+    refs:
+    - Jāmiʿ 2:603.1
+    - Jāmiʿ 2:603.2
+    - Jāmiʿ 2:603.3
+    - Jāmiʿ 2:603.4
+    note: إنّكم ستلقون بعدي أَثَرة، فاصبروا حتى تلقوني على الحوض; يا معشر الأنصار موعدكم حوضي
+  - motif: basin-as-wide-as-ayla-to-sana
+    refs:
+    - Jāmiʿ 2:603.4
+    note: وإن عرضه كما بيني وبين صنعاء أو كما بيني وبين عمان
+- id: hadith-2-pulpit-on-the-basin
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Between his house and pulpit a garden of paradise; the pulpit stands on his basin
+  read:
+  - Jāmiʿ 2:604.1
+  tags:
+  - motif: between-house-and-pulpit-a-garden-pulpit-on-basin
+    refs:
+    - Jāmiʿ 2:604.1
+    note: ما بين بيتي ومنبري روضة من رياض الجنة، ومنبري على حوضي
+- id: hadith-2-every-people-a-forerunner
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Every people has its forerunner; he is theirs at the basin
+  read:
+  - Jāmiʿ 2:605.1
+  tags:
+  - motif: every-people-has-a-forerunner
+    refs:
+    - Jāmiʿ 2:605.1
+    note: إنّ لكلّ قوم فَرَطًا، وإنّي فرطُكم على الحوض، فمن ورد عليَّ الحوض فشرب لم يظمأ، ومن لم يظما دخل الجنّة
+- id: hadith-2-first-intercessor
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: First intercessor in paradise, most followed of the prophets, first whose grave splits, imam and spokesman of the prophets
+  read:
+  - Jāmiʿ 2:609.1-609.3
+  tags:
+  - motif: most-followed-of-prophets-one-believed-by-one-man
+    refs:
+    - Jāmiʿ 2:609.1
+    note: وإنّ من الأنبياء نبيًّا ما يصدِّقه من أمّته إلّا رجل واحد
+  - motif: first-to-knock-at-paradise-gate
+    refs:
+    - Jāmiʿ 2:609.1
+    note: وأنا أوّل من يقْرع باب الجنّة
+  - motif: first-whose-grave-splits-first-intercessor
+    refs:
+    - Jāmiʿ 2:609.2
+    note: أنا سيّد ولد آدم يوم القيامة، وأوّل من ينشق عنه القبر، وأوّل شافع وأوّل مشفَّع
+  - motif: imam-and-spokesman-of-the-prophets
+    refs:
+    - Jāmiʿ 2:609.3
+    note: كنت إمام النّبيين وخطيبَهم، وصاحب شفاعتهم غير فخر
+- id: hadith-2-each-prophet-one-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Every prophet had one answered prayer and hastened it; his is hidden as intercession for his community; told to Kaʿb al-Aḥbār
+  read:
+  - Jāmiʿ 2:612.1-613.3
+  tags:
+  - motif: each-prophet-had-one-granted-request-his-kept-for-intercession
+    refs:
+    - Jāmiʿ 2:612.1
+    - Jāmiʿ 2:612.2
+    - Jāmiʿ 2:612.3
+    - Jāmiʿ 2:613.1
+    - Jāmiʿ 2:613.2
+    - Jāmiʿ 2:613.3
+    note: لكلّ نبي دعوة مستجابة، فتعجّل كل نبي دعوته، وإنّي اختبأتُ دعوتي شفاعة لأمّتي يوم القيامة
+  - motif: intercession-reaches-who-died-associating-nothing
+    refs:
+    - Jāmiʿ 2:612.2
+    note: فهي نائلة إن شاء اللَّه من مات من أمّتي لا يشرك باللَّه شيئًا
+  - motif: abu-hurayra-and-kaab-trade-prophet-and-books
+    refs:
+    - Jāmiʿ 2:612.3
+    - Jāmiʿ 2:613.1
+    note: أنّه قال لكعب الأحبار; فجعل أبو هريرة يحدِّث كعبًا عن النّبيّ ﷺ، وكعب يحدِّث أبا هريرة عن الكتب
+- id: hadith-2-seven-letters
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Two men recite differently; Ubayy's doubt struck from his chest; the Quran on seven letters, a request for each return, the third kept for the day all seek him
+  read:
+  - Jāmiʿ 2:613.4
+  tags:
+  - motif: struck-on-chest-sweats-as-if-seeing-god-in-fear
+    refs:
+    - Jāmiʿ 2:613.4
+    note: ضرب في صدري ففِضْتُ عَرَقًا، وكأنّما أنظرُ إلى اللَّه ﷿ فَرَقًا
+  - motif: quran-on-seven-letters-after-three-requests
+    refs:
+    - Jāmiʿ 2:613.4
+    note: أن اقْرإ القرآن على حرف ... اقْرَأْهُ على حرفين ... اقرَأْهُ على سبعة أحرف، فلك بكُلِّ رَدَّةٍ رَدَدْتُكَهَا مسألةٌ تَسْأَلُنِيهَا ... وأَخَّرْتُ الثّالثة ليوم يرغبُ إليَّ الخلقُ كلُّهم حتى إبراهيمُ ﷺ
+- id: hadith-2-better-than-solomons-kingdom
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Asked why he did not ask a kingdom like Solomon''s: some prophets spent their request on this world, some against their people; his is kept for intercession'
+  read:
+  - Jāmiʿ 2:614.1
+  quran:
+  - '38:35'
+  tags:
+  - motif: prophets-request-spent-on-world-or-against-people
+    refs:
+    - Jāmiʿ 2:614.1
+    note: ألا سألت ربّك مُلكًا كملك سليمان؟ ... فمنهم من اتخذها دنيا فأعطيها، ومنهم من دعا بها على قومه إذ عصوه فأهلكوا بها
+  - motif: hated-entering-then-loved
+    refs:
+    - Jāmiʿ 2:614.1
+    note: وما في النّاس أبغض إلينا من رجل يلج عليه، فما خرجنا حتى ما في الناس أحد أحبّ إلينا من رجل يدخل عليه
+- id: hadith-2-intercession-chain-abu-hurayra
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The foreleg; first and last on one plain; Adam, Noah, Abraham, Moses, Jesus each say 'myself, myself'; Muhammad under the Throne; the right-hand gate; the gate's leaves as Mecca to Hajar
+  read:
+  - Jāmiʿ 2:615.1
+  quran:
+  - 38:75
+  - '17:3'
+  - 4:171
+  - '48:2'
+  tags:
+  - motif: shoulder-of-meat-bites-then-tells-of-the-day
+    refs:
+    - Jāmiʿ 2:615.1
+    note: أُتِي رسولُ اللَّه ﷺ يومًا بلَحْمٍ، فَرُفِع إليه الذِّراعُ وكانت تعجبُه فَنَهَسَ منها نَهْسَةً
+  - motif: gathered-on-one-plain-caller-heard-sight-penetrates
+    refs:
+    - Jāmiʿ 2:615.1
+    note: يجمع اللَّه يوم القيامة الأوّلين والآخرين في صعيد واحد فيسمعهم الدّاعي ويَنْفُذُهم البَصَرُ، وتدنو الشّمسُ
+  - motif: intercession-chain-adam-to-muhammad
+    refs:
+    - Jāmiʿ 2:615.1
+    note: ائْتُوا آدم ... اذهبوا إلى نوح ... اذهبوا إلى إبراهيم ﷺ ... اذهبوا إلى موسى ... اذهبوا إلى عيسى ﷺ ... اذهبوا إلى محمد ﷺ
+  - motif: prophets-decline-intercession-citing-a-fault
+    refs:
+    - Jāmiʿ 2:615.1
+    note: وإنّه نهاني عن الشّجرة، فعصيته، نفسي نفسي; كانت لي دعوةٌ دعوتُ بها على قومي; وذكر كذباته; وإني قتلت نفسا لم أُومَر بقتلها; ولم يذكر له ذنبًا
+  - motif: god-angry-today-as-never-before-or-after
+    refs:
+    - Jāmiʿ 2:615.1
+    note: إنِّ ربّي غضب اليوم غضبًا لم يغضب قبله مثله ولن يغضب بعده مثله
+  - motif: praises-taught-him-under-the-throne
+    refs:
+    - Jāmiʿ 2:615.1
+    note: فأنطلقُ فآتي تحت العرش فأقع ساجدًا لربّي ثم يفتح اللَّه عليَّ ويُلهِمُني من محامده وحسن الثّناء عليه شيئًا لم يفْتَحْه لأحد قبلي
+  - motif: raise-your-head-ask-and-be-given
+    refs:
+    - Jāmiʿ 2:615.1
+    note: يا محمد ارفعْ رأسك سَلْ تُعْطَهْ اشْفَعْ تُشَفَّعْ
+  - motif: right-gate-for-those-without-reckoning
+    refs:
+    - Jāmiʿ 2:615.1
+    note: أدخل الجنّة من أمّتك من لا حساب عليه من الباب الأيمن من أبواب الجنّة
+  - motif: paradise-door-leaves-apart-as-mecca-to-hajar
+    refs:
+    - Jāmiʿ 2:615.1
+    note: إنّ ما بين المصراعين من مصاريع الجنّة لكما بين مكة وهجر أو كما بين مكة وبصرى
+  hints:
+  - Noah 'first of the messengers to the earth' named 'a grateful servant' (Jāmiʿ 2:615.1), against Gen 6:9, Noah 'a righteous man, blameless in his generation'
+- id: hadith-2-intercession-chain-anas-mabad
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Maʿbad b. Hilāl''s visit to Anas: ''I am not for it'' passed on; ''I am for it''; out of the fire by barley, mustard seed, less; the fourth return kept by God; al-Ḥasan supplies the end'
+  read:
+  - Jāmiʿ 2:616.1
+  tags:
+  - motif: intercession-chain-adam-to-muhammad
+    refs:
+    - Jāmiʿ 2:616.1
+    note: 'فيأتون آدمَ فيقولون له: اشْفَعْ لذُرِيِّتِك، فيقول: لستُ لها ... فأُوتَى، فأقول: أنا لها'
+  - motif: raise-your-head-ask-and-be-given
+    refs:
+    - Jāmiʿ 2:616.1
+    note: يا محمّد ارْفَعْ رأسك، وقُلْ يُسْمَعُ لك، وَسَلْ تُعْطَهْ، واشْفَعْ تُشَفَّعْ
+  - motif: faith-weighed-barley-then-mustard-then-least
+    refs:
+    - Jāmiʿ 2:616.1
+    note: مثقال حبّة من بُرّة أو شعيرة من إيمان ... مثقال حبّة من خردل من إيمان ... أدنى أدنى أدنى من مثقال حبة من خردل من إيمان
+  - motif: fourth-return-god-keeps-those-who-said-no-god-but-god
+    refs:
+    - Jāmiʿ 2:616.1
+    note: 'ثم أرجع إلى ربي في الرابعة ... فأقول: يا ربّ ائذن لي فيمن قال لا إله إلّا اللَّه. قال: ليس ذاك لك ... ولكن وعزّتي وكبريائي وعظمتي وجبريائي لأُخرِجَنَّ من قال: لا إله إلّا اللَّه'
+  - motif: anas-held-back-the-end-lest-they-rely-on-it
+    refs:
+    - Jāmiʿ 2:616.1
+    note: قد حدّثنا به منذ عشرين سنة وهو يومئذ جَميعٌ ولقد ترك شيئًا ما أدري أنسي الشّيخ أو كره أن يحدّثكم فتتكلوا
+- id: hadith-2-intercession-chain-anas-qatada
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The believers gathered seek relief: Adam ashamed of his sin, Noah of asking what he had no knowledge of, Moses of killing; limits set for each intercession; only those the Quran holds remain'
+  read:
+  - Jāmiʿ 2:617.1
+  quran:
+  - '21:37'
+  tags:
+  - motif: intercession-chain-adam-to-muhammad
+    refs:
+    - Jāmiʿ 2:617.1
+    note: 'فيأتون آدم، فيقولون: أنت أبو الناس خلقك اللَّهُ بيده، وأسجد لك ملائكته، وعلَّمك أسماءَ كلِّ شيءٍ ... فيقول: لستُ هُناكُم'
+  - motif: prophets-decline-intercession-citing-a-fault
+    refs:
+    - Jāmiʿ 2:617.1
+    note: ويذكر ذنبه فيستحيي; ويذكر سؤاله ربه ما ليس له به علم فيستحيي; ويذكر قتل النفس بغير نفس فيستحيي من ربه
+  - motif: intercedes-within-a-set-limit
+    refs:
+    - Jāmiʿ 2:617.1
+    note: ثم أشفع فَيُحُدُّ لي حدًّا فأدخلهم الجنّة
+  - motif: none-left-in-fire-but-those-the-quran-holds
+    refs:
+    - Jāmiʿ 2:617.1
+    note: ما بقي في النّار إلا من حبسه القرآن ووجب عليه الخلود
+- id: hadith-2-intercession-chain-sealed-vessel
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The long day: ''let him judge between us''; Noah ''head of the prophets''; Jesus''s parable of the sealed vessel; at the ring of paradise''s gate; out by barley, wheat, atom'
+  read:
+  - Jāmiʿ 2:618.1
+  quran:
+  - 7:144
+  - '33:40'
+  - '48:2'
+  tags:
+  - motif: intercession-chain-adam-to-muhammad
+    refs:
+    - Jāmiʿ 2:618.1
+    note: يطولُ يومُ القيامَةِ على النّاس ... انطلقوا بنا إلى آدم أبي البشر، فيشفع لنا إلى ربِّنا ﷿، فَلْيَقْضِ بينا
+  - motif: jesus-sealed-vessel-parable
+    refs:
+    - Jāmiʿ 2:618.1
+    note: أَرأَيْتُم لو كانَ مَتاعٌ في وِعاءٍ قد خُتِم عليه هل كان يقدر على ما في الوعاء حتى يفض الخاتم؟ ... فإنّ محمّدًا ﷺ خاتم النّبيين
+  - motif: takes-ring-of-paradise-gate-and-asks-to-open
+    refs:
+    - Jāmiʿ 2:618.1
+    note: 'فآتي بابَ الجنَّة فآخذُ بِحلقة البابِ فاستفتِحُ، فيقال: مَنْ أنت؟ فأقول: محمّد'
+  - motif: faith-weighed-barley-then-mustard-then-least
+    refs:
+    - Jāmiʿ 2:618.1
+    note: أَخْرِجْ من كان في قلبه مثقالُ شعيرة من إيمان ... مثقالُ بَرَّةٍ ... مثقال ذَرَّةٍ
+- id: hadith-2-intercession-chain-adams-offspring
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Bring out the contingent of the fire, nine hundred ninety-nine of each thousand''; ''let the offspring of Adam not burn today''; out by dinar, qīrāṭ, atom; Adam intercedes for ten million'
+  read:
+  - Jāmiʿ 2:619.1
+  quran:
+  - '15:29'
+  - '20:39'
+  - 21:107
+  tags:
+  - motif: lord-of-mankind-banner-of-praise-adam-under-it
+    refs:
+    - Jāmiʿ 2:619.1
+    note: إنّي لسيّد النّاس يوم القيامة ولا فخر، وإنّ بيدي لواء الحمد، إنّ تحته لآدم ﵇ ومن دونه
+  - motif: nine-hundred-ninety-nine-of-thousand-to-fire
+    refs:
+    - Jāmiʿ 2:619.1
+    note: أخرجْ من ذريّتك بعث النّار ... من كلِّ ألف تسعمائة وتسعة وتسعين
+  - motif: adams-offspring-not-to-be-burned-today
+    refs:
+    - Jāmiʿ 2:619.1
+    note: فاشفع لذريّتك، لا تُحرق اليوم بالنّار
+  - motif: prophets-each-say-and-i-am-with-you
+    refs:
+    - Jāmiʿ 2:619.1
+    note: ليس ذلك إليَّ اليوم، ولكن سأرشدكم، عليكم بعبد اتّخذه اللَّه خليلًا وأنا معكم
+  - motif: faith-weighed-dinar-then-qirat-then-atom
+    refs:
+    - Jāmiʿ 2:619.1
+    note: مثقال دينار من إيمان ... مثقال قيراط من إيمان ... مثقال ذرّة من إيمان
+  - motif: adam-intercedes-for-ten-million
+    refs:
+    - Jāmiʿ 2:619.1
+    note: ثم يؤذن لآدم بالشّفاعة فيشفع لعشرة آلاف ألف
+  - motif: one-mans-intercession-for-multitudes-like-rabia-mudar
+    refs:
+    - Jāmiʿ 2:619.1
+    note: حتى إنّ المؤمن ليشفعُ لأكثر من ربيعة ومضر
+- id: hadith-2-jesus-at-the-bridge
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Waiting at the bridge, Jesus brings the prophets; creation bridled in sweat; one of every ninety-nine; whoever witnessed sincerely one day
+  read:
+  - Jāmiʿ 2:621.1
+  tags:
+  - motif: jesus-brings-prophets-to-him-at-the-bridge
+    refs:
+    - Jāmiʿ 2:621.1
+    note: 'إني لقائمٌ أنتظرُ أمَّتي تَعْبُر على الصِّراط إذْ جاءني عيسى، فقال: هذه الأنبياءُ قد جاءتْك يا محمّد يسألون'
+  - motif: people-bridled-in-sweat-believer-as-a-cold
+    refs:
+    - Jāmiʿ 2:621.1
+    note: فالخلقُ مُلْجَمُون في العَرَقِ، فأمّا المؤمنُ فهو عليه كالزُّكْمة، وأمّا الكافر فيتغشَّاهُ الموتُ
+  - motif: one-of-every-ninety-nine-brought-out
+    refs:
+    - Jāmiʿ 2:621.1
+    note: فَشُفِّعْتُ في أُمّتي أن أُخْرِجَ من كلِّ تسعة وتسعين إنسانا واحدًا
+  - motif: one-day-sincere-witness-enters
+    refs:
+    - Jāmiʿ 2:621.1
+    note: من شهد أنه لا إله إلا اللَّه يومًا واحدًا مخلصا ومات على ذلك
+- id: hadith-2-five-things-intercession
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Among the five given him none before had: the intercession'
+  read:
+  - Jāmiʿ 2:621.2-622.1
+  tags:
+  - motif: given-five-things-none-before
+    refs:
+    - Jāmiʿ 2:621.2
+    - Jāmiʿ 2:621.3
+    - Jāmiʿ 2:622.1
+    note: أُعطيتُ خمسًا لم يُعطهنّ أحدٌ من الأنبياء قبلي ... وأعطيتُ الشّفاعة
+  - motif: each-prophet-asked-his-request-mine-delayed
+    refs:
+    - Jāmiʿ 2:621.3
+    - Jāmiʿ 2:622.1
+    note: سلْ تُعطه، فاختبأتُها شفاعةً لأمّتي; فأخَّرْتُ مسألتي إلى يوم القيامة
+- id: hadith-2-intercession-abu-bakr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: All of this world and the next shown him; prostration the length of a week; the truthful, the prophets with few or none, the martyrs; the lenient trader and the man who had himself burned
+  read:
+  - Jāmiʿ 2:622.2
+  quran:
+  - '3:33'
+  - '71:26'
+  - 4:164
+  - '3:49'
+  tags:
+  - motif: silent-from-forenoon-to-night-after-a-laugh
+    refs:
+    - Jāmiʿ 2:622.2
+    note: ضَحِك رسولُ اللَّه ﷺ، ثم جلس مكانه حتى صلّى الأُولى والعصر والمغرب كلُّ ذلك لا يتكلّم ... عُرِض عليَّ ما هو كائنٌ من أمر الدّنيا وأمر الآخرة
+  - motif: intercession-chain-adam-to-muhammad
+    refs:
+    - Jāmiʿ 2:622.2
+    note: انطلقوا إلى أبيكم بعد أبيكم إلى نوح ... فإنه يبرئ الأكمه والأبرص ويُحيي الموتى ... انطلقوا إلى سيّد ولد آدم
+  - motif: sweat-nearly-bridles-them
+    refs:
+    - Jāmiʿ 2:622.2
+    note: والعرقُ يكاد يُلجمُهم
+  - motif: prostrate-the-length-of-a-week
+    refs:
+    - Jāmiʿ 2:622.2
+    note: فيخرُّ ساجدًا قدْرَ جُمعةٍ ... خرَّ ساجدًا قدر جُمعة أخْرى ... فيأخذُ جبريلُ ﵇ بضَبْعَيْه
+  - motif: first-whose-grave-splits-first-intercessor
+    refs:
+    - Jāmiʿ 2:622.2
+    note: أيْ ربِّ خلقتني سيِّدَ ولد آدم ولا فخر، وأوّل من تنشق عنه الأرض يوم القيامة ولا فخر
+  - motif: truthful-then-prophets-then-martyrs-intercede
+    refs:
+    - Jāmiʿ 2:622.2
+    note: 'ادعوا الصّدِّيقين فيشفعون ... فيجيء النبي ومعه العصابة، والنّبي ومعه الخمسة والسّتة، والنبيُّ وليس معه أحد. ثم يقال: أدعوا الشّهداء'
+  - motif: forgiven-for-leniency-in-buying-and-selling
+    refs:
+    - Jāmiʿ 2:622.2
+    note: 'لا غير أنّي كنتُ أسامحُ النّاسَ في البيع والشِّراء. فيقول اللَّه ﷿: اسمحوا لعبدي كإسماحه إلى عبيدي'
+  - motif: sinner-orders-body-burnt-ashes-scattered
+    refs:
+    - Jāmiʿ 2:622.2
+    note: أمرتُ ولدي إذا مِتُّ فأحرقوني بالنار ثم اطحنوني، حتّى إذا كنت مثل الكُحل فاذهبوا بي إلى البحر فاذْرُوني في الرِّيح
+  - motif: burned-mans-reward-world-and-ten-times
+    refs:
+    - Jāmiʿ 2:622.2
+    note: 'انظر إلى مُلكِ أعظمِ مَلِكٍ فإنّ لك مثلَه وعشرةَ أمثالِه. قال: فيقول: لِم تسخرُ بي وأنت الملك؟ ! قال: وذاك الذي ضحكتُ منه من الضُّحى'
+- id: hadith-2-my-community-my-community
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: He recites Abraham's prayer, weeps for his community; Gabriel is sent to ask; 'we will please you in your community'
+  read:
+  - Jāmiʿ 2:624.1
+  quran:
+  - '14:36'
+  tags:
+  - motif: weeps-my-community-gabriel-sent-to-ask
+    refs:
+    - Jāmiʿ 2:624.1
+    note: 'فرفع يديه وقال: "اللهمّ أمّتي أمّتي" وبكي. فقال اللَّهُ ﷿: يا جبريل، اذْهب إلى محمّد -وربُّك أعلم- فسلْه ما يُبكيك؟ ... إنا سنرضيك في أمّتكَ ولا نسوءك'
+- id: hadith-2-the-praised-station
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The praised station is the intercession: sweat to mid-ear, nations kneeling each behind its prophet; the green robe on a hill; Gabriel at the right of the Merciful'
+  read:
+  - Jāmiʿ 2:626.1-627.1
+  quran:
+  - 17:79
+  tags:
+  - motif: beggar-comes-with-no-flesh-on-face
+    refs:
+    - Jāmiʿ 2:626.1
+    note: ما يزال الرّجلُ يسأل النّاس حتى يأتي يوم القيامة ليس في وجهه مُزْعة لحم
+  - motif: sweat-reaches-half-the-ear
+    refs:
+    - Jāmiʿ 2:626.1
+    note: إنّ الشّمس تدنو يوم القيامة حتى يبلغ العرقُ نصف الأذن، فبينما هم كذلك استغاثوا بآدم، ثم بموسى، ثم بمحمد ﷺ
+  - motif: praised-station-intercession
+    refs:
+    - Jāmiʿ 2:626.1
+    - Jāmiʿ 2:626.2
+    - Jāmiʿ 2:626.3
+    - Jāmiʿ 2:627.1
+    note: فيومئذ يبعثه اللَّه مقامًا محمودًا، يحمده أهل الجمع كلهم; إنّ النّاس يصيرون يوم القيامة جُثًا، كلّ أمّة تتبع نبيَّها; فذاك المقام المحمود
+  - motif: clothed-in-green-robe-on-a-hill
+    refs:
+    - Jāmiʿ 2:626.3
+    note: فأكون أنا وأمّتي على تلٍّ، ويكسوني ربي ﵎ حُلَّةً خضراء
+  - motif: earth-stretched-each-has-room-for-his-feet
+    refs:
+    - Jāmiʿ 2:627.1
+    note: تمدُّ الأرض يوم القيامة مدًّا لعظمة الرّحمن، ثم لا يكون لبشر من بني آدم إلّا موضع قدميه
+  - motif: gabriel-at-right-of-the-merciful-confirmed
+    refs:
+    - Jāmiʿ 2:627.1
+    note: 'يارب أخبرني هذا -لجبريل- وهو عن يمين الرحمن، -واللَّه ما رآه جبريل قبلها قطّ- إنك أرسلته إلي ... حتى يقول اللَّه: صدق'
+  - motif: your-servants-worshipped-you-in-the-ends-of-earth
+    refs:
+    - Jāmiʿ 2:627.1
+    note: يا ربّ عبادك عبدوك في أطراف الأرض
+- id: hadith-2-intercession-for-who-said-no-god
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The happiest with his intercession; the scorched Jahannamīs; charcoal sprouting like seed in flood-silt; Jābir turns back the Khārijī band; intercession for the grave sinners
+  read:
+  - Jāmiʿ 2:633.1-637.1
+  quran:
+  - 3:192
+  - '32:20'
+  - 17:79
+  tags:
+  - motif: happiest-with-intercession-who-said-it-sincerely
+    refs:
+    - Jāmiʿ 2:633.1
+    note: 'لقد ظننتُ يا أبا هريرة أن لا يسألني عن هذا الحديث أحدٌ أوّلُ منك، لما رأيتُ من حرصك على الحديث. أسعدُ النّاس بشفاعتي يوم القيامة، من قال: لا إله إلّا اللَّه خالصًا من قلبه أو نفسه'
+  - motif: taken-from-fire-with-grain-of-faith
+    refs:
+    - Jāmiʿ 2:634.1
+    note: 'أدخل الجنّة من كان في قلبه خردلة، فيدخلون، ثم أقول: أدخل الجنّة من كان في قلبه أدنى شيء'
+  - motif: jahannamiyyun-named-by-paradise
+    refs:
+    - Jāmiʿ 2:634.2
+    - Jāmiʿ 2:636.1
+    note: يخرجُ قومٌ من النّار بعد ما مسّهم منها سَفْعٌ فيدخلون الجنّة، فيسمّيهم أهل الجنّة الجهنميين; يُسَمَّون الجهنميين
+  - motif: sinners-made-charcoal-then-sprout-by-river
+    refs:
+    - Jāmiʿ 2:634.3
+    note: فأماتهم إماتةً حتّى إذا كانوا فحمًا أُذن بالشّفاعة، فجيء بهم ضبائر ضبائر، فبثُّوا على أنهار الجنّة ... فينبتون نبات الحِبَّةِ تكون في حَميل السّيل
+  - motif: as-if-he-had-lived-in-the-desert
+    refs:
+    - Jāmiʿ 2:634.3
+    note: 'فقال رجل من القوم: كأنّ رسول اللَّه ﷺ قد كان بالبادية'
+  - motif: brought-out-like-thaarir
+    refs:
+    - Jāmiʿ 2:635.1
+    note: 'يخرج من النّار بالشّفاعة كأنّهم الثّعارير". قلت: ما الثّعارير؟ قال: الضغابيس'
+  - motif: kharijite-band-turned-back-by-jabir
+    refs:
+    - Jāmiʿ 2:635.2
+    note: كنتُ قد شغفني رأيٌ مِنْ رأي الخوارج ... فرجعنا، فلا واللَّه ما خرج منا غير رجل واحد
+  - motif: brought-out-like-sesame-sticks-washed-white-as-paper
+    refs:
+    - Jāmiʿ 2:635.2
+    note: 'فيخرجون كأنهم عيدان السّماسم. قال: فيدخلون نهرًا من أنهار الجنّة، فيغسلون فيه، فيخرجون كأنّهم القراطيس'
+  - motif: intercession-for-grave-sinners
+    refs:
+    - Jāmiʿ 2:636.2
+    - Jāmiʿ 2:636.3
+    - Jāmiʿ 2:637.1
+    note: شفاعتي لأهل الكبائر من أمّتي
+- id: hadith-2-choice-of-intercession
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A sound like a mill at the valley's head; offered half his community in paradise or the intercession, he chooses intercession, for all who die associating nothing
+  read:
+  - Jāmiʿ 2:637.2-639.1
+  - Jāmiʿ 2:640.1
+  tags:
+  - motif: sound-like-a-mill-in-upper-valley
+    refs:
+    - Jāmiʿ 2:637.2
+    - Jāmiʿ 2:638.1
+    - Jāmiʿ 2:640.1
+    note: غير أنّا سمعنا صوتًا بأعلى الوادي، فإذا مثل هزيز الرَّحل; هديرًا كهدير الرَّحا; فسمعنا صوتًا مثل هزيز الرحا
+  - motif: choice-half-of-community-or-intercession
+    refs:
+    - Jāmiʿ 2:637.2
+    - Jāmiʿ 2:638.1
+    - Jāmiʿ 2:639.1
+    - Jāmiʿ 2:640.1
+    note: فخيَّرني بين أن يَدخُلَ نصفُ أمَّتي الجنَّةَ وبين الشَّفاعةِ فاخترتُ الشَّفاعةَ; بين أن تكون أمتي شطر أهل الجنّة وبين الشّفاعة
+  - motif: intercession-reaches-who-died-associating-nothing
+    refs:
+    - Jāmiʿ 2:637.2
+    - Jāmiʿ 2:638.1
+    - Jāmiʿ 2:639.1
+    - Jāmiʿ 2:640.1
+    note: فأنا أشهدُكم أنَّ شفاعتي لمن لا يشرك باللَّه شيئًا; هي لكلّ من مات لا يشرك باللَّه شيئًا
+  - motif: companions-press-to-be-of-his-intercession
+    refs:
+    - Jāmiʿ 2:637.2
+    - Jāmiʿ 2:638.1
+    - Jāmiʿ 2:639.1
+    note: ننشُدُك اللَّهَ والصُّحبةَ لَمَا جعلْتَنَا من أهل شفاعتك ... فلمّا أضَبُّوا عليه
+  - motif: prophet-guarded-in-enemy-land
+    refs:
+    - Jāmiʿ 2:640.1
+    note: أنّ النّبيّ ﷺ كان يحرُسُه أصحابه، فقمتُ ذات ليلة، فلم أره في منامه
+- id: hadith-2-abu-hurayra-at-baqi
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Abū Hurayra at al-Baqīʿ, ''I know best the intercession'': forgive every Muslim who meets you believing in me'
+  read:
+  - Jāmiʿ 2:639.2
+  tags:
+  - motif: intercession-prayer-for-every-muslim-who-believes-in-me
+    refs:
+    - Jāmiʿ 2:639.2
+    note: اللهمّ اغفر لكل عبد مسلم، لقيك يؤمن بي لا يشرك بك
+- id: hadith-2-freedmen-of-the-compeller
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The banner of praise; the Compeller facing him in paradise; barley, half a barley-grain, mustard seed; the taunt of the fire's people; 'freedmen of the Compeller'
+  read:
+  - Jāmiʿ 2:641.1
+  tags:
+  - motif: first-whose-grave-splits-first-intercessor
+    refs:
+    - Jāmiʿ 2:641.1
+    note: إنّي لأوّلُ النّاس تنشقُّ الأرضُ عن جُمْجُمَتِي يوم القيامة ولا فخر
+  - motif: god-faces-him-inside-paradise
+    refs:
+    - Jāmiʿ 2:641.1
+    note: فيفْتَحُون لي فأدخلُ فإذا الجبّار مستقبلي، فأسجدُ له
+  - motif: faith-weighed-barley-then-mustard-then-least
+    refs:
+    - Jāmiʿ 2:641.1
+    note: مثقال حبّة من شعير ... نصف حبة من شعير ... مثقالَ حبَّةٍ من خَرْدل
+  - motif: fire-dwellers-taunt-worshippers-god-frees-them
+    refs:
+    - Jāmiʿ 2:641.1
+    note: 'فيقول أهلُ النّار: ما أغني عنكم أنَّكم كنتم تعبدون اللَّه ﷿ لا تشركون به شيئًا! . فيقول الجبار: فبعِزَّتِي لأعتِقَنَّهم من النّار'
+  - motif: sinners-made-charcoal-then-sprout-by-river
+    refs:
+    - Jāmiʿ 2:641.1
+    note: وقد امْتَحَشُوا فيدخلون في نَهْر الحياة، فَينْبُتُونَ فيه كما تَنْبُتُ الحبَّةُ في غُثاءِ السَّيْل
+  - motif: freedmen-of-the-compeller-not-jahannamis
+    refs:
+    - Jāmiʿ 2:641.1
+    note: 'ويُكْتَبُ بين أعينهم: هؤلاء عتقاءُ اللَّه ... فيقول الجبار: بل هؤلاء عتقاءُ الجبار'
+- id: hadith-2-seek-me-three-places
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Asked to intercede for Anas: seek me at the bridge, the scale, the basin'
+  read:
+  - Jāmiʿ 2:642.1
+  tags:
+  - motif: seek-me-at-bridge-scale-or-basin
+    refs:
+    - Jāmiʿ 2:642.1
+    note: اطلبني أوّل ما تطلبني على الصّراط ... فاطلبني عند الميزان ... فاطلبني عند الحوض
+- id: hadith-2-intercession-for-the-community
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Shown his community's bloodshed, he asks intercession for them; companions stop withholding prayers for grave sinners
+  read:
+  - Jāmiʿ 2:643.1-643.2
+  quran:
+  - '4:48'
+  tags:
+  - motif: shown-his-community-shedding-blood-asks-intercession
+    refs:
+    - Jāmiʿ 2:643.1
+    note: أُريت ما تلقى أمّتي بعدي، وسفك بعضهم دماء بعضٍ، وسبق ذلك من اللَّه، كما سبق على الأمم قبلهم، فسألته أن يولّيني شفاعةً يوم القيامة فيهم
+  - motif: companions-held-back-forgiveness-prayers-for-grave-sinners
+    refs:
+    - Jāmiʿ 2:643.2
+    note: ما زلنا نُمسك عن الاستغفار لأهل الكبائر حتى سمعنا من في نبيِّنا ﷺ
+  - motif: intercession-for-grave-sinners
+    refs:
+    - Jāmiʿ 2:643.2
+    note: فإنّي أخّرتُ شفاعتي لأهل الكبائر من أمّتي يوم القيامة
+- id: hadith-2-god-keeps-the-confessors
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''This is not for you but for me'': by my might, forbearance and mercy I leave none in the fire who said no god but God'
+  read:
+  - Jāmiʿ 2:646.1
+  tags:
+  - motif: fourth-return-god-keeps-those-who-said-no-god-but-god
+    refs:
+    - Jāmiʿ 2:646.1
+    note: 'فيقول: ليست هذه لك يا محمد، إنّما هي لي، أما وعزّتي وحِلْمي ورحمتي لا أدعُ في النّار أحدًا -أو قال: عبدًا- قال: لا إله إلّا اللَّه'
+- id: hadith-2-prayer-at-the-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The prayer on hearing the call earns his intercession
+  read:
+  - Jāmiʿ 2:647.1
+  tags:
+  - motif: prayer-at-the-call-earns-intercession
+    refs:
+    - Jāmiʿ 2:647.1
+    note: اللهمَّ ربَّ هذه الدّعوة التّامة، والصّلاة القائمة، آتِ محمّدًا الوسيلة والفضيلة، وابعثه مقامًا محمودًا الذي وعدته، حلَّتْ له شفاعتي يوم القيامة
+- id: hadith-2-medina-intercession
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Who dies in Medina, who endures its hardship: he will intercede or witness for him'
+  read:
+  - Jāmiʿ 2:648.1-650.2
+  tags:
+  - motif: who-can-should-die-in-medina
+    refs:
+    - Jāmiʿ 2:648.1
+    - Jāmiʿ 2:648.2
+    - Jāmiʿ 2:649.1
+    note: من استطاع أن يموت بالمدينة فلْيمتْ بها، فإنّي أشفع لمن يموت بها; إلّا كنتُ له شفيعًا أو شهيدًا يوم القيامة
+  - motif: intercessor-or-witness-for-who-endures-medinas-hardship
+    refs:
+    - Jāmiʿ 2:649.2
+    - Jāmiʿ 2:649.3
+    - Jāmiʿ 2:650.1
+    - Jāmiʿ 2:650.2
+    note: لا يصبرْ على لأوائها وشدّتها أحدٌ إلا كنتُ له شفيعًا، أو شهيدًا يوم القيامة
+  - motif: medina-better-for-them-if-they-knew
+    refs:
+    - Jāmiʿ 2:650.1
+    note: المدينة خير لهم لو كانوا يعلمون، لا يدعُها أحدٌ رغبةً عنها إلّا أبدل اللَّه فيها من هو خير منه
+- id: hadith-2-abu-talib
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: His intercession lightens Abū Ṭālib's punishment to a shallow of fire to the ankles
+  read:
+  - Jāmiʿ 2:650.3-651.1
+  quran:
+  - 4:145
+  tags:
+  - motif: abu-talib-in-shallow-fire-to-ankles-brain-boils
+    refs:
+    - Jāmiʿ 2:650.3
+    - Jāmiʿ 2:651.1
+    note: فيُجعل في ضحضاح من النّار يبلغ كعبيه، يغلي منه دماغه; ولولا أنا لكان في الدّرَك الأسْفل من النّار
+  - motif: uncle-who-guarded-him
+    refs:
+    - Jāmiʿ 2:651.1
+    note: ما أغنيتَ عن عمِّك، فإنّه كان يحوطُك ويغضبُ لك؟
+- id: hadith-2-five-things-again
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The five given him, the intercession among them (repeated under the bāb of his preferences)
+  read:
+  - Jāmiʿ 2:651.2-652.2
+  tags:
+  - motif: given-five-things-none-before
+    refs:
+    - Jāmiʿ 2:651.2
+    - Jāmiʿ 2:651.3
+    - Jāmiʿ 2:652.1
+    - Jāmiʿ 2:652.2
+    note: أُعطيتُ خمسًا لم يُعطهنَّ نبيٌّ قبلي، ولا أقولهنَّ فخرًا ... وأُعطيتُ الشّفاعة، فأخّرتُها لأمّتي فهي لمن لا يشرك باللَّه شيئًا
+  - motif: sent-to-the-red-and-the-black
+    refs:
+    - Jāmiʿ 2:651.3
+    - Jāmiʿ 2:652.2
+    note: وبُعثتُ إلى الأحمر والأسود; بُعثتُ إلى النّاس كافّة، الأحمر والأسود
+  - motif: earlier-peoples-burned-spoils-and-prayed-only-in-churches
+    refs:
+    - Jāmiʿ 2:652.1
+    note: كانوا يحرقُونَها ... إنما كانوا يُصلُّون في كَنائِسهم وبِيَعِهم
+- id: hadith-2-beyond-intercession
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Two his intercession will not reach: the unjust ruler and the extremist who passes out of religion'
+  read:
+  - Jāmiʿ 2:654.1-654.2
+  tags:
+  - motif: unjust-ruler-and-zealot-beyond-intercession
+    refs:
+    - Jāmiʿ 2:654.1
+    - Jāmiʿ 2:654.2
+    note: 'صنفان من أمّتي لن تنالهما شفاعتي: إمام ظلوم، وكلّ غال مارق; إمام ظلوم غشوم، وآخر غال في الدِّين مارق منه'
+- id: hadith-2-cursers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The habitual cursers will be neither witnesses nor intercessors
+  read:
+  - Jāmiʿ 2:655.1
+  tags:
+  - motif: cursers-neither-witnesses-nor-intercessors
+    refs:
+    - Jāmiʿ 2:655.1
+    note: إنّ اللّعانين لا يكونون شهداء ولا شفعاء يوم القيامة
+- id: hadith-2-help-me-by-prostration
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Rabīʿa, his servant, asked his wish, asks his company in paradise: ''help me against yourself by much prostration'''
+  read:
+  - Jāmiʿ 2:655.2-656.1
+  tags:
+  - motif: servant-asks-his-company-in-paradise-help-by-prostration
+    refs:
+    - Jāmiʿ 2:655.2
+    - Jāmiʿ 2:655.3
+    - Jāmiʿ 2:656.1
+    note: 'أسألُك مرافتَك في الجنّة ... "فأعنّي على نفسك بكثرة السّجود"; حاجتي أن تشفع لي يوم القيامة. قال: "ومن دلَّك على هذا؟ ". قال: ربِّي'
+  - motif: world-passes-ask-for-the-hereafter
+    refs:
+    - Jāmiʿ 2:656.1
+    note: إنّ أمر الدّنيا ينقطع، فلا أرى شيئًا خيرًا من شيء آخذُه لنفسي لآخرتي ... فلْيُعْتقني من النّار
+- id: hadith-2-funeral-intercession
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A hundred, or forty, praying over the dead are granted their intercession
+  read:
+  - Jāmiʿ 2:657.1-657.2
+  tags:
+  - motif: hundred-praying-over-dead-are-granted-intercession
+    refs:
+    - Jāmiʿ 2:657.1
+    note: ما من ميّتٍ يصلّي عليه أمَّةٌ من المسلمين يبلغون مائةً كلّهم يشفعون له، إلّا شُفِّعوا فيه
+  - motif: forty-at-a-funeral-intercession-granted
+    refs:
+    - Jāmiʿ 2:657.2
+    note: 'يا كريب، انظر ما اجتمع له من النّاس ... تقول: هم أربعون؟ قال: نعم. قال: أخرجوه ... فيقوم على جنازته أربعون رجلًا، لا يشركون باللَّه شيئًا إلّا شفّعهم اللَّه فيه'
+- id: hadith-2-believers-plead-for-brothers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Believers plead for their brothers; out by dinar, half-dinar, atom; God's handful of those who never did good; seed in flood-silt; seals on their necks; God's pleasure
+  read:
+  - Jāmiʿ 2:658.1
+  quran:
+  - '4:40'
+  tags:
+  - motif: believers-plead-for-brothers-who-fasted-prayed-with-them
+    refs:
+    - Jāmiʿ 2:658.1
+    note: 'ربَّنا كانوا يصومون معنا، ويصلُّون ويحجُّون؟ فيقال لهم: أخرجُوا من عرفتم، فتحرم صورهم على النّار'
+  - motif: faith-weighed-dinar-then-qirat-then-atom
+    refs:
+    - Jāmiʿ 2:658.1
+    note: مثقال دينار من خير ... مثقال نصف دينار من خير ... مثقال ذرة من خير
+  - motif: god-takes-a-handful-of-who-never-did-good
+    refs:
+    - Jāmiʿ 2:658.1
+    note: شفعت الملائكةُ، وشفع النّبيُّون، وشفع المؤمنون، ولم يبقَ إلا أرحمُ الرّاحمين فيقبض قبضةً من النّار فيخرج منها قوما لم يعملوا خيرًا قطّ، قد عادوا حُممًا
+  - motif: seed-in-flood-silt-yellow-green-in-sun-white-in-shade
+    refs:
+    - Jāmiʿ 2:658.1
+    note: ألا ترونها تكون إلى الحجر أو إلى الشّجر، ما يكون إلى الشّمس أُصيفر وأُخَيضر. وما يكون منها إلى الظّل يكون أبيض؟
+  - motif: as-if-he-had-lived-in-the-desert
+    refs:
+    - Jāmiʿ 2:658.1
+    note: 'فقالوا: يا رسول اللَّه، كأنّك كنتَ ترعى بالبادية!'
+  - motif: freed-ones-with-seals-on-necks
+    refs:
+    - Jāmiʿ 2:658.1
+    note: فيخرجون كاللؤلؤ في رقابهم الخواتم يعرفهم أهلُ الجنَّة. هؤلاء عتقاء اللَّه
+  - motif: gods-pleasure-greater-than-paradise
+    refs:
+    - Jāmiʿ 2:658.1
+    note: لكم عندي أفضلُ من هذا ... رِضاي فلا أسخط عليكم بعده أبدًا
+- id: hadith-2-believers-intercede
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Believers, martyrs and angels intercede: for crowds, tribes, one man; more than Banū Tamīm by one man; the bridge''s moths; Ṭūbā and the grape cluster'
+  read:
+  - Jāmiʿ 2:659.1-662.1
+  tags:
+  - motif: each-prophet-had-one-granted-request-his-kept-for-intercession
+    refs:
+    - Jāmiʿ 2:659.1
+    note: قد أُعطي كلُّ نبيٍّ عطيّة، فكلّ قد تعجّلها، وإنّي أخّرتُ عطيتي شفاعةً لأمّتي
+  - motif: man-intercedes-for-a-crowd-a-tribe-or-one-man
+    refs:
+    - Jāmiʿ 2:659.1
+    - Jāmiʿ 2:659.3
+    note: وإنّ الرّجل من أمّتي ليشفع للفئام من النّاس ... للقبيلة ... للعُصبة ... للثلاثة وللرّجلين وللرّجل
+  - motif: truthful-then-prophets-then-martyrs-intercede
+    refs:
+    - Jāmiʿ 2:659.2
+    note: 'ادعوا الصّدِّيقين فيشفعون، ثم يقال: ادْعُوا الأنبياء ... ثم يقال: ادعوا الشّهداء فيشفعون لمن أرادوا'
+  - motif: more-than-banu-tamim-by-one-mans-intercession
+    refs:
+    - Jāmiʿ 2:660.1
+    note: 'ليُدخلنّ الجنّة بشفاعة رجل من أمّتي أكثر من بني تميم". قالوا: يا رسول اللَّه، سواك؟ قال: "سوايَ"'
+  - motif: people-dashed-on-bridge-like-moths-into-fire
+    refs:
+    - Jāmiʿ 2:660.2
+    note: فتقادعُ بهم جنبتا الصّراط تقادعُ الفراش في النّار
+  - motif: angels-prophets-martyrs-intercede-thrice
+    refs:
+    - Jāmiʿ 2:660.2
+    note: ثم يؤذن للملائكة والنّبيين والشّهداء أن يشفعوا، فيشفعون ويخرجون، ويشفعون ويُخرجون، ويشفعون ويُخرجون
+  - motif: adam-intercedes-for-ten-million
+    refs:
+    - Jāmiʿ 2:660.3
+    note: ثم يؤذن لآدم بالشّفاعة فيشفع لعشرة آلاف ألف
+  - motif: jahannamiyyun-stinking-brought-out
+    refs:
+    - Jāmiʿ 2:661.1
+    note: يُخرجُ اللَّهُ قومًا مُنْتنين قد محشتْهم النَّارُ بشفاعة الشّافعين، فيدخلهم الجنّة، فيُسَمَّون الجهنميُّون
+  - motif: one-mans-intercession-for-multitudes-like-rabia-mudar
+    refs:
+    - Jāmiʿ 2:661.2
+    note: يخرجُ من النّار بشفاعة رجل من أمّتي أكثر من ربيعة ومضر
+  - motif: each-thousand-intercedes-for-seventy-thousand-three-handfuls
+    refs:
+    - Jāmiʿ 2:662.1
+    note: سبعين ألفًا بغير حساب، ثم يشفع كلُّ ألف لسبعين ألفًا، ثم يَحثي ربي ﵎ بكفيه ثلاث حَثَيَات
+  - motif: god-extends-basin-with-a-stream-of-unknown-ends
+    refs:
+    - Jāmiʿ 2:662.1
+    note: كما بين البيضاء إلى بصري يمدُّني اللَّه فيه بكُراعٍ لا يدري إنسانٌ مِمَّن خُلق أين طرفاه
+  - motif: tuba-tree-like-syrian-walnut
+    refs:
+    - Jāmiʿ 2:662.1
+    note: وفيها شجرة تدعى طوبى ... فإنَّها تشبه شجرة في الشّام تُدعى الجوْزَةَ تنبت على ساق واحد، ثم ينتشر أعلاها ... لو ارتحلتَ جذعةً من إبل أهلك لما قطعتها حتى تنكسر ترقوتُها هَرَمًا
+  - motif: grape-cluster-a-months-crow-flight
+    refs:
+    - Jāmiʿ 2:662.1
+    note: مسيرة شهر للغراب الأبقع لا ينثني ولا يفتر ... فإن تلك الحبة تشبعني وأهل بيتي
+- id: hadith-2-abrahams-intercession
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Abraham: ''Lord, you have burned my sons'''
+  read:
+  - Jāmiʿ 2:664.1
+  tags:
+  - motif: abraham-says-you-burned-my-sons
+    refs:
+    - Jāmiʿ 2:664.1
+    note: 'يقول إبراهيم يوم القيامة: يا ربَّاه، فيقول الرَّبُّ جَلَّ وعلا: يا لبَّيكاه فيقول إبراهيم: يا ربّ، حرَّقْتَ بنيَّ'
+  hints:
+  - Abraham pleading at the last for his burned descendants (Jāmiʿ 2:664.1), against Gen 18:23-32 where he pleads for Sodom; the compiler (p. 1/665) quotes ʿAbd Allāh b. Salām 'I find it in the book of God', which he takes for the Torah
+- id: hadith-2-martyr-intercedes
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The martyr''s six traits: the crown, seventy-two wives, intercession for seventy of his family'
+  read:
+  - Jāmiʿ 2:665.1-666.1
+  tags:
+  - motif: martyr-gifts-at-first-drop-of-blood
+    refs:
+    - Jāmiʿ 2:665.1
+    note: يُغفر له في أول دَفْعةٍ، ويرى مقعده من الجنّة، ويجار من عذاب القبر، ويأمن من الفزع الأكبر
+  - motif: martyr-six-traits-crown-seventy-two-wives-seventy-kin
+    refs:
+    - Jāmiʿ 2:665.1
+    - Jāmiʿ 2:666.1
+    note: 'ويوضع على رأسه تاج الوقار: الياقوتةُ منها خيرٌ من الدُّنيا وما فيها، ويزوّج اثنين وسبعين زوجة من الحور العين، ويُشفَّع في سبعين من أقاربه; يُشفَّع الشّهيد في سبعين من أهل بيته'
+- id: hadith-2-quran-intercedes
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The Quran intercedes; al-Baqara and Āl ʿImrān like two clouds or two flocks pleading; the thirty-verse sura that interceded
+  read:
+  - Jāmiʿ 2:666.2-667.1
+  quran:
+  - 67:1-30
+  tags:
+  - motif: quran-comes-as-intercessor-for-its-people
+    refs:
+    - Jāmiʿ 2:666.2
+    note: اقرأوا القرآن، فإنّه يأتي يوم القيامة شفيعًا لأصحابه ... اقرأوا سورة البقرة، فإنّ أخذها بركة، وتركها حسرة، ولا يستطيعها البطلة
+  - motif: two-suras-as-clouds-or-bird-flocks-pleading
+    refs:
+    - Jāmiʿ 2:666.2
+    note: اقرأوا الزّهراوين البقرة وسورة آل عمران، فإنّهما تأتيان يوم القيامة كأنهما غمامنان، أو كأنهما غياتيان، أو كأنهما فرقان من طير صوافّ تُحاجّان عن أصحابهما
+  - motif: surah-of-thirty-verses-argues-for-its-reader
+    refs:
+    - Jāmiʿ 2:667.1
+    note: إنّ سورة من القرآن ثلاثون آية شفعت لرجل حتى غفر له
+- id: hadith-2-the-trumpet
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The blasts: Moses holding the Throne; the first to hear it plastering his trough; dew-like rain grows bodies; the trumpeter''s horn at his lips; his eyes on the Throne like two stars'
+  read:
+  - Jāmiʿ 2:668.1-670.1
+  quran:
+  - 39:68
+  - 6:73
+  tags:
+  - motif: do-not-prefer-among-prophets-moses-at-throne
+    refs:
+    - Jāmiʿ 2:668.1
+    note: لا تفضّلوا بين أنبياء اللَّه ... فإذا موسى آخذ بالعرش، فلا أدري أحُوسب بصعقته يوم الطّور، أم بُعث قبلي
+  - motif: worst-left-light-as-birds-minds-of-beasts-satan-bids-idols
+    refs:
+    - Jāmiʿ 2:669.1
+    note: فيبقى شرار النّاس في خفّة الطّير وأحلام السِّباع ... فيتمثَّل لهم الشّيطان ... فيأمرهم بعبادة الأوثان، وهم في ذلك دارّةٌ أرزاقهم، وحسنٌ عيشُهم
+  - motif: trumpet-heard-tilting-neck
+    refs:
+    - Jāmiʿ 2:669.1
+    note: ثم ينفخ في الصُّور، فلا يسمعه أحدٌ إِلَّا أضغى لِيتًا، ورفع لِيتًا
+  - motif: first-to-hear-trumpet-plastering-his-camels-trough
+    refs:
+    - Jāmiʿ 2:669.1
+    note: وأوّلُ من يسمعه رجل يلوط حوض إبله
+  - motif: rain-like-dew-and-bodies-grow
+    refs:
+    - Jāmiʿ 2:669.1
+    note: 'ثم يرسل اللَّه -أو قال: ينزل اللَّه- مطرًا كأنّه الطّلُّ أو الظّلُّ -نعمان الشّاك- فتنبتُ منه أجسادُ النّاس'
+  - motif: trumpeter-has-put-horn-to-mouth-brow-bent
+    refs:
+    - Jāmiʿ 2:669.2
+    note: كيف أُنعم وصاحبُ الصّور قد الْتقم، وحنا جبهته ينتظر متى يُؤمر أن ينفخ
+  - motif: say-god-suffices-at-the-trumpet
+    refs:
+    - Jāmiʿ 2:669.2
+    note: 'قولوا: حسبنا اللَّه ونعم الوكيل على اللَّه توكّلنا'
+  - motif: trumpeter-gaze-fixed-on-throne
+    refs:
+    - Jāmiʿ 2:670.1
+    note: إن طَرْف صاحب الصّور مذ وكِّل به مستعد ينظر نحو العرش مخافة أن يؤمر قبل أن يرتدّ إليه طرْفه، كأنّ عينيه كوكبان درّيان
+  hints:
+  - Bodies growing from a dew-like rain before the second blast (Jāmiʿ 2:669.1), against Isa 26:19, 'your dew is a dew of lights, and the earth shall cast out the dead'; and the rabbinic 'dew of resurrection' (b. Ḥagigah 12b)
+- id: hadith-2-trumpet-is-a-horn
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'A bedouin asks what the trumpet is: a horn that is blown'
+  read:
+  - Jāmiʿ 2:673.1
+  quran:
+  - 39:68
+  tags:
+  - motif: trumpet-is-a-horn
+    refs:
+    - Jāmiʿ 2:673.1
+    note: 'جاء أعرابيٌّ إلى النبيّ ﷺ فقال: ما الصُّور؟ قال: "قرنٌ يُنفخُ فيه"'
+  hints:
+  - The ṣūr glossed as a horn (qarn) (Jāmiʿ 2:673.1), against the shofar of the ingathering, Isa 27:13 'a great shofar shall be blown'
+- id: hadith-2-the-gathering
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Gathered barefoot, naked, uncircumcised; Abraham clothed first; 'as the righteous servant said'; too grave to look; three ways of the gathering; the King's settlement even of a slap
+  read:
+  - Jāmiʿ 2:673.2-675.1
+  quran:
+  - 21:104
+  - 5:117-118
+  tags:
+  - motif: resurrected-barefoot-naked-uncircumcised
+    refs:
+    - Jāmiʿ 2:673.2
+    - Jāmiʿ 2:674.1
+    - Jāmiʿ 2:675.1
+    note: إنّكم تحشرون حفاةً عراة غُرلًا; تُحشرون حُفاة عُراة غُرْلًا; عُراةً غرلًا بُهْمًا
+  - motif: abraham-first-clothed-at-resurrection
+    refs:
+    - Jāmiʿ 2:673.2
+    note: وأوَّل من يُكسى يوم القيامة إبراهيم
+  - motif: prophet-answers-in-words-of-jesus-at-judgment
+    refs:
+    - Jāmiʿ 2:673.2
+    note: وإنَّ ناسًا من أصحابي يؤخذ بهم ذات الشّمال ... فأقول كما قال العبد الصَّالح
+  - motif: naked-at-resurrection-too-grave-to-look
+    refs:
+    - Jāmiʿ 2:674.1
+    note: 'الرّجال والنّساء ينظر بعضهم إلى بعض؟ ! فقال: "الأمر أشدّ من أن يهمّهم ذاك"'
+  - motif: gathered-two-three-four-ten-on-a-camel
+    refs:
+    - Jāmiʿ 2:674.2
+    note: 'يُحشر النَّاسُ على ثلاث طرائق: راغبين راهين، واثنان على بعير، وثلاثة على بعير، وأربعة على بعير، وعشرة على بعير، ويَحْشرُ بقيتهم النّارُ، تقيل معهم حيث قالوا'
+  - motif: gathered-buhm-with-nothing
+    refs:
+    - Jāmiʿ 2:675.1
+    note: 'قال: قلنا: وما بُهْمًا؟ قال: "ليس معهم شيء"'
+  - motif: no-one-enters-fire-while-owed-a-right-even-a-slap
+    refs:
+    - Jāmiʿ 2:675.1
+    note: أنا الملك، أنا الدَّيَّان، ولا ينبغي لأحد من أهل النّار أن يدخل النّار، وله عند أحد من أهل الجنّة حقٌّ حتّى أُقِصَّهُ منه ... حتّى اللَّطْمةَ ... "بالحسنات والسَّيِّئات"
+- id: hadith-2-unbeliever-on-his-face
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: How is the unbeliever gathered on his face? He who made him walk on two feet can make him walk on his face
+  read:
+  - Jāmiʿ 2:676.1
+  quran:
+  - 17:97
+  - '25:34'
+  tags:
+  - motif: walks-on-his-face-who-walked-on-feet
+    refs:
+    - Jāmiʿ 2:676.1
+    note: أليس الذي أمشاه على الرِّجْلين في الدّنيا قادرًا على أن يُمْشيه على وجهه يوم القيامة
+- id: hadith-2-white-earth
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Gathered on a white earth like a loaf of pure flour, no landmark
+  read:
+  - Jāmiʿ 2:676.2
+  tags:
+  - motif: resurrection-earth-white-like-pure-loaf
+    refs:
+    - Jāmiʿ 2:676.2
+    note: يُحشر النّاس يوم القيامة على أرض بيضاء عَفْراء كقُرصة نقي ... ليس فيها معلم لأحد
+- id: hadith-2-adam-first-called
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Adam called first: bring out ninety-nine of every hundred; the community like a white hair on a black ox'
+  read:
+  - Jāmiʿ 2:677.1
+  tags:
+  - motif: adam-first-called-sees-his-offspring
+    refs:
+    - Jāmiʿ 2:677.1
+    note: 'أوّل من يُدعى يوم القيامة آدم، فتراءى ذريتُه، فيقال: هذا أبوكم آدم، فيقول: لبيك وسعديك. فيقول: أخرج بعث جهنّم من ذريَّتك'
+  - motif: ninety-nine-of-every-hundred-to-hell
+    refs:
+    - Jāmiʿ 2:677.1
+    note: 'فيقول: يا ربّ، كم أُخرج؟ فيقول: أخرج من كلّ مائة تسعة وتسعين'
+  - motif: believers-like-white-hair-on-black-ox
+    refs:
+    - Jāmiʿ 2:677.1
+    note: إنّ أمّتي في الأمم كالشّعرة البيضاء في الثور الأسود
+- id: hadith-2-reckoning
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Whoever is reckoned is punished; the easy reckoning is the presentation; whoever is scrutinized perishes
+  read:
+  - Jāmiʿ 2:677.2-677.3
+  quran:
+  - '84:8'
+  tags:
+  - motif: scrutinized-reckoning-means-perdition
+    refs:
+    - Jāmiʿ 2:677.2
+    - Jāmiʿ 2:677.3
+    note: من حُوسب عُذِّب ... إنّما ذلك العرْض، ولكنْ مَنْ نُوقش الحساب يهلك; مَنْ نُوقش الحساب بعمله هلك
+  - motif: aisha-questions-what-she-does-not-know
+    refs:
+    - Jāmiʿ 2:677.2
+    note: كانتْ لا تسمعُ شيئًا لا تعرفه راجعتْ فيه حتّى تعرفَه
+- id: hadith-2-the-bridge-and-the-last-man
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Seen as the full moon; each follows what he worshipped; God in a form not known then known; the bridge over hell with sa'dan hooks; the trace of prostration; the last man to enter, God's laughter, his like or tenfold
+  read:
+  - Jāmiʿ 2:677.4
+  tags:
+  - motif: see-your-lord-like-full-moon
+    refs:
+    - Jāmiʿ 2:677.4
+    note: هل تضارُّون في رؤية القمر ليلة البدر؟ ... فإنّكم ترونه كذلك
+  - motif: each-follows-what-he-worshipped-sun-moon-tawaghit
+    refs:
+    - Jāmiʿ 2:677.4
+    note: مَنْ كان يعبد شيئًا فَلْيَتَّبِعْهُ فَيَتَّبِعُ مَنْ كان يعبد الشّمسَ الشّمسَ، ويَتَّبعُ من كان يعبد القمرَ القمرَ، ويَتَّبِعُ من كان يعبد الطَّواغيتَ الطَّواغيتَ
+  - motif: god-comes-in-a-form-not-known-then-known
+    refs:
+    - Jāmiʿ 2:677.4
+    note: فيأتيهم اللَّهُ ﵎ في صورةٍ غير صورته التي يعرفونَ ... نعوذ باللَّه منك! ... فيأتيهم اللَّه تعالى في صورته التي يعرفون
+  - motif: messengers-cry-grant-safety-on-bridge
+    refs:
+    - Jāmiʿ 2:677.4
+    note: 'ولا يتكلَّمُ يومئذ إِلَّا الرُّسُل، ودَعْوَى الرُّسُل يومئذٍ: اللَّهُمَّ سَلِّمْ، سَلِّم'
+  - motif: bridge-slippery-with-hooks-and-sadan-thorns
+    refs:
+    - Jāmiʿ 2:677.4
+    note: وفي جهنّمَ كلاليبُ مثلُ شَوْك السَّعْدان ... تَخْطَفُ النّاس بأعمالهم
+  - motif: fire-eats-all-but-trace-of-prostration
+    refs:
+    - Jāmiʿ 2:677.4
+    note: يعرفونهم بأثر السُّجود تأكل النّارُ من ابن آدم إِلَّا أثر السُّجود، حرَّم اللَّهُ على النّار أن تأكل أثر السُّجود
+  - motif: sinners-made-charcoal-then-sprout-by-river
+    refs:
+    - Jāmiʿ 2:677.4
+    note: وقد امْتَحَشُوا، فَيُصَبُّ عليهم ماءُ الحياةِ فَيَنْبُتُون منه كما تَنْبُتُ الحبَّةُ في حَمِيل السَّيْل
+  - motif: last-man-promises-to-ask-no-more
+    refs:
+    - Jāmiʿ 2:677.4
+    note: أي ربِّ اصْرِفْ وجهي عن النّار، فإنه قد قَشَبَنِي ريحُها وأحرقني ذَكاؤُها ... ويَلْك يا ابن آدم ما أغْدَرَكَ
+  - motif: god-laughs-at-the-last-man
+    refs:
+    - Jāmiʿ 2:677.4
+    note: 'فلا يزال يدعو اللَّه حتّى يَضْحَكَ اللَّهُ ﵎ منه فإذا ضَحِكَ اللَّه منه. قال: أُدْخُل الجنّة'
+  - motif: last-man-given-wish-and-its-like-or-tenfold
+    refs:
+    - Jāmiʿ 2:677.4
+    note: 'قال اللَّه تعالى: ذلك لك ومثلُه معه'
+  hints:
+  - God appearing first 'in a form other than his own' and then 'in the form they know' (Jāmiʿ 2:677.4), against Exod 33:18-23, Moses shown God's back and not his face

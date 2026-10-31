@@ -1,0 +1,1183 @@
+# Observation records, hadith chunk 23 (al-Jāmiʿ al-Kāmil book 2, kitāb al-īmān, pp. 438-557: angels, Gabriel, the books, the messengers, Jesus and the Dajjal, the prophet).
+records:
+- id: h-438.1-gates
+  ref: Jāmiʿ 2:438.1
+  unit: hadith-2-dajjal-isfahan-medina-gates-angels
+  agent: the Dajjal
+  action: comes to Medina
+  place:
+  - Jewry of Isfahan
+  - Medina
+  - gate of Ludd in Palestine
+  number:
+  - 7 gates
+  - 2 angels on each pass
+  quoted: lahā yawmaʾidhin sabʿatu abwāb, ʿalā kulli naqbin minhā malakān
+  outcome: the worst of its people go out to him
+- id: h-438.2-khalas
+  ref: Jāmiʿ 2:438.2
+  unit: hadith-2-dajjal-isfahan-medina-gates-angels
+  agent: the Dajjal
+  action: climbs Uhud and looks on Medina
+  place:
+  - Uhud
+  - salt flat of al-Jurf
+  number: 3 tremors
+  name: yawm al-khalāṣ
+  quoted: a-tarawna hādhā l-qaṣr al-abyaḍ? hādhā masjid Aḥmad
+  outcome: every hypocrite and transgressor, man and woman, goes out to him
+- id: h-439.1-passes
+  ref: Jāmiʿ 2:439.1
+  unit: hadith-2-dajjal-isfahan-medina-gates-angels
+  agent: angels
+  action: stand at the gates
+  place:
+  - Mecca
+  - Medina
+  quoted: ḥarramahumā llāhu ʿalayhi wa-qāmat al-malāʾikatu bi-abwābihā
+  outcome: the Dajjal reaches every water but these
+- id: h-439.2-monk
+  ref: Jāmiʿ 2:439.2
+  unit: hadith-2-killer-of-hundred-angels-dispute
+  agent: a man who killed 99
+  action: kills the monk who denies him repentance
+  number:
+  - 99
+  - 100
+  recipient: a monk
+  outcome: makes a hundred
+- id: h-439.2-measure
+  ref: Jāmiʿ 2:439.2
+  unit: hadith-2-killer-of-hundred-angels-dispute
+  agent: an angel in human form
+  action: has the two lands measured
+  object: the dead penitent
+  place: halfway along the road
+  quoted: qīsū mā bayna l-arḍayn
+  outcome: found nearer the land he sought; the angels of mercy take him
+- id: h-440.1-rooster
+  ref: Jāmiʿ 2:440.1
+  unit: hadith-2-rooster-sees-angel-donkey-sees-devil
+  agent:
+  - cocks
+  - the donkey
+  action: crow at an angel; bray at a devil
+  quoted: fa-innahā raʾat malakan ... fa-innahu raʾā shayṭānan
+  outcome: ask God's bounty; seek refuge from Satan
+- id: h-440.2-silk
+  ref: Jāmiʿ 2:440.2
+  unit: hadith-2-bride-shown-in-silk
+  agent: an angel
+  action: brings the future wife in a piece of silk
+  recipient: the prophet
+  time: three nights in a dream
+  instrument: saraqa min ḥarīr
+  quoted: in yaku hādhā min ʿindi llāhi yumḍihi
+- id: h-440.3-uthman
+  ref: Jāmiʿ 2:440.3
+  unit: hadith-2-angels-shy-before-uthman
+  agent: the prophet
+  action: sits up and covers his thighs
+  recipient: Uthman
+  name:
+  - Abu Bakr
+  - Umar
+  - Uthman
+  quoted: a-lā astaḥī min rajulin tastaḥī minhu l-malāʾika
+- id: h-441.1-speech
+  ref: Jāmiʿ 2:441.1
+  unit: hadith-2-best-speech-chosen-for-angels
+  object: the best speech
+  quoted: subḥān allāh wa-bi-ḥamdihi
+  recipient: God's angels
+- id: h-441.2-rows
+  ref: Jāmiʿ 2:441.2
+  unit: hadith-2-rows-like-the-angels
+  agent: the angels
+  action: line up before their Lord
+  quoted: yutimmūna l-ṣufūfa l-uwal wa-yataraṣṣūna fī l-ṣaff
+- id: h-442.1-chests
+  ref: Jāmiʿ 2:442.1
+  unit: hadith-2-rows-like-the-angels
+  agent: the prophet
+  action: passes through the row wiping chests and shoulders
+  quoted: lā takhtalifū fa-takhtalifa qulūbukum
+- id: h-443.3-spender
+  ref: Jāmiʿ 2:443.3
+  unit: hadith-2-two-angels-spender-withholder
+  agent: two angels
+  action: descend and pray
+  time: every morning
+  quoted: allāhumma aʿṭi munfiqan khalafan ... aʿṭi mumsikan talafan
+- id: h-443.4-suhur
+  ref: Jāmiʿ 2:443.4
+  unit: hadith-2-blessing-on-suhur
+  agent: God and his angels
+  action: bless
+  recipient: those who eat the pre-dawn meal
+  quoted: yuṣallūna ʿalā l-mutasaḥḥirīn
+- id: h-444.1-musk
+  ref: Jāmiʿ 2:444.1
+  unit: hadith-2-angels-take-the-soul
+  agent: two angels
+  action: take the believer's soul up
+  object: the soul
+  quoted: rūḥun ṭayyibatun jāʾat min qibal al-arḍ, ṣallā llāhu ʿalayki wa-ʿalā jasadin kunti taʿmurīnah
+  outcome: taken to the end of the term
+- id: h-444.1-rayta
+  ref: Jāmiʿ 2:444.1
+  unit: hadith-2-angels-take-the-soul
+  agent: the prophet
+  action: draws his thin cloak over his nose
+  instrument: rayṭa
+  outcome: at the stench of the unbeliever's soul
+- id: h-444.2-silk
+  ref: Jāmiʿ 2:444.2
+  unit: hadith-2-angels-take-the-soul
+  agent:
+  - angels of mercy
+  - angels of punishment
+  action: bring a cloth for the soul
+  instrument:
+  - white silk (ḥarīra bayḍāʾ)
+  - sackcloth (mish)
+  place:
+  - gate of heaven
+  - gate of the earth
+  quoted: ka-aṭyabi rīḥi misk ... ka-antani rīḥi jīfa
+- id: h-445.1-shroud
+  ref: Jāmiʿ 2:445.1
+  unit: hadith-2-angels-take-the-soul
+  agent: angels with faces like the sun
+  action: come down with shroud and embalming spice of paradise
+  place: as far as the eye reaches
+  name: malak al-mawt
+  quoted: ayyatuhā l-nafs al-ṭayyiba ukhrujī ilā maghfiratin mina llāhi wa-riḍwān
+  outcome: the angel of death sits at his head
+- id: h-445.2-bridge
+  ref: Jāmiʿ 2:445.2
+  unit: hadith-2-angels-on-the-bridge
+  agent: angels
+  action: say 'keep safe, keep safe'
+  place: both sides of the bridge over hell
+  quoted: allāhumma sallim sallim
+- id: h-446.1-sahifa
+  ref: Jāmiʿ 2:446.1
+  unit: hadith-2-curse-of-angels-medina-sanctuary
+  agent: Ali
+  object: a sheet (ṣaḥīfa) hung in his sword-scabbard
+  place:
+  - 'Medina: from ʿĀʾir to such-and-such'
+  quoted: man aḥdatha fīhā ḥadathan aw āwā muḥdithan fa-ʿalayhi laʿnatu llāhi wa-l-malāʾikati wa-l-nāsi ajmaʿīn
+- id: h-447.1-camel
+  ref: Jāmiʿ 2:447.1
+  unit: hadith-2-curse-on-false-lineage-and-broken-protection
+  agent: the prophet
+  action: preaches from his she-camel
+  place: under her neck
+  quoted: wa-inna luʿābahā yasīlu bayna katifayya
+  object: claiming another father or patron
+- id: h-448.2-bloodwit
+  ref: Jāmiʿ 2:448.2
+  unit: hadith-2-curse-on-who-blocks-retaliation
+  object: one killed in a blind melee
+  instrument:
+  - stone
+  - whip
+  - stick
+  quoted: fa-ʿalayhi ʿaql al-khaṭaʾ ... wa-man qatala ʿamdan fa-huwa qawad
+  outcome: whoever stands between the avenger and retaliation is cursed
+- id: h-449.1-bed
+  ref: Jāmiʿ 2:449.1
+  unit: hadith-2-angels-curse-wife-and-armed-pointer
+  agent: the angels
+  action: curse
+  recipient: a wife who spends the night away from her husband's bed
+  time: until she returns (until morning)
+- id: h-449.2-iron
+  ref: Jāmiʿ 2:449.2
+  unit: hadith-2-angels-curse-wife-and-armed-pointer
+  agent: the angels
+  action: curse
+  recipient: one who points iron at his brother
+  quoted: wa-in kāna akhāhu li-abīhi wa-ummih
+- id: h-449.3-race
+  ref: Jāmiʿ 2:449.3
+  unit: hadith-2-thirty-angels-race-to-write
+  agent: thirty-odd angels
+  action: race to write the words
+  number: bidʿa wa-thalāthūn
+  quoted: rabbanā wa-laka l-ḥamd ḥamdan kathīran ṭayyiban mubārakan fīh
+  time: on rising from bowing
+- id: h-449.4-cautery
+  ref: Jāmiʿ 2:449.4
+  unit: hadith-2-angels-greet-imran-until-cautery
+  agent: the angels
+  action: greet
+  recipient: Imran b. Husayn
+  outcome: greeting stops when he is cauterized, returns when he gives it up
+- id: h-450.1-cloud
+  ref: Jāmiʿ 2:450.1
+  unit: hadith-2-voice-in-cloud-water-garden
+  agent: a voice in a cloud
+  action: orders a garden watered
+  place:
+  - desert
+  - a lava field (ḥarra)
+  quoted: isqi ḥadīqata fulān
+  outcome: he gives a third in alms, eats a third, returns a third to the land
+  number: 3 thirds
+- id: h-450.2-syria
+  ref: Jāmiʿ 2:450.2
+  unit: hadith-2-angels-wings-over-syria
+  agent: the angels of the Merciful
+  action: spread their wings
+  place: Syria
+  quoted: ṭūbā li-l-shām
+- id: h-451.1-lights
+  ref: Jāmiʿ 2:451.1
+  unit: hadith-2-angel-brings-two-lights
+  agent: an angel never come down before
+  action: brings two lights
+  place: a door of heaven opened for the first time
+  object:
+  - al-Fātiḥa
+  - the closing verses of al-Baqara
+  quoted: abshir bi-nūrayn
+- id: h-451.2-qarin
+  ref: Jāmiʿ 2:451.2
+  unit: hadith-2-companion-angel-and-jinn-at-bedtime
+  object: each person
+  quoted: qarīnuhu mina l-jinn wa-qarīnuhu mina l-malāʾika
+  number: 2
+- id: h-451.3-bed
+  ref: Jāmiʿ 2:451.3
+  unit: hadith-2-companion-angel-and-jinn-at-bedtime
+  agent:
+  - an angel
+  - a devil
+  action: race to the sleeper
+  quoted: ikhtim bi-khayr ... ikhtim bi-sharr
+  outcome: if he remembers God the angel guards him all night; if he falls from his bed and dies he enters paradise
+- id: h-452.2-intent
+  ref: Jāmiʿ 2:452.2
+  unit: hadith-2-angels-record-intentions
+  agent: God
+  action: instructs the recording angels
+  recipient: the angels
+  number:
+  - '1'
+  - '10'
+  - '700'
+  quoted: fa-ktubūhā lahu bi-ʿashri amthālihā ilā sabʿimiʾa
+  outcome: an intended evil not written until done; abandoned, written as good
+- id: h-453.1-adam
+  ref: Jāmiʿ 2:453.1
+  unit: hadith-2-angels-wash-adam-and-hanzala
+  agent: the angels
+  action: wash and bury Adam
+  instrument: water, an odd number of times
+  object: a niche grave (laḥd)
+  quoted: hādhihi sunnatu Ādam fī waladih
+- id: h-454.1-hanzala
+  ref: Jāmiʿ 2:454.1
+  unit: hadith-2-angels-wash-adam-and-hanzala
+  agent: the angels
+  action: wash the martyr
+  recipient: Hanzala
+  name:
+  - Ḥanẓala
+  - Shaddād b. al-Aswad (Ibn Shaʿūb)
+  - Abū Sufyān
+  quoted: kharaja wa-huwa junubun lammā samiʿa l-hāʾiʿa
+- id: h-455.1-trench
+  ref: Jāmiʿ 2:455.1
+  unit: hadith-2-abu-jahl-trench-of-fire
+  agent: Abu Jahl
+  action: comes to tread on the praying prophet's neck
+  quoted: inna baynī wa-baynahu la-khandaqan min nār, wa-hawlan wa-ajniḥa
+  outcome: the angels would have snatched him limb by limb
+- id: h-455.2-shade
+  ref: Jāmiʿ 2:455.2
+  unit: hadith-2-angels-shade-the-martyr
+  agent: the angels
+  action: shade the mutilated martyr with their wings
+  name: Jābir's father; Fāṭima bint ʿAmr weeps
+  place: Uhud
+  time: until he was carried off
+- id: h-456.2-host
+  ref: Jāmiʿ 2:456.2
+  unit: hadith-2-angels-bless-host-who-feeds
+  agent: the prophet
+  action: prays for his host
+  recipient: Saʿd b. ʿUbāda
+  object: bread and oil
+  quoted: afṭara ʿindakumu l-ṣāʾimūn wa-akala ṭaʿāmakumu l-abrār wa-ṣallat ʿalaykumu l-malāʾika
+- id: h-457.1-garlic
+  ref: Jāmiʿ 2:457.1
+  unit: hadith-2-angels-harmed-by-garlic-angel-on-right
+  object:
+  - onion
+  - garlic
+  - leek
+  place: the mosque
+  quoted: fa-inna l-malāʾika tataʾadhdhā mimmā yataʾadhdhā minhu banū Ādam
+- id: h-457.2-spit
+  ref: Jāmiʿ 2:457.2
+  unit: hadith-2-angels-harmed-by-garlic-angel-on-right
+  agent: the worshipper
+  action: spits
+  place:
+  - not ahead
+  - not right
+  - left or under the foot
+  quoted: fa-inna ʿan yamīnihi malakan
+  outcome: buries it
+- id: h-459.1-form
+  ref: Jāmiʿ 2:459.1
+  unit: hadith-2-gabriel-true-form
+  agent: Gabriel
+  action: seen in his created form
+  number: 2
+  quoted: sāddan ʿiẓamu khalqihi mā bayna l-samāʾi ilā l-arḍ
+- id: h-459.2-wings
+  ref: Jāmiʿ 2:459.2
+  unit: hadith-2-gabriel-true-form
+  agent: Gabriel
+  number: 600 wings
+  name: Jibrīl
+- id: h-459.3-rafraf
+  ref: Jāmiʿ 2:459.3
+  unit: hadith-2-gabriel-true-form
+  object: a green rafraf
+  outcome: filled the horizon of the sky
+  quoted: raʾā rafrafan akhḍara sadda ufuqa l-samāʾ
+- id: h-460.1-jewels
+  ref: Jāmiʿ 2:460.1
+  unit: hadith-2-gabriel-true-form
+  agent: Gabriel
+  place: the Lote-Tree of the Boundary
+  number: 600 wings
+  object:
+  - pearls
+  - rubies
+  quoted: yantathiru min rīshihi l-tahāwīl
+- id: h-461.1-kursi
+  ref: Jāmiʿ 2:461.1
+  unit: hadith-2-angel-on-throne-between-sky-and-earth
+  agent: the angel of Hira
+  action: seen seated on a throne
+  place: between heaven and earth
+  instrument: kursī
+  quoted: zammilūnī zammilūnī
+  outcome: Q 74:1-5 sent down
+- id: h-462.1-love
+  ref: Jāmiʿ 2:462.1
+  unit: hadith-2-gabriel-calls-love-in-heaven
+  agent: God
+  action: tells Gabriel he loves (hates) a servant
+  recipient: Gabriel; the people of heaven
+  outcome: acceptance (hatred) placed for him on earth
+- id: h-462.2-likeness
+  ref: Jāmiʿ 2:462.2
+  unit: hadith-2-prophets-shown-and-gabriel-like-dihya
+  name:
+  - 'Moses: men of Shanūʾa'
+  - 'Jesus: ʿUrwa b. Masʿūd'
+  - 'Abraham: the prophet himself'
+  - 'Gabriel: Diḥya b. Khalīfa'
+  action: prophets shown to him
+- id: h-463.2-bell
+  ref: Jāmiʿ 2:463.2
+  unit: hadith-2-gabriel-in-human-form
+  agent: the angel
+  action: brings revelation
+  instrument: like the ringing of a bell (ṣalṣalat al-jaras)
+  outcome: hardest on him; at other times as a man
+- id: h-463.3-stranger
+  ref: Jāmiʿ 2:463.3
+  unit: hadith-2-gabriel-in-human-form
+  agent: Gabriel
+  action: comes as a man and questions the prophet
+  quoted: shadīdu bayāḍi l-thiyāb, shadīdu sawādi l-shaʿr, lā yurā ʿalayhi atharu l-safar
+  outcome: '''he came to teach you your religion'''
+- id: h-463.4-heart
+  ref: Jāmiʿ 2:463.4
+  unit: hadith-2-gabriel-in-human-form
+  agent: Gabriel
+  action: splits the boy's chest and takes out the heart
+  time: while playing with the boys
+- id: h-464.4-visit
+  ref: Jāmiʿ 2:464.4
+  unit: hadith-2-gabriel-descends-only-by-command
+  agent: the prophet
+  action: asks Gabriel to visit more
+  quoted: wa-mā natanazzalu illā bi-amri rabbik
+  outcome: Q 19:64 sent down
+- id: h-465.1-prayer
+  ref: Jāmiʿ 2:465.1
+  unit: hadith-2-gabriel-leads-the-prayer
+  agent: Gabriel
+  action: leads the prayer
+  number: 5
+  quoted: bi-hādhā umirtu
+  name:
+  - al-Mughīra b. Shuʿba
+  - Abū Masʿūd al-Anṣārī
+  - ʿUmar b. ʿAbd al-ʿAzīz
+  - ʿUrwa
+- id: h-465.2-ramadan
+  ref: Jāmiʿ 2:465.2
+  unit: hadith-2-gabriel-studies-quran-in-ramadan
+  agent: Gabriel
+  action: studies the Quran with him
+  time: every night of Ramadan
+  quoted: ajwadu bi-l-khayri mina l-rīḥi l-mursala
+- id: h-465.3-twice
+  ref: Jāmiʿ 2:465.3
+  unit: hadith-2-gabriel-studies-quran-in-ramadan
+  agent: Gabriel
+  action: reviews the Quran with him
+  number:
+  - once a year
+  - twice in the last year
+  recipient: Fāṭima
+  outcome: she weeps, then laughs
+- id: h-466.2-ahruf
+  ref: Jāmiʿ 2:466.2
+  unit: hadith-2-seven-ahruf
+  agent: Gabriel
+  action: teaches the Quran
+  number:
+  - 1 mode
+  - 7 modes
+  quoted: fa-lam azal astazīduhu wa-yazīdunī
+- id: h-466.3-questions
+  ref: Jāmiʿ 2:466.3
+  unit: hadith-2-ibn-salam-three-questions
+  agent: ʿAbd Allāh b. Salām
+  action: asks three questions only a prophet knows
+  number: 3
+  object:
+  - 'first sign: fire driving people east to west'
+  - 'first food of paradise: lobe of fish liver'
+  - child takes after whose fluid precedes
+  quoted: dhāka ʿaduwwu l-yahūd mina l-malāʾika
+  outcome: the Jews call him best of us, then worst of us
+- id: h-467.1-jacob
+  ref: Jāmiʿ 2:467.1
+  unit: hadith-2-jews-four-questions-gabriel-guardian
+  agent: Israel (Jacob)
+  action: vows to forbid himself his dearest food and drink
+  object:
+  - camel meat
+  - camel milk
+  time: in a long severe illness
+  quoted: la-in shafāhu llāhu ... la-yuḥarrimanna aḥabba l-sharābi ilayhi wa-aḥabba l-ṭaʿāmi ilayh
+- id: h-467.1-fluids
+  ref: Jāmiʿ 2:467.1
+  unit: hadith-2-jews-four-questions-gabriel-guardian
+  object:
+  - 'man''s fluid: white, thick'
+  - 'woman''s fluid: yellow, thin'
+  quoted: fa-ayyuhumā ʿalā kāna lahu l-walad wa-l-shabah
+  outcome: male if the man's prevails, female if the woman's
+- id: h-467.1-wali
+  ref: Jāmiʿ 2:467.1
+  unit: hadith-2-jews-four-questions-gabriel-guardian
+  agent: the Jews
+  action: refuse to follow because his guardian is Gabriel
+  quoted: 'fa-inna waliyya Jibrīl ... qālū: innahu ʿaduwwunā'
+  outcome: Q 2:97 sent down
+- id: h-468.1-ruqya
+  ref: Jāmiʿ 2:468.1
+  unit: hadith-2-gabriels-charm
+  agent: Gabriel
+  action: charms the sick prophet
+  quoted: bismi llāhi yubrīk, wa-min kulli dāʾin yashfīk, wa-min sharri ḥāsidin idhā ḥasad, wa-sharri kulli dhī ʿayn
+- id: h-469.2-khadija
+  ref: Jāmiʿ 2:469.2
+  unit: hadith-2-gabriel-greets-khadija-and-aisha
+  agent: Gabriel
+  action: sends greeting from her Lord
+  recipient: Khadīja
+  object: a house in paradise of hollow pearl (qaṣab)
+  quoted: lā ṣakhaba fīhi wa-lā naṣab
+  instrument: a vessel of food or drink
+- id: h-469.4-uhud
+  ref: Jāmiʿ 2:469.4
+  unit: hadith-2-gabriel-michael-at-uhud
+  agent: two men in white
+  action: fight on the prophet's right and left
+  place: Uhud
+  name:
+  - Gabriel
+  - Michael
+  quoted: mā raʾaytuhumā qablu wa-lā baʿdu
+- id: h-470.1-arms
+  ref: Jāmiʿ 2:470.1
+  unit: hadith-2-gabriel-armed-for-qurayza
+  agent: Gabriel
+  action: tells him the angels have not laid down arms
+  time: after the Trench, as he bathed
+  place: Banū Qurayẓa
+  quoted: wa-llāhi mā waḍaʿnāh
+  outcome: dust on his head
+- id: h-470.2-dust
+  ref: Jāmiʿ 2:470.2
+  unit: hadith-2-gabriel-armed-for-qurayza
+  object: dust rising
+  place: the lane of Banū Ghanm
+  name: mawkib Jibrīl
+- id: h-471.1-thief
+  ref: Jāmiʿ 2:471.1
+  unit: hadith-2-gabriel-tidings-even-if-he-stole
+  agent: Gabriel
+  action: brings tidings
+  quoted: wa-in saraqa wa-in zanā
+  outcome: whoever dies associating nothing enters paradise
+- id: h-471.3-badr
+  ref: Jāmiʿ 2:471.3
+  unit: hadith-2-angels-at-badr
+  agent: Gabriel
+  action: holds his horse's head
+  place: Badr
+  instrument: the gear of war (adāt al-ḥarb)
+- id: h-472.2-weeps
+  ref: Jāmiʿ 2:472.2
+  unit: hadith-2-gabriel-sent-to-ask-why-he-weeps
+  agent: the prophet
+  action: raises his hands and weeps 'my community'
+  recipient: Gabriel sent to ask
+  quoted: innā sa-nurḍīka fī ummatika wa-lā nasūʾuk
+- id: h-473.1-guides
+  ref: Jāmiʿ 2:473.1
+  unit: hadith-2-malik-gabriel-michael-in-dream
+  agent: two men in a dream
+  action: take him to the holy land
+  name:
+  - Mālik, keeper of the fire
+  - Jibrīl
+  - Mīkāʾīl
+  quoted: wa-lladhī yūqidu l-nāra Mālikun khāzinu l-nār
+- id: h-473.2-israfil
+  ref: Jāmiʿ 2:473.2
+  unit: hadith-2-lord-of-gabriel-michael-israfil
+  action: opens the night prayer
+  name:
+  - Jibrīl
+  - Mīkāʾīl
+  - Isrāfīl
+  quoted: allāhumma rabba Jibrīla wa-Mīkāʾīla wa-Isrāfīl
+- id: h-474.1-choice
+  ref: Jāmiʿ 2:474.1
+  unit: hadith-2-angel-offers-king-or-servant
+  agent: an angel never come down since he was created
+  action: offers a choice
+  object:
+  - king-prophet
+  - servant-messenger
+  quoted: tawāḍaʿ li-rabbika yā Muḥammad
+  outcome: he chooses servant-messenger
+- id: h-477.1-grave
+  ref: Jāmiʿ 2:477.1
+  unit: hadith-2-munkar-and-nakir
+  agent: two black, blue angels
+  time: when the dead is buried
+  name:
+  - al-Munkar
+  - al-Nakīr
+  quoted: mā kunta taqūlu fī hādhā l-rajul?
+- id: h-477.2-safara
+  ref: Jāmiʿ 2:477.2
+  unit: hadith-2-skilled-reciter-with-noble-scribes
+  agent: the skilled reciter
+  action: is with the noble righteous scribes
+  name: al-safara al-kirām al-barara
+  outcome: the one who struggles has two rewards
+  number: 2
+- id: h-478.1-pair
+  ref: Jāmiʿ 2:478.1
+  unit: hadith-2-keepers-of-paradise
+  agent: the keepers of paradise
+  action: call
+  recipient: one who spent a pair in God's path
+  quoted: ay ful halumma
+- id: h-478.2-gate
+  ref: Jāmiʿ 2:478.2
+  unit: hadith-2-keepers-of-paradise
+  agent: the keeper of paradise
+  action: opens for the prophet
+  quoted: bika umirtu lā aftaḥu li-aḥadin qablak
+  place: the gate of paradise
+  time: resurrection day
+- id: h-478.3-night
+  ref: Jāmiʿ 2:478.3
+  unit: hadith-2-night-journey-moses-jesus-malik
+  time: the night of the journey
+  name:
+  - 'Moses: tall, brown, curly, like men of Shanūʾa'
+  - 'Jesus: medium, red and white, lank hair'
+  - Mālik keeper of the fire
+  - the Dajjal
+- id: h-479.2-moses
+  ref: Jāmiʿ 2:479.2
+  unit: hadith-2-moses-and-angel-of-death
+  agent: Moses
+  action: slaps the angel of death and puts out his eye
+  instrument: the back of an ox
+  number: a year per hair under his hand
+  quoted: rabbi amitnī mina l-arḍi l-muqaddasati ramyatan bi-ḥajar
+  place: by the road at the red dune
+- id: h-481.1-adam
+  ref: Jāmiʿ 2:481.1
+  unit: hadith-2-adam-moses-torah-by-gods-hand
+  agent:
+  - Adam
+  - Moses
+  action: dispute
+  quoted: kataba laka l-tawrāta bi-yadih
+  number: 40 years
+  outcome: Adam prevails
+- id: h-482.1-tablets
+  ref: Jāmiʿ 2:482.1
+  unit: hadith-2-report-not-like-seeing-tablets
+  agent: Moses
+  action: throws down the tablets
+  time: on seeing, not on being told
+  quoted: laysa l-khabaru ka-l-muʿāyana
+  outcome: they break
+- id: h-482.2-heraclius
+  ref: Jāmiʿ 2:482.2
+  unit: hadith-2-scripture-across-languages
+  agent: the prophet
+  action: writes
+  recipient: Heraclius, great one of the Romans
+  instrument: letter carried by Diḥya to the governor of Bostra
+  quoted: aslim taslam, yuʾtika llāhu ajraka marratayn ... ithm al-arīsiyyīn
+- id: h-483.1-stoning
+  ref: Jāmiʿ 2:483.1
+  unit: hadith-2-scripture-across-languages
+  agent: a Jew
+  action: puts his hand over the verse of stoning
+  object: the opened Torah
+  recipient: ʿAbd Allāh b. Salām says 'lift your hand'
+  quoted: nafḍaḥuhum wa-yujladūn
+  outcome: both stoned; the man bends over the woman shielding her
+- id: h-483.2-hebrew
+  ref: Jāmiʿ 2:483.2
+  unit: hadith-2-scripture-across-languages
+  agent: the People of the Book
+  action: read the Torah in Hebrew and explain it in Arabic
+  quoted: lā tuṣaddiqū ahla l-kitābi wa-lā tukadhdhibūhum
+- id: h-485.1-hira
+  ref: Jāmiʿ 2:485.1
+  unit: hadith-2-first-revelation-hira
+  agent: the angel
+  action: squeezes him
+  place: the cave of Hira
+  number: 3
+  quoted: iqraʾ - mā ana bi-qāriʾ
+  name:
+  - Khadīja
+  - Waraqa b. Nawfal
+  outcome: 'Waraqa: ''this is the nāmūs God sent down to Moses'''
+- id: h-486.2-cold
+  ref: Jāmiʿ 2:486.2
+  unit: hadith-2-first-and-last-revealed
+  agent: the prophet
+  action: looks right, left, front, behind, then up
+  place: coming down from Hira
+  quoted: daththirūnī wa-ṣubbū ʿalayya māʾan bāridan
+  outcome: Q 74:1-3 sent down
+- id: h-486.3-last
+  ref: Jāmiʿ 2:486.3
+  unit: hadith-2-first-and-last-revealed
+  object:
+  - 'last sura: Barāʾa'
+  - 'last verse: Q 4:176 (kalāla)'
+- id: h-487.1-last
+  ref: Jāmiʿ 2:487.1
+  unit: hadith-2-first-and-last-revealed
+  object: 'last revealed: Q 9:128-129'
+  agent: Ubayy b. Kaʿb
+  action: dictates to the copyists
+  time: caliphate of Abu Bakr
+- id: h-488.1-izza
+  ref: Jāmiʿ 2:488.1
+  unit: hadith-2-quran-sent-down-whole-on-laylat-al-qadr
+  object: the Quran
+  action: sent down whole
+  time: the 24th night of Ramadan
+  place: Bayt al-ʿIzza
+- id: h-489.1-stars
+  ref: Jāmiʿ 2:489.1
+  unit: hadith-2-quran-sent-down-whole-on-laylat-al-qadr
+  object: the Quran
+  place:
+  - the lowest heaven
+  - the positions of the stars (mawqiʿ al-nujūm)
+  time: the Night of Decree
+  outcome: sent down part after part
+- id: h-489.3-years
+  ref: Jāmiʿ 2:489.3
+  unit: hadith-2-length-of-revelation
+  agent: the prophet
+  number:
+  - '40'
+  - '13'
+  - '10'
+  - '63'
+  place:
+  - Mecca
+  - Medina
+- id: h-490.2-years
+  ref: Jāmiʿ 2:490.2
+  unit: hadith-2-length-of-revelation
+  number:
+  - 10 years in Mecca
+  - 10 in Medina
+- id: h-490.3-camels
+  ref: Jāmiʿ 2:490.3
+  unit: hadith-2-quran-like-hobbled-camels
+  object: the holder of the Quran
+  instrument: hobbled camels (ibil muʿaqqala)
+  quoted: in ʿāhada ʿalayhā amsakahā, wa-in aṭlaqahā dhahabat
+- id: h-491.2-codices
+  ref: Jāmiʿ 2:491.2
+  unit: hadith-2-uthmans-codices-in-quraysh-tongue
+  agent: Uthman
+  action: has the sheets copied into codices
+  recipient:
+  - Ḥafṣa
+  - every region
+  name:
+  - Ḥudhayfa
+  - Zayd b. Thābit
+  - ʿAbd Allāh b. al-Zubayr
+  - Saʿīd b. al-ʿĀṣ
+  - ʿAbd al-Raḥmān b. al-Ḥārith
+  place:
+  - Armenia
+  - Azerbaijan
+  quoted: fa-ktubūhu bi-lisāni Quraysh
+  outcome: all other copies burned
+- id: h-492.1-four
+  ref: Jāmiʿ 2:492.1
+  unit: hadith-2-the-reciters-among-companions
+  object: teachers of the Quran
+  number: 4
+  name:
+  - Ibn Masʿūd
+  - Sālim
+  - Ubayy b. Kaʿb
+  - Muʿādh b. Jabal
+- id: h-492.2-ansar
+  ref: Jāmiʿ 2:492.2
+  unit: hadith-2-the-reciters-among-companions
+  number: 4
+  name:
+  - Ubayy b. Kaʿb
+  - Muʿādh b. Jabal
+  - Zayd b. Thābit
+  - Abū Zayd
+  action: collected the Quran
+- id: h-492.5-enemy
+  ref: Jāmiʿ 2:492.5
+  unit: hadith-2-quran-etiquette-night-and-enemy-land
+  action: forbidden to travel with the Quran
+  place: enemy land
+  quoted: nahā ... an yusāfara bi-l-qurʾāni ilā arḍi l-ʿaduww
+- id: h-501.1-nations
+  ref: Jāmiʿ 2:501.1
+  unit: hadith-2-prophets-with-few-followers
+  action: nations shown to him
+  object:
+  - a prophet with a small band
+  - with one or two men
+  - with none
+- id: h-502.1-moses
+  ref: Jāmiʿ 2:502.1
+  unit: hadith-2-prophets-alive-in-graves
+  agent: Moses
+  action: prays standing in his grave
+  place: the red dune
+  time: the night journey
+- id: h-502.3-bodies
+  ref: Jāmiʿ 2:502.3
+  unit: hadith-2-prophets-alive-in-graves
+  agent: God
+  action: forbids the earth the prophets' bodies
+  time: 'Friday: Adam created and taken, the blast and the swoon'
+  quoted: inna llāha ḥarrama ʿalā l-arḍi ajsāda l-anbiyāʾ
+- id: h-504.2-adam
+  ref: Jāmiʿ 2:504.2
+  unit: hadith-2-adam-a-prophet-ten-generations
+  agent: Adam
+  name: nabiyyun mukallam
+  number: 10 generations (qurūn) to Noah
+- id: h-505.4-throne
+  ref: Jāmiʿ 2:505.4
+  unit: hadith-2-do-not-prefer-among-prophets
+  agent: Moses
+  action: holds the side (a leg) of the Throne
+  time: when all swoon at resurrection
+  quoted: fa-idhā Mūsā bāṭishun jāniba l-ʿarsh
+- id: h-505.1-jonah
+  ref: Jāmiʿ 2:505.1
+  unit: hadith-2-do-not-prefer-among-prophets
+  name: Yūnus b. Mattā
+  quoted: lā yanbaghī li-ʿabdin an yaqūla ana khayrun min Yūnus b. Mattā
+- id: h-506.1-punished
+  ref: Jāmiʿ 2:506.1
+  unit: hadith-2-severest-punishment
+  object:
+  - one a prophet killed
+  - one who killed a prophet
+  - an imam of misguidance
+  - an image-maker
+  number: 4
+  quoted: wa-mumaththilun mina l-mumaththilīn
+- id: h-507.1-write
+  ref: Jāmiʿ 2:507.1
+  unit: hadith-2-only-truth-but-worldly-opinion
+  agent: the prophet
+  action: points to his mouth
+  recipient: ʿAbd Allāh b. ʿAmr
+  quoted: uktub ... mā yakhruju minhu illā ḥaqq
+- id: h-508.1-palms
+  ref: Jāmiʿ 2:508.1
+  unit: hadith-2-only-truth-but-worldly-opinion
+  agent: the prophet
+  action: doubts pollination of the palms
+  object: date palms
+  quoted: antum aʿlamu bi-amri dunyākum
+  outcome: they stop; the crop comes out bad dates (shīṣ)
+- id: h-509.1-gates
+  ref: Jāmiʿ 2:509.1
+  unit: hadith-2-jesus-servant-word-spirit
+  object: 'Jesus: servant, messenger, word cast to Mary, spirit from him'
+  number: 8 gates
+  outcome: enters paradise by any he wishes
+- id: h-510.1-cross
+  ref: Jāmiʿ 2:510.1
+  unit: hadith-2-jesus-descends
+  agent: the son of Mary
+  action: breaks the cross, kills the swine, abolishes the jizya
+  quoted: ḥattā takūna l-sajdatu l-wāḥidatu khayran mina l-dunyā wa-mā fīhā
+- id: h-510.2-dabiq
+  ref: Jāmiʿ 2:510.2
+  unit: hadith-2-jesus-descends
+  agent: the Romans
+  place:
+  - al-Aʿmāq or Dābiq
+  - Constantinople
+  - Syria
+  number: 3 thirds
+  quoted: ʿallaqū suyūfahum bi-l-zaytūn
+  outcome: the Dajjal melts like salt; Jesus shows his blood on his spear
+- id: h-511.2-leads
+  ref: Jāmiʿ 2:511.2
+  unit: hadith-2-jesus-descends
+  agent: Jesus
+  action: leads the prayer
+  quoted: samiʿa llāhu li-man ḥamidah, qatala llāhu l-masīḥa l-dajjāl
+  number: 40 days of the Dajjal
+- id: h-512.1-forty
+  ref: Jāmiʿ 2:512.1
+  unit: hadith-2-jesus-descends
+  agent: Jesus
+  action: descends and fights for Islam
+  object:
+  - the cross
+  - the swine
+  - the jizya
+  number: 40 years
+  quoted: rajulun marbūʿun ilā l-ḥumrati wa-l-bayāḍ bayna mumaṣṣaratayn
+  outcome: dies; the Muslims pray over him
+- id: h-513.1-dajjal
+  ref: Jāmiʿ 2:513.1
+  unit: hadith-2-nawwas-dajjal-jesus-gog-magog
+  agent: the Dajjal
+  place: a pass between Syria and Iraq
+  number:
+  - 40 days
+  - a day like a year, a month, a week
+  quoted: uqdurū lahu qadrah
+  name: ʿAbd al-ʿUzzā b. Qaṭan
+- id: h-513.1-youth
+  ref: Jāmiʿ 2:513.1
+  unit: hadith-2-nawwas-dajjal-jesus-gog-magog
+  agent: the Dajjal
+  action: cuts a youth in two and calls him back
+  instrument: a sword
+  outcome: the pieces lie a target-shot apart; he comes back laughing
+- id: h-513.1-minaret
+  ref: Jāmiʿ 2:513.1
+  unit: hadith-2-nawwas-dajjal-jesus-gog-magog
+  agent: Jesus
+  action: descends
+  place:
+  - the white minaret east of Damascus
+  - gate of Ludd
+  instrument: hands on the wings of two angels
+  quoted: ka-l-jumān ka-l-luʾluʾ
+  outcome: kills the Dajjal
+- id: h-513.1-gog
+  ref: Jāmiʿ 2:513.1
+  unit: hadith-2-nawwas-dajjal-jesus-gog-magog
+  agent: Gog and Magog
+  action: drink the lake dry
+  place:
+  - Lake Tiberias
+  - al-Ṭūr
+  quoted: la-qad kāna bi-hādhihi marratan māʾ
+  outcome: killed by worms (naghaf) in their necks
+- id: h-513.1-birds
+  ref: Jāmiʿ 2:513.1
+  unit: hadith-2-nawwas-dajjal-jesus-gog-magog
+  agent: God
+  action: sends birds like the necks of Bactrian camels
+  object: the corpses
+  outcome: then rain leaves the earth like a mirror (zalafa)
+- id: h-513.1-pomegranate
+  ref: Jāmiʿ 2:513.1
+  unit: hadith-2-nawwas-dajjal-jesus-gog-magog
+  agent: a band of people
+  action: eat from one pomegranate and shade under its rind
+  object:
+  - camel's milk for a crowd
+  - cow's milk for a tribe
+  - sheep's milk for a clan
+- id: h-513.1-wind
+  ref: Jāmiʿ 2:513.1
+  unit: hadith-2-nawwas-dajjal-jesus-gog-magog
+  agent: a pleasant wind
+  action: takes believers under their armpits
+  outcome: the worst remain copulating like donkeys; on them the Hour comes
+- id: h-517.1-forty
+  ref: Jāmiʿ 2:517.1
+  unit: hadith-2-dajjal-forty-jesus-like-urwa
+  agent: Jesus, like ʿUrwa b. Masʿūd
+  action: seeks and destroys the Dajjal
+  number: forty (days, months or years)
+- id: h-518.1-west
+  ref: Jāmiʿ 2:518.1
+  unit: hadith-2-dajjal-heals-jesus-from-west
+  agent: the Dajjal
+  action: heals the blind and leper and gives life to the dead
+  quoted: ana rabbukum
+  outcome: Jesus comes from the west and kills him
+- id: h-519.1-stones
+  ref: Jāmiʿ 2:519.1
+  unit: hadith-2-jesus-prays-in-jerusalem-stones-speak
+  agent: stone and tree
+  action: call out
+  quoted: yā ʿabda llāh ... hādhā yahūdī fa-qtulh
+  outcome: Jesus prays with them; the Dajjal melts like salt
+- id: h-519.2-signs
+  ref: Jāmiʿ 2:519.2
+  unit: hadith-2-ten-signs-before-hour
+  number: 10
+  object:
+  - smoke
+  - Dajjal
+  - beast
+  - sun from the west
+  - descent of Jesus
+  - Gog and Magog
+  - 3 sinkings
+  - fire from Yemen (Aden)
+- id: h-520.2-bands
+  ref: Jāmiʿ 2:520.2
+  unit: hadith-2-two-bands-saved-from-fire
+  number: 2
+  object:
+  - a band raiding India
+  - a band with Jesus
+  outcome: guarded from the fire
+- id: h-520.3-imam
+  ref: Jāmiʿ 2:520.3
+  unit: hadith-2-jesus-declines-to-lead
+  agent: Jesus
+  action: declines to lead the prayer
+  quoted: inna baʿḍakum ʿalā baʿḍin umarāʾu takrimata llāhi hādhihi l-umma
+- id: h-521.1-dukh
+  ref: Jāmiʿ 2:521.1
+  unit: hadith-2-ibn-sayyad-not-yours-to-kill
+  agent: Ibn Ṣayyād
+  action: names the hidden thing
+  quoted: al-dukh al-dukh
+  outcome: '''if it is he, you are not his killer; his killer is Jesus'''
+- id: h-524.2-valleys
+  ref: Jāmiʿ 2:524.2
+  unit: hadith-2-dajjal-two-valleys-two-angels
+  agent: the Dajjal
+  object:
+  - 'two valleys: a paradise and a fire'
+  - two angels like two prophets
+  place:
+  - Medina refused
+  - the pass of Afīq
+  quoted: hādhihi qaryatu dhālika l-rajul
+- id: h-526.1-kaaba
+  ref: Jāmiʿ 2:526.1
+  unit: hadith-2-jesus-at-the-kaaba
+  agent: Jesus
+  place: the Kaaba by the Station
+  action: seen with hands on two men, head dripping
+- id: h-526.2-imam
+  ref: Jāmiʿ 2:526.2
+  unit: hadith-2-imam-steps-back-for-jesus
+  agent:
+  - the imam
+  - Jesus
+  action: the imam steps back; Jesus puts his hand between his shoulders
+  time: dawn prayer
+  place:
+  - Jerusalem
+  - the eastern gate of Ludd
+  number: 70,000 Jews with the Dajjal
+  quoted: illā l-gharqada fa-innahā min shajarihim
+- id: h-532.2-rawha
+  ref: Jāmiʿ 2:532.2
+  unit: hadith-2-jesus-pilgrimage-from-rawha
+  agent: the son of Mary
+  action: raises the pilgrim's cry
+  place: Fajj al-Rawḥāʾ
+  object:
+  - hajj
+  - umra
+  - both
+- id: h-533.2-grave
+  ref: Jāmiʿ 2:533.2
+  unit: hadith-2-greetings-to-jesus
+  agent: Jesus
+  action: greets at the prophet's grave
+  quoted: wa-la-yaʾtiyanna qabrī ḥattā yusallima ʿalayya
+- id: h-535.1-five
+  ref: Jāmiʿ 2:535.1
+  unit: hadith-2-given-five-not-given-before
+  number: 5
+  object:
+  - terror a month's journey
+  - earth a mosque and purifier
+  - spoils lawful
+  - sent to all people
+  - intercession
+- id: h-535.2-six
+  ref: Jāmiʿ 2:535.2
+  unit: hadith-2-given-five-not-given-before
+  number: 6
+  object:
+  - concise comprehensive words
+  - terror
+  - spoils
+  - earth
+  - sent to all creatures
+  - the seal of the prophets
+- id: h-538.1-jinn
+  ref: Jāmiʿ 2:538.1
+  unit: hadith-2-mission-to-the-jinn
+  agent: a band of jinn
+  action: hear the dawn prayer
+  place:
+  - Nakhla
+  - on the way to ʿUkāẓ
+  quoted: hādhā lladhī ḥāla baynanā wa-bayna khabari l-samāʾ
+- id: h-538.2-bone
+  ref: Jāmiʿ 2:538.2
+  unit: hadith-2-mission-to-the-jinn
+  agent: the jinn of Naṣībīn
+  object:
+  - bones
+  - dung
+  quoted: humā min ṭaʿāmi l-jinn
+- id: h-539.1-adam
+  ref: Jāmiʿ 2:539.1
+  unit: hadith-2-prophet-when-adam-between-spirit-and-body
+  quoted: wa-Ādamu bayna l-rūḥi wa-l-jasad
+  name: Maysarat al-Fajr
+- id: h-541.3-umar
+  ref: Jāmiʿ 2:541.3
+  unit: hadith-2-love-of-the-prophet
+  agent: Umar
+  action: declares the prophet dearer than himself
+  quoted: al-āna yā ʿUmar
+- id: h-542.3-tuba
+  ref: Jāmiʿ 2:542.3
+  unit: hadith-2-blessed-who-believed-unseen
+  agent: the prophet
+  action: blesses
+  number:
+  - 'once: saw and believed'
+  - 'three times: believed without seeing'
+  quoted: ṭūbā lah
+  name:
+  - Kinda
+  - Madhḥij
+- id: h-547.1-names
+  ref: Jāmiʿ 2:547.1
+  unit: hadith-2-five-names
+  number: 5
+  name:
+  - Muḥammad
+  - Aḥmad
+  - al-Māḥī
+  - al-Ḥāshir
+  - al-ʿĀqib
+- id: h-549.2-brick
+  ref: Jāmiʿ 2:549.2
+  unit: hadith-2-the-missing-brick
+  agent: a man
+  action: builds a fine house but for one brick
+  place: at a corner
+  quoted: wa-ana l-labina wa-ana khātamu l-nabiyyīn
+- id: h-551.1-aaron
+  ref: Jāmiʿ 2:551.1
+  unit: hadith-2-ali-as-aaron-to-moses
+  agent: the prophet
+  action: leaves Ali behind with women and children
+  place: Tabūk
+  quoted: bi-manzilati Hārūna min Mūsā, ghayra annahu lā nabiyya baʿdī
+- id: h-553.1-seal
+  ref: Jāmiʿ 2:553.1
+  unit: hadith-2-seal-of-prophethood
+  object: the seal of prophethood
+  place: between his shoulders
+  instrument: like the button of a bridal canopy (zirr al-ḥajala)
+- id: h-553.2-egg
+  ref: Jāmiʿ 2:553.2
+  unit: hadith-2-seal-of-prophethood
+  object: the seal
+  instrument: like a pigeon's egg
+- id: h-554.1-moles
+  ref: Jāmiʿ 2:554.1
+  unit: hadith-2-seal-of-prophethood
+  object: the seal
+  place: at the top of the left shoulder
+  quoted: jumʿan ʿalayhi khīlānun ka-amthāli l-thaʾālīl
+- id: h-555.1-hair
+  ref: Jāmiʿ 2:555.1
+  unit: hadith-2-seal-of-prophethood
+  object: the seal
+  quoted: shaʿrun mujtamiʿun ʿalā katifih
+- id: h-555.2-salman
+  ref: Jāmiʿ 2:555.2
+  unit: hadith-2-seal-of-prophethood
+  agent: Salmān
+  action: looks at the seal and believes
+  place: Medina
+- id: h-556.2-throne
+  ref: Jāmiʿ 2:556.2
+  unit: hadith-2-seal-of-prophethood
+  object: the Throne of the Merciful
+  action: shook
+  time: the day Saʿd b. Muʿādh died
+- id: h-557.2-bowing
+  ref: Jāmiʿ 2:557.2
+  unit: hadith-2-only-good-tidings-remain
+  agent: the prophet
+  action: lifts the curtain on the rows behind Abu Bakr
+  quoted: nuhītu an aqraʾa l-qurʾāna rākiʿan aw sājidan
+  outcome: magnify the Lord in bowing, pray in prostration

@@ -1,0 +1,1619 @@
+# Hadith chunk 25: al-Jāmiʿ al-Kāmil book 2 (kitāb al-īmān), pp. 678-784 (printed 1/679-781, then the title pages of vol. 2):
+# the last bābs on the bridge, intercession and the end (vision of God, the last man to enter paradise, the wind that
+# takes the believers, the century), then the whole cycle on decree (qadar, bābs 1-46): the pen, the embryo, the
+# two handfuls, Adam and Moses, Adam and David, fitra, the children of polytheists, withdrawal. Read in full from
+# the Arabic (136 hadith).
+new_motifs:
+  seed-by-stone-yellow-green-by-shade-white:
+    label: 'The sprouting seed: the side toward the sun comes up yellowish and greenish, the side in the shade white; the hearers say ''as if you herded in the desert'''
+    cluster: eschatology
+  laughter-chain-narrator-prophet-lord:
+    label: 'The narrator laughs and asks ''will you not ask why I laugh?'': so the Prophet laughed, at the laughter of the Lord of the worlds'
+    cluster: eschatology
+  abraham-was-a-friend-from-behind-behind:
+    label: 'Abraham declines to open paradise: ''I was only a friend (khalīl) from behind, behind'''
+    cluster: abraham
+  last-on-the-bridge-only-crawls:
+    label: On the bridge deeds fail until a man comes who can only go crawling (zaḥfan)
+    cluster: eschatology
+  lord-appears-laughing:
+    label: Asked to show himself, the Lord manifests himself to them laughing (yatajallā lahum yaḍḥak)
+    cluster: eschatology
+  hypocrites-light-put-out-on-bridge:
+    label: Every person, hypocrite or believer, is given a light; on the bridge the hypocrite's light is put out
+    cluster: eschatology
+  paradise-people-sprinkle-water-on-the-rescued:
+    label: The rescued are placed in the courtyard of paradise and its people sprinkle water on them until they sprout
+    cluster: eschatology
+  last-man-given-world-and-ten-like-it:
+    label: The last rescued man asks until he is given the world and ten times its like
+    cluster: eschatology
+  water-of-life-is-washing-of-paradise-people:
+    label: '''What is the (water of) life?'' ''The washing-water of the people of paradise'''
+    cluster: eschatology
+  called-by-the-name-his-family-gave:
+    label: A Jewish scholar greets 'Muḥammad' and is pushed; he calls him by the name his family gave; 'my name is Muḥammad, which my family gave me'
+    cluster: sira
+  hundred-years-ease-of-the-community:
+    label: 'ʿAlī corrects the report of the hundred years: none alive today remains, ''and the ease of this community is after a hundred years'''
+    cluster: eschatology
+  barred-from-paradise-undutiful-drinker-denier:
+    label: 'Barred from paradise: one undutiful to parents, the addicted wine-drinker, and the denier of decree'
+    cluster: ethics
+  faith-requires-four-beliefs:
+    label: 'No servant believes until he believes four: the witness to God and his messenger, death, resurrection after death, and decree'
+    cluster: theology
+  evil-eye-would-outstrip-decree:
+    label: The evil eye is real; were anything to outstrip decree the eye would outstrip it
+    cluster: magic
+  wash-when-asked-for-eye-cure:
+    label: When asked to wash (for one struck by the evil eye), wash
+    cluster: magic
+  dying-father-charges-son-with-decree:
+    label: 'A dying Companion charges his son: you will not taste faith until you know what struck you could not miss you; ''whoever dies on other than this is not of me'''
+    cluster: ethics
+  first-to-speak-on-decree-at-basra:
+    label: The first to speak on decree at Basra was Maʿbad al-Juhanī; two pilgrims flank Ibn ʿUmar in the mosque to ask, and he disowns the deniers
+    cluster: sira
+  face-red-as-if-pomegranate-seeds-burst:
+    label: Finding his Companions disputing about decree he comes out so angry that it is as if pomegranate seeds were burst on his face
+    cluster: sira
+  striking-scripture-parts-against-each-other:
+    label: '''Is it for this you were created, striking the Quran one part against another? By this the nations before you perished'''
+    cluster: scripture
+  talk-of-decree-deferred-to-worst:
+    label: Talk about decree has been deferred for the worst of this community
+    cluster: eschatology
+  cubit-from-goal-the-book-overtakes:
+    label: A man works until only a cubit lies between him and paradise (or the fire), then what was written overtakes him and he does the work of the other
+    cluster: theology
+  wretched-is-who-was-wretched-in-mothers-womb:
+    label: The wretched is he who was wretched in his mother's womb; the happy he who was admonished by another's example
+    cluster: theology
+  angel-shapes-drop-after-forty-two-nights:
+    label: When forty-two nights have passed over the drop God sends an angel who shapes it and creates its hearing, sight, skin, flesh and bones
+    cluster: embryology
+  embryo-sound-or-unsound-asked:
+    label: 'The angel asks: male or female? sound or unsound (sawiyy aw ghayr sawiyy)? and God makes it so'
+    cluster: embryology
+  embryo-scrolls-folded-nothing-added:
+    label: The angel's scroll goes out in his hand and is folded; nothing is added or taken away
+    cluster: embryology
+  written-between-eyes-what-he-will-meet:
+    label: Between the newborn's eyes is written what it will meet, down to the misfortune that befalls it
+    cluster: embryology
+  companion-tests-students-mind:
+    label: A Companion poses a hard question ('would that not be injustice?') only 'to weigh your mind'
+    cluster: wisdom
+  soul-dies-only-after-completing-provision:
+    label: 'No soul dies until it has received all its provision, however slow: ''be moderate in seeking'''
+    cluster: providence
+  what-infected-the-first:
+    label: '''Nothing infects anything'': to the bedouin whose mangy camel spreads scab, ''what infected the first?''; no contagion, no ṣafar, no hāma'
+    cluster: providence
+  god-finished-five-for-each-servant:
+    label: 'God has finished for every servant five things: his provision, term, deed, trace and resting place (or wretched or happy)'
+    cluster: providence
+  stray-date-would-have-come-to-you:
+    label: 'Giving a stray date to a beggar: ''had you not come to it, it would have come to you'''
+    cluster: providence
+  medicine-and-spells-are-decree:
+    label: Medicine, spells and precautions do not turn back decree; they are themselves of God's decree
+    cluster: providence
+  vow-extracts-from-the-miser:
+    label: A vow brings nothing not decreed; by it something is extracted from the miser
+    cluster: law
+  only-prayer-repels-decree-only-piety-lengthens-life:
+    label: Nothing repels decree but prayer, nothing increases life but devotion (birr); a man is denied provision for a sin he commits
+    cluster: providence
+  fleeing-from-decree-to-decree:
+    label: '''Fleeing from God''s decree?'' ''From God''s decree to God''s decree'': grazing the fertile or the barren slope of a valley is both by decree'
+    cluster: providence
+  caliph-consults-three-groups-on-plague:
+    label: At Sargh ʿUmar consults the first emigrants, then the helpers, who both divide, then the elders of Quraysh, who agree to turn back
+    cluster: sira
+  boy-killed-by-khidr-stamped-unbeliever:
+    label: The boy al-Khaḍir killed was stamped an unbeliever; had he lived he would have burdened his parents with transgression and unbelief
+    cluster: moses-khidr
+  white-progeny-right-shoulder-black-left:
+    label: 'God strikes Adam''s right shoulder and brings out white offspring like small ants, his left and brings out black like charcoal: ''to paradise, I do not care; to the fire, I do not care'''
+    cluster: primeval
+  two-handfuls-this-for-this-i-do-not-care:
+    label: 'God took a handful with his right hand and another with the other: ''this for this, this for this, and I do not care''; a dying Companion weeps not knowing which handful he is in'
+    cluster: primeval
+  trim-moustache-and-keep-it-till-you-meet-me:
+    label: '''Take from your moustache, then keep to it until you meet me'' as a promise the dying Companion is reminded of'
+    cluster: sira
+  deeds-judged-by-their-endings:
+    label: 'A man does the work of paradise for a long time and his work is sealed with that of the fire, and the reverse: deeds are by their endings'
+    cluster: theology
+  bilal-proclaims-only-muslim-soul-enters:
+    label: 'Bilāl is told to call out: none enters paradise but a Muslim soul, and God supports this religion by the wicked man'
+    cluster: sira
+  road-of-paradise-presents-itself:
+    label: A highway (jādda) of the highways of paradise (or of the fire) presents itself to a man and he follows it until he dies, by what was written
+    cluster: theology
+  deeds-like-vessel-good-top-good-bottom:
+    label: 'Deeds are by their endings, like a vessel: if its top is good its bottom is good (printed ''ka-l-duʿāʾ'')'
+    cluster: wisdom
+  four-kinds-born-lived-died:
+    label: 'Men are created in classes: born, living and dying a believer; or unbeliever; or born and living a believer and dying an unbeliever; or the reverse'
+    cluster: theology
+  god-employs-servant-in-good-before-death:
+    label: 'When God wants good for a servant he ''employs'' (or ''honeys'': ʿasalahu) him: he grants him a good deed before death and takes him on it'
+    cluster: theology
+  islam-enters-houses-then-trials-like-canopies:
+    label: Islam enters every household of Arabs or non-Arabs God wants good for; then trials fall like canopies and you become black snakes pouring down, striking each other's necks
+    cluster: eschatology
+  moses-asks-to-be-shown-adam:
+    label: 'Moses asks: Lord, show us Adam who brought us and himself out of the garden; God shows him Adam and they dispute'
+    cluster: primeval
+  adam-forgot-so-his-offspring-forget:
+    label: Adam denied, so his offspring deny; he forgot, so they forget; he erred, so they err
+    cluster: primeval
+  writing-and-witnesses-commanded-from-adams-denial:
+    label: From the day Adam denied his gift, writing and witnesses were commanded
+    cluster: law
+  woman-not-to-seek-sisters-divorce:
+    label: 'A woman must not ask for her sister''s divorce to empty her bowl and marry: she has only what was decreed for her'
+    cluster: law
+  bird-omens-run-by-decree-good-omen-liked:
+    label: '''Birds (omens) run by decree''; and he liked the good omen (al-faʾl)'
+    cluster: magic
+  child-killed-in-night-raid-is-of-them:
+    label: 'Asked about women and children struck in a night raid on polytheists: ''they are of them'' (of their fathers)'
+    cluster: warfare
+  god-knows-what-they-would-have-done:
+    label: 'Of children who die young (of polytheists or believers): ''God knows best what they would have done'''
+    cluster: eschatology
+  ibn-abbas-gave-up-his-view-on-children:
+    label: Ibn ʿAbbās held the children of each side go with their parents until he heard the Prophet's answer, met the man and held back from his view
+    cluster: sira
+  boy-fallen-from-litter-answers-question-on-lahin:
+    label: Asked about 'al-lāhīn' he is silent; after the raid he sees a boy fallen from a litter digging in the ground, calls the questioner and forbids killing children
+    cluster: warfare
+  dead-children-little-creatures-of-paradise:
+    label: Dead children are the little water-creatures (daʿāmīṣ) of paradise; one takes his father's garment-hem as I take yours and does not let go until he enters with him
+    cluster: eschatology
+  abraham-and-sarah-foster-muslim-children:
+    label: The children of Muslims are in a mountain in paradise fostered by Abraham and Sarah, handed to their fathers on the day of resurrection
+    cluster: abraham
+  strong-believer-better-and-if-opens-satans-work:
+    label: The strong believer is better and dearer to God than the weak; strive, seek God's help, do not say 'if only I had done...', for 'if' opens Satan's work
+    cluster: ethics
+  rank-reached-by-trials:
+    label: A man may have a rank with God he cannot reach by deeds; God keeps trying him with what he dislikes until he reaches it
+    cluster: providence
+  slave-girl-conceives-despite-withdrawal:
+    label: 'A man withdraws from his slave-girl, ''our servant and water-carrier''; she conceives: ''I told you what was decreed for her would come'''
+    cluster: law
+  seed-poured-on-rock-would-yield-child:
+    label: Were the water from which the child comes poured on a rock, God would bring a child out of it
+    cluster: embryology
+  youth-asks-leave-to-castrate-pen-has-dried:
+    label: 'A young man fearing sin, with nothing to marry on, asks three times to castrate himself: ''the pen has dried on what you will meet; castrate on that or leave it'''
+    cluster: law
+  god-just-if-he-punished-all:
+    label: Were God to punish all the people of his heavens and earth he would punish them without wronging them; were he to show mercy, his mercy would be better for them than their deeds
+    cluster: theology
+  decree-already-passed-not-begun-anew:
+    label: '''Is what we do something already finished or something begun anew (unuf, nastaʾnif)?'' ''Already finished'''
+    cluster: theology
+  refuge-from-fire-and-grave-better-than-long-life:
+    label: Praying for long life with loved ones is praying for fixed terms; asking refuge from the fire or the grave's punishment would have been better
+    cluster: piety
+  torah-written-by-gods-hand-for-moses:
+    label: 'Adam to Moses: God chose you for his speech and wrote (the Torah) for you with his hand'
+    cluster: exodus
+  children-follow-fathers-without-deeds-asked:
+    label: '''The children of believers?'' ''From their fathers.'' ''Without deeds?'' ''God knows best what they would have done''; the same for the children of polytheists'
+    cluster: eschatology
+units:
+- id: hadith-2-vision-bridge-abu-said
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abū Saʿīd's long report of the vision of God, the bridge and the rescue from the fire
+  read:
+  - Jāmiʿ 2:679.1
+  quran:
+  - '4:40'
+  - '68:42'
+  tags:
+  - motif: see-lord-as-full-moon-and-sun
+    refs:
+    - Jāmiʿ 2:679.1
+    note: هل تُضارُّونَ في رؤية الشّمس بالظّهيرة صَحْوًا ... وهل تُضارُّونَ في رؤية القمر ليلة البدر
+  - motif: each-community-follows-what-it-worshipped
+    refs:
+    - Jāmiʿ 2:679.1
+    note: 'أَذَّنَ مُؤَذِّنٌ: لِيَتَّبِعْ كلُّ أُمَّةٍ ما كانت تعبُدُ ... من الأصنامِ والأنصاب إِلَّا يتساقطون في النّار'
+  - motif: jews-and-christians-thirsty-led-to-fire-like-mirage
+    refs:
+    - Jāmiʿ 2:679.1
+    note: كنّا نعبد عزيزَ ابن اللَّه ... كُنّا نعبد المسيحَ ابن اللَّه ... عَطِشْنا يا ربَّنا فاسْقِنا ... كأنّها سرابٌ يَحْطِمُ بعضُها بعضًا
+  - motif: god-comes-in-unknown-form-then-known-form
+    refs:
+    - Jāmiʿ 2:679.1
+    note: أتاهم ربُّ العالمين في أدنى صورة من التي رأوه فيها ... وقد تَحَوَّل في صورته التي رأوه فيها أَوَّل مرّة
+  - motif: shin-uncovered-back-becomes-one-plate
+    refs:
+    - Jāmiʿ 2:679.1
+    note: فَيُكشفُ عن ساقٍ ... جعل اللَّهُ ظهرَه طبقةً واحدةً كلّما أراد أن يسجد خَرَّ على قفاهُ
+  - motif: bridge-slippery-with-hooks-and-sadan-thorns
+    refs:
+    - Jāmiʿ 2:679.1
+    note: 'دَحْضٌ مَزِلَّةٌ، فيه خَطَاطِيُف وكلالِيبُ وَحَسَكٌ، تكونُ بنجدٍ فيها شُوَيْكةٌ يقال: لها السَّعْدانُ'
+  - motif: crossing-bridge-by-speed-of-deeds
+    refs:
+    - Jāmiʿ 2:679.1
+    note: فيمر المؤمنون كطَرْف العين وكالبرق وكالريح وكالطير وكأجاويد الخيل والرِّكاب
+  - motif: believers-retrieve-brothers-by-dinar-half-dinar-atom
+    refs:
+    - Jāmiʿ 2:679.1
+    note: مثقالَ دينار ... مثقالَ نصف دينار ... مثقالَ ذرة من خير فأخرجوه
+  - motif: angels-prophets-martyrs-intercede-in-rounds
+    refs:
+    - Jāmiʿ 2:679.1
+    note: شفعت الملائكةُ، وشفع النّبيون، وشفع المؤمنون، ولم يبق إلا أرحم الرّاحمين
+  - motif: most-merciful-takes-handful-of-never-good-from-fire
+    refs:
+    - Jāmiʿ 2:679.1
+    note: فيقبض قبضةً من النّار، فيُخرجُ منها قومًا لم يعملوا خيرًا قطّ قد عادوا حُمَمًا
+  - motif: sinners-made-charcoal-then-sprout-by-river
+    refs:
+    - Jāmiʿ 2:679.1
+    note: 'فيُلْقيهم في نَهر في أفواه الجنّة يقال له: نهر الحياة، فيخرُجُون كما تَخْرُجُ الْحِبَّة في حَمِيل السَّيْل'
+  - motif: seed-by-stone-yellow-green-by-shade-white
+    refs:
+    - Jāmiʿ 2:679.1
+    note: ما يكون إلى الشّمس أُصَيْفِرُ وأُخَيْضِرُ، وما يكون منها إلى الظل يكون أبيض ... كأنّك كنت ترعى بالبادية
+  - motif: freed-of-god-with-seals-on-necks
+    refs:
+    - Jāmiʿ 2:679.1
+    note: فيخرجون كاللؤلؤ في رقابهم الخواتم ... هؤلاء عتقاء اللَّه
+  - motif: i-make-my-pleasure-alight-on-you
+    refs:
+    - Jāmiʿ 2:679.1
+    note: رِضايَ فلا أسخطُ عليكم بعده أبدًا
+  hints:
+  - Jews told to follow what they worshipped answer 'ʿUzayr son of God' and are led thirsty to a mirage, against the Quran's own charge at Q 9:30 and, on the Jewish side, the absence of any Ezra-sonship claim; Ezra exalted as a second Moses in t. Sanhedrin 4:7 and 4 Ezra 14
+- id: hadith-2-last-man-ibn-masud
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The last to enter paradise, three trees, and the chain of laughter (Ibn Masʿūd)
+  read:
+  - Jāmiʿ 2:682.1
+  tags:
+  - motif: last-man-out-stumbles-and-is-scorched
+    refs:
+    - Jāmiʿ 2:682.1
+    note: فهو يمشي مرّة ويكبو مرّة، وتَسْفَعُه النّار مرّة
+  - motif: last-man-brought-near-three-trees-god-excuses-him
+    refs:
+    - Jāmiʿ 2:682.1
+    note: فَتُرْفَعُ له شَجَرةٌ ... وربُّه يُعذِرُه لأنه يرى ما لا صبر له عليه ... شجرة هي عند باب الجنّة هي أحسن من الأولَيَيْن
+  - motif: what-will-end-your-asking-the-world-and-its-like
+    refs:
+    - Jāmiʿ 2:682.1
+    note: ما يَصْرِيني منك؟ أيُرْضِيكَ أن أعطيك الدُّنيا ومثْلَها معها
+  - motif: god-laughs-at-last-man-and-lets-him-in
+    refs:
+    - Jāmiʿ 2:682.1
+    note: أتستهزئ مني وأنتَ ربُّ العالمين ... إنّي لا أستهزئُ منك، ولكنّي على ما أشاء قدير
+  - motif: laughter-chain-narrator-prophet-lord
+    refs:
+    - Jāmiʿ 2:682.1
+    note: 'فضحك ابنُ مسعود فقال: ألا تسألوني مم أضحك؟ ... هكذا ضحك رسول اللَّه ﷺ ... من ضحك ربّ العالمين'
+- id: hadith-2-intercession-trust-kinship-bridge
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Adam, Abraham, Moses and Jesus decline to open paradise; trust and kinship flank the bridge
+  read:
+  - Jāmiʿ 2:683.1
+  tags:
+  - motif: intercession-chain-adam-to-muhammad
+    refs:
+    - Jāmiʿ 2:683.1
+    note: فيأتون آدم ... إبراهيم خليل اللَّه ... موسى الذي كلّمه اللَّه تكليمًا ... عيسى كَلِمةِ اللَّه وروحه ... فيأتون محمّدًا فيقوم فيؤذن له (no Noah in this chain)
+  - motif: prophets-decline-intercession-citing-a-fault
+    refs:
+    - Jāmiʿ 2:683.1
+    note: وهل أَخْرجَكُم من الجنّة إلّا خطيئة أبيكم آدم؟ ! لستُ بصاحب ذلك
+  - motif: abraham-was-a-friend-from-behind-behind
+    refs:
+    - Jāmiʿ 2:683.1
+    note: لستُ بصاحب ذلك، إنما كنت خليلا من وراء وراء
+  - motif: trust-and-kinship-stand-at-sides-of-bridge
+    refs:
+    - Jāmiʿ 2:683.1
+    note: وترسل الأمانةُ والرَّحم، فتقومان جَنَبَتَيْ الصِّراط يمينًا وشمالًا
+  - motif: crossing-bridge-by-speed-of-deeds
+    refs:
+    - Jāmiʿ 2:683.1
+    note: كالبرق ... يمر ويرجع في طرفة عين؟ ثم كمرّ الرّيح، ثم كمرّ الطّير وشدّ الرّجال، تجري بهم أعمالهم
+  - motif: messengers-cry-grant-safety-on-bridge
+    refs:
+    - Jāmiʿ 2:683.1
+    note: 'ونبيُّكم قائمٌ على الصِّراط يقول: ربِّ سَلِّم سَلِّم'
+  - motif: last-on-the-bridge-only-crawls
+    refs:
+    - Jāmiʿ 2:683.1
+    note: حتّى تَعْجِز أعمالُ العباد حتى يجيء الرَّجُل فلا يستطيعُ السَّيْر إلّا زَحْفًا
+  - motif: bridge-slippery-with-hooks-and-sadan-thorns
+    refs:
+    - Jāmiʿ 2:683.1
+    note: وفي حافتي الصِّراط كلاليب مُعَلَّقة مأمورةٌ بأخذ مَنْ أُمِرتْ به
+  - motif: depth-of-hell-seventy-autumns
+    refs:
+    - Jāmiʿ 2:683.1
+    note: إن قعر جهنّم لسبعون خريفًا
+- id: hadith-2-wurud-jabir
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Jābir on al-wurūd; the Lord appears laughing; the hypocrite's light put out
+  read:
+  - Jāmiʿ 2:683.2
+  quran:
+  - 19:71
+  tags:
+  - motif: each-community-follows-what-it-worshipped
+    refs:
+    - Jāmiʿ 2:683.2
+    note: فتُدعى الأمم بأوثانها وما كانت تعبد، الأوّل فالأوّل
+  - motif: lord-appears-laughing
+    refs:
+    - Jāmiʿ 2:683.2
+    note: 'فيقولون: حتى ننظر إليك، فيتجلّى لهم يَضْحَك'
+  - motif: hypocrites-light-put-out-on-bridge
+    refs:
+    - Jāmiʿ 2:683.2
+    note: ويُعطى كلُّ إنسان منافق أو مؤمن نورًا ... ثم يُطْفأ نورُ المنافق
+  - motif: first-band-faces-like-full-moon
+    refs:
+    - Jāmiʿ 2:683.2
+    note: فتنجو أوّل زمرة، وجوههم كالقمر ليلة البدْر ... ثم الذين يلونهم كأضوإ نجم في السماء
+  - motif: seventy-thousand-without-reckoning
+    refs:
+    - Jāmiʿ 2:683.2
+    note: سبعون ألفًا لا يُحاسبون
+  - motif: taken-from-fire-with-grain-of-faith
+    refs:
+    - Jāmiʿ 2:683.2
+    note: وكان في قلبه من الخير ما يزنُ شعيرةً
+  - motif: paradise-people-sprinkle-water-on-the-rescued
+    refs:
+    - Jāmiʿ 2:683.2
+    note: فيجعلون بفناء أهل الجنّة، ويجعلُ أهل الجنّة يرُشّون عليهم الماء، حتّى ينْبُتُوا
+  - motif: last-man-given-world-and-ten-like-it
+    refs:
+    - Jāmiʿ 2:683.2
+    note: ثم يسألُ حتّى يُجعلَ له الدّنيا وعشرةُ أمثالها معها
+- id: hadith-2-on-the-bridge-earth-changed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: ʿĀʾisha asks where people will be when the earth is changed - on the bridge
+  read:
+  - Jāmiʿ 2:684.1
+  quran:
+  - '14:48'
+  tags:
+  - motif: people-on-the-bridge-when-earth-changed
+    refs:
+    - Jāmiʿ 2:684.1
+    note: 'يَوْمَ تُبَدَّلُ الْأَرْضُ غَيْرَ الْأَرْضِ ... فأين يكون النّاس يومئذ؟ فقال: على الصراط'
+- id: hadith-2-fire-to-the-neck-water-of-life
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Believers miss those who prayed with them; the fire has taken each to his feet, shins, knees, waist, chest or neck
+  read:
+  - Jāmiʿ 2:684.2
+  tags:
+  - motif: bridge-slippery-with-hooks-and-sadan-thorns
+    refs:
+    - Jāmiʿ 2:684.2
+    note: يُوضَعُ الصِّراط بين ظَهْرَي جَهَنَّمَ، عليه حَسَكٌ كحَسَكِ السَّعْدان
+  - motif: believers-retrieve-brothers-by-dinar-half-dinar-atom
+    refs:
+    - Jāmiʿ 2:684.2
+    note: 'يفقدُ المؤمنون رجالًا كانوا معهم في الدُّنيا يُصَلُّون بصلاتهم ... فيقول: اذهبوا إلى النّار فمن وجدتم فيها منهم فأخرجوه'
+  - motif: fire-takes-each-to-ankles-knees-waist-collarbone
+    refs:
+    - Jāmiʿ 2:684.2
+    note: إلى قَدميه ... إلى نصف ساقيه ... إلى ركبتيه ... أَزَّرَتْه ... إلى ثدييه ... إلى عنقه، ولم تغشَ الوجُوه
+  - motif: water-of-life-is-washing-of-paradise-people
+    refs:
+    - Jāmiʿ 2:684.2
+    note: 'فَيُطرحون في ماء الحياة. قيل: وما الحياة؟ قال: غُسْلُ أهل الجنّة'
+  - motif: sinners-made-charcoal-then-sprout-by-river
+    refs:
+    - Jāmiʿ 2:684.2
+    note: فينبتون نبات الزّرعة ... كما تنبت الزرعة في غثاء السّيل
+  - motif: taken-from-fire-with-grain-of-faith
+    refs:
+    - Jāmiʿ 2:684.2
+    note: فما يترك فيها عبدًا في قلبه مثقالُ حَبَّةٍ من إيمان إلا أخرجه
+- id: hadith-2-rabbi-questions-thawban
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A Jewish scholar's questions - darkness before the bridge, poor emigrants first, fish liver, the ox of paradise, Salsabīl
+  read:
+  - Jāmiʿ 2:685.1
+  quran:
+  - '14:48'
+  tags:
+  - motif: called-by-the-name-his-family-gave
+    refs:
+    - Jāmiʿ 2:685.1
+    note: السّلام عليك يا محمّد! فدفعتُه ... إنّما ندعوه باسمه الذي سمّاه به أهلُه ... إنّ اسمي محمّد الذي سمّاني به أهلي
+  - motif: rabbis-questions-darkness-fish-liver-ox
+    refs:
+    - Jāmiʿ 2:685.1
+    note: 'فَنَكَتَ رسولُ اللَّه ﷺ بعُودٍ معه فقال: سَلْ ... قال: صدقت'
+  - motif: people-in-darkness-below-the-bridge-when-earth-is-changed
+    refs:
+    - Jāmiʿ 2:685.1
+    note: هم في الظُّلْمة دون الجسر
+  - motif: poor-emigrants-cross-first
+    refs:
+    - Jāmiʿ 2:685.1
+    note: 'فمن أوّل النّاس إجازةً؟ قال: فقراء المهاجرين'
+  - motif: first-food-of-paradise-fish-liver-lobe
+    refs:
+    - Jāmiʿ 2:685.1
+    note: 'فما تحفتهم حين يدخلون الجنّة؟ قال: زيادة كبدِ النُّون'
+  - motif: ox-of-paradise-slaughtered-for-the-blessed
+    refs:
+    - Jāmiʿ 2:685.1
+    note: يُنحر لهم ثورُ الجنّة الذي كان يأكل من أطرافها
+  - motif: spring-salsabil-drink-of-paradise
+    refs:
+    - Jāmiʿ 2:685.1
+    note: من عين فيها تُسمّى سلسبيلًا
+  hints:
+  - The fish's liver-lobe and the ox that grazed the edges of paradise served to the blessed, against the rabbinic banquet of Leviathan and the wild ox (shor ha-bar, Behemoth) for the righteous, b. Bava Batra 74b-75a, and Behemoth grazing the mountains, Job 40:15-20
+- id: hadith-2-wind-takes-believers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A wind from Yemen (or Syria) takes every believer; the Hour only on the worst; none says 'Allāh, Allāh'
+  read:
+  - Jāmiʿ 2:686.1-686.3
+  tags:
+  - motif: yemen-wind-softer-than-silk
+    refs:
+    - Jāmiʿ 2:686.1
+    note: 'إنّ اللَّه يبعث ريحًا من اليمن، ألين من الحرير ... مثقال حبّة -وفي رواية: مثقال ذرة- من إيمان إلّا قبضتْه'
+  - motif: cold-wind-from-syria-takes-every-believer
+    refs:
+    - Jāmiʿ 2:686.2
+    note: ريحًا باردة من قبل الشام ... حتى لو أن أحدكم دخل في كبد جبل لدخلته عليه
+  - motif: worst-left-light-as-birds-minds-of-beasts-told-to-worship-idols
+    refs:
+    - Jāmiʿ 2:686.2
+    note: فيبقى شرار النّاس في خفّةِ الطير، وأحلام السباع ... فيتمثل لهم الشيطان ... فيأمرهم بعبادة الأوثان
+  - motif: no-one-says-allah-allah
+    refs:
+    - Jāmiʿ 2:686.3
+    note: 'لا تقومُ السّاعةُ حتّى لا يقال في الأرض: اللَّه، اللَّه'
+- id: hadith-2-century-none-remain
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The Hour's knowledge is with God; no soul living today will reach a hundred years
+  read:
+  - Jāmiʿ 2:687.1-687.3
+  tags:
+  - motif: none-now-living-survives-a-century
+    refs:
+    - Jāmiʿ 2:687.1
+    - Jāmiʿ 2:687.2
+    - Jāmiʿ 2:687.3
+    note: قبل أن يموت بشهر ... ما على الأرض من نفس منفوسة يأتي عليها مائة سنة; لما رجع النبيّ ﷺ من تبوك; وعلى الأرض عينٌ تَطرف ممّن هو حيّ اليوم
+  - motif: hundred-years-ease-of-the-community
+    refs:
+    - Jāmiʿ 2:687.3
+    note: أنت الذي تقول ... إنّما قال رسول اللَّه ﷺ ... ممّن هو حيّ اليوم، واللَّهِ إنّ رخاء هذه الأمّة بعد مائة عام
+- id: hadith-2-raised-on-what-he-died-on
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Each servant raised on what he died on; die thinking well of God
+  read:
+  - Jāmiʿ 2:687.4-688.4
+  tags:
+  - motif: punishment-strikes-all-then-raised-by-deeds
+    refs:
+    - Jāmiʿ 2:687.4
+    note: إذا أنزل اللَّه بقوم عذابًا، أصاب العذاب من كان فيهم، ثم بُعثوا على أعمالهم
+  - motif: die-thinking-well-of-god
+    refs:
+    - Jāmiʿ 2:688.1
+    note: قبل وفاته بثلاث ... لا يموتنَّ أحدكم إلّا وهو يحسنُ باللَّه الظَّنَّ
+  - motif: each-raised-on-state-he-died-in
+    refs:
+    - Jāmiʿ 2:688.2
+    - Jāmiʿ 2:688.3
+    - Jāmiʿ 2:688.4
+    note: يُبعثُ كلُّ عبد على ما مات عليه; من مات على مرتبة من هذه المراتب بُعث عليها; المؤمن على إيمانه، والمنافق على نفاقه
+- id: hadith-2-faith-in-all-of-decree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '"Ask me": a man sits at his knees and asks of islām and īmān, which includes decree in full (bāb on Q 57:22, 33:38)'
+  read:
+  - Jāmiʿ 2:690.1
+  quran:
+  - '57:22'
+  - '33:38'
+  tags:
+  - motif: gabriel-in-human-form-teaches-faith
+    refs:
+    - Jāmiʿ 2:690.1
+    note: سلوني. فهابوه أن يسألوه، فجاء رجل فجلس عند ركبتيه ... وتؤمن بالقدر كلّه
+- id: hadith-2-ibn-daylami-four-companions
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn al-Daylamī's doubt answered by Ubayy, Ibn Masʿūd, Ḥudhayfa and Zayd b. Thābit
+  read:
+  - Jāmiʿ 2:691.1
+  quran:
+  - '57:22'
+  - '33:38'
+  tags:
+  - motif: belief-in-decree-condition-of-accepted-spending
+    refs:
+    - Jāmiʿ 2:691.1
+    note: ولو أنفقتَ مثل أُحد ذهبًا في سبيل اللَّه ما قبله اللَّه منك حتى تؤمن بالقدر
+  - motif: what-strikes-you-could-not-miss-you
+    refs:
+    - Jāmiʿ 2:691.1
+    note: وتعلم أنّ ما أصابك لم يكن ليخطئك، وأنّ ما أخطأك لم يكن ليصيبك
+  - motif: god-just-if-he-punished-all
+    refs:
+    - Jāmiʿ 2:691.1
+    note: لو أنّ اللَّه عذّب أهل سماواته، وأهل أرضه عذَّبهم وهو غير ظالم لهم، ولو رحمهم كانت رحمته خيرًا لهم من أعمالهم
+- id: hadith-2-belief-in-decree-required
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The denier of decree barred from paradise; faith requires four; decree good and bad; the reality of faith
+  read:
+  - Jāmiʿ 2:692.1-694.1
+  quran:
+  - '57:22'
+  - '33:38'
+  tags:
+  - motif: barred-from-paradise-undutiful-drinker-denier
+    refs:
+    - Jāmiʿ 2:692.1
+    note: ولا يدخل الجنّة عاق، ولا مُدمن خمر، ولا مُكذِّب بقدر
+  - motif: faith-requires-four-beliefs
+    refs:
+    - Jāmiʿ 2:692.2
+    note: 'لا يؤمنُ عبد حتّى يؤمن بأربع: يشهد أن لا إله إلا اللَّه ... ويؤمن بالموت، ويؤمن بالبعث بعد الموت، ويؤمن بالقدر'
+  - motif: faith-includes-decree-good-and-evil
+    refs:
+    - Jāmiʿ 2:693.1
+    note: لا يؤمنُ المرأُ حتّى يؤمن بالقدر خيره وشرّه
+  - motif: what-strikes-you-could-not-miss-you
+    refs:
+    - Jāmiʿ 2:694.1
+    note: لكلّ شيء حقيقة، وما بلغ عبد حقيقة الإيمان حتى يعلم أنّ ما أصابه لم يكن ليخطئه
+- id: hadith-2-evil-eye-and-decree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Nothing outstrips decree, though the evil eye would; washing and spells for Jaʿfar's sons
+  read:
+  - Jāmiʿ 2:696.1-696.2
+  tags:
+  - motif: evil-eye-would-outstrip-decree
+    refs:
+    - Jāmiʿ 2:696.1
+    - Jāmiʿ 2:696.2
+    note: العين حقّ، ولو كان شيءٌ سابق القدر سبقتْه العين
+  - motif: wash-when-asked-for-eye-cure
+    refs:
+    - Jāmiʿ 2:696.1
+    note: وإذا استُغسلْتُم فأغسلوا
+  - motif: no-charm-except-for-eye-or-sting
+    refs:
+    - Jāmiʿ 2:696.2
+    note: 'إنّ بني جعفر تُصيبُهم العين، فأسترقي لهم؟ قال: نعم'
+- id: hadith-2-pen-first-created
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The first thing God created was the Pen; 'Write!'; the copying of deeds from what is finished
+  read:
+  - Jāmiʿ 2:696.3-698.2
+  quran:
+  - '45:29'
+  tags:
+  - motif: dying-father-charges-son-with-decree
+    refs:
+    - Jāmiʿ 2:696.3
+    note: 'قال لابنه: يا بني إنّك لن تجد طعم حقيقة الإيمان حتى تعلم ... من مات على غير هذا فليس مني'
+  - motif: pen-first-created-and-told-to-write
+    refs:
+    - Jāmiʿ 2:696.3
+    - Jāmiʿ 2:698.1
+    - Jāmiʿ 2:698.2
+    note: 'إنّ أول ما خلق اللَّه القلمَ، فقال له: اكتبْ. قال: ربِّ، ماذا أكتب؟ قال: اكتبْ مقادير كلِّ شيءٍ حتّى تقوم السّاعة'
+  - motif: pen-taken-in-gods-right-hand
+    refs:
+    - Jāmiʿ 2:698.2
+    note: فأخذه بيمينه -وكلتا يديه يمين- ... رطب أو يابس، فأحصاه عنده في الذّكر
+  - motif: deeds-copied-from-a-finished-record
+    refs:
+    - Jāmiʿ 2:698.2
+    note: إِنَّا كُنَّا نَسْتَنْسِخُ مَا كُنْتُمْ تَعْمَلُونَ ... فهل تكون النّسخة إلّا من شيء قد فُرغ منه
+  hints:
+  - The pen created first and told to write all that will be, against the Torah as the first-created instrument written before the world, Gen. Rab. 1:1-4 and m. Avot 5:6, where 'the writing and the pen' are among the ten things created on the eve of the first Sabbath
+- id: hadith-2-mabad-first-to-speak-on-decree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Maʿbad al-Juhanī first spoke on decree at Basra; Ibn ʿUmar disowns the deniers and cites ʿUmar's report
+  read:
+  - Jāmiʿ 2:700.1
+  tags:
+  - motif: first-to-speak-on-decree-at-basra
+    refs:
+    - Jāmiʿ 2:700.1
+    note: كان أوّل من تكلّم في القدر بالبصرة معبد الجهنيّ ... فاكتنفْتُه أنا وصاحبي أحدُنا عن يمينه، والآخر عن شماله ... أنّي بريءٌ منهم
+  - motif: belief-in-decree-condition-of-accepted-spending
+    refs:
+    - Jāmiʿ 2:700.1
+    note: لو أنّ أحدهم مثل أُحد ذهبًا فأنْفَقَه ما قبل اللَّه منه، حتّى يؤمن بالقدر
+  - motif: gabriel-in-human-form-teaches-faith
+    refs:
+    - Jāmiʿ 2:700.1
+    note: إذْ طلع علينا رجلٌ شديد بياض الثّياب ... أن تؤمن بالقدر خيره وشرّه
+- id: hadith-2-disputing-decree-forbidden
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Quraysh dispute on decree and Q 54:48-49 comes down; anger like burst pomegranate seeds; talk of decree left for the worst
+  read:
+  - Jāmiʿ 2:701.1-701.3
+  quran:
+  - 54:48-49
+  tags:
+  - motif: quraysh-dispute-on-decree-verse-revealed
+    refs:
+    - Jāmiʿ 2:701.1
+    note: جاء مشركوقريش يخاصمون رسول اللَّه ﷺ في القَدَر، فنزلتْ
+  - motif: everything-created-by-measure
+    refs:
+    - Jāmiʿ 2:701.1
+    note: إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ
+  - motif: face-red-as-if-pomegranate-seeds-burst
+    refs:
+    - Jāmiʿ 2:701.2
+    note: وهم يختصمون في القدر، فكأنّما يُفقأ في وجهه حُب الرّمان من الغضب
+  - motif: striking-scripture-parts-against-each-other
+    refs:
+    - Jāmiʿ 2:701.2
+    note: بهذا أُمرتم؟ ! أو لهذا خُلقتُم؟ ! تضربون القرآن بعضَه ببعض، بهذا هلكتِ الأممُ قبلكم
+  - motif: talk-of-decree-deferred-to-worst
+    refs:
+    - Jāmiʿ 2:701.3
+    note: أُخِّر الكلام في القدر لشرار هذه الأمّة
+- id: hadith-2-deniers-of-decree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn ʿUmar refuses a greeting; transformation, sinking and pelting among the people of decree
+  read:
+  - Jāmiʿ 2:704.1
+  tags:
+  - motif: greeting-refused-to-innovator
+    refs:
+    - Jāmiʿ 2:704.1
+    note: 'إنّ فلانًا يقرؤُك السّلام، قال: إنّه بلغني أنّه قد أحدث، فإن كان قد أحدث فلا تقرئْهُ منّي السّلام'
+  - motif: sinking-transformation-pelting-in-community
+    refs:
+    - Jāmiʿ 2:704.1
+    note: يكون في أمّتي -أو في هذه الأمّة- مَسْخٌ وخَسْف وقَذْف، وذلك في أهل القدر
+- id: hadith-2-embryo-and-the-writing
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The embryo's forty days and the angel's writing; the cubit from the goal
+  read:
+  - Jāmiʿ 2:713.1
+  tags:
+  - motif: embryo-forty-days-each-as-drop-clot-lump
+    refs:
+    - Jāmiʿ 2:713.1
+    note: يُجمع خلقه في بطن أمّه أربعين يومًا، ثم يكون علقة مثل ذلك، ثم يكون مُضغة مثل ذلك
+  - motif: angel-writes-four-things-for-the-embryo
+    refs:
+    - Jāmiʿ 2:713.1
+    note: فيؤمر بأربع كلمات ... اكتب عملَه، ورزقَه، وأجلَه، وشقي، أو سعيد
+  - motif: spirit-breathed-in-after-embryo-stages
+    refs:
+    - Jāmiʿ 2:713.1
+    note: ثم ينفخُ فيه الرُّوح
+  - motif: cubit-from-goal-the-book-overtakes
+    refs:
+    - Jāmiʿ 2:713.1
+    note: حتّى ما يكون بينه وبين الجنّة إلّا ذراع فيسبق عليه كتابه، فيعمل بعمل أهل النّار
+  hints:
+  - Three forties of drop, clot and lump before the spirit, against the rabbinic forty days of the embryo's formation (b. Yevamot 69b 'until forty days it is mere water'; m. Niddah 3:7 on a male formed at forty-one days)
+- id: hadith-2-angel-of-the-womb
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The angel of the womb asks male or female, wretched or happy, provision and term; written between the eyes
+  read:
+  - Jāmiʿ 2:713.2-715.1
+  quran:
+  - 64:1-5
+  tags:
+  - motif: wretched-is-who-was-wretched-in-mothers-womb
+    refs:
+    - Jāmiʿ 2:713.2
+    note: الشّقيُّ مَنْ شَقِي في بطن أمِّه والسَّعيدُ مَن وُعِظ بغيره ... وكيف يشقى رجلٌ بغير عمل؟
+  - motif: angel-shapes-drop-after-forty-two-nights
+    refs:
+    - Jāmiʿ 2:713.2
+    note: إذا مرَّ بالنُّطْفة اثنتان وأربعون ليلة بعث اللَّه إليها ملكًا فصوَّرَهَا، وخَلَقَ سمعها وبصرها وجِلْدَها ولَحْمها وعِظامَها
+  - motif: angel-asks-male-or-female-wretched-or-blessed
+    refs:
+    - Jāmiʿ 2:713.2
+    - Jāmiʿ 2:714.1
+    - Jāmiʿ 2:714.2
+    - Jāmiʿ 2:714.3
+    - Jāmiʿ 2:714.4
+    - Jāmiʿ 2:715.1
+    note: يا ربّ أذكر أم أنثى؟ ... أشقي أم سعيد؟ فما الرّزق والأجل؟ فيكتب في بطن أمِّه
+  - motif: womb-angel-announces-each-stage
+    refs:
+    - Jāmiʿ 2:714.1
+    note: 'وكَّل بالرَّحم ملكًا يقول: يا ربّ نطفة، يا ربّ علقة، يا ربّ مضغة'
+  - motif: embryo-scrolls-folded-nothing-added
+    refs:
+    - Jāmiʿ 2:713.2
+    - Jāmiʿ 2:714.2
+    note: ثم يخرج الملك بالصَّحيفة في يده فلا يزيدُ على ما أُمِر ولا يَنْقُص; بأربعين، أو خمسة وأربعين ليلة ... ثم تُطْوى الصُّحُف
+  - motif: embryo-sound-or-unsound-asked
+    refs:
+    - Jāmiʿ 2:714.3
+    note: إنّ النُّطفة تقع في الرَّحم أربعين ليلة ... يا ربّ أسويٌّ أو غير سويٍّ؟ فيجعله اللَّه سويًّا أو غير سويٍّ
+  - motif: written-between-eyes-what-he-will-meet
+    refs:
+    - Jāmiʿ 2:714.4
+    - Jāmiʿ 2:715.1
+    note: ثم يكتب بين عينيه ما هو لاق حتى النّكبة يُنكبها; أتى ملكُ النّفس، فعرج إلى الرّب
+  hints:
+  - The womb-angel asks male or female and 'wretched or happy', against b. Niddah 16b, where the angel Laylah sets the drop before God and asks 'mighty or weak, wise or foolish, rich or poor?' but 'wicked or righteous' is not asked, since all is in heaven's hands but the fear of heaven
+  - 'Forty days of the drop before its sex is fixed, against b. Berakhot 60a: for the first forty days one may still pray that it be male'
+- id: hadith-2-wretched-in-the-womb
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The wretched is he who was wretched in his mother's womb
+  read:
+  - Jāmiʿ 2:716.1-717.1
+  tags:
+  - motif: wretched-is-who-was-wretched-in-mothers-womb
+    refs:
+    - Jāmiʿ 2:716.1
+    - Jāmiʿ 2:717.1
+    note: الشّقي من شقي في بطن أمِّه، والسّعيد من سَعِد في بطنها
+- id: hadith-2-written-before-creation
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Written before creation - mercy over wrath above the throne; fifty thousand years; a book two thousand years before
+  read:
+  - Jāmiʿ 2:718.1-719.2
+  tags:
+  - motif: written-above-the-throne-mercy-prevails
+    refs:
+    - Jāmiʿ 2:718.1
+    note: لما قضى اللَّه الخلق، كتب في كتابه فهو عنده فوق العرش، إنّ رحمتي غلبتْ غضبي
+  - motif: god-was-and-nothing-else
+    refs:
+    - Jāmiʿ 2:718.2
+    note: كان اللَّه ولم يكن شيء غيره، وكان عرشه على الماء، وكتب في الذِّكر كلّ شيء
+  - motif: decrees-written-fifty-thousand-years-before-creation
+    refs:
+    - Jāmiʿ 2:719.1
+    note: 'كتب اللَّه مقادير الخلائق قبل أن يخلق السماوات والأرض بخمسين ألف سنة، قال: وكان عرشه على الماء'
+  - motif: book-written-two-thousand-years-before-creation
+    refs:
+    - Jāmiʿ 2:719.2
+    note: إنّ اللَّه كتب كتابًا قبل أن يخلق السماوات والأرض بألفي عام، وأنزل منه آيتين ختم بهما سورة البقرة
+  - motif: satan-flees-house-where-baqara-recited
+    refs:
+    - Jāmiʿ 2:719.2
+    note: ولا يقرآن في دار ثلاث ليالٍ فيقربها شيطان
+  hints:
+  - A book written two thousand years before heaven and earth, from which the closing verses of al-Baqara were sent down, against the Torah that preceded the world by two thousand years, Gen. Rab. 8:2 and Lev. Rab. 19:1
+  - '''My mercy prevails over my wrath'' written above the throne, against b. Berakhot 7a, God''s own prayer ''may my mercy overcome my anger'''
+- id: hadith-2-each-eased-for-what-he-was-created
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Every place in paradise or fire is written - so work, each is eased for what he was created for
+  read:
+  - Jāmiʿ 2:720.1-723.1
+  quran:
+  - '92:5'
+  - 91:7-8
+  tags:
+  - motif: place-in-paradise-or-fire-written-work-anyway
+    refs:
+    - Jāmiʿ 2:720.1
+    note: كنّا في جنازة في بقيع الغرقد ... ومعه مخصرة فنكّس فجعل ينكتُ بمخصرته ... إلّا كُتب مكانُها من الجنّة والنّار ... أفلا نتكل على كتابنا وندع العمل
+  - motif: each-eased-to-what-he-was-created-for
+    refs:
+    - Jāmiʿ 2:720.1
+    - Jāmiʿ 2:720.2
+    - Jāmiʿ 2:721.1
+    - Jāmiʿ 2:722.1
+    - Jāmiʿ 2:722.2
+    - Jāmiʿ 2:723.1
+    note: كلٌّ يعمل لما خُلق له، أو لما يُيَسَّرُ له; اعملوا فكلٌّ مُيسَّر; كلُّ امرئ مهيَّأٌ لما خُلق له; كلٌّ مُيسَّرٌ لما كُتب له وعليه
+  - motif: pen-has-dried
+    refs:
+    - Jāmiʿ 2:721.1
+    note: بيّن لنا ديننا كأنّا خُلقنا الآن ... أفيما جفَّتْ به الأقلام، وجرت به المقادير، أم فيما نستقبل؟
+  - motif: companion-tests-students-mind
+    refs:
+    - Jāmiʿ 2:721.2
+    note: 'أفلا يكون ظُلْمًا؟ قال: ففزعتُ من ذلك فزعًا شديدًا ... إنّي لَمْ أُرِدْ بما سألتك إلّا لأَحْزِر عَقْلَكَ'
+  - motif: decree-already-passed-not-begun-anew
+    refs:
+    - Jāmiʿ 2:721.2
+    - Jāmiʿ 2:722.1
+    - Jāmiʿ 2:722.2
+    - Jāmiʿ 2:723.1
+    note: 'لا بلْ شيء قُضي عليهم ومضى فيهم; أمرٌ قد فُرغ منه، أم شيءٌ نسْتأنفه؟ قال: بل أمر قد فُرِغ منه; مرجعه من بدر'
+- id: hadith-2-terms-and-provisions-fixed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Terms fixed, days counted, provisions allotted; seek moderately; what infected the first? (bāb on Q 7:34, 35:11)
+  read:
+  - Jāmiʿ 2:725.1-729.1
+  quran:
+  - '7:34'
+  - '35:11'
+  tags:
+  - motif: fixed-terms-days-and-provisions
+    refs:
+    - Jāmiʿ 2:725.1
+    note: اللهمّ أمتعني بزوجي رسول اللَّه ﷺ، وبأبي أبي سفيان، وبأخي معاوية ... قد سألتِ اللَّه لآجال مضروبة، وأيام معدودة، وأرزاق مقسومة ... وآثار موطوءة
+  - motif: refuge-from-fire-and-grave-better-than-long-life
+    refs:
+    - Jāmiʿ 2:725.1
+    note: ولو كنتِ سألتِ اللَّه أن يُعيذكِ من عذاب النّار، أو عذاب القبر كان خيرًا وأفضل
+  - motif: transformed-people-left-no-offspring
+    refs:
+    - Jāmiʿ 2:725.1
+    note: القردة والخنازير هي مما مُسِخ؟ ... لم يُهلك قومًا أو يعذِّب قومًا، فيجعل لهم نسلًا، وإنّ القردة والخنازير كانوا قبل ذلك
+  - motif: soul-dies-only-after-completing-provision
+    refs:
+    - Jāmiʿ 2:726.1
+    - Jāmiʿ 2:727.1
+    note: فإنّ نفسًا لن تموت حتى تستوفي رزقها، وإن أبطأ عنها ... وأجملوا في الطّلب; أجملوا في طلب الدّنيا، فإنّ كلًّا مُيَسَّرٌ لما كُتب له منها
+  - motif: what-infected-the-first
+    refs:
+    - Jāmiʿ 2:727.2
+    note: لا يُعدي شيءٌ شيئًا ... إنّ النُّقْبةَ تكون بمشْفر البعير، أو بعَجْبه فتشْتملُ الإبلَ جَرَبًا ... ما أعدى الأوّلَ؟ لا عدْوى، ولا صَفَر، ولا هامَةَ
+  - motif: god-finished-five-for-each-servant
+    refs:
+    - Jāmiʿ 2:727.2
+    - Jāmiʿ 2:728.1
+    note: 'خلق اللَّه كلَّ نفس، فكتب حياتَها، وموتَها، ومُصيباتها، ورزْقها; فرغ اللَّه إلى كلّ عبد من خمس: من رزقه، وأجله، وعمله، وأثره، ومضجعه'
+  - motif: stray-date-would-have-come-to-you
+    refs:
+    - Jāmiʿ 2:729.1
+    note: 'فرأى تمرة عائرةً فأعطاها سائلًا، وقال: لو لم تأتها لأتتك'
+- id: hadith-2-remedies-are-decree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Medicine, spells and precautions are themselves of God's decree
+  read:
+  - Jāmiʿ 2:730.1
+  tags:
+  - motif: medicine-and-spells-are-decree
+    refs:
+    - Jāmiʿ 2:730.1
+    note: 'أرأيتَ دواءً نتداوى به، ورُقي نسْترقيها، وتُقًى نتّقيها هل تردُّ ذلك من قدر اللَّه من شيء؟ فقال: إنّه من قدر اللَّه'
+- id: hadith-2-vow-and-prayer-against-decree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The vow changes nothing but extracts from the miser; prayer alone repels decree
+  read:
+  - Jāmiʿ 2:731.1-732.2
+  tags:
+  - motif: vow-extracts-from-the-miser
+    refs:
+    - Jāmiʿ 2:731.1
+    - Jāmiʿ 2:731.2
+    note: لا يأتي ابنَ آدم النّذرُ بشيء لم يكن قد قُدِّر له ... فيستخرج اللَّه به من البخيل; نهى النّبيُّ ﷺ عن النّذر ... إنّه لا يردُّ شيئًا
+  - motif: only-prayer-repels-decree-only-piety-lengthens-life
+    refs:
+    - Jāmiʿ 2:731.3
+    - Jāmiʿ 2:732.1
+    - Jāmiʿ 2:732.2
+    note: ادعوا فإنّ الدّعاء يردُّ القدر; لا يردّ القضاء إلّا الدّعاء، ولا يزيد في العمر إلّا البرُّ; وإنّ الرّجل ليُحرم الرِّزقَ بخطيئة يعملها
+  hints:
+  - The vow that brings nothing not decreed and only extracts from the miser, against Qoh 5:3-4 'better not to vow than to vow and not pay' and m. Nedarim 1:1 / b. Nedarim 22a, where one who vows is likened to building a high place
+  - 'Prayer that turns back the decree, against b. Rosh Hashanah 16b: crying out, charity, change of name and deed tear up a person''s decree'
+- id: hadith-2-umar-at-sargh
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: ʿUmar turns back from the plague at Sargh - fleeing from God's decree to God's decree
+  read:
+  - Jāmiʿ 2:734.1
+  tags:
+  - motif: caliph-consults-three-groups-on-plague
+    refs:
+    - Jāmiʿ 2:734.1
+    note: ادعُ لي المهاجرين الأوّلين ... ادعُ لي الأنصار ... ادع لي من كان ها هنا من مشيخة قريش من مُهاجِرَةِ الفتح، فدعوتهم فلم يختلف عليه رجلان
+  - motif: fleeing-from-decree-to-decree
+    refs:
+    - Jāmiʿ 2:734.1
+    note: 'أفِرارًا من قدر اللَّه؟ ... نعم، نَفرُّ من قدر اللَّه إلى قدر اللَّه، أرأيت لو كانتْ لك إبل فهبطت واديًا له عُدْوتان: إحداهما خصبة والأخرى جدية'
+  - motif: do-not-enter-or-flee-plague-land
+    refs:
+    - Jāmiʿ 2:734.1
+    note: إذا سمعتم به بأرض فلا تَقْدَمُوا عليه، وإذا وقع بأرض وأنتم بها فلا تخرجوا فرارًا منه
+- id: hadith-2-paradise-and-fire-each-has-its-people
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '"A sparrow of paradise": God created paradise and fire each with its people while in their fathers'' loins'
+  read:
+  - Jāmiʿ 2:735.1
+  quran:
+  - 7:179
+  - 11:118-119
+  tags:
+  - motif: dead-infant-called-righteous-refuted
+    refs:
+    - Jāmiʿ 2:735.1
+    note: طوبي له، عصفور من عصافير الجنّة ... أو لا تدرين
+  - motif: paradise-and-hell-each-created-with-its-people
+    refs:
+    - Jāmiʿ 2:735.1
+    note: إن اللَّه خلق للجنة أهلا، خلقهم لها وهم في أصْلاب آبائهم
+- id: hadith-2-four-plead-at-resurrection
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The deaf, the fool, the senile and the one who died in the interval plead, and are told to enter the fire
+  read:
+  - Jāmiʿ 2:735.2
+  tags:
+  - motif: four-who-plead-at-resurrection-tested-by-fire
+    refs:
+    - Jāmiʿ 2:735.2
+    note: رجل أصمّ لا يسمع، ورجل أحمق، ورجل هرم، ورجل مات في فترة ... والصِّبيان يخذفونني بالبعر ... ويرسل إليهم أن ادخلوا النّار ... ما كانت عليهم إلّا بردًا وسلامًا
+- id: hadith-2-light-cast-on-creation
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: God created his creatures in darkness and cast his light on them (bāb on Q 6:122)
+  read:
+  - Jāmiʿ 2:737.1
+  quran:
+  - 6:122
+  tags:
+  - motif: creation-in-darkness-light-cast-upon-them
+    refs:
+    - Jāmiʿ 2:737.1
+    note: خلق خلقَه في ظلمة، فألقى عليهم من نوره، فمن أصابه من ذلك النّور اهتدى، ومن أخطأه ضلّ
+- id: hadith-2-khidr-boy-stamped-unbeliever
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The boy al-Khaḍir killed was stamped an unbeliever (bāb on Q 18:80-81)
+  read:
+  - Jāmiʿ 2:738.1
+  quran:
+  - 18:80-81
+  tags:
+  - motif: boy-killed-by-khidr-stamped-unbeliever
+    refs:
+    - Jāmiʿ 2:738.1
+    note: إنّ الغلام الذي قتله الخضر طُبع كافرًا، ولو عاش لأرهق أبويه طُغيانًا وكفرًا
+- id: hadith-2-two-handfuls
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Adam from a handful of all the earth; the two handfuls and the offspring of the right and the left
+  read:
+  - Jāmiʿ 2:739.1-740.2
+  quran:
+  - 7:172
+  tags:
+  - motif: adam-from-soil-of-whole-earth-children-of-every-colour
+    refs:
+    - Jāmiʿ 2:739.1
+    note: خلق آدم من قبضة قبضها من جميع الأرض ... الأحمر، والأبيض والأسود، وبين ذلك، والسّهل والحزن، والخبيث والطيّب
+  - motif: white-progeny-right-shoulder-black-left
+    refs:
+    - Jāmiʿ 2:739.2
+    note: فضرب كتفه اليمني، فأخرج ذريّة بيضاء كأنّهم الذّرُّ، وضرب كتفه اليسرى، فأخرج ذريّةً سوداء كأنّهم الْحُمَم ... إلى الجنّة ولا أُبالي ... إلى النّار ولا أبالي
+  - motif: two-handfuls-this-for-this-i-do-not-care
+    refs:
+    - Jāmiʿ 2:739.3
+    - Jāmiʿ 2:740.1
+    - Jāmiʿ 2:740.2
+    note: 'قبض بيمينه قبضةً، وأخرى باليد الأخرى، وقال: هذه لهذه، وهذه لهذه، ولا أُبالي. فلا أدري في أيّ القبضتين أنا; فتفرَّق النَّاسُ وهم لا يختلفون في القدر'
+  - motif: trim-moustache-and-keep-it-till-you-meet-me
+    refs:
+    - Jāmiʿ 2:739.3
+    note: دخل عليه أصحابه يعودونه وهو يبكي ... خذْ من شارِبك، ثم أقرَّه حتّى تلقاني
+  - motif: progeny-drawn-from-adams-back
+    refs:
+    - Jāmiʿ 2:740.2
+    note: إنّ اللَّه أخذ ذريّة آدم من ظهره، وأشهدهم على أنفسهم، ثم أفاض بهم في كفّيه
+  hints:
+  - 'Adam made from a handful of the whole earth so his children are red, white and black, against b. Sanhedrin 38a-b (R. Meir: Adam''s dust gathered from all the world) and Pirqe R. Eliezer 11 (dust from the four corners, red, black, white and green)'
+- id: hadith-2-deeds-by-their-endings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Deeds are by their endings - the brave fighter of the fire who kills himself; the road of paradise opens
+  read:
+  - Jāmiʿ 2:746.1-749.3
+  tags:
+  - motif: deeds-judged-by-their-endings
+    refs:
+    - Jāmiʿ 2:746.1
+    - Jāmiʿ 2:747.2
+    - Jāmiʿ 2:748.1
+    - Jāmiʿ 2:749.2
+    - Jāmiʿ 2:749.3
+    note: إنّ الرّجل ليعمل عمل أهل الجنّة، فيما يبدو للنّاس وهو من أهل النّار; الزَّمَنَ الطّويلَ ... ثم يُخْتَمُ لهُ عملُهُ بعمل أهل النّار; وإنّه لمكتوب في الكتاب من أهل النّار; إنّما الأعمالُ بالخواتيم
+  - motif: valiant-fighter-of-fire-kills-himself
+    refs:
+    - Jāmiʿ 2:747.1
+    note: 'لرجل ممن يدّعي الإسلام: هذا من أهل النّار. فلما حضر القتال قاتل الرّجلُ قتالًا شديدًا ... فقتل نفسَه'
+  - motif: suicide-with-arrow-from-own-quiver
+    refs:
+    - Jāmiʿ 2:747.1
+    note: فأهوى بيده إلى كنانته فانتزع منها سَهْمًا فانتحر بها
+  - motif: bilal-proclaims-only-muslim-soul-enters
+    refs:
+    - Jāmiʿ 2:747.1
+    note: 'ثم أمر بلالًا فنادى بالنّاس: إنّه لا يدخل الجنّة إِلَّا نفسٌ مسلمةٌ'
+  - motif: god-supports-religion-by-a-wicked-man
+    refs:
+    - Jāmiʿ 2:747.1
+    note: وإنَّ اللَّه ليؤيِّدُ هذا الدِّينَ بالرَّجُل الفاجر
+  - motif: god-employs-servant-in-good-before-death
+    refs:
+    - Jāmiʿ 2:748.2
+    note: لا عليكم أن لا تُعْجَبُوا بأحدٍ حتّى تنظروا بِمَ يُخْتم له ... وإذا أراد اللَّه بعبد خيرًا استعمله قبل مَوْته ... يوفِّقه لعملٍ صالِحٍ، ثم يَقْبضُه عليه
+  - motif: road-of-paradise-presents-itself
+    refs:
+    - Jāmiʿ 2:749.1
+    note: ثم تعرض له الجادة من جَوادّ الجنّة فيعمل بها حتّى يموت عليها، وذلك لما كتب
+  - motif: deeds-like-vessel-good-top-good-bottom
+    refs:
+    - Jāmiʿ 2:749.3
+    note: إنّما الأعمال بخواتيمها، كالدعاء إذا طاب أعلاه طاب أسفله، وإذا خبُث أعلاه خبُث أسفلُه (printed كالدعاء)
+  hints:
+  - A man's last deeds outweigh the long years before them, against Ezek 18:24-27 (the righteous who turns to evil, his former righteousness not remembered; the wicked who turns lives) and b. Avodah Zarah 17a, 'some acquire their world in a single hour'
+- id: hadith-2-classes-of-men
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The sons of Adam created in classes - born, living and dying believer or unbeliever
+  read:
+  - Jāmiʿ 2:750.1
+  tags:
+  - motif: four-kinds-born-lived-died
+    refs:
+    - Jāmiʿ 2:750.1
+    note: 'إنّ بني آدم خلقوا على طبقات شتي: فمنهم من يولد مؤمنًا، ويحيا مؤمنًا، ويموت مؤمنًا ... ومنهم من يولد كافرًا، ويحيا كافرًا، ويموت مؤمنًا'
+- id: hadith-2-god-employs-his-servant
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: When God wants good for a servant he 'employs' or 'honeys' him with a good deed before death
+  read:
+  - Jāmiʿ 2:751.1-752.1
+  tags:
+  - motif: god-employs-servant-in-good-before-death
+    refs:
+    - Jāmiʿ 2:751.1
+    - Jāmiʿ 2:751.2
+    - Jāmiʿ 2:752.1
+    note: إذا أراد اللَّه بعبد خيرًا استعمله ... يوفّقه لعمل صالح قبل الموت; يُفتح له عمل صالح بين يدي موته، حتّى يرْضى عنه مَنْ حوله; إذا أراد اللَّه بعبد خيرًا عسَّله
+- id: hadith-2-islam-enters-houses-then-trials
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Has Islam an end? It enters every house God wants good for, then trials like canopies and black snakes pouring down
+  read:
+  - Jāmiʿ 2:753.1
+  tags:
+  - motif: islam-enters-houses-then-trials-like-canopies
+    refs:
+    - Jāmiʿ 2:753.1
+    note: أيّما أهل بيت من العرب، أو العجم، أراد اللَّه بهم خيرًا، أدخل عليهم الإسلام ... ثم تقع الفتن كأنّها الظُّلَل ... ثم تعودون فيها أساوِدَ صُبًّا يضربُ بعضكم رقاب بعض
+- id: hadith-2-faith-only-to-whom-he-loves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Characters divided like provisions; the world given to whom God loves and not, faith only to whom he loves
+  read:
+  - Jāmiʿ 2:753.2
+  tags:
+  - motif: god-gives-world-to-loved-and-unloved-faith-only-to-loved
+    refs:
+    - Jāmiʿ 2:753.2
+    note: إنّ اللَّه قسم بينكم أخلاقكم، كما قسم بينكم أرزاقكم ... ولا يعطي الإيمان إِلَّا من يحبّ
+- id: hadith-2-adam-and-moses-dispute
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Adam and Moses dispute, and Adam out-argues Moses - nine versions
+  read:
+  - Jāmiʿ 2:754.1-757.2
+  quran:
+  - 20:121
+  tags:
+  - motif: adam-moses-argue-adam-wins
+    refs:
+    - Jāmiʿ 2:754.1
+    - Jāmiʿ 2:754.2
+    - Jāmiʿ 2:755.1
+    - Jāmiʿ 2:755.2
+    - Jāmiʿ 2:755.3
+    - Jāmiʿ 2:756.1
+    - Jāmiʿ 2:756.2
+    - Jāmiʿ 2:756.3
+    - Jāmiʿ 2:757.1
+    - Jāmiʿ 2:757.2
+    note: أنت أبونا خيّبْتنا وأخرجْتنا من الجنّة; أغويتَ النَّاسَ; أشْقيتَ النَّاسَ; أدخلتَ ذريَّتَك النار ... أتلومني على أمر قدَّره اللَّه عليّ ... فحجَّ آدم موسى
+  - motif: adams-deed-written-before-his-creation
+    refs:
+    - Jāmiʿ 2:754.1
+    - Jāmiʿ 2:755.3
+    note: 'قدَّره اللَّه عليّ قبل أن يخلقني بأربعين سنة; فبِكَمْ وجدْتَ اللَّهَ كتب التوراة قبل أن أُخلق؟ قال موسى: بأربعين عامًا'
+  - motif: torah-written-forty-years-before-adam
+    refs:
+    - Jāmiʿ 2:755.3
+    note: 'فهلْ وجدْتَ فيها: وعصى آدمُ ربَّه فغوى؟ قال: نعم'
+  - motif: torah-written-by-gods-hand-for-moses
+    refs:
+    - Jāmiʿ 2:754.1
+    note: اصطفاك اللَّه بكلامه، وخطّ لك بيده
+  - motif: tablets-hold-explanation-of-everything
+    refs:
+    - Jāmiʿ 2:755.3
+    note: وأعطاكَ الألواحَ فيها تبيان كلِّ شيء، وقرَّبك نَجيًّا
+  - motif: moses-asks-to-be-shown-adam
+    refs:
+    - Jāmiʿ 2:757.2
+    note: يا ربّ أَرِنَا آدمَ الذي أخرجنا ونفسَه من الجنّة، فأراه اللَّه آدم ... كلمك اللَّه من وراء الحجاب لم يجعل بينك وبينه رسولًا من خلقه
+  hints:
+  - Moses blaming Adam for bringing mankind out of the garden, against Deut. Rab. 11:10, where at his death Moses measures himself against Adam ('you were given one commandment and could not keep it'); here Adam wins by what was written before him
+- id: hadith-2-adam-gives-david-years
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Adam shown his offspring gives David forty (or sixty) of his years, then denies it; hence writing and witnesses
+  read:
+  - Jāmiʿ 2:759.1-759.2
+  tags:
+  - motif: progeny-drawn-from-adams-back
+    refs:
+    - Jāmiʿ 2:759.1
+    note: لما خلق اللَّه آدم مسح ظهره فسقط من ظهره كلُّ نسمة هو خالقها من ذريّته إلى يوم القيامة
+  - motif: gleam-of-light-between-the-eyes-of-each-soul
+    refs:
+    - Jāmiʿ 2:759.1
+    note: وجعل بين عيني كلِّ إنسان منهم وبيصًا من نور
+  - motif: adam-gives-david-years-of-his-life
+    refs:
+    - Jāmiʿ 2:759.1
+    - Jāmiʿ 2:759.2
+    note: 'ستين سنة. قال: أيْ ربِّ، زِدْه من عمري أربعين سنة; قد كتب له عُمْرَ أربعين سنةً ... جعلتُ له من عُمْري ستين سنةً'
+  - motif: adam-denies-the-gift-when-death-comes
+    refs:
+    - Jāmiʿ 2:759.1
+    - Jāmiʿ 2:759.2
+    note: 'جاءه ملك الموت، فقال: أو لم يبق من عمري أربعون سنة؟; قد عَجَّلْتَ، قد كُتِب لي ألْفُ سنةٍ'
+  - motif: adam-forgot-so-his-offspring-forget
+    refs:
+    - Jāmiʿ 2:759.1
+    - Jāmiʿ 2:759.2
+    note: فجحد آدم فجحدتْ ذريَّتُه، ونَسِي آدمُ فنسيتْ ذرِّيَّتُه، وخَطئَ آدمُ فخطئت ذريَّتُه
+  - motif: adam-sneezes-when-spirit-reaches-his-head
+    refs:
+    - Jāmiʿ 2:759.2
+    note: 'لما خلق اللَّه آدم ونفخ فيه الرُّوح عَطَسَ، فقال: الحمد للَّه ... يرحمُك اللَّهُ يا آدم'
+  - motif: adam-sent-to-greet-angels-greeting-of-descendants
+    refs:
+    - Jāmiʿ 2:759.2
+    note: اذهبْ إلى أولئك الملائكةِ ... فَقُل السّلام عليكم ... إنّ هذه تحيَّتُك وتحيَّةُ بنيك بينهم
+  - motif: adam-chooses-between-gods-closed-hands
+    refs:
+    - Jāmiʿ 2:759.2
+    note: 'ويداه مقبوضتان- اخْتَرْ أَيَّهُما شِئْتَ؛ قال: اخْترتُ يمين ربّي -وكلتا يدي ربي يمين مباركة'
+  - motif: adam-shown-descendants-with-lifespans-written
+    refs:
+    - Jāmiʿ 2:759.2
+    note: فإذا كلُّ إنسان مكتوب عمره بين عينيه، فإذا فيهم رَجلٌ أضوؤهم
+  - motif: writing-and-witnesses-commanded-from-adams-denial
+    refs:
+    - Jāmiʿ 2:759.2
+    note: فجَحَدَ فجَحَدَتْ ذُرِّيَّتُه ... فَمِنْ يومئذٍ أُمِرَ بالكتاب والشّهود
+  hints:
+  - Adam gives David years of his thousand, against the midrash that Adam gave seventy of his thousand years to David, who was otherwise to die at birth (Pirqe R. Eliezer 19; Num. Rab. 14:12; Zohar I 55a, 91b); the hadith has forty out of sixty, or sixty out of forty
+  - God shows Adam every generation of his descendants, against Gen. Rab. 24:2 and b. Sanhedrin 38b, where God shows Adam each generation with its expounders and leaders
+- id: hadith-2-turner-of-hearts
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: All hearts between two fingers of the Merciful like one heart
+  read:
+  - Jāmiʿ 2:761.1
+  tags:
+  - motif: hearts-between-two-fingers-of-the-merciful-as-one-heart
+    refs:
+    - Jāmiʿ 2:761.1
+    note: إنّ قلوب بني آدم كلَّها بين أصبعين من أصابع الرّحمن كقلب واحد، يصرِّفه حيث يشاء ... اللهمّ مصرِّف القلوب
+- id: hadith-2-everything-by-decree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Everything by decree, even incapacity and cleverness; a woman's lot; birds run by decree
+  read:
+  - Jāmiʿ 2:762.1-762.4
+  quran:
+  - 54:48-49
+  tags:
+  - motif: everything-by-decree-even-incapacity-and-cleverness
+    refs:
+    - Jāmiʿ 2:762.1
+    note: 'أدركتُ ناسًا من أصحاب رسول اللَّه ﷺ يقولون: كلّ شيء بقدر ... حتّى العجز والكَيْس'
+  - motif: woman-not-to-seek-sisters-divorce
+    refs:
+    - Jāmiʿ 2:762.2
+    note: لا تسأل المرأةُ طلاق أختها لتستفرغ صحْفتها، ولتنكح، فإنّما لها ما قُدر لها
+  - motif: quraysh-dispute-on-decree-verse-revealed
+    refs:
+    - Jāmiʿ 2:762.3
+    note: جاء مشركوقريش يخاصمون رسول اللَّه ﷺ في القدر. فنزلت
+  - motif: everything-created-by-measure
+    refs:
+    - Jāmiʿ 2:762.3
+    note: إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ
+  - motif: bird-omens-run-by-decree-good-omen-liked
+    refs:
+    - Jāmiʿ 2:762.4
+    note: يا أمّتاه ... الطّير تجري بقدر. وكان يعجبُه الفأل الحسن
+- id: hadith-2-share-of-zina
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: God wrote for the son of Adam his share of zinā - the eyes, ears, tongue, hand and foot; the private part confirms or denies
+  read:
+  - Jāmiʿ 2:763.1-764.2
+  quran:
+  - '53:32'
+  tags:
+  - motif: each-limb-has-its-zina
+    refs:
+    - Jāmiʿ 2:763.1
+    - Jāmiʿ 2:764.1
+    - Jāmiʿ 2:764.2
+    note: فالعينان زناهما النّظر، والأذنان زناهما الاستماع، واللّسان زناه الكلام، واليد زناها البطش، والرّجل زناها الْخُطَا ... ويصدّق ذلك الفرْجُ ويكذّبه
+  - motif: zina-of-eye-and-tongue-decreed
+    refs:
+    - Jāmiʿ 2:763.1
+    note: ما رأيتُ شيئًا أشبه باللمم ... إنّ اللَّه كتب على ابن آدم حظّه من الزِّنا، أدرك ذلك لا محالة
+  hints:
+  - Eyes, ears, tongue, hands and feet each committing zinā, against Num 15:39 ('do not go about after your heart and your eyes, after which you go whoring') read in y. Berakhot 1:5 as 'the heart and the eyes are the two agents of sin', and Matt 5:28, adultery by looking
+- id: hadith-2-created-hanif
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '"I created my servants ḥunafāʾ; the devils led them off"'
+  read:
+  - Jāmiʿ 2:765.1
+  tags:
+  - motif: servants-created-hanif-devils-led-them-off
+    refs:
+    - Jāmiʿ 2:765.1
+    note: خلقتُ عبادي حتفاء كلّهم وإنهم أتتهم الشياطين فاجتالتهم عن دينهم، وحرّمتْ عليهم ما أحللتُ لهم
+- id: hadith-2-born-on-the-fitra
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Every child born on the fitra, its parents make it Jew, Christian or Magian; Satan pricks all but Mary and her son
+  read:
+  - Jāmiʿ 2:765.2-766.2
+  quran:
+  - '30:30'
+  tags:
+  - motif: parents-make-child-jew-or-christian
+    refs:
+    - Jāmiʿ 2:765.2
+    - Jāmiʿ 2:765.3
+    - Jāmiʿ 2:766.1
+    - Jāmiʿ 2:766.2
+    note: فأبواه يهودانه وينصرانه; ويمجّسانه; ويشركانه; فإن كانا مسلمَيْنِ فمسلم
+  - motif: newborn-beast-whole-until-ears-cut
+    refs:
+    - Jāmiʿ 2:765.2
+    - Jāmiʿ 2:765.3
+    note: كما تُنتجون البهيمة هل تجدون فيها من جدعاء حتى تكونوا أنتم تجدعونها
+  - motif: fitra-primordial-nature
+    refs:
+    - Jāmiʿ 2:765.3
+    note: فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ
+  - motif: god-knows-what-they-would-have-done
+    refs:
+    - Jāmiʿ 2:765.2
+    - Jāmiʿ 2:766.1
+    note: 'أفرأيتَ من يموت وهو صغير؟ قال: اللَّه أعلم بما كانوا عاملين'
+  - motif: newborns-cry-from-satans-touch-except-mary-and-son
+    refs:
+    - Jāmiʿ 2:766.2
+    note: كلّ إنسان تلده أمُّه يلكزه الشّيطان في حِضْنَيْه إلّا مريم وابنَها
+- id: hadith-2-children-of-polytheists
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Children of polytheists - 'they are of them' in a night raid; 'God knows what they would have done'
+  read:
+  - Jāmiʿ 2:768.1-769.3
+  tags:
+  - motif: child-killed-in-night-raid-is-of-them
+    refs:
+    - Jāmiʿ 2:768.1
+    note: 'مَرَّ بي النبيُّ ﷺ بالأبواء أو بودَّان ... أهل الدّار يُبيِّتون من المشركين، فيصاب من نسائهم وذراريهم؟ قال: هم منهم'
+  - motif: god-knows-what-they-would-have-done
+    refs:
+    - Jāmiʿ 2:768.2
+    - Jāmiʿ 2:768.3
+    - Jāmiʿ 2:769.1
+    - Jāmiʿ 2:769.2
+    - Jāmiʿ 2:769.3
+    note: 'سئل رسول اللَّه ﷺ عن ذراري المشركين، فقال: اللَّه أعلم بما كانوا عاملين; اللَّه إذْ خلقهم أعلم'
+  - motif: ibn-abbas-gave-up-his-view-on-children
+    refs:
+    - Jāmiʿ 2:769.1
+    note: 'أتي عليَّ زمانٌ، وأنا أقول: أولاد المسلمين مع المسلمين، وأولاد المشركين مع المشركين ... فأمْسَكتُ عن قولي'
+  - motif: boy-fallen-from-litter-answers-question-on-lahin
+    refs:
+    - Jāmiʿ 2:769.2
+    note: ما تقول في اللاهين؟ فسكت ... فإذا هو بصبي قد سقط من محفّة، فإذا هو يبحث في الأرض ... فنهى رسول اللَّه ﷺ عن قتل الأولاد
+  - motif: children-follow-fathers-without-deeds-asked
+    refs:
+    - Jāmiʿ 2:769.3
+    note: 'ذراري المؤمنين؟ فقال: هم من آبائهم. فقلت: يا رسول اللَّه، بلا عمل؟ ! ... فذراري المشركين؟ قال: من آبائهم'
+- id: hadith-2-children-of-muslims-in-paradise
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Dead children are the little creatures of paradise; fostered by Abraham and Sarah; Abraham with the children in the dream (bāb on Q 52:21)
+  read:
+  - Jāmiʿ 2:771.1-772.1
+  quran:
+  - '52:21'
+  tags:
+  - motif: dead-children-little-creatures-of-paradise
+    refs:
+    - Jāmiʿ 2:771.1
+    note: إنّه قد مات لي ابنان ... صغارهم دَعاميص الجنّة، يتلقَّى أحدُهم أباه ... فيأخذ بثوبه ... كما آخذ أنا بصنفة ثوبك هذا ... حتّى يدخله اللَّه وأباه الجنّة
+  - motif: abraham-and-sarah-foster-muslim-children
+    refs:
+    - Jāmiʿ 2:771.2
+    note: ذراري المسلمين في الجنّة يكفلهم إبراهيم; أولاد المسلمين في جبل في الجنّة يكفلهم إبراهيم وسارة، فإذا كان يوم القيامة دُفعوا إلى آبائهم
+  - motif: abraham-in-meadow-with-children-who-died-on-fitra
+    refs:
+    - Jāmiʿ 2:772.1
+    note: وأمّا الرّجل الطّويل الذي في الرّوضة فإنّه إبراهيم ... وأما الوِلْدان الذين حوله فكلُّ مولود مات على الفطرة
+  - motif: children-of-polytheists-with-abraham
+    refs:
+    - Jāmiʿ 2:772.1
+    note: 'يا رسول اللَّه، وأولاد المشركين؟ فقال رسول اللَّه ﷺ: وأولاد المشركين'
+  hints:
+  - Abraham (with Sarah) holding the dead children in paradise, against Abraham's bosom receiving the dead in Luke 16:22-23
+- id: hadith-2-strong-believer-and-trial
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The strong believer; 'if' opens Satan's work; a rank reached through trials
+  read:
+  - Jāmiʿ 2:774.1-774.2
+  tags:
+  - motif: strong-believer-better-and-if-opens-satans-work
+    refs:
+    - Jāmiʿ 2:774.1
+    note: 'المؤمن القوي خير وأحبّ إلى اللَّه من المؤمن الضعيف ... ولكن قل: قدرُ اللَّهِ، وما شاء فعل، فإنَّ لَوْ تفتحُ عمل الشّيطان'
+  - motif: rank-reached-by-trials
+    refs:
+    - Jāmiʿ 2:774.2
+    note: إنّ الرجل لتكون له عند اللَّه المنزلة فما يبلغها بعمل، فما يزال اللَّه يبتليه بما يكره حتَّى يُبلِّغه إيِّاها
+- id: hadith-2-withdrawal-and-destined-souls
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Withdrawal (ʿazl) does not prevent a destined soul; seed on a rock would yield a child
+  read:
+  - Jāmiʿ 2:775.1-776.2
+  tags:
+  - motif: every-soul-destined-will-come-to-be
+    refs:
+    - Jāmiʿ 2:775.1
+    - Jāmiʿ 2:776.2
+    note: غزوة بني المصطلق ... وأَحْبَبْنا الفداءَ، فأردنا أن نعزل ... ما عليكم أن لا تفعلوا، ما من نسمة كائنة إلى يوم القيامة إلّا وهي كائنة; لم يخلق نسمة هو باريها إلّا وهي كائنة
+  - motif: slave-girl-conceives-despite-withdrawal
+    refs:
+    - Jāmiʿ 2:775.2
+    note: إنّ لي جاريةً هي خادمنا وسانيتُنا ... اعزلْ عنها إن شئتَ، فإنّه سيأتيها ما قُدِّر لها ... إنّ الجارية قد حَبِلتْ
+  - motif: seed-poured-on-rock-would-yield-child
+    refs:
+    - Jāmiʿ 2:776.1
+    note: لو أنّ الماء الذي يكون منه الولد أهرقته على صخرة لأخرج اللَّه منها -أو يخرج منها ولدًا
+  hints:
+  - Withdrawal permitted as useless against a destined soul, against Onan who 'spilled it on the ground' and was struck dead (Gen 38:9-10), and b. Niddah 13a on one who 'emits seed in vain'
+- id: hadith-2-castration-pen-has-dried
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abū Hurayra asks leave to castrate himself - 'the pen has dried on what you will meet'
+  read:
+  - Jāmiʿ 2:777.1
+  tags:
+  - motif: youth-asks-leave-to-castrate-pen-has-dried
+    refs:
+    - Jāmiʿ 2:777.1
+    note: إنّي رجل شاب، وإنّي أخاف على نفسي العنت ... فأذن لي أن أختصي؟ ... ثلاث مرّات ... قد جفَّ القلم بما أنت لاق، فاختص على ذلك أو ذر
+  - motif: pen-has-dried
+    refs:
+    - Jāmiʿ 2:777.1
+    note: قد جفَّ القلم بما أنت لاق
+  hints:
+  - A young man asking to castrate himself for chastity is answered by decree, against Matt 19:12 ('eunuchs who made themselves eunuchs for the kingdom of heaven') and the bar on the castrated in Deut 23:1
+- id: hadith-2-guard-god
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '"Boy, guard God and he will guard you ... the pens are lifted and the pages dry"'
+  read:
+  - Jāmiʿ 2:777.2
+  tags:
+  - motif: guard-god-and-he-guards-you-pens-lifted
+    refs:
+    - Jāmiʿ 2:777.2
+    note: 'كنتُ خلفَ رسول اللَّه ﷺ يومًا، فقال: يا غلام ... احفظ اللَّه يحفظك ... لو اجْتمعت على أن ينفعوك ... رُفعتِ الأقلام وجَفَّت الصُّحف'
+- id: hadith-2-adam-and-the-black-shapes
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: In the ascent, Adam in the first heaven laughs at the shapes on his right and weeps at those on his left
+  read:
+  - Jāmiʿ 2:778.1
+  tags:
+  - motif: ascent-from-roof-opened-at-mecca
+    refs:
+    - Jāmiʿ 2:778.1
+    note: فُرج عن سقف بيتي، وأنا بمكة، فنزل جبريل
+  - motif: prophets-breast-split-washed-with-zamzam
+    refs:
+    - Jāmiʿ 2:778.1
+    note: فَفَرَجَ صدري ثم غسله بماء زمزم ثم جاء بطست من ذهب ممتلئ حكمة وإيمانًا
+  - motif: gatekeeper-of-heaven-asks-who-is-with-you
+    refs:
+    - Jāmiʿ 2:778.1
+    note: 'قال جبريل لخازن السماء: افتح. قال: من هذا؟ ... هل معك أحد؟ ... أُرسل إليه؟'
+  - motif: adam-laughs-right-weeps-left-at-offspring
+    refs:
+    - Jāmiʿ 2:778.1
+    note: فإذا رجل قاعد على يمينه أَسْوِدة وعلى يساره أَسْوِدة، إذا نظر قبل يمينه ضحك، وإذا نظر قبل يساره بكي ... نسم بنيه
+  hints:
+  - Adam enthroned between the souls of his descendants, laughing at those bound for paradise and weeping at those bound for the fire, against Testament of Abraham (A) 11, where Adam sits between the narrow and the broad gate, rejoicing and weeping as souls pass
+- id: hadith-2-god-makes-every-maker
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: God makes every maker and his work (bāb on Q 37:96); God decrees on his messenger's tongue
+  read:
+  - Jāmiʿ 2:779.1-779.2
+  quran:
+  - 37:96
+  tags:
+  - motif: god-makes-every-maker-and-his-work
+    refs:
+    - Jāmiʿ 2:779.1
+    note: إنّ اللَّه يصنع كلّ صانع وصنعته
+  - motif: intercede-and-be-rewarded
+    refs:
+    - Jāmiʿ 2:779.2
+    note: اشْفعوا توجرُوا، ويقضي اللَّه على لسان رسوله ﷺ ما شاء
+- id: hadith-2-istidraj
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Worldly gifts to the sinner are gradual entrapment (bāb on Q 6:44, 68:44)
+  read:
+  - Jāmiʿ 2:780.1
+  quran:
+  - '6:44'
+  - '68:44'
+  tags:
+  - motif: worldly-gifts-for-sins-are-istidraj
+    refs:
+    - Jāmiʿ 2:780.1
+    note: إذا رأيتَ اللَّه يُعطي العبد من الدّنيا على معاصيه ما يحبّ، فإنَّما هو استدراج
