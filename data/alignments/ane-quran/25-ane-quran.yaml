@@ -6,13 +6,44 @@ new_motifs:
   evidence-in-the-seduction-charge: {label: "The physical evidence produced in the seduction charge [neutral]", cluster: narrative}
   prayer-of-the-falsely-accused-youth: {label: "The falsely accused youth prays and his god answers [neutral]", cluster: narrative}
   husbands-judgment-on-the-lying-wife: {label: "What the husband does to the wife once her lie is known [neutral]", cluster: narrative}
+  thrown-object-becomes-a-beast-and-reverts-in-the-hand: {label: "An object thrown down becomes a live beast and, taken in the hand, returns to what it was [neutral]", cluster: miracle}
+  severed-creature-rejoined-by-a-word: {label: "Creatures cut in pieces, the parts set apart, are made whole and alive by a spoken word [neutral]", cluster: miracle}
+  penalty-named-by-the-accused-if-proved-false: {label: "The accused names the penalty that will apply if he is proved false, and it is carried out [neutral]", cluster: narrative}
+  cause-of-the-flight-from-egypt: {label: "What drives a man of the Egyptian court to flee Egypt in fear [neutral]", cluster: narrative}
+  water-and-the-old-chief-at-the-fugitives-arrival: {label: "The fugitive arriving from Egypt is received at the water by an old chief of a herding people [neutral]", cluster: narrative}
+  host-gives-the-fugitive-his-daughter: {label: "The foreign host gives the fugitive from Egypt his daughter in marriage, and on what terms [neutral]", cluster: narrative}
+  dreaded-champion-killed-by-one-man: {label: "A champion whom everyone fears is killed by one unlikely man", cluster: narrative}
 reviewed:
 - unit: ane-sinuhe-w1-duel-with-champion
-  checked: [quran-26-noah, quran-12-joseph-full, quran-10-noah]
-  matches: []
+  checked: [quran-26-noah, quran-12-joseph-full, quran-10-noah, quran-2-talut-jalut]
+  matches:
+  - with: quran-2-talut-jalut
+    motif: dreaded-champion-killed-by-one-man
+    refs: ["Sinuhe W1:110", "Sinuhe W1:132", "Sinuhe W1:137", "Sinuhe W1:139"]
+    with_refs: ["2:249", "2:251"]
+    relation: parallel
+    record:
+      agent: [Sinuhe, Dāwūd]
+      action: ["kills the champion", "kills the champion"]
+      object: ["the unequalled strongman of Retenu", Jālūt]
+      quoted: ["pr,y pw nn sn,nw =f ... jn-jw wn ky nḫt ꜥḥꜣ r =f ... sti̯.n =j sw ꜥḥꜣ,w =j mn m nḥb,t =f", "lā ṭāqata lanā l-yawma bi-Jālūta wa-junūdihi ... wa-qatala Dāwūdu Jālūt"]
+      outcome: ["the victor takes the foe's herds and grows great", "God gives the victor kingship and wisdom"]
+    note: "The strongman of Retenu is 'a champion without a second' (pr,y pw nn sn,nw =f, W1:110); the onlookers grieve, 'is there another warrior who can fight him?' (W1:132); Sinuhe's arrow sticks in his neck, he falls on his nose, and Sinuhe kills him with his own axe (W1:137-139). Q 2:249: 'we have no strength today against Jālūt and his troops'; 2:251: 'and Dāwūd killed Jālūt'. The champion everyone fears, killed by one unlikely man; the Quran gives no weapons and turns the reward into kingship (al-mulk) from God, where Sinuhe takes the loser's goods."
 - unit: ane-sinuhe-w1-reflection-and-prayer
   checked: [quran-12-joseph-full, quran-19-zechariah-and-john, quran-43-zukhruf-abraham-and-silver-roofs, quran-93-94-forenoon-and-expansion]
-  matches: []
+  matches:
+  - with: quran-19-zechariah-and-john
+    motif: old-mans-lament-lost-vigour
+    refs: ["Sinuhe W1:156/2", "Sinuhe W1:167", "Sinuhe W1:168", "Sinuhe W1:169", "Sinuhe W1:169/2", "Sinuhe W1:170", "Sinuhe W1:170/3"]
+    with_refs: ["19:3", "19:4", "19:5", "19:6"]
+    relation: parallel
+    record:
+      agent: [Sinuhe, Zakariyyā]
+      action: ["prays, listing the failures of his aged body", "prays, listing the failures of his aged body"]
+      recipient: ["the god who ordained the flight, and the king", "his Lord"]
+      quoted: ["jꜣw hꜣi̯.w wgg ꜣs.n =f wj jr,t.du =j dns ꜥ,wj =j nw", "wahana l-ʿaẓmu minnī wa-shtaʿala r-raʾsu shayban"]
+      outcome: ["asks to return and be buried in the land of his birth", "asks for an heir (waliyyan yarithunī)"]
+    note: "Sinuhe's prayer: 'old age has come down, weakness has overtaken me; my eyes are heavy, my arms weak, my legs have stopped following, the heart is weary; I am near to departing' (W1:167-170/3), framed by 'O god who ordained this flight, be gracious, bring me to the Residence' and 'what is more important than my burial in the land where I was born?' (W1:156/2-159). Zakariyyā's private call: 'my Lord, the bone has grown feeble in me and the head is aflame with grey' (19:4), then 'grant me an heir' (19:5-6). The aged suppliant's catalogue of his failing body as the ground of his request; the requests differ: a grave at home against a son."
 - unit: ane-sinuhe-w1-royal-letter
   checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-7-moses-pharaoh]
   matches: []
@@ -32,8 +63,53 @@ reviewed:
   checked: [quran-12-joseph-full, quran-43-zukhruf-pharaoh-claims, quran-15-abraham-guests-lot]
   matches: []
 - unit: ane-sinuhe-w2-flight-and-retenu
-  checked: [quran-28-moses-kills-and-flees, quran-33-trench, quran-18-moses-and-the-servant, quran-15-abraham-guests-lot]
-  matches: []
+  checked: [quran-28-moses-kills-and-flees, quran-33-trench, quran-18-moses-and-the-servant, quran-15-abraham-guests-lot, quran-28-moses-in-midian, quran-3-misers-mockers]
+  matches:
+  - with: quran-28-moses-kills-and-flees
+    motif: cause-of-the-flight-from-egypt
+    refs: ["Sinuhe W2:24", "Sinuhe W2:25", "Sinuhe W2:26", "Sinuhe W2:26/2", "Sinuhe W2:31", "Sinuhe W2:64"]
+    with_refs: ["28:15", "28:20", "28:21"]
+    relation: divergence
+    record:
+      agent: [Sinuhe, Mūsā]
+      action: ["flees Egypt in fear", "flees Egypt in fear"]
+      instrument: ["overhears the secret message himself", "a man comes running from the far end of the city to warn him"]
+      quoted: ["sḏm.n =j ḫrw =f jw =f mdwi̯ =f ... pzḫ jb =j zš ꜥ.wj =j sdꜣ ḫr m ꜥ,t =j nb.t", "inna l-malaʾa yaʾtamirūna bika li-yaqtulūka fa-khruj ... fa-kharaja minhā khāʾifan yataraqqab"]
+      outcome: ["no deed behind it: 'I was not spat upon, I was not reproached'", "behind it, the man he killed"]
+    note: "Sinuhe hears the messenger speaking of the king's death, 'my heart was distraught, my arms spread, trembling fell on all my limbs', and runs, 'I did not expect to live after this' (W2:24-31); to his host he insists 'I was not spat upon, I was not reproached' (W2:64). Mūsā, after the killing of 28:15, is warned by a running man: 'the chiefs are conspiring to kill you, so leave'; 'he left it fearful, watchful (khāʾifan yataraqqab)' (28:20-21). The panicked flight from Egypt of a man of the court in fear for his life; the cause differs: no crime at all, against a killing."
+  - with: quran-28-moses-in-midian
+    motif: water-and-the-old-chief-at-the-fugitives-arrival
+    refs: ["Sinuhe W2:46/2", "Sinuhe W2:47", "Sinuhe W2:48", "Sinuhe W2:49", "Sinuhe W2:51", "Sinuhe W2:51/2"]
+    with_refs: ["28:23", "28:24", "28:25"]
+    relation: divergence
+    record:
+      agent: ["a nomad chief who had been in Egypt", "the women's father, an old chief (shaykhun kabīr)"]
+      action: ["gives the fugitive water and boiled milk", "is given water for his flock by the fugitive, then rewards him"]
+      place: ["in the desert, among the herds (lowing of cattle)", "at the water of Madyan, among the herdsmen"]
+      quoted: ["sjꜣ.n wj mꜥtn jm pꜣu̯ wnn ḥr Km,t ꜥḥꜥ.n rdi̯.n =f n =j mw psi̯.n =f n =j jrt,t", "wa-abūnā shaykhun kabīr ... fa-saqā lahumā ... inna abī yadʿūka li-yajziyaka ajra mā saqayta lanā"]
+      outcome: ["he goes with him to his tribe, who treat him well", "he goes to him, tells his story and is told 'do not fear'"]
+    note: "Parched in the desert, Sinuhe hears the lowing of cattle; 'the chief among them, who had been in Egypt, recognised me; he gave me water and boiled milk for me', and Sinuhe goes with him to his tribe (W2:46/2-51/2). Mūsā reaches 'the water of Madyan' among the herdsmen, waters the flock of two women whose 'father is a very old man (shaykhun kabīr)', and is summoned by him 'to reward you for watering for us' (28:23-25). The fugitive from Egypt is received at the water by an elder of the herding people; the giving of water is reversed, to the fugitive in Sinuhe, by the fugitive in the Quran."
+  - with: quran-28-moses-in-midian
+    motif: foreign-ruler-welcomes-fugitive
+    refs: ["Sinuhe W2:54", "Sinuhe W2:55", "Sinuhe W2:58", "Sinuhe W2:59", "Sinuhe W2:61", "Sinuhe W2:63"]
+    with_refs: ["28:25"]
+    relation: parallel
+    record:
+      agent: ["Ammunenshi, ruler of Upper Retenu", "the old chief of Madyan"]
+      action: ["hears why the fugitive came and assures him of safety with him", "hears why the fugitive came and assures him of safety with him"]
+      quoted: ["nfr tw ḥnꜥ =j ... pḥ.n =k nn ḥr-zj-jšst jn-jw wn ḫpr,t m ẖnw", "fa-lammā jāʾahu wa-qaṣṣa ʿalayhi l-qaṣaṣa qāla lā takhaf najawta mina l-qawmi ẓ-ẓālimīn"]
+      outcome: ["the account is evasive ('as if', m jwms)", "the account is the whole story (al-qaṣaṣ)"]
+    note: "Ammunenshi: 'you will be well with me (nfr tw ḥnꜥ =j), you will hear the speech of Egypt'; 'why have you come here? has something happened at the Residence?'; Sinuhe answers with a half-truth, said 'as if' (m jwms) (W2:54-63). In 28:25 Mūsā 'told him the story', and the chief answers 'do not fear, you have escaped from the wrongdoing people'. The host's question, the fugitive's account and the assurance of safety; the honesty of the account differs."
+  - with: quran-3-misers-mockers
+    motif: every-soul-tastes-death
+    refs: ["Sinuhe W2:47"]
+    with_refs: ["3:185"]
+    relation: echo
+    record:
+      agent: ["Sinuhe, dying of thirst", "every soul"]
+      object: ["the taste of death", "death, tasted"]
+      quoted: ["ḏd.n =j dp,t mwt nn", "kullu nafsin dhāʾiqatu l-mawt"]
+    note: "'I was parched, my throat was dusty; I said: this is the taste of death (dp,t mwt)' (W2:47). Q 3:185 (also 21:35, 29:57): 'every soul will taste death (dhāʾiqatu l-mawt)'. The image of death as something tasted, in Egyptian of one man near death, in the Quran of all mortals."
 - unit: ane-sinuhe-w2-eulogy-and-yaa
   checked: [quran-2-talut-jalut, quran-7-idol-request, quran-12-joseph-full]
   matches: []
@@ -53,8 +129,20 @@ reviewed:
   checked: [quran-12-joseph-full, quran-43-zukhruf-pharaoh-claims, quran-15-abraham-guests-lot]
   matches: []
 - unit: ane-sinuhe-w5-retenu-and-eulogy
-  checked: [quran-8-ratio-captives, quran-12-joseph-full, quran-15-abraham-guests-lot]
-  matches: []
+  checked: [quran-8-ratio-captives, quran-12-joseph-full, quran-15-abraham-guests-lot, quran-28-moses-in-midian]
+  matches:
+  - with: quran-28-moses-in-midian
+    motif: host-gives-the-fugitive-his-daughter
+    refs: ["Sinuhe W5:35/3", "Sinuhe W5:36", "Sinuhe W5:36/2"]
+    with_refs: ["28:27", "28:28"]
+    relation: divergence
+    record:
+      agent: ["Ammunenshi, ruler of Upper Retenu", "the old chief of Madyan"]
+      action: ["marries the fugitive to his daughter", "marries the fugitive to one of his two daughters"]
+      recipient: [Sinuhe, Mūsā]
+      quoted: ["rdi̯.n =f wj r ḥꜣ,t wḥy,t =f mnj.n =f wj m zꜣ,t =f", "innī urīdu an unkiḥaka iḥdā bnatayya hātayni ʿalā an taʾjuranī thamāniya ḥijaj"]
+      outcome: ["he is set at the head of the tribe and given choice land", "he is to serve the father eight or ten years as hire"]
+    note: "Ammunenshi 'set me at the head of his tribe and married me to his daughter' and let him choose land at his border (W5:35/3-36/2; B has 'his eldest daughter'). The Madyan chief: 'I wish to marry you to one of these two daughters of mine on condition that you hire yourself to me for eight years (thamāniya ḥijaj)' (28:27). The foreign host of the fugitive from Egypt gives him a daughter; in Retenu with a chiefship and land, in Madyan in exchange for years of service."
 - unit: ane-sinuhe-w5-duel
   checked: [quran-12-joseph-full, quran-26-noah, quran-10-noah]
   matches: []
@@ -256,23 +344,73 @@ reviewed:
   checked: [quran-12-joseph-full, quran-18-moses-and-the-servant, quran-37-sacrifice-of-son]
   matches: []
 - unit: ane-truthfalsehood-trial-and-punishment
-  checked: [quran-5-torah-gospel-judgment, quran-84-splitting, quran-81-folding-up, quran-7-opening-scales]
-  matches: []
+  checked: [quran-5-torah-gospel-judgment, quran-84-splitting, quran-81-folding-up, quran-7-opening-scales, quran-12-joseph-full]
+  matches:
+  - with: quran-12-joseph-full
+    motif: penalty-named-by-the-accused-if-proved-false
+    refs: ["TruthFalsehood 10_6", "TruthFalsehood 10_6/2", "TruthFalsehood 11_1", "TruthFalsehood 11_3"]
+    with_refs: ["12:74", "12:75"]
+    relation: divergence
+    record:
+      agent: [Falsehood, "Yūsuf's brothers"]
+      action: ["names, under oath, the penalty if he is proved false", "name the penalty if they are proved false"]
+      quoted: ["mtw =tw gmi̯ Mꜣꜥ,tj jw =f ꜥnḫ jw =tw r kꜣmn =f m tꜣy =f jr,t 2", "fa-mā jazāʾuhu in kuntum kādhibīn; qālū jazāʾuhu man wujida fī raḥlihi fa-huwa jazāʾuh"]
+      recipient: ["the Ennead", "Yūsuf's men"]
+      outcome: ["Truth is found alive and the penalty falls on Falsehood himself", "the cup is found in their brother's bag and the penalty falls on him"]
+    note: "Falsehood swears: 'if Truth is found alive, let me be blinded in both eyes and made doorkeeper in the house of Truth' (10_6/2); Truth is found alive and Falsehood is blinded (11_1-11_3). In 12:74-75 the accusers ask 'what is its penalty if you are liars?' and the brothers answer 'he in whose saddlebag it is found, he is its penalty'; the cup is found with their brother (12:76). The accused sets the forfeit on the condition of being proved false, and the condition comes true. In Egypt the forfeit falls on the swearer, a real liar; in the Quran on an innocent brother, by Yūsuf's plan (kadhālika kidnā li-Yūsuf)."
 - unit: ane-westcar-1-djoser-tale-end
   checked: [quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians, quran-26-moses-and-pharaoh]
   matches: []
 - unit: ane-westcar-1-ubaoner-wax-crocodile
-  checked: [quran-7-moses-pharaoh, quran-24-penalties-and-lian, quran-20-moses-pharaoh-magicians, quran-66-tahrim-wives-and-the-four-women]
-  matches: []
+  checked: [quran-7-moses-pharaoh, quran-24-penalties-and-lian, quran-20-moses-pharaoh-magicians, quran-66-tahrim-wives-and-the-four-women, quran-20-moses-call]
+  matches:
+  - with: quran-20-moses-call
+    motif: thrown-object-becomes-a-beast-and-reverts-in-the-hand
+    refs: ["Westcar 3:12", "Westcar 3:13", "Westcar 4:1", "Westcar 4:1/2", "Westcar 4:2", "Westcar 4:2/2"]
+    with_refs: ["20:19", "20:20", "20:21"]
+    relation: divergence
+    record:
+      agent: ["the steward, at the lector priest Ubaoner's order", "Mūsā, at God's order"]
+      action: ["throws it down; it becomes a live beast; taken in the hand, it is again what it was", "throws it down; it becomes a live beast; taken in the hand, it is again what it was"]
+      object: ["a crocodile of wax", "his staff"]
+      outcome: ["a crocodile of 7 cubits that seizes the adulterer", "a serpent that moves (ḥayyatun tasʿā), a sign for Mūsā"]
+      quoted: ["ḫꜣꜥ.n ... pꜣ msḥ n mnḥ ... ḫpr.n =f m msḥ n mḥ 7 ... ṯꜣi̯.n =f sw wn.jn =f m ḏr,t =f msḥ n mnḥ", "fa-alqāhā fa-idhā hiya ḥayyatun tasʿā; qāla khudhhā wa-lā takhaf sa-nuʿīduhā sīratahā l-ūlā"]
+    note: "Westcar: the wax crocodile is thrown (ḫꜣꜥ) into the water and 'became a crocodile of 7 cubits' (3:12-13); before the king, who says 'this crocodile is dangerous!', Ubaoner stoops and takes it, 'and it was in his hand a crocodile of wax' (4:1-4:2/2). Q 20:19-21: 'throw it down', and 'it was a serpent moving'; 'take it and do not fear, We will return it to its first state (sīratahā l-ūlā)'. The three-step sequence (thrown, alive, grasped and restored) is shared, with the fear of the beast voiced in both; the object, the agent and the purpose differ: a magician's wax figure used to punish, against a herdsman's staff made a sign by God."
 - unit: ane-westcar-snefru-rowing-maidens
   checked: [quran-26-moses-and-pharaoh, quran-7-moses-pharaoh, quran-18-moses-and-the-servant, quran-20-moses-pharaoh-magicians]
-  matches: []
+  matches:
+  - with: quran-26-moses-and-pharaoh
+    motif: how-the-sea-was-split
+    refs: ["Westcar 6:7/3", "Westcar 6:8", "Westcar 6:10/2", "Westcar 6:11", "Westcar 6:12/2"]
+    with_refs: ["26:63", "26:65", "26:66"]
+    relation: divergence
+    record:
+      agent: ["the lector priest Djadjaemankh", "God, by Mūsā's staff"]
+      instrument: ["his spells (ḥkꜣ.w)", "the staff"]
+      action: ["piles one half of the water upon the other", "splits the sea, each part like a great mountain"]
+      number: ["12 cubits deep, 24 when folded", null]
+      outcome: ["a lost fish pendant is picked up from the bottom; the waters are put back in their places", "Mūsā and those with him are saved; the others are drowned"]
+      quoted: ["rḏi̯.n =f rmn n mw n pꜣ š ḥr wꜥ =sn", "fa-nfalaqa fa-kāna kullu firqin ka-ṭ-ṭawdi l-ʿaẓīm"]
+    note: "Djadjaemankh, by his spells, 'placed one side (rmn) of the water of the lake upon the other' and found the pendant lying on a potsherd: the water, 12 cubits deep, stood 24 cubits when folded; then 'he brought the waters of the lake back to their positions' (6:8-6:12/2). Q 26:63: 'strike the sea with your staff, and it split, and each part (firq) was like a great mountain (ṭawd)'; the waters then return on the pursuers (26:66). Water stood up in two masses, the bed laid bare, and the water put back: an Egyptian court marvel for a rower's trinket, against God's rescue of a people."
 - unit: ane-westcar-djedefhor-fetches-djedi
   checked: [quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-18-moses-and-the-servant]
   matches: []
 - unit: ane-westcar-djedi-at-court
   checked: [quran-26-moses-and-pharaoh, quran-2-four-birds, quran-3-annunciation-jesus, quran-7-moses-pharaoh]
-  matches: []
+  matches:
+  - with: quran-2-four-birds
+    motif: severed-creature-rejoined-by-a-word
+    refs: ["Westcar 8:17/2", "Westcar 8:18", "Westcar 8:20", "Westcar 8:21", "Westcar 8:22", "Westcar 8:23", "Westcar 8:24"]
+    with_refs: ["2:260"]
+    relation: divergence
+    record:
+      agent: ["Djedi, before King Khufu", "Ibrāhīm, at God's word"]
+      object: ["a goose, a bird, an ox, beheaded", "four birds, cut up"]
+      place: ["body to the west side of the hall, head to the east side", "a part on every hill"]
+      action: ["speaks his spells; the parts move to one another and the goose rises", "calls them; they come to him running"]
+      quoted: ["rḏi̯ pꜣ smn r gbꜣ jmn,tj ... ḏꜣḏꜣ =f r gbꜣ jꜣb,tj ... spr =f wꜥ r wꜥ ꜥḥꜥ.n pꜣ smn ꜥḥꜥ ḥr gꜣgꜣ", "fa-khudh arbaʿatan mina ṭ-ṭayri ... thumma jʿal ʿalā kulli jabalin minhunna juzʾan thumma dʿuhunna yaʾtīnaka saʿyan"]
+      outcome: ["a display of the magician's art", "a proof of how God gives life to the dead"]
+    note: "Djedi refuses to use a prisoner ('not on a human being', n-js n rmṯ, 8:16/2); a goose is beheaded, its body laid at the west side of the hall and its head at the east; he speaks his spells, the goose waddles until 'one part reached the other' and it stood up cackling; then a bird, then an ox (8:17/2-8:26). Q 2:260: Ibrāhīm, asking how God revives the dead, is told to take four birds, put a part on every hill, and call them: 'they will come to you running (saʿyan)'. Birds severed, the parts set far apart, a spoken word, and the parts come together alive. A magician's display at court against a demonstration that God raises the dead."
 - unit: ane-westcar-prophecy-of-three-kings
   checked: [quran-28-pharaoh-oppression-infant-moses, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians, quran-27-solomon-ants-hoopoe-sheba]
   matches: []
