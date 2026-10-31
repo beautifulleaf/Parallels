@@ -1,0 +1,323 @@
+# Full read of the ANE corpus, chunk 32: ORACC CAMS/GKAB tablets from Uruk and Nimrud (SpTU 4-5, BagM Beih. 2, BRM 4, CTN 4, TCL 6, KAR 132):
+# SB Gilgameš II and an underworld fragment, rituals against ghosts, potency incantations, namburbi, house-protection rituals,
+# kettledrum rituals, Šurpu VII, Muššuʾu V, Lipšur litanies, šuʾilas, Enūma eliš II, Ludlul I, Uruk temple rituals, Anzu I.
+# Read from ORACC lemmatized transliterations (word glosses only, no translation); tags rest on the Akkadian (and Sumerian).
+new_motifs:
+  ritual-against-seeing-dead-in-dreams: {label: "A ritual and amulet are prescribed for a man who keeps seeing dead people (ghosts) in his dreams, to cut them off from him", cluster: underworld}
+  leather-amulet-bag-on-neck: {label: "Stones, plants, metals (even human bone) are wrapped in a leather bag and hung on the patient's neck as an amulet", cluster: magic}
+  potency-incantation-divine-precedent: {label: "Potency (ša-zi-ga) incantation: as Ištar did for Dumuzi, Nanaya for her husband, Išhara for Almanu, so I do for so-and-so; may his flesh be aroused", cluster: magic}
+  snake-in-house-portent-namburbi: {label: "A namburbi ritual undoes the evil portended by a snake seen in a man's house", cluster: omen}
+  supplicant-afraid-terrified-before-portent: {label: "The supplicant tells the god he is afraid, frightened and constantly terrified because of the ominous sign", cluster: omen}
+  evil-may-not-approach-litany: {label: "Its evil may not come near, not approach, not reach me: a litany of negated verbs of approach", cluster: magic}
+  kuppuru-wiping-patient-clean: {label: "The patient is ritually 'wiped' (kuppuru) with dough, flour, clay lumps or a sheep's heart, and the materials carry off the evil", cluster: magic}
+  oath-by-life-of-anunnaki: {label: "Exorcistic adjuration 'be sworn by the life of the Anunnaki, the great gods' (zi Anunnakene ... ḫe-pà)", cluster: magic}
+  sun-god-opens-bolts-of-heaven: {label: "The sun god opens (or passes through) the bolted locks of heaven", cluster: cosmology}
+  justice-at-left-wellbeing-behind: {label: "Prayer that personified Justice (Mīšaru) stand at the supplicant's side and well-being (šulmu) follow behind him", cluster: prayer}
+  amulet-stones-bring-favour-and-success: {label: "A set of stones strung on coloured threads makes the wearer reconciled with his god, his prayer heard, favoured by people, his wishes attained, and keeps terror and evil away", cluster: magic}
+  ritual-before-venus-star: {label: "A ritual is performed at night before the planet Venus (Delebat), with incense and libation", cluster: cult}
+  ritual-turning-back-chest-of-enemy: {label: "Ritual 'to turn back the breast of the evil one and the enemy' from a man's house", cluster: magic}
+  evil-eye-mouth-tongue-go-out: {label: "Sumerian litany: the evil eye, the evil mouth, the evil tongue, anything evil, may it go out (ḫe-em-ta-è)", cluster: magic}
+  litany-be-favourable-to-me: {label: "Litany asking sun god, judge, personal god, the gods, man and humanity in turn: be favourable to me (še-ga-me-en)", cluster: prayer}
+  cut-off-foot-of-evil-from-house: {label: "The aim of a house ritual is to 'cut off the foot of evil' (šēp lemutti parāsu) so that it cannot enter the house", cluster: magic}
+  protective-figurines-buried-at-threshold: {label: "Clay figurines of protective spirits, armed with weapons, are buried upright under the threshold or at the gate, addressed and sworn by Šamaš to bar evil from the house", cluster: magic}
+  figurines-of-clay-from-garden-ditch: {label: "The clay for the protective figurines is taken from a garden ditch and mixed with water 'of bowing down'", cluster: magic}
+  house-sprinkled-with-blood-and-milk: {label: "The house is sprinkled with the blood of a kid mixed with temple-well water and milk", cluster: cult}
+  house-swept-sweepings-thrown-in-river: {label: "The house is swept with a palm spadix and its sweepings thrown into the river", cluster: cult}
+  bronze-dagger-buried-under-threshold: {label: "A bronze dagger is buried under the threshold of the outer gate, hilt downward and point upward, against epidemic", cluster: magic}
+  evil-addressed-hu-hu-lion-wolf: {label: "An incantation addresses the evil prowling round the house: I have gone round, seen and sought you; since you are like a lion without mercy, like a wolf, I have flattened you with my weapons and shut you in", cluster: magic}
+  apotropaic-monster-figurines-at-four-sides: {label: "Pairs of figurines of monsters (laḫmu, uridimmu, bašmu, mušḫuššu) are buried right and left at the north, east, west and south of the house", cluster: magic}
+  figurine-addressed-pusher-of-evil: {label: "The protective figurine is addressed: you are the image that pushes back the evil one and the enemy; guard my right and left and do not slacken", cluster: magic}
+  evil-banished-to-cross-river-and-mountain: {label: "May the evil cross the river, cross the mountain and be 3,600 leagues away from my body", cluster: magic}
+  demons-drawn-on-doorposts-addressed: {label: "Figures are drawn on the right and left doorposts and on the door, and an incantation is spoken to each, naming the fierce demons it bars", cluster: magic}
+  bed-surrounded-with-flour-circle: {label: "A boundary of flour is drawn round the patient's bed in a ritual", cluster: magic}
+  river-hubur-crossing-underworld: {label: "The crossing (nēberu) of the netherworld river Ḫubur is passed by the dead", cluster: underworld}
+  genitals-anointed-for-potency: {label: "In a potency rite the man's penis and the woman's vulva are anointed with oil into which an incantation has been recited", cluster: magic}
+  adversary-at-law-silenced: {label: "A ritual or amulet is used against 'the lord of my lawsuit' (bēl dabābi), the speaker's adversary at law", cluster: magic}
+  may-my-signs-be-favourable: {label: "Prayer that the supplicant's omens and signs (ittātu) become good and his speech find favour", cluster: prayer}
+  amulet-wards-off-named-evils: {label: "An amulet is said to keep away a list of named evils: hatred, injustice, 'cutting-off of life', 'seizing of the mouth', terror, and every evil deed", cluster: magic}
+  amulet-stones-on-coloured-cords: {label: "Amulet stones are strung on cords of linen, red wool and blue wool", cluster: magic}
+  seeds-buried-at-gate-against-disease: {label: "Seeds of seven plants mixed with honey are buried at the right of the outer gate so that illness and epidemic do not come near the house", cluster: magic}
+  holy-water-vessel-with-plants-stones-metals: {label: "A holy-water vessel (agubbû) is filled with temple-well water and a catalogue of plants, metals and precious stones for the house's protective spirit", cluster: cult}
+  honey-milk-wine-oil-poured-into-pit: {label: "A pit is opened at the gate and honey, milk, wine and oil are offered into it", cluster: cult}
+  palm-thorns-buried-at-gate: {label: "Date-palm thorns are buried at the right and left of the gate like a whip against demons", cluster: magic}
+units:
+  - id: ane-gkab-p348717-r-ii-enkidu-warns
+    tradition: ane-akkadian
+    title: "Enkidu's warning about Ḫumbaba and Gilgameš's reply: mankind's days are numbered (SpTU 4, 123 = Gilgameš SB II, Uruk MS)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Late Babylonian Uruk manuscript)
+    read: ["GKAB P348717 r.ii:1'-28'"]
+    tags:
+      - {motif: monster-appointed-by-high-god-to-guard-forest, refs: ["GKAB P348717 r.ii:8'-9'", "GKAB P348717 r.ii:14'"], note: "nāṣir qišti ḫumbaba; ana šullumu erēni"}
+      - {motif: forest-guardian-seven-terrors, refs: ["GKAB P348717 r.ii:9'-15'"], note: "ḫumbaba išemmē-ma; mannum-ma ... Adad 1-en (he is second only to Adad); mannu ša igerrûšu"}
+      - {motif: human-days-numbered-deeds-wind, refs: ["GKAB P348717 r.ii:19'-20'"], note: "awīlūtti manû [ūmūša], mimmû īteppušu šārū-ma: here šārū is preserved (TU15-MEŠ), not restored as in the SB composite"}
+      - {motif: mortality-motivates-quest-for-fame, refs: ["GKAB P348717 r.ii:17'-25'"], note: "ammīni ibri pisnuqiš ... pîka irmam-ma tulamman: Gilgameš rebukes Enkidu's slack speech; 'you were born and grew up in the steppe, lions feared you'"}
+      - {motif: giant-weapons-cast-for-expedition, refs: ["GKAB P348717 r.ii:26'-27'"], note: "alkam-ma ibri ana kiškattê: come, my friend, to the forge"}
+    hints:
+      - "Man's days numbered, his works wind: Ps 39:5-7, 90:10, 144:4; Job 7:7; Eccl 1:14, 2:11 (all is hevel and chasing wind); Q 57:20."
+
+  - id: ane-gkab-p348717-r-iii-elders-counsel
+    tradition: ane-akkadian
+    title: "The elders of Uruk warn Gilgameš: Ḫumbaba's voice is the Deluge (SpTU 4, 123 = Gilgameš SB II)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Late Babylonian Uruk manuscript)
+    read: ["GKAB P348717 r.iii:1'-30'"]
+    tags:
+      - {motif: elders-warn-young-king, refs: ["GKAB P348717 r.iii:16'-19'"], note: "itbû-ma mālikē rabbûtu ṭēme utarrū ana gilgāmeš: ṣeḫrēti gilgāmeš libbaka našīka u mimma ša tātamû ul tīde"}
+      - {motif: monster-voice-flood-mouth-fire-breath-death, refs: ["GKAB P348717 r.iii:20'-21'", "GKAB P348717 r.iii:9'"], note: "ḫumbaba rigmašu abūbu, pîšu girrum-ma, napissu mūtu"}
+      - {motif: monster-appointed-by-high-god-to-guard-forest, refs: ["GKAB P348717 r.iii:14'", "GKAB P348717 r.iii:27'"], note: "pulḫāta ša nišī išīmšu ellil"}
+      - {motif: guardian-monster-radiates-terror, refs: ["GKAB P348717 r.iii:15'", "GKAB P348717 r.iii:23'"], note: "ārid qištīšu iṣabbassu luʾtu: whoever goes down into his forest is seized by weakness"}
+      - {motif: forest-guardian-seven-terrors, refs: ["GKAB P348717 r.iii:22'", "GKAB P348717 r.iii:24'-26'"], note: "išemmē-ma ana 60 bēr ... qištīšu: he hears at sixty leagues"}
+    hints:
+      - "Young king and the elders' counsel: 1Kgs 12:6-14; 1Sam 17:33."
+      - "Fire from the monster's mouth: Job 41:11-13."
+
+  - id: ane-gkab-p348728-r-ghost-dreams
+    tradition: ane-akkadian
+    title: "Ritual and amulets against seeing the dead in dreams, prayer to the angry goddess (SpTU 4, 134)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348728 r:1-16"]
+    tags:
+      - {motif: ritual-against-seeing-dead-in-dreams, refs: ["GKAB P348728 r:1", "GKAB P348728 r:6-7"], note: "mītū ša immarū ana parāsi; ina šuttīšu mītū immar"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["GKAB P348728 r:4-5"], note: "[ilī] ištarī naplisā, aggu libbakunu linūḫa, lippašra kabattakunu, salīma šuknānni: look on me, may your furious heart rest, may your mood be loosened, grant me reconciliation"}
+      - {motif: leather-amulet-bag-on-neck, refs: ["GKAB P348728 r:8-15"], note: "eṣemti amēli, tarmuš, imḫur-līm, parzillu, kibrītu ... ina mašku ... ina kišādīšu šakānu: human bone among the ingredients"}
+      - {motif: water-and-flour-offerings-for-the-dead, refs: ["GKAB P348728 r:1", "GKAB P348728 r:6"], note: "loose: water of the river and mundu-flour mixed in an ox horn, with a torch, for the dead"}
+    hints:
+      - "The dead disturbing the living and necromancy forbidden: Deut 18:11; 1Sam 28:7-15; Isa 8:19."
+      - "Amulets and bound things on the neck: Prov 3:3, 6:21; Deut 6:8."
+
+  - id: ane-gkab-p348729-sha-zi-ga
+    tradition: ane-akkadian
+    title: "Ša-zi-ga potency incantation: as Ištar did for Dumuzi; amulet against the dead in dreams (SpTU 4, 135)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348729 o.ii:1-14", "GKAB P348729 r.i:1'-12'"]
+    tags:
+      - {motif: potency-incantation-divine-precedent, refs: ["GKAB P348729 o.ii:4-9"], note: "ipuš ištar ana dumuzi, ipuš nanaya ana ḫāʾirīšu, ipuš išḫara ana almanīšu, ēpuš anāku ana NENNI: liḫmû šīrūšu lizaqqipū ušaršu"}
+      - {motif: genitals-anointed-for-potency, refs: ["GKAB P348729 o.ii:1-3"], note: "iron, imḫur-līm and sulphur pounded into oil, the incantation recited seven times; the man's penis and the woman's vulva are anointed"}
+      - {motif: seven-fold-ritual-action, refs: ["GKAB P348729 o.ii:2", "GKAB P348729 o.ii:14"], note: "7-šu ... ŠID; a second rite 3-šu"}
+      - {motif: ritual-against-seeing-dead-in-dreams, refs: ["GKAB P348729 r.i:9'"], note: "ina šuttīšu mītū immar"}
+      - {motif: leather-amulet-bag-on-neck, refs: ["GKAB P348729 r.i:3'-8'"], note: "male copper, male iron in leather; flax cord on the neck"}
+    hints:
+      - "Fertility magic with mandrakes: Gen 30:14-16; love-plant imagery Song 7:13."
+
+  - id: ane-gkab-p348730-namburbi-snake
+    tradition: ane-akkadian
+    title: "Namburbi against the evil of a snake in a man's house; prayer to Šamaš the judge (SpTU 4, 136)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348730 o:1-17", "GKAB P348730 r:1'-13'"]
+    tags:
+      - {motif: snake-in-house-portent-namburbi, refs: ["GKAB P348730 o:1-2", "GKAB P348730 r:10'"], note: "NAM.BUR₂.BI ḪUL MUŠ ša ina bīt amēli ...; ḫul MUŠ"}
+      - {motif: sun-god-judge-of-gods, refs: ["GKAB P348730 o:9-11"], note: "muštēšer šamê u erṣeti šamaš dayyānu ... šamaš dayyānāta pānīka akmis"}
+      - {motif: god-as-shepherd-of-all-creatures, refs: ["GKAB P348730 o:10"], note: "rēʾû kīnu ša kala tenēšēti: true shepherd of all people"}
+      - {motif: supplicant-afraid-terrified-before-portent, refs: ["GKAB P348730 o:12-13"], note: "ṣerru annû ša šikkî ina bīti ...: palḫāku adrāku u šutadurāku"}
+      - {motif: evil-may-not-approach-litany, refs: ["GKAB P348730 o:14"], note: "lumunšu ai iṭḫe ai iqriba ai isniqa"}
+      - {motif: ritual-tent-on-riverbank, refs: ["GKAB P348730 o:3-8"], note: "loose: rite on the river bank: ground swept, pure water, 12 emmer loaves, dates, three flasks of beer, censer of juniper, a sheep sacrificed, a flour line drawn; the man stands over the snake"}
+    hints:
+      - "The serpent in the house: Amos 5:19 (leans his hand on the wall and a snake bites him)."
+      - "Šamaš as shepherd and judge of all: Ps 80:2, Ps 94:2 (judge of the earth)."
+
+  - id: ane-gkab-p348820-flakes
+    tradition: ane-akkadian
+    title: "Bīt rimki (?) bilingual fragments: cedar, purple wool, eyes covered (SpTU 5, 233)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["GKAB P348820"]
+    tags:
+      - {motif: purification-materials-catalogue, refs: ["GKAB P348820 flake:3'", "GKAB P348820 flake:6'"], note: "fragmentary: [ŋeš]eren 'cedar'; siki ḫe-me-da 'purple (red) wool'; other lines: 'covers the eyes' (igi bi₂-in-dul / iktum)"}
+    hints:
+      - "Cedar wood and crimson wool in purification: Lev 14:4-6, Num 19:6."
+
+  - id: ane-gkab-p348821-ashar-stone
+    tradition: ane-akkadian
+    title: "Unidentified incantation with the ashar stone of kingship and 'the lord of my lawsuit' (SpTU 5, 234)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348821 o:1-12", "GKAB P348821 r:1'-3'"]
+    tags:
+      - {motif: amulet-stones-bring-favour-and-success, refs: ["GKAB P348821 o:1", "GKAB P348821 o:4"], note: "fragmentary: [...] šadî ashar šarrūti ...; ashar ... ramāku: bathe in (water of) the ashar stone"}
+      - {motif: adversary-at-law-silenced, refs: ["GKAB P348821 o:6", "GKAB P348821 r:2'"], note: "bēl dabābīya: 'my adversary at law'; the speaker names himself anāku NENNI mār NENNI; his throne (kussû) mentioned o:10"}
+    hints:
+      - "The adversary at law: Ps 35:1, 109:6; Isa 50:8 (who is my adversary? let him come near)."
+
+  - id: ane-gkab-p348822-udug-hul-wiping
+    tradition: ane-akkadian
+    title: "Udug-ḫul rituals: the sick man wiped with dough, sheep's heart and clay lumps (SpTU 5, 235)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348822 o:1'-13'", "GKAB P348822 r:1-14"]
+    tags:
+      - {motif: kuppuru-wiping-patient-clean, refs: ["GKAB P348822 o:4'", "GKAB P348822 o:12'", "GKAB P348822 r:1-2", "GKAB P348822 r:5-9", "GKAB P348822 r:12-13"], note: "marṣa tukappar: dough loaves of flour, honey and ghee, a sheep's heart (libbi immeri), two lumps (ḫumbiṣṣūtu) of clay and of malt wipe the patient from right and left; U.ME.TE.GUR.GUR = kuppuru"}
+      - {motif: oath-by-life-of-anunnaki, refs: ["GKAB P348822 o:11'"], note: "ZI d.A.NUN.NA.KE.E.NE DINGIR GAL.GAL.E.NE ḪE.PAD₃"}
+      - {motif: catalogue-of-demons-to-be-expelled, refs: ["GKAB P348822 o:7'", "GKAB P348822 r:3"], note: "incipits EN₂ udug ḫul ...; udug ḫul-ŋal₂ lu₂-ra in-kar-kar"}
+    hints:
+      - "kuppuru 'wipe clean' beside Hebrew kipper 'atone, purge': Lev 16:16-20 (purging the sanctuary), Lev 14:18-20, 14:52-53 (purging a house with blood and birds)."
+
+  - id: ane-gkab-p348825-shuila-shamash
+    tradition: ane-akkadian
+    title: "Šuʾila to Šamaš: lord of Sippar, the bolts of heaven; Justice at my side (SpTU 5, 238)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348825 o:1'-13'", "GKAB P348825 r:1'-13'"]
+    tags:
+      - {motif: personal-god-and-goddess-reconciled, refs: ["GKAB P348825 o:6'", "GKAB P348825 o:9'"], note: "ilu zenû ittīšu sallum: the angry god will be reconciled with him"}
+      - {motif: sun-god-opens-bolts-of-heaven, refs: ["GKAB P348825 r:5'"], note: "[...] edlūtu sikkūr šamê: the locked bolts of heaven (verb lost)"}
+      - {motif: justice-at-left-wellbeing-behind, refs: ["GKAB P348825 r:11'-12'"], note: "mīšaru lizziz ina šumēlīya ... šulmu ina warkīya"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["GKAB P348825 o:4'-10'"], note: "rubric fragments: pound, anoint, juniper on the censer, sprinkle"}
+      - {motif: may-my-signs-be-favourable, refs: ["GKAB P348825 r:8'-10'"], note: "ittātūa lidmiqā ... magir qabû annu: may my signs be good, my speech favourable"}
+    hints:
+      - "Righteousness and peace go before the god: Ps 85:11-14, 89:15; 'goodness and mercy shall follow me': Ps 23:6."
+
+  - id: ane-gkab-p348831-amulet-stones
+    tradition: ane-akkadian
+    title: "Amulet stones for favour, reconciliation with god and protection; rite before Venus (SpTU 5, 244)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348831 o:1-30", "GKAB P348831 r:1-21"]
+    tags:
+      - {motif: amulet-stones-bring-favour-and-success, refs: ["GKAB P348831 o:6-17", "GKAB P348831 r:3"], note: "izzimtašu ikaššad, amēlu itti ili isallim, unnīnīšu šemû, nīš qātīšu maḫāru ... ina maḫri nišīšu ... eli nišīšu aqārīšu; ēma illaku magir; ilu abīšu magir"}
+      - {motif: amulet-wards-off-named-evils, refs: ["GKAB P348831 o:11-15"], note: "ḫattu pirittu lā iṭeḫḫe ... zīru dipalû zikurudû u kadabbedû ... mimma epšēt lemutti: hate, injustice, cutting-off of life, seizing of the mouth"}
+      - {motif: amulet-stones-on-coloured-cords, refs: ["GKAB P348831 o:18", "GKAB P348831 o:21"], note: "on a cord of linen, a cord of red wool (nabāsu), a cord of blue wool (uqniātu)"}
+      - {motif: ritual-before-venus-star, refs: ["GKAB P348831 o:25-26"], note: "abnī tullal ina pān delebat; burāšu, šikaru rēštû; incantation 'ilī magru'"}
+      - {motif: prayer-recited-three-times, refs: ["GKAB P348831 o:24", "GKAB P348831 o:29"], note: "here three times (3-TA.AM₃) over the stones"}
+    hints:
+      - "Finding favour in the eyes of God and man: Prov 3:3-4; 1Sam 2:26; Gen 39:21."
+      - "Blue and crimson thread: Num 15:38; Exod 28:28."
+
+  - id: ane-gkab-p348833-o-ii-enemy-turned-back
+    tradition: ane-akkadian
+    title: "House protection: turning back the breast of the enemy; Sumerian litany 'be favourable to me' (SpTU 5, 246)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Sumerian"
+    read: ["GKAB P348833 o.ii:1'-30'"]
+    tags:
+      - {motif: ritual-turning-back-chest-of-enemy, refs: ["GKAB P348833 o.ii:4'-6'", "GKAB P348833 o.ii:13'"], note: "kiṣṣurūtu ina bābi kawî tu-ṣṣar-ma, irat lemni u ayyābi turrat; šēdu (evil) u mūtānu ana bīt amēli ul iṭeḫḫû"}
+      - {motif: evil-eye-mouth-tongue-go-out, refs: ["GKAB P348833 o.ii:9'-12'"], note: "ŋiškim ḫul ḫe₂-em-ta-e₃; niŋ₂-gig a₂-sag₃ ḫul; ḫul igi ḫul ka ḫul eme ḫul ḫe₂-em-ta-e₃"}
+      - {motif: litany-be-favourable-to-me, refs: ["GKAB P348833 o.ii:16'-21'"], note: "dutu še-ga-me-en di-kud še-ga-me-en, diŋir-ŋu₁₀ še-ga-me-en, diŋir-re-e-ne ..., lu₂ ..., nam-lu₂-lu₇ še-ga-me-en"}
+      - {motif: cut-off-foot-of-evil-from-house, refs: ["GKAB P348833 o.ii:15'", "GKAB P348833 o.ii:27'-28'"], note: "šēp lemutti ina bītīya-ma KU₅ iqtabi; lemutti parsat"}
+    hints:
+      - "Evil eye and evil tongue: Prov 6:16-19; Ps 120:2-3."
+      - "Favour with God and man: Prov 3:4; Luke 2:52."
+
+  - id: ane-gkab-p348833-o-iii-figurines-dagger
+    tradition: ane-akkadian
+    title: "House protection: armed clay figurines buried at the threshold, blood and milk sprinkled, a dagger buried point upward (SpTU 5, 246)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348833 o.iii:1'-30'"]
+    tags:
+      - {motif: protective-figurines-buried-at-threshold, refs: ["GKAB P348833 o.iii:1'-16'"], note: "they hold grappling-hook, belt, bronze dagger, axe; ziqpa ina askuppi tetemiršunūti; attunu ṣalmū ṭīdi ... ina maḫar lamassi abnikunūši ... ana šēp lemutti ana bītīya lā erēbi ... šēdu šarru namru šamaš utammēkunūši"}
+      - {motif: figurines-of-clay-from-garden-ditch, refs: ["GKAB P348833 o.iii:6'-7'"], note: "ṭīd palag kirî, ina mê qiddati ablulkunūši"}
+      - {motif: house-sprinkled-with-blood-and-milk, refs: ["GKAB P348833 o.iii:17'-20'"], note: "a female kid that has not been opened (unīqu lā petītu) is cut; its blood collected in a bowl, mixed with water from the well of Marduk's temple and milk, and the house sprinkled"}
+      - {motif: house-swept-sweepings-thrown-in-river, refs: ["GKAB P348833 o.iii:21'-22'"], note: "bīta ina sissinni ša ištāni tušeššer; šušurāt bīti ana nāri tanaddi"}
+      - {motif: bronze-dagger-buried-under-threshold, refs: ["GKAB P348833 o.iii:23'-30'"], note: "patru siparri ša 10 šiqil ... šikru ana šaplānu zaqpu ana elēnu; 'bronze dagger in heaven and earth ...' against diʾu and mūtānu in the house"}
+      - {motif: cut-off-foot-of-evil-from-house, refs: ["GKAB P348833 o.iii:10'", "GKAB P348833 o.iii:13'-15'"], note: "šēp lemutti ina bītīya purrusa"}
+    hints:
+      - "Blood applied to the house against the destroyer: Exod 12:7, 12:22-23 (lintel and doorposts, 'the destroyer will not enter'); cleansing a house with blood: Lev 14:49-53."
+      - "Household teraphim and images: Gen 31:19; 1Sam 19:13."
+
+  - id: ane-gkab-p348833-r-evil-shut-in
+    tradition: ane-akkadian
+    title: "House protection: spell to the prowling evil 'like a lion, like a wolf'; seeds and figurines buried at the gate (SpTU 5, 246)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348833 r.i:1-21", "GKAB P348833 r.ii:1-21"]
+    tags:
+      - {motif: evil-addressed-hu-hu-lion-wolf, refs: ["GKAB P348833 r.i:3-8"], note: "isḫura isḫura asḫura ātamarka ... ešteʾēka, ana lā ḫabālīya ana lā šagāšīya, aššum kīma nēši ... aššum kīma barbari ... šamrū kakkūka assapanka essirki"}
+      - {motif: cut-off-foot-of-evil-from-house, refs: ["GKAB P348833 r.i:9-13"], note: "šēp lemutti diʾu u mūtānu ana bīt amēli ul iṭeḫḫû; šēp lemutti uṣṣī-ma šēdu damqu u lamassu ... ana bīt amēli irrub; ilu itti amēli isallim"}
+      - {motif: seeds-buried-at-gate-against-disease, refs: ["GKAB P348833 r.i:14-21"], note: "seeds of seven plants (incl. dog's tongue, thorn) mixed with mountain honey, buried at the right of the outer gate's threshold against illness, diʾu, sleeplessness and epidemic"}
+      - {motif: apotropaic-figurines-guard-house, refs: ["GKAB P348833 r.ii:4-20"], note: "figurines holding a date palm frond, standards (urigallu), turned toward the throne, faces to the gates; buried at the foundation, at the head of the bed, at the cella and the gate of his god's house; one with 'wings' (kappa)"}
+    hints:
+      - "Sin crouching at the door like a beast: Gen 4:7; the roaring lion seeking prey: Ps 10:9, 1Pet 5:8."
+
+  - id: ane-gkab-p348834-o-monster-figurines
+    tradition: ane-akkadian
+    title: "Monster figurines buried at the four sides of the house; plants, metals and temple water for the lamassu (SpTU 5, 247)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348834 o.i:1'-10'", "GKAB P348834 o.ii:1'-8'", "GKAB P348834 o.iii:1'-12'"]
+    tags:
+      - {motif: apotropaic-monster-figurines-at-four-sides, refs: ["GKAB P348834 o.ii:4'-8'", "GKAB P348834 o.i:6'-8'"], note: "2 ṣalmū laḫmu ... 2 ṣalmū uridimmu ina lēt bābi ištāni ... 2 ṣalmū bašmu ... šadî ... 2 ṣalmū mušḫuššu ... amurri; imna u šumēla tetemir"}
+      - {motif: monster-guardians-at-temple-gates, refs: ["GKAB P348834 o.ii:6'-8'"]}
+      - {motif: holy-water-vessel-with-plants-stones-metals, refs: ["GKAB P348834 o.iii:2'-12'"], note: "for the lamassu in a man's house: tamarisk, maštakal, young date palm, male mandragora, every plant, potash, sulphur, iron, bronze, silver, gold, carnelian, lapis ... mê būrti ša bīt marduk ina agubbê tukān"}
+    hints:
+      - "Cherubim as guardian figures: Gen 3:24; 1Kgs 6:23-29; Ezek 41:18-20."
+
+  - id: ane-gkab-p348834-r-i-pusher-of-evil
+    tradition: ane-akkadian
+    title: "'You are the image that pushes back the evil one': incantation to the protective figure; evil sent 3,600 leagues away (SpTU 5, 247)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348834 r.i:1-26"]
+    tags:
+      - {motif: figurine-addressed-pusher-of-evil, refs: ["GKAB P348834 r.i:6-10"], note: "attā ṣalmu sākip lemni u ayyābi ... gitmālu ina ilī gašru ša melammū ramû ... imnaka u šumēlka uṣur lā teggi"}
+      - {motif: disease-demon-catalogue-hand-of-god, refs: ["GKAB P348834 r.i:11-13"], note: "lū miqit šamê lū qāt eṭemmi lū mimma lemnu ša ina bītīya šaknu uptanallaḫanni"}
+      - {motif: evil-may-not-approach-litany, refs: ["GKAB P348834 r.i:14-16"], note: "ina qibīt ea u marduk yâši u bītīya ai iṭḫâ ai isniqanni ai iqriba ai ikšudanni"}
+      - {motif: evil-banished-to-cross-river-and-mountain, refs: ["GKAB P348834 r.i:16-17"], note: "lībir nāra libbalkit šadâ lissi šār bēr ina zumrīya"}
+      - {motif: seven-fold-ritual-action, refs: ["GKAB P348834 r.i:18"], note: "7-šu u 7-šu mašmaššu iqabbī-ma šēp lemutti parsat"}
+      - {motif: cut-off-foot-of-evil-from-house, refs: ["GKAB P348834 r.i:18", "GKAB P348834 r.i:24"]}
+      - {motif: honey-milk-wine-oil-poured-into-pit, refs: ["GKAB P348834 r.i:3-4"], note: "at the outer gate a pit is opened; honey, milk, wine, oil; the man stands with dagger in the right hand and copper axe in the left"}
+    hints:
+      - "Evil sent away across water and into the wilderness: Lev 16:21-22 (scapegoat); Mic 7:19; Zech 5:5-11 (wickedness carried off in a basket)."
+      - "Guardian at right and left: Ps 121:5 (the LORD is your shade at your right hand)."
+
+  - id: ane-gkab-p348834-r-ii-door-figures
+    tradition: ane-akkadian
+    title: "Figures drawn on the doorposts and door with spells naming the fierce demons; evil mouth and tongue go out (SpTU 5, 247)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348834 r.ii:1-27", "GKAB P348834 r.iii:1-25"]
+    tags:
+      - {motif: demons-drawn-on-doorposts-addressed, refs: ["GKAB P348834 r.ii:1-18"], note: "2 ṣalmī ina imitti bābi u šumēl bābi tuṣṣaršunūti, 1-en ina muḫḫi dalti ... nadru gapšu sakpu ilī ... ūmu dāʾiku utukku lemnu ... munnarbu lāsimu ... ezzēta šamrāta ... šūt lemnūti ša lā ea; šēp lemutti parsus"}
+      - {motif: doorposts-and-bolt-smeared-for-protection, refs: ["GKAB P348834 r.ii:3-5", "GKAB P348834 r.ii:15"], note: "loose: not blood but figures drawn with sulphur, haematite and iron paste on the right and left of the gate and on the door"}
+      - {motif: palm-thorns-buried-at-gate, refs: ["GKAB P348834 r.ii:20-21"], note: "kīma qinnāzi ... ṣillû gišimmari leqe imitta u šumēla ša bābi tetemir"}
+      - {motif: evil-eye-mouth-tongue-go-out, refs: ["GKAB P348834 r.ii:22-26"], note: "ka ḫulu-ŋal₂ ... eme ḫulu-ŋal₂ ... niŋ₂-nam ḫulu-ŋal₂ ḫe₂-em-ta-e₃ (Sumerian)"}
+      - {motif: who-but-ea-can-calm-you, refs: ["GKAB P348834 r.ii:19"], note: "lini'ikunūši ea lini'ikunūši: may Ea calm you"}
+    hints:
+      - "Writing and marks on the doorposts and gates: Deut 6:9, 11:20; blood on lintel and doorposts: Exod 12:7, 12:23."
+
+  - id: ane-gkab-p348837-flake-bed-ritual
+    tradition: ane-akkadian
+    title: "Ritual fragment: clay and straw, wool of a virgin kid, flour drawn round the bed, birds released (SpTU 5, 250)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348837 flake:1'-12'"]
+    tags:
+      - {motif: bed-surrounded-with-flour-circle, refs: ["GKAB P348837 flake:6'"], note: "qēmu ... itât eršī tuṣṣar"}
+      - {motif: purification-materials-catalogue, refs: ["GKAB P348837 flake:5'"], note: "šīpāt unīqi lā petīti peṣû u ṣalmu; wooden pegs"}
+    hints:
+      - "Living bird released in purification of a house: Lev 14:7, 14:53."
+
+  - id: ane-gkab-p348838-gilgamesh-underworld
+    tradition: ane-akkadian
+    title: "Gilgameš dweller of the netherworld; the crossing of the Ḫubur (SpTU 5, 251)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P348838 o:1'-7'"]
+    tags:
+      - {motif: gilgamesh-king-and-judge-of-netherworld, refs: ["GKAB P348838 o:2'"], note: "gilgāmeš āšib erkalli: Gilgameš who dwells in the netherworld"}
+      - {motif: river-hubur-crossing-underworld, refs: ["GKAB P348838 o:3'", "GKAB P348838 o:6'-7'"], note: "nēberu ḫubur; ina nēberi; ana nēberi"}
+    hints:
+      - "The dead crossing to Sheol: Job 33:18 (passing over by the šelaḥ, 'the channel'); Ps 18:5-6."
