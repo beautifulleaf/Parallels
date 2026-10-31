@@ -5,6 +5,22 @@ Paste everything below the line into a new Claude Code session attached to the
 Quran and the Hebrew Bible together, so plan for the work to continue into a
 second session; the scope file and chunk plan make that seamless.
 
+**When to run it.** Together with the Quran observation layer, this is the
+project's *Islamic foundation*. It runs **before every other tradition's
+round**, so that each later round compares against the Quran and the hadith
+from the start and needs no hadith top-up afterwards. The order is:
+
+1. The ANE read and the ANE × Quran comparison pilot, which settles the
+   observation-record schema (`data/records/README.md`).
+2. The Quran observation layer: records for all 6,236 verses.
+3. **This hadith read.**
+4. Then the other rounds: Greco-Roman, Zoroastrian, Manichaean and Mandaean,
+   Covenantal, Christianity and philosophy, Sikh, Jain, Hindu, Buddhist,
+   East Asian.
+
+The HB × Quran comparison gets its hadith top-up in this session (see
+"After the read").
+
 ---
 
 You are continuing **Parallels**, a lead-generation project in the
@@ -183,6 +199,35 @@ merged with yours.
 - Dajjāl and the Antichrist traditions.
 
 These are benchmarks only. Do not give them to the readers.
+
+## Stance: Islamic, and academic
+
+The project reads the hadith as the Islamic tradition reads it, and reports
+it as an academic would.
+
+- **The hadith as *bayān*.** The hadith is the Quran's primary explanation.
+  Links from hadith to verse are the tradition's own; record them as such.
+- **Gradings are the tradition's.**
+  - Use the attributions al-Jāmiʿ al-Kāmil gives, or a grading a tool result
+    states, credited to whoever made it.
+  - The project never grades a hadith itself.
+- **No theory of hadith dating in the data.**
+  - The Western debates on dating and authenticity (Schacht, Juynboll,
+    Motzki and others) are not built into tags, records or leads.
+  - The wording stays neutral about who influenced whom, and leads keep
+    `standing: proposed`. A scholar's view may be cited in a lead's notes,
+    attributed, as one view among others.
+- ***Isrāʾīliyyāt* are a separate layer.**
+  - Reports drawn from Jewish and Christian lore, found mostly in tafsir, are
+    where many academic parallels lie. Islamic scholarship treats them as
+    weak or of outside origin.
+  - Al-Jāmiʿ al-Kāmil collects only ṣaḥīḥ hadith, so they will mostly be
+    absent here. Do not add them to this corpus.
+  - Record in `docs/CLEANUP.md` a later, clearly labelled *isrāʾīliyyāt*
+    layer (for instance from al-Ṭabarī's tafsir), with its own corpus id, so
+    that it never mixes with the ṣaḥīḥ hadith.
+- **Respect.** Keep the notes descriptive and respectful. The Prophet and the
+  Companions are named as the sources name them.
 
 ## Rules
 
