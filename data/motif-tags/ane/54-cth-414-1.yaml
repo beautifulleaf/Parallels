@@ -1194,3 +1194,198 @@ units:
       - {motif: curse-no-sound-of-lyre, refs: ["KAI 223 8"], note: "only wṣʿ[qh] 'and outcry' survives; lines 10-16 broken"}
     hints:
       - "Name forgotten, grave destroyed: Ps 9:6-7, Prov 10:7; Q 19:98 ('do you perceive any of them or hear from them a whisper?')."
+
+  - id: ane-kai-277-pyrgi-astarte
+    tradition: ane-levantine
+    title: Pyrgi tablet (Phoenician) - Thefarie Velianas builds a holy place for Astarte at her request; years like the stars (KAI 277)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 277 1-5"]
+    tags:
+      - {motif: deity-requests-sanctuary-from-king, refs: ["KAI 277 4"], note: "kʿštrt ʾrš bdy 'because Astarte requested it of him'"}
+      - {motif: holy-place-dedicated-to-astarte, refs: ["KAI 277 1-3"], note: "lrbt lʿštrt ʾšr qdš ʾz ʾš pʿl wʾš ytn tbryʾ wlnš mlk ʿl kyšryʾ 'for the Lady, for Astarte, this holy place which Tiberie Velianas, king over Caere, made and gave'"}
+      - {motif: date-by-regnal-year-and-month, refs: ["KAI 277 3-4"], note: "yrḥ zbḥ šmš ... lmlky šnt šlš 3 byrḥ krr"}
+      - {motif: burial-of-the-deity-festival, refs: ["KAI 277 4"], note: "bym qbr ʾlm 'on the day of the burial of the god' (Adonis/Melqart?)"}
+      - {motif: kings-years-numerous-as-stars, refs: ["KAI 277 5"], note: "wšnt lmʾš ʾlm bbty šnt km hkkbm ʾl 'and the years of the statue of the deity in her temple: years like these stars'"}
+      - {motif: foreign-king-honours-phoenician-goddess, refs: ["KAI 277 2"], note: "an Etruscan ruler dedicates in Phoenician"}
+    hints:
+      - "The burial of the god: compare Ezek 8:14 (women weeping for Tammuz) and the Quranic denial that God dies, Q 25:58 ('the Living who does not die')."
+      - "Years like the stars: Gen 15:5, 22:17 (descendants as the stars)."
+
+  - id: ane-kai-310-tel-dan-house-of-david
+    tradition: ane-levantine
+    title: Tel Dan stele - Hadad made me king and went before me; the king of Israel and the king of the House of David slain (KAI 310)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    read: ["KAI 310 1-13"]
+    tags:
+      - {motif: father-lay-down-and-went-to-his-fathers, refs: ["KAI 310 3"], note: "wyškb ʾby yhk ʾl [ʾbhw]h 'my father lay down, he went to his [fathers]' - the last word restored"}
+      - {motif: king-of-israel-named-in-foreign-record, refs: ["KAI 310 3-4", "KAI 310 7-8"], note: "wyʿl mlk y[śr]ʾl qdm bʾrq ʾby 'the king of Israel had earlier entered my father's land'; [... yhw]rm br [ʾḥʾb] mlk yśrʾl - the names largely restored"}
+      - {motif: house-of-david-named, refs: ["KAI 310 8-9"], note: "[ʾḥz]yhw br[yhwrm ml]k bytdwd 'Ahaziah son of Jehoram, king of the House of David' - bytdwd is preserved, the names restored"}
+      - {motif: deity-makes-king, refs: ["KAI 310 4-5"], note: "[w]hmlk hdd [ʾ]yty ʾnh"}
+      - {motif: god-goes-before-king-in-battle, refs: ["KAI 310 5"], note: "wyhk hdd qdmy 'Hadad went before me'"}
+      - {motif: seventy-kings-slain, refs: ["KAI 310 6-7"], note: "wʾqtl ml[kn šb]ʿn ʾsry ʾ[lpy r]kb wʾlpy prš 'I killed seventy kings who harnessed thousands of chariots and thousands of horsemen' - 'seventy' partly restored"}
+      - {motif: land-made-desolate-towns-ruined, refs: ["KAI 310 9-10"], note: "restored: [ʾyt qryt hm ḥrbt wʾhpk ʾ]yt ʾrq hm l[yšmn]"}
+      - {motif: jehu-rules-israel, refs: ["KAI 310 11-12"], note: "restored: [wyhwʾ m]lk ʿl yś[rʾl]"}
+      - {motif: siege-laid, refs: ["KAI 310 13"], note: "mṣr ʿ[l]"}
+    hints:
+      - "Hazael and the deaths of Joram of Israel and Ahaziah of Judah: 2 Kgs 8:28-29, 9:14-28 (in the Bible Jehu kills them); 2 Kgs 10:32-33 (Hazael cuts off Israel's territory); 1 Kgs 19:15-17 (Elijah to anoint Hazael and Jehu)."
+      - "The House of David: 2 Sam 7:11-16, Isa 7:2, 13; in the Quran David is a king and prophet given wisdom and the Psalms, Q 2:251, 38:20, 4:163."
+      - "The god who goes before the king: Deut 1:30, 31:8, Judg 4:14 ('has not YHWH gone out before you?'); contrast Q 8:17 ('you did not kill them, but God killed them')."
+      - "Seventy kings: Judg 1:7 (Adoni-bezek and the seventy kings)."
+
+  - id: ane-kai-312-deir-alla-balaam
+    tradition: ane-levantine
+    title: "Deir ʿAlla plaster - the book of Balaam son of Beor, seer of the gods: night vision, fasting and weeping, the council of the Shaddayin decrees darkness, the world reversed (KAI 312)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Aramaic"
+    version: "Deir ʿAlla dialect (Aramaic or Canaanite)"
+    read: ["KAI 312 1-17"]
+    tags:
+      - {motif: balaam-son-of-beor-seer-of-gods, refs: ["KAI 312 1"], note: "[znh] spr [b]lʿm [br bʿ]r ʾš ḥzh ʾlhn hʾ 'this is the book of Balaam son of Beor, a man who was a seer of the gods'"}
+      - {motif: seer-given-divine-revelation, refs: ["KAI 312 1-2"], note: "wyʾtw ʾlwh ʾlhn blylh [wyʾmrw l]h kmšʾ ʾl 'the gods came to him at night and spoke to him according to the oracle (maśśāʾ) of El'"}
+      - {motif: gods-come-to-seer-by-night, refs: ["KAI 312 1"], note: "blylh"}
+      - {motif: seer-rises-fasts-and-weeps, refs: ["KAI 312 3-4"], note: "wyqm blʿm mn mḥr ... wl ykl ... wyṣm wbkh ybkh 'Balaam rose the next day ... he could not [eat?], he fasted and wept bitterly'"}
+      - {motif: people-ask-why-do-you-weep, refs: ["KAI 312 4-5"], note: "wyʿl ʿmh ʾlwh wyʾmrw lblʿm br bʿr lm tṣm wlm tbkh wyʾmr lhm šbw ʾḥwkm mh šd[yn pʿlw] wlkw rʾw pʿlt ʾlhn 'his people came up to him: why do you fast and why do you weep? He said: sit, I will tell you what the Shaddayin have done; come, see the works of the gods'"}
+      - {motif: council-of-shaddayin-decrees-darkness, refs: ["KAI 312 5-7"], note: "ʾl[h]n ʾtyḥdw wnṣbw šdyn mwʿd wʾmrw lš[mš/gr] tpqy skry šmyn bʿbky šm ḥšk wʾl ngh ʿṭm wʾl smrky thby ḥt [bʿ]b ḥšk wʾl thgy ʿd ʿlm 'the gods gathered, the Shaddayin took their place in the assembly (mwʿd) and said to Sh[...]: sew up, bolt the heavens with your cloud; let there be darkness and no brightness ... dread in the thick cloud, and do not be loud (?) forever'"}
+      - {motif: divine-council-assembles, refs: ["KAI 312 5-6"], note: "šdyn mwʿd"}
+      - {motif: world-reversed-birds-and-beasts, refs: ["KAI 312 7-10"], note: "ky ss ʿgr ḥrpt nšr wqn rḥmn yʿnh ... bny nṣṣ wṣdh ʾprḥy ʾnph dRr nšrt ... bʾšr rḥln yybl ḥṭr ʾrnbn ʾklw [ʿ]šb 'the swift reproaches the eagle, the voice of vultures answers ... where ewes are led by the staff, hares eat grass'"}
+      - {motif: drinking-wine-and-hearing-discipline, refs: ["KAI 312 10"], note: "štyw ḥmr wqbʿn šmʿw mwsr 'they drank wine ... hear discipline (mûsār)'"}
+      - {motif: wise-mocked-poor-woman-mixes-myrrh, refs: ["KAI 312 11"], note: "lḥkmn yqḥk wʿnyh wqḥt mr wkhnh 'the wise is mocked (?) ... and the poor woman takes myrrh, and the priestess ...'"}
+      - {motif: deaf-hear-from-afar, refs: ["KAI 312 13"], note: "wšmʿw ḥršn mn rḥq 'and the deaf heard from afar'"}
+      - {motif: ashtar-and-shagar-named, refs: ["KAI 312 14"], note: "šgr wʿštr - Shagar and Ashtar (cf. Deut 7:13 šegar and ʿaštᵉrôt of the flock)"}
+      - {motif: panther-and-destruction, refs: ["KAI 312 15-16"], note: "lnmr ... ʾbdn wʿyn - fragmentary; line 17 lost"}
+    hints:
+      - "Balaam son of Beor: Num 22-24 (the seer who sees visions of Shaddai, Num 24:4, 16; God comes to him at night, Num 22:8-20), Num 31:8, 16, Deut 23:5-6, Josh 13:22, Mic 6:5; Bela son of Beor in Gen 36:32."
+      - "Quran first: Q 7:175-176 ('recite to them the news of the one to whom We gave Our signs, but he slipped away from them ... his likeness is that of a dog: if you attack it, it pants'), traditionally identified with Balaam (Balʿam ibn Baʿura) in the tafsir."
+      - "The heavens closed, darkness and no light: Amos 5:18-20, Joel 2:2, 10, Zeph 1:15; Q 81:1-2 (the sun wrapped up, the stars darkened), 77:8-9."
+      - "The divine council deciding doom: 1 Kgs 22:19-22, Ps 82:1; contrast the Quranic one God who needs no council, Q 21:22-23."
+
+  - id: ane-kh-1-great-god-keeper-of-covenant
+    tradition: ane-levantine
+    title: Ketef Hinnom amulet I - the great God who keeps covenant and kindness; blessing from every snare and evil; the priestly blessing
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KH 1-2 W1:1-19"]
+    tags:
+      - {motif: great-and-awesome-god, refs: ["KH 1-2 W1:1-8"], note: "restored: [...]yhw[h ... hʾl h]gd[l šmr] hbryt w[h]ḥsd lʾhb[w] wšmry [mṣ]wtw mhʿlm [wʿ]d hʿlm 'YHWH ... the great [God who keeps] the covenant and the kindness to those who love him and keep his commandments, from eternity to eternity'"}
+      - {motif: blessing-from-every-snare-and-evil, refs: ["KH 1-2 W1:9-10"], note: "[h]brkh mkl [p]ḥ wmhrʿ 'the blessing from every snare and from evil'"}
+      - {motif: redemption-is-in-him, refs: ["KH 1-2 W1:11-14"], note: "ky bw gʾlh ky yhwh [m]šybnw wṣwr 'for in him is redemption, for YHWH is our restorer and rock'"}
+      - {motif: threefold-priestly-blessing, refs: ["KH 1-2 W1:14-19"], note: "ybrk yhwh [w]yšmrk [yʾ]r yhwh pn[w ʾly]k - only the first two clauses survive"}
+      - {motif: god-makes-face-shine, refs: ["KH 1-2 W1:17-19"]}
+      - {motif: silver-amulet-with-scripture, refs: ["KH 1-2 W1:1-19"], note: "interpretive: rolled silver plaque worn as amulet in a burial cave"}
+    hints:
+      - "Deut 7:9 ('the faithful God who keeps covenant and kindness for those who love him and keep his commandments'), Neh 1:5, Dan 9:4; Num 6:24-26 (the priestly blessing)."
+      - "Quran first: God's covenant kept with those who keep theirs, Q 2:40; refuge from evil (Q 113-114, the protective suras carried as amulets in later practice); the face of God, Q 2:115, 55:27."
+
+  - id: ane-kh-2-priestly-blessing
+    tradition: ane-levantine
+    title: Ketef Hinnom amulet II - blessed by YHWH the helper and rebuker of evil; 'May YHWH bless you and keep you, make his face shine upon you and grant you peace'
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KH 1-2 W2:1-12"]
+    tags:
+      - {motif: threefold-priestly-blessing, refs: ["KH 1-2 W2:5-12"], note: "ybrk yhwh yšmrk yʾr yh[w]h pnyw [ʾl]yk wyśm lk š[l]m - the third clause shortened: no 'lift up his face', ending directly 'and give you peace'"}
+      - {motif: god-makes-face-shine, refs: ["KH 1-2 W2:8-10"]}
+      - {motif: god-rebukes-evil, refs: ["KH 1-2 W2:1-5"], note: "brk h[ʾ] lyhw[h] hʿzr whgʿr b[r]ʿ 'blessed be he/she by YHWH, the helper and the rebuker of evil'"}
+      - {motif: blessing-by-yhwh-formula, refs: ["KH 1-2 W2:1-2"], note: "brk ... lyhwh"}
+      - {motif: silver-amulet-with-scripture, refs: ["KH 1-2 W2:1-12"]}
+    hints:
+      - "Num 6:24-26; Ps 67:2, 4:7 ('lift up the light of your face'); the rebuke of evil: Zech 3:2 ('YHWH rebuke you, Satan'), Mal 3:11."
+      - "Quran first: 'peace' as God's own name and greeting, Q 59:23 (al-Salam), 36:58 ('Peace: a word from a merciful Lord'); refuge from evil, Q 113:1-2; the turning of God's face, Q 6:52, 18:28 (seeking His face)."
+
+  - id: ane-khirbet-el-qom-uriyahu-asherah
+    tradition: ane-levantine
+    title: Khirbet el-Qom tomb inscriptions - Uriyahu blessed by YHWH, saved from his enemies by his asherah; tomb owners named
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["Khirbet el-Qom 3 W1:1-4", "Khirbet el-Qom 3 W2:1-3", "Khirbet el-Qom 3 W3:1"]
+    tags:
+      - {motif: yhwh-and-his-asherah, refs: ["Khirbet el-Qom 3 W1:2-3"], note: "brk ʾryhw lyhwh wmṣryh lʾšrth hwšʿ lh 'blessed be Uriyahu by YHWH, and from his enemies by his asherah he has saved him' - word order and the role of 'his asherah' (goddess or cult object) disputed"}
+      - {motif: blessing-by-yhwh-formula, refs: ["Khirbet el-Qom 3 W1:2"], note: "brk ... lyhwh"}
+      - {motif: god-saved-king-from-all-assailants, refs: ["Khirbet el-Qom 3 W1:3"], note: "loose: a private man (not a king) saved (hwšʿ) from his oppressors"}
+      - {motif: scribe-signs-text, refs: ["Khirbet el-Qom 3 W1:1", "Khirbet el-Qom 3 W1:4"], note: "ʾryhw hšr ktbh 'Uriyahu the wealthy (or the singer?) wrote it'"}
+      - {motif: tomb-chamber-ownership-inscription, refs: ["Khirbet el-Qom 3 W2:1-3", "Khirbet el-Qom 3 W3:1"], note: "lʿwpy bn ntnyhw hḥdr hzh 'belonging to ʿOphai son of Netanyahu is this chamber'; lʿwzh bn ntnyhw"}
+      - {motif: theophoric-yahu-names, refs: ["Khirbet el-Qom 3 W2:2"]}
+    hints:
+      - "Quran first: Q 6:100 ('they make the jinn partners of God ... and impute to Him sons and daughters'), Q 4:117 ('they call besides Him only on females'), Q 72:3 ('our Lord has taken neither consort nor son'), Q 53:19-23 (al-Lat, al-ʿUzza, Manat)."
+      - "HB: the Asherah condemned beside YHWH's altar, Deut 16:21; 2 Kgs 21:7, 23:4-7 (the Asherah in the temple burned by Josiah); Jer 7:18, 44:17-19 (the Queen of Heaven)."
+
+  - id: ane-kuntillet-ajrud-pithos-a-samaria
+    tradition: ane-levantine
+    title: Kuntillet ʿAjrud pithos A - 'I bless you by YHWH of Samaria and by his asherah' (Meshel 3.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["Kuntillet Ajrud W1:1-2", "Kuntillet Ajrud W2:1-2", "Kuntillet Ajrud W10:1"]
+    tags:
+      - {motif: yhwh-and-his-asherah, refs: ["Kuntillet Ajrud W1:1-2", "Kuntillet Ajrud W10:1"], note: "brkt ʾtkm lyhwh šmrn wlʾšrth 'I have blessed you by YHWH of Samaria and by his asherah'"}
+      - {motif: yhwh-of-a-place-local-manifestation, refs: ["Kuntillet Ajrud W1:2"], note: "yhwh šmrn 'YHWH of Samaria'"}
+      - {motif: blessing-by-yhwh-formula, refs: ["Kuntillet Ajrud W1:1-2"]}
+      - {motif: letter-opening-says-x-say-to-y, refs: ["Kuntillet Ajrud W1:1", "Kuntillet Ajrud W10:1"], note: "ʾmr ʾ[šyw] h(m)[l]k ʾmr lyhly wlywʿšh 'thus says Ashyaw the king (?): say to Yahēli and Yawʿasah'"}
+      - {motif: theophoric-yahu-names, refs: ["Kuntillet Ajrud W1:1", "Kuntillet Ajrud W2:1-2"], note: "the northern -yaw form; W2: šmʿy[...] only names"}
+    hints:
+      - "Quran first: Q 6:100 and 4:117 (calling on female deities beside God), 72:3 (no consort), 17:111 ('who has not taken a son and has no partner in sovereignty'), 112:3-4; the calf of Samaria / the Samiri: Q 20:85-97."
+      - "HB: the calf of Samaria (Hos 8:5-6), the Asherah in Samaria (1 Kgs 16:33, 2 Kgs 13:6), Amos 8:14 ('those who swear by the guilt of Samaria')."
+
+  - id: ane-kuntillet-ajrud-pithos-b-teman
+    tradition: ane-levantine
+    title: "Kuntillet ʿAjrud pithos B - 'I bless you by YHWH of Teman and his asherah: may he bless you and keep you and be with my lord' (Meshel 3.6, 3.9)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["Kuntillet Ajrud W3:1-10", "Kuntillet Ajrud W4:1-3", "Kuntillet Ajrud W5:1-6", "Kuntillet Ajrud W11:1-11", "Kuntillet Ajrud W12:1-3"]
+    tags:
+      - {motif: yhwh-and-his-asherah, refs: ["Kuntillet Ajrud W3:5-7", "Kuntillet Ajrud W4:1", "Kuntillet Ajrud W11:5-7", "Kuntillet Ajrud W12:1"], note: "brktk lyhwh tmn wlʾšrth; lyhwh htmn wlʾšrth"}
+      - {motif: yhwh-of-a-place-local-manifestation, refs: ["Kuntillet Ajrud W3:5-6", "Kuntillet Ajrud W4:1"], note: "yhwh (h)tmn 'YHWH of Teman (the South)'"}
+      - {motif: threefold-priestly-blessing, refs: ["Kuntillet Ajrud W3:7-8", "Kuntillet Ajrud W11:7-8"], note: "loose: ybrk wyšmrk 'may he bless you and keep you' - the first clause of Num 6:24"}
+      - {motif: may-god-be-with-you, refs: ["Kuntillet Ajrud W3:9-10", "Kuntillet Ajrud W11:9-11"], note: "wyhy ʿm ʾdny ʾrk ḥym bšlm 'and may he be with my lord, length of life in peace' (the transliteration adds ʾrk ḥym)"}
+      - {motif: letter-greeting-is-it-well-with-you, refs: ["Kuntillet Ajrud W3:1-4", "Kuntillet Ajrud W11:1-4"], note: "ʾmr ʾmryw ʾmr lʾdny hšlm ʾt 'Amaryaw says: say to my lord: is it well with you?'"}
+      - {motif: god-gives-what-heart-asks, refs: ["Kuntillet Ajrud W4:2-3", "Kuntillet Ajrud W12:2-3"], note: "kl ʾšr yšʾl mʾš ḥnn hʾ ... wntn lh yhw klbbh 'whatever he asks of a man, he (the man) is gracious ... and YHW gives him according to his heart'"}
+      - {motif: theophoric-yahu-names, refs: ["Kuntillet Ajrud W5:1-6"], note: "škny(w), ʾmṣ, šmryw, ʾlyw, ʿzyw, mṣry 'Egyptian'"}
+    hints:
+      - "Quran first: Q 6:100, 4:117 (females called on beside God) and Q 40:60 ('call on Me, I will answer you'); 'what the heart desires', Q 41:31 ('therein you will have whatever your souls desire')."
+      - "HB: God from Teman, Hab 3:3 ('God comes from Teman'), Deut 33:2, Judg 5:4; Ps 20:5 ('may he grant you your heart's desire'), Ps 37:4; Num 6:24."
+
+  - id: ane-kuntillet-ajrud-plaster-theophany
+    tradition: ane-levantine
+    title: Kuntillet ʿAjrud plaster inscriptions - may he lengthen days; when El shone forth the mountains melted; blessing Baal on the day of war (Meshel 4.1.1, 4.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    version: "Hebrew in Phoenician script (4.1.1) and Phoenician-language (4.2), two readings"
+    read: ["Kuntillet Ajrud W6:1-2", "Kuntillet Ajrud W7:1-6", "Kuntillet Ajrud W8:1-6", "Kuntillet Ajrud W13:1-2", "Kuntillet Ajrud W14:1-6"]
+    tags:
+      - {motif: yhwh-and-his-asherah, refs: ["Kuntillet Ajrud W6:1", "Kuntillet Ajrud W13:1"], note: "[y]ʾrk ymm wyśbʿw ... [w]ytnw lšm [y]hwh [h]tymn wlʾšrt[h]"}
+      - {motif: gods-prolong-days-of-just-king, refs: ["Kuntillet Ajrud W6:1", "Kuntillet Ajrud W13:1"], note: "loose: yʾrk ymm 'may he lengthen (their) days' - no king named; wyśbʿw 'and may they be satisfied'"}
+      - {motif: god-comes-from-sinai-seir-paran, refs: ["Kuntillet Ajrud W8:2", "Kuntillet Ajrud W14:1"], note: "wbzrḥ ʾl br[m y]h[wh] 'when El shone forth on the heights (?), YHWH' (reading 2; reading 1 has ʾš / ʾl b-r)"}
+      - {motif: wicked-melt-like-wax-before-fire, refs: ["Kuntillet Ajrud W7:3", "Kuntillet Ajrud W8:3", "Kuntillet Ajrud W14:2-3"], note: "wymsn hrm wydkn gbnm 'the mountains melted and the peaks were crushed'"}
+      - {motif: divine-warrior-on-day-of-battle, refs: ["Kuntillet Ajrud W7:5-6", "Kuntillet Ajrud W8:5-6", "Kuntillet Ajrud W14:5-6"], note: "lbrk bʿl bym mlḥmh ... lšm ʾl bym mlḥ[mh] 'to bless Baal on the day of war ... the name of El on the day of war'"}
+      - {motif: holy-one-over-the-land, refs: ["Kuntillet Ajrud W7:4", "Kuntillet Ajrud W8:4"], note: "ʾrṣ qdš ʿly ... 'land of holiness (?) above ...' - unclear"}
+      - {motif: yhwh-of-a-place-local-manifestation, refs: ["Kuntillet Ajrud W6:2", "Kuntillet Ajrud W13:2"], note: "hyṭb yhwh hty[mn] 'YHWH of Teman did good' / 'the favoured of YHWH'"}
+    hints:
+      - "Theophany: mountains melt before God, Judg 5:4-5, Mic 1:3-4, Ps 97:5, Hab 3:3-6 (God from Teman, the eternal mountains shattered); Deut 33:2 (YHWH shone forth from Seir, zāraḥ)."
+      - "Quran first: the mountain crumbled when the Lord manifested Himself, Q 7:143 (Moses at the mount: 'when his Lord revealed Himself to the mountain He made it crumble to dust'); mountains crushed on the Day, Q 69:14, 20:105-107, 56:5."
+      - "Baal and El in a Yahwistic shrine: compare Elijah's contest, 1 Kgs 18; Q 37:123-126 (Elias: 'do you call on Baal and abandon the best of creators?')."
+
+  - id: ane-kuntillet-ajrud-fragments-poor-sword
+    tradition: ane-levantine
+    title: Kuntillet ʿAjrud fragments - pithos C names; the poor and oppressed, blood, famine and sword (Meshel 4.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["Kuntillet Ajrud W9:1-4", "Kuntillet Ajrud W15:1-7"]
+    tags:
+      - {motif: poor-and-oppressed-named, refs: ["Kuntillet Ajrud W15:4"], note: "[ʿ]ny wʿšq bn ʾbyn ʾ[š] dl 'the poor and oppressed, son of the needy, a man who is weak' (transliteration only, no translation)"}
+      - {motif: famine-sword-and-deceit, refs: ["Kuntillet Ajrud W15:5-7"], note: "[ng]ʾl bd[m] 'defiled with blood'; [ḥ]rn bšnt d[br] r[ʿ]b w[ḥ]rb šḥt qyn š[q]r wmrmh 'anger in a year of pestilence, famine and sword; destruction ... lie and deceit'"}
+      - {motif: day-and-sea-dried, refs: ["Kuntillet Ajrud W15:6"], note: "nd ḥlp wym [y]bš 'it passed and the sea dried (?)' - very uncertain"}
+      - {motif: tents-of-israel, refs: ["Kuntillet Ajrud W15:2"], note: "[ʾ]hly y[śrʾl?] - restored"}
+      - {motif: theophoric-yahu-names, refs: ["Kuntillet Ajrud W9:1-4"], note: "loose: ʾšʾ b[n] 'Asa son of' - only fragmentary names on pithos C"}
+    hints:
+      - "Pestilence, famine and sword: Jer 14:12, 21:7, Ezek 5:12; the poor and needy, Ps 72:12-13, Amos 8:4-6; the sea dried up, Isa 51:10, Ps 106:9, Q 20:77 ('strike for them a dry path in the sea')."

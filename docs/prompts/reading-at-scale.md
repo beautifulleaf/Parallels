@@ -134,8 +134,9 @@ specific, checkable, surprising detail. Aim for findings like it.
   aids; tag what the original says, and quote the decisive original words
   in a `note`.
 - **Hints, specific and unforced.** The side-by-side pass is
-  `<corpus> × Quran`, and readers' hints written as `Q surah:verse` become
-  its candidates. Write one only when a particular Quran passage comes to
+  `<corpus> × Islam`: the Quran, and the hadith corpus once it is read
+  (`docs/prompts/hadith-full-read.md`). Readers' hints written as
+  `Q surah:verse` become its candidates. Write one only when a particular Quran passage comes to
   mind for a particular detail (see "Discovery, not confirmation"). Hebrew
   Bible references are welcome as secondary hints.
 - **Reuse motif ids.** The vocabulary holds the HB, Quran, ANE and later
