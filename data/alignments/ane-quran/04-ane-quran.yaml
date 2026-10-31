@@ -1,0 +1,685 @@
+# ANE x Quran side-by-side pass, chunk 4 (ETCSL 2.4.2.23 - 3.1.13.2: Ur III and Isin-Larsa royal hymns, Old Babylonian royal praise poems, the Šulgi letters). Judged blind, from the originals.
+new_motifs:
+  light-of-heaven-and-earth-title: {label: "The title 'light of heaven and earth' given to the divine", cluster: deity}
+  deity-s-powers-of-reversal: {label: "A deity holds paired powers of reversal: raising some and lowering others, turning light and darkness into each other", cluster: deity}
+  creator-guides-feeds-and-waters: {label: "The god who made humans also teaches or guides them and gives them food and drink", cluster: creation}
+  foreign-ruler-s-gifts-to-a-king: {label: "Foreign rulers send gifts to a king, and how he receives them", cluster: kingship}
+  destinies-written-in-advance: {label: "What befalls creatures is written beforehand on a heavenly tablet or in a book", cluster: deity}
+  every-matter-counted-in-a-record: {label: "Every single thing or assignment is counted and kept in a written record", cluster: deity}
+  whether-the-written-term-can-be-altered: {label: "Whether the term written in the heavenly record can be altered", cluster: deity}
+  heaven-opened-for-water: {label: "Heaven is opened (its udders or its gates) to release water", cluster: nature}
+  guardian-beings-flank-a-person: {label: "Divine beings stand on two sides of a person (right and left, or before and behind) to guard or record", cluster: angels}
+  everything-in-the-god-s-grasp: {label: "Kingship over heaven and earth and everything is in the god's hand or grasp", cluster: deity}
+  whatever-my-lord-commands: {label: "Courtiers defer to the ruler: 'whatever you command / the matter is yours'", cluster: kingship}
+  muster-inspection-finds-absentees: {label: "A ruler or commander inspects his host and finds some missing", cluster: kingship}
+  defensive-wall-holds-or-is-breached: {label: "Whether a king's barrier against invaders holds or is breached", cluster: war}
+  labour-levied-to-build-the-wall: {label: "A king's wall against invaders is built with labour levied from the people", cluster: war}
+  servant-on-throne-receives-prostration: {label: "A servant raised by the king sits on a throne and others prostrate before him", cluster: kingship}
+  grain-bought-with-silver-in-shortage: {label: "In a shortage grain is bought with silver from a trusted official", cluster: kingship}
+  meal-of-meat-set-before-a-messenger: {label: "A host sets meat before an arriving messenger, who does not take the meal, and fear follows", cluster: kingship}
+  king-called-god-of-his-people: {label: "A king is called, or calls himself, the god of his people", cluster: kingship}
+reviewed:
+  - unit: ane-etcsl-2-4-2-23-shulgi-w
+    checked: [quran-7-idol-request, quran-33-zayd-seal-of-prophets, quran-85-constellations]
+    matches: []
+  - unit: ane-etcsl-2-4-2-24-inana-sacred-marriage
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-43-zukhruf-abraham-and-silver-roofs]
+    matches: []
+  - unit: ane-etcsl-2-4-2-24-utu-ninazu-nanna
+    checked: [quran-2-sleeper-hundred-years, quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-2-25-shulgi-y
+    checked: [quran-20-moses-pharaoh-magicians, quran-2-talut-jalut, quran-3-sovereignty, quran-6-signs-would-not-convince]
+    matches:
+      - with: quran-6-signs-would-not-convince
+        motif: no-one-changes-the-spoken-word
+        refs: ["ETCSL 2.4.2.25 5"]
+        with_refs: ["6:115"]
+        relation: parallel
+        record:
+          agent: [Enki, God]
+          object: [his utterances, his words]
+          quoted: ["{d}en-ki en dug4-ga-ni nu-kur2-ru", "lā mubaddila li-kalimātihi"]
+        note: "An epithet of the god: 'Enki, the lord whose utterance is not changed' (dug4-ga-ni nu-kur2-ru); 6:115 tammat kalimatu rabbika ṣidqan wa-ʿadlan lā mubaddila li-kalimātihi."
+  - unit: ane-etcsl-2-4-2-26-love-song
+    checked: [quran-68-qalam-companions-of-the-garden, quran-56-waqia-three-classes-and-the-garden, quran-55-rahman-judgment-and-the-four-gardens]
+    matches: []
+  - unit: ane-etcsl-2-4-3-1-amar-suena-temple
+    checked: [quran-79-pharaoh-and-cosmos, quran-89-dawn, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-4-4-1-shu-suen-a
+    checked: [quran-66-tahrim-wives-and-the-four-women, quran-43-zukhruf-abraham-and-silver-roofs, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-4-4-2-shu-suen-b
+    checked: [quran-19-mary-and-jesus, quran-3-imran-mary-zechariah, quran-66-tahrim-wives-and-the-four-women]
+    matches: []
+  - unit: ane-etcsl-2-4-4-3-shu-suen-c
+    checked: [quran-56-waqia-three-classes-and-the-garden, quran-55-rahman-judgment-and-the-four-gardens, quran-56-waqia-left-hand-and-proofs]
+    matches: []
+  - unit: ane-etcsl-2-4-4-4-ninurta-tigi
+    checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-4-4-5-an-adab
+    checked: [quran-20-moses-favors-recalled, quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-11-opening-throne-on-water]
+    matches: []
+  - unit: ane-etcsl-2-4-4-6-suen-adab
+    checked: [quran-9-months-nasi, quran-7-creation-signs, quran-6-signs-in-nature, quran-3-sovereignty, quran-24-light-verse]
+    matches:
+      - with: quran-24-light-verse
+        motif: light-of-heaven-and-earth-title
+        refs: ["ETCSL 2.4.4.6 B:9", "ETCSL 2.4.4.6 G:45"]
+        with_refs: ["24:35"]
+        relation: divergence
+        record:
+          agent: [the moon god Suen, God]
+          name: [light of heaven and earth, light of the heavens and the earth]
+          quoted: ["šul {d}suen u18-ru ud an ki; ud ĝiš-ḫe2-a ud uraš-a", "allāhu nūru s-samāwāti wa-l-arḍ"]
+          outcome: [the title names a luminary (the moon born each month), the title is followed by a parable (mathal nūrihi) of a lamp]
+        note: "The same title: Suen is 'ud an ki', light of heaven and earth (and 'light of the firmament, light of the earth'), as the moon 'born each month' (en itid-da u3-tud). 24:35 gives the title to God and at once turns it into a likeness: mathalu nūrihi ka-mishkātin fīhā miṣbāḥ, a lamp in a niche, not a heavenly body."
+      - with: quran-6-signs-in-nature
+        motif: luminaries-rule-day-night
+        refs: ["ETCSL 2.4.4.6 D:20"]
+        with_refs: ["6:96"]
+        relation: parallel
+        record:
+          agent: [Nanna the moon, God]
+          object: [the night and the year, the night and sun and moon]
+          action: [makes the night pleasant and binds the year, makes the night a rest and sun and moon a reckoning]
+          quoted: ["ud ĝi6 dug3-dug3 mu zu2 keše2-de3", "wa-jaʿala l-layla sakanan wa-sh-shamsa wa-l-qamara ḥusbānā"]
+        note: "One line pairs the two jobs of the night light: it 'sweetens the night and structures the year' (ĝi6 dug3-dug3, mu zu2 keše2); 6:96 likewise sets the night as rest (sakan) beside sun and moon for reckoning (ḥusbān). In the hymn the moon is the god doing it; in 6:96 God appoints (jaʿala) the moon to it."
+  - unit: ane-etcsl-2-4-5-1-suen-tigi
+    checked: [quran-23-lordship-arguments, quran-2-throne-verse, quran-57-hadid-first-and-last-and-the-loan]
+    matches: []
+  - unit: ane-etcsl-2-4-5-2-meshlamtaea-lugalera
+    checked: [quran-112-114-unity-and-refuge, quran-3-badr-uhud, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-etcsl-2-4-5-3-suen-adab
+    checked: [quran-3-sovereignty, quran-13-signs-of-creation, quran-24-light-verse]
+    matches: []
+  - unit: ane-etcsl-2-4-5-4-suen-ululumama
+    checked: [quran-47-muhammad-battle-and-rivers, quran-25-signs-shadow-seas, quran-16-blessings-of-creation, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-4-5-5-suen-hymn
+    checked: [quran-3-sovereignty, quran-13-signs-of-creation, quran-57-hadid-first-and-last-and-the-loan]
+    matches: []
+  - unit: ane-etcsl-2-5-1-3-nanaya-tigi
+    checked: [quran-3-sovereignty, quran-16-daughters-and-the-bee, quran-16-blessings-of-creation]
+    matches: []
+  - unit: ane-etcsl-2-5-1-4-nininsina-hymn
+    checked: [quran-27-solomon-ants-hoopoe-sheba, quran-16-daughters-and-the-bee, quran-3-imran-mary-zechariah]
+    matches: []
+  - unit: ane-etcsl-2-5-3-1-greeting-and-me
+    checked: [quran-4-satan-vows-share, quran-13-signs-of-creation, quran-22-communities-prostration-hell-paradise, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-etcsl-2-5-3-1-cult-procession
+    checked: [quran-22-communities-prostration-hell-paradise, quran-22-abraham-house-pilgrimage, quran-2-war-pilgrimage]
+    matches: []
+  - unit: ane-etcsl-2-5-3-1-evening-star-offerings
+    checked: [quran-95-fig, quran-80-frowned, quran-6-signs-in-nature, quran-78-the-tiding]
+    matches: []
+  - unit: ane-etcsl-2-5-3-1-sacred-marriage
+    checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-etcsl-2-5-3-2-iddin-dagan-b
+    checked: [quran-20-moses-favors-recalled, quran-3-sovereignty, quran-2-talut-jalut, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-5-3-3-ningublaga-adab
+    checked: [quran-3-badr-uhud, quran-9-closing, quran-105-elephant]
+    matches: []
+  - unit: ane-etcsl-2-5-3-4-namerima
+    checked: [quran-57-hadid-first-and-last-and-the-loan, quran-53-najm-goddesses-and-scrolls, quran-44-dukhan-blessed-night-and-smoke, quran-9-closing]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-enlil-praise
+    checked: [quran-2-throne-verse, quran-3-sovereignty, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-election
+    checked: [quran-3-sovereignty, quran-7-idol-request, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-utu-justice
+    checked: [quran-17-commandments, quran-3-sovereignty, quran-11-closing, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-inana-spouse
+    checked: [quran-27-solomon-ants-hoopoe-sheba, quran-3-sovereignty, quran-66-tahrim-wives-and-the-four-women]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-ekur-service
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-5-jesus-miracles-table]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-nibru-justice
+    checked: [quran-93-94-forenoon-and-expansion, quran-106-108-quraysh-kindness-kawthar, quran-4-creation-kinship-orphans, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-self-praise-tribute
+    checked: [quran-2-talut-jalut, quran-27-solomon-ants-hoopoe-sheba, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-thrones-statues
+    checked: [quran-28-pharaohs-tower-and-end, quran-38-solomon-horses-throne, quran-9-bargain-abraham]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-a-songs-and-learning
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut, quran-10-moses-pharaoh]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-b-dedications
+    checked: [quran-20-moses-pharaoh-magicians, quran-2-talut-jalut, quran-9-bargain-abraham]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-c-singers
+    checked: [quran-7-idol-request, quran-15-ayka-hijr-and-close, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-5-4-01-d-monument-curse
+    checked: [quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-5-4-02-bau-adab
+    checked: [quran-26-abraham, quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-16-blessings-of-creation]
+    matches: []
+  - unit: ane-etcsl-2-5-4-03-nibru-hymn
+    checked: [quran-9-bargain-abraham, quran-7-closing-recitation, quran-4-prophets-and-trinity]
+    matches: []
+  - unit: ane-etcsl-2-5-4-04-enki-adab
+    checked: [quran-79-pharaoh-and-cosmos, quran-11-opening-throne-on-water, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-5-4-05-enki-balbale
+    checked: [quran-3-sovereignty, quran-2-throne-verse, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-etcsl-2-5-4-09-chariot
+    checked: [quran-3-sovereignty, quran-2-throne-verse, quran-9-bargain-abraham]
+    matches: []
+  - unit: ane-etcsl-2-5-4-10-churn-song
+    checked: [quran-3-sovereignty, quran-7-moses-pharaoh, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-5-4-11-inana-powers
+    checked: [quran-3-sovereignty, quran-17-polemic-and-resurrection, quran-79-pharaoh-and-cosmos]
+    matches:
+      - with: quran-3-sovereignty
+        motif: deity-s-powers-of-reversal
+        refs: ["ETCSL 2.5.4.11 13", "ETCSL 2.5.4.11 14", "ETCSL 2.5.4.11 15"]
+        with_refs: ["3:26", "3:27"]
+        relation: divergence
+        record:
+          agent: [Enlil and Ninlil give the powers to Inana, God holds them himself]
+          action: [raise people from below to above and change their place, exalt and abase whom he wills]
+          object: [light and darkness turned into each other, night made to enter day and day night]
+          quoted: ["uĝ3 ki-ta an-na-še3 ed3-de3 ... zalag ku10-ku10-še3 du3 ku10-ku10 zalag-še3 dib-be2", "tuʿizzu man tashāʾu wa-tudhillu man tashāʾ ... tūliju l-layla fī n-nahāri wa-tūliju n-nahāra fī l-layl"]
+        note: "A list of paired reversals in the same order, people raised up and moved, then light and dark exchanged: 'to make the people ascend from below to above ... to turn light to darkness and darkness to light' against 'you exalt whom you will and abase whom you will ... you make the night enter the day and the day the night'. In Išme-Dagan K the high gods hand these powers to Inana (mu-na-an-šum2-mu-uš); in 3:26 they are God's own, bi-yadika l-khayr."
+  - unit: ane-etcsl-2-5-4-16-ninurta-adab
+    checked: [quran-85-constellations, quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-5-4-17-nuska-adab
+    checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-24-obedience-and-succession]
+    matches: []
+  - unit: ane-etcsl-2-5-4-23-nibru-hymn
+    checked: [quran-22-abraham-house-pilgrimage, quran-2-throne-verse, quran-43-zukhruf-abraham-and-silver-roofs]
+    matches: []
+  - unit: ane-etcsl-2-5-4-24-enki-hymn
+    checked: [quran-26-abraham, quran-3-sovereignty, quran-2-throne-verse, quran-17-polemic-and-resurrection]
+    matches:
+      - with: quran-26-abraham
+        motif: creator-guides-feeds-and-waters
+        refs: ["ETCSL 2.5.4.24 7", "ETCSL 2.5.4.24 26"]
+        with_refs: ["26:78", "26:79"]
+        relation: parallel
+        record:
+          agent: [Enki, God]
+          action: [makes the seed of mankind come forth and teaches them the proper practices, created me and guides me]
+          object: [food and drink, food and drink]
+          quoted: ["en numun i ... us2 dab5-bi pad3-pad3; uĝ3 gu7 naĝ sug4-sug4-bi", "alladhī khalaqanī fa-huwa yahdīn; wa-lladhī huwa yuṭʿimunī wa-yasqīn"]
+        note: "The same three acts in the same order: the god who made humans (numun i, khalaqanī) instructs them (us2 dab5-bi pad3-pad3, 'who teaches them the proper practices'; yahdīn) and satisfies them with food and drink (gu7 naĝ; yuṭʿimunī wa-yasqīn). Abraham says it in the first person of his Lord, against the idols."
+  - unit: ane-etcsl-2-5-5-1-lipit-eshtar-a
+    checked: [quran-2-talut-jalut, quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-79-pharaoh-and-cosmos]
+    matches:
+      - with: quran-79-pharaoh-and-cosmos
+        motif: king-called-god-of-his-people
+        refs: ["ETCSL 2.5.5.1 20"]
+        with_refs: ["79:23", "79:24", "79:25"]
+        relation: divergence
+        record:
+          agent: [Lipit-Eštar, Pharaoh]
+          action: [declares himself a human god in his self-praise, gathers and proclaims himself your lord most high]
+          quoted: ["diĝir nam-lu2-ulu3 nir-ĝal2 uĝ3 šar2-ra-me-en", "fa-ḥashara fa-nādā fa-qāla anā rabbukumu l-aʿlā"]
+          outcome: [the hymn praises it and asks long life for him, God seizes him in exemplary punishment]
+        note: "A king's first-person claim to divinity over the many people: 'I am a human god (diĝir nam-lu2-ulu3), the lord of the numerous people' in Lipit-Eštar's self-praise; Pharaoh summons the people and cries 'I am your lord most high', and fa-akhadhahu llāhu nakāla l-ākhirati wa-l-ūlā."
+  - unit: ane-etcsl-2-5-5-2-lipit-eshtar-b
+    checked: [quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-5-5-3-an-adab
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-73-enwrapped]
+    matches: []
+  - unit: ane-etcsl-2-5-5-4-ninurta-adab
+    checked: [quran-3-sovereignty, quran-3-badr-uhud, quran-9-closing]
+    matches: []
+  - unit: ane-etcsl-2-5-5-5-nininsina-shirnamgala
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-etcsl-2-5-6-2-enki-tigi
+    checked: [quran-2-abraham-king, quran-3-sovereignty, quran-2-throne-verse, quran-27-is-there-a-god-with-god]
+    matches: []
+  - unit: ane-etcsl-2-5-6-3-ninurta-adab
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-3-badr-uhud]
+    matches: []
+  - unit: ane-etcsl-2-5-6-4-inana-adab
+    checked: [quran-3-sovereignty, quran-17-polemic-and-resurrection, quran-2-throne-verse]
+    matches: []
+  - unit: ane-etcsl-2-5-6-5-an-adab
+    checked: [quran-3-sovereignty, quran-17-polemic-and-resurrection, quran-20-moses-pharaoh-magicians, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: no-one-changes-the-spoken-word
+        refs: ["ETCSL 2.5.6.5 E:48"]
+        with_refs: ["50:29"]
+        relation: echo
+        record:
+          agent: [An, God]
+          object: [what comes out of my mouth, the word with me]
+          action: [shall never be altered, is not changed]
+          quoted: ["ka-ta e3-a-ĝu10 ul-še3 na-ra-kur2-ru", "mā yubaddalu l-qawlu ladayya"]
+        note: "The god himself says, in the first person, that his word is not changed: An to Ur-Ninurta, 'what has come out of my mouth shall never be altered for you'; 50:29 mā yubaddalu l-qawlu ladayya wa-mā ana bi-ẓallāmin li-l-ʿabīd. In the hymn it guarantees the king's blessing, in 50:29 the sentence on the damned."
+  - unit: ane-etcsl-2-5-6-6-ishkur-hymn
+    checked: [quran-30-winds-and-rain, quran-7-creation-signs, quran-79-pharaoh-and-cosmos, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-etcsl-2-5-7-2-enlil-adab
+    checked: [quran-3-sovereignty, quran-45-jathiya-time-and-the-kneeling-nations, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-etcsl-2-5-8-1-enlil-bani-wisdom-justice
+    checked: [quran-83-defrauders, quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-2-talut-jalut]
+    matches:
+      - with: quran-83-defrauders
+        motif: heavenly-book-of-life
+        refs: ["ETCSL 2.5.8.1 37", "ETCSL 2.5.8.1 47", "ETCSL 2.5.8.1 48"]
+        with_refs: ["83:18", "83:19", "83:20"]
+        relation: echo
+        record:
+          agent: [Nisaba the book-keeper, null]
+          object: [the king's name, the record of the righteous]
+          place: [the tablet of life, ʿIlliyyūn]
+          quoted: ["im nam-til3-la-ka mu-ni bi2-in-gub", "kitāba l-abrāri la-fī ʿilliyyīn ... kitābun marqūm"]
+        note: "A heavenly written register of the favoured: the writing goddess 'has placed his name on the tablet of life' (im nam-til3-la); the record of the righteous is 'in ʿIlliyyūn, an inscribed book' (kitābun marqūm). One king against all the righteous; a name against a record."
+  - unit: ane-etcsl-2-5-8-1-enlil-bani-tribute-gods
+    checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-27-solomon-ants-hoopoe-sheba]
+    matches:
+      - with: quran-27-solomon-ants-hoopoe-sheba
+        motif: foreign-ruler-s-gifts-to-a-king
+        refs: ["ETCSL 2.5.8.1 101–2", "ETCSL 2.5.8.1 106", "ETCSL 2.5.8.1 107", "ETCSL 2.5.8.1 109", "ETCSL 2.5.8.1 111"]
+        with_refs: ["27:35", "27:36", "27:37"]
+        relation: divergence
+        record:
+          agent: [the rulers of the lands, the queen of Sheba]
+          action: [bring oxen sheep gold and gems into the king's palace, sends a gift to Solomon]
+          recipient: [Enlil-bāni, Solomon]
+          quoted: ["gud šar2-da udu šar2-da kug-sig17 {na4}gug za-gin3-a-ta e2-gal-zu-še3 ša-mu-ra-ab-ku4-ku4-ne", "a-tumiddūnani bi-mālin fa-mā ātāniya llāhu khayrun mimmā ātākum"]
+          outcome: [they kiss the ground before him, Solomon rejects the gift and threatens to come with armies]
+        note: "The foreign rulers' gifts in the king's palace: in Enlil-bāni A the rulers bring countless oxen and sheep, gold, cornelian and lapis and 'kiss the ground with their lips' (nundum-bi-a ki su-ub ma-ra-ak-ne). Sheba's gift (hadiyya) is turned back: 'are you helping me with wealth? What God gave me is better', irjiʿ ilayhim."
+  - unit: ane-etcsl-2-6-2-1-nanna-adab
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-etcsl-2-6-6-1-sin-iddinam-first-fruits
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-2-call-to-worship]
+    matches: []
+  - unit: ane-etcsl-2-6-7-1-numushda-hymn
+    checked: [quran-3-sovereignty, quran-9-closing, quran-27-is-there-a-god-with-god]
+    matches: []
+  - unit: ane-etcsl-2-6-9-1-rim-sin-prayer
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-73-enwrapped]
+    matches: []
+  - unit: ane-etcsl-2-6-9-2-haia-hymn
+    checked: [quran-57-hadid-iron-and-monasticism, quran-6-poor-keys-of-unseen, quran-84-splitting, quran-83-defrauders, quran-13-messengers-and-mother-of-book, quran-35-originator]
+    matches:
+      - with: quran-57-hadid-iron-and-monasticism
+        motif: destinies-written-in-advance
+        refs: ["ETCSL 2.6.9.2 A:2", "ETCSL 2.6.9.2 A:5"]
+        with_refs: ["57:22"]
+        relation: parallel
+        record:
+          agent: [Ḫaia the scribe god, God]
+          object: [the great tablets of destiny, a book]
+          time: [null, before he brings it into being]
+          quoted: ["dub gal-gal ḫa-ḫa-za ... gi kug-ga šu ĝal2-le im nam-tar gal-gal mul-mul", "illā fī kitābin min qabli an nabraʾahā"]
+        note: "Fates on a written tablet or in a book: Ḫaia 'holds the great tablets' and with a holy reed stylus 'covers the great tablets of destiny with writing' (im nam-tar); 57:22 no calamity strikes earth or souls 'but it is in a book before we bring it into being'. The hymn has a scribal god keep the tablets; in 57:22 the book is God's own, with no scribe."
+      - with: quran-6-poor-keys-of-unseen
+        motif: every-matter-counted-in-a-record
+        refs: ["ETCSL 2.6.9.2 A:4"]
+        with_refs: ["6:59"]
+        relation: echo
+        record:
+          agent: [Ḫaia, God]
+          object: [every single assignment, every leaf grain and wet or dry thing]
+          quoted: ["pisaĝ-dub-ba e2-gal an ki-a kiĝ2 kilib-ba šid-šid", "wa-lā raṭbin wa-lā yābisin illā fī kitābin mubīn"]
+        note: "Ḫaia is 'archivist (pisaĝ-dub-ba) of the palace of heaven and earth, who keeps count of every single assignment'; 6:59 nothing fresh or dry but is in a clear book. Counting of tasks against knowledge of every natural thing."
+      - with: quran-35-originator
+        motif: lifespan-written-in-book
+        refs: ["ETCSL 2.6.9.2 A:51", "ETCSL 2.6.9.2 A:52"]
+        with_refs: ["35:11"]
+        relation: parallel
+        record:
+          object: [the years of the king's reign, the length of a life]
+          place: [the tablet of life, a book]
+          quoted: ["bal ḫul2-ḫul2 ud su3-ud-da ... im nam-til3-la-ke4 du-ri2-še3 nu-kur2-ru mu-bi gub-i3", "wa-mā yuʿammaru min muʿammarin wa-lā yunqaṣu min ʿumurihi illā fī kitāb"]
+        note: "The length of a life is entered on a written record: Rīm-Sîn's long reign, 'set its years on the tablet of life'; 35:11 no one is given a long life or has it shortened but it is in a book."
+      - with: quran-13-messengers-and-mother-of-book
+        motif: whether-the-written-term-can-be-altered
+        refs: ["ETCSL 2.6.9.2 A:52"]
+        with_refs: ["13:38", "13:39"]
+        relation: divergence
+        record:
+          object: [the years set on the tablet of life, the term (ajal) in its book]
+          action: [is fixed forever unalterable, God erases what he wills and confirms]
+          quoted: ["im nam-til3-la-ke4 du-ri2-še3 nu-kur2-ru", "li-kulli ajalin kitāb; yamḥū llāhu mā yashāʾu wa-yuthbitu wa-ʿindahu ummu l-kitāb"]
+          outcome: [nothing can change the entry, the written term stays open to God's erasing and confirming]
+        note: "The same heavenly record of terms, with the opposite rule: the king's years are to be marked on the tablet of life 'forever unalterable' (du-ri2-še3 nu-kur2-ru); in 13:38-39 every term has its book, yet 'God erases what he wills and confirms', and the Mother of the Book is with him."
+  - unit: ane-etcsl-2-6-9-3-an-prayer
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-2-talut-jalut, quran-54-qamar-moon-split-and-noah]
+    matches:
+      - with: quran-54-qamar-moon-split-and-noah
+        motif: heaven-opened-for-water
+        refs: ["ETCSL 2.6.9.3 23"]
+        with_refs: ["54:11"]
+        relation: divergence
+        record:
+          object: [the udders of the distant heaven, the gates of heaven]
+          action: [are opened for rain, are opened with pouring water]
+          quoted: ["ubur an sud-aĝ2 ĝal2 ḫu-mu-ra-ab-taka4 šeĝx an-na ḫu-mu-ra-ab-šeĝ3", "fa-fataḥnā abwāba s-samāʾi bi-māʾin munhamir"]
+          outcome: [rain of heaven for the king's harvest, the flood that drowns Noah's people]
+        note: "Heaven is opened to let the water out: 'may the udders (ubur) of the distant heaven be opened (taka4) for you, may the rain of heaven rain for you'; 54:11 'we opened the gates (abwāb) of heaven with pouring water'. Udders against gates, and a blessing on the harvest against the flood."
+  - unit: ane-etcsl-2-6-9-4-gate-prayer
+    checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-17-polemic-and-resurrection, quran-13-signs-of-creation, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-13-signs-of-creation
+        motif: guardian-beings-flank-a-person
+        refs: ["ETCSL 2.6.9.4 40", "ETCSL 2.6.9.4 41", "ETCSL 2.6.9.4 42", "ETCSL 2.6.9.4 43"]
+        with_refs: ["13:11"]
+        relation: divergence
+        record:
+          agent: [the gods of peace of the Great Gate, the muʿaqqibāt]
+          action: [stand at the king's right and left, guard each person in succession]
+          place: [at his right and his left, before him and behind him]
+          quoted: ["zid-da gab2-bu-zu nam nam-til3-le-še3 ud su3-ra2-še3 ḫe2-em-da-sub2-sub2-be2-eš", "lahu muʿaqqibātun min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu min amri llāh"]
+          outcome: [a destiny of life until distant days, guarded by God's command]
+        note: "Protective divine beings flank a man: the standing gods of the Great Gate 'at your right and left' (zid-da gab2-bu-zu) for a destiny of life; in 13:11 every person has angels in succession 'before him and behind him' (min bayni yadayhi wa-min khalfihi) guarding him. Right and left against before and behind; one king against everyone."
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: guardian-beings-flank-a-person
+        refs: ["ETCSL 2.6.9.4 42", "ETCSL 2.6.9.4 43"]
+        with_refs: ["50:17", "50:18"]
+        relation: divergence
+        record:
+          place: [at his right and his left, on the right and on the left]
+          action: [stand by him to assure him life, sit and receive every word he utters]
+          quoted: ["zid-da gab2-bu-zu", "ʿani l-yamīni wa-ʿani sh-shimāli qaʿīd"]
+          outcome: [a destiny of life until distant days, every word is recorded]
+        note: "The same two positions, right and left (zid-da gab2-bu; al-yamīn, al-shimāl), with a different job: the gate-gods stand there to secure the king's life; the two receivers (al-mutalaqqiyān) sit there to take down every word (mā yalfiẓu min qawlin illā ladayhi raqībun ʿatīd)."
+  - unit: ane-etcsl-2-6-9-5-rim-sin-offerings-prayer
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-6-9-6-ekishnugal-abzu
+    checked: [quran-22-abraham-house-pilgrimage, quran-13-signs-of-creation, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-etcsl-2-6-9-7-rim-sin-blessing
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-6-9-8-inana-adab
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-73-enwrapped]
+    matches: []
+  - unit: ane-etcsl-2-7-1-1-anam-praise
+    checked: [quran-2-talut-jalut, quran-10-moses-pharaoh, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-8-2-1-hammurabi-a
+    checked: [quran-2-talut-jalut, quran-7-idol-request, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-8-2-2-hammurabi-b
+    checked: [quran-38-david-ewe-parable, quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-taha-prologue]
+    matches: []
+  - unit: ane-etcsl-2-8-2-3-hammurabi-c
+    checked: [quran-22-abraham-house-pilgrimage, quran-3-sovereignty, quran-43-zukhruf-abraham-and-silver-roofs]
+    matches: []
+  - unit: ane-etcsl-2-8-2-4-hammurabi-d
+    checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-8-2-5-hammurabi-e
+    checked: [quran-3-sovereignty, quran-85-constellations, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-8-2-6-hammurabi-f
+    checked: [quran-3-sovereignty, quran-2-throne-verse, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-etcsl-2-8-3-1-samsuiluna-a
+    checked: [quran-20-moses-pharaoh-magicians, quran-3-sovereignty, quran-7-idol-request]
+    matches: []
+  - unit: ane-etcsl-2-8-3-2-samsuiluna-b
+    checked: [quran-3-sovereignty, quran-2-talut-jalut, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-8-3-3-samsuiluna-c
+    checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-8-3-4-samsuiluna-d
+    checked: [quran-79-pharaoh-and-cosmos, quran-25-signs-shadow-seas, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-8-3-5-samsuiluna-e
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-etcsl-2-8-3-6-samsuiluna-f
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-8-3-7-samsuiluna-g
+    checked: [quran-7-idol-request, quran-38-solomon-horses-throne, quran-43-zukhruf-pharaoh-claims]
+    matches: []
+  - unit: ane-etcsl-2-8-3-8-samsuiluna-h
+    checked: [quran-73-enwrapped, quran-13-signs-of-creation, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-etcsl-2-8-5-1-abi-eshuh-a
+    checked: [quran-67-mulk-heavens-lamps-and-hell, quran-69-haqqa-destroyed-peoples-and-the-throne, quran-64-taghabun-day-of-loss-and-household-enemies, quran-3-sovereignty]
+    matches:
+      - with: quran-67-mulk-heavens-lamps-and-hell
+        motif: god-alone-knows-hearts
+        refs: ["ETCSL 2.8.5.1 A:5"]
+        with_refs: ["67:13"]
+        relation: echo
+        record:
+          agent: [Marduk, God]
+          name: [august knower of hearts, knower of what is in the breasts]
+          quoted: ["gal-an-zu šag4-zu maḫ", "innahu ʿalīmun bi-dhāti ṣ-ṣudūr"]
+        note: "The epithet 'knower of hearts' (šag4-zu) of Marduk; 67:13 'speak secretly or openly: he knows what is in the breasts'."
+      - with: quran-67-mulk-heavens-lamps-and-hell
+        motif: everything-in-the-god-s-grasp
+        refs: ["ETCSL 2.8.5.1 A:4", "ETCSL 2.8.5.1 A:9"]
+        with_refs: ["67:1"]
+        relation: echo
+        record:
+          agent: [Marduk, God]
+          object: [kingship over all heaven and earth and everything, sovereignty and everything]
+          quoted: ["dab-ba niĝ2-nam-ma; nam-lugal kiš an ki-bi-da-ke4 nam-še3 mu-ni-in-tar", "tabāraka lladhī bi-yadihi l-mulku wa-huwa ʿalā kulli shayʾin qadīr"]
+        note: "Marduk 'who holds everything in his grasp', to whom Enlil fixed as destiny 'kingship over the totality of heaven and earth'; 67:1 'blessed is he in whose hand is sovereignty, and he has power over everything'. In the hymn the kingship is given to Marduk by Enlil; in 67:1 no one gives it."
+      - with: quran-64-taghabun-day-of-loss-and-household-enemies
+        motif: god-alone-knows-hearts
+        refs: ["ETCSL 2.8.5.1 A:5"]
+        with_refs: ["64:4"]
+        relation: echo
+        record:
+          agent: [Marduk, God]
+          name: [august knower of hearts, knower of what is in the breasts]
+          quoted: ["šag4-zu maḫ", "wa-llāhu ʿalīmun bi-dhāti ṣ-ṣudūr"]
+        note: "šag4-zu 'knower of hearts' against ʿalīmun bi-dhāti ṣ-ṣudūr, closing 'he knows what you conceal and what you disclose'."
+  - unit: ane-etcsl-3-1-01-aradgu-apillasa
+    checked: [quran-48-fath-clear-victory-and-pledge, quran-20-moses-pharaoh-magicians, quran-20-moses-call, quran-11-abraham-guests]
+    matches:
+      - with: quran-11-abraham-guests
+        motif: meal-of-meat-set-before-a-messenger
+        refs: ["ETCSL 3.1.01 24", "ETCSL 3.1.01 25", "ETCSL 3.1.01 26", "ETCSL 3.1.01 27", "ETCSL 3.1.01 28"]
+        with_refs: ["11:69", "11:70"]
+        relation: divergence
+        record:
+          agent: [Apillaša's household, Abraham]
+          recipient: [Aradĝu the king's envoy, God's messengers (rusulunā)]
+          object: [fattened oxen and fattened sheep, a roasted calf]
+          action: [refuses to sit and the table is overturned, do not stretch their hands to it]
+          quoted: ["i3-gub-be2-en nu-tuš-u3-de3-en ... 2 gud niga 20 udu niga {ĝiš}banšur-ĝu10 ... ni2 ba-da-te su ba-da-zig3", "jāʾa bi-ʿijlin ḥanīdh ... lā taṣilu ilayhi ... wa-awjasa minhum khīfa"]
+          outcome: [the messenger is afraid, the host is afraid]
+        note: "Meat brought before an arriving messenger who does not take the meal, then fear: Aradĝu, offered a seat, says 'I am here to present the instructions of my king, I will not sit', is served fattened oxen and sheep, his table is overturned and 'fear came over me, my flesh crept'; Abraham's guests, God's messengers, are served a roasted calf, their hands do not reach it, and Abraham conceives a fear of them. The envoy fears in the letter, the host in 11:70."
+  - unit: ane-etcsl-3-1-02-shulgi-aradgu
+    checked: [quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-3-1-03-aradgu-irrigation
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-5-holy-land-refusal]
+    matches: []
+  - unit: ane-etcsl-3-1-04-aradgu-citizens
+    checked: [quran-20-moses-pharaoh-magicians, quran-85-constellations, quran-3-sovereignty, quran-27-solomon-ants-hoopoe-sheba, quran-28-pharaohs-tower-and-end]
+    matches:
+      - with: quran-27-solomon-ants-hoopoe-sheba
+        motif: whatever-my-lord-commands
+        refs: ["ETCSL 3.1.04 B:8"]
+        with_refs: ["27:33"]
+        relation: echo
+        record:
+          agent: [Aradĝu the governor, the chiefs of Sheba]
+          recipient: [Šulgi, the queen]
+          quoted: ["niĝ2 lugal-ĝu10 ab-be2-na ga-ab-ak", "wa-l-amru ilayki fa-nẓurī mādhā taʾmurīn"]
+        note: "The subordinate's formula of deference: 'whatever my lord says I will do'; Sheba's chiefs, after 'we have strength and great might', 'the matter is yours, so see what you command'."
+      - with: quran-28-pharaohs-tower-and-end
+        motif: king-called-god-of-his-people
+        refs: ["ETCSL 3.1.04 A:6", "ETCSL 3.1.04 A:7"]
+        with_refs: ["28:38"]
+        relation: divergence
+        record:
+          agent: [Aradĝu the governor, Pharaoh]
+          recipient: [Šulgi, his chiefs]
+          action: [tells the king he is the god of mankind, tells his chiefs he knows no god for them but himself]
+          quoted: ["nam-lu2-ulu3 sig igi-nim-ma diĝir-bi za-e-me-en igi-bi ma-ra-ši-ĝal2", "yā ayyuhā l-malaʾu mā ʿalimtu lakum min ilāhin ghayrī"]
+          outcome: [the people keep their gaze fixed on him, Pharaoh orders a tower to look for the god of Moses and is drowned]
+        note: "The king as the people's god: a servant writes to Šulgi 'you are their god (diĝir-bi za-e-me-en), of mankind in the south and the highlands'; Pharaoh says it of himself to his council, 'I know of no god for you other than me', and has Hāmān bake brick for a tower (ṣarḥ)."
+  - unit: ane-etcsl-3-1-05-aradgu-missing-troops
+    checked: [quran-84-splitting, quran-36-people-of-the-town, quran-17-moses-nine-signs-and-close, quran-27-solomon-ants-hoopoe-sheba]
+    matches:
+      - with: quran-27-solomon-ants-hoopoe-sheba
+        motif: muster-inspection-finds-absentees
+        refs: ["ETCSL 3.1.05 6", "ETCSL 3.1.05 7", "ETCSL 3.1.05 8", "ETCSL 3.1.05 11"]
+        with_refs: ["27:17", "27:20", "27:21"]
+        relation: parallel
+        record:
+          agent: [Aba-indasa the captain, Solomon]
+          action: [inspects the levied troops, inspects the birds]
+          object: [the troops of the expedition, the birds of his host]
+          number: [2000 men, one hoopoe]
+          quoted: ["erin2-bi igi u3-bi2-in-kar2 2 li-mu-um erin2-bi nu-ĝal2", "wa-tafaqqada ṭ-ṭayra fa-qāla mā liya lā arā l-hudhuda am kāna mina l-ghāʾibīn"]
+          outcome: [an offence (šer7-da) is reported to the king, Solomon threatens to punish or slaughter it]
+        note: "A ruler's levy is reviewed and found short: 'when Aba-indasa had inspected the troops (igi kar2), 2000 men of those troops were missing (nu-ĝal2)', followed by mention of an offence; Solomon's hosts are mustered (ḥushira), he reviews the birds (tafaqqada) and the hoopoe is among the absent (al-ghāʾibīn), and he threatens punishment unless it brings a clear excuse."
+  - unit: ane-etcsl-3-1-06-aradgu-igi-hursanga
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-2-talut-jalut, quran-18-dhul-qarnayn]
+    matches:
+      - with: quran-18-dhul-qarnayn
+        motif: dominion-from-sunrise-to-sunset
+        refs: ["ETCSL 3.1.06 A:7", "ETCSL 3.1.06 A:8"]
+        with_refs: ["18:86", "18:90"]
+        relation: divergence
+        record:
+          agent: [Šulgi, Dhū l-Qarnayn]
+          place: [from the rising to the setting sun, the setting place and the rising place of the sun]
+          quoted: ["mu maḫ lugal-ĝu10 ... {d}utu e3-ta ud šu2-uš zag-še3 kalam til-la-a mi-ni-in-tum2-tum2-mu", "ḥattā idhā balagha maghriba sh-shamsi ... ḥattā idhā balagha maṭliʿa sh-shams"]
+          outcome: [the king's name reaches from sunrise to sunset, he himself travels to where the sun sets and where it rises]
+        note: "A king's reach is measured by the sun: Šulgi 'maintains his sublime reputation ... from the rising to the setting sun' (utu e3-ta ud šu2-uš); Dhū l-Qarnayn, 'established on the earth' (makkannā lahu), actually reaches the sun's setting place and its rising place. A fame that spreads against a journey."
+      - with: quran-18-dhul-qarnayn
+        motif: fortress-wall-against-nomads
+        refs: ["ETCSL 3.1.06 A:5", "ETCSL 3.1.06 A:6", "ETCSL 3.1.06 A:9"]
+        with_refs: ["18:94", "18:95"]
+        relation: parallel
+        record:
+          agent: [Šulgi, Dhū l-Qarnayn]
+          action: [has a fortification built, builds a barrier]
+          recipient: [the people of the Land, the people between the two barriers]
+          object: [the Martu, Gog and Magog]
+          quoted: ["bad3 lugal-ĝu10 ... ĝiri3 lu2-kur2-e kalam-še3 ba-bad", "an tajʿala baynanā wa-baynahum saddā ... ajʿal baynakum wa-baynahum radmā"]
+          outcome: [the approach of the enemy is kept away from the Land, Gog and Magog are shut out]
+        note: "In the same letter as the sunrise-to-sunset reach: the king's fortification (bad3) keeps 'the foot of the enemy' away from the Land, against the rebellious Martu; Dhū l-Qarnayn, after his journeys east and west, builds a sadd/radm between a people and the raiders Gog and Magog (mufsidūna fī l-arḍ)."
+  - unit: ane-etcsl-3-1-06-1-shulgi-aradgu-aba-indasa
+    checked: [quran-20-moses-pharaoh-magicians, quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-etcsl-3-1-07-puzur-shulgi-enemy-advance
+    checked: [quran-8-fifth-and-badr-vision, quran-2-talut-jalut, quran-33-trench, quran-18-dhul-qarnayn]
+    matches:
+      - with: quran-18-dhul-qarnayn
+        motif: defensive-wall-holds-or-is-breached
+        refs: ["ETCSL 3.1.07 7", "ETCSL 3.1.07 15", "ETCSL 3.1.07 22"]
+        with_refs: ["18:97", "18:98"]
+        relation: divergence
+        record:
+          object: [the great fortress Igi-ḫursaĝa, the barrier of iron and copper]
+          action: [is cut off sector by sector and collapses, cannot be scaled or pierced]
+          number: ["5, 40, 45 and 50 nindan lengths", null]
+          quoted: ["bad3 gal igi-ḫur-saĝ-ĝa2 ... (sector by sector cut off, removed, collapsed)", "fa-mā sṭāʿū an yaẓharūhu wa-mā staṭāʿū lahu naqbā"]
+          outcome: [the commander cannot strengthen or guard it, it stands until God's promise levels it]
+        note: "The king's wall against invaders: Puzur-Šulgi reports Igi-ḫursaĝa breached sector by sector, so many nindan 'cut off', 'no longer fixed', 'collapsed in the middle', and says he cannot hold it; Dhū l-Qarnayn's barrier is one the raiders 'could not scale nor pierce' and stands until 'my Lord's promise makes it level' (jaʿalahu dakkāʾ)."
+      - with: quran-18-dhul-qarnayn
+        motif: labour-levied-to-build-the-wall
+        refs: ["ETCSL 3.1.07 26", "ETCSL 3.1.07 27", "ETCSL 3.1.07 28", "ETCSL 3.1.07 29"]
+        with_refs: ["18:95", "18:96"]
+        relation: divergence
+        record:
+          agent: [the commander asks the king, the king asks the people]
+          object: [7200 soldiers as basket-carrying workmen, blocks of iron and molten copper]
+          number: [7200, null]
+          quoted: ["tukum-bi lugal-ĝa2 ... (7,200 workmen to carry baskets)", "fa-aʿīnūnī bi-quwwatin ... ātūnī zubara l-ḥadīd ... ātūnī ufrigh ʿalayhi qiṭrā"]
+        note: "Manpower for the wall: 'if my lord agrees, may he send me speedily 7,200 soldiers as workmen who will carry baskets'; Dhū l-Qarnayn refuses the offered payment (kharj) but says 'help me with strength' and 'bring me blocks of iron', 'bring me molten copper to pour on it'. The request runs up to the king in the letter and down from him in 18:95-96."
+  - unit: ane-etcsl-3-1-08-shulgi-puzur-shulgi-fortress
+    checked: [quran-79-pharaoh-and-cosmos, quran-2-talut-jalut, quran-26-hud-ad, quran-18-dhul-qarnayn]
+    matches:
+      - with: quran-18-dhul-qarnayn
+        motif: fortress-wall-against-nomads
+        refs: ["ETCSL 3.1.08 1.B:3", "ETCSL 3.1.08 1.B:4", "ETCSL 3.1.08 1.B:7", "ETCSL 3.1.08 2:3", "ETCSL 3.1.08 2:24", "ETCSL 3.1.08 2:25"]
+        with_refs: ["18:94", "18:95", "18:96"]
+        relation: parallel
+        record:
+          agent: [Šulgi, Dhū l-Qarnayn]
+          action: [orders the fallen sections of the fortress rebuilt, builds the barrier]
+          object: [the Tidnum returned from their mountain land, Gog and Magog]
+          time: [within one month, null]
+          quoted: ["ki bad3 šub-ba ki-bi-še3 ḫu-mu-un-ĝar ḫe2-en-kalag u3 ḫe2-en-du3 ... tidnum-e kur-bi-ta ma-ra-an-gur", "ajʿal baynakum wa-baynahum radmā"]
+        note: "The king's wall against a raiding people from the mountains: Šulgi, who 'built the great fortress Igi-ḫursaĝa', orders it reinforced and rebuilt (ḫe2-en-kalag u3 ḫe2-en-du3) because the Tidnum 'have returned from their mountain land'; Dhū l-Qarnayn walls off Gog and Magog between two cliffs (bayna ṣ-ṣadafayn)."
+  - unit: ane-etcsl-3-1-10-shulgi-waterways
+    checked: [quran-27-solomon-ants-hoopoe-sheba, quran-69-haqqa-books-in-right-and-left-hands, quran-61-saff-ranks-moses-jesus-ahmad]
+    matches: []
+  - unit: ane-etcsl-3-1-11-bandits
+    checked: [quran-83-defrauders, quran-89-dawn, quran-51-dhariyat-oaths-and-the-righteous]
+    matches: []
+  - unit: ane-etcsl-3-1-11-1-urdun-cedar-resin
+    checked: [quran-20-moses-pharaoh-magicians, quran-27-solomon-ants-hoopoe-sheba, quran-61-saff-ranks-moses-jesus-ahmad]
+    matches: []
+  - unit: ane-etcsl-3-1-13-2-shulgi-ishbi-erra-grain
+    checked: [quran-12-joseph-full, quran-3-sovereignty, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians]
+    matches:
+      - with: quran-12-joseph-full
+        motif: king-makes-servant-equal-to-himself
+        refs: ["ETCSL 3.1.13.2 4", "ETCSL 3.1.13.2 5", "ETCSL 3.1.13.2 19"]
+        with_refs: ["12:54", "12:55", "12:56"]
+        relation: parallel
+        record:
+          agent: [Šulgi, the king of Egypt]
+          recipient: [Išbi-Erra, Joseph]
+          action: [praises a capable servant and sets lands before him as his equal, takes him for himself and sets him over the land]
+          quoted: ["e-me-du ... a-ba ma-an-šu; ki-ma ia-a-ti", "astakhliṣhu li-nafsī ... innaka l-yawma ladaynā makīnun amīn"]
+          outcome: [the provinces Martu and Elam are placed before him, Joseph is over the storehouses of the land]
+        note: "A king raises a servant he values to near-royal power: 'who could give me a house-born slave (eme-du) such as you? ... the land of the Martu, Elam, all of them I have placed before you: you are just as important as I am (Akk. kīma yâti)'; the king of Egypt: 'I will take him for myself ... today you are with us established and trusted', and Joseph is set over the treasuries of the land (khazāʾin al-arḍ)."
+      - with: quran-12-joseph-full
+        motif: king-calls-servant-his-son
+        refs: ["ETCSL 3.1.13.2 18"]
+        with_refs: ["12:21"]
+        relation: divergence
+        record:
+          agent: [Šulgi, the Egyptian who bought Joseph]
+          action: [declares the servant his son, hopes to take the slave as a son]
+          quoted: ["u2-da-da dumu ša3-az zu-ga-am-gu-u2 de-mi-in (Akk. DUMU-rum mu-ṭi3-ib li-ib-bi-ia at-ta)", "ʿasā an yanfaʿanā aw nattakhidhahu waladā"]
+          outcome: [from today you are my son, perhaps he will profit us or we take him as a son]
+        note: "A master and a slave he values become father and son: Šulgi, 'from today you are my son who makes me happy'; Joseph's buyer, 'perhaps he will be useful to us or we will adopt him as a son'. A declaration against a hope."
+      - with: quran-12-joseph-full
+        motif: servant-on-throne-receives-prostration
+        refs: ["ETCSL 3.1.13.2 19"]
+        with_refs: ["12:100"]
+        relation: divergence
+        record:
+          agent: [Išbi-Erra, Joseph]
+          place: [a throne on a golden dais, the throne]
+          recipient: [the messengers of the lands prostrate before him, his parents and brothers fall prostrate before him]
+          quoted: ["(Akk.) ki-ma ia-a-ti KU-ib ... (sit on a throne on a golden dais; let their messengers prostrate before you)", "wa-rafaʿa abawayhi ʿalā l-ʿarsh wa-kharrū lahu sujjadā"]
+        note: "The servant raised by the king sits enthroned and receives prostration: Šulgi tells Išbi-Erra to sit 'on a throne on a golden dais' and have the messengers of the lands prostrate themselves before him; Joseph raises his parents onto the throne and they fall down before him in prostration (sujjadā). Foreign envoys against his own family."
+      - with: quran-12-joseph-full
+        motif: grain-bought-with-silver-in-shortage
+        refs: ["ETCSL 3.1.13.2 10", "ETCSL 3.1.13.2 15", "ETCSL 3.1.13.2 16"]
+        with_refs: ["12:59", "12:88"]
+        relation: divergence
+        record:
+          agent: [Išbi-Erra buys, Joseph's brothers buy]
+          object: [grain, grain measure]
+          instrument: [600 talents of silver and 600 of gold, scanty goods]
+          quoted: ["un ge-eš-tu kub-babbar2 un ge-eš-tu ku-us-ke-eš ... še ... (Akk. ŠE-am ši2-ta-a2-a-ma)", "wa-jiʾnā bi-biḍāʿatin muzjātin fa-awfi lanā l-kayl"]
+          outcome: [buy grain everywhere at whatever rate, give us full measure and be charitable to us]
+        note: "Grain bought with silver through the king's trusted servant: Šulgi sends Išbi-Erra 600 talents of silver and gold 'to purchase grain everywhere at whatever exchange rate'; in Joseph the trusted servant is the seller and the buyers bring 'scanty goods' (biḍāʿa muzjāt) and beg 'give us full measure' (awfi lanā l-kayl). The trusted official buys in the letter and sells in the surah."
