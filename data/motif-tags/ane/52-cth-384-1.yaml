@@ -1,0 +1,419 @@
+# Full read, chunk 52: Puduḫepa's prayers and the last Hittite prayers (CTH 384-387), then the rituals CTH 390-396.1.1.
+# Read from the hethiter.net / TLHdig editions (transliteration by section and Kolon, German translation as a reading aid).
+new_motifs:
+  one-goddess-different-names-in-lands: {label: "The petitioner says the goddess took one name in one land and another name in another land (Sun goddess of Arinna in Ḫatti, Ḫepat in the land of the cedar)", cluster: divine-names}
+  worshipper-calf-of-gods-stall: {label: "The petitioner calls herself a calf of the deity's cattle-stall and a stone of the deity's foundation", cluster: prayer}
+  priest-assigned-to-god-by-lot: {label: "A prince is assigned by lot to a god's service as his priest", cluster: cult}
+  prayer-framed-as-legal-plea: {label: "The prayer is called a legal plea (Hittite arkuwar), a case presented to the deity as to a judge", cluster: prayer}
+  hero-risks-life-to-rebuild-holy-city: {label: "A prince risks his head and life, ignoring warnings that he will die for it, to take and rebuild the god's beloved city", cluster: kingship}
+  former-kings-neglected-holy-city: {label: "The petitioner reminds the god that the former kings neglected the god's city and none tried to take it back", cluster: kingship}
+  god-yields-to-woman-in-labour-proverb: {label: "Proverb quoted in prayer: 'to the woman of the birth-stool the deity yields'; the petitioner claims to have given herself for the god's son like a woman in labour", cluster: prayer}
+  minor-deity-asked-to-forward-prayer: {label: "A lesser deity (child or grandchild of the high gods) is asked to carry the petitioner's words on to the high god and goddess, whose ear they have", cluster: prayer}
+  conditional-vow-to-deity: {label: "The petitioner promises a gift if the deity grants the request: 'if you do this, I will give you ...'", cluster: prayer}
+  vow-of-life-size-silver-statue: {label: "A silver statue of the king as large as the king himself, with head, hands and feet of gold, is vowed to a goddess for his life", cluster: cult}
+  prayer-for-long-years-months-days: {label: "Prayer that the god give the king (and queen) life and long years, months and days", cluster: prayer}
+  harmful-words-and-gifts-before-gods-countered: {label: "The petitioner fears someone has turned the gods against the king by evil words or by giving them a gift for his harm, and asks the deity not to listen and to tread the evil words underfoot", cluster: prayer}
+  gods-cities-blockaded-festivals-resumed: {label: "The gods' cities had been cut off; now their old festivals of the year and month are celebrated again", cluster: cult}
+  enemies-covet-temple-vessels-and-servants: {label: "The enemies covet the gods' silver and gold vessels and their ploughmen, millers and weavers, want to burn the temples and lay waste their fields and gardens", cluster: war}
+  king-confesses-curtailing-festivals: {label: "The king confesses he offended the goddess by taking away and curtailing her festivals and promises never to do so again", cluster: prayer}
+  festivals-celebrated-in-wrong-season: {label: "Spring festivals and autumn festivals had been interchanged; the king vows to celebrate spring festivals only in spring and autumn festivals only in autumn", cluster: cult}
+  lost-divine-image-explained: {label: "The king explains that a divine image went missing in the time of his fathers, not through his own fault", cluster: cult}
+  vow-temple-if-victorious: {label: "The king vows that if he defeats the enemy and returns he will go up the god's mountain, give thousands and build the deity a temple", cluster: prayer}
+  king-washes-and-robes-for-dawn-rite: {label: "On a clear, cloudless day the king goes at dawn to a pure place, washes, puts on his festive robe and orders that no one bow or speak", cluster: cult}
+  water-libated-three-times-before-altar: {label: "Pure water fetched at dawn is poured out three times before the altar and the god and king wash their hands", cluster: cult}
+  goddess-gives-king-victorious-spear: {label: "The goddess gives the royal couple a drawn, victorious spear: the surrounding enemy lands shall perish by the hand of the Labarna", cluster: kingship}
+  land-grazes-in-hand-of-king: {label: "The land shall graze vigorously in the hand of the king and queen and spread wide", cluster: kingship}
+  sun-god-radiant-rays-epithet: {label: "The sun god is hailed as one whose radiance is brilliant and whose rays are bright", cluster: divine-epithets}
+  priest-prays-on-temple-roof-at-dawn: {label: "At dawn the priest goes up on the roof of the sun goddess's temple and recites the prayer facing the sun", cluster: cult}
+  sea-made-boundary-of-realm: {label: "The king and queen are to make the sea their boundary", cluster: kingship}
+  analogic-wish-sweet-and-numerous: {label: "Analogic prayer: as this bread or beer is sweet and this thing numerous, so may the goddess be sweet to the king and queen and their children be numerous", cluster: ritual}
+  bird-messenger-wakes-god-from-dreams: {label: "A goddess is to call a pleasant message like a bird to the god and wake him from his sweet dreams", cluster: prayer}
+  god-summoned-from-all-places: {label: "The god is summoned with 'come!' from heaven and earth, sunrise and sunset, a list of mountains, rivers, the sea, lands and the four corners", cluster: prayer}
+  god-with-father-above-or-mother-below: {label: "The god may be with his father in heaven or with his mother in the dark earth; wherever he is, he is called to his festival", cluster: prayer}
+  king-anointed-as-priest-of-god: {label: "The king or prince is anointed for the priesthood of a god's beloved cities", cluster: cult}
+  storm-god-gentle-rain-not-withdrawn: {label: "The storm god, the gentle rain of all lands, is asked not to call back to himself the good of the lands, of mankind and the gentle rains", cluster: prayer}
+  king-ignored-oracle-and-god-angry: {label: "The king admits he passed over the oracles and the god's word and went his own way, and the god became angry", cluster: prayer}
+  gods-hungry-thirsty-wounded-weeping: {label: "The gods are described as thirsty, hungry, wounded and weeping, and the god is called away from them", cluster: prayer}
+  son-pleads-innocence-before-angry-father: {label: "The prince pleads he is not to blame for the slander between himself and his royal father and asks that his father's anger toward him be put away", cluster: prayer}
+  trial-left-to-god: {label: "The petitioner says he did not decide the case: 'that was the god's lawsuit'", cluster: justice}
+  acted-on-anothers-word-not-own: {label: "The petitioner says he carried out a deed at another's command, taking nothing from his own mind", cluster: prayer}
+  compensation-promised-to-god: {label: "The petitioner promises to make compensation (šarnink-) for any wrong", cluster: prayer}
+  bread-and-message-sent-three-times: {label: "Three thick breads are set out and a message is sent three times to call the god", cluster: cult}
+  chariot-left-behind-against-order: {label: "Against the king's order that no chariot be left behind, an officer leaves a chariot; the prince says he did not know and sent one on", cluster: prayer}
+  ancestor-took-gods-silver-into-his-house: {label: "When silver and gold were given to all the gods, the petitioner's father gave nothing and took it into his own house", cluster: cult}
+units:
+  - id: ane-cth-384-1-1-puduhepa-nerik-history
+    tradition: ane-hittite
+    title: Puduḫepa to the Sun goddess of Arinna, the story of Nerik and Ḫattušili (CTH 384.1 §1-5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 384.1 §1:1-§5:57"]
+    tags:
+      - {motif: one-goddess-different-names-in-lands, refs: ["CTH 384.1 §2:2-5"], note: "INA KUR URU ḫatti dUTU URUPÚ-na ŠUM-an daišta … kuit KUR-e GIŠERIN-aš iyat nu=z=kan dḫepat ŠUM-an daišta 'in Ḫatti you gave yourself the name Sun goddess of Arinna; in the land you made the land of cedar you gave yourself the name Ḫepat'"}
+      - {motif: worshipper-calf-of-gods-stall, refs: ["CTH 384.1 §2:6-8"], note: "annalliš GÉME-KA; ŠA É.GU4-du=za AMAR-uš; šamanaš=ma=ddu=za NA4-aš 'your old servant, a calf of your stall, a stone of your foundation'"}
+      - {motif: priest-assigned-to-god-by-lot, refs: ["CTH 384.1 §2:11"], note: "pulaz … ḫaptat 'was allotted by lot' (pulaz partly restored) to the Storm god of Nerik"}
+      - {motif: former-kings-neglected-holy-city, refs: ["CTH 384.1 §2:14-19"], note: "ḫantezziuš LUGAL.MEŠ … arḫa pittalaer 'the early kings neglected it'; they had weapons and conquered enemy lands, but no one tried to take Nerik"}
+      - {motif: hero-risks-life-to-rebuild-holy-city, refs: ["CTH 384.1 §3:32", "CTH 384.1 §4:39-45"], note: "SAG.DU-an … uššaniškit 'staked his head'; ḫarkan … ḫinkan UL kappuwait 'did not care about his death or ruin'; INA URU nerikka šer aggatar ēpta 'took on death for Nerik'"}
+      - {motif: king-restores-neglected-rites, refs: ["CTH 384.1 §5:51-55"], note: "parkunummeni 'we purify ourselves'; išḫiul ḫazziwi 'the gods' ordinances and rites'; annalliuš EZEN4.MEŠ 'the old festivals' of the year and month are celebrated"}
+      - {motif: gods-cities-blockaded-festivals-resumed, refs: ["CTH 384.1 §5:54-57"], note: "ištappanteš 'blocked'"}
+    hints:
+      - "Compare Q 17:110 ('call on God or call on the Merciful: whichever you call, to Him belong the best names') and Q 7:180 with one goddess taking different names in different lands."
+      - "Compare Q 2:127-129 and Q 22:26 (Abraham restoring the House) and Neh 2:17-18 with the prince who rebuilds the god's neglected holy city."
+      - "Compare 1 Chr 24:5, 31 and Luke 1:9 (priests assigned by lot) and Q 3:44 (lots cast for Mary's guardian)."
+  - id: ane-cth-384-1-6-puduhepa-plea-lelwani
+    tradition: ane-hittite
+    title: Puduḫepa's plea, the woman of the birth-stool, and the vow to Lelwani (CTH 384.1 §6-9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 384.1 §6:58-§9:120"]
+    tags:
+      - {motif: prayer-framed-as-legal-plea, refs: ["CTH 384.1 §6:58"], note: "kī uttar … arkuwar iyanun 'I made this word as a plea'"}
+      - {motif: god-yields-to-woman-in-labour-proverb, refs: ["CTH 384.1 §6:61-64"], note: "ḫarnauwaš=wa MUNUS-nī DINGIR-LUM kāri tiyazi 'to the woman of the birth-stool the deity yields'; ḫarnawaš MUNUS-za … SAG.DU-az piyan ḫarmi 'I have given myself in person'"}
+      - {motif: prayer-for-long-years-months-days, refs: ["CTH 384.1 §6:67-68", "CTH 384.1 §8:114-115"], note: "TI-tar pāi 'give life'; MU.ḪI.A ITU.ḪI.A UD.ḪI.A [daluga]eš 'long years, months and days'"}
+      - {motif: deathbed-dream-of-divine-assembly, refs: ["CTH 384.1 §6:70-73"], note: "only a partial fit: when all the gods hold [assembly] (tuliya restored), the goddess is to ask for Ḫattušili's life there 'with a sincere mind'"}
+      - {motif: harmful-words-and-gifts-before-gods-countered, refs: ["CTH 384.1 §8:102-113"], note: "maninkuwantaš=wa 'of short [life]' was said of him; IŠTU ŠU AMĒLŪTI 'by the hand of a man'; piyan … ḪUL-uanni šer A-NA DINGIR.MEŠ piyan ḫarzi 'has given a gift to the gods for evil'; GÌR.MEŠ-it išparratti 'you trample with the feet'"}
+      - {motif: minor-deity-asked-to-forward-prayer, refs: ["CTH 384.1 §8:111", "CTH 384.1 §8:114"], note: "Lelwani is to speak good (parranda memaš-) to the gods; the life of Ḫattušili and Puduḫepa is to come from her mouth before the gods"}
+      - {motif: conditional-vow-to-deity, refs: ["CTH 384.1 §9:116-119"]}
+      - {motif: vow-of-life-size-silver-statue, refs: ["CTH 384.1 §9:119-120"], note: "ALAM KÙ.BABBAR ŠA mḫattušili … mašiwanza 'a silver statue of Ḫattušili, as large as Ḫattušili', SAG.DU-ZU ŠU.MEŠ-ŠÚ GÌR.MEŠ-ŠÚ ŠA GUŠKIN 'head, hands, feet of gold'"}
+    hints:
+      - "Compare Q 7:189 (the couple who pray when the pregnancy grows heavy: 'if you give us a good child we will be grateful') and Q 3:35 (Imran's wife vows her unborn) with the conditional vow and the woman in labour."
+      - "Compare Q 19:23-26 (Mary in labour at the palm) and Gen 35:16-18 with the woman of the birth-stool to whom the deity yields."
+      - "The petitioner's statue vow diverges from Q 7:148 and Q 21:52 (images); compare 1 Sam 6:4-5 (golden images given in place of the afflicted)."
+      - "Compare Q 113:4-5 and Q 2:102 (those who work harm through others) with the man who gave the gods a gift for Ḫattušili's harm."
+  - id: ane-cth-384-1-10-puduhepa-zintuhi-mezzulla-zippalanda
+    tradition: ane-hittite
+    title: Zintuḫi, Mezzulla and the Storm god of Zippalanda asked to carry the plea (CTH 384.1 §10-17)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 384.1 §10:121-§17:163"]
+    tags:
+      - {motif: minor-deity-asked-to-forward-prayer, refs: ["CTH 384.1 §11:127-128", "CTH 384.1 §13:132-138", "CTH 384.1 §15:143-149"], note: "parā arnut 'bring (it) further'; to the Storm god 'your grandfather' and the Sun goddess 'your grandmother'; for Mezzulla 'they hear it, they do not turn it back' (UL=at=kan waḫnuwanzi)"}
+      - {motif: conditional-vow-to-deity, refs: ["CTH 384.1 §12:129-131", "CTH 384.1 §14:140-142", "CTH 384.1 §16:159-160", "CTH 384.1 §17:161"], note: "a great jewel (unuwašḫan) for Zintuḫi; deportees (NAM.RA) for Mezzulla; a gold shield of two minas (KUŠA-RI-TUM GUŠKIN ŠA 2 MA.NA) for the Storm god of Zippalanda"}
+      - {motif: god-yields-to-woman-in-labour-proverb, refs: ["CTH 384.1 §15:150-151"], note: "ḫarnauwaš=za … MUNUS-za … šarninkan ḫarmi 'as a woman of the birth-stool I have made compensation'"}
+      - {motif: prayer-framed-as-legal-plea, refs: ["CTH 384.1 §13:136", "CTH 384.1 §15:147", "CTH 384.1 §15:157"]}
+      - {motif: hero-risks-life-to-rebuild-holy-city, refs: ["CTH 384.1 §15:153-155"], note: "uššaniškit … kuitman … URU nerikkan … EGIR-pa wetet 'until he had rebuilt Nerik'"}
+      - {motif: prayer-for-long-years-months-days, refs: ["CTH 384.1 §11:127"]}
+    hints:
+      - "The chain of divine go-betweens diverges sharply from Q 39:3 ('we only serve them that they bring us near to God'), Q 10:18 ('these are our intercessors with God') and Q 2:255 (who intercedes except by His leave?)."
+      - "Compare 1 Sam 1:11 (Hannah's conditional vow) and Gen 28:20-22 (Jacob: 'if God is with me … I will give a tenth')."
+      - "The line §17:163 carries the edition's footnotes run into the text."
+  - id: ane-cth-384-2-puduhepa-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer of Puduḫepa (CTH 384.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 384.2"]
+    tags:
+      - {motif: blessing-on-king-who-reveres-god, refs: ["CTH 384.2 §1:7-12"], note: "very broken: KUR.KUR.MEŠ-ši 'lands to him', GIŠGU.ZA LUGAL-UT-TI-ši 'the throne of kingship to him', GIŠTUKUL.ḪI.A-ši 'weapons to him'; Šamuḫa named (§1:13)"}
+  - id: ane-cth-384-3-puduhepa-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer of Puduḫepa to Zintuḫi (CTH 384.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 384.3"]
+    tags:
+      - {motif: prayer-framed-as-legal-plea, refs: ["CTH 384.3 §1:3"], note: "[arkuwa]r iyanun, restored"}
+      - {motif: minor-deity-asked-to-forward-prayer, refs: ["CTH 384.3 §1:4-6"], note: "Zintuḫi; [u]wainut 'make (me) pitiable' before the Sun goddess of Arinna"}
+  - id: ane-cth-385-1-prayer-fragment-sin
+    tradition: ane-hittite
+    title: Fragment of a prayer to the Sun goddess of Arinna, a confessed offence (CTH 385.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.1"]
+    tags:
+      - {motif: sufferer-confesses-unknown-sins, refs: ["CTH 385.1 §1:5-7"], note: "ariyašeš- 'oracle' and [w]aštaḫḫun 'I sinned'; the sin itself is lost"}
+  - id: ane-cth-385-2-prayer-hatti-thrive
+    tradition: ane-hittite
+    title: Fragment of a prayer for Ḫatti against hostile neighbours (CTH 385.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.2"]
+    tags:
+      - {motif: land-fertile-under-blessed-king, refs: ["CTH 385.2 §2:3"], note: "KUR URU ḫatti … [ḫal]kit GEŠTIN-it maiškeddu 'may Ḫatti thrive with grain and wine'"}
+      - {motif: curse-on-kings-enemies-by-net-and-flood, refs: ["CTH 385.2 §3:4-6", "CTH 385.2 §4:8-12"], note: "only a loose fit: the surrounding (araḫzenaš) lands who seek evil for Ḫatti; the curse itself is broken"}
+      - {motif: gods-cities-blockaded-festivals-resumed, refs: ["CTH 385.2 §9:27-28"], note: "EZEN4.ḪI.A-KU-NU duškarat- 'joy at your festivals'; very broken"}
+  - id: ane-cth-385-3-prayer-fragment-kingship
+    tradition: ane-hittite
+    title: Fragment of a prayer, kingship of Ḫatti by the goddess's word (CTH 385.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.3"]
+    tags:
+      - {motif: god-given-kingship-of-heaven-by-an, refs: ["CTH 385.3 §1:1-3"], note: "only a partial fit: LUGAL-UT-TA ŠA KUR URU ḫatti … tuedaza=at [memiy]anaza 'the kingship of Ḫatti … by your word'"}
+  - id: ane-cth-385-4-prayer-fragment-offerings
+    tradition: ane-hittite
+    title: Fragment of a prayer with offerings and wishes for the royal house (CTH 385.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.4"]
+    tags:
+      - {motif: offering-before-prayer, refs: ["CTH 385.4 §2:5-6", "CTH 385.4 §3:9-10"], note: "1 UDU 'one sheep', DUGḪAB.ḪAB GEŠTIN 'a jug of wine', NINDA 'bread': 'we sent [wine]'"}
+      - {motif: blessing-on-king-who-reveres-god, refs: ["CTH 385.4 §7:19-22", "CTH 385.4 §8:23-24"], note: "TI-tar ḫaddulatar 'life and health'; kallaranni 'in misfortune'; DUMU.DUMU.MEŠ LUGAL … pankur 'the king's grandchildren … the clan'"}
+  - id: ane-cth-385-5-prayer-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer naming the queen (CTH 385.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.5"]
+    tags:
+      - {motif: blessing-on-king-who-reveres-god, refs: ["CTH 385.5 §2:7-8"], note: "only MUNUS.LUGAL-TUM 'the queen' and wish forms (-ntaru, -andu) survive; context lost"}
+  - id: ane-cth-385-6-prayer-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer, 'you, Sun goddess' (CTH 385.6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.6"]
+    tags:
+      - {motif: sun-god-judge-of-gods, refs: ["CTH 385.6 §4:4-6", "CTH 385.6 §5:7-9"], note: "loose: only zik=ma 'but you', a quoted 'who …?' and the Sun goddess of Arinna 'when the gods …' survive"}
+  - id: ane-cth-385-7-prayer-fragment-ishtar
+    tradition: ane-hittite
+    title: Fragment of a prayer, the road of Arinna and Ištar's matter (CTH 385.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.7"]
+    tags:
+      - {motif: king-restores-neglected-rites, refs: ["CTH 385.7 §2:8-11"], note: "ŠA DINGIR-LIM memi[an] 'the matter of the deity'; ŠA dIŠTAR; šer arḫa UL=pat pā- '[we] did not pass over'; very broken"}
+  - id: ane-cth-385-8-enemies-covet-temples
+    tradition: ane-hittite
+    title: The enemies covet the gods' vessels, servants, temples and fields (CTH 385.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.8"]
+    tags:
+      - {motif: enemies-covet-temple-vessels-and-servants, refs: ["CTH 385.8 §4:14-17"], note: "KÙ.BABBAR GUŠKIN U-NU-TE.MEŠ-KU-NU … ilališkanzi 'they covet your silver and gold vessels'; LÚ.MEŠ APIN.LÁ … MUNUS.MEŠ NA4ARA5 MUNUS.MEŠ UŠ.BAR 'ploughmen … millstone women, weavers'; É.DINGIR.MEŠ-KU-NU 'your temples'; A.ŠÀ.ḪI.A GIŠKIRI6.ḪI.A … dannattaḫḫuwanzi 'to lay waste fields, gardens'"}
+      - {motif: temple-treasures-plundered, refs: ["CTH 385.8 §4:14"], note: "threatened, not done"}
+      - {motif: blessing-on-king-who-reveres-god, refs: ["CTH 385.8 §3:12-13"], note: "LUGAL MUNUS.LUGAL DUMU.MEŠ LUGAL … paḫšantaru 'may they protect them'"}
+    hints:
+      - "Compare Ps 74:3-8 and Ps 79:1 (the enemy in the sanctuary) and Q 2:114 (who is more wrong than one who bars God's places of worship and strives to ruin them?)."
+  - id: ane-cth-385-9-tudhaliya-confession-festivals
+    tradition: ane-hittite
+    title: Tudḫaliya confesses curtailing the festivals and vows a temple (CTH 385.9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.9"]
+    tags:
+      - {motif: prayer-framed-as-legal-plea, refs: ["CTH 385.9 §1:1"]}
+      - {motif: king-confesses-curtailing-festivals, refs: ["CTH 385.9 §1:2-5", "CTH 385.9 §1:11-12"], note: "waštaḫḫun 'I sinned'; [z]ammuranun 'I offended'; [EZEN4-a]n arḫa appeškewan teḫḫun 'I took away the festival'; EZEN4.MEŠ karšanunun 'I cut the festivals'; wašdul is only partly preserved in §1:11"}
+      - {motif: festivals-celebrated-in-wrong-season, refs: ["CTH 385.9 §1:13-15"], note: "EZEN4.MEŠ ḫamešḫandaš … [zēnand]ašša UL namma waḫnummi 'I will no longer exchange the spring and [autumn] festivals'; ḫamešḫi=pat … zēni=pat ēššaḫḫi 'only in spring … only in autumn will I celebrate'"}
+      - {motif: lost-divine-image-explained, refs: ["CTH 385.9 §2:17-24"], note: "DINGIR.MEŠ-tar … GAM paīt 'the divine image went down (was lost)'; INA UD-MI mšuppilu[liuma] 'in the days of Šuppiluliuma'"}
+      - {motif: vow-temple-if-victorious, refs: ["CTH 385.9 §1:8-10", "CTH 385.9 §5:40-47"], note: "māan=za LÚKÚR tar[u]ḫmi … ḪUR.SAG tagu[rq]a šer uwami … LI-IM.ḪI.A [p]eḫḫi … parā šarnikmi 'if I defeat the enemy … I will come up on Mount Tagurqa … give thousands … make compensation'; É.DINGIR-LIM DÙ-mi 'I will build a temple' in Arinna"}
+      - {motif: conditional-vow-to-deity, refs: ["CTH 385.9 §1:9-10"]}
+      - {motif: compensation-promised-to-god, refs: ["CTH 385.9 §5:47"]}
+    hints:
+      - "Compare Q 9:36-37 (the twelve months, four sacred; al-nasī' shifting the sacred month is an increase in unbelief) with the vow no longer to exchange spring and autumn festivals."
+      - "Compare Q 7:23 ('our Lord, we have wronged ourselves') and 2 Sam 24:10 with the king's confession; and Num 21:2 (Israel's vow 'if you give this people into my hand')."
+      - "Compare 1 Sam 4-6 (the ark lost in a former generation) with the lost divine image."
+  - id: ane-cth-385-10-labarna-sun-prayer-roof
+    tradition: ane-hittite
+    title: The king's dawn rite and the priest's prayer on the roof of the Sun goddess's temple (CTH 385.10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.10"]
+    tags:
+      - {motif: king-washes-and-robes-for-dawn-rite, refs: ["CTH 385.10 §1:2-8", "CTH 385.10 §2:9-10"], note: "UD-ti pár[ku]i … alpaš N[U.G]ÁL 'on a clear day with no cloud'; šalimani … šuppai 'to the pure šalimani'; arraḫḫi 'I wash'; TÚGNÍG.LÁM 'festive robe'; [ar]uwanzi [l]ē kuiški … memai lē kuiški kuitki 'let no one bow, let no one say anything'"}
+      - {motif: water-libated-three-times-before-altar, refs: ["CTH 385.10 §3:11-15", "CTH 385.10 §4:16-19"], note: "wātar parkui 'pure water' brought up with a KUKUBU jug at dawn; 3-ŠÚ šippanta- 'I libate three times'; DINGIR-LUM anku Q[AT]I-ŠU ārri 'the deity washes its hands'; ammuk QATIYA arḫa arraḫḫi 'I wash my hands'"}
+      - {motif: land-fertile-under-blessed-king, refs: ["CTH 385.10 §8:34"], note: "ḫalkiyaš GEŠTIN.ḪI.A miyatar katta ḫaššaš ḫanzaššaš paiš 'she gave growth of grain and wine down to grandchildren and great-grandchildren'"}
+      - {motif: goddess-gives-king-victorious-spear, refs: ["CTH 385.10 §9:35-37"], note: "parā neyantan tarḫuilin GIŠŠUKUR 'a drawn, victorious spear'; araḫzenan … KUR.KUR-TIM labarnaš kiššaraz ḫarkiyettaru 'may the surrounding enemy lands perish by the hand of the Labarna'; the goods to be brought to Ḫattuša and Arinna, šiunan URU-aš 'the cities of the gods'"}
+      - {motif: land-grazes-in-hand-of-king, refs: ["CTH 385.10 §10:38-39", "CTH 385.10 §16:59-60"], note: "kiššarī tarru we[ši]ttaru 'may it graze vigorously in the hand'; pa[lḫi]škettaru 'may it spread'"}
+      - {motif: sun-god-radiant-rays-epithet, refs: ["CTH 385.10 §11:40-42"], note: "tuwaddu nepišaš dUTU-ui 'Mercy, Sun god of heaven'; maišzaštiš … mišriwanza 'whose radiance is brilliant'; ḫapparnuwašḫeš … lalukkiuwanteš 'whose rays are bright' (Luwianising)"}
+      - {motif: king-unites-en-priesthood-and-kingship, refs: ["CTH 385.10 §11:43-45"], note: "labarnan LÚSANGA-KA 'the Labarna, your priest'; Tawannanna šiwanzannandan 'the god's mother'; mayandaḫḫeški uktūriyaḫḫeški 'make them vigorous, make them lasting'"}
+      - {motif: sea-made-boundary-of-realm, refs: ["CTH 385.10 §16:62"], note: "[URU z]alpui … arunan irḫaššan iendu 'in Zalpuwa may they make the sea its boundary'"}
+      - {motif: priest-prays-on-temple-roof-at-dawn, refs: ["CTH 385.10 §18:72-73", "CTH 385.10 §19:74-77", "CTH 385.10 §22:86"], note: "LÚSANGA ŠA dUTU URU arinna šuḫḫi=ššan šer ŠA É dUTU … memiškezzi 'the priest speaks on the roof of the Sun's house'; māan lukkatta 'when it grows light'; dUTU-i menaḫḫanda 'facing the Sun'"}
+      - {motif: scribal-colophon, refs: ["CTH 385.10 §22:87"], note: "[QA]TI 'finished'; the edition's notes run into the line"}
+    hints:
+      - "Compare Q 17:78 (the dawn recitation is witnessed) and Q 5:6 (washing before prayer) with the cloudless dawn, washing and silence."
+      - "The sun prayer facing the sun at dawn diverges from Q 41:37 ('do not prostrate to the sun or the moon') and Q 27:24 (Sheba bowing to the sun); compare Ezek 8:16 (men facing east bowing to the sun) and Jer 19:13 (offerings on rooftops)."
+      - "Compare Q 8:17 ('you did not throw when you threw') and Ps 2:8-9 (nations given to the king) with the goddess's victorious spear."
+  - id: ane-cth-385-11-analogic-sweet-prayer
+    tradition: ane-hittite
+    title: Analogic prayer, the soul shall not trickle away; be sweet to the king (CTH 385.11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 385.11"]
+    tags:
+      - {motif: do-not-let-me-die-like-water-spilled, refs: ["CTH 385.11 §1:15-19", "CTH 385.11 §2:21"], note: "[arḫ]a=ma=kan UL [za]pnuzi 'does not let (it) trickle away'; aššu arḫa lē zapnuzi 'let the goods not trickle away'; the subject (soul?) is the translator's guess"}
+      - {motif: analogic-wish-sweet-and-numerous, refs: ["CTH 385.11 §2:24-29", "CTH 385.11 §3:31-33"], note: "NINDA … KAŠ KU7 GIM-an 'as … bread, sweet beer'; zikka dUTU URU PÚ-na … QATAMMA militeš 'so may you, Sun goddess, become sweet' to king and queen; DUMU.MEŠ MUNUS.MEŠ ḫaš- … QATAMMA makkiškeddu 'sons, daughters, grand[children] shall be as many'; GEŠTIN-an ŠÀ-it ḫarzi 'holds wine in its inside' … so hold the king and queen"}
+    hints:
+      - "Compare 2 Sam 14:14 (water spilt on the ground that cannot be gathered) and Q 14:24-25 (the good word like a good tree)."
+  - id: ane-cth-386-1-nerik-storm-god-summoned
+    tradition: ane-hittite
+    title: The Storm god of Nerik woken and summoned from all places (CTH 386.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.1"]
+    tags:
+      - {motif: bird-messenger-wakes-god-from-dreams, refs: ["CTH 386.1 §2:8-10"], note: "dzaḫpunaš … MUŠEN GIM-an šanezzin [ḫalu]gan ḫalzāu 'like a bird let her call a pleasant message'; šanezziyaz tešḫaz šarā arnuddu 'wake him from pleasant dreams'"}
+      - {motif: god-summoned-from-all-places, refs: ["CTH 386.1 §2:11-13", "CTH 386.1 §2:19-21", "CTH 386.1 §3:22", "CTH 386.1 §4:23-35"], note: "eḫu 'come!' from nepišaz daganzipaz 'heaven and earth', ṢĒT dUTU-aš ŠÚ.A dUTU-aš 'sunrise and sunset'; mountains Ḫaḫruwa, Zaliyanu, Daḫalmuna, Tagurta, Ḫulla, Puškurunuwa; rivers Maraššanta and Zumazuwanta; Zalpa aruna 'the sea'; the spring of Nerik; Arzawa, Ḫurri, Kummanni; IM.MAR.TU IM.SI … 4 ḫalḫaltumarraš 'the four corners'"}
+      - {motif: god-with-father-above-or-mother-below, refs: ["CTH 386.1 §2:14-16"], note: "dankui daganzipi A-NA dEREŠ.KI.GAL AMA-KA 'in the dark earth with Ereškigal your mother'"}
+      - {motif: king-anointed-as-priest-of-god, refs: ["CTH 386.1 §2:17"], note: "mdutḫaliyan … AŠŠUM LÚSANGA-UT-TIM iškanzi 'they will anoint Tudḫaliya for the priesthood' of Ḫakmiš and Nerik"}
+      - {motif: four-corners-of-the-earth, refs: ["CTH 386.1 §4:33"]}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 386.1 §2:16-18"], note: "only the call to come to his festival 'in the morning of the day' survives here; no food is named"}
+    hints:
+      - "Compare Q 27:20-28 (the hoopoe carries Solomon's message) with the goddess who calls the god's message like a bird."
+      - "Compare Q 2:115 ('to God belong the east and the west; wherever you turn, there is God's face') and Q 55:17 (Lord of the two easts and two wests), against a god who must be summoned from wherever he roams; also 1 Kgs 18:27 (perhaps he is asleep)."
+      - "Compare Q 2:255 (neither slumber nor sleep seizes Him) and Ps 121:4 with waking the god from his dreams."
+  - id: ane-cth-386-2-nerik-gentle-rain
+    tradition: ane-hittite
+    title: The Storm god, gentle rain of all lands (CTH 386.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.2"]
+    tags:
+      - {motif: storm-god-gentle-rain-not-withdrawn, refs: ["CTH 386.2 §1:1-6"], note: "d10-aš=wa dapiaš KUR-eaš mienuš ḫ[ēuš] 'Storm god, gentle rain of all lands'; KUR-eaš=wa SIG5 GAM-an lē ḫalzešti 'do not call the good of the lands down/back'; [mi]euš=wa=za ḫēuš GAM-an lē ḫalz[ešti]"}
+      - {motif: god-with-father-above-or-mother-below, refs: ["CTH 386.2 §3:13-17"], note: "when something weighs on the Labarna, the ways of the earth (KI-aš KASKAL.ḪI.A) are opened to you; your grandfather the Storm god, your mother the Sun goddess of Arinna"}
+    hints:
+      - "Compare Q 7:57 and Q 42:28 (He sends down the rain after they despaired) and Q 56:68-70, and Deut 11:14-17 (the rain withheld)."
+  - id: ane-cth-386-3-nerik-oracles-ignored
+    tradition: ane-hittite
+    title: The king who passed over the oracles makes his plea from afar (CTH 386.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.3"]
+    tags:
+      - {motif: bow-of-god-given-to-king, refs: ["CTH 386.3 §2:17-19"], note: "IŠTU DINGIR-LIM … GIŠTUKUL SUM-anza ēšta 'a weapon had been given me by the deity'; yet he 'went over that place' (šer arḫa pāun)"}
+      - {motif: king-ignored-oracle-and-god-angry, refs: ["CTH 386.3 §3:20-24", "CTH 386.3 §5:29-33"], note: "ariyašešnaza IGI.ḪI.A walaḫta 'struck my eyes through an oracle'; apadda=ya šer arḫa pāun 'I passed over that too'; TUKU.TUKU-uanza 'angry'"}
+      - {motif: king-defies-unfavourable-oracle, refs: ["CTH 386.3 §3:21-23"]}
+      - {motif: prayer-framed-as-legal-plea, refs: ["CTH 386.3 §5:34"], note: "tuwaz … arkuwar iyanun 'I made a plea from afar'"}
+      - {motif: minor-deity-asked-to-forward-prayer, refs: ["CTH 386.3 §5:35-36"], note: "here inverted: the Storm god (father) is asked to speak to his beloved son, the Storm god of Nerik, and make the king pitiable (uwainut)"}
+    hints:
+      - "Compare 1 Sam 15:22-23 (Saul rejects the word) and Q 7:146 (they see every sign and do not believe) with the king who passed over the oracle."
+  - id: ane-cth-386-4-nerik-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer to the Storm god of Nerik, loyal mind and honey (CTH 386.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.4"]
+    tags:
+      - {motif: libations-of-beer-and-wine, refs: ["CTH 386.4 §3:23-24"], note: "ZI-ta milit SUM-zi 'gives you honey with [loyal] mind'; [šaku]wašarrit ZI-it 'with a loyal mind' (§1:3, §1:5)"}
+  - id: ane-cth-386-5-nerik-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer, 'I did not go to Nerik' (CTH 386.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.5"]
+    tags:
+      - {motif: king-ignored-oracle-and-god-angry, refs: ["CTH 386.5 §1:5-8"], note: "DINGIR.MEŠ-aš INIM-ni 'in the matter of the gods'; URU nerikka … UL pāun 'I did not go'; arḫa waḫnunun 'I turned away'; then a quoted 'come!' (§1:15)"}
+  - id: ane-cth-386-6-nerik-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer concerning Nerik (CTH 386.6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.6"]
+    tags:
+      - {motif: blessing-on-king-who-reveres-god, refs: ["CTH 386.6 §1:5-7", "CTH 386.6 §2:9"], note: "very broken: É-naš SIG5-anda 'good things of the house'; mekki 'much'; [ta]rḫuilā[tar] 'heroism'"}
+  - id: ane-cth-386-7-nerik-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer, the gods bow before the Storm god of Nerik (CTH 386.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.7"]
+    tags:
+      - {motif: gods-prostrate-before-victor, refs: ["CTH 386.7 §2:21"], note: "loose fit: the Storm god of Zaḫpuna, the Storm god of heaven and the mountains naḫšarnuanteš 'made afraid' before the Storm god of Nerik; the verb is lost"}
+      - {motif: storm-god-gentle-rain-not-withdrawn, refs: ["CTH 386.7 §2:24-25"], note: "TI-tar piandu 'may they give life'; KUR-eaš=ma aššu SUM- 'good to the lands'"}
+      - {motif: bread-and-message-sent-three-times, refs: ["CTH 386.7 §3:26-28"], note: "3 NINDA.GUR4.RA 'three thick breads'; ḫalugan 3-ŠÚ tarna- 'sends a message three times'"}
+  - id: ane-cth-386-8-nerik-gods-thirsty
+    tradition: ane-hittite
+    title: The thirsty, hungry, wounded gods (CTH 386.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.8"]
+    tags:
+      - {motif: gods-hungry-thirsty-wounded-weeping, refs: ["CTH 386.8 §1:2-3", "CTH 386.8 §2:4-5"], note: "ḫurdandaš kanirwandaš UN-aš UZU … GU7-zi … akuškanzi 'they eat the flesh of a wounded, thirsty man and drink it'; kanirwandaš kištuwandaš ḫurdandaš išḫaḫruwandaš 'thirsty, hungry, wounded, weeping' (gods); come and take down the lordly Maliya"}
+    hints:
+      - "Diverges from Q 6:14 ('He feeds and is not fed') and Q 51:57 and Ps 50:12-13 ('if I were hungry I would not tell you')."
+  - id: ane-cth-386-9-nerik-fragment
+    tradition: ane-hittite
+    title: Fragment of a prayer, the god's mother perished (CTH 386.9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 386.9"]
+    tags:
+      - {motif: wrath-then-mercy, refs: ["CTH 386.9 §1:1-2"], note: "loose: [ … ]ḪI.A ḫašpuen 'we cut down'; karū duddu- 'formerly gracious'"}
+      - {motif: lost-divine-image-explained, refs: ["CTH 386.9 §1:4-6"], note: "AMA-KA … ḫarakta 'your mother … perished'; whether a goddess or her image is meant is unclear"}
+  - id: ane-cth-387-1-mursili-iii-slander-father
+    tradition: ane-hittite
+    title: Muršili III (Urḫi-Teššub) pleads innocence in his father's quarrels (CTH 387.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 387.1"]
+    tags:
+      - {motif: king-defies-unfavourable-oracle, refs: ["CTH 387.1 §1:6-12", "CTH 387.1 §1:17-19"], note: "loose fit: ariyanun 'I made an oracle inquiry'; NU.SIG5-ta 'it was unfavourable'; [mš]apili … appanna SIxSÁ-at 'it was determined (by oracle) to seize Šapili'; apūn memian iyanun 'I did that matter'"}
+      - {motif: tablet-of-guilt-broken, refs: ["CTH 387.1 §1:22-23"], note: "loose fit: apāt ḫarātar lāi 'release that offence'"}
+      - {motif: treaty-renewed-after-ancestors-tablet, refs: ["CTH 387.1 §2:32-37"], note: "the lords of Ḫatti: when a king becomes god (DINGIR-LIM-iš kišari), the king who comes up and does not tell the lands 'I have made this treaty (išḫiul) for you' …"}
+      - {motif: son-pleads-innocence-before-angry-father, refs: ["CTH 387.1 §2:38-55", "CTH 387.1 §4:77-80"], note: "ḪUL-uwa A-WA-TE.MEŠ … weḫtat 'evil words went round'; A-BU-YA=wa=mu … UL uškezzi 'my father does not regard me'; EME 'tongue, slander'; attašmiš … TUKU.TUKU-an arḫa peššiyaddu 'may my father throw away his anger'"}
+      - {motif: trial-left-to-god, refs: ["CTH 387.1 §3:60-67"], note: "ḫannetalwaneš 'adversaries at law' (my father and the queen); apāt ŠA DINGIR-LIM DI-NU ēšta 'that was the god's lawsuit'; ftanuḫepa MUNUS.LUGAL"}
+      - {motif: acted-on-anothers-word-not-own, refs: ["CTH 387.1 §3:68-71"], note: "dameddaz IŠTU KAxU parā 'from another's mouth'; ZI-za UL kuitki daḫḫun 'I took nothing from my mind'"}
+      - {motif: chariot-left-behind-against-order, refs: ["CTH 387.1 §5:81-87"], note: "ANŠE.KUR.RA=wa=kan lē kuinki dāliyanzi 'let them leave no chariot behind'; mNU.GIŠKIRI6 left a mawalli- chariot (four-horse team?); I did not know"}
+      - {motif: compensation-promised-to-god, refs: ["CTH 387.1 §6:105-107"], note: "INIM NAM.RA 'the matter of the deportees'; šarnikmi 'I will compensate'"}
+    hints:
+      - "Compare Q 49:6 (verify the report of a wicked man) and Q 24:11-16 (the slander) with the evil words between son and father; and 2 Sam 15:1-6 (Absalom)."
+      - "Compare Q 4:135 and Q 6:164 ('no bearer of burdens bears another's') with 'I acted at another's word'; compare 1 Sam 24:13 ('let YHWH judge between me and you') with 'that was the god's lawsuit'."
+  - id: ane-cth-387-2-mursili-iii-fragment
+    tradition: ane-hittite
+    title: Muršili III, oracle about Šapili and slander under his father (CTH 387.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 387.2"]
+    tags:
+      - {motif: son-pleads-innocence-before-angry-father, refs: ["CTH 387.2 §3:23-26"], note: "ŠAPAL A-BI-YA EME 'slander under my father'; mān=aš=kan A-NA A-BI-YA [kap]pilānun 'if I had incited them against my father'"}
+      - {motif: king-defies-unfavourable-oracle, refs: ["CTH 387.2 §1:3-13"], note: "loose fit: ariyanun; TUKU.TUKU-az UL kišari 'does not happen from anger'; DINGIR.MEŠ ŠA mšapili; [appa]nna SIxSÁ-at"}
+  - id: ane-cth-387-3-mursili-iii-fragment
+    tradition: ane-hittite
+    title: Muršili III, the deposition of Šapili and the people's empty talk (CTH 387.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 387.3"]
+    tags:
+      - {motif: son-pleads-innocence-before-angry-father, refs: ["CTH 387.3 §1:2", "CTH 387.3 §6:33-38"], note: "kuit=aš UL ammel memiaš 'that it is not my word'; UN.MEŠ-anza … šannapilit … EME 'the people spoke slander with empty [mouth]'; A-BI-YA … lē TUKU.TUKU-ešzi 'may my father not be angry'"}
+      - {motif: king-deposed-and-renamed-by-overlord, refs: ["CTH 387.3 §2:3-4"], note: "mšapilinna … INA [KUR URU amurri] [LUGAL-i]znanni arḫa titta[nunun] 'I removed Šapili from kingship in [Amurru]' (Amurru restored)"}
+      - {motif: chariot-left-behind-against-order, refs: ["CTH 387.3 §4:16-19"]}
+  - id: ane-cth-387-4-mursili-iii-fragment
+    tradition: ane-hittite
+    title: Muršili III, 'my father does not look after me' (CTH 387.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 387.4"]
+    tags:
+      - {motif: son-pleads-innocence-before-angry-father, refs: ["CTH 387.4 §1:3-8"], note: "A-B[U-YA] … kattan aušzi '[does not] look after me'; TUKU.TUKU 'anger'; fDINGIR.MEŠ.IR (Maššanauzzi) named"}
+  - id: ane-cth-387-5-mursili-iii-tanuhepa
+    tradition: ane-hittite
+    title: Muršili III to the deity of Arušna, Tanuḫepa and the gods' silver (CTH 387.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 387.5"]
+    tags:
+      - {motif: negative-confession-before-divine-judges, refs: ["CTH 387.5 §1:3-6"], note: "loose fit: [U]L kuedanikki ḫarpi- 'I made no one defect'; UZUŠU.SI-an idālauwa- … UL kuedanikki ēppun 'I pointed the evil finger at no one'"}
+      - {motif: son-pleads-innocence-before-angry-father, refs: ["CTH 387.5 §2:7-12"], note: "fdanuḫepaš=wa DUMU.MEŠ-ŠÚ=ya ḫarkandu, ammuk=ma=wa tepaueššallu 'let Tanuḫepa and her sons perish, but let me become small' (a wish he denies having); ke-edani=ya wašduli UL kuitki … šakti 'in this offence you know nothing (against me)'"}
+      - {motif: ancestor-took-gods-silver-into-his-house, refs: ["CTH 387.5 §3:13-19"], note: "INA URU d10-ašša 'in Tarḫuntašša' silver and gold were mixed for all the gods; A-BU-YA=ma=za UL kuitki … INA É-ŠU pedaš 'my father … brought it into his house'; then he gave it to the gods"}
+    hints:
+      - "Compare Josh 7:1, 21 (Achan takes the devoted silver into his tent) and Q 3:161 (no prophet would defraud; whoever defrauds will bring it on the Day)."

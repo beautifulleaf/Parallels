@@ -29,6 +29,19 @@ new_motifs:
   offerings-plundered-on-the-road: {label: "Offerings sent to a god's distant city are plundered on the road by the enemy", cluster: cult}
   enemy-towns-and-commanders-listed: {label: "A list of enemy towns, each 'the whole city' with its named commanders, is recited before the gods", cluster: treaty}
   king-seeks-gods-grievance-by-oracle: {label: "The king promises to find out by oracle and seeress whatever the gods lack or are angry about and make it good", cluster: divination}
+  absent-deity-summoned-from-sky-sea-mountains: {label: "The absent deity is called back to her temple, whether she is in heaven, in the sea or roaming the mountains, with cedar, oil, bread and libations", cluster: cult}
+  no-god-compares-to-deity: {label: "No other god is weighty and great compared to the deity; her name is weightiest among names and her divinity among the gods", cluster: divine-titles}
+  plague-kills-gods-servants-offerings-cease: {label: "The plague has killed the gods' ploughmen, millers and herdsmen, so no one sows the god's fields or prepares their bread, libations and sacrifices any more", cluster: theodicy}
+  plague-cause-sought-from-ecstatic-diviners-or-dream: {label: "Let an ecstatic come and name the offence, or old women, diviners or augurs name it, or let a man see it in a dream", cluster: divination}
+  plague-diverted-to-enemy-lands: {label: "The gods are asked to send the plague, enmity, famine and fever on the rested, quarrelsome enemy lands instead and relieve the exhausted land", cluster: theodicy}
+  land-hangs-from-needle-point: {label: "The land is said to dangle from the tip of a needle", cluster: lament}
+  vassal-lands-reject-deity-and-tribute: {label: "Former vassal lands cast off the patron goddess, refuse their tribute and make war on the land", cluster: kingship}
+  king-asks-life-health-progeny-and-fertility: {label: "The king asks the deity for life, health, vigour, long years, sons, daughters, grandchildren, obedience, and the growth of grain, vines, cattle, sheep, horses and men", cluster: kingship}
+  deity-invoked-seven-days: {label: "The deity is invoked for seven days in each of her cities", cluster: cult}
+  assembly-answers-let-it-be: {label: "The assembled people answer the king's prayer with 'Let it be so!'", cluster: cult}
+  enemies-break-oath-of-gods-and-rob-temples: {label: "The hostile neighbours do not honour the gods, transgress the oath sworn by the gods and seek to rob the temples", cluster: treaty}
+  god-must-not-lower-own-name: {label: "The deity is told not to let her own name be humbled by the land's defeat", cluster: prayer}
+  prayer-as-legal-plea: {label: "The prayer is presented as a legal plea of defence (Hittite arkuwar) laid before the gods", cluster: prayer}
 units:
   - id: ane-cth-372-1-sun-hymn-epithets
     tradition: ane-hittite
@@ -270,3 +283,74 @@ units:
       - {motif: hatti-only-pure-land-for-gods, refs: ["CTH 375.11 §1:1-§2:4", "CTH 375.13 §1:1-§4:6"], note: "CTH 375.13: nirgendwo … ta-me-e-da-ni KUR-e 'in no other land' are offerings given as in Hatti"}
       - {motif: enemy-swears-then-breaks-oath, refs: ["CTH 375.12 §7:9"], note: "DINGIR.MEŠ linkiškir 'they swore by the gods'; context lost"}
       - {motif: temple-personnel-enslaved-by-enemy, refs: ["CTH 375.15 §1:1"], note: "fragment: 'your, the gods', servants and maids'"}
+  - id: ane-cth-376-1-hymn-arinna-plague
+    tradition: ane-hittite
+    title: Muršili II's hymn and prayer to the Sun goddess of Arinna in plague and war (CTH 376.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 376.1 §1:1-§17:170"]
+    tags:
+      - {motif: absent-deity-summoned-from-sky-sea-mountains, refs: ["CTH 376.1 §1:4-14"], note: "mān=za aruni 'if you are in the sea'; GIŠ.ERIN-anza Ì 'cedar, oil'; kalankanza eš 'be soothed'"}
+      - {motif: hatti-only-pure-land-for-gods, refs: ["CTH 376.1 §2:16-§3:30"], note: "festivals and offerings given pure only in Hatti; 'in no other land'"}
+      - {motif: no-god-compares-to-deity, refs: ["CTH 376.1 §4:31-36"], note: "damaiš DINGIR-LUM nakkiš šalliššа UL ešzi 'no other god is weighty and great'"}
+      - {motif: sun-god-judge-of-gods, refs: ["CTH 376.1 §4:37", "CTH 376.1 §4:48-49"]}
+      - {motif: sun-god-father-and-mother-of-oppressed, refs: ["CTH 376.1 §4:47"], note: "KUR-eaš ḫumandaš attaš annaš 'father and mother of all lands'"}
+      - {motif: sun-god-opens-gate-of-heaven, refs: ["CTH 376.1 §4:53-54"]}
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 376.1 §6:66-80"], note: "ḫinkan tarnatten 'you let in the plague'; ploughmen, millstone women, herdsmen died; NINDA.GUR4.RA … karšandari 'the offerings will cease'"}
+      - {motif: plague-cause-sought-from-ecstatic-diviners-or-dream, refs: ["CTH 376.1 §6:85-89"], note: "DINGIR.MEŠ-niyanza uēddu … MUNUS.MEŠ ŠU.GI LÚ.MEŠ AZU LÚ.MEŠ MUŠEN.DÙ … zašḫiyaz … aušdu"}
+      - {motif: land-hangs-from-needle-point, refs: ["CTH 376.1 §6:90"], note: "URUDU.ZI.KIN.BAR-aš GIŠ.šarpaz kunkuen"}
+      - {motif: enemies-break-oath-of-gods-and-rob-temples, refs: ["CTH 376.1 §6:94-101"], note: "Mittanni and Arzawa: NI-EŠ DINGIR.MEŠ šarreškanzi"}
+      - {motif: plague-diverted-to-enemy-lands, refs: ["CTH 376.1 §6:102-106", "CTH 376.1 §9:127", "CTH 376.1 §11:130-134"], note: "tariyandan lātten waršiyandan=ma turiyatten 'release the exhausted, harness the rested'"}
+      - {motif: vassal-lands-reject-deity-and-tribute, refs: ["CTH 376.1 §7:107-112"], note: "Kaška 'swineherds and weavers', Arawanna, Kalašma, Lukka, Petašša"}
+      - {motif: king-sacks-aleppo-and-babylon, refs: ["CTH 376.1 §7:113-116"], note: "Hatti raged like a lion (UR.MAḪ māan) at the goddess's command; spoils and gods laid before her"}
+      - {motif: god-must-not-lower-own-name, refs: ["CTH 376.1 §8:118-119"], note: "DINGIR-LUM tuel ŠUM-KA lē tepšanuši"}
+      - {motif: argument-from-gods-reputation, refs: ["CTH 376.1 §8:119"]}
+      - {motif: collective-vs-individual-guilt, refs: ["CTH 376.1 §9:120-125"], note: "lē aššaweš idalawaš anda ḫarkanzi 'let not the good perish with the bad'; one city, house or man: destroy only that one"}
+      - {motif: king-asks-life-health-progeny-and-fertility, refs: ["CTH 376.1 §12:138-143"]}
+      - {motif: enemies-placed-under-kings-feet, refs: ["CTH 376.1 §12:145"]}
+      - {motif: assembly-answers-let-it-be, refs: ["CTH 376.1 §12:155"], note: "pankuš apāt ēšdu ḫalzai 'the assembly calls: so be it'"}
+      - {motif: deity-invoked-seven-days, refs: ["CTH 376.1 §13:156-160"], note: "Hattusa 7 days, Arinna 7 days; a separate invocation tablet"}
+    hints:
+      - "Compare Gen 18:23-32 ('will you sweep away the righteous with the wicked?'), Num 16:22 and Q 6:164, Q 17:15 (no bearer bears another's burden), Q 8:25 (a trial that strikes not only the wrongdoers)."
+      - "Compare Num 14:13-16 and Exod 32:12 (what will the Egyptians say) for the god's own name being humbled; Q 7:155 (Moses: will you destroy us for what the fools among us did?)."
+      - "The assembly's 'so be it' compares with Deut 27:15-26 and Neh 8:6 (Amen) and the Muslim āmīn after al-Fātiḥa."
+      - "Compare 2 Sam 24:1-25 (plague on the whole land) and Ps 79:6 ('pour out your wrath on the nations that do not know you')."
+      - "Compare Q 112:4 (none is comparable to him) and Q 42:11 with 'no other god is weighty and great'."
+  - id: ane-cth-376-2-duplicate-and-ritual
+    tradition: ane-hittite
+    title: Duplicate of the plague hymn with the rite of the plea in Arinna (CTH 376.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Duplicate of CTH 376.1 with ritual colophon"
+    read: ["CTH 376.2"]
+    tags:
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 376.2 §2:4-§4:14"]}
+      - {motif: enemies-break-oath-of-gods-and-rob-temples, refs: ["CTH 376.2 §7:18-22"], note: "in Kalašma they overturned offering tables and plundered temples (GIŠ.ZAG.GAR.RA partly restored)"}
+      - {motif: vassal-lands-reject-deity-and-tribute, refs: ["CTH 376.2 §8:25-§9:26"]}
+      - {motif: collective-vs-individual-guilt, refs: ["CTH 376.2 §10:30-31"], note: "fragmentary 'with the bad they shall not perish … one house or one …'"}
+      - {motif: plague-diverted-to-enemy-lands, refs: ["CTH 376.2 §11:33-34"]}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 376.2 §13:37-43"], note: "LUGAL-uš … I-NA URU.PÚ-na arkuwar iyat 'the king made a plea in Arinna'; bread and red blood (A-DAM-MA) given to the assembly"}
+  - id: ane-cth-376-3-fragment
+    tradition: ane-hittite
+    title: Fragment of the plague hymn (CTH 376.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 376.3"]
+    tags:
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 376.3 §2:3-4"], note: "only 'what you did … the whole (land) died' survives"}
+  - id: ane-cth-376-4-hymn-gassuliyawiya
+    tradition: ane-hittite
+    title: Hymn to the Sun goddess of Arinna with a plea for queen Gaššuliyawiya (CTH 376.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 376.4"]
+    tags:
+      - {motif: hatti-only-pure-land-for-gods, refs: ["CTH 376.4 §2:6-14"]}
+      - {motif: no-god-compares-to-deity, refs: ["CTH 376.4 §2:5"], note: "nakkiš DINGIR-LIM-iš 'weighty deity'"}
+      - {motif: personal-gods-plead-healer-intercedes, refs: ["CTH 376.4 §4:27-38"], note: "the queen's deity is asked to look upon Gaššuliyawiya and keep her alive; fragmentary"}
+    hints:
+      - "Compare 2 Kgs 20:1-6 and Isa 38 (prayer for the sick royal person)."

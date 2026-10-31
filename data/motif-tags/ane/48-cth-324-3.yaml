@@ -62,6 +62,11 @@ new_motifs:
   hawthorn-plucks-fleece-analogy: {label: "Analogy of the hawthorn, white in spring and blood-red in summer, which plucks the forelock of the ox and the fleece of the sheep passing under it: so may it pull out the deity's anger", cluster: vanishing-god}
   pure-water-poured-cloud-rises-into-body: {label: "Pure water from the queen of the spring is poured on the hearth stones; a cloud (of steam) rises, enters the deity's body and drives the anger out", cluster: vanishing-god}
   soapwort-and-pebbles-from-untouched-place: {label: "The goddess Hapantali brings soapwort, wood from the mountain and pebbles from an untouched place and throws them into the hearth", cluster: vanishing-god}
+  terrible-one-become-gracious: {label: "Invocation formula: 'we invoke you with thick bread and libation: as the terrible one become gracious, as the angry one speak, as the choked one be set right again'", cluster: vanishing-god}
+  table-set-right-and-left-nine-dishes: {label: "The ritualist sets the god's laden tables right and left, cheese at his feet, nine dishes and an engraved beaker of beer, and bids him eat and drink the finest", cluster: vanishing-god}
+  hot-pebbles-quenched-analogy: {label: "Analogy: as the hot pebbles are quenched with water, so may the deity's anger, wrath, sin and sullenness be quenched", cluster: vanishing-god}
+  cart-held-back-analogy: {label: "Analogy: as this cart is held back, so may our words hold back the deity's anger", cluster: vanishing-god}
+  storm-god-comes-raging-held-back: {label: "The Storm god comes raging and the 'man of the Storm god' holds him back", cluster: vanishing-god}
 units:
   - id: ane-cth-324-3-1-bee-finds-telipinu
     tradition: ane-hittite
@@ -707,3 +712,59 @@ units:
       - {motif: evil-taken-from-gods-body, refs: ["CTH 334.2.1 §6:23-§7:25"]}
     hints:
       - "Water poured on hot stones and a cloud that rises: compare the cloud and the water that 'came up from the earth and watered the ground' (Gen 2:6) and God who 'sends the winds that raise clouds' (Q 30:48)."
+  - id: ane-cth-334-2-2-invocation-and-fleece
+    tradition: ane-hittite
+    title: Hannahanna invoked with bread and libation; laden tables and nine dishes; the eya-tree and the lamb's message (CTH 334.2.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth, version 2 (CTH 334.2.2)"
+    read: ["CTH 334.2.2"]
+    tags:
+      - {motif: evil-taken-from-gods-body, refs: ["CTH 334.2.2 §1:1-7"], note: "MUNUS-za 'the woman'; kar-tim-[mi-]; i-d[a-la-u-w]a IGI.ḪI.A 'the evil eyes'; a-ra-a-iš 'rose'; A-NA EN SÍSKUR ... ne-ya-an-te-eš e-eš-tén 'be turned toward the ritual patron'"}
+      - {motif: terrible-one-become-gracious, refs: ["CTH 334.2.2 §2:9-12"], note: "ka-a-ša-at-ta IŠ-TU NINDA.GUR4.RA iš-pa-an-du-uz-zi-it-ta [mu-ki-i]š-ga-u-e-ni 'we invoke you now with thick bread and libation'; nu ḫa-tu-ga-aš mi-i-e-eš 'as the terrible one, become gracious'; [ša-a-a]n-za-ma me-mi 'as the angry one, speak'; ú-i-šu-ri-ya-an-za-ma EGIR-pa [ḫa-an-d]a-aḫ-ḫu-ut 'as the choked one, be set right again'"}
+      - {motif: god-asked-to-turn-to-king-in-good, refs: ["CTH 334.2.2 §2:13-14"], note: "ták-šu-li-an-du [kán-ga]-t[i-a]n-du 'let them be friendly to you and soothe you'; LUGAL MUNUS.LUGAL DUMU.MEŠ LUGAL an-da aš-šu-li na-iš-ḫu-ut"}
+      - {motif: path-sprinkled-with-fine-oil, refs: ["CTH 334.2.2 §3:15-18"], note: "{GIŠ}ḫa-aš-ša-al-li-ta ... iš-pár-ḫu-ut 'spread your stool'; {TÚG}ku-re-eš-ni-it 'with a cloth'; Ì.NUN LÀL ZÌ.D[A] 'ghee, honey, flour'; nu-uš-ša-an i-y[a-aḫ-ḫu-ut] 'walk upon it': a path of ghee and honey"}
+      - {motif: table-set-right-and-left-nine-dishes, refs: ["CTH 334.2.2 §4:19-29"], note: "GÌR.ḪI.A-aš-ta kat-ta-an ŠA GA.KIN.AG ... te-eḫ-ḫu-un 'at your feet I put (a ...) of cheese'; {GIŠ}BANŠUR.ḪI.A-KA ú-nu-wa-an-du-uš ZAG-az ... GÙB-la-az 'your decked tables right and left'; 9-an e-e[t-ri] 'nine dishes'; {DUG}KA.GAG [gul-š]a-an-da-an 'an engraved beaker'; ta-wa-li-it ... GEŠTIN-it la-a-ḫu-un 'I poured with tawal, beer, wine'; e-ku-ma ša-né-ez-zi 'drink the finest'"}
+      - {motif: terrible-one-become-gracious, refs: ["CTH 334.2.2 §4:28-29"]}
+      - {motif: returned-god-cares-for-king, refs: ["CTH 334.2.2 §5:30-§7:41"], note: "pít-tu-[li-ya-] 'constriction'; ~13 lines lost; [DINGI]R.MAḪ-aš-za '[Hanna]hanna (cared for the king)', restored"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 334.2.2 §7:42-49"], note: "[{d}ḫ]a-an-na-ḫa-an-ni-ma ... {G]IŠ?e?-[ya-] 'before Hannahanni the eya-tree'; ḫa-an-z[a-aš-ša] 'progeny'; [m]i-i-ya-[ta] 'thriving'; {GIŠ}GEŠTIN.ḪI.A-aš 'wine'; tar-ḫu-u-i-l[i-] 'valour'"}
+      - {motif: lamb-fleece-holds-mild-message, refs: ["CTH 334.2.2 §8:50-55"], note: "ki-it-t[a] 'lies'; ḫa-lu-ga-aš 'message' (of the lamb, restored)"}
+    hints:
+      - "Tables set right and left and a beaker for the god: compare the table of showbread before YHWH (Ex 25:30) and the table sent down from heaven to Jesus' disciples (Q 5:112-115)."
+      - "'Terrible one, become gracious': compare the paired divine attributes of severity and mercy (Q 15:49-50; 40:3 'severe in punishment, possessor of bounty') and Ex 34:6-7."
+  - id: ane-cth-334-3-storm-god-raging
+    tradition: ane-hittite
+    title: Hannahanna's soul burned; the raging Storm god held back; the land choked; an old woman's rite (CTH 334.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.3)"
+    read: ["CTH 334.3"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.3 §1:1-§3:7"], note: "[w]a-ar-šu-[la-aš] 'vapour'; [Z]I-ŠU ka-[ra-az-ši-iš-ša] ... [w]a-ra-a-ni 'his soul and his innards burn'; ka[r-pí-iš]"}
+      - {motif: storm-god-comes-raging-held-back, refs: ["CTH 334.3 §4:8-10"], note: "{d}IM-aš le-la-ni-[ya-an-za] 'the Storm god, furious'; the holding back by the man of the Storm god restored; DINGIR.MAḪ-aš-ša-an kar-p[í-iš] 'Hannahanna's anger'"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 334.3 §5:11-16"], note: "DINGIR.MAḪ-aš kar-di-mi-y[a-wa-an-za] 'Hannahanna is angry'; ú-i-šu-ri-ya-at-ta-t[i]; GUNNI-ma-aš-ša<-an> {GIŠ}k[al-mi-še-ni-eš]; A-NA É.GU4"}
+      - {motif: ewe-rejects-lamb-cow-rejects-calf, refs: ["CTH 334.3 §5:17-§6:18"], note: "GU4-uš-za AM[AR-un] 'the cow (did not care for) its calf'"}
+      - {motif: midwife-as-ritualist, refs: ["CTH 334.3 §7:19-§9:32"], note: "here 1 {MUNUS}ŠU.G[I] 'an old woman' performs the rite; 9 [ ... ]; ḫu-it-t[i-] 'pull'; {GIŠ}la-ḫur-[nu-uz-zi] 'foliage'; {GIŠ}ZAG.GAR.[RA] 'altar'; PA-NI DINGIR-LIM; [I]Š-TU Ì 'with oil'"}
+  - id: ane-cth-334-4-invocation-and-analogies
+    tradition: ane-hittite
+    title: Hannahanna invoked; galaktar, parhuena, fig, liti, raisin and olive; 'let go the anger'; pebbles quenched, the cart held back, firewood burned (CTH 334.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hannahanna myth (CTH 334.4)"
+    read: ["CTH 334.4"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 334.4 §1:1-5"], note: "[KA]Š.GEŠTIN ta-u-wa-a[l]; [NINDA.Ì.E].DÉ.A; DUB.SAR 'the scribe'"}
+      - {motif: terrible-one-become-gracious, refs: ["CTH 334.4 §2:6-11"], note: "[iš-pa-a]n-du-zi-<it->ta mu-k[i]-iš-ga-u-e-ni 'we invoke you with libation'; nu ḫa-tu-g[a-a]š 'as the terrible one'; [EG]IR-pa ḫa-an-da-aḫ-ḫu-ut; ták-šu-le-ed-du tág-ga-aš-du {GIŠ}ERIN-aš 'let him be friendly, let him join (the) cedar'; aš-šu-li na-iš-ḫu-ut"}
+      - {motif: god-asked-to-turn-to-king-in-good, refs: ["CTH 334.4 §3:12-14"], note: "A-NA LUGAL MUNUS.LUGAL A-NA [DUMU].MEŠ LUGAL ... na-iš-ḫu-ut"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.4 §3:15-18"], note: "ka-a-ša [ga-l]a-ak-tar ki-it-ta ... ka-la-an-k[án-za e-eš-t]u 'here lies galaktar: let Hannahanna's soul and innards be soothed'; pár-ḫ[u-e-na]-aš ... [tal-l]i-ya-a[d]-du"}
+      - {motif: fruit-holds-seed-wine-oil-analogy, refs: ["CTH 334.4 §4:19-31"], note: "[ka-a-š]a {GIŠ}PÈŠ ki-it-ta 'here lies a fig': as it is sweet (mi-li-id-du), so let her innards become sweet; li-i-ti 'liti-plant', [li-la]-a-re-eš-ke-ed-du 'be soothed'; [GEŠ]TIN ḪÁD.DU.A {GIŠ}SE20-ER-DUM 'raisin and olive': as (it) holds wine within, as the olive its oil, so hold the king, queen and princes in your heart and soul in good (aš-š[u-li]); {GIŠ}ša-ḫi-iš KASKAL-KA 'šaḫi (shall be) your road'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.4 §5:32-§7:41"], note: "pa-aḫ-ḫur ... [wa-a]š-túl QA-TAM-MA ki-iš-ta-a-ru 'so let the fire quench the sin'; [TU]KU.TUKU-an tar-na 'let the wrath go!', [wa-a]š-túl tar-na 'let the sin go!'; {GIŠ}ŠEN-a[š] ... [a]r-ši-ya-zi: the water-pipe that does not flow back"}
+      - {motif: hot-pebbles-quenched-analogy, refs: ["CTH 334.4 §8:42-45"], note: "[a]-a-an-du-uš {NA4}pa-aš-š[i]-lu-uš [ki-iš-ta]-nu-zi 'he quenches the hot pebbles'; ku-u-uš-kán [{NA4}pa-aš]-ši-lu-uš ki-iš-ta-nu-nu-un ... [QA-TAM-M]A ki-iš-ta-ru '(as) I have quenched these pebbles, so let (anger) be quenched'"}
+      - {motif: cart-held-back-analogy, refs: ["CTH 334.4 §8:46-49"], note: "NA4 pár-na ... da-an-zi 'they take a stone to the house'; [ka]-a-aš {GIŠ}MAR.GÍD.DA-aš ... a-ra-ez-zi 'this cart ... is stopped'; [an-z]e-el ud-da-na-an-te-eš ... a-ra-an-du 'let our words stop (the anger)'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 334.4 §9:50-§10:57"], note: "[l]u-uk-kán-du-uš ú-da-an-zi 'they bring burning (logs)'; [TUKU.TU]KU-an-za 'angered'; [{GIŠ}wa-a]r-ša-ma-aš ma-aḫ-ḫa-an ... [wa-ra-a-n]i; DINGIR.MAḪ-aš-ša ... ša-a-u-wa-ar ... [w]a-ra-a-nu"}
+    hints:
+      - "Fig and olive, raisin and wine held within: compare Q 95:1 ('by the fig and the olive') and Q 80:27-31 (grain, grapes, olives, palms among God's provisions)."
+      - "Words that hold back divine anger: compare Moses' intercession that turns back God's wrath (Ex 32:11-14; Ps 106:23) and Abraham's pleading for the people of Lot (Q 11:74-76)."

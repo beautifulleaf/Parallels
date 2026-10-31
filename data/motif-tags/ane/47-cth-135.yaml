@@ -40,6 +40,47 @@ new_motifs:
   protect-king-queen-and-descendants: {label: "Subjects must protect the king, the queen, the king's sons, grandsons and descendants", cluster: treaty}
   report-truthfully-neither-exaggerate-nor-minimise: {label: "Reports must be truthful: do not magnify a small matter nor make light of a weighty one", cluster: treaty}
   soldiers-must-not-violate-women-or-plunder: {label: "On campaign no one may violate a man's wife or daughter or steal people, cattle, horses or metals", cluster: war}
+  temple-offerings-diverted-to-households: {label: "Temple staff take the gods' offerings home and let their wives, children and servants eat them, or give them to a friend or stranger", cluster: cult}
+  god-destroys-offender-with-household: {label: "The angered god seeks out the offender together with his wife, children, descendants, slaves, cattle, sheep and crops and destroys him utterly", cluster: theodicy}
+  human-master-servant-analogy-for-gods: {label: "The mind of gods and men is said to be no different: the god is to his temple servants as a master to his slave", cluster: theodicy}
+  servant-serves-master-washed-and-clean: {label: "The servant stands before his master washed and in clean clothes and gives him food and drink, so the master is at ease", cluster: cult}
+  angered-master-mutilates-servant: {label: "A master angered by his servant kills him or mutilates his nose, eyes and ears, or punishes his wife, children and kin", cluster: law}
+  offender-punished-with-whole-family: {label: "An offender does not die alone: his whole family dies with him (no one is left)", cluster: law}
+  be-very-fearful-of-the-gods: {label: "Refrain: be very fearful of the word / mind of the gods", cluster: cult}
+  catalogue-of-temple-festivals: {label: "A list of the regular festivals (monthly, yearly, spring, autumn, of the stag, of the rhyton, of the priests, of the old men, of the mother-goddess priestesses ...)", cluster: cult}
+  offering-split-in-half-death-penalty: {label: "Whoever divides the god's offering in half (keeping part) shall die; there is no turning back for him", cluster: cult}
+  curse-on-thief-of-gods-bread: {label: "Before the god the staff declare: whoever took from your bread and libation vessel, may the god pursue him and seize his house", cluster: cult}
+  lean-animal-substituted-for-fattened: {label: "Temple staff or herdsmen keep the fattened ox or sheep meant for the god, substitute a lean one, eat, sell or trade the fat one", cluster: cult}
+  silent-god-thought-to-do-nothing: {label: "Wrongdoers excuse themselves: because he is a god he says nothing and does nothing to us", cluster: theodicy}
+  god-slow-to-seize-never-lets-go: {label: "The god's will is strong: it does not hasten to seize, but once it seizes it never lets go", cluster: theodicy}
+  temple-silver-gold-belongs-to-god: {label: "The silver, gold, garments and bronze vessels in the temple are the god's; the temple servant may own none of it nor give it to his wife and children", cluster: cult}
+  royal-gift-to-priest-recorded: {label: "A gift from the palace to a temple servant must be recorded: the king gave it, its weight, at which festival, and witnesses", cluster: cult}
+  gift-sold-only-publicly-on-record: {label: "A temple servant may sell a royal gift only openly before the lords of Ḫatti, with the price recorded on a wooden tablet", cluster: cult}
+  embezzlement-of-temple-goods-capital: {label: "Who sells the gods' goods for himself, and the one who knows and hides it, both are put to death", cluster: cult}
+  festival-shifted-to-wrong-season-forbidden: {label: "Temple staff must not hold the spring festival in autumn or the autumn festival in spring", cluster: cult}
+  excuse-harvest-marriage-journey-delays-gods: {label: "The festival-giver excuses himself: the harvest, a marriage (bride-price) or a journey is before me; wait until it is done", cluster: cult}
+  do-gods-will-not-mans: {label: "Do not act by a man's wish against the gods' will; the gods will later seek it out against you and your family", cluster: cult}
+  do-not-buy-or-sell-death: {label: "Do not 'buy death' or 'sell death' (bring capital guilt on yourselves)", cluster: cult}
+  temple-staff-sleep-in-temple: {label: "All priests and temple servants must spend the night in the temple, not at home", cluster: cult}
+  night-patrols-guard-temple: {label: "Night patrols go round the temple all night, the watch outside and the servants inside; none may sleep, a high priest presides", cluster: cult}
+  priest-sleeping-with-wife-at-home-capital: {label: "A priest found sleeping at home with his wife instead of in the temple incurs a capital sin", cluster: cult}
+  no-excuse-of-other-duty-for-watch: {label: "No one may say 'I guard the temple, I will not go to the watch there' when the city's watch is due", cluster: cult}
+  humiliation-naked-water-carrying: {label: "A guilty temple servant not put to death is shamed: naked, without clothes, he carries water three times from the king's pond to his god's temple", cluster: law}
+  quarrel-in-temple-offender-redoes-festival: {label: "Whoever starts a quarrel in the temple and disturbs the festival must provide the whole festival again with cattle, sheep, bread and beer", cluster: cult}
+  temple-hearth-fire-guarded: {label: "The fire in the temple hearth must be carefully extinguished at night; a temple fire destroys the temple and the king's goods", cluster: cult}
+  temple-kitchen-staff-bathed-hair-nails-cut: {label: "Those who prepare the gods' food must be bathed, wear clean clothes and have hair and nails cut", cluster: purity}
+  pig-and-dog-barred-from-sacred-threshold: {label: "Pig and dog must not cross the threshold of the temple kitchen or bakery", cluster: purity}
+  polluted-food-to-god-repaid-with-dung-urine: {label: "If a pig or dog touched the vessels and the cook still serves the food, the gods will give him dung and urine to eat and drink", cluster: purity}
+  bathe-after-intercourse-before-serving-god: {label: "Whoever has slept with a woman must bathe before dawn before he comes to the gods' meal; one who comes unbathed dies", cluster: purity}
+  confess-impurity-to-superior: {label: "One who has been with a woman must tell his superior; if he dares not, he tells a colleague", cluster: purity}
+  first-fruits-before-humans-eat: {label: "First fruits (the first bread, the young animals) must be brought to the gods at once, before any human eats of them", cluster: cult}
+  gods-fine-ox-and-ten-sheep: {label: "Gods punish the negligent with a fine of one ox and ten sheep, and treat them as the gods' lords do", cluster: cult}
+  temple-field-swapped-with-own-field: {label: "The god's ploughmen claim the god's field as theirs and theirs as the god's, or sow more for themselves", cluster: cult}
+  grain-confiscated-to-gods-storehouse: {label: "Defrauders' grain is all taken and poured into the gods' storehouses", cluster: cult}
+  false-claim-sacred-ox-died: {label: "A ploughman who sold or ate the god's ox claims it died of leanness, broke its leg, ran off or was gored by a bull", cluster: cult}
+  ordeal-before-god-pure-or-impure: {label: "In a disputed case the accused goes before the god: if pure, his protective god (is with him); if impure, it is a capital sin", cluster: law}
+  ordeal-by-drinking-from-gods-rhyton: {label: "Accused staff drink from the god's rhyton of the 'soul' declaring their innocence, calling on the god to pursue them with their wives and children if they lie", cluster: law}
+  neglect-of-watch-death-penalty: {label: "A temple servant at whose watch-post an offence (waštul) happens is to die, without pardon", cluster: cult}
 units:
   - id: ane-cth-135-1-preamble-hostages-cities
     tradition: ane-hittite
@@ -251,3 +292,284 @@ units:
     hints:
       - "Truthful report, neither exaggerated nor minimised: Q 49:6, Q 24:15 ('you thought it a small matter, but with God it is great')."
       - "No violation of women or theft after battle: compare Deut 21:10-14 and Deut 20:19; the Quran on the prohibition of ghulūl (embezzling spoils), Q 3:161."
+  - id: ane-cth-264-w1-w2-fragments
+    tradition: ane-hittite
+    title: Instructions for temple personnel, small duplicates (CTH 264, Dispersa 17 and KBo 50.274)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: duplicate fragments
+    read: ["CTH 264 W1", "CTH 264 W2"]
+    tags:
+      - {motif: temple-offerings-diverted-to-households, refs: ["CTH 264 W2:2'-5'"], note: "only SAG.GÉME.ARAD.MEŠ-K[UNU] 'your servants', LÚk[aenaš] 'kinsman', LÚU[BARUM] 'stranger', A-[NA ZI-TUM DINGIR-LIM] survive; the clause is restored from KUB 13.4 i 52'-55'"}
+  - id: ane-cth-264-w3-duplicate
+    tradition: ane-hittite
+    title: Instructions for temple personnel, duplicate KBo 50.276b+ (CTH 264)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: duplicate manuscript (KBo 50.276b+)
+    read: ["CTH 264 W3"]
+    tags:
+      - {motif: god-destroys-offender-with-household, refs: ["CTH 264 W3:{€2+1}_Vs._I_6''/Vs._I_30''-{€2+3}_Vs._I_10''/2''"], note: "NUM]UN-ŠU MÁŠ-ŠU ARAD.MEŠ-[ŠU ... ḫar]n[ikzi]; variants as KUB 13.4 i 33'-38'"}
+      - {motif: catalogue-of-temple-festivals, refs: ["CTH 264 W3:{€2+3}_Vs._I_11''/3''-{€3+4}_8''/4''"]}
+      - {motif: silent-god-thought-to-do-nothing, refs: ["CTH 264 W3:{€1}_Vs._II_11'-{€1}_Vs._II_12'"], note: "DINGIR-LIM-waraš kuit nu-wa UL kuitki memai"}
+      - {motif: god-slow-to-seize-never-lets-go, refs: ["CTH 264 W3:{€1}_Vs._II_14'-{€1}_Vs._II_15'"]}
+      - {motif: temple-silver-gold-belongs-to-god, refs: ["CTH 264 W3:{€1}_Vs._II_17'-{€1}_Vs._II_23'"]}
+      - {motif: embezzlement-of-temple-goods-capital, refs: ["CTH 264 W3:{€1}_Vs._II_36'-{€1}_Vs._II_41'"], note: "here SAG.DU-aš aggatar 'death of the head' where KUB 13.4 has ÚŠ-tar"}
+      - {motif: pig-and-dog-barred-from-sacred-threshold, refs: ["CTH 264 W3:{€5+1}_Rs._III_3'/Rs._III_12'"]}
+      - {motif: polluted-food-to-god-repaid-with-dung-urine, refs: ["CTH 264 W3:{€5+1}_Rs._III_8'/Rs._III_17'!-{€5}_Rs._III_11'"]}
+      - {motif: ordeal-by-drinking-from-gods-rhyton, refs: ["CTH 264 W3:{€2}_Rs._IV_11'-{€2}_Rs._IV_16'"]}
+      - {motif: lean-animal-substituted-for-fattened, refs: ["CTH 264 W3:{€2}_Rs._IV_21'-{€2}_Rs._IV_33'"]}
+  - id: ane-cth-264-w4-w5-duplicates
+    tradition: ane-hittite
+    title: Instructions for temple personnel, duplicates KBo 50.278 and KBo 50.279+ (CTH 264)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: duplicate manuscripts
+    read: ["CTH 264 W4", "CTH 264 W5"]
+    tags:
+      - {motif: god-destroys-offender-with-household, refs: ["CTH 264 W4:1'-6'"], note: "MÁŠ-ŠU ARAD-ŠU GÉME-ŠÚ G[U4-ŠU ... ḫ]ūmandaz"}
+      - {motif: temple-silver-gold-belongs-to-god, refs: ["CTH 264 W5:{€4}_3'-{€4}_10'"]}
+      - {motif: embezzlement-of-temple-goods-capital, refs: ["CTH 264 W5:{€1+2}_1''/Vs._II_4''-{€1+2}_6''/Vs._II_9''"]}
+      - {motif: excuse-harvest-marriage-journey-delays-gods, refs: ["CTH 264 W5:{€3}_3''-{€3}_10''"], note: "nu-wa-m]u EGIR-pa ti[yattēn] 'step back for me'; the excuses themselves are lost here"}
+      - {motif: humiliation-naked-water-carrying, refs: ["CTH 264 W5:{€2}_Rs._III_3'-{€2}_Rs._III_6'"], note: "TÚG-ašš]i-kan NÍ.TE-išš[i] ... labarnaš lul[iyaza] ... lūriš ēš[du]"}
+  - id: ane-cth-264-w6-duplicate
+    tradition: ane-hittite
+    title: Instructions for temple personnel, duplicate KBo 50.283+ (CTH 264)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: duplicate manuscript (KBo 50.283+)
+    read: ["CTH 264 W6"]
+    tags:
+      - {motif: god-destroys-offender-with-household, refs: ["CTH 264 W6:{€3}_3'-{€3}_7'"]}
+      - {motif: catalogue-of-temple-festivals, refs: ["CTH 264 W6:{€3}_8'-{€3}_11'"]}
+      - {motif: curse-on-thief-of-gods-bread, refs: ["CTH 264 W6:{€1}_Vs._II_2-{€1}_Vs._II_6"], note: "kuiš-wa-kan tuel DINGIR-LIM-az NINDAḫaršiyaz [DUGišpantuzzi]yaz dāš nu-wa-ran DINGIR-LIM EN-ya [EGIR-an kiyaḫḫu]t"}
+      - {motif: lean-animal-substituted-for-fattened, refs: ["CTH 264 W6:{€1}_Vs._II_17-{€1}_Vs._II_26"]}
+      - {motif: silent-god-thought-to-do-nothing, refs: ["CTH 264 W6:{€1}_Vs._II_27-{€1}_Vs._II_28"]}
+      - {motif: god-slow-to-seize-never-lets-go, refs: ["CTH 264 W6:{€1}_Vs._II_30-{€1}_Vs._II_32"]}
+      - {motif: royal-gift-to-priest-recorded, refs: ["CTH 264 W6:{€1}_Vs._II_41-{€1}_Vs._II_46"]}
+      - {motif: humiliation-naked-water-carrying, refs: ["CTH 264 W6:{€1}_Rs._III_3'-{€1}_Rs._III_5'"]}
+      - {motif: temple-hearth-fire-guarded, refs: ["CTH 264 W6:{€1}_Rs._III_16'-{€4+1}_Rs._III_5'/Rs._III_25'"]}
+      - {motif: bathe-after-intercourse-before-serving-god, refs: ["CTH 264 W6:{€1}_Rs._III_39'-{€1}_Rs._III_43'"]}
+  - id: ane-cth-264-w7-w14-fragments
+    tradition: ane-hittite
+    title: Instructions for temple personnel, small duplicates (CTH 264, KBo 52.261 to KBo 69.82)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: duplicate fragments
+    read: ["CTH 264 W7", "CTH 264 W8", "CTH 264 W9", "CTH 264 W10", "CTH 264 W11", "CTH 264 W12", "CTH 264 W13", "CTH 264 W14"]
+    tags:
+      - {motif: lean-animal-substituted-for-fattened, refs: ["CTH 264 W7:2'-7'"], note: "mark]an ḫarten[i] ... GU4 naššu arḫ[a ...] ašaun]i anda tarnatt[eni]"}
+      - {motif: bathe-after-intercourse-before-serving-god, refs: ["CTH 264 W10:1'-6'"], note: "MUNU]S-i k[uiš ... šak]lain a[ššanuzi ... ITTI M[UNUS-TI ... kui]tman d[UTU-uš]"}
+      - {motif: night-patrols-guard-temple, refs: ["CTH 264 W11:r._Kol._4'-7'"], note: "nu GE6-a[n ...], nu arā[ḫza ...], andu[rza-ma ...], wē[ḫeškandu]"}
+  - id: ane-cth-264-a-bakers-purity
+    tradition: ane-hittite
+    title: Instructions for temple personnel, daily bread and the bakers' purity (CTH 264, KUB 13.4 i 1'-20')
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W14:Vs._II_5'", "CTH 264 W15:Vs._I_1'-Vs._I_20'"]
+    tags:
+      - {motif: temple-kitchen-staff-bathed-hair-nails-cut, refs: ["CTH 264 W15:Vs._I_14'-Vs._I_16'"], note: "NINDA.GUR4.RA.ḪI.A UD-MI kuiēš eššanzi nat parkuwaiš ašandu, warpantiš-at ... išḫiniuš-maš-kan UMBIN-ia dān ēšdu, parkuwaya TÚG.ḪI.A waššan ḫarkandu"}
+      - {motif: pig-and-dog-barred-from-sacred-threshold, refs: ["CTH 264 W15:Vs._I_18'-Vs._I_20'"], note: "the bakery is swept and sprinkled; paršuraš pedi ŠAḪ-aš UR.GI7-aš KÁ-aš lē tiyazi"}
+    hints:
+      - "Pig and dog kept from the holy place: compare Isa 66:3, 17 and Q 2:173, 5:3 (swine forbidden). Washed priests in clean garments: Exod 30:17-21, 40:31-32; the Quran's command to purify garments, Q 74:4."
+  - id: ane-cth-264-b-minds-of-gods-and-men
+    tradition: ane-hittite
+    title: "Instructions for temple personnel: are gods and men of different mind? (CTH 264, KUB 13.4 i 21'-38')"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Vs._I_21'-Vs._I_38'"]
+    tags:
+      - {motif: human-master-servant-analogy-for-gods, refs: ["CTH 264 W15:Vs._I_21'-Vs._I_22'"], note: "UN-aš DINGIR.MEŠ-ašša ZI-anza tamaiš kuiški UL; kī-pat kuit UL? 'Is the mind of man and of the gods in any way different? No!'"}
+      - {motif: servant-serves-master-washed-and-clean, refs: ["CTH 264 W15:Vs._I_22'-Vs._I_27'"], note: "ARAD-ŠU ... warpanza nu parkuwaya waššan ḫarzi; the master's mind is relaxed (ZI-an arḫa lānza)"}
+      - {motif: angered-master-mutilates-servant, refs: ["CTH 264 W15:Vs._I_28'-Vs._I_32'"], note: "KIR14-ŠÚ IGI.ḪI.A-ŠU GEŠTU.ḪI.A-ŠU idālawaḫḫanzi: they ruin his nose, eyes, ears"}
+      - {motif: offender-punished-with-whole-family, refs: ["CTH 264 W15:Vs._I_33'"], note: "naš UL 1-aš aki MÁŠ-ŠU-maš-ši tettianpat 'he does not die alone; his family is joined with him'"}
+      - {motif: god-destroys-offender-with-household, refs: ["CTH 264 W15:Vs._I_34'-Vs._I_38'"], note: "ZI-TUM DINGIR-LIM kuiš TUKU.TUKU-nuzi ... UL-at-kan ANA DAM-ŠÚ DUMU.MEŠ-ŠU NUMUN-ŠU MÁŠ-ŠU ARAD.MEŠ-ŠU GÉME.MEŠ-ŠU GU4.ḪI.A-ŠÚ UDU.MEŠ-ŠU ḫalkitta anda šanaḫzi? ... ḫūmandaz ḫarnikzi"}
+      - {motif: be-very-fearful-of-the-gods, refs: ["CTH 264 W15:Vs._I_38'"], note: "ANA INIM DINGIR-LIM mekki marri naḫḫanteš ēštēn"}
+    hints:
+      - "The master and slave analogy: Q 30:28 (a parable from yourselves: are your slaves partners in what We provide?), Q 16:71, 16:75-76; and Mal 1:6 ('if I am a master, where is my fear?')."
+      - "Family and crops destroyed for one man's offence: Exod 20:5 and Josh 7:24-25 (Achan with sons, daughters, oxen, asses, sheep); rejected in Deut 24:16, Ezek 18:20 and Q 6:164, 35:18, 53:38."
+  - id: ane-cth-264-c-festivals-and-offerings
+    tradition: ane-hittite
+    title: Instructions for temple personnel, festivals and the god's share (CTH 264, KUB 13.4 i 39'-66')
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Vs._I_39'-Vs._I_66'"]
+    tags:
+      - {motif: catalogue-of-temple-festivals, refs: ["CTH 264 W15:Vs._I_39'-Vs._I_45'"], note: "EZEN4 ITU.KAM, EZEN4 MU-ti, ayali, zenandaš (autumn), ḫamešḫandaš (spring), tetḫešnaš (thunder), ḫiyaraš, pudaḫaš, išuwaš, šatlaššaš, BIBRI, of the priests, the old men, the mother-goddess priestesses, daḫiyaš, upatiyaš, pulaš, ḫaḫrannaš"}
+      - {motif: temple-offerings-diverted-to-households, refs: ["CTH 264 W15:Vs._I_46'-Vs._I_55'"], note: "the offerings not brought up in full; taken home 'and your wives, children and servants eat them up', or given to a kinsman (LÚkaenaš) or a stranger (LÚUBARUM)"}
+      - {motif: offering-split-in-half-death-penalty, refs: ["CTH 264 W15:Vs._I_56'-Vs._I_59'"], note: "takšan šarraš takšan šarran pešteni ... kuiš-at-kan šarrai-ma naš aku EGIR-pa waḫnumar-ši lē ēšzi"}
+      - {motif: curse-on-thief-of-gods-bread, refs: ["CTH 264 W15:Vs._I_60'-Vs._I_66'"], note: "no one may take thin bread from the god's thick bread nor pour beer and wine off from the cup; 'whoever took from your bread and libation vessel, god and lord, pursue him, let him seize his house from below to above'"}
+    hints:
+      - "Priests taking the god's portion home: the sons of Eli (1 Sam 2:12-17), Mal 1:12-14; the Quran's charge against those who 'devour people's wealth' in religion, Q 9:34."
+      - "God's portion diverted: Q 6:136 (they assign God a share of crops and cattle, but God's share reaches their partners)."
+  - id: ane-cth-264-d-silent-god-strong-will
+    tradition: ane-hittite
+    title: "Instructions for temple personnel: the god says nothing, but does not let go (CTH 264, KUB 13.4 ii 1'-24')"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Vs._II_1'-Vs._II_24'"]
+    tags:
+      - {motif: lean-animal-substituted-for-fattened, refs: ["CTH 264 W15:Vs._II_8'-Vs._II_17'"], note: "broken here; restored from the duplicate KBo 50.283+ ii 17-26: fattened ox or sheep held back, a lean one let in, the fat one eaten or sold, 'you take the price'"}
+      - {motif: silent-god-thought-to-do-nothing, refs: ["CTH 264 W15:Vs._II_18'-Vs._II_19'"], note: "DINGIR-LIM-waraš kuit nu-wa UL kuitki [memai nu-wa-nnaš] UL kuitki iyazi 'since he is a god, he says nothing and does nothing to us'"}
+      - {motif: god-slow-to-seize-never-lets-go, refs: ["CTH 264 W15:Vs._II_20'-Vs._II_24'"], note: "'look at a man who removes his soul's portion (zuwan) from (the god's) eyes, how he fares afterwards'; DINGIR.MEŠ-aš-ma Z[I-anza daššu]š nu eppuwanzi UL nuntarnuzi, epzi-ma kuedani mēḫuni nu namma arḫa UL tarnāi"}
+      - {motif: be-very-fearful-of-the-gods, refs: ["CTH 264 W15:Vs._II_24'"]}
+    hints:
+      - "Not quick to seize, but never releasing: Q 11:102 ('such is the seizing of your Lord when He seizes the towns ... painful, severe'), Q 85:12, Q 35:45 and 16:61 (were God to seize people at once ... but He defers them to a term), Q 3:178 (respite). Also Nah 1:3 ('slow to anger ... will by no means clear the guilty') and Eccl 8:11."
+      - "The silent god who 'does nothing': Zeph 1:12 ('YHWH will not do good, nor will he do evil'), Ps 50:21 ('I kept silent and you thought I was like you'); contrast the idols that do not speak, Q 7:148, 20:89."
+  - id: ane-cth-264-e-temple-valuables
+    tradition: ane-hittite
+    title: Instructions for temple personnel, the gods' silver and gold (CTH 264, KUB 13.4 ii 25'-51')
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Vs._II_25'-Vs._II_51'"]
+    tags:
+      - {motif: temple-silver-gold-belongs-to-god, refs: ["CTH 264 W15:Vs._II_25'-Vs._II_32'"], note: "'is there silver, gold ... for your fathers?' ... NU.GÁL; kuit kuit DINGIR-LIM-ni-ma-at ēšzi-pat; the temple servant may not have silver or gold, nor make jewellery (unuwašḫan) for wife and son"}
+      - {motif: royal-gift-to-priest-recorded, refs: ["CTH 264 W15:Vs._II_32'-Vs._II_38'"], note: "lamniyan ēšdu 'let it be named': 'the king gave it to him', its weight, the festival, the witnesses (kutruš)"}
+      - {motif: gift-sold-only-publicly-on-record, refs: ["CTH 264 W15:Vs._II_38'-Vs._II_44'"], note: "not inside the house; EN.MEŠ URU ḪATTI arantaru nu uškandu ... GIŠ.ḪUR iyandu; when the king comes up to Ḫattuša it is presented in the palace"}
+      - {motif: embezzlement-of-temple-goods-capital, refs: ["CTH 264 W15:Vs._II_45'-Vs._II_51'"], note: "who sells on his own account: SAG.DU-aš ÚŠ-tar; who seizes him, hides him and does not bring him to the king's gate: 2-aš-pat ... 2-uš-pat-at akkandu 'both shall die'; no turning back"}
+    hints:
+      - "The temple's metals are holy to God: Josh 6:19 (silver, gold, bronze and iron holy to YHWH), Josh 7 (Achan hides them in his tent and dies with his household). The Quran's ghulūl: Q 3:161."
+  - id: ane-cth-264-f-festivals-on-time
+    tradition: ane-hittite
+    title: "Instructions for temple personnel: festivals at their time, the gods' will not man's (CTH 264, KUB 13.4 ii 52'-72')"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Vs._II_52'-Vs._II_72'"]
+    tags:
+      - {motif: festival-shifted-to-wrong-season-forbidden, refs: ["CTH 264 W15:Vs._II_52'-Vs._II_55'"], note: "EZEN4 ḫamešḫandaš INA zēni iyatteni, EZEN4 zenandaš-ma ḫamešḫi eššatteni"}
+      - {motif: excuse-harvest-marriage-journey-delays-gods, refs: ["CTH 264 W15:Vs._II_55'-Vs._II_63'"], note: "the giver clasps the priests' knees: BURU14.MEŠ-wa-mu-kan peran naššu kušata naššu KASKAL-aš naššu tamai kuitki uttar ... EGIR-pa tiyattēn 'harvest is before me, or a bride-price (marriage), or a journey ... step back for me'"}
+      - {motif: do-gods-will-not-mans, refs: ["CTH 264 W15:Vs._II_63'-Vs._II_71'"], note: "UN-aš ZI-ni lē-pat iyatteni ... DINGIR.MEŠ-ma-kan šumaš INA EGIR.UD-MI anda šanḫeškanzi ... DAM.MEŠ-KUNU DUMU.MEŠ-KUNU ... idālawanni-pat; do the gods' will and 'you will eat bread, drink water, build a house'"}
+      - {motif: do-not-buy-or-sell-death, refs: ["CTH 264 W15:Vs._II_72'"], note: "ÚŠ-tar lē ušniyatteni, ÚŠ-tar-ma-za wašiyatteni lē"}
+    hints:
+      - "Moving the sacred season: Q 9:36-37 (the postponement, al-nasī', 'an increase in unbelief'); Q 2:189 (new moons are fixed times)."
+      - "Excuses of harvest, marriage and journey: Luke 14:18-20 (field, oxen, a wife) and Deut 20:5-7; Q 24:37 (men whom neither trade nor sale diverts from remembering God), Q 62:9-11, 63:9."
+  - id: ane-cth-264-g-night-in-temple
+    tradition: ane-hittite
+    title: Instructions for temple personnel, sleeping in the temple and the night watch (CTH 264, KUB 13.4 ii 73'-iii 20)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Vs._II_73'-Rs._III_20"]
+    tags:
+      - {motif: bathe-after-intercourse-before-serving-god, refs: ["CTH 264 W15:Vs._II_76'-Rs._III_2"], note: "mān-na MUNUS-aš uttar kuedanikki ... naš-za MUNUS-ni GAM-an šešdu ... [warap]du ... INA É DINGIR-LIM šešuwanzi ḫūdāk šarā weddu; 'bathe' is restored"}
+      - {motif: temple-staff-sleep-in-temple, refs: ["CTH 264 W15:Rs._III_3-Rs._III_6"], note: "all who cross the gods' threshold, 1-aš 1-aš INA É DINGIR-LIM šarā šešuwanzi lē-pat karaštari: 'not one shall fail to spend the night up in the temple'"}
+      - {motif: night-patrols-guard-temple, refs: ["CTH 264 W15:Rs._III_7-Rs._III_14"], note: "LÚ.MEŠ wēḫeškattalliš GE6-an ḫūmandan wēḫeškandu; outside the ḫaliyattalla watchmen, inside the temple servants; nu-šmaš Ù-aš lē ēšzi 'let there be no sleep for them'; a high priest over the patrols each night"}
+      - {motif: priest-sleeping-with-wife-at-home-capital, refs: ["CTH 264 W15:Rs._III_15-Rs._III_16"], note: "ŠÀ É-ŠU-ma-za-kan ITTI DAM-ŠU lē kuiški šešzi; kuin-ma INA É-ŠU GAM-an wemianzi nat-ši SAG.DU-aš waštul"}
+      - {motif: be-very-fearful-of-the-gods, refs: ["CTH 264 W15:Rs._III_17"], note: "É.MEŠ DINGIR.MEŠ mekki marri paḫḫaštēn 'guard the temples very carefully'; no slackness (tešḫaš 'sleep')"}
+      - {motif: neglect-of-watch-death-penalty, refs: ["CTH 264 W15:Rs._III_18-Rs._III_20"], note: "kuedani ḫāli waštul anda kīša naš aku lē-ya-aš-kan wēḫtari"}
+    hints:
+      - "Temple guard at night: Num 3:38 and 1 Chr 9:27, 33 (Levites lodge round the house of God at night), Ps 134:1. In the Quran heaven itself is guarded by watchers, Q 72:8-9."
+      - "Bathing after intercourse before approaching the holy: Lev 15:16-18, Exod 19:15, 1 Sam 21:5-6; Q 4:43 and 5:6 (junub must wash before prayer)."
+  - id: ane-cth-264-h-city-watch-humiliation
+    tradition: ane-hittite
+    title: Instructions for temple personnel, the city watch and shame punishment (CTH 264, KUB 13.4 iii 21-34)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Rs._III_21-Rs._III_34"]
+    tags:
+      - {motif: no-excuse-of-other-duty-for-watch, refs: ["CTH 264 W15:Rs._III_21-Rs._III_30"], note: "kiššan lē-pat tezzi: ammuk-wa-za É DINGIR-LIM-ya paḫḫašḫi apiya-ma-wa UL paimi; if an enemy seeks to violate (zammurawanzi) Ḫattuša, the temple servants inside must go to the watch"}
+      - {motif: humiliation-naked-water-carrying, refs: ["CTH 264 W15:Rs._III_31-Rs._III_34"], note: "lūriyaḫḫandu-man: nekumanza TÚG-aš-ši-kan NÍ.TE-ši anda lē-pat ēšzi, nu wātar 3-ŠU labarnaš luliyaza INA É DINGIR-LÌ-ŠU pēdau, nu-šši apāš lūriš ēšdu"}
+    hints:
+      - "Public shaming by nakedness: Isa 20:2-4, 2 Sam 10:4. The Quran on stripping as shame: Q 7:26-27 (Satan stripped the first pair)."
+  - id: ane-cth-264-i-quarrel-and-fire
+    tradition: ane-hittite
+    title: Instructions for temple personnel, quarrels in the temple and the fire (CTH 264, KUB 13.4 iii 35-54)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Rs._III_35-Rs._III_54"]
+    tags:
+      - {motif: quarrel-in-temple-offender-redoes-festival, refs: ["CTH 264 W15:Rs._III_35-Rs._III_43"], note: "ḫalluwain iyazi naš-ta EZEN4 zaḫzi ... apūn EZEN4 QADU GU4 UDU NINDA KAŠ šarā tiyandan iyaddu; who keeps the thin bread back (mutāezzi) incurs great sin"}
+      - {motif: temple-hearth-fire-guarded, refs: ["CTH 264 W15:Rs._III_45-Rs._III_51"], note: "IZI mekki paḫḫaštēn; at night the embers in the hearth (GUNNI) to be quenched with water; if a fire spreads, the temple and the king's goods are destroyed"}
+      - {motif: offender-punished-with-whole-family, refs: ["CTH 264 W15:Rs._III_51-Rs._III_53"], note: "waštul kuiš iyazi naš QADU NUMUN-ŠU ḫarakzi-pat; all who are in the temple, 1-ašša tinumaš UL ēšzi 'not one shall be spared'"}
+      - {motif: be-very-fearful-of-the-gods, refs: ["CTH 264 W15:Rs._III_43-Rs._III_44", "CTH 264 W15:Rs._III_54"], note: "be very fearful about quarrels; be very careful about the matter of fire"}
+    hints:
+      - "Fire on the altar never to go out (Lev 6:12-13) versus strange fire (Lev 10:1-2); Nadab and Abihu die before YHWH."
+  - id: ane-cth-264-j-kitchen-purity
+    tradition: ane-hittite
+    title: Instructions for temple personnel, the kitchen staff and impurity (CTH 264, KUB 13.4 iii 55-83)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Rs._III_55-Rs._III_83"]
+    tags:
+      - {motif: be-very-fearful-of-the-gods, refs: ["CTH 264 W15:Rs._III_55-Rs._III_57"], note: "cupbearer, table-man, cook, baker, brewer: DINGIR.MEŠ-aš ZI-ni menaḫḫanda mekki naḫḫanteš ēštēn"}
+      - {motif: pig-and-dog-barred-from-sacred-threshold, refs: ["CTH 264 W15:Rs._III_59-Rs._III_61"]}
+      - {motif: temple-kitchen-staff-bathed-hair-nails-cut, refs: ["CTH 264 W15:Rs._III_61-Rs._III_63"], note: "warpanteš ēštēn, TÚG.ḪI.A parkuwaya wēštēn, išḫēniuš UMBIN.MEŠ-ya dān ēšdu, lest the gods' mind be angered"}
+      - {motif: polluted-food-to-god-repaid-with-dung-urine, refs: ["CTH 264 W15:Rs._III_64-Rs._III_68"], note: "if pig or dog touched the wooden or clay vessels and the kitchen chief does not throw (the food) away ... apēdani-ma DINGIR.MEŠ-eš zakkar dūr adanna akuwanna pianzi"}
+      - {motif: bathe-after-intercourse-before-serving-god, refs: ["CTH 264 W15:Rs._III_68-Rs._III_73", "CTH 264 W15:Rs._III_78-Rs._III_83"], note: "who sleeps with a woman ... kuitman dUTU-uš šarā ... ḫūdāk warapdu; who comes unbathed and touches the bread and libation vessel: SAG.DU-aš ÚŠ-tar, 2-ušš-at akkandu"}
+      - {motif: confess-impurity-to-superior, refs: ["CTH 264 W15:Rs._III_74-Rs._III_77"], note: "MAḪ-RI-ŠU LÚGAL-ŠU EGIR-an tamašzi nu memau-pat; if he dares not (UL mazzazzi), LÚarišši memau"}
+    hints:
+      - "Impure food and its punishment: Mal 1:7, 12 ('the table of YHWH is polluted') and Mal 2:3 ('I will spread dung on your faces, the dung of your festivals'); Isa 36:12 (eat their own dung, drink their own urine)."
+      - "Ritual washing after intercourse: Q 4:43, 5:6; Lev 15:16-18; Lev 22:3-7 (a priest who eats holy food in impurity is cut off)."
+  - id: ane-cth-264-k-ploughmen
+    tradition: ane-hittite
+    title: Instructions for temple personnel, the gods' ploughmen (CTH 264, KUB 13.4 iv 1-33)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Rs._IV_1-Rs._IV_33"]
+    tags:
+      - {motif: first-fruits-before-humans-eat, refs: ["CTH 264 W15:Rs._IV_2-Rs._IV_7"], note: "kuit ḫuelpi ... ḫūdāk mēḫunaš mēḫuni pē ḫartēn; kuitman-at UN-aš nāwi ezzāi ... DINGIR.MEŠ menaḫḫanda lē uškanzi 'let the gods not wait for it'"}
+      - {motif: gods-fine-ox-and-ten-sheep, refs: ["CTH 264 W15:Rs._IV_8-Rs._IV_11"], note: "IŠTU GU4-ya-šmaš 10 UDU-ya zankilanzi nu DINGIR.MEŠ ZI-an waršanuanzi: fined an ox and ten sheep, so they appease the gods' mind"}
+      - {motif: temple-field-swapped-with-own-field, refs: ["CTH 264 W15:Rs._IV_12-Rs._IV_22"], note: "A.ŠÀ DINGIR-LIM šumel ḫalziyatteni, šumel-ma A.ŠÀ DINGIR-LIM ḫalziyatteni; they sow much for themselves and declare little to the priest; at the threshing they divide half and half and later split off part"}
+      - {motif: grain-confiscated-to-gods-storehouse, refs: ["CTH 264 W15:Rs._IV_22-Rs._IV_24"], note: "šumel-ma-šmaš-kan ḫalkiuš ḫūmanduš arḫa danzi naš-kan DINGIR.MEŠ-aš ÉSAG.MEŠ-aš anda išḫuwanzi"}
+      - {motif: false-claim-sacred-ox-died, refs: ["CTH 264 W15:Rs._IV_25-Rs._IV_31"], note: "maklanna-z-waraš BA.ÚŠ, naššu-wa-za duwarneškit, naššu-waraš paršta, naššu-waran GU4.NITA GUL-aḫta; if found out they must replace (šarnikteni) the ox"}
+      - {motif: ordeal-before-god-pure-or-impure, refs: ["CTH 264 W15:Rs._IV_31-Rs._IV_33"], note: "DINGIR-LIM-ni paitteni: takku parkuešteni šumel dKAL-KUNU, takku papreštēni-ma nu-šmaš-at SAG.DU-aš waštul"}
+    hints:
+      - "Diverting God's field: Q 6:136 (a share for God and a share for 'partners', and God's share diverted), Q 68:17-33 (the owners of the garden who would give the poor nothing)."
+      - "A dead or gored animal sworn before God: Exod 21:28-36, 22:9-12; Gen 31:39 (Jacob bore the loss of the torn)."
+      - "First fruits to the house of God before eating the new crop: Exod 23:19, Lev 23:14; compare Q 6:141 ('give its due on the day of its harvest')."
+  - id: ane-cth-264-l-herdsmen-ordeal-colophon
+    tradition: ane-hittite
+    title: Instructions for temple personnel, the gods' herdsmen, the ordeal and the colophon (CTH 264, KUB 13.4 iv 34-81)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: main manuscript KUB 13.4
+    read: ["CTH 264 W15:Rs._IV_34-Rs._IV_81"]
+    tags:
+      - {motif: first-fruits-before-humans-eat, refs: ["CTH 264 W15:Rs._IV_34-Rs._IV_44"], note: "at birthing time the god's due (calf, lamb, kid, afterbirth) not delayed; 'before a man eats the first (ḫuelpi), bring it to the gods'; the milk festival: do not leave the god's milk to go stale"}
+      - {motif: ordeal-by-drinking-from-gods-rhyton, refs: ["CTH 264 W15:Rs._IV_47-Rs._IV_55", "CTH 264 W15:Rs._IV_68-Rs._IV_77"], note: "'if we gave this first (portion) for our own soul ... DINGIR.MEŠ-aš-ma-wa-kan ZI-an zammurāuen' then BIBRU DINGIR-LIM ZI-aš arḫa ekutteni: if pure, your protective god; if impure, you perish with wives and children; second oath: nu-wa-nnaš zik DINGIR-LUM tuel ZI-aš zuwa šer QADU DAM.MEŠ-NI DUMU.MEŠ-NI parḫeške"}
+      - {motif: lean-animal-substituted-for-fattened, refs: ["CTH 264 W15:Rs._IV_56-Rs._IV_67"], note: "on the road the herdsman exchanges (waḫnuzi) a fattened ox or sheep, takes a price, or kills and eats it and puts a lean one in its place; 'they have taken the gods' second (best) portion (šanezzin zuwan)'"}
+      - {motif: scribal-colophon, refs: ["CTH 264 W15:Rs._IV_78-Rs._IV_81"], note: "DUB 1.KAM ŠA LÚ.MEŠ É DINGIR-LIM ḫūmandaš ŠA EN.MEŠ.TU7 DINGIR.MEŠ LÚ.MEŠ APIN.LÁ DINGIR.MEŠ Ù ŠA LÚ.MEŠ SIPA.GU4 ... išḫiulaš QATI"}
+    hints:
+      - "Drinking from the god's vessel as an ordeal: Num 5:11-31 (the water of bitterness) and the golden-calf water, Exod 32:20."
+      - "Exchanging a good animal for a bad: Lev 27:10, 33; Mal 1:8, 13-14 ('cursed is the cheat who has a male in his flock and sacrifices a blemished one'); Q 2:267 ('do not aim at the bad to give from it')."
+  - id: ane-cth-264-w16-w19-fragments
+    tradition: ane-hittite
+    title: Instructions for temple personnel, later duplicates (CTH 264, KUB 26.31+, KUB 31.94+, KUB 40.63, KUB 61.323)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: duplicate manuscripts
+    read: ["CTH 264 W16", "CTH 264 W17", "CTH 264 W18", "CTH 264 W19"]
+    tags:
+      - {motif: night-patrols-guard-temple, refs: ["CTH 264 W16:{€1}_Rs._IV_7'-{€1}_Rs._IV_15'"], note: "variant išpandazza 'by night' for GE6-az of KUB 13.4"}
+      - {motif: no-excuse-of-other-duty-for-watch, refs: ["CTH 264 W16:{€2}_Rs._IV_7'-{€2}_Rs._IV_13'"]}
+      - {motif: do-gods-will-not-mans, refs: ["CTH 264 W17:{€2}_1'-{€2}_6'"]}
+      - {motif: offering-split-in-half-death-penalty, refs: ["CTH 264 W18:Vs._I_4'-Vs._I_7'"]}
+      - {motif: temple-field-swapped-with-own-field, refs: ["CTH 264 W18:Rs._IV_6-Rs._IV_13"]}
