@@ -69,6 +69,11 @@ new_motifs:
   storm-god-comes-raging-held-back: {label: "The Storm god comes raging and the 'man of the Storm god' holds him back", cluster: vanishing-god}
   offerings-placed-at-hearth-throne-window-bedchamber: {label: "Bread is broken and laid at the hearth, the throne, the window for the fate goddesses, the bedchamber for Harištašši and before the house-goddesses", cluster: vanishing-god}
   vanished-god-found-asleep-in-vineyard: {label: "The vanished god is found lying asleep in a vineyard (or grove) under a plant, gone down toward the dark earth", cluster: vanishing-god}
+  eagle-wing-waved-over-god: {label: "The ritualist takes an eagle's wing and waves it over the deity (or patient) to sweep the evil away", cluster: vanishing-god}
+  sieve-of-thousand-holes: {label: "The healer takes a sieve with a thousand holes and pours wheat into it as part of the purging rite", cluster: vanishing-god}
+  souls-fetched-from-river-into-cloud: {label: "The mother goddess goes into the river, brings the souls up out of it and lays them in a cloud", cluster: vanishing-god}
+  restored-god-goes-up-to-heaven: {label: "The healed god rises early, becomes again as he was, goes up to heaven and takes his seat again", cluster: vanishing-god}
+  body-parts-catalogue-purified: {label: "The god's or patient's body is gone through part by part (head, shoulders, brows, eyes, tongue, teeth, lips, throat, liver, lungs, penis, knees) to remove the evil", cluster: healing}
 units:
   - id: ane-cth-324-3-1-bee-finds-telipinu
     tradition: ane-hittite
@@ -1058,3 +1063,81 @@ units:
       - {motif: mugawar-invocation-with-offerings, refs: ["CTH 335.12 §4:21-§7:31"], note: "1 GÍN GUŠKIN 'one shekel of gold'; ki-it-ta 'lies'; NINDA.ḪI.A 'breads'; DINGIR-LIM"}
     hints:
       - "The deity taking back the king as a cow her calf: compare God's compassion like a mother's (Isa 49:15, 66:13) and the divine name al-Rahim from rahim 'womb'."
+  - id: ane-cth-335-13-search-command
+    tradition: ane-hittite
+    title: "'Go, search the high mountains, the deep valleys, the places, the currents' (CTH 335.13)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.13"]
+    tags:
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 335.13 §1:1-12"], note: "[i-it-wa-ra-aš-t]a pár-ga-[mu-uš] 'go (search) the high (mountains)'; ḫal-lu-wa-u-uš 'the deep (valleys)'; [AŠ-R]I.ḪI.A ša-an-ḫa 'search the places'; [a]r-ša-ar-šu-u-ra 'currents'; a-la-li-mu- 'ditch?'; the searcher's identity is lost"}
+  - id: ane-cth-335-14-thigh-fig-raisin
+    tradition: ane-hittite
+    title: The right thigh; fig and raisin analogies for the king (CTH 335.14)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.14"]
+    tags:
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 335.14 §1:1-§3:5"], note: "ZAG-aš wa-al-la-a[š] 'the right thigh'; ták-ša-an-da 'joined'; [I]T-TI LUGAL QA-TAM-M[A] 'with the king likewise'"}
+      - {motif: fruit-holds-seed-wine-oil-analogy, refs: ["CTH 335.14 §4:6-§5:9"], note: "[NU]MUN ŠÀ-it ḫar-z[i] '(the fig) holds (a thousand) seeds within'; [ḪÁD].DU.A GIM-an G[EŠTIN-ŠU] 'as the raisin its wine'; [Š]À-it QA-TAM-MA"}
+  - id: ane-cth-335-15-anger-and-seed
+    tradition: ane-hittite
+    title: The deity's wrath; einkorn and seed (CTH 335.15)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.15"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.15 §1:1-§5:8"], note: "DINGIR-LIM kar-t[im-mi-] 'the deity's wrath'; NUMUN-an DÙ-an-z[i] 'they make seed' (the malt analogy, negated?); [DING]IR-LIM-ya kar-pí-iš 'the deity's anger too'"}
+  - id: ane-cth-335-16-hallara-feast-eagle
+    tradition: ane-hittite
+    title: Hallara and the king; smoke seizes the house; the Sun god's feast unsatisfied; the swift eagle (CTH 335.16)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.16"]
+    tags:
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 335.16 §1:1-3"], note: "[{d}ḫ]al-la-ra-aš-wa-za-kán LUGAL-i '(the god) Hallara ... to the king': the vanished deity seems to be Hallara; departure not preserved"}
+      - {motif: mist-seizes-windows-smoke-the-house, refs: ["CTH 335.16 §1:4-5"], note: "[t]úḫ-ḫu-u-i-iš IṢ-BAT 'smoke seized'"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 335.16 §1:6-12"], note: "{d}UTU-u[š-za]; e-te-er 'they ate', Ú-UL-at-za iš-[pí-er] 'they were not full'; Ú-UL; {d}ḫal-la-ra-aš É-r[i] 'Hallara ... house'"}
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 335.16 §1:13-§2:14"], note: "[ḫa-a-r]a-an.MUŠEN pít-te-y[a-li-in] 'the swift eagle'"}
+  - id: ane-cth-335-17-1-purging-the-storm-god
+    tradition: ane-hittite
+    title: The Storm god's body purged limb by limb; restored, he goes up to heaven; the eagle's wing, the sieve of a thousand holes, Kamrusepa's rams; go to Zalpa by the sea (CTH 335.17)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.17 §1:1-§12:64"]
+    tags:
+      - {motif: body-parts-catalogue-purified, refs: ["CTH 335.17 §1:1-§2:3"], note: "NÍ.TE-uš-šu-u[š] 'his limbs'; {UZU}ZAG.UDU-šu-uš 'his shoulders', i-ni-ri-iš-ši-it IGI.ḪI.A-[i]t 'his brows with the eyes', [E]ME-ŠU 'his tongue', {UZU}ZU9-šu-uš 'his teeth', pu-ri-uš-šu-uš 'his lips', {UZU}NÍG.GIG 'liver', {UZU}ḫa-aḫ-ri-iš-[š]i 'his lung', {UZU}ÚR 'penis', {UZU}ki-nu-uš-ši-it 'his knees'"}
+      - {motif: restored-god-goes-up-to-heaven, refs: ["CTH 335.17 §3:4-7"], note: "[k]a-ru-ú '(rose) early'; ma-a-an-na-aš EGIR-pa QA-TAM-MA ki-ša-ti 'when he had become thus again'; [ne]-pí-ši pa-it 'went to heaven'; nu-za a-ap-pa {d}10-aš ... e-ep-ta 'the Storm god took (his seat) again'"}
+      - {motif: eagle-wing-waved-over-god, refs: ["CTH 335.17 §4:8-15"], note: "first-person ritualist: [z]i-in-na-mi 'when I finish'; nu-za TI8.MUŠEN-aš pár-ta-a-u-wa-ar da-aḫ-ḫi 'I take the eagle's wing' [ar]-ḫa wa-ar-nu-uš-ke-mi? 'and wave/burn it away'; na-an-kán na-at-ta aš-ša-nu-e-er 'they did not provide for him'"}
+      - {motif: body-parts-catalogue-purified, refs: ["CTH 335.17 §5:16-22"], note: "[S]AG.DU-it 'with the head', {UZU}ZAG.UDU-aš-ši-it 'shoulders', {UZU}ŠÀ-it 'heart', KAxU-az-ši-kán 'from his mouth' KI.MIN"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 335.17 §6:23-27"], note: "12 la-la-aš 'twelve tongues'; {GIŠ}iš-ḫa-u-wa-ar iš-ša-na-aš 'of dough'; pád-da-na-aš 'basket'; DINGIR-LIM-ni še-er ar-ḫa wa-aḫ-nu-er 'they waved (it) over the deity'"}
+      - {motif: sieve-of-thousand-holes, refs: ["CTH 335.17 §7:28-29"], note: "1 LI-IM IGI.ḪI.A-it '(a sieve) with a thousand eyes'; kar-aš iš-ḫu-uḫ-ḫu-un 'I poured wheat in'"}
+      - {motif: god-singed-with-fire-to-purge-anger, refs: ["CTH 335.17 §7:30-31"], note: "[UD]U.NITÁ.MEŠ-ŠU tu-wa-a-an wa-ar-nu-nu-un tu-wa-an-na [wa-ar-nu-n]u-un 'I burned (Kamrusepa's) rams here and there'"}
+      - {motif: evil-taken-from-gods-body, refs: ["CTH 335.17 §8:32-39"], note: "tu-e-eg-ga-az-ši-it i-[d]a-lu-uš-ši-it da-aḫ-ḫu-un 'I took his evil from his body'; kar-pí-iš-ša-an, kar-tim-mi-ya-at-ta-an, ša-a-u-wa-ar KI.MIN; {d}10-aš LÚ.MEŠ ... mi-ya-an-te-eš ú-wa-te-te-en 'bring the thriving (things) for the Storm god's men'"}
+      - {motif: anger-barred-from-fields-garden-forest, refs: ["CTH 335.17 §9:40-§12:64"], note: "pa-iš-kid9-du-ma ... [a]r-ḫa le-e 'you shall not go away'; ni-ni-in-ki-iš-ke-et-tu-ma 'shall not move'; {GIŠ}ka4-al-mi- 'logs'; [{URU}za-a]l-pu-wa a-ru-na i-it-tén 'go to Zalpa, to the sea!'; kar-di-aš-š[a-aš] 'of his heart'; [ú-e-e]l-lu-i 'in the meadow': the evil is sent away to the sea at Zalpa"}
+    hints:
+      - "The god restored 'as before' who goes up to heaven and takes his seat: compare God who 'then established himself on the throne' (Q 7:54) and the ascension of Elijah (2 Kgs 2:11) or of Jesus (Q 4:158)."
+      - "Evil sent away to the sea: compare Mic 7:19 (sins cast into the depths of the sea)."
+  - id: ane-cth-335-17-2-souls-cloud-and-vessels
+    tradition: ane-hittite
+    title: Hallara's cloud window; the mother goddess brings the souls out of the river into the cloud; Kamrusepa, Telipinu; the oven; Sulinkatti kills a pig; the vessel with lid of lead whence nothing returns; sweet bread (CTH 335.17)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.17 §13:65-§25:132"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.17 §13:65-66"], note: "{d}ḫal-la-[ra-aš]; al-pa-aš-ša-ša lu-ut-ta-a-i 'the window of his cloud' (cf. the golden cloud window of CTH 325 §27)"}
+      - {motif: souls-fetched-from-river-into-cloud, refs: ["CTH 335.17 §14:67-72"], note: "{d}ḫa-ba-an-ta-li-ya-aš-za ú-e-el-lu 'Hapantali ... the meadow'; ZI.ḪI.A-uš da-a-aš 'she took the souls'; an-da ÍD-i 'into the river'; an-da-aš-ša-an pa-it DINGIR.MAḪ-aš 'the mother goddess went in'; ZI.ḪI.A ÍD-az ša-ra-a ú-da-aš 'brought the souls up from the river'; an-da [a]l-pí da-a-iš 'laid them in the cloud'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.17 §15:73-§17:85"], note: "{GIŠ}kar-n[i-š]a-na-aš GIŠ-ru kat-ta-an ša-i-iš 'pressed down the wood'; al-pa-aš ar-ḫa wa-aš-ši- ... ša-ra-a 'the cloud ... up'; {d}kam-ru-še-pa, {d}te-li-pí-nu, {d}ḫal-la-ra-aš-ša; a-ap-pa a-pé-e ud-[da-a-ar] 'back those words'; tu-wa-a-an ... tu-wa-a-an 'here ... there'; UDUN-ya an-[da] 'in the oven' kar-tim-mi-at-ta-an k[ar-pí]-in 'wrath and anger'"}
+      - {motif: evil-taken-from-gods-body, refs: ["CTH 335.17 §18:86-87"], note: "wa-aš-túl ša-a-u-w[a-ar] ... ḪU[L-lu-un E]ME-an i-da-lu-un pa-t[a-al-ḫa-an] ... [d]a-a-la-ú 'let him leave sin, sullenness, the evil tongue, the evil sole'; pa-ra-a [ú-e]-et 'he came out'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.17 §19:88-§22:112"], note: "UDU-aš 'of the sheep'; QA-TAM-MA ki-ša-ru 'let it become likewise'; GEŠTIN; {GIŠ}a-la-an-za; [ša-r]a-a ne-pí-š[i] pa-it 'went up to heaven'; [ne-p]í-ša-az kat-ta pár-aḫ-ta 'drove down from heaven'; [{d}šu-l]i-in-kat-ti-iš ŠAḪ-an ku-en-[t]a 'Sulinkatti killed a pig'; GI.ḪI.A 'reeds'; pa-aḫ-ḫur 'fire'; ZI-ŠÚ-kán ... [{GIŠ}ḫ]a-tal-ke-eš-na-aš 'his soul ... hawthorn'"}
+      - {motif: anger-sealed-in-netherworld-cauldrons, refs: ["CTH 335.17 §23:113-§24:124"], note: "iš-tap-pu-li-še-et 'its lid' (of lead, restored); [AN.BAR-a]š 'of iron'; ku-it an-da pa-iz-zi ... an-da-da-an ḫar-ak-zi 'what goes in ... perishes in there'; kar-pí-en wa-aš-túl; [n]a-at EGIR-pa Ú-UL ú-ez-zi 'they shall not come back'; MUN-na 'salt'; {d}10-ša kar-tim-mi-ya-az ... ú-ez-zi 'the Storm god's wrath comes'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 335.17 §25:125-132"], note: "te-eḫ-ḫi 'I set'; 1 NINDA.KU7 'one sweet bread'; [Z]I-ŠU 'his soul'"}
+    hints:
+      - "Souls drawn up out of the river and laid in a cloud: compare God taking the souls (Q 39:42) and the spirit hovering over the waters (Gen 1:2)."
+      - "A pig killed in the rite contrasts sharply with the biblical and Quranic prohibition of swine (Lev 11:7; Q 2:173, 5:3, 6:145)."

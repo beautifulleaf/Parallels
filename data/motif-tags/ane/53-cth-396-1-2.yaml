@@ -1,0 +1,252 @@
+# Full read, chunk 53: Hittite rituals CTH 396-413, read from hethiter.net / TLHdig editions.
+new_motifs:
+  offering-set-before-the-deity: {label: "The ritual practitioner sets bread, meat or drink 'before the deity' (PANI DINGIR-LIM tehhi) and the participants eat and drink", cluster: cult}
+  drinking-the-god-seated-or-standing: {label: "The participants 'drink' a deity a set number of times, standing or sitting, as a ritual act of communion", cluster: cult}
+  ritual-remains-thrown-into-river: {label: "The ritual materials that carry the evil are thrown into a river to be carried away", cluster: purification}
+  practitioner-introduces-self-um-ma: {label: "A ritual opens 'Thus (says) N., the Old Woman / augur / man of town X', naming the practitioner who speaks the rite in the first person", cluster: cult}
+  bewitched-person-released-loosed: {label: "The practitioner 'releases' or 'loosens back' (EGIR-pa la-) a bewitched person from sorcery", cluster: magic}
+  dough-figures-set-on-shoulders: {label: "Figures made of barley dough mixed with dog dung, herbs and plants are placed on the patient's right and left shoulders and the dough is pressed against him", cluster: magic}
+  dog-dung-in-healing-dough: {label: "Dog excrement is kneaded into the dough used to treat a bewitched person, and the dog's smell is then driven from him", cluster: magic}
+  fire-in-head-quenched-and-sent-to-sorcerer: {label: "The practitioner quenches the fire in the patient's head and makes it burn in the head of the sorcerer instead", cluster: magic}
+  sorcery-thrown-back-on-sorcerer: {label: "The practitioner takes the sorcery off the patient and throws or gives it back to the sorcerer or its 'owner', who is to carry it", cluster: magic}
+  analogic-spell-evil-vanish-like-substance: {label: "Analogic spell: as this substance (seed, water, soap, clay, wool, dough) is treated or acts, so may the evil, impurity or sorcery be treated", cluster: magic}
+  bird-omen-evil-quenched-in-roasted-seeds: {label: "Clay models of ominous birds are sealed in oil bowls and seeds are roasted and quenched with water, so that the evil birds and evil words 'go out' like the seeds", cluster: divination}
+  heralds-of-the-gods-expel-evil: {label: "The gods send their heralds (staff-bearers, LÚ.MEŠ GIŠ.GIDRU) from heaven to thrust the evil matter out of the palace, if need be with a copper spear", cluster: purification}
+  tallow-dog-guards-door-at-night: {label: "A puppy of tallow is set on the door bolt and told, as the royal table-dog, not to let the evil matter into the palace by night", cluster: magic}
+  red-and-white-cord-tied-and-cut: {label: "A cord or red wool is tied to the patients' hands, feet, waist and neck and to the corners, threshold and bolt of the house, and then cut off and laid in a basket", cluster: magic}
+  soap-cleans-as-it-whitens-linen: {label: "Analogic spell: as soapwort cleans dirty linen and makes it white, so may it clean the bodies of the king, queen and princes and the palace", cluster: purification}
+  river-clay-returns-evil-to-riverbank: {label: "A ball of riverbank clay that has 'overcome' the evil is to carry it back to the riverbank and the dark earth is to overcome it", cluster: purification}
+  living-puppy-waved-carries-evil-away: {label: "A living puppy is waved over the patients and through the house and told to carry the evil away, 'as a donkey, the carrier', to the place the gods appointed", cluster: purification}
+  evil-goes-where-gods-appointed: {label: "The evil is to go to the place the gods have determined for it (kuwapi DINGIR.MEŠ lamniyan harkanzi)", cluster: purification}
+  ritual-materials-waved-over-patient: {label: "Ritual materials (seeds, breads, cords, an animal) are waved (wahnu-) over the patient and through the house to absorb the evil", cluster: purification}
+  evil-given-to-horses-and-dogs-as-fodder: {label: "The evil, carried in ritual materials, is given to horses as fodder and to dogs as a morsel", cluster: magic}
+  patients-pass-through-ritual-gates: {label: "Gates of hawthorn or wood are set up with fire beside them and the patients pass through them without turning back, leaving the evil behind", cluster: purification}
+  augury-bird-signals-success-of-rite: {label: "The augur watches the flight of birds from the favourable side to know whether the rite has succeeded and asks for favourable birds", cluster: divination}
+  defilement-of-house-by-bloodshed: {label: "A ritual is prescribed when bloodshed or some impurity occurs inside a person's house; one and the same rite serves for every impurity", cluster: purification}
+  materials-list-of-ritual: {label: "A ritual begins with a long inventory of the materials needed: garments, coloured wools, vessels, metal pegs, animals, breads, honey, oil", cluster: cult}
+  coloured-hides-before-hearth-and-throne: {label: "A white ox-hide is laid before the hearth and a red one before the throne in a purification of the house", cluster: purification}
+  city-purified-of-blood-oath-and-tongue: {label: "A whole city is ritually treated for bloodshed (eshar), perjury (lingai-) and 'the tongue of the multitude' (pangawaš EME, public curse)", cluster: purification}
+  ritualist-asks-why-have-i-come: {label: "The ritualist asks the riverbank, the springs or the mountains 'Why have I come? Why did I toil?' and explains that a human being has been thrown behind the fence like an ox", cluster: purification}
+  human-thrown-behind-fence-like-ox: {label: "A human child has been thrown behind the fence of the pen like an ox (image of one caught by guilt or curse)", cluster: purification}
+  waters-and-mountains-answer-fear-not-we-help: {label: "The springs, the sea or the mountains answer the ritualist: 'Do not fear, we will stand by you'", cluster: purification}
+  frog-swallows-impurity-to-sea: {label: "A frog takes the impurity in its mouth and swallows it, takes it from the valleys to the river, and the river carries it to the sea", cluster: purification}
+  primeval-gods-receive-impurity: {label: "The ancient (primeval) gods are given the bloodshed, perjury and curse and are to take it down into the dark earth and judge the case", cluster: underworld}
+  goat-burned-bird-buried-evil-descends: {label: "A goat is burned and a bird (šurašura) buried, so that as they went down into the dark earth the disease, blood, perjury and curse go down likewise", cluster: purification}
+  eagle-and-falcon-set-free-carry-evil: {label: "An eagle and a falcon are waved and then released, the eagle to carry the evil up to heaven and the falcon to the pure mountains", cluster: purification}
+  water-poured-from-channel-perishes: {label: "Water poured into and out of a channel is said to perish and not return to its spring, so may bloodshed, oath and the tongue of the multitude perish", cluster: purification}
+  carriers-led-to-execution-gate: {label: "The ritual animals are led through the city out of the gates by which people are taken down to be killed, to the place where people died", cluster: purification}
+  cry-of-the-wronged-reaches-gods: {label: "If a mountain man or steppe dweller (a victim) cried out in pain to the gods of heaven, the gods of heaven and earth are to hand the case over to the dark earth", cluster: justice}
+  clay-tongue-made-for-slander-rite: {label: "A tongue (EME) is made of clay or wax as the object of a rite against the evil tongue or slander", cluster: magic}
+  practitioner-colours-red-white-black: {label: "The practitioner says 'I make (it) blood-red again and again, white again and again, black again and again'", cluster: magic}
+  bewitched-in-tents-burned: {label: "Seven kippa-tents are let down over a man and woman with torches at their heads and are burned; the bewitched man is called by his name", cluster: purification}
+  stones-thrown-after-departing-evil: {label: "Stones are thrown and weapons and shields brandished after those who carried out the evil, with the cry 'Go, you bewitched people!'", cluster: purification}
+  sorcerer-figurines-with-tongues: {label: "Clay figurines of the sorcerers, male and female, are made with tongues inside them, a clay basket full of tongues and a clay donkey to carry it", cluster: magic}
+  sorcerer-to-wear-sorcery-as-clothing: {label: "May the sorcery be the sorceress's headdress, her belt and her shoes: may she put them on and take back what she did", cluster: magic}
+  sun-of-the-hand-sees-sorcerers: {label: "The 'Sun god of the hand' (kiššeraš UTU) is called to see the sorcerers and to recognise whether a man or a woman did the bewitching", cluster: magic}
+  coloured-threads-take-off-colours-of-sickness: {label: "Threads of black, red, yellow-green, blue and white wool take off the patient the blackness, redness, yellowness, 'blue day' and binding of sorcery and are wound round the figurines", cluster: magic}
+  white-wool-pacifies-and-purifies: {label: "Analogic spell: as white wool appeases fierce hostility, so may it purify the sorcery and impurity and make the person pure before all", cluster: purification}
+  evil-buried-in-pit-pegged-down: {label: "The ritual remains carrying the evil are buried in a pit, covered, levelled and pinned down with pegs, and the dark earth is to hold them so that they never come up again", cluster: purification}
+  gods-of-roads-hold-evil: {label: "Bread is broken at the right and left of the road and at the crossroads for the gods of the roads, who are to take the evil and not let it come back", cluster: purification}
+  hunter-carries-away-sorcery: {label: "A hunter figure with bow, arrows and four dogs is to put on, take up and carry away the sorcery, raking and shovelling it up", cluster: magic}
+  patient-bathed-tongue-removed: {label: "The patient is bathed (in grain, then in water) in an ablution house and the practitioner says she has removed the evil tongue, defeat and sorcery", cluster: purification}
+  sacral-meal-after-purification: {label: "After the purification an animal is sacrificed to the sun god or river deities, its organs cooked and eaten by the participants", cluster: cult}
+  offerings-to-river-deities-at-night: {label: "The practitioner goes down to the river, spends the night there and breaks bread and sacrifices a sheep to the mother goddess of the riverbank and the river spirits", cluster: cult}
+  feast-with-cheese-and-fig-bread: {label: "Thick breads of flour, cheese and figs are offered and shared in the rite", cluster: cult}
+  sacrificial-meat-carried-to-deity: {label: "The trimmed meat of the victim is brought up and carried to the deity", cluster: cult}
+  practitioner-addresses-demon-here-is-yours: {label: "The practitioner addresses a deity or demon by name: 'See, (this is) for you'", cluster: magic}
+  ritual-communal-eating: {label: "The participants say 'we eat, we drink' as part of the rite", cluster: cult}
+  demons-driven-from-head: {label: "Named evil powers are removed and driven out of the patient's head", cluster: magic}
+  night-rite-repeated-eight-times: {label: "An act of the rite is done at night eight times", cluster: cult}
+  counter-spell-against-evil-speech: {label: "When an evil person has 'spoken against' (bewitched by speech) someone, the practitioner 'speaks him back' with a counter-incantation", cluster: magic}
+  tallow-donkey-sealed-in-oil-bowl: {label: "A donkey of tallow is laid in an oil bowl and the bowl is closed over it", cluster: magic}
+  old-woman-practitioner: {label: "The 'Old Woman' (MUNUS ŠU.GI), a female ritual expert, performs and speaks the rite", cluster: magic}
+  breads-placed-under-royal-bed: {label: "Breads or ritual objects are put in a basket under the patients' (king and queen's) bed overnight", cluster: magic}
+  four-corners-of-house-treated: {label: "The four corners of the house, the threshold and the door bolt are treated one by one in the purification", cluster: purification}
+  evil-seen-by-gods-in-house: {label: "The gods see an unlucky matter lurking in the house which neither the house nor the human can overcome", cluster: purification}
+  grain-keeps-alive-analogy: {label: "Analogic spell: as grain keeps mankind, cattle, sheep and every beast alive, so may it keep the patients alive apart from the evil", cluster: magic}
+  ritual-remains-dumped-in-open-country: {label: "The ritual remains that have absorbed the evil are carried out of the house and poured away in the open country", cluster: purification}
+  seven-gods-step-from-path: {label: "The Seven gods (Sebettu) are asked to step aside from the deity's road", cluster: magic}
+  clay-head-buried-in-earth: {label: "The earth is dug up and a head of clay is placed in it", cluster: magic}
+  evil-nailed-down-with-pegs: {label: "The evil (or its carrier) is to be nailed down with pegs, foot and head", cluster: magic}
+  offering-on-foliage-right-and-left: {label: "Breads and cups are laid out on foliage to the right and to the left for the deity", cluster: cult}
+  goat-cut-up-for-the-deity: {label: "A he-goat is placed on foliage and cut up, its parts set over the fire for the deity", cluster: cult}
+  gods-have-released-me: {label: "The patient declares 'Now the gods have set me free' and asks them not to let the evil loose on him again", cluster: purification}
+  ritual-washing-in-river: {label: "The patients wash in the river and the practitioner washes his hands at the end of the rite", cluster: purification}
+  prayer-to-sun-god-at-rite-end: {label: "At the end of the rite bread is offered to the Sun god on a stone and he is told that the evil has been removed", cluster: cult}
+  puppies-among-ritual-victims: {label: "Puppies are listed among the animals required for a purification", cluster: purification}
+  ritual-cry-he-he: {label: "The participants repeatedly shout a ritual cry ('ui ui', 'he he')", cluster: cult}
+units:
+  - id: ane-cth-396-1-2-wishuriyant-offerings
+    tradition: ane-hittite
+    title: Ritual naming Wišuriyant, offerings set before the deity (CTH 396.1.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 396.1.2 §1:1-§5:37"]
+    tags:
+      - {motif: offering-set-before-the-deity, refs: ["CTH 396.1.2 §1:1", "CTH 396.1.2 §2:17"], note: "PA-NI DINGIR-LIM teḫḫi 'I set before the deity'; §1:1 partly restored"}
+      - {motif: drinking-the-god-seated-or-standing, refs: ["CTH 396.1.2 §1:4-5", "CTH 396.1.2 §3:18-20"], note: "GUB-aš Wišuriyant… 1-iš ekumi 'standing, (Wišuriyant) … I drink once'; very fragmentary"}
+      - {motif: feast-with-cheese-and-fig-bread, refs: ["CTH 396.1.2 §1:6-9", "CTH 396.1.2 §3:21-22"], note: "NINDA.GUR4.RA ŠA GA.KIN.AG 'thick bread of cheese', [GIŠ]PÈŠ 'figs' restored"}
+      - {motif: sacrificial-meat-carried-to-deity, refs: ["CTH 396.1.2 §2:10-14", "CTH 396.1.2 §5:36-37"], note: "UZU pittaluwan 'the trimmed (gutted) meat' brought up and carried away; text broken"}
+    hints:
+      - "Compare Q 22:37 (neither the flesh nor the blood reaches God, only piety) as a divergence from food set 'before the deity'."
+      - "Compare Lev 7:11-15 and Deut 12:7 (sacrificial meal eaten before the LORD)."
+  - id: ane-cth-396-2-wishuriyant-river
+    tradition: ane-hittite
+    title: Ritual naming Wišuriyant, address and river disposal (CTH 396.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 396.2 §1:1-§2:9"]
+    tags:
+      - {motif: practitioner-addresses-demon-here-is-yours, refs: ["CTH 396.2 §1:1-4"], note: "Wišuriyanta kāša=tta 'Wišuriyant, see, (this is) for you'; the rest broken"}
+      - {motif: ritual-remains-thrown-into-river, refs: ["CTH 396.2 §2:8"], note: "ÍD-i anda peššiya[zi] 'he throws into the river'"}
+    hints:
+      - "Compare Mic 7:19 (sins cast into the depths of the sea)."
+  - id: ane-cth-396-3-wishuriyant-meal
+    tradition: ane-hittite
+    title: Ritual naming Wišuriyant, eating and drinking (CTH 396.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 396.3 §1:1-§4:14"]
+    tags:
+      - {motif: drinking-the-god-seated-or-standing, refs: ["CTH 396.3 §3:8"], note: "TUŠ-aš ekuwani 'sitting we drink'; the edition's German 'stehend' (standing) mistranslates TUŠ (sit)"}
+      - {motif: feast-with-cheese-and-fig-bread, refs: ["CTH 396.3 §2:7"], note: "GA.KIN.AG 3 GIŠPÈŠ 'cheese and three figs'"}
+      - {motif: offering-set-before-the-deity, refs: ["CTH 396.3 §3:10"]}
+      - {motif: ritual-communal-eating, refs: ["CTH 396.3 §1:4-5"], note: "[a]duwani 'we eat', akuwanna 'to drink'"}
+  - id: ane-cth-397-1-hepattarakki-dough-figures
+    tradition: ane-hittite
+    title: Ḫepattarakki of Zuḫaruwa releases a bewitched man with dough figures (CTH 397 §1-5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 397 §1:1-§5:30"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 397 §1:1"], note: "UM-MA fḪepattarakki MUNUSŠU.GI URUZuḫaruwa"}
+      - {motif: bewitched-person-released-loosed, refs: ["CTH 397 §1:2"], note: "alwanzaḫḫantan UN-an EGIR-pa lāmi 'when I loosen back a bewitched person'"}
+      - {motif: dog-dung-in-healing-dough, refs: ["CTH 397 §1:4-5", "CTH 397 §4:22-23"], note: "UR.GI7-aš šalpan … imiyami 'I mix dog dung'; then dog smell driven off and dog dung, flesh and bones burned"}
+      - {motif: dough-figures-set-on-shoulders, refs: ["CTH 397 §3:10-16"], note: "2 šenuš 'two figures' on right and left shoulder; the herb dough pressed (tamašmi) on the man"}
+      - {motif: purification-materials-catalogue, refs: ["CTH 397 §2:6"], note: "goat's beard, gypsum, named plants, euwa-grain, brushwood, blossom of any tree and shrub"}
+      - {motif: fire-in-head-quenched-and-sent-to-sorcerer, refs: ["CTH 397 §4:20-21"], note: "paḫḫur kištanunun … alwanzeni UN-ši SAG.DU-i warnunun"}
+      - {motif: sorcery-thrown-back-on-sorcerer, refs: ["CTH 397 §5:24-27"], note: "šarā alwanzeni UN-ši peššiškimi 'I throw it up onto the sorcerer'"}
+      - {motif: curse-turned-back, refs: ["CTH 397 §5:27"]}
+      - {motif: demons-driven-from-head, refs: ["CTH 397 §4:18-19"], note: "Agalmati removed, Annamiluli driven from the head (deities or evil powers, Hattic names)"}
+    hints:
+      - "Compare Q 35:43 (evil plotting encompasses only its own authors) and Q 113:4 (those who blow on knots) for sorcery sent back on the sorcerer."
+      - "Compare Q 20:69 (the sorcerer does not prosper wherever he comes) and Ps 7:16 (his mischief returns on his own head)."
+  - id: ane-cth-397-2-hepattarakki-fragments-colophon
+    tradition: ane-hittite
+    title: Ḫepattarakki ritual, fragments and colophon (CTH 397 §6-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 397 §6:31-§13:80"]
+    tags:
+      - {motif: ritual-remains-thrown-into-river, refs: ["CTH 397 §6:34-36"], note: "fragmentary: šumeš ÍD-aš … pēdaḫḫi 'you … of the river … I carry'"}
+      - {motif: night-rite-repeated-eight-times, refs: ["CTH 397 §8:49"], note: "GE6-ti 8-Š[U] 'at night eight times'; context broken"}
+      - {motif: scribal-colophon, refs: ["CTH 397 §13:73-80"], note: "DUB.1.KAM QATI; two rituals: loosening a bewitched person, and counter-speaking one whom an evil person has 'spoken against' (uddanalli-); performed in Hattic"}
+      - {motif: counter-spell-against-evil-speech, refs: ["CTH 397 §13:78-79"], note: "ḪUL-luš UN-aš … uddanallizi … EGIR-pa uddanalliyami 'I speak (him) back'"}
+      - {motif: dough-figures-set-on-shoulders, refs: ["CTH 397 §9:60-61"], note: "2 šenu[n] … karaš: the figures recur on the broken reverse"}
+    hints:
+      - "Compare Q 113:1-5 and 114:1-6 (refuge from sorcery, envy and the whisperer) and Q 2:102 (sorcery taught in Babylon)."
+  - id: ane-cth-398-1-huwarlu-clay-birds
+    tradition: ane-hittite
+    title: The augur Ḫuwarlu against terrible birds, clay birds and roasted seeds (CTH 398 §1-3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 398 §1:1-§3:22"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 398 §1:1"], note: "UM-MA mḪuwarlu LÚMUŠEN.DÙ 'the augur'"}
+      - {motif: bird-omen-evil-quenched-in-roasted-seeds, refs: ["CTH 398 §1:2-8", "CTH 398 §2:12-14", "CTH 398 §3:20-22"], note: "ḫatugaēš wattaēš 'terrible birds'; the seeds roasted (šanḫunzi) and fire quenched with water: 'as these seeds go out (kištari), so may the evil words and terrible birds go out'"}
+      - {motif: tallow-donkey-sealed-in-oil-bowl, refs: ["CTH 398 §2:9-11"], note: "ANŠE-an appuzziyaš 'a donkey of tallow' laid in an oil bowl and covered"}
+      - {motif: heralds-of-the-gods-expel-evil, refs: ["CTH 398 §3:15-20"], note: "kāša=wa=nnaš piēr DINGIR.MEŠ nepišaz LÚ.MEŠ GIŠGIDRU 'the gods have sent us the heralds from heaven'; kallar INIM-tar parā šuwatten 'thrust out the unlucky matter'"}
+      - {motif: analogic-spell-evil-vanish-like-substance, refs: ["CTH 398 §3:21-22"]}
+      - {motif: old-woman-practitioner, refs: ["CTH 398 §3:15"], note: "LÚMUŠEN.DÙ MUNUSŠU.GI-ya 'the augur and the Old Woman' speak together"}
+    hints:
+      - "Compare Q 17:13 (every man's 'bird', his omen, fastened to his neck) and Q 27:47 / 36:18-19 / 7:131 ('your augury is with God') against augury from birds."
+      - "Compare Isa 44:25 (God frustrates the omens of diviners) and Deut 18:10."
+  - id: ane-cth-398-2-huwarlu-puppy-cords-soap
+    tradition: ane-hittite
+    title: Ḫuwarlu ritual, tallow puppy, binding cords, soap and riverbank clay (CTH 398 §4-9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 398 §4:23-§9:65"]
+    tags:
+      - {motif: breads-placed-under-royal-bed, refs: ["CTH 398 §4:23-25"], note: "12 ḫuri-breads and 12 dough balls in a basket put under the king's and queen's beds at night"}
+      - {motif: tallow-dog-guards-door-at-night, refs: ["CTH 398 §5:26-31"], note: "zik=wa=z ŠA LUGAL MUNUS.LUGAL GIŠBANŠUR-aš UR.TUR 'you are the table-puppy of the king and queen'"}
+      - {motif: guardian-dogs, refs: ["CTH 398 §5:30-31", "CTH 398 §7:41"], note: "a living puppy also sleeps in the palace"}
+      - {motif: red-and-white-cord-tied-and-cut, refs: ["CTH 398 §6:32-36", "CTH 398 §7:37-39", "CTH 398 §8:42-44"], note: "ašara- band tied twice and cut twice; red wool (mitin) tied once and cut next morning; at the 4 corners (4 ḫalḫaltumari), threshold and bolt"}
+      - {motif: four-corners-of-house-treated, refs: ["CTH 398 §6:34", "CTH 398 §8:50"]}
+      - {motif: soap-cleans-as-it-whitens-linen, refs: ["CTH 398 §8:45-54"], note: "ḫāš GAD.ḪI.A iškunanta parkunuzzi … ḫarkešzi 'as the soap cleans soiled linen and it becomes white'"}
+      - {motif: river-clay-returns-evil-to-riverbank, refs: ["CTH 398 §9:57-65"], note: "wappuwaš IM-aš tarḫḫan ḫarzi … EGIR-pa wappui pēdau … dankuiš KI-aš tarḫdu 'may the dark earth overcome it'"}
+      - {motif: analogic-spell-evil-vanish-like-substance, refs: ["CTH 398 §8:52-54", "CTH 398 §9:61-65"]}
+      - {motif: evil-seen-by-gods-in-house, refs: ["CTH 398 §9:61-62"], note: "kuit=wa kuit DINGIR.MEŠ … kallar uttar EGIR-an uškanzi 'whatever unlucky matter the gods see behind in the house', which neither house nor man can overcome"}
+    hints:
+      - "Compare Q 74:4-5 (purify your garments, shun defilement) and Q 8:11 (water sent to purify you and remove the taint of Satan)."
+      - "Compare Lev 14:49-53 (purification of a house) and Ps 51:9, Isa 1:18, Mal 3:2 (fuller's soap)."
+  - id: ane-cth-398-3-huwarlu-puppy-carrier
+    tradition: ane-hittite
+    title: Ḫuwarlu ritual, dough of life, waving and the living puppy as carrier (CTH 398 §10-16)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 398 §10:66-§16:126"]
+    tags:
+      - {motif: grain-keeps-alive-analogy, refs: ["CTH 398 §11:69-71"], note: "ḫalkiš … NAM.LÚ.U19.LU GU4 UDU ḫuitarra ḫūman ḫuišnuškizzi 'as grain keeps mankind, ox, sheep and every beast alive'"}
+      - {motif: ritual-materials-waved-over-patient, refs: ["CTH 398 §13:74-77", "CTH 398 §14:90-92"], note: "šer arḫa 3-ŠU waḫnuwanzi 'they wave it three times over'"}
+      - {motif: heralds-of-the-gods-expel-evil, refs: ["CTH 398 §13:78-83", "CTH 398 §15:107"], note: "the herald of the storm god take a copper spear (GIŠturin kuwannanaš) and thrust out the evil"}
+      - {motif: living-puppy-waved-carries-evil-away, refs: ["CTH 398 §14:90-101"], note: "UR.TUR … ANŠE-aš karpiyattallaš 'as donkey the carrier'; idālu uttar parā pēdāu 'may it carry the evil away'"}
+      - {motif: scapegoat-carries-off-evil-from-house, refs: ["CTH 398 §14:91-98"], note: "Hittite: the living puppy, not a goat, is waved through the house and taken out"}
+      - {motif: evil-goes-where-gods-appointed, refs: ["CTH 398 §14:99-100", "CTH 398 §15:109-110"], note: "kuwapi DINGIR.MEŠ lamniyan ḫarkanzi … apiya arnuddu"}
+      - {motif: tallow-dog-guards-door-at-night, refs: ["CTH 398 §15:106-108"], note: "the tallow puppy is told not to let the expelled evil back into the palace"}
+      - {motif: augury-bird-signals-success-of-rite, refs: ["CTH 398 §16:115-118"], note: "tarwiyalliš … EGIR-an šarā aššuaz uizzi 'when (the bird) flies up behind from the favourable side'"}
+      - {motif: evil-given-to-horses-and-dogs-as-fodder, refs: ["CTH 398 §16:123-125"], note: "ANŠE.KUR.RA.ḪI.A immiul … UR.GI7.ḪI.A wag[eššar]"}
+      - {motif: ritual-remains-dumped-in-open-country, refs: ["CTH 398 §14:87-89", "CTH 398 §16:118-121"], note: "taken to the (cattle) yard, then out into open country (gimri) and poured away"}
+      - {motif: seven-gods-step-from-path, refs: ["CTH 398 §16:126"], note: "restored: [dIMIN.IMIN.BI] … KASKAL-ši arḫa artaru"}
+    hints:
+      - "Compare Lev 16:10, 21-22 (the living goat bears iniquities to a solitary land) and Lev 14:7, 53 (living bird released over the open field)."
+      - "The animal that carries evil away diverges from Q 6:164, 17:15, 35:18 and 53:38 (no bearer of burdens bears another's burden)."
+      - "Compare Zech 5:5-11 (wickedness carried off in a basket to a place prepared for it)."
+  - id: ane-cth-398-4-huwarlu-gates-goat-sun
+    tradition: ane-hittite
+    title: Ḫuwarlu ritual, buried head, goat on foliage, gates, washing and prayer to the Sun (CTH 398 §17-27)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 398 §17:127-§27:215"]
+    tags:
+      - {motif: clay-head-buried-in-earth, refs: ["CTH 398 §17:127-128"], note: "tekan paddanzi 'they dig the earth' … ŠA IM SAG.DU-an 'a head of clay'"}
+      - {motif: evil-nailed-down-with-pegs, refs: ["CTH 398 §18:137-139"], note: "fragmentary: 'you shall be nailed down' … IŠTU [GIŠGAG] 'with pegs' foot and head; restored"}
+      - {motif: offering-on-foliage-right-and-left, refs: ["CTH 398 §19:140-146"], note: "seven breads on foliage right and left, mostly restored from a duplicate"}
+      - {motif: goat-cut-up-for-the-deity, refs: ["CTH 398 §20:147-151"], note: "MÁŠ.GAL … arḫa [kuranzi] restored"}
+      - {motif: living-puppy-waved-carries-evil-away, refs: ["CTH 398 §21:153-154"], note: "the puppy waved over king and queen and then cut up (restored [arḫa kuranzi])"}
+      - {motif: patients-pass-through-ritual-gates, refs: ["CTH 398 §23:166-172", "CTH 398 §25:179-184"], note: "3 KÁ.GAL-TIM, one of hawthorn (GIŠḫattalkiššana-), fire kindled (restored); EGIR-pa=ma=z=kan UL uwanzi 'they do not come back'; the Old Woman runs last"}
+      - {motif: tallow-dog-guards-door-at-night, refs: ["CTH 398 §24:174-177"]}
+      - {motif: gods-have-released-me, refs: ["CTH 398 §26:193-194"], note: "kāša DINGIR.MEŠ … arawaḫḫir 'the gods have set me free'"}
+      - {motif: ritual-washing-in-river, refs: ["CTH 398 §27:195-199"], note: "LUGAL MUNUS.LUGAL ÍD-a[n] … arranzi; ŠU.ḪI.A-uš ārri 'he washes his hands'"}
+      - {motif: augury-bird-signals-success-of-rite, refs: ["CTH 398 §27:201-202", "CTH 398 §27:213-215"], note: "MUŠEN.ḪI.A SIG5 … uewakmi 'the favourable birds I ask for, give them to me there'"}
+      - {motif: prayer-to-sun-god-at-rite-end, refs: ["CTH 398 §27:203-212"], note: "bread for the Sun, apricot and foliage on a stone: kallar awan arḫa tittanunun 'I have removed the unlucky (matter)'"}
+    hints:
+      - "Compare Q 17:13 and Q 27:47 (one's 'bird'/omen is with God) as against asking for favourable birds."
+      - "Compare Q 41:37 (do not prostrate to the sun) for rites addressed to the Sun."
+      - "Compare Gen 15:9-17 and Jer 34:18-19 (passing between) and Deut 21:6 (washing hands over the heifer)."
+  - id: ane-cth-399-jarri-house-impurity
+    tradition: ane-hittite
+    title: Jarri of Lallupiya against bloodshed and impurity in a house (CTH 399)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 399 §1:1-§5:20"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 399 §1:1"], note: "UM-MA mJarri LÚ URULallupiya"}
+      - {motif: defilement-of-house-by-bloodshed, refs: ["CTH 399 §1:2-5"], note: "INA ŠÀ É-ŠU ešḫar kišan naššma paprātar … 1-EN-pát aniur 'bloodshed or impurity in his house … it is one and the same ritual'"}
+      - {motif: materials-list-of-ritual, refs: ["CTH 399 §2:7", "CTH 399 §3:8", "CTH 399 §4:9"], note: "red and white garments, coloured wool sashes, 9 bronze pegs, 3 rams, 2 goats, 2 puppies, honey, salt, ten drinking straws"}
+      - {motif: puppies-among-ritual-victims, refs: ["CTH 399 §3:8"], note: "2 UR.TUR 'two puppies'"}
+      - {motif: coloured-hides-before-hearth-and-throne, refs: ["CTH 399 §5:13"], note: "PANI GUNNI [1 KUŠ.GU4 BABBAR] (restored) … PANI GIŠŠÚ.A 1 KUŠ.GU4 SA5"}
+      - {motif: ritual-cry-he-he, refs: ["CTH 399 §5:19"], note: "ui ui ḫalziššanzi"}
+    hints:
+      - "Compare Q 5:32 and Q 2:72-73 (a killing disputed, revealed through the slaughtered cow) and Num 35:33-34 (blood pollutes the land)."
+      - "Compare Lev 14:33-53 (purifying a house with two birds, cedar, scarlet and hyssop)."

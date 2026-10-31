@@ -78,6 +78,32 @@ new_motifs:
   silver-sun-discs-in-ritual: {label: "Silver sun discs are used in a ritual against enemies", cluster: ritual}
   gods-reproach-oath-breakers: {label: "Speakers address those who keep breaking the oaths and announce they will go against the enemy troops", cluster: treaty}
   rite-performed-in-enemy-field: {label: "Ritual actions are performed in the enemy's cultivated field", cluster: ritual}
+  substitutes-released-on-second-day: {label: "Substitutes for the royal couple are prepared on the first day and released on the second", cluster: ritual}
+  animals-burnt-at-untouched-place: {label: "Piglet, sheep, donkey and puppy are burnt on wooden hearths at an untouched place, and the remnant buried there", cluster: ritual}
+  royal-couple-washes-in-tent: {label: "After the treatment king and queen wash themselves in a tent", cluster: purity}
+  passage-through-hawthorn-gates: {label: "King and queen pass through two gates made of hawthorn, with cloth stretched beneath, breads and burning logs on either side", cluster: ritual}
+  offerings-thrown-into-pit-of-sun-goddess-of-earth: {label: "A sheep and a goat and the substitute's implements are thrown down into the pit-storehouse of the Sun goddess of the earth and the male gods", cluster: underworld}
+  netherworld-queen-compensated: {label: "The netherworld queen (Ereškigal, Sun goddess of the earth) is told: 'Be compensated!'", cluster: underworld}
+  ritual-expert-keeps-materials: {label: "The ritual expert (Old Woman) takes the coloured cloths and the table for herself", cluster: ritual}
+  omen-from-ritual-fire: {label: "The ritual expert reads the burning-down of the fire on the hearths as a favourable or unfavourable sign", cluster: divination}
+  hearth-nailed-round-with-bronze-nails: {label: "The hearth where the fire burns is fastened all round with nine bronze nails", cluster: ritual}
+  arrows-turned-point-down-against-enemy: {label: "Arrows are drawn and let down point first into a jar: as they fall, may the gods throw the foreigner who plots evil against the king on his face", cluster: ritual}
+  bronze-fox-in-ritual: {label: "A fox of bronze is placed in front of something in a ritual", cluster: ritual}
+  names-taken-by-ritual-expert: {label: "The ritual expert takes the names (written or spoken) in the rite", cluster: ritual}
+  physician-ritual-for-plague-year: {label: "A named physician's ritual for a bad year when people keep dying in the land", cluster: ritual}
+  offerings-hung-on-pegs-in-gate: {label: "Offerings (kelu-) of lion-skin cap, stones and bear part, breads and wine are hung on pegs of medlar and cornel driven into the gate", cluster: ritual}
+  healing-herb-buried-at-gate: {label: "A named healing herb is buried on both sides in front of the gate", cluster: ritual}
+  weapons-laid-on-table-for-plague-gods: {label: "Bronze axes, a dagger, a strung bow and an arrow are laid on a table for the plague gods", cluster: ritual}
+  armed-plague-demons-in-blood-red-garments: {label: "The plague god Šanta comes with the Innarawanteš demons who wear blood-red clothes and mountain-dwellers' cloaks, girt with daggers, bows strung and arrows in hand", cluster: demons}
+  oath-with-demons-by-shared-raw-liver-and-one-straw: {label: "The householder swears an oath with the plague god and his demons by biting the same raw liver and drinking from one straw", cluster: treaty}
+  demons-told-not-to-enter-my-door: {label: "The plague god and demons are told: 'You shall no longer step into my door'", cluster: demons}
+  goat-blood-smeared-on-straw: {label: "A goat is dedicated with wine, slaughtered, and its blood smeared on the drinking straw", cluster: ritual}
+  gods-as-witnesses-of-oath: {label: "The gods are called on: 'Be witnesses of this oath!'", cluster: treaty}
+  boy-in-goatskin-howls-like-wolf: {label: "Eight boys who have not yet gone to a woman are brought; one dressed in a goatskin goes ahead howling like a wolf", cluster: ritual}
+  luwian-incantation-in-gate: {label: "The householder steps into the gate with a staff and incants in Luwian to King Šanta and the blood-clad gods", cluster: ritual}
+  demons-told-eat-cattle-not-humans: {label: "The plague demons are told: eat sheep and cattle, but do not eat a human being", cluster: demons}
+  father-gods-and-ea-fed-in-houses: {label: "The great Sun god, the father-gods and Ea are invited to feed in the houses", cluster: ritual}
+  door-anointed-evil-out-good-in: {label: "The door is shut and anointed with fine oil: 'May it lock the evil out and keep the good inside'", cluster: ritual}
 units:
   - id: ane-cth-414-1-1-plaster-long-years
     tradition: ane-hittite
@@ -363,3 +389,88 @@ units:
       - {motif: libation-poured-three-times, refs: ["CTH 417.3 §4:15-17", "CTH 417.3 §5:18-23"], note: "loose: a bronze vessel filled with wine; bread broken for the deity; libation into bronze - no count preserved"}
     hints:
       - "Oath-breakers and the field of the enemy: compare Q 16:91-92 (do not break oaths after confirming them, like the woman who unravels her yarn) and Q 2:27."
+
+  - id: ane-cth-418-1-substitutes-burnt-washing
+    tradition: ane-hittite
+    title: Ritual when a foreigner offends against the royal couple I - substitutes, burnt animals, washing, hawthorn gates, pit offerings (CTH 418 §1-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 418 §1:1-§13:53"]
+    tags:
+      - {motif: substitutes-released-on-second-day, refs: ["CTH 418 §2:7-8"], note: "translation: 'on the first day the substitutes ... on the second they release exactly those'; the word is restored/lost in the original"}
+      - {motif: animals-burnt-at-untouched-place, refs: ["CTH 418 §3:9-11", "CTH 418 §4:15-16"], note: "ar-ḫa-ia-an-ma dam-me-li pé[-d]i ... GUNNI{MEŠ} ... [ŠAḪ.TUR?] UDU ANŠE UR.TUR a-pí-ia wa-ar-nu-wa-an-zi; the remnant (ku-up-tar) buried at the untouched place"}
+      - {motif: royal-couple-washes-in-tent, refs: ["CTH 418 §4:12-14", "CTH 418 §5:17"], note: "{GIŠ}ZA.LAM.GAR-aš [w]a-ar-pu-u!-wa-an-zi pa-a-an-zi"}
+      - {motif: passage-through-hawthorn-gates, refs: ["CTH 418 §5:18-§7:28"], note: "2 TA-PAL KÁ.GAL!-TIM ... {GIŠ}ḫa-a]t-tal-ke-eš-na-aš i-ia-an-ta; a cloth stretched under each, black and white breads, 9 logs each side; clay substitute figures (restored in translation)"}
+      - {motif: offerings-thrown-into-pit-of-sun-goddess-of-earth, refs: ["CTH 418 §10:42-43", "CTH 418 §12:48-50"], note: "ÉSAG-ni GAM-an pé-eš-ši-ia-a[n-zi]; the sheep for the Sun goddess of the earth and the goat for the male gods are largely restored; ḫi-im-ma-aš ... Ú-NU-TE{MEŠ} 'the implements of the substitute'"}
+      - {motif: netherworld-queen-compensated, refs: ["CTH 418 §11:44-45"], note: "[šar-ni-in-kán-za-wa-za e-eš] [{D}]EREŠ.KI.GAL - the verb is restored; only the name survives in this line"}
+      - {motif: ritual-expert-keeps-materials, refs: ["CTH 418 §11:46-47"], note: "blue, red, green cloths and the reed table: ḫu-u-ma-a[n {MUNUS}ŠU.GI da-a-i] (restored)"}
+    hints:
+      - "Burning animals and burying the remnant at an untouched place: compare Lev 4:12, 16:27 (the sin-offering burnt outside the camp in a clean place) and Lev 14:40-45; the red heifer (Num 19:2-9)."
+      - "An offering to the netherworld goddess to compensate her for the life released: contrast the Quranic denial that any soul can be ransomed (Q 2:48, 2:123, 3:91)."
+
+  - id: ane-cth-418-14-hearths-arrows-foreigner
+    tradition: ane-hittite
+    title: Ritual when a foreigner offends against the royal couple II - hearths nailed, arrows turned down, the foreigner thrown on his face (CTH 418 §9'-29)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 418 §9':36-§29:92"]
+    tags:
+      - {motif: animals-burnt-at-untouched-place, refs: ["CTH 418 §15:57-58", "CTH 418 §18:64"], note: "[GUNN]I? GAM-an ŠAḪ.TUR UR.TUR-ia wa-ra-an-da-ri"}
+      - {motif: omen-from-ritual-fire, refs: ["CTH 418 §16:62", "CTH 418 §19:65-69", "CTH 418 §26'':79", "CTH 418 §26:80-83"], note: "ša-ki-ia-zi-ma-za-kán kiš-an 'she reveals (as an omen) as follows'; nu SIG₅-in 'favourable' ... nu ḪUL!-lu 'unfavourable'"}
+      - {motif: hearth-nailed-round-with-bronze-nails, refs: ["CTH 418 §20:70-§21:72"], note: "[a-ra-aḫ-]za-an-da IŠ-TU 9 {GIŠ}!GAG.ZABAR ... iš-ga-ra-a-i"}
+      - {motif: arrows-turned-point-down-against-enemy, refs: ["CTH 418 §27:84-87", "CTH 418 §28:88-90"], note: "GI{ḪI.A} ša-ra-a ḫu!-it-ti-ia-an-z[i] ... kat-ta wa-aḫ-nu-wa-an-du-uš tar-na-an-zi; ku-iš-wa A-NA LUGAL [MUNUS.]LUGAL a-ra-aḫ-zé-na-aš UN-aš i-da-a-l[u š]a-an ḫar-zi ... IGI{ḪI.A}-wa [kat-t]a ḫu-u-wa-ap-pa-an-du"}
+      - {motif: simile-curse-just-as-so-may, refs: ["CTH 418 §28:90"], note: "QA-TAM-MA: as the arrows point down, so may the gods throw the foreigner on his face"}
+      - {motif: bronze-fox-in-ritual, refs: ["CTH 418 §23:74"], note: "KA₅.A ZAB[AR?] - 'fox of bronze', the metal partly restored"}
+      - {motif: names-taken-by-ritual-expert, refs: ["CTH 418 §22:73"], note: "ŠUM{ḪI.A} da-a-i 'she takes the names' (?)"}
+      - {motif: scribal-colophon, refs: ["CTH 418 §29:91"], note: "[DUB] 2?.KAM QA-TI"}
+    hints:
+      - "The foreigner who plots against the king thrown on his face: compare Q 67:22 ('is one who walks prone on his face better guided?'), Q 17:97 and 25:34 (the wicked gathered on their faces); HB Ps 35:4-8."
+      - "Arrows turned downward as a curse: contrast 2 Kgs 13:15-19 (Elisha's arrow of victory and the striking of arrows on the ground)."
+
+  - id: ane-cth-757-1-zarpiya-oath-with-demons
+    tradition: ane-hittite
+    title: Ritual of Zarpiya of Kizzuwatna I - in a plague year, an oath sworn with Šanta and the armed Innarawanteš (CTH 757 §1-15)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 757 §1:1-§15:95"]
+    tags:
+      - {motif: physician-ritual-for-plague-year, refs: ["CTH 757 §1:1-5"], note: "[UM-MA {m}Za-ar-p]í-ia {LÚ}A.ZU {URU}Ki-iz-zu-wa-a[t-na] ... MU{KAM}-z]a ḫar-ra-a-an-za KUR-e-kán an-da ak-ki-iš-ki-it-ta-[ri]"}
+      - {motif: offerings-hung-on-pegs-in-gate, refs: ["CTH 757 §2:6-12", "CTH 757 §3:13-17", "CTH 757 §4:18-21"], note: "ke-e-lu-un ga-an-ga-aḫ-ḫi: lion-skin cap, basalt footstool, lapis, bear part; pegs of medlar and cornel driven into the gate with breads and wine"}
+      - {motif: healing-herb-buried-at-gate, refs: ["CTH 757 §5:22-24"], note: "wa-aš-ši ḫu-wa-al-la-ri ŠUM ḫa-ri-ia-az-[zi]; white thorn-bush set up beneath the pegs"}
+      - {motif: weapons-laid-on-table-for-plague-gods, refs: ["CTH 757 §5:25-28", "CTH 757 §7:34", "CTH 757 §8:47"], note: "a-te-eš-ša-na-aš ZABAR ... GÍR ZABAR {GIŠ}BAN ḫu-it-ti-ia-an 1 {GI}GAG.Ú.TAG.GA"}
+      - {motif: armed-plague-demons-in-blood-red-garments, refs: ["CTH 757 §7:36-39", "CTH 757 §8:40-44"], note: "{D}In-na-ra-u-wa-an-ta-aš ... e-eš-ḫa-[nu-wa-an]-ta ku-e-eš ú-e-eš-ša-an-ta ... {GIŠ}BAN{ḪI.A}-aš-ša-an ku-i-e-eš ḫu-u-it-ti-ia-an-ta; {D}AMAR.UTU read Šanta"}
+      - {motif: oath-with-demons-by-shared-raw-liver-and-one-straw, refs: ["CTH 757 §8:45", "CTH 757 §9:49-59", "CTH 757 §10:60", "CTH 757 §11:61-62"], note: "li-ku-wa-an-ni 'let us swear'; IŠ-TU {UZU}NÍG.GIG ḫu-u-i-ša-wa-az wa-a-ku-e-en 1-za-ma-kán {GI}A.DA.GUR-az e-ku-e-en; ḫi-im-ma-an i-ia-an-zi"}
+      - {motif: demons-told-not-to-enter-my-door, refs: ["CTH 757 §11:63"], note: "KÁ-IA le-e ti-ia-at-te-ni"}
+      - {motif: goat-blood-smeared-on-straw, refs: ["CTH 757 §7:32-33", "CTH 757 §8:48", "CTH 757 §9:49-52"], note: "the goat is dedicated to Šanta with wine and slaughtered; e-eš-ḫar da-a-i; the straw smeared (translation)"}
+      - {motif: thousand-gods-of-hatti, refs: ["CTH 757 §12:73-75"], note: "LI-IM DINGIR{MEŠ} az-zi-kán-du; É-aš ad-da-aš DINGIR{MEŠ} 'gods of the father of the house'"}
+      - {motif: gods-as-witnesses-of-oath, refs: ["CTH 757 §13:78"], note: "ke-e-da-ni li-in-ga-i ku-ut-ru-e-eš e-eš-tén"}
+      - {motif: boy-in-goatskin-howls-like-wolf, refs: ["CTH 757 §14:84-88"], note: "8 DUMU{MEŠ}.NITA ... MUNUS-ni-iš-ša-an ku-i-e-eš na-a-ú-i pa-a-an-zi; KUŠ MÁŠ.GAL wa-aš-ši-ia-an-zi ... UR.BAR.RA-i-li ḫal-zi-iš-ša-i"}
+      - {motif: libation-poured-three-times, refs: ["CTH 757 §13:79"], note: "here nine times: GEŠTIN 9-ŠU ši-pa-an-ti before the Innarawanteš' table"}
+      - {motif: ritual-meal-after-rite, refs: ["CTH 757 §14:89-90", "CTH 757 §15:91-95"]}
+    hints:
+      - "Pestilence through armed divine agents: compare the destroying angel with drawn sword at the plague (2 Sam 24:15-17; 1 Chr 21:16) and the destroyer at the door (Exod 12:23); the Quran's plague (rijz) sent on the Israelites (Q 2:59, 7:134-135)."
+      - "A covenant with demons sealed by eating together: contrast Q 6:128 and 72:6 (men seeking refuge with jinn, who only increased them in burden) and Q 34:41."
+      - "Boys who have not known a woman serving in a rite: compare 1 Sam 21:5-6 (holy bread only if the young men kept from women)."
+
+  - id: ane-cth-757-16-zarpiya-luwian-door
+    tradition: ane-hittite
+    title: Ritual of Zarpiya II - Luwian incantation at the gate, the door anointed; colophon (CTH 757 §16-24)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Hittite with Luwian incantations"
+    read: ["CTH 757 §16:96-§24:120"]
+    tags:
+      - {motif: luwian-incantation-in-gate, refs: ["CTH 757 §16:96-98", "CTH 757 §17:99-100"], note: "lu-ú-i-li ki-iš-ša-an ḫu-uk-ki-iš-ki-iz-zi; {D}Ša-an-ta-aš LUGAL-uš {D}An-na-ru-um-mi-en-zi aš-ḫa-nu-wa-an-ta ... wa-aš-ša-an-ta-ri"}
+      - {motif: demons-told-not-to-enter-my-door, refs: ["CTH 757 §18:101"], note: "Luwian: pa-a-tar a-ap-pa ... at-tu-wa-la-ḫi-ti ni-iš da-a-ad-du-wa-ar 'do not step again in evil to this gate'"}
+      - {motif: demons-told-eat-cattle-not-humans, refs: ["CTH 757 §18:102-103"], note: "a-az-za-aš-ta-an UDU-in-za GU₄-in-za DUMU.NAM.<LÚ>.U₁₉.LU-in ... ni-iš az-tu-u-wa-ri"}
+      - {motif: father-gods-and-ea-fed-in-houses, refs: ["CTH 757 §20:106-108", "CTH 757 §21:109"], note: "u-ra-az {D}UTU-az ta-ti-in-zi DINGIR{MEŠ}-in-zi {D}É.A-aš-ḫa; §21 'Ea released ...' obscure Luwian"}
+      - {motif: door-anointed-evil-out-good-in, refs: ["CTH 757 §22:110-113", "CTH 757 §23:114-115"], note: "{GIŠ}IG-an-na ḫa-at-ki na-at IŠ-TU Ì.DÙG.GA iš-ki-ia-iz-zi ... i-da-lu-kán pa-ra-a iš-tap-du a-aš-šu-wa-kán an-da kur-ak-du"}
+      - {motif: physician-ritual-for-plague-year, refs: ["CTH 757 §24:116-120"], note: "colophon: A-WA-AT {m}Za-ar-pí-ia {LÚ}A.ZU KUR {URU}Ki-iz-zu-wa-at-na"}
+      - {motif: scribal-colophon, refs: ["CTH 757 §24:116"], note: "1 IM.GÍD.DA QA-TI"}
+    hints:
+      - "Door anointed so evil stays out: compare the blood on doorposts at Passover (Exod 12:7, 22-23) and the mezuzah (Deut 6:9); in the Quran protection is sought from God alone against 'the evil of what He created' (Q 113:1-2)."
+      - "'Eat sheep and cattle, not a human being': compare the substitution of the ram for Abraham's son (Gen 22:13; Q 37:107 'We ransomed him with a great sacrifice')."

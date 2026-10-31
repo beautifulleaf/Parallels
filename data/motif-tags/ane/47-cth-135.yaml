@@ -81,6 +81,64 @@ new_motifs:
   ordeal-before-god-pure-or-impure: {label: "In a disputed case the accused goes before the god: if pure, his protective god (is with him); if impure, it is a capital sin", cluster: law}
   ordeal-by-drinking-from-gods-rhyton: {label: "Accused staff drink from the god's rhyton of the 'soul' declaring their innocence, calling on the god to pursue them with their wives and children if they lie", cluster: law}
   neglect-of-watch-death-penalty: {label: "A temple servant at whose watch-post an offence (waštul) happens is to die, without pardon", cluster: cult}
+  myth-recited-at-new-year-festival: {label: "A myth is told as the 'word' (text) of a seasonal festival (the purulli) that is celebrated so the land may grow and prosper", cluster: cult}
+  storm-god-first-defeated-by-serpent: {label: "In the first combat the serpent (dragon) defeats the storm god", cluster: combat}
+  defeated-god-calls-gods-for-help: {label: "The defeated god calls on all the gods to come to his aid", cluster: combat}
+  goddess-prepares-feast-to-lure-monster: {label: "A goddess prepares a feast with vessels full of wine and beer and invites the monster up from its hole to eat and drink", cluster: combat}
+  mortal-helper-demands-to-sleep-with-goddess: {label: "A mortal agrees to help a goddess on condition that he may sleep with her, and does", cluster: combat}
+  monster-gorged-cannot-return-to-hole: {label: "The monster and its brood drink every vessel dry and, gorged, cannot go back down into their hole", cluster: combat}
+  monster-bound-with-rope-then-slain: {label: "The gorged monster is tied with a rope by the mortal helper and then killed by the storm god", cluster: combat}
+  storm-god-slays-serpent: {label: "The storm god kills the serpent (dragon) Illuyanka", cluster: combat}
+  goddess-builds-house-on-rock-for-mortal: {label: "The goddess builds a house on a rock and settles her mortal lover in it", cluster: combat}
+  forbidden-to-look-out-of-window: {label: "A mortal is forbidden to look out of the window while the goddess is away, lest he see his wife and children", cluster: taboo}
+  mortal-looks-out-sees-wife-children: {label: "After twenty days the mortal looks out of the window and sees his wife and children", cluster: taboo}
+  mortal-lover-begs-to-go-home: {label: "The goddess's mortal lover, having seen his family, laments and begs to be let go home", cluster: taboo}
+  goddess-hands-house-to-king: {label: "The goddess gives her house and the 'river of the flood' into the king's hand (an aetiology of the king's cult)", cluster: kingship}
+  rain-asked-from-mountain-god: {label: "When rain falls in Nerik the herald brings thick bread; rain is requested from the mountain god Zaliyanu", cluster: cult}
+  serpent-takes-storm-gods-heart-and-eyes: {label: "The victorious serpent takes the storm god's heart and eyes", cluster: combat}
+  god-marries-poor-mans-daughter: {label: "The disabled god takes the daughter of a poor man as wife and begets a son", cluster: combat}
+  son-marries-monsters-daughter: {label: "The god's son marries the daughter of his father's monstrous enemy", cluster: combat}
+  son-asks-in-laws-for-heart-and-eyes: {label: "The son, as bridegroom, asks his in-laws for the heart and then the eyes and brings them to his father, who is restored", cluster: combat}
+  son-sides-with-in-laws-and-dies: {label: "The son, bound to the house of his in-laws, cries to his father not to spare him, and the storm god kills the serpent and his own son together", cluster: combat}
+  last-gods-made-first: {label: "The first gods are made the last and the last the first (a reversal of divine rank)", cluster: cult}
+  goddess-greater-than-storm-god: {label: "A local goddess (Zašḫapuna) is declared greater than the storm god", cluster: cult}
+  basalt-throne-over-spring: {label: "A seat of basalt stands over a spring; the priest chosen by lot to hold the god sits on it", cluster: cult}
+  king-grants-land-to-cult: {label: "The king gives back a field, garden, house, threshing floor and servants' houses to a cult, recorded on a tablet", cluster: cult}
+  sea-angry-hides-sun: {label: "The angry Sea carries the sun god down and hides him, and the land turns bad and dark", cluster: myth}
+  son-sent-to-bring-back-sun: {label: "The storm god sends his son Telipinu to the sea to bring back the sun god", cluster: myth}
+  sea-gives-daughter-to-god: {label: "The frightened Sea gives the sun back and his own daughter to the god", cluster: myth}
+  sea-demands-bride-price: {label: "The Sea sends to the storm god demanding a bride-price for the daughter his son has taken", cluster: myth}
+  bride-price-a-thousand-cattle-and-sheep: {label: "The bride-price is paid 'all by the thousand': a thousand cattle and a thousand sheep", cluster: myth}
+  angry-god-departs-blight-falls: {label: "A god becomes angry and departs; mist seizes the windows, smoke the house, the hearth logs and the gods on the altar are stifled", cluster: myth}
+  vanished-god-hides-in-moor-under-plants: {label: "The angry god goes off and hides himself in the moor, and a plant grows over him", cluster: myth}
+  fertility-ceases-in-gods-absence: {label: "With the god gone, grain does not grow, cattle, sheep and people do not conceive and the pregnant do not give birth", cluster: myth}
+  animals-reject-their-young: {label: "In the god's absence the sheep rejects its lamb and the cow its calf (and on his return they accept them again)", cluster: myth}
+  mountains-springs-dry-famine: {label: "Mountains, trees, pastures and springs dry up, and famine comes upon the land so that men and gods die of hunger", cluster: myth}
+  gods-feast-without-satiety: {label: "The gods are called to a feast but eat and drink without being satisfied", cluster: myth}
+  search-for-vanished-god-fails: {label: "The great and small gods search for the vanished god; the swift eagle searches mountains, valleys and waters and does not find him", cluster: myth}
+  storm-god-cannot-open-gate-sits-wrapped: {label: "The storm god cannot open the gate of his son's city, breaks his hammer and wrapped (in his garment) sits down", cluster: myth}
+  mother-goddess-sends-bee: {label: "The mother goddess sends the bee to find the vanished god; the storm god scorns it as tiny with little wings", cluster: myth}
+  bee-to-sting-and-wax-to-cleanse: {label: "The bee is told to sting the sleeping god in hands and feet to make him rise, wipe him with wax, purify him and bring him back", cluster: myth}
+  wakened-god-rages-destroys: {label: "The god, roused, rages: he destroys rivers' banks, towns, people, cattle and sheep", cluster: myth}
+  analogic-offerings-to-soothe-god: {label: "Substances are set out one by one with 'as this is sweet / pure / holds its oil, so may your soul become sweet / pure / hold the king in good'", cluster: ritual}
+  oil-sprinkled-path-for-gods-return: {label: "Fine oil is sprinkled on the god's paths: 'walk on the oiled ways'", cluster: ritual}
+  beer-makes-angry-man-forget: {label: "As beer makes an angry or anxious man drunk so his anger and care vanish, may it make the god drunk and his anger vanish", cluster: ritual}
+  healing-goddess-takes-away-anger: {label: "A magic goddess (Kamrušepa) halts the god's fury and takes from his body his anger, wrath, sin and sullenness", cluster: ritual}
+  anger-burned-dried-quenched-by-analogy: {label: "The god's anger, wrath, sin and sullenness are to burn like brushwood, dry like malt, go out like fire, not flow back like water in a pipe", cluster: ritual}
+  gods-assemble-under-hawthorn: {label: "The gods sit in assembly under the hawthorn tree", cluster: myth}
+  anger-sent-down-road-of-netherworld: {label: "The god's anger is to leave house, window, gate and royal road, not go to field, garden or wood, but go the road of the sun goddess of the earth", cluster: ritual}
+  anger-sealed-in-bronze-vessels-in-netherworld: {label: "In the dark earth stand bronze (or iron) vessels with lids of lead and fastenings of iron: what goes in never comes out and perishes there, and the god's anger is shut in them", cluster: underworld}
+  god-returns-order-restored: {label: "The god returns to his house, the mist and smoke leave, hearth, fold and stall are freed, mother, ewe and cow accept their young", cluster: myth}
+  god-gives-king-life-strength-future: {label: "The returned god cares for king and queen and provides them with life, vigour and long future", cluster: kingship}
+  fleece-hung-on-tree-holds-blessings: {label: "Before the god stands an eya-tree with a sheep's fleece hung on it, in which lie fat, grain, wine, cattle, sheep, long years, progeny and plenty", cluster: ritual}
+  sea-imprisons-sun-in-sealed-jar: {label: "The sun god is shut in a jar sealed with wax and capped with a copper lid", cluster: myth}
+  frost-paralyses-land-and-gods: {label: "Frost (ḫaḫḫima) paralyses the whole land, dries the waters and seizes plants, cattle, sheep, dogs, pigs, and the gods sent to find the sun", cluster: myth}
+  god-as-plougher-and-irrigator: {label: "The storm god praises his son as one who breaks the soil, ploughs, channels water and clears the grain of stones", cluster: myth}
+  can-they-revive-the-dead: {label: "The storm god challenges: when a man or an ox is killed, do they make him live again? What wonder do your sons do?", cluster: myth}
+  storm-gods-hands-stuck-to-cup: {label: "The paralysed storm god's hands stick to his cup and his feet to the ground; he begs Frost not to seize his eyes", cluster: myth}
+  offering-graded-rich-nine-poor-one: {label: "The god's allotment: one to whom the god does good gives nine sheep, a poor man gives one", cluster: cult}
+  bronze-models-of-jar-door-windows-in-ritual: {label: "The ritual sets out bronze models of the jar and its lid, a door, two windows, a peg, a spade and a hammer for the vanished god", cluster: ritual}
+  three-day-feeding-of-returned-god: {label: "For three days the 'lord of the god' burns choice offerings, recites spells and breaks bread, pours libations and lays meat before the gods", cluster: ritual}
 units:
   - id: ane-cth-135-1-preamble-hostages-cities
     tradition: ane-hittite
@@ -573,3 +631,365 @@ units:
       - {motif: do-gods-will-not-mans, refs: ["CTH 264 W17:{€2}_1'-{€2}_6'"]}
       - {motif: offering-split-in-half-death-penalty, refs: ["CTH 264 W18:Vs._I_4'-Vs._I_7'"]}
       - {motif: temple-field-swapped-with-own-field, refs: ["CTH 264 W18:Rs._IV_6-Rs._IV_13"]}
+  - id: ane-cth-321-1-purulli-incipit
+    tradition: ane-hittite
+    title: Illuyanka, Kella's introduction, the word of the purulli festival (CTH 321 §1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 321 §1"]
+    tags:
+      - {motif: myth-recited-at-new-year-festival, refs: ["CTH 321 §1:1-7"], note: "UMMA mKilla ... purulliyaš uttar; utnē-wa māu šešdu ... nu EZEN4 purulliyaš iyanzi"}
+    hints:
+      - "A myth of combat attached to a seasonal festival: compare Enūma eliš at the Babylonian akītu and the 'enthronement' psalms (Ps 93, 74:12-17)."
+  - id: ane-cth-321-2-inaras-feast-and-the-serpent
+    tradition: ane-hittite
+    title: "Illuyanka, first version: the storm god's defeat and Inara's trick (CTH 321 §2-10)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 321 §2:8-§10:40"]
+    tags:
+      - {motif: storm-god-first-defeated-by-serpent, refs: ["CTH 321 §2:8-9"], note: "dIM-aš MUŠilluyankašša INA URU Kiškilušša argatiēr; MUŠilluyankaš dIM-an [tar]uḫta"}
+      - {motif: defeated-god-calls-gods-for-help, refs: ["CTH 321 §3:10-11"], note: "DINGIR.MEŠ-naš ḫūman[duš] mūgaet: anda-ma-pa tiyattēn"}
+      - {motif: goddess-prepares-feast-to-lure-monster, refs: ["CTH 321 §3:12-§4:15", "CTH 321 §8:28-30"], note: "Inara: DUGpalḫi of wine, marnuwant- and walḫi-beer; MUŠilluyankan ḫanteššanaz šarā kallišta: 'I am holding a feast, come to eat and drink!'"}
+      - {motif: mortal-helper-demands-to-sleep-with-goddess, refs: ["CTH 321 §5:16-§7:24"], note: "mḫupašiyan LÚ.U19.LU; mā-wa kattiti šešmi nu-wa uwami kardiaš-taš iyami; naš katti-ši šešta"}
+      - {motif: monster-gorged-cannot-return-to-hole, refs: ["CTH 321 §9:31-§10:35"], note: "QADU [ ... ] šarā uēr (the serpent came up with [its children], restored); DUGpalḫan ḫūmandan ek[uer]; namma ḫatteššnaš kattanda nūman paanzi"}
+      - {motif: monster-bound-with-rope-then-slain, refs: ["CTH 321 §8:25-26", "CTH 321 §10:36-37"], note: "Inara hid (munnaet, restored) Ḫupašiya; MUŠilluyankan išḫimanta kalēliet"}
+      - {motif: storm-god-slays-serpent, refs: ["CTH 321 §10:38-40"], note: "dIM-aš uet nu-kan MUŠillu[yankan] kuenta, DINGIR.MEŠ-ša katti-šši ešer"}
+    hints:
+      - "The storm god and the sea serpent: Isa 27:1 (Leviathan the fleeing, twisting serpent slain), Ps 74:13-14 (the heads of Leviathan crushed), Job 41 (Leviathan drawn out with a hook and cord, 41:1-2), Job 26:12-13, Isa 51:9. The Quran has no divine combat: the great sea creatures are simply created (Q 16:14), and the serpent is Moses' staff, Q 20:20, 7:117."
+      - "Defeat by feasting and drunkenness: Jael and Sisera (Judg 4:19-21, milk then the tent-peg) and Judith 12-13. Compare the unwary feast in Q 5:90-91 (wine as Satan's tool)."
+      - "A goddess who takes a mortal to bed for a task: Gilgamesh and Ištar (Gilg SB VI); the angels Hārūt and Mārūt in Q 2:102."
+  - id: ane-cth-321-3-hupasiya-and-the-window
+    tradition: ane-hittite
+    title: "Illuyanka: Ḫupašiya forbidden to look out of the window (CTH 321 §11-14)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 321 §11:41-§14:59"]
+    tags:
+      - {motif: goddess-builds-house-on-rock-for-mortal, refs: ["CTH 321 §11:41-42"], note: "NA4peruni É-er weteš INA KUR URU Ta[rukki]; mḫupašiyan andan É-[ri] ašašta"}
+      - {motif: forbidden-to-look-out-of-window, refs: ["CTH 321 §11:43-47"], note: "mā-wa gimra pāi[mi], zigga-waraš-ta GIŠluttan[za] arḫa lē autti; mā-waraš-ta arḫa-ma autti nu-wa-za DAM-KA DUMU.MEŠ-KA autti"}
+      - {motif: mortal-looks-out-sees-wife-children, refs: ["CTH 321 §12:48-50"], note: "mān UD 20.KAM pait apāša GIŠlu[ttanza] arḫa šuwaiet; 'his wife and children' at §12:50 is mostly restored ([DAM]-SÚ)"}
+      - {motif: mortal-lover-begs-to-go-home, refs: ["CTH 321 §13:51-53"], note: "apašša weškauwan dāiš: [a]ppa-wa-mu [ ... ] 'let me back'"}
+      - {motif: forbidden-to-look-out-of-window, refs: ["CTH 321 §14:54-59"], note: "Inara's answer is broken: arḫa-wa ... ḫarannē[t?] 'with a fault(?)' and 'the meadow of the storm god'; Ḫupašiya's fate (perhaps killed) is lost"}
+    hints:
+      - "The look that is forbidden: Lot's wife (Gen 19:17, 26), the Quran's 'let none of you look back' (Q 11:81, 15:65); Orpheus. The single prohibition of Adam in the garden, Q 2:35, 7:19, 20:120-121, and the expulsion after it."
+      - "Remembering wife and children in a divine dwelling: compare Odysseus with Calypso; in the Quran the believers are rejoined with their families in paradise, Q 13:23, 52:21."
+  - id: ane-cth-321-4-king-and-rain
+    tradition: ane-hittite
+    title: Illuyanka, the goddess's house given to the king; rain at Nerik (CTH 321 §15-18)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 321 §15:60-§18:73"]
+    tags:
+      - {motif: goddess-hands-house-to-king, refs: ["CTH 321 §15:60-63"], note: "É-ŠU ḫunḫuwanašša [ ... ] QATI LUGAL mān dāiš; ḫanteziyan purulliyan kuit iyaweni 'because we celebrate the first purulli'"}
+      - {motif: rain-asked-from-mountain-god, refs: ["CTH 321 §16:64-§17:68"], note: "ḪUR.SAG Zaliyanu ḫūmandaš ḫanteziš; mān INA URU Nerik ḫeuš ḫinikta, LÚ GIŠGIDRU NINDAḫaršin pedai; Za[liyan]u ḫeiun wekta"}
+    hints:
+      - "Rain asked of a mountain god: compare Elijah praying for rain on Carmel (1 Kgs 18:41-45) and the Quran's prayer for rain and God who sends rain after despair, Q 71:10-11, 42:28."
+  - id: ane-cth-321-5-second-version-heart-eyes
+    tradition: ane-hittite
+    title: "Illuyanka, second version: the stolen heart and eyes and the storm god's son (CTH 321 §19-24)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 321 §19:74-§24:101"]
+    tags:
+      - {motif: serpent-takes-storm-gods-heart-and-eyes, refs: ["CTH 321 §19:75-77"], note: "only MUŠil[luyankaš] and UZUŠ[À] survive; 'defeated the storm god' and 'eyes' are restored from §21-22"}
+      - {motif: god-marries-poor-mans-daughter, refs: ["CTH 321 §20:78-79"], note: "DUMU.MUNUS ŠA LÚašiwandaš ANA DAM-ŠU dāš; DUMU.NITA ḫašta"}
+      - {motif: son-marries-monsters-daughter, refs: ["CTH 321 §20:80-81"], note: "DUMU.MUNUS MUŠilluyankaš DAM-anni dāš"}
+      - {motif: son-asks-in-laws-for-heart-and-eyes, refs: ["CTH 321 §21:82-§23:92"], note: "UZUŠÀ šakuwaya wek; the heart given, then the eyes; dIM-aš UZUŠÀ šakuwa-šet EGIR-pa dāš; ešri-šši appa karuiliyatta SIG5-atta"}
+      - {motif: storm-god-slays-serpent, refs: ["CTH 321 §23:93-95", "CTH 321 §24:100"], note: "aruni zaḫḫiya pait: the second fight is 'at the sea'"}
+      - {motif: son-sides-with-in-laws-and-dies, refs: ["CTH 321 §23:96-§24:100"], note: "šarā nepiši attiššiḫalzaiš: ammuggaz-apa anda ep, lē-mu genzuwaiši! dIM-aš MUŠilliyank[an] Ù DUMU-ŠU kuenta"}
+    hints:
+      - "The father's son who belongs with the enemy's house and perishes: Noah's son in Q 11:42-46 ('he is not of your family'); the father not sparing his son, Gen 22 / Q 37:102 inverted."
+      - "Heart and eyes taken away: Q 2:7 and 45:23 (God sets a seal on heart and a covering on the eyes); Samson's eyes put out (Judg 16:21)."
+  - id: ane-cth-321-6-kellas-gods-ranks-colophon
+    tradition: ane-hittite
+    title: Illuyanka, Kella's coda on the gods' ranks, the lot, the land grant and colophon (CTH 321 §25-33)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 321 §25:102-§33:128"]
+    tags:
+      - {motif: last-gods-made-first, refs: ["CTH 321 §26:104-105"], note: "[ḫante]zziuš DINGIR.MEŠ-uš [app]izziyan iēr, [app]izziušša ḫantezziuš DINGIR.MEŠ-uš iēr"}
+      - {motif: goddess-greater-than-storm-god, refs: ["CTH 321 §27:106-107", "CTH 321 §30:119"], note: "Zašḫapuna, wife of Zaliyanu, said to be greater than the storm god of Nerik (§27:107 mostly in translation only); dZašḫapunaš šalliš"}
+      - {motif: offices-assigned-by-lot, refs: ["CTH 321 §29:113-114", "CTH 321 §30:117-118"], note: "LÚGUDU12 mān pūl tianzi; DINGIR.MEŠ-iš ḫūmanteš ... pūl tianzi"}
+      - {motif: basalt-throne-over-spring, refs: ["CTH 321 §29:112", "CTH 321 §29:115-116"], note: "NA4ŠU.U ŠÚ.A; wattar-wa šēr NA4ŠU.U ŠÚ.A kitta"}
+      - {motif: king-grants-land-to-cult, refs: ["CTH 321 §31:122-§32:124"], note: "6 kapunu field, 1 kapunu vineyard, house, threshing floor, 3 houses of servants; ṬUPPI-ma ēšzi"}
+      - {motif: scribal-colophon, refs: ["CTH 321 §33:127-128"], note: "DUB 1.KAM QATI ŠA mKella LÚGUDU12 uddanaš; Piḫa-LÚ wrote it before ... the chief scribe"}
+    hints:
+      - "First made last and last first: Q 56:3 (the Event 'lowering, raising'), Q 56:10-14; Matt 20:16."
+      - "Lots cast among the divine officiants: Q 3:44 (they cast their pens over who should take charge of Mary), Q 37:141 (Jonah cast lots); Lev 16:8, 1 Chr 24:5."
+  - id: ane-cth-322-1-telipinu-and-daughter-of-sea
+    tradition: ane-hittite
+    title: Telipinu and the daughter of the Sea (CTH 322.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 322.1"]
+    tags:
+      - {motif: sea-angry-hides-sun, refs: ["CTH 322.1 §1:1-5"], note: "karū kuwapi GAL-iš ar[unaš] ... naš šulliyat; kattan peḫutet; the sun god as object is restored"}
+      - {motif: land-darkened-when-god-departs, refs: ["CTH 322.1 §2:6-8"], note: "the land becomes bad and dark, and no one stands against the sea"}
+      - {motif: son-sent-to-bring-back-sun, refs: ["CTH 322.1 §2:9-§3:12"], note: "the storm god calls Telipinu, 'his good first son' (restored)"}
+      - {motif: sea-gives-daughter-to-god, refs: ["CTH 322.1 §4:13-18"], note: "[arunaš] naḫšariyattat; DUMU.MUNUS-[SÚ ...]; dUTU-unna-šši paiš"}
+      - {motif: sea-demands-bride-price, refs: ["CTH 322.1 §5:19-27"], note: "dTelipin[uš] tuel DUMU-KA DUMU.MUNUS-YA ANA DAM-ŠU; the storm god asks Ḫannaḫanna whether to pay"}
+      - {motif: bride-price-a-thousand-cattle-and-sheep, refs: ["CTH 322.1 §6:28-33"], note: "Ḫannaḫanna: 'give it'; kuinnaššan LI-IM pāiš ... 1 LI-IM GU4.ḪI.A 1 LI-IM UDU.ḪI.A"}
+      - {motif: analogic-offerings-to-soothe-god, refs: ["CTH 322.1 §9:39-42"], note: "the ritual list only: yoke and plough, wax, rennet, cheese, honey, fig, olive, emmer, fat; the analogies themselves are lost"}
+    hints:
+      - "The sea that withholds and must be appeased: the Ugaritic Yamm demanding Baal (KTU 1.2 I); God rebuking the sea, Ps 104:6-9, Job 38:8-11. In the Quran the sea is wholly subject to God, Q 45:12, 55:19-20."
+      - "A bride-price paid to the bride's father: Gen 34:12, 1 Sam 18:25; the Quran's mahr owed to the bride herself, Q 4:4."
+  - id: ane-cth-322-2-telipinu-angry-hides
+    tradition: ane-hittite
+    title: Telipinu and the daughter of the Sea, fragment with the anger and hiding (CTH 322.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 322.2"]
+    tags:
+      - {motif: angry-god-departs-blight-falls, refs: ["CTH 322.2 §2:3-8"], note: "only 'angry', '[mi]st sei[zed]', '[sti]fled', 'in the [stal]l ... the sheep' survive; restored from CTH 324.1 §4"}
+      - {motif: vanished-god-hides-in-moor-under-plants, refs: ["CTH 322.2 §5:20-23"], note: "[Telipinu] became angry ... in the [mo]ors; the hiding and the ḫalenzu-plant growing over him are restored"}
+    hints:
+      - "As in CTH 324: compare Jonah who 'went off in anger' (dhahaba mughāḍiban), Q 21:87."
+  - id: ane-cth-322-3-fragment
+    tradition: ane-hittite
+    title: Telipinu and the daughter of the Sea, small fragment (CTH 322.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 322.3"]
+    tags:
+      - {motif: sea-gives-daughter-to-god, refs: ["CTH 322.3 §1:1-5"], note: "only '[ ... ] gave to the Sea', 'Telipinu ... Se[a]' and a speech to Telipinu ('who is good to you?') survive; interpretive"}
+    hints:
+      - "Too broken for detailed comparison."
+  - id: ane-cth-322-4-fragment
+    tradition: ane-hittite
+    title: Telipinu and the daughter of the Sea, small fragment (CTH 322.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 322.4"]
+    tags:
+      - {motif: sea-gives-daughter-to-god, refs: ["CTH 322.4 §1:3-10"], note: "'drove the [sh]eep back', 'when the Sea [ ... ] him', 'untouched earth', 'Telipinu'; context of bride-price livestock interpretive"}
+  - id: ane-cth-323-1-a-sea-traps-sun
+    tradition: ane-hittite
+    title: The vanished Sun god, trapped by the Sea (CTH 323.1 §1-3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 323.1 §1:1-§3:28"]
+    tags:
+      - {motif: sea-angry-hides-sun, refs: ["CTH 323.1 §2:7-13"], note: "'I will seize the [Su]n god (restored) and hide him (munnāmi); what will the storm god do?'; arunaš-a DUMU.MUNUS-aš [nepiša]z ḫalzaiš"}
+      - {motif: sea-imprisons-sun-in-sealed-jar, refs: ["CTH 323.1 §2:14-16", "CTH 323.1 §3:20-22"], note: "DUGḪAB.ḪAB ... ḫalḫaldāni-šši dāiš; DUḪ.LÀL garēt; šēra namma URUDU-an ištap[pulli]"}
+    hints:
+      - "A god or spirit shut in a sealed jar: later Islamic lore of Solomon sealing jinn in bottles (not Quranic); in the Quran Solomon's jinn are 'bound together in fetters', Q 38:37-38. The sun's hiding: Josh 10:12-13 (sun stands still), Amos 8:9."
+  - id: ane-cth-323-1-b-frost-paralyses
+    tradition: ane-hittite
+    title: The vanished Sun god, Frost seizes the land and the gods (CTH 323.1 §4-8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 323.1 §4:29-§8:106"]
+    tags:
+      - {motif: can-they-revive-the-dead, refs: ["CTH 323.1 §4:35-39"], note: "takku LÚ-iš kunanza ... GU4-uš UDU-uš kunanza nan appa ḫuišn[uanzi]? ... kuin šagain iyanzi"}
+      - {motif: frost-paralyses-land-and-gods, refs: ["CTH 323.1 §4:40-42", "CTH 323.1 §5:47-53", "CTH 323.1 §5:60-61"], note: "ḫa[ḫḫimaš] utnē ḫūman tinut; widār ḫatnut; ḫaḫḫimaš GAL-iš; plants, lands, cattle, sheep, dogs, pigs; not the children in the womb nor the grain, held by tallow"}
+      - {motif: search-for-vanished-god-fails, refs: ["CTH 323.1 §6:62-70"], note: "they seek the sun god and do not find him; 'my limbs grow hot here: when did he perish?'"}
+      - {motif: frost-paralyses-land-and-gods, refs: ["CTH 323.1 §6:71-77", "CTH 323.1 §7:85-91"], note: "Zababa, the protective god, Telipinu, the fate goddess and Ḫannaḫanna sent one after another are seized by Frost; 'and all died'"}
+      - {motif: god-as-plougher-and-irrigator, refs: ["CTH 323.1 §6:78-84"], note: "Telipinu: 'my [mig]hty son; he tears open (the earth), ploughs, channels the water, frees the grain of stones'"}
+      - {motif: storm-gods-hands-stuck-to-cup, refs: ["CTH 323.1 §7:96-100"], note: "kišširaš-miš-wa GAL-riya anda dame[nkanza]; [GÌR.MEŠ]-YA dameinkir; IGI.ḪI.A-mita-wa lē epši"}
+    hints:
+      - "Gods sent one after another and failing: compare Enūma eliš II (Ea and Anu turn back) and the angels who cannot bring forth what only God knows, Q 2:31-32."
+      - "Frost and ice as divine weapons: Job 37:9-10, 38:29-30, Ps 147:16-17 ('who can stand before his cold?')."
+      - "'Do they make the dead live again?': Q 2:258 (Abraham and the king: 'my Lord gives life and death'), Q 36:78-79, 22:73."
+  - id: ane-cth-323-1-c-allotment-of-the-sun
+    tradition: ane-hittite
+    title: The vanished Sun god, the annanna-woman's words and the Sun's allotment (CTH 323.1 §9-12)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 323.1 §9:107-§12:134"]
+    tags:
+      - {motif: frost-paralyses-land-and-gods, refs: ["CTH 323.1 §9:107-110"], note: "'the moon god he/she hurled'; the gate of the city overthrown; subject uncertain"}
+      - {motif: offering-graded-rich-nine-poor-one, refs: ["CTH 323.1 §11:126-133"], note: "the sun god asks 'my [allot]ment, how?'; the mother goddess: whom you do good gives you nine (sheep); who is poor gives one sheep"}
+      - {motif: scribal-colophon, refs: ["CTH 323.1 §12:134"], note: "tablet of the invocation of the Sun god and Telipinu, finished"}
+    hints:
+      - "Offerings graded by means: Lev 5:7-11, 12:8; Q 65:7 and 2:286 ('God burdens no soul beyond what He has given it')."
+  - id: ane-cth-323-1-d-ritual-for-sun-and-telipinu
+    tradition: ane-hittite
+    title: The vanished Sun god, the ritual of the tables and three days of offerings (CTH 323.1 §13-22)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 323.1 §13:135-§22:211"]
+    tags:
+      - {motif: bronze-models-of-jar-door-windows-in-ritual, refs: ["CTH 323.1 §13:135-138", "CTH 323.1 §15:141-§16:145"], note: "1 DUGḪAB.ḪAB ZABAR Ù NAKTAMŠU ZABAR, 1 GIŠIG ZABAR, 2 GIŠAB ZABAR, GIŠGAG, GIŠMAR, GIŠNÍG.GUL: tables set at the window"}
+      - {motif: analogic-offerings-to-soothe-god, refs: ["CTH 323.1 §14:139-140", "CTH 323.1 §16:146-150"], note: "thick bread, wine, marnuwan, honey-beer, fine oil, honey, sheep fat, coloured wools; sprinkled with fine oil"}
+      - {motif: three-day-feeding-of-returned-god, refs: ["CTH 323.1 §17:151-§22:211"], note: "the 'lord of the god' burns choice things, recites, offers three times in turn; goat and sheep for the Sun and Telipinu; meat soup; three days"}
+    hints:
+      - "Tables set before the god: Exod 25:23-30 (table of the bread of the presence); the table sent down in Q 5:112-115."
+  - id: ane-cth-323-2-fragment
+    tradition: ane-hittite
+    title: The vanished Sun god, small fragment (CTH 323.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 323.2"]
+    tags:
+      - {motif: frost-paralyses-land-and-gods, refs: ["CTH 323.2 §2:3-8"], note: "'the plants', '[t]allow' that holds them, as in CTH 323.1 §5:47-50; very broken"}
+  - id: ane-cth-324-1-a-telipinu-angry-departs
+    tradition: ane-hittite
+    title: "Telipinu myth, first version: the god's anger and departure (CTH 324.1 §1-4)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 324.1 §1:1-§4:26"]
+    tags:
+      - {motif: angry-god-departs-blight-falls, refs: ["CTH 324.1 §3:15-18", "CTH 324.1 §4:19-24"], note: "[naš š]āiet; GÙB-lit ḫuinut ... É-erza-aš-kan pait; GIŠluttāuš kammaraš IṢBAT, É-er tuḫḫuiš [wiš]uriyatati, kalmišeniš ... DINGIR.MEŠ wišuriyantati"}
+      - {motif: animals-reject-their-young, refs: ["CTH 324.1 §4:25-26"], note: "UDU-uš-za SILA4-SÚ mimmaš, GU4-ma AMAR-ŠU mimmaš"}
+    hints:
+      - "The god who goes off in anger: Jonah, 'when he went off in anger (idh dhahaba mughāḍiban) and thought We had no power over him', Q 21:87-88; 37:139-144; 68:48 (do not be like the companion of the fish)."
+      - "Mothers abandoning their young as the sign of catastrophe: Q 22:2 (every nursing mother forgets her suckling), Q 81:4 (the pregnant camels abandoned); Lam 4:3, 10."
+  - id: ane-cth-324-1-b-vanishing-and-dearth
+    tradition: ane-hittite
+    title: Telipinu myth, the god hidden in the moor and the dearth (CTH 324.1 §5-6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 324.1 §5:27-§6:47"]
+    tags:
+      - {motif: vanished-god-hides-in-moor-under-plants, refs: ["CTH 324.1 §5:27-30"], note: "arḫa iyanniš; ḫalkin dImmarnin šalḫiantien mannittien išpiyatarra pedaš ... marmarri andan ulišta; šēra-šše-ššan ḫalenzu ḫuwaiš"}
+      - {motif: fertility-ceases-in-gods-absence, refs: ["CTH 324.1 §5:31-34"], note: "ḫalkiš ZÍZ-tar UL māi; GU4.ḪI.A UDU.ḪI.A DUMU.LÚ.U19.LU.MEŠ UL armaḫḫanzi; armawanteš ... UL ḫaššanzi"}
+      - {motif: mountains-springs-dry-famine, refs: ["CTH 324.1 §6:35-41"], note: "KUR-ya andan kāšza kīšati; DUMU.LÚ.U19.LU.MEŠ DINGIR.MEŠ-ešša kištantit ḫarkiyanzi"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 324.1 §6:42-47"], note: "GAL-iš-za dUTU-uš EZEN4-an iyet nu-za 1 LI-IM DINGIR.MEŠ ḫalzaiš; they ate and did not still their hunger, drank and did not still their thirst"}
+    hints:
+      - "Years of drought and dearth as divine withdrawal: Q 7:130 (Pharaoh's people seized with years of famine), Q 12:47-48, Q 2:155; Deut 28:18, 23-24 and Hag 1:6-11 ('you eat but are never satisfied'), Lev 26:26. The Quran's food of hell 'that neither nourishes nor relieves hunger', Q 88:7."
+      - "The hidden god: Isa 45:15, Isa 8:17 ('hiding his face'); Hos 5:15 ('I will return to my place until they seek my face'). Solomon's trial, the body set on his throne in his absence, Q 38:34."
+  - id: ane-cth-324-1-c-search-eagle-bee
+    tradition: ane-hittite
+    title: Telipinu myth, the search by eagle, storm god and bee (CTH 324.1 §7-10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 324.1 §7:48-§10:83"]
+    tags:
+      - {motif: father-god-laments-absent-son, refs: ["CTH 324.1 §7:48-51"], note: "dTelipinuš DUMU-YA UL ašzi; šāiet-waraš-za nu-waz ḫūman aššu pētaš"}
+      - {motif: search-for-vanished-god-fails, refs: ["CTH 324.1 §7:52-§8:60"], note: "DINGIR.MEŠ GAL.GAL DINGIR.MEŠ TUR ... šanḫiškiwan dāier; dUTU-uš ḫāranan MUŠEN lēliwandan IŠPUR: the high mountains, deep valleys, still waters; 'I did not find him, Telipinu the weighty god'"}
+      - {motif: storm-god-cannot-open-gate-sits-wrapped, refs: ["CTH 324.1 §8:61-§9:73"], note: "'we will die of hunger'; Ḫannaḫanna: 'do something, go seek him yourself'; UL tarḫuzzi ḫāši; GIŠNÍG.GUL-ŠU GIŠGAG-ŠU duwarnet; nu-za-kan anda kariet šaš ešati"}
+      - {motif: mother-goddess-sends-bee, refs: ["CTH 324.1 §9:74-§10:83"], note: "dNIN.TU-aš [... IŠPU]R (the bee restored from 324.2); the storm god: its wings are small, it is small, 'and they will cut it in two'"}
+    hints:
+      - "The bird sent to search and the missing one: the hoopoe found absent and returning with news, Q 27:20-22; the raven sent by God, Q 5:31; Noah's raven and dove, Gen 8:7-12."
+      - "The tiny bee preferred over the mighty: Q 16:68-69 (your Lord inspired the bee); Q 2:26 (God is not ashamed to strike a parable of a gnat)."
+      - "The storm god wraps himself and sits down in helplessness: compare 'O you enwrapped' (al-muzzammil, al-muddaththir), Q 73:1, 74:1; Elijah wrapping his face in his mantle, 1 Kgs 19:13."
+  - id: ane-cth-324-1-d-telipinu-roused
+    tradition: ane-hittite
+    title: Telipinu myth, the god roused in fury and the eagle (CTH 324.1 §11-15)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 324.1 §11:84-§15:112"]
+    tags:
+      - {motif: wakened-god-rages-destroys, refs: ["CTH 324.1 §11:85-§12:94"], note: "he destroyed the towns, the people, the cattle [and sheep]; 'Telipinu became furious; what shall we do?'"}
+      - {motif: bee-to-sting-and-wax-to-cleanse, refs: ["CTH 324.1 §13:95-102"], note: "call the men; on Mount Ammuna GIŠḫattaran (translated 'the sting [of the bee]', interpretive); ḫāraš MUŠEN tiyaddu nan w[arnuddu] (restored); the eagle with its wings; šan kišnuer 'they quenched him'"}
+      - {motif: anger-burned-dried-quenched-by-analogy, refs: ["CTH 324.1 §13'':103-§14'':109"], note: "untranslated: karpiššan dāer, uštulšet d[āer], duwanna warnut 'burn here'; very broken"}
+    hints:
+      - "The wrathful god destroying town and people: compare the ruin of 'Ād and Thamūd, Q 69:6-8, and Jonah's anger at Nineveh's sparing, Jon 4:1-4."
+  - id: ane-cth-324-1-e-analogic-offerings
+    tradition: ane-hittite
+    title: Telipinu myth, offerings by analogy to sweeten the god (CTH 324.1 §16-23)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 324.1 §16:113-§23:151"]
+    tags:
+      - {motif: analogic-offerings-to-soothe-god, refs: ["CTH 324.1 §19:125-§22:146"], note: "galaktar, parḫuena, šamamma, the fig ('as the fig is sweet, so may Telipinu's soul become sweet'), olive and grape holding oil and wine, liti-oil, malt and wort joined, emmer pure, honey sweet, butter soft"}
+      - {motif: oil-sprinkled-path-for-gods-return, refs: ["CTH 324.1 §23:147-151"], note: "Ì.DÙG.GA-it ... KASKAL.MEŠ papparaššun; reed and lazzai-wood ordered"}
+    hints:
+      - "Sweetening the angry god: compare the 'soothing aroma' (reaḥ niḥoaḥ) of sacrifice, Gen 8:21, Lev 1:9; in the Quran neither flesh nor blood reaches God, only piety, Q 22:37."
+      - "Oiled paths for the god's return: Isa 40:3 ('prepare the way'), Ps 68:5."
+  - id: ane-cth-324-1-f-kamrusepa-removes-anger
+    tradition: ane-hittite
+    title: Telipinu myth, Kamrušepa takes away the god's anger (CTH 324.1 §24-30)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 324.1 §24:152-§30:195"]
+    tags:
+      - {motif: wakened-god-rages-destroys, refs: ["CTH 324.1 §24:152-154"], note: "dTelipinuš lelaniyanza uet; uwantiwantaz titḫiškettari 'thunders with lightning'; katta dankui tekan zaḫḫiškezzi 'strikes the dark earth below'"}
+      - {motif: healing-goddess-takes-away-anger, refs: ["CTH 324.1 §24:155-§25:161", "CTH 324.1 §27:169-176"], note: "Kamrušepa moves the eagle's wing and halts him: the wrath, anger, [sin], sullenness she halted; 'I took from Telipinu his evil from his body, his sin, his wrath, his anger, his warku-, his sullenness'"}
+      - {motif: anger-burned-dried-quenched-by-analogy, refs: ["CTH 324.1 §28:177-§30:195"], note: "as this brushwood burned, as the malt is dry and is not sown or made into bread, as this fire goes out; dTelipinu, karpin tarna 'let go the wrath'; as (water) of the pipe does not flow back"}
+      - {motif: analogic-offerings-to-soothe-god, refs: ["CTH 324.1 §26:162-168"], note: "the gods are to tend the Sun god's sheep for Ḫapantali; twelve rams selected; a sieve of a thousand holes and karš-grain poured"}
+    hints:
+      - "God removes the rage from hearts: Q 9:15 ('and He will remove the rage of their hearts', yudhhib ghayẓa qulūbihim), Q 3:134 (those who restrain anger, al-kāẓimīn al-ghayẓ), Q 7:154 ('when the anger subsided from Moses')."
+      - "Asking God to turn back his anger: Ps 85:4-5, Exod 32:11-14 (Moses: 'turn from your burning anger'), Hos 11:9."
+  - id: ane-cth-324-1-g-anger-to-the-netherworld
+    tradition: ane-hittite
+    title: Telipinu myth, the gods under the hawthorn and the anger shut in bronze vessels below (CTH 324.1 §31-37)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 324.1 §31:196-§37:242"]
+    tags:
+      - {motif: gods-assemble-under-hawthorn, refs: ["CTH 324.1 §31:196-199"], note: "GIŠḫatalkišnaš katta tuliyaš; Papaya, Ištuštaya, fate goddesses, mother goddesses, grain god, Telipinu, the protective god, Ḫapantaliya"}
+      - {motif: healing-goddess-takes-away-anger, refs: ["CTH 324.1 §31:200-§32:208", "CTH 324.1 §34:214-217"], note: "'I treated substitutes of long years and purified Telipinu'; 'I took the evil tongue, the evil sole'; as the sheep loses its fleece passing under you, pull out Telipinu's wrath"}
+      - {motif: anger-burned-dried-quenched-by-analogy, refs: ["CTH 324.1 §35:218-222"], note: "the angry storm god is stopped by his man, the pot by the ladle; so may my, the man's, words stop Telipinu's anger"}
+      - {motif: anger-sent-down-road-of-netherworld, refs: ["CTH 324.1 §36:223-232"], note: "house, inner pillar, window, hinge, courtyard, gate, gatehouse, the king's road shall let it go; not to the thriving field, garden, wood; the road of the sun goddess of the earth"}
+      - {motif: seven-gates-of-underworld, refs: ["CTH 324.1 §37:233-234"], note: "ḫāšta LÚNI.DUḪ 7 GIŠIG, āppa ḫuittiyat 7 GIŠḫattalu"}
+      - {motif: anger-sealed-in-bronze-vessels-in-netherworld, refs: ["CTH 324.1 §37:235-242"], note: "kattan dankui takni ZABAR palḫi arta, ištappulliš-met A.BÁR-aš, zakkiš-miš AN.BAR-aš; ŠA dTelipinu karpin kardimiyattan waštul šāwar anda epdu nat āppa lē uezzi"}
+      - {motif: underworld-land-of-no-return, refs: ["CTH 324.1 §37:238-240"], note: "said of the vessels: kuit andan paizzi naš-ta namma šarā UL uezzi, andan-dan ḫarakzi"}
+    hints:
+      - "Seven gates below: Q 15:44 (Hell has seven gates, to each a portion); Ištar's descent (seven gates)."
+      - "What enters does not come out again: Q 23:99-100 (barzakh), Q 32:20 and 22:22 (whenever they wish to leave they are returned); the fire 'closed over them in extended columns', Q 104:8-9, 90:20."
+      - "Vessels of bronze, lead and iron: Q 18:96 (iron and molten copper sealing Gog's barrier), Q 34:12 (the fount of molten copper for Solomon), Q 57:25; Zech 5:7-8 (wickedness shut in a measuring-basket under a lead lid). Solomon's jinn 'bound in fetters', Q 38:37-38."
+      - "God's anger stored up: Deut 32:34 ('laid up in store with me, sealed in my treasuries'), Jer 25:15 (the cup of the wine of wrath)."
+  - id: ane-cth-324-1-h-return-and-blessing
+    tradition: ane-hittite
+    title: Telipinu myth, the god's return and the fleece on the eya-tree (CTH 324.1 §38-40)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 324.1 §38:243-§40:267"]
+    tags:
+      - {motif: god-returns-order-restored, refs: ["CTH 324.1 §38:243-253"], note: "the mist left the window, the smoke the house; the gods on the altar set right; annaš DUMU-ŠU penništa, UDU-uš SILA4-SÚ, GU4 AMAR-ŠU penništa"}
+      - {motif: animals-reject-their-young, refs: ["CTH 324.1 §38:251-253"], note: "reversal of §4:25-26: mother, ewe and cow accept their young"}
+      - {motif: god-gives-king-life-strength-future, refs: ["CTH 324.1 §38:254-§39:256"], note: "LUGAL MUNUS.LUGAL ... ḫuišwanni innarawani EGIR.UD-MI kappuet"}
+      - {motif: fleece-hung-on-tree-holds-blessings, refs: ["CTH 324.1 §39:257-§40:267"], note: "GIŠeya-az-kan UDU-aš KUŠkuršaš kankanza; in it sheep fat, grain, wine, cattle and sheep, long years and progeny, the gentle message of the lamb, consent and obedience, the right thigh, growth and plenty"}
+    hints:
+      - "The tree of blessing: Q 14:24-25 (the good tree yielding fruit every season), the tree of life (Gen 2:9); the Golden Fleece of Colchis."
+      - "The return of fertility as God's mercy after despair: Q 30:48-50 ('look at the traces of God's mercy, how He revives the earth after its death'), Q 42:28; Hos 2:21-22."
+  - id: ane-cth-324-2-a-dearth-and-bee
+    tradition: ane-hittite
+    title: "Telipinu myth, second version: the dearth, the eagle and the bee (CTH 324.2 §1-7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: second version
+    read: ["CTH 324.2 §1:1-§7:52"]
+    tags:
+      - {motif: fertility-ceases-in-gods-absence, refs: ["CTH 324.2 §1:2-4"], note: "mostly restored from 324.1 §5"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 324.2 §2:5-11"]}
+      - {motif: father-god-laments-absent-son, refs: ["CTH 324.2 §3:12-16"]}
+      - {motif: search-for-vanished-god-fails, refs: ["CTH 324.2 §3:17-§4:26"], note: "the eagle searched the mountains and rivers and did not find him"}
+      - {motif: mother-goddess-sends-bee, refs: ["CTH 324.2 §5:27-29", "CTH 324.2 §6:38-§7:48"], note: "dMAḪ-aš NIM.LÀL-an uiet; the storm god scorns the small bee; Ḫannaḫanna: 'let be, she will go and find him'"}
+      - {motif: bee-to-sting-and-wax-to-cleanse, refs: ["CTH 324.2 §5:30-37"], note: "nan QATI.ḪI.A-ŠU GÌR.ḪI.A-ŠU šiya, naš šar[ā] tittanut; nu-za DUḪ.LÀL dā nan arḫa ān[š] ... parkunut ... šuppiyaḫ ... ammel katta uwate"}
+      - {motif: search-for-vanished-god-fails, refs: ["CTH 324.2 §7:49-52"], note: "the bee searches the high mountains, the rivers, the springs; the finding is lost"}
+    hints:
+      - "The bee and its wax/honey as healing: Q 16:68-69 ('from their bellies comes a drink of varied colours in which there is healing for people'). The hoopoe's search, Q 27:20-22."
+      - "The sleeping god roused: Ps 44:23 ('Awake, why do you sleep, O Lord?'), Ps 78:65; contrast Q 2:255 ('neither drowsiness nor sleep overtakes Him')."
+  - id: ane-cth-324-2-b-analogies-and-vessels
+    tradition: ane-hittite
+    title: "Telipinu myth, second version: the analogies, beer, and the iron vessels below (CTH 324.2 §8-21)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: second version
+    read: ["CTH 324.2 §8:53-§21:98"]
+    tags:
+      - {motif: analogic-offerings-to-soothe-god, refs: ["CTH 324.2 §8:53-§14:71"], note: "galaktar, parḫuena, right thigh, fig, wax that drives out wrath, emmer pure; 'turn to the king, the queen and the princes in good'"}
+      - {motif: beer-makes-angry-man-forget, refs: ["CTH 324.2 §15:72-82"], note: "as wort and malt are joined ... with beer one makes an angry man drunk and his anger vanishes, a careworn man and his care vanishes; so may wort and malt make you, Telipinu, drunk"}
+      - {motif: anger-burned-dried-quenched-by-analogy, refs: ["CTH 324.2 §17:84-§18:89"], note: "let go the wrath, anger, sin, sullenness; as the waters of the pipes do not flow back"}
+      - {motif: anger-sent-down-road-of-netherworld, refs: ["CTH 324.2 §19:90-92"], note: "not into field, garden, wood; the road of the [da]rk earth"}
+      - {motif: anger-sealed-in-bronze-vessels-in-netherworld, refs: ["CTH 324.2 §20:93-§21:98"], note: "variant: in the dark earth lie vessels of iron (AN.BAR), [lids of lead restored]; what goes in does not come up again but perishes"}
+    hints:
+      - "Wine that gladdens and makes forget: Prov 31:6-7 ('give strong drink to the one perishing ... let him drink and forget his misery'), Ps 104:15; contrast Q 5:90-91 and the paradisal drink that causes no intoxication, Q 37:47, 56:19."

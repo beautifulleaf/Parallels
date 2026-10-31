@@ -66,6 +66,15 @@ new_motifs:
   priests-incubate-dreams-for-cause: {label: "All the priests are told to sleep in purity so that one may learn the cause of the disaster in a dream", cluster: divination}
   plague-no-one-reaches-old-age: {label: "Under the plague a man begets a son and grows to manhood but does not live to be old", cluster: theodicy}
   gods-will-blame-humans-for-lack-of-offerings: {label: "If the offerers die, the gods will later hold it against the king as a sin and ask 'Why do you not give us bread and libations?'", cluster: theodicy}
+  gods-turned-back-on-mankind: {label: "Formerly the gods were well disposed and mankind and the gods' servants were numerous; now the gods have turned their back on mankind", cluster: theodicy}
+  oracle-fails-to-find-the-gods: {label: "The king and his father before him sought the gods by oracle but could not find them (the oracle gave no answer)", cluster: divination}
+  king-vows-to-rebuild-temples-and-statues: {label: "The king vows to build a temple for every god who lacks one and to remake as a statue every god whose image was destroyed", cluster: cult}
+  nothing-added-or-removed-from-tablet: {label: "The king swears he added no word to the old tablet and took none away, and does not know whether earlier kings did", cluster: scripture}
+  king-kept-within-god-given-borders: {label: "The king protests that he did not step beyond the borders set by the storm god or left him by his father", cluster: kingship}
+  widowed-egyptian-queen-writes-to-hittite-king: {label: "The widow of the dead king of Egypt writes to the Hittite king (asking for a husband)", cluster: kingship}
+  substitute-sent-to-angry-deity: {label: "A richly dressed woman (or animal) is sent to the angry deity as substitute for the sick person: better, pure, shining and white", cluster: ritual}
+  deity-eats-fat-drinks-blood: {label: "The deity is invited to eat the fat of the sacrificial animals, eat its fill, drink the blood and quench its thirst", cluster: cult}
+  neglected-offering-after-dream-causes-illness: {label: "A queen who saw a goddess in a dream failed to give her an offering, and later her illness is traced to it by oracle", cluster: divination}
 units:
   - id: ane-cth-372-1-sun-hymn-epithets
     tradition: ane-hittite
@@ -501,3 +510,82 @@ units:
     hints:
       - "Compare Ps 88:11-13 and Ps 6:6 (who will praise you in Sheol?) and Q 51:56-57 (I created jinn and men only to worship me; I want no provision from them) as a divergence: the Quranic God needs no feeding."
       - "Compare Q 22:37 (neither their flesh nor their blood reaches God)."
+  - id: ane-cth-378-4-fourth-plague-prayer
+    tradition: ane-hittite
+    title: Muršili II's 'fourth' plague prayer to the assembly of the gods (CTH 378.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 378.4 §1:1-§18:123"]
+    tags:
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 378.4 §1:1"], note: "a roster of the gods of Hatti, Arinna, Zippalanda, Tuwanuwa, Ḫupišna … addressed together"}
+      - {motif: gods-turned-back-on-mankind, refs: ["CTH 378.4 §3:7-22"], note: "antuḫšatar UL taršan ḫarten 'you did not dry up mankind' … antuḫšanni iškiša waḫnutten 'you turned your back on mankind'"}
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 378.4 §3:17-22", "CTH 378.4 §15:88-90"], note: "how can I set the gods right when house, land and troops are dying"}
+      - {motif: king-reminds-gods-of-unequalled-care, refs: ["CTH 378.4 §4:23-33"], note: "the father resettled empty lands and restored what he could of temples and statues"}
+      - {motif: prisoners-of-war-bring-plague, refs: ["CTH 378.4 §5:35-37"], note: "IŠTU UD-UM URU.mizri 'from the day of Egypt' the plague became constant; no prisoners named here"}
+      - {motif: oracle-fails-to-find-the-gods, refs: ["CTH 378.4 §5:38-41"], note: "šumeš DINGIR.MEŠ ariyašešnaz UL wemiyat 'he did not find you through the oracle'"}
+      - {motif: scribe-marks-break-in-original, refs: ["CTH 378.4 §6:42", "CTH 378.4 §10:68", "CTH 378.4 §16:91-92", "CTH 378.4 §17:94-95"], note: "PAB PAB PAB PAB ḫarran 'destroyed … damaged' written by the copyist"}
+      - {motif: king-vows-to-rebuild-temples-and-statues, refs: ["CTH 378.4 §8:49-57"]}
+      - {motif: plague-diverted-to-enemy-lands, refs: ["CTH 378.4 §17:97-101"], note: "here only: send the plague out of the land and let it not return to healed cities"}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 378.4 §17:109"]}
+    hints:
+      - "Compare 1 Sam 28:6 (Saul inquires and YHWH does not answer by dreams, Urim or prophets) with the failed oracle."
+      - "Compare Q 9:18 and Q 2:127 (maintaining God's houses) and Ezra 1-6 for the vow to rebuild temples."
+  - id: ane-cth-378-5-8-fragments
+    tradition: ane-hittite
+    title: Small fragments of Muršili II's plague prayers (CTH 378.5-378.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 378.5", "CTH 378.6", "CTH 378.7", "CTH 378.8"]
+    tags:
+      - {motif: prayer-as-legal-plea, refs: ["CTH 378.5 §2:2-4"], note: "colophon: ŠA m.murši[li … DINGIR.MEŠ-aš] arkuwar 'Muršili's plea to the gods'"}
+      - {motif: scribal-colophon, refs: ["CTH 378.5 §2:2"]}
+      - {motif: plague-diverted-to-enemy-lands, refs: ["CTH 378.6 §2:5"], note: "only '… from Hatti … send!' survives"}
+      - {motif: prince-sent-to-rule-egypt-murdered, refs: ["CTH 378.7 §1:4-8"], note: "fragmentary quoted speech: 'they came … they killed … my father … in Egypt … silver, gold, chariots'"}
+      - {motif: plague-kills-gods-servants-offerings-cease, refs: ["CTH 378.8 §1:4-9"], note: "fragmentary: bread and libations no longer in the lands"}
+  - id: ane-cth-379-plague-prayer-assembly
+    tradition: ane-hittite
+    title: Muršili II's plague prayer to the assembly of the gods; the Egyptian affair (CTH 379)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 379 §1:1-§16:57"]
+    tags:
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 379 §1:1-§6:6"], note: "a long roster: Sun of heaven, Arinna, Mezzulla, storm gods, Ḫebat, Ištar, Telipinu, Zababa, Sun of the earth, Lelwani, Marduk, fate and mother goddesses, place of assembly, place of judgment"}
+      - {motif: gods-of-ugarit-sworn-alongside-overlords-gods, refs: ["CTH 379 §6:6"], note: "foreign gods (Marduk) among the assembly; partial fit"}
+      - {motif: old-tablets-reveal-cause-of-plague, refs: ["CTH 379 §8:23"], note: "'tablet of Egypt', restored"}
+      - {motif: nothing-added-or-removed-from-tablet, refs: ["CTH 379 §9:24-32"], note: "edani … ṬUPPI memiyan ammuk anda UL kuinki teḫḫun; arḫa=ya … UL dāḫḫun"}
+      - {motif: king-kept-within-god-given-borders, refs: ["CTH 379 §10:33-38"]}
+      - {motif: treaty-with-egypt-broken, refs: ["CTH 379 §12:42-44"], note: "Šuppiluliuma sent Lupakki and Tarḫunta-zalma, who struck those lands"}
+      - {motif: widowed-egyptian-queen-writes-to-hittite-king, refs: ["CTH 379 §13:45-§14:51"], note: "DAM LUGAL KUR.mizri wannummiyaš … A-NA A-BU-YA IŠPUR; Muršili was a child and does not know if Egypt made a plea"}
+      - {motif: prayer-as-legal-plea, refs: ["CTH 379 §13:48"]}
+    hints:
+      - "Compare Deut 4:2 and 13:1 (do not add to or take from the word), Q 2:79 and Q 2:75 (those who write the book with their hands and alter the word) and Q 15:9."
+      - "Compare Q 2:190 and 2:229 (do not transgress the limits, ḥudūd Allāh) with not overstepping the god-set borders."
+  - id: ane-cth-380-1-gassuliyawiya-recovery
+    tradition: ane-hittite
+    title: Prayer and substitute ritual for the recovery of Gaššuliyawiya, addressed to Lelwani (CTH 380.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 380.1 §1:1-§7:58"]
+    tags:
+      - {motif: deity-eats-fat-drinks-blood, refs: ["CTH 380.1 §1:8-11", "CTH 380.1 §6:41-44"], note: "UZU.Ì et … išpāi … ešḫar … ninga 'eat the fat, be sated, drink the blood, quench your thirst'"}
+      - {motif: substitute-sent-to-angry-deity, refs: ["CTH 380.1 §2:12-18", "CTH 380.1 §3:34-36", "CTH 380.1 §6:45-50"], note: "tarpaššan unuwandan 'adorned substitute' … SIG5-anza … parkuiš … mišriwanza … ḫarkiš 'better, pure, shining, white'"}
+      - {motif: neglected-offering-after-dream-causes-illness, refs: ["CTH 380.1 §3:27-33"], note: "Ù-az aušta 'saw in a dream'; SÍSKUR UL kuitki pešta"}
+      - {motif: plague-cause-found-by-oracle, refs: ["CTH 380.1 §3:32-33"], note: "here for an illness, not plague"}
+      - {motif: vow-to-proclaim-gods-praise, refs: ["CTH 380.1 §2:25-26", "CTH 380.1 §7:57-58"], note: "walliškezzi … ŠUM-an … memiškezzi 'she will praise you and speak your name'"}
+    hints:
+      - "Compare Gen 22:13 and Lev 16 (substitute animals) and Q 37:107 (ransomed with a great sacrifice)."
+      - "Compare Q 22:37 (neither flesh nor blood reaches God) and Ps 50:13 ('do I eat the flesh of bulls or drink the blood of goats?') as divergences from 'eat the fat, drink the blood'."
+  - id: ane-cth-380-2-3-fragments
+    tradition: ane-hittite
+    title: Colophon fragment (Tawannanna, Lelwani) and a scrap of the Gaššuliyawiya prayer (CTH 380.2, 380.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 380.2", "CTH 380.3"]
+    tags:
+      - {motif: scribal-colophon, refs: ["CTH 380.2 §1:1-4"], note: "'tablet finished; Tawa[nnanna] … concerning illness … to Lelwani an offering'; line §1:2 has no Hittite in the data"}
+      - {motif: personal-gods-plead-healer-intercedes, refs: ["CTH 380.3 §1:1"], note: "only GÉME-TUM 'maidservant' survives; tag only marks the context of a prayer for the sick queen"}
