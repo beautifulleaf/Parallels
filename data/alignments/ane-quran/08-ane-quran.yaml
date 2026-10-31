@@ -1,5 +1,10 @@
 # ANE x Quran side-by-side pass, chunk 8 (ETCSL 2.5.1.2 - 5.7.a, Adapa, Advice to a Prince, Angim, Anzu). Judged blind, from the originals.
 new_motifs:
+  driver-of-the-dead: {label: An officer drives or leads the dead to their destination, cluster: afterlife}
+  god-raises-the-name-of-his-chosen: {label: The god makes the name or renown of his chosen one high and far-reaching, cluster: kingship}
+  drink-served-by-youths-from-many-vessels: {label: Young servers go round with a variety of vessels serving a mixed drink, cluster: afterlife}
+  the-names-of-the-god-and-who-gives-them: {label: 'A god''s set of names: conferred on him by others, or his own', cluster: theology}
+  fear-of-father-humility-before-mother: {label: A decreed order includes reverence and humility toward father and mother, cluster: family}
   earth-shakes-when-the-lord-comes: {label: When the lord comes, the earth quakes or is crushed, cluster: theophany}
   god-sets-the-balance-for-fair-dealing: {label: A god sets up or holds the scales so that weighing in trade is just, cluster: law}
   god-counts-all-people: {label: A god knows the number of all people, having counted them, cluster: theology}
@@ -89,13 +94,36 @@ reviewed:
     matches: []
   - unit: ane-etcsl-2-5-4-27-fifty-names-ishme-dagan
     checked: [quran-7-names-and-hour, quran-38-solomon-horses-throne, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians]
-    matches: []
+    matches:
+      - with: quran-7-names-and-hour
+        motif: the-names-of-the-god-and-who-gives-them
+        refs: ["ETCSL 2.5.4.27 16", "ETCSL 2.5.4.27 17"]
+        with_refs: ["7:180"]
+        relation: divergence
+        record:
+          agent: ["Išme-Dagan (or the high gods)", null]
+          action: ["calls the god by fifty names", "call on God by his names"]
+          number: [50, null]
+          quoted: ["{d}iš-me-{d}da-gan-e kiŋ2 gal-eš2 ma-ra-an-x / mu 50 ma-ra-an-sa4", "wa-li-llāhi l-asmāʾu l-ḥusnā fa-dʿūhu bihā wa-dharū lladhīna yulḥidūna fī asmāʾih"]
+          outcome: ["the god holds fifty names", "those who distort his names will be repaid"]
+        note: "A god's many names as a set: 'he called you by fifty names' (mu 50 ... sa4), conferred on the god (probably Ninurta) after Išme-Dagan's work for him; 'to God belong the most beautiful names, so call on him by them, and leave those who deviate in his names'. In Sumerian the names are given to the god by another; in 7:180 they are God's own, unnumbered, and humans may only use or distort them. The subject of line 17 is not certain."
   - unit: ane-etcsl-2-5-4-29-enki-junior-enlil-ninurta
     checked: [quran-2-throne-verse, quran-23-lordship-arguments, quran-3-sovereignty]
     matches: []
   - unit: ane-etcsl-2-5-4-a-inana-lament-and-justice
-    checked: [quran-6-commandments, quran-46-ahqaf-parents-and-the-scornful-son, quran-4-kindness-misers-atom, quran-40-throne-bearers]
-    matches: []
+    checked: [quran-6-commandments, quran-46-ahqaf-parents-and-the-scornful-son, quran-4-kindness-misers-atom, quran-40-throne-bearers, quran-17-commandments]
+    matches:
+      - with: quran-17-commandments
+        motif: fear-of-father-humility-before-mother
+        refs: ["ETCSL 2.5.4.a Seg.C:5", "ETCSL 2.5.4.a Seg.C:6", "ETCSL 2.5.4.a Seg.C:7"]
+        with_refs: ["17:23", "17:24"]
+        relation: divergence
+        record:
+          agent: ["Išme-Dagan son of Enlil", "your Lord"]
+          action: ["establishes respect for father and humility before mother", "decrees kindness to parents and lowering the wing of humility"]
+          recipient: ["father and mother", "the two parents"]
+          quoted: ["a-a-ra ni2 teŋ3-ŋe26-e ama-ra ni2 su4-ne2 / dumu ab-ba-ra inim-ma-ne2-eš dur2-u3 / arhuš šag4-tur3", "wa-qaḍā rabbuka allā taʿbudū illā iyyāhu wa-bi-l-wālidayni iḥsānā ... wa-khfiḍ lahumā janāḥa dh-dhulli mina r-raḥma"]
+        note: "In a list of ordinances: 'reverence (ni2 teŋ3) toward the father, self-humbling (ni2 su4) toward the mother; the son heeds the word of the elder; compassion (arhuš)'; 17:23-24 'your Lord has decreed ... kindness to parents ... lower to them the wing of humility (al-dhull) out of mercy (raḥma)'. The same pairing of humility and mercy toward parents; in Sumerian it is the king who sets it in Sumer and Akkad, in 17:23 God's decree (qaḍā)."
   - unit: ane-etcsl-2-5-4-b-enki-for-ishme-dagan
     checked: [quran-5-jesus-miracles-table, quran-17-polemic-and-resurrection, quran-43-zukhruf-jesus-and-paradise]
     matches: []
@@ -117,8 +145,20 @@ reviewed:
           quoted: ["an gal dug4-ga-zu niŋ2 mah-am3 a-ba-a šu mi-ni-ib-bal-e", "wa-tammat kalimatu rabbika ṣidqan wa-ʿadlan lā mubaddila li-kalimātihi"]
         note: "'Great An, your word is lofty, who can overturn it (šu bal)?' as a rhetorical question; 6:115 states it: 'no changer of his words' (lā mubaddila). In Sumerian the word is An's decree of the king's fate; in 6:115 God's word 'complete in truth and justice'."
   - unit: ane-etcsl-2-5-6-1-fate-unchangeable-inana-spouse
-    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
-    matches: []
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians, quran-93-94-forenoon-and-expansion]
+    matches:
+      - with: quran-93-94-forenoon-and-expansion
+        motif: god-raises-the-name-of-his-chosen
+        refs: ["ETCSL 2.5.6.1 :57", "ETCSL 2.5.6.1 :58"]
+        with_refs: ["94:4"]
+        relation: echo
+        record:
+          agent: ["Enlil", "God"]
+          action: ["makes the king's name shine to the horizon", "raised the Prophet's renown"]
+          recipient: ["Ur-Ninurta", "the Prophet"]
+          object: ["his name (mu)", "your remembrance (dhikr)"]
+          quoted: ["lugal-ra mu-ni an-zag-še3 pa e3 im-ma-an-ak", "wa-rafaʿnā laka dhikrak"]
+        note: "The high god exalts his chosen one's name: Enlil 'made the king's name appear (pa e3) to the edge of heaven (an-zag)'; 'and we raised high for you your remembrance'. A king's fame across the land against a prophet's renown."
   - unit: ane-etcsl-2-5-7-1-ninurta-adab-bur-suen
     checked: [quran-3-sovereignty, quran-3-badr-uhud, quran-9-closing]
     matches: []
@@ -211,7 +251,7 @@ reviewed:
     checked: [quran-3-sovereignty, quran-2-throne-verse, quran-11-opening-throne-on-water, quran-50-qaf-two-recorders-and-hell-asks-more]
     matches:
       - with: quran-50-qaf-two-recorders-and-hell-asks-more
-        motif: god-escorts-dead-to-netherworld
+        motif: driver-of-the-dead
         refs: ["ETCSL 4.06.1 Seg.A:40"]
         with_refs: ["50:21"]
         relation: divergence
@@ -358,7 +398,18 @@ reviewed:
         note: "šid 'number, count' of the black-headed known to the shepherd god; aḥṣā and ʿadda 'enumerated and counted'. In Sumerian the image is the shepherd who knows his flock's count (13 seeking the ewes and lambs)."
   - unit: ane-etcsl-4-21-1-ninimma
     checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-82-cleaving, quran-3-revelation, quran-25-signs-shadow-seas]
-    matches: []
+    matches:
+      - with: quran-82-cleaving
+        motif: record-of-deeds-at-judgment
+        refs: ["ETCSL 4.21.1 Seg.A:4", "ETCSL 4.21.1 Seg.A:5", "ETCSL 4.21.1 Seg.B:4"]
+        with_refs: ["82:10", "82:11", "82:12"]
+        relation: divergence
+        record:
+          agent: ["Ninimma", "the guardians"]
+          name: ["dub-sar an-na (scribe of heaven)", "kirām kātibūn (noble scribes)"]
+          object: ["the tablet of life", "what you do"]
+          quoted: ["dub-sar an-na-me-en / im nam-til3-la X ŋal2-la-me-en / ŋeštug2 bad niŋ2-nam zu-a-me-en", "wa-inna ʿalaykum la-ḥāfiẓīna kirāman kātibīna yaʿlamūna mā tafʿalūn"]
+        note: "Heavenly scribes and their knowledge: Ninimma is 'scribe of An (dub-sar an-na)', 'holder of the tablet of life', 'wide of ear, who knows everything'; over each person are 'guardians, noble scribes, who know what you do'. One goddess holds a tablet of life; in 82:10-12 a body of scribes writes each person's deeds. Seg.A:5 is partly broken."
   - unit: ane-etcsl-4-26-1-nintur
     checked: [quran-3-imran-mary-zechariah, quran-19-mary-and-jesus, quran-16-daughters-and-the-bee]
     matches: []
@@ -548,7 +599,29 @@ reviewed:
         note: "In both, two parties dispute before the god and the god's sentence closes it: 'your judgment once given is not to be changed, who can overturn it?' (nu-kur2, šu bal) against 'do not dispute before me ... the word is not changed with me' (mā yubaddalu l-qawl). Enlil hears the debate out; God refuses further dispute because the warning was given beforehand (50:28)."
   - unit: ane-etcsl-5-5-a-drinking-song
     checked: [quran-56-waqia-left-hand-and-proofs, quran-76-the-human, quran-56-waqia-three-classes-and-the-garden]
-    matches: []
+    matches:
+      - with: quran-56-waqia-three-classes-and-the-garden
+        motif: drink-served-by-youths-from-many-vessels
+        refs: ["ETCSL 5.5.a 2", "ETCSL 5.5.a 6", "ETCSL 5.5.a 22", "ETCSL 5.5.a 25", "ETCSL 5.5.a 27"]
+        with_refs: ["56:17", "56:18", "56:19"]
+        relation: divergence
+        record:
+          agent: ["the cupbearer and the young men", "immortal youths"]
+          action: ["serve the drink", "go round serving the drink"]
+          instrument: ["mash-tubs and vats and jars", "cups and ewers and a cup from a spring"]
+          quoted: ["{dug}lam-sa2-ri niŋ2 šag4 hul2-hul2-e ... sagi lu2-tur-ra lunga3 bi2-in-gub-en ... kaš naŋ-e", "yaṭūfu ʿalayhim wildānun mukhalladūn bi-akwābin wa-abārīqa wa-kaʾsin min maʿīn / lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn"]
+          outcome: ["the heart rejoices and the liver is happy", "no headache from it and no intoxication"]
+        note: "A drinking scene with servers and a list of vessels: the beer vats (gakkul, lamsari, ugurbal, šaggub, amam) and 'the cupbearer, the young men (lu2-tur) and the brewer stand by'; 'immortal youths go round them with cups, ewers and a cup from a flowing spring'. The effect is reversed: the Sumerian drinker's 'heart is happy, liver joyful' with beer; the drinkers of paradise get 'no headache from it, nor are they intoxicated'."
+      - with: quran-76-the-human
+        motif: drink-served-by-youths-from-many-vessels
+        refs: ["ETCSL 5.5.a 19", "ETCSL 5.5.a 20", "ETCSL 5.5.a 22"]
+        with_refs: ["76:15", "76:17", "76:19"]
+        relation: echo
+        record:
+          agent: ["the cupbearer and the young men", "immortal youths"]
+          action: ["pour beer and wine mixed with syrup", "serve a cup mixed with ginger"]
+          quoted: ["kaš ŋeštin hu-mu-ra-an-bal-bal-e / kurun2 lal3-e ... sagi lu2-tur-ra", "wa-yuṭāfu ʿalayhim bi-āniyatin min fiḍḍatin ... kaʾsan kāna mizājuhā zanjabīlā ... wa-yaṭūfu ʿalayhim wildānun mukhalladūn"]
+        note: "Served drink with an admixture, by youths: beer and wine poured, kurun2 'with syrup' (lal3), 'the cupbearer, the young men'; vessels of silver, 'a cup whose mixture is ginger', served by 'immortal youths'."
   - unit: ane-etcsl-5-6-3-a-preparing-field
     checked: [quran-18-two-gardens, quran-6-pagan-offerings-cattle, quran-68-qalam-companions-of-the-garden]
     matches: []
@@ -751,6 +824,17 @@ reviewed:
           quoted: ["mê balāṭi iqbīšum-ma šū lā išti; adapa zēr amīlūti", "fa-azallahumā sh-shayṭānu ʿanhā ... wa-qulnā hbiṭū ... wa-lakum fī l-arḍi mustaqarrun wa-matāʿun ilā ḥīn"]
           outcome: ["a lordly destiny on earth instead of eternal life", "a dwelling and provision on earth for a time"]
         note: "Adapa 'the seed of humankind' (zēr amīlūti) refuses the water of life and receives from Anu a destiny on earth (bēlūssu ... išīm); Adam is made to slip and is told 'go down; on earth you have a dwelling and enjoyment for a time' (fī l-arḍi mustaqarr wa-matāʿ ilā ḥīn). Restorations in SB e+1 are the editor's."
+      - with: quran-53-najm-vision-and-lote-tree
+        motif: mortal-surveys-heaven-from-horizon-to-height
+        refs: ["Adapa SB –:e+7", "Adapa SB –:e+8"]
+        with_refs: ["53:7", "53:17", "53:18"]
+        relation: echo
+        record:
+          agent: ["Adapa", "the Prophet"]
+          action: ["looks over heaven from its base to its heights and sees its awesomeness", "sees the greatest signs of his Lord"]
+          place: ["from the horizon to the heights of heaven", "the highest horizon and the lote tree of the boundary"]
+          quoted: ["adapa ištu išid šamê ana elât šamê [gabba? ipp]alis-ma puluhtašu īmur", "wa-huwa bi-l-ufuqi l-aʿlā ... mā zāgha l-baṣaru wa-mā ṭaghā la-qad raʾā min āyāti rabbihi l-kubrā"]
+        note: "A man in the heavenly realm surveys it and sees what is awesome there: Adapa 'looked from the base (horizon, išid šamê) of heaven to the heights of heaven and saw its awesomeness (puluhtu)'; in 53:7-18 the vision 'at the highest horizon (al-ufuq al-aʿlā)', 'the sight did not swerve', 'he saw of the greatest signs of his Lord'. The verb in e+8 is restored."
   - unit: ane-advprince-a-king-and-justice
     checked: [quran-38-david-ewe-parable, quran-9-uzayr-clergy, quran-2-fasting, quran-3-sovereignty]
     matches:

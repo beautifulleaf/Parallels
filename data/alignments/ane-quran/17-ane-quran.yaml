@@ -1,0 +1,90 @@
+# ANE x Quran side-by-side pass, chunk 17 (GKAB Uruk/Nimrud/Sultantepe rituals and literary texts; Amarna letters). Judged blind, from the originals.
+new_motifs:
+  evil-spirit-wished-far-away: {label: "An evil spirit attached to a person is wished away to a vast, measured distance", cluster: demons}
+  sacrificial-bovine-of-one-colour-without-spot: {label: "A bovine for a rite must be of one colour with no spot of another colour, sound in body", cluster: ritual}
+  bovine-for-a-rite-never-worked: {label: "A bovine chosen for a rite has never been put to work (never struck with stick or whip, never yoked to plough or water)", cluster: ritual}
+reviewed:
+  - unit: ane-gkab-p348833-o-ii-enemy-turned-back
+    checked: [quran-112-114-unity-and-refuge, quran-3-sovereignty, quran-74-cloaked]
+    matches: []
+  - unit: ane-gkab-p348833-o-iii-figurines-dagger
+    checked: [quran-5-ablution-covenant-justice, quran-3-food-bakka, quran-59-hashr-banu-nadir-and-fay]
+    matches: []
+  - unit: ane-gkab-p348833-r-evil-shut-in
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-54-qamar-ad-thamud-lot-pharaoh, quran-15-iblis]
+    matches: []
+  - unit: ane-gkab-p348834-o-monster-figurines
+    checked: [quran-55-rahman-judgment-and-the-four-gardens, quran-7-wilderness-entry, quran-23-believers-succeed]
+    matches: []
+  - unit: ane-gkab-p348834-r-i-pusher-of-evil
+    checked: [quran-37-ranks-and-guarded-heaven, quran-15-iblis, quran-7-adam-iblis, quran-13-signs-of-creation, quran-43-zukhruf-abraham-and-silver-roofs]
+    matches:
+      - with: quran-43-zukhruf-abraham-and-silver-roofs
+        motif: evil-spirit-wished-far-away
+        refs: ["GKAB P348834 r.i:16-17"]
+        with_refs: ["43:38"]
+        relation: divergence
+        record:
+          agent: [the patient, the man with a devil companion]
+          action: [wishes the evil away from his body, wishes the devil companion away from himself]
+          object: [all evil (ghost, epilepsy, anything evil), "his qarīn, a shayṭān"]
+          number: ["3,600 leagues (šār bēr)", "the distance of the two easts"]
+          quoted: ["lībir nāra libbalkit šadâ lissi šār bēr ina zumrīya", "yā layta baynī wa-baynaka buʿda l-mashriqayn"]
+          outcome: [the foot of evil is cut off (šēp lemutti parsat), the wish is vain on the day he comes to God]
+        note: "Both wish an evil spirit that clings to a person removed to a vast, quantified distance: Akkadian li-is-se ŠAR₂ DANNA ina SU-ia₅ 'may it be 3,600 double-hours distant from my body', after crossing river and mountain; Arabic yā layta baynī wa-baynaka buʿda l-mashriqayn fa-biʾsa l-qarīn. In the ritual the incantation, recited seven times, achieves it; in 43:38 it is a regret spoken too late at judgment."
+      - with: quran-13-signs-of-creation
+        motif: guardian-beings-flank-a-person
+        refs: ["GKAB P348834 r.i:6", "GKAB P348834 r.i:10"]
+        with_refs: ["13:11"]
+        relation: divergence
+        record:
+          agent: [a protective figurine, attendant angels (muʿaqqibāt)]
+          action: [guards a man's sides against evil, guard a man on two sides]
+          place: [his right and his left, before him and behind him]
+          quoted: ["imnaka u šumēlka uṣur lā teggi", "min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu"]
+          outcome: [the evil one is pushed back (sākip lemni), "they guard him by God's command; none turns back God's decree"]
+        note: "A guardian set on two sides of a person: 15-ka u 2.30-ka u₂-ṣur la te-eg-gi 'guard your right and your left, do not slacken', said to the clay image 'that pushes back the evil one'; 13:11 lahu muʿaqqibātun min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu min amri llāh. Right/left in the ritual, before/behind in Q; a made image against angels sent by God."
+  - unit: ane-gkab-p348834-r-ii-door-figures
+    checked: [quran-37-ranks-and-guarded-heaven, quran-37-hell-and-garden, quran-74-cloaked]
+    matches: []
+  - unit: ane-gkab-p348837-flake-bed-ritual
+    checked: [quran-2-the-cow, quran-6-pagan-offerings-cattle, quran-23-creation-of-man-and-gifts]
+    matches: []
+  - unit: ane-gkab-p348838-gilgamesh-underworld
+    checked: [quran-2-talut-jalut, quran-38-solomon-horses-throne, quran-27-solomon-ants-hoopoe-sheba]
+    matches: []
+  - unit: ane-gkab-p363269-kettledrum-bull
+    checked: [quran-2-the-cow, quran-22-abraham-house-pilgrimage, quran-6-mercy-judgment]
+    matches:
+      - with: quran-2-the-cow
+        motif: sacrificial-bovine-of-one-colour-without-spot
+        refs: ["GKAB P363269 o:2-6"]
+        with_refs: ["2:69", "2:71"]
+        relation: divergence
+        record:
+          object: [a bull, a cow]
+          action: [is inspected for colour and soundness, is specified by colour and soundness]
+          name: [black (ṣalmu), "yellow, bright in colour (ṣafrāʾ fāqiʿ)"]
+          quoted: ["alpu šuklulu ṣalmu ... šumma 7 šārtu peṣûtu kīma kakkabi takip ... ul ilaqqe", "ṣafrāʾu fāqiʿun lawnuhā ... musallamatun lā shiyata fīhā"]
+          outcome: [one with seven white hairs like a star is rejected, one without any spot is slaughtered]
+        note: "The same specification of the animal: one colour over the whole body, sound, and no spot of another colour. Akkadian GU₄ ŠU.DU₇ GE₆ 'a complete black bull' whose horns and hooves are intact, inspected by the expert from head to tail; if it is 'flecked with seven white hairs like a star' it is not taken. Arabic baqaratun ṣafrāʾu fāqiʿun lawnuhā ... musallamatun lā shiyata fīhā 'sound, with no blemish/patch on it'. The colour changes: black in Uruk, bright yellow in 2:69."
+      - with: quran-2-the-cow
+        motif: bovine-for-a-rite-never-worked
+        refs: ["GKAB P363269 o:5-6"]
+        with_refs: ["2:71"]
+        relation: parallel
+        record:
+          object: [a bull, a cow]
+          action: [has never been worked, has never been worked]
+          instrument: [stick and whip, plough and irrigation]
+          quoted: ["ina ḫaṭṭi maḫiṣ ina qinnāzi lapit ... ul ilaqqe", "lā dhalūlun tuthīru l-arḍa wa-lā tasqī l-ḥarth"]
+        note: "The animal must never have been used as a working beast: Akkadian ina {giš}NIG₂.GIDRU ma-hi-iṣ ina qin-na-zu la-pit ... ul TI 'if it has been struck with a stick or touched with a whip, it is not taken'; Arabic lā dhalūlun tuthīru l-arḍa wa-lā tasqī l-ḥarth 'not broken in to till the ground or water the field'."
+  - unit: ane-gkab-p363270-kettledrum-incantation
+    checked: [quran-2-throne-verse, quran-22-signs-and-rites, quran-35-originator]
+    matches: []
+  - unit: ane-gkab-p363271-kettledrum-fragment
+    checked: [quran-6-signs-would-not-convince, quran-74-cloaked, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-gkab-p363272-kettledrum-commentary
+    checked: [quran-85-constellations, quran-25-furqan-and-objections, quran-74-cloaked]
+    matches: []
